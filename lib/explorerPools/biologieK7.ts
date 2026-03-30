@@ -73,7 +73,7 @@ export const BIO_K7_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "CellStructureSvg", bg: "#F8FAFC" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔬", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🔬", count: 3 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "cell_structure" }
   },
   {
@@ -201,7 +201,7 @@ export const BIO_K7_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "biologie-diagram", name: "DNAHelixSvg", bg: "#F8FAFC" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 1 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 4 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "cell_division" }
   },
   {
@@ -213,7 +213,7 @@ export const BIO_K7_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "⭕", color: "#3B82F6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "⏳", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "⏳", count: 3 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "cell_cycle" }
   },
   {
@@ -225,7 +225,7 @@ export const BIO_K7_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "✂️", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "✂️", count: 1 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "✂️", count: 3 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "cell_division" }
   },
   {
@@ -315,7 +315,7 @@ export const BIO_K7_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🍃", color: "#10B981" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🟢", count: 1 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🟢", count: 3 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "photosynthesis_detail" }
   },
   {
@@ -345,7 +345,7 @@ export const BIO_K7_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "👄", color: "#F472B6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "💨", count: 1 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "💨", count: 4 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "photosynthesis_detail" }
   }
 ];
@@ -416,7 +416,7 @@ export const BIO_K7_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "MitochondriaSvg", bg: "#FDF2F8" },
-    interactive: { type: "tap-count", tapCount: { emoji: "⚡", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "⚡", count: 3 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "cellular_respiration" }
   },
   {
@@ -428,7 +428,7 @@ export const BIO_K7_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🧩", color: "#64748B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "✂️", count: 1 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "✂️", count: 3 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "cellular_respiration" }
   },
   {
@@ -452,7 +452,7 @@ export const BIO_K7_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "💧", color: "#3B82F6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "💧", count: 1 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "💧", count: 3 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "cellular_respiration" }
   },
   {
@@ -565,13 +565,13 @@ export const BIO_K7_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🐜", color: "#10B981" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🤝", count: 1 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🤝", count: 3 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "population" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "⚖️", color: "#64748B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "⚖️", count: 1 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "⚖️", count: 3 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "population" }
   }
 ];
@@ -648,7 +648,7 @@ export const BIO_K7_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🦟", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🦟", count: 1 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🦟", count: 3 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "symbiosis" }
   },
   {
@@ -684,7 +684,7 @@ export const BIO_K7_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌧️", color: "#3B82F6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "💧", count: 1 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "💧", count: 4 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "biogeochemical_cycles" }
   }
 ];
@@ -755,7 +755,7 @@ export const BIO_K7_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "🛡️", color: "#8E44AD" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🦠", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🦠", count: 4 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "immune_response" }
   },
   {
@@ -785,13 +785,13 @@ export const BIO_K7_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "💉", color: "#3B82F6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "💉", count: 1 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "💉", count: 3 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { generate: "vaccination" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🔥", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🧊", count: 1 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🧊", count: 3 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "immune_response" }
   },
   {
@@ -894,7 +894,7 @@ export const BIO_K7_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🧠", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "💡", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "💡", count: 4 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "brain" }
   },
   {
@@ -906,7 +906,7 @@ export const BIO_K7_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "👁️", color: "#3B82F6" },
-    interactive: { type: "tap-count", tapCount: { emoji: "📡", count: 1 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "📡", count: 4 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "neuron" }
   },
   {
@@ -985,7 +985,7 @@ export const BIO_K7_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "🐢", color: "#D35400" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 4 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "natural_selection" }
   },
   {
@@ -1003,7 +1003,7 @@ export const BIO_K7_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🏝️", color: "#0EA5E9" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🌊", count: 1 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🌊", count: 3 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
     quiz: { generate: "natural_selection" }
   },
   {

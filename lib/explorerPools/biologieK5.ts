@@ -10,6 +10,8 @@ export const BIO_I1_LABELS: Record<string, Record<string, string>> = {
     t1_text: "Fische entnehmen den Sauerstoff direkt aus dem Wasser mithilfe ihrer Kiemen.",
     t1_h1: "Sauerstoff aus dem Wasser", t1_h2: "Kiemen statt Lungen",
     t1_inst: "Wo atmet der Fisch?",
+    t1_q: "Womit atmen Fische?",
+    t1_qa: "Mit Kiemen", t1_qb: "Mit Lungen", t1_qc: "Durch die Haut", t1_qd: "Durch Mundatmung",
     t2_title: "Schuppen & Schleim",
     t2_text: "Die Haut der Fische ist mit Schuppen bedeckt und von einer Schleimschicht überzogen, um den Widerstand im Wasser zu verringern.",
     t2_h1: "Glitschige Schicht", t2_h2: "Schutz vor Parasiten",
@@ -58,8 +60,8 @@ export const BIO_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "#E0F2FE" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "wirbeltiere_fish" }
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Fische atmen mit ihren ___.", choices: ["Kiemen", "Lungen", "Nase", "Haut"], correctIndex: 0 },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
@@ -113,7 +115,7 @@ export const BIO_I2_LABELS: Record<string, Record<string, string>> = {
     t1_title: "Der Schuppenpanzer",
     t1_text: "Reptilien haben eine trockene Haut mit Hornschuppen, die sie vor Austrocknung schützt.",
     t1_h1: "Trocken und fest", t1_h2: "Schutz an Land",
-    t1_inst: "Was ist typisch?",
+    t1_inst: "Reptilien-Haut!",
     t1_q: "Wie ist die Haut der Reptilien?",
     t1_qa: "Trocken und schuppig", t1_qb: "Feucht und nackt", t1_qc: "Rissig", t1_qd: "Schleimig",
     t2_title: "Vogelfedern",
@@ -152,6 +154,8 @@ export const BIO_I2_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Sowohl Reptilien als auch Vögel legen Eier an Land und haben eine Wirbelsäule.",
     t8_h1: "Wirbeltiere", t8_h2: "Ei-Leger",
     t8_inst: "Was passt zu beiden?",
+    t8_q: "Was haben Reptilien und Vögel gemeinsam?",
+    t8_qa: "Beide legen Eier an Land", t8_qb: "Beide können fliegen", t8_qc: "Beide haben Federn", t8_qd: "Beide sind gleichwarm",
   },
 };
 
@@ -159,8 +163,8 @@ export const BIO_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "ReptileAnatomySvg", bg: "#FEF3C7" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "wirbeltiere_reptile" }
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Reptilien haben eine ___ Haut mit Hornschuppen.", choices: ["trockene", "feuchte", "glatte", "schleimige"], correctIndex: 0 },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
@@ -260,7 +264,7 @@ export const BIO_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "MammalAnatomySvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Säugetiere ernähren ihre Jungen mit ___.", choices: ["Muttermilch", "Insekten", "Samen", "Wasser"], correctIndex: 0 },
     quiz: { generate: "wirbeltiere_mammal" }
   },
   {
@@ -350,6 +354,8 @@ export const BIO_I4_LABELS: Record<string, Record<string, string>> = {
     t7_text: "Krautige Pflanzen haben weiche Stängel, während Bäume einen harten, verholzten Stamm bilden.",
     t7_h1: "Holz oder Saft", t7_h2: "Wachstumsformen",
     t7_inst: "Baum oder Kraut?",
+    t7_q: "Was unterscheidet einen Baum von einer krautigen Pflanze?",
+    t7_qa: "Bäume haben einen verholzten Stamm", t7_qb: "Bäume haben keine Wurzeln", t7_qc: "Bäume atmen nicht", t7_qd: "Kräuter haben Holz",
     t8_title: "Anpassungen",
     t8_text: "Pflanzen passen ihre Organe an: Kakteen speichern Wasser im Stamm, Seerosen haben Blätter zum Schwimmen.",
     t8_h1: "Überleben überall", t8_h2: "Spezialformen",
@@ -361,7 +367,7 @@ export const BIO_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "PlantAnatomySvg", bg: "#ECFDF5" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Die Wurzel nimmt ___ aus dem Boden auf.", choices: ["Wasser", "Licht", "Sauerstoff", "Zucker"], correctIndex: 0 },
     quiz: { generate: "pflanzen_plant_parts" }
   },
   {
@@ -385,7 +391,7 @@ export const BIO_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🔬", color: "#64748B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["Spaltöffnungen", "Gasaustausch", "Unterseite", "Verdunstung"], correctIndices: [0, 1, 2, 3] },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" }
   },
   {
@@ -462,7 +468,7 @@ export const BIO_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "FlowerPartsSvg", bg: "#FFF1F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 4 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Kelchblätter", right: "Schutz"}, {left: "Kronblätter", right: "Anlockung"}, {left: "Staubblätter", right: "Pollen"}, {left: "Stempel", right: "Eizelle"}] },
     quiz: { generate: "pflanzen_flower_structure" }
   },
   {
@@ -552,6 +558,8 @@ export const BIO_I6_LABELS: Record<string, Record<string, string>> = {
     t7_text: "Sehnen verbinden Muskeln mit Knochen. Bänder verbinden Knochen mit Knochen und stabilisieren Gelenke.",
     t7_h1: "Verbindungsstücke", t7_h2: "Kraftübertragung",
     t7_inst: "Halte es fest!",
+    t7_q: "Was verbindet Muskeln mit Knochen?",
+    t7_qa: "Sehnen", t7_qb: "Bänder", t7_qc: "Knorpel", t7_qd: "Nerven",
     t8_title: "Gesunde Haltung",
     t8_text: "Regelmäßige Bewegung und eine aufrechte Haltung stärken Knochen und Muskeln und verhindern Schmerzen.",
     t8_h1: "Rücken gerade", t8_h2: "Sport ist gesund",
@@ -563,7 +571,7 @@ export const BIO_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "SkeletonSvg", bg: "#F8FAFC" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Schädel", right: "Kopf"}, {left: "Rippen", right: "Brustkorb"}, {left: "Wirbelsäule", right: "Rücken"}] },
     quiz: { generate: "koerper_skeleton" }
   },
   {
@@ -599,8 +607,8 @@ export const BIO_I6_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🔗", color: "#94A3B8" },
-    interactive: { type: "drag-to-bucket", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", buckets: [{id: "sehne", label: "Sehne"}, {id: "band", label: "Band"}], items: [{text: "Muskel-Knochen", bucketId: "sehne"}, {text: "Knochen-Knochen", bucketId: "band"}] },
-    quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb"], answer: "t7_qa" }
+    interactive: { type: "drag-to-bucket", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", buckets: [{id: "sehne", label: "Sehne"}, {id: "band", label: "Band"}], items: [{text: "Muskel→Knochen", bucketId: "sehne"}, {text: "Knochen→Knochen", bucketId: "band"}, {text: "Bizeps→Arm", bucketId: "sehne"}, {text: "Knie stabilisieren", bucketId: "band"}] },
+    quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
@@ -664,7 +672,7 @@ export const BIO_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "HeartSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Das Herz pumpt ___ durch den Körper.", choices: ["Blut", "Luft", "Wasser", "Saft"], correctIndex: 0 },
     quiz: { generate: "koerper_body_systems" }
   },
   {
@@ -688,7 +696,7 @@ export const BIO_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🥤", color: "#FACC15" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["Nieren", "filtern", "Blut", "Abfallstoffe"], correctIndices: [0, 1, 2, 3] },
     quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" }
   },
   {
@@ -765,7 +773,7 @@ export const BIO_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "EyeSvg", bg: "#F0F9FF" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Im Auge bündelt die ___ das Licht.", choices: ["Linse", "Iris", "Pupille", "Netzhaut"], correctIndex: 0 },
     quiz: { generate: "sinnesorgane_eye" }
   },
   {
@@ -789,7 +797,7 @@ export const BIO_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "✋", color: "#FDBA74" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Die ___ ist das größte Sinnesorgan.", choices: ["Haut", "Lunge", "Nase", "Zunge"], correctIndex: 0 },
     quiz: { generate: "sinnesorgane_skin_sense" }
   },
   {
@@ -872,7 +880,7 @@ export const BIO_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "NutritionPyramidSvg", bg: "#F8FAFC" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    interactive: { type: "match-pairs", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", pairs: [{left: "Wasser & Gemüse", right: "Basis (viel)"}, {left: "Fleisch & Fisch", right: "Mitte (wenig)"}, {left: "Süßigkeiten", right: "Spitze (selten)"}] },
     quiz: { generate: "ernaehrung_healthy_diet" }
   },
   {
@@ -890,7 +898,7 @@ export const BIO_I9_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "⚡", color: "#FACC15" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["Sport", "Energie", "Kalorien", "Bewegung"], correctIndices: [0, 1, 2, 3] },
     quiz: { generate: "ernaehrung_nutrients" }
   },
   {

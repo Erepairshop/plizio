@@ -1483,10 +1483,14 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "word-order") {
+                      // Filter out empty-resolved words; rebuild correctOrder to match filtered array
+                      const woWords = inter.words.map(w => L(w)).filter(w => w !== "");
+                      // correctOrder maps positions; if original is sequential, rebuilt is sequential too
+                      const woCorrectOrder = woWords.map((_, i) => i);
                       return (
                         <WordOrder
-                          words={inter.words.map(w => L(w))}
-                          correctOrder={inter.correctOrder}
+                          words={woWords}
+                          correctOrder={woCorrectOrder}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}
@@ -1528,7 +1532,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                     if (inter.type === "sentence-build") {
                       return (
                         <SentenceBuild
-                          fragments={inter.fragments.map(f => L(f))}
+                          fragments={inter.fragments.map(f => L(f)).filter(f => f !== "")}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}
@@ -1552,10 +1556,20 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "highlight-text") {
+                      // Filter empty-resolved tokens; remap correctIndices to new positions
+                      const htResolved = inter.tokens.map(t => L(t));
+                      const htKeptIdxMap: number[] = [];
+                      const htTokens: string[] = [];
+                      htResolved.forEach((tok, i) => {
+                        if (tok !== "") { htKeptIdxMap.push(i); htTokens.push(tok); }
+                      });
+                      const htCorrectIndices = inter.correctIndices
+                        .map(ci => htKeptIdxMap.indexOf(ci))
+                        .filter(ci => ci !== -1);
                       return (
                         <HighlightText
-                          tokens={inter.tokens.map(t => L(t))}
-                          correctIndices={inter.correctIndices}
+                          tokens={htTokens}
+                          correctIndices={htCorrectIndices}
                           color={color}
                           instruction={L(inter.instruction)}
                           hint1={L(inter.hint1)}

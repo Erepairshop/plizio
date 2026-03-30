@@ -86,20 +86,20 @@ export const BIO_K6_I1_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "ArthropodGroupsSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "arthropods_arthropods" }
+    interactive: { type: "drag-to-bucket", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", buckets: [{id: "glied", label: "Gliederfüßer"}, {id: "kein", label: "Kein Gliederfüßer"}], items: [{text: "Biene", bucketId: "glied"}, {text: "Regenwurm", bucketId: "kein"}, {text: "Spinne", bucketId: "glied"}, {text: "Schnecke", bucketId: "kein"}] },
+    quiz: { generate: "arthropods" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "InsectAnatomySvg", bg: "#F0FDF4" },
     interactive: { type: "highlight-text", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", tokens: ["Kopf", "Brust", "Hinterleib", "sechs", "Beine"], correctIndices: [0, 1, 2, 3, 4] },
-    quiz: { generate: "arthropods_insects" }
+    quiz: { generate: "insects" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "biologie-diagram", name: "SpiderAnatomySvg", bg: "#F8FAFC" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "Spinnen haben ___ Beine.", choices: ["acht", "sechs", "zehn", "vier"], correctIndex: 0 },
-    quiz: { generate: "arthropods_spiders" }
+    quiz: { generate: "spiders" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
@@ -111,7 +111,7 @@ export const BIO_K6_I1_POOL: PoolTopicDef[] = [
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🦋", color: "#A855F7" },
     interactive: { type: "physics-stacker", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "arthropods_metamorphosis" }
+    quiz: { generate: "insects" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
@@ -129,19 +129,19 @@ export const BIO_K6_I1_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🐝", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Königin", right: "Eierlegen"}, {left: "Drohnen", right: "Männchen"}, {left: "Arbeiterin", right: "Sammeln"}] },
-    quiz: { generate: "arthropods_insects" }
+    quiz: { generate: "insects" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text",
     svg: { type: "simple-icon", icon: "🕸️", color: "#CBD5E1" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 4 }, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
-    quiz: { generate: "arthropods_spiders" }
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left: "Spinnenseide", right: "Klebrig"}, {left: "Netz", right: "Falle"}, {left: "Spindrüse", right: "Produktion"}] },
+    quiz: { generate: "spiders" }
   },
   {
     infoTitle: "t10_title", infoText: "t10_text",
     svg: { type: "simple-icon", icon: "🐛", color: "#16A34A" },
     interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Segment", right: "Körperring"}, {left: "Beine", right: "viele"}, {left: "Schutz", right: "Giftklauen"}] },
-    quiz: { generate: "arthropods_arthropods" }
+    quiz: { generate: "arthropods" }
   }
 ];
 
@@ -215,50 +215,50 @@ export const BIO_K6_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "MolluskAnatomySvg", bg: "#F0F9FF" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "mollusks_mollusks" }
+    interactive: { type: "drag-to-bucket", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", buckets: [{id: "weich", label: "Weichtier"}, {id: "kein", label: "Kein Weichtier"}], items: [{text: "Schnecke", bucketId: "weich"}, {text: "Regenwurm", bucketId: "kein"}, {text: "Tintenfisch", bucketId: "weich"}, {text: "Spinne", bucketId: "kein"}] },
+    quiz: { generate: "mollusks" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🐌", color: "#A855F7" },
     interactive: { type: "highlight-text", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", tokens: ["Kriechfuß", "Radula", "Kalk", "Schleim"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "mollusks_snail" }
+    quiz: { generate: "mollusks" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🦪", color: "#94A3B8" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
-    quiz: { generate: "mollusks_mollusks" }
+    interactive: { type: "match-pairs", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", pairs: [{left: "Schale", right: "Zweigeteilt"}, {left: "Atmung", right: "Kiemen"}, {left: "Ernährung", right: "Filtrieren"}] },
+    quiz: { generate: "mollusks" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🦑", color: "#EC4899" },
     interactive: { type: "match-pairs", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", pairs: [{left: "Tentakel", right: "Fangen"}, {left: "Tinte", right: "Flucht"}, {left: "Auge", right: "Sehen"}] },
-    quiz: { generate: "mollusks_mollusks" }
+    quiz: { generate: "mollusks" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "biologie-diagram", name: "WormAnatomySvg", bg: "#FEF2F2" },
     interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Der Regenwurm lockert den ___.", choices: ["Boden", "Himmel", "See", "Schrank"], correctIndex: 0 },
-    quiz: { generate: "mollusks_worm" }
+    quiz: { generate: "worm" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "⛓️", color: "#64748B" },
     interactive: { type: "highlight-text", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", tokens: ["Blutkreislauf", "Nervensystem", "Segmente"], correctIndices: [0, 1, 2] },
-    quiz: { generate: "mollusks_worm" }
+    quiz: { generate: "worm" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🩸", color: "#EF4444" },
     interactive: { type: "match-pairs", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", pairs: [{left: "Blutegel", right: "Sauger"}, {left: "Haut", right: "Atmung"}, {left: "Borsten", right: "Halt"}] },
-    quiz: { generate: "mollusks_worm" }
+    quiz: { generate: "worm" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌊", color: "#3B82F6" },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id: "meer", label: "Meer"}, {id: "land", label: "Land"}], items: [{text: "Krake", bucketId: "meer"}, {text: "Weinbergschnecke", bucketId: "land"}, {text: "Muschel", bucketId: "meer"}, {text: "Regenwurm", bucketId: "land"}] },
-    quiz: { generate: "mollusks_mollusks" }
+    quiz: { generate: "mollusks" }
   }
 ];
 
@@ -334,7 +334,7 @@ export const BIO_K6_I3_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "ForestLayersSvg", bg: "#ECFDF5" },
     interactive: { type: "physics-stacker", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", words: ["Baumschicht", "Strauchschicht", "Krautschicht", "Moosschicht"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_forest_layers" }
+    quiz: { generate: "forest_layers" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
@@ -346,13 +346,13 @@ export const BIO_K6_I3_POOL: PoolTopicDef[] = [
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🌸", color: "#F472B6" },
     interactive: { type: "highlight-text", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", tokens: ["Krautschicht", "Frühling", "Licht", "Blumen"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_forest_layers" }
+    quiz: { generate: "forest_layers" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "biologie-diagram", name: "FoodChainSvg", bg: "#F0FDF4" },
     interactive: { type: "physics-stacker", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_food_chain" }
+    quiz: { generate: "food_chain" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
@@ -363,20 +363,20 @@ export const BIO_K6_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🍄", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 3 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "ecology_decomposition" }
+    interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Pilz", right: "Zersetzer"}, {left: "Bakterien", right: "Abbauen"}, {left: "Laub", right: "Humus"}] },
+    quiz: { generate: "decomposition" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🤝", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", pairs: [{left: "Pilz", right: "Wasser"}, {left: "Baum", right: "Zucker"}, {left: "Beziehung", right: "Vorteil"}] },
-    quiz: { generate: "ecology_forest_layers" }
+    quiz: { generate: "forest_layers" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌳", color: "#166534" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Sauerstoff", "Holz", "Schutz", "Wasser"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_forest_layers" }
+    quiz: { generate: "forest_layers" }
   }
 ];
 
@@ -449,49 +449,49 @@ export const BIO_K6_I4_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "🌊", color: "#3B82F6" },
     interactive: { type: "drag-to-bucket", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", buckets: [{id: "suess", label: "Süßwasser"}, {id: "salz", label: "Salzwasser"}], items: [{text: "See", bucketId: "suess"}, {text: "Ozean", bucketId: "salz"}, {text: "Fluss", bucketId: "suess"}, {text: "Meer", bucketId: "salz"}] },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "LakeZonesSvg", bg: "#E0F2FE" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "ecology_freshwater" }
+    interactive: { type: "match-pairs", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", pairs: [{left: "Litoral", right: "Uferzone"}, {left: "Pelagial", right: "Freiwasser"}, {left: "Pflanzen", right: "Ufer"}] },
+    quiz: { generate: "freshwater" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🦠", color: "#10B981" },
     interactive: { type: "match-pairs", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", pairs: [{left: "Phyto", right: "Pflanzlich"}, {left: "Zoo", right: "Tierisch"}, {left: "Licht", right: "Energie"}] },
-    quiz: { generate: "ecology_water_organisms" }
+    quiz: { generate: "water_organisms" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🐟", color: "#0EA5E9" },
     interactive: { type: "highlight-text", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", tokens: ["Stromlinienform", "Flossen", "Widerstand", "Wasser"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_water_organisms" }
+    quiz: { generate: "water_organisms" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🦈", color: "#64748B" },
     interactive: { type: "physics-stacker", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", words: ["Algen", "Krebse", "Hering", "Hai"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🕯️", color: "#FACC15" },
     interactive: { type: "gap-fill", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", sentence: "In der Tiefsee ist es ___.", choices: ["dunkel", "hell", "warm", "bunt"], correctIndex: 0 },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🪸", color: "#FB7185" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "ecology_saltwater" }
+    interactive: { type: "match-pairs", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", pairs: [{left: "Koralle", right: "Polyp"}, {left: "Riff", right: "Lebensraum"}, {left: "Bedrohung", right: "Erwärmung"}] },
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🚮", color: "#EF4444" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Plastik", "Schutz", "Lebensraum", "Wasser"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_freshwater" }
+    quiz: { generate: "freshwater" }
   }
 ];
 
@@ -565,50 +565,50 @@ export const BIO_K6_I5_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "BloodCellsSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "blood_blood_components" }
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Rote Zellen", right: "Sauerstoff"}, {left: "Weiße Zellen", right: "Abwehr"}, {left: "Plasma", right: "Flüssigkeit"}] },
+    quiz: { generate: "blood_components" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🔴", color: "#EF4444" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "Rote Zellen transportieren ___.", choices: ["Sauerstoff", "Zucker", "Fett", "Müll"], correctIndex: 0 },
-    quiz: { generate: "blood_blood_components" }
+    quiz: { generate: "blood_components" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "⚪", color: "#F8FAFC" },
     interactive: { type: "highlight-text", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", tokens: ["Weiße", "Blutzellen", "Abwehr", "Polizei"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "blood_blood_components" }
+    quiz: { generate: "blood_components" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🩹", color: "#FDBA74" },
     interactive: { type: "match-pairs", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", pairs: [{left: "Gerinnung", right: "Plättchen"}, {left: "Sauerstoff", right: "Rote"}, {left: "Abwehr", right: "Weiße"}] },
-    quiz: { generate: "blood_blood_components" }
+    quiz: { generate: "blood_components" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "biologie-diagram", name: "HeartSvg", bg: "#FEF2F2" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
-    quiz: { generate: "blood_heart" }
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Das Herz schlägt in Ruhe ___ mal pro Minute.", choices: ["60–80 Mal", "10–20 Mal", "200 Mal", "500 Mal"], correctIndex: 0 },
+    quiz: { generate: "heart" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "biologie-diagram", name: "HeartInternalSvg", bg: "#FEF2F2" },
-    interactive: { type: "physics-stacker", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", words: ["Vorhof", "Kammer", "Vene", "Arterie"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "blood_heart" }
+    interactive: { type: "physics-stacker", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", words: ["Vene", "Vorhof", "Kammer", "Arterie"], correctOrder: [0, 1, 2, 3] },
+    quiz: { generate: "heart" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🚪", color: "#94A3B8" },
     interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 4 }, instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
-    quiz: { generate: "blood_heart" }
+    quiz: { generate: "heart" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "💓", color: "#EF4444" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Bei Sport wird der Puls ___.", choices: ["höher", "niedriger", "langsamer", "gar nicht"], correctIndex: 0 },
-    quiz: { generate: "blood_heart" }
+    quiz: { generate: "heart" }
   }
 ];
 
@@ -683,49 +683,49 @@ export const BIO_K6_I6_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "CirculationSvg", bg: "#F8FAFC" },
     interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Vom Herz", right: "Arterie"}, {left: "Zum Herz", right: "Vene"}, {left: "Austausch", right: "Kapillare"}] },
-    quiz: { generate: "blood_circulation" }
+    quiz: { generate: "circulation" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🕸️", color: "#F87171" },
     interactive: { type: "highlight-text", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", tokens: ["Kapillaren", "kleinsten", "Gefäße", "Stoffaustausch"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "blood_circulation" }
+    quiz: { generate: "circulation" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🔄", color: "#3B82F6" },
     interactive: { type: "gap-fill", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", sentence: "Der kleine Kreislauf führt zur ___.", choices: ["Lunge", "Hand", "Nase", "Leber"], correctIndex: 0 },
-    quiz: { generate: "blood_circulation" }
+    quiz: { generate: "circulation" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🩺", color: "#64748B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb"], answer: "t4_qa" }
+    interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Der Blutdruck wird am ___ gemessen.", choices: ["Arm", "Bein", "Kopf", "Rücken"], correctIndex: 0 },
+    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "➰", color: "#EF4444" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
-    quiz: { generate: "blood_circulation" }
+    interactive: { type: "gap-fill", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", sentence: "Die ___ ist die größte Schlagader des Körpers.", choices: ["Aorta", "Vene", "Kapillare", "Lymphe"], correctIndex: 0 },
+    quiz: { generate: "circulation" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🩸", color: "#991B1B" },
     interactive: { type: "drag-to-bucket", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", buckets: [{id: "pos", label: "Rh+"}, {id: "neg", label: "Rh-"}], items: [{text: "A+", bucketId: "pos"}, {text: "B-", bucketId: "neg"}, {text: "0+", bucketId: "pos"}, {text: "AB-", bucketId: "neg"}] },
-    quiz: { generate: "blood_blood_types" }
+    quiz: { generate: "blood_types" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "⚠️", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", pairs: [{left: "Infarkt", right: "Herz"}, {left: "Schlag", right: "Gehirn"}, {left: "Sport", right: "Schutz"}] },
-    quiz: { generate: "blood_circulation" }
+    quiz: { generate: "circulation" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌡️", color: "#F87171" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Wärme", "Verteilung", "Transport", "System"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "blood_circulation" }
+    quiz: { generate: "circulation" }
   }
 ];
 
@@ -800,49 +800,49 @@ export const BIO_K6_I7_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "biologie-diagram", name: "LungsSvg", bg: "#F0F9FF" },
     interactive: { type: "physics-stacker", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", words: ["Nase", "Rachen", "Kehlkopf", "Luftröhre"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "lungs_respiration" }
+    quiz: { generate: "respiration" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🫁", color: "#F87171" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 2 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
-    quiz: { generate: "lungs_respiration" }
+    interactive: { type: "tap-count", tapCount: { emoji: "🫁", count: 2 }, instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
+    quiz: { generate: "lungs" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🔄", color: "#3B82F6" },
     interactive: { type: "highlight-text", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", tokens: ["Bläschen", "Sauerstoff", "Blut", "Kohlendioxid"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "lungs_gas_exchange" }
+    quiz: { generate: "gas_exchange" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🌬️", color: "#94A3B8" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Das ___ zieht sich zusammen.", choices: ["Zwerchfell", "Herz", "Bein", "Ohr"], correctIndex: 0 },
-    quiz: { generate: "lungs_respiration" }
+    quiz: { generate: "respiration" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🧹", color: "#64748B" },
     interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["Flimmerhärchen", "Schleim", "Staub", "reinigen"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "lungs_respiration" }
+    quiz: { generate: "lungs" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🗣️", color: "#F472B6" },
     interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Kehlkopf", right: "Stimme"}, {left: "Bänder", right: "Schwingung"}, {left: "Luft", right: "Antrieb"}] },
-    quiz: { generate: "lungs_respiration" }
+    quiz: { generate: "respiration" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🚭", color: "#EF4444" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "Rauchen schädigt die ___.", choices: ["Lunge", "Nase", "Hand", "Frisur"], correctIndex: 0 },
-    quiz: { generate: "lungs_respiration" }
+    quiz: { generate: "lungs" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🏃", color: "#10B981" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Sport", right: "Schnell"}, {left: "Schlaf", right: "Langsam"}, {left: "Sauerstoff", right: "Bedarf"}] },
-    quiz: { generate: "lungs_respiration" }
+    quiz: { generate: "respiration" }
   }
 ];
 
@@ -916,50 +916,50 @@ export const BIO_K6_I8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "📈", color: "#F59E0B" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
-    quiz: { generate: "pubertaet_hormones" }
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Die Veränderungen in der Pubertät werden durch ___ gesteuert.", choices: ["Hormone", "Nahrung", "Sport", "Schlaf"], correctIndex: 0 },
+    quiz: { generate: "hormones" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "biologie-diagram", name: "MaleReproSvg", bg: "#EFF6FF" },
     interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "Hoden produzieren ___.", choices: ["Spermien", "Eizellen", "Blut", "Speichel"], correctIndex: 0 },
-    quiz: { generate: "pubertaet_male_repro" }
+    quiz: { generate: "male_repro" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "biologie-diagram", name: "FemaleReproSvg", bg: "#FDF2F8" },
     interactive: { type: "highlight-text", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", tokens: ["Eierstöcke", "Gebärmutter", "Eizellen", "heranreifen"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "pubertaet_female_repro" }
+    quiz: { generate: "female_repro" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🗓️", color: "#EC4899" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 28 }, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
-    quiz: { generate: "pubertaet_female_repro" }
+    interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Der Menstruationszyklus dauert etwa ___ Tage.", choices: ["28 Tage", "7 Tage", "365 Tage", "90 Tage"], correctIndex: 0 },
+    quiz: { generate: "female_repro" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "✨", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", pairs: [{left: "Spermium", right: "Eizelle"}, {left: "Verschmelzung", right: "Befruchtung"}, {left: "Eileiter", right: "Ort"}] },
-    quiz: { generate: "pubertaet_female_repro" }
+    quiz: { generate: "female_repro" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "👶", color: "#F472B6" },
     interactive: { type: "highlight-text", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", tokens: ["Schwangerschaft", "9 Monate", "Gebärmutter", "Wachstum"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "pubertaet_female_repro" }
+    quiz: { generate: "female_repro" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🧪", color: "#8B5CF6" },
     interactive: { type: "match-pairs", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", pairs: [{left: "Hormon", right: "Bote"}, {left: "Drüse", right: "Fabrik"}, {left: "Blut", right: "Transport"}] },
-    quiz: { generate: "pubertaet_hormones" }
+    quiz: { generate: "hormones" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🤝", color: "#10B981" },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id: "wichtig", label: "Wichtig"}, {id: "egal", label: "Unwichtig"}], items: [{text: "Hygiene", bucketId: "wichtig"}, {text: "Respekt", bucketId: "wichtig"}, {text: "Ignoranz", bucketId: "egal"}, {text: "Pflege", bucketId: "wichtig"}] },
-    quiz: { generate: "pubertaet_hormones" }
+    quiz: { generate: "hormones" }
   }
 ];
 
@@ -1028,48 +1028,48 @@ export const BIO_K6_I9_POOL: PoolTopicDef[] = [
     infoTitle: "t1_title", infoText: "t1_text",
     svg: { type: "simple-icon", icon: "🐝", color: "#FACC15" },
     interactive: { type: "drag-to-bucket", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", buckets: [{id: "ins", label: "Insekt"}, {id: "spi", label: "Spinne"}], items: [{text: "Biene", bucketId: "ins"}, {text: "Kreuzspinne", bucketId: "spi"}, {text: "Käfer", bucketId: "ins"}, {text: "Wolfsspinne", bucketId: "spi"}] },
-    quiz: { generate: "arthropods_arthropods" }
+    quiz: { generate: "arthropods" }
   },
   {
     infoTitle: "t2_title", infoText: "t2_text",
     svg: { type: "simple-icon", icon: "🐚", color: "#94A3B8" },
     interactive: { type: "highlight-text", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", tokens: ["Schnecke", "Muschel", "Tintenfisch", "Weichtiere"], correctIndices: [0, 1, 2, 3] },
-    quiz: { generate: "mollusks_mollusks" }
+    quiz: { generate: "mollusks" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
     svg: { type: "simple-icon", icon: "🌳", color: "#166534" },
     interactive: { type: "physics-stacker", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", words: ["Baumschicht", "Strauchschicht", "Krautschicht", "Moosschicht"], correctOrder: [0, 1, 2, 3] },
-    quiz: { generate: "ecology_food_chain" }
+    quiz: { generate: "food_chain" }
   },
   {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "🌊", color: "#3B82F6" },
     interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Ozeane enthalten ___.", choices: ["Salzwasser", "Süßwasser", "Cola", "Milch"], correctIndex: 0 },
-    quiz: { generate: "ecology_saltwater" }
+    quiz: { generate: "saltwater" }
   },
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🩸", color: "#EF4444" },
     interactive: { type: "match-pairs", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", pairs: [{left: "Rote", right: "Sauerstoff"}, {left: "Weiße", right: "Abwehr"}, {left: "Plättchen", right: "Gerinnung"}] },
-    quiz: { generate: "blood_blood_components" }
+    quiz: { generate: "blood_components" }
   },
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🫁", color: "#F87171" },
-    interactive: { type: "tap-count", tapCount: { emoji: "🔴", count: 1 }, instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
-    quiz: { generate: "lungs_respiration" }
+    interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Lunge", right: "Gasaustausch"}, {left: "Zwerchfell", right: "Atempumpe"}, {left: "CO2", right: "Ausatmen"}] },
+    quiz: { generate: "respiration" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
     svg: { type: "simple-icon", icon: "🧪", color: "#8B5CF6" },
     interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "Männliches Hormon: ___.", choices: ["Testosteron", "Östrogen", "Insulin", "Wasser"], correctIndex: 0 },
-    quiz: { generate: "pubertaet_hormones" }
+    quiz: { generate: "hormones" }
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🎓", color: "#64748B" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Zelle", right: "Leben"}, {left: "Wald", right: "System"}, {left: "Blut", right: "Fluss"}] },
-    quiz: { generate: "arthropods_insects" }
+    quiz: { generate: "insects" }
   }
 ];
