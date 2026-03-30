@@ -8,6 +8,7 @@ import { K8_CURRICULUM, getK8Questions } from "@/lib/physikCurriculum8";
 // Self-register all generators
 import "@/lib/physikRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { PHYSIK_VISUAL_TYPES } from "@/lib/physikVisualGenerators";
 
 const PHYSIK_CHARS = ["⚛️", "🔬", "⚡", "🧲", "🌊", "💡", "🌡️", "🔊", "🚀", "🔭", "⚙️", "🌍", "🔋", "🧪", "☢️", "📡"];
 const PHYSIK_COLORS = [
@@ -49,6 +50,7 @@ const PHYSIK_CONFIG: LanguageTestEngineConfig = {
     7: K7_CURRICULUM,
     8: K8_CURRICULUM,
   } as any,
+  visualTypes: PHYSIK_VISUAL_TYPES,
 
   getQuestions: (grade, subtopicIds, count) => {
     if (grade === 5) return getK5Questions(subtopicIds, count);
