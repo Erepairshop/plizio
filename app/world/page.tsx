@@ -63,6 +63,8 @@ const GAME_NAMES: Record<string, string> = {
   deductiongrid: "Deduction Grid",
   deductiongrid2: "Galactic Deduction",
   timeecho: "Time Echo",
+  shadowswitch: "Shadow Switch",
+  signaldecoder: "Signal Decoder",
   patternforge: "Pattern Forge",
 };
 

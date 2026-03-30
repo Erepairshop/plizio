@@ -47,8 +47,8 @@ interface LevelDef {
 const ARENA_SIZE = 400; // px
 const PLAYER_SIZE = 24;
 const TARGET_SIZE = 30;
-const RECORD_INTERVAL = 100; // ms
-const TICK_RATE = 16; // ~60fps
+const ECHO_TRAIL_STEPS = 10;
+const PHASE_LIMIT_BASE = 500;
 
 const SAVE_KEY = "timeecho_expedition_v1";
 
@@ -76,6 +76,7 @@ const T = {
     completed: "Archived",
     current: "Active",
     dead: "TIME LOOP BROKEN",
+    timeout: "The loop collapsed before you finished.",
     selection: "Level Selection",
     footer1: "Record your route",
     footer2: "Avoid the echo",
@@ -105,6 +106,7 @@ const T = {
     completed: "Archiválva",
     current: "Aktív",
     dead: "IDŐHUROK MEGSZAKADT",
+    timeout: "Túl lassú voltál, mielőtt lezárult a hurok.",
     selection: "Szintválasztó",
     footer1: "Rögzítsd az utadat",
     footer2: "Kerüld el a visszhangot",
@@ -134,6 +136,7 @@ const T = {
     completed: "Fertig",
     current: "Aktiv",
     dead: "ZEITSCHLEIFE GEBROCHEN",
+    timeout: "Die Schleife ist zusammengebrochen, bevor du fertig warst.",
     selection: "Levelauswahl",
     footer1: "Zeichne deinen Weg auf",
     footer2: "Weiche dem Echo aus",
@@ -163,6 +166,7 @@ const T = {
     completed: "Gata",
     current: "Activ",
     dead: "BUCLA TIMPULUI S-A RUPT",
+    timeout: "Bucla s-a prăbușit înainte să termini.",
     selection: "Alegerea nivelului",
     footer1: "Înregistrează traseul",
     footer2: "Evită ecoul",
@@ -234,6 +238,7 @@ const LEVELS: LevelDef[] = [
     obstacles: [
       { x: 50, y: 150, w: 100, h: 20, type: "moving", moveDir: "h", dist: 200, speed: 2 },
       { x: 250, y: 250, w: 100, h: 20, type: "moving", moveDir: "h", dist: -200, speed: 2 },
+      { x: 185, y: 40, w: 30, h: 100, type: "moving", moveDir: "v", dist: 180, speed: 2.4 },
     ],
     targets1: [{ x: 200, y: 50 }, { x: 200, y: 350 }],
     targets2: [{ x: 50, y: 200 }, { x: 350, y: 200 }],
@@ -246,9 +251,10 @@ const LEVELS: LevelDef[] = [
       { x: 100, y: 250, w: 20, h: 150, type: "static" },
       { x: 280, y: 0, w: 20, h: 150, type: "static" },
       { x: 280, y: 250, w: 20, h: 150, type: "static" },
+      { x: 150, y: 185, w: 100, h: 30, type: "moving", moveDir: "h", dist: 80, speed: 2.6 },
     ],
-    targets1: [{ x: 50, y: 200 }, { x: 200, y: 200 }],
-    targets2: [{ x: 350, y: 200 }, { x: 200, y: 50 }],
+    targets1: [{ x: 50, y: 200 }, { x: 200, y: 200 }, { x: 350, y: 200 }],
+    targets2: [{ x: 350, y: 200 }, { x: 200, y: 50 }, { x: 200, y: 350 }],
   },
   {
     level: 9,
@@ -257,6 +263,7 @@ const LEVELS: LevelDef[] = [
       { x: 50, y: 50, w: 20, h: 300, type: "static" },
       { x: 330, y: 50, w: 20, h: 300, type: "static" },
       { x: 150, y: 190, w: 100, h: 20, type: "static" },
+      { x: 155, y: 95, w: 90, h: 18, type: "moving", moveDir: "v", dist: 180, speed: 2.8 },
     ],
     targets1: [{ x: 25, y: 25 }, { x: 375, y: 375 }, { x: 25, y: 375 }],
     targets2: [{ x: 375, y: 25 }, { x: 200, y: 100 }, { x: 200, y: 300 }],
@@ -267,9 +274,11 @@ const LEVELS: LevelDef[] = [
     obstacles: [
       { x: 190, y: 0, w: 20, h: 400, type: "static" },
       { x: 0, y: 190, w: 400, h: 20, type: "static" },
+      { x: 70, y: 70, w: 80, h: 18, type: "moving", moveDir: "h", dist: 90, speed: 3 },
+      { x: 250, y: 310, w: 80, h: 18, type: "moving", moveDir: "h", dist: -90, speed: 3 },
     ],
-    targets1: [{ x: 50, y: 50 }, { x: 350, y: 350 }],
-    targets2: [{ x: 350, y: 50 }, { x: 50, y: 350 }],
+    targets1: [{ x: 50, y: 50 }, { x: 350, y: 350 }, { x: 350, y: 50 }],
+    targets2: [{ x: 350, y: 50 }, { x: 50, y: 350 }, { x: 50, y: 50 }],
   },
 ];
 
@@ -286,6 +295,12 @@ function loadSave(): { currentLevel: number; completedLevels: number[] } {
 
 function writeSave(save: { currentLevel: number; completedLevels: number[] }) {
   localStorage.setItem(SAVE_KEY, JSON.stringify(save));
+}
+
+function getPhaseTickLimit(level: number, phase: Phase) {
+  const levelPressure = Math.max(0, level - 1) * 18;
+  const echoPenalty = phase === "echo" ? 45 : 0;
+  return Math.max(260, PHASE_LIMIT_BASE - levelPressure - echoPenalty);
 }
 
 // ─── Component ───────────────────────────────────────────────
@@ -323,6 +338,7 @@ function TimeEchoContent() {
   const [recordPath, setRecordPath] = useState<Point[]>([]);
   const [collectedCount, setCollectedCount] = useState(0);
   const [isDead, setIsDead] = useState(false);
+  const [deathReason, setDeathReason] = useState("");
   const [tick, setTick] = useState(0);
   const [reward, setReward] = useState<{ rarity: Rarity; score: number; total: number } | null>(null);
   const [milestoneKey, setMilestoneKey] = useState(0);
@@ -337,6 +353,8 @@ function TimeEchoContent() {
 
   const currentLevel = LEVELS.find(l => l.level === activeLevel) ?? LEVELS[0];
   const targets = phase === "recording" ? currentLevel.targets1 : currentLevel.targets2;
+  const phaseTickLimit = getPhaseTickLimit(activeLevel, phase);
+  const timeLeft = Math.max(0, Math.ceil((phaseTickLimit - tick) / 60));
 
   // Init
   useEffect(() => {
@@ -370,6 +388,7 @@ function TimeEchoContent() {
     setRecordPath([]);
     setCollectedCount(0);
     setIsDead(false);
+    setDeathReason("");
     setTick(0);
     setScreen("playing");
     incrementTotalGames();
@@ -395,18 +414,25 @@ function TimeEchoContent() {
       dy = joystickRef.current.y;
     }
 
-    const speed = 4;
+    const speed = phase === "echo" ? 4.6 : 4;
     const nextPos = {
       x: Math.max(PLAYER_SIZE/2, Math.min(ARENA_SIZE - PLAYER_SIZE/2, playerPos.x + dx * speed)),
       y: Math.max(PLAYER_SIZE/2, Math.min(ARENA_SIZE - PLAYER_SIZE/2, playerPos.y + dy * speed)),
     };
+
+    if (tick >= phaseTickLimit) {
+      setDeathReason(t.timeout);
+      setIsDead(true);
+      return;
+    }
 
     // 2. Collision with Obstacles
     const hitObstacle = currentLevel.obstacles.some(obs => {
       let ox = obs.x;
       let oy = obs.y;
       if (obs.type === "moving") {
-        const offset = Math.sin(tick * 0.05 * obs.speed!) * obs.dist!;
+        const dynamicSpeed = phase === "echo" ? obs.speed! * 1.2 : obs.speed!;
+        const offset = Math.sin(tick * 0.05 * dynamicSpeed) * obs.dist!;
         if (obs.moveDir === "h") ox += offset;
         else oy += offset;
       }
@@ -419,19 +445,22 @@ function TimeEchoContent() {
     });
 
     if (hitObstacle) {
+      setDeathReason(t.wrong);
       setIsDead(true);
       return;
     }
 
     // 3. Collision with Echo
     if (phase === "echo") {
-      const echoPos = recordPath[tick];
-      if (echoPos) {
-        const dist = Math.sqrt((nextPos.x - echoPos.x)**2 + (nextPos.y - echoPos.y)**2);
-        if (dist < PLAYER_SIZE) {
-          setIsDead(true);
-          return;
-        }
+      const echoTrail = recordPath.slice(Math.max(0, tick - ECHO_TRAIL_STEPS + 1), tick + 1);
+      const hitEcho = echoTrail.some((echoPos) => {
+        const dist = Math.sqrt((nextPos.x - echoPos.x) ** 2 + (nextPos.y - echoPos.y) ** 2);
+        return dist < PLAYER_SIZE * 0.9;
+      });
+      if (hitEcho) {
+        setDeathReason(t.wrong);
+        setIsDead(true);
+        return;
       }
     }
 
@@ -500,6 +529,7 @@ function TimeEchoContent() {
         setPlayerPos({ x: 200, y: 380 });
         setTick(0);
         setCollectedIndices(new Set());
+        setDeathReason("");
       } else {
         // Level Complete
         handleWin();
@@ -682,8 +712,13 @@ function TimeEchoContent() {
               <div className="font-bold text-xs sm:text-sm tracking-tight truncate">{currentLevel.title}</div>
             </div>
           </div>
-          <div className={`px-2.5 sm:px-4 py-1.5 rounded-full border text-[9px] sm:text-[10px] font-black tracking-[0.15em] sm:tracking-widest ${phase === "recording" ? 'border-amber-500/50 text-amber-400 bg-amber-500/10' : 'border-purple-500/50 text-purple-400 bg-purple-500/10 shadow-[0_0_15px_rgba(168,85,247,0.3)]'}`}>
-            {phase === "recording" ? t.recordPhase : t.echoPhase}
+          <div className="flex items-center gap-2">
+            <div className={`px-2.5 sm:px-4 py-1.5 rounded-full border text-[9px] sm:text-[10px] font-black tracking-[0.15em] sm:tracking-widest ${phase === "recording" ? 'border-amber-500/50 text-amber-400 bg-amber-500/10' : 'border-purple-500/50 text-purple-400 bg-purple-500/10 shadow-[0_0_15px_rgba(168,85,247,0.3)]'}`}>
+              {phase === "recording" ? t.recordPhase : t.echoPhase}
+            </div>
+            <div className="px-2.5 sm:px-3 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/10 text-[9px] sm:text-[10px] font-black tracking-widest text-cyan-300">
+              {timeLeft}s
+            </div>
           </div>
         </div>
 
@@ -735,18 +770,24 @@ function TimeEchoContent() {
             ))}
 
             {/* Echo Ghost */}
-            {phase === "echo" && recordPath[tick] && (
-              <div 
-                className="absolute rounded-full border-2 border-purple-500/50 bg-purple-500/20 shadow-[0_0_20px_rgba(168,85,247,0.5)]"
-                style={{ 
-                  left: recordPath[tick].x - 12, top: recordPath[tick].y - 12, 
-                  width: 24, height: 24,
-                  transition: 'none'
-                }}
-              >
-                <div className="absolute inset-0 rounded-full animate-ping bg-purple-500/30" />
-              </div>
-            )}
+            {phase === "echo" && recordPath.slice(Math.max(0, tick - ECHO_TRAIL_STEPS + 1), tick + 1).map((pos, index, arr) => {
+              const opacity = (index + 1) / arr.length;
+              const size = 12 + opacity * 12;
+              return (
+                <div
+                  key={`${pos.x}-${pos.y}-${index}`}
+                  className="absolute rounded-full border border-purple-500/40 bg-purple-500/20 shadow-[0_0_16px_rgba(168,85,247,0.35)]"
+                  style={{
+                    left: pos.x - size / 2,
+                    top: pos.y - size / 2,
+                    width: size,
+                    height: size,
+                    opacity,
+                    transition: "none",
+                  }}
+                />
+              );
+            })}
 
             {/* Player */}
             {!isDead && (
@@ -772,7 +813,7 @@ function TimeEchoContent() {
                 >
                   <AlertCircle size={48} className="text-rose-500 mb-4" />
                   <h3 className="text-2xl font-black text-white mb-2">{t.dead}</h3>
-                  <p className="text-rose-200/60 text-sm mb-6 uppercase tracking-widest font-mono">{t.wrong}</p>
+                  <p className="text-rose-200/60 text-sm mb-6 uppercase tracking-widest font-mono">{deathReason || t.wrong}</p>
                   <button 
                     onClick={() => startLevel(activeLevel)}
                     className="px-8 py-3 bg-rose-600 text-white rounded-xl font-black flex items-center gap-2 hover:bg-rose-500 transition-colors"

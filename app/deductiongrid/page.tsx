@@ -37,7 +37,7 @@ const SAVE_KEY = "deductiongrid_expedition_v1";
 const T = {
   en: {
     title: "DEDUCTION GRID",
-    subtitle: "Read the clues, lock the matches and solve 10 logic levels.",
+    subtitle: "Read the clues, match the pairs and solve 10 logic levels.",
     home: "Home",
     progress: "Progress",
     expeditionMap: "Expedition Map",
@@ -45,7 +45,7 @@ const T = {
     levelsOf: "levels",
     howToPlay: "How to play?",
     how1: "Read every clue before you place a match.",
-    how2: "Tap one cell per row to connect a suspect with a location.",
+    how2: "Tap one cell in each row to match a person with a place.",
     how3: "Use the Check button once your grid is complete.",
     clues: "Clues",
     checkGrid: "Check grid",
@@ -61,7 +61,7 @@ const T = {
     levelDone: "✅ LEVEL DONE!",
     bossDone: "🏆 COMPLETE!",
     locked: "LOCKED",
-    solvePrompt: "Solve the deduction grid by matching each row to exactly one column.",
+    solvePrompt: "Match each row with exactly one column.",
     completed: "Completed",
     current: "Current",
   },
@@ -165,9 +165,9 @@ const LEVELS: DeductionLevel[] = [
     rows: ["Ada", "Ben", "Cara"],
     columns: ["Tower", "Garden", "Dock"],
     clues: [
-      "Ada is not in the Tower.",
+      "Ada is not at the Tower.",
       "Ben is not in the Garden.",
-      "The Dock belongs to Ben.",
+      "Ben is at the Dock.",
       "Cara is not in the Garden.",
     ],
     solution: [1, 2, 0],
@@ -180,8 +180,8 @@ const LEVELS: DeductionLevel[] = [
     columns: ["Library", "Harbor", "Observatory"],
     clues: [
       "Leo is not in the Library.",
-      "Mia is not in the Observatory.",
-      "The Harbor belongs to Nora.",
+      "Mia is not at the Observatory.",
+      "Nora is at the Harbor.",
       "Nora is not in the Library.",
     ],
     solution: [2, 0, 1],
@@ -194,9 +194,9 @@ const LEVELS: DeductionLevel[] = [
     columns: ["Museum", "Station", "Lighthouse"],
     clues: [
       "Arin is not in the Museum.",
-      "Bo is not in the Station.",
-      "The Lighthouse belongs to Bo.",
-      "Cora is not in the Lighthouse.",
+      "Bo is not at the Station.",
+      "Bo is at the Lighthouse.",
+      "Cora is not at the Lighthouse.",
     ],
     solution: [1, 2, 0],
   },
@@ -209,7 +209,7 @@ const LEVELS: DeductionLevel[] = [
     clues: [
       "Ema is not in the Greenhouse.",
       "Finn is not in the Bakery.",
-      "The Workshop belongs to Gala.",
+      "Gala is in the Workshop.",
       "Gala is not in the Greenhouse.",
     ],
     solution: [0, 2, 1],
@@ -223,7 +223,7 @@ const LEVELS: DeductionLevel[] = [
     clues: [
       "Hugo is not in the Vault.",
       "Iris is not in the Atrium.",
-      "The Vault belongs to Iris.",
+      "Iris is in the Vault.",
       "Juno is not in the Garden.",
     ],
     solution: [2, 0, 1],
@@ -237,7 +237,7 @@ const LEVELS: DeductionLevel[] = [
     clues: [
       "Kai is not on the Bridge.",
       "Lina is not in the Crypt.",
-      "The Bridge belongs to Milo.",
+      "Milo is on the Bridge.",
       "Milo is not in the Courtyard.",
     ],
     solution: [1, 2, 0],
@@ -251,7 +251,7 @@ const LEVELS: DeductionLevel[] = [
     clues: [
       "Nia is not in the Plaza.",
       "Otto is not at the Docks.",
-      "The Docks belong to Pia.",
+      "Pia is at the Docks.",
       "Pia is not at the Clocktower.",
     ],
     solution: [0, 2, 1],
@@ -265,7 +265,7 @@ const LEVELS: DeductionLevel[] = [
     clues: [
       "Quin is not in the Harbor.",
       "Ria is not in the Library.",
-      "The Conservatory belongs to Sol.",
+      "Sol is in the Conservatory.",
       "Sol is not in the Harbor.",
     ],
     solution: [2, 1, 0],
@@ -279,7 +279,7 @@ const LEVELS: DeductionLevel[] = [
     clues: [
       "Taro is not in the Engine Room.",
       "Uma is not in the Gallery.",
-      "The Basement belongs to Vale.",
+      "Vale is in the Basement.",
       "Vale is not in the Engine Room.",
     ],
     solution: [1, 0, 2],
@@ -292,8 +292,8 @@ const LEVELS: DeductionLevel[] = [
     columns: ["Observatory", "Chapel", "Archive"],
     clues: [
       "Wren is not in the Archive.",
-      "Zia is not in the Observatory.",
-      "The Chapel belongs to Yori.",
+      "Zia is not at the Observatory.",
+      "Yori is in the Chapel.",
       "Yori is not in the Archive.",
     ],
     solution: [0, 2, 1],

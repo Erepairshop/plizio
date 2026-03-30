@@ -7,7 +7,7 @@ import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
   Loader2, Check, XCircle, Gamepad2, Users, Zap,
   Crosshair, Shuffle, Layers, Plus, Minus,
-  Target, Type, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation, CircleDot, GitBranch, Rocket, Timer,
+  Target, Type, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation, CircleDot, GitBranch, Rocket, Timer, Ghost, Radio,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
@@ -233,6 +233,8 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   deductiongrid: Grid3x3,
   deductiongrid2: Rocket,
   timeecho: Timer,
+  shadowswitch: Ghost,
+  signaldecoder: Radio,
   airhockey: CircleDot,
 };
 

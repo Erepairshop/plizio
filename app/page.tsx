@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, History as HistoryIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -95,6 +95,8 @@ const TRANSLATIONS = {
       deductiongrid: "Deduction Grid",
       deductiongrid2: "Galactic Deduction",
       timeecho: "Time Echo",
+      shadowswitch: "Shadow Switch",
+      signaldecoder: "Signal Decoder",
       astroromana: "AstroRomanian",
       racetrack: "Racetrack",
       sequencerush: "Sequence Rush",
@@ -157,6 +159,8 @@ const TRANSLATIONS = {
       deductiongrid: "Dedukciós rács",
       deductiongrid2: "Galaktikus Dedukció",
       timeecho: "Idővisszhang",
+      shadowswitch: "Árnyékváltó",
+      signaldecoder: "Jeldekódoló",
       astroromana: "AstroRomán",
       racetrack: "Pályaverseny",
       sequencerush: "Szekvencia Roham",
@@ -219,6 +223,8 @@ const TRANSLATIONS = {
       deductiongrid: "Deduktionsraster",
       deductiongrid2: "Galaktische Deduktion",
       timeecho: "Zeitecho",
+      shadowswitch: "Schattenschalter",
+      signaldecoder: "Signal-Decoder",
       astroromana: "AstroRumänisch",
       racetrack: "Rennstrecke",
       sequencerush: "Sequenz Rush",
@@ -281,6 +287,8 @@ const TRANSLATIONS = {
       deductiongrid: "Grilă de deducție",
       deductiongrid2: "Deducție Galactică",
       timeecho: "Ecou Temporal",
+      shadowswitch: "Schimb de Umbre",
+      signaldecoder: "Decodor de Semnale",
       astroromana: "AstroRomână",
       racetrack: "Circuit de curse",
       sequencerush: "Sequence Rush",
@@ -561,6 +569,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#34D399",
         gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
       },
+      {
+        id: "signaldecoder",
+        icon: Radio,
+        nameKey: "signaldecoder",
+        color: "#00FFCC",
+        gradient: "bg-gradient-to-br from-teal-500/20 to-cyan-500/20",
+      },
     ],
   },
   {
@@ -616,6 +631,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "timeecho",
         color: "#00FFFF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+      },
+      {
+        id: "shadowswitch",
+        icon: Ghost,
+        nameKey: "shadowswitch",
+        color: "#F472B6",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
       },
       {
         id: "minisudoku",
@@ -762,8 +784,8 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", astromagyar: "brain", astroromana: "brain", "astro-sachkunde": "brain", "astro-biologie": "brain", "astro-physik": "brain", astrokemia: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain", sachkundetest: "brain", biologietest: "brain", physiktest: "brain", kemiatest: "brain",
-  numberpath: "logic", pathbuilder: "logic", pipeflow: "logic", deductiongrid: "logic", deductiongrid2: "logic", timeecho: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
+  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", astromagyar: "brain", astroromana: "brain", "astro-sachkunde": "brain", "astro-biologie": "brain", "astro-physik": "brain", astrokemia: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain", sachkundetest: "brain", biologietest: "brain", physiktest: "brain", kemiatest: "brain", signaldecoder: "brain",
+  numberpath: "logic", pathbuilder: "logic", pipeflow: "logic", deductiongrid: "logic", deductiongrid2: "logic", timeecho: "logic", shadowswitch: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };
 
