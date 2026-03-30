@@ -26,15 +26,7 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import ForcesExplorer from "@/app/astro-physik/games/k5/ForcesExplorer";
-import GravityExplorer from "@/app/astro-physik/games/k5/GravityExplorer";
-import MeasurementExplorer from "@/app/astro-physik/games/k5/MeasurementExplorer";
-import EnergyExplorer from "@/app/astro-physik/games/k5/EnergyExplorer";
-import ConversionExplorer from "@/app/astro-physik/games/k5/ConversionExplorer";
-import HeatExplorer from "@/app/astro-physik/games/k5/HeatExplorer";
-import LightExplorer from "@/app/astro-physik/games/k5/LightExplorer";
-import SoundExplorer from "@/app/astro-physik/games/k5/SoundExplorer";
-import MagnetismExplorer from "@/app/astro-physik/games/k5/MagnetismExplorer";
+import K5Explorer from "@/app/astro-physik/games/k5/K5Explorer";
 import {
   PHYSIK_K5_ISLANDS as ISLANDS, PHYSIK_K5_CHECKPOINT_MAP as CHECKPOINT_MAP, PHYSIK_K5_CHECKPOINT_TOPICS as CHECKPOINT_TOPICS,
   type PhysikK5Progress as Progress, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -131,15 +123,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
-  | "pk5-forces-explorer"
-  | "pk5-gravity-explorer"
-  | "pk5-measurement-explorer"
-  | "pk5-energy-explorer"
-  | "pk5-conversion-explorer"
-  | "pk5-heat-explorer"
-  | "pk5-light-explorer"
-  | "pk5-sound-explorer"
-  | "pk5-magnetism-explorer"
+  | "pk5-explorer"
   | "mission-done"
   | "reward"
   | "checkpoint-intro"
@@ -517,7 +501,7 @@ export default function AstroPhysikK5Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk5-forces-explorer", "pk5-gravity-explorer", "pk5-measurement-explorer", "pk5-energy-explorer", "pk5-conversion-explorer", "pk5-heat-explorer", "pk5-light-explorer", "pk5-sound-explorer", "pk5-magnetism-explorer"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "pk5-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -827,38 +811,14 @@ export default function AstroPhysikK5Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
-        {screen === "pk5-forces-explorer" && (
-          <ForcesExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-gravity-explorer" && (
-          <GravityExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-measurement-explorer" && (
-          <MeasurementExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-energy-explorer" && (
-          <EnergyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-conversion-explorer" && (
-          <ConversionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-heat-explorer" && (
-          <HeatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-light-explorer" && (
-          <LightExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-sound-explorer" && (
-          <SoundExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-        )}
-        {screen === "pk5-magnetism-explorer" && (
-          <MagnetismExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        {screen === "pk5-explorer" && activeIsland && (
+          <K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
   );
 
-  const explorerScreens = ["pk5-forces-explorer", "pk5-gravity-explorer", "pk5-measurement-explorer", "pk5-energy-explorer", "pk5-conversion-explorer", "pk5-heat-explorer", "pk5-light-explorer", "pk5-sound-explorer", "pk5-magnetism-explorer"];
+  const explorerScreens = ["pk5-explorer"];
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
