@@ -120,6 +120,7 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "pk7-eye-explorer" | "pk7-thermo-explorer" | "pk7-waves-explorer" | "pk7-space-explorer" | "pk7-explorer"
   | "pk8-ohm-explorer" | "pk8-power-explorer" | "pk8-semiconductor-explorer" | "pk8-electromagnetic-explorer" | "pk8-generators-explorer"
   | "pk8-atomic-explorer" | "pk8-nuclear-explorer" | "pk8-modern-explorer" | "pk8-environment-explorer" | "pk8-explorer"
+  | "ck5-explorer" | "ck6-explorer" | "ck7-explorer" | "ck8-explorer"
   | "symbiosis-explorer"
   | "sexdetermination-explorer" | "biosystems-explorer"
   | "fraction-pro-explorer" | "grand-final-explorer"

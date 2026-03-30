@@ -17,16 +17,22 @@ import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
 import { K6_Generators } from "@/lib/biologieGenerators6";
 import "@/lib/physikRegistration";
+import "@/lib/kemiaRegistration";
 import { K5_GENERATOR_MAP } from "@/lib/physikCurriculum5";
 import { K6_GENERATOR_MAP } from "@/lib/physikCurriculum6";
 import { K7_GENERATOR_MAP } from "@/lib/physikCurriculum7";
 import { K8_GENERATOR_MAP } from "@/lib/physikCurriculum8";
+import { K5_GENERATOR_MAP as KEMIA_K5_GENERATOR_MAP } from "@/lib/kemiaCurriculum5";
+import { K6_GENERATOR_MAP as KEMIA_K6_GENERATOR_MAP } from "@/lib/kemiaCurriculum6";
+import { K7_GENERATOR_MAP as KEMIA_K7_GENERATOR_MAP } from "@/lib/kemiaCurriculum7";
+import { K8_GENERATOR_MAP as KEMIA_K8_GENERATOR_MAP } from "@/lib/kemiaCurriculum8";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
-type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "magyar" | "general";
+type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general";
 
 const BIO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const CHEMIE_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_SEED_ONLY_KEYS = new Set([
   "sound_waves",
   "sound_waves_typing",
@@ -62,6 +68,15 @@ Object.entries(K6_Generators).forEach(([key, gen]) => {
     Object.entries(subs).forEach(([sub, gen]) => {
       PHYSIK_GENERATORS[sub] = gen;
       PHYSIK_GENERATORS[`${theme}_${sub}`] = gen;
+    });
+  });
+});
+
+[KEMIA_K5_GENERATOR_MAP, KEMIA_K6_GENERATOR_MAP, KEMIA_K7_GENERATOR_MAP, KEMIA_K8_GENERATOR_MAP].forEach((gradeMap) => {
+  Object.entries(gradeMap).forEach(([theme, subs]) => {
+    Object.entries(subs).forEach(([sub, gen]) => {
+      CHEMIE_GENERATORS[sub] = gen;
+      CHEMIE_GENERATORS[`${theme}_${sub}`] = gen;
     });
   });
 });
@@ -103,12 +118,16 @@ interface Props {
 function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices: string[]; answer: string } {
   const q = p.quiz;
   if ("generate" in q) {
-    const gen = (DEUTSCH_GENERATORS[q.generate] || BIO_GENERATORS[q.generate] || PHYSIK_GENERATORS[q.generate]) as
-      | ((...args: any[]) => any)
-      | undefined;
+    const deutschGen = DEUTSCH_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const bioGen = BIO_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const physikGen = PHYSIK_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const chemieGen = CHEMIE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const gen = deutschGen || bioGen || physikGen || chemieGen;
     if (gen) {
       const seed = Math.floor(Math.random() * 1000000);
-      const result = PHYSIK_SEED_ONLY_KEYS.has(q.generate)
+      const result = chemieGen
+        ? gen(seed)
+        : PHYSIK_SEED_ONLY_KEYS.has(q.generate)
         ? gen(seed)
         : gen(lang, seed);
       const pool = Array.isArray(result) ? result : [result];

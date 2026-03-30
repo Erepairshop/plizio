@@ -341,7 +341,7 @@ interface Props {
   onClose?: () => void;
 }
 
-type AISubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "magyar" | "general";
+type AISubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Helpers
@@ -393,6 +393,7 @@ function deriveSubject(explorerId?: string): AISubject {
   if (source.includes("astro-biologie") || source.includes("bio_")) return "biologie";
   if (source.includes("astro-sachkunde") || source.includes("sachkunde_")) return "sachkunde";
   if (source.includes("astro-physik") || source.includes("physik")) return "physik";
+  if (source.includes("astrokemia") || source.includes("kemia") || source.includes("chemie")) return "chemie";
 
   return "general";
 }

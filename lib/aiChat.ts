@@ -22,7 +22,7 @@ interface AIChatOptions {
   /** Tutor intent mode for tighter prompting */
   mode?: "free" | "why" | "think" | "fun-fact" | "simpler" | "example" | "similar";
   /** Subject area for subject-aware tutoring */
-  subject?: "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "magyar" | "general";
+  subject?: "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general";
 }
 
 const LANG_NAMES: Record<string, string> = {
@@ -103,6 +103,8 @@ function buildSubjectInstruction(subject: AIChatOptions["subject"], langName: st
       return `This is a Sachkunde/world-knowledge context. Keep explanations concrete, practical, and child-friendly.`;
     case "physik":
       return `This is a physics learning context. Focus on clear concepts, cause and effect, and simple examples.`;
+    case "chemie":
+      return `This is a chemistry learning context. Focus on substances, particles, reactions, and clear everyday examples.`;
     case "general":
     default:
       return `Stay within the current school subject and explain only what helps with this task.`;
