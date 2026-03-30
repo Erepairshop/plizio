@@ -1,7 +1,7 @@
 'use client';
 
-import { useMemo, useRef, type ReactNode } from 'react';
-import { useLoader, useFrame } from '@react-three/fiber';
+import { useMemo, type ReactNode } from 'react';
+import { useLoader } from '@react-three/fiber';
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import type { Bone } from 'three';
@@ -70,36 +70,15 @@ function BoneAttachment({
   spec: AvatarAttachmentSpec;
   children: ReactNode;
 }) {
-  const groupRef = useRef<THREE.Group>(null);
-  const worldPos = useMemo(() => new THREE.Vector3(), []);
-  const targetPos = useMemo(() => new THREE.Vector3(), []);
-
-  useFrame(() => {
-    if (!groupRef.current) return;
-    bone.updateWorldMatrix(true, false);
-    bone.getWorldPosition(worldPos);
-
-    // Target = bone world pos + spec offset (both in world space)
-    targetPos.set(
-      worldPos.x + spec.position[0],
-      worldPos.y + spec.position[1],
-      worldPos.z + spec.position[2],
-    );
-
-    // Convert world-space target to parent's local space before assigning
-    const parent = groupRef.current.parent;
-    if (parent) {
-      parent.updateWorldMatrix(true, false);
-      parent.worldToLocal(targetPos);
-    }
-    groupRef.current.position.copy(targetPos);
-  });
-
   const scale = asVectorScale(spec.scale);
+  const pos: [number, number, number] = [spec.position[0], spec.position[1], spec.position[2]];
+  const rot: [number, number, number] = [spec.rotation[0], spec.rotation[1], spec.rotation[2]];
   return (
-    <group ref={groupRef} scale={scale} rotation={spec.rotation as [number, number, number]}>
-      {spec.assetPath ? <AttachmentModel assetPath={spec.assetPath} spec={spec} /> : children}
-    </group>
+    <primitive object={bone}>
+      <group position={pos} rotation={rot} scale={scale}>
+        {spec.assetPath ? <AttachmentModel assetPath={spec.assetPath} spec={spec} /> : children}
+      </group>
+    </primitive>
   );
 }
 
@@ -269,15 +248,17 @@ function DualBoneAccessory({
   children: ReactNode;
 }) {
   const scale = asVectorScale(spec.scale);
+  const pos: [number, number, number] = [spec.position[0], spec.position[1], spec.position[2]];
+  const rot: [number, number, number] = [spec.rotation[0], spec.rotation[1], spec.rotation[2]];
   return (
     <>
       <primitive object={leftBone}>
-        <group position={spec.position as [number, number, number]} rotation={spec.rotation as [number, number, number]} scale={scale}>
+        <group position={pos} rotation={rot} scale={scale}>
           {children}
         </group>
       </primitive>
       <primitive object={rightBone}>
-        <group position={spec.position as [number, number, number]} rotation={spec.rotation as [number, number, number]} scale={scale}>
+        <group position={pos} rotation={rot} scale={scale}>
           {children}
         </group>
       </primitive>
