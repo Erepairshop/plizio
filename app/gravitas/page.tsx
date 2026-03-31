@@ -9,6 +9,7 @@ import GravitasScene from "@/components/gravitas/GravitasScene";
 import GravitasActivation from "@/components/gravitas/GravitasActivation";
 import GravitasShop from "@/components/gravitas/GravitasShop";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
+import { saveGravitasState, loadGravitasState, clearGravitasSave } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
@@ -43,7 +44,7 @@ export default function GravitasPage() {
   const content = GRAVITAS_TEXT;
   const ui = content.ui;
 
-  const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
+  const [state, dispatch] = useReducer(reducer, undefined, () => loadGravitasState() ?? createInitialStarholdState());
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
   const [shopOpen, setShopOpen] = useState(false);
   const holdRef = useRef<number | null>(null);
@@ -62,6 +63,12 @@ export default function GravitasPage() {
       }
     };
   }, []);
+
+  useEffect(() => {
+    if (state.tick % 5 === 0) {
+      saveGravitasState(state);
+    }
+  }, [state.tick]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const localize = (ls: LocalizedString | null | undefined) => {
     if (!ls) return "";
@@ -122,9 +129,17 @@ export default function GravitasPage() {
       )}
       <div className="mx-auto max-w-[1180px]">
         <div className="flex items-center justify-between gap-3 mb-5">
-          <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold hover:text-white transition">
-            <ChevronLeft size={16} /> {localize(ui.back)}
-          </Link>
+          <div className="flex items-center gap-3">
+            <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold hover:text-white transition">
+              <ChevronLeft size={16} /> {localize(ui.back)}
+            </Link>
+            <button
+              onClick={() => { clearGravitasSave(); window.location.reload(); }}
+              className="text-[11px] font-semibold text-white/30 hover:text-white/60 transition px-2 py-1 rounded border border-white/10 hover:border-white/20"
+            >
+              {lang === "hu" ? "Új játék" : lang === "de" ? "Neues Spiel" : lang === "ro" ? "Joc nou" : "New Game"}
+            </button>
+          </div>
           <div className="flex items-center gap-4">
             <div className="relative">
               <button

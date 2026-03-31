@@ -117,6 +117,7 @@ export interface StarholdState {
   crisis: boolean; // True if multiple resources are low
   highStability: boolean; // True if stability is very high
   lockdown: boolean; // True if stability reached 0
+  recoveryPriority: { moduleId: StarholdModuleId; reason: LocalizedString } | null; // Set after impact, cleared when aftershock ends
 }
 
 export type StarholdCommand =

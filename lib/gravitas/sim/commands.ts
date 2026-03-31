@@ -271,12 +271,14 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "EMERGENCY_VENT": {
       const cost = Math.ceil(18 * mods.powerCostMod);
       if (state.resources.power < cost) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
+      // Apply recoveryEfficiency: wider vent during aftershock / crisis recovery window
+      const ventReduction = Math.floor(4 * mods.recoveryEfficiency);
       return {
         ...state,
-        resources: addResourceDelta(state.resources, { power: -cost, stability: 6 }),
+        resources: addResourceDelta(state.resources, { power: -cost, stability: Math.floor(6 * mods.recoveryEfficiency) }),
         marks: {
           ...state.marks,
-          shellStrain: clamp(state.marks.shellStrain - 4),
+          shellStrain: clamp(state.marks.shellStrain - ventReduction),
         },
         alert: { en: "Emergency venting successful.", hu: "Vészhelyzeti szellőztetés sikeres.", de: "Notlüftung erfolgreich.", ro: "Evacuare de urgență reușită." },
         journal: pushJournal(state, { en: "Excess pressure vented from the shell spine.", hu: "Felesleges nyomás távozott a váz gerincéből.", de: "Überdruck aus dem Hüllenrückgrat abgelassen.", ro: "Presiunea în exces a fost evacuată din coloana corpului." }),
@@ -310,6 +312,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const cost = Math.ceil(15 * mods.powerCostMod);
       if (state.resources.materials < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       const target = state.modules[command.moduleId];
+      // Apply recoveryEfficiency: 1.5× during aftershock / crisis
+      const fabGain = Math.floor(25 * mods.recoveryEfficiency);
       return {
         ...state,
         resources: addResourceDelta(state.resources, { materials: -cost }),
@@ -317,7 +321,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ...state.modules,
           [command.moduleId]: {
             ...target,
-            integrity: clamp(target.integrity + 25),
+            integrity: clamp(target.integrity + fabGain),
             load: clamp(target.load + 20),
           }
         },
