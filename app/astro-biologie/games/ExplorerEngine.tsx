@@ -157,8 +157,8 @@ export type TopicInteractive =
       tens?: number;
       ones?: number;
       instruction: string;  // label key
-      hint1: string;        // label key
-      hint2: string;        // label key
+      hint1?: string;       // label key
+      hint2?: string;       // label key
     }
   | {
       type: "number-line";
@@ -170,8 +170,8 @@ export type TopicInteractive =
       showJumps?: boolean;
       jumpCount?: number;
       instruction: string;  // label key
-      hint1: string;        // label key
-      hint2: string;        // label key
+      hint1?: string;       // label key
+      hint2?: string;       // label key
     }
   | {
       type: "balance-scale";
@@ -179,8 +179,8 @@ export type TopicInteractive =
       rightInitial: number;
       unitIcon?: string;
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "coordinate-picker";
@@ -188,8 +188,8 @@ export type TopicInteractive =
       targetY: number;
       range?: number;
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "ratio-slider";
@@ -201,8 +201,8 @@ export type TopicInteractive =
       currency?: string;
       tolerance?: number;
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "equation-solver";
@@ -211,8 +211,8 @@ export type TopicInteractive =
       finalAnswer: number;
       variable?: string;        // default "x"
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "graph-plotter";
@@ -227,16 +227,16 @@ export type TopicInteractive =
       yLabel?: string;
       chartType?: "line" | "bar" | "scatter";
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "word-order";
       words: string[];          // label keys for words (will be resolved via L())
       correctOrder: number[];   // correct index order
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "gap-fill";
@@ -244,83 +244,91 @@ export type TopicInteractive =
       choices: string[];        // label keys for 4 options
       correctIndex: number;     // index of correct choice
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "drag-to-bucket";
       buckets: { id: string; label: string }[];  // label keys for bucket names
       items: { text: string; bucketId: string }[]; // label keys for item text + correct bucket id
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "sentence-build";
       fragments: string[];      // label keys for fragments in CORRECT order
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "match-pairs";
       pairs: { left: string; right: string }[];  // label keys
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "highlight-text";
       tokens: string[];          // label keys for sentence tokens
       correctIndices: number[];  // indices of correct tokens to highlight
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "label-diagram";
       areas: { id: string; x: number; y: number; label: string }[];  // x,y in % (0-100), label = label key
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "tap-count";
       tapCount: TapCountConfig;
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
-  | {
-      type: "physics-bucket";
-      buckets: { id: string; label: string }[];  // label keys
-      items: { text: string; bucketId: string }[]; // label keys
+  | (
+      {
+        type: "physics-bucket";
+        buckets: { id: string; label: string }[];  // label keys
+        items: { text: string; bucketId: string }[]; // label keys
+      } | {
+        type: "physics-bucket";
+        bucket1: string;  // label key
+        bucket2: string;  // label key
+        items: string[];  // label keys
+      }
+    ) & {
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "physics-magnet";
       pairs: { left: string; right: string }[];  // label keys — left=bucket, right=item
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "physics-slingshot";
       question: string;  // label key
       targets: { id: string; text: string; isCorrect: boolean }[];  // text = label key
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "physics-stacker";
       words: string[];        // label keys
       correctOrder: number[]; // correct index order
       instruction: string;
-      hint1: string;
-      hint2: string;
+      hint1?: string;
+      hint2?: string;
     }
   | {
       type: "lang-mcq";
@@ -1379,8 +1387,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           blockColor={inter.blockColor}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1398,8 +1406,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           jumpCount={inter.jumpCount}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1413,8 +1421,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           unitIcon={inter.unitIcon}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1428,8 +1436,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           range={inter.range}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1447,8 +1455,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           tolerance={inter.tolerance}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1463,8 +1471,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           variable={inter.variable}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1485,8 +1493,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           chartType={inter.chartType}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1503,8 +1511,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           correctOrder={woCorrectOrder}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1518,8 +1526,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           correctIndex={inter.correctIndex}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1532,8 +1540,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           items={inter.items.map(i => ({ text: L(i.text), bucketId: i.bucketId }))}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1545,8 +1553,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           fragments={inter.fragments.map(f => L(f)).filter(f => f !== "")}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1558,8 +1566,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           pairs={inter.pairs.map(p => ({ left: L(p.left), right: L(p.right) }))}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1582,8 +1590,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           correctIndices={htCorrectIndices}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1597,8 +1605,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                           areas={inter.areas.map(a => ({ id: a.id, x: a.x, y: a.y, label: L(a.label) }))}
                           color={color}
                           instruction={L(inter.instruction)}
-                          hint1={L(inter.hint1)}
-                          hint2={L(inter.hint2)}
+                          hint1={inter.hint1 ? L(inter.hint1) : ""}
+                          hint2={inter.hint2 ? L(inter.hint2) : ""}
                           lang={langCode}
                           onDone={handleTopicInteractiveDone}
                         />
@@ -1656,14 +1664,28 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       );
                     }
                     if (inter.type === "physics-bucket") {
-                      return (
-                        <PhysicsDropGame
-                          buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
-                          items={inter.items.map((item, idx) => ({ id: String(idx), text: L(item.text), bucketId: item.bucketId }))}
-                          onComplete={() => handleTopicInteractiveDone(true)}
-                          lang={langCode}
-                        />
-                      );
+                      if ('buckets' in inter) {
+                        return (
+                          <PhysicsDropGame
+                            buckets={inter.buckets.map(b => ({ id: b.id, label: L(b.label) }))}
+                            items={inter.items.map((item, idx) => ({ id: String(idx), text: L((item as any).text), bucketId: (item as any).bucketId }))}
+                            onComplete={() => handleTopicInteractiveDone(true)}
+                            lang={langCode}
+                          />
+                        );
+                      } else {
+                        return (
+                          <PhysicsDropGame
+                            buckets={[
+                              { id: "b1", label: L(inter.bucket1) },
+                              { id: "b2", label: L(inter.bucket2) }
+                            ]}
+                            items={(inter.items as any).map((item: string, idx: number) => ({ id: String(idx), text: L(item), bucketId: idx < (inter.items as any).length / 2 ? "b1" : "b2" }))}
+                            onComplete={() => handleTopicInteractiveDone(true)}
+                            lang={langCode}
+                          />
+                        );
+                      }
                     }
                     if (inter.type === "physics-magnet") {
                       const magnetPairs = inter.pairs.map((p: { left: string; right: string }, idx: number) => ({

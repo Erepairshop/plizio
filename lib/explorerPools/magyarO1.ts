@@ -409,7 +409,7 @@ export const MAGYAR_O1_I1_POOL: PoolTopicDef[] = [
     interactive: {
       type: "physics-bucket", buckets: [{ id: "vow", label: "t1_b1" }, { id: "con", label: "t1_b2" }],
       items: [{ text: "t1_i1", bucketId: "vow" }, { text: "t1_i2", bucketId: "vow" }, { text: "t1_i3", bucketId: "vow" }, { text: "t1_i4", bucketId: "vow" }, { text: "t1_i5", bucketId: "con" }, { text: "t1_i6", bucketId: "con" }, { text: "t1_i7", bucketId: "con" }, { text: "t1_i8", bucketId: "con" }],
-      instruction: "t1_inst"
+      instruction: "t1_inst", hint1: "", hint2: ""
     },
     quiz: { generate: "maganhangzok" },
   },

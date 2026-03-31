@@ -89,8 +89,6 @@ const DATA_K5 = {
       { q: ["Piros kör perje?", "Red circle?", "Roter Kreis?", "Cerc roșu?"], a: ["Tiltás", "Prohibition", "Verbot", "Interdicție"] },
     ]
   },
-    ]
-  },
   scale_basics: {
     mcq: [
       { q: ["Mi a méretarány?", "What is scale?", "Was ist der Maßstab?", "Ce este scara?"], c: ["Kicsinyítés mértéke", "Reduction ratio", "Verkleinerungsverhältnis", "Raport de reducere"], w1: ["Térkép színe", "Map color", "Kartenfarbe", "Culoarea hărții"], w2: ["Hegy magassága", "Mountain height", "Berghöhe", "Înălțimea muntelui"], w3: ["Iránytű jele", "Compass symbol", "Kompasssymbol", "Simbol busolă"] },
@@ -197,8 +195,6 @@ const DATA_K5 = {
       { q: ["Sivatagos kontinens?", "Desert continent?", "Wüstenkontinent?", "Continentul deșertic?"], a: ["Afrika", "Africa", "Afrika", "Africa"] },
       { q: ["Kolumbusz fedezte fel?", "Columbus discovered?", "Kolumbus entdeckte?", "Descoperit de Columb?"], a: ["Amerika", "America", "Amerika", "America"] },
       { q: ["Vizek gyűjtőneve?", "Total water mass?", "Gesamtwasser?", "Masă totală de apă?"], a: ["Világóceán", "World Ocean", "Weltozean", "Oceanul planetar"] },
-    ]
-  },
     ]
   },
   rotation_revolution: {
@@ -453,6 +449,7 @@ const DATA_K5 = {
       { q: ["Sízés angolul?", "Skiing in English?", "Skifahren auf Englisch?", "Schi în engleză?"], a: ["Skiing", "Skiing", "Skiing", "Skiing"] },
     ]
   },
+  earth_layers: { mcq: [], typing: [] },
 };
 
 export const K5_GEOGRAPHIE_GENERATORS = {
@@ -508,44 +505,6 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   alps_foothills_mcq: (lang: string, seed: number) => makeMCQs("alps_foothills", lang, mulberry32(seed), DATA_K5.alps_foothills.mcq),
   alps_foothills_typing: (lang: string, seed: number) => makeTyping("alps_foothills", lang, DATA_K5.alps_foothills.typing),
 
-    ]
-  },
-  city_functions: {
-    mcq: [
-      { q: ["Mi a város fő feladata?", "Main city function?", "Hauptaufgabe einer Stadt?", "Funcția principală a orașului?"], c: ["Központi ellátás", "Central supply", "Zentrale Versorgung", "Aprovizionare centrală"], w1: ["Csak alvás", "Only sleeping", "Nur Schlafen", "Doar dormit"], w2: ["Mezőgazdaság", "Agriculture", "Landwirtschaft", "Agricultură"], w3: ["Nincs feladata", "No function", "Keine Aufgabe", "Nicio funcție"] },
-      { q: ["Mi az agglomeráció?", "What is sprawl?", "Was ist ein Ballungsraum?", "Ce este aglomerația urbană?"], c: ["Város környéki övezet", "City surroundings", "Umland einer Stadt", "Zonă din jurul orașului"], w1: ["Hegység", "Mountain range", "Gebirge", "Munți"], w2: ["Óceán", "Ocean", "Ozean", "Ocean"], w3: ["Egy épület", "A building", "Ein Gebäude", "O clădire"] },
-      { q: ["Melyik városi funkció?", "City function?", "Städtische Funktion?", "Funcție urbană?"], c: ["Oktatás, egészségügy", "Education, health", "Bildung, Gesundheit", "Educație, sănătate"], w1: ["Szántás", "Plowing", "Pflügen", "Arat"], w2: ["Vadászat", "Hunting", "Jagd", "Vânătoare"], w3: ["Bányászat", "Mining", "Bergbau", "Minerit"] },
-      { q: ["Mi a városközpont?", "City center?", "Stadtzentrum?", "Centrul orașului?"], c: ["Üzleti és igazgatási rész", "Business/admin area", "Geschäftsviertel", "Zonă de afaceri/admin."], w1: ["Legelő", "Pasture", "Weide", "Pășune"], w2: ["Erdő", "Forest", "Wald", "Pădure"], w3: ["Csak parkoló", "Only parking", "Nur Parkplatz", "Doar parcare"] },
-      { q: ["Városok népsűrűsége?", "City density?", "Bevölkerungsdichte?", "Densitatea orașelor?"], c: ["Magas", "High", "Hoch", "Mare"], w1: ["Alacsony", "Low", "Niedrig", "Mică"], w2: ["Nincs", "None", "Keine", "Nu are"], w3: ["Változó", "Varies", "Variabel", "Variabilă"] },
-      { q: ["Mi az 'urbanizáció'?", "What is urbanization?", "Was ist Urbanisierung?", "Ce este urbanizarea?"], c: ["Városiasodás", "Growth of cities", "Verstädterung", "Creșterea orașelor"], w1: ["Faluasodás", "Ruralization", "Verdörflichen", "Ruralizare"], w2: ["Erdősítés", "Afforestation", "Aufforstung", "Împădurire"], w3: ["Bontás", "Demolition", "Abriss", "Demolare"] },
-      { q: ["Melyik a 'Zöldövezet'?", "What is green belt?", "Was ist der Grüngürtel?", "Ce este zona verde?"], c: ["Parkos, lakó rész", "Parks/residential", "Parkviertel", "Zonă cu parcuri"], w1: ["Gyárnegyed", "Factory area", "Industriegebiet", "Zonă industrială"], w2: ["Autópálya", "Highway", "Autobahn", "Autostradă"], w3: ["Szeméttelep", "Junkyard", "Mülldeponie", "Groapă de gunoi"] },
-      { q: ["Városi közlekedés?", "City transport?", "Städtischer Verkehr?", "Transport urban?"], c: ["Busz, villamos, metró", "Bus, tram, metro", "Bus, Tram, U-Bahn", "Autobuz, tramvai, metrou"], w1: ["Traktor", "Tractor", "Traktor", "Tractor"], w2: ["Hajó mindenhol", "Ship everywhere", "Schiff überall", "Vapor peste tot"], w3: ["Lovaskocsi", "Horse cart", "Pferdekutsche", "Căruță"] },
-      { q: ["Mi a metropolisz?", "What is a metropolis?", "Was ist eine Metropole?", "Ce este o metropolă?"], c: ["Világváros", "Global city", "Weltstadt", "Oraș global"], w1: ["Kis falu", "Small village", "Kleines Dorf", "Sat mic"], w2: ["Tanya", "Farm", "Bauernhof", "Fermă"], w3: ["Hegyi kunyhó", "Mountain hut", "Berghütte", "Cabană"] },
-      { q: ["Melyik városi 'szolgáltatás'?", "Urban service?", "Städtische Dienstleistung?", "Serviciu urban?"], c: ["Színház, mozi", "Theater, cinema", "Theater, Kino", "Teatru, cinema"], w1: ["Kukoricás", "Corn field", "Maisfeld", "Lan de porumb"], w2: ["Istálló", "Stable", "Stall", "Grajd"], w3: ["Kút", "Well", "Brunnen", "Fântână"] },
-      { q: ["Mi a lakótelep?", "Residential estate?", "Wohnsiedlung?", "Cartier rezidențial?"], c: ["Sok emeletes ház", "Apartment blocks", "Großwohnsiedlung", "Blocuri de apartamente"], w1: ["Egyetlen faház", "Single hut", "Einzelne Hütte", "O singură cabană"], w2: ["Gyártelep", "Factory site", "Werksgelände", "Zonă industrială"], w3: ["Erdő", "Forest", "Wald", "Pădure"] },
-      { q: ["Mi az ipari park?", "Industrial park?", "Gewerbepark?", "Parc industrial?"], c: ["Gyárak, raktárak", "Factories, warehouses", "Industrie & Lager", "Fabrici, depozite"], w1: ["Játszótér", "Playground", "Spielplatz", "Loc de joacă"], w2: ["Vadaspark", "Wildlife park", "Wildpark", "Parc natural"], w3: ["Strand", "Beach", "Strand", "Plajă"] },
-      { q: ["Mi az 'CBD'?", "What is CBD?", "Was ist das CBD?", "Ce este CBD?"], c: ["Központi üzleti negyed", "Central Business District", "Geschäftszentrum", "Centru de afaceri"], w1: ["Kertváros", "Suburbs", "Vorort", "Suburbie"], w2: ["Piac", "Market", "Markt", "Piață"], w3: ["Kikötő", "Port", "Hafen", "Port"] },
-      { q: ["Város környezeti hatása?", "City env. impact?", "Umweltfolge der Stadt?", "Impactul orașului?"], c: ["Szennyezés, zaj", "Pollution, noise", "Abgase, Lärm", "Poluare, zgomot"], w1: ["Friss tiszta levegő", "Fresh air", "Frische Luft", "Aer curat"], w2: ["Több erdő", "More forests", "Mehr Wald", "Mai multe păduri"], w3: ["Csend", "Silence", "Stille", "Liniște"] },
-      { q: ["Mi a 'Smart City'?", "Smart City?", "Was ist eine Smart City?", "Ce este Smart City?"], c: ["Modern, digitális város", "Modern, digital city", "Vernetzte Stadt", "Oraș modern, digital"], w1: ["Régi romváros", "Ancient ruins", "Alte Ruinenstadt", "Ruine antice"], w2: ["Falu", "Village", "Dorf", "Sat"], w3: ["Csak robotok lakják", "Only robots", "Nur Roboter", "Doar roboți"] },
-      { q: ["Városok hierarchiája?", "City hierarchy?", "Städte-Rangfolge?", "Ierarhia orașelor?"], c: ["Méret és funkció alapján", "By size & function", "Nach Größe & Funktion", "După mărime și funcție"], w1: ["ABC sorrendben", "Alphabetical", "Alphabetisch", "Alfabetic"], w2: ["Szín szerint", "By color", "Nach Farbe", "După culoare"], w3: ["Véletlenszerű", "Random", "Zufällig", "Aleatoriu"] },
-      { q: ["Mi a városháza?", "Town hall?", "Rathaus?", "Primăria?"], c: ["Polgármesteri hivatal", "Mayor's office", "Sitz der Verwaltung", "Biroul primarului"], w1: ["Iskola", "School", "Schule", "Școală"], w2: ["Kórház", "Hospital", "Krankenhaus", "Spital"], w3: ["Múzeum", "Museum", "Museum", "Muzeu"] },
-      { q: ["Városi infrastruktúra?", "Urban infrastructure?", "Städtische Infrastruktur?", "Infrastructură urbană?"], c: ["Utak, csövek, hálózat", "Roads, pipes, networks", "Straßen, Leitungen", "Drumuri, țevi, rețele"], w1: ["Csak virágok", "Only flowers", "Nur Blumen", "Doar flori"], w2: ["Felhők", "Clouds", "Wolken", "Nori"], w3: ["Madarak", "Birds", "Vögel", "Păsări"] },
-      { q: ["Melyik történelmi városrész?", "Historic part?", "Historischer Stadtteil?", "Parte istorică?"], c: ["Óváros", "Old town", "Altstadt", "Orașul vechi"], w1: ["Új negyed", "New district", "Neubauviertel", "Cartier nou"], w2: ["Ipartelep", "Industrial site", "Industriegebiet", "Zonă industrială"], w3: ["Repülőtér", "Airport", "Flughafen", "Aeroport"] },
-      { q: ["Város lakóinak neve?", "City residents?", "Stadtbewohner?", "Locuitorii orașului?"], c: ["Polgárok", "Citizens", "Bürger", "Cetățeni"], w1: ["Parasztok", "Farmers", "Bauern", "Țărani"], w2: ["Nomádok", "Nomads", "Nomaden", "Nomazi"], w3: ["Remeték", "Hermits", "Einsiedler", "Eremiți"] },
-    ],
-    typing: [
-      { q: ["Város angolul?", "City in English?", "Stadt auf Englisch?", "Oraș în engleză?"], a: ["City", "City", "City", "City"] },
-      { q: ["Városháza németül?", "Town hall in DE?", "Rathaus auf Deutsch?", "Primărie în germană?"], a: ["Rathaus", "Town hall", "Rathaus", "Primărie"] },
-      { q: ["Városiasodás neve?", "Urbanization process?", "Fachbegriff Verstädterung?", "Procesul de urbanizare?"], a: ["Urbanizáció", "Urbanization", "Urbanisierung", "Urbanizare"] },
-      { q: ["Városközpont angolul?", "City center in EN?", "Stadtzentrum auf EN?", "Centrul orașului (EN)?"], a: ["Center", "Center", "Zentrum", "Centru"] },
-      { q: ["Nagy világváros?", "Global city term?", "Große Weltstadt?", "Oraș global mare?"], a: ["Metropolisz", "Metropolis", "Metropole", "Metropolă"] },
-      { q: ["Város környéke?", "City surroundings?", "Umland der Stadt?", "Împrejurimile orașului?"], a: ["Agglomeráció", "Agglomeration", "Agglomeration", "Aglomerare"] },
-      { q: ["Polgármester németül?", "Mayor in German?", "Bürgermeister?", "Primar în germană?"], a: ["Bürgermeister", "Mayor", "Bürgermeister", "Primar"] },
-      { q: ["Városrész németül?", "District in DE?", "Stadtteil?", "Cartier în germană?"], a: ["Stadtteil", "District", "Stadtteil", "Cartier"] },
-      { q: ["Úthálózat neve?", "Road network name?", "Verkehrsnetz?", "Rețea de drumuri?"], a: ["Infrastruktúra", "Infrastructure", "Infrastruktur", "Infrastructură"] },
-      { q: ["Városi lakóhely?", "Urban housing?", "Städtischer Wohnort?", "Locuință urbană?"], a: ["Lakótelep", "Estate", "Siedlung", "Cartier"] },
-    ]
-  },
   village_life: {
     mcq: [
       { q: ["Mi jellemző a falura?", "Village life?", "Merkmal eines Dorfes?", "Caracteristică sat?"], c: ["Kisebb lakosságszám", "Fewer people", "Geringe Einwohnerzahl", "Populație mică"], w1: ["Metróhálózat", "Metro network", "U-Bahn-Netz", "Rețea de metrou"], w2: ["Felhőkarcolók", "Skyscrapers", "Wolkenkratzer", "Zgârie-nori"], w3: ["Repülőtér", "Airport", "Flughafen", "Aeroport"] },
@@ -656,40 +615,4 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   },
 
 
-  city_functions: (l: string, s: number) => [],
-  city_functions_mcq: (l: string, s: number) => [],
-  city_functions_typing: (l: string, s: number) => [],
-  village_life: (l: string, s: number) => [],
-  village_life_mcq: (l: string, s: number) => [],
-  village_life_typing: (l: string, s: number) => [],
-  agriculture_basics: (l: string, s: number) => [],
-  agriculture_basics_mcq: (l: string, s: number) => [],
-  agriculture_basics_typing: (l: string, s: number) => [],
-  industry_zones: (l: string, s: number) => [],
-  industry_zones_mcq: (l: string, s: number) => [],
-  industry_zones_typing: (l: string, s: number) => [],
-  europe_countries_capitals: (l: string, s: number) => [],
-  europe_countries_capitals_mcq: (l: string, s: number) => [],
-  europe_countries_capitals_typing: (l: string, s: number) => [],
-  europe_mountains_rivers: (l: string, s: number) => [],
-  europe_mountains_rivers_mcq: (l: string, s: number) => [],
-  europe_mountains_rivers_typing: (l: string, s: number) => [],
-  europe_climates: (l: string, s: number) => [],
-  europe_climates_mcq: (l: string, s: number) => [],
-  europe_climates_typing: (l: string, s: number) => [],
-  eu_basics: (l: string, s: number) => [],
-  eu_basics_mcq: (l: string, s: number) => [],
-  eu_basics_typing: (l: string, s: number) => [],
-  national_parks: (l: string, s: number) => [],
-  national_parks_mcq: (l: string, s: number) => [],
-  national_parks_typing: (l: string, s: number) => [],
-  weather_elements: (l: string, s: number) => [],
-  weather_elements_mcq: (l: string, s: number) => [],
-  weather_elements_typing: (l: string, s: number) => [],
-  waste_recycling: (l: string, s: number) => [],
-  waste_recycling_mcq: (l: string, s: number) => [],
-  waste_recycling_typing: (l: string, s: number) => [],
-  energy_saving: (l: string, s: number) => [],
-  energy_saving_mcq: (l: string, s: number) => [],
-  energy_saving_typing: (l: string, s: number) => [],
 };
