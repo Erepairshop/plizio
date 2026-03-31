@@ -1,60 +1,61 @@
-import type { StarholdModuleId, StarholdModuleState } from "./types";
+import type { StarholdModuleId, StarholdModuleState, StarholdCommand, LocalizedString } from "./types";
+import { GRAVITAS_TEXT } from "./content";
 
 export interface StarholdModuleDefinition {
   id: StarholdModuleId;
-  name: string;
+  name: LocalizedString;
   startsOnline: boolean;
   integrity: number;
   load: number;
 }
 
 export const STARHOLD_MODULE_DEFINITIONS: StarholdModuleDefinition[] = [
-  { id: "reactor", name: "Reactor", startsOnline: true, integrity: 51, load: 72 },
-  { id: "logistics", name: "Logistics", startsOnline: false, integrity: 34, load: 0 },
-  { id: "core", name: "Core Chamber", startsOnline: false, integrity: 63, load: 12 },
-  { id: "sensor", name: "Sensor Node", startsOnline: false, integrity: 47, load: 0 },
+  { id: "reactor", name: GRAVITAS_TEXT.modules.reactor.name, startsOnline: true, integrity: 51, load: 72 },
+  { id: "logistics", name: GRAVITAS_TEXT.modules.logistics.name, startsOnline: false, integrity: 34, load: 0 },
+  { id: "core", name: GRAVITAS_TEXT.modules.core.name, startsOnline: false, integrity: 63, load: 12 },
+  { id: "sensor", name: GRAVITAS_TEXT.modules.sensor.name, startsOnline: false, integrity: 47, load: 0 },
 ];
 
 export interface StarholdModuleActionProfile {
-  focusLabel: string;
+  focusLabel: LocalizedString;
   repairCost: number;
   repairGain: number;
   loadShift: number;
   onlineThreshold: number;
-  primaryCommand: "STABILIZE_REACTOR" | "SCAVENGE" | "REPAIR_MODULE" | "REROUTE_TO_CORE";
+  primaryCommand: StarholdCommand["type"];
 }
 
 export const STARHOLD_MODULE_ACTION_PROFILES: Record<StarholdModuleId, StarholdModuleActionProfile> = {
   reactor: {
-    focusLabel: "Stabilization",
-    repairCost: 2,
-    repairGain: 6,
-    loadShift: -10,
+    focusLabel: { en: "Stabilization", hu: "Stabilizálás", de: "Stabilisierung", ro: "Stabilizare" },
+    repairCost: 3,
+    repairGain: 8,
+    loadShift: -15,
     onlineThreshold: 45,
     primaryCommand: "STABILIZE_REACTOR",
   },
   logistics: {
-    focusLabel: "Recovery",
-    repairCost: 4,
-    repairGain: 18,
-    loadShift: 18,
-    onlineThreshold: 45,
+    focusLabel: { en: "Recovery", hu: "Helyreállítás", de: "Erholung", ro: "Recuperare" },
+    repairCost: 5,
+    repairGain: 22,
+    loadShift: 25,
+    onlineThreshold: 50,
     primaryCommand: "SCAVENGE",
   },
   core: {
-    focusLabel: "Activation",
-    repairCost: 4,
-    repairGain: 18,
-    loadShift: 18,
-    onlineThreshold: 45,
+    focusLabel: { en: "Activation", hu: "Aktiválás", de: "Aktivierung", ro: "Activare" },
+    repairCost: 6,
+    repairGain: 15,
+    loadShift: 30,
+    onlineThreshold: 60,
     primaryCommand: "REROUTE_TO_CORE",
   },
   sensor: {
-    focusLabel: "Inspection",
+    focusLabel: { en: "Inspection", hu: "Vizsgálat", de: "Inspektion", ro: "Inspecție" },
     repairCost: 4,
-    repairGain: 18,
-    loadShift: 18,
-    onlineThreshold: 45,
+    repairGain: 20,
+    loadShift: 15,
+    onlineThreshold: 40,
     primaryCommand: "REPAIR_MODULE",
   },
 };

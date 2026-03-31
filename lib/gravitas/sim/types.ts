@@ -2,7 +2,7 @@ export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor";
 
 export interface StarholdModuleState {
   id: StarholdModuleId;
-  name: string;
+  name: LocalizedString;
   online: boolean;
   integrity: number;
   load: number;
@@ -26,7 +26,7 @@ export type StarholdAnomalyId = "voidLeak" | "sensorGhost" | "materialEntropy" |
 
 export interface StarholdAnomaly {
   id: StarholdAnomalyId;
-  name: string;
+  name: LocalizedString;
   severity: number;
   duration?: number; // ticks remaining, if any
 }
@@ -44,15 +44,22 @@ export type StarholdEventId =
   | "deepTrek"
   | "entropyCascade";
 
+export type LocalizedString = {
+  en: string;
+  hu: string;
+  de: string;
+  ro: string;
+};
+
 export interface StarholdEventOption {
   id: string;
-  label: string;
+  label: LocalizedString;
 }
 
 export interface StarholdPendingEvent {
   id: StarholdEventId;
-  title: string;
-  body: string;
+  title: LocalizedString;
+  body: LocalizedString;
   options: StarholdEventOption[];
   chainId?: string;
   chainStep?: number;
@@ -68,6 +75,17 @@ export interface StarholdEventDefinition {
   resolve: (state: StarholdState, optionId: string) => StarholdState;
 }
 
+export type StarholdThreatType = "voidStorm" | "meteorShower" | "distortionWave";
+
+export interface StarholdThreatState {
+  type: StarholdThreatType;
+  countdown: number; // Ticks until impact
+  totalDuration: number; // Original countdown duration
+  intensity: number; // 1-10
+  fortified: boolean; // Reactor/Core protection
+  dampened: boolean; // Sensor/Logistics protection
+}
+
 export interface StarholdState {
   tick: number;
   phase: StarholdPhase;
@@ -75,9 +93,10 @@ export interface StarholdState {
   marks: StarholdMarks;
   anomalies: StarholdAnomaly[];
   entropy: number; // 0-100, affects costs and stability
+  threat: StarholdThreatState;
   modules: Record<StarholdModuleId, StarholdModuleState>;
-  alert: string | null;
-  journal: string[];
+  alert: LocalizedString | null;
+  journal: LocalizedString[];
   avatarAwake: boolean;
   resonance: number; // Current energy resonance/heat during transfer
   lastEventTick: Partial<Record<StarholdEventId, number>>;
@@ -95,4 +114,6 @@ export type StarholdCommand =
   | { type: "OVERCLOCK_REACTOR" }
   | { type: "OPTIMIZE_LOGISTICS" }
   | { type: "DEEP_SCAN" }
+  | { type: "FORTIFY_SHELL" }
+  | { type: "DAMPEN_SIGNALS" }
   | { type: "RESOLVE_EVENT"; optionId: string };

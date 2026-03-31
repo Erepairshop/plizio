@@ -1,27 +1,28 @@
-import type { StarholdState } from "./types";
+import type { StarholdState, LocalizedString } from "./types";
 import { GRAVITAS_TEXT } from "./content";
 import { clamp, pushJournal } from "./shared";
 
 export interface ActivationStageInfo {
   stage: 0 | 1 | 2 | 3 | 4;
-  label: string;
+  label: LocalizedString;
   progress: number;
 }
 
 export function getActivationStageInfo(activation: number, avatarAwake: boolean): ActivationStageInfo {
+  const A = GRAVITAS_TEXT.activation;
   if (avatarAwake || activation >= 100) {
-    return { stage: 4, label: "Awakened", progress: 100 };
+    return { stage: 4, label: A.stage4, progress: 100 };
   }
   if (activation >= 70) {
-    return { stage: 3, label: "Shell resonance", progress: activation };
+    return { stage: 3, label: A.stage3, progress: activation };
   }
   if (activation >= 35) {
-    return { stage: 2, label: "Pulse anchored", progress: activation };
+    return { stage: 2, label: A.stage2, progress: activation };
   }
   if (activation >= 10) {
-    return { stage: 1, label: "Conduit primed", progress: activation };
+    return { stage: 1, label: A.stage1, progress: activation };
   }
-  return { stage: 0, label: "Dormant", progress: activation };
+  return { stage: 0, label: A.stage0, progress: activation };
 }
 
 export function unlockActivationTransfer(state: StarholdState): StarholdState {
@@ -29,11 +30,6 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
   return {
     ...state,
     phase: "activation",
-    resources: {
-      ...state.resources,
-      power: clamp(state.resources.power - 6),
-      activation: clamp(state.resources.activation + 10),
-    },
     modules: {
       ...state.modules,
       core: {
@@ -42,8 +38,8 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
         load: clamp(state.modules.core.load + 16),
       },
     },
-    alert: A.conduitUnlockedAlert.en,
-    journal: pushJournal(state, A.conduitUnlockedJournal.en),
+    alert: A.conduitUnlockedAlert,
+    journal: pushJournal(state, A.conduitUnlockedJournal),
   };
 }
 
@@ -54,7 +50,7 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
     return {
       ...state,
       resonance: 0,
-      alert: A.powerExhausted.en,
+      alert: A.powerExhausted,
     };
   }
 
@@ -68,17 +64,23 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
   const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
   const awakened = nextActivation >= 100;
 
-  // High resonance hazards. Only apply when we cross a new high-resonance band,
-  // so holding the button does not stack shell damage multiple times per tick.
+  // High resonance hazards
   let nextMarks = { ...state.marks };
-  let alert = awakened ? A.awakenedAlert.en : A.resonanceRisingAlert.en;
+  let alert = awakened ? A.awakenedAlert : A.resonanceRisingAlert;
   const crossedHighBand =
     nextResonance > 85 && Math.floor(nextResonance / 5) > Math.floor(state.resonance / 5);
 
   if (crossedHighBand) {
     nextMarks.shellStrain = clamp(nextMarks.shellStrain + 1);
-    alert = A.criticalResonanceAlert.en;
+    alert = A.criticalResonanceAlert;
   }
+
+  const intensityLine: LocalizedString = {
+    en: `${A.transferIntensityJournal.en}: ${Math.floor(nextResonance)}%`,
+    hu: `${A.transferIntensityJournal.hu}: ${Math.floor(nextResonance)}%`,
+    de: `${A.transferIntensityJournal.de}: ${Math.floor(nextResonance)}%`,
+    ro: `${A.transferIntensityJournal.ro}: ${Math.floor(nextResonance)}%`,
+  };
 
   return {
     ...state,
@@ -102,9 +104,9 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
     },
     alert,
     journal: awakened
-      ? pushJournal(state, A.awakenedJournal.en)
+      ? pushJournal(state, A.awakenedJournal)
       : state.resources.activation % 10 < amount
-        ? pushJournal(state, `${A.transferIntensityJournal.en}: ${Math.floor(nextResonance)}%`)
+        ? pushJournal(state, intensityLine)
         : state.journal,
   };
 }

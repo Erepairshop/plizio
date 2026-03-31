@@ -1,4 +1,4 @@
-import type { StarholdCommand, StarholdState } from "./types";
+import type { StarholdCommand, StarholdState, LocalizedString } from "./types";
 import { addResourceDelta, clamp, pushJournal, updateModuleIntegrity, withAlert, addModuleLoad } from "./shared";
 import { canStartActivationTransfer, channelActivationPulse, unlockActivationTransfer } from "./activation";
 import { getModuleActionProfile } from "./modules";
@@ -28,15 +28,17 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       };
     }
     case "STABILIZE_REACTOR": {
-      if (state.resources.materials < 2) {
+      const profile = getModuleActionProfile("reactor");
+      const entropyMod = 1 + Math.floor(state.entropy / 20);
+      const cost = Math.ceil(profile.repairCost * entropyMod);
+      if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
       }
-      const profile = getModuleActionProfile("reactor");
       const nextLoad = addModuleLoad(state, "reactor", profile.loadShift).load;
       return {
         ...state,
         resources: addResourceDelta(state.resources, {
-          materials: -profile.repairCost,
+          materials: -cost,
           power: 8,
           stability: 5,
         }),
@@ -53,7 +55,9 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
-      if (state.resources.materials < profile.repairCost) {
+      const entropyMod = 1 + Math.floor(state.entropy / 20);
+      const cost = Math.ceil(profile.repairCost * entropyMod);
+      if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       }
       const target = state.modules[command.moduleId];
@@ -62,7 +66,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       return {
         ...state,
         resources: addResourceDelta(state.resources, {
-          materials: -profile.repairCost,
+          materials: -cost,
           stability: 2,
         }),
         modules: {
@@ -79,10 +83,22 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       };
     }
     case "REROUTE_TO_CORE": {
+      const entropyMod = 1 + Math.floor(state.entropy / 20);
+      const cost = Math.ceil(6 * entropyMod);
+      if (state.resources.power < cost) {
+        return withAlert(state, GRAVITAS_TEXT.alerts.noPowerReroute);
+      }
       if (!canStartActivationTransfer(state)) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noPowerReroute);
       }
-      return unlockActivationTransfer(state);
+      return {
+        ...unlockActivationTransfer(state),
+        resources: {
+          ...state.resources,
+          power: clamp(state.resources.power - cost),
+          activation: clamp(state.resources.activation + 10),
+        }
+      };
     }
     case "CHANNEL_TO_CORE": {
       return channelActivationPulse(state, command.amount);
@@ -98,6 +114,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           stability: 4,
         }),
         marks: {
+          ...state.marks,
           reactorScar: clamp(state.marks.reactorScar - 1),
           shellStrain: clamp(state.marks.shellStrain - 1),
           supplyStress: clamp(state.marks.supplyStress - 1),
@@ -122,7 +139,12 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         }),
         anomalies: state.anomalies.filter(a => a.id !== command.anomalyId),
         alert: GRAVITAS_TEXT.alerts.anomalyPurged(anomaly.name),
-        journal: pushJournal(state, `Purged ${anomaly.name} from the station grid.`),
+        journal: pushJournal(state, {
+          en: `Purged ${anomaly.name.en} from the station grid.`,
+          hu: `${anomaly.name.hu} eltávolítva az állomás hálózatából.`,
+          de: `${anomaly.name.de} aus dem Stationsnetz getilgt.`,
+          ro: `${anomaly.name.ro} eliminat din rețeaua stației.`,
+        }),
       };
     }
     case "OVERCLOCK_REACTOR": {
@@ -144,8 +166,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
             integrity: clamp(state.modules.reactor.integrity - 12),
           }
         },
-        alert: "Reactor core overdriven! Output surging!",
-        journal: pushJournal(state, "You forced the reactor past safety limits for an immediate power surge."),
+        alert: GRAVITAS_TEXT.alerts.reactorOverdriven,
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.overclockJournal),
       };
     }
     case "OPTIMIZE_LOGISTICS": {
@@ -167,8 +189,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
             load: clamp(state.modules.logistics.load + 30),
           }
         },
-        alert: "Logistics routes optimized for maximum throughput.",
-        journal: pushJournal(state, "Drone flight paths were recalculated for better salvage yields at a cost of grid stress."),
+        alert: GRAVITAS_TEXT.alerts.logisticsOptimized,
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.optimizeJournal),
       };
     }
     case "DEEP_SCAN": {
@@ -185,8 +207,48 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ...state.marks,
           voidEcho: clamp(state.marks.voidEcho - 4),
         },
-        alert: "Deep sensor scan completed. Void echoes dampened.",
-        journal: pushJournal(state, "A focused sensor pulse cleared local psychic resonance in the shell."),
+        alert: GRAVITAS_TEXT.alerts.deepScanComplete,
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.deepScanJournal),
+      };
+    }
+    case "DAMPEN_SIGNALS": {
+      if (state.threat.countdown > 5 || state.threat.dampened) {
+        return state;
+      }
+      if (state.resources.power < 8) {
+        return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
+      }
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, {
+          power: -8,
+        }),
+        threat: {
+          ...state.threat,
+          dampened: true,
+        },
+        alert: GRAVITAS_TEXT.threats.dampenedJournal,
+        journal: pushJournal(state, GRAVITAS_TEXT.threats.dampenedJournal),
+      };
+    }
+    case "FORTIFY_SHELL": {
+      if (state.threat.countdown > 5 || state.threat.fortified) {
+        return state;
+      }
+      if (state.resources.materials < 10) {
+        return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
+      }
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, {
+          materials: -10,
+        }),
+        threat: {
+          ...state.threat,
+          fortified: true,
+        },
+        alert: GRAVITAS_TEXT.threats.fortifiedJournal,
+        journal: pushJournal(state, GRAVITAS_TEXT.threats.fortifiedJournal),
       };
     }
     case "RESOLVE_EVENT": {
@@ -199,8 +261,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 
 export interface GravitasActionSlot {
   id: string;
-  label: string;
-  hint: string;
+  label: LocalizedString;
+  hint: LocalizedString;
   command: StarholdCommand;
   disabled?: boolean;
   emphasis?: "primary" | "secondary";
@@ -223,8 +285,18 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
     ) {
       slots.push({
         id: `purge-${anomaly.id}`,
-        label: `Purge ${anomaly.name}`,
-        hint: `Clear the ${anomaly.name} from the module grid at a power cost.`,
+        label: {
+          en: `Purge ${anomaly.name.en}`,
+          hu: `${anomaly.name.hu} semlegesítése`,
+          de: `${anomaly.name.de} tilgen`,
+          ro: `Purjare ${anomaly.name.ro}`
+        },
+        hint: {
+          en: `Clear the ${anomaly.name.en} from the module grid at a power cost.`,
+          hu: `Eltávolítja a(z) ${anomaly.name.hu} anomáliát energia árán.`,
+          de: `Tilge ${anomaly.name.de} aus dem Netz gegen Energie.`,
+          ro: `Elimină ${anomaly.name.ro} din rețea contra cost energie.`
+        },
         command: { type: "PURGE_ANOMALY", anomalyId: anomaly.id },
         emphasis: "secondary",
       });
@@ -235,36 +307,45 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
     case "reactor":
       slots.push({
         id: "stabilize",
-        label: "Stabilize reactor",
-        hint: "Dampen the current drift and refill the station buffer.",
+        label: { en: "Stabilize reactor", hu: "Reaktor stabilizálása", de: "Reaktor stabilisieren", ro: "Stabilizează reactorul" },
+        hint: { en: "Dampen the current drift and refill the station buffer.", hu: "Csökkenti a driftet és feltölti az állomás puffereit.", de: "Dämpfe den aktuellen Drift und fülle den Stationspuffer.", ro: "Atenuează deriva actuală și umple tamponul stației." },
         command: { type: "STABILIZE_REACTOR" },
       }, {
         id: "overclock",
-        label: "Overclock Core",
-        hint: "Push reactor beyond limits for +20 power. High integrity risk.",
+        label: { en: "Overclock Core", hu: "Mag túlhajtása", de: "Kern überlasten", ro: "Suprasolicitare nucleu" },
+        hint: { en: "Push reactor beyond limits for +20 power. High integrity risk.", hu: "A határértékek fölé hajtja a reaktort (+20 energia). Nagy kockázat.", de: "Reaktor über Limits treiben für +20 Energie. Hohes Risiko.", ro: "Împinge reactorul peste limite pentru +20 energie. Risc ridicat." },
         command: { type: "OVERCLOCK_REACTOR" },
         emphasis: "secondary",
       });
+      if (state.threat.countdown <= 5 && !state.threat.fortified) {
+        slots.push({
+          id: "fortify",
+          label: { en: "Fortify Shell", hu: "Váz megerősítése", de: "Hülle verstärken", ro: "Fortifică corpul" },
+          hint: { en: "Reinforce structure against the coming threat (Costs 10 MAT).", hu: "Szerkezet megerősítése a közelgő veszély ellen (10 ANYAG).", de: "Struktur gegen kommende Bedrohung verstärken (10 MAT).", ro: "Consolidează structura împotriva amenințării (10 MAT)." },
+          command: { type: "FORTIFY_SHELL" },
+          emphasis: "secondary",
+        });
+      }
       break;
     case "logistics":
       slots.push(
         {
           id: "scavenge",
-          label: "Full Scavenge",
-          hint: "Deploy all available drones for a heavy material haul.",
+          label: { en: "Full Scavenge", hu: "Teljes gyűjtés", de: "Vollständige Bergung", ro: "Recuperare completă" },
+          hint: { en: "Deploy all available drones for a heavy material haul.", hu: "Az összes drón bevetése nagy mennyiségű anyagért.", de: "Alle Drohnen für große Materialbergung einsetzen.", ro: "Desfășoară toate dronele pentru o captură mare de materiale." },
           command: { type: "SCAVENGE" },
           emphasis: "primary",
         },
         {
           id: "optimize",
-          label: "Route Optimization",
-          hint: "Boost material intake (+12). Stress the supply grid.",
+          label: { en: "Route Optimization", hu: "Útvonal optimalizálás", de: "Routenoptimierung", ro: "Optimizare rute" },
+          hint: { en: "Boost material intake (+12). Stress the supply grid.", hu: "Növeli az anyagbevitelt (+12). Megterheli az ellátóhálózatot.", de: "Erhöhe Materialaufnahme (+12). Belastet Versorgungsnetz.", ro: "Crește aportul de materiale (+12). Solicită rețeaua." },
           command: { type: "OPTIMIZE_LOGISTICS" },
         },
         {
           id: "repairLogistics",
-          label: `Repair ${module.name}`,
-          hint: "Reopen supply routing and reduce future drain.",
+          label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repară ${module.name.ro}` },
+          hint: { en: "Reopen supply routing and reduce future drain.", hu: "Újranyitja az ellátási útvonalakat és csökkenti a jövőbeli veszteséget.", de: "Versorgungsrouten öffnen und zukünftigen Abfluss senken.", ro: "Redeschide rutele și reduce pierderile viitoare." },
           command: { type: "REPAIR_MODULE", moduleId: "logistics" },
         }
       );
@@ -273,42 +354,51 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
       slots.push(
         {
           id: "distortionSweep",
-          label: "Distortion Sweep",
-          hint: "Use long-range sensors to clear structural anomalies and marks.",
+          label: { en: "Distortion Sweep", hu: "Torzítás-keresés", de: "Distortionssweep", ro: "Scanare distorsiuni" },
+          hint: { en: "Use long-range sensors to clear structural anomalies and marks.", hu: "Távoli szenzorok használata az anomáliák és nyomok eltávolítására.", de: "Langstreckensensoren zur Klärung von Anomalien und Spuren nutzen.", ro: "Folosește senzori la distanță pentru a curăța anomaliile." },
           command: { type: "DISTORTION_SWEEP" },
           emphasis: "primary",
           disabled: !module.online,
         },
         {
           id: "deepScan",
-          label: "Deep Sensor Scan",
-          hint: "Directly dampen void echoes. Costly power usage.",
+          label: { en: "Deep Sensor Scan", hu: "Mély szenzoros vizsgálat", de: "Tiefer Sensorscan", ro: "Scanare senzori profundă" },
+          hint: { en: "Directly dampen void echoes. Costly power usage.", hu: "Közvetlenül csökkenti a void visszhangokat. Magas energiaköltség.", de: "Void-Echos direkt dämpfen. Teurer Energieaufwand.", ro: "Atenuează direct ecourile void. Consum mare de energie." },
           command: { type: "DEEP_SCAN" },
           disabled: !module.online,
         },
         {
           id: "repairSensor",
-          label: `Repair ${module.name}`,
-          hint: "Bring the long-range distortion grid back online.",
+          label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repară ${module.name.ro}` },
+          hint: { en: "Bring the long-range distortion grid back online.", hu: "Visszakapcsolja a távoli torzulásfigyelő hálózatot.", de: "Bringt das Langstrecken-Distortionsgitter zurück.", ro: "Repune în funcțiune rețeaua de distorsiuni." },
           command: { type: "REPAIR_MODULE", moduleId: "sensor" },
         }
       );
+      if (state.threat.countdown <= 5 && !state.threat.dampened && module.online) {
+        slots.push({
+          id: "dampen",
+          label: { en: "Dampen Signals", hu: "Jelcsillapítás", de: "Signale dämpfen", ro: "Atenuează semnalele" },
+          hint: { en: "Dampen psychic signals to reduce void impact (Costs 8 PWR).", hu: "Pszichikai jelek csillapítása a void hatás csökkentésére (8 ENERGIA).", de: "Psychische Signals dämpfen, um Void-Einschlag zu senken (8 PWR).", ro: "Atenuează semnalele psihice pentru a reduce impactul void (8 PWR)." },
+          command: { type: "DAMPEN_SIGNALS" },
+          emphasis: "secondary",
+        });
+      }
       break;
     case "core":
     default:
       slots.push(
         {
           id: "reroute",
-          label: "Reroute power to core",
-          hint: "Unlock the activation chamber and start the transfer.",
+          label: { en: "Reroute power to core", hu: "Energia a maghoz", de: "Energie zum Kern", ro: "Energie spre nucleu" },
+          hint: { en: "Unlock the activation chamber and start the transfer.", hu: "Felnyitja az aktivációs kamrát és elindítja az átvitelt.", de: "Kernkammer freischalten und Transfer starten.", ro: "Deblochează camera și începe transferul." },
           command: { type: "REROUTE_TO_CORE" },
           disabled: !coreReady,
           emphasis: "primary",
         },
         {
           id: "repairCore",
-          label: `Repair ${module.name}`,
-          hint: "Reduce shell strain before the awakening run.",
+          label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repară ${module.name.ro}` },
+          hint: { en: "Reduce shell strain before the awakening run.", hu: "Csökkenti a testfeszülést az ébredés előtt.", de: "Hüllenspannung vor dem Erwachenslauf senken.", ro: "Reduce tensiunea corpului înainte de trezire." },
           command: { type: "REPAIR_MODULE", moduleId: "core" },
         }
       );
