@@ -208,7 +208,8 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   } : null;
 
   const nextType = (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
-  const nextDuration = 22 + Math.floor(Math.random() * 15);
+  const nextCycle = state.threatCycle + 1;
+  const nextDuration = Math.max(10, 15 - Math.floor(nextCycle / 4));
   const starReward = Math.ceil(threat.intensity / 2);
 
   return {
@@ -222,11 +223,12 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
     modules: nextModules,
     marks: nextMarks,
     anomalies: nextAnomalies,
+    threatCycle: nextCycle,
     threat: {
       type: nextType,
       countdown: nextDuration,
       totalDuration: nextDuration,
-      intensity: Math.min(10, threat.intensity + 1),
+      intensity: Math.min(10, 2 + Math.floor(nextCycle / 3)),
       fortified: false,
       dampened: false,
       intercepted: false,
@@ -242,4 +244,57 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
     alert: impactJournal,
     journal: pushJournal(state, impactJournal),
   };
+}
+
+export function getUpcomingDamagePreview(state: StarholdState): { 
+  stabilityLoss: number; 
+  powerLoss: number;
+  moduleDamage: Record<StarholdModuleId, number>; 
+  markGain: Partial<StarholdMarks> 
+} | null {
+  const { threat } = state;
+  const mods = getStarholdModifiers(state);
+  
+  const intensityFactor = 1 + (threat.intensity * 0.3);
+  const predictionBonus = threat.predicted ? 0.35 : 0;
+  
+  let stabilityLoss = 0;
+  let powerLoss = 0;
+  let moduleDamage: Record<StarholdModuleId, number> = { reactor: 0, logistics: 0, core: 0, sensor: 0 };
+  let markGain: Partial<StarholdMarks> = {};
+
+  switch (threat.type) {
+    case "distortionWave": {
+      const baseDmg = 28 * intensityFactor;
+      const reduction = (threat.fortified ? 0.75 : 0) + predictionBonus;
+      stabilityLoss = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
+      markGain.shellStrain = Math.max(0, (threat.fortified ? 1 : 5) - mods.shellStrainReduction) + 3;
+      markGain.voidEcho = 2;
+      break;
+    }
+    case "voidStorm": {
+      const baseDmg = 22 * intensityFactor;
+      const reduction = (threat.dampened ? 0.7 : 0) + predictionBonus;
+      powerLoss = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
+      markGain.voidEcho = (threat.dampened ? 1 : 6) + 4;
+      markGain.reactorScar = 2;
+      break;
+    }
+    case "meteorShower": {
+      const baseDmg = 18 * intensityFactor;
+      const reduction = (threat.intercepted ? 0.85 : 0) + predictionBonus;
+      if (reduction >= 0.85) {
+        moduleDamage.logistics = 18;
+      } else {
+        const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
+        ids.forEach(id => {
+          moduleDamage[id] = Math.floor(baseDmg * 1.4 * (1 - reduction));
+        });
+        markGain.supplyStress = 3;
+        markGain.shellStrain = Math.max(0, 5 - mods.shellStrainReduction) + 2;
+      }
+      break;
+    }
+  }
+  return { stabilityLoss, powerLoss, moduleDamage, markGain };
 }

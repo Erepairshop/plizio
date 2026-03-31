@@ -18,6 +18,7 @@ import { saveGravitasState, loadGravitasState, clearGravitasSave } from "@/lib/g
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
+import { getUpcomingDamagePreview } from "@/lib/gravitas/sim/threats";
 import type { StarholdCommand, StarholdModuleId, StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
 import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
 import AwakeningCeremony from "@/components/gravitas/AwakeningCeremony";
@@ -53,6 +54,7 @@ export default function GravitasPage() {
   const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
+  const [tipDismissed, setTipDismissed] = useState(false);
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
   const awakeningShownRef = useRef(false);
@@ -136,6 +138,13 @@ export default function GravitasPage() {
     [selectedModule, state]
   );
 
+  const currentTip = useMemo(() => {
+    if (state.tick < 10) return { en: "Your station is damaged. Scavenge materials to begin repairs.", hu: "Az állomás sérült. Gyűjts anyagot a javítások elindításához.", de: "Ihre Station ist beschädigt. Sammeln Sie Material für Reparaturen.", ro: "Stația este avariată. Colectează materiale pentru reparații." };
+    if (state.tick >= 10 && state.tick < 20 && !state.modules.logistics.online) return { en: "Repair Logistics to improve material flow.", hu: "Javítsd meg a logisztikát az anyagáramlás segítéséhez.", de: "Reparieren Sie die Logistik für besseren Materialfluss.", ro: "Repará logistica pentru a îmbunătăți fluxul de materiale." };
+    if (state.tick >= 20 && state.tick < 30 && state.phase === "boot") return { en: "When ready, Reroute to Core to begin avatar activation.", hu: "Ha kész vagy, irányítsd az energiát a magba az aktiváláshoz.", de: "Wenn bereit, leiten Sie Energie in den Kern zur Aktivierung.", ro: "Când ești gata, redirecționează spre nucleu pentru activare." };
+    return null;
+  }, [state.tick, state.modules.logistics.online, state.phase]);
+
   const mods = getStarholdModifiers(state);
 
   return (
@@ -210,6 +219,28 @@ export default function GravitasPage() {
             activeEventId={state.pendingEvent?.id ?? null}
           />
 
+          {/* Onboarding Tips */}
+          <AnimatePresence>
+            {!tipDismissed && state.tick < 30 && currentTip && (
+              <motion.div
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, scale: 0.9 }}
+                className="absolute top-20 left-4 right-4 z-30 p-3 rounded-xl bg-blue-500/20 backdrop-blur-md border border-blue-500/30 flex items-center justify-between gap-3 shadow-2xl"
+              >
+                <div className="flex items-center gap-2">
+                  <Info size={14} className="text-blue-400 shrink-0" />
+                  <p className="text-[10px] font-black uppercase tracking-tight text-blue-100">
+                    {localize(currentTip)}
+                  </p>
+                </div>
+                <button onClick={() => setTipDismissed(true)} className="p-1 text-white/40 hover:text-white transition">
+                  <X size={14} />
+                </button>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
           {/* Overlay Status info */}
           <div className="absolute top-4 left-4 pointer-events-none">
             <h1 className="text-xl font-black tracking-tight opacity-80">{localize(ui.subtitle)}</h1>
@@ -235,8 +266,13 @@ export default function GravitasPage() {
               <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs ${state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
                 {state.threat.aftershock > 0 ? state.threat.aftershock : (state.threat.countdown <= 10 || hasPredictor ? state.threat.countdown : "--")}
               </div>
-              <div className="text-[11px] font-black uppercase tracking-widest truncate max-w-[120px]">
-                {localize(content.threats[state.threat.type])}
+              <div className="flex flex-col">
+                <div className="text-[11px] font-black uppercase tracking-widest truncate max-w-[120px]">
+                  {localize(content.threats[state.threat.type])}
+                </div>
+                <div className="text-[9px] font-bold text-white/40 uppercase tracking-tighter">
+                  {localize({ en: `Wave #${state.threatCycle}`, hu: `${state.threatCycle}. hullám`, de: `Welle #${state.threatCycle}`, ro: `Valul #${state.threatCycle}` })}
+                </div>
               </div>
             </div>
             <div className="flex gap-1.5">
@@ -252,6 +288,33 @@ export default function GravitasPage() {
               style={{ width: `${state.threat.aftershock > 0 ? (state.threat.aftershock / 6) * 100 : (state.threat.countdown / state.threat.totalDuration) * 100}%` }}
             />
           </div>
+
+          {state.threat.countdown <= 5 && state.threat.aftershock === 0 && (
+            <div className="mt-2 pt-2 border-t border-white/5">
+              {!state.modules.sensor.online ? (
+                <div className="text-[9px] font-bold text-white/20 uppercase">
+                  {localize({ en: "Sensor offline — no forecast available", hu: "Szenzor offline — előrejelzés nem elérhető", de: "Sensor offline — keine Vorhersage verfügbar", ro: "Senzor offline — prognoză indisponibilă" })}
+                </div>
+              ) : (
+                <div className="text-[9px] font-bold text-amber-400/80 uppercase">
+                  {(() => {
+                    const preview = getUpcomingDamagePreview(state);
+                    if (!preview) return null;
+                    const parts = [];
+                    if (preview.stabilityLoss > 0) parts.push(`-${preview.stabilityLoss} STB`);
+                    if (preview.powerLoss > 0) parts.push(`-${preview.powerLoss} PWR`);
+                    Object.entries(preview.moduleDamage).forEach(([id, dmg]) => {
+                      if (dmg > 0) parts.push(`${localize(state.modules[id as StarholdModuleId].name)} -${dmg}%`);
+                    });
+                    Object.entries(preview.markGain).forEach(([id, val]) => {
+                      if (val && val > 0) parts.push(`+${val} ${id}`);
+                    });
+                    return `${localize({en: "Est. damage: ", hu: "Becsült kár: ", de: "Erw. Schaden: ", ro: "Daune est.: "})} ${parts.join(", ")}`;
+                  })()}
+                </div>
+              )}
+            </div>
+          )}
         </div>
 
         {/* Journal Preview */}
@@ -328,10 +391,10 @@ export default function GravitasPage() {
         <MainAction label={localize(ui.stabilize)} onClick={() => dispatch({ type: "STABILIZE_REACTOR" })} emphasis={isRecovering && !isLockdown} />
         <MainAction label={localize(ui.repairLogistics)} onClick={() => dispatch({ type: "REPAIR_MODULE", moduleId: "logistics" })} />
         <MainAction
-          label={localize(ui.reroute)}
-          onClick={() => dispatch({ type: "REROUTE_TO_CORE" })}
-          disabled={!canReroute || isLockdown}
-          highlight={canReroute && !isLockdown}
+          label={state.phase === "awakened" ? localize({ en: "Avatar Pulse", hu: "Avatár impulzus", de: "Avatar-Puls", ro: "Puls Avatar" }) : localize(ui.reroute)}
+          onClick={() => dispatch({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" })}
+          disabled={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown)}
+          highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown)}
         />
       </nav>
 
@@ -393,6 +456,16 @@ export default function GravitasPage() {
                             <div className="text-[10px] font-black">{m.integrity}%</div>
                           </div>
                           <div className="text-xs font-black truncate">{localize(m.name)}</div>
+                          {m.load >= 90 && (
+                            <div className="mt-1 text-[8px] font-black text-rose-500 uppercase">
+                              {localize({ en: "OVERLOADED", hu: "TÚLTERHELT", de: "ÜBERLASTET", ro: "SUPRAÎNCĂRCAT" })}
+                            </div>
+                          )}
+                          {m.load >= 80 && m.load < 90 && (
+                            <div className="mt-1 text-[8px] font-black text-amber-500 uppercase">
+                              {localize({ en: "HIGH LOAD", hu: "MAGAS TERHELÉS", de: "HOHE LAST", ro: "SARCINĂ MARE" })}
+                            </div>
+                          )}
                         </button>
                       );
                     })}

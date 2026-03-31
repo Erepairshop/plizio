@@ -118,12 +118,14 @@ export interface StarholdState {
   highStability: boolean; // True if stability is very high
   lockdown: boolean; // True if stability reached 0
   recoveryPriority: { moduleId: StarholdModuleId; reason: LocalizedString } | null; // Set after impact, cleared when aftershock ends
+  threatCycle: number;
+  lastAvatarPulse: number;
 }
 
 export type StarholdCommand =
   | { type: "SCAVENGE" }
   | { type: "STABILIZE_REACTOR" }
-  | { type: "REPAIR_MODULE"; moduleId: Exclude<StarholdModuleId, "reactor"> }
+  | { type: "REPAIR_MODULE"; moduleId: StarholdModuleId }
   | { type: "REROUTE_TO_CORE" }
   | { type: "CHANNEL_TO_CORE"; amount: number }
   | { type: "DISTORTION_SWEEP" }
@@ -139,6 +141,7 @@ export type StarholdCommand =
   | { type: "TUNE_SHIELDS" }
   | { type: "EMERGENCY_DISCHARGE" }
   | { type: "RAPID_FABRICATION"; moduleId: StarholdModuleId }
+  | { type: "AVATAR_PULSE" }
   | { type: "CLAIM_MILESTONE"; milestoneId: string }
   | { type: "BUY_ITEM"; itemId: string }
   | { type: "RESOLVE_EVENT"; optionId: string };

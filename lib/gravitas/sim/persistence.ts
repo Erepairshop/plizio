@@ -30,7 +30,12 @@ export function loadGravitasState(): StarholdState | null {
     ) {
       return null;
     }
-    return parsed;
+    // Backward compatibility for new fields
+    return {
+      ...parsed,
+      threatCycle: parsed.threatCycle ?? 0,
+      lastAvatarPulse: parsed.lastAvatarPulse ?? -100,
+    };
   } catch {
     return null;
   }
