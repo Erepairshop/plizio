@@ -42,6 +42,48 @@ function moduleIcon(moduleId: StarholdModuleId) {
 
 type Lang = "en" | "hu" | "de" | "ro";
 
+function StationHealthRing({ state }: { state: StarholdState }) {
+  const modules = [
+    { id: "reactor", integrity: state.modules.reactor.integrity },
+    { id: "logistics", integrity: state.modules.logistics.integrity },
+    { id: "sensor", integrity: state.modules.sensor.integrity },
+    { id: "core", integrity: state.modules.core.integrity },
+  ];
+
+  const getColor = (val: number) => val > 60 ? "#10b981" : val > 30 ? "#f59e0b" : "#ef4444";
+  const radius = 9;
+  const circumference = 2 * Math.PI * radius;
+  const size = 24;
+  const center = size / 2;
+  const isAnyLow = modules.some(m => m.integrity < 30);
+
+  return (
+    <div className={`relative w-6 h-6 ${isAnyLow ? "animate-pulse" : ""}`}>
+      <svg width={size} height={size} className="-rotate-90">
+        {modules.map((m, i) => {
+          const offset = (circumference / 4) * i;
+          const strokeVal = (m.integrity / 100) * (circumference / 4);
+          return (
+            <circle
+              key={m.id}
+              cx={center}
+              cy={center}
+              r={radius}
+              fill="transparent"
+              stroke={getColor(m.integrity)}
+              strokeWidth="2.5"
+              strokeDasharray={`${strokeVal} ${circumference}`}
+              strokeDashoffset={-offset}
+              strokeLinecap="round"
+              className="transition-all duration-1000"
+            />
+          );
+        })}
+      </svg>
+    </div>
+  );
+}
+
 export default function GravitasPage() {
   const { lang: currentLang } = useLang();
   const lang = (currentLang as Lang) || "en";
@@ -54,10 +96,18 @@ export default function GravitasPage() {
   const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
+  const [actionFlash, setActionFlash] = useState<string | null>(null);
   const [tipDismissed, setTipDismissed] = useState(false);
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
   const awakeningShownRef = useRef(false);
+  const prevResourcesRef = useRef(state.resources);
+
+  const doAction = (command: StarholdCommand, color: string) => {
+    dispatch(command);
+    setActionFlash(color);
+    setTimeout(() => setActionFlash(null), 300);
+  };
 
   useEffect(() => {
     if (state.avatarAwake && !awakeningShownRef.current) {
@@ -187,8 +237,11 @@ export default function GravitasPage() {
           <Link href="/" className="p-2 -ml-2 text-white/40 hover:text-white transition">
             <ChevronLeft size={20} />
           </Link>
-          <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.highStability ? "bg-emerald-500/20 text-emerald-400" : "bg-cyan-500/20 text-cyan-300"}`}>
-            {phaseLabel}
+          <div className="flex items-center gap-2">
+            <StationHealthRing state={state} />
+            <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.highStability ? "bg-emerald-500/20 text-emerald-400" : "bg-cyan-500/20 text-cyan-300"}`}>
+              {phaseLabel}
+            </div>
           </div>
         </div>
 
@@ -238,7 +291,10 @@ export default function GravitasPage() {
 
       {/* Game View */}
       <div className="flex-1 relative overflow-hidden flex flex-col">
-        <div className={`flex-1 relative transition-all duration-1000 ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}>
+        <div 
+          className={`flex-1 relative transition-all duration-500 ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
+          style={{ boxShadow: actionFlash ? `inset 0 0 60px ${actionFlash}` : "none" }}
+        >
           <GravitasScene
             state={state}
             selectedModule={selectedModule}
@@ -414,12 +470,12 @@ export default function GravitasPage() {
 
       {/* Main Actions - Bottom Bar */}
       <nav className="fixed bottom-0 left-0 right-0 p-4 pb-6 bg-black/40 backdrop-blur-xl border-t border-white/10 grid grid-cols-4 gap-2 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
-        <MainAction label={localize(ui.scavenge)} onClick={() => dispatch({ type: "SCAVENGE" })} disabled={isLockdown} />
-        <MainAction label={localize(ui.stabilize)} onClick={() => dispatch({ type: "STABILIZE_REACTOR" })} emphasis={isRecovering && !isLockdown} />
-        <MainAction label={localize(ui.repairLogistics)} onClick={() => dispatch({ type: "REPAIR_MODULE", moduleId: "logistics" })} />
+        <MainAction label={localize(ui.scavenge)} onClick={() => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)")} disabled={isLockdown} />
+        <MainAction label={localize(ui.stabilize)} onClick={() => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)")} emphasis={isRecovering && !isLockdown} />
+        <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} />
         <MainAction
           label={state.phase === "awakened" ? localize({ en: "Avatar Pulse", hu: "Avatár impulzus", de: "Avatar-Puls", ro: "Puls Avatar" }) : localize(ui.reroute)}
-          onClick={() => dispatch({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" })}
+          onClick={() => doAction({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" }, "rgba(219,39,119,0.4)")}
           disabled={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown)}
           highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown)}
         />
@@ -472,25 +528,40 @@ export default function GravitasPage() {
                     {Object.values(state.modules).map((m) => {
                       const Icon = moduleIcon(m.id);
                       const isSelected = m.id === selectedModule;
+                      const integrityColor = m.integrity > 60 ? "bg-emerald-500" : m.integrity > 30 ? "bg-amber-500" : "bg-rose-500";
+                      
                       return (
                         <button
                           key={m.id}
                           onClick={() => setSelectedModule(m.id)}
-                          className={`p-4 rounded-2xl border text-left transition ${isSelected ? "border-cyan-400 bg-cyan-400/10" : "border-white/10 bg-white/5"}`}
+                          className={`relative p-4 rounded-2xl border text-left transition overflow-hidden ${isSelected ? "border-cyan-400 bg-cyan-400/10" : "border-white/10 bg-white/5"} ${m.load >= 90 ? "animate-pulse ring-2 ring-rose-500 ring-inset" : ""} ${!m.online ? "opacity-60" : ""}`}
                         >
+                          {!m.online && (
+                            <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+                              <span className="text-[8px] font-black text-white/10 rotate-12 tracking-[0.5em] scale-150">OFFLINE</span>
+                            </div>
+                          )}
+                          
                           <div className="flex items-center justify-between mb-2">
                             <Icon size={16} className={isSelected ? "text-cyan-400" : "text-white/40"} />
                             <div className="text-[10px] font-black">{m.integrity}%</div>
                           </div>
-                          <div className="text-xs font-black truncate">{localize(m.name)}</div>
-                          {m.load >= 90 && (
-                            <div className="mt-1 text-[8px] font-black text-rose-500 uppercase">
-                              {localize({ en: "OVERLOADED", hu: "TÚLTERHELT", de: "ÜBERLASTET", ro: "SUPRAÎNCĂRCAT" })}
+                          
+                          <div className="text-xs font-black truncate mb-2">{localize(m.name)}</div>
+                          
+                          {/* Mini Bars */}
+                          <div className="space-y-1">
+                            <div className="h-1 w-full bg-white/5 rounded-full overflow-hidden">
+                              <div className={`h-full ${integrityColor} transition-all duration-500`} style={{ width: `${m.integrity}%` }} />
                             </div>
-                          )}
-                          {m.load >= 80 && m.load < 90 && (
-                            <div className="mt-1 text-[8px] font-black text-amber-500 uppercase">
-                              {localize({ en: "HIGH LOAD", hu: "MAGAS TERHELÉS", de: "HOHE LAST", ro: "SARCINĂ MARE" })}
+                            <div className="h-1 w-full bg-white/5 rounded-full overflow-hidden">
+                              <div className="h-full bg-gradient-to-r from-blue-500 via-amber-500 to-rose-500 transition-all duration-500" style={{ width: `${m.load}%` }} />
+                            </div>
+                          </div>
+
+                          {m.load >= 90 && (
+                            <div className="mt-2 text-[8px] font-black text-rose-500 uppercase">
+                              {localize({ en: "OVERLOADED", hu: "TÚLTERHELT", de: "ÜBERLASTET", ro: "SUPRAÎNCĂRCAT" })}
                             </div>
                           )}
                         </button>
@@ -511,9 +582,9 @@ export default function GravitasPage() {
                       {moduleActions.map((action) => (
                         <button
                           key={action.id}
-                          onClick={() => { dispatch(action.command); if (!action.command.type.includes("EVENT")) setActivePanel(null); }}
+                          onClick={() => { doAction(action.command, "rgba(34,211,238,0.4)"); if (!action.command.type.includes("EVENT")) setActivePanel(null); }}
                           disabled={action.disabled}
-                          className={`w-full p-4 rounded-xl border text-left flex items-center justify-between gap-4 transition ${action.disabled ? "opacity-30 grayscale cursor-not-allowed" : "border-white/10 bg-white/5 active:bg-white/10"}`}
+                          className={`w-full p-4 rounded-xl border text-left flex items-center justify-between gap-4 transition active:scale-[0.98] active:brightness-125 ${action.disabled ? "opacity-30 grayscale cursor-not-allowed" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
                         >
                           <div>
                             <div className="text-sm font-black">{localize(action.label)}</div>
@@ -649,9 +720,41 @@ export default function GravitasPage() {
 
 // Helper Components
 function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number; color: string }) {
+  const prevValueRef = useRef(value);
+  const [diff, setDiff] = useState<number | null>(null);
+
+  useEffect(() => {
+    if (value !== prevValueRef.current) {
+      setDiff(value - prevValueRef.current);
+      prevValueRef.current = value;
+      const t = setTimeout(() => setDiff(null), 1000);
+      return () => clearTimeout(t);
+    }
+  }, [value]);
+
   return (
-    <div className={`flex items-center gap-1.5 px-2 py-1 rounded-lg bg-white/5 border border-white/5 ${color} font-black text-xs shrink-0`}>
-      {icon} <span>{value}</span>
+    <div className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 border border-white/5 ${color} font-black text-xs shrink-0 transition-all`}>
+      {icon} 
+      <motion.span
+        key={value}
+        initial={{ y: diff ? (diff > 0 ? 5 : -5) : 0, opacity: 0.5 }}
+        animate={{ y: 0, opacity: 1 }}
+        className="inline-block"
+      >
+        {value}
+      </motion.span>
+      <AnimatePresence>
+        {diff !== null && (
+          <motion.div
+            initial={{ opacity: 0, y: 0 }}
+            animate={{ opacity: 1, y: diff > 0 ? -20 : 20 }}
+            exit={{ opacity: 0 }}
+            className={`absolute left-1/2 -translate-x-1/2 text-[10px] font-black ${diff > 0 ? "text-emerald-400" : "text-rose-500"}`}
+          >
+            {diff > 0 ? `+${diff}` : diff}
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
@@ -687,9 +790,14 @@ function MainAction({ label, onClick, disabled, highlight, emphasis }: { label: 
     <button
       disabled={disabled}
       onClick={onClick}
-      className={`relative h-14 rounded-xl border font-black text-[10px] uppercase tracking-tighter transition-all active:scale-95 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black" : "border-white/10 bg-white/5 hover:bg-white/10 text-white"}`}
+      className={`relative h-14 rounded-xl border font-black text-[10px] uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]" : "border-white/10 bg-white/5 hover:bg-white/10 text-white"}`}
     >
       {label}
+      {disabled && (
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+          <div className="w-full h-0.5 bg-white/10 -rotate-12" />
+        </div>
+      )}
       {emphasis && <div className="absolute -top-1 -right-1 w-2.5 h-2.5 bg-cyan-400 rounded-full animate-ping" />}
     </button>
   );
