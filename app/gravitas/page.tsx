@@ -266,6 +266,7 @@ export default function GravitasPage() {
     ui,
   ]);
 
+  const isLockdown = state.lockdown;
   const canReroute = canStartActivationTransfer(state);
   const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || onboarding?.focus === "reroute";
 
@@ -284,7 +285,6 @@ export default function GravitasPage() {
   };
 
   const isRecovering = state.threat.aftershock > 0 || state.crisis;
-  const isLockdown = state.lockdown;
   const hasPredictor = state.progression.unlockedItems.includes("threat_predictor");
   const hasGoldHull = state.progression.unlockedItems.includes("station_paint_gold");
   const unclaimed = state.progression.unclaimedMilestones || [];
