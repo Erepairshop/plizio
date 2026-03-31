@@ -51,5 +51,9 @@ export function createInitialStarholdState(): StarholdState {
     recoveryPriority: null,
     threatCycle: 0,
     lastAvatarPulse: -100,
+    lowEntropyStreak: 0,
+    highStabilityStreak: 0,
+    wasCrisis: false,
+    avatarPulseCount: 0,
   };
 }

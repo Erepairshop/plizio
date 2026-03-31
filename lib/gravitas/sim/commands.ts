@@ -362,6 +362,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         entropy: clamp(state.entropy - 2),
         modules: nextModules,
         lastAvatarPulse: state.tick,
+        avatarPulseCount: state.avatarPulseCount + 1,
         alert,
         journal: pushJournal(state, alert),
       };

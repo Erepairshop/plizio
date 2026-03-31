@@ -35,6 +35,10 @@ export function loadGravitasState(): StarholdState | null {
       ...parsed,
       threatCycle: parsed.threatCycle ?? 0,
       lastAvatarPulse: parsed.lastAvatarPulse ?? -100,
+      lowEntropyStreak: parsed.lowEntropyStreak ?? 0,
+      highStabilityStreak: parsed.highStabilityStreak ?? 0,
+      wasCrisis: parsed.wasCrisis ?? false,
+      avatarPulseCount: parsed.avatarPulseCount ?? 0,
     };
   } catch {
     return null;

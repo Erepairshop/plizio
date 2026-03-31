@@ -8,6 +8,11 @@ export interface StarholdModifiers {
   sensorBoost: boolean;    // Reactor + Sensor both online & integrity > 60: sensor gives +2 stability/tick instead of +1
   coreShield: boolean;     // Logistics + Core both online & integrity > 60: core takes 50% less integrity damage from glitches
   fullGrid: boolean;       // All 4 modules online & integrity > 60: +2 power/tick, marks decay 2× faster
+  entropyDampener: boolean;
+  markShield: boolean;
+  moduleCoolant: boolean;
+  resonanceAmplifier: boolean;
+  voidLens: boolean;
 }
 
 export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
@@ -33,6 +38,11 @@ export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
     sensorBoost,
     coreShield,
     fullGrid,
+    entropyDampener: state.progression.unlockedItems.includes("entropy_dampener"),
+    markShield: state.progression.unlockedItems.includes("mark_shield"),
+    moduleCoolant: state.progression.unlockedItems.includes("module_coolant"),
+    resonanceAmplifier: state.progression.unlockedItems.includes("resonance_amplifier"),
+    voidLens: state.progression.unlockedItems.includes("void_lens"),
   };
 }
 
