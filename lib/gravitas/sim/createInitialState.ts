@@ -40,7 +40,7 @@ export function createInitialStarholdState(): StarholdState {
     },
     modules: createInitialModules(),
     alert: GRAVITAS_TEXT.journal.initialAlert,
-    journal: [...GRAVITAS_TEXT.journal.initialJournal],
+    journal: GRAVITAS_TEXT.journal.initialJournal.map(text => ({ tick: 0, text })),
     avatarAwake: false,
     resonance: 0,
     lastEventTick: {},

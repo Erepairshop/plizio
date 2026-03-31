@@ -20,6 +20,8 @@ import { canStartActivationTransfer } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
 import type { StarholdCommand, StarholdModuleId, StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
 import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
+import AwakeningCeremony from "@/components/gravitas/AwakeningCeremony";
+import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
 
 function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" }) {
   if (command.type === "__TICK__") {
@@ -49,7 +51,32 @@ export default function GravitasPage() {
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
   const [shopOpen, setShopOpen] = useState(false);
   const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | null>(null);
+  const [showAwakening, setShowAwakening] = useState(false);
+  const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const holdRef = useRef<number | null>(null);
+  const prevThreatRef = useRef(state.threat);
+  const awakeningShownRef = useRef(false);
+
+  useEffect(() => {
+    if (state.avatarAwake && !awakeningShownRef.current) {
+      setShowAwakening(true);
+      awakeningShownRef.current = true;
+    }
+  }, [state.avatarAwake]);
+
+  useEffect(() => {
+    const prevThreat = prevThreatRef.current;
+    if (prevThreat.countdown > 0 && state.threat.aftershock > 0 && state.threat.countdown === 0) {
+      let flashColor = "bg-rose-500/30";
+      if (state.threat.type === "distortionWave") flashColor = "bg-purple-500/30";
+      if (state.threat.type === "voidStorm") flashColor = "bg-blue-500/30";
+      if (state.threat.type === "meteorShower") flashColor = "bg-orange-500/30";
+      
+      setImpactFlash(flashColor);
+      setTimeout(() => setImpactFlash(null), 2000);
+    }
+    prevThreatRef.current = state.threat;
+  }, [state.threat]);
 
   useEffect(() => {
     const id = window.setInterval(() => {
@@ -109,8 +136,10 @@ export default function GravitasPage() {
     [selectedModule, state]
   );
 
+  const mods = getStarholdModifiers(state);
+
   return (
-    <main className={`fixed inset-0 overflow-hidden transition-colors duration-1000 ${isLockdown ? "bg-[#0a0a0a]" : state.crisis ? "bg-[#1a0505]" : "bg-[#050816]"} text-white flex flex-col`}>
+    <main className={`fixed inset-0 overflow-hidden transition-colors duration-1000 ${isLockdown ? "bg-[#0a0a0a]" : state.crisis ? "bg-[#1a0505]" : "bg-[#050816]"} ${impactFlash ? "animate-shake" : ""} text-white flex flex-col`}>
       <AnimatePresence>
         {shopOpen && (
           <GravitasShop
@@ -122,7 +151,14 @@ export default function GravitasPage() {
             onClaim={(milestoneId) => dispatch({ type: "CLAIM_MILESTONE", milestoneId })}
           />
         )}
+        {showAwakening && (
+          <AwakeningCeremony lang={lang} onDone={() => setShowAwakening(false)} />
+        )}
       </AnimatePresence>
+
+      {impactFlash && (
+        <div className={`fixed inset-0 z-[100] ${impactFlash} pointer-events-none animate-pulse`} />
+      )}
 
       {/* Header */}
       <header className="flex items-center justify-between px-4 py-3 border-b border-white/5 bg-black/20 backdrop-blur-md z-50">
@@ -218,6 +254,22 @@ export default function GravitasPage() {
           </div>
         </div>
 
+        {/* Journal Preview */}
+        <button 
+          onClick={() => setActivePanel("journal")}
+          className="mx-4 mb-4 p-2 rounded-lg bg-black/20 border border-white/5 flex flex-col gap-0.5 overflow-hidden group hover:bg-black/40 transition"
+        >
+          {state.journal.slice(0, 3).map((line, idx) => (
+            <div key={idx} className="flex gap-2 text-[10px] text-white/30 truncate group-hover:text-white/50 transition">
+              <span className="font-black text-white/20 uppercase shrink-0">T{line.tick}</span>
+              <span className="truncate">{localize(line.text)}</span>
+            </div>
+          ))}
+          {state.journal.length === 0 && (
+            <div className="text-[10px] text-white/20 italic">System log empty...</div>
+          )}
+        </button>
+
         {/* Panel Tabs */}
         <div className="grid grid-cols-3 gap-2 px-4 mb-20 lg:mb-4">
           <PanelTab
@@ -251,6 +303,24 @@ export default function GravitasPage() {
           )}
         </div>
       </div>
+
+      {state.recoveryPriority && (
+        <motion.button
+          initial={{ y: 20, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          onClick={() => {
+            setSelectedModule(state.recoveryPriority!.moduleId);
+            setActivePanel("modules");
+          }}
+          className="fixed bottom-[88px] left-4 right-4 z-[45] p-3 rounded-xl bg-amber-400 text-black flex items-center justify-between gap-3 animate-pulse shadow-lg lg:static lg:mb-4 lg:mx-6"
+        >
+          <div className="flex items-center gap-2 font-black text-[10px] uppercase tracking-tighter">
+            <AlertTriangle size={14} />
+            <span>{localize(state.modules[state.recoveryPriority.moduleId].name)} {localize({en: "critical — repair first", hu: "kritikus — javítsd először", de: "kritisch — erst reparieren", ro: "critic — repară mai întâi"})}</span>
+          </div>
+          <ChevronLeft size={14} className="rotate-180" />
+        </motion.button>
+      )}
 
       {/* Main Actions - Bottom Bar */}
       <nav className="fixed bottom-0 left-0 right-0 p-4 pb-6 bg-black/40 backdrop-blur-xl border-t border-white/10 grid grid-cols-4 gap-2 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
@@ -290,6 +360,24 @@ export default function GravitasPage() {
             <div className="flex-1 overflow-y-auto p-6 pb-32">
               {activePanel === "modules" && (
                 <div className="space-y-6">
+                  {/* Synergies */}
+                  {(mods.sensorBoost || mods.coreShield || mods.fullGrid) && (
+                    <div className="space-y-2">
+                      <h3 className="text-[10px] font-black uppercase tracking-widest text-white/40 mb-2">Synergies</h3>
+                      <div className="flex flex-wrap gap-2">
+                        {mods.sensorBoost && (
+                          <Badge color="bg-emerald-500/20 text-emerald-400" label={{en: "⚡ Reactor + Sensor synergy: +2 stability/tick", hu: "⚡ Reaktor + Szenzor szinergia: +2 stabilitás/tick", de: "⚡ Reaktor + Sensor Synergie: +2 Stabilität/Tick", ro: "⚡ Sinergie Reactor + Senzor: +2 stabilitate/tic"}} lang={lang} />
+                        )}
+                        {mods.coreShield && (
+                          <Badge color="bg-blue-500/20 text-blue-400" label={{en: "🛡 Logistics + Core synergy: core protected", hu: "🛡 Logisztika + Mag szinergia: mag védve", de: "🛡 Logistik + Kern Synergie: Kern geschützt", ro: "🛡 Sinergie Logistică + Nucleu: nucleu protejat"}} lang={lang} />
+                        )}
+                        {mods.fullGrid && (
+                          <Badge color="bg-amber-500/20 text-amber-400" label={{en: "✨ Full Grid: +2 power, 2× mark decay", hu: "✨ Teljes hálózat: +2 energia, 2× mark fogyás", de: "✨ Volles Netz: +2 Energie, 2× Mark-Abbau", ro: "✨ Rețea completă: +2 energie, 2× degradare marcaje"}} lang={lang} />
+                        )}
+                      </div>
+                    </div>
+                  )}
+
                   <div className="grid grid-cols-2 gap-3">
                     {Object.values(state.modules).map((m) => {
                       const Icon = moduleIcon(m.id);
@@ -388,8 +476,9 @@ export default function GravitasPage() {
                   )}
                   <div className="space-y-3">
                     {state.journal.map((line, idx) => (
-                      <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.02] text-sm text-white/60 border-l-2 border-l-white/10">
-                        {localize(line)}
+                      <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.02] text-sm text-white/60 border-l-2 border-l-white/10 flex gap-3">
+                        <span className="font-black text-white/20 uppercase shrink-0 mt-0.5 text-[10px]">T{line.tick}</span>
+                        <span>{localize(line.text)}</span>
                       </div>
                     ))}
                   </div>
@@ -463,6 +552,14 @@ function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number;
   return (
     <div className={`flex items-center gap-1.5 px-2 py-1 rounded-lg bg-white/5 border border-white/5 ${color} font-black text-xs shrink-0`}>
       {icon} <span>{value}</span>
+    </div>
+  );
+}
+
+function Badge({ color, label, lang }: { color: string; label: LocalizedString; lang: string }) {
+  return (
+    <div className={`px-2 py-1 rounded text-[9px] font-black uppercase tracking-tight border border-white/5 ${color}`}>
+      {label[lang as keyof LocalizedString] || label.en}
     </div>
   );
 }
