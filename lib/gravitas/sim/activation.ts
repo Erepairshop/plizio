@@ -59,10 +59,11 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
   // Resonance builds up while holding (amount is how much we add this tick/frame)
   const nextResonance = clamp(state.resonance + amount * 2.5);
 
-  // Power drain scales with resonance
+  // Power drain should be a late-game tax, not an immediate soft-lock.
+  // The old curve burned through power too fast during the first awakening run.
   const mods = getStarholdModifiers(state);
   const amp = mods.resonanceAmplifier ? 1.3 : 1.0;
-  const pwrDrain = Math.max(1, Math.floor(nextResonance / 20));
+  const pwrDrain = nextResonance > 85 ? Math.max(1, Math.floor((nextResonance - 85) / 10) + 1) : 0;
   const actGain = (amount * (1 + nextResonance / 100) * amp) * (state.resources.stability > 60 ? 1.2 : 1.0);
 
   const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
@@ -95,7 +96,7 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
       ...state.resources,
       activation: nextActivation,
       power: clamp(state.resources.power - pwrDrain),
-      stability: clamp(state.resources.stability - (nextResonance > 70 ? 1 : 0)),
+      stability: clamp(state.resources.stability - (nextResonance > 90 ? 1 : 0)),
     },
     marks: nextMarks,
     modules: {
