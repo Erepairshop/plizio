@@ -140,9 +140,16 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.drawHudPanels(width, height);
   }
 
-  syncState(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null) {
+  syncState(
+    state: StarholdState,
+    selectedModule: StarholdModuleId,
+    activeEventId: StarholdEventId | null,
+    chainStep?: number,
+    chainTotal?: number,
+  ) {
+    if (!this.ringGfx) return;
     this.drawRings();
-    this.drawLinks(state, selectedModule, activeEventId);
+    this.drawLinks(state, selectedModule, activeEventId, chainStep, chainTotal);
 
     const awake = state.avatarAwake;
     const coreAccent = activeEventId === "signalPulse" ? 0xf472b6 : 0x23d3ee;
@@ -173,7 +180,11 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.resourceText.setText(
       `PWR ${state.resources.power}   MAT ${state.resources.materials}   STB ${state.resources.stability}   ACT ${state.resources.activation}`
     );
-    this.eventText.setText(activeEventId ? `ALERT ${activeEventId.toUpperCase()}` : "");
+    const chainSuffix =
+      activeEventId && chainStep != null && chainTotal != null && chainTotal > 1
+        ? ` [${chainStep}/${chainTotal}]`
+        : "";
+    this.eventText.setText(activeEventId ? `ALERT ${activeEventId.toUpperCase()}${chainSuffix}` : "");
   }
 
   update(_time: number, delta: number) {
@@ -236,8 +247,16 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.ringGfx.strokeCircle(420, 255, 215);
   }
 
-  private drawLinks(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null) {
+  private drawLinks(
+    state: StarholdState,
+    selectedModule: StarholdModuleId,
+    activeEventId: StarholdEventId | null,
+    chainStep?: number,
+    chainTotal?: number,
+  ) {
     this.linkGfx.clear();
+
+    const isChainStep2 = activeEventId != null && chainStep != null && chainTotal != null && chainStep >= 2;
 
     for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
       const module = state.modules[moduleId];
@@ -250,10 +269,12 @@ export class GravitasBaseScene extends Phaser.Scene {
             : activeEventId === "signalPulse" && moduleId === "core"
               ? 0xf472b6
               : null;
+      const isEventModule = eventColor != null;
+      const chainBoost = isChainStep2 && isEventModule;
       this.linkGfx.lineStyle(
-        isSelected ? 4 : module.online ? 3 : 2,
+        isSelected ? 4 : chainBoost ? 4 : module.online ? 3 : 2,
         isSelected ? 0xf472b6 : eventColor ?? (module.online ? 0x22d3ee : 0x475569),
-        isSelected ? 0.7 : module.online ? 0.6 : 0.35
+        isSelected ? 0.7 : chainBoost ? 0.9 : module.online ? 0.6 : 0.35,
       );
       this.linkGfx.lineBetween(420, 255, pos.x, pos.y);
     }

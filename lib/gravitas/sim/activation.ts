@@ -40,17 +40,31 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
         load: clamp(state.modules.core.load + 16),
       },
     },
-    alert: "Core conduit unlocked. Manual transfer now possible.",
-    journal: pushJournal(state, "Core chamber is ready for activation transfer."),
+    alert: "Core conduit open. The chamber is listening.",
+    journal: pushJournal(state, "Something stirred inside the chamber."),
   };
 }
 
 export function channelActivationPulse(state: StarholdState, amount: number): StarholdState {
   if (state.phase !== "activation") return state;
   if (state.resources.power <= 0) {
+    const prevActivation = state.resources.activation;
+    const regressedActivation = clamp(prevActivation - Math.ceil(prevActivation * 0.15));
+    const collapseToboot = prevActivation >= 10 && regressedActivation < 10;
     return {
       ...state,
-      alert: "Transfer interrupted. Power reserve exhausted.",
+      phase: collapseToboot ? "boot" : "activation",
+      resources: {
+        ...state.resources,
+        activation: regressedActivation,
+        stability: clamp(state.resources.stability - 3),
+      },
+      marks: {
+        ...state.marks,
+        shellStrain: clamp(state.marks.shellStrain + 2),
+      },
+      alert: "Transfer collapsed. Silence from the shell.",
+      journal: pushJournal(state, "The shell flinched and went quiet. Progress lost."),
     };
   }
 
@@ -76,15 +90,19 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
       },
     },
     alert: awakened
-      ? "Core shell awakened. Presence synchronized."
-      : "Transfer pulse flowing into the dormant shell...",
+      ? "Eyes opened. It looked back."
+      : "Pulse flowing. The shell is warm.",
     journal: pushJournal(
       state,
-      awakened ? "The shell responded. A presence looked back." : "Manual transfer pulse sustained."
+      awakened ? "Something behind the glass recognized you." : "The shell drinks the signal. Faintly."
     ),
   };
 }
 
 export function canStartActivationTransfer(state: StarholdState) {
   return state.phase === "boot" && state.resources.power >= 6 && state.resources.stability >= 35 && state.modules.logistics.integrity >= 45;
+}
+
+export function isActivationCritical(state: StarholdState): boolean {
+  return state.marks.shellStrain >= 6 && state.phase === "activation";
 }

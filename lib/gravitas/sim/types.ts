@@ -23,7 +23,7 @@ export interface StarholdMarks {
 
 export type StarholdPhase = "boot" | "activation" | "awakened";
 
-export type StarholdEventId = "powerFluctuation" | "materialBottleneck" | "signalPulse" | "driftLock";
+export type StarholdEventId = "powerFluctuation" | "materialBottleneck" | "signalPulse" | "driftLock" | "sensorAnomaly" | "logisticsCollapse";
 
 export interface StarholdEventOption {
   id: string;
@@ -60,6 +60,10 @@ export interface StarholdState {
   avatarAwake: boolean;
   lastEventTick: Partial<Record<StarholdEventId, number>>;
   pendingEvent: StarholdPendingEvent | null;
+  /** 0=safe, 1=warning, 2=trapped, 3=critical */
+  driftLevel: number;
+  /** how many ticks the station has spent at driftLevel >= 2 */
+  driftTick: number;
 }
 
 export type StarholdCommand =
@@ -68,4 +72,8 @@ export type StarholdCommand =
   | { type: "REPAIR_MODULE"; moduleId: Exclude<StarholdModuleId, "reactor"> }
   | { type: "REROUTE_TO_CORE" }
   | { type: "CHANNEL_TO_CORE"; amount: number }
-  | { type: "RESOLVE_EVENT"; optionId: string };
+  | { type: "RESOLVE_EVENT"; optionId: string }
+  | { type: "DEEP_SCAN" }
+  | { type: "EMERGENCY_REROUTE" }
+  | { type: "RESONANCE_LOCK" }
+  | { type: "OVERCLOCK_REACTOR" };

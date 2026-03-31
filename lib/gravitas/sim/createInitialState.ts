@@ -26,5 +26,7 @@ export function createInitialStarholdState(): StarholdState {
     avatarAwake: false,
     lastEventTick: {},
     pendingEvent: null,
+    driftLevel: 0,
+    driftTick: 0,
   };
 }

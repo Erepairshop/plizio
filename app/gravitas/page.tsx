@@ -6,8 +6,10 @@ import Link from "next/link";
 import { ChevronLeft, Power, Wrench, Radar, Cpu } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
+import GravitasAwakening from "@/components/gravitas/GravitasAwakening";
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
+import { saveGravitasState, loadGravitasState, clearGravitasState } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer, getActivationStageInfo } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
@@ -70,6 +72,7 @@ const T = {
     actionCoreHint: "Push the station toward the awakening threshold.",
     actionSensorHint: "Bring the long-range distortion grid back online.",
     back: "Home",
+    newGame: "New game",
   },
   hu: {
     title: "Gravitas",
@@ -127,6 +130,7 @@ const T = {
     actionCoreHint: "Közelebb tolod az állomást az ébredési küszöbhöz.",
     actionSensorHint: "Újraéleszted a távoli torzulásfigyelő hálót.",
     back: "Főoldal",
+    newGame: "Új játék",
   },
   de: {
     title: "Gravitas",
@@ -184,6 +188,7 @@ const T = {
     actionCoreHint: "Schiebe die Station näher an die Erwachensschwelle.",
     actionSensorHint: "Hole das Distortionsgitter auf Reichweite zurück.",
     back: "Start",
+    newGame: "Neues Spiel",
   },
   ro: {
     title: "Gravitas",
@@ -241,6 +246,7 @@ const T = {
     actionCoreHint: "Împinge stația mai aproape de pragul trezirii.",
     actionSensorHint: "Repune în funcțiune rețeaua de distorsiuni la distanță.",
     back: "Acasă",
+    newGame: "Joc nou",
   },
 } as const;
 
@@ -303,7 +309,8 @@ const MODULE_COPY = {
   },
 } as const;
 
-function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" }) {
+function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" } | { type: "__RESET__" }) {
+  if (command.type === "__RESET__") return createInitialStarholdState();
   if (command.type === "__TICK__") {
     return advanceStarholdTick(state);
   }
@@ -327,9 +334,19 @@ export default function GravitasPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
   const moduleCopy = MODULE_COPY[lang as keyof typeof MODULE_COPY] ?? MODULE_COPY.en;
-  const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
+  const [state, dispatch] = useReducer(
+    reducer,
+    undefined,
+    () => loadGravitasState() ?? createInitialStarholdState()
+  );
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
+  const [showAwakening, setShowAwakening] = useState(false);
+  const didShowAwakening = useRef(false);
   const holdRef = useRef<number | null>(null);
+
+  useEffect(() => {
+    saveGravitasState(state);
+  }, [state]);
 
   useEffect(() => {
     const id = window.setInterval(() => {
@@ -345,6 +362,13 @@ export default function GravitasPage() {
       }
     };
   }, []);
+
+  useEffect(() => {
+    if (state.avatarAwake && !didShowAwakening.current) {
+      didShowAwakening.current = true;
+      setShowAwakening(true);
+    }
+  }, [state.avatarAwake]);
 
   const phaseLabel = useMemo(() => {
     if (state.phase === "boot") return t.phaseBoot;
@@ -368,6 +392,13 @@ export default function GravitasPage() {
     }
   };
 
+  const handleNewGame = () => {
+    if (!window.confirm(t.newGame + "?")) return;
+    clearGravitasState();
+    dispatch({ type: "__RESET__" });
+    setSelectedModule("core");
+  };
+
   const selectedModuleState = state.modules[selectedModule];
   const totalMarks = state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress;
   const driftRiskLabel =
@@ -385,28 +416,36 @@ export default function GravitasPage() {
   const transferStages = [t.transferStage1, t.transferStage2, t.transferStage3, t.transferStage4];
 
   return (
-    <main className="min-h-screen bg-[#050816] text-white px-4 py-5 sm:px-6 sm:py-6">
+    <main className="min-h-screen bg-[#050816] text-white px-3 py-4 sm:px-6 sm:py-6">
       <div className="mx-auto max-w-[1180px]">
-        <div className="flex items-center justify-between gap-3 mb-5">
-          <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
-            <ChevronLeft size={16} /> {t.back}
-          </Link>
+        <div className="flex items-center justify-between gap-3 mb-4 sm:mb-5">
+          <div className="flex items-center gap-4">
+            <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
+              <ChevronLeft size={16} /> {t.back}
+            </Link>
+            <button
+              onClick={handleNewGame}
+              className="text-xs text-white/40 hover:text-white/70 transition-colors font-medium"
+            >
+              {t.newGame}
+            </button>
+          </div>
           <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{phaseLabel}</div>
         </div>
 
-        <div className="grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
-          <section className="rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-5 sm:p-6 shadow-2xl">
-            <div className="flex flex-wrap items-start justify-between gap-4">
-              <div>
+        <div className="grid gap-4 sm:gap-5 lg:grid-cols-[1.2fr_0.8fr]">
+          <section className="rounded-[20px] sm:rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-3 sm:p-6 shadow-2xl">
+            <div className="flex items-start justify-between gap-3">
+              <div className="min-w-0 flex-1">
                 <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{t.title}</div>
-                <h1 className="mt-3 text-3xl sm:text-5xl font-black">{t.subtitle}</h1>
+                <h1 className="mt-2 sm:mt-3 text-base sm:text-2xl lg:text-4xl font-black leading-snug">{t.subtitle}</h1>
               </div>
-              <div className="w-28 h-28 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
-                <div className={`w-16 h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
+              <div className="w-16 h-16 sm:w-24 sm:h-24 shrink-0 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
+                <div className={`w-9 h-9 sm:w-14 sm:h-14 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
               </div>
             </div>
 
-            <div className="mt-6">
+            <div className="mt-4 sm:mt-6">
               <GravitasHUD
                 power={state.resources.power}
                 materials={state.resources.materials}
@@ -415,16 +454,17 @@ export default function GravitasPage() {
               />
             </div>
 
-            <div className="mt-6">
+            <div className="mt-4 sm:mt-6 overflow-hidden rounded-xl" style={{ maxHeight: "min(52vw, 340px)", minHeight: "180px" }}>
               <GravitasScene
                 state={state}
                 selectedModule={selectedModule}
                 onSelectModule={setSelectedModule}
                 activeEventId={state.pendingEvent?.id ?? null}
+                pendingEvent={state.pendingEvent}
               />
             </div>
 
-            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            <div className="mt-5 sm:mt-6 grid gap-4 md:grid-cols-2">
               <div className="rounded-2xl border border-white/10 bg-black/20 p-4">
                 <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{t.objective}</div>
                 <p className="mt-3 text-white/75 leading-relaxed">{t.objectiveText}</p>
@@ -434,8 +474,8 @@ export default function GravitasPage() {
               </div>
               <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/6 p-4">
                 <div className="text-xs uppercase tracking-[0.28em] text-cyan-200 font-black">{t.transferTitle}</div>
-                <div className="mt-4 flex items-center gap-4">
-                  <div className="relative h-24 w-24 shrink-0">
+                <div className="mt-4 flex flex-col xs:flex-row items-start xs:items-center gap-4">
+                  <div className="relative h-20 w-20 sm:h-24 sm:w-24 shrink-0 mx-auto xs:mx-0">
                     <div className="absolute inset-0 rounded-full border border-cyan-300/20" />
                     <div
                       className="absolute inset-2 rounded-full border-2 border-pink-300/40 transition-all duration-500"
@@ -510,7 +550,7 @@ export default function GravitasPage() {
               </div>
             </div>
 
-            <div className="mt-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+            <div className="mt-5 sm:mt-6 grid gap-3 grid-cols-2 xl:grid-cols-4">
               <button
                 type="button"
                 onClick={() => dispatch({ type: "SCAVENGE" })}
@@ -614,7 +654,7 @@ export default function GravitasPage() {
 
             <section className="rounded-[28px] border border-white/10 bg-white/5 p-5 shadow-2xl">
               <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{t.marks}</div>
-              <div className="mt-4 grid gap-3 sm:grid-cols-3">
+              <div className="mt-4 grid gap-3 grid-cols-3">
                 <div className="rounded-2xl border border-white/10 bg-black/20 px-3 py-3">
                   <div className="text-[11px] uppercase tracking-[0.22em] text-white/45 font-black">{t.reactorScar}</div>
                   <div className="mt-2 text-lg font-black text-rose-200">{state.marks.reactorScar}</div>
@@ -698,7 +738,7 @@ export default function GravitasPage() {
               <div className="mt-4 rounded-2xl border border-cyan-300/20 bg-cyan-400/6 px-4 py-3 text-sm text-cyan-100">
                 {state.alert}
               </div>
-              <div className="mt-4 space-y-2">
+              <div className="mt-4 space-y-2 max-h-48 sm:max-h-none overflow-y-auto">
                 {state.journal.map((line) => (
                   <div key={line} className="rounded-xl border border-white/10 bg-black/20 px-3 py-2 text-sm text-white/72">
                     {line}
@@ -709,6 +749,9 @@ export default function GravitasPage() {
           </aside>
         </div>
       </div>
+      {showAwakening && (
+        <GravitasAwakening lang={lang} onDone={() => setShowAwakening(false)} />
+      )}
     </main>
   );
 }

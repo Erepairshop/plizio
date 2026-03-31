@@ -10,9 +10,10 @@ interface Props {
   selectedModule: StarholdModuleId;
   onSelectModule: (moduleId: StarholdModuleId) => void;
   activeEventId: StarholdEventId | null;
+  pendingEvent?: { chainStep?: number; chainTotal?: number } | null;
 }
 
-export default function GravitasScene({ state, selectedModule, onSelectModule, activeEventId }: Props) {
+export default function GravitasScene({ state, selectedModule, onSelectModule, activeEventId, pendingEvent }: Props) {
   const hostRef = useRef<HTMLDivElement | null>(null);
   const gameRef = useRef<Phaser.Game | null>(null);
   const sceneRef = useRef<GravitasBaseScene | null>(null);
@@ -52,8 +53,14 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, a
   }, []);
 
   useEffect(() => {
-    sceneRef.current?.syncState(state, selectedModule, activeEventId);
-  }, [state, selectedModule, activeEventId]);
+    sceneRef.current?.syncState(
+      state,
+      selectedModule,
+      activeEventId,
+      pendingEvent?.chainStep,
+      pendingEvent?.chainTotal,
+    );
+  }, [state, selectedModule, activeEventId, pendingEvent]);
 
   return (
     <div className="rounded-[28px] border border-cyan-300/15 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.08),transparent_44%),linear-gradient(180deg,rgba(9,15,30,0.94),rgba(4,8,18,0.98))] p-2 shadow-[0_0_60px_rgba(8,145,178,0.1)]">
