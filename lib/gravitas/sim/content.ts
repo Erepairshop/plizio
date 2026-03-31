@@ -105,6 +105,18 @@ export const GRAVITAS_TEXT = {
     fortified: { en: "Fortified", hu: "Megerősítve", de: "Verstärkt", ro: "Fortificat" },
     dampened: { en: "Dampened", hu: "Csillapítva", de: "Gedämpft", ro: "Atenuat" },
     approachingThreat: { en: "Approaching Threat", hu: "Közelgő fenyegetés", de: "Herannahende Bedrohung", ro: "Amenințare iminentă" },
+    shopTitle: { en: "Star Exchange", hu: "Csillag-tőzsde", de: "Sternenbörse", ro: "Schimb de stele" },
+    shopStars: { en: "Stars", hu: "Csillag", de: "Sterne", ro: "Stele" },
+    shopUnlock: { en: "Unlocked", hu: "Feloldva", de: "Freigeschaltet", ro: "Deblocat" },
+    shopDescription: {
+      en: "Rewards are permanent for this session. Stars are earned through milestones, surviving threats and event chains.",
+      hu: "A jutalmak a jelenlegi játékra szólnak. Csillagokat mérföldkövekért, túlélésért és eseményekért kapsz.",
+      de: "Belohnungen sind für diese Sitzung dauerhaft. Sterne werden durch Meilensteine, Überleben und Ereignisketten verdient.",
+      ro: "Recompensenele sunt permanente pentru această sesiune. Stelele sunt câștigate prin obiective, supraviețuirea amenințărilor și lanțuri de evenimente."
+    },
+    milestoneReached: { en: "Milestone reached", hu: "Mérföldkő elérve", de: "Meilenstein erreicht", ro: "Obiectiv atins" },
+    itemUnlocked: { en: "Unlocked", hu: "Feloldva", de: "Freigeschaltet", ro: "Deblocat" },
+    newEquipment: { en: "New equipment acquired", hu: "Új felszerelés beszerezve", de: "Neue Ausrüstung erworben", ro: "Echipament nou achiziționat" },
   },
   activation: {
     conduitUnlockedAlert: {
@@ -509,5 +521,8 @@ export const GRAVITAS_TEXT = {
     meteorShowerImpact: { en: "Meteors battered the station modules.", hu: "Meteorok tépázták meg az állomás moduljait.", de: "Meteore malträtierten die Stationsmodule.", ro: "Metoriții au lovit modulele stației." },
     fortifiedJournal: { en: "Shell fortified against the coming impact.", hu: "A burkolat megerősítve a közelgő becsapódás ellen.", de: "Hülle gegen den kommenden Einschlag verstärkt.", ro: "Corpul a fost fortificat împotriva impactului viitor." },
     dampenedJournal: { en: "Sensor dampeners active. Void exposure reduced.", hu: "Szenzorcsillapítók aktívak. Void kitettség csökkent.", de: "Sensordämpfer aktiv. Void-Belastung reduziert.", ro: "Amortizoarele de senzori sunt active. Expunerea la void a fost redusă." },
+    aftershockPhase: { en: "Aftershock Phase", hu: "Utórengés fázis", de: "Nachbeben-Phase", ro: "Faza de replici" },
+    lingeringDrift: { en: "Lingering logic drift detected. System stabilization required.", hu: "Fennmaradó logikai drift észlelve. Rendszerstabilizálás szükséges.", de: "Anhaltender Logikdrift erkannt. Systemstabilisierung erforderlich.", ro: "Derivă logică persistentă detectată. Este necesară stabilizarea sistemului." },
+    aftershockCleared: { en: "System stabilized. Aftershock effects neutralized.", hu: "Rendszer stabilizálva. Az utórengés hatásai megszűntek.", de: "System stabilisiert. Nachbebeneffekte neutralisiert.", ro: "Sistem stabilizat. Efectele replicilor au fost neutralizate." },
   }
 };

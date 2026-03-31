@@ -86,6 +86,13 @@ export interface StarholdThreatState {
   dampened: boolean; // Sensor protection
   intercepted: boolean; // Logistics protection
   predicted: boolean; // Sensor prediction
+  aftershock: number; // Ticks of lingering instability after impact
+}
+
+export interface StarholdProgression {
+  stars: number;
+  completedMilestones: string[];
+  unlockedItems: string[];
 }
 
 export interface StarholdState {
@@ -96,6 +103,7 @@ export interface StarholdState {
   anomalies: StarholdAnomaly[];
   entropy: number; // 0-100, affects costs and stability
   threat: StarholdThreatState;
+  progression: StarholdProgression;
   modules: Record<StarholdModuleId, StarholdModuleState>;
   alert: LocalizedString | null;
   journal: LocalizedString[];
@@ -120,4 +128,7 @@ export type StarholdCommand =
   | { type: "DAMPEN_SIGNALS" }
   | { type: "INTERCEPT_THREAT" }
   | { type: "PREDICT_THREAT" }
+  | { type: "EMERGENCY_VENT" }
+  | { type: "TUNE_SHIELDS" }
+  | { type: "BUY_ITEM"; itemId: string }
   | { type: "RESOLVE_EVENT"; optionId: string };

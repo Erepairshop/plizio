@@ -4,6 +4,7 @@ import { canStartActivationTransfer, channelActivationPulse, unlockActivationTra
 import { getModuleActionProfile } from "./modules";
 import { resolveStarholdEvent } from "./events";
 import { GRAVITAS_TEXT } from "./content";
+import { buyStarholdItem, checkStarholdMilestones } from "./progression";
 
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
   if (state.pendingEvent && command.type !== "RESOLVE_EVENT") {
@@ -242,46 +243,57 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         ...state,
         resources: addResourceDelta(state.resources, { materials: -12 }),
         threat: { ...threat, intercepted: true },
-        alert: {
-          en: "Drone swarm deployed for interception.",
-          hu: "Drónraj bevetve az elfogáshoz.",
-          de: "Drohnenschwarm zum Abfangen eingesetzt.",
-          ro: "Roi de drone desfășurat pentru intercepție.",
-        },
-        journal: pushJournal(state, {
-          en: "Drones are forming a defensive perimeter.",
-          hu: "A drónok védelmi kordont vonnak az állomás köré.",
-          de: "Drohnen bilden einen Verteidigungsperimeter.",
-          ro: "Dronele formează un perimetru defensiv.",
-        }),
+        alert: { en: "Drone swarm deployed for interception.", hu: "Drónraj bevetve az elfogáshoz.", de: "Drohnenschwarm zum Abfangen eingesetzt.", ro: "Roi de drone desfășurat pentru intercepție." },
+        journal: pushJournal(state, { en: "Drones are forming a defensive perimeter.", hu: "A drónok védelmi kordont vonnak az állomás köré.", de: "Drohnen bilden einen Verteidigungsperimeter.", ro: "Dronele formează un perimetru defensiv." }),
       };
     }
     case "PREDICT_THREAT": {
-      if (threat.countdown > 10 || threat.predicted) return state;
+      if (threat.countdown > 8 || threat.predicted) return state;
       if (state.resources.power < 6) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
       return {
         ...state,
         resources: addResourceDelta(state.resources, { power: -6 }),
         threat: { ...threat, predicted: true },
-        alert: {
-          en: "Threat trajectory calculated.",
-          hu: "Fenyegetés pályája kiszámítva.",
-          de: "Bedrohungstrajektorie berechnet.",
-          ro: "Traiectoria amenințării calculată.",
+        alert: { en: "Threat trajectory calculated.", hu: "Fenyegetés pályája kiszámítva.", de: "Bedrohungstrajektorie berechnet.", ro: "Traiectoria amenințării calculată." },
+        journal: pushJournal(state, { en: "Sensor array has locked onto the approaching pattern.", hu: "A szenzorok rögzítették a közelgő minta adatait.", de: "Sensoren haben das herannahende Muster erfasst.", ro: "Senzorii au blocat tiparul iminent." }),
+      };
+    }
+    case "EMERGENCY_VENT": {
+      if (state.resources.power < 15) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { power: -15, stability: 5 }),
+        marks: {
+          ...state.marks,
+          shellStrain: clamp(state.marks.shellStrain - 3),
         },
-        journal: pushJournal(state, {
-          en: "Sensor array has locked onto the approaching pattern.",
-          hu: "A szenzorok rögzítették a közelgő minta adatait.",
-          de: "Sensoren haben das herannahende Muster erfasst.",
-          ro: "Senzorii au blocat tiparul iminent.",
-        }),
+        alert: { en: "Emergency venting successful.", hu: "Vészhelyzeti szellőztetés sikeres.", de: "Notlüftung erfolgreich.", ro: "Evacuare de urgență reușită." },
+        journal: pushJournal(state, { en: "Excess pressure vented from the shell spine.", hu: "Felesleges nyomás távozott a váz gerincéből.", de: "Überdruck aus dem Hüllenrückgrat abgelassen.", ro: "Presiunea în exces a fost evacuată din coloana corpului." }),
+      };
+    }
+    case "TUNE_SHIELDS": {
+      if (state.resources.power < 10) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
+      // Tuning shields makes prep actions cheaper or more effective?
+      // Let's say it gives an immediate small protection boost.
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { power: -10 }),
+        threat: {
+          ...threat,
+          intensity: Math.max(1, threat.intensity - 1),
+        },
+        alert: { en: "Shield frequencies tuned.", hu: "Pajzsfrekvenciák behangolva.", de: "Schildfrequenzen abgestimmt.", ro: "Frecvențele scutului au fost reglate." },
+        journal: pushJournal(state, { en: "Optimized energy grid reduced incoming threat signature.", hu: "Az optimalizált energiahálózat csökkentette a fenyegetés erejét.", de: "Optimiertes Energienetz senkte Bedrohungssignatur.", ro: "Rețeaua de energie optimizată a redus semnătura amenințării." }),
       };
     }
     case "RESOLVE_EVENT": {
-      return resolveStarholdEvent(state, command.optionId);
+      return checkStarholdMilestones(resolveStarholdEvent(state, command.optionId));
+    }
+    case "BUY_ITEM": {
+      return buyStarholdItem(state, command.itemId);
     }
     default:
-      return state;
+      return checkStarholdMilestones(state);
   }
 }
 
@@ -353,6 +365,14 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           emphasis: "secondary",
         });
       }
+      if (state.marks.shellStrain > 2) {
+        slots.push({
+          id: "emergencyVent",
+          label: { en: "Emergency Venting", hu: "Vész-szellőztetés", de: "Notlüftung", ro: "Evacuare de urgență" },
+          hint: { en: "Reduce shell strain (-3) at a high power cost (15 PWR).", hu: "Csökkenti a váz feszültségét (-3) magas energiaköltséggel (15 ENERGIA).", de: "Hüllenspannung senken (-3) bei hohen Energiekosten (15 PWR).", ro: "Reduce tensiunea corpului (-3) cu cost mare de energie (15 PWR)." },
+          command: { type: "EMERGENCY_VENT" },
+        });
+      }
       break;
     case "logistics":
       slots.push(
@@ -402,7 +422,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           hint: { en: "Directly dampen void echoes. Costly power usage.", hu: "Közvetlenül csökkenti a void visszhangokat. Magas energiaköltség.", de: "Void-Echos direkt dämpfen. Teurer Energieaufwand.", ro: "Atenuează direct ecourile void. Consum mare de energie." },
           command: { type: "DEEP_SCAN" },
           disabled: !module.online,
-        },
+        }
       );
       if (threat.countdown > 5 && threat.countdown <= 10 && !threat.predicted && module.online) {
         slots.push({
@@ -420,6 +440,14 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           hint: { en: "Dampen psychic signals to reduce void impact (Costs 8 PWR).", hu: "Pszichikai jelek csillapítása a void hatás csökkentésére (8 ENERGIA).", de: "Psychische Signals dämpfen, um Void-Einschlag zu senken (8 PWR).", ro: "Atenuează semnalele psihice pentru a reduce impactul void (8 PWR)." },
           command: { type: "DAMPEN_SIGNALS" },
           emphasis: "secondary",
+        });
+      }
+      if (module.online && !threat.predicted && threat.countdown <= 5) {
+        slots.push({
+          id: "tuneShields",
+          label: { en: "Tune Shields", hu: "Pajzs-hangolás", de: "Schildabstimmung", ro: "Reglare scuturi" },
+          hint: { en: "Fine-tune frequencies to reduce threat intensity (Costs 10 PWR).", hu: "Finomhangolja a frekvenciákat a veszély csökkentésére (10 ENERGIA).", de: "Frequenzen abstimmen, um Bedrohung zu senken (10 PWR).", ro: "Reglează frecvențele pentru a reduce intensitatea (10 PWR)." },
+          command: { type: "TUNE_SHIELDS" },
         });
       }
       slots.push({

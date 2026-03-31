@@ -4,6 +4,7 @@ import { clamp } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { coolDownResonance } from "./activation";
 import { advanceStarholdThreat } from "./threats";
+import { checkStarholdMilestones } from "./progression";
 
 export function advanceStarholdTick(state: StarholdState): StarholdState {
   const reactorBoost = state.modules.reactor.online ? 2 : 0;
@@ -110,10 +111,11 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Threat cycle
   const threatResult = advanceStarholdThreat(withResonance);
 
-  // Events - skipped if threat just impacted
-  if (threatResult.impacted) {
-    return threatResult.nextState;
+  // Events - skipped if threat just impacted or during aftershock
+  if (threatResult.impacted || threatResult.nextState.threat.aftershock > 0) {
+    return checkStarholdMilestones(threatResult.nextState);
   }
 
-  return applyStarholdEvents(threatResult.nextState);
+  const afterEvents = applyStarholdEvents(threatResult.nextState);
+  return checkStarholdMilestones(afterEvents);
 }

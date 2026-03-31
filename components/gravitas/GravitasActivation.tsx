@@ -1,18 +1,14 @@
 "use client";
 
 import React, { useMemo } from "react";
-import type { StarholdState, StarholdPhase } from "@/lib/gravitas/sim/types";
+import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
 import { getActivationStageInfo } from "@/lib/gravitas/sim/activation";
+import { useLang } from "@/components/LanguageProvider";
 
 interface Props {
   state: StarholdState;
   t: {
-    transferStage0: string;
     transferTitle: string;
-    transferStage1: string;
-    transferStage2: string;
-    transferStage3: string;
-    transferStage4: string;
     transferReady: string;
     transferLocked: string;
     transferStageLabel: string;
@@ -26,16 +22,25 @@ interface Props {
 }
 
 export default function GravitasActivation({ state, t, onBeginTransfer, onStopTransfer }: Props) {
+  const { lang } = useLang();
   const activationPercent = state.resources.activation;
   const resonance = state.resonance;
   const activationStageInfo = useMemo(
     () => getActivationStageInfo(activationPercent, state.avatarAwake),
     [activationPercent, state.avatarAwake]
   );
+
   const transferStage = activationStageInfo.stage;
-  const transferStages = [t.transferStage1, t.transferStage2, t.transferStage3, t.transferStage4];
-  const activeStageLabel =
-    transferStage === 0 ? t.transferStage0 : transferStages[Math.max(0, transferStage - 1)];
+
+  const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
+
+  // We still want the ladder labels for the small boxes
+  const ladder = [
+    getActivationStageInfo(15, false).label,
+    getActivationStageInfo(40, false).label,
+    getActivationStageInfo(75, false).label,
+    getActivationStageInfo(100, true).label,
+  ];
 
   const resonanceColor = resonance > 85 ? "text-rose-400" : resonance > 60 ? "text-amber-400" : "text-cyan-400";
   const resonanceShadow = resonance > 85
@@ -87,7 +92,7 @@ export default function GravitasActivation({ state, t, onBeginTransfer, onStopTr
           </div>
           <div className="mt-4 space-y-1">
              <p className="text-sm font-black text-cyan-100/90 tracking-tight leading-tight">
-               {activeStageLabel}
+               {localize(activationStageInfo.label)}
              </p>
              <p className="text-[11px] text-white/50 leading-snug">
                {state.phase === "activation" || state.avatarAwake ? t.transferReady : t.transferLocked}
@@ -99,9 +104,10 @@ export default function GravitasActivation({ state, t, onBeginTransfer, onStopTr
       <div className="mt-6">
         <div className="text-[11px] uppercase tracking-[0.22em] text-white/40 font-black mb-3">{t.transferStageLabel}</div>
         <div className="grid grid-cols-2 gap-2">
-          {transferStages.map((label, index) => {
+          {ladder.map((ls, index) => {
             const stageIndex = index + 1;
             const active = transferStage >= stageIndex;
+            const label = localize(ls);
             return (
               <div
                 key={label}
@@ -138,7 +144,7 @@ export default function GravitasActivation({ state, t, onBeginTransfer, onStopTr
         <div className="relative z-10">{t.hold}</div>
         {/* Fill effect based on resonance */}
         {state.phase === "activation" && !state.avatarAwake && (
-          <div 
+          <div
             className="absolute bottom-0 left-0 right-0 bg-pink-400/20 transition-all duration-300"
             style={{ height: `${resonance}%` }}
           />

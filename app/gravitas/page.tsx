@@ -2,12 +2,12 @@
 
 import { useEffect, useMemo, useReducer, useRef, useState } from "react";
 import Link from "next/link";
-import { ChevronLeft, Power, Wrench, Radar, Cpu } from "lucide-react";
+import { ChevronLeft, Power, Wrench, Radar, Cpu, Star } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
-import dynamic from "next/dynamic";
-const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
+import GravitasScene from "@/components/gravitas/GravitasScene";
 import GravitasActivation from "@/components/gravitas/GravitasActivation";
+import GravitasShop from "@/components/gravitas/GravitasShop";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer } from "@/lib/gravitas/sim/activation";
@@ -45,6 +45,7 @@ export default function GravitasPage() {
 
   const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
+  const [shopOpen, setShopOpen] = useState(false);
   const holdRef = useRef<number | null>(null);
 
   useEffect(() => {
@@ -104,12 +105,30 @@ export default function GravitasPage() {
 
   return (
     <main className="min-h-screen bg-[#050816] text-white px-4 py-5 sm:px-6 sm:py-6">
+      {shopOpen && (
+        <GravitasShop
+          state={state}
+          lang={lang}
+          ui={ui}
+          onClose={() => setShopOpen(false)}
+          onBuy={(itemId) => dispatch({ type: "BUY_ITEM", itemId })}
+        />
+      )}
       <div className="mx-auto max-w-[1180px]">
         <div className="flex items-center justify-between gap-3 mb-5">
           <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
             <ChevronLeft size={16} /> {localize(ui.back)}
           </Link>
-          <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{phaseLabel}</div>
+          <div className="flex items-center gap-4">
+            <button
+              onClick={() => setShopOpen(true)}
+              className="flex items-center gap-2 px-3 py-1.5 rounded-full border border-amber-400/30 bg-amber-400/5 text-amber-400 hover:bg-amber-400/10 transition"
+            >
+              <Star size={14} fill="currentColor" />
+              <span className="text-xs font-black">{state.progression.stars}</span>
+            </button>
+            <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{phaseLabel}</div>
+          </div>
         </div>
 
         <div className="grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
@@ -143,36 +162,40 @@ export default function GravitasPage() {
 
             <section className="mt-6 rounded-2xl border border-white/10 bg-black/30 p-5 overflow-hidden relative group">
                {/* Threat approach indicator */}
-               <div className="absolute inset-0 bg-rose-500/[0.03] animate-pulse" />
+               <div className={`absolute inset-0 transition-colors duration-1000 ${state.threat.aftershock > 0 ? "bg-amber-500/[0.06]" : "bg-rose-500/[0.03]"} animate-pulse`} />
                <div className="relative z-10 flex items-center justify-between gap-4">
                   <div className="flex items-center gap-4">
-                     <div className={`w-12 h-12 rounded-full border-2 flex items-center justify-center ${state.threat.countdown <= 3 ? "border-rose-500 animate-bounce text-rose-500" : state.threat.countdown <= 7 ? "border-amber-500 text-amber-500" : "border-cyan-500/50 text-cyan-400"}`}>
-                        <div className="text-xl font-black">{state.threat.countdown}</div>
+                     <div className={`w-12 h-12 rounded-full border-2 flex items-center justify-center transition-all duration-1000 ${state.threat.aftershock > 0 ? "border-amber-500 text-amber-500 shadow-[0_0_20px_rgba(245,158,11,0.3)]" : state.threat.countdown <= 3 ? "border-rose-500 animate-bounce text-rose-500" : state.threat.countdown <= 7 ? "border-amber-500 text-amber-500" : "border-cyan-500/50 text-cyan-400"}`}>
+                        <div className="text-xl font-black">{state.threat.aftershock > 0 ? state.threat.aftershock : state.threat.countdown}</div>
                      </div>
                      <div>
-                        <div className="text-[10px] uppercase tracking-[0.25em] text-white/40 font-black">{localize(ui.approachingThreat)}</div>
+                        <div className="text-[10px] uppercase tracking-[0.25em] text-white/40 font-black">
+                           {state.threat.aftershock > 0 ? localize(content.threats.aftershockPhase) : localize(ui.approachingThreat)}
+                        </div>
                         <div className="text-lg font-black text-white/90">{localize(content.threats[state.threat.type])}</div>
-                        <p className="mt-1 text-[11px] text-white/50">
-                          {state.threat.type === "distortionWave"
-                            ? (lang === "hu" ? "Javaslat: Váz megerősítése a reaktorral." : lang === "de" ? "Empfehlung: Hülle über den Reaktor verstärken." : lang === "ro" ? "Recomandare: Fortifică structura prin reactor." : "Recommendation: Fortify the shell through the reactor.")
-                            : state.threat.type === "voidStorm"
-                              ? (lang === "hu" ? "Javaslat: Jelcsillapítás vagy pálya-előrejelzés a szenzorral." : lang === "de" ? "Empfehlung: Signale dämpfen oder Trajektorie mit Sensoren vorhersagen." : lang === "ro" ? "Recomandare: Atenuează semnalele sau prezice traiectoria cu senzorii." : "Recommendation: Dampen signals or predict the path with sensors.")
-                              : (lang === "hu" ? "Javaslat: Meteorok elfogása a logisztikával." : lang === "de" ? "Empfehlung: Meteore über die Logistik abfangen." : lang === "ro" ? "Recomandare: Interceptează meteorii prin logistică." : "Recommendation: Intercept the meteors through logistics.")}
-                        </p>
+                        {state.threat.aftershock > 0 ? (
+                           <p className="text-[11px] text-amber-200/70 mt-1">{localize(content.threats.lingeringDrift)}</p>
+                        ) : (
+                           <p className="text-[11px] text-white/50 mt-1">
+                              {state.threat.type === "distortionWave" ? (lang === "hu" ? "Javaslat: Váz megerősítése (Reaktor)" : lang === "de" ? "Empfehlung: Hülle verstärken (Reaktor)" : lang === "ro" ? "Recomandare: Fortifică corpul (Reactor)" : "Recommendation: Fortify Shell (Reactor)") :
+                               state.threat.type === "voidStorm" ? (lang === "hu" ? "Javaslat: Jelcsillapítás (Szenzor)" : lang === "de" ? "Empfehlung: Signale dämpfen (Sensor)" : lang === "ro" ? "Recomandare: Atenuează semnalele (Senzor)" : "Recommendation: Dampen Signals (Sensor)") :
+                               (lang === "hu" ? "Javaslat: Meteorok elfogása (Logisztika)" : lang === "de" ? "Empfehlung: Meteore abfangen (Logistik)" : lang === "ro" ? "Recomandare: Interceptează meteorii (Logistică)" : "Recommendation: Intercept Meteors (Logistics)")}
+                           </p>
+                        )}
                      </div>
                   </div>
-                  <div className="flex items-center gap-3">
-                     <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.fortified ? "bg-emerald-500/20 border-emerald-500 text-emerald-400" : "bg-white/5 border-white/10 text-white/20"}`}>
+                  <div className="flex flex-wrap items-center justify-end gap-2 max-w-[240px]">
+                     <div className={`px-2 py-0.5 rounded-md text-[9px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.fortified ? "bg-emerald-500/20 border-emerald-500 text-emerald-400" : "bg-white/5 border-white/10 text-white/20"}`}>
                         {localize(ui.fortified)}
                      </div>
-                     <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.dampened ? "bg-indigo-500/20 border-indigo-500 text-indigo-400" : "bg-white/5 border-white/10 text-white/20"}`}>
+                     <div className={`px-2 py-0.5 rounded-md text-[9px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.dampened ? "bg-indigo-500/20 border-indigo-500 text-indigo-400" : "bg-white/5 border-white/10 text-white/20"}`}>
                         {localize(ui.dampened)}
                      </div>
-                     <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.intercepted ? "bg-amber-500/20 border-amber-500 text-amber-300" : "bg-white/5 border-white/10 text-white/20"}`}>
+                     <div className={`px-2 py-0.5 rounded-md text-[9px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.intercepted ? "bg-amber-500/20 border-amber-500 text-amber-400" : "bg-white/5 border-white/10 text-white/20"}`}>
                         {lang === "hu" ? "Elfogva" : lang === "de" ? "Abgefangen" : lang === "ro" ? "Interceptat" : "Intercepted"}
                      </div>
-                     <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.predicted ? "bg-sky-500/20 border-sky-500 text-sky-300" : "bg-white/5 border-white/10 text-white/20"}`}>
-                        {lang === "hu" ? "Előrejelzett" : lang === "de" ? "Vorhergesagt" : lang === "ro" ? "Prezis" : "Predicted"}
+                     <div className={`px-2 py-0.5 rounded-md text-[9px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.predicted ? "bg-cyan-500/20 border-cyan-500 text-cyan-400" : "bg-white/5 border-white/10 text-white/20"}`}>
+                        {lang === "hu" ? "Jósolva" : lang === "de" ? "Vorhergesagt" : lang === "ro" ? "Previzionat" : "Predicted"}
                      </div>
                   </div>
                </div>
@@ -208,11 +231,6 @@ export default function GravitasPage() {
                   transferReady: localize(ui.transferReady),
                   transferLocked: localize(ui.transferLocked),
                   transferStageLabel: localize(ui.transferStageLabel),
-                  transferStage0: lang === "hu" ? "Alvó" : lang === "de" ? "Ruhend" : lang === "ro" ? "Adormit" : "Dormant",
-                  transferStage1: lang === "hu" ? "Csatorna nyitva" : lang === "de" ? "Leitung geöffnet" : lang === "ro" ? "Canal deschis" : "Conduit primed",
-                  transferStage2: lang === "hu" ? "Pulzus rögzítve" : lang === "de" ? "Puls verankert" : lang === "ro" ? "Puls fixat" : "Pulse anchored",
-                  transferStage3: lang === "hu" ? "Testrezgés" : lang === "de" ? "Hüllenresonanz" : lang === "ro" ? "Rezonanța corpului" : "Shell resonance",
-                  transferStage4: lang === "hu" ? "Tudati szikra" : lang === "de" ? "Bewusstseinsfunke" : lang === "ro" ? "Scânteie conștientă" : "Conscious spark",
                   hold: localize(ui.hold),
                   awakeningMoment: localize(ui.awakeningMoment),
                   awakeningBody: localize(ui.awakeningBody),

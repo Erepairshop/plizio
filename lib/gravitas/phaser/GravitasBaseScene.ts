@@ -1,4 +1,4 @@
-import * as Phaser from "phaser";
+import Phaser from "phaser";
 import type { StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
 
 const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
@@ -39,7 +39,9 @@ export class GravitasBaseScene extends Phaser.Scene {
   private lastResonance = 0;
   private lastEntropy = 0;
   private lastThreatCountdown = 0;
-  private lastThreatFlags = { fortified: false, dampened: false, intercepted: false, predicted: false };
+  private lastThreatAftershock = 0;
+  private lastThreatType: string = "";
+  private lastThreatFlags = { fortified: false, dampened: false, intercepted: false };
 
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
@@ -152,11 +154,12 @@ export class GravitasBaseScene extends Phaser.Scene {
     }
 
     this.lastThreatCountdown = state.threat.countdown;
+    this.lastThreatAftershock = state.threat.aftershock;
+    this.lastThreatType = state.threat.type;
     this.lastThreatFlags = {
       fortified: state.threat.fortified,
       dampened: state.threat.dampened,
-      intercepted: state.threat.intercepted,
-      predicted: state.threat.predicted,
+      intercepted: state.threat.intercepted
     };
     this.drawRings();
     this.drawLinks(state, selectedModule, activeEventId, state.resonance);
@@ -227,16 +230,24 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.animTime += delta / 1000;
 
     const entropyFactor = this.lastEntropy / 100 || 0;
-    const entropyFlicker = Math.random() < entropyFactor * 0.15 ? 0.4 : 1.0;
+    const entropyFlicker = Math.random() < (entropyFactor * 0.15) ? 0.4 : 1.0;
 
+    // Shake based on resonance + entropy + threat imminent
     const resonanceShake = this.lastResonance > 75
        ? (Math.random() - 0.5) * ((this.lastResonance - 75) / 5)
        : 0;
-    const entropyShake = entropyFactor > 0.6 ? (Math.random() - 0.5) * (entropyFactor * 4) : 0;
-    const threatShake = this.lastThreatCountdown <= 3 ? (Math.random() - 0.5) * (6 - this.lastThreatCountdown) : 0;
+    const entropyShake = entropyFactor > 0.6
+       ? (Math.random() - 0.5) * (entropyFactor * 4)
+       : 0;
+    const threatShake = this.lastThreatCountdown <= 3 && this.lastThreatCountdown > 0
+       ? (Math.random() - 0.5) * (6 - this.lastThreatCountdown)
+       : 0;
+    const aftershockShake = this.lastThreatAftershock > 0
+       ? (Math.random() - 0.5) * (this.lastThreatAftershock * 2)
+       : 0;
 
-    const swayX = Math.sin(this.animTime * 0.24) * 2.2 + resonanceShake + entropyShake + threatShake;
-    const swayY = Math.cos(this.animTime * 0.18) * 1.4 + resonanceShake + entropyShake + threatShake;
+    const swayX = Math.sin(this.animTime * 0.24) * 2.2 + resonanceShake + entropyShake + threatShake + aftershockShake;
+    const swayY = Math.cos(this.animTime * 0.18) * 1.4 + resonanceShake + entropyShake + threatShake + aftershockShake;
     this.root.setPosition(swayX, swayY);
     this.root.setAlpha(entropyFlicker);
 
@@ -292,12 +303,19 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.ringGfx.lineStyle(1, 0x23d3ee, 0.08);
     this.ringGfx.strokeCircle(420, 255, 240);
 
-    if (this.lastThreatCountdown <= 5) {
+    if (this.lastThreatCountdown <= 5 && this.lastThreatCountdown > 0) {
       const alpha = 0.1 + (Math.sin(this.animTime * 4) + 1) * 0.1;
       this.ringGfx.lineStyle(3, 0xf43f5e, alpha);
       this.ringGfx.strokeCircle(420, 255, 280 + Math.sin(this.animTime * 2) * 10);
     }
 
+    if (this.lastThreatAftershock > 0) {
+      const alpha = 0.05 + (Math.random() * 0.1);
+      this.ringGfx.lineStyle(2, 0xf59e0b, alpha);
+      this.ringGfx.strokeCircle(420, 255, 260 + Math.random() * 20);
+    }
+
+    // Draw active defenses
     if (this.lastThreatFlags.fortified) {
       this.ringGfx.lineStyle(2, 0x10b981, 0.4);
       this.ringGfx.strokeCircle(420, 255, 130);
@@ -310,11 +328,8 @@ export class GravitasBaseScene extends Phaser.Scene {
       this.ringGfx.lineStyle(2, 0xf59e0b, 0.4);
       this.ringGfx.strokeCircle(420, 255, 250);
     }
-    if (this.lastThreatFlags.predicted) {
-      this.ringGfx.lineStyle(1.5, 0x38bdf8, 0.35);
-      this.ringGfx.strokeCircle(420, 255, 205);
-    }
   }
+
 
   private drawLinks(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null, resonance: number = 0) {
     this.linkGfx.clear();
