@@ -110,6 +110,7 @@ export default function GravitasPage() {
   const [actionFlash, setActionFlash] = useState<string | null>(null);
   const [tipDismissed, setTipDismissed] = useState(false);
   const [showGameOver, setShowGameOver] = useState(false);
+  const [onboardingDismissed, setOnboardingDismissed] = useState(false);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
@@ -182,7 +183,72 @@ export default function GravitasPage() {
     return localize(ui.phaseAwakened);
   }, [state.phase, lang, ui]);
 
+  const patternLabel = useMemo(() => {
+    if (state.worldPulse < 15) return localize(ui.patternQuiet);
+    if (state.worldPulse < 35) return localize(ui.patternFrayed);
+    if (state.worldPulse < 65) return localize(ui.patternStrange);
+    return localize(ui.patternThin);
+  }, [state.worldPulse, lang, ui]);
+
+  const onboarding = useMemo(() => {
+    if (onboardingDismissed || state.avatarAwake || state.stationLost) return null;
+
+    if (state.tick < 6 && state.resources.materials < 18) {
+      return {
+        step: 1,
+        title: localize(ui.onboardingTitle),
+        body: localize(ui.onboardingStep1),
+        hint: localize(ui.onboardingTapHint),
+        focus: "scavenge" as const,
+      };
+    }
+
+    if (!state.modules.logistics.online && state.tick < 14) {
+      return {
+        step: 2,
+        title: localize(ui.onboardingTitle),
+        body: localize(ui.onboardingStep2),
+        hint: localize(ui.onboardingTapHint),
+        focus: "repairLogistics" as const,
+      };
+    }
+
+    if (state.phase === "boot" && state.resources.activation < 20 && state.tick < 24) {
+      return {
+        step: 3,
+        title: localize(ui.onboardingTitle),
+        body: localize(ui.onboardingStep3),
+        hint: localize(ui.onboardingTapHint),
+        focus: "reroute" as const,
+      };
+    }
+
+    if (state.phase === "activation" && !state.avatarAwake) {
+      return {
+        step: 4,
+        title: localize(ui.onboardingTitle),
+        body: localize(ui.onboardingStep4),
+        hint: localize(ui.onboardingTapHint),
+        focus: "activation" as const,
+      };
+    }
+
+    return null;
+  }, [
+    onboardingDismissed,
+    state.avatarAwake,
+    state.stationLost,
+    state.tick,
+    state.resources.materials,
+    state.modules.logistics.online,
+    state.phase,
+    state.resources.activation,
+    lang,
+    ui,
+  ]);
+
   const canReroute = canStartActivationTransfer(state);
+  const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || onboarding?.focus === "reroute";
 
   const beginTransfer = () => {
     if (state.phase !== "activation" || holdRef.current !== null || state.avatarAwake) return;
@@ -229,6 +295,7 @@ export default function GravitasPage() {
         ro: "Faza II este activă. Stația este acum ancora ta, nu limita ta.",
       };
     }
+    if (state.tick < 6) return content.ui.startDirective;
     if (state.tick < 10) return { en: "Your station is damaged. Scavenge materials to begin repairs.", hu: "Az állomás sérült. Gyűjts anyagot a javítások elindításához.", de: "Ihre Station ist beschädigt. Sammeln Sie Material für Reparaturen.", ro: "Stația este avariată. Colectează materiale pentru reparații." };
     if (state.tick >= 10 && state.tick < 20 && !state.modules.logistics.online) return { en: "Repair Logistics to improve material flow.", hu: "Javítsd meg a logisztikát az anyagáramlás segítéséhez.", de: "Reparieren Sie die Logistik für besseren Materialfluss.", ro: "Repará logistica pentru a îmbunătăți fluxul de materiale." };
     if (state.tick >= 20 && state.tick < 30 && state.phase === "boot") return { en: "When ready, Reroute to Core to begin avatar activation.", hu: "Ha kész vagy, irányítsd az energiát a magba az aktiváláshoz.", de: "Wenn bereit, leiten Sie Energie in den Kern zur Aktivierung.", ro: "Când ești gata, redirecționează spre nucleu pentru activare." };
@@ -324,6 +391,13 @@ export default function GravitasPage() {
         <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" />
         <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" />
         <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" />
+        <div className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 border border-white/5 text-xs font-black shrink-0 ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
+          <Layers size={12} />
+          <div className="flex flex-col leading-none">
+            <span className="text-[8px] uppercase tracking-[0.18em] text-white/30">{localize(ui.pattern)}</span>
+            <span className="text-[10px]">{patternLabel}</span>
+          </div>
+        </div>
       </div>
 
       {/* Game View */}
@@ -357,6 +431,37 @@ export default function GravitasPage() {
                 <button onClick={() => setTipDismissed(true)} className="p-1 text-white/40 hover:text-white transition">
                   <X size={14} />
                 </button>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
+            {onboarding && (
+              <motion.div
+                initial={{ opacity: 0, y: -16 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -16 }}
+                className="absolute top-44 left-4 right-4 z-30 rounded-2xl border border-cyan-400/25 bg-cyan-500/10 backdrop-blur-md p-4 shadow-[0_0_30px_rgba(34,211,238,0.14)]"
+              >
+                <div className="flex items-start justify-between gap-4">
+                  <div className="min-w-0">
+                    <div className="text-[10px] font-black uppercase tracking-[0.28em] text-cyan-300">
+                      {onboarding.title} {onboarding.step}/4
+                    </div>
+                    <div className="mt-2 text-sm font-black text-white leading-snug">
+                      {onboarding.body}
+                    </div>
+                    <div className="mt-2 text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">
+                      {onboarding.hint}
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => setOnboardingDismissed(true)}
+                    className="shrink-0 rounded-full border border-white/10 bg-white/5 px-3 py-2 text-[10px] font-black uppercase tracking-widest text-white/70 hover:bg-white/10 transition"
+                  >
+                    Skip
+                  </button>
+                </div>
               </motion.div>
             )}
           </AnimatePresence>
@@ -507,8 +612,8 @@ export default function GravitasPage() {
                 icon={<Activity size={18} />}
                 label={localize(ui.phaseActivation)}
                 active={activePanel === "activation"}
+                emphasis={onboarding?.focus === "activation"}
                 onClick={() => setActivePanel(activePanel === "activation" ? null : "activation")}
-                emphasis
               />
             </div>
           )}
@@ -535,14 +640,14 @@ export default function GravitasPage() {
 
       {/* Main Actions - Bottom Bar */}
       <nav className="fixed bottom-0 left-0 right-0 p-4 pb-[calc(1.5rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 grid grid-cols-4 gap-2 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
-        <MainAction label={localize(ui.scavenge)} onClick={() => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)")} disabled={isLockdown} />
+        <MainAction label={localize(ui.scavenge)} onClick={() => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)")} disabled={isLockdown} highlight={onboarding?.focus === "scavenge"} />
         <MainAction label={localize(ui.stabilize)} onClick={() => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)")} emphasis={isRecovering && !isLockdown} />
-        <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} />
+        <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} highlight={onboarding?.focus === "repairLogistics"} />
         <MainAction
           label={state.phase === "awakened" ? localize({ en: "World Pulse", hu: "Világimpulzus", de: "Weltpuls", ro: "Pulsul lumii" }) : localize(ui.reroute)}
           onClick={() => doAction({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" }, "rgba(219,39,119,0.4)")}
           disabled={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown)}
-          highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown)}
+          highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : rerouteHighlighted}
         />
       </nav>
 

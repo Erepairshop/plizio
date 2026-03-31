@@ -44,6 +44,8 @@ export function loadGravitasState(): StarholdState | null {
       firstLoopComplete: parsed.firstLoopComplete ?? parsed.avatarAwake ?? false,
       firstLoopShown: parsed.firstLoopShown ?? false,
       eventQuietTicks: parsed.eventQuietTicks ?? 0,
+      worldPulse: parsed.worldPulse ?? 0,
+      worldPhase: parsed.worldPhase ?? 0,
     };
   } catch {
     return null;

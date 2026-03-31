@@ -48,14 +48,19 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const stabilityBuffer = isHighStability ? 2 : 0;
   const isAwakened = state.phase === "awakened";
   const decayMult = isAwakened ? 1.5 : 1;
+  const worldPhase = state.worldPhase;
+  const phasePowerDrain = worldPhase === 1 ? 1 : 0;
+  const phaseStabilityBonus = worldPhase === 2 ? 1 : 0;
+  const phaseEntropyBias = worldPhase === 3 ? 1 : 0;
 
   const nextPower = clamp(
-    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0) + (isAwakened ? 1 : 0)
+    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain - phasePowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0) + (isAwakened ? 1 : 0)
   );
-  const nextStability = clamp(
+  let nextStability = clamp(
     state.resources.stability +
       sensorStability +
-      stabilityBuffer -
+      stabilityBuffer +
+      phaseStabilityBonus -
       (state.modules.reactor.integrity < 40 ? 1 : 0) -
       (state.modules.core.load > 75 ? 1 : 0) -
       shellDrain -
@@ -110,16 +115,22 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Lockdown logic
   let nextLockdown = state.lockdown;
   let nextPendingEvent = state.pendingEvent;
+  const lockdownArmed = state.tick >= 20;
   if (nextStability === 0 && !nextLockdown) {
-    nextLockdown = true;
-    nextPendingEvent = null; // Force clear to allow override event
-    alert = {
-      en: "STATION LOCKDOWN: Stability failure. Emergency override required.",
-      hu: "ÁLLOMÁS LEZÁRVA: Stabilitási hiba. Kézi felülbírálás szükséges.",
-      de: "STATIONS-LOCKDOWN: Stabilitätsfehler. Notfall-Override erforderlich.",
-      ro: "BLOCARE STAȚIE: Eșec stabilitate. Este necesară suprascrierea de urgență.",
-    };
-    nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
+    if (lockdownArmed) {
+      nextLockdown = true;
+      nextPendingEvent = null; // Force clear to allow override event
+      alert = {
+        en: "STATION LOCKDOWN: Stability failure. Emergency override required.",
+        hu: "ÁLLOMÁS LEZÁRVA: Stabilitási hiba. Kézi felülbírálás szükséges.",
+        de: "STATIONS-LOCKDOWN: Stabilitätsfehler. Notfall-Override erforderlich.",
+        ro: "BLOCARE STAȚIE: Eșec stabilitate. Este necesară suprascrierea de urgență.",
+      };
+      nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
+    } else {
+      nextStability = 1;
+      alert = GRAVITAS_TEXT.alerts.critStability;
+    }
   }
 
   // Void Whispers (Psychic atmosphere)
@@ -178,7 +189,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     });
   }
 
-  const nextAlert =
+  let nextAlert =
     nextPower < 8
       ? GRAVITAS_TEXT.alerts.critPower
       : nextStability < 25
@@ -200,6 +211,30 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     nextEntropy = clamp(nextEntropy + gain);
   } else if (totalMarks < 5 || isHighStability) {
     nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
+  }
+  if (phaseEntropyBias > 0) {
+    nextEntropy = clamp(nextEntropy - phaseEntropyBias);
+  }
+
+  const nextWorldPhase = state.tick > 0 && state.tick % 40 === 0 ? (state.worldPhase + 1) % 4 : state.worldPhase;
+  const worldPulseGain =
+    Math.floor(totalMarks / 4) +
+    Math.floor(nextEntropy / 20) +
+    (state.threat.aftershock > 0 ? 2 : 0) +
+    (state.phase === "awakened" ? 1 : 0) +
+    (nextLockdown ? 2 : 0);
+  const worldPulseEase = (isHighStability ? 2 : 0) + (nextWorldPhase === 0 ? 1 : 0);
+  const nextWorldPulse = clamp(state.worldPulse + worldPulseGain - worldPulseEase);
+
+  let worldShifted = false;
+  if (nextWorldPhase !== state.worldPhase) {
+    worldShifted = true;
+    const worldTurn = GRAVITAS_TEXT.lore.worldTurns[nextWorldPhase];
+    nextJournal = pushJournal({ ...state, journal: nextJournal }, worldTurn);
+    alert = GRAVITAS_TEXT.alerts.worldPatternShift;
+  }
+  if (worldShifted) {
+    nextAlert = GRAVITAS_TEXT.alerts.worldPatternShift;
   }
 
   if (nextLockdown) {
@@ -256,6 +291,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     firstLoopComplete,
     pendingEvent: nextPendingEvent,
     eventQuietTicks: nextQuietTicks,
+    worldPulse: nextWorldPulse,
+    worldPhase: nextWorldPhase,
     lowEntropyStreak: nextEntropy < 10 ? state.lowEntropyStreak + 1 : 0,
     highStabilityStreak: nextStability > 90 ? state.highStabilityStreak + 1 : 0,
     wasCrisis: state.crisis,
@@ -268,7 +305,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const threatResult = advanceStarholdThreat(withResonance);
 
   // Events - skipped if threat just impacted or during aftershock
-  if (threatResult.impacted || threatResult.nextState.threat.aftershock > 0 || threatResult.nextState.eventQuietTicks > 0) {
+  if (threatResult.impacted || threatResult.nextState.threat.aftershock > 0 || threatResult.nextState.eventQuietTicks > 0 || worldShifted) {
     return checkStarholdMilestones(threatResult.nextState);
   }
 
