@@ -1,4 +1,4 @@
-import type { StarholdState, StarholdThreatType, LocalizedString, StarholdModuleId } from "./types";
+import type { StarholdState, StarholdThreatType, LocalizedString, StarholdModuleId, StarholdMarks } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { getStarholdModifiers } from "./modifiers";

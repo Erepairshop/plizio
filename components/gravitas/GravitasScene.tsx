@@ -56,7 +56,7 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, a
   }, []);
 
   useEffect(() => {
-    sceneRef.current?.syncState(state, selectedModule, activeEventId);
+    sceneRef.current?.syncState(state, selectedModule);
   }, [state, selectedModule, activeEventId]);
 
   return (

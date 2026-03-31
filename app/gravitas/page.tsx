@@ -392,7 +392,7 @@ export default function GravitasPage() {
                       if (dmg > 0) parts.push(`${localize(state.modules[id as StarholdModuleId].name)} -${dmg}%`);
                     });
                     Object.entries(preview.markGain).forEach(([id, val]) => {
-                      if (val && val > 0) parts.push(`+${val} ${id}`);
+                      if (val && (val as number) > 0) parts.push(`+${val} ${id}`);
                     });
                     return `${localize({en: "Est. damage: ", hu: "Becsült kár: ", de: "Erw. Schaden: ", ro: "Daune est.: "})} ${parts.join(", ")}`;
                   })()}
