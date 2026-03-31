@@ -434,14 +434,14 @@ export default function GravitasPage() {
         </div>
 
         <div className="grid gap-4 sm:gap-5 lg:grid-cols-[1.2fr_0.8fr]">
-          <section className="rounded-[20px] sm:rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-4 sm:p-6 shadow-2xl">
+          <section className="rounded-[20px] sm:rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-3 sm:p-6 shadow-2xl">
             <div className="flex items-start justify-between gap-3">
               <div className="min-w-0 flex-1">
                 <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{t.title}</div>
                 <h1 className="mt-2 sm:mt-3 text-base sm:text-2xl lg:text-4xl font-black leading-snug">{t.subtitle}</h1>
               </div>
-              <div className="w-20 h-20 sm:w-28 sm:h-28 shrink-0 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
-                <div className={`w-11 h-11 sm:w-16 sm:h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
+              <div className="w-16 h-16 sm:w-24 sm:h-24 shrink-0 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
+                <div className={`w-9 h-9 sm:w-14 sm:h-14 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
               </div>
             </div>
 
@@ -654,7 +654,7 @@ export default function GravitasPage() {
 
             <section className="rounded-[28px] border border-white/10 bg-white/5 p-5 shadow-2xl">
               <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{t.marks}</div>
-              <div className="mt-4 grid gap-3 sm:grid-cols-3">
+              <div className="mt-4 grid gap-3 grid-cols-3">
                 <div className="rounded-2xl border border-white/10 bg-black/20 px-3 py-3">
                   <div className="text-[11px] uppercase tracking-[0.22em] text-white/45 font-black">{t.reactorScar}</div>
                   <div className="mt-2 text-lg font-black text-rose-200">{state.marks.reactorScar}</div>
