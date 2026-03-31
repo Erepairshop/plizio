@@ -700,27 +700,30 @@ export default function GravitasPage() {
           </AnimatePresence>
 
           <AnimatePresence>
-            {state.firstLoopComplete && !state.firstLoopShown && (
+            {state.firstLoopComplete && !state.firstLoopShown && !showAwakening && (
               <motion.div
-                initial={{ opacity: 0, y: -8 }}
+                initial={{ opacity: 0, y: 12 }}
                 animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -8 }}
-                className="absolute top-36 left-4 right-4 z-30 rounded-2xl border border-fuchsia-400/30 bg-fuchsia-500/10 backdrop-blur-md p-4 shadow-[0_0_30px_rgba(232,121,249,0.15)]"
+                exit={{ opacity: 0, y: 12 }}
+                className="fixed bottom-[116px] right-4 z-[70] w-[min(92vw,360px)] rounded-2xl border border-fuchsia-400/30 bg-fuchsia-500/12 backdrop-blur-md p-3 shadow-[0_0_24px_rgba(232,121,249,0.14)] lg:bottom-6"
               >
-                <div className="flex items-center justify-between gap-4">
-                  <div className="min-w-0">
+                <div className="flex items-start gap-3">
+                  <div className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 text-fuchsia-100">
+                    <Star size={14} fill="currentColor" />
+                  </div>
+                  <div className="min-w-0 flex-1">
                     <div className="text-[10px] font-black uppercase tracking-[0.28em] text-fuchsia-300">
-                      {localize(content.victory.firstLoopTitle)}
-                    </div>
-                    <div className="mt-1 text-xs text-white/75 leading-snug">
                       {localize(content.ui.phaseShift)}
+                    </div>
+                    <div className="mt-1 text-[11px] leading-snug text-white/75">
+                      {localize(content.victory.continuePlaying)}
                     </div>
                   </div>
                   <button
                     onClick={() => dispatch({ type: "ACKNOWLEDGE_PHASE_SHIFT" })}
-                    className="shrink-0 rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 px-3 py-2 text-[10px] font-black uppercase tracking-widest text-fuchsia-100 hover:bg-fuchsia-400/25 transition"
+                    className="shrink-0 rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 px-2.5 py-1.5 text-[9px] font-black uppercase tracking-widest text-fuchsia-100 hover:bg-fuchsia-400/25 transition"
                   >
-                    {localize(content.victory.continuePlaying)}
+                    OK
                   </button>
                 </div>
               </motion.div>
