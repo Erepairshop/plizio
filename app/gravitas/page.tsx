@@ -438,7 +438,7 @@ export default function GravitasPage() {
             <div className="flex items-start justify-between gap-3">
               <div className="min-w-0 flex-1">
                 <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{t.title}</div>
-                <h1 className="mt-2 sm:mt-3 text-lg sm:text-3xl lg:text-5xl font-black leading-snug">{t.subtitle}</h1>
+                <h1 className="mt-2 sm:mt-3 text-base sm:text-2xl lg:text-4xl font-black leading-snug">{t.subtitle}</h1>
               </div>
               <div className="w-20 h-20 sm:w-28 sm:h-28 shrink-0 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
                 <div className={`w-11 h-11 sm:w-16 sm:h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
@@ -454,7 +454,7 @@ export default function GravitasPage() {
               />
             </div>
 
-            <div className="mt-4 sm:mt-6 overflow-hidden rounded-xl" style={{ maxHeight: "min(56vw, 360px)" }}>
+            <div className="mt-4 sm:mt-6 overflow-hidden rounded-xl" style={{ maxHeight: "min(52vw, 340px)", minHeight: "180px" }}>
               <GravitasScene
                 state={state}
                 selectedModule={selectedModule}
@@ -464,7 +464,7 @@ export default function GravitasPage() {
               />
             </div>
 
-            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            <div className="mt-5 sm:mt-6 grid gap-4 md:grid-cols-2">
               <div className="rounded-2xl border border-white/10 bg-black/20 p-4">
                 <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{t.objective}</div>
                 <p className="mt-3 text-white/75 leading-relaxed">{t.objectiveText}</p>
@@ -474,8 +474,8 @@ export default function GravitasPage() {
               </div>
               <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/6 p-4">
                 <div className="text-xs uppercase tracking-[0.28em] text-cyan-200 font-black">{t.transferTitle}</div>
-                <div className="mt-4 flex items-center gap-4">
-                  <div className="relative h-24 w-24 shrink-0">
+                <div className="mt-4 flex flex-col xs:flex-row items-start xs:items-center gap-4">
+                  <div className="relative h-20 w-20 sm:h-24 sm:w-24 shrink-0 mx-auto xs:mx-0">
                     <div className="absolute inset-0 rounded-full border border-cyan-300/20" />
                     <div
                       className="absolute inset-2 rounded-full border-2 border-pink-300/40 transition-all duration-500"
@@ -550,7 +550,7 @@ export default function GravitasPage() {
               </div>
             </div>
 
-            <div className="mt-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+            <div className="mt-5 sm:mt-6 grid gap-3 grid-cols-2 xl:grid-cols-4">
               <button
                 type="button"
                 onClick={() => dispatch({ type: "SCAVENGE" })}
@@ -738,7 +738,7 @@ export default function GravitasPage() {
               <div className="mt-4 rounded-2xl border border-cyan-300/20 bg-cyan-400/6 px-4 py-3 text-sm text-cyan-100">
                 {state.alert}
               </div>
-              <div className="mt-4 space-y-2">
+              <div className="mt-4 space-y-2 max-h-48 sm:max-h-none overflow-y-auto">
                 {state.journal.map((line) => (
                   <div key={line} className="rounded-xl border border-white/10 bg-black/20 px-3 py-2 text-sm text-white/72">
                     {line}
