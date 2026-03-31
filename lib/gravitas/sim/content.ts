@@ -420,6 +420,19 @@ export const GRAVITAS_TEXT = {
         recalibrate: { en: "Deep recalibration", hu: "Mély újrakalibrálás", de: "Tiefe Neukalibrierung", ro: "Recalibrare profundă" },
       }
     },
+    signalDrift: {
+      title: { en: "Signal drift", hu: "Jeleltolódás", de: "Signaldrift", ro: "Derivă de semnal" },
+      body: {
+        en: "A signal is appearing on the edge of the sensor array. Something far away is trying to reach you. Trace the signal or mute it?",
+        hu: "Egy jel jelenik meg a szenzortömbön. Valami messzire próbál elérni. Követed a jelet, vagy elnémítod?",
+        de: "Ein Signal erscheint am Rand der Sensoranordnung. Etwas weit weg versucht, dich zu erreichen. Signal verfolgen oder stummschalten?",
+        ro: "Un semnal apare la marginea matricei senzorilor. Ceva departe încearcă să te ajungă. Urmărești semnalul sau îl muțești?"
+      },
+      options: {
+        trace: { en: "Trace the signal", hu: "Jel követése", de: "Signal verfolgen", ro: "Urmărește semnalul" },
+        mute: { en: "Mute it", hu: "Elnémítés", de: "Stummschalten", ro: "Amuțești-l" },
+      }
+    },
     deepTrek: {
       title: { en: "Deep Trek", hu: "Mély-expedíció", de: "Tiefenexpedition", ro: "Expediție profundă" },
       body: {
