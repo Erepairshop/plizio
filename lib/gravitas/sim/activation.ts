@@ -31,6 +31,7 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
   return {
     ...state,
     phase: "activation",
+    worldPulse: clamp(state.worldPulse + 2),
     modules: {
       ...state.modules,
       core: {
@@ -105,6 +106,7 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
         load: clamp(state.modules.core.load + Math.ceil(amount / 2)),
       },
     },
+    worldPulse: clamp(state.worldPulse + (awakened ? 10 : 2)),
     progression: {
       ...state.progression,
       stars: state.progression.stars + (awakened ? 5 : 0),

@@ -46,6 +46,8 @@ export function createInitialStarholdState(): StarholdState {
     lastEventTick: {},
     pendingEvent: null,
     eventQuietTicks: 0,
+    worldPulse: 0,
+    worldPhase: 0,
     crisis: false,
     highStability: false,
     lockdown: false,

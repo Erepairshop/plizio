@@ -37,12 +37,14 @@ export type StarholdEventId =
   | "powerFluctuation"
   | "materialBottleneck"
   | "signalPulse"
+  | "signalDrift"
   | "driftLock"
   | "supplyCascade"
   | "voidBreach"
   | "sensorGhosting"
   | "deepTrek"
   | "entropyCascade"
+  | "phaseEcho"
   | "emergencyOverride";
 
 export type LocalizedString = {
@@ -115,6 +117,8 @@ export interface StarholdState {
   lastEventTick: Partial<Record<StarholdEventId, number>>;
   pendingEvent: StarholdPendingEvent | null;
   eventQuietTicks: number;
+  worldPulse: number;
+  worldPhase: number;
   crisis: boolean; // True if multiple resources are low
   highStability: boolean; // True if stability is very high
   lockdown: boolean; // True if stability reached 0

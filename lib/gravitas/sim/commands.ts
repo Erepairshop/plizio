@@ -28,6 +28,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           power: powerGain,
           stability: -2,
         }),
+        worldPulse: clamp(state.worldPulse + 1),
         alert: GRAVITAS_TEXT.alerts.scavengeSuccess,
         journal: pushJournal(state, GRAVITAS_TEXT.journal.recoveredMaterials(materialsGain)),
       };
@@ -105,7 +106,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ...state.resources,
           power: clamp(state.resources.power - cost),
           activation: clamp(state.resources.activation + 12),
-        }
+        },
+        worldPulse: clamp(state.worldPulse + 3),
       };
     }
     case "CHANNEL_TO_CORE": {
@@ -122,6 +124,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           power: -cost,
           stability: Math.floor(6 * mods.recoveryEfficiency),
         }),
+        worldPulse: clamp(state.worldPulse - 4),
         marks: {
           reactorScar: clamp(state.marks.reactorScar - 1),
           shellStrain: clamp(state.marks.shellStrain - 1),
@@ -212,6 +215,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           power: -cost,
           stability: -2,
         }),
+        worldPulse: clamp(state.worldPulse + 2),
         marks: {
           ...state.marks,
           voidEcho: clamp(state.marks.voidEcho - 8),
@@ -276,6 +280,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       return {
         ...state,
         resources: addResourceDelta(state.resources, { power: -cost, stability: Math.floor(6 * mods.recoveryEfficiency) }),
+        worldPulse: clamp(state.worldPulse - 2),
         marks: {
           ...state.marks,
           shellStrain: clamp(state.marks.shellStrain - ventReduction),
@@ -359,6 +364,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           power: -10,
           stability: 15,
         }),
+        worldPulse: clamp(state.worldPulse - 6),
         entropy: clamp(state.entropy - 2),
         modules: nextModules,
         lastAvatarPulse: state.tick,

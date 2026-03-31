@@ -16,6 +16,11 @@ export const GRAVITAS_TEXT = {
     riskRising: { en: "Rising", hu: "Emelkedő", de: "Steigend", ro: "În creștere" },
     riskCritical: { en: "Critical", hu: "Kritikus", de: "Kritisch", ro: "Critic" },
     entropy: { en: "Entropy", hu: "Entrópia", de: "Entropie", ro: "Entropie" },
+    pattern: { en: "Pattern", hu: "Minta", de: "Muster", ro: "Tipar" },
+    patternQuiet: { en: "Quiet", hu: "Csendes", de: "Still", ro: "Liniștit" },
+    patternFrayed: { en: "Frayed", hu: "Foszló", de: "Fransig", ro: "Dezlegat" },
+    patternStrange: { en: "Strange", hu: "Furcsa", de: "Seltsam", ro: "Straniu" },
+    patternThin: { en: "Thin", hu: "Vékony", de: "Dünn", ro: "Subțire" },
     back: { en: "Home", hu: "Főoldal", de: "Start", ro: "Acasă" },
     pwr: { en: "Power", hu: "Energia", de: "Energie", ro: "Energie" },
     mat: { en: "Materials", hu: "Anyag", de: "Material", ro: "Materiale" },
@@ -63,6 +68,43 @@ export const GRAVITAS_TEXT = {
       hu: "A parancspanel annak megfelelően változik, hogy melyik modulra fókuszálsz.",
       de: "Das Befehlsfeld passt sich dem gerade fokussierten Modul an.",
       ro: "Panoul de comandă se schimbă în funcție de modulul pe care îl urmărești."
+    },
+    onboardingTitle: { en: "First run", hu: "Első futás", de: "Erster Lauf", ro: "Prima sesiune" },
+    onboardingStep1: {
+      en: "Tap Scavenge. You need materials before anything else.",
+      hu: "Nyomd meg a Nyersanyag gyűjtése gombot. Előbb anyagra van szükséged.",
+      de: "Tippe auf Material bergen. Du brauchst zuerst Material.",
+      ro: "Apasă Colectează resurse. Ai nevoie de materiale înainte de orice."
+    },
+    onboardingStep2: {
+      en: "Repair Logistics. That opens the flow of resources.",
+      hu: "Javítsd meg a logisztikát. Ez nyitja meg az anyagáramlást.",
+      de: "Repariere die Logistik. Das öffnet den Ressourcenfluss.",
+      ro: "Repară logistica. Asta deschide fluxul de resurse."
+    },
+    onboardingStep3: {
+      en: "Reroute power to the core when the station is steady enough.",
+      hu: "Amikor az állomás elég stabil, irányíts energiát a maghoz.",
+      de: "Leite Energie zum Kern um, wenn die Station stabil genug ist.",
+      ro: "Redirecționează energia spre nucleu când stația este suficient de stabilă."
+    },
+    onboardingStep4: {
+      en: "Hold the transfer in Activation. That is how the shell wakes up.",
+      hu: "Az Aktiválásnál tartsd nyomva az átvitelt. Így ébred fel a test.",
+      de: "Halte den Transfer in der Aktivierung. So erwacht die Hülle.",
+      ro: "Ține transferul în Activare. Așa se trezește corpul."
+    },
+    onboardingTapHint: {
+      en: "You can inspect modules any time by tapping them in the station view.",
+      hu: "A modulokat bármikor megnyithatod az állomásnézetben.",
+      de: "Du kannst Module jederzeit in der Stationsansicht antippen.",
+      ro: "Poți inspecta modulele oricând atingându-le în vederea stației."
+    },
+    startDirective: {
+      en: "Keep the station alive. Repair logistics, stabilize the reactor, and let the strange signals surface on their own.",
+      hu: "Tartsd életben az állomást. Javítsd a logisztikát, stabilizáld a reaktort, és hagyd, hogy a furcsa jelek maguktól előjöjjenek.",
+      de: "Halte die Station am Leben. Repariere die Logistik, stabilisiere den Reaktor und lass die seltsamen Signale selbst auftauchen.",
+      ro: "Ține stația în viață. Repară logistica, stabilizează reactorul și lasă semnalele ciudate să apară de la sine."
     },
     journal: { en: "Journal", hu: "Napló", de: "Logbuch", ro: "Jurnal" },
     eventTitle: { en: "Live event", hu: "Aktív esemény", de: "Aktives Ereignis", ro: "Eveniment activ" },
@@ -145,6 +187,12 @@ export const GRAVITAS_TEXT = {
       { en: "...not alone...", hu: "...nem vagy egyedül...", de: "...nicht allein...", ro: "...nu ești singur..." },
       { en: "...the shell listens...", hu: "...a burok figyel...", de: "...die Hülle lauscht...", ro: "...învelișul ascultă..." },
       { en: "...echoes of what was...", hu: "...visszhangok a múltból...", de: "...Echos von dem was war...", ro: "...ecouri ale trecutului..." },
+    ],
+    worldTurns: [
+      { en: "The station held its breath for a moment.", hu: "Az állomás egy pillanatra visszatartotta a lélegzetét.", de: "Die Station hielt für einen Moment den Atem an.", ro: "Stația și-a ținut respirația o clipă." },
+      { en: "Something shifted in the hidden layer.", hu: "Valami elmozdult a rejtett rétegben.", de: "Etwas verschob sich in der verborgenen Schicht.", ro: "Ceva s-a mutat în stratul ascuns." },
+      { en: "The shell learned a new rhythm.", hu: "A test új ritmust tanult.", de: "Die Hülle lernte einen neuen Rhythmus.", ro: "Corpul a învățat un ritm nou." },
+      { en: "A wider pattern moved behind the station walls.", hu: "Egy tágabb minta mozdult meg az állomás falai mögött.", de: "Ein breiteres Muster bewegte sich hinter den Stationwänden.", ro: "Un tipar mai larg s-a mișcat în spatele pereților stației." },
     ],
   },
   victory: {
@@ -528,6 +576,9 @@ export const GRAVITAS_TEXT = {
     reactorOverdriven: { en: "Reactor core overdriven! Output surging!", hu: "Reaktormag túlhajtva! Az energia ömlik!", de: "Reaktorkern überlastet! Output steigt!", ro: "Nucleu reactor suprasolicitat! Producție crescută!" },
     logisticsOptimized: { en: "Logistics routes optimized for maximum throughput.", hu: "Logisztikai útvonalak optimalizálva a maximumra.", de: "Logistikrouten auf Maximum optimiert.", ro: "Rute logistice optimizate pentru flux maxim." },
     deepScanComplete: { en: "Deep sensor scan completed. Void echoes dampened.", hu: "Mély szenzoros vizsgálat kész. Void visszhangok tompítva.", de: "Tiefer Sensorscan fertig. Void-Echos gedämpft.", ro: "Scanare senzori gata. Ecouri void atenuate." },
+    signalDrift: { en: "Signal drift detected. The station is listening back.", hu: "Jeleltolódás észlelve. Az állomás visszahallgat.", de: "Signaldrift erkannt. Die Station lauscht zurück.", ro: "Derivă de semnal detectată. Stația ascultă înapoi." },
+    phaseEcho: { en: "Phase echo. A quiet layer answered.", hu: "Fázis-visszhang. Egy csendes réteg válaszolt.", de: "Phasen-Echo. Eine stille Schicht antwortete.", ro: "Ecou de fază. Un strat tăcut a răspuns." },
+    worldPatternShift: { en: "The hidden pattern shifted.", hu: "A rejtett minta elmozdult.", de: "Das verborgene Muster hat sich verschoben.", ro: "Tiparul ascuns s-a schimbat." },
     anomalyPurged: (name: LocalizedString) => ({
       en: `${name.en} anomaly has been purged.`,
       hu: `${name.hu} anomália semlegesítve.`,
@@ -587,6 +638,11 @@ export const GRAVITAS_TEXT = {
     overclockJournal: { en: "Reactor core overdriven for immediate power. Structural scars detected.", hu: "Reaktormag túlhajtva az azonnali energiáért. Szerkezeti sebek észlelve.", de: "Reaktorkern für sofortige Energie überlastet. Strukturnarben.", ro: "Nucleu reactor suprasolicitat. Cicatrici structurale detectate." },
     optimizeJournal: { en: "Logistics throughput maximized. Supply grid is under heavy stress.", hu: "Logisztikai átvitel maximalizálva. Az ellátóhálózat súlyos terhelés alatt.", de: "Logistikdurchsatz maximiert. Versorgungsnetz unter schwerer Last.", ro: "Flux logistic maximizat. Rețeaua este sub tensiune." },
     deepScanJournal: { en: "Sensors focused on the shell's psychic layer, dampening void echoes.", hu: "A szenzorok a test pszichikai rétegére fókuszáltak, tompítva a void visszhangokat.", de: "Sensoren auf psychische Hüllenschicht fokussiert, Void-Echos gedämpft.", ro: "Senzorii s-au concentrat pe stratul psihic, atenuând ecourile void." },
+    signalDriftJournal: { en: "A hidden signal returned when the sensor array looked too far.", hu: "Egy rejtett jel tért vissza, amikor a szenzorok túl messzire néztek.", de: "Ein verborgenes Signal kehrte zurück, als das Sensorarray zu weit sah.", ro: "Un semnal ascuns s-a întors când senzorii au privit prea departe." },
+    signalMuteJournal: { en: "You muted the signal before it could root itself.", hu: "Elnyomtad a jelet, mielőtt gyökeret verhetett volna.", de: "Du hast das Signal gedämpft, bevor es Wurzeln schlagen konnte.", ro: "Ai redus semnalul înainte să prindă rădăcini." },
+    phaseEchoJournal: { en: "The station answered in a quieter voice than before.", hu: "Az állomás a korábbinál csendesebb hangon válaszolt.", de: "Die Station antwortete mit leiserer Stimme als zuvor.", ro: "Stația a răspuns cu o voce mai tăcută decât înainte." },
+    worldTurnJournal: { en: "The hidden layer shifted without warning.", hu: "A rejtett réteg figyelmeztetés nélkül elmozdult.", de: "Die verborgene Schicht verschob sich ohne Vorwarnung.", ro: "Stratul ascuns s-a schimbat fără avertisment." },
+    worldEchoJournal: { en: "The hidden pattern bled through the shell for a moment.", hu: "A rejtett minta egy pillanatra átcsordult a testen.", de: "Das verborgene Muster sickerte für einen Moment durch die Hülle.", ro: "Tiparul ascuns a pătruns pentru o clipă prin corp." },
     initialJournal: [
       { en: "Emergency reserve power detected.", hu: "Vészhelyzeti tartalék energia észlelve.", de: "Notreserveenergie entdeckt.", ro: "Energie de rezervă detectată." },
       { en: "Core chamber sealed.", hu: "Magkamra lezárva.", de: "Kernkammer versiegelt.", ro: "Camera nucleului sigilată." },

@@ -403,6 +403,101 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     },
   },
   {
+    id: "signalDrift",
+    minTick: 18,
+    cooldown: 24,
+    shouldTrigger: (state) =>
+      state.modules.sensor.online &&
+      state.phase !== "boot" &&
+      (state.worldPulse >= 25 || state.marks.voidEcho >= 3) &&
+      (state.entropy >= 18 || state.marks.shellStrain >= 4),
+    create: () => ({
+      ...chainedEvent(
+        {
+          id: "signalDrift",
+          title: T.signalDrift.title,
+          body: T.signalDrift.body,
+          options: [
+            { id: "trace", label: { en: "Trace the signal", hu: "Jel követése", de: "Signal verfolgen", ro: "Urmărește semnalul" } },
+            { id: "mute", label: { en: "Mute it", hu: "Elcsendesítés", de: "Dämpfen", ro: "Amuțește-l" } },
+          ],
+        },
+        "signal-drift",
+        1,
+        2
+      ),
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "trace") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "signalDrift",
+              title: {
+                en: "Signal returns",
+                hu: "A jel visszatér",
+                de: "Signal kehrt zurück",
+                ro: "Semnalul revine",
+              },
+              body: {
+                en: "The signal bends around the shell and waits for an answer.",
+                hu: "A jel a test köré hajlik, és válaszra vár.",
+                de: "Das Signal biegt sich um die Hülle und wartet auf eine Antwort.",
+                ro: "Semnalul se curbează în jurul corpului și așteaptă un răspuns.",
+              },
+              options: [
+                { id: "answer", label: { en: "Answer it", hu: "Válaszolj", de: "Antworten", ro: "Răspunde" } },
+                { id: "seal", label: { en: "Seal it off", hu: "Lezárás", de: "Versiegeln", ro: "Sigilează-l" } },
+              ],
+            },
+            "signal-drift",
+            2,
+            2
+          ),
+          worldPulse: clamp(state.worldPulse + 10),
+          alert: A.signalDrift,
+          journal: pushJournal(state, J.signalDriftJournal),
+        };
+      }
+      if (optionId === "answer") {
+        return {
+          ...state,
+          pendingEvent: null,
+          worldPulse: clamp(state.worldPulse + 6),
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 5),
+            stability: clamp(state.resources.stability - 2),
+          },
+          progression: {
+            ...state.progression,
+            stars: state.progression.stars + 1,
+          },
+          alert: A.phaseEcho,
+          journal: pushJournal(state, J.worldEchoJournal),
+        };
+      }
+      if (optionId === "seal") {
+        return {
+          ...state,
+          pendingEvent: null,
+          worldPulse: clamp(state.worldPulse - 12),
+          entropy: clamp(state.entropy - 3),
+          alert: A.worldPatternShift,
+          journal: pushJournal(state, J.signalMuteJournal),
+        };
+      }
+      return {
+        ...state,
+        pendingEvent: null,
+        worldPulse: clamp(state.worldPulse - 4),
+        alert: A.worldPatternShift,
+        journal: pushJournal(state, J.signalMuteJournal),
+      };
+    },
+  },
+  {
     id: "signalPulse",
     minTick: 12,
     cooldown: 14,
@@ -501,6 +596,60 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         },
         alert: A.shellAligned,
         journal: pushJournal(state, J.steadiedResonance),
+      };
+    },
+  },
+  {
+    id: "phaseEcho",
+    minTick: 40,
+    cooldown: 32,
+    shouldTrigger: (state) =>
+      state.avatarAwake &&
+      state.highStability &&
+      state.lowEntropyStreak >= 5 &&
+      state.worldPhase % 2 === 1,
+    create: () => ({
+      id: "phaseEcho",
+      title: T.phaseEcho.title,
+      body: {
+        en: "A quiet layer of the station begins to answer your presence.",
+        hu: "Az állomás csendes rétege elkezd válaszolni a jelenlétedre.",
+        de: "Eine stille Schicht der Station antwortet auf deine Präsenz.",
+        ro: "Un strat tăcut al stației începe să răspundă prezenței tale."
+      },
+      options: [
+        { id: "listen", label: { en: "Listen", hu: "Figyelj", de: "Lauschen", ro: "Ascultă" } },
+        { id: "anchor", label: { en: "Anchor it", hu: "Horgonyozd le", de: "Verankern", ro: "Ancorează-l" } },
+      ],
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "listen") {
+        return {
+          ...state,
+          pendingEvent: null,
+          worldPulse: clamp(state.worldPulse + 8),
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 4),
+          },
+          progression: {
+            ...state.progression,
+            stars: state.progression.stars + 1,
+          },
+          alert: A.phaseEcho,
+          journal: pushJournal(state, J.phaseEchoJournal),
+        };
+      }
+      return {
+        ...state,
+        pendingEvent: null,
+        worldPulse: clamp(state.worldPulse - 10),
+        resources: {
+          ...state.resources,
+          stability: clamp(state.resources.stability + 4),
+        },
+        alert: A.worldPatternShift,
+        journal: pushJournal(state, J.worldTurnJournal),
       };
     },
   },
@@ -967,6 +1116,10 @@ export function resolveStarholdEvent(state: StarholdState, optionId: string): St
   if (nextState.pendingEvent === null) {
     return {
       ...nextState,
+      lastEventTick: {
+        ...nextState.lastEventTick,
+        [event.id]: state.tick + Math.max(8, event.cooldown),
+      },
       eventQuietTicks: Math.max(nextState.eventQuietTicks ?? 0, 3),
     };
   }
