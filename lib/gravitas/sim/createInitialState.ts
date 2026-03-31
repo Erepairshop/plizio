@@ -11,6 +11,11 @@ export function createInitialStarholdState(): StarholdState {
       stability: 42,
       activation: 0,
     },
+    marks: {
+      reactorScar: 0,
+      shellStrain: 0,
+      supplyStress: 0,
+    },
     modules: createInitialModules(),
     alert: "Station shell offline. Core signature faint but present.",
     journal: [

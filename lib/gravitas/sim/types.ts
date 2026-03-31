@@ -15,9 +15,15 @@ export interface StarholdResources {
   activation: number;
 }
 
+export interface StarholdMarks {
+  reactorScar: number;
+  shellStrain: number;
+  supplyStress: number;
+}
+
 export type StarholdPhase = "boot" | "activation" | "awakened";
 
-export type StarholdEventId = "powerFluctuation" | "materialBottleneck" | "signalPulse";
+export type StarholdEventId = "powerFluctuation" | "materialBottleneck" | "signalPulse" | "driftLock";
 
 export interface StarholdEventOption {
   id: string;
@@ -29,6 +35,9 @@ export interface StarholdPendingEvent {
   title: string;
   body: string;
   options: StarholdEventOption[];
+  chainId?: string;
+  chainStep?: number;
+  chainTotal?: number;
 }
 
 export interface StarholdEventDefinition {
@@ -44,6 +53,7 @@ export interface StarholdState {
   tick: number;
   phase: StarholdPhase;
   resources: StarholdResources;
+  marks: StarholdMarks;
   modules: Record<StarholdModuleId, StarholdModuleState>;
   alert: string | null;
   journal: string[];

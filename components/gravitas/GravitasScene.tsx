@@ -56,8 +56,10 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, a
   }, [state, selectedModule, activeEventId]);
 
   return (
-    <div className="rounded-[28px] border border-cyan-300/15 bg-[#050b16] p-2 shadow-[0_0_60px_rgba(8,145,178,0.1)]">
-      <div ref={hostRef} className="w-full overflow-hidden rounded-[22px]" />
+    <div className="rounded-[28px] border border-cyan-300/15 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.08),transparent_44%),linear-gradient(180deg,rgba(9,15,30,0.94),rgba(4,8,18,0.98))] p-2 shadow-[0_0_60px_rgba(8,145,178,0.1)]">
+      <div className="rounded-[22px] border border-white/5 bg-black/15 p-1">
+        <div ref={hostRef} className="w-full overflow-hidden rounded-[18px]" />
+      </div>
     </div>
   );
 }

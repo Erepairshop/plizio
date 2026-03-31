@@ -1,6 +1,28 @@
 import type { StarholdState } from "./types";
 import { clamp, pushJournal } from "./shared";
 
+export interface ActivationStageInfo {
+  stage: 0 | 1 | 2 | 3 | 4;
+  label: string;
+  progress: number;
+}
+
+export function getActivationStageInfo(activation: number, avatarAwake: boolean): ActivationStageInfo {
+  if (avatarAwake || activation >= 100) {
+    return { stage: 4, label: "Awakened", progress: 100 };
+  }
+  if (activation >= 70) {
+    return { stage: 3, label: "Shell resonance", progress: activation };
+  }
+  if (activation >= 35) {
+    return { stage: 2, label: "Pulse anchored", progress: activation };
+  }
+  if (activation >= 10) {
+    return { stage: 1, label: "Conduit primed", progress: activation };
+  }
+  return { stage: 0, label: "Dormant", progress: activation };
+}
+
 export function unlockActivationTransfer(state: StarholdState): StarholdState {
   return {
     ...state,
@@ -61,4 +83,8 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
       awakened ? "The shell responded. A presence looked back." : "Manual transfer pulse sustained."
     ),
   };
+}
+
+export function canStartActivationTransfer(state: StarholdState) {
+  return state.phase === "boot" && state.resources.power >= 6 && state.resources.stability >= 35 && state.modules.logistics.integrity >= 45;
 }

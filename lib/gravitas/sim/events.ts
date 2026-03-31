@@ -1,6 +1,25 @@
 import type { StarholdEventDefinition, StarholdState } from "./types";
 import { clamp, pushJournal } from "./shared";
 
+function chainedEvent(
+  base: {
+    id: "powerFluctuation" | "materialBottleneck" | "signalPulse";
+    title: string;
+    body: string;
+    options: { id: string; label: string }[];
+  },
+  chainId: string,
+  chainStep: number,
+  chainTotal: number
+) {
+  return {
+    ...base,
+    chainId,
+    chainStep,
+    chainTotal,
+  };
+}
+
 const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   {
     id: "powerFluctuation",
@@ -8,26 +27,96 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     cooldown: 6,
     shouldTrigger: (state) => state.resources.power <= 12 || state.modules.reactor.integrity < 45,
     create: () => ({
-      id: "powerFluctuation",
-      title: "Power fluctuation",
-      body: "A surge is running through the outer shell. You can vent it fast or absorb it carefully.",
-      options: [
-        { id: "vent", label: "Vent the surge" },
-        { id: "absorb", label: "Absorb into reserves" },
-      ],
+      ...chainedEvent(
+        {
+          id: "powerFluctuation",
+          title: "Power fluctuation",
+          body: "A surge is running through the outer shell. You can vent it fast or absorb it carefully.",
+          options: [
+            { id: "vent", label: "Vent the surge" },
+            { id: "absorb", label: "Absorb into reserves" },
+          ],
+        },
+        "reactor-surge",
+        1,
+        2
+      ),
     }),
     resolve: (state, optionId) => {
       if (optionId === "absorb") {
         return {
           ...state,
-          pendingEvent: null,
+          pendingEvent: chainedEvent(
+            {
+              id: "powerFluctuation",
+              title: "Grid overload",
+              body: "The reserve grid is swelling. Lock the excess into the core spine or bleed it through the reactor housing.",
+              options: [
+                { id: "lockCore", label: "Lock into core spine" },
+                { id: "bleedHousing", label: "Bleed through housing" },
+              ],
+            },
+            "reactor-surge",
+            2,
+            2
+          ),
           resources: {
             ...state.resources,
             power: clamp(state.resources.power + 4),
             stability: clamp(state.resources.stability - 2),
           },
-          alert: "The fluctuation was absorbed into the reserve grid.",
+          alert: "The fluctuation was absorbed, but the reserve grid is overloading.",
           journal: pushJournal(state, "You captured the surge, but the station frame trembled."),
+        };
+      }
+
+      if (optionId === "lockCore") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 6),
+            stability: clamp(state.resources.stability - 3),
+          },
+          marks: {
+            ...state.marks,
+            shellStrain: clamp(state.marks.shellStrain + 2),
+          },
+          modules: {
+            ...state.modules,
+            core: {
+              ...state.modules.core,
+              load: clamp(state.modules.core.load + 10),
+            },
+          },
+          alert: "Excess charge locked into the core spine.",
+          journal: pushJournal(state, "The overload was redirected into the core, accelerating activation at a structural cost."),
+        };
+      }
+
+      if (optionId === "bleedHousing") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power - 2),
+            stability: clamp(state.resources.stability + 2),
+          },
+          marks: {
+            ...state.marks,
+            reactorScar: clamp(state.marks.reactorScar + 2),
+          },
+          modules: {
+            ...state.modules,
+            reactor: {
+              ...state.modules.reactor,
+              integrity: clamp(state.modules.reactor.integrity - 4),
+            },
+          },
+          alert: "The overload burned through the outer housing and cleared.",
+          journal: pushJournal(state, "You protected the frame, but the reactor housing took the scar."),
         };
       }
 
@@ -68,6 +157,10 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             materials: clamp(state.resources.materials + 5),
             stability: clamp(state.resources.stability - 4),
           },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress + 3),
+          },
           alert: "Inner plating was stripped for emergency stock.",
           journal: pushJournal(state, "Emergency plating was cut loose to keep systems supplied."),
         };
@@ -76,13 +169,17 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
       return {
         ...state,
         pendingEvent: null,
-        resources: {
-          ...state.resources,
-          materials: clamp(state.resources.materials + 3),
-          power: clamp(state.resources.power - 2),
-        },
-        alert: "Drone sweep returned with limited salvage.",
-        journal: pushJournal(state, "Scavenger drones found material, but burned precious power doing it."),
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials + 3),
+            power: clamp(state.resources.power - 2),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress + 1),
+          },
+          alert: "Drone sweep returned with limited salvage.",
+          journal: pushJournal(state, "Scavenger drones found material, but burned precious power doing it."),
       };
     },
   },
@@ -92,26 +189,82 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     cooldown: 10,
     shouldTrigger: (state) => state.phase === "activation" && state.resources.activation >= 25,
     create: () => ({
-      id: "signalPulse",
-      title: "Signal pulse",
-      body: "Something inside the shell answers. You can synchronize softly or amplify the response.",
-      options: [
-        { id: "synchronize", label: "Synchronize softly" },
-        { id: "amplify", label: "Amplify response" },
-      ],
+      ...chainedEvent(
+        {
+          id: "signalPulse",
+          title: "Signal pulse",
+          body: "Something inside the shell answers. You can synchronize softly or amplify the response.",
+          options: [
+            { id: "synchronize", label: "Synchronize softly" },
+            { id: "amplify", label: "Amplify response" },
+          ],
+        },
+        "shell-echo",
+        1,
+        2
+      ),
     }),
     resolve: (state, optionId) => {
       if (optionId === "amplify") {
         return {
           ...state,
-          pendingEvent: null,
+          pendingEvent: chainedEvent(
+            {
+              id: "signalPulse",
+              title: "Echo fracture",
+              body: "The shell pushes back with a fragmented echo. Hold resonance steady or break contact and regroup.",
+              options: [
+                { id: "holdResonance", label: "Hold resonance" },
+                { id: "breakContact", label: "Break contact" },
+              ],
+            },
+            "shell-echo",
+            2,
+            2
+          ),
           resources: {
             ...state.resources,
             activation: clamp(state.resources.activation + 8),
             stability: clamp(state.resources.stability - 3),
           },
-          alert: "The shell answered with a stronger pulse.",
+          alert: "The shell answered harder than expected.",
           journal: pushJournal(state, "You forced a stronger echo from the shell at a structural cost."),
+        };
+      }
+
+      if (optionId === "holdResonance") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 10),
+            stability: clamp(state.resources.stability - 2),
+          },
+          marks: {
+            ...state.marks,
+            shellStrain: clamp(state.marks.shellStrain + 1),
+          },
+          alert: "The fractured echo was held in resonance.",
+          journal: pushJournal(state, "You kept the shell aligned through the fracture and gained a deeper response."),
+        };
+      }
+
+      if (optionId === "breakContact") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 2),
+            stability: clamp(state.resources.stability + 2),
+          },
+          marks: {
+            ...state.marks,
+            shellStrain: clamp(state.marks.shellStrain - 1),
+          },
+          alert: "Contact was broken before the shell destabilized further.",
+          journal: pushJournal(state, "You cut the resonance and preserved the station at the cost of momentum."),
         };
       }
 
@@ -125,6 +278,61 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         },
         alert: "The shell pulse aligned cleanly.",
         journal: pushJournal(state, "A careful synchronization steadied the shell resonance."),
+      };
+    },
+  },
+  {
+    id: "driftLock",
+    minTick: 12,
+    cooldown: 14,
+    shouldTrigger: (state) =>
+      state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress >= 7 &&
+      state.phase !== "boot",
+    create: () => ({
+      id: "driftLock",
+      title: "Drift lock warning",
+      body: "Too many scars are pulling the station toward a repeating pattern. Break the loop now or let the system fold inward.",
+      options: [
+        { id: "breakLoop", label: "Break the loop" },
+        { id: "foldInward", label: "Let it fold inward" },
+      ],
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "foldInward") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 6),
+            stability: clamp(state.resources.stability - 5),
+          },
+          marks: {
+            reactorScar: clamp(state.marks.reactorScar + 1),
+            shellStrain: clamp(state.marks.shellStrain + 2),
+            supplyStress: clamp(state.marks.supplyStress + 1),
+          },
+          alert: "The station folded inward and the pattern deepened.",
+          journal: pushJournal(state, "You let the repeating pattern close around the station. It answered, but not cleanly."),
+        };
+      }
+
+      return {
+        ...state,
+        pendingEvent: null,
+        resources: {
+          ...state.resources,
+          power: clamp(state.resources.power - 4),
+          materials: clamp(state.resources.materials - 3),
+          stability: clamp(state.resources.stability + 2),
+        },
+        marks: {
+          reactorScar: clamp(state.marks.reactorScar - 1),
+          shellStrain: clamp(state.marks.shellStrain - 2),
+          supplyStress: clamp(state.marks.supplyStress - 1),
+        },
+        alert: "The repeating pattern was broken before it sealed.",
+        journal: pushJournal(state, "You burned resources to break the drift before it hardened into a loop."),
       };
     },
   },

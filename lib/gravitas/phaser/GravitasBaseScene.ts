@@ -17,6 +17,7 @@ export class GravitasBaseScene extends Phaser.Scene {
   private root!: Phaser.GameObjects.Container;
   private ringGfx!: Phaser.GameObjects.Graphics;
   private linkGfx!: Phaser.GameObjects.Graphics;
+  private hudGfx!: Phaser.GameObjects.Graphics;
   private moduleNodes = new Map<
     StarholdModuleId,
     {
@@ -28,9 +29,12 @@ export class GravitasBaseScene extends Phaser.Scene {
   >();
   private coreGlow!: Phaser.GameObjects.Arc;
   private coreShell!: Phaser.GameObjects.Arc;
+  private orbitSpark!: Phaser.GameObjects.Arc;
   private phaseText!: Phaser.GameObjects.Text;
   private resourceText!: Phaser.GameObjects.Text;
   private eventText!: Phaser.GameObjects.Text;
+  private twinkleStars: { node: Phaser.GameObjects.Arc; phase: number; speed: number; scale: number }[] = [];
+  private animTime = 0;
 
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
@@ -57,17 +61,35 @@ export class GravitasBaseScene extends Phaser.Scene {
       );
     }
 
+    for (let i = 0; i < 12; i += 1) {
+      const star = this.add.circle(
+        Phaser.Math.Between(40, width - 40),
+        Phaser.Math.Between(40, height - 40),
+        Phaser.Math.Between(1, 2),
+        Phaser.Math.Between(0x7dd3fc, 0xc4b5fd),
+        0.16
+      );
+      this.twinkleStars.push({
+        node: star,
+        phase: Math.random() * Math.PI * 2,
+        speed: 0.6 + Math.random() * 0.9,
+        scale: 0.7 + Math.random() * 0.7,
+      });
+    }
+
     this.root = this.add.container(0, 0);
     this.ringGfx = this.add.graphics();
     this.linkGfx = this.add.graphics();
-    this.root.add([this.ringGfx, this.linkGfx]);
+    this.hudGfx = this.add.graphics();
+    this.root.add([this.ringGfx, this.linkGfx, this.hudGfx]);
 
     const centerX = 420;
     const centerY = 255;
 
     this.coreGlow = this.add.circle(centerX, centerY, 72, 0x23d3ee, 0.12);
     this.coreShell = this.add.circle(centerX, centerY, 42, 0xf8fafc, 0.14);
-    this.root.add([this.coreGlow, this.coreShell]);
+    this.orbitSpark = this.add.circle(centerX + 120, centerY - 12, 5, 0xf472b6, 0.85);
+    this.root.add([this.coreGlow, this.coreShell, this.orbitSpark]);
 
     for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
       const glow = this.add.circle(pos.x, pos.y, 26, 0x4b5563, 0.18);
@@ -115,6 +137,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     }).setOrigin(1, 0);
 
     this.drawStaticFrame();
+    this.drawHudPanels(width, height);
   }
 
   syncState(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null) {
@@ -153,12 +176,54 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.eventText.setText(activeEventId ? `ALERT ${activeEventId.toUpperCase()}` : "");
   }
 
+  update(_time: number, delta: number) {
+    this.animTime += delta / 1000;
+
+    const swayX = Math.sin(this.animTime * 0.24) * 2.2;
+    const swayY = Math.cos(this.animTime * 0.18) * 1.4;
+    this.root.setPosition(swayX, swayY);
+
+    const pulse = 1 + Math.sin(this.animTime * 1.8) * 0.025;
+    const shellPulse = 1 + Math.cos(this.animTime * 1.4) * 0.018;
+    this.coreGlow.setScale(pulse, pulse);
+    this.coreShell.setScale(shellPulse, shellPulse);
+
+    const orbitRadius = 124;
+    this.orbitSpark.setPosition(
+      420 + Math.cos(this.animTime * 0.75) * orbitRadius,
+      255 + Math.sin(this.animTime * 0.75) * 30
+    );
+    this.orbitSpark.setAlpha(0.6 + Math.sin(this.animTime * 2.2) * 0.2);
+
+    for (const star of this.twinkleStars) {
+      const twinkle = 0.06 + Math.sin(this.animTime * star.speed + star.phase) * 0.08;
+      star.node.setAlpha(Phaser.Math.Clamp(0.08 + twinkle, 0.05, 0.26));
+      star.node.setScale(star.scale + Math.sin(this.animTime * (star.speed + 0.4) + star.phase) * 0.05);
+    }
+
+    this.eventText.setAlpha(0.7 + Math.sin(this.animTime * 3.2) * 0.18);
+    this.phaseText.setAlpha(0.9 + Math.sin(this.animTime * 1.3) * 0.05);
+  }
+
   private drawStaticFrame() {
     const frame = this.add.graphics();
     frame.lineStyle(1, 0x2b4664, 0.7);
     frame.strokeRoundedRect(10, 10, 820, 490, 26);
     frame.lineStyle(1, 0x18314b, 0.65);
     frame.strokeRoundedRect(22, 22, 796, 466, 22);
+  }
+
+  private drawHudPanels(width: number, height: number) {
+    this.hudGfx.clear();
+    this.hudGfx.fillStyle(0x020814, 0.52);
+    this.hudGfx.fillRoundedRect(16, 10, 246, 42, 16);
+    this.hudGfx.fillRoundedRect(width - 274, 10, 258, 42, 16);
+    this.hudGfx.fillStyle(0x020814, 0.45);
+    this.hudGfx.fillRoundedRect(16, height - 64, 438, 46, 16);
+    this.hudGfx.lineStyle(1, 0x345679, 0.35);
+    this.hudGfx.strokeRoundedRect(16, 10, 246, 42, 16);
+    this.hudGfx.strokeRoundedRect(width - 274, 10, 258, 42, 16);
+    this.hudGfx.strokeRoundedRect(16, height - 64, 438, 46, 16);
   }
 
   private drawRings() {
