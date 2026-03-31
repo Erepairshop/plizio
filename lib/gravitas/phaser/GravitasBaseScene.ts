@@ -141,6 +141,7 @@ export class GravitasBaseScene extends Phaser.Scene {
   }
 
   syncState(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null) {
+    if (!this.ringGfx) return;
     this.drawRings();
     this.drawLinks(state, selectedModule, activeEventId);
 
