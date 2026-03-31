@@ -25,6 +25,14 @@ export function createInitialStarholdState(): StarholdState {
     journal: [...GRAVITAS_TEXT.journal.initialJournal],
     avatarAwake: false,
     resonance: 0,
+    threat: {
+      type: "distortionWave",
+      countdown: 15,
+      totalDuration: 15,
+      intensity: 1,
+      fortified: false,
+      dampened: false,
+    },
     lastEventTick: {},
     pendingEvent: null,
   };
