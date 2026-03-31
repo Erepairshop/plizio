@@ -153,6 +153,8 @@ export default function GravitasShop({ state, lang, ui, onClose, onBuy, onClaim 
                 </div>
               );
             })}
+              </div>
+            </div>
           </div>
         </div>
 

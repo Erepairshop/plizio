@@ -1,4 +1,4 @@
-import type { StarholdModuleId, StarholdState } from "./types";
+import type { StarholdModuleId, StarholdState, LocalizedString } from "./types";
 import { applyStarholdEvents } from "./events";
 import { clamp } from "./shared";
 import { GRAVITAS_TEXT } from "./content";

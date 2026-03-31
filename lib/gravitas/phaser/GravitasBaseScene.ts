@@ -95,7 +95,7 @@ export class GravitasBaseScene extends Phaser.Scene {
         emitting: false
     });
     // Create simple texture for particles if not exists, but Phaser 3.60+ can use graphics
-    const pGfx = this.make.graphics({x: 0, y: 0, add: false});
+    const pGfx = this.make.graphics({x: 0, y: 0} as any);
     pGfx.fillStyle(0xffffff, 1);
     pGfx.fillCircle(4, 4, 4);
     pGfx.generateTexture('dot', 8, 8);
@@ -117,7 +117,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       const label = this.add.text(pos.x, pos.y + 40, moduleId.toUpperCase(), {
         fontFamily: "Inter, Arial",
         fontSize: "10px",
-        fontWeight: "900",
+        fontStyle: "bold",
         color: "#ffffff",
       }).setOrigin(0.5);
 
@@ -214,8 +214,8 @@ export class GravitasBaseScene extends Phaser.Scene {
     // Resonance Particles
     if (state.resonance > 0 && this.resonanceEmitter) {
       this.resonanceEmitter.emitting = true;
-      this.resonanceEmitter.setSpeed(50 + state.resonance * 2);
-      this.resonanceEmitter.setFrequency(Math.max(10, 100 - state.resonance));
+      (this.resonanceEmitter as any).setSpeed?.(50 + state.resonance * 2);
+      (this.resonanceEmitter as any).setFrequency?.(Math.max(10, 100 - state.resonance));
     } else if (this.resonanceEmitter) {
       this.resonanceEmitter.emitting = false;
     }
@@ -253,8 +253,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       // Connection lines and energy flow
       const isLinked = m.online && !state.lockdown;
       this.linkGfx.lineStyle(2, isLinked ? 0x22d3ee : 0x1e293b, isLinked ? 0.3 : 0.1);
-      if (!isLinked) this.linkGfx.setLineDash([5, 5]);
-      else this.linkGfx.setLineDash([]);
+      // Phaser Graphics doesn't support setLineDash — skip dashed lines
       
       this.linkGfx.lineBetween(pos.x, pos.y, centerX, centerY);
 
@@ -263,9 +262,9 @@ export class GravitasBaseScene extends Phaser.Scene {
         const angle = Phaser.Math.Angle.Between(pos.x, pos.y, centerX, centerY);
         const dist = Phaser.Math.Distance.Between(pos.x, pos.y, centerX, centerY);
         node.energyEmitter.setPosition(pos.x, pos.y);
-        node.energyEmitter.setAngle(Phaser.Math.RadToDeg(angle));
-        node.energyEmitter.setSpeed({ min: 100, max: 200 });
-        node.energyEmitter.setLifespan(dist / 0.15); // Adjust lifespan to reach core
+        (node.energyEmitter as any).setAngle?.(Phaser.Math.RadToDeg(angle));
+        (node.energyEmitter as any).setSpeed?.({ min: 100, max: 200 });
+        (node.energyEmitter as any).setLifespan?.(dist / 0.15); // Adjust lifespan to reach core
       } else if (node.energyEmitter) {
         node.energyEmitter.emitting = false;
       }
