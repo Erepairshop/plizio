@@ -102,6 +102,10 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
         load: clamp(state.modules.core.load + Math.ceil(amount / 2)),
       },
     },
+    progression: {
+      ...state.progression,
+      stars: state.progression.stars + (awakened ? 5 : 0),
+    },
     alert,
     journal: awakened
       ? pushJournal(state, A.awakenedJournal)
