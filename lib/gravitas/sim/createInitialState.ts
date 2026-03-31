@@ -48,5 +48,6 @@ export function createInitialStarholdState(): StarholdState {
     crisis: false,
     highStability: false,
     lockdown: false,
+    recoveryPriority: null,
   };
 }

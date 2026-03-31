@@ -43,6 +43,8 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
     }
 
     const alert = nextAftershock === 0 ? GRAVITAS_TEXT.threats.aftershockCleared : state.alert;
+    // Clear recoveryPriority when aftershock fully ends
+    const recoveryPriority = nextAftershock === 0 ? null : state.recoveryPriority;
 
     return {
       nextState: {
@@ -56,6 +58,7 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
         entropy: clamp(state.entropy + (nextAftershock > 0 ? entropyGain : 0)),
         threat: nextThreat,
         alert,
+        recoveryPriority,
       },
       impacted: false,
     };
@@ -106,6 +109,9 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
       nextStability = clamp(nextStability - finalDmg);
       nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, (threat.fortified ? 1 : 5) - mods.shellStrainReduction));
+      // Aftermath: structural + psychic damage
+      nextMarks.shellStrain = clamp(nextMarks.shellStrain + 3);
+      nextMarks.voidEcho = clamp(nextMarks.voidEcho + 2);
 
       if (!threat.fortified) {
         aftershockDuration = 6;
@@ -127,6 +133,9 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
       nextPower = clamp(nextPower - finalDmg);
       nextMarks.voidEcho = clamp(nextMarks.voidEcho + (threat.dampened ? 1 : 6));
+      // Aftermath: void + power system damage
+      nextMarks.voidEcho = clamp(nextMarks.voidEcho + 4);
+      nextMarks.reactorScar = clamp(nextMarks.reactorScar + 2);
 
       if (!threat.dampened) {
         aftershockDuration = 5;
@@ -169,12 +178,34 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
           };
         });
         nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 5 - mods.shellStrainReduction));
+        // Aftermath: supply line + hull damage
+        nextMarks.supplyStress = clamp(nextMarks.supplyStress + 3);
+        nextMarks.shellStrain = clamp(nextMarks.shellStrain + 2);
         impactJournal = T.meteorShowerImpact;
         aftershockDuration = 4;
       }
       break;
     }
   }
+
+  // Determine recovery priority: find the most damaged module
+  let worstId: StarholdModuleId = "reactor";
+  let worstIntegrity = 100;
+  for (const id of ["reactor", "logistics", "core", "sensor"] as const) {
+    if (nextModules[id].integrity < worstIntegrity) {
+      worstIntegrity = nextModules[id].integrity;
+      worstId = id;
+    }
+  }
+  const recoveryPriority = worstIntegrity < 50 ? {
+    moduleId: worstId,
+    reason: {
+      en: `${nextModules[worstId].name.en} critical — repair first`,
+      hu: `${nextModules[worstId].name.hu} kritikus — először javítsd`,
+      de: `${nextModules[worstId].name.de} kritisch — zuerst reparieren`,
+      ro: `${nextModules[worstId].name.ro} critic — repară primul`,
+    }
+  } : null;
 
   const nextType = (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
   const nextDuration = 22 + Math.floor(Math.random() * 15);
@@ -207,6 +238,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       stars: state.progression.stars + starReward,
       lastStarGain: starReward,
     },
+    recoveryPriority,
     alert: impactJournal,
     journal: pushJournal(state, impactJournal),
   };
