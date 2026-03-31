@@ -109,7 +109,7 @@ export interface StarholdState {
   progression: StarholdProgression;
   modules: Record<StarholdModuleId, StarholdModuleState>;
   alert: LocalizedString | null;
-  journal: LocalizedString[];
+  journal: { tick: number; text: LocalizedString }[];
   avatarAwake: boolean;
   resonance: number; // Current energy resonance/heat during transfer
   lastEventTick: Partial<Record<StarholdEventId, number>>;

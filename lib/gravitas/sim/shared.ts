@@ -8,8 +8,8 @@ export function withAlert(state: StarholdState, alert: LocalizedString | null): 
   return { ...state, alert };
 }
 
-export function pushJournal(state: StarholdState, line: LocalizedString): LocalizedString[] {
-  return [line, ...state.journal].slice(0, 6);
+export function pushJournal(state: StarholdState, line: LocalizedString): { tick: number; text: LocalizedString }[] {
+  return [{ tick: state.tick, text: line }, ...state.journal].slice(0, 20);
 }
 
 export function pushSystemJournal(state: StarholdState, line: LocalizedString): Pick<StarholdState, "journal"> {

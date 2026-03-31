@@ -8,7 +8,7 @@ export function saveGravitasState(state: StarholdState): void {
   try {
     const toSave: StarholdState = {
       ...state,
-      journal: state.journal.slice(-MAX_JOURNAL_ENTRIES),
+      journal: state.journal.slice(0, MAX_JOURNAL_ENTRIES),
     };
     localStorage.setItem(SAVE_KEY, JSON.stringify(toSave));
   } catch {
