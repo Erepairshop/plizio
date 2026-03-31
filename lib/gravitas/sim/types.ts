@@ -111,6 +111,8 @@ export interface StarholdState {
   resonance: number; // Current energy resonance/heat during transfer
   lastEventTick: Partial<Record<StarholdEventId, number>>;
   pendingEvent: StarholdPendingEvent | null;
+  crisis: boolean;
+  highStability: boolean;
 }
 
 export type StarholdCommand =

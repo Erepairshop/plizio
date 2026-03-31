@@ -43,5 +43,7 @@ export function createInitialStarholdState(): StarholdState {
     resonance: 0,
     lastEventTick: {},
     pendingEvent: null,
+    crisis: false,
+    highStability: false,
   };
 }

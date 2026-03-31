@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useReducer, useRef, useState } from "react";
 import Link from "next/link";
-import { ChevronLeft, Power, Wrench, Radar, Cpu, Star } from "lucide-react";
+import { ChevronLeft, Power, Wrench, Radar, Cpu, Star, AlertTriangle, Activity } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
 import GravitasScene from "@/components/gravitas/GravitasScene";
@@ -73,6 +73,20 @@ export default function GravitasPage() {
     if (state.phase === "activation") return localize(ui.phaseActivation);
     return localize(ui.phaseAwakened);
   }, [state.phase, lang, ui]);
+  const crisisHint = lang === "hu"
+    ? "A rendszerek omlanak. Stabilizáld az állomást, mielőtt a test megsérül."
+    : lang === "de"
+      ? "Die Systeme brechen zusammen. Stabilisiere die Station, bevor die Hülle versagt."
+      : lang === "ro"
+        ? "Sistemele cedează. Stabilizează stația înainte ca învelișul să se rupă."
+        : "Systems are collapsing. Stabilize the station before the shell fails.";
+  const optimalHint = lang === "hu"
+    ? "A rendszeráramlás tiszta. Ez a legbiztonságosabb ablak az előrelépéshez."
+    : lang === "de"
+      ? "Der Stationsfluss ist sauber. Das ist das sicherste Zeitfenster für den nächsten Schritt."
+      : lang === "ro"
+        ? "Fluxul stației este curat. Acesta este cel mai sigur moment pentru a avansa."
+        : "Station flow is clean. This is the safest window to push forward.";
 
   const canReroute = canStartActivationTransfer(state);
 
@@ -104,7 +118,7 @@ export default function GravitasPage() {
   );
 
   return (
-    <main className="min-h-screen bg-[#050816] text-white px-4 py-5 sm:px-6 sm:py-6">
+    <main className={`min-h-screen text-white px-4 py-5 sm:px-6 sm:py-6 transition-colors duration-700 ${state.crisis ? "bg-[#17050c]" : "bg-[#050816]"}`}>
       {shopOpen && (
         <GravitasShop
           state={state}
@@ -127,19 +141,31 @@ export default function GravitasPage() {
               <Star size={14} fill="currentColor" />
               <span className="text-xs font-black">{state.progression.stars}</span>
             </button>
-            <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{phaseLabel}</div>
+            <div className={`text-xs uppercase tracking-[0.35em] font-black ${state.highStability ? "text-emerald-400" : "text-cyan-300"}`}>{phaseLabel}</div>
           </div>
         </div>
 
         <div className="grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
-          <section className="rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-5 sm:p-6 shadow-2xl">
+          <section className={`rounded-[28px] border backdrop-blur-xl p-5 sm:p-6 shadow-2xl transition-colors duration-700 ${state.crisis ? "border-rose-500/25 bg-[radial-gradient(circle_at_top,rgba(244,63,94,0.12),transparent_40%),rgba(255,255,255,0.04)]" : "border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)]"}`}>
             <div className="flex flex-wrap items-start justify-between gap-4">
               <div>
-                <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{localize(ui.title)}</div>
+                <div className="flex items-center gap-2">
+                  <div className={`text-xs uppercase tracking-[0.35em] font-black ${state.crisis ? "text-rose-400" : "text-cyan-300"}`}>{localize(ui.title)}</div>
+                  {state.crisis && (
+                    <div className="flex items-center gap-1 rounded-full bg-rose-500/15 px-2 py-0.5 text-[10px] font-black text-rose-300">
+                      <AlertTriangle size={10} /> CRISIS
+                    </div>
+                  )}
+                  {state.highStability && (
+                    <div className="flex items-center gap-1 rounded-full bg-emerald-500/15 px-2 py-0.5 text-[10px] font-black text-emerald-300">
+                      <Activity size={10} /> OPTIMAL
+                    </div>
+                  )}
+                </div>
                 <h1 className="mt-3 text-3xl sm:text-5xl font-black">{localize(ui.subtitle)}</h1>
               </div>
-              <div className="w-28 h-28 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
-                <div className={`w-16 h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
+              <div className={`w-28 h-28 rounded-full border flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)] transition-colors duration-700 ${state.crisis ? "border-rose-400/30 bg-rose-500/10" : "border-cyan-300/30 bg-cyan-400/10"}`}>
+                <div className={`w-16 h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : state.crisis ? "bg-rose-300/30" : "bg-white/15"}`} />
               </div>
             </div>
 
@@ -150,6 +176,12 @@ export default function GravitasPage() {
                 stability={state.resources.stability}
                 activation={state.resources.activation}
                 entropy={state.entropy}
+                urgent={{
+                  power: state.resources.power <= 10,
+                  materials: state.resources.materials <= 6,
+                  stability: state.resources.stability <= 25,
+                  entropy: state.entropy >= 70,
+                }}
                 labels={{
                   power: localize(ui.pwr),
                   materials: localize(ui.mat),
@@ -217,11 +249,17 @@ export default function GravitasPage() {
             </div>
 
             <div className="mt-6 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-black/20 p-4">
+              <div className={`rounded-2xl border p-4 transition-colors ${state.crisis ? "border-rose-500/20 bg-rose-500/[0.05]" : "border-white/10 bg-black/20"}`}>
                 <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{localize(ui.objective)}</div>
                 <p className="mt-3 text-white/75 leading-relaxed">{localize(ui.objectiveText)}</p>
                 {state.avatarAwake && (
                   <p className="mt-4 text-pink-200 font-semibold">{localize(ui.awakened)}</p>
+                )}
+                {!state.avatarAwake && state.crisis && (
+                  <p className="mt-4 text-rose-200 font-semibold">{crisisHint}</p>
+                )}
+                {!state.avatarAwake && state.highStability && (
+                  <p className="mt-4 text-emerald-200 font-semibold">{optimalHint}</p>
                 )}
               </div>
               <GravitasActivation

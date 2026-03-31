@@ -11,6 +11,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const logisticsDrain = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
   const sensorStability = state.modules.sensor.online ? 1 : 0;
   const phaseDrain = state.phase === "activation" ? 1 : 0;
+  const isCrisis = state.resources.power < 10 && state.resources.stability < 30;
+  const isHighStability = state.resources.stability > 85;
 
   // Anomalies impact
   let anomalyPowerDrain = 0;
@@ -34,27 +36,41 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Entropy effect (soft trap)
   const entropyStabilityDrain = Math.floor(state.entropy / 15);
   const entropyPowerDrain = Math.floor(state.entropy / 20);
+  const stabilityBuffer = isHighStability ? 2 : 0;
 
-  const nextPower = clamp(state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain);
+  const nextPower = clamp(
+    state.resources.power +
+      reactorBoost -
+      logisticsDrain -
+      phaseDrain -
+      scarDrain -
+      resonancePowerDrain -
+      entropyPowerDrain -
+      anomalyPowerDrain +
+      (isHighStability ? 1 : 0)
+  );
   const nextStability = clamp(
     state.resources.stability +
-      sensorStability -
+      sensorStability +
+      stabilityBuffer -
       (state.modules.reactor.integrity < 40 ? 1 : 0) -
       (state.modules.core.load > 75 ? 1 : 0) -
       shellDrain -
       voidDrain -
       anomalyStabilityDrain -
       entropyStabilityDrain -
-      driftInstability
+      driftInstability -
+      (isCrisis ? 2 : 0)
   );
 
   let nextModules = { ...state.modules };
   let alert = state.alert;
 
-  // Glitch logic
-  if (totalMarks > 10 && state.tick % 5 === 0) {
+  // Glitch logic speeds up in crisis conditions.
+  const glitchThreshold = isCrisis ? 8 : 10;
+  if (totalMarks > glitchThreshold && state.tick % (isCrisis ? 3 : 5) === 0) {
     const affectedModuleId = (["reactor", "logistics", "core", "sensor"] as const)[state.tick % 4];
-    const damage = 2 + Math.floor(totalMarks / 5);
+    const damage = (isCrisis ? 4 : 2) + Math.floor(totalMarks / 5);
     nextModules[affectedModuleId] = {
       ...nextModules[affectedModuleId],
       integrity: clamp(nextModules[affectedModuleId].integrity - damage),
@@ -79,10 +95,10 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   // Entropy logic
   let nextEntropy = state.entropy;
-  if (totalMarks > 12) {
-    nextEntropy = clamp(nextEntropy + Math.floor(totalMarks / 6));
-  } else if (totalMarks < 5) {
-    nextEntropy = clamp(nextEntropy - 1);
+  if (totalMarks > 12 || isCrisis) {
+    nextEntropy = clamp(nextEntropy + Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0));
+  } else if (totalMarks < 5 || isHighStability) {
+    nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
   }
 
   const nextState = {
@@ -104,6 +120,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     anomalies: nextAnomalies,
     entropy: nextEntropy,
     alert: nextAlert,
+    crisis: isCrisis,
+    highStability: isHighStability,
   };
 
   const withResonance = coolDownResonance(nextState);
