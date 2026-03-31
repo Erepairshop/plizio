@@ -29,11 +29,9 @@ export default function GravitasActivation({ state, t, onBeginTransfer, onStopTr
     () => getActivationStageInfo(activationPercent, state.avatarAwake),
     [activationPercent, state.avatarAwake]
   );
+const transferStage = activationStageInfo.stage;
 
-  const transferStage = activationStageInfo.stage;
-
-  const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
-
+const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
   // We still want the ladder labels for the small boxes
   const ladder = [
     getActivationStageInfo(15, false).label,

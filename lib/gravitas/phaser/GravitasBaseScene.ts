@@ -18,6 +18,8 @@ export class GravitasBaseScene extends Phaser.Scene {
   private ringGfx!: Phaser.GameObjects.Graphics;
   private linkGfx!: Phaser.GameObjects.Graphics;
   private hudGfx!: Phaser.GameObjects.Graphics;
+  private warningGfx!: Phaser.GameObjects.Graphics;
+  private scarsGfx!: Phaser.GameObjects.Graphics;
   private moduleNodes = new Map<
     StarholdModuleId,
     {
@@ -42,6 +44,8 @@ export class GravitasBaseScene extends Phaser.Scene {
   private lastThreatAftershock = 0;
   private lastThreatType: string = "";
   private lastThreatFlags = { fortified: false, dampened: false, intercepted: false };
+  private isCrisis = false;
+  private wasAwake = false;
 
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
@@ -88,7 +92,9 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.ringGfx = this.add.graphics();
     this.linkGfx = this.add.graphics();
     this.hudGfx = this.add.graphics();
-    this.root.add([this.ringGfx, this.linkGfx, this.hudGfx]);
+    this.warningGfx = this.add.graphics();
+    this.scarsGfx = this.add.graphics();
+    this.root.add([this.ringGfx, this.linkGfx, this.hudGfx, this.warningGfx, this.scarsGfx]);
 
     const centerX = 420;
     const centerY = 255;
@@ -161,17 +167,41 @@ export class GravitasBaseScene extends Phaser.Scene {
       dampened: state.threat.dampened,
       intercepted: state.threat.intercepted
     };
-    this.drawRings();
-    this.drawLinks(state, selectedModule, activeEventId, state.resonance);
+    this.isCrisis = state.crisis;
+    this.lastEntropy = state.entropy;
 
     const awake = state.avatarAwake;
+    if (awake && !this.wasAwake) {
+      // Awakening CLIMAX!
+      this.cameras.main.flash(800, 255, 255, 255);
+      this.cameras.main.shake(1000, 0.02);
+    }
+    this.wasAwake = awake;
+
+    this.drawRings();
+    this.drawLinks(state, selectedModule, activeEventId, state.resonance);
+    this.drawScars(state);
+
     const voidIntensity = state.marks.voidEcho > 8 ? 1.0 : state.marks.voidEcho / 10;
     const resonanceFactor = state.resonance / 100;
-    const coreAccent = activeEventId === "signalPulse" ? 0xf472b6 : state.marks.voidEcho > 5 ? 0x818cf8 : 0x23d3ee;
+
+    // Shop items visual overrides
+    const hasCyanGlow = state.progression.unlockedItems.includes("cyan_glow");
+
+    let coreAccent = activeEventId === "signalPulse" ? 0xf472b6 : state.marks.voidEcho > 5 ? 0x818cf8 : 0x23d3ee;
+    if (hasCyanGlow && activeEventId !== "signalPulse" && state.marks.voidEcho <= 5) {
+      coreAccent = 0x06b6d4; // Deep Cyan
+    }
 
     this.coreGlow.setRadius(awake ? 90 : activeEventId === "signalPulse" ? 84 : 72 + state.marks.voidEcho + (state.resonance * 0.4));
     this.coreGlow.setFillStyle(awake ? 0xf472b6 : coreAccent, awake ? 0.2 : activeEventId === "signalPulse" ? 0.18 : 0.12 + (voidIntensity * 0.1) + (resonanceFactor * 0.2));
-    this.coreShell.setFillStyle(awake ? 0xf472b6 : state.marks.voidEcho > 8 ? 0xeef2ff : 0xf8fafc, awake ? 0.55 : 0.14 + (resonanceFactor * 0.1));
+
+    let shellColor = state.marks.voidEcho > 8 ? 0xeef2ff : 0xf8fafc;
+    if (hasCyanGlow && state.marks.voidEcho <= 8) {
+      shellColor = 0xcffafe; // Cyan tinted white
+    }
+
+    this.coreShell.setFillStyle(awake ? 0xf472b6 : shellColor, awake ? 0.55 : 0.14 + (resonanceFactor * 0.1));
     for (const [moduleId, node] of this.moduleNodes) {
       const module = state.modules[moduleId];
       const isSelected = selectedModule === moduleId;
@@ -205,15 +235,16 @@ export class GravitasBaseScene extends Phaser.Scene {
         const pos = MODULE_POSITIONS[moduleId];
         node.anomalyGfx.strokeCircle(pos.x, pos.y, 42);
         // Draw glitch lines
-        for(let i=0; i<3; i++) {
+        const glitchCount = 3 + (this.lastThreatAftershock > 0 ? 3 : 0);
+        for(let i=0; i<glitchCount; i++) {
            const angle = Math.random() * Math.PI * 2;
            const r = 38 + Math.random() * 8;
            node.anomalyGfx.lineStyle(1, 0xf87171, 0.5);
            node.anomalyGfx.lineBetween(
              pos.x + Math.cos(angle) * r,
              pos.y + Math.sin(angle) * r,
-             pos.x + Math.cos(angle) * (r+10),
-             pos.y + Math.sin(angle) * (r+10)
+             pos.x + Math.cos(angle) * (r+10 + Math.random() * 5),
+             pos.y + Math.sin(angle) * (r+10 + Math.random() * 5)
            );
         }
       }
@@ -232,13 +263,25 @@ export class GravitasBaseScene extends Phaser.Scene {
     const entropyFactor = this.lastEntropy / 100 || 0;
     const entropyFlicker = Math.random() < (entropyFactor * 0.15) ? 0.4 : 1.0;
 
+    // Warning flash for Crisis
+    this.warningGfx.clear();
+    if (this.isCrisis) {
+      const alpha = 0.05 + Math.sin(this.animTime * 3) * 0.05;
+      this.warningGfx.fillStyle(0xf43f5e, alpha);
+      this.warningGfx.fillRect(0, 0, 840, 510);
+    }
+
     // Shake based on resonance + entropy + threat imminent
     const resonanceShake = this.lastResonance > 75
        ? (Math.random() - 0.5) * ((this.lastResonance - 75) / 5)
        : 0;
     const entropyShake = entropyFactor > 0.6
-       ? (Math.random() - 0.5) * (entropyFactor * 4)
+       ? (Math.random() - 0.5) * (entropyFactor * (this.lastEntropy > 85 ? 12 : 4))
        : 0;
+
+    // Add aggressive flicker for critical entropy
+    const critEntropyFlicker = this.lastEntropy > 90 && Math.random() < 0.1 ? 0.2 : 1.0;
+
     const threatShake = this.lastThreatCountdown <= 3 && this.lastThreatCountdown > 0
        ? (Math.random() - 0.5) * (6 - this.lastThreatCountdown)
        : 0;
@@ -249,7 +292,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     const swayX = Math.sin(this.animTime * 0.24) * 2.2 + resonanceShake + entropyShake + threatShake + aftershockShake;
     const swayY = Math.cos(this.animTime * 0.18) * 1.4 + resonanceShake + entropyShake + threatShake + aftershockShake;
     this.root.setPosition(swayX, swayY);
-    this.root.setAlpha(entropyFlicker);
+    this.root.setAlpha(entropyFlicker * critEntropyFlicker);
 
     const pulse = 1 + Math.sin(this.animTime * 1.8) * 0.025;
     const shellPulse = 1 + Math.cos(this.animTime * 1.4) * 0.018;
@@ -364,6 +407,33 @@ export class GravitasBaseScene extends Phaser.Scene {
         const py = pos.y + (255 - pos.y) * t;
         this.linkGfx.fillStyle(0xffffff, 0.6 + (resonance / 200));
         this.linkGfx.fillCircle(px, py, 2 + (resonance / 30));
+      }
+    }
+  }
+
+  private drawScars(state: StarholdState) {
+    this.scarsGfx.clear();
+    for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
+      const module = state.modules[moduleId];
+      if (module.integrity < 70) {
+        const severity = (70 - module.integrity) / 70;
+        const sparkCount = Math.floor(severity * 5) + 1;
+
+        for (let i = 0; i < sparkCount; i++) {
+          const angle = Math.random() * Math.PI * 2;
+          const dist = 28 + Math.random() * 12;
+          const sx = pos.x + Math.cos(angle) * dist;
+          const sy = pos.y + Math.sin(angle) * dist;
+
+          this.scarsGfx.lineStyle(1, 0xfde047, 0.8);
+          this.scarsGfx.lineBetween(sx, sy, sx + (Math.random() - 0.5) * 6, sy + (Math.random() - 0.5) * 6);
+        }
+
+        if (module.integrity < 40) {
+          // Add a dark 'burn' patch
+          this.scarsGfx.fillStyle(0x000000, 0.3);
+          this.scarsGfx.fillCircle(pos.x + 10, pos.y + 10, 15);
+        }
       }
     }
   }

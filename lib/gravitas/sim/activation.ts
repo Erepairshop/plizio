@@ -1,6 +1,7 @@
 import type { StarholdState, LocalizedString } from "./types";
 import { GRAVITAS_TEXT } from "./content";
 import { clamp, pushJournal } from "./shared";
+import { getStarholdModifiers } from "./modifiers";
 
 export interface ActivationStageInfo {
   stage: 0 | 1 | 2 | 3 | 4;
@@ -117,9 +118,11 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
 
 export function coolDownResonance(state: StarholdState): StarholdState {
   if (state.resonance <= 0) return state;
+  const mods = getStarholdModifiers(state);
+  const cooldownRate = mods.gridSynergy ? 16 : 12;
   return {
     ...state,
-    resonance: clamp(state.resonance - 12),
+    resonance: clamp(state.resonance - cooldownRate),
   };
 }
 

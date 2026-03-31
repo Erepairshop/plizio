@@ -27,6 +27,118 @@ function chainedEvent(
 
 const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   {
+    id: "emergencyOverride",
+    minTick: 0,
+    cooldown: 0,
+    shouldTrigger: (state) => state.lockdown,
+    create: () => ({
+      ...chainedEvent(
+        {
+          id: "emergencyOverride",
+          title: T.emergencyOverride.step1.title,
+          body: T.emergencyOverride.step1.body,
+          options: [
+            { id: "forceGrid", label: T.emergencyOverride.step1.options.forceGrid },
+            { id: "purgeBuffer", label: T.emergencyOverride.step1.options.purgeBuffer },
+          ],
+        },
+        "lockdown-override",
+        1,
+        2
+      ),
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "forceGrid") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "emergencyOverride",
+              title: T.emergencyOverride.step2.title,
+              body: T.emergencyOverride.step2.body,
+              options: [
+                { id: "patchVents", label: T.emergencyOverride.step2.options.patchVents },
+                { id: "absorbSurge", label: T.emergencyOverride.step2.options.absorbSurge },
+              ],
+            },
+            "lockdown-override",
+            2,
+            2
+          ),
+          resources: {
+            ...state.resources,
+            stability: clamp(state.resources.stability + 10),
+          },
+          marks: {
+            ...state.marks,
+            shellStrain: clamp(state.marks.shellStrain + 3),
+          },
+          alert: A.overrideForced,
+          journal: pushJournal(state, J.gridForced),
+        };
+      }
+
+      if (optionId === "purgeBuffer") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "emergencyOverride",
+              title: T.emergencyOverride.step2.title,
+              body: T.emergencyOverride.step2.body,
+              options: [
+                { id: "patchVents", label: T.emergencyOverride.step2.options.patchVents },
+                { id: "absorbSurge", label: T.emergencyOverride.step2.options.absorbSurge },
+              ],
+            },
+            "lockdown-override",
+            2,
+            2
+          ),
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power - 15),
+          },
+          entropy: clamp(state.entropy - 10),
+          alert: A.overrideBypass,
+          journal: pushJournal(state, J.coolingBypassed),
+        };
+      }
+
+      if (optionId === "patchVents") {
+        return {
+          ...state,
+          pendingEvent: null,
+          lockdown: false,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - 15),
+            stability: clamp(state.resources.stability + 15),
+          },
+          alert: A.lockdownLifted,
+          journal: pushJournal(state, J.hullPatched),
+        };
+      }
+
+      if (optionId === "absorbSurge") {
+        return {
+          ...state,
+          pendingEvent: null,
+          lockdown: false,
+          entropy: clamp(state.entropy + 15),
+          resources: {
+            ...state.resources,
+            stability: clamp(state.resources.stability + 10),
+          },
+          alert: A.lockdownLifted,
+          journal: pushJournal(state, J.voidWhisperHeeded),
+        };
+      }
+
+      return state;
+    },
+  },
+  {
     id: "powerFluctuation",
     minTick: 4,
     cooldown: 6,

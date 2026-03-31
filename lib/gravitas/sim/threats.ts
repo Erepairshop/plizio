@@ -1,6 +1,7 @@
-import type { StarholdState, StarholdThreatType, LocalizedString } from "./types";
+import type { StarholdState, StarholdThreatType, LocalizedString, StarholdModuleId } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
+import { getStarholdModifiers } from "./modifiers";
 
 export function advanceStarholdThreat(state: StarholdState): { nextState: StarholdState; impacted: boolean } {
   if (state.pendingEvent) {
@@ -13,8 +14,34 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
   if (threat.aftershock > 0) {
     const nextAftershock = threat.aftershock - 1;
     const nextThreat = { ...threat, aftershock: nextAftershock };
-    const entropyGain = nextAftershock > 0 ? 2 : 0;
-    const stabilityLoss = nextAftershock > 0 ? 3 : 0;
+
+    // Aftershock effects scale with threat intensity and type
+    let entropyGain = 0;
+    let stabilityLoss = 0;
+    let powerDrain = 0;
+    let nextModules = { ...state.modules };
+
+    switch (threat.type) {
+      case "distortionWave":
+        stabilityLoss = Math.ceil(threat.intensity * 2);
+        entropyGain = 1;
+        break;
+      case "voidStorm":
+        powerDrain = Math.ceil(threat.intensity * 1.5);
+        entropyGain = Math.ceil(threat.intensity / 2);
+        break;
+      case "meteorShower":
+        stabilityLoss = Math.ceil(threat.intensity);
+        // Lingering integrity decay for a random module during shower aftershock
+        const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
+        const targetId = ids[state.tick % 4];
+        nextModules[targetId] = {
+          ...nextModules[targetId],
+          integrity: clamp(nextModules[targetId].integrity - 1),
+        };
+        break;
+    }
+
     const alert = nextAftershock === 0 ? GRAVITAS_TEXT.threats.aftershockCleared : state.alert;
 
     return {
@@ -22,9 +49,11 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
         ...state,
         resources: {
           ...state.resources,
-          stability: clamp(state.resources.stability - stabilityLoss),
+          stability: clamp(state.resources.stability - (nextAftershock > 0 ? stabilityLoss : 0)),
+          power: clamp(state.resources.power - (nextAftershock > 0 ? powerDrain : 0)),
         },
-        entropy: clamp(state.entropy + entropyGain),
+        modules: nextModules,
+        entropy: clamp(state.entropy + (nextAftershock > 0 ? entropyGain : 0)),
         threat: nextThreat,
         alert,
       },
@@ -55,6 +84,7 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
 function resolveThreatImpact(state: StarholdState): StarholdState {
   const { threat, modules, resources, marks } = state;
   const T = GRAVITAS_TEXT.threats;
+  const mods = getStarholdModifiers(state);
 
   let nextPower = resources.power;
   let nextStability = resources.stability;
@@ -65,25 +95,25 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   let impactJournal: LocalizedString;
   let aftershockDuration = 0;
 
-  const intensityFactor = 1 + (threat.intensity * 0.2);
-  const predictionBonus = threat.predicted ? 0.25 : 0; // Increased from 0.2
+  const intensityFactor = 1 + (threat.intensity * 0.3);
+  const predictionBonus = threat.predicted ? 0.35 : 0;
 
   switch (threat.type) {
     case "distortionWave": {
-      const baseDmg = 22 * intensityFactor;
+      const baseDmg = 28 * intensityFactor;
       const reduction = (threat.fortified ? 0.75 : 0) + predictionBonus;
       const finalDmg = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
 
       nextStability = clamp(nextStability - finalDmg);
-      nextMarks.shellStrain = clamp(nextMarks.shellStrain + (threat.fortified ? 1 : 4));
+      nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, (threat.fortified ? 1 : 5) - mods.shellStrainReduction));
 
       if (!threat.fortified) {
-        aftershockDuration = 4;
-        if (Math.random() > 0.6) {
+        aftershockDuration = 6;
+        if (Math.random() > 0.5) {
           nextAnomalies.push({
             id: "coreTremor",
             name: { en: "Core Tremor", hu: "Mag-remegés", de: "Kernbeben", ro: "Tremur nucleu" },
-            severity: 3
+            severity: Math.ceil(threat.intensity / 2) + 2
           });
         }
       }
@@ -91,21 +121,21 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       break;
     }
     case "voidStorm": {
-      const baseDmg = 18 * intensityFactor;
+      const baseDmg = 22 * intensityFactor;
       const reduction = (threat.dampened ? 0.7 : 0) + predictionBonus;
       const finalDmg = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
 
       nextPower = clamp(nextPower - finalDmg);
-      nextMarks.voidEcho = clamp(nextMarks.voidEcho + (threat.dampened ? 1 : 5));
+      nextMarks.voidEcho = clamp(nextMarks.voidEcho + (threat.dampened ? 1 : 6));
 
       if (!threat.dampened) {
-        aftershockDuration = 3;
-        nextStability = clamp(nextStability - 8);
-        if (Math.random() > 0.4) {
+        aftershockDuration = 5;
+        nextStability = clamp(nextStability - 12);
+        if (Math.random() > 0.3) {
           nextAnomalies.push({
             id: "voidLeak",
             name: { en: "Void Leak", hu: "Void szivárgás", de: "Void-Leck", ro: "Scurgere Void" },
-            severity: 4
+            severity: Math.ceil(threat.intensity / 2) + 3
           });
         }
       }
@@ -113,44 +143,42 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       break;
     }
     case "meteorShower": {
-      const baseDmg = 14 * intensityFactor;
+      const baseDmg = 18 * intensityFactor;
       const reduction = (threat.intercepted ? 0.85 : 0) + predictionBonus;
 
       if (reduction >= 0.85) {
-        // Intercepted or heavily predicted
-        nextMaterials = clamp(nextMaterials - (threat.intercepted ? 10 : 5));
+        const matCost = threat.intercepted ? 15 : 8;
+        nextMaterials = clamp(nextMaterials - matCost);
         nextModules.logistics = {
           ...nextModules.logistics,
-          integrity: clamp(nextModules.logistics.integrity - 12),
+          integrity: clamp(nextModules.logistics.integrity - 18),
         };
         impactJournal = {
-          en: "Meteors intercepted. Shield drones took the brunt of the impact.",
-          hu: "Meteorok elfogva. A védődrónok nyelték el a becsapódás erejét.",
-          de: "Meteore abgefangen. Schilddrohnen fingen den Einschlag ab.",
-          ro: "Metoriți interceptați. Dronele de scut au preluat forța impactului."
+          en: "Meteors intercepted. Defensive perimeter held but suffered attrition.",
+          hu: "Meteorok elfogva. A védelmi vonal kitartott, de veszteségeket szenvedett.",
+          de: "Meteore abgefangen. Verteidigung hielt stand, erlitt aber Verluste.",
+          ro: "Metoriți interceptați. Perimetrul defensiv a rezistat, dar a suferit pierderi."
         };
       } else {
-        // Full impact on all modules
         const ids = (Object.keys(modules) as Array<keyof typeof modules>);
         ids.forEach(id => {
-          const dmg = Math.floor(baseDmg * (0.9 + Math.random() * 0.5) * (1 - reduction));
+          const dmg = Math.floor(baseDmg * (1.1 + Math.random() * 0.6) * (1 - reduction));
           nextModules[id] = {
             ...nextModules[id],
             integrity: clamp(nextModules[id].integrity - dmg),
           };
         });
-        nextMarks.shellStrain = clamp(nextMarks.shellStrain + 3);
+        nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 5 - mods.shellStrainReduction));
         impactJournal = T.meteorShowerImpact;
-        aftershockDuration = 2;
+        aftershockDuration = 4;
       }
       break;
     }
   }
 
-  // Generate next threat
-  const threatTypes: StarholdThreatType[] = ["distortionWave", "voidStorm", "meteorShower"];
-  const nextType = threatTypes[Math.floor(Math.random() * threatTypes.length)];
-  const nextDuration = 18 + Math.floor(Math.random() * 12);
+  const nextType = (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
+  const nextDuration = 22 + Math.floor(Math.random() * 15);
+  const starReward = Math.ceil(threat.intensity / 2);
 
   return {
     ...state,
@@ -176,7 +204,8 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
     },
     progression: {
       ...state.progression,
-      stars: state.progression.stars + 1,
+      stars: state.progression.stars + starReward,
+      lastStarGain: starReward,
     },
     alert: impactJournal,
     journal: pushJournal(state, impactJournal),

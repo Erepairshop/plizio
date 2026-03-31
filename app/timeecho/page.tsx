@@ -100,7 +100,7 @@ const T = {
     correct: "Szint teljesítve!",
     wrong: "Ütközés!",
     nextLevel: "Következő szint",
-    levelDone: "✅ SZINT KÉSZ!",
+    levelDone: "✅ SZINT TELJESÍTVE!",
     bossDone: "🏆 EXPEDÍCIÓ KÉSZ!",
     locked: "ZÁROLVA",
     completed: "Archiválva",

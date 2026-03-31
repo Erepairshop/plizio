@@ -54,6 +54,17 @@ export const STARHOLD_MILESTONES: StarholdMilestone[] = [
     check: (state) => state.resources.stability >= 80,
     rewardStars: 3,
   },
+  {
+    id: "perfect_harmony",
+    label: {
+      en: "Perfect Harmony: Cleared all persistent marks.",
+      hu: "Tökéletes harmónia: Minden tartós nyomot eltávolítottál.",
+      de: "Perfekte Harmonie: Alle dauerhaften Spuren gelöscht.",
+      ro: "Harmonie perfectă: Toate urmele persistente au fost eliminate.",
+    },
+    check: (state) => (state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress + state.marks.voidEcho) === 0 && state.tick > 10,
+    rewardStars: 4,
+  },
 ];
 
 export interface StarholdShopItem {
@@ -79,6 +90,20 @@ export const STARHOLD_SHOP_ITEMS: StarholdShopItem[] = [
     cost: 10,
     type: "utility",
   },
+  {
+    id: "auto_salvage",
+    name: { en: "Auto-Salvage Unit", hu: "Automata gyűjtő", de: "Auto-Bergungseinheit", ro: "Unitate auto-recuperare" },
+    description: { en: "Automatically generates +1 materials every 10 ticks.", hu: "Minden 10. körben automatikusan +1 anyagot termel.", de: "Generiert alle 10 Ticks automatisch +1 Material.", ro: "Generează automat +1 materiale la fiecare 10 secunde." },
+    cost: 15,
+    type: "utility",
+  },
+  {
+    id: "threat_predictor",
+    name: { en: "Threat Predictor", hu: "Veszély-előrejelző", de: "Bedrohungsprognose", ro: "Predictor de amenințări" },
+    description: { en: "Always shows the threat timer, even when far away.", hu: "Mindig mutatja a fenyegetés idejét, távolról is.", de: "Zeigt den Bedrohungstimer immer an, auch aus der Ferne.", ro: "Afișează întotdeauna cronometrul amenințării." },
+    cost: 20,
+    type: "utility",
+  },
 ];
 
 export function checkStarholdMilestones(state: StarholdState): StarholdState {
@@ -99,8 +124,8 @@ export function checkStarholdMilestones(state: StarholdState): StarholdState {
         ...nextState,
         progression: {
           ...nextState.progression,
-          stars: nextState.progression.stars + milestone.rewardStars,
           completedMilestones: [...nextState.progression.completedMilestones, milestone.id],
+          unclaimedMilestones: [...nextState.progression.unclaimedMilestones, milestone.id],
         },
         alert: alertLine,
         journal: pushJournal(nextState, milestone.label),
@@ -109,6 +134,31 @@ export function checkStarholdMilestones(state: StarholdState): StarholdState {
   }
 
   return nextState;
+}
+
+export function claimStarholdMilestone(state: StarholdState, milestoneId: string): StarholdState {
+  if (!state.progression.unclaimedMilestones.includes(milestoneId)) {
+    return state;
+  }
+
+  const milestone = STARHOLD_MILESTONES.find(m => m.id === milestoneId);
+  if (!milestone) return state;
+
+  return {
+    ...state,
+    progression: {
+      ...state.progression,
+      stars: state.progression.stars + milestone.rewardStars,
+      lastStarGain: milestone.rewardStars,
+      unclaimedMilestones: state.progression.unclaimedMilestones.filter(id => id !== milestoneId),
+    },
+    alert: {
+      en: `Reward claimed: +${milestone.rewardStars} Stars`,
+      hu: `Jutalom begyűjtve: +${milestone.rewardStars} Csillag`,
+      de: `Belohnung erhalten: +${milestone.rewardStars} Sterne`,
+      ro: `Recompensă colectată: +${milestone.rewardStars} Stele`
+    },
+  };
 }
 
 export function buyStarholdItem(state: StarholdState, itemId: string): StarholdState {

@@ -1,9 +1,9 @@
 "use client";
 
 import React from "react";
-import { X, Star, Sparkles, ShieldCheck } from "lucide-react";
+import { X, Star, Sparkles, ShieldCheck, Gift } from "lucide-react";
 import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
-import { STARHOLD_SHOP_ITEMS } from "@/lib/gravitas/sim/progression";
+import { STARHOLD_SHOP_ITEMS, STARHOLD_MILESTONES } from "@/lib/gravitas/sim/progression";
 
 interface Props {
   state: StarholdState;
@@ -16,11 +16,13 @@ interface Props {
   };
   onClose: () => void;
   onBuy: (itemId: string) => void;
+  onClaim: (milestoneId: string) => void;
 }
 
-export default function GravitasShop({ state, lang, ui, onClose, onBuy }: Props) {
+export default function GravitasShop({ state, lang, ui, onClose, onBuy, onClaim }: Props) {
   const stars = state.progression.stars;
   const unlocked = state.progression.unlockedItems;
+  const unclaimed = state.progression.unclaimedMilestones || [];
 
   const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
 
@@ -46,6 +48,34 @@ export default function GravitasShop({ state, lang, ui, onClose, onBuy }: Props)
         </div>
 
         <div className="flex-1 overflow-y-auto p-6">
+          {unclaimed.length > 0 && (
+            <div className="mb-8 space-y-3">
+              <h3 className="text-[10px] uppercase tracking-[0.2em] text-amber-400 font-black mb-4">Pending Rewards</h3>
+              {unclaimed.map(id => {
+                const milestone = STARHOLD_MILESTONES.find(m => m.id === id);
+                if (!milestone) return null;
+                return (
+                  <div key={id} className="rounded-2xl border border-amber-400/30 bg-amber-400/5 p-4 flex items-center justify-between gap-4 animate-pulse">
+                    <div className="flex items-center gap-3">
+                      <Gift size={20} className="text-amber-400" />
+                      <div>
+                        <div className="text-sm font-black text-white">{localize(milestone.label)}</div>
+                        <div className="text-[10px] text-amber-200/60 font-bold uppercase tracking-widest">Milestone Achieved</div>
+                      </div>
+                    </div>
+                    <button
+                      onClick={() => onClaim(id)}
+                      className="px-4 py-2 rounded-lg bg-amber-400 text-black text-xs font-black hover:scale-105 active:scale-95 transition"
+                    >
+                      CLAIM +{milestone.rewardStars}
+                    </button>
+                  </div>
+                );
+              })}
+              <div className="h-px w-full bg-white/5 my-6" />
+            </div>
+          )}
+
           <div className="grid gap-4">
             {STARHOLD_SHOP_ITEMS.map((item) => {
               const isUnlocked = unlocked.includes(item.id);

@@ -3,8 +3,7 @@
 import { useEffect, useRef, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion } from "framer-motion";
-import { Check, Rocket, HelpCircle, Home, RotateCcw } from "lucide-react";
-import Link from "next/link";
+import { Check, Rocket, HelpCircle, RotateCcw } from "lucide-react";
 import RewardReveal from "@/components/RewardReveal";
 import { GameShellExpedition, GameShellLevelComplete } from "@/components/GameShell";
 import { incrementTotalGames } from "@/lib/milestones";
@@ -88,7 +87,7 @@ const T = {
     correct: "Felfedezés megerősítve!",
     wrong: "Hibás adatok. Nézd át a naplókat.",
     nextLevel: "Következő küldetés",
-    levelDone: "✅ KÜLDETÉS KÉSZ!",
+    levelDone: "✅ KÜLDETÉS TELJESÍTVE!",
     bossDone: "🏆 EXPEDÍCIÓ KÉSZ!",
     locked: "KORLÁTOZOTT",
     solvePrompt: "Rendelj minden felfedezőt pontosan egy bolygóhoz vagy tárgyhoz.",

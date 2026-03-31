@@ -34,7 +34,9 @@ export function createInitialStarholdState(): StarholdState {
     progression: {
       stars: 0,
       completedMilestones: [],
+      unclaimedMilestones: [],
       unlockedItems: [],
+      lastStarGain: 0,
     },
     modules: createInitialModules(),
     alert: GRAVITAS_TEXT.journal.initialAlert,
@@ -45,5 +47,6 @@ export function createInitialStarholdState(): StarholdState {
     pendingEvent: null,
     crisis: false,
     highStability: false,
+    lockdown: false,
   };
 }

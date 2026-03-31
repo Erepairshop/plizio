@@ -1,16 +1,21 @@
-import type { StarholdState } from "./types";
+import type { StarholdModuleId, StarholdState } from "./types";
 import { applyStarholdEvents } from "./events";
 import { clamp } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { coolDownResonance } from "./activation";
 import { advanceStarholdThreat } from "./threats";
 import { checkStarholdMilestones } from "./progression";
+import { pushJournal } from "./shared";
+import { getStarholdModifiers } from "./modifiers";
 
 export function advanceStarholdTick(state: StarholdState): StarholdState {
+  const mods = getStarholdModifiers(state);
   const reactorBoost = state.modules.reactor.online ? 2 : 0;
   const logisticsDrain = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
   const sensorStability = state.modules.sensor.online ? 1 : 0;
   const phaseDrain = state.phase === "activation" ? 1 : 0;
+
+  // Crisis / Stability checks
   const isCrisis = state.resources.power < 10 && state.resources.stability < 30;
   const isHighStability = state.resources.stability > 85;
 
@@ -36,18 +41,12 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Entropy effect (soft trap)
   const entropyStabilityDrain = Math.floor(state.entropy / 15);
   const entropyPowerDrain = Math.floor(state.entropy / 20);
+
+  // High Stability bonus: reduced drains
   const stabilityBuffer = isHighStability ? 2 : 0;
 
   const nextPower = clamp(
-    state.resources.power +
-      reactorBoost -
-      logisticsDrain -
-      phaseDrain -
-      scarDrain -
-      resonancePowerDrain -
-      entropyPowerDrain -
-      anomalyPowerDrain +
-      (isHighStability ? 1 : 0)
+    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0)
   );
   const nextStability = clamp(
     state.resources.stability +
@@ -65,8 +64,33 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   let nextModules = { ...state.modules };
   let alert = state.alert;
+  let nextJournal = [...state.journal];
 
-  // Glitch logic speeds up in crisis conditions.
+  // Lockdown logic
+  let nextLockdown = state.lockdown;
+  let nextPendingEvent = state.pendingEvent;
+  if (nextStability === 0 && !nextLockdown) {
+    nextLockdown = true;
+    nextPendingEvent = null; // Force clear to allow override event
+    alert = {
+      en: "STATION LOCKDOWN: Stability failure. Emergency override required.",
+      hu: "ÁLLOMÁS LEZÁRVA: Stabilitási hiba. Kézi felülbírálás szükséges.",
+      de: "STATIONS-LOCKDOWN: Stabilitätsfehler. Notfall-Override erforderlich.",
+      ro: "BLOCARE STAȚIE: Eșec stabilitate. Este necesară suprascrierea de urgență.",
+    };
+    nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
+  }
+
+  // Void Whispers (Psychic atmosphere)
+  if (state.marks.voidEcho > 8 && state.tick % 15 === 0 && Math.random() > 0.4) {
+    const whispers = GRAVITAS_TEXT.journal.voidWhispers || [];
+    if (whispers.length > 0) {
+      const randomWhisper = whispers[Math.floor(Math.random() * whispers.length)];
+      nextJournal = pushJournal({ ...state, journal: nextJournal }, randomWhisper);
+    }
+  }
+
+  // Glitch logic (accelerated in Crisis)
   const glitchThreshold = isCrisis ? 8 : 10;
   if (totalMarks > glitchThreshold && state.tick % (isCrisis ? 3 : 5) === 0) {
     const affectedModuleId = (["reactor", "logistics", "core", "sensor"] as const)[state.tick % 4];
@@ -76,10 +100,40 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       integrity: clamp(nextModules[affectedModuleId].integrity - damage),
     };
     alert = GRAVITAS_TEXT.alerts.driftGlitch(nextModules[affectedModuleId].name);
+    nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
+  }
+
+  // Entropy Spike (Aggressive damage at high entropy)
+  if (state.entropy > 80 && state.tick % 4 === 0) {
+    const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
+    const targetId = ids[Math.floor(Math.random() * 4)];
+    nextModules[targetId] = {
+      ...nextModules[targetId],
+      integrity: clamp(nextModules[targetId].integrity - 5),
+    };
+    alert = {
+      en: `Critical Entropy Spike! ${nextModules[targetId].name.en} integrity failing.`,
+      hu: `Kritikus entrópia-tüske! ${nextModules[targetId].name.hu} integritása omlik.`,
+      de: `Kritischer Entropie-Peak! ${nextModules[targetId].name.de}-Integrität versagt.`,
+      ro: `Vârf critic de entropie! Integritatea ${nextModules[targetId].name.ro} eșuează.`,
+    };
+    nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
   }
 
   const nextPhase =
     state.avatarAwake && state.phase !== "awakened" ? "awakened" : state.phase;
+
+  // Auto-Salvage Item Logic
+  let nextMaterials = state.resources.materials;
+  if (state.progression.unlockedItems.includes("auto_salvage") && state.tick % 10 === 0) {
+    nextMaterials = clamp(nextMaterials + 1);
+    nextJournal = pushJournal({ ...state, journal: nextJournal }, {
+      en: "Auto-salvage unit recovered materials.",
+      hu: "Automata gyűjtő anyagokat emelt ki.",
+      de: "Auto-Bergungseinheit hat Material gesichert.",
+      ro: "Unitatea auto-recuperare a colectat materiale.",
+    });
+  }
 
   const nextAlert =
     nextPower < 8
@@ -88,17 +142,26 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
         ? GRAVITAS_TEXT.alerts.critStability
         : alert;
 
-  // Anomaly duration decay
+  // Anomaly duration decay (slower in Crisis)
   const nextAnomalies = state.anomalies
-    .map(a => a.duration !== undefined ? { ...a, duration: a.duration - 1 } : a)
+    .map(a => a.duration !== undefined ? { ...a, duration: a.duration - (isCrisis ? 0.5 : 1) } : a)
     .filter(a => a.duration === undefined || a.duration > 0);
 
   // Entropy logic
   let nextEntropy = state.entropy;
-  if (totalMarks > 12 || isCrisis) {
-    nextEntropy = clamp(nextEntropy + Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0));
+  if (totalMarks > 12 || isCrisis || nextLockdown) {
+    nextEntropy = clamp(nextEntropy + Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0));
   } else if (totalMarks < 5 || isHighStability) {
     nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
+  }
+
+  if (nextLockdown) {
+    const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
+    const targetId = ids[state.tick % 4];
+    nextModules[targetId] = {
+      ...nextModules[targetId],
+      integrity: clamp(nextModules[targetId].integrity - 2),
+    };
   }
 
   const nextState = {
@@ -109,6 +172,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       ...state.resources,
       power: nextPower,
       stability: nextStability,
+      materials: nextMaterials,
     },
     modules: nextModules,
     marks: {
@@ -120,8 +184,15 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     anomalies: nextAnomalies,
     entropy: nextEntropy,
     alert: nextAlert,
+    journal: nextJournal,
     crisis: isCrisis,
     highStability: isHighStability,
+    lockdown: nextLockdown,
+    pendingEvent: nextPendingEvent,
+    progression: {
+      ...state.progression,
+      lastStarGain: 0, // Clear last gain pulse
+    }
   };
 
   const withResonance = coolDownResonance(nextState);
@@ -134,6 +205,5 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     return checkStarholdMilestones(threatResult.nextState);
   }
 
-  const afterEvents = applyStarholdEvents(threatResult.nextState);
-  return checkStarholdMilestones(afterEvents);
+  return checkStarholdMilestones(applyStarholdEvents(threatResult.nextState));
 }

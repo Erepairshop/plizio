@@ -50,7 +50,7 @@ const T = {
     home: "Főoldal", progress: "Haladás", levelLabel: "Szint", levelsOf: "szint", route: "útvonal",
     boss: "🏆 BOSS — ", done: "✓ kész",
     hint: "Kezdj az első állomásnál → építsd meg sorban az útvonalat → érj a célba",
-    levelDone: "✅ SZINT KÉSZ!", bossDone: "🏆 KÉSZ!", timeUp: "⏰ LEJÁRT!",
+    levelDone: "✅ SZINT TELJESÍTVE!", bossDone: "🏆 KÜLDETÉS KÉSZ!", timeUp: "⏰ LEJÁRT!",
     retry: "Újra", nextLevel: "Következő szint", expeditionMap: "Expedíció térkép",
     newExpedition: "🔄 Új expedíció", time: "IDŐ",
     legendaryDesc: "Megszerezted a legendás Útvonalépítő kártyát!",

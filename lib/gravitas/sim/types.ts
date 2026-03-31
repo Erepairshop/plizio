@@ -42,7 +42,8 @@ export type StarholdEventId =
   | "voidBreach"
   | "sensorGhosting"
   | "deepTrek"
-  | "entropyCascade";
+  | "entropyCascade"
+  | "emergencyOverride";
 
 export type LocalizedString = {
   en: string;
@@ -92,7 +93,9 @@ export interface StarholdThreatState {
 export interface StarholdProgression {
   stars: number;
   completedMilestones: string[];
+  unclaimedMilestones: string[];
   unlockedItems: string[];
+  lastStarGain: number; // For UI feedback animation
 }
 
 export interface StarholdState {
@@ -111,8 +114,9 @@ export interface StarholdState {
   resonance: number; // Current energy resonance/heat during transfer
   lastEventTick: Partial<Record<StarholdEventId, number>>;
   pendingEvent: StarholdPendingEvent | null;
-  crisis: boolean;
-  highStability: boolean;
+  crisis: boolean; // True if multiple resources are low
+  highStability: boolean; // True if stability is very high
+  lockdown: boolean; // True if stability reached 0
 }
 
 export type StarholdCommand =
@@ -132,5 +136,8 @@ export type StarholdCommand =
   | { type: "PREDICT_THREAT" }
   | { type: "EMERGENCY_VENT" }
   | { type: "TUNE_SHIELDS" }
+  | { type: "EMERGENCY_DISCHARGE" }
+  | { type: "RAPID_FABRICATION"; moduleId: StarholdModuleId }
+  | { type: "CLAIM_MILESTONE"; milestoneId: string }
   | { type: "BUY_ITEM"; itemId: string }
   | { type: "RESOLVE_EVENT"; optionId: string };

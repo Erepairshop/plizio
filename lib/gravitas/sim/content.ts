@@ -412,6 +412,34 @@ export const GRAVITAS_TEXT = {
           ventSensors: { en: "Vent through sensors", hu: "Kivezetés a szenzorokon", de: "Durch Sensoren ablassen", ro: "Evacuare prin senzori" },
         }
       }
+    },
+    emergencyOverride: {
+      step1: {
+        title: { en: "EMERGENCY OVERRIDE", hu: "KÉZI FELÜLBÍRÁLÁS", de: "NOTFALL-OVERRIDE", ro: "SUPRASCRIERE DE URGENȚĂ" },
+        body: {
+          en: "Mainframe locked. Systems are dark. Force the power grid or attempt a cold reboot of the logic buffer?",
+          hu: "Főkeret lezárva. A rendszerek sötétek. Erőltesd meg a hálózatot, vagy próbálj meg egy hideg újraindítást a logikai pufferen?",
+          de: "Mainframe gesperrt. Systeme dunkel. Stromnetz forzieren oder Kaltstart des Logikpuffers?",
+          ro: "Unitatea centrală blocată. Sistemele sunt întunecate. Forțează rețeaua sau încearcă o repornire la rece a tamponului logic?"
+        },
+        options: {
+          forceGrid: { en: "Force grid (+STB)", hu: "Hálózat erőltetése (+STB)", de: "Netz forzieren (+STB)", ro: "Forțare rețea (+STB)" },
+          purgeBuffer: { en: "Cold reboot (-PWR)", hu: "Hideg újraindítás (-PWR)", de: "Kaltstart (-PWR)", ro: "Repornire la rece (-PWR)" },
+        }
+      },
+      step2: {
+        title: { en: "SYSTEM RECOVERY", hu: "RENDSZER HELYREÁLLÍTÁSA", de: "SYSTEMWIEDERHERSTELLUNG", ro: "RECUPERARE SISTEM" },
+        body: {
+          en: "The bypass is working, but systems are stuttering. Sacrifice materials to patch the cooling vents, or let the core resonance absorb the entropy surge?",
+          hu: "A felülbírálás működik, de a rendszerek akadoznak. Áldozz fel anyagot a hűtőnyílások javítására, vagy hagyd, hogy a magrezonancia nyelje el az entrópiát?",
+          de: "Bypass funktioniert, aber Systeme stottern. Material opfern für Kühlung oder Kernresonanz die Entropie schlucken lassen?",
+          ro: "Bypass-ul funcționează, dar sistemele sacadează. Sacrifică materiale pentru răcire sau lasă rezonanța nucleului să absoarbă fluxul de entropie?"
+        },
+        options: {
+          patchVents: { en: "Patch vents (-MAT)", hu: "Nyílások javítása (-ANYAG)", de: "Lüftungen flicken (-MAT)", ro: "Reparare orificii (-MAT)" },
+          absorbSurge: { en: "Absorb surge (+ENT)", hu: "Entrópia elnyelése (+ENT)", de: "Stoß absorbieren (+ENT)", ro: "Absorbire flux (+ENT)" },
+        }
+      }
     }
   },
   alerts: {
@@ -466,6 +494,13 @@ export const GRAVITAS_TEXT = {
       ro: `${name.ro} anomalia a fost eliminată.`
     }),
     driftGlitch: (name: LocalizedString) => ({ en: `Drift glitch: ${name.en} integrity dropping.`, hu: `Drift hiba: ${name.hu} integritása csökken.`, de: `Drift-Glitch: ${name.de}-Integrität sinkt.`, ro: `Eroare derivă: integritatea ${name.ro} scade.` }),
+    overrideForced: { en: "Power grid forced. Frame is screaming.", hu: "Hálózat megfeszítve. A váz sikolt.", de: "Netz forziert. Rahmen schreit.", ro: "Rețea forțată. Cadrul scoate sunete stridente." },
+    overrideBypass: { en: "Cold reboot initiated. Buffer cleared.", hu: "Hideg újraindítás elindítva. Puffer ürítve.", de: "Kaltstart initiiert. Puffer leer.", ro: "Repornire la rece inițiată. Tampon purjat." },
+    lockdownLifted: { en: "Lockdown lifted. Control restored.", hu: "Lezárás feloldva. Vezérlés helyreállítva.", de: "Lockdown aufgehoben. Kontrolle zurück.", ro: "Blocare ridicată. Control restabilit." },
+    overridePatch: { en: "Cooling vents patched. System cooling down.", hu: "Hűtőnyílások befoltozva. A rendszer hűl.", de: "Lüftungen geflickt. System kühlt ab.", ro: "Orificii reparate. Sistemul se răcește." },
+    overrideFocus: { en: "Core absorbed the surge. Static remains.", hu: "A mag elnyelte az entrópiát. Statikus zaj maradt.", de: "Kern absorbierte Stoß. Statik bleibt.", ro: "Nucleul a absorbit fluxul. Rămâne electricitate statică." },
+    powerDischarged: { en: "Energy discharged into stabilizers. Stability up.", hu: "Energia a stabilizátorokba vezetve. Stabilitás nőtt.", de: "Energie in Stabilisatoren entladen. Stabilität hoch.", ro: "Energie descărcată în stabilizatori. Stabilitate crescută." },
+    rapidFabSuccess: (name: LocalizedString) => ({ en: `Rapid fabrication complete for ${name.en}.`, hu: `Gyorsgyártás kész: ${name.hu}.`, de: `Schnellfertigung für ${name.de} abgeschlossen.`, ro: `Fabricare rapidă finalizată pentru ${name.ro}.` }),
   },
   journal: {
     surgeCaptured: { en: "You captured the surge, but the station frame trembled.", hu: "Elkaptad a túlfeszültséget, de az állomás váza megremegett.", de: "Stoß eingefangen, aber Stationsrahmen bebte.", ro: "Ai captat tensiunea, dar cadrul stației a tremurat." },
@@ -492,6 +527,12 @@ export const GRAVITAS_TEXT = {
     reactorRealigned: { en: "Reactor field realigned successfully.", hu: "A reaktormező sikeresen újraillesztve.", de: "Reaktorfeld erfolgreich neu ausgerichtet.", ro: "Câmpul reactorului a fost realiniat." },
     integrityRestored: (name: LocalizedString, value: number) => ({ en: `${name.en} integrity restored to ${value}%.`, hu: `${name.hu} integritása helyreállítva: ${value}%.`, de: `${name.de}-Integrität auf ${value}% wiederhergestellt.`, ro: `Integritatea ${name.ro} restabilită la ${value}%.` }),
     driftDampened: { en: "Sensor sweep cleared structural micro-fractures and supply friction.", hu: "A szenzoros vizsgálat eltávolította a mikro-repedéseket és az ellátási súrlódást.", de: "Sensorsweep klärte Mikrofrakturen und Versorgungsreibung.", ro: "Scanarea a curățat micro-fracturile și fricțiunea." },
+    gridForced: { en: "You forced the main power bus. Systems are flickering back to life.", hu: "Megfeszítetted a fő tápvezetéket. A rendszerek villódzva éledeznek.", de: "Hauptbus forziert. Systeme flackern wieder auf.", ro: "Ai forțat magistrala principală de energie. Sistemele revin la viață." },
+    coolingBypassed: { en: "Manual logic bypass complete. Cooling systems are screaming but operational.", hu: "Kézi logikai bypass kész. A hűtőrendszerek sikoltanak, de működnek.", de: "Manueller Bypass fertig. Kühlung schreit, aber läuft.", ro: "Bypass logic manual finalizat. Sistemele de răcire scot sunete stridente, dar sunt operaționale." },
+    hullPatched: { en: "Structural integrity stabilized via manual material welding.", hu: "Szerkezeti integritás stabilizálva kézi hegesztéssel.", de: "Integrität durch manuelles Schweißen stabilisiert.", ro: "Integritate structurală stabilizată prin sudare manuală." },
+    voidWhisperHeeded: { en: "The core resonance shifted to a cold, stable rhythm.", hu: "A magrezonancia hideg, stabil ritmusra váltott.", de: "Kernresonanz wechselte in kalten, stabilen Rhythmus.", ro: "Rezonanța nucleului a trecut la un ritm rece și stabil." },
+    kineticRegen: { en: "Kinetic stabilizers pulsed with excess energy, anchoring the station.", hu: "A kinetikus stabilizátorok elnyelték a felesleges energiát, rögzítve az állomást.", de: "Kinetische Stabilisatoren pulsierten, Station verankert.", ro: "Stabilizatorii cinetici au pulsat cu energie în exces, ancorând stația." },
+    rapidRepair: (name: LocalizedString) => ({ en: `Automated fabricators used raw stock to reinforce ${name.en}.`, hu: `Az automata gyártók nyersanyagból erősítették meg a(z) ${name.hu} egységet.`, de: `Automatisierte Fertiger verstärkten ${name.de} mit Rohmaterial.`, ro: `Fabricatorii automați au folosit materie primă pentru a consolida ${name.ro}.` }),
     cascadeStart: { en: "Logistics cascade detected in the debris belt.", hu: "Logisztikai kaszkád észlelve a törmelékövben.", de: "Logistikkaskade im Trümmergürtel entdeckt.", ro: "Cascadă logistică detectată în centura de resturi." },
     dronesProtected: { en: "You shielded the recovery team at a power cost.", hu: "Megvédted a mentőcsapatot energia árán.", de: "Bergungsteam unter Energieeinsatz geschützt.", ro: "Ai protejat echipa de recuperare cu un cost de energie." },
     droneDamage: { en: "Magnetic interference battered the scavenger flight.", hu: "Mágneses interferencia tépázta meg a mentőrajt.", de: "Magnetische Interferenz beschädigte Bergungstrupp.", ro: "Interferența magnetică a afectat dronele." },
@@ -505,7 +546,15 @@ export const GRAVITAS_TEXT = {
     overclockJournal: { en: "Reactor core overdriven for immediate power. Structural scars detected.", hu: "Reaktormag túlhajtva az azonnali energiáért. Szerkezeti sebek észlelve.", de: "Reaktorkern für sofortige Energie überlastet. Strukturnarben.", ro: "Nucleu reactor suprasolicitat. Cicatrici structurale detectate." },
     optimizeJournal: { en: "Logistics throughput maximized. Supply grid is under heavy stress.", hu: "Logisztikai átvitel maximalizálva. Az ellátóhálózat súlyos terhelés alatt.", de: "Logistikdurchsatz maximiert. Versorgungsnetz unter schwerer Last.", ro: "Flux logistic maximizat. Rețeaua este sub tensiune." },
     deepScanJournal: { en: "Sensors focused on the shell's psychic layer, dampening void echoes.", hu: "A szenzorok a test pszichikai rétegére fókuszáltak, tompítva a void visszhangokat.", de: "Sensoren auf psychische Hüllenschicht fokussiert, Void-Echos gedämpft.", ro: "Senzorii s-au concentrat pe stratul psihic, atenuând ecourile void." },
+    voidWhispers: [
+      { en: "Something is breathing behind the core panel.", hu: "Valami lélegzik a magpanel mögött.", de: "Etwas atmet hinter der Kernverkleidung.", ro: "Ceva respiră în spatele panoului central." },
+      { en: "The silence in the vents is getting louder.", hu: "A csend a szellőzőkben egyre hangosabb.", de: "Die Stille in den Lüftungsschächten wird lauter.", ro: "Liniștea din conducte devine tot mai puternică." },
+      { en: "Coordinates are shifting without input.", hu: "A koordináták bevitel nélkül módosulnak.", de: "Koordinaten verschieben sich ohne Eingabe.", ro: "Coordonatele se schimbă fără nicio comandă." },
+      { en: "Shadows are stretching against the starfield.", hu: "Az árnyékok megnyúlnak a csillagmező előtt.", de: "Schatten dehnen sich gegen das Sternenfeld.", ro: "Umbrele se întind pe fundalul stelar." },
+      { en: "The shell's eyes are closed, but it is watching.", hu: "A test szeme csukva van, de figyel.", de: "Die Augen der Hülle vannak geschlossen, aber sie schaut zu.", ro: "Ochii corpului sunt închiși, dar acesta privește." }
+    ],
     initialJournal: [
+
       { en: "Emergency reserve power detected.", hu: "Vészhelyzeti tartalék energia észlelve.", de: "Notreserveenergie entdeckt.", ro: "Energie de rezervă detectată." },
       { en: "Core chamber sealed.", hu: "Magkamra lezárva.", de: "Kernkammer versiegelt.", ro: "Camera nucleului sigilată." },
       { en: "Activation conduit requires manual transfer.", hu: "Az aktiválási csatorna kézi átvitelt igényel.", de: "Aktivierungsleitung erfordert manuellen Transfer.", ro: "Canalul de activare necesită transfer manual." },
