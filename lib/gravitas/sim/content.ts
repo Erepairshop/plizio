@@ -429,8 +429,21 @@ export const GRAVITAS_TEXT = {
         ro: "Un semnal apare la marginea matricei senzorilor. Ceva departe încearcă să te ajungă. Urmărești semnalul sau îl muțești?"
       },
       options: {
-        trace: { en: "Trace the signal", hu: "Jel követése", de: "Signal verfolgen", ro: "Urmărește semnalul" },
+        trace: { en: "Trace the signal", hu: "Jel követése", de: "Signal verfolgen", ro: "Urmărești semnalul" },
         mute: { en: "Mute it", hu: "Elnémítés", de: "Stummschalten", ro: "Amuțești-l" },
+      }
+    },
+    phaseEcho: {
+      title: { en: "Phase echo", hu: "Fázis-visszhang", de: "Phasen-Echo", ro: "Ecou de fază" },
+      body: {
+        en: "A quiet layer of the station begins to answer your presence. It echoes back in fractured phases. Listen or interrupt?",
+        hu: "Az állomás csendes rétege elkezd válaszolni a jelenlétedre. Töredezett fázisban visszhangzik vissza. Hallgatod vagy megszakítod?",
+        de: "Eine stille Schicht der Station antwortet auf deine Präsenz. Sie antwortet in zerstückelten Phasen. Abhören oder unterbrechen?",
+        ro: "Un strat tăcut al stației începe să răspundă prezenței tale. Răspunde în faze fragmentate. Ascultă sau întrerupe?"
+      },
+      options: {
+        listen: { en: "Listen to the echo", hu: "Visszhang hallgatása", de: "Echo abhören", ro: "Ascultă ecoul" },
+        interrupt: { en: "Interrupt the echo", hu: "Visszhang megszakítása", de: "Echo unterbrechen", ro: "Întrerupe ecoul" },
       }
     },
     deepTrek: {
