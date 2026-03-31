@@ -8,6 +8,7 @@ import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
+import { saveGravitasState, loadGravitasState } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer, getActivationStageInfo } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
@@ -327,9 +328,17 @@ export default function GravitasPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
   const moduleCopy = MODULE_COPY[lang as keyof typeof MODULE_COPY] ?? MODULE_COPY.en;
-  const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
+  const [state, dispatch] = useReducer(
+    reducer,
+    undefined,
+    () => loadGravitasState() ?? createInitialStarholdState()
+  );
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
   const holdRef = useRef<number | null>(null);
+
+  useEffect(() => {
+    saveGravitasState(state);
+  }, [state]);
 
   useEffect(() => {
     const id = window.setInterval(() => {

@@ -3,7 +3,7 @@ import { clamp, pushJournal } from "./shared";
 
 function chainedEvent(
   base: {
-    id: "powerFluctuation" | "materialBottleneck" | "signalPulse";
+    id: "powerFluctuation" | "materialBottleneck" | "signalPulse" | "sensorAnomaly" | "logisticsCollapse";
     title: string;
     body: string;
     options: { id: string; label: string }[];
@@ -333,6 +333,228 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         },
         alert: "The repeating pattern was broken before it sealed.",
         journal: pushJournal(state, "You burned resources to break the drift before it hardened into a loop."),
+      };
+    },
+  },
+  {
+    id: "sensorAnomaly",
+    minTick: 10,
+    cooldown: 12,
+    shouldTrigger: (state) => state.modules.sensor.online && state.tick > 10,
+    create: () => ({
+      ...chainedEvent(
+        {
+          id: "sensorAnomaly",
+          title: "Sensor anomaly",
+          body: "A faint signal is coming from beyond the hull. Amplify the array or ignore it.",
+          options: [
+            { id: "amplifyArray", label: "Amplify array" },
+            { id: "ignoreSignal", label: "Ignore signal" },
+          ],
+        },
+        "sensor-anomaly",
+        1,
+        2
+      ),
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "amplifyArray") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "sensorAnomaly",
+              title: "Partial station map",
+              body: "The signal resolved into a partial station map. Integrate it or archive it.",
+              options: [
+                { id: "integrateMap", label: "Integrate map" },
+                { id: "archiveSafely", label: "Archive safely" },
+              ],
+            },
+            "sensor-anomaly",
+            2,
+            2
+          ),
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power - 3),
+            stability: clamp(state.resources.stability + 3),
+          },
+          modules: {
+            ...state.modules,
+            sensor: {
+              ...state.modules.sensor,
+              load: clamp(state.modules.sensor.load + 10),
+            },
+          },
+          alert: "The array was amplified. A signal is resolving.",
+          journal: pushJournal(state, "You pushed the sensor array harder and caught something beyond the hull."),
+        };
+      }
+
+      if (optionId === "integrateMap") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials + 6),
+            stability: clamp(state.resources.stability + 2),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress - 2),
+          },
+          alert: "The partial map was integrated into the navigation layer.",
+          journal: pushJournal(state, "Integrating the signal map revealed supply caches and eased logistics strain."),
+        };
+      }
+
+      if (optionId === "archiveSafely") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            stability: clamp(state.resources.stability + 3),
+          },
+          alert: "The signal data was archived without incident.",
+          journal: pushJournal(state, "You archived the partial map. The station holds steady."),
+        };
+      }
+
+      return {
+        ...state,
+        pendingEvent: null,
+        resources: {
+          ...state.resources,
+          stability: clamp(state.resources.stability + 1),
+        },
+        alert: "The faint signal was ignored.",
+        journal: pushJournal(state, "You let the signal fade. Nothing outside warranted the risk."),
+      };
+    },
+  },
+  {
+    id: "logisticsCollapse",
+    minTick: 8,
+    cooldown: 10,
+    shouldTrigger: (state) =>
+      state.modules.logistics.integrity < 35 && state.marks.supplyStress >= 3,
+    create: () => ({
+      ...chainedEvent(
+        {
+          id: "logisticsCollapse",
+          title: "Logistics collapse",
+          body: "Supply routes are seizing up. Reroute through backup conduits or force the main line.",
+          options: [
+            { id: "backupConduits", label: "Backup conduits" },
+            { id: "forceMainLine", label: "Force main line" },
+          ],
+        },
+        "logistics-collapse",
+        1,
+        2
+      ),
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "backupConduits") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "logisticsCollapse",
+              title: "Conduits under strain",
+              body: "Backup conduits are holding but strained. Reinforce them or accept the fragile state.",
+              options: [
+                { id: "reinforce", label: "Reinforce" },
+                { id: "acceptFragile", label: "Accept fragile" },
+              ],
+            },
+            "logistics-collapse",
+            2,
+            2
+          ),
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - 2),
+            stability: clamp(state.resources.stability + 2),
+          },
+          alert: "Supply rerouted through backup conduits.",
+          journal: pushJournal(state, "You shifted flow to the backup conduits. They're holding, but barely."),
+        };
+      }
+
+      if (optionId === "forceMainLine") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials + 4),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress + 2),
+          },
+          modules: {
+            ...state.modules,
+            logistics: {
+              ...state.modules.logistics,
+              integrity: clamp(state.modules.logistics.integrity - 8),
+            },
+          },
+          alert: "The main line was forced open but took structural damage.",
+          journal: pushJournal(state, "You forced the main supply line through. Materials flowed, but the conduit cracked."),
+        };
+      }
+
+      if (optionId === "reinforce") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - 3),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress - 1),
+          },
+          modules: {
+            ...state.modules,
+            logistics: {
+              ...state.modules.logistics,
+              integrity: clamp(state.modules.logistics.integrity + 10),
+            },
+          },
+          alert: "Backup conduits reinforced and holding.",
+          journal: pushJournal(state, "You spent materials to shore up the conduits. Supply stress eased and logistics stabilized."),
+        };
+      }
+
+      if (optionId === "acceptFragile") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            stability: clamp(state.resources.stability - 2),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress + 1),
+          },
+          alert: "The fragile conduit state was accepted.",
+          journal: pushJournal(state, "You left the conduits as-is. They'll hold for now, but the stress is building."),
+        };
+      }
+
+      return {
+        ...state,
+        pendingEvent: null,
+        alert: "Logistics event resolved.",
+        journal: pushJournal(state, "The logistics crisis passed without further action."),
       };
     },
   },

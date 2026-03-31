@@ -23,7 +23,7 @@ export interface StarholdMarks {
 
 export type StarholdPhase = "boot" | "activation" | "awakened";
 
-export type StarholdEventId = "powerFluctuation" | "materialBottleneck" | "signalPulse" | "driftLock";
+export type StarholdEventId = "powerFluctuation" | "materialBottleneck" | "signalPulse" | "driftLock" | "sensorAnomaly" | "logisticsCollapse";
 
 export interface StarholdEventOption {
   id: string;

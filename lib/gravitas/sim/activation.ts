@@ -48,9 +48,23 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
 export function channelActivationPulse(state: StarholdState, amount: number): StarholdState {
   if (state.phase !== "activation") return state;
   if (state.resources.power <= 0) {
+    const prevActivation = state.resources.activation;
+    const regressedActivation = clamp(prevActivation - Math.ceil(prevActivation * 0.15));
+    const collapseToboot = prevActivation >= 10 && regressedActivation < 10;
     return {
       ...state,
-      alert: "Transfer interrupted. Power reserve exhausted.",
+      phase: collapseToboot ? "boot" : "activation",
+      resources: {
+        ...state.resources,
+        activation: regressedActivation,
+        stability: clamp(state.resources.stability - 3),
+      },
+      marks: {
+        ...state.marks,
+        shellStrain: clamp(state.marks.shellStrain + 2),
+      },
+      alert: "Transfer collapsed. The shell recoiled and activation regressed.",
+      journal: pushJournal(state, "Transfer collapsed. The shell recoiled and activation regressed."),
     };
   }
 
@@ -87,4 +101,8 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
 
 export function canStartActivationTransfer(state: StarholdState) {
   return state.phase === "boot" && state.resources.power >= 6 && state.resources.stability >= 35 && state.modules.logistics.integrity >= 45;
+}
+
+export function isActivationCritical(state: StarholdState): boolean {
+  return state.marks.shellStrain >= 6 && state.phase === "activation";
 }
