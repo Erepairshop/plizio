@@ -45,9 +45,11 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   // High Stability bonus: reduced drains
   const stabilityBuffer = isHighStability ? 2 : 0;
+  const isAwakened = state.phase === "awakened";
+  const decayMult = isAwakened ? 1.5 : 1;
 
   const nextPower = clamp(
-    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0)
+    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0) + (isAwakened ? 1 : 0)
   );
   const nextStability = clamp(
     state.resources.stability +
@@ -64,6 +66,22 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   );
 
   let nextModules = { ...state.modules };
+  // Module load cooling and overload wear
+  Object.keys(nextModules).forEach((id) => {
+    const m = nextModules[id as StarholdModuleId];
+    const nextLoad = m.online ? clamp(m.load - 1) : clamp(m.load - 2);
+    let nextIntegrity = m.integrity;
+    
+    if (m.load >= 90) {
+      nextIntegrity = clamp(nextIntegrity - 1);
+    }
+    if (m.load >= 95) {
+      nextIntegrity = clamp(nextIntegrity - 1); // Total -2
+    }
+    
+    nextModules[id as StarholdModuleId] = { ...m, load: nextLoad, integrity: nextIntegrity };
+  });
+
   let alert = state.alert;
   let nextJournal = [...state.journal];
 
@@ -180,10 +198,11 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     modules: nextModules,
     marks: {
       // fullGrid synergy: All 4 modules online & healthy → marks decay 2× faster
-      reactorScar: clamp(state.marks.reactorScar - (state.modules.reactor.integrity >= 70 ? (mods.fullGrid ? 2 : 1) : 0)),
-      shellStrain: clamp(state.marks.shellStrain - (state.phase === "boot" ? (mods.fullGrid ? 2 : 1) : 0)),
-      supplyStress: clamp(state.marks.supplyStress - (state.modules.logistics.online ? (mods.fullGrid ? 2 : 1) : 0)),
-      voidEcho: clamp(state.marks.voidEcho - (state.modules.core.integrity >= 80 ? (mods.fullGrid ? 2 : 1) : 0)),
+      // Awakened fázisban: marks decay 50%-kal gyorsabb
+      reactorScar: clamp(state.marks.reactorScar + (state.modules.reactor.load >= 95 ? 1 : 0) - (state.modules.reactor.integrity >= 70 ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
+      shellStrain: clamp(state.marks.shellStrain + (state.modules.core.load >= 95 ? 1 : 0) - (state.phase === "boot" ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
+      supplyStress: clamp(state.marks.supplyStress + (state.modules.logistics.load >= 95 ? 1 : 0) - (state.modules.logistics.online ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
+      voidEcho: clamp(state.marks.voidEcho + (state.modules.sensor.load >= 95 ? 1 : 0) - (state.modules.core.integrity >= 80 ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
     },
     anomalies: nextAnomalies,
     entropy: nextEntropy,

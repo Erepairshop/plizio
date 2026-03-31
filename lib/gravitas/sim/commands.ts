@@ -329,6 +329,43 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         journal: pushJournal(state, GRAVITAS_TEXT.journal.rapidRepair(target.name)),
       };
     }
+    case "AVATAR_PULSE": {
+      if (state.phase !== "awakened") return state;
+      if (state.tick - state.lastAvatarPulse < 20) {
+        return withAlert(state, {
+          en: "Avatar Pulse on cooldown.",
+          hu: "Avatár impulzus újratöltődik.",
+          de: "Avatar-Puls lädt auf.",
+          ro: "Pulsul Avatar se reîncărcă.",
+        });
+      }
+      if (state.resources.power < 10) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
+
+      const alert: LocalizedString = {
+        en: "Avatar emitted a stabilizing pulse.",
+        hu: "Az Avatár stabilizáló impulzust bocsátott ki.",
+        de: "Avatar sandte einen stabilisierenden Puls aus.",
+        ro: "Avatarul a emis un puls de stabilizare.",
+      };
+
+      const nextModules = { ...state.modules };
+      (Object.keys(nextModules) as StarholdModuleId[]).forEach(id => {
+        nextModules[id] = { ...nextModules[id], integrity: clamp(nextModules[id].integrity + 1) };
+      });
+
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, {
+          power: -10,
+          stability: 15,
+        }),
+        entropy: clamp(state.entropy - 2),
+        modules: nextModules,
+        lastAvatarPulse: state.tick,
+        alert,
+        journal: pushJournal(state, alert),
+      };
+    }
     case "RESOLVE_EVENT": {
       return checkStarholdMilestones(resolveStarholdEvent(state, command.optionId));
     }
