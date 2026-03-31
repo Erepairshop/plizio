@@ -12,7 +12,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const mods = getStarholdModifiers(state);
   const reactorBoost = state.modules.reactor.online ? 2 : 0;
   const logisticsDrain = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
-  const sensorStability = state.modules.sensor.online ? 1 : 0;
+  // sensorBoost synergy: Reactor + Sensor both healthy → +2 stability instead of +1
+  const sensorStability = state.modules.sensor.online ? (mods.sensorBoost ? 2 : 1) : 0;
   const phaseDrain = state.phase === "activation" ? 1 : 0;
 
   // Crisis / Stability checks
@@ -46,7 +47,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const stabilityBuffer = isHighStability ? 2 : 0;
 
   const nextPower = clamp(
-    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0)
+    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0)
   );
   const nextStability = clamp(
     state.resources.stability +
@@ -94,7 +95,9 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const glitchThreshold = isCrisis ? 8 : 10;
   if (totalMarks > glitchThreshold && state.tick % (isCrisis ? 3 : 5) === 0) {
     const affectedModuleId = (["reactor", "logistics", "core", "sensor"] as const)[state.tick % 4];
-    const damage = (isCrisis ? 4 : 2) + Math.floor(totalMarks / 5);
+    const baseDamage = (isCrisis ? 4 : 2) + Math.floor(totalMarks / 5);
+    // coreShield synergy: Logistics + Core both healthy → core takes 50% less integrity damage from glitches
+    const damage = (affectedModuleId === "core" && mods.coreShield) ? Math.max(1, Math.floor(baseDamage / 2)) : baseDamage;
     nextModules[affectedModuleId] = {
       ...nextModules[affectedModuleId],
       integrity: clamp(nextModules[affectedModuleId].integrity - damage),
@@ -176,10 +179,11 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     },
     modules: nextModules,
     marks: {
-      reactorScar: clamp(state.marks.reactorScar - (state.modules.reactor.integrity >= 70 ? 1 : 0)),
-      shellStrain: clamp(state.marks.shellStrain - (state.phase === "boot" ? 1 : 0)),
-      supplyStress: clamp(state.marks.supplyStress - (state.modules.logistics.online ? 1 : 0)),
-      voidEcho: clamp(state.marks.voidEcho - (state.modules.core.integrity >= 80 ? 1 : 0)),
+      // fullGrid synergy: All 4 modules online & healthy → marks decay 2× faster
+      reactorScar: clamp(state.marks.reactorScar - (state.modules.reactor.integrity >= 70 ? (mods.fullGrid ? 2 : 1) : 0)),
+      shellStrain: clamp(state.marks.shellStrain - (state.phase === "boot" ? (mods.fullGrid ? 2 : 1) : 0)),
+      supplyStress: clamp(state.marks.supplyStress - (state.modules.logistics.online ? (mods.fullGrid ? 2 : 1) : 0)),
+      voidEcho: clamp(state.marks.voidEcho - (state.modules.core.integrity >= 80 ? (mods.fullGrid ? 2 : 1) : 0)),
     },
     anomalies: nextAnomalies,
     entropy: nextEntropy,
