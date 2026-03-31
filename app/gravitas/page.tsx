@@ -6,9 +6,10 @@ import Link from "next/link";
 import { ChevronLeft, Power, Wrench, Radar, Cpu } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
+import GravitasAwakening from "@/components/gravitas/GravitasAwakening";
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
-import { saveGravitasState, loadGravitasState } from "@/lib/gravitas/sim/persistence";
+import { saveGravitasState, loadGravitasState, clearGravitasState } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer, getActivationStageInfo } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
@@ -71,6 +72,7 @@ const T = {
     actionCoreHint: "Push the station toward the awakening threshold.",
     actionSensorHint: "Bring the long-range distortion grid back online.",
     back: "Home",
+    newGame: "New game",
   },
   hu: {
     title: "Gravitas",
@@ -128,6 +130,7 @@ const T = {
     actionCoreHint: "Közelebb tolod az állomást az ébredési küszöbhöz.",
     actionSensorHint: "Újraéleszted a távoli torzulásfigyelő hálót.",
     back: "Főoldal",
+    newGame: "Új játék",
   },
   de: {
     title: "Gravitas",
@@ -185,6 +188,7 @@ const T = {
     actionCoreHint: "Schiebe die Station näher an die Erwachensschwelle.",
     actionSensorHint: "Hole das Distortionsgitter auf Reichweite zurück.",
     back: "Start",
+    newGame: "Neues Spiel",
   },
   ro: {
     title: "Gravitas",
@@ -242,6 +246,7 @@ const T = {
     actionCoreHint: "Împinge stația mai aproape de pragul trezirii.",
     actionSensorHint: "Repune în funcțiune rețeaua de distorsiuni la distanță.",
     back: "Acasă",
+    newGame: "Joc nou",
   },
 } as const;
 
@@ -304,7 +309,8 @@ const MODULE_COPY = {
   },
 } as const;
 
-function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" }) {
+function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" } | { type: "__RESET__" }) {
+  if (command.type === "__RESET__") return createInitialStarholdState();
   if (command.type === "__TICK__") {
     return advanceStarholdTick(state);
   }
@@ -334,6 +340,8 @@ export default function GravitasPage() {
     () => loadGravitasState() ?? createInitialStarholdState()
   );
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
+  const [showAwakening, setShowAwakening] = useState(false);
+  const didShowAwakening = useRef(false);
   const holdRef = useRef<number | null>(null);
 
   useEffect(() => {
@@ -354,6 +362,13 @@ export default function GravitasPage() {
       }
     };
   }, []);
+
+  useEffect(() => {
+    if (state.avatarAwake && !didShowAwakening.current) {
+      didShowAwakening.current = true;
+      setShowAwakening(true);
+    }
+  }, [state.avatarAwake]);
 
   const phaseLabel = useMemo(() => {
     if (state.phase === "boot") return t.phaseBoot;
@@ -377,6 +392,13 @@ export default function GravitasPage() {
     }
   };
 
+  const handleNewGame = () => {
+    if (!window.confirm(t.newGame + "?")) return;
+    clearGravitasState();
+    dispatch({ type: "__RESET__" });
+    setSelectedModule("core");
+  };
+
   const selectedModuleState = state.modules[selectedModule];
   const totalMarks = state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress;
   const driftRiskLabel =
@@ -394,28 +416,36 @@ export default function GravitasPage() {
   const transferStages = [t.transferStage1, t.transferStage2, t.transferStage3, t.transferStage4];
 
   return (
-    <main className="min-h-screen bg-[#050816] text-white px-4 py-5 sm:px-6 sm:py-6">
+    <main className="min-h-screen bg-[#050816] text-white px-3 py-4 sm:px-6 sm:py-6">
       <div className="mx-auto max-w-[1180px]">
-        <div className="flex items-center justify-between gap-3 mb-5">
-          <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
-            <ChevronLeft size={16} /> {t.back}
-          </Link>
+        <div className="flex items-center justify-between gap-3 mb-4 sm:mb-5">
+          <div className="flex items-center gap-4">
+            <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
+              <ChevronLeft size={16} /> {t.back}
+            </Link>
+            <button
+              onClick={handleNewGame}
+              className="text-xs text-white/40 hover:text-white/70 transition-colors font-medium"
+            >
+              {t.newGame}
+            </button>
+          </div>
           <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{phaseLabel}</div>
         </div>
 
-        <div className="grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
-          <section className="rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-5 sm:p-6 shadow-2xl">
-            <div className="flex flex-wrap items-start justify-between gap-4">
-              <div>
+        <div className="grid gap-4 sm:gap-5 lg:grid-cols-[1.2fr_0.8fr]">
+          <section className="rounded-[20px] sm:rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-4 sm:p-6 shadow-2xl">
+            <div className="flex items-start justify-between gap-3">
+              <div className="min-w-0 flex-1">
                 <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{t.title}</div>
-                <h1 className="mt-3 text-3xl sm:text-5xl font-black">{t.subtitle}</h1>
+                <h1 className="mt-2 sm:mt-3 text-lg sm:text-3xl lg:text-5xl font-black leading-snug">{t.subtitle}</h1>
               </div>
-              <div className="w-28 h-28 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
-                <div className={`w-16 h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
+              <div className="w-20 h-20 sm:w-28 sm:h-28 shrink-0 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
+                <div className={`w-11 h-11 sm:w-16 sm:h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
               </div>
             </div>
 
-            <div className="mt-6">
+            <div className="mt-4 sm:mt-6">
               <GravitasHUD
                 power={state.resources.power}
                 materials={state.resources.materials}
@@ -424,12 +454,13 @@ export default function GravitasPage() {
               />
             </div>
 
-            <div className="mt-6">
+            <div className="mt-4 sm:mt-6 overflow-hidden rounded-xl" style={{ maxHeight: "min(56vw, 360px)" }}>
               <GravitasScene
                 state={state}
                 selectedModule={selectedModule}
                 onSelectModule={setSelectedModule}
                 activeEventId={state.pendingEvent?.id ?? null}
+                pendingEvent={state.pendingEvent}
               />
             </div>
 
@@ -718,6 +749,9 @@ export default function GravitasPage() {
           </aside>
         </div>
       </div>
+      {showAwakening && (
+        <GravitasAwakening lang={lang} onDone={() => setShowAwakening(false)} />
+      )}
     </main>
   );
 }
