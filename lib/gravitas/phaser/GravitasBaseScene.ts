@@ -1,4 +1,4 @@
-import * as Phaser from "phaser";
+import Phaser from "phaser";
 import type { StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
 
 const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
@@ -25,6 +25,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       hitbox: Phaser.GameObjects.Arc;
       label: Phaser.GameObjects.Text;
       value: Phaser.GameObjects.Text;
+      anomalyGfx: Phaser.GameObjects.Graphics;
     }
   >();
   private coreGlow!: Phaser.GameObjects.Arc;
@@ -35,6 +36,7 @@ export class GravitasBaseScene extends Phaser.Scene {
   private eventText!: Phaser.GameObjects.Text;
   private twinkleStars: { node: Phaser.GameObjects.Arc; phase: number; speed: number; scale: number }[] = [];
   private animTime = 0;
+  private lastResonance = 0;
 
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
@@ -94,6 +96,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
       const glow = this.add.circle(pos.x, pos.y, 26, 0x4b5563, 0.18);
       const hitbox = this.add.circle(pos.x, pos.y, 34, 0xffffff, 0.001).setInteractive({ useHandCursor: true });
+      const anomalyGfx = this.add.graphics();
       const label = this.add
         .text(pos.x, pos.y - 40, moduleId.toUpperCase(), {
           fontFamily: "Arial",
@@ -112,8 +115,8 @@ export class GravitasBaseScene extends Phaser.Scene {
       hitbox.on("pointerdown", () => {
         this.onSelectModule?.(moduleId);
       });
-      this.root.add([glow, hitbox, label, value]);
-      this.moduleNodes.set(moduleId, { glow, hitbox, label, value });
+      this.root.add([glow, hitbox, anomalyGfx, label, value]);
+      this.moduleNodes.set(moduleId, { glow, hitbox, label, value, anomalyGfx });
     }
 
     this.phaseText = this.add.text(22, 18, "", {
@@ -140,26 +143,29 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.drawHudPanels(width, height);
   }
 
-  syncState(
-    state: StarholdState,
-    selectedModule: StarholdModuleId,
-    activeEventId: StarholdEventId | null,
-    chainStep?: number,
-    chainTotal?: number,
-  ) {
-    if (!this.ringGfx) return;
+  syncState(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null) {
     this.drawRings();
-    this.drawLinks(state, selectedModule, activeEventId, chainStep, chainTotal);
+    this.drawLinks(state, selectedModule, activeEventId, state.resonance);
 
     const awake = state.avatarAwake;
-    const coreAccent = activeEventId === "signalPulse" ? 0xf472b6 : 0x23d3ee;
-    this.coreGlow.setRadius(awake ? 90 : activeEventId === "signalPulse" ? 84 : 72);
-    this.coreGlow.setFillStyle(awake ? 0xf472b6 : coreAccent, awake ? 0.2 : activeEventId === "signalPulse" ? 0.18 : 0.12);
-    this.coreShell.setFillStyle(awake ? 0xf472b6 : 0xf8fafc, awake ? 0.55 : 0.14);
+    const voidIntensity = state.marks.voidEcho > 8 ? 1.0 : state.marks.voidEcho / 10;
+    const resonanceFactor = state.resonance / 100;
+    const coreAccent = activeEventId === "signalPulse" ? 0xf472b6 : state.marks.voidEcho > 5 ? 0x818cf8 : 0x23d3ee;
 
+    this.coreGlow.setRadius(awake ? 90 : activeEventId === "signalPulse" ? 84 : 72 + state.marks.voidEcho + (state.resonance * 0.4));
+    this.coreGlow.setFillStyle(awake ? 0xf472b6 : coreAccent, awake ? 0.2 : activeEventId === "signalPulse" ? 0.18 : 0.12 + (voidIntensity * 0.1) + (resonanceFactor * 0.2));
+    this.coreShell.setFillStyle(awake ? 0xf472b6 : state.marks.voidEcho > 8 ? 0xeef2ff : 0xf8fafc, awake ? 0.55 : 0.14 + (resonanceFactor * 0.1));
     for (const [moduleId, node] of this.moduleNodes) {
       const module = state.modules[moduleId];
       const isSelected = selectedModule === moduleId;
+
+      const anomalies = state.anomalies.filter(a =>
+        (moduleId === "sensor" && a.id === "sensorGhost") ||
+        (moduleId === "logistics" && a.id === "materialEntropy") ||
+        (moduleId === "core" && a.id === "voidLeak") ||
+        (moduleId === "reactor" && a.id === "coreTremor")
+      );
+
       const eventColor =
         activeEventId === "powerFluctuation" && moduleId === "reactor"
           ? 0xfb7185
@@ -168,30 +174,51 @@ export class GravitasBaseScene extends Phaser.Scene {
             : activeEventId === "signalPulse" && moduleId === "core"
               ? 0xf472b6
               : null;
-      const color = eventColor ?? (module.online ? 0x22d3ee : 0x6b7280);
+
+      const color = eventColor ?? (module.online ? (anomalies.length > 0 ? 0xf87171 : 0x22d3ee) : 0x6b7280);
       node.glow.setFillStyle(isSelected ? 0xf472b6 : color, isSelected ? 0.36 : module.online ? 0.32 : 0.16);
       node.glow.setRadius(isSelected ? 34 : module.online ? 30 : 24);
-      node.label.setColor(isSelected ? "#fce7f3" : module.online ? "#ecfeff" : "#94a3b8");
+      node.label.setColor(isSelected ? "#fce7f3" : module.online ? (anomalies.length > 0 ? "#fecaca" : "#ecfeff") : "#94a3b8");
       node.value.setText(`${module.integrity}% | ${module.load}%`);
-      node.value.setColor(isSelected ? "#f9a8d4" : eventColor ? "#fde68a" : module.online ? "#67e8f9" : "#94a3b8");
+      node.value.setColor(isSelected ? "#f9a8d4" : eventColor ? "#fde68a" : module.online ? (anomalies.length > 0 ? "#fca5a5" : "#67e8f9") : "#94a3b8");
+
+      node.anomalyGfx.clear();
+      if (anomalies.length > 0) {
+        node.anomalyGfx.lineStyle(2, 0xf87171, 0.8);
+        const pos = MODULE_POSITIONS[moduleId];
+        node.anomalyGfx.strokeCircle(pos.x, pos.y, 42);
+        // Draw glitch lines
+        for(let i=0; i<3; i++) {
+           const angle = Math.random() * Math.PI * 2;
+           const r = 38 + Math.random() * 8;
+           node.anomalyGfx.lineStyle(1, 0xf87171, 0.5);
+           node.anomalyGfx.lineBetween(
+             pos.x + Math.cos(angle) * r,
+             pos.y + Math.sin(angle) * r,
+             pos.x + Math.cos(angle) * (r+10),
+             pos.y + Math.sin(angle) * (r+10)
+           );
+        }
+      }
     }
 
     this.phaseText.setText(`PHASE ${state.phase.toUpperCase()}  |  TICK ${state.tick}`);
     this.resourceText.setText(
-      `PWR ${state.resources.power}   MAT ${state.resources.materials}   STB ${state.resources.stability}   ACT ${state.resources.activation}`
+      `PWR ${state.resources.power}  MAT ${state.resources.materials}  STB ${state.resources.stability}  ACT ${state.resources.activation}  VD ${state.marks.voidEcho}  RES ${Math.floor(state.resonance)}`
     );
-    const chainSuffix =
-      activeEventId && chainStep != null && chainTotal != null && chainTotal > 1
-        ? ` [${chainStep}/${chainTotal}]`
-        : "";
-    this.eventText.setText(activeEventId ? `ALERT ${activeEventId.toUpperCase()}${chainSuffix}` : "");
+    this.eventText.setText(activeEventId ? `ALERT ${activeEventId.toUpperCase()}` : "");
   }
 
   update(_time: number, delta: number) {
     this.animTime += delta / 1000;
 
-    const swayX = Math.sin(this.animTime * 0.24) * 2.2;
-    const swayY = Math.cos(this.animTime * 0.18) * 1.4;
+    // Shake based on resonance
+    const resonanceShake = this.lastResonance > 75
+       ? (Math.random() - 0.5) * ((this.lastResonance - 75) / 5)
+       : 0;
+
+    const swayX = Math.sin(this.animTime * 0.24) * 2.2 + resonanceShake;
+    const swayY = Math.cos(this.animTime * 0.18) * 1.4 + resonanceShake;
     this.root.setPosition(swayX, swayY);
 
     const pulse = 1 + Math.sin(this.animTime * 1.8) * 0.025;
@@ -247,16 +274,9 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.ringGfx.strokeCircle(420, 255, 215);
   }
 
-  private drawLinks(
-    state: StarholdState,
-    selectedModule: StarholdModuleId,
-    activeEventId: StarholdEventId | null,
-    chainStep?: number,
-    chainTotal?: number,
-  ) {
+  private drawLinks(state: StarholdState, selectedModule: StarholdModuleId, activeEventId: StarholdEventId | null, resonance: number = 0) {
     this.linkGfx.clear();
-
-    const isChainStep2 = activeEventId != null && chainStep != null && chainTotal != null && chainStep >= 2;
+    this.lastResonance = resonance;
 
     for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
       const module = state.modules[moduleId];
@@ -269,14 +289,24 @@ export class GravitasBaseScene extends Phaser.Scene {
             : activeEventId === "signalPulse" && moduleId === "core"
               ? 0xf472b6
               : null;
-      const isEventModule = eventColor != null;
-      const chainBoost = isChainStep2 && isEventModule;
+
+      const isTransferring = resonance > 0 && (moduleId === "reactor" || isSelected);
+
       this.linkGfx.lineStyle(
-        isSelected ? 4 : chainBoost ? 4 : module.online ? 3 : 2,
-        isSelected ? 0xf472b6 : eventColor ?? (module.online ? 0x22d3ee : 0x475569),
-        isSelected ? 0.7 : chainBoost ? 0.9 : module.online ? 0.6 : 0.35,
+        isSelected ? 4 : module.online ? 3 : 2,
+        isSelected ? 0xf472b6 : eventColor ?? (module.online ? (isTransferring ? 0xf472b6 : 0x22d3ee) : 0x475569),
+        isSelected ? 0.7 : module.online ? (isTransferring ? 0.8 : 0.6) : 0.35
       );
       this.linkGfx.lineBetween(420, 255, pos.x, pos.y);
+
+      if (isTransferring) {
+        // Energy pulse towards core
+        const t = (this.animTime * (1.5 + resonance / 50)) % 1;
+        const px = pos.x + (420 - pos.x) * t;
+        const py = pos.y + (255 - pos.y) * t;
+        this.linkGfx.fillStyle(0xffffff, 0.6 + (resonance / 200));
+        this.linkGfx.fillCircle(px, py, 2 + (resonance / 30));
+      }
     }
   }
 }

@@ -1,27 +1,23 @@
 "use client";
 
 import { useEffect, useMemo, useReducer, useRef, useState } from "react";
-import dynamic from "next/dynamic";
 import Link from "next/link";
 import { ChevronLeft, Power, Wrench, Radar, Cpu } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
-import GravitasAwakening from "@/components/gravitas/GravitasAwakening";
-const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
+import GravitasScene from "@/components/gravitas/GravitasScene";
+import GravitasActivation from "@/components/gravitas/GravitasActivation";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
-import { saveGravitasState, loadGravitasState, clearGravitasState } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
-import { canStartActivationTransfer, getActivationStageInfo } from "@/lib/gravitas/sim/activation";
+import { canStartActivationTransfer } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
 import type { StarholdCommand, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
+import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
 
 const T = {
   en: {
     title: "Gravitas",
     subtitle: "A damaged station. A dormant shell. Bring the system back online.",
-    phaseBoot: "Boot Phase",
-    phaseActivation: "Activation Phase",
-    phaseAwakened: "Awakened",
     scavenge: "Scavenge materials",
     stabilize: "Stabilize reactor",
     reroute: "Reroute power to core",
@@ -30,10 +26,12 @@ const T = {
     holdHint: "Press and hold the center control to push your energy into the dormant shell.",
     transferTitle: "Awakening transfer",
     transferStageLabel: "Activation ladder",
+    transferStage0: "Dormant shell",
     transferStage1: "Conduit primed",
     transferStage2: "Pulse anchored",
     transferStage3: "Shell resonance",
     transferStage4: "Conscious spark",
+    resonance: "Resonance",
     transferReady: "The chamber is listening. Hold the transfer and push your own pulse into the shell.",
     transferLocked: "Stabilize the station first, then route power into the core chamber.",
     awakeningMoment: "Awakening moment",
@@ -58,13 +56,14 @@ const T = {
     selectedRole: "Role",
     marks: "Persistent marks",
     driftRisk: "Drift risk",
-    riskLow: "Low",
-    riskRising: "Rising",
-    riskCritical: "Critical",
     riskHint: "If scars, strain and supply stress accumulate together, the station can start falling into repeating patterns.",
     reactorScar: "Reactor scar",
     shellStrain: "Shell strain",
     supplyStress: "Supply stress",
+    voidEcho: "Void echo",
+    anomalies: "Active anomalies",
+    purge: "Purge",
+    severity: "Severity",
     repairSensor: "Repair sensor node",
     repairCore: "Repair core shell",
     actionScavengeHint: "Send a short salvage run into the outer ring.",
@@ -72,14 +71,10 @@ const T = {
     actionCoreHint: "Push the station toward the awakening threshold.",
     actionSensorHint: "Bring the long-range distortion grid back online.",
     back: "Home",
-    newGame: "New game",
   },
   hu: {
     title: "Gravitas",
     subtitle: "Sérült állomás. Szunnyadó test. Indítsd újra a rendszert.",
-    phaseBoot: "Boot fázis",
-    phaseActivation: "Aktiválási fázis",
-    phaseAwakened: "Felébredt",
     scavenge: "Nyersanyag gyűjtése",
     stabilize: "Reaktor stabilizálása",
     reroute: "Energia átirányítása a maghoz",
@@ -88,10 +83,12 @@ const T = {
     holdHint: "Nyomd és tartsd a központi vezérlőt, mintha az erő belőled áramlana a szunnyadó testbe.",
     transferTitle: "Ébresztési átadás",
     transferStageLabel: "Aktiválási lépcső",
+    transferStage0: "Szunnyadó test",
     transferStage1: "Csatorna nyitva",
     transferStage2: "Pulzus rögzítve",
     transferStage3: "Testrezgés",
     transferStage4: "Tudati szikra",
+    resonance: "Rezonancia",
     transferReady: "A kamra már figyel. Tartsd az átvitelt, és told át a saját pulzusodat a testbe.",
     transferLocked: "Előbb stabilizáld az állomást, majd irányíts energiát a magkamrába.",
     awakeningMoment: "Ébredési pillanat",
@@ -116,13 +113,14 @@ const T = {
     selectedRole: "Szerep",
     marks: "Tartós nyomok",
     driftRisk: "Drift kockázat",
-    riskLow: "Alacsony",
-    riskRising: "Emelkedő",
-    riskCritical: "Kritikus",
     riskHint: "Ha a sebek, a testfeszülés és az ellátási nyomás együtt nőnek, az állomás ismétlődő mintákba csúszhat.",
     reactorScar: "Reaktorseb",
     shellStrain: "Testfeszülés",
     supplyStress: "Ellátási nyomás",
+    voidEcho: "Void visszhang",
+    anomalies: "Aktív anomáliák",
+    purge: "Semlegesítés",
+    severity: "Súlyosság",
     repairSensor: "Szenzormodul javítása",
     repairCore: "Maghéj javítása",
     actionScavengeHint: "Rövid mentést küldesz a külső gyűrűbe.",
@@ -130,14 +128,10 @@ const T = {
     actionCoreHint: "Közelebb tolod az állomást az ébredési küszöbhöz.",
     actionSensorHint: "Újraéleszted a távoli torzulásfigyelő hálót.",
     back: "Főoldal",
-    newGame: "Új játék",
   },
   de: {
     title: "Gravitas",
     subtitle: "Eine beschädigte Station. Eine schlafende Hülle. Bring das System zurück.",
-    phaseBoot: "Boot-Phase",
-    phaseActivation: "Aktivierungsphase",
-    phaseAwakened: "Erwacht",
     scavenge: "Material bergen",
     stabilize: "Reaktor stabilisieren",
     reroute: "Energie zum Kern umleiten",
@@ -146,10 +140,12 @@ const T = {
     holdHint: "Halte die zentrale Steuerung gedrückt, als würdest du selbst Energie in die schlafende Hülle leiten.",
     transferTitle: "Erweckungstransfer",
     transferStageLabel: "Aktivierungsleiter",
+    transferStage0: "Schlafende Hülle",
     transferStage1: "Leitung geöffnet",
     transferStage2: "Puls verankert",
     transferStage3: "Hüllenresonanz",
     transferStage4: "Bewusstseinsfunke",
+    resonance: "Resonanz",
     transferReady: "Die Kammer hört zu. Halte den Transfer und drücke deinen Puls in die Hülle.",
     transferLocked: "Stabilisiere zuerst die Station und leite dann Energie in die Kernkammer.",
     awakeningMoment: "Erwachensmoment",
@@ -174,13 +170,14 @@ const T = {
     selectedRole: "Rolle",
     marks: "Dauerhafte Spuren",
     driftRisk: "Driftrisiko",
-    riskLow: "Niedrig",
-    riskRising: "Steigend",
-    riskCritical: "Kritisch",
     riskHint: "Wenn Narben, Hüllenspannung und Versorgungsdruck gemeinsam wachsen, kann die Station in Wiederholungsmuster fallen.",
     reactorScar: "Reaktornarbe",
     shellStrain: "Hüllenspannung",
     supplyStress: "Versorgungsdruck",
+    voidEcho: "Void-Echo",
+    anomalies: "Aktive Anomalien",
+    purge: "Tilgen",
+    severity: "Stärke",
     repairSensor: "Sensorenknoten reparieren",
     repairCore: "Kernhülle reparieren",
     actionScavengeHint: "Schicke einen kurzen Bergungslauf in den äußeren Ring.",
@@ -188,14 +185,10 @@ const T = {
     actionCoreHint: "Schiebe die Station näher an die Erwachensschwelle.",
     actionSensorHint: "Hole das Distortionsgitter auf Reichweite zurück.",
     back: "Start",
-    newGame: "Neues Spiel",
   },
   ro: {
     title: "Gravitas",
     subtitle: "O stație avariată. Un corp adormit. Repune sistemul în viață.",
-    phaseBoot: "Faza Boot",
-    phaseActivation: "Faza de activare",
-    phaseAwakened: "Trezit",
     scavenge: "Colectează resurse",
     stabilize: "Stabilizează reactorul",
     reroute: "Redirecționează energia spre nucleu",
@@ -204,10 +197,12 @@ const T = {
     holdHint: "Ține apăsat controlul central, ca și cum energia ar curge din tine în corpul adormit.",
     transferTitle: "Transfer de trezire",
     transferStageLabel: "Scara activării",
+    transferStage0: "Corp adormit",
     transferStage1: "Canal deschis",
     transferStage2: "Puls fixat",
     transferStage3: "Rezonanța corpului",
     transferStage4: "Scânteie conștientă",
+    resonance: "Rezonanță",
     transferReady: "Camera ascultă deja. Ține transferul și împinge propriul puls în corp.",
     transferLocked: "Stabilizează mai întâi stația, apoi redirecționează energia spre camera nucleului.",
     awakeningMoment: "Momentul trezirii",
@@ -232,13 +227,14 @@ const T = {
     selectedRole: "Rol",
     marks: "Urme persistente",
     driftRisk: "Risc de derivă",
-    riskLow: "Scăzut",
-    riskRising: "În creștere",
-    riskCritical: "Critic",
     riskHint: "Dacă cicatricile, tensiunea și presiunea logistică cresc împreună, stația poate aluneca în tipare repetitive.",
     reactorScar: "Cicatrice reactor",
     shellStrain: "Tensiune corp",
     supplyStress: "Presiune logistică",
+    voidEcho: "Ecou void",
+    anomalies: "Anomalii active",
+    purge: "Purjează",
+    severity: "Severitate",
     repairSensor: "Repară nodul senzor",
     repairCore: "Repară carcasa nucleului",
     actionScavengeHint: "Trimite o scurtă recuperare în inelul exterior.",
@@ -246,71 +242,10 @@ const T = {
     actionCoreHint: "Împinge stația mai aproape de pragul trezirii.",
     actionSensorHint: "Repune în funcțiune rețeaua de distorsiuni la distanță.",
     back: "Acasă",
-    newGame: "Joc nou",
   },
 } as const;
 
-const MODULE_COPY = {
-  en: {
-    reactor: {
-      role: "Keeps the station breathing and smooths out dangerous power spikes.",
-    },
-    logistics: {
-      role: "Pulls salvage in from the outer hull and reopens dormant supply routes.",
-    },
-    core: {
-      role: "Holds the dormant shell and becomes the center of the awakening ritual.",
-    },
-    sensor: {
-      role: "Reads distortion, signal drift and faint activity beyond the hull.",
-    },
-  },
-  hu: {
-    reactor: {
-      role: "Életben tartja az állomást és kisimítja a veszélyes energialökéseket.",
-    },
-    logistics: {
-      role: "Begyűjti a külső roncsmezőből a nyersanyagot és újranyitja az ellátási útvonalakat.",
-    },
-    core: {
-      role: "Itt nyugszik a szunnyadó test, és ez lesz az ébredés központja.",
-    },
-    sensor: {
-      role: "A torzulásokat, jeleltolódásokat és a burkon túli halvány aktivitást figyeli.",
-    },
-  },
-  de: {
-    reactor: {
-      role: "Hält die Station am Leben und dämpft gefährliche Energiespitzen.",
-    },
-    logistics: {
-      role: "Zieht Bergungsgut aus der Außenhülle und öffnet Versorgungslinien erneut.",
-    },
-    core: {
-      role: "Hier ruht die schlafende Hülle, und hier beginnt das Erwachen.",
-    },
-    sensor: {
-      role: "Erfasst Verzerrungen, Signaldrift und schwache Aktivität außerhalb der Hülle.",
-    },
-  },
-  ro: {
-    reactor: {
-      role: "Ține stația în viață și amortizează vârfurile periculoase de energie.",
-    },
-    logistics: {
-      role: "Aduce materiale din carcasa exterioară și redeschide rutele de aprovizionare.",
-    },
-    core: {
-      role: "Aici se află corpul adormit și tot aici începe trezirea.",
-    },
-    sensor: {
-      role: "Citește distorsiuni, deviații de semnal și activitate slabă dincolo de carcasă.",
-    },
-  },
-} as const;
-
-function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" } | { type: "__RESET__" }) {
-  if (command.type === "__RESET__") return createInitialStarholdState();
+function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" }) {
   if (command.type === "__TICK__") {
     return advanceStarholdTick(state);
   }
@@ -333,20 +268,11 @@ function moduleIcon(moduleId: StarholdModuleId) {
 export default function GravitasPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
-  const moduleCopy = MODULE_COPY[lang as keyof typeof MODULE_COPY] ?? MODULE_COPY.en;
-  const [state, dispatch] = useReducer(
-    reducer,
-    undefined,
-    () => loadGravitasState() ?? createInitialStarholdState()
-  );
-  const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
-  const [showAwakening, setShowAwakening] = useState(false);
-  const didShowAwakening = useRef(false);
-  const holdRef = useRef<number | null>(null);
+  const content = GRAVITAS_TEXT;
 
-  useEffect(() => {
-    saveGravitasState(state);
-  }, [state]);
+  const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
+  const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
+  const holdRef = useRef<number | null>(null);
 
   useEffect(() => {
     const id = window.setInterval(() => {
@@ -363,26 +289,20 @@ export default function GravitasPage() {
     };
   }, []);
 
-  useEffect(() => {
-    if (state.avatarAwake && !didShowAwakening.current) {
-      didShowAwakening.current = true;
-      setShowAwakening(true);
-    }
-  }, [state.avatarAwake]);
-
   const phaseLabel = useMemo(() => {
-    if (state.phase === "boot") return t.phaseBoot;
-    if (state.phase === "activation") return t.phaseActivation;
-    return t.phaseAwakened;
-  }, [state.phase, t]);
+    const ui = content.ui;
+    if (state.phase === "boot") return ui.phaseBoot[lang as keyof typeof ui.phaseBoot] ?? ui.phaseBoot.en;
+    if (state.phase === "activation") return ui.phaseActivation[lang as keyof typeof ui.phaseActivation] ?? ui.phaseActivation.en;
+    return ui.phaseAwakened[lang as keyof typeof ui.phaseAwakened] ?? ui.phaseAwakened.en;
+  }, [state.phase, lang, content.ui]);
 
   const canReroute = canStartActivationTransfer(state);
 
   const beginTransfer = () => {
     if (state.phase !== "activation" || holdRef.current !== null || state.avatarAwake) return;
     holdRef.current = window.setInterval(() => {
-      dispatch({ type: "CHANNEL_TO_CORE", amount: 4 });
-    }, 160);
+      dispatch({ type: "CHANNEL_TO_CORE", amount: 0.6 });
+    }, 60);
   };
 
   const stopTransfer = () => {
@@ -392,60 +312,43 @@ export default function GravitasPage() {
     }
   };
 
-  const handleNewGame = () => {
-    if (!window.confirm(t.newGame + "?")) return;
-    clearGravitasState();
-    dispatch({ type: "__RESET__" });
-    setSelectedModule("core");
-  };
-
   const selectedModuleState = state.modules[selectedModule];
-  const totalMarks = state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress;
-  const driftRiskLabel =
-    totalMarks >= 7 ? t.riskCritical : totalMarks >= 4 ? t.riskRising : t.riskLow;
+  const totalMarks = state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress + state.marks.voidEcho;
+  const driftRiskLabel = useMemo(() => {
+    const ui = content.ui;
+    const labelObj = totalMarks >= 7 ? ui.riskCritical : totalMarks >= 4 ? ui.riskRising : ui.riskLow;
+    return labelObj[lang as keyof typeof labelObj] ?? labelObj.en;
+  }, [totalMarks, lang, content.ui]);
+
   const activationPercent = state.resources.activation;
-  const activationStageInfo = useMemo(
-    () => getActivationStageInfo(activationPercent, state.avatarAwake),
-    [activationPercent, state.avatarAwake]
-  );
-  const transferStage = activationStageInfo.stage;
   const moduleActions = useMemo(
     () => getGravitasActionSlots(selectedModule, state),
     [selectedModule, state]
   );
-  const transferStages = [t.transferStage1, t.transferStage2, t.transferStage3, t.transferStage4];
 
   return (
-    <main className="min-h-screen bg-[#050816] text-white px-3 py-4 sm:px-6 sm:py-6">
+    <main className="min-h-screen bg-[#050816] text-white px-4 py-5 sm:px-6 sm:py-6">
       <div className="mx-auto max-w-[1180px]">
-        <div className="flex items-center justify-between gap-3 mb-4 sm:mb-5">
-          <div className="flex items-center gap-4">
-            <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
-              <ChevronLeft size={16} /> {t.back}
-            </Link>
-            <button
-              onClick={handleNewGame}
-              className="text-xs text-white/40 hover:text-white/70 transition-colors font-medium"
-            >
-              {t.newGame}
-            </button>
-          </div>
+        <div className="flex items-center justify-between gap-3 mb-5">
+          <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
+            <ChevronLeft size={16} /> {t.back}
+          </Link>
           <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{phaseLabel}</div>
         </div>
 
-        <div className="grid gap-4 sm:gap-5 lg:grid-cols-[1.2fr_0.8fr]">
-          <section className="rounded-[20px] sm:rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-3 sm:p-6 shadow-2xl">
-            <div className="flex items-start justify-between gap-3">
-              <div className="min-w-0 flex-1">
+        <div className="grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
+          <section className="rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.12),transparent_40%),rgba(255,255,255,0.04)] backdrop-blur-xl p-5 sm:p-6 shadow-2xl">
+            <div className="flex flex-wrap items-start justify-between gap-4">
+              <div>
                 <div className="text-xs uppercase tracking-[0.35em] text-cyan-300 font-black">{t.title}</div>
-                <h1 className="mt-2 sm:mt-3 text-base sm:text-2xl lg:text-4xl font-black leading-snug">{t.subtitle}</h1>
+                <h1 className="mt-3 text-3xl sm:text-5xl font-black">{t.subtitle}</h1>
               </div>
-              <div className="w-16 h-16 sm:w-24 sm:h-24 shrink-0 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
-                <div className={`w-9 h-9 sm:w-14 sm:h-14 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
+              <div className="w-28 h-28 rounded-full border border-cyan-300/30 bg-cyan-400/10 flex items-center justify-center shadow-[0_0_60px_rgba(34,211,238,0.16)]">
+                <div className={`w-16 h-16 rounded-full transition-all duration-500 ${state.avatarAwake ? "bg-pink-400 shadow-[0_0_45px_rgba(244,114,182,0.7)]" : "bg-white/15"}`} />
               </div>
             </div>
 
-            <div className="mt-4 sm:mt-6">
+            <div className="mt-6">
               <GravitasHUD
                 power={state.resources.power}
                 materials={state.resources.materials}
@@ -454,17 +357,16 @@ export default function GravitasPage() {
               />
             </div>
 
-            <div className="mt-4 sm:mt-6 overflow-hidden rounded-xl" style={{ maxHeight: "min(52vw, 340px)", minHeight: "180px" }}>
+            <div className="mt-6">
               <GravitasScene
                 state={state}
                 selectedModule={selectedModule}
                 onSelectModule={setSelectedModule}
                 activeEventId={state.pendingEvent?.id ?? null}
-                pendingEvent={state.pendingEvent}
               />
             </div>
 
-            <div className="mt-5 sm:mt-6 grid gap-4 md:grid-cols-2">
+            <div className="mt-6 grid gap-4 sm:grid-cols-2">
               <div className="rounded-2xl border border-white/10 bg-black/20 p-4">
                 <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{t.objective}</div>
                 <p className="mt-3 text-white/75 leading-relaxed">{t.objectiveText}</p>
@@ -472,85 +374,15 @@ export default function GravitasPage() {
                   <p className="mt-4 text-pink-200 font-semibold">{t.awakened}</p>
                 )}
               </div>
-              <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/6 p-4">
-                <div className="text-xs uppercase tracking-[0.28em] text-cyan-200 font-black">{t.transferTitle}</div>
-                <div className="mt-4 flex flex-col xs:flex-row items-start xs:items-center gap-4">
-                  <div className="relative h-20 w-20 sm:h-24 sm:w-24 shrink-0 mx-auto xs:mx-0">
-                    <div className="absolute inset-0 rounded-full border border-cyan-300/20" />
-                    <div
-                      className="absolute inset-2 rounded-full border-2 border-pink-300/40 transition-all duration-500"
-                      style={{
-                        transform: `scale(${0.84 + activationPercent / 500})`,
-                        opacity: 0.55 + activationPercent / 250,
-                      }}
-                    />
-                    <div className="absolute inset-4 rounded-full bg-gradient-to-br from-cyan-300/30 via-fuchsia-400/25 to-pink-400/35 shadow-[0_0_40px_rgba(244,114,182,0.22)]" />
-                    <div className="absolute inset-0 flex items-center justify-center text-lg font-black text-white">
-                      {activationPercent}%
-                    </div>
-                  </div>
-                  <div className="min-w-0 flex-1">
-                    <div className="h-3 rounded-full bg-white/10 overflow-hidden">
-                      <div
-                        className="h-full bg-gradient-to-r from-cyan-300 via-fuchsia-400 to-pink-400 transition-all"
-                        style={{ width: `${activationPercent}%` }}
-                      />
-                    </div>
-                    <p className="mt-3 text-sm text-white/70">
-                      {state.phase === "activation" || state.avatarAwake ? t.transferReady : t.transferLocked}
-                    </p>
-                  </div>
-                </div>
-                <div className="mt-4">
-                  <div className="text-[11px] uppercase tracking-[0.22em] text-white/40 font-black">{t.transferStageLabel}</div>
-                  <div className="mt-3 grid gap-2">
-                    {transferStages.map((label, index) => {
-                      const stageIndex = index + 1;
-                      const active = transferStage >= stageIndex;
-                      return (
-                        <div
-                          key={label}
-                          className={[
-                            "rounded-xl border px-3 py-2 text-sm transition",
-                            active
-                              ? "border-pink-400/30 bg-pink-500/10 text-pink-100"
-                              : "border-white/10 bg-black/20 text-white/45",
-                          ].join(" ")}
-                        >
-                          <span className="font-black mr-2">{stageIndex}.</span>
-                          {label}
-                        </div>
-                      );
-                    })}
-                  </div>
-                </div>
-                <button
-                  type="button"
-                  onMouseDown={beginTransfer}
-                  onMouseUp={stopTransfer}
-                  onMouseLeave={stopTransfer}
-                  onTouchStart={beginTransfer}
-                  onTouchEnd={stopTransfer}
-                  disabled={state.phase !== "activation" || state.avatarAwake}
-                  className={[
-                    "mt-4 w-full rounded-2xl border px-4 py-4 text-sm font-black transition-all",
-                    state.phase === "activation" && !state.avatarAwake
-                      ? "border-pink-400/40 bg-pink-500/12 text-pink-100 shadow-[0_0_25px_rgba(244,114,182,0.18)]"
-                      : "border-white/10 bg-white/5 text-white/35 cursor-not-allowed",
-                  ].join(" ")}
-                >
-                  {t.hold}
-                </button>
-                {state.avatarAwake && (
-                  <div className="mt-4 rounded-2xl border border-pink-400/25 bg-pink-500/10 px-4 py-4">
-                    <div className="text-[11px] uppercase tracking-[0.22em] text-pink-200/75 font-black">{t.awakeningMoment}</div>
-                    <div className="mt-2 text-sm leading-relaxed text-pink-50/90">{t.awakeningBody}</div>
-                  </div>
-                )}
-              </div>
+              <GravitasActivation
+                state={state}
+                t={t}
+                onBeginTransfer={beginTransfer}
+                onStopTransfer={stopTransfer}
+              />
             </div>
 
-            <div className="mt-5 sm:mt-6 grid gap-3 grid-cols-2 xl:grid-cols-4">
+            <div className="mt-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
               <button
                 type="button"
                 onClick={() => dispatch({ type: "SCAVENGE" })}
@@ -647,14 +479,14 @@ export default function GravitasPage() {
                 </div>
                 <div className="rounded-2xl border border-white/10 bg-black/20 px-3 py-3">
                   <div className="text-[11px] uppercase tracking-[0.22em] text-white/45 font-black">{t.selectedRole}</div>
-                  <div className="mt-2 text-white/82">{moduleCopy[selectedModule].role}</div>
+                  <div className="mt-2 text-white/82">{content.modules[selectedModule].role[lang as Lang] ?? content.modules[selectedModule].role.en}</div>
                 </div>
               </div>
             </section>
 
             <section className="rounded-[28px] border border-white/10 bg-white/5 p-5 shadow-2xl">
               <div className="text-xs uppercase tracking-[0.28em] text-white/45 font-black">{t.marks}</div>
-              <div className="mt-4 grid gap-3 grid-cols-3">
+              <div className="mt-4 grid gap-3 sm:grid-cols-2">
                 <div className="rounded-2xl border border-white/10 bg-black/20 px-3 py-3">
                   <div className="text-[11px] uppercase tracking-[0.22em] text-white/45 font-black">{t.reactorScar}</div>
                   <div className="mt-2 text-lg font-black text-rose-200">{state.marks.reactorScar}</div>
@@ -667,17 +499,45 @@ export default function GravitasPage() {
                   <div className="text-[11px] uppercase tracking-[0.22em] text-white/45 font-black">{t.supplyStress}</div>
                   <div className="mt-2 text-lg font-black text-amber-200">{state.marks.supplyStress}</div>
                 </div>
+                <div className="rounded-2xl border border-white/10 bg-black/20 px-3 py-3">
+                  <div className="text-[11px] uppercase tracking-[0.22em] text-white/45 font-black">{t.voidEcho}</div>
+                  <div className="mt-2 text-lg font-black text-indigo-200">{state.marks.voidEcho}</div>
+                </div>
               </div>
               <div className="mt-4 rounded-2xl border border-amber-300/15 bg-amber-500/[0.04] px-4 py-4">
                 <div className="flex items-center justify-between gap-3">
                   <div className="text-[11px] uppercase tracking-[0.22em] text-amber-100/70 font-black">{t.driftRisk}</div>
-                  <div className={`rounded-full px-3 py-1 text-[11px] font-black ${totalMarks >= 7 ? "bg-rose-500/15 text-rose-200" : totalMarks >= 4 ? "bg-amber-400/15 text-amber-200" : "bg-emerald-400/15 text-emerald-200"}`}>
+                  <div className={`rounded-full px-3 py-1 text-[11px] font-black ${totalMarks >= 12 ? "bg-rose-500/15 text-rose-200" : totalMarks >= 6 ? "bg-amber-400/15 text-amber-200" : "bg-emerald-400/15 text-emerald-200"}`}>
                     {driftRiskLabel}
                   </div>
                 </div>
                 <p className="mt-3 text-sm leading-relaxed text-white/68">{t.riskHint}</p>
               </div>
             </section>
+
+            {state.anomalies.length > 0 && (
+              <section className="rounded-[28px] border border-rose-400/20 bg-rose-500/[0.08] p-5 shadow-2xl">
+                <div className="text-xs uppercase tracking-[0.28em] text-rose-200/80 font-black">{t.anomalies}</div>
+                <div className="mt-4 space-y-3">
+                  {state.anomalies.map((anomaly) => (
+                    <div key={anomaly.id} className="rounded-2xl border border-white/10 bg-black/30 p-4">
+                      <div className="flex items-center justify-between gap-3">
+                        <div className="font-black text-rose-100">{anomaly.name}</div>
+                        <div className="text-xs text-rose-300 font-black uppercase tracking-wider">{t.severity}: {anomaly.severity}</div>
+                      </div>
+                      <div className="mt-2 flex items-center gap-2">
+                         <div className="h-1 flex-1 rounded-full bg-white/10">
+                            <div className="h-full bg-rose-400 rounded-full" style={{ width: `${(anomaly.severity / 5) * 100}%` }} />
+                         </div>
+                         {anomaly.duration !== undefined && (
+                           <div className="text-[10px] text-white/40">{anomaly.duration}T</div>
+                         )}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </section>
+            )}
 
             <section className="rounded-[28px] border border-cyan-300/15 bg-cyan-400/[0.04] p-5 shadow-2xl">
               <div className="text-xs uppercase tracking-[0.28em] text-cyan-200/80 font-black">{t.actions}</div>
@@ -738,7 +598,7 @@ export default function GravitasPage() {
               <div className="mt-4 rounded-2xl border border-cyan-300/20 bg-cyan-400/6 px-4 py-3 text-sm text-cyan-100">
                 {state.alert}
               </div>
-              <div className="mt-4 space-y-2 max-h-48 sm:max-h-none overflow-y-auto">
+              <div className="mt-4 space-y-2">
                 {state.journal.map((line) => (
                   <div key={line} className="rounded-xl border border-white/10 bg-black/20 px-3 py-2 text-sm text-white/72">
                     {line}
@@ -749,9 +609,6 @@ export default function GravitasPage() {
           </aside>
         </div>
       </div>
-      {showAwakening && (
-        <GravitasAwakening lang={lang} onDone={() => setShowAwakening(false)} />
-      )}
     </main>
   );
 }

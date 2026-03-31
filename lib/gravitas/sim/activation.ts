@@ -1,4 +1,5 @@
 import type { StarholdState } from "./types";
+import { GRAVITAS_TEXT } from "./content";
 import { clamp, pushJournal } from "./shared";
 
 export interface ActivationStageInfo {
@@ -24,6 +25,7 @@ export function getActivationStageInfo(activation: number, avatarAwake: boolean)
 }
 
 export function unlockActivationTransfer(state: StarholdState): StarholdState {
+  const A = GRAVITAS_TEXT.activation;
   return {
     ...state,
     phase: "activation",
@@ -40,69 +42,81 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
         load: clamp(state.modules.core.load + 16),
       },
     },
-    alert: "Core conduit open. The chamber is listening.",
-    journal: pushJournal(state, "Something stirred inside the chamber."),
+    alert: A.conduitUnlockedAlert.en,
+    journal: pushJournal(state, A.conduitUnlockedJournal.en),
   };
 }
 
 export function channelActivationPulse(state: StarholdState, amount: number): StarholdState {
+  const A = GRAVITAS_TEXT.activation;
   if (state.phase !== "activation") return state;
   if (state.resources.power <= 0) {
-    const prevActivation = state.resources.activation;
-    const regressedActivation = clamp(prevActivation - Math.ceil(prevActivation * 0.15));
-    const collapseToboot = prevActivation >= 10 && regressedActivation < 10;
     return {
       ...state,
-      phase: collapseToboot ? "boot" : "activation",
-      resources: {
-        ...state.resources,
-        activation: regressedActivation,
-        stability: clamp(state.resources.stability - 3),
-      },
-      marks: {
-        ...state.marks,
-        shellStrain: clamp(state.marks.shellStrain + 2),
-      },
-      alert: "Transfer collapsed. Silence from the shell.",
-      journal: pushJournal(state, "The shell flinched and went quiet. Progress lost."),
+      resonance: 0,
+      alert: A.powerExhausted.en,
     };
   }
 
-  const nextActivation = clamp(state.resources.activation + amount);
+  // Resonance builds up while holding (amount is how much we add this tick/frame)
+  const nextResonance = clamp(state.resonance + amount * 2.5);
+
+  // Power drain scales with resonance
+  const pwrDrain = Math.max(1, Math.floor(nextResonance / 20));
+  const actGain = (amount * (1 + nextResonance / 100)) * (state.resources.stability > 60 ? 1.2 : 1.0);
+
+  const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
   const awakened = nextActivation >= 100;
+
+  // High resonance hazards. Only apply when we cross a new high-resonance band,
+  // so holding the button does not stack shell damage multiple times per tick.
+  let nextMarks = { ...state.marks };
+  let alert = awakened ? A.awakenedAlert.en : A.resonanceRisingAlert.en;
+  const crossedHighBand =
+    nextResonance > 85 && Math.floor(nextResonance / 5) > Math.floor(state.resonance / 5);
+
+  if (crossedHighBand) {
+    nextMarks.shellStrain = clamp(nextMarks.shellStrain + 1);
+    alert = A.criticalResonanceAlert.en;
+  }
 
   return {
     ...state,
     phase: awakened ? "awakened" : "activation",
     avatarAwake: awakened,
+    resonance: nextResonance,
     resources: {
       ...state.resources,
       activation: nextActivation,
-      power: clamp(state.resources.power - Math.max(1, Math.ceil(amount / 7))),
-      stability: clamp(state.resources.stability - Math.max(0, Math.floor(amount / 14))),
+      power: clamp(state.resources.power - pwrDrain),
+      stability: clamp(state.resources.stability - (nextResonance > 70 ? 1 : 0)),
     },
+    marks: nextMarks,
     modules: {
       ...state.modules,
       core: {
         ...state.modules.core,
         online: true,
-        load: clamp(state.modules.core.load + Math.ceil(amount / 3)),
+        load: clamp(state.modules.core.load + Math.ceil(amount / 2)),
       },
     },
-    alert: awakened
-      ? "Eyes opened. It looked back."
-      : "Pulse flowing. The shell is warm.",
-    journal: pushJournal(
-      state,
-      awakened ? "Something behind the glass recognized you." : "The shell drinks the signal. Faintly."
-    ),
+    alert,
+    journal: awakened
+      ? pushJournal(state, A.awakenedJournal.en)
+      : state.resources.activation % 10 < amount
+        ? pushJournal(state, `${A.transferIntensityJournal.en}: ${Math.floor(nextResonance)}%`)
+        : state.journal,
+  };
+}
+
+export function coolDownResonance(state: StarholdState): StarholdState {
+  if (state.resonance <= 0) return state;
+  return {
+    ...state,
+    resonance: clamp(state.resonance - 12),
   };
 }
 
 export function canStartActivationTransfer(state: StarholdState) {
   return state.phase === "boot" && state.resources.power >= 6 && state.resources.stability >= 35 && state.modules.logistics.integrity >= 45;
-}
-
-export function isActivationCritical(state: StarholdState): boolean {
-  return state.marks.shellStrain >= 6 && state.phase === "activation";
 }
