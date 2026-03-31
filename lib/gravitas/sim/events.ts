@@ -31,7 +31,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         {
           id: "powerFluctuation",
           title: "Power fluctuation",
-          body: "A surge is running through the outer shell. You can vent it fast or absorb it carefully.",
+          body: "A current runs through the hull. It was not scheduled. Vent it fast or absorb it carefully.",
           options: [
             { id: "vent", label: "Vent the surge" },
             { id: "absorb", label: "Absorb into reserves" },
@@ -65,7 +65,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             power: clamp(state.resources.power + 4),
             stability: clamp(state.resources.stability - 2),
           },
-          alert: "The fluctuation was absorbed, but the reserve grid is overloading.",
+          alert: "Absorbed. But the grid is swelling now.",
           journal: pushJournal(state, "You captured the surge, but the station frame trembled."),
         };
       }
@@ -162,7 +162,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             supplyStress: clamp(state.marks.supplyStress + 3),
           },
           alert: "Inner plating was stripped for emergency stock.",
-          journal: pushJournal(state, "Emergency plating was cut loose to keep systems supplied."),
+          journal: pushJournal(state, "Plating stripped. The walls are thinner now."),
         };
       }
 
@@ -212,7 +212,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             {
               id: "signalPulse",
               title: "Echo fracture",
-              body: "The shell pushes back with a fragmented echo. Hold resonance steady or break contact and regroup.",
+              body: "The echo came back broken. Hold resonance steady or break contact and regroup.",
               options: [
                 { id: "holdResonance", label: "Hold resonance" },
                 { id: "breakContact", label: "Break contact" },
@@ -346,7 +346,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         {
           id: "sensorAnomaly",
           title: "Sensor anomaly",
-          body: "A faint signal is coming from beyond the hull. Amplify the array or ignore it.",
+          body: "Something out there is transmitting. Amplify the array or ignore it.",
           options: [
             { id: "amplifyArray", label: "Amplify array" },
             { id: "ignoreSignal", label: "Ignore signal" },

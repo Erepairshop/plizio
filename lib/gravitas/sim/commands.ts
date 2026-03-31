@@ -20,8 +20,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           power: powerGain,
           stability: -1,
         }),
-        alert: "Scavenger drones returned with salvage.",
-        journal: pushJournal(state, `Recovered ${materialsGain} materials from the outer ring.`),
+        alert: "Sweep complete. Cargo locked.",
+        journal: pushJournal(state, `Salvage drones returned. ${materialsGain} units recovered from the dark.`),
       };
     }
     case "STABILIZE_REACTOR": {
@@ -44,14 +44,14 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
             load: nextLoad,
           },
         },
-        alert: "Reactor pulse stabilized.",
-        journal: pushJournal(state, "Reactor field realigned successfully."),
+        alert: "Reactor harmonics restored. The hum steadied.",
+        journal: pushJournal(state, "Field alignment holding. The spine remembers."),
       };
     }
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
       if (state.resources.materials < profile.repairCost) {
-        return withAlert(state, "Repair aborted. Materials too low.");
+        return withAlert(state, "Not enough material. The station cannot give what it does not have.");
       }
       const target = state.modules[command.moduleId];
       const nextIntegrity = clamp(target.integrity + profile.repairGain);
@@ -71,8 +71,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
             load: nextLoad,
           },
         },
-        alert: `${target.name} patched and recalibrated.`,
-        journal: pushJournal(state, `${target.name} integrity restored to ${nextIntegrity}%.`),
+        alert: `${target.name} patched. Signal returning.`,
+        journal: pushJournal(state, `${target.name} integrity now ${nextIntegrity}%. Holding.`),
       };
     }
     case "REROUTE_TO_CORE": {
@@ -83,6 +83,107 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "CHANNEL_TO_CORE": {
       return channelActivationPulse(state, command.amount);
+    }
+    case "DEEP_SCAN": {
+      if (!state.modules.sensor.online) {
+        return withAlert(state, "Deep scan requires the sensor array to be online.");
+      }
+      if (state.resources.power < 4) {
+        return withAlert(state, "Insufficient power for a deep scan. Need at least 4.");
+      }
+      const scannedMarks = {
+        reactorScar: Math.max(0, state.marks.reactorScar - 1),
+        shellStrain: Math.max(0, state.marks.shellStrain - 1),
+        supplyStress: Math.max(0, state.marks.supplyStress - 1),
+      };
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { power: -4, stability: 6 }),
+        marks: scannedMarks,
+        alert: "Deep scan complete. Structural interference reduced.",
+        journal: pushJournal(state, "Deep scan cleared interference and eased structural stress."),
+      };
+    }
+    case "EMERGENCY_REROUTE": {
+      if (state.resources.materials < 3) {
+        return withAlert(state, "Emergency reroute requires at least 3 materials.");
+      }
+      const extraDrain = state.modules.logistics.integrity < 50 ? 5 : 0;
+      const nextLogisticsLoad = addModuleLoad(state, "logistics", 15).load;
+      const journalLine = extraDrain > 0
+        ? "Emergency reroute pushed reserves through fragile conduits."
+        : "Emergency reroute siphoned power reserves through the logistics grid.";
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { materials: -3, power: 10 }),
+        modules: {
+          ...state.modules,
+          logistics: {
+            ...state.modules.logistics,
+            integrity: clamp(state.modules.logistics.integrity - extraDrain),
+            load: nextLogisticsLoad,
+          },
+        },
+        alert: extraDrain > 0
+          ? "Reroute strained the degraded conduits."
+          : "Power reserves rerouted successfully.",
+        journal: pushJournal(state, journalLine),
+      };
+    }
+    case "RESONANCE_LOCK": {
+      if (state.phase !== "activation") {
+        return withAlert(state, "Resonance lock only available during the activation phase.");
+      }
+      if (state.resources.activation < 20) {
+        return withAlert(state, "Not enough activation charge for a resonance lock. Need at least 20.");
+      }
+      if (state.resources.stability < 30) {
+        return withAlert(state, "Stability too low for a resonance lock. Need at least 30.");
+      }
+      const nextCoreLoad = addModuleLoad(state, "core", 20).load;
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { activation: 12, stability: -5 }),
+        marks: {
+          ...state.marks,
+          shellStrain: state.marks.shellStrain + 1,
+        },
+        modules: {
+          ...state.modules,
+          core: {
+            ...state.modules.core,
+            load: nextCoreLoad,
+          },
+        },
+        alert: "Resonance lock engaged. Shell strain increased.",
+        journal: pushJournal(state, "Resonance lock forced a deep pulse into the shell."),
+      };
+    }
+    case "OVERCLOCK_REACTOR": {
+      if (!state.modules.reactor.online) {
+        return withAlert(state, "Cannot overclock an offline reactor.");
+      }
+      if (state.resources.materials < 2) {
+        return withAlert(state, "Overclock requires at least 2 materials.");
+      }
+      const nextReactorLoad = addModuleLoad(state, "reactor", 20).load;
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { materials: -2, power: 15, stability: -4 }),
+        marks: {
+          ...state.marks,
+          reactorScar: state.marks.reactorScar + 1,
+        },
+        modules: {
+          ...state.modules,
+          reactor: {
+            ...state.modules.reactor,
+            load: nextReactorLoad,
+          },
+        },
+        alert: "Reactor overclocked. Power surge incoming.",
+        journal: pushJournal(state, "Reactor overclocked beyond safe limits for a surge of power."),
+      };
     }
     case "RESOLVE_EVENT": {
       return resolveStarholdEvent(state, command.optionId);
@@ -115,6 +216,13 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           hint: "Dampen the current drift and refill the station buffer.",
           command: { type: "STABILIZE_REACTOR" },
         },
+        {
+          id: "overclock",
+          label: "Overclock reactor",
+          hint: "Burn 2 materials for +15 power, but leave a reactor scar. Requires reactor online.",
+          command: { type: "OVERCLOCK_REACTOR" },
+          disabled: !module.online || state.resources.materials < 2,
+        },
       ];
     case "logistics":
       return [
@@ -130,6 +238,13 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           hint: "Reopen supply routing and reduce future drain.",
           command: { type: "REPAIR_MODULE", moduleId: "logistics" },
         },
+        {
+          id: "emergencyReroute",
+          label: "Emergency reroute",
+          hint: "Spend 3 materials for +10 power. Strains conduits if integrity < 50.",
+          command: { type: "EMERGENCY_REROUTE" },
+          disabled: state.resources.materials < 3,
+        },
       ];
     case "sensor":
       return [
@@ -144,6 +259,13 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           label: "Scavenge materials",
           hint: "Short salvage run to keep the prototype moving.",
           command: { type: "SCAVENGE" },
+        },
+        {
+          id: "deepScan",
+          label: "Deep scan",
+          hint: "Spend 4 power to clear all marks by 1 and gain +6 stability. Requires sensor online.",
+          command: { type: "DEEP_SCAN" },
+          disabled: !module.online || state.resources.power < 4,
         },
       ];
     case "core":
@@ -162,6 +284,14 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           label: `Repair ${module.name}`,
           hint: "Reduce shell strain before the awakening run.",
           command: { type: "REPAIR_MODULE", moduleId: "core" },
+        },
+        {
+          id: "resonanceLock",
+          label: "Resonance lock",
+          hint: "Force +12 activation at the cost of stability and shell strain. Requires activation phase, 20+ activation, 30+ stability.",
+          command: { type: "RESONANCE_LOCK" },
+          disabled: state.phase !== "activation" || state.resources.activation < 20 || state.resources.stability < 30,
+          emphasis: "secondary",
         },
       ];
   }

@@ -40,8 +40,8 @@ export function unlockActivationTransfer(state: StarholdState): StarholdState {
         load: clamp(state.modules.core.load + 16),
       },
     },
-    alert: "Core conduit unlocked. Manual transfer now possible.",
-    journal: pushJournal(state, "Core chamber is ready for activation transfer."),
+    alert: "Core conduit open. The chamber is listening.",
+    journal: pushJournal(state, "Something stirred inside the chamber."),
   };
 }
 
@@ -63,8 +63,8 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
         ...state.marks,
         shellStrain: clamp(state.marks.shellStrain + 2),
       },
-      alert: "Transfer collapsed. The shell recoiled and activation regressed.",
-      journal: pushJournal(state, "Transfer collapsed. The shell recoiled and activation regressed."),
+      alert: "Transfer collapsed. Silence from the shell.",
+      journal: pushJournal(state, "The shell flinched and went quiet. Progress lost."),
     };
   }
 
@@ -90,11 +90,11 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
       },
     },
     alert: awakened
-      ? "Core shell awakened. Presence synchronized."
-      : "Transfer pulse flowing into the dormant shell...",
+      ? "Eyes opened. It looked back."
+      : "Pulse flowing. The shell is warm.",
     journal: pushJournal(
       state,
-      awakened ? "The shell responded. A presence looked back." : "Manual transfer pulse sustained."
+      awakened ? "Something behind the glass recognized you." : "The shell drinks the signal. Faintly."
     ),
   };
 }
