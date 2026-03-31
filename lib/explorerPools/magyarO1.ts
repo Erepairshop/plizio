@@ -140,3 +140,21 @@ export const MAGYAR_O1_I1_POOL: PoolTopicDef[] = [
     quiz: { generate: "magyar_o1_i1_t10" },
   },
 ];
+
+// ─── Stub exports for I2–I9 (pool data TODO) ─────────────────────────────────
+export const MAGYAR_O1_I2_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I2_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I3_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I3_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I4_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I4_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I5_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I5_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I6_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I6_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I7_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I7_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I8_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I8_POOL: import("./types").PoolTopicDef[] = [];
+export const MAGYAR_O1_I9_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O1_I9_POOL: import("./types").PoolTopicDef[] = [];

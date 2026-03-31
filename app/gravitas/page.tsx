@@ -1,11 +1,12 @@
 "use client";
 
 import { useEffect, useMemo, useReducer, useRef, useState } from "react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { ChevronLeft, Power, Wrench, Radar, Cpu } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasHUD from "@/components/gravitas/GravitasHUD";
-import GravitasScene from "@/components/gravitas/GravitasScene";
+const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
 import { applyStarholdCommand } from "@/lib/gravitas/sim/commands";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";

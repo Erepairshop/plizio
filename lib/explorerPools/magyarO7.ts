@@ -1,11 +1,22 @@
 // lib/explorerPools/magyarO7.ts
-//
-// TODO for agent:
-// - Grade 7 still uses the older LangExplore / separate explorer pattern.
-// - Build a new pool file for AstroMagyar Grade 7 with island-based exports:
-//   MAGYAR_O7_I1_LABELS / MAGYAR_O7_I1_POOL
-//   ...
-//   MAGYAR_O7_I9_LABELS / MAGYAR_O7_I9_POOL
-// - For now, labels only need Hungarian (hu). No de/en/ro block is required yet.
-// - Source material: app/astromagyar/7/page.tsx + current Grade 7 explorer components.
-// - Create 10 topics per island and prepare the grade for a future pool-based adapter like Physik/Chemie.
+// TODO: Add pool data for AstroMagyar Grade 7
+import type { PoolTopicDef } from "./types";
+
+export const MAGYAR_O7_I1_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I1_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I2_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I2_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I3_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I3_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I4_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I4_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I5_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I5_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I6_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I6_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I7_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I7_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I8_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I8_POOL: PoolTopicDef[] = [];
+export const MAGYAR_O7_I9_LABELS: Record<string, Record<string, string>> = {};
+export const MAGYAR_O7_I9_POOL: PoolTopicDef[] = [];

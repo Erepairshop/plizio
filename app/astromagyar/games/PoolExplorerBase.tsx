@@ -45,7 +45,8 @@ export default function PoolExplorerBase<TIsland extends MinimalIslandDef>({
 }: Props<TIsland>) {
   const cfg = config[island.id];
   if (!cfg) {
-    return <LangExplore island={island} grade={grade} onDone={onDone} />;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return <LangExplore island={island as any} grade={grade} onDone={onDone} />;
   }
 
   return (

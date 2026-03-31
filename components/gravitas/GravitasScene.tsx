@@ -1,6 +1,6 @@
 "use client";
 
-import Phaser from "phaser";
+import * as Phaser from "phaser";
 import { useEffect, useRef } from "react";
 import { GravitasBaseScene } from "@/lib/gravitas/phaser/GravitasBaseScene";
 import type { StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
