@@ -49,13 +49,18 @@ export default function GravitasShop({ state, lang, ui, onClose, onBuy, onClaim 
 
         <div className="flex-1 overflow-y-auto p-6">
           {unclaimed.length > 0 && (
-            <div className="mb-8 space-y-3">
-              <h3 className="text-[10px] uppercase tracking-[0.2em] text-amber-400 font-black mb-4">Pending Rewards</h3>
+            <div className="mb-8 space-y-3 p-4 rounded-3xl bg-amber-400/10 border border-amber-400/20 relative overflow-hidden">
+              {/* Simple background confetti animation would be here, using a CSS class */}
+              <div className="absolute inset-0 pointer-events-none opacity-20 bg-[radial-gradient(circle_at_50%_50%,rgba(251,191,36,0.2)_0%,transparent_70%)] animate-pulse" />
+              
+              <h3 className="text-[10px] uppercase tracking-[0.2em] text-amber-400 font-black mb-4 flex items-center gap-2">
+                <Sparkles size={12} /> Pending Rewards
+              </h3>
               {unclaimed.map(id => {
                 const milestone = STARHOLD_MILESTONES.find(m => m.id === id);
                 if (!milestone) return null;
                 return (
-                  <div key={id} className="rounded-2xl border border-amber-400/30 bg-amber-400/5 p-4 flex items-center justify-between gap-4 animate-pulse">
+                  <div key={id} className="rounded-2xl border border-amber-400/30 bg-black/40 p-4 flex items-center justify-between gap-4 shadow-xl">
                     <div className="flex items-center gap-3">
                       <Gift size={20} className="text-amber-400" />
                       <div>
@@ -65,19 +70,48 @@ export default function GravitasShop({ state, lang, ui, onClose, onBuy, onClaim 
                     </div>
                     <button
                       onClick={() => onClaim(id)}
-                      className="px-4 py-2 rounded-lg bg-amber-400 text-black text-xs font-black hover:scale-105 active:scale-95 transition"
+                      className="px-4 py-2 rounded-lg bg-amber-400 text-black text-xs font-black hover:scale-105 active:scale-95 transition shadow-[0_0_15px_rgba(251,191,36,0.4)]"
                     >
                       CLAIM +{milestone.rewardStars}
                     </button>
                   </div>
                 );
               })}
-              <div className="h-px w-full bg-white/5 my-6" />
             </div>
           )}
 
-          <div className="grid gap-4">
-            {STARHOLD_SHOP_ITEMS.map((item) => {
+          <div className="grid gap-6">
+            {/* Active Milestones (In Progress) */}
+            <div className="space-y-4">
+              <h3 className="text-[10px] uppercase tracking-[0.2em] text-white/30 font-black mb-2">Milestones in Progress</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {STARHOLD_MILESTONES.filter(m => !state.progression.completedMilestones.includes(m.id)).map(milestone => {
+                  const progress = milestone.getProgress?.(state) ?? 0;
+                  return (
+                    <div key={milestone.id} className="p-4 rounded-2xl border border-white/5 bg-white/[0.02]">
+                      <div className="text-xs font-black text-white/80 mb-2 truncate">{localize(milestone.label)}</div>
+                      <div className="flex items-center justify-between gap-2 mb-1">
+                        <div className="text-[9px] font-black text-white/40 uppercase">Progress</div>
+                        <div className="text-[9px] font-black text-cyan-400">{Math.floor(progress)}%</div>
+                      </div>
+                      <div className="h-1 w-full bg-white/5 rounded-full overflow-hidden">
+                        <div 
+                          className="h-full bg-cyan-500 rounded-full transition-all duration-1000"
+                          style={{ width: `${progress}%` }}
+                        />
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+            <div className="h-px w-full bg-white/5 my-2" />
+
+            <div className="space-y-4">
+              <h3 className="text-[10px] uppercase tracking-[0.2em] text-white/30 font-black mb-2">Starhold Shop</h3>
+              <div className="grid gap-4">
+                {STARHOLD_SHOP_ITEMS.map((item) => {
               const isUnlocked = unlocked.includes(item.id);
               const canAfford = stars >= item.cost;
 

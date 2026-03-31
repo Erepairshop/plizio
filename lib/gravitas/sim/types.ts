@@ -120,6 +120,10 @@ export interface StarholdState {
   recoveryPriority: { moduleId: StarholdModuleId; reason: LocalizedString } | null; // Set after impact, cleared when aftershock ends
   threatCycle: number;
   lastAvatarPulse: number;
+  lowEntropyStreak: number;
+  highStabilityStreak: number;
+  wasCrisis: boolean;
+  avatarPulseCount: number;
 }
 
 export type StarholdCommand =

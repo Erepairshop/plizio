@@ -131,7 +131,19 @@ export default function GravitasPage() {
   const isRecovering = state.threat.aftershock > 0 || state.crisis;
   const isLockdown = state.lockdown;
   const hasPredictor = state.progression.unlockedItems.includes("threat_predictor");
-  const hasUnclaimed = (state.progression.unclaimedMilestones || []).length > 0;
+  const hasGoldHull = state.progression.unlockedItems.includes("station_paint_gold");
+  const unclaimed = state.progression.unclaimedMilestones || [];
+  const hasUnclaimed = unclaimed.length > 0;
+
+  const [starFeedback, setStarFeedback] = useState<{ amount: number; id: number } | null>(null);
+
+  useEffect(() => {
+    if (state.progression.lastStarGain > 0) {
+      setStarFeedback({ amount: state.progression.lastStarGain, id: Date.now() });
+      const t = setTimeout(() => setStarFeedback(null), 3000);
+      return () => clearTimeout(t);
+    }
+  }, [state.progression.lastStarGain]);
 
   const moduleActions = useMemo(
     () => getGravitasActionSlots(selectedModule, state),
@@ -183,13 +195,28 @@ export default function GravitasPage() {
         <div className="flex items-center gap-2">
           <button
             onClick={() => setShopOpen(true)}
-            className={`relative flex items-center gap-2 px-3 py-1.5 rounded-full border transition-all duration-500 ${hasUnclaimed ? "border-amber-400 bg-amber-400/20 text-amber-400 shadow-[0_0_15px_rgba(251,191,36,0.3)] animate-pulse" : state.progression.stars > 0 ? "border-amber-400/40 bg-amber-400/5 text-amber-400" : "border-white/10 bg-white/5 text-white/20"}`}
+            className={`relative flex items-center gap-2 px-3 py-1.5 rounded-full border transition-all duration-500 ${hasUnclaimed ? "border-amber-400 bg-amber-400/20 text-amber-400 shadow-[0_0_20px_rgba(251,191,36,0.5)] animate-pulse scale-110" : state.progression.stars > 0 ? "border-amber-400/40 bg-amber-400/5 text-amber-400" : "border-white/10 bg-white/5 text-white/20"}`}
           >
             <Star size={12} fill={state.progression.stars > 0 ? "currentColor" : "none"} />
             <span className="text-[11px] font-black">{state.progression.stars}</span>
             {hasUnclaimed && (
-              <div className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-rose-500 rounded-full animate-bounce" />
+              <div className="absolute -top-1 -right-1 w-4 h-4 bg-rose-500 text-white text-[9px] font-black rounded-full flex items-center justify-center border-2 border-[#050816]">
+                {unclaimed.length}
+              </div>
             )}
+            <AnimatePresence>
+              {starFeedback && (
+                <motion.div
+                  key={starFeedback.id}
+                  initial={{ opacity: 0, y: 0 }}
+                  animate={{ opacity: 1, y: -30 }}
+                  exit={{ opacity: 0 }}
+                  className="absolute left-1/2 -translate-x-1/2 font-black text-amber-400 text-xs pointer-events-none"
+                >
+                  +{starFeedback.amount} ⭐
+                </motion.div>
+              )}
+            </AnimatePresence>
           </button>
           <button
             onClick={() => { if (confirm("Reset game?")) { clearGravitasSave(); window.location.reload(); } }}
@@ -211,7 +238,7 @@ export default function GravitasPage() {
 
       {/* Game View */}
       <div className="flex-1 relative overflow-hidden flex flex-col">
-        <div className="flex-1 relative">
+        <div className={`flex-1 relative transition-all duration-1000 ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}>
           <GravitasScene
             state={state}
             selectedModule={selectedModule}

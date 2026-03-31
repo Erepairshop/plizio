@@ -108,10 +108,11 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       const finalDmg = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
 
       nextStability = clamp(nextStability - finalDmg);
-      nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, (threat.fortified ? 1 : 5) - mods.shellStrainReduction));
+      const markPenalty = mods.markShield ? 1 : 0;
+      nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, (threat.fortified ? 1 : 5) - mods.shellStrainReduction - markPenalty));
       // Aftermath: structural + psychic damage
-      nextMarks.shellStrain = clamp(nextMarks.shellStrain + 3);
-      nextMarks.voidEcho = clamp(nextMarks.voidEcho + 2);
+      nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 3 - markPenalty));
+      nextMarks.voidEcho = clamp(nextMarks.voidEcho + Math.max(0, 2 - markPenalty));
 
       if (!threat.fortified) {
         aftershockDuration = 6;
@@ -132,10 +133,11 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       const finalDmg = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
 
       nextPower = clamp(nextPower - finalDmg);
-      nextMarks.voidEcho = clamp(nextMarks.voidEcho + (threat.dampened ? 1 : 6));
+      const markPenalty = mods.markShield ? 1 : 0;
+      nextMarks.voidEcho = clamp(nextMarks.voidEcho + Math.max(0, (threat.dampened ? 1 : 6) - markPenalty));
       // Aftermath: void + power system damage
-      nextMarks.voidEcho = clamp(nextMarks.voidEcho + 4);
-      nextMarks.reactorScar = clamp(nextMarks.reactorScar + 2);
+      nextMarks.voidEcho = clamp(nextMarks.voidEcho + Math.max(0, 4 - markPenalty));
+      nextMarks.reactorScar = clamp(nextMarks.reactorScar + Math.max(0, 2 - markPenalty));
 
       if (!threat.dampened) {
         aftershockDuration = 5;
@@ -169,6 +171,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
           ro: "Metoriți interceptați. Perimetrul defensiv a rezistat, dar a suferit pierderi."
         };
       } else {
+        const markPenalty = mods.markShield ? 1 : 0;
         const ids = (Object.keys(modules) as Array<keyof typeof modules>);
         ids.forEach(id => {
           const dmg = Math.floor(baseDmg * (1.1 + Math.random() * 0.6) * (1 - reduction));
@@ -177,10 +180,10 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
             integrity: clamp(nextModules[id].integrity - dmg),
           };
         });
-        nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 5 - mods.shellStrainReduction));
+        nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 5 - mods.shellStrainReduction - markPenalty));
         // Aftermath: supply line + hull damage
-        nextMarks.supplyStress = clamp(nextMarks.supplyStress + 3);
-        nextMarks.shellStrain = clamp(nextMarks.shellStrain + 2);
+        nextMarks.supplyStress = clamp(nextMarks.supplyStress + Math.max(0, 3 - markPenalty));
+        nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 2 - markPenalty));
         impactJournal = T.meteorShowerImpact;
         aftershockDuration = 4;
       }

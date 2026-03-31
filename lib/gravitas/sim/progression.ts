@@ -7,63 +7,120 @@ export interface StarholdMilestone {
   label: LocalizedString;
   check: (state: StarholdState) => boolean;
   rewardStars: number;
+  getProgress?: (state: StarholdState) => number;
 }
 
 export const STARHOLD_MILESTONES: StarholdMilestone[] = [
   {
     id: "first_activation",
-    label: {
-      en: "First Contact: Reached 25% activation.",
-      hu: "Első kapcsolat: Elérted a 25% aktiválást.",
-      de: "Erster Kontakt: 25% Aktivierung erreicht.",
-      ro: "Primul contact: 25% activare atinsă.",
-    },
-    check: (state) => state.resources.activation >= 25,
-    rewardStars: 1,
+    label: { en: "Spark of Life", hu: "Az élet szikrája", de: "Funke des Lebens", ro: "Scânteia vieții" },
+    rewardStars: 3,
+    check: (s) => s.resources.activation >= 25,
+    getProgress: (s) => Math.min(100, (s.resources.activation / 25) * 100),
   },
   {
     id: "halfway_there",
-    label: {
-      en: "Midpoint: Reached 50% activation.",
-      hu: "Félúton: Elérted az 50% aktiválást.",
-      de: "Halbzeit: 50% Aktivierung erreicht.",
-      ro: "La jumătate: 50% activare atinsă.",
-    },
-    check: (state) => state.resources.activation >= 50,
-    rewardStars: 2,
-  },
-  {
-    id: "awakened_avatar",
-    label: {
-      en: "Life Spark: Avatar fully awakened.",
-      hu: "Életszikra: Az avatár teljesen felébredt.",
-      de: "Lebensfunke: Avatar vollständig erwacht.",
-      ro: "Scânteie de viață: Avatar complet trezit.",
-    },
-    check: (state) => state.avatarAwake,
+    label: { en: "Dimensional Anchor", hu: "Dimenziós horgony", de: "Dimensionsanker", ro: "Ancoră dimensională" },
     rewardStars: 5,
+    check: (s) => s.resources.activation >= 50,
+    getProgress: (s) => Math.min(100, (s.resources.activation / 50) * 100),
   },
   {
-    id: "stable_foundation",
-    label: {
-      en: "Stability Master: Reached 80% stability.",
-      hu: "Stabilitás mester: Elérted a 80% stabilitást.",
-      de: "Stabilitätsmeister: 80% Stabilität erreicht.",
-      ro: "Maestru stabilității: 80% stabilitate atinsă.",
-    },
-    check: (state) => state.resources.stability >= 80,
+    id: "survivor_3",
+    label: { en: "Void Survivor", hu: "Void túlélő", de: "Void-Überlebender", ro: "Supraviețuitor Void" },
+    rewardStars: 2,
+    check: (s) => s.threatCycle >= 3,
+    getProgress: (s) => Math.min(100, (s.threatCycle / 3) * 100),
+  },
+  {
+    id: "survivor_7",
+    label: { en: "Eternal Station", hu: "Örök állomás", de: "Ewige Station", ro: "Stație eternă" },
     rewardStars: 3,
+    check: (s) => s.threatCycle >= 7,
+    getProgress: (s) => Math.min(100, (s.threatCycle / 7) * 100),
   },
   {
-    id: "perfect_harmony",
-    label: {
-      en: "Perfect Harmony: Cleared all persistent marks.",
-      hu: "Tökéletes harmónia: Minden tartós nyomot eltávolítottál.",
-      de: "Perfekte Harmonie: Alle dauerhaften Spuren gelöscht.",
-      ro: "Harmonie perfectă: Toate urmele persistente au fost eliminate.",
+    id: "entropy_master",
+    label: { en: "Entropy Master", hu: "Entrópia mester", de: "Entropie-Meister", ro: "Maestru Entropie" },
+    rewardStars: 3,
+    check: (s) => s.lowEntropyStreak >= 50,
+    getProgress: (s) => Math.min(100, (s.lowEntropyStreak / 50) * 100),
+  },
+  {
+    id: "full_grid",
+    label: { en: "Perfect Synchronization", hu: "Tökéletes szinkron", de: "Perfekte Synchronisation", ro: "Sincronizare perfectă" },
+    rewardStars: 2,
+    check: (s) => Object.values(s.modules).every(m => m.online && m.integrity > 80),
+    getProgress: (s) => {
+      const healthyCount = Object.values(s.modules).filter(m => m.online && m.integrity > 80).length;
+      return (healthyCount / 4) * 100;
     },
-    check: (state) => (state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress + state.marks.voidEcho) === 0 && state.tick > 10,
+  },
+  {
+    id: "crisis_escape",
+    label: { en: "Back from the Brink", hu: "A szakadék széléről", de: "Vom Abgrund zurück", ro: "Înapoi de pe marginea prăpastiei" },
+    rewardStars: 2,
+    check: (s) => s.wasCrisis && !s.crisis,
+    getProgress: (s) => (s.wasCrisis && !s.crisis) ? 100 : 0,
+  },
+  {
+    id: "marks_zero",
+    label: { en: "Perfect Harmony", hu: "Tökéletes harmónia", de: "Perfekte Harmonie", ro: "Harmonie perfectă" },
     rewardStars: 4,
+    check: (s) => (s.marks.reactorScar + s.marks.shellStrain + s.marks.supplyStress + s.marks.voidEcho) === 0 && s.tick > 10,
+    getProgress: (s) => {
+      const totalMarks = s.marks.reactorScar + s.marks.shellStrain + s.marks.supplyStress + s.marks.voidEcho;
+      return totalMarks === 0 ? 100 : Math.max(0, 100 - totalMarks * 5);
+    },
+  },
+  {
+    id: "overload_survive",
+    label: { en: "Maximum Overdrive", hu: "Maximális túlhajtás", de: "Maximaler Overdrive", ro: "Suprasolicitare maximă" },
+    rewardStars: 1,
+    check: (s) => Object.values(s.modules).some(m => m.load > 95 && m.integrity > 0),
+    getProgress: (s) => Math.min(100, (Math.max(...Object.values(s.modules).map(m => m.load)) / 95) * 100),
+  },
+  {
+    id: "pulse_master",
+    label: { en: "Avatar Pulse Master", hu: "Avatár impulzus mester", de: "Avatar-Puls Meister", ro: "Maestru Puls Avatar" },
+    rewardStars: 2,
+    check: (s) => s.avatarPulseCount >= 5,
+    getProgress: (s) => Math.min(100, (s.avatarPulseCount / 5) * 100),
+  },
+  {
+    id: "speed_activate",
+    label: { en: "Quick Awakening", hu: "Gyors ébredés", de: "Schnelles Erwachen", ro: "Trezire rapidă" },
+    rewardStars: 5,
+    check: (s) => s.phase === "awakened" && s.tick <= 200,
+    getProgress: (s) => s.phase === "awakened" ? (s.tick <= 200 ? 100 : 0) : Math.min(100, (s.resources.activation / 100) * 100),
+  },
+  {
+    id: "iron_station",
+    label: { en: "Iron Station", hu: "Vasállomás", de: "Eisenstation", ro: "Stație de fier" },
+    rewardStars: 3,
+    check: (s) => s.highStabilityStreak >= 30,
+    getProgress: (s) => Math.min(100, (s.highStabilityStreak / 30) * 100),
+  },
+  {
+    id: "deep_scavenger",
+    label: { en: "Deep Scavenger", hu: "Mély gyűjtögető", de: "Tiefensammler", ro: "Recuperator profund" },
+    rewardStars: 2,
+    check: (s) => s.resources.materials >= 80,
+    getProgress: (s) => Math.min(100, (s.resources.materials / 80) * 100),
+  },
+  {
+    id: "power_grid",
+    label: { en: "High Voltage", hu: "Magasfeszültség", de: "Hochspannung", ro: "Înaltă tensiune" },
+    rewardStars: 2,
+    check: (s) => s.resources.power >= 90,
+    getProgress: (s) => Math.min(100, (s.resources.power / 90) * 100),
+  },
+  {
+    id: "stability_wall",
+    label: { en: "Immovable", hu: "Mozdíthatatlan", de: "Unbeweglich", ro: "De neclintit" },
+    rewardStars: 2,
+    check: (s) => s.resources.stability >= 95,
+    getProgress: (s) => Math.min(100, (s.resources.stability / 95) * 100),
   },
 ];
 
@@ -77,16 +134,16 @@ export interface StarholdShopItem {
 
 export const STARHOLD_SHOP_ITEMS: StarholdShopItem[] = [
   {
-    id: "cyan_glow",
-    name: { en: "Cyan Resonance", hu: "Cián rezonancia", de: "Cyan-Resonanz", ro: "Rezonanță cian" },
-    description: { en: "Changes core pulse to deep cyan.", hu: "A mag pulzusát mélyciánra váltja.", de: "Ändert Kernpuls zu tiefem Cyan.", ro: "Schimbă pulsul nucleului în cian profund." },
-    cost: 5,
-    type: "cosmetic",
-  },
-  {
     id: "shield_efficiency",
     name: { en: "Shield Buffer", hu: "Pajzs puffer", de: "Schildpuffer", ro: "Tampon scut" },
     description: { en: "Reduces shell strain from impacts by 1.", hu: "Csökkenti a becsapódásokból eredő vázfeszülést 1-gyel.", de: "Senkt Hüllenspannung bei Einschlägen um 1.", ro: "Reduce tensiunea corpului la impact cu 1." },
+    cost: 5,
+    type: "utility",
+  },
+  {
+    id: "threat_predictor",
+    name: { en: "Threat Predictor", hu: "Veszély-előrejelző", de: "Bedrohungsprognose", ro: "Predictor de amenințări" },
+    description: { en: "Always shows the threat timer, even when far away.", hu: "Mindig mutatja a fenyegetés idejét, távolról is.", de: "Zeigt den Bedrohungstimer immer an, auch aus der Ferne.", ro: "Afișează întotdeauna cronometrul amenințării." },
     cost: 10,
     type: "utility",
   },
@@ -98,11 +155,53 @@ export const STARHOLD_SHOP_ITEMS: StarholdShopItem[] = [
     type: "utility",
   },
   {
-    id: "threat_predictor",
-    name: { en: "Threat Predictor", hu: "Veszély-előrejelző", de: "Bedrohungsprognose", ro: "Predictor de amenințări" },
-    description: { en: "Always shows the threat timer, even when far away.", hu: "Mindig mutatja a fenyegetés idejét, távolról is.", de: "Zeigt den Bedrohungstimer immer an, auch aus der Ferne.", ro: "Afișează întotdeauna cronometrul amenințării." },
-    cost: 20,
+    id: "entropy_dampener",
+    name: { en: "Entropy Dampener", hu: "Entrópia-csillapító", de: "Entropiedämpfer", ro: "Amortizor de entropie" },
+    description: { en: "Slows down entropy growth by 25%.", hu: "25%-kal lassítja az entrópiaszint növekedését.", de: "Verlangsamt das Entropiewachstum um 25%.", ro: "Încetinește creșterea entropiei cu 25%." },
+    cost: 8,
     type: "utility",
+  },
+  {
+    id: "mark_shield",
+    name: { en: "Mark Shield", hu: "Nyompajzs", de: "Spurenschild", ro: "Scut de marcaje" },
+    description: { en: "Reduces mark gain after threat impact by 1.", hu: "1-gyel csökkenti a nyomok növekedését becsapódás után.", de: "Reduziert den Spurenzuwachs nach Einschlägen um 1.", ro: "Reduce acumularea de marcaje după impact cu 1." },
+    cost: 12,
+    type: "utility",
+  },
+  {
+    id: "module_coolant",
+    name: { en: "Advanced Coolant", hu: "Fejlett hűtőfolyadék", de: "Fortschrittliches Kühlmittel", ro: "Lichid de răcire avansat" },
+    description: { en: "Module load cools down twice as fast.", hu: "A modulok terhelése kétszer gyorsabban hűl le.", de: "Modullast kühlt doppelt so schnell ab.", ro: "Sarcina modulului se răcește de două ori más repede." },
+    cost: 6,
+    type: "utility",
+  },
+  {
+    id: "resonance_amplifier",
+    name: { en: "Resonance Amplifier", hu: "Rezonancia-erősítő", de: "Resonanzverstärker", ro: "Amplificator de rezonanță" },
+    description: { en: "Increases activation transfer speed by 30%.", hu: "30%-kal növeli az aktiválási átvitel sebességét.", de: "Erhöht die Aktivierungsübertragungsgeschwindigkeit um 30%.", ro: "Crește viteza de transfer de activare cu 30%." },
+    cost: 15,
+    type: "utility",
+  },
+  {
+    id: "void_lens",
+    name: { en: "Void Lens", hu: "Void lencse", de: "Void-Linse", ro: "Lentilă Void" },
+    description: { en: "Void Echo marks decay twice as fast.", hu: "A Void visszhang (void echo) nyomok kétszer gyorsabban tűnnek el.", de: "Void-Echo-Spuren zerfallen doppelt so schnell.", ro: "Marcajele Ecou Void se degradează de două ori más repede." },
+    cost: 10,
+    type: "utility",
+  },
+  {
+    id: "cyan_glow",
+    name: { en: "Cyan Resonance", hu: "Cián rezonancia", de: "Cyan-Resonanz", ro: "Rezonanță cian" },
+    description: { en: "Changes core pulse to deep cyan.", hu: "A mag pulzusát mélyciánra váltja.", de: "Ändert Kernpuls zu tiefem Cyan.", ro: "Schimbă pulsul nucleului în cian profund." },
+    cost: 5,
+    type: "cosmetic",
+  },
+  {
+    id: "station_paint_gold",
+    name: { en: "Golden Hull", hu: "Arany burkolat", de: "Goldene Hülle", ro: "Carcasă aurie" },
+    description: { en: "A cosmetic golden trim for your station view.", hu: "Kozmetikai arany díszítés az állomás nézethez.", de: "Ein kosmetischer Goldrand für deine Stationsansicht.", ro: "Un ornament auriu cosmetic pentru vederea stației." },
+    cost: 20,
+    type: "cosmetic",
   },
 ];
 

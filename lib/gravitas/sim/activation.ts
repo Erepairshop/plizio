@@ -59,8 +59,10 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
   const nextResonance = clamp(state.resonance + amount * 2.5);
 
   // Power drain scales with resonance
+  const mods = getStarholdModifiers(state);
+  const amp = mods.resonanceAmplifier ? 1.3 : 1.0;
   const pwrDrain = Math.max(1, Math.floor(nextResonance / 20));
-  const actGain = (amount * (1 + nextResonance / 100)) * (state.resources.stability > 60 ? 1.2 : 1.0);
+  const actGain = (amount * (1 + nextResonance / 100) * amp) * (state.resources.stability > 60 ? 1.2 : 1.0);
 
   const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
   const awakened = nextActivation >= 100;

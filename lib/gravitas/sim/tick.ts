@@ -69,7 +69,9 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Module load cooling and overload wear
   Object.keys(nextModules).forEach((id) => {
     const m = nextModules[id as StarholdModuleId];
-    const nextLoad = m.online ? clamp(m.load - 1) : clamp(m.load - 2);
+    // moduleCoolant: load cooling 2x faster
+    const coolingBase = mods.moduleCoolant ? 2 : 1;
+    const nextLoad = m.online ? clamp(m.load - coolingBase) : clamp(m.load - (coolingBase * 2));
     let nextIntegrity = m.integrity;
     
     if (m.load >= 90) {
@@ -84,6 +86,25 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   let alert = state.alert;
   let nextJournal = [...state.journal];
+
+  // Station Report every 50 ticks
+  if (state.tick % 50 === 0 && state.tick > 0) {
+    const avgIntegrity = Math.floor(
+      (nextModules.reactor.integrity + nextModules.logistics.integrity +
+       nextModules.sensor.integrity + nextModules.core.integrity) / 4
+    );
+    const statusText = avgIntegrity > 70 ? { en: "STABLE", hu: "STABIL", de: "STABIL", ro: "STABIL" } : 
+                       avgIntegrity > 40 ? { en: "DAMAGED", hu: "SÉRÜLT", de: "BESCHÄDIGT", ro: "AVARIAT" } : 
+                       { en: "CRITICAL", hu: "KRITIKUS", de: "KRITISCH", ro: "CRITIC" };
+    
+    const report: LocalizedString = {
+      en: `Station Report T${state.tick}: ${statusText.en} — Avg integrity ${avgIntegrity}%, Entropy ${state.entropy}, Marks ${totalMarks}`,
+      hu: `Állomás jelentés T${state.tick}: ${statusText.hu} — Átlag integritás ${avgIntegrity}%, Entrópia ${state.entropy}, Nyomok ${totalMarks}`,
+      de: `Stationsbericht T${state.tick}: ${statusText.de} — Durchschn. Integrität ${avgIntegrity}%, Entropie ${state.entropy}, Spuren ${totalMarks}`,
+      ro: `Raport stație T${state.tick}: ${statusText.ro} — Integritate medie ${avgIntegrity}%, Entropie ${state.entropy}, Marcaje ${totalMarks}`,
+    };
+    nextJournal = pushJournal({ ...state, journal: nextJournal }, report);
+  }
 
   // Lockdown logic
   let nextLockdown = state.lockdown;
@@ -171,7 +192,9 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Entropy logic
   let nextEntropy = state.entropy;
   if (totalMarks > 12 || isCrisis || nextLockdown) {
-    nextEntropy = clamp(nextEntropy + Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0));
+    const baseGain = Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0);
+    // entropyDampener: 25% slower entropy growth
+    nextEntropy = clamp(nextEntropy + (mods.entropyDampener ? Math.ceil(baseGain * 0.75) : baseGain));
   } else if (totalMarks < 5 || isHighStability) {
     nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
   }
@@ -199,10 +222,11 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     marks: {
       // fullGrid synergy: All 4 modules online & healthy → marks decay 2× faster
       // Awakened fázisban: marks decay 50%-kal gyorsabb
+      // voidLens: voidEcho decay 2x faster
       reactorScar: clamp(state.marks.reactorScar + (state.modules.reactor.load >= 95 ? 1 : 0) - (state.modules.reactor.integrity >= 70 ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
       shellStrain: clamp(state.marks.shellStrain + (state.modules.core.load >= 95 ? 1 : 0) - (state.phase === "boot" ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
       supplyStress: clamp(state.marks.supplyStress + (state.modules.logistics.load >= 95 ? 1 : 0) - (state.modules.logistics.online ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
-      voidEcho: clamp(state.marks.voidEcho + (state.modules.sensor.load >= 95 ? 1 : 0) - (state.modules.core.integrity >= 80 ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult) : 0)),
+      voidEcho: clamp(state.marks.voidEcho + (state.modules.sensor.load >= 95 ? 1 : 0) - (state.modules.core.integrity >= 80 ? Math.ceil((mods.fullGrid ? 2 : 1) * decayMult * (mods.voidLens ? 2 : 1)) : 0)),
     },
     anomalies: nextAnomalies,
     entropy: nextEntropy,
@@ -212,6 +236,9 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     highStability: isHighStability,
     lockdown: nextLockdown,
     pendingEvent: nextPendingEvent,
+    lowEntropyStreak: nextEntropy < 10 ? state.lowEntropyStreak + 1 : 0,
+    highStabilityStreak: nextStability > 90 ? state.highStabilityStreak + 1 : 0,
+    wasCrisis: state.crisis,
     progression: {
       ...state.progression,
       lastStarGain: 0, // Clear last gain pulse
