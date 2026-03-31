@@ -133,7 +133,7 @@ const T = {
     blocked: "Calea este blocată în cealaltă lume!",
     exitLocked: "Colectează mai întâi toate sferele!",
     },
-    } as const;
+  de: {
     title: "SCHATTENSCHALTER",
     subtitle: "Wechsle die Dimension, um unmögliche Labyrinthe zu meistern.",
     home: "Start",
