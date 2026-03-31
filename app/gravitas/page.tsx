@@ -108,17 +108,20 @@ export default function GravitasPage() {
   const [showAwakening, setShowAwakening] = useState(false);
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
+  const [actionFeedback, setActionFeedback] = useState<LocalizedString | null>(null);
   const [tipDismissed, setTipDismissed] = useState(false);
   const [showGameOver, setShowGameOver] = useState(false);
   const [onboardingDismissed, setOnboardingDismissed] = useState(false);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
+  const prevStateRef = useRef(state);
+  const lastActionRef = useRef<StarholdCommand | null>(null);
   const awakeningShownRef = useRef(false);
-  const prevResourcesRef = useRef(state.resources);
 
   const doAction = (command: StarholdCommand, color: string) => {
     if (state.stationLost) return;
+    lastActionRef.current = command;
     dispatch(command);
     setActionFlash(color);
     setTimeout(() => setActionFlash(null), 300);
@@ -171,6 +174,22 @@ export default function GravitasPage() {
       saveGravitasState(state);
     }
   }, [state.tick]);
+
+  useEffect(() => {
+    const command = lastActionRef.current;
+    const prev = prevStateRef.current;
+    prevStateRef.current = state;
+
+    if (!command) return;
+
+    const feedback = buildActionFeedback(prev, state, command);
+    lastActionRef.current = null;
+
+    if (!feedback) return;
+    setActionFeedback(feedback);
+    const timeout = window.setTimeout(() => setActionFeedback(null), 2200);
+    return () => window.clearTimeout(timeout);
+  }, [state]);
 
   const localize = (ls: LocalizedString | null | undefined) => {
     if (!ls) return "";
@@ -301,6 +320,220 @@ export default function GravitasPage() {
     if (state.tick >= 20 && state.tick < 30 && state.phase === "boot") return { en: "When ready, Reroute to Core to begin avatar activation.", hu: "Ha kész vagy, irányítsd az energiát a magba az aktiváláshoz.", de: "Wenn bereit, leiten Sie Energie in den Kern zur Aktivierung.", ro: "Când ești gata, redirecționează spre nucleu pentru activare." };
     return null;
   }, [state.tick, state.modules.logistics.online, state.phase, state.avatarAwake]);
+
+  const buildActionFeedback = (
+    prev: StarholdState,
+    next: StarholdState,
+    command: StarholdCommand,
+  ): LocalizedString | null => {
+    if (next.alert && next.alert !== prev.alert) {
+      return next.alert;
+    }
+
+    const delta = {
+      power: next.resources.power - prev.resources.power,
+      materials: next.resources.materials - prev.resources.materials,
+      stability: next.resources.stability - prev.resources.stability,
+      activation: next.resources.activation - prev.resources.activation,
+    };
+
+    const hasResourceShift = Object.values(delta).some((value) => value !== 0);
+    const format = (value: number, label: string) => `${value > 0 ? "+" : ""}${value} ${label}`;
+
+    switch (command.type) {
+      case "SCAVENGE":
+        if (hasResourceShift) {
+          return {
+            en: `Scavenge complete. ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "PWR")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            hu: `Nyersanyaggyűjtés kész. ${format(delta.materials, "ANY")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            de: `Bergung abgeschlossen. ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            ro: `Colectarea s-a terminat. ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+          };
+        }
+        break;
+      case "STABILIZE_REACTOR":
+        return {
+          en: `Reactor stabilized. ${format(delta.power, "PWR")}, ${format(delta.stability, "STB")}.`,
+          hu: `Reaktor stabilizálva. ${format(delta.power, "ENE")}, ${format(delta.stability, "STB")}.`,
+          de: `Reaktor stabilisiert. ${format(delta.power, "ENE")}, ${format(delta.stability, "STB")}.`,
+          ro: `Reactor stabilizat. ${format(delta.power, "ENE")}, ${format(delta.stability, "STB")}.`,
+        };
+      case "REPAIR_MODULE": {
+        const module = next.modules[command.moduleId];
+        const integrityDelta = module.integrity - prev.modules[command.moduleId].integrity;
+        return {
+          en: `${localize(module.name)} repaired to ${module.integrity}%. ${format(integrityDelta, "% integrity")}.`,
+          hu: `${localize(module.name)} javítva ${module.integrity}%-ra. ${format(integrityDelta, "% integritás")}.`,
+          de: `${localize(module.name)} auf ${module.integrity}% repariert. ${format(integrityDelta, "% Integrität")}.`,
+          ro: `${localize(module.name)} reparat la ${module.integrity}%. ${format(integrityDelta, "% integritate")}.`,
+        };
+      }
+      case "REROUTE_TO_CORE":
+        return {
+          en: `Power rerouted to the core. Activation +${delta.activation || 12}.`,
+          hu: `Az energia a maghoz lett irányítva. Aktiválás +${delta.activation || 12}.`,
+          de: `Energie zum Kern umgeleitet. Aktivierung +${delta.activation || 12}.`,
+          ro: `Energia redirecționată spre nucleu. Activare +${delta.activation || 12}.`,
+        };
+      case "DISTORTION_SWEEP":
+        return {
+          en: `Distortion sweep cleared the drift. ${format(delta.stability, "STB")}.`,
+          hu: `A torzításcsökkentés megtisztította a driftet. ${format(delta.stability, "STB")}.`,
+          de: `Der Distortionssweep hat den Drift bereinigt. ${format(delta.stability, "STB")}.`,
+          ro: `Scanarea distorsiunilor a curățat deriva. ${format(delta.stability, "STB")}.`,
+        };
+      case "PURGE_ANOMALY":
+        return {
+          en: `Anomaly purged from the grid.`,
+          hu: `Anomália eltávolítva a hálózatból.`,
+          de: `Anomalie aus dem Netz entfernt.`,
+          ro: `Anomalie eliminată din rețea.`,
+        };
+      case "OVERCLOCK_REACTOR":
+        return {
+          en: `Reactor overclocked. ${format(delta.power, "PWR")} at the cost of deeper strain.`,
+          hu: `Reaktor túlhajtva. ${format(delta.power, "ENE")} nagyobb terhelés árán.`,
+          de: `Reaktor übertaktet. ${format(delta.power, "ENE")} auf Kosten höherer Belastung.`,
+          ro: `Reactor suprasolicitat. ${format(delta.power, "ENE")} cu prețul unei tensiuni mai mari.`,
+        };
+      case "OPTIMIZE_LOGISTICS":
+        return {
+          en: `Logistics optimized. ${format(delta.materials, "MAT")} flow improved.`,
+          hu: `Logisztika optimalizálva. ${format(delta.materials, "ANY")} áramlás javult.`,
+          de: `Logistik optimiert. ${format(delta.materials, "MAT")} Fluss verbessert.`,
+          ro: `Logistica optimizată. Fluxul a crescut cu ${format(delta.materials, "MAT")}.`,
+        };
+      case "DEEP_SCAN":
+        return {
+          en: `Deep scan complete. Void echo softened.`,
+          hu: `Mélyvizsgálat kész. A void visszhang csillapodott.`,
+          de: `Tiefenscan abgeschlossen. Das Void-Echo wurde gedämpft.`,
+          ro: `Scanare profundă finalizată. Ecoul void a fost atenuat.`,
+        };
+      case "DAMPEN_SIGNALS":
+        return {
+          en: `Threat signal dampened.`,
+          hu: `A fenyegetés jele csillapítva.`,
+          de: `Bedrohungssignal gedämpft.`,
+          ro: `Semnalul amenințării a fost atenuat.`,
+        };
+      case "FORTIFY_SHELL":
+        return {
+          en: `Shell fortified.`,
+          hu: `A test megerősítve.`,
+          de: `Hülle verstärkt.`,
+          ro: `Corpul a fost fortificat.`,
+        };
+      case "INTERCEPT_THREAT":
+        return {
+          en: `Intercept drones deployed.`,
+          hu: `Elfogó drónok bevetve.`,
+          de: `Abfangdrohnen eingesetzt.`,
+          ro: `Drone de intercepție desfășurate.`,
+        };
+      case "PREDICT_THREAT":
+        return {
+          en: `Threat trajectory predicted.`,
+          hu: `A fenyegetés pályája előrejelezve.`,
+          de: `Bedrohungstrajektorie vorhergesagt.`,
+          ro: `Traiectoria amenințării a fost prezisă.`,
+        };
+      case "EMERGENCY_VENT":
+        return {
+          en: `Pressure vented. ${format(delta.stability, "STB")} returned to the grid.`,
+          hu: `A nyomás kivezetve. ${format(delta.stability, "STB")} visszakerült a hálózatba.`,
+          de: `Druck abgelassen. ${format(delta.stability, "STB")} kehrten ins Netz zurück.`,
+          ro: `Presiunea a fost evacuată. ${format(delta.stability, "STB")} au revenit în rețea.`,
+        };
+      case "TUNE_SHIELDS":
+        return {
+          en: `Shield frequencies tuned. Incoming threat reduced.`,
+          hu: `A pajzsfrekvenciák beállítva. A bejövő fenyegetés csökkent.`,
+          de: `Schildfrequenzen abgestimmt. Eingehende Bedrohung reduziert.`,
+          ro: `Frecvențele scutului reglate. Amenințarea a fost redusă.`,
+        };
+      case "EMERGENCY_DISCHARGE":
+        return {
+          en: `Emergency discharge released. ${format(delta.stability, "STB")} added.`,
+          hu: `Vészkisülés kibocsátva. ${format(delta.stability, "STB")} hozzáadva.`,
+          de: `Notentladung ausgelöst. ${format(delta.stability, "STB")} hinzugefügt.`,
+          ro: `Descărcare de urgență eliberată. ${format(delta.stability, "STB")} adăugate.`,
+        };
+      case "RAPID_FABRICATION": {
+        const module = next.modules[command.moduleId];
+        return {
+          en: `Rapid fabrication finished for ${localize(module.name)}.`,
+          hu: `Gyorsgyártás kész: ${localize(module.name)}.`,
+          de: `Schnellfertigung abgeschlossen für ${localize(module.name)}.`,
+          ro: `Fabricare rapidă finalizată pentru ${localize(module.name)}.`,
+        };
+      }
+      case "AVATAR_PULSE":
+        return {
+          en: `Avatar pulse released. The station steadied.`,
+          hu: `Az avatár impulzusa kibocsátva. Az állomás megnyugodott.`,
+          de: `Avatarpuls freigesetzt. Die Station stabilisierte sich.`,
+          ro: `Pulsul avatarului eliberat. Stația s-a stabilizat.`,
+        };
+      case "RESOLVE_EVENT": {
+        const eventName = prev.pendingEvent ? localize(prev.pendingEvent.title) : "";
+        return {
+          en: eventName ? `Resolved: ${eventName}.` : "Event resolved.",
+          hu: eventName ? `Megoldva: ${eventName}.` : "Esemény megoldva.",
+          de: eventName ? `Gelöst: ${eventName}.` : "Ereignis gelöst.",
+          ro: eventName ? `Rezolvat: ${eventName}.` : "Eveniment rezolvat.",
+        };
+      }
+      case "BUY_ITEM":
+        return {
+          en: "Upgrade acquired.",
+          hu: "Fejlesztés megvéve.",
+          de: "Upgrade erworben.",
+          ro: "Îmbunătățire achiziționată.",
+        };
+      case "ACKNOWLEDGE_PHASE_SHIFT":
+        return {
+          en: "Phase shift acknowledged.",
+          hu: "Fázisváltás tudomásul véve.",
+          de: "Phasenwechsel bestätigt.",
+          ro: "Schimbarea de fază confirmată.",
+        };
+      case "CLAIM_MILESTONE":
+        return {
+          en: "Milestone claimed.",
+          hu: "Mérföldkő felvéve.",
+          de: "Meilenstein beansprucht.",
+          ro: "Obiectiv revendicat.",
+        };
+      default:
+        break;
+    }
+
+    if (hasResourceShift) {
+      const pieces = [
+        delta.power ? format(delta.power, "PWR") : null,
+        delta.materials ? format(delta.materials, "MAT") : null,
+        delta.stability ? format(delta.stability, "STB") : null,
+        delta.activation ? format(delta.activation, "ACT") : null,
+      ].filter(Boolean);
+
+      if (pieces.length > 0) {
+        return {
+          en: `Station state changed: ${pieces.join(", ")}.`,
+          hu: `Az állapot változott: ${pieces.join(", ")}.`,
+          de: `Stationszustand geändert: ${pieces.join(", ")}.`,
+          ro: `Starea stației s-a schimbat: ${pieces.join(", ")}.`,
+        };
+      }
+    }
+
+    return {
+      en: "The station responded, but the change is still subtle.",
+      hu: "Az állomás reagált, de a változás még finom.",
+      de: "Die Station reagierte, aber die Änderung ist noch subtil.",
+      ro: "Stația a răspuns, dar schimbarea este încă subtilă.",
+    };
+  };
 
   const mods = getStarholdModifiers(state);
 
@@ -489,6 +722,29 @@ export default function GravitasPage() {
                   >
                     {localize(content.victory.continuePlaying)}
                   </button>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
+            {actionFeedback && (
+              <motion.div
+                initial={{ opacity: 0, y: 20, scale: 0.98 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, y: 10, scale: 0.98 }}
+                className="fixed bottom-[116px] left-4 right-4 z-[65] mx-auto max-w-xl rounded-2xl border border-cyan-400/20 bg-black/85 backdrop-blur-xl px-4 py-3 shadow-2xl pointer-events-none lg:bottom-6"
+              >
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 h-2.5 w-2.5 rounded-full bg-cyan-400 shadow-[0_0_14px_rgba(34,211,238,0.85)] shrink-0" />
+                  <div className="min-w-0">
+                    <div className="text-[9px] font-black uppercase tracking-[0.28em] text-cyan-300">
+                      {localize(ui.actions)}
+                    </div>
+                    <div className="mt-1 text-sm font-black text-white leading-snug">
+                      {localize(actionFeedback)}
+                    </div>
+                  </div>
                 </div>
               </motion.div>
             )}
@@ -883,7 +1139,7 @@ export default function GravitasPage() {
                 {state.pendingEvent.options.map((opt, idx) => (
                   <button
                     key={opt.id}
-                    onClick={() => dispatch({ type: "RESOLVE_EVENT", optionId: opt.id })}
+                    onClick={() => doAction({ type: "RESOLVE_EVENT", optionId: opt.id }, "rgba(251,191,36,0.35)")}
                     className={`w-full p-5 rounded-2xl border text-left transition active:scale-[0.98] ${idx === 0 ? "border-amber-400 bg-amber-400/10 hover:bg-amber-400/20" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
                   >
                     <div className={`text-[10px] font-black uppercase tracking-widest mb-1 ${idx === 0 ? "text-amber-400" : "text-white/40"}`}>
