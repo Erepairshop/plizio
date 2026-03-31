@@ -109,7 +109,6 @@ export default function GravitasPage() {
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
   const [tipDismissed, setTipDismissed] = useState(false);
-  const [showVictory, setShowVictory] = useState(false);
   const [showGameOver, setShowGameOver] = useState(false);
   
   const holdRef = useRef<number | null>(null);
@@ -130,12 +129,6 @@ export default function GravitasPage() {
       awakeningShownRef.current = true;
     }
   }, [state.avatarAwake]);
-
-  useEffect(() => {
-    if (state.firstLoopComplete && !state.firstLoopShown && !showVictory) {
-      setShowVictory(true);
-    }
-  }, [state.firstLoopComplete, state.firstLoopShown, showVictory]);
 
   useEffect(() => {
     if (state.stationLost && !showGameOver) {
@@ -228,11 +221,19 @@ export default function GravitasPage() {
   );
 
   const currentTip = useMemo(() => {
+    if (state.avatarAwake) {
+      return {
+        en: "Phase II is active. The station is now your anchor, not your limit.",
+        hu: "A II. fázis aktív. Az állomás most már horgony, nem határ.",
+        de: "Phase II ist aktiv. Die Station ist jetzt dein Anker, nicht dein Limit.",
+        ro: "Faza II este activă. Stația este acum ancora ta, nu limita ta.",
+      };
+    }
     if (state.tick < 10) return { en: "Your station is damaged. Scavenge materials to begin repairs.", hu: "Az állomás sérült. Gyűjts anyagot a javítások elindításához.", de: "Ihre Station ist beschädigt. Sammeln Sie Material für Reparaturen.", ro: "Stația este avariată. Colectează materiale pentru reparații." };
     if (state.tick >= 10 && state.tick < 20 && !state.modules.logistics.online) return { en: "Repair Logistics to improve material flow.", hu: "Javítsd meg a logisztikát az anyagáramlás segítéséhez.", de: "Reparieren Sie die Logistik für besseren Materialfluss.", ro: "Repará logistica pentru a îmbunătăți fluxul de materiale." };
     if (state.tick >= 20 && state.tick < 30 && state.phase === "boot") return { en: "When ready, Reroute to Core to begin avatar activation.", hu: "Ha kész vagy, irányítsd az energiát a magba az aktiváláshoz.", de: "Wenn bereit, leiten Sie Energie in den Kern zur Aktivierung.", ro: "Când ești gata, redirecționează spre nucleu pentru activare." };
     return null;
-  }, [state.tick, state.modules.logistics.online, state.phase]);
+  }, [state.tick, state.modules.logistics.online, state.phase, state.avatarAwake]);
 
   const mods = getStarholdModifiers(state);
 
@@ -269,6 +270,11 @@ export default function GravitasPage() {
             <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.highStability ? "bg-emerald-500/20 text-emerald-400" : "bg-cyan-500/20 text-cyan-300"}`}>
               {phaseLabel}
             </div>
+            {state.avatarAwake && (
+              <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/20 text-fuchsia-300">
+                {localize(content.victory.firstLoopTitle)}
+              </div>
+            )}
             {/* Phase Description Tooltip */}
             <div className="absolute top-full left-0 mt-2 p-3 rounded-xl bg-black/80 backdrop-blur-xl border border-white/10 text-[10px] text-white/60 w-48 opacity-0 group-hover:opacity-100 group-active:opacity-100 transition-opacity pointer-events-none z-[100] shadow-2xl">
               {localize(content.lore.phaseDescriptions[state.phase])}
@@ -351,6 +357,34 @@ export default function GravitasPage() {
                 <button onClick={() => setTipDismissed(true)} className="p-1 text-white/40 hover:text-white transition">
                   <X size={14} />
                 </button>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
+            {state.firstLoopComplete && !state.firstLoopShown && (
+              <motion.div
+                initial={{ opacity: 0, y: -8 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -8 }}
+                className="absolute top-36 left-4 right-4 z-30 rounded-2xl border border-fuchsia-400/30 bg-fuchsia-500/10 backdrop-blur-md p-4 shadow-[0_0_30px_rgba(232,121,249,0.15)]"
+              >
+                <div className="flex items-center justify-between gap-4">
+                  <div className="min-w-0">
+                    <div className="text-[10px] font-black uppercase tracking-[0.28em] text-fuchsia-300">
+                      {localize(content.victory.firstLoopTitle)}
+                    </div>
+                    <div className="mt-1 text-xs text-white/75 leading-snug">
+                      {localize(content.ui.phaseShift)}
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => dispatch({ type: "ACKNOWLEDGE_PHASE_SHIFT" })}
+                    className="shrink-0 rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 px-3 py-2 text-[10px] font-black uppercase tracking-widest text-fuchsia-100 hover:bg-fuchsia-400/25 transition"
+                  >
+                    {localize(content.victory.continuePlaying)}
+                  </button>
+                </div>
               </motion.div>
             )}
           </AnimatePresence>
@@ -505,7 +539,7 @@ export default function GravitasPage() {
         <MainAction label={localize(ui.stabilize)} onClick={() => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)")} emphasis={isRecovering && !isLockdown} />
         <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} />
         <MainAction
-          label={state.phase === "awakened" ? localize({ en: "Avatar Pulse", hu: "Avatár impulzus", de: "Avatar-Puls", ro: "Puls Avatar" }) : localize(ui.reroute)}
+          label={state.phase === "awakened" ? localize({ en: "World Pulse", hu: "Világimpulzus", de: "Weltpuls", ro: "Pulsul lumii" }) : localize(ui.reroute)}
           onClick={() => doAction({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" }, "rgba(219,39,119,0.4)")}
           disabled={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown)}
           highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown)}
@@ -802,50 +836,6 @@ export default function GravitasPage() {
         )}
       </AnimatePresence>
 
-      {/* Victory Overlay (First Loop) */}
-      <AnimatePresence>
-        {showVictory && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            className="fixed inset-0 z-[300] bg-pink-900/40 backdrop-blur-3xl flex flex-col items-center justify-center p-8 text-center"
-          >
-            <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              className="max-w-md space-y-8"
-            >
-              <div className="w-24 h-24 rounded-full bg-gradient-to-tr from-pink-500 to-amber-400 p-0.5 animate-bounce shadow-[0_0_40px_rgba(236,72,153,0.5)]">
-                <div className="w-full h-full rounded-full bg-black flex items-center justify-center">
-                  <Star size={40} className="text-amber-400" fill="currentColor" />
-                </div>
-              </div>
-              <div className="space-y-4">
-                <h2 className="text-4xl font-black tracking-tighter text-white uppercase bg-clip-text text-transparent bg-gradient-to-b from-white to-white/40">
-                  {localize(content.victory.firstLoopTitle)}
-                </h2>
-                <div className="px-4 py-2 rounded-full bg-white/10 border border-white/10 text-amber-400 font-black text-xs inline-block">
-                  REWARD: +10 STARS ⭐
-                </div>
-              </div>
-              
-              <div className="grid grid-cols-2 gap-4 py-6 border-y border-white/5">
-                <StatItem label="Ticks" value={state.tick} />
-                <StatItem label="Waves" value={state.threatCycle} />
-                <StatItem label="Stability" value={`${state.resources.stability}%`} />
-                <StatItem label="Power" value={state.resources.power} />
-              </div>
-
-              <button
-                onClick={() => { dispatch({ type: "BUY_ITEM", itemId: "__FIRST_LOOP_ACK__" }); setShowVictory(false); }}
-                className="w-full py-4 rounded-2xl bg-white text-black font-black uppercase tracking-widest hover:scale-105 active:scale-95 transition shadow-2xl"
-              >
-                {localize(content.victory.continuePlaying)}
-              </button>
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
     </main>
   );
 }

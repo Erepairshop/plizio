@@ -373,6 +373,12 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "BUY_ITEM": {
       return buyStarholdItem(state, command.itemId);
     }
+    case "ACKNOWLEDGE_PHASE_SHIFT": {
+      return {
+        ...state,
+        firstLoopShown: true,
+      };
+    }
     case "CLAIM_MILESTONE": {
       return claimStarholdMilestone(state, command.milestoneId);
     }

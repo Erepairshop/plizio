@@ -69,7 +69,7 @@ A játékos ezt a sorrendet élje át:
 8. Aftershock és recovery döntések következnek.
 9. Halad az avatar-ébresztés felé.
 10. Megkapja az első komoly “születési” pillanatot.
-11. Az awakening után is folytatódik a station loop, csak mélyebb világállapotokkal.
+11. Az awakening után a station loop már a Phase II alapja lesz, és megnyílik a tágabb világ rétege.
 12. Ezen a ponton közelítünk ahhoz a határhoz, ahol a későbbi galaxisréteg egyszer megnyílhat.
 
 ## Mi számít az első lezárásnak?
@@ -268,6 +268,7 @@ A first loopban az awakening:
 - korai nagy milestone
 - identitásképző pillanat
 - a teljes Gravitas-világ központi eseménye
+- a Phase II és a tágabb world layer nyitánya
 
 ## Progression / stars / shop
 

@@ -212,7 +212,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
   const nextCycle = state.threatCycle + 1;
   const nextType = nextCycle === 1 ? "distortionWave" : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
-  const nextDuration = Math.max(10, 15 - Math.floor(nextCycle / 4));
+  const nextDuration = Math.max(14, 18 - Math.floor(nextCycle / 5));
   const starReward = Math.ceil(threat.intensity / 2);
 
   return {

@@ -76,10 +76,16 @@ export const GRAVITAS_TEXT = {
       ro: "Adună suficientă energie și stabilitate pentru a trezi corpul din camera nucleului."
     },
     awakened: {
-      en: "The shell opened its eyes. This is the first living spark of your avatar.",
-      hu: "A test felnézett. Ez az avatárod első valódi pillanata.",
-      de: "Die Hülle hat die Augen geöffnet. Das ist der erste lebendige Moment deines Avatars.",
-      ro: "Corpul a deschis ochii. Acesta este primul moment viu al avatarului tău."
+      en: "The shell opened its eyes. The station is now your anchor, not your boundary.",
+      hu: "A test felnézett. Az állomás most már horgony, nem határ.",
+      de: "Die Hülle hat die Augen geöffnet. Die Station ist jetzt dein Anker, nicht dein Rand.",
+      ro: "Corpul a deschis ochii. Stația este acum ancora ta, nu limita ta."
+    },
+    phaseShift: {
+      en: "Phase II unlocked. The wider world is now active.",
+      hu: "II. fázis feloldva. A tágabb világ most aktív.",
+      de: "Phase II freigeschaltet. Die weitere Welt ist jetzt aktiv.",
+      ro: "Faza II deblocată. Lumea mai largă este acum activă.",
     },
     offline: { en: "Offline", hu: "Offline", de: "Offline", ro: "Offline" },
     online: { en: "Online", hu: "Online", de: "Online", ro: "Online" },
@@ -131,7 +137,7 @@ export const GRAVITAS_TEXT = {
     phaseDescriptions: {
       boot: { en: "Emergency protocols active. Stabilize systems to survive.", hu: "Vészprotokollok aktívak. Stabilizáld a rendszereket.", de: "Notfallprotokolle aktiv. Systeme stabilisieren.", ro: "Protocoale de urgență active. Stabilizează sistemele." },
       activation: { en: "The core chamber resonates. Something is awakening.", hu: "A magkamra rezonál. Valami ébredezik.", de: "Die Kernkammer resoniert. Etwas erwacht.", ro: "Camera nucleului rezonează. Ceva se trezește." },
-      awakened: { en: "The avatar breathes. A new presence fills the station.", hu: "Az avatár lélegzik. Új jelenlét tölti be az állomást.", de: "Der Avatar atmet. Eine neue Präsenz erfüllt die Station.", ro: "Avatarul respiră. O nouă prezență umple stația." },
+      awakened: { en: "The avatar breathes. The station is now the first layer of a wider world.", hu: "Az avatár lélegzik. Az állomás most egy tágabb világ első rétege.", de: "Der Avatar atmet. Die Station ist jetzt die erste Schicht einer größeren Welt.", ro: "Avatarul respiră. Stația este acum primul strat al unei lumi mai largi." },
     },
     voidWhispers: [
       { en: "...the void remembers...", hu: "...az űr emlékszik...", de: "...die Leere erinnert sich...", ro: "...vidul își amintește..." },
@@ -149,9 +155,9 @@ export const GRAVITAS_TEXT = {
       de: "Deine Station trieb in die Leere. Jede Lektion trägt Früchte.",
       ro: "Stația ta a rătăcit în vid. Fiecare lecție contează."
     },
-    firstLoopTitle: { en: "FIRST LOOP COMPLETE", hu: "ELSŐ CIKLUS KÉSZ", de: "ERSTER ZYKLUS VOLLENDET", ro: "PRIMUL CICLU COMPLET" },
+    firstLoopTitle: { en: "PHASE II OPENED", hu: "II. FÁZIS MEGNYÍLT", de: "PHASE II GEÖFFNET", ro: "FAZA II DESCHISĂ" },
     tryAgain: { en: "Try Again", hu: "Újrapróbálás", de: "Nochmal versuchen", ro: "Încearcă din nou" },
-    continuePlaying: { en: "Continue Playing", hu: "Folytatás", de: "Weiterpielen", ro: "Continuă" },
+    continuePlaying: { en: "Enter the wider world", hu: "Belépés a tágabb világba", de: "In die weitere Welt", ro: "Intră în lumea largă" },
   },
   activation: {
     conduitUnlockedAlert: {

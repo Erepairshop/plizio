@@ -140,8 +140,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "powerFluctuation",
-    minTick: 4,
-    cooldown: 6,
+    minTick: 8,
+    cooldown: 10,
     shouldTrigger: (state) => state.resources.power <= 12 || state.modules.reactor.integrity < 45,
     create: () => ({
       ...chainedEvent(
@@ -256,8 +256,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "materialBottleneck",
-    minTick: 6,
-    cooldown: 7,
+    minTick: 10,
+    cooldown: 12,
     shouldTrigger: (state) => state.resources.materials <= 6 && !state.modules.logistics.online,
     create: () => ({
       id: "materialBottleneck",
@@ -306,8 +306,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "entropyCascade",
-    minTick: 20,
-    cooldown: 25,
+    minTick: 26,
+    cooldown: 30,
     shouldTrigger: (state) => state.entropy > 40,
     create: () => ({
       ...chainedEvent(
@@ -404,8 +404,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "signalPulse",
-    minTick: 8,
-    cooldown: 10,
+    minTick: 12,
+    cooldown: 14,
     shouldTrigger: (state) => state.phase === "activation" && state.resources.activation >= 25,
     create: () => ({
       ...chainedEvent(
@@ -506,8 +506,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "driftLock",
-    minTick: 12,
-    cooldown: 14,
+    minTick: 16,
+    cooldown: 18,
     shouldTrigger: (state) =>
       state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress >= 7 &&
       state.phase !== "boot",
@@ -563,8 +563,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "voidBreach",
-    minTick: 15,
-    cooldown: 20,
+    minTick: 18,
+    cooldown: 24,
     shouldTrigger: (state) => state.resources.activation > 40 && state.marks.voidEcho > 2,
     create: () => ({
       ...chainedEvent(
@@ -659,8 +659,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "sensorGhosting",
-    minTick: 10,
-    cooldown: 12,
+    minTick: 14,
+    cooldown: 18,
     shouldTrigger: (state) => state.modules.sensor.online && state.marks.shellStrain > 3,
     create: () => ({
       id: "sensorGhosting",
@@ -697,8 +697,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "deepTrek",
-    minTick: 8,
-    cooldown: 15,
+    minTick: 14,
+    cooldown: 20,
     shouldTrigger: (state) => state.modules.logistics.online && state.resources.power > 15,
     create: () => ({
       id: "deepTrek",
@@ -749,8 +749,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
   },
   {
     id: "supplyCascade",
-    minTick: 5,
-    cooldown: 12,
+    minTick: 10,
+    cooldown: 16,
     shouldTrigger: (state) => state.modules.logistics.online && state.resources.materials < 15,
     create: () => ({
       ...chainedEvent(
@@ -922,7 +922,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
 ];
 
 export function applyStarholdEvents(state: StarholdState): StarholdState {
-  if (state.pendingEvent) {
+  if (state.pendingEvent || (state.eventQuietTicks ?? 0) > 0) {
     return state;
   }
 
@@ -959,8 +959,16 @@ export function resolveStarholdEvent(state: StarholdState, optionId: string): St
     return {
       ...state,
       pendingEvent: null,
+      eventQuietTicks: Math.max(state.eventQuietTicks ?? 0, 3),
     };
   }
 
-  return event.resolve(state, optionId);
+  const nextState = event.resolve(state, optionId);
+  if (nextState.pendingEvent === null) {
+    return {
+      ...nextState,
+      eventQuietTicks: Math.max(nextState.eventQuietTicks ?? 0, 3),
+    };
+  }
+  return nextState;
 }

@@ -158,10 +158,10 @@ export default function GravitasShop({ state, lang, ui, onClose, onBuy, onClaim 
           </div>
         </div>
 
-        <div className="p-6 bg-white/[0.02] border-top border-white/5">
-           <p className="text-[11px] text-center text-white/30 font-medium leading-relaxed max-w-[400px] mx-auto">
-             {localize(ui.shopDescription)}
-           </p>
+        <div className="p-6 bg-white/[0.02] border-t border-white/5">
+          <p className="text-[11px] text-center text-white/30 font-medium leading-relaxed max-w-[400px] mx-auto">
+            {localize(ui.shopDescription)}
+          </p>
         </div>
       </div>
     </div>

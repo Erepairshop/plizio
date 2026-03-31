@@ -108,10 +108,12 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
     progression: {
       ...state.progression,
       stars: state.progression.stars + (awakened ? 5 : 0),
+      lastStarGain: awakened ? 5 : state.progression.lastStarGain,
     },
+    firstLoopComplete: awakened ? true : state.firstLoopComplete,
     alert,
     journal: awakened
-      ? pushJournal(state, A.awakenedJournal)
+      ? pushJournal(state, GRAVITAS_TEXT.ui.phaseShift)
       : state.resources.activation % 10 < amount
         ? pushJournal(state, intensityLine)
         : state.journal,

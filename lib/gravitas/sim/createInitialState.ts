@@ -22,8 +22,8 @@ export function createInitialStarholdState(): StarholdState {
     entropy: 0,
     threat: {
       type: "distortionWave",
-      countdown: 20,
-      totalDuration: 20,
+      countdown: 28,
+      totalDuration: 28,
       intensity: 2,
       fortified: false,
       dampened: false,
@@ -45,6 +45,7 @@ export function createInitialStarholdState(): StarholdState {
     resonance: 0,
     lastEventTick: {},
     pendingEvent: null,
+    eventQuietTicks: 0,
     crisis: false,
     highStability: false,
     lockdown: false,

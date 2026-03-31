@@ -10,6 +10,7 @@ import { getStarholdModifiers } from "./modifiers";
 
 export function advanceStarholdTick(state: StarholdState): StarholdState {
   const mods = getStarholdModifiers(state);
+  const nextQuietTicks = Math.max(0, (state.eventQuietTicks ?? 0) - 1);
   const reactorBoost = state.modules.reactor.online ? 2 : 0;
   const logisticsDrain = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
   // sensorBoost synergy: Reactor + Sensor both healthy → +2 stability instead of +1
@@ -214,10 +215,10 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const allModulesCrit = Object.values(nextModules).every(m => m.integrity < 10);
   const stationLost = nextLockdownDuration >= 30 && allModulesCrit;
 
-  // Victory Check: First Loop Complete
+  // Phase shift safety net: if awakening happened outside this tick, keep the transition stable.
   let firstLoopComplete = state.firstLoopComplete;
   let progression = { ...state.progression };
-  if (state.phase === "awakened" && state.threatCycle >= 5 && nextStability > 60 && !state.firstLoopShown && !state.firstLoopComplete) {
+  if (state.phase === "awakened" && !state.firstLoopShown && !state.firstLoopComplete) {
     firstLoopComplete = true;
     progression.stars += 10;
     progression.lastStarGain = 10;
@@ -254,6 +255,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     stationLost,
     firstLoopComplete,
     pendingEvent: nextPendingEvent,
+    eventQuietTicks: nextQuietTicks,
     lowEntropyStreak: nextEntropy < 10 ? state.lowEntropyStreak + 1 : 0,
     highStabilityStreak: nextStability > 90 ? state.highStabilityStreak + 1 : 0,
     wasCrisis: state.crisis,
@@ -266,7 +268,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const threatResult = advanceStarholdThreat(withResonance);
 
   // Events - skipped if threat just impacted or during aftershock
-  if (threatResult.impacted || threatResult.nextState.threat.aftershock > 0) {
+  if (threatResult.impacted || threatResult.nextState.threat.aftershock > 0 || threatResult.nextState.eventQuietTicks > 0) {
     return checkStarholdMilestones(threatResult.nextState);
   }
 

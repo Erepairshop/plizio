@@ -114,6 +114,7 @@ export interface StarholdState {
   resonance: number; // Current energy resonance/heat during transfer
   lastEventTick: Partial<Record<StarholdEventId, number>>;
   pendingEvent: StarholdPendingEvent | null;
+  eventQuietTicks: number;
   crisis: boolean; // True if multiple resources are low
   highStability: boolean; // True if stability is very high
   lockdown: boolean; // True if stability reached 0
@@ -152,4 +153,5 @@ export type StarholdCommand =
   | { type: "AVATAR_PULSE" }
   | { type: "CLAIM_MILESTONE"; milestoneId: string }
   | { type: "BUY_ITEM"; itemId: string }
+  | { type: "ACKNOWLEDGE_PHASE_SHIFT" }
   | { type: "RESOLVE_EVENT"; optionId: string };
