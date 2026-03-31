@@ -340,6 +340,27 @@ export const GRAVITAS_TEXT = {
         stripPlating: { en: "Strip inner plating", hu: "Belső burkolat lefejtése", de: "Innere Panzerung abstreifen", ro: "Demontare placare" },
       }
     },
+    phaseEcho: {
+      title: { en: "Phase Echo", hu: "Fázis-visszhang", de: "Phasen-Echo", ro: "Ecou de fază" },
+    },
+    signalDrift: {
+      title: { en: "Signal Drift", hu: "Jeleltolódás", de: "Signaldrift", ro: "Derivă de semnal" },
+      body: {
+        en: "The sensor array has picked up a drifting signal — something from the void is echoing back. Trace it or mute it before it grows.",
+        hu: "A szenzorok egy sodródó jelet érzékeltek — valami a voidból visszahangzik. Kövesd vagy csendesítsd el, mielőtt erősödik.",
+        de: "Das Sensorarray hat ein treibendes Signal aufgefangen — etwas aus der Leere hallt zurück. Verfolge oder dämpfe es, bevor es wächst.",
+        ro: "Senzorii au captat un semnal în derivă — ceva din vid răsună înapoi. Urmărește-l sau amuțește-l înainte să crească."
+      },
+      step2: {
+        title: { en: "Signal Echo Intensifies", hu: "A jelvisszahang erősödik", de: "Signalecho verstärkt sich", ro: "Ecoul semnalului se intensifică" },
+        body: {
+          en: "The traced signal reveals a deeper pattern. Lock it in or release it back to the void.",
+          hu: "A követett jel egy mélyebb mintát tár fel. Rögzítsd, vagy engedd vissza a voidba.",
+          de: "Das verfolgte Signal enthüllt ein tieferes Muster. Fixiere es oder lass es zurück in die Leere.",
+          ro: "Semnalul urmărit dezvăluie un tipar mai profund. Blochează-l sau lasă-l să se întoarcă în vid."
+        },
+      },
+    },
     signalPulse: {
       title: { en: "Signal pulse", hu: "Jelimpulzus", de: "Signalimpuls", ro: "Puls de semnal" },
       body: {
