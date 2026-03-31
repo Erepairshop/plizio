@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useMemo, useReducer, useRef, useState } from "react";
+import { useEffect, useMemo, useReducer, useRef, useState, Suspense } from "react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
@@ -10,7 +11,6 @@ import {
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
-import GravitasScene from "@/components/gravitas/GravitasScene";
 import GravitasActivation from "@/components/gravitas/GravitasActivation";
 import GravitasShop from "@/components/gravitas/GravitasShop";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
@@ -23,6 +23,8 @@ import type { StarholdCommand, StarholdModuleId, StarholdState, LocalizedString 
 import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
 import AwakeningCeremony from "@/components/gravitas/AwakeningCeremony";
 import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
+
+const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 
 function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" }) {
   if (command.type === "__TICK__") {
