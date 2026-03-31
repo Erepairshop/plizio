@@ -244,7 +244,7 @@ export const MAGYAR_O6_I5_LABELS: Record<string, Record<string, string>> = {
     t8_title: "Szövegvázlat",
     t8_text: "A szöveg megírása előtt készített pontokba szedett terv.",
     t8_w1: "1. Kezdés", t8_w2: "2. Alpont", t8_w3: "3. Lezárás",
-    t10_inst: "Tedd sorrendbe a vázlatpontokat!",
+    t8_inst: "Tedd sorrendbe a vázlatpontokat!",
     t9_title: "Stílus és szöveg",
     t9_text: "A szóhasználat meghatározza a szöveg hangulatát és hitelességét.",
     t9_tok1: "választékos", t9_tok2: "közönséges", t9_tok3: "pontos", t9_tok4: "színes", t9_tok5: "szürke",

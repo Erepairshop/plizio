@@ -87,8 +87,6 @@ const DATA_K6: any = {
       { q: ["Jég angolul?", "Ice EN?", "Eis?", "Gheață EN?"], a: ["Ice", "Ice", "Eis", "Gheata"] },
     ]
   },
-};
-
   northern_europe: {
     mcq: [
       { q: ["Melyik ország fekszik Észak-Európában?", "North EU country?", "Nordeuropäisches Land?", "Țară din Europa de Nord?"], c: ["Norvégia, Svédország", "Norway, Sweden", "Norwegen, Schweden", "Norvegia, Suedia"], w1: ["Olaszország", "Italy", "Italien", "Italia"], w2: ["Spanyolország", "Spain", "Spanien", "Spania"], w3: ["Görögország", "Greece", "Griechenland", "Grecia"] },
@@ -141,8 +139,6 @@ const DATA_K6: any = {
       { q: ["Ukrajna fővárosa?", "Capital Ukraine?", "Kiew?", "Kiev?"], a: ["Kijev", "Kyiv", "Kiew", "Kiev"] },
     ]
   },
-};
-
   central_europe_neighbors: {
     mcq: [
       { q: ["Melyik ország közép-európai?", "Central EU country?", "Mitteleuropäisch?", "Țară din Europa Centrală?"], c: ["Magyarország, Németország", "Hungary, Germany", "Ungarn, Deutschland", "Ungaria, Germania"], w1: ["Spanyolország", "Spain", "Spanien", "Spania"], w2: ["Portugália", "Portugal", "Portugal", "Portugalia"], w3: ["Görögország", "Greece", "Griechenland", "Grecia"] },
@@ -193,8 +189,6 @@ const DATA_K6: any = {
       { q: ["Sivatag angolul?", "Desert EN?", "Wüste?", "Deșert EN?"], a: ["Desert", "Desert", "Wüste", "Desert"] },
     ]
   },
-};
-
   glaciers_ice: {
     mcq: [
       { q: ["Mi a gleccser?", "Glacier?", "Gletscher?", "Ghețar?"], c: ["Mozgó jégtömeg", "Moving ice mass", "Fließendes Eis", "Masă de gheață mobilă"], w1: ["Hóember", "Snowman", "Schneemann", "Om de zăpadă"], w2: ["Fagyott tó", "Frozen lake", "See", "Lac înghețat"], w3: ["Eső", "Rain", "Regen", "Ploaie"] },
@@ -236,11 +230,18 @@ const DATA_K6: any = {
       { q: ["Zöld németül?", "Green DE?", "Grün?", "Verde DE?"], a: ["Grün", "Green", "Grün", "Verde"] },
     ]
   },
+  food_supply_chains: { mcq: [], typing: [] },
+  mass_tourism: { mcq: [], typing: [] },
+  alpine_tourism: { mcq: [], typing: [] },
+  sustainable_travel: { mcq: [], typing: [] },
+  city_trips: { mcq: [], typing: [] },
+  map_skills_advanced: { mcq: [], typing: [] },
+  climate_zones: { mcq: [], typing: [] },
+  europe_regions: { mcq: [], typing: [] },
+  waters_oceans_k6: { mcq: [], typing: [] },
+  agriculture_europe: { mcq: [], typing: [] },
+  tourism_leisure: { mcq: [], typing: [] }
 };
-
-// Map empty data for the rest to keep it valid
-const REST_DATA = ["food_supply_chains", "mass_tourism", "alpine_tourism", "sustainable_travel", "city_trips"];
-REST_DATA.forEach(key => { DATA_K6[key] = { mcq: [], typing: [] }; });
 
 export const K6_GEOGRAPHIE_GENERATORS = {
   contour_lines: (lang: string, seed: number) => makeMCQs("contour_lines", lang, mulberry32(seed), DATA_K6.contour_lines.mcq),
@@ -277,7 +278,7 @@ export const K6_GEOGRAPHIE_GENERATORS = {
 };
 
 // Placeholder for remaining generators
-const keys = ["northern_europe", "western_europe", "southern_europe", "eastern_europe", "central_europe_neighbors", "ocean_currents", "rivers_life", "water_scarcity", "glaciers_ice", "mediterranean_farming", "livestock_farming", "organic_farming", "food_supply_chains", "mass_tourism", "alpine_tourism", "sustainable_travel", "city_trips"];
+const keys = ["northern_europe", "western_europe", "southern_europe", "eastern_europe", "central_europe_neighbors", "ocean_currents", "rivers_life", "water_scarcity", "glaciers_ice", "mediterranean_farming", "livestock_farming", "organic_farming", "food_supply_chains", "mass_tourism", "alpine_tourism", "sustainable_travel", "city_trips", "map_skills_advanced", "climate_zones", "europe_regions", "waters_oceans_k6", "agriculture_europe", "tourism_leisure"];
 keys.forEach(k => {
   (K6_GEOGRAPHIE_GENERATORS as any)[k] = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K6[k].mcq);
   (K6_GEOGRAPHIE_GENERATORS as any)[`${k}_mcq`] = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K6[k].mcq);
