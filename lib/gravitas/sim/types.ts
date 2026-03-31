@@ -124,6 +124,10 @@ export interface StarholdState {
   highStabilityStreak: number;
   wasCrisis: boolean;
   avatarPulseCount: number;
+  lockdownDuration: number;
+  stationLost: boolean;
+  firstLoopComplete: boolean;
+  firstLoopShown: boolean;
 }
 
 export type StarholdCommand =

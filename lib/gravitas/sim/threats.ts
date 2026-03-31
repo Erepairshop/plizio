@@ -115,7 +115,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       nextMarks.voidEcho = clamp(nextMarks.voidEcho + Math.max(0, 2 - markPenalty));
 
       if (!threat.fortified) {
-        aftershockDuration = 6;
+        aftershockDuration = Math.max(3, 6 - (3 - Math.min(3, state.threatCycle)));
         if (Math.random() > 0.5) {
           nextAnomalies.push({
             id: "coreTremor",
@@ -140,7 +140,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       nextMarks.reactorScar = clamp(nextMarks.reactorScar + Math.max(0, 2 - markPenalty));
 
       if (!threat.dampened) {
-        aftershockDuration = 5;
+        aftershockDuration = Math.max(3, 5 - (2 - Math.min(2, state.threatCycle)));
         nextStability = clamp(nextStability - 12);
         if (Math.random() > 0.3) {
           nextAnomalies.push({
@@ -185,7 +185,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
         nextMarks.supplyStress = clamp(nextMarks.supplyStress + Math.max(0, 3 - markPenalty));
         nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 2 - markPenalty));
         impactJournal = T.meteorShowerImpact;
-        aftershockDuration = 4;
+        aftershockDuration = Math.max(3, 4 - (1 - Math.min(1, state.threatCycle)));
       }
       break;
     }
@@ -210,8 +210,8 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
     }
   } : null;
 
-  const nextType = (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
   const nextCycle = state.threatCycle + 1;
+  const nextType = nextCycle === 1 ? "distortionWave" : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
   const nextDuration = Math.max(10, 15 - Math.floor(nextCycle / 4));
   const starReward = Math.ceil(threat.intensity / 2);
 

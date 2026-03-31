@@ -60,7 +60,7 @@ function StationHealthRing({ state }: { state: StarholdState }) {
   const isAnyLow = modules.some(m => m.integrity < 30);
 
   return (
-    <div className={`relative w-6 h-6 ${isAnyLow ? "animate-pulse" : ""}`}>
+    <div className={`relative w-6 h-6 group/health ${isAnyLow ? "animate-pulse" : ""}`}>
       <svg width={size} height={size} className="-rotate-90">
         {modules.map((m, i) => {
           const offset = (circumference / 4) * i;
@@ -82,6 +82,15 @@ function StationHealthRing({ state }: { state: StarholdState }) {
           );
         })}
       </svg>
+      {/* Mini Tooltip */}
+      <div className="absolute top-full left-1/2 -translate-x-1/2 mt-2 p-2 rounded-lg bg-black/90 backdrop-blur-xl border border-white/10 text-[8px] font-black uppercase whitespace-nowrap opacity-0 group-hover/health:opacity-100 transition-opacity pointer-events-none z-[110] shadow-2xl">
+        {modules.map(m => (
+          <div key={m.id} className="flex justify-between gap-4">
+            <span className="text-white/40">{m.id}</span>
+            <span>{m.integrity}%</span>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
@@ -100,12 +109,16 @@ export default function GravitasPage() {
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
   const [tipDismissed, setTipDismissed] = useState(false);
+  const [showVictory, setShowVictory] = useState(false);
+  const [showGameOver, setShowGameOver] = useState(false);
+  
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
   const awakeningShownRef = useRef(false);
   const prevResourcesRef = useRef(state.resources);
 
   const doAction = (command: StarholdCommand, color: string) => {
+    if (state.stationLost) return;
     dispatch(command);
     setActionFlash(color);
     setTimeout(() => setActionFlash(null), 300);
@@ -117,6 +130,18 @@ export default function GravitasPage() {
       awakeningShownRef.current = true;
     }
   }, [state.avatarAwake]);
+
+  useEffect(() => {
+    if (state.firstLoopComplete && !state.firstLoopShown && !showVictory) {
+      setShowVictory(true);
+    }
+  }, [state.firstLoopComplete, state.firstLoopShown, showVictory]);
+
+  useEffect(() => {
+    if (state.stationLost && !showGameOver) {
+      setShowGameOver(true);
+    }
+  }, [state.stationLost, showGameOver]);
 
   useEffect(() => {
     const prevThreat = prevThreatRef.current;
@@ -239,10 +264,14 @@ export default function GravitasPage() {
           <Link href="/" className="p-2 -ml-2 text-white/40 hover:text-white transition">
             <ChevronLeft size={20} />
           </Link>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 group relative">
             <StationHealthRing state={state} />
             <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.highStability ? "bg-emerald-500/20 text-emerald-400" : "bg-cyan-500/20 text-cyan-300"}`}>
               {phaseLabel}
+            </div>
+            {/* Phase Description Tooltip */}
+            <div className="absolute top-full left-0 mt-2 p-3 rounded-xl bg-black/80 backdrop-blur-xl border border-white/10 text-[10px] text-white/60 w-48 opacity-0 group-hover:opacity-100 group-active:opacity-100 transition-opacity pointer-events-none z-[100] shadow-2xl">
+              {localize(content.lore.phaseDescriptions[state.phase])}
             </div>
           </div>
         </div>
@@ -250,9 +279,9 @@ export default function GravitasPage() {
         <div className="flex items-center gap-2">
           <button
             onClick={() => setShopOpen(true)}
-            className={`relative flex items-center gap-2 px-3 py-1.5 rounded-full border transition-all duration-500 ${hasUnclaimed ? "border-amber-400 bg-amber-400/20 text-amber-400 shadow-[0_0_20px_rgba(251,191,36,0.5)] animate-pulse scale-110" : state.progression.stars > 0 ? "border-amber-400/40 bg-amber-400/5 text-amber-400" : "border-white/10 bg-white/5 text-white/20"}`}
+            className={`relative flex items-center gap-2 px-3 py-1.5 rounded-full border transition-all duration-500 ${hasUnclaimed ? "border-amber-400 bg-amber-400/20 text-amber-400 shadow-[0_0_20px_rgba(251,191,36,0.5)] animate-pulse scale-110" : state.progression.stars > 0 ? "border-amber-400/40 bg-amber-400/5 text-amber-400" : "border-white/10 bg-white/5 text-white/40"}`}
           >
-            <Star size={12} fill={state.progression.stars > 0 ? "currentColor" : "none"} />
+            <Star size={12} fill={state.progression.stars > 0 ? "currentColor" : "none"} className={state.progression.stars === 0 ? "opacity-40" : ""} />
             <span className="text-[11px] font-black">{state.progression.stars}</span>
             {hasUnclaimed && (
               <div className="absolute -top-1 -right-1 w-4 h-4 bg-rose-500 text-white text-[9px] font-black rounded-full flex items-center justify-center border-2 border-[#050816]">
@@ -283,7 +312,7 @@ export default function GravitasPage() {
       </header>
 
       {/* HUD Chips */}
-      <div className="flex items-center justify-between px-4 py-2 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-4">
+      <div className="flex items-center justify-between px-4 py-2 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-4 scrollbar-hide">
         <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" />
         <HUDChip icon={<Wrench size={12} />} value={state.resources.materials} color="text-indigo-400" />
         <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" />
@@ -294,7 +323,7 @@ export default function GravitasPage() {
       {/* Game View */}
       <div className="flex-1 relative overflow-hidden flex flex-col">
         <div 
-          className={`flex-1 relative transition-all duration-500 ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
+          className={`relative transition-all duration-500 w-full aspect-[840/510] ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
           style={{ boxShadow: actionFlash ? `inset 0 0 60px ${actionFlash}` : "none" }}
         >
           <GravitasScene
@@ -304,9 +333,9 @@ export default function GravitasPage() {
             activeEventId={state.pendingEvent?.id ?? null}
           />
 
-          {/* Onboarding Tips */}
+          {/* Onboarding Tips & Lore Intro */}
           <AnimatePresence>
-            {!tipDismissed && state.tick < 30 && currentTip && (
+            {!tipDismissed && (
               <motion.div
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -316,7 +345,7 @@ export default function GravitasPage() {
                 <div className="flex items-center gap-2">
                   <Info size={14} className="text-blue-400 shrink-0" />
                   <p className="text-[10px] font-black uppercase tracking-tight text-blue-100">
-                    {localize(currentTip)}
+                    {state.tick <= 1 ? localize(content.lore.intro) : localize(currentTip)}
                   </p>
                 </div>
                 <button onClick={() => setTipDismissed(true)} className="p-1 text-white/40 hover:text-white transition">
@@ -360,7 +389,7 @@ export default function GravitasPage() {
                 </div>
               </div>
             </div>
-            <div className="flex gap-1.5">
+            <div className="flex gap-1.5 shrink-0">
               <PrepDot active={state.threat.fortified} color="bg-emerald-400" />
               <PrepDot active={state.threat.dampened} color="bg-indigo-400" />
               <PrepDot active={state.threat.intercepted} color="bg-amber-400" />
@@ -471,7 +500,7 @@ export default function GravitasPage() {
       )}
 
       {/* Main Actions - Bottom Bar */}
-      <nav className="fixed bottom-0 left-0 right-0 p-4 pb-6 bg-black/40 backdrop-blur-xl border-t border-white/10 grid grid-cols-4 gap-2 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
+      <nav className="fixed bottom-0 left-0 right-0 p-4 pb-[calc(1.5rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 grid grid-cols-4 gap-2 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
         <MainAction label={localize(ui.scavenge)} onClick={() => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)")} disabled={isLockdown} />
         <MainAction label={localize(ui.stabilize)} onClick={() => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)")} emphasis={isRecovering && !isLockdown} />
         <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} />
@@ -491,9 +520,9 @@ export default function GravitasPage() {
             animate={{ y: 0 }}
             exit={{ y: "100%" }}
             transition={{ type: "spring", damping: 25, stiffness: 200 }}
-            className="fixed inset-x-0 bottom-0 top-20 z-[60] bg-[#0a0f1e]/95 backdrop-blur-2xl border-t border-white/10 rounded-t-[32px] flex flex-col"
+            className="fixed inset-x-0 bottom-0 top-20 z-[60] bg-[#0a0f1e]/95 backdrop-blur-2xl border-t border-white/10 rounded-t-[32px] flex flex-col max-h-[85vh] lg:max-h-none"
           >
-            <div className="flex items-center justify-between p-6 border-b border-white/5">
+            <div className="sticky top-0 z-10 bg-[#0a0f1e]/80 backdrop-blur-md flex items-center justify-between p-6 border-b border-white/5 rounded-t-[32px]">
               <h2 className="text-xl font-black uppercase tracking-tight flex items-center gap-2">
                 {activePanel === "modules" && <><LayoutGrid size={20} className="text-cyan-400" /> {localize(ui.modules)}</>}
                 {activePanel === "marks" && <><ShieldHalf size={20} className="text-rose-400" /> {localize(ui.marks)}</>}
@@ -570,6 +599,12 @@ export default function GravitasPage() {
                       );
                     })}
                   </div>
+
+                  {Object.values(state.modules).every(m => m.integrity >= 100) && (
+                    <div className="p-4 rounded-xl border border-emerald-500/20 bg-emerald-500/5 text-emerald-400 text-[10px] font-black uppercase tracking-widest text-center">
+                      {localize(ui.allSystemsNominal)}
+                    </div>
+                  )}
 
                   <div className="p-5 rounded-2xl border border-white/10 bg-black/40">
                     <div className="flex items-center justify-between gap-3 mb-3">
@@ -654,6 +689,11 @@ export default function GravitasPage() {
                         <span>{localize(line.text)}</span>
                       </div>
                     ))}
+                    {state.journal.length === 0 && (
+                      <div className="p-12 text-center text-[10px] text-white/20 font-black uppercase tracking-[0.2em]">
+                        {localize(ui.awaitingLog)}
+                      </div>
+                    )}
                   </div>
                 </div>
               )}
@@ -701,13 +741,15 @@ export default function GravitasPage() {
               <h2 className="text-2xl font-black text-white mb-4">{localize(state.pendingEvent.title)}</h2>
               <p className="text-white/70 leading-relaxed mb-8">{localize(state.pendingEvent.body)}</p>
               <div className="grid gap-3">
-                {state.pendingEvent.options.map(opt => (
+                {state.pendingEvent.options.map((opt, idx) => (
                   <button
                     key={opt.id}
                     onClick={() => dispatch({ type: "RESOLVE_EVENT", optionId: opt.id })}
-                    className="w-full p-5 rounded-2xl border border-amber-400/20 bg-white/5 text-left transition hover:bg-amber-400/10 active:scale-[0.98]"
+                    className={`w-full p-5 rounded-2xl border text-left transition active:scale-[0.98] ${idx === 0 ? "border-amber-400 bg-amber-400/10 hover:bg-amber-400/20" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
                   >
-                    <div className="text-[10px] font-black uppercase tracking-widest text-amber-400/60 mb-1">Divert Priority</div>
+                    <div className={`text-[10px] font-black uppercase tracking-widest mb-1 ${idx === 0 ? "text-amber-400" : "text-white/40"}`}>
+                      {idx === 0 ? "Priority Protocol" : "Alternative Route"}
+                    </div>
                     <div className="font-black text-white">{localize(opt.label)}</div>
                   </button>
                 ))}
@@ -716,7 +758,104 @@ export default function GravitasPage() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Station Lost Overlay */}
+      <AnimatePresence>
+        {showGameOver && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            className="fixed inset-0 z-[300] bg-black/90 backdrop-blur-3xl flex flex-col items-center justify-center p-8 text-center"
+          >
+            <motion.div
+              initial={{ scale: 0.9, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              className="max-w-md space-y-8"
+            >
+              <div className="w-24 h-24 rounded-full border-2 border-rose-500/30 flex items-center justify-center mx-auto">
+                <ShieldAlert size={48} className="text-rose-500 animate-pulse" />
+              </div>
+              <div className="space-y-4">
+                <h2 className="text-4xl font-black tracking-tighter text-rose-500 uppercase">
+                  {localize(content.victory.stationLostTitle)}
+                </h2>
+                <p className="text-white/60 leading-relaxed italic">
+                  "{localize(content.victory.stationLostBody)}"
+                </p>
+              </div>
+              
+              <div className="grid grid-cols-2 gap-4 py-6 border-y border-white/5">
+                <StatItem label="Ticks" value={state.tick} />
+                <StatItem label="Waves" value={state.threatCycle} />
+                <StatItem label="Awakened" value={state.avatarAwake ? "YES" : "NO"} />
+                <StatItem label="Stars" value={state.progression.stars} />
+              </div>
+
+              <button
+                onClick={() => { clearGravitasSave(); window.location.reload(); }}
+                className="w-full py-4 rounded-2xl bg-white text-black font-black uppercase tracking-widest hover:scale-105 active:scale-95 transition shadow-2xl"
+              >
+                {localize(content.victory.tryAgain)}
+              </button>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Victory Overlay (First Loop) */}
+      <AnimatePresence>
+        {showVictory && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            className="fixed inset-0 z-[300] bg-pink-900/40 backdrop-blur-3xl flex flex-col items-center justify-center p-8 text-center"
+          >
+            <motion.div
+              initial={{ scale: 0.9, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              className="max-w-md space-y-8"
+            >
+              <div className="w-24 h-24 rounded-full bg-gradient-to-tr from-pink-500 to-amber-400 p-0.5 animate-bounce shadow-[0_0_40px_rgba(236,72,153,0.5)]">
+                <div className="w-full h-full rounded-full bg-black flex items-center justify-center">
+                  <Star size={40} className="text-amber-400" fill="currentColor" />
+                </div>
+              </div>
+              <div className="space-y-4">
+                <h2 className="text-4xl font-black tracking-tighter text-white uppercase bg-clip-text text-transparent bg-gradient-to-b from-white to-white/40">
+                  {localize(content.victory.firstLoopTitle)}
+                </h2>
+                <div className="px-4 py-2 rounded-full bg-white/10 border border-white/10 text-amber-400 font-black text-xs inline-block">
+                  REWARD: +10 STARS ⭐
+                </div>
+              </div>
+              
+              <div className="grid grid-cols-2 gap-4 py-6 border-y border-white/5">
+                <StatItem label="Ticks" value={state.tick} />
+                <StatItem label="Waves" value={state.threatCycle} />
+                <StatItem label="Stability" value={`${state.resources.stability}%`} />
+                <StatItem label="Power" value={state.resources.power} />
+              </div>
+
+              <button
+                onClick={() => { dispatch({ type: "BUY_ITEM", itemId: "__FIRST_LOOP_ACK__" }); setShowVictory(false); }}
+                className="w-full py-4 rounded-2xl bg-white text-black font-black uppercase tracking-widest hover:scale-105 active:scale-95 transition shadow-2xl"
+              >
+                {localize(content.victory.continuePlaying)}
+              </button>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </main>
+  );
+}
+
+function StatItem({ label, value }: { label: string; value: string | number }) {
+  return (
+    <div className="text-left">
+      <div className="text-[10px] font-black text-white/30 uppercase tracking-widest">{label}</div>
+      <div className="text-xl font-black text-white">{value}</div>
+    </div>
   );
 }
 
@@ -792,7 +931,7 @@ function MainAction({ label, onClick, disabled, highlight, emphasis }: { label: 
     <button
       disabled={disabled}
       onClick={onClick}
-      className={`relative h-14 rounded-xl border font-black text-[10px] uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]" : "border-white/10 bg-white/5 hover:bg-white/10 text-white"}`}
+      className={`relative h-14 min-h-[52px] rounded-xl border font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]" : "border-white/10 bg-white/5 hover:bg-white/10 text-white"}`}
     >
       {label}
       {disabled && (

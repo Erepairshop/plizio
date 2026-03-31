@@ -261,6 +261,9 @@ export function claimStarholdMilestone(state: StarholdState, milestoneId: string
 }
 
 export function buyStarholdItem(state: StarholdState, itemId: string): StarholdState {
+  if (itemId === "__FIRST_LOOP_ACK__") {
+    return { ...state, firstLoopShown: true };
+  }
   const item = STARHOLD_SHOP_ITEMS.find(i => i.id === itemId);
   if (!item || state.progression.stars < item.cost || state.progression.unlockedItems.includes(itemId)) {
     return state;

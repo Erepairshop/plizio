@@ -117,6 +117,41 @@ export const GRAVITAS_TEXT = {
     milestoneReached: { en: "Milestone reached", hu: "Mérföldkő elérve", de: "Meilenstein erreicht", ro: "Obiectiv atins" },
     itemUnlocked: { en: "Unlocked", hu: "Feloldva", de: "Freigeschaltet", ro: "Deblocat" },
     newEquipment: { en: "New equipment acquired", hu: "Új felszerelés beszerezve", de: "Neue Ausrüstung erworben", ro: "Echipament nou achiziționat" },
+    allSystemsNominal: { en: "All systems nominal", hu: "Minden rendszer stabil", de: "Alle Systeme nominal", ro: "Toate sistemele nominale" },
+    awaitingLog: { en: "Awaiting first log entry...", hu: "Várakozás az első naplóbejegyzésre...", de: "Warte auf ersten Logbucheintrag...", ro: "Se așteaptă prima intrare în jurnal..." },
+  },
+  lore: {
+    stationName: { en: "Starhold Nexus", hu: "Csillagkapu Nexus", de: "Sternenfeste Nexus", ro: "Nexusul Stelar" },
+    intro: {
+      en: "You wake in a damaged station drifting at the edge of known space. Systems are failing. Something sleeps in the core.",
+      hu: "Egy sérült állomáson térsz magadhoz az ismert tér szélén. A rendszerek hibásak. Valami alszik a magkamrában.",
+      de: "Du erwachst in einer beschädigten Station am Rand des bekannten Raums. Systeme versagen. Etwas schläft im Kern.",
+      ro: "Te trezești într-o stație avariată la marginea spațiului cunoscut. Sistemele cedează. Ceva doarme în nucleu.",
+    },
+    phaseDescriptions: {
+      boot: { en: "Emergency protocols active. Stabilize systems to survive.", hu: "Vészprotokollok aktívak. Stabilizáld a rendszereket.", de: "Notfallprotokolle aktiv. Systeme stabilisieren.", ro: "Protocoale de urgență active. Stabilizează sistemele." },
+      activation: { en: "The core chamber resonates. Something is awakening.", hu: "A magkamra rezonál. Valami ébredezik.", de: "Die Kernkammer resoniert. Etwas erwacht.", ro: "Camera nucleului rezonează. Ceva se trezește." },
+      awakened: { en: "The avatar breathes. A new presence fills the station.", hu: "Az avatár lélegzik. Új jelenlét tölti be az állomást.", de: "Der Avatar atmet. Eine neue Präsenz erfüllt die Station.", ro: "Avatarul respiră. O nouă prezență umple stația." },
+    },
+    voidWhispers: [
+      { en: "...the void remembers...", hu: "...az űr emlékszik...", de: "...die Leere erinnert sich...", ro: "...vidul își amintește..." },
+      { en: "...patterns in the static...", hu: "...minták a zajban...", de: "...Muster im Rauschen...", ro: "...tipare în static..." },
+      { en: "...not alone...", hu: "...nem vagy egyedül...", de: "...nicht allein...", ro: "...nu ești singur..." },
+      { en: "...the shell listens...", hu: "...a burok figyel...", de: "...die Hülle lauscht...", ro: "...învelișul ascultă..." },
+      { en: "...echoes of what was...", hu: "...visszhangok a múltból...", de: "...Echos von dem was war...", ro: "...ecouri ale trecutului..." },
+    ],
+  },
+  victory: {
+    stationLostTitle: { en: "STATION LOST", hu: "ÁLLOMÁS ELVESZETT", de: "STATION VERLOREN", ro: "STAȚIE PIERDUTĂ" },
+    stationLostBody: {
+      en: "Your station drifted into the void. Every lesson carries forward.",
+      hu: "Az állomásod elsodródott a semmibe. Minden lecke a jövőt szolgálja.",
+      de: "Deine Station trieb in die Leere. Jede Lektion trägt Früchte.",
+      ro: "Stația ta a rătăcit în vid. Fiecare lecție contează."
+    },
+    firstLoopTitle: { en: "FIRST LOOP COMPLETE", hu: "ELSŐ CIKLUS KÉSZ", de: "ERSTER ZYKLUS VOLLENDET", ro: "PRIMUL CICLU COMPLET" },
+    tryAgain: { en: "Try Again", hu: "Újrapróbálás", de: "Nochmal versuchen", ro: "Încearcă din nou" },
+    continuePlaying: { en: "Continue Playing", hu: "Folytatás", de: "Weiterpielen", ro: "Continuă" },
   },
   activation: {
     conduitUnlockedAlert: {
@@ -546,15 +581,7 @@ export const GRAVITAS_TEXT = {
     overclockJournal: { en: "Reactor core overdriven for immediate power. Structural scars detected.", hu: "Reaktormag túlhajtva az azonnali energiáért. Szerkezeti sebek észlelve.", de: "Reaktorkern für sofortige Energie überlastet. Strukturnarben.", ro: "Nucleu reactor suprasolicitat. Cicatrici structurale detectate." },
     optimizeJournal: { en: "Logistics throughput maximized. Supply grid is under heavy stress.", hu: "Logisztikai átvitel maximalizálva. Az ellátóhálózat súlyos terhelés alatt.", de: "Logistikdurchsatz maximiert. Versorgungsnetz unter schwerer Last.", ro: "Flux logistic maximizat. Rețeaua este sub tensiune." },
     deepScanJournal: { en: "Sensors focused on the shell's psychic layer, dampening void echoes.", hu: "A szenzorok a test pszichikai rétegére fókuszáltak, tompítva a void visszhangokat.", de: "Sensoren auf psychische Hüllenschicht fokussiert, Void-Echos gedämpft.", ro: "Senzorii s-au concentrat pe stratul psihic, atenuând ecourile void." },
-    voidWhispers: [
-      { en: "Something is breathing behind the core panel.", hu: "Valami lélegzik a magpanel mögött.", de: "Etwas atmet hinter der Kernverkleidung.", ro: "Ceva respiră în spatele panoului central." },
-      { en: "The silence in the vents is getting louder.", hu: "A csend a szellőzőkben egyre hangosabb.", de: "Die Stille in den Lüftungsschächten wird lauter.", ro: "Liniștea din conducte devine tot mai puternică." },
-      { en: "Coordinates are shifting without input.", hu: "A koordináták bevitel nélkül módosulnak.", de: "Koordinaten verschieben sich ohne Eingabe.", ro: "Coordonatele se schimbă fără nicio comandă." },
-      { en: "Shadows are stretching against the starfield.", hu: "Az árnyékok megnyúlnak a csillagmező előtt.", de: "Schatten dehnen sich gegen das Sternenfeld.", ro: "Umbrele se întind pe fundalul stelar." },
-      { en: "The shell's eyes are closed, but it is watching.", hu: "A test szeme csukva van, de figyel.", de: "Die Augen der Hülle vannak geschlossen, aber sie schaut zu.", ro: "Ochii corpului sunt închiși, dar acesta privește." }
-    ],
     initialJournal: [
-
       { en: "Emergency reserve power detected.", hu: "Vészhelyzeti tartalék energia észlelve.", de: "Notreserveenergie entdeckt.", ro: "Energie de rezervă detectată." },
       { en: "Core chamber sealed.", hu: "Magkamra lezárva.", de: "Kernkammer versiegelt.", ro: "Camera nucleului sigilată." },
       { en: "Activation conduit requires manual transfer.", hu: "Az aktiválási csatorna kézi átvitelt igényel.", de: "Aktivierungsleitung erfordert manuellen Transfer.", ro: "Canalul de activare necesită transfer manual." },

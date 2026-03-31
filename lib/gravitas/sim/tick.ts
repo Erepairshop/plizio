@@ -74,7 +74,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     const nextLoad = m.online ? clamp(m.load - coolingBase) : clamp(m.load - (coolingBase * 2));
     let nextIntegrity = m.integrity;
     
-    if (m.load >= 90) {
+    if (m.load >= 92) {
       nextIntegrity = clamp(nextIntegrity - 1);
     }
     if (m.load >= 95) {
@@ -123,7 +123,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   // Void Whispers (Psychic atmosphere)
   if (state.marks.voidEcho > 8 && state.tick % 15 === 0 && Math.random() > 0.4) {
-    const whispers = GRAVITAS_TEXT.journal.voidWhispers || [];
+    const whispers = GRAVITAS_TEXT.lore.voidWhispers || [];
     if (whispers.length > 0) {
       const randomWhisper = whispers[Math.floor(Math.random() * whispers.length)];
       nextJournal = pushJournal({ ...state, journal: nextJournal }, randomWhisper);
@@ -194,7 +194,9 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   if (totalMarks > 12 || isCrisis || nextLockdown) {
     const baseGain = Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0);
     // entropyDampener: 25% slower entropy growth
-    nextEntropy = clamp(nextEntropy + (mods.entropyDampener ? Math.ceil(baseGain * 0.75) : baseGain));
+    let gain = mods.entropyDampener ? Math.ceil(baseGain * 0.75) : baseGain;
+    if (state.tick < 50) gain = Math.min(gain, 1);
+    nextEntropy = clamp(nextEntropy + gain);
   } else if (totalMarks < 5 || isHighStability) {
     nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
   }
@@ -206,6 +208,19 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       ...nextModules[targetId],
       integrity: clamp(nextModules[targetId].integrity - 2),
     };
+  }
+
+  const nextLockdownDuration = nextLockdown ? state.lockdownDuration + 1 : 0;
+  const allModulesCrit = Object.values(nextModules).every(m => m.integrity < 10);
+  const stationLost = nextLockdownDuration >= 30 && allModulesCrit;
+
+  // Victory Check: First Loop Complete
+  let firstLoopComplete = state.firstLoopComplete;
+  let progression = { ...state.progression };
+  if (state.phase === "awakened" && state.threatCycle >= 5 && nextStability > 60 && !state.firstLoopShown && !state.firstLoopComplete) {
+    firstLoopComplete = true;
+    progression.stars += 10;
+    progression.lastStarGain = 10;
   }
 
   const nextState = {
@@ -235,14 +250,14 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     crisis: isCrisis,
     highStability: isHighStability,
     lockdown: nextLockdown,
+    lockdownDuration: nextLockdownDuration,
+    stationLost,
+    firstLoopComplete,
     pendingEvent: nextPendingEvent,
     lowEntropyStreak: nextEntropy < 10 ? state.lowEntropyStreak + 1 : 0,
     highStabilityStreak: nextStability > 90 ? state.highStabilityStreak + 1 : 0,
     wasCrisis: state.crisis,
-    progression: {
-      ...state.progression,
-      lastStarGain: 0, // Clear last gain pulse
-    }
+    progression,
   };
 
   const withResonance = coolDownResonance(nextState);

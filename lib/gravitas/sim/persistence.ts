@@ -39,6 +39,10 @@ export function loadGravitasState(): StarholdState | null {
       highStabilityStreak: parsed.highStabilityStreak ?? 0,
       wasCrisis: parsed.wasCrisis ?? false,
       avatarPulseCount: parsed.avatarPulseCount ?? 0,
+      lockdownDuration: parsed.lockdownDuration ?? 0,
+      stationLost: parsed.stationLost ?? false,
+      firstLoopComplete: parsed.firstLoopComplete ?? false,
+      firstLoopShown: parsed.firstLoopShown ?? false,
     };
   } catch {
     return null;
