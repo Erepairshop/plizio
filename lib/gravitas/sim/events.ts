@@ -442,6 +442,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           reactorScar: clamp(state.marks.reactorScar - 1),
           shellStrain: clamp(state.marks.shellStrain - 2),
           supplyStress: clamp(state.marks.supplyStress - 1),
+          voidEcho: clamp(state.marks.voidEcho - 1),
         },
         alert: A.driftBroken,
         journal: pushJournal(state, J.burnedToBreak),

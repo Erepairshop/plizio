@@ -1,4 +1,4 @@
-import Phaser from "phaser";
+import * as Phaser from "phaser";
 import type { StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
 
 const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
