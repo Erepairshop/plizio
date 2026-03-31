@@ -152,6 +152,13 @@ export default function GravitasPage() {
                      <div>
                         <div className="text-[10px] uppercase tracking-[0.25em] text-white/40 font-black">{localize(ui.approachingThreat)}</div>
                         <div className="text-lg font-black text-white/90">{localize(content.threats[state.threat.type])}</div>
+                        <p className="mt-1 text-[11px] text-white/50">
+                          {state.threat.type === "distortionWave"
+                            ? (lang === "hu" ? "Javaslat: Váz megerősítése a reaktorral." : lang === "de" ? "Empfehlung: Hülle über den Reaktor verstärken." : lang === "ro" ? "Recomandare: Fortifică structura prin reactor." : "Recommendation: Fortify the shell through the reactor.")
+                            : state.threat.type === "voidStorm"
+                              ? (lang === "hu" ? "Javaslat: Jelcsillapítás vagy pálya-előrejelzés a szenzorral." : lang === "de" ? "Empfehlung: Signale dämpfen oder Trajektorie mit Sensoren vorhersagen." : lang === "ro" ? "Recomandare: Atenuează semnalele sau prezice traiectoria cu senzorii." : "Recommendation: Dampen signals or predict the path with sensors.")
+                              : (lang === "hu" ? "Javaslat: Meteorok elfogása a logisztikával." : lang === "de" ? "Empfehlung: Meteore über die Logistik abfangen." : lang === "ro" ? "Recomandare: Interceptează meteorii prin logistică." : "Recommendation: Intercept the meteors through logistics.")}
+                        </p>
                      </div>
                   </div>
                   <div className="flex items-center gap-3">
@@ -160,6 +167,12 @@ export default function GravitasPage() {
                      </div>
                      <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.dampened ? "bg-indigo-500/20 border-indigo-500 text-indigo-400" : "bg-white/5 border-white/10 text-white/20"}`}>
                         {localize(ui.dampened)}
+                     </div>
+                     <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.intercepted ? "bg-amber-500/20 border-amber-500 text-amber-300" : "bg-white/5 border-white/10 text-white/20"}`}>
+                        {lang === "hu" ? "Elfogva" : lang === "de" ? "Abgefangen" : lang === "ro" ? "Interceptat" : "Intercepted"}
+                     </div>
+                     <div className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border transition-all duration-500 ${state.threat.predicted ? "bg-sky-500/20 border-sky-500 text-sky-300" : "bg-white/5 border-white/10 text-white/20"}`}>
+                        {lang === "hu" ? "Előrejelzett" : lang === "de" ? "Vorhergesagt" : lang === "ro" ? "Prezis" : "Predicted"}
                      </div>
                   </div>
                </div>

@@ -32,6 +32,8 @@ export function createInitialStarholdState(): StarholdState {
       intensity: 1,
       fortified: false,
       dampened: false,
+      intercepted: false,
+      predicted: false,
     },
     lastEventTick: {},
     pendingEvent: null,

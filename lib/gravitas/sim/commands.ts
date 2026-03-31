@@ -10,6 +10,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     return withAlert(state, GRAVITAS_TEXT.alerts.resolveAnomaly);
   }
 
+  const { threat } = state;
+
   switch (command.type) {
     case "SCAVENGE": {
       const entropy = state.anomalies.find(a => a.id === "materialEntropy");
@@ -212,43 +214,67 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       };
     }
     case "DAMPEN_SIGNALS": {
-      if (state.threat.countdown > 5 || state.threat.dampened) {
-        return state;
-      }
-      if (state.resources.power < 8) {
-        return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
-      }
+      if (threat.countdown > 5 || threat.dampened) return state;
+      if (state.resources.power < 8) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
       return {
         ...state,
-        resources: addResourceDelta(state.resources, {
-          power: -8,
-        }),
-        threat: {
-          ...state.threat,
-          dampened: true,
-        },
+        resources: addResourceDelta(state.resources, { power: -8 }),
+        threat: { ...threat, dampened: true },
         alert: GRAVITAS_TEXT.threats.dampenedJournal,
         journal: pushJournal(state, GRAVITAS_TEXT.threats.dampenedJournal),
       };
     }
     case "FORTIFY_SHELL": {
-      if (state.threat.countdown > 5 || state.threat.fortified) {
-        return state;
-      }
-      if (state.resources.materials < 10) {
-        return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
-      }
+      if (threat.countdown > 5 || threat.fortified) return state;
+      if (state.resources.materials < 10) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       return {
         ...state,
-        resources: addResourceDelta(state.resources, {
-          materials: -10,
-        }),
-        threat: {
-          ...state.threat,
-          fortified: true,
-        },
+        resources: addResourceDelta(state.resources, { materials: -10 }),
+        threat: { ...threat, fortified: true },
         alert: GRAVITAS_TEXT.threats.fortifiedJournal,
         journal: pushJournal(state, GRAVITAS_TEXT.threats.fortifiedJournal),
+      };
+    }
+    case "INTERCEPT_THREAT": {
+      if (threat.countdown > 5 || threat.intercepted) return state;
+      if (state.resources.materials < 12) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { materials: -12 }),
+        threat: { ...threat, intercepted: true },
+        alert: {
+          en: "Drone swarm deployed for interception.",
+          hu: "Drónraj bevetve az elfogáshoz.",
+          de: "Drohnenschwarm zum Abfangen eingesetzt.",
+          ro: "Roi de drone desfășurat pentru intercepție.",
+        },
+        journal: pushJournal(state, {
+          en: "Drones are forming a defensive perimeter.",
+          hu: "A drónok védelmi kordont vonnak az állomás köré.",
+          de: "Drohnen bilden einen Verteidigungsperimeter.",
+          ro: "Dronele formează un perimetru defensiv.",
+        }),
+      };
+    }
+    case "PREDICT_THREAT": {
+      if (threat.countdown > 10 || threat.predicted) return state;
+      if (state.resources.power < 6) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, { power: -6 }),
+        threat: { ...threat, predicted: true },
+        alert: {
+          en: "Threat trajectory calculated.",
+          hu: "Fenyegetés pályája kiszámítva.",
+          de: "Bedrohungstrajektorie berechnet.",
+          ro: "Traiectoria amenințării calculată.",
+        },
+        journal: pushJournal(state, {
+          en: "Sensor array has locked onto the approaching pattern.",
+          hu: "A szenzorok rögzítették a közelgő minta adatait.",
+          de: "Sensoren haben das herannahende Muster erfasst.",
+          ro: "Senzorii au blocat tiparul iminent.",
+        }),
       };
     }
     case "RESOLVE_EVENT": {
@@ -271,6 +297,7 @@ export interface GravitasActionSlot {
 export function getGravitasActionSlots(selectedModule: keyof StarholdState["modules"], state: StarholdState): GravitasActionSlot[] {
   const moduleId = selectedModule;
   const module = state.modules[moduleId];
+  const { threat } = state;
   const coreReady = canStartActivationTransfer(state);
 
   const slots: GravitasActionSlot[] = [];
@@ -317,7 +344,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         command: { type: "OVERCLOCK_REACTOR" },
         emphasis: "secondary",
       });
-      if (state.threat.countdown <= 5 && !state.threat.fortified) {
+      if (threat.countdown <= 5 && !threat.fortified) {
         slots.push({
           id: "fortify",
           label: { en: "Fortify Shell", hu: "Váz megerősítése", de: "Hülle verstärken", ro: "Fortifică corpul" },
@@ -349,6 +376,15 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           command: { type: "REPAIR_MODULE", moduleId: "logistics" },
         }
       );
+      if (threat.countdown <= 5 && !threat.intercepted && module.online && threat.type === "meteorShower") {
+        slots.push({
+          id: "intercept",
+          label: { en: "Intercept Meteors", hu: "Meteorok elfogása", de: "Meteore abfangen", ro: "Interceptează meteorii" },
+          hint: { en: "Deploy drone swarm to block meteors (Costs 12 MAT).", hu: "Drónraj indítása a meteorok blokkolására (12 ANYAG).", de: "Drohnenschwarm zum Blockieren von Meteoren einsetzen (12 MAT).", ro: "Lansează roiul de drone pentru a bloca meteorii (12 MAT)." },
+          command: { type: "INTERCEPT_THREAT" },
+          emphasis: "secondary",
+        });
+      }
       break;
     case "sensor":
       slots.push(
@@ -367,14 +403,17 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           command: { type: "DEEP_SCAN" },
           disabled: !module.online,
         },
-        {
-          id: "repairSensor",
-          label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repară ${module.name.ro}` },
-          hint: { en: "Bring the long-range distortion grid back online.", hu: "Visszakapcsolja a távoli torzulásfigyelő hálózatot.", de: "Bringt das Langstrecken-Distortionsgitter zurück.", ro: "Repune în funcțiune rețeaua de distorsiuni." },
-          command: { type: "REPAIR_MODULE", moduleId: "sensor" },
-        }
       );
-      if (state.threat.countdown <= 5 && !state.threat.dampened && module.online) {
+      if (threat.countdown > 5 && threat.countdown <= 10 && !threat.predicted && module.online) {
+        slots.push({
+          id: "predict",
+          label: { en: "Predict Trajectory", hu: "Pálya jóslása", de: "Trajektorie vorhersagen", ro: "Previziune traiectorie" },
+          hint: { en: "Calculate impact point to improve defense window (Costs 6 PWR).", hu: "Kiszámítja a becsapódási pontot a védelem javításához (6 ENERGIA).", de: "Einschlagpunkt berechnen, um Verteidigungsfenster zu verbessern (6 PWR).", ro: "Calculează punctul de impact pentru a îmbunătăți fereastra de apărare (6 PWR)." },
+          command: { type: "PREDICT_THREAT" },
+          emphasis: "secondary",
+        });
+      }
+      if (threat.countdown <= 5 && !threat.dampened && module.online) {
         slots.push({
           id: "dampen",
           label: { en: "Dampen Signals", hu: "Jelcsillapítás", de: "Signale dämpfen", ro: "Atenuează semnalele" },
@@ -383,6 +422,12 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
           emphasis: "secondary",
         });
       }
+      slots.push({
+        id: "repairSensor",
+        label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repară ${module.name.ro}` },
+        hint: { en: "Bring the long-range distortion grid back online.", hu: "Visszakapcsolja a távoli torzulásfigyelő hálózatot.", de: "Bringt das Langstrecken-Distortionsgitter zurück.", ro: "Repune în funcțiune rețeaua de distorsiuni." },
+        command: { type: "REPAIR_MODULE", moduleId: "sensor" },
+      });
       break;
     case "core":
     default:

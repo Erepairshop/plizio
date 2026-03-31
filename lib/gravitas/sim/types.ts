@@ -82,8 +82,10 @@ export interface StarholdThreatState {
   countdown: number; // Ticks until impact
   totalDuration: number; // Original countdown duration
   intensity: number; // 1-10
-  fortified: boolean; // Reactor/Core protection
-  dampened: boolean; // Sensor/Logistics protection
+  fortified: boolean; // Reactor protection
+  dampened: boolean; // Sensor protection
+  intercepted: boolean; // Logistics protection
+  predicted: boolean; // Sensor prediction
 }
 
 export interface StarholdState {
@@ -116,4 +118,6 @@ export type StarholdCommand =
   | { type: "DEEP_SCAN" }
   | { type: "FORTIFY_SHELL" }
   | { type: "DAMPEN_SIGNALS" }
+  | { type: "INTERCEPT_THREAT" }
+  | { type: "PREDICT_THREAT" }
   | { type: "RESOLVE_EVENT"; optionId: string };
