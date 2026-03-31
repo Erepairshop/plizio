@@ -1,17 +1,26 @@
-import type { StarholdEventDefinition, StarholdState } from "./types";
+import type {
+  StarholdEventDefinition,
+  StarholdEventId,
+  StarholdPendingEvent,
+  StarholdState,
+  LocalizedString,
+} from "./types";
 import { clamp, pushJournal } from "./shared";
+import { GRAVITAS_TEXT } from "./content";
+
+const T = GRAVITAS_TEXT;
 
 function chainedEvent(
   base: {
-    id: "powerFluctuation" | "materialBottleneck" | "signalPulse" | "sensorAnomaly" | "logisticsCollapse";
-    title: string;
-    body: string;
-    options: { id: string; label: string }[];
+    id: StarholdEventId;
+    title: LocalizedString;
+    body: LocalizedString;
+    options: { id: string; label: LocalizedString }[];
   },
   chainId: string,
   chainStep: number,
   chainTotal: number
-) {
+): StarholdPendingEvent {
   return {
     ...base,
     chainId,
@@ -21,27 +30,28 @@ function chainedEvent(
 }
 
 const STARHOLD_EVENTS: StarholdEventDefinition[] = [
+  // ── Power Fluctuation ──────────────────────────────────────────────────────
   {
     id: "powerFluctuation",
     minTick: 4,
     cooldown: 6,
-    shouldTrigger: (state) => state.resources.power <= 12 || state.modules.reactor.integrity < 45,
-    create: () => ({
-      ...chainedEvent(
+    shouldTrigger: (state) =>
+      state.resources.power <= 12 || state.modules.reactor.integrity < 45,
+    create: () =>
+      chainedEvent(
         {
           id: "powerFluctuation",
-          title: "Power fluctuation",
-          body: "A current runs through the hull. It was not scheduled. Vent it fast or absorb it carefully.",
+          title: T.events.powerFluctuation.title,
+          body: T.events.powerFluctuation.body,
           options: [
-            { id: "vent", label: "Vent the surge" },
-            { id: "absorb", label: "Absorb into reserves" },
+            { id: "vent", label: T.events.powerFluctuation.options.vent },
+            { id: "absorb", label: T.events.powerFluctuation.options.absorb },
           ],
         },
         "reactor-surge",
         1,
         2
       ),
-    }),
     resolve: (state, optionId) => {
       if (optionId === "absorb") {
         return {
@@ -49,11 +59,18 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           pendingEvent: chainedEvent(
             {
               id: "powerFluctuation",
-              title: "Grid overload",
-              body: "The reserve grid is swelling. Lock the excess into the core spine or bleed it through the reactor housing.",
+              title: T.events.powerFluctuation.overload.title,
+              body: T.events.powerFluctuation.overload.body,
               options: [
-                { id: "lockCore", label: "Lock into core spine" },
-                { id: "bleedHousing", label: "Bleed through housing" },
+                {
+                  id: "lockCore",
+                  label: T.events.powerFluctuation.overload.options.lockCore,
+                },
+                {
+                  id: "bleedHousing",
+                  label:
+                    T.events.powerFluctuation.overload.options.bleedHousing,
+                },
               ],
             },
             "reactor-surge",
@@ -65,8 +82,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             power: clamp(state.resources.power + 4),
             stability: clamp(state.resources.stability - 2),
           },
-          alert: "Absorbed. But the grid is swelling now.",
-          journal: pushJournal(state, "You captured the surge, but the station frame trembled."),
+          alert: T.alerts.absorbed,
+          journal: pushJournal(state, T.journal.surgeCaptured),
         };
       }
 
@@ -90,8 +107,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
               load: clamp(state.modules.core.load + 10),
             },
           },
-          alert: "Excess charge locked into the core spine.",
-          journal: pushJournal(state, "The overload was redirected into the core, accelerating activation at a structural cost."),
+          alert: T.alerts.coreLocked,
+          journal: pushJournal(state, T.journal.overloadCore),
         };
       }
 
@@ -115,11 +132,12 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
               integrity: clamp(state.modules.reactor.integrity - 4),
             },
           },
-          alert: "The overload burned through the outer housing and cleared.",
-          journal: pushJournal(state, "You protected the frame, but the reactor housing took the scar."),
+          alert: T.alerts.housingBurn,
+          journal: pushJournal(state, T.journal.reactorScar),
         };
       }
 
+      // vent (default)
       return {
         ...state,
         pendingEvent: null,
@@ -128,23 +146,32 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           power: clamp(state.resources.power - 1),
           stability: clamp(state.resources.stability + 1),
         },
-        alert: "Excess charge vented into the dark.",
-        journal: pushJournal(state, "The surge was vented safely through the outer hull."),
+        alert: T.alerts.vented,
+        journal: pushJournal(state, T.journal.surgeVented),
       };
     },
   },
+
+  // ── Material Bottleneck ────────────────────────────────────────────────────
   {
     id: "materialBottleneck",
     minTick: 6,
     cooldown: 7,
-    shouldTrigger: (state) => state.resources.materials <= 6 && !state.modules.logistics.online,
+    shouldTrigger: (state) =>
+      state.resources.materials <= 6 && !state.modules.logistics.online,
     create: () => ({
-      id: "materialBottleneck",
-      title: "Material bottleneck",
-      body: "Supply flow is collapsing. You can send a risky drone sweep or strip dormant plating.",
+      id: "materialBottleneck" as StarholdEventId,
+      title: T.events.materialBottleneck.title,
+      body: T.events.materialBottleneck.body,
       options: [
-        { id: "droneSweep", label: "Launch drone sweep" },
-        { id: "stripPlating", label: "Strip inner plating" },
+        {
+          id: "droneSweep",
+          label: T.events.materialBottleneck.options.droneSweep,
+        },
+        {
+          id: "stripPlating",
+          label: T.events.materialBottleneck.options.stripPlating,
+        },
       ],
     }),
     resolve: (state, optionId) => {
@@ -161,49 +188,55 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             ...state.marks,
             supplyStress: clamp(state.marks.supplyStress + 3),
           },
-          alert: "Inner plating was stripped for emergency stock.",
-          journal: pushJournal(state, "Plating stripped. The walls are thinner now."),
+          alert: T.alerts.stripped,
+          journal: pushJournal(state, T.journal.emergencyPlating),
         };
       }
 
+      // droneSweep (default)
       return {
         ...state,
         pendingEvent: null,
-          resources: {
-            ...state.resources,
-            materials: clamp(state.resources.materials + 3),
-            power: clamp(state.resources.power - 2),
-          },
-          marks: {
-            ...state.marks,
-            supplyStress: clamp(state.marks.supplyStress + 1),
-          },
-          alert: "Drone sweep returned with limited salvage.",
-          journal: pushJournal(state, "Scavenger drones found material, but burned precious power doing it."),
+        resources: {
+          ...state.resources,
+          materials: clamp(state.resources.materials + 3),
+          power: clamp(state.resources.power - 2),
+        },
+        marks: {
+          ...state.marks,
+          supplyStress: clamp(state.marks.supplyStress + 1),
+        },
+        alert: T.alerts.scavenged,
+        journal: pushJournal(state, T.journal.scavengerDrone),
       };
     },
   },
+
+  // ── Signal Pulse ───────────────────────────────────────────────────────────
   {
     id: "signalPulse",
     minTick: 8,
     cooldown: 10,
-    shouldTrigger: (state) => state.phase === "activation" && state.resources.activation >= 25,
-    create: () => ({
-      ...chainedEvent(
+    shouldTrigger: (state) =>
+      state.phase === "activation" && state.resources.activation >= 25,
+    create: () =>
+      chainedEvent(
         {
           id: "signalPulse",
-          title: "Signal pulse",
-          body: "Something inside the shell answers. You can synchronize softly or amplify the response.",
+          title: T.events.signalPulse.title,
+          body: T.events.signalPulse.body,
           options: [
-            { id: "synchronize", label: "Synchronize softly" },
-            { id: "amplify", label: "Amplify response" },
+            {
+              id: "synchronize",
+              label: T.events.signalPulse.options.synchronize,
+            },
+            { id: "amplify", label: T.events.signalPulse.options.amplify },
           ],
         },
         "shell-echo",
         1,
         2
       ),
-    }),
     resolve: (state, optionId) => {
       if (optionId === "amplify") {
         return {
@@ -211,11 +244,17 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           pendingEvent: chainedEvent(
             {
               id: "signalPulse",
-              title: "Echo fracture",
-              body: "The echo came back broken. Hold resonance steady or break contact and regroup.",
+              title: T.events.signalPulse.fracture.title,
+              body: T.events.signalPulse.fracture.body,
               options: [
-                { id: "holdResonance", label: "Hold resonance" },
-                { id: "breakContact", label: "Break contact" },
+                {
+                  id: "holdResonance",
+                  label: T.events.signalPulse.fracture.options.holdResonance,
+                },
+                {
+                  id: "breakContact",
+                  label: T.events.signalPulse.fracture.options.breakContact,
+                },
               ],
             },
             "shell-echo",
@@ -227,8 +266,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             activation: clamp(state.resources.activation + 8),
             stability: clamp(state.resources.stability - 3),
           },
-          alert: "The shell answered harder than expected.",
-          journal: pushJournal(state, "You forced a stronger echo from the shell at a structural cost."),
+          alert: T.alerts.echoStrong,
+          journal: pushJournal(state, T.journal.forcedEcho),
         };
       }
 
@@ -245,8 +284,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             ...state.marks,
             shellStrain: clamp(state.marks.shellStrain + 1),
           },
-          alert: "The fractured echo was held in resonance.",
-          journal: pushJournal(state, "You kept the shell aligned through the fracture and gained a deeper response."),
+          alert: T.alerts.resonanceHeld,
+          journal: pushJournal(state, T.journal.deepResponse),
         };
       }
 
@@ -263,11 +302,12 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             ...state.marks,
             shellStrain: clamp(state.marks.shellStrain - 1),
           },
-          alert: "Contact was broken before the shell destabilized further.",
-          journal: pushJournal(state, "You cut the resonance and preserved the station at the cost of momentum."),
+          alert: T.alerts.contactBroken,
+          journal: pushJournal(state, T.journal.resonanceCut),
         };
       }
 
+      // synchronize (default)
       return {
         ...state,
         pendingEvent: null,
@@ -276,25 +316,29 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           activation: clamp(state.resources.activation + 4),
           stability: clamp(state.resources.stability + 1),
         },
-        alert: "The shell pulse aligned cleanly.",
-        journal: pushJournal(state, "A careful synchronization steadied the shell resonance."),
+        alert: T.alerts.shellAligned,
+        journal: pushJournal(state, T.journal.steadiedResonance),
       };
     },
   },
+
+  // ── Drift Lock ─────────────────────────────────────────────────────────────
   {
     id: "driftLock",
     minTick: 12,
     cooldown: 14,
     shouldTrigger: (state) =>
-      state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress >= 7 &&
-      state.phase !== "boot",
+      state.marks.reactorScar +
+        state.marks.shellStrain +
+        state.marks.supplyStress >=
+        7 && state.phase !== "boot",
     create: () => ({
-      id: "driftLock",
-      title: "Drift lock warning",
-      body: "Too many scars are pulling the station toward a repeating pattern. Break the loop now or let the system fold inward.",
+      id: "driftLock" as StarholdEventId,
+      title: T.events.driftLock.title,
+      body: T.events.driftLock.body,
       options: [
-        { id: "breakLoop", label: "Break the loop" },
-        { id: "foldInward", label: "Let it fold inward" },
+        { id: "breakLoop", label: T.events.driftLock.options.breakLoop },
+        { id: "foldInward", label: T.events.driftLock.options.foldInward },
       ],
     }),
     resolve: (state, optionId) => {
@@ -311,12 +355,14 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             reactorScar: clamp(state.marks.reactorScar + 1),
             shellStrain: clamp(state.marks.shellStrain + 2),
             supplyStress: clamp(state.marks.supplyStress + 1),
+            voidEcho: state.marks.voidEcho,
           },
-          alert: "The station folded inward and the pattern deepened.",
-          journal: pushJournal(state, "You let the repeating pattern close around the station. It answered, but not cleanly."),
+          alert: T.alerts.foldedInward,
+          journal: pushJournal(state, T.journal.repeatingPattern),
         };
       }
 
+      // breakLoop (default)
       return {
         ...state,
         pendingEvent: null,
@@ -330,55 +376,55 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           reactorScar: clamp(state.marks.reactorScar - 1),
           shellStrain: clamp(state.marks.shellStrain - 2),
           supplyStress: clamp(state.marks.supplyStress - 1),
+          voidEcho: state.marks.voidEcho,
         },
-        alert: "The repeating pattern was broken before it sealed.",
-        journal: pushJournal(state, "You burned resources to break the drift before it hardened into a loop."),
+        alert: T.alerts.driftBroken,
+        journal: pushJournal(state, T.journal.burnedToBreak),
       };
     },
   },
+
+  // ── Sensor Ghosting (was: sensorAnomaly) ──────────────────────────────────
   {
-    id: "sensorAnomaly",
+    id: "sensorGhosting",
     minTick: 10,
     cooldown: 12,
-    shouldTrigger: (state) => state.modules.sensor.online && state.tick > 10,
-    create: () => ({
-      ...chainedEvent(
+    shouldTrigger: (state) =>
+      state.modules.sensor.online && state.tick > 10,
+    create: () =>
+      chainedEvent(
         {
-          id: "sensorAnomaly",
-          title: "Sensor anomaly",
-          body: "Something out there is transmitting. Amplify the array or ignore it.",
+          id: "sensorGhosting",
+          title: T.events.sensorGhosting.title,
+          body: T.events.sensorGhosting.body,
           options: [
-            { id: "amplifyArray", label: "Amplify array" },
-            { id: "ignoreSignal", label: "Ignore signal" },
+            {
+              id: "recalibrate",
+              label: T.events.sensorGhosting.options.recalibrate,
+            },
+            {
+              id: "ignore",
+              label: T.events.sensorGhosting.options.ignore,
+            },
           ],
         },
-        "sensor-anomaly",
+        "sensor-ghosting",
         1,
-        2
+        1
       ),
-    }),
     resolve: (state, optionId) => {
-      if (optionId === "amplifyArray") {
+      if (optionId === "recalibrate") {
         return {
           ...state,
-          pendingEvent: chainedEvent(
-            {
-              id: "sensorAnomaly",
-              title: "Partial station map",
-              body: "The signal resolved into a partial station map. Integrate it or archive it.",
-              options: [
-                { id: "integrateMap", label: "Integrate map" },
-                { id: "archiveSafely", label: "Archive safely" },
-              ],
-            },
-            "sensor-anomaly",
-            2,
-            2
-          ),
+          pendingEvent: null,
           resources: {
             ...state.resources,
             power: clamp(state.resources.power - 3),
             stability: clamp(state.resources.stability + 3),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress - 2),
           },
           modules: {
             ...state.modules,
@@ -387,42 +433,12 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
               load: clamp(state.modules.sensor.load + 10),
             },
           },
-          alert: "The array was amplified. A signal is resolving.",
-          journal: pushJournal(state, "You pushed the sensor array harder and caught something beyond the hull."),
+          alert: T.alerts.sensorRecalibrated,
+          journal: pushJournal(state, T.journal.sensorRecalibratedJournal),
         };
       }
 
-      if (optionId === "integrateMap") {
-        return {
-          ...state,
-          pendingEvent: null,
-          resources: {
-            ...state.resources,
-            materials: clamp(state.resources.materials + 6),
-            stability: clamp(state.resources.stability + 2),
-          },
-          marks: {
-            ...state.marks,
-            supplyStress: clamp(state.marks.supplyStress - 2),
-          },
-          alert: "The partial map was integrated into the navigation layer.",
-          journal: pushJournal(state, "Integrating the signal map revealed supply caches and eased logistics strain."),
-        };
-      }
-
-      if (optionId === "archiveSafely") {
-        return {
-          ...state,
-          pendingEvent: null,
-          resources: {
-            ...state.resources,
-            stability: clamp(state.resources.stability + 3),
-          },
-          alert: "The signal data was archived without incident.",
-          journal: pushJournal(state, "You archived the partial map. The station holds steady."),
-        };
-      }
-
+      // ignore (default)
       return {
         ...state,
         pendingEvent: null,
@@ -430,65 +446,88 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           ...state.resources,
           stability: clamp(state.resources.stability + 1),
         },
-        alert: "The faint signal was ignored.",
-        journal: pushJournal(state, "You let the signal fade. Nothing outside warranted the risk."),
+        marks: {
+          ...state.marks,
+          voidEcho: clamp(state.marks.voidEcho + 1),
+        },
+        alert: T.alerts.ghostsIgnored,
+        journal: pushJournal(state, T.journal.ghostAnomalyJournal),
       };
     },
   },
+
+  // ── Supply Cascade (was: logisticsCollapse) ────────────────────────────────
   {
-    id: "logisticsCollapse",
+    id: "supplyCascade",
     minTick: 8,
     cooldown: 10,
     shouldTrigger: (state) =>
-      state.modules.logistics.integrity < 35 && state.marks.supplyStress >= 3,
-    create: () => ({
-      ...chainedEvent(
+      state.modules.logistics.integrity < 35 &&
+      state.marks.supplyStress >= 3,
+    create: () =>
+      chainedEvent(
         {
-          id: "logisticsCollapse",
-          title: "Logistics collapse",
-          body: "Supply routes are seizing up. Reroute through backup conduits or force the main line.",
+          id: "supplyCascade",
+          title: T.events.supplyCascade.step1.title,
+          body: T.events.supplyCascade.step1.body,
           options: [
-            { id: "backupConduits", label: "Backup conduits" },
-            { id: "forceMainLine", label: "Force main line" },
+            {
+              id: "divertPower",
+              label: T.events.supplyCascade.step1.options.divertPower,
+            },
+            {
+              id: "riskDrones",
+              label: T.events.supplyCascade.step1.options.riskDrones,
+            },
           ],
         },
-        "logistics-collapse",
+        "supply-cascade",
         1,
-        2
+        3
       ),
-    }),
     resolve: (state, optionId) => {
-      if (optionId === "backupConduits") {
+      if (optionId === "divertPower") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power - 4),
+            stability: clamp(state.resources.stability + 2),
+          },
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress - 1),
+          },
+          alert: T.alerts.powerDiverted,
+          journal: pushJournal(state, T.journal.dronesProtected),
+        };
+      }
+
+      if (optionId === "riskDrones") {
         return {
           ...state,
           pendingEvent: chainedEvent(
             {
-              id: "logisticsCollapse",
-              title: "Conduits under strain",
-              body: "Backup conduits are holding but strained. Reinforce them or accept the fragile state.",
+              id: "supplyCascade",
+              title: T.events.supplyCascade.step2.title,
+              body: T.events.supplyCascade.step2.body,
               options: [
-                { id: "reinforce", label: "Reinforce" },
-                { id: "acceptFragile", label: "Accept fragile" },
+                {
+                  id: "processFuel",
+                  label: T.events.supplyCascade.step2.options.processFuel,
+                },
+                {
+                  id: "stabilizeStructure",
+                  label:
+                    T.events.supplyCascade.step2.options.stabilizeStructure,
+                },
               ],
             },
-            "logistics-collapse",
+            "supply-cascade",
             2,
-            2
+            3
           ),
-          resources: {
-            ...state.resources,
-            materials: clamp(state.resources.materials - 2),
-            stability: clamp(state.resources.stability + 2),
-          },
-          alert: "Supply rerouted through backup conduits.",
-          journal: pushJournal(state, "You shifted flow to the backup conduits. They're holding, but barely."),
-        };
-      }
-
-      if (optionId === "forceMainLine") {
-        return {
-          ...state,
-          pendingEvent: null,
           resources: {
             ...state.resources,
             materials: clamp(state.resources.materials + 4),
@@ -504,58 +543,412 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
               integrity: clamp(state.modules.logistics.integrity - 8),
             },
           },
-          alert: "The main line was forced open but took structural damage.",
-          journal: pushJournal(state, "You forced the main supply line through. Materials flowed, but the conduit cracked."),
+          alert: T.alerts.dronesLost,
+          journal: pushJournal(state, T.journal.droneDamage),
         };
       }
 
-      if (optionId === "reinforce") {
+      if (optionId === "processFuel") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "supplyCascade",
+              title: T.events.supplyCascade.step3.title,
+              body: T.events.supplyCascade.step3.body,
+              options: [
+                {
+                  id: "lockLogistics",
+                  label:
+                    T.events.supplyCascade.step3.options.lockLogistics,
+                },
+                {
+                  id: "ventSensors",
+                  label: T.events.supplyCascade.step3.options.ventSensors,
+                },
+              ],
+            },
+            "supply-cascade",
+            3,
+            3
+          ),
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power + 8),
+          },
+          alert: T.alerts.fuelProcessed,
+          journal: pushJournal(state, T.journal.volatilePower),
+        };
+      }
+
+      if (optionId === "stabilizeStructure") {
         return {
           ...state,
           pendingEvent: null,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials - 3),
+            materials: clamp(state.resources.materials + 3),
+            stability: clamp(state.resources.stability + 3),
           },
           marks: {
             ...state.marks,
             supplyStress: clamp(state.marks.supplyStress - 1),
           },
+          alert: T.alerts.structureStabilized,
+          journal: pushJournal(state, T.journal.structuralReinforce),
+        };
+      }
+
+      if (optionId === "lockLogistics") {
+        return {
+          ...state,
+          pendingEvent: null,
+          marks: {
+            ...state.marks,
+            supplyStress: clamp(state.marks.supplyStress + 2),
+          },
           modules: {
             ...state.modules,
             logistics: {
               ...state.modules.logistics,
-              integrity: clamp(state.modules.logistics.integrity + 10),
+              integrity: clamp(state.modules.logistics.integrity - 5),
             },
           },
-          alert: "Backup conduits reinforced and holding.",
-          journal: pushJournal(state, "You spent materials to shore up the conduits. Supply stress eased and logistics stabilized."),
+          alert: T.alerts.logisticsLocked,
+          journal: pushJournal(state, T.journal.logisticsStress),
         };
       }
 
-      if (optionId === "acceptFragile") {
+      if (optionId === "ventSensors") {
+        return {
+          ...state,
+          pendingEvent: null,
+          modules: {
+            ...state.modules,
+            sensor: {
+              ...state.modules.sensor,
+              integrity: clamp(state.modules.sensor.integrity - 8),
+              load: clamp(state.modules.sensor.load + 15),
+            },
+          },
+          alert: T.alerts.sensorsVented,
+          journal: pushJournal(state, T.journal.sensorDistortion),
+        };
+      }
+
+      // fallback
+      return { ...state, pendingEvent: null };
+    },
+  },
+
+  // ── Void Breach (new) ──────────────────────────────────────────────────────
+  {
+    id: "voidBreach",
+    minTick: 14,
+    cooldown: 16,
+    shouldTrigger: (state) =>
+      state.marks.voidEcho >= 4 && state.phase !== "boot",
+    create: () =>
+      chainedEvent(
+        {
+          id: "voidBreach",
+          title: T.events.voidBreach.step1.title,
+          body: T.events.voidBreach.step1.body,
+          options: [
+            {
+              id: "seal",
+              label: T.events.voidBreach.step1.options.seal,
+            },
+            {
+              id: "commune",
+              label: T.events.voidBreach.step1.options.commune,
+            },
+          ],
+        },
+        "void-breach",
+        1,
+        2
+      ),
+    resolve: (state, optionId) => {
+      if (optionId === "seal") {
         return {
           ...state,
           pendingEvent: null,
           resources: {
             ...state.resources,
-            stability: clamp(state.resources.stability - 2),
+            power: clamp(state.resources.power - 8),
           },
           marks: {
             ...state.marks,
-            supplyStress: clamp(state.marks.supplyStress + 1),
+            voidEcho: clamp(state.marks.voidEcho - 2),
           },
-          alert: "The fragile conduit state was accepted.",
-          journal: pushJournal(state, "You left the conduits as-is. They'll hold for now, but the stress is building."),
+          alert: T.alerts.voidSealed,
+          journal: pushJournal(state, T.journal.voidSealedJournal),
         };
       }
 
+      if (optionId === "commune") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "voidBreach",
+              title: T.events.voidBreach.step2.title,
+              body: T.events.voidBreach.step2.body,
+              options: [
+                {
+                  id: "sacrifice",
+                  label: T.events.voidBreach.step2.options.sacrifice,
+                },
+                {
+                  id: "anchor",
+                  label: T.events.voidBreach.step2.options.anchor,
+                },
+              ],
+            },
+            "void-breach",
+            2,
+            2
+          ),
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation + 5),
+            stability: clamp(state.resources.stability - 4),
+          },
+          marks: {
+            ...state.marks,
+            voidEcho: clamp(state.marks.voidEcho + 3),
+          },
+          alert: T.alerts.voidCommune,
+          journal: pushJournal(state, T.journal.voidEchoJournal),
+        };
+      }
+
+      if (optionId === "sacrifice") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - 5),
+            stability: clamp(state.resources.stability + 5),
+          },
+          marks: {
+            ...state.marks,
+            voidEcho: clamp(state.marks.voidEcho - 3),
+          },
+          alert: T.alerts.voidSacrifice,
+          journal: pushJournal(state, T.journal.voidSacrificeJournal),
+        };
+      }
+
+      if (optionId === "anchor") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power + 5),
+          },
+          marks: {
+            ...state.marks,
+            reactorScar: clamp(state.marks.reactorScar + 3),
+            voidEcho: clamp(state.marks.voidEcho - 1),
+          },
+          alert: T.alerts.voidAnchored,
+          journal: pushJournal(state, T.journal.voidReactorScarJournal),
+        };
+      }
+
+      // fallback
+      return { ...state, pendingEvent: null };
+    },
+  },
+
+  // ── Deep Trek (new) ────────────────────────────────────────────────────────
+  {
+    id: "deepTrek",
+    minTick: 10,
+    cooldown: 12,
+    shouldTrigger: (state) =>
+      state.modules.logistics.online && state.resources.materials < 10,
+    create: () => ({
+      id: "deepTrek" as StarholdEventId,
+      title: T.events.deepTrek.title,
+      body: T.events.deepTrek.body,
+      options: [
+        { id: "sendDrone", label: T.events.deepTrek.options.sendDrone },
+        { id: "recall", label: T.events.deepTrek.options.recall },
+      ],
+    }),
+    resolve: (state, optionId) => {
+      if (optionId === "sendDrone") {
+        const success = Math.random() < 0.6;
+
+        if (success) {
+          return {
+            ...state,
+            pendingEvent: null,
+            resources: {
+              ...state.resources,
+              materials: clamp(state.resources.materials + 8),
+              power: clamp(state.resources.power - 3),
+            },
+            alert: T.alerts.trekSuccess,
+            journal: pushJournal(state, T.journal.trekRichesJournal),
+          };
+        } else {
+          return {
+            ...state,
+            pendingEvent: null,
+            resources: {
+              ...state.resources,
+              power: clamp(state.resources.power - 2),
+            },
+            modules: {
+              ...state.modules,
+              logistics: {
+                ...state.modules.logistics,
+                integrity: clamp(state.modules.logistics.integrity - 10),
+              },
+            },
+            alert: T.alerts.trekFailed,
+            journal: pushJournal(state, T.journal.trekLossJournal),
+          };
+        }
+      }
+
+      // recall (default)
       return {
         ...state,
         pendingEvent: null,
-        alert: "Logistics event resolved.",
-        journal: pushJournal(state, "The logistics crisis passed without further action."),
+        resources: {
+          ...state.resources,
+          stability: clamp(state.resources.stability + 2),
+        },
+        alert: T.alerts.sensorRecalibrated,
+        journal: pushJournal(state, T.journal.driftDampened),
       };
+    },
+  },
+
+  // ── Entropy Cascade (new) ──────────────────────────────────────────────────
+  {
+    id: "entropyCascade",
+    minTick: 16,
+    cooldown: 18,
+    shouldTrigger: (state) => state.entropy >= 40,
+    create: () =>
+      chainedEvent(
+        {
+          id: "entropyCascade",
+          title: T.events.entropyCascade.step1.title,
+          body: T.events.entropyCascade.step1.body,
+          options: [
+            {
+              id: "purgeBuffer",
+              label: T.events.entropyCascade.step1.options.purgeBuffer,
+            },
+            {
+              id: "isolateModules",
+              label: T.events.entropyCascade.step1.options.isolateModules,
+            },
+          ],
+        },
+        "entropy-cascade",
+        1,
+        2
+      ),
+    resolve: (state, optionId) => {
+      if (optionId === "purgeBuffer") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - 6),
+            stability: clamp(state.resources.stability + 4),
+          },
+          entropy: clamp(state.entropy - 20),
+          alert: T.alerts.entropyPurged,
+          journal: pushJournal(state, T.journal.entropyStable),
+        };
+      }
+
+      if (optionId === "isolateModules") {
+        return {
+          ...state,
+          pendingEvent: chainedEvent(
+            {
+              id: "entropyCascade",
+              title: T.events.entropyCascade.step2.title,
+              body: T.events.entropyCascade.step2.body,
+              options: [
+                {
+                  id: "burnOut",
+                  label: T.events.entropyCascade.step2.options.burnOut,
+                },
+                {
+                  id: "redirectCore",
+                  label:
+                    T.events.entropyCascade.step2.options.redirectCore,
+                },
+              ],
+            },
+            "entropy-cascade",
+            2,
+            2
+          ),
+          alert: T.alerts.cascadeIsolated,
+          journal: pushJournal(state, T.journal.cascadeStart),
+        };
+      }
+
+      if (optionId === "burnOut") {
+        // Pick a random online module to take the damage
+        const moduleIds = (
+          Object.keys(state.modules) as (keyof typeof state.modules)[]
+        ).filter((id) => state.modules[id].online);
+        const targetId =
+          moduleIds[Math.floor(Math.random() * moduleIds.length)] ??
+          "logistics";
+        const targetModule = state.modules[targetId];
+        const burnedName = targetModule.name;
+
+        return {
+          ...state,
+          pendingEvent: null,
+          modules: {
+            ...state.modules,
+            [targetId]: {
+              ...targetModule,
+              online: false,
+              integrity: clamp(targetModule.integrity - 20),
+            },
+          },
+          entropy: clamp(state.entropy - 15),
+          alert: T.alerts.moduleBurnout(burnedName),
+          journal: pushJournal(state, T.journal.entropyBurnout),
+        };
+      }
+
+      if (optionId === "redirectCore") {
+        return {
+          ...state,
+          pendingEvent: null,
+          resources: {
+            ...state.resources,
+            activation: clamp(state.resources.activation - 8),
+          },
+          entropy: clamp(state.entropy - 10),
+          resonance: clamp(state.resonance + 15),
+          alert: T.alerts.coreRedirection,
+          journal: pushJournal(state, T.journal.coreSpike),
+        };
+      }
+
+      // fallback
+      return { ...state, pendingEvent: null };
     },
   },
 ];
@@ -590,15 +983,17 @@ export function applyStarholdEvents(state: StarholdState): StarholdState {
   return nextState;
 }
 
-export function resolveStarholdEvent(state: StarholdState, optionId: string): StarholdState {
+export function resolveStarholdEvent(
+  state: StarholdState,
+  optionId: string
+): StarholdState {
   if (!state.pendingEvent) return state;
 
-  const event = STARHOLD_EVENTS.find((entry) => entry.id === state.pendingEvent?.id);
+  const event = STARHOLD_EVENTS.find(
+    (entry) => entry.id === state.pendingEvent?.id
+  );
   if (!event) {
-    return {
-      ...state,
-      pendingEvent: null,
-    };
+    return { ...state, pendingEvent: null };
   }
 
   return event.resolve(state, optionId);
