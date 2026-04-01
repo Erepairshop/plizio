@@ -248,7 +248,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       alpha: { start: 1, end: 0 },
       lifespan: 500,
       speed: { min: 200, max: 400 },
-      emitZone: { type: 'random', source: new Phaser.Geom.Line(from.x, from.y, to.x, to.y) },
+      emitZone: { type: 'random', source: new Phaser.Geom.Line(from.x, from.y, to.x, to.y) } as Phaser.Types.GameObjects.Particles.EmitZoneData,
       emitting: false
     });
     particles.explode(20);
