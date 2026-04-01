@@ -153,6 +153,7 @@ export interface StarholdRepairChallengeState {
   promptIndex: number;
   sequence: StarholdModuleId[];
   windowSatisfied: boolean;
+  unlocksAvatarPrep: boolean;
 }
 
 export interface StarholdState {

@@ -53,6 +53,18 @@ export const BIO_I1_LABELS: Record<string, Record<string, string>> = {
     t8_inst: "Finde den Laich!",
     t8_q: "Wo wird der Laich abgelegt?",
     t8_qa: "Im Wasser", t8_qb: "An Land", t8_qc: "Im Nest", t8_qd: "Unter der Erde",
+    t9_title: "Die Schwimmblase",
+    t9_text: "Die Schwimmblase hilft dem Fisch, im Wasser auf- und abzusteigen oder auf einer Höhe zu bleiben.",
+    t9_h1: "Höhenkontrolle", t9_h2: "Gashaltiges Organ",
+    t9_inst: "Steige auf und ab!",
+    t9_q: "Wozu dient die Schwimmblase?",
+    t9_qa: "Zum Sinken und Steigen", t9_qb: "Zum Atmen", t9_qc: "Zum Hören", t9_qd: "Zum Fressen",
+    t10_title: "Krötenwanderung",
+    t10_text: "Im Frühjahr wandern Kröten zu ihren Geburtsgewässern, um dort Eier abzulegen.",
+    t10_h1: "Reise zum Wasser", t10_h2: "Gefahren im Straßenverkehr",
+    t10_inst: "Hilf der Kröte!",
+    t10_q: "Wann findet die Krötenwanderung meist statt?",
+    t10_qa: "Im Frühling", t10_qb: "Im Winter", t10_qc: "Im Sommer", t10_qd: "Im Herbst",
   },
 };
 
@@ -104,6 +116,18 @@ export const BIO_I1_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🫧", color: "#3B82F6" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Eier", right: "Laich"}, {left: "Entwicklung", right: "Wasser"}, {left: "Schutz", right: "Gallerte"}] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🎈", color: "#3B82F6" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Die ___ hilft beim Steigen und Sinken.", choices: ["Schwimmblase", "Lunge", "Flosse", "Nase"], correctIndex: 0 },
+    quiz: { generate: "fish" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🛣️", color: "#4CAF50" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Frühling", "wandern", "Gewässern", "Eier"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "amphibian" }
   }
 ];
 
@@ -156,6 +180,18 @@ export const BIO_I2_LABELS: Record<string, Record<string, string>> = {
     t8_inst: "Was passt zu beiden?",
     t8_q: "Was haben Reptilien und Vögel gemeinsam?",
     t8_qa: "Beide legen Eier an Land", t8_qb: "Beide können fliegen", t8_qc: "Beide haben Federn", t8_qd: "Beide sind gleichwarm",
+    t9_title: "Die Eiablage",
+    t9_text: "Reptilien legen ihre Eier meist im Boden ab und lassen sie von der Sonne ausbrüten.",
+    t9_h1: "Sonnenausbrütung", t9_h2: "Grube im Sand",
+    t9_inst: "Vergrabe die Eier!",
+    t9_q: "Wer brütet meist die Reptilieneier aus?",
+    t9_qa: "Die Sonne (Wärme)", t9_qb: "Die Mutter", t9_qc: "Der Vater", t9_qd: "Niemand",
+    t10_title: "Der Vogelzug",
+    t10_text: "Viele Vögel fliegen im Winter in den Süden, um dort Nahrung zu finden. Man nennt sie Zugvögel.",
+    t10_h1: "Reise in den Süden", t10_h2: "Nahrungssuche",
+    t10_inst: "Flieg mit!",
+    t10_q: "Warum ziehen viele Vögel im Winter weg?",
+    t10_qa: "Wegen Nahrungsmangel", t10_qb: "Weil sie Urlaub brauchen", t10_qc: "Zum Spielen", t10_qd: "Wegen Wind",
   },
 };
 
@@ -207,6 +243,18 @@ export const BIO_I2_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧬", color: "#EF4444" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Ei", right: "Vermehrung"}, {left: "Skelett", right: "Wirbelsäule"}, {left: "Atem", right: "Lunge"}] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🥚", color: "#FDE68A" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Reptilien legen Eier oft in den ___.", choices: ["Boden", "Baum", "See", "Schnee"], correctIndex: 0 },
+    quiz: { generate: "reptile" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "✈️", color: "#3B82F6" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Winter", right: "Süden"}, {left: "Sommer", right: "Norden"}, {left: "Ziel", right: "Nahrung"}] },
+    quiz: { generate: "bird" }
   }
 ];
 
@@ -257,6 +305,18 @@ export const BIO_I3_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Säugetiere betreiben meist eine intensive Brutpflege und kümmern sich lange um ihren Nachwuchs.",
     t8_h1: "Fürsorge", t8_h2: "Lange Kindheit",
     t8_inst: "Hilf dem Baby!",
+    t9_title: "Winterstrategien",
+    t9_text: "Säugetiere überwintern unterschiedlich: Igel halten Winterschlaf, Eichhörnchen halten Winterruhe.",
+    t9_h1: "Schlafen oder Ruhen", t9_h2: "Energie sparen",
+    t9_inst: "Wer macht was?",
+    t9_q: "Was ist der Unterschied zwischen Winterschlaf und Winterruhe?",
+    t9_qa: "Winterschläfer senken Körpertemperatur stark", t9_qb: "Es gibt keinen Unterschied", t9_qc: "Winterruher schlafen länger", t9_qd: "Nur Vögel ruhen",
+    t10_title: "Säugetier-Sinne",
+    t10_text: "Viele Säugetiere haben hervorragende Sinne, wie den Geruchssinn beim Hund oder das Gehör der Fledermaus.",
+    t10_h1: "Super-Nasen", t10_h2: "Hören im Dunkeln",
+    t10_inst: "Teste die Sinne!",
+    t10_q: "Welchen Sinn nutzen Hunde besonders intensiv?",
+    t10_qa: "Geruchssinn", t10_qb: "Sehsinn", t10_qc: "Geschmackssinn", t10_qd: "Gleichgewichtssinn",
   },
 };
 
@@ -307,6 +367,18 @@ export const BIO_I3_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🤱", color: "#F472B6" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Sie pflegen ihre ___.", choices: ["Jungen", "Feinde", "Steine", "Pflanzen"], correctIndex: 0 },
+    quiz: { generate: "wirbeltiere_mammal" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "💤", color: "#3B82F6" },
+    interactive: { type: "drag-to-bucket", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", buckets: [{id: "schlaf", label: "Winterschlaf"}, {id: "ruhe", label: "Winterruhe"}], items: [{text: "Igel", bucketId: "schlaf"}, {text: "Eichhörnchen", bucketId: "ruhe"}, {text: "Siebenschläfer", bucketId: "schlaf"}, {text: "Dachs", bucketId: "ruhe"}] },
+    quiz: { generate: "wirbeltiere_mammal" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "👃", color: "#94A3B8" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Hund", right: "Nase"}, {left: "Fledermaus", right: "Gehör"}, {left: "Luchs", right: "Augen"}] },
     quiz: { generate: "wirbeltiere_mammal" }
   }
 ];
@@ -360,6 +432,18 @@ export const BIO_I4_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Pflanzen passen ihre Organe an: Kakteen speichern Wasser im Stamm, Seerosen haben Blätter zum Schwimmen.",
     t8_h1: "Überleben überall", t8_h2: "Spezialformen",
     t8_inst: "Wo gehört es hin?",
+    t9_title: "Der Samen",
+    t9_text: "Ein Samen enthält einen Embryo und Nährstoffe für den Start ins Leben. Er ist eine Überdauerungsform.",
+    t9_h1: "Startpaket", t9_h2: "Schützende Schale",
+    t9_inst: "Baue den Samen!",
+    t9_q: "Was befindet sich im Inneren eines Samens?",
+    t9_qa: "Ein Pflanzen-Embryo", t9_qb: "Nur Wasser", t9_qc: "Blütenstaub", t9_qd: "Blätter",
+    t10_title: "Laubfall im Herbst",
+    t10_text: "Bäume werfen im Herbst ihre Blätter ab, um im Winter nicht zu vertrocknen.",
+    t10_h1: "Wassermangel im Winter", t10_h2: "Vorbereitung auf Frost",
+    t10_inst: "Lass die Blätter fallen!",
+    t10_q: "Warum werfen Laubbäume ihre Blätter ab?",
+    t10_qa: "Schutz vor dem Vertrocknen", t10_qb: "Wegen dem Wind", t10_qc: "Um schöner auszusehen", t10_qd: "Zufall",
   },
 };
 
@@ -411,6 +495,18 @@ export const BIO_I4_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🌵", color: "#15803D" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Kaktus", right: "Wasserspeicher"}, {left: "Seerose", right: "Schwimmblatt"}, {left: "Erbsen", right: "Ranken"}] },
     quiz: { generate: "pflanzen_plant_parts" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🥜", color: "#92400E" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Der Samen enthält einen ___.", choices: ["Embryo", "Stamm", "Pollen", "Zucker"], correctIndex: 0 },
+    quiz: { generate: "pflanzen_plant_parts" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🍂", color: "#B45309" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Herbst", "Blätter", "Winter", "vertrocknen"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "pflanzen_plant_parts" }
   }
 ];
 
@@ -461,6 +557,18 @@ export const BIO_I5_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Wenn ein Samen Wasser, Wärme und Sauerstoff bekommt, beginnt er zu wachsen – er keimt.",
     t8_h1: "Neues Leben erwacht", t8_h2: "Wurzel zuerst",
     t8_inst: "Lass es wachsen!",
+    t9_title: "Ableger & Ausläufer",
+    t9_text: "Manche Pflanzen vermehren sich ungeschlechtlich durch Ausläufer (z.B. Erdbeeren) oder Knollen (Kartoffeln).",
+    t9_h1: "Klonen in der Natur", t9_h2: "Ohne Bestäubung",
+    t9_inst: "Pflanze die Ableger!",
+    t9_q: "Wie vermehren sich Erdbeeren oft?",
+    t9_qa: "Durch Ausläufer", t9_qb: "Nur durch Samen", t9_qc: "Durch den Wind", t9_qd: "Gar nicht",
+    t10_title: "Die Frühblüher",
+    t10_text: "Schneeglöckchen und Krokusse blühen früh im Jahr. Sie nutzen Energie aus ihren unterirdischen Zwiebeln oder Knollen.",
+    t10_h1: "Erste Blumen im Jahr", t10_h2: "Energiespeicher Zwiebel",
+    t10_inst: "Finde die Zwiebel!",
+    t10_q: "Woher nehmen Frühblüher ihre Energie für das frühe Wachstum?",
+    t10_qa: "Aus unterirdischen Speichern (Zwiebeln)", t10_qb: "Aus der Wintersonne", t10_qc: "Aus dem Regen", t10_qd: "Vom Schnee",
   },
 };
 
@@ -511,6 +619,18 @@ export const BIO_I5_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌱", color: "#22C55E" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Keimung", right: "Wachstum"}, {left: "Wasser", right: "Bedingung"}, {left: "Samen", right: "Ruheform"}] },
+    quiz: { generate: "pflanzen_plant_reproduction" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🍓", color: "#EF4444" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Erdbeeren bilden lange ___.", choices: ["Ausläufer", "Blüten", "Wurzeln", "Stämme"], correctIndex: 0 },
+    quiz: { generate: "pflanzen_plant_reproduction" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🧅", color: "#FACC15" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Zwiebel", right: "Speicher"}, {left: "Schneeglöckchen", right: "Frühjahr"}, {left: "Winter", right: "Ruhe"}] },
     quiz: { generate: "pflanzen_plant_reproduction" }
   }
 ];
@@ -564,6 +684,18 @@ export const BIO_I6_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Regelmäßige Bewegung und eine aufrechte Haltung stärken Knochen und Muskeln und verhindern Schmerzen.",
     t8_h1: "Rücken gerade", t8_h2: "Sport ist gesund",
     t8_inst: "Sitz gerade!",
+    t9_title: "Der Schädel",
+    t9_text: "Der Schädel besteht aus mehreren Knochen, die fest miteinander verbunden sind und das Gehirn schützen.",
+    t9_h1: "Harter Schutz", t9_h2: "Gehirntresor",
+    t9_inst: "Setz den Helm auf!",
+    t9_q: "Welches Organ wird durch den Schädel geschützt?",
+    t9_qa: "Das Gehirn", t9_qb: "Das Herz", t9_qc: "Die Lunge", t9_qd: "Der Magen",
+    t10_title: "Knochenbruch",
+    t10_text: "Knochen können brechen, aber sie können auch wieder zusammenwachsen. Dabei hilft ein Gipsverband.",
+    t10_h1: "Heilungsprozess", t10_h2: "Zusammenwachsen",
+    t10_inst: "Heile den Bruch!",
+    t10_q: "Was passiert mit einem gebrochenen Knochen nach einiger Zeit?",
+    t10_qa: "Er wächst wieder zusammen", t10_qb: "Er bleibt für immer kaputt", t10_qc: "Er verschwindet", t10_qd: "Er wird zu Muskel",
   },
 };
 
@@ -612,9 +744,21 @@ export const BIO_I6_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🏃", color: "#10B981" },
+    svg: { type: "simple-icon", icon: "跑步", color: "#10B981" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Bewegung", right: "Gesundheit"}, {left: "Haltung", right: "Rücken"}, {left: "Sport", right: "Stärkung"}] },
     quiz: { generate: "koerper_muscles" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🪖", color: "#64748B" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Der Schädel schützt das ___.", choices: ["Gehirn", "Herz", "Bein", "Ohr"], correctIndex: 0 },
+    quiz: { generate: "koerper_skeleton" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🩹", color: "#FACC15" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Bruch", right: "Knochen"}, {left: "Heilung", right: "Zusammenwachsen"}, {left: "Hilfe", right: "Gips"}] },
+    quiz: { generate: "koerper_skeleton" }
   }
 ];
 
@@ -665,6 +809,18 @@ export const BIO_I7_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Hormone sind Botenstoffe, die langfristige Vorgänge wie Wachstum oder Blutzuckerspiegel steuern.",
     t8_h1: "Langsame Signale", t8_h2: "Drüsen",
     t8_inst: "Boten senden!",
+    t9_title: "Das Gehirn",
+    t9_text: "Das Gehirn ist die Schaltzentrale. Es verarbeitet Informationen und steuert alle Körperfunktionen.",
+    t9_h1: "Denken und Steuern", t9_h2: "Zentrale des Körpers",
+    t9_inst: "Verarbeite das Signal!",
+    t9_q: "Welches Organ ist die Schaltzentrale des Körpers?",
+    t9_qa: "Das Gehirn", t9_qb: "Das Herz", t9_qc: "Die Lunge", t9_qd: "Der Magen",
+    t10_title: "Die Haut",
+    t10_text: "Die Haut schützt uns vor Krankheitserregern, Hitze und Kälte. Sie ist unser größtes Organ.",
+    t10_h1: "Schutzhülle", t10_h2: "Größtes Organ",
+    t10_inst: "Schütze den Körper!",
+    t10_q: "Was ist eine wichtige Aufgabe der Haut?",
+    t10_qa: "Schutz vor Erregern", t10_qb: "Nahrung verdauen", t10_qc: "Blut pumpen", t10_qd: "Luft holen",
   },
 };
 
@@ -716,6 +872,18 @@ export const BIO_I7_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧪", color: "#EC4899" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Hormone steuern das ___.", choices: ["Wachstum", "Wetter", "Fahrrad", "Licht"], correctIndex: 0 },
     quiz: { generate: "koerper_body_systems" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🧠", color: "#F472B6" },
+    interactive: { type: "highlight-text", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", tokens: ["Gehirn", "verarbeitet", "Informationen", "steuert"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "koerper_body_systems" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "✋", color: "#FDBA74" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "Die ___ ist das größte Organ.", choices: ["Haut", "Lunge", "Niere", "Leber"], correctIndex: 0 },
+    quiz: { generate: "koerper_skin" }
   }
 ];
 
@@ -817,6 +985,18 @@ export const BIO_I8_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "💭", color: "#A78BFA" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Das ___ deutet die Signale.", choices: ["Gehirn", "Herz", "Bein", "Auge"], correctIndex: 0 },
     quiz: { generate: "sinnesorgane_eye" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "⚖️", color: "#3B82F6" },
+    interactive: { type: "highlight-text", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", tokens: ["Innenohr", "Gleichgewichtsorgan", "umfallen", "wahrnehmen"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "sinnesorgane_ear" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🤝", color: "#10B981" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Essen", right: "Schmecken + Riechen"}, {left: "Sprechen", right: "Hören + Tasten"}, {left: "Laufen", right: "Sehen + Gleichgewicht"}] },
+    quiz: { generate: "sinnesorgane_eye" }
   }
 ];
 
@@ -917,6 +1097,18 @@ export const BIO_I9_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🥗", color: "#10B981" },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id: "gesund", label: "Gesund"}, {id: "ungesund", label: "Ungesund"}], items: [{text: "Salat", bucketId: "gesund"}, {text: "Apfel", bucketId: "gesund"}, {text: "Cola", bucketId: "ungesund"}, {text: "Chips", bucketId: "ungesund"}] },
+    quiz: { generate: "ernaehrung_healthy_diet" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🍭", color: "#F472B6" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Cola enthält oft viel ___.", choices: ["Zucker", "Salz", "Vitamine", "Fett"], correctIndex: 0 },
+    quiz: { generate: "ernaehrung_healthy_diet" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🥜", color: "#92400E" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Milch", right: "Laktoseintoleranz"}, {left: "Nüsse", right: "Allergie"}, {left: "Brot", right: "Gluten"}] },
     quiz: { generate: "ernaehrung_healthy_diet" }
   }
 ];

@@ -240,7 +240,56 @@ const DATA_K6: any = {
   europe_regions: { mcq: [], typing: [] },
   waters_oceans_k6: { mcq: [], typing: [] },
   agriculture_europe: { mcq: [], typing: [] },
-  tourism_leisure: { mcq: [], typing: [] }
+  tourism_leisure: { mcq: [], typing: [] },
+
+  germany_overview_k6: {
+    mcq: [
+      { q: ["Mi Németország fővárosa?", "Capital of Germany?", "Hauptstadt Deutschlands?", "Capitala Germaniei?"], c: ["Berlin", "Berlin", "Berlin", "Berlin"], w1: ["München", "Munich", "München", "Munchen"], w2: ["Hamburg", "Hamburg", "Hamburg", "Hamburg"], w3: ["Köln", "Cologne", "Köln", "Koln"] },
+      { q: ["Melyik nagy folyó folyik Németországban?", "Major German river?", "Welcher Fluss?", "Râu important în Germania?"], c: ["Rajna", "Rhine", "Rhein", "Rin"], w1: ["Volga", "Volga", "Wolga", "Volga"], w2: ["Nílus", "Nile", "Nil", "Nil"], w3: ["Temze", "Thames", "Themse", "Tamisa"] },
+      { q: ["Melyik hegyvidék jellemző Dél-Németországra?", "South Germany mountains?", "Gebirge im Süden?", "Munți în sudul Germaniei?"], c: ["Alpok előtere", "Alpine foreland", "Alpenvorland", "Piemont alpin"], w1: ["Szahara", "Sahara", "Sahara", "Sahara"], w2: ["Andok", "Andes", "Anden", "Anzi"], w3: ["Appalache", "Appalachians", "Appalachen", "Apalași"] },
+      { q: ["Németország melyik ország-csoport központja?", "Germany in which region?", "Mitteleuropa?", "Germania in ce regiune?"], c: ["Közép-Európa", "Central Europe", "Mitteleuropa", "Europa Centrală"], w1: ["Óceánia", "Oceania", "Ozeanien", "Oceania"], w2: ["Afrika", "Africa", "Afrika", "Africa"], w3: ["Dél-Amerika", "South America", "Südamerika", "America de Sud"] },
+    ],
+    typing: [
+      { q: ["Németország fővárosa angolul?", "Capital Germany?", "Berlin?", "Capitala Germaniei?"], a: ["Berlin", "Berlin", "Berlin", "Berlin"] },
+      { q: ["Germany németül?", "Germany in German?", "Deutschland?", "Germania?"], a: ["Deutschland", "Germany", "Deutschland", "Germania"] },
+    ]
+  },
+  climate_zones_basics: {
+    mcq: [
+      { q: ["Melyik éghajlati öv jellemző Közép-Európára?", "Climate zone in Central Europe?", "Welche Klimazone?", "Ce zonă climatică?"], c: ["Mérsékelt öv", "Temperate zone", "Gemäßigte Zone", "Zona temperată"], w1: ["Trópusi", "Tropical", "Tropisch", "Tropicală"], w2: ["Sarki", "Polar", "Polar", "Polară"], w3: ["Sivatagi", "Desert", "Wüste", "Deșertică"] },
+      { q: ["Milyen a mérsékelt öv nyara?", "Temperate summer?", "Sommer in der gemäßigten Zone?", "Vară în zona temperată?"], c: ["Enyhe vagy meleg", "Mild or warm", "Mild oder warm", "Blândă sau caldă"], w1: ["Mindig fagyos", "Always freezing", "Immer frostig", "Înghețată mereu"], w2: ["Mindig esős", "Always rainy", "Immer regnerisch", "Plouă mereu"], w3: ["Nincs nyár", "No summer", "Kein Sommer", "Nu există vară"] },
+      { q: ["Melyik övben van forró, csapadékos idő?", "Hot and wet belt?", "Heiß und feucht?", "Unde e cald și umed?"], c: ["Trópusi öv", "Tropical belt", "Tropischer Gürtel", "Zona tropicală"], w1: ["Sarki", "Polar", "Polar", "Polară"], w2: ["Mérsékelt", "Temperate", "Gemäßigt", "Temperată"], w3: ["Mérgező", "Toxic", "Giftig", "Toxică"] },
+      { q: ["Melyik övben a leghidegebb az éghajlat?", "Coldest belt?", "Kälteste Zone?", "Cea mai rece zonă?"], c: ["Sarki öv", "Polar zone", "Polare Zone", "Zona polară"], w1: ["Trópusi", "Tropical", "Tropisch", "Tropicală"], w2: ["Mediterrán", "Mediterranean", "Mittelmeer", "Mediteraneană"], w3: ["Száraz sztyepp", "Steppe", "Steppe", "Stepă"] },
+    ],
+    typing: [
+      { q: ["Mérsékelt angolul?", "Temperate EN?", "Gemäßigt?", "Temperat?"], a: ["Temperate", "Temperate", "Gemäßigt", "Temperat"] },
+      { q: ["Éghajlati öv angolul?", "Climate zone EN?", "Klimazone?", "Zonă climatică?"], a: ["Climate zone", "Climate zone", "Klimazone", "Zona climatica"] },
+    ]
+  },
+  water_cycle_detailed: {
+    mcq: [
+      { q: ["Mi történik az elpárolgáskor?", "What happens during evaporation?", "Verdunstung?", "Ce se întâmplă la evaporare?"], c: ["A víz gőzzé válik", "Water becomes vapor", "Wasser wird Dampf", "Apa devine vapori"], w1: ["Jéggé fagy", "Freezes", "Gefriert", "Îngheață"], w2: ["Kővé lesz", "Turns to stone", "Wird Stein", "Devine piatră"], w3: ["Eltűnik a Földről", "Leaves Earth", "Verlässt die Erde", "Dispare"] },
+      { q: ["Mi a lecsapódás?", "What is condensation?", "Kondensation?", "Condensare?"], c: ["Vízcseppek képződése", "Droplets form", "Tröpfchen entstehen", "Se formează picături"], w1: ["Esőerdő", "Rainforest", "Regenwald", "Pădure tropicală"], w2: ["Hóolvadás", "Snow melt", "Schmelzen", "Topirea zăpezii"], w3: ["Sivatag", "Desert", "Wüste", "Deșert"] },
+      { q: ["Mi a csapadék?", "What is precipitation?", "Niederschlag?", "Precipitație?"], c: ["Eső, hó, jég", "Rain, snow, hail", "Regen, Schnee, Hagel", "Ploaie, zăpadă, grindină"], w1: ["Csak köd", "Only fog", "Nur Nebel", "Doar ceață"], w2: ["Szél", "Wind", "Wind", "Vânt"], w3: ["Pára", "Steam", "Dampf", "Abur"] },
+      { q: ["Mi az infiltráció?", "What is infiltration?", "Infiltration?", "Infiltrare?"], c: ["Víz beszivárgása a talajba", "Water enters soil", "Wasser dringt in Boden", "Apa intră în sol"], w1: ["Víz forrása", "Source", "Quelle", "Izvor"], w2: ["Párolgás", "Evaporation", "Verdunstung", "Evaporare"], w3: ["Fagyás", "Freezing", "Gefrieren", "Îngheț"] },
+    ],
+    typing: [
+      { q: ["Elpárolgás angolul?", "Evaporation?", "Verdunstung?", "Evaporare?"], a: ["Evaporation", "Evaporation", "Verdunstung", "Evaporare"] },
+      { q: ["Csapadék angolul?", "Precipitation EN?", "Niederschlag?", "Precipitație EN?"], a: ["Precipitation", "Precipitation", "Niederschlag", "Precipitatie"] },
+    ]
+  },
+  rock_types_k6: {
+    mcq: [
+      { q: ["Melyik kőzet magmás?", "Which rock is igneous?", "Welches Gestein?", "Ce rocă este magmatică?"], c: ["Gránit", "Granite", "Granit", "Granit"], w1: ["Mészkő", "Limestone", "Kalkstein", "Calcar"], w2: ["Agyag", "Clay", "Ton", "Argilă"], w3: ["Homok", "Sand", "Sand", "Nisip"] },
+      { q: ["Melyik kőzet üledékes?", "Sedimentary rock?", "Sedimentgestein?", "Rocă sedimentară?"], c: ["Mészkő", "Limestone", "Kalkstein", "Calcar"], w1: ["Gránit", "Granite", "Granit", "Granit"], w2: ["Bazalt", "Basalt", "Basalt", "Bazalt"], w3: ["Gneisz", "Gneiss", "Gneis", "Gnais"] },
+      { q: ["Melyik kőzet átalakult?", "Metamorphic rock?", "Metamorphes Gestein?", "Rocă metamorfică?"], c: ["Palás kőzet / pala", "Slate", "Schiefer", "Ardezie"], w1: ["Homok", "Sand", "Sand", "Nisip"], w2: ["Só", "Salt", "Salz", "Sare"], w3: ["Víz", "Water", "Wasser", "Apă"] },
+      { q: ["Miből állnak a kőzetek?", "What are rocks made of?", "Woraus bestehen Gesteine?", "Din ce sunt făcute rocile?"], c: ["Ásványokból", "Minerals", "Mineralien", "Minerale"], w1: ["Levegőből", "Air", "Luft", "Aer"], w2: ["Fényből", "Light", "Licht", "Lumină"], w3: ["Hangból", "Sound", "Schall", "Sunet"] },
+    ],
+    typing: [
+      { q: ["Gránit angolul?", "Granite EN?", "Granit?", "Granit EN?"], a: ["Granite", "Granite", "Granit", "Granit"] },
+      { q: ["Ásvány angolul?", "Mineral EN?", "Mineral?", "Mineral EN?"], a: ["Mineral", "Mineral", "Mineral", "Mineral"] },
+    ]
+  }
 };
 
 export const K6_GEOGRAPHIE_GENERATORS = {
@@ -283,4 +332,22 @@ keys.forEach(k => {
   (K6_GEOGRAPHIE_GENERATORS as any)[k] = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K6[k].mcq);
   (K6_GEOGRAPHIE_GENERATORS as any)[`${k}_mcq`] = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K6[k].mcq);
   (K6_GEOGRAPHIE_GENERATORS as any)[`${k}_typing`] = (lang: string, seed: number) => makeTyping(k, lang, DATA_K6[k].typing);
+});
+
+Object.assign(K6_GEOGRAPHIE_GENERATORS, {
+  germany_overview_k6: (lang: string, seed: number) => makeMCQs("germany_overview_k6", lang, mulberry32(seed), DATA_K6.germany_overview_k6.mcq),
+  germany_overview_k6_mcq: (lang: string, seed: number) => makeMCQs("germany_overview_k6", lang, mulberry32(seed), DATA_K6.germany_overview_k6.mcq),
+  germany_overview_k6_typing: (lang: string, seed: number) => makeTyping("germany_overview_k6", lang, DATA_K6.germany_overview_k6.typing),
+
+  climate_zones_basics: (lang: string, seed: number) => makeMCQs("climate_zones_basics", lang, mulberry32(seed), DATA_K6.climate_zones_basics.mcq),
+  climate_zones_basics_mcq: (lang: string, seed: number) => makeMCQs("climate_zones_basics", lang, mulberry32(seed), DATA_K6.climate_zones_basics.mcq),
+  climate_zones_basics_typing: (lang: string, seed: number) => makeTyping("climate_zones_basics", lang, DATA_K6.climate_zones_basics.typing),
+
+  water_cycle_detailed: (lang: string, seed: number) => makeMCQs("water_cycle_detailed", lang, mulberry32(seed), DATA_K6.water_cycle_detailed.mcq),
+  water_cycle_detailed_mcq: (lang: string, seed: number) => makeMCQs("water_cycle_detailed", lang, mulberry32(seed), DATA_K6.water_cycle_detailed.mcq),
+  water_cycle_detailed_typing: (lang: string, seed: number) => makeTyping("water_cycle_detailed", lang, DATA_K6.water_cycle_detailed.typing),
+
+  rock_types_k6: (lang: string, seed: number) => makeMCQs("rock_types_k6", lang, mulberry32(seed), DATA_K6.rock_types_k6.mcq),
+  rock_types_k6_mcq: (lang: string, seed: number) => makeMCQs("rock_types_k6", lang, mulberry32(seed), DATA_K6.rock_types_k6.mcq),
+  rock_types_k6_typing: (lang: string, seed: number) => makeTyping("rock_types_k6", lang, DATA_K6.rock_types_k6.typing),
 });

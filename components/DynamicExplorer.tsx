@@ -8,7 +8,7 @@
 //   Manual:    quiz: { question: "t1_q", choices: [...], answer: "t1_qa" }
 //   Generator: quiz: { generate: "artikel_k2" }  ← auto from deutschGenerators.ts
 
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
@@ -26,13 +26,19 @@ import { K5_GENERATOR_MAP as KEMIA_K5_GENERATOR_MAP } from "@/lib/kemiaCurriculu
 import { K6_GENERATOR_MAP as KEMIA_K6_GENERATOR_MAP } from "@/lib/kemiaCurriculum6";
 import { K7_GENERATOR_MAP as KEMIA_K7_GENERATOR_MAP } from "@/lib/kemiaCurriculum7";
 import { K8_GENERATOR_MAP as KEMIA_K8_GENERATOR_MAP } from "@/lib/kemiaCurriculum8";
+import { K5_GENERATOR_MAP as GEO_K5_GENERATOR_MAP } from "@/lib/geographieCurriculum5";
+import { K6_GENERATOR_MAP as GEO_K6_GENERATOR_MAP } from "@/lib/geographieCurriculum6";
+import { K7_GENERATOR_MAP as GEO_K7_GENERATOR_MAP } from "@/lib/geographieCurriculum7";
+import { K8_GENERATOR_MAP as GEO_K8_GENERATOR_MAP } from "@/lib/geographieCurriculum8";
+import "@/lib/geographieRegistration";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
-type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general";
+type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general" | "geographie";
 
 const BIO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const CHEMIE_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const GEO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_SEED_ONLY_KEYS = new Set([
   "sound_waves",
   "sound_waves_typing",
@@ -81,6 +87,15 @@ Object.entries(K6_Generators).forEach(([key, gen]) => {
   });
 });
 
+[GEO_K5_GENERATOR_MAP, GEO_K6_GENERATOR_MAP, GEO_K7_GENERATOR_MAP, GEO_K8_GENERATOR_MAP].forEach((gradeMap) => {
+  Object.entries(gradeMap).forEach(([theme, subs]) => {
+    Object.entries(subs).forEach(([sub, gen]) => {
+      GEO_GENERATORS[sub] = gen;
+      GEO_GENERATORS[`${theme}_${sub}`] = gen;
+    });
+  });
+});
+
 interface Props {
   /** Pool of topic definitions — typically 6-15 items */
   pool: PoolTopicDef[];
@@ -122,11 +137,14 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
     const bioGen = BIO_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
     const physikGen = PHYSIK_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
     const chemieGen = CHEMIE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
-    const gen = deutschGen || bioGen || physikGen || chemieGen;
+    const geoGen = GEO_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const gen = deutschGen || bioGen || physikGen || chemieGen || geoGen;
     if (gen) {
       const seed = Math.floor(Math.random() * 1000000);
-      const result = chemieGen
-        ? gen(seed)
+      const result = chemieGen || geoGen
+        ? geoGen
+          ? gen(lang, seed)
+          : gen(seed)
         : PHYSIK_SEED_ONLY_KEYS.has(q.generate)
         ? gen(seed)
         : gen(lang, seed);
@@ -162,8 +180,17 @@ export default function DynamicExplorer({
   onDone,
   onClose,
 }: Props) {
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
   // useMemo with [] → randomised once per mount, different each visit
   const def = useMemo<ExplorerDef>(() => {
+    if (!mounted) {
+      return { labels, title, icon, rounds: [] };
+    }
     const selected = getRandomTopicsWithHistory(pool, count, explorerId, mix);
 
     // Deduplicate by resolved question TEXT (generator variety is limited,
@@ -199,7 +226,11 @@ export default function DynamicExplorer({
       quiz,
     }));
     return { labels, title, icon, topics, rounds: [] };
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [mounted, pool, labels, title, icon, count, mix, explorerId, lang]);
+
+  if (!mounted) {
+    return <div className="min-h-screen bg-[#060614]" />;
+  }
 
   return (
     <ExplorerEngine

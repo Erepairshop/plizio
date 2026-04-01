@@ -89,6 +89,20 @@ const DATA_K5: Record<string, any> = {
       { q: ["Piros kör perje?", "Red circle?", "Roter Kreis?", "Cerc roșu?"], a: ["Tiltás", "Prohibition", "Verbot", "Interdicție"] },
     ]
   },
+  coordinate_basics: {
+    mcq: [
+      { q: ["Mit jelöl az x tengely?", "What is x-axis?", "Was ist die x-Achse?", "Ce este axa x?"], c: ["Vízszintes irány", "Horizontal", "Horizontal", "Orizontală"], w1: ["Függőleges irány", "Vertical", "Vertikal", "Verticală"], w2: ["Szín", "Color", "Farbe", "Culoare"], w3: ["Távolság", "Distance", "Entfernung", "Distanță"] },
+      { q: ["Mit jelöl az y tengely?", "What is y-axis?", "Was ist die y-Achse?", "Ce este axa y?"], c: ["Függőleges irány", "Vertical", "Vertikal", "Verticală"], w1: ["Vízszintes irány", "Horizontal", "Horizontal", "Orizontală"], w2: ["Hegy", "Mountain", "Berg", "Munte"], w3: ["Tenger", "Sea", "Meer", "Mare"] },
+      { q: ["Mi az origó?", "What is origin?", "Was ist der Ursprung?", "Ce este originea?"], c: ["(0,0)", "(0,0)", "(0,0)", "(0,0)"], w1: ["(1,1)", "(1,1)", "(1,1)", "(1,1)"], w2: ["(5,5)", "(5,5)", "(5,5)", "(5,5)"], w3: ["(-1,-1)", "(-1,-1)", "(-1,-1)", "(-1,-1)"] },
+      { q: ["Koordináta páros mit ad meg?", "What does a coordinate pair show?", "Was zeigt ein Koordinatenpaar?", "Ce arată o pereche de coordonate?"], c: ["Pont helyét", "Point position", "Punktlage", "Poziția unui punct"], w1: ["Színt", "Color", "Farbe", "Culoare"], w2: ["Szöveget", "Text", "Text", "Text"], w3: ["Időt", "Time", "Zeit", "Timp"] },
+      { q: ["Mi a vízszintes tengely neve?", "Name of horizontal axis?", "Name der waagerechten Achse?", "Numele axei orizontale?"], c: ["x tengely", "x-axis", "x-Achse", "axa x"], w1: ["y tengely", "y-axis", "y-Achse", "axa y"], w2: ["z tengely", "z-axis", "z-Achse", "axa z"], w3: ["Rács", "Grid", "Gitter", "Grilă"] },
+    ],
+    typing: [
+      { q: ["Origó angolul?", "Origin in English?", "Ursprung auf Englisch?", "Origine în engleză?"], a: ["origin", "origin", "Ursprung", "origine"] },
+      { q: ["Koordináta angolul?", "Coordinate in English?", "Koordinate auf Englisch?", "Coordonată în engleză?"], a: ["coordinate", "coordinate", "Koordinate", "coordonată"] },
+      { q: ["x tengely angolul?", "x-axis in English?", "x-Achse auf Englisch?", "axa x în engleză?"], a: ["x-axis", "x-axis", "x-Achse", "axa x"] },
+    ]
+  },
   scale_basics: {
     mcq: [
       { q: ["Mi a méretarány?", "What is scale?", "Was ist der Maßstab?", "Ce este scara?"], c: ["Kicsinyítés mértéke", "Reduction ratio", "Verkleinerungsverhältnis", "Raport de reducere"], w1: ["Térkép színe", "Map color", "Kartenfarbe", "Culoarea hărții"], w2: ["Hegy magassága", "Mountain height", "Berghöhe", "Înălțimea muntelui"], w3: ["Iránytű jele", "Compass symbol", "Kompasssymbol", "Simbol busolă"] },
@@ -474,6 +488,14 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   map_symbols_mcq: (lang: string, seed: number) => makeMCQs("map_symbols", lang, mulberry32(seed), DATA_K5.map_symbols.mcq),
   map_symbols_typing: (lang: string, seed: number) => makeTyping("map_symbols", lang, DATA_K5.map_symbols.typing),
 
+  river_features_k5: (lang: string, seed: number) => makeMCQs("river_features_k5", lang, mulberry32(seed), DATA_K5.europe_mountains_rivers.mcq),
+  river_features_k5_mcq: (lang: string, seed: number) => makeMCQs("river_features_k5", lang, mulberry32(seed), DATA_K5.europe_mountains_rivers.mcq),
+  river_features_k5_typing: (lang: string, seed: number) => makeTyping("river_features_k5", lang, DATA_K5.europe_mountains_rivers.typing),
+
+  coordinate_basics: (lang: string, seed: number) => makeMCQs("coordinate_basics", lang, mulberry32(seed), DATA_K5.coordinate_basics.mcq),
+  coordinate_basics_mcq: (lang: string, seed: number) => makeMCQs("coordinate_basics", lang, mulberry32(seed), DATA_K5.coordinate_basics.mcq),
+  coordinate_basics_typing: (lang: string, seed: number) => makeTyping("coordinate_basics", lang, DATA_K5.coordinate_basics.typing),
+
   scale_basics: (lang: string, seed: number) => makeMCQs("scale_basics", lang, mulberry32(seed), DATA_K5.scale_basics.mcq),
   scale_basics_mcq: (lang: string, seed: number) => makeMCQs("scale_basics", lang, mulberry32(seed), DATA_K5.scale_basics.mcq),
   scale_basics_typing: (lang: string, seed: number) => makeTyping("scale_basics", lang, DATA_K5.scale_basics.typing),
@@ -554,6 +576,21 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   energy_saving_mcq: (lang: string, seed: number) => makeMCQs("energy_saving", lang, mulberry32(seed), DATA_K5.energy_saving.mcq),
   energy_saving_typing: (lang: string, seed: number) => makeTyping("energy_saving", lang, DATA_K5.energy_saving.typing),
 };
+
+Object.assign(K5_GEOGRAPHIE_GENERATORS, {
+  water_bodies_basics: K5_GEOGRAPHIE_GENERATORS.continents_oceans,
+  water_bodies_basics_mcq: K5_GEOGRAPHIE_GENERATORS.continents_oceans_mcq,
+  water_bodies_basics_typing: K5_GEOGRAPHIE_GENERATORS.continents_oceans_typing,
+  coastal_features: K5_GEOGRAPHIE_GENERATORS.coasts_north_baltic,
+  coastal_features_mcq: K5_GEOGRAPHIE_GENERATORS.coasts_north_baltic_mcq,
+  coastal_features_typing: K5_GEOGRAPHIE_GENERATORS.coasts_north_baltic_typing,
+  plant_growth_basics: K5_GEOGRAPHIE_GENERATORS.weather_elements,
+  plant_growth_basics_mcq: K5_GEOGRAPHIE_GENERATORS.weather_elements_mcq,
+  plant_growth_basics_typing: K5_GEOGRAPHIE_GENERATORS.weather_elements_typing,
+  landform_basics: K5_GEOGRAPHIE_GENERATORS.europe_mountains_rivers,
+  landform_basics_mcq: K5_GEOGRAPHIE_GENERATORS.europe_mountains_rivers_mcq,
+  landform_basics_typing: K5_GEOGRAPHIE_GENERATORS.europe_mountains_rivers_typing,
+});
 
 Object.assign(DATA_K5 as Record<string, any>, {
   village_life: {

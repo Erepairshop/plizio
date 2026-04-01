@@ -7,5 +7,6 @@ import GeographieK7Explorer from "@/app/astro-geographie/games/k7/GeographieK7Ex
 export default function AstroGeographieK7Page() {
   const router = useRouter();
   const { lang } = useLang();
-  return <GeographieK7Explorer lang={lang} onDone={() => {}} onClose={() => router.push("/astro-geographie")} />;
+  const geoLang = lang === "en" ? "de" : lang;
+  return <GeographieK7Explorer key={geoLang} lang={geoLang} onDone={() => router.push("/astro-geographie")} onClose={() => router.push("/astro-geographie")} />;
 }

@@ -162,6 +162,43 @@ const DATA_K8: any = {
     ],
     typing: [{ q: ["Okos város (angolul)?", "Smart city?", "Smart City?", "Oraș smart?"], a: ["Smart City", "Smart City", "Smart City", "Smart City"] }]
   },
+
+  global_development_hdi: {
+    mcq: [
+      { q: ["Mit jelent az HDI?", "What is HDI?", "Was ist der HDI?", "Ce înseamnă HDI?"], c: ["Emberi fejlettségi mutató", "Human Development Index", "Index der menschlichen Entwicklung", "Indicele dezvoltării umane"], w1: ["Hőmérséklet", "Heat index", "Temperaturindex", "Indice de căldură"], w2: ["Hajózási térkép", "Ship map", "Schiffskarte", "Hartă navală"], w3: ["Hegylánc", "Mountain chain", "Gebirge", "Lanț muntos"] },
+      { q: ["Mit mér az HDI?", "What does HDI measure?", "Was misst der HDI?", "Ce măsoară HDI?"], c: ["Élettartam, oktatás, jövedelem", "Life expectancy, education, income", "Leben, Bildung, Einkommen", "Speranță de viață, educație, venit"], w1: ["Csak időjárás", "Only weather", "Nur Wetter", "Doar vremea"], w2: ["Csak terület", "Only area", "Nur Fläche", "Doar suprafața"], w3: ["Csak népesség", "Only population", "Nur Bevölkerung", "Doar populația"] },
+      { q: ["Melyik ország szokott magas HDI-t kapni?", "High HDI country?", "Welches Land?", "Țară cu HDI mare?"], c: ["Norvégia", "Norway", "Norwegen", "Norvegia"], w1: ["Szomália", "Somalia", "Somalia", "Somalia"], w2: ["Chad", "Chad", "Tschad", "Ciad"], w3: ["Niger", "Niger", "Niger", "Niger"] },
+      { q: ["Mit jelez az alacsony HDI?", "Low HDI means?", "Niedriger HDI?", "HDI mic?"], c: ["Fejlesztési lemaradást", "Development gap", "Entwicklungsrückstand", "Întârziere în dezvoltare"], w1: ["Túl sok hegyet", "Too many mountains", "Zu viele Berge", "Prea mulți munți"], w2: ["Kék tengert", "Blue sea", "Blaues Meer", "Mare albastră"], w3: ["Nagyvárost", "Big city", "Großstadt", "Oraș mare"] },
+    ],
+    typing: [
+      { q: ["HDI angolul?", "HDI EN?", "HDI?", "HDI EN?"], a: ["Human Development Index", "Human Development Index", "HDI", "Indicele dezvoltarii umane"] },
+      { q: ["Fejlettség angolul?", "Development EN?", "Entwicklung?", "Dezvoltare EN?"], a: ["Development", "Development", "Entwicklung", "Dezvoltare"] },
+    ]
+  },
+  ecological_footprint_k8: {
+    mcq: [
+      { q: ["Mit jelent az ökológiai lábnyom?", "Ecological footprint?", "Ökologischer Fußabdruck?", "Amprentă ecologică?"], c: ["Az erőforrás-felhasználás mértékét", "Resource use size", "Ressourcenverbrauch", "Mărimea folosirii resurselor"], w1: ["Csak a cipő méretét", "Shoe size", "Schuhgröße", "Mărimea pantofului"], w2: ["Az út hosszát", "Road length", "Weglänge", "Lungimea drumului"], w3: ["A születési számot", "Birth count", "Geburtenzahl", "Număr de nașteri"] },
+      { q: ["Hogyan csökkenthető a lábnyom?", "How reduce footprint?", "Wie verringern?", "Cum reducem?"], c: ["Kevesebb energia és hús", "Less energy and meat", "Weniger Energie und Fleisch", "Mai puțină energie și carne"], w1: ["Több szemét", "More trash", "Mehr Müll", "Mai mult gunoi"], w2: ["Folyó víz", "Running water", "Laufendes Wasser", "Apă curentă"], w3: ["Nagyobb autó", "Bigger car", "Größeres Auto", "Mașină mai mare"] },
+      { q: ["Mi növeli a lábnyomot?", "What increases footprint?", "Was erhöht ihn?", "Ce îl crește?"], c: ["Hosszú szállítás", "Long transport", "Langer Transport", "Transport lung"], w1: ["Kerékpár", "Bicycle", "Fahrrad", "Bicicletă"], w2: ["Újrahasználat", "Reuse", "Wiederverwenden", "Reutilizare"], w3: ["Takarékosság", "Saving", "Sparen", "Economisire"] },
+      { q: ["Melyik a kisebb lábnyom?", "Smaller footprint?", "Kleinerer Fußabdruck?", "Care e mai mică?"], c: ["Helyi termék", "Local product", "Lokales Produkt", "Produs local"], w1: ["Távoli import", "Imported far away", "Fernimport", "Import îndepărtat"], w2: ["Folyamatos pazarlás", "Waste", "Verschwendung", "Risipă"], w3: ["Egyszer használatos", "Single-use", "Einweg", "De unică folosință"] },
+    ],
+    typing: [
+      { q: ["Lábnyom angolul?", "Footprint EN?", "Fußabdruck?", "Amprentă EN?"], a: ["Footprint", "Footprint", "Fußabdruck", "Amprenta"] },
+      { q: ["Erőforrás angolul?", "Resource EN?", "Ressource?", "Resursă EN?"], a: ["Resource", "Resource", "Ressource", "Resursa"] },
+    ]
+  },
+  urbanization_process: {
+    mcq: [
+      { q: ["Mi az urbanizáció?", "Urbanization?", "Urbanisierung?", "Urbanizare?"], c: ["Városiasodás", "City growth", "Verstädterung", "Urbanizare"], w1: ["Erdősödés", "Forestation", "Aufforstung", "Împădurire"], w2: ["Elsivatagosodás", "Desertification", "Verödung", "Deșertificare"], w3: ["Jégkorszak", "Ice age", "Eiszeit", "Era glaciară"] },
+      { q: ["Mi nő meg urbanizációnál?", "What grows?", "Was wächst?", "Ce crește?"], c: ["Városok lakossága", "City population", "Stadtbevölkerung", "Populația urbană"], w1: ["Sivatag", "Desert", "Wüste", "Deșert"], w2: ["Fjellek", "Mountains", "Berge", "Munți"], w3: ["Polcok", "Shelves", "Regale", "Rafturi"] },
+      { q: ["Mi az egyik következmény?", "One consequence?", "Eine Folge?", "O consecință?"], c: ["Megavárosok", "Megacities", "Megastädte", "Megapolisuri"], w1: ["Kevesebb ember", "Fewer people", "Weniger Menschen", "Mai puțini oameni"], w2: ["Kevesebb út", "Fewer roads", "Weniger Straßen", "Mai puține drumuri"], w3: ["Kevesebb ház", "Fewer houses", "Weniger Häuser", "Mai puține case"] },
+      { q: ["Mitől gyorsul az urbanizáció?", "What speeds it up?", "Was beschleunigt?", "Ce o accelerează?"], c: ["Munka és szolgáltatások", "Jobs and services", "Arbeit und Dienste", "Locuri de muncă și servicii"], w1: ["Hideg hó", "Cold snow", "Kalter Schnee", "Zăpadă rece"], w2: ["Sivatagi homok", "Desert sand", "Wüstensand", "Nisip deșert"], w3: ["A sarki fény", "Aurora", "Nordlicht", "Aurora"] },
+    ],
+    typing: [
+      { q: ["Városiasodás angolul?", "Urbanization EN?", "Verstädterung?", "Urbanizare EN?"], a: ["Urbanization", "Urbanization", "Verstädterung", "Urbanizare"] },
+      { q: ["Megaváros angolul?", "Megacity EN?", "Megastadt?", "Megapolis EN?"], a: ["Megacity", "Megacity", "Megastadt", "Megacity"] },
+    ]
+  },
 };
 
 export const K8_GEOGRAPHIE_GENERATORS: any = {};
@@ -172,4 +209,30 @@ keys.forEach(k => {
   K8_GEOGRAPHIE_GENERATORS[k] = gen;
   K8_GEOGRAPHIE_GENERATORS[`${k}_mcq`] = gen;
   K8_GEOGRAPHIE_GENERATORS[`${k}_typing`] = (lang: string, seed: number) => makeTyping(k, lang, DATA_K8[k].typing);
+});
+
+Object.assign(K8_GEOGRAPHIE_GENERATORS, {
+  globalization_impact_k8: K8_GEOGRAPHIE_GENERATORS.globalization_impact,
+  globalization_impact_k8_mcq: K8_GEOGRAPHIE_GENERATORS.globalization_impact_mcq,
+  globalization_impact_k8_typing: K8_GEOGRAPHIE_GENERATORS.globalization_impact_typing,
+
+  great_barrier_reef_env: (lang: string, seed: number) => makeMCQs("great_barrier_reef_env", lang, mulberry32(seed), DATA_K8.great_barrier_reef_env.mcq),
+  great_barrier_reef_env_mcq: (lang: string, seed: number) => makeMCQs("great_barrier_reef_env", lang, mulberry32(seed), DATA_K8.great_barrier_reef_env.mcq),
+  great_barrier_reef_env_typing: (lang: string, seed: number) => makeTyping("great_barrier_reef_env", lang, DATA_K8.great_barrier_reef_env.typing),
+
+  renewable_energy_k8: K8_GEOGRAPHIE_GENERATORS.energy_transition_global,
+  renewable_energy_k8_mcq: K8_GEOGRAPHIE_GENERATORS.energy_transition_global_mcq,
+  renewable_energy_k8_typing: K8_GEOGRAPHIE_GENERATORS.energy_transition_global_typing,
+
+  global_development_hdi: (lang: string, seed: number) => makeMCQs("global_development_hdi", lang, mulberry32(seed), DATA_K8.global_development_hdi.mcq),
+  global_development_hdi_mcq: (lang: string, seed: number) => makeMCQs("global_development_hdi", lang, mulberry32(seed), DATA_K8.global_development_hdi.mcq),
+  global_development_hdi_typing: (lang: string, seed: number) => makeTyping("global_development_hdi", lang, DATA_K8.global_development_hdi.typing),
+
+  ecological_footprint_k8: (lang: string, seed: number) => makeMCQs("ecological_footprint_k8", lang, mulberry32(seed), DATA_K8.ecological_footprint_k8.mcq),
+  ecological_footprint_k8_mcq: (lang: string, seed: number) => makeMCQs("ecological_footprint_k8", lang, mulberry32(seed), DATA_K8.ecological_footprint_k8.mcq),
+  ecological_footprint_k8_typing: (lang: string, seed: number) => makeTyping("ecological_footprint_k8", lang, DATA_K8.ecological_footprint_k8.typing),
+
+  urbanization_process: (lang: string, seed: number) => makeMCQs("urbanization_process", lang, mulberry32(seed), DATA_K8.urbanization_process.mcq),
+  urbanization_process_mcq: (lang: string, seed: number) => makeMCQs("urbanization_process", lang, mulberry32(seed), DATA_K8.urbanization_process.mcq),
+  urbanization_process_typing: (lang: string, seed: number) => makeTyping("urbanization_process", lang, DATA_K8.urbanization_process.typing),
 });

@@ -5,11 +5,9 @@ import { GRAVITAS_TEXT } from "./content";
 const T = GRAVITAS_TEXT.events;
 const A = GRAVITAS_TEXT.alerts;
 const J = GRAVITAS_TEXT.journal;
-const SCRIPTED_PHASE_ONE_END_TICK = 300;
-const SCRIPTED_PHASE_ONE_EVENT_1_TICK = 120;
-const SCRIPTED_PHASE_ONE_EVENT_2_TICK = 240;
-const REPAIR_CHALLENGE_SEQUENCE: StarholdModuleId[] = ["reactor", "logistics", "sensor", "reactor"];
-
+const SCRIPTED_PHASE_ONE_END_TICK = 180;
+const SCRIPTED_PHASE_ONE_EVENT_1_TICK = 90;
+const SCRIPTED_PHASE_ONE_EVENT_2_TICK = 135;
 function chainedEvent(
   base: {
     id: StarholdEventId;
@@ -99,14 +97,38 @@ export function createAvatarPreparationEvent(stepNumber: number): StarholdPendin
   };
 }
 
-export function createRepairChallenge(startedTick: number): StarholdRepairChallengeState {
+function createRepairChallengeSequence(waveNumber: number): StarholdModuleId[] {
+  if (waveNumber <= 1) return ["reactor"];
+  if (waveNumber === 2) return ["reactor", "sensor"];
+  return ["reactor", "logistics", "sensor"];
+}
+
+export function normalizeRepairChallenge(challenge: StarholdRepairChallengeState, waveNumber = 1): StarholdRepairChallengeState {
+  const desiredSequence = createRepairChallengeSequence(waveNumber);
+  if (
+    challenge.sequence.length === desiredSequence.length &&
+    challenge.unlocksAvatarPrep === (waveNumber >= 3)
+  ) {
+    return challenge;
+  }
+
+  return {
+    ...challenge,
+    sequence: desiredSequence,
+    promptIndex: Math.min(challenge.promptIndex, Math.max(0, desiredSequence.length - 1)),
+    unlocksAvatarPrep: waveNumber >= 3,
+  };
+}
+
+export function createRepairChallenge(startedTick: number, waveNumber = 1): StarholdRepairChallengeState {
   return {
     active: true,
     startedTick,
-    promptEndsAtTick: startedTick + 15,
+    promptEndsAtTick: startedTick + 30,
     promptIndex: 0,
-    sequence: REPAIR_CHALLENGE_SEQUENCE,
+    sequence: createRepairChallengeSequence(waveNumber),
     windowSatisfied: false,
+    unlocksAvatarPrep: waveNumber >= 3,
   };
 }
 
@@ -177,33 +199,38 @@ export function advanceRepairChallengeWindow(state: StarholdState): StarholdStat
   if (!challenge.active || !challenge.windowSatisfied) return state;
   const nextIndex = challenge.promptIndex + 1;
   if (nextIndex >= challenge.sequence.length) {
+    const nextChallenge = {
+      ...challenge,
+      active: false,
+      windowSatisfied: false,
+    };
     return {
       ...state,
-      repairChallenge: {
-        ...challenge,
-        active: false,
-        windowSatisfied: false,
-      },
-      avatarPrepArmedTick: state.tick + 1,
-      alert: {
-        en: "Repair chain held. Avatar preparation unlocked.",
-        hu: "A javítási lánc kitartott. Az avatar-előkészítés feloldva.",
-        de: "Reparaturkette gehalten. Avatar-Vorbereitung freigeschaltet.",
-        ro: "Lanțul de reparații a rezistat. Pregătirea avatarului a fost deblocată.",
-      },
-      journal: pushJournal(state, {
-        en: "The repair chain held and the avatar preparation sequence can begin.",
-        hu: "A javítási lánc kitartott, az avatar-előkészítés elkezdődhet.",
-        de: "Die Reparaturkette hielt, die Avatar-Vorbereitung kann beginnen.",
-        ro: "Lanțul de reparații a rezistat și pregătirea avatarului poate începe.",
-      }),
+      repairChallenge: nextChallenge,
+      avatarPrepArmedTick: challenge.unlocksAvatarPrep ? state.tick + 1 : null,
+      alert: challenge.unlocksAvatarPrep
+        ? {
+            en: "Repair chain held. Avatar preparation unlocked.",
+            hu: "A javítási lánc kitartott. Az avatar-előkészítés feloldva.",
+            de: "Reparaturkette gehalten. Avatar-Vorbereitung freigeschaltet.",
+            ro: "Lanțul de reparații a rezistat. Pregătirea avatarului a fost deblocată.",
+          }
+        : state.alert,
+      journal: challenge.unlocksAvatarPrep
+        ? pushJournal(state, {
+            en: "The repair chain held and the avatar preparation sequence can begin.",
+            hu: "A javítási lánc kitartott, az avatar-előkészítés elkezdődhet.",
+            de: "Die Reparaturkette hielt, die Avatar-Vorbereitung kann beginnen.",
+            ro: "Lanțul de reparații a rezistat și pregătirea avatarului poate începe.",
+          })
+        : state.journal,
     };
   }
 
   const nextChallenge = {
     ...challenge,
     promptIndex: nextIndex,
-    promptEndsAtTick: state.tick + 15,
+    promptEndsAtTick: state.tick + 30,
     windowSatisfied: false,
   };
 
@@ -342,6 +369,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     create: () => createWaveRecoveryEvent(1),
     resolve: (state, optionId) => {
       const step = Math.min(3, Math.max(1, state.pendingEvent?.waveNumber ?? 1));
+      const waveNumber = state.pendingEvent?.waveNumber ?? 1;
       const success = {
         en: "Congratulations. Your answer was perfect.",
         hu: "Gratulálok. A válaszod tökéletes volt.",
@@ -374,16 +402,16 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         };
       }
 
-      if (step === 2 && optionId === "reactorLogistics") {
+      if (step === 2 && optionId === "reactorSensor") {
         const restored = restoreModuleSet(
           state,
-          ["reactor", "logistics"],
+          ["reactor", "sensor"],
           success,
           {
-            en: "Perfect answer. Reactor and logistics are back in sync.",
-            hu: "Tökéletes válasz. A reaktor és a logisztika újra szinkronban van.",
-            de: "Perfekte Antwort. Reaktor und Logistik sind wieder synchron.",
-            ro: "Răspuns perfect. Reactorul și logistica sunt din nou sincronizate.",
+            en: "Perfect answer. Reactor and sensor are back in sync.",
+            hu: "Tökéletes válasz. A reaktor és a szenzor újra szinkronban van.",
+            de: "Perfekte Antwort. Reaktor und Sensor sind wieder synchron.",
+            ro: "Răspuns perfect. Reactorul și senzorul sunt din nou sincronizate.",
           }
         );
         return {
@@ -416,7 +444,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         ...state,
         pendingEvent: null,
         avatarPrepArmedTick: null,
-        repairChallenge: createRepairChallenge(state.tick),
+        repairChallenge: createRepairChallenge(state.tick, waveNumber),
         postWaveSurgeTicks: 0,
         postWaveSurgeMode: null,
         alert: fail,
@@ -1522,7 +1550,7 @@ export function applyStarholdEvents(state: StarholdState): StarholdState {
     return state;
   }
 
-  const introWindow = state.phase === "boot" && state.tick < 36;
+  const introWindow = state.phase === "boot" && state.tick < 90;
   const onboardingWindow = !state.avatarAwake && state.tick < 80;
   if (introWindow) {
     return state;

@@ -23,8 +23,8 @@ export function createInitialStarholdState(): StarholdState {
     entropy: 0,
     threat: {
       type: "distortionWave",
-      countdown: 120,
-      totalDuration: 120,
+      countdown: 90,
+      totalDuration: 90,
       intensity: 1,
       fortified: false,
       dampened: false,
@@ -84,6 +84,7 @@ export function createInitialStarholdState(): StarholdState {
       promptIndex: 0,
       sequence: [],
       windowSatisfied: false,
+      unlocksAvatarPrep: false,
     },
     bootstrapChecklist: createInitialBootstrapChecklist(),
     waveRecoveryCalmTicks: 0,

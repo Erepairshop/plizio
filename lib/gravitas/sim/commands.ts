@@ -156,7 +156,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "STABILIZE_REACTOR": {
       const profile = getModuleActionProfile("reactor");
-      const introWindow = state.phase === "boot" && state.tick < 18;
+      const introWindow = state.phase === "boot" && state.tick < 90;
       const cost = Math.max(1, Math.ceil(profile.repairCost * mods.powerCostMod) - (introWindow ? 1 : 0));
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
@@ -204,7 +204,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
                 ...state.reactorRecovery,
                 completedStabilizations: state.reactorRecovery.completedStabilizations + 1,
                 active: state.reactorRecovery.completedStabilizations + 1 >= 2 ? false : state.reactorRecovery.active,
-                nextPromptTick: state.reactorRecovery.completedStabilizations + 1 >= 2 ? state.tick + 999 : state.tick + 24,
+                nextPromptTick: state.reactorRecovery.completedStabilizations + 1 >= 2 ? state.tick + 999 : state.tick + 30,
               }
             : state.reactorRecovery,
         alert: {
@@ -222,7 +222,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       }
-      const introWindow = state.phase === "boot" && state.tick < 36;
+      const introWindow = state.phase === "boot" && state.tick < 90;
       const target = state.modules[command.moduleId];
       const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
       const nextLoad = addModuleLoad(state, command.moduleId, target.online ? 0 : profile.loadShift).load;
@@ -258,7 +258,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       }, command.moduleId);
     }
     case "REROUTE_TO_CORE": {
-      const introWindow = state.phase === "boot" && state.tick < 30;
+      const introWindow = state.phase === "boot" && state.tick < 90;
       const cost = Math.max(4, Math.ceil(8 * mods.powerCostMod) - (introWindow ? 2 : 0));
       if (state.resources.power < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noPowerReroute);

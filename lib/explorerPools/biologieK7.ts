@@ -66,6 +66,18 @@ export const BIO_K7_I1_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Ribosomen sind winzige Körnchen, an denen die Eiweißsynthese (Proteinherstellung) stattfindet.",
     t8_h1: "Eiweißfabrik", t8_h2: "Proteinsynthese",
     t8_inst: "Baue Proteine!",
+
+    // T9: Die Vakuole
+    t9_title: "Die Vakuole",
+    t9_text: "In Pflanzenzellen dient die Vakuole als Speicher für Wasser, Nährstoffe und Abfallstoffe. Sie erzeugt den Zelldruck.",
+    t9_h1: "Zellsaftraum", t9_h2: "Innendruck (Turgor)",
+    t9_inst: "Fülle den Speicher!",
+
+    // T10: Zelltheorie
+    t10_title: "Die Zelltheorie",
+    t10_text: "Schleiden und Schwann stellten fest: Alle Pflanzen und Tiere bestehen aus Zellen. Zellen entstehen nur aus Zellen.",
+    t10_h1: "Historische Entdeckung", t10_h2: "Wissenschaft",
+    t10_inst: "Forsche nach!",
   },
 };
 
@@ -117,6 +129,18 @@ export const BIO_K7_I1_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🧶", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Ribosom", right: "Eiweiß"}, {left: "Kern", right: "DNA"}, {left: "Mito", right: "ATP"}] },
     quiz: { generate: "cell_organelles" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "📦", color: "#10B981" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Die Vakuole speichert ___.", choices: ["Zellsaft", "Luft", "Sand", "Metall"], correctIndex: 0 },
+    quiz: { generate: "cell_organelles" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "📜", color: "#64748B" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Schleiden", right: "Pflanzen"}, {left: "Schwann", right: "Tiere"}, {left: "Zelle", right: "Einheit"}] },
+    quiz: { generate: "cell_structure" }
   }
 ];
 
@@ -182,6 +206,18 @@ export const BIO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Kontrollpunkte (Checkpoints) sorgen dafür, dass sich nur gesunde Zellen ohne Fehler teilen.",
     t8_h1: "Fehlerkontrolle", t8_h2: "Gesundes Wachstum",
     t8_inst: "Check die Zelle!",
+
+    // T9: Mutationen
+    t9_title: "Mutationen",
+    t9_text: "Bei der Zellteilung können zufällige Fehler in der DNA auftreten. Diese nennt man Mutationen.",
+    t9_h1: "Kopierfehler", t9_h2: "DNA-Änderung",
+    t9_inst: "Finde den Fehler!",
+
+    // T10: Krebszellen
+    t10_title: "Unkontrollierte Teilung",
+    t10_text: "Wenn die Kontrolle des Zellzyklus versagt, können sich Zellen unaufhörlich teilen – es entstehen Tumore.",
+    t10_h1: "Krebs", t10_h2: "Zellwucherung",
+    t10_inst: "Stoppe das Wachstum!",
   },
 };
 
@@ -232,6 +268,18 @@ export const BIO_K7_I2_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🚦", color: "#10B981" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "G1", right: "Wachstum"}, {left: "S", right: "DNA"}, {left: "M", right: "Teilung"}] },
+    quiz: { generate: "cell_cycle" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🎲", color: "#64748B" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🧬", count: 2 }, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "cell_division" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "⚠️", color: "#EF4444" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["unkontrolliert", "Tumore", "Teilung", "versagen"], correctIndices: [0, 1, 2, 3] },
     quiz: { generate: "cell_cycle" }
   }
 ];
@@ -296,6 +344,18 @@ export const BIO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Über winzige Poren an der Blattunterseite nehmen Pflanzen CO2 auf und geben Sauerstoff und Wasserdampf ab.",
     t8_h1: "Gasaustausch", t8_h2: "Blattporen",
     t8_inst: "Öffne die Stomata!",
+
+    // T9: Das Lichtspektrum
+    t9_title: "Lichtfarben",
+    t9_text: "Pflanzen nutzen vor allem blaues und rotes Licht für die Fotosynthese. Grünes Licht wird reflektiert.",
+    t9_h1: "Blau und Rot", t9_h2: "Grüne Reflexion",
+    t9_inst: "Wähle die Farbe!",
+
+    // T10: Begrenzende Faktoren
+    t10_title: "Limitierende Faktoren",
+    t10_text: "Lichtintensität, Temperatur und CO2-Konzentration bestimmen, wie schnell Fotosynthese abläuft.",
+    t10_h1: "Geschwindigkeit", t10_h2: "Optimale Bedingungen",
+    t10_inst: "Optimiere den Ertrag!",
   },
 };
 
@@ -346,6 +406,18 @@ export const BIO_K7_I3_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "👄", color: "#F472B6" },
     interactive: { type: "tap-count", tapCount: { emoji: "💨", count: 4 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    quiz: { generate: "photosynthesis_detail" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🌈", color: "#FACC15" },
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left: "Rot", right: "Nutzen"}, {left: "Blau", right: "Nutzen"}, {left: "Grün", right: "Reflexion"}] },
+    quiz: { generate: "photosynthesis_detail" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "📈", color: "#10B981" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "Mehr ___ beschleunigt die Fotosynthese.", choices: ["Licht", "Sand", "Wind", "Lärm"], correctIndex: 0 },
     quiz: { generate: "photosynthesis_detail" }
   }
 ];
@@ -406,9 +478,21 @@ export const BIO_K7_I4_LABELS: Record<string, Record<string, string>> = {
 
     // T8: ATP
     t8_title: "Die Energiewährung",
-    t8_text: "ATP (Adenosintriphosphat) ist wie eine geladene Batterie, die Energie für alle Prozesse bereitstellt.",
+    t8_text: "ATP (Adenosintriphosphat) ist wie eine geladene Batterie, die Energie für alle processes bereitstellt.",
     t8_h1: "Universelle Energie", t8_h2: "Batterie der Zelle",
     t8_inst: "Lade ATP auf!",
+
+    // T9: Hefegärung
+    t9_title: "Hefegärung",
+    t9_text: "Hefezellen gewinnen Energie ohne Sauerstoff, indem sie Zucker in Alkohol und CO2 umwandeln. Das nutzt man beim Backen.",
+    t9_h1: "Ohne Sauerstoff", t9_h2: "Alkoholische Gärung",
+    t9_inst: "Lass den Teig gehen!",
+
+    // T10: Energiebilanz
+    t10_title: "Energiebilanz",
+    t10_text: "Die aerobe Atmung ist viel effizienter als die Gärung. Sie liefert pro Zuckermolekül etwa 32 ATP-Moleküle.",
+    t10_h1: "Hohe Effizienz", t10_h2: "Viel ATP",
+    t10_inst: "Maximiere die Energie!",
   },
 };
 
@@ -460,6 +544,18 @@ export const BIO_K7_I4_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🔋", color: "#FACC15" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "ATP", right: "Energie"}, {left: "ADP", right: "Leer"}, {left: "P", right: "Phosphat"}] },
     quiz: { generate: "energy_transfer" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🍞", color: "#92400E" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🫧", count: 4 }, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "cellular_respiration" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "📊", color: "#64748B" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "Aerobe Atmung bringt ___ ATP.", choices: ["32", "2", "0", "100"], correctIndex: 0 },
+    quiz: { generate: "cellular_respiration" }
   }
 ];
 
@@ -522,6 +618,18 @@ export const BIO_K7_I5_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Ein stabiles Ökosystem kann Störungen ausgleichen und seine Vielfalt bewahren.",
     t8_h1: "Stabilität", t8_h2: "Selbstregulation",
     t8_inst: "Halte die Balance!",
+
+    // T9: Sukzession
+    t9_title: "Sukzession",
+    t9_text: "Nach einer Störung (z.B. Brand) besiedeln neue Arten das Gebiet in einer bestimmten Abfolge.",
+    t9_h1: "Abfolge", t9_h2: "Pionierpflanzen",
+    t9_inst: "Besiedle das Land!",
+
+    // T10: Biodiversität
+    t10_title: "Biodiversität",
+    t10_text: "Ein Ökosystem ist umso stabiler, je mehr verschiedene Arten (Vielfalt) darin vorkommen.",
+    t10_h1: "Artenvielfalt", t10_h2: "Reichtum der Natur",
+    t10_inst: "Schütze die Vielfalt!",
   },
 };
 
@@ -572,6 +680,18 @@ export const BIO_K7_I5_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "⚖️", color: "#64748B" },
     interactive: { type: "tap-count", tapCount: { emoji: "⚖️", count: 3 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    quiz: { generate: "population" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🌱", color: "#10B981" },
+    interactive: { type: "physics-stacker", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", words: ["Pionier", "Gras", "Strauch", "Baum"], correctOrder: [0, 1, 2, 3] },
+    quiz: { generate: "population" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🦋", color: "#F472B6" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🦋", count: 5 }, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { generate: "population" }
   }
 ];
@@ -630,11 +750,23 @@ export const BIO_K7_I6_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Wurzelsymbiose", t7_h2: "Tauschhandel",
     t7_inst: "Tausche Wasser!",
 
-    // T8: Wasserkreislauf
+    // T8: Wasserzyklus
     t8_title: "Wasserzyklus",
     t8_text: "Verdunstung, Wolkenbildung und Niederschlag halten das Wasser weltweit in Bewegung.",
     t8_h1: "Regen & Sonne", t8_h2: "Ständiger Fluss",
     t8_inst: "Lass es regnen!",
+
+    // T9: Die Flechten
+    t9_title: "Die Flechten",
+    t9_text: "Flechten sind eine Symbiose aus Pilz und Alge. Der Pilz gibt Halt, die Alge macht Nahrung.",
+    t9_h1: "Zweiergemeinschaft", t9_h2: "Überlebenskünstler",
+    t9_inst: "Baue die Flechte!",
+
+    // T10: CO2 & Klima
+    t10_title: "CO2 & Klima",
+    t10_text: "Durch das Verbrennen fossiler Stoffe gelangt zu viel CO2 in den Kreislauf, was zur Erderwärmung führt.",
+    t10_h1: "Treibhauseffekt", t10_h2: "Klimaschutz",
+    t10_inst: "Reduziere den Ausstoß!",
   },
 };
 
@@ -685,6 +817,18 @@ export const BIO_K7_I6_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌧️", color: "#3B82F6" },
     interactive: { type: "tap-count", tapCount: { emoji: "💧", count: 4 }, instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
+    quiz: { generate: "biogeochemical_cycles" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🪨", color: "#64748B" },
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left: "Alge", right: "Zucker"}, {left: "Pilz", right: "Halt"}, {left: "Zusammen", right: "Flechte"}] },
+    quiz: { generate: "symbiosis" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🌡️", color: "#EF4444" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Verbrennen", "CO2", "Klima", "Erwärmung"], correctIndices: [0, 1, 2, 3] },
     quiz: { generate: "biogeochemical_cycles" }
   }
 ];
@@ -748,6 +892,18 @@ export const BIO_K7_I7_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Bei einer Allergie reagiert das Immunsystem overtrieben stark auf eigentlich harmlose Stoffe (Pollen, Staub).",
     t8_h1: "Fehlalarm", t8_h2: "Overreaktion",
     t8_inst: "Stoppe den Fehlalarm!",
+
+    // T9: Aktive Immunisierung
+    t9_title: "Aktive Impfung",
+    t9_text: "Der Körper bildet nach einer Impfung selbst Antikörper und Gedächtniszellen. Das hält lange an.",
+    t9_h1: "Selbstschutz", t9_h2: "Langanhaltend",
+    t9_inst: "Bilde Antikörper!",
+
+    // T10: Autoimmunkrankheit
+    t10_title: "Autoimmunität",
+    t10_text: "Manchmal greift das Immunsystem fälschlicherweise eigene Körperzellen an, als wären sie Feinde.",
+    t10_h1: "Eigenangriff", t10_h2: "Fehlsteuerung",
+    t10_inst: "Erkenne den Fehler!",
   },
 };
 
@@ -798,6 +954,18 @@ export const BIO_K7_I7_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🤧", color: "#F59E0B" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Allergie ist eine ___.", choices: ["Overreaktion", "Pause", "Freude", "Farbe"], correctIndex: 0 },
+    quiz: { generate: "immune_response" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🛡️", color: "#10B981" },
+    interactive: { type: "tap-count", tapCount: { emoji: "🛡️", count: 3 }, instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
+    quiz: { generate: "vaccination" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "❌", color: "#EF4444" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Autoimmunität", "eigene", "Zellen", "angreifen"], correctIndices: [0, 1, 2, 3] },
     quiz: { generate: "immune_response" }
   }
 ];
@@ -863,6 +1031,18 @@ export const BIO_K7_I8_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Durch das Verstärken von Synapsenverbindungen entstehen Erinnerungen und wir lernen dazu.",
     t8_h1: "Vernetzung", t8_h2: "Wiederholung",
     t8_inst: "Verknüpfe die Neuronen!",
+
+    // T9: Das Rückenmark
+    t9_title: "Die Datenautobahn",
+    t9_text: "Das Rückenmark leitet Informationen zwischen Gehirn und Körper hin und her. Es ist die Zentrale der Reflexe.",
+    t9_h1: "Informationskanal", t9_h2: "Wirbelsäule",
+    t9_inst: "Schütze das Mark!",
+
+    // T10: Sucht & Gehirn
+    t10_title: "Drogen & Synapsen",
+    t10_text: "Drogen stören die natürliche Signalübertragung an den Synapsen und können das Belohnungssystem dauerhaft schädigen.",
+    t10_h1: "Fehlsteuerung", t10_h2: "Suchtgefahr",
+    t10_inst: "Bleib clean!",
   },
 };
 
@@ -881,7 +1061,7 @@ export const BIO_K7_I8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "🌉", color: "#8B5CF6" },
+    svg: { type: "simple-icon", icon: "BRIDGE", color: "#8B5CF6" },
     interactive: { type: "tap-count", tapCount: { emoji: "🧪", count: 5 }, instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "synapse" }
   },
@@ -914,6 +1094,18 @@ export const BIO_K7_I8_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🕸️", color: "#C0392B" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Lernen", right: "Synapsen"}, {left: "Reiz", right: "Signal"}, {left: "Zentrum", right: "Gehirn"}] },
     quiz: { generate: "behavior_learning" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🦴", color: "#64748B" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Das Rückenmark liegt in der ___.", choices: ["Wirbelsäule", "Hand", "Nase", "Lunge"], correctIndex: 0 },
+    quiz: { generate: "reflex" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🚫", color: "#EF4444" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Drogen", "Synapsen", "schädigen", "Sucht"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "synapse" }
   }
 ];
 
@@ -978,6 +1170,18 @@ export const BIO_K7_I9_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Faktoren wie Fressfeinde, Klima oder Konkurrenz bestimmen, wer im 'Kampf ums Dasein' gewinnt.",
     t8_h1: "Umwelteinfluss", t8_h2: "Auslese",
     t8_inst: "Wähle den Faktor!",
+
+    // T9: Der Artbegriff
+    t9_title: "Was ist eine Art?",
+    t9_text: "Lebewesen gehören zur gleichen Art, wenn sie miteinander fruchtbare Nachkommen zeugen können.",
+    t9_h1: "Fortpflanzungsschranke", t9_h2: "Fruchtbare Nachkommen",
+    t9_inst: "Gehören sie zusammen?",
+
+    // T10: Stammbäume
+    t10_title: "Stammbäume",
+    t10_text: "Stammbäume zeigen die verwandtschaftlichen Beziehungen zwischen verschiedenen Arten über die Zeit.",
+    t10_h1: "Verwandtschaft", t10_h2: "Evolutionäre Wege",
+    t10_inst: "Finde den Vorfahren!",
   },
 };
 
@@ -1028,6 +1232,18 @@ export const BIO_K7_I9_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "❄️", color: "#3B82F6" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Das ___ ist ein Selektionsfaktor.", choices: ["Klima", "Buch", "Lied", "Haus"], correctIndex: 0 },
+    quiz: { generate: "natural_selection" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "👫", color: "#10B981" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Eine Art zeugt ___ Nachkommen.", choices: ["fruchtbare", "keine", "steinerne", "blaue"], correctIndex: 0 },
+    quiz: { generate: "natural_selection" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🌳", color: "#92400E" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Wurzel", right: "Vorfahre"}, {left: "Zweig", right: "Art"}, {left: "Baum", right: "System"}] },
     quiz: { generate: "natural_selection" }
   }
 ];

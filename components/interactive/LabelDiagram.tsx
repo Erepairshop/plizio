@@ -159,7 +159,7 @@ const LabelDiagram = memo(function LabelDiagram({
               key={area.id}
               onClick={() => handleAreaTap(area.id)}
               disabled={isLabeled || done}
-              className="absolute transform -translate-x-1/2 -translate-y-1/2 z-10"
+              className="absolute z-10 flex items-center justify-center w-11 h-11 transform -translate-x-1/2 -translate-y-1/2"
               style={{ left: `${area.x}%`, top: `${area.y}%` }}
             >
               {isLabeled ? (

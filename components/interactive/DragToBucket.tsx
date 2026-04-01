@@ -314,7 +314,7 @@ function DragToBucket({
                             : { scale: 1, opacity: 1 }
                         }
                         exit={{ scale: 0, opacity: 0 }}
-                        transition={{ type: "spring", stiffness: 380, damping: 26 }}
+                        transition={{ duration: 0.45, ease: "easeInOut" }}
                         whileTap={!solved ? { scale: 0.88 } : {}}
                         onClick={(e) => {
                           e.stopPropagation();

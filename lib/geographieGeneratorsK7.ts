@@ -161,6 +161,67 @@ const DATA_K7: any = {
     ],
     typing: [{ q: ["Műanyag angolul?", "Plastic?", "Plastik?", "Plastic?"] , a: ["Plastic", "Plastic", "Plastik", "Plastic"] }]
   },
+
+  asia_overview_k7: {
+    mcq: [
+      { q: ["Melyik a legnagyobb kontinens?", "Largest continent?", "Größter Kontinent?", "Cel mai mare continent?"], c: ["Ázsia", "Asia", "Asien", "Asia"], w1: ["Európa", "Europe", "Europa", "Europa"], w2: ["Afrika", "Africa", "Afrika", "Africa"], w3: ["Ausztrália", "Australia", "Australien", "Australia"] },
+      { q: ["Melyik hegység az ázsiai magashegység?", "Asian high mountain range?", "Asiatisches Hochgebirge?", "Lanț muntos asiatic?"], c: ["Himalája", "Himalayas", "Himalaya", "Himalaya"], w1: ["Andok", "Andes", "Anden", "Anzi"], w2: ["Alpok", "Alps", "Alpen", "Alpi"], w3: ["Urál", "Ural", "Ural", "Ural"] },
+      { q: ["Melyik ország Ázsiában van?", "Country in Asia?", "Land in Asien?", "Țară din Asia?"], c: ["Kína", "China", "China", "China"], w1: ["Brazília", "Brazil", "Brasilien", "Brazilia"], w2: ["Franciaország", "France", "Frankreich", "Franța"], w3: ["Kanada", "Canada", "Kanada", "Canada"] },
+      { q: ["Ázsia melyik része sűrűn lakott?", "Densely populated Asia?", "Dicht besiedelt?", "Partea dens populată?"], c: ["Kelet- és Dél-Ázsia", "East and South Asia", "Ost- und Südasien", "Asia de Est și Sud"], w1: ["Antarktisz", "Antarctica", "Antarktis", "Antarctica"], w2: ["Óceánok", "Oceans", "Ozeane", "Oceane"], w3: ["Sarkok", "Poles", "Pole", "Poli"] },
+    ],
+    typing: [
+      { q: ["Ázsia angolul?", "Asia EN?", "Asien?", "Asia EN?"], a: ["Asia", "Asia", "Asien", "Asia"] },
+      { q: ["Himalája angolul?", "Himalayas EN?", "Himalaya?", "Himalaya EN?"], a: ["Himalayas", "Himalayas", "Himalaya", "Himalaya"] },
+    ]
+  },
+  earthquakes_tectonics: {
+    mcq: [
+      { q: ["Mi okozza a földrengést?", "What causes earthquakes?", "Was verursacht Erdbeben?", "Ce provoacă cutremure?"], c: ["Lemezek mozgása", "Plate movement", "Plattenbewegung", "Mișcarea plăcilor"], w1: ["Eső", "Rain", "Regen", "Ploaie"], w2: ["Hó", "Snow", "Schnee", "Zăpadă"], w3: ["Napsütés", "Sunlight", "Sonne", "Soare"] },
+      { q: ["Mivel mérjük a rengést?", "Measure earthquake?", "Wie misst man?", "Cu ce măsurăm?"], c: ["Szeizmográf", "Seismograph", "Seismograph", "Seismograf"], w1: ["Hőmérő", "Thermometer", "Thermometer", "Termometru"], w2: ["Iránytű", "Compass", "Kompass", "Busolă"], w3: ["Mérleg", "Scale", "Waage", "Cântar"] },
+      { q: ["Mi a Richter-skála?", "Richter scale?", "Richterskala?", "Scara Richter?"], c: ["Erősséget jelző skála", "Magnitude scale", "Stärkeskala", "Scară de magnitudine"], w1: ["Szélirány", "Wind direction", "Windrichtung", "Direcția vântului"], w2: ["Hőmérséklet", "Temperature", "Temperatur", "Temperatură"], w3: ["Mélység", "Depth", "Tiefe", "Adâncime"] },
+      { q: ["Mit okozhat egy tengeralatti földrengés?", "Undersea quake effect?", "Folge?", "Efect?"], c: ["Cunamit", "Tsunami", "Tsunami", "Tsunami"], w1: ["Sivatagot", "Desert", "Wüste", "Deșert"], w2: ["Felhőt", "Cloud", "Wolke", "Nor"], w3: ["Erdőt", "Forest", "Wald", "Pădure"] },
+    ],
+    typing: [
+      { q: ["Földrengés angolul?", "Earthquake EN?", "Erdbeben?", "Cutremur EN?"], a: ["Earthquake", "Earthquake", "Erdbeben", "Cutremur"] },
+      { q: ["Lemez angolul?", "Plate EN?", "Platte?", "Placă EN?"], a: ["Plate", "Plate", "Platte", "Placa"] },
+    ]
+  },
+  asia_economy_k7: {
+    mcq: [
+      { q: ["Melyik ország a gyárvilág egyik központja?", "Factory world?", "Weltfabrik?", "Centru industrial?"], c: ["Kína", "China", "China", "China"], w1: ["Izland", "Iceland", "Island", "Islanda"], w2: ["Peru", "Peru", "Peru", "Peru"], w3: ["Finnország", "Finland", "Finnland", "Finlanda"] },
+      { q: ["Melyik ázsiai ország erős IT-ban?", "Strong IT country in Asia?", "IT-Land?", "Țară IT?"], c: ["India", "India", "Indien", "India"], w1: ["Németország", "Germany", "Deutschland", "Germania"], w2: ["Chile", "Chile", "Chile", "Chile"], w3: ["Marokkó", "Morocco", "Marokko", "Maroc"] },
+      { q: ["Melyik ország ismert high-tech iparról?", "High-tech Asia?", "Hightech-Land?", "Țară high-tech?"], c: ["Japán", "Japan", "Japan", "Japonia"], w1: ["Nepál", "Nepal", "Nepal", "Nepal"], w2: ["Mali", "Mali", "Mali", "Mali"], w3: ["Ecuador", "Ecuador", "Ecuador", "Ecuador"] },
+      { q: ["Mi jellemző sok ázsiai nagyvárosra?", "Asian cities?", "Asiatische Städte?", "Orașe asiatice?"], c: ["Megavárosok", "Megacities", "Megastädte", "Megapoli"], w1: ["Sivatagi falvak", "Desert villages", "Wüstendörfer", "Sate deșert"], w2: ["Fjordok", "Fjords", "Fjorde", "Fjorduri"], w3: ["Gleccserek", "Glaciers", "Gletscher", "Ghețari"] },
+    ],
+    typing: [
+      { q: ["Kína angolul?", "China EN?", "China?", "China EN?"], a: ["China", "China", "China", "China"] },
+      { q: ["Japán angolul?", "Japan EN?", "Japan?", "Japonia EN?"], a: ["Japan", "Japan", "Japan", "Japan"] },
+    ]
+  },
+  monsoon_system: {
+    mcq: [
+      { q: ["Mi a monszun?", "What is a monsoon?", "Was ist der Monsun?", "Ce este musonul?"], c: ["Évszakos szélrendszer", "Seasonal wind system", "Jahreszeitwind", "Sistem de vânt sezonier"], w1: ["Állandó jég", "Permanent ice", "Dauerfrost", "Gheață permanentă"], w2: ["Hegység", "Mountain", "Gebirge", "Munți"], w3: ["Tengeráram", "Sea current", "Meeresstrom", "Curent marin"] },
+      { q: ["Mikor hoz esőt a monszun?", "When does it bring rain?", "Wann Regen?", "Când aduce ploaie?"], c: ["Nyáron", "In summer", "Im Sommer", "Vara"], w1: ["Télen", "In winter", "Im Winter", "Iarna"], w2: ["Ősszel", "In autumn", "Im Herbst", "Toamna"], w3: ["Mindig ugyanúgy", "Always same", "Immer gleich", "Mereu la fel"] },
+      { q: ["A monszun iránya nyáron?", "Summer monsoon direction?", "Richtung im Sommer?", "Direcția vara?"], c: ["Tenger felől a szárazföldre", "Sea to land", "Vom Meer aufs Land", "Dinspre mare spre uscat"], w1: ["Felfelé", "Up", "Nach oben", "În sus"], w2: ["Levegőbe", "Into air", "In die Luft", "În aer"], w3: ["Körbe-körbe", "Around", "Im Kreis", "În cerc"] },
+      { q: ["Mi történik télen?", "Winter monsoon?", "Was im Winter?", "Iarna ce se întâmplă?"], c: ["Iránya gyakran megfordul", "Direction reverses", "Richtung kehrt um", "Direcția se inversează"], w1: ["Megáll a Föld", "Earth stops", "Erde stoppt", "Pământul se oprește"], w2: ["Eltűnik a szél", "Wind disappears", "Wind weg", "Dispare vântul"], w3: ["Mindig esik hó", "Always snow", "Immer Schnee", "Ninge mereu"] },
+    ],
+    typing: [
+      { q: ["Monszun angolul?", "Monsoon EN?", "Monsun?", "Muson EN?"], a: ["Monsoon", "Monsoon", "Monsun", "Monsoon"] },
+      { q: ["Évszakos szél angolul?", "Seasonal wind EN?", "Jahreszeitenwind?", "Vânt sezonier EN?"], a: ["Seasonal wind", "Seasonal wind", "Jahreszeitenwind", "Vant sezonier"] },
+    ]
+  },
+  ring_of_fire_detailed: {
+    mcq: [
+      { q: ["Hol húzódik a Tűzgyűrű?", "Where is the Ring of Fire?", "Wo liegt der Feuerring?", "Unde e cercul de foc?"], c: ["A Csendes-óceán körül", "Around Pacific", "Um den Pazifik", "În jurul Pacificului"], w1: ["Az Atlanti-óceánban", "Atlantic only", "Im Atlantik", "În Atlantic"], w2: ["Európa közepén", "Center of Europe", "In Europa", "În Europa"], w3: ["A sarkokon", "At poles", "An den Polen", "La poli"] },
+      { q: ["Mit okoz a Tűzgyűrű?", "What happens there?", "Was passiert dort?", "Ce provoacă?"], c: ["Sok földrengést és vulkánt", "Many quakes and volcanoes", "Viele Beben/Vulkane", "Multe cutremure și vulcani"], w1: ["Csak esőt", "Only rain", "Nur Regen", "Doar ploaie"], w2: ["Hóviharokat", "Snowstorms", "Schneestürme", "Viscole"], w3: ["Aszályt", "Drought", "Dürre", "Secetă"] },
+      { q: ["Melyik ország része a Tűzgyűrűnek?", "Ring of Fire country?", "Welches Land?", "Țară din inel?"], c: ["Japán", "Japan", "Japan", "Japonia"], w1: ["Írország", "Ireland", "Irland", "Irlanda"], w2: ["Norvégia", "Norway", "Norwegen", "Norvegia"], w3: ["Egyiptom", "Egypt", "Ägypten", "Egipt"] },
+      { q: ["Miért gyakoriak a vulkánok ott?", "Why many volcanoes?", "Warum viele Vulkane?", "De ce sunt mulți vulcani?"], c: ["Lemezek találkoznak", "Plates meet", "Platten treffen aufeinander", "Plăcile se întâlnesc"], w1: ["Mert hideg van", "Because cold", "Weil es kalt ist", "Pentru că e frig"], w2: ["Mert nincs víz", "No water", "Kein Wasser", "Fără apă"], w3: ["Mert lapos", "Flat", "Flach", "Plat"] },
+    ],
+    typing: [
+      { q: ["Tűzgyűrű angolul?", "Ring of Fire EN?", "Feuerring?", "Cercul de foc EN?"], a: ["Ring of Fire", "Ring of Fire", "Ring of Fire", "Cercul de foc"] },
+      { q: ["Csendes-óceán angolul?", "Pacific Ocean EN?", "Pazifik?", "Oceanul Pacific?"], a: ["Pacific Ocean", "Pacific Ocean", "Pazifik", "Oceanul Pacific"] },
+    ]
+  }
 };
 
 export const K7_GEOGRAPHIE_GENERATORS: any = {};
@@ -171,4 +232,26 @@ keys.forEach(k => {
   K7_GEOGRAPHIE_GENERATORS[k] = gen;
   K7_GEOGRAPHIE_GENERATORS[`${k}_mcq`] = gen;
   K7_GEOGRAPHIE_GENERATORS[`${k}_typing`] = (lang: string, seed: number) => makeTyping(k, lang, DATA_K7[k].typing);
+});
+
+Object.assign(K7_GEOGRAPHIE_GENERATORS, {
+  asia_overview_k7: (lang: string, seed: number) => makeMCQs("asia_overview_k7", lang, mulberry32(seed), DATA_K7.asia_overview_k7.mcq),
+  asia_overview_k7_mcq: (lang: string, seed: number) => makeMCQs("asia_overview_k7", lang, mulberry32(seed), DATA_K7.asia_overview_k7.mcq),
+  asia_overview_k7_typing: (lang: string, seed: number) => makeTyping("asia_overview_k7", lang, DATA_K7.asia_overview_k7.typing),
+
+  earthquakes_tectonics: (lang: string, seed: number) => makeMCQs("earthquakes_tectonics", lang, mulberry32(seed), DATA_K7.earthquakes_tectonics.mcq),
+  earthquakes_tectonics_mcq: (lang: string, seed: number) => makeMCQs("earthquakes_tectonics", lang, mulberry32(seed), DATA_K7.earthquakes_tectonics.mcq),
+  earthquakes_tectonics_typing: (lang: string, seed: number) => makeTyping("earthquakes_tectonics", lang, DATA_K7.earthquakes_tectonics.typing),
+
+  asia_economy_k7: (lang: string, seed: number) => makeMCQs("asia_economy_k7", lang, mulberry32(seed), DATA_K7.asia_economy_k7.mcq),
+  asia_economy_k7_mcq: (lang: string, seed: number) => makeMCQs("asia_economy_k7", lang, mulberry32(seed), DATA_K7.asia_economy_k7.mcq),
+  asia_economy_k7_typing: (lang: string, seed: number) => makeTyping("asia_economy_k7", lang, DATA_K7.asia_economy_k7.typing),
+
+  monsoon_system: (lang: string, seed: number) => makeMCQs("monsoon_system", lang, mulberry32(seed), DATA_K7.monsoon_system.mcq),
+  monsoon_system_mcq: (lang: string, seed: number) => makeMCQs("monsoon_system", lang, mulberry32(seed), DATA_K7.monsoon_system.mcq),
+  monsoon_system_typing: (lang: string, seed: number) => makeTyping("monsoon_system", lang, DATA_K7.monsoon_system.typing),
+
+  ring_of_fire_detailed: (lang: string, seed: number) => makeMCQs("ring_of_fire_detailed", lang, mulberry32(seed), DATA_K7.ring_of_fire_detailed.mcq),
+  ring_of_fire_detailed_mcq: (lang: string, seed: number) => makeMCQs("ring_of_fire_detailed", lang, mulberry32(seed), DATA_K7.ring_of_fire_detailed.mcq),
+  ring_of_fire_detailed_typing: (lang: string, seed: number) => makeTyping("ring_of_fire_detailed", lang, DATA_K7.ring_of_fire_detailed.typing),
 });

@@ -208,6 +208,18 @@ export const BIO_K6_I2_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Weichtiere und Würmer findet man im Meer, im Süßwasser und an Land (in feuchter Umgebung).",
     t8_h1: "Feuchte Orte", t8_h2: "Weltweite Verbreitung",
     t8_inst: "Wo leben sie?",
+
+    // T9: Perlenbildung
+    t9_title: "Perlenbildung",
+    t9_text: "Manche Muscheln können Perlen bilden, um Fremdkörper in ihrer Schale einzuschließen.",
+    t9_h1: "Abwehrreaktion", t9_h2: "Kostbare Schätze",
+    t9_inst: "Finde die Perle!",
+
+    // T10: Bioindikatoren
+    t10_title: "Bioindikatoren",
+    t10_text: "Viele Weichtiere reagieren empfindlich auf Wasserverschmutzung und dienen als Anzeiger für die Wasserqualität.",
+    t10_h1: "Sauberes Wasser", t10_h2: "Umweltschutz",
+    t10_inst: "Check die Qualität!",
   },
 };
 
@@ -258,6 +270,18 @@ export const BIO_K6_I2_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌊", color: "#3B82F6" },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id: "meer", label: "Meer"}, {id: "land", label: "Land"}], items: [{text: "Krake", bucketId: "meer"}, {text: "Weinbergschnecke", bucketId: "land"}, {text: "Muschel", bucketId: "meer"}, {text: "Regenwurm", bucketId: "land"}] },
+    quiz: { generate: "mollusks" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "⚪", color: "#F8FAFC" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Muscheln bilden Perlen aus ___.", choices: ["Kalk", "Sand", "Zucker", "Salz"], correctIndex: 0 },
+    quiz: { generate: "mollusks" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🧪", color: "#10B981" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Bioindikator", right: "Anzeiger"}, {left: "Gefahr", right: "Verschmutzung"}, {left: "Schutz", right: "Sauber"}] },
     quiz: { generate: "mollusks" }
   }
 ];
@@ -321,11 +345,23 @@ export const BIO_K6_I3_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Geben und Nehmen", t7_h2: "Zusammenleben",
     t7_inst: "Tausche Stoffe!",
 
-    // T8: Bedeutung des Waldes
+    // T8: Nutzung & Schutz
     t8_title: "Nutzung & Schutz",
     t8_text: "Wälder liefern Holz, schützen vor Erosion, speichern Wasser und sind Erholungsgebiete für Menschen.",
     t8_h1: "Sauerstoffspender", t8_h2: "Wasserspeicher",
     t8_inst: "Schütze den Wald!",
+
+    // T9: Tiere im Winter
+    t9_title: "Tiere im Winter",
+    t9_text: "Waldtiere haben verschiedene Strategien für den Winter: Winterschlaf, Winterruhe oder Winterstarre.",
+    t9_h1: "Schlaf oder Ruhe?", t9_h2: "Energie sparen",
+    t9_inst: "Wer schläft?",
+
+    // T10: Aufforstung
+    t10_title: "Aufforstung",
+    t10_text: "Um Wälder zu erhalten, müssen neue Bäume gepflanzt werden, die gut an das Klima angepasst sind.",
+    t10_h1: "Neue Bäume", t10_h2: "Zukunft des Waldes",
+    t10_inst: "Pflanze einen Baum!",
   },
 };
 
@@ -376,6 +412,18 @@ export const BIO_K6_I3_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌳", color: "#166534" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Sauerstoff", "Holz", "Schutz", "Wasser"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "forest_layers" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "❄️", color: "#3B82F6" },
+    interactive: { type: "drag-to-bucket", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", buckets: [{id: "schlaf", label: "Schlaf"}, {id: "ruhe", label: "Ruhe"}], items: [{text: "Siebenschläfer", bucketId: "schlaf"}, {text: "Eichhörnchen", bucketId: "ruhe"}, {text: "Igel", bucketId: "schlaf"}, {text: "Dachs", bucketId: "ruhe"}] },
+    quiz: { generate: "forest_layers" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🌲", color: "#166534" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "___ schützt den Wald für die Zukunft.", choices: ["Aufforstung", "Abholzung", "Feuer", "Sturm"], correctIndex: 0 },
     quiz: { generate: "forest_layers" }
   }
 ];
@@ -441,6 +489,18 @@ export const BIO_K6_I4_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Gewässer sind durch Plastikmüll und Überdüngung bedroht. Wir müssen sie als Lebensraum schützen.",
     t8_h1: "Kein Müll ins Wasser", t8_h2: "Sauberes Trinkwasser",
     t8_inst: "Sammle den Müll!",
+
+    // T9: Wasserkreislauf
+    t9_title: "Wasserkreislauf",
+    t9_text: "Wasser verdunstet, bildet Wolken und regnet wieder herab – ein ewiger Kreislauf auf der Erde.",
+    t9_h1: "Verdunstung", t9_h2: "Niederschlag",
+    t9_inst: "Folge dem Tropfen!",
+
+    // T10: Trinkwasser
+    t10_title: "Trinkwasser",
+    t10_text: "Nur ein kleiner Teil des Wassers auf der Erde ist Süßwasser, das wir als Trinkwasser nutzen können.",
+    t10_h1: "Kostbares Gut", t10_h2: "Süßwasserreserve",
+    t10_inst: "Spar Wasser!",
   },
 };
 
@@ -491,6 +551,18 @@ export const BIO_K6_I4_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🚮", color: "#EF4444" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Plastik", "Schutz", "Lebensraum", "Wasser"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "freshwater" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "☁️", color: "#94A3B8" },
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left: "Sonne", right: "Verdunstung"}, {left: "Wolken", right: "Kondensation"}, {left: "Regen", right: "Niederschlag"}] },
+    quiz: { generate: "freshwater" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🚰", color: "#3B82F6" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "Nur ___ Prozent des Wassers ist Süßwasser.", choices: ["3 %", "50 %", "70 %", "97 %"], correctIndex: 0 },
     quiz: { generate: "freshwater" }
   }
 ];
@@ -553,11 +625,23 @@ export const BIO_K6_I5_LABELS: Record<string, Record<string, string>> = {
     t7_h1: "Ventilfunktion", t7_h2: "Einbahnstraße",
     t7_inst: "Öffne die Ventile!",
 
-    // T8: Puls & Belastung
+    // T8: Puls
     t8_title: "Puls",
     t8_text: "Bei Anstrengung muss das Herz schneller schlagen, um die Muskeln mit mehr Sauerstoff zu versorgen.",
     t8_h1: "Herzschlagfrequenz", t8_h2: "Sport & Puls",
     t8_inst: "Miss den Puls!",
+
+    // T9: Wundheilung
+    t9_title: "Wundheilung",
+    t9_text: "Nach der Blutgerinnung bildet sich Schorf, unter dem die Haut regeneriert und die Wunde heilt.",
+    t9_h1: "Regeneration", t9_h2: "Schorfbildung",
+    t9_inst: "Heile die Wunde!",
+
+    // T10: Eisen & Blut
+    t10_title: "Eisen & Blut",
+    t10_text: "Bei Eisenmangel können nicht genug rote Blutzellen gebildet werden, man fühlt sich müde und schwach.",
+    t10_h1: "Wichtiges Spurenelement", t10_h2: "Blutbildung",
+    t10_inst: "Iss gesund!",
   },
 };
 
@@ -609,6 +693,18 @@ export const BIO_K6_I5_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "💓", color: "#EF4444" },
     interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Bei Sport wird der Puls ___.", choices: ["höher", "niedriger", "langsamer", "gar nicht"], correctIndex: 0 },
     quiz: { generate: "heart" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🩹", color: "#FDBA74" },
+    interactive: { type: "highlight-text", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", tokens: ["Gerinnung", "Schorf", "Haut", "Heilung"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "blood_components" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🥦", color: "#16A34A" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "___ ist wichtig für die Blutbildung.", choices: ["Eisen", "Zucker", "Fett", "Salz"], correctIndex: 0 },
+    quiz: { generate: "blood_components" }
   }
 ];
 
@@ -675,6 +771,18 @@ export const BIO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Das Kreislaufsystem verbindet alle Organe und sorgt für die Verteilung von Wärme im Körper.",
     t8_h1: "Verteilersystem", t8_h2: "Wärmetransport",
     t8_inst: "Check den Fluss!",
+
+    // T9: Blutspende
+    t9_title: "Blutspende",
+    t9_text: "Menschen können Blut spenden, um anderen bei Operationen oder Unfällen zu helfen.",
+    t9_h1: "Leben retten", t9_h2: "Solidarität",
+    t9_inst: "Werde Spender!",
+
+    // T10: Körperwärme
+    t10_title: "Körperwärme",
+    t10_text: "Das Blut verteilt die Wärme der Muskeln im ganzen Körper und hilft, die Temperatur konstant zu halten.",
+    t10_h1: "37 Grad Celsius", t10_h2: "Wärmeverteilung",
+    t10_inst: "Miss die Temperatur!",
   },
 };
 
@@ -725,6 +833,18 @@ export const BIO_K6_I6_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🌡️", color: "#F87171" },
     interactive: { type: "highlight-text", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", tokens: ["Wärme", "Verteilung", "Transport", "System"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "circulation" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🏥", color: "#EF4444" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "___ kann Leben retten.", choices: ["Blutspende", "Eis essen", "Schlafen", "Singen"], correctIndex: 0 },
+    quiz: { generate: "blood_types" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🌡️", color: "#FACC15" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Blut", right: "Wärmetransport"}, {left: "Muskeln", right: "Wärmequelle"}, {left: "Haut", right: "Abkühlung"}] },
     quiz: { generate: "circulation" }
   }
 ];
@@ -792,6 +912,18 @@ export const BIO_K6_I7_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Bei körperlicher Arbeit atmen wir tiefer und öfter, um den erhöhten Sauerstoffbedarf zu decken.",
     t8_h1: "Hecheln", t8_h2: "Mehr Sauerstoff",
     t8_inst: "Lauf eine Runde!",
+
+    // T9: Höhenluft
+    t9_title: "Höhenluft",
+    t9_text: "In großen Höhen ist der Luftdruck niedriger und es gibt weniger Sauerstoff. Der Körper muss sich anpassen.",
+    t9_h1: "Dünne Luft", t9_h2: "Anpassung",
+    t9_inst: "Steige auf den Berg!",
+
+    // T10: Lungenkapazität
+    t10_title: "Lungenkapazität",
+    t10_text: "Durch Training kann das Lungenvolumen vergrößert werden, sodass pro Atemzug mehr Sauerstoff aufgenommen wird.",
+    t10_h1: "Lungenvolumen", t10_h2: "Ausdauertraining",
+    t10_inst: "Puste fest!",
   },
 };
 
@@ -843,6 +975,18 @@ export const BIO_K6_I7_POOL: PoolTopicDef[] = [
     svg: { type: "simple-icon", icon: "🏃", color: "#10B981" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Sport", right: "Schnell"}, {left: "Schlaf", right: "Langsam"}, {left: "Sauerstoff", right: "Bedarf"}] },
     quiz: { generate: "respiration" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🏔️", color: "#3B82F6" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "In der Höhe gibt es ___ Sauerstoff.", choices: ["weniger", "mehr", "keinen", "festen"], correctIndex: 0 },
+    quiz: { generate: "respiration" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🎈", color: "#F472B6" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Lunge", right: "Volumen"}, {left: "Training", right: "Kapazität"}, {left: "Atemzug", right: "Luft"}] },
+    quiz: { generate: "lungs" }
   }
 ];
 
@@ -909,6 +1053,18 @@ export const BIO_K6_I8_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Körperpflege und ein verantwortungsvoller Umgang mit Sexualität sind wichtig für die Gesundheit.",
     t8_h1: "Hygiene", t8_h2: "Verantwortung",
     t8_inst: "Was ist wichtig?",
+
+    // T9: Körperpflege
+    t9_title: "Körperpflege",
+    t9_text: "In der Pubertät werden Schweißdrüsen aktiver. Regelmäßiges Waschen und Hygiene werden wichtiger.",
+    t9_h1: "Frische", t9_h2: "Deo & Seife",
+    t9_inst: "Was gehört dazu?",
+
+    // T10: Respekt & Grenzen
+    t10_title: "Respekt & Grenzen",
+    t10_text: "Ein respektvoller Umgang mit den eigenen Grenzen und denen anderer ist die Basis für ein gutes Miteinander.",
+    t10_h1: "Nein sagen", t10_h2: "Grenzen achten",
+    t10_inst: "Was ist respektvoll?",
   },
 };
 
@@ -959,6 +1115,18 @@ export const BIO_K6_I8_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🤝", color: "#10B981" },
     interactive: { type: "drag-to-bucket", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", buckets: [{id: "wichtig", label: "Wichtig"}, {id: "egal", label: "Unwichtig"}], items: [{text: "Hygiene", bucketId: "wichtig"}, {text: "Respekt", bucketId: "wichtig"}, {text: "Ignoranz", bucketId: "egal"}, {text: "Pflege", bucketId: "wichtig"}] },
+    quiz: { generate: "hormones" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🚿", color: "#3B82F6" },
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left: "Waschen", right: "Sauberkeit"}, {left: "Deo", right: "Geruch"}, {left: "Zähne", right: "Putz"}] },
+    quiz: { generate: "hormones" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🫂", color: "#F472B6" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Respekt", "Grenzen", "Miteinander", "achten"], correctIndices: [0, 1, 2, 3] },
     quiz: { generate: "hormones" }
   }
 ];
@@ -1020,6 +1188,18 @@ export const BIO_K6_I9_LABELS: Record<string, Record<string, string>> = {
     t8_text: "Biologie ist die Lehre vom Leben. Von den kleinsten Zellen bis zum ganzen Ökosystem.",
     t8_h1: "Wissen ist Macht", t8_h2: "Viel Erfolg!",
     t8_inst: "Großer Test!",
+
+    // T9: Atmungs-Check
+    t9_title: "Atmungs-Check",
+    t9_text: "Wiederhole die wichtigsten Fakten über Lunge, Gasaustausch und Atmungsmuskulatur.",
+    t9_h1: "Gasaustausch", t9_h2: "Zwerchfell",
+    t9_inst: "Check die Atmung!",
+
+    // T10: Abschluss-Quiz
+    t10_title: "Abschluss-Quiz",
+    t10_text: "Test dein Wissen über alle Themen der 6. Klasse Biologie!",
+    t10_h1: "Alles dabei", t10_h2: "Großer Test",
+    t10_inst: "Bist du bereit?",
   },
 };
 
@@ -1070,6 +1250,18 @@ export const BIO_K6_I9_POOL: PoolTopicDef[] = [
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🎓", color: "#64748B" },
     interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Zelle", right: "Leben"}, {left: "Wald", right: "System"}, {left: "Blut", right: "Fluss"}] },
+    quiz: { generate: "insects" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🫁", color: "#F87171" },
+    interactive: { type: "highlight-text", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", tokens: ["Lunge", "Gasaustausch", "Zwerchfell", "Atmung"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "lungs" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🏆", color: "#FACC15" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left: "Wissen", right: "Macht"}, {left: "Biologie", right: "Leben"}, {left: "Erfolg", right: "Ziel"}] },
     quiz: { generate: "insects" }
   }
 ];

@@ -1,11 +1,16 @@
 import * as Phaser from "phaser";
 import type { StarholdEventId, StarholdModuleId, StarholdState, StarholdCommand, StarholdThreatType } from "@/lib/gravitas/sim/types";
 
+const SCENE_WIDTH = 840;
+const SCENE_HEIGHT = 560;
+const CORE_X = SCENE_WIDTH / 2;
+const CORE_Y = SCENE_HEIGHT / 2;
+
 const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
-  reactor: { x: 210, y: 128 },
-  logistics: { x: 625, y: 140 },
-  core: { x: 420, y: 255 },
-  sensor: { x: 320, y: 405 },
+  reactor: { x: 210, y: 140 },
+  logistics: { x: 625, y: 154 },
+  core: { x: CORE_X, y: CORE_Y },
+  sensor: { x: 320, y: 445 },
 };
 
 const SECTOR_COLORS: Record<StarholdModuleId, number> = {
@@ -85,8 +90,8 @@ export class GravitasBaseScene extends Phaser.Scene {
   }
 
   create() {
-    const width = 840;
-    const height = 510;
+    const width = SCENE_WIDTH;
+    const height = SCENE_HEIGHT;
 
     this.cameras.main.setBackgroundColor("#050816");
 
@@ -121,8 +126,8 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.particleLayer = this.add.container(0, 0);
     this.root = this.add.container(0, 0);
 
-    const centerX = 420;
-    const centerY = 255;
+    const centerX = CORE_X;
+    const centerY = CORE_Y;
 
     // Core
     this.coreGlow = this.add.circle(centerX, centerY, 84, 0xdb2777, 0.16);
@@ -227,8 +232,8 @@ export class GravitasBaseScene extends Phaser.Scene {
 
   private resetMeteor(meteor: Phaser.GameObjects.Arc) {
     const side = Phaser.Math.Between(0, 3);
-    const width = 840;
-    const height = 510;
+    const width = SCENE_WIDTH;
+    const height = SCENE_HEIGHT;
     if (side === 0) { meteor.setPosition(Phaser.Math.Between(0, width), -20); }
     else if (side === 1) { meteor.setPosition(width + 20, Phaser.Math.Between(0, height)); }
     else if (side === 2) { meteor.setPosition(Phaser.Math.Between(0, width), height + 20); }
@@ -251,7 +256,7 @@ export class GravitasBaseScene extends Phaser.Scene {
 
     this.stars.forEach(s => {
       s.node.x += s.speed;
-      if (s.node.x > 840) s.node.x = 0;
+      if (s.node.x > SCENE_WIDTH) s.node.x = 0;
     });
 
     const pulse = Math.sin(this.animTime / 500) * 0.1 + 1;
@@ -405,7 +410,7 @@ export class GravitasBaseScene extends Phaser.Scene {
   private beginThreatSequence(duration: number) {
     this.actionSequenceUntil = Math.max(this.actionSequenceUntil, this.time.now + duration);
     this.currentFocus = null;
-    this.cameras.main.pan(420, 255, 320, "Sine.Out");
+    this.cameras.main.pan(CORE_X, CORE_Y, 320, "Sine.Out");
     this.cameras.main.zoomTo(1.02, 320, "Sine.Out");
   }
 
@@ -415,9 +420,9 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.beginThreatSequence(duration);
 
     if (type === "distortionWave") {
-      const sweep = this.add.rectangle(-180, 255, 220, 680, 0xa855f7, 0.18 * strength).setAngle(12);
+      const sweep = this.add.rectangle(-180, CORE_Y, 220, SCENE_HEIGHT + 120, 0xa855f7, 0.18 * strength).setAngle(12);
       const fracture = this.add.graphics();
-      const centerPulse = this.add.circle(420, 255, 90, 0xc084fc, 0.08);
+      const centerPulse = this.add.circle(CORE_X, CORE_Y, 90, 0xc084fc, 0.08);
 
       this.tweens.add({
         targets: sweep,
@@ -425,12 +430,12 @@ export class GravitasBaseScene extends Phaser.Scene {
         duration: 720,
         ease: "Cubic.Out",
         onUpdate: () => {
-          fracture.clear();
-          fracture.lineStyle(14, 0xa855f7, 0.2 * strength);
-          fracture.lineBetween(sweep.x, -30, sweep.x - 150, 560);
-          fracture.lineStyle(4, 0xffffff, 0.18 * strength);
-          fracture.lineBetween(sweep.x + 22, -30, sweep.x - 128, 560);
-        },
+        fracture.clear();
+        fracture.lineStyle(14, 0xa855f7, 0.2 * strength);
+        fracture.lineBetween(sweep.x, -30, sweep.x - 150, SCENE_HEIGHT);
+        fracture.lineStyle(4, 0xffffff, 0.18 * strength);
+        fracture.lineBetween(sweep.x + 22, -30, sweep.x - 128, SCENE_HEIGHT);
+      },
         onComplete: () => {
           fracture.destroy();
           sweep.destroy();
@@ -461,7 +466,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     }
 
     if (type === "voidStorm") {
-      const storm = this.add.circle(420, 255, 40, 0x38bdf8, 0.12 * strength);
+      const storm = this.add.circle(CORE_X, CORE_Y, 40, 0x38bdf8, 0.12 * strength);
       this.tweens.add({
         targets: storm,
         scale: 4.2,
@@ -471,14 +476,14 @@ export class GravitasBaseScene extends Phaser.Scene {
         onComplete: () => storm.destroy(),
       });
       for (let i = 0; i < 4; i++) {
-        this.time.delayedCall(i * 120, () => this.createPulseRing(420, 255, 40 + i * 14, 0x38bdf8, 720, 2.2, 0.48));
+        this.time.delayedCall(i * 120, () => this.createPulseRing(CORE_X, CORE_Y, 40 + i * 14, 0x38bdf8, 720, 2.2, 0.48));
       }
       this.shake(0.015 * strength);
       return;
     }
 
     const rain = this.add.graphics();
-    const burst = this.add.circle(420, 255, 70, 0xfb923c, 0.08 * strength);
+    const burst = this.add.circle(CORE_X, CORE_Y, 70, 0xfb923c, 0.08 * strength);
     this.tweens.add({
       targets: burst,
       scale: 3,
@@ -680,8 +685,8 @@ export class GravitasBaseScene extends Phaser.Scene {
 
   private sequenceReroute() {
     this.beginActionSequence("core", 2500, 1.16);
-    const centerX = 420;
-    const centerY = 255;
+    const centerX = CORE_X;
+    const centerY = CORE_Y;
 
     // Entire station pushes energy toward the core.
     for (const [id, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, {x:number, y:number}][]) {
@@ -716,8 +721,8 @@ export class GravitasBaseScene extends Phaser.Scene {
   }
 
   private triggerPayoff(moduleId: StarholdModuleId | "core", type: string) {
-    const centerX = 420;
-    const centerY = 255;
+    const centerX = CORE_X;
+    const centerY = CORE_Y;
     const pos = moduleId === "core" ? { x: centerX, y: centerY } : MODULE_POSITIONS[moduleId];
 
     // Strong flash
@@ -832,8 +837,8 @@ export class GravitasBaseScene extends Phaser.Scene {
   }
 
   private flashNode(moduleId: StarholdModuleId, color: number, options?: { radius?: number; alpha?: number; scale?: number; duration?: number }) {
-    const centerX = 420;
-    const centerY = 255;
+    const centerX = CORE_X;
+    const centerY = CORE_Y;
     const x = moduleId === "core" ? centerX : MODULE_POSITIONS[moduleId].x;
     const y = moduleId === "core" ? centerY : MODULE_POSITIONS[moduleId].y;
     const node = moduleId === "core" ? null : this.moduleNodes.get(moduleId);
@@ -915,7 +920,7 @@ export class GravitasBaseScene extends Phaser.Scene {
   }
 
   private flashImpact() {
-    const f = this.add.rectangle(420, 255, 840, 510, 0xffffff, 0.2);
+    const f = this.add.rectangle(CORE_X, CORE_Y, SCENE_WIDTH, SCENE_HEIGHT, 0xffffff, 0.2);
     f.setScrollFactor(0);
     this.tweens.add({
       targets: f,
@@ -933,8 +938,8 @@ export class GravitasBaseScene extends Phaser.Scene {
     }
 
     const { reactor, logistics, sensor, core } = state.modules;
-    const centerX = 420;
-    const centerY = 255;
+    const centerX = CORE_X;
+    const centerY = CORE_Y;
 
     // Integrity loss tracking
     for (const [moduleId, m] of Object.entries(state.modules) as [StarholdModuleId, any][]) {
@@ -1111,8 +1116,8 @@ export class GravitasBaseScene extends Phaser.Scene {
     if (state.threat.aftershock > 0) {
       this.noiseGfx.lineStyle(1, 0xffffff, 0.05);
       for (let i = 0; i < 5; i++) {
-        const ly = Phaser.Math.Between(0, 510);
-        this.noiseGfx.lineBetween(0, ly, 840, ly);
+        const ly = Phaser.Math.Between(0, SCENE_HEIGHT);
+        this.noiseGfx.lineBetween(0, ly, SCENE_WIDTH, ly);
       }
       if (Math.random() > 0.95) this.shake(0.005);
     }
@@ -1121,36 +1126,36 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.threatGfx.clear();
     if (state.threat.pausedUntilAwake && !state.avatarAwake) {
         this.threatGfx.fillStyle(0x0891b2, 0.05);
-        this.threatGfx.fillRect(0, 0, 840, 510);
+        this.threatGfx.fillRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
         this.threatGfx.lineStyle(2, 0x22d3ee, 0.12);
-        this.threatGfx.strokeRect(10, 10, 820, 490);
+        this.threatGfx.strokeRect(10, 10, SCENE_WIDTH - 20, SCENE_HEIGHT - 20);
     } else if (state.lockdown) {
         this.threatGfx.fillStyle(0x000000, 0.5);
-        this.threatGfx.fillRect(0, 0, 840, 510);
+        this.threatGfx.fillRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
     } else if (state.crisis) {
         const crisisPulse = Math.sin(this.animTime / 200) * 0.1 + 0.15;
         this.threatGfx.fillStyle(0x991b1b, crisisPulse);
-        this.threatGfx.fillRect(0, 0, 840, 510);
+        this.threatGfx.fillRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
     } else if (state.threat.countdown <= 5 && state.threat.aftershock === 0) {
         const approachProgress = 1 - (state.threat.countdown / Math.max(1, state.threat.totalDuration));
         const dangerProgress = (5 - state.threat.countdown) / 5;
         const color = state.threat.type === "distortionWave" ? 0x7e22ce : state.threat.type === "voidStorm" ? 0x1d4ed8 : 0xea580c;
 
         if (state.threat.type === "distortionWave") {
-          const sweepX = -160 + (840 + 320) * Phaser.Math.Clamp(approachProgress, 0, 1);
+          const sweepX = -160 + (SCENE_WIDTH + 320) * Phaser.Math.Clamp(approachProgress, 0, 1);
           this.threatGfx.fillStyle(color, 0.07 + dangerProgress * 0.06);
-          this.threatGfx.fillRect(Math.max(-40, sweepX - 160), 0, 220, 510);
+          this.threatGfx.fillRect(Math.max(-40, sweepX - 160), 0, 220, SCENE_HEIGHT);
           this.threatGfx.lineStyle(12 + dangerProgress * 10, color, 0.28 + dangerProgress * 0.2);
-          this.threatGfx.lineBetween(sweepX, 0, sweepX - 130, 510);
+          this.threatGfx.lineBetween(sweepX, 0, sweepX - 130, SCENE_HEIGHT);
           this.threatGfx.lineStyle(3, 0xffffff, 0.18 + dangerProgress * 0.16);
-          this.threatGfx.lineBetween(sweepX + 18, 0, sweepX - 112, 510);
+          this.threatGfx.lineBetween(sweepX + 18, 0, sweepX - 112, SCENE_HEIGHT);
         } else if (state.threat.type === "voidStorm") {
           const swirlRadius = 120 + dangerProgress * 120;
           this.threatGfx.fillStyle(color, 0.06 + dangerProgress * 0.05);
-          this.threatGfx.fillCircle(420, 255, swirlRadius);
+          this.threatGfx.fillCircle(centerX, centerY, swirlRadius);
           this.threatGfx.lineStyle(6 + dangerProgress * 6, color, 0.2 + dangerProgress * 0.15);
-          this.threatGfx.strokeCircle(420, 255, swirlRadius + Math.sin(this.animTime / 120) * 12);
-          this.threatGfx.strokeCircle(420, 255, swirlRadius * 0.7 + Math.cos(this.animTime / 150) * 8);
+          this.threatGfx.strokeCircle(centerX, centerY, swirlRadius + Math.sin(this.animTime / 120) * 12);
+          this.threatGfx.strokeCircle(centerX, centerY, swirlRadius * 0.7 + Math.cos(this.animTime / 150) * 8);
         } else {
           const rainOffset = (this.animTime / 6) % 120;
           this.threatGfx.lineStyle(4 + dangerProgress * 2, color, 0.18 + dangerProgress * 0.14);
@@ -1161,20 +1166,20 @@ export class GravitasBaseScene extends Phaser.Scene {
         }
 
         this.threatGfx.lineStyle(6 + dangerProgress * 8, color, 0.14 + dangerProgress * 0.12);
-        this.threatGfx.strokeRect(0, 0, 840, 510);
+        this.threatGfx.strokeRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
     } else if (state.threat.aftershock > 0) {
         const aftershockAlpha = 0.08 + Math.sin(this.animTime / 180) * 0.03;
         const typeColor = state.threat.type === "distortionWave" ? 0xa855f7 : state.threat.type === "voidStorm" ? 0x38bdf8 : 0xfb923c;
 
         if (state.threat.type === "distortionWave") {
-          const settleX = 420 + Math.sin(this.animTime / 140) * 110;
+          const settleX = centerX + Math.sin(this.animTime / 140) * 110;
           this.threatGfx.lineStyle(8, typeColor, 0.22);
-          this.threatGfx.lineBetween(settleX, 0, settleX - 100, 510);
+          this.threatGfx.lineBetween(settleX, 0, settleX - 100, SCENE_HEIGHT);
           this.threatGfx.lineStyle(2, 0xffffff, 0.14);
-          this.threatGfx.lineBetween(settleX + 26, 0, settleX - 74, 510);
+          this.threatGfx.lineBetween(settleX + 26, 0, settleX - 74, SCENE_HEIGHT);
         } else if (state.threat.type === "voidStorm") {
           this.threatGfx.lineStyle(5, typeColor, 0.18);
-          this.threatGfx.strokeCircle(420, 255, 170 + Math.sin(this.animTime / 150) * 10);
+          this.threatGfx.strokeCircle(centerX, centerY, 170 + Math.sin(this.animTime / 150) * 10);
         } else {
           this.threatGfx.lineStyle(3, typeColor, 0.16);
           for (let i = 0; i < 6; i++) {
@@ -1184,9 +1189,9 @@ export class GravitasBaseScene extends Phaser.Scene {
         }
 
         this.threatGfx.fillStyle(typeColor, aftershockAlpha);
-        this.threatGfx.fillRect(0, 0, 840, 510);
+        this.threatGfx.fillRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
         this.threatGfx.lineStyle(14, 0x000000, 0.12);
-        this.threatGfx.strokeRect(0, 0, 840, 510);
+        this.threatGfx.strokeRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
     } else if ((state.postWaveSurgeTicks ?? 0) > 0) {
         const surge = state.postWaveSurgeTicks;
         const aggressive = state.postWaveSurgeMode === "aggressive";
@@ -1195,11 +1200,11 @@ export class GravitasBaseScene extends Phaser.Scene {
         const alpha = calmWindow ? 0.018 + Math.sin(this.animTime / 420) * 0.006 : 0.045 + ((30 - surge) / 30) * 0.05;
 
         this.threatGfx.fillStyle(color, alpha);
-        this.threatGfx.fillRect(0, 0, 840, 510);
+        this.threatGfx.fillRect(0, 0, SCENE_WIDTH, SCENE_HEIGHT);
         this.threatGfx.lineStyle(calmWindow ? 1 : 2, color, calmWindow ? 0.06 : 0.16);
-        this.threatGfx.strokeCircle(420, 255, calmWindow ? 120 + Math.sin(this.animTime / 500) * 4 : 110 + Math.sin(this.animTime / 180) * 10);
+        this.threatGfx.strokeCircle(centerX, centerY, calmWindow ? 120 + Math.sin(this.animTime / 500) * 4 : 110 + Math.sin(this.animTime / 180) * 10);
         this.threatGfx.lineStyle(calmWindow ? 1 : 2, aggressive ? 0xfb7185 : 0x8b5cf6, calmWindow ? 0.04 : 0.1);
-        this.threatGfx.strokeCircle(420, 255, calmWindow ? 150 + Math.cos(this.animTime / 420) * 6 : 142 + Math.cos(this.animTime / 160) * 12);
+        this.threatGfx.strokeCircle(centerX, centerY, calmWindow ? 150 + Math.cos(this.animTime / 420) * 6 : 142 + Math.cos(this.animTime / 160) * 12);
     }
 
     // Core specific

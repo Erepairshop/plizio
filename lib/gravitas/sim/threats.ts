@@ -283,7 +283,7 @@ export function createNextThreat(state: StarholdState, nextCycle: number) {
     : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
   const worldPressure = Math.floor(state.worldPulse / 35);
   const nextDuration = uniformDemoWave
-    ? 60
+    ? 45
     : Math.max(
         nextCycle <= 2 ? 28 : 16,
         (nextCycle === 2 ? 30 : 20) - Math.floor(nextCycle / 5) + worldPressure - (state.worldPhase === 2 ? 1 : 0)

@@ -1,5 +1,5 @@
 "use client";
-import { memo, useState } from "react";
+import { memo, useCallback, useState } from "react";
 
 interface CoordinatePickerProps {
   targetX: number;
@@ -24,6 +24,14 @@ const CoordinatePicker = memo(function CoordinatePicker({
   const step = plotSize / (range * 2);
   const origin = svgSize / 2;
 
+  const submitGuess = useCallback((x: number, y: number) => {
+    if (x < -range || x > range || y < -range || y > range) return;
+    setLastGuess({ x, y });
+    if (x === targetX && y === targetY) {
+      setTimeout(() => onDone(true), 800);
+    }
+  }, [onDone, range, targetX, targetY]);
+
   const handleSvgClick = (e: React.MouseEvent<SVGSVGElement>) => {
     const svg = e.currentTarget;
     const rect = svg.getBoundingClientRect();
@@ -33,15 +41,7 @@ const CoordinatePicker = memo(function CoordinatePicker({
     // Matematikai koordinátává alakítás (inverz Y tengely miatt kivonás)
     const x = Math.round((clickX - origin) / step);
     const y = Math.round((origin - clickY) / step);
-
-    // Kikerüljük, hogy a rácson kívülre kattintson
-    if (x >= -range && x <= range && y >= -range && y <= range) {
-      setLastGuess({ x, y });
-      
-      if (x === targetX && y === targetY) {
-        setTimeout(() => onDone(true), 800);
-      }
-    }
+    submitGuess(x, y);
   };
 
   return (
@@ -73,6 +73,27 @@ const CoordinatePicker = memo(function CoordinatePicker({
                 )}
               </g>
             );
+          })}
+
+          {/* Hit targets: big enough so the player can tap the intended point reliably */}
+          {Array.from({ length: range * 2 + 1 }).map((_, xi) => {
+            const x = xi - range;
+            return Array.from({ length: range * 2 + 1 }).map((__, yi) => {
+              const y = range - yi;
+              const cx = origin + x * step;
+              const cy = origin - y * step;
+              return (
+                <circle
+                  key={`${x}:${y}`}
+                  cx={cx}
+                  cy={cy}
+                  r={Math.max(10, step * 0.38)}
+                  fill="transparent"
+                  style={{ cursor: "crosshair" }}
+                  onClick={() => submitGuess(x, y)}
+                />
+              );
+            });
           })}
 
           {/* X és Y tengely jelölők */}

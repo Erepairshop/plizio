@@ -17,7 +17,7 @@ export default function LanguageSwitcher() {
   const { lang, setLang } = useLang();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
-  const active = LANGS.find((l) => l.code === lang) || LANGS.find((l) => l.code === "en") || LANGS[0];
+  const active = LANGS.find((l) => l.code === lang) || LANGS.find((l) => l.code === "hu") || LANGS[0];
 
   // Close on outside click
   useEffect(() => {

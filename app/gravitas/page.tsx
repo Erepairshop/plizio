@@ -11,7 +11,6 @@ import {
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
-import GravitasActivation from "@/components/gravitas/GravitasActivation";
 import GravitasShop from "@/components/gravitas/GravitasShop";
 import GravitasImprint from "@/components/gravitas/GravitasImprint";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
@@ -164,12 +163,6 @@ export default function GravitasPage() {
 
   const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
     setSelectedModule(moduleId);
-    const coreImprintActive = !state.avatarAwake && state.avatarImprintActive && (state.avatarProfile?.answers.length ?? 0) >= 3;
-    if (moduleId === "core" && coreImprintActive) {
-      setModuleInfoOpen(false);
-      setActivePanel("activation");
-      return;
-    }
     setModuleInfoOpen(true);
   }, [state.avatarAwake, state.avatarImprintActive, state.avatarProfile?.answers.length]);
 
@@ -455,7 +448,7 @@ export default function GravitasPage() {
   const canReroute = canStartActivationTransfer(state);
   const isRecovering = state.threat.aftershock > 0 || state.crisis;
   const isLockdown = state.lockdown;
-  const introStage = state.phase === "boot" && state.tick < 18;
+  const introStage = state.phase === "boot" && state.tick < 90;
   const earlyStage = !state.avatarAwake && state.tick < 45;
   const avatarImprintStageActive = !state.avatarAwake && (state.avatarProfile?.answers.length ?? 0) >= 3;
   const repairChallengeTarget = state.repairChallenge.active ? state.repairChallenge.sequence[state.repairChallenge.promptIndex] ?? null : null;
@@ -538,7 +531,7 @@ export default function GravitasPage() {
       };
     }
 
-    if (state.tick < 120) {
+    if (state.tick < 90) {
       if (!state.scavengeOperation) {
         return {
           body: localize({
@@ -583,7 +576,7 @@ export default function GravitasPage() {
       };
     }
 
-    if (state.tick < 240) {
+    if (state.tick < 135) {
       if (state.phase === "boot" && canReroute) {
         return {
           body: localize({
@@ -610,7 +603,7 @@ export default function GravitasPage() {
       };
     }
 
-    if (state.tick < 300) {
+    if (state.tick < 180) {
       if (state.phase === "activation" && avatarImprintStageActive) {
         return {
           body: localize({
@@ -1106,7 +1099,7 @@ export default function GravitasPage() {
       )}
 
       {/* Header */}
-      <header className="flex items-center justify-between px-4 py-3 border-b border-white/5 bg-black/20 backdrop-blur-md z-50">
+      <header className="flex items-center justify-between px-3 py-2 border-b border-white/5 bg-black/20 backdrop-blur-md z-50">
         <div className="flex items-center gap-3">
           <Link href="/" className="p-2 -ml-2 text-white/40 hover:text-white transition">
             <ChevronLeft size={20} />
@@ -1117,15 +1110,6 @@ export default function GravitasPage() {
               <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/20 text-fuchsia-300">
                 {localize(content.victory.firstLoopTitle)}
               </div>
-            )}
-            {avatarImprintStageActive && (
-              <button
-                type="button"
-                onClick={() => setActivePanel("activation")}
-                className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/16 text-fuchsia-200 transition hover:bg-fuchsia-500/24"
-              >
-                {localize(content.ui.imprintTitle)}
-              </button>
             )}
             {/* Phase Description Tooltip */}
             <div className="absolute top-full left-0 mt-2 p-3 rounded-xl bg-black/80 backdrop-blur-xl border border-white/10 text-[10px] text-white/60 w-48 opacity-0 group-hover:opacity-100 group-active:opacity-100 transition-opacity pointer-events-none z-[100] shadow-2xl">
@@ -1162,15 +1146,15 @@ export default function GravitasPage() {
           </button>
           <button
             onClick={() => { if (confirm("Reset game?")) { clearGravitasSave(); window.location.reload(); } }}
-            className="p-2 text-white/20 hover:text-white/60 transition"
+            className="p-1.5 text-white/20 hover:text-white/60 transition"
           >
-            <RotateCcw size={16} />
+            <RotateCcw size={14} />
           </button>
         </div>
       </header>
 
       {/* HUD Chips */}
-      <div className="flex items-center justify-between px-4 py-2 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-4 scrollbar-hide">
+      <div className="flex items-center justify-between px-3 py-1.5 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-3 scrollbar-hide">
         <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
         <HUDChip
           icon={<MaterialResourceGlyph active={isScavengeActive} />}
@@ -1181,11 +1165,11 @@ export default function GravitasPage() {
         <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
         <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
         <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
-        <div className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 border border-white/5 text-xs font-black shrink-0 ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
-          <Layers size={12} />
+        <div className={`relative flex items-center gap-1.5 px-2 py-1 rounded-xl bg-white/5 border border-white/5 text-xs font-black shrink-0 ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
+          <Layers size={11} />
           <div className="flex flex-col leading-none">
-            <span className="text-[8px] uppercase tracking-[0.18em] text-white/30">{localize(ui.pattern)}</span>
-            <span className="text-[10px]">{patternLabel}</span>
+            <span className="text-[7px] uppercase tracking-[0.16em] text-white/30">{localize(ui.pattern)}</span>
+            <span className="text-[9px]">{patternLabel}</span>
           </div>
         </div>
       </div>
@@ -1193,7 +1177,7 @@ export default function GravitasPage() {
       {/* Game View */}
       <div className="flex-1 relative overflow-hidden flex flex-col">
         <div 
-          className={`relative transition-all duration-500 w-full aspect-[840/510] ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
+          className={`relative transition-all duration-500 w-full aspect-[840/560] ${hasGoldHull ? "border-[4px] border-amber-400/30 rounded-3xl m-1.5 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
           style={{ boxShadow: actionFlash ? `inset 0 0 60px ${actionFlash}` : "none" }}
         >
           {sceneReady ? (
@@ -1207,10 +1191,10 @@ export default function GravitasPage() {
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgba(34,211,238,0.16),transparent_30%),radial-gradient(circle_at_50%_70%,rgba(168,85,247,0.14),transparent_34%),linear-gradient(180deg,#050816_0%,#071120_50%,#050816_100%)]">
               <div className="absolute inset-0 opacity-50">
                 <div className="absolute left-1/2 top-[20%] h-20 w-20 -translate-x-1/2 rounded-full border border-cyan-300/25 bg-cyan-400/10 shadow-[0_0_40px_rgba(34,211,238,0.12)]" />
-                <div className="absolute left-[18%] top-[48%] h-14 w-14 rounded-full border border-amber-300/20 bg-amber-400/10" />
-                <div className="absolute right-[18%] top-[48%] h-14 w-14 rounded-full border border-emerald-300/20 bg-emerald-400/10" />
-                <div className="absolute left-[30%] bottom-[16%] h-14 w-14 rounded-full border border-violet-300/20 bg-violet-400/10" />
-                <div className="absolute right-[30%] bottom-[16%] h-14 w-14 rounded-full border border-rose-300/20 bg-rose-400/10" />
+                <div className="absolute left-[18%] top-[48%] h-12 w-12 rounded-full border border-amber-300/20 bg-amber-400/10" />
+                <div className="absolute right-[18%] top-[48%] h-12 w-12 rounded-full border border-emerald-300/20 bg-emerald-400/10" />
+                <div className="absolute left-[30%] bottom-[16%] h-12 w-12 rounded-full border border-violet-300/20 bg-violet-400/10" />
+                <div className="absolute right-[30%] bottom-[16%] h-12 w-12 rounded-full border border-rose-300/20 bg-rose-400/10" />
               </div>
               <div className="absolute inset-x-0 bottom-4 flex justify-center">
                 <div className="flex items-center gap-2">
@@ -1228,7 +1212,7 @@ export default function GravitasPage() {
                 </div>
               </div>
               {sceneDeferred && (
-                <div className="absolute left-4 top-4 rounded-full border border-amber-300/25 bg-amber-400/12 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.22em] text-amber-100 backdrop-blur-sm">
+                <div className="absolute left-3 top-3 rounded-full border border-amber-300/25 bg-amber-400/12 px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.2em] text-amber-100 backdrop-blur-sm">
                   Test mode active
                 </div>
               )}
@@ -1241,23 +1225,23 @@ export default function GravitasPage() {
                 initial={{ opacity: 0, y: 12 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: 12 }}
-                className="fixed bottom-[116px] right-4 z-[70] w-[min(92vw,360px)] rounded-2xl border border-fuchsia-400/30 bg-fuchsia-500/12 backdrop-blur-md p-3 shadow-[0_0_24px_rgba(232,121,249,0.14)] lg:bottom-6"
+                className="fixed bottom-[100px] right-3 z-[70] w-[min(88vw,320px)] rounded-2xl border border-fuchsia-400/30 bg-fuchsia-500/12 backdrop-blur-md p-2.5 shadow-[0_0_24px_rgba(232,121,249,0.14)] lg:bottom-6"
               >
-                <div className="flex items-start gap-3">
-                  <div className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 text-fuchsia-100">
-                    <Star size={14} fill="currentColor" />
+                <div className="flex items-start gap-2.5">
+                  <div className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 text-fuchsia-100">
+                    <Star size={12} fill="currentColor" />
                   </div>
                   <div className="min-w-0 flex-1">
-                    <div className="text-[10px] font-black uppercase tracking-[0.28em] text-fuchsia-300">
+                    <div className="text-[9px] font-black uppercase tracking-[0.24em] text-fuchsia-300">
                       {localize(content.ui.phaseShift)}
                     </div>
-                    <div className="mt-1 text-[11px] leading-snug text-white/75">
+                    <div className="mt-1 text-[10px] leading-snug text-white/75">
                       {localize(content.victory.continuePlaying)}
                     </div>
                   </div>
                   <button
                     onClick={() => dispatch({ type: "ACKNOWLEDGE_PHASE_SHIFT" })}
-                    className="shrink-0 rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 px-2.5 py-1.5 text-[9px] font-black uppercase tracking-widest text-fuchsia-100 hover:bg-fuchsia-400/25 transition"
+                    className="shrink-0 rounded-full border border-fuchsia-300/30 bg-fuchsia-400/15 px-2 py-1 text-[8px] font-black uppercase tracking-widest text-fuchsia-100 hover:bg-fuchsia-400/25 transition"
                   >
                     OK
                   </button>
@@ -1272,15 +1256,15 @@ export default function GravitasPage() {
                 initial={{ opacity: 0, y: 20, scale: 0.98 }}
                 animate={{ opacity: 1, y: 0, scale: 1 }}
                 exit={{ opacity: 0, y: 10, scale: 0.98 }}
-                className="fixed bottom-[116px] left-4 right-4 z-[65] mx-auto max-w-xl rounded-2xl border border-cyan-400/20 bg-black/85 backdrop-blur-xl px-4 py-3 shadow-2xl pointer-events-none lg:bottom-6"
+                className="fixed bottom-[100px] left-3 right-3 z-[65] mx-auto max-w-xl rounded-2xl border border-cyan-400/20 bg-black/85 backdrop-blur-xl px-3 py-2.5 shadow-2xl pointer-events-none lg:bottom-6"
               >
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 h-2.5 w-2.5 rounded-full bg-cyan-400 shadow-[0_0_14px_rgba(34,211,238,0.85)] shrink-0" />
+                <div className="flex items-start gap-2.5">
+                  <div className="mt-1 h-2 w-2 rounded-full bg-cyan-400 shadow-[0_0_14px_rgba(34,211,238,0.85)] shrink-0" />
                   <div className="min-w-0">
-                    <div className="text-[9px] font-black uppercase tracking-[0.28em] text-cyan-300">
+                    <div className="text-[8px] font-black uppercase tracking-[0.24em] text-cyan-300">
                       {localize(ui.actions)}
                     </div>
-                    <div className="mt-1 text-sm font-black text-white leading-snug">
+                    <div className="mt-1 text-[13px] font-black text-white leading-snug">
                       {localize(actionFeedback)}
                     </div>
                   </div>
@@ -1312,43 +1296,43 @@ export default function GravitasPage() {
                 animate={{ opacity: 1, y: 0, scale: 1 }}
                 exit={{ opacity: 0, y: -8, scale: 0.98 }}
                 transition={{ type: "spring", damping: 22, stiffness: 260 }}
-                className="absolute left-4 top-16 z-[25] w-[min(62vw,280px)] rounded-[22px] border border-white/10 bg-[#091120]/82 p-3 text-white shadow-[0_18px_40px_rgba(0,0,0,0.32)] backdrop-blur-md"
+                className="absolute left-3 top-14 z-[25] w-[min(54vw,228px)] rounded-[18px] border border-white/10 bg-[#091120]/82 p-2.5 text-white shadow-[0_18px_40px_rgba(0,0,0,0.32)] backdrop-blur-md"
               >
                 <button
                   type="button"
                   onClick={() => setModuleInfoOpen(false)}
-                  className="absolute right-2 top-2 flex h-7 w-7 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/10 hover:text-white"
+                  className="absolute right-2 top-2 flex h-6 w-6 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/10 hover:text-white"
                 >
-                  <X size={14} />
+                  <X size={12} />
                 </button>
                 <div className="flex items-start justify-between gap-3 pr-8">
                   <div className="min-w-0">
-                    <div className="text-[9px] font-black uppercase tracking-[0.24em] text-cyan-300/72">
+                    <div className="text-[8px] font-black uppercase tracking-[0.22em] text-cyan-300/72">
                       {selectedModule === "core"
                         ? localize({ en: "Core Chamber", hu: "Magkamra", de: "Kernkammer", ro: "Camera nucleului" })
                         : localize({ en: "Selected Module", hu: "Kiválasztott modul", de: "Gewähltes Modul", ro: "Modul selectat" })}
                     </div>
-                    <div className="mt-1 text-sm font-black leading-tight text-white sm:text-base">
+                    <div className="mt-1 text-[13px] font-black leading-tight text-white sm:text-sm">
                       {localize(selectedModuleInfo.name)}
                     </div>
                   </div>
-                  <div className="rounded-full border border-cyan-400/25 bg-cyan-400/12 px-2.5 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-100">
+                  <div className="rounded-full border border-cyan-400/25 bg-cyan-400/12 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.16em] text-cyan-100">
                     {selectedModule === "core" ? "CORE LVL 1" : "LVL 1"}
                   </div>
                 </div>
-                <div className="mt-2 flex items-center gap-2">
-                  <div className={`rounded-full border px-2.5 py-0.5 text-[10px] font-black uppercase tracking-[0.16em] ${selectedModuleState.online ? "border-emerald-400/30 bg-emerald-400/12 text-emerald-200" : "border-white/10 bg-white/5 text-white/45"}`}>
+                <div className="mt-2 flex items-center gap-1.5">
+                  <div className={`rounded-full border px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.14em] ${selectedModuleState.online ? "border-emerald-400/30 bg-emerald-400/12 text-emerald-200" : "border-white/10 bg-white/5 text-white/45"}`}>
                     {selectedModule === "core"
                       ? localize({ en: "Core ready", hu: "Mag készen", de: "Kern bereit", ro: "Nucleu pregătit" })
                       : selectedModuleState.online
                         ? localize(ui.online)
                         : localize(ui.offline)}
                   </div>
-                  <div className="rounded-full border border-white/10 bg-white/5 px-2.5 py-0.5 text-[10px] font-black uppercase tracking-[0.16em] text-white/65">
+                  <div className="rounded-full border border-white/10 bg-white/5 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.14em] text-white/65">
                     {localize({ en: "Tap node to inspect", hu: "Kopp a node-ra", de: "Node antippen", ro: "Atinge nodul" })}
                   </div>
                 </div>
-                <p className="mt-2 text-[11px] leading-snug text-white/72 sm:text-xs">
+                <p className="mt-2 text-[10px] leading-snug text-white/72 sm:text-[11px]">
                   {localize(selectedModuleInfo.role)}
                 </p>
               </motion.div>
@@ -1357,40 +1341,40 @@ export default function GravitasPage() {
 
         </div>
 
-        <div className="mx-4 mb-2 rounded-xl border border-amber-400/30 bg-amber-400/12 px-4 py-3 shadow-[0_0_20px_rgba(251,191,36,0.08)] backdrop-blur-md">
+        <div className="mx-3 mb-1.5 rounded-xl border border-amber-400/30 bg-amber-400/12 px-3 py-2 shadow-[0_0_20px_rgba(251,191,36,0.08)] backdrop-blur-md">
           <div className="flex items-center gap-2">
-            <AlertTriangle size={14} className="shrink-0 text-amber-300" />
-            <p className="text-[10px] font-black uppercase tracking-tight text-amber-50">
+            <AlertTriangle size={12} className="shrink-0 text-amber-300" />
+            <p className="text-[9px] font-black uppercase tracking-tight text-amber-50">
               {guide.body}
             </p>
           </div>
         </div>
 
         {state.threatCycle === 0 && !bootstrapComplete && (
-          <div className={`mx-4 mb-2 rounded-xl border px-4 py-3 shadow-[0_0_20px_rgba(34,211,238,0.08)] backdrop-blur-md ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/8" : "border-cyan-400/25 bg-cyan-400/8"}`}>
+          <div className={`mx-3 mb-1.5 rounded-xl border px-3 py-2 shadow-[0_0_20px_rgba(34,211,238,0.08)] backdrop-blur-md ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/8" : "border-cyan-400/25 bg-cyan-400/8"}`}>
             <div className="flex items-start justify-between gap-3">
               <div>
-                <div className="text-[10px] font-black uppercase tracking-[0.22em] text-cyan-300">
+                <div className="text-[9px] font-black uppercase tracking-[0.2em] text-cyan-300">
                   {localize(content.ui.bootstrapCheck)}
                 </div>
-                <div className="mt-1 text-[11px] font-bold text-white/70">
+                <div className="mt-1 text-[10px] font-bold text-white/70">
                   {localize(content.ui.bootstrapHint)}
                 </div>
               </div>
-              <div className={`rounded-full border px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.18em] ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/12 text-emerald-200" : "border-amber-400/20 bg-amber-400/12 text-amber-100"}`}>
+              <div className={`rounded-full border px-2 py-0.5 text-[8px] font-black uppercase tracking-[0.16em] ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/12 text-emerald-200" : "border-amber-400/20 bg-amber-400/12 text-amber-100"}`}>
                 {bootstrapPending.length}/4
               </div>
             </div>
-            <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-4">
+            <div className="mt-2 grid grid-cols-2 gap-1.5 sm:grid-cols-4">
               {bootstrapOrder.map((moduleId) => {
                 const Icon = moduleIcon(moduleId);
                 const done = state.bootstrapChecklist[moduleId];
                 return (
                   <div
                     key={moduleId}
-                    className={`flex items-center gap-2 rounded-lg border px-3 py-2 text-[10px] font-black uppercase tracking-[0.16em] ${done ? "border-emerald-400/20 bg-emerald-400/10 text-emerald-100" : "border-white/10 bg-white/5 text-white/45"}`}
+                    className={`flex items-center gap-1.5 rounded-lg border px-2.5 py-1.5 text-[9px] font-black uppercase tracking-[0.14em] ${done ? "border-emerald-400/20 bg-emerald-400/10 text-emerald-100" : "border-white/10 bg-white/5 text-white/45"}`}
                   >
-                    <Icon size={12} className={done ? "text-emerald-300" : "text-white/35"} />
+                    <Icon size={11} className={done ? "text-emerald-300" : "text-white/35"} />
                     <div className="min-w-0 flex-1">
                       <div className="truncate">{localize(content.modules[moduleId].name)}</div>
                       <div className={done ? "text-emerald-200/80" : "text-white/30"}>
@@ -1407,19 +1391,19 @@ export default function GravitasPage() {
         )}
 
         {/* Compact Threat Bar */}
-        <div className={`mx-4 mb-2 p-3 rounded-xl border transition-all duration-500 ${isWavePaused ? "border-cyan-500/30 bg-cyan-500/8" : state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
+        <div className={`mx-3 mb-1.5 p-2.5 rounded-xl border transition-all duration-500 ${isWavePaused ? "border-cyan-500/30 bg-cyan-500/8" : state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs ${isWavePaused ? "border-cyan-300 text-cyan-100" : state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
+              <div className={`w-7 h-7 rounded-full border flex items-center justify-center font-black text-[10px] ${isWavePaused ? "border-cyan-300 text-cyan-100" : state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
                 {state.threat.aftershock > 0 ? state.threat.aftershock : threatCountdownText}
               </div>
               <div className="flex flex-col">
-                <div className="text-[11px] font-black uppercase tracking-widest truncate max-w-[120px]">
+                <div className="text-[10px] font-black uppercase tracking-widest truncate max-w-[120px]">
                   {isWavePaused
                     ? localize({ en: "Wave cycle complete", hu: "Hullámsorozat kész", de: "Wellenzyklus beendet", ro: "Ciclu de valuri încheiat" })
                     : localize(content.threats[state.threat.type])}
                 </div>
-                <div className="text-[9px] font-bold text-white/40 uppercase tracking-tighter">
+                <div className="text-[8px] font-bold text-white/40 uppercase tracking-tighter">
                   {isWavePaused
                     ? localize({ en: "Awaiting avatar awakening", hu: "Az avatar ébredésére vár", de: "Warte auf das Erwachen des Avatars", ro: "Așteaptă trezirea avatarului" })
                     : earlyStage
@@ -1448,7 +1432,7 @@ export default function GravitasPage() {
           </div>
 
           {postWaveSurgeActive && (
-            <div className={`mt-2 rounded-lg border px-2.5 py-2 text-[9px] font-black uppercase tracking-[0.18em] ${postWaveSurgeCalm ? "border-cyan-400/20 bg-cyan-400/6 text-cyan-100/65" : "border-amber-400/30 bg-amber-400/8 text-amber-100"}`}>
+            <div className={`mt-2 rounded-lg border px-2.5 py-2 text-[8px] font-black uppercase tracking-[0.16em] ${postWaveSurgeCalm ? "border-cyan-400/20 bg-cyan-400/6 text-cyan-100/65" : "border-amber-400/30 bg-amber-400/8 text-amber-100"}`}>
               <div className="flex items-center justify-between gap-3">
                 <span>
                   {postWaveSurgeCalm
@@ -1459,7 +1443,7 @@ export default function GravitasPage() {
                   {postWaveDisplay}
                 </span>
               </div>
-              <div className="mt-1 text-[8px] leading-relaxed tracking-[0.16em] text-white/45">
+              <div className="mt-1 text-[7px] leading-relaxed tracking-[0.15em] text-white/45">
                 {postWaveSurgeCalm
                   ? localize({ en: "The frame is quiet. Something is lining up beneath the shell.", hu: "A keret nyugodt. Valami a burok alatt rendeződik.", de: "Der Rahmen ist ruhig. Etwas richtet sich unter der Hülle aus.", ro: "Cadrul e liniștit. Ceva se aliniază sub carcasă." })
                   : localize({ en: "Stay ready. The shell is preparing to answer.", hu: "Légy készen. A test válaszra készül.", de: "Bereit bleiben. Die Hülle bereitet eine Antwort vor.", ro: "Rămâi pregătit. Corpul se pregătește să răspundă." })}
@@ -1477,14 +1461,14 @@ export default function GravitasPage() {
           )}
 
           {state.avatarProfile && state.avatarProfile.answers.length >= 3 && (
-            <div className="mt-2 rounded-lg border border-fuchsia-400/20 bg-fuchsia-400/8 px-2.5 py-2 text-[9px] font-black uppercase tracking-[0.18em] text-fuchsia-100">
+            <div className="mt-2 rounded-lg border border-fuchsia-400/20 bg-fuchsia-400/8 px-2.5 py-2 text-[8px] font-black uppercase tracking-[0.16em] text-fuchsia-100">
               <div className="flex items-center justify-between gap-3">
                 <span>
                   {localize({ en: "Avatar imprint", hu: "Avatar lenyomat", de: "Avatar-Prägung", ro: "Amprentă avatar" })}
                 </span>
                 <span>{localize(state.avatarProfile.title)}</span>
               </div>
-              <div className="mt-1 flex flex-wrap gap-1.5 text-[8px] tracking-[0.16em] text-white/55">
+              <div className="mt-1 flex flex-wrap gap-1.5 text-[7px] tracking-[0.15em] text-white/55">
                 {state.avatarProfile.answers.map((answer, idx) => (
                   <span key={`${answer.questionId}-${answer.optionId}-${idx}`} className="rounded-full border border-white/10 bg-black/20 px-2 py-0.5">
                     {idx + 1}. {localize(answer.label)}
@@ -1495,7 +1479,7 @@ export default function GravitasPage() {
           )}
 
           {earlyStage && state.threat.aftershock === 0 && (
-            <div className="mt-2 text-[9px] font-bold uppercase tracking-[0.18em] text-cyan-200/65">
+            <div className="mt-2 text-[8px] font-bold uppercase tracking-[0.16em] text-cyan-200/65">
               {introStage
                 ? localize({
                     en: "Learn the controls. Station pressure is being held back.",
@@ -1515,11 +1499,11 @@ export default function GravitasPage() {
           {state.threat.countdown <= 5 && state.threat.aftershock === 0 && !isWavePaused && (
             <div className="mt-2 pt-2 border-t border-white/5">
               {!state.modules.sensor.online ? (
-                <div className="text-[9px] font-bold text-white/20 uppercase">
+                <div className="text-[8px] font-bold text-white/20 uppercase">
                   {localize({ en: "Sensor offline — no forecast available", hu: "Szenzor offline — előrejelzés nem elérhető", de: "Sensor offline — keine Vorhersage verfügbar", ro: "Senzor offline — prognoză indisponibilă" })}
                 </div>
               ) : (
-                <div className="text-[9px] font-bold text-amber-400/80 uppercase">
+                <div className="text-[8px] font-bold text-amber-400/80 uppercase">
                   {(() => {
                     const preview = getUpcomingDamagePreview(state);
                     if (!preview) return null;
@@ -1541,23 +1525,8 @@ export default function GravitasPage() {
         </div>
 
         {/* Journal Preview */}
-        <button 
-          onClick={() => setActivePanel("journal")}
-          className="mx-4 mb-4 p-2 rounded-lg bg-black/20 border border-white/5 flex flex-col gap-0.5 overflow-hidden group hover:bg-black/40 transition"
-        >
-          {state.journal.slice(0, 3).map((line, idx) => (
-            <div key={idx} className="flex gap-2 text-[10px] text-white/60 truncate group-hover:text-white/85 transition">
-              <span className="font-black text-white/45 uppercase shrink-0">T{line.tick}</span>
-              <span className="truncate">{localize(line.text)}</span>
-            </div>
-          ))}
-          {state.journal.length === 0 && (
-            <div className="text-[10px] text-white/40 italic">System log empty...</div>
-          )}
-        </button>
-
         {/* Panel Tabs */}
-        <div className="grid grid-cols-3 gap-2 px-4 mb-20 lg:mb-4">
+        <div className="grid grid-cols-3 gap-2 px-3 mb-16 lg:mb-4">
           <PanelTab
             icon={<LayoutGrid size={18} />}
             label={localize(ui.modules)}
@@ -1576,17 +1545,6 @@ export default function GravitasPage() {
             active={activePanel === "journal"}
             onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
           />
-          {state.phase === "activation" && (
-            <div className="col-span-3">
-              <PanelTab
-                icon={<Activity size={18} />}
-                label={localize(ui.phaseActivation)}
-                active={activePanel === "activation"}
-                emphasis={guide.focus === "activation"}
-                onClick={() => setActivePanel(activePanel === "activation" ? null : "activation")}
-              />
-            </div>
-          )}
         </div>
       </div>
 
@@ -1598,33 +1556,33 @@ export default function GravitasPage() {
             setSelectedModule(state.recoveryPriority!.moduleId);
             setActivePanel("modules");
           }}
-          className="fixed bottom-[88px] left-4 right-4 z-[45] p-3 rounded-xl bg-amber-400 text-black flex items-center justify-between gap-3 animate-pulse shadow-lg lg:static lg:mb-4 lg:mx-6"
+          className="fixed bottom-[84px] left-3 right-3 z-[45] p-2.5 rounded-xl bg-amber-400 text-black flex items-center justify-between gap-3 animate-pulse shadow-lg lg:static lg:mb-3 lg:mx-4"
         >
-          <div className="flex items-center gap-2 font-black text-[10px] uppercase tracking-tighter">
-            <AlertTriangle size={14} />
+          <div className="flex items-center gap-2 font-black text-[9px] uppercase tracking-tighter">
+            <AlertTriangle size={12} />
             <span>{localize(state.modules[state.recoveryPriority.moduleId].name)} {localize({en: "critical — repair first", hu: "kritikus — javítsd először", de: "kritisch — erst reparieren", ro: "critic — repară mai întâi"})}</span>
           </div>
-          <ChevronLeft size={14} className="rotate-180" />
+          <ChevronLeft size={12} className="rotate-180" />
         </motion.button>
       )}
 
       {activeOperation && (
-        <div className="mx-4 mb-3 rounded-2xl border border-cyan-400/20 bg-cyan-400/8 p-3 backdrop-blur-sm">
+        <div className="mx-3 mb-2 rounded-2xl border border-cyan-400/20 bg-cyan-400/8 p-2.5 backdrop-blur-sm">
           <div className="flex items-start justify-between gap-3">
             <div className="min-w-0">
-              <div className="text-[9px] font-black uppercase tracking-[0.22em] text-cyan-300">
+              <div className="text-[8px] font-black uppercase tracking-[0.2em] text-cyan-300">
                 {localize({ en: "Active operation", hu: "Aktív művelet", de: "Aktiver Vorgang", ro: "Operațiune activă" })}
               </div>
-              <div className="mt-1 text-sm font-black text-white">
+              <div className="mt-1 text-[13px] font-black text-white">
                 {localize(activeOperation.title)}
               </div>
-              <div className="mt-1 text-[11px] leading-snug text-white/60">
+              <div className="mt-1 text-[10px] leading-snug text-white/60">
                 {localize(activeOperation.detail)}
               </div>
             </div>
             <div className="shrink-0 text-right">
-              <div className="text-[10px] font-black text-cyan-100">{activeOperation.remaining}T</div>
-              <div className="text-[9px] uppercase tracking-[0.18em] text-white/35">
+              <div className="text-[9px] font-black text-cyan-100">{activeOperation.remaining}T</div>
+              <div className="text-[8px] uppercase tracking-[0.16em] text-white/35">
                 {localize({ en: "remaining", hu: "hátra", de: "verbleibend", ro: "rămase" })}
               </div>
             </div>
@@ -1639,22 +1597,22 @@ export default function GravitasPage() {
       )}
 
       {scavengeOperation && (
-        <div className="mx-4 mb-3 rounded-2xl border border-emerald-400/20 bg-emerald-400/8 p-3 backdrop-blur-sm">
+        <div className="mx-3 mb-2 rounded-2xl border border-emerald-400/20 bg-emerald-400/8 p-2.5 backdrop-blur-sm">
           <div className="flex items-start justify-between gap-3">
             <div className="min-w-0">
-              <div className="text-[9px] font-black uppercase tracking-[0.22em] text-emerald-300">
+              <div className="text-[8px] font-black uppercase tracking-[0.2em] text-emerald-300">
                 {localize({ en: "Drone sweep active", hu: "Drónküldés aktív", de: "Drohnenflug aktiv", ro: "Cursa dronei este activă" })}
               </div>
-              <div className="mt-1 text-sm font-black text-white">
+              <div className="mt-1 text-[13px] font-black text-white">
                 {localize({ en: "Salvage drones are collecting materials", hu: "A mentődrónok anyagot gyűjtenek", de: "Bergungsdrohnen sammeln Material", ro: "Dronele de salvare colectează materiale" })}
               </div>
-              <div className="mt-1 text-[11px] leading-snug text-white/60">
+              <div className="mt-1 text-[10px] leading-snug text-white/60">
                 {localize({ en: "Tap the material command again to recall them. Each completed sweep brings back fresh resources.", hu: "Érintsd meg újra az anyaggyűjtést a visszahíváshoz. Minden befejezett kör új nyersanyagot hoz vissza.", de: "Tippe erneut auf Materialsuche, um sie zurückzurufen. Jeder abgeschlossene Flug bringt neue Ressourcen zurück.", ro: "Apasă din nou pe colectare ca să le rechemi. Fiecare cursă completă aduce resurse noi." })}
               </div>
             </div>
             <div className="shrink-0 text-right">
-              <div className="text-[10px] font-black text-emerald-100">{scavengeOperation.remaining}T</div>
-              <div className="text-[9px] uppercase tracking-[0.18em] text-white/35">
+              <div className="text-[9px] font-black text-emerald-100">{scavengeOperation.remaining}T</div>
+              <div className="text-[8px] uppercase tracking-[0.16em] text-white/35">
                 {localize({ en: "to haul", hu: "begyűjtésig", de: "bis Rückkehr", ro: "până la întoarcere" })}
               </div>
             </div>
@@ -1669,8 +1627,8 @@ export default function GravitasPage() {
       )}
 
       {/* Main Actions - Bottom Bar */}
-      <nav className="fixed bottom-0 left-0 right-0 p-4 pb-[calc(1.5rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
-        <div className="mb-2 text-[9px] font-black uppercase tracking-[0.18em] text-white/40">
+      <nav className="fixed bottom-0 left-0 right-0 p-2.5 pb-[calc(1rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 z-40 lg:static lg:bg-transparent lg:border-none lg:p-4 lg:max-w-4xl lg:mx-auto">
+        <div className="mb-1.5 text-[8px] font-black uppercase tracking-[0.16em] text-white/40">
           {earlyStage
             ? localize({
                 en: "Start a process once. Tap the same command again if you want to stop it.",
@@ -1685,21 +1643,21 @@ export default function GravitasPage() {
                 ro: "Menține rețeaua stabilă și pregătește-te pentru următorul val.",
               })}
         </div>
-        <div className="mb-2 flex items-center justify-between gap-3">
-          <div className="text-[10px] font-black uppercase tracking-[0.2em] text-cyan-300/75">
+        <div className="mb-1.5 flex items-center justify-between gap-3">
+          <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-300/75">
             {localize({ en: "Quick Commands", hu: "Gyors parancsok", de: "Schnellbefehle", ro: "Comenzi rapide" })}
           </div>
           {systemsAction && (
             <button
               type="button"
               onClick={systemsAction.onClick}
-              className={`shrink-0 rounded-full border px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.18em] transition ${systemsAction.highlight ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100" : "border-white/10 bg-white/5 text-white/70 hover:bg-white/10"}`}
+              className={`shrink-0 rounded-full border px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.16em] transition ${systemsAction.highlight ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100" : "border-white/10 bg-white/5 text-white/70 hover:bg-white/10"}`}
             >
               {systemsAction.label}
             </button>
           )}
         </div>
-        <div className="grid grid-cols-4 gap-2 lg:hidden">
+        <div className="grid grid-cols-4 gap-1.5 lg:hidden">
           {prioritizedMobileActions.map((action) => (
             <MainAction
               key={action.key}
@@ -1718,27 +1676,27 @@ export default function GravitasPage() {
             />
           ))}
           {Array.from({ length: Math.max(0, 3 - prioritizedMobileActions.length) }).map((_, idx) => (
-            <div key={`quick-spacer-${idx}`} className="h-14 rounded-xl border border-dashed border-white/5 bg-white/[0.02]" />
+            <div key={`quick-spacer-${idx}`} className="h-12 rounded-xl border border-dashed border-white/5 bg-white/[0.02]" />
           ))}
           <button
             type="button"
             onClick={() => setQuickActionsOpen(true)}
-            className={`relative flex h-14 min-h-[52px] flex-col items-center justify-center gap-1 rounded-xl border px-2 transition-all active:scale-95 ${
+            className={`relative flex h-12 min-h-[46px] flex-col items-center justify-center gap-0.5 rounded-xl border px-1.5 transition-all active:scale-95 ${
               quickActionsOpen
                 ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100"
                 : "border-white/10 bg-white/5 text-white/80"
             }`}
           >
-            <div className="flex items-center gap-1.5 text-[11px] font-black uppercase tracking-[0.12em]">
-              <Layers size={14} />
+            <div className="flex items-center gap-1 text-[10px] font-black uppercase tracking-[0.1em]">
+              <Layers size={12} />
               <span>{localize({ en: "More", hu: "Több", de: "Mehr", ro: "Mai mult" })}</span>
             </div>
-            <div className="text-[9px] uppercase tracking-[0.16em] text-white/45">
+            <div className="text-[8px] uppercase tracking-[0.14em] text-white/45">
               {overflowQuickActions.length > 0
                 ? `+${overflowQuickActions.length}`
                 : localize({ en: "Menu", hu: "Menü", de: "Menü", ro: "Meniu" })}
             </div>
-            {hiddenUrgentActions && <div className="absolute right-2 top-2 h-2.5 w-2.5 rounded-full bg-amber-300 shadow-[0_0_12px_rgba(252,211,77,0.8)]" />}
+            {hiddenUrgentActions && <div className="absolute right-1.5 top-1.5 h-2 w-2 rounded-full bg-amber-300 shadow-[0_0_12px_rgba(252,211,77,0.8)]" />}
           </button>
         </div>
         <div className="hidden gap-2 overflow-x-auto no-scrollbar scrollbar-hide pb-1 lg:flex">
@@ -1902,7 +1860,6 @@ export default function GravitasPage() {
                 {activePanel === "modules" && <><LayoutGrid size={20} className="text-cyan-400" /> {localize(ui.modules)}</>}
                 {activePanel === "marks" && <><ShieldHalf size={20} className="text-rose-400" /> {localize(ui.marks)}</>}
                 {activePanel === "journal" && <><FileText size={20} className="text-amber-400" /> {localize(ui.journal)}</>}
-                {activePanel === "activation" && <><Activity size={20} className="text-pink-400" /> {localize(ui.phaseActivation)}</>}
               </h2>
               <button onClick={() => setActivePanel(null)} className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center">
                 <X size={20} />
@@ -2079,44 +2036,6 @@ export default function GravitasPage() {
                 </div>
               )}
 
-              {activePanel === "activation" && (
-                state.avatarAwake ? (
-                  <div className="rounded-2xl border border-fuchsia-400/20 bg-fuchsia-500/8 p-5 text-center">
-                    <div className="text-[10px] font-black uppercase tracking-[0.28em] text-fuchsia-300">
-                      {localize({ en: "Awakening complete", hu: "Ébredés kész", de: "Erwachen abgeschlossen", ro: "Trezire completă" })}
-                    </div>
-                    <div className="mt-2 text-sm font-black text-white">
-                      {localize(content.victory.firstLoopTitle)}
-                    </div>
-                    <div className="mt-2 text-[11px] leading-relaxed text-white/60">
-                      {localize(content.ui.awakened)}
-                    </div>
-                  </div>
-                ) : avatarImprintStageActive && state.avatarImprintActive && state.avatarProfile ? (
-                  <GravitasImprint
-                    state={state}
-                    profile={state.avatarProfile}
-                    onBeginHold={beginImprintHold}
-                    onStopHold={stopImprintHold}
-                  />
-                ) : (
-                  <GravitasActivation
-                    state={state}
-                    t={{
-                      transferTitle: localize(ui.transferTitle),
-                      transferReady: localize(ui.transferReady),
-                      transferLocked: localize(ui.transferLocked),
-                      transferStageLabel: localize(ui.transferStageLabel),
-                      hold: localize(ui.hold),
-                      awakeningMoment: localize(ui.awakeningMoment),
-                      awakeningBody: localize(ui.awakeningBody),
-                      resonance: localize(ui.resonance),
-                    }}
-                    onBeginTransfer={beginTransfer}
-                    onStopTransfer={stopTransfer}
-                  />
-                )
-              )}
             </div>
           </motion.div>
         )}
@@ -2348,16 +2267,16 @@ function MainAction({
       <button
         disabled={disabled}
         onClick={onClick}
-        className={`relative min-h-[72px] rounded-2xl border p-4 text-left transition-all active:scale-[0.98] ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
+        className={`relative min-h-[64px] rounded-2xl border p-3 text-left transition-all active:scale-[0.98] ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
       >
-        <div className="flex items-start gap-3">
+        <div className="flex items-start gap-2.5">
           {icon && (
-            <div className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-white/10 bg-black/15">
+            <div className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-xl border border-white/10 bg-black/15">
               {icon}
             </div>
           )}
           <div className="min-w-0">
-            <div className="text-sm font-black uppercase tracking-[0.08em]">{label}</div>
+            <div className="text-[13px] font-black uppercase tracking-[0.08em]">{label}</div>
           </div>
         </div>
         {disabled && (
@@ -2375,10 +2294,10 @@ function MainAction({
       <button
         disabled={disabled}
         onClick={onClick}
-        className={`relative flex h-14 min-h-[52px] min-w-0 flex-col items-center justify-center gap-1 rounded-xl border px-2 text-center transition-all active:scale-95 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
+        className={`relative flex h-12 min-h-[46px] min-w-0 flex-col items-center justify-center gap-0.5 rounded-xl border px-1.5 text-center transition-all active:scale-95 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
       >
         {icon}
-        <span className="line-clamp-2 text-[10px] font-black uppercase leading-tight tracking-[0.08em]">
+        <span className="line-clamp-2 text-[9px] font-black uppercase leading-tight tracking-[0.08em]">
           {shortLabel ?? label}
         </span>
         {disabled && (
@@ -2395,7 +2314,7 @@ function MainAction({
     <button
       disabled={disabled}
       onClick={onClick}
-      className={`relative h-14 min-h-[52px] min-w-[122px] rounded-xl border px-3 font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
+      className={`relative h-12 min-h-[46px] min-w-[108px] rounded-xl border px-2.5 font-black text-[11px] uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
     >
       <span className="flex items-center justify-center gap-2">
         {icon}

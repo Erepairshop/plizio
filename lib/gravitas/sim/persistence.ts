@@ -1,5 +1,6 @@
 import type { StarholdState } from "./types";
 import { inferBootstrapChecklist } from "./bootstrap";
+import { normalizeRepairChallenge } from "./events";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -57,26 +58,34 @@ export function loadGravitasState(): StarholdState | null {
     };
 
     if (!parsed.avatarAwake && parsed.threat.aftershock === 0) {
-      if ((parsed.threatCycle ?? 0) === 0 && parsed.tick < 120) {
+      if ((parsed.threatCycle ?? 0) === 0 && parsed.tick < 90) {
         migratedThreat = {
           ...migratedThreat,
           type: "distortionWave",
-          countdown: Math.max(1, 120 - parsed.tick),
-          totalDuration: 120,
+          countdown: Math.max(1, 90 - parsed.tick),
+          totalDuration: 90,
           intensity: 1,
         };
-      } else if ((parsed.threatCycle ?? 0) === 1 && parsed.tick < 240) {
+      } else if ((parsed.threatCycle ?? 0) === 1 && parsed.tick < 135) {
         migratedThreat = {
           ...migratedThreat,
           type: "distortionWave",
-          countdown: Math.max(1, 240 - parsed.tick),
-          totalDuration: 120,
+          countdown: Math.max(1, 135 - parsed.tick),
+          totalDuration: 45,
+          intensity: Math.max(1, migratedThreat.intensity ?? 1),
+        };
+      } else if ((parsed.threatCycle ?? 0) === 2 && parsed.tick < 180) {
+        migratedThreat = {
+          ...migratedThreat,
+          type: "distortionWave",
+          countdown: Math.max(1, 180 - parsed.tick),
+          totalDuration: 45,
           intensity: Math.max(1, migratedThreat.intensity ?? 1),
         };
       }
     }
 
-    return {
+    const nextState: StarholdState = {
       ...parsed,
       threatCycle: parsed.threatCycle ?? 0,
       lastAvatarPulse: parsed.lastAvatarPulse ?? -100,
@@ -115,10 +124,13 @@ export function loadGravitasState(): StarholdState | null {
         promptIndex: parsed.repairChallenge?.promptIndex ?? 0,
         sequence: parsed.repairChallenge?.sequence ?? [],
         windowSatisfied: parsed.repairChallenge?.windowSatisfied ?? false,
+        unlocksAvatarPrep: parsed.repairChallenge?.unlocksAvatarPrep ?? false,
       },
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
     };
+    nextState.repairChallenge = normalizeRepairChallenge(nextState.repairChallenge, nextState.threatCycle);
+    return nextState;
   } catch {
     return null;
   }

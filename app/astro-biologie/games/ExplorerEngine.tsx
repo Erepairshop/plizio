@@ -7,8 +7,8 @@
 
 import { memo, useState, useCallback, useMemo, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, Volume2, Mic, MicOff, MessageCircleQuestion, Loader2 } from "lucide-react";
-import { askWhyCorrect, askAITutor } from "@/lib/aiChat";
+import { ChevronRight, Volume2, Mic, MicOff, Loader2 } from "lucide-react";
+import { askAITutor } from "@/lib/aiChat";
 import { getUsername } from "@/lib/username";
 import BlockDrag from "@/components/interactive/BlockDrag";
 import NumberLineTap from "@/components/interactive/NumberLineTap";
@@ -422,8 +422,8 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const totalRounds = rounds.length;
   const aiSubject = useMemo(() => subject || deriveSubject(explorerId), [explorerId, subject]);
 
-  // AI enhanced mode — activates on 2nd+ play
-  const [aiEnhanced] = useState(() => subject === "chemie" || (explorerId ? getPlayCount(explorerId) >= 1 : false));
+  // AI auto mode disabled: keep only manual helper buttons.
+  const aiEnhanced = false;
   const playCountTracked = useRef(false);
 
   // Track play count on mount
@@ -458,7 +458,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     hasWelcome ? "welcome"
     : isTopicMode ? "topic-teach"
     : firstIsInteractive ? "interactive"
-    : aiEnhanced ? "think-first"
     : "info"
   );
 
@@ -466,7 +465,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   const mascotSrc =
     phase === "welcome"
       ? "/images/explorer/robot-reading.webp"
-      : phase === "info" || phase === "topic-teach" || phase === "think-first"
+      : phase === "info" || phase === "topic-teach"
       ? "/images/explorer/robot-scroll.webp"
       : "/images/explorer/robot-magnifier.webp";
 
@@ -559,7 +558,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       const nextIsInteractive = nextRound && (nextRound.type === "tap-count" || nextRound.type === "compare" || nextRound.type === "fill-in" || nextRound.type === "custom");
       setRound(round + 1);
       // Interactive rounds skip info phase (they ARE the visual experience)
-      setPhase(nextIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+      setPhase(nextIsInteractive ? "interactive" : "info");
       setSubIdx(0);
       setSelected(null);
       setLocked(false);
@@ -721,9 +720,9 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     if (isTopicMode) {
       setPhase("topic-teach");
     } else {
-      setPhase(firstIsInteractive ? "interactive" : aiEnhanced ? "think-first" : "info");
+      setPhase(firstIsInteractive ? "interactive" : "info");
     }
-  }, [firstIsInteractive, aiEnhanced, isTopicMode]);
+  }, [firstIsInteractive, isTopicMode]);
 
   // ── Topic-mode: advance through teach → interact → quiz → next topic ───
   const advanceTopicPhase = useCallback(() => {
@@ -843,66 +842,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
     }
   }, [round, phase, topicIdx]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // ── AI: "Why?" after wrong answer ──────────────────────────────────────
-  const handleAskWhy = useCallback(async () => {
-    const currentQ = getCurrentQuestion();
-    if (!currentQ || !selected || aiLoading) return;
-
-    // Stop auto-advance — user wants to read the explanation
-    if (autoAdvanceRef.current) {
-      clearTimeout(autoAdvanceRef.current);
-      autoAdvanceRef.current = null;
-    }
-    setAiActive(true);
-    setAiLoading(true);
-    setAiResponse(null);
-    const result = await askWhyCorrect({
-      question: L(currentQ.question),
-      wrongAnswer: L(selected),
-      correctAnswer: L(currentQ.answer),
-      topic: L(currentRound.infoTitle),
-      lang: langCode,
-      grade,
-      subject: aiSubject,
-    });
-    setAiLoading(false);
-    if (result) {
-      setAiResponse(result);
-      speak(result);
-    } else {
-      setAiResponse(ui.aiError);
-    }
-  }, [getCurrentQuestion, selected, aiLoading, currentRound, langCode, speak, L, ui.aiError, grade, aiSubject]);
-
-  const handleTopicAskWhy = useCallback(async () => {
-    const topic = topics[topicIdx];
-    if (!topic || !topicQuizSelected || aiLoading) return;
-
-    if (topicAutoAdvanceRef.current) {
-      clearTimeout(topicAutoAdvanceRef.current);
-      topicAutoAdvanceRef.current = null;
-    }
-    setAiActive(true);
-    setAiLoading(true);
-    setAiResponse(null);
-    const result = await askWhyCorrect({
-      question: L(topic.quiz.question),
-      wrongAnswer: L(topicQuizSelected),
-      correctAnswer: L(topic.quiz.answer),
-      topic: L(topic.infoTitle),
-      lang: langCode,
-      grade,
-      subject: aiSubject,
-    });
-    setAiLoading(false);
-    if (result) {
-      setAiResponse(result);
-      speak(result);
-    } else {
-      setAiResponse(ui.aiError);
-    }
-  }, [topics, topicIdx, topicQuizSelected, aiLoading, langCode, grade, speak, L, ui.aiError, aiSubject]);
-
   // ── AI: Free question (voice or text) ──────────────────────────────────
   const handleAskFree = useCallback(async (text: string) => {
     if (!text.trim() || aiLoading) return;
@@ -976,30 +915,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
       setAiResponse(ui.aiError);
     }
   }, [currentRound, currentTopic, isTopicMode, aiLoading, langCode, grade, aiSubject, L, speak, ui.aiError]);
-
-  const handleAskSimilar = useCallback(async () => {
-    const topic = isTopicMode ? currentTopic : null;
-    if (!topic || !topicQuizSelected || aiLoading) return;
-
-    setAiLoading(true);
-    setAiResponse(null);
-    const result = await askAITutor({
-      question: `Make one similar practice question to this. Original question: ${L(topic.quiz.question)}. Correct answer: ${L(topic.quiz.answer)}.`,
-      context: `Grade ${grade || "?"}: ${L(topic.infoTitle)} — ${L(topic.infoText)}`,
-      lang: langCode,
-      grade,
-      subject: aiSubject,
-      mode: "similar",
-      maxTokens: 140,
-    });
-    setAiLoading(false);
-    if (result) {
-      setAiResponse(result);
-      speak(result);
-    } else {
-      setAiResponse(ui.aiError);
-    }
-  }, [currentTopic, topicQuizSelected, aiLoading, langCode, grade, aiSubject, L, speak, ui.aiError, isTopicMode]);
 
   // ── Voice recognition (STT) ────────────────────────────────────────────
   const toggleVoice = useCallback(() => {
@@ -1777,7 +1692,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
 
                       return (
                         <motion.button
-                          key={choiceKey}
+                        key={`${choiceKey}-${ci}`}
                           initial={{ opacity: 0, x: -15 }}
                           animate={{ opacity: 1, x: 0 }}
                           transition={{ delay: 0.1 + ci * 0.06, type: "spring", stiffness: 300, damping: 25 }}
@@ -1832,19 +1747,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       transition={{ delay: 0.2 }}
                       className="flex items-center gap-2 flex-wrap justify-center"
                     >
-                      <button
-                        onClick={handleTopicAskWhy}
-                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-purple-500/20 border border-purple-500/30 text-purple-300 hover:bg-purple-500/30 transition-colors"
-                      >
-                        <MessageCircleQuestion size={14} />
-                        {ui.askWhy}
-                      </button>
-                      <button
-                        onClick={handleAskSimilar}
-                        className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-sky-500/20 border border-sky-500/30 text-sky-300 hover:bg-sky-500/30 transition-colors"
-                      >
-                        {ui.similar}
-                      </button>
                       <button
                         onClick={() => {
                           setTopicQuizSelected(null);
@@ -2203,7 +2105,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                       {selected === getCurrentQuestion()?.answer ? ui.correct : ui.wrong}
                     </span>
 
-                    {/* Wrong answer: "Why?" + "Next" buttons */}
+                    {/* Wrong answer: continue */}
                     {selected !== getCurrentQuestion()?.answer && !aiResponse && !aiLoading && (
                       <motion.div
                         initial={{ opacity: 0, scale: 0.9 }}
@@ -2211,13 +2113,6 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
                         transition={{ delay: 0.3 }}
                         className="flex items-center gap-2"
                       >
-                        <button
-                          onClick={handleAskWhy}
-                          className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-purple-500/20 border border-purple-500/30 text-purple-300 hover:bg-purple-500/30 transition-colors"
-                        >
-                          <MessageCircleQuestion size={14} />
-                          {ui.askWhy}
-                        </button>
                         <button
                           onClick={() => advanceSub()}
                           className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-white/10 border border-white/20 text-white/70 hover:bg-white/20 transition-colors"
@@ -2589,17 +2484,25 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         </>
       ) : null}
 
-      {/* ── MASCOT ── phase-aware robot character, bottom-right corner */}
-      <motion.img
+      {/* ── MASCOT ── phase-aware robot character, bottom-left corner */}
+      <motion.div
         key={mascotSrc}
-        src={mascotSrc}
-        alt=""
         initial={{ opacity: 0, scale: 0.75, y: 12 }}
         animate={{ opacity: 1, scale: 1, y: 0 }}
         transition={{ duration: 0.4, ease: "easeOut" }}
-        className="absolute bottom-3 left-3 w-20 h-20 object-contain pointer-events-none z-10 select-none"
-        style={{ filter: "drop-shadow(0 4px 14px rgba(0,0,0,0.45))" }}
-      />
+        className="absolute bottom-3 left-3 z-10 flex h-24 w-24 items-center justify-center overflow-hidden rounded-[28px] border border-white/12 pointer-events-none select-none shadow-[0_10px_30px_rgba(0,0,0,0.35)]"
+        style={{
+          background:
+            "radial-gradient(circle at 30% 30%, rgba(255,255,255,0.18), rgba(255,255,255,0.08) 36%, rgba(8,10,24,0.94) 100%)",
+        }}
+      >
+        <img
+          src={mascotSrc}
+          alt=""
+          className="h-full w-full object-contain p-1.5"
+          style={{ filter: "drop-shadow(0 4px 14px rgba(0,0,0,0.45))" }}
+        />
+      </motion.div>
     </div>
   );
 }

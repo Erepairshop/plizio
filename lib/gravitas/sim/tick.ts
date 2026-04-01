@@ -1,5 +1,5 @@
 import type { StarholdModuleId, StarholdState, LocalizedString } from "./types";
-import { applyStarholdEvents, createAvatarPreparationEvent, failRepairChallenge, advanceRepairChallengeWindow } from "./events";
+import { applyStarholdEvents, createAvatarPreparationEvent, failRepairChallenge, advanceRepairChallengeWindow, normalizeRepairChallenge } from "./events";
 import { clamp } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { coolDownResonance } from "./activation";
@@ -17,7 +17,7 @@ function completeActiveOperation(state: StarholdState): StarholdState {
   const mods = getStarholdModifiers(state);
   switch (op.type) {
     case "stabilizeReactor": {
-      const introWindow = state.phase === "boot" && state.tick < 30;
+      const introWindow = state.phase === "boot" && state.tick < 90;
       const profile = getModuleActionProfile("reactor");
       const nextLoad = addModuleLoad(state, "reactor", profile.loadShift).load;
       const gainMult = mods.recoveryEfficiency;
@@ -35,7 +35,7 @@ function completeActiveOperation(state: StarholdState): StarholdState {
           : {
               active: true,
               completedStabilizations,
-              nextPromptTick: state.tick + 24,
+              nextPromptTick: state.tick + 30,
             }
         : state.reactorRecovery;
       const recoveryAlert: LocalizedString = recoveringFirstWave && completedStabilizations >= 2
@@ -71,7 +71,7 @@ function completeActiveOperation(state: StarholdState): StarholdState {
     }
     case "repairModule": {
       if (!op.moduleId) return { ...state, activeOperation: null };
-      const introWindow = state.phase === "boot" && state.tick < 36;
+      const introWindow = state.phase === "boot" && state.tick < 90;
       const profile = getModuleActionProfile(op.moduleId);
       const target = state.modules[op.moduleId];
       const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
@@ -96,7 +96,7 @@ function completeActiveOperation(state: StarholdState): StarholdState {
       };
     }
     case "rerouteCore": {
-      const introWindow = state.phase === "boot" && state.tick < 40;
+      const introWindow = state.phase === "boot" && state.tick < 90;
       return {
         ...state,
         activeOperation: null,
@@ -175,7 +175,15 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
   };
 }
 
-export function advanceStarholdTick(state: StarholdState): StarholdState {
+export function advanceStarholdTick(inputState: StarholdState): StarholdState {
+  let state = inputState;
+  const normalizedRepairChallenge = normalizeRepairChallenge(state.repairChallenge, state.threatCycle);
+  if (normalizedRepairChallenge !== state.repairChallenge) {
+    state = {
+      ...state,
+      repairChallenge: normalizedRepairChallenge,
+    };
+  }
   if (state.pendingEvent?.id === "avatarPreparation" || (state.avatarImprintActive && !state.avatarAwake)) {
     return state;
   }
@@ -194,7 +202,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       },
     });
   }
-  const scriptedPhaseOne = !state.avatarAwake && state.tick < 300;
+  const scriptedPhaseOne = !state.avatarAwake && state.tick < 180;
   const mods = getStarholdModifiers(state);
   const nextQuietTicks = Math.max(0, (state.eventQuietTicks ?? 0) - 1);
   const recoveryCalmWindow = (state.waveRecoveryCalmTicks ?? 0) > 0;
@@ -220,7 +228,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       }),
     });
   }
-  const introWindow = state.phase === "boot" && state.tick < 18;
+  const introWindow = state.phase === "boot" && state.tick < 90;
   const settlingWindow = !state.avatarAwake && state.tick < 70;
   const earlyWindow = !state.avatarAwake && state.tick < 100;
   const firstWaveRecoveryActive =

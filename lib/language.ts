@@ -3,12 +3,12 @@ export type Language = "hu" | "de" | "en" | "ro";
 const STORAGE_KEY = "plizio_language";
 
 export function detectBrowserLanguage(): Language {
-  if (typeof window === "undefined") return "en";
+  if (typeof window === "undefined") return "hu";
   const nav = navigator.language.toLowerCase();
   if (nav.startsWith("hu")) return "hu";
   if (nav.startsWith("de")) return "de";
   if (nav.startsWith("ro")) return "ro";
-  return "en";
+  return "hu";
 }
 
 export function getSavedLanguage(): Language | null {
