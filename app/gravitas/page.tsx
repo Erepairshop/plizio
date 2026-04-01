@@ -197,10 +197,10 @@ export default function GravitasPage() {
       };
     }
 
-    fallbackId = window.setTimeout(activate, 250);
+    fallbackId = (window as Window).setTimeout(activate, 250);
     return () => {
       cancelled = true;
-      if (fallbackId !== null) window.clearTimeout(fallbackId);
+      if (fallbackId !== null) (window as Window).clearTimeout(fallbackId);
     };
   }, []);
 
