@@ -161,9 +161,9 @@ export class GravitasBaseScene extends Phaser.Scene {
     for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
       if (moduleId === "core") continue;
 
-      const glow = this.add.circle(pos.x, pos.y, 54, SECTOR_COLORS[moduleId], 0.12);
-      const ring = this.add.circle(pos.x, pos.y, 36, 0x000000, 0).setStrokeStyle(2, SECTOR_COLORS[moduleId], 0.25);
-      const shell = this.add.circle(pos.x, pos.y, 28, 0x0f172a, 0.96).setStrokeStyle(2, SECTOR_COLORS[moduleId], 0.45);
+      const glow = this.add.circle(pos.x, pos.y, 54, SECTOR_COLORS[moduleId], 0.03);
+      const ring = this.add.circle(pos.x, pos.y, 36, 0x000000, 0).setStrokeStyle(0, SECTOR_COLORS[moduleId], 0);
+      const shell = this.add.circle(pos.x, pos.y, 28, 0x0f172a, 0).setStrokeStyle(0, SECTOR_COLORS[moduleId], 0);
       const glyph = this.add.text(pos.x, pos.y, MODULE_GLYPHS[moduleId], {
         fontFamily: "Inter, Arial",
         fontSize: "18px",
@@ -199,6 +199,9 @@ export class GravitasBaseScene extends Phaser.Scene {
       this.root.add([glow, ring, shell, glyph, hitbox, label, level]);
       this.moduleNodes.set(moduleId, { glow, shell, ring, glyph, hitbox, label, level, energyEmitter: emitter });
     }
+
+    // Overlay the custom module silhouettes above the default shells.
+    this.root.add(this.moduleVisualsGfx);
 
     this.coreHitbox = this.add.circle(centerX, centerY, 54, 0xffffff, 0.001)
       .setInteractive({ useHandCursor: true });
@@ -857,14 +860,14 @@ export class GravitasBaseScene extends Phaser.Scene {
         yoyo: true,
         ease: "Sine.Out",
         onUpdate: () => {
-          node.shell.setStrokeStyle(2, color, 0.7);
-          node.ring.setStrokeStyle(2, color, 0.4);
-          node.glow.setFillStyle(color, 0.18);
+          node.shell.setStrokeStyle(0, color, 0);
+          node.ring.setStrokeStyle(0, color, 0);
+          node.glow.setFillStyle(color, 0.02);
         },
         onComplete: () => {
-          node.glow.setFillStyle(SECTOR_COLORS[moduleId], 0.12);
-          node.ring.setStrokeStyle(2, SECTOR_COLORS[moduleId], 0.25);
-          node.shell.setStrokeStyle(2, SECTOR_COLORS[moduleId], 0.45);
+          node.glow.setFillStyle(SECTOR_COLORS[moduleId], 0.03);
+          node.ring.setStrokeStyle(0, SECTOR_COLORS[moduleId], 0);
+          node.shell.setStrokeStyle(0, SECTOR_COLORS[moduleId], 0);
         },
       });
     }
@@ -988,24 +991,51 @@ export class GravitasBaseScene extends Phaser.Scene {
       const m = state.modules[id];
       if (!m.online) continue;
 
-      this.moduleVisualsGfx.lineStyle(1, SECTOR_COLORS[id], 0.2);
+      this.moduleVisualsGfx.lineStyle(3, SECTOR_COLORS[id], 0.56);
       if (id === "reactor") {
-        // Core/Ring/Pulse
-        this.moduleVisualsGfx.strokeCircle(pos.x, pos.y, 42 + Math.sin(this.animTime / 400) * 4);
+        // Angular containment frame for the reactor.
+        const radius = 40 + Math.sin(this.animTime / 400) * 3;
+        const points = Array.from({ length: 8 }, (_, i) => {
+          const angle = Phaser.Math.DegToRad(22.5 + i * 45 + Math.sin(this.animTime / 220) * 3);
+          const r = i % 2 === 0 ? radius + 8 : radius - 4;
+          return new Phaser.Geom.Point(pos.x + Math.cos(angle) * r, pos.y + Math.sin(angle) * r);
+        });
+        this.moduleVisualsGfx.fillStyle(SECTOR_COLORS[id], 0.08);
+        this.moduleVisualsGfx.fillPoints(points, true);
+        this.moduleVisualsGfx.lineStyle(4, SECTOR_COLORS[id], 0.62);
+        this.moduleVisualsGfx.strokePoints(points, true);
       } else if (id === "logistics") {
-        // Rails/Cargo
-        this.moduleVisualsGfx.lineBetween(pos.x - 40, pos.y - 10, pos.x + 40, pos.y - 10);
-        this.moduleVisualsGfx.lineBetween(pos.x - 40, pos.y + 10, pos.x + 40, pos.y + 10);
-        this.moduleVisualsGfx.strokeCircle(pos.x - 25, pos.y - 10, 4);
-        this.moduleVisualsGfx.strokeCircle(pos.x + 25, pos.y + 2, 3);
+        // Cargo capsule / supply bay frame.
+        const bayW = 92;
+        const bayH = 34;
+        const bayX = pos.x - bayW / 2;
+        const bayY = pos.y - bayH / 2;
+        this.moduleVisualsGfx.fillStyle(SECTOR_COLORS[id], 0.1);
+        this.moduleVisualsGfx.fillRoundedRect(bayX, bayY, bayW, bayH, 14);
+        this.moduleVisualsGfx.lineStyle(4, SECTOR_COLORS[id], 0.62);
+        this.moduleVisualsGfx.strokeRoundedRect(bayX, bayY, bayW, bayH, 14);
+        this.moduleVisualsGfx.lineStyle(3, SECTOR_COLORS[id], 0.56);
+        this.moduleVisualsGfx.lineBetween(pos.x - 32, pos.y - 12, pos.x + 34, pos.y - 12);
+        this.moduleVisualsGfx.lineBetween(pos.x - 32, pos.y + 12, pos.x + 34, pos.y + 12);
+        this.moduleVisualsGfx.strokeCircle(pos.x - 30, pos.y, 5);
+        this.moduleVisualsGfx.strokeCircle(pos.x + 28, pos.y, 5);
       } else if (id === "sensor") {
-        // Scan arcs
-        this.moduleVisualsGfx.beginPath();
-        this.moduleVisualsGfx.arc(pos.x, pos.y, 45, Phaser.Math.DegToRad(this.animTime / 5), Phaser.Math.DegToRad(this.animTime / 5 + 60), false);
-        this.moduleVisualsGfx.strokePath();
-        this.moduleVisualsGfx.beginPath();
-        this.moduleVisualsGfx.arc(pos.x, pos.y, 50, Phaser.Math.DegToRad(-this.animTime / 4), Phaser.Math.DegToRad(-this.animTime / 4 + 40), false);
-        this.moduleVisualsGfx.strokePath();
+        // Lens / scan prism frame.
+        const points = [
+          new Phaser.Geom.Point(pos.x, pos.y - 38),
+          new Phaser.Geom.Point(pos.x + 30, pos.y - 16),
+          new Phaser.Geom.Point(pos.x + 24, pos.y + 22),
+          new Phaser.Geom.Point(pos.x, pos.y + 40),
+          new Phaser.Geom.Point(pos.x - 24, pos.y + 22),
+          new Phaser.Geom.Point(pos.x - 30, pos.y - 16),
+        ];
+        this.moduleVisualsGfx.fillStyle(SECTOR_COLORS[id], 0.08);
+        this.moduleVisualsGfx.fillPoints(points, true);
+        this.moduleVisualsGfx.lineStyle(4, SECTOR_COLORS[id], 0.62);
+        this.moduleVisualsGfx.strokePoints(points, true);
+        this.moduleVisualsGfx.lineStyle(3, SECTOR_COLORS[id], 0.52);
+        this.moduleVisualsGfx.lineBetween(pos.x - 18, pos.y - 4, pos.x + 18, pos.y - 4);
+        this.moduleVisualsGfx.lineBetween(pos.x - 12, pos.y + 10, pos.x + 12, pos.y + 10);
       } else if (id === "core") {
         // Chamber resonance
         this.moduleVisualsGfx.lineStyle(2, 0xffffff, 0.1);
@@ -1030,6 +1060,19 @@ export class GravitasBaseScene extends Phaser.Scene {
 
         this.sectorGfx.fillStyle(color, alpha);
         this.sectorGfx.fillCircle(pos.x, pos.y, isSelected ? 120 : 80);
+    }
+
+    if (state.repairChallenge.active) {
+      const targetId = state.repairChallenge.sequence[state.repairChallenge.promptIndex] ?? null;
+      if (targetId) {
+        const pos = targetId === "core" ? { x: centerX, y: centerY } : MODULE_POSITIONS[targetId];
+        const accent = targetId === "reactor" ? 0xf43f5e : targetId === "logistics" ? 0xf59e0b : targetId === "sensor" ? 0x22d3ee : 0xdb2777;
+        const pulse = Math.abs(Math.sin(this.animTime / 240)) * 0.12 + 0.12;
+        this.sectorGfx.fillStyle(accent, pulse * 0.22);
+        this.sectorGfx.fillCircle(pos.x, pos.y, targetId === "core" ? 142 : 110);
+        this.sectorGfx.lineStyle(4, accent, pulse + 0.18);
+        this.sectorGfx.strokeCircle(pos.x, pos.y, targetId === "core" ? 126 : 92);
+      }
     }
 
     // Active Operations GFX & Payoff
@@ -1225,7 +1268,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       }
 
       node.glow.setFillStyle(color, alpha);
-      node.shell.setFillStyle(m.online ? 0x0f172a : 0x111827, isSelected ? 1 : 0.94);
+      node.shell.setFillStyle(m.online ? 0x0f172a : 0x111827, isSelected ? 1 : 0.88);
       node.shell.setStrokeStyle(isSelected ? 3 : 2, color, m.online ? 0.78 : 0.35);
       node.ring.setStrokeStyle(isSelected ? 3 : 2, color, isSelected ? 0.62 : 0.24);
 

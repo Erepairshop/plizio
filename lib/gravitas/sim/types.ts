@@ -69,6 +69,7 @@ export interface StarholdPendingEvent {
   chainId?: string;
   chainStep?: number;
   chainTotal?: number;
+  waveNumber?: number;
 }
 
 export interface StarholdEventDefinition {
@@ -145,6 +146,15 @@ export interface StarholdReactorRecoveryState {
   nextPromptTick: number;
 }
 
+export interface StarholdRepairChallengeState {
+  active: boolean;
+  startedTick: number;
+  promptEndsAtTick: number;
+  promptIndex: number;
+  sequence: StarholdModuleId[];
+  windowSatisfied: boolean;
+}
+
 export interface StarholdState {
   tick: number;
   phase: StarholdPhase;
@@ -186,6 +196,10 @@ export interface StarholdState {
   avatarProfile: StarholdAvatarProfile | null;
   avatarImprintActive: boolean;
   avatarImprintProgress: number;
+  avatarPrepArmedTick: number | null;
+  repairChallenge: StarholdRepairChallengeState;
+  bootstrapChecklist: Record<StarholdModuleId, boolean>;
+  waveRecoveryCalmTicks: number;
 }
 
 export type StarholdCommand =

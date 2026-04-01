@@ -54,6 +54,11 @@ export const GRAVITAS_TEXT = {
       de: "Prägung abgeschlossen. Der Avatar kann jetzt erwachen.",
       ro: "Amprenta este completă. Avatarul se poate trezi acum.",
     },
+    repairChain: { en: "Repair chain", hu: "Javítási lánc", de: "Reparaturkette", ro: "Lanț de reparații" },
+    repairWindow: { en: "Keep repairing every 15 seconds", hu: "Minden 15 másodpercben javíts", de: "Alle 15 Sekunden reparieren", ro: "Repară la fiecare 15 secunde" },
+    repairTimeout: { en: "No repair response. Station failure.", hu: "Nincs javítási reakció. Az állomás elbukott.", de: "Keine Reparaturreaktion. Stationsausfall.", ro: "Nicio reacție de reparație. Stația a eșuat." },
+    repairReady: { en: "Repair now", hu: "Javíts most", de: "Jetzt reparieren", ro: "Repară acum" },
+    repairSequenceDone: { en: "Repair chain held. Avatar preparation unlocked.", hu: "A javítási lánc kitartott. Az avatar-előkészítés feloldva.", de: "Reparaturkette gehalten. Avatar-Vorbereitung freigeschaltet.", ro: "Lanțul de reparații a rezistat. Pregătirea avatarului a fost deblocată." },
     transferTitle: { en: "Awakening transfer", hu: "Ébresztési átadás", de: "Erweckungstransfer", ro: "Transfer de trezire" },
     transferStageLabel: { en: "Activation ladder", hu: "Aktiválási lépcső", de: "Aktivierungsleiter", ro: "Scara activării" },
     resonance: { en: "Resonance", hu: "Rezonancia", de: "Resonanz", ro: "Rezonanță" },
@@ -121,6 +126,18 @@ export const GRAVITAS_TEXT = {
       hu: "A modulokat bármikor megnyithatod az állomásnézetben.",
       de: "Du kannst Module jederzeit in der Stationsansicht antippen.",
       ro: "Poți inspecta modulele oricând atingându-le în vederea stației."
+    },
+    bootstrapCheck: {
+      en: "Boot checklist",
+      hu: "Boot ellenőrzőlista",
+      de: "Boot-Checkliste",
+      ro: "Listă de pornire",
+    },
+    bootstrapHint: {
+      en: "Activate every critical module before Wave 1 or the station fails.",
+      hu: "Aktiváld az összes kritikus modult az 1. hullám előtt, különben az állomás elbukik.",
+      de: "Aktiviere alle kritischen Module vor Welle 1 oder die Station fällt aus.",
+      ro: "Activează toate modulele critice înainte de Valul 1 sau stația eșuează.",
     },
     startDirective: {
       en: "Keep the station alive. Repair logistics, stabilize the reactor, and let the strange signals surface on their own.",
@@ -764,6 +781,12 @@ export const GRAVITAS_TEXT = {
     kineticRegen: { en: "Kinetic stabilizers pulsed with excess energy, anchoring the station.", hu: "A kinetikus stabilizátorok elnyelték a felesleges energiát, rögzítve az állomást.", de: "Kinetische Stabilisatoren pulsierten, Station verankert.", ro: "Stabilizatorii cinetici au pulsat cu energie în exces, ancorând stația." },
     rapidRepair: (name: LocalizedString) => ({ en: `Automated fabricators used raw stock to reinforce ${name.en}.`, hu: `Az automata gyártók nyersanyagból erősítették meg a(z) ${name.hu} egységet.`, de: `Automatisierte Fertiger verstärkten ${name.de} mit Rohmaterial.`, ro: `Fabricatorii automați au folosit materie primă pentru a consolida ${name.ro}.` }),
     cascadeStart: { en: "Logistics cascade detected in the debris belt.", hu: "Logisztikai kaszkád észlelve a törmelékövben.", de: "Logistikkaskade im Trümmergürtel entdeckt.", ro: "Cascadă logistică detectată în centura de resturi." },
+    bootstrapFailed: {
+      en: "BOOT FAILURE: all critical modules must be activated before Wave 1.",
+      hu: "BOOT HIBA: az összes kritikus modult aktiválni kell az 1. hullám előtt.",
+      de: "BOOT-FEHLER: Alle kritischen Module müssen vor Welle 1 aktiviert werden.",
+      ro: "EȘEC DE BOOT: toate modulele critice trebuie activate înainte de Valul 1.",
+    },
     dronesProtected: { en: "You shielded the recovery team at a power cost.", hu: "Megvédted a mentőcsapatot energia árán.", de: "Bergungsteam unter Energieeinsatz geschützt.", ro: "Ai protejat echipa de recuperare cu un cost de energie." },
     droneDamage: { en: "Magnetic interference battered the scavenger flight.", hu: "Mágneses interferencia tépázta meg a mentőrajt.", de: "Magnetische Interferenz beschädigte Bergungstrupp.", ro: "Interferența magnetică a afectat dronele." },
     volatilePower: { en: "The unstable matter gave a massive boost to reserves.", hu: "Az instabil anyag hatalmas lökést adott a tartalékoknak.", de: "Instabile Materie gab Reserven starken Schub.", ro: "Materia instabilă a oferit un impuls masiv rezervelor." },
@@ -783,6 +806,7 @@ export const GRAVITAS_TEXT = {
     worldEchoJournal: { en: "The hidden pattern bled through the shell for a moment.", hu: "A rejtett minta egy pillanatra átcsordult a testen.", de: "Das verborgene Muster sickerte für einen Moment durch die Hülle.", ro: "Tiparul ascuns a pătruns pentru o clipă prin corp." },
     avatarImprintJournal: { en: "The avatar imprint is in progress. Keep the seal held.", hu: "Az avatar lenyomata folyamatban van. Tartsd nyomva a zárat.", de: "Die Avatarprägung läuft. Halte das Siegel gedrückt.", ro: "Amprenta avatarului este în curs. Ține sigiliul apăsat." },
     avatarImprintCompleteJournal: { en: "The imprint completed and the shell accepted it.", hu: "A lenyomat elkészült, és a test befogadta.", de: "Die Prägung wurde abgeschlossen und die Hülle hat sie angenommen.", ro: "Amprenta s-a finalizat și corpul a acceptat-o." },
+    bootstrapFailedJournal: { en: "Bootstrap failed. Critical modules were not all activated before the first wave.", hu: "A boot folyamat elbukott. Nem minden kritikus modul aktiválódott az első hullám előtt.", de: "Boot fehlgeschlagen. Nicht alle kritischen Module waren vor der ersten Welle aktiviert.", ro: "Pornirea a eșuat. Nu toate modulele critice au fost activate înainte de primul val." },
     initialJournal: [
       { en: "Emergency reserve power detected.", hu: "Vészhelyzeti tartalék energia észlelve.", de: "Notreserveenergie entdeckt.", ro: "Energie de rezervă detectată." },
       { en: "Core chamber sealed.", hu: "Magkamra lezárva.", de: "Kernkammer versiegelt.", ro: "Camera nucleului sigilată." },

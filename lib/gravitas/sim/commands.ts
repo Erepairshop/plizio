@@ -2,11 +2,12 @@ import type { StarholdCommand, StarholdState, LocalizedString, StarholdModuleId,
 import { addResourceDelta, clamp, pushJournal, updateModuleIntegrity, withAlert, addModuleLoad } from "./shared";
 import { canStartActivationTransfer, channelActivationPulse, unlockActivationTransfer } from "./activation";
 import { getModuleActionProfile } from "./modules";
-import { resolveStarholdEvent } from "./events";
+import { advanceRepairChallenge, resolveStarholdEvent, getRepairChallengeModule } from "./events";
 import { GRAVITAS_TEXT } from "./content";
 import { buyStarholdItem, checkStarholdMilestones, claimStarholdMilestone } from "./progression";
 import { getStarholdModifiers } from "./modifiers";
 import { createNextThreat } from "./threats";
+import { markBootstrapCheckpoint } from "./bootstrap";
 
 function startOperation(
   state: StarholdState,
@@ -56,11 +57,32 @@ function stopForegroundOperation(state: StarholdState): StarholdState {
 }
 
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
-  if (state.pendingEvent && command.type !== "RESOLVE_EVENT") {
+  const repairChallengeTarget = getRepairChallengeModule(state.repairChallenge);
+  const commandModule =
+    command.type === "STABILIZE_REACTOR"
+      ? "reactor"
+      : command.type === "REPAIR_MODULE"
+        ? command.moduleId
+        : null;
+  if (
+    state.repairChallenge.active &&
+    commandModule &&
+    repairChallengeTarget &&
+    commandModule !== repairChallengeTarget
+  ) {
+    return withAlert(state, {
+      en: `Use the lower ${repairChallengeTarget} repair button now.`,
+      hu: `Most a lent lévő ${repairChallengeTarget === "reactor" ? "reaktor" : repairChallengeTarget === "logistics" ? "logisztika" : repairChallengeTarget === "sensor" ? "szenzor" : "mag"} javítás gombot használd.`,
+      de: `Nutze jetzt den unteren ${repairChallengeTarget} Reparaturknopf.`,
+      ro: `Folosește acum butonul de reparare de jos pentru ${repairChallengeTarget}.`,
+    });
+  }
+
+  if (state.pendingEvent && command.type !== "RESOLVE_EVENT" && !(state.repairChallenge.active && command.type === "REPAIR_MODULE")) {
     return withAlert(state, GRAVITAS_TEXT.alerts.resolveAnomaly);
   }
 
-  if (state.activeOperation && isSameForegroundOperation(state, command)) {
+  if (state.activeOperation && isSameForegroundOperation(state, command) && !(state.repairChallenge.active && (command.type === "REPAIR_MODULE" || command.type === "STABILIZE_REACTOR"))) {
     return stopForegroundOperation(state);
   }
 
@@ -111,7 +133,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 
       const cycleDuration = 5;
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "logistics"),
         scavengeOperation: {
           startedTick: state.tick,
           cycleDuration,
@@ -139,39 +161,60 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
       }
-      return startOperation(
-        {
-          ...state,
+      const repairChallengeTarget = getRepairChallengeModule(state.repairChallenge);
+      if (state.repairChallenge.active && repairChallengeTarget === "reactor") {
+        const target = state.modules.reactor;
+        const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
+        const nextLoad = addModuleLoad(state, "reactor", target.online ? 0 : profile.loadShift).load;
+        return advanceRepairChallenge({
+          ...markBootstrapCheckpoint(state, "reactor"),
           resources: addResourceDelta(state.resources, {
             materials: -cost,
+            stability: 100,
           }),
-        },
-        {
-          type: "stabilizeReactor",
-          moduleId: "reactor",
-          startedTick: state.tick,
-          duration: introWindow ? 4 : 5,
-          remaining: introWindow ? 4 : 5,
-          title: {
-            en: "Reactor stabilization running",
-            hu: "Reaktorstabilizálás folyamatban",
-            de: "Reaktorstabilisierung läuft",
-            ro: "Stabilizarea reactorului rulează",
+          modules: {
+            ...state.modules,
+            reactor: {
+              ...target,
+              integrity: nextIntegrity,
+              online: nextIntegrity >= profile.onlineThreshold || target.online,
+              load: nextLoad,
+            },
           },
-          detail: {
-            en: "Containment rings are damping the core pulse and clearing strain.",
-            hu: "A zárógyűrűk csillapítják a mag impulzusát és oldják a terhelést.",
-            de: "Die Eindämmungsringe dämpfen den Kernpuls und lösen die Belastung.",
-            ro: "Inelele de contenție atenuează pulsul nucleului și reduc tensiunea.",
+          alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
+          journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
+        }, "reactor");
+      }
+      return {
+        ...markBootstrapCheckpoint(state, "reactor"),
+        resources: addResourceDelta(state.resources, {
+          materials: -cost,
+        }),
+        activeOperation: null,
+        modules: {
+          ...state.modules,
+          reactor: {
+            ...updateModuleIntegrity(state, "reactor", Math.floor(profile.repairGain * mods.recoveryEfficiency)),
+            load: addModuleLoad(state, "reactor", state.modules.reactor.online ? 0 : profile.loadShift).load,
           },
         },
-        {
-          en: "Reactor stabilization sequence engaged.",
-          hu: "A reaktor stabilizáló szekvenciája elindult.",
-          de: "Reaktor-Stabilisierungssequenz aktiviert.",
-          ro: "Secvența de stabilizare a reactorului a pornit.",
-        }
-      );
+        reactorRecovery:
+          state.reactorRecovery.active && state.threatCycle === 1
+            ? {
+                ...state.reactorRecovery,
+                completedStabilizations: state.reactorRecovery.completedStabilizations + 1,
+                active: state.reactorRecovery.completedStabilizations + 1 >= 2 ? false : state.reactorRecovery.active,
+                nextPromptTick: state.reactorRecovery.completedStabilizations + 1 >= 2 ? state.tick + 999 : state.tick + 24,
+              }
+            : state.reactorRecovery,
+        alert: {
+          en: "Reactor stabilized instantly.",
+          hu: "A reaktor azonnal stabilizálva.",
+          de: "Reaktor sofort stabilisiert.",
+          ro: "Reactor stabilizat instant.",
+        },
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.reactorRealigned),
+      };
     }
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
@@ -183,11 +226,23 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const target = state.modules[command.moduleId];
       const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
       const nextLoad = addModuleLoad(state, command.moduleId, target.online ? 0 : profile.loadShift).load;
-      return {
-        ...state,
+      const repairChallengeTarget = getRepairChallengeModule(state.repairChallenge);
+      const challengeResourceDelta =
+        state.repairChallenge.active && repairChallengeTarget === command.moduleId
+          ? command.moduleId === "reactor"
+            ? { stability: 100 }
+            : command.moduleId === "logistics"
+              ? { materials: 100 }
+              : command.moduleId === "sensor"
+                ? { power: 100 }
+                : {}
+          : {};
+      return advanceRepairChallenge({
+        ...markBootstrapCheckpoint(state, command.moduleId),
         resources: addResourceDelta(state.resources, {
           materials: -cost,
           stability: Math.floor((introWindow ? 4 : 3) * mods.recoveryEfficiency),
+          ...challengeResourceDelta,
         }),
         modules: {
           ...state.modules,
@@ -200,7 +255,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         },
         alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
         journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
-      };
+      }, command.moduleId);
     }
     case "REROUTE_TO_CORE": {
       const introWindow = state.phase === "boot" && state.tick < 30;
@@ -213,7 +268,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       }
       return startOperation(
         {
-          ...unlockActivationTransfer(state),
+          ...markBootstrapCheckpoint(unlockActivationTransfer(state), "core"),
           resources: {
             ...state.resources,
             power: clamp(state.resources.power - cost),
@@ -247,7 +302,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       );
     }
     case "CHANNEL_TO_CORE": {
-      return channelActivationPulse(state, command.amount);
+      return channelActivationPulse(markBootstrapCheckpoint(state, "core"), command.amount);
     }
     case "CHANNEL_AVATAR_IMPRINT": {
       if (!state.avatarImprintActive || state.avatarAwake) return state;
@@ -298,7 +353,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         return withAlert(state, GRAVITAS_TEXT.alerts.noPowerDistortion);
       }
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "sensor"),
         resources: addResourceDelta(state.resources, {
           power: -cost,
           stability: Math.floor(6 * mods.recoveryEfficiency),
@@ -340,7 +395,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "OVERCLOCK_REACTOR": {
       const riskMult = mods.recoveryEfficiency > 1.0 ? 1.5 : 1.0;
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "reactor"),
         resources: addResourceDelta(state.resources, {
           power: 30,
           stability: -12 * mods.powerCostMod,
@@ -363,7 +418,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "OPTIMIZE_LOGISTICS": {
       const riskMult = mods.recoveryEfficiency > 1.0 ? 1.5 : 1.0;
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "logistics"),
         resources: addResourceDelta(state.resources, {
           materials: 18,
           power: -8 * mods.powerCostMod,
@@ -389,7 +444,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
       }
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "sensor"),
         resources: addResourceDelta(state.resources, {
           power: -cost,
           stability: -2,
@@ -408,7 +463,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const cost = Math.ceil(10 * mods.powerCostMod);
       if (state.resources.power < cost) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "sensor"),
         resources: addResourceDelta(state.resources, { power: -cost }),
         threat: { ...threat, dampened: true },
         alert: GRAVITAS_TEXT.threats.dampenedJournal,
@@ -444,7 +499,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const cost = Math.ceil(8 * mods.powerCostMod);
       if (state.resources.power < cost) return withAlert(state, GRAVITAS_TEXT.alerts.critPower);
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, "sensor"),
         resources: addResourceDelta(state.resources, { power: -cost }),
         threat: { ...threat, predicted: true },
         alert: { en: "Threat trajectory calculated.", hu: "Fenyegetés pályája kiszámítva.", de: "Bedrohungstrajektorie berechnet.", ro: "Traiectoria amenințării calculată." },
@@ -499,7 +554,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       // Apply recoveryEfficiency: 1.5× during aftershock / crisis
       const fabGain = Math.floor(25 * mods.recoveryEfficiency);
       return {
-        ...state,
+        ...markBootstrapCheckpoint(state, command.moduleId),
         resources: addResourceDelta(state.resources, { materials: -cost }),
         modules: {
           ...state.modules,
@@ -587,6 +642,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
   const { threat } = state;
   const coreReady = canStartActivationTransfer(state);
   const isRecovering = threat.aftershock > 0 || state.crisis;
+  const repairChallengeTarget = getRepairChallengeModule(state.repairChallenge);
 
   const slots: GravitasActionSlot[] = [];
 
@@ -639,7 +695,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         label: { en: "Stabilize reactor", hu: "Reaktor stabilizálása", de: "Reaktor stabilisieren", ro: "Stabilizează reactorul" },
         hint: { en: "Dampen current drift and refill buffer. Reduces reactor scars.", hu: "Csökkenti a driftet és feltölti a puffert. Gyógyítja a reaktorsebeket.", de: "Dämpfe Drift und fülle Puffer. Reduziert Reaktornarben.", ro: "Atenuează deriva și umple tamponul. Reduce cicatricile reactorului." },
         command: { type: "STABILIZE_REACTOR" },
-        emphasis: isRecovering ? "primary" : undefined,
+        emphasis: repairChallengeTarget === "reactor" ? "primary" : isRecovering ? "primary" : undefined,
       });
       addSlot({
         id: "overclock",
@@ -692,7 +748,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repará ${module.name.ro}` },
         hint: { en: "Reopen supply routing and reduce future drain.", hu: "Újranyitja az ellátási útvonalakat és csökkenti a jövőbeli veszteséget.", de: "Versorgungsrouten öffnen und zukünftigen Abfluss senken.", ro: "Redeschide rutele și reduce pierderile viitoare." },
         command: { type: "REPAIR_MODULE", moduleId: "logistics" },
-        emphasis: isRecovering ? "secondary" : undefined,
+        emphasis: repairChallengeTarget === "logistics" ? "primary" : isRecovering ? "secondary" : undefined,
       });
       if (threat.countdown <= 5 && !threat.intercepted && module.online && threat.type === "meteorShower" && threat.countdown > 0) {
         addSlot({
@@ -751,7 +807,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repará ${module.name.ro}` },
         hint: { en: "Bring the long-range distortion grid back online.", hu: "Visszakapcsolja a távoli torzulásfigyelő hálózatot.", de: "Bringt das Langstrecken-Distortionsgitter zurück.", ro: "Repune în funcțiune rețeaua de distorsiuni." },
         command: { type: "REPAIR_MODULE", moduleId: "sensor" },
-        emphasis: isRecovering ? "secondary" : undefined,
+        emphasis: repairChallengeTarget === "sensor" ? "primary" : isRecovering ? "secondary" : undefined,
       });
       break;
     case "core":
@@ -777,7 +833,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repará ${module.name.ro}` },
         hint: { en: "Reduce shell strain before the awakening run.", hu: "Csökkenti a testfeszülést az ébredés előtt.", de: "Hüllenspannung vor dem Erwachenslauf senken.", ro: "Reduce tensiunea corpului înainte de trezire." },
         command: { type: "REPAIR_MODULE", moduleId: "core" },
-        emphasis: isRecovering ? "secondary" : undefined,
+        emphasis: repairChallengeTarget === "core" ? "primary" : isRecovering ? "secondary" : undefined,
       });
       break;
   }

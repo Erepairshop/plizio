@@ -458,6 +458,8 @@ export default function GravitasPage() {
   const introStage = state.phase === "boot" && state.tick < 18;
   const earlyStage = !state.avatarAwake && state.tick < 45;
   const avatarImprintStageActive = !state.avatarAwake && (state.avatarProfile?.answers.length ?? 0) >= 3;
+  const repairChallengeTarget = state.repairChallenge.active ? state.repairChallenge.sequence[state.repairChallenge.promptIndex] ?? null : null;
+  const repairChallengeRemaining = state.repairChallenge.active ? Math.max(0, state.repairChallenge.promptEndsAtTick - state.tick) : 0;
   const activeOperation = state.activeOperation;
   const scavengeOperation = state.scavengeOperation;
   const isScavengeActive = !!scavengeOperation;
@@ -468,6 +470,43 @@ export default function GravitasPage() {
     ? Math.max(0, Math.min(100, ((scavengeOperation.cycleDuration - scavengeOperation.remaining) / scavengeOperation.cycleDuration) * 100))
     : 0;
   const guide = useMemo(() => {
+    if (state.repairChallenge.active) {
+      const promptCopy =
+        repairChallengeTarget === "reactor"
+          ? {
+              en: "Stability is under strain. Repair the reactor before the timer ends.",
+              hu: "A stabilitás terhelés alatt van. Javítsd meg a reaktort, mielőtt lejár az idő.",
+              de: "Die Stabilität steht unter Druck. Repariere den Reaktor, bevor die Zeit abläuft.",
+              ro: "Stabilitatea este sub presiune. Repară reactorul înainte să se termine timpul.",
+            }
+          : repairChallengeTarget === "logistics"
+            ? {
+                en: "Supply pressure is rising. Repair logistics before the next cut hits.",
+                hu: "Az ellátási nyomás emelkedik. Javítsd a logisztikát, mielőtt az újabb szakasz üt be.",
+                de: "Der Versorgungsdruck steigt. Repariere die Logistik, bevor der nächste Einschnitt kommt.",
+                ro: "Presiunea aprovizionării crește. Repară logistica înainte de următoarea tăietură.",
+              }
+            : repairChallengeTarget === "sensor"
+              ? {
+                  en: "Signal drift is climbing. Repair the sensor before the line goes blind.",
+                  hu: "A jel-drift emelkedik. Javítsd a szenzort, mielőtt a vonal megvakul.",
+                  de: "Der Signalschwund steigt. Repariere den Sensor, bevor die Linie blind wird.",
+                  ro: "Deriva semnalului crește. Repară senzorul înainte ca linia să orbească.",
+                }
+              : content.ui.repairWindow;
+      return {
+        body: localize(promptCopy),
+        focus:
+          repairChallengeTarget === "reactor"
+            ? ("stabilize" as const)
+            : repairChallengeTarget === "logistics"
+              ? ("repairLogistics" as const)
+              : repairChallengeTarget === "sensor"
+                ? ("repairSensor" as const)
+                : null,
+      };
+    }
+
     if (state.avatarAwake) {
       return {
         body: localize(content.ui.awakened),
@@ -572,7 +611,7 @@ export default function GravitasPage() {
     }
 
     if (state.tick < 300) {
-      if (state.phase === "activation") {
+      if (state.phase === "activation" && avatarImprintStageActive) {
         return {
           body: localize({
             en: "The chamber is ready. Open Activation and hold the transfer to wake the avatar.",
@@ -585,12 +624,12 @@ export default function GravitasPage() {
       }
       return {
         body: localize({
-          en: "Prepare the core. You are in the final minute of the first phase.",
-          hu: "Készítsd elő a magot. Az első fázis utolsó percében vagy.",
-          de: "Bereite den Kern vor. Du bist in der letzten Minute der ersten Phase.",
-          ro: "Pregătește nucleul. Ești în ultimul minut al primei faze.",
+          en: "Prepare the core. The activation chamber will open later.",
+          hu: "Készítsd elő a magot. Az aktiválási kamra később nyílik meg.",
+          de: "Bereite den Kern vor. Die Aktivierungskammer öffnet später.",
+          ro: "Pregătește nucleul. Camera de activare se va deschide mai târziu.",
         }),
-        focus: "reroute" as const,
+        focus: state.phase === "activation" ? null : "reroute" as const,
       };
     }
 
@@ -665,15 +704,16 @@ export default function GravitasPage() {
   const reactorPromptWindow = reactorRecovery.active && state.tick >= reactorRecovery.nextPromptTick;
   const inFirstWaveRecovery = reactorRecovery.active && state.threatCycle === 1;
   const severeReactorIssue = state.resources.stability < 42 || state.modules.reactor.integrity < 58 || state.modules.reactor.load >= 88 || state.crisis;
-  const reactorNeedsAttention =
+  const reactorNeedsAttention = 
     activeOperation?.type === "stabilizeReactor" ||
     reactorPromptWindow ||
-    (!inFirstWaveRecovery && severeReactorIssue);
-  const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 72 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics");
-  const sensorNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor") || state.modules.sensor.integrity < 72 || !state.modules.sensor.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "sensor");
-  const reactorActionTone = severeReactorIssue ? "danger" : "warning";
-  const logisticsActionTone = state.modules.logistics.integrity < 48 || !state.modules.logistics.online ? "danger" : "warning";
-  const sensorActionTone = state.modules.sensor.integrity < 48 || !state.modules.sensor.online ? "danger" : "warning";
+    (!inFirstWaveRecovery && severeReactorIssue) ||
+    repairChallengeTarget === "reactor";
+  const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 72 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics") || repairChallengeTarget === "logistics";
+  const sensorNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor") || state.modules.sensor.integrity < 72 || !state.modules.sensor.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "sensor") || repairChallengeTarget === "sensor";
+  const reactorActionTone = severeReactorIssue || repairChallengeTarget === "reactor" ? "danger" : "warning";
+  const logisticsActionTone = state.modules.logistics.integrity < 48 || !state.modules.logistics.online || repairChallengeTarget === "logistics" ? "danger" : "warning";
+  const sensorActionTone = state.modules.sensor.integrity < 48 || !state.modules.sensor.online || repairChallengeTarget === "sensor" ? "danger" : "warning";
   const primaryActions: QuickActionItem[] = [
     {
       key: "scavenge",
@@ -700,6 +740,8 @@ export default function GravitasPage() {
           mobilePriority:
             activeOperation?.type === "stabilizeReactor"
               ? 100
+              : repairChallengeTarget === "reactor"
+                ? 99
               : reactorActionTone === "danger"
                 ? 92
                 : 78,
@@ -718,6 +760,8 @@ export default function GravitasPage() {
           mobilePriority:
             activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics"
               ? 96
+              : repairChallengeTarget === "logistics"
+                ? 98
               : logisticsActionTone === "danger"
                 ? 88
                 : 72,
@@ -736,6 +780,8 @@ export default function GravitasPage() {
           mobilePriority:
             activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor"
               ? 94
+              : repairChallengeTarget === "sensor"
+                ? 97
               : sensorActionTone === "danger"
                 ? 86
                 : 68,
@@ -796,6 +842,9 @@ export default function GravitasPage() {
   );
   const selectedModuleInfo = content.modules[selectedModule];
   const selectedModuleState = state.modules[selectedModule];
+  const bootstrapOrder: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
+  const bootstrapComplete = bootstrapOrder.every((moduleId) => state.bootstrapChecklist[moduleId]);
+  const bootstrapPending = bootstrapOrder.filter((moduleId) => !state.bootstrapChecklist[moduleId]);
 
   const buildActionFeedback = (
     prev: StarholdState,
@@ -820,10 +869,10 @@ export default function GravitasPage() {
       case "SCAVENGE":
         if (hasResourceShift) {
           return {
-            en: `Scavenge complete. ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "PWR")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
-            hu: `Nyersanyaggyűjtés kész. ${format(delta.materials, "ANY")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
-            de: `Bergung abgeschlossen. ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
-            ro: `Colectarea s-a terminat. ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            en: `Salvage ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "PWR")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            hu: `Bergés ${format(delta.materials, "ANY")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            de: `Bergung ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            ro: `Recuperare ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
           };
         }
         break;
@@ -1316,6 +1365,46 @@ export default function GravitasPage() {
             </p>
           </div>
         </div>
+
+        {state.threatCycle === 0 && !bootstrapComplete && (
+          <div className={`mx-4 mb-2 rounded-xl border px-4 py-3 shadow-[0_0_20px_rgba(34,211,238,0.08)] backdrop-blur-md ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/8" : "border-cyan-400/25 bg-cyan-400/8"}`}>
+            <div className="flex items-start justify-between gap-3">
+              <div>
+                <div className="text-[10px] font-black uppercase tracking-[0.22em] text-cyan-300">
+                  {localize(content.ui.bootstrapCheck)}
+                </div>
+                <div className="mt-1 text-[11px] font-bold text-white/70">
+                  {localize(content.ui.bootstrapHint)}
+                </div>
+              </div>
+              <div className={`rounded-full border px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.18em] ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/12 text-emerald-200" : "border-amber-400/20 bg-amber-400/12 text-amber-100"}`}>
+                {bootstrapPending.length}/4
+              </div>
+            </div>
+            <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-4">
+              {bootstrapOrder.map((moduleId) => {
+                const Icon = moduleIcon(moduleId);
+                const done = state.bootstrapChecklist[moduleId];
+                return (
+                  <div
+                    key={moduleId}
+                    className={`flex items-center gap-2 rounded-lg border px-3 py-2 text-[10px] font-black uppercase tracking-[0.16em] ${done ? "border-emerald-400/20 bg-emerald-400/10 text-emerald-100" : "border-white/10 bg-white/5 text-white/45"}`}
+                  >
+                    <Icon size={12} className={done ? "text-emerald-300" : "text-white/35"} />
+                    <div className="min-w-0 flex-1">
+                      <div className="truncate">{localize(content.modules[moduleId].name)}</div>
+                      <div className={done ? "text-emerald-200/80" : "text-white/30"}>
+                        {done
+                          ? localize({ en: "Activated", hu: "Aktivált", de: "Aktiviert", ro: "Activat" })
+                          : localize({ en: "Pending", hu: "Függőben", de: "Ausstehend", ro: "În așteptare" })}
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
 
         {/* Compact Threat Bar */}
         <div className={`mx-4 mb-2 p-3 rounded-xl border transition-all duration-500 ${isWavePaused ? "border-cyan-500/30 bg-cyan-500/8" : state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
@@ -2052,7 +2141,7 @@ export default function GravitasPage() {
                     ? localize({ en: "Avatar preparation", hu: "Avatar-előkészítés", de: "Avatar-Vorbereitung", ro: "Pregătire avatar" })
                     : "Anomaly Detected"}
                 </div>
-                {state.pendingEvent.chainStep && (
+                {state.pendingEvent.chainStep && state.pendingEvent.id !== "waveRecovery" && (
                   <div className="text-[10px] font-black text-white/40">STEP {state.pendingEvent.chainStep}/{state.pendingEvent.chainTotal}</div>
                 )}
               </div>

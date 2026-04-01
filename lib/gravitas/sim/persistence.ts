@@ -1,4 +1,5 @@
 import type { StarholdState } from "./types";
+import { inferBootstrapChecklist } from "./bootstrap";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -106,6 +107,17 @@ export function loadGravitasState(): StarholdState | null {
       avatarProfile: parsed.avatarProfile ?? null,
       avatarImprintActive: parsed.avatarAwake ? false : (parsed.avatarProfile?.answers?.length ?? 0) >= 3,
       avatarImprintProgress: 0,
+      avatarPrepArmedTick: parsed.avatarPrepArmedTick ?? ((parsed.avatarProfile?.answers?.length ?? 0) >= 3 && !parsed.avatarAwake ? parsed.tick + 1 : null),
+      repairChallenge: {
+        active: parsed.repairChallenge?.active ?? false,
+        startedTick: parsed.repairChallenge?.startedTick ?? 0,
+        promptEndsAtTick: parsed.repairChallenge?.promptEndsAtTick ?? 0,
+        promptIndex: parsed.repairChallenge?.promptIndex ?? 0,
+        sequence: parsed.repairChallenge?.sequence ?? [],
+        windowSatisfied: parsed.repairChallenge?.windowSatisfied ?? false,
+      },
+      bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
+      waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
     };
   } catch {
     return null;

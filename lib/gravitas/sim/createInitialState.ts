@@ -1,6 +1,7 @@
 import type { StarholdState } from "./types";
 import { createInitialModules } from "./modules";
 import { GRAVITAS_TEXT } from "./content";
+import { createInitialBootstrapChecklist } from "./bootstrap";
 
 export function createInitialStarholdState(): StarholdState {
   return {
@@ -8,7 +9,7 @@ export function createInitialStarholdState(): StarholdState {
     phase: "boot",
     resources: {
       power: 36,
-      materials: 50,
+      materials: 100,
       stability: 64,
       activation: 0,
     },
@@ -75,5 +76,16 @@ export function createInitialStarholdState(): StarholdState {
     avatarProfile: null,
     avatarImprintActive: false,
     avatarImprintProgress: 0,
+    avatarPrepArmedTick: null,
+    repairChallenge: {
+      active: false,
+      startedTick: 0,
+      promptEndsAtTick: 0,
+      promptIndex: 0,
+      sequence: [],
+      windowSatisfied: false,
+    },
+    bootstrapChecklist: createInitialBootstrapChecklist(),
+    waveRecoveryCalmTicks: 0,
   };
 }

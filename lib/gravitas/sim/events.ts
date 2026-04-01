@@ -1,4 +1,4 @@
-import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString, StarholdPendingEvent, AvatarTraitId, StarholdAvatarAnswer, StarholdAvatarProfile } from "./types";
+import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString, StarholdPendingEvent, AvatarTraitId, StarholdAvatarAnswer, StarholdAvatarProfile, StarholdRepairChallengeState } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 
@@ -8,6 +8,7 @@ const J = GRAVITAS_TEXT.journal;
 const SCRIPTED_PHASE_ONE_END_TICK = 300;
 const SCRIPTED_PHASE_ONE_EVENT_1_TICK = 120;
 const SCRIPTED_PHASE_ONE_EVENT_2_TICK = 240;
+const REPAIR_CHALLENGE_SEQUENCE: StarholdModuleId[] = ["reactor", "logistics", "sensor", "reactor"];
 
 function chainedEvent(
   base: {
@@ -36,9 +37,7 @@ export function createWaveRecoveryEvent(waveNumber: number): StarholdPendingEven
     title: content.title,
     body: content.body,
     options: Object.entries(content.options).map(([id, label]) => ({ id, label })),
-    chainId: "wave-recovery",
-    chainStep: step,
-    chainTotal: 3,
+    waveNumber: step,
   };
 }
 
@@ -49,6 +48,7 @@ function restoreModuleSet(state: StarholdState, moduleIds: StarholdModuleId[], a
       ...nextModules[id],
       integrity: 100,
       online: true,
+      load: 0,
     };
   });
 
@@ -58,6 +58,30 @@ function restoreModuleSet(state: StarholdState, moduleIds: StarholdModuleId[], a
     modules: nextModules,
     alert,
     journal: pushJournal(state, journal),
+  };
+}
+
+function restoreWaveCalmState(state: StarholdState, restored: StarholdState, stabilityFloor: number): StarholdState {
+  return {
+    ...restored,
+    resources: {
+      ...restored.resources,
+      stability: clamp(Math.max(restored.resources.stability, stabilityFloor)),
+      power: clamp(Math.max(restored.resources.power, 18)),
+    },
+    threat: {
+      ...restored.threat,
+      aftershock: 0,
+    },
+    reactorRecovery: {
+      active: false,
+      completedStabilizations: state.reactorRecovery.completedStabilizations,
+      nextPromptTick: state.tick + 999,
+    },
+    recoveryPriority: null,
+    postWaveSurgeTicks: 0,
+    postWaveSurgeMode: null,
+    waveRecoveryCalmTicks: 30,
   };
 }
 
@@ -72,6 +96,121 @@ export function createAvatarPreparationEvent(stepNumber: number): StarholdPendin
     chainId: "avatar-preparation",
     chainStep: step,
     chainTotal: 3,
+  };
+}
+
+export function createRepairChallenge(startedTick: number): StarholdRepairChallengeState {
+  return {
+    active: true,
+    startedTick,
+    promptEndsAtTick: startedTick + 15,
+    promptIndex: 0,
+    sequence: REPAIR_CHALLENGE_SEQUENCE,
+    windowSatisfied: false,
+  };
+}
+
+function repairChallengePrompt(state: StarholdState, challenge: StarholdRepairChallengeState): LocalizedString {
+  const moduleId = challenge.sequence[challenge.promptIndex] ?? challenge.sequence[0] ?? "reactor";
+  const moduleName = state.modules[moduleId].name;
+  return {
+    en: `Repair now: ${moduleName.en}.`,
+    hu: `Most javítsd: ${moduleName.hu}.`,
+    de: `Jetzt reparieren: ${moduleName.de}.`,
+    ro: `Repară acum: ${moduleName.ro}.`,
+  };
+}
+
+export function getRepairChallengeModule(challenge: StarholdRepairChallengeState | null | undefined): StarholdModuleId | null {
+  if (!challenge?.active) return null;
+  return challenge.sequence[challenge.promptIndex] ?? null;
+}
+
+export function failRepairChallenge(state: StarholdState): StarholdState {
+  return {
+    ...state,
+    repairChallenge: {
+      ...state.repairChallenge,
+      active: false,
+    },
+    stationLost: true,
+    lockdown: true,
+    lockdownDuration: state.lockdownDuration + 1,
+    alert: {
+      en: "No repair response. Station failure.",
+      hu: "Nincs javítási reakció. Az állomás elbukott.",
+      de: "Keine Reparaturreaktion. Stationsausfall.",
+      ro: "Nicio reacție de reparație. Stația a eșuat.",
+    },
+    journal: pushJournal(state, {
+      en: "The repair chain failed. The station could not hold.",
+      hu: "A javítási lánc elbukott. Az állomás nem tudta tartani magát.",
+      de: "Die Reparaturkette ist gescheitert. Die Station hielt nicht stand.",
+      ro: "Lanțul de reparații a eșuat. Stația nu a rezistat.",
+    }),
+  };
+}
+
+export function advanceRepairChallenge(state: StarholdState, moduleId: StarholdModuleId): StarholdState {
+  const challenge = state.repairChallenge;
+  if (!challenge.active) return state;
+  const expected = getRepairChallengeModule(challenge);
+  if (!expected || expected !== moduleId) return state;
+
+  return {
+    ...state,
+    repairChallenge: {
+      ...challenge,
+      windowSatisfied: true,
+    },
+    alert: {
+      en: `${state.modules[moduleId].name.en} restored. Hold the line.`,
+      hu: `${state.modules[moduleId].name.hu} helyreállt. Tartsd a vonalat.`,
+      de: `${state.modules[moduleId].name.de} wiederhergestellt. Halte die Linie.`,
+      ro: `${state.modules[moduleId].name.ro} restaurat. Ține linia.`,
+    },
+  };
+}
+
+export function advanceRepairChallengeWindow(state: StarholdState): StarholdState {
+  const challenge = state.repairChallenge;
+  if (!challenge.active || !challenge.windowSatisfied) return state;
+  const nextIndex = challenge.promptIndex + 1;
+  if (nextIndex >= challenge.sequence.length) {
+    return {
+      ...state,
+      repairChallenge: {
+        ...challenge,
+        active: false,
+        windowSatisfied: false,
+      },
+      avatarPrepArmedTick: state.tick + 1,
+      alert: {
+        en: "Repair chain held. Avatar preparation unlocked.",
+        hu: "A javítási lánc kitartott. Az avatar-előkészítés feloldva.",
+        de: "Reparaturkette gehalten. Avatar-Vorbereitung freigeschaltet.",
+        ro: "Lanțul de reparații a rezistat. Pregătirea avatarului a fost deblocată.",
+      },
+      journal: pushJournal(state, {
+        en: "The repair chain held and the avatar preparation sequence can begin.",
+        hu: "A javítási lánc kitartott, az avatar-előkészítés elkezdődhet.",
+        de: "Die Reparaturkette hielt, die Avatar-Vorbereitung kann beginnen.",
+        ro: "Lanțul de reparații a rezistat și pregătirea avatarului poate începe.",
+      }),
+    };
+  }
+
+  const nextChallenge = {
+    ...challenge,
+    promptIndex: nextIndex,
+    promptEndsAtTick: state.tick + 15,
+    windowSatisfied: false,
+  };
+
+  return {
+    ...state,
+    repairChallenge: nextChallenge,
+    alert: repairChallengePrompt(state, nextChallenge),
   };
 }
 
@@ -202,7 +341,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     shouldTrigger: () => false,
     create: () => createWaveRecoveryEvent(1),
     resolve: (state, optionId) => {
-      const step = Math.min(3, Math.max(1, state.pendingEvent?.chainStep ?? 1));
+      const step = Math.min(3, Math.max(1, state.pendingEvent?.waveNumber ?? 1));
       const success = {
         en: "Congratulations. Your answer was perfect.",
         hu: "Gratulálok. A válaszod tökéletes volt.",
@@ -229,14 +368,9 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           }
         );
         return {
-          ...restored,
-          threat: {
-            ...restored.threat,
-            aftershock: 0,
-          },
-          recoveryPriority: null,
-          postWaveSurgeTicks: 0,
-          postWaveSurgeMode: null,
+          ...restoreWaveCalmState(state, restored, 80),
+          avatarPrepArmedTick: null,
+          alert: success,
         };
       }
 
@@ -253,14 +387,9 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           }
         );
         return {
-          ...restored,
-          threat: {
-            ...restored.threat,
-            aftershock: 0,
-          },
-          recoveryPriority: null,
-          postWaveSurgeTicks: 0,
-          postWaveSurgeMode: null,
+          ...restoreWaveCalmState(state, restored, 82),
+          avatarPrepArmedTick: null,
+          alert: success,
         };
       }
 
@@ -277,23 +406,21 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           }
         );
         return {
-          ...restored,
-          threat: {
-            ...restored.threat,
-            aftershock: 0,
-          },
-          recoveryPriority: null,
-          postWaveSurgeTicks: 60,
-          postWaveSurgeMode: "gentle",
+          ...restoreWaveCalmState(state, restored, 84),
+          avatarPrepArmedTick: state.tick + 30,
+          alert: success,
         };
       }
 
       return {
         ...state,
         pendingEvent: null,
-        postWaveSurgeTicks: 60,
-        postWaveSurgeMode: "aggressive",
+        avatarPrepArmedTick: null,
+        repairChallenge: createRepairChallenge(state.tick),
+        postWaveSurgeTicks: 0,
+        postWaveSurgeMode: null,
         alert: fail,
+        waveRecoveryCalmTicks: 0,
         journal: pushJournal(state, {
           en: "The recovery check failed. The wave remains a lingering threat.",
           hu: "A helyreállítási ellenőrzés hibás volt. A hullám továbbra is fenyeget.",
@@ -1349,6 +1476,19 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
 
 export function applyStarholdEvents(state: StarholdState): StarholdState {
   if (state.pendingEvent || (state.eventQuietTicks ?? 0) > 0) {
+    return state;
+  }
+
+  if (state.repairChallenge.active) {
+    return state;
+  }
+
+  if (state.avatarPrepArmedTick !== null && state.tick < state.avatarPrepArmedTick) {
+    return state;
+  }
+
+  // Demo tutorial flow: during the first three waves, only the wave recovery prompt should appear.
+  if (!state.avatarAwake && state.threatCycle > 0 && state.threatCycle <= 3 && state.avatarPrepArmedTick === null) {
     return state;
   }
 
