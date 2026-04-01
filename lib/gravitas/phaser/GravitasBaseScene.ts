@@ -1,11 +1,18 @@
 import * as Phaser from "phaser";
-import type { StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
+import type { StarholdEventId, StarholdModuleId, StarholdState, StarholdCommand } from "@/lib/gravitas/sim/types";
 
 const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
   reactor: { x: 210, y: 128 },
   logistics: { x: 625, y: 140 },
   core: { x: 420, y: 255 },
   sensor: { x: 320, y: 405 },
+};
+
+const SECTOR_COLORS: Record<StarholdModuleId, number> = {
+  reactor: 0xf59e0b,
+  logistics: 0x6366f1,
+  sensor: 0x10b981,
+  core: 0xdb2777,
 };
 
 interface SceneOptions {
@@ -20,7 +27,8 @@ export class GravitasBaseScene extends Phaser.Scene {
   private heatGfx!: Phaser.GameObjects.Graphics;
   private activationGfx!: Phaser.GameObjects.Graphics;
   private threatGfx!: Phaser.GameObjects.Graphics;
-  
+  private sectorGfx!: Phaser.GameObjects.Graphics;
+
   private moduleNodes = new Map<
     StarholdModuleId,
     {
@@ -30,14 +38,16 @@ export class GravitasBaseScene extends Phaser.Scene {
       energyEmitter?: Phaser.GameObjects.Particles.ParticleEmitter;
     }
   >();
-  
+
   private coreGlow!: Phaser.GameObjects.Arc;
   private coreCenter!: Phaser.GameObjects.Arc;
   private resonanceEmitter?: Phaser.GameObjects.Particles.ParticleEmitter;
-  
+
   private stars: { node: Phaser.GameObjects.Arc; speed: number }[] = [];
   private meteors: Phaser.GameObjects.Arc[] = [];
   private animTime = 0;
+  private currentFocus: StarholdModuleId | null = null;
+  private lastIntegrityMap = new Map<StarholdModuleId, number>();
 
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
@@ -69,11 +79,12 @@ export class GravitasBaseScene extends Phaser.Scene {
       this.resetMeteor(meteor);
     }
 
+    this.sectorGfx = this.add.graphics();
     this.threatGfx = this.add.graphics();
     this.linkGfx = this.add.graphics();
     this.heatGfx = this.add.graphics();
     this.activationGfx = this.add.graphics();
-    
+
     this.particleLayer = this.add.container(0, 0);
     this.root = this.add.container(0, 0);
 
@@ -85,21 +96,12 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.coreCenter = this.add.circle(centerX, centerY, 30, 0xffffff, 0.8);
     this.root.add([this.coreGlow, this.coreCenter]);
 
-    // Resonance Emitter
-    const resonanceParticles = this.add.particles(centerX, centerY, 'resonance', {
-        frame: 0,
-        scale: { start: 0.2, end: 0 },
-        alpha: { start: 0.6, end: 0 },
-        lifespan: 1000,
-        speed: { min: 50, max: 150 },
-        emitting: false
-    });
-    // Create simple texture for particles if not exists, but Phaser 3.60+ can use graphics
+    // Create simple texture for particles
     const pGfx = this.make.graphics({x: 0, y: 0} as any);
     pGfx.fillStyle(0xffffff, 1);
     pGfx.fillCircle(4, 4, 4);
     pGfx.generateTexture('dot', 8, 8);
-    
+
     this.resonanceEmitter = this.add.particles(centerX, centerY, 'dot', {
       scale: { start: 0.5, end: 0 },
       alpha: { start: 0.8, end: 0 },
@@ -137,17 +139,17 @@ export class GravitasBaseScene extends Phaser.Scene {
   }
 
   private resetMeteor(meteor: Phaser.GameObjects.Arc) {
-    const side = Phaser.Math.Between(0, 3); // 0: top, 1: right, 2: bottom, 3: left
+    const side = Phaser.Math.Between(0, 3);
     const width = 840;
     const height = 510;
     if (side === 0) { meteor.setPosition(Phaser.Math.Between(0, width), -20); }
     else if (side === 1) { meteor.setPosition(width + 20, Phaser.Math.Between(0, height)); }
     else if (side === 2) { meteor.setPosition(Phaser.Math.Between(0, width), height + 20); }
     else { meteor.setPosition(-20, Phaser.Math.Between(0, height)); }
-    
+
     const targetX = width / 2 + Phaser.Math.Between(-200, 200);
     const targetY = height / 2 + Phaser.Math.Between(-200, 200);
-    
+
     this.tweens.add({
       targets: meteor,
       x: targetX + (targetX - meteor.x) * 2,
@@ -160,23 +162,154 @@ export class GravitasBaseScene extends Phaser.Scene {
   update(time: number, delta: number) {
     this.animTime += delta;
 
-    // Star drift
     this.stars.forEach(s => {
       s.node.x += s.speed;
       if (s.node.x > 840) s.node.x = 0;
     });
 
-    // Global animations
     const pulse = Math.sin(this.animTime / 500) * 0.1 + 1;
     this.coreCenter.setScale(pulse);
   }
 
+  focusOnModule(moduleId: StarholdModuleId) {
+    if (this.currentFocus === moduleId) return;
+    this.currentFocus = moduleId;
+
+    const pos = MODULE_POSITIONS[moduleId];
+    const zoom = moduleId === "core" ? 1.0 : 1.35;
+
+    this.cameras.main.pan(pos.x, pos.y, 600, 'Power2');
+    this.cameras.main.zoomTo(zoom, 600, 'Power2');
+  }
+
+  triggerActionFeedback(command: StarholdCommand) {
+    switch (command.type) {
+      case "SCAVENGE":
+        this.createBeam(MODULE_POSITIONS.logistics, { x: 840, y: Phaser.Math.Between(0, 510) }, 0x6366f1);
+        break;
+      case "STABILIZE_REACTOR":
+        this.flashNode("reactor", 0xf59e0b);
+        break;
+      case "REPAIR_MODULE":
+        this.createSparks(MODULE_POSITIONS[command.moduleId], 0x10b981);
+        break;
+      case "REROUTE_TO_CORE":
+        this.createEnergyPulse(MODULE_POSITIONS.logistics, MODULE_POSITIONS.core);
+        break;
+    }
+  }
+
+  private createBeam(from: {x: number, y: number}, to: {x: number, y: number}, color: number) {
+    const beam = this.add.graphics();
+    beam.lineStyle(2, color, 1);
+    beam.lineBetween(from.x, from.y, to.x, to.y);
+    beam.setAlpha(0);
+
+    this.tweens.add({
+      targets: beam,
+      alpha: 1,
+      duration: 100,
+      yoyo: true,
+      hold: 200,
+      onComplete: () => beam.destroy()
+    });
+
+    const particles = this.add.particles(from.x, from.y, 'dot', {
+      scale: { start: 0.4, end: 0 },
+      alpha: { start: 1, end: 0 },
+      lifespan: 500,
+      speed: { min: 200, max: 400 },
+      emitZone: { type: 'random', source: new Phaser.Geom.Line(from.x, from.y, to.x, to.y) },
+      emitting: false
+    });
+    particles.explode(20);
+    this.time.delayedCall(1000, () => particles.destroy());
+  }
+
+  private flashNode(moduleId: StarholdModuleId, color: number) {
+    const node = this.moduleNodes.get(moduleId);
+    const centerX = 420;
+    const centerY = 255;
+    const x = moduleId === "core" ? centerX : MODULE_POSITIONS[moduleId].x;
+    const y = moduleId === "core" ? centerY : MODULE_POSITIONS[moduleId].y;
+
+    const flash = this.add.circle(x, y, 40, color, 0.8);
+    this.tweens.add({
+      targets: flash,
+      scale: 2,
+      alpha: 0,
+      duration: 400,
+      onComplete: () => flash.destroy()
+    });
+  }
+
+  private createSparks(pos: {x: number, y: number}, color: number) {
+    const particles = this.add.particles(pos.x, pos.y, 'dot', {
+      scale: { start: 0.5, end: 0 },
+      alpha: { start: 1, end: 0 },
+      speed: { min: 50, max: 150 },
+      tint: color,
+      lifespan: 600,
+      emitting: false
+    });
+    particles.explode(15);
+    this.time.delayedCall(1000, () => particles.destroy());
+  }
+
+  private createEnergyPulse(from: {x: number, y: number}, to: {x: number, y: number}) {
+    const pulse = this.add.circle(from.x, from.y, 8, 0xffffff, 1);
+    this.tweens.add({
+      targets: pulse,
+      x: to.x,
+      y: to.y,
+      duration: 400,
+      ease: 'Power2',
+      onComplete: () => {
+        pulse.destroy();
+        this.flashNode("core", 0xdb2777);
+      }
+    });
+  }
+
+  private shake() {
+    this.cameras.main.shake(300, 0.01);
+  }
+
+  private flashImpact() {
+    const f = this.add.rectangle(420, 255, 840, 510, 0xffffff, 0.2);
+    f.setScrollFactor(0);
+    this.tweens.add({
+      targets: f,
+      alpha: 0,
+      duration: 300,
+      onComplete: () => f.destroy()
+    });
+  }
+
   syncState(state: StarholdState, selectedModule: StarholdModuleId) {
+    this.focusOnModule(selectedModule);
+
     const { reactor, logistics, sensor, core } = state.modules;
     const centerX = 420;
     const centerY = 255;
 
-    // Update Background / Threat Fog
+    for (const [moduleId, m] of Object.entries(state.modules) as [StarholdModuleId, any][]) {
+        const lastInt = this.lastIntegrityMap.get(moduleId) ?? m.integrity;
+        if (m.integrity < lastInt - 5) {
+            this.shake();
+            if (m.integrity < lastInt - 15) this.flashImpact();
+        }
+        this.lastIntegrityMap.set(moduleId, m.integrity);
+    }
+
+    this.sectorGfx.clear();
+    for (const [id, color] of Object.entries(SECTOR_COLORS) as [StarholdModuleId, number][]) {
+        const pos = id === "core" ? { x: centerX, y: centerY } : MODULE_POSITIONS[id];
+        const isSelected = selectedModule === id;
+        this.sectorGfx.fillStyle(color, isSelected ? 0.08 : 0.03);
+        this.sectorGfx.fillCircle(pos.x, pos.y, isSelected ? 120 : 80);
+    }
+
     this.threatGfx.clear();
     if (state.lockdown) {
         this.threatGfx.fillStyle(0x000000, 0.4);
@@ -195,14 +328,12 @@ export class GravitasBaseScene extends Phaser.Scene {
         this.threatGfx.strokeRect(0, 0, 840, 510);
     }
 
-    // Core Visualization
     const isAwakened = state.phase === "awakened";
     const coreColor = isAwakened ? 0xf59e0b : state.resonance > 50 ? 0xf472b6 : 0x06b6d4;
     this.coreCenter.setFillStyle(isAwakened ? 0xffffff : 0xffffff, 0.9);
     this.coreGlow.setFillStyle(coreColor, 0.3 + (state.resonance / 200));
     this.coreGlow.setRadius(60 + (isAwakened ? 20 : 0) + (state.resonance * 0.3));
 
-    // Activation Ring
     this.activationGfx.clear();
     this.activationGfx.lineStyle(4, 0xdb2777, 0.4);
     this.activationGfx.strokeCircle(centerX, centerY, 45);
@@ -211,7 +342,6 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.activationGfx.arc(centerX, centerY, 45, Phaser.Math.DegToRad(-90), Phaser.Math.DegToRad(-90 + (state.resources.activation / 100) * 360), false);
     this.activationGfx.strokePath();
 
-    // Resonance Particles
     if (state.resonance > 0 && this.resonanceEmitter) {
       this.resonanceEmitter.emitting = true;
       (this.resonanceEmitter as any).setSpeed?.(50 + state.resonance * 2);
@@ -220,7 +350,6 @@ export class GravitasBaseScene extends Phaser.Scene {
       this.resonanceEmitter.emitting = false;
     }
 
-    // Links and Modules
     this.linkGfx.clear();
     this.heatGfx.clear();
 
@@ -229,20 +358,18 @@ export class GravitasBaseScene extends Phaser.Scene {
       const pos = MODULE_POSITIONS[moduleId];
       const isSelected = selectedModule === moduleId;
 
-      // Size based on integrity
       const scale = 0.4 + (m.integrity / 100) * 0.6;
       node.glow.setScale(scale);
       node.glow.setRadius(24 + (isSelected ? 4 : 0));
 
-      // Color based on status
-      let color = 0x4b5563; // Offline/Default
+      let color = 0x4b5563;
       let alpha = 0.3;
       if (m.online) {
         if (m.integrity < 40) {
-          color = 0xe11d48; // Damaged red
+          color = 0xe11d48;
           alpha = 0.4 + Math.sin(this.animTime / 200) * 0.2;
         } else {
-          color = 0x22d3ee; // Healthy cyan
+          color = 0x22d3ee;
           alpha = 0.5;
         }
       }
@@ -250,11 +377,8 @@ export class GravitasBaseScene extends Phaser.Scene {
       node.label.setAlpha(m.online ? 1 : 0.4);
       node.label.setColor(isSelected ? "#22d3ee" : "#ffffff");
 
-      // Connection lines and energy flow
       const isLinked = m.online && !state.lockdown;
       this.linkGfx.lineStyle(2, isLinked ? 0x22d3ee : 0x1e293b, isLinked ? 0.3 : 0.1);
-      // Phaser Graphics doesn't support setLineDash — skip dashed lines
-      
       this.linkGfx.lineBetween(pos.x, pos.y, centerX, centerY);
 
       if (isLinked && node.energyEmitter) {
@@ -264,12 +388,11 @@ export class GravitasBaseScene extends Phaser.Scene {
         node.energyEmitter.setPosition(pos.x, pos.y);
         (node.energyEmitter as any).setAngle?.(Phaser.Math.RadToDeg(angle));
         (node.energyEmitter as any).setSpeed?.({ min: 100, max: 200 });
-        (node.energyEmitter as any).setLifespan?.(dist / 0.15); // Adjust lifespan to reach core
+        (node.energyEmitter as any).setLifespan?.(dist / 0.15);
       } else if (node.energyEmitter) {
         node.energyEmitter.emitting = false;
       }
 
-      // Heat rings (Load)
       if (m.load > 0) {
         const heatColor = m.load >= 90 ? 0xe11d48 : m.load >= 50 ? 0xf59e0b : 0x3b82f6;
         const heatAlpha = (m.load / 100) * 0.5;

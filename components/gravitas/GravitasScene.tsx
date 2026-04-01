@@ -2,16 +2,17 @@
 
 import { useEffect, useRef } from "react";
 import { GravitasBaseScene } from "@/lib/gravitas/phaser/GravitasBaseScene";
-import type { StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
+import type { StarholdCommand, StarholdEventId, StarholdModuleId, StarholdState } from "@/lib/gravitas/sim/types";
 
 interface Props {
   state: StarholdState;
   selectedModule: StarholdModuleId;
   onSelectModule: (moduleId: StarholdModuleId) => void;
   activeEventId: StarholdEventId | null;
+  lastCommand: { command: StarholdCommand; timestamp: number } | null;
 }
 
-export default function GravitasScene({ state, selectedModule, onSelectModule, activeEventId }: Props) {
+export default function GravitasScene({ state, selectedModule, onSelectModule, activeEventId, lastCommand }: Props) {
   const hostRef = useRef<HTMLDivElement | null>(null);
   const gameRef = useRef<any | null>(null);
   const sceneRef = useRef<GravitasBaseScene | null>(null);
@@ -57,7 +58,13 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, a
 
   useEffect(() => {
     sceneRef.current?.syncState(state, selectedModule);
-  }, [state, selectedModule, activeEventId]);
+  }, [state, selectedModule]);
+
+  useEffect(() => {
+    if (lastCommand) {
+      sceneRef.current?.triggerActionFeedback(lastCommand.command);
+    }
+  }, [lastCommand]);
 
   return (
     <div className="rounded-[28px] border border-cyan-300/15 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.08),transparent_44%),linear-gradient(180deg,rgba(9,15,30,0.94),rgba(4,8,18,0.98))] p-2 shadow-[0_0_60px_rgba(8,145,178,0.1)]">

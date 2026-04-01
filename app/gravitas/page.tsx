@@ -114,6 +114,7 @@ export default function GravitasPage() {
   const [onboardingDismissed, setOnboardingDismissed] = useState(false);
   const [sceneReady, setSceneReady] = useState(false);
   const [sceneDeferred, setSceneDeferred] = useState(false);
+  const [lastCommand, setLastCommand] = useState<{ command: StarholdCommand; timestamp: number } | null>(null);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
@@ -124,6 +125,7 @@ export default function GravitasPage() {
   const doAction = (command: StarholdCommand, color: string) => {
     if (state.stationLost) return;
     lastActionRef.current = command;
+    setLastCommand({ command, timestamp: Date.now() });
     dispatch(command);
     setActionFlash(color);
     setTimeout(() => setActionFlash(null), 300);
@@ -312,6 +314,8 @@ export default function GravitasPage() {
   const canReroute = canStartActivationTransfer(state);
   const isRecovering = state.threat.aftershock > 0 || state.crisis;
   const isLockdown = state.lockdown;
+  const introStage = state.phase === "boot" && state.tick < 18;
+  const earlyStage = !state.avatarAwake && state.tick < 45;
   const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || onboarding?.focus === "reroute";
 
   const beginTransfer = () => {
@@ -688,6 +692,7 @@ export default function GravitasPage() {
               selectedModule={selectedModule}
               onSelectModule={setSelectedModule}
               activeEventId={state.pendingEvent?.id ?? null}
+              lastCommand={lastCommand}
             />
           ) : (
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgba(34,211,238,0.16),transparent_30%),radial-gradient(circle_at_50%_70%,rgba(168,85,247,0.14),transparent_34%),linear-gradient(180deg,#050816_0%,#071120_50%,#050816_100%)]">
@@ -858,7 +863,14 @@ export default function GravitasPage() {
                   {localize(content.threats[state.threat.type])}
                 </div>
                 <div className="text-[9px] font-bold text-white/40 uppercase tracking-tighter">
-                  {localize({ en: `Wave #${state.threatCycle}`, hu: `${state.threatCycle}. hullám`, de: `Welle #${state.threatCycle}`, ro: `Valul #${state.threatCycle}` })}
+                  {earlyStage
+                    ? localize({
+                        en: "Calibration window",
+                        hu: "Kalibrációs szakasz",
+                        de: "Kalibrierungsfenster",
+                        ro: "Fereastră de calibrare",
+                      })
+                    : localize({ en: `Wave #${state.threatCycle}`, hu: `${state.threatCycle}. hullám`, de: `Welle #${state.threatCycle}`, ro: `Valul #${state.threatCycle}` })}
                 </div>
               </div>
             </div>
@@ -875,6 +887,24 @@ export default function GravitasPage() {
               style={{ width: `${state.threat.aftershock > 0 ? (state.threat.aftershock / 6) * 100 : (state.threat.countdown / state.threat.totalDuration) * 100}%` }}
             />
           </div>
+
+          {earlyStage && state.threat.aftershock === 0 && (
+            <div className="mt-2 text-[9px] font-bold uppercase tracking-[0.18em] text-cyan-200/65">
+              {introStage
+                ? localize({
+                    en: "Learn the controls. Station pressure is being held back.",
+                    hu: "Ismerd meg a vezérlést. Az állomás nyomása most vissza van fogva.",
+                    de: "Lerne die Steuerung. Der Stationsdruck wird noch zurückgehalten.",
+                    ro: "Învață comenzile. Presiunea stației este încă ținută în frâu.",
+                  })
+                : localize({
+                    en: "Problems are coming in slowly. Build a stable rhythm first.",
+                    hu: "A problémák lassan érkeznek. Előbb építs stabil ritmust.",
+                    de: "Die Probleme kommen langsam. Baue zuerst einen stabilen Rhythmus auf.",
+                    ro: "Problemele vin lent. Construiește mai întâi un ritm stabil.",
+                  })}
+            </div>
+          )}
 
           {state.threat.countdown <= 5 && state.threat.aftershock === 0 && (
             <div className="mt-2 pt-2 border-t border-white/5">
@@ -973,7 +1003,23 @@ export default function GravitasPage() {
       )}
 
       {/* Main Actions - Bottom Bar */}
-      <nav className="fixed bottom-0 left-0 right-0 p-4 pb-[calc(1.5rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 grid grid-cols-4 gap-2 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
+      <nav className="fixed bottom-0 left-0 right-0 p-4 pb-[calc(1.5rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
+        <div className="mb-2 text-[9px] font-black uppercase tracking-[0.18em] text-white/40">
+          {earlyStage
+            ? localize({
+                en: "Tap a command and watch the station answer before pressure climbs.",
+                hu: "Nyomj egy parancsot, és figyeld, hogyan válaszol az állomás, mielőtt nő a nyomás.",
+                de: "Tippe einen Befehl an und beobachte die Reaktion der Station, bevor der Druck steigt.",
+                ro: "Apasă o comandă și urmărește cum răspunde stația, înainte să crească presiunea.",
+              })
+            : localize({
+                en: "Keep the grid steady and prepare for the next wave.",
+                hu: "Tartsd stabilan a hálót, és készülj a következő hullámra.",
+                de: "Halte das Netz stabil und bereite dich auf die nächste Welle vor.",
+                ro: "Menține rețeaua stabilă și pregătește-te pentru următorul val.",
+              })}
+        </div>
+        <div className="grid grid-cols-4 gap-2">
         <MainAction label={localize(ui.scavenge)} onClick={() => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)")} disabled={isLockdown} highlight={onboarding?.focus === "scavenge"} />
         <MainAction label={localize(ui.stabilize)} onClick={() => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)")} emphasis={isRecovering && !isLockdown} />
         <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} highlight={onboarding?.focus === "repairLogistics"} />
@@ -983,6 +1029,7 @@ export default function GravitasPage() {
           disabled={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown)}
           highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : rerouteHighlighted}
         />
+        </div>
       </nav>
 
       {/* Sliding Panels */}
@@ -1303,8 +1350,14 @@ function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number;
   }, [value]);
 
   return (
-    <div className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 border border-white/5 ${color} font-black text-xs shrink-0 transition-all`}>
-      {icon} 
+    <motion.div
+      animate={diff !== null ? { scale: [1, 1.08, 1] } : { scale: 1 }}
+      transition={{ duration: 0.35 }}
+      className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl border font-black text-xs shrink-0 transition-all ${
+        diff !== null ? "border-white/15 bg-white/10 shadow-[0_0_20px_rgba(255,255,255,0.08)]" : "border-white/5 bg-white/5"
+      } ${color}`}
+    >
+      {icon}
       <motion.span
         key={value}
         initial={{ y: diff ? (diff > 0 ? 5 : -5) : 0, opacity: 0.5 }}
@@ -1325,7 +1378,7 @@ function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number;
           </motion.div>
         )}
       </AnimatePresence>
-    </div>
+    </motion.div>
   );
 }
 
@@ -1360,7 +1413,7 @@ function MainAction({ label, onClick, disabled, highlight, emphasis }: { label: 
     <button
       disabled={disabled}
       onClick={onClick}
-      className={`relative h-14 min-h-[52px] rounded-xl border font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]" : "border-white/10 bg-white/5 hover:bg-white/10 text-white"}`}
+      className={`relative h-14 min-h-[52px] rounded-xl border font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]" : "border-white/10 bg-white/5 hover:bg-white/10 hover:-translate-y-0.5 text-white"}`}
     >
       {label}
       {disabled && (

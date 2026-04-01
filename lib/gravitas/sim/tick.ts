@@ -11,15 +11,19 @@ import { getStarholdModifiers } from "./modifiers";
 export function advanceStarholdTick(state: StarholdState): StarholdState {
   const mods = getStarholdModifiers(state);
   const nextQuietTicks = Math.max(0, (state.eventQuietTicks ?? 0) - 1);
-  const reactorBoost = state.modules.reactor.online ? 2 : 0;
-  const logisticsDrain = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
+  const introWindow = state.phase === "boot" && state.tick < 18;
+  const settlingWindow = !state.avatarAwake && state.tick < 45;
+  const earlyWindow = !state.avatarAwake && state.tick < 70;
+  const reactorBoost = state.modules.reactor.online ? (introWindow ? 3 : settlingWindow ? 2 : 2) : 0;
+  const logisticsDrainBase = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
+  const logisticsDrain = Math.max(0, logisticsDrainBase - (introWindow ? 1 : 0));
   // sensorBoost synergy: Reactor + Sensor both healthy → +2 stability instead of +1
-  const sensorStability = state.modules.sensor.online ? (mods.sensorBoost ? 2 : 1) : 0;
+  const sensorStability = state.modules.sensor.online ? ((mods.sensorBoost ? 2 : 1) + (introWindow ? 1 : 0)) : 0;
   const phaseDrain = state.phase === "activation" ? 1 : 0;
 
   // Crisis / Stability checks
-  const isCrisis = state.resources.power < 10 && state.resources.stability < 30;
-  const isHighStability = state.resources.stability > 85;
+  const isCrisis = state.resources.power < (introWindow ? 6 : 10) && state.resources.stability < (settlingWindow ? 20 : 30);
+  const isHighStability = state.resources.stability > (settlingWindow ? 80 : 85);
 
   // Anomalies impact
   let anomalyPowerDrain = 0;
@@ -31,9 +35,9 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   });
 
   // Marks impact
-  const scarDrain = Math.floor(state.marks.reactorScar / 3);
-  const shellDrain = Math.floor(state.marks.shellStrain / 2);
-  const voidDrain = Math.floor(state.marks.voidEcho / 3);
+  const scarDrain = Math.max(0, Math.floor(state.marks.reactorScar / 3) - (settlingWindow ? 1 : 0));
+  const shellDrain = Math.max(0, Math.floor(state.marks.shellStrain / 2) - (settlingWindow ? 1 : 0));
+  const voidDrain = Math.max(0, Math.floor(state.marks.voidEcho / 3) - (settlingWindow ? 1 : 0));
   const totalMarks = state.marks.reactorScar + state.marks.shellStrain + state.marks.supplyStress + state.marks.voidEcho;
   const driftInstability = totalMarks > 8 ? Math.floor(totalMarks / 4) : 0;
 
@@ -41,8 +45,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const resonancePowerDrain = Math.floor(state.resonance / 25);
 
   // Entropy effect (soft trap)
-  const entropyStabilityDrain = Math.floor(state.entropy / 15);
-  const entropyPowerDrain = Math.floor(state.entropy / 20);
+  const entropyStabilityDrain = Math.max(0, Math.floor(state.entropy / 15) - (settlingWindow ? 1 : 0));
+  const entropyPowerDrain = Math.max(0, Math.floor(state.entropy / 20) - (settlingWindow ? 1 : 0));
 
   // High Stability bonus: reduced drains
   const stabilityBuffer = isHighStability ? 2 : 0;
@@ -61,14 +65,14 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       sensorStability +
       stabilityBuffer +
       phaseStabilityBonus -
-      (state.modules.reactor.integrity < 40 ? 1 : 0) -
-      (state.modules.core.load > 75 ? 1 : 0) -
+      (state.modules.reactor.integrity < 40 ? (settlingWindow ? 0 : 1) : 0) -
+      (state.modules.core.load > 75 ? (introWindow ? 0 : 1) : 0) -
       shellDrain -
       voidDrain -
       anomalyStabilityDrain -
       entropyStabilityDrain -
       driftInstability -
-      (isCrisis ? 2 : 0)
+      (isCrisis ? (settlingWindow ? 1 : 2) : 0)
   );
 
   let nextModules = { ...state.modules };
@@ -115,7 +119,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Lockdown logic
   let nextLockdown = state.lockdown;
   let nextPendingEvent = state.pendingEvent;
-  const lockdownArmed = state.tick >= 20;
+  const lockdownArmed = state.tick >= 45;
   if (nextStability === 0 && !nextLockdown) {
     if (lockdownArmed) {
       nextLockdown = true;
@@ -134,7 +138,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   }
 
   // Void Whispers (Psychic atmosphere)
-  if (state.marks.voidEcho > 8 && state.tick % 15 === 0 && Math.random() > 0.4) {
+  if (!introWindow && state.marks.voidEcho > 8 && state.tick % 15 === 0 && Math.random() > 0.4) {
     const whispers = GRAVITAS_TEXT.lore.voidWhispers || [];
     if (whispers.length > 0) {
       const randomWhisper = whispers[Math.floor(Math.random() * whispers.length)];
@@ -144,7 +148,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   // Glitch logic (accelerated in Crisis)
   const glitchThreshold = isCrisis ? 8 : 10;
-  if (totalMarks > glitchThreshold && state.tick % (isCrisis ? 3 : 5) === 0) {
+  if (!earlyWindow && totalMarks > glitchThreshold && state.tick % (isCrisis ? 3 : 5) === 0) {
     const affectedModuleId = (["reactor", "logistics", "core", "sensor"] as const)[state.tick % 4];
     const baseDamage = (isCrisis ? 4 : 2) + Math.floor(totalMarks / 5);
     // coreShield synergy: Logistics + Core both healthy → core takes 50% less integrity damage from glitches
@@ -158,7 +162,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   }
 
   // Entropy Spike (Aggressive damage at high entropy)
-  if (state.entropy > 80 && state.tick % 4 === 0) {
+  if (!earlyWindow && state.entropy > 80 && state.tick % 4 === 0) {
     const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
     const targetId = ids[Math.floor(Math.random() * 4)];
     nextModules[targetId] = {
@@ -207,7 +211,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     const baseGain = Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0);
     // entropyDampener: 25% slower entropy growth
     let gain = mods.entropyDampener ? Math.ceil(baseGain * 0.75) : baseGain;
-    if (state.tick < 50) gain = Math.min(gain, 1);
+    if (state.tick < 70) gain = Math.min(gain, 1);
     nextEntropy = clamp(nextEntropy + gain);
   } else if (totalMarks < 5 || isHighStability) {
     nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
@@ -218,8 +222,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   const nextWorldPhase = state.tick > 0 && state.tick % 40 === 0 ? (state.worldPhase + 1) % 4 : state.worldPhase;
   const worldPulseGain =
-    Math.floor(totalMarks / 4) +
-    Math.floor(nextEntropy / 20) +
+    Math.floor(totalMarks / (settlingWindow ? 6 : 4)) +
+    Math.floor(nextEntropy / (settlingWindow ? 28 : 20)) +
     (state.threat.aftershock > 0 ? 2 : 0) +
     (state.phase === "awakened" ? 1 : 0) +
     (nextLockdown ? 2 : 0);

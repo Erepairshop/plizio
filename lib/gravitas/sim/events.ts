@@ -1075,12 +1075,20 @@ export function applyStarholdEvents(state: StarholdState): StarholdState {
     return state;
   }
 
+  const introWindow = state.phase === "boot" && state.tick < 24;
+  const onboardingWindow = !state.avatarAwake && state.tick < 42;
+  if (introWindow) {
+    return state;
+  }
+
   let nextState = state;
 
   for (const event of STARHOLD_EVENTS) {
     const lastTick = nextState.lastEventTick[event.id] ?? -Infinity;
-    if (nextState.tick < event.minTick) continue;
+    const effectiveMinTick = onboardingWindow ? event.minTick + 8 : event.minTick;
+    if (nextState.tick < effectiveMinTick) continue;
     if (nextState.tick - lastTick < event.cooldown) continue;
+    if (onboardingWindow && event.id !== "powerFluctuation" && event.id !== "materialBottleneck" && event.id !== "signalPulse") continue;
     if (!event.shouldTrigger(nextState)) continue;
 
     const pendingEvent = event.create(nextState);
@@ -1108,19 +1116,21 @@ export function resolveStarholdEvent(state: StarholdState, optionId: string): St
     return {
       ...state,
       pendingEvent: null,
-      eventQuietTicks: Math.max(state.eventQuietTicks ?? 0, 3),
+      eventQuietTicks: Math.max(state.eventQuietTicks ?? 0, state.tick < 45 ? 8 : 5),
     };
   }
 
   const nextState = event.resolve(state, optionId);
   if (nextState.pendingEvent === null) {
+    const quietTicks = state.tick < 45 ? 8 : 5;
+    const cooldownPadding = state.tick < 45 ? 12 : 8;
     return {
       ...nextState,
       lastEventTick: {
         ...nextState.lastEventTick,
-        [event.id]: state.tick + Math.max(8, event.cooldown),
+        [event.id]: state.tick + Math.max(cooldownPadding, event.cooldown + (state.tick < 45 ? 4 : 0)),
       },
-      eventQuietTicks: Math.max(nextState.eventQuietTicks ?? 0, 3),
+      eventQuietTicks: Math.max(nextState.eventQuietTicks ?? 0, quietTicks),
     };
   }
   return nextState;

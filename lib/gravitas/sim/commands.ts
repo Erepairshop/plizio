@@ -17,16 +17,17 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 
   switch (command.type) {
     case "SCAVENGE": {
+      const introWindow = state.phase === "boot" && state.tick < 18;
       const entropy = state.anomalies.find(a => a.id === "materialEntropy");
       const entropyPenalty = entropy ? entropy.severity : 0;
-      const materialsGain = clamp((state.modules.logistics.online ? 6 : 3) - entropyPenalty, 1);
-      const powerGain = state.modules.sensor.online ? 3 : 0;
+      const materialsGain = clamp((state.modules.logistics.online ? 6 : 3) + (introWindow ? 2 : 0) - entropyPenalty, 1);
+      const powerGain = (state.modules.sensor.online ? 3 : 0) + (introWindow ? 1 : 0);
       return {
         ...state,
         resources: addResourceDelta(state.resources, {
           materials: materialsGain,
           power: powerGain,
-          stability: -2,
+          stability: introWindow ? -1 : -2,
         }),
         worldPulse: clamp(state.worldPulse + 1),
         alert: GRAVITAS_TEXT.alerts.scavengeSuccess,
@@ -35,7 +36,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "STABILIZE_REACTOR": {
       const profile = getModuleActionProfile("reactor");
-      const cost = Math.ceil(profile.repairCost * mods.powerCostMod);
+      const introWindow = state.phase === "boot" && state.tick < 18;
+      const cost = Math.max(1, Math.ceil(profile.repairCost * mods.powerCostMod) - (introWindow ? 1 : 0));
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
       }
@@ -46,8 +48,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         ...state,
         resources: addResourceDelta(state.resources, {
           materials: -cost,
-          power: Math.floor(10 * gainMult),
-          stability: Math.floor(8 * gainMult),
+          power: Math.floor((introWindow ? 12 : 10) * gainMult),
+          stability: Math.floor((introWindow ? 10 : 8) * gainMult),
         }),
         marks: {
           ...state.marks,
@@ -66,18 +68,19 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
-      const cost = Math.ceil(profile.repairCost * mods.powerCostMod);
+      const introWindow = state.phase === "boot" && state.tick < 24;
+      const cost = Math.max(1, Math.ceil(profile.repairCost * mods.powerCostMod) - (introWindow ? 1 : 0));
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       }
       const target = state.modules[command.moduleId];
-      const nextIntegrity = clamp(target.integrity + Math.floor(profile.repairGain * mods.recoveryEfficiency));
+      const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
       const nextLoad = addModuleLoad(state, command.moduleId, target.online ? 0 : profile.loadShift).load;
       return {
         ...state,
         resources: addResourceDelta(state.resources, {
           materials: -cost,
-          stability: Math.floor(3 * mods.recoveryEfficiency),
+          stability: Math.floor((introWindow ? 4 : 3) * mods.recoveryEfficiency),
         }),
         modules: {
           ...state.modules,
@@ -93,7 +96,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       };
     }
     case "REROUTE_TO_CORE": {
-      const cost = Math.ceil(8 * mods.powerCostMod);
+      const introWindow = state.phase === "boot" && state.tick < 30;
+      const cost = Math.max(4, Math.ceil(8 * mods.powerCostMod) - (introWindow ? 2 : 0));
       if (state.resources.power < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noPowerReroute);
       }
@@ -105,7 +109,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         resources: {
           ...state.resources,
           power: clamp(state.resources.power - cost),
-          activation: clamp(state.resources.activation + 12),
+          activation: clamp(state.resources.activation + (introWindow ? 14 : 12)),
         },
         worldPulse: clamp(state.worldPulse + 3),
       };
