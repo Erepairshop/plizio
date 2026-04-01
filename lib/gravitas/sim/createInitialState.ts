@@ -70,5 +70,10 @@ export function createInitialStarholdState(): StarholdState {
       completedStabilizations: 0,
       nextPromptTick: 0,
     },
+    postWaveSurgeTicks: 0,
+    postWaveSurgeMode: null,
+    avatarProfile: null,
+    avatarImprintActive: false,
+    avatarImprintProgress: 0,
   };
 }

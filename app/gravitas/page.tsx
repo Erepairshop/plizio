@@ -13,6 +13,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasActivation from "@/components/gravitas/GravitasActivation";
 import GravitasShop from "@/components/gravitas/GravitasShop";
+import GravitasImprint from "@/components/gravitas/GravitasImprint";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
 import { saveGravitasState, loadGravitasState, clearGravitasSave } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
@@ -140,7 +141,10 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   
   const holdRef = useRef<number | null>(null);
+  const imprintHoldRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
+  const prevSurgeRef = useRef(state.postWaveSurgeTicks);
+  const prevSurgeModeRef = useRef(state.postWaveSurgeMode);
   const prevStateRef = useRef(state);
   const lastActionRef = useRef<StarholdCommand | null>(null);
   const awakeningShownRef = useRef(false);
@@ -160,8 +164,14 @@ export default function GravitasPage() {
 
   const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
     setSelectedModule(moduleId);
+    const coreImprintActive = !state.avatarAwake && state.avatarImprintActive && (state.avatarProfile?.answers.length ?? 0) >= 3;
+    if (moduleId === "core" && coreImprintActive) {
+      setModuleInfoOpen(false);
+      setActivePanel("activation");
+      return;
+    }
     setModuleInfoOpen(true);
-  }, []);
+  }, [state.avatarAwake, state.avatarImprintActive, state.avatarProfile?.answers.length]);
 
   useEffect(() => {
     setHydrated(true);
@@ -182,6 +192,15 @@ export default function GravitasPage() {
   }, [state.avatarAwake]);
 
   useEffect(() => {
+    if (!state.avatarImprintActive || state.avatarAwake) {
+      if (imprintHoldRef.current !== null) {
+        window.clearInterval(imprintHoldRef.current);
+        imprintHoldRef.current = null;
+      }
+    }
+  }, [state.avatarImprintActive, state.avatarAwake]);
+
+  useEffect(() => {
     if (state.stationLost && !showGameOver) {
       setShowGameOver(true);
     }
@@ -200,6 +219,23 @@ export default function GravitasPage() {
     }
     prevThreatRef.current = state.threat;
   }, [state.threat]);
+
+  useEffect(() => {
+    const surgeTick = state.postWaveSurgeTicks;
+    const surgeMode = state.postWaveSurgeMode ?? "gentle";
+    if (
+      surgeTick > 0 &&
+      surgeTick <= 30 &&
+      surgeTick % 10 === 0 &&
+      (surgeTick !== prevSurgeRef.current || surgeMode !== prevSurgeModeRef.current)
+    ) {
+      const color = surgeMode === "aggressive" ? "bg-rose-500/30" : surgeTick <= 10 ? "bg-fuchsia-500/25" : "bg-amber-500/18";
+      setImpactFlash(color);
+      window.setTimeout(() => setImpactFlash(null), 1100);
+    }
+    prevSurgeRef.current = surgeTick;
+    prevSurgeModeRef.current = state.postWaveSurgeMode;
+  }, [state.postWaveSurgeTicks, state.postWaveSurgeMode]);
 
   useEffect(() => {
     const id = window.setInterval(() => {
@@ -255,6 +291,9 @@ export default function GravitasPage() {
     return () => {
       if (holdRef.current !== null) {
         window.clearInterval(holdRef.current);
+      }
+      if (imprintHoldRef.current !== null) {
+        window.clearInterval(imprintHoldRef.current);
       }
     };
   }, []);
@@ -418,6 +457,7 @@ export default function GravitasPage() {
   const isLockdown = state.lockdown;
   const introStage = state.phase === "boot" && state.tick < 18;
   const earlyStage = !state.avatarAwake && state.tick < 45;
+  const avatarImprintStageActive = !state.avatarAwake && (state.avatarProfile?.answers.length ?? 0) >= 3;
   const activeOperation = state.activeOperation;
   const scavengeOperation = state.scavengeOperation;
   const isScavengeActive = !!scavengeOperation;
@@ -432,6 +472,18 @@ export default function GravitasPage() {
       return {
         body: localize(content.ui.awakened),
         focus: null as "scavenge" | "repairLogistics" | "repairSensor" | "stabilize" | "reroute" | "activation" | null,
+      };
+    }
+
+    if (avatarImprintStageActive) {
+      return {
+        body: localize({
+          en: "Hold the core seal for 30 seconds without letting go.",
+          hu: "Tartsd lenyomva a magzárat 30 másodpercig elengedés nélkül.",
+          de: "Halte das Kernsiegel 30 Sekunden ohne Loslassen gedrückt.",
+          ro: "Ține sigiliul nucleului 30 de secunde fără să eliberezi.",
+        }),
+        focus: null as const,
       };
     }
 
@@ -550,6 +602,9 @@ export default function GravitasPage() {
 
   const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || guide.focus === "reroute";
   const isWavePaused = state.threat.pausedUntilAwake && !state.avatarAwake;
+  const postWaveSurgeActive = (state.postWaveSurgeTicks ?? 0) > 0;
+  const postWaveSurgeCalm = postWaveSurgeActive && state.postWaveSurgeTicks > 30;
+  const postWaveSurgeWarning = postWaveSurgeActive && state.postWaveSurgeTicks <= 30;
   const displayedWaveNumber = isWavePaused
     ? Math.min(3, Math.max(1, state.threatCycle))
     : state.threat.aftershock > 0
@@ -565,6 +620,7 @@ export default function GravitasPage() {
     : state.threat.aftershock > 0
     ? String(state.threat.aftershock)
     : `${Math.floor(state.threat.countdown / 60)}:${String(state.threat.countdown % 60).padStart(2, "0")}`;
+  const postWaveDisplay = postWaveSurgeActive ? `${Math.floor(state.postWaveSurgeTicks / 60)}:${String(state.postWaveSurgeTicks % 60).padStart(2, "0")}` : "";
 
   const beginTransfer = () => {
     if (state.phase !== "activation" || holdRef.current !== null || state.avatarAwake) return;
@@ -577,6 +633,23 @@ export default function GravitasPage() {
     if (holdRef.current !== null) {
       window.clearInterval(holdRef.current);
       holdRef.current = null;
+    }
+  };
+
+  const beginImprintHold = () => {
+    if (!avatarImprintStageActive || !state.avatarImprintActive || imprintHoldRef.current !== null) return;
+    imprintHoldRef.current = window.setInterval(() => {
+      dispatch({ type: "CHANNEL_AVATAR_IMPRINT", amount: 0.2 });
+    }, 60);
+  };
+
+  const stopImprintHold = () => {
+    if (imprintHoldRef.current !== null) {
+      window.clearInterval(imprintHoldRef.current);
+      imprintHoldRef.current = null;
+    }
+    if (avatarImprintStageActive && state.avatarImprintActive) {
+      dispatch({ type: "RESET_AVATAR_IMPRINT" });
     }
   };
 
@@ -975,7 +1048,7 @@ export default function GravitasPage() {
           />
         )}
         {showAwakening && (
-          <AwakeningCeremony key="gravitas-awakening" lang={lang} onDone={() => setShowAwakening(false)} />
+          <AwakeningCeremony key="gravitas-awakening" lang={lang} profile={state.avatarProfile} onDone={() => setShowAwakening(false)} />
         )}
       </AnimatePresence>
 
@@ -995,6 +1068,15 @@ export default function GravitasPage() {
               <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/20 text-fuchsia-300">
                 {localize(content.victory.firstLoopTitle)}
               </div>
+            )}
+            {avatarImprintStageActive && (
+              <button
+                type="button"
+                onClick={() => setActivePanel("activation")}
+                className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/16 text-fuchsia-200 transition hover:bg-fuchsia-500/24"
+              >
+                {localize(content.ui.imprintTitle)}
+              </button>
             )}
             {/* Phase Description Tooltip */}
             <div className="absolute top-full left-0 mt-2 p-3 rounded-xl bg-black/80 backdrop-blur-xl border border-white/10 text-[10px] text-white/60 w-48 opacity-0 group-hover:opacity-100 group-active:opacity-100 transition-opacity pointer-events-none z-[100] shadow-2xl">
@@ -1275,6 +1357,53 @@ export default function GravitasPage() {
               style={{ width: `${threatProgressPercent}%` }}
             />
           </div>
+
+          {postWaveSurgeActive && (
+            <div className={`mt-2 rounded-lg border px-2.5 py-2 text-[9px] font-black uppercase tracking-[0.18em] ${postWaveSurgeCalm ? "border-cyan-400/20 bg-cyan-400/6 text-cyan-100/65" : "border-amber-400/30 bg-amber-400/8 text-amber-100"}`}>
+              <div className="flex items-center justify-between gap-3">
+                <span>
+                  {postWaveSurgeCalm
+                    ? localize({ en: "Residual calm", hu: "Maradék nyugalom", de: "Restruhe", ro: "Liniște reziduală" })
+                    : localize({ en: "Awakening signal", hu: "Ébredési jel", de: "Erwachenssignal", ro: "Semnal de trezire" })}
+                </span>
+                <span className={postWaveSurgeWarning ? "text-white" : "text-cyan-100/70"}>
+                  {postWaveDisplay}
+                </span>
+              </div>
+              <div className="mt-1 text-[8px] leading-relaxed tracking-[0.16em] text-white/45">
+                {postWaveSurgeCalm
+                  ? localize({ en: "The frame is quiet. Something is lining up beneath the shell.", hu: "A keret nyugodt. Valami a burok alatt rendeződik.", de: "Der Rahmen ist ruhig. Etwas richtet sich unter der Hülle aus.", ro: "Cadrul e liniștit. Ceva se aliniază sub carcasă." })
+                  : localize({ en: "Stay ready. The shell is preparing to answer.", hu: "Légy készen. A test válaszra készül.", de: "Bereit bleiben. Die Hülle bereitet eine Antwort vor.", ro: "Rămâi pregătit. Corpul se pregătește să răspundă." })}
+              </div>
+            </div>
+          )}
+
+          {avatarImprintStageActive && state.avatarImprintActive && state.avatarProfile && (
+            <GravitasImprint
+              state={state}
+              profile={state.avatarProfile}
+              onBeginHold={beginImprintHold}
+              onStopHold={stopImprintHold}
+            />
+          )}
+
+          {state.avatarProfile && state.avatarProfile.answers.length >= 3 && (
+            <div className="mt-2 rounded-lg border border-fuchsia-400/20 bg-fuchsia-400/8 px-2.5 py-2 text-[9px] font-black uppercase tracking-[0.18em] text-fuchsia-100">
+              <div className="flex items-center justify-between gap-3">
+                <span>
+                  {localize({ en: "Avatar imprint", hu: "Avatar lenyomat", de: "Avatar-Prägung", ro: "Amprentă avatar" })}
+                </span>
+                <span>{localize(state.avatarProfile.title)}</span>
+              </div>
+              <div className="mt-1 flex flex-wrap gap-1.5 text-[8px] tracking-[0.16em] text-white/55">
+                {state.avatarProfile.answers.map((answer, idx) => (
+                  <span key={`${answer.questionId}-${answer.optionId}-${idx}`} className="rounded-full border border-white/10 bg-black/20 px-2 py-0.5">
+                    {idx + 1}. {localize(answer.label)}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
 
           {earlyStage && state.threat.aftershock === 0 && (
             <div className="mt-2 text-[9px] font-bold uppercase tracking-[0.18em] text-cyan-200/65">
@@ -1862,21 +1991,42 @@ export default function GravitasPage() {
               )}
 
               {activePanel === "activation" && (
-                <GravitasActivation
-                  state={state}
-                  t={{
-                    transferTitle: localize(ui.transferTitle),
-                    transferReady: localize(ui.transferReady),
-                    transferLocked: localize(ui.transferLocked),
-                    transferStageLabel: localize(ui.transferStageLabel),
-                    hold: localize(ui.hold),
-                    awakeningMoment: localize(ui.awakeningMoment),
-                    awakeningBody: localize(ui.awakeningBody),
-                    resonance: localize(ui.resonance),
-                  }}
-                  onBeginTransfer={beginTransfer}
-                  onStopTransfer={stopTransfer}
-                />
+                state.avatarAwake ? (
+                  <div className="rounded-2xl border border-fuchsia-400/20 bg-fuchsia-500/8 p-5 text-center">
+                    <div className="text-[10px] font-black uppercase tracking-[0.28em] text-fuchsia-300">
+                      {localize({ en: "Awakening complete", hu: "Ébredés kész", de: "Erwachen abgeschlossen", ro: "Trezire completă" })}
+                    </div>
+                    <div className="mt-2 text-sm font-black text-white">
+                      {localize(content.victory.firstLoopTitle)}
+                    </div>
+                    <div className="mt-2 text-[11px] leading-relaxed text-white/60">
+                      {localize(content.ui.awakened)}
+                    </div>
+                  </div>
+                ) : avatarImprintStageActive && state.avatarImprintActive && state.avatarProfile ? (
+                  <GravitasImprint
+                    state={state}
+                    profile={state.avatarProfile}
+                    onBeginHold={beginImprintHold}
+                    onStopHold={stopImprintHold}
+                  />
+                ) : (
+                  <GravitasActivation
+                    state={state}
+                    t={{
+                      transferTitle: localize(ui.transferTitle),
+                      transferReady: localize(ui.transferReady),
+                      transferLocked: localize(ui.transferLocked),
+                      transferStageLabel: localize(ui.transferStageLabel),
+                      hold: localize(ui.hold),
+                      awakeningMoment: localize(ui.awakeningMoment),
+                      awakeningBody: localize(ui.awakeningBody),
+                      resonance: localize(ui.resonance),
+                    }}
+                    onBeginTransfer={beginTransfer}
+                    onStopTransfer={stopTransfer}
+                  />
+                )
               )}
             </div>
           </motion.div>
@@ -1886,32 +2036,37 @@ export default function GravitasPage() {
       {/* Event Modal */}
       <AnimatePresence>
         {state.pendingEvent && (
+          (() => {
+            const isAvatarPrep = state.pendingEvent?.id === "avatarPreparation";
+            return (
           <motion.div
             initial={{ opacity: 0, y: 18 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 18 }}
             className="pointer-events-none fixed inset-x-0 bottom-[104px] z-[100] px-3 lg:inset-x-auto lg:bottom-6 lg:right-6 lg:px-0"
           >
-            <div className="pointer-events-auto mx-auto w-full max-w-md rounded-[26px] border border-amber-400/30 bg-[#151005]/96 p-4 shadow-[0_20px_60px_rgba(0,0,0,0.45)] backdrop-blur-xl lg:mx-0 lg:w-[380px]">
+            <div className={`pointer-events-auto mx-auto w-full max-w-md rounded-[26px] p-4 shadow-[0_20px_60px_rgba(0,0,0,0.45)] backdrop-blur-xl lg:mx-0 lg:w-[380px] ${isAvatarPrep ? "border border-fuchsia-400/30 bg-[#130815]/96" : "border border-amber-400/30 bg-[#151005]/96"}`}>
               <div className="mb-4 flex items-center justify-between gap-4">
-                <div className="rounded-full border border-amber-400/20 bg-amber-400/10 px-3 py-1 text-[10px] font-black uppercase tracking-widest text-amber-400">
-                  Anomaly Detected
+                <div className={`rounded-full border px-3 py-1 text-[10px] font-black uppercase tracking-widest ${isAvatarPrep ? "border-fuchsia-400/20 bg-fuchsia-400/10 text-fuchsia-300" : "border-amber-400/20 bg-amber-400/10 text-amber-400"}`}>
+                  {isAvatarPrep
+                    ? localize({ en: "Avatar preparation", hu: "Avatar-előkészítés", de: "Avatar-Vorbereitung", ro: "Pregătire avatar" })
+                    : "Anomaly Detected"}
                 </div>
                 {state.pendingEvent.chainStep && (
                   <div className="text-[10px] font-black text-white/40">STEP {state.pendingEvent.chainStep}/{state.pendingEvent.chainTotal}</div>
                 )}
               </div>
               <h2 className="mb-2 text-lg font-black leading-tight text-white lg:text-xl">{localize(state.pendingEvent.title)}</h2>
-              <p className="mb-4 text-sm leading-relaxed text-white/72 lg:text-[15px]">{localize(state.pendingEvent.body)}</p>
+              <p className={`mb-4 text-sm leading-relaxed lg:text-[15px] ${isAvatarPrep ? "text-fuchsia-100/72" : "text-white/72"}`}>{localize(state.pendingEvent.body)}</p>
               <div className="grid gap-3">
                 {state.pendingEvent.options.map((opt, idx) => (
                   <button
                     key={`${state.pendingEvent?.id ?? "event"}-${state.pendingEvent?.chainStep ?? 0}-${opt.id}-${idx}`}
                     onClick={() => doAction({ type: "RESOLVE_EVENT", optionId: opt.id }, "rgba(251,191,36,0.35)")}
-                    className={`w-full rounded-2xl border p-4 text-left transition active:scale-[0.98] ${idx === 0 ? "border-amber-400 bg-amber-400/10 hover:bg-amber-400/20" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
+                    className={`w-full rounded-2xl border p-4 text-left transition active:scale-[0.98] ${isAvatarPrep ? "border-fuchsia-400/15 bg-white/5 hover:bg-white/10" : idx === 0 ? "border-amber-400 bg-amber-400/10 hover:bg-amber-400/20" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
                   >
-                    <div className={`mb-1 text-[9px] font-black uppercase tracking-[0.2em] ${idx === 0 ? "text-amber-400" : "text-white/40"}`}>
-                      {idx === 0 ? "Priority Protocol" : "Alternative Route"}
+                    <div className={`mb-1 text-[9px] font-black uppercase tracking-[0.2em] ${isAvatarPrep ? "text-fuchsia-300" : idx === 0 ? "text-amber-400" : "text-white/40"}`}>
+                      {isAvatarPrep ? localize({ en: "Trait option", hu: "Tulajdonság opció", de: "Eigenschaftsoption", ro: "Opțiune de trăsătură" }) : idx === 0 ? "Priority Protocol" : "Alternative Route"}
                     </div>
                     <div className="text-sm font-black leading-snug text-white">{localize(opt.label)}</div>
                   </button>
@@ -1919,6 +2074,8 @@ export default function GravitasPage() {
               </div>
             </div>
           </motion.div>
+            );
+          })()
         )}
       </AnimatePresence>
 

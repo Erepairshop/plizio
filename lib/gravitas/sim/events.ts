@@ -1,4 +1,4 @@
-import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString, StarholdPendingEvent } from "./types";
+import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString, StarholdPendingEvent, AvatarTraitId, StarholdAvatarAnswer, StarholdAvatarProfile } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 
@@ -61,7 +61,140 @@ function restoreModuleSet(state: StarholdState, moduleIds: StarholdModuleId[], a
   };
 }
 
+export function createAvatarPreparationEvent(stepNumber: number): StarholdPendingEvent {
+  const step = Math.min(3, Math.max(1, stepNumber));
+  const content = T.avatarPreparation[`step${step}` as "step1" | "step2" | "step3"];
+  return {
+    id: "avatarPreparation",
+    title: content.title,
+    body: content.body,
+    options: Object.entries(content.options).map(([id, label]) => ({ id, label })),
+    chainId: "avatar-preparation",
+    chainStep: step,
+    chainTotal: 3,
+  };
+}
+
+const AVATAR_TRAIT_TITLES: Record<AvatarTraitId, LocalizedString> = {
+  calm: { en: "Calm frame", hu: "Nyugodt keret", de: "Ruhiger Rahmen", ro: "Cadru calm" },
+  curious: { en: "Curious frame", hu: "Kíváncsi keret", de: "Neugieriger Rahmen", ro: "Cadru curios" },
+  protective: { en: "Protective frame", hu: "Védelmező keret", de: "Beschützender Rahmen", ro: "Cadru protector" },
+  bold: { en: "Bold frame", hu: "Bátor keret", de: "Mutiger Rahmen", ro: "Cadru îndrăzneț" },
+};
+
+function createAvatarProfile(answers: StarholdAvatarAnswer[], completedAtTick: number): StarholdAvatarProfile {
+  const traitScores: Record<AvatarTraitId, number> = {
+    calm: 0,
+    curious: 0,
+    protective: 0,
+    bold: 0,
+  };
+  for (const answer of answers) {
+    traitScores[answer.trait] += 1;
+  }
+  const archetype = (Object.entries(traitScores).sort((a, b) => b[1] - a[1])[0]?.[0] ?? "calm") as AvatarTraitId;
+  return {
+    completedAtTick,
+    archetype,
+    answers,
+    traitScores,
+    title: AVATAR_TRAIT_TITLES[archetype],
+  };
+}
+
+function appendAvatarAnswer(state: StarholdState, answer: StarholdAvatarAnswer): StarholdState {
+  const currentAnswers = state.avatarProfile?.answers ?? [];
+  const nextAnswers = [...currentAnswers, answer];
+  const partialScores: Record<AvatarTraitId, number> = {
+    calm: 0,
+    curious: 0,
+    protective: 0,
+    bold: 0,
+  };
+  for (const existing of nextAnswers) {
+    partialScores[existing.trait] += 1;
+  }
+  return {
+    ...state,
+    avatarProfile: {
+      completedAtTick: state.avatarProfile?.completedAtTick ?? state.tick,
+      archetype: state.avatarProfile?.archetype ?? answer.trait,
+      answers: nextAnswers,
+      traitScores: partialScores,
+      title: state.avatarProfile?.title ?? AVATAR_TRAIT_TITLES[answer.trait],
+    },
+  };
+}
+
 const STARHOLD_EVENTS: StarholdEventDefinition[] = [
+  {
+    id: "avatarPreparation",
+    minTick: 0,
+    cooldown: 0,
+    shouldTrigger: () => false,
+    create: () => createAvatarPreparationEvent(1),
+    resolve: (state, optionId) => {
+      const step = Math.min(3, Math.max(1, state.pendingEvent?.chainStep ?? 1));
+      const optionTraitMap: Record<string, AvatarTraitId> = {
+        calm: "calm",
+        curious: "curious",
+        protective: "protective",
+        bold: "bold",
+      };
+      const selectedTrait = optionTraitMap[optionId] ?? "calm";
+      const currentContent = T.avatarPreparation[`step${step}` as "step1" | "step2" | "step3"];
+      const chosenLabel = currentContent.options[optionId as keyof typeof currentContent.options] ?? currentContent.options.calm;
+      const answer: StarholdAvatarAnswer = {
+        questionId: `step${step}`,
+        optionId,
+        trait: selectedTrait,
+        label: chosenLabel,
+      };
+      const nextState = appendAvatarAnswer(state, answer);
+
+      const nextStep = step + 1;
+      if (step < 3) {
+        const nextContent = T.avatarPreparation[`step${nextStep}` as "step1" | "step2" | "step3"];
+        return {
+          ...nextState,
+          pendingEvent: {
+            id: "avatarPreparation",
+            title: nextContent.title,
+            body: nextContent.body,
+            options: Object.entries(nextContent.options).map(([id, label]) => ({ id, label })),
+            chainId: "avatar-preparation",
+            chainStep: nextStep,
+            chainTotal: 3,
+          },
+          alert: {
+            en: `Profile note: ${AVATAR_TRAIT_TITLES[selectedTrait].en}`,
+            hu: `Profiljegy: ${AVATAR_TRAIT_TITLES[selectedTrait].hu}`,
+            de: `Profilhinweis: ${AVATAR_TRAIT_TITLES[selectedTrait].de}`,
+            ro: `Notă de profil: ${AVATAR_TRAIT_TITLES[selectedTrait].ro}`,
+          },
+          journal: pushJournal(state, {
+            en: `Avatar prep step ${step} recorded: ${optionId}.`,
+            hu: `Avatar-előkészítés ${step}. lépés rögzítve: ${optionId}.`,
+            de: `Avatar-Vorbereitung Schritt ${step} gespeichert: ${optionId}.`,
+            ro: `Pasul ${step} al pregătirii avatarului înregistrat: ${optionId}.`,
+          }),
+        };
+      }
+
+      const finalProfile = createAvatarProfile(nextState.avatarProfile?.answers ?? [answer], state.tick);
+      return {
+        ...nextState,
+        pendingEvent: null,
+        avatarProfile: finalProfile,
+        avatarImprintActive: true,
+        avatarImprintProgress: 0,
+        alert: A.avatarImprintStart,
+        journal: pushJournal(state, J.avatarImprintJournal),
+        postWaveSurgeTicks: 0,
+        postWaveSurgeMode: null,
+      };
+    },
+  },
   {
     id: "waveRecovery",
     minTick: 0,
@@ -71,69 +204,101 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     resolve: (state, optionId) => {
       const step = Math.min(3, Math.max(1, state.pendingEvent?.chainStep ?? 1));
       const success = {
-        en: "Wave recovery confirmed.",
-        hu: "Hullámhelyreállítás megerősítve.",
-        de: "Wellenwiederherstellung bestätigt.",
-        ro: "Recuperarea valului confirmată.",
+        en: "Congratulations. Your answer was perfect.",
+        hu: "Gratulálok. A válaszod tökéletes volt.",
+        de: "Glückwunsch. Deine Antwort war perfekt.",
+        ro: "Felicitări. Răspunsul tău a fost perfect.",
       };
       const fail = {
-        en: "Recovery question rejected. Damage remains.",
-        hu: "A helyreállítási kérdés hibás. A sérülés marad.",
-        de: "Wiederherstellungsfrage falsch. Schaden bleibt bestehen.",
-        ro: "Întrebarea de recuperare a fost greșită. Paguba rămâne.",
+        en: "Wrong answer. The stabilizer frame kicked back hard.",
+        hu: "Rossz válasz. A stabilizátor keret erősen visszarúgott.",
+        de: "Falsche Antwort. Der Stabilisatorrahmen schlug hart zurück.",
+        ro: "Răspuns greșit. Cadrul stabilizator a lovit înapoi puternic.",
       };
 
       if (step === 1 && optionId === "reactor") {
-        return restoreModuleSet(
+        const restored = restoreModuleSet(
           state,
           ["reactor"],
           success,
           {
-            en: "The first fault line was sealed and the reactor came back online.",
-            hu: "Az első törésvonal lezárult, a reaktor újra online lett.",
-            de: "Die erste Bruchlinie wurde versiegelt und der Reaktor ging wieder online.",
-            ro: "Prima linie de avarie a fost sigilată și reactorul a revenit online.",
+            en: "Perfect answer. Reactor restored and the fault line sealed.",
+            hu: "Tökéletes válasz. A reaktor helyreállt, a törésvonal lezárult.",
+            de: "Perfekte Antwort. Reaktor wiederhergestellt und Bruchlinie versiegelt.",
+            ro: "Răspuns perfect. Reactorul a fost restaurat și linia de avarie a fost sigilată.",
           }
         );
+        return {
+          ...restored,
+          threat: {
+            ...restored.threat,
+            aftershock: 0,
+          },
+          recoveryPriority: null,
+          postWaveSurgeTicks: 0,
+          postWaveSurgeMode: null,
+        };
       }
 
       if (step === 2 && optionId === "reactorLogistics") {
-        return restoreModuleSet(
+        const restored = restoreModuleSet(
           state,
           ["reactor", "logistics"],
           success,
           {
-            en: "Reactor and logistics synchronized. The supply line has recovered.",
-            hu: "A reaktor és a logisztika szinkronba került. Az ellátási lánc helyreállt.",
-            de: "Reaktor und Logistik synchronisiert. Die Versorgungslinie hat sich erholt.",
-            ro: "Reactorul și logistica s-au sincronizat. Linia de aprovizionare și-a revenit.",
+            en: "Perfect answer. Reactor and logistics are back in sync.",
+            hu: "Tökéletes válasz. A reaktor és a logisztika újra szinkronban van.",
+            de: "Perfekte Antwort. Reaktor und Logistik sind wieder synchron.",
+            ro: "Răspuns perfect. Reactorul și logistica sunt din nou sincronizate.",
           }
         );
+        return {
+          ...restored,
+          threat: {
+            ...restored.threat,
+            aftershock: 0,
+          },
+          recoveryPriority: null,
+          postWaveSurgeTicks: 0,
+          postWaveSurgeMode: null,
+        };
       }
 
-      if (step === 3 && optionId === "triad") {
-        return restoreModuleSet(
+      if (step === 3 && optionId === "shellLock") {
+        const restored = restoreModuleSet(
           state,
           ["reactor", "logistics", "sensor"],
           success,
           {
-            en: "The full trio locked in. Reactor, logistics, and sensor all came back clean.",
-            hu: "A teljes hármas rögzült. A reaktor, a logisztika és a szenzor is helyreállt.",
-            de: "Das gesamte Trio verriegelt. Reaktor, Logistik und Sensor sind wieder sauber.",
-            ro: "Trio-ul complet s-a blocat. Reactorul, logistica și senzorii au revenit curate.",
+            en: "Perfect answer. Reactor, logistics, and sensor all returned to calm.",
+            hu: "Tökéletes válasz. A reaktor, a logisztika és a szenzor is nyugalomba tért.",
+            de: "Perfekte Antwort. Reaktor, Logistik und Sensor sind in den Ruhezustand zurückgekehrt.",
+            ro: "Răspuns perfect. Reactorul, logistica și senzorul au revenit la calm.",
           }
         );
+        return {
+          ...restored,
+          threat: {
+            ...restored.threat,
+            aftershock: 0,
+          },
+          recoveryPriority: null,
+          postWaveSurgeTicks: 60,
+          postWaveSurgeMode: "gentle",
+        };
       }
 
       return {
         ...state,
         pendingEvent: null,
+        postWaveSurgeTicks: 60,
+        postWaveSurgeMode: "aggressive",
         alert: fail,
         journal: pushJournal(state, {
-          en: "The recovery check failed. The station kept its current damage state.",
-          hu: "A helyreállítási ellenőrzés hibás volt. Az állomás megtartotta a jelenlegi sérüléseit.",
-          de: "Der Wiederherstellungscheck war falsch. Der Schaden blieb bestehen.",
-          ro: "Verificarea de recuperare a eșuat. Stația și-a păstrat starea de avarie.",
+          en: "The recovery check failed. The wave remains a lingering threat.",
+          hu: "A helyreállítási ellenőrzés hibás volt. A hullám továbbra is fenyeget.",
+          de: "Der Wiederherstellungscheck war falsch. Die Welle bleibt eine anhaltende Bedrohung.",
+          ro: "Verificarea de recuperare a eșuat. Valul rămâne o amenințare latentă.",
         }),
       };
     },

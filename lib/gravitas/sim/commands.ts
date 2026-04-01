@@ -6,6 +6,7 @@ import { resolveStarholdEvent } from "./events";
 import { GRAVITAS_TEXT } from "./content";
 import { buyStarholdItem, checkStarholdMilestones, claimStarholdMilestone } from "./progression";
 import { getStarholdModifiers } from "./modifiers";
+import { createNextThreat } from "./threats";
 
 function startOperation(
   state: StarholdState,
@@ -247,6 +248,49 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "CHANNEL_TO_CORE": {
       return channelActivationPulse(state, command.amount);
+    }
+    case "CHANNEL_AVATAR_IMPRINT": {
+      if (!state.avatarImprintActive || state.avatarAwake) return state;
+      const nextProgress = clamp(state.avatarImprintProgress + command.amount);
+      const reachedComplete = nextProgress >= 100;
+      const nextState: StarholdState = {
+        ...state,
+        avatarImprintProgress: nextProgress,
+      };
+
+      if (!reachedComplete) {
+        return nextState;
+      }
+
+      const awakenedThreat = state.threat.pausedUntilAwake
+        ? createNextThreat({ ...state, avatarAwake: true }, state.threatCycle + 1)
+        : state.threat;
+
+      return {
+        ...nextState,
+        avatarImprintActive: false,
+        avatarImprintProgress: 100,
+        avatarAwake: true,
+        phase: "awakened",
+        resources: {
+          ...state.resources,
+          activation: 100,
+          power: clamp(state.resources.power - 6),
+          stability: clamp(state.resources.stability + 6),
+        },
+        worldPulse: clamp(state.worldPulse + 8),
+        threat: awakenedThreat,
+        firstLoopComplete: true,
+        alert: GRAVITAS_TEXT.alerts.avatarImprintComplete,
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.avatarImprintCompleteJournal),
+      };
+    }
+    case "RESET_AVATAR_IMPRINT": {
+      if (state.avatarAwake) return state;
+      return {
+        ...state,
+        avatarImprintProgress: 0,
+      };
     }
     case "DISTORTION_SWEEP": {
       const cost = Math.ceil(8 * mods.powerCostMod);

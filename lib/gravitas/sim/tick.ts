@@ -1,5 +1,5 @@
 import type { StarholdModuleId, StarholdState, LocalizedString } from "./types";
-import { applyStarholdEvents } from "./events";
+import { applyStarholdEvents, createAvatarPreparationEvent } from "./events";
 import { clamp } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { coolDownResonance, unlockActivationTransfer } from "./activation";
@@ -157,7 +157,7 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
     };
   }
 
-  const materialsGain = 1;
+  const materialsGain = 2;
 
   return {
     ...state,
@@ -176,6 +176,9 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
 }
 
 export function advanceStarholdTick(state: StarholdState): StarholdState {
+  if (state.pendingEvent?.id === "avatarPreparation" || (state.avatarImprintActive && !state.avatarAwake)) {
+    return state;
+  }
   const scriptedPhaseOne = !state.avatarAwake && state.tick < 300;
   const mods = getStarholdModifiers(state);
   const nextQuietTicks = Math.max(0, (state.eventQuietTicks ?? 0) - 1);
@@ -186,6 +189,12 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     state.reactorRecovery.active &&
     state.threatCycle === 1 &&
     state.tick < state.reactorRecovery.nextPromptTick;
+  const postWaveSurgeActive = (state.postWaveSurgeTicks ?? 0) > 0;
+  const postWaveSurgeDangerWindow = postWaveSurgeActive && state.postWaveSurgeTicks <= 30;
+  const postWaveSurgeSpike =
+    postWaveSurgeDangerWindow &&
+    (state.postWaveSurgeTicks % 10 === 0);
+  const postWaveSurgeMode = state.postWaveSurgeMode ?? "gentle";
   const sensorOnline = state.modules.sensor.online;
   const sensorIntegrity = state.modules.sensor.integrity;
   const reactorBoost = state.modules.reactor.online ? (introWindow ? 3 : settlingWindow ? 2 : 2) : 0;
@@ -231,7 +240,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   const phaseStabilityBonus = worldPhase === 2 ? 1 : 0;
   const phaseEntropyBias = worldPhase === 3 ? 1 : 0;
 
-  const nextPower = clamp(
+  let nextPower = clamp(
     state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain - phasePowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0) + (isAwakened ? 1 : 0)
   );
   let nextStability = clamp(
@@ -256,6 +265,16 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
         Math.min(82, state.resources.stability + 3)
       )
     );
+  }
+  if (postWaveSurgeDangerWindow) {
+    const surgeDrop =
+      postWaveSurgeMode === "aggressive"
+        ? (state.postWaveSurgeTicks > 20 ? 5 : state.postWaveSurgeTicks > 10 ? 7 : 9)
+        : (state.postWaveSurgeTicks > 20 ? 2 : state.postWaveSurgeTicks > 10 ? 4 : 6);
+    nextStability = clamp(Math.max(16, nextStability - (postWaveSurgeSpike ? surgeDrop : 1)));
+    if (postWaveSurgeSpike) {
+      nextPower = clamp(nextPower - (postWaveSurgeMode === "aggressive" ? 2 : 1));
+    }
   }
 
   let nextModules = { ...state.modules };
@@ -435,8 +454,18 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   if (firstWaveRecoveryActive) {
     nextEntropy = clamp(nextEntropy - 1);
   }
+  if (postWaveSurgeDangerWindow) {
+    nextEntropy = clamp(nextEntropy + (postWaveSurgeSpike ? 1 : 0));
+  }
 
   const nextWorldPhase = state.tick > 0 && state.tick % 40 === 0 ? (state.worldPhase + 1) % 4 : state.worldPhase;
+  if (postWaveSurgeSpike) {
+    nextAlert = state.postWaveSurgeTicks >= 20
+      ? GRAVITAS_TEXT.alerts.finalWaveSpike
+      : state.postWaveSurgeTicks >= 10
+        ? GRAVITAS_TEXT.alerts.finalWaveDrop
+        : GRAVITAS_TEXT.alerts.finalWaveSettle;
+  }
   const worldPulseGain =
     Math.floor(totalMarks / (settlingWindow ? 6 : 4)) +
     Math.floor(nextEntropy / (settlingWindow ? 28 : 20)) +
@@ -526,6 +555,8 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
             active: false,
           }
         : state.reactorRecovery,
+    postWaveSurgeTicks: postWaveSurgeActive ? Math.max(0, state.postWaveSurgeTicks - 1) : 0,
+    postWaveSurgeMode: postWaveSurgeActive ? state.postWaveSurgeMode : null,
     activeOperation:
       state.activeOperation
         ? {
@@ -542,7 +573,23 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
 
   const withScavenge = advanceScavengeOperation(withOperation);
 
+  const postWavePreparationTrigger =
+    !withScavenge.avatarAwake &&
+    !withScavenge.avatarProfile &&
+    withScavenge.threatCycle >= 3 &&
+    withScavenge.postWaveSurgeTicks === 0 &&
+    !withScavenge.pendingEvent;
+
   let scriptedState = withScavenge;
+  if (postWavePreparationTrigger) {
+    const pendingEvent = createAvatarPreparationEvent(1);
+    scriptedState = {
+      ...withScavenge,
+      pendingEvent,
+      alert: pendingEvent.title,
+    };
+  }
+
   if (scriptedPhaseOne && state.tick >= 235 && scriptedState.phase === "boot") {
     scriptedState = {
       ...unlockActivationTransfer(scriptedState),
@@ -561,7 +608,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     };
   }
 
-  if (!state.avatarAwake && state.tick >= 299 && !scriptedState.pendingEvent) {
+  if (!state.avatarAwake && state.tick >= 299 && !scriptedState.pendingEvent && scriptedState.avatarProfile) {
     const resumedThreat = scriptedState.threat.pausedUntilAwake
       ? createNextThreat({ ...scriptedState, avatarAwake: true }, scriptedState.threatCycle + 1)
       : scriptedState.threat;
@@ -579,6 +626,15 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       threat: resumedThreat,
       alert: GRAVITAS_TEXT.activation.awakenedAlert,
       journal: pushJournal(scriptedState, GRAVITAS_TEXT.ui.phaseShift),
+    };
+  }
+
+  if (!state.avatarAwake && state.tick >= 299 && !scriptedState.pendingEvent && !scriptedState.avatarProfile) {
+    const pendingEvent = createAvatarPreparationEvent(1);
+    scriptedState = {
+      ...scriptedState,
+      pendingEvent,
+      alert: pendingEvent.title,
     };
   }
 

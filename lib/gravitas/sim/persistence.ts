@@ -1,7 +1,14 @@
 import type { StarholdState } from "./types";
 
-const SAVE_KEY = "gravitas_save_v1";
+const SAVE_KEY_PREFIX = "gravitas_save_v2";
+const FALLBACK_SAVE_KEY = "gravitas_save_v1";
 const MAX_JOURNAL_ENTRIES = 20;
+
+function getSaveKey(): string {
+  if (typeof window === "undefined") return SAVE_KEY_PREFIX;
+  const userKey = localStorage.getItem("plizio_username_id") || localStorage.getItem("plizio_username") || "anonymous";
+  return `${SAVE_KEY_PREFIX}_${userKey}`;
+}
 
 export function saveGravitasState(state: StarholdState): void {
   if (state.tick % 5 !== 0) return;
@@ -9,8 +16,10 @@ export function saveGravitasState(state: StarholdState): void {
     const toSave: StarholdState = {
       ...state,
       journal: state.journal.slice(0, MAX_JOURNAL_ENTRIES),
+      avatarImprintActive: false,
+      avatarImprintProgress: 0,
     };
-    localStorage.setItem(SAVE_KEY, JSON.stringify(toSave));
+    localStorage.setItem(getSaveKey(), JSON.stringify(toSave));
   } catch {
     // localStorage may be full or unavailable — fail silently
   }
@@ -18,7 +27,7 @@ export function saveGravitasState(state: StarholdState): void {
 
 export function loadGravitasState(): StarholdState | null {
   try {
-    const raw = localStorage.getItem(SAVE_KEY);
+    const raw = localStorage.getItem(getSaveKey()) || localStorage.getItem(FALLBACK_SAVE_KEY);
     if (!raw) return null;
     const parsed = JSON.parse(raw) as StarholdState;
     // Basic sanity check — ensure core fields exist
@@ -92,6 +101,11 @@ export function loadGravitasState(): StarholdState | null {
         completedStabilizations: 0,
         nextPromptTick: 0,
       },
+      postWaveSurgeTicks: parsed.postWaveSurgeTicks ?? 0,
+      postWaveSurgeMode: parsed.postWaveSurgeMode ?? null,
+      avatarProfile: parsed.avatarProfile ?? null,
+      avatarImprintActive: parsed.avatarAwake ? false : (parsed.avatarProfile?.answers?.length ?? 0) >= 3,
+      avatarImprintProgress: 0,
     };
   } catch {
     return null;
@@ -100,7 +114,8 @@ export function loadGravitasState(): StarholdState | null {
 
 export function clearGravitasSave(): void {
   try {
-    localStorage.removeItem(SAVE_KEY);
+    localStorage.removeItem(getSaveKey());
+    localStorage.removeItem(FALLBACK_SAVE_KEY);
   } catch {
     // fail silently
   }

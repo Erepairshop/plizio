@@ -77,6 +77,7 @@ export class GravitasBaseScene extends Phaser.Scene {
   private actionSequenceUntil = 0;
   private skipNextScavengeAutoLaunch = false;
   private lastThreatAftershock = 0;
+  private lastPostWaveSurgeTick = -1;
 
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
@@ -369,6 +370,32 @@ export class GravitasBaseScene extends Phaser.Scene {
       this.time.delayedCall(i * 140, () => {
         this.createEnergyPulse(from, MODULE_POSITIONS.core, color, 260);
       });
+    }
+  }
+
+  private playAwakeningTeaser(ticksRemaining: number, aggressive = false) {
+    const intensity = aggressive ? 1 : 0.65;
+    const color = aggressive ? 0xfb7185 : 0x22d3ee;
+    const center = MODULE_POSITIONS.core;
+
+    this.flashNode("core", color, {
+      radius: aggressive ? 30 : 24,
+      alpha: aggressive ? 0.24 : 0.16,
+      scale: aggressive ? 1.32 : 1.18,
+      duration: aggressive ? 180 : 240,
+    });
+    this.createPulseRing(center.x, center.y, aggressive ? 54 : 44, color, aggressive ? 620 : 760, aggressive ? 2.0 : 1.7, aggressive ? 0.24 : 0.16);
+
+    const moduleIds: StarholdModuleId[] = ["reactor", "logistics", "sensor"];
+    moduleIds.forEach((moduleId, index) => {
+      const pos = MODULE_POSITIONS[moduleId];
+      this.time.delayedCall(index * 80, () => {
+        this.createEnergyPulse(pos, center, color, aggressive ? 240 : 320);
+      });
+    });
+
+    if (ticksRemaining <= 10) {
+      this.time.delayedCall(120, () => this.cameras.main.flash(80, 160, aggressive ? 90 : 220, 255, false));
     }
   }
 
@@ -1117,6 +1144,19 @@ export class GravitasBaseScene extends Phaser.Scene {
         this.threatGfx.fillRect(0, 0, 840, 510);
         this.threatGfx.lineStyle(14, 0x000000, 0.12);
         this.threatGfx.strokeRect(0, 0, 840, 510);
+    } else if ((state.postWaveSurgeTicks ?? 0) > 0) {
+        const surge = state.postWaveSurgeTicks;
+        const aggressive = state.postWaveSurgeMode === "aggressive";
+        const calmWindow = surge > 30;
+        const color = aggressive ? 0xfb7185 : 0x22d3ee;
+        const alpha = calmWindow ? 0.018 + Math.sin(this.animTime / 420) * 0.006 : 0.045 + ((30 - surge) / 30) * 0.05;
+
+        this.threatGfx.fillStyle(color, alpha);
+        this.threatGfx.fillRect(0, 0, 840, 510);
+        this.threatGfx.lineStyle(calmWindow ? 1 : 2, color, calmWindow ? 0.06 : 0.16);
+        this.threatGfx.strokeCircle(420, 255, calmWindow ? 120 + Math.sin(this.animTime / 500) * 4 : 110 + Math.sin(this.animTime / 180) * 10);
+        this.threatGfx.lineStyle(calmWindow ? 1 : 2, aggressive ? 0xfb7185 : 0x8b5cf6, calmWindow ? 0.04 : 0.1);
+        this.threatGfx.strokeCircle(420, 255, calmWindow ? 150 + Math.cos(this.animTime / 420) * 6 : 142 + Math.cos(this.animTime / 160) * 12);
     }
 
     // Core specific
@@ -1134,6 +1174,15 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.coreLevel.setColor(selectedModule === "core" ? "#ffffff" : "#ffd1e8");
     this.coreLevel.setAlpha(core.online ? 0.95 : 0.45);
     this.coreLevel.setScale(selectedModule === "core" ? 1.08 : 1);
+
+    if ((state.postWaveSurgeTicks ?? 0) > 0 && state.postWaveSurgeTicks !== this.lastPostWaveSurgeTick) {
+      if (state.postWaveSurgeTicks <= 30 && state.postWaveSurgeTicks % 10 === 0) {
+        this.playAwakeningTeaser(state.postWaveSurgeTicks, state.postWaveSurgeMode === "aggressive");
+      }
+      this.lastPostWaveSurgeTick = state.postWaveSurgeTicks;
+    } else if ((state.postWaveSurgeTicks ?? 0) === 0) {
+      this.lastPostWaveSurgeTick = -1;
+    }
 
     this.activationGfx.clear();
     this.activationGfx.lineStyle(4, 0xdb2777, 0.4);

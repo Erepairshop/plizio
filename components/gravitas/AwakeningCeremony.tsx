@@ -1,9 +1,11 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
+import type { StarholdAvatarProfile } from "@/lib/gravitas/sim/types";
 
 interface Props {
   lang: string;
   onDone: () => void;
+  profile?: StarholdAvatarProfile | null;
 }
 
 const TEXTS: Record<string, string> = {
@@ -20,8 +22,15 @@ const CONTINUE_TEXTS: Record<string, string> = {
   ro: "Continuă",
 };
 
-export default function AwakeningCeremony({ lang, onDone }: Props) {
+export default function AwakeningCeremony({ lang, onDone, profile }: Props) {
   const [showButton, setShowButton] = useState(false);
+  const accent = profile?.archetype === "protective"
+    ? "#10b981"
+    : profile?.archetype === "curious"
+      ? "#8b5cf6"
+      : profile?.archetype === "bold"
+        ? "#f59e0b"
+        : "#22d3ee";
 
   useEffect(() => {
     const timer = setTimeout(() => setShowButton(true), 5000);
@@ -37,7 +46,7 @@ export default function AwakeningCeremony({ lang, onDone }: Props) {
     >
       <motion.div
         animate={{
-          backgroundColor: ["#db2777", "#ffffff", "#f59e0b"],
+          backgroundColor: [accent, "#ffffff", accent],
           scale: [1, 1.5, 1],
           opacity: [0.3, 0.6, 0.3],
         }}
@@ -56,14 +65,14 @@ export default function AwakeningCeremony({ lang, onDone }: Props) {
         className="relative z-10 flex flex-col items-center gap-12"
       >
         <motion.div
-          animate={{
-            boxShadow: [
-              "0 0 20px #db2777",
+        animate={{
+          boxShadow: [
+              `0 0 20px ${accent}`,
               "0 0 60px #ffffff",
-              "0 0 40px #f59e0b",
-              "0 0 20px #db2777",
+              `0 0 40px ${accent}`,
+              `0 0 20px ${accent}`,
             ],
-            borderColor: ["#db2777", "#ffffff", "#f59e0b", "#db2777"],
+            borderColor: [accent, "#ffffff", accent, accent],
           }}
           transition={{ duration: 6, repeat: Infinity }}
           className="w-32 h-32 rounded-full border-2 flex items-center justify-center"
@@ -71,7 +80,8 @@ export default function AwakeningCeremony({ lang, onDone }: Props) {
           <motion.div 
             animate={{ scale: [1, 1.2, 1] }}
             transition={{ duration: 2, repeat: Infinity }}
-            className="w-4 h-4 rounded-full bg-white shadow-[0_0_15px_#fff]" 
+            className="w-4 h-4 rounded-full bg-white"
+            style={{ boxShadow: `0 0 15px ${accent}` }}
           />
         </motion.div>
 
@@ -91,6 +101,25 @@ export default function AwakeningCeremony({ lang, onDone }: Props) {
             className="w-48 h-0.5 bg-gradient-to-r from-transparent via-white/50 to-transparent"
           />
         </div>
+
+        {profile && (
+          <motion.div
+            initial={{ opacity: 0, y: 14 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 1.4, duration: 0.8 }}
+            className="max-w-[520px] rounded-2xl border border-white/10 bg-white/5 px-5 py-4 text-center backdrop-blur-sm"
+          >
+            <div className="text-[10px] uppercase tracking-[0.28em] text-white/45 font-black">
+              Avatar imprint
+            </div>
+            <div className="mt-2 text-lg md:text-xl font-black tracking-[0.16em] text-white">
+              {profile.title[lang as keyof typeof profile.title] || profile.title.en}
+            </div>
+            <div className="mt-2 text-[11px] leading-relaxed text-white/55">
+              {profile.answers.map((answer) => answer.label[lang as keyof typeof answer.label] || answer.label.en).join(" · ")}
+            </div>
+          </motion.div>
+        )}
 
         <AnimatePresence>
           {showButton && (

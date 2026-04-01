@@ -46,6 +46,7 @@ export type StarholdEventId =
   | "entropyCascade"
   | "phaseEcho"
   | "emergencyOverride"
+  | "avatarPreparation"
   | "waveRecovery";
 
 export type LocalizedString = {
@@ -121,6 +122,23 @@ export interface StarholdScavengeState {
   completedCycles: number;
 }
 
+export type AvatarTraitId = "calm" | "curious" | "protective" | "bold";
+
+export interface StarholdAvatarAnswer {
+  questionId: string;
+  optionId: string;
+  trait: AvatarTraitId;
+  label: LocalizedString;
+}
+
+export interface StarholdAvatarProfile {
+  completedAtTick: number;
+  archetype: AvatarTraitId;
+  answers: StarholdAvatarAnswer[];
+  traitScores: Record<AvatarTraitId, number>;
+  title: LocalizedString;
+}
+
 export interface StarholdReactorRecoveryState {
   active: boolean;
   completedStabilizations: number;
@@ -163,6 +181,11 @@ export interface StarholdState {
   activeOperation: StarholdOperationState | null;
   scavengeOperation: StarholdScavengeState | null;
   reactorRecovery: StarholdReactorRecoveryState;
+  postWaveSurgeTicks: number;
+  postWaveSurgeMode: "gentle" | "aggressive" | null;
+  avatarProfile: StarholdAvatarProfile | null;
+  avatarImprintActive: boolean;
+  avatarImprintProgress: number;
 }
 
 export type StarholdCommand =
@@ -188,4 +211,6 @@ export type StarholdCommand =
   | { type: "CLAIM_MILESTONE"; milestoneId: string }
   | { type: "BUY_ITEM"; itemId: string }
   | { type: "ACKNOWLEDGE_PHASE_SHIFT" }
-  | { type: "RESOLVE_EVENT"; optionId: string };
+  | { type: "RESOLVE_EVENT"; optionId: string }
+  | { type: "CHANNEL_AVATAR_IMPRINT"; amount: number }
+  | { type: "RESET_AVATAR_IMPRINT" };

@@ -33,6 +33,27 @@ export const GRAVITAS_TEXT = {
     repairLogistics: { en: "Repair logistics", hu: "Logisztika javítása", de: "Logistik reparieren", ro: "Repară logistica" },
     repairSensor: { en: "Repair sensor", hu: "Szenzor javítása", de: "Sensor reparieren", ro: "Repară senzorul" },
     hold: { en: "Hold to transfer pulse", hu: "Tartsd nyomva az átvitelt", de: "Gedrückt halten für Transfer", ro: "Ține apăsat pentru transfer" },
+    imprintTitle: { en: "Core imprint", hu: "Mag lenyomat", de: "Kernprägung", ro: "Amprentă nucleu" },
+    imprintReady: {
+      en: "The profile is sealed. Hold the core seal for 30 seconds without letting go.",
+      hu: "A profil lezárva. Tartsd lenyomva a magzárat 30 másodpercig anélkül, hogy elengednéd.",
+      de: "Das Profil ist versiegelt. Halte das Kernsiegel 30 Sekunden lang ohne Loslassen.",
+      ro: "Profilul este sigilat. Ține sigiliul nucleului 30 de secunde fără să eliberezi.",
+    },
+    imprintLocked: {
+      en: "Keep steady. The imprint must stay continuous or it will collapse.",
+      hu: "Maradj stabil. A lenyomatnak folyamatosnak kell maradnia, különben összeomlik.",
+      de: "Bleib ruhig. Die Prägung muss durchgehend bleiben, sonst bricht sie zusammen.",
+      ro: "Rămâi stabil. Amprenta trebuie să rămână continuă sau se va prăbuși.",
+    },
+    imprintHold: { en: "Hold the seal", hu: "Zárat tartsd nyomva", de: "Siegel halten", ro: "Ține sigiliul" },
+    imprintCharge: { en: "Imprint charge", hu: "Lenyomat töltés", de: "Prägeladung", ro: "Încărcare amprentă" },
+    imprintComplete: {
+      en: "Imprint complete. The avatar can awaken now.",
+      hu: "A lenyomat kész. Az avatár most felébredhet.",
+      de: "Prägung abgeschlossen. Der Avatar kann jetzt erwachen.",
+      ro: "Amprenta este completă. Avatarul se poate trezi acum.",
+    },
     transferTitle: { en: "Awakening transfer", hu: "Ébresztési átadás", de: "Erweckungstransfer", ro: "Transfer de trezire" },
     transferStageLabel: { en: "Activation ladder", hu: "Aktiválási lépcső", de: "Aktivierungsleiter", ro: "Scara activării" },
     resonance: { en: "Resonance", hu: "Rezonancia", de: "Resonanz", ro: "Rezonanță" },
@@ -399,15 +420,63 @@ export const GRAVITAS_TEXT = {
       step3: {
         title: { en: "Triad lock", hu: "Triád zár", de: "Triaden-Sperre", ro: "Blocaj triadă" },
         body: {
-          en: "The third wave hit the full demo grid. Which trio must be synchronized to seal it?",
-          hu: "A harmadik hullám az egész demóhálózatot elérte. Melyik hármast kell szinkronizálni a lezáráshoz?",
-          de: "Die dritte Welle traf das komplette Demo-Netz. Welches Trio muss zur Versiegelung synchronisiert werden?",
-          ro: "Al treilea val a lovit întreaga rețea demo. Ce trio trebuie sincronizat pentru a o sigila?"
+          en: "The last wave leaves the stabilizer frame split in four. Which lockout closes the shell without tearing the grid?",
+          hu: "Az utolsó hullám négyfelé szedi a stabilizátor keretét. Melyik zárolás zárja le a testet a hálózat szétszakítása nélkül?",
+          de: "Die letzte Welle spaltet den Stabilisatorrahmen in vier Teile. Welche Sperre schließt die Hülle, ohne das Netz zu zerreißen?",
+          ro: "Ultimul val desparte cadrul stabilizator în patru. Ce blocaj sigilează corpul fără să rupă rețeaua?"
         },
         options: {
-          triad: { en: "Reactor + logistics + sensor", hu: "Reaktor + logisztika + szenzor", de: "Reaktor + Logistik + Sensor", ro: "Reactor + logistică + senzor" },
-          coreTriad: { en: "Sensor + core + reactor", hu: "Szenzor + mag + reaktor", de: "Sensor + Kern + Reaktor", ro: "Senzor + nucleu + reactor" },
-          supplyTriad: { en: "Logistics + core + sensor", hu: "Logisztika + mag + szenzor", de: "Logistik + Kern + Sensor", ro: "Logistică + nucleu + senzor" },
+          shellLock: { en: "Reactor + logistics + sensor", hu: "Reaktor + logisztika + szenzor", de: "Reaktor + Logistik + Sensor", ro: "Reactor + logistică + senzor" },
+          coreSeal: { en: "Reactor + core + sensor", hu: "Reaktor + mag + szenzor", de: "Reaktor + Kern + Sensor", ro: "Reactor + nucleu + senzor" },
+          supplySeal: { en: "Logistics + core + reactor", hu: "Logisztika + mag + reaktor", de: "Logistik + Kern + Reaktor", ro: "Logistică + nucleu + reactor" },
+          sensorLock: { en: "Sensor + core + logistics", hu: "Szenzor + mag + logisztika", de: "Sensor + Kern + Logistik", ro: "Senzor + nucleu + logistică" },
+        }
+      }
+    },
+    avatarPreparation: {
+      step1: {
+        title: { en: "Avatar imprint", hu: "Avatar-nyom", de: "Avatar-Prägung", ro: "Amprentă avatar" },
+        body: {
+          en: "The shell is almost ready. What should the first living impulse feel like?",
+          hu: "A test majdnem kész. Milyen legyen az első élő impulzus érzése?",
+          de: "Die Hülle ist fast bereit. Wie soll sich der erste lebende Impuls anfühlen?",
+          ro: "Corpul este aproape pregătit. Cum ar trebui să se simtă primul impuls viu?"
+        },
+        options: {
+          calm: { en: "Quiet and steady", hu: "Csendes és egyenletes", de: "Ruhig und stabil", ro: "Liniștit și stabil" },
+          curious: { en: "Alert and curious", hu: "Éber és kíváncsi", de: "Wach und neugierig", ro: "Aproape și curios" },
+          protective: { en: "Warm and protective", hu: "Meleg és védelmező", de: "Warm und beschützend", ro: "Cald și protector" },
+          bold: { en: "Sharp and fearless", hu: "Határozott és félelem nélküli", de: "Scharf und furchtlos", ro: "Tăios și fără teamă" },
+        }
+      },
+      step2: {
+        title: { en: "Temper", hu: "Hőfok", de: "Temperament", ro: "Temperament" },
+        body: {
+          en: "When pressure rises, what should this avatar lean on first?",
+          hu: "Amikor nő a nyomás, mire támaszkodjon először ez az avatar?",
+          de: "Wenn der Druck steigt, worauf soll sich dieser Avatar zuerst stützen?",
+          ro: "Când crește presiunea, pe ce ar trebui să se bazeze primul acest avatar?"
+        },
+        options: {
+          calm: { en: "Breathing room", hu: "Légzésnyi tér", de: "Atemraum", ro: "Spațiu de respirație" },
+          curious: { en: "Signals and patterns", hu: "Jelek és minták", de: "Signale und Muster", ro: "Semnale și tipare" },
+          protective: { en: "People and shelter", hu: "Emberek és menedék", de: "Menschen und Schutz", ro: "Oameni și adăpost" },
+          bold: { en: "Fast action", hu: "Gyors cselekvés", de: "Schnelles Handeln", ro: "Acțiune rapidă" },
+        }
+      },
+      step3: {
+        title: { en: "Identity seal", hu: "Identitás-zár", de: "Identitätssiegel", ro: "Sigiliu identitar" },
+        body: {
+          en: "Last question. What should remain most visible in the avatar's presence?",
+          hu: "Utolsó kérdés. Mi maradjon a leginkább látható az avatar jelenlétében?",
+          de: "Letzte Frage. Was soll in der Präsenz des Avatars am stärksten sichtbar bleiben?",
+          ro: "Ultima întrebare. Ce ar trebui să rămână cel mai vizibil în prezența avatarului?"
+        },
+        options: {
+          calm: { en: "A calm center", hu: "Nyugodt közép", de: "Ein ruhiger Kern", ro: "Un centru calm" },
+          curious: { en: "A searching mind", hu: "Kereső elme", de: "Ein suchender Geist", ro: "O minte căutătoare" },
+          protective: { en: "A sheltering hand", hu: "Védelmező kéz", de: "Eine schützende Hand", ro: "O mână protectoare" },
+          bold: { en: "A bright edge", hu: "Világos él", de: "Eine leuchtende Kante", ro: "O margine luminoasă" },
         }
       }
     },
@@ -607,6 +676,18 @@ export const GRAVITAS_TEXT = {
     noMaterials: { en: "Not enough materials to stabilize the reactor.", hu: "Nincs elég anyag a reaktor stabilizálásához.", de: "Nicht genug Material für Reaktorstabilisierung.", ro: "Nu sunt suficiente materiale pentru a stabiliza reactorul." },
     noPowerReroute: { en: "Insufficient power to reroute into the core chamber.", hu: "Nincs elég energia az átirányításhoz a magkamrába.", de: "Zu wenig Energie für Umleitung in Kernkammer.", ro: "Energie insuficientă pentru redirecționare în nucleu." },
     repairAborted: { en: "Repair aborted. Materials too low.", hu: "Javítás megszakítva. Kevés nyersanyag.", de: "Reparatur abgebrochen. Zu wenig Material.", ro: "Reparație abandonată. Materiale insuficiente." },
+    avatarImprintStart: {
+      en: "Core imprint started. Keep holding the seal.",
+      hu: "A mag lenyomat elindult. Tartsd nyomva a zárat.",
+      de: "Kernprägung gestartet. Halte das Siegel gedrückt.",
+      ro: "Amprenta nucleului a pornit. Ține sigiliul apăsat.",
+    },
+    avatarImprintComplete: {
+      en: "The imprint sealed. The avatar is answering.",
+      hu: "A lenyomat lezárult. Az avatár válaszol.",
+      de: "Die Prägung ist versiegelt. Der Avatar antwortet.",
+      ro: "Amprenta s-a sigilat. Avatarul răspunde.",
+    },
     modulePatched: (name: LocalizedString) => ({ en: `${name.en} patched and recalibrated.`, hu: `${name.hu} foltozva és újrakalibrálva.`, de: `${name.de} geflickt und neu kalibriert.`, ro: `${name.ro} reparat și recalibrat.` }),
     scavengeSuccess: { en: "Scavenger drones returned with salvage.", hu: "A mentődrónok nyersanyaggal tértek vissza.", de: "Drohnen mit Material zurückgekehrt.", ro: "Dronele s-au întors cu materiale." },
     reactorStabilized: { en: "Reactor pulse stabilized.", hu: "A reaktor pulzusa stabilizálódott.", de: "Reaktorpuls stabilisiert.", ro: "Pulsul reactorului s-a stabilizat." },
@@ -700,6 +781,8 @@ export const GRAVITAS_TEXT = {
     phaseEchoJournal: { en: "The station answered in a quieter voice than before.", hu: "Az állomás a korábbinál csendesebb hangon válaszolt.", de: "Die Station antwortete mit leiserer Stimme als zuvor.", ro: "Stația a răspuns cu o voce mai tăcută decât înainte." },
     worldTurnJournal: { en: "The hidden layer shifted without warning.", hu: "A rejtett réteg figyelmeztetés nélkül elmozdult.", de: "Die verborgene Schicht verschob sich ohne Vorwarnung.", ro: "Stratul ascuns s-a schimbat fără avertisment." },
     worldEchoJournal: { en: "The hidden pattern bled through the shell for a moment.", hu: "A rejtett minta egy pillanatra átcsordult a testen.", de: "Das verborgene Muster sickerte für einen Moment durch die Hülle.", ro: "Tiparul ascuns a pătruns pentru o clipă prin corp." },
+    avatarImprintJournal: { en: "The avatar imprint is in progress. Keep the seal held.", hu: "Az avatar lenyomata folyamatban van. Tartsd nyomva a zárat.", de: "Die Avatarprägung läuft. Halte das Siegel gedrückt.", ro: "Amprenta avatarului este în curs. Ține sigiliul apăsat." },
+    avatarImprintCompleteJournal: { en: "The imprint completed and the shell accepted it.", hu: "A lenyomat elkészült, és a test befogadta.", de: "Die Prägung wurde abgeschlossen und die Hülle hat sie angenommen.", ro: "Amprenta s-a finalizat și corpul a acceptat-o." },
     initialJournal: [
       { en: "Emergency reserve power detected.", hu: "Vészhelyzeti tartalék energia észlelve.", de: "Notreserveenergie entdeckt.", ro: "Energie de rezervă detectată." },
       { en: "Core chamber sealed.", hu: "Magkamra lezárva.", de: "Kernkammer versiegelt.", ro: "Camera nucleului sigilată." },
@@ -719,5 +802,8 @@ export const GRAVITAS_TEXT = {
     aftershockPhase: { en: "Aftershock Phase", hu: "Utórengés fázis", de: "Nachbeben-Phase", ro: "Faza de replici" },
     lingeringDrift: { en: "Lingering logic drift detected. System stabilization required.", hu: "Fennmaradó logikai drift észlelve. Rendszerstabilizálás szükséges.", de: "Anhaltender Logikdrift erkannt. Systemstabilisierung erforderlich.", ro: "Derivă logică persistentă detectată. Este necesară stabilizarea sistemului." },
     aftershockCleared: { en: "System stabilized. Aftershock effects neutralized.", hu: "Rendszer stabilizálva. Az utórengés hatásai megszűntek.", de: "System stabilisiert. Nachbebeneffekte neutralisiert.", ro: "Sistem stabilizat. Efectele replicilor au fost neutralizate." },
+    finalWaveSpike: { en: "Stabilizer spike. Brace the shell.", hu: "Stabilizátor-tüske. Rögzítsd a testet.", de: "Stabilisatorspitze. Hülle sichern.", ro: "Vârf de stabilizator. Fixează corpul." },
+    finalWaveDrop: { en: "The frame dropped hard. Recover quickly.", hu: "A keret nagyot esett. Gyors helyreállítás kell.", de: "Der Rahmen fiel hart ab. Schnell erholen.", ro: "Cadrul a căzut brusc. Recuperează rapid." },
+    finalWaveSettle: { en: "Residual surge fading. Keep the station steady.", hu: "A maradék hullám csillapodik. Tartsd stabilan az állomást.", de: "Reststoß klingt ab. Station stabil halten.", ro: "Ecoul rezidual se estompează. Ține stația stabilă." },
   }
 };
