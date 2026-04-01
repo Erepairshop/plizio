@@ -26,7 +26,13 @@ import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
 
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 
-function reducer(state: StarholdState, command: StarholdCommand | { type: "__TICK__" }) {
+function reducer(
+  state: StarholdState,
+  command: StarholdCommand | { type: "__TICK__" } | { type: "__LOAD__"; state: StarholdState }
+) {
+  if (command.type === "__LOAD__") {
+    return command.state;
+  }
   if (command.type === "__TICK__") {
     return advanceStarholdTick(state);
   }
@@ -101,8 +107,8 @@ export default function GravitasPage() {
   const content = GRAVITAS_TEXT;
   const ui = content.ui;
 
-  const [state, dispatch] = useReducer(reducer, undefined, () => loadGravitasState() ?? createInitialStarholdState());
-  const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("core");
+  const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
+  const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");
   const [shopOpen, setShopOpen] = useState(false);
   const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
@@ -115,6 +121,7 @@ export default function GravitasPage() {
   const [sceneReady, setSceneReady] = useState(false);
   const [sceneDeferred, setSceneDeferred] = useState(false);
   const [lastCommand, setLastCommand] = useState<{ command: StarholdCommand; timestamp: number } | null>(null);
+  const [hydrated, setHydrated] = useState(false);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
@@ -124,12 +131,27 @@ export default function GravitasPage() {
 
   const doAction = (command: StarholdCommand, color: string) => {
     if (state.stationLost) return;
+    if (command.type === "STABILIZE_REACTOR") setSelectedModule("reactor");
+    if (command.type === "REPAIR_MODULE") setSelectedModule(command.moduleId);
+    if (command.type === "REROUTE_TO_CORE") setSelectedModule("core");
+    if (command.type === "SCAVENGE") setSelectedModule("logistics");
     lastActionRef.current = command;
     setLastCommand({ command, timestamp: Date.now() });
     dispatch(command);
     setActionFlash(color);
     setTimeout(() => setActionFlash(null), 300);
   };
+
+  useEffect(() => {
+    setHydrated(true);
+  }, []);
+
+  useEffect(() => {
+    const saved = loadGravitasState();
+    if (saved) {
+      dispatch({ type: "__LOAD__", state: saved });
+    }
+  }, []);
 
   useEffect(() => {
     if (state.avatarAwake && !awakeningShownRef.current) {
@@ -185,12 +207,14 @@ export default function GravitasPage() {
     };
 
     if ("requestIdleCallback" in window) {
+      fallbackId = window.setTimeout(activate, 650);
       idleId = (window as Window & {
         requestIdleCallback: (cb: IdleRequestCallback) => number;
       }).requestIdleCallback(() => activate());
 
       return () => {
         cancelled = true;
+        if (fallbackId !== null) window.clearTimeout(fallbackId);
         if (idleId !== null && "cancelIdleCallback" in window) {
           (window as Window & {
             cancelIdleCallback: (id: number) => void;
@@ -199,10 +223,10 @@ export default function GravitasPage() {
       };
     }
 
-    fallbackId = (window as Window).setTimeout(activate, 250);
+    fallbackId = window.setTimeout(activate, 250);
     return () => {
       cancelled = true;
-      if (fallbackId !== null) (window as Window).clearTimeout(fallbackId);
+      if (fallbackId !== null) window.clearTimeout(fallbackId);
     };
   }, []);
 
@@ -583,6 +607,18 @@ export default function GravitasPage() {
   };
 
   const mods = getStarholdModifiers(state);
+
+  if (!hydrated) {
+    return (
+      <main className="fixed inset-0 overflow-hidden bg-[#050816] text-white">
+        <div className="flex h-full items-center justify-center">
+          <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/8 px-5 py-4 text-[11px] font-black uppercase tracking-[0.26em] text-cyan-100">
+            Booting gravitas
+          </div>
+        </div>
+      </main>
+    );
+  }
 
   return (
     <main className={`fixed inset-0 overflow-hidden transition-colors duration-1000 ${isLockdown ? "bg-[#0a0a0a]" : state.crisis ? "bg-[#1a0505]" : "bg-[#050816]"} ${impactFlash ? "animate-shake" : ""} text-white flex flex-col`}>

@@ -15,6 +15,13 @@ const SECTOR_COLORS: Record<StarholdModuleId, number> = {
   core: 0xdb2777,
 };
 
+const MODULE_GLYPHS: Record<StarholdModuleId, string> = {
+  reactor: "R",
+  logistics: "L",
+  sensor: "S",
+  core: "C",
+};
+
 interface SceneOptions {
   onSelectModule?: (moduleId: StarholdModuleId) => void;
 }
@@ -33,6 +40,9 @@ export class GravitasBaseScene extends Phaser.Scene {
     StarholdModuleId,
     {
       glow: Phaser.GameObjects.Arc;
+      shell: Phaser.GameObjects.Arc;
+      ring: Phaser.GameObjects.Arc;
+      glyph: Phaser.GameObjects.Text;
       hitbox: Phaser.GameObjects.Arc;
       label: Phaser.GameObjects.Text;
       energyEmitter?: Phaser.GameObjects.Particles.ParticleEmitter;
@@ -40,7 +50,10 @@ export class GravitasBaseScene extends Phaser.Scene {
   >();
 
   private coreGlow!: Phaser.GameObjects.Arc;
+  private coreShell!: Phaser.GameObjects.Arc;
+  private coreRing!: Phaser.GameObjects.Arc;
   private coreCenter!: Phaser.GameObjects.Arc;
+  private coreGlyph!: Phaser.GameObjects.Text;
   private resonanceEmitter?: Phaser.GameObjects.Particles.ParticleEmitter;
 
   private stars: { node: Phaser.GameObjects.Arc; speed: number }[] = [];
@@ -92,9 +105,17 @@ export class GravitasBaseScene extends Phaser.Scene {
     const centerY = 255;
 
     // Core
-    this.coreGlow = this.add.circle(centerX, centerY, 60, 0xdb2777, 0.2);
-    this.coreCenter = this.add.circle(centerX, centerY, 30, 0xffffff, 0.8);
-    this.root.add([this.coreGlow, this.coreCenter]);
+    this.coreGlow = this.add.circle(centerX, centerY, 84, 0xdb2777, 0.16);
+    this.coreRing = this.add.circle(centerX, centerY, 66, 0x000000, 0).setStrokeStyle(2, 0xf472b6, 0.26);
+    this.coreShell = this.add.circle(centerX, centerY, 50, 0x0f172a, 0.96).setStrokeStyle(3, 0xf472b6, 0.46);
+    this.coreCenter = this.add.circle(centerX, centerY, 24, 0xffffff, 0.9);
+    this.coreGlyph = this.add.text(centerX, centerY, MODULE_GLYPHS.core, {
+      fontFamily: "Inter, Arial",
+      fontSize: "20px",
+      fontStyle: "bold",
+      color: "#fff1f7",
+    }).setOrigin(0.5);
+    this.root.add([this.coreGlow, this.coreRing, this.coreShell, this.coreCenter, this.coreGlyph]);
 
     // Create simple texture for particles
     const pGfx = this.make.graphics({x: 0, y: 0} as any);
@@ -114,13 +135,21 @@ export class GravitasBaseScene extends Phaser.Scene {
     for (const [moduleId, pos] of Object.entries(MODULE_POSITIONS) as [StarholdModuleId, { x: number; y: number }][]) {
       if (moduleId === "core") continue;
 
-      const glow = this.add.circle(pos.x, pos.y, 24, 0x4b5563, 0.3);
+      const glow = this.add.circle(pos.x, pos.y, 54, SECTOR_COLORS[moduleId], 0.12);
+      const ring = this.add.circle(pos.x, pos.y, 36, 0x000000, 0).setStrokeStyle(2, SECTOR_COLORS[moduleId], 0.25);
+      const shell = this.add.circle(pos.x, pos.y, 28, 0x0f172a, 0.96).setStrokeStyle(2, SECTOR_COLORS[moduleId], 0.45);
+      const glyph = this.add.text(pos.x, pos.y, MODULE_GLYPHS[moduleId], {
+        fontFamily: "Inter, Arial",
+        fontSize: "18px",
+        fontStyle: "bold",
+        color: "#f8fafc",
+      }).setOrigin(0.5);
       const hitbox = this.add.circle(pos.x, pos.y, 36, 0xffffff, 0.001).setInteractive({ useHandCursor: true });
       const label = this.add.text(pos.x, pos.y + 40, moduleId.toUpperCase(), {
         fontFamily: "Inter, Arial",
-        fontSize: "10px",
+        fontSize: "11px",
         fontStyle: "bold",
-        color: "#ffffff",
+        color: "#dbeafe",
       }).setOrigin(0.5);
 
       hitbox.on("pointerdown", () => this.onSelectModule?.(moduleId));
@@ -133,8 +162,8 @@ export class GravitasBaseScene extends Phaser.Scene {
         emitting: false
       });
 
-      this.root.add([glow, hitbox, label]);
-      this.moduleNodes.set(moduleId, { glow, hitbox, label, energyEmitter: emitter });
+      this.root.add([glow, ring, shell, glyph, hitbox, label]);
+      this.moduleNodes.set(moduleId, { glow, shell, ring, glyph, hitbox, label, energyEmitter: emitter });
     }
   }
 
@@ -176,7 +205,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.currentFocus = moduleId;
 
     const pos = MODULE_POSITIONS[moduleId];
-    const zoom = moduleId === "core" ? 1.0 : 1.35;
+    const zoom = moduleId === "core" ? 1.04 : 1.26;
 
     this.cameras.main.pan(pos.x, pos.y, 600, 'Power2');
     this.cameras.main.zoomTo(zoom, 600, 'Power2');
@@ -331,8 +360,11 @@ export class GravitasBaseScene extends Phaser.Scene {
     const isAwakened = state.phase === "awakened";
     const coreColor = isAwakened ? 0xf59e0b : state.resonance > 50 ? 0xf472b6 : 0x06b6d4;
     this.coreCenter.setFillStyle(isAwakened ? 0xffffff : 0xffffff, 0.9);
-    this.coreGlow.setFillStyle(coreColor, 0.3 + (state.resonance / 200));
-    this.coreGlow.setRadius(60 + (isAwakened ? 20 : 0) + (state.resonance * 0.3));
+    this.coreGlow.setFillStyle(coreColor, 0.18 + (state.resonance / 260));
+    this.coreGlow.setRadius(84 + (isAwakened ? 18 : 0) + (state.resonance * 0.3));
+    this.coreShell.setStrokeStyle(selectedModule === "core" ? 4 : 3, coreColor, selectedModule === "core" ? 0.92 : 0.52);
+    this.coreRing.setStrokeStyle(selectedModule === "core" ? 3 : 2, coreColor, selectedModule === "core" ? 0.7 : 0.3);
+    this.coreGlyph.setColor(selectedModule === "core" ? "#ffffff" : "#ffe4ef");
 
     this.activationGfx.clear();
     this.activationGfx.lineStyle(4, 0xdb2777, 0.4);
@@ -360,22 +392,28 @@ export class GravitasBaseScene extends Phaser.Scene {
 
       const scale = 0.4 + (m.integrity / 100) * 0.6;
       node.glow.setScale(scale);
-      node.glow.setRadius(24 + (isSelected ? 4 : 0));
+      node.glow.setRadius(54 + (isSelected ? 14 : 0));
 
       let color = 0x4b5563;
-      let alpha = 0.3;
+      let alpha = 0.18;
       if (m.online) {
         if (m.integrity < 40) {
           color = 0xe11d48;
-          alpha = 0.4 + Math.sin(this.animTime / 200) * 0.2;
+          alpha = 0.28 + Math.sin(this.animTime / 200) * 0.12;
         } else {
-          color = 0x22d3ee;
-          alpha = 0.5;
+          color = SECTOR_COLORS[moduleId];
+          alpha = isSelected ? 0.28 : 0.18;
         }
       }
       node.glow.setFillStyle(color, alpha);
+      node.shell.setFillStyle(m.online ? 0x0f172a : 0x111827, isSelected ? 1 : 0.94);
+      node.shell.setStrokeStyle(isSelected ? 3 : 2, color, m.online ? 0.78 : 0.35);
+      node.ring.setStrokeStyle(isSelected ? 3 : 2, color, isSelected ? 0.62 : 0.24);
+      node.ring.setScale(1 + Math.sin(this.animTime / 900) * 0.02);
+      node.glyph.setColor(m.online ? (isSelected ? "#ffffff" : "#e2e8f0") : "#64748b");
+      node.glyph.setAlpha(m.online ? 1 : 0.55);
       node.label.setAlpha(m.online ? 1 : 0.4);
-      node.label.setColor(isSelected ? "#22d3ee" : "#ffffff");
+      node.label.setColor(isSelected ? "#67e8f9" : "#dbeafe");
 
       const isLinked = m.online && !state.lockdown;
       this.linkGfx.lineStyle(2, isLinked ? 0x22d3ee : 0x1e293b, isLinked ? 0.3 : 0.1);

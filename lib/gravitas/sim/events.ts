@@ -1075,8 +1075,8 @@ export function applyStarholdEvents(state: StarholdState): StarholdState {
     return state;
   }
 
-  const introWindow = state.phase === "boot" && state.tick < 24;
-  const onboardingWindow = !state.avatarAwake && state.tick < 42;
+  const introWindow = state.phase === "boot" && state.tick < 36;
+  const onboardingWindow = !state.avatarAwake && state.tick < 80;
   if (introWindow) {
     return state;
   }
@@ -1085,7 +1085,7 @@ export function applyStarholdEvents(state: StarholdState): StarholdState {
 
   for (const event of STARHOLD_EVENTS) {
     const lastTick = nextState.lastEventTick[event.id] ?? -Infinity;
-    const effectiveMinTick = onboardingWindow ? event.minTick + 8 : event.minTick;
+    const effectiveMinTick = onboardingWindow ? event.minTick + 16 : event.minTick;
     if (nextState.tick < effectiveMinTick) continue;
     if (nextState.tick - lastTick < event.cooldown) continue;
     if (onboardingWindow && event.id !== "powerFluctuation" && event.id !== "materialBottleneck" && event.id !== "signalPulse") continue;
@@ -1116,19 +1116,19 @@ export function resolveStarholdEvent(state: StarholdState, optionId: string): St
     return {
       ...state,
       pendingEvent: null,
-      eventQuietTicks: Math.max(state.eventQuietTicks ?? 0, state.tick < 45 ? 8 : 5),
+      eventQuietTicks: Math.max(state.eventQuietTicks ?? 0, state.tick < 80 ? 14 : 8),
     };
   }
 
   const nextState = event.resolve(state, optionId);
   if (nextState.pendingEvent === null) {
-    const quietTicks = state.tick < 45 ? 8 : 5;
-    const cooldownPadding = state.tick < 45 ? 12 : 8;
+    const quietTicks = state.tick < 80 ? 14 : 8;
+    const cooldownPadding = state.tick < 80 ? 18 : 10;
     return {
       ...nextState,
       lastEventTick: {
         ...nextState.lastEventTick,
-        [event.id]: state.tick + Math.max(cooldownPadding, event.cooldown + (state.tick < 45 ? 4 : 0)),
+        [event.id]: state.tick + Math.max(cooldownPadding, event.cooldown + (state.tick < 80 ? 8 : 2)),
       },
       eventQuietTicks: Math.max(nextState.eventQuietTicks ?? 0, quietTicks),
     };
