@@ -100,6 +100,31 @@ export interface StarholdProgression {
   lastStarGain: number; // For UI feedback animation
 }
 
+export type StarholdOperationType = "scavenge" | "stabilizeReactor" | "repairModule" | "rerouteCore";
+
+export interface StarholdOperationState {
+  type: StarholdOperationType;
+  moduleId?: StarholdModuleId;
+  startedTick: number;
+  duration: number;
+  remaining: number;
+  title: LocalizedString;
+  detail: LocalizedString;
+}
+
+export interface StarholdScavengeState {
+  startedTick: number;
+  cycleDuration: number;
+  remaining: number;
+  completedCycles: number;
+}
+
+export interface StarholdReactorRecoveryState {
+  active: boolean;
+  completedStabilizations: number;
+  nextPromptTick: number;
+}
+
 export interface StarholdState {
   tick: number;
   phase: StarholdPhase;
@@ -133,6 +158,9 @@ export interface StarholdState {
   stationLost: boolean;
   firstLoopComplete: boolean;
   firstLoopShown: boolean;
+  activeOperation: StarholdOperationState | null;
+  scavengeOperation: StarholdScavengeState | null;
+  reactorRecovery: StarholdReactorRecoveryState;
 }
 
 export type StarholdCommand =

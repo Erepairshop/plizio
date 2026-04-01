@@ -89,9 +89,6 @@ const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? l
             />
           </div>
           <div className="mt-4 space-y-1">
-             <p className="text-sm font-black text-cyan-100/90 tracking-tight leading-tight">
-               {localize(activationStageInfo.label)}
-             </p>
              <p className="text-[11px] text-white/50 leading-snug">
                {state.phase === "activation" || state.avatarAwake ? t.transferReady : t.transferLocked}
              </p>

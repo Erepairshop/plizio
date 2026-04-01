@@ -2,18 +2,176 @@ import type { StarholdModuleId, StarholdState, LocalizedString } from "./types";
 import { applyStarholdEvents } from "./events";
 import { clamp } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
-import { coolDownResonance } from "./activation";
+import { coolDownResonance, unlockActivationTransfer } from "./activation";
 import { advanceStarholdThreat } from "./threats";
 import { checkStarholdMilestones } from "./progression";
-import { pushJournal } from "./shared";
+import { addResourceDelta, pushJournal, updateModuleIntegrity, addModuleLoad } from "./shared";
 import { getStarholdModifiers } from "./modifiers";
+import { getModuleActionProfile } from "./modules";
+
+function completeActiveOperation(state: StarholdState): StarholdState {
+  const op = state.activeOperation;
+  if (!op) return state;
+
+  const mods = getStarholdModifiers(state);
+  switch (op.type) {
+    case "stabilizeReactor": {
+      const introWindow = state.phase === "boot" && state.tick < 30;
+      const profile = getModuleActionProfile("reactor");
+      const nextLoad = addModuleLoad(state, "reactor", profile.loadShift).load;
+      const gainMult = mods.recoveryEfficiency;
+      const recoveringFirstWave = state.reactorRecovery.active && state.threatCycle === 1;
+      const completedStabilizations = recoveringFirstWave
+        ? state.reactorRecovery.completedStabilizations + 1
+        : state.reactorRecovery.completedStabilizations;
+      const reactorRecovery = recoveringFirstWave
+        ? completedStabilizations >= 2
+          ? {
+              active: false,
+              completedStabilizations,
+              nextPromptTick: state.tick + 999,
+            }
+          : {
+              active: true,
+              completedStabilizations,
+              nextPromptTick: state.tick + 24,
+            }
+        : state.reactorRecovery;
+      const recoveryAlert: LocalizedString = recoveringFirstWave && completedStabilizations >= 2
+        ? {
+            en: "Reactor restored. Wave 1 held.",
+            hu: "Reaktor helyreállt. 1. hullám kivédve.",
+            de: "Reaktor wiederhergestellt. Welle 1 abgewehrt.",
+            ro: "Reactor restaurat. Valul 1 respins.",
+          }
+        : GRAVITAS_TEXT.alerts.reactorStabilized;
+      return {
+        ...state,
+        activeOperation: null,
+        resources: addResourceDelta(state.resources, {
+          power: Math.floor((introWindow ? 12 : 10) * gainMult),
+          stability: Math.floor((introWindow ? 10 : 8) * gainMult),
+        }),
+        marks: {
+          ...state.marks,
+          reactorScar: clamp(state.marks.reactorScar - 1),
+        },
+        modules: {
+          ...state.modules,
+          reactor: {
+            ...updateModuleIntegrity(state, "reactor", Math.floor(profile.repairGain * gainMult)),
+            load: nextLoad,
+          },
+        },
+        reactorRecovery,
+        alert: recoveryAlert,
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.reactorRealigned),
+      };
+    }
+    case "repairModule": {
+      if (!op.moduleId) return { ...state, activeOperation: null };
+      const introWindow = state.phase === "boot" && state.tick < 36;
+      const profile = getModuleActionProfile(op.moduleId);
+      const target = state.modules[op.moduleId];
+      const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
+      const nextLoad = addModuleLoad(state, op.moduleId, target.online ? 0 : profile.loadShift).load;
+      return {
+        ...state,
+        activeOperation: null,
+        resources: addResourceDelta(state.resources, {
+          stability: Math.floor((introWindow ? 4 : 3) * mods.recoveryEfficiency),
+        }),
+        modules: {
+          ...state.modules,
+          [op.moduleId]: {
+            ...target,
+            integrity: nextIntegrity,
+            online: nextIntegrity >= profile.onlineThreshold || target.online,
+            load: nextLoad,
+          },
+        },
+        alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
+      };
+    }
+    case "rerouteCore": {
+      const introWindow = state.phase === "boot" && state.tick < 40;
+      return {
+        ...state,
+        activeOperation: null,
+        resources: {
+          ...state.resources,
+          activation: clamp(state.resources.activation + (introWindow ? 14 : 12)),
+        },
+        worldPulse: clamp(state.worldPulse + 3),
+        alert: {
+          en: "Power reroute completed. Core chamber primed.",
+          hu: "Az átirányítás befejeződött. A magkamra készen áll.",
+          de: "Energieumleitung abgeschlossen. Kernkammer bereit.",
+          ro: "Redirecționarea s-a încheiat. Camera nucleului este pregătită.",
+        },
+        journal: pushJournal(state, {
+          en: "Core conduits locked and the chamber accepted the incoming charge.",
+          hu: "A magvezetékek rögzültek, a kamra befogadta a töltést.",
+          de: "Kernleitungen verriegelten sich und die Kammer nahm die Ladung an.",
+          ro: "Conductele nucleului s-au fixat, iar camera a acceptat încărcarea.",
+        }),
+      };
+    }
+    default:
+      return { ...state, activeOperation: null };
+  }
+}
+
+function advanceScavengeOperation(state: StarholdState): StarholdState {
+  const op = state.scavengeOperation;
+  if (!op) return state;
+
+  const nextRemaining = op.remaining - 1;
+  if (nextRemaining > 0) {
+    return {
+      ...state,
+      scavengeOperation: {
+        ...op,
+        remaining: nextRemaining,
+      },
+    };
+  }
+
+  const introWindow = state.phase === "boot" && state.tick < 40;
+  const entropy = state.anomalies.find((a) => a.id === "materialEntropy");
+  const entropyPenalty = entropy ? entropy.severity : 0;
+  const materialsGain = clamp((state.modules.logistics.online ? 6 : 4) + (introWindow ? 2 : 0) - entropyPenalty, 2);
+  const powerGain = state.modules.sensor.online ? (introWindow ? 2 : 1) : 0;
+  const stabilityShift = introWindow ? 0 : -1;
+
+  return {
+    ...state,
+    resources: addResourceDelta(state.resources, {
+      materials: materialsGain,
+      power: powerGain,
+      stability: stabilityShift,
+    }),
+    worldPulse: clamp(state.worldPulse + 1),
+    alert: GRAVITAS_TEXT.alerts.scavengeSuccess,
+    journal: pushJournal(state, GRAVITAS_TEXT.journal.recoveredMaterials(materialsGain)),
+    scavengeOperation: {
+      ...op,
+      remaining: op.cycleDuration,
+      completedCycles: op.completedCycles + 1,
+    },
+  };
+}
 
 export function advanceStarholdTick(state: StarholdState): StarholdState {
+  const scriptedPhaseOne = !state.avatarAwake && state.tick < 300;
   const mods = getStarholdModifiers(state);
   const nextQuietTicks = Math.max(0, (state.eventQuietTicks ?? 0) - 1);
   const introWindow = state.phase === "boot" && state.tick < 18;
-  const settlingWindow = !state.avatarAwake && state.tick < 45;
-  const earlyWindow = !state.avatarAwake && state.tick < 70;
+  const settlingWindow = !state.avatarAwake && state.tick < 70;
+  const earlyWindow = !state.avatarAwake && state.tick < 100;
+  const sensorOnline = state.modules.sensor.online;
+  const sensorIntegrity = state.modules.sensor.integrity;
   const reactorBoost = state.modules.reactor.online ? (introWindow ? 3 : settlingWindow ? 2 : 2) : 0;
   const logisticsDrainBase = state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
   const logisticsDrain = Math.max(0, logisticsDrainBase - (introWindow ? 1 : 0));
@@ -119,7 +277,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   // Lockdown logic
   let nextLockdown = state.lockdown;
   let nextPendingEvent = state.pendingEvent;
-  const lockdownArmed = state.tick >= 45;
+  const lockdownArmed = !scriptedPhaseOne && state.tick >= 95;
   if (nextStability === 0 && !nextLockdown) {
     if (lockdownArmed) {
       nextLockdown = true;
@@ -132,9 +290,17 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       };
       nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
     } else {
-      nextStability = 1;
+      nextStability = 8;
       alert = GRAVITAS_TEXT.alerts.critStability;
     }
+  }
+
+  if (!state.avatarAwake && nextStability > 0 && nextStability < 18) {
+    nextStability = clamp(
+      nextStability +
+        (state.modules.reactor.online ? 2 : 1) +
+        (state.modules.sensor.online ? 1 : 0)
+    );
   }
 
   // Void Whispers (Psychic atmosphere)
@@ -178,8 +344,24 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     nextJournal = pushJournal({ ...state, journal: nextJournal }, alert);
   }
 
+  // Activation should keep moving once the chamber is active.
+  let nextActivation = state.resources.activation;
+  if (state.phase === "activation" && !state.avatarAwake) {
+    const passiveGain =
+      (state.modules.core.online ? 0.22 : 0) +
+      (sensorOnline ? 0.16 : 0) +
+      (nextStability >= 60 ? 0.12 : 0);
+    const passiveLoss =
+      (nextPower < 12 ? 0.22 : 0) +
+      (nextStability < 40 ? 0.18 : 0) +
+      (!sensorOnline ? 0.08 : 0);
+    nextActivation = clamp(nextActivation + passiveGain - passiveLoss, 0, 100);
+  } else if (state.phase === "boot" && nextActivation > 0 && !state.activeOperation) {
+    nextActivation = clamp(nextActivation - 0.05, 0, 100);
+  }
+
   const nextPhase =
-    state.avatarAwake && state.phase !== "awakened" ? "awakened" : state.phase;
+    (state.avatarAwake || nextActivation >= 100) && state.phase !== "awakened" ? "awakened" : state.phase;
 
   // Auto-Salvage Item Logic
   let nextMaterials = state.resources.materials;
@@ -218,6 +400,12 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
   }
   if (phaseEntropyBias > 0) {
     nextEntropy = clamp(nextEntropy - phaseEntropyBias);
+  }
+  if (!sensorOnline && (state.tick >= 70 || state.threat.countdown <= 12) && state.tick % 12 === 0) {
+    nextEntropy = clamp(nextEntropy + 1);
+  }
+  if (sensorOnline && sensorIntegrity >= 55 && state.tick % 10 === 0) {
+    nextEntropy = clamp(nextEntropy - 1);
   }
 
   const nextWorldPhase = state.tick > 0 && state.tick % 40 === 0 ? (state.worldPhase + 1) % 4 : state.worldPhase;
@@ -272,6 +460,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
       power: nextPower,
       stability: nextStability,
       materials: nextMaterials,
+      activation: nextActivation,
     },
     modules: nextModules,
     marks: {
@@ -287,6 +476,7 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     entropy: nextEntropy,
     alert: nextAlert,
     journal: nextJournal,
+    avatarAwake: state.avatarAwake || nextActivation >= 100,
     crisis: isCrisis,
     highStability: isHighStability,
     lockdown: nextLockdown,
@@ -301,15 +491,72 @@ export function advanceStarholdTick(state: StarholdState): StarholdState {
     highStabilityStreak: nextStability > 90 ? state.highStabilityStreak + 1 : 0,
     wasCrisis: state.crisis,
     progression,
+    activeOperation:
+      state.activeOperation
+        ? {
+            ...state.activeOperation,
+            remaining: Math.max(0, state.activeOperation.remaining - 1),
+          }
+        : null,
   };
 
-  const withResonance = coolDownResonance(nextState);
+  const withOperation =
+    nextState.activeOperation && nextState.activeOperation.remaining <= 0
+      ? completeActiveOperation(nextState)
+      : nextState;
+
+  const withScavenge = advanceScavengeOperation(withOperation);
+
+  let scriptedState = withScavenge;
+  if (scriptedPhaseOne && state.tick >= 235 && scriptedState.phase === "boot") {
+    scriptedState = {
+      ...unlockActivationTransfer(scriptedState),
+      resources: {
+        ...scriptedState.resources,
+        power: clamp(Math.max(scriptedState.resources.power, 28)),
+        stability: clamp(Math.max(scriptedState.resources.stability, 72)),
+        activation: clamp(Math.max(scriptedState.resources.activation, 28)),
+      },
+      alert: {
+        en: "Core chamber aligned. Prepare the shell for awakening.",
+        hu: "A magkamra hangolva. Készítsd elő a testet az ébredésre.",
+        de: "Kernkammer ausgerichtet. Bereite die Hülle auf das Erwachen vor.",
+        ro: "Camera nucleului este aliniată. Pregătește corpul pentru trezire.",
+      },
+    };
+  }
+
+  if (!state.avatarAwake && state.tick >= 299 && !scriptedState.pendingEvent) {
+    scriptedState = {
+      ...scriptedState,
+      phase: "awakened",
+      avatarAwake: true,
+      firstLoopComplete: true,
+      resources: {
+        ...scriptedState.resources,
+        activation: 100,
+        stability: clamp(Math.max(scriptedState.resources.stability, 88)),
+        power: clamp(Math.max(scriptedState.resources.power, 24)),
+      },
+      alert: GRAVITAS_TEXT.activation.awakenedAlert,
+      journal: pushJournal(scriptedState, GRAVITAS_TEXT.ui.phaseShift),
+    };
+  }
+
+  const withResonance = coolDownResonance(scriptedState);
 
   // Threat cycle
   const threatResult = advanceStarholdThreat(withResonance);
 
   // Events - skipped if threat just impacted or during aftershock
-  if (threatResult.impacted || threatResult.nextState.threat.aftershock > 0 || threatResult.nextState.eventQuietTicks > 0 || worldShifted) {
+  if (
+    threatResult.impacted ||
+    threatResult.nextState.threat.aftershock > 0 ||
+    threatResult.nextState.eventQuietTicks > 0 ||
+    threatResult.nextState.resources.stability < 20 ||
+    threatResult.nextState.activeOperation ||
+    worldShifted
+  ) {
     return checkStarholdMilestones(threatResult.nextState);
   }
 

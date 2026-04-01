@@ -9,7 +9,7 @@ export function createInitialStarholdState(): StarholdState {
     resources: {
       power: 36,
       materials: 18,
-      stability: 56,
+      stability: 64,
       activation: 0,
     },
     marks: {
@@ -22,8 +22,8 @@ export function createInitialStarholdState(): StarholdState {
     entropy: 0,
     threat: {
       type: "distortionWave",
-      countdown: 42,
-      totalDuration: 42,
+      countdown: 120,
+      totalDuration: 120,
       intensity: 1,
       fortified: false,
       dampened: false,
@@ -62,5 +62,12 @@ export function createInitialStarholdState(): StarholdState {
     stationLost: false,
     firstLoopComplete: false,
     firstLoopShown: false,
+    activeOperation: null,
+    scavengeOperation: null,
+    reactorRecovery: {
+      active: false,
+      completedStabilizations: 0,
+      nextPromptTick: 0,
+    },
   };
 }

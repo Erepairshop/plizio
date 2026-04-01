@@ -6,7 +6,7 @@ import Link from "next/link";
 import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
   AlertTriangle, Activity, Zap, ShieldAlert,
-  Layers, Info, FileText, X, RotateCcw,
+  Layers, FileText, X, RotateCcw,
   Terminal, ShieldHalf, LayoutGrid, Brain
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -49,6 +49,7 @@ function moduleIcon(moduleId: StarholdModuleId) {
 }
 
 type Lang = "en" | "hu" | "de" | "ro";
+type ResourceHelpKey = "power" | "materials" | "stability" | "activation" | "entropy";
 
 function StationHealthRing({ state }: { state: StarholdState }) {
   const modules = [
@@ -115,13 +116,12 @@ export default function GravitasPage() {
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
   const [actionFeedback, setActionFeedback] = useState<LocalizedString | null>(null);
-  const [tipDismissed, setTipDismissed] = useState(false);
   const [showGameOver, setShowGameOver] = useState(false);
-  const [onboardingDismissed, setOnboardingDismissed] = useState(false);
   const [sceneReady, setSceneReady] = useState(false);
   const [sceneDeferred, setSceneDeferred] = useState(false);
   const [lastCommand, setLastCommand] = useState<{ command: StarholdCommand; timestamp: number } | null>(null);
   const [hydrated, setHydrated] = useState(false);
+  const [resourceHelpOpen, setResourceHelpOpen] = useState<ResourceHelpKey | null>(null);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
@@ -265,6 +265,114 @@ export default function GravitasPage() {
     return ls[lang] ?? ls.en;
   };
 
+  const resourceHelp: Record<ResourceHelpKey, { title: LocalizedString; body: LocalizedString; impact: LocalizedString; fix: LocalizedString }> = {
+    power: {
+      title: { en: "Power", hu: "Energia", de: "Energie", ro: "Energie" },
+      body: {
+        en: "Power is the station's immediate operating reserve. Core actions and emergency responses consume it.",
+        hu: "Az energia az állomás azonnal használható tartaléka. A fő műveletek és a vészreakciók ezt fogyasztják.",
+        de: "Energie ist die unmittelbare Betriebsreserve der Station. Kernaktionen und Notfallreaktionen verbrauchen sie.",
+        ro: "Energia este rezerva operațională imediată a stației. Acțiunile principale și reacțiile de urgență o consumă.",
+      },
+      impact: {
+        en: "If it drops too low, reroutes, scans and several defensive actions become unavailable.",
+        hu: "Ha túl alacsonyra esik, az átirányítás, a szkennelés és több védekező akció elérhetetlenné válik.",
+        de: "Wenn sie zu niedrig fällt, werden Umleitungen, Scans und mehrere Abwehraktionen gesperrt.",
+        ro: "Dacă scade prea mult, redirecționările, scanările și mai multe acțiuni defensive devin indisponibile.",
+      },
+      fix: {
+        en: "Raise it by stabilizing the reactor, keeping the grid healthy, and avoiding avoidable crisis drain.",
+        hu: "Reaktor-stabilizálással, egészséges hálózattal és a felesleges krízisfogyás elkerülésével növelhető.",
+        de: "Erhöhe sie durch Reaktorstabilisierung, ein gesundes Netz und das Vermeiden unnötiger Krisenlast.",
+        ro: "Crește prin stabilizarea reactorului, menținerea rețelei sănătoase și evitarea pierderilor din criză.",
+      },
+    },
+    materials: {
+      title: { en: "Materials", hu: "Nyersanyag", de: "Material", ro: "Materiale" },
+      body: {
+        en: "Materials are your repair and fabrication reserve. Stabilizing and patching systems often spends them.",
+        hu: "A nyersanyag a javítás és gyártás tartaléka. A stabilizálás és javítás gyakran ebből költ.",
+        de: "Material ist deine Reparatur- und Fertigungsreserve. Stabilisierung und Reparaturen verbrauchen sie oft.",
+        ro: "Materialele sunt rezerva ta pentru reparații și fabricație. Stabilizarea și repararea le consumă des.",
+      },
+      impact: {
+        en: "If materials run low, repairs fail and some logistics-driven options disappear.",
+        hu: "Ha kevés a nyersanyag, a javítások elbuknak, és több logisztikai opció eltűnik.",
+        de: "Wenn Material fehlt, scheitern Reparaturen und einige logistikbasierte Optionen verschwinden.",
+        ro: "Dacă materialele scad prea mult, reparațiile eșuează și dispar unele opțiuni logistice.",
+      },
+      fix: {
+        en: "Increase it with scavange cycles, logistics upkeep, and by avoiding waste during meteor pressure.",
+        hu: "Gyűjtőciklusokkal, a logisztika karbantartásával és a meteoros nyomás alatti pazarlás elkerülésével növelhető.",
+        de: "Erhöhe es mit Bergungszyklen, gesunder Logistik und weniger Verschwendung unter Meteordruck.",
+        ro: "Crește prin cicluri de colectare, întreținerea logisticii și evitarea risipei sub presiune meteoritică.",
+      },
+    },
+    stability: {
+      title: { en: "Stability", hu: "Stabilitás", de: "Stabilität", ro: "Stabilitate" },
+      body: {
+        en: "Stability is the station's overall balance and safety margin. Threats, entropy and damage push it down.",
+        hu: "A stabilitás az állomás általános egyensúlya és biztonsági tartaléka. A fenyegetések, entrópia és sérülések lefelé nyomják.",
+        de: "Stabilität ist die allgemeine Balance und Sicherheitsreserve der Station. Bedrohungen, Entropie und Schäden drücken sie nach unten.",
+        ro: "Stabilitatea este echilibrul general și marja de siguranță a stației. Amenințările, entropia și daunele o reduc.",
+      },
+      impact: {
+        en: "If it collapses, you enter lockdown pressure and risk losing the station.",
+        hu: "Ha összeomlik, lezárási nyomás alá kerülsz, és elveszítheted az állomást.",
+        de: "Wenn sie zusammenbricht, gerätst du unter Lockdown-Druck und riskierst den Stationsverlust.",
+        ro: "Dacă se prăbușește, intri sub presiune de blocare și riști să pierzi stația.",
+      },
+      fix: {
+        en: "Recover it with reactor stabilization, smart event choices, shield tools and low-entropy play.",
+        hu: "Reaktor-stabilizálással, jó eseményválasztásokkal, pajzseszközökkel és alacsony entrópiás játékkal állítható helyre.",
+        de: "Stelle sie durch Reaktorstabilisierung, kluge Ereigniswahl, Schildwerkzeuge und niedrige Entropie wieder her.",
+        ro: "Se recuperează prin stabilizarea reactorului, alegeri bune la evenimente, unelte de scut și joc cu entropie redusă.",
+      },
+    },
+    activation: {
+      title: { en: "Activation", hu: "Aktiválás", de: "Aktivierung", ro: "Activare" },
+      body: {
+        en: "Activation measures how much charge has been routed into the core chamber toward awakening.",
+        hu: "Az aktiválás azt méri, mennyi töltés került a magkamrába az ébresztés felé.",
+        de: "Aktivierung misst, wie viel Ladung zur Erweckung in die Kernkammer geleitet wurde.",
+        ro: "Activarea măsoară câtă încărcare a fost redirecționată spre camera nucleului pentru trezire.",
+      },
+      impact: {
+        en: "Higher activation moves you toward the activation phase and eventually the awakened state.",
+        hu: "A magasabb aktiválás közelebb visz az aktiválási fázishoz, majd végül az ébredt állapothoz.",
+        de: "Höhere Aktivierung bringt dich näher an die Aktivierungsphase und schließlich an den erwachten Zustand.",
+        ro: "O activare mai mare te apropie de faza de activare și apoi de starea trezită.",
+      },
+      fix: {
+        en: "Build it by rerouting power to the core and sustaining transfer when the chamber is ready.",
+        hu: "Az energiának a maghoz irányításával és az átvitellel növelhető, amikor a kamra készen áll.",
+        de: "Erhöhe sie durch Energieumleitung zum Kern und gehaltenen Transfer, wenn die Kammer bereit ist.",
+        ro: "Crește prin redirecționarea energiei spre nucleu și menținerea transferului când camera este pregătită.",
+      },
+    },
+    entropy: {
+      title: { en: "Entropy", hu: "Entrópia", de: "Entropie", ro: "Entropie" },
+      body: {
+        en: "Entropy is long-term system disorder. It quietly raises pressure, costs and instability if ignored.",
+        hu: "Az entrópia a rendszer hosszú távú rendezetlensége. Ha figyelmen kívül hagyod, csendben növeli a nyomást, a költségeket és az instabilitást.",
+        de: "Entropie ist die langfristige Unordnung des Systems. Ignoriert man sie, erhöht sie still Druck, Kosten und Instabilität.",
+        ro: "Entropia este dezordinea pe termen lung a sistemului. Dacă este ignorată, crește discret presiunea, costurile și instabilitatea.",
+      },
+      impact: {
+        en: "High entropy makes recovery harder and can turn manageable threats into spirals.",
+        hu: "A magas entrópia megnehezíti a helyreállítást, és a kezelhető fenyegetéseket is spirállá teheti.",
+        de: "Hohe Entropie erschwert die Erholung und kann beherrschbare Bedrohungen in Spiralen verwandeln.",
+        ro: "Entropia mare îngreunează recuperarea și poate transforma amenințări gestionabile în spirale.",
+      },
+      fix: {
+        en: "Lower it through clean play, anomaly control, and by preventing cascades before they spread.",
+        hu: "Tiszta játékkal, anomáliakezeléssel és a kaszkádok terjedésének megelőzésével csökkenthető.",
+        de: "Senke sie durch sauberes Spiel, Anomaliekontrolle und das Stoppen von Kaskaden vor ihrer Ausbreitung.",
+        ro: "Se reduce prin joc curat, controlul anomaliilor și oprirea cascadelor înainte să se răspândească.",
+      },
+    },
+  };
+
   const phaseLabel = useMemo(() => {
     if (state.phase === "boot") return localize(ui.phaseBoot);
     if (state.phase === "activation") return localize(ui.phaseActivation);
@@ -278,69 +386,145 @@ export default function GravitasPage() {
     return localize(ui.patternThin);
   }, [state.worldPulse, lang, ui]);
 
-  const onboarding = useMemo(() => {
-    if (onboardingDismissed || state.avatarAwake || state.stationLost) return null;
-
-    if (state.tick < 6 && state.resources.materials < 18) {
-      return {
-        step: 1,
-        title: localize(ui.onboardingTitle),
-        body: localize(ui.onboardingStep1),
-        hint: localize(ui.onboardingTapHint),
-        focus: "scavenge" as const,
-      };
-    }
-
-    if (!state.modules.logistics.online && state.tick < 14) {
-      return {
-        step: 2,
-        title: localize(ui.onboardingTitle),
-        body: localize(ui.onboardingStep2),
-        hint: localize(ui.onboardingTapHint),
-        focus: "repairLogistics" as const,
-      };
-    }
-
-    if (state.phase === "boot" && state.resources.activation < 20 && state.tick < 24) {
-      return {
-        step: 3,
-        title: localize(ui.onboardingTitle),
-        body: localize(ui.onboardingStep3),
-        hint: localize(ui.onboardingTapHint),
-        focus: "reroute" as const,
-      };
-    }
-
-    if (state.phase === "activation" && !state.avatarAwake) {
-      return {
-        step: 4,
-        title: localize(ui.onboardingTitle),
-        body: localize(ui.onboardingStep4),
-        hint: localize(ui.onboardingTapHint),
-        focus: "activation" as const,
-      };
-    }
-
-    return null;
-  }, [
-    onboardingDismissed,
-    state.avatarAwake,
-    state.stationLost,
-    state.tick,
-    state.resources.materials,
-    state.modules.logistics.online,
-    state.phase,
-    state.resources.activation,
-    lang,
-    ui,
-  ]);
-
   const canReroute = canStartActivationTransfer(state);
   const isRecovering = state.threat.aftershock > 0 || state.crisis;
   const isLockdown = state.lockdown;
   const introStage = state.phase === "boot" && state.tick < 18;
   const earlyStage = !state.avatarAwake && state.tick < 45;
-  const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || onboarding?.focus === "reroute";
+  const activeOperation = state.activeOperation;
+  const scavengeOperation = state.scavengeOperation;
+  const isScavengeActive = !!scavengeOperation;
+  const operationProgress = activeOperation
+    ? Math.max(0, Math.min(100, ((activeOperation.duration - activeOperation.remaining) / activeOperation.duration) * 100))
+    : 0;
+  const scavengeProgress = scavengeOperation
+    ? Math.max(0, Math.min(100, ((scavengeOperation.cycleDuration - scavengeOperation.remaining) / scavengeOperation.cycleDuration) * 100))
+    : 0;
+  const guide = useMemo(() => {
+    if (state.avatarAwake) {
+      return {
+        body: localize(content.ui.awakened),
+        focus: null as "scavenge" | "repairLogistics" | "stabilize" | "reroute" | "activation" | null,
+      };
+    }
+
+    if (state.pendingEvent) {
+      return {
+        body: localize({
+          en: "External interference detected. Choose a response and keep the station steady.",
+          hu: "Külső beavatkozás érzékelve. Válassz választ, és tartsd stabilan az állomást.",
+          de: "Externer Eingriff erkannt. Wähle eine Antwort und halte die Station stabil.",
+          ro: "Interferență externă detectată. Alege un răspuns și păstrează stația stabilă.",
+        }),
+        focus: null as const,
+      };
+    }
+
+    if (state.tick < 120) {
+      if (!state.scavengeOperation) {
+        return {
+          body: localize({
+            en: "Start material gathering once. Let the drone sweep run in the background.",
+            hu: "Indítsd el egyszer az anyaggyűjtést. Hagyd, hogy a drón a háttérben dolgozzon.",
+            de: "Starte die Materialsuche einmal. Lass die Drohne im Hintergrund arbeiten.",
+            ro: "Pornește o dată colectarea de materiale. Lasă drona să lucreze în fundal.",
+          }),
+          focus: "scavenge" as const,
+        };
+      }
+      if (state.modules.logistics.integrity < 68) {
+        return {
+          body: localize({
+            en: "Repair logistics first. A healthy supply line makes the rest easier.",
+            hu: "Először a logisztikát javítsd meg. Egy ép ellátási lánc mindent könnyebbé tesz.",
+            de: "Repariere zuerst die Logistik. Eine gesunde Versorgungslinie erleichtert alles andere.",
+            ro: "Repară mai întâi logistica. O linie de aprovizionare sănătoasă ușurează totul.",
+          }),
+          focus: "repairLogistics" as const,
+        };
+      }
+      if (state.resources.stability < 74 || state.modules.reactor.integrity < 78) {
+        return {
+          body: localize({
+            en: "Stabilize the reactor and keep the green line healthy before the first interference.",
+            hu: "Stabilizáld a reaktort, és tartsd egészségesen a zöld sávot az első beavatkozás előtt.",
+            de: "Stabilisiere den Reaktor und halte die grüne Anzeige gesund, bevor der erste Eingriff kommt.",
+            ro: "Stabilizează reactorul și menține bara verde sănătoasă înainte de prima intervenție.",
+          }),
+          focus: "stabilize" as const,
+        };
+      }
+      return {
+        body: localize({
+          en: "Nothing hostile is entering yet. Learn the station and keep your systems calm.",
+          hu: "Még nem érkezik semmi ellenséges. Ismerd meg az állomást, és tartsd nyugodtan a rendszert.",
+          de: "Noch dringt nichts Feindliches ein. Lerne die Station kennen und halte das System ruhig.",
+          ro: "Încă nu intră nimic ostil. Învață stația și păstrează sistemul calm.",
+        }),
+        focus: null as const,
+      };
+    }
+
+    if (state.tick < 240) {
+      if (state.phase === "boot" && canReroute) {
+        return {
+          body: localize({
+            en: "The station is holding. Begin routing power toward the core when you are ready.",
+            hu: "Az állomás tartja magát. Kezdd el a mag felé terelni az energiát, amikor kész vagy.",
+            de: "Die Station hält. Leite Energie zum Kern, sobald du bereit bist.",
+            ro: "Stația rezistă. Începe să redirecționezi energia spre nucleu când ești pregătit.",
+          }),
+          focus: "reroute" as const,
+        };
+      }
+      return {
+        body: localize({
+          en: "Recover from the first disturbance. Keep materials and stability in reserve.",
+          hu: "Állj talpra az első zavar után. Tarts tartalékot anyagból és stabilitásból.",
+          de: "Erhole dich von der ersten Störung. Halte Material und Stabilität in Reserve.",
+          ro: "Recuperează-te după prima perturbare. Păstrează materiale și stabilitate în rezervă.",
+        }),
+        focus: state.modules.logistics.integrity < 70 ? "repairLogistics" as const : "stabilize" as const,
+      };
+    }
+
+    if (state.tick < 300) {
+      if (state.phase === "activation") {
+        return {
+          body: localize({
+            en: "The chamber is ready. Open Activation and hold the transfer to wake the avatar.",
+            hu: "A kamra készen áll. Nyisd meg az Aktiválást, és tartsd az átvitelt az avatár felébresztéséhez.",
+            de: "Die Kammer ist bereit. Öffne die Aktivierung und halte den Transfer, um den Avatar zu wecken.",
+            ro: "Camera este pregătită. Deschide Activarea și ține transferul pentru a trezi avatarul.",
+          }),
+          focus: "activation" as const,
+        };
+      }
+      return {
+        body: localize({
+          en: "Prepare the core. You are in the final minute of the first phase.",
+          hu: "Készítsd elő a magot. Az első fázis utolsó percében vagy.",
+          de: "Bereite den Kern vor. Du bist in der letzten Minute der ersten Phase.",
+          ro: "Pregătește nucleul. Ești în ultimul minut al primei faze.",
+        }),
+        focus: "reroute" as const,
+      };
+    }
+
+    return {
+      body: localize(ui.startDirective),
+      focus: null as const,
+    };
+  }, [state, canReroute, lang, content.ui.awakened, ui.startDirective]);
+
+  const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || guide.focus === "reroute";
+  const displayedWaveNumber = state.threat.aftershock > 0 ? Math.max(1, state.threatCycle) : state.threatCycle + 1;
+  const threatProgressPercent = state.threat.aftershock > 0
+    ? Math.max(0, Math.min(100, ((6 - state.threat.aftershock) / 6) * 100))
+    : Math.max(0, Math.min(100, ((state.threat.totalDuration - state.threat.countdown) / Math.max(1, state.threat.totalDuration)) * 100));
+  const threatCountdownText = state.threat.aftershock > 0
+    ? String(state.threat.aftershock)
+    : `${Math.floor(state.threat.countdown / 60)}:${String(state.threat.countdown % 60).padStart(2, "0")}`;
 
   const beginTransfer = () => {
     if (state.phase !== "activation" || holdRef.current !== null || state.avatarAwake) return;
@@ -360,6 +544,70 @@ export default function GravitasPage() {
   const hasGoldHull = state.progression.unlockedItems.includes("station_paint_gold");
   const unclaimed = state.progression.unclaimedMilestones || [];
   const hasUnclaimed = unclaimed.length > 0;
+  const reactorRecovery = state.reactorRecovery ?? {
+    active: false,
+    completedStabilizations: 0,
+    nextPromptTick: 0,
+  };
+  const reactorPromptWindow = reactorRecovery.active && state.tick >= reactorRecovery.nextPromptTick;
+  const inFirstWaveRecovery = reactorRecovery.active && state.threatCycle === 1;
+  const severeReactorIssue = state.resources.stability < 42 || state.modules.reactor.integrity < 58 || state.modules.reactor.load >= 88 || state.crisis;
+  const reactorNeedsAttention =
+    activeOperation?.type === "stabilizeReactor" ||
+    reactorPromptWindow ||
+    (!inFirstWaveRecovery && severeReactorIssue);
+  const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 72 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics");
+  const reactorActionTone = severeReactorIssue ? "danger" : "warning";
+  const logisticsActionTone = state.modules.logistics.integrity < 48 || !state.modules.logistics.online ? "danger" : "warning";
+  const primaryActions = [
+    {
+      key: "scavenge",
+      label: isScavengeActive ? localize({ en: "Stop Scavenge", hu: "Gyűjtés leállítása", de: "Bergung stoppen", ro: "Oprește colectarea" }) : localize(ui.scavenge),
+      onClick: () => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)"),
+      disabled: isLockdown && !isScavengeActive,
+      highlight: guide.focus === "scavenge",
+      tone: "default" as const,
+    },
+    ...(reactorNeedsAttention
+      ? [{
+          key: "reactor",
+          label: activeOperation?.type === "stabilizeReactor" ? localize({ en: "Stop Stabilize", hu: "Stabilizálás leállítása", de: "Stabilisierung stoppen", ro: "Oprește stabilizarea" }) : localize(ui.stabilize),
+          onClick: () => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)"),
+          disabled: !!activeOperation && activeOperation.type !== "stabilizeReactor",
+          highlight: false,
+          emphasis: isRecovering && !isLockdown,
+          tone: reactorActionTone,
+        }]
+      : []),
+    ...(logisticsNeedsAttention
+      ? [{
+          key: "logistics",
+          label: activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics" ? localize({ en: "Stop Repair", hu: "Javítás leállítása", de: "Reparatur stoppen", ro: "Oprește reparația" }) : localize(ui.repairLogistics),
+          onClick: () => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)"),
+          disabled: !!activeOperation && !(activeOperation.type === "repairModule" && activeOperation.moduleId === "logistics"),
+          highlight: guide.focus === "repairLogistics",
+          tone: logisticsActionTone,
+        }]
+      : []),
+    {
+      key: "core",
+      label: state.phase === "awakened" ? localize({ en: "World Pulse", hu: "Világimpulzus", de: "Weltpuls", ro: "Pulsul lumii" }) : activeOperation?.type === "rerouteCore" ? localize({ en: "Stop Reroute", hu: "Átirányítás leállítása", de: "Umleitung stoppen", ro: "Oprește redirecționarea" }) : localize(ui.reroute),
+      onClick: () => doAction({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" }, "rgba(219,39,119,0.4)"),
+      disabled: state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown || (!!activeOperation && activeOperation.type !== "rerouteCore")),
+      highlight: state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : rerouteHighlighted || guide.focus === "activation",
+      tone: "default" as const,
+    },
+    {
+      key: "systems",
+      label: localize({ en: "Systems", hu: "Rendszerek", de: "Systeme", ro: "Sisteme" }),
+      onClick: () => setActivePanel("modules"),
+      disabled: false,
+      highlight: activePanel === "modules",
+      tone: "default" as const,
+    },
+  ];
+  const quickActions = primaryActions.filter((action) => action.key !== "systems");
+  const systemsAction = primaryActions.find((action) => action.key === "systems");
 
   const [starFeedback, setStarFeedback] = useState<{ amount: number; id: number } | null>(null);
 
@@ -375,22 +623,6 @@ export default function GravitasPage() {
     () => getGravitasActionSlots(selectedModule, state),
     [selectedModule, state]
   );
-
-  const currentTip = useMemo(() => {
-    if (state.avatarAwake) {
-      return {
-        en: "Phase II is active. The station is now your anchor, not your limit.",
-        hu: "A II. fázis aktív. Az állomás most már horgony, nem határ.",
-        de: "Phase II ist aktiv. Die Station ist jetzt dein Anker, nicht dein Limit.",
-        ro: "Faza II este activă. Stația este acum ancora ta, nu limita ta.",
-      };
-    }
-    if (state.tick < 6) return content.ui.startDirective;
-    if (state.tick < 10) return { en: "Your station is damaged. Scavenge materials to begin repairs.", hu: "Az állomás sérült. Gyűjts anyagot a javítások elindításához.", de: "Ihre Station ist beschädigt. Sammeln Sie Material für Reparaturen.", ro: "Stația este avariată. Colectează materiale pentru reparații." };
-    if (state.tick >= 10 && state.tick < 20 && !state.modules.logistics.online) return { en: "Repair Logistics to improve material flow.", hu: "Javítsd meg a logisztikát az anyagáramlás segítéséhez.", de: "Reparieren Sie die Logistik für besseren Materialfluss.", ro: "Repará logistica pentru a îmbunătăți fluxul de materiale." };
-    if (state.tick >= 20 && state.tick < 30 && state.phase === "boot") return { en: "When ready, Reroute to Core to begin avatar activation.", hu: "Ha kész vagy, irányítsd az energiát a magba az aktiváláshoz.", de: "Wenn bereit, leiten Sie Energie in den Kern zur Aktivierung.", ro: "Când ești gata, redirecționează spre nucleu pentru activare." };
-    return null;
-  }, [state.tick, state.modules.logistics.online, state.phase, state.avatarAwake]);
 
   const buildActionFeedback = (
     prev: StarholdState,
@@ -650,9 +882,6 @@ export default function GravitasPage() {
           </Link>
           <div className="flex items-center gap-2 group relative">
             <StationHealthRing state={state} />
-            <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.highStability ? "bg-emerald-500/20 text-emerald-400" : "bg-cyan-500/20 text-cyan-300"}`}>
-              {phaseLabel}
-            </div>
             {state.avatarAwake && (
               <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/20 text-fuchsia-300">
                 {localize(content.victory.firstLoopTitle)}
@@ -702,11 +931,11 @@ export default function GravitasPage() {
 
       {/* HUD Chips */}
       <div className="flex items-center justify-between px-4 py-2 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-4 scrollbar-hide">
-        <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" />
-        <HUDChip icon={<Wrench size={12} />} value={state.resources.materials} color="text-indigo-400" />
-        <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" />
-        <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" />
-        <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" />
+        <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
+        <HUDChip icon={<Wrench size={12} />} value={state.resources.materials} color="text-indigo-400" onClick={() => setResourceHelpOpen("materials")} />
+        <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
+        <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
+        <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
         <div className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 border border-white/5 text-xs font-black shrink-0 ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
           <Layers size={12} />
           <div className="flex flex-col leading-none">
@@ -727,7 +956,6 @@ export default function GravitasPage() {
               state={state}
               selectedModule={selectedModule}
               onSelectModule={setSelectedModule}
-              activeEventId={state.pendingEvent?.id ?? null}
               lastCommand={lastCommand}
             />
           ) : (
@@ -761,59 +989,6 @@ export default function GravitasPage() {
               )}
             </div>
           )}
-
-          {/* Onboarding Tips & Lore Intro */}
-          <AnimatePresence>
-            {!tipDismissed && (
-              <motion.div
-                initial={{ opacity: 0, y: -20 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, scale: 0.9 }}
-                className="absolute top-20 left-4 right-4 z-30 p-3 rounded-xl bg-blue-500/20 backdrop-blur-md border border-blue-500/30 flex items-center justify-between gap-3 shadow-2xl"
-              >
-                <div className="flex items-center gap-2">
-                  <Info size={14} className="text-blue-400 shrink-0" />
-                  <p className="text-[10px] font-black uppercase tracking-tight text-blue-100">
-                    {state.tick <= 1 ? localize(content.lore.intro) : localize(currentTip)}
-                  </p>
-                </div>
-                <button onClick={() => setTipDismissed(true)} className="p-1 text-white/40 hover:text-white transition">
-                  <X size={14} />
-                </button>
-              </motion.div>
-            )}
-          </AnimatePresence>
-
-          <AnimatePresence>
-            {onboarding && (
-              <motion.div
-                initial={{ opacity: 0, y: -16 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -16 }}
-                className="absolute top-44 left-4 right-4 z-30 rounded-2xl border border-cyan-400/25 bg-cyan-500/10 backdrop-blur-md p-4 shadow-[0_0_30px_rgba(34,211,238,0.14)]"
-              >
-                <div className="flex items-start justify-between gap-4">
-                  <div className="min-w-0">
-                    <div className="text-[10px] font-black uppercase tracking-[0.28em] text-cyan-300">
-                      {onboarding.title} {onboarding.step}/4
-                    </div>
-                    <div className="mt-2 text-sm font-black text-white leading-snug">
-                      {onboarding.body}
-                    </div>
-                    <div className="mt-2 text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">
-                      {onboarding.hint}
-                    </div>
-                  </div>
-                  <button
-                    onClick={() => setOnboardingDismissed(true)}
-                    className="shrink-0 rounded-full border border-white/10 bg-white/5 px-3 py-2 text-[10px] font-black uppercase tracking-widest text-white/70 hover:bg-white/10 transition"
-                  >
-                    Skip
-                  </button>
-                </div>
-              </motion.div>
-            )}
-          </AnimatePresence>
 
           <AnimatePresence>
             {state.firstLoopComplete && !state.firstLoopShown && !showAwakening && (
@@ -887,12 +1062,21 @@ export default function GravitasPage() {
           </div>
         </div>
 
+        <div className="mx-4 mb-2 rounded-xl border border-amber-400/30 bg-amber-400/12 px-4 py-3 shadow-[0_0_20px_rgba(251,191,36,0.08)] backdrop-blur-md">
+          <div className="flex items-center gap-2">
+            <AlertTriangle size={14} className="shrink-0 text-amber-300" />
+            <p className="text-[10px] font-black uppercase tracking-tight text-amber-50">
+              {guide.body}
+            </p>
+          </div>
+        </div>
+
         {/* Compact Threat Bar */}
         <div className={`mx-4 mb-2 p-3 rounded-xl border transition-all duration-500 ${state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3">
               <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs ${state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
-                {state.threat.aftershock > 0 ? state.threat.aftershock : (state.threat.countdown <= 10 || hasPredictor ? state.threat.countdown : "--")}
+                {state.threat.aftershock > 0 ? state.threat.aftershock : threatCountdownText}
               </div>
               <div className="flex flex-col">
                 <div className="text-[11px] font-black uppercase tracking-widest truncate max-w-[120px]">
@@ -901,12 +1085,12 @@ export default function GravitasPage() {
                 <div className="text-[9px] font-bold text-white/40 uppercase tracking-tighter">
                   {earlyStage
                     ? localize({
-                        en: "Calibration window",
-                        hu: "Kalibrációs szakasz",
-                        de: "Kalibrierungsfenster",
-                        ro: "Fereastră de calibrare",
+                        en: `Wave #${displayedWaveNumber} calibrating`,
+                        hu: `${displayedWaveNumber}. hullám kalibrál`,
+                        de: `Welle #${displayedWaveNumber} kalibriert`,
+                        ro: `Valul #${displayedWaveNumber} se calibrează`,
                       })
-                    : localize({ en: `Wave #${state.threatCycle}`, hu: `${state.threatCycle}. hullám`, de: `Welle #${state.threatCycle}`, ro: `Valul #${state.threatCycle}` })}
+                    : localize({ en: `Wave #${displayedWaveNumber}`, hu: `${displayedWaveNumber}. hullám`, de: `Welle #${displayedWaveNumber}`, ro: `Valul #${displayedWaveNumber}` })}
                 </div>
               </div>
             </div>
@@ -920,7 +1104,7 @@ export default function GravitasPage() {
           <div className="mt-2 h-1 w-full bg-white/5 rounded-full overflow-hidden">
             <div
               className={`h-full transition-all duration-1000 ${state.threat.aftershock > 0 ? "bg-amber-500" : state.threat.countdown <= 3 ? "bg-rose-500" : "bg-cyan-500"}`}
-              style={{ width: `${state.threat.aftershock > 0 ? (state.threat.aftershock / 6) * 100 : (state.threat.countdown / state.threat.totalDuration) * 100}%` }}
+              style={{ width: `${threatProgressPercent}%` }}
             />
           </div>
 
@@ -932,7 +1116,7 @@ export default function GravitasPage() {
                     hu: "Ismerd meg a vezérlést. Az állomás nyomása most vissza van fogva.",
                     de: "Lerne die Steuerung. Der Stationsdruck wird noch zurückgehalten.",
                     ro: "Învață comenzile. Presiunea stației este încă ținută în frâu.",
-                  })
+                      })
                 : localize({
                     en: "Problems are coming in slowly. Build a stable rhythm first.",
                     hu: "A problémák lassan érkeznek. Előbb építs stabil ritmust.",
@@ -976,13 +1160,13 @@ export default function GravitasPage() {
           className="mx-4 mb-4 p-2 rounded-lg bg-black/20 border border-white/5 flex flex-col gap-0.5 overflow-hidden group hover:bg-black/40 transition"
         >
           {state.journal.slice(0, 3).map((line, idx) => (
-            <div key={idx} className="flex gap-2 text-[10px] text-white/30 truncate group-hover:text-white/50 transition">
-              <span className="font-black text-white/20 uppercase shrink-0">T{line.tick}</span>
+            <div key={idx} className="flex gap-2 text-[10px] text-white/60 truncate group-hover:text-white/85 transition">
+              <span className="font-black text-white/45 uppercase shrink-0">T{line.tick}</span>
               <span className="truncate">{localize(line.text)}</span>
             </div>
           ))}
           {state.journal.length === 0 && (
-            <div className="text-[10px] text-white/20 italic">System log empty...</div>
+            <div className="text-[10px] text-white/40 italic">System log empty...</div>
           )}
         </button>
 
@@ -1012,7 +1196,7 @@ export default function GravitasPage() {
                 icon={<Activity size={18} />}
                 label={localize(ui.phaseActivation)}
                 active={activePanel === "activation"}
-                emphasis={onboarding?.focus === "activation"}
+                emphasis={guide.focus === "activation"}
                 onClick={() => setActivePanel(activePanel === "activation" ? null : "activation")}
               />
             </div>
@@ -1038,15 +1222,75 @@ export default function GravitasPage() {
         </motion.button>
       )}
 
+      {activeOperation && (
+        <div className="mx-4 mb-3 rounded-2xl border border-cyan-400/20 bg-cyan-400/8 p-3 backdrop-blur-sm">
+          <div className="flex items-start justify-between gap-3">
+            <div className="min-w-0">
+              <div className="text-[9px] font-black uppercase tracking-[0.22em] text-cyan-300">
+                {localize({ en: "Active operation", hu: "Aktív művelet", de: "Aktiver Vorgang", ro: "Operațiune activă" })}
+              </div>
+              <div className="mt-1 text-sm font-black text-white">
+                {localize(activeOperation.title)}
+              </div>
+              <div className="mt-1 text-[11px] leading-snug text-white/60">
+                {localize(activeOperation.detail)}
+              </div>
+            </div>
+            <div className="shrink-0 text-right">
+              <div className="text-[10px] font-black text-cyan-100">{activeOperation.remaining}T</div>
+              <div className="text-[9px] uppercase tracking-[0.18em] text-white/35">
+                {localize({ en: "remaining", hu: "hátra", de: "verbleibend", ro: "rămase" })}
+              </div>
+            </div>
+          </div>
+          <div className="mt-3 h-1.5 w-full overflow-hidden rounded-full bg-white/5">
+            <div
+              className="h-full rounded-full bg-gradient-to-r from-cyan-400 via-sky-400 to-fuchsia-400 transition-all duration-500"
+              style={{ width: `${operationProgress}%` }}
+            />
+          </div>
+        </div>
+      )}
+
+      {scavengeOperation && (
+        <div className="mx-4 mb-3 rounded-2xl border border-emerald-400/20 bg-emerald-400/8 p-3 backdrop-blur-sm">
+          <div className="flex items-start justify-between gap-3">
+            <div className="min-w-0">
+              <div className="text-[9px] font-black uppercase tracking-[0.22em] text-emerald-300">
+                {localize({ en: "Drone sweep active", hu: "Drónküldés aktív", de: "Drohnenflug aktiv", ro: "Cursa dronei este activă" })}
+              </div>
+              <div className="mt-1 text-sm font-black text-white">
+                {localize({ en: "Salvage drones are collecting materials", hu: "A mentődrónok anyagot gyűjtenek", de: "Bergungsdrohnen sammeln Material", ro: "Dronele de salvare colectează materiale" })}
+              </div>
+              <div className="mt-1 text-[11px] leading-snug text-white/60">
+                {localize({ en: "Tap the material command again to recall them. Each completed sweep brings back fresh resources.", hu: "Érintsd meg újra az anyaggyűjtést a visszahíváshoz. Minden befejezett kör új nyersanyagot hoz vissza.", de: "Tippe erneut auf Materialsuche, um sie zurückzurufen. Jeder abgeschlossene Flug bringt neue Ressourcen zurück.", ro: "Apasă din nou pe colectare ca să le rechemi. Fiecare cursă completă aduce resurse noi." })}
+              </div>
+            </div>
+            <div className="shrink-0 text-right">
+              <div className="text-[10px] font-black text-emerald-100">{scavengeOperation.remaining}T</div>
+              <div className="text-[9px] uppercase tracking-[0.18em] text-white/35">
+                {localize({ en: "to haul", hu: "begyűjtésig", de: "bis Rückkehr", ro: "până la întoarcere" })}
+              </div>
+            </div>
+          </div>
+          <div className="mt-3 h-1.5 w-full overflow-hidden rounded-full bg-white/5">
+            <div
+              className="h-full rounded-full bg-gradient-to-r from-emerald-400 via-cyan-400 to-lime-300 transition-all duration-500"
+              style={{ width: `${scavengeProgress}%` }}
+            />
+          </div>
+        </div>
+      )}
+
       {/* Main Actions - Bottom Bar */}
       <nav className="fixed bottom-0 left-0 right-0 p-4 pb-[calc(1.5rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 z-40 lg:static lg:bg-transparent lg:border-none lg:p-6 lg:max-w-4xl lg:mx-auto">
         <div className="mb-2 text-[9px] font-black uppercase tracking-[0.18em] text-white/40">
           {earlyStage
             ? localize({
-                en: "Tap a command and watch the station answer before pressure climbs.",
-                hu: "Nyomj egy parancsot, és figyeld, hogyan válaszol az állomás, mielőtt nő a nyomás.",
-                de: "Tippe einen Befehl an und beobachte die Reaktion der Station, bevor der Druck steigt.",
-                ro: "Apasă o comandă și urmărește cum răspunde stația, înainte să crească presiunea.",
+                en: "Start a process once. Tap the same command again if you want to stop it.",
+                hu: "Indíts el egy folyamatot egyszer. Ha le akarod állítani, érintsd meg újra ugyanazt a parancsot.",
+                de: "Starte einen Vorgang einmal. Tippe denselben Befehl erneut an, wenn du ihn stoppen willst.",
+                ro: "Pornește un proces o singură dată. Apasă din nou aceeași comandă dacă vrei să îl oprești.",
               })
             : localize({
                 en: "Keep the grid steady and prepare for the next wave.",
@@ -1055,21 +1299,92 @@ export default function GravitasPage() {
                 ro: "Menține rețeaua stabilă și pregătește-te pentru următorul val.",
               })}
         </div>
-        <div className="grid grid-cols-4 gap-2">
-        <MainAction label={localize(ui.scavenge)} onClick={() => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)")} disabled={isLockdown} highlight={onboarding?.focus === "scavenge"} />
-        <MainAction label={localize(ui.stabilize)} onClick={() => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)")} emphasis={isRecovering && !isLockdown} />
-        <MainAction label={localize(ui.repairLogistics)} onClick={() => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)")} highlight={onboarding?.focus === "repairLogistics"} />
-        <MainAction
-          label={state.phase === "awakened" ? localize({ en: "World Pulse", hu: "Világimpulzus", de: "Weltpuls", ro: "Pulsul lumii" }) : localize(ui.reroute)}
-          onClick={() => doAction({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" }, "rgba(219,39,119,0.4)")}
-          disabled={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown)}
-          highlight={state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : rerouteHighlighted}
-        />
+        <div className="mb-2 flex items-center justify-between gap-3">
+          <div className="text-[10px] font-black uppercase tracking-[0.2em] text-cyan-300/75">
+            {localize({ en: "Quick Commands", hu: "Gyors parancsok", de: "Schnellbefehle", ro: "Comenzi rapide" })}
+          </div>
+          {systemsAction && (
+            <button
+              type="button"
+              onClick={systemsAction.onClick}
+              className={`shrink-0 rounded-full border px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.18em] transition ${systemsAction.highlight ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100" : "border-white/10 bg-white/5 text-white/70 hover:bg-white/10"}`}
+            >
+              {systemsAction.label}
+            </button>
+          )}
+        </div>
+        <div className="flex gap-2 overflow-x-auto no-scrollbar scrollbar-hide pb-1">
+          {quickActions.map((action) => (
+            <MainAction
+              key={action.key}
+              label={action.label}
+              onClick={action.onClick}
+              disabled={action.disabled}
+              highlight={action.highlight}
+              emphasis={"emphasis" in action ? action.emphasis : undefined}
+              tone={action.tone}
+            />
+          ))}
         </div>
       </nav>
 
       {/* Sliding Panels */}
       <AnimatePresence>
+        {resourceHelpOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[90] bg-black/70 backdrop-blur-sm p-4 flex items-end sm:items-center sm:justify-center"
+            onClick={() => setResourceHelpOpen(null)}
+          >
+            <motion.div
+              initial={{ opacity: 0, y: 18, scale: 0.98 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: 18, scale: 0.98 }}
+              transition={{ type: "spring", damping: 24, stiffness: 240 }}
+              onClick={(e) => e.stopPropagation()}
+              className="w-full max-w-md rounded-[28px] border border-white/10 bg-[#0b1224]/95 p-5 shadow-[0_20px_80px_rgba(0,0,0,0.45)]"
+            >
+              <div className="flex items-start justify-between gap-4">
+                <div>
+                  <div className="text-[10px] font-black uppercase tracking-[0.22em] text-cyan-300/75">
+                    {localize({ en: "Resource Help", hu: "Erőforrás súgó", de: "Ressourcenhilfe", ro: "Ajutor resurse" })}
+                  </div>
+                  <div className="mt-1 text-lg font-black text-white">
+                    {localize(resourceHelp[resourceHelpOpen].title)}
+                  </div>
+                </div>
+                <button
+                  onClick={() => setResourceHelpOpen(null)}
+                  className="h-9 w-9 rounded-full border border-white/10 bg-white/5 text-white/70"
+                >
+                  <X size={16} className="mx-auto" />
+                </button>
+              </div>
+              <div className="mt-4 space-y-4 text-sm leading-relaxed text-white/82">
+                <div>
+                  <div className="text-[10px] font-black uppercase tracking-[0.18em] text-white/45">
+                    {localize({ en: "What it is", hu: "Mi ez", de: "Was es ist", ro: "Ce este" })}
+                  </div>
+                  <p className="mt-1">{localize(resourceHelp[resourceHelpOpen].body)}</p>
+                </div>
+                <div>
+                  <div className="text-[10px] font-black uppercase tracking-[0.18em] text-white/45">
+                    {localize({ en: "What it affects", hu: "Mire hat", de: "Worauf es wirkt", ro: "Ce influențează" })}
+                  </div>
+                  <p className="mt-1">{localize(resourceHelp[resourceHelpOpen].impact)}</p>
+                </div>
+                <div>
+                  <div className="text-[10px] font-black uppercase tracking-[0.18em] text-white/45">
+                    {localize({ en: "How to improve it", hu: "Hogyan javítható", de: "Wie man es verbessert", ro: "Cum se îmbunătățește" })}
+                  </div>
+                  <p className="mt-1">{localize(resourceHelp[resourceHelpOpen].fix)}</p>
+                </div>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
         {activePanel && (
           <motion.div
             initial={{ y: "100%" }}
@@ -1240,13 +1555,13 @@ export default function GravitasPage() {
                   )}
                   <div className="space-y-3">
                     {state.journal.map((line, idx) => (
-                      <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.02] text-sm text-white/60 border-l-2 border-l-white/10 flex gap-3">
-                        <span className="font-black text-white/20 uppercase shrink-0 mt-0.5 text-[10px]">T{line.tick}</span>
+                      <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.03] text-sm text-white/80 border-l-2 border-l-white/15 flex gap-3">
+                        <span className="font-black text-white/45 uppercase shrink-0 mt-0.5 text-[10px]">T{line.tick}</span>
                         <span>{localize(line.text)}</span>
                       </div>
                     ))}
                     {state.journal.length === 0 && (
-                      <div className="p-12 text-center text-[10px] text-white/20 font-black uppercase tracking-[0.2em]">
+                      <div className="p-12 text-center text-[10px] text-white/40 font-black uppercase tracking-[0.2em]">
                         {localize(ui.awaitingLog)}
                       </div>
                     )}
@@ -1372,7 +1687,7 @@ function StatItem({ label, value }: { label: string; value: string | number }) {
 }
 
 // Helper Components
-function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number; color: string }) {
+function HUDChip({ icon, value, color, onClick }: { icon: React.ReactNode; value: number; color: string; onClick?: () => void }) {
   const prevValueRef = useRef(value);
   const [diff, setDiff] = useState<number | null>(null);
 
@@ -1386,12 +1701,14 @@ function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number;
   }, [value]);
 
   return (
-    <motion.div
+    <motion.button
+      type="button"
+      onClick={onClick}
       animate={diff !== null ? { scale: [1, 1.08, 1] } : { scale: 1 }}
       transition={{ duration: 0.35 }}
       className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl border font-black text-xs shrink-0 transition-all ${
         diff !== null ? "border-white/15 bg-white/10 shadow-[0_0_20px_rgba(255,255,255,0.08)]" : "border-white/5 bg-white/5"
-      } ${color}`}
+      } ${color} ${onClick ? "cursor-pointer hover:bg-white/10" : ""}`}
     >
       {icon}
       <motion.span
@@ -1414,7 +1731,7 @@ function HUDChip({ icon, value, color }: { icon: React.ReactNode; value: number;
           </motion.div>
         )}
       </AnimatePresence>
-    </motion.div>
+    </motion.button>
   );
 }
 
@@ -1444,12 +1761,17 @@ function PanelTab({ icon, label, active, onClick, emphasis }: { icon: React.Reac
   );
 }
 
-function MainAction({ label, onClick, disabled, highlight, emphasis }: { label: string; onClick: () => void; disabled?: boolean; highlight?: boolean; emphasis?: boolean }) {
+function MainAction({ label, onClick, disabled, highlight, emphasis, tone = "default" }: { label: string; onClick: () => void; disabled?: boolean; highlight?: boolean; emphasis?: boolean; tone?: "default" | "warning" | "danger" }) {
+  const toneClass = tone === "danger"
+    ? "border-rose-500/70 bg-rose-500/18 text-rose-50 shadow-[0_0_18px_rgba(244,63,94,0.24)]"
+    : tone === "warning"
+      ? "border-amber-400/70 bg-amber-400/18 text-amber-50 shadow-[0_0_18px_rgba(251,191,36,0.22)]"
+      : "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]";
   return (
     <button
       disabled={disabled}
       onClick={onClick}
-      className={`relative h-14 min-h-[52px] rounded-xl border font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis ? "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]" : "border-white/10 bg-white/5 hover:bg-white/10 hover:-translate-y-0.5 text-white"}`}
+      className={`relative h-14 min-h-[52px] min-w-[122px] px-3 rounded-xl border font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis || tone !== "default" ? toneClass : "border-white/10 bg-white/5 hover:bg-white/10 hover:-translate-y-0.5 text-white"}`}
     >
       {label}
       {disabled && (
@@ -1457,7 +1779,7 @@ function MainAction({ label, onClick, disabled, highlight, emphasis }: { label: 
           <div className="w-full h-0.5 bg-white/10 -rotate-12" />
         </div>
       )}
-      {emphasis && <div className="absolute -top-1 -right-1 w-2.5 h-2.5 bg-cyan-400 rounded-full animate-ping" />}
+      {emphasis && <div className={`absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full animate-ping ${tone === "danger" ? "bg-rose-400" : tone === "warning" ? "bg-amber-300" : "bg-cyan-400"}`} />}
     </button>
   );
 }

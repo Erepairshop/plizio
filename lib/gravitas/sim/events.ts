@@ -5,6 +5,9 @@ import { GRAVITAS_TEXT } from "./content";
 const T = GRAVITAS_TEXT.events;
 const A = GRAVITAS_TEXT.alerts;
 const J = GRAVITAS_TEXT.journal;
+const SCRIPTED_PHASE_ONE_END_TICK = 300;
+const SCRIPTED_PHASE_ONE_EVENT_1_TICK = 120;
+const SCRIPTED_PHASE_ONE_EVENT_2_TICK = 240;
 
 function chainedEvent(
   base: {
@@ -1072,6 +1075,36 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
 
 export function applyStarholdEvents(state: StarholdState): StarholdState {
   if (state.pendingEvent || (state.eventQuietTicks ?? 0) > 0) {
+    return state;
+  }
+
+  if (!state.avatarAwake && state.tick < SCRIPTED_PHASE_ONE_END_TICK) {
+    if ((state.lastEventTick.powerFluctuation ?? -Infinity) < 0 && state.tick >= SCRIPTED_PHASE_ONE_EVENT_1_TICK) {
+      const pendingEvent = STARHOLD_EVENTS.find((event) => event.id === "powerFluctuation")!.create(state);
+      return {
+        ...state,
+        pendingEvent,
+        alert: pendingEvent.title,
+        lastEventTick: {
+          ...state.lastEventTick,
+          powerFluctuation: state.tick,
+        },
+      };
+    }
+
+    if ((state.lastEventTick.signalPulse ?? -Infinity) < 0 && state.tick >= SCRIPTED_PHASE_ONE_EVENT_2_TICK) {
+      const pendingEvent = STARHOLD_EVENTS.find((event) => event.id === "signalPulse")!.create(state);
+      return {
+        ...state,
+        pendingEvent,
+        alert: pendingEvent.title,
+        lastEventTick: {
+          ...state.lastEventTick,
+          signalPulse: state.tick,
+        },
+      };
+    }
+
     return state;
   }
 

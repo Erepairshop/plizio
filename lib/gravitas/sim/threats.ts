@@ -24,15 +24,15 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
 
     switch (threat.type) {
       case "distortionWave":
-        stabilityLoss = Math.max(1, Math.ceil(threat.intensity * (gentleAftershock ? 1 : 2)));
+        stabilityLoss = gentleAftershock ? 0 : Math.max(1, Math.ceil(threat.intensity * 1.5));
         entropyGain = gentleAftershock ? 0 : 1;
         break;
       case "voidStorm":
-        powerDrain = Math.max(1, Math.ceil(threat.intensity * (gentleAftershock ? 1 : 1.5)));
+        powerDrain = gentleAftershock ? 0 : Math.max(1, Math.ceil(threat.intensity * 1.2));
         entropyGain = gentleAftershock ? 0 : Math.ceil(threat.intensity / 2);
         break;
       case "meteorShower":
-        stabilityLoss = Math.max(1, Math.ceil(threat.intensity * (gentleAftershock ? 0.5 : 1)));
+        stabilityLoss = gentleAftershock ? 0 : Math.max(1, Math.ceil(threat.intensity * 0.8));
         // Lingering integrity decay for a random module during shower aftershock
         if (!gentleAftershock) {
           const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
@@ -104,11 +104,11 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   const intensityFactor = 1 + (threat.intensity * 0.3);
   const predictionBonus = threat.predicted ? 0.35 : 0;
   const earlyThreatWindow = !state.avatarAwake && state.threatCycle <= 1;
-  const earlyThreatScale = earlyThreatWindow ? 0.65 : 1;
+  const earlyThreatScale = earlyThreatWindow ? 0.4 : 1;
 
   switch (threat.type) {
     case "distortionWave": {
-      const baseDmg = 28 * intensityFactor * earlyThreatScale;
+      const baseDmg = 24 * intensityFactor * earlyThreatScale;
       const reduction = (threat.fortified ? 0.75 : 0) + predictionBonus;
       const finalDmg = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
 
@@ -121,7 +121,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
       if (!threat.fortified) {
         aftershockDuration = earlyThreatWindow
-          ? 2
+          ? 1
           : Math.max(3, 6 - (3 - Math.min(3, state.threatCycle)) + Math.floor(state.worldPulse / 35));
         if (Math.random() > 0.5) {
           nextAnomalies.push({
@@ -135,7 +135,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       break;
     }
     case "voidStorm": {
-      const baseDmg = 22 * intensityFactor * earlyThreatScale;
+      const baseDmg = 18 * intensityFactor * earlyThreatScale;
       const reduction = (threat.dampened ? 0.7 : 0) + predictionBonus;
       const finalDmg = Math.floor(baseDmg * (1 - Math.min(0.9, reduction)));
 
@@ -148,9 +148,9 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
       if (!threat.dampened) {
         aftershockDuration = earlyThreatWindow
-          ? 2
+          ? 1
           : Math.max(3, 5 - (2 - Math.min(2, state.threatCycle)) + Math.floor(state.worldPulse / 35));
-        nextStability = clamp(nextStability - (earlyThreatWindow ? 7 : 12));
+        nextStability = clamp(nextStability - (earlyThreatWindow ? 3 : 12));
         if (Math.random() > 0.3) {
           nextAnomalies.push({
             id: "voidLeak",
@@ -163,7 +163,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       break;
     }
     case "meteorShower": {
-      const baseDmg = 18 * intensityFactor * earlyThreatScale;
+      const baseDmg = 14 * intensityFactor * earlyThreatScale;
       const reduction = (threat.intercepted ? 0.85 : 0) + predictionBonus;
 
       if (reduction >= 0.85) {
@@ -195,7 +195,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
         nextMarks.shellStrain = clamp(nextMarks.shellStrain + Math.max(0, 2 - markPenalty));
         impactJournal = T.meteorShowerImpact;
         aftershockDuration = earlyThreatWindow
-          ? 2
+          ? 1
           : Math.max(3, 4 - (1 - Math.min(1, state.threatCycle)) + Math.floor(state.worldPulse / 40));
       }
       break;
@@ -224,10 +224,13 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   const nextCycle = state.threatCycle + 1;
   const nextType = nextCycle === 1 ? "distortionWave" : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
   const worldPressure = Math.floor(state.worldPulse / 35);
-  const nextDuration = Math.max(
-    nextCycle <= 2 ? 24 : 14,
-    (nextCycle <= 1 ? 30 : nextCycle === 2 ? 26 : 18) - Math.floor(nextCycle / 5) + worldPressure - (state.worldPhase === 2 ? 1 : 0)
-  );
+  const nextDuration =
+    nextCycle <= 1
+      ? 120
+      : Math.max(
+          nextCycle <= 2 ? 28 : 16,
+          (nextCycle === 2 ? 30 : 20) - Math.floor(nextCycle / 5) + worldPressure - (state.worldPhase === 2 ? 1 : 0)
+        );
   const starReward = Math.ceil(threat.intensity / 2) + (state.worldPhase === 1 ? 1 : 0);
 
   return {
@@ -258,6 +261,13 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       stars: state.progression.stars + starReward,
       lastStarGain: starReward,
     },
+    reactorRecovery: nextCycle === 1 && threat.type === "distortionWave"
+      ? {
+          active: true,
+          completedStabilizations: 0,
+          nextPromptTick: state.tick,
+        }
+      : state.reactorRecovery,
     recoveryPriority,
     alert: impactJournal,
     journal: pushJournal(state, impactJournal),

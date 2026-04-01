@@ -848,21 +848,45 @@ export default function Home() {
   const [lastCategory, setLastCategory] = useState<string | null>(null);
 
   // Avatar data for map marker
-  const [gender] = useState<AvatarGender>(getGender());
-  const [activeSkin] = useState(getSkinDef(getActiveSkin()));
-  const [activeFace] = useState(getFaceDef(getActiveFace()));
-  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
-  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
-  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
-  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
-  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
-  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
-  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
-  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+  const [gender, setGenderState] = useState<AvatarGender>("girl");
+  const [activeSkin, setActiveSkinState] = useState(() => getSkinDef("default"));
+  const [activeFace, setActiveFaceState] = useState(() => getFaceDef("default"));
+  const [activeTop, setActiveTop] = useState<ReturnType<typeof getTopDef> | null>(null);
+  const [activeBottom, setActiveBottom] = useState<ReturnType<typeof getBottomDef> | null>(null);
+  const [activeShoe, setActiveShoe] = useState<ReturnType<typeof getShoeDef> | null>(null);
+  const [activeCape, setActiveCape] = useState<ReturnType<typeof getCapeDef> | null>(null);
+  const [activeGlasses, setActiveGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
+  const [activeGloves, setActiveGloves] = useState<ReturnType<typeof getGloveDef> | null>(null);
+  const [activeHat, setActiveHatState] = useState<ReturnType<typeof getHatDef> | null>(null);
+  const [activeTrail, setActiveTrailState] = useState<ReturnType<typeof getTrailDef> | null>(null);
 
   useEffect(() => {
     setCategories(getCategoriesWithTranslations(lang));
   }, [lang]);
+
+  useEffect(() => {
+    setGenderState(getGender());
+    setActiveSkinState(getSkinDef(getActiveSkin()));
+    setActiveFaceState(getFaceDef(getActiveFace()));
+
+    const topId = getActive("top");
+    const bottomId = getActive("bottom");
+    const shoeId = getActive("shoe");
+    const capeId = getActive("cape");
+    const glassesId = getActive("glasses");
+    const glovesId = getActive("gloves");
+    const hatId = getActiveHat();
+    const trailId = getActiveTrail();
+
+    setActiveTop(topId ? getTopDef(topId) : null);
+    setActiveBottom(bottomId ? getBottomDef(bottomId) : null);
+    setActiveShoe(shoeId ? getShoeDef(shoeId) : null);
+    setActiveCape(capeId ? getCapeDef(capeId) : null);
+    setActiveGlasses(glassesId ? getGlassesDef(glassesId) : null);
+    setActiveGloves(glovesId ? getGloveDef(glovesId) : null);
+    setActiveHatState(hatId ? getHatDef(hatId) : null);
+    setActiveTrailState(trailId ? getTrailDef(trailId) : null);
+  }, []);
 
   useEffect(() => {
     setStreak(getStreak());

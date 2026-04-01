@@ -7,9 +7,74 @@ import { GRAVITAS_TEXT } from "./content";
 import { buyStarholdItem, checkStarholdMilestones, claimStarholdMilestone } from "./progression";
 import { getStarholdModifiers } from "./modifiers";
 
+function startOperation(
+  state: StarholdState,
+  operation: StarholdState["activeOperation"],
+  alert: LocalizedString
+): StarholdState {
+  return {
+    ...state,
+    activeOperation: operation,
+    alert,
+    journal: pushJournal(state, alert),
+  };
+}
+
+function isSameForegroundOperation(state: StarholdState, command: StarholdCommand): boolean {
+  const op = state.activeOperation;
+  if (!op) return false;
+
+  if (command.type === "STABILIZE_REACTOR") return op.type === "stabilizeReactor";
+  if (command.type === "REROUTE_TO_CORE") return op.type === "rerouteCore";
+  if (command.type === "REPAIR_MODULE") {
+    return op.type === "repairModule" && op.moduleId === command.moduleId;
+  }
+  return false;
+}
+
+function stopForegroundOperation(state: StarholdState): StarholdState {
+  const op = state.activeOperation;
+  if (!op) return state;
+
+  return {
+    ...state,
+    activeOperation: null,
+    alert: {
+      en: "Operation halted. Systems standing by for a new command.",
+      hu: "A művelet leállt. A rendszerek új parancsra várnak.",
+      de: "Vorgang gestoppt. Systeme warten auf einen neuen Befehl.",
+      ro: "Operațiunea a fost oprită. Sistemele așteaptă o nouă comandă.",
+    },
+    journal: pushJournal(state, {
+      en: "Current operation was recalled before completion.",
+      hu: "A futó művelet a befejezés előtt vissza lett hívva.",
+      de: "Der laufende Vorgang wurde vor Abschluss zurückgerufen.",
+      ro: "Operațiunea curentă a fost retrasă înainte de finalizare.",
+    }),
+  };
+}
+
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
   if (state.pendingEvent && command.type !== "RESOLVE_EVENT") {
     return withAlert(state, GRAVITAS_TEXT.alerts.resolveAnomaly);
+  }
+
+  if (state.activeOperation && isSameForegroundOperation(state, command)) {
+    return stopForegroundOperation(state);
+  }
+
+  if (
+    state.activeOperation &&
+    (command.type === "STABILIZE_REACTOR" ||
+      command.type === "REPAIR_MODULE" ||
+      command.type === "REROUTE_TO_CORE")
+  ) {
+    return withAlert(state, {
+      en: "An operation is already running. Let it finish before issuing another command.",
+      hu: "Már fut egy művelet. Várd meg, amíg befejeződik, mielőtt új parancsot adsz ki.",
+      de: "Es läuft bereits ein Vorgang. Lass ihn enden, bevor du den nächsten Befehl gibst.",
+      ro: "O operațiune rulează deja. Las-o să se termine înainte de altă comandă.",
+    });
   }
 
   const { threat } = state;
@@ -17,21 +82,47 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 
   switch (command.type) {
     case "SCAVENGE": {
+      if (state.scavengeOperation) {
+        return {
+          ...state,
+          scavengeOperation: null,
+          alert: {
+            en: "Scavenge drones recalled.",
+            hu: "A gyűjtődrónok visszahívva.",
+            de: "Bergungsdrohnen zurückgerufen.",
+            ro: "Dronele de colectare au fost rechemate.",
+          },
+          journal: pushJournal(state, {
+            en: "Debris sweep paused. Salvage crews returned to the station.",
+            hu: "A törmelékmező átvizsgálása szünetel. A mentődrónok visszatértek az állomásra.",
+            de: "Die Trümmersuche pausiert. Bergungsdrohnen kehrten zur Station zurück.",
+            ro: "Măturarea resturilor a fost pusă pe pauză. Dronele s-au întors la stație.",
+          }),
+        };
+      }
+
       const introWindow = state.phase === "boot" && state.tick < 18;
-      const entropy = state.anomalies.find(a => a.id === "materialEntropy");
-      const entropyPenalty = entropy ? entropy.severity : 0;
-      const materialsGain = clamp((state.modules.logistics.online ? 6 : 3) + (introWindow ? 2 : 0) - entropyPenalty, 1);
-      const powerGain = (state.modules.sensor.online ? 3 : 0) + (introWindow ? 1 : 0);
+      const cycleDuration = introWindow ? 4 : 6;
       return {
         ...state,
-        resources: addResourceDelta(state.resources, {
-          materials: materialsGain,
-          power: powerGain,
-          stability: introWindow ? -1 : -2,
+        scavengeOperation: {
+          startedTick: state.tick,
+          cycleDuration,
+          remaining: cycleDuration,
+          completedCycles: 0,
+        },
+        alert: {
+          en: "Scavenge drones launched.",
+          hu: "A gyűjtődrónok elindultak.",
+          de: "Bergungsdrohnen gestartet.",
+          ro: "Dronele de colectare au fost lansate.",
+        },
+        journal: pushJournal(state, {
+          en: "A salvage drone is sweeping the debris field for usable material.",
+          hu: "Egy mentődrón átvizsgálja a törmelékmezőt használható anyagért.",
+          de: "Eine Bergungsdrohne durchsucht das Trümmerfeld nach verwertbarem Material.",
+          ro: "O dronă de salvare scanează câmpul de resturi după materiale utile.",
         }),
-        worldPulse: clamp(state.worldPulse + 1),
-        alert: GRAVITAS_TEXT.alerts.scavengeSuccess,
-        journal: pushJournal(state, GRAVITAS_TEXT.journal.recoveredMaterials(materialsGain)),
       };
     }
     case "STABILIZE_REACTOR": {
@@ -41,30 +132,39 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
       }
-      const nextLoad = addModuleLoad(state, "reactor", profile.loadShift).load;
-      const gainMult = mods.recoveryEfficiency;
-
-      return {
-        ...state,
-        resources: addResourceDelta(state.resources, {
-          materials: -cost,
-          power: Math.floor((introWindow ? 12 : 10) * gainMult),
-          stability: Math.floor((introWindow ? 10 : 8) * gainMult),
-        }),
-        marks: {
-          ...state.marks,
-          reactorScar: clamp(state.marks.reactorScar - 1),
+      return startOperation(
+        {
+          ...state,
+          resources: addResourceDelta(state.resources, {
+            materials: -cost,
+          }),
         },
-        modules: {
-          ...state.modules,
-          reactor: {
-            ...updateModuleIntegrity(state, "reactor", Math.floor(profile.repairGain * gainMult)),
-            load: nextLoad,
+        {
+          type: "stabilizeReactor",
+          moduleId: "reactor",
+          startedTick: state.tick,
+          duration: introWindow ? 4 : 5,
+          remaining: introWindow ? 4 : 5,
+          title: {
+            en: "Reactor stabilization running",
+            hu: "Reaktorstabilizálás folyamatban",
+            de: "Reaktorstabilisierung läuft",
+            ro: "Stabilizarea reactorului rulează",
+          },
+          detail: {
+            en: "Containment rings are damping the core pulse and clearing strain.",
+            hu: "A zárógyűrűk csillapítják a mag impulzusát és oldják a terhelést.",
+            de: "Die Eindämmungsringe dämpfen den Kernpuls und lösen die Belastung.",
+            ro: "Inelele de contenție atenuează pulsul nucleului și reduc tensiunea.",
           },
         },
-        alert: GRAVITAS_TEXT.alerts.reactorStabilized,
-        journal: pushJournal(state, GRAVITAS_TEXT.journal.reactorRealigned),
-      };
+        {
+          en: "Reactor stabilization sequence engaged.",
+          hu: "A reaktor stabilizáló szekvenciája elindult.",
+          de: "Reaktor-Stabilisierungssequenz aktiviert.",
+          ro: "Secvența de stabilizare a reactorului a pornit.",
+        }
+      );
     }
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
@@ -73,27 +173,39 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       }
-      const target = state.modules[command.moduleId];
-      const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
-      const nextLoad = addModuleLoad(state, command.moduleId, target.online ? 0 : profile.loadShift).load;
-      return {
-        ...state,
-        resources: addResourceDelta(state.resources, {
-          materials: -cost,
-          stability: Math.floor((introWindow ? 4 : 3) * mods.recoveryEfficiency),
-        }),
-        modules: {
-          ...state.modules,
-          [command.moduleId]: {
-            ...target,
-            integrity: nextIntegrity,
-            online: nextIntegrity >= profile.onlineThreshold || target.online,
-            load: nextLoad,
+      return startOperation(
+        {
+          ...state,
+          resources: addResourceDelta(state.resources, {
+            materials: -cost,
+          }),
+        },
+        {
+          type: "repairModule",
+          moduleId: command.moduleId,
+          startedTick: state.tick,
+          duration: introWindow ? 5 : 7,
+          remaining: introWindow ? 5 : 7,
+          title: {
+            en: `${state.modules[command.moduleId].name.en} repair in progress`,
+            hu: `${state.modules[command.moduleId].name.hu} javítása folyamatban`,
+            de: `${state.modules[command.moduleId].name.de} wird repariert`,
+            ro: `${state.modules[command.moduleId].name.ro} este reparat`,
+          },
+          detail: {
+            en: "Repair crews are resealing the module and restoring routing.",
+            hu: "A javítóegységek újrazárják a modult és helyreállítják az útvonalakat.",
+            de: "Reparatureinheiten versiegeln das Modul neu und stellen die Routen wieder her.",
+            ro: "Echipele de reparații resigilează modulul și refac traseele.",
           },
         },
-        alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
-        journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
-      };
+        {
+          en: `${state.modules[command.moduleId].name.en} repair team deployed.`,
+          hu: `${state.modules[command.moduleId].name.hu} javítócsapata elindult.`,
+          de: `Reparaturteam für ${state.modules[command.moduleId].name.de} entsandt.`,
+          ro: `Echipa de reparații pentru ${state.modules[command.moduleId].name.ro} a pornit.`,
+        }
+      );
     }
     case "REROUTE_TO_CORE": {
       const introWindow = state.phase === "boot" && state.tick < 30;
@@ -104,15 +216,40 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       if (!canStartActivationTransfer(state)) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noPowerReroute);
       }
-      return {
-        ...unlockActivationTransfer(state),
-        resources: {
-          ...state.resources,
-          power: clamp(state.resources.power - cost),
-          activation: clamp(state.resources.activation + (introWindow ? 14 : 12)),
+      return startOperation(
+        {
+          ...unlockActivationTransfer(state),
+          resources: {
+            ...state.resources,
+            power: clamp(state.resources.power - cost),
+          },
         },
-        worldPulse: clamp(state.worldPulse + 3),
-      };
+        {
+          type: "rerouteCore",
+          moduleId: "core",
+          startedTick: state.tick,
+          duration: introWindow ? 4 : 6,
+          remaining: introWindow ? 4 : 6,
+          title: {
+            en: "Core reroute charging",
+            hu: "Mag-átirányítás tölt",
+            de: "Kernumleitung lädt",
+            ro: "Redirecționarea nucleului se încarcă",
+          },
+          detail: {
+            en: "Power is being threaded into the chamber to prime avatar activation.",
+            hu: "Az energia a kamrába áramlik, hogy előkészítse az avatár aktiválását.",
+            de: "Energie wird in die Kammer geleitet, um die Avatar-Aktivierung vorzubereiten.",
+            ro: "Energia este direcționată în cameră pentru a pregăti activarea avatarului.",
+          },
+        },
+        {
+          en: "Power reroute to core initiated.",
+          hu: "Az energia átirányítása a maghoz elindult.",
+          de: "Energieumleitung zum Kern gestartet.",
+          ro: "Redirecționarea energiei spre nucleu a pornit.",
+        }
+      );
     }
     case "CHANNEL_TO_CORE": {
       return channelActivationPulse(state, command.amount);
