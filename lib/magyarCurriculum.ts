@@ -59,7 +59,25 @@ function makeMagyarSubtopic(
 // Maps topic keys to generator functions and returns generated questions
 function generateMagyarQuestions(topicKey: string, _lang: string, osztaly: number = 1): MagyarMCQ[] {
   // Extract subtopic ID from key (format: "theme/subtopic")
-  const [, subtopicId] = topicKey.split("/");
+  let [, subtopicId] = topicKey.split("/");
+
+  // Alias missing keys to existing generators
+  const aliases: Record<string, string> = {
+    "betuparak": "betuparok",
+    "ellentetek2": "ellentetek",
+    "osszetett_mellér": "mellér",
+    "osszetett_alár": "alár",
+    "szakkifejezesek": "idegen_szavak",
+    "jovenényszavak": "nyelvcsal",
+    "meggyozes": "erveles_alap",
+    "elemzes": "ertelmez_halado",
+    "mozaikszó": "tulajdonnev",
+    "jellemzes": "essze"
+  };
+
+  if (aliases[subtopicId]) {
+    subtopicId = aliases[subtopicId];
+  }
 
   // Select generator pool by grade
   let generatorPool: Record<string, () => MagyarMCQ[] | CurriculumTyping[]>;

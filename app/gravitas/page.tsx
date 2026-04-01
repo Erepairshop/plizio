@@ -112,6 +112,8 @@ export default function GravitasPage() {
   const [tipDismissed, setTipDismissed] = useState(false);
   const [showGameOver, setShowGameOver] = useState(false);
   const [onboardingDismissed, setOnboardingDismissed] = useState(false);
+  const [sceneReady, setSceneReady] = useState(false);
+  const [sceneDeferred, setSceneDeferred] = useState(false);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
@@ -159,6 +161,47 @@ export default function GravitasPage() {
       dispatch({ type: "__TICK__" });
     }, 1000);
     return () => window.clearInterval(id);
+  }, []);
+
+  useEffect(() => {
+    let cancelled = false;
+    let fallbackId: number | null = null;
+    let idleId: number | null = null;
+    const params = new URLSearchParams(window.location.search);
+    const isTestMode = params.get("test") === "1" || params.get("lite") === "1";
+
+    setSceneDeferred(isTestMode);
+    if (isTestMode) {
+      setSceneReady(false);
+      return () => {
+        cancelled = true;
+      };
+    }
+
+    const activate = () => {
+      if (!cancelled) setSceneReady(true);
+    };
+
+    if ("requestIdleCallback" in window) {
+      idleId = (window as Window & {
+        requestIdleCallback: (cb: IdleRequestCallback) => number;
+      }).requestIdleCallback(() => activate());
+
+      return () => {
+        cancelled = true;
+        if (idleId !== null && "cancelIdleCallback" in window) {
+          (window as Window & {
+            cancelIdleCallback: (id: number) => void;
+          }).cancelIdleCallback(idleId);
+        }
+      };
+    }
+
+    fallbackId = window.setTimeout(activate, 250);
+    return () => {
+      cancelled = true;
+      if (fallbackId !== null) window.clearTimeout(fallbackId);
+    };
   }, []);
 
   useEffect(() => {
@@ -267,6 +310,8 @@ export default function GravitasPage() {
   ]);
 
   const canReroute = canStartActivationTransfer(state);
+  const isRecovering = state.threat.aftershock > 0 || state.crisis;
+  const isLockdown = state.lockdown;
   const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || onboarding?.focus === "reroute";
 
   const beginTransfer = () => {
@@ -283,8 +328,6 @@ export default function GravitasPage() {
     }
   };
 
-  const isRecovering = state.threat.aftershock > 0 || state.crisis;
-  const isLockdown = state.lockdown;
   const hasPredictor = state.progression.unlockedItems.includes("threat_predictor");
   const hasGoldHull = state.progression.unlockedItems.includes("station_paint_gold");
   const unclaimed = state.progression.unclaimedMilestones || [];
@@ -639,12 +682,44 @@ export default function GravitasPage() {
           className={`relative transition-all duration-500 w-full aspect-[840/510] ${hasGoldHull ? "border-[6px] border-amber-400/30 rounded-3xl m-2 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
           style={{ boxShadow: actionFlash ? `inset 0 0 60px ${actionFlash}` : "none" }}
         >
-          <GravitasScene
-            state={state}
-            selectedModule={selectedModule}
-            onSelectModule={setSelectedModule}
-            activeEventId={state.pendingEvent?.id ?? null}
-          />
+          {sceneReady ? (
+            <GravitasScene
+              state={state}
+              selectedModule={selectedModule}
+              onSelectModule={setSelectedModule}
+              activeEventId={state.pendingEvent?.id ?? null}
+            />
+          ) : (
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgba(34,211,238,0.16),transparent_30%),radial-gradient(circle_at_50%_70%,rgba(168,85,247,0.14),transparent_34%),linear-gradient(180deg,#050816_0%,#071120_50%,#050816_100%)]">
+              <div className="absolute inset-0 opacity-50">
+                <div className="absolute left-1/2 top-[20%] h-20 w-20 -translate-x-1/2 rounded-full border border-cyan-300/25 bg-cyan-400/10 shadow-[0_0_40px_rgba(34,211,238,0.12)]" />
+                <div className="absolute left-[18%] top-[48%] h-14 w-14 rounded-full border border-amber-300/20 bg-amber-400/10" />
+                <div className="absolute right-[18%] top-[48%] h-14 w-14 rounded-full border border-emerald-300/20 bg-emerald-400/10" />
+                <div className="absolute left-[30%] bottom-[16%] h-14 w-14 rounded-full border border-violet-300/20 bg-violet-400/10" />
+                <div className="absolute right-[30%] bottom-[16%] h-14 w-14 rounded-full border border-rose-300/20 bg-rose-400/10" />
+              </div>
+              <div className="absolute inset-x-0 bottom-4 flex justify-center">
+                <div className="flex items-center gap-2">
+                  <div className="rounded-full border border-white/10 bg-black/30 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.22em] text-white/45 backdrop-blur-sm">
+                    {sceneDeferred ? "Scene paused" : "Loading scene"}
+                  </div>
+                  {sceneDeferred && (
+                    <button
+                      onClick={() => setSceneReady(true)}
+                      className="rounded-full border border-cyan-400/30 bg-cyan-400/12 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.22em] text-cyan-100 backdrop-blur-sm transition hover:bg-cyan-400/20"
+                    >
+                      Enable scene
+                    </button>
+                  )}
+                </div>
+              </div>
+              {sceneDeferred && (
+                <div className="absolute left-4 top-4 rounded-full border border-amber-300/25 bg-amber-400/12 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.22em] text-amber-100 backdrop-blur-sm">
+                  Test mode active
+                </div>
+              )}
+            </div>
+          )}
 
           {/* Onboarding Tips & Lore Intro */}
           <AnimatePresence>

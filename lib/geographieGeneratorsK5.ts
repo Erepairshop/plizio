@@ -15,7 +15,7 @@ const makeTyping = (subtopic: string, lang: string, data: any[]) =>
 
 // ─── DATA SOURCES ──────────────────────────────────────────────────────────
 
-const DATA_K5 = {
+const DATA_K5: Record<string, any> = {
   compass_directions: {
     mcq: [
       { q: ["Melyik az alapvető égtáj?", "Cardinal direction?", "Haupthimmelsrichtung?", "Direcție cardinală?"], c: ["Észak", "North", "Nord", "Nord"], w1: ["Fent", "Up", "Oben", "Sus"], w2: ["Jobbra", "Right", "Rechts", "Dreapta"], w3: ["Északkelet", "Northeast", "Nordost", "Nord-est"] },
@@ -553,7 +553,9 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   energy_saving: (lang: string, seed: number) => makeMCQs("energy_saving", lang, mulberry32(seed), DATA_K5.energy_saving.mcq),
   energy_saving_mcq: (lang: string, seed: number) => makeMCQs("energy_saving", lang, mulberry32(seed), DATA_K5.energy_saving.mcq),
   energy_saving_typing: (lang: string, seed: number) => makeTyping("energy_saving", lang, DATA_K5.energy_saving.typing),
+};
 
+Object.assign(DATA_K5 as Record<string, any>, {
   village_life: {
     mcq: [
       { q: ["Mi jellemző a falura?", "Village life?", "Merkmal eines Dorfes?", "Caracteristică sat?"], c: ["Kisebb lakosságszám", "Fewer people", "Geringe Einwohnerzahl", "Populație mică"], w1: ["Metróhálózat", "Metro network", "U-Bahn-Netz", "Rețea de metrou"], w2: ["Felhőkarcolók", "Skyscrapers", "Wolkenkratzer", "Zgârie-nori"], w3: ["Repülőtér", "Airport", "Flughafen", "Aeroport"] },
@@ -781,4 +783,4 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   },
 
 
-};
+});

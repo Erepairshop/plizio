@@ -1,31 +1,25 @@
 "use client";
 
-import { useEffect, useRef, useState, Suspense } from "react";
+import { useEffect, useMemo, useRef, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { Check, Rocket, HelpCircle, RotateCcw, Home } from "lucide-react";
 import RewardReveal from "@/components/RewardReveal";
 import { GameShellExpedition, GameShellLevelComplete } from "@/components/GameShell";
+import { GameStageFrame } from "@/components/game-core";
 import { incrementTotalGames } from "@/lib/milestones";
 import { useLang } from "@/components/LanguageProvider";
 import { submitScore, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import MultiplayerResult from "@/components/MultiplayerResult";
 import { getUsername } from "@/lib/username";
 import { supabase } from "@/lib/supabase/client";
+import { hashString } from "@/lib/deductionContent";
+import { getDeductionGrid2Levels } from "@/lib/deductiongrid2Content";
+import type { DeductionLocale } from "@/lib/deductionContent";
 
 type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "multi-waiting" | "multi-result";
 type Rarity = "bronze" | "silver" | "gold" | "legendary";
-
-interface DeductionLevel {
-  level: number;
-  badge: string;
-  title: string;
-  rows: string[];
-  columns: string[];
-  clues: string[];
-  solution: number[];
-}
 
 interface SaveData {
   currentLevel: number;
@@ -33,6 +27,7 @@ interface SaveData {
 }
 
 const SAVE_KEY = "deductiongrid2_expedition_v1";
+const RUN_SEED_KEY = "deductiongrid2_run_seed_v1";
 
 const T = {
   en: {
@@ -97,144 +92,34 @@ const T = {
   },
 } as const;
 
-const LEVELS: DeductionLevel[] = [
-  {
-    level: 1,
-    badge: "🚀",
-    title: "Inner Orbit",
-    rows: ["Nova", "Orion", "Vega"],
-    columns: ["Moon", "Mars", "Venus"],
-    clues: [
-      "Nova was not on the Moon.",
-      "Orion was on Venus.",
-      "Vega was not on Mars.",
-    ],
-    solution: [1, 2, 0],
-  },
-  {
-    level: 2,
-    badge: "💎",
-    title: "Lost Relics",
-    rows: ["Lyra", "Jax", "Kira"],
-    columns: ["Gem", "Map", "Key"],
-    clues: [
-      "Lyra found the Map.",
-      "Jax did not find the Key.",
-      "Kira did not find the Gem.",
-    ],
-    solution: [2, 0, 1],
-  },
-  {
-    level: 3,
-    badge: "☀️",
-    title: "Solar Flare",
-    rows: ["Sol", "Luna", "Terra"],
-    columns: ["Red Zone", "Blue Zone", "Gold Zone"],
-    clues: [
-      "Sol was not in the Red Zone.",
-      "Luna was not in the Gold Zone.",
-      "Terra was in the Blue Zone.",
-      "Sol was not in the Blue Zone.",
-    ],
-    solution: [2, 0, 1],
-  },
-  {
-    level: 4,
-    badge: "🛸",
-    title: "Base Camp",
-    rows: ["Commander", "Pilot", "Scout"],
-    columns: ["Flagship", "Outpost", "Star-Gate"],
-    clues: [
-      "The Pilot was at the Star-Gate.",
-      "The Scout was not at the Flagship.",
-      "The Commander was not at the Star-Gate.",
-    ],
-    solution: [0, 2, 1],
-  },
-  {
-    level: 5,
-    badge: "🌀",
-    title: "Nebula Core",
-    rows: ["Alpha", "Beta", "Delta"],
-    columns: ["Sector 1", "Sector 2", "Sector 3"],
-    clues: [
-      "Alpha was not in Sector 1.",
-      "Beta was in Sector 2.",
-      "Delta was not in Sector 3.",
-    ],
-    solution: [2, 1, 0],
-  },
-  {
-    level: 6,
-    badge: "🗿",
-    title: "Statue of Orion",
-    rows: ["Nova", "Orion", "Vega", "Lyra"],
-    columns: ["Crystal", "Idol", "Map", "Key"],
-    clues: [
-      "Nova found the Key.",
-      "Vega found the Idol.",
-      "Orion did not find the Crystal.",
-      "Orion did not find the Key.",
-    ],
-    solution: [3, 2, 1, 0],
-  },
-  {
-    level: 7,
-    badge: "🪐",
-    title: "Giant Storm",
-    rows: ["Jax", "Kira", "Sol", "Luna"],
-    columns: ["Mars", "Venus", "Saturn", "Jupiter"],
-    clues: [
-      "Jax was not on Mars or Venus.",
-      "Kira was on Saturn.",
-      "Sol was on Mars.",
-      "Luna was not on Jupiter.",
-    ],
-    solution: [3, 2, 0, 1],
-  },
-  {
-    level: 8,
-    badge: "🌟",
-    title: "Alpha Centauri",
-    rows: ["Red", "Blue", "Green", "Gold"],
-    columns: ["Alpha", "Beta", "Gamma", "Delta"],
-    clues: [
-      "Red reached Delta.",
-      "Blue was not on Alpha or Beta.",
-      "Green was on Alpha.",
-      "Gold was on Beta.",
-    ],
-    solution: [3, 2, 0, 1],
-  },
-  {
-    level: 9,
-    badge: "🌋",
-    title: "Elemental Forge",
-    rows: ["Tank", "Healer", "Mage", "Rogue"],
-    columns: ["Fire", "Water", "Earth", "Air"],
-    clues: [
-      "Tank was not linked to Fire or Water.",
-      "The Healer matched Water.",
-      "The Mage matched Fire.",
-      "The Rogue was not linked to Earth.",
-    ],
-    solution: [2, 1, 0, 3],
-  },
-  {
-    level: 10,
-    badge: "❄️",
-    title: "Seasonal Shift",
-    rows: ["North", "South", "East", "West"],
-    columns: ["Winter", "Spring", "Summer", "Autumn"],
-    clues: [
-      "North matches Winter.",
-      "South is not Spring or Summer.",
-      "East matches Summer.",
-      "West matches Spring.",
-    ],
-    solution: [0, 3, 2, 1],
-  },
-];
+function loadRunSeed(storageKey: string): number {
+  if (typeof window === "undefined") return 1;
+  try {
+    const raw = sessionStorage.getItem(storageKey);
+    if (raw) {
+      const parsed = Number(raw);
+      if (Number.isFinite(parsed) && parsed > 0) return parsed;
+    }
+    const next = Math.floor(Math.random() * 1_000_000_000) + 1;
+    sessionStorage.setItem(storageKey, String(next));
+    return next;
+  } catch {
+    return Math.floor(Math.random() * 1_000_000_000) + 1;
+  }
+}
+
+function saveRunSeed(storageKey: string, seed: number) {
+  if (typeof window === "undefined") return;
+  try {
+    sessionStorage.setItem(storageKey, String(seed));
+  } catch {
+    // ignore
+  }
+}
+
+function makeFreshSeed(): number {
+  return Math.floor(Math.random() * 1_000_000_000) + 1;
+}
 
 function loadSave(): SaveData {
   if (typeof window === "undefined") return { currentLevel: 1, completedLevels: [] };
@@ -261,6 +146,7 @@ function rarityForScore(score: number): Rarity {
 function DeductionGrid2Page() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const locale = (lang as DeductionLocale) ?? "en";
   const router = useRouter();
   const searchParams = useSearchParams();
   const matchId = searchParams.get("match");
@@ -284,26 +170,40 @@ function DeductionGrid2Page() {
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [runSeed, setRunSeed] = useState<number | null>(null);
   const autoStartRef = useRef(false);
+  const multiplayerSeed = isMultiplayer && matchId ? hashString(matchId) : null;
+  const effectiveSeed = multiplayerSeed ?? runSeed;
 
-  const currentLevel = LEVELS.find(l => l.level === activeLevel) ?? LEVELS[0];
+  const levels = useMemo(() => {
+    const baseSeed = effectiveSeed ?? 1;
+    return getDeductionGrid2Levels(locale, baseSeed);
+  }, [locale, effectiveSeed]);
+
+  const currentLevel = levels.find(l => l.level === activeLevel) ?? levels[0];
+
+  useEffect(() => {
+    if (isMultiplayer && matchId) return;
+    const loaded = loadRunSeed(RUN_SEED_KEY);
+    setRunSeed(loaded);
+  }, [isMultiplayer, matchId]);
 
   useEffect(() => {
     const loaded = loadSave();
     setSave(loaded);
-    setActiveLevel(Math.min(loaded.currentLevel, LEVELS.length));
-  }, []);
+    setActiveLevel(Math.min(loaded.currentLevel, levels.length));
+  }, [levels.length]);
 
   useEffect(() => {
     if (!isMultiplayer || !matchId || autoStartRef.current) return;
     autoStartRef.current = true;
     const parsed = parseInt(urlLevel || "0", 10);
-    const levelNum = Number.isFinite(parsed) && parsed > 0 ? Math.min(LEVELS.length, Math.max(1, parsed)) : Math.min(LEVELS.length, Math.max(1, save.currentLevel || 1));
+    const levelNum = Number.isFinite(parsed) && parsed > 0 ? Math.min(levels.length, Math.max(1, parsed)) : Math.min(levels.length, Math.max(1, save.currentLevel || 1));
     startLevel(levelNum);
-  }, [isMultiplayer, matchId, urlLevel, save.currentLevel]);
+  }, [isMultiplayer, matchId, urlLevel, save.currentLevel, levels.length]);
 
   function startLevel(levelNum: number) {
-    const level = LEVELS.find(l => l.level === levelNum);
+    const level = levels.find(l => l.level === levelNum);
     if (!level) return;
     setActiveLevel(levelNum);
     setSelections(Array(level.rows.length).fill(-1));
@@ -319,6 +219,11 @@ function DeductionGrid2Page() {
   }
 
   function goBackToMap() {
+    if (!isMultiplayer) {
+      const freshSeed = makeFreshSeed();
+      setRunSeed(freshSeed);
+      saveRunSeed(RUN_SEED_KEY, freshSeed);
+    }
     setScreen("expedition");
     setFeedback("");
   }
@@ -386,7 +291,7 @@ function DeductionGrid2Page() {
     setScreen("reward");
 
     const saveNext: SaveData = {
-      currentLevel: Math.max(save.currentLevel, Math.min(LEVELS.length, activeLevel + 1)),
+      currentLevel: Math.max(save.currentLevel, Math.min(levels.length, activeLevel + 1)),
       completedLevels: save.completedLevels.includes(activeLevel)
         ? save.completedLevels
         : [...save.completedLevels, activeLevel].sort((a, b) => a - b),
@@ -396,6 +301,11 @@ function DeductionGrid2Page() {
   }
 
   function resetCurrentLevel() {
+    if (!isMultiplayer) {
+      const freshSeed = makeFreshSeed();
+      setRunSeed(freshSeed);
+      saveRunSeed(RUN_SEED_KEY, freshSeed);
+    }
     startLevel(activeLevel);
   }
 
@@ -441,6 +351,18 @@ function DeductionGrid2Page() {
   const completedSet = new Set(save.completedLevels);
   const isUnlocked = (levelNum: number) => levelNum <= save.currentLevel;
 
+  if (!isMultiplayer && runSeed === null) {
+    return (
+      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-4 py-5 sm:px-5 sm:py-6">
+        <div className="w-full max-w-[540px] rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 text-center shadow-2xl">
+          <div className="text-xs uppercase tracking-[0.35em] text-[#6366F1] font-black">Loading</div>
+          <div className="mt-3 text-3xl font-black">{t.title}</div>
+          <p className="mt-3 text-white/65 text-sm">{t.subtitle}</p>
+        </div>
+      </main>
+    );
+  }
+
   if (screen === "reward" && reward) {
     return (
       <RewardReveal
@@ -458,7 +380,7 @@ function DeductionGrid2Page() {
 
   if (screen === "multi-waiting") {
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-4 py-5 sm:px-5 sm:py-6">
+      <GameStageFrame className="flex items-center justify-center">
         <motion.div
           className="w-full max-w-[560px] rounded-[24px] sm:rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-5 sm:p-6 text-center shadow-2xl"
           initial={{ opacity: 0, y: 20 }}
@@ -472,7 +394,7 @@ function DeductionGrid2Page() {
             {opponentName} is still playing.
           </p>
         </motion.div>
-      </main>
+      </GameStageFrame>
     );
   }
 
@@ -492,14 +414,14 @@ function DeductionGrid2Page() {
     return (
       <GameShellLevelComplete
         homeLabel={t.home}
-        heading={activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}
+        heading={activeLevel >= levels.length ? t.bossDone : t.levelDone}
         title={currentLevel.title}
         expeditionMapLabel={t.expeditionMap}
         nextLevelLabel={t.nextLevel}
         accentClassName="bg-[#6366F1]/15 border border-[#6366F1]/35 text-[#C4B5FD]"
         accentTextClassName="text-[#6366F1]"
         badge={currentLevel.badge}
-        showNext={activeLevel < LEVELS.length}
+        showNext={activeLevel < levels.length}
         onBackToMap={goBackToMap}
         onNextLevel={() => startLevel(activeLevel + 1)}
         milestoneKey={milestoneKey}
@@ -510,9 +432,8 @@ function DeductionGrid2Page() {
   if (screen === "playing") {
     const showWrong = feedback === t.wrong;
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white px-4 py-4 sm:px-5 sm:py-5">
-        <div className="mx-auto w-full max-w-[980px]">
-          <div className="flex items-center justify-between gap-3 mb-4">
+      <GameStageFrame>
+        <div className="flex items-center justify-between gap-3 mb-4">
           <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
             <Home size={16} /> {t.home}
           </Link>
@@ -527,7 +448,7 @@ function DeductionGrid2Page() {
             >
               <div className="flex items-start justify-between gap-4 mb-4">
                 <div>
-                  <div className="text-xs uppercase tracking-[0.35em] text-white/40 font-black">{t.levelLabel} {currentLevel.level}/{LEVELS.length}</div>
+                  <div className="text-xs uppercase tracking-[0.35em] text-white/40 font-black">{t.levelLabel} {currentLevel.level}/{levels.length}</div>
                   <h1 className="mt-2 text-xl sm:text-3xl font-black">{t.title}</h1>
                   <p className="mt-2 text-white/65 text-xs sm:text-sm">{t.subtitle}</p>
                 </div>
@@ -539,7 +460,7 @@ function DeductionGrid2Page() {
               </div>
 
               <div className="flex items-center justify-between gap-3 mb-3 text-xs font-bold text-white/55">
-                <span>{t.levelsOf} {completedSet.size}/{LEVELS.length}</span>
+                <span>{t.levelsOf} {completedSet.size}/{levels.length}</span>
                 <span>{t.progress}</span>
               </div>
 
@@ -633,8 +554,7 @@ function DeductionGrid2Page() {
               </div>
             </motion.aside>
           </div>
-        </div>
-      </main>
+      </GameStageFrame>
     );
   }
 
@@ -647,7 +567,7 @@ function DeductionGrid2Page() {
       accentClassName="border-[#6366F1]/40"
       accentTextClassName="text-[#C4B5FD]"
       icon={Rocket}
-      levels={LEVELS.map((level) => ({
+      levels={levels.map((level) => ({
         id: level.level,
         badge: level.badge,
         title: level.title,

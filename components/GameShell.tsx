@@ -1,17 +1,16 @@
 "use client";
 
 import Link from "next/link";
-import { motion } from "framer-motion";
 import { ChevronRight, Home, type LucideIcon } from "lucide-react";
 import MilestonePopup from "@/components/MilestonePopup";
-
-interface ShellLevelCard {
-  id: number;
-  badge: string;
-  title: string;
-  unlocked: boolean;
-  completed: boolean;
-}
+import {
+  GameCompleteCard,
+  GameHero,
+  GameLevelCard,
+  GameLevelGrid,
+  GameSurface,
+  GameTopBar,
+} from "@/components/game-core/GameChrome";
 
 interface ExpeditionProps {
   homeLabel: string;
@@ -21,7 +20,7 @@ interface ExpeditionProps {
   accentClassName: string;
   accentTextClassName: string;
   icon: LucideIcon;
-  levels: ShellLevelCard[];
+  levels: GameLevelCard[];
   currentLabel: string;
   completedLabel: string;
   lockedLabel: string;
@@ -60,48 +59,19 @@ export function GameShellExpedition({
   onStartLevel,
 }: ExpeditionProps) {
   return (
-    <main className="min-h-screen bg-[#0A0A1A] text-white px-4 py-5 sm:px-5 sm:py-6">
-      <div className="mx-auto w-full max-w-[980px]">
-        <div className="flex items-center justify-between gap-3 mb-4">
-          <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
-            <Home size={16} /> {homeLabel}
-          </Link>
-          <div className={`text-xs uppercase tracking-[0.35em] font-black ${accentTextClassName}`}>{title}</div>
-        </div>
-
-        <div className="rounded-[24px] sm:rounded-[32px] border border-white/10 bg-white/5 backdrop-blur-xl p-4 sm:p-6 shadow-2xl">
-          <div className={`flex items-center gap-3 font-black text-sm uppercase tracking-[0.3em] ${accentTextClassName}`}>
-            <Icon size={18} /> {title}
-          </div>
-          <h1 className="mt-4 text-2xl sm:text-4xl font-black">{subtitle}</h1>
-          <p className="mt-3 text-white/65 max-w-2xl">{prompt}</p>
-          <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {levels.map((level) => (
-              <button
-                key={level.id}
-                type="button"
-                onClick={() => level.unlocked && onStartLevel(level.id)}
-                className={[
-                  "text-left rounded-2xl border p-4 transition-all",
-                  level.unlocked
-                    ? `bg-white/5 border-white/10 hover:bg-white/10 ${accentClassName}`
-                    : "bg-white/5 border-white/5 opacity-45 cursor-not-allowed",
-                ].join(" ")}
-              >
-                <div className="flex items-center justify-between gap-2">
-                  <div className="text-2xl">{level.badge}</div>
-                  <div className="text-xs uppercase tracking-[0.25em] text-white/45 font-black">
-                    {level.completed ? completedLabel : level.unlocked ? currentLabel : lockedLabel}
-                  </div>
-                </div>
-                <div className="mt-3 text-lg font-black">{level.title}</div>
-                <div className="mt-1 text-sm text-white/55">{levelLabel} {level.id}</div>
-              </button>
-            ))}
-          </div>
-        </div>
-      </div>
-    </main>
+    <GameSurface>
+      <GameTopBar homeLabel={homeLabel} title={title} accentTextClassName={accentTextClassName} />
+      <GameHero icon={Icon} title={title} subtitle={subtitle} prompt={prompt} accentTextClassName={accentTextClassName} />
+      <GameLevelGrid
+        levels={levels}
+        onSelect={onStartLevel}
+        accentClassName={accentClassName}
+        currentLabel={currentLabel}
+        completedLabel={completedLabel}
+        lockedLabel={lockedLabel}
+        levelLabel={levelLabel}
+      />
+    </GameSurface>
   );
 }
 
@@ -120,12 +90,8 @@ export function GameShellLevelComplete({
   milestoneKey,
 }: LevelCompleteProps) {
   return (
-    <main className="min-h-screen bg-[#0A0A1A] text-white flex flex-col items-center justify-center px-4 py-5 sm:px-5 sm:py-6">
-      <motion.div
-        className="w-full max-w-[560px] rounded-[24px] sm:rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-5 sm:p-6 shadow-2xl"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-      >
+    <GameSurface className="flex flex-col items-center justify-center">
+      <GameCompleteCard>
         <div className="flex items-center justify-between mb-4">
           <Link href="/" className="inline-flex items-center gap-2 text-white/65 text-sm font-semibold">
             <Home size={15} /> {homeLabel}
@@ -156,7 +122,7 @@ export function GameShellLevelComplete({
           </div>
         </div>
         <MilestonePopup key={milestoneKey} />
-      </motion.div>
-    </main>
+      </GameCompleteCard>
+    </GameSurface>
   );
 }

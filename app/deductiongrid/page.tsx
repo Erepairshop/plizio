@@ -1,31 +1,25 @@
 "use client";
 
-import { useEffect, useRef, useState, Suspense } from "react";
+import { useEffect, useMemo, useRef, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { Check, Grid3x3, HelpCircle, RotateCcw, Home } from "lucide-react";
 import RewardReveal from "@/components/RewardReveal";
 import { GameShellExpedition, GameShellLevelComplete } from "@/components/GameShell";
+import { GameStageFrame } from "@/components/game-core";
 import { incrementTotalGames } from "@/lib/milestones";
 import { useLang } from "@/components/LanguageProvider";
 import { submitScore, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import MultiplayerResult from "@/components/MultiplayerResult";
 import { getUsername } from "@/lib/username";
 import { supabase } from "@/lib/supabase/client";
+import type { DeductionLocale } from "@/lib/deductionContent";
+import { hashString } from "@/lib/deductionContent";
+import { getDeductionGridLevels } from "@/lib/deductiongridContent";
 
 type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "multi-waiting" | "multi-result";
 type Rarity = "bronze" | "silver" | "gold" | "legendary";
-
-interface DeductionLevel {
-  level: number;
-  badge: string;
-  title: string;
-  rows: string[];
-  columns: string[];
-  clues: string[];
-  solution: number[];
-}
 
 interface SaveData {
   currentLevel: number;
@@ -33,6 +27,7 @@ interface SaveData {
 }
 
 const SAVE_KEY = "deductiongrid_expedition_v1";
+const RUN_SEED_KEY = "deductiongrid_run_seed_v1";
 
 const T = {
   en: {
@@ -157,148 +152,34 @@ const T = {
   },
 } as const;
 
-const LEVELS: DeductionLevel[] = [
-  {
-    level: 1,
-    badge: "🛶",
-    title: "Harbor Shift",
-    rows: ["Ada", "Ben", "Cara"],
-    columns: ["Tower", "Garden", "Dock"],
-    clues: [
-      "Ada is not at the Tower.",
-      "Ben is not in the Garden.",
-      "Ben is at the Dock.",
-      "Cara is not in the Garden.",
-    ],
-    solution: [1, 2, 0],
-  },
-  {
-    level: 2,
-    badge: "🌙",
-    title: "Moon Base",
-    rows: ["Leo", "Mia", "Nora"],
-    columns: ["Library", "Harbor", "Observatory"],
-    clues: [
-      "Leo is not in the Library.",
-      "Mia is not at the Observatory.",
-      "Nora is at the Harbor.",
-      "Nora is not in the Library.",
-    ],
-    solution: [2, 0, 1],
-  },
-  {
-    level: 3,
-    badge: "🏰",
-    title: "Castle Night",
-    rows: ["Arin", "Bo", "Cora"],
-    columns: ["Museum", "Station", "Lighthouse"],
-    clues: [
-      "Arin is not in the Museum.",
-      "Bo is not at the Station.",
-      "Bo is at the Lighthouse.",
-      "Cora is not at the Lighthouse.",
-    ],
-    solution: [1, 2, 0],
-  },
-  {
-    level: 4,
-    badge: "🌱",
-    title: "Greenhouse Route",
-    rows: ["Ema", "Finn", "Gala"],
-    columns: ["Bakery", "Workshop", "Greenhouse"],
-    clues: [
-      "Ema is not in the Greenhouse.",
-      "Finn is not in the Bakery.",
-      "Gala is in the Workshop.",
-      "Gala is not in the Greenhouse.",
-    ],
-    solution: [0, 2, 1],
-  },
-  {
-    level: 5,
-    badge: "🔒",
-    title: "Vault Search",
-    rows: ["Hugo", "Iris", "Juno"],
-    columns: ["Vault", "Atrium", "Garden"],
-    clues: [
-      "Hugo is not in the Vault.",
-      "Iris is not in the Atrium.",
-      "Iris is in the Vault.",
-      "Juno is not in the Garden.",
-    ],
-    solution: [2, 0, 1],
-  },
-  {
-    level: 6,
-    badge: "🧭",
-    title: "Bridge Line",
-    rows: ["Kai", "Lina", "Milo"],
-    columns: ["Bridge", "Crypt", "Courtyard"],
-    clues: [
-      "Kai is not on the Bridge.",
-      "Lina is not in the Crypt.",
-      "Milo is on the Bridge.",
-      "Milo is not in the Courtyard.",
-    ],
-    solution: [1, 2, 0],
-  },
-  {
-    level: 7,
-    badge: "🗼",
-    title: "Clocktower Run",
-    rows: ["Nia", "Otto", "Pia"],
-    columns: ["Clocktower", "Docks", "Plaza"],
-    clues: [
-      "Nia is not in the Plaza.",
-      "Otto is not at the Docks.",
-      "Pia is at the Docks.",
-      "Pia is not at the Clocktower.",
-    ],
-    solution: [0, 2, 1],
-  },
-  {
-    level: 8,
-    badge: "🌿",
-    title: "Conservatory Path",
-    rows: ["Quin", "Ria", "Sol"],
-    columns: ["Conservatory", "Harbor", "Library"],
-    clues: [
-      "Quin is not in the Harbor.",
-      "Ria is not in the Library.",
-      "Sol is in the Conservatory.",
-      "Sol is not in the Harbor.",
-    ],
-    solution: [2, 1, 0],
-  },
-  {
-    level: 9,
-    badge: "⚙️",
-    title: "Engine Room",
-    rows: ["Taro", "Uma", "Vale"],
-    columns: ["Engine Room", "Gallery", "Basement"],
-    clues: [
-      "Taro is not in the Engine Room.",
-      "Uma is not in the Gallery.",
-      "Vale is in the Basement.",
-      "Vale is not in the Engine Room.",
-    ],
-    solution: [1, 0, 2],
-  },
-  {
-    level: 10,
-    badge: "✨",
-    title: "Final Archive",
-    rows: ["Wren", "Zia", "Yori"],
-    columns: ["Observatory", "Chapel", "Archive"],
-    clues: [
-      "Wren is not in the Archive.",
-      "Zia is not at the Observatory.",
-      "Yori is in the Chapel.",
-      "Yori is not in the Archive.",
-    ],
-    solution: [0, 2, 1],
-  },
-];
+function loadRunSeed(storageKey: string): number {
+  if (typeof window === "undefined") return 1;
+  try {
+    const raw = sessionStorage.getItem(storageKey);
+    if (raw) {
+      const parsed = Number(raw);
+      if (Number.isFinite(parsed) && parsed > 0) return parsed;
+    }
+    const next = Math.floor(Math.random() * 1_000_000_000) + 1;
+    sessionStorage.setItem(storageKey, String(next));
+    return next;
+  } catch {
+    return Math.floor(Math.random() * 1_000_000_000) + 1;
+  }
+}
+
+function saveRunSeed(storageKey: string, seed: number) {
+  if (typeof window === "undefined") return;
+  try {
+    sessionStorage.setItem(storageKey, String(seed));
+  } catch {
+    // ignore
+  }
+}
+
+function makeFreshSeed(): number {
+  return Math.floor(Math.random() * 1_000_000_000) + 1;
+}
 
 function loadSave(): SaveData {
   if (typeof window === "undefined") return { currentLevel: 1, completedLevels: [] };
@@ -325,6 +206,7 @@ function rarityForScore(score: number): Rarity {
 function DeductionGridPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const locale = (lang as DeductionLocale) ?? "en";
   const router = useRouter();
   const searchParams = useSearchParams();
   const matchId = searchParams.get("match");
@@ -348,26 +230,40 @@ function DeductionGridPage() {
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [runSeed, setRunSeed] = useState<number | null>(null);
   const autoStartRef = useRef(false);
+  const multiplayerSeed = isMultiplayer && matchId ? hashString(matchId) : null;
+  const effectiveSeed = multiplayerSeed ?? runSeed;
 
-  const currentLevel = LEVELS.find(l => l.level === activeLevel) ?? LEVELS[0];
+  const levels = useMemo(() => {
+    const baseSeed = effectiveSeed ?? 1;
+    return getDeductionGridLevels(locale, baseSeed);
+  }, [locale, effectiveSeed]);
+
+  const currentLevel = levels.find(l => l.level === activeLevel) ?? levels[0];
+
+  useEffect(() => {
+    if (isMultiplayer && matchId) return;
+    const loaded = loadRunSeed(RUN_SEED_KEY);
+    setRunSeed(loaded);
+  }, [isMultiplayer, matchId]);
 
   useEffect(() => {
     const loaded = loadSave();
     setSave(loaded);
-    setActiveLevel(Math.min(loaded.currentLevel, LEVELS.length));
-  }, []);
+    setActiveLevel(Math.min(loaded.currentLevel, levels.length));
+  }, [levels.length]);
 
   useEffect(() => {
     if (!isMultiplayer || !matchId || autoStartRef.current) return;
     autoStartRef.current = true;
     const parsed = parseInt(urlLevel || "0", 10);
-    const levelNum = Number.isFinite(parsed) && parsed > 0 ? Math.min(LEVELS.length, Math.max(1, parsed)) : Math.min(LEVELS.length, Math.max(1, save.currentLevel || 1));
+    const levelNum = Number.isFinite(parsed) && parsed > 0 ? Math.min(levels.length, Math.max(1, parsed)) : Math.min(levels.length, Math.max(1, save.currentLevel || 1));
     startLevel(levelNum);
-  }, [isMultiplayer, matchId, urlLevel, save.currentLevel]);
+  }, [isMultiplayer, matchId, urlLevel, save.currentLevel, levels.length]);
 
   function startLevel(levelNum: number) {
-    const level = LEVELS.find(l => l.level === levelNum);
+    const level = levels.find(l => l.level === levelNum);
     if (!level) return;
     setActiveLevel(levelNum);
     setSelections(Array(level.rows.length).fill(-1));
@@ -383,6 +279,11 @@ function DeductionGridPage() {
   }
 
   function goBackToMap() {
+    if (!isMultiplayer) {
+      const freshSeed = makeFreshSeed();
+      setRunSeed(freshSeed);
+      saveRunSeed(RUN_SEED_KEY, freshSeed);
+    }
     setScreen("expedition");
     setFeedback("");
   }
@@ -450,7 +351,7 @@ function DeductionGridPage() {
     setScreen("reward");
 
     const saveNext: SaveData = {
-      currentLevel: Math.max(save.currentLevel, Math.min(LEVELS.length, activeLevel + 1)),
+      currentLevel: Math.max(save.currentLevel, Math.min(levels.length, activeLevel + 1)),
       completedLevels: save.completedLevels.includes(activeLevel)
         ? save.completedLevels
         : [...save.completedLevels, activeLevel].sort((a, b) => a - b),
@@ -460,6 +361,11 @@ function DeductionGridPage() {
   }
 
   function resetCurrentLevel() {
+    if (!isMultiplayer) {
+      const freshSeed = makeFreshSeed();
+      setRunSeed(freshSeed);
+      saveRunSeed(RUN_SEED_KEY, freshSeed);
+    }
     startLevel(activeLevel);
   }
 
@@ -505,6 +411,18 @@ function DeductionGridPage() {
   const completedSet = new Set(save.completedLevels);
   const isUnlocked = (levelNum: number) => levelNum <= save.currentLevel;
 
+  if (!isMultiplayer && runSeed === null) {
+    return (
+      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-5 py-6">
+        <div className="w-full max-w-[540px] rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 text-center shadow-2xl">
+          <div className="text-xs uppercase tracking-[0.35em] text-[#8B5CF6] font-black">Loading</div>
+          <div className="mt-3 text-3xl font-black">{t.title}</div>
+          <p className="mt-3 text-white/65 text-sm">{t.subtitle}</p>
+        </div>
+      </main>
+    );
+  }
+
   if (screen === "reward" && reward) {
     return (
       <RewardReveal
@@ -522,7 +440,7 @@ function DeductionGridPage() {
 
   if (screen === "multi-waiting") {
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white flex items-center justify-center px-5 py-6">
+      <GameStageFrame className="flex items-center justify-center">
         <motion.div
           className="w-full max-w-[560px] rounded-[28px] border border-white/10 bg-white/5 backdrop-blur-xl p-6 text-center shadow-2xl"
           initial={{ opacity: 0, y: 20 }}
@@ -536,7 +454,7 @@ function DeductionGridPage() {
             {opponentName} is still playing.
           </p>
         </motion.div>
-      </main>
+      </GameStageFrame>
     );
   }
 
@@ -556,14 +474,14 @@ function DeductionGridPage() {
     return (
       <GameShellLevelComplete
         homeLabel={t.home}
-        heading={activeLevel >= LEVELS.length ? t.bossDone : t.levelDone}
+        heading={activeLevel >= levels.length ? t.bossDone : t.levelDone}
         title={currentLevel.title}
         expeditionMapLabel={t.expeditionMap}
         nextLevelLabel={t.nextLevel}
         accentClassName="bg-[#8B5CF6]/15 border border-[#8B5CF6]/35 text-[#C4B5FD]"
         accentTextClassName="text-[#8B5CF6]"
         badge={currentLevel.badge}
-        showNext={activeLevel < LEVELS.length}
+        showNext={activeLevel < levels.length}
         onBackToMap={goBackToMap}
         onNextLevel={() => startLevel(activeLevel + 1)}
         milestoneKey={milestoneKey}
@@ -574,9 +492,8 @@ function DeductionGridPage() {
   if (screen === "playing") {
     const showWrong = feedback === t.wrong;
     return (
-      <main className="min-h-screen bg-[#0A0A1A] text-white px-5 py-5">
-        <div className="mx-auto w-full max-w-[980px]">
-          <div className="flex items-center justify-between gap-3 mb-4">
+      <GameStageFrame>
+        <div className="flex items-center justify-between gap-3 mb-4">
           <Link href="/" className="inline-flex items-center gap-2 text-white/60 text-sm font-semibold">
             <Home size={16} /> {t.home}
           </Link>
@@ -591,7 +508,7 @@ function DeductionGridPage() {
             >
               <div className="flex items-start justify-between gap-4 mb-4">
                 <div>
-                  <div className="text-xs uppercase tracking-[0.35em] text-white/40 font-black">{t.levelLabel} {currentLevel.level}/{LEVELS.length}</div>
+                  <div className="text-xs uppercase tracking-[0.35em] text-white/40 font-black">{t.levelLabel} {currentLevel.level}/{levels.length}</div>
                   <h1 className="mt-2 text-2xl sm:text-3xl font-black">{t.title}</h1>
                   <p className="mt-2 text-white/65 text-sm">{t.subtitle}</p>
                 </div>
@@ -603,7 +520,7 @@ function DeductionGridPage() {
               </div>
 
               <div className="flex items-center justify-between gap-3 mb-3 text-xs font-bold text-white/55">
-                <span>{t.levelsOf} {completedSet.size}/{LEVELS.length}</span>
+                <span>{t.levelsOf} {completedSet.size}/{levels.length}</span>
                 <span>{t.progress}</span>
               </div>
 
@@ -697,8 +614,7 @@ function DeductionGridPage() {
               </div>
             </motion.aside>
           </div>
-        </div>
-      </main>
+      </GameStageFrame>
     );
   }
 
@@ -711,7 +627,7 @@ function DeductionGridPage() {
       accentClassName="border-[#8B5CF6]/40"
       accentTextClassName="text-[#C4B5FD]"
       icon={Grid3x3}
-      levels={LEVELS.map((level) => ({
+      levels={levels.map((level) => ({
         id: level.level,
         badge: level.badge,
         title: level.title,

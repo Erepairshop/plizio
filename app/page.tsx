@@ -591,13 +591,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#34D399",
         gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
       },
-      {
-        id: "signaldecoder",
-        icon: Radio,
-        nameKey: "signaldecoder",
-        color: "#00FFCC",
-        gradient: "bg-gradient-to-br from-teal-500/20 to-cyan-500/20",
-      },
     ],
   },
   {
@@ -605,6 +598,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
     icon: Puzzle,
     color: "#00FF88",
     games: [
+      {
+        id: "signaldecoder",
+        icon: Radio,
+        nameKey: "signaldecoder",
+        color: "#00FFCC",
+        gradient: "bg-gradient-to-br from-teal-500/20 to-cyan-500/20",
+      },
       {
         id: "numberpath",
         icon: Puzzle,
@@ -770,7 +770,6 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   const currentLang = validLangs.includes(lang as any) ? (lang as typeof validLangs[number]) : 'en';
   const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] || TRANSLATIONS.en;
 
-  const categoryKeys: Array<"quizreflex" | "adventure" | "brain" | "logic" | "sport"> = ["quizreflex", "adventure", "brain", "logic", "sport"];
   const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic" | "sport", keyof typeof t.categories> = {
     quizreflex: "QUIZ & REFLEX",
     adventure: "ADVENTURE",
@@ -779,8 +778,8 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
     sport: "SPORT",
   };
 
-  return CATEGORIES_BASE.map((cat, idx) => {
-    const catKey = categoryKeys[idx];
+  return CATEGORIES_BASE.map((cat) => {
+    const catKey = cat.id as keyof typeof categoryLabels;
     const labelKey = categoryLabels[catKey];
 
     return {
@@ -982,14 +981,28 @@ export default function Home() {
       {/* Top bar — nav buttons right, language switcher left */}
       <div className="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-3 py-2.5 pointer-events-none">
         {/* Language switcher — left */}
-        <motion.div
-          className="pointer-events-auto"
-          initial={{ opacity: 0, x: -20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ delay: 0.4 }}
-        >
-          <LanguageSwitcher />
-        </motion.div>
+        <div className="flex items-center gap-2 pointer-events-auto">
+          <motion.div
+            initial={{ opacity: 0, x: -20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.4 }}
+          >
+            <LanguageSwitcher />
+          </motion.div>
+          <motion.button
+            onClick={() => router.push("/gravitas")}
+            className="flex items-center gap-1.5 rounded-full border border-cyan-400/25 bg-[#0b1222]/80 px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.18em] text-cyan-200 backdrop-blur-sm"
+            style={{ boxShadow: "0 0 14px rgba(34,211,238,0.16)" }}
+            initial={{ opacity: 0, x: -20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.48 }}
+            whileHover={{ scale: 1.04 }}
+            whileTap={{ scale: 0.96 }}
+          >
+            <Rocket size={12} />
+            <span>Gravitas</span>
+          </motion.button>
+        </div>
 
         {/* Nav buttons — right */}
         <div className="flex items-center gap-2 pointer-events-auto">

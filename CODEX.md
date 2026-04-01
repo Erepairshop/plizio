@@ -22,10 +22,50 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Rövid állapotkérdésekre lehetőleg tool nélkül vagy minimális toolhasználattal válaszolj.
 - Ha több apró fix várható egymás után, érdemes őket összevárni és egy körben megcsinálni.
 
+## Token-takarékos workflow
+
+- Ennél a repónál a beolvasási limit a szűk keresztmetszet, nem az írás.
+- Emiatt mindig a legkisebb szükséges kontextussal dolgozz.
+
+### Alapszabályok
+
+- Először mindig ezt a fájlt és a `SESSION_STATE.md`-t olvasd, ne a teljes repo-t.
+- Ne nyiss meg teljes nagy fájlokat, ha elég `rg` + célzott `sed` sorablak.
+- Ugyanazt a fájlt ne olvasd vissza teljesen többször egy körben.
+- Ha csak hibahely kell, a dev log / user által küldött hiba legyen a belépő pont.
+- Build log helyett előbb:
+  - `npm run lint`
+  - `npm run preflight`
+  - `npm run dev:host`
+- A hostos dev preview elsődleges hibakeresési eszköz, nem a full build.
+
+### Mikor mit használj
+
+- UI vagy runtime hibához: dev preview + pontos fájl/sor
+- TS/szerkezeti hibához: `lint` vagy `preflight`
+- Deploy előtt: csak akkor build, ha a javítások már devben tiszták
+
+### Több agent / több ember mellett
+
+- A másik agenttől mindig rövid diff-összefoglalót kérj, ne teljes kódbemásolást.
+- Reviewhoz elég a touched file + releváns blokk, nem kell az egész fájl.
+- Push előtt mindig `fetch/pull`, hogy ne olvassunk feleslegesen régi állapotot.
+
 ## Build és deploy
 
 - A build output az `out/` mappába megy.
 - A repo gyökerében nem maradhat build output (`index.html`, `_next/`, stb.).
+- Ennél a repónál a teljes production build lassú és memóriaigényes lehet.
+- Build előtt előbb gyors preflight menjen, ne rögtön `next build`.
+- Gyors ellenőrzések:
+  - `npm run lint`
+  - `npm run preflight`
+  - `npm run typecheck`
+- Jelenlegi jelentésük:
+  - `npm run lint`: gyors szerkezeti ellenőrzés, most főleg duplikált object key-k kiszúrására
+  - `npm run preflight`: `lint` + `typecheck`
+  - `npm run typecheck`: külön TS ellenőrzés build előtt
+- Ha build kell, nagy heap-pel érdemes futtatni, különben könnyen OOM-ba futhat.
 - Ha build kell:
   - `./scripts/deploy-build.sh`
 - Ha szerveres staging feltöltés kell:
@@ -45,9 +85,20 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 ### Deploy logika
 
 - Build helyben készül.
+- A jelenlegi Hostinger Cloud csomag csak 3 GB RAM, ezért a szerveren futó build nem megbízható út.
+- A helyes modell most: lokális build, szerverre csak feltöltés és aktiválás.
 - Az `out/` archívumba csomagolva megy fel a szerverre.
 - A szerveren `.deploy-out/` stagingből aktiválódik.
 - Aktiváláskor `_next -> next_static`.
+
+### Gyors tesztelés
+
+- Gyors UI ellenőrzéshez ne production buildet használj.
+- Használd inkább:
+  - `npm run dev`
+  - `npm run dev:host`
+- A `dev:host` hálózaton is elérhetővé teszi a dev servert, így telefonról is lehet nézni build nélkül.
+- Release ellenőrzéshez továbbra is build + upload + activate kell.
 
 ## Astro tananyagos játékok
 

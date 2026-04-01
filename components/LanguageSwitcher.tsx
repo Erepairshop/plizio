@@ -17,8 +17,7 @@ export default function LanguageSwitcher() {
   const { lang, setLang } = useLang();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
-
-  const active = LANGS.find((l) => l.code === lang) ?? LANGS[0];
+  const active = LANGS.find((l) => l.code === lang) || LANGS.find((l) => l.code === "en") || LANGS[0];
 
   // Close on outside click
   useEffect(() => {
@@ -39,7 +38,7 @@ export default function LanguageSwitcher() {
         whileTap={{ scale: 0.92 }}
       >
         <Globe size={13} className="text-white/30" />
-        <span className="text-base leading-none select-none">{active.flag}</span>
+        <span suppressHydrationWarning className="text-base leading-none select-none">{active.flag}</span>
       </motion.button>
 
       {/* Dropdown */}

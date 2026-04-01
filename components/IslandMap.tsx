@@ -299,6 +299,11 @@ function Planet({
       <motion.circle
         cx={cx} cy={cy}
         fill="none" stroke={glow}
+        initial={{
+          r: R + 14,
+          strokeWidth: 1.2,
+          opacity: 0.25,
+        }}
         animate={{
           r: selected ? R + 18 : R + 14,
           strokeWidth: selected ? 2.5 : 1.2,

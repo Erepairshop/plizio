@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
+    "dev:host": "next dev --hostname 0.0.0.0",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "node scripts/check-duplicate-object-keys.mjs",
+    "typecheck": "tsc -p tsconfig.typecheck.json --noEmit --pretty false",
+    "preflight": "node scripts/preflight.mjs"
   },
   "repository": {
     "type": "git",

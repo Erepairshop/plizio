@@ -8,6 +8,7 @@ import { K8_CURRICULUM, getK8Questions } from "@/lib/geographieCurriculum8";
 import { asCurriculumThemes } from "@/lib/geographieCurriculumShared";
 import "@/lib/geographieRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { useLang } from "@/components/LanguageProvider";
 
 const GEO_CHARS = ["🗺️", "🌍", "🧭", "⛰️", "🌊", "🌋", "🏞️", "🛰️", "🪨", "🧱", "🌦️", "🌴"];
 const GEO_COLORS = [
@@ -18,7 +19,8 @@ const GEO_COLORS = [
   "rgba(34,211,238,0.10)",
 ];
 
-const GEO_CONFIG: LanguageTestEngineConfig = {
+function createGeoConfig(lang: string): LanguageTestEngineConfig {
+  return {
   gameId: "geographietest",
   title: "GEOGRAPHIE TEST",
   icon: "🗺️",
@@ -46,10 +48,10 @@ const GEO_CONFIG: LanguageTestEngineConfig = {
     8: asCurriculumThemes(K8_CURRICULUM),
   },
   getQuestions: (grade, subtopicIds, count) => {
-    if (grade === 5) return getK5Questions(subtopicIds, count);
-    if (grade === 6) return getK6Questions(subtopicIds, count);
-    if (grade === 7) return getK7Questions(subtopicIds, count);
-    return getK8Questions(subtopicIds, count);
+    if (grade === 5) return getK5Questions(subtopicIds, lang, count);
+    if (grade === 6) return getK6Questions(subtopicIds, lang, count);
+    if (grade === 7) return getK7Questions(subtopicIds, lang, count);
+    return getK8Questions(subtopicIds, lang, count);
   },
   labels: {
     selectCountry: "Wähle dein Land",
@@ -80,8 +82,10 @@ const GEO_CONFIG: LanguageTestEngineConfig = {
     name: "Name",
     date: "Datum",
   },
-};
+  };
+}
 
 export default function GeographieTestPage() {
-  return <LanguageTestEngine config={GEO_CONFIG} />;
+  const { lang } = useLang();
+  return <LanguageTestEngine config={createGeoConfig(lang)} />;
 }

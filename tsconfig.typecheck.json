@@ -1,0 +1,29 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "allowJs": false,
+    "tsBuildInfoFile": "./tsconfig.typecheck.tsbuildinfo"
+  },
+  "include": [
+    "next-env.d.ts",
+    "next.config.ts",
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "components/**/*.ts",
+    "components/**/*.tsx",
+    "lib/**/*.ts",
+    "lib/**/*.tsx",
+    "mathe/**/*.ts",
+    "mathe/**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next/dev",
+    "out",
+    "scripts",
+    "supabase",
+    "plans",
+    "db"
+  ]
+}

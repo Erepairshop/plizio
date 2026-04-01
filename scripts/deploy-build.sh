@@ -10,6 +10,9 @@ cd "$LOCAL_REPO"
 log "Generating OG images"
 node scripts/generate-og.mjs
 
+log "Running preflight"
+npm run preflight
+
 log "Building static export"
 npx next build
 
