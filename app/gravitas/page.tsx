@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useReducer, useRef, useState, Suspense } from "react";
+import { useCallback, useEffect, useMemo, useReducer, useRef, useState, Suspense } from "react";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import {
@@ -50,6 +50,20 @@ function moduleIcon(moduleId: StarholdModuleId) {
 
 type Lang = "en" | "hu" | "de" | "ro";
 type ResourceHelpKey = "power" | "materials" | "stability" | "activation" | "entropy";
+type QuickActionTone = "default" | "warning" | "danger";
+
+type QuickActionItem = {
+  key: string;
+  label: string;
+  shortLabel: string;
+  icon: React.ReactNode;
+  onClick: () => void;
+  disabled?: boolean;
+  highlight?: boolean;
+  emphasis?: boolean;
+  tone: QuickActionTone;
+  mobilePriority: number;
+};
 
 function StationHealthRing({ state }: { state: StarholdState }) {
   const modules = [
@@ -122,6 +136,8 @@ export default function GravitasPage() {
   const [lastCommand, setLastCommand] = useState<{ command: StarholdCommand; timestamp: number } | null>(null);
   const [hydrated, setHydrated] = useState(false);
   const [resourceHelpOpen, setResourceHelpOpen] = useState<ResourceHelpKey | null>(null);
+  const [quickActionsOpen, setQuickActionsOpen] = useState(false);
+  const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   
   const holdRef = useRef<number | null>(null);
   const prevThreatRef = useRef(state.threat);
@@ -141,6 +157,11 @@ export default function GravitasPage() {
     setActionFlash(color);
     setTimeout(() => setActionFlash(null), 300);
   };
+
+  const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
+    setSelectedModule(moduleId);
+    setModuleInfoOpen(true);
+  }, []);
 
   useEffect(() => {
     setHydrated(true);
@@ -243,6 +264,12 @@ export default function GravitasPage() {
       saveGravitasState(state);
     }
   }, [state.tick]);
+
+  useEffect(() => {
+    if (activePanel || resourceHelpOpen || state.pendingEvent || showGameOver) {
+      setQuickActionsOpen(false);
+    }
+  }, [activePanel, resourceHelpOpen, state.pendingEvent, showGameOver]);
 
   useEffect(() => {
     const command = lastActionRef.current;
@@ -404,7 +431,7 @@ export default function GravitasPage() {
     if (state.avatarAwake) {
       return {
         body: localize(content.ui.awakened),
-        focus: null as "scavenge" | "repairLogistics" | "stabilize" | "reroute" | "activation" | null,
+        focus: null as "scavenge" | "repairLogistics" | "repairSensor" | "stabilize" | "reroute" | "activation" | null,
       };
     }
 
@@ -484,7 +511,11 @@ export default function GravitasPage() {
           de: "Erhole dich von der ersten Störung. Halte Material und Stabilität in Reserve.",
           ro: "Recuperează-te după prima perturbare. Păstrează materiale și stabilitate în rezervă.",
         }),
-        focus: state.modules.logistics.integrity < 70 ? "repairLogistics" as const : "stabilize" as const,
+        focus: state.modules.sensor.integrity < 70
+          ? "repairSensor" as const
+          : state.modules.logistics.integrity < 70
+            ? "repairLogistics" as const
+            : "stabilize" as const,
       };
     }
 
@@ -518,11 +549,20 @@ export default function GravitasPage() {
   }, [state, canReroute, lang, content.ui.awakened, ui.startDirective]);
 
   const rerouteHighlighted = state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : (canReroute && !isLockdown) || guide.focus === "reroute";
-  const displayedWaveNumber = state.threat.aftershock > 0 ? Math.max(1, state.threatCycle) : state.threatCycle + 1;
-  const threatProgressPercent = state.threat.aftershock > 0
+  const isWavePaused = state.threat.pausedUntilAwake && !state.avatarAwake;
+  const displayedWaveNumber = isWavePaused
+    ? Math.min(3, Math.max(1, state.threatCycle))
+    : state.threat.aftershock > 0
+      ? Math.max(1, state.threatCycle)
+      : state.threatCycle + 1;
+  const threatProgressPercent = isWavePaused
+    ? 100
+    : state.threat.aftershock > 0
     ? Math.max(0, Math.min(100, ((6 - state.threat.aftershock) / 6) * 100))
     : Math.max(0, Math.min(100, ((state.threat.totalDuration - state.threat.countdown) / Math.max(1, state.threat.totalDuration)) * 100));
-  const threatCountdownText = state.threat.aftershock > 0
+  const threatCountdownText = isWavePaused
+    ? localize({ en: "Standby", hu: "Készenlét", de: "Bereit", ro: "În așteptare" })
+    : state.threat.aftershock > 0
     ? String(state.threat.aftershock)
     : `${Math.floor(state.threat.countdown / 60)}:${String(state.threat.countdown % 60).padStart(2, "0")}`;
 
@@ -557,57 +597,115 @@ export default function GravitasPage() {
     reactorPromptWindow ||
     (!inFirstWaveRecovery && severeReactorIssue);
   const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 72 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics");
+  const sensorNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor") || state.modules.sensor.integrity < 72 || !state.modules.sensor.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "sensor");
   const reactorActionTone = severeReactorIssue ? "danger" : "warning";
   const logisticsActionTone = state.modules.logistics.integrity < 48 || !state.modules.logistics.online ? "danger" : "warning";
-  const primaryActions = [
+  const sensorActionTone = state.modules.sensor.integrity < 48 || !state.modules.sensor.online ? "danger" : "warning";
+  const primaryActions: QuickActionItem[] = [
     {
       key: "scavenge",
       label: isScavengeActive ? localize({ en: "Stop Scavenge", hu: "Gyűjtés leállítása", de: "Bergung stoppen", ro: "Oprește colectarea" }) : localize(ui.scavenge),
+      shortLabel: isScavengeActive ? localize({ en: "Stop", hu: "Stop", de: "Stop", ro: "Stop" }) : localize({ en: "Scavenge", hu: "Gyűjtés", de: "Bergung", ro: "Colectare" }),
+      icon: <Wrench size={15} className="shrink-0" />,
       onClick: () => doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)"),
       disabled: isLockdown && !isScavengeActive,
       highlight: guide.focus === "scavenge",
-      tone: "default" as const,
+      tone: "default",
+      mobilePriority: isScavengeActive ? 95 : guide.focus === "scavenge" ? 82 : 58,
     },
     ...(reactorNeedsAttention
       ? [{
           key: "reactor",
           label: activeOperation?.type === "stabilizeReactor" ? localize({ en: "Stop Stabilize", hu: "Stabilizálás leállítása", de: "Stabilisierung stoppen", ro: "Oprește stabilizarea" }) : localize(ui.stabilize),
+          shortLabel: activeOperation?.type === "stabilizeReactor" ? localize({ en: "Stop", hu: "Stop", de: "Stop", ro: "Stop" }) : localize({ en: "Reactor", hu: "Reaktor", de: "Reaktor", ro: "Reactor" }),
+          icon: <Power size={15} className="shrink-0" />,
           onClick: () => doAction({ type: "STABILIZE_REACTOR" }, "rgba(59,130,246,0.4)"),
           disabled: !!activeOperation && activeOperation.type !== "stabilizeReactor",
           highlight: false,
           emphasis: isRecovering && !isLockdown,
           tone: reactorActionTone,
+          mobilePriority:
+            activeOperation?.type === "stabilizeReactor"
+              ? 100
+              : reactorActionTone === "danger"
+                ? 92
+                : 78,
         }]
       : []),
     ...(logisticsNeedsAttention
       ? [{
           key: "logistics",
           label: activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics" ? localize({ en: "Stop Repair", hu: "Javítás leállítása", de: "Reparatur stoppen", ro: "Oprește reparația" }) : localize(ui.repairLogistics),
+          shortLabel: activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics" ? localize({ en: "Stop", hu: "Stop", de: "Stop", ro: "Stop" }) : localize({ en: "Logistics", hu: "Logiszt.", de: "Logistik", ro: "Logistică" }),
+          icon: <Radar size={15} className="shrink-0" />,
           onClick: () => doAction({ type: "REPAIR_MODULE", moduleId: "logistics" }, "rgba(245,158,11,0.4)"),
           disabled: !!activeOperation && !(activeOperation.type === "repairModule" && activeOperation.moduleId === "logistics"),
           highlight: guide.focus === "repairLogistics",
           tone: logisticsActionTone,
+          mobilePriority:
+            activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics"
+              ? 96
+              : logisticsActionTone === "danger"
+                ? 88
+                : 72,
+        }]
+      : []),
+    ...(sensorNeedsAttention
+      ? [{
+          key: "sensor",
+          label: activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor" ? localize({ en: "Stop Repair", hu: "Javítás leállítása", de: "Reparatur stoppen", ro: "Oprește reparația" }) : localize(ui.repairSensor),
+          shortLabel: activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor" ? localize({ en: "Stop", hu: "Stop", de: "Stop", ro: "Stop" }) : localize({ en: "Sensor", hu: "Szenzor", de: "Sensor", ro: "Senzor" }),
+          icon: <Radar size={15} className="shrink-0" />,
+          onClick: () => doAction({ type: "REPAIR_MODULE", moduleId: "sensor" }, "rgba(34,211,238,0.4)"),
+          disabled: !!activeOperation && !(activeOperation.type === "repairModule" && activeOperation.moduleId === "sensor"),
+          highlight: guide.focus === "repairSensor",
+          tone: sensorActionTone,
+          mobilePriority:
+            activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor"
+              ? 94
+              : sensorActionTone === "danger"
+                ? 86
+                : 68,
         }]
       : []),
     {
       key: "core",
       label: state.phase === "awakened" ? localize({ en: "World Pulse", hu: "Világimpulzus", de: "Weltpuls", ro: "Pulsul lumii" }) : activeOperation?.type === "rerouteCore" ? localize({ en: "Stop Reroute", hu: "Átirányítás leállítása", de: "Umleitung stoppen", ro: "Oprește redirecționarea" }) : localize(ui.reroute),
+      shortLabel: state.phase === "awakened" ? localize({ en: "Pulse", hu: "Pulzus", de: "Puls", ro: "Puls" }) : activeOperation?.type === "rerouteCore" ? localize({ en: "Stop", hu: "Stop", de: "Stop", ro: "Stop" }) : localize({ en: "Core", hu: "Mag", de: "Kern", ro: "Nucleu" }),
+      icon: <Cpu size={15} className="shrink-0" />,
       onClick: () => doAction({ type: state.phase === "awakened" ? "AVATAR_PULSE" : "REROUTE_TO_CORE" }, "rgba(219,39,119,0.4)"),
       disabled: state.phase === "awakened" ? (state.tick - state.lastAvatarPulse < 20) : (!canReroute || isLockdown || (!!activeOperation && activeOperation.type !== "rerouteCore")),
       highlight: state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : rerouteHighlighted || guide.focus === "activation",
-      tone: "default" as const,
+      tone: "default",
+      mobilePriority:
+        activeOperation?.type === "rerouteCore"
+          ? 98
+          : (state.phase === "awakened" ? (state.tick - state.lastAvatarPulse >= 20) : rerouteHighlighted || guide.focus === "activation")
+            ? 90
+            : 70,
     },
     {
       key: "systems",
       label: localize({ en: "Systems", hu: "Rendszerek", de: "Systeme", ro: "Sisteme" }),
+      shortLabel: localize({ en: "Systems", hu: "Rendsz.", de: "Systeme", ro: "Sisteme" }),
+      icon: <LayoutGrid size={15} className="shrink-0" />,
       onClick: () => setActivePanel("modules"),
       disabled: false,
       highlight: activePanel === "modules",
-      tone: "default" as const,
+      tone: "default",
+      mobilePriority: 40,
     },
   ];
   const quickActions = primaryActions.filter((action) => action.key !== "systems");
   const systemsAction = primaryActions.find((action) => action.key === "systems");
+  const prioritizedMobileActions = [...quickActions]
+    .sort((a, b) => b.mobilePriority - a.mobilePriority)
+    .slice(0, Math.min(3, quickActions.length));
+  const pinnedActionKeys = new Set(prioritizedMobileActions.map((action) => action.key));
+  const overflowQuickActions = quickActions.filter((action) => !pinnedActionKeys.has(action.key));
+  const hiddenUrgentActions = overflowQuickActions.some(
+    (action) => action.emphasis || action.highlight || action.tone !== "default"
+  );
 
   const [starFeedback, setStarFeedback] = useState<{ amount: number; id: number } | null>(null);
 
@@ -623,6 +721,8 @@ export default function GravitasPage() {
     () => getGravitasActionSlots(selectedModule, state),
     [selectedModule, state]
   );
+  const selectedModuleInfo = content.modules[selectedModule];
+  const selectedModuleState = state.modules[selectedModule];
 
   const buildActionFeedback = (
     prev: StarholdState,
@@ -664,6 +764,14 @@ export default function GravitasPage() {
       case "REPAIR_MODULE": {
         const module = next.modules[command.moduleId];
         const integrityDelta = module.integrity - prev.modules[command.moduleId].integrity;
+        if (integrityDelta === 0) {
+          return {
+            en: `${localize(module.name)} repair team deployed.`,
+            hu: `${localize(module.name)} javítócsapata elindult.`,
+            de: `Reparaturteam für ${localize(module.name)} entsandt.`,
+            ro: `Echipa de reparații pentru ${localize(module.name)} a pornit.`,
+          };
+        }
         return {
           en: `${localize(module.name)} repaired to ${module.integrity}%. ${format(integrityDelta, "% integrity")}.`,
           hu: `${localize(module.name)} javítva ${module.integrity}%-ra. ${format(integrityDelta, "% integritás")}.`,
@@ -857,6 +965,7 @@ export default function GravitasPage() {
       <AnimatePresence>
         {shopOpen && (
           <GravitasShop
+            key="gravitas-shop"
             state={state}
             lang={lang}
             ui={ui}
@@ -866,7 +975,7 @@ export default function GravitasPage() {
           />
         )}
         {showAwakening && (
-          <AwakeningCeremony lang={lang} onDone={() => setShowAwakening(false)} />
+          <AwakeningCeremony key="gravitas-awakening" lang={lang} onDone={() => setShowAwakening(false)} />
         )}
       </AnimatePresence>
 
@@ -932,7 +1041,12 @@ export default function GravitasPage() {
       {/* HUD Chips */}
       <div className="flex items-center justify-between px-4 py-2 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-4 scrollbar-hide">
         <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
-        <HUDChip icon={<Wrench size={12} />} value={state.resources.materials} color="text-indigo-400" onClick={() => setResourceHelpOpen("materials")} />
+        <HUDChip
+          icon={<MaterialResourceGlyph active={isScavengeActive} />}
+          value={state.resources.materials}
+          color="text-indigo-300"
+          onClick={() => setResourceHelpOpen("materials")}
+        />
         <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
         <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
         <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
@@ -955,7 +1069,7 @@ export default function GravitasPage() {
             <GravitasScene
               state={state}
               selectedModule={selectedModule}
-              onSelectModule={setSelectedModule}
+              onSelectModule={handleSelectModule}
               lastCommand={lastCommand}
             />
           ) : (
@@ -1046,8 +1160,7 @@ export default function GravitasPage() {
 
           {/* Overlay Status info */}
           <div className="absolute top-4 left-4 pointer-events-none">
-            <h1 className="text-xl font-black tracking-tight opacity-80">{localize(ui.subtitle)}</h1>
-            <div className="flex items-center gap-2 mt-1">
+            <div className="flex items-center gap-2">
               {isLockdown && (
                 <div className="flex items-center gap-1 px-2 py-0.5 rounded bg-rose-600 text-white text-[9px] font-black animate-pulse">
                   LOCKDOWN
@@ -1060,6 +1173,57 @@ export default function GravitasPage() {
               )}
             </div>
           </div>
+
+          <AnimatePresence>
+            {moduleInfoOpen && (
+              <motion.div
+                initial={{ opacity: 0, y: -8, scale: 0.98 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, y: -8, scale: 0.98 }}
+                transition={{ type: "spring", damping: 22, stiffness: 260 }}
+                className="absolute left-4 top-16 z-[25] w-[min(62vw,280px)] rounded-[22px] border border-white/10 bg-[#091120]/82 p-3 text-white shadow-[0_18px_40px_rgba(0,0,0,0.32)] backdrop-blur-md"
+              >
+                <button
+                  type="button"
+                  onClick={() => setModuleInfoOpen(false)}
+                  className="absolute right-2 top-2 flex h-7 w-7 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/10 hover:text-white"
+                >
+                  <X size={14} />
+                </button>
+                <div className="flex items-start justify-between gap-3 pr-8">
+                  <div className="min-w-0">
+                    <div className="text-[9px] font-black uppercase tracking-[0.24em] text-cyan-300/72">
+                      {selectedModule === "core"
+                        ? localize({ en: "Core Chamber", hu: "Magkamra", de: "Kernkammer", ro: "Camera nucleului" })
+                        : localize({ en: "Selected Module", hu: "Kiválasztott modul", de: "Gewähltes Modul", ro: "Modul selectat" })}
+                    </div>
+                    <div className="mt-1 text-sm font-black leading-tight text-white sm:text-base">
+                      {localize(selectedModuleInfo.name)}
+                    </div>
+                  </div>
+                  <div className="rounded-full border border-cyan-400/25 bg-cyan-400/12 px-2.5 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-100">
+                    {selectedModule === "core" ? "CORE LVL 1" : "LVL 1"}
+                  </div>
+                </div>
+                <div className="mt-2 flex items-center gap-2">
+                  <div className={`rounded-full border px-2.5 py-0.5 text-[10px] font-black uppercase tracking-[0.16em] ${selectedModuleState.online ? "border-emerald-400/30 bg-emerald-400/12 text-emerald-200" : "border-white/10 bg-white/5 text-white/45"}`}>
+                    {selectedModule === "core"
+                      ? localize({ en: "Core ready", hu: "Mag készen", de: "Kern bereit", ro: "Nucleu pregătit" })
+                      : selectedModuleState.online
+                        ? localize(ui.online)
+                        : localize(ui.offline)}
+                  </div>
+                  <div className="rounded-full border border-white/10 bg-white/5 px-2.5 py-0.5 text-[10px] font-black uppercase tracking-[0.16em] text-white/65">
+                    {localize({ en: "Tap node to inspect", hu: "Kopp a node-ra", de: "Node antippen", ro: "Atinge nodul" })}
+                  </div>
+                </div>
+                <p className="mt-2 text-[11px] leading-snug text-white/72 sm:text-xs">
+                  {localize(selectedModuleInfo.role)}
+                </p>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
         </div>
 
         <div className="mx-4 mb-2 rounded-xl border border-amber-400/30 bg-amber-400/12 px-4 py-3 shadow-[0_0_20px_rgba(251,191,36,0.08)] backdrop-blur-md">
@@ -1072,18 +1236,22 @@ export default function GravitasPage() {
         </div>
 
         {/* Compact Threat Bar */}
-        <div className={`mx-4 mb-2 p-3 rounded-xl border transition-all duration-500 ${state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
+        <div className={`mx-4 mb-2 p-3 rounded-xl border transition-all duration-500 ${isWavePaused ? "border-cyan-500/30 bg-cyan-500/8" : state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs ${state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
+              <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs ${isWavePaused ? "border-cyan-300 text-cyan-100" : state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
                 {state.threat.aftershock > 0 ? state.threat.aftershock : threatCountdownText}
               </div>
               <div className="flex flex-col">
                 <div className="text-[11px] font-black uppercase tracking-widest truncate max-w-[120px]">
-                  {localize(content.threats[state.threat.type])}
+                  {isWavePaused
+                    ? localize({ en: "Wave cycle complete", hu: "Hullámsorozat kész", de: "Wellenzyklus beendet", ro: "Ciclu de valuri încheiat" })
+                    : localize(content.threats[state.threat.type])}
                 </div>
                 <div className="text-[9px] font-bold text-white/40 uppercase tracking-tighter">
-                  {earlyStage
+                  {isWavePaused
+                    ? localize({ en: "Awaiting avatar awakening", hu: "Az avatar ébredésére vár", de: "Warte auf das Erwachen des Avatars", ro: "Așteaptă trezirea avatarului" })
+                    : earlyStage
                     ? localize({
                         en: `Wave #${displayedWaveNumber} calibrating`,
                         hu: `${displayedWaveNumber}. hullám kalibrál`,
@@ -1095,15 +1263,15 @@ export default function GravitasPage() {
               </div>
             </div>
             <div className="flex gap-1.5 shrink-0">
-              <PrepDot active={state.threat.fortified} color="bg-emerald-400" />
-              <PrepDot active={state.threat.dampened} color="bg-indigo-400" />
-              <PrepDot active={state.threat.intercepted} color="bg-amber-400" />
-              <PrepDot active={state.threat.predicted} color="bg-cyan-400" />
+              <PrepDot active={state.threat.fortified && !isWavePaused} color="bg-emerald-400" />
+              <PrepDot active={state.threat.dampened && !isWavePaused} color="bg-indigo-400" />
+              <PrepDot active={state.threat.intercepted && !isWavePaused} color="bg-amber-400" />
+              <PrepDot active={state.threat.predicted && !isWavePaused} color="bg-cyan-400" />
             </div>
           </div>
           <div className="mt-2 h-1 w-full bg-white/5 rounded-full overflow-hidden">
             <div
-              className={`h-full transition-all duration-1000 ${state.threat.aftershock > 0 ? "bg-amber-500" : state.threat.countdown <= 3 ? "bg-rose-500" : "bg-cyan-500"}`}
+              className={`h-full transition-all duration-1000 ${isWavePaused ? "bg-cyan-400/60" : state.threat.aftershock > 0 ? "bg-amber-500" : state.threat.countdown <= 3 ? "bg-rose-500" : "bg-cyan-500"}`}
               style={{ width: `${threatProgressPercent}%` }}
             />
           </div>
@@ -1126,7 +1294,7 @@ export default function GravitasPage() {
             </div>
           )}
 
-          {state.threat.countdown <= 5 && state.threat.aftershock === 0 && (
+          {state.threat.countdown <= 5 && state.threat.aftershock === 0 && !isWavePaused && (
             <div className="mt-2 pt-2 border-t border-white/5">
               {!state.modules.sensor.online ? (
                 <div className="text-[9px] font-bold text-white/20 uppercase">
@@ -1313,15 +1481,59 @@ export default function GravitasPage() {
             </button>
           )}
         </div>
-        <div className="flex gap-2 overflow-x-auto no-scrollbar scrollbar-hide pb-1">
+        <div className="grid grid-cols-4 gap-2 lg:hidden">
+          {prioritizedMobileActions.map((action) => (
+            <MainAction
+              key={action.key}
+              label={action.label}
+              shortLabel={action.shortLabel}
+              icon={action.icon}
+              onClick={() => {
+                setQuickActionsOpen(false);
+                action.onClick();
+              }}
+              disabled={action.disabled}
+              highlight={action.highlight}
+              emphasis={action.emphasis}
+              tone={action.tone}
+              compact
+            />
+          ))}
+          {Array.from({ length: Math.max(0, 3 - prioritizedMobileActions.length) }).map((_, idx) => (
+            <div key={`quick-spacer-${idx}`} className="h-14 rounded-xl border border-dashed border-white/5 bg-white/[0.02]" />
+          ))}
+          <button
+            type="button"
+            onClick={() => setQuickActionsOpen(true)}
+            className={`relative flex h-14 min-h-[52px] flex-col items-center justify-center gap-1 rounded-xl border px-2 transition-all active:scale-95 ${
+              quickActionsOpen
+                ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100"
+                : "border-white/10 bg-white/5 text-white/80"
+            }`}
+          >
+            <div className="flex items-center gap-1.5 text-[11px] font-black uppercase tracking-[0.12em]">
+              <Layers size={14} />
+              <span>{localize({ en: "More", hu: "Több", de: "Mehr", ro: "Mai mult" })}</span>
+            </div>
+            <div className="text-[9px] uppercase tracking-[0.16em] text-white/45">
+              {overflowQuickActions.length > 0
+                ? `+${overflowQuickActions.length}`
+                : localize({ en: "Menu", hu: "Menü", de: "Menü", ro: "Meniu" })}
+            </div>
+            {hiddenUrgentActions && <div className="absolute right-2 top-2 h-2.5 w-2.5 rounded-full bg-amber-300 shadow-[0_0_12px_rgba(252,211,77,0.8)]" />}
+          </button>
+        </div>
+        <div className="hidden gap-2 overflow-x-auto no-scrollbar scrollbar-hide pb-1 lg:flex">
           {quickActions.map((action) => (
             <MainAction
               key={action.key}
               label={action.label}
+              shortLabel={action.shortLabel}
+              icon={action.icon}
               onClick={action.onClick}
               disabled={action.disabled}
               highlight={action.highlight}
-              emphasis={"emphasis" in action ? action.emphasis : undefined}
+              emphasis={action.emphasis}
               tone={action.tone}
             />
           ))}
@@ -1380,6 +1592,80 @@ export default function GravitasPage() {
                     {localize({ en: "How to improve it", hu: "Hogyan javítható", de: "Wie man es verbessert", ro: "Cum se îmbunătățește" })}
                   </div>
                   <p className="mt-1">{localize(resourceHelp[resourceHelpOpen].fix)}</p>
+                </div>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+        {quickActionsOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[85] bg-black/70 backdrop-blur-sm p-4 pt-24 lg:hidden"
+            onClick={() => setQuickActionsOpen(false)}
+          >
+            <motion.div
+              initial={{ opacity: 0, y: 24 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: 24 }}
+              transition={{ type: "spring", damping: 28, stiffness: 260 }}
+              onClick={(e) => e.stopPropagation()}
+              className="mx-auto flex h-full w-full max-w-xl flex-col rounded-[28px] border border-white/10 bg-[#0b1224]/95 shadow-[0_20px_80px_rgba(0,0,0,0.45)]"
+            >
+              <div className="flex items-start justify-between gap-4 border-b border-white/5 p-5">
+                <div>
+                  <div className="text-[10px] font-black uppercase tracking-[0.22em] text-cyan-300/75">
+                    {localize({ en: "Command Deck", hu: "Parancspult", de: "Befehlsdeck", ro: "Punte de comandă" })}
+                  </div>
+                  <div className="mt-1 text-lg font-black text-white">
+                    {localize({ en: "All Quick Commands", hu: "Összes gyors parancs", de: "Alle Schnellbefehle", ro: "Toate comenzile rapide" })}
+                  </div>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => setQuickActionsOpen(false)}
+                  className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70"
+                >
+                  <X size={16} />
+                </button>
+              </div>
+              <div className="flex-1 overflow-y-auto p-5 pb-[calc(6rem+env(safe-area-inset-bottom))]">
+                <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                  {quickActions.map((action) => (
+                    <MainAction
+                      key={`sheet-${action.key}`}
+                      label={action.label}
+                      shortLabel={action.shortLabel}
+                      icon={action.icon}
+                      onClick={() => {
+                        setQuickActionsOpen(false);
+                        action.onClick();
+                      }}
+                      disabled={action.disabled}
+                      highlight={action.highlight}
+                      emphasis={action.emphasis}
+                      tone={action.tone}
+                      expanded
+                    />
+                  ))}
+                  {systemsAction && (
+                    <MainAction
+                      key="sheet-systems"
+                      label={systemsAction.label}
+                      shortLabel={systemsAction.shortLabel}
+                      icon={systemsAction.icon}
+                      onClick={() => {
+                        setQuickActionsOpen(false);
+                        systemsAction.onClick();
+                      }}
+                      disabled={systemsAction.disabled}
+                      highlight={systemsAction.highlight}
+                      emphasis={systemsAction.emphasis}
+                      tone={systemsAction.tone}
+                      expanded
+                    />
+                  )}
                 </div>
               </div>
             </motion.div>
@@ -1446,7 +1732,10 @@ export default function GravitasPage() {
                           
                           <div className="flex items-center justify-between mb-2">
                             <Icon size={16} className={isSelected ? "text-cyan-400" : "text-white/40"} />
-                            <div className="text-[10px] font-black">{m.integrity}%</div>
+                            <div className="flex items-center gap-2">
+                              <div className="rounded-full border border-white/10 bg-white/5 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.16em] text-white/65">LVL 1</div>
+                              <div className="text-[10px] font-black">{m.integrity}%</div>
+                            </div>
                           </div>
                           
                           <div className="text-xs font-black truncate mb-2">{localize(m.name)}</div>
@@ -1480,8 +1769,11 @@ export default function GravitasPage() {
                   <div className="p-5 rounded-2xl border border-white/10 bg-black/40">
                     <div className="flex items-center justify-between gap-3 mb-3">
                       <div className="text-lg font-black">{localize(state.modules[selectedModule].name)}</div>
-                      <div className={`px-2 py-0.5 rounded text-[10px] font-black ${state.modules[selectedModule].online ? "bg-cyan-500/20 text-cyan-400" : "bg-white/5 text-white/40"}`}>
-                        {state.modules[selectedModule].online ? localize(ui.online) : localize(ui.offline)}
+                      <div className="flex items-center gap-2">
+                        <div className="rounded-full border border-cyan-400/25 bg-cyan-400/10 px-2.5 py-0.5 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-100">LVL 1</div>
+                        <div className={`px-2 py-0.5 rounded text-[10px] font-black ${state.modules[selectedModule].online ? "bg-cyan-500/20 text-cyan-400" : "bg-white/5 text-white/40"}`}>
+                          {state.modules[selectedModule].online ? localize(ui.online) : localize(ui.offline)}
+                        </div>
                       </div>
                     </div>
                     <p className="text-sm text-white/60 mb-4">{localize(content.modules[selectedModule].role)}</p>
@@ -1595,33 +1887,33 @@ export default function GravitasPage() {
       <AnimatePresence>
         {state.pendingEvent && (
           <motion.div
-            initial={{ opacity: 0, scale: 0.95 }}
-            animate={{ opacity: 1, scale: 1 }}
-            exit={{ opacity: 0, scale: 0.95 }}
-            className="fixed inset-0 z-[100] flex items-center justify-center p-6 bg-black/80 backdrop-blur-xl"
+            initial={{ opacity: 0, y: 18 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 18 }}
+            className="pointer-events-none fixed inset-x-0 bottom-[104px] z-[100] px-3 lg:inset-x-auto lg:bottom-6 lg:right-6 lg:px-0"
           >
-            <div className="w-full max-w-lg rounded-[32px] border border-amber-400/30 bg-[#151005] p-8 shadow-2xl">
-              <div className="flex items-center justify-between mb-6">
-                <div className="px-3 py-1 rounded-full border border-amber-400/20 bg-amber-400/10 text-amber-400 text-[10px] font-black uppercase tracking-widest">
+            <div className="pointer-events-auto mx-auto w-full max-w-md rounded-[26px] border border-amber-400/30 bg-[#151005]/96 p-4 shadow-[0_20px_60px_rgba(0,0,0,0.45)] backdrop-blur-xl lg:mx-0 lg:w-[380px]">
+              <div className="mb-4 flex items-center justify-between gap-4">
+                <div className="rounded-full border border-amber-400/20 bg-amber-400/10 px-3 py-1 text-[10px] font-black uppercase tracking-widest text-amber-400">
                   Anomaly Detected
                 </div>
                 {state.pendingEvent.chainStep && (
                   <div className="text-[10px] font-black text-white/40">STEP {state.pendingEvent.chainStep}/{state.pendingEvent.chainTotal}</div>
                 )}
               </div>
-              <h2 className="text-2xl font-black text-white mb-4">{localize(state.pendingEvent.title)}</h2>
-              <p className="text-white/70 leading-relaxed mb-8">{localize(state.pendingEvent.body)}</p>
+              <h2 className="mb-2 text-lg font-black leading-tight text-white lg:text-xl">{localize(state.pendingEvent.title)}</h2>
+              <p className="mb-4 text-sm leading-relaxed text-white/72 lg:text-[15px]">{localize(state.pendingEvent.body)}</p>
               <div className="grid gap-3">
                 {state.pendingEvent.options.map((opt, idx) => (
                   <button
-                    key={opt.id}
+                    key={`${state.pendingEvent?.id ?? "event"}-${state.pendingEvent?.chainStep ?? 0}-${opt.id}-${idx}`}
                     onClick={() => doAction({ type: "RESOLVE_EVENT", optionId: opt.id }, "rgba(251,191,36,0.35)")}
-                    className={`w-full p-5 rounded-2xl border text-left transition active:scale-[0.98] ${idx === 0 ? "border-amber-400 bg-amber-400/10 hover:bg-amber-400/20" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
+                    className={`w-full rounded-2xl border p-4 text-left transition active:scale-[0.98] ${idx === 0 ? "border-amber-400 bg-amber-400/10 hover:bg-amber-400/20" : "border-white/10 bg-white/5 hover:bg-white/10"}`}
                   >
-                    <div className={`text-[10px] font-black uppercase tracking-widest mb-1 ${idx === 0 ? "text-amber-400" : "text-white/40"}`}>
+                    <div className={`mb-1 text-[9px] font-black uppercase tracking-[0.2em] ${idx === 0 ? "text-amber-400" : "text-white/40"}`}>
                       {idx === 0 ? "Priority Protocol" : "Alternative Route"}
                     </div>
-                    <div className="font-black text-white">{localize(opt.label)}</div>
+                    <div className="text-sm font-black leading-snug text-white">{localize(opt.label)}</div>
                   </button>
                 ))}
               </div>
@@ -1735,6 +2027,20 @@ function HUDChip({ icon, value, color, onClick }: { icon: React.ReactNode; value
   );
 }
 
+function MaterialResourceGlyph({ active }: { active?: boolean }) {
+  return (
+    <span className="relative inline-flex h-3.5 w-3.5 items-center justify-center">
+      <span className={`absolute inset-0 rounded-[4px] border border-indigo-200/30 bg-indigo-400/10 ${active ? "animate-pulse" : ""}`} />
+      <span className="absolute left-[2px] top-[2px] h-[3px] w-[3px] rounded-full bg-indigo-100/80" />
+      <span className="absolute right-[2px] top-[2px] h-[3px] w-[3px] rounded-full bg-indigo-100/80" />
+      <span className="absolute left-[2px] bottom-[2px] h-[3px] w-[3px] rounded-full bg-indigo-100/80" />
+      <span className="absolute right-[2px] bottom-[2px] h-[3px] w-[3px] rounded-full bg-indigo-100/80" />
+      <span className={`absolute inset-[4px] rounded-[2px] bg-indigo-100/20 ${active ? "scale-100 opacity-100" : "scale-75 opacity-60"} transition-all`} />
+      <span className={`absolute -right-[2px] -top-[2px] h-1.5 w-1.5 rounded-full bg-cyan-300 shadow-[0_0_10px_rgba(34,211,238,0.45)] transition-opacity ${active ? "opacity-100" : "opacity-30"}`} />
+    </span>
+  );
+}
+
 function Badge({ color, label, lang }: { color: string; label: LocalizedString; lang: string }) {
   return (
     <div className={`px-2 py-1 rounded text-[9px] font-black uppercase tracking-tight border border-white/5 ${color}`}>
@@ -1761,19 +2067,94 @@ function PanelTab({ icon, label, active, onClick, emphasis }: { icon: React.Reac
   );
 }
 
-function MainAction({ label, onClick, disabled, highlight, emphasis, tone = "default" }: { label: string; onClick: () => void; disabled?: boolean; highlight?: boolean; emphasis?: boolean; tone?: "default" | "warning" | "danger" }) {
+function MainAction({
+  label,
+  shortLabel,
+  icon,
+  onClick,
+  disabled,
+  highlight,
+  emphasis,
+  tone = "default",
+  compact,
+  expanded,
+}: {
+  label: string;
+  shortLabel?: string;
+  icon?: React.ReactNode;
+  onClick: () => void;
+  disabled?: boolean;
+  highlight?: boolean;
+  emphasis?: boolean;
+  tone?: "default" | "warning" | "danger";
+  compact?: boolean;
+  expanded?: boolean;
+}) {
   const toneClass = tone === "danger"
     ? "border-rose-500/70 bg-rose-500/18 text-rose-50 shadow-[0_0_18px_rgba(244,63,94,0.24)]"
     : tone === "warning"
       ? "border-amber-400/70 bg-amber-400/18 text-amber-50 shadow-[0_0_18px_rgba(251,191,36,0.22)]"
       : "border-cyan-400 bg-cyan-400 text-black shadow-[0_0_15px_rgba(34,211,238,0.4)]";
+  const activeClass = highlight || emphasis || tone !== "default" ? toneClass : "border-white/10 bg-white/5 hover:bg-white/10 hover:-translate-y-0.5 text-white";
+
+  if (expanded) {
+    return (
+      <button
+        disabled={disabled}
+        onClick={onClick}
+        className={`relative min-h-[72px] rounded-2xl border p-4 text-left transition-all active:scale-[0.98] ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
+      >
+        <div className="flex items-start gap-3">
+          {icon && (
+            <div className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-white/10 bg-black/15">
+              {icon}
+            </div>
+          )}
+          <div className="min-w-0">
+            <div className="text-sm font-black uppercase tracking-[0.08em]">{label}</div>
+          </div>
+        </div>
+        {disabled && (
+          <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+            <div className="h-0.5 w-full -rotate-12 bg-white/10" />
+          </div>
+        )}
+        {emphasis && <div className={`absolute right-3 top-3 h-2.5 w-2.5 rounded-full animate-ping ${tone === "danger" ? "bg-rose-400" : tone === "warning" ? "bg-amber-300" : "bg-cyan-400"}`} />}
+      </button>
+    );
+  }
+
+  if (compact) {
+    return (
+      <button
+        disabled={disabled}
+        onClick={onClick}
+        className={`relative flex h-14 min-h-[52px] min-w-0 flex-col items-center justify-center gap-1 rounded-xl border px-2 text-center transition-all active:scale-95 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
+      >
+        {icon}
+        <span className="line-clamp-2 text-[10px] font-black uppercase leading-tight tracking-[0.08em]">
+          {shortLabel ?? label}
+        </span>
+        {disabled && (
+          <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+            <div className="h-0.5 w-full -rotate-12 bg-white/10" />
+          </div>
+        )}
+        {emphasis && <div className={`absolute -right-1 -top-1 h-2.5 w-2.5 rounded-full animate-ping ${tone === "danger" ? "bg-rose-400" : tone === "warning" ? "bg-amber-300" : "bg-cyan-400"}`} />}
+      </button>
+    );
+  }
+
   return (
     <button
       disabled={disabled}
       onClick={onClick}
-      className={`relative h-14 min-h-[52px] min-w-[122px] px-3 rounded-xl border font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : highlight || emphasis || tone !== "default" ? toneClass : "border-white/10 bg-white/5 hover:bg-white/10 hover:-translate-y-0.5 text-white"}`}
+      className={`relative h-14 min-h-[52px] min-w-[122px] rounded-xl border px-3 font-black text-xs uppercase tracking-tighter transition-all active:scale-90 active:brightness-150 ${disabled ? "opacity-20 grayscale border-white/5 bg-white/5 text-white/40 cursor-not-allowed" : activeClass}`}
     >
-      {label}
+      <span className="flex items-center justify-center gap-2">
+        {icon}
+        <span>{label}</span>
+      </span>
       {disabled && (
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
           <div className="w-full h-0.5 bg-white/10 -rotate-12" />

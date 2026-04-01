@@ -31,6 +31,7 @@ export const GRAVITAS_TEXT = {
     stabilize: { en: "Stabilize reactor", hu: "Reaktor stabilizálása", de: "Reaktor stabilisieren", ro: "Stabilizează reactorul" },
     reroute: { en: "Reroute power to core", hu: "Energia átirányítása a maghoz", de: "Energie zum Kern umleiten", ro: "Redirecționează energia spre nucleu" },
     repairLogistics: { en: "Repair logistics", hu: "Logisztika javítása", de: "Logistik reparieren", ro: "Repară logistica" },
+    repairSensor: { en: "Repair sensor", hu: "Szenzor javítása", de: "Sensor reparieren", ro: "Repară senzorul" },
     hold: { en: "Hold to transfer pulse", hu: "Tartsd nyomva az átvitelt", de: "Gedrückt halten für Transfer", ro: "Ține apăsat pentru transfer" },
     transferTitle: { en: "Awakening transfer", hu: "Ébresztési átadás", de: "Erweckungstransfer", ro: "Transfer de trezire" },
     transferStageLabel: { en: "Activation ladder", hu: "Aktiválási lépcső", de: "Aktivierungsleiter", ro: "Scara activării" },
@@ -363,6 +364,50 @@ export const GRAVITAS_TEXT = {
         options: {
           holdResonance: { en: "Hold resonance", hu: "Rezonancia tartása", de: "Resonanz halten", ro: "Menținere rezonanță" },
           breakContact: { en: "Break contact", hu: "Kapcsolat bontása", de: "Kontakt abbrechen", ro: "Întrerupere contact" },
+        }
+      }
+    },
+    waveRecovery: {
+      step1: {
+        title: { en: "Afterwave check", hu: "Utóhullám-ellenőrzés", de: "Nachwellen-Check", ro: "Verificare post-val" },
+        body: {
+          en: "The first wave tore open a single fault line. Which module must be restored first?",
+          hu: "Az első hullám egyetlen törésvonalat nyitott meg. Melyik modult kell először helyreállítani?",
+          de: "Die erste Welle riss eine einzige Bruchlinie auf. Welches Modul muss zuerst wiederhergestellt werden?",
+          ro: "Primul val a rupt o singură linie de avarie. Ce modul trebuie restabilit primul?"
+        },
+        options: {
+          reactor: { en: "Reactor only", hu: "Csak a reaktor", de: "Nur Reaktor", ro: "Doar reactorul" },
+          logistics: { en: "Logistics first", hu: "Előbb a logisztika", de: "Zuerst Logistik", ro: "Mai întâi logistica" },
+          sensor: { en: "Sensor grid", hu: "Szenzorháló", de: "Sensorfeld", ro: "Rețeaua de senzori" },
+        }
+      },
+      step2: {
+        title: { en: "Split recovery", hu: "Megosztott helyreállítás", de: "Geteilte Wiederherstellung", ro: "Recuperare împărțită" },
+        body: {
+          en: "The second wave fractured the supply path. Which pair should be brought back together?",
+          hu: "A második hullám szétvágta az ellátási utat. Melyik két egységet kell újra összehozni?",
+          de: "Die zweite Welle zerschnitt den Versorgungsweg. Welches Paar muss wieder zusammengeführt werden?",
+          ro: "Al doilea val a fracturat traseul de aprovizionare. Ce pereche trebuie readusă împreună?"
+        },
+        options: {
+          reactorLogistics: { en: "Reactor + logistics", hu: "Reaktor + logisztika", de: "Reaktor + Logistik", ro: "Reactor + logistică" },
+          reactorSensor: { en: "Reactor + sensor", hu: "Reaktor + szenzor", de: "Reaktor + Sensor", ro: "Reactor + senzor" },
+          logisticsSensor: { en: "Logistics + sensor", hu: "Logisztika + szenzor", de: "Logistik + Sensor", ro: "Logistică + senzor" },
+        }
+      },
+      step3: {
+        title: { en: "Triad lock", hu: "Triád zár", de: "Triaden-Sperre", ro: "Blocaj triadă" },
+        body: {
+          en: "The third wave hit the full demo grid. Which trio must be synchronized to seal it?",
+          hu: "A harmadik hullám az egész demóhálózatot elérte. Melyik hármast kell szinkronizálni a lezáráshoz?",
+          de: "Die dritte Welle traf das komplette Demo-Netz. Welches Trio muss zur Versiegelung synchronisiert werden?",
+          ro: "Al treilea val a lovit întreaga rețea demo. Ce trio trebuie sincronizat pentru a o sigila?"
+        },
+        options: {
+          triad: { en: "Reactor + logistics + sensor", hu: "Reaktor + logisztika + szenzor", de: "Reaktor + Logistik + Sensor", ro: "Reactor + logistică + senzor" },
+          coreTriad: { en: "Sensor + core + reactor", hu: "Szenzor + mag + reaktor", de: "Sensor + Kern + Reaktor", ro: "Senzor + nucleu + reactor" },
+          supplyTriad: { en: "Logistics + core + sensor", hu: "Logisztika + mag + szenzor", de: "Logistik + Kern + Sensor", ro: "Logistică + nucleu + senzor" },
         }
       }
     },

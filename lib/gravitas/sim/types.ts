@@ -45,7 +45,8 @@ export type StarholdEventId =
   | "deepTrek"
   | "entropyCascade"
   | "phaseEcho"
-  | "emergencyOverride";
+  | "emergencyOverride"
+  | "waveRecovery";
 
 export type LocalizedString = {
   en: string;
@@ -90,6 +91,7 @@ export interface StarholdThreatState {
   intercepted: boolean; // Logistics protection
   predicted: boolean; // Sensor prediction
   aftershock: number; // Ticks of lingering instability after impact
+  pausedUntilAwake: boolean; // True when the demo wave cycle is complete
 }
 
 export interface StarholdProgression {

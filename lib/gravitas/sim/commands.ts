@@ -65,9 +65,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 
   if (
     state.activeOperation &&
-    (command.type === "STABILIZE_REACTOR" ||
-      command.type === "REPAIR_MODULE" ||
-      command.type === "REROUTE_TO_CORE")
+    (command.type === "STABILIZE_REACTOR" || command.type === "REROUTE_TO_CORE")
   ) {
     return withAlert(state, {
       en: "An operation is already running. Let it finish before issuing another command.",
@@ -101,8 +99,16 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         };
       }
 
-      const introWindow = state.phase === "boot" && state.tick < 18;
-      const cycleDuration = introWindow ? 4 : 6;
+      if (!state.modules.logistics.online) {
+        return withAlert(state, {
+          en: "Logistics is offline. Repair it before sending scavenger drones.",
+          hu: "A logisztika offline. Javítsd meg, mielőtt gyűjtődrónokat küldesz.",
+          de: "Die Logistik ist offline. Repariere sie, bevor du Bergungsdrohnen sendest.",
+          ro: "Logistica este offline. Repar-o înainte să trimiți dronele de colectare.",
+        });
+      }
+
+      const cycleDuration = 5;
       return {
         ...state,
         scavengeOperation: {
@@ -168,44 +174,32 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
-      const introWindow = state.phase === "boot" && state.tick < 24;
-      const cost = Math.max(1, Math.ceil(profile.repairCost * mods.powerCostMod) - (introWindow ? 1 : 0));
+      const cost = 10;
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       }
-      return startOperation(
-        {
-          ...state,
-          resources: addResourceDelta(state.resources, {
-            materials: -cost,
-          }),
-        },
-        {
-          type: "repairModule",
-          moduleId: command.moduleId,
-          startedTick: state.tick,
-          duration: introWindow ? 5 : 7,
-          remaining: introWindow ? 5 : 7,
-          title: {
-            en: `${state.modules[command.moduleId].name.en} repair in progress`,
-            hu: `${state.modules[command.moduleId].name.hu} javítása folyamatban`,
-            de: `${state.modules[command.moduleId].name.de} wird repariert`,
-            ro: `${state.modules[command.moduleId].name.ro} este reparat`,
-          },
-          detail: {
-            en: "Repair crews are resealing the module and restoring routing.",
-            hu: "A javítóegységek újrazárják a modult és helyreállítják az útvonalakat.",
-            de: "Reparatureinheiten versiegeln das Modul neu und stellen die Routen wieder her.",
-            ro: "Echipele de reparații resigilează modulul și refac traseele.",
+      const introWindow = state.phase === "boot" && state.tick < 36;
+      const target = state.modules[command.moduleId];
+      const nextIntegrity = clamp(target.integrity + Math.floor((profile.repairGain + (introWindow ? 3 : 0)) * mods.recoveryEfficiency));
+      const nextLoad = addModuleLoad(state, command.moduleId, target.online ? 0 : profile.loadShift).load;
+      return {
+        ...state,
+        resources: addResourceDelta(state.resources, {
+          materials: -cost,
+          stability: Math.floor((introWindow ? 4 : 3) * mods.recoveryEfficiency),
+        }),
+        modules: {
+          ...state.modules,
+          [command.moduleId]: {
+            ...target,
+            integrity: nextIntegrity,
+            online: nextIntegrity >= profile.onlineThreshold || target.online,
+            load: nextLoad,
           },
         },
-        {
-          en: `${state.modules[command.moduleId].name.en} repair team deployed.`,
-          hu: `${state.modules[command.moduleId].name.hu} javítócsapata elindult.`,
-          de: `Reparaturteam für ${state.modules[command.moduleId].name.de} entsandt.`,
-          ro: `Echipa de reparații pentru ${state.modules[command.moduleId].name.ro} a pornit.`,
-        }
-      );
+        alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
+        journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
+      };
     }
     case "REROUTE_TO_CORE": {
       const introWindow = state.phase === "boot" && state.tick < 30;

@@ -1,4 +1,4 @@
-import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString } from "./types";
+import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString, StarholdPendingEvent } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 
@@ -28,7 +28,116 @@ function chainedEvent(
   };
 }
 
+export function createWaveRecoveryEvent(waveNumber: number): StarholdPendingEvent {
+  const step = Math.min(3, Math.max(1, waveNumber));
+  const content = T.waveRecovery[`step${step}` as "step1" | "step2" | "step3"];
+  return {
+    id: "waveRecovery",
+    title: content.title,
+    body: content.body,
+    options: Object.entries(content.options).map(([id, label]) => ({ id, label })),
+    chainId: "wave-recovery",
+    chainStep: step,
+    chainTotal: 3,
+  };
+}
+
+function restoreModuleSet(state: StarholdState, moduleIds: StarholdModuleId[], alert: LocalizedString, journal: LocalizedString): StarholdState {
+  const nextModules = { ...state.modules };
+  moduleIds.forEach((id) => {
+    nextModules[id] = {
+      ...nextModules[id],
+      integrity: 100,
+      online: true,
+    };
+  });
+
+  return {
+    ...state,
+    pendingEvent: null,
+    modules: nextModules,
+    alert,
+    journal: pushJournal(state, journal),
+  };
+}
+
 const STARHOLD_EVENTS: StarholdEventDefinition[] = [
+  {
+    id: "waveRecovery",
+    minTick: 0,
+    cooldown: 0,
+    shouldTrigger: () => false,
+    create: () => createWaveRecoveryEvent(1),
+    resolve: (state, optionId) => {
+      const step = Math.min(3, Math.max(1, state.pendingEvent?.chainStep ?? 1));
+      const success = {
+        en: "Wave recovery confirmed.",
+        hu: "Hullámhelyreállítás megerősítve.",
+        de: "Wellenwiederherstellung bestätigt.",
+        ro: "Recuperarea valului confirmată.",
+      };
+      const fail = {
+        en: "Recovery question rejected. Damage remains.",
+        hu: "A helyreállítási kérdés hibás. A sérülés marad.",
+        de: "Wiederherstellungsfrage falsch. Schaden bleibt bestehen.",
+        ro: "Întrebarea de recuperare a fost greșită. Paguba rămâne.",
+      };
+
+      if (step === 1 && optionId === "reactor") {
+        return restoreModuleSet(
+          state,
+          ["reactor"],
+          success,
+          {
+            en: "The first fault line was sealed and the reactor came back online.",
+            hu: "Az első törésvonal lezárult, a reaktor újra online lett.",
+            de: "Die erste Bruchlinie wurde versiegelt und der Reaktor ging wieder online.",
+            ro: "Prima linie de avarie a fost sigilată și reactorul a revenit online.",
+          }
+        );
+      }
+
+      if (step === 2 && optionId === "reactorLogistics") {
+        return restoreModuleSet(
+          state,
+          ["reactor", "logistics"],
+          success,
+          {
+            en: "Reactor and logistics synchronized. The supply line has recovered.",
+            hu: "A reaktor és a logisztika szinkronba került. Az ellátási lánc helyreállt.",
+            de: "Reaktor und Logistik synchronisiert. Die Versorgungslinie hat sich erholt.",
+            ro: "Reactorul și logistica s-au sincronizat. Linia de aprovizionare și-a revenit.",
+          }
+        );
+      }
+
+      if (step === 3 && optionId === "triad") {
+        return restoreModuleSet(
+          state,
+          ["reactor", "logistics", "sensor"],
+          success,
+          {
+            en: "The full trio locked in. Reactor, logistics, and sensor all came back clean.",
+            hu: "A teljes hármas rögzült. A reaktor, a logisztika és a szenzor is helyreállt.",
+            de: "Das gesamte Trio verriegelt. Reaktor, Logistik und Sensor sind wieder sauber.",
+            ro: "Trio-ul complet s-a blocat. Reactorul, logistica și senzorii au revenit curate.",
+          }
+        );
+      }
+
+      return {
+        ...state,
+        pendingEvent: null,
+        alert: fail,
+        journal: pushJournal(state, {
+          en: "The recovery check failed. The station kept its current damage state.",
+          hu: "A helyreállítási ellenőrzés hibás volt. Az állomás megtartotta a jelenlegi sérüléseit.",
+          de: "Der Wiederherstellungscheck war falsch. Der Schaden blieb bestehen.",
+          ro: "Verificarea de recuperare a eșuat. Stația și-a păstrat starea de avarie.",
+        }),
+      };
+    },
+  },
   {
     id: "emergencyOverride",
     minTick: 0,

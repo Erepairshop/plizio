@@ -8,7 +8,7 @@ export function createInitialStarholdState(): StarholdState {
     phase: "boot",
     resources: {
       power: 36,
-      materials: 18,
+      materials: 50,
       stability: 64,
       activation: 0,
     },
@@ -30,6 +30,7 @@ export function createInitialStarholdState(): StarholdState {
       intercepted: false,
       predicted: false,
       aftershock: 0,
+      pausedUntilAwake: false,
     },
     progression: {
       stars: 0,

@@ -13,7 +13,7 @@ export const STARHOLD_MODULE_DEFINITIONS: StarholdModuleDefinition[] = [
   { id: "reactor", name: GRAVITAS_TEXT.modules.reactor.name, startsOnline: true, integrity: 51, load: 72 },
   { id: "logistics", name: GRAVITAS_TEXT.modules.logistics.name, startsOnline: false, integrity: 34, load: 0 },
   { id: "core", name: GRAVITAS_TEXT.modules.core.name, startsOnline: false, integrity: 63, load: 12 },
-  { id: "sensor", name: GRAVITAS_TEXT.modules.sensor.name, startsOnline: false, integrity: 47, load: 0 },
+  { id: "sensor", name: GRAVITAS_TEXT.modules.sensor.name, startsOnline: true, integrity: 47, load: 0 },
 ];
 
 export interface StarholdModuleActionProfile {

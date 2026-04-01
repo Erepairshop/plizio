@@ -2,6 +2,7 @@ import type { StarholdState, LocalizedString } from "./types";
 import { GRAVITAS_TEXT } from "./content";
 import { clamp, pushJournal } from "./shared";
 import { getStarholdModifiers } from "./modifiers";
+import { createNextThreat } from "./threats";
 
 export interface ActivationStageInfo {
   stage: 0 | 1 | 2 | 3 | 4;
@@ -68,6 +69,9 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
 
   const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
   const awakened = nextActivation >= 100;
+  const nextThreat = awakened && state.threat.pausedUntilAwake
+    ? createNextThreat({ ...state, avatarAwake: true }, state.threatCycle + 1)
+    : state.threat;
 
   // High resonance hazards
   let nextMarks = { ...state.marks };
@@ -107,6 +111,7 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
         load: clamp(state.modules.core.load + Math.ceil(amount / 2)),
       },
     },
+    threat: nextThreat,
     worldPulse: clamp(state.worldPulse + (awakened ? 10 : 2)),
     progression: {
       ...state.progression,

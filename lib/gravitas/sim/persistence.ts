@@ -83,7 +83,10 @@ export function loadGravitasState(): StarholdState | null {
       worldPhase: parsed.worldPhase ?? 0,
       activeOperation: parsed.activeOperation?.type === "scavenge" ? null : parsed.activeOperation ?? null,
       scavengeOperation: migratedScavengeOperation,
-      threat: migratedThreat,
+      threat: {
+        ...migratedThreat,
+        pausedUntilAwake: migratedThreat.pausedUntilAwake ?? false,
+      },
       reactorRecovery: parsed.reactorRecovery ?? {
         active: false,
         completedStabilizations: 0,
