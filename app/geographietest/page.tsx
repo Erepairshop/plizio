@@ -18,7 +18,7 @@ const GEO_COLORS = [
   "rgba(34,211,238,0.10)",
 ];
 
-const GEO_CONFIG: LanguageTestEngineConfig = {
+const GEO_CONFIG = {
   gameId: "geographietest",
   title: "GEOGRAPHIE TEST",
   icon: "🗺️",
@@ -45,11 +45,11 @@ const GEO_CONFIG: LanguageTestEngineConfig = {
     7: asCurriculumThemes(K7_CURRICULUM),
     8: asCurriculumThemes(K8_CURRICULUM),
   },
-  getQuestions: (grade, subtopicIds, count) => {
-    if (grade === 5) return getK5Questions(subtopicIds, count);
-    if (grade === 6) return getK6Questions(subtopicIds, count);
-    if (grade === 7) return getK7Questions(subtopicIds, count);
-    return getK8Questions(subtopicIds, count);
+  getQuestions: (grade: number, subtopicIds: string[], count: number) => {
+    if (grade === 5) return getK5Questions(subtopicIds, "de", count);
+    if (grade === 6) return getK6Questions(subtopicIds, "de", count);
+    if (grade === 7) return getK7Questions(subtopicIds, "de", count);
+    return getK8Questions(subtopicIds, "de", count);
   },
   labels: {
     selectCountry: "Wähle dein Land",
@@ -80,7 +80,7 @@ const GEO_CONFIG: LanguageTestEngineConfig = {
     name: "Name",
     date: "Datum",
   },
-};
+} as LanguageTestEngineConfig;
 
 export default function GeographieTestPage() {
   return <LanguageTestEngine config={GEO_CONFIG} />;

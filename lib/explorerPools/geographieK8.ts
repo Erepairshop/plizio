@@ -263,13 +263,40 @@ export const GEO_K8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "💰", title: "Global Wealth", bg: "#F0FDF4" },
+    svg: { type: "simple-icon", icon: "🌍", title: "Globalization", bg: "#F0FDF4" },
     bulletKeys: ["t1_h1", "t1_h2", "t1_h3"],
     interactive: {
       type: "match-pairs",
       instruction: "t1_inst",
       hint1: "t1_h1",
-...
+      hint2: "t1_h3",
+      pairs: [
+        { left: "t1_l1", right: "t1_r1" },
+        { left: "t1_l2", right: "t1_r2" },
+        { left: "t1_l3", right: "t1_r3" },
+      ],
+    },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" },
+  },
+  {
+    infoTitle: "t2_title",
+    infoText: "t2_text",
+    svg: { type: "simple-icon", icon: "⚡", title: "Energy", bg: "#FEF2F2" },
+    bulletKeys: ["t2_h1", "t2_h2", "t2_h3"],
+    interactive: {
+      type: "label-diagram",
+      instruction: "t2_inst",
+      hint1: "t2_h1",
+      hint2: "t2_h3",
+      areas: [
+        { id: "solar", x: 50, y: 10, label: "t2_area_solar" },
+        { id: "wind", x: 50, y: 35, label: "t2_area_wind" },
+        { id: "hydro", x: 50, y: 65, label: "t2_area_hydro" },
+        { id: "bio", x: 50, y: 85, label: "t2_area_bio" },
+      ],
+    },
+    quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" },
+  },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
@@ -282,16 +309,49 @@ export const GEO_K8_POOL: PoolTopicDef[] = [
     bulletKeys: ["t3_h1", "t3_h2", "t3_h3"],
     interactive: {
       type: "drag-to-bucket",
-...
+      instruction: "t3_inst",
+      hint1: "t3_h1",
+      hint2: "t3_h2",
+      buckets: [
+        { id: "local", label: "t3_bucket_local" },
+        { id: "global", label: "t3_bucket_global" },
+      ],
+      items: [
+        { text: "t3_item_bread", bucketId: "local" },
+        { text: "t3_item_milk", bucketId: "local" },
+        { text: "t3_item_phone", bucketId: "global" },
+        { text: "t3_item_jeans", bucketId: "global" },
+      ],
+    },
+    quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" },
+  },
+  {
+    infoTitle: "t4_title",
+    infoText: "t4_text",
+    svg: { type: "simple-icon", icon: "🏙️", title: "Urbanization", bg: "#F0F9FF" },
+    bulletKeys: ["t4_h1", "t4_h2", "t4_h3"],
+    interactive: {
+      type: "word-order",
+      instruction: "t4_inst",
+      hint1: "t4_h1",
+      hint2: "t4_h3",
+      words: ["t4_w1", "t4_w2", "t4_w3", "t4_w4"],
+      correctOrder: [0, 1, 2, 3],
+    },
     quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" },
   },
   {
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "icon-grid", items: [{ emoji: "🚗", label: "Auto" }, { emoji: "🏭", label: "Fabrik" }, { emoji: "🥩", label: "Fleisch" }, { emoji: "💡", label: "Licht" }], bg: "#FEF2F2" },
+    svg: { type: "icon-grid", items: [{ emoji: "🌍" }, { emoji: "💨" }, { emoji: "🚗" }], bg: "#F1F5F9" },
     bulletKeys: ["t5_h1", "t5_h2", "t5_h3"],
     interactive: {
       type: "tap-count",
       instruction: "t5_inst",
       hint1: "t5_h1",
-...
+      hint2: "t5_h2",
+      tapCount: { emoji: "💨", count: 5 },
+    },
+    quiz: { question: "t5_q", choices: ["t5_qa", "t5_qb", "t5_qc", "t5_qd"], answer: "t5_qa" },
+  },
+];
