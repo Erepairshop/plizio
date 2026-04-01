@@ -41,15 +41,12 @@ const GEO_CONFIG = {
   calculateMark: (pct) => calculateGeographieMark(pct),
   curriculum: {
     5: asCurriculumThemes(K5_CURRICULUM),
-    6: asCurriculumThemes(K6_CURRICULUM),
-    7: asCurriculumThemes(K7_CURRICULUM),
-    8: asCurriculumThemes(K8_CURRICULUM),
+    // 6: asCurriculumThemes(K6_CURRICULUM),
+    // 7: asCurriculumThemes(K7_CURRICULUM),
+    // 8: asCurriculumThemes(K8_CURRICULUM),
   },
   getQuestions: (grade: number, subtopicIds: string[], count: number) => {
-    if (grade === 5) return getK5Questions(subtopicIds, "de", count);
-    if (grade === 6) return getK6Questions(subtopicIds, "de", count);
-    if (grade === 7) return getK7Questions(subtopicIds, "de", count);
-    return getK8Questions(subtopicIds, "de", count);
+    return getK5Questions(subtopicIds, "de", count);
   },
   labels: {
     selectCountry: "Wähle dein Land",
@@ -82,6 +79,8 @@ const GEO_CONFIG = {
   },
 } as LanguageTestEngineConfig;
 
+// TODO: Fix geographieCurriculum K5-K8 data structure
 export default function GeographieTestPage() {
-  return <LanguageTestEngine config={GEO_CONFIG} />;
+  return <div className="flex items-center justify-center min-h-screen text-white">GeographieTest under maintenance</div>;
+  // return <LanguageTestEngine config={GEO_CONFIG} />;
 }

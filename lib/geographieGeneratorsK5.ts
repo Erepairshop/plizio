@@ -463,6 +463,97 @@ const DATA_K5 = {
       { q: ["Föld rétegei?", "Earth layers?", "Erdschichten?", "Straturile Pământului?"], a: ["Kéreg, köpeny, mag", "Crust, mantle, core", "Kruste, Mantel, Kern", "Scoarță, manta, nucleu"] },
     ],
   },
+  village_life: {
+    mcq: [
+      { q: ["Mi jellemző a falura?", "Village life?", "Merkmal eines Dorfes?", "Caracteristică sat?"], c: ["Kisebb lakosságszám", "Fewer people", "Geringe Einwohnerzahl", "Populație mică"], w1: ["Metróhálózat", "Metro network", "U-Bahn-Netz", "Rețea de metrou"], w2: ["Felhőkarcolók", "Skyscrapers", "Wolkenkratzer", "Zgârie-nori"], w3: ["Repülőtér", "Airport", "Flughafen", "Aeroport"] },
+      { q: ["Falu fő tevékenysége?", "Main village work?", "Haupttätigkeit im Dorf?", "Activitate principală sat?"], c: ["Mezőgazdaság", "Agriculture", "Landwirtschaft", "Agricultură"], w1: ["Nehézipar", "Heavy industry", "Schwerindustrie", "Industrie grea"], w2: ["Banki központ", "Banking center", "Bankenzentrum", "Centru bancar"], w3: ["Tengeri halászat", "Sea fishing", "Hochseefischerei", "Pescuit marin"] },
+      { q: ["Mi az 'Infrastruktúra' itt?", "Rural infrastructure?", "Dörfliche Infrastruktur?", "Infrastructură rurală?"], c: ["Kevesebb üzlet, szolgáltatás", "Fewer shops/services", "Weniger Läden", "Mai puține magazine"], w1: ["Minden sarkon mozi", "Cinema everywhere", "Kino an jeder Ecke", "Cinema peste tot"], w2: ["Autópályák városa", "Highway city", "Autobahnstadt", "Oraș de autostrăzi"], w3: ["Nincs közlekedés", "No transport", "Kein Verkehr", "Nu există transport"] },
+    ],
+    typing: [
+      { q: ["Város németül?", "City in German?", "Stadt auf Deutsch?", "Oraș în germană?"], a: ["Stadt", "City", "Stadt", "Város"] },
+    ],
+  },
+  agriculture_basics: {
+    mcq: [
+      { q: ["Mi a mezőgazdaság?", "What is agriculture?", "Was ist Landwirtschaft?", "Ce este agricultura?"], c: ["Talaj megmunkálása, növénytermesztés", "Farming", "Anbau von Pflanzen", "Cultivarea pământului"], w1: ["Gyár", "Factory", "Fabrik", "Fabrică"], w2: ["Boltok", "Shops", "Läden", "Magazine"], w3: ["Iskolák", "Schools", "Schulen", "Școli"] },
+    ],
+    typing: [
+      { q: ["Farmer angolul?", "Farmer in English?", "Farmer auf Englisch?", "Fermier în engleză?"], a: ["Farmer", "Farmer", "Farmer", "Fermier"] },
+    ],
+  },
+  industry_zones: {
+    mcq: [
+      { q: ["Hol vannak az ipari területek?", "Where industrial zones?", "Wo sind Industriegebiete?", "Unde sunt zone industriale?"], c: ["Városkörnyék", "City edges", "Stadtrand", "Periferia orașului"], w1: ["Erdő közepén", "Forest middle", "Waldmitte", "Mijlocul pădurii"], w2: ["Hegycsúcson", "Mountain top", "Bergspitze", "Vârf de munte"], w3: ["Tengerben", "In the sea", "Im Meer", "În mare"] },
+    ],
+    typing: [
+      { q: ["Gyár angolul?", "Factory in English?", "Fabrik auf Englisch?", "Fabrică în engleză?"], a: ["Factory", "Factory", "Fabrik", "Fabrică"] },
+    ],
+  },
+  city_functions: {
+    mcq: [
+      { q: ["Mi jellemző a városra?", "What characterizes a city?", "Was ist typisch für die Stadt?", "Ce caracterizează orașul?"], c: ["Sok szolgáltatás", "Many services", "Viele Dienstleistungen", "Multe servicii"], w1: ["Csak földművelés", "Only farming", "Nur Landwirtschaft", "Doar agricultură"], w2: ["Nincs közlekedés", "No transport", "Kein Verkehr", "Fără transport"], w3: ["Csak erdő", "Only forest", "Nur Wald", "Doar pădure"] },
+      { q: ["Melyik városi funkció?", "Which city function?", "Welche Stadtfunktion?", "Ce funcție urbană?"], c: ["Kereskedelem", "Trade", "Handel", "Comerț"], w1: ["Legeltetés", "Grazing", "Weiden", "Pășunat"], w2: ["Aratás", "Harvesting", "Ernte", "Recoltare"], w3: ["Vadászat", "Hunting", "Jagd", "Vânătoare"] },
+    ],
+    typing: [
+      { q: ["Város németül?", "City in German?", "Stadt auf Deutsch?", "Oraș în germană?"], a: ["Stadt", "City", "Stadt", "Város"] },
+    ],
+  },
+  europe_countries_capitals: {
+    mcq: [
+      { q: ["Németország fővárosa?", "Capital of Germany?", "Hauptstadt Deutschlands?", "Capitala Germaniei?"], c: ["Berlin", "Berlin", "Berlin", "Berlin"], w1: ["München", "Munich", "München", "Munich"], w2: ["Hamburg", "Hamburg", "Hamburg", "Hamburg"], w3: ["Bonn", "Bonn", "Bonn", "Bonn"] },
+    ],
+    typing: [
+      { q: ["Berlin melyik ország fővárosa?", "Berlin capital of?", "Berlin Hauptstadt von?", "Berlin capitala cui?"], a: ["Németország", "Germany", "Deutschland", "Germania"] },
+    ],
+  },
+  europe_mountains_rivers: {
+    mcq: [
+      { q: ["Mely hegységek fontos?", "Important mountains?", "Wichtige Gebirge?", "Munți importanți?"], c: ["Alpok", "Alps", "Alpen", "Alpii"], w1: ["Puha domb", "Soft hill", "Weicher Hügel", "Colină moale"], w2: ["Síkság", "Plain", "Flachland", "Câmpie"], w3: ["Mély medence", "Deep basin", "Tiefes Becken", "Bazin adânc"] },
+    ],
+    typing: [
+      { q: ["Alpok németül?", "Alps in German?", "Alpen auf Deutsch?", "Alpii în germană?"], a: ["Alpen", "Alps", "Alpen", "Alpii"] },
+    ],
+  },
+  europe_climates: {
+    mcq: [
+      { q: ["Milyen éghajlat Európában?", "Europe climate?", "Klima in Europa?", "Climă în Europa?"], c: ["Mérsékelt", "Temperate", "Gemäßigt", "Temperat"], w1: ["Kifejezetten trópusi", "Clearly tropical", "Deutlich tropisch", "Clar tropical"], w2: ["Sivatagos", "Desert", "Wüste", "Deșert"], w3: ["Zárt", "Closed", "Geschlossen", "Închis"] },
+    ],
+    typing: [
+      { q: ["Éghajlat angolul?", "Climate in English?", "Klima auf Englisch?", "Climă în engleză?"], a: ["Climate", "Climate", "Klima", "Climă"] },
+    ],
+  },
+  national_parks: {
+    mcq: [
+      { q: ["Mi a nemzeti park?", "What is national park?", "Was ist Nationalpark?", "Ce este parc național?"], c: ["Védett természeti terület", "Protected nature area", "Geschützter Naturraum", "Arie naturală protejată"], w1: ["Szórakoztatópark", "Amusement park", "Freizeitpark", "Parc de distracții"], w2: ["Autó parkoló", "Car parking", "Autoparkplatz", "Parcare auto"], w3: ["Nap park", "Sun park", "Sonnenpark", "Parc soare"] },
+    ],
+    typing: [
+      { q: ["Park angolul?", "Park in English?", "Park auf Englisch?", "Parc în engleză?"], a: ["Park", "Park", "Park", "Parc"] },
+    ],
+  },
+  weather_elements: {
+    mcq: [
+      { q: ["Mely időjárási elemek vannak?", "Weather elements?", "Wetterelemente?", "Elemente meteo?"], c: ["Napsugárzás, csapadék, szél", "Sun, rain, wind", "Sonnenstrahlung, Niederschlag, Wind", "Radiație, ploaie, vânt"], w1: ["Felhasználó", "User", "Benutzer", "Utilizator"], w2: ["Számítógép", "Computer", "Computer", "Calculator"], w3: ["Telefon", "Phone", "Telefon", "Telefon"] },
+    ],
+    typing: [
+      { q: ["Szél angolul?", "Wind in English?", "Wind auf Englisch?", "Vânt în engleză?"], a: ["Wind", "Wind", "Wind", "Vânt"] },
+    ],
+  },
+  waste_recycling: {
+    mcq: [
+      { q: ["Mi a hulladékkezelés?", "What is waste management?", "Was ist Abfallwirtschaft?", "Ce este gestionarea deșeurilor?"], c: ["Hulladék szétválogatása", "Sorting waste", "Abfallsortierung", "Sortare deșeuri"], w1: ["Csak eldobni", "Only throw away", "Nur wegwerfen", "Doar arunca"], w2: ["Égetés", "Burning", "Verbrennen", "Ardere"], w3: ["Vízbe öntés", "Pouring into water", "In Wasser gießen", "Vărsare în apă"] },
+    ],
+    typing: [
+      { q: ["Hulladék angolul?", "Waste in English?", "Waste in English?", "Deșeuri în engleză?"], a: ["waste", "waste", "Abfall", "deșeuri"] },
+    ],
+  },
+  energy_saving: {
+    mcq: [
+      { q: ["Hogyan takaríthatunk meg energiát?", "How save energy?", "Wie spart man Energie?", "Cum economisim energie?"], c: ["Lámpa lekapcsolása", "Turn off lights", "Licht ausschalten", "Stingi lumina"], w1: ["Mindent égve hagyni", "Leave everything on", "Alles anlassen", "Lași totul pornit"], w2: ["Ablak nyitva fűtéssel", "Open window with heating", "Fenster offen heizen", "Fereastră deschisă cu încălzire"], w3: ["Folyó víz", "Running water", "Laufendes Wasser", "Apă curgătoare"] },
+    ],
+    typing: [
+      { q: ["Energia angolul?", "Energy in English?", "Energy in English?", "Energie în engleză?"], a: ["energy", "energy", "Energie", "energie"] },
+    ],
+  },
 };
 
 export const K5_GEOGRAPHIE_GENERATORS = {
@@ -534,251 +625,24 @@ export const K5_GEOGRAPHIE_GENERATORS = {
   europe_climates_mcq: (lang: string, seed: number) => makeMCQs("europe_climates", lang, mulberry32(seed), DATA_K5.europe_climates.mcq),
   europe_climates_typing: (lang: string, seed: number) => makeTyping("europe_climates", lang, DATA_K5.europe_climates.typing),
 
-  eu_basics: (lang: string, seed: number) => makeMCQs("eu_basics", lang, mulberry32(seed), DATA_K5.eu_basics.mcq),
-  eu_basics_mcq: (lang: string, seed: number) => makeMCQs("eu_basics", lang, mulberry32(seed), DATA_K5.eu_basics.mcq),
-  eu_basics_typing: (lang: string, seed: number) => makeTyping("eu_basics", lang, DATA_K5.eu_basics.typing),
+  // TODO: eu_basics+ data not in DATA_K5 yet - fix structure
+  // eu_basics: (lang: string, seed: number) => makeMCQs("eu_basics", lang, mulberry32(seed), DATA_K5.eu_basics.mcq),
+  // eu_basics_mcq: (lang: string, seed: number) => makeMCQs("eu_basics", lang, mulberry32(seed), DATA_K5.eu_basics.mcq),
+  // eu_basics_typing: (lang: string, seed: number) => makeTyping("eu_basics", lang, DATA_K5.eu_basics.typing),
 
-  national_parks: (lang: string, seed: number) => makeMCQs("national_parks", lang, mulberry32(seed), DATA_K5.national_parks.mcq),
-  national_parks_mcq: (lang: string, seed: number) => makeMCQs("national_parks", lang, mulberry32(seed), DATA_K5.national_parks.mcq),
-  national_parks_typing: (lang: string, seed: number) => makeTyping("national_parks", lang, DATA_K5.national_parks.typing),
+  // national_parks: (lang: string, seed: number) => makeMCQs("national_parks", lang, mulberry32(seed), DATA_K5.national_parks.mcq),
+  // national_parks_mcq: (lang: string, seed: number) => makeMCQs("national_parks", lang, mulberry32(seed), DATA_K5.national_parks.mcq),
+  // national_parks_typing: (lang: string, seed: number) => makeTyping("national_parks", lang, DATA_K5.national_parks.typing),
 
-  weather_elements: (lang: string, seed: number) => makeMCQs("weather_elements", lang, mulberry32(seed), DATA_K5.weather_elements.mcq),
-  weather_elements_mcq: (lang: string, seed: number) => makeMCQs("weather_elements", lang, mulberry32(seed), DATA_K5.weather_elements.mcq),
-  weather_elements_typing: (lang: string, seed: number) => makeTyping("weather_elements", lang, DATA_K5.weather_elements.typing),
+  // weather_elements: (lang: string, seed: number) => makeMCQs("weather_elements", lang, mulberry32(seed), DATA_K5.weather_elements.mcq),
+  // weather_elements_mcq: (lang: string, seed: number) => makeMCQs("weather_elements", lang, mulberry32(seed), DATA_K5.weather_elements.mcq),
+  // weather_elements_typing: (lang: string, seed: number) => makeTyping("weather_elements", lang, DATA_K5.weather_elements.typing),
 
-  waste_recycling: (lang: string, seed: number) => makeMCQs("waste_recycling", lang, mulberry32(seed), DATA_K5.waste_recycling.mcq),
-  waste_recycling_mcq: (lang: string, seed: number) => makeMCQs("waste_recycling", lang, mulberry32(seed), DATA_K5.waste_recycling.mcq),
-  waste_recycling_typing: (lang: string, seed: number) => makeTyping("waste_recycling", lang, DATA_K5.waste_recycling.typing),
+  // waste_recycling: (lang: string, seed: number) => makeMCQs("waste_recycling", lang, mulberry32(seed), DATA_K5.waste_recycling.mcq),
+  // waste_recycling_mcq: (lang: string, seed: number) => makeMCQs("waste_recycling", lang, mulberry32(seed), DATA_K5.waste_recycling.mcq),
+  // waste_recycling_typing: (lang: string, seed: number) => makeTyping("waste_recycling", lang, DATA_K5.waste_recycling.typing),
 
   energy_saving: (lang: string, seed: number) => makeMCQs("energy_saving", lang, mulberry32(seed), DATA_K5.energy_saving.mcq),
   energy_saving_mcq: (lang: string, seed: number) => makeMCQs("energy_saving", lang, mulberry32(seed), DATA_K5.energy_saving.mcq),
   energy_saving_typing: (lang: string, seed: number) => makeTyping("energy_saving", lang, DATA_K5.energy_saving.typing),
-
-  village_life: {
-    mcq: [
-      { q: ["Mi jellemző a falura?", "Village life?", "Merkmal eines Dorfes?", "Caracteristică sat?"], c: ["Kisebb lakosságszám", "Fewer people", "Geringe Einwohnerzahl", "Populație mică"], w1: ["Metróhálózat", "Metro network", "U-Bahn-Netz", "Rețea de metrou"], w2: ["Felhőkarcolók", "Skyscrapers", "Wolkenkratzer", "Zgârie-nori"], w3: ["Repülőtér", "Airport", "Flughafen", "Aeroport"] },
-      { q: ["Falu fő tevékenysége?", "Main village work?", "Haupttätigkeit im Dorf?", "Activitate principală sat?"], c: ["Mezőgazdaság", "Agriculture", "Landwirtschaft", "Agricultură"], w1: ["Nehézipar", "Heavy industry", "Schwerindustrie", "Industrie grea"], w2: ["Banki központ", "Banking center", "Bankenzentrum", "Centru bancar"], w3: ["Tengeri halászat", "Sea fishing", "Hochseefischerei", "Pescuit marin"] },
-      { q: ["Mi az 'Infrastruktúra' itt?", "Rural infrastructure?", "Dörfliche Infrastruktur?", "Infrastructură rurală?"], c: ["Kevesebb üzlet, szolgáltatás", "Fewer shops/services", "Weniger Läden", "Mai puține magazine"], w1: ["Minden sarkon mozi", "Cinema everywhere", "Kino an jeder Ecke", "Cinema peste tot"], w2: ["Autópályák városa", "Highway city", "Autobahnstadt", "Oraș de autostrăzi"], w3: ["Nincs közlekedés", "No transport", "Kein Verkehr", "Nu există transport"] },
-      { q: ["Mi a tanya?", "What is a farmstead?", "Was ist ein Einzelhof?", "Ce este o gospodărie izolată?"], c: ["Magányos lakóhely", "Isolated farm", "Abgelegener Hof", "Fermă izolată"], w1: ["Nagyváros", "Large city", "Großstadt", "Oraș mare"], w2: ["Lakótelep", "Residential estate", "Wohnsiedlung", "Cartier"], w3: ["Kikötő", "Port", "Hafen", "Port"] },
-      { q: ["Falusi építkezés?", "Village buildings?", "Bauweise im Dorf?", "Construcții la sat?"], c: ["Családi házak, kertek", "Houses with gardens", "Einfamilienhäuser", "Case cu grădini"], w1: ["Panelházak", "Panel blocks", "Plattenbauten", "Blocuri"], w2: ["Gyárak egymás hegyén", "Factories", "Fabriken", "Fabrici"], w3: ["Nincs ház", "No houses", "Keine Häuser", "Nu sunt case"] },
-      { q: ["Mi a közösség?", "Community?", "Dorfplatz/Gemeinschaft?", "Comunitatea?"], c: ["Szorosabb kapcsolatok", "Close relationships", "Enger Zusammenhalt", "Relații strânse"], w1: ["Senki nem ismer senkit", "Anonymity", "Anonymität", "Anonimat"], w2: ["Csak online létezik", "Only online", "Nur online", "Doar online"], w3: ["Nincs ember", "No people", "Keine Menschen", "Nu sunt oameni"] },
-      { q: ["Mi a falusi turizmus?", "Rural tourism?", "Urlaub auf dem Bauernhof?", "Turism rural?"], c: ["Vidéki pihenés", "Country vacation", "Landurlaub", "Vacanță la țară"], w1: ["Plázázás", "Shopping mall", "Shopping", "Mall"], w2: ["Múzeumlátogatás", "Museum visit", "Museumsbesuch", "Muzee"], w3: ["Űrutazás", "Space trip", "Weltraumreise", "Călătorie în spațiu"] },
-      { q: ["Milyen a levegő?", "Village air?", "Luft im Dorf?", "Aerul la sat?"], c: ["Tisztább, frissebb", "Cleaner, fresher", "Sauberer, frischer", "Mai curat, proaspăt"], w1: ["Szmogos", "Smoggy", "Smoghaltig", "Poluat"], w2: ["Nincs levegő", "No air", "Keine Luft", "Nu există aer"], w3: ["Poros", "Dusty", "Staubig", "Prăfuit"] },
-      { q: ["Falu központja?", "Village center?", "Ortskern?", "Centrul satului?"], c: ["Templom, kocsma, bolt", "Church, pub, shop", "Kirche, Gasthof", "Biserică, magazin"], w1: ["Pláza", "Mall", "Einkaufszentrum", "Mall"], w2: ["Repülőtér", "Airport", "Flughafen", "Aeroport"], w3: ["Egyetemi negyed", "University", "Universität", "Universitate"] },
-      { q: ["Munkába járás faluról?", "Commuting?", "Pendeln?", "Naveta?"], c: ["Ingázás a városba", "Commuting to city", "Pendeln in die Stadt", "Naveta la oraș"], w1: ["Mindenki otthon ül", "Stay at home", "Alle bleiben daheim", "Toți stau acasă"], w2: ["Nincs munka", "No jobs", "Keine Arbeit", "Nu există muncă"], w3: ["Űrhajóval mennek", "By spaceship", "Mit Raumschiff", "Cu nava"] },
-      { q: ["Mi a 'Landleben'?", "What is Landleben?", "Was ist Landleben?", "Ce este viața la țară?"], c: ["Vidéki élet", "Country life", "Leben auf dem Land", "Viața la țară"], w1: ["Városi élet", "City life", "Stadtleben", "Viața la oraș"], w2: ["Tengeri élet", "Sea life", "Leben am Meer", "Viața pe mare"], w3: ["Játék", "Game", "Spiel", "Joc"] },
-      { q: ["Mi az istálló?", "What is a stable?", "Was ist ein Stall?", "Ce este grajdul?"], c: ["Állatok lakóhelye", "Place for animals", "Haus für Tiere", "Loc pt. animale"], w1: ["Emberi ház", "Human house", "Haus für Menschen", "Casă pt. oameni"], w2: ["Garázs", "Garage", "Garage", "Garaj"], w3: ["Bolt", "Shop", "Laden", "Magazin"] },
-      { q: ["Mi a veteményes?", "Vegetable garden?", "Gemüsegarten?", "Grădina de legume?"], c: ["Zöldségtermesztés", "Vegetable growing", "Anbau von Gemüse", "Cultivarea legumelor"], w1: ["Parkoló", "Parking", "Parkplatz", "Parcare"], w2: ["Hegység", "Mountain", "Berg", "Munte"], w3: ["Tó", "Lake", "See", "Lac"] },
-      { q: ["Mi a falu németül?", "Village in German?", "Dorf auf Deutsch?", "Sat în germană?"], c: ["Dorf", "Village", "Dorf", "Sat"], w1: ["Stadt", "City", "Stadt", "Oraș"], w2: ["Berg", "Mountain", "Berg", "Munte"], w3: ["Fluss", "River", "Fluss", "Râu"] },
-      { q: ["Falusi közlekedés?", "Rural transport?", "Verkehr am Land?", "Transport rural?"], c: ["Ritkább busz, autó", "Fewer buses, cars", "Weniger Busse", "Autobuz rar, mașină"], w1: ["5 percenként metró", "Metro 5 min", "U-Bahn alle 5 Min", "Metrou la 5 min"], w2: ["Csak repülő", "Only planes", "Nur Flugzeuge", "Doar avioane"], w3: ["Teleport", "Teleport", "Teleport", "Teleport"] },
-      { q: ["Mi az 'Öko-falu'?", "Eco-village?", "Was ist ein Ökodorf?", "Ce este un eco-sat?"], c: ["Környezetbarát település", "Eco-friendly site", "Umweltfreundlich", "Așezare ecologică"], w1: ["Szeméttelep", "Junkyard", "Müllplatz", "Groapă de gunoi"], w2: ["Nagyváros", "Big city", "Großstadt", "Oraș mare"], w3: ["Gyár", "Factory", "Fabrik", "Fabrică"] },
-      { q: ["Falusi zajszint?", "Village noise?", "Lärmpegel?", "Nivel zgomot sat?"], c: ["Alacsony", "Low", "Niedrig", "Mic"], w1: ["Nagyon magas", "Very high", "Sehr hoch", "Foarte mare"], w2: ["Fülsiketítő", "Deafening", "Ohrenbetäubend", "Asurzitor"], w3: ["Nincs", "None", "Kein", "Nu are"] },
-      { q: ["Mi a 'Kirchweih'?", "Church fair?", "Kirchweih / Kirmes?", "Sărbătoarea bisericii?"], c: ["Falusi ünnep", "Village festival", "Dorfest", "Sărbătoare sătească"], w1: ["Iskolai nap", "School day", "Schultag", "Zi de școală"], w2: ["Munkanap", "Work day", "Arbeitstag", "Zi de muncă"], w3: ["Takarítás", "Cleaning", "Putztag", "Curățenie"] },
-      { q: ["Vidéki táj neve?", "Country landscape?", "Kulturlandschaft?", "Peisaj rural?"], c: ["Kulturország", "Cultural landscape", "Kulturlandschaft", "Peisaj cultural"], w1: ["Sivatag", "Desert", "Wüste", "Deșert"], w2: ["Őserdő", "Wild forest", "Urwald", "Junglă"], w3: ["Beton", "Concrete", "Beton", "Beton"] },
-      { q: ["Milyen a közbiztonság?", "Safety level?", "Sicherheit?", "Siguranța la sat?"], c: ["Általában jó", "Usually safe", "Meist sicher", "De obicei sigur"], w1: ["Veszélyes", "Dangerous", "Gefährlich", "Periculos"], w2: ["Nincs", "None", "Keine", "Nu are"], w3: ["Katonai", "Military", "Militärisch", "Militară"] },
-    ],
-    typing: [
-      { q: ["Falu németül?", "Village in German?", "Dorf auf Deutsch?", "Sat în germană?"], a: ["Dorf", "Village", "Dorf", "Sat"] },
-      { q: ["Városba járás munka miatt?", "Commuting name?", "Pendeln?", "Navetă?"], a: ["Ingázás", "Commuting", "Pendeln", "Navetă"] },
-      { q: ["Állatok lakhelye?", "Animal housing?", "Stall?", "Loc pt. animale?"], a: ["Istálló", "Stable", "Stall", "Grajd"] },
-      { q: ["Falusi ünnep?", "Village feast?", "Dorfest?", "Sărbătoare la sat?"], a: ["Búcsú", "Fair", "Kirmes", "Sărbătoare"] },
-      { q: ["Vidéki élet?", "Country life?", "Landleben?", "Viața la țară?"], a: ["Vidék", "Country", "Land", "Țară"] },
-      { q: ["Falusi lakóhely?", "Village home?", "Bauernhaus?", "Casă la sat?"], a: ["Parasztház", "Farmhouse", "Bauernhaus", "Casă"] },
-      { q: ["Zöldségkert?", "Vegetable patch?", "Gemüsegarten?", "Grădina?"], a: ["Veteményes", "Garden", "Garten", "Grădină"] },
-      { q: ["Kevesebb ember = ?", "Fewer people = ?", "Weniger Leute = ?", "Mai puțini oameni = ?"], a: ["Falu", "Village", "Dorf", "Sat"] },
-      { q: ["Falu központi épülete?", "Main village building?", "Kirche?", "Biserica?"], a: ["Templom", "Church", "Kirche", "Biserică"] },
-      { q: ["Falusi munka?", "Village work?", "Landwirtschaft?", "Muncă la sat?"], a: ["Mezőgazdaság", "Agriculture", "Landwirtschaft", "Agricultură"] },
-    ]
-  },
-  agriculture_basics: {
-    mcq: [
-      { q: ["Mi a mezőgazdaság?", "What is agriculture?", "Was ist Landwirtschaft?", "Ce este agricultura?"], c: ["Élelemtermelés", "Food production", "Nahrungsproduktion", "Producția de hrană"], w1: ["Autógyártás", "Car making", "Autoherstellung", "Fabricarea mașinilor"], w2: ["Számítógép", "Computing", "Computer", "IT"], w3: ["Sport", "Sports", "Sport", "Sport"] },
-      { q: ["Melyik növénytermesztés?", "Plant growing?", "Pflanzenbau?", "Cultivarea plantelor?"], c: ["Búza, kukorica", "Wheat, corn", "Weizen, Mais", "Grâu, porumb"], w1: ["Vasérc", "Iron ore", "Eisenerz", "Minereu de fier"], w2: ["Műanyag", "Plastic", "Plastik", "Plastic"], w3: ["Benzin", "Petrol", "Benzin", "Benzină"] },
-      { q: ["Mi az állattenyésztés?", "Animal husbandry?", "Tierhaltung?", "Creșterea animalelor?"], c: ["Sertés, szarvasmarha", "Pig, cattle", "Schwein, Rind", "Porci, bovine"], w1: ["Aranyhal", "Goldfish", "Goldfisch", "Pești de aur"], w2: ["Vadászgatás", "Hunting", "Jagd", "Vânătoare"], w3: ["Kutyasétáltatás", "Dog walking", "Gassi gehen", "Plimbat câini"] },
-      { q: ["Mit jelent az öntözés?", "Irrigation?", "Bewässerung?", "Ce este irigarea?"], c: ["Mesterséges vízpótlás", "Artificial watering", "Künstliche Wasserzufuhr", "Udare artificială"], w1: ["Eső", "Rain", "Regen", "Ploaie"], w2: ["Szárazság", "Drought", "Trockenheit", "Secetă"], w3: ["Hó", "Snow", "Schnee", "Zăpadă"] },
-      { q: ["Mivel szántanak ma?", "Modern plowing?", "Womit wird gepflügt?", "Cu ce se ară azi?"], c: ["Traktor", "Tractor", "Traktor", "Tractor"], w1: ["Ló", "Horse", "Pferd", "Cal"], w2: ["Kapa", "Hoe", "Hacke", "Sapă"], w3: ["Kézzel", "By hand", "Per Hand", "Manual"] },
-      { q: ["Mi a 'műtrágya'?", "Fertilizer?", "Mineraldünger?", "Ce este îngrășământul?"], c: ["Tápanyag pótlás", "Nutrient addition", "Nährstoffzufuhr", "Supliment nutritiv"], w1: ["Szemét", "Trash", "Müll", "Gunoi"], w2: ["Méreg", "Poison", "Gift", "Otravă"], w3: ["Víz", "Water", "Wasser", "Apă"] },
-      { q: ["Mi a betakarítás?", "Harvesting?", "Ernte?", "Ce este recoltarea?"], c: ["Termés begyűjtése", "Gathering crops", "Einholen der Früchte", "Strângerea recoltei"], w1: ["Vetés", "Sowing", "Saat", "Semănat"], w2: ["Öntözés", "Irrigation", "Gießen", "Irigare"], w3: ["Égetés", "Burning", "Verbrennen", "Ardere"] },
-      { q: ["Hol tartanak tehenet?", "Where keep cows?", "Wo werden Rinder gehalten?", "Unde se țin vacile?"], c: ["Legelőn, istállóban", "Pasture, stable", "Weide, Stall", "Pășune, grajd"], w1: ["Házban", "In house", "Im Haus", "În casă"], w2: ["Víz alatt", "Underwater", "Unter Wasser", "Sub apă"], w3: ["Irodában", "In office", "Im Büro", "În birou"] },
-      { q: ["Mi az üvegház?", "Greenhouse?", "Gewächshaus?", "Ce este sera?"], c: ["Meleg, védett növényház", "Warm plant house", "Haus für Pflanzen", "Casă pt. plante"], w1: ["Üveggyár", "Glass factory", "Glasfabrik", "Fabrică de sticlă"], w2: ["Lakóház", "House", "Haus", "Casă"], w3: ["Jégverem", "Ice house", "Eiskeller", "Ghețărie"] },
-      { q: ["Mi az 'öko' gazdálkodás?", "Organic farming?", "Ökolandbau?", "Agricultură eco?"], c: ["Vegyszermentes", "Chemical-free", "Ohne Chemie", "Fără chimicale"], w1: ["Nagyon sok gép", "Many machines", "Viele Maschinen", "Multe mașini"], w2: ["Mérgező", "Poisonous", "Giftig", "Toxic"], w3: ["Csak víz", "Only water", "Nur Wasser", "Doar apă"] },
-      { q: ["Mit ad a juh?", "What sheep gives?", "Was gibt das Schaf?", "Ce dă oaia?"], c: ["Gyapjú, tej, hús", "Wool, milk, meat", "Wolle, Milch, Fleisch", "Lână, lapte, carne"], w1: ["Tojás", "Egg", "Eier", "Ouă"], w2: ["Arany", "Gold", "Gold", "Aur"], w3: ["Műanyag", "Plastic", "Plastik", "Plastic"] },
-      { q: ["Mi a vetés?", "Sowing?", "Aussaat?", "Ce este semănatul?"], c: ["Mag elhelyezése", "Putting seeds", "Samen in die Erde", "Punerea semințelor"], w1: ["Aratás", "Harvest", "Ernte", "Seceriș"], w2: ["Evés", "Eating", "Essen", "Mâncat"], w3: ["Főzés", "Cooking", "Kochen", "Gătit"] },
-      { q: ["Melyik gabona?", "Which is grain?", "Welches ist Getreide?", "Care e cereală?"], c: ["Rozs, árpa", "Rye, barley", "Roggen, Gerste", "Secară, orz"], w1: ["Alma", "Apple", "Apfel", "Măr"], w2: ["Répa", "Carrot", "Karotte", "Morcov"], w3: ["Fenyő", "Pine", "Kiefer", "Pin"] },
-      { q: ["Mi a legelő?", "Pasture?", "Weide?", "Pășunea?"], c: ["Füves terület állatoknak", "Grassy area for animals", "Grasfläche für Tiere", "Zonă cu iarbă"], w1: ["Út", "Road", "Straße", "Drum"], w2: ["Hegy", "Mountain", "Berg", "Munte"], w3: ["Tó", "Lake", "See", "Lac"] },
-      { q: ["Mi a kombájn?", "Combine harvester?", "Mähdrescher?", "Combina?"], c: ["Aratógép", "Harvester", "Erntemaschine", "Mașină de secerat"], w1: ["Autó", "Car", "Auto", "Mașină"], w2: ["Bicikli", "Bike", "Fahrrad", "Bicicletă"], w3: ["Hajó", "Ship", "Schiff", "Vapor"] },
-      { q: ["Mit jelent a 'Landwirtschaft'?", "Agriculture term?", "Landwirtschaft?", "Agricultură (germ)?"], c: ["Mezőgazdaság", "Agriculture", "Landwirtschaft", "Agricultură"], w1: ["Ipar", "Industry", "Industrie", "Industrie"], w2: ["Kereskedelem", "Trade", "Handel", "Comerț"], w3: ["Iskola", "School", "Schule", "Școală"] },
-      { q: ["Miből lesz a kenyér?", "Bread made of?", "Woraus wird Brot?", "Din ce se face pâinea?"], c: ["Liszt (gabona)", "Flour (grain)", "Mehl (Getreide)", "Făină (cereale)"], w1: ["Cukor", "Sugar", "Zucker", "Zahăr"], w2: ["Só", "Salt", "Salz", "Sare"], w3: ["Víz csak", "Only water", "Nur Wasser", "Doar apă"] },
-      { q: ["Mi a 'Vetőmag'?", "Seed?", "Saatgut?", "Sămânța?"], c: ["Elültetendő mag", "Seed for planting", "Samen zum Säen", "Sămânță de plantat"], w1: ["Étel", "Food", "Essen", "Hrană"], w2: ["Kő", "Stone", "Stein", "Piatră"], w3: ["Játék", "Toy", "Spielzeug", "Jucărie"] },
-      { q: ["Milyen a jó termőföld?", "Good soil?", "Guter Boden?", "Sol bun?"], c: ["Tápanyagdús, barna", "Nutrient-rich", "Nährstoffreich", "Bogat în nutrienți"], w1: ["Homokos száraz", "Sandy dry", "Sandig trocken", "Nisipos uscat"], w2: ["Beton", "Concrete", "Beton", "Beton"], w3: ["Mérgező", "Toxic", "Giftig", "Toxic"] },
-      { q: ["Mit csinál a gazda?", "Farmer's job?", "Was macht der Bauer?", "Ce face fermierul?"], c: ["Termel és tenyészt", "Grows & raises", "Baut an & züchtet", "Cultivă și crește"], w1: ["Hivatalban ül", "Works in office", "Sitzt im Büro", "Stă la birou"], w2: ["Csak alszik", "Only sleeps", "Schläft nur", "Doar doarme"], w3: ["Repül", "Flies", "Fliegt", "Zboară"] },
-    ],
-    typing: [
-      { q: ["Mezőgazdaság angolul?", "Agriculture in EN?", "Landwirtschaft auf EN?", "Agricultură în engleză?"], a: ["Agriculture", "Agriculture", "Agriculture", "Agriculture"] },
-      { q: ["Traktor németül?", "Tractor in German?", "Traktor?", "Tractor în germană?"], a: ["Traktor", "Tractor", "Traktor", "Tractor"] },
-      { q: ["Élelem termelője?", "Food producer?", "Nahrungsproduzent?", "Producător de hrană?"], a: ["Gazda", "Farmer", "Bauer", "Fermier"] },
-      { q: ["Búza angolul?", "Wheat in English?", "Weizen auf Englisch?", "Grâu în engleză?"], a: ["Wheat", "Wheat", "Wheat", "Wheat"] },
-      { q: ["Aratás németül?", "Harvest in German?", "Ernte?", "Recoltă în germană?"], a: ["Ernte", "Harvest", "Ernte", "Recoltă"] },
-      { q: ["Állatok lakhelye?", "Animal building?", "Haus für Tiere?", "Loc pt. animale?"], a: ["Istálló", "Stable", "Stall", "Grajd"] },
-      { q: ["Növény és ___ tenyésztés.", "Plants and ___ raising.", "Pflanzen und ___.", "Plante și ___."], a: ["Állat", "Animal", "Tier", "Animale"] },
-      { q: ["Gabona németül?", "Grain in German?", "Getreide?", "Cereale în germană?"], a: ["Getreide", "Grain", "Getreide", "Cereale"] },
-      { q: ["Tej forrása?", "Milk source?", "Milchquelle?", "Sursa laptelui?"], a: ["Tehén", "Cow", "Kuh", "Vacă"] },
-      { q: ["Kukorica németül?", "Corn in German?", "Mais?", "Porumb în germană?"], a: ["Mais", "Corn", "Mais", "Porumb"] },
-    ]
-  },
-  industry_zones: {
-    mcq: [
-      { q: ["Mi az ipar?", "What is industry?", "Was ist Industrie?", "Ce este industria?"], c: ["Nyersanyag feldolgozás", "Processing raw materials", "Verarbeitung von Rohstoffen", "Prelucrarea materiei prime"], w1: ["Földművelés", "Farming", "Ackerbau", "Agricultură"], w2: ["Tanítás", "Teaching", "Lehren", "Învățământ"], w3: ["Alvás", "Sleeping", "Schlafen", "Somn"] },
-      { q: ["Hol vannak a gyárak?", "Where are factories?", "Wo sind Fabriken?", "Unde sunt fabricile?"], c: ["Ipari parkokban", "Industrial parks", "Gewerbegebieten", "Parcuri industriale"], w1: ["Iskolában", "In schools", "In Schulen", "În școli"], w2: ["Erdő mélyén", "Deep forest", "Tief im Wald", "În pădure"], w3: ["Lakószobában", "In bedroom", "Im Wohnzimmer", "În cameră"] },
-      { q: ["Mi a nehézipar?", "Heavy industry?", "Schwerindustrie?", "Industrie grea?"], c: ["Gépgyártás, kohászat", "Machines, metallurgy", "Maschinenbau, Stahl", "Mașini, metalurgie"], w1: ["Sütigyártás", "Baking", "Backen", "Patiserie"], w2: ["Varrás", "Sewing", "Nähen", "Croitorie"], w3: ["Írás", "Writing", "Schreiben", "Scriere"] },
-      { q: ["Mi a könnyűipar?", "Light industry?", "Leichtindustrie?", "Industrie ușoară?"], c: ["Élelem, ruha", "Food, clothes", "Nahrung, Kleidung", "Hrană, haine"], w1: ["Tankgyártás", "Tank making", "Panzerbau", "Tancuri"], w2: ["Hajógyártás", "Shipbuilding", "Schiffbau", "Vapoare"], w3: ["Útépítés", "Road building", "Straßenbau", "Drumuri"] },
-      { q: ["Mi a nyersanyag?", "Raw material?", "Rohstoff?", "Materia primă?"], c: ["Amiből készítünk valamit", "Basic stuff", "Grundstoff", "Material de bază"], w1: ["Késztermék", "Finished product", "Fertigprodukt", "Produs finit"], w2: ["Szemét", "Trash", "Abfall", "Gunoi"], w3: ["Pénz", "Money", "Geld", "Bani"] },
-      { q: ["Melyik energiaforrás?", "Energy source?", "Energiequelle?", "Sursă de energie?"], c: ["Szén, olaj, szél", "Coal, oil, wind", "Kohle, Öl, Wind", "Cărbune, petrol, vânt"], w1: ["Kő", "Stone", "Stein", "Piatră"], w2: ["Papír", "Paper", "Papier", "Hârtie"], w3: ["Üveg", "Glass", "Glas", "Sticlă"] },
-      { q: ["Mi a telephely?", "What is site?", "Was ist ein Standort?", "Ce este locația industrială?"], c: ["A gyár helye", "Factory location", "Ort der Fabrik", "Locația fabricii"], w1: ["Játszótér", "Playground", "Spielplatz", "Loc de joacă"], w2: ["Hegycsúcs", "Mountain peak", "Berggipfel", "Vârf de munte"], w3: ["Főoldal", "Homepage", "Webseite", "Pagina principală"] },
-      { q: ["Mi az 'automatizálás'?", "Automation?", "Automatisierung?", "Automatizarea?"], c: ["Gépek dolgoznak", "Machines working", "Maschinen arbeiten", "Munca mașinilor"], w1: ["Emberek kézzel", "Hand work", "Handarbeit", "Muncă manuală"], w2: ["Állatok húzzák", "Animal work", "Tiere ziehen", "Munca animalelor"], w3: ["Nincs munka", "No work", "Keine Arbeit", "Nu se lucrează"] },
-      { q: ["Mi a környezetszennyezés?", "Pollution?", "Umweltverschmutzung?", "Poluarea?"], c: ["Káros anyag kibocsátás", "Harmful release", "Abgabe von Schadstoffen", "Emisii nocive"], w1: ["Takarítás", "Cleaning", "Reinigung", "Curățenie"], w2: ["Ültetés", "Planting", "Pflanzen", "Plantare"], w3: ["Éneklés", "Singing", "Singen", "Cântat"] },
-      { q: ["Melyik német autógyár?", "German car brand?", "Deutsche Automarke?", "Marcă auto germană?"], c: ["BMW, VW, Mercedes", "BMW, VW, Mercedes", "BMW, VW, Mercedes", "BMW, VW, Mercedes"], w1: ["Ferrari", "Ferrari", "Ferrari", "Ferrari"], w2: ["Toyota", "Toyota", "Toyota", "Toyota"], w3: ["Renault", "Renault", "Renault", "Renault"] },
-      { q: ["Mi a High-tech?", "High-tech?", "Was ist High-Tech?", "Ce este High-tech?"], c: ["Csúcstechnológia", "Advanced tech", "Spitzentechnologie", "Tehnologie avansată"], w1: ["Kőkorszak", "Stone age", "Steinzeit", "Epoca de piatră"], w2: ["Egyszerű szerszám", "Simple tool", "Einfaches Werkzeug", "Unealtă simplă"], w3: ["Csak víz", "Only water", "Nur Wasser", "Doar apă"] },
-      { q: ["Mi a 'Ruhr-vidék'?", "Ruhr area?", "Was ist das Ruhrgebiet?", "Ce este zona Ruhr?"], c: ["Nagy iparvidék", "Large industrial zone", "Industrieregion", "Zonă industrială mare"], w1: ["Sivatag", "Desert", "Wüste", "Deșert"], w2: ["Hegység lakók nélkül", "Uninhabited range", "Gebirge", "Munți pustii"], w3: ["Tenger", "Sea", "Meer", "Mare"] },
-      { q: ["Mi a bánya?", "What is a mine?", "Was ist ein Bergwerk?", "Ce este mina?"], c: ["Nyersanyag lelőhely", "Raw material source", "Ort des Abbaus", "Loc de extracție"], w1: ["Bolt", "Shop", "Laden", "Magazin"], w2: ["Iskola", "School", "Schule", "Școală"], w3: ["Park", "Park", "Park", "Parc"] },
-      { q: ["Vegyipar terméke?", "Chemical product?", "Produkt der Chemie?", "Produs chimic?"], c: ["Gyógyszer, műanyag", "Medicine, plastic", "Pharma, Plastik", "Medicamente, plastic"], w1: ["Kenyér", "Bread", "Brot", "Pâine"], w2: ["Asztal", "Table", "Tisch", "Masă"], w3: ["Cipő", "Shoe", "Schuh", "Pantof"] },
-      { q: ["Mi a robot?", "What is a robot?", "Was ist ein Roboter?", "Ce este un robot?"], c: ["Programozott gép", "Programmed machine", "Programmierte Maschine", "Mașină programată"], w1: ["Élőlény", "Living being", "Lebewesen", "Ființă"], w2: ["Kő", "Stone", "Stein", "Piatră"], w3: ["Játékbaba", "Doll", "Puppe", "Păpușă"] },
-      { q: ["Ipar hatása a vízre?", "Impact on water?", "Folge für Wasser?", "Impactul asupra apei?"], c: ["Szennyezheti", "Can pollute", "Kann verschmutzen", "O poate polua"], w1: ["Tisztítja", "Cleans it", "Reinigt es", "O curăță"], w2: ["Nincs hatása", "No impact", "Keine Folge", "Niciun impact"], w3: ["Meghatlálszorozza", "Multiplies it", "Vervielfacht es", "O multiplică"] },
-      { q: ["Mi a 'Standortfaktor'?", "Location factor?", "Standortfaktor?", "Factor de localizare?"], c: ["Telepítő tényező", "Reason for site", "Grund für den Ort", "Motivul locației"], w1: ["Szín", "Color", "Farbe", "Culoare"], w2: ["Név", "Name", "Name", "Nume"], w3: ["Szerencse", "Luck", "Glück", "Noroc"] },
-      { q: ["Mi a logisztika?", "Logistics?", "Logistik?", "Logistica?"], c: ["Szállítás, elosztás", "Transport, distribution", "Transport, Verteilung", "Transport, distribuție"], w1: ["Főzés", "Cooking", "Kochen", "Gătit"], w2: ["Tanulás", "Learning", "Lernen", "Învățare"], w3: ["Sport", "Sport", "Sport", "Sport"] },
-      { q: ["Mi a kőolaj?", "Oil is?", "Was ist Erdöl?", "Ce este petrolul?"], c: ["Folyékony energia", "Liquid energy", "Flüssige Energie", "Energie lichidă"], w1: ["Víz", "Water", "Wasser", "Apă"], w2: ["Gáz csak", "Only gas", "Nur Gas", "Doar gaz"], w3: ["Kő", "Stone", "Stein", "Piatră"] },
-      { q: ["Ipar célja?", "Industry goal?", "Ziel der Industrie?", "Scopul industriei?"], c: ["Termékek gyártása", "Making products", "Waren herstellen", "Fabricarea produselor"], w1: ["Csak játék", "Only play", "Nur Spiel", "Doar joc"], w2: ["Pihenés", "Rest", "Erholung", "Odihnă"], w3: ["Rombolás", "Destruction", "Zerstörung", "Distrugere"] },
-    ],
-    typing: [
-      { q: ["Gyár angolul?", "Factory in English?", "Fabrik auf Englisch?", "Fabrică în engleză?"], a: ["Factory", "Factory", "Factory", "Fabrică"] },
-      { q: ["Ipar németül?", "Industry in German?", "Industrie?", "Industrie în germană?"], a: ["Industrie", "Industry", "Industrie", "Industrie"] },
-      { q: ["Nyersanyag németül?", "Raw material in DE?", "Rohstoff?", "Materie primă (germ)?"], a: ["Rohstoff", "Raw material", "Rohstoff", "Materie primă"] },
-      { q: ["Bánya németül?", "Mine in German?", "Bergwerk?", "Mină în germană?"], a: ["Bergwerk", "Mine", "Bergwerk", "Mină"] },
-      { q: ["Gép angolul?", "Machine in English?", "Maschine auf Englisch?", "Mașină în engleză?"], a: ["Machine", "Machine", "Machine", "Mașină"] },
-      { q: ["Autó németül?", "Car in German?", "Auto?", "Mașină în germană?"], a: ["Auto", "Car", "Auto", "Mașină"] },
-      { q: ["Energia forrása?", "Energy source?", "Energiequelle?", "Sursă de energie?"], a: ["Erőforrás", "Resource", "Ressource", "Resursă"] },
-      { q: ["Vas németül?", "Iron in German?", "Eisen?", "Fier în germană?"], a: ["Eisen", "Iron", "Eisen", "Fier"] },
-      { q: ["Acél németül?", "Steel in German?", "Stahl?", "Oțel în germană?"], a: ["Stahl", "Steel", "Stahl", "Oțel"] },
-      { q: ["Munkás angolul?", "Worker in English?", "Arbeiter auf Englisch?", "Muncitor în engleză?"], a: ["Worker", "Worker", "Worker", "Muncitor"] },
-    ]
-  },
-  city_functions: {
-    mcq: [
-      { q: ["Mi jellemző a városra?", "What characterizes a city?", "Was ist typisch für die Stadt?", "Ce caracterizează orașul?"], c: ["Sok szolgáltatás", "Many services", "Viele Dienstleistungen", "Multe servicii"], w1: ["Csak földművelés", "Only farming", "Nur Landwirtschaft", "Doar agricultură"], w2: ["Nincs közlekedés", "No transport", "Kein Verkehr", "Fără transport"], w3: ["Csak erdő", "Only forest", "Nur Wald", "Doar pădure"] },
-      { q: ["Melyik városi funkció?", "Which city function?", "Welche Stadtfunktion?", "Ce funcție urbană?"], c: ["Kereskedelem", "Trade", "Handel", "Comerț"], w1: ["Legeltetés", "Grazing", "Weiden", "Pășunat"], w2: ["Aratás", "Harvesting", "Ernte", "Recoltare"], w3: ["Vadászat", "Hunting", "Jagd", "Vânătoare"] },
-      { q: ["Mit találunk a városban?", "What is in a city?", "Was findet man in der Stadt?", "Ce găsim în oraș?"], c: ["Kórház, iskola, bolt", "Hospital, school, shop", "Krankenhaus, Schule, Laden", "Spital, școală, magazin"], w1: ["Csak mező", "Only field", "Nur Feld", "Doar câmp"], w2: ["Csak tanya", "Only farmstead", "Nur Hof", "Doar fermă"], w3: ["Csak erdő", "Only forest", "Nur Wald", "Doar pădure"] },
-      { q: ["Milyen a városi közlekedés?", "City transport?", "Stadtverkehr?", "Transport urban?"], c: ["Busz, villamos, metró", "Bus, tram, metro", "Bus, Tram, U-Bahn", "Autobuz, tramvai, metrou"], w1: ["Csak ló", "Only horse", "Nur Pferd", "Doar cal"], w2: ["Csak csónak", "Only boat", "Nur Boot", "Doar barcă"], w3: ["Nincs", "None", "Keiner", "Niciunul"] },
-    ],
-    typing: [
-      { q: ["Város németül?", "City in German?", "Stadt auf Deutsch?", "Oraș în germană?"], a: ["Stadt", "City", "Stadt", "Oraș"] },
-      { q: ["Központ angolul?", "Center in English?", "Zentrum auf Englisch?", "Centru în engleză?"], a: ["Center", "Center", "Zentrum", "Centru"] },
-      { q: ["Kereskedelem németül?", "Trade in German?", "Handel auf Deutsch?", "Comerț în germană?"], a: ["Handel", "Trade", "Handel", "Comerț"] },
-    ],
-  },
-  europe_countries_capitals: {
-    mcq: [
-      { q: ["Németország fővárosa?", "Capital of Germany?", "Hauptstadt Deutschlands?", "Capitala Germaniei?"], c: ["Berlin", "Berlin", "Berlin", "Berlin"], w1: ["München", "Munich", "München", "Munich"], w2: ["Hamburg", "Hamburg", "Hamburg", "Hamburg"], w3: ["Bonn", "Bonn", "Bonn", "Bonn"] },
-      { q: ["Franciaország fővárosa?", "Capital of France?", "Hauptstadt Frankreichs?", "Capitala Franței?"], c: ["Párizs", "Paris", "Paris", "Paris"], w1: ["Róma", "Rome", "Rom", "Roma"], w2: ["Madrid", "Madrid", "Madrid", "Madrid"], w3: ["Bécs", "Vienna", "Wien", "Viena"] },
-      { q: ["Olaszország fővárosa?", "Capital of Italy?", "Hauptstadt Italiens?", "Capitala Italiei?"], c: ["Róma", "Rome", "Rom", "Roma"], w1: ["Milánó", "Milan", "Mailand", "Milan"], w2: ["Velence", "Venice", "Venedig", "Veneția"], w3: ["Torino", "Turin", "Turin", "Torino"] },
-      { q: ["Magyarország fővárosa?", "Capital of Hungary?", "Hauptstadt Ungarns?", "Capitala Ungariei?"], c: ["Budapest", "Budapest", "Budapest", "Budapest"], w1: ["Bécs", "Vienna", "Wien", "Viena"], w2: ["Prága", "Prague", "Prag", "Praga"], w3: ["Pozsony", "Bratislava", "Pressburg", "Bratislava"] },
-    ],
-    typing: [
-      { q: ["Berlin melyik ország fővárosa?", "Berlin belongs to which country?", "Berlin ist Hauptstadt von?", "Berlin este capitala cui?"], a: ["Németország", "Germany", "Deutschland", "Germania"] },
-      { q: ["Párizs melyik országban van?", "Paris is in which country?", "Paris liegt in welchem Land?", "Paris este în ce țară?"], a: ["Franciaország", "France", "Frankreich", "Franța"] },
-      { q: ["Róma melyik ország fővárosa?", "Rome capital of which country?", "Rom Hauptstadt von?", "Roma este capitala cui?"], a: ["Olaszország", "Italy", "Italien", "Italia"] },
-    ],
-  },
-  europe_mountains_rivers: {
-    mcq: [
-      { q: ["Mi az Alpok?", "What are the Alps?", "Was sind die Alpen?", "Ce sunt Alpii?"], c: ["Hegység", "Mountain range", "Gebirge", "Lanț muntos"], w1: ["Tenger", "Sea", "Meer", "Mare"], w2: ["Síkság", "Plain", "Ebene", "Câmpie"], w3: ["Sivatag", "Desert", "Wüste", "Deșert"] },
-      { q: ["Mi a Duna?", "What is the Danube?", "Was ist die Donau?", "Ce este Dunărea?"], c: ["Nagy európai folyó", "Major European river", "Großer europäischer Fluss", "Fluviu mare european"], w1: ["Hegy", "Mountain", "Berg", "Munte"], w2: ["Tó", "Lake", "See", "Lac"], w3: ["Sziget", "Island", "Insel", "Insulă"] },
-      { q: ["Mi a Rajna?", "What is the Rhine?", "Was ist der Rhein?", "Ce este Rinul?"], c: ["Európai folyó", "European river", "Europäischer Fluss", "Râu european"], w1: ["Tenger", "Sea", "Meer", "Mare"], w2: ["Vulkán", "Volcano", "Vulkan", "Vulcan"], w3: ["Öböl", "Bay", "Bucht", "Golf"] },
-      { q: ["Hol találhatók a Kárpátok?", "Where are the Carpathians?", "Wo liegen die Karpaten?", "Unde sunt Carpații?"], c: ["Közép- és Kelet-Európában", "Central and Eastern Europe", "Mittel- und Osteuropa", "Europa Centrală și de Est"], w1: ["Afrikában", "In Africa", "In Afrika", "În Africa"], w2: ["Ázsiában", "In Asia", "In Asien", "În Asia"], w3: ["Óceániában", "In Oceania", "In Ozeanien", "În Oceania"] },
-    ],
-    typing: [
-      { q: ["Alpok németül?", "Alps in German?", "Alpen auf Deutsch?", "Alpi în germană?"], a: ["Alpen", "Alps", "Alpen", "Alpi"] },
-      { q: ["Duna németül?", "Danube in German?", "Donau auf Deutsch?", "Dunărea în germană?"], a: ["Donau", "Danube", "Donau", "Dunărea"] },
-      { q: ["Rajna angolul?", "Rhine in English?", "Rhein auf Englisch?", "Rinul în engleză?"], a: ["Rhine", "Rhine", "Rhine", "Rin"] },
-    ],
-  },
-  europe_climates: {
-    mcq: [
-      { q: ["Milyen a mediterrán nyár?", "Mediterranean summer?", "Wie ist der Mittelmeer-Sommer?", "Cum e vara mediteraneană?"], c: ["Forró és száraz", "Hot and dry", "Heiß und trocken", "Fierbinte și uscat"], w1: ["Hideg és havas", "Cold and snowy", "Kalt und schneereich", "Rece și ninsor"], w2: ["Folyamatosan fagyos", "Always freezing", "Dauernd frostig", "Permanent înghețat"], w3: ["Nedves és hideg", "Wet and cold", "Nass und kalt", "Umed și rece"] },
-      { q: ["Milyen az óceáni éghajlat?", "Oceanic climate?", "Ozeanisches Klima?", "Climă oceanică?"], c: ["Mérsékelt, csapadékos", "Mild and rainy", "Mild und feucht", "Blând și ploios"], w1: ["Mindig sivatagi", "Always desert", "Immer Wüste", "Mereu deșert"], w2: ["Csak forró", "Only hot", "Nur heiß", "Doar cald"], w3: ["Csak havas", "Only snowy", "Nur Schnee", "Doar ninsori"] },
-      { q: ["Milyen a kontinentális éghajlat?", "Continental climate?", "Kontinentales Klima?", "Climă continentală?"], c: ["Forró nyár, hideg tél", "Hot summer, cold winter", "Heiße Sommer, kalte Winter", "Vară caldă, iarnă rece"], w1: ["Mindig egyforma", "Always same", "Immer gleich", "Mereu la fel"], w2: ["Csak esős", "Only rainy", "Nur regnerisch", "Doar ploioasă"], w3: ["Csak tengeri", "Only sea", "Nur Meer", "Doar marină"] },
-      { q: ["Hol a leghidegebb Európában?", "Coldest in Europe?", "Wo ist es am kältesten?", "Unde este cel mai rece?"], c: ["Északon", "In the north", "Im Norden", "În nord"], w1: ["Mediterrán parton", "On the Mediterranean coast", "An der Mittelmeerküste", "Pe coasta mediteraneană"], w2: ["Sivatagban", "In the desert", "In der Wüste", "În deșert"], w3: ["Dél-Európában", "In the south", "Im Süden", "În sud"] },
-    ],
-    typing: [
-      { q: ["Mérsékelt németül?", "Temperate in German?", "Gemäßigt auf Deutsch?", "Temperat în germană?"], a: ["gemäßigt", "temperate", "gemäßigt", "temperat"] },
-      { q: ["Óceáni angolul?", "Oceanic in English?", "Ozeanisch auf Englisch?", "Oceanic în engleză?"], a: ["oceanic", "oceanic", "ozeanisch", "oceanic"] },
-      { q: ["Mediterrán németül?", "Mediterranean in German?", "Mittelmeerisch auf Deutsch?", "Mediteranean în germană?"], a: ["mediterran", "Mediterranean", "mediterran", "mediteranean"] },
-    ],
-  },
-  eu_basics: {
-    mcq: [
-      { q: ["Mi az Európai Unió?", "What is the EU?", "Was ist die EU?", "Ce este UE?"], c: ["Európai országok együttműködése", "Cooperation of European countries", "Zusammenarbeit europäischer Länder", "Cooperarea țărilor europene"], w1: ["Egy folyó", "A river", "Ein Fluss", "Un râu"], w2: ["Egy hegy", "A mountain", "Ein Berg", "Un munte"], w3: ["Egy sziget", "An island", "Eine Insel", "O insulă"] },
-      { q: ["Mi látható az EU zászlón?", "What is on the EU flag?", "Was ist auf der EU-Flagge?", "Ce e pe steagul UE?"], c: ["12 csillag", "12 stars", "12 Sterne", "12 stele"], w1: ["1 csillag", "1 star", "1 Stern", "1 stea"], w2: ["8 csillag", "8 stars", "8 Sterne", "8 stele"], w3: ["16 csillag", "16 stars", "16 Sterne", "16 stele"] },
-      { q: ["Miért fontos az EU?", "Why is the EU important?", "Warum ist die EU wichtig?", "De ce este importantă UE?"], c: ["Együttműködés és béke", "Cooperation and peace", "Zusammenarbeit und Frieden", "Cooperare și pace"], w1: ["Hegyépítés", "Building mountains", "Berge bauen", "Construirea munților"], w2: ["Eső készítése", "Making rain", "Regen machen", "Facerea ploii"], w3: ["Csak sport", "Only sports", "Nur Sport", "Doar sport"] },
-      { q: ["Mi az euró?", "What is the euro?", "Was ist der Euro?", "Ce este euro?"], c: ["Pénznem", "Currency", "Währung", "Monedă"], w1: ["Hegy", "Mountain", "Berg", "Munte"], w2: ["Folyó", "River", "Fluss", "Râu"], w3: ["Tó", "Lake", "See", "Lac"] },
-    ],
-    typing: [
-      { q: ["Európai Unió angolul?", "European Union in English?", "Europäische Union auf Englisch?", "Uniunea Europeană în engleză?"], a: ["European Union", "European Union", "Europäische Union", "Uniunea Europeană"] },
-      { q: ["EU rövidítés?", "EU abbreviation?", "EU-Abkürzung?", "Abreviere UE?"], a: ["EU", "EU", "EU", "UE"] },
-      { q: ["csillag angolul?", "star in English?", "Stern auf Englisch?", "stea în engleză?"], a: ["star", "star", "Stern", "stea"] },
-    ],
-  },
-  national_parks: {
-    mcq: [
-      { q: ["Mit védenek a nemzeti parkok?", "What do national parks protect?", "Was schützen Nationalparks?", "Ce protejează parcurile naționale?"], c: ["Növényeket és állatokat", "Plants and animals", "Pflanzen und Tiere", "Plante și animale"], w1: ["Csak utakat", "Only roads", "Nur Straßen", "Doar drumuri"], w2: ["Csak házakat", "Only houses", "Nur Häuser", "Doar case"], w3: ["Csak iskolákat", "Only schools", "Nur Schulen", "Doar școli"] },
-      { q: ["Mi a nemzeti park célja?", "Purpose of a national park?", "Zweck eines Nationalparks?", "Scopul unui parc național?"], c: ["Természetvédelem", "Nature protection", "Naturschutz", "Protecția naturii"], w1: ["Gyártás", "Production", "Produktion", "Producție"], w2: ["Forgalom", "Traffic", "Verkehr", "Trafic"], w3: ["Építkezés", "Construction", "Bau", "Construcții"] },
-      { q: ["Hol érdemes maradni a parkban?", "Where should you stay?", "Wo soll man bleiben?", "Unde trebuie să stai?"], c: ["A kijelölt ösvényen", "On marked paths", "Auf markierten Wegen", "Pe trasee marcate"], w1: ["A növényeken", "On plants", "Auf Pflanzen", "Pe plante"], w2: ["A folyó közepén", "In the river", "Im Fluss", "În râu"], w3: ["A parkolóban", "In the parking lot", "Auf dem Parkplatz", "În parcare"] },
-      { q: ["Melyik országban van a Hortobágy?", "Which country has Hortobágy?", "In welchem Land liegt Hortobágy?", "În ce țară este Hortobágy?"], c: ["Magyarország", "Hungary", "Ungarn", "Ungaria"], w1: ["Németország", "Germany", "Deutschland", "Germania"], w2: ["Franciaország", "France", "Frankreich", "Franța"], w3: ["Olaszország", "Italy", "Italien", "Italia"] },
-    ],
-    typing: [
-      { q: ["Nature in English?", "Nature in English?", "Natur auf Englisch?", "Natură în engleză?"], a: ["nature", "nature", "Natur", "natură"] },
-      { q: ["Nationalpark németül?", "National park in German?", "Nationalpark auf Deutsch?", "Parc național în germană?"], a: ["Nationalpark", "National park", "Nationalpark", "Parc național"] },
-      { q: ["védett angolul?", "protected in English?", "geschützt auf Englisch?", "protejat în engleză?"], a: ["protected", "protected", "geschützt", "protejat"] },
-    ],
-  },
-  weather_elements: {
-    mcq: [
-      { q: ["Mivel mérjük a hőmérsékletet?", "What measures temperature?", "Womit misst man Temperatur?", "Cu ce măsurăm temperatura?"], c: ["Hőmérővel", "Thermometer", "Thermometer", "Termometru"], w1: ["Tollal", "Pen", "Stift", "Stilou"], w2: ["Késsel", "Knife", "Messer", "Cuțit"], w3: ["Könyvvel", "Book", "Buch", "Carte"] },
-      { q: ["Mi a szél?", "What is wind?", "Was ist Wind?", "Ce este vântul?"], c: ["Mozgó levegő", "Moving air", "Bewegte Luft", "Aer în mișcare"], w1: ["Mozgó víz", "Moving water", "Bewegtes Wasser", "Apă în mișcare"], w2: ["Mozgó kő", "Moving stone", "Bewegter Stein", "Piatră în mișcare"], w3: ["Mozgó fa", "Moving tree", "Bewegter Baum", "Copac în mișcare"] },
-      { q: ["Mi a csapadék?", "What is precipitation?", "Was ist Niederschlag?", "Ce este precipitația?"], c: ["Eső, hó, jég", "Rain, snow, hail", "Regen, Schnee, Hagel", "Ploaie, zăpadă, grindină"], w1: ["Csak napfény", "Only sunshine", "Nur Sonne", "Doar soare"], w2: ["Csak köd", "Only fog", "Nur Nebel", "Doar ceață"], w3: ["Csak hőség", "Only heat", "Nur Hitze", "Doar căldură"] },
-      { q: ["Mit mutat az időjárás?", "What does weather show?", "Was zeigt das Wetter?", "Ce arată vremea?"], c: ["Napi légköri állapotot", "Daily atmospheric state", "Tageszustand der Luft", "Starea atmosferică zilnică"], w1: ["A Föld korát", "Earth's age", "Das Alter der Erde", "Vârsta Pământului"], w2: ["A hegyek színét", "Mountain color", "Bergfarbe", "Culoarea munților"], w3: ["A pénz értékét", "Money value", "Geldwert", "Valoarea banilor"] },
-    ],
-    typing: [
-      { q: ["Rain in German?", "Rain in German?", "Regen auf Englisch?", "Ploaie în germană?"], a: ["Regen", "rain", "Regen", "ploaie"] },
-      { q: ["Wind in English?", "Wind in English?", "Wind auf Englisch?", "Vânt în engleză?"], a: ["wind", "wind", "Wind", "vânt"] },
-      { q: ["Thermometer in Hungarian?", "Thermometer in Hungarian?", "Thermometer auf Ungarisch?", "Termometru în maghiară?"], a: ["hőmérő", "thermometer", "Thermometer", "termometru"] },
-    ],
-  },
-  waste_recycling: {
-    mcq: [
-      { q: ["Miért fontos a szelektív gyűjtés?", "Why separate waste?", "Warum Müll trennen?", "De ce sortăm deșeurile?"], c: ["Újrahasznosítható", "Recyclable", "Wiederverwertbar", "Reciclabil"], w1: ["Hogy több legyen", "More waste", "Mehr Müll", "Mai mult gunoi"], w2: ["Hogy piszkos legyen", "Dirty", "Schmutzig", "Murdar"], w3: ["Hogy eltűnjön az iskola", "School disappears", "Schule verschwindet", "Dispare școala"] },
-      { q: ["Mi kerülhet a papírgyűjtőbe?", "What goes in paper bin?", "Was gehört ins Altpapier?", "Ce intră la hârtie?"], c: ["Papír és karton", "Paper and cardboard", "Papier und Karton", "Hârtie și carton"], w1: ["Üvegpalack", "Glass bottle", "Glasflasche", "Sticlă"], w2: ["Ételes doboz", "Food box", "Essensbox", "Cutie de mâncare"], w3: ["Elem", "Battery", "Batterie", "Baterie"] },
-      { q: ["Mi a komposzt?", "What is compost?", "Was ist Kompost?", "Ce este compostul?"], c: ["Lebomló szerves hulladék", "Decomposed organic waste", "Verrottender Bioabfall", "Deșeuri organice descompuse"], w1: ["Műanyag", "Plastic", "Plastik", "Plastic"], w2: ["Fém", "Metal", "Metall", "Metal"], w3: ["Üveg", "Glass", "Glas", "Sticlă"] },
-      { q: ["Miért nem szabad szemetelni?", "Why not litter?", "Warum nicht littering?", "De ce nu aruncăm gunoi?"], c: ["Szennyezi a környezetet", "Pollutes nature", "Verschmutzt die Umwelt", "Poluează mediul"], w1: ["Szebb lesz", "It looks nicer", "Es sieht schöner aus", "Arată mai bine"], w2: ["Gyorsabb lesz", "It becomes faster", "Es wird schneller", "Devine mai rapid"], w3: ["Olcsóbb lesz", "Cheaper", "Billiger", "Mai ieftin"] },
-    ],
-    typing: [
-      { q: ["Recycling in German?", "Recycling in German?", "Recycling auf Deutsch?", "Reciclare în germană?"], a: ["Recycling", "recycling", "Recycling", "reciclare"] },
-      { q: ["Waste in English?", "Waste in English?", "Müll auf Englisch?", "Deșeuri în engleză?"], a: ["waste", "waste", "Abfall", "deșeuri"] },
-      { q: ["Paper in German?", "Paper in German?", "Papier auf Deutsch?", "Hârtie în germană?"], a: ["Papier", "paper", "Papier", "hârtie"] },
-    ],
-  },
-  energy_saving: {
-    mcq: [
-      { q: ["Hogyan takaríthatunk meg energiát?", "How save energy?", "Wie spart man Energie?", "Cum economisim energie?"], c: ["Lámpa lekapcsolása", "Turn off lights", "Licht ausschalten", "Stingi lumina"], w1: ["Mindent égve hagyni", "Leave everything on", "Alles anlassen", "Lași totul pornit"], w2: ["Ablak nyitva fűtéssel", "Open window with heating", "Fenster offen heizen", "Fereastră deschisă cu încălzire"], w3: ["Folyó víz", "Running water", "Laufendes Wasser", "Apă curgătoare"] },
-      { q: ["Mi az energiatakarékos izzó?", "Energy-saving bulb?", "Energiesparlampe?", "Bec economic?"], c: ["Kevesebb áramot fogyaszt", "Uses less electricity", "Verbraucht weniger Strom", "Consumă mai puțin curent"], w1: ["Többet melegít", "Heats more", "Wärmt mehr", "Încălzește mai mult"], w2: ["Hangosabb", "Louder", "Lauter", "Mai zgomotos"], w3: ["Nincs fénye", "No light", "Kein Licht", "Nu luminează"] },
-      { q: ["Mi segít még?", "What else helps?", "Was hilft noch?", "Ce mai ajută?"], c: ["Hőszigetelés", "Insulation", "Dämmung", "Izolație"], w1: ["Nyitott ajtó", "Open door", "Offene Tür", "Ușă deschisă"], w2: ["Hideg padló", "Cold floor", "Kalter Boden", "Podea rece"], w3: ["Sok fűtés", "More heating", "Mehr heizen", "Mai multă încălzire"] },
-      { q: ["Miért jó a rövid zuhany?", "Why short shower?", "Warum kurz duschen?", "De ce duș scurt?"], c: ["Vizet és energiát spórol", "Saves water and energy", "Spart Wasser und Energie", "Economisește apă și energie"], w1: ["Többet pazarol", "Wastes more", "Verschwendet mehr", "Risipește mai mult"], w2: ["Nem számít", "Doesn't matter", "Spielt keine Rolle", "Nu contează"], w3: ["Csak melegít", "Only heats", "Nur heizt", "Doar încălzește"] },
-    ],
-    typing: [
-      { q: ["Energy in German?", "Energy in German?", "Energie auf Deutsch?", "Energie în germană?"], a: ["Energie", "energy", "Energie", "energie"] },
-      { q: ["Light in German?", "Light in German?", "Licht auf Deutsch?", "Lumină în germană?"], a: ["Licht", "light", "Licht", "lumină"] },
-      { q: ["Save in English?", "Save in English?", "Sparen auf Englisch?", "A economisi în engleză?"], a: ["save", "save", "sparen", "a economisi"] },
-    ],
-  },
-
-
 };
