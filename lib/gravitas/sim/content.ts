@@ -502,6 +502,18 @@ export const GRAVITAS_TEXT = {
         }
       }
     },
+    phaseEcho: {
+      title: { en: "Phase echo", hu: "Fázis-visszhang", de: "Phasen-Echo", ro: "Ecou de fază" },
+    },
+    signalDrift: {
+      title: { en: "Signal drift", hu: "Jeleltolódás", de: "Signaldrift", ro: "Derivă de semnal" },
+      body: {
+        en: "Something is pulling the station's signal grid sideways. Trace the source or mute it before it spreads.",
+        hu: "Valami oldalra húzza az állomás jelhálóját. Kövesd a forrást, vagy némítsd el, mielőtt elterjed.",
+        de: "Etwas zieht das Signalnetz der Station seitwärts. Quelle verfolgen oder dämpfen, bevor es sich ausbreitet.",
+        ro: "Ceva trage rețeaua de semnale a stației lateral. Urmărește sursa sau amuțește-o înainte să se răspândească."
+      },
+    },
     emergencyOverride: {
       step1: {
         title: { en: "EMERGENCY OVERRIDE", hu: "KÉZI FELÜLBÍRÁLÁS", de: "NOTFALL-OVERRIDE", ro: "SUPRASCRIERE DE URGENȚĂ" },
