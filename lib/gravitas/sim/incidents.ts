@@ -1,0 +1,476 @@
+import type { StarholdIncidentDefinition, StarholdModuleId } from "./types";
+
+function byModule(moduleId: StarholdModuleId) {
+  return (incident: StarholdIncidentDefinition) => incident.moduleId === moduleId;
+}
+
+export const CONTINUATION_INCIDENTS: StarholdIncidentDefinition[] = [
+  {
+    id: "reactor_cable_fault",
+    moduleId: "reactor",
+    severity: 1,
+    title: {
+      en: "Cable fault",
+      hu: "Vezetékszakadás",
+      de: "Leitungsfehler",
+      ro: "Defect de cablu",
+    },
+    summary: {
+      en: "One of the primary reactor lines burned out. Output stutters until the conduit is repaired.",
+      hu: "Az egyik elsődleges reaktorvezeték kiégett. A kimenet ingadozik, amíg a vezeték helyre nem áll.",
+      de: "Eine Primärleitung des Reaktors ist ausgefallen. Die Leistung schwankt bis zur Reparatur.",
+      ro: "Una dintre liniile primare ale reactorului s-a ars. Ieșirea fluctuează până la reparare.",
+    },
+    effects: {
+      power: -20,
+      stability: -8,
+      moduleIntegrity: -12,
+    },
+    fixHint: {
+      en: "Repair the reactor line to restore stable output.",
+      hu: "Javítsd meg a reaktorvonalat a stabil teljesítményhez.",
+      de: "Repariere die Reaktorleitung, um stabile Leistung wiederherzustellen.",
+      ro: "Repară linia reactorului pentru a restabili ieșirea stabilă.",
+    },
+  },
+  {
+    id: "reactor_cooling_pocket",
+    moduleId: "reactor",
+    severity: 2,
+    title: {
+      en: "Cooling pocket",
+      hu: "Hűtési torlódás",
+      de: "Kühlstau",
+      ro: "Blocaj de răcire",
+    },
+    summary: {
+      en: "Heat is collecting inside the reactor pocket and starts bleeding into the frame.",
+      hu: "A hő a reaktorzsebbe szorult, és elkezd átszivárogni a vázba.",
+      de: "Hitze staut sich in der Reaktorkammer und dringt in den Rahmen.",
+      ro: "Căldura se adună în compartimentul reactorului și pătrunde în cadru.",
+    },
+    effects: {
+      stability: -18,
+      power: -10,
+      moduleIntegrity: -15,
+    },
+    fixHint: {
+      en: "Vent and stabilize the reactor before the frame starts to buckle.",
+      hu: "Szellőztesd ki és stabilizáld a reaktort, mielőtt a váz meghajlik.",
+      de: "Entlüfte und stabilisiere den Reaktor, bevor sich der Rahmen verzieht.",
+      ro: "Ventilează și stabilizează reactorul înainte ca structura să cedeze.",
+    },
+  },
+  {
+    id: "reactor_flux_spike",
+    moduleId: "reactor",
+    severity: 2,
+    title: {
+      en: "Flux spike",
+      hu: "Fluxustüske",
+      de: "Fluxspitze",
+      ro: "Vârf de flux",
+    },
+    summary: {
+      en: "The reactor core surges in short bursts, overfeeding some circuits and starving others.",
+      hu: "A reaktormag rövid lökésekkel túltölti egyes köröket, másokat pedig éheztet.",
+      de: "Der Reaktorkern stößt in kurzen Schüben aus und überlädt manche Kreise.",
+      ro: "Nucleul reactorului pulsează în rafale scurte și supraîncarcă unele circuite.",
+    },
+    effects: {
+      power: -16,
+      stability: -12,
+      entropy: 6,
+      moduleIntegrity: -10,
+    },
+    fixHint: {
+      en: "Reactor recalibration will flatten the spikes and calm the grid.",
+      hu: "A reaktor újrakalibrálása kisimítja a tüskéket és megnyugtatja a hálót.",
+      de: "Eine Neukalibrierung des Reaktors glättet die Spitzen und beruhigt das Netz.",
+      ro: "Recalibrarea reactorului va netezi vârfurile și va calma rețeaua.",
+    },
+  },
+  {
+    id: "reactor_containment_warp",
+    moduleId: "reactor",
+    severity: 3,
+    title: {
+      en: "Containment warp",
+      hu: "Konténment torzulás",
+      de: "Containment-Verzug",
+      ro: "Deformare de containere",
+    },
+    summary: {
+      en: "Containment braces have shifted and the reactor is pushing against its own shell.",
+      hu: "A konténment merevítései elmozdultak, a reaktor saját burkának feszül.",
+      de: "Die Halteverstrebungen sind verrutscht und der Reaktor drückt gegen seine Hülle.",
+      ro: "Suporturile de containere s-au deplasat, iar reactorul apasă pe propria carcasă.",
+    },
+    effects: {
+      stability: -24,
+      power: -14,
+      entropy: 8,
+      moduleIntegrity: -20,
+    },
+    fixHint: {
+      en: "Immediate reactor repair is required before containment fails.",
+      hu: "Azonnali reaktorjavítás kell, mielőtt a konténment feladja.",
+      de: "Sofortige Reaktorreparatur nötig, bevor das Containment versagt.",
+      ro: "Este necesară o reparație imediată a reactorului înainte de cedarea containmentului.",
+    },
+  },
+
+  {
+    id: "core_memory_tremor",
+    moduleId: "core",
+    severity: 1,
+    title: {
+      en: "Memory tremor",
+      hu: "Memóriaremegés",
+      de: "Speicherzittern",
+      ro: "Tremur de memorie",
+    },
+    summary: {
+      en: "The core archive is jittering and introducing small command delays.",
+      hu: "A magarchívum remeg, és kis parancskéséseket okoz.",
+      de: "Das Kernarchiv zittert und verursacht kleine Befehlsverzögerungen.",
+      ro: "Arhiva nucleului tremură și introduce mici întârzieri în comenzi.",
+    },
+    effects: {
+      stability: -6,
+      entropy: 5,
+      moduleIntegrity: -8,
+    },
+    fixHint: {
+      en: "A core reset pulse will settle the archive and stop the drift.",
+      hu: "Egy mag-reset impulzus lenyugtatja az archívumot és megállítja az eltérést.",
+      de: "Ein Kern-Reset-Impuls beruhigt das Archiv und stoppt die Drift.",
+      ro: "Un impuls de resetare a nucleului va stabiliza arhiva și va opri deriva.",
+    },
+  },
+  {
+    id: "core_shell_fracture",
+    moduleId: "core",
+    severity: 3,
+    title: {
+      en: "Shell fracture",
+      hu: "Burokrepedés",
+      de: "Hüllenriss",
+      ro: "Fisură în carcasă",
+    },
+    summary: {
+      en: "A fracture line has opened around the core chamber and stresses the station frame.",
+      hu: "Repedés nyílt a magkamra körül, és feszíti az állomásvázat.",
+      de: "Ein Riss an der Kernkammer belastet den Stationsrahmen.",
+      ro: "O fisură s-a deschis în jurul camerei nucleului și tensionează structura stației.",
+    },
+    effects: {
+      stability: -22,
+      entropy: 10,
+      moduleIntegrity: -18,
+    },
+    fixHint: {
+      en: "Seal the core shell and reinforce the chamber before strain spreads.",
+      hu: "Zárd le a magburkot és erősítsd meg a kamrát, mielőtt továbbterjed a feszülés.",
+      de: "Versiegle die Kernhülle und verstärke die Kammer, bevor sich die Spannung ausbreitet.",
+      ro: "Sigilează carcasa nucleului și întărește camera înainte ca tensiunea să se răspândească.",
+    },
+  },
+  {
+    id: "core_sync_drift",
+    moduleId: "core",
+    severity: 2,
+    title: {
+      en: "Sync drift",
+      hu: "Szinkroneltérés",
+      de: "Synchronisationsdrift",
+      ro: "Derivă de sincronizare",
+    },
+    summary: {
+      en: "The core has drifted a few degrees off phase and the whole station starts to feel it.",
+      hu: "A mag néhány fokkal kifordult a fázisból, ezt az egész állomás megérzi.",
+      de: "Der Kern ist leicht aus der Phase geraten und die ganze Station spürt es.",
+      ro: "Nucleul a ieșit ușor din fază și întreaga stație simte asta.",
+    },
+    effects: {
+      stability: -14,
+      entropy: 12,
+      moduleIntegrity: -10,
+    },
+    fixHint: {
+      en: "Re-align the core to bring the station back into phase.",
+      hu: "Igazítsd újra a magot, hogy az állomás visszatérjen fázisba.",
+      de: "Richte den Kern neu aus, damit die Station wieder in Phase kommt.",
+      ro: "Realiniază nucleul pentru a readuce stația în fază.",
+    },
+  },
+  {
+    id: "core_chamber_overheat",
+    moduleId: "core",
+    severity: 2,
+    title: {
+      en: "Chamber overheat",
+      hu: "Kamratúlhevülés",
+      de: "Kammerüberhitzung",
+      ro: "Supraîncălzirea camerei",
+    },
+    summary: {
+      en: "The chamber insulation is holding, but the temperature margin is gone.",
+      hu: "A kamraszigetelés még tart, de a hőmérsékleti tartalék elfogyott.",
+      de: "Die Kammerisolierung hält noch, aber der Temperaturpuffer ist aufgebraucht.",
+      ro: "Izolația camerei încă rezistă, dar marja de temperatură a dispărut.",
+    },
+    effects: {
+      stability: -10,
+      power: -8,
+      entropy: 9,
+      moduleIntegrity: -12,
+    },
+    fixHint: {
+      en: "Cool and stabilize the core chamber before other systems inherit the heat.",
+      hu: "Hűtsd és stabilizáld a magkamrát, mielőtt a többi rendszer is átveszi a hőt.",
+      de: "Kühle und stabilisiere die Kernkammer, bevor andere Systeme die Hitze übernehmen.",
+      ro: "Răcește și stabilizează camera nucleului înainte ca alte sisteme să preia căldura.",
+    },
+  },
+
+  {
+    id: "logistics_route_jam",
+    moduleId: "logistics",
+    severity: 1,
+    title: {
+      en: "Route jam",
+      hu: "Útvonaldugulás",
+      de: "Routenstau",
+      ro: "Blocaj de rută",
+    },
+    summary: {
+      en: "A cargo route collapsed into itself and supply throughput slows down.",
+      hu: "Egy szállítási útvonal önmagába omlott, a kapacitás lelassult.",
+      de: "Eine Frachtroute ist in sich zusammengebrochen und der Durchsatz sinkt.",
+      ro: "O rută de transport s-a blocat în sine și debitul scade.",
+    },
+    effects: {
+      materials: -18,
+      power: -4,
+      moduleIntegrity: -10,
+      logisticsRateMult: -0.25,
+    },
+    fixHint: {
+      en: "Clear the route to restore logistics throughput.",
+      hu: "Tisztítsd meg az útvonalat, hogy visszaálljon a logisztikai áramlás.",
+      de: "Beseitige die Blockade, um den Logistikfluss wiederherzustellen.",
+      ro: "Deblochează ruta pentru a restabili fluxul logistic.",
+    },
+  },
+  {
+    id: "logistics_drone_loss",
+    moduleId: "logistics",
+    severity: 2,
+    title: {
+      en: "Drone loss",
+      hu: "Drónveszteség",
+      de: "Drohnenverlust",
+      ro: "Pierdere de drone",
+    },
+    summary: {
+      en: "A working drone cluster failed to return, cutting retrieval efficiency in half.",
+      hu: "Egy működő drónraj nem tért vissza, a visszanyerési hatékonyság megfeleződött.",
+      de: "Ein Drohnenschwarm kehrte nicht zurück und halbiert die Bergungseffizienz.",
+      ro: "Un grup de drone nu s-a întors și eficiența de recuperare s-a înjumătățit.",
+    },
+    effects: {
+      materials: -24,
+      stability: -6,
+      moduleIntegrity: -14,
+      logisticsRateMult: -0.4,
+    },
+    fixHint: {
+      en: "Repair logistics and re-seed the drone bay to restore salvage speed.",
+      hu: "Javítsd meg a logisztikát és töltsd újra a drónöblöt a mentési sebességhez.",
+      de: "Repariere die Logistik und bestücke die Drohnenbucht neu.",
+      ro: "Repară logistica și reumple hangarul de drone pentru a restabili viteza de colectare.",
+    },
+  },
+  {
+    id: "logistics_fabricator_stall",
+    moduleId: "logistics",
+    severity: 2,
+    title: {
+      en: "Fabricator stall",
+      hu: "Gyártómegakadás",
+      de: "Fabrikator-Stillstand",
+      ro: "Blocaj de fabricator",
+    },
+    summary: {
+      en: "The fabrication branch is choking on residue and no longer pushes support parts on time.",
+      hu: "A gyártóág eltömődött a maradékanyaggal, és nem szállít időben alkatrészt.",
+      de: "Der Fabrikator ist durch Rückstände blockiert und liefert Teile nicht mehr rechtzeitig.",
+      ro: "Ramura de fabricație s-a sufocat cu reziduuri și nu mai livrează piese la timp.",
+    },
+    effects: {
+      materials: -20,
+      power: -6,
+      moduleIntegrity: -12,
+      logisticsRateMult: -0.3,
+    },
+    fixHint: {
+      en: "Flush and restart the fabricator to recover support output.",
+      hu: "Öblítsd át és indítsd újra a gyártót a támogató termelés visszaállításához.",
+      de: "Spüle und starte den Fabrikator neu, um die Unterstützung zurückzuholen.",
+      ro: "Curăță și repornește fabricatorul pentru a recupera producția de suport.",
+    },
+  },
+  {
+    id: "logistics_supply_leak",
+    moduleId: "logistics",
+    severity: 1,
+    title: {
+      en: "Supply leak",
+      hu: "Készletszivárgás",
+      de: "Versorgungsleck",
+      ro: "Scurgere de aprovizionare",
+    },
+    summary: {
+      en: "Stored material is bleeding out through a cracked feed line.",
+      hu: "A tárolt anyag egy repedt adagolóvezetéken át szivárog ki.",
+      de: "Gespeichertes Material entweicht durch eine gerissene Zuleitung.",
+      ro: "Materialul stocat se scurge printr-o conductă fisurată.",
+    },
+    effects: {
+      materials: -15,
+      moduleIntegrity: -8,
+      logisticsRateMult: -0.2,
+    },
+    fixHint: {
+      en: "Seal the feed line before the material bleed gets worse.",
+      hu: "Zárd le az adagolóvezetéket, mielőtt súlyosbodik a veszteség.",
+      de: "Dichte die Zuleitung ab, bevor der Verlust größer wird.",
+      ro: "Sigilează conducta de alimentare înainte ca pierderea să devină mai mare.",
+    },
+  },
+
+  {
+    id: "sensor_blind_sector",
+    moduleId: "sensor",
+    severity: 1,
+    title: {
+      en: "Blind sector",
+      hu: "Vak szektor",
+      de: "Blinder Sektor",
+      ro: "Sector orb",
+    },
+    summary: {
+      en: "One quadrant of the sensor field has gone dark and prediction confidence drops.",
+      hu: "A szenzormező egyik negyede elsötétült, a becslési pontosság csökkent.",
+      de: "Ein Quadrant des Sensorfelds ist dunkel geworden und die Vorhersage leidet.",
+      ro: "Un cadran al câmpului senzor s-a întunecat și precizia predicției scade.",
+    },
+    effects: {
+      entropy: 16,
+      power: -5,
+      moduleIntegrity: -10,
+      predictionPenalty: 0.25,
+    },
+    fixHint: {
+      en: "Realign the sensor quadrant to restore coverage.",
+      hu: "Igazítsd újra a szenzorkvadránst a teljes lefedettségért.",
+      de: "Richte den Sensorquadranten neu aus, um die Abdeckung wiederherzustellen.",
+      ro: "Realiniază cadranul senzorului pentru a restabili acoperirea.",
+    },
+  },
+  {
+    id: "sensor_echo_storm",
+    moduleId: "sensor",
+    severity: 3,
+    title: {
+      en: "Echo storm",
+      hu: "Visszhangvihar",
+      de: "Echosturm",
+      ro: "Furtună de ecouri",
+    },
+    summary: {
+      en: "Feedback noise is multiplying inside the sensor loop and poisoning entropy control.",
+      hu: "A visszacsatolási zaj megsokszorozódik a szenzorhurkon belül, és mérgezi az entrópiaszabályozást.",
+      de: "Rückkopplungsrauschen vervielfacht sich in der Sensorschleife und vergiftet die Entropiekontrolle.",
+      ro: "Zgomotul de feedback se multiplică în bucla senzorului și afectează controlul entropiei.",
+    },
+    effects: {
+      entropy: 24,
+      stability: -10,
+      moduleIntegrity: -18,
+      predictionPenalty: 0.45,
+    },
+    fixHint: {
+      en: "Purge the sensor loop and recalibrate before the echo storm spreads.",
+      hu: "Tisztítsd ki a szenzorhurkot és kalibráld újra, mielőtt továbbterjed a visszhangvihar.",
+      de: "Spüle die Sensorschleife und kalibriere neu, bevor sich der Echosturm ausbreitet.",
+      ro: "Curăță bucla senzorului și recalibrează înainte ca furtuna de ecouri să se răspândească.",
+    },
+  },
+  {
+    id: "sensor_lens_scatter",
+    moduleId: "sensor",
+    severity: 2,
+    title: {
+      en: "Lens scatter",
+      hu: "Lencseszóródás",
+      de: "Linsenstreuung",
+      ro: "Dispersie de lentilă",
+    },
+    summary: {
+      en: "Microfractures in the lens assembly are scattering every return signal.",
+      hu: "A lencseegység mikrorepedései szétszórják az összes visszatérő jelet.",
+      de: "Mikrorisse in der Linseneinheit streuen jedes Rücksignal.",
+      ro: "Microfisurile din ansamblul lentilei dispersează fiecare semnal de întoarcere.",
+    },
+    effects: {
+      entropy: 18,
+      power: -4,
+      moduleIntegrity: -12,
+      predictionPenalty: 0.3,
+    },
+    fixHint: {
+      en: "Repair the sensor lens assembly to sharpen the field again.",
+      hu: "Javítsd meg a szenzorlencsét, hogy újra éles legyen a mező.",
+      de: "Repariere die Sensorlinse, damit das Feld wieder scharf wird.",
+      ro: "Repară ansamblul lentilei pentru a clarifica din nou câmpul.",
+    },
+  },
+  {
+    id: "sensor_array_drift",
+    moduleId: "sensor",
+    severity: 2,
+    title: {
+      en: "Array drift",
+      hu: "Tömbeltérés",
+      de: "Array-Drift",
+      ro: "Derivă a matricei",
+    },
+    summary: {
+      en: "The sensor array has drifted off its lock and now feeds delayed readings into the grid.",
+      hu: "A szenzortömb elvesztette a zárását, és késleltetett adatokat küld a hálóba.",
+      de: "Das Sensor-Array hat seine Arretierung verloren und liefert verzögerte Werte ins Netz.",
+      ro: "Matricea senzorului a ieșit din aliniere și trimite valori întârziate în rețea.",
+    },
+    effects: {
+      entropy: 20,
+      stability: -8,
+      moduleIntegrity: -14,
+      predictionPenalty: 0.35,
+    },
+    fixHint: {
+      en: "Lock the sensor array back into alignment to restore clean reads.",
+      hu: "Rögzítsd újra a szenzortömböt, hogy helyreálljanak a tiszta mérések.",
+      de: "Arretiere das Sensor-Array neu, damit wieder saubere Werte ankommen.",
+      ro: "Realiniază matricea de senzori pentru a restabili citirile curate.",
+    },
+  },
+];
+
+export const CONTINUATION_INCIDENTS_BY_MODULE = {
+  reactor: CONTINUATION_INCIDENTS.filter(byModule("reactor")),
+  core: CONTINUATION_INCIDENTS.filter(byModule("core")),
+  logistics: CONTINUATION_INCIDENTS.filter(byModule("logistics")),
+  sensor: CONTINUATION_INCIDENTS.filter(byModule("sensor")),
+};

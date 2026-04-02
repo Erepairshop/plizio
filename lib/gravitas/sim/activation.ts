@@ -3,6 +3,7 @@ import { GRAVITAS_TEXT } from "./content";
 import { clamp, pushJournal } from "./shared";
 import { getStarholdModifiers } from "./modifiers";
 import { createNextThreat } from "./threats";
+import { moveToContinuationChapter } from "./chapter";
 
 export interface ActivationStageInfo {
   stage: 0 | 1 | 2 | 3 | 4;
@@ -70,7 +71,7 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
   const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
   const awakened = nextActivation >= 100;
   const nextThreat = awakened && state.threat.pausedUntilAwake
-    ? createNextThreat({ ...state, avatarAwake: true }, state.threatCycle + 1)
+    ? createNextThreat(moveToContinuationChapter({ ...state, avatarAwake: true }), state.threatCycle + 1)
     : state.threat;
 
   // High resonance hazards
@@ -92,7 +93,10 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
   };
 
   return {
-    ...state,
+    ...moveToContinuationChapter({
+      ...state,
+      chapter: awakened ? "continuation" : state.chapter,
+    }),
     phase: awakened ? "awakened" : "activation",
     avatarAwake: awakened,
     resonance: nextResonance,

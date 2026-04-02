@@ -1,12 +1,125 @@
 import type { StarholdState } from "./types";
 import { createInitialModules } from "./modules";
 import { GRAVITAS_TEXT } from "./content";
-import { createInitialBootstrapChecklist } from "./bootstrap";
+import { createCompleteBootstrapChecklist, createInitialBootstrapChecklist } from "./bootstrap";
+import type { StarholdChapterId } from "./chapter";
+import { normalizeContinuationState } from "./continuation";
 
-export function createInitialStarholdState(): StarholdState {
+export function createInitialStarholdState(chapter: StarholdChapterId = "demo"): StarholdState {
+  if (chapter === "continuation") {
+    const modules = createInitialModules();
+    return normalizeContinuationState({
+      tick: 0,
+      phase: "awakened",
+      chapter,
+      resources: {
+        power: 84,
+        materials: 1_000,
+        stability: 88,
+        activation: 100,
+      },
+      marks: {
+        reactorScar: 0,
+        shellStrain: 0,
+        supplyStress: 0,
+        voidEcho: 0,
+      },
+      anomalies: [],
+      entropy: 4,
+      threat: {
+        type: "distortionWave",
+        countdown: 24 * 60 * 60,
+        totalDuration: 24 * 60 * 60,
+        intensity: 1,
+        fortified: false,
+        dampened: false,
+        intercepted: false,
+        predicted: false,
+        aftershock: 0,
+        pausedUntilAwake: false,
+      },
+      progression: {
+        stars: 25,
+        completedMilestones: [],
+        unclaimedMilestones: [],
+        unlockedItems: [],
+        lastStarGain: 0,
+      },
+      modules: {
+        reactor: { ...modules.reactor, online: true, integrity: 96, load: 10 },
+        logistics: { ...modules.logistics, online: true, integrity: 94, load: 8 },
+        core: { ...modules.core, online: true, integrity: 97, load: 12 },
+        sensor: { ...modules.sensor, online: true, integrity: 95, load: 6 },
+      },
+      alert: {
+        en: "Chapter II online. The station is stable and awaiting the next daily wave.",
+        hu: "A Chapter II online. Az állomás stabil, a következő napi hullámra vár.",
+        de: "Kapitel II online. Die Station ist stabil und wartet auf die nächste Tageswelle.",
+        ro: "Capitolul II este online. Stația este stabilă și așteaptă următorul val zilnic.",
+      },
+      journal: [
+        {
+          tick: 0,
+          text: {
+            en: "Chapter II initialized. Gravitas is stable.",
+            hu: "A Chapter II inicializálva. A Gravitas stabil.",
+            de: "Kapitel II initialisiert. Gravitas ist stabil.",
+            ro: "Capitolul II a fost inițializat. Gravitas este stabil.",
+          },
+        },
+      ],
+      avatarAwake: true,
+      resonance: 0,
+      lastEventTick: {},
+      pendingEvent: null,
+      eventQuietTicks: 0,
+      worldPulse: 8,
+      worldPhase: 0,
+      crisis: false,
+      highStability: true,
+      lockdown: false,
+      recoveryPriority: null,
+      threatCycle: 0,
+      lastAvatarPulse: 0,
+      lowEntropyStreak: 0,
+      highStabilityStreak: 0,
+      wasCrisis: false,
+      avatarPulseCount: 0,
+      lockdownDuration: 0,
+      stationLost: false,
+      firstLoopComplete: true,
+      firstLoopShown: true,
+      activeOperation: null,
+      scavengeOperation: null,
+      reactorRecovery: {
+        active: false,
+        completedStabilizations: 0,
+        nextPromptTick: 0,
+      },
+      postWaveSurgeTicks: 0,
+      postWaveSurgeMode: null,
+      avatarProfile: null,
+      avatarImprintActive: false,
+      avatarImprintProgress: 0,
+      avatarPrepArmedTick: null,
+      repairChallenge: {
+        active: false,
+        startedTick: 0,
+        promptEndsAtTick: 0,
+        promptIndex: 0,
+        sequence: [],
+        windowSatisfied: false,
+        unlocksAvatarPrep: false,
+      },
+      bootstrapChecklist: createCompleteBootstrapChecklist(),
+      waveRecoveryCalmTicks: 0,
+    });
+  }
+
   return {
     tick: 0,
     phase: "boot",
+    chapter,
     resources: {
       power: 36,
       materials: 100,

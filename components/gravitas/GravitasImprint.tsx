@@ -47,7 +47,7 @@ export default function GravitasImprint({ state, profile, onBeginHold, onStopHol
       onTouchStart={onBeginHold}
       onTouchEnd={onStopHold}
       onTouchCancel={onStopHold}
-      className="mx-4 mb-3 overflow-hidden rounded-[28px] border border-white/10 bg-[#110915]/95 p-4 shadow-[0_24px_60px_rgba(0,0,0,0.34)] backdrop-blur-xl lg:mx-6 touch-none select-none cursor-pointer"
+      className="fixed left-1/2 bottom-[176px] z-[180] w-[min(92vw,560px)] -translate-x-1/2 overflow-hidden rounded-[28px] border border-white/10 bg-[#110915]/96 p-4 shadow-[0_24px_60px_rgba(0,0,0,0.34)] backdrop-blur-xl touch-none select-none cursor-pointer max-h-[calc(100vh-240px)] overflow-y-auto lg:bottom-[146px] lg:w-[min(72vw,620px)]"
     >
       <div className="flex items-start justify-between gap-4">
         <div className="min-w-0">
@@ -77,7 +77,7 @@ export default function GravitasImprint({ state, profile, onBeginHold, onStopHol
         ))}
       </div>
 
-      <div className="relative mt-5 grid place-items-center py-4">
+      <div className="relative mt-5 grid place-items-center py-3">
         <motion.div
           animate={{
             boxShadow: [
@@ -90,14 +90,14 @@ export default function GravitasImprint({ state, profile, onBeginHold, onStopHol
           className="absolute inset-x-8 top-1/2 h-px -translate-y-1/2 bg-gradient-to-r from-transparent via-white/20 to-transparent"
         />
 
-        <div className="relative flex h-[280px] w-[280px] items-center justify-center">
+        <div className="relative flex h-[220px] w-[220px] items-center justify-center lg:h-[256px] lg:w-[256px]">
           <motion.div
             animate={{
               opacity: [0.35, 0.9, 0.45],
               scale: [1, 1.14, 1],
             }}
             transition={{ duration: 2.8, repeat: Infinity, ease: "easeInOut" }}
-            className="absolute inset-7 rounded-full blur-2xl"
+            className="absolute inset-9 rounded-full blur-2xl"
             style={{ background: accent }}
           />
 
@@ -105,16 +105,16 @@ export default function GravitasImprint({ state, profile, onBeginHold, onStopHol
             className="absolute inset-0 rounded-full border border-white/8"
             style={{
               background: `conic-gradient(${accent} ${filledDegrees}deg, rgba(255,255,255,0.08) ${filledDegrees}deg 360deg)`,
-              padding: 10,
+              padding: 8,
             }}
           >
             <div className="h-full w-full rounded-full bg-[#09050b]" />
           </div>
 
-          <div className="absolute inset-4 rounded-full border border-white/10 bg-[radial-gradient(circle_at_50%_45%,rgba(255,255,255,0.08),rgba(0,0,0,0.75)_65%)] shadow-[inset_0_0_40px_rgba(0,0,0,0.45)]" />
+          <div className="absolute inset-3 rounded-full border border-white/10 bg-[radial-gradient(circle_at_50%_45%,rgba(255,255,255,0.08),rgba(0,0,0,0.75)_65%)] shadow-[inset_0_0_40px_rgba(0,0,0,0.45)]" />
 
           <div
-            className="relative z-10 flex h-40 w-40 items-center justify-center rounded-full border border-white/15 bg-white/[0.04] text-center text-white shadow-[0_0_50px_rgba(255,255,255,0.08)] transition active:scale-[0.98]"
+            className="relative z-10 flex h-32 w-32 items-center justify-center rounded-full border border-white/15 bg-white/[0.04] text-center text-white shadow-[0_0_50px_rgba(255,255,255,0.08)] transition active:scale-[0.98] lg:h-36 lg:w-36"
             style={{
               boxShadow: `0 0 ${18 + progress * 0.5}px ${accent}55, inset 0 0 40px rgba(255,255,255,0.06)`,
             }}
@@ -164,7 +164,7 @@ export default function GravitasImprint({ state, profile, onBeginHold, onStopHol
         />
       </div>
 
-      <div className="mt-3 flex items-start gap-2 rounded-2xl border border-white/8 bg-white/[0.03] px-3 py-2 text-[11px] leading-relaxed text-white/60">
+      <div className="mt-3 flex items-start gap-2 rounded-2xl border border-white/8 bg-white/[0.03] px-3 py-2 text-[10px] leading-relaxed text-white/60 lg:text-[11px]">
         <Sparkles size={14} className="mt-0.5 shrink-0 text-fuchsia-300" />
         <span>{localize(t.imprintLocked)} {localize({ en: "Press and hold anywhere on this card.", hu: "Nyomd és tartsd lenyomva bárhol ezen a kártyán.", de: "Drücke und halte irgendwo auf dieser Karte.", ro: "Apasă și ține apăsat oriunde pe această cartelă." })}</span>
       </div>

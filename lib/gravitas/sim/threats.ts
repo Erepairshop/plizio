@@ -4,6 +4,9 @@ import { GRAVITAS_TEXT } from "./content";
 import { getStarholdModifiers } from "./modifiers";
 import { getModuleActionProfile } from "./modules";
 import { createWaveRecoveryEvent } from "./events";
+import { isDemoChapter } from "./chapter";
+
+const DAILY_WAVE_TICKS = 24 * 60 * 60;
 
 export function advanceStarholdThreat(state: StarholdState): { nextState: StarholdState; impacted: boolean } {
   if (state.pendingEvent) {
@@ -18,7 +21,7 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
 
   // Handle lingering aftershock
   if (threat.aftershock > 0) {
-    const demoUniformWave = !state.avatarAwake && state.threatCycle <= 3;
+    const demoUniformWave = isDemoChapter(state) && !state.avatarAwake && state.threatCycle <= 3;
     const gentleAftershock = demoUniformWave;
     const nextAftershock = threat.aftershock - 1;
     const nextThreat = { ...threat, aftershock: nextAftershock };
@@ -199,7 +202,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
     }
   }
 
-  if (!state.avatarAwake && state.threatCycle < 3) {
+  if (isDemoChapter(state) && !state.avatarAwake && state.threatCycle < 3) {
     const demoWaveNumber = state.threatCycle + 1;
     const demoDamage =
       demoWaveNumber === 1
@@ -241,7 +244,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   const starReward = Math.ceil(threat.intensity / 2) + (state.worldPhase === 1 ? 1 : 0);
   const nextCycle = state.threatCycle + 1;
   const nextThreat = createNextThreat(state, nextCycle);
-  const waveRecoveryEvent = !state.avatarAwake && nextCycle <= 3 ? createWaveRecoveryEvent(nextCycle) : null;
+  const waveRecoveryEvent = isDemoChapter(state) && !state.avatarAwake && nextCycle <= 3 ? createWaveRecoveryEvent(nextCycle) : null;
 
   return {
     ...state,
@@ -276,14 +279,16 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 }
 
 export function createNextThreat(state: StarholdState, nextCycle: number) {
-  const uniformDemoWave = !state.avatarAwake && nextCycle < 3;
-  const pausedUntilAwake = !state.avatarAwake && nextCycle >= 3;
+  const uniformDemoWave = isDemoChapter(state) && !state.avatarAwake && nextCycle < 3;
+  const pausedUntilAwake = isDemoChapter(state) && !state.avatarAwake && nextCycle >= 3;
   const nextType = uniformDemoWave
     ? "distortionWave"
     : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
   const worldPressure = Math.floor(state.worldPulse / 35);
   const nextDuration = uniformDemoWave
     ? 45
+    : !isDemoChapter(state)
+      ? DAILY_WAVE_TICKS
     : Math.max(
         nextCycle <= 2 ? 28 : 16,
         (nextCycle === 2 ? 30 : 20) - Math.floor(nextCycle / 5) + worldPressure - (state.worldPhase === 2 ? 1 : 0)

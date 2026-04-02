@@ -1,6 +1,7 @@
 import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdModuleId, LocalizedString, StarholdPendingEvent, AvatarTraitId, StarholdAvatarAnswer, StarholdAvatarProfile, StarholdRepairChallengeState } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
+import { isDemoChapter } from "./chapter";
 
 const T = GRAVITAS_TEXT.events;
 const A = GRAVITAS_TEXT.alerts;
@@ -28,14 +29,16 @@ function chainedEvent(
 }
 
 export function createWaveRecoveryEvent(waveNumber: number): StarholdPendingEvent {
-  const step = Math.min(3, Math.max(1, waveNumber));
-  const content = T.waveRecovery[`step${step}` as "step1" | "step2" | "step3"];
+  const content = T.waveRecovery.step1;
   return {
     id: "waveRecovery",
     title: content.title,
     body: content.body,
     options: Object.entries(content.options).map(([id, label]) => ({ id, label })),
-    waveNumber: step,
+    waveNumber: Math.min(3, Math.max(1, waveNumber)),
+    chainId: "wave-recovery",
+    chainStep: 1,
+    chainTotal: 1,
   };
 }
 
@@ -59,7 +62,12 @@ function restoreModuleSet(state: StarholdState, moduleIds: StarholdModuleId[], a
   };
 }
 
-function restoreWaveCalmState(state: StarholdState, restored: StarholdState, stabilityFloor: number): StarholdState {
+function restoreWaveCalmState(
+  state: StarholdState,
+  restored: StarholdState,
+  stabilityFloor: number,
+  calmTicks: number,
+): StarholdState {
   return {
     ...restored,
     resources: {
@@ -79,7 +87,7 @@ function restoreWaveCalmState(state: StarholdState, restored: StarholdState, sta
     recoveryPriority: null,
     postWaveSurgeTicks: 0,
     postWaveSurgeMode: null,
-    waveRecoveryCalmTicks: 30,
+    waveRecoveryCalmTicks: calmTicks,
   };
 }
 
@@ -98,15 +106,19 @@ export function createAvatarPreparationEvent(stepNumber: number): StarholdPendin
 }
 
 function createRepairChallengeSequence(waveNumber: number): StarholdModuleId[] {
-  if (waveNumber <= 1) return ["reactor"];
-  if (waveNumber === 2) return ["reactor", "sensor"];
+  if (waveNumber <= 3) return ["reactor"];
   return ["reactor", "logistics", "sensor"];
 }
 
 export function normalizeRepairChallenge(challenge: StarholdRepairChallengeState, waveNumber = 1): StarholdRepairChallengeState {
   const desiredSequence = createRepairChallengeSequence(waveNumber);
-  if (
+  const sequenceMatches =
     challenge.sequence.length === desiredSequence.length &&
+    challenge.sequence.every((moduleId, index) => moduleId === desiredSequence[index]);
+  if (
+    sequenceMatches &&
+    challenge.promptIndex >= 0 &&
+    challenge.promptIndex < desiredSequence.length &&
     challenge.unlocksAvatarPrep === (waveNumber >= 3)
   ) {
     return challenge;
@@ -124,7 +136,7 @@ export function createRepairChallenge(startedTick: number, waveNumber = 1): Star
   return {
     active: true,
     startedTick,
-    promptEndsAtTick: startedTick + 30,
+    promptEndsAtTick: startedTick + 45,
     promptIndex: 0,
     sequence: createRepairChallengeSequence(waveNumber),
     windowSatisfied: false,
@@ -149,6 +161,18 @@ export function getRepairChallengeModule(challenge: StarholdRepairChallengeState
 }
 
 export function failRepairChallenge(state: StarholdState): StarholdState {
+  if (!isDemoChapter(state)) {
+    return {
+      ...state,
+      repairChallenge: {
+        ...state.repairChallenge,
+        active: false,
+      },
+      lockdown: false,
+      stationLost: false,
+      pendingEvent: null,
+    };
+  }
   return {
     ...state,
     repairChallenge: {
@@ -230,7 +254,7 @@ export function advanceRepairChallengeWindow(state: StarholdState): StarholdStat
   const nextChallenge = {
     ...challenge,
     promptIndex: nextIndex,
-    promptEndsAtTick: state.tick + 30,
+    promptEndsAtTick: state.tick + 45,
     windowSatisfied: false,
   };
 
@@ -368,7 +392,6 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     shouldTrigger: () => false,
     create: () => createWaveRecoveryEvent(1),
     resolve: (state, optionId) => {
-      const step = Math.min(3, Math.max(1, state.pendingEvent?.waveNumber ?? 1));
       const waveNumber = state.pendingEvent?.waveNumber ?? 1;
       const success = {
         en: "Congratulations. Your answer was perfect.",
@@ -383,7 +406,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         ro: "Răspuns greșit. Cadrul stabilizator a lovit înapoi puternic.",
       };
 
-      if (step === 1 && optionId === "reactor") {
+      if (waveNumber >= 1 && optionId === "reactor") {
+        const calmTicks = waveNumber >= 3 ? 45 : 45;
         const restored = restoreModuleSet(
           state,
           ["reactor"],
@@ -396,46 +420,8 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           }
         );
         return {
-          ...restoreWaveCalmState(state, restored, 80),
-          avatarPrepArmedTick: null,
-          alert: success,
-        };
-      }
-
-      if (step === 2 && optionId === "reactorSensor") {
-        const restored = restoreModuleSet(
-          state,
-          ["reactor", "sensor"],
-          success,
-          {
-            en: "Perfect answer. Reactor and sensor are back in sync.",
-            hu: "Tökéletes válasz. A reaktor és a szenzor újra szinkronban van.",
-            de: "Perfekte Antwort. Reaktor und Sensor sind wieder synchron.",
-            ro: "Răspuns perfect. Reactorul și senzorul sunt din nou sincronizate.",
-          }
-        );
-        return {
-          ...restoreWaveCalmState(state, restored, 82),
-          avatarPrepArmedTick: null,
-          alert: success,
-        };
-      }
-
-      if (step === 3 && optionId === "shellLock") {
-        const restored = restoreModuleSet(
-          state,
-          ["reactor", "logistics", "sensor"],
-          success,
-          {
-            en: "Perfect answer. Reactor, logistics, and sensor all returned to calm.",
-            hu: "Tökéletes válasz. A reaktor, a logisztika és a szenzor is nyugalomba tért.",
-            de: "Perfekte Antwort. Reaktor, Logistik und Sensor sind in den Ruhezustand zurückgekehrt.",
-            ro: "Răspuns perfect. Reactorul, logistica și senzorul au revenit la calm.",
-          }
-        );
-        return {
-          ...restoreWaveCalmState(state, restored, 84),
-          avatarPrepArmedTick: state.tick + 30,
+          ...restoreWaveCalmState(state, restored, 80, calmTicks),
+          avatarPrepArmedTick: waveNumber >= 3 ? state.tick + calmTicks : null,
           alert: success,
         };
       }
@@ -462,7 +448,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     id: "emergencyOverride",
     minTick: 0,
     cooldown: 0,
-    shouldTrigger: (state) => state.lockdown,
+    shouldTrigger: (state) => isDemoChapter(state) && state.lockdown,
     create: () => ({
       ...chainedEvent(
         {
@@ -1503,6 +1489,10 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
 ];
 
 export function applyStarholdEvents(state: StarholdState): StarholdState {
+  if (!isDemoChapter(state)) {
+    return state;
+  }
+
   if (state.pendingEvent || (state.eventQuietTicks ?? 0) > 0) {
     return state;
   }

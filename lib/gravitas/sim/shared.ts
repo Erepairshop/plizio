@@ -4,6 +4,10 @@ export function clamp(value: number, min = 0, max = 100) {
   return Math.max(min, Math.min(max, value));
 }
 
+export function clampResourceFloor(value: number, min = 0) {
+  return Math.max(min, value);
+}
+
 export function withAlert(state: StarholdState, alert: LocalizedString | null): StarholdState {
   return { ...state, alert };
 }
@@ -22,7 +26,7 @@ export function addResourceDelta(
 ): StarholdResources {
   return {
     power: clamp(resources.power + (delta.power ?? 0)),
-    materials: clamp(resources.materials + (delta.materials ?? 0)),
+    materials: clampResourceFloor(resources.materials + (delta.materials ?? 0)),
     stability: clamp(resources.stability + (delta.stability ?? 0)),
     activation: clamp(resources.activation + (delta.activation ?? 0)),
   };

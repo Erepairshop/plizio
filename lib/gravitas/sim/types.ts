@@ -31,7 +31,46 @@ export interface StarholdAnomaly {
   duration?: number; // ticks remaining, if any
 }
 
+export type StarholdIncidentId =
+  | "reactor_cable_fault"
+  | "reactor_cooling_pocket"
+  | "reactor_flux_spike"
+  | "reactor_containment_warp"
+  | "core_memory_tremor"
+  | "core_shell_fracture"
+  | "core_sync_drift"
+  | "core_chamber_overheat"
+  | "logistics_route_jam"
+  | "logistics_drone_loss"
+  | "logistics_fabricator_stall"
+  | "logistics_supply_leak"
+  | "sensor_blind_sector"
+  | "sensor_echo_storm"
+  | "sensor_lens_scatter"
+  | "sensor_array_drift";
+
+export interface StarholdIncidentEffectProfile {
+  power?: number;
+  stability?: number;
+  materials?: number;
+  entropy?: number;
+  moduleIntegrity?: number;
+  logisticsRateMult?: number;
+  predictionPenalty?: number;
+}
+
+export interface StarholdIncidentDefinition {
+  id: StarholdIncidentId;
+  moduleId: StarholdModuleId;
+  severity: 1 | 2 | 3;
+  title: LocalizedString;
+  summary: LocalizedString;
+  effects: StarholdIncidentEffectProfile;
+  fixHint: LocalizedString;
+}
+
 export type StarholdPhase = "boot" | "activation" | "awakened";
+export type StarholdChapterId = "demo" | "continuation";
 
 export type StarholdEventId =
   | "powerFluctuation"
@@ -159,6 +198,7 @@ export interface StarholdRepairChallengeState {
 export interface StarholdState {
   tick: number;
   phase: StarholdPhase;
+  chapter: StarholdChapterId;
   resources: StarholdResources;
   marks: StarholdMarks;
   anomalies: StarholdAnomaly[];

@@ -9,6 +9,19 @@ import { addResourceDelta, pushJournal, updateModuleIntegrity, addModuleLoad } f
 import { getStarholdModifiers } from "./modifiers";
 import { getModuleActionProfile } from "./modules";
 import { isBootstrapComplete } from "./bootstrap";
+import { isDemoChapter } from "./chapter";
+import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
+
+function stabilizeContinuationTick(previous: StarholdState, next: StarholdState): StarholdState {
+  if (isDemoChapter(previous)) return next;
+  return normalizeContinuationState({
+    ...next,
+    resources: {
+      ...next.resources,
+      materials: next.resources.materials,
+    },
+  });
+}
 
 function completeActiveOperation(state: StarholdState): StarholdState {
   const op = state.activeOperation;
@@ -158,7 +171,11 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
     };
   }
 
-  const materialsGain = 2;
+  const continuationScavengeProfile = isDemoChapter(state)
+    ? null
+    : getContinuationScavengeProfile(state);
+  const materialsGain = continuationScavengeProfile?.materialsGain ?? 2;
+  const nextCycleDuration = continuationScavengeProfile?.cycleDuration ?? op.cycleDuration;
 
   return {
     ...state,
@@ -169,7 +186,8 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
     alert: GRAVITAS_TEXT.alerts.scavengeSuccess,
     scavengeOperation: {
       ...op,
-      remaining: op.cycleDuration,
+      cycleDuration: nextCycleDuration,
+      remaining: nextCycleDuration,
       completedCycles: op.completedCycles + 1,
     },
   };
@@ -177,6 +195,16 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
 
 export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   let state = inputState;
+  if (!isDemoChapter(state) && state.repairChallenge.active) {
+    state = {
+      ...state,
+      repairChallenge: {
+        ...state.repairChallenge,
+        active: false,
+        windowSatisfied: false,
+      },
+    };
+  }
   const normalizedRepairChallenge = normalizeRepairChallenge(state.repairChallenge, state.threatCycle);
   if (normalizedRepairChallenge !== state.repairChallenge) {
     state = {
@@ -187,7 +215,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   if (state.pendingEvent?.id === "avatarPreparation" || (state.avatarImprintActive && !state.avatarAwake)) {
     return state;
   }
-  if (state.threatCycle === 0 && state.threat.countdown <= 1 && !isBootstrapComplete(state)) {
+  if (isDemoChapter(state) && state.threatCycle === 0 && state.threat.countdown <= 1 && !isBootstrapComplete(state)) {
     const failureAlert = GRAVITAS_TEXT.alerts.bootstrapFailed;
     return checkStarholdMilestones({
       ...state,
@@ -205,9 +233,9 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const scriptedPhaseOne = !state.avatarAwake && state.tick < 180;
   const mods = getStarholdModifiers(state);
   const nextQuietTicks = Math.max(0, (state.eventQuietTicks ?? 0) - 1);
-  const recoveryCalmWindow = (state.waveRecoveryCalmTicks ?? 0) > 0;
+  const recoveryCalmWindow = isDemoChapter(state) && (state.waveRecoveryCalmTicks ?? 0) > 0;
   const nextRecoveryCalmTicks = Math.max(0, (state.waveRecoveryCalmTicks ?? 0) - 1);
-  const repairChallengeExpired = state.repairChallenge.active && state.tick > state.repairChallenge.promptEndsAtTick;
+  const repairChallengeExpired = isDemoChapter(state) && state.repairChallenge.active && state.tick > state.repairChallenge.promptEndsAtTick;
   if (repairChallengeExpired) {
     if (state.repairChallenge.windowSatisfied) {
       return checkStarholdMilestones(advanceRepairChallengeWindow({
@@ -232,6 +260,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const settlingWindow = !state.avatarAwake && state.tick < 70;
   const earlyWindow = !state.avatarAwake && state.tick < 100;
   const firstWaveRecoveryActive =
+    isDemoChapter(state) &&
     state.reactorRecovery.active &&
     state.threatCycle === 1 &&
     state.tick < state.reactorRecovery.nextPromptTick;
@@ -243,12 +272,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const postWaveSurgeMode = state.postWaveSurgeMode ?? "gentle";
   const sensorOnline = state.modules.sensor.online;
   const sensorIntegrity = state.modules.sensor.integrity;
-  const reactorBoost = recoveryCalmWindow ? 0 : state.modules.reactor.online ? (introWindow ? 3 : settlingWindow ? 2 : 2) : 0;
-  const logisticsDrainBase = recoveryCalmWindow ? 0 : state.modules.logistics.online ? 0 : 1 + Math.floor(state.marks.supplyStress / 4);
-  const logisticsDrain = recoveryCalmWindow ? 0 : Math.max(0, logisticsDrainBase - (introWindow ? 1 : 0));
+  const chapterDriftScale = isDemoChapter(state) ? 1 : 0.5;
+  const softenDrift = (value: number) => Math.max(0, Math.round(value * chapterDriftScale));
+  const reactorBoost = recoveryCalmWindow ? 0 : state.modules.reactor.online ? softenDrift(introWindow ? 3 : settlingWindow ? 2 : 2) : 0;
+  const logisticsDrainBase = recoveryCalmWindow ? 0 : state.modules.logistics.online ? 0 : softenDrift(1 + Math.floor(state.marks.supplyStress / 4));
+  const logisticsDrain = recoveryCalmWindow ? 0 : Math.max(0, logisticsDrainBase - softenDrift(introWindow ? 1 : 0));
   // sensorBoost synergy: Reactor + Sensor both healthy → +2 stability instead of +1
-  const sensorStability = recoveryCalmWindow ? 0 : state.modules.sensor.online ? ((mods.sensorBoost ? 2 : 1) + (introWindow ? 1 : 0)) : 0;
-  const phaseDrain = recoveryCalmWindow ? 0 : state.phase === "activation" ? 1 : 0;
+  const sensorStability = recoveryCalmWindow ? 0 : state.modules.sensor.online ? softenDrift((mods.sensorBoost ? 2 : 1) + (introWindow ? 1 : 0)) : 0;
+  const phaseDrain = recoveryCalmWindow ? 0 : state.phase === "activation" ? softenDrift(1) : 0;
 
   // Crisis / Stability checks
   const isCrisis = state.resources.power < (introWindow ? 6 : 10) && state.resources.stability < (settlingWindow ? 20 : 30);
@@ -278,16 +309,16 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const entropyPowerDrain = Math.max(0, Math.floor(state.entropy / 20) - (settlingWindow ? 1 : 0));
 
   // High Stability bonus: reduced drains
-  const stabilityBuffer = isHighStability ? 2 : 0;
+  const stabilityBuffer = softenDrift(isHighStability ? 2 : 0);
   const isAwakened = state.phase === "awakened";
   const decayMult = isAwakened ? 1.5 : 1;
   const worldPhase = state.worldPhase;
-  const phasePowerDrain = recoveryCalmWindow ? 0 : worldPhase === 1 ? 1 : 0;
-  const phaseStabilityBonus = recoveryCalmWindow ? 0 : worldPhase === 2 ? 1 : 0;
-  const phaseEntropyBias = recoveryCalmWindow ? 0 : worldPhase === 3 ? 1 : 0;
+  const phasePowerDrain = recoveryCalmWindow ? 0 : softenDrift(worldPhase === 1 ? 1 : 0);
+  const phaseStabilityBonus = recoveryCalmWindow ? 0 : softenDrift(worldPhase === 2 ? 1 : 0);
+  const phaseEntropyBias = recoveryCalmWindow ? 0 : softenDrift(worldPhase === 3 ? 1 : 0);
 
   let nextPower = clamp(
-    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain - phasePowerDrain + (isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0) + (isAwakened ? 1 : 0)
+    state.resources.power + reactorBoost - logisticsDrain - phaseDrain - scarDrain - resonancePowerDrain - entropyPowerDrain - anomalyPowerDrain - phasePowerDrain + softenDrift((isHighStability ? 1 : 0) + (mods.gridSynergy ? 1 : 0) + (mods.fullGrid ? 2 : 0) + (isAwakened ? 1 : 0))
   );
   let nextStability = clamp(
     state.resources.stability +
@@ -307,8 +338,8 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   if (firstWaveRecoveryActive && !recoveryCalmWindow) {
     nextStability = clamp(
       Math.max(
-        nextStability + 2 + (state.modules.reactor.online ? 1 : 0) + (sensorOnline ? 1 : 0),
-        Math.min(82, state.resources.stability + 3)
+        nextStability + softenDrift(2 + (state.modules.reactor.online ? 1 : 0) + (sensorOnline ? 1 : 0)),
+        Math.min(82, state.resources.stability + softenDrift(3))
       )
     );
   }
@@ -425,8 +456,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   if (!state.avatarAwake && nextStability > 0 && nextStability < 18 && !recoveryCalmWindow) {
     nextStability = clamp(
       nextStability +
-        (state.modules.reactor.online ? 2 : 1) +
-        (state.modules.sensor.online ? 1 : 0)
+        softenDrift((state.modules.reactor.online ? 2 : 1) + (state.modules.sensor.online ? 1 : 0))
     );
   }
 
@@ -509,28 +539,28 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   // Entropy logic
   let nextEntropy = state.entropy;
   if ((totalMarks > 12 || isCrisis || nextLockdown) && !recoveryCalmWindow) {
-    const baseGain = Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0);
+    const baseGain = softenDrift(Math.floor(totalMarks / 6) + (isCrisis ? 2 : 0) + (nextLockdown ? 3 : 0));
     // entropyDampener: 25% slower entropy growth
     let gain = mods.entropyDampener ? Math.ceil(baseGain * 0.75) : baseGain;
     if (state.tick < 70) gain = Math.min(gain, 1);
     nextEntropy = clamp(nextEntropy + gain);
   } else if (totalMarks < 5 || isHighStability) {
-    nextEntropy = clamp(nextEntropy - (isHighStability ? 2 : 1));
+    nextEntropy = clamp(nextEntropy - softenDrift(isHighStability ? 2 : 1));
   }
   if (phaseEntropyBias > 0) {
     nextEntropy = clamp(nextEntropy - phaseEntropyBias);
   }
   if (!sensorOnline && (state.tick >= 70 || state.threat.countdown <= 12) && state.tick % 12 === 0 && !recoveryCalmWindow) {
-    nextEntropy = clamp(nextEntropy + 1);
+    nextEntropy = clamp(nextEntropy + softenDrift(1));
   }
   if (sensorOnline && sensorIntegrity >= 55 && state.tick % 10 === 0 && !recoveryCalmWindow) {
-    nextEntropy = clamp(nextEntropy - 1);
+    nextEntropy = clamp(nextEntropy - softenDrift(1));
   }
   if (firstWaveRecoveryActive && !recoveryCalmWindow) {
-    nextEntropy = clamp(nextEntropy - 1);
+    nextEntropy = clamp(nextEntropy - softenDrift(1));
   }
   if (postWaveSurgeDangerWindow && !recoveryCalmWindow) {
-    nextEntropy = clamp(nextEntropy + (postWaveSurgeSpike ? 1 : 0));
+    nextEntropy = clamp(nextEntropy + softenDrift(postWaveSurgeSpike ? 1 : 0));
   }
 
   const nextWorldPhase = state.tick > 0 && state.tick % 40 === 0 ? (state.worldPhase + 1) % 4 : state.worldPhase;
@@ -542,12 +572,12 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
         : GRAVITAS_TEXT.alerts.finalWaveSettle;
   }
   const worldPulseGain =
-    Math.floor(totalMarks / (settlingWindow ? 6 : 4)) +
+    softenDrift(Math.floor(totalMarks / (settlingWindow ? 6 : 4)) +
     Math.floor(nextEntropy / (settlingWindow ? 28 : 20)) +
     (state.threat.aftershock > 0 ? 2 : 0) +
     (state.phase === "awakened" ? 1 : 0) +
-    (nextLockdown ? 2 : 0);
-  const worldPulseEase = (isHighStability ? 2 : 0) + (nextWorldPhase === 0 ? 1 : 0) + (firstWaveRecoveryActive ? 2 : 0);
+    (nextLockdown ? 2 : 0));
+  const worldPulseEase = softenDrift((isHighStability ? 2 : 0) + (nextWorldPhase === 0 ? 1 : 0) + (firstWaveRecoveryActive ? 2 : 0));
   const nextWorldPulse = recoveryCalmWindow ? state.worldPulse : clamp(state.worldPulse + worldPulseGain - worldPulseEase);
 
   let worldShifted = false;
@@ -572,7 +602,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
 
   const nextLockdownDuration = nextLockdown ? state.lockdownDuration + 1 : 0;
   const allModulesCrit = Object.values(nextModules).every(m => m.integrity < 10);
-  const stationLost = nextLockdownDuration >= 30 && allModulesCrit;
+  const stationLost = isDemoChapter(state) && nextLockdownDuration >= 30 && allModulesCrit;
 
   // Phase shift safety net: if awakening happened outside this tick, keep the transition stable.
   let firstLoopComplete = state.firstLoopComplete;
@@ -654,7 +684,19 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
         },
         entropy: Math.min(nextState.entropy, state.entropy),
       }
-    : nextState;
+    : !isDemoChapter(state)
+      ? {
+          ...nextState,
+          resources: {
+            ...nextState.resources,
+            power: Math.max(nextState.resources.power, state.resources.power),
+            stability: Math.max(nextState.resources.stability, state.resources.stability),
+            materials: Math.max(nextState.resources.materials, state.resources.materials),
+            activation: Math.max(nextState.resources.activation, state.resources.activation),
+          },
+          entropy: Math.min(nextState.entropy, state.entropy),
+        }
+      : nextState;
 
   const withOperation =
     calmLockedState.activeOperation && calmLockedState.activeOperation.remaining <= 0
@@ -695,14 +737,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return checkStarholdMilestones({
+    return stabilizeContinuationTick(state, checkStarholdMilestones({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    });
+    }));
   }
 
-  return checkStarholdMilestones(applyStarholdEvents({
+  return stabilizeContinuationTick(state, checkStarholdMilestones(applyStarholdEvents({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-  }));
+  })));
 }

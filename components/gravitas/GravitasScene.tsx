@@ -42,10 +42,13 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, l
         height: GAME_HEIGHT,
         backgroundColor: "#060b1b",
         parent: hostRef.current,
+        audio: {
+          noAudio: true,
+        },
         scene,
         scale: {
-          mode: Phaser.Scale.FIT,
-          autoCenter: Phaser.Scale.CENTER_BOTH,
+          mode: Phaser.Scale.NONE,
+          autoCenter: Phaser.Scale.NO_CENTER,
           width: GAME_WIDTH,
           height: GAME_HEIGHT,
         },
@@ -67,6 +70,8 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, l
           canvas.style.width = `${width}px`;
           canvas.style.height = `${height}px`;
           canvas.style.display = "block";
+          canvas.style.margin = "0";
+          canvas.style.transformOrigin = "top left";
         }
       };
 
@@ -105,10 +110,9 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, l
   }, [lastCommand]);
 
   return (
-    <div className="rounded-[24px] border border-cyan-300/15 bg-[radial-gradient(circle_at_top,rgba(34,211,238,0.08),transparent_44%),linear-gradient(180deg,rgba(9,15,30,0.94),rgba(4,8,18,0.98))] p-1 shadow-[0_0_46px_rgba(8,145,178,0.1)]">
-      <div className="rounded-[20px] border border-white/5 bg-black/15 p-0.5">
-        <div ref={hostRef} className="w-full aspect-[840/560] min-h-[300px] overflow-hidden rounded-[16px]" />
-      </div>
-    </div>
+    <div
+      ref={hostRef}
+      className="h-full w-full overflow-hidden"
+    />
   );
 }

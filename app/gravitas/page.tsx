@@ -7,22 +7,23 @@ import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
   AlertTriangle, Activity, Zap, ShieldAlert,
   Layers, FileText, X, RotateCcw,
-  Terminal, ShieldHalf, LayoutGrid, Brain
+  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 import GravitasShop from "@/components/gravitas/GravitasShop";
 import GravitasImprint from "@/components/gravitas/GravitasImprint";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
-import { saveGravitasState, loadGravitasState, clearGravitasSave } from "@/lib/gravitas/sim/persistence";
+import { saveGravitasState, loadGravitasState } from "@/lib/gravitas/sim/persistence";
 import { applyStarholdCommand, getGravitasActionSlots } from "@/lib/gravitas/sim/commands";
 import { canStartActivationTransfer } from "@/lib/gravitas/sim/activation";
 import { advanceStarholdTick } from "@/lib/gravitas/sim/tick";
 import { getUpcomingDamagePreview } from "@/lib/gravitas/sim/threats";
-import type { StarholdCommand, StarholdModuleId, StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
+import type { StarholdChapterId, StarholdCommand, StarholdModuleId, StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
 import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
 import AwakeningCeremony from "@/components/gravitas/AwakeningCeremony";
 import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
+import { normalizeContinuationState } from "@/lib/gravitas/sim/continuation";
 
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 
@@ -64,6 +65,46 @@ type QuickActionItem = {
   tone: QuickActionTone;
   mobilePriority: number;
 };
+
+function formatCompactStarholdValue(value: number): string {
+  const sign = value < 0 ? "-" : "";
+  const abs = Math.abs(value);
+  if (abs < 1000) return `${value}`;
+
+  const units = [
+    { value: 1_000_000_000_000, suffix: "t" },
+    { value: 1_000_000_000, suffix: "b" },
+    { value: 1_000_000, suffix: "m" },
+    { value: 1_000, suffix: "k" },
+  ];
+
+  for (const unit of units) {
+    if (abs < unit.value) continue;
+    let scaled = abs / unit.value;
+    let decimals = scaled >= 100 ? 0 : scaled >= 10 ? 1 : 2;
+    let rounded = Number(scaled.toFixed(decimals));
+    if (rounded >= 1000) continue;
+    const text = rounded
+      .toFixed(decimals)
+      .replace(/\.0+$/, "")
+      .replace(/(\.\d*[1-9])0+$/, "$1");
+    return `${sign}${text}${unit.suffix}`;
+  }
+
+  return `${value}`;
+}
+
+function formatThreatCountdown(countdown: number): string {
+  if (countdown >= 3600) {
+    const hours = countdown / 3600;
+    const roundedHours = hours >= 10 ? Math.round(hours) : Number(hours.toFixed(1));
+    return `${String(roundedHours).replace(/\.0$/, "")}h`;
+  }
+  if (countdown >= 60) {
+    return `${Math.ceil(countdown / 60)}m`;
+  }
+  return `${countdown}s`;
+}
 
 function StationHealthRing({ state }: { state: StarholdState }) {
   const modules = [
@@ -130,7 +171,6 @@ export default function GravitasPage() {
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
   const [actionFeedback, setActionFeedback] = useState<LocalizedString | null>(null);
-  const [showGameOver, setShowGameOver] = useState(false);
   const [sceneReady, setSceneReady] = useState(false);
   const [sceneDeferred, setSceneDeferred] = useState(false);
   const [lastCommand, setLastCommand] = useState<{ command: StarholdCommand; timestamp: number } | null>(null);
@@ -138,6 +178,8 @@ export default function GravitasPage() {
   const [resourceHelpOpen, setResourceHelpOpen] = useState<ResourceHelpKey | null>(null);
   const [quickActionsOpen, setQuickActionsOpen] = useState(false);
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
+  const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | null>(null);
   
   const holdRef = useRef<number | null>(null);
   const imprintHoldRef = useRef<number | null>(null);
@@ -147,9 +189,26 @@ export default function GravitasPage() {
   const prevStateRef = useRef(state);
   const lastActionRef = useRef<StarholdCommand | null>(null);
   const awakeningShownRef = useRef(false);
+  const actionFeedbackTimeoutRef = useRef<number | null>(null);
+
+  const restartGravitasChapter = useCallback((chapter: StarholdChapterId) => {
+    const resetState = createInitialStarholdState(chapter);
+    saveGravitasState(resetState);
+    dispatch({ type: "__LOAD__", state: resetState });
+    setShowAwakening(false);
+    setShopOpen(false);
+    setResourceHelpOpen(null);
+    setQuickActionsOpen(false);
+    setModuleInfoOpen(false);
+    setAvatarBaseOpen(false);
+    setInteriorView(null);
+    setSelectedModule("reactor");
+    setLastCommand(null);
+    lastActionRef.current = null;
+  }, []);
 
   const doAction = (command: StarholdCommand, color: string) => {
-    if (state.stationLost) return;
+    if (state.chapter === "demo" && state.stationLost) return;
     if (command.type === "STABILIZE_REACTOR") setSelectedModule("reactor");
     if (command.type === "REPAIR_MODULE") setSelectedModule(command.moduleId);
     if (command.type === "REROUTE_TO_CORE") setSelectedModule("core");
@@ -162,9 +221,14 @@ export default function GravitasPage() {
   };
 
   const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
+    if ((moduleId === "sensor" || moduleId === "reactor" || moduleId === "core") && moduleId === selectedModule && moduleInfoOpen) {
+      setInteriorView(moduleId);
+      setModuleInfoOpen(false);
+      return;
+    }
     setSelectedModule(moduleId);
     setModuleInfoOpen(true);
-  }, [state.avatarAwake, state.avatarImprintActive, state.avatarProfile?.answers.length]);
+  }, [moduleInfoOpen, selectedModule]);
 
   useEffect(() => {
     setHydrated(true);
@@ -176,6 +240,36 @@ export default function GravitasPage() {
       dispatch({ type: "__LOAD__", state: saved });
     }
   }, []);
+
+  useEffect(() => {
+    const shouldForceContinuation = state.avatarAwake || state.firstLoopComplete;
+    if (shouldForceContinuation && state.chapter !== "continuation") {
+      dispatch({
+        type: "__LOAD__",
+        state: normalizeContinuationState({
+          ...state,
+          chapter: "continuation",
+          stationLost: false,
+          lockdown: false,
+          lockdownDuration: 0,
+        }),
+      });
+      return;
+    }
+
+    if ((state.chapter === "continuation" || shouldForceContinuation) && state.stationLost) {
+      dispatch({
+        type: "__LOAD__",
+        state: normalizeContinuationState({
+          ...state,
+          chapter: "continuation",
+          stationLost: false,
+          lockdown: false,
+          lockdownDuration: 0,
+        }),
+      });
+    }
+  }, [state]);
 
   useEffect(() => {
     if (state.avatarAwake && !awakeningShownRef.current) {
@@ -192,12 +286,6 @@ export default function GravitasPage() {
       }
     }
   }, [state.avatarImprintActive, state.avatarAwake]);
-
-  useEffect(() => {
-    if (state.stationLost && !showGameOver) {
-      setShowGameOver(true);
-    }
-  }, [state.stationLost, showGameOver]);
 
   useEffect(() => {
     const prevThreat = prevThreatRef.current;
@@ -288,14 +376,25 @@ export default function GravitasPage() {
       if (imprintHoldRef.current !== null) {
         window.clearInterval(imprintHoldRef.current);
       }
+      if (actionFeedbackTimeoutRef.current !== null) {
+        window.clearTimeout(actionFeedbackTimeoutRef.current);
+      }
     };
   }, []);
+
+  const isContinuationLike = state.chapter === "continuation" || state.avatarAwake || state.firstLoopComplete;
+  const showGameOver = !isContinuationLike && state.stationLost;
 
   useEffect(() => {
     if (state.tick % 5 === 0) {
       saveGravitasState(state);
     }
   }, [state.tick]);
+
+  useEffect(() => {
+    if (!hydrated) return;
+    saveGravitasState(state);
+  }, [state.chapter, hydrated]);
 
   useEffect(() => {
     if (activePanel || resourceHelpOpen || state.pendingEvent || showGameOver) {
@@ -315,8 +414,13 @@ export default function GravitasPage() {
 
     if (!feedback) return;
     setActionFeedback(feedback);
-    const timeout = window.setTimeout(() => setActionFeedback(null), 2200);
-    return () => window.clearTimeout(timeout);
+    if (actionFeedbackTimeoutRef.current !== null) {
+      window.clearTimeout(actionFeedbackTimeoutRef.current);
+    }
+    actionFeedbackTimeoutRef.current = window.setTimeout(() => {
+      setActionFeedback(null);
+      actionFeedbackTimeoutRef.current = null;
+    }, 10000);
   }, [state]);
 
   const localize = (ls: LocalizedString | null | undefined) => {
@@ -651,7 +755,7 @@ export default function GravitasPage() {
     ? localize({ en: "Standby", hu: "Készenlét", de: "Bereit", ro: "În așteptare" })
     : state.threat.aftershock > 0
     ? String(state.threat.aftershock)
-    : `${Math.floor(state.threat.countdown / 60)}:${String(state.threat.countdown % 60).padStart(2, "0")}`;
+    : formatThreatCountdown(state.threat.countdown);
   const postWaveDisplay = postWaveSurgeActive ? `${Math.floor(state.postWaveSurgeTicks / 60)}:${String(state.postWaveSurgeTicks % 60).padStart(2, "0")}` : "";
 
   const beginTransfer = () => {
@@ -694,19 +798,38 @@ export default function GravitasPage() {
     completedStabilizations: 0,
     nextPromptTick: 0,
   };
+  const isContinuationChapter = state.chapter === "continuation";
   const reactorPromptWindow = reactorRecovery.active && state.tick >= reactorRecovery.nextPromptTick;
   const inFirstWaveRecovery = reactorRecovery.active && state.threatCycle === 1;
-  const severeReactorIssue = state.resources.stability < 42 || state.modules.reactor.integrity < 58 || state.modules.reactor.load >= 88 || state.crisis;
+  const severeReactorIssue = state.resources.stability < 50 || state.modules.reactor.integrity < 50 || state.modules.reactor.load >= 90 || state.crisis;
   const reactorNeedsAttention = 
     activeOperation?.type === "stabilizeReactor" ||
     reactorPromptWindow ||
     (!inFirstWaveRecovery && severeReactorIssue) ||
     repairChallengeTarget === "reactor";
-  const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 72 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics") || repairChallengeTarget === "logistics";
-  const sensorNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor") || state.modules.sensor.integrity < 72 || !state.modules.sensor.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "sensor") || repairChallengeTarget === "sensor";
-  const reactorActionTone = severeReactorIssue || repairChallengeTarget === "reactor" ? "danger" : "warning";
-  const logisticsActionTone = state.modules.logistics.integrity < 48 || !state.modules.logistics.online || repairChallengeTarget === "logistics" ? "danger" : "warning";
-  const sensorActionTone = state.modules.sensor.integrity < 48 || !state.modules.sensor.online || repairChallengeTarget === "sensor" ? "danger" : "warning";
+  const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 50 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics") || repairChallengeTarget === "logistics";
+  const sensorNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor") || state.modules.sensor.integrity < 50 || !state.modules.sensor.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "sensor") || repairChallengeTarget === "sensor";
+  const reactorActionTone = repairChallengeTarget
+    ? repairChallengeTarget === "reactor"
+      ? "danger"
+      : "warning"
+    : severeReactorIssue
+      ? "danger"
+      : "warning";
+  const logisticsActionTone = repairChallengeTarget
+    ? repairChallengeTarget === "logistics"
+      ? "danger"
+      : "warning"
+    : state.modules.logistics.integrity < 50 || !state.modules.logistics.online
+      ? "danger"
+      : "warning";
+  const sensorActionTone = repairChallengeTarget
+    ? repairChallengeTarget === "sensor"
+      ? "danger"
+      : "warning"
+    : state.modules.sensor.integrity < 50 || !state.modules.sensor.online
+      ? "danger"
+      : "warning";
   const primaryActions: QuickActionItem[] = [
     {
       key: "scavenge",
@@ -1106,6 +1229,12 @@ export default function GravitasPage() {
           </Link>
           <div className="flex items-center gap-2 group relative">
             <StationHealthRing state={state} />
+            <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-cyan-500/20 text-cyan-200">
+              {phaseLabel}
+            </div>
+            <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.chapter === "demo" ? "bg-amber-500/20 text-amber-200" : "bg-emerald-500/20 text-emerald-200"}`}>
+              {state.chapter === "demo" ? "Chapter I" : "Chapter II"}
+            </div>
             {state.avatarAwake && (
               <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/20 text-fuchsia-300">
                 {localize(content.victory.firstLoopTitle)}
@@ -1119,6 +1248,12 @@ export default function GravitasPage() {
         </div>
 
         <div className="flex items-center gap-2">
+          <button
+            onClick={() => setInteriorView(interiorView === "galaxy" ? null : "galaxy")}
+            className={`flex h-8 w-8 items-center justify-center rounded-full border transition-all ${interiorView === "galaxy" ? "border-cyan-300/50 bg-cyan-400/12 text-cyan-100" : "border-white/10 bg-white/5 text-white/60 hover:bg-white/10"}`}
+          >
+            <Layers size={13} />
+          </button>
           <button
             onClick={() => setShopOpen(true)}
             className={`relative flex items-center gap-2 px-3 py-1.5 rounded-full border transition-all duration-500 ${hasUnclaimed ? "border-amber-400 bg-amber-400/20 text-amber-400 shadow-[0_0_20px_rgba(251,191,36,0.5)] animate-pulse scale-110" : state.progression.stars > 0 ? "border-amber-400/40 bg-amber-400/5 text-amber-400" : "border-white/10 bg-white/5 text-white/40"}`}
@@ -1145,7 +1280,10 @@ export default function GravitasPage() {
             </AnimatePresence>
           </button>
           <button
-            onClick={() => { if (confirm("Reset game?")) { clearGravitasSave(); window.location.reload(); } }}
+            onClick={() => {
+              if (!confirm("Reset game?")) return;
+              restartGravitasChapter(state.chapter);
+            }}
             className="p-1.5 text-white/20 hover:text-white/60 transition"
           >
             <RotateCcw size={14} />
@@ -1163,8 +1301,16 @@ export default function GravitasPage() {
           onClick={() => setResourceHelpOpen("materials")}
         />
         <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
-        <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
+        {state.chapter === "demo" && (
+          <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
+        )}
         <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
+        {state.avatarProfile && state.avatarProfile.answers.length > 0 && (
+          <AvatarBaseChip
+            icon={<UserRound size={12} />}
+            onClick={() => setAvatarBaseOpen(true)}
+          />
+        )}
         <div className={`relative flex items-center gap-1.5 px-2 py-1 rounded-xl bg-white/5 border border-white/5 text-xs font-black shrink-0 ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
           <Layers size={11} />
           <div className="flex flex-col leading-none">
@@ -1175,11 +1321,73 @@ export default function GravitasPage() {
       </div>
 
       {/* Game View */}
-      <div className="flex-1 relative overflow-hidden flex flex-col">
-        <div 
-          className={`relative transition-all duration-500 w-full aspect-[840/560] ${hasGoldHull ? "border-[4px] border-amber-400/30 rounded-3xl m-1.5 overflow-hidden shadow-[0_0_30px_rgba(251,191,36,0.1)]" : ""}`}
+      <div className="relative min-h-0 flex-1 overflow-hidden p-2.5 pt-2">
+        <div
+          className={`relative h-full w-full overflow-hidden rounded-[28px] transition-all duration-500 ${hasGoldHull ? "border-[4px] border-amber-400/30 shadow-[0_0_30px_rgba(251,191,36,0.1)]" : "border border-white/6 bg-black/10"}`}
           style={{ boxShadow: actionFlash ? `inset 0 0 60px ${actionFlash}` : "none" }}
         >
+          <div className="pointer-events-none absolute inset-0 z-[1]">
+            <div
+              className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-[0.96]"
+              style={{ backgroundImage: "url('/gravitas/station-background.webp')" }}
+            />
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_46%,rgba(34,211,238,0.06),transparent_30%),linear-gradient(180deg,rgba(4,8,18,0.04),rgba(4,8,18,0.18))]" />
+          </div>
+
+          <div className="pointer-events-none absolute inset-0 z-[3] overflow-hidden">
+            <motion.div
+              className="absolute left-[39%] top-[34%] h-[32%] w-[32%] rounded-full bg-[radial-gradient(circle,rgba(236,72,153,0.16),rgba(34,211,238,0.08)_42%,transparent_72%)] blur-2xl"
+              animate={{ scale: [0.97, 1.03, 0.99], opacity: [0.28, 0.48, 0.34] }}
+              transition={{ duration: 5.8, repeat: Infinity, ease: "easeInOut" }}
+            />
+
+            <motion.div
+              className="absolute left-[18%] top-[13%] h-[18%] w-[18%] rounded-full bg-[radial-gradient(circle,rgba(251,146,60,0.16),rgba(251,146,60,0.06)_48%,transparent_75%)] blur-2xl"
+              animate={{ scale: [0.96, 1.05, 0.98], opacity: [0.14, 0.28, 0.18] }}
+              transition={{ duration: 3.4, repeat: Infinity, ease: "easeInOut" }}
+            />
+
+            <motion.div
+              className="absolute left-[24%] top-[61%] h-[18%] w-[18%] rounded-full bg-[radial-gradient(circle,rgba(34,211,238,0.15),rgba(34,211,238,0.05)_50%,transparent_78%)] blur-2xl"
+              animate={{ rotate: [0, 7, -5, 0], opacity: [0.12, 0.24, 0.14] }}
+              transition={{ duration: 3.8, repeat: Infinity, ease: "easeInOut" }}
+            />
+
+            <motion.div
+              className="absolute left-[32%] top-[58%] h-[1px] w-[23%] bg-[linear-gradient(90deg,transparent,rgba(34,211,238,0.0),rgba(34,211,238,0.22),rgba(236,72,153,0.18),transparent)]"
+              animate={{ x: ["-4%", "8%", "-4%"], opacity: [0.05, 0.16, 0.05] }}
+              transition={{ duration: 7.2, repeat: Infinity, ease: "easeInOut" }}
+            />
+
+            <motion.div
+              className="absolute left-[28%] top-[24%] h-[1px] w-[22%] bg-[linear-gradient(90deg,transparent,rgba(34,211,238,0.0),rgba(34,211,238,0.24),transparent)]"
+              animate={{ x: ["-5%", "10%", "-5%"], opacity: [0.04, 0.14, 0.04] }}
+              transition={{ duration: 6.4, repeat: Infinity, ease: "easeInOut" }}
+            />
+
+            <motion.div
+              className="absolute left-[52%] top-[27%] h-[1px] w-[20%] bg-[linear-gradient(90deg,transparent,rgba(236,72,153,0.0),rgba(236,72,153,0.2),transparent)]"
+              animate={{ x: ["-6%", "8%", "-6%"], opacity: [0.04, 0.12, 0.04] }}
+              transition={{ duration: 8.4, repeat: Infinity, ease: "easeInOut" }}
+            />
+
+            {[
+              { left: "24%", top: "19%", color: "bg-amber-300", duration: 2.8, delay: 0 },
+              { left: "68%", top: "22%", color: "bg-indigo-300", duration: 3.4, delay: 0.6 },
+              { left: "33%", top: "70%", color: "bg-cyan-200", duration: 2.6, delay: 1.1 },
+              { left: "52%", top: "49%", color: "bg-fuchsia-300", duration: 3.8, delay: 0.4 },
+              { left: "66%", top: "66%", color: "bg-violet-300", duration: 3.1, delay: 1.4 },
+            ].map((spark, idx) => (
+              <motion.span
+                key={`station-spark-${idx}`}
+                className={`absolute h-1.5 w-1.5 rounded-full ${spark.color} shadow-[0_0_12px_rgba(255,255,255,0.28)]`}
+                style={{ left: spark.left, top: spark.top }}
+                animate={{ opacity: [0.18, 0.82, 0.2], scale: [0.8, 1.35, 0.9] }}
+                transition={{ duration: spark.duration, delay: spark.delay, repeat: Infinity, ease: "easeInOut" }}
+              />
+            ))}
+          </div>
+
           {sceneReady ? (
             <GravitasScene
               state={state}
@@ -1219,6 +1427,11 @@ export default function GravitasPage() {
             </div>
           )}
 
+          <ModuleArtOverlay
+            selectedModule={selectedModule}
+            onSelectModule={handleSelectModule}
+          />
+
           <AnimatePresence>
             {state.firstLoopComplete && !state.firstLoopShown && !showAwakening && (
               <motion.div
@@ -1253,21 +1466,48 @@ export default function GravitasPage() {
           <AnimatePresence>
             {actionFeedback && (
               <motion.div
-                initial={{ opacity: 0, y: 20, scale: 0.98 }}
-                animate={{ opacity: 1, y: 0, scale: 1 }}
-                exit={{ opacity: 0, y: 10, scale: 0.98 }}
-                className="fixed bottom-[100px] left-3 right-3 z-[65] mx-auto max-w-xl rounded-2xl border border-cyan-400/20 bg-black/85 backdrop-blur-xl px-3 py-2.5 shadow-2xl pointer-events-none lg:bottom-6"
+                initial={{ opacity: 0, y: -6 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -4 }}
+                transition={{ duration: 0.18, ease: "easeOut" }}
+                className="pointer-events-none absolute left-3 top-4 z-[65] w-[min(72vw,340px)]"
               >
-                <div className="flex items-start gap-2.5">
-                  <div className="mt-1 h-2 w-2 rounded-full bg-cyan-400 shadow-[0_0_14px_rgba(34,211,238,0.85)] shrink-0" />
-                  <div className="min-w-0">
-                    <div className="text-[8px] font-black uppercase tracking-[0.24em] text-cyan-300">
-                      {localize(ui.actions)}
-                    </div>
-                    <div className="mt-1 text-[13px] font-black text-white leading-snug">
-                      {localize(actionFeedback)}
-                    </div>
-                  </div>
+                <div className="relative px-1 py-1">
+                  <motion.div
+                    aria-hidden
+                    className="absolute left-0 top-0 text-[8px] font-black uppercase tracking-[0.16em] text-cyan-300/80 mix-blend-screen"
+                    initial={{ opacity: 0, x: -6, y: 0, filter: "blur(3px)" }}
+                    animate={{ opacity: [0.85, 0.18, 0], x: [-6, 3, 0], y: [0, -1, 0], filter: ["blur(3px)", "blur(1px)", "blur(0px)"] }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.34, ease: "easeOut" }}
+                  >
+                    {localize(actionFeedback)}
+                  </motion.div>
+                  <motion.div
+                    aria-hidden
+                    className="absolute left-0 top-0 text-[8px] font-black uppercase tracking-[0.16em] text-fuchsia-300/45 mix-blend-screen"
+                    initial={{ opacity: 0, x: 5, y: 0, filter: "blur(2px)" }}
+                    animate={{ opacity: [0.65, 0.12, 0], x: [5, -2, 0], y: [0, 1, 0], filter: ["blur(2px)", "blur(0.5px)", "blur(0px)"] }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.28, ease: "easeOut" }}
+                  >
+                    {localize(actionFeedback)}
+                  </motion.div>
+                  <motion.div
+                    className="relative text-[8px] font-black uppercase tracking-[0.16em] text-cyan-50 drop-shadow-[0_0_8px_rgba(34,211,238,0.28)]"
+                    initial={{ opacity: 0, x: -1, filter: "blur(4px)", letterSpacing: "0.28em" }}
+                    animate={{
+                      opacity: [0.15, 0.45, 1, 1],
+                      x: [-1, 1, 0, 0],
+                      y: [0, -1, 0, 0],
+                      filter: ["blur(4px)", "blur(1.5px)", "blur(0px)", "blur(0px)"],
+                      letterSpacing: ["0.28em", "0.2em", "0.16em", "0.16em"],
+                    }}
+                    exit={{ opacity: [1, 0.4, 0], x: [0, 1, -2], filter: ["blur(0px)", "blur(1px)", "blur(4px)"] }}
+                    transition={{ duration: 0.42, ease: "easeOut", times: [0, 0.35, 0.72, 1] }}
+                  >
+                    {localize(actionFeedback)}
+                  </motion.div>
                 </div>
               </motion.div>
             )}
@@ -1335,386 +1575,156 @@ export default function GravitasPage() {
                 <p className="mt-2 text-[10px] leading-snug text-white/72 sm:text-[11px]">
                   {localize(selectedModuleInfo.role)}
                 </p>
+                {(selectedModule === "sensor" || selectedModule === "reactor" || selectedModule === "core") && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setInteriorView(selectedModule);
+                      setModuleInfoOpen(false);
+                    }}
+                    className="mt-3 w-full rounded-xl border border-cyan-400/25 bg-cyan-400/10 px-3 py-2 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-100 transition hover:bg-cyan-400/16"
+                  >
+                    {selectedModule === "sensor"
+                      ? localize({ en: "Enter sensor", hu: "Belépés a szenzorba", de: "Sensor betreten", ro: "Intră în senzor" })
+                      : selectedModule === "reactor"
+                        ? localize({ en: "Enter reactor", hu: "Belépés a reaktorba", de: "Reaktor betreten", ro: "Intră în reactor" })
+                        : localize({ en: "Enter core", hu: "Belépés a magba", de: "Kern betreten", ro: "Intră în nucleu" })}
+                  </button>
+                )}
               </motion.div>
             )}
           </AnimatePresence>
 
-        </div>
+          <AnimatePresence>
+            {interiorView === "galaxy" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
+              >
+                <GalaxyInteriorView onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "sensor" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[radial-gradient(circle_at_50%_28%,rgba(56,189,248,0.18),transparent_24%),radial-gradient(circle_at_50%_64%,rgba(34,211,238,0.12),transparent_34%),linear-gradient(180deg,#06111d_0%,#081425_42%,#040914_100%)]"
+              >
+                <SensorInteriorView
+                  onClose={() => setInteriorView(null)}
+                />
+              </motion.div>
+            )}
+            {interiorView === "reactor" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
+              >
+                <ReactorInteriorView onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "core" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
+              >
+                <CoreInteriorView onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        <div className="mx-3 mb-1.5 rounded-xl border border-amber-400/30 bg-amber-400/12 px-3 py-2 shadow-[0_0_20px_rgba(251,191,36,0.08)] backdrop-blur-md">
-          <div className="flex items-center gap-2">
-            <AlertTriangle size={12} className="shrink-0 text-amber-300" />
-            <p className="text-[9px] font-black uppercase tracking-tight text-amber-50">
-              {guide.body}
-            </p>
-          </div>
-        </div>
-
-        {state.threatCycle === 0 && !bootstrapComplete && (
-          <div className={`mx-3 mb-1.5 rounded-xl border px-3 py-2 shadow-[0_0_20px_rgba(34,211,238,0.08)] backdrop-blur-md ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/8" : "border-cyan-400/25 bg-cyan-400/8"}`}>
-            <div className="flex items-start justify-between gap-3">
-              <div>
-                <div className="text-[9px] font-black uppercase tracking-[0.2em] text-cyan-300">
-                  {localize(content.ui.bootstrapCheck)}
-                </div>
-                <div className="mt-1 text-[10px] font-bold text-white/70">
-                  {localize(content.ui.bootstrapHint)}
-                </div>
-              </div>
-              <div className={`rounded-full border px-2 py-0.5 text-[8px] font-black uppercase tracking-[0.16em] ${bootstrapComplete ? "border-emerald-400/25 bg-emerald-400/12 text-emerald-200" : "border-amber-400/20 bg-amber-400/12 text-amber-100"}`}>
-                {bootstrapPending.length}/4
-              </div>
-            </div>
-            <div className="mt-2 grid grid-cols-2 gap-1.5 sm:grid-cols-4">
-              {bootstrapOrder.map((moduleId) => {
-                const Icon = moduleIcon(moduleId);
-                const done = state.bootstrapChecklist[moduleId];
-                return (
-                  <div
-                    key={moduleId}
-                    className={`flex items-center gap-1.5 rounded-lg border px-2.5 py-1.5 text-[9px] font-black uppercase tracking-[0.14em] ${done ? "border-emerald-400/20 bg-emerald-400/10 text-emerald-100" : "border-white/10 bg-white/5 text-white/45"}`}
-                  >
-                    <Icon size={11} className={done ? "text-emerald-300" : "text-white/35"} />
-                    <div className="min-w-0 flex-1">
-                      <div className="truncate">{localize(content.modules[moduleId].name)}</div>
-                      <div className={done ? "text-emerald-200/80" : "text-white/30"}>
-                        {done
-                          ? localize({ en: "Activated", hu: "Aktivált", de: "Aktiviert", ro: "Activat" })
-                          : localize({ en: "Pending", hu: "Függőben", de: "Ausstehend", ro: "În așteptare" })}
-                      </div>
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
-          </div>
-        )}
-
-        {/* Compact Threat Bar */}
-        <div className={`mx-3 mb-1.5 p-2.5 rounded-xl border transition-all duration-500 ${isWavePaused ? "border-cyan-500/30 bg-cyan-500/8" : state.threat.aftershock > 0 ? "border-amber-500/40 bg-amber-500/10" : "border-white/10 bg-black/40 backdrop-blur-sm"}`}>
-          <div className="flex items-center justify-between gap-4">
-            <div className="flex items-center gap-3">
-              <div className={`w-7 h-7 rounded-full border flex items-center justify-center font-black text-[10px] ${isWavePaused ? "border-cyan-300 text-cyan-100" : state.threat.countdown <= 3 ? "border-rose-500 text-rose-500 animate-pulse" : "border-white/20 text-white/60"}`}>
-                {state.threat.aftershock > 0 ? state.threat.aftershock : threatCountdownText}
-              </div>
-              <div className="flex flex-col">
-                <div className="text-[10px] font-black uppercase tracking-widest truncate max-w-[120px]">
-                  {isWavePaused
-                    ? localize({ en: "Wave cycle complete", hu: "Hullámsorozat kész", de: "Wellenzyklus beendet", ro: "Ciclu de valuri încheiat" })
-                    : localize(content.threats[state.threat.type])}
-                </div>
-                <div className="text-[8px] font-bold text-white/40 uppercase tracking-tighter">
-                  {isWavePaused
-                    ? localize({ en: "Awaiting avatar awakening", hu: "Az avatar ébredésére vár", de: "Warte auf das Erwachen des Avatars", ro: "Așteaptă trezirea avatarului" })
-                    : earlyStage
-                    ? localize({
-                        en: `Wave #${displayedWaveNumber} calibrating`,
-                        hu: `${displayedWaveNumber}. hullám kalibrál`,
-                        de: `Welle #${displayedWaveNumber} kalibriert`,
-                        ro: `Valul #${displayedWaveNumber} se calibrează`,
-                      })
-                    : localize({ en: `Wave #${displayedWaveNumber}`, hu: `${displayedWaveNumber}. hullám`, de: `Welle #${displayedWaveNumber}`, ro: `Valul #${displayedWaveNumber}` })}
-                </div>
-              </div>
-            </div>
-            <div className="flex gap-1.5 shrink-0">
-              <PrepDot active={state.threat.fortified && !isWavePaused} color="bg-emerald-400" />
-              <PrepDot active={state.threat.dampened && !isWavePaused} color="bg-indigo-400" />
-              <PrepDot active={state.threat.intercepted && !isWavePaused} color="bg-amber-400" />
-              <PrepDot active={state.threat.predicted && !isWavePaused} color="bg-cyan-400" />
-            </div>
-          </div>
-          <div className="mt-2 h-1 w-full bg-white/5 rounded-full overflow-hidden">
-            <div
-              className={`h-full transition-all duration-1000 ${isWavePaused ? "bg-cyan-400/60" : state.threat.aftershock > 0 ? "bg-amber-500" : state.threat.countdown <= 3 ? "bg-rose-500" : "bg-cyan-500"}`}
-              style={{ width: `${threatProgressPercent}%` }}
+          <div className="absolute right-3 top-16 z-[32] flex flex-col gap-2">
+            <MapMiniButton
+              icon={<LayoutGrid size={14} />}
+              active={activePanel === "modules"}
+              onClick={() => setActivePanel(activePanel === "modules" ? null : "modules")}
+            />
+            <MapMiniButton
+              icon={<ShieldHalf size={14} />}
+              active={activePanel === "marks"}
+              onClick={() => setActivePanel(activePanel === "marks" ? null : "marks")}
+            />
+            <MapMiniButton
+              icon={<FileText size={14} />}
+              active={activePanel === "journal"}
+              onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
+            />
+            <MapMiniButton
+              icon={<Layers size={14} />}
+              active={quickActionsOpen}
+              onClick={() => setQuickActionsOpen(true)}
+              showDot={hiddenUrgentActions}
             />
           </div>
 
-          {postWaveSurgeActive && (
-            <div className={`mt-2 rounded-lg border px-2.5 py-2 text-[8px] font-black uppercase tracking-[0.16em] ${postWaveSurgeCalm ? "border-cyan-400/20 bg-cyan-400/6 text-cyan-100/65" : "border-amber-400/30 bg-amber-400/8 text-amber-100"}`}>
-              <div className="flex items-center justify-between gap-3">
-                <span>
-                  {postWaveSurgeCalm
-                    ? localize({ en: "Residual calm", hu: "Maradék nyugalom", de: "Restruhe", ro: "Liniște reziduală" })
-                    : localize({ en: "Awakening signal", hu: "Ébredési jel", de: "Erwachenssignal", ro: "Semnal de trezire" })}
-                </span>
-                <span className={postWaveSurgeWarning ? "text-white" : "text-cyan-100/70"}>
-                  {postWaveDisplay}
-                </span>
-              </div>
-              <div className="mt-1 text-[7px] leading-relaxed tracking-[0.15em] text-white/45">
-                {postWaveSurgeCalm
-                  ? localize({ en: "The frame is quiet. Something is lining up beneath the shell.", hu: "A keret nyugodt. Valami a burok alatt rendeződik.", de: "Der Rahmen ist ruhig. Etwas richtet sich unter der Hülle aus.", ro: "Cadrul e liniștit. Ceva se aliniază sub carcasă." })
-                  : localize({ en: "Stay ready. The shell is preparing to answer.", hu: "Légy készen. A test válaszra készül.", de: "Bereit bleiben. Die Hülle bereitet eine Antwort vor.", ro: "Rămâi pregătit. Corpul se pregătește să răspundă." })}
-              </div>
-            </div>
+          {state.recoveryPriority && (
+            <motion.button
+              initial={{ y: 12, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              onClick={() => {
+                setSelectedModule(state.recoveryPriority!.moduleId);
+                setActivePanel("modules");
+              }}
+              className="absolute left-3 top-16 z-[32] flex items-center gap-2 rounded-full border border-amber-300/30 bg-amber-400/12 px-3 py-2 text-[10px] font-black uppercase tracking-[0.16em] text-amber-100 shadow-lg backdrop-blur-md"
+            >
+              <AlertTriangle size={12} />
+              <span>{localize(state.modules[state.recoveryPriority.moduleId].name)}</span>
+            </motion.button>
           )}
 
           {avatarImprintStageActive && state.avatarImprintActive && state.avatarProfile && (
-            <GravitasImprint
-              state={state}
-              profile={state.avatarProfile}
-              onBeginHold={beginImprintHold}
-              onStopHold={stopImprintHold}
-            />
-          )}
-
-          {state.avatarProfile && state.avatarProfile.answers.length >= 3 && (
-            <div className="mt-2 rounded-lg border border-fuchsia-400/20 bg-fuchsia-400/8 px-2.5 py-2 text-[8px] font-black uppercase tracking-[0.16em] text-fuchsia-100">
-              <div className="flex items-center justify-between gap-3">
-                <span>
-                  {localize({ en: "Avatar imprint", hu: "Avatar lenyomat", de: "Avatar-Prägung", ro: "Amprentă avatar" })}
-                </span>
-                <span>{localize(state.avatarProfile.title)}</span>
-              </div>
-              <div className="mt-1 flex flex-wrap gap-1.5 text-[7px] tracking-[0.15em] text-white/55">
-                {state.avatarProfile.answers.map((answer, idx) => (
-                  <span key={`${answer.questionId}-${answer.optionId}-${idx}`} className="rounded-full border border-white/10 bg-black/20 px-2 py-0.5">
-                    {idx + 1}. {localize(answer.label)}
-                  </span>
-                ))}
-              </div>
+            <div className="absolute inset-x-3 bottom-20 z-[32] sm:inset-x-auto sm:right-3 sm:w-[340px]">
+              <GravitasImprint
+                state={state}
+                profile={state.avatarProfile}
+                onBeginHold={beginImprintHold}
+                onStopHold={stopImprintHold}
+              />
             </div>
           )}
 
-          {earlyStage && state.threat.aftershock === 0 && (
-            <div className="mt-2 text-[8px] font-bold uppercase tracking-[0.16em] text-cyan-200/65">
-              {introStage
-                ? localize({
-                    en: "Learn the controls. Station pressure is being held back.",
-                    hu: "Ismerd meg a vezérlést. Az állomás nyomása most vissza van fogva.",
-                    de: "Lerne die Steuerung. Der Stationsdruck wird noch zurückgehalten.",
-                    ro: "Învață comenzile. Presiunea stației este încă ținută în frâu.",
-                      })
-                : localize({
-                    en: "Problems are coming in slowly. Build a stable rhythm first.",
-                    hu: "A problémák lassan érkeznek. Előbb építs stabil ritmust.",
-                    de: "Die Probleme kommen langsam. Baue zuerst einen stabilen Rhythmus auf.",
-                    ro: "Problemele vin lent. Construiește mai întâi un ritm stabil.",
-                  })}
-            </div>
-          )}
-
-          {state.threat.countdown <= 5 && state.threat.aftershock === 0 && !isWavePaused && (
-            <div className="mt-2 pt-2 border-t border-white/5">
-              {!state.modules.sensor.online ? (
-                <div className="text-[8px] font-bold text-white/20 uppercase">
-                  {localize({ en: "Sensor offline — no forecast available", hu: "Szenzor offline — előrejelzés nem elérhető", de: "Sensor offline — keine Vorhersage verfügbar", ro: "Senzor offline — prognoză indisponibilă" })}
-                </div>
-              ) : (
-                <div className="text-[8px] font-bold text-amber-400/80 uppercase">
-                  {(() => {
-                    const preview = getUpcomingDamagePreview(state);
-                    if (!preview) return null;
-                    const parts = [];
-                    if (preview.stabilityLoss > 0) parts.push(`-${preview.stabilityLoss} STB`);
-                    if (preview.powerLoss > 0) parts.push(`-${preview.powerLoss} PWR`);
-                    Object.entries(preview.moduleDamage).forEach(([id, dmg]) => {
-                      if (dmg > 0) parts.push(`${localize(state.modules[id as StarholdModuleId].name)} -${dmg}%`);
-                    });
-                    Object.entries(preview.markGain).forEach(([id, val]) => {
-                      if (val && (val as number) > 0) parts.push(`+${val} ${id}`);
-                    });
-                    return `${localize({en: "Est. damage: ", hu: "Becsült kár: ", de: "Erw. Schaden: ", ro: "Daune est.: "})} ${parts.join(", ")}`;
-                  })()}
-                </div>
+          <div className="absolute inset-x-3 bottom-3 z-[32] sm:inset-x-auto sm:left-1/2 sm:-translate-x-1/2">
+            <div className="mx-auto flex w-full max-w-[560px] items-center justify-center gap-2 rounded-[22px] border border-white/10 bg-black/42 px-2 py-2 backdrop-blur-xl shadow-[0_10px_40px_rgba(0,0,0,0.32)]">
+              {prioritizedMobileActions.map((action) => (
+                <MiniActionButton
+                  key={action.key}
+                  icon={action.icon}
+                  label={action.shortLabel}
+                  onClick={() => {
+                    setQuickActionsOpen(false);
+                    action.onClick();
+                  }}
+                  disabled={action.disabled}
+                  highlight={action.highlight}
+                  tone={action.tone}
+                />
+              ))}
+              {systemsAction && (
+                <MiniActionButton
+                  key="systems-mini"
+                  icon={systemsAction.icon}
+                  label={systemsAction.shortLabel}
+                  onClick={systemsAction.onClick}
+                  disabled={systemsAction.disabled}
+                  highlight={systemsAction.highlight}
+                  tone={systemsAction.tone}
+                />
               )}
             </div>
-          )}
-        </div>
-
-        {/* Journal Preview */}
-        {/* Panel Tabs */}
-        <div className="grid grid-cols-3 gap-2 px-3 mb-16 lg:mb-4">
-          <PanelTab
-            icon={<LayoutGrid size={18} />}
-            label={localize(ui.modules)}
-            active={activePanel === "modules"}
-            onClick={() => setActivePanel(activePanel === "modules" ? null : "modules")}
-          />
-          <PanelTab
-            icon={<ShieldHalf size={18} />}
-            label={localize(ui.marks)}
-            active={activePanel === "marks"}
-            onClick={() => setActivePanel(activePanel === "marks" ? null : "marks")}
-          />
-          <PanelTab
-            icon={<FileText size={18} />}
-            label={localize(ui.journal)}
-            active={activePanel === "journal"}
-            onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
-          />
+          </div>
         </div>
       </div>
-
-      {state.recoveryPriority && (
-        <motion.button
-          initial={{ y: 20, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          onClick={() => {
-            setSelectedModule(state.recoveryPriority!.moduleId);
-            setActivePanel("modules");
-          }}
-          className="fixed bottom-[84px] left-3 right-3 z-[45] p-2.5 rounded-xl bg-amber-400 text-black flex items-center justify-between gap-3 animate-pulse shadow-lg lg:static lg:mb-3 lg:mx-4"
-        >
-          <div className="flex items-center gap-2 font-black text-[9px] uppercase tracking-tighter">
-            <AlertTriangle size={12} />
-            <span>{localize(state.modules[state.recoveryPriority.moduleId].name)} {localize({en: "critical — repair first", hu: "kritikus — javítsd először", de: "kritisch — erst reparieren", ro: "critic — repară mai întâi"})}</span>
-          </div>
-          <ChevronLeft size={12} className="rotate-180" />
-        </motion.button>
-      )}
-
-      {activeOperation && (
-        <div className="mx-3 mb-2 rounded-2xl border border-cyan-400/20 bg-cyan-400/8 p-2.5 backdrop-blur-sm">
-          <div className="flex items-start justify-between gap-3">
-            <div className="min-w-0">
-              <div className="text-[8px] font-black uppercase tracking-[0.2em] text-cyan-300">
-                {localize({ en: "Active operation", hu: "Aktív művelet", de: "Aktiver Vorgang", ro: "Operațiune activă" })}
-              </div>
-              <div className="mt-1 text-[13px] font-black text-white">
-                {localize(activeOperation.title)}
-              </div>
-              <div className="mt-1 text-[10px] leading-snug text-white/60">
-                {localize(activeOperation.detail)}
-              </div>
-            </div>
-            <div className="shrink-0 text-right">
-              <div className="text-[9px] font-black text-cyan-100">{activeOperation.remaining}T</div>
-              <div className="text-[8px] uppercase tracking-[0.16em] text-white/35">
-                {localize({ en: "remaining", hu: "hátra", de: "verbleibend", ro: "rămase" })}
-              </div>
-            </div>
-          </div>
-          <div className="mt-3 h-1.5 w-full overflow-hidden rounded-full bg-white/5">
-            <div
-              className="h-full rounded-full bg-gradient-to-r from-cyan-400 via-sky-400 to-fuchsia-400 transition-all duration-500"
-              style={{ width: `${operationProgress}%` }}
-            />
-          </div>
-        </div>
-      )}
-
-      {scavengeOperation && (
-        <div className="mx-3 mb-2 rounded-2xl border border-emerald-400/20 bg-emerald-400/8 p-2.5 backdrop-blur-sm">
-          <div className="flex items-start justify-between gap-3">
-            <div className="min-w-0">
-              <div className="text-[8px] font-black uppercase tracking-[0.2em] text-emerald-300">
-                {localize({ en: "Drone sweep active", hu: "Drónküldés aktív", de: "Drohnenflug aktiv", ro: "Cursa dronei este activă" })}
-              </div>
-              <div className="mt-1 text-[13px] font-black text-white">
-                {localize({ en: "Salvage drones are collecting materials", hu: "A mentődrónok anyagot gyűjtenek", de: "Bergungsdrohnen sammeln Material", ro: "Dronele de salvare colectează materiale" })}
-              </div>
-              <div className="mt-1 text-[10px] leading-snug text-white/60">
-                {localize({ en: "Tap the material command again to recall them. Each completed sweep brings back fresh resources.", hu: "Érintsd meg újra az anyaggyűjtést a visszahíváshoz. Minden befejezett kör új nyersanyagot hoz vissza.", de: "Tippe erneut auf Materialsuche, um sie zurückzurufen. Jeder abgeschlossene Flug bringt neue Ressourcen zurück.", ro: "Apasă din nou pe colectare ca să le rechemi. Fiecare cursă completă aduce resurse noi." })}
-              </div>
-            </div>
-            <div className="shrink-0 text-right">
-              <div className="text-[9px] font-black text-emerald-100">{scavengeOperation.remaining}T</div>
-              <div className="text-[8px] uppercase tracking-[0.16em] text-white/35">
-                {localize({ en: "to haul", hu: "begyűjtésig", de: "bis Rückkehr", ro: "până la întoarcere" })}
-              </div>
-            </div>
-          </div>
-          <div className="mt-3 h-1.5 w-full overflow-hidden rounded-full bg-white/5">
-            <div
-              className="h-full rounded-full bg-gradient-to-r from-emerald-400 via-cyan-400 to-lime-300 transition-all duration-500"
-              style={{ width: `${scavengeProgress}%` }}
-            />
-          </div>
-        </div>
-      )}
-
-      {/* Main Actions - Bottom Bar */}
-      <nav className="fixed bottom-0 left-0 right-0 p-2.5 pb-[calc(1rem+env(safe-area-inset-bottom))] bg-black/40 backdrop-blur-xl border-t border-white/10 z-40 lg:static lg:bg-transparent lg:border-none lg:p-4 lg:max-w-4xl lg:mx-auto">
-        <div className="mb-1.5 text-[8px] font-black uppercase tracking-[0.16em] text-white/40">
-          {earlyStage
-            ? localize({
-                en: "Start a process once. Tap the same command again if you want to stop it.",
-                hu: "Indíts el egy folyamatot egyszer. Ha le akarod állítani, érintsd meg újra ugyanazt a parancsot.",
-                de: "Starte einen Vorgang einmal. Tippe denselben Befehl erneut an, wenn du ihn stoppen willst.",
-                ro: "Pornește un proces o singură dată. Apasă din nou aceeași comandă dacă vrei să îl oprești.",
-              })
-            : localize({
-                en: "Keep the grid steady and prepare for the next wave.",
-                hu: "Tartsd stabilan a hálót, és készülj a következő hullámra.",
-                de: "Halte das Netz stabil und bereite dich auf die nächste Welle vor.",
-                ro: "Menține rețeaua stabilă și pregătește-te pentru următorul val.",
-              })}
-        </div>
-        <div className="mb-1.5 flex items-center justify-between gap-3">
-          <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-300/75">
-            {localize({ en: "Quick Commands", hu: "Gyors parancsok", de: "Schnellbefehle", ro: "Comenzi rapide" })}
-          </div>
-          {systemsAction && (
-            <button
-              type="button"
-              onClick={systemsAction.onClick}
-              className={`shrink-0 rounded-full border px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.16em] transition ${systemsAction.highlight ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100" : "border-white/10 bg-white/5 text-white/70 hover:bg-white/10"}`}
-            >
-              {systemsAction.label}
-            </button>
-          )}
-        </div>
-        <div className="grid grid-cols-4 gap-1.5 lg:hidden">
-          {prioritizedMobileActions.map((action) => (
-            <MainAction
-              key={action.key}
-              label={action.label}
-              shortLabel={action.shortLabel}
-              icon={action.icon}
-              onClick={() => {
-                setQuickActionsOpen(false);
-                action.onClick();
-              }}
-              disabled={action.disabled}
-              highlight={action.highlight}
-              emphasis={action.emphasis}
-              tone={action.tone}
-              compact
-            />
-          ))}
-          {Array.from({ length: Math.max(0, 3 - prioritizedMobileActions.length) }).map((_, idx) => (
-            <div key={`quick-spacer-${idx}`} className="h-12 rounded-xl border border-dashed border-white/5 bg-white/[0.02]" />
-          ))}
-          <button
-            type="button"
-            onClick={() => setQuickActionsOpen(true)}
-            className={`relative flex h-12 min-h-[46px] flex-col items-center justify-center gap-0.5 rounded-xl border px-1.5 transition-all active:scale-95 ${
-              quickActionsOpen
-                ? "border-cyan-400/70 bg-cyan-400/16 text-cyan-100"
-                : "border-white/10 bg-white/5 text-white/80"
-            }`}
-          >
-            <div className="flex items-center gap-1 text-[10px] font-black uppercase tracking-[0.1em]">
-              <Layers size={12} />
-              <span>{localize({ en: "More", hu: "Több", de: "Mehr", ro: "Mai mult" })}</span>
-            </div>
-            <div className="text-[8px] uppercase tracking-[0.14em] text-white/45">
-              {overflowQuickActions.length > 0
-                ? `+${overflowQuickActions.length}`
-                : localize({ en: "Menu", hu: "Menü", de: "Menü", ro: "Meniu" })}
-            </div>
-            {hiddenUrgentActions && <div className="absolute right-1.5 top-1.5 h-2 w-2 rounded-full bg-amber-300 shadow-[0_0_12px_rgba(252,211,77,0.8)]" />}
-          </button>
-        </div>
-        <div className="hidden gap-2 overflow-x-auto no-scrollbar scrollbar-hide pb-1 lg:flex">
-          {quickActions.map((action) => (
-            <MainAction
-              key={action.key}
-              label={action.label}
-              shortLabel={action.shortLabel}
-              icon={action.icon}
-              onClick={action.onClick}
-              disabled={action.disabled}
-              highlight={action.highlight}
-              emphasis={action.emphasis}
-              tone={action.tone}
-            />
-          ))}
-        </div>
-      </nav>
 
       {/* Sliding Panels */}
       <AnimatePresence>
@@ -1768,6 +1778,91 @@ export default function GravitasPage() {
                     {localize({ en: "How to improve it", hu: "Hogyan javítható", de: "Wie man es verbessert", ro: "Cum se îmbunătățește" })}
                   </div>
                   <p className="mt-1">{localize(resourceHelp[resourceHelpOpen].fix)}</p>
+                </div>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+        {avatarBaseOpen && state.avatarProfile && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[91] bg-black/70 backdrop-blur-sm p-4 flex items-end sm:items-center sm:justify-center"
+            onClick={() => setAvatarBaseOpen(false)}
+          >
+            <motion.div
+              initial={{ opacity: 0, y: 18, scale: 0.98 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: 18, scale: 0.98 }}
+              transition={{ type: "spring", damping: 24, stiffness: 240 }}
+              onClick={(e) => e.stopPropagation()}
+              className="w-full max-w-md rounded-[28px] border border-fuchsia-400/15 bg-[#0b1224]/95 p-5 shadow-[0_20px_80px_rgba(0,0,0,0.45)]"
+            >
+              <div className="flex items-start justify-between gap-4">
+                <div>
+                  <div className="text-[10px] font-black uppercase tracking-[0.22em] text-fuchsia-300/75">
+                    {localize({ en: "Avatar base", hu: "Avatar alap", de: "Avatar-Basis", ro: "Bază avatar" })}
+                  </div>
+                  <div className="mt-1 text-lg font-black text-white">
+                    {localize(state.avatarProfile.title)}
+                  </div>
+                </div>
+                <button
+                  onClick={() => setAvatarBaseOpen(false)}
+                  className="h-9 w-9 rounded-full border border-white/10 bg-white/5 text-white/70"
+                >
+                  <X size={16} className="mx-auto" />
+                </button>
+              </div>
+
+              <div className="mt-4 rounded-2xl border border-white/10 bg-white/[0.03] p-3">
+                <div className="text-[10px] font-black uppercase tracking-[0.18em] text-white/45">
+                  {localize({ en: "Developable imprint lines", hu: "Fejleszthető lenyomat ágak", de: "Entwickelbare Prägungslinien", ro: "Linii de amprentă dezvoltabilă" })}
+                </div>
+                <div className="mt-3 space-y-2">
+                  {state.avatarProfile.answers.map((answer, idx) => (
+                    <div
+                      key={`${answer.questionId}-${answer.optionId}-${idx}`}
+                      className="rounded-2xl border border-fuchsia-400/10 bg-black/20 px-3 py-2.5"
+                    >
+                      <div className="flex items-start justify-between gap-3">
+                        <div className="min-w-0">
+                          <div className="text-[9px] font-black uppercase tracking-[0.16em] text-fuchsia-200/70">
+                            {localize({ en: "Imprint line", hu: "Lenyomat ág", de: "Prägungslinie", ro: "Linie de amprentă" })} {idx + 1}
+                          </div>
+                          <div className="mt-1 text-sm font-black text-white/90">
+                            {localize(answer.label)}
+                          </div>
+                        </div>
+                        <div className="shrink-0 rounded-full border border-cyan-400/15 bg-cyan-400/8 px-2 py-1 text-[9px] font-black uppercase tracking-[0.12em] text-cyan-100/80">
+                          {localize({ en: "Locked", hu: "Zárolt", de: "Gesperrt", ro: "Blocat" })}
+                        </div>
+                      </div>
+                      <div className="mt-2 text-[11px] leading-relaxed text-white/55">
+                        {localize({
+                          en: "This response will open a dedicated avatar growth branch later.",
+                          hu: "Ez a válasz később egy külön avatar-fejlődési ágat nyit meg.",
+                          de: "Diese Antwort wird später einen eigenen Avatar-Entwicklungszweig öffnen.",
+                          ro: "Acest răspuns va deschide mai târziu o ramură dedicată de evoluție a avatarului.",
+                        })}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div className="mt-3 rounded-2xl border border-cyan-400/15 bg-cyan-400/6 px-3 py-2.5">
+                <div className="text-[10px] font-black uppercase tracking-[0.18em] text-cyan-200/80">
+                  {localize({ en: "Status", hu: "Állapot", de: "Status", ro: "Stare" })}
+                </div>
+                <div className="mt-1 text-sm leading-relaxed text-white/75">
+                  {localize({
+                    en: "These imprint choices define the avatar base. Each chosen line will become a separate development path.",
+                    hu: "Ezek a lenyomat-válaszok adják az avatar alapját. Minden kiválasztott ág külön fejlesztési úttá válik majd.",
+                    de: "Diese Prägungsantworten bilden die Avatar-Basis. Jede gewählte Linie wird später ein eigener Entwicklungspfad.",
+                    ro: "Aceste răspunsuri definesc baza avatarului. Fiecare linie aleasă va deveni ulterior o cale separată de dezvoltare.",
+                  })}
                 </div>
               </div>
             </motion.div>
@@ -2114,13 +2209,16 @@ export default function GravitasPage() {
               
               <div className="grid grid-cols-2 gap-4 py-6 border-y border-white/5">
                 <StatItem label="Ticks" value={state.tick} />
-                <StatItem label="Waves" value={state.threatCycle} />
+                <StatItem label="Chapter" value={state.chapter === "demo" ? "I" : "II"} />
+                <StatItem label="Threats" value={state.threatCycle} />
                 <StatItem label="Awakened" value={state.avatarAwake ? "YES" : "NO"} />
                 <StatItem label="Stars" value={state.progression.stars} />
               </div>
 
               <button
-                onClick={() => { clearGravitasSave(); window.location.reload(); }}
+                onClick={() => {
+                  restartGravitasChapter(state.chapter);
+                }}
                 className="w-full py-4 rounded-2xl bg-white text-black font-black uppercase tracking-widest hover:scale-105 active:scale-95 transition shadow-2xl"
               >
                 {localize(content.victory.tryAgain)}
@@ -2135,10 +2233,11 @@ export default function GravitasPage() {
 }
 
 function StatItem({ label, value }: { label: string; value: string | number }) {
+  const displayValue = typeof value === "number" ? formatCompactStarholdValue(value) : value;
   return (
     <div className="text-left">
       <div className="text-[10px] font-black text-white/30 uppercase tracking-widest">{label}</div>
-      <div className="text-xl font-black text-white">{value}</div>
+      <div className="text-xl font-black text-white">{displayValue}</div>
     </div>
   );
 }
@@ -2174,7 +2273,7 @@ function HUDChip({ icon, value, color, onClick }: { icon: React.ReactNode; value
         animate={{ y: 0, opacity: 1 }}
         className="inline-block"
       >
-        {value}
+        {formatCompactStarholdValue(value)}
       </motion.span>
       <AnimatePresence>
         {diff !== null && (
@@ -2189,6 +2288,458 @@ function HUDChip({ icon, value, color, onClick }: { icon: React.ReactNode; value
         )}
       </AnimatePresence>
     </motion.button>
+  );
+}
+
+function AvatarBaseChip({
+  icon,
+  onClick,
+}: {
+  icon: React.ReactNode;
+  onClick?: () => void;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className="relative flex h-8 w-8 items-center justify-center rounded-xl border border-fuchsia-400/15 bg-fuchsia-400/8 text-fuchsia-100 transition-all hover:bg-fuchsia-400/12"
+    >
+      {icon}
+    </button>
+  );
+}
+
+function SensorInteriorView({ onClose }: { onClose: () => void }) {
+  return (
+    <div className="relative flex h-full flex-col">
+      <div className="pointer-events-none absolute inset-0 opacity-90">
+        <div
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: "url('/gravitas/sensor-interior-v2.webp')" }}
+        />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(34,211,238,0.08),transparent_26%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.42)_100%)]" />
+      </div>
+
+      <div className="relative z-10 flex items-start justify-between gap-4 p-4">
+        <div />
+        <button
+          type="button"
+          onClick={onClose}
+          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+        >
+          <X size={16} />
+        </button>
+      </div>
+
+      <div className="relative z-10 flex-1 px-4 pb-4">
+        <div className="relative h-full overflow-hidden rounded-[28px] border border-cyan-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/5 via-transparent to-black/20" />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ReactorInteriorView({ onClose }: { onClose: () => void }) {
+  return (
+    <div className="relative flex h-full flex-col">
+      <div className="pointer-events-none absolute inset-0 opacity-95">
+        <div
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: "url('/gravitas/reactor-interior.webp')" }}
+        />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(251,146,60,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
+      </div>
+
+      <div className="relative z-10 flex items-start justify-end p-4">
+        <button
+          type="button"
+          onClick={onClose}
+          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+        >
+          <X size={16} />
+        </button>
+      </div>
+
+      <div className="relative z-10 flex-1 px-4 pb-4">
+        <div className="relative h-full overflow-hidden rounded-[28px] border border-amber-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-amber-400/5 via-transparent to-black/20" />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CoreInteriorView({ onClose }: { onClose: () => void }) {
+  return (
+    <div className="relative flex h-full flex-col">
+      <div className="pointer-events-none absolute inset-0 opacity-95">
+        <div
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: "url('/gravitas/core-interior.webp')" }}
+        />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_42%,rgba(217,70,239,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
+      </div>
+
+      <div className="relative z-10 flex items-start justify-end p-4">
+        <button
+          type="button"
+          onClick={onClose}
+          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+        >
+          <X size={16} />
+        </button>
+      </div>
+
+      <div className="relative z-10 flex-1 px-4 pb-4">
+        <div className="relative h-full overflow-hidden rounded-[28px] border border-fuchsia-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-fuchsia-400/5 via-transparent to-black/20" />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function GalaxyInteriorView({ onClose }: { onClose: () => void }) {
+  const [selectedPoi, setSelectedPoi] = useState<null | "harvest" | "hq" | "node" | "fog" | "signal">(null);
+  const [filters, setFilters] = useState({
+    harvest: true,
+    hq: true,
+    node: true,
+    fog: true,
+  });
+
+  const toggleFilter = (key: keyof typeof filters) => {
+    setFilters((prev) => ({ ...prev, [key]: !prev[key] }));
+    if (
+      selectedPoi &&
+      ((selectedPoi === "harvest" && key === "harvest") ||
+        (selectedPoi === "hq" && key === "hq") ||
+        (selectedPoi === "node" && key === "node") ||
+        ((selectedPoi === "fog" || selectedPoi === "signal") && key === "fog"))
+    ) {
+      setSelectedPoi(null);
+    }
+  };
+
+  return (
+    <div className="relative flex h-full flex-col">
+      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_50%_42%,rgba(34,211,238,0.06),transparent_26%),linear-gradient(180deg,rgba(5,8,22,0.06)_0%,rgba(5,8,22,0.26)_100%)]" />
+
+      <div className="relative z-10 flex items-start justify-between gap-3 p-4">
+        <div className="flex flex-wrap items-center gap-2">
+          {[
+            { key: "harvest", label: "Gyűjtőhelyek", active: filters.harvest },
+            { key: "hq", label: "Hadiszállások", active: filters.hq },
+            { key: "node", label: "Node-ok", active: filters.node },
+            { key: "fog", label: "Ködmezők", active: filters.fog },
+          ].map((item) => (
+            <button
+              key={item.key}
+              type="button"
+              onClick={() => toggleFilter(item.key as keyof typeof filters)}
+              className={`rounded-full border px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.24em] transition ${
+                item.active
+                  ? "border-cyan-300/35 bg-cyan-400/12 text-cyan-50"
+                  : "border-white/10 bg-black/25 text-white/45"
+              }`}
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
+        <button
+          type="button"
+          onClick={onClose}
+          className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+        >
+          <X size={16} />
+        </button>
+      </div>
+
+      <div className="relative z-10 flex-1 px-4 pb-4">
+        <div className="relative h-full overflow-hidden rounded-[28px] border border-cyan-400/15 bg-black/10 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/5 via-transparent to-black/20" />
+          <div className="absolute inset-0 overflow-auto">
+            <div
+              className="relative min-h-[1100px] min-w-[1400px]"
+              style={{
+                backgroundImage: "url('/gravitas/galaxy/deep-space-tile.webp')",
+                backgroundRepeat: "repeat",
+                backgroundSize: "420px 420px",
+              }}
+            >
+              <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_18%_20%,rgba(90,90,220,0.10),transparent_20%),radial-gradient(circle_at_74%_66%,rgba(34,211,238,0.08),transparent_18%),linear-gradient(180deg,rgba(3,8,22,0.1)_0%,rgba(3,8,22,0.34)_100%)]" />
+              <img
+                src="/gravitas/galaxy/nebula-cloud.webp"
+                alt=""
+                className="pointer-events-none absolute left-[11%] top-[8%] w-[36%] select-none opacity-70 mix-blend-screen"
+                draggable={false}
+              />
+              <img
+                src="/gravitas/galaxy/nebula-cloud.webp"
+                alt=""
+                className="pointer-events-none absolute right-[6%] top-[40%] w-[28%] rotate-[24deg] select-none opacity-45 mix-blend-screen"
+                draggable={false}
+              />
+
+              {filters.fog && (
+                <>
+                  <button
+                    type="button"
+                    onClick={() => setSelectedPoi("fog")}
+                    className="absolute left-[52%] top-[12%] w-[28%] transition hover:scale-[1.02]"
+                  >
+                    <img
+                      src="/gravitas/galaxy/mythic-fog.webp"
+                      alt=""
+                      className="pointer-events-none h-auto w-full select-none object-contain opacity-90 drop-shadow-[0_0_46px_rgba(168,85,247,0.18)]"
+                      draggable={false}
+                    />
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setSelectedPoi("signal")}
+                    className="absolute left-[10%] top-[52%] w-[22%] transition hover:scale-[1.02]"
+                  >
+                    <img
+                      src="/gravitas/galaxy/signal-fog.webp"
+                      alt=""
+                      className="pointer-events-none h-auto w-full select-none object-contain opacity-85 drop-shadow-[0_0_34px_rgba(217,70,239,0.18)]"
+                      draggable={false}
+                    />
+                  </button>
+                </>
+              )}
+
+              {filters.harvest && (
+                <button
+                  type="button"
+                  onClick={() => setSelectedPoi("harvest")}
+                  className="absolute left-[38%] top-[52%] w-[18%] transition hover:scale-[1.03]"
+                >
+                  <img
+                    src="/gravitas/galaxy/asteroid-field.webp"
+                    alt=""
+                    className="pointer-events-none h-auto w-full select-none object-contain drop-shadow-[0_0_26px_rgba(34,211,238,0.16)]"
+                    draggable={false}
+                  />
+                </button>
+              )}
+
+              {filters.hq && (
+                <button
+                  type="button"
+                  onClick={() => setSelectedPoi("hq")}
+                  className="absolute right-[12%] top-[22%] w-[14%] transition hover:scale-[1.03]"
+                >
+                  <img
+                    src="/gravitas/galaxy/enemy-hq.webp"
+                    alt=""
+                    className="pointer-events-none h-auto w-full select-none object-contain drop-shadow-[0_0_34px_rgba(244,63,94,0.18)]"
+                    draggable={false}
+                  />
+                </button>
+              )}
+
+              {filters.node && (
+                <button
+                  type="button"
+                  onClick={() => setSelectedPoi("node")}
+                  className="absolute right-[20%] bottom-[16%] w-[14%] transition hover:scale-[1.03]"
+                >
+                  <img
+                    src="/gravitas/galaxy/neutral-node.webp"
+                    alt=""
+                    className="pointer-events-none h-auto w-full select-none object-contain drop-shadow-[0_0_34px_rgba(139,92,246,0.18)]"
+                    draggable={false}
+                  />
+                </button>
+              )}
+
+              <div className="pointer-events-none absolute left-[44%] top-[56%] h-4 w-4 rounded-full bg-cyan-300/90 shadow-[0_0_20px_rgba(34,211,238,0.7)]" />
+              <div className="pointer-events-none absolute right-[17.5%] top-[31%] h-3 w-3 rounded-full bg-rose-300/90 shadow-[0_0_18px_rgba(251,113,133,0.65)]" />
+              <div className="pointer-events-none absolute right-[26%] bottom-[25%] h-3 w-3 rounded-full bg-violet-300/90 shadow-[0_0_18px_rgba(167,139,250,0.65)]" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ModuleArtOverlay({
+  selectedModule,
+  onSelectModule,
+}: {
+  selectedModule: StarholdModuleId;
+  onSelectModule: (moduleId: StarholdModuleId) => void;
+}) {
+  const modules = [
+    {
+      id: "reactor" as const,
+      src: "/gravitas/modules/reactor-module.webp",
+      className:
+        "left-[18%] top-[14%] w-[14%] max-w-[124px]",
+      hitboxClassName: "inset-[14%]",
+      motion: {
+        y: [-2, 2, -1],
+        x: [0, 1, 0],
+        rotate: [-0.4, 0.5, -0.2],
+      },
+      duration: 6.4,
+    },
+    {
+      id: "logistics" as const,
+      src: "/gravitas/modules/logistics-module.webp",
+      className:
+        "right-[16%] top-[15%] w-[16%] max-w-[136px]",
+      hitboxClassName: "inset-[13%]",
+      motion: {
+        y: [-1, 1.5, -1],
+        x: [0, -1, 0],
+        rotate: [-0.25, 0.25, -0.15],
+      },
+      duration: 7.6,
+    },
+    {
+      id: "sensor" as const,
+      src: "/gravitas/modules/sensor-module.webp",
+      className:
+        "left-[24%] bottom-[12%] w-[13%] max-w-[116px]",
+      hitboxClassName: "inset-[10%]",
+      motion: {
+        y: [-2, 1, -2],
+        x: [0, 1.5, 0],
+        rotate: [-0.6, 0.7, -0.3],
+      },
+      duration: 5.8,
+    },
+    {
+      id: "core" as const,
+      src: "/gravitas/modules/core-module.webp",
+      className:
+        "left-1/2 top-[51%] w-[38%] max-w-[330px] -translate-x-1/2 -translate-y-1/2",
+      hitboxClassName: "inset-[18%]",
+      motion: {
+        y: [-3, 2, -2],
+        x: [0, 0.5, 0],
+        rotate: [-0.3, 0.3, -0.15],
+      },
+      duration: 8.8,
+    },
+  ];
+
+  return (
+    <div className="pointer-events-none absolute inset-0 z-[6]">
+      {modules.map((module) => {
+        const isSelected = selectedModule === module.id;
+        return (
+          <motion.div
+            key={module.id}
+            className={`absolute transition-all duration-500 ${module.className} ${isSelected ? "scale-[1.03] opacity-100" : "opacity-[0.94]"}`}
+            style={{
+              filter: isSelected
+                ? "drop-shadow(0 0 28px rgba(255,255,255,0.12)) drop-shadow(0 0 26px rgba(34,211,238,0.16)) drop-shadow(0 12px 24px rgba(0,0,0,0.32))"
+                : "drop-shadow(0 0 18px rgba(34,211,238,0.06)) drop-shadow(0 10px 22px rgba(0,0,0,0.34))",
+            }}
+            animate={module.motion}
+            transition={{ duration: module.duration, repeat: Infinity, ease: "easeInOut" }}
+          >
+            <div className="absolute inset-[2%] -z-10 rounded-[40px] bg-[radial-gradient(circle_at_50%_52%,rgba(8,15,30,0.82),rgba(8,15,30,0.28)_58%,transparent_84%)] blur-xl" />
+            <div className="absolute inset-[11%] -z-10 rounded-[34px] bg-[radial-gradient(circle_at_50%_56%,rgba(34,211,238,0.07),transparent_68%)] blur-2xl" />
+            <motion.div
+              className="pointer-events-none absolute inset-[8%] -z-10 rounded-[34px] bg-[radial-gradient(circle_at_50%_56%,rgba(255,255,255,0.06),transparent_62%)] blur-[18px]"
+              animate={{ opacity: isSelected ? [0.18, 0.3, 0.2] : [0.08, 0.16, 0.1] }}
+              transition={{ duration: 3.6, repeat: Infinity, ease: "easeInOut" }}
+            />
+            <img
+              src={module.src}
+              alt=""
+              className="h-auto w-full select-none object-contain [mask-image:radial-gradient(circle_at_50%_50%,black_66%,rgba(0,0,0,0.92)_78%,transparent_100%)]"
+              draggable={false}
+            />
+            {module.id === "core" && (
+              <>
+                <motion.div
+                  className="pointer-events-none absolute inset-[22%] rounded-full bg-[radial-gradient(circle,rgba(236,72,153,0.18),rgba(34,211,238,0.08)_42%,transparent_72%)] blur-xl"
+                  animate={{ scale: [0.95, 1.04, 0.98], opacity: [0.22, 0.46, 0.28] }}
+                  transition={{ duration: 4.6, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.div
+                  className="pointer-events-none absolute left-[16%] top-[49%] h-[2px] w-[68%] bg-[linear-gradient(90deg,transparent,rgba(236,72,153,0.0),rgba(236,72,153,0.45),rgba(34,211,238,0.36),transparent)] blur-[1px]"
+                  animate={{ x: ["-5%", "8%", "-5%"], opacity: [0.08, 0.22, 0.08] }}
+                  transition={{ duration: 5.2, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.div
+                  className="pointer-events-none absolute inset-[10%] rounded-full border border-fuchsia-300/10"
+                  animate={{ opacity: [0.08, 0.2, 0.1], scale: [0.98, 1.01, 0.99] }}
+                  transition={{ duration: 6.4, repeat: Infinity, ease: "easeInOut" }}
+                />
+              </>
+            )}
+            {module.id === "reactor" && (
+              <>
+                <motion.div
+                  className="pointer-events-none absolute inset-[18%] rounded-full bg-[radial-gradient(circle,rgba(251,146,60,0.16),rgba(251,146,60,0.07)_46%,transparent_74%)] blur-xl"
+                  animate={{ scale: [0.96, 1.06, 0.98], opacity: [0.12, 0.28, 0.16] }}
+                  transition={{ duration: 2.6, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.div
+                  className="pointer-events-none absolute left-[22%] top-[56%] h-[2px] w-[52%] bg-[linear-gradient(90deg,transparent,rgba(251,146,60,0.0),rgba(251,146,60,0.56),transparent)]"
+                  animate={{ opacity: [0.06, 0.22, 0.06], scaleX: [0.92, 1.04, 0.94] }}
+                  transition={{ duration: 1.8, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.span
+                  className="pointer-events-none absolute left-[38%] top-[28%] h-1.5 w-1.5 rounded-full bg-amber-200 shadow-[0_0_10px_rgba(251,191,36,0.55)]"
+                  animate={{ opacity: [0.24, 0.82, 0.28], scale: [0.8, 1.2, 0.9] }}
+                  transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
+                />
+              </>
+            )}
+            {module.id === "sensor" && (
+              <>
+                <motion.div
+                  className="pointer-events-none absolute inset-[16%] rounded-full bg-[radial-gradient(circle,rgba(34,211,238,0.14),rgba(34,211,238,0.04)_48%,transparent_74%)] blur-xl"
+                  animate={{ opacity: [0.07, 0.2, 0.08], rotate: [0, 10, -8, 0] }}
+                  transition={{ duration: 3.1, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.div
+                  className="pointer-events-none absolute left-[18%] top-[47%] h-[2px] w-[64%] origin-left bg-[linear-gradient(90deg,transparent,rgba(34,211,238,0.0),rgba(34,211,238,0.8),transparent)] blur-[1px]"
+                  animate={{ rotate: [-18, 10, -18], opacity: [0.08, 0.26, 0.08] }}
+                  transition={{ duration: 3.8, repeat: Infinity, ease: "easeInOut" }}
+                />
+              </>
+            )}
+            {module.id === "logistics" && (
+              <>
+                <motion.div
+                  className="pointer-events-none absolute inset-[20%] rounded-[28px] bg-[radial-gradient(circle,rgba(129,140,248,0.14),rgba(129,140,248,0.04)_48%,transparent_76%)] blur-xl"
+                  animate={{ opacity: [0.06, 0.18, 0.08], scale: [0.97, 1.02, 0.99] }}
+                  transition={{ duration: 3.6, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.span
+                  className="pointer-events-none absolute left-[24%] top-[34%] h-1.5 w-1.5 rounded-full bg-indigo-200 shadow-[0_0_10px_rgba(165,180,252,0.6)]"
+                  animate={{ x: [0, 14, 0], opacity: [0.3, 0.85, 0.3] }}
+                  transition={{ duration: 2.2, repeat: Infinity, ease: "easeInOut" }}
+                />
+                <motion.span
+                  className="pointer-events-none absolute right-[26%] bottom-[26%] h-1.5 w-1.5 rounded-full bg-cyan-200 shadow-[0_0_10px_rgba(34,211,238,0.5)]"
+                  animate={{ x: [0, -12, 0], opacity: [0.22, 0.74, 0.22] }}
+                  transition={{ duration: 2.8, repeat: Infinity, ease: "easeInOut", delay: 0.8 }}
+                />
+              </>
+            )}
+            <button
+              type="button"
+              aria-label={module.id}
+              onClick={() => onSelectModule(module.id)}
+              className={`absolute ${module.hitboxClassName} pointer-events-auto rounded-[28px] bg-transparent`}
+            />
+          </motion.div>
+        );
+      })}
+    </div>
   );
 }
 
@@ -2211,6 +2762,73 @@ function Badge({ color, label, lang }: { color: string; label: LocalizedString; 
     <div className={`px-2 py-1 rounded text-[9px] font-black uppercase tracking-tight border border-white/5 ${color}`}>
       {label[lang as keyof LocalizedString] || label.en}
     </div>
+  );
+}
+
+function MapMiniButton({
+  icon,
+  active,
+  onClick,
+  showDot,
+}: {
+  icon: React.ReactNode;
+  active?: boolean;
+  onClick: () => void;
+  showDot?: boolean;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className={`relative flex h-9 w-9 items-center justify-center rounded-full border backdrop-blur-md transition ${
+        active
+          ? "border-cyan-300/45 bg-cyan-400/14 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.16)]"
+          : "border-white/10 bg-black/28 text-white/70 hover:bg-white/10"
+      }`}
+    >
+      {icon}
+      {showDot && <span className="absolute right-1.5 top-1.5 h-1.5 w-1.5 rounded-full bg-amber-300 shadow-[0_0_10px_rgba(252,211,77,0.8)]" />}
+    </button>
+  );
+}
+
+function MiniActionButton({
+  icon,
+  label,
+  onClick,
+  disabled,
+  highlight,
+  tone = "default",
+}: {
+  icon?: React.ReactNode;
+  label?: string;
+  onClick: () => void;
+  disabled?: boolean;
+  highlight?: boolean;
+  tone?: "default" | "warning" | "danger";
+}) {
+  const toneClass =
+    tone === "danger"
+      ? "border-rose-500/60 bg-rose-500/14 text-rose-50"
+      : tone === "warning"
+        ? "border-amber-400/60 bg-amber-400/14 text-amber-50"
+        : highlight
+          ? "border-cyan-300/50 bg-cyan-400/14 text-cyan-100"
+          : "border-white/10 bg-white/5 text-white/80";
+
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      disabled={disabled}
+      title={label}
+      aria-label={label}
+      className={`flex h-11 w-11 items-center justify-center rounded-2xl border transition active:scale-95 ${
+        disabled ? "cursor-not-allowed border-white/5 bg-white/5 text-white/20 grayscale" : toneClass
+      }`}
+    >
+      {icon}
+    </button>
   );
 }
 

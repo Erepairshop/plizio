@@ -7,10 +7,10 @@ const CORE_X = SCENE_WIDTH / 2;
 const CORE_Y = SCENE_HEIGHT / 2;
 
 const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
-  reactor: { x: 210, y: 140 },
-  logistics: { x: 625, y: 154 },
+  reactor: { x: 248, y: 166 },
+  logistics: { x: 610, y: 176 },
   core: { x: CORE_X, y: CORE_Y },
-  sensor: { x: 320, y: 445 },
+  sensor: { x: 312, y: 388 },
 };
 
 const SECTOR_COLORS: Record<StarholdModuleId, number> = {
@@ -87,6 +87,12 @@ export class GravitasBaseScene extends Phaser.Scene {
   constructor(options: SceneOptions = {}) {
     super({ key: "GravitasBaseScene" });
     this.onSelectModule = options.onSelectModule;
+  }
+
+  preload() {
+    if (!this.textures.exists("scavenge-drone-art")) {
+      this.load.image("scavenge-drone-art", "/gravitas/drone-scavenge.webp");
+    }
   }
 
   create() {
@@ -175,7 +181,8 @@ export class GravitasBaseScene extends Phaser.Scene {
         fontStyle: "bold",
         color: "#f8fafc",
       }).setOrigin(0.5);
-      const hitbox = this.add.circle(pos.x, pos.y, 36, 0xffffff, 0.001).setInteractive({ useHandCursor: true });
+      const hitboxRadius = moduleId === "sensor" ? 58 : moduleId === "logistics" ? 56 : 54;
+      const hitbox = this.add.circle(pos.x, pos.y, hitboxRadius, 0xffffff, 0.001).setInteractive({ useHandCursor: true });
       const label = this.add.text(pos.x, pos.y + 40, moduleId.toUpperCase(), {
         fontFamily: "Inter, Arial",
         fontSize: "11px",
@@ -208,7 +215,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     // Overlay the custom module silhouettes above the default shells.
     this.root.add(this.moduleVisualsGfx);
 
-    this.coreHitbox = this.add.circle(centerX, centerY, 54, 0xffffff, 0.001)
+    this.coreHitbox = this.add.circle(centerX, centerY, 68, 0xffffff, 0.001)
       .setInteractive({ useHandCursor: true });
     this.coreHitbox.on("pointerdown", () => this.onSelectModule?.("core"));
     this.coreLabel = this.add.text(centerX, centerY + 62, "CORE", {
@@ -226,6 +233,8 @@ export class GravitasBaseScene extends Phaser.Scene {
       padding: { left: 8, right: 8, top: 3, bottom: 3 },
     }).setOrigin(0.5);
     this.root.add([this.coreHitbox, this.coreLabel, this.coreLevel]);
+
+    this.applyExternalArtMode();
 
     this.bootReady = true;
   }
@@ -254,17 +263,46 @@ export class GravitasBaseScene extends Phaser.Scene {
   update(time: number, delta: number) {
     this.animTime += delta;
 
-    this.stars.forEach(s => {
-      s.node.x += s.speed;
-      if (s.node.x > SCENE_WIDTH) s.node.x = 0;
-    });
-
     const pulse = Math.sin(this.animTime / 500) * 0.1 + 1;
     this.coreCenter.setScale(pulse);
   }
 
+  private applyExternalArtMode() {
+    this.coreGlow.setAlpha(0);
+    this.coreRing.setAlpha(0);
+    this.coreShell.setAlpha(0);
+    this.coreCenter.setAlpha(0);
+    this.coreGlyph.setAlpha(0);
+    this.coreLabel.setAlpha(0);
+    this.coreLevel.setAlpha(0);
+
+    this.moduleVisualsGfx.setAlpha(0);
+    this.sectorGfx.setAlpha(0);
+    this.linkGfx.setAlpha(0);
+    this.heatGfx.setAlpha(0);
+    this.activationGfx.setAlpha(0);
+    this.activeOpsGfx.setAlpha(0);
+    this.threatGfx.setAlpha(0);
+    this.noiseGfx.setAlpha(0);
+    this.stars.forEach(({ node }) => node.setAlpha(0));
+    this.meteors.forEach((meteor) => meteor.setAlpha(0));
+
+    for (const [, node] of this.moduleNodes) {
+      node.glow.setAlpha(0);
+      node.shell.setAlpha(0);
+      node.ring.setAlpha(0);
+      node.glyph.setAlpha(0);
+      node.label.setAlpha(0);
+      node.level.setAlpha(0);
+    }
+  }
+
   focusOnModule(moduleId: StarholdModuleId, force = false, zoomOverride?: number) {
     if (!this.bootReady || !this.cameras?.main) return;
+    if (!force) {
+      this.currentFocus = moduleId;
+      return;
+    }
     if (!force && this.isActionSequenceActive()) return;
     if (!force && this.currentFocus === moduleId) return;
     this.currentFocus = moduleId;
@@ -329,6 +367,41 @@ export class GravitasBaseScene extends Phaser.Scene {
       ease: "Sine.Out",
       onComplete: () => ring.destroy(),
     });
+  }
+
+  private createScavengeDroneVisual(tint: number) {
+    const drone = this.add.container(0, 0);
+    const textureKey = this.textures.exists("scavenge-drone-art") ? "scavenge-drone-art" : "drone";
+    const body = this.add.image(0, 0, textureKey).setTint(tint);
+    const bodyScale = textureKey === "scavenge-drone-art" ? 0.12 : 1;
+    body.setScale(bodyScale);
+
+    const engineLeft = this.add.circle(18 * bodyScale * 3.5, 10 * bodyScale * 3.5, 4, 0x67e8f9, 0.55);
+    const engineRight = this.add.circle(24 * bodyScale * 3.5, -9 * bodyScale * 3.5, 4, 0x67e8f9, 0.55);
+    const engineGlow = this.add.circle(12 * bodyScale * 3.5, 0, 7, 0x67e8f9, 0.16);
+    drone.add([engineGlow, body, engineLeft, engineRight]);
+
+    this.tweens.add({
+      targets: [engineLeft, engineRight],
+      alpha: { from: 0.35, to: 0.95 },
+      scale: { from: 0.8, to: 1.18 },
+      duration: 260,
+      yoyo: true,
+      repeat: -1,
+      ease: "Sine.InOut",
+    });
+
+    this.tweens.add({
+      targets: engineGlow,
+      alpha: { from: 0.08, to: 0.24 },
+      scale: { from: 0.88, to: 1.2 },
+      duration: 420,
+      yoyo: true,
+      repeat: -1,
+      ease: "Sine.InOut",
+    });
+
+    return { drone, body };
   }
 
   private createLogisticsCollectionGlow(pos: { x: number; y: number }) {
@@ -512,10 +585,10 @@ export class GravitasBaseScene extends Phaser.Scene {
     this.createPulseRing(from.x, from.y, 34, 0x818cf8, 420, 1.5, 0.6);
     this.createPulseRing(from.x, from.y, 48, 0x38bdf8, 620, 1.7, 0.4);
 
-    const drone = this.add.container(from.x, from.y);
-    const body = this.add.image(0, 0, "drone").setTint(0x818cf8);
+    const { drone } = this.createScavengeDroneVisual(0xffffff);
+    drone.setPosition(from.x, from.y);
     const cargoGlow = this.add.circle(6, 0, 4, 0xf8fafc, 0.8);
-    drone.add([body, cargoGlow]);
+    drone.add(cargoGlow);
     this.scavengeDrones.push(drone);
 
     const targetX = 770;
@@ -526,6 +599,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       targets: drone,
       x: targetX,
       y: targetY,
+      angle: 10,
       duration: 760,
       ease: "Cubic.Out",
       onComplete: () => {
@@ -576,6 +650,7 @@ export class GravitasBaseScene extends Phaser.Scene {
             targets: drone,
             x: from.x,
             y: from.y,
+            angle: -8,
             duration: 760,
             ease: "Cubic.In",
             onComplete: () => {
@@ -759,9 +834,8 @@ export class GravitasBaseScene extends Phaser.Scene {
 
   private launchScavengeDrone() {
     const from = MODULE_POSITIONS.logistics;
-    const drone = this.add.container(from.x, from.y);
-    const body = this.add.image(0, 0, "drone").setTint(0x6366f1);
-    drone.add([body]);
+    const { drone } = this.createScavengeDroneVisual(0xffffff);
+    drone.setPosition(from.x, from.y);
 
     const targetX = from.x + Phaser.Math.Between(150, 300);
     const targetY = from.y + Phaser.Math.Between(-100, 100);
@@ -774,6 +848,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       targets: drone,
       x: targetX,
       y: targetY,
+      angle: 8,
       duration: 1200,
       ease: "Power2",
       onComplete: () => {
@@ -793,6 +868,7 @@ export class GravitasBaseScene extends Phaser.Scene {
               targets: drone,
               x: from.x,
               y: from.y,
+              angle: -6,
               duration: 1000,
               ease: "Power2",
               onComplete: () => {
@@ -1233,12 +1309,14 @@ export class GravitasBaseScene extends Phaser.Scene {
     }
 
     this.activationGfx.clear();
-    this.activationGfx.lineStyle(4, 0xdb2777, 0.4);
-    this.activationGfx.strokeCircle(centerX, centerY, 45);
-    this.activationGfx.lineStyle(4, 0xdb2777, 1);
-    this.activationGfx.beginPath();
-    this.activationGfx.arc(centerX, centerY, 45, Phaser.Math.DegToRad(-90), Phaser.Math.DegToRad(-90 + (state.resources.activation / 100) * 360), false);
-    this.activationGfx.strokePath();
+    if (state.chapter === "demo") {
+      this.activationGfx.lineStyle(4, 0xdb2777, 0.4);
+      this.activationGfx.strokeCircle(centerX, centerY, 45);
+      this.activationGfx.lineStyle(4, 0xdb2777, 1);
+      this.activationGfx.beginPath();
+      this.activationGfx.arc(centerX, centerY, 45, Phaser.Math.DegToRad(-90), Phaser.Math.DegToRad(-90 + (state.resources.activation / 100) * 360), false);
+      this.activationGfx.strokePath();
+    }
 
     if (state.resonance > 0 && this.resonanceEmitter) {
       this.resonanceEmitter.emitting = true;
@@ -1263,7 +1341,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       let color = 0x4b5563;
       let alpha = 0.18;
       if (m.online) {
-        if (m.integrity < 40) {
+        if (m.integrity < 50) {
           color = 0xe11d48;
           alpha = 0.28 + Math.sin(this.animTime / 200) * 0.12;
         } else {
@@ -1315,12 +1393,16 @@ export class GravitasBaseScene extends Phaser.Scene {
       if (m.load > 0) {
         const heatColor = m.load >= 90 ? 0xe11d48 : m.load >= 50 ? 0xf59e0b : 0x3b82f6;
         const heatAlpha = (m.load / 100) * 0.5;
-        this.heatGfx.lineStyle(2, heatColor, heatAlpha);
-        if (m.load >= 90 && Math.sin(this.animTime / 100) > 0) {
-            this.heatGfx.lineStyle(3, heatColor, 0.8);
+        if (m.load >= 50) {
+          this.heatGfx.lineStyle(2, heatColor, heatAlpha);
+          if (m.load >= 90 && Math.sin(this.animTime / 100) > 0) {
+              this.heatGfx.lineStyle(3, heatColor, 0.8);
+          }
+          this.heatGfx.strokeCircle(pos.x, pos.y, 30 + Math.sin(this.animTime / 300) * 2);
         }
-        this.heatGfx.strokeCircle(pos.x, pos.y, 30 + Math.sin(this.animTime / 300) * 2);
       }
     }
+
+    this.applyExternalArtMode();
   }
 }

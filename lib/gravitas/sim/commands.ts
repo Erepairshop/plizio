@@ -8,6 +8,8 @@ import { buyStarholdItem, checkStarholdMilestones, claimStarholdMilestone } from
 import { getStarholdModifiers } from "./modifiers";
 import { createNextThreat } from "./threats";
 import { markBootstrapCheckpoint } from "./bootstrap";
+import { moveToContinuationChapter } from "./chapter";
+import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 
 function startOperation(
   state: StarholdState,
@@ -64,6 +66,10 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       : command.type === "REPAIR_MODULE"
         ? command.moduleId
         : null;
+  const isRepairChallengeResolution =
+    state.repairChallenge.active &&
+    ((repairChallengeTarget === "reactor" && command.type === "STABILIZE_REACTOR") ||
+      (command.type === "REPAIR_MODULE" && commandModule === repairChallengeTarget));
   if (
     state.repairChallenge.active &&
     commandModule &&
@@ -78,7 +84,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     });
   }
 
-  if (state.pendingEvent && command.type !== "RESOLVE_EVENT" && !(state.repairChallenge.active && command.type === "REPAIR_MODULE")) {
+  if (state.pendingEvent && command.type !== "RESOLVE_EVENT" && !isRepairChallengeResolution) {
     return withAlert(state, GRAVITAS_TEXT.alerts.resolveAnomaly);
   }
 
@@ -131,7 +137,9 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         });
       }
 
-      const cycleDuration = 5;
+      const cycleDuration = state.chapter === "continuation"
+        ? getContinuationScavengeProfile(state).cycleDuration
+        : 5;
       return {
         ...markBootstrapCheckpoint(state, "logistics"),
         scavengeOperation: {
@@ -160,6 +168,42 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const cost = Math.max(1, Math.ceil(profile.repairCost * mods.powerCostMod) - (introWindow ? 1 : 0));
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
+      }
+      if (state.chapter === "continuation") {
+        const target = state.modules.reactor;
+        const nextIntegrity = clamp(Math.max(96, target.integrity + Math.floor(profile.repairGain * mods.recoveryEfficiency)));
+        return normalizeContinuationState({
+          ...state,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - cost),
+          },
+          modules: {
+            ...state.modules,
+            reactor: {
+              ...target,
+              integrity: nextIntegrity,
+              online: true,
+              load: 18,
+            },
+          },
+          crisis: false,
+          lockdown: false,
+          lockdownDuration: 0,
+          stationLost: false,
+          alert: {
+            en: "Reactor field restored. Stability locked back in.",
+            hu: "A reaktormező helyreállt. A stabilitás visszaállt.",
+            de: "Reaktorfeld wiederhergestellt. Stabilität ist zurück.",
+            ro: "Câmpul reactorului a fost restaurat. Stabilitatea a revenit.",
+          },
+          journal: pushJournal(state, {
+            en: "Chapter II reactor stabilization snapped the station back into balance.",
+            hu: "A Chapter II reaktor-stabilizálás visszarántotta az állomást az egyensúlyba.",
+            de: "Die Kapitel-II-Reaktorstabilisierung brachte die Station sofort zurück ins Gleichgewicht.",
+            ro: "Stabilizarea reactorului din Capitolul II a readus instant stația în echilibru.",
+          }),
+        });
       }
       const repairChallengeTarget = getRepairChallengeModule(state.repairChallenge);
       if (state.repairChallenge.active && repairChallengeTarget === "reactor") {
@@ -221,6 +265,29 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const cost = 10;
       if (state.resources.materials < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
+      }
+      if (state.chapter === "continuation") {
+        const target = state.modules[command.moduleId];
+        const nextIntegrity = clamp(Math.max(96, target.integrity + Math.floor(profile.repairGain * mods.recoveryEfficiency)));
+        const continuationRestored = normalizeContinuationState({
+          ...state,
+          resources: {
+            ...state.resources,
+            materials: clamp(state.resources.materials - cost),
+          },
+          modules: {
+            ...state.modules,
+            [command.moduleId]: {
+              ...target,
+              integrity: nextIntegrity,
+              online: true,
+              load: Math.min(target.load, command.moduleId === "logistics" ? 12 : command.moduleId === "sensor" ? 10 : 16),
+            },
+          },
+          alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
+          journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
+        });
+        return continuationRestored;
       }
       const introWindow = state.phase === "boot" && state.tick < 90;
       const target = state.modules[command.moduleId];
@@ -317,8 +384,9 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         return nextState;
       }
 
+      const awakenedBase = moveToContinuationChapter({ ...state, avatarAwake: true, phase: "awakened" });
       const awakenedThreat = state.threat.pausedUntilAwake
-        ? createNextThreat({ ...state, avatarAwake: true }, state.threatCycle + 1)
+        ? createNextThreat(awakenedBase, state.threatCycle + 1)
         : state.threat;
 
       return {
@@ -326,6 +394,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         avatarImprintActive: false,
         avatarImprintProgress: 100,
         avatarAwake: true,
+        chapter: "continuation",
         phase: "awakened",
         resources: {
           ...state.resources,
