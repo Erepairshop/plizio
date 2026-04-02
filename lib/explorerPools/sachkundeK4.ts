@@ -60,6 +60,20 @@ export const VERKEHR_K4_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Konzentriere", t8_f2: "dich", t8_f3: "auf", t8_f4: "alle", t8_f5: "Zeichen", t8_f6: "und", t8_f7: "Regeln.",
     t8_tk1: "Nach", t8_tk2: "der", t8_tk3: "Prüfung", t8_tk4: "erhältst", t8_tk5: "du", t8_tk6: "deinen", t8_tk7: "Fahrradausweis.", t8_tk8: "",
     t8_bl1: "Wissen", t8_bl2: "Fahren", t8_i1: "Schilder", t8_i2: "Abbiegen", t8_i3: "Vorfahrt", t8_i4: "Bremsen",
+    t9_title: "Sichtbarkeit", t9_text: "Gesehen werden ist lebenswichtig.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Denk nach!", t9_q: "Was hilft bei Dunkelheit am meisten?", t9_qa: "Helle Kleidung", t9_qb: "Schnell fahren", t9_qc: "Leise sein", t9_qd: "Nichts",
+    t9_w1: "Reflektoren", t9_w2: "werfen", t9_w3: "das", t9_w4: "Licht", t9_w5: "der", t9_w6: "Autos", t9_w7: "zurück.",
+    t9_l1: "Weste", t9_r1: "Gelb", t9_l2: "Speichen", t9_r2: "Katzenaugen", t9_l3: "Reifen", t9_r3: "Reflex",
+    t9_sent: "Im Dunkeln trägt man ___ Kleidung.", t9_qa2: "helle", t9_qb2: "dunkle", t9_qc2: "keine", t9_qd2: "schwere",
+    t9_f1: "Helle", t9_f2: "Farben", t9_f3: "machen", t9_f4: "dich", t9_f5: "sichtbar", t9_f6: "und", t9_f7: "sicher.",
+    t9_tk1: "Reflektoren", t9_tk2: "an", t9_tk3: "den", t9_tk4: "Speichen", t9_tk5: "sind", t9_tk6: "vorgeschrieben.", t9_tk7: "", t9_tk8: "",
+    t9_bl1: "Sichtbar", t9_bl2: "Unsichtbar", t9_i1: "Warnweste", t9_i2: "Schwarz", t9_i3: "Reflektor", t9_i4: "Dunkelblau",
+    t10_title: "Vorfahrt-Check", t10_text: "Wer darf zuerst fahren?", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Denk nach!", t10_q: "Was bedeutet 'Vorfahrt gewähren'?", t10_qa: "Warten", t10_qb: "Gas geben", t10_qc: "Hupen", t10_qd: "Winken",
+    t10_w1: "Vorfahrt", t10_w2: "regelt", t10_w3: "das", t10_w4: "Miteinander", t10_w5: "an", t10_w6: "der", t10_w7: "Kreuzung.",
+    t10_l1: "Stopp", t10_r1: "Halt", t10_l2: "Raute", t10_r2: "Vorfahrt", t10_l3: "Dreieck", t10_r3: "Warten",
+    t10_sent: "An einer Kreuzung achte ich auf ___.", t10_qa2: "Schilder", t10_qb2: "Vögel", t10_qc2: "Wolken", t10_qd2: "Bäume",
+    t10_f1: "Vorsicht", t10_f2: "und", t10_f3: "Rücksicht", t10_f4: "sind", t10_f5: "überall", t10_f6: "sehr", t10_f7: "wichtig.",
+    t10_tk1: "Blickkontakt", t10_tk2: "hilft", t10_tk3: "Dinge", t10_tk4: "eindeutig", t10_tk5: "zu", t10_tk6: "klären.", t10_tk7: "", t10_tk8: "",
+    t10_bl1: "Vorfahrt", t10_bl2: "Warten", t10_i1: "Hauptstraße", t10_i2: "Nebenstraße", t10_i3: "Grün", t10_i4: "Rot",
   },
 };
 
@@ -118,6 +132,20 @@ export const VERKEHR_K4_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Die Prüfung", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Sichtbarkeit", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Vorfahrt-Check", color: "#4CAF50" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left:"t10_l1",right:"t10_r1"},{left:"t10_l2",right:"t10_r2"},{left:"t10_l3",right:"t10_r3"}] },
+    quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "hard"
   }
 ];
@@ -181,6 +209,20 @@ export const WELTRAUM_K4_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Vielleicht", t8_f2: "besuchen", t8_f3: "Menschen", t8_f4: "bald", t8_f5: "den", t8_f6: "Planeten", t8_f7: "Mars.",
     t8_tk1: "Astronauten", t8_tk2: "müssen", t8_tk3: "im", t8_tk4: "Weltall", t8_tk5: "viele", t8_tk6: "Experimente", t8_tk7: "durchführen.", t8_tk8: "",
     t8_bl1: "Nah", t8_bl2: "Fern", t8_i1: "Mond", t8_i2: "Mars", t8_i3: "Sonne", t8_i4: "Sirius",
+    t9_title: "Kometen & Asteroiden", t9_text: "Kleinkörper im Sonnensystem.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Denk nach!", t9_q: "Was haben Kometen oft?", t9_qa: "Einen Schweif", t9_qb: "Einen Motor", t9_qc: "Blumen", t9_qd: "Flügel",
+    t9_w1: "Asteroiden", t9_w2: "sind", t9_w3: "Gesteinsbrocken", t9_w4: "die", t9_w5: "durchs", t9_w6: "All", t9_w7: "rasen.",
+    t9_l1: "Komet", t9_r1: "Eis", t9_l2: "Asteroid", t9_r2: "Stein", t9_l3: "Meteorit", t9_r3: "Einschlag",
+    t9_sent: "Ein Komet besteht oft aus ___.", t9_qa2: "Eis und Staub", t9_qb2: "Eisen", t9_qc2: "Gold", t9_qd2: "Holz",
+    t9_f1: "Kometen", t9_f2: "werden", t9_f3: "manchmal", t9_f4: "schmutzige", t9_f5: "Schneebälle", t9_f6: "im", t9_f7: "All genannt.",
+    t9_tk1: "Der", t9_tk2: "Asteroidengürtel", t9_tk3: "liegt", t9_tk4: "zwischen", t9_tk5: "Mars", t9_tk6: "und", t9_tk7: "Jupiter.", t9_tk8: "",
+    t9_bl1: "Gestein", t9_bl2: "Licht", t9_i1: "Asteroid", t9_i2: "Stern", t9_i3: "Meteor", t9_i4: "Sonne",
+    t10_title: "Teleskope", t10_text: "Den Himmel beobachten.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Denk nach!", t10_q: "Was macht ein Teleskop?", t10_qa: "Dinge vergrößern", t10_qb: "Dinge verkleinern", t10_qc: "Dinge anmalen", t10_qd: "Dinge verstecken",
+    t10_w1: "Große", t10_w2: "Sternwarten", t10_w3: "stehen", t10_w4: "oft", t10_w5: "hoch", t10_w6: "auf", t10_w7: "Bergen.",
+    t10_l1: "Linsen", t10_r1: "Glas", t10_l2: "Spiegel", t10_r2: "Reflexion", t10_l3: "Stativ", t10_r3: "Halt",
+    t10_sent: "Mit einem Teleskop sieht man ___.", t10_qa2: "Sterne", t10_qb2: "Ameisen", t10_qc2: "Bücher", t10_qd2: "Fische",
+    t10_f1: "Das", t10_f2: "Hubble-Teleskop", t10_f3: "schickt", t10_f4: "uns", t10_f5: "Bilder", t10_f6: "aus", t10_f7: "dem All.",
+    t10_tk1: "Früher", t10_tk2: "nutzten", t10_tk3: "Seefahrer", t10_tk4: "Sterne", t10_tk5: "zur", t10_tk6: "Orientierung", t10_tk7: "auf", t10_tk8: "See.",
+    t10_bl1: "Optik", t10_bl2: "Weltraum", t10_i1: "Linse", t10_i2: "Planet", t10_i3: "Okular", t10_i4: "Galaxie",
   },
 };
 
@@ -239,6 +281,20 @@ export const WELTRAUM_K4_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Weltraum-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Kometen", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Teleskope", color: "#4CAF50" },
+    interactive: { type: "match-pairs", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", pairs: [{left:"t10_l1",right:"t10_r1"},{left:"t10_l2",right:"t10_r2"},{left:"t10_l3",right:"t10_r3"}] },
+    quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "hard"
   }
 ];
@@ -302,6 +358,20 @@ export const DEUTSCHLAND_K4_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Der", t8_f2: "Föderalismus", t8_f3: "verteilt", t8_f4: "Macht", t8_f5: "auf", t8_f6: "viele", t8_f7: "Schultern.",
     t8_tk1: "Ein", t8_tk2: "Atlas", t8_tk3: "hilft", t8_tk4: "beim", t8_tk5: "Suchen", t8_tk6: "von", t8_tk7: "Orten.", t8_tk8: "",
     t8_bl1: "Land", t8_bl2: "Fluss", t8_i1: "Hessen", t8_i2: "Main", t8_i3: "Baden", t8_i4: "Rhein",
+    t9_title: "Städte & Kultur", t9_text: "Große Metropolen entdecken.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Denk nach!", t9_q: "Welche Stadt ist bekannt für den Hafen?", t9_qa: "Hamburg", t9_qb: "München", t9_qc: "Berlin", t9_qd: "Stuttgart",
+    t9_w1: "In", t9_w2: "deutschen", t9_w3: "Städten", t9_w4: "gibt", t9_w5: "es", t9_w6: "viele", t9_w7: "Museen.",
+    t9_l1: "Köln", t9_r1: "Dom", t9_l2: "Berlin", t9_r2: "Tor", t9_l3: "München", t9_r3: "Oktoberfest",
+    t9_sent: "Die Hauptstadt von Deutschland ist ___.", t9_qa2: "Berlin", t9_qb2: "Hamburg", t9_qc2: "Köln", t9_qd2: "Bonn",
+    t9_f1: "Jede", t9_f2: "Stadt", t9_f3: "hat", t9_f4: "ihre", t9_f5: "eigene", t9_f6: "Geschichte", t9_f7: "und Kultur.",
+    t9_tk1: "Frankfurt", t9_tk2: "am", t9_tk3: "Main", t9_tk4: "ist", t9_tk5: "ein", t9_tk6: "wichtiges", t9_tk7: "Finanzzentrum.", t9_tk8: "",
+    t9_bl1: "Stadt", t9_bl2: "Land", t9_i1: "Leipzig", t9_i2: "Sachsen", t9_i3: "Bremen", t9_i4: "Hessen",
+    t10_title: "Das Parlament", t10_text: "Wo Gesetze gemacht werden.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Denk nach!", t10_q: "Wie heißt das Parlament in Berlin?", t10_qa: "Bundestag", t10_qb: "Rathaus", t10_qc: "Landtag", t10_qd: "Schule",
+    t10_w1: "Die", t10_w2: "Abgeordneten", t10_w3: "entscheiden", t10_w4: "über", t10_w5: "wichtige", t10_w6: "neue", t10_w7: "Gesetze.",
+    t10_l1: "Wahl", t10_r1: "Stimme", t10_l2: "Debatte", t10_r2: "Streit", t10_l3: "Gesetz", t10_r3: "Regel",
+    t10_sent: "Im Bundestag sitzen die ___.", t10_qa2: "Abgeordneten", t10_qb2: "Lehrer", t10_qc2: "Kinder", t10_qd2: "Sportler",
+    t10_f1: "Der", t10_f2: "Reichstag", t10_f3: "ist", t10_f4: "das", t10_f5: "berühmte", t10_f6: "Gebäude", t10_f7: "in Berlin.",
+    t10_tk1: "Alle", t10_tk2: "vier", t10_tk3: "Jahre", t10_tk4: "wird", t10_tk5: "der", t10_tk6: "Bundestag", t10_tk7: "neu", t10_tk8: "gewählt.",
+    t10_bl1: "Politik", t10_bl2: "Natur", t10_i1: "Gesetz", t10_i2: "Wald", t10_i3: "Wahl", t10_i4: "Fluss",
   },
 };
 
@@ -360,6 +430,20 @@ export const DEUTSCHLAND_K4_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Geografie-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Städte", color: "#4CAF50" },
+    interactive: { type: "match-pairs", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", pairs: [{left:"t9_l1",right:"t9_r1"},{left:"t9_l2",right:"t9_r2"},{left:"t9_l3",right:"t9_r3"}] },
+    quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Politik", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", sentence: "t10_sent", choices: ["t10_qa2", "t10_qb2", "t10_qc2", "t10_qd2"], correctIndex: 0 },
+    quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "hard"
   }
 ];
@@ -423,6 +507,8 @@ export const POLITIK_K4_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Wer", t8_f2: "sich", t8_f3: "einmischt", t8_f4: "kann", t8_f5: "die", t8_f6: "Welt", t8_f7: "verändern.",
     t8_tk1: "Kompromisse", t8_tk2: "sind", t8_tk3: "wichtig", t8_tk4: "für", t8_tk5: "ein", t8_tk6: "gutes", t8_tk7: "Zusammenleben.", t8_tk8: "",
     t8_bl1: "Gemeinsam", t8_bl2: "Einsam", t8_i1: "Team", t8_i2: "Streit", t8_i3: "Einigung", t8_i4: "Egoismus",
+    t9_title: "Gerichte", t9_text: "Recht und Gesetz.", t9_inst: "Löse die Aufgabe:", t9_h1: "Richter", t9_h2: "Urteil", t9_q: "Was tut ein Richter?", t9_qa: "Urteile sprechen", t9_qb: "Gesetze schreiben", t9_qc: "Polizei leiten", t9_qd: "Nichts",
+    t10_title: "Europa-Politik", t10_text: "Über die Grenzen hinweg.", t10_inst: "Bringe die Wörter in die richtige Reihenfolge:", t10_h1: "EU", t10_h2: "Brüssel", t10_w1: "Die", t10_w2: "EU", t10_w3: "entscheidet", t10_w4: "über", t10_w5: "viele", t10_w6: "gemeinsame", t10_w7: "Regeln.",
   },
 };
 
@@ -481,6 +567,20 @@ export const POLITIK_K4_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Politik-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6", "t8_w7"], correctOrder: [0,1,2,3,4,5,6] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Recht & Gesetz", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "beruf" },
+    difficulty: "hard"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "EU-Politik", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6", "t10_w7"], correctOrder: [0,1,2,3,4,5,6] },
+    quiz: { generate: "europa" },
     difficulty: "hard"
   }
 ];
