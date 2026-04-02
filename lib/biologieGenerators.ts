@@ -45,7 +45,7 @@ function createMCQ(
   wrongOptions: string[],
   rng?: () => number
 ): CurriculumMCQ {
-...  const seen = new Set<string>();
+  const seen = new Set<string>();
   const unique: string[] = [];
   for (const w of wrongOptions) {
     if (w !== correct && !seen.has(w)) {
