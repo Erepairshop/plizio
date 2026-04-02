@@ -1,0 +1,150 @@
+// lib/explorerPools/biologieK5.ts
+import type { PoolTopicDef } from "./types";
+
+// ─── i1: FISCHE & AMPHIBIEN ──────────────────────────────────────────
+
+export const BIO_I1_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Fische & Amphibien",
+    t1_title: "Die Kiemenatmung",
+    t1_text: "Fische entnehmen den Sauerstoff direkt aus dem Wasser mithilfe ihrer Kiemen.",
+    t1_h1: "Sauerstoff aus dem Wasser", t1_h2: "Kiemen statt Lungen",
+    t1_inst: "Wo atmet der Fisch?",
+    t1_q: "Womit atmen Fische?",
+    t1_qa: "Mit Kiemen", t1_qb: "Mit Lungen", t1_qc: "Durch die Haut", t1_qd: "Durch Mundatmung",
+    t2_title: "Schuppen & Schleim",
+    t2_text: "Die Haut der Fische ist mit Schuppen bedeckt und von einer Schleimschicht überzogen, um den Widerstand im Wasser zu verringern.",
+    t2_h1: "Glitschige Schicht", t2_h2: "Schutz vor Parasiten",
+    t2_inst: "Was schützt den Fisch?",
+    t2_q: "Wozu dient die Schleimschicht?",
+    t2_qa: "Gleitfähigkeit im Wasser", t2_qb: "Schutz vor Kälte", t2_qc: "Nahrungsaufnahme", t2_qd: "Tarnung",
+    t3_title: "Die Flossen",
+    t3_text: "Fische nutzen verschiedene Flossen zum Steuern, Bremsen und für den Antrieb.",
+    t3_h1: "Antrieb im Wasser", t3_h2: "Rücken- und Schwanzflosse",
+    t3_inst: "Bewege den Fisch!",
+    t3_q: "Welche Flosse dient meist als Motor?",
+    t3_qa: "Schwanzflosse", t3_qb: "Brustflosse", t3_qc: "Rückenflosse", t3_qd: "Bauchflosse",
+    t4_title: "Die Amphibienhaut",
+    t4_text: "Amphibien haben eine dünne, feuchte Haut, durch die sie auch atmen können (Hautatmung).",
+    t4_h1: "Feucht und nackt", t4_h2: "Schutz vor Austrocknung",
+    t4_inst: "Hautatmung!",
+    t4_q: "Warum muss die Haut von Fröschen feucht sein?",
+    t4_qa: "Für die Hautatmung", t4_qb: "Zum Schwimmen", t4_qc: "Gegen Feinde", t4_qd: "Zum Kühlen",
+    t5_title: "Die Metamorphose",
+    t5_text: "Vom Ei über die Kaulquappe zum fertigen Frosch – diese Verwandlung nennt man Metamorphose.",
+    t5_h1: "Verwandlung im Wasser", t5_h2: "Vom Fisch zum Landtier",
+    t5_inst: "Ordne die Stadien!",
+    t5_w1: "Ei", t5_w2: "Kaulquappe", t5_w3: "Frosch mit Schwanz", t5_w4: "Jungfrosch",
+    t6_title: "Wechselwarm",
+    t6_text: "Fische und Amphibien passen ihre Körpertemperatur der Umgebung an. Sie sind wechselwarm.",
+    t6_h1: "Keine eigene Heizung", t6_h2: "Abhängig von der Sonne",
+    t6_inst: "Temperatur-Check!",
+    t6_q: "Was bedeutet wechselwarm?",
+    t6_qa: "Körpertemperatur passt sich an", t6_qb: "Immer 37 Grad", t6_qc: "Immer kalt", t6_qd: "Immer heiß",
+    t7_title: "Die Winterstarre",
+    t7_text: "Im Winter fallen Amphibien in eine Winterstarre. Ihr Herzschlag und Stoffwechsel verlangsamen sich extrem.",
+    t7_h1: "Schlaf im Schlamm", t7_h2: "Energie sparen",
+    t7_inst: "Winterzeit!",
+    t7_q: "Wo überwintern viele Frösche?",
+    t7_qa: "Im Schlamm am Boden", t7_qb: "Im Boden", t7_qc: "In Höhlen", t7_qd: "Gar nicht",
+    t8_title: "Der Laich",
+    t8_text: "Die Eier von Fischen und Amphibien nennt man Laich. Sie werden meist in großen Mengen im Wasser abgelegt.",
+    t8_h1: "Glibberige Eier", t8_h2: "Viele Nachkommen",
+    t8_inst: "Finde den Laich!",
+    t8_q: "Wo wird der Laich abgelegt?",
+    t8_qa: "Im Wasser", t8_qb: "An Land", t8_qc: "Im Nest", t8_qd: "Unter der Erde",
+    t9_title: "Die Schwimmblase",
+    t9_text: "Die Schwimmblase hilft dem Fisch, im Wasser auf- und abzusteigen oder auf einer Höhe zu bleiben.",
+    t9_h1: "Höhenkontrolle", t9_h2: "Gashaltiges Organ",
+    t9_inst: "Steige auf und ab!",
+    t9_q: "Wozu dient die Schwimmblase?",
+    t9_qa: "Zum Sinken und Steigen", t9_qb: "Zum Atmen", t9_qc: "Zum Hören", t9_qd: "Zum Fressen",
+    t10_title: "Krötenwanderung",
+    t10_text: "Im Frühjahr wandern Kröten zu ihren Geburtsgewässern, um dort Eier abzulegen.",
+    t10_h1: "Reise zum Wasser", t10_h2: "Gefahren im Straßenverkehr",
+    t10_inst: "Hilf der Kröte!",
+    t10_q: "Wann findet die Krötenwanderung meist statt?",
+    t10_qa: "Im Frühling", t10_qb: "Im Winter", t10_qc: "Im Sommer", t10_qd: "Im Herbst",
+  },
+};
+
+export const BIO_I1_POOL: PoolTopicDef[] = [
+  {
+    infoTitle: "t1_title", infoText: "t1_text",
+    svg: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "#E0F2FE" },
+    interactive: { type: "gap-fill", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", sentence: "Fische atmen mit ihren ___.", choices: ["Kiemen", "Lungen", "Nase", "Haut"], correctIndex: 0 },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
+  },
+  {
+    infoTitle: "t2_title", infoText: "t2_text",
+    svg: { type: "biologie-diagram", name: "FishScalesSvg", bg: "#F1F5F9" },
+    interactive: { type: "highlight-text", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", tokens: ["Schleim", "Schutz", "Widerstand"], correctIndices: [0, 1, 2] },
+    quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" }
+  },
+  {
+    infoTitle: "t3_title", infoText: "t3_text",
+    svg: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "#E0F2FE" },
+    interactive: { type: "match-pairs", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", pairs: [{left: "Antrieb", right: "Schwanzflosse"}, {left: "Steuern", right: "Brustflosse"}, {left: "Stabilität", right: "Rückenflosse"}] },
+    quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" }
+  },
+  {
+    infoTitle: "t4_title", infoText: "t4_text",
+    svg: { type: "simple-icon", icon: "🐸", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Amphibien atmen durch Lungen und ihre ___.", choices: ["Haut", "Nase", "Ohren", "Beine"], correctIndex: 0 },
+    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" }
+  },
+  {
+    infoTitle: "t5_title", infoText: "t5_text",
+    svg: { type: "biologie-diagram", name: "FrogLifeSvg", bg: "#ECFCCB" },
+    interactive: { type: "physics-stacker", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], correctOrder: [0, 1, 2, 3] },
+    quiz: { generate: "wirbeltiere_amphibian" }
+  },
+  {
+    infoTitle: "t6_title", infoText: "t6_text",
+    svg: { type: "simple-icon", icon: "🌡️", color: "#3B82F6" },
+    interactive: { type: "highlight-text", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", tokens: ["Umgebung", "wechselwarm", "Temperatur"], correctIndices: [0, 1, 2] },
+    quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" }
+  },
+  {
+    infoTitle: "t7_title", infoText: "t7_text",
+    svg: { type: "simple-icon", icon: "❄️", color: "#94A3B8" },
+    interactive: { type: "gap-fill", instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2", sentence: "Im Winter halten sie eine ___.", choices: ["Winterstarre", "Winterruhe", "Winterschlaf", "Sommerpause"], correctIndex: 0 },
+    quiz: { question: "t7_q", choices: ["t7_qa", "t7_qb", "t7_qc", "t7_qd"], answer: "t7_qa" }
+  },
+  {
+    infoTitle: "t8_title", infoText: "t8_text",
+    svg: { type: "simple-icon", icon: "🫧", color: "#3B82F6" },
+    interactive: { type: "match-pairs", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", pairs: [{left: "Eier", right: "Laich"}, {left: "Entwicklung", right: "Wasser"}, {left: "Schutz", right: "Gallerte"}] },
+    quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" }
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "simple-icon", icon: "🎈", color: "#3B82F6" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "Die ___ hilft beim Steigen und Sinken.", choices: ["Schwimmblase", "Lunge", "Flosse", "Nase"], correctIndex: 0 },
+    quiz: { generate: "wirbeltiere_fish" }
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "simple-icon", icon: "🛣️", color: "#4CAF50" },
+    interactive: { type: "highlight-text", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", tokens: ["Frühling", "wandern", "Gewässern", "Eier"], correctIndices: [0, 1, 2, 3] },
+    quiz: { generate: "wirbeltiere_amphibian" }
+  }
+];
+
+// ─── i2: REPTILIEN & VÖGEL ────────────────────────────────────────────
+
+export const BIO_I2_LABELS: Record<string, Record<string, string>> = {
+  de: {
+    explorer_title: "Reptilien & Vögel",
+    t1_title: "Der Schuppenpanzer",
+    t1_text: "Reptilien haben eine trockene Haut mit Hornschuppen, die sie vor Austrocknung schützt.",
+    t1_h1: "Trocken und fest", t1_h2: "Schutz an Land",
+    t1_inst: "Reptilien-Haut!",
+    t1_q: "Wie ist die Haut der Reptilien?",
+    t1_qa: "Trocken und schuppig", t1_qb: "Feucht und nackt", t1_qc: "Rissig", t1_qd: "Schleimig",
+    t2_title: "Vogelfedern",
+    t2_text: "Federn halten Vögel warm und ermöglichen ihnen das Fliegen. Es gibt Daunen und Konturfedern.",
+    t2_h1: "Leicht und stabil", t2_h2: "Wärmeisolierung",
+    t2_inst: "Putz die Feder!",
+    t2_q: "Welche Federn halten besonders warm?",
+    t2_qa: "Daunen", t2_qb: "Schwungfedern", t2_qc: "Steuerfedern", t2_qd: "Deckfedern",

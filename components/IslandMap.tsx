@@ -174,6 +174,24 @@ const STARS = (() => {
   return stars;
 })();
 
+const DRIFT_STARS = (() => {
+  const stars: { x: number; y: number; size: number; dx: number; dy: number; opacity: number; duration: number; delay: number }[] = [];
+  for (let i = 0; i < 12; i++) {
+    const seed = (i * 6151 + 8191) % 100000;
+    stars.push({
+      x: 30 + (seed % 440),
+      y: 40 + ((seed * 7) % 820),
+      size: 1 + (seed % 2),
+      dx: ((seed % 9) - 4) * 1.4,
+      dy: (((seed * 3) % 9) - 4) * 1.2,
+      opacity: 0.08 + ((seed % 8) / 100),
+      duration: 14 + (seed % 7),
+      delay: (seed % 5) * 0.7,
+    });
+  }
+  return stars;
+})();
+
 /* ------------------------------------------------------------------ */
 /* Universe background with parallax                                   */
 /* ------------------------------------------------------------------ */
@@ -190,7 +208,6 @@ function UniverseBg({ mouseX, mouseY }: { mouseX: number; mouseY: number }) {
       <ellipse cx={130} cy={400} rx={140} ry={120} fill="rgba(0,80,255,0.02)" />
       <ellipse cx={400} cy={250} rx={100} ry={80} fill="rgba(180,77,255,0.015)" />
       <ellipse cx={300} cy={700} rx={120} ry={90} fill="rgba(0,200,150,0.012)" />
-
       {/* Far stars layer — subtle parallax */}
       <g transform={`translate(${farOffset.x}, ${farOffset.y})`}>
         {STARS.slice(0, 30).map((s, i) => (
@@ -212,6 +229,39 @@ function UniverseBg({ mouseX, mouseY }: { mouseX: number; mouseY: number }) {
             animate={{ opacity: [s.brightness * 0.4, s.brightness * 1.2, s.brightness * 0.4] }}
             transition={{ duration: s.speed * 0.7, repeat: Infinity, ease: "easeInOut", delay: i * 0.1 }}
           />
+        ))}
+      </g>
+
+      {/* Very subtle drifting stars for extra life */}
+      <g>
+        {DRIFT_STARS.map((s, i) => (
+          <motion.g
+            key={`drift-${i}`}
+            animate={{
+              x: [0, s.dx, 0],
+              y: [0, s.dy, 0],
+              opacity: [s.opacity * 0.75, s.opacity * 1.4, s.opacity * 0.8],
+            }}
+            transition={{
+              duration: s.duration,
+              repeat: Infinity,
+              ease: "easeInOut",
+              delay: s.delay,
+            }}
+          >
+            <circle
+              cx={s.x}
+              cy={s.y}
+              r={s.size * 2.6}
+              fill="rgba(255,255,255,0.04)"
+            />
+            <circle
+              cx={s.x}
+              cy={s.y}
+              r={s.size}
+              fill="rgba(220,240,255,0.22)"
+            />
+          </motion.g>
         ))}
       </g>
 
@@ -681,9 +731,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     <div ref={containerRef} className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
       <motion.div
         className="absolute inset-0 flex items-center justify-center"
-        style={{ transformStyle: "preserve-3d", transformOrigin: "center 35%" }}
-        animate={{ rotateX: selectedId ? 0 : 8 }}
-        transition={{ duration: 0.6, ease: "easeOut" }}
+        style={{ transformOrigin: "center 35%" }}
       >
         <svg
           ref={svgRef}
@@ -709,7 +757,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
                 {letter}
               </text>
             ))}
-            <text x={250} y={118} textAnchor="middle" fontSize={8} fontWeight={600} letterSpacing={3} fill="rgba(255,255,255,0.5)">
+            <text x={250} y={118} textAnchor="middle" fontSize={8} fontWeight={700} letterSpacing={3} fill="rgba(255,255,255,0.72)">
               PLAY · LEARN · THINK
             </text>
             {username && (
