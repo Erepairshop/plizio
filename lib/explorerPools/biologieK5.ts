@@ -57,6 +57,43 @@ export const BIO_I1_LABELS: Record<string, Record<string, string>> = {
     t10_title: "Migrația broaștelor", t10_text: "Primăvara, broaștele migrează spre apele unde s-au născut pentru a depune ouă.", t10_h1: "Călătoria spre apă", t10_h2: "Pericole în trafic", t10_inst: "Ajută broasca!", t10_q: "Când are loc migrația?", t10_qa: "Primăvara", t10_qb: "Iarna", t10_qc: "Vara", t10_qd: "Toamna",
   },
 };
+
+export const BIO_I1_POOL: PoolTopicDef[] = [
+  {
+    infoTitle: "t1_title", infoText: "t1_text",
+    svg: { type: "simple-icon", icon: "🐟", color: "#3B82F6" },
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Fisch", right: "Kiemen"}, {left: "Mensch", right: "Lunge"}, {left: "Frosch", right: "Haut + Lunge"}] },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
+  },
+  {
+    infoTitle: "t2_title", infoText: "t2_text",
+    svg: { type: "simple-icon", icon: "🪩", color: "#64748B" },
+    interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "Die ___ verringert den Widerstand im Wasser.", choices: ["Schleimschicht", "Flosse", "Kieme", "Schuppe"], correctIndex: 0 },
+    quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" }
+  },
+  {
+    infoTitle: "t3_title", infoText: "t3_text",
+    svg: { type: "simple-icon", icon: "🐠", color: "#0EA5E9" },
+    interactive: { type: "drag-to-bucket", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", buckets: [{id: "antrieb", label: "Antrieb"}, {id: "steuerung", label: "Steuerung"}], items: [{text: "Schwanzflosse", bucketId: "antrieb"}, {text: "Brustflosse", bucketId: "steuerung"}, {text: "Rückenflosse", bucketId: "steuerung"}, {text: "Bauchflosse", bucketId: "steuerung"}] },
+    quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" }
+  },
+  {
+    infoTitle: "t4_title", infoText: "t4_text",
+    svg: { type: "simple-icon", icon: "🐸", color: "#22C55E" },
+    interactive: { type: "gap-fill", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", sentence: "Amphibien atmen auch durch die ___.", choices: ["Haut", "Kiemen", "Nase", "Ohren"], correctIndex: 0 },
+    quiz: { question: "t4_q", choices: ["t4_qa", "t4_qb", "t4_qc", "t4_qd"], answer: "t4_qa" }
+  },
+  {
+    infoTitle: "t5_title", infoText: "t5_text",
+    svg: { type: "simple-icon", icon: "🔄", color: "#8B5CF6" },
+    interactive: { type: "word-order", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", words: ["t5_w1", "t5_w2", "t5_w3", "t5_w4"], correctOrder: [0, 1, 2, 3] },
+    quiz: { generate: "wirbeltiere_amphibian" }
+  },
+  {
+    infoTitle: "t6_title", infoText: "t6_text",
+    svg: { type: "simple-icon", icon: "🌡️", color: "#F59E0B" },
+    interactive: { type: "match-pairs", instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2", pairs: [{left: "Fisch", right: "wechselwarm"}, {left: "Frosch", right: "wechselwarm"}, {left: "Hund", right: "gleichwarm"}] },
+    quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" }
   },
   {
     infoTitle: "t7_title", infoText: "t7_text",
@@ -950,6 +987,27 @@ export const BIO_I8_LABELS: Record<string, Record<string, string>> = {
     t10_title: "Interacțiunea", t10_text: "Simțurile noastre colaborează strâns pentru a ne oferi o imagine completă a mediului.", t10_h1: "Colaborare", t10_h2: "Combinație", t10_inst: "Conectează totul!", t10_q: "Ce simțuri colaborează adesea când mâncăm?", t10_qa: "Gustul și mirosul", t10_qb: "Auzul și vederea", t10_qc: "Pipaul și auzul", t10_qd: "Vederea și echilibrul",
   },
 };
+
+export const BIO_I8_POOL: PoolTopicDef[] = [
+  {
+    infoTitle: "t1_title", infoText: "t1_text",
+    svg: { type: "simple-icon", icon: "👁️", color: "#3B82F6" },
+    interactive: { type: "match-pairs", instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2", pairs: [{left: "Linse", right: "Bündelung"}, {left: "Netzhaut", right: "Bild"}, {left: "Iris", right: "Farbe"}] },
+    quiz: { question: "t1_q", choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"], answer: "t1_qa" }
+  },
+  {
+    infoTitle: "t2_title", infoText: "t2_text",
+    svg: { type: "simple-icon", icon: "👂", color: "#8B5CF6" },
+    interactive: { type: "gap-fill", instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2", sentence: "Das ___ leitet den Schall zum Innenohr.", choices: ["Trommelfell", "Auge", "Gehirn", "Mund"], correctIndex: 0 },
+    quiz: { question: "t2_q", choices: ["t2_qa", "t2_qb", "t2_qc", "t2_qd"], answer: "t2_qa" }
+  },
+  {
+    infoTitle: "t3_title", infoText: "t3_text",
+    svg: { type: "simple-icon", icon: "👃", color: "#F59E0B" },
+    interactive: { type: "drag-to-bucket", instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2", buckets: [{id: "riechen", label: "Riechen"}, {id: "schmecken", label: "Schmecken"}], items: [{text: "Blume", bucketId: "riechen"}, {text: "Parfüm", bucketId: "riechen"}, {text: "Zitrone", bucketId: "schmecken"}, {text: "Salz", bucketId: "schmecken"}] },
+    quiz: { question: "t3_q", choices: ["t3_qa", "t3_qb", "t3_qc", "t3_qd"], answer: "t3_qa" }
+  },
+  {
     infoTitle: "t4_title", infoText: "t4_text",
     svg: { type: "simple-icon", icon: "👅", color: "#F87171" },
     interactive: { type: "match-pairs", instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2", pairs: [{left: "Zucker", right: "süß"}, {left: "Zitrone", right: "sauer"}, {left: "Salz", right: "salzig"}] },

@@ -424,8 +424,8 @@ export const GEO_K6_LABELS: Record<string, Record<string, string>> = {
     t2_area_mantle: "Mantaua (vâscoasă)",
     t2_area_outer_core: "Nucleul extern (lichid)",
     t2_area_inner_core: "Nucleul intern (solid)",
-    t5_q: "Care strat este cel mai subțire?",
-    t5_qa: "Crusta", t5_qb: "Mantaua", t5_qc: "Nucleul", t5_qd: "Oceanul",
+    t2_q: "Care strat este cel mai subțire?",
+    t2_qa: "Crusta", t2_qb: "Mantaua", t2_qc: "Nucleul", t2_qd: "Oceanul",
 
     t6_title: "Fusurile orare mondiale",
     t6_text: "În timp ce noi luăm micul dejun, copiii din Australia merg deja la culcare. Pământul este împărțit în 24 de fusuri orare deoarece se rotește în jurul axei sale.",
@@ -494,7 +494,6 @@ export const GEO_K6_LABELS: Record<string, Record<string, string>> = {
     t10_item_chem: "Pesticide chimice",
     t10_q: "Care este un avantaj al alimentelor regionale?",
     t10_qa: "Rute scurte (economie de CO2)", t10_qb: "Luminează în întuneric", t10_qc: "Sunt mereu mai scumpe", t10_qd: "Există doar iarna",
-    },
 
     t3_title: "De la gheață la junglă",
     t3_text: "Zonele climatice sunt ca niște centuri în jurul Pământului. Lângă soare la Ecuator crește jungla, la capete stăpânește gheața veșnică.",
