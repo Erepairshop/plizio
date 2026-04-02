@@ -216,7 +216,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     return state;
   }
   if (isDemoChapter(state) && state.threatCycle === 0 && state.threat.countdown <= 1 && !isBootstrapComplete(state)) {
-    const failureAlert = GRAVITAS_TEXT.alerts.bootstrapFailed;
+    const failureAlert = GRAVITAS_TEXT.journal.bootstrapFailed;
     return checkStarholdMilestones({
       ...state,
       stationLost: true,
@@ -566,10 +566,10 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const nextWorldPhase = state.tick > 0 && state.tick % 40 === 0 ? (state.worldPhase + 1) % 4 : state.worldPhase;
   if (postWaveSurgeSpike) {
     nextAlert = state.postWaveSurgeTicks >= 20
-      ? GRAVITAS_TEXT.alerts.finalWaveSpike
+      ? GRAVITAS_TEXT.threats.finalWaveSpike
       : state.postWaveSurgeTicks >= 10
-        ? GRAVITAS_TEXT.alerts.finalWaveDrop
-        : GRAVITAS_TEXT.alerts.finalWaveSettle;
+        ? GRAVITAS_TEXT.threats.finalWaveDrop
+        : GRAVITAS_TEXT.threats.finalWaveSettle;
   }
   const worldPulseGain =
     softenDrift(Math.floor(totalMarks / (settlingWindow ? 6 : 4)) +

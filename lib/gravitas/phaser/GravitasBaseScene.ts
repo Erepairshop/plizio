@@ -413,7 +413,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       bay.lineStyle(1.5, 0xfbbf24, 0.16 + alpha * 0.12);
       bay.strokeCircle(pos.x, pos.y, 18 + alpha * 4);
       bay.lineStyle(1, 0x38bdf8, 0.08 + alpha * 0.05);
-      bay.lineCircle(pos.x, pos.y, 24 + alpha * 4);
+      bay.strokeCircle(pos.x, pos.y, 24 + alpha * 4);
     };
 
     renderBay(0);
@@ -425,7 +425,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       yoyo: true,
       repeat: 2,
       onUpdate: (tween) => {
-        renderBay(tween.getValue());
+        renderBay(tween.getValue() ?? 0);
       },
       onComplete: () => bay.destroy(),
     });

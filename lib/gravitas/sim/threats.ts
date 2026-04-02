@@ -1,4 +1,4 @@
-import type { StarholdState, StarholdThreatType, LocalizedString, StarholdModuleId, StarholdMarks } from "./types";
+import type { StarholdState, StarholdThreatState, StarholdThreatType, LocalizedString, StarholdModuleId, StarholdMarks } from "./types";
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { getStarholdModifiers } from "./modifiers";
@@ -278,7 +278,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   };
 }
 
-export function createNextThreat(state: StarholdState, nextCycle: number) {
+export function createNextThreat(state: StarholdState, nextCycle: number): StarholdThreatState {
   const uniformDemoWave = isDemoChapter(state) && !state.avatarAwake && nextCycle < 3;
   const pausedUntilAwake = isDemoChapter(state) && !state.avatarAwake && nextCycle >= 3;
   const nextType = uniformDemoWave

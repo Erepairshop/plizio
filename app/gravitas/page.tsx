@@ -619,7 +619,7 @@ export default function GravitasPage() {
           de: "Halte das Kernsiegel 30 Sekunden ohne Loslassen gedrückt.",
           ro: "Ține sigiliul nucleului 30 de secunde fără să eliberezi.",
         }),
-        focus: null as const,
+        focus: null as string | null,
       };
     }
 
@@ -631,7 +631,7 @@ export default function GravitasPage() {
           de: "Externer Eingriff erkannt. Wähle eine Antwort und halte die Station stabil.",
           ro: "Interferență externă detectată. Alege un răspuns și păstrează stația stabilă.",
         }),
-        focus: null as const,
+        focus: null as string | null,
       };
     }
 
@@ -676,7 +676,7 @@ export default function GravitasPage() {
           de: "Noch dringt nichts Feindliches ein. Lerne die Station kennen und halte das System ruhig.",
           ro: "Încă nu intră nimic ostil. Învață stația și păstrează sistemul calm.",
         }),
-        focus: null as const,
+        focus: null as string | null,
       };
     }
 
@@ -732,7 +732,7 @@ export default function GravitasPage() {
 
     return {
       body: localize(ui.startDirective),
-      focus: null as const,
+      focus: null as string | null,
     };
   }, [state, canReroute, lang, content.ui.awakened, ui.startDirective]);
 
@@ -809,21 +809,21 @@ export default function GravitasPage() {
     repairChallengeTarget === "reactor";
   const logisticsNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "logistics") || state.modules.logistics.integrity < 50 || !state.modules.logistics.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "logistics") || repairChallengeTarget === "logistics";
   const sensorNeedsAttention = (activeOperation?.type === "repairModule" && activeOperation.moduleId === "sensor") || state.modules.sensor.integrity < 50 || !state.modules.sensor.online || !!(state.recoveryPriority && state.recoveryPriority.moduleId === "sensor") || repairChallengeTarget === "sensor";
-  const reactorActionTone = repairChallengeTarget
+  const reactorActionTone: QuickActionTone = repairChallengeTarget
     ? repairChallengeTarget === "reactor"
       ? "danger"
       : "warning"
     : severeReactorIssue
       ? "danger"
       : "warning";
-  const logisticsActionTone = repairChallengeTarget
+  const logisticsActionTone: QuickActionTone = repairChallengeTarget
     ? repairChallengeTarget === "logistics"
       ? "danger"
       : "warning"
     : state.modules.logistics.integrity < 50 || !state.modules.logistics.online
       ? "danger"
       : "warning";
-  const sensorActionTone = repairChallengeTarget
+  const sensorActionTone: QuickActionTone = repairChallengeTarget
     ? repairChallengeTarget === "sensor"
       ? "danger"
       : "warning"

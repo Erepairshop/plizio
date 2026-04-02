@@ -22,7 +22,7 @@ interface AIChatOptions {
   /** Tutor intent mode for tighter prompting */
   mode?: "free" | "why" | "think" | "fun-fact" | "simpler" | "example" | "similar";
   /** Subject area for subject-aware tutoring */
-  subject?: "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general";
+  subject?: "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general" | "geographie";
 }
 
 const LANG_NAMES: Record<string, string> = {
