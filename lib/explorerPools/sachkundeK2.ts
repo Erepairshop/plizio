@@ -60,6 +60,20 @@ export const HAUSTIERE_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Wir", t8_f2: "müssen", t8_f3: "unser", t8_f4: "Tier", t8_f5: "immer", t8_f6: "gut",
     t8_tk1: "Tiere", t8_tk2: "brauchen", t8_tk3: "Aufmerksamkeit", t8_tk4: "und", t8_tk5: "viel", t8_tk6: "Zuneigung.", t8_tk7: "", t8_tk8: "",
     t8_bl1: "Gut", t8_bl2: "Schlecht", t8_i1: "Streicheln", t8_i2: "Schlagen", t8_i3: "Füttern", t8_i4: "Vergessen",
+    t9_title: "Der Tierarzt", t9_text: "Tierärzte helfen kranken Tieren.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!", t9_q: "Wer hilft kranken Tieren?", t9_qa: "Tierarzt", t9_qb: "Bäcker", t9_qc: "Lehrer", t9_qd: "Pilot",
+    t9_w1: "Der", t9_w2: "Tierarzt", t9_w3: "untersucht", t9_w4: "unser", t9_w5: "Haustier", t9_w6: "vorsichtig.",
+    t9_l1: "Spritze", t9_r1: "Medizin", t9_l2: "Waage", t9_r2: "Gewicht", t9_l3: "Pflaster", t9_r3: "Wunde",
+    t9_sent: "Wir bringen die Katze zum ___.", t9_qa2: "Tierarzt", t9_qb2: "Friseur", t9_qc2: "Koch", t9_qd2: "Gärtner",
+    t9_f1: "Eine", t9_f2: "Untersuchung", t9_f3: "ist", t9_f4: "wichtig", t9_f5: "für", t9_f6: "Tiere.",
+    t9_tk1: "Tierärzte", t9_tk2: "geben", t9_tk3: "unseren", t9_tk4: "Tieren", t9_tk5: "oft", t9_tk6: "wichtige", t9_tk7: "Impfungen.", t9_tk8: "",
+    t9_bl1: "Gesund", t9_bl2: "Krank", t9_i1: "Spielen", t9_i2: "Fieber", t9_i3: "Fressen", t9_i4: "Schmerzen",
+    t10_title: "Tierschutz", t10_text: "Wir müssen alle Tiere schützen.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!", t10_q: "Was ist Tierschutz?", t10_qa: "Tiere achten", t10_qb: "Tiere jagen", t10_qc: "Tiere einsperren", t10_qd: "Tiere vergessen",
+    t10_w1: "Tiere", t10_w2: "haben", t10_w3: "Gefühle", t10_w4: "und", t10_w5: "brauchen", t10_w6: "Schutz.",
+    t10_l1: "Liebe", t10_r1: "Zuneigung", t10_l2: "Quälen", t10_r2: "Verboten", t10_l3: "Heim", t10_r3: "Zuhause",
+    t10_sent: "Wir setzen uns für den ___ ein.", t10_qa2: "Tierschutz", t10_qb2: "Müll", t10_qc2: "Lärm", t10_qd2: "Hunger",
+    t10_f1: "Jedes", t10_f2: "Lebewesen", t10_f3: "verdient", t10_f4: "ein", t10_f5: "gutes", t10_f6: "Leben.",
+    t10_tk1: "Heimatlose", t10_tk2: "Tiere", t10_tk3: "finden", t10_tk4: "oft", t10_tk5: "Hilfe", t10_tk6: "in", t10_tk7: "einem", t10_tk8: "Tierheim.",
+    t10_bl1: "Hilfe", t10_bl2: "Gefahr", t10_i1: "Tierheim", t10_i2: "Wilderei", t10_i3: "Adoption", t10_i4: "Quälerei",
   },
 };
 
@@ -118,6 +132,20 @@ export const HAUSTIERE_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Verantwortung", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Der Tierarzt", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "haustiere_pflege" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Tierschutz", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "haustiere_pflege" },
     difficulty: "easy"
   }
 ];
@@ -181,6 +209,10 @@ export const KALENDER_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Ohne", t8_f2: "Uhren", t8_f3: "wüssten", t8_f4: "wir", t8_f5: "nicht", t8_f6: "wie",
     t8_tk1: "Sanduhren", t8_tk2: "wurden", t8_tk3: "früher", t8_tk4: "oft", t8_tk5: "zum", t8_tk6: "Messen", t8_tk7: "der", t8_tk8: "Zeit",
     t8_bl1: "Kurz", t8_bl2: "Lang", t8_i1: "Sekunde", t8_i2: "Jahrhundert", t8_i3: "Minute", t8_i4: "Jahrtausend",
+    t9_title: "Tag und Nacht", t9_text: "Die Erde dreht sich um sich selbst.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Nachts ist es ___.", t9_qa2: "dunkel", t9_qb2: "hell", t9_qc2: "warm", t9_qd2: "bunt",
+    t10_title: "Das Schaltjahr", t10_text: "Alle vier Jahre gibt es einen extra Tag.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Ein", t10_w2: "Schaltjahr", t10_w3: "hat", t10_w4: "dreihundertsechsundsechzig", t10_w5: "Tage", t10_w6: "insgesamt.",
   },
 };
 
@@ -239,6 +271,20 @@ export const KALENDER_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Zeit-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Tag und Nacht", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "tag_jahreszeiten" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Schaltjahr", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "tag_jahreszeiten" },
     difficulty: "easy"
   }
 ];
@@ -302,6 +348,10 @@ export const MAGNETISMUS_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Magnete", t8_f2: "sind", t8_f3: "nützliche", t8_f4: "Helfer", t8_f5: "in", t8_f6: "vielen",
     t8_tk1: "Sogar", t8_tk2: "in", t8_tk3: "unseren", t8_tk4: "Handys", t8_tk5: "sind", t8_tk6: "winzige", t8_tk7: "Magnete", t8_tk8: "verbaut.",
     t8_bl1: "Magnetkraft", t8_bl2: "Keine Kraft", t8_i1: "Eisen", t8_i2: "Holz", t8_i3: "Nickel", t8_i4: "Plastik",
+    t9_title: "Hufeisenmagnet", t9_text: "Er hat die Form eines Hufeisens.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Ein Hufeisenmagnet ist ___.", t9_qa2: "gebogen", t9_qb2: "gerade", t9_qc2: "rund", t9_qd2: "weich",
+    t10_title: "Magnetkraft", t10_text: "Die Kraft wirkt auch durch Dinge hindurch.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Magnetismus", t10_w2: "wirkt", t10_w3: "auch", t10_w4: "durch", t10_w5: "dünne", t10_w6: "Wände.",
   },
 };
 
@@ -360,6 +410,20 @@ export const MAGNETISMUS_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Magnet-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Hufeisen", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "magnetismus" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Kraft", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "magnetismus" },
     difficulty: "easy"
   }
 ];
@@ -423,6 +487,10 @@ export const WASSER_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "In", t8_f2: "der", t8_f3: "Schule", t8_f4: "haben", t8_f5: "wir", t8_f6: "viel",
     t8_tk1: "Schutz", t8_tk2: "unserer", t8_tk3: "Gewässer", t8_tk4: "ist", t8_tk5: "eine", t8_tk6: "Aufgabe", t8_tk7: "für", t8_tk8: "alle.",
     t8_bl1: "Wasser", t8_bl2: "Land", t8_i1: "Ozean", t8_i2: "Wüste", t8_i3: "Fluss", t8_i4: "Gebirge",
+    t9_title: "Der Kreislauf", t9_text: "Das Wasser wandert in einem Kreis.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Die Sonne lässt Wasser ___.", t9_qa2: "verdunsten", t9_qb2: "gefrieren", t9_qc2: "verschwinden", t9_qd2: "kochen",
+    t10_title: "Eis & Dampf", t10_text: "Wasser kann fest, flüssig oder gasförmig sein.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Flüssiges", t10_w2: "Wasser", t10_w3: "wird", t10_w4: "bei", t10_w5: "Hitze", t10_w6: "zu Dampf.",
   },
 };
 
@@ -481,6 +549,20 @@ export const WASSER_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Wasser-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Kreislauf", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "wasserkreislauf" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Eis & Dampf", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "aggregatzustände" },
     difficulty: "easy"
   }
 ];
@@ -544,6 +626,10 @@ export const WALDTIERE_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Der", t8_f2: "Wald", t8_f3: "liefert", t8_f4: "uns", t8_f5: "Sauerstoff", t8_f6: "und",
     t8_tk1: "Waldschutz", t8_tk2: "ist", t8_tk3: "wichtig", t8_tk4: "für", t8_tk5: "das", t8_tk6: "Klima", t8_tk7: "unserer", t8_tk8: "Erde.",
     t8_bl1: "Pflanze", t8_bl2: "Tier", t8_i1: "Buche", t8_i2: "Fuchs", t8_i3: "Tanne", t8_i4: "Reh",
+    t9_title: "Der Wald", t9_text: "Der Wald ist ein wichtiger Lebensraum.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Im Wald wachsen viele ___.", t9_qa2: "Bäume", t9_qb2: "Häuser", t9_qc2: "Autos", t9_qd2: "Steine",
+    t10_title: "Winterschlaf", t10_text: "Manche Tiere schlafen den ganzen Winter.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Der", t10_w2: "Igel", t10_w3: "hält", t10_w4: "einen", t10_w5: "langen", t10_w6: "Winterschlaf.",
   },
 };
 
@@ -602,6 +688,20 @@ export const WALDTIERE_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Wald-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Der Wald", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "lebensräume" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Winterschlaf", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "wildtiere_anpassung" },
     difficulty: "easy"
   }
 ];
@@ -665,6 +765,10 @@ export const ERNAEHRUNG_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Süßigkeiten", t8_f2: "sind", t8_f3: "nur", t8_f4: "eine kleine", t8_f5: "Beilage.", t8_f6: "",
     t8_tk1: "Viel", t8_tk2: "Trinken", t8_tk3: "ist", t8_tk4: "ebenso", t8_tk5: "wichtig", t8_tk6: "wie", t8_tk7: "das", t8_tk8: "Essen.",
     t8_bl1: "Täglich", t8_bl2: "Selten", t8_i1: "Wasser", t8_i2: "Pizza", t8_i3: "Apfel", t8_i4: "Torte",
+    t9_title: "Die Verdauung", t9_text: "Unser Körper holt sich Kraft aus dem Essen.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Im ___ wird das Essen zerkleinert.", t9_qa2: "Mund", t9_qb2: "Ohr", t9_qc2: "Fuß", t9_qd2: "Knie",
+    t10_title: "Mahlzeiten", t10_text: "Wir essen über den Tag verteilt.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Wir", t10_w2: "essen", t10_w3: "morgens,", t10_w4: "mittags", t10_w5: "und", t10_w6: "abends.",
   },
 };
 
@@ -723,6 +827,20 @@ export const ERNAEHRUNG_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Essen-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Verdauung", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "ernährung_verdauung" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Mahlzeiten", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "ernährung_verdauung" },
     difficulty: "easy"
   }
 ];
@@ -786,6 +904,10 @@ export const VERKEHR2_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Wir", t8_f2: "sind", t8_f3: "jetzt", t8_f4: "schon", t8_f5: "kleine", t8_f6: "Verkehrsprofis.",
     t8_tk1: "Vorsicht", t8_tk2: "und", t8_tk3: "Geduld", t8_tk4: "sind", t8_tk5: "wichtig", t8_tk6: "im", t8_tk7: "Straßenverkehr.", t8_tk8: "",
     t8_bl1: "Richtig", t8_bl2: "Falsch", t8_i1: "Stehen", t8_i2: "Rennen", t8_i3: "L-R-L", t8_i4: "Träumen",
+    t9_title: "Sicher Radfahren", t9_text: "Auf dem Fahrrad musst du besonders aufpassen.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Beim Radfahren trage ich einen ___.", t9_qa2: "Helm", t9_qb2: "Hut", t9_qc2: "Schal", t9_qd2: "Ring",
+    t10_title: "Unfallschutz", t10_text: "Vorsicht hilft Unfälle zu vermeiden.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Vorsicht", t10_w2: "ist", t10_w3: "wichtig", t10_w4: "im", t10_w5: "Straßen-", t10_w6: "verkehr.",
   },
 };
 
@@ -844,6 +966,20 @@ export const VERKEHR2_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Verkehrs-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Fahrrad", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "verkehrssicherheit" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Sicherheit", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "unfallprävention" },
     difficulty: "easy"
   }
 ];
@@ -907,6 +1043,10 @@ export const WERTSTOFFE_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Wir", t8_f2: "wissen", t8_f3: "jetzt", t8_f4: "genau", t8_f5: "was", t8_f6: "in",
     t8_tk1: "Rohstoffe", t8_tk2: "wiederzuverwenden", t8_tk3: "schont", t8_tk4: "die", t8_tk5: "begrenzten", t8_tk6: "Vorräte", t8_tk7: "der", t8_tk8: "Erde.",
     t8_bl1: "Wertvoll", t8_bl2: "Abfall", t8_i1: "Metall", t8_i2: "Restmüll", t8_i3: "Papier", t8_i4: "Dreck",
+    t9_title: "Sondermüll", t9_text: "Manche Dinge sind gefährlich für die Umwelt.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!", t9_q: "Was ist Sondermüll?", t9_qa: "Batterien", t9_qb: "Äpfel", t9_qc: "Papier", t9_qd: "Glas",
+    t9_sent: "Batterien gehören in den ___.", t9_qa2: "Sondermüll", t9_qb2: "Biomüll", t9_qc2: "Papiermüll", t9_qd2: "Gelben Sack",
+    t10_title: "Die Müllabfuhr", t10_text: "Sie holt unseren Müll ab.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!", t10_q: "Wer leert die Tonnen?", t10_qa: "Müllabfuhr", t10_qb: "Post", t10_qc: "Polizei", t10_qd: "Feuerwehr",
+    t10_w1: "Das", t10_w2: "Müllauto", t10_w3: "bringt", t10_w4: "den", t10_w5: "Abfall", t10_w6: "weg.",
   },
 };
 
@@ -965,6 +1105,20 @@ export const WERTSTOFFE_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Müll-Check", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Gefahr", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Müllabfuhr", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { question: "t10_q", choices: ["t10_qa", "t10_qb", "t10_qc", "t10_qd"], answer: "t10_qa" },
     difficulty: "easy"
   }
 ];
@@ -1028,6 +1182,10 @@ export const FINALE2_LABELS: Record<string, Record<string, string>> = {
     t8_f1: "Du", t8_f2: "darfst", t8_f3: "sehr", t8_f4: "stolz", t8_f5: "auf", t8_f6: "deine",
     t8_tk1: "Lernen", t8_tk2: "macht", t8_tk3: "Spaß", t8_tk4: "und", t8_tk5: "eröffnet", t8_tk6: "dir", t8_tk7: "immer", t8_tk8: "neue",
     t8_bl1: "Alt", t8_bl2: "Neu", t8_i1: "Gelernt", t8_i2: "Wissen", t8_i3: "Verstanden", t8_i4: "Erfahrung",
+    t9_title: "Der Notruf", t9_text: "In einem Notfall musst du Hilfe rufen.", t9_inst: "Löse die Aufgabe:", t9_h1: "Schau genau hin!", t9_h2: "Du schaffst das!",
+    t9_sent: "Die Nummer vom Notruf ist ___.", t9_qa2: "112", t9_qb2: "123", t9_qc2: "000", t9_qd2: "999",
+    t10_title: "Erste Hilfe", t10_text: "Jeder kann ein bisschen helfen.", t10_inst: "Löse die Aufgabe:", t10_h1: "Schau genau hin!", t10_h2: "Du schaffst das!",
+    t10_w1: "Wir", t10_w2: "können", t10_w3: "Erwachsenen", t10_w4: "Bescheid", t10_w5: "geben", t10_w6: "und helfen.",
   },
 };
 
@@ -1086,6 +1244,20 @@ export const FINALE2_POOL: PoolTopicDef[] = [
     svg: { type: "word-display", word: "Diplom", color: "#4CAF50" },
     interactive: { type: "word-order", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4", "t8_w5", "t8_w6"], correctOrder: [0,1,2,3,4,5] },
     quiz: { question: "t8_q", choices: ["t8_qa", "t8_qb", "t8_qc", "t8_qd"], answer: "t8_qa" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t9_title", infoText: "t9_text",
+    svg: { type: "word-display", word: "Notruf", color: "#4CAF50" },
+    interactive: { type: "gap-fill", instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2", sentence: "t9_sent", choices: ["t9_qa2", "t9_qb2", "t9_qc2", "t9_qd2"], correctIndex: 0 },
+    quiz: { generate: "notsituationen" },
+    difficulty: "easy"
+  },
+  {
+    infoTitle: "t10_title", infoText: "t10_text",
+    svg: { type: "word-display", word: "Erste Hilfe", color: "#4CAF50" },
+    interactive: { type: "word-order", instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2", words: ["t10_w1", "t10_w2", "t10_w3", "t10_w4", "t10_w5", "t10_w6"], correctOrder: [0,1,2,3,4,5] },
+    quiz: { generate: "erste_hilfe_basics" },
     difficulty: "easy"
   }
 ];

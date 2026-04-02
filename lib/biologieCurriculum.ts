@@ -228,7 +228,7 @@ export const K5_CURRICULUM = K5;
 
 export type BiologieGeneratorMap = Record<
   number,
-  Record<string, Record<string, (seed?: number) => BiologieQuestion[]>>
+  Record<string, Record<string, (seed?: number, lang?: string) => BiologieQuestion[]>>
 >;
 
 export let BIOLOGIE_GENERATOR_MAP: BiologieGeneratorMap = {};
@@ -241,7 +241,8 @@ export function setBiologieGeneratorMap(map: BiologieGeneratorMap) {
 
 export function getK5Questions(
   selectedSubtopicIds: string[],
-  count = 10
+  count = 10,
+  lang = "de"
 ): BiologieQuestion[] {
   const themes = K5_CURRICULUM;
   const pool: BiologieQuestion[] = [];
@@ -271,7 +272,7 @@ export function getK5Questions(
           }
         }
         if (generatorFn && typeof generatorFn === "function") {
-          pool.push(...(generatorFn as (seed?: number) => BiologieQuestion[])(Math.floor(Math.random() * 1000000)));
+          pool.push(...(generatorFn as (seed?: number, lang?: string) => BiologieQuestion[])(Math.floor(Math.random() * 1000000), lang));
         } else {
           pool.push(...sub.questions);
         }
@@ -285,7 +286,7 @@ export function getK5Questions(
           }
         }
         if (typingFn) {
-          pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
+          pool.push(...typingFn(Math.floor(Math.random() * 1000000), lang));
         }
       }
     }
