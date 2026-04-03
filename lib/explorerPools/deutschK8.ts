@@ -215,7 +215,7 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t4_title", infoText: "t4_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "💭" },
+    svg: { type: "icon-grid", items: [{ emoji: "💭" }, { emoji: "💡" }, { emoji: "🤔" }, { emoji: "💬" }] },
     interactive: { type: "gap-fill", sentence: "t4_sent4", choices: ["t4_c4_1", "t4_c4_2", "t4_c4_3", "t4_c4_4"], correctIndex: 0, instruction: "t4_inst", hint1: "t4_h1", hint2: "t4_h2" },
     quiz: { generate: "konjunktiv_ii_k8" }
   },
@@ -227,7 +227,7 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🧱" },
+    svg: { type: "word-syllables", parts: ["1.", "2.", "3."], color: "#6366F1" },
     interactive: { type: "physics-stacker", words: ["t6_sw6_1", "t6_sw6_2", "t6_sw6_3"], correctOrder: [0, 1, 2], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { generate: "konjunktiv_ii_k8" }
   },
@@ -269,13 +269,13 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t13_title", infoText: "t13_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t13_ml13_1", right: "t13_mr13_1" }, { left: "t13_ml13_2", right: "t13_mr13_2" }, { left: "t13_ml13_3", right: "t13_mr13_3" }], instruction: "t13_inst", hint1: "t13_h1", hint2: "t13_h2" },
     quiz: { generate: "konjunktiv_i_k8" }
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🎯" },
+    svg: { type: "icon-grid", items: [{ emoji: "🎯" }, { emoji: "✅" }, { emoji: "⭐" }, { emoji: "💡" }] },
     interactive: { type: "physics-slingshot", question: "t14_q14", targets: [{ id: "1", text: "t14_t14_1", isCorrect: true }, { id: "2", text: "t14_t14_2", isCorrect: true }, { id: "3", text: "t14_t14_3", isCorrect: true }, { id: "4", text: "t14_t14_4", isCorrect: false }], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "konjunktiv_ii_k8" }
   },
@@ -293,7 +293,7 @@ export const KONJUNKTIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏆" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏆" }, { emoji: "⭐" }, { emoji: "🎯" }, { emoji: "✅" }] },
     interactive: { type: "gap-fill", sentence: "t17_sent17", choices: ["t17_c17_1", "t17_c17_2", "t17_c17_3", "t17_c17_4"], correctIndex: 0, instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "konjunktiv_i_k8" }
   }
@@ -477,7 +477,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t5_title", infoText: "t5_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🌀" },
+    svg: { type: "icon-grid", items: [{ emoji: "🌀" }, { emoji: "🔄" }, { emoji: "♻️" }, { emoji: "🔃" }] },
     interactive: { type: "physics-slingshot", question: "t5_q5", targets: [{ id: "1", text: "t5_t5_1", isCorrect: true }, { id: "2", text: "t5_t5_2", isCorrect: false }, { id: "3", text: "t5_t5_3", isCorrect: false }], instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2" },
     quiz: { generate: "passiv_k8" }
   },
@@ -501,7 +501,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🧱" },
+    svg: { type: "word-syllables", parts: ["1.", "2.", "3."], color: "#6366F1" },
     interactive: { type: "physics-stacker", words: ["t9_sw9_1", "t9_sw9_2", "t9_sw9_3"], correctOrder: [0, 1, 2], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "passiv_k8" }
   },
@@ -531,13 +531,13 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t14_title", infoText: "t14_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t14_ml14_1", right: "t14_mr14_1" }, { left: "t14_ml14_2", right: "t14_mr14_2" }, { left: "t14_ml14_3", right: "t14_mr14_3" }], instruction: "t14_inst", hint1: "t14_h1", hint2: "t14_h2" },
     quiz: { generate: "passiv_k8" }
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏹" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏹" }, { emoji: "🎯" }, { emoji: "💥" }, { emoji: "⭐" }] },
     interactive: { type: "physics-slingshot", question: "t15_q15", targets: [{ id: "1", text: "t15_t15_1", isCorrect: true }, { id: "2", text: "t15_t15_2", isCorrect: true }, { id: "3", text: "t15_t15_3", isCorrect: false }, { id: "4", text: "t15_t15_4", isCorrect: false }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "passiv_k8" }
   },
@@ -549,7 +549,7 @@ export const PASSIV_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏆" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏆" }, { emoji: "⭐" }, { emoji: "🎯" }, { emoji: "✅" }] },
     interactive: { type: "gap-fill", sentence: "t17_sent17", choices: ["t17_c17_1", "t17_c17_2", "t17_c17_3", "t17_c17_4"], correctIndex: 0, instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "passiv_k8" }
   }
@@ -734,7 +734,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t6_title", infoText: "t6_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t6_ml6_1", right: "t6_mr6_1" }, { left: "t6_ml6_2", right: "t6_mr6_2" }], instruction: "t6_inst", hint1: "t6_h1", hint2: "t6_h2" },
     quiz: { generate: "nebensatztypen_k8" }
   },
@@ -764,7 +764,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🤝" },
+    svg: { type: "icon-grid", items: [{ emoji: "🤝" }, { emoji: "👥" }, { emoji: "🫂" }, { emoji: "💬" }] },
     interactive: { type: "gap-fill", sentence: "t11_sent11", choices: ["t11_c11_1", "t11_c11_2", "t11_c11_3", "t11_c11_4"], correctIndex: 0, instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "partizipial_k8" }
   },
@@ -788,7 +788,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🧱" },
+    svg: { type: "word-syllables", parts: ["1.", "2.", "3."], color: "#6366F1" },
     interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3", "t15_sw15_4"], correctOrder: [0, 1, 2, 3], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "partizipial_k8" }
   },
@@ -800,7 +800,7 @@ export const NEBEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏆" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏆" }, { emoji: "⭐" }, { emoji: "🎯" }, { emoji: "✅" }] },
     interactive: { type: "gap-fill", sentence: "t17_sent17", choices: ["t17_c17_1", "t17_c17_2", "t17_c17_3", "t17_c17_4"], correctIndex: 0, instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "partizipial_k8" }
   }
@@ -961,7 +961,7 @@ export const STIL_K8_LABELS: Record<string, Record<string, string>> = {
 export const STIL_K8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "☯️" },
+    svg: { type: "icon-grid", items: [{ emoji: "☯️" }, { emoji: "⚖️" }, { emoji: "🔄" }, { emoji: "💫" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t1_ml1_1", right: "t1_mr1_1" }, { left: "t1_ml1_2", right: "t1_mr1_2" }, { left: "t1_ml1_3", right: "t1_mr1_3" }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "stilmittel_k8" }
   },
@@ -997,7 +997,7 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "📈" },
+    svg: { type: "icon-grid", items: [{ emoji: "📈" }, { emoji: "📊" }, { emoji: "📉" }, { emoji: "🔢" }] },
     interactive: { type: "physics-stacker", words: ["t7_sw7_1", "t7_sw7_2", "t7_sw7_3"], correctOrder: [0, 1, 2], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "stilmittel_k8" }
   },
@@ -1015,7 +1015,7 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "😏" },
+    svg: { type: "icon-grid", items: [{ emoji: "😏" }, { emoji: "🙄" }, { emoji: "😒" }, { emoji: "😈" }] },
     interactive: { type: "physics-slingshot", question: "t10_q10", targets: [{ id: "1", text: "t10_t10_1", isCorrect: true }, { id: "2", text: "t10_t10_2", isCorrect: false }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { generate: "stilmittel_k8" }
   },
@@ -1045,7 +1045,7 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🌋" },
+    svg: { type: "icon-grid", items: [{ emoji: "🌋" }, { emoji: "💥" }, { emoji: "🔥" }, { emoji: "⚡" }] },
     interactive: { type: "physics-stacker", words: ["t15_sw15_1", "t15_sw15_2", "t15_sw15_3"], correctOrder: [0, 1, 2], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "stilmittel_k8" }
   },
@@ -1057,7 +1057,7 @@ export const STIL_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🔄" },
+    svg: { type: "icon-grid", items: [{ emoji: "🔄" }, { emoji: "♻️" }, { emoji: "↔️" }, { emoji: "🔃" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t17_ml17_1", right: "t17_mr17_1" }, { left: "t17_ml17_2", right: "t17_mr17_2" }, { left: "t17_ml17_3", right: "t17_mr17_3" }], instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "stilmittel_k8" }
   }
@@ -1216,7 +1216,7 @@ export const TEXTSORTEN_K8_LABELS: Record<string, Record<string, string>> = {
 export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "🔍" },
+    svg: { type: "icon-grid", items: [{ emoji: "🔍" }, { emoji: "🔎" }, { emoji: "👁️" }, { emoji: "📖" }] },
     interactive: { type: "physics-slingshot", question: "t1_q1", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans1_2", isCorrect: false }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "eroerterung_k8" }
   },
@@ -1252,7 +1252,7 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🧱" },
+    svg: { type: "word-syllables", parts: ["1.", "2.", "3."], color: "#6366F1" },
     interactive: { type: "physics-stacker", words: ["t7_sw7_1", "t7_sw7_2", "t7_sw7_3"], correctOrder: [0, 1, 2], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "eroerterung_k8" }
   },
@@ -1276,7 +1276,7 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "eroerterung_k8" }
   },
@@ -1306,13 +1306,13 @@ export const TEXTSORTEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏹" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏹" }, { emoji: "🎯" }, { emoji: "💥" }, { emoji: "⭐" }] },
     interactive: { type: "physics-slingshot", question: "t16_q16", targets: [{ id: "1", text: "t16_t16_1", isCorrect: true }, { id: "2", text: "t16_t16_2", isCorrect: true }, { id: "3", text: "t16_t16_3", isCorrect: false }], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "eroerterung_k8" }
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏆" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏆" }, { emoji: "⭐" }, { emoji: "🎯" }, { emoji: "✅" }] },
     interactive: { type: "physics-slingshot", question: "t17_inst", targets: [{ id: "1", text: "t17_ans17", isCorrect: true }, { id: "2", text: "t17_ans17_2", isCorrect: false }], instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "eroerterung_k8" }
   }
@@ -1471,7 +1471,7 @@ export const EPOCHEN_K8_LABELS: Record<string, Record<string, string>> = {
 export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t1_title", infoText: "t1_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "💡" },
+    svg: { type: "icon-grid", items: [{ emoji: "💡" }, { emoji: "🤔" }, { emoji: "📝" }, { emoji: "✅" }] },
     interactive: { type: "physics-slingshot", question: "t1_q1", targets: [{ id: "1", text: "t1_ans1", isCorrect: true }, { id: "2", text: "t1_ans1_2", isCorrect: false }], instruction: "t1_inst", hint1: "t1_h1", hint2: "t1_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1513,13 +1513,13 @@ export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🧱" },
+    svg: { type: "word-syllables", parts: ["1.", "2.", "3."], color: "#6366F1" },
     interactive: { type: "physics-stacker", words: ["t8_sw8_1", "t8_sw8_2", "t8_sw8_3"], correctOrder: [0, 1, 2], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "⏱️" },
+    svg: { type: "icon-grid", items: [{ emoji: "⏱️" }, { emoji: "⏰" }, { emoji: "🕐" }, { emoji: "⌛" }] },
     interactive: { type: "physics-stacker", words: ["t9_sw9_1", "t9_sw9_2", "t9_sw9_3", "t9_sw9_4"], correctOrder: [0, 1, 2, 3], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "praeteritum" }
   },
@@ -1531,7 +1531,7 @@ export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -1561,13 +1561,13 @@ export const EPOCHEN_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🏹" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏹" }, { emoji: "🎯" }, { emoji: "💥" }, { emoji: "⭐" }] },
     interactive: { type: "physics-slingshot", question: "t16_q16", targets: [{ id: "1", text: "t16_t16_1", isCorrect: true }, { id: "2", text: "t16_t16_2", isCorrect: true }, { id: "3", text: "t16_t16_3", isCorrect: false }], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏆" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏆" }, { emoji: "⭐" }, { emoji: "🎯" }, { emoji: "✅" }] },
     interactive: { type: "physics-slingshot", question: "t17_inst", targets: [{ id: "1", text: "t17_ans17", isCorrect: true }, { id: "2", text: "t17_ans17_2", isCorrect: false }], instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "synonyme" }
   }
@@ -1739,7 +1739,7 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t3_ml3_1", right: "t3_mr3_1" }, { left: "t3_ml3_2", right: "t3_mr3_2" }, { left: "t3_ml3_3", right: "t3_mr3_3" }], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "nominalstil_k8" }
   },
@@ -1769,7 +1769,7 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🔬" },
+    svg: { type: "icon-grid", items: [{ emoji: "🔬" }, { emoji: "🔍" }, { emoji: "📊" }, { emoji: "🧪" }] },
     interactive: { type: "physics-slingshot", question: "t8_q8", targets: [{ id: "1", text: "t8_t8_1", isCorrect: true }, { id: "2", text: "t8_t8_2", isCorrect: false }], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "register_k8" }
   },
@@ -1781,7 +1781,7 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🧱" },
+    svg: { type: "word-syllables", parts: ["1.", "2.", "3."], color: "#6366F1" },
     interactive: { type: "physics-stacker", words: ["t10_sw10_1", "t10_sw10_2", "t10_sw10_3"], correctOrder: [0, 1, 2], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { generate: "register_k8" }
   },
@@ -1823,7 +1823,7 @@ export const NOM_SPRACH_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🎓" },
+    svg: { type: "icon-grid", items: [{ emoji: "🎓" }, { emoji: "📚" }, { emoji: "⭐" }, { emoji: "🏆" }] },
     interactive: { type: "physics-slingshot", question: "t17_inst", targets: [{ id: "1", text: "t17_ans17", isCorrect: true }, { id: "2", text: "t17_ans17_2", isCorrect: false }], instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "nominalstil_k8" }
   }
@@ -1982,13 +1982,13 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t2_title", infoText: "t2_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🏗️" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏗️" }, { emoji: "🧱" }, { emoji: "🔧" }, { emoji: "⚙️" }] },
     interactive: { type: "physics-stacker", words: ["t2_sw2_1", "t2_sw2_2", "t2_sw2_3"], correctOrder: [0, 1, 2], instruction: "t2_inst", hint1: "t2_h1", hint2: "t2_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t3_title", infoText: "t3_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "🚫" },
+    svg: { type: "icon-grid", items: [{ emoji: "🚫" }, { emoji: "❌" }, { emoji: "⛔" }, { emoji: "🛑" }] },
     interactive: { type: "physics-slingshot", question: "t3_q3", targets: [{ id: "1", text: "t3_t3_1", isCorrect: true }, { id: "2", text: "t3_t3_2", isCorrect: false }], instruction: "t3_inst", hint1: "t3_h1", hint2: "t3_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2012,7 +2012,7 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t7_title", infoText: "t7_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "🤝" },
+    svg: { type: "icon-grid", items: [{ emoji: "🤝" }, { emoji: "👥" }, { emoji: "🫂" }, { emoji: "💬" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t3_ml7_1", right: "t3_mr7_1" }, { left: "t3_ml7_2", right: "t3_mr7_2" }, { left: "t3_ml7_3", right: "t3_mr7_3" }], instruction: "t7_inst", hint1: "t7_h1", hint2: "t7_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2030,7 +2030,7 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t10_title", infoText: "t10_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "👁️" },
+    svg: { type: "icon-grid", items: [{ emoji: "👁️" }, { emoji: "🔍" }, { emoji: "👀" }, { emoji: "🔎" }] },
     interactive: { type: "physics-slingshot", question: "t10_h1", targets: [{ id: "1", text: "t10_ans10", isCorrect: true }, { id: "2", text: "t10_ans10_2", isCorrect: false }], instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2060,7 +2060,7 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t15_title", infoText: "t15_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🎯" },
+    svg: { type: "icon-grid", items: [{ emoji: "🎯" }, { emoji: "✅" }, { emoji: "⭐" }, { emoji: "💡" }] },
     interactive: { type: "physics-slingshot", question: "t15_q15", targets: [{ id: "1", text: "t15_t15_1", isCorrect: true }, { id: "2", text: "t15_t15_2", isCorrect: true }, { id: "3", text: "t15_t15_4", isCorrect: false }], instruction: "t15_inst", hint1: "t15_h1", hint2: "t15_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2072,7 +2072,7 @@ export const ANALYSE_K8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🎓" },
+    svg: { type: "icon-grid", items: [{ emoji: "🎓" }, { emoji: "📚" }, { emoji: "⭐" }, { emoji: "🏆" }] },
     interactive: { type: "physics-slingshot", question: "t17_inst", targets: [{ id: "1", text: "t17_ans17", isCorrect: true }, { id: "2", text: "t17_ans17_2", isCorrect: false }], instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "synonyme" }
   }
@@ -2275,13 +2275,13 @@ export const EXAM8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t8_title", infoText: "t8_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🏗️" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏗️" }, { emoji: "🧱" }, { emoji: "🔧" }, { emoji: "⚙️" }] },
     interactive: { type: "physics-stacker", words: ["t8_sw8_1", "t8_sw8_2", "t8_sw8_3"], correctOrder: [0, 1, 2], instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2" },
     quiz: { generate: "synonyme" }
   },
   {
     infoTitle: "t9_title", infoText: "t9_text", difficulty: "medium",
-    svg: { type: "simple-icon", icon: "🕵️" },
+    svg: { type: "icon-grid", items: [{ emoji: "🕵️" }, { emoji: "💡" }, { emoji: "⭐" }, { emoji: "🎯" }] },
     interactive: { type: "physics-slingshot", question: "t9_q9", targets: [{ id: "1", text: "t9_t9_1", isCorrect: true }, { id: "2", text: "t9_t9_2", isCorrect: false }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2293,7 +2293,7 @@ export const EXAM8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t11_title", infoText: "t11_text", difficulty: "easy",
-    svg: { type: "simple-icon", icon: "🧲" },
+    svg: { type: "icon-grid", items: [{ emoji: "🧲" }, { emoji: "↔️" }, { emoji: "🔗" }, { emoji: "✅" }] },
     interactive: { type: "physics-magnet", pairs: [{ left: "t11_ml11_1", right: "t11_mr11_1" }, { left: "t11_ml11_2", right: "t11_mr11_2" }, { left: "t11_ml11_3", right: "t11_mr11_3" }], instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2" },
     quiz: { generate: "synonyme" }
   },
@@ -2323,13 +2323,13 @@ export const EXAM8_POOL: PoolTopicDef[] = [
   },
   {
     infoTitle: "t16_title", infoText: "t16_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏹" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏹" }, { emoji: "🎯" }, { emoji: "💥" }, { emoji: "⭐" }] },
     interactive: { type: "physics-slingshot", question: "t16_q16", targets: [{ id: "1", text: "t16_t16_1", isCorrect: true }, { id: "2", text: "t16_t16_2", isCorrect: true }, { id: "3", text: "t16_t16_3", isCorrect: false }], instruction: "t16_inst", hint1: "t16_h1", hint2: "t16_h2" },
     quiz: { generate: "werden_passiv" }
   },
   {
     infoTitle: "t17_title", infoText: "t17_text", difficulty: "hard",
-    svg: { type: "simple-icon", icon: "🏆" },
+    svg: { type: "icon-grid", items: [{ emoji: "🏆" }, { emoji: "⭐" }, { emoji: "🎯" }, { emoji: "✅" }] },
     interactive: { type: "gap-fill", sentence: "t17_sent17", choices: ["t17_c17_1", "t17_c17_2", "t17_c17_3", "t17_c17_4"], correctIndex: 0, instruction: "t17_inst", hint1: "t17_h1", hint2: "t17_h2" },
     quiz: { generate: "werden_passiv" }
   }
