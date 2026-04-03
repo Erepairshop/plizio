@@ -7,74 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="wpGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#D97706" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#wpGrad1)" rx="16" />
-      {/* Visualizing a story: 3 baskets with 5 apples each */}
-      <g transform="translate(60, 60)">
-        {[0, 1, 2].map((i) => (
-          <g key={i} transform={`translate(${i * 60}, 0)`}>
-            <path d="M -20,0 Q -20,25 0,25 Q 20,25 20,0 L -20,0" fill="#78350F" opacity="0.6" />
-            <circle cx="0" cy="-5" r="6" fill="#EF4444" />
-            <circle cx="-8" cy="-12" r="6" fill="#EF4444" />
-            <circle cx="8" cy="-12" r="6" fill="#EF4444" />
-          </g>
-        ))}
-      </g>
-      <text x="120" y="120" fontSize="14" fontWeight="bold" fill="#92400E" textAnchor="middle">3 × 5 = ?</text>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="wpGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#2563EB" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#wpGrad2)" rx="16" />
-      {/* Keywords visual */}
-      <g transform="translate(120, 70)">
-        <rect x="-80" y="-30" width="160" height="60" fill="white" fillOpacity="0.3" rx="8" stroke="#2563EB" strokeDasharray="4 2" />
-        <text x="0" y="-5" fontSize="12" fontWeight="bold" fill="#1E40AF" textAnchor="middle">SUM • TOTAL • ALL</text>
-        <line x1="-60" y1="5" x2="60" y2="5" stroke="#2563EB" strokeWidth="1" opacity="0.5" />
-        <text x="0" y="22" fontSize="16" fontWeight="900" fill="#1E40AF" textAnchor="middle">+</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="wpGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#7C3AED" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#wpGrad3)" rx="16" />
-      {/* Estimation: 48 + 51 -> 50 + 50 */}
-      <g transform="translate(120, 70)">
-        <text x="-50" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">48 + 51</text>
-        <path d="M -10,0 L 10,0" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
-        <path d="M -10,5 L 10,5" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
-        <text x="60" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">≈ 100</text>
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -254,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4WordProblemT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -275,7 +207,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4WordProblemT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -299,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4WordProblemT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

@@ -7,77 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="mulGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FB7185" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#mulGrad1)" rx="16" />
-      {/* 3 groups of 4 dots */}
-      {[0, 1, 2].map((g) => (
-        <g key={g} transform={`translate(${60 + g * 60}, 70)`}>
-          <circle r="25" fill="none" stroke="#F59E0B" strokeWidth="2" strokeDasharray="4 2" opacity="0.4" />
-          <circle cx="-8" cy="-8" r="5" fill="#F59E0B" />
-          <circle cx="8" cy="-8" r="5" fill="#F59E0B" />
-          <circle cx="-8" cy="8" r="5" fill="#F59E0B" />
-          <circle cx="8" cy="8" r="5" fill="#F59E0B" />
-        </g>
-      ))}
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">3 × 4 = 12</text>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="mulGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#3B82F6" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#mulGrad2)" rx="16" />
-      {/* Area model / Grid */}
-      <g transform="translate(85, 35)">
-        {Array.from({ length: 5 }).map((_, r) => 
-          Array.from({ length: 7 }).map((_, c) => (
-            <rect key={`${r}-${c}`} x={c * 10} y={r * 10} width="8" height="8" fill="#10B981" rx="1" opacity={0.6} />
-          ))
-        )}
-        <text x="-15" y="30" fontSize="12" fill="#059669" fontWeight="bold">5</text>
-        <text x="35" y="-10" fontSize="12" fill="#059669" fontWeight="bold">7</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="mulGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#8B5CF6" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#mulGrad3)" rx="16" />
-      {/* 10x logic visual */}
-      <g transform="translate(120, 70)">
-        <text x="-50" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">42</text>
-        <text x="0" y="5" fontSize="20" fontWeight="300" fill="#9CA3AF" textAnchor="middle">×</text>
-        <text x="35" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">10</text>
-        <path d="M 60,0 L 80,0 L 75,-5 M 80,0 L 75,5" stroke="#DB2777" fill="none" strokeWidth="2" />
-        <text x="105" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">420</text>
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -257,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4MultiplicationT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -278,7 +207,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4MultiplicationT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -302,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4MultiplicationT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

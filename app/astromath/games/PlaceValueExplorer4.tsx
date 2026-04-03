@@ -7,67 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#C084FC" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#grad1)" rx="16" />
-      {/* 10,000 symbol representation */}
-      <g transform="translate(120, 60)">
-        <rect x="-40" y="-30" width="80" height="60" fill="#8B5CF6" rx="8" opacity="0.8" />
-        <text x="0" y="5" fontSize="18" fontWeight="bold" fill="white" textAnchor="middle">10 000</text>
-        <path d="M -50,0 L -70,0 M 50,0 L 70,0" stroke="#8B5CF6" strokeWidth="3" strokeLinecap="round" opacity="0.5" />
-      </g>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#60A5FA" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#grad2)" rx="16" />
-      {/* Place value columns visual */}
-      <g transform="translate(40, 40)">
-        <rect x="0" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.3" />
-        <rect x="50" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.5" />
-        <rect x="100" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.7" />
-        <text x="20" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">100</text>
-        <text x="70" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">10</text>
-        <text x="120" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">1</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#34D399" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#grad3)" rx="16" />
-      <line x1="30" y1="70" x2="210" y2="70" stroke="#059669" strokeWidth="2" />
-      <circle cx="120" cy="70" r="6" fill="#059669" />
-      <text x="30" y="95" fontSize="12" fill="#059669" textAnchor="middle">40 000</text>
-      <text x="210" y="95" fontSize="12" fill="#059669" textAnchor="middle">50 000</text>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -247,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4PlaceValueT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -268,7 +207,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4PlaceValueT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -292,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4PlaceValueT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
