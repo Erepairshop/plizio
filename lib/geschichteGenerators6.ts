@@ -829,11 +829,6 @@ function generateStadtleben(seed: number = 115): CurriculumQuestion[] {
   return qs;
 }
 
-  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
-
-  return qs;
-}
-
 // ─── 16. INVESTITURSTREIT (PAPST UND KAISER) ─────────────────────────────────
 
 function generateInvestiturstreit(seed: number = 116): CurriculumQuestion[] {

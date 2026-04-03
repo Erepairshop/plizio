@@ -10,51 +10,51 @@ export function setG5GeschichteGeneratorMap(map: any) {
 export const G5_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   {
     id: "fruehe_hochkulturen",
-    name: { de: "Frühe Hochkulturen", en: "Early Civilizations", hu: "Korai civilizációk", ro: "Primele civilizații" },
+    name: "Frühe Hochkulturen",
     subtopics: [
-      { id: "fruehe_hochkulturen", name: { de: "Merkmale", en: "Features", hu: "Jellemzők", ro: "Caracteristici" }, questions: [], hasGenerator: true },
+      { id: "fruehe_hochkulturen", name: "Merkmale", questions: [], hasGenerator: true },
     ]
   },
   {
     id: "aegypten",
-    name: { de: "Altes Ägypten", en: "Ancient Egypt", hu: "Ókori Egyiptom", ro: "Egiptul Antic" },
+    name: "Altes Ägypten",
     subtopics: [
-      { id: "aegypten", name: { de: "Pharaonen és Pyramiden", en: "Pharaohs and Pyramids", hu: "Fáraók és piramisok", ro: "Faraoni și piramide" }, questions: [], hasGenerator: true },
+      { id: "aegypten", name: "Pharaonen und Pyramiden", questions: [], hasGenerator: true },
     ]
   },
   {
     id: "griechenland",
-    name: { de: "Antikes Griechenland", en: "Ancient Greece", hu: "Ókori Görögország", ro: "Grecia Antică" },
+    name: "Antikes Griechenland",
     subtopics: [
-      { id: "griechenland", name: { de: "Polis és Demokratie", en: "Polis and Democracy", hu: "Polisz és demokrácia", ro: "Polis și democrație" }, questions: [], hasGenerator: true },
+      { id: "griechenland", name: "Polis und Demokratie", questions: [], hasGenerator: true },
     ]
   },
   {
     id: "rom_republik",
-    name: { de: "Römische Republik", en: "Roman Republic", hu: "Római Köztársaság", ro: "Republica Romană" },
+    name: "Römische Republik",
     subtopics: [
-      { id: "rom_republik", name: { de: "Aufstieg és Ordnung", en: "Rise and Order", hu: "Felemelkedés és rend", ro: "Ascensiune și ordine" }, questions: [], hasGenerator: true },
+      { id: "rom_republik", name: "Aufstieg und Ordnung", questions: [], hasGenerator: true },
     ]
   },
   {
     id: "rom_kaiserreich",
-    name: { de: "Römisches Kaiserreich", en: "Roman Empire", hu: "Római Császárság", ro: "Imperiul Roman" },
+    name: "Römisches Kaiserreich",
     subtopics: [
-      { id: "rom_kaiserreich", name: { de: "Kaiserzeit és Pax Romana", en: "Imperial Era", hu: "Császárkor", ro: "Era imperială" }, questions: [], hasGenerator: true },
+      { id: "rom_kaiserreich", name: "Kaiserzeit und Pax Romana", questions: [], hasGenerator: true },
     ]
   },
   {
     id: "germanen",
-    name: { de: "Die Germanen", en: "The Germans", hu: "A germánok", ro: "Germanii" },
+    name: "Die Germanen",
     subtopics: [
-      { id: "germanen", name: { de: "Leben im Norden", en: "Life in the North", hu: "Élet északon", ro: "Viața în nord" }, questions: [], hasGenerator: true },
+      { id: "germanen", name: "Leben im Norden", questions: [], hasGenerator: true },
     ]
   },
   {
     id: "voelkerwanderung",
-    name: { de: "Völkerwanderung", en: "Migration Period", hu: "Népvándorlás", ro: "Migrația popoarelor" },
+    name: "Völkerwanderung",
     subtopics: [
-      { id: "voelkerwanderung", name: { de: "Ende der Antike", en: "End of Antiquity", hu: "Az ókor vége", ro: "Sfârșitul antichității" }, questions: [], hasGenerator: true },
+      { id: "voelkerwanderung", name: "Ende der Antike", questions: [], hasGenerator: true },
     ]
   }
 ];
@@ -64,7 +64,7 @@ export function getG5GeschichteQuestions(subtopicId: string, seed: number = 123)
     return g5GeneratorMap[subtopicId](seed);
   }
   if (G5_Generators_Geschichte[subtopicId]) {
-    return G5_Generators_Geschichte[subtopicId](seed);
+    return G5_Generators_Geschichte[subtopicId]();
   }
   return [];
 }

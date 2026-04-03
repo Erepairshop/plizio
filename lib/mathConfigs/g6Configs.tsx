@@ -1,6 +1,26 @@
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import * as MathSvgs from "@/app/astromath/svg/MathSvg";
 
+// Placeholder SVG components for g6 topics
+const Topic1Svg = () => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#eff6ff" stroke="#93c5fd" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">📐</text>
+  </svg>
+);
+const Topic2Svg = () => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#f0fdf4" stroke="#86efac" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">📏</text>
+  </svg>
+);
+const Topic3Svg = () => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#fef9c3" stroke="#fde047" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">🔢</text>
+  </svg>
+);
+
 // ─── ALGEBRAEXPLORER6 CONFIG ───
 
 const ALGEBRAEXPLORER6_LABELS: Record<string, Record<string, string>> = {
@@ -182,7 +202,7 @@ const ALGEBRAEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const ALGEBRAEXPLORER6_TOPICS: TopicDef[] = [] = [
+const ALGEBRAEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -449,7 +469,7 @@ const AREAEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const AREAEXPLORER6_TOPICS: TopicDef[] = [] = [
+const AREAEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -705,7 +725,7 @@ const NEGATIVENUMBEREXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const NEGATIVENUMBEREXPLORER6_TOPICS: TopicDef[] = [] = [
+const NEGATIVENUMBEREXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -968,7 +988,7 @@ const PERCENTEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PERCENTEXPLORER6_TOPICS: TopicDef[] = [] = [
+const PERCENTEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1231,7 +1251,7 @@ const RATIOEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const RATIOEXPLORER6_TOPICS: TopicDef[] = [] = [
+const RATIOEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1492,7 +1512,7 @@ const SPEEDEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const SPEEDEXPLORER6_TOPICS: TopicDef[] = [] = [
+const SPEEDEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1756,7 +1776,7 @@ const STATEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const STATEXPLORER6_TOPICS: TopicDef[] = [] = [
+const STATEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -2017,7 +2037,7 @@ const FRACTIONPROEXPLORER6_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const FRACTIONPROEXPLORER6_TOPICS: TopicDef[] = [] = [
+const FRACTIONPROEXPLORER6_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",

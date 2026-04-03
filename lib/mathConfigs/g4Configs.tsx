@@ -1,5 +1,15 @@
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import * as MathSvgs from "@/app/astromath/svg/MathSvg";
+import {
+  G4AngleT1Svg, G4AngleT2Svg, G4AngleT3Svg,
+  G4AreaT1Svg, G4AreaT2Svg, G4AreaT3Svg,
+  G4DivisionT1Svg, G4DivisionT2Svg, G4DivisionT3Svg,
+  G4FractionT1Svg, G4FractionT2Svg, G4FractionT3Svg,
+  G4MultiplicationT1Svg, G4MultiplicationT2Svg, G4MultiplicationT3Svg,
+  G4PlaceValueT1Svg, G4PlaceValueT2Svg, G4PlaceValueT3Svg,
+  G4UnitT1Svg, G4UnitT2Svg, G4UnitT3Svg,
+  G4WordProblemT1Svg, G4WordProblemT2Svg, G4WordProblemT3Svg,
+} from "@/app/astromath/svg/MathSvg";
 
 // ─── ANGLEEXPLORER4 CONFIG ───
 
@@ -174,11 +184,11 @@ const ANGLEEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const ANGLEEXPLORER4_TOPICS: TopicDef[] = [] = [
+const ANGLEEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4AngleT1Svg" },
+    svg: () => <G4AngleT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -202,7 +212,7 @@ const ANGLEEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4AngleT2Svg" },
+    svg: () => <G4AngleT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -223,7 +233,7 @@ const ANGLEEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4AngleT3Svg" },
+    svg: () => <G4AngleT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -424,11 +434,11 @@ const AREAEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const AREAEXPLORER4_TOPICS: TopicDef[] = [] = [
+const AREAEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4AreaT1Svg" },
+    svg: () => <G4AreaT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -449,7 +459,7 @@ const AREAEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4AreaT2Svg" },
+    svg: () => <G4AreaT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -473,7 +483,7 @@ const AREAEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4AreaT3Svg" },
+    svg: () => <G4AreaT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -674,11 +684,11 @@ const DIVISIONEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const DIVISIONEXPLORER4_TOPICS: TopicDef[] = [] = [
+const DIVISIONEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4DivisionT1Svg" },
+    svg: () => <G4DivisionT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -699,7 +709,7 @@ const DIVISIONEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4DivisionT2Svg" },
+    svg: () => <G4DivisionT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -723,7 +733,7 @@ const DIVISIONEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4DivisionT3Svg" },
+    svg: () => <G4DivisionT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -924,11 +934,11 @@ const FRACTIONEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const FRACTIONEXPLORER4_TOPICS: TopicDef[] = [] = [
+const FRACTIONEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4FractionT1Svg" },
+    svg: () => <G4FractionT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -949,7 +959,7 @@ const FRACTIONEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4FractionT2Svg" },
+    svg: () => <G4FractionT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -973,7 +983,7 @@ const FRACTIONEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4FractionT3Svg" },
+    svg: () => <G4FractionT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -1174,11 +1184,11 @@ const MULTIPLICATIONEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const MULTIPLICATIONEXPLORER4_TOPICS: TopicDef[] = [] = [
+const MULTIPLICATIONEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4MultiplicationT1Svg" },
+    svg: () => <G4MultiplicationT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -1199,7 +1209,7 @@ const MULTIPLICATIONEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4MultiplicationT2Svg" },
+    svg: () => <G4MultiplicationT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -1223,7 +1233,7 @@ const MULTIPLICATIONEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4MultiplicationT3Svg" },
+    svg: () => <G4MultiplicationT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -1424,11 +1434,11 @@ const PLACEVALUEEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PLACEVALUEEXPLORER4_TOPICS: TopicDef[] = [] = [
+const PLACEVALUEEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4PlaceValueT1Svg" },
+    svg: () => <G4PlaceValueT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -1449,7 +1459,7 @@ const PLACEVALUEEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4PlaceValueT2Svg" },
+    svg: () => <G4PlaceValueT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -1473,7 +1483,7 @@ const PLACEVALUEEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4PlaceValueT3Svg" },
+    svg: () => <G4PlaceValueT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -1674,11 +1684,11 @@ const UNITEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const UNITEXPLORER4_TOPICS: TopicDef[] = [] = [
+const UNITEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4UnitT1Svg" },
+    svg: () => <G4UnitT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -1702,7 +1712,7 @@ const UNITEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4UnitT2Svg" },
+    svg: () => <G4UnitT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -1723,7 +1733,7 @@ const UNITEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4UnitT3Svg" },
+    svg: () => <G4UnitT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
@@ -1924,11 +1934,11 @@ const WORDPROBLEMEXPLORER4_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const WORDPROBLEMEXPLORER4_TOPICS: TopicDef[] = [] = [
+const WORDPROBLEMEXPLORER4_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "G4WordProblemT1Svg" },
+    svg: () => <G4WordProblemT1Svg />,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -1949,7 +1959,7 @@ const WORDPROBLEMEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "G4WordProblemT2Svg" },
+    svg: () => <G4WordProblemT2Svg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -1973,7 +1983,7 @@ const WORDPROBLEMEXPLORER4_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "G4WordProblemT3Svg" },
+    svg: () => <G4WordProblemT3Svg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

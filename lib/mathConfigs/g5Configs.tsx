@@ -1,6 +1,26 @@
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import * as MathSvgs from "@/app/astromath/svg/MathSvg";
 
+// Placeholder SVG components for g5 topics
+const Topic1Svg = () => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#eff6ff" stroke="#93c5fd" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">📐</text>
+  </svg>
+);
+const Topic2Svg = () => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#f0fdf4" stroke="#86efac" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">📏</text>
+  </svg>
+);
+const Topic3Svg = () => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#fef9c3" stroke="#fde047" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">🔢</text>
+  </svg>
+);
+
 // ─── ADDSUBEXPLORER5 CONFIG ───
 
 const ADDSUBEXPLORER5_LABELS: Record<string, Record<string, string>> = {
@@ -174,7 +194,7 @@ const ADDSUBEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const ADDSUBEXPLORER5_TOPICS: TopicDef[] = [] = [
+const ADDSUBEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -423,7 +443,7 @@ const DECIMALEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const DECIMALEXPLORER5_TOPICS: TopicDef[] = [] = [
+const DECIMALEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -672,7 +692,7 @@ const FRACTIONEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const FRACTIONEXPLORER5_TOPICS: TopicDef[] = [] = [
+const FRACTIONEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -924,7 +944,7 @@ const GEOMETRYEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const GEOMETRYEXPLORER5_TOPICS: TopicDef[] = [] = [
+const GEOMETRYEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1176,7 +1196,7 @@ const MULDIVEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const MULDIVEXPLORER5_TOPICS: TopicDef[] = [] = [
+const MULDIVEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1427,7 +1447,7 @@ const PLACEVALUEEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PLACEVALUEEXPLORER5_TOPICS: TopicDef[] = [] = [
+const PLACEVALUEEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1677,7 +1697,7 @@ const UNITEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const UNITEXPLORER5_TOPICS: TopicDef[] = [] = [
+const UNITEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1928,7 +1948,7 @@ const WORDPROBLEMEXPLORER5_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const WORDPROBLEMEXPLORER5_TOPICS: TopicDef[] = [] = [
+const WORDPROBLEMEXPLORER5_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",

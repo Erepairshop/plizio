@@ -58,6 +58,45 @@ type TestType = "klassenarbeit" | null;
 import { CountrySelect } from "@/components/math-test/CountrySelect";
 import { GradeSelect } from "@/components/math-test/GradeSelect";
 import { ThemeSelect } from "@/components/math-test/ThemeSelect";
+import { type CountryConfig, getCountryByCode, saveCountry } from "@/lib/mathLocale";
+import {
+  type SchoolTaskBlock as SchoolTaskBlockType,
+  type SchoolTaskAnswers,
+  isVisualTopicKey,
+  generateSchoolTest,
+  gradeSchoolTest,
+} from "@/lib/schoolTaskGenerator";
+import { useAuth } from "@/lib/supabase/useAuth";
+import {
+  type TestSession,
+  type SubmitAnswer,
+  type KlassenarbeitMetadata,
+  type TestResultFromServer,
+  isSupabaseConfigured,
+  startTest as startSupabaseTest,
+  submitTest as submitSupabaseTest,
+} from "@/lib/assessment/testFlow";
+import { getGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+import { getLanguage } from "@/lib/language";
+import { getUsername } from "@/lib/username";
+import { generateTestPdf } from "@/lib/generateTestPdf";
+import { renderVisualPrintHtml } from "@/lib/printVisualHelpers";
+import { convertToExtendedQuestion } from "@/lib/mathQuestionUtils";
+import AvatarCompanion from "@/components/AvatarCompanion";
+import SchoolTaskBlock from "@/components/SchoolTaskBlock";
+import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
+import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDisplay";
+import MathQuestionDisplay from "@/components/MathQuestionDisplay";
+import { InlineGradingPencil } from "@/components/GradingPencil";
+import { InlineTeacherNote } from "@/components/TeacherNote";
+import GradingPencil from "@/components/GradingPencil";
+import ExamResultsDisplay from "@/components/ExamResultsDisplay";
+import ModernPaperTest from "@/components/ModernPaperTest";
+import { DraftProvider } from "@/components/draft";
 
 export default function MathTestPage() {
   const router = useRouter();

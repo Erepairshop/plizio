@@ -124,7 +124,7 @@ export default function GravitasOverlays(props: Props) {
                   {localize({ en: "Developable imprint lines", hu: "Fejleszthető lenyomat ágak", de: "Entwickelbare Prägungslinien", ro: "Linii de amprentă dezvoltabilă" })}
                 </div>
                 <div className="mt-3 space-y-2">
-                  {state.avatarProfile.answers.map((answer, idx) => (
+                  {state.avatarProfile.answers.map((answer: any, idx: number) => (
                     <div key={`${answer.questionId}-${answer.optionId}-${idx}`} className="rounded-2xl border border-fuchsia-400/10 bg-black/20 px-3 py-2.5">
                       <div className="flex items-start justify-between gap-3">
                         <div className="min-w-0">
@@ -185,7 +185,7 @@ export default function GravitasOverlays(props: Props) {
               </div>
               <div className="flex-1 overflow-y-auto p-5 pb-[calc(6rem+env(safe-area-inset-bottom))]">
                 <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-                  {quickActions.map((action) => (
+                  {quickActions.map((action: any) => (
                     <MainAction
                       key={`sheet-${action.key}`}
                       label={action.label}
@@ -256,7 +256,7 @@ export default function GravitasOverlays(props: Props) {
                     </div>
                   )}
                   <div className="grid grid-cols-2 gap-3">
-                    {Object.values(state.modules).map((m) => {
+                    {Object.values(state.modules).map((m: any) => {
                       const Icon = props.selectedModule === m.id ? Zap : Zap;
                       const isSelected = m.id === selectedModule;
                       const integrityColor = m.integrity > 60 ? "bg-emerald-500" : m.integrity > 30 ? "bg-amber-500" : "bg-rose-500";
@@ -284,7 +284,7 @@ export default function GravitasOverlays(props: Props) {
                     </div>
                     <p className="text-sm text-white/60 mb-4">{localize(content.modules[selectedModule].role)}</p>
                     <div className="space-y-3">
-                      {moduleActions.map((action) => (
+                      {moduleActions.map((action: any) => (
                         <button key={action.id} onClick={() => { doAction(action.command, "rgba(34,211,238,0.4)"); if (!action.command.type.includes("EVENT")) setActivePanel(null); }} disabled={action.disabled} className={`w-full p-4 rounded-xl border text-left flex items-center justify-between gap-4 transition active:scale-[0.98] active:brightness-125 ${action.disabled ? "opacity-30 grayscale cursor-not-allowed" : "border-white/10 bg-white/5 hover:bg-white/10"}`}>
                           <div><div className="text-sm font-black">{localize(action.label)}</div><div className="text-[11px] text-white/40">{localize(action.hint)}</div></div>
                           <Zap size={14} className={action.emphasis === "primary" ? "text-pink-400 animate-pulse" : "text-white/20"} />
@@ -315,7 +315,7 @@ export default function GravitasOverlays(props: Props) {
                 <div className="space-y-4">
                   {state.alert && <div className="p-4 rounded-2xl border border-cyan-400/20 bg-cyan-400/5 text-cyan-100 text-sm font-medium flex items-center gap-3"><Terminal size={16} className="text-cyan-400 shrink-0" />{localize(state.alert)}</div>}
                   <div className="space-y-3">
-                    {state.journal.map((line, idx) => <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.03] text-sm text-white/80 border-l-2 border-l-white/15 flex gap-3"><span className="font-black text-white/45 uppercase shrink-0 mt-0.5 text-[10px]">T{line.tick}</span><span>{localize(line.text)}</span></div>)}
+                    {state.journal.map((line: any, idx: number) => <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.03] text-sm text-white/80 border-l-2 border-l-white/15 flex gap-3"><span className="font-black text-white/45 uppercase shrink-0 mt-0.5 text-[10px]">T{line.tick}</span><span>{localize(line.text)}</span></div>)}
                     {state.journal.length === 0 && <div className="p-12 text-center text-[10px] text-white/40 font-black uppercase tracking-[0.2em]">{localize(ui.awaitingLog)}</div>}
                   </div>
                 </div>
