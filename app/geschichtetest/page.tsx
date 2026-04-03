@@ -37,7 +37,10 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
     { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
   ],
-  calculateMark: (pct, country) => calculateGeschichteMark(pct),
+  calculateMark: (pct, country) => {
+    const m = calculateGeschichteMark(pct);
+    return { note: m.label, label: m.description, color: m.color, emoji: m.emoji };
+  },
 
   curriculum: GESCHICHTE_CURRICULUM as any,
   getQuestions: getGeschichteQuestions as any,

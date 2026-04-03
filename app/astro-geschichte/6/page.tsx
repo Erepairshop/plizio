@@ -370,7 +370,7 @@ export default function AstroGeschichteK6Page() {
         <div className="relative z-10 flex items-center justify-between px-4 pt-5"><button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button></div>
         <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 justify-center">
           {activeIsland.missions.map((m, i) => {
-            const cfg = CATEGORY_CONFIG[m.category];
+            const cfg = CATEGORY_CONFIG[m.category as string];
             const done = isMissionDoneK6(progress, activeIsland.id, m.id);
             return (
               <button key={i} onClick={() => startMission(m)} className="w-full rounded-3xl p-5 text-left border-2" style={{ background: cfg.bg, borderColor: done ? cfg.color : cfg.border }}>
