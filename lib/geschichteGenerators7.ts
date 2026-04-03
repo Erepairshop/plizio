@@ -1221,6 +1221,45 @@ function generateGesellschaftlicherWandel(seed: number = 724): CurriculumQuestio
   return qs;
 }
 
+// ─── 25. AMERIKANISCHE REVOLUTION ───────────────────────────────────────────
+
+function generateAmerikanischeRevolution(seed: number = 725): CurriculumQuestion[] {
+  const rng = mulberry32(seed);
+  const T = "Geschichte";
+  const S = "amerikanische_revolution";
+  const qs: CurriculumQuestion[] = [];
+
+  const mcqPool: [string, string, string[]][] = [
+    ["Was war der Slogan der amerikanischen Siedler gegen die britischen Steuern?", "No taxation without representation", ["Give me liberty or give me death", "In God we trust", "E pluribus unum"]],
+    ["Wann wurde die Unabhängigkeitserklärung der USA unterzeichnet?", "4. Juli 1776", ["14. Juli 1789", "1. Januar 1800", "24. Dezember 1775"]],
+    ["Wer war der erste Präsident der USA?", "George Washington", ["Thomas Jefferson", "Benjamin Franklin", "Abraham Lincoln"]],
+    ["Was war die 'Boston Tea Party'?", "Ein Protest gegen die Teesteuer, bei dem Tee ins Meer geworfen wurde", ["Ein gemütliches Kaffeetrinken", "Die Gründung einer Teefirma", "Ein Ball in Boston"]],
+    ["Gegen welches Land kämpften die 13 Kolonien um ihre Unabhängigkeit?", "Großbritannien", ["Frankreich", "Spanien", "Deutschland"]],
+    ["Wer war der Hauptautor der Unabhängigkeitserklärung?", "Thomas Jefferson", ["George Washington", "John Adams", "Benjamin Franklin"]],
+    ["Welche Rolle spielte Frankreich im Unabhängigkeitskrieg?", "Es unterstützte die Amerikaner gegen die Briten", ["Es kämpfte auf britischer Seite", "Es blieb völlig neutral", "Es besetzte New York"]],
+    ["Was ist die 'Bill of Rights'?", "Die ersten zehn Zusatzartikel zur US-Verfassung (Grundrechte)", ["Ein Gesetz zur Einführung von Steuern", "Ein Friedensvertrag mit Indianern", "Ein Kochbuch"]],
+    ["In welcher Stadt wurde die Unabhängigkeit erklärt?", "Philadelphia", ["Washington D.C.", "New York", "Boston"]],
+    ["Wie viele Kolonien erklärten 1776 ihre Unabhängigkeit?", "13", ["50", "10", "20", "7"]]
+  ];
+
+  const typingPool: [string, string | string[]][] = [
+    ["Stadt der Tea Party?", "Boston"],
+    ["US-Unabhängigkeitstag (Datum)?", "4. Juli"],
+    ["Erster US-Präsident?", "Washington"],
+    ["Slogan: No taxation without ...?", "representation"],
+    ["Hauptgegner (Staat)?", ["England", "Grossbritannien"]],
+    ["Autor der Deklaration?", "Jefferson"],
+    ["Zahl der Gründungskolonien?", "13"],
+    ["Dokument der Grundrechte?", "Bill of Rights"],
+    ["Name des neuen Staates?", "USA"],
+    ["Jahr der Erklärung?", "1776"]
+  ];
+
+  shuffle(mcqPool, rng).forEach(m => qs.push(createMCQ(T, S, m[0], m[1], m[2], rng)));
+  shuffle(typingPool, rng).forEach(t => qs.push(createTyping(T, S, t[0], t[1])));
+  return qs;
+}
+
 // ─── GENERATOR MAP ─────────────────────────────────────────────────────────
 
 export const G7_Generators_Geschichte: Record<string, (seed?: number) => CurriculumQuestion[]> = {
@@ -1247,5 +1286,6 @@ export const G7_Generators_Geschichte: Record<string, (seed?: number) => Curricu
   ende_napoleon: (seed?: number) => generateEndeNapoleon(seed),
   wiener_kongress: (seed?: number) => generateWienerKongress(seed),
   industrielle_revolution_anfang: (seed?: number) => generateIndustrielleRev(seed),
-  gesellschaftlicher_wandel: (seed?: number) => generateGesellschaftlicherWandel(seed)
+  gesellschaftlicher_wandel: (seed?: number) => generateGesellschaftlicherWandel(seed),
+  amerikanische_revolution: (seed?: number) => generateAmerikanischeRevolution(seed)
 };
