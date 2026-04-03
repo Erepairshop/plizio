@@ -7,73 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="unitGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#0EA5E9" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#38BDF8" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#unitGrad1)" rx="16" />
-      {/* Ruler visual */}
-      <g transform="translate(20, 60)">
-        <rect width="200" height="30" fill="#F1F5F9" stroke="#0EA5E9" rx="4" />
-        {Array.from({ length: 21 }).map((_, i) => (
-          <line key={i} x1={i * 10} y1="0" x2={i * 10} y2={i % 5 === 0 ? 15 : 8} stroke="#0EA5E9" strokeWidth="1" />
-        ))}
-        <text x="50" y="45" fontSize="10" fill="#0EA5E9" textAnchor="middle">5 cm</text>
-        <text x="100" y="45" fontSize="10" fill="#0EA5E9" textAnchor="middle">10 cm</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="unitGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F43F5E" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FDA4AF" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#unitGrad2)" rx="16" />
-      {/* Weight scale visual */}
-      <g transform="translate(120, 80)">
-        <path d="M -40,0 L 40,0 L 0,-40 Z" fill="#E11D48" opacity="0.6" />
-        <rect x="-50" y="-45" width="100" height="10" fill="#E11D48" rx="2" />
-        <circle cx="-35" cy="-55" r="8" fill="#FB7185" />
-        <text x="0" y="25" fontSize="14" fontWeight="bold" fill="#9F1239" textAnchor="middle">1 kg = 1000 g</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="unitGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#6EE7B7" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#unitGrad3)" rx="16" />
-      {/* Liquid volume visual */}
-      <g transform="translate(100, 30)">
-        <rect x="0" y="0" width="40" height="80" fill="none" stroke="#059669" strokeWidth="2" rx="2" />
-        <rect x="2" y="40" width="36" height="38" fill="#34D399" opacity="0.5" />
-        <line x1="40" y1="20" x2="45" y2="20" stroke="#059669" />
-        <line x1="40" y1="40" x2="48" y2="40" stroke="#059669" />
-        <line x1="40" y1="60" x2="45" y2="60" stroke="#059669" />
-        <text x="65" y="45" fontSize="12" fontWeight="bold" fill="#065F46">1 L</text>
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -253,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4UnitT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -277,7 +210,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4UnitT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -298,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4UnitT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

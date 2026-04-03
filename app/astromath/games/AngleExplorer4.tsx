@@ -7,70 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="symGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#6366F1" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#818CF8" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#symGrad1)" rx="16" />
-      {/* Right angle visual */}
-      <g transform="translate(100, 90)">
-        <path d="M 0,-60 L 0,0 L 60,0" fill="none" stroke="#4338CA" strokeWidth="3" strokeLinecap="round" />
-        <rect x="0" y="-10" width="10" height="10" fill="none" stroke="#4338CA" strokeWidth="1" />
-        <circle cx="4" cy="-4" r="1" fill="#4338CA" />
-        <text x="70" y="5" fontSize="12" fontWeight="bold" fill="#4338CA">90°</text>
-      </g>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="symGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#F472B6" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#symGrad2)" rx="16" />
-      {/* Symmetry visual - Butterfly/Shape */}
-      <g transform="translate(120, 70)">
-        <path d="M -40,-30 Q -60,0 -40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
-        <path d="M 40,-30 Q 60,0 40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
-        <line x1="0" y1="-45" x2="0" y2="45" stroke="#BE185D" strokeWidth="2" strokeDasharray="5 3" />
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="symGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#14B8A6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#5EEAD4" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#symGrad3)" rx="16" />
-      {/* Acute vs Obtuse angle visual */}
-      <g transform="translate(70, 90)">
-        <path d="M 0,-40 L 0,0 L 30,0" fill="none" stroke="#0D9488" strokeWidth="3" opacity="0.5" />
-        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">ACUTE</text>
-      </g>
-      <g transform="translate(170, 90)">
-        <path d="M -30,-30 L 0,0 L 40,0" fill="none" stroke="#0D9488" strokeWidth="3" />
-        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">OBTUSE</text>
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -250,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4AngleT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -274,7 +210,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4AngleT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -295,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4AngleT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

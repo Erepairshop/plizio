@@ -7,76 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="geoGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#34D399" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#geoGrad1)" rx="16" />
-      {/* Perimeter visual - highlighting the border */}
-      <g transform="translate(80, 40)">
-        <rect width="80" height="60" fill="none" stroke="#059669" strokeWidth="4" rx="2" />
-        <path d="M 0,0 L 80,0 L 80,60 L 0,60 Z" fill="none" stroke="#34D399" strokeWidth="1" strokeDasharray="4 2" />
-        <text x="40" y="-10" fontSize="12" fill="#059669" textAnchor="middle" fontWeight="bold">8</text>
-        <text x="95" y="35" fontSize="12" fill="#059669" textAnchor="middle" fontWeight="bold">6</text>
-      </g>
-      <text x="120" y="125" fontSize="13" fontWeight="bold" fill="#065F46" textAnchor="middle">P = 8 + 6 + 8 + 6 = 28</text>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="geoGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#60A5FA" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#geoGrad2)" rx="16" />
-      {/* Area visual - grid inside */}
-      <g transform="translate(85, 35)">
-        <rect width="70" height="50" fill="#3B82F6" fillOpacity="0.2" stroke="#2563EB" strokeWidth="2" />
-        {Array.from({ length: 5 }).map((_, r) => (
-          <line key={`r${r}`} x1="0" y1={r * 10} x2="70" y2={r * 10} stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
-        ))}
-        {Array.from({ length: 7 }).map((_, c) => (
-          <line key={`c${c}`} x1={c * 10} y1="0" x2={c * 10} y2="50" stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
-        ))}
-        <text x="35" y="-10" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">7</text>
-        <text x="-12" y="30" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">5</text>
-      </g>
-      <text x="120" y="125" fontSize="13" fontWeight="bold" fill="#1E40AF" textAnchor="middle">A = 7 × 5 = 35</text>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="geoGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F43F5E" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#FB7185" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#geoGrad3)" rx="16" />
-      {/* Square visual - P vs A */}
-      <g transform="translate(90, 30)">
-        <rect width="60" height="60" fill="#F43F5E" fillOpacity="0.1" stroke="#E11D48" strokeWidth="2" />
-        <text x="30" y="35" fontSize="10" fill="#E11D48" textAnchor="middle">AREA</text>
-        <path d="M -5,0 L -5,60" stroke="#E11D48" strokeWidth="1" />
-        <text x="-15" y="35" fontSize="12" fill="#E11D48" textAnchor="middle" fontWeight="bold">4</text>
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -256,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4AreaT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -277,7 +207,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4AreaT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -301,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4AreaT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

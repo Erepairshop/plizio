@@ -907,3 +907,661 @@ export const InverseSvg = memo(({ a = 3, b = 4 }: { a?: number; b?: number }) =>
     </svg>
   );
 });
+
+// ─── TEN THOUSAND BLOCK SVG ────────────────────────────────────────────────
+
+export const TenThousandBlockSvg = memo(() => {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#f5f3ff" rx="16" />
+      <g transform="translate(120, 60)">
+        <rect x="-40" y="-30" width="80" height="60" fill="#8B5CF6" rx="8" opacity="0.8" />
+        <text x="0" y="5" fontSize="18" fontWeight="bold" fill="white" textAnchor="middle">10 000</text>
+        <path d="M -50,0 L -70,0 M 50,0 L 70,0" stroke="#8B5CF6" strokeWidth="3" strokeLinecap="round" opacity="0.5" />
+      </g>
+    </svg>
+  );
+});
+
+// ─── PLACE VALUE COLS SVG ──────────────────────────────────────────────────
+
+export const PlaceValueColsSvg = memo(() => {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#eff6ff" rx="16" />
+      <g transform="translate(40, 40)">
+        <rect x="0" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.3" />
+        <rect x="50" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.5" />
+        <rect x="100" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.7" />
+        <text x="20" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">100</text>
+        <text x="70" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">10</text>
+        <text x="120" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">1</text>
+      </g>
+    </svg>
+  );
+});
+
+// ─── NUMBER LINE 40K SVG ───────────────────────────────────────────────────
+
+export const NumberLine40kSvg = memo(() => {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <rect width="240" height="140" fill="#ecfdf5" rx="16" />
+      <line x1="30" y1="70" x2="210" y2="70" stroke="#059669" strokeWidth="2" />
+      <circle cx="120" cy="70" r="6" fill="#059669" />
+      <text x="30" y="95" fontSize="12" fill="#059669" textAnchor="middle">40 000</text>
+      <text x="210" y="95" fontSize="12" fill="#059669" textAnchor="middle">50 000</text>
+    </svg>
+  );
+});
+
+// ─── G4 ANGLE T1 SVG ────────────────────────────────────────────────
+
+export const G4AngleT1Svg = memo(function G4AngleT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="symGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#6366F1" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#818CF8" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#symGrad1)" rx="16" />
+      {/* Right angle visual */}
+      <g transform="translate(100, 90)">
+        <path d="M 0,-60 L 0,0 L 60,0" fill="none" stroke="#4338CA" strokeWidth="3" strokeLinecap="round" />
+        <rect x="0" y="-10" width="10" height="10" fill="none" stroke="#4338CA" strokeWidth="1" />
+        <circle cx="4" cy="-4" r="1" fill="#4338CA" />
+        <text x="70" y="5" fontSize="12" fontWeight="bold" fill="#4338CA">90°</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 ANGLE T2 SVG ────────────────────────────────────────────────
+
+export const G4AngleT2Svg = memo(function G4AngleT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="symGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#F472B6" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#symGrad2)" rx="16" />
+      {/* Symmetry visual - Butterfly/Shape */}
+      <g transform="translate(120, 70)">
+        <path d="M -40,-30 Q -60,0 -40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
+        <path d="M 40,-30 Q 60,0 40,30 L 0,0 Z" fill="#EC4899" opacity="0.6" stroke="#BE185D" />
+        <line x1="0" y1="-45" x2="0" y2="45" stroke="#BE185D" strokeWidth="2" strokeDasharray="5 3" />
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 ANGLE T3 SVG ────────────────────────────────────────────────
+
+export const G4AngleT3Svg = memo(function G4AngleT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="symGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#14B8A6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#5EEAD4" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#symGrad3)" rx="16" />
+      {/* Acute vs Obtuse angle visual */}
+      <g transform="translate(70, 90)">
+        <path d="M 0,-40 L 0,0 L 30,0" fill="none" stroke="#0D9488" strokeWidth="3" opacity="0.5" />
+        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">ACUTE</text>
+      </g>
+      <g transform="translate(170, 90)">
+        <path d="M -30,-30 L 0,0 L 40,0" fill="none" stroke="#0D9488" strokeWidth="3" />
+        <text x="0" y="15" fontSize="10" fill="#0D9488" textAnchor="middle">OBTUSE</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 AREA T1 SVG ────────────────────────────────────────────────
+
+export const G4AreaT1Svg = memo(function G4AreaT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="geoGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#34D399" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#geoGrad1)" rx="16" />
+      {/* Perimeter visual - highlighting the border */}
+      <g transform="translate(80, 40)">
+        <rect width="80" height="60" fill="none" stroke="#059669" strokeWidth="4" rx="2" />
+        <path d="M 0,0 L 80,0 L 80,60 L 0,60 Z" fill="none" stroke="#34D399" strokeWidth="1" strokeDasharray="4 2" />
+        <text x="40" y="-10" fontSize="12" fill="#059669" textAnchor="middle" fontWeight="bold">8</text>
+        <text x="95" y="35" fontSize="12" fill="#059669" textAnchor="middle" fontWeight="bold">6</text>
+      </g>
+      <text x="120" y="125" fontSize="13" fontWeight="bold" fill="#065F46" textAnchor="middle">P = 8 + 6 + 8 + 6 = 28</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 AREA T2 SVG ────────────────────────────────────────────────
+
+export const G4AreaT2Svg = memo(function G4AreaT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="geoGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#60A5FA" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#geoGrad2)" rx="16" />
+      {/* Area visual - grid inside */}
+      <g transform="translate(85, 35)">
+        <rect width="70" height="50" fill="#3B82F6" fillOpacity="0.2" stroke="#2563EB" strokeWidth="2" />
+        {Array.from({ length: 5 }).map((_, r) => (
+          <line key={`r${r}`} x1="0" y1={r * 10} x2="70" y2={r * 10} stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
+        ))}
+        {Array.from({ length: 7 }).map((_, c) => (
+          <line key={`c${c}`} x1={c * 10} y1="0" x2={c * 10} y2="50" stroke="#2563EB" strokeWidth="0.5" opacity="0.5" />
+        ))}
+        <text x="35" y="-10" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">7</text>
+        <text x="-12" y="30" fontSize="12" fill="#1E40AF" textAnchor="middle" fontWeight="bold">5</text>
+      </g>
+      <text x="120" y="125" fontSize="13" fontWeight="bold" fill="#1E40AF" textAnchor="middle">A = 7 × 5 = 35</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 AREA T3 SVG ────────────────────────────────────────────────
+
+export const G4AreaT3Svg = memo(function G4AreaT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="geoGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F43F5E" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FB7185" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#geoGrad3)" rx="16" />
+      {/* Square visual - P vs A */}
+      <g transform="translate(90, 30)">
+        <rect width="60" height="60" fill="#F43F5E" fillOpacity="0.1" stroke="#E11D48" strokeWidth="2" />
+        <text x="30" y="35" fontSize="10" fill="#E11D48" textAnchor="middle">AREA</text>
+        <path d="M -5,0 L -5,60" stroke="#E11D48" strokeWidth="1" />
+        <text x="-15" y="35" fontSize="12" fill="#E11D48" textAnchor="middle" fontWeight="bold">4</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 DIVISION T1 SVG ────────────────────────────────────────────────
+
+export const G4DivisionT1Svg = memo(function G4DivisionT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="divGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#2DD4BF" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#divGrad1)" rx="16" />
+      {/* 12 dots being divided into 3 groups */}
+      <g transform="translate(40, 50)">
+        {[0, 1, 2].map((g) => (
+          <g key={g} transform={`translate(${g * 80}, 0)`}>
+            <rect x="-30" y="-30" width="60" height="60" fill="white" fillOpacity="0.2" stroke="#3B82F6" strokeWidth="1" rx="8" />
+            <circle cx="-12" cy="-12" r="6" fill="#3B82F6" />
+            <circle cx="12" cy="-12" r="6" fill="#3B82F6" />
+            <circle cx="-12" cy="12" r="6" fill="#3B82F6" />
+            <circle cx="12" cy="12" r="6" fill="#3B82F6" />
+          </g>
+        ))}
+      </g>
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#1E40AF" textAnchor="middle">12 ÷ 3 = 4</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 DIVISION T2 SVG ────────────────────────────────────────────────
+
+export const G4DivisionT2Svg = memo(function G4DivisionT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="divGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#EF4444" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#divGrad2)" rx="16" />
+      {/* Inverse operation visual */}
+      <g transform="translate(120, 70)">
+        <text x="-60" y="-15" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">5 × 4 = 20</text>
+        <path d="M -30,5 Q 0,25 30,5" stroke="#B45309" fill="none" strokeWidth="2" strokeDasharray="4 2" />
+        <text x="60" y="-15" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">20 ÷ 4 = 5</text>
+        <path d="M 30,-35 Q 0,-55 -30,-35" stroke="#B45309" fill="none" strokeWidth="2" markerEnd="url(#arrow)" />
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 DIVISION T3 SVG ────────────────────────────────────────────────
+
+export const G4DivisionT3Svg = memo(function G4DivisionT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="divGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#D946EF" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#divGrad3)" rx="16" />
+      {/* Grouping / Bennfoglalás */}
+      <g transform="translate(45, 60)">
+        {Array.from({ length: 15 }).map((_, i) => (
+          <circle key={i} cx={(i % 5) * 35} cy={Math.floor(i / 5) * 25} r="8" fill="#8B5CF6" opacity="0.7" />
+        ))}
+        <rect x="-10" y="-10" width="160" height="20" rx="10" fill="none" stroke="#8B5CF6" strokeWidth="2" strokeDasharray="5 3" />
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 FRACTION T1 SVG ────────────────────────────────────────────────
+
+export const G4FractionT1Svg = memo(function G4FractionT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="fracGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#FB923C" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#F87171" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#fracGrad1)" rx="16" />
+      {/* Circle divided into 4 parts, 1 shaded */}
+      <g transform="translate(120, 70)">
+        <circle r="40" fill="none" stroke="#FB923C" strokeWidth="2" />
+        <path d="M 0,0 L 40,0 A 40,40 0 0 1 0,40 Z" fill="#FB923C" opacity="0.6" />
+        <line x1="-40" y1="0" x2="40" y2="0" stroke="#FB923C" strokeWidth="1" />
+        <line x1="0" y1="-40" x2="0" y2="40" stroke="#FB923C" strokeWidth="1" />
+      </g>
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#C2410C" textAnchor="middle">1 / 4</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 FRACTION T2 SVG ────────────────────────────────────────────────
+
+export const G4FractionT2Svg = memo(function G4FractionT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="fracGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#22D3EE" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#818CF8" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#fracGrad2)" rx="16" />
+      {/* Rectangle divided into 3 parts, 2 shaded */}
+      <g transform="translate(70, 45)">
+        <rect width="100" height="50" fill="none" stroke="#0891B2" strokeWidth="2" />
+        <rect width="33.3" height="50" fill="#0891B2" opacity="0.5" />
+        <rect x="33.3" width="33.3" height="50" fill="#0891B2" opacity="0.5" />
+        <line x1="33.3" y1="0" x2="33.3" y2="50" stroke="#0891B2" strokeWidth="1" />
+        <line x1="66.6" y1="0" x2="66.6" y2="50" stroke="#0891B2" strokeWidth="1" />
+      </g>
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#0E7490" textAnchor="middle">2 / 3</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 FRACTION T3 SVG ────────────────────────────────────────────────
+
+export const G4FractionT3Svg = memo(function G4FractionT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="fracGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#4ADE80" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#2DD4BF" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#fracGrad3)" rx="16" />
+      {/* Number line with 1/2 marked */}
+      <g transform="translate(20, 70)">
+        <line x1="0" y1="0" x2="200" y2="0" stroke="#059669" strokeWidth="2" />
+        <line x1="0" y1="-5" x2="0" y2="5" stroke="#059669" strokeWidth="2" />
+        <line x1="200" y1="-5" x2="200" y2="5" stroke="#059669" strokeWidth="2" />
+        <line x1="100" y1="-8" x2="100" y2="8" stroke="#059669" strokeWidth="2" />
+        <text x="0" y="25" fontSize="12" fill="#059669" textAnchor="middle">0</text>
+        <text x="100" y="25" fontSize="12" fill="#059669" fontWeight="bold" textAnchor="middle">1/2</text>
+        <text x="200" y="25" fontSize="12" fill="#059669" textAnchor="middle">1</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 MULTIPLICATION T1 SVG ────────────────────────────────────────────────
+
+export const G4MultiplicationT1Svg = memo(function G4MultiplicationT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="mulGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FB7185" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#mulGrad1)" rx="16" />
+      {/* 3 groups of 4 dots */}
+      {[0, 1, 2].map((g) => (
+        <g key={g} transform={`translate(${60 + g * 60}, 70)`}>
+          <circle r="25" fill="none" stroke="#F59E0B" strokeWidth="2" strokeDasharray="4 2" opacity="0.4" />
+          <circle cx="-8" cy="-8" r="5" fill="#F59E0B" />
+          <circle cx="8" cy="-8" r="5" fill="#F59E0B" />
+          <circle cx="-8" cy="8" r="5" fill="#F59E0B" />
+          <circle cx="8" cy="8" r="5" fill="#F59E0B" />
+        </g>
+      ))}
+      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#B45309" textAnchor="middle">3 × 4 = 12</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 MULTIPLICATION T2 SVG ────────────────────────────────────────────────
+
+export const G4MultiplicationT2Svg = memo(function G4MultiplicationT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="mulGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#3B82F6" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#mulGrad2)" rx="16" />
+      {/* Area model / Grid */}
+      <g transform="translate(85, 35)">
+        {Array.from({ length: 5 }).map((_, r) => 
+          Array.from({ length: 7 }).map((_, c) => (
+            <rect key={`${r}-${c}`} x={c * 10} y={r * 10} width="8" height="8" fill="#10B981" rx="1" opacity={0.6} />
+          ))
+        )}
+        <text x="-15" y="30" fontSize="12" fill="#059669" fontWeight="bold">5</text>
+        <text x="35" y="-10" fontSize="12" fill="#059669" fontWeight="bold">7</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 MULTIPLICATION T3 SVG ────────────────────────────────────────────────
+
+export const G4MultiplicationT3Svg = memo(function G4MultiplicationT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="mulGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#EC4899" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#8B5CF6" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#mulGrad3)" rx="16" />
+      {/* 10x logic visual */}
+      <g transform="translate(120, 70)">
+        <text x="-50" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">42</text>
+        <text x="0" y="5" fontSize="20" fontWeight="300" fill="#9CA3AF" textAnchor="middle">×</text>
+        <text x="35" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">10</text>
+        <path d="M 60,0 L 80,0 L 75,-5 M 80,0 L 75,5" stroke="#DB2777" fill="none" strokeWidth="2" />
+        <text x="105" y="5" fontSize="20" fontWeight="800" fill="#DB2777" textAnchor="middle">420</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 PLACEVALUE T1 SVG ────────────────────────────────────────────────
+
+export const G4PlaceValueT1Svg = memo(function G4PlaceValueT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#C084FC" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#grad1)" rx="16" />
+      {/* 10,000 symbol representation */}
+      <g transform="translate(120, 60)">
+        <rect x="-40" y="-30" width="80" height="60" fill="#8B5CF6" rx="8" opacity="0.8" />
+        <text x="0" y="5" fontSize="18" fontWeight="bold" fill="white" textAnchor="middle">10 000</text>
+        <path d="M -50,0 L -70,0 M 50,0 L 70,0" stroke="#8B5CF6" strokeWidth="3" strokeLinecap="round" opacity="0.5" />
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 PLACEVALUE T2 SVG ────────────────────────────────────────────────
+
+export const G4PlaceValueT2Svg = memo(function G4PlaceValueT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#60A5FA" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#grad2)" rx="16" />
+      {/* Place value columns visual */}
+      <g transform="translate(40, 40)">
+        <rect x="0" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.3" />
+        <rect x="50" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.5" />
+        <rect x="100" y="0" width="40" height="60" fill="#3B82F6" rx="4" opacity="0.7" />
+        <text x="20" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">100</text>
+        <text x="70" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">10</text>
+        <text x="120" y="80" fontSize="10" fill="#1E40AF" textAnchor="middle">1</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 PLACEVALUE T3 SVG ────────────────────────────────────────────────
+
+export const G4PlaceValueT3Svg = memo(function G4PlaceValueT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#34D399" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#grad3)" rx="16" />
+      <line x1="30" y1="70" x2="210" y2="70" stroke="#059669" strokeWidth="2" />
+      <circle cx="120" cy="70" r="6" fill="#059669" />
+      <text x="30" y="95" fontSize="12" fill="#059669" textAnchor="middle">40 000</text>
+      <text x="210" y="95" fontSize="12" fill="#059669" textAnchor="middle">50 000</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 UNIT T1 SVG ────────────────────────────────────────────────
+
+export const G4UnitT1Svg = memo(function G4UnitT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="unitGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#0EA5E9" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#38BDF8" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#unitGrad1)" rx="16" />
+      {/* Ruler visual */}
+      <g transform="translate(20, 60)">
+        <rect width="200" height="30" fill="#F1F5F9" stroke="#0EA5E9" rx="4" />
+        {Array.from({ length: 21 }).map((_, i) => (
+          <line key={i} x1={i * 10} y1="0" x2={i * 10} y2={i % 5 === 0 ? 15 : 8} stroke="#0EA5E9" strokeWidth="1" />
+        ))}
+        <text x="50" y="45" fontSize="10" fill="#0EA5E9" textAnchor="middle">5 cm</text>
+        <text x="100" y="45" fontSize="10" fill="#0EA5E9" textAnchor="middle">10 cm</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 UNIT T2 SVG ────────────────────────────────────────────────
+
+export const G4UnitT2Svg = memo(function G4UnitT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="unitGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F43F5E" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#FDA4AF" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#unitGrad2)" rx="16" />
+      {/* Weight scale visual */}
+      <g transform="translate(120, 80)">
+        <path d="M -40,0 L 40,0 L 0,-40 Z" fill="#E11D48" opacity="0.6" />
+        <rect x="-50" y="-45" width="100" height="10" fill="#E11D48" rx="2" />
+        <circle cx="-35" cy="-55" r="8" fill="#FB7185" />
+        <text x="0" y="25" fontSize="14" fontWeight="bold" fill="#9F1239" textAnchor="middle">1 kg = 1000 g</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 UNIT T3 SVG ────────────────────────────────────────────────
+
+export const G4UnitT3Svg = memo(function G4UnitT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="unitGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#10B981" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#6EE7B7" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#unitGrad3)" rx="16" />
+      {/* Liquid volume visual */}
+      <g transform="translate(100, 30)">
+        <rect x="0" y="0" width="40" height="80" fill="none" stroke="#059669" strokeWidth="2" rx="2" />
+        <rect x="2" y="40" width="36" height="38" fill="#34D399" opacity="0.5" />
+        <line x1="40" y1="20" x2="45" y2="20" stroke="#059669" />
+        <line x1="40" y1="40" x2="48" y2="40" stroke="#059669" />
+        <line x1="40" y1="60" x2="45" y2="60" stroke="#059669" />
+        <text x="65" y="45" fontSize="12" fontWeight="bold" fill="#065F46">1 L</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 WORDPROBLEM T1 SVG ────────────────────────────────────────────────
+
+export const G4WordProblemT1Svg = memo(function G4WordProblemT1Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="wpGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#D97706" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#wpGrad1)" rx="16" />
+      {/* Visualizing a story: 3 baskets with 5 apples each */}
+      <g transform="translate(60, 60)">
+        {[0, 1, 2].map((i) => (
+          <g key={i} transform={`translate(${i * 60}, 0)`}>
+            <path d="M -20,0 Q -20,25 0,25 Q 20,25 20,0 L -20,0" fill="#78350F" opacity="0.6" />
+            <circle cx="0" cy="-5" r="6" fill="#EF4444" />
+            <circle cx="-8" cy="-12" r="6" fill="#EF4444" />
+            <circle cx="8" cy="-12" r="6" fill="#EF4444" />
+          </g>
+        ))}
+      </g>
+      <text x="120" y="120" fontSize="14" fontWeight="bold" fill="#92400E" textAnchor="middle">3 × 5 = ?</text>
+    </svg>
+  );
+});
+
+
+// ─── G4 WORDPROBLEM T2 SVG ────────────────────────────────────────────────
+
+export const G4WordProblemT2Svg = memo(function G4WordProblemT2Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="wpGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#2563EB" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#wpGrad2)" rx="16" />
+      {/* Keywords visual */}
+      <g transform="translate(120, 70)">
+        <rect x="-80" y="-30" width="160" height="60" fill="white" fillOpacity="0.3" rx="8" stroke="#2563EB" strokeDasharray="4 2" />
+        <text x="0" y="-5" fontSize="12" fontWeight="bold" fill="#1E40AF" textAnchor="middle">SUM • TOTAL • ALL</text>
+        <line x1="-60" y1="5" x2="60" y2="5" stroke="#2563EB" strokeWidth="1" opacity="0.5" />
+        <text x="0" y="22" fontSize="16" fontWeight="900" fill="#1E40AF" textAnchor="middle">+</text>
+      </g>
+    </svg>
+  );
+});
+
+
+// ─── G4 WORDPROBLEM T3 SVG ────────────────────────────────────────────────
+
+export const G4WordProblemT3Svg = memo(function G4WordProblemT3Svg() {
+  return (
+    <svg width="100%" viewBox="0 0 240 140">
+      <defs>
+        <linearGradient id="wpGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
+          <stop offset="100%" stopColor="#7C3AED" stopOpacity="0.05" />
+        </linearGradient>
+      </defs>
+      <rect width="240" height="140" fill="url(#wpGrad3)" rx="16" />
+      {/* Estimation: 48 + 51 -> 50 + 50 */}
+      <g transform="translate(120, 70)">
+        <text x="-50" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">48 + 51</text>
+        <path d="M -10,0 L 10,0" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
+        <path d="M -10,5 L 10,5" stroke="#6D28D9" strokeWidth="2" strokeLinecap="round" />
+        <text x="60" y="0" fontSize="18" fontWeight="bold" fill="#6D28D9" textAnchor="middle">≈ 100</text>
+      </g>
+    </svg>
+  );
+});
+

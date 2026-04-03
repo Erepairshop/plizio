@@ -7,75 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="fracGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FB923C" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#F87171" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#fracGrad1)" rx="16" />
-      {/* Circle divided into 4 parts, 1 shaded */}
-      <g transform="translate(120, 70)">
-        <circle r="40" fill="none" stroke="#FB923C" strokeWidth="2" />
-        <path d="M 0,0 L 40,0 A 40,40 0 0 1 0,40 Z" fill="#FB923C" opacity="0.6" />
-        <line x1="-40" y1="0" x2="40" y2="0" stroke="#FB923C" strokeWidth="1" />
-        <line x1="0" y1="-40" x2="0" y2="40" stroke="#FB923C" strokeWidth="1" />
-      </g>
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#C2410C" textAnchor="middle">1 / 4</text>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="fracGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#22D3EE" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#818CF8" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#fracGrad2)" rx="16" />
-      {/* Rectangle divided into 3 parts, 2 shaded */}
-      <g transform="translate(70, 45)">
-        <rect width="100" height="50" fill="none" stroke="#0891B2" strokeWidth="2" />
-        <rect width="33.3" height="50" fill="#0891B2" opacity="0.5" />
-        <rect x="33.3" width="33.3" height="50" fill="#0891B2" opacity="0.5" />
-        <line x1="33.3" y1="0" x2="33.3" y2="50" stroke="#0891B2" strokeWidth="1" />
-        <line x1="66.6" y1="0" x2="66.6" y2="50" stroke="#0891B2" strokeWidth="1" />
-      </g>
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#0E7490" textAnchor="middle">2 / 3</text>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="fracGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#4ADE80" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#2DD4BF" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#fracGrad3)" rx="16" />
-      {/* Number line with 1/2 marked */}
-      <g transform="translate(20, 70)">
-        <line x1="0" y1="0" x2="200" y2="0" stroke="#059669" strokeWidth="2" />
-        <line x1="0" y1="-5" x2="0" y2="5" stroke="#059669" strokeWidth="2" />
-        <line x1="200" y1="-5" x2="200" y2="5" stroke="#059669" strokeWidth="2" />
-        <line x1="100" y1="-8" x2="100" y2="8" stroke="#059669" strokeWidth="2" />
-        <text x="0" y="25" fontSize="12" fill="#059669" textAnchor="middle">0</text>
-        <text x="100" y="25" fontSize="12" fill="#059669" fontWeight="bold" textAnchor="middle">1/2</text>
-        <text x="200" y="25" fontSize="12" fill="#059669" textAnchor="middle">1</text>
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -255,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4FractionT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -276,7 +207,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4FractionT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -300,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4FractionT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

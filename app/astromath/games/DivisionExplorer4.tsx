@@ -7,75 +7,6 @@ import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerE
 
 // ─── SVG ILLUSZTRÁCIÓK ──────────────────────────────────────────────
 
-const Topic1Svg = memo(function Topic1Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="divGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#2DD4BF" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#divGrad1)" rx="16" />
-      {/* 12 dots being divided into 3 groups */}
-      <g transform="translate(40, 50)">
-        {[0, 1, 2].map((g) => (
-          <g key={g} transform={`translate(${g * 80}, 0)`}>
-            <rect x="-30" y="-30" width="60" height="60" fill="white" fillOpacity="0.2" stroke="#3B82F6" strokeWidth="1" rx="8" />
-            <circle cx="-12" cy="-12" r="6" fill="#3B82F6" />
-            <circle cx="12" cy="-12" r="6" fill="#3B82F6" />
-            <circle cx="-12" cy="12" r="6" fill="#3B82F6" />
-            <circle cx="12" cy="12" r="6" fill="#3B82F6" />
-          </g>
-        ))}
-      </g>
-      <text x="120" y="125" fontSize="14" fontWeight="bold" fill="#1E40AF" textAnchor="middle">12 ÷ 3 = 4</text>
-    </svg>
-  );
-});
-
-const Topic2Svg = memo(function Topic2Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="divGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#F59E0B" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#EF4444" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#divGrad2)" rx="16" />
-      {/* Inverse operation visual */}
-      <g transform="translate(120, 70)">
-        <text x="-60" y="-15" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">5 × 4 = 20</text>
-        <path d="M -30,5 Q 0,25 30,5" stroke="#B45309" fill="none" strokeWidth="2" strokeDasharray="4 2" />
-        <text x="60" y="-15" fontSize="16" fontWeight="bold" fill="#B45309" textAnchor="middle">20 ÷ 4 = 5</text>
-        <path d="M 30,-35 Q 0,-55 -30,-35" stroke="#B45309" fill="none" strokeWidth="2" markerEnd="url(#arrow)" />
-      </g>
-    </svg>
-  );
-});
-
-const Topic3Svg = memo(function Topic3Svg() {
-  return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <defs>
-        <linearGradient id="divGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8B5CF6" stopOpacity="0.15" />
-          <stop offset="100%" stopColor="#D946EF" stopOpacity="0.05" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="140" fill="url(#divGrad3)" rx="16" />
-      {/* Grouping / Bennfoglalás */}
-      <g transform="translate(45, 60)">
-        {Array.from({ length: 15 }).map((_, i) => (
-          <circle key={i} cx={(i % 5) * 35} cy={Math.floor(i / 5) * 25} r="8" fill="#8B5CF6" opacity="0.7" />
-        ))}
-        <rect x="-10" y="-10" width="160" height="20" rx="10" fill="none" stroke="#8B5CF6" strokeWidth="2" strokeDasharray="5 3" />
-      </g>
-    </svg>
-  );
-});
-
 // ─── LABELS ──────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -255,7 +186,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <Topic1Svg />,
+    svg: { type: "math-diagram", name: "G4DivisionT1Svg" },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -276,7 +207,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <Topic2Svg />,
+    svg: { type: "math-diagram", name: "G4DivisionT2Svg" },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -300,7 +231,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <Topic3Svg />,
+    svg: { type: "math-diagram", name: "G4DivisionT3Svg" },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",
