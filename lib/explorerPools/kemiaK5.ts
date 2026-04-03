@@ -111,7 +111,7 @@ const I1: ChemTopic[] = [
       i3: L("air", "Luft", "levegő", "aer"),
       i4: L("steam", "Dampf", "gőz", "abur"),
     },
-    svg: twoGroups(["🪨", "🧊"], ["💧", "☁️"], "#E0F2FE", "#FEF3C7", "#0284C7", "#D97706", "#F8FAFC"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "solid", label: "b1" }, { id: "liquid", label: "b2" }, { id: "gas", label: "b3" }],
@@ -145,7 +145,7 @@ const I1: ChemTopic[] = [
       l4: L("water", "Wasser", "víz", "apă"),
       r4: L("fills the container", "füllt den Behälter", "kitölti az edényt", "umple recipientul"),
     },
-    svg: iconGrid([{ emoji: "🧱", label: "solid" }, { emoji: "💧", label: "liquid" }, { emoji: "🌫️", label: "gas" }], "#F8FAFC"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -173,7 +173,7 @@ const I1: ChemTopic[] = [
       w2: L("evaporation", "verdampfen", "párolgás", "evaporare"),
       w3: L("freezing", "gefrieren", "fagyás", "înghețare"),
     },
-    svg: word("melt → water → steam", "#7C3AED", "heat / cool"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "word-order",
       words: ["w1", "w2", "w3"],
@@ -265,7 +265,7 @@ const I2: ChemTopic[] = [
       w3: L("made", "gemacht", "készül", "alcătuit"),
       w4: L("of particles", "aus Teilchen", "részecskékből", "din particule"),
     },
-    svg: sentence(["Everything", "is", "made", "of", "particles"], [4], "#2563EB"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     interactive: {
       type: "highlight-text",
       tokens: ["w1", "w2", "w3", "w4"],
@@ -294,7 +294,7 @@ const I2: ChemTopic[] = [
       l4: L("packed", "gepackt", "összeszorulva", "înghesuit"),
       r4: L("cold solid", "kalter Feststoff", "hideg szilárd anyag", "solid rece"),
     },
-    svg: iconGrid([{ emoji: "⚪", label: "dense" }, { emoji: "⚪  ⚪", label: "spread" }, { emoji: "⚪   ⚪", label: "far" }], "#FAFAFA"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -322,7 +322,7 @@ const I2: ChemTopic[] = [
       w2: L("faster", "schneller", "gyorsabb", "mai repede"),
       w3: L("fastest", "am schnellsten", "leggyorsabb", "cel mai repede"),
     },
-    svg: word("slow → faster → fastest", "#0EA5E9", "motion"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "word-order",
       words: ["w1", "w2", "w3"],
@@ -349,10 +349,7 @@ const I2: ChemTopic[] = [
       i3: L("steam", "Dampf", "gőz", "abur"),
       i4: L("warm liquid", "warme Flüssigkeit", "meleg folyadék", "lichid cald"),
     },
-    svg: bubbles([
-      { text: "slow", emoji: "🧊", color: "#0F766E", bg: "#CCFBF1" },
-      { text: "fast", emoji: "🔥", color: "#DC2626", bg: "#FEE2E2" },
-    ]),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "slow", label: "b1" }, { id: "fast", label: "b2" }],
@@ -381,9 +378,9 @@ const I2: ChemTopic[] = [
       c1: L("slower", "langsamer", "lassabbá", "mai lente"),
       c2: L("louder", "lauter", "hangosabbá", "mai zgomotoase"),
       c3: L("heavier", "schwerer", "nehezebbé", "mai grele"),
-      c4: L("brighter", "heller", "világosabbá", "mai luminoase"),
+      c4: L("heller", "heller", "világosabbá", "mai luminoase"),
     },
-    svg: simpleIcon("🧊", "cooling", "#F0FDFA", "#0F766E"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",
@@ -414,7 +411,7 @@ const I3: ChemTopic[] = [
       i3: L("salad", "Salat", "saláta", "salată"),
       i4: L("gold", "Gold", "arany", "aur"),
     },
-    svg: twoGroups(["🧂", "🥇"], ["🥗", "🌬️"], "#ECFDF5", "#EFF6FF", "#059669", "#2563EB", "#F8FAFC"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "pure", label: "b1" }, { id: "mixture", label: "b2" }],
@@ -448,11 +445,7 @@ const I3: ChemTopic[] = [
       l4: L("salt water", "Salzwasser", "sós víz", "apă sărată"),
       r4: L("a solution", "eine Lösung", "egy oldat", "o soluție"),
     },
-    svg: bubbles([
-      { text: "solute", emoji: "🍬", color: "#7C2D12", bg: "#FEF3C7" },
-      { text: "solvent", emoji: "💧", color: "#1D4ED8", bg: "#DBEAFE" },
-      { text: "solution", emoji: "🧪", color: "#047857", bg: "#D1FAE5" },
-    ]),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -483,7 +476,7 @@ const I3: ChemTopic[] = [
       i3: L("orange juice with pulp", "Orangensaft mit Fruchtfleisch", "narancslé gyümölcshússal", "suc cu pulpă"),
       i4: L("clear sugar water", "klares Zuckerwasser", "tiszta cukros víz", "apă cu zahăr limpede"),
     },
-    svg: twoGroups(["🫗", "✨"], ["🌫️", "🪨"], "#ECFEFF", "#FEF3C7", "#0891B2", "#D97706", "#FAFAFA"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "solution", label: "b1" }, { id: "suspension", label: "b2" }],
@@ -512,7 +505,7 @@ const I3: ChemTopic[] = [
       w2: L("filter", "filtern", "szűr", "filtrează"),
       w3: L("collect", "sammeln", "összegyűjt", "colectează"),
     },
-    svg: simpleIcon("🧻", "filter", "#F0FDFA", "#0F766E"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "word-order",
       words: ["w1", "w2", "w3"],
@@ -538,7 +531,7 @@ const I3: ChemTopic[] = [
       c3: L("frozen", "gefroren", "megfagyott", "înghețată"),
       c4: L("burned", "verbrannt", "elégett", "arsă"),
     },
-    svg: simpleIcon("☀️", "evaporation", "#FFF7ED", "#C2410C"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",
@@ -571,7 +564,7 @@ const I4: ChemTopic[] = [
       l4: L("water", "Wasser", "víz", "apă"),
       r4: L("is important", "ist wichtig", "fontos", "este importantă"),
     },
-    svg: iconGrid([{ emoji: "💧", label: "flow" }, { emoji: "🧂", label: "dissolve" }, { emoji: "☀️", label: "evaporate" }], "#EFF6FF"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -599,7 +592,7 @@ const I4: ChemTopic[] = [
       w2: L("clouds", "Wolken", "felhők", "nori"),
       w3: L("rain", "Regen", "eső", "ploaie"),
     },
-    svg: sentence(["water", "goes", "up", "and", "comes", "back"], [0, 5], "#2563EB"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "word-order",
       words: ["w1", "w2", "w3"],
@@ -626,7 +619,7 @@ const I4: ChemTopic[] = [
       i3: L("carbon dioxide", "Kohlenstoffdioxid", "szén-dioxid", "dioxid de carbon"),
       i4: L("gold", "Gold", "arany", "aur"),
     },
-    svg: twoGroups(["O2", "N2"], ["CO2", "Au"], "#ECFEFF", "#FEF3C7", "#0891B2", "#D97706", "#F8FAFC"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "air", label: "b1" }, { id: "notair", label: "b2" }],
@@ -657,7 +650,7 @@ const I4: ChemTopic[] = [
       c3: L("glass", "Glas", "üveg", "sticlă"),
       c4: L("paper", "Papier", "papír", "hârtie"),
     },
-    svg: simpleIcon("🔥", "oxygen", "#FFF7ED", "#EA580C"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",
@@ -687,10 +680,7 @@ const I4: ChemTopic[] = [
       l4: L("carbon dioxide", "Kohlenstoffdioxid", "szén-dioxid", "dioxid de carbon"),
       r4: L("a gas", "ein Gas", "egy gáz", "un gaz"),
     },
-    svg: bubbles([
-      { text: "CO2", emoji: "🌬️", color: "#1D4ED8", bg: "#DBEAFE" },
-      { text: "plants", emoji: "🌿", color: "#047857", bg: "#D1FAE5" },
-    ]),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -724,7 +714,7 @@ const I5: ChemTopic[] = [
       i3: L("tearing paper", "Papier reißt", "papír szakad", "hârtie ruptă"),
       i4: L("rusting nail", "Nagel rostet", "szög rozsdásodik", "cui ruginește"),
     },
-    svg: twoGroups(["🧊", "📄"], ["🔥", "🧲"], "#ECFEFF", "#FEE2E2", "#0891B2", "#DC2626", "#FAFAFA"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "physical", label: "b1" }, { id: "chemical", label: "b2" }],
@@ -758,7 +748,7 @@ const I5: ChemTopic[] = [
       l4: L("ash", "Asche", "hamu", "cenușă"),
       r4: L("left behind", "bleibt übrig", "visszamarad", "rămâne în urmă"),
     },
-    svg: simpleIcon("🔥", "burning", "#FFF7ED", "#B91C1C"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -787,7 +777,7 @@ const I5: ChemTopic[] = [
       w3: L("air", "Luft", "levegő", "aer"),
       w4: L("rust", "Rost", "rozsda", "rugină"),
     },
-    svg: sentence(["iron", "water", "air", "rust"], [3], "#B45309"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "highlight-text",
       tokens: ["w1", "w2", "w3", "w4"],
@@ -814,7 +804,7 @@ const I5: ChemTopic[] = [
       i3: L("salt in water", "Salz in Wasser", "só vízben", "sare în apă"),
       i4: L("metal rusting", "Metall rostet", "fém rozsdásodik", "metal ruginește"),
     },
-    svg: twoGroups(["🧂", "💧"], ["🫧", "🧪"], "#ECFEFF", "#FEF3C7", "#0891B2", "#D97706", "#FAFAFA"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "dissolve", label: "b1" }, { id: "react", label: "b2" }],
@@ -844,7 +834,7 @@ const I5: ChemTopic[] = [
       w3: L("heat", "Wärme", "hő", "căldură"),
       w4: L("new solid", "neuer Feststoff", "új szilárd anyag", "solid nou"),
     },
-    svg: iconGrid([{ emoji: "🫧", label: "gas" }, { emoji: "🎨", label: "color" }, { emoji: "🔥", label: "heat" }, { emoji: "🪨", label: "solid" }], "#FFF7ED"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "highlight-text",
       tokens: ["w1", "w2", "w3", "w4"],
@@ -872,7 +862,7 @@ const I6: ChemTopic[] = [
       w3: L("taste", "kosten", "megkóstolni", "gusta"),
       w4: L("listen", "zuhören", "figyelni", "ascultă"),
     },
-    svg: simpleIcon("🥽", "safety", "#ECFEFF", "#0F766E"),
+    svg: { type: "kemia-diagram", name: "LabSafetySvg" },
     interactive: {
       type: "highlight-text",
       tokens: ["w1", "w2", "w3", "w4"],
@@ -901,7 +891,7 @@ const I6: ChemTopic[] = [
       l4: L("electric", "elektrisch", "elektromos", "electric"),
       r4: L("shock danger", "Stromschlaggefahr", "áramütés veszélye", "pericol de șoc"),
     },
-    svg: iconGrid([{ emoji: "🔥" }, { emoji: "☠️" }, { emoji: "⚡" }, { emoji: "🧪" }], "#FEF2F2"),
+    svg: { type: "kemia-diagram", name: "LabSafetySvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -929,7 +919,7 @@ const I6: ChemTopic[] = [
       a2: L("liquid", "Flüssigkeit", "folyadék", "lichid"),
       a3: L("meniscus", "Meniskus", "meniszkusz", "menisc"),
     },
-    svg: simpleIcon("🥛", "volume", "#F8FAFC", "#1D4ED8"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "label-diagram",
       areas: [
@@ -991,7 +981,7 @@ const I6: ChemTopic[] = [
       c3: L("random guessing", "raten", "vaktippelés", "ghicit la întâmplare"),
       c4: L("noise", "Lärm", "zaj", "zgomot"),
     },
-    svg: simpleIcon("🔬", "experiment", "#F0FDF4", "#15803D"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",
@@ -1022,7 +1012,7 @@ const I7: ChemTopic[] = [
       i3: L("air", "Luft", "levegő", "aer"),
       i4: L("soft sponge", "weicher Schwamm", "puha szivacs", "burete moale"),
     },
-    svg: bubbles([{ text: "review", emoji: "🧩", color: "#0F766E", bg: "#CCFBF1" }, { text: "matter", emoji: "🧱", color: "#B45309", bg: "#FEF3C7" }]),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "state", label: "b1" }, { id: "property", label: "b2" }],
@@ -1056,7 +1046,7 @@ const I7: ChemTopic[] = [
       l4: L("move slower", "bewegen sich langsamer", "lassabban mozognak", "se mișcă mai încet"),
       r4: L("cold", "kalt", "hideg", "rece"),
     },
-    svg: simpleIcon("⚪", "particles", "#F8FAFC", "#2563EB"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -1084,7 +1074,7 @@ const I7: ChemTopic[] = [
       w2: L("warm", "warm", "meleg", "cald"),
       w3: L("hot", "heiß", "forró", "fierbinte"),
     },
-    svg: word("cold → warm → hot", "#EA580C", "motion"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "word-order",
       words: ["w1", "w2", "w3"],
@@ -1110,7 +1100,7 @@ const I7: ChemTopic[] = [
       c3: L("freeze", "gefrieren", "fagyni", "să înghețe"),
       c4: L("burn", "brennen", "égni", "să ardă"),
     },
-    svg: simpleIcon("☀️", "change", "#FFF7ED", "#EA580C"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",
@@ -1127,7 +1117,7 @@ const I7: ChemTopic[] = [
     difficulty: "medium",
     labels: {
       title: L("Review: Water & Air", "Wiederholung: Wasser & Luft", "Ismétlés: víz és levegő", "Recapitulare: apă și aer"),
-      text: L("Water and air are everyday mixtures and materials we know well.", "Wasser und Luft sind alltägliche Gemische und Stoffe, die wir gut kennen.", "A víz és a levegő hétköznapi keverékek és anyagok.", "Apa și aerul sunt amestecuri și materiale cotidiene pe care le cunoaștem bine."),
+      text: L("Water and air are everyday mixtures and materials we know well.", "Wasser und Luft sind alltägliche Gemische und Stoffe, die wir gut kennen.", "A víz és a levegő hétköznapi keverékek és anyagok.", "Apa és aerul sunt amestecuri și materiale cotidiene pe care le cunoaștem bine."),
       inst: MATCH_INST,
       h1: L("Think of gases and dissolving.", "Denk an Gase und Lösen.", "Gondolj a gázokra és oldódásra.", "Gândește-te la gaze și dizolvare."),
       h2: L("Match the review facts.", "Ordne die Wiederholungsfakten zu.", "Párosítsd az ismétlő tényeket.", "Potrivește faptele de recapitulare."),
@@ -1140,7 +1130,7 @@ const I7: ChemTopic[] = [
       l4: L("carbon dioxide", "Kohlenstoffdioxid", "szén-dioxid", "dioxid de carbon"),
       r4: L("used by plants", "von Pflanzen genutzt", "növények használják", "folosit de plante"),
     },
-    svg: bubbles([{ text: "water", emoji: "💧", color: "#1D4ED8", bg: "#DBEAFE" }, { text: "air", emoji: "🌬️", color: "#0891B2", bg: "#CCFBF1" }]),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -1174,7 +1164,7 @@ const I8: ChemTopic[] = [
       i3: L("muddy water", "Schlammwasser", "sáros víz", "apă tulbure"),
       i4: L("gold", "Gold", "arany", "aur"),
     },
-    svg: twoGroups(["💧", "🧂"], ["🥗", "🌫️"], "#ECFEFF", "#FEF3C7", "#0891B2", "#D97706", "#FAFAFA"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "solution", label: "b1" }, { id: "mixture", label: "b2" }],
@@ -1208,7 +1198,7 @@ const I8: ChemTopic[] = [
       l4: L("salt water", "Salzwasser", "sós víz", "apă sărată"),
       r4: L("a solution", "eine Lösung", "egy oldat", "o soluție"),
     },
-    svg: iconGrid([{ emoji: "🍬" }, { emoji: "💧" }, { emoji: "🧪" }], "#F8FAFC"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -1236,7 +1226,7 @@ const I8: ChemTopic[] = [
       w2: L("clouds", "Wolken", "felhők", "nori"),
       w3: L("rain", "Regen", "eső", "ploaie"),
     },
-    svg: simpleIcon("🌧️", "cycle", "#EFF6FF", "#2563EB"),
+    svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
       type: "word-order",
       words: ["w1", "w2", "w3"],
@@ -1262,7 +1252,7 @@ const I8: ChemTopic[] = [
       c3: L("paper", "Papier", "papír", "hârtie"),
       c4: L("glass", "Glas", "üveg", "sticlă"),
     },
-    svg: simpleIcon("🔥", "burn", "#FFF7ED", "#EA580C"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",
@@ -1288,7 +1278,7 @@ const I8: ChemTopic[] = [
       w3: L("light", "Licht", "fény", "lumină"),
       w4: L("ash", "Asche", "hamu", "cenușă"),
     },
-    svg: iconGrid([{ emoji: "🌫️" }, { emoji: "🔥" }, { emoji: "✨" }, { emoji: "🪨" }], "#FFF7ED"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     interactive: {
       type: "highlight-text",
       tokens: ["w1", "w2", "w3", "w4"],
@@ -1316,7 +1306,7 @@ const I9: ChemTopic[] = [
       w3: L("ask first", "zuerst fragen", "előbb megkérdezni", "întreabă întâi"),
       w4: L("run", "rennen", "futni", "alergă"),
     },
-    svg: simpleIcon("🥽", "lab", "#ECFEFF", "#0F766E"),
+    svg: { type: "kemia-diagram", name: "LabSafetySvg" },
     interactive: {
       type: "highlight-text",
       tokens: ["w1", "w2", "w3", "w4"],
@@ -1345,7 +1335,7 @@ const I9: ChemTopic[] = [
       l4: L("electric", "elektrisch", "elektromos", "electric"),
       r4: L("shock", "Stromschlag", "áramütés", "șoc"),
     },
-    svg: iconGrid([{ emoji: "🔥" }, { emoji: "☠️" }, { emoji: "⚡" }, { emoji: "🧪" }], "#FEF2F2"),
+    svg: { type: "kemia-diagram", name: "LabSafetySvg" },
     interactive: {
       type: "match-pairs",
       pairs: [
@@ -1406,7 +1396,7 @@ const I9: ChemTopic[] = [
       a2: L("liquid", "Flüssigkeit", "folyadék", "lichid"),
       a3: L("meniscus", "Meniskus", "meniszkusz", "menisc"),
     },
-    svg: simpleIcon("🥛", "volume", "#F0F9FF", "#1D4ED8"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "label-diagram",
       areas: [
@@ -1435,7 +1425,7 @@ const I9: ChemTopic[] = [
       c3: L("random guessing", "Raten", "vaktippelés", "ghicit"),
       c4: L("noise", "Lärm", "zaj", "zgomot"),
     },
-    svg: simpleIcon("🔬", "experiment", "#F0FDF4", "#15803D"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "sent",

@@ -415,7 +415,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "↔️", title: "Push / Pull", bg: "#EFF6FF", color: "#2563EB" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-bucket",
       buckets: [{ id: "push", label: "t1_b1" }, { id: "pull", label: "t1_b2" }],
@@ -435,7 +435,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🛝", title: "Friction", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -454,7 +454,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "🧭", title: "Force Order", bg: "#ECFDF5", color: "#059669" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -469,7 +469,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "🛞", title: "Grip", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -489,7 +489,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🚚", title: "Motion", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "MechanicsSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -505,7 +505,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🧸", title: "Deformation", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-bucket",
       buckets: [{ id: "elastic", label: "t6_b1" }, { id: "plastic", label: "t6_b2" }],
@@ -525,7 +525,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "↩️", title: "Direction", bg: "#F0F9FF", color: "#0369A1" },
+    svg: { type: "physik-diagram", name: "MechanicsSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -544,7 +544,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🚀", title: "Speed", bg: "#F0FDF4", color: "#15803D" },
+    svg: { type: "physik-diagram", name: "MechanicsSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -559,7 +559,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🎯", title: "Effects", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -579,7 +579,7 @@ export const PHYSIK_K5_I1_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "⬇️", title: "Gravity", bg: "#F1F5F9", color: "#334155" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -847,7 +847,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "🌍", title: "Orbit", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "down", label: "t1_b1" }, { id: "orbit", label: "t1_b2" }],
@@ -867,7 +867,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "⚖️", title: "Mass vs Weight", bg: "#FEF9C3", color: "#CA8A04" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -886,7 +886,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "🛰️", title: "Gravity Strength", bg: "#ECFCCB", color: "#65A30D" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -901,7 +901,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "🪐", title: "Gravity Everywhere", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -921,7 +921,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🪂", title: "Air Resistance", bg: "#F0FDFA", color: "#0F766E" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -937,7 +937,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🌙", title: "Moon Gravity", bg: "#F1F5F9", color: "#475569" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "earth", label: "t6_b1" }, { id: "moon", label: "t6_b2" }],
@@ -957,7 +957,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🌌", title: "Jupiter", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -976,7 +976,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🔨", title: "Free Fall", bg: "#F8FAFC", color: "#64748B" },
+    svg: { type: "physik-diagram", name: "MechanicsSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -991,7 +991,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🛰️", title: "Orbit", bg: "#F0F9FF", color: "#0369A1" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -1011,7 +1011,7 @@ export const PHYSIK_K5_I2_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "👨‍🚀", title: "Zero G", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "SpaceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -1256,7 +1256,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "📏", title: "Meter", bg: "#EEF2FF", color: "#4F46E5" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "tool", label: "t1_b1" }, { id: "unit", label: "t1_b2" }],
@@ -1276,7 +1276,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "N", title: "Symbols", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -1295,7 +1295,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "🧮", title: "Formula", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t3_sent",
@@ -1311,7 +1311,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "⚙️", title: "Newton", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t4_w1", "t4_w2", "t4_w3"],
@@ -1326,7 +1326,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🧰", title: "Tool check", bg: "#FEF2F2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t5_q",
@@ -1346,7 +1346,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "⚖️", title: "Ranges", bg: "#F1F5F9", color: "#475569" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "small", label: "t6_b1" }, { id: "big", label: "t6_b2" }],
@@ -1366,7 +1366,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🌀", title: "Spring", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -1385,7 +1385,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "📋", title: "How to Read", bg: "#F0F9FF", color: "#0369A1" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -1400,7 +1400,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🍏", title: "Newton", bg: "#F0FDF4", color: "#15803D" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -1420,7 +1420,7 @@ export const PHYSIK_K5_I3_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "📏", title: "Measurement", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -1676,7 +1676,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "⚡", title: "Forms", bg: "#EEF2FF", color: "#4F46E5" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "move", label: "t1_b1" }, { id: "store", label: "t1_b2" }],
@@ -1696,7 +1696,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🏃", title: "Kinetic", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -1715,7 +1715,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "⬆️", title: "Potential", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -1730,7 +1730,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "🔄", title: "Conversion", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -1750,7 +1750,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "♻️", title: "Conservation", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -1766,7 +1766,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🍎", title: "Chemical", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "chem", label: "t6_b1" }, { id: "not", label: "t6_b2" }],
@@ -1786,7 +1786,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🏹", title: "Elastic", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -1805,7 +1805,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "⛰️", title: "Height", bg: "#EFF6FF", color: "#1D4ED8" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -1820,7 +1820,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🌱", title: "Sources", bg: "#F0FDF4", color: "#15803D" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -1840,7 +1840,7 @@ export const PHYSIK_K5_I4_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "♨️", title: "Loss", bg: "#FEF2F2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -2081,7 +2081,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "🔋", title: "Change", bg: "#ECFEFF", color: "#0F766E" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "yes", label: "t1_b1" }, { id: "no", label: "t1_b2" }],
@@ -2101,7 +2101,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🔌", title: "Forms", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -2120,7 +2120,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "☀️", title: "Chain", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3", "t3_w4"],
@@ -2135,7 +2135,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "⚙️", title: "Conversion Check", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -2155,7 +2155,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "♻️", title: "Saved", bg: "#F1F5F9", color: "#334155" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -2171,7 +2171,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "☀️", title: "Solar", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "solar", label: "t6_b1" }, { id: "not", label: "t6_b2" }],
@@ -2191,7 +2191,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🌬️", title: "Wind", bg: "#F0F9FF", color: "#0369A1" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -2210,7 +2210,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "💧", title: "Water", bg: "#DBEAFE", color: "#2563EB" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
@@ -2225,7 +2225,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🚗", title: "Car", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -2245,7 +2245,7 @@ export const PHYSIK_K5_I5_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "🌟", title: "Source", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -2488,7 +2488,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "🌡️", title: "Temperature", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "EnergySvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t1_sent",
@@ -2504,7 +2504,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🔥", title: "Transfer", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -2523,7 +2523,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "🧊", title: "States", bg: "#EFF6FF", color: "#2563EB" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -2538,7 +2538,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "💧", title: "Change", bg: "#ECFCCB", color: "#65A30D" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -2558,7 +2558,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "♨️", title: "Review", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -2574,7 +2574,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🧣", title: "Insulators", bg: "#F1F5F9", color: "#475569" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "iso", label: "t6_b1" }, { id: "cond", label: "t6_b2" }],
@@ -2594,7 +2594,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🍳", title: "Conductors", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -2613,7 +2613,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🎈", title: "Expansion", bg: "#EFF6FF", color: "#1D4ED8" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -2628,7 +2628,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "❄️", title: "Shrink", bg: "#DBEAFE", color: "#2563EB" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -2648,7 +2648,7 @@ export const PHYSIK_K5_I6_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "🌊", title: "Flow", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -2887,7 +2887,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "☀️", title: "Sources", bg: "#FFFBEB", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "nat", label: "t1_b1" }, { id: "art", label: "t1_b2" }],
@@ -2907,7 +2907,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🌑", title: "Shadows", bg: "#E0E7FF", color: "#4338CA" },
+    svg: { type: "physik-diagram", name: "OpticsSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -2926,7 +2926,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "🪞", title: "Reflection", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "OpticsSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -2941,7 +2941,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "💧", title: "Refraction", bg: "#DBEAFE", color: "#2563EB" },
+    svg: { type: "physik-diagram", name: "OpticsSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -2961,7 +2961,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🌈", title: "Spectrum", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -2977,7 +2977,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🪟", title: "Transparency", bg: "#F1F5F9", color: "#475569" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "trans", label: "t6_b1" }, { id: "opaq", label: "t6_b2" }],
@@ -2997,7 +2997,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🏎️", title: "Speed", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -3016,7 +3016,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🔍", title: "Lenses", bg: "#EFF6FF", color: "#1D4ED8" },
+    svg: { type: "physik-diagram", name: "OpticsSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -3031,7 +3031,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "📏", title: "Straight", bg: "#F0FDF4", color: "#15803D" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -3051,7 +3051,7 @@ export const PHYSIK_K5_I7_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "👁️", title: "Vision", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -3296,7 +3296,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "🔊", title: "Sound", bg: "#ECFEFF", color: "#0891B2" },
+    svg: { type: "physik-diagram", name: "WaveSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "make", label: "t1_b1" }, { id: "quiet", label: "t1_b2" }],
@@ -3316,7 +3316,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🎵", title: "Pitch", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -3335,7 +3335,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "📣", title: "Echo", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -3350,7 +3350,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "🌊", title: "Speed", bg: "#DBEAFE", color: "#2563EB" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -3370,7 +3370,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🫧", title: "Medium", bg: "#F0FDFA", color: "#0F766E" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -3386,7 +3386,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🚆", title: "Solids", bg: "#F1F5F9", color: "#475569" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "fast", label: "t6_b1" }, { id: "slow", label: "t6_b2" }],
@@ -3406,7 +3406,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "👂", title: "Hearing", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -3425,7 +3425,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "🧠", title: "Path", bg: "#EFF6FF", color: "#1D4ED8" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3", "t8_w4"],
@@ -3440,7 +3440,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🎧", title: "Protection", bg: "#F0FDF4", color: "#15803D" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -3460,7 +3460,7 @@ export const PHYSIK_K5_I8_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "➰", title: "Vibration", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "WaveSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",
@@ -3701,7 +3701,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "simple-icon", icon: "🧲", title: "Materials", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "mag", label: "t1_b1" }, { id: "not", label: "t1_b2" }],
@@ -3721,7 +3721,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "simple-icon", icon: "🧭", title: "Field", bg: "#EEF2FF", color: "#4F46E5" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -3740,7 +3740,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "simple-icon", icon: "⚡", title: "Charge", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t3_w1", "t3_w2", "t3_w3"],
@@ -3755,7 +3755,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t4_title",
     infoText: "t4_text",
-    svg: { type: "simple-icon", icon: "💡", title: "Circuit", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "physik-diagram", name: "CircuitSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t4_q",
@@ -3775,7 +3775,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t5_title",
     infoText: "t5_text",
-    svg: { type: "simple-icon", icon: "🔋", title: "Current", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "physik-diagram", name: "CircuitSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t5_sent",
@@ -3791,7 +3791,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t6_title",
     infoText: "t6_text",
-    svg: { type: "simple-icon", icon: "🔋", title: "Electromagnets", bg: "#F1F5F9", color: "#475569" },
+    svg: { type: "physik-diagram", name: "MagnetSvg" },
     interactive: {
       type: "drag-to-bucket",
       buckets: [{ id: "part", label: "t6_b1" }, { id: "not", label: "t6_b2" }],
@@ -3811,7 +3811,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "easy",
     infoTitle: "t7_title",
     infoText: "t7_text",
-    svg: { type: "simple-icon", icon: "🧭", title: "Compass", bg: "#EFF6FF", color: "#1D4ED8" },
+    svg: { type: "physik-diagram", name: "MagnetSvg" },
     interactive: {
       type: "physics-magnet",
       pairs: [
@@ -3830,7 +3830,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t8_title",
     infoText: "t8_text",
-    svg: { type: "simple-icon", icon: "⚡", title: "Conductors", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-stacker",
       words: ["t8_w1", "t8_w2", "t8_w3"],
@@ -3845,7 +3845,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "medium",
     infoTitle: "t9_title",
     infoText: "t9_text",
-    svg: { type: "simple-icon", icon: "🛡️", title: "Safety", bg: "#F0FDF4", color: "#15803D" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "physics-slingshot",
       question: "t9_q",
@@ -3865,7 +3865,7 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     difficulty: "hard",
     infoTitle: "t10_title",
     infoText: "t10_text",
-    svg: { type: "simple-icon", icon: "🔌", title: "Review", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "physik-diagram", name: "ForceSvg" },
     interactive: {
       type: "gap-fill",
       sentence: "t10_sent",

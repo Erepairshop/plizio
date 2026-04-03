@@ -206,7 +206,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
     ),
     h1: TITLE,
     h2: HINT_A,
-    svg: iconGrid([{ emoji: "⚛️", label: "Atom" }, { emoji: "➕", label: "Proton" }, { emoji: "➖", label: "Electron" }], "#FEE2E2"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "protons_neutrons_electrons_mcq",
     extras: {
       a: L("Kernteilchen", "Core particles", "Mag-részecskék", "Particule din nucleu"),
@@ -229,7 +229,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne Begriff und Bedeutung zu.", "Match term and meaning.", "Párosítsd a fogalmat és a jelentést.", "Potrivește termenul cu sensul."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("1", "Atomic Number", "#ECFEFF", "#0891B2"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "atomic_number_mcq",
     extras: {
       l1: L("Ordnungszahl", "atomic number", "rendszám", "număr atomic"),
@@ -253,7 +253,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe die Rechen-Schritte in die richtige Reihenfolge.", "Put the calculation steps in order.", "Tedd sorrendbe a számítás lépéseit.", "Pune pașii de calcul în ordine."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: simpleIcon("A", "Mass Number", "#FEF3C7", "#D97706"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "mass_number_mcq",
     extras: {
       w1: L("Protonen zählen", "count protons", "protonok számolása", "numără protonii"),
@@ -274,7 +274,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Teilchen in Kern und Schale.", "Sort particles into nucleus and shell.", "Rendezd a részecskéket magra és héjra.", "Sortează particulele în nucleu și strat."),
     h1: HINT_B,
     h2: HINT_C,
-    svg: groupSvg(["Kern", "Atomkern"], ["Hülle", "Elektronen"]),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "electron_shells_mcq",
     extras: {
       a: L("Kern", "nucleus", "atommag", "nucleu"),
@@ -298,7 +298,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die passende Beschreibung.", "Choose the matching description.", "Válaszd ki a megfelelő leírást.", "Alege descrierea potrivită."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: sentenceSvg(["Isotope", "same", "protons", "different", "neutrons"], [0, 2, 4], "#DB2777"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "isotopes_intro_mcq",
     extras: {
       q: L("Gleiches Element?", "Same element?", "Ugyanaz az elem?", "Același element?"),
@@ -324,7 +324,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere Reihen und Spalten.", "Sort rows and columns.", "Rendezd sorokra és oszlopokra.", "Sortează rânduri și coloane."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("P", "Periodic Table", "#EEF2FF", "#4F46E5"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "groups_periods_mcq",
     extras: {
       a: L("Gruppe", "group", "csoport", "grup"),
@@ -348,7 +348,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne die Eigenschaften zu.", "Match the properties.", "Párosítsd a tulajdonságokat.", "Potrivește proprietățile."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: iconGrid([{ emoji: "Na" }, { emoji: "K" }, { emoji: "Li" }], "#DCFCE7"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "alkali_metals_mcq",
     extras: {
       l1: L("weich", "soft", "puha", "moale"),
@@ -372,7 +372,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe die Ideen in Reihenfolge.", "Put the ideas in order.", "Tedd sorrendbe az ötleteket.", "Pune ideile în ordine."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("F", "Halogens", "#FFF7ED", "#EA580C"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "halogens_mcq",
     extras: {
       w1: L("Nichtmetall", "non-metal", "nemfém", "nemetal"),
@@ -393,11 +393,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die passenden Beispiele.", "Choose the matching examples.", "Válaszd ki a megfelelő példákat.", "Alege exemplele potrivite."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: bubbleSvg([
-      { text: "He", emoji: "🎈", color: "#93C5FD", bg: "#EFF6FF" },
-      { text: "Ne", emoji: "💡", color: "#A78BFA", bg: "#F5F3FF" },
-      { text: "Ar", emoji: "🌬️", color: "#67E8F9", bg: "#ECFEFF" },
-    ]),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "noble_gases_mcq",
     extras: {
       a: L("reaktiv?", "reactive?", "reakcióképes?", "reactiv?"),
@@ -421,7 +417,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Trends vom einfachen zum schwierigen Gedanken.", "Sort the trend ideas from simple to more complex.", "Rendezd a trendeket az egyszerűtől a nehezebbig.", "Sortează ideile despre tendințe de la simplu la mai complex."),
     h1: HINT_D,
     h2: HINT_B,
-    svg: sentenceSvg(["size", "reactivity", "pattern", "table"], [0, 1], "#7C3AED"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "periodic_trends_basic_mcq",
     extras: {
       w1: L("oben", "up", "felfelé", "în sus"),
@@ -445,7 +441,7 @@ const I3_TOPICS: ChemTopicSpec[] = [
     inst: L("Verbinde die Teile, die zusammengehören.", "Match the parts that belong together.", "Párosítsd az összetartozó részeket.", "Potrivește părțile care merg împreună."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: simpleIcon("🔗", "Bonds", "#ECFDF5", "#059669"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "chemical_bonds_intro_mcq",
     extras: {
       l1: L("Atome", "atoms", "atomok", "atomi"),
@@ -469,7 +465,7 @@ const I3_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere nach Abgabe oder Aufnahme von Elektronen.", "Sort by giving or taking electrons.", "Rendezd elektronleadás vagy -felvétel szerint.", "Sortează după cedare sau preluare de electroni."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: groupSvg(["Na+", "Mg2+"], ["Cl-", "O2-"], "#F8FAFC"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "ionic_bonding_mcq",
     extras: {
       a: L("Elektronen abgeben", "give away electrons", "elektront lead", "cedează electroni"),
@@ -493,7 +489,7 @@ const I3_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe die Schritte in die richtige Reihenfolge.", "Put the steps in the correct order.", "Tedd a lépéseket helyes sorrendbe.", "Pune pașii în ordinea corectă."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: sentenceSvg(["share", "electrons", "bond", "molecule"], [0, 1], "#0EA5E9"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "covalent_bonding_mcq",
     extras: {
       w1: L("teilen", "share", "megoszt", "împart"),
@@ -514,7 +510,7 @@ const I3_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die passende Formel.", "Choose the matching formula.", "Válaszd ki a megfelelő képletet.", "Alege formula potrivită."),
     h1: HINT_B,
     h2: HINT_C,
-    svg: simpleIcon("H2O", "Formulas", "#E0F2FE", "#0284C7"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "molecular_formulas_mcq",
     extras: {
       q: L("Wasser", "water", "víz", "apă"),
@@ -537,7 +533,7 @@ const I3_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Bindungsideen.", "Sort the bonding ideas.", "Rendezd a kötési ötleteket.", "Sortează ideile despre legături."),
     h1: HINT_D,
     h2: HINT_A,
-    svg: iconGrid([{ emoji: "1", label: "H" }, { emoji: "2", label: "O" }, { emoji: "3", label: "N" }], "#FDF2F8"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "valence_intro_mcq",
     extras: {
       w1: L("1 Bindung", "1 bond", "1 kötés", "1 legătură"),
@@ -561,7 +557,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne Edukte und Produkte.", "Sort reactants and products.", "Rendezd az induló és végső anyagokat.", "Sortează reactanții și produșii."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("= ", "Equations", "#F0F9FF", "#0369A1"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "equations_symbols_mcq",
     extras: {
       a: L("Edukte", "reactants", "kiinduló anyagok", "reactanți"),
@@ -585,7 +581,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe die Schritte in Reihenfolge.", "Put the steps in order.", "Tedd a lépéseket sorrendbe.", "Pune pașii în ordine."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: sentenceSvg(["atoms", "both", "sides", "same"], [0, 3], "#2563EB"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "balancing_intro_mcq",
     extras: {
       w1: L("Atome zählen", "count atoms", "atomokat számolni", "numără atomii"),
@@ -606,10 +602,10 @@ const I4_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne die Mengen richtig zu.", "Match the amounts correctly.", "Párosítsd helyesen a mennyiségeket.", "Potrivește corect cantitățile."),
     h1: HINT_B,
     h2: HINT_C,
-    svg: groupSvg(["vorher", "gesamt"], ["nachher", "gleich"]),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "conservation_mass_mcq",
     extras: {
-      l1: L("vor der Reaktion", "before reaction", "reakció előtt", "înainte de reacție"),
+      l1: L("vor der Reaktion", "before reaction", "reakció előtt", "înainte de reakție"),
       r1: L("gleich schwer", "same mass", "ugyanannyi tömeg", "aceeași masă"),
       l2: L("keine Masse weg", "no mass disappears", "nem tűnik el tömeg", "nu dispare masa"),
       r2: L("alles bleibt", "everything stays", "minden megmarad", "totul rămâne"),
@@ -628,7 +624,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Reaktionsideen.", "Sort the reaction ideas.", "Rendezd a reakcióötleteket.", "Sortează ideile de reacții."),
     h1: HINT_D,
     h2: HINT_A,
-    svg: iconGrid([{ emoji: "🔥", label: "burn" }, { emoji: "🧊", label: "cool" }, { emoji: "🔁", label: "swap" }], "#FEF3C7"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "reaction_types_basic_mcq",
     extras: {
       w1: L("Verbrennung", "combustion", "égés", "ardere"),
@@ -649,7 +645,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die richtige Aussage.", "Choose the correct statement.", "Válaszd ki a helyes állítást.", "Alege afirmația corectă."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("O2", "Oxidation", "#FFF1F2", "#E11D48"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "oxidation_intro_mcq",
     extras: {
       q: L("Was braucht die Reaktion?", "What does the reaction need?", "Mire van szüksége a reakciónak?", "De ce are nevoie reacția?"),
@@ -675,11 +671,7 @@ const I5_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Hinweise zu Säure oder nicht.", "Sort the clues into acid or not.", "Rendezd a jeleket sav vagy nem sav szerint.", "Sortează indiciile în acid sau nu."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: bubbleSvg([
-      { text: "H+", emoji: "🧪", color: "#F87171", bg: "#FEF2F2" },
-      { text: "sour", emoji: "🍋", color: "#FB7185", bg: "#FFF1F2" },
-      { text: "indicator", emoji: "🌈", color: "#F97316", bg: "#FFF7ED" },
-    ]),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "acid_properties_mcq",
     extras: {
       a: L("sauer", "sour", "savanyú", "acru"),
@@ -703,7 +695,7 @@ const I5_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne Säure und Base zu.", "Match acid and base.", "Párosítsd a savat és a bázist.", "Potrivește acidul și baza."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: groupSvg(["acid", "H+"], ["base", "OH-"]),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "base_properties_mcq",
     extras: {
       l1: L("seifig", "soapy", "szappanos", "săpunos"),
@@ -725,7 +717,7 @@ const I5_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe die Entstehung in Reihenfolge.", "Put the formation in order.", "Tedd sorrendbe a keletkezést.", "Pune formarea în ordine."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: sentenceSvg(["acid", "base", "salt", "forms"], [0, 1, 2], "#8B5CF6"),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "salt_formation_mcq",
     extras: {
       w1: L("Säure", "acid", "sav", "acid"),
@@ -746,7 +738,7 @@ const I5_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die richtige Gleichungsidee.", "Choose the correct equation idea.", "Válaszd ki a helyes egyenletrészletet.", "Alege ideea corectă de ecuație."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("pH", "Neutralization", "#EFF6FF", "#1D4ED8"),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "neutralization_equation_mcq",
     extras: {
       q: L("Was reagiert?", "What reacts?", "Mi reagál?", "Ce reacționează?"),
@@ -769,7 +761,7 @@ const I5_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Farben.", "Sort the colors.", "Rendezd a színeket.", "Sortează culorile."),
     h1: HINT_C,
     h2: HINT_D,
-    svg: iconGrid([{ emoji: "🔴", label: "acid" }, { emoji: "🟢", label: "base" }, { emoji: "🟣", label: "neutral" }], "#F5F3FF"),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "indicator_colors_mcq",
     extras: {
       a: L("rot", "red", "piros", "roșu"),
@@ -818,7 +810,7 @@ const I6_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne die Reaktionsstärke.", "Order the reactivity.", "Rendezd a reakciókészséget.", "Ordinează reactivitatea."),
     h1: HINT_D,
     h2: HINT_C,
-    svg: sentenceSvg(["reactive", "less", "more", "metal"], [0, 2], "#F97316"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "metal_reactivity_mcq",
     extras: {
       w1: L("stark", "strong", "erős", "puternic"),
@@ -839,7 +831,7 @@ const I6_TOPICS: ChemTopicSpec[] = [
     inst: L("Verbinde Schutz und Ursache.", "Match protection and cause.", "Párosítsd a védelmet és az okot.", "Potrivește protecția și cauza."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: groupSvg(["air", "water"], ["rust", "corrosion"]),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "corrosion_protection_mcq",
     extras: {
       l1: L("Luft", "air", "levegő", "aer"),
@@ -874,7 +866,7 @@ const I6_TOPICS: ChemTopicSpec[] = [
     difficulty: "hard",
     title: L("Legierungen", "Alloys", "Ötvözetek", "Aliaje"),
     text: L(
-      "Legierungen sind Mischungen aus Metallen.",
+      "Legierungen sind Mischungen aus Metalle.",
       "Alloys are mixtures of metals.",
       "Az ötvözetek fémek keverékei.",
       "Aliajele sunt amestecuri de metale."
@@ -903,7 +895,7 @@ const I7_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle das passende Teilchen.", "Choose the matching particle.", "Válaszd ki a megfelelő részecskét.", "Alege particula potrivită."),
     h1: HINT_A,
     h2: HINT_B,
-    svg: simpleIcon("⚛️", "Review Atom", "#FEE2E2", "#DC2626"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "protons_neutrons_electrons_mcq",
     extras: {
       a: L("Kern", "nucleus", "atommag", "nucleu"),
@@ -922,7 +914,7 @@ const I7_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Periodensystem-Ideen.", "Sort the periodic-table ideas.", "Rendezd a periódusos rendszer ötleteit.", "Sortează ideile despre tabelul periodic."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("📋", "Review Table", "#E0F2FE", "#0284C7"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "groups_periods_mcq",
     extras: {
       w1: L("Gruppe", "group", "csoport", "grup"),
@@ -938,7 +930,7 @@ const I7_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne die Begriffe.", "Order the terms.", "Rendezd a fogalmakat.", "Ordonează termenii."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: groupSvg(["group", "same properties"], ["period", "rows"]),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "periodic_trends_basic_mcq",
     extras: {
       l1: L("oben/unten", "up/down", "fel/le", "sus/jos"),
@@ -955,7 +947,7 @@ const I7_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe es in Lernreihenfolge.", "Put it in learning order.", "Tedd tanulási sorrendbe.", "Pune-l în ordinea învățării."),
     h1: HINT_D,
     h2: HINT_B,
-    svg: sentenceSvg(["shells", "groups", "periods", "table"], [0, 2], "#2563EB"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "electron_shells_mcq",
     extras: {
       w1: L("Kern", "nucleus", "mag", "nucleu"),
@@ -971,7 +963,7 @@ const I7_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die stärkste Aussage.", "Choose the strongest statement.", "Válaszd a legerősebb állítást.", "Alege afirmația cea mai bună."),
     h1: HINT_D,
     h2: HINT_A,
-    svg: simpleIcon("✅", "Review", "#ECFDF5", "#059669"),
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "noble_gases_mcq",
     extras: {
       q: L("Wiederholung", "review", "ismétlés", "recapitulare"),
@@ -992,7 +984,7 @@ const I8_TOPICS: ChemTopicSpec[] = [
     inst: L("Sortiere die Bindungen.", "Sort the bonds.", "Rendezd a kötéseket.", "Sortează legăturile."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: simpleIcon("🔗", "Bond Review", "#ECFEFF", "#0891B2"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "ionic_bonding_mcq",
     extras: {
       a: L("Ionen", "ions", "ionok", "ioni"),
@@ -1011,7 +1003,7 @@ const I8_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe Formelideen in Ordnung.", "Put formula ideas in order.", "Rendezd a képletes ötleteket.", "Pune ideile despre formule în ordine."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("H2O", "Practice", "#F0F9FF", "#0369A1"),
+    svg: { type: "kemia-diagram", name: "MoleculeSvg" },
     quiz: "molecular_formulas_mcq",
     extras: {
       w1: L("Atom", "atom", "atom", "atom"),
@@ -1022,12 +1014,12 @@ const I8_TOPICS: ChemTopicSpec[] = [
   },
   {
     difficulty: "medium",
-    title: L("Gleichungen ausgleichen", "Balance Equations", "Egyenletek rendezése", "Echilibrează ecuațiile"),
+    title: L("Gleichungen ausgleichen", "Balance Equations", "Egyenletek rendezése", "Echilibrați ecuațiile"),
     text: L("Beim Ausgleichen bleiben links und rechts gleich viele Atome.", "When balancing, both sides keep the same number of atoms.", "Az egyenlítésnél bal és jobb oldalon is ugyanannyi atom marad.", "La echilibrare, ambele părți păstrează același număr de atomi."),
     inst: L("Ordne die Schritte.", "Order the steps.", "Rendezd a lépéseket.", "Ordonează pașii."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: sentenceSvg(["atoms", "equal", "both", "sides"], [0, 1], "#2563EB"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "balancing_equations_mcq",
     extras: {
       w1: L("zählen", "count", "számolni", "numără"),
@@ -1043,7 +1035,7 @@ const I8_TOPICS: ChemTopicSpec[] = [
     inst: L("Paaren die Aussagen.", "Pair the statements.", "Párosítsd az állításokat.", "Potrivește afirmațiile."),
     h1: HINT_C,
     h2: HINT_D,
-    svg: groupSvg(["same mass", "before"], ["same mass", "after"]),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "conservation_mass_mcq",
     extras: {
       l1: L("vorher", "before", "előtte", "înainte"),
@@ -1060,7 +1052,7 @@ const I8_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die richtige Zuordnung.", "Choose the correct match.", "Válaszd ki a helyes párost.", "Alege potrivirea corectă."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: simpleIcon("O2", "Oxidation Review", "#FFF1F2", "#E11D48"),
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "oxidation_intro_mcq",
     extras: {
       q: L("Mit was?", "With what?", "Mivel?", "Cu ce?"),
@@ -1081,7 +1073,7 @@ const I9_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne die Beispiele.", "Sort the examples.", "Rendezd a példákat.", "Sortează exemplele."),
     h1: HINT_A,
     h2: HINT_C,
-    svg: simpleIcon("pH", "Acid/Base", "#FFF7ED", "#C2410C"),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "acid_properties_mcq",
     extras: {
       a: L("sauer", "acidic", "savas", "acid"),
@@ -1100,7 +1092,7 @@ const I9_TOPICS: ChemTopicSpec[] = [
     inst: L("Bringe Farbe und Bedeutung zusammen.", "Match color and meaning.", "Párosítsd a színt és a jelentést.", "Potrivește culoarea și sensul."),
     h1: HINT_B,
     h2: HINT_D,
-    svg: iconGrid([{ emoji: "🔴", label: "acid" }, { emoji: "🟢", label: "base" }, { emoji: "🟣", label: "neutral" }], "#FAE8FF"),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "indicator_colors_mcq",
     extras: {
       l1: L("rot", "red", "piros", "roșu"),
@@ -1119,7 +1111,7 @@ const I9_TOPICS: ChemTopicSpec[] = [
     inst: L("Ordne die Entstehung.", "Order the formation.", "Rendezd a keletkezést.", "Ordonează formarea."),
     h1: HINT_A,
     h2: HINT_D,
-    svg: sentenceSvg(["acid", "base", "salt", "forms"], [0, 1, 2], "#8B5CF6"),
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "salt_formation_mcq",
     extras: {
       w1: L("Säure", "acid", "sav", "acid"),
@@ -1154,14 +1146,14 @@ const I9_TOPICS: ChemTopicSpec[] = [
     inst: L("Wähle die beste Zusammenfassung.", "Choose the best summary.", "Válaszd a legjobb összefoglalást.", "Alege cel mai bun rezumat."),
     h1: HINT_D,
     h2: HINT_A,
-    svg: simpleIcon("🧪", "Final Review", "#ECFDF5", "#059669"),
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "alloys_intro_mcq",
     extras: {
       q: L("Was passt zusammen?", "What fits together?", "Mi illik össze?", "Ce se potrivește împreună?"),
       c1: L("Säure + Base = Salz", "acid + base = salt", "sav + bázis = só", "acid + bază = sare"),
       c2: L("Metall + Luft = immer neu", "metal + air = always new", "fém + levegő = mindig új", "metal + aer = mereu nou"),
       c3: L("Alles ist gleich", "everything is the same", "minden ugyanaz", "totul este la fel"),
-      c4: L("Keine Reaktionen", "no reactions", "nincs reakció", "fără reacții"),
+      c4: L("Keine Reaktionen", "no reactions", "nincs reakció", "fără reakții"),
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
@@ -1203,4 +1195,3 @@ export const KEMIA_K7_I8_LABELS = built[7].labels;
 export const KEMIA_K7_I8_POOL = built[7].pool;
 export const KEMIA_K7_I9_LABELS = built[8].labels;
 export const KEMIA_K7_I9_POOL = built[8].pool;
-

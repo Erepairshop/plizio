@@ -1,111 +1,10 @@
 "use client";
 // MentalMathExplorer — Mental arithmetic with tens for Grade 2 (island i2)
-// Uses new topic-based ExplorerEngine mode
+// Modernized with centralized SVG library
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
-
-// ─── SVG: Ten-bars ────────────────────────────────────────────────────────────
-
-const TenBarsSvg = memo(function TenBarsSvg({ bars = 4, addBars = 2 }: { bars?: number; addBars?: number }) {
-  return (
-    <svg width="100%" viewBox="0 0 240 130">
-      <defs>
-        <linearGradient id="mmG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="130" fill="url(#mmG)" rx="16" />
-      {Array.from({ length: bars }, (_, i) => (
-        <rect key={i} x={14 + i * 20} y="20" width="14" height="70" rx="4"
-          fill="#00D4FF" opacity="0.75" />
-      ))}
-      <text x={14 + bars * 20 + 8} y="62" fontSize="18" fontWeight="900"
-        fill="rgba(255,255,255,0.55)" textAnchor="middle" dominantBaseline="middle">+</text>
-      {Array.from({ length: addBars }, (_, i) => (
-        <rect key={i} x={14 + bars * 20 + 22 + i * 20} y="20" width="14" height="70" rx="4"
-          fill="#10B981" opacity="0.75" />
-      ))}
-      <text x="120" y="112" fontSize="13" fontWeight="800"
-        fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {bars}×10 + {addBars}×10 = {(bars + addBars) * 10}
-      </text>
-    </svg>
-  );
-});
-
-// ─── SVG: Sequence +10 ───────────────────────────────────────────────────────
-
-const SequenceSvg = memo(function SequenceSvg({ start = 20, count = 5 }: { start?: number; count?: number }) {
-  const nums = Array.from({ length: count }, (_, i) => start + i * 10);
-  return (
-    <svg width="100%" viewBox="0 0 240 100">
-      <defs>
-        <linearGradient id="seqG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#B44DFF" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#D88FFF" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="100" fill="url(#seqG)" rx="16" />
-      {nums.map((n, i) => {
-        const x = 24 + i * 48;
-        const isLast = i === count - 1;
-        return (
-          <g key={i}>
-            <rect x={x - 18} y="28" width="36" height="36" rx="8"
-              fill={isLast ? "#B44DFF" : "rgba(255,255,255,0.1)"} opacity="0.9" />
-            <text x={x} y="52" fontSize="14" fontWeight="900"
-              fill={isLast ? "white" : "rgba(255,255,255,0.8)"}
-              textAnchor="middle" dominantBaseline="middle">{n}</text>
-            {i < count - 1 && (
-              <text x={x + 24} y="50" fontSize="11"
-                fill="rgba(255,255,255,0.45)" textAnchor="middle" dominantBaseline="middle">+10</text>
-            )}
-          </g>
-        );
-      })}
-    </svg>
-  );
-});
-
-// ─── SVG: Subtract tens ──────────────────────────────────────────────────────
-
-const SubTensSvg = memo(function SubTensSvg({ start = 80, sub = 30 }: { start?: number; sub?: number }) {
-  const result = start - sub;
-  const ticks = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
-  return (
-    <svg width="100%" viewBox="0 0 240 100">
-      <defs>
-        <linearGradient id="subTG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF6B6B" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FF9B9B" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="100" fill="url(#subTG)" rx="16" />
-      <line x1="15" y1="55" x2="225" y2="55"
-        stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round" />
-      {ticks.map((n, i) => {
-        const x = 15 + i * 21;
-        const isKey = n === start || n === result;
-        return (
-          <g key={n}>
-            <line x1={x} y1="49" x2={x} y2="61"
-              stroke={isKey ? "#FF6B6B" : "rgba(255,255,255,0.25)"}
-              strokeWidth={isKey ? 2.5 : 1.5} />
-            <text x={x} y="74" fontSize={isKey ? "10" : "8"} fontWeight={isKey ? "900" : "500"}
-              fill={isKey ? "#FF6B6B" : "rgba(255,255,255,0.45)"} textAnchor="middle">{n}</text>
-          </g>
-        );
-      })}
-      <text x="120" y="92" fontSize="12" fontWeight="800"
-        fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {start} − {sub} = {result}
-      </text>
-    </svg>
-  );
-});
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 
@@ -121,10 +20,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_h1: "40 = 4 tens. Add 2 more: 4 + 2 = 6",
     t1_h2: "6 tens = 60 — tap 60!",
     t1_q: "What is 30 + 50?",
-    t1_q_80: "80",
-    t1_q_35: "35",
-    t1_q_53: "53",
-    t1_q_8: "8",
+    t1_q_80: "80", t1_q_35: "35", t1_q_53: "53", t1_q_8: "8",
     t2_title: "Counting by Tens",
     t2_text: "When we count by tens, each next number is exactly 10 more: 20, 30, 40, 50 … The ones digit stays the SAME! Only the tens digit changes by 1.",
     t2_b1: "Each step forward = +10",
@@ -134,10 +30,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_h1: "60, then one more ten...",
     t2_h2: "60 + 10 = 70 — tap 70!",
     t2_q: "What number comes next? 45, 55, 65, __",
-    t2_q_75: "75",
-    t2_q_66: "66",
-    t2_q_70: "70",
-    t2_q_56: "56",
+    t2_q_75: "75", t2_q_66: "66", t2_q_70: "70", t2_q_56: "56",
     t3_title: "Subtracting Tens in Your Head",
     t3_text: "Subtracting tens works the same way — subtract the tens digits! 80 − 30: eight tens − three tens = five tens = 50. Easy!",
     t3_b1: "80 − 30 = 8 tens − 3 tens = 5 tens = 50",
@@ -147,10 +40,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_h1: "70 = 7 tens. Take away 2: 7 − 2 = 5",
     t3_h2: "5 tens = 50 — tap 50!",
     t3_q: "What is 90 − 40?",
-    t3_q_50: "50",
-    t3_q_94: "94",
-    t3_q_40: "40",
-    t3_q_5: "5",
+    t3_q_50: "50", t3_q_94: "94", t3_q_40: "40", t3_q_5: "5",
   },
   de: {
     explorer_title: "Kopfrechnen entdecken",
@@ -163,10 +53,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_h1: "40 = 4 Zehner. Noch 2 dazu: 4 + 2 = 6",
     t1_h2: "6 Zehner = 60 — tippe auf 60!",
     t1_q: "Was ist 30 + 50?",
-    t1_q_80: "80",
-    t1_q_35: "35",
-    t1_q_53: "53",
-    t1_q_8: "8",
+    t1_q_80: "80", t1_q_35: "35", t1_q_53: "53", t1_q_8: "8",
     t2_title: "In Zehnern zählen",
     t2_text: "Beim Zählen in Zehnern ist jede nächste Zahl genau 10 mehr: 20, 30, 40, 50 … Die Einerziffer bleibt GLEICH! Nur die Zehnerziffer ändert sich um 1.",
     t2_b1: "Jeder Schritt = +10",
@@ -176,10 +63,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_h1: "60, dann noch ein Zehner...",
     t2_h2: "60 + 10 = 70 — tippe auf 70!",
     t2_q: "Welche Zahl fehlt? 45, 55, 65, __",
-    t2_q_75: "75",
-    t2_q_66: "66",
-    t2_q_70: "70",
-    t2_q_56: "56",
+    t2_q_75: "75", t2_q_66: "66", t2_q_70: "70", t2_q_56: "56",
     t3_title: "Zehner im Kopf subtrahieren",
     t3_text: "Zehner subtrahieren funktioniert genauso — subtrahiere die Zehnerziffern! 80 − 30: acht Zehner − drei Zehner = fünf Zehner = 50. Ganz einfach!",
     t3_b1: "80 − 30 = 8 Zehner − 3 Zehner = 5 Zehner = 50",
@@ -189,10 +73,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_h1: "70 = 7 Zehner. Minus 2: 7 − 2 = 5",
     t3_h2: "5 Zehner = 50 — tippe auf 50!",
     t3_q: "Was ist 90 − 40?",
-    t3_q_50: "50",
-    t3_q_94: "94",
-    t3_q_40: "40",
-    t3_q_5: "5",
+    t3_q_50: "50", t3_q_94: "94", t3_q_40: "40", t3_q_5: "5",
   },
   hu: {
     explorer_title: "Fejszámolás felfedezés",
@@ -205,10 +86,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_h1: "40 = 4 tízes. Még 2 tízes: 4 + 2 = 6",
     t1_h2: "6 tízes = 60 — koppints a 60-ra!",
     t1_q: "Mennyi 30 + 50?",
-    t1_q_80: "80",
-    t1_q_35: "35",
-    t1_q_53: "53",
-    t1_q_8: "8",
+    t1_q_80: "80", t1_q_35: "35", t1_q_53: "53", t1_q_8: "8",
     t2_title: "Tízenként számolás",
     t2_text: "Tízenként számolva minden következő szám pontosan 10-zel több: 20, 30, 40, 50 … Az egyes számjegy UGYANAZ marad! Csak a tízes változik 1-gyel.",
     t2_b1: "Minden lépés = +10",
@@ -218,10 +96,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_h1: "60, majd még egy tízes...",
     t2_h2: "60 + 10 = 70 — koppints a 70-re!",
     t2_q: "Melyik szám hiányzik? 45, 55, 65, __",
-    t2_q_75: "75",
-    t2_q_66: "66",
-    t2_q_70: "70",
-    t2_q_56: "56",
+    t2_q_75: "75", t2_q_66: "66", t2_q_70: "70", t2_q_56: "56",
     t3_title: "Tízesek kivonása fejben",
     t3_text: "A tízesek kivonása ugyanúgy működik — von ki a tízes számjegyeket! 80 − 30: nyolc tízes − három tízes = öt tízes = 50. Egyszerű!",
     t3_b1: "80 − 30 = 8 tízes − 3 tízes = 5 tízes = 50",
@@ -231,10 +106,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_h1: "70 = 7 tízes. Minus 2: 7 − 2 = 5",
     t3_h2: "5 tízes = 50 — koppints az 50-re!",
     t3_q: "Mennyi 90 − 40?",
-    t3_q_50: "50",
-    t3_q_94: "94",
-    t3_q_40: "40",
-    t3_q_5: "5",
+    t3_q_50: "50", t3_q_94: "94", t3_q_40: "40", t3_q_5: "5",
   },
   ro: {
     explorer_title: "Calcul mental",
@@ -247,10 +119,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t1_h1: "40 = 4 zeci. Încă 2 zeci: 4 + 2 = 6",
     t1_h2: "6 zeci = 60 — atinge 60!",
     t1_q: "Cât este 30 + 50?",
-    t1_q_80: "80",
-    t1_q_35: "35",
-    t1_q_53: "53",
-    t1_q_8: "8",
+    t1_q_80: "80", t1_q_35: "35", t1_q_53: "53", t1_q_8: "8",
     t2_title: "Numărare din 10 în 10",
     t2_text: "Când numărăm din 10 în 10, fiecare următor este cu 10 mai mare: 20, 30, 40, 50 … Cifra unităților rămâne ACEEAȘI! Doar cifra zecilor crește cu 1.",
     t2_b1: "Fiecare pas = +10",
@@ -260,12 +129,9 @@ const LABELS: Record<string, Record<string, string>> = {
     t2_h1: "60, apoi încă o zece...",
     t2_h2: "60 + 10 = 70 — atinge 70!",
     t2_q: "Ce număr lipsește? 45, 55, 65, __",
-    t2_q_75: "75",
-    t2_q_66: "66",
-    t2_q_70: "70",
-    t2_q_56: "56",
+    t2_q_75: "75", t2_q_66: "66", t2_q_70: "70", t2_q_56: "56",
     t3_title: "Scăderea zecilor în minte",
-    t3_text: "Scăderea zecilor funcționează la fel — scazi cifrele zecilor! 80 − 30: opt zeci − trei zeci = cinci zeci = 50. Simplu!",
+    t3_text: "Scăderea zecilor funcționează la fel — scazi cifrele zecilor! 80 − 30: opt zeci − drei zeci = cinci zeci = 50. Simplu!",
     t3_b1: "80 − 30 = 8 zeci − 3 zeci = 5 zeci = 50",
     t3_b2: "Salt la stânga pe dreapta numerelor",
     t3_b3: "Întreabă: câte zeci rămân?",
@@ -273,10 +139,7 @@ const LABELS: Record<string, Record<string, string>> = {
     t3_h1: "70 = 7 zeci. Minus 2: 7 − 2 = 5",
     t3_h2: "5 zeci = 50 — atinge 50!",
     t3_q: "Cât este 90 − 40?",
-    t3_q_50: "50",
-    t3_q_94: "94",
-    t3_q_40: "40",
-    t3_q_5: "5",
+    t3_q_50: "50", t3_q_94: "94", t3_q_40: "40", t3_q_5: "5",
   },
 };
 
@@ -286,7 +149,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: () => <TenBarsSvg bars={4} addBars={2} />,
+    svg: { type: "math-diagram", name: "AdditionSvg", props: { a: 4, b: 2 } },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -306,11 +169,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_35", "t1_q_8", "t1_q_53", "t1_q_80"],
       answer: "t1_q_80",
     },
+    quizSvg: { type: "math-diagram", name: "AdditionSvg", props: { a: 3, b: 5 } },
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: () => <SequenceSvg start={20} count={5} />,
+    svg: { type: "math-diagram", name: "SequenceSvg", props: { start: 20, step: 10, count: 5 } },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -330,11 +194,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_66", "t2_q_70", "t2_q_56", "t2_q_75"],
       answer: "t2_q_75",
     },
+    quizSvg: { type: "math-diagram", name: "SequenceSvg", props: { start: 45, step: 10, count: 4 } },
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: () => <SubTensSvg start={80} sub={30} />,
+    svg: { type: "math-diagram", name: "SubtractLineSvg", props: { start: 8, jumps: 3, max: 10 } },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -354,6 +219,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_94", "t3_q_40", "t3_q_5", "t3_q_50"],
       answer: "t3_q_50",
     },
+    quizSvg: { type: "math-diagram", name: "SubtractLineSvg", props: { start: 9, jumps: 4, max: 10 } },
   },
 ];
 

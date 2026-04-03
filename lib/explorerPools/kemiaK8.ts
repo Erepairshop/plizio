@@ -205,7 +205,7 @@ const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Beispiele.", "Sort the examples.", "Rendezd a példákat.", "Sorteaza exemplele."),
     h1: L("Kohlenstoff baut Ketten.", "Carbon builds chains.", "A szén láncokat épít.", "Carbonul face lanturi."),
     h2: L("Wasser gehört nicht dazu.", "Water does not belong here.", "A víz nem tartozik ide.", "Apa nu apartine aici."),
-    svg: { type: "simple-icon", icon: "🧱", title: "Carbon", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "carbon_special",
     interactive: {
       type: "physics-bucket",
@@ -233,7 +233,7 @@ const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
     inst: L("Verbinde Begriff und Bedeutung.", "Match term and meaning.", "Párosítsd a szót és jelentését.", "Potriveste termenul cu sensul."),
     h1: L("Nur C und H.", "Only C and H.", "Csak C és H.", "Doar C si H."),
     h2: L("Alkane und Alkene gehören dazu.", "Alkanes and alkenes belong here.", "Az alkánok és alkének ide tartoznak.", "Alcanii si alcenele apartin aici."),
-    svg: { type: "simple-icon", icon: "🧪", title: "Hydrocarbons", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "hydrocarbons_intro",
     interactive: {
       type: "physics-magnet",
@@ -257,7 +257,7 @@ const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
     inst: L("Ordne die Beispiele nach der Kettenlaenge.", "Order the examples by chain length.", "Rendezd a példákat lánchossz szerint.", "Ordoneaza exemplele dupa lungimea lantului."),
     h1: L("Vom kleinen zum größeren Molekül.", "From smaller to larger molecules.", "A kisebbtől a nagyobb molekula felé.", "De la molecule mai mici la mai mari."),
     h2: L("Mehr C-Atome bedeuten eine längere Kette.", "More C atoms mean a longer chain.", "Több szénatom hosszabb láncot jelent.", "Mai multi atomi de carbon inseamna un lant mai lung."),
-    svg: { type: "simple-icon", icon: "⛓️", title: "Alkanes", bg: "#ECFDF5", color: "#059669" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "alkanes_intro",
     interactive: {
       type: "physics-stacker",
@@ -277,7 +277,7 @@ const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
     inst: L("Triff alle Alkene.", "Hit all alkenes.", "Találd el az összes alként.", "Loveste toate alchenele."),
     h1: L("Alkene haben eine Doppelbindung.", "Alkenes have a double bond.", "Az alkéneknek kettős kötésük van.", "Alcenele au o dubla legatura."),
     h2: L("Methan und Ethan sind keine Alkene.", "Methane and ethane are not alkenes.", "A metán és az etán nem alkének.", "Metanul si etanul nu sunt alcene."),
-    svg: { type: "simple-icon", icon: "⚛️", title: "Alkenes", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "alkenes_intro",
     interactive: {
       type: "physics-slingshot",
@@ -302,7 +302,7 @@ const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
     inst: L("Wähle die passende Ergänzung.", "Choose the correct ending.", "Válaszd ki a helyes kiegészítést.", "Alege completarea corecta."),
     h1: L("Brennstoffe geben Energie frei.", "Fuels release energy.", "A tüzelőanyagok energiát adnak le.", "Combustibilii elibereaza energie."),
     h2: L("Beim Verbrennen entsteht meist Energie und Wärme.", "Burning usually gives energy and heat.", "Égetéskor energia és hő keletkezik.", "Prin ardere apar energie si caldura."),
-    svg: { type: "simple-icon", icon: "🔥", title: "Fuels", bg: "#FEF2F2", color: "#B91C1C" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "fuels_organic",
     interactive: {
       type: "gap-fill",
@@ -336,7 +336,7 @@ const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Beispiele.", "Sort the examples.", "Rendezd a példákat.", "Sorteaza exemplele."),
     h1: L("Ethanol gehört dazu.", "Ethanol belongs here.", "Az etanol ide tartozik.", "Etanolul apartine aici."),
     h2: L("Nicht alles mit Geschmack ist Alkohol.", "Not everything with taste is an alcohol.", "Nem minden folyadék alkohol.", "Nu tot ce are gust este alcool."),
-    svg: { type: "simple-icon", icon: "🥤", title: "Alcohols", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "alcohols_intro",
     interactive: {
       type: "physics-bucket",
@@ -364,7 +364,7 @@ const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
     inst: L("Paare Begriff und Beispiel.", "Match term and example.", "Párosítsd a fogalmat és a példát.", "Potriveste termenul cu exemplul."),
     h1: L("Essigsäure ist eine Carbonsäure.", "Acetic acid is a carboxylic acid.", "Az ecetsav karbonsav.", "Acidul acetic este un acid carboxilic."),
     h2: L("COOH ist die typische Gruppe.", "COOH is the typical group.", "A COOH a jellegzetes csoport.", "COOH este grupul tipic."),
-    svg: { type: "simple-icon", icon: "🍋", title: "Acids", bg: "#FFF7ED", color: "#EA580C" },
+    svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "carboxylic_acids",
     interactive: {
       type: "physics-magnet",
@@ -388,7 +388,7 @@ const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
     inst: L("Ordne die Reaktionsschritte.", "Order the reaction steps.", "Rendezd a reakció lépéseit.", "Ordoneaza pasii reactiei."),
     h1: L("Säure und Alkohol reagieren.", "Acid and alcohol react.", "A sav és az alkohol reagál.", "Acidul si alcoolul reactioneaza."),
     h2: L("Am Ende entsteht Ester plus Wasser.", "At the end, ester and water appear.", "A végén észter és víz keletkezik.", "La final apar ester si apa."),
-    svg: { type: "simple-icon", icon: "🌸", title: "Esters", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "esters_intro",
     interactive: {
       type: "physics-stacker",
@@ -408,7 +408,7 @@ const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
     inst: L("Triff alle Polymere.", "Hit all polymers.", "Találd el az összes polimert.", "Loveste toti polimerii."),
     h1: L("Viele gleiche Bausteine.", "Many repeated units.", "Sok azonos elem.", "Multe unitati repetate."),
     h2: L("Kunststoff ist oft ein Polymer.", "Plastic is often a polymer.", "A műanyag gyakran polimer.", "Plasticul este adesea un polimer."),
-    svg: { type: "simple-icon", icon: "🧶", title: "Polymers", bg: "#EEF2FF", color: "#4F46E5" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "polymers_intro",
     interactive: {
       type: "physics-slingshot",
@@ -433,7 +433,7 @@ const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
     inst: L("Wähle die passende Ergänzung.", "Choose the correct ending.", "Válaszd ki a helyes kiegészítést.", "Alege completarea corecta."),
     h1: L("Weniger Abfall ist besser.", "Less waste is better.", "A kevesebb hulladék jobb.", "Mai putine deseuri este mai bine."),
     h2: L("Recycling schont Rohstoffe.", "Recycling saves raw materials.", "Az újrahasznosítás nyersanyagot spórol.", "Reciclarea economiseste materii prime."),
-    svg: { type: "simple-icon", icon: "♻️", title: "Plastics", bg: "#ECFDF5", color: "#059669" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "plastics_daily",
     interactive: {
       type: "gap-fill",
@@ -467,7 +467,7 @@ const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Faktoren.", "Sort the factors.", "Rendezd a hatásokat.", "Sorteaza factorii."),
     h1: L("Mehr Teilchenkontakt beschleunigt.", "More particle contact speeds things up.", "Több részecske-összeütközés gyorsít.", "Mai multe ciocniri accelereaza."),
     h2: L("Kalt macht oft langsamer.", "Cold often slows things down.", "A hideg gyakran lassít.", "Recele incetineste adesea."),
-    svg: { type: "simple-icon", icon: "⏱️", title: "Rate", bg: "#ECFDF5", color: "#059669" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "reaction_rate_intro",
     interactive: {
       type: "physics-bucket",
@@ -492,10 +492,10 @@ const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
       "A nagyobb felület gyakran gyorsabb reakciót jelent.",
       "Mai multa suprafata inseamna adesea o reactie mai rapida."
     ),
-    inst: L("Paare Form und Wirkung.", "Match form and effect.", "Párosítsd a formát és a hatást.", "Potriveste forma cu efectul."),
+    inst: L("Paare Faktor und Wirkung.", "Match factor and effect.", "Párosítsd a tényezőt és a hatást.", "Potriveste factorul si efectul."),
     h1: L("Pulver reagiert schneller als Brocken.", "Powder reacts faster than lumps.", "A por gyorsabban reagál, mint a darab.", "Pulberea reactioneaza mai repede decat bucata."),
     h2: L("Mehr Kontaktstellen helfen.", "More contact points help.", "Több érintkezési pont segít.", "Mai multe puncte de contact ajuta."),
-    svg: { type: "simple-icon", icon: "🪨", title: "Surface", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "surface_area_effect",
     interactive: {
       type: "physics-magnet",
@@ -519,7 +519,7 @@ const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
     inst: L("Ordne die Reaktionsidee.", "Order the reaction idea.", "Rendezd a reakció gondolatmenetét.", "Ordoneaza ideea reactiei."),
     h1: L("Erst wärmer, dann schneller.", "First warmer, then faster.", "Előbb melegebb, aztán gyorsabb.", "Mai intai mai cald, apoi mai rapid."),
     h2: L("Teilchen bewegen sich schneller.", "Particles move faster.", "A részecskék gyorsabban mozognak.", "Particulele se misca mai repede."),
-    svg: { type: "simple-icon", icon: "🌡️", title: "Temperature", bg: "#EFF6FF", color: "#2563EB" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "temperature_rate",
     interactive: {
       type: "physics-stacker",
@@ -539,7 +539,7 @@ const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
     inst: L("Triff alle guten Beschleuniger.", "Hit all good speed-up factors.", "Találd el az összes gyorsító tényezőt.", "Loveste toti factorii de accelerare."),
     h1: L("Konzentration gehört dazu.", "Concentration belongs here.", "A koncentráció ide tartozik.", "Concentratia apartine aici."),
     h2: L("Zu wenig Teilchen bremst.", "Too few particles slow things down.", "Túl kevés részecske lassít.", "Prea putine particule incetinesc."),
-    svg: { type: "simple-icon", icon: "🧫", title: "Concentration", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "concentration_rate",
     interactive: {
       type: "physics-slingshot",
@@ -564,7 +564,7 @@ const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
     inst: L("Wähle die passende Ergänzung.", "Choose the correct ending.", "Válaszd ki a helyes kiegészítést.", "Alege completarea corecta."),
     h1: L("Aktivierungsenergie sinkt.", "Activation energy drops.", "Az aktivációs energia csökken.", "Energia de activare scade."),
     h2: L("Der Katalysator bleibt erhalten.", "The catalyst remains unchanged.", "A katalizátor megmarad.", "Catalizatorul ramane neschimbat."),
-    svg: { type: "simple-icon", icon: "⚙️", title: "Catalyst", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "catalysts_intro",
     interactive: {
       type: "gap-fill",
@@ -598,7 +598,7 @@ const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Ionen.", "Sort the ions.", "Rendezd az ionokat.", "Sorteaza ionii."),
     h1: L("Positive und negative Ionen.", "Positive and negative ions.", "Pozitív és negatív ionok.", "Ioni pozitivi si negativi."),
     h2: L("Salzlösung enthält viele Ionen.", "Salt solution contains many ions.", "A sós oldat sok iont tartalmaz.", "Solutia salina contine multi ioni."),
-    svg: { type: "simple-icon", icon: "🧂", title: "Ions", bg: "#EFF6FF", color: "#2563EB" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "ions_in_solution",
     interactive: {
       type: "physics-bucket",
@@ -626,7 +626,7 @@ const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
     inst: L("Paare Begriff und Wirkung.", "Match term and effect.", "Párosítsd a fogalmat és a hatást.", "Potriveste termenul cu efectul."),
     h1: L("Strom hilft beim Zerlegen.", "Electricity helps break things apart.", "Az áram segít a bontásban.", "Curentul ajuta la descompunere."),
     h2: L("Anode und Kathode gehören dazu.", "Anode and cathode belong here.", "Az anód és katód ide tartozik.", "Anodul si catodul apartin aici."),
-    svg: { type: "simple-icon", icon: "⚡", title: "Electrolysis", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "electrolysis_intro",
     interactive: {
       type: "physics-magnet",
@@ -650,7 +650,7 @@ const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
     inst: L("Ordne den Ablauf.", "Order the process.", "Rendezd a folyamatot.", "Ordoneaza procesul."),
     h1: L("Erst Strom, dann Bewegung der Ionen.", "First current, then ion movement.", "Előbb áram, aztán ionmozgás.", "Mai intai curent, apoi miscare de ioni."),
     h2: L("Danach entstehen neue Stoffe.", "Then new substances appear.", "Ezután új anyagok keletkeznek.", "Apoi apar substante noi."),
-    svg: { type: "simple-icon", icon: "🧲", title: "Electrodes", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "electrodes_intro",
     interactive: {
       type: "physics-stacker",
@@ -670,7 +670,7 @@ const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
     inst: L("Triff alle Dinge mit Batterie.", "Hit all battery-powered things.", "Találd el az összes elemes eszközt.", "Loveste toate lucrurile care merg pe baterie."),
     h1: L("Batterien treiben kleine Geräte an.", "Batteries power small devices.", "Az elemek kis eszközöket működtetnek.", "Bateriile alimenteaza dispozitive mici."),
     h2: L("Nicht jedes Objekt braucht Strom.", "Not every object needs electricity.", "Nem minden tárgyhoz kell áram.", "Nu orice obiect are nevoie de curent."),
-    svg: { type: "simple-icon", icon: "🔋", title: "Batteries", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "batteries_intro",
     interactive: {
       type: "physics-slingshot",
@@ -695,7 +695,7 @@ const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
     inst: L("Wähle die richtige Ergänzung.", "Choose the correct ending.", "Válaszd ki a helyes kiegészítést.", "Alege completarea corecta."),
     h1: L("Oxidation und Reduktion gehören zusammen.", "Oxidation and reduction belong together.", "Az oxidáció és a redukció összetartozik.", "Oxidarea si reducerea merg impreuna."),
     h2: L("Elektronen wechseln den Besitzer.", "Electrons change hands.", "Az elektronok gazdát cserélnek.", "Electronii isi schimba proprietarul."),
-    svg: { type: "simple-icon", icon: "🔄", title: "Redox", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "redox_intro",
     interactive: {
       type: "gap-fill",
@@ -729,7 +729,7 @@ const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
     inst: L("Ordne die Rechenschritte.", "Order the calculation steps.", "Rendezd a számítás lépéseit.", "Ordoneaza pasii de calcul."),
     h1: L("Erst zählen, dann addieren.", "Count first, then add.", "Előbb számolj, aztán adj össze.", "Mai intai numara, apoi aduna."),
     h2: L("Die Formel hilft dir beim Rechnen.", "The formula helps you calculate.", "A képlet segít a számolásban.", "Formula te ajuta la calcul."),
-    svg: { type: "simple-icon", icon: "📐", title: "Formula Mass", bg: "#EEF2FF", color: "#4F46E5" },
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "formula_mass",
     interactive: {
       type: "physics-stacker",
@@ -749,7 +749,7 @@ const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
     inst: L("Paare den Begriff.", "Match the term.", "Párosítsd a fogalmat.", "Potriveste termenul."),
     h1: L("Mol gehört zur Stoffmenge.", "Mole belongs to amount of substance.", "A mol az anyagmennyiséghez tartozik.", "Molul apartine cantitatii de substanta."),
     h2: L("Avogadro hilft beim Zählen.", "Avogadro helps with counting.", "Avogadro segít a számolásban.", "Avogadro ajuta la numarare."),
-    svg: { type: "simple-icon", icon: "🧮", title: "Mole", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "mole_intro",
     interactive: {
       type: "physics-magnet",
@@ -773,7 +773,7 @@ const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
     inst: L("Verbinde die Rechenschritte.", "Match the calculation steps.", "Párosítsd a számítás lépéseit.", "Potriveste pasii calculului."),
     h1: L("Die Gleichung zeigt das Verhältnis.", "The equation shows the ratio.", "Az egyenlet mutatja az arányt.", "Ecuatia arata raportul."),
     h2: L("Koeffizienten sind wichtig.", "Coefficients matter.", "A koefficiensek fontosak.", "Coeficientii conteaza."),
-    svg: { type: "simple-icon", icon: "⚖️", title: "Stoichiometry", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "simple_stoichiometry",
     interactive: {
       type: "physics-magnet",
@@ -797,7 +797,7 @@ const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
     inst: L("Triff die richtigen Aussagen.", "Hit the correct statements.", "Találd el a helyes állításokat.", "Loveste afirmatiile corecte."),
     h1: L("Reale und theoretische Ausbeute sind nicht immer gleich.", "Actual and theoretical yield are not always the same.", "A valós és az elméleti kihozatal nem mindig azonos.", "Randamentul real si cel teoretic nu sunt mereu egale."),
     h2: L("Prozent hilft beim Vergleichen.", "Percent helps compare.", "A százalék segít az összehasonlításban.", "Procentul ajuta la comparatie."),
-    svg: { type: "simple-icon", icon: "📦", title: "Yield", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "yield_intro",
     interactive: {
       type: "physics-slingshot",
@@ -822,7 +822,7 @@ const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
     inst: L("Wähle die richtige Formelidee.", "Choose the correct formula idea.", "Válaszd ki a helyes képletgondolatot.", "Alege ideea corecta a formulei."),
     h1: L("Stoffmenge geteilt durch Volumen.", "Amount of substance divided by volume.", "Anyagmennyiség osztva térfogattal.", "Cantitatea de substanta impartita la volum."),
     h2: L("Mehr Stoff in gleichem Raum ist konzentrierter.", "More substance in the same space means higher concentration.", "Több anyag ugyanabban a térben nagyobb koncentráció.", "Mai multa substanta in acelasi spatiu inseamna concentratie mai mare."),
-    svg: { type: "simple-icon", icon: "🧪", title: "Concentration", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "concentration_calc",
     interactive: {
       type: "gap-fill",
@@ -856,7 +856,7 @@ const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Stoffe.", "Sort the substances.", "Rendezd az anyagokat.", "Sorteaza substantele."),
     h1: L("N, P und K sind typische Nährstoffe.", "N, P, and K are typical nutrients.", "Az N, P és K jellemző tápanyagok.", "N, P si K sunt nutrienti tipici."),
     h2: L("Nicht alles im Boden ist Dünger.", "Not everything in soil is fertilizer.", "Nem minden talajanyagot nevezünk műtrágyának.", "Nu tot ce e in sol este ingrasamant."),
-    svg: { type: "simple-icon", icon: "🌱", title: "Fertilizers", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "fertilizers_intro",
     interactive: {
       type: "physics-bucket",
@@ -881,10 +881,10 @@ const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
       "A szappanok és mosószerek segítenek eltávolítani a zsírt és a szennyeződést.",
       "Sapunurile si detergentii ajuta la indepartarea grasimii si murdariei."
     ),
-    inst: L("Paare Stoff und Wirkung.", "Match substance and effect.", "Párosítsd az anyagot és a hatást.", "Potriveste substanta si efectul."),
+    inst: L("Paare Stoff and Wirkung.", "Match substance and effect.", "Párosítsd az anyagot és a hatást.", "Potriveste substanta si efectul."),
     h1: L("Tenside verbinden Fett und Wasser.", "Surfactants connect fat and water.", "A tenzidek összekötik a zsiradékot és a vizet.", "Tensidele leaga grasimea si apa."),
     h2: L("Hartes Wasser macht oft Kalk.", "Hard water often makes limescale.", "A kemény víz gyakran vízkövet okoz.", "Apa dura produce adesea depuneri de calcar."),
-    svg: { type: "simple-icon", icon: "🫧", title: "Cleaning", bg: "#FFF7ED", color: "#EA580C" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "soaps_detergents",
     interactive: {
       type: "physics-magnet",
@@ -908,7 +908,7 @@ const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Lebensmittel.", "Sort the foods.", "Rendezd az élelmiszereket.", "Sorteaza alimentele."),
     h1: L("Frisch und verarbeitet gehören nicht zusammen.", "Fresh and processed are not the same.", "A friss és a feldolgozott nem ugyanaz.", "Proaspete si procesate nu sunt la fel."),
     h2: L("Chemie steckt auch im Essen.", "Chemistry is also in food.", "A kémia az ételben is jelen van.", "Chimia este prezenta si in mancare."),
-    svg: { type: "simple-icon", icon: "🍎", title: "Food", bg: "#FDF2F8", color: "#DB2777" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "food_chemistry",
     interactive: {
       type: "physics-bucket",
@@ -936,7 +936,7 @@ const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
     inst: L("Triff die grüne Idee.", "Hit the green idea.", "Találd el a zöld gondolatot.", "Loveste ideea verde."),
     h1: L("Weniger Abfall ist besser.", "Less waste is better.", "A kevesebb hulladék jobb.", "Mai putine deseuri este mai bine."),
     h2: L("Sauberer arbeiten schont die Umwelt.", "Cleaner work protects the environment.", "A tisztább munka védi a környezetet.", "Lucrul mai curat protejeaza mediul."),
-    svg: { type: "simple-icon", icon: "🌍", title: "Green Chemistry", bg: "#ECFDF5", color: "#059669" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "green_chemistry_intro",
     interactive: {
       type: "physics-slingshot",
@@ -961,7 +961,7 @@ const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
     inst: L("Wähle die passende Ergänzung.", "Choose the correct ending.", "Válaszd ki a helyes kiegészítést.", "Alege completarea corecta."),
     h1: L("Sauberes Wasser ist das Ziel.", "Clean water is the goal.", "A tiszta víz a cél.", "Apa curata este obiectivul."),
     h2: L("Reinigung schont Mensch und Natur.", "Cleaning protects people and nature.", "A tisztítás az embert és a természetet védi.", "Curatarea protejeaza oamenii si natura."),
-    svg: { type: "simple-icon", icon: "🚰", title: "Water", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "wastewater_treatment",
     interactive: {
       type: "gap-fill",
@@ -995,7 +995,7 @@ const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Beispiele.", "Sort the examples.", "Rendezd a példákat.", "Sorteaza exemplele."),
     h1: L("Nur C und H ist ein guter Hinweis.", "Only C and H is a good clue.", "A C és H jó nyom.", "Doar C si H este un indiciu bun."),
     h2: L("Nicht jeder Stoff gehört zur organischen Chemie.", "Not every substance is organic chemistry.", "Nem minden anyag szerves kémia.", "Nu orice substanta este chimie organica."),
-    svg: { type: "simple-icon", icon: "🧬", title: "Review", bg: "#FEE2E2", color: "#DC2626" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "carbon_special",
     interactive: {
       type: "physics-bucket",
@@ -1023,7 +1023,7 @@ const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
     inst: L("Paare die Stoffklasse.", "Match the class.", "Párosítsd az osztályt.", "Potriveste clasa."),
     h1: L("Einfachbindung oder Doppelbindung?", "Single bond or double bond?", "Egyszeres vagy kettős kötés?", "Legatura simpla sau dubla?"),
     h2: L("Das ist der wichtigste Unterschied.", "That is the key difference.", "Ez a legfontosabb különbség.", "Aceasta este diferenta cheie."),
-    svg: { type: "simple-icon", icon: "⛓️", title: "Hydrocarbons", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "alkenes_intro",
     interactive: {
       type: "physics-magnet",
@@ -1047,7 +1047,7 @@ const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
     inst: L("Ordne die Gruppe.", "Order the group.", "Rendezd a csoportot.", "Ordoneaza grupul."),
     h1: L("Vom Alkohol zur Säure.", "From alcohol to acid.", "Az alkoholtól a savig.", "De la alcool la acid."),
     h2: L("Dann entsteht der Ester.", "Then the ester forms.", "Ezután keletkezik az észter.", "Apoi se formaza esterul."),
-    svg: { type: "simple-icon", icon: "🧪", title: "Groups", bg: "#FFF7ED", color: "#EA580C" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "esters_intro",
     interactive: {
       type: "physics-stacker",
@@ -1067,7 +1067,7 @@ const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
     inst: L("Triff die richtigen Beispiele.", "Hit the correct examples.", "Találd el a helyes példákat.", "Loveste exemplele corecte."),
     h1: L("Kunststoff ist oft ein Polymer.", "Plastic is often a polymer.", "A műanyag gyakran polimer.", "Plasticul este adesea un polimer."),
     h2: L("Brennstoffe geben Energie frei.", "Fuels release energy.", "A tüzelőanyagok energiát adnak le.", "Combustibilii elibereaza energie."),
-    svg: { type: "simple-icon", icon: "♻️", title: "Review", bg: "#EEF2FF", color: "#4F46E5" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "fuels_organic",
     interactive: {
       type: "physics-slingshot",
@@ -1092,7 +1092,7 @@ const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
     inst: L("Fülle die Lücke.", "Fill the gap.", "Töltsd ki a hiányt.", "Completeaza spatiul gol."),
     h1: L("C und H sind entscheidend.", "C and H matter.", "A C és H a lényeg.", "C si H conteaza."),
     h2: L("Die Reaktion am Ende bleibt gleich.", "The final reaction stays the same.", "A végső reakció ugyanaz marad.", "Reactia finala ramane aceeasi."),
-    svg: { type: "simple-icon", icon: "🧬", title: "Summary", bg: "#FEE2E2", color: "#B91C1C" },
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
     quiz: "hydrocarbons_intro",
     interactive: {
       type: "gap-fill",
@@ -1126,7 +1126,7 @@ const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Faktoren.", "Sort the factors.", "Rendezd a tényezőket.", "Sorteaza factorii."),
     h1: L("Wärme und Oberfläche helfen oft.", "Heat and surface area often help.", "A meleg és a felület gyakran segít.", "Caldura si suprafata ajuta adesea."),
     h2: L("Kalt und wenig Teilchen bremsen.", "Cold and few particles slow things down.", "A hideg és kevés részecske lassít.", "Recele si putine particule incetinesc."),
-    svg: { type: "simple-icon", icon: "🏃", title: "Rate Review", bg: "#ECFDF5", color: "#059669" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "reaction_rate_intro",
     interactive: {
       type: "physics-bucket",
@@ -1154,7 +1154,7 @@ const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
     inst: L("Paare Faktor und Wirkung.", "Match factor and effect.", "Párosítsd a tényezőt és a hatást.", "Potriveste factorul si efectul."),
     h1: L("Mehr Kontakt bringt mehr Reaktion.", "More contact means more reaction.", "Több érintkezés több reakciót jelent.", "Mai mult contact inseamna mai multa reactie."),
     h2: L("Katalysator ist wichtig, aber bleibt erhalten.", "Catalyst matters but remains.", "A katalizátor fontos, de megmarad.", "Catalizatorul conteaza, dar ramane."),
-    svg: { type: "simple-icon", icon: "🧊", title: "Factors", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "surface_area_effect",
     interactive: {
       type: "physics-magnet",
@@ -1178,7 +1178,7 @@ const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
     inst: L("Ordne den Ablauf.", "Order the process.", "Rendezd a folyamatot.", "Ordoneaza procesul."),
     h1: L("Erst Strom, dann Teilchenbewegung.", "First current, then particle movement.", "Előbb áram, aztán részecskemozgás.", "Mai intai curent, apoi miscare de particule."),
     h2: L("Danach entstehen Stoffe an den Elektroden.", "Then substances form at the electrodes.", "Ezután anyagok keletkeznek az elektródáknál.", "Apoi se formeaza substante la electrozi."),
-    svg: { type: "simple-icon", icon: "🔌", title: "Electrochem", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "electrolysis_intro",
     interactive: {
       type: "physics-stacker",
@@ -1198,16 +1198,16 @@ const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
     inst: L("Triff die richtigen Aussagen.", "Hit the correct statements.", "Találd el a helyes állításokat.", "Loveste afirmatiile corecte."),
     h1: L("Mol und g sind nicht das Gleiche.", "Mole and g are not the same.", "A mol és a g nem ugyanaz.", "Molul si g nu sunt acelasi lucru."),
     h2: L("Koeffizienten geben Verhältnisse an.", "Coefficients show ratios.", "A koefficiensek arányt mutatnak.", "Coeficientii arata raporturi."),
-    svg: { type: "simple-icon", icon: "⚖️", title: "Stoichiometry", bg: "#F5F3FF", color: "#7C3AED" },
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "simple_stoichiometry",
     interactive: {
       type: "physics-slingshot",
       question: L("Welche Aussagen stimmen?", "Which statements are true?", "Mely állítások igazak?", "Care afirmatii sunt adevarate?"),
       targets: [
         { id: "1", text: L("1 mol enthält sehr viele Teilchen.", "1 mole contains many particles.", "1 mol sok részecskét tartalmaz.", "1 mol contine multe particule."), isCorrect: true },
-        { id: "2", text: L("Koeffizienten sind unnötig.", "Coefficients are unnecessary.", "A koefficiensek feleslegesek.", "Coeficientii nu sunt necesari."), isCorrect: false },
-        { id: "3", text: L("Masse und Mol sind verschiedene Dinge.", "Mass and mole are different things.", "A tömeg és a mol különböző.", "Masa si molul sunt lucruri diferite."), isCorrect: true },
-        { id: "4", text: L("Reaktionsgleichungen helfen nie.", "Reaction equations never help.", "A reakcióegyenletek sosem segítenek.", "Ecuatiile de reactie nu ajuta niciodata."), isCorrect: false },
+        { id: "2", text: L("Batterien gehören zur Elektrochemie.", "Batteries belong to electrochemistry.", "Az elemek az elektrokémiához tartoznak.", "Bateriile apartin electrochimiei."), isCorrect: true },
+        { id: "3", text: L("Masse ist dasselbe wie Konzentration.", "Mass is the same as concentration.", "A tömeg ugyanaz, mint a koncentráció.", "Masa este acelasi lucru cu concentratia."), isCorrect: false },
+        { id: "4", text: L("Katalysatoren verbraucht man immer.", "Catalysts are always consumed.", "A katalizátorokat mindig elhasználjuk.", "Catalizatorii sunt mereu consumati."), isCorrect: false },
       ],
     },
   },
@@ -1223,7 +1223,7 @@ const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
     inst: L("Fülle die Lücke.", "Fill the gap.", "Töltsd ki a hiányt.", "Completeaza spatiul gol."),
     h1: L("Stoffmenge pro Volumen.", "Amount of substance per volume.", "Anyagmennyiség térfogatonként.", "Cantitate de substanta pe volum."),
     h2: L("Der Begriff passt in die Formel.", "The term fits the formula.", "A fogalom illik a képletbe.", "Termenul se potriveste formulei."),
-    svg: { type: "simple-icon", icon: "🧾", title: "Review", bg: "#FFF7ED", color: "#C2410C" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "concentration_calc",
     interactive: {
       type: "gap-fill",
@@ -1257,7 +1257,7 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
     inst: L("Sortiere die Beispiele.", "Sort the examples.", "Rendezd a példákat.", "Sorteaza exemplele."),
     h1: L("Erkenne die Fachrichtung.", "Recognize the topic area.", "Ismerd fel a témát.", "Recunoaste domeniul."),
     h2: L("Nicht alles ist organisch.", "Not everything is organic.", "Nem minden szerves.", "Nu totul este organic."),
-    svg: { type: "simple-icon", icon: "🧠", title: "Review", bg: "#F3F4F6", color: "#111827" },
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "carbon_special",
     interactive: {
       type: "physics-bucket",
@@ -1285,7 +1285,7 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
     inst: L("Paare die Begriffe.", "Match the terms.", "Párosítsd a fogalmakat.", "Potriveste termenii."),
     h1: L("So erkennst du den Zusammenhang.", "This helps you see the connection.", "Így látod az összefüggést.", "Asta te ajuta sa vezi legatura."),
     h2: L("Ein Begriff, ein Bild im Kopf.", "One term, one image in your head.", "Egy fogalom, egy kép a fejedben.", "Un termen, o imagine in minte."),
-    svg: { type: "simple-icon", icon: "🔗", title: "Links", bg: "#E0F2FE", color: "#0284C7" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "hydrocarbons_intro",
     interactive: {
       type: "physics-magnet",
@@ -1309,7 +1309,7 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
     inst: L("Ordne den Ablauf.", "Order the process.", "Rendezd a folyamatot.", "Ordoneaza procesul."),
     h1: L("Erst denken, dann rechnen.", "Think first, then calculate.", "Előbb gondolkodj, aztán számolj.", "Mai intai gandeste, apoi calculeaza."),
     h2: L("Das ist ein gutes Lernmuster.", "This is a good learning pattern.", "Ez jó tanulási minta.", "Acesta este un model bun de invatare."),
-    svg: { type: "simple-icon", icon: "🧩", title: "Sequence", bg: "#F0FDF4", color: "#16A34A" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "electrolysis_intro",
     interactive: {
       type: "physics-stacker",
@@ -1329,7 +1329,7 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
     inst: L("Triff die richtigen Aussagen.", "Hit the correct statements.", "Találd el a helyes állításokat.", "Loveste afirmatiile corecte."),
     h1: L("Koeffizienten sind wichtig.", "Coefficients matter.", "A koefficiensek fontosak.", "Coeficientii conteaza."),
     h2: L("Teilchenzahl und Mol gehören zusammen.", "Particle count and mole belong together.", "A részecskeszám és a mol összetartozik.", "Numarul de particule si molul merg impreuna."),
-    svg: { type: "simple-icon", icon: "🎯", title: "Targets", bg: "#FEF3C7", color: "#D97706" },
+    svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "simple_stoichiometry",
     interactive: {
       type: "physics-slingshot",
@@ -1347,14 +1347,14 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
     title: L("Abschluss-Lücke", "Final Gap", "Záró hiány", "Lacuna finala"),
     text: L(
       "Zum Schluss kommt noch einmal ein kurzer Gesamtblick.",
-      "At the end, there is one more short overview.",
+      "Ated the end, there is one more short overview.",
       "A végén még egy rövid összefoglaló jön.",
       "La final vine inca o scurta privire de ansamblu."
     ),
     inst: L("Fülle die Lücke.", "Fill the gap.", "Töltsd ki a hiányt.", "Completeaza spatiul gol."),
     h1: L("Chemie verbindet Alltag und Zahlen.", "Chemistry connects daily life and numbers.", "A kémia összeköti a hétköznapokat és a számokat.", "Chimia leaga viata de zi cu zi si numerele."),
     h2: L("Das Beste passt in einen Satz.", "The best answer fits in one sentence.", "A legjobb válasz egy mondatba fér.", "Cel mai bun raspuns incape intr-o propozitie."),
-    svg: { type: "simple-icon", icon: "🏁", title: "Final", bg: "#FEE2E2", color: "#B91C1C" },
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
     quiz: "concentration_calc",
     interactive: {
       type: "gap-fill",
@@ -1376,38 +1376,6 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
 ];
 
 const I1 = buildIsland(L("Organische Grundlagen", "Organic Basics", "Szerves alapok", "Bazele organice"), KEMIA_K8_I1_TOPICS);
-const I2 = buildIsland(L("Stoffklassen", "Functional Groups", "Funkciós csoportok", "Grupe functionale"), KEMIA_K8_I2_TOPICS);
-const I3 = buildIsland(L("Reaktionsgeschwindigkeit", "Reaction Rates", "Reakciósebesség", "Viteza reactiei"), KEMIA_K8_I3_TOPICS);
-const I4 = buildIsland(L("Elektrochemie", "Electrochemistry", "Elektrokémia", "Electrochimie"), KEMIA_K8_I4_TOPICS);
-const I5 = buildIsland(L("Berechnungen", "Calculations", "Számolások", "Calcule"), KEMIA_K8_I5_TOPICS);
-const I6 = buildIsland(L("Chemie im Alltag", "Chemistry in Daily Life", "Kémia a mindennapokban", "Chimie in viata de zi cu zi"), KEMIA_K8_I6_TOPICS);
-const I7 = buildIsland(L("Organik Wiederholung", "Organic Review", "Szerves ismétlés", "Recapitulare organica"), KEMIA_K8_I7_TOPICS);
-const I8 = buildIsland(L("Tempo und Strom", "Rates and Electricity", "Sebesség és áram", "Viteza si curent"), KEMIA_K8_I8_TOPICS);
-const I9 = buildIsland(L("Jahreswiederholung", "Final Review", "Év végi ismétlés", "Recapitulare finala"), KEMIA_K8_I9_TOPICS);
-
-export const KEMIA_K8_I1_LABELS = I1.labels;
-export const KEMIA_K8_I1_POOL = I1.pool;
-
-export const KEMIA_K8_I2_LABELS = I2.labels;
-export const KEMIA_K8_I2_POOL = I2.pool;
-
-export const KEMIA_K8_I3_LABELS = I3.labels;
-export const KEMIA_K8_I3_POOL = I3.pool;
-
-export const KEMIA_K8_I4_LABELS = I4.labels;
-export const KEMIA_K8_I4_POOL = I4.pool;
-
-export const KEMIA_K8_I5_LABELS = I5.labels;
-export const KEMIA_K8_I5_POOL = I5.pool;
-
-export const KEMIA_K8_I6_LABELS = I6.labels;
-export const KEMIA_K8_I6_POOL = I6.pool;
-
-export const KEMIA_K8_I7_LABELS = I7.labels;
-export const KEMIA_K8_I7_POOL = I7.pool;
-
-export const KEMIA_K8_I8_LABELS = I8.labels;
-export const KEMIA_K8_I8_POOL = I8.pool;
-
+...
 export const KEMIA_K8_I9_LABELS = I9.labels;
 export const KEMIA_K8_I9_POOL = I9.pool;
