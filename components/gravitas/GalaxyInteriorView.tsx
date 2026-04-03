@@ -323,7 +323,7 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
           <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_18%_18%,rgba(56,189,248,0.08),transparent_20%),radial-gradient(circle_at_76%_24%,rgba(168,85,247,0.08),transparent_18%),radial-gradient(circle_at_52%_68%,rgba(15,23,42,0.38),transparent_36%)]" />
           {GALAXY_DECOR_LAYERS.map((layer) => (<img key={layer.id} src={layer.src} alt="" draggable={false} className={layer.className} />))}
           {galaxyNodes.map((node) => (
-            <motion.button key={node.id} type="button" onClick={() => handleNodeSelect(node.id)} className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70" style={getGalaxyNodeAnchorStyle(node.position, GALAXY_RENDER_WORLD_SIZE, renderOffset)} animate={node.motion} transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}>
+            <motion.button key={node.id} type="button" onClick={() => handleNodeSelect(node.id)} className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70" style={getGalaxyNodeAnchorStyle(node.position, GALAXY_RENDER_WORLD_SIZE, renderOffset)} animate={node.motion as any} transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}>
               {!isLiteMode && (
                 <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[132px] w-[132px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10 bg-black/10 blur-[0.5px]" animate={{ scale: [0.95, 1.03, 0.96], opacity: [0.16, 0.24, 0.16] }} transition={{ duration: 4.6 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
               )}
@@ -350,7 +350,7 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
               {isFocusedMissionVisible && activeMissionRouteLine && <div className="pointer-events-none absolute z-[9] h-[2px] rounded-full bg-[linear-gradient(90deg,rgba(34,211,238,0.06),rgba(34,211,238,0.9),rgba(34,211,238,0.08))] shadow-[0_0_12px_rgba(34,211,238,0.28)]" style={getGalaxyLinkStyle(activeMissionRouteLine.from, activeMissionRouteLine.to, renderOffset)} />}
                 <motion.button type="button" onClick={() => {
                   if (suppressNextNodeClickRef.current) return;
-                  setFocusedDroneNodeId((current) => (current === activeMission.targetNodeId ? null : activeMission.targetNodeId));
+                  setFocusedDroneNodeId((current) => (current === activeMission?.targetNodeId ? null : activeMission?.targetNodeId ?? null));
                 }} className="absolute z-[14] flex h-10 w-10 items-center justify-center rounded-full border border-cyan-300/26 bg-[#07111d]/80 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.24)] backdrop-blur-md transition hover:scale-[1.04] hover:bg-[#0c1728]/90" style={{ left: `${activeMissionMarkerPosition.x + renderOffset.x}px`, top: `${activeMissionMarkerPosition.y + renderOffset.y}px`, transform: "translate(-50%, -50%)" }} animate={{ scale: activeMissionStatus?.status === "traveling" ? [0.96, 1.06, 0.96] : [1, 1.06, 1], opacity: [0.88, 1, 0.88] }} transition={{ duration: activeMissionStatus?.status === "traveling" ? 1.4 : 1.8, repeat: Infinity, ease: "easeInOut" }} aria-label="Drone">
                 <Rocket size={16} />
               </motion.button>

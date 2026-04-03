@@ -250,6 +250,7 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
     cardOffset: { x: 126, y: -28 },
     motion: { x: [0, 4, -4, 0], y: [0, -5, 3, 0], rotate: [-1.5, 0.45, -0.55, -1.5] },
     motionDuration: 28,
+    toneClassName: VARIANT_TONE_CLASS.ember,
   },
   {
     id: "fortified-relay",
@@ -276,6 +277,7 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
     cardOffset: { x: 120, y: -26 },
     motion: { x: [0, 3, -2, 0], y: [0, -4, 2, 0], rotate: [-1.1, 0.35, -0.35, -1.1] },
     motionDuration: 32,
+    toneClassName: VARIANT_TONE_CLASS.rift,
   },
 ];
 

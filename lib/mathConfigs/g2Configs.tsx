@@ -1,6 +1,44 @@
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
 import * as MathSvgs from "@/app/astromath/svg/MathSvg";
 
+// Stub SVG components for g2 topics that don't have dedicated SVGs yet
+const CarrySvg = ({ a: _a, b: _b, lang: _lang }: { a?: number; b?: number; lang?: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#fef9c3" stroke="#fde047" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">➕</text>
+  </svg>
+);
+const BorrowSvg = ({ a: _a, b: _b, lang: _lang }: { a?: number; b?: number; lang?: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#fce7f3" stroke="#f9a8d4" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">➖</text>
+  </svg>
+);
+const OverviewSvg = ({ lang: _lang }: { lang?: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#f0fdf4" stroke="#86efac" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">📋</text>
+  </svg>
+);
+const ColumnSvg = ({ a: _a, b: _b, op: _op, lang: _lang }: { a?: number; b?: number; op?: string; lang?: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#eff6ff" stroke="#93c5fd" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">🔢</text>
+  </svg>
+);
+const SubColSvg = ({ a: _a, b: _b, lang: _lang }: { a?: number; b?: number; lang?: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#fdf2f8" stroke="#e879f9" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">🔢</text>
+  </svg>
+);
+const MissingNumSvg = ({ a: _a, b: _b, result: _result, op: _op }: { a?: number; b?: number; result?: number; op?: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#fafaf9" stroke="#a8a29e" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">❓</text>
+  </svg>
+);
+
 // ─── CARRYBORROWEXPLORER CONFIG ───
 
 const CARRYBORROWEXPLORER_LABELS: Record<string, Record<string, string>> = {
@@ -202,7 +240,7 @@ const CARRYBORROWEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const CARRYBORROWEXPLORER_TOPICS: TopicDef[] = [] = [
+const CARRYBORROWEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -466,7 +504,7 @@ const COLUMNADDSUBEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const COLUMNADDSUBEXPLORER_TOPICS: TopicDef[] = [] = [
+const COLUMNADDSUBEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -720,7 +758,7 @@ const DIVISIONINTROEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const DIVISIONINTROEXPLORER_TOPICS: TopicDef[] = [] = [
+const DIVISIONINTROEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -940,7 +978,7 @@ const G2MEASUREMENTEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const G2MEASUREMENTEXPLORER_TOPICS: TopicDef[] = [] = [
+const G2MEASUREMENTEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1160,7 +1198,7 @@ const MENTALMATHEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const MENTALMATHEXPLORER_TOPICS: TopicDef[] = [] = [
+const MENTALMATHEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1383,7 +1421,7 @@ const MULTIPLICATIONEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const MULTIPLICATIONEXPLORER_TOPICS: TopicDef[] = [] = [
+const MULTIPLICATIONEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1603,7 +1641,7 @@ const PLACEVALUE100EXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PLACEVALUE100EXPLORER_TOPICS: TopicDef[] = [] = [
+const PLACEVALUE100EXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",

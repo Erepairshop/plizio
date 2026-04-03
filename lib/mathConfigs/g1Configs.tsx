@@ -1,4 +1,30 @@
-import type { ExplorerDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
+import { PlaceValueSvg, SequenceSvg } from "@/app/astromath/svg/MathSvg";
+
+// Stub SVG components for g1 topics that don't have dedicated SVGs yet
+const TallyChartSvg = ({ lang: _lang }: { lang: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#f0f9ff" stroke="#93c5fd" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">📊</text>
+  </svg>
+);
+const SortingClassSvg = ({ lang: _lang }: { lang: string }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="20" width="200" height="120" rx="8" fill="#f0fdf4" stroke="#86efac" strokeWidth="2" />
+    <text x="120" y="90" textAnchor="middle" fontSize="40">🔢</text>
+  </svg>
+);
+const NumberLine1120Svg = ({ highlight: _highlight }: { highlight?: number }) => (
+  <svg viewBox="0 0 240 160" width="240" height="160">
+    <rect x="20" y="60" width="200" height="4" rx="2" fill="#93c5fd" />
+    {[11,12,13,14,15,16,17,18,19,20].map((n, i) => (
+      <g key={n} transform={`translate(${20 + i * 20}, 0)`}>
+        <rect x="0" y="56" width="2" height="12" fill="#1e40af" />
+        <text x="1" y="84" textAnchor="middle" fontSize="8" fill="#1e40af">{n}</text>
+      </g>
+    ))}
+  </svg>
+);
 
 export const G1_COUNTING_DEF: ExplorerDef = {
   labels: {}, // Data will be migrated here
@@ -230,7 +256,7 @@ const PATTERNEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PATTERNEXPLORER_TOPICS: TopicDef[] = [] = [
+const PATTERNEXPLORER_TOPICS: TopicDef[] = [
   // Topic 1: Reading data from tables (tally charts)
   {
     infoTitle: "t1_title",
@@ -258,7 +284,7 @@ const PATTERNEXPLORER_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang) => <SequenceSvg lang={lang} />,
+    svg: (_lang) => <SequenceSvg />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -502,7 +528,7 @@ const PLACEVALUE20EXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PLACEVALUE20EXPLORER_TOPICS: TopicDef[] = [] = [
+const PLACEVALUE20EXPLORER_TOPICS: TopicDef[] = [
   // Topic 1: Numbers 11-20
   {
     infoTitle: "t1_title",
@@ -532,7 +558,7 @@ const PLACEVALUE20EXPLORER_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang) => <PlaceValueSvg ones={4} label="14" lang={lang} />,
+    svg: (_lang) => <PlaceValueSvg ones={4} />,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -556,7 +582,7 @@ const PLACEVALUE20EXPLORER_TOPICS: TopicDef[] = [] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: (lang) => <SequenceSvg lang={lang} />,
+    svg: (_lang) => <SequenceSvg />,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -723,7 +749,7 @@ const ADDSUBEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const ADDSUBEXPLORER_TOPICS: TopicDef[] = [] = [
+const ADDSUBEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -936,7 +962,7 @@ const CLOCKCOINSEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const CLOCKCOINSEXPLORER_TOPICS: TopicDef[] = [] = [
+const CLOCKCOINSEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1150,7 +1176,7 @@ const COUNTINGEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const COUNTINGEXPLORER_TOPICS: TopicDef[] = [] = [
+const COUNTINGEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1368,7 +1394,7 @@ const DOUBLEHALFEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const DOUBLEHALFEXPLORER_TOPICS: TopicDef[] = [] = [
+const DOUBLEHALFEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1581,7 +1607,7 @@ const SHAPESEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const SHAPESEXPLORER_TOPICS: TopicDef[] = [] = [
+const SHAPESEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -1830,7 +1856,7 @@ const SUBTRACTIONEXPLORER_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const SUBTRACTIONEXPLORER_TOPICS: TopicDef[] = [] = [
+const SUBTRACTIONEXPLORER_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",

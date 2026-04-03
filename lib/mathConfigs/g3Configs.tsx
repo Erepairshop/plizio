@@ -138,7 +138,7 @@ const DIVISIONEXPLORER3_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const DIVISIONEXPLORER3_TOPICS: TopicDef[] = [] = [
+const DIVISIONEXPLORER3_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
@@ -349,7 +349,7 @@ const PLACEVALUEEXPLORER3_LABELS: Record<string, Record<string, string>> = {
   },
 };
 
-const PLACEVALUEEXPLORER3_TOPICS: TopicDef[] = [] = [
+const PLACEVALUEEXPLORER3_TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",

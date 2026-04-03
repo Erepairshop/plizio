@@ -14,7 +14,7 @@ interface TopicSpec {
   bullet2?: L4;
   labels?: Record<string, L4>;
   svg: SvgConfig;
-  interactive: (k: (suffix: string) => string) => TopicInteractive;
+  interactive: (k: (suffix: string) => string) => any;
   quiz: string;
   difficulty?: "easy" | "medium" | "hard";
 }
