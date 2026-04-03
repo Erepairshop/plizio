@@ -153,7 +153,7 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       infoTitle: "area_title",
       infoText: "area_teach",
-      svg: { type: "math-diagram", name: "GeometrySvg" },
+      svg: () => null,
       bulletKeys: ["area_hint_1", "area_hint_2", "area_hint_3"],
       interactive: {
         type: "block-drag",
@@ -174,7 +174,7 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       infoTitle: "perim_title",
       infoText: "perim_teach",
-      svg: { type: "math-diagram", name: "PerimeterSvg", props: { w: 7, h: 5 } },
+      svg: () => null,
       bulletKeys: ["perim_hint_1", "perim_hint_2", "perim_hint_3"],
       interactive: {
         type: "number-line",
@@ -196,7 +196,7 @@ const EXPLORER_DEF: ExplorerDef = {
     {
       infoTitle: "shapes_title",
       infoText: "shapes_teach",
-      svg: { type: "math-diagram", name: "BasicShapesSvg" },
+      svg: () => null,
       bulletKeys: ["shapes_hint_1", "shapes_hint_2", "shapes_hint_3"],
       interactive: {
         type: "block-drag",

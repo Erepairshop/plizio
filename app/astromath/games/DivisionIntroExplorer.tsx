@@ -185,7 +185,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "SharingSvg", props: { total: 12, people: 3, emoji: "🍪" } },
+    svg: () => null,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -202,12 +202,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_24", "t1_q_16", "t1_q_4", "t1_q_5"],
       answer: "t1_q_5",
     },
-    quizSvg: { type: "math-diagram", name: "SharingSvg", props: { total: 20, people: 4, emoji: "🍪" } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "DivNLSvg", props: { total: 15, step: 3, max: 15 } },
+    svg: () => null,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -227,12 +227,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_8", "t2_q_48", "t2_q_6", "t2_q_3"],
       answer: "t2_q_3",
     },
-    quizSvg: { type: "math-diagram", name: "DivNLSvg", props: { total: 12, step: 4, max: 12 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "DivMulSvg", props: { a: 4, b: 3 } },
+    svg: () => null,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -252,7 +252,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_15", "t3_q_21", "t3_q_9", "t3_q_6"],
       answer: "t3_q_6",
     },
-    quizSvg: { type: "math-diagram", name: "DivMulSvg", props: { a: 6, b: 3 } },
+    quizSvg: () => null,
   },
 ];
 
