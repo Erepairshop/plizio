@@ -1,4 +1,4 @@
-import { GALAXY_WORLD_SIZE } from "./constants";
+import { GALAXY_WORLD_SIZE, METEOR_MATERIAL_ORDER } from "./constants";
 import { findGalaxySpawnPosition } from "./placement";
 import type { GalaxyDecorLayer, GalaxyNode, GalaxyNodeDetail, GalaxyWorldPosition } from "./types";
 
@@ -19,6 +19,7 @@ type MeteorVariantDefinition = {
   cardOffset: { x: number; y: number };
   motion: GalaxyNode["motion"];
   motionDuration: number;
+  toneClassName: string;
 };
 
 type EncounterVariantDefinition = {
@@ -36,6 +37,17 @@ type EncounterVariantDefinition = {
   cardOffset: { x: number; y: number };
   motion: GalaxyNode["motion"];
   motionDuration: number;
+  toneClassName: string;
+};
+
+const VARIANT_TONE_CLASS: Record<string, string> = {
+  aether: "drop-shadow-[0_0_24px_rgba(34,211,238,0.32)] brightness-110",
+  ember: "drop-shadow-[0_0_26px_rgba(249,115,22,0.34)] brightness-105",
+  verdant: "drop-shadow-[0_0_22px_rgba(74,222,128,0.30)] brightness-110",
+  sable: "drop-shadow-[0_0_24px_rgba(148,163,184,0.28)] brightness-95",
+  lumen: "drop-shadow-[0_0_26px_rgba(167,139,250,0.32)] brightness-120",
+  rift: "drop-shadow-[0_0_28px_rgba(56,189,248,0.30)] brightness-115",
+  default: "drop-shadow-[0_0_18px_rgba(255,255,255,0.20)]",
 };
 
 const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
@@ -55,12 +67,13 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
       ro: "Zăcământ stabil de nivel mediu. Bază bună pentru viitoarele reguli comune de minerit.",
     },
     assetSrc: "/gravitas/galaxy/meteor-aether.webp",
-    assetClassName: "relative z-10 w-[74px] select-none opacity-[0.96] drop-shadow-[0_0_14px_rgba(34,211,238,0.12)] transition-transform duration-300 hover:scale-[1.04]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-cyan-300/30 bg-cyan-300/8 blur-[1px]",
+    assetClassName: "relative z-10 w-[74px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_14px_rgba(34,211,238,0.12)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-cyan-300/30 bg-cyan-300/8 blur-[2px]",
     radius: 170,
     cardOffset: { x: 92, y: -24 },
     motion: { x: [0, 6, -4, 0], y: [0, -4, 3, 0], rotate: [-3, 1.5, -1, -3] },
     motionDuration: 26,
+    toneClassName: VARIANT_TONE_CLASS.aether,
   },
   {
     id: "ember",
@@ -78,12 +91,13 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
       ro: "Câmp de fractură fierbinte. Mai bogat decât media, dar mai lent de extras complet.",
     },
     assetSrc: "/gravitas/galaxy/meteor-ember.webp",
-    assetClassName: "relative z-10 w-[78px] select-none opacity-[0.97] drop-shadow-[0_0_16px_rgba(249,115,22,0.18)] transition-transform duration-300 hover:scale-[1.04]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-amber-300/35 bg-orange-300/10 blur-[1px]",
+    assetClassName: "relative z-10 w-[78px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_16px_rgba(249,115,22,0.18)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-amber-300/35 bg-orange-300/10 blur-[2px]",
     radius: 180,
     cardOffset: { x: 92, y: -18 },
     motion: { x: [0, 4, -3, 0], y: [0, -5, 2, 0], rotate: [-2, 1.2, -0.8, -2] },
     motionDuration: 24,
+    toneClassName: VARIANT_TONE_CLASS.ember,
   },
   {
     id: "verdant",
@@ -101,12 +115,13 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
       ro: "Nod cu extracție rapidă, cu răspândire largă de cristale și vizibilitate ridicată.",
     },
     assetSrc: "/gravitas/galaxy/meteor-verdant.webp",
-    assetClassName: "relative z-10 w-[72px] select-none opacity-[0.97] drop-shadow-[0_0_14px_rgba(74,222,128,0.16)] transition-transform duration-300 hover:scale-[1.04]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-emerald-300/35 bg-emerald-300/10 blur-[1px]",
+    assetClassName: "relative z-10 w-[72px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_14px_rgba(74,222,128,0.16)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-emerald-300/35 bg-emerald-300/10 blur-[2px]",
     radius: 165,
     cardOffset: { x: 86, y: -16 },
     motion: { x: [0, 5, -2, 0], y: [0, -3, 4, 0], rotate: [-4, 1, -1.2, -4] },
     motionDuration: 27,
+    toneClassName: VARIANT_TONE_CLASS.verdant,
   },
   {
     id: "sable",
@@ -124,12 +139,13 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
       ro: "Zăcământ dens, cu masă mare. Mai greu de spart, dar cu randament mai puternic.",
     },
     assetSrc: "/gravitas/galaxy/meteor-sable.webp",
-    assetClassName: "relative z-10 w-[72px] select-none opacity-[0.97] drop-shadow-[0_0_14px_rgba(148,163,184,0.14)] transition-transform duration-300 hover:scale-[1.04]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-slate-300/28 bg-slate-300/8 blur-[1px]",
+    assetClassName: "relative z-10 w-[72px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_14px_rgba(148,163,184,0.14)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-slate-300/28 bg-slate-300/8 blur-[2px]",
     radius: 195,
     cardOffset: { x: 92, y: -22 },
     motion: { x: [0, 3, -2, 0], y: [0, -2, 2, 0], rotate: [-1.6, 0.8, -0.4, -1.6] },
     motionDuration: 29,
+    toneClassName: VARIANT_TONE_CLASS.sable,
   },
   {
     id: "lumen",
@@ -147,12 +163,13 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
       ro: "Câmp luminos ușor și instabil. Nivel mai mic, dar rapid și vizibil.",
     },
     assetSrc: "/gravitas/galaxy/meteor-lumen.webp",
-    assetClassName: "relative z-10 w-[70px] select-none opacity-[0.97] drop-shadow-[0_0_16px_rgba(167,139,250,0.18)] transition-transform duration-300 hover:scale-[1.04]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-violet-300/34 bg-violet-300/10 blur-[1px]",
+    assetClassName: "relative z-10 w-[70px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_16px_rgba(167,139,250,0.18)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-violet-300/34 bg-violet-300/10 blur-[2px]",
     radius: 160,
     cardOffset: { x: 82, y: -18 },
     motion: { x: [0, 7, -4, 0], y: [0, -4, 5, 0], rotate: [-5, 1.5, -1.4, -5] },
     motionDuration: 23,
+    toneClassName: VARIANT_TONE_CLASS.lumen,
   },
   {
     id: "rift",
@@ -170,12 +187,13 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
       ro: "Filon de final cu frecare ridicată. Rar, dar valoros strategic.",
     },
     assetSrc: "/gravitas/galaxy/meteor-rift.webp",
-    assetClassName: "relative z-10 w-[80px] select-none opacity-[0.97] drop-shadow-[0_0_16px_rgba(56,189,248,0.16)] transition-transform duration-300 hover:scale-[1.04]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-sky-300/34 bg-sky-300/10 blur-[1px]",
+    assetClassName: "relative z-10 w-[80px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_16px_rgba(56,189,248,0.16)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-sky-300/34 bg-sky-300/10 blur-[2px]",
     radius: 205,
     cardOffset: { x: 96, y: -22 },
     motion: { x: [0, 4, -5, 0], y: [0, -5, 2, 0], rotate: [-2.4, 1.2, -1, -2.4] },
     motionDuration: 28,
+    toneClassName: VARIANT_TONE_CLASS.rift,
   },
 ];
 
@@ -199,12 +217,13 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
       ro: "Nod atacabil timpuriu. Mai târziu poate deschide o simulare completă de luptă și battle report.",
     },
     assetSrc: "/gravitas/galaxy/derelict-outpost.webp",
-    assetClassName: "relative z-10 w-[118px] select-none opacity-[0.98] drop-shadow-[0_0_22px_rgba(34,211,238,0.10)] transition-transform duration-300 hover:scale-[1.035]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-cyan-300/24 bg-cyan-300/6 blur-[1px]",
+    assetClassName: "relative z-10 w-[198px] select-none opacity-100 saturate-150 contrast-125 brightness-110 drop-shadow-[0_0_34px_rgba(34,211,238,0.24)] transition-transform duration-300 hover:scale-[1.04]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-cyan-200/14 bg-cyan-200/3 blur-[2px]",
     radius: 250,
     cardOffset: { x: 118, y: -26 },
     motion: { x: [0, 5, -3, 0], y: [0, -4, 2, 0], rotate: [-1.2, 0.4, -0.5, -1.2] },
     motionDuration: 30,
+    toneClassName: "drop-shadow-[0_0_20px_rgba(34,211,238,0.16)] brightness-105",
   },
   {
     id: "raider-stronghold",
@@ -225,8 +244,8 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
       ro: "Punct de luptă agresiv. Gândit pentru logica viitoare de encounter, unde contează setupul și distribuția atributelor.",
     },
     assetSrc: "/gravitas/galaxy/raider-stronghold.webp",
-    assetClassName: "relative z-10 w-[126px] select-none opacity-[0.99] drop-shadow-[0_0_24px_rgba(249,115,22,0.16)] transition-transform duration-300 hover:scale-[1.035]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-orange-300/26 bg-orange-300/7 blur-[1px]",
+    assetClassName: "relative z-10 w-[126px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_24px_rgba(249,115,22,0.16)] transition-transform duration-300 hover:scale-[1.035]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-orange-300/26 bg-orange-300/7 blur-[2px]",
     radius: 280,
     cardOffset: { x: 126, y: -28 },
     motion: { x: [0, 4, -4, 0], y: [0, -5, 3, 0], rotate: [-1.5, 0.45, -0.55, -1.5] },
@@ -251,8 +270,8 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
       ro: "Nod objective cu risc ridicat. Mai târziu poate deveni un adevărat punct de control pentru luptă.",
     },
     assetSrc: "/gravitas/galaxy/fortified-relay.webp",
-    assetClassName: "relative z-10 w-[122px] select-none opacity-[0.99] drop-shadow-[0_0_26px_rgba(56,189,248,0.16)] transition-transform duration-300 hover:scale-[1.035]",
-    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-sky-300/28 bg-sky-300/8 blur-[1px]",
+    assetClassName: "relative z-10 w-[122px] select-none opacity-100 saturate-125 contrast-110 drop-shadow-[0_0_26px_rgba(56,189,248,0.16)] transition-transform duration-300 hover:scale-[1.035]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-sky-300/28 bg-sky-300/8 blur-[2px]",
     radius: 290,
     cardOffset: { x: 120, y: -26 },
     motion: { x: [0, 3, -2, 0], y: [0, -4, 2, 0], rotate: [-1.1, 0.35, -0.35, -1.1] },
@@ -326,15 +345,6 @@ export const METEOR_MATERIAL_META = {
   },
 } as const;
 
-export const METEOR_MATERIAL_ORDER = [
-  "lumen_dust",
-  "verdant_crystals",
-  "aether_ore",
-  "ember_shards",
-  "sable_alloy",
-  "rift_stone",
-] as const;
-
 export function getMeteorYieldPerHour(materialId: string, logisticsLevel = 1) {
   const baseYieldPerHour = MATERIAL_BASE_YIELD_PER_HOUR[materialId] ?? 50;
   const logisticsMultiplier = 1 + Math.max(0, logisticsLevel - 1) * 0.2;
@@ -352,13 +362,21 @@ export function getMeteorBaseUnitsPerRun(materialId: string, logisticsLevel = 1)
   return Math.max(8, Math.round(getMeteorYieldPerHour(materialId, logisticsLevel) * durationHours));
 }
 
+const SHOWCASE_METEOR_POSITIONS: GalaxyWorldPosition[] = [
+  { x: 260, y: 260 },
+  { x: 840, y: 260 },
+  { x: 1420, y: 260 },
+  { x: 260, y: 860 },
+  { x: 840, y: 860 },
+  { x: 1420, y: 860 },
+];
+
 const FIXED_METEOR_POSITIONS: GalaxyWorldPosition[] = [
-  { x: 1800, y: 920 }, { x: 3240, y: 840 }, { x: 4820, y: 1140 }, { x: 6420, y: 760 }, { x: 8120, y: 1280 },
-  { x: 9880, y: 900 }, { x: 11320, y: 1160 }, { x: 12840, y: 860 }, { x: 14460, y: 1320 }, { x: 16020, y: 980 },
-  { x: 2100, y: 2040 }, { x: 3780, y: 2280 }, { x: 5440, y: 1900 }, { x: 7060, y: 2180 }, { x: 8740, y: 2020 },
-  { x: 10360, y: 2320 }, { x: 11980, y: 1880 }, { x: 13660, y: 2200 }, { x: 15280, y: 1960 }, { x: 16820, y: 2260 },
-  { x: 1540, y: 3200 }, { x: 3220, y: 3480 }, { x: 4880, y: 3320 }, { x: 6520, y: 3040 }, { x: 8220, y: 3520 },
-  { x: 9960, y: 3180 }, { x: 11620, y: 3460 }, { x: 13260, y: 3100 }, { x: 14940, y: 3380 }, { x: 16580, y: 3240 },
+  { x: 3240, y: 840 }, { x: 4820, y: 1140 }, { x: 6420, y: 760 }, { x: 8120, y: 1280 }, { x: 3240, y: 1280 },
+  { x: 3780, y: 2280 }, { x: 5440, y: 1900 }, { x: 7060, y: 2180 }, { x: 8740, y: 2020 }, { x: 10360, y: 2320 },
+  { x: 11980, y: 1880 }, { x: 13660, y: 2200 }, { x: 15280, y: 1960 }, { x: 16820, y: 2260 }, { x: 1540, y: 3200 },
+  { x: 3220, y: 3480 }, { x: 4880, y: 3320 }, { x: 6520, y: 3040 }, { x: 8220, y: 3520 }, { x: 9960, y: 3180 },
+  { x: 11620, y: 3460 }, { x: 13260, y: 3100 }, { x: 14940, y: 3380 }, { x: 16580, y: 3240 },
 ];
 
 const FIXED_ENCOUNTER_POSITIONS: GalaxyWorldPosition[] = [
@@ -380,12 +398,13 @@ export const GALAXY_PLAYER_BASE_NODE: GalaxyNode = {
   position: { x: 1540, y: 1500 },
   cardOffset: { x: 128, y: -24 },
   radius: 320,
-  assetSrc: "/gravitas/galaxy/enemy-hq.webp",
+  assetSrc: "/gravitas/galaxy/gravitas-base.webp",
   assetAlt: { en: "Gravitas base", hu: "Gravitas bázis", de: "Gravitas-Basis", ro: "Baza Gravitas" },
-  assetClassName: "relative z-10 w-[128px] select-none opacity-[0.98] drop-shadow-[0_0_28px_rgba(34,211,238,0.16)] transition-transform duration-300 hover:scale-[1.03]",
-  pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-cyan-300/28 bg-cyan-300/7 blur-[1px]",
+  assetClassName: "relative z-10 w-[213px] select-none opacity-100 saturate-150 contrast-125 brightness-110 drop-shadow-[0_0_38px_rgba(34,211,238,0.28)] transition-transform duration-300 hover:scale-[1.035]",
+  pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-cyan-200/12 bg-cyan-200/2 blur-[2px]",
   motion: { x: [0, 2, -2, 0], y: [0, -3, 1, 0], rotate: [-0.6, 0.18, -0.2, -0.6] },
   motionDuration: 34,
+  toneClassName: "drop-shadow-[0_0_24px_rgba(34,211,238,0.18)] brightness-106",
   details: [
     {
       id: "status",
@@ -423,7 +442,7 @@ export const GALAXY_DECOR_LAYERS: GalaxyDecorLayer[] = [
   {
     id: "fog-nw",
     src: "/gravitas/galaxy/mythic-fog.webp",
-    className: "pointer-events-none absolute -left-[8%] top-[4%] w-[18%] min-w-[420px] select-none opacity-60 mix-blend-screen blur-[1px]",
+    className: "pointer-events-none absolute -left-[8%] top-[4%] w-[18%] min-w-[420px] select-none opacity-60 mix-blend-screen blur-[2px]",
   },
   {
     id: "signal-sw",
@@ -521,6 +540,7 @@ function createMeteorNode(variant: MeteorVariantDefinition, variantIndex: number
     pulseClassName: variant.pulseClassName,
     motion: variant.motion,
     motionDuration: variant.motionDuration,
+    toneClassName: variant.toneClassName,
     details,
     footer: variant.footer,
     mining: {
@@ -537,9 +557,20 @@ function buildMeteorField(): GalaxyNode[] {
 
   DEMO_METEOR_VARIANTS.forEach((variant, variantIndex) => {
     for (let repetitionIndex = 0; repetitionIndex < 5; repetitionIndex += 1) {
-      const positionIndex = variantIndex * 5 + repetitionIndex;
-      const preferredPosition = FIXED_METEOR_POSITIONS[positionIndex];
+      const preferredPosition =
+        repetitionIndex === 0
+          ? SHOWCASE_METEOR_POSITIONS[variantIndex]
+          : FIXED_METEOR_POSITIONS[variantIndex * 4 + (repetitionIndex - 1)];
       const draft = createMeteorNode(variant, variantIndex, repetitionIndex, preferredPosition);
+
+      if (repetitionIndex === 0) {
+        nodes.push({
+          ...draft,
+          position: preferredPosition,
+        });
+        continue;
+      }
+
       const { position: _position, ...spawnDraft } = draft;
       const validPosition = findGalaxySpawnPosition(
         spawnDraft,
@@ -607,6 +638,7 @@ function createEncounterNode(
     pulseClassName: variant.pulseClassName,
     motion: variant.motion,
     motionDuration: variant.motionDuration,
+    toneClassName: variant.toneClassName,
     details,
     footer: variant.footer,
   };

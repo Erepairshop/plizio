@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Rocket, RotateCcw, X } from "lucide-react";
-import { GALAXY_WORLD_SIZE, getGalaxyCardStyle } from "@/lib/gravitas/world";
+import { GALAXY_RENDER_WORLD_OFFSET, GALAXY_RENDER_WORLD_SIZE, getGalaxyCardStyle } from "@/lib/gravitas/world";
 import type { GalaxyNode, GalaxyNodeTone } from "@/lib/gravitas/world";
 import { formatDurationMinutes } from "@/lib/gravitas/world/mission";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
@@ -57,7 +57,7 @@ export default function GalaxyNodeCard({
       exit={{ opacity: 0, y: 12, scale: 0.98 }}
     transition={{ type: "spring", damping: 24, stiffness: 260 }}
       className="absolute z-20 w-[250px] max-w-[calc(100vw-2rem)] rounded-[20px] border border-cyan-300/18 bg-[#081120]/94 p-3 text-white shadow-[0_20px_56px_rgba(0,0,0,0.42)] backdrop-blur-md"
-      style={getGalaxyCardStyle(node, GALAXY_WORLD_SIZE)}
+      style={getGalaxyCardStyle(node, GALAXY_RENDER_WORLD_SIZE, GALAXY_RENDER_WORLD_OFFSET)}
     >
       <button type="button" onClick={onClose} className="absolute right-2.5 top-2.5 flex h-7 w-7 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/10 hover:text-white">
         <X size={12} />

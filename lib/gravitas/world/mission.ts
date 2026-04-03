@@ -30,6 +30,12 @@ export type DroneMissionState = {
 const DRONE_MISSION_STORAGE_KEY = "gravitas_galaxy_drone_mission_v1";
 const GALAXY_INVENTORY_STORAGE_KEY = "gravitas_galaxy_inventory_v1";
 const GALAXY_LIVE_PREVIEW_STORAGE_KEY = "gravitas_galaxy_live_preview_v1";
+export const GALAXY_STATE_UPDATED_EVENT = "gravitas:galaxy-state-updated";
+
+function emitGalaxyStateUpdated(): void {
+  if (typeof window === "undefined") return;
+  window.dispatchEvent(new Event(GALAXY_STATE_UPDATED_EVENT));
+}
 
 export function createDefaultGalaxyInventory(): GalaxyInventory {
   return METEOR_MATERIAL_ORDER.reduce((acc, materialId) => {
@@ -77,9 +83,11 @@ export function saveDroneMission(mission: DroneMissionState | null): void {
   try {
     if (!mission) {
       localStorage.removeItem(DRONE_MISSION_STORAGE_KEY);
+      emitGalaxyStateUpdated();
       return;
     }
     localStorage.setItem(DRONE_MISSION_STORAGE_KEY, JSON.stringify(mission));
+    emitGalaxyStateUpdated();
   } catch {
     // no-op
   }
@@ -106,6 +114,7 @@ export function saveGalaxyInventory(inventory: GalaxyInventory): void {
   if (typeof window === "undefined") return;
   try {
     localStorage.setItem(GALAXY_INVENTORY_STORAGE_KEY, JSON.stringify(inventory));
+    emitGalaxyStateUpdated();
   } catch {
     // no-op
   }
@@ -129,9 +138,11 @@ export function saveGalaxyLivePreview(preview: GalaxyLivePreview): void {
   try {
     if (!preview) {
       localStorage.removeItem(GALAXY_LIVE_PREVIEW_STORAGE_KEY);
+      emitGalaxyStateUpdated();
       return;
     }
     localStorage.setItem(GALAXY_LIVE_PREVIEW_STORAGE_KEY, JSON.stringify(preview));
+    emitGalaxyStateUpdated();
   } catch {
     // no-op
   }
