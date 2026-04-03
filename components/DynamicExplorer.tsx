@@ -33,7 +33,7 @@ import { K8_GENERATOR_MAP as GEO_K8_GENERATOR_MAP } from "@/lib/geographieCurric
 import "@/lib/geographieRegistration";
 import TopicSvgRenderer from "./TopicSvgRenderer";
 
-type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general" | "geographie";
+type ExplorerSubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general" | "geographie" | "geschichte";
 
 const BIO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_GENERATORS: Record<string, (...args: any[]) => any> = {};

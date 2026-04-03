@@ -356,7 +356,7 @@ interface Props {
   onClose?: () => void;
 }
 
-type AISubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general" | "geographie";
+type AISubject = "math" | "deutsch" | "romana" | "english" | "biologie" | "sachkunde" | "physik" | "chemie" | "magyar" | "general" | "geographie" | "geschichte";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Helpers
