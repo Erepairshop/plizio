@@ -149,7 +149,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "SharingSvg", props: { total: 12, people: 3, emoji: "🍎" } },
+    svg: () => null,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -170,7 +170,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "GroupingSvg", props: { total: 16, groupSize: 4 } },
+    svg: () => null,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -191,7 +191,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "InverseSvg", props: { a: 3, b: 4 } },
+    svg: () => null,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "block-drag",

@@ -149,7 +149,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "PlaceValueSvg", props: { tens: 3, ones: 4 } },
+    svg: () => null,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -168,12 +168,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_57", "t1_q_75", "t1_q_50", "t1_q_507"],
       answer: "t1_q_57",
     },
-    quizSvg: { type: "math-diagram", name: "PlaceValueSvg", props: { tens: 5, ones: 7 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "HundredGridSvg", props: { highlight: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100] } },
+    svg: () => null,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -197,7 +197,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "CompareSvg", props: { leftCount: 34, rightCount: 57 } },
+    svg: () => null,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",

@@ -1376,6 +1376,30 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
 ];
 
 const I1 = buildIsland(L("Organische Grundlagen", "Organic Basics", "Szerves alapok", "Bazele organice"), KEMIA_K8_I1_TOPICS);
-...
+const I2 = buildIsland(L("Alkohole & Carbonsäuren", "Alcohols & Carboxylic Acids", "Alkoholok és karbonsavak", "Alcooli și acizi carboxilici"), KEMIA_K8_I2_TOPICS);
+const I3 = buildIsland(L("Reaktionsgeschwindigkeit", "Reaction Rate", "Reakciósebesség", "Viteza reacției"), KEMIA_K8_I3_TOPICS);
+const I4 = buildIsland(L("Elektrochemie", "Electrochemistry", "Elektrokémia", "Electrochimie"), KEMIA_K8_I4_TOPICS);
+const I5 = buildIsland(L("Stöchiometrie", "Stoichiometry", "Sztöchiometria", "Stoichiometrie"), KEMIA_K8_I5_TOPICS);
+const I6 = buildIsland(L("Industrielle Chemie", "Industrial Chemistry", "Ipari kémia", "Chimie industrială"), KEMIA_K8_I6_TOPICS);
+const I7 = buildIsland(L("Organik-Check", "Organic Check", "Szerves ellenőrzés", "Verificare organică"), KEMIA_K8_I7_TOPICS);
+const I8 = buildIsland(L("Kinetik & Umwelt", "Kinetics & Environment", "Kinetika és környezet", "Cinetică și mediu"), KEMIA_K8_I8_TOPICS);
+const I9 = buildIsland(L("Großes Finale", "Grand Finale", "Nagy finálé", "Marea finală"), KEMIA_K8_I9_TOPICS);
+
+export const KEMIA_K8_I1_LABELS = I1.labels;
+export const KEMIA_K8_I1_POOL = I1.pool;
+export const KEMIA_K8_I2_LABELS = I2.labels;
+export const KEMIA_K8_I2_POOL = I2.pool;
+export const KEMIA_K8_I3_LABELS = I3.labels;
+export const KEMIA_K8_I3_POOL = I3.pool;
+export const KEMIA_K8_I4_LABELS = I4.labels;
+export const KEMIA_K8_I4_POOL = I4.pool;
+export const KEMIA_K8_I5_LABELS = I5.labels;
+export const KEMIA_K8_I5_POOL = I5.pool;
+export const KEMIA_K8_I6_LABELS = I6.labels;
+export const KEMIA_K8_I6_POOL = I6.pool;
+export const KEMIA_K8_I7_LABELS = I7.labels;
+export const KEMIA_K8_I7_POOL = I7.pool;
+export const KEMIA_K8_I8_LABELS = I8.labels;
+export const KEMIA_K8_I8_POOL = I8.pool;
 export const KEMIA_K8_I9_LABELS = I9.labels;
 export const KEMIA_K8_I9_POOL = I9.pool;

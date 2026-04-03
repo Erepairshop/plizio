@@ -2854,6 +2854,8 @@ function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void
   const [activeMission, setActiveMission] = useState<DroneMissionState | null>(() => loadSavedDroneMission());
   const [missionClock, setMissionClock] = useState(() => Date.now());
   const [focusedDroneNodeId, setFocusedDroneNodeId] = useState<string | null>(null);
+  const [galaxyInventory, setGalaxyInventory] = useState<GalaxyInventory>(loadSavedGalaxyInventory);
+  useEffect(() => { saveGalaxyInventory(galaxyInventory); }, [galaxyInventory]);
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
   const galaxyNodes = useMemo(() => GALAXY_DEMO_NODES, []);
   const placementReport = useMemo(() => validateGalaxyNodes(galaxyNodes, GALAXY_WORLD_SIZE), [galaxyNodes]);
@@ -3142,7 +3144,7 @@ function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void
               onClick={() => setSelectedNodeId(node.id)}
               className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70"
               style={getGalaxyNodeAnchorStyle(node.position, GALAXY_WORLD_SIZE)}
-              animate={node.motion}
+              animate={node.motion as any}
               transition={{
                 duration: node.motionDuration,
                 repeat: Infinity,
@@ -3249,7 +3251,7 @@ function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void
               )}
               <motion.button
                 type="button"
-                onClick={() => setFocusedDroneNodeId((current) => (current === activeMission.targetNodeId ? null : activeMission.targetNodeId))}
+                onClick={() => setFocusedDroneNodeId((current) => (current === activeMission?.targetNodeId ? null : activeMission?.targetNodeId ?? null))}
                 className="absolute z-[14] flex h-10 w-10 items-center justify-center rounded-full border border-cyan-300/26 bg-[#07111d]/80 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.24)] backdrop-blur-md transition hover:scale-[1.04] hover:bg-[#0c1728]/90"
                 style={{
                   left: `${activeMissionMarkerPosition.x}px`,
@@ -3293,10 +3295,10 @@ function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void
                           ro: `Ajunge în ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
                         })
                       : localize({
-                          en: `Finishes in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
-                          hu: `${formatDurationMinutes(activeMissionStatus.remainingMinutes)} múlva végez`,
-                          de: `Fertig in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
-                          ro: `Se termină în ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                          en: `Finishes in ${formatDurationMinutes(activeMissionStatus!.remainingMinutes)}`,
+                          hu: `${formatDurationMinutes(activeMissionStatus!.remainingMinutes)} múlva végez`,
+                          de: `Fertig in ${formatDurationMinutes(activeMissionStatus!.remainingMinutes)}`,
+                          ro: `Se termină în ${formatDurationMinutes(activeMissionStatus!.remainingMinutes)}`,
                         })}
                   </div>
                   {activeMissionStatus?.status === "mining" && (

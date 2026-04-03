@@ -149,7 +149,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "CountingSvg", props: { emoji: "🍎", count: 7 } },
+    svg: () => null,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -166,12 +166,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_5", "t1_q_6", "t1_q_7", "t1_q_8"],
       answer: "t1_q_7",
     },
-    quizSvg: { type: "math-diagram", name: "CountingSvg", props: { emoji: "⭐", count: 7 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "CompareSvg", props: { leftEmoji: "🐱", leftCount: 6, rightEmoji: "🐶", rightCount: 4 } },
+    svg: () => null,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -190,12 +190,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_cats", "t2_q_dogs", "t2_q_equal", "t2_q_idk"],
       answer: "t2_q_cats",
     },
-    quizSvg: { type: "math-diagram", name: "CompareSvg", props: { leftEmoji: "🐱", leftCount: 6, rightEmoji: "🐶", rightCount: 4 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "NumberLineSvg", props: { highlight: 5 } },
+    svg: () => null,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -214,7 +214,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_6", "t3_q_7", "t3_q_8", "t3_q_9"],
       answer: "t3_q_7",
     },
-    quizSvg: { type: "math-diagram", name: "NumberLineSvg", props: { highlight: 8 } },
+    quizSvg: () => null,
   },
 ];
 

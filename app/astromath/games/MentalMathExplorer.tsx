@@ -149,7 +149,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "AdditionSvg", props: { a: 4, b: 2 } },
+    svg: () => null,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "number-line",
@@ -169,12 +169,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_35", "t1_q_8", "t1_q_53", "t1_q_80"],
       answer: "t1_q_80",
     },
-    quizSvg: { type: "math-diagram", name: "AdditionSvg", props: { a: 3, b: 5 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "SequenceSvg", props: { start: 20, step: 10, count: 5 } },
+    svg: () => null,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -194,12 +194,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_66", "t2_q_70", "t2_q_56", "t2_q_75"],
       answer: "t2_q_75",
     },
-    quizSvg: { type: "math-diagram", name: "SequenceSvg", props: { start: 45, step: 10, count: 4 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "SubtractLineSvg", props: { start: 8, jumps: 3, max: 10 } },
+    svg: () => null,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -219,7 +219,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_94", "t3_q_40", "t3_q_5", "t3_q_50"],
       answer: "t3_q_50",
     },
-    quizSvg: { type: "math-diagram", name: "SubtractLineSvg", props: { start: 9, jumps: 4, max: 10 } },
+    quizSvg: () => null,
   },
 ];
 

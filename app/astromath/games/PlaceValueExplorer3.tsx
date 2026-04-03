@@ -149,7 +149,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: { type: "math-diagram", name: "PlaceValue3DSvg", props: { hundreds: 3, tens: 4, ones: 7 } },
+    svg: () => null,
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -166,12 +166,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_268", "t1_q_286", "t1_q_628", "t1_q_862"],
       answer: "t1_q_268",
     },
-    quizSvg: { type: "math-diagram", name: "PlaceValue3DSvg", props: { hundreds: 2, tens: 6, ones: 8 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: { type: "math-diagram", name: "PlaceValue3DSvg", props: { hundreds: 5, tens: 3, ones: 4 } },
+    svg: () => null,
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "block-drag",
@@ -188,12 +188,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_500_20", "t2_q_500_2", "t2_q_50_20", "t2_q_5_2"],
       answer: "t2_q_500_20",
     },
-    quizSvg: { type: "math-diagram", name: "PlaceValue3DSvg", props: { hundreds: 5, tens: 2, ones: 0 } },
+    quizSvg: () => null,
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: { type: "math-diagram", name: "NumberLineSvg", props: { highlight: 3, max: 10 } },
+    svg: () => null,
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -211,7 +211,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_250", "t3_q_350", "t3_q_150", "t3_q_450"],
       answer: "t3_q_350",
     },
-    quizSvg: { type: "math-diagram", name: "NumberLineSvg", props: { highlight: 7, max: 10 } },
+    quizSvg: () => null,
   },
 ];
 
