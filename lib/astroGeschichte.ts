@@ -9,7 +9,7 @@ import { getG6GeschichteQuestions } from "./geschichteCurriculum6";
 import { getG7GeschichteQuestions } from "./geschichteCurriculum7";
 import { getG8GeschichteQuestions } from "./geschichteCurriculum8";
 
-export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair };
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair, MathQuestion };
 
 // ─── Bridge: CurriculumQuestion → MathQuestion ────────────────────────────────
 export function geschichteToMathQuestion(q: CurriculumQuestion): MathQuestion {

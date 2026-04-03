@@ -849,7 +849,3 @@ export const GESCHICHTE_K8_I8_LABELS = built[7].labels;
 export const GESCHICHTE_K8_I8_POOL = built[7].pool;
 export const GESCHICHTE_K8_I9_LABELS = built[8].labels;
 export const GESCHICHTE_K8_I9_POOL = built[8].pool;
-
-export const GESCHICHTE_K8_I2_POOL = built[1].pool;
-export const GESCHICHTE_K8_I3_LABELS = built[2].labels;
-export const GESCHICHTE_K8_I3_POOL = built[2].pool;
