@@ -128,7 +128,7 @@ const K6_I1: IslandSpec = {
         shell: L("Hülle", "Shell", "héj", "înveliș"),
         electron: L("Elektron", "Electron", "elektron", "electron"),
       },
-      svg: topicSvg("⚛️", "Atom", "#EF4444"),
+      svg: { type: "kemia-diagram", name: "AtomSvg" },
       interactive: (k) => ({
         type: "label-diagram",
         areas: [
@@ -157,7 +157,7 @@ const K6_I1: IslandSpec = {
         element: L("Element", "Element", "elem", "element"),
         mixture: L("Gemisch", "Mixture", "keverék", "amestec"),
       },
-      svg: topicSvg("🧩", "Element", "#F59E0B"),
+      svg: { type: "kemia-diagram", name: "AtomSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -291,7 +291,7 @@ const K6_I2: IslandSpec = {
         mixed: L("gemischt", "mixed", "kevert", "amestecat"),
         compound: L("Verbindung", "compound", "vegyület", "compus"),
       },
-      svg: topicSvg("🔗", "Compounds", "#F59E0B"),
+      svg: { type: "kemia-diagram", name: "MoleculeSvg" },
       interactive: (k) => ({
         type: "gap-fill",
         sentence: k("joined"),
@@ -317,7 +317,7 @@ const K6_I2: IslandSpec = {
         molecules: L("Moleküle", "molecules", "molekulák", "molecule"),
         many: L("mehrere", "several", "több", "mai mulți"),
       },
-      svg: topicSvg("⚪", "Molecule", "#10B981"),
+      svg: { type: "kemia-diagram", name: "MoleculeSvg" },
       interactive: (k) => ({
         type: "tap-count",
         tapCount: { emoji: "⚪", count: 4 },
@@ -342,7 +342,7 @@ const K6_I2: IslandSpec = {
         one: L("einzeln", "single", "egyedülálló", "singur"),
         many: L("mehrere", "many", "több", "mulți"),
       },
-      svg: topicSvg("🧬", "Atom or Molecule", "#3B82F6"),
+      svg: { type: "kemia-diagram", name: "MoleculeSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -376,7 +376,7 @@ const K6_I2: IslandSpec = {
         one: L("eine Atomsorte", "one atom type", "egyféle atom", "un tip de atom"),
         many: L("mehrere Atomarten", "several atom types", "többféle atom", "mai multe tipuri de atomi"),
       },
-      svg: topicSvg("🧪", "Element vs Compound", "#EC4899"),
+      svg: { type: "kemia-diagram", name: "MoleculeSvg" },
       interactive: (k) => ({
         type: "match-pairs",
         pairs: [
@@ -404,7 +404,7 @@ const K6_I2: IslandSpec = {
         separable: L("trennbar", "separable", "szétválasztható", "separabil"),
         joined: L("verbunden", "joined", "kapcsolt", "unit"),
       },
-      svg: topicSvg("🧫", "Mixture or Compound", "#14B8A6"),
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -445,7 +445,7 @@ const K6_I3: IslandSpec = {
         before: L("vorher", "before", "előtte", "înainte"),
         after: L("nachher", "after", "utána", "după"),
       },
-      svg: topicSvg("⚗️", "Reaction", "#10B981"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "word-order",
         words: [k("before"), k("reactants"), k("after"), k("products")],
@@ -471,7 +471,7 @@ const K6_I3: IslandSpec = {
         heat: L("Wärme", "heat", "hő", "căldură"),
         light: L("Licht", "light", "fény", "lumină"),
       },
-      svg: topicSvg("🔥", "Energy", "#F97316"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "highlight-text",
         tokens: [k("release"), k("heat"), k("light"), k("need")],
@@ -497,7 +497,7 @@ const K6_I3: IslandSpec = {
         flame: L("Flamme", "flame", "láng", "flacără"),
         ash: L("Asche", "ash", "hamu", "cenușă"),
       },
-      svg: topicSvg("🔥", "Combustion", "#EF4444"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -530,7 +530,7 @@ const K6_I3: IslandSpec = {
         many: L("mehrere Stoffe", "several substances", "több anyag", "mai multe substanțe"),
         split: L("zerlegt", "breaks apart", "szétbomlik", "se descompune"),
       },
-      svg: topicSvg("🧱", "Decomposition", "#8B5CF6"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "sentence-build",
         fragments: [k("one"), k("split"), k("many")],
@@ -555,7 +555,7 @@ const K6_I3: IslandSpec = {
         arrow: L("Pfeil", "arrow", "nyíl", "săgeată"),
         equation: L("Gleichung", "equation", "egyenlet", "ecuație"),
       },
-      svg: topicSvg("➗", "Word Equations", "#3B82F6"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "gap-fill",
         sentence: k("equation"),
@@ -588,7 +588,7 @@ const K6_I4: IslandSpec = {
         vinegar: L("Essig", "vinegar", "ecet", "oțet"),
         acid: L("Säure", "acid", "sav", "acid"),
       },
-      svg: topicSvg("🍋", "Acids", "#F59E0B"),
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -621,7 +621,7 @@ const K6_I4: IslandSpec = {
         detergent: L("Waschmittel", "detergent", "mosószer", "detergent"),
         base: L("Base", "base", "bázis", "bază"),
       },
-      svg: topicSvg("🫧", "Bases", "#3B82F6"),
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -647,13 +647,13 @@ const K6_I4: IslandSpec = {
         "Az indikátorok megmutatják, hogy valami savas vagy bázikus.",
         "Indicatorii arată dacă ceva este acid sau bazic."
       ),
-      hint: L("Farbwechsel ist ein wichtiges Zeichen.", "Color change is a key clue.", "A színváltozás fontos jel.", "Schimbarea culorii este un indiciu important."),
+      hint: L("Farbwechsel ist ein important Zeichen.", "Color change is a key clue.", "A színváltozás fontos jel.", "Schimbarea culorii este un indiciu important."),
       labels: {
         color: L("Farbe", "color", "szín", "culoare"),
         acid: L("sauer", "acidic", "savas", "acid"),
         base: L("basisch", "basic", "lúgos", "bazic"),
       },
-      svg: topicSvg("🎨", "Indicators", "#EC4899"),
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
       interactive: (k) => ({
         type: "highlight-text",
         tokens: [k("acid"), k("base"), k("color")],
@@ -680,7 +680,7 @@ const K6_I4: IslandSpec = {
         neutral: L("neutral", "neutral", "semleges", "neutru"),
         base: L("basisch", "basic", "lúgos", "bazic"),
       },
-      svg: topicSvg("📏", "pH", "#8B5CF6"),
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
       interactive: (k) => ({
         type: "label-diagram",
         areas: [
@@ -709,7 +709,7 @@ const K6_I4: IslandSpec = {
         neutral: L("neutral", "neutral", "semleges", "neutru"),
         mix: L("mischen", "mix", "keverés", "amestec"),
       },
-      svg: topicSvg("⚗️", "Neutralization", "#10B981"),
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
       interactive: (k) => ({
         type: "sentence-build",
         fragments: [k("acid"), k("mix"), k("base"), k("neutral")],
@@ -740,7 +740,7 @@ const K6_I5: IslandSpec = {
         water: L("Wasser", "water", "víz", "apă"),
         salt: L("Salz", "salt", "só", "sare"),
       },
-      svg: topicSvg("💧", "Solubility", "#3B82F6"),
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -773,7 +773,7 @@ const K6_I5: IslandSpec = {
         more: L("mehr", "more", "több", "mai mult"),
         less: L("weniger", "less", "kevesebb", "mai puțin"),
       },
-      svg: topicSvg("🧴", "Concentration", "#8B5CF6"),
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
       interactive: (k) => ({
         type: "word-order",
         words: [k("less"), k("more"), k("weak"), k("strong")],
@@ -822,7 +822,7 @@ const K6_I5: IslandSpec = {
         cool: L("abkühlen", "cool", "lehűl", "se răcește"),
         separate: L("trennen", "separate", "szétválaszt", "separă"),
       },
-      svg: topicSvg("🌡️", "Distillation", "#F97316"),
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
       interactive: (k) => ({
         type: "word-order",
         words: [k("boil"), k("cool"), k("separate")],
@@ -881,7 +881,7 @@ const K6_I6: IslandSpec = {
         settle: L("absetzen", "settle", "leülepedik", "sedimentare"),
         clean: L("sauber", "clean", "tiszta", "curat"),
       },
-      svg: topicSvg("🚰", "Water", "#3B82F6"),
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -913,7 +913,7 @@ const K6_I6: IslandSpec = {
         exhaust: L("Abgas", "exhaust gas", "kipufogógáz", "gaz de eșapament"),
         cleanAir: L("saubere Luft", "clean air", "tiszta levegő", "aer curat"),
       },
-      svg: topicSvg("🌫️", "Air", "#94A3B8"),
+      svg: { type: "kemia-diagram", name: "StatesSvg" },
       interactive: (k) => ({
         type: "highlight-text",
         tokens: [k("smoke"), k("exhaust"), k("cleanAir")],
@@ -999,7 +999,7 @@ const K6_I6: IslandSpec = {
         mix: L("mischen", "mix", "keverni", "amesteca"),
         safe: L("sicher", "safe", "biztonságos", "sigur"),
       },
-      svg: topicSvg("🧤", "Safety", "#EC4899"),
+      svg: { type: "kemia-diagram", name: "LabSafetySvg" },
       interactive: (k) => ({
         type: "gap-fill",
         sentence: k("safe"),
@@ -1032,7 +1032,7 @@ const K6_I7: IslandSpec = {
         element: L("Element", "element", "elem", "element"),
         compound: L("Verbindung", "compound", "vegyület", "compus"),
       },
-      svg: topicSvg("🧱", "Structure", "#6366F1"),
+      svg: { type: "kemia-diagram", name: "AtomSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -1063,9 +1063,9 @@ const K6_I7: IslandSpec = {
       labels: {
         group: L("Gruppe", "group", "csoport", "grup"),
         atom: L("Atom", "atom", "atom", "atom"),
-        molecule: L("Molekül", "molecule", "molekulă", "moleculă"),
+        molecule: L("Molekül", "molecule", "molekula", "moleculă"),
       },
-      svg: topicSvg("🧬", "Molecules", "#14B8A6"),
+      svg: { type: "kemia-diagram", name: "MoleculeSvg" },
       interactive: (k) => ({
         type: "sentence-build",
         fragments: [k("atom"), k("group"), k("molecule")],
@@ -1089,7 +1089,7 @@ const K6_I7: IslandSpec = {
         separate: L("trennen", "separate", "szétválasztani", "separare"),
         bound: L("gebunden", "bound", "kötött", "legat"),
       },
-      svg: topicSvg("🧫", "Mixtures", "#F97316"),
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
@@ -1182,7 +1182,7 @@ const K6_I8: IslandSpec = {
         after: L("nachher", "after", "utána", "după"),
         partner: L("Partner", "partner", "partner", "partener"),
       },
-      svg: topicSvg("💥", "Reactions", "#10B981"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "word-order",
         words: [k("before"), k("partner"), k("after")],
@@ -1198,27 +1198,19 @@ const K6_I8: IslandSpec = {
       text: L(
         "Kerzen, Heizungen und Motoren nutzen Verbrennung.",
         "Candles, heaters and engines use combustion.",
-        "A gyertya, a fűtés és a motor égést használ.",
+        "A gyertyák, fűtések és motorok az égést használják.",
         "Lumânările, încălzitoarele și motoarele folosesc combustia."
       ),
-      hint: L("Brennstoff plus Sauerstoff.", "Fuel plus oxygen.", "Üzemanyag plusz oxigén.", "Combustibil plus oxigen."),
+      hint: L("Energie wird dabei oft abgegeben.", "Energy is often released in the process.", "Az energia gyakran felszabadul a folyamat során.", "Energia este adesea eliberată în proces."),
       labels: {
-        candle: L("Kerze", "candle", "gyertya", "lumânare"),
-        heater: L("Heizung", "heater", "fűtés", "încălzitor"),
+        burning: L("Verbrennung", "combustion", "égés", "combustie"),
+        energy: L("Energie", "energy", "energia", "energie"),
         engine: L("Motor", "engine", "motor", "motor"),
       },
-      svg: topicSvg("🕯️", "Combustion", "#F97316"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "burn", label: k("engine") },
-          { id: "notburn", label: k("heater") },
-        ],
-        items: [
-          { text: k("candle"), bucketId: "burn" },
-          { text: k("heater"), bucketId: "burn" },
-          { text: k("engine"), bucketId: "burn" },
-        ],
+        type: "sentence-build",
+        fragments: [k("engine"), k("burning"), k("energy")],
         instruction: k("title"),
         hint1: k("hint"),
         hint2: k("text"),
@@ -1226,211 +1218,193 @@ const K6_I8: IslandSpec = {
       quiz: "combustion_reactions",
     },
     {
-      title: L("Säure + Base", "Acid + Base", "Sav + bázis", "Acid + bază"),
+      title: L("Zerlegung Check", "Decomposition Check", "Bomlás ellenőrzés", "Verificare descompunere"),
       text: L(
-        "Neutralisation macht Lösungen oft weniger sauer.",
-        "Neutralization often makes solutions less acidic.",
-        "A semlegesítés gyakran kevésbé savas oldatot ad.",
-        "Neutralizarea face soluțiile adesea mai puțin acide."
+        "Wiederhole, wie Stoffe zerlegt werden.",
+        "Review how substances are broken down.",
+        "Ismételd át, hogyan bomlanak szét az anyagok.",
+        "Recapitulează cum sunt descompuse substanțele."
       ),
-      hint: L("Am Ende steht meistens Salz und Wasser.", "At the end there is usually salt and water.", "A végén többnyire só és víz lesz.", "La final apare de obicei sare și apă."),
+      hint: L("Überlege, was aus einem Stoff entstehen kann.", "Think about what can come from one substance.", "Gondold át, mi keletkezhet egy anyagból.", "Gândește-te ce poate rezulta dintr-o substanță."),
       labels: {
-        salt: L("Salz", "salt", "só", "sare"),
-        water: L("Wasser", "water", "víz", "apă"),
-        less: L("weniger sauer", "less acidic", "kevésbé savas", "mai puțin acid"),
+        one: L("ein Stoff", "one substance", "egy anyag", "o substanță"),
+        split: L("zerlegen", "split", "szétbontani", "descompune"),
+        many: L("viele", "many", "sok", "mulți"),
       },
-      svg: topicSvg("🧂", "Neutralization", "#3B82F6"),
-      interactive: (k) => ({
-        type: "sentence-build",
-        fragments: [k("salt"), k("water"), k("less")],
-        instruction: k("title"),
-        hint1: k("hint"),
-        hint2: k("text"),
-      }),
-      quiz: "neutralization_intro",
-    },
-    {
-      title: L("Wortgleichungen üben", "Practice Word Equations", "Szöveges egyenletek gyakorlása", "Exersare ecuații în cuvinte"),
-      text: L(
-        "Wir lesen Reaktionen als Wortketten.",
-        "We read reactions as word chains.",
-        "A reakciókat szókapcsolatokként olvassuk.",
-        "Citim reacțiile ca șiruri de cuvinte."
-      ),
-      hint: L("Wort für Wort lesen.", "Read word by word.", "Szóról szóra olvasd.", "Citește cuvânt cu cuvânt."),
-      labels: {
-        word: L("Wort", "word", "szó", "cuvânt"),
-        chain: L("Kette", "chain", "lánc", "șir"),
-        reaction: L("Reaktion", "reaction", "reakció", "reacție"),
-      },
-      svg: topicSvg("➰", "Word Equations", "#8B5CF6"),
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
         type: "gap-fill",
-        sentence: k("reaction"),
-        choices: [k("word"), k("chain"), k("reaction"), k("word")],
+        sentence: k("split"),
+        choices: [k("one"), k("many"), k("split"), k("one")],
         correctIndex: 2,
-        instruction: k("title"),
-        hint1: k("hint"),
-        hint2: k("text"),
-      }),
-      quiz: "word_equations",
-    },
-    {
-      title: L("Reaktionsarten", "Reaction Types", "Reakciótípusok", "Tipuri de reacții"),
-      text: L(
-        "Verbrennung, Zerlegung und Neutralisation sind wichtige Arten.",
-        "Combustion, decomposition and neutralization are important types.",
-        "Az égés, bomlás és semlegesítés fontos reakciótípus.",
-        "Combustia, descompunerea și neutralizarea sunt tipuri importante."
-      ),
-      hint: L("Drei Namen merken: Verbrennung, Zerlegung, Neutralisation.", "Remember three names: combustion, decomposition, neutralization.", "Három név: égés, bomlás, semlegesítés.", "Ține minte trei nume: combustie, descompunere, neutralizare."),
-      labels: {
-        combustion: L("Verbrennung", "combustion", "égés", "combustie"),
-        decomposition: L("Zerlegung", "decomposition", "bomlás", "descompunere"),
-        neutralization: L("Neutralisation", "neutralization", "semlegesítés", "neutralizare"),
-      },
-      svg: topicSvg("📚", "Types", "#6366F1"),
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "type", label: k("combustion") },
-          { id: "type2", label: k("decomposition") },
-          { id: "type3", label: k("neutralization") },
-        ],
-        items: [
-          { text: k("combustion"), bucketId: "type" },
-          { text: k("decomposition"), bucketId: "type2" },
-          { text: k("neutralization"), bucketId: "type3" },
-        ],
         instruction: k("title"),
         hint1: k("hint"),
         hint2: k("text"),
       }),
       quiz: "decomposition_intro",
     },
+    {
+      title: L("Energie-Check", "Energy Check", "Energia ellenőrzés", "Verificare energie"),
+      text: L(
+        "Wiederhole die Begriffe zur Energieabgabe.",
+        "Review terms for energy release.",
+        "Ismételd át az energialeadás fogalmait.",
+        "Recapitulează termenii pentru eliberarea energiei."
+      ),
+      hint: L("Abgabe und Aufnahme sind Gegenteile.", "Release and uptake are opposites.", "A leadás és felvétel ellentétek.", "Eliberarea și absorbția sunt opuse."),
+      labels: {
+        give: L("abgeben", "release", "leadni", "elibera"),
+        take: L("aufnehmen", "take up", "felvenni", "absorbi"),
+        energy: L("Energie", "energy", "energia", "energie"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("give"), right: k("energy") },
+          { left: k("take"), right: k("energy") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "reaction_energy",
+    },
+    {
+      title: L("Reaktions-Puzzle", "Reaction Puzzle", "Reakció-puzzle", "Puzzle de reacție"),
+      text: L(
+        "Ordne die Teile einer Wortgleichung.",
+        "Order the parts of a word equation.",
+        "Rendezd a szöveges egyenlet részeit.",
+        "Ordonează părțile unei ecuații în cuvinte."
+      ),
+      hint: L("Denk an Edukte, Pfeil und Produkte.", "Think of reactants, arrow, and products.", "Gondolj a kiindulási anyagokra, nyílra és termékekre.", "Gândește-te la reactanți, săgeată și produși."),
+      labels: {
+        edukte: L("Edukte", "reactants", "eduktok", "reactanți"),
+        arrow: L("→", "→", "→", "→"),
+        produkte: L("Produkte", "products", "termékek", "produși"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("edukte"), k("arrow"), k("produkte")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "word_equations",
+    },
   ],
 };
 
 const K6_I9: IslandSpec = {
   id: "i9",
-  title: L("Labor und Umwelt", "Lab and Environment", "Labor és környezet", "Laborator și mediu"),
+  title: L("Finale K6-Chemie", "K6 Chemistry Final", "Záró K6 kémia", "Final Chimie K6"),
   topics: [
     {
-      title: L("Laborregeln", "Lab Rules", "Labor szabályok", "Reguli de laborator"),
+      title: L("Das Wichtigste", "The Key Points", "A legfontosabbak", "Punctele-cheie"),
       text: L(
-        "Im Labor gilt: vorsichtig, sauber und genau arbeiten.",
-        "In the lab: work carefully, cleanly and precisely.",
-        "A laborban óvatosan, tisztán és pontosan dolgozunk.",
-        "În laborator: lucrezi atent, curat și precis."
+        "Wir fassen die wichtigsten K6-Begriffe zusammen.",
+        "We summarize the key K6 terms.",
+        "Összefoglaljuk a legfontosabb K6 fogalmakat.",
+        "Rezumatul termenilor cheie K6."
       ),
-      hint: L("Schutzbrille und Ruhe sind wichtig.", "Safety glasses and calm behavior matter.", "A védőszemüveg és a nyugalom fontos.", "Ochelarii de protecție și calmul sunt importante."),
+      hint: L("Denk an Atome, Verbindungen és Reaktionen.", "Think of atoms, compounds and reactions.", "Gondolj az atomokra, vegyületekre és reakciókra.", "Gândește-te la atomi, compuși și reacții."),
       labels: {
-        goggles: L("Schutzbrille", "goggles", "védőszemüveg", "ochelari de protecție"),
-        careful: L("vorsichtig", "careful", "óvatos", "atent"),
-        clean: L("sauber", "clean", "tiszta", "curat"),
+        atom: L("Atom", "atom", "atom", "atom"),
+        reaction: L("Reaktion", "reaction", "reakció", "reacție"),
+        ph: L("pH-Wert", "pH value", "pH-érték", "valoare pH"),
       },
-      svg: topicSvg("🧤", "Safety", "#EC4899"),
-      interactive: (k) => ({
-        type: "highlight-text",
-        tokens: [k("goggles"), k("careful"), k("clean")],
-        correctIndices: [0, 1, 2],
-        instruction: k("title"),
-        hint1: k("hint"),
-        hint2: k("text"),
-      }),
-      quiz: "lab_rules",
-    },
-    {
-      title: L("Wasser schützen", "Protect Water", "Vízvédelem", "Protejarea apei"),
-      text: L(
-        "Wasserreinigung und sauberes Verhalten schützen Gewässer.",
-        "Water purification and clean behavior protect waters.",
-        "A víztisztítás és a tiszta viselkedés védi a vizeket.",
-        "Purificarea apei și comportamentul curat protejează apele."
-      ),
-      hint: L("Nicht alles gehört in den Ausguss.", "Not everything belongs down the drain.", "Nem minden kerülhet a lefolyóba.", "Nu orice trebuie aruncat la scurgere."),
-      labels: {
-        drain: L("Ausguss", "drain", "lefolyó", "scurgere"),
-        clean: L("sauber", "clean", "tiszta", "curat"),
-        water: L("Wasser", "water", "víz", "apă"),
-      },
-      svg: topicSvg("🚱", "Water", "#3B82F6"),
+      svg: { type: "kemia-diagram", name: "AtomSvg" },
       interactive: (k) => ({
         type: "drag-to-bucket",
         buckets: [
-          { id: "protect", label: k("water") },
-          { id: "avoid", label: k("drain") },
+          { id: "particles", label: k("atom") },
+          { id: "changes", label: k("reaction") },
         ],
         items: [
-          { text: k("clean"), bucketId: "protect" },
-          { text: k("water"), bucketId: "protect" },
-          { text: k("drain"), bucketId: "avoid" },
+          { text: k("atom"), bucketId: "particles" },
+          { text: k("reaction"), bucketId: "changes" },
+          { text: k("ph"), bucketId: "changes" },
         ],
         instruction: k("title"),
         hint1: k("hint"),
         hint2: k("text"),
       }),
-      quiz: "water_purification",
+      quiz: "atom_model_intro",
     },
     {
-      title: L("Luft sauber halten", "Keep Air Clean", "A levegő tisztán tartása", "Menținerea aerului curat"),
+      title: L("Säuren-Basen-Indikatoren", "Acids-Bases-Indicators", "Savak-bázisok-indikátorok", "Acizi-baze-indicatori"),
       text: L(
-        "Weniger Rauch und Abgase helfen der Umwelt.",
-        "Less smoke and exhaust helps the environment.",
-        "Kevesebb füst és kipufogógáz segít a környezetnek.",
-        "Mai puțin fum și mai puține gaze ajută mediul."
+        "Wiederhole alles über saure und basische Lösungen.",
+        "Review everything about acidic and basic solutions.",
+        "Ismételj át mindent a savas és bázikus oldatokról.",
+        "Recapitulează totul despre soluțiile acide și bazice."
       ),
-      hint: L("Vermeide unnötigen Rauch.", "Avoid unnecessary smoke.", "Kerüld a fölösleges füstöt.", "Evită fumul inutil."),
+      hint: L("Nutze die pH-Skala és Indikatoren.", "Use the pH scale and indicators.", "Használd a pH-skálát és az indikátorokat.", "Folosește scara pH și indicatorii."),
       labels: {
-        smoke: L("Rauch", "smoke", "füst", "fum"),
-        exhaust: L("Abgas", "exhaust", "kipufogógáz", "gaze de eșapament"),
-        air: L("Luft", "air", "levegő", "aer"),
+        indicator: L("Indikator", "indicator", "indikátor", "indicator"),
+        color: L("Farbe", "color", "szín", "culoare"),
+        change: L("Wechsel", "change", "változás", "schimbare"),
       },
-      svg: topicSvg("🌫️", "Air", "#94A3B8"),
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
       interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "good", label: k("air") },
-          { id: "bad", label: k("smoke") },
-        ],
-        items: [
-          { text: k("air"), bucketId: "good" },
-          { text: k("smoke"), bucketId: "bad" },
-          { text: k("exhaust"), bucketId: "bad" },
+        type: "sentence-build",
+        fragments: [k("indicator"), k("color"), k("change")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "ph_scale_intro",
+    },
+    {
+      title: L("Trennung im Alltag", "Separation in Daily Life", "Elválasztás a mindennapokban", "Separarea în viața de zi cu zi"),
+      text: L(
+        "Wir trennen Gemische auch zu Hause vagy in der Industrie.",
+        "We separate mixtures at home or in industry too.",
+        "Otthon vagy az iparban is választunk szét keverékeket.",
+        "Separăm amestecurile acasă sau în industrie."
+      ),
+      hint: L("Denk an Filter vagy Destillation.", "Think of filters or distillation.", "Gondolj a szűrőre vagy a desztillációra.", "Gândește-te la filtre sau distilare."),
+      labels: {
+        filter: L("Filter", "filter", "szűrő", "filtru"),
+        industry: L("Industrie", "industry", "ipar", "industrie"),
+        home: L("zu Hause", "at home", "otthon", "acasă"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("filter"), right: k("home") },
+          { left: k("industry"), right: k("filter") },
         ],
         instruction: k("title"),
         hint1: k("hint"),
         hint2: k("text"),
       }),
-      quiz: "air_pollution_intro",
+      quiz: "distillation_intro",
     },
     {
-      title: L("Recycling im Alltag", "Recycling in Daily Life", "Újrahasznosítás a hétköznapokban", "Reciclare în viața de zi cu zi"),
+      title: L("Umwelt und Chemie", "Environment and Chemistry", "Környezet és kémia", "Mediul și chimia"),
       text: L(
-        "Recycling spart Rohstoffe und schützt Umwelt.",
-        "Recycling saves raw materials and protects the environment.",
-        "Az újrahasznosítás nyersanyagot takarít meg és védi a környezetet.",
-        "Reciclarea economisește materii prime și protejează mediul."
+        "Chemie hilft beim Umweltschutz és Recycling.",
+        "Chemistry helps with environmental protection and recycling.",
+        "A kémia segít a környezetvédelemben és az újrahasznosításban.",
+        "Chimia ajută la protecția mediului și reciclare."
       ),
-      hint: L("Papier, Glas, Metall und Plastik trennen.", "Separate paper, glass, metal and plastic.", "Válaszd külön a papírt, üveget, fémet és műanyagot.", "Separă hârtia, sticla, metalul și plasticul."),
+      hint: L("Abgase és Recycling sind wichtige Themen.", "Exhaust gases and recycling are key topics.", "A kipufogógázok és az újrahasznosítás fontos témák.", "Gazele de eșapament și reciclarea sunt teme cheie."),
       labels: {
-        paper: L("Papier", "paper", "papír", "hârtie"),
-        glass: L("Glas", "glass", "üveg", "sticlă"),
-        plastic: L("Plastik", "plastic", "műanyag", "plastic"),
-        recycle: L("recyceln", "recycle", "újrahasznosít", "reciclează"),
+        environment: L("Umwelt", "environment", "környezet", "mediu"),
+        protection: L("Schutz", "protection", "védelem", "protecție"),
+        reuse: L("wiederverwenden", "reuse", "újrahasznosít", "refolosește"),
       },
-      svg: topicSvg("♻️", "Recycle", "#10B981"),
+      svg: topicSvg("🌍", "Environment", "#10B981"),
       interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "recycle", label: k("recycle") },
-          { id: "other", label: k("plastic") },
-        ],
-        items: [
-          { text: k("paper"), bucketId: "recycle" },
-          { text: k("glass"), bucketId: "recycle" },
-          { text: k("plastic"), bucketId: "other" },
-        ],
+        type: "gap-fill",
+        sentence: k("reuse"),
+        choices: [k("environment"), k("protection"), k("reuse"), k("environment")],
+        correctIndex: 2,
         instruction: k("title"),
         hint1: k("hint"),
         hint2: k("text"),
@@ -1438,29 +1412,28 @@ const K6_I9: IslandSpec = {
       quiz: "recycling_materials",
     },
     {
-      title: L("Finale: sicher und nachhaltig", "Finale: Safe and Sustainable", "Döntő: biztonságosan és fenntarthatóan", "Final: sigur și sustenabil"),
+      title: L("K6 Gesamtblick", "K6 Overview", "K6 összegzés", "Rezumat K6"),
       text: L(
-        "Wir verbinden Sicherheit, Umwelt und Trennmethoden.",
-        "We connect safety, environment, and separation methods.",
-        "Összekötjük a biztonságot, a környezetet és az elválasztási módszereket.",
-        "Legăm siguranța, mediul și metodele de separare."
+        "Geschafft! Du hast die Grundlagen der K6-Chemie gelernt.",
+        "Done! You learned the basics of K6 chemistry.",
+        "Kész! Megtanultad a K6 kémia alapjait.",
+        "Gata! Ai învățat bazele chimiei K6."
       ),
-      hint: L("Das ist die große Wiederholung.", "This is the big review.", "Ez a nagy ismétlés.", "Aceasta este recapitularea mare."),
+      hint: L("Wiederhole bei Bedarf einzelne Themen.", "Review individual topics if needed.", "Ismételd át a témákat, ha szükséges.", "Recapitulează temele dacă este necesar."),
       labels: {
-        safe: L("sicher", "safe", "biztonságos", "sigur"),
-        clean: L("sauber", "clean", "tiszta", "curat"),
-        review: L("Wiederholung", "review", "ismétlés", "recapitulare"),
+        learned: L("gelernt", "learned", "megtanult", "învățat"),
+        chemistry: L("Chemie", "chemistry", "kémia", "chimie"),
+        great: L("Super!", "Great!", "Szuper!", "Super!"),
       },
-      svg: topicSvg("🏁", "Finale", "#6366F1"),
+      svg: topicSvg("🏆", "Finish", "#F59E0B"),
       interactive: (k) => ({
-        type: "word-order",
-        words: [k("safe"), k("clean"), k("review")],
-        correctOrder: [0, 1, 2],
+        type: "tap-count",
+        tapCount: { emoji: "🧪", count: 10 },
         instruction: k("title"),
         hint1: k("hint"),
         hint2: k("text"),
       }),
-      quiz: "chemistry_safety_home",
+      quiz: "atom_model_intro",
     },
   ],
 };

@@ -1,142 +1,16 @@
 "use client";
 // DivisionIntroExplorer — Division introduction for Grade 2 (island i8)
-// Uses new topic-based ExplorerEngine mode
+// Modernized with centralized SVG library
 
 import { memo } from "react";
 import ExplorerEngine from "@/app/astro-biologie/games/ExplorerEngine";
 import type { ExplorerDef, TopicDef } from "@/app/astro-biologie/games/ExplorerEngine";
-
-// ─── SVG: Sharing equally ────────────────────────────────────────────────────
-
-const SharingSvg = memo(function SharingSvg({
-  total = 12, people = 3, emoji = "🍪", lang = "en",
-}: { total?: number; people?: number; emoji?: string; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  const perPerson = Math.floor(total / people);
-  return (
-    <svg width="100%" viewBox="0 0 240 145">
-      <defs>
-        <linearGradient id="shareG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#10B981" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#6EE7B7" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="145" fill="url(#shareG)" rx="16" />
-      {/* People plates */}
-      {Array.from({ length: people }, (_, pi) => {
-        const bw = 60; const bx = 15 + pi * (bw + 10);
-        return (
-          <g key={pi}>
-            <rect x={bx} y="16" width={bw} height="90" rx="10"
-              fill="rgba(255,255,255,0.07)" stroke="rgba(16,185,129,0.4)" strokeWidth="1.5" />
-            <text x={bx + bw / 2} y="30" fontSize="9" fill="#10B981"
-              textAnchor="middle" opacity="0.7">{t.svg_person} {pi + 1}</text>
-            {Array.from({ length: perPerson }, (_, i) => {
-              const ic = i % 3; const ir = Math.floor(i / 3);
-              return (
-                <text key={i} x={bx + 12 + ic * 18} y={48 + ir * 20}
-                  fontSize="16" textAnchor="middle" dominantBaseline="middle">{emoji}</text>
-              );
-            })}
-          </g>
-        );
-      })}
-      <text x="120" y="128" fontSize="11" fontWeight="800"
-        fill="#10B981" textAnchor="middle" opacity="0.85">
-        {total} ÷ {people} = {perPerson} {t.svg_each}
-      </text>
-    </svg>
-  );
-});
-
-// ─── SVG: Division on number line ────────────────────────────────────────────
-
-const DivNLSvg = memo(function DivNLSvg({ total = 15, step = 3, lang = "en" }: { total?: number; step?: number; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  const jumps = total / step;
-  const max = total + 2;
-  return (
-    <svg width="100%" viewBox="0 0 240 100">
-      <defs>
-        <linearGradient id="divNLG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#00D4FF" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#22D3EE" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="100" fill="url(#divNLG)" rx="16" />
-      <line x1="15" y1="55" x2="225" y2="55"
-        stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round" />
-      {Array.from({ length: max + 1 }, (_, n) => {
-        const x = 15 + (n / max) * 210;
-        const isKey = n % step === 0;
-        return (
-          <g key={n}>
-            <line x1={x} y1={isKey ? "47" : "51"} x2={x} y2="59"
-              stroke={isKey ? "#00D4FF" : "rgba(255,255,255,0.2)"}
-              strokeWidth={isKey ? 2 : 1} />
-            {isKey && (
-              <text x={x} y="72" fontSize="10" fontWeight="800"
-                fill="#00D4FF" textAnchor="middle">{n}</text>
-            )}
-          </g>
-        );
-      })}
-      <text x="120" y="92" fontSize="11" fontWeight="800"
-        fill="rgba(255,255,255,0.7)" textAnchor="middle">
-        {total} ÷ {step} = {jumps} {t.svg_jumps}
-      </text>
-    </svg>
-  );
-});
-
-// ─── SVG: Division ↔ Multiplication connection ────────────────────────────────
-
-const DivMulSvg = memo(function DivMulSvg({ a = 4, b = 3, lang = "en" }: { a?: number; b?: number; lang?: string }) {
-  const t = LABELS[lang] || LABELS.en;
-  const result = a * b;
-  return (
-    <svg width="100%" viewBox="0 0 240 120">
-      <defs>
-        <linearGradient id="divMulG" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#FF9500" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#FFCC02" stopOpacity="0.04" />
-        </linearGradient>
-      </defs>
-      <rect width="240" height="120" fill="url(#divMulG)" rx="16" />
-      {/* Multiplication */}
-      <text x="120" y="38" fontSize="18" fontWeight="900"
-        fill="#FF9500" textAnchor="middle" dominantBaseline="middle">
-        {a} × {b} = {result}
-      </text>
-      {/* Arrow pair */}
-      <text x="75" y="65" fontSize="13" fill="rgba(255,255,255,0.4)"
-        textAnchor="middle" dominantBaseline="middle">↕</text>
-      <text x="120" y="65" fontSize="10" fill="rgba(255,255,255,0.35)"
-        textAnchor="middle" dominantBaseline="middle">{t.svg_flip}</text>
-      <text x="165" y="65" fontSize="13" fill="rgba(255,255,255,0.4)"
-        textAnchor="middle" dominantBaseline="middle">↕</text>
-      {/* Division facts */}
-      <text x="70" y="93" fontSize="16" fontWeight="900"
-        fill="#10B981" textAnchor="middle" dominantBaseline="middle">
-        {result} ÷ {a} = {b}
-      </text>
-      <text x="180" y="93" fontSize="16" fontWeight="900"
-        fill="#10B981" textAnchor="middle" dominantBaseline="middle">
-        {result} ÷ {b} = {a}
-      </text>
-    </svg>
-  );
-});
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Division Explorer",
-    svg_person: "Person",
-    svg_each: "each",
-    svg_jumps: "jumps",
-    svg_flip: "flip!",
     t1_title: "Sharing Equally",
     t1_text: "Division means SHARING EQUALLY! 12 ÷ 3 means: share 12 between 3 people. Each person gets the same amount. 12 ÷ 3 = 4 each!",
     t1_b1: "÷ means 'shared between'",
@@ -179,10 +53,6 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   de: {
     explorer_title: "Division entdecken",
-    svg_person: "Person",
-    svg_each: "je",
-    svg_jumps: "Sprünge",
-    svg_flip: "Umkehrung!",
     t1_title: "Gleichmäßig aufteilen",
     t1_text: "Division bedeutet GLEICHMÄSSIG AUFTEILEN! 12 ÷ 3 bedeutet: teile 12 auf 3 Personen auf. Jede Person bekommt gleich viel. 12 ÷ 3 = 4 pro Person!",
     t1_b1: "÷ bedeutet 'aufgeteilt auf'",
@@ -225,10 +95,6 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Osztás felfedezés",
-    svg_person: "Személy",
-    svg_each: "darab",
-    svg_jumps: "ugrás",
-    svg_flip: "fordítsd!",
     t1_title: "Egyenlő elosztás",
     t1_text: "Az osztás EGYENLŐ ELOSZTÁST jelent! A 12 ÷ 3 azt jelenti: ossz el 12-t 3 ember között. Mindenki ugyanannyit kap. 12 ÷ 3 = 4 mindenkinek!",
     t1_b1: "÷ azt jelenti: 'elosztva'",
@@ -271,10 +137,6 @@ const LABELS: Record<string, Record<string, string>> = {
   },
   ro: {
     explorer_title: "Explorare împărțire",
-    svg_person: "Persoana",
-    svg_each: "fiecare",
-    svg_jumps: "salturi",
-    svg_flip: "inversează!",
     t1_title: "Împărțire egală",
     t1_text: "Împărțirea înseamnă DISTRIBUIRE EGALĂ! 12 ÷ 3 înseamnă: împarte 12 la 3 persoane. Fiecare primește aceeași cantitate. 12 ÷ 3 = 4 fiecare!",
     t1_b1: "÷ înseamnă 'împărțit la'",
@@ -323,7 +185,7 @@ const TOPICS: TopicDef[] = [
   {
     infoTitle: "t1_title",
     infoText: "t1_text",
-    svg: (lang) => <SharingSvg total={12} people={3} emoji="🍪" lang={lang} />,
+    svg: { type: "math-diagram", name: "SharingSvg", props: { total: 12, people: 3, emoji: "🍪" } },
     bulletKeys: ["t1_b1", "t1_b2", "t1_b3"],
     interactive: {
       type: "block-drag",
@@ -340,11 +202,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t1_q_24", "t1_q_16", "t1_q_4", "t1_q_5"],
       answer: "t1_q_5",
     },
+    quizSvg: { type: "math-diagram", name: "SharingSvg", props: { total: 20, people: 4, emoji: "🍪" } },
   },
   {
     infoTitle: "t2_title",
     infoText: "t2_text",
-    svg: (lang) => <DivNLSvg total={15} step={3} lang={lang} />,
+    svg: { type: "math-diagram", name: "DivNLSvg", props: { total: 15, step: 3, max: 15 } },
     bulletKeys: ["t2_b1", "t2_b2", "t2_b3"],
     interactive: {
       type: "number-line",
@@ -364,11 +227,12 @@ const TOPICS: TopicDef[] = [
       choices: ["t2_q_8", "t2_q_48", "t2_q_6", "t2_q_3"],
       answer: "t2_q_3",
     },
+    quizSvg: { type: "math-diagram", name: "DivNLSvg", props: { total: 12, step: 4, max: 12 } },
   },
   {
     infoTitle: "t3_title",
     infoText: "t3_text",
-    svg: (lang) => <DivMulSvg a={4} b={3} lang={lang} />,
+    svg: { type: "math-diagram", name: "DivMulSvg", props: { a: 4, b: 3 } },
     bulletKeys: ["t3_b1", "t3_b2", "t3_b3"],
     interactive: {
       type: "number-line",
@@ -388,6 +252,7 @@ const TOPICS: TopicDef[] = [
       choices: ["t3_q_15", "t3_q_21", "t3_q_9", "t3_q_6"],
       answer: "t3_q_6",
     },
+    quizSvg: { type: "math-diagram", name: "DivMulSvg", props: { a: 6, b: 3 } },
   },
 ];
 

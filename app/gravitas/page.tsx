@@ -7,7 +7,7 @@ import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
   AlertTriangle, Activity, Zap, ShieldAlert,
   Layers, FileText, X, RotateCcw,
-  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound
+  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound, Rocket, Home
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
@@ -24,6 +24,22 @@ import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
 import AwakeningCeremony from "@/components/gravitas/AwakeningCeremony";
 import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
 import { normalizeContinuationState } from "@/lib/gravitas/sim/continuation";
+import {
+  GALAXY_DECOR_LAYERS,
+  GALAXY_DEMO_NODES,
+  GALAXY_PLAYER_BASE_NODE,
+  METEOR_MATERIAL_META,
+  METEOR_MATERIAL_ORDER,
+  GALAXY_WORLD_SIZE,
+  getGalaxyTravelDistance,
+  getGalaxyTravelDurationMinutes,
+  getGalaxyCardStyle,
+  getGalaxyLinkStyle,
+  getGalaxyNodeAnchorStyle,
+  getGalaxyWorldCanvasStyle,
+  validateGalaxyNodes,
+} from "@/lib/gravitas/world";
+import type { GalaxyNode, GalaxyWorldPosition } from "@/lib/gravitas/world";
 
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 
@@ -66,6 +82,193 @@ type QuickActionItem = {
   mobilePriority: number;
 };
 
+type DroneMissionState = {
+  id: string;
+  targetNodeId: string;
+  materialId: GalaxyMaterialId;
+  phase: "traveling" | "mining" | "returning";
+  startedAt: number;
+  arrivalAt: number;
+  miningCompleteAt: number;
+  travelDurationMinutes: number;
+  miningDurationMinutes: number;
+  targetYieldUnits: number;
+  returnStartedAt?: number;
+  returnCompleteAt?: number;
+  returnStartPosition?: { x: number; y: number };
+  committedUnits?: number;
+};
+
+type SavedDroneMission = DroneMissionState | null;
+
+type GalaxyMaterialId = (typeof METEOR_MATERIAL_ORDER)[number];
+type GalaxyInventory = Record<GalaxyMaterialId, number>;
+type GalaxyLivePreview = {
+  materialId: GalaxyMaterialId;
+  amount: number;
+} | null;
+
+const DRONE_MISSION_STORAGE_KEY = "gravitas_galaxy_drone_mission_v1";
+const GALAXY_INVENTORY_STORAGE_KEY = "gravitas_galaxy_inventory_v1";
+const GALAXY_LIVE_PREVIEW_STORAGE_KEY = "gravitas_galaxy_live_preview_v1";
+
+function createDefaultGalaxyInventory(): GalaxyInventory {
+  return METEOR_MATERIAL_ORDER.reduce((acc, materialId) => {
+    acc[materialId] = 0;
+    return acc;
+  }, {} as GalaxyInventory);
+}
+
+function loadSavedDroneMission(): SavedDroneMission {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = localStorage.getItem(DRONE_MISSION_STORAGE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw) as DroneMissionState;
+    if (
+      !parsed ||
+      typeof parsed.startedAt !== "number" ||
+      typeof parsed.arrivalAt !== "number" ||
+      typeof parsed.miningCompleteAt !== "number" ||
+      typeof parsed.phase !== "string" ||
+      typeof parsed.targetNodeId !== "string"
+    ) {
+      return null;
+    }
+    const now = Date.now();
+    if (parsed.phase === "traveling" && now >= parsed.arrivalAt) {
+      return {
+        ...parsed,
+        phase: "mining",
+      };
+    }
+    if (parsed.phase === "mining" && now >= parsed.miningCompleteAt) {
+      return {
+        ...parsed,
+        phase: "mining",
+      };
+    }
+    if (parsed.phase === "returning" && parsed.returnCompleteAt && now >= parsed.returnCompleteAt) {
+      localStorage.removeItem(DRONE_MISSION_STORAGE_KEY);
+      return null;
+    }
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+function saveSavedDroneMission(mission: SavedDroneMission): void {
+  if (typeof window === "undefined") return;
+  try {
+    if (!mission) {
+      localStorage.removeItem(DRONE_MISSION_STORAGE_KEY);
+      return;
+    }
+    localStorage.setItem(DRONE_MISSION_STORAGE_KEY, JSON.stringify(mission));
+  } catch {
+    // localStorage may be unavailable
+  }
+}
+
+function getDroneMissionCurrentPosition(
+  mission: DroneMissionState,
+  targetPosition: GalaxyWorldPosition,
+  basePosition: GalaxyWorldPosition,
+  now: number,
+): GalaxyWorldPosition {
+  if (mission.phase === "traveling") {
+    const totalMs = Math.max(1, mission.arrivalAt - mission.startedAt);
+    const elapsedMs = Math.max(0, now - mission.startedAt);
+    const progress = Math.min(1, elapsedMs / totalMs);
+    return {
+      x: basePosition.x + (targetPosition.x - basePosition.x) * progress,
+      y: basePosition.y + (targetPosition.y - basePosition.y) * progress,
+    };
+  }
+
+  if (mission.phase === "returning") {
+    const start = mission.returnStartPosition ?? targetPosition;
+    const totalMs = Math.max(1, (mission.returnCompleteAt ?? now) - (mission.returnStartedAt ?? now));
+    const elapsedMs = Math.max(0, now - (mission.returnStartedAt ?? now));
+    const progress = Math.min(1, elapsedMs / totalMs);
+    return {
+      x: start.x + (basePosition.x - start.x) * progress,
+      y: start.y + (basePosition.y - start.y) * progress,
+    };
+  }
+
+  return targetPosition;
+}
+
+function loadSavedGalaxyInventory(): GalaxyInventory {
+  if (typeof window === "undefined") return createDefaultGalaxyInventory();
+  try {
+    const raw = localStorage.getItem(GALAXY_INVENTORY_STORAGE_KEY);
+    if (!raw) return createDefaultGalaxyInventory();
+    const parsed = JSON.parse(raw) as Partial<Record<GalaxyMaterialId, number>>;
+    const inventory = createDefaultGalaxyInventory();
+    METEOR_MATERIAL_ORDER.forEach((materialId) => {
+      const value = parsed[materialId];
+      inventory[materialId] = Number.isFinite(value) ? Math.max(0, Math.floor(value ?? 0)) : 0;
+    });
+    return inventory;
+  } catch {
+    return createDefaultGalaxyInventory();
+  }
+}
+
+function saveGalaxyInventory(inventory: GalaxyInventory): void {
+  if (typeof window === "undefined") return;
+  try {
+    localStorage.setItem(GALAXY_INVENTORY_STORAGE_KEY, JSON.stringify(inventory));
+  } catch {
+    // localStorage may be unavailable
+  }
+}
+
+function loadSavedGalaxyLivePreview(): GalaxyLivePreview {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = localStorage.getItem(GALAXY_LIVE_PREVIEW_STORAGE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw) as GalaxyLivePreview;
+    if (!parsed || typeof parsed.materialId !== "string" || typeof parsed.amount !== "number") {
+      return null;
+    }
+    return {
+      materialId: parsed.materialId as GalaxyMaterialId,
+      amount: Math.max(0, Math.floor(parsed.amount)),
+    };
+  } catch {
+    return null;
+  }
+}
+
+function saveGalaxyLivePreview(preview: GalaxyLivePreview): void {
+  if (typeof window === "undefined") return;
+  try {
+    if (!preview) {
+      localStorage.removeItem(GALAXY_LIVE_PREVIEW_STORAGE_KEY);
+      return;
+    }
+    localStorage.setItem(GALAXY_LIVE_PREVIEW_STORAGE_KEY, JSON.stringify(preview));
+  } catch {
+    // localStorage may be unavailable
+  }
+}
+
+function addGalaxyInventoryMaterial(
+  inventory: GalaxyInventory,
+  materialId: GalaxyMaterialId,
+  amount: number,
+): GalaxyInventory {
+  return {
+    ...inventory,
+    [materialId]: Math.max(0, (inventory[materialId] ?? 0) + Math.max(0, Math.floor(amount))),
+  };
+}
+
 function formatCompactStarholdValue(value: number): string {
   const sign = value < 0 ? "-" : "";
   const abs = Math.abs(value);
@@ -104,6 +307,11 @@ function formatThreatCountdown(countdown: number): string {
     return `${Math.ceil(countdown / 60)}m`;
   }
   return `${countdown}s`;
+}
+
+function formatDurationMinutes(totalMinutes: number): string {
+  if (totalMinutes < 60) return `${totalMinutes}m`;
+  return `${Math.floor(totalMinutes / 60)}h ${String(totalMinutes % 60).padStart(2, "0")}m`;
 }
 
 function StationHealthRing({ state }: { state: StarholdState }) {
@@ -157,6 +365,30 @@ function StationHealthRing({ state }: { state: StarholdState }) {
   );
 }
 
+type MapMiniButtonProps = {
+  icon: React.ReactNode;
+  active?: boolean;
+  onClick: () => void;
+  showDot?: boolean;
+};
+
+const MapMiniButton = ({ icon, active, onClick, showDot }: MapMiniButtonProps) => {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className={`relative flex h-9 w-9 items-center justify-center rounded-full border backdrop-blur-md transition ${
+        active
+          ? "border-cyan-300/45 bg-cyan-400/14 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.16)]"
+          : "border-white/10 bg-black/28 text-white/70 hover:bg-white/10"
+      }`}
+    >
+      {icon}
+      {showDot && <span className="absolute right-1.5 top-1.5 h-1.5 w-1.5 rounded-full bg-amber-300 shadow-[0_0_10px_rgba(252,211,77,0.8)]" />}
+    </button>
+  );
+};
+
 export default function GravitasPage() {
   const { lang: currentLang } = useLang();
   const lang = (currentLang as Lang) || "en";
@@ -165,6 +397,8 @@ export default function GravitasPage() {
 
   const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");
+  const [galaxyInventory, setGalaxyInventory] = useState<GalaxyInventory>(createDefaultGalaxyInventory);
+  const [galaxyLivePreview, setGalaxyLivePreview] = useState<GalaxyLivePreview>(null);
   const [shopOpen, setShopOpen] = useState(false);
   const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
@@ -233,6 +467,33 @@ export default function GravitasPage() {
   useEffect(() => {
     setHydrated(true);
   }, []);
+
+  useEffect(() => {
+    if (!hydrated) return;
+    setGalaxyInventory(loadSavedGalaxyInventory());
+  }, [hydrated]);
+
+  useEffect(() => {
+    if (!hydrated) return;
+    saveGalaxyInventory(galaxyInventory);
+  }, [galaxyInventory, hydrated]);
+
+  useEffect(() => {
+    if (!hydrated) return;
+    setGalaxyLivePreview(loadSavedGalaxyLivePreview());
+    const interval = window.setInterval(() => {
+      setGalaxyLivePreview(loadSavedGalaxyLivePreview());
+    }, 1000);
+    return () => window.clearInterval(interval);
+  }, [hydrated]);
+
+  const displayedGalaxyInventory = useMemo(() => {
+    const display = { ...galaxyInventory };
+    if (galaxyLivePreview) {
+      display[galaxyLivePreview.materialId] = Math.max(0, display[galaxyLivePreview.materialId] + galaxyLivePreview.amount);
+    }
+    return display;
+  }, [galaxyInventory, galaxyLivePreview]);
 
   useEffect(() => {
     const saved = loadGravitasState();
@@ -1233,13 +1494,8 @@ export default function GravitasPage() {
               {phaseLabel}
             </div>
             <div className={`px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest ${state.chapter === "demo" ? "bg-amber-500/20 text-amber-200" : "bg-emerald-500/20 text-emerald-200"}`}>
-              {state.chapter === "demo" ? "Chapter I" : "Chapter II"}
+              {state.chapter === "demo" ? "Chapter I" : "Continuation"}
             </div>
-            {state.avatarAwake && (
-              <div className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-widest bg-fuchsia-500/20 text-fuchsia-300">
-                {localize(content.victory.firstLoopTitle)}
-              </div>
-            )}
             {/* Phase Description Tooltip */}
             <div className="absolute top-full left-0 mt-2 p-3 rounded-xl bg-black/80 backdrop-blur-xl border border-white/10 text-[10px] text-white/60 w-48 opacity-0 group-hover:opacity-100 group-active:opacity-100 transition-opacity pointer-events-none z-[100] shadow-2xl">
               {localize(content.lore.phaseDescriptions[state.phase])}
@@ -1318,6 +1574,26 @@ export default function GravitasPage() {
             <span className="text-[9px]">{patternLabel}</span>
           </div>
         </div>
+      </div>
+
+      <div className="flex items-center gap-1.5 overflow-x-auto border-b border-white/5 bg-black/10 px-2.5 py-1.5 no-scrollbar scrollbar-hide">
+        {METEOR_MATERIAL_ORDER.map((materialId, index) => {
+          const meta = METEOR_MATERIAL_META[materialId];
+          return (
+            <button
+              key={materialId}
+              type="button"
+              className={`group flex shrink-0 items-center gap-1.5 rounded-full border px-2 py-1 text-[10px] font-black uppercase tracking-[0.08em] text-white/78 transition hover:bg-white/8 ${meta.glowClassName}`}
+              title={`${localize(meta.label)} ${displayedGalaxyInventory[materialId]}`}
+            >
+              <span className={`flex h-4 w-4 items-center justify-center rounded-full border border-white/10 bg-black/18 text-[8px] ${meta.colorClassName}`}>
+                {localize(meta.short)}
+              </span>
+              <span className={`hidden sm:inline ${meta.colorClassName}`}>{localize(meta.label)}</span>
+              <span className="text-white">{formatCompactStarholdValue(displayedGalaxyInventory[materialId])}</span>
+            </button>
+          );
+        })}
       </div>
 
       {/* Game View */}
@@ -1604,7 +1880,7 @@ export default function GravitasPage() {
                 transition={{ duration: 0.25, ease: "easeOut" }}
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
               >
-                <GalaxyInteriorView onClose={() => setInteriorView(null)} />
+                <GalaxyInteriorView lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
             {interiorView === "sensor" && (
@@ -1655,16 +1931,21 @@ export default function GravitasPage() {
               active={activePanel === "marks"}
               onClick={() => setActivePanel(activePanel === "marks" ? null : "marks")}
             />
-            <MapMiniButton
-              icon={<FileText size={14} />}
-              active={activePanel === "journal"}
-              onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
-            />
-            <MapMiniButton
-              icon={<Layers size={14} />}
-              active={quickActionsOpen}
-              onClick={() => setQuickActionsOpen(true)}
-              showDot={hiddenUrgentActions}
+          <MapMiniButton
+            icon={<FileText size={14} />}
+            active={activePanel === "journal"}
+            onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
+          />
+          <MapMiniButton
+            icon={<Radar size={14} />}
+            active={interiorView === "galaxy"}
+            onClick={() => setInteriorView(interiorView === "galaxy" ? null : "galaxy")}
+          />
+          <MapMiniButton
+            icon={<Layers size={14} />}
+            active={quickActionsOpen}
+            onClick={() => setQuickActionsOpen(true)}
+            showDot={hiddenUrgentActions}
             />
           </div>
 
@@ -2400,168 +2681,652 @@ function CoreInteriorView({ onClose }: { onClose: () => void }) {
   );
 }
 
-function GalaxyInteriorView({ onClose }: { onClose: () => void }) {
-  const [selectedPoi, setSelectedPoi] = useState<null | "harvest" | "hq" | "node" | "fog" | "signal">(null);
-  const [filters, setFilters] = useState({
-    harvest: true,
-    hq: true,
-    node: true,
-    fog: true,
-  });
-
-  const toggleFilter = (key: keyof typeof filters) => {
-    setFilters((prev) => ({ ...prev, [key]: !prev[key] }));
-    if (
-      selectedPoi &&
-      ((selectedPoi === "harvest" && key === "harvest") ||
-        (selectedPoi === "hq" && key === "hq") ||
-        (selectedPoi === "node" && key === "node") ||
-        ((selectedPoi === "fog" || selectedPoi === "signal") && key === "fog"))
-    ) {
-      setSelectedPoi(null);
-    }
+function GalaxyNodeCard({
+  lang,
+  node,
+  travelInfo,
+  activeMission,
+  onDispatchDrone,
+  onRecallDrone,
+  onClose,
+}: {
+  lang: Lang;
+  node: GalaxyNode;
+  travelInfo?: {
+    distanceUnits: number;
+    durationMinutes: number;
+  } | null;
+  activeMission?: {
+    status: "traveling" | "mining" | "returning";
+    remainingMinutes: number;
+    elapsedMiningRatio: number;
+    gatheredUnits: number;
+    targetYieldUnits: number;
+  } | null;
+  onDispatchDrone?: (() => void) | null;
+  onRecallDrone?: (() => void) | null;
+  onClose: () => void;
+}) {
+  const localize = (ls: LocalizedString) => ls[lang] ?? ls.en;
+  const toneClass = (tone?: GalaxyNode["details"][number]["tone"]) => {
+    if (tone === "cyan") return "text-cyan-100";
+    if (tone === "amber") return "text-amber-200";
+    if (tone === "emerald") return "text-emerald-200";
+    return "text-white";
   };
 
   return (
-    <div className="relative flex h-full flex-col">
-      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_50%_42%,rgba(34,211,238,0.06),transparent_26%),linear-gradient(180deg,rgba(5,8,22,0.06)_0%,rgba(5,8,22,0.26)_100%)]" />
+    <motion.div
+      initial={{ opacity: 0, y: 16, scale: 0.98 }}
+      animate={{ opacity: 1, y: 0, scale: 1 }}
+      exit={{ opacity: 0, y: 12, scale: 0.98 }}
+      transition={{ type: "spring", damping: 24, stiffness: 260 }}
+      className="absolute z-20 w-[250px] max-w-[calc(100vw-2rem)] rounded-[20px] border border-cyan-300/18 bg-[#081120]/94 p-3 text-white shadow-[0_20px_56px_rgba(0,0,0,0.42)] backdrop-blur-md"
+      style={getGalaxyCardStyle(node, GALAXY_WORLD_SIZE)}
+    >
+      <button
+        type="button"
+        onClick={onClose}
+        className="absolute right-2.5 top-2.5 flex h-7 w-7 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/10 hover:text-white"
+      >
+        <X size={12} />
+      </button>
 
-      <div className="relative z-10 flex items-start justify-between gap-3 p-4">
-        <div className="flex flex-wrap items-center gap-2">
-          {[
-            { key: "harvest", label: "Gyűjtőhelyek", active: filters.harvest },
-            { key: "hq", label: "Hadiszállások", active: filters.hq },
-            { key: "node", label: "Node-ok", active: filters.node },
-            { key: "fog", label: "Ködmezők", active: filters.fog },
-          ].map((item) => (
-            <button
-              key={item.key}
-              type="button"
-              onClick={() => toggleFilter(item.key as keyof typeof filters)}
-              className={`rounded-full border px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.24em] transition ${
-                item.active
-                  ? "border-cyan-300/35 bg-cyan-400/12 text-cyan-50"
-                  : "border-white/10 bg-black/25 text-white/45"
-              }`}
-            >
-              {item.label}
-            </button>
-          ))}
+      <div className="pr-8">
+        <div className="text-[9px] font-black uppercase tracking-[0.2em] text-amber-200/72">
+          {localize({
+            en: node.type === "resource" ? "Mining Node" : node.type === "battle" ? "Combat Site" : node.type === "base" ? "Home Base" : "Galaxy Node",
+            hu: node.type === "resource" ? "Bányászati pont" : node.type === "battle" ? "Harci pont" : node.type === "base" ? "Otthoni bázis" : "Galaxis pont",
+            de: node.type === "resource" ? "Abbauknoten" : node.type === "battle" ? "Kampfpunkt" : node.type === "base" ? "Heimatbasis" : "Galaxie-Knoten",
+            ro: node.type === "resource" ? "Nod de minerit" : node.type === "battle" ? "Punct de luptă" : node.type === "base" ? "Bază principală" : "Nod galactic",
+          })}
         </div>
-        <button
-          type="button"
-          onClick={onClose}
-          className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
-        >
-          <X size={16} />
-        </button>
+        <div className="mt-1 text-[15px] font-black leading-tight text-white">{localize(node.title)}</div>
+        <p className="mt-1.5 text-[11px] leading-relaxed text-white/68">{localize(node.description)}</p>
       </div>
 
-      <div className="relative z-10 flex-1 px-4 pb-4">
-        <div className="relative h-full overflow-hidden rounded-[28px] border border-cyan-400/15 bg-black/10 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/5 via-transparent to-black/20" />
-          <div className="absolute inset-0 overflow-auto">
-            <div
-              className="relative min-h-[1100px] min-w-[1400px]"
-              style={{
-                backgroundImage: "url('/gravitas/galaxy/deep-space-tile.webp')",
-                backgroundRepeat: "repeat",
-                backgroundSize: "420px 420px",
-              }}
-            >
-              <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_18%_20%,rgba(90,90,220,0.10),transparent_20%),radial-gradient(circle_at_74%_66%,rgba(34,211,238,0.08),transparent_18%),linear-gradient(180deg,rgba(3,8,22,0.1)_0%,rgba(3,8,22,0.34)_100%)]" />
-              <img
-                src="/gravitas/galaxy/nebula-cloud.webp"
-                alt=""
-                className="pointer-events-none absolute left-[11%] top-[8%] w-[36%] select-none opacity-70 mix-blend-screen"
-                draggable={false}
-              />
-              <img
-                src="/gravitas/galaxy/nebula-cloud.webp"
-                alt=""
-                className="pointer-events-none absolute right-[6%] top-[40%] w-[28%] rotate-[24deg] select-none opacity-45 mix-blend-screen"
-                draggable={false}
-              />
-
-              {filters.fog && (
-                <>
-                  <button
-                    type="button"
-                    onClick={() => setSelectedPoi("fog")}
-                    className="absolute left-[52%] top-[12%] w-[28%] transition hover:scale-[1.02]"
-                  >
-                    <img
-                      src="/gravitas/galaxy/mythic-fog.webp"
-                      alt=""
-                      className="pointer-events-none h-auto w-full select-none object-contain opacity-90 drop-shadow-[0_0_46px_rgba(168,85,247,0.18)]"
-                      draggable={false}
-                    />
-                  </button>
-                  <button
-                    type="button"
-                    onClick={() => setSelectedPoi("signal")}
-                    className="absolute left-[10%] top-[52%] w-[22%] transition hover:scale-[1.02]"
-                  >
-                    <img
-                      src="/gravitas/galaxy/signal-fog.webp"
-                      alt=""
-                      className="pointer-events-none h-auto w-full select-none object-contain opacity-85 drop-shadow-[0_0_34px_rgba(217,70,239,0.18)]"
-                      draggable={false}
-                    />
-                  </button>
-                </>
-              )}
-
-              {filters.harvest && (
-                <button
-                  type="button"
-                  onClick={() => setSelectedPoi("harvest")}
-                  className="absolute left-[38%] top-[52%] w-[18%] transition hover:scale-[1.03]"
-                >
-                  <img
-                    src="/gravitas/galaxy/asteroid-field.webp"
-                    alt=""
-                    className="pointer-events-none h-auto w-full select-none object-contain drop-shadow-[0_0_26px_rgba(34,211,238,0.16)]"
-                    draggable={false}
-                  />
-                </button>
-              )}
-
-              {filters.hq && (
-                <button
-                  type="button"
-                  onClick={() => setSelectedPoi("hq")}
-                  className="absolute right-[12%] top-[22%] w-[14%] transition hover:scale-[1.03]"
-                >
-                  <img
-                    src="/gravitas/galaxy/enemy-hq.webp"
-                    alt=""
-                    className="pointer-events-none h-auto w-full select-none object-contain drop-shadow-[0_0_34px_rgba(244,63,94,0.18)]"
-                    draggable={false}
-                  />
-                </button>
-              )}
-
-              {filters.node && (
-                <button
-                  type="button"
-                  onClick={() => setSelectedPoi("node")}
-                  className="absolute right-[20%] bottom-[16%] w-[14%] transition hover:scale-[1.03]"
-                >
-                  <img
-                    src="/gravitas/galaxy/neutral-node.webp"
-                    alt=""
-                    className="pointer-events-none h-auto w-full select-none object-contain drop-shadow-[0_0_34px_rgba(139,92,246,0.18)]"
-                    draggable={false}
-                  />
-                </button>
-              )}
-
-              <div className="pointer-events-none absolute left-[44%] top-[56%] h-4 w-4 rounded-full bg-cyan-300/90 shadow-[0_0_20px_rgba(34,211,238,0.7)]" />
-              <div className="pointer-events-none absolute right-[17.5%] top-[31%] h-3 w-3 rounded-full bg-rose-300/90 shadow-[0_0_18px_rgba(251,113,133,0.65)]" />
-              <div className="pointer-events-none absolute right-[26%] bottom-[25%] h-3 w-3 rounded-full bg-violet-300/90 shadow-[0_0_18px_rgba(167,139,250,0.65)]" />
+      {travelInfo && (
+        <div className="mt-3 grid grid-cols-2 gap-1.5">
+          <div className="rounded-2xl border border-cyan-300/16 bg-cyan-300/8 p-2.5">
+            <div className="text-[9px] font-black uppercase tracking-[0.14em] text-white/42">
+              {localize({ en: "Distance", hu: "Távolság", de: "Distanz", ro: "Distanță" })}
+            </div>
+            <div className="mt-1 text-[12px] font-black leading-tight text-cyan-100">
+              {travelInfo.distanceUnits}u
             </div>
           </div>
+          <div className="rounded-2xl border border-emerald-300/16 bg-emerald-300/8 p-2.5">
+            <div className="text-[9px] font-black uppercase tracking-[0.14em] text-white/42">
+              {localize({ en: "Drone ETA", hu: "Drón ETA", de: "Drohnen-ETA", ro: "ETA dronă" })}
+            </div>
+            <div className="mt-1 text-[12px] font-black leading-tight text-emerald-100">
+              {formatDurationMinutes(travelInfo.durationMinutes)}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {activeMission && (
+        <div className="mt-3 rounded-[18px] border border-cyan-300/18 bg-cyan-300/8 p-2.5">
+          <div className="flex items-center justify-between gap-3">
+            <div className="text-[9px] font-black uppercase tracking-[0.16em] text-cyan-100/72">
+              {localize({
+                en: activeMission.status === "traveling" ? "Drone en route" : activeMission.status === "returning" ? "Drone returning" : "Drone mining",
+                hu: activeMission.status === "traveling" ? "Drón úton" : activeMission.status === "returning" ? "Drón hazatér" : "Drón bányászik",
+                de: activeMission.status === "traveling" ? "Drohne unterwegs" : activeMission.status === "returning" ? "Drohne kehrt zurück" : "Drohne baut ab",
+                ro: activeMission.status === "traveling" ? "Dronă în drum" : activeMission.status === "returning" ? "Dronă se întoarce" : "Dronă extrage",
+              })}
+            </div>
+            <div className="text-[11px] font-black text-white">
+              {formatDurationMinutes(activeMission.remainingMinutes)}
+            </div>
+          </div>
+          {activeMission.status !== "traveling" && (
+            <>
+              <div className="mt-2 h-2 overflow-hidden rounded-full bg-white/8">
+                <div
+                  className="h-full rounded-full bg-[linear-gradient(90deg,rgba(34,211,238,0.9),rgba(16,185,129,0.9))]"
+                  style={{ width: `${Math.max(4, Math.min(100, activeMission.elapsedMiningRatio * 100))}%` }}
+                />
+              </div>
+              <div className="mt-2 flex items-center justify-between gap-3 text-[10px] font-black">
+                <span className="text-white/58">
+                  {localize({ en: "Gathered", hu: "Begyűjtve", de: "Gesammelt", ro: "Colectat" })}
+                </span>
+                <span className="text-emerald-100">
+                  {activeMission.gatheredUnits} / {activeMission.targetYieldUnits}
+                </span>
+              </div>
+            </>
+          )}
+        </div>
+      )}
+
+      <div className="mt-3 grid grid-cols-2 gap-1.5">
+        {node.details.map((detail) => (
+          <div key={detail.id} className="rounded-2xl border border-white/10 bg-white/5 p-2.5">
+            <div className="text-[9px] font-black uppercase tracking-[0.14em] text-white/42">
+              {localize(detail.label)}
+            </div>
+            <div className={`mt-1 text-[12px] font-black leading-tight ${toneClass(detail.tone)}`}>
+              {typeof detail.value === "object" ? localize(detail.value) : detail.value}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <div className="mt-2.5 rounded-2xl border border-amber-300/16 bg-amber-300/8 px-2.5 py-2 text-[10px] leading-relaxed text-white/72">
+        {localize(node.footer)}
+      </div>
+
+      {onDispatchDrone && node.type === "resource" && !activeMission && (
+        <button
+          type="button"
+          onClick={onDispatchDrone}
+          className="mt-3 flex w-full items-center justify-center gap-2 rounded-2xl border border-cyan-300/24 bg-cyan-300/10 px-3 py-2.5 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-50 transition hover:bg-cyan-300/16"
+        >
+          <Rocket size={13} />
+          <span>
+            {localize({ en: "Dispatch drone", hu: "Drón indítása", de: "Drohne senden", ro: "Trimite drona" })}
+          </span>
+        </button>
+      )}
+
+      {onRecallDrone && activeMission && node.type === "resource" && activeMission.status !== "returning" && (
+        <button
+          type="button"
+          onClick={onRecallDrone}
+          className="mt-3 flex w-full items-center justify-center gap-2 rounded-2xl border border-rose-300/24 bg-rose-300/10 px-3 py-2.5 text-[10px] font-black uppercase tracking-[0.18em] text-rose-50 transition hover:bg-rose-300/16"
+        >
+          <RotateCcw size={13} />
+          <span>
+            {localize({ en: "Recall drone", hu: "Drón visszahívása", de: "Drohne zurückrufen", ro: "Rechemă drona" })}
+          </span>
+        </button>
+      )}
+    </motion.div>
+  );
+}
+
+function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void }) {
+  const localize = (ls: LocalizedString) => ls[lang] ?? ls.en;
+  const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
+  const [activeMission, setActiveMission] = useState<DroneMissionState | null>(() => loadSavedDroneMission());
+  const [missionClock, setMissionClock] = useState(() => Date.now());
+  const [focusedDroneNodeId, setFocusedDroneNodeId] = useState<string | null>(null);
+  const scrollContainerRef = useRef<HTMLDivElement | null>(null);
+  const galaxyNodes = useMemo(() => GALAXY_DEMO_NODES, []);
+  const placementReport = useMemo(() => validateGalaxyNodes(galaxyNodes, GALAXY_WORLD_SIZE), [galaxyNodes]);
+  const selectedNode = galaxyNodes.find((node) => node.id === selectedNodeId) ?? null;
+  const playerBaseNode = galaxyNodes.find((node) => node.type === "base") ?? GALAXY_PLAYER_BASE_NODE;
+  const selectedNodeTravelInfo = useMemo(() => {
+    if (!selectedNode || selectedNode.id === playerBaseNode.id) return null;
+    return {
+      distanceUnits: getGalaxyTravelDistance(playerBaseNode.position, selectedNode.position),
+      durationMinutes: getGalaxyTravelDurationMinutes(playerBaseNode.position, selectedNode.position, "drone"),
+    };
+  }, [playerBaseNode.id, playerBaseNode.position, selectedNode]);
+  const activeMissionTarget = activeMission ? galaxyNodes.find((node) => node.id === activeMission.targetNodeId) ?? null : null;
+  const activeMissionTravelProgress = useMemo(() => {
+    if (!activeMission || !activeMissionTarget || missionClock >= activeMission.arrivalAt) return null;
+    const totalMs = Math.max(1, activeMission.arrivalAt - activeMission.startedAt);
+    const elapsedMs = Math.max(0, missionClock - activeMission.startedAt);
+    const progress = Math.min(1, elapsedMs / totalMs);
+    return {
+      x: playerBaseNode.position.x + (activeMissionTarget.position.x - playerBaseNode.position.x) * progress,
+      y: playerBaseNode.position.y + (activeMissionTarget.position.y - playerBaseNode.position.y) * progress,
+    };
+  }, [activeMission, activeMissionTarget, missionClock, playerBaseNode.position.x, playerBaseNode.position.y]);
+  const activeMissionStatus = useMemo(() => {
+    if (!activeMission) return null;
+    if (missionClock < activeMission.arrivalAt) {
+      const remainingMinutes = Math.max(1, Math.ceil((activeMission.arrivalAt - missionClock) / 60000));
+      return {
+        status: "traveling" as const,
+        remainingMinutes,
+        elapsedMiningRatio: 0,
+        gatheredUnits: 0,
+        targetYieldUnits: activeMission.targetYieldUnits,
+      };
+    }
+
+    if (activeMission.phase === "returning" && activeMission.returnCompleteAt) {
+      const remainingMinutes = Math.max(1, Math.ceil((activeMission.returnCompleteAt - missionClock) / 60000));
+      const returnTotalMs = Math.max(1, activeMission.returnCompleteAt - (activeMission.returnStartedAt ?? missionClock));
+      const returnElapsedMs = Math.max(0, missionClock - (activeMission.returnStartedAt ?? missionClock));
+      const elapsedMiningRatio = Math.min(1, returnElapsedMs / returnTotalMs);
+      return {
+        status: "returning" as const,
+        remainingMinutes,
+        elapsedMiningRatio,
+        gatheredUnits: activeMission.committedUnits ?? 0,
+        targetYieldUnits: activeMission.targetYieldUnits,
+      };
+    }
+
+    const remainingMinutes = Math.max(0, Math.ceil((activeMission.miningCompleteAt - missionClock) / 60000));
+    const miningElapsedMs = Math.max(0, missionClock - activeMission.arrivalAt);
+    const miningTotalMs = Math.max(1, activeMission.miningCompleteAt - activeMission.arrivalAt);
+    const elapsedMiningRatio = Math.min(1, miningElapsedMs / miningTotalMs);
+    return {
+      status: "mining" as const,
+      remainingMinutes,
+      elapsedMiningRatio,
+      gatheredUnits: Math.min(activeMission.targetYieldUnits, Math.floor(activeMission.targetYieldUnits * elapsedMiningRatio)),
+      targetYieldUnits: activeMission.targetYieldUnits,
+    };
+  }, [activeMission, missionClock]);
+  const selectedNodeMission = selectedNode && activeMission && activeMission.targetNodeId === selectedNode.id ? activeMissionStatus : null;
+
+  useEffect(() => {
+    if (!activeMission) return undefined;
+    const interval = window.setInterval(() => {
+      setMissionClock(Date.now());
+    }, 1000);
+    return () => window.clearInterval(interval);
+  }, [activeMission]);
+
+  useEffect(() => {
+    saveSavedDroneMission(activeMission);
+  }, [activeMission]);
+
+  useEffect(() => {
+    if (!activeMission) return;
+    if (activeMission.phase === "traveling" && missionClock >= activeMission.arrivalAt) {
+      setActiveMission((current) => (current ? { ...current, phase: "mining" } : current));
+      return;
+    }
+    if (activeMission.phase === "mining" && missionClock >= activeMission.miningCompleteAt) {
+      setGalaxyInventory((current) => addGalaxyInventoryMaterial(current, activeMission.materialId, activeMission.targetYieldUnits));
+      setActiveMission(null);
+      setFocusedDroneNodeId(null);
+      return;
+    }
+    if (activeMission.phase === "returning" && activeMission.returnCompleteAt && missionClock >= activeMission.returnCompleteAt) {
+      setActiveMission(null);
+      setFocusedDroneNodeId(null);
+    }
+  }, [activeMission, missionClock]);
+
+  useEffect(() => {
+    if (focusedDroneNodeId && (!activeMission || activeMission.targetNodeId !== focusedDroneNodeId)) {
+      setFocusedDroneNodeId(null);
+    }
+  }, [activeMission, focusedDroneNodeId]);
+
+  useEffect(() => {
+    if (!placementReport.valid) {
+      console.warn("[gravitas/galaxy] invalid node placement", placementReport.issues);
+    }
+  }, [placementReport]);
+
+  useEffect(() => {
+    if (activeMissionStatus?.status === "mining" && activeMission) {
+      saveGalaxyLivePreview({
+        materialId: activeMission.materialId,
+        amount: activeMissionStatus.gatheredUnits,
+      });
+      return;
+    }
+    saveGalaxyLivePreview(null);
+  }, [activeMission, activeMissionStatus?.gatheredUnits, activeMissionStatus?.status]);
+
+  const dispatchDrone = useCallback((targetNode: GalaxyNode) => {
+    if (targetNode.type !== "resource" || activeMission) return;
+    const travelDurationMinutes = getGalaxyTravelDurationMinutes(playerBaseNode.position, targetNode.position, "drone");
+    const miningDurationMinutes = targetNode.mining?.baseDurationMinutes ?? 60;
+    const targetYieldUnits = targetNode.mining?.baseUnitsPerRun ?? 48;
+    const startedAt = Date.now();
+    const arrivalAt = startedAt + travelDurationMinutes * 60_000;
+    const miningCompleteAt = arrivalAt + miningDurationMinutes * 60_000;
+
+    setMissionClock(startedAt);
+    setActiveMission({
+      id: `mission-${targetNode.id}-${startedAt}`,
+      targetNodeId: targetNode.id,
+      materialId: targetNode.materialId as GalaxyMaterialId,
+      phase: "traveling",
+      startedAt,
+      arrivalAt,
+      miningCompleteAt,
+      travelDurationMinutes,
+      miningDurationMinutes,
+      targetYieldUnits,
+    });
+    setFocusedDroneNodeId(null);
+    setSelectedNodeId(targetNode.id);
+  }, [activeMission, playerBaseNode.position]);
+
+  const recallDrone = useCallback(() => {
+    if (!activeMission || !activeMissionTarget || activeMission.phase === "returning") return;
+    const now = Date.now();
+    const committedUnits = activeMission.phase === "mining"
+      ? Math.min(activeMission.targetYieldUnits, Math.floor(activeMission.targetYieldUnits * Math.min(1, Math.max(0, (now - activeMission.arrivalAt) / Math.max(1, activeMission.miningCompleteAt - activeMission.arrivalAt)))))
+      : 0;
+    const currentPosition = getDroneMissionCurrentPosition(activeMission, activeMissionTarget.position, playerBaseNode.position, now);
+    const returnDurationMinutes = getGalaxyTravelDurationMinutes(currentPosition, playerBaseNode.position, "drone");
+    const returnStartedAt = now;
+    const returnCompleteAt = returnStartedAt + returnDurationMinutes * 60_000;
+
+    if (committedUnits > 0) {
+      setGalaxyInventory((current) => addGalaxyInventoryMaterial(current, activeMission.materialId, committedUnits));
+    }
+
+    setMissionClock(now);
+    setActiveMission({
+      ...activeMission,
+      phase: "returning",
+      committedUnits: (activeMission.committedUnits ?? 0) + committedUnits,
+      returnStartedAt,
+      returnCompleteAt,
+      returnStartPosition: currentPosition,
+    });
+  }, [activeMission, activeMissionTarget, playerBaseNode.position]);
+
+  const activeMissionMarkerPosition = useMemo(() => {
+    if (!activeMission || !activeMissionTarget) return null;
+    return getDroneMissionCurrentPosition(activeMission, activeMissionTarget.position, playerBaseNode.position, missionClock);
+  }, [activeMission, activeMissionTarget, missionClock, playerBaseNode.position]);
+
+  const activeMissionRouteLine = useMemo(() => {
+    if (!activeMission || !activeMissionTarget) return null;
+    if (activeMission.phase === "traveling") {
+      return {
+        from: playerBaseNode.position,
+        to: activeMissionTarget.position,
+      };
+    }
+    if (activeMission.phase === "returning") {
+      return {
+        from: activeMissionMarkerPosition ?? activeMission.returnStartPosition ?? activeMissionTarget.position,
+        to: playerBaseNode.position,
+      };
+    }
+    return null;
+  }, [activeMission, activeMissionMarkerPosition, activeMissionTarget, playerBaseNode.position]);
+
+  const focusBase = useCallback(() => {
+    const container = scrollContainerRef.current;
+    if (!container) return;
+    const left = Math.max(0, playerBaseNode.position.x - container.clientWidth / 2);
+    const top = Math.max(0, playerBaseNode.position.y - container.clientHeight / 2);
+    container.scrollTo({ left, top, behavior: "smooth" });
+    setSelectedNodeId(playerBaseNode.id);
+  }, [playerBaseNode.id, playerBaseNode.position]);
+
+  const isFocusedMissionVisible = Boolean(
+    activeMission &&
+    activeMissionTarget &&
+    focusedDroneNodeId === activeMission.targetNodeId
+  );
+
+  return (
+    <div className="relative h-full w-full overflow-hidden">
+      <button
+        type="button"
+        onClick={onClose}
+        className="absolute right-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/30 text-white/75 transition hover:bg-white/15 hover:text-white"
+      >
+        <X size={16} />
+      </button>
+
+      <div
+        className="absolute inset-0 overflow-auto"
+        ref={scrollContainerRef}
+        style={{
+          backgroundImage: "url('/gravitas/galaxy/deep-space-tile.webp')",
+          backgroundRepeat: "repeat",
+          backgroundSize: "460px 460px",
+        }}
+      >
+        <div
+          className="relative overflow-hidden"
+          style={getGalaxyWorldCanvasStyle(GALAXY_WORLD_SIZE)}
+        >
+          <div className="absolute left-4 top-4 z-[18] w-[260px] rounded-[20px] border border-cyan-300/14 bg-[#081120]/78 p-3 text-white shadow-[0_18px_42px_rgba(0,0,0,0.26)] backdrop-blur-md">
+            <div className="flex items-center justify-between gap-3">
+              <div className="relative h-11 w-16 overflow-hidden rounded-2xl border border-white/10 bg-black/25">
+                <div className="absolute inset-y-[8px] left-[6px] w-[16px] rounded-full border border-white/10 bg-white/5" />
+                <motion.div
+                  className="absolute top-1/2 h-5 w-5 -translate-y-1/2 rounded-full border border-cyan-300/30 bg-cyan-300/18 shadow-[0_0_16px_rgba(34,211,238,0.28)]"
+                  animate={activeMissionStatus ? { x: [8, 38, 46], opacity: [0.8, 1, 0.85] } : { x: 8, opacity: 0.72 }}
+                  transition={activeMissionStatus ? { duration: 1.4, repeat: Infinity, ease: "easeInOut" } : { duration: 0.2 }}
+                >
+                  <div className="absolute inset-[5px] rounded-full bg-cyan-100" />
+                </motion.div>
+              </div>
+            </div>
+            <div className="mt-2 text-[10px] leading-relaxed text-white/64">
+              {activeMissionTarget
+                ? localize({
+                    en: `Locked route to ${localize(activeMissionTarget.title)}.`,
+                    hu: `Rögzített útvonal ide: ${localize(activeMissionTarget.title)}.`,
+                    de: `Fixierte Route zu ${localize(activeMissionTarget.title)}.`,
+                    ro: `Rută blocată către ${localize(activeMissionTarget.title)}.`,
+                  })
+                : localize({
+                    en: "Select a meteor and dispatch the drone. Travel and mining timers run live from the base.",
+                    hu: "Válassz meteort és indítsd a drónt. Az utazás és a bányászat ideje élőben fut a bázistól.",
+                    de: "Wähle einen Meteor und sende die Drohne. Reise- und Abbauzeit laufen live von der Basis aus.",
+                  ro: "Alege un meteorit și trimite drona. Timpul de deplasare și minerit rulează live de la bază.",
+                  })}
+            </div>
+            <div className="mt-3 flex items-center gap-2">
+              <button
+                type="button"
+                onClick={focusBase}
+                className="flex items-center gap-2 rounded-full border border-cyan-300/18 bg-cyan-300/10 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.16em] text-cyan-50 transition hover:bg-cyan-300/16"
+              >
+                <Home size={12} />
+                {localize({ en: "Go to base", hu: "Bázisra", de: "Zur Basis", ro: "La bază" })}
+              </button>
+            </div>
+          </div>
+
+          <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_18%_18%,rgba(56,189,248,0.08),transparent_20%),radial-gradient(circle_at_76%_24%,rgba(168,85,247,0.08),transparent_18%),radial-gradient(circle_at_52%_68%,rgba(15,23,42,0.38),transparent_36%)]" />
+
+          {GALAXY_DECOR_LAYERS.map((layer) => (
+            <img
+              key={layer.id}
+              src={layer.src}
+              alt=""
+              draggable={false}
+              className={layer.className}
+            />
+          ))}
+
+          {galaxyNodes.map((node) => (
+            <motion.button
+              key={node.id}
+              type="button"
+              onClick={() => setSelectedNodeId(node.id)}
+              className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70"
+              style={getGalaxyNodeAnchorStyle(node.position, GALAXY_WORLD_SIZE)}
+              animate={node.motion}
+              transition={{
+                duration: node.motionDuration,
+                repeat: Infinity,
+                ease: "easeInOut",
+              }}
+            >
+              <motion.span
+                aria-hidden
+                className="pointer-events-none absolute left-1/2 top-1/2 h-[112px] w-[112px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10"
+                animate={{
+                  scale: [0.92, 1.08, 0.92],
+                  opacity: [0.08, 0.2, 0.08],
+                }}
+                transition={{
+                  duration: 4.6 + (node.motionDuration % 3),
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+              />
+              <motion.span
+                aria-hidden
+                className="pointer-events-none absolute left-1/2 top-1/2 h-[146px] w-[146px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-[radial-gradient(circle,rgba(255,255,255,0.08),rgba(255,255,255,0.02)_36%,transparent_70%)] blur-xl"
+                animate={{
+                  scale: [0.96, 1.06, 0.98],
+                  opacity: [0.14, 0.26, 0.14],
+                }}
+                transition={{
+                  duration: 5.4 + (node.motionDuration % 4),
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+              />
+              <motion.span
+                aria-hidden
+                className="pointer-events-none absolute left-[8%] top-[18%] h-2 w-2 rounded-full bg-white/80 blur-[0.5px]"
+                animate={{
+                  opacity: [0.08, 0.6, 0.08],
+                  scale: [0.8, 1.25, 0.8],
+                }}
+                transition={{
+                  duration: 3.2 + (node.motionDuration % 2),
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+              />
+              <motion.span
+                aria-hidden
+                className="pointer-events-none absolute right-[14%] top-[26%] h-1.5 w-1.5 rounded-full bg-cyan-200/80 blur-[0.5px]"
+                animate={{
+                  opacity: [0.06, 0.42, 0.06],
+                  y: [0, -5, 0],
+                }}
+                transition={{
+                  duration: 4.2 + (node.motionDuration % 5),
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+              />
+              <motion.span
+                aria-hidden
+                className="pointer-events-none absolute left-[20%] bottom-[18%] h-3.5 w-3.5 rounded-full border border-white/10 bg-white/5"
+                animate={{
+                  x: [0, -3, 1, 0],
+                  y: [0, 2, -2, 0],
+                  opacity: [0.14, 0.3, 0.16, 0.14],
+                }}
+                transition={{
+                  duration: 6 + (node.motionDuration % 4),
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+              />
+              <motion.span
+                aria-hidden
+                className="pointer-events-none absolute right-[18%] bottom-[12%] h-2.5 w-2.5 rounded-full border border-white/10 bg-white/5"
+                animate={{
+                  x: [0, 2, -2, 0],
+                  y: [0, -2, 2, 0],
+                  opacity: [0.12, 0.24, 0.12],
+                }}
+                transition={{
+                  duration: 5.2 + (node.motionDuration % 3),
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+              />
+              {node.pulseClassName && <span className={node.pulseClassName} />}
+              <img
+                src={node.assetSrc}
+                alt={localize(node.assetAlt ?? node.title)}
+                draggable={false}
+                className={node.assetClassName}
+              />
+            </motion.button>
+          ))}
+
+          {activeMissionTarget && activeMissionMarkerPosition && (
+            <>
+              {isFocusedMissionVisible && activeMissionRouteLine && (
+                <div
+                  className="pointer-events-none absolute z-[9] h-[2px] rounded-full bg-[linear-gradient(90deg,rgba(34,211,238,0.06),rgba(34,211,238,0.9),rgba(34,211,238,0.08))] shadow-[0_0_12px_rgba(34,211,238,0.28)]"
+                  style={getGalaxyLinkStyle(activeMissionRouteLine.from, activeMissionRouteLine.to)}
+                />
+              )}
+              <motion.button
+                type="button"
+                onClick={() => setFocusedDroneNodeId((current) => (current === activeMission.targetNodeId ? null : activeMission.targetNodeId))}
+                className="absolute z-[14] flex h-10 w-10 items-center justify-center rounded-full border border-cyan-300/26 bg-[#07111d]/80 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.24)] backdrop-blur-md transition hover:scale-[1.04] hover:bg-[#0c1728]/90"
+                style={{
+                  left: `${activeMissionMarkerPosition.x}px`,
+                  top: `${activeMissionMarkerPosition.y}px`,
+                  transform: "translate(-50%, -50%)",
+                }}
+                animate={{
+                  scale: activeMissionStatus?.status === "traveling" ? [0.96, 1.06, 0.96] : [1, 1.06, 1],
+                  opacity: [0.88, 1, 0.88],
+                }}
+                transition={{
+                  duration: activeMissionStatus?.status === "traveling" ? 1.4 : 1.8,
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
+                aria-label="Drone"
+              >
+                <Rocket size={16} />
+              </motion.button>
+              {isFocusedMissionVisible && (
+                <motion.div
+                  initial={{ opacity: 0, y: 6, scale: 0.98 }}
+                  animate={{ opacity: 1, y: 0, scale: 1 }}
+                  className="absolute z-[15] pointer-events-none w-[170px] rounded-[16px] border border-cyan-300/18 bg-[#081120]/92 px-3 py-2 text-white shadow-[0_16px_34px_rgba(0,0,0,0.26)] backdrop-blur-md"
+                  style={{
+                    left: `${activeMissionMarkerPosition.x + 18}px`,
+                    top: `${activeMissionMarkerPosition.y - 54}px`,
+                  }}
+                >
+                  <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-200/72">
+                    {activeMissionStatus?.status === "traveling"
+                      ? localize({ en: "Drone route", hu: "Drón útvonal", de: "Drohnenroute", ro: "Rută dronă" })
+                      : localize({ en: "Drone mining", hu: "Drón bányászik", de: "Drohne baut ab", ro: "Dronă extrage" })}
+                  </div>
+                  <div className="mt-1 text-[13px] font-black text-white">
+                    {activeMissionStatus?.status === "traveling"
+                      ? localize({
+                          en: `Arrives in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                          hu: `${formatDurationMinutes(activeMissionStatus.remainingMinutes)} múlva ér be`,
+                          de: `Ankunft in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                          ro: `Ajunge în ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                        })
+                      : localize({
+                          en: `Finishes in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                          hu: `${formatDurationMinutes(activeMissionStatus.remainingMinutes)} múlva végez`,
+                          de: `Fertig in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                          ro: `Se termină în ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`,
+                        })}
+                  </div>
+                  {activeMissionStatus?.status === "mining" && (
+                    <div className="mt-1 text-[10px] font-black text-emerald-100/90">
+                      {localize({
+                        en: `Gathered ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`,
+                        hu: `Begyűjtve ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`,
+                        de: `Gesammelt ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`,
+                        ro: `Colectat ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`,
+                      })}
+                    </div>
+                  )}
+                </motion.div>
+              )}
+            </>
+          )}
+
+          <AnimatePresence>
+            {selectedNode && (
+              <GalaxyNodeCard
+                lang={lang}
+              node={selectedNode}
+              travelInfo={selectedNodeTravelInfo}
+              activeMission={selectedNodeMission}
+              onDispatchDrone={selectedNode.type === "resource" && !activeMission ? () => dispatchDrone(selectedNode) : null}
+              onRecallDrone={selectedNode.type === "resource" && activeMission ? recallDrone : null}
+              onClose={() => setSelectedNodeId(null)}
+            />
+          )}
+        </AnimatePresence>
         </div>
       </div>
     </div>
@@ -2762,33 +3527,6 @@ function Badge({ color, label, lang }: { color: string; label: LocalizedString; 
     <div className={`px-2 py-1 rounded text-[9px] font-black uppercase tracking-tight border border-white/5 ${color}`}>
       {label[lang as keyof LocalizedString] || label.en}
     </div>
-  );
-}
-
-function MapMiniButton({
-  icon,
-  active,
-  onClick,
-  showDot,
-}: {
-  icon: React.ReactNode;
-  active?: boolean;
-  onClick: () => void;
-  showDot?: boolean;
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      className={`relative flex h-9 w-9 items-center justify-center rounded-full border backdrop-blur-md transition ${
-        active
-          ? "border-cyan-300/45 bg-cyan-400/14 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.16)]"
-          : "border-white/10 bg-black/28 text-white/70 hover:bg-white/10"
-      }`}
-    >
-      {icon}
-      {showDot && <span className="absolute right-1.5 top-1.5 h-1.5 w-1.5 rounded-full bg-amber-300 shadow-[0_0_10px_rgba(252,211,77,0.8)]" />}
-    </button>
   );
 }
 

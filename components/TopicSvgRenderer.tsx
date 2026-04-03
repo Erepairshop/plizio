@@ -5,6 +5,9 @@
 
 import type { SvgConfig } from "@/lib/explorerPools/types";
 import * as BioSvgs from "@/app/astro-biologie/svg";
+import * as KemiaSvgs from "@/app/astrokemia/svg";
+import * as PhysikSvgs from "@/app/astro-physik/svg";
+import * as MathSvgs from "@/app/astromath/svg";
 
 interface Props {
   config: SvgConfig;
@@ -28,6 +31,60 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
         <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
              style={{ backgroundColor: bg ?? "transparent" }}>
           <SvgComp lang={lang} color={color} />
+        </div>
+      );
+    }
+
+    // ── Chemistry specific diagrams from the shared library ──────────
+    case "kemia-diagram": {
+      const { name, color, bg } = config;
+      const SvgComp = (KemiaSvgs as any)[name];
+      if (!SvgComp) return (
+        <svg width="100%" viewBox="0 0 240 140">
+          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
+        </svg>
+      );
+      return (
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+             style={{ backgroundColor: bg ?? "transparent" }}>
+          <SvgComp lang={lang} color={color} />
+        </div>
+      );
+    }
+
+    // ── Physics specific diagrams from the shared library ────────────
+    case "physik-diagram": {
+      const { name, color, bg } = config;
+      const SvgComp = (PhysikSvgs as any)[name];
+      if (!SvgComp) return (
+        <svg width="100%" viewBox="0 0 240 140">
+          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
+        </svg>
+      );
+      return (
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+             style={{ backgroundColor: bg ?? "transparent" }}>
+          <SvgComp lang={lang} color={color} />
+        </div>
+      );
+    }
+
+    // ── Math specific diagrams from the shared library ───────────────
+    case "math-diagram": {
+      const { name, props, bg } = config;
+      const SvgComp = (MathSvgs as any)[name];
+      if (!SvgComp) return (
+        <svg width="100%" viewBox="0 0 240 140">
+          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
+        </svg>
+      );
+      return (
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+             style={{ backgroundColor: bg ?? "transparent" }}>
+          <SvgComp {...props} lang={lang} />
         </div>
       );
     }

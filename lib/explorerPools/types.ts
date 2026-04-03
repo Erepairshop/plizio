@@ -94,6 +94,27 @@ export type SvgConfig =
       color?: string;
       bg?: string;
     }
+  /** Chemistry-specific illustration from the SVG library */
+  | {
+      type: "kemia-diagram";
+      name: string; // matches export name in @/app/astrokemia/svg
+      color?: string;
+      bg?: string;
+    }
+  /** Physics-specific illustration from the SVG library */
+  | {
+      type: "physik-diagram";
+      name: string; // matches export name in @/app/astro-physik/svg
+      color?: string;
+      bg?: string;
+    }
+  /** Math-specific illustration from the SVG library */
+  | {
+      type: "math-diagram";
+      name: string; // matches export name in @/app/astromath/svg
+      props?: any;
+      bg?: string;
+    }
   /** One large emoji with optional title — simple fallback */
   | {
       type: "simple-icon";
