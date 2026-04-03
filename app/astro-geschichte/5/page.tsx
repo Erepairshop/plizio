@@ -371,7 +371,7 @@ export default function AstroGeschichteK5Page() {
         <div className="relative z-10 flex items-center justify-between px-4 pt-5"><button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button></div>
         <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 justify-center">
           {activeIsland.missions.map((m, i) => {
-            const cfg = CATEGORY_CONFIG[m.category];
+            const cfg = CATEGORY_CONFIG[m.category as string];
             const done = isMissionDoneK5(progress, activeIsland.id, m.id);
             return (
               <button key={i} onClick={() => startMission(m)} className="w-full rounded-3xl p-5 text-left border-2" style={{ background: cfg.bg, borderColor: done ? cfg.color : cfg.border }}>
@@ -406,7 +406,7 @@ export default function AstroGeschichteK5Page() {
     );
   }
 
-  if (screen === "orbit-quiz" && questions.length > 0) return null; // Placeholder catch-all
+  // catch-all
 
   // Simplify for other screens to fit limits, following standard Plizio patterns
   if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">Mission befehdet!</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
