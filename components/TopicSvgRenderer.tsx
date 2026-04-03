@@ -8,6 +8,7 @@ import * as BioSvgs from "@/app/astro-biologie/svg";
 import * as KemiaSvgs from "@/app/astrokemia/svg";
 import * as PhysikSvgs from "@/app/astro-physik/svg";
 import * as MathSvgs from "@/app/astromath/svg";
+import * as GeschichteSvgs from "@/app/astro-geschichte/svg";
 
 interface Props {
   config: SvgConfig;
@@ -57,6 +58,24 @@ export default function TopicSvgRenderer({ config, lang = "en" }: Props) {
     case "physik-diagram": {
       const { name, color, bg } = config;
       const SvgComp = (PhysikSvgs as any)[name];
+      if (!SvgComp) return (
+        <svg width="100%" viewBox="0 0 240 140">
+          <rect width="240" height="140" fill="#FEF2F2" rx="20" />
+          <text x="120" y="70" fontSize="12" fill="#EF4444" textAnchor="middle">SVG not found: {name}</text>
+        </svg>
+      );
+      return (
+        <div className="w-full h-full flex items-center justify-center p-1 rounded-2xl overflow-hidden" 
+             style={{ backgroundColor: bg ?? "transparent" }}>
+          <SvgComp lang={lang} color={color} />
+        </div>
+      );
+    }
+
+    // ── History specific diagrams from the shared library ────────────
+    case "geschichte-diagram": {
+      const { name, color, bg } = config;
+      const SvgComp = (GeschichteSvgs as any)[name];
       if (!SvgComp) return (
         <svg width="100%" viewBox="0 0 240 140">
           <rect width="240" height="140" fill="#FEF2F2" rx="20" />

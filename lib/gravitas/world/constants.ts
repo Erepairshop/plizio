@@ -1,9 +1,28 @@
-import type { GalaxySpacingRules, GalaxyWorldSize } from "./types";
+import type { GalaxySpacingRules, GalaxyWorldPosition, GalaxyWorldSize } from "./types";
 
 export const GALAXY_WORLD_SIZE: GalaxyWorldSize = {
   width: 18000,
   height: 4800,
 };
+
+export const GALAXY_RENDER_WORLD_SIZE: GalaxyWorldSize = {
+  width: GALAXY_WORLD_SIZE.width * 3,
+  height: GALAXY_WORLD_SIZE.height * 3,
+};
+
+export const GALAXY_RENDER_WORLD_OFFSET: GalaxyWorldPosition = {
+  x: GALAXY_WORLD_SIZE.width,
+  y: GALAXY_WORLD_SIZE.height,
+};
+
+export const METEOR_MATERIAL_ORDER = [
+  "lumen_dust",
+  "verdant_crystals",
+  "aether_ore",
+  "ember_shards",
+  "sable_alloy",
+  "rift_stone",
+] as const;
 
 export const GALAXY_WORLD_PADDING = 120;
 

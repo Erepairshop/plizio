@@ -1,6 +1,8 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import type { PointerEvent as ReactPointerEvent, WheelEvent as ReactWheelEvent } from "react";
+import type { CSSProperties } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Home, Rocket, RotateCcw, X } from "lucide-react";
 import {
@@ -8,8 +10,8 @@ import {
   GALAXY_DEMO_NODES,
   GALAXY_PLAYER_BASE_NODE,
   GALAXY_WORLD_SIZE,
-  METEOR_MATERIAL_META,
-  METEOR_MATERIAL_ORDER,
+  GALAXY_RENDER_WORLD_OFFSET,
+  GALAXY_RENDER_WORLD_SIZE,
   getGalaxyLinkStyle,
   getGalaxyNodeAnchorStyle,
   getGalaxyTravelDistance,
@@ -20,18 +22,15 @@ import {
 import type { GalaxyNode } from "@/lib/gravitas/world";
 import {
   addGalaxyInventoryMaterial,
-  formatCompactGalaxyValue,
   formatDurationMinutes,
   getDroneMissionCurrentPosition,
   loadSavedDroneMission,
-  loadSavedGalaxyInventory,
-  loadSavedGalaxyLivePreview,
   saveDroneMission,
   saveGalaxyInventory,
   saveGalaxyLivePreview,
+  loadSavedGalaxyInventory,
   type DroneMissionState,
   type GalaxyInventory,
-  type GalaxyLivePreview,
   type GalaxyMaterialId,
 } from "@/lib/gravitas/world/mission";
 import GalaxyNodeCard, { type GalaxyMissionStatus } from "@/components/gravitas/galaxy/GalaxyNodeCard";
@@ -42,20 +41,54 @@ function localize(lang: Lang, ls: LocalizedString) {
   return ls[lang] ?? ls.en;
 }
 
+function getNodeAuraStyle(node: GalaxyNode): CSSProperties {
+  if (node.type === "base") {
+    return { background: "radial-gradient(circle, rgba(34,211,238,0.28) 0%, rgba(34,211,238,0.14) 28%, rgba(34,211,238,0.05) 50%, transparent 74%)" };
+  }
+  if (node.type === "battle") {
+    return { background: "radial-gradient(circle, rgba(251,146,60,0.26) 0%, rgba(251,146,60,0.12) 28%, rgba(251,146,60,0.05) 52%, transparent 76%)" };
+  }
+  if (node.type === "resource") {
+    const materialId = node.materialId ?? "aether_ore";
+    const palette: Record<string, string> = {
+      lumen_dust: "rgba(167,139,250,0.24)",
+      verdant_crystals: "rgba(74,222,128,0.24)",
+      aether_ore: "rgba(34,211,238,0.24)",
+      ember_shards: "rgba(251,191,36,0.24)",
+      sable_alloy: "rgba(148,163,184,0.22)",
+      rift_stone: "rgba(56,189,248,0.24)",
+    };
+    const color = palette[materialId] ?? "rgba(34,211,238,0.24)";
+    return { background: `radial-gradient(circle, ${color} 0%, rgba(255,255,255,0.12) 28%, rgba(255,255,255,0.05) 54%, transparent 78%)` };
+  }
+  return { background: "radial-gradient(circle, rgba(255,255,255,0.16) 0%, rgba(255,255,255,0.08) 32%, rgba(255,255,255,0.03) 58%, transparent 78%)" };
+}
+
 export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void }) {
+  const isLiteMode = process.env.NODE_ENV !== "production";
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [activeMission, setActiveMission] = useState<DroneMissionState | null>(() => loadSavedDroneMission());
   const [missionClock, setMissionClock] = useState(() => Date.now());
   const [focusedDroneNodeId, setFocusedDroneNodeId] = useState<string | null>(null);
   const [galaxyInventory, setGalaxyInventory] = useState<GalaxyInventory>(() => loadSavedGalaxyInventory());
-  const [galaxyLivePreview, setGalaxyLivePreview] = useState<GalaxyLivePreview>(() => loadSavedGalaxyLivePreview());
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
+  const panDragRef = useRef<{
+    active: boolean;
+    dragging: boolean;
+    pointerId: number | null;
+    startX: number;
+    startY: number;
+    lastX: number;
+    lastY: number;
+  }>({ active: false, dragging: false, pointerId: null, startX: 0, startY: 0, lastX: 0, lastY: 0 });
+  const suppressNextNodeClickRef = useRef(false);
   const activeMissionRef = useRef<DroneMissionState | null>(activeMission);
   const activeMissionStatusRef = useRef<GalaxyMissionStatus | null>(null);
   const galaxyNodes = useMemo(() => GALAXY_DEMO_NODES, []);
   const placementReport = useMemo(() => validateGalaxyNodes(galaxyNodes, GALAXY_WORLD_SIZE), [galaxyNodes]);
   const selectedNode = galaxyNodes.find((node) => node.id === selectedNodeId) ?? null;
   const playerBaseNode = galaxyNodes.find((node) => node.type === "base") ?? GALAXY_PLAYER_BASE_NODE;
+  const renderOffset = GALAXY_RENDER_WORLD_OFFSET;
 
   const selectedNodeTravelInfo = useMemo(() => {
     if (!selectedNode || selectedNode.id === playerBaseNode.id) return null;
@@ -102,10 +135,6 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
   useEffect(() => { saveDroneMission(activeMission); }, [activeMission]);
   useEffect(() => { saveGalaxyInventory(galaxyInventory); }, [galaxyInventory]);
   useEffect(() => {
-    if (galaxyLivePreview) saveGalaxyLivePreview(galaxyLivePreview);
-    else saveGalaxyLivePreview(null);
-  }, [galaxyLivePreview]);
-  useEffect(() => {
     const persist = () => {
       saveDroneMission(activeMissionRef.current);
       saveGalaxyInventory(galaxyInventory);
@@ -131,24 +160,16 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
   }, [placementReport]);
   useEffect(() => {
     if (activeMissionStatus?.status === "mining" && activeMission) {
-      setGalaxyLivePreview({ materialId: activeMission.materialId, amount: activeMissionStatus.gatheredUnits });
+      saveGalaxyLivePreview({ materialId: activeMission.materialId, amount: activeMissionStatus.gatheredUnits });
       return;
     }
-    setGalaxyLivePreview(null);
+    saveGalaxyLivePreview(null);
   }, [activeMission, activeMissionStatus?.gatheredUnits, activeMissionStatus?.status]);
   useEffect(() => {
     if (focusedDroneNodeId && (!activeMission || activeMission.targetNodeId !== focusedDroneNodeId)) {
       setFocusedDroneNodeId(null);
     }
   }, [activeMission, focusedDroneNodeId]);
-
-  const displayedGalaxyInventory = useMemo(() => {
-    const display = { ...galaxyInventory };
-    if (galaxyLivePreview) {
-      display[galaxyLivePreview.materialId] = Math.max(0, display[galaxyLivePreview.materialId] + galaxyLivePreview.amount);
-    }
-    return display;
-  }, [galaxyInventory, galaxyLivePreview]);
 
   const dispatchDrone = useCallback((targetNode: GalaxyNode) => {
     if (targetNode.type !== "resource" || activeMission) return;
@@ -177,6 +198,11 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
     setMissionClock(now);
     setActiveMission({ ...activeMission, phase: "returning", committedUnits: (activeMission.committedUnits ?? 0) + committedUnits, returnStartedAt, returnCompleteAt, returnStartPosition: currentPosition });
   }, [activeMission, activeMissionTarget, playerBaseNode.position]);
+  useEffect(() => {
+    if (!activeMission || activeMission.phase !== "mining") return;
+    if (missionClock < activeMission.miningCompleteAt) return;
+    recallDrone();
+  }, [activeMission, missionClock, recallDrone]);
   const activeMissionRouteLine = useMemo(() => {
     if (!activeMission || !activeMissionTarget) return null;
     if (activeMission.phase === "traveling") return { from: playerBaseNode.position, to: activeMissionTarget.position };
@@ -186,68 +212,150 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
   const focusBase = useCallback(() => {
     const container = scrollContainerRef.current;
     if (!container) return;
-    container.scrollTo({ left: Math.max(0, playerBaseNode.position.x - container.clientWidth / 2), top: Math.max(0, playerBaseNode.position.y - container.clientHeight / 2), behavior: "smooth" });
+    container.scrollTo({
+      left: Math.max(0, playerBaseNode.position.x + renderOffset.x - container.clientWidth / 2),
+      top: Math.max(0, playerBaseNode.position.y + renderOffset.y - container.clientHeight / 2),
+      behavior: "smooth",
+    });
     setSelectedNodeId(playerBaseNode.id);
-  }, [playerBaseNode.id, playerBaseNode.position]);
+  }, [playerBaseNode.id, playerBaseNode.position, renderOffset.x, renderOffset.y]);
+
+  useEffect(() => {
+    const frame = window.requestAnimationFrame(() => {
+      focusBase();
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [focusBase]);
+
+  const beginPan = useCallback((event: ReactPointerEvent<HTMLDivElement>) => {
+    const container = scrollContainerRef.current;
+    if (!container) return;
+    panDragRef.current = {
+      active: true,
+      dragging: false,
+      pointerId: event.pointerId,
+      startX: event.clientX,
+      startY: event.clientY,
+      lastX: event.clientX,
+      lastY: event.clientY,
+    };
+    container.setPointerCapture(event.pointerId);
+    container.style.cursor = "grabbing";
+  }, []);
+
+  const movePan = useCallback((event: ReactPointerEvent<HTMLDivElement>) => {
+    const container = scrollContainerRef.current;
+    const drag = panDragRef.current;
+    if (!container || !drag.active || drag.pointerId !== event.pointerId) return;
+    const movedDistance = Math.hypot(event.clientX - drag.startX, event.clientY - drag.startY);
+    if (!drag.dragging && movedDistance > 6) {
+      drag.dragging = true;
+      suppressNextNodeClickRef.current = true;
+    }
+    if (!drag.dragging) return;
+    const dx = drag.lastX - event.clientX;
+    const dy = drag.lastY - event.clientY;
+    drag.lastX = event.clientX;
+    drag.lastY = event.clientY;
+    container.scrollLeft += dx;
+    container.scrollTop += dy;
+  }, []);
+
+  const endPan = useCallback((event: ReactPointerEvent<HTMLDivElement>) => {
+    const container = scrollContainerRef.current;
+    const drag = panDragRef.current;
+    if (!container || drag.pointerId !== event.pointerId) return;
+    drag.active = false;
+    drag.dragging = false;
+    drag.pointerId = null;
+    container.style.cursor = "grab";
+    try {
+      container.releasePointerCapture(event.pointerId);
+    } catch {
+      // ignore capture release failures
+    }
+    window.setTimeout(() => {
+      suppressNextNodeClickRef.current = false;
+    }, 0);
+  }, []);
+
+  const handleWheel = useCallback((event: ReactWheelEvent<HTMLDivElement>) => {
+    const container = scrollContainerRef.current;
+    if (!container) return;
+    event.preventDefault();
+    const delta = event.shiftKey ? event.deltaY : (Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY);
+    if (event.shiftKey || Math.abs(event.deltaX) > Math.abs(event.deltaY)) {
+      container.scrollLeft += delta;
+    } else {
+      container.scrollTop += delta;
+    }
+  }, []);
+
+  const handleNodeSelect = useCallback((nodeId: string) => {
+    if (suppressNextNodeClickRef.current) return;
+    setSelectedNodeId(nodeId);
+  }, []);
 
   return (
     <div className="relative h-full w-full overflow-hidden">
       <button type="button" onClick={onClose} className="absolute right-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/30 text-white/75 transition hover:bg-white/15 hover:text-white">
         <X size={16} />
       </button>
-      <div className="absolute inset-0 overflow-auto" ref={scrollContainerRef} style={{ backgroundImage: "url('/gravitas/galaxy/deep-space-tile.webp')", backgroundRepeat: "repeat", backgroundSize: "460px 460px" }}>
-        <div className="relative overflow-hidden" style={getGalaxyWorldCanvasStyle(GALAXY_WORLD_SIZE)}>
-          <div className="absolute left-4 top-4 z-[18] w-[260px] rounded-[20px] border border-cyan-300/14 bg-[#081120]/78 p-3 text-white shadow-[0_18px_42px_rgba(0,0,0,0.26)] backdrop-blur-md">
-            <div className="flex items-center justify-between gap-3">
-              <div className="relative h-11 w-16 overflow-hidden rounded-2xl border border-white/10 bg-black/25">
-                <div className="absolute inset-y-[8px] left-[6px] w-[16px] rounded-full border border-white/10 bg-white/5" />
-                <motion.div className="absolute top-1/2 h-5 w-5 -translate-y-1/2 rounded-full border border-cyan-300/30 bg-cyan-300/18 shadow-[0_0_16px_rgba(34,211,238,0.28)]" animate={activeMissionStatus ? { x: [8, 38, 46], opacity: [0.8, 1, 0.85] } : { x: 8, opacity: 0.72 }} transition={activeMissionStatus ? { duration: 1.4, repeat: Infinity, ease: "easeInOut" } : { duration: 0.2 }}>
-                  <div className="absolute inset-[5px] rounded-full bg-cyan-100" />
-                </motion.div>
-              </div>
-            </div>
-            <div className="mt-2 flex items-center gap-1.5 overflow-x-auto no-scrollbar scrollbar-hide">
-              {METEOR_MATERIAL_ORDER.map((materialId) => {
-                const meta = METEOR_MATERIAL_META[materialId];
-                return (
-                  <div key={materialId} className={`group flex shrink-0 items-center gap-1.5 rounded-full border px-2 py-1 text-[10px] font-black uppercase tracking-[0.08em] text-white/78 ${meta.glowClassName}`}>
-                    <span className={`flex h-4 w-4 items-center justify-center rounded-full border border-white/10 bg-black/18 text-[8px] ${meta.colorClassName}`}>{localize(lang, meta.short)}</span>
-                    <span className={`hidden sm:inline ${meta.colorClassName}`}>{localize(lang, meta.label)}</span>
-                    <span className="text-white">{formatCompactGalaxyValue(displayedGalaxyInventory[materialId])}</span>
-                  </div>
-                );
-              })}
-            </div>
-            <div className="mt-2 text-[10px] leading-relaxed text-white/64">{activeMissionTarget ? `Locked route to ${localize(lang, activeMissionTarget.title)}.` : "Select a meteor and dispatch the drone. Travel and mining timers run live from the base."}</div>
-            <div className="mt-3 flex items-center gap-2">
-              <button type="button" onClick={focusBase} className="flex items-center gap-2 rounded-full border border-cyan-300/18 bg-cyan-300/10 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.16em] text-cyan-50 transition hover:bg-cyan-300/16">
-                <Home size={12} />
-                {localize(lang, { en: "Go to base", hu: "Bázisra", de: "Zur Basis", ro: "La bază" })}
-              </button>
-            </div>
-          </div>
+      <div
+        className="absolute inset-0 overflow-auto"
+        ref={scrollContainerRef}
+        style={{
+          backgroundImage: "url('/gravitas/galaxy/deep-space-tile.webp')",
+          backgroundRepeat: "repeat",
+          backgroundSize: "460px 460px",
+          overscrollBehavior: "contain",
+          touchAction: "none",
+          WebkitOverflowScrolling: "touch",
+          cursor: "grab",
+        }}
+        onWheel={handleWheel}
+        onPointerDown={beginPan}
+        onPointerMove={movePan}
+        onPointerUp={endPan}
+        onPointerCancel={endPan}
+      >
+        <div className="relative overflow-hidden" style={getGalaxyWorldCanvasStyle(GALAXY_RENDER_WORLD_SIZE)}>
           <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_18%_18%,rgba(56,189,248,0.08),transparent_20%),radial-gradient(circle_at_76%_24%,rgba(168,85,247,0.08),transparent_18%),radial-gradient(circle_at_52%_68%,rgba(15,23,42,0.38),transparent_36%)]" />
           {GALAXY_DECOR_LAYERS.map((layer) => (<img key={layer.id} src={layer.src} alt="" draggable={false} className={layer.className} />))}
           {galaxyNodes.map((node) => (
-            <motion.button key={node.id} type="button" onClick={() => setSelectedNodeId(node.id)} className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70" style={getGalaxyNodeAnchorStyle(node.position, GALAXY_WORLD_SIZE)} animate={node.motion} transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}>
-              <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[112px] w-[112px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10" animate={{ scale: [0.92, 1.08, 0.92], opacity: [0.08, 0.2, 0.08] }} transition={{ duration: 4.6 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
-              <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[146px] w-[146px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-[radial-gradient(circle,rgba(255,255,255,0.08),rgba(255,255,255,0.02)_36%,transparent_70%)] blur-xl" animate={{ scale: [0.96, 1.06, 0.98], opacity: [0.14, 0.26, 0.14] }} transition={{ duration: 5.4 + (node.motionDuration % 4), repeat: Infinity, ease: "easeInOut" }} />
-              <motion.span aria-hidden className="pointer-events-none absolute left-[8%] top-[18%] h-2 w-2 rounded-full bg-white/80 blur-[0.5px]" animate={{ opacity: [0.08, 0.6, 0.08], scale: [0.8, 1.25, 0.8] }} transition={{ duration: 3.2 + (node.motionDuration % 2), repeat: Infinity, ease: "easeInOut" }} />
-              <motion.span aria-hidden className="pointer-events-none absolute right-[14%] top-[26%] h-1.5 w-1.5 rounded-full bg-cyan-200/80 blur-[0.5px]" animate={{ opacity: [0.06, 0.42, 0.06], y: [0, -5, 0] }} transition={{ duration: 4.2 + (node.motionDuration % 5), repeat: Infinity, ease: "easeInOut" }} />
-              <motion.span aria-hidden className="pointer-events-none absolute left-[20%] bottom-[18%] h-3.5 w-3.5 rounded-full border border-white/10 bg-white/5" animate={{ x: [0, -3, 1, 0], y: [0, 2, -2, 0], opacity: [0.14, 0.3, 0.16, 0.14] }} transition={{ duration: 6 + (node.motionDuration % 4), repeat: Infinity, ease: "easeInOut" }} />
-              <motion.span aria-hidden className="pointer-events-none absolute right-[18%] bottom-[12%] h-2.5 w-2.5 rounded-full border border-white/10 bg-white/5" animate={{ x: [0, 2, -2, 0], y: [0, -2, 2, 0], opacity: [0.12, 0.24, 0.12] }} transition={{ duration: 5.2 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
+            <motion.button key={node.id} type="button" onClick={() => handleNodeSelect(node.id)} className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70" style={getGalaxyNodeAnchorStyle(node.position, GALAXY_RENDER_WORLD_SIZE, renderOffset)} animate={node.motion} transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}>
+              {!isLiteMode && (
+                <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[132px] w-[132px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10 bg-black/10 blur-[0.5px]" animate={{ scale: [0.95, 1.03, 0.96], opacity: [0.16, 0.24, 0.16] }} transition={{ duration: 4.6 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
+              )}
+              <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[170px] w-[170px] -translate-x-1/2 -translate-y-1/2 rounded-full blur-2xl" style={getNodeAuraStyle(node)} animate={isLiteMode ? { scale: 1, opacity: 0.5 } : { scale: [0.96, 1.06, 0.98], opacity: [0.42, 0.68, 0.42] }} transition={{ duration: 5.4 + (node.motionDuration % 4), repeat: Infinity, ease: "easeInOut" }} />
+              {!isLiteMode && (
+                <>
+                  <motion.span aria-hidden className="pointer-events-none absolute left-[8%] top-[18%] h-2 w-2 rounded-full bg-white/90 blur-[0.5px]" animate={{ opacity: [0.12, 0.72, 0.12], scale: [0.8, 1.25, 0.8] }} transition={{ duration: 3.2 + (node.motionDuration % 2), repeat: Infinity, ease: "easeInOut" }} />
+                  <motion.span aria-hidden className="pointer-events-none absolute right-[14%] top-[26%] h-1.5 w-1.5 rounded-full bg-cyan-200/90 blur-[0.5px]" animate={{ opacity: [0.1, 0.5, 0.1], y: [0, -5, 0] }} transition={{ duration: 4.2 + (node.motionDuration % 5), repeat: Infinity, ease: "easeInOut" }} />
+                  <motion.span aria-hidden className="pointer-events-none absolute left-[20%] bottom-[18%] h-3.5 w-3.5 rounded-full border border-white/10 bg-white/10" animate={{ x: [0, -3, 1, 0], y: [0, 2, -2, 0], opacity: [0.22, 0.42, 0.24, 0.22] }} transition={{ duration: 6 + (node.motionDuration % 4), repeat: Infinity, ease: "easeInOut" }} />
+                  <motion.span aria-hidden className="pointer-events-none absolute right-[18%] bottom-[12%] h-2.5 w-2.5 rounded-full border border-white/10 bg-white/10" animate={{ x: [0, 2, -2, 0], y: [0, -2, 2, 0], opacity: [0.18, 0.3, 0.18] }} transition={{ duration: 5.2 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
+                </>
+              )}
               {node.pulseClassName && <span className={node.pulseClassName} />}
-              <img src={node.assetSrc} alt={localize(lang, node.assetAlt ?? node.title)} draggable={false} className={node.assetClassName} />
+              <img
+                src={node.assetSrc}
+                alt={localize(lang, node.assetAlt ?? node.title)}
+                draggable={false}
+                className={`${node.assetClassName} ${node.toneClassName ?? ""}`}
+              />
             </motion.button>
           ))}
           {activeMissionTarget && activeMissionMarkerPosition && (
             <>
-              {isFocusedMissionVisible && activeMissionRouteLine && <div className="pointer-events-none absolute z-[9] h-[2px] rounded-full bg-[linear-gradient(90deg,rgba(34,211,238,0.06),rgba(34,211,238,0.9),rgba(34,211,238,0.08))] shadow-[0_0_12px_rgba(34,211,238,0.28)]" style={getGalaxyLinkStyle(activeMissionRouteLine.from, activeMissionRouteLine.to)} />}
-              <motion.button type="button" onClick={() => setFocusedDroneNodeId((current) => (current === activeMission.targetNodeId ? null : activeMission.targetNodeId))} className="absolute z-[14] flex h-10 w-10 items-center justify-center rounded-full border border-cyan-300/26 bg-[#07111d]/80 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.24)] backdrop-blur-md transition hover:scale-[1.04] hover:bg-[#0c1728]/90" style={{ left: `${activeMissionMarkerPosition.x}px`, top: `${activeMissionMarkerPosition.y}px`, transform: "translate(-50%, -50%)" }} animate={{ scale: activeMissionStatus?.status === "traveling" ? [0.96, 1.06, 0.96] : [1, 1.06, 1], opacity: [0.88, 1, 0.88] }} transition={{ duration: activeMissionStatus?.status === "traveling" ? 1.4 : 1.8, repeat: Infinity, ease: "easeInOut" }} aria-label="Drone">
+              {isFocusedMissionVisible && activeMissionRouteLine && <div className="pointer-events-none absolute z-[9] h-[2px] rounded-full bg-[linear-gradient(90deg,rgba(34,211,238,0.06),rgba(34,211,238,0.9),rgba(34,211,238,0.08))] shadow-[0_0_12px_rgba(34,211,238,0.28)]" style={getGalaxyLinkStyle(activeMissionRouteLine.from, activeMissionRouteLine.to, renderOffset)} />}
+                <motion.button type="button" onClick={() => {
+                  if (suppressNextNodeClickRef.current) return;
+                  setFocusedDroneNodeId((current) => (current === activeMission.targetNodeId ? null : activeMission.targetNodeId));
+                }} className="absolute z-[14] flex h-10 w-10 items-center justify-center rounded-full border border-cyan-300/26 bg-[#07111d]/80 text-cyan-100 shadow-[0_0_18px_rgba(34,211,238,0.24)] backdrop-blur-md transition hover:scale-[1.04] hover:bg-[#0c1728]/90" style={{ left: `${activeMissionMarkerPosition.x + renderOffset.x}px`, top: `${activeMissionMarkerPosition.y + renderOffset.y}px`, transform: "translate(-50%, -50%)" }} animate={{ scale: activeMissionStatus?.status === "traveling" ? [0.96, 1.06, 0.96] : [1, 1.06, 1], opacity: [0.88, 1, 0.88] }} transition={{ duration: activeMissionStatus?.status === "traveling" ? 1.4 : 1.8, repeat: Infinity, ease: "easeInOut" }} aria-label="Drone">
                 <Rocket size={16} />
               </motion.button>
               {isFocusedMissionVisible && (
-                <motion.div initial={{ opacity: 0, y: 6, scale: 0.98 }} animate={{ opacity: 1, y: 0, scale: 1 }} className="absolute z-[15] pointer-events-none w-[170px] rounded-[16px] border border-cyan-300/18 bg-[#081120]/92 px-3 py-2 text-white shadow-[0_16px_34px_rgba(0,0,0,0.26)] backdrop-blur-md" style={{ left: `${activeMissionMarkerPosition.x + 18}px`, top: `${activeMissionMarkerPosition.y - 54}px` }}>
+                <motion.div initial={{ opacity: 0, y: 6, scale: 0.98 }} animate={{ opacity: 1, y: 0, scale: 1 }} className="absolute z-[15] pointer-events-none w-[170px] rounded-[16px] border border-cyan-300/18 bg-[#081120]/92 px-3 py-2 text-white shadow-[0_16px_34px_rgba(0,0,0,0.26)] backdrop-blur-md" style={{ left: `${activeMissionMarkerPosition.x + renderOffset.x + 18}px`, top: `${activeMissionMarkerPosition.y + renderOffset.y - 54}px` }}>
                   <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-200/72">{activeMissionStatus?.status === "traveling" ? "Drone route" : "Drone mining"}</div>
                   <div className="mt-1 text-[13px] font-black text-white">{activeMissionStatus?.status === "traveling" ? `Arrives in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}` : `Finishes in ${formatDurationMinutes(activeMissionStatus?.remainingMinutes ?? 0)}`}</div>
                   {activeMissionStatus?.status === "mining" && <div className="mt-1 text-[10px] font-black text-emerald-100/90">{`Gathered ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`}</div>}

@@ -47,6 +47,7 @@ export interface GalaxyNode {
   assetSrc: string;
   assetAlt?: LocalizedString;
   assetClassName: string;
+  toneClassName?: string;
   pulseClassName?: string;
   motion: GalaxyNodeMotion;
   motionDuration: number;

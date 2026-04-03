@@ -115,6 +115,13 @@ export type SvgConfig =
       props?: any;
       bg?: string;
     }
+  /** History-specific illustration from the SVG library */
+  | {
+      type: "geschichte-diagram";
+      name: string; // matches export name in @/app/astro-geschichte/svg
+      color?: string;
+      bg?: string;
+    }
   /** One large emoji with optional title — simple fallback */
   | {
       type: "simple-icon";
