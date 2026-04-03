@@ -1,0 +1,1202 @@
+// ─── GERMAN GRADE 8 GESCHICHTE GENERATORS ────────────────────────────────────────
+// Procedural MCQ question generators for German Grade 8 Geschichte (20. Jahrhundert)
+// Generates 45 questions per subtopic using seeded PRNG for reproducibility.
+//
+// 7 subtopics: Imperialismus, Erster Weltkrieg, Weimarer Republik,
+// Nationalsozialismus, Zweiter Weltkrieg, Kalter Krieg, Wiedervereinigung
+// All questions in German language (Deutsch)
+// Grade-appropriate for 13-14 year old students (Achtklässler)
+// Sensitive topics (NS, Holocaust) handled with historical accuracy and educational care.
+
+import type { CurriculumMCQ } from "./curriculumTypes";
+
+// ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
+
+/** Seeded PRNG (Mulberry32) */
+function mulberry32(seed: number) {
+  return function() {
+    seed |= 0;
+    seed = (seed + 0x6D2B79F5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+/** Shuffle array using given RNG */
+function shuffle<T>(arr: T[], rng: () => number): T[] {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+/** Pick random element from array */
+function pick<T>(arr: T[], rng: () => number): T {
+  return arr[Math.floor(rng() * arr.length)];
+}
+
+/** Create MCQ question */
+function createMCQ(
+  topic: string,
+  subtopic: string,
+  question: string,
+  correct: string,
+  wrongOptions: string[],
+  rng?: () => number
+): CurriculumMCQ {
+  const seen = new Set<string>();
+  const unique: string[] = [];
+  for (const w of wrongOptions) {
+    if (w !== correct && !seen.has(w)) {
+      seen.add(w);
+      unique.push(w);
+    }
+  }
+  const randomFn = rng || (() => Math.random());
+  const opts = shuffle([correct, ...unique.slice(0, 3)], randomFn);
+  return {
+    type: "mcq",
+    topic,
+    subtopic,
+    question,
+    options: opts,
+    correct: opts.indexOf(correct)
+  };
+}
+
+// ─── 1. IMPERIALISMUS ────────────────────────────────────────────────────────
+
+function generateImperialismus(): CurriculumMCQ[] {
+  const rng = mulberry32(0xAB1234);
+  const T = "Geschichte";
+  const S = "Imperialismus";
+  const qs: CurriculumMCQ[] = [];
+
+  // Fixed questions (30)
+  const fixed: [string, string, string[]][] = [
+    ["Was versteht man unter Imperialismus?",
+      "Die Politik starker Staaten, andere Länder zu beherrschen und auszubeuten",
+      ["Ein Friedensbündnis zwischen europäischen Mächten", "Eine Wirtschaftsform ohne Privateigentum", "Die Abschaffung von Kolonien"]],
+    ["Welche Konferenz regelte 1884/85 die Aufteilung Afrikas unter den europäischen Mächten?",
+      "Die Berliner Konferenz",
+      ["Der Wiener Kongress", "Die Haager Friedenskonferenz", "Die Pariser Konferenz"]],
+    ["Wer war der erste Reichskanzler des Deutschen Kaiserreichs (ab 1871)?",
+      "Otto von Bismarck",
+      ["Wilhelm II.", "Hindenburg", "Ludendorff"]],
+    ["Welcher deutsche Kaiser entließ Bismarck 1890?",
+      "Wilhelm II.",
+      ["Wilhelm I.", "Friedrich III.", "Karl I."]],
+    ["Was bezeichnet man als 'Wettlauf um Afrika'?",
+      "Die Konkurrenz europäischer Mächte um Kolonien in Afrika",
+      ["Ein sportliches Wettkampfprogramm", "Den Aufbau von Handelsrouten durch die Sahara", "Die Suche nach dem Nil-Ursprung"]],
+    ["Welche europäische Nation besaß um 1900 das größte Kolonialreich?",
+      "Großbritannien",
+      ["Frankreich", "Deutschland", "Spanien"]],
+    ["Was ist Sozialdarwinismus?",
+      "Die fehlerhafte Übertragung von Darwins Evolutionslehre auf Völker und Rassen",
+      ["Eine Theorie über soziale Sicherheit", "Darwins eigene Gesellschaftslehre", "Die Lehre von der Gleichheit aller Menschen"]],
+    ["Welchen Rohstoff suchten europäische Kolonialmächte besonders in Afrika?",
+      "Elfenbein, Kautschuk und Mineralien",
+      ["Weizen und Kartoffeln", "Kohle und Stahl", "Holz und Papier"]],
+    ["Was war das Hauptziel der christlichen Missionierung in den Kolonien?",
+      "Die Verbreitung des christlichen Glaubens und die 'Zivilisierung' der einheimischen Bevölkerung",
+      ["Die Abschaffung des Sklavenhandels", "Die Einführung demokratischer Wahlen", "Die Errichtung von Schulen auf eigene Initiative der Kolonisierten"]],
+    ["In welchem Jahr fand die Berliner Konferenz (Kongo-Konferenz) statt?",
+      "1884/85",
+      ["1870/71", "1900/01", "1878"]],
+    ["Was war der Boxeraufstand (1900)?",
+      "Ein chinesischer Aufstand gegen ausländische Einflüsse und Kolonialinteressen",
+      ["Ein Aufstand deutscher Matrosen gegen ihre Offiziere", "Ein afrikanischer Widerstandskampf gegen Frankreich", "Eine indische Revolte gegen britische Steuern"]],
+    ["Welche Kolonialmacht kontrollierte Indien?",
+      "Großbritannien",
+      ["Frankreich", "Deutschland", "Portugal"]],
+    ["Was bedeutet der Begriff 'Kolonialismus'?",
+      "Die Herrschaft eines Staates über fremde Gebiete und Völker",
+      ["Ein Wirtschaftssystem ohne Privateigentum", "Ein Staatenbündnis gleichberechtigter Völker", "Die Verwaltung von Überseehandel durch Händler"]],
+    ["Welches Land besaß um 1914 das zweitgrößte Kolonialreich?",
+      "Frankreich",
+      ["Deutschland", "Russland", "Belgien"]],
+    ["Welche deutschen Kolonien gab es um 1900 in Afrika?",
+      "Deutsch-Südwestafrika, Togo, Kamerun, Deutsch-Ostafrika",
+      ["Ägypten, Algerien, Libyen", "Nigeria, Kenia, Südafrika", "Angola, Mosambik, Madagaskar"]],
+    ["Was war der Herero-Aufstand (1904–08)?",
+      "Ein Aufstand der Herero gegen die deutschen Kolonialherren in Südwestafrika",
+      ["Ein Aufstand in Kamerun gegen Frankreich", "Eine Rebellion in China gegen Deutschland", "Ein Widerstand in Indien gegen die britische Krone"]],
+    ["Was sind 'Schutzgebiete' im Kontext des deutschen Kolonialreichs?",
+      "Kolonien, die offiziell unter deutschem 'Schutz' standen",
+      ["Gebiete in Deutschland, die vor Überschwemmungen geschützt wurden", "Reservate für bedrohte Tierarten", "Gebiete für verbannte politische Gefangene"]],
+    ["Welches Motiv spielte beim Imperialismus KEINE wichtige Rolle?",
+      "Förderung der Demokratie in allen Kolonien",
+      ["Gewinnung von Rohstoffen", "Erschließung neuer Absatzmärkte", "Machtprestige und Nationalismus"]],
+    ["Was ist ein Protektorat?",
+      "Ein Gebiet, das formal eigenständig ist, aber von einer Großmacht kontrolliert wird",
+      ["Ein vollständig annektiertes Kolonialgebiet", "Ein Bündnisvertrag zwischen zwei gleich starken Mächten", "Eine internationale Schutzzone für Flüchtlinge"]],
+    ["Was versteht man unter 'Wettrüsten'?",
+      "Den Wettbewerb zwischen Staaten beim Aufbau von Streitkräften und Waffen",
+      ["Einen sportlichen Wettkampf zwischen Armeen", "Die internationale Abrüstungskonferenz", "Den Wettbewerb um die beste Rüstungsindustrie ohne Feindschaft"]],
+    ["Was war die politische Grundlage des Deutschen Kaiserreichs ab 1871?",
+      "Eine konstitutionelle Monarchie unter preußischer Führung",
+      ["Eine parlamentarische Demokratie", "Eine absolute Monarchie ohne Verfassung", "Eine Republik mit gewähltem Präsidenten"]],
+    ["Welches europäische Land war bei der Kongokonferenz Gastgeber?",
+      "Deutschland (Berlin)",
+      ["Frankreich (Paris)", "Belgien (Brüssel)", "Großbritannien (London)"]],
+    ["Was war Deutsch-Ostafrika hauptsächlich?",
+      "Heutiges Tansania, Ruanda und Burundi",
+      ["Heutiges Kenia und Somalia", "Heutiges Südafrika und Mosambik", "Heutiges Äthiopien und Eritrea"]],
+    ["Welches Bild hatte die europäische Gesellschaft oft von den kolonisierten Völkern?",
+      "Sie sahen sie als 'rückständig' und hielten die Kolonisierung für eine 'zivilisierende Mission'",
+      ["Sie respektierten die Kulturen vollständig als gleichwertig", "Sie lehnten jegliche Kolonialpolitik aus moralischen Gründen ab", "Sie fürchteten die militärische Stärke der Kolonien"]],
+    ["Welches Land führte im Kongostaat besonders brutale Kolonialherrschaft?",
+      "Belgien (König Leopold II.)",
+      ["Großbritannien", "Frankreich", "Deutschland"]],
+    ["Was war der Suezkanal für den Imperialismus?",
+      "Eine strategisch wichtige Wasserstraße, um die Kolonien schneller zu erreichen",
+      ["Ein Bewässerungsprojekt für ägyptische Landwirte", "Ein Symbol ägyptischer Unabhängigkeit", "Ein deutsches Bauprojekt im Mittelmeer"]],
+    ["Was ist eine Kolonie?",
+      "Ein von einer Fremdmacht beherrschtes Gebiet",
+      ["Ein freier Stadtstaat mit eigener Regierung", "Ein Handelspartner mit Zollfreiheit", "Eine Region mit besonderer Selbstverwaltung"]],
+    ["Welches Bündnis schloss Bismarck mit Österreich-Ungarn?",
+      "Den Zweibund (1879)",
+      ["Den Dreibund (1882) allein", "Die Entente cordiale", "Den Heiligen Bund"]],
+    ["Wer war Bismarck in seiner politischen Funktion?",
+      "Preußischer Ministerpräsident und Reichskanzler",
+      ["Deutscher Kaiser", "Außenminister Österreichs", "Oberbefehlshaber der deutschen Armee"]],
+    ["Was verstand man unter der 'Weltpolitik' Wilhelms II.?",
+      "Den deutschen Anspruch auf Einfluss und Kolonien in aller Welt",
+      ["Die Absicht, Europa friedlich zu einigen", "Eine Rückzugspolitik aus Überseegebieten", "Ein neutrales Verhältnis zu allen Großmächten"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  // Variable questions (15) using rng picks
+  const extraPairs: [string, string, string[]][] = [
+    ["Welche der folgenden Kolonialmächte war auch in Asien aktiv?",
+      "Alle genannten",
+      ["Nur Großbritannien", "Nur Frankreich", "Nur Russland"]],
+    ["Wie wurden einheimische Bevölkerungen in den Kolonien oft behandelt?",
+      "Sie wurden zur Zwangsarbeit gezwungen und ihrer Rechte beraubt",
+      ["Sie erhielten volle Bürgerrechte der Kolonialstaaten", "Ihre politischen Führer wurden in die Kolonialparlamente aufgenommen", "Ihre Kulturen wurden aktiv gefördert"]],
+    ["Was war ein Hauptmotiv für den deutschen Imperialismus?",
+      "'Platz an der Sonne' – Streben nach weltpolitischem Einfluss",
+      ["Die Versorgung Deutschlands mit Lebensmitteln aus Übersee", "Die Stärkung internationaler Friedensorganisationen", "Die Förderung demokratischer Regierungen weltweit"]],
+    ["Was ist Antikolonialismus?",
+      "Widerstand der kolonisierten Völker gegen die Herrschaft der Kolonialmächte",
+      ["Eine Bewegung innerhalb der Kolonialmächte für mehr Kolonien", "Ein wirtschaftliches Freihandelsprinzip", "Ein religiöses Missionsprogramm"]],
+    ["Welche wirtschaftliche Theorie rechtfertigte oft imperialistische Expansion?",
+      "Der Merkantilismus und das Streben nach Absatzmärkten",
+      ["Der Kommunismus", "Die Planwirtschaft", "Die Subsistenzwirtschaft"]],
+    ["Was ist eine 'Einflusssphäre' im Kontext des Imperialismus?",
+      "Ein Gebiet, in dem eine Großmacht wirtschaftlichen und politischen Einfluss ausübt",
+      ["Eine formell annektierte Kolonie", "Ein Schutzbündnis gleichberechtigter Staaten", "Eine neutrale Zone zwischen zwei Kolonialmächten"]],
+    ["Welches Ereignis löste internationale Krisen um Marokko aus?",
+      "Die Marokkokrise (1905 und 1911)",
+      ["Der Ausbruch des Boxeraufstands", "Die Berliner Konferenz", "Der Rückzug Bismarcks"]],
+    ["Welche Rolle spielte die Marine im deutschen Imperialismus?",
+      "Die Marine sollte Deutschlands weltpolitische Macht demonstrieren",
+      ["Sie diente ausschließlich der Küstenverteidigung", "Sie war für Handelsabkommen zuständig", "Sie schützte die Grenzen zu Frankreich"]],
+    ["Was war ein typisches Kennzeichen kolonialer Verwaltung?",
+      "Einheimische hatten kaum politische Rechte und wurden von der Kolonialmacht regiert",
+      ["Demokratische Selbstverwaltung der einheimischen Bevölkerung", "Gleichberechtigung zwischen Kolonisatoren und Einheimischen", "Mitsprache in allen wirtschaftlichen Fragen"]],
+    ["Was versteht man unter 'Neokolonialismus'?",
+      "Wirtschaftliche Abhängigkeit ehemaliger Kolonien von ihren Kolonialmächten auch nach der Unabhängigkeit",
+      ["Eine neue Form der direkten Kolonialherrschaft", "Die vollständige wirtschaftliche Eigenständigkeit ehemaliger Kolonien", "Ein Bündnis ehemaliger Kolonialstaaten"]],
+    ["Was bedeutete 'Schutzherrschaft' im Kolonialrecht?",
+      "Eine formelle Übernahme der außenpolitischen Kontrolle über ein schwächeres Land",
+      ["Militärischer Schutz gegen feindliche Übergriffe ohne Einschränkung der Souveränität", "Ein Handelsvertrag ohne politische Einmischung", "Die Selbstverwaltung einer Kolonie durch einheimische Fürsten"]],
+    ["Was war das 'Scramble for Africa'?",
+      "Der rasche Wettlauf europäischer Mächte um die Kontrolle Afrikas in den 1880er Jahren",
+      ["Ein Wettkampf afrikanischer Stämme um Territorien", "Der afrikanische Widerstand gegen europäische Einflüsse", "Ein afrikanisches Sportturnier"]],
+    ["Welche Ideologie rechtfertigte Kolonialismus als 'Zivilisierungsmission'?",
+      "Der Eurozentrismus und die Überzeugung westlicher Überlegenheit",
+      ["Der Pazifismus", "Der Marxismus", "Der Buddhismus"]],
+    ["Was war eine Folge des europäischen Imperialismus für Afrika?",
+      "Willkürliche Grenzziehungen, die ethnische Gruppen trennten oder zusammenfassten",
+      ["Stärkung traditioneller afrikanischer Herrschaftsstrukturen", "Vollständige wirtschaftliche Unabhängigkeit der afrikanischen Staaten", "Förderung pan-afrikanischer politischer Einigung"]],
+    ["Welche Kolonialmacht war in Nordafrika (Algerien, Marokko, Tunesien) besonders aktiv?",
+      "Frankreich",
+      ["Deutschland", "Großbritannien", "Italien"]],
+  ];
+
+  for (const [q, c, ws] of extraPairs) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── 2. ERSTER WELTKRIEG ──────────────────────────────────────────────────────
+
+function generateErsterWeltkrieg(): CurriculumMCQ[] {
+  const rng = mulberry32(0xBC2345);
+  const T = "Geschichte";
+  const S = "Erster Weltkrieg";
+  const qs: CurriculumMCQ[] = [];
+
+  const fixed: [string, string, string[]][] = [
+    ["Wann begann der Erste Weltkrieg?",
+      "1914",
+      ["1900", "1908", "1918"]],
+    ["Welches Attentat gilt als unmittelbarer Auslöser des Ersten Weltkriegs?",
+      "Das Attentat auf Erzherzog Franz Ferdinand in Sarajevo",
+      ["Das Attentat auf Kaiser Wilhelm II. in Berlin", "Die Ermordung des russischen Zaren", "Das Attentat auf den französischen Präsidenten"]],
+    ["In welchem Jahr wurde das Attentat in Sarajevo verübt?",
+      "1914",
+      ["1912", "1916", "1918"]],
+    ["Von wem wurde Erzherzog Franz Ferdinand ermordet?",
+      "Gavrilo Princip, einem bosnisch-serbischen Nationalisten",
+      ["Einem österreichischen Offizier", "Einem deutschen Spion", "Einem russischen Agenten"]],
+    ["Was war das 'Bündnissystem' vor dem Ersten Weltkrieg?",
+      "Ein Netz von Bündnisverträgen, das Europa in zwei rivalisierende Lager teilte",
+      ["Ein Friedensvertrag aller europäischen Mächte", "Ein Abrüstungsabkommen unter Vermittlung der USA", "Ein Handelsbündnis zur Förderung des Freihandels"]],
+    ["Welche Mächte bildeten den Dreibund?",
+      "Deutschland, Österreich-Ungarn und Italien",
+      ["Deutschland, Frankreich und Russland", "Großbritannien, Frankreich und Russland", "Deutschland, Russland und Osmanisches Reich"]],
+    ["Welche Mächte bildeten die Triple Entente?",
+      "Frankreich, Russland und Großbritannien",
+      ["Deutschland, Österreich-Ungarn und Bulgarien", "USA, Frankreich und Italien", "Belgien, Frankreich und Spanien"]],
+    ["Was ist ein Stellungskrieg?",
+      "Ein Krieg, in dem sich die Fronten kaum bewegen und Soldaten in Schützengräben kämpfen",
+      ["Ein Krieg mit schnellen Vorwärtsbewegungen", "Ein Seekrieg mit U-Booten", "Ein Krieg ohne Bodentruppen"]],
+    ["Welche der folgenden Schlachten war eine der verlustreichsten des Ersten Weltkriegs?",
+      "Die Schlacht an der Somme (1916)",
+      ["Die Seeschlacht bei Skagerrak", "Die Marne-Offensive 1918", "Der Einmarsch in Belgien 1914"]],
+    ["Was war die Bedeutung der Schützengräben?",
+      "Soldaten schützten sich in ausgehobenen Gräben vor feindlichem Feuer",
+      ["Sie dienten der Versorgung mit Lebensmitteln", "Sie ermöglichten Panzerangriffe", "Sie wurden für Kavallerieangriffe genutzt"]],
+    ["Was war die Bedeutung der Verdun-Schlacht (1916)?",
+      "Eine der verlustreichsten und längsten Schlachten des Krieges mit über 700.000 Toten und Verwundeten",
+      ["Eine schnelle deutsche Siegesoffensive in Frankreich", "Der erste britische Sieg auf dem europäischen Kontinent", "Die letzte große Kavallerieschlacht der Geschichte"]],
+    ["Was ist der U-Boot-Krieg?",
+      "Der Einsatz von Unterseebooten zur Blockade und Versenkung feindlicher Schiffe",
+      ["Ein Angriff auf unterirdische Bunker", "Eine Taktik zur Zerstörung feindlicher Eisenbahnlinien", "Eine Methode zur Unterwasserminenlegung"]],
+    ["Warum traten die USA 1917 in den Krieg ein?",
+      "Wegen des deutschen U-Boot-Kriegs und der Zimmermann-Note",
+      ["Weil Deutschland Mexiko angegriffen hatte", "Weil Großbritannien die USA um Hilfe bat", "Weil Österreich-Ungarn amerikanische Gebiete besetzte"]],
+    ["Was war die Zimmermann-Note?",
+      "Eine deutsche Anfrage an Mexiko, ein Bündnis gegen die USA einzugehen",
+      ["Ein Friedensangebot Deutschlands an die USA", "Ein britisches Dekret zur Seeblockade", "Ein russischer Rückzugsplan aus dem Krieg"]],
+    ["Wann wurde der Waffenstillstand des Ersten Weltkriegs unterzeichnet?",
+      "11. November 1918",
+      ["1. Januar 1919", "28. Juni 1918", "4. August 1914"]],
+    ["Was regelte der Versailler Vertrag (1919)?",
+      "Die Friedensbedingungen nach dem Ersten Weltkrieg, hauptsächlich gegen Deutschland gerichtet",
+      ["Den Beitritt Deutschlands zur Völkerbundleitung", "Die Aufteilung Afrikas unter den Siegermächten", "Das Verbot aller europäischen Kolonien"]],
+    ["Welche Gebiete musste Deutschland laut Versailler Vertrag abtreten?",
+      "Elsass-Lothringen an Frankreich, Westpreußen und Posen an Polen u. a.",
+      ["Bayern an Österreich und das Rheinland an Belgien", "Schleswig an Dänemark und Holstein an Schweden", "Sachsen an die Tschechoslowakei"]],
+    ["Welche Strafe traf Deutschland durch den Versailler Vertrag wirtschaftlich besonders hart?",
+      "Hohe Reparationszahlungen",
+      ["Ein vollständiges Handelsverbot", "Die Abgabe der gesamten Flotte an Russland", "Die Pflicht, Frankreich kostenlos mit Stahl zu versorgen"]],
+    ["Was versteht man unter 'Kriegsschuldparagraph' (Artikel 231 des Versailler Vertrags)?",
+      "Deutschland wurde zur alleinigen Schuld am Krieg und zur Zahlung von Reparationen verpflichtet",
+      ["Ein Verbot für Deutschland, neue Bündnisse einzugehen", "Eine Klausel zur Rüstungsbeschränkung aller Signatarstaaten", "Die Auflösung des deutschen Kaiserreichs"]],
+    ["Was war die Westfront im Ersten Weltkrieg?",
+      "Die Frontlinie in Belgien und Nordfrankreich zwischen Deutschland und den Alliierten",
+      ["Die Grenze zwischen Deutschland und Russland", "Die Grenze zwischen Österreich-Ungarn und dem Osmanischen Reich", "Die Frontlinie in Norditalien"]],
+    ["Welches Land trat 1917 aus dem Krieg aus?",
+      "Russland (nach der Oktoberrevolution)",
+      ["Italien", "Österreich-Ungarn", "Bulgarien"]],
+    ["Was war der Schlieffenplan?",
+      "Ein deutscher Kriegsplan, Frankreich schnell zu besiegen, bevor Russland mobilisieren konnte",
+      ["Ein Plan zur Seeblockade Großbritanniens", "Ein russischer Angriffplan gegen Deutschland", "Ein Friedensplan des deutschen Kaisers"]],
+    ["Warum trat Großbritannien in den Krieg ein?",
+      "Wegen des deutschen Einmarschs in das neutrale Belgien",
+      ["Weil Frankreich um Hilfe bat", "Wegen des deutschen Angriffs auf britische Handelsschiffe", "Wegen eines Angriffs auf Irland"]],
+    ["Welche neuen Waffentechnologien wurden im Ersten Weltkrieg eingesetzt?",
+      "Giftgas, Panzer, Flugzeuge und U-Boote",
+      ["Atombombe und Raketen", "Laserwaffen und Drohnen", "Nur Artillerie und Bajonette"]],
+    ["Was war der Kriegsbeginn des Ersten Weltkriegs an der Ostfront?",
+      "Österreich-Ungarn erklärte Serbien den Krieg, woraufhin Russland mobilisierte",
+      ["Deutschland griff Russland direkt an, ohne Vorwarnung", "Russland griff zuerst Deutschland an", "Österreich-Ungarn griff Russland an"]],
+    ["Was bedeutet 'Materialschlacht'?",
+      "Eine Kriegsform, bei der der Einsatz großer Mengen an Kriegsmaterial entscheidend ist",
+      ["Ein Kampf um Rohstofflager", "Eine Seeschlacht um Handelsrouten", "Ein Angriff auf feindliche Waffenfabriken"]],
+    ["Welche Rolle spielte Österreich-Ungarn im Krieg?",
+      "Es war der wichtigste Verbündete Deutschlands und erklärte Serbien den Krieg",
+      ["Es blieb neutral und vermittelte zwischen den Fronten", "Es kämpfte an der Seite Frankreichs", "Es trat erst 1917 in den Krieg ein"]],
+    ["Welches Ereignis führte zum Ende des Deutschen Kaiserreichs 1918?",
+      "Die Novemberrevolution und die Abdankung Kaiser Wilhelms II.",
+      ["Die Unterzeichnung des Versailler Vertrags", "Der Einmarsch französischer Truppen in Berlin", "Ein Militärputsch von Hindenburg"]],
+    ["Was war das Ziel der deutschen 'Frühjahrsoffensive' 1918?",
+      "Den Krieg vor dem vollständigen Eintreffen amerikanischer Truppen zu entscheiden",
+      ["Die vollständige Einnahme Russlands", "Eine Landung in Großbritannien", "Die Verteidigung der deutschen Grenzen"]],
+    ["Was waren die 'Vierzehn Punkte' von Woodrow Wilson?",
+      "Ein amerikanisches Friedensprogramm für eine gerechte Nachkriegsordnung",
+      ["Ein deutsches Friedensangebot an die Alliierten", "Die Kriegsziele der Entente", "Eine Liste von Reparationsforderungen"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  const extra: [string, string, string[]][] = [
+    ["Was ist eine 'Gaswolke' im Kontext des Krieges?",
+      "Giftgas, das über feindliche Stellungen geleitet wurde",
+      ["Eine Nebelwand zur Tarnung von Truppenbewegungen", "Ein Signal für den Angriffsbeginn", "Rauch aus zerstörten Fabriken"]],
+    ["Was war die Bedeutung der Somme-Offensive 1916?",
+      "Eine britisch-französische Offensive mit über einer Million Opfern ohne entscheidenden Gebietsgewinn",
+      ["Der entscheidende Durchbruch der Westfront", "Der erste britische Einsatz von Flugzeugen", "Die letzte große Kavallerieschlacht"]],
+    ["Wie viele Länder waren am Ende des Ersten Weltkriegs insgesamt beteiligt?",
+      "Über 30 Länder",
+      ["Nur 10 Länder", "Genau 20 Länder", "Weniger als 5 Länder"]],
+    ["Welche Gebiete bildeten die neuen Staaten nach dem Ersten Weltkrieg?",
+      "Aus dem Zerfall Österreich-Ungarns entstanden u. a. Österreich, Ungarn, die Tschechoslowakei und Jugoslawien",
+      ["Aus dem Deutschen Reich entstand Preußen als eigenständiger Staat", "Die Sowjetunion wurde sofort nach dem Krieg gegründet", "Belgien wurde durch Frankreich annektiert"]],
+    ["Was war die 'Dolchstoßlegende'?",
+      "Ein Mythos, Deutschlands Niederlage sei durch einen 'Dolchstoß' von innen verursacht worden",
+      ["Eine historisch bewiesene Sabotageaktion gegen das deutsche Heer", "Ein Bericht über Kriegsverbrechen an der Ostfront", "Die Bezeichnung für den Verrat Österreichs an Deutschland"]],
+    ["Welche Länder erhielten durch den Versailler Vertrag neue Gebiete?",
+      "Frankreich, Polen, Dänemark und die Tschechoslowakei",
+      ["Nur Frankreich und Belgien", "Russland und Rumänien", "Nur Polen und Litauen"]],
+    ["Was wurde aus dem Deutschen Kaiserreich nach Kriegsende?",
+      "Die Weimarer Republik",
+      ["Ein Kaiserreich unter neuem Namen", "Ein Teil des Britischen Empire", "Eine Monarchie unter einem anderen Kaiser"]],
+    ["Welches Gremium wurde zur Friedenssicherung nach dem Ersten Weltkrieg gegründet?",
+      "Der Völkerbund",
+      ["Die Vereinten Nationen", "Die NATO", "Der Europäische Rat"]],
+    ["Was war ein typisches Kennzeichen des Lebens in den Schützengräben?",
+      "Schlamm, Kälte, Ratten, Erschöpfung und ständige Todesgefahr",
+      ["Komfortabler Schlaf und gute Versorgung", "Regelmäßige Kampfpausen und Erholung", "Strenge Disziplin ohne Verluste"]],
+    ["Warum wird der Erste Weltkrieg auch als 'Urkatastrophe des 20. Jahrhunderts' bezeichnet?",
+      "Er veränderte die politische Weltordnung grundlegend und ebnete den Weg für weitere Katastrophen",
+      ["Weil er der erste Krieg überhaupt war", "Weil er nur in Europa stattfand", "Weil er ohne Verluste endete"]],
+    ["Welche Nationalitäten kämpften auf Seiten der Mittelmächte?",
+      "Deutsche, Österreicher, Ungarn, Türken und Bulgaren",
+      ["Franzosen, Briten und Russen", "Belgier, Serben und Rumänen", "Italiener, Griechen und Portugiesen"]],
+    ["Was war der Friedensvertrag mit Russland 1918?",
+      "Der Friede von Brest-Litowsk",
+      ["Der Versailler Vertrag", "Der Friede von Paris", "Der Friede von Wien"]],
+    ["Warum war der Versailler Vertrag für Deutsche sehr belastend?",
+      "Hohe Reparationen, Gebietsverluste und die Kriegsschuldklausel erzeugten große Unzufriedenheit",
+      ["Deutschland musste die Hälfte seiner Bevölkerung ins Ausland schicken", "Deutschland wurde in zwei Staaten aufgeteilt", "Der Vertrag verbot jede form des deutschen Handels"]],
+    ["Was war die Bedeutung des Ersten Weltkriegs für den Feminismus?",
+      "Frauen übernahmen wichtige Arbeitsrollen in der Industrie und erkämpften mehr Rechte",
+      ["Frauen verloren alle gesellschaftlichen Rechte", "Frauenwahlrecht wurde in allen Ländern abgeschafft", "Es gab keine Auswirkung auf die Frauenrolle"]],
+    ["Wie viele Todesopfer forderte der Erste Weltkrieg schätzungsweise?",
+      "Rund 17 Millionen Menschen",
+      ["Rund 5 Millionen Menschen", "Rund 60 Millionen Menschen", "Rund 1 Million Menschen"]],
+  ];
+
+  for (const [q, c, ws] of extra) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── 3. WEIMARER REPUBLIK ─────────────────────────────────────────────────────
+
+function generateWeimarerRepublik(): CurriculumMCQ[] {
+  const rng = mulberry32(0xCD3456);
+  const T = "Geschichte";
+  const S = "Weimarer Republik";
+  const qs: CurriculumMCQ[] = [];
+
+  const fixed: [string, string, string[]][] = [
+    ["Wann wurde die Weimarer Republik ausgerufen?",
+      "1918",
+      ["1919", "1920", "1914"]],
+    ["Wer rief am 9. November 1918 die Republik aus?",
+      "Philipp Scheidemann vom Balkon des Reichstags",
+      ["Kaiser Wilhelm II. in einer Abdankungsrede", "Friedrich Ebert in einer Rundfunkansprache", "Karl Liebknecht von der Berliner Zeitung"]],
+    ["Wer war der erste Reichspräsident der Weimarer Republik?",
+      "Friedrich Ebert",
+      ["Paul von Hindenburg", "Philipp Scheidemann", "Gustav Stresemann"]],
+    ["Wo wurde die Verfassung der Weimarer Republik verabschiedet?",
+      "In Weimar",
+      ["In Berlin", "In Frankfurt", "In München"]],
+    ["Was war das Besondere an der Weimarer Verfassung (1919)?",
+      "Sie war eine demokratische Verfassung mit allgemeinem Wahlrecht auch für Frauen",
+      ["Sie erklärte Deutschland zur sozialistischen Republik", "Sie behielt die Monarchie in abgewandelter Form", "Sie verbot politische Parteien außer der SPD"]],
+    ["Was war der Kapp-Putsch (1920)?",
+      "Ein rechtsgerichteter Putschversuch gegen die Weimarer Republik, der scheiterte",
+      ["Ein kommunistischer Aufstand in Berlin", "Ein Militärputsch Eberts gegen die Reichswehr", "Ein Angriff Frankreichs auf das Ruhrgebiet"]],
+    ["Was war die Ursache der deutschen Hyperinflation 1923?",
+      "Massive Geldmenge durch Kriegsanleihen, Reparationszahlungen und Ruhrbesetzung",
+      ["Eine schlechte Ernte und Hungersnöte", "Der Börsenkrach in New York", "Überproduktion in der deutschen Industrie"]],
+    ["Was passierte 1923 im Ruhrgebiet?",
+      "Frankreich und Belgien besetzten das Ruhrgebiet wegen ausgebliebener Reparationszahlungen",
+      ["Deutschland begann das Ruhrgebiet zu industrialisieren", "Großbritannien kaufte das Ruhrgebiet von Deutschland", "Preußen trennte das Ruhrgebiet vom Reich ab"]],
+    ["Was ist Inflation?",
+      "Eine allgemeine Preissteigerung, die den Wert des Geldes vermindert",
+      ["Ein Rückgang der Preise durch Überproduktion", "Die Ausgabe von Staatsgold an die Bürger", "Ein staatlicher Währungsaustausch"]],
+    ["Was waren die 'Goldenen Zwanziger'?",
+      "Eine Phase relativer wirtschaftlicher Stabilität und kultureller Blüte in den 1920er Jahren",
+      ["Die Inflationsjahre 1919–1923", "Die Kriegsjahre 1914–1918", "Die letzten Jahre der Weimarer Republik 1930–1933"]],
+    ["Was war die Weltwirtschaftskrise (1929)?",
+      "Ein weltweiter wirtschaftlicher Einbruch, ausgelöst durch den Börsenkrach in New York",
+      ["Eine Agrarkrise in Osteuropa", "Eine Bankenkrise allein in Deutschland", "Ein Wirtschaftsstreit zwischen den USA und Deutschland"]],
+    ["Wann brach die Weltwirtschaftskrise aus?",
+      "1929 (Schwarzer Donnerstag an der New Yorker Börse)",
+      ["1923", "1933", "1935"]],
+    ["Wie beeinflusste die Weltwirtschaftskrise Deutschland?",
+      "Massenarbeitslosigkeit und wirtschaftliche Not stärkten extremistische Parteien",
+      ["Deutschland war kaum betroffen, da die Wirtschaft staatlich kontrolliert war", "Der Wohlstand Deutschlands blieb konstant", "Die Krise führte zur sofortigen Abschaffung der Demokratie"]],
+    ["Was sind Notverordnungen?",
+      "Gesetze, die der Reichspräsident ohne Zustimmung des Parlaments erlassen kann",
+      ["Gesetze, die nur in Kriegszeiten gültig sind", "Parlamentsbeschlüsse mit einfacher Mehrheit", "Verordnungen lokaler Bürgermeister"]],
+    ["Welcher Artikel der Weimarer Verfassung ermöglichte Notverordnungen?",
+      "Artikel 48",
+      ["Artikel 1", "Artikel 24", "Artikel 100"]],
+    ["Was war das Kulturleben der Weimarer Republik?",
+      "Eine Zeit des Aufbruchs mit Bauhaus, Expressionismus, Kabarett und modernem Film",
+      ["Eine Phase des kulturellen Niedergangs", "Eine Zeit strenger Zensur und religiöser Kunst", "Eine Periode, in der Kultur vollständig verstaatlicht wurde"]],
+    ["Was war das Bauhaus?",
+      "Eine Kunstschule, die Kunst und Handwerk verband und modernes Design prägte",
+      ["Eine politische Partei in der Weimarer Republik", "Ein Rüstungsbetrieb", "Eine Wohnbausiedlung für Arbeiter"]],
+    ["Wer war Paul von Hindenburg?",
+      "Der zweite Reichspräsident der Weimarer Republik (ab 1925)",
+      ["Der erste Reichskanzler nach dem Krieg", "Der Chef der kommunistischen Partei", "Ein führender NSDAP-Politiker"]],
+    ["Was war die 'Stabilitätsphase' der Weimarer Republik?",
+      "Die Jahre 1924–1929 mit relativer wirtschaftlicher und politischer Stabilität",
+      ["Die Gründungsjahre 1918–1920", "Die Endphase 1930–1933", "Die gesamte Zeit von 1918 bis 1933"]],
+    ["Was ist ein Parlamentarismus?",
+      "Eine Regierungsform, in der das Parlament die Hauptmacht besitzt",
+      ["Eine Regierung durch einen einzelnen Führer", "Ein System, in dem die Kirche regiert", "Eine Herrschaft der Militärs"]],
+    ["Was war die SPD in der Weimarer Republik?",
+      "Die Sozialdemokratische Partei, eine der wichtigsten demokratischen Parteien",
+      ["Eine rechtsradikale Partei", "Die Partei der Monarchisten", "Eine kommunistische Partei"]],
+    ["Was war die KPD in der Weimarer Republik?",
+      "Die Kommunistische Partei Deutschlands",
+      ["Die Konservative Partei Deutschlands", "Die Kaisertreue Partei Deutschlands", "Die Kaiserliche Partei Deutschlands"]],
+    ["Was war der Hitler-Putsch von 1923?",
+      "Ein gescheiterter Putschversuch Hitlers in München",
+      ["Ein erfolgreicher Marsch auf Berlin", "Eine Meuterei in der deutschen Marine", "Ein kommunistischer Aufstand in Hamburg"]],
+    ["Was schrieb Hitler während seiner Haft nach dem Putsch von 1923?",
+      "'Mein Kampf' – sein politisches Programmbuch",
+      ["'Der Kampf ums Recht'", "'Mein Weg zur Macht'", "'Deutsche Freiheit'"]],
+    ["Was versteht man unter 'Republik ohne Republikaner'?",
+      "Viele Deutsche standen der demokratischen Weimarer Republik feindlich oder gleichgültig gegenüber",
+      ["Es gab in der Republik keine Politiker", "Die Verfassung enthielt kein Wort 'Republik'", "Das Parlament tagte nie in vollem Umfang"]],
+    ["Was war die Deutsche Demokratische Partei (DDP)?",
+      "Eine linksliberale Partei, die die Republik unterstützte",
+      ["Eine nationalistische Partei", "Die Partei der deutschen Fürsten", "Eine religiös-konservative Partei"]],
+    ["Was war das Zentrum (Zentrumspartei) in der Weimarer Republik?",
+      "Eine katholische, gemäßigt-konservative Partei",
+      ["Eine evangelische Nationalpartei", "Die marxistische Partei Deutschlands", "Eine laizistische Freiheitspartei"]],
+    ["Was ist 'politischer Extremismus'?",
+      "Politische Überzeugungen, die demokratische Grundregeln ablehnen",
+      ["Intensive parlamentarische Debatten", "Die Forderung nach schnellen Reformen", "Die Ablehnung einzelner Regierungsbeschlüsse"]],
+    ["Wie endete die Weimarer Republik?",
+      "Mit der Ernennung Hitlers zum Reichskanzler am 30. Januar 1933",
+      ["Durch einen Militärputsch der Reichswehr", "Durch einen kommunistischen Aufstand", "Durch die Besetzung Berlins durch Frankreich"]],
+    ["Was waren wichtige gesellschaftliche Errungenschaften der Weimarer Republik?",
+      "Frauenwahlrecht, Acht-Stunden-Arbeitstag und Pressefreiheit",
+      ["Einführung der Rente und Einheitslohn für alle", "Verstaatlichung aller Banken", "Abschaffung aller Zölle"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  const extra: [string, string, string[]][] = [
+    ["Was war das Reichsbanner?",
+      "Eine paramilitärische Organisation zur Verteidigung der Demokratie",
+      ["Die Privatarmee der NSDAP", "Eine Marineeinheit", "Eine kommunistische Kampfgruppe"]],
+    ["Was war die SA (Sturmabteilung)?",
+      "Die paramilitärische Kampftruppe der NSDAP",
+      ["Die Sozialistische Arbeiterarmee", "Eine staatliche Polizeieinheit", "Ein Gewerkschaftsverband"]],
+    ["Was war die SS (Schutzstaffel) ursprünglich?",
+      "Leibwache Hitlers und Eliteeinheit der NSDAP",
+      ["Eine staatliche Sicherheitsbehörde", "Eine Sportorganisation", "Ein Beamtenverband"]],
+    ["Wer war Gustav Stresemann?",
+      "Ein Außenminister und Reichskanzler, der für internationale Aussöhnung sorgte",
+      ["Ein radikaler Nationalist", "Der erste kommunistische Politiker Deutschlands", "Der Verteidiger der Hyperinflation"]],
+    ["Was bewirkte der Dawes-Plan (1924)?",
+      "Eine Neuregelung der Reparationszahlungen und wirtschaftliche Erholung Deutschlands",
+      ["Die endgültige Abschaffung der Reparationen", "Die Besetzung des Ruhrgebiets durch Frankreich", "Den Ausschluss Deutschlands aus dem Völkerbund"]],
+    ["Was war das Ergebnis des Locarno-Vertrags (1925)?",
+      "Deutschland erkannte seine Westgrenzen an und wurde in die internationale Gemeinschaft aufgenommen",
+      ["Deutschland annektierte Österreich", "Frankreich gab das Elsass zurück", "Deutschland trat der NATO bei"]],
+    ["Was war der Young-Plan (1929)?",
+      "Eine weitere Reduzierung und Umstrukturierung der deutschen Reparationszahlungen",
+      ["Ein Angriffsbündnis gegen Frankreich", "Die vollständige Streichung der Reparationen", "Ein Handelsvertrag mit den USA"]],
+    ["Was kennzeichnete die politische Instabilität der Weimarer Republik?",
+      "Häufiger Regierungswechsel und Polarisierung zwischen linken und rechten Extremisten",
+      ["Stabile Mehrheiten im Reichstag", "Lange Amtszeiten der Reichskanzler", "Freundliche Beziehungen zu Frankreich"]],
+    ["Was waren 'Freikorps' in der Weimarer Republik?",
+      "Paramilitärische Einheiten aus ehemaligen Soldaten, die oft gegen Linke kämpften",
+      ["Staatliche Reserveeinheiten der Reichswehr", "Freiwillige Feuerwehren in den Städten", "Sportverbände für ehemalige Offiziere"]],
+    ["Was war der Spartakusaufstand (1919)?",
+      "Ein kommunistischer Aufstand in Berlin, der brutal niedergeschlagen wurde",
+      ["Ein rechtsradikaler Putsch in München", "Eine Revolte der bayerischen Monarchisten", "Ein Streik der Bergarbeiter im Ruhrgebiet"]],
+    ["Wer wurden Rosa Luxemburg und Karl Liebknecht?",
+      "Führungsfiguren des Spartakusbunds, die nach dem Aufstand 1919 ermordet wurden",
+      ["Konservative Politiker, die die Republik verwaltelten", "Führende Nationalsozialisten", "Mitglieder des ersten demokratischen Kabinetts"]],
+    ["Was ist eine Notverordnungsregierung?",
+      "Eine Regierung, die hauptsächlich durch Artikel-48-Notverordnungen regiert, ohne parlamentarische Mehrheit",
+      ["Eine reguläre Regierung mit Parlamentsmehrheit", "Eine Militärregierung nach einem Putsch", "Eine provisorische Regierung im Krieg"]],
+    ["Was war die NSDAP?",
+      "Die Nationalsozialistische Deutsche Arbeiterpartei, Hitlers Partei",
+      ["Die Normale Sozialdemokratische Demokratische Arbeiterpartei", "Eine liberal-konservative Partei", "Eine österreichische Regionalpartei"]],
+    ["Was war 'Weimarer Koalition'?",
+      "Das Regierungsbündnis aus SPD, Zentrum und DDP, das die Verfassung ausarbeitete",
+      ["Eine Koalition aus rechten Parteien", "Ein Bündnis aus NSDAP und Konservativen", "Ein Militärkabinett unter Hindenburg"]],
+    ["Was war die DNVP (Deutschnationale Volkspartei)?",
+      "Eine rechtskonservative, republikfeindliche Partei",
+      ["Eine sozialdemokratische Partei", "Die kommunistische Partei Deutschlands", "Eine liberale Freiheitspartei"]],
+  ];
+
+  for (const [q, c, ws] of extra) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── 4. NATIONALSOZIALISMUS ───────────────────────────────────────────────────
+
+function generateNationalsozialismus(): CurriculumMCQ[] {
+  const rng = mulberry32(0xDE4567);
+  const T = "Geschichte";
+  const S = "Nationalsozialismus";
+  const qs: CurriculumMCQ[] = [];
+
+  const fixed: [string, string, string[]][] = [
+    ["Wann wurde Hitler zum Reichskanzler ernannt?",
+      "30. Januar 1933",
+      ["9. November 1923", "1. September 1939", "28. Juni 1919"]],
+    ["Wer ernannte Hitler zum Reichskanzler?",
+      "Reichspräsident Paul von Hindenburg",
+      ["Der Deutsche Reichstag", "Die NSDAP per Abstimmung", "Das Oberste Gericht"]],
+    ["Was war das Ermächtigungsgesetz (1933)?",
+      "Ein Gesetz, das Hitler ermöglichte, ohne Parlament zu regieren",
+      ["Ein Gesetz zur Einführung des allgemeinen Wahlrechts", "Ein Gesetz zur Sozialhilfe für Arme", "Ein Gesetz zur Abschaffung der Armee"]],
+    ["Was versteht man unter 'Gleichschaltung'?",
+      "Die Unterwerfung aller gesellschaftlichen Bereiche unter nationalsozialistische Kontrolle",
+      ["Die Abschaffung von Gehaltsunterschieden", "Die Einführung einheitlicher Schulbücher", "Die Angleichung von Steuersätzen"]],
+    ["Was waren die Nürnberger Gesetze (1935)?",
+      "Rassengesetze, die Juden rechtlich diskriminierten und entrechten",
+      ["Wirtschaftsgesetze zur Ankurbelung der Industrie", "Militärgesetze zur Aufrüstung der Wehrmacht", "Sozialgesetze zur Rentenversicherung"]],
+    ["Was verbot das Reichsbürgergesetz (1935) Juden?",
+      "Juden verloren die deutsche Staatsbürgerschaft und durften keine Deutschen heiraten",
+      ["Juden durften keine eigenen Geschäfte mehr betreiben", "Juden wurden aus allen Universitäten ausgeschlossen", "Juden wurde das Sprechen der deutschen Sprache verboten"]],
+    ["Was waren die Novemberpogrome (Kristallnacht) 1938?",
+      "Gewalttätige Pogrome gegen jüdische Bürger, Synagogen und Geschäfte im ganzen Reich",
+      ["Ein staatlicher Feiertag zur Ehrung der gefallenen Soldaten", "Eine friedliche Demonstration für mehr Rechte", "Eine militärische Übung der SS"]],
+    ["Wann fanden die Novemberpogrome statt?",
+      "9./10. November 1938",
+      ["1. April 1933", "15. September 1935", "1. September 1939"]],
+    ["Wer war Joseph Goebbels?",
+      "Der Reichsminister für Volksaufklärung und Propaganda",
+      ["Der Befehlshaber der Luftwaffe", "Der Außenminister des Deutschen Reichs", "Der Reichspräsident nach Hindenburg"]],
+    ["Was war die Funktion der Propaganda im NS-Staat?",
+      "Meinungskontrolle, Verbreitung der NS-Ideologie und Mobilisierung der Bevölkerung",
+      ["Informierung der Bürger über freie Wahlen", "Werbung für private Unternehmen", "Förderung unabhängiger Presse"]],
+    ["Was war die Hitler-Jugend (HJ)?",
+      "Die Jugendorganisation der NSDAP zur ideologischen Erziehung junger Männer",
+      ["Ein sportlicher Verein ohne politische Funktion", "Eine staatliche Bildungseinrichtung mit neutralem Lehrplan", "Ein freiwilliger Jugendverein für alle Konfessionen"]],
+    ["Was war der Bund Deutscher Mädel (BDM)?",
+      "Die NS-Jugendorganisation für Mädchen",
+      ["Eine Frauenrechtsorganisation", "Ein religiöser Mädchenverein", "Eine staatliche Schule für begabte Mädchen"]],
+    ["Was war die 'Weiße Rose'?",
+      "Eine Widerstandsgruppe junger Studenten, die Flugblätter gegen das NS-Regime verteilten",
+      ["Eine Partei für Frieden innerhalb der NSDAP", "Ein geheimer Dienst der Alliierten", "Eine Kunstbewegung gegen den Krieg"]],
+    ["Wann wurde die Weiße Rose gegründet und wie endete sie?",
+      "1942 gegründet; die Geschwister Scholl und andere wurden 1943 hingerichtet",
+      ["1933 gegründet; sie überlebte bis Kriegsende", "1939 gegründet; alle Mitglieder flohen ins Ausland", "1944 gegründet; sie scheiterte am 20. Juli"]],
+    ["Was war das Attentat vom 20. Juli 1944?",
+      "Ein Anschlag von Offizieren unter Claus von Stauffenberg auf Hitler, der scheiterte",
+      ["Ein kommunistischer Anschlag auf den Führerbunker", "Ein britischer Bombenangriff auf Hitlers Hauptquartier", "Ein Attentat polnischer Widerstandskämpfer"]],
+    ["Was ist Antisemitismus?",
+      "Feindseligkeit und Diskriminierung gegenüber Menschen jüdischen Glaubens oder jüdischer Herkunft",
+      ["Eine politische Partei", "Eine religiöse Bewegung im Judentum", "Ein Wirtschaftsprogramm"]],
+    ["Was war das Konzentrationslager Dachau?",
+      "Das erste KZ in Deutschland, gegründet 1933 zur Internierung von Gegnern des Regimes",
+      ["Ein Arbeitslager für ausländische Gastarbeiter", "Eine Strafkolonie in Afrika", "Ein Kriegsgefangenenlager für alliierte Soldaten"]],
+    ["Was ist der Holocaust?",
+      "Der systematische Massenmord an sechs Millionen Juden durch das NS-Regime",
+      ["Eine Naturkatastrophe im Zweiten Weltkrieg", "Ein Kriegsverbrechen in Asien", "Eine Hungersnot in der Sowjetunion"]],
+    ["Was beschlossen die Nazis auf der Wannsee-Konferenz (1942)?",
+      "Die systematische Ermordung aller Juden Europas ('Endlösung der Judenfrage')",
+      ["Den Angriff auf die Sowjetunion", "Die Kapitulation im Westen", "Den Bau des Atlantikwalls"]],
+    ["Was war Auschwitz?",
+      "Das größte nationalsozialistische Vernichtungslager in Polen, Ort des Massenmords an Juden und anderen",
+      ["Ein deutsches Arbeitslager für Kriegsgefangene", "Eine Hochschule der NSDAP", "Ein Stützpunkt der Waffen-SS in der Ukraine"]],
+    ["Was ist eine Diktatur?",
+      "Eine Staatsform, in der eine Person oder Partei die gesamte Macht besitzt",
+      ["Ein parlamentarisches System mit mehreren Parteien", "Ein System mit starker Justiz ohne politische Einmischung", "Eine Monarchie mit gewähltem Parlament"]],
+    ["Was war die 'Volksgemeinschaft' im NS-Sinne?",
+      "Ein rassistisch definiertes 'Volk', aus dem Juden und andere ausgegrenzt wurden",
+      ["Eine Gemeinschaft aller Deutschen ohne Unterschied", "Eine internationale Solidaritätsbewegung", "Ein staatlicher Wohlfahrtsfonds"]],
+    ["Was war die Gestapo?",
+      "Die Geheime Staatspolizei des NS-Regimes",
+      ["Die staatliche Rundfunkbehörde", "Ein militärisches Nachrichtendienstkorps", "Die Finanzaufsichtsbehörde"]],
+    ["Was war 'Euthanasie' im NS-Staat (Aktion T4)?",
+      "Die systematische Ermordung von Menschen mit Behinderungen",
+      ["Ein Programm zur Behandlung von Kriegsverletzten", "Ein Erholungsprogramm für Veteranen", "Eine medizinische Forschungseinrichtung"]],
+    ["Was versteht man unter dem Begriff 'Führerprinzip'?",
+      "Das Prinzip, dass alle Macht von Hitler ausgeht und bedingungsloser Gehorsam erwartet wird",
+      ["Die demokratische Wahl des Regierungschefs", "Das Prinzip der Gewaltenteilung", "Die kollektive Entscheidungsfindung im Kabinett"]],
+    ["Was war die SS im NS-Staat?",
+      "Eine Eliteorganisation der NSDAP, verantwortlich für Terror, KZ-Verwaltung und Rassenideologie",
+      ["Die staatliche Polizei der Weimarer Republik", "Eine Sportorganisation", "Die Marinekampftruppe"]],
+    ["Was war das Reichstagsbrandgesetz (Reichstagsbrand 1933)?",
+      "Der Brand des Reichstags wurde als Vorwand genutzt, um Grundrechte außer Kraft zu setzen",
+      ["Ein Gesetz zur Renovierung des Reichstags", "Ein Gesetz zur Verbesserung des Brandschutzes", "Ein Gesetz zur Stärkung der parlamentarischen Kontrolle"]],
+    ["Was bedeutet 'Arierparagraph'?",
+      "Regeln, die Juden von Berufen und Organisationen ausschlossen",
+      ["Regeln über die Einbürgerung von Ausländern", "Steuerregeln für nichtdeutsche Unternehmen", "Schulregeln über die arische Sprache"]],
+    ["Was war eine wichtige Methode des NS-Widerstands?",
+      "Verteilung von Flugblättern und Hilfe für Verfolgte",
+      ["Offene Massendemonstrationen auf öffentlichen Plätzen", "Freie Wahlen gegen die NSDAP", "Parlamentarische Oppositionsarbeit"]],
+    ["Was war der 'Anschluss' Österreichs?",
+      "Die Annexion Österreichs durch Deutschland im März 1938",
+      ["Ein freiwilliger Beitritt Österreichs zur Deutschen Republik", "Die Besetzung Österreichs durch Frankreich", "Eine Volksabstimmung für die Unabhängigkeit Österreichs"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  const extra: [string, string, string[]][] = [
+    ["Was verstand die NS-Ideologie unter 'Rasse'?",
+      "Eine pseudowissenschaftliche Einteilung der Menschen in 'höhere' und 'niedere' Gruppen",
+      ["Eine wissenschaftlich fundierte biologische Kategorie", "Eine religiöse Gemeinschaft", "Eine Sprachgruppe"]],
+    ["Was war die 'Judenverfolgung' in den frühen Jahren des NS-Regimes?",
+      "Boykotte jüdischer Geschäfte, Berufsverbote und gesellschaftliche Ausgrenzung",
+      ["Militärische Internierung in Lagern seit 1933", "Physische Vernichtung ab 1933", "Staatliche Enteignung erst ab 1945"]],
+    ["Was waren 'Nürnberger Prozesse'?",
+      "Kriegsverbrechertribunale nach dem Zweiten Weltkrieg gegen NS-Führer",
+      ["NS-Strafprozesse gegen Oppositionelle", "Strafprozesse gegen Deserteure", "Militärgerichte während des Krieges"]],
+    ["Warum war der Reichstag unter den Nazis machtlos?",
+      "Das Ermächtigungsgesetz übertrug die Gesetzgebung auf Hitler und sein Kabinett",
+      ["Der Reichstag wurde durch den Bundesrat ersetzt", "Alle Abgeordneten wechselten zur NSDAP", "Der Reichstag wurde durch ein Volksgericht ersetzt"]],
+    ["Was war das 'Dritte Reich'?",
+      "Die Selbstbezeichnung des NS-Staats, der als drittes großes deutsches Reich galt",
+      ["Hitlers Bezeichnung für die Sowjetunion", "Der Name des deutschen Kolonialreichs", "Die Bezeichnung für die Nachkriegsordnung"]],
+    ["Wie viele Juden wurden im Holocaust ermordet?",
+      "Rund 6 Millionen",
+      ["Rund 600.000", "Rund 60 Millionen", "Rund 1 Million"]],
+    ["Was war die Funktion der KZ-Wachmannschaften?",
+      "Bewachung und Terrorisierung der Gefangenen in Konzentrationslagern",
+      ["Versorgung der Gefangenen mit Lebensmitteln", "Ausbildung der Gefangenen zu Soldaten", "Rechtliche Betreuung der internierten Personen"]],
+    ["Was sind Vernichtungslager?",
+      "Lager, die speziell zur systematischen Tötung von Menschen errichtet wurden",
+      ["Kriegsgefangenenlager für feindliche Soldaten", "Arbeitslager zur Rüstungsproduktion", "Erholungslager für kranke Soldaten"]],
+    ["Was war das Kennzeichen jüdischer Verfolgter im NS-Staat?",
+      "Der gelbe Stern (Davidstern), den Juden tragen mussten",
+      ["Ein rotes Dreieck auf der Kleidung", "Ein schwarzer Streifen auf dem Ausweis", "Eine besondere Hausmarkierung"]],
+    ["Was war die Hitlerjugend ideologisch?",
+      "Ein Instrument zur Indoktrination der Jugend mit NS-Ideologie und militärischem Geist",
+      ["Eine unpolitische Sportorganisation", "Ein freiwilliger Bildungsverein", "Eine kirchliche Jugendorganisation"]],
+    ["Was bezweckte der NS-Staat mit der Kontrolle der Medien?",
+      "Die vollständige Kontrolle über Information, um abweichende Meinungen zu unterdrücken",
+      ["Die Förderung einer unabhängigen Presse", "Die Information der Bürger über freie Wahlen", "Den Schutz der Pressefreiheit"]],
+    ["Was war die 'Machtergreifung' der Nationalsozialisten?",
+      "Die schrittweise Übernahme aller Machtbereiche durch die NSDAP nach dem 30. Januar 1933",
+      ["Ein bewaffneter Putsch gegen die Weimarer Republik", "Die demokratische Wahl Hitlers als Reichspräsident", "Der Beitritt der NSDAP zu einer Koalitionsregierung ohne weitere Änderungen"]],
+    ["Warum unterstützten viele Deutsche die NSDAP?",
+      "Wirtschaftliche Not, Unzufriedenheit mit der Demokratie und nationalistische Propaganda",
+      ["Weil die NSDAP demokratische Werte versprach", "Wegen ihrer sozialistischen Wirtschaftspolitik", "Weil Deutschland keine andere Partei zuließ"]],
+    ["Was war das KZ Buchenwald?",
+      "Ein Konzentrationslager in Thüringen für politische Gegner und andere Verfolgte",
+      ["Ein Kriegsgefangenenlager für alliierte Offiziere", "Ein Erholungslager für Verwundete", "Ein Ausbildungslager für SS-Offiziere"]],
+    ["Was ist Totalitarismus?",
+      "Ein politisches System, das alle gesellschaftlichen Bereiche kontrolliert",
+      ["Eine Demokratie mit starker Regierung", "Ein Föderalstaat mit starken Bundesländern", "Ein parlamentarisches System ohne Opposition"]],
+  ];
+
+  for (const [q, c, ws] of extra) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── 5. ZWEITER WELTKRIEG ─────────────────────────────────────────────────────
+
+function generateZweiterWeltkrieg(): CurriculumMCQ[] {
+  const rng = mulberry32(0xEF5678);
+  const T = "Geschichte";
+  const S = "Zweiter Weltkrieg";
+  const qs: CurriculumMCQ[] = [];
+
+  const fixed: [string, string, string[]][] = [
+    ["Wann begann der Zweite Weltkrieg?",
+      "1. September 1939",
+      ["1. September 1938", "1. Januar 1940", "3. September 1939"]],
+    ["Womit begann der Zweite Weltkrieg?",
+      "Deutschland überfiel Polen",
+      ["Japan griff die USA an", "Deutschland erklärte Frankreich den Krieg", "Die Sowjetunion überfiel Finnland"]],
+    ["Was ist der 'Blitzkrieg'?",
+      "Eine Kriegstaktik mit schnellen, koordinierten Angriff aus Panzern und Flugzeugen",
+      ["Ein langer Stellungskrieg in Schützengräben", "Eine Seestrategie mit U-Booten", "Ein Bombenangriff auf feindliche Städte"]],
+    ["Was war die Bedeutung der Kapitulation von Stalingrad (1943)?",
+      "Der erste große deutsche Rückschlag im Osten; Wendepunkt im Krieg",
+      ["Der Beginn des deutschen Ostfeldzugs", "Der Durchbruch Deutschlands Richtung Moskau", "Die Einnahme Leningrads durch deutsche Truppen"]],
+    ["Wann begann die Invasion der Alliierten in der Normandie?",
+      "6. Juni 1944 (D-Day)",
+      ["1. September 1944", "6. Juni 1943", "8. Mai 1945"]],
+    ["Was war der D-Day?",
+      "Die amphibische Landung alliierter Truppen in der Normandie, Frankreich",
+      ["Der Tag der deutschen Kapitulation", "Der erste Atomangriff auf Japan", "Der Beginn des Luftangriffs auf England"]],
+    ["Was ist der Holocaust?",
+      "Der systematische Massenmord an sechs Millionen Juden durch das NS-Regime",
+      ["Bombardierungen englischer Städte", "Der sowjetische Gulag", "Kriegsgefangenenlager der Alliierten"]],
+    ["Was waren Vernichtungslager?",
+      "Lager, die allein zum Zweck des Massenmords errichtet wurden",
+      ["Lager für politische Gefangene mit Zwangsarbeit", "Militärische Ausbildungslager", "Kriegsgefangenenlager nach Genfer Konvention"]],
+    ["Was war Auschwitz-Birkenau?",
+      "Der größte Komplex von Vernichtungs- und Konzentrationslagern in Polen",
+      ["Ein deutsches Trainingslager für Offiziere", "Ein Gefangenenlager für sowjetische Generäle", "Ein medizinisches Forschungszentrum"]],
+    ["Wann kapitulierte Deutschland offiziell?",
+      "8. Mai 1945",
+      ["1. Mai 1945", "8. August 1945", "9. November 1945"]],
+    ["Was war die Potsdamer Konferenz (1945)?",
+      "Eine Konferenz der Alliierten zur Neuordnung Europas nach Deutschlands Niederlage",
+      ["Eine Friedenskonferenz zwischen Deutschland und Frankreich", "Die Unterzeichnung der Kapitulation", "Die Gründung der Vereinten Nationen"]],
+    ["Was wurden auf den Nürnberger Prozessen verhandelt?",
+      "NS-Kriegsverbrechen und Verbrechen gegen die Menschlichkeit",
+      ["Wirtschaftsverbrechen während der Weimarer Republik", "Spionagefälle während des Ersten Weltkriegs", "Die Grenzziehung nach dem Krieg"]],
+    ["Welche vier Mächte teilten Deutschland nach dem Krieg in Besatzungszonen auf?",
+      "USA, Großbritannien, Frankreich und die Sowjetunion",
+      ["USA, China, Polen und die Sowjetunion", "USA, Großbritannien, Polen und Italien", "USA, Frankreich, Belgien und die Sowjetunion"]],
+    ["Was war der Angriff auf die Sowjetunion (1941) bekannt als?",
+      "Operation Barbarossa",
+      ["Operation Overlord", "Operation Seelöwe", "Operation Citadelle"]],
+    ["Wann griff Japan Pearl Harbor an?",
+      "7. Dezember 1941",
+      ["7. Dezember 1939", "7. Dezember 1943", "6. Juni 1944"]],
+    ["Was war der Atlantikwall?",
+      "Eine Reihe von deutschen Befestigungsanlagen entlang der westeuropäischen Küste",
+      ["Eine Minensperre im Atlantischen Ozean", "Eine britische Verteidigungslinie in Nordafrika", "Eine sowjetische Befestigung an der deutschen Grenze"]],
+    ["Was versteht man unter 'Endlösung der Judenfrage'?",
+      "Der NS-Begriff für den systematischen Massenmord an Juden Europas",
+      ["Ein Emigrationsprogramm für jüdische Bürger", "Ein Assimilationsprogramm für Juden in Deutschland", "Eine NS-Sprachregelung für Deportationen"]],
+    ["Wann wurde die Wannsee-Konferenz abgehalten?",
+      "20. Januar 1942",
+      ["9. November 1938", "1. September 1939", "8. Mai 1945"]],
+    ["Was waren die Nürnberger Prozesse?",
+      "Internationale Kriegsverbrechertribunale der Alliierten gegen NS-Führungspersonen",
+      ["NS-Strafprozesse gegen kommunistische Politiker", "Deutsche Militärgerichte gegen Deserteure", "Strafverfahren gegen Kriegsgefangene"]],
+    ["Wann endete der Zweite Weltkrieg mit der japanischen Kapitulation?",
+      "2. September 1945",
+      ["6. August 1945", "8. Mai 1945", "1. Januar 1946"]],
+    ["Was waren Atombomben?",
+      "Waffen, die auf Hiroshima (6.8.1945) und Nagasaki (9.8.1945) abgeworfen wurden und Japan zur Kapitulation zwangen",
+      ["Große konventionelle Bomben aus dem Zweiten Weltkrieg", "Sowjetische Nuklearwaffen gegen Japan", "Deutsche Geheimwaffen gegen England"]],
+    ["Was war Operation Overlord?",
+      "Der Codename für die alliierte Invasion der Normandie am D-Day",
+      ["Der Name des deutschen Westfeldzugs", "Die sowjetische Großoffensive 1944", "Der alliierte Angriff auf Nordafrika"]],
+    ["Was war Stalingrad?",
+      "Eine verlustreiche deutsche Belagerungsschlacht 1942/43, die mit der deutschen Kapitulation endete",
+      ["Eine deutsche Siegerstadt in Westfrankreich", "Eine Seeschlacht im Schwarzen Meer", "Die Hauptstadt der deutschen Besatzungszone"]],
+    ["Was ist die 'Reichskristallnacht' (Novemberpogromel 1938) als Vorstufe zum Holocaust?",
+      "Sie zeigten, dass systematische Gewalt gegen Juden staatlich gebilligt wurde",
+      ["Sie waren ein einmaliges Ereignis ohne Konsequenzen", "Sie führten sofort zur Einrichtung von Vernichtungslagern", "Sie wurden von der Bevölkerung vollständig abgelehnt"]],
+    ["Was war der Marshallplan nach dem Krieg?",
+      "Ein US-amerikanisches Wiederaufbauprogramm für Westeuropa",
+      ["Ein britischer Plan zur Verwaltung Berlins", "Ein sowjetisches Programm zur Industrialisierung Osteuropas", "Ein UN-Programm zur Rüstungskontrolle"]],
+    ["Was versteht man unter dem Begriff 'Appeasement-Politik'?",
+      "Die britisch-französische Nachgibigkeit gegenüber Hitlers Forderungen vor dem Krieg",
+      ["Eine aggressive Kriegspolitik Englands gegenüber Deutschland", "Die Neutralitätspolitik der Schweiz", "Die amerikanische Isolationspolitik"]],
+    ["Was war das Münchener Abkommen (1938)?",
+      "Die Übergabe des Sudetenlands an Deutschland durch Großbritannien und Frankreich",
+      ["Ein Friedensvertrag zwischen Deutschland und Frankreich", "Der Vertrag zur Gründung der NATO", "Eine Vereinbarung über Reparationszahlungen"]],
+    ["Was passierte mit den Millionen zivilen Kriegsopfern?",
+      "Sie starben durch Bombenangriffe, Hunger, Deportationen und Massenerschießungen",
+      ["Alle Zivilisten wurden evakuiert und blieben unversehrt", "Nur Soldaten kamen im Zweiten Weltkrieg ums Leben", "Zivilisten wurden durch internationale Verträge geschützt"]],
+    ["Welches war die größte Einzelschlacht an der Ostfront?",
+      "Die Operation Barbarossa und die nachfolgenden Kämpfe an der gesamten Ostfront",
+      ["Die Seeschlacht im Pazifik", "Die Luftschlacht um England", "Die Invasion Nordafrikas"]],
+    ["Was bedeutet 'bedingungslose Kapitulation'?",
+      "Die vollständige Übergabe ohne Verhandlungen oder Bedingungen",
+      ["Ein Waffenstillstand mit Vereinbarungen", "Eine freiwillige Demobilisierung der Armee", "Eine Teilkapitulation einzelner Streitkräfte"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  const extra: [string, string, string[]][] = [
+    ["Was war der Widerstand der Bevölkerung gegen den NS im Zweiten Weltkrieg?",
+      "Gering und riskant – Widerständler riskierten Verhaftung, Folter und Tod",
+      ["Weit verbreitet und staatlich gefördert", "Nur in der Armee, nicht in der Zivilbevölkerung", "Öffentlich und ohne Risiko möglich"]],
+    ["Was war der Hauptgrund für den deutschen Rückzug an der Ostfront?",
+      "Die verlustreiche Winteroffensive und die Überlegenheit der sowjetischen Kräfte",
+      ["Eine Verhandlungslösung mit der Sowjetunion", "Amerikanische Vermittlung", "Ein Waffenstillstandsabkommen mit England"]],
+    ["Was war der Atlantik-Pakt (NATO, 1949) eine Reaktion auf?",
+      "Die sowjetische Bedrohung nach dem Zweiten Weltkrieg",
+      ["Den deutschen Wiederaufbau", "Die japanische Aufrüstung", "Chinas Bürgerkrieg"]],
+    ["Was war die Hauptlast des Zweiten Weltkriegs in Europa?",
+      "Die Sowjetunion trug mit Abstand die meisten Verluste (ca. 27 Millionen Tote)",
+      ["Großbritannien hatte die meisten Opfer", "Deutschland hatte mehr Verluste als die Sowjetunion", "Die USA verloren am meisten in Europa"]],
+    ["Was war die Funktion von Todesmärschen?",
+      "KZ-Häftlinge wurden bei Kriegsende auf Todesmärsche gezwungen, um ihre Befreiung durch Alliierte zu verhindern",
+      ["Sie dienten der Evakuierung von Zivilisten", "Sie waren militärische Rückzugsbewegungen", "Sie gehörten zur regulären Kriegsgefangenenpflege"]],
+    ["Was war die 'Kollaboration'?",
+      "Zusammenarbeit mit der deutschen Besatzungsmacht in besetzten Ländern",
+      ["Der aktive Widerstand gegen die Besatzer", "Fluchthilfe für Verfolgte", "Spionage für die Alliierten"]],
+    ["Wer war Winston Churchill?",
+      "Der britische Premierminister, der Großbritannien durch den Krieg führte",
+      ["Der amerikanische Präsident während des Krieges", "Der französische General, der Frankreich befreite", "Der sowjetische Marschall bei Stalingrad"]],
+    ["Wer war Franklin D. Roosevelt?",
+      "Der US-Präsident, der Amerika in den Zweiten Weltkrieg führte",
+      ["Der britische Premierminister", "Der sowjetische Staatschef", "Der General der Normandie-Landung"]],
+    ["Wer war Josef Stalin?",
+      "Der sowjetische Diktator, der die UdSSR durch den Zweiten Weltkrieg führte",
+      ["Der polnische Staatschef", "Der chinesische Führer", "Der britische General"]],
+    ["Was war die Bedeutung des Jahres 1943 für den Kriegsverlauf?",
+      "Die Wende an der Ostfront (Stalingrad) und die Landung der Alliierten in Nordafrika und Sizilien",
+      ["Der Beginn des Zweiten Weltkriegs", "Die Bombardierung Londons durch Deutschland", "Die Besetzung der Sowjetunion bis zum Ural"]],
+    ["Was war das 'Joch der Besatzung' für Frankreich?",
+      "Die Besetzung Frankreichs durch Nazi-Deutschland 1940–1944 und die Kollaborationsregierung Vichy",
+      ["Die britische Blockade französischer Häfen", "Der sowjetische Einfluss auf Frankreich", "Die amerikanische Wirtschaftshilfe für Frankreich"]],
+    ["Was waren 'displaced persons' nach dem Krieg?",
+      "Millionen von Menschen, die durch den Krieg ihre Heimat verloren hatten",
+      ["Deutsche Soldaten in alliierter Gefangenschaft", "Amerikanische Soldaten in Europa", "Flüchtlinge aus Asien"]],
+    ["Was war die Bedeutung der Entnazifizierung nach dem Krieg?",
+      "Maßnahmen der Alliierten, um NS-Täter zu bestrafen und NS-Ideologie zu beseitigen",
+      ["Ein Programm zum Wiederaufbau der deutschen Industrie", "Die Rückkehr von Flüchtlingen nach Deutschland", "Eine kulturelle Erneuerung des deutschen Schulwesens"]],
+    ["Was symbolisiert der Begriff 'Stunde Null' in Deutschland?",
+      "Den Neuanfang nach der totalen Niederlage Deutschlands 1945",
+      ["Den Beginn der Weimarer Republik", "Das Ende des Ersten Weltkriegs", "Die Aufhebung des Versailler Vertrags"]],
+    ["Was war Lend-Lease?",
+      "Ein US-amerikanisches Programm zur Lieferung von Kriegsmaterial an alliierte Staaten",
+      ["Ein britischer Kreditplan für deutsche Reparationen", "Ein sowjetisches Programm zur Bewaffnung der Roten Armee", "Eine Wirtschaftshilfe für Japan"]],
+  ];
+
+  for (const [q, c, ws] of extra) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── 6. KALTER KRIEG ─────────────────────────────────────────────────────────
+
+function generateKalterKrieg(): CurriculumMCQ[] {
+  const rng = mulberry32(0xFA6789);
+  const T = "Geschichte";
+  const S = "Kalter Krieg";
+  const qs: CurriculumMCQ[] = [];
+
+  const fixed: [string, string, string[]][] = [
+    ["Was ist der Kalte Krieg?",
+      "Ein ideologischer und politischer Konflikt zwischen den USA und der Sowjetunion ohne direkten Krieg",
+      ["Ein bewaffneter Krieg zwischen den USA und der Sowjetunion", "Ein Handelskrieg zwischen Europa und Amerika", "Ein religiöser Konflikt im Nahen Osten"]],
+    ["Wann wurden die Bundesrepublik Deutschland (BRD) und die Deutsche Demokratische Republik (DDR) gegründet?",
+      "1949",
+      ["1945", "1955", "1961"]],
+    ["Was war das Wirtschaftssystem der BRD?",
+      "Soziale Marktwirtschaft",
+      ["Planwirtschaft", "Kommunismus", "Merkantilismus"]],
+    ["Was war das Wirtschaftssystem der DDR?",
+      "Sozialistische Planwirtschaft",
+      ["Soziale Marktwirtschaft", "Kapitalismus", "Feudalismus"]],
+    ["Was war die NATO?",
+      "Ein westliches Militärbündnis unter Führung der USA",
+      ["Ein osteuropäisches Bündnis unter sowjetischer Führung", "Eine internationale Handelsorganisation", "Ein UN-Peacekeeping-Verband"]],
+    ["Was war der Warschauer Pakt?",
+      "Ein militärisches Bündnis der Sowjetunion mit osteuropäischen Staaten",
+      ["Ein westliches Verteidigungsbündnis", "Ein Wirtschaftsbündnis der Ostblockstaaten", "Ein Abrüstungsvertrag"]],
+    ["Wann wurde die Berliner Mauer gebaut?",
+      "13. August 1961",
+      ["9. November 1989", "4. Juni 1953", "17. Juni 1953"]],
+    ["Warum wurde die Berliner Mauer gebaut?",
+      "Um die Flucht von DDR-Bürgern in den Westen zu stoppen",
+      ["Als Verteidigung gegen westliche Angriffe", "Zur Regulierung des Handels zwischen BRD und DDR", "Auf Wunsch der westlichen Alliierten"]],
+    ["Was war der Volksaufstand vom 17. Juni 1953 in der DDR?",
+      "Ein Aufstand von Arbeitern gegen die DDR-Führung, der von sowjetischen Panzern niedergeschlagen wurde",
+      ["Eine friedliche Demonstration für mehr Konsumgüter", "Ein erfolgreicher Umsturz der DDR-Regierung", "Ein Streik in der BRD gegen hohe Steuern"]],
+    ["Was war die Stasi?",
+      "Das Ministerium für Staatssicherheit der DDR – Geheimpolizei und Überwachungsapparat",
+      ["Die Staatspolizei der BRD", "Der westdeutsche Geheimdienst", "Eine sowjetische Spionagebehörde in Deutschland"]],
+    ["Was bezeichnet man als 'Wirtschaftswunder' (BRD)?",
+      "Den rasanten wirtschaftlichen Wiederaufbau und Wohlstandsanstieg in Westdeutschland in den 1950/60er Jahren",
+      ["Den Wiederaufbau Ostdeutschlands nach der Wende", "Die Industrialisierung des Ruhrgebiets im 19. Jahrhundert", "Den wirtschaftlichen Aufstieg der DDR"]],
+    ["Was war die Truman-Doktrin?",
+      "Eine US-Außenpolitik zur Eindämmung des Kommunismus weltweit",
+      ["Ein US-Wirtschaftshilfeprogramm für Europa", "Eine amerikanische Politik der Neutralität", "Eine Abrüstungsvereinbarung mit der Sowjetunion"]],
+    ["Was war die Berliner Blockade (1948/49)?",
+      "Die sowjetische Blockade der Westsektoren Berlins; die Alliierten versorgten die Stadt per Luftbrücke",
+      ["Eine alliierte Belagerung der sowjetischen Zone Berlins", "Ein Streik der Berliner Bevölkerung gegen die Besatzung", "Eine Grenzschließung zwischen BRD und Westberlin"]],
+    ["Was war die Luftbrücke Berlin?",
+      "Die Versorgung West-Berlins mit Flugzeugen während der sowjetischen Blockade 1948/49",
+      ["Ein Militäreinsatz zur Befreiung Berlins", "Eine Evakuierung der Berliner Bevölkerung", "Der Transport von DDR-Flüchtlingen in den Westen"]],
+    ["Was war die Kubakrise (1962)?",
+      "Eine Konfrontation zwischen den USA und der Sowjetunion wegen sowjetischer Atomraketen auf Kuba",
+      ["Ein Bürgerkrieg in Kuba gegen die USA", "Ein Wirtschaftsstreit zwischen USA und Kuba", "Eine Intervention der Sowjetunion in Vietnam"]],
+    ["Was ist 'Entspannungspolitik'?",
+      "Eine Politik zur Verminderung von Spannungen zwischen Ost und West im Kalten Krieg",
+      ["Eine Politik der militärischen Aufrüstung", "Eine Annäherung zwischen der BRD und Ostdeutschland", "Eine Isolation beider Supermächte"]],
+    ["Wer war Willy Brandt?",
+      "Westdeutscher Bundeskanzler (1969–74), bekannt für die Ostpolitik und Kniefall in Warschau",
+      ["Erster Kanzler der BRD (1949)", "DDR-Staatschef unter Honecker", "Westdeutscher Bundespräsident in den 1960ern"]],
+    ["Was war die Ostpolitik Willy Brandts?",
+      "Die Annäherung an die DDR und östliche Nachbarstaaten durch Verträge und Dialog",
+      ["Die Ablehnung jeglicher Beziehungen zur DDR", "Eine Annäherung an die USA während des Kalten Kriegs", "Die Einführung von Handelsschranken gegen den Ostblock"]],
+    ["Was war die Grundlage des wirtschaftlichen Erfolgs der BRD?",
+      "Soziale Marktwirtschaft, Marshallplan-Hilfe, Fleiß der Bevölkerung und US-Investitionen",
+      ["Planwirtschaft nach sowjetischem Vorbild", "Verzicht auf jegliche Sozialleistungen", "Wirtschaftshilfe aus der Sowjetunion"]],
+    ["Was war das Zentralkomitee in der DDR?",
+      "Das höchste politische Führungsgremium der SED",
+      ["Das Parlament der DDR", "Die Wirtschaftsplanungsbehörde", "Die Staatssicherheitsbehörde"]],
+    ["Was war die SED?",
+      "Die Sozialistische Einheitspartei Deutschlands – die Einheitspartei in der DDR",
+      ["Die Sozialdemokratische Einheitspartei Deutschlands", "Eine westdeutsche Partei", "Eine kommunistische Partei in der BRD"]],
+    ["Wer war Konrad Adenauer?",
+      "Der erste Bundeskanzler der BRD (1949–1963)",
+      ["Der erste Bundespräsident der BRD", "Der erste Ministerpräsident der DDR", "Der erste NATO-Generalsekretär"]],
+    ["Was war Erich Honecker?",
+      "Staatsratsvorsitzender und Generalsekretär der SED der DDR (1971–1989)",
+      ["Erster Bundeskanzler der BRD", "Sowjetischer Botschafter in Deutschland", "Chef der Stasi"]],
+    ["Was war der Mauerbau für DDR-Familien?",
+      "Die Trennung von Familien, die auf beiden Seiten lebten, und drastische Einschränkung der Freiheit",
+      ["Er ermöglichte einfachere Familienzusammenführungen", "Er hatte keine Auswirkungen auf die Bevölkerung", "Er stärkte wirtschaftliche Kontakte zwischen Ost und West"]],
+    ["Was war die Folge des Marshallplans für Europa?",
+      "Wirtschaftlicher Wiederaufbau Westeuropas und Bindung an die USA",
+      ["Wirtschaftliche Unabhängigkeit Westeuropas von den USA", "Wirtschaftliche Integration Osteuropas in den Westen", "Vollständige Entindustrialisierung Deutschlands"]],
+    ["Was waren die Errungenschaften der DDR?",
+      "Bildungs- und Gesundheitssystem für alle sowie sichere Grundversorgung",
+      ["Höherer Lebensstandard als in der BRD", "Vollständige Reisefreiheit für Bürger", "Ein blühendes Unternehmertum"]],
+    ["Was war ein typisches Merkmal der DDR-Planwirtschaft?",
+      "Mangelwirtschaft, Wartezeiten auf Autos und Güter, staatliche Kontrolle",
+      ["Überfluss an Konsumgütern wie in der BRD", "Freie Marktwirtschaft mit Wettbewerb", "Hohe Exportleistung durch privaten Handel"]],
+    ["Was versteht man unter 'Eiserner Vorhang'?",
+      "Die ideologische und physische Grenze zwischen West- und Osteuropa im Kalten Krieg",
+      ["Eine Grenze zwischen zwei deutschen Bundesländern", "Ein Militärbündnis westlicher Staaten", "Ein Wirtschaftsembargo der USA gegen Osteuropa"]],
+    ["Was war der erste Sputnik (1957)?",
+      "Der erste von Menschen in den Weltraum geschossene Satellit – von der Sowjetunion",
+      ["Das erste US-amerikanische Raumfahrzeug", "Eine chinesische Raketentestanlage", "Ein deutsch-amerikanisches Satellitenprojekt"]],
+    ["Was war die Berliner Mauer für die internationale Gemeinschaft?",
+      "Ein Symbol für die Teilung Europas und die Unterdrückung im Ostblock",
+      ["Ein Schutzwall gegen westliche Aggression", "Ein technisches Meisterwerk der deutschen Ingenieurskunst", "Ein Denkmal für Gefallene beider Weltkriege"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  const extra: [string, string, string[]][] = [
+    ["Was war das 'Wettrüsten' im Kalten Krieg?",
+      "Die gegenseitige Aufrüstung von USA und Sowjetunion, besonders mit Atomwaffen",
+      ["Internationale Abrüstungsverhandlungen", "Ein Sportprogramm", "Wirtschaftliche Konkurrenz im Technologiebereich"]],
+    ["Was war die Folge des 'Mauerfalls' für DDR-Bürger?",
+      "Reisefreiheit, Vereinigung mit Westdeutschland und Ende der SED-Herrschaft",
+      ["Nur vorübergehende Öffnung der Grenzen", "Stärkung der DDR-Wirtschaft", "Neue Wahlen in der DDR unter alter Führung"]],
+    ["Was ist 'MAD' (Mutual Assured Destruction)?",
+      "Das Prinzip, dass ein Atomkrieg beide Seiten vernichten würde – daher der Frieden",
+      ["Eine Strategie für begrenzte Atomschläge", "Ein Abrüstungsvertrag zwischen USA und UdSSR", "Eine US-Verteidigungsstrategie in Europa"]],
+    ["Was waren Rüstungskontrollverträge im Kalten Krieg?",
+      "Verträge wie SALT I und II zur Begrenzung strategischer Atomwaffen",
+      ["Verträge zur vollständigen Abrüstung", "Wirtschaftsabkommen zwischen USA und UdSSR", "Verträge zur Friedenssicherung in Vietnam"]],
+    ["Was war der Korea-Krieg (1950–1953)?",
+      "Ein Stellvertreterkrieg zwischen kommunistischem Nordkorea (UdSSR/China) und Südkorea (USA/UN)",
+      ["Ein Krieg zwischen China und Japan", "Ein innerkoreanischer Konflikt ohne äußere Einmischung", "Ein US-Angriff auf die Sowjetunion"]],
+    ["Was war der Vietnamkrieg?",
+      "Ein Krieg zwischen kommunistischem Nordvietnam und Südvietnam (unterstützt von den USA)",
+      ["Ein chinesisch-amerikanischer Krieg", "Ein Bürgerkrieg ohne internationale Beteiligung", "Ein sowjetischer Angriff auf Südostasien"]],
+    ["Was symbolisierte die Berliner Mauer für die Welt?",
+      "Die Unfreiheit im Ostblock und die Teilung der Welt durch den Kalten Krieg",
+      ["Den wirtschaftlichen Erfolg der DDR", "Die militärische Stärke der Sowjetunion", "Den Wunsch der Deutschen nach Trennung"]],
+    ["Was war Glasnost?",
+      "Gorbatschows Offenheitspolitik in der Sowjetunion, die Reformen ermöglichte",
+      ["Ein sowjetisches Militärprogramm", "Ein westdeutsches Wirtschaftsprogramm", "Eine NATO-Strategie gegen den Ostblock"]],
+    ["Was war Perestroika?",
+      "Gorbatschows Reformpolitik zur Umstrukturierung der sowjetischen Wirtschaft und Politik",
+      ["Eine ostdeutsche Wirtschaftsreform", "Eine US-amerikanische Außenpolitik", "Eine sowjetische Militärstrategie"]],
+    ["Wer war Michail Gorbatschow?",
+      "Der letzte Generalsekretär der KPdSU, der mit Glasnost und Perestroika die Sowjetunion reformierte",
+      ["Der erste Präsident Russlands nach der Wende", "Ein westdeutscher Außenminister", "Der sowjetische General im Zweiten Weltkrieg"]],
+    ["Was war die Folge des Kalten Kriegs für Deutschland?",
+      "Die Teilung in BRD und DDR von 1949 bis 1990",
+      ["Deutschland blieb als Einheitsstaat unter Besatzung", "Deutschland wurde permanent in vier Teile aufgeteilt", "Deutschland schloss sich der Sowjetunion an"]],
+    ["Was war der 'Systemvergleich' im Kalten Krieg?",
+      "Der Vergleich des westlichen Kapitalismus mit dem östlichen Kommunismus",
+      ["Eine wirtschaftswissenschaftliche Theorie", "Ein diplomatisches Gesprächsformat", "Eine UNO-Sonderkommission"]],
+    ["Was war die Folge der Entspannungspolitik in den 1970ern?",
+      "Bessere Beziehungen zwischen BRD und DDR sowie Abrüstungsgespräche",
+      ["Die Auflösung der NATO", "Die militärische Vereinigung Europas", "Freie Wahlen in der DDR"]],
+    ["Was war das Ziel der US-Außenpolitik im Kalten Krieg?",
+      "Eindämmung (Containment) des Kommunismus weltweit",
+      ["Ausbreitung des Kommunismus in Lateinamerika", "Neutralität gegenüber der Sowjetunion", "Wirtschaftliche Integration der Sowjetunion"]],
+    ["Was war die Folge des Mauerbaus für Flüchtlinge?",
+      "Viele DDR-Bürger riskierten ihr Leben für die Flucht in den Westen",
+      ["Die Fluchtzahlen stiegen stark an", "Alle Flüchtlinge durften legal ausreisen", "Es gab keine Versuche mehr, die Mauer zu überwinden"]],
+  ];
+
+  for (const [q, c, ws] of extra) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── 7. WIEDERVEREINIGUNG ─────────────────────────────────────────────────────
+
+function generateWiedervereinigung(): CurriculumMCQ[] {
+  const rng = mulberry32(0x1B789A);
+  const T = "Geschichte";
+  const S = "Wiedervereinigung";
+  const qs: CurriculumMCQ[] = [];
+
+  const fixed: [string, string, string[]][] = [
+    ["Wann fiel die Berliner Mauer?",
+      "9. November 1989",
+      ["3. Oktober 1990", "13. August 1961", "9. November 1918"]],
+    ["Was waren die Montagsdemonstrationen?",
+      "Friedliche wöchentliche Demonstrationen in Leipzig und anderen DDR-Städten für mehr Freiheit",
+      ["Kundgebungen für die SED-Regierung", "Streiks in der Industrie", "Aufmärsche der Nationalen Volksarmee"]],
+    ["Was riefen die Demonstranten 1989 in der DDR?",
+      "'Wir sind das Volk!' und 'Wir sind ein Volk!'",
+      ["'Freiheit für die SED!'", "'Nieder mit der BRD!'", "'Es lebe der Sozialismus!'"]],
+    ["Wann trat die Deutsche Wiedervereinigung offiziell in Kraft?",
+      "3. Oktober 1990",
+      ["9. November 1989", "1. Juli 1990", "31. Dezember 1990"]],
+    ["Wer war der Bundeskanzler bei der deutschen Wiedervereinigung?",
+      "Helmut Kohl",
+      ["Willy Brandt", "Gerhard Schröder", "Helmut Schmidt"]],
+    ["Was war der 'Zwei-plus-Vier-Vertrag' (1990)?",
+      "Ein Vertrag der beiden deutschen Staaten mit den vier Siegermächten, der die volle Souveränität Deutschlands regelte",
+      ["Ein Vertrag zur wirtschaftlichen Union der beiden deutschen Staaten", "Ein Grenzvertrag zwischen Deutschland und Polen", "Eine EU-Beitrittsbedingung für Deutschland"]],
+    ["Was war die Rolle Gorbatschows bei der Wiedervereinigung?",
+      "Er ließ die Wiedervereinigung zu und verzichtete auf sowjetischen Widerstand",
+      ["Er blockierte die Wiedervereinigung", "Er forderte die Teilung Deutschlands dauerhaft", "Er gab Deutschland den Wiedervereinigungsbefehl"]],
+    ["Was war die EG/EU und welche Rolle spielte sie nach der Wiedervereinigung?",
+      "Die Europäische Gemeinschaft/Union als wirtschaftlicher und politischer Rahmen für das vereinte Deutschland",
+      ["Sie verhinderte zunächst die Wiedervereinigung", "Sie hatte keine Bedeutung für Deutschland", "Sie wurde erst nach der Wiedervereinigung gegründet"]],
+    ["Was war der Maastricht-Vertrag (1992)?",
+      "Der Vertrag zur Gründung der Europäischen Union und Einführung des Euro",
+      ["Der Vertrag zur deutschen Wiedervereinigung", "Ein Abrüstungsvertrag zwischen NATO und Warschauer Pakt", "Eine Vereinbarung zur Auflösung der DDR"]],
+    ["Was ist das Schengen-Abkommen?",
+      "Ein Vertrag zur Abschaffung der Grenzkontrollen innerhalb der EU",
+      ["Eine EU-Währungsunion", "Ein Vertrag zur Freizügigkeit von Kapital", "Eine EU-Sicherheitsstrategie gegen Terrorismus"]],
+    ["Was war der Euro?",
+      "Die gemeinsame europäische Währung, die den nationalen Währungen folgte",
+      ["Eine Vorstufe der Deutschen Mark", "Eine Währung nur für Deutschland", "Eine internationale Reservewährung der UNO"]],
+    ["Wann wurde der Euro als Bargeld eingeführt?",
+      "2002",
+      ["1999", "1992", "2004"]],
+    ["Was war der 'Aufbau Ost'?",
+      "Massive finanzielle Transfers und Investitionen zur wirtschaftlichen Angleichung der neuen Bundesländer",
+      ["Ein Programm für westdeutsche Unternehmen in Ostdeutschland", "Hilfe der Sowjetunion für die DDR", "Ein Sonderfonds für Rüstungsabbau"]],
+    ["Was war eine Herausforderung nach der Wiedervereinigung?",
+      "Die wirtschaftliche Angleichung von Ost und West erforderte Jahrzehnte",
+      ["Der sofortige Wohlstand aller Ostdeutschen", "Die Integration der DDR in die NATO ohne Probleme", "Keinerlei gesellschaftliche Spannungen"]],
+    ["Was ist die NATO heute in Bezug auf Deutschland?",
+      "Deutschland ist seit 1955 Mitglied der NATO; vereintes Deutschland blieb in der NATO",
+      ["Deutschland ist neutrale Macht außerhalb der NATO", "Deutschland übernahm die Führung des Warschauer Pakts", "Deutschland trat erst 2000 der NATO bei"]],
+    ["Was war die 'Friedliche Revolution' in der DDR?",
+      "Der gewaltlose Umbruch 1989, der zur Öffnung der Mauer und Ende der SED-Diktatur führte",
+      ["Eine bewaffnete Rebellion gegen die Regierung", "Eine Revolution, die von der Sowjetunion unterstützt wurde", "Ein Regierungswechsel ohne Beteiligung der Bevölkerung"]],
+    ["Was bedeutet '9. November' in der deutschen Geschichte (1989)?",
+      "Der Fall der Berliner Mauer und das Ende der deutschen Teilung",
+      ["Der Beginn der Weimarer Republik", "Der Jahrestag des Hitler-Putsches", "Der Jahrestag der Novemberpogrome von 1938"]],
+    ["Was war die Bedeutung des Beitritts der DDR zur BRD?",
+      "Die fünf neuen Bundesländer traten der BRD bei, was die Wiedervereinigung vollendete",
+      ["Es wurde ein neuer gemeinsamer Staat mit neuer Verfassung gegründet", "Die BRD trat der DDR bei", "Beide Staaten blieben zunächst unabhängig"]],
+    ["Was war der 'Staatsvertrag' vom 1. Juli 1990?",
+      "Der Vertrag zur Wirtschafts-, Währungs- und Sozialunion zwischen BRD und DDR",
+      ["Der Vertrag zur militärischen Vereinigung", "Der Vertrag zur Auflösung der Stasi", "Der Vertrag zur Einheit der Bildungssysteme"]],
+    ["Was war die Eurozone?",
+      "Der Zusammenschluss von EU-Staaten, die den Euro als gemeinsame Währung haben",
+      ["Ein militärisches Bündnis innerhalb der EU", "Eine Handelszone außerhalb der EU", "Eine UN-Wirtschaftszone"]],
+    ["Was war die Bonner Republik?",
+      "Die Bezeichnung für die BRD mit Hauptstadt Bonn (1949–1999)",
+      ["Die DDR mit Hauptstadt Berlin", "Die Weimarer Republik", "Das Deutsche Kaiserreich unter Bismarck"]],
+    ["Was war ein Symbol der Wiedervereinigung?",
+      "Das Brandenburger Tor in Berlin",
+      ["Der Kölner Dom", "Das Schloss Neuschwanstein", "Die Frauenkirche München"]],
+    ["Was war die Rolle der Kirchen in der DDR-Revolution 1989?",
+      "Kirchenräume dienten als Versammlungsorte für die Opposition",
+      ["Die Kirchen unterstützten die SED-Regierung", "Die Kirchen wurden vollständig verboten", "Die Kirchen riefen zum bewaffneten Widerstand auf"]],
+    ["Was war die Nikolaikirche in Leipzig?",
+      "Ein Treffpunkt der Friedensbewegung und Ausgangspunkt der Montagsdemonstrationen",
+      ["Der Sitz der SED in Leipzig", "Eine Stasi-Einrichtung", "Das Hauptquartier der NVA"]],
+    ["Was war eine wirtschaftliche Folge der Wiedervereinigung für die DDR-Betriebe?",
+      "Viele DDR-Betriebe waren nicht wettbewerbsfähig und wurden geschlossen",
+      ["DDR-Betriebe übernahmen die westdeutschen Märkte", "Alle DDR-Betriebe wurden staatlich gefördert", "DDR-Betriebe lieferten in den gesamten EU-Raum"]],
+    ["Was war die Treuhandanstalt?",
+      "Eine Behörde zur Privatisierung der ehemaligen DDR-Betriebe",
+      ["Eine Steuerbehörde für Wiedervereinigungsgelder", "Eine Bildungsbehörde für ehemalige DDR-Lehrer", "Ein Sozialamt für Arbeitslose aus der DDR"]],
+    ["Was war ein gesellschaftliches Problem nach der Wiedervereinigung?",
+      "Unterschiede in Lebensgefühl, Erwartungen und wirtschaftlichen Möglichkeiten zwischen Ost und West",
+      ["Vollständige Angleichung der Löhne sofort nach 1990", "Keinerlei Unterschiede zwischen Ost und West", "Überlegenheit der DDR-Wirtschaft gegenüber der BRD"]],
+    ["Wie viele neue Bundesländer entstanden durch die Wiedervereinigung?",
+      "5 neue Bundesländer (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Thüringen) + Berlin",
+      ["3 neue Bundesländer", "7 neue Bundesländer", "10 neue Bundesländer"]],
+    ["Was war die geopolitische Folge der Wiedervereinigung für Deutschland?",
+      "Deutschland wurde ein zentraler Akteur in der EU und blieb in der NATO",
+      ["Deutschland wurde neutrales Land außerhalb der NATO", "Deutschland trat dem Warschauer Pakt bei", "Deutschland wurde Mitglied der Vereinten Nationen zum ersten Mal"]],
+    ["Was war das Motto der EU-Einigung?",
+      "'In Vielfalt geeint'",
+      ["'Freiheit, Gleichheit, Brüderlichkeit'", "'Einigkeit und Recht und Freiheit'", "'Frieden und Wohlstand für alle'"]],
+  ];
+
+  for (const [q, c, ws] of fixed) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  const extra: [string, string, string[]][] = [
+    ["Was war die Bedeutung des 3. Oktober 1990 für Deutschland?",
+      "Der Tag der Deutschen Einheit und offizieller Nationalfeiertag",
+      ["Der Jahrestag des Mauerfalls", "Der Jahrestag der Gründung der BRD", "Der Jahrestag der ersten freien Wahl in der DDR"]],
+    ["Was ist die Europäische Union?",
+      "Ein politischer und wirtschaftlicher Zusammenschluss europäischer Staaten",
+      ["Ein Militärbündnis wie die NATO", "Eine Freihandelszone ohne politische Union", "Eine UNO-Unterorganisation"]],
+    ["Was war der Vertrag von Lissabon (2009)?",
+      "Ein Reform-Vertrag der EU, der ihre Strukturen modernisierte",
+      ["Der Gründungsvertrag der EU", "Der Vertrag zur deutschen Wiedervereinigung", "Ein NATO-Erweiterungsvertrag"]],
+    ["Was war eine wichtige positive Folge der EU-Mitgliedschaft für Deutschland?",
+      "Frieden, wirtschaftliche Integration und offene Grenzen in Europa",
+      ["Vollständige wirtschaftliche Unabhängigkeit von anderen Staaten", "Deutschlands Rückkehr zur Nationalwährung", "Abschaffung aller Sozialsysteme"]],
+    ["Was ist der Gemeinsame Markt der EU?",
+      "Ein Markt mit freiem Warenverkehr, Kapitalfluss, Dienstleistungen und Personenfreizügigkeit",
+      ["Ein Markt nur für Agrarprodukte", "Ein Rüstungsmarkt", "Ein ausschließlicher Währungsmarkt"]],
+    ["Was war Konrad Adenauers Bedeutung für Europa?",
+      "Er trieb die europäische Integration und Aussöhnung mit Frankreich voran",
+      ["Er lehnte jede europäische Einigung ab", "Er forderte die Rückkehr zum Kaiserreich", "Er schloss Deutschland von der NATO aus"]],
+    ["Was war der Élysée-Vertrag (1963)?",
+      "Ein Freundschaftsvertrag zwischen Deutschland und Frankreich als Grundlage der europäischen Einigung",
+      ["Ein Vertrag zur deutschen Teilung", "Ein Grenzvertrag mit Polen", "Ein NATO-Beitrittsvertrag"]],
+    ["Was versteht man unter 'europäischer Identität'?",
+      "Das Bewusstsein, Teil einer gemeinsamen europäischen Geschichte und Wertegemeinschaft zu sein",
+      ["Die Aufgabe der nationalen Identität", "Eine einheitliche Sprache für alle EU-Bürger", "Die vollständige Gleichheit aller EU-Staaten"]],
+    ["Was war eine kritische Stimme gegenüber dem Euro?",
+      "Befürchtungen, dass schwache Volkswirtschaften von starken abhängig werden",
+      ["Alle EU-Mitglieder begrüßten den Euro vorbehaltlos", "Der Euro verstärkte wirtschaftliche Ungleichheiten ausschließlich", "Nur Großbritannien lehnte den Euro ab"]],
+    ["Was war die Folge der Erweiterung der EU nach Osten (2004)?",
+      "Ost- und mitteleuropäische Länder wie Polen, Ungarn und Tschechien traten der EU bei",
+      ["Nur westliche Länder blieben in der EU", "Die EU schrumpfte nach der Osterweiterung", "Die Osterweiterung fand erst 2010 statt"]],
+    ["Was war eine gesellschaftliche Herausforderung der Wiedervereinigung?",
+      "Anpassung zweier gesellschaftlicher Systeme, die 40 Jahre getrennt gelebt hatten",
+      ["Der sofortige wirtschaftliche Ausgleich nach einem Jahr", "Die vollständige Akzeptanz der DDR-Bürger durch Westdeutsche", "Keine sozialen oder politischen Konflikte"]],
+    ["Was bedeutet 'Solidaritätszuschlag'?",
+      "Eine zusätzliche Steuer in Deutschland zur Finanzierung des Aufbaus der neuen Bundesländer",
+      ["Ein Förderprogramm für Großunternehmen", "Eine EU-Steuer für alle Mitgliedsstaaten", "Eine Steuer für Exportgüter"]],
+    ["Was war eine Leistung der deutschen Wiedervereinigung?",
+      "Friedliche Integration eines neuen, demokratischen gesamtdeutschen Staates in Europa",
+      ["Wirtschaftliche Überlegenheit über alle EU-Staaten", "Vollständige Angleichung aller Lebensbereiche innerhalb von fünf Jahren", "Auflösung der NATO durch Deutschland"]],
+    ["Was bedeutet 'Transformationsgesellschaft'?",
+      "Eine Gesellschaft im Übergang von einem politischen/wirtschaftlichen System zu einem anderen",
+      ["Eine Gesellschaft ohne staatliche Institutionen", "Eine stabile Gesellschaft ohne Reformen", "Eine Gesellschaft mit geschlossenen Grenzen"]],
+    ["Was war der symbolische Wert des Mauerfalls weltweit?",
+      "Das Ende des Kalten Krieges und der Beginn eines neuen Zeitalters der Freiheit und Demokratie",
+      ["Das Ende des Zweiten Weltkriegs", "Der Beginn der NATO-Erweiterung", "Das Ende der deutschen Demokratie"]],
+  ];
+
+  for (const [q, c, ws] of extra) {
+    qs.push(createMCQ(T, S, q, c, ws, rng));
+  }
+
+  return qs.slice(0, 45);
+}
+
+// ─── EXPORT ──────────────────────────────────────────────────────────────────
+
+export const G8_Generators_Geschichte: Record<string, () => CurriculumMCQ[]> = {
+  imperialismus: generateImperialismus,
+  erster_weltkrieg: generateErsterWeltkrieg,
+  weimarer_republik: generateWeimarerRepublik,
+  nationalsozialismus: generateNationalsozialismus,
+  zweiter_weltkrieg: generateZweiterWeltkrieg,
+  kalter_krieg: generateKalterKrieg,
+  wiedervereinigung: generateWiedervereinigung,
+};
