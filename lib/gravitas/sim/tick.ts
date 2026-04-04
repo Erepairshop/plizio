@@ -16,8 +16,20 @@ import { tickWarroomProduction } from "./warroom";
 import { tickRepairBay, getRepairSlotCount } from "./repairbay";
 import { applyStarholdCommand } from "./commands";
 import { getWorldLevelDelay, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
+import { applyNaturalDrift } from "./faction/reputation";
 
 /** Check if world level should increase based on core level and time */
+function tickFactionReputation(state: StarholdState): StarholdState {
+  const now = Date.now();
+  if (now - state.factionReputation.lastDriftAt >= 24 * 60 * 60 * 1000) {
+    return {
+      ...state,
+      factionReputation: applyNaturalDrift(state.factionReputation),
+    };
+  }
+  return state;
+}
+
 function tickWorldLevel(state: StarholdState): StarholdState {
   const now = Date.now();
   const coreLevel = state.moduleLevels.core;
@@ -896,13 +908,13 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     })))))));
     }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     }))))))));

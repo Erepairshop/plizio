@@ -6,6 +6,7 @@ import type { StarholdChapterId } from "./chapter";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { createInitialRepairBay } from "./repairbay";
+import { createInitialFactionReputation } from "./faction";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -123,6 +124,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
         buildingCooldowns: {},
         activeScout: null,
       },
+      factionReputation: createInitialFactionReputation(),
       worldLevel: 1,
       worldLevelPending: null,
       avatarImprintActive: false,
@@ -230,8 +232,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       buildingCooldowns: {},
       activeScout: null,
     },
-    worldLevel: 1,
-    worldLevelPending: null,
+    factionReputation: createInitialFactionReputation(),
+    worldLevel: 1,    worldLevelPending: null,
     avatarImprintActive: false,
     avatarImprintProgress: 0,
     avatarPrepArmedTick: null,

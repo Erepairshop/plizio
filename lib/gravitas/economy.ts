@@ -331,6 +331,33 @@ export const DRONE_CONFIG = {
   baseMiningDurationMs: 60 * 60 * 1000, // 60 min base (matching default in mission.ts)
 } as const;
 
+export const FACTION_REPUTATION_CONFIG = {
+  tiers: {
+    hostile: { min: -100, max: -61 },
+    tense: { min: -60, max: -21 },
+    neutral: { min: -20, max: 20 },
+    friendly: { min: 21, max: 60 },
+    allied: { min: 61, max: 100 },
+  },
+  changes: {
+    battleVictory: -8, // the defeated faction
+    enemyDefeated: 3, // faction whose enemy you defeated
+    tradeAccepted: 5,
+    tradeRejected: -2,
+    dilemmaHelp: 10,
+    dilemmaReject: -5,
+    espionageCaught: -15,
+    naturalDriftPerDay: 1, // +1 towards neutral (0) per day
+  },
+  effects: {
+    hostileRaidFrequency: 2.0,
+    hostileRaidStrength: 1.3,
+    tenseTradeMarkup: 0.25,
+    friendlyTradeDiscount: 0.15,
+    alliedTradeDiscount: 0.3,
+  },
+} as const;
+
 // ── Veszélyzóna ellenőrzés ────────────────────────────────────
 
 export function isModuleInDanger(

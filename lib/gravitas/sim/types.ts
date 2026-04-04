@@ -251,6 +251,7 @@ export interface StarholdState {
       completesAt: number;
     } | null;
   };
+  factionReputation: import("./faction/types").FactionReputationState;
   worldLevel: number;
   worldLevelPending: {
     targetLevel: number;

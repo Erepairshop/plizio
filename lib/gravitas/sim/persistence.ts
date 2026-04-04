@@ -4,6 +4,7 @@ import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { createInitialRepairBay } from "./repairbay";
+import { createInitialFactionReputation } from "./faction";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -344,6 +345,7 @@ export function loadGravitasState(): StarholdState | null {
         buildingCooldowns: parsed.battleState?.buildingCooldowns ?? {},
         activeScout: parsed.battleState?.activeScout ?? null,
       },
+      factionReputation: parsed.factionReputation ?? createInitialFactionReputation(),
       worldLevel: parsed.worldLevel ?? 1,
       worldLevelPending: parsed.worldLevelPending ?? null,
       avatarImprintActive: parsed.avatarAwake ? false : (parsed.avatarProfile?.answers?.length ?? 0) >= 3,

@@ -18,6 +18,9 @@ import type { GalaxyMaterialId } from "../world/mission";
 import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
 import { getBattleXP, getCombatLevel } from "./battle/xp";
 import { calculateCasualties } from "./battle/casualties";
+import { applyReputationChange } from "./faction/reputation";
+import { FACTION_REPUTATION_CONFIG } from "../economy";
+import { GALAXY_DEMO_NODES } from "../world/demo";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -837,8 +840,25 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const nextXP = state.battleState.avatarCombat.combatXP + xpGained;
       const nextLevel = getCombatLevel(nextXP);
 
+      const targetNode = GALAXY_DEMO_NODES.find(n => n.id === nodeId);
+      const enemyFactionId = targetNode?.factionId;
+      let nextReputation = state.factionReputation.reputation;
+      
+      if (enemyFactionId) {
+        nextReputation = applyReputationChange(
+          nextReputation,
+          enemyFactionId,
+          result.victory ? FACTION_REPUTATION_CONFIG.changes.battleVictory : -2, // less penalty for losing, but still some
+          result.victory ? "battle_victory" : "battle_defeat"
+        );
+      }
+
       return {
         ...state,
+        factionReputation: {
+          ...state.factionReputation,
+          reputation: nextReputation,
+        },
         resources: nextResources,
         battleState: {
           ...state.battleState,
