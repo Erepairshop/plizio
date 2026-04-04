@@ -13,6 +13,7 @@ import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { tickWarroomProduction } from "./warroom";
+import { tickRepairBay, getRepairSlotCount } from "./repairbay";
 import { applyStarholdCommand } from "./commands";
 import { getWorldLevelDelay, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
 
@@ -83,9 +84,20 @@ function tickUpgrades(state: StarholdState): StarholdState {
   let nextLevels = { ...state.moduleLevels };
   let journal = state.journal;
   let alert: LocalizedString | null = null;
+  let nextRepairBay = state.repairBay;
 
   for (const slot of completed) {
     nextLevels = { ...nextLevels, [slot.moduleId]: slot.targetLevel };
+    if (slot.moduleId === "repairbay") {
+      const slotCount = getRepairSlotCount(slot.targetLevel);
+      const currentSlots = nextRepairBay.repairSlots.slice(0, slotCount);
+      while (currentSlots.length < slotCount) currentSlots.push(null);
+      nextRepairBay = {
+        ...nextRepairBay,
+        level: slot.targetLevel,
+        repairSlots: currentSlots,
+      };
+    }
     const doneText: LocalizedString = {
       en: `${slot.moduleId} reached level ${slot.targetLevel}!`,
       hu: `${slot.moduleId} elérte a ${slot.targetLevel}. szintet!`,
@@ -99,6 +111,7 @@ function tickUpgrades(state: StarholdState): StarholdState {
   return {
     ...state,
     moduleLevels: nextLevels,
+    repairBay: nextRepairBay,
     upgradeQueue: state.upgradeQueue.filter(s => now < s.completesAt),
     journal,
     alert: alert ?? state.alert,
@@ -883,14 +896,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickWarroomProduction({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    }))))));
+    })))))));
     }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(applyStarholdEvents(tickWarroomProduction({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    })))))));
+    }))))))));
 }

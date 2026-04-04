@@ -40,9 +40,9 @@ export type MaterialCost = Partial<Record<GalaxyMaterialId, number>>;
 
 // ── Modul ID-k (az 5 fejleszthető modul) ──────────────────────
 
-export type UpgradableModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom";
+export type UpgradableModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom" | "repairbay";
 
-export const ALL_MODULE_IDS: UpgradableModuleId[] = ["reactor", "logistics", "core", "sensor", "warroom"];
+export const ALL_MODULE_IDS: UpgradableModuleId[] = ["reactor", "logistics", "core", "sensor", "warroom", "repairbay"];
 
 // ── Szint költségek (1→2, 2→3, ... 24→25) ─────────────────────
 //
@@ -112,6 +112,7 @@ const MODULE_COST_PROFILES: Record<UpgradableModuleId, ModuleCostProfile> = {
   core:      { primary: ["aether_ore", "lumen_dust"],        secondary: "ember_shards",    rare: "rift_stone" },
   sensor:    { primary: ["verdant_crystals", "aether_ore"],  secondary: "lumen_dust",      rare: "rift_stone" },
   warroom:   { primary: ["sable_alloy", "lumen_dust"],       secondary: "ember_shards",    rare: "rift_stone" },
+  repairbay: { primary: ["aether_ore", "sable_alloy"],       secondary: "verdant_crystals", rare: "rift_stone" },
 };
 
 /**
@@ -263,6 +264,19 @@ export const WARROOM_PRODUCTION_CONFIG = {
   parallelSlots: 4,
 } as const;
 
+export const REPAIR_BAY_CONFIG = {
+  baseRepairTicks: 600,
+  baseCostRatio: 0.25,
+  minCostRatio: 0.12,
+  logisticsCostReduction: 0.015,
+  warroomSpeedBonus: 0.02,
+  maxWarroomSpeedBonus: 0.5,
+  decayGraceHours: 24,
+  decayGracePerCoreLevel: 1,
+  decayRatePerHour: 0.02,
+  cancelRefundRatio: 0.5,
+} as const;
+
 // ── Warroom level bónuszok ────────────────────────────────────
 
 export const WARROOM_LEVEL_CONFIG = {
@@ -304,6 +318,9 @@ export const MODULE_LEVEL_CONFIG = {
     maxLevel: 25,
   },
   warroom: {
+    dangerGap: 3,
+  },
+  repairbay: {
     dangerGap: 3,
   },
 } as const;

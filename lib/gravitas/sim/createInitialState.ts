@@ -5,6 +5,7 @@ import { createCompleteBootstrapChecklist, createInitialBootstrapChecklist } fro
 import type { StarholdChapterId } from "./chapter";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
+import { createInitialRepairBay } from "./repairbay";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -139,7 +140,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       bootstrapChecklist: createCompleteBootstrapChecklist(),
       waveRecoveryCalmTicks: 0,
       warRoom: createInitialWarRoom(),
-      moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+      repairBay: createInitialRepairBay(),
+      moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1, repairbay: 1 },
       upgradeQueue: [],
       upgradeSlotCount: 1,
     });
@@ -245,7 +247,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     bootstrapChecklist: createInitialBootstrapChecklist(),
     waveRecoveryCalmTicks: 0,
     warRoom: createInitialWarRoom(),
-    moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+    repairBay: createInitialRepairBay(),
+    moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1, repairbay: 1 },
     upgradeQueue: [],
     upgradeSlotCount: 1,
   };

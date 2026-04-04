@@ -11,11 +11,13 @@ import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { canTrainUnit, canUpgradeUnit, startTraining, startUpgrade, cancelProduction } from "./warroom";
+import { canStartRepair, startRepair, cancelRepair } from "./repairbay";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";
 import type { GalaxyMaterialId } from "../world/mission";
 import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
 import { getBattleXP, getCombatLevel } from "./battle/xp";
+import { calculateCasualties } from "./battle/casualties";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -34,6 +36,50 @@ function removeFromHighestLevel(
 
 function getTotalEntryCount(entries: import("./warroom/types").GarrisonEntry[]): number {
   return entries.reduce((sum, e) => sum + e.count, 0);
+}
+
+function takeFromHighestLevel(
+  entries: import("./warroom/types").GarrisonEntry[],
+  count: number,
+): {
+  remaining: import("./warroom/types").GarrisonEntry[];
+  removedByLevel: import("./warroom/types").GarrisonEntry[];
+} {
+  let toTake = Math.max(0, Math.floor(count));
+  if (toTake <= 0) {
+    return { remaining: entries, removedByLevel: [] };
+  }
+
+  const sorted = [...entries].sort((a, b) => b.level - a.level).map((entry) => ({ ...entry }));
+  const removedMap = new Map<number, number>();
+  for (let i = 0; i < sorted.length; i += 1) {
+    if (toTake <= 0) break;
+    const take = Math.min(toTake, sorted[i].count);
+    if (take <= 0) continue;
+    sorted[i].count -= take;
+    toTake -= take;
+    removedMap.set(sorted[i].level, (removedMap.get(sorted[i].level) ?? 0) + take);
+  }
+
+  const remaining = sorted.filter((entry) => entry.count > 0).sort((a, b) => a.level - b.level);
+  const removedByLevel = Array.from(removedMap.entries())
+    .map(([level, removedCount]) => ({ level, count: removedCount }))
+    .sort((a, b) => a.level - b.level);
+  return { remaining, removedByLevel };
+}
+
+function mergeEntriesByLevel(
+  current: import("./warroom/types").GarrisonEntry[],
+  additions: import("./warroom/types").GarrisonEntry[],
+): import("./warroom/types").GarrisonEntry[] {
+  if (additions.length === 0) return current;
+  const merged = new Map<number, number>();
+  current.forEach((entry) => merged.set(entry.level, (merged.get(entry.level) ?? 0) + entry.count));
+  additions.forEach((entry) => merged.set(entry.level, (merged.get(entry.level) ?? 0) + entry.count));
+  return Array.from(merged.entries())
+    .map(([level, count]) => ({ level, count }))
+    .filter((entry) => entry.count > 0)
+    .sort((a, b) => a.level - b.level);
 }
 
 function startOperation(
@@ -741,12 +787,40 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         revealedTraits: [], 
         lastScoutedAt: 0 
       };
-      
+
+      const computedCasualties = result.casualties ?? calculateCasualties(
+        result.stats.unitsLost,
+        {
+          victory: result.victory,
+          damageDealt: result.stats.damageDealt,
+          damageReceived: result.stats.damageReceived,
+        },
+        false,
+      );
+
       const updatedGarrison = { ...state.warRoom.garrison };
-      Object.entries(result.stats.unitsLost).forEach(([unitId, lost]) => {
-        const id = unitId as import("./warroom/types").WarRoomUnitId;
-        updatedGarrison[id] = removeFromHighestLevel(updatedGarrison[id] ?? [], Math.max(0, Math.floor(lost)));
+      const updatedWounded = { ...state.repairBay.wounded };
+      let movedWounded = 0;
+      Object.keys(updatedGarrison).forEach((rawUnitId) => {
+        const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
+        const killed = Math.max(0, Math.floor(computedCasualties.killed[unitId] ?? 0));
+        const wounded = Math.max(0, Math.floor(computedCasualties.wounded[unitId] ?? 0));
+        let entries = updatedGarrison[unitId] ?? [];
+        if (killed > 0) {
+          const killedTake = takeFromHighestLevel(entries, killed);
+          entries = killedTake.remaining;
+        }
+        if (wounded > 0) {
+          const woundedTake = takeFromHighestLevel(entries, wounded);
+          entries = woundedTake.remaining;
+          movedWounded += woundedTake.removedByLevel.reduce((sum, e) => sum + e.count, 0);
+          if (woundedTake.removedByLevel.length > 0) {
+            updatedWounded[unitId] = mergeEntriesByLevel(updatedWounded[unitId] ?? [], woundedTake.removedByLevel);
+          }
+        }
+        updatedGarrison[unitId] = entries;
       });
+
       const cooldownMs = 60 * 60 * 1000; // 1 hour cooldown
       const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
         buildingId: nodeId as import("./battle/types").EnemyBuilding["id"],
@@ -790,6 +864,11 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         warRoom: {
           ...state.warRoom,
           garrison: updatedGarrison,
+        },
+        repairBay: {
+          ...state.repairBay,
+          wounded: updatedWounded,
+          woundedAt: movedWounded > 0 ? (state.repairBay.woundedAt ?? Date.now()) : state.repairBay.woundedAt,
         },
       };
     }
@@ -867,6 +946,20 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "CANCEL_TRAINING": {
       return cancelProduction(state, command.unitId);
+    }
+    case "START_REPAIR": {
+      if (!canStartRepair(state, command.unitId, command.unitLevel, command.count)) {
+        return withAlert(state, {
+          en: "Cannot start repair now.",
+          hu: "Most nem indithato javitas.",
+          de: "Reparatur kann jetzt nicht gestartet werden.",
+          ro: "Reparatia nu poate porni acum.",
+        });
+      }
+      return startRepair(state, command.unitId, command.unitLevel, command.count);
+    }
+    case "CANCEL_REPAIR": {
+      return cancelRepair(state, command.slotIndex);
     }
     case "UPGRADE_MODULE": {
       return handleUpgradeModule(state, command.moduleId);

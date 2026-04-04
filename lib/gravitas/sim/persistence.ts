@@ -3,8 +3,10 @@ import { inferBootstrapChecklist } from "./bootstrap";
 import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
+import { createInitialRepairBay } from "./repairbay";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
+import type { RepairBayState } from "./repairbay/types";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -94,6 +96,45 @@ function migrateWarRoom(raw: any): WarRoomState {
   }
 
   return migrated;
+}
+
+function migrateRepairBay(raw: any): RepairBayState {
+  const base = createInitialRepairBay();
+  if (!raw || typeof raw !== "object") return base;
+
+  const level = Math.max(1, Math.floor(raw.level ?? base.level));
+  const slotCount = Math.max(1, Math.floor(level / 5) + 1);
+  const sourceSlots = Array.isArray(raw.repairSlots) ? raw.repairSlots : [];
+  const repairSlots = Array.from({ length: Math.floor(slotCount) }, (_, index) => {
+    const slot = sourceSlots[index];
+    if (!slot || typeof slot !== "object") return null;
+    return {
+      unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
+      targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
+      batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
+      startedTick: Math.max(0, Math.floor(slot.startedTick ?? 0)),
+      duration: Math.max(1, Math.floor(slot.duration ?? 1)),
+      remaining: Math.max(0, Math.floor(slot.remaining ?? 0)),
+    };
+  });
+
+  const wounded: RepairBayState["wounded"] = { ...base.wounded };
+  Object.entries(raw.wounded ?? {}).forEach(([legacyId, value]) => {
+    const mapped = mapLegacyUnitId(legacyId);
+    if (!mapped) return;
+    wounded[mapped] = [
+      ...wounded[mapped],
+      ...toGarrisonEntries(value),
+    ];
+  });
+
+  return {
+    level,
+    online: typeof raw.online === "boolean" ? raw.online : base.online,
+    repairSlots,
+    wounded,
+    woundedAt: typeof raw.woundedAt === "number" ? raw.woundedAt : null,
+  };
 }
 
 function sanitizeContinuationState(state: StarholdState): StarholdState {
@@ -320,7 +361,15 @@ export function loadGravitasState(): StarholdState | null {
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
       warRoom: migrateWarRoom(parsed.warRoom),
-      moduleLevels: parsed.moduleLevels ?? { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+      repairBay: migrateRepairBay((parsed as any).repairBay),
+      moduleLevels: {
+        reactor: parsed.moduleLevels?.reactor ?? 1,
+        logistics: parsed.moduleLevels?.logistics ?? 1,
+        core: parsed.moduleLevels?.core ?? 1,
+        sensor: parsed.moduleLevels?.sensor ?? 1,
+        warroom: parsed.moduleLevels?.warroom ?? 1,
+        repairbay: (parsed.moduleLevels as any)?.repairbay ?? 1,
+      },
       upgradeQueue: parsed.upgradeQueue ?? [],
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
     };

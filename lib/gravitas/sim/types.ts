@@ -263,12 +263,14 @@ export interface StarholdState {
   bootstrapChecklist: Record<StarholdModuleId, boolean>;
   waveRecoveryCalmTicks: number;
   warRoom: import("./warroom/types").WarRoomState;
+  repairBay: import("./repairbay/types").RepairBayState;
   moduleLevels: {
     reactor: number;
     logistics: number;
     core: number;
     sensor: number;
     warroom: number;
+    repairbay: number;
   };
   /** Active module upgrades (real-time timers) */
   upgradeQueue: ModuleUpgradeSlot[];
@@ -317,4 +319,6 @@ export type StarholdCommand =
   | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId; level: number }
   | { type: "UPGRADE_UNIT"; unitId: import("./warroom/types").WarRoomUnitId; fromLevel: number; count: number }
   | { type: "CANCEL_TRAINING"; unitId: import("./warroom/types").WarRoomUnitId }
+  | { type: "START_REPAIR"; unitId: import("./warroom/types").WarRoomUnitId; unitLevel: number; count: number }
+  | { type: "CANCEL_REPAIR"; slotIndex: number }
   | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };

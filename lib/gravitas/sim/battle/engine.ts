@@ -2,6 +2,7 @@ import type { EnemyTrait, EnemyTraitId } from "./types";
 import { createBattleLoot } from "./rewards";
 import { getEffectiveCombatStats } from "./avatarCombat";
 import { getScaledEnemyStats, getLootMultiplier, getMinimumTroops } from "./worldScaling";
+import { calculateCasualties } from "./casualties";
 import type { Faction } from "./factions";
 import type { BuildingDescriptor } from "./buildingDescriptors";
 import {
@@ -160,18 +161,6 @@ function applyTraitEffect(
   }
   
   ctx.traitTriggered.add(trait.id);
-}
-
-function computeCasualties(units: Record<string, number>, damageTaken: number): Record<string, number> {
-  const result: Record<string, number> = {};
-  const totalUnits = Object.values(units).reduce((a, b) => a + Math.max(0, b), 0);
-  if (!totalUnits) return result;
-  const casualtyRatio = clamp(damageTaken / Math.max(60, totalUnits * 32), 0, 1);
-  Object.entries(units).forEach(([id, amount]) => {
-    const lost = Math.min(amount, Math.floor(amount * casualtyRatio * 0.65));
-    if (lost > 0) result[id] = lost;
-  });
-  return result;
 }
 
 export function resolveBattle(input: ResolveBattleInput): BattleResult {
@@ -376,6 +365,16 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     });
   }
 
+  const casualties = calculateCasualties(
+    army.units,
+    {
+      victory,
+      damageDealt: Math.round(ctx.playerDamageDone),
+      damageReceived: Math.round(ctx.playerDamageTaken),
+    },
+    false,
+  );
+
   return {
     victory,
     durationMs,
@@ -383,12 +382,13 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     stats: {
       damageDealt: Math.round(ctx.playerDamageDone),
       damageReceived: Math.round(ctx.playerDamageTaken),
-      unitsLost: computeCasualties(army.units, ctx.playerDamageTaken),
+      unitsLost: casualties.killed,
       enemyGarrisonDestroyed: Math.max(0, enemy.stats.garrison - runtime.enemyGarrison),
       traitTriggered: Array.from(ctx.traitTriggered) as EnemyTraitId[],
       counterUsed: Array.from(ctx.countersUsed),
     },
     loot: rewardPack.loot,
     intelGained: victory ? 12 : 4,
+    casualties,
   };
 }

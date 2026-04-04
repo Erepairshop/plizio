@@ -1,5 +1,6 @@
 import type { LocalizedString, StarholdState } from "@/lib/gravitas/sim/types";
 import type { GalaxyMaterialId } from "@/lib/gravitas/world/mission";
+import type { CasualtyReport } from "./casualties";
 
 export type EnemyTraitId = string;
 
@@ -77,6 +78,7 @@ export interface BattleResult {
   };
   loot?: BattleLoot;
   intelGained: number;
+  casualties?: CasualtyReport;
 }
 
 export interface BattlePhase {
