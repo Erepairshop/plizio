@@ -723,6 +723,7 @@ export interface GravitasActionSlot {
 export function getGravitasActionSlots(selectedModule: keyof StarholdState["modules"], state: StarholdState): GravitasActionSlot[] {
   const moduleId = selectedModule;
   const module = state.modules[moduleId];
+  if (!module) return [];
   const { threat } = state;
   const coreReady = canStartActivationTransfer(state);
   const isRecovering = threat.aftershock > 0 || state.crisis;
@@ -918,6 +919,15 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         hint: { en: "Reduce shell strain before the awakening run.", hu: "Csökkenti a testfeszülést az ébredés előtt.", de: "Hüllenspannung vor dem Erwachenslauf senken.", ro: "Reduce tensiunea corpului înainte de trezire." },
         command: { type: "REPAIR_MODULE", moduleId: "core" },
         emphasis: repairChallengeTarget === "core" ? "primary" : isRecovering ? "secondary" : undefined,
+      });
+      break;
+    case "warroom":
+      addSlot({
+        id: "repairWarroom",
+        label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repară ${module.name.ro}` },
+        hint: { en: "Restore the command deck to operational status.", hu: "Állítsd helyre a főhadiszállás működését.", de: "Kommandozentrale wieder einsatzbereit machen.", ro: "Restaurează centrul de comandă." },
+        command: { type: "REPAIR_MODULE", moduleId: "warroom" },
+        emphasis: isRecovering ? "secondary" : undefined,
       });
       break;
   }
