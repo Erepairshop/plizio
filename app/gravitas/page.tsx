@@ -1989,6 +1989,11 @@ export default function GravitasPage() {
             onClick={() => setInteriorView(interiorView === "trade" ? null : "trade")}
           />
           <MapMiniButton
+            icon={<Wrench size={14} />}
+            active={interiorView === "repairbay"}
+            onClick={() => setInteriorView(interiorView === "repairbay" ? null : "repairbay")}
+          />
+          <MapMiniButton
             icon={<Layers size={14} />}
             active={quickActionsOpen}
             onClick={() => setQuickActionsOpen(true)}
@@ -2078,6 +2083,20 @@ export default function GravitasPage() {
         quickActions={quickActions}
         systemsAction={systemsAction}
         prioritizedMobileActions={prioritizedMobileActions}
+        hiddenUrgentActions={hiddenUrgentActions}
+        actionFeedback={actionFeedback}
+        localize={localize}
+        doAction={doAction}
+        restartGravitasChapter={restartGravitasChapter}
+        mods={mods}
+        contentVictoryStationLostTitle={content.victory.stationLostTitle}
+        contentVictoryTryAgain={localize(content.victory.tryAgain)}
+      />
+
+    </main>
+  );
+}
+ileActions={prioritizedMobileActions}
         hiddenUrgentActions={hiddenUrgentActions}
         actionFeedback={actionFeedback}
         localize={localize}
