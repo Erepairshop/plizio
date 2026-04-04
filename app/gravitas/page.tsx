@@ -136,7 +136,7 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -2115,20 +2115,6 @@ export default function GravitasPage() {
           lang={lang}
         />
       )}
-
-    </main>
-  );
-}
-ileActions={prioritizedMobileActions}
-        hiddenUrgentActions={hiddenUrgentActions}
-        actionFeedback={actionFeedback}
-        localize={localize}
-        doAction={doAction}
-        restartGravitasChapter={restartGravitasChapter}
-        mods={mods}
-        contentVictoryStationLostTitle={content.victory.stationLostTitle}
-        contentVictoryTryAgain={localize(content.victory.tryAgain)}
-      />
 
     </main>
   );
