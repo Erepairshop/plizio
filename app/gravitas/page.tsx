@@ -118,7 +118,7 @@ export default function GravitasPage() {
   const [quickActionsOpen, setQuickActionsOpen] = useState(false);
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | null>(null);
   
   const holdRef = useRef<number | null>(null);
   const imprintHoldRef = useRef<number | null>(null);
@@ -163,7 +163,7 @@ export default function GravitasPage() {
   };
 
   const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
-    if ((moduleId === "sensor" || moduleId === "reactor" || moduleId === "core" || moduleId === "warroom") && moduleId === selectedModule && moduleInfoOpen) {
+    if ((moduleId === "sensor" || moduleId === "reactor" || moduleId === "core") && moduleId === selectedModule && moduleInfoOpen) {
       setInteriorView(moduleId);
       setModuleInfoOpen(false);
       return;
@@ -171,6 +171,11 @@ export default function GravitasPage() {
     setSelectedModule(moduleId);
     setModuleInfoOpen(true);
   }, [moduleInfoOpen, selectedModule]);
+
+  const handleOpenWarRoom = useCallback(() => {
+    setModuleInfoOpen(false);
+    setInteriorView("warroom");
+  }, []);
 
   useEffect(() => {
     setHydrated(true);
@@ -1379,6 +1384,7 @@ export default function GravitasPage() {
           <ModuleArtOverlay
             selectedModule={selectedModule}
             onSelectModule={handleSelectModule}
+            onOpenWarRoom={handleOpenWarRoom}
           />
 
           <AnimatePresence>
@@ -1524,7 +1530,7 @@ export default function GravitasPage() {
                 <p className="mt-2 text-[10px] leading-snug text-white/72 sm:text-[11px]">
                   {localize(selectedModuleInfo.role)}
                 </p>
-                {(selectedModule === "sensor" || selectedModule === "reactor" || selectedModule === "core" || selectedModule === "warroom") && (
+                {(selectedModule === "sensor" || selectedModule === "reactor" || selectedModule === "core") && (
                   <button
                     type="button"
                     onClick={() => {
@@ -1537,9 +1543,7 @@ export default function GravitasPage() {
                       ? localize({ en: "Enter sensor", hu: "Belépés a szenzorba", de: "Sensor betreten", ro: "Intră în senzor" })
                       : selectedModule === "reactor"
                         ? localize({ en: "Enter reactor", hu: "Belépés a reaktorba", de: "Reaktor betreten", ro: "Intră în reactor" })
-                        : selectedModule === "warroom"
-                          ? localize({ en: "Open command deck", hu: "Főhadiszállás megnyitása", de: "Kommandozentrale öffnen", ro: "Deschide centrul de comandă" })
-                          : localize({ en: "Enter core", hu: "Belépés a magba", de: "Kern betreten", ro: "Intră în nucleu" })}
+                        : localize({ en: "Enter core", hu: "Belépés a magba", de: "Kern betreten", ro: "Intră în nucleu" })}
                   </button>
                 )}
               </motion.div>

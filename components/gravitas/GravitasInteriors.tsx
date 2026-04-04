@@ -98,9 +98,11 @@ export function CoreInteriorView({ onClose }: { onClose: () => void }) {
 export function ModuleArtOverlay({
   selectedModule,
   onSelectModule,
+  onOpenWarRoom,
 }: {
   selectedModule: StarholdModuleId;
   onSelectModule: (moduleId: StarholdModuleId) => void;
+  onOpenWarRoom?: () => void;
 }) {
   const modules = [
     {
@@ -267,7 +269,10 @@ export function ModuleArtOverlay({
                   <button
                     type="button"
                     aria-label={module.id}
-                    onClick={() => onSelectModule(module.id as StarholdModuleId)}
+                    onClick={() => {
+                      if (module.id === "warroom") onOpenWarRoom?.();
+                      else onSelectModule(module.id as StarholdModuleId);
+                    }}
                     className={`absolute ${module.hitboxClassName} pointer-events-auto rounded-[28px] bg-transparent`}
                   />
                 )}
