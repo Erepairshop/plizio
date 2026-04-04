@@ -28,6 +28,16 @@ const faqSchema = {
       "@type": "Question",
       name: "Wie kann ich Geschichte besser lernen?",
       acceptedAnswer: { "@type": "Answer", text: "Indem man Zusammenhänge versteht, nicht nur Daten. Unsere interaktiven Tools helfen dabei, Epochen visuell zu erfassen." }
+    },
+    {
+      "@type": "Question",
+      name: "Warum ist das Verstehen von Geschichte wichtig?",
+      acceptedAnswer: { "@type": "Answer", text: "Geschichte hilft uns zu verstehen, warum unsere Welt heute so ist, wie sie ist, und fördert kritisches Denken." }
+    },
+    {
+      "@type": "Question",
+      name: "Welche Epochen werden in der Schule meist behandelt?",
+      acceptedAnswer: { "@type": "Answer", text: "Der Bogen spannt sich meist von der Antike über das Mittelalter bis zur Neuzeit, wobei Schwerpunkte je nach Bundesland variieren." }
     }
   ]
 };
@@ -51,14 +61,26 @@ export default function GeschichteOnlineLernenPage() {
         <h1>Geschichte online lernen: Interaktive Übungen für Klasse 5-8</h1>
         <p>Geschichte ist der Schlüssel zur Gegenwart. Entdecke vergangene Epochen mit unseren spannenden Lerninhalten.</p>
         
-        <h2>Was dich erwartet</h2>
+        <h2>Warum Geschichte weit mehr als Daten ist</h2>
+        <p>Viele Schüler empfinden Geschichte als eine Liste aus Jahreszahlen und Namen. Doch eigentlich ist es eine spannende Erzählung über Menschen, Konflikte, Fortschritt und die Entwicklung unserer Gesellschaft. Wenn Schüler den Sinn hinter den Ereignissen verstehen, beginnt das Fach zu leben.</p>
+        
+        <h2>Themenwelten in AstroGeschichte</h2>
         <ul>
-          <li>Frühe Hochkulturen</li>
-          <li>Römisches Reich</li>
-          <li>Völkerwanderung</li>
+          <li><strong>Frühe Hochkulturen:</strong> Mesopotamien, Ägypten und der Ursprung der Schrift.</li>
+          <li><strong>Antike:</strong> Das Römische Reich und das griechische Leben.</li>
+          <li><strong>Mittelalter:</strong> Feudalismus, Klöster und die Herausforderungen der Völkerwanderung.</li>
         </ul>
         
-        <p>Tauche ein in die Geschichte mit <Link href="/astro-geschichte" style={{color: "#00D4FF"}}>AstroGeschichte</Link> oder nutze unseren <Link href="/geschichtetest" style={{color: "#00D4FF"}}>Geschichte-Test</Link>.</p>
+        <h2>Wie man Geschichte lebendig vermittelt</h2>
+        <p>Statt nur Texte zu lesen, ist der interaktive Ansatz bei <Link href="/astro-geschichte" style={{color: "#00D4FF"}}>AstroGeschichte</Link> darauf ausgelegt, Schüler aktiv einzubinden. Ob es darum geht, Strategien in einem antiken Kontext nachzuvollziehen oder historische Zusammenhänge zu verknüpfen – interaktives Üben festigt das Wissen.</p>
+        <p>Ergänzen Sie das Lernen mit unserem <Link href="/geschichtetest" style={{color: "#00D4FF"}}>Geschichte-Test</Link>, um die gelernten Zusammenhänge zu überprüfen. Wer die Ursache-Wirkungs-Prinzipien versteht, braucht nicht mehr auswendig zu lernen.</p>
+        
+        <h2>Online-Lernen als Ergänzung zum Unterricht</h2>
+        <p>Digitale Plattformen ermöglichen es, Geschichte visuell und geografisch einzuordnen. Das hilft Schülern, sich ein räumliches und zeitliches Raster zu bauen, das im reinen Leseunterricht oft zu kurz kommt.</p>
+        
+        <div style={{ padding: "20px", background: "#12122A", borderRadius: "12px", borderLeft: "4px solid #B44DFF" }}>
+            <strong>Tipp für den Erfolg:</strong> Schaut gemeinsam Filme über historische Ereignisse oder besucht Museen. Geschichte ist am besten erfahrbar, wenn man einen emotionalen oder bildhaften Bezug aufbauen kann.
+        </div>
         
         <Link href="/blog/">← Zurück zum Blog</Link>
       </div>

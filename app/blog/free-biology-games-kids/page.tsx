@@ -28,6 +28,16 @@ const faqSchema = {
       "@type": "Question",
       name: "Are these biology games suitable for primary school?",
       acceptedAnswer: { "@type": "Answer", text: "Yes, our games are designed to be age-appropriate and curriculum-aligned for primary and middle school students." }
+    },
+    {
+      "@type": "Question",
+      name: "Do these games cover evolution and ecology?",
+      acceptedAnswer: { "@type": "Answer", text: "Our modules cover a wide range of topics, including basic ecology, animal adaptations, and environmental science tailored for young learners." }
+    },
+    {
+      "@type": "Question",
+      name: "Can I use these games in a classroom setting?",
+      acceptedAnswer: { "@type": "Answer", text: "Absolutely! Many teachers use our interactive biology modules to supplement their lessons and create engaging classroom activities." }
     }
   ]
 };
@@ -51,14 +61,24 @@ export default function FreeBiologyGamesPage() {
         <h1>Free Biology Games for Kids: Learn Science the Fun Way</h1>
         <p>Science is everywhere! From tiny cells to complex ecosystems, biology helps us understand our world. Making it fun is the best way to spark a lifelong interest.</p>
         
-        <h2>Discover biology through play</h2>
+        <h2>Why Biology needs to be fun</h2>
+        <p>Biology is a living science. Memorizing Latin names of plants is rarely enough to ignite passion. Kids need to see the mechanism behind the life – how a plant draws energy from the sun, or how animals adapt to their environment. Games provide this 'aha!' moment that textbooks often lack.</p>
+        
+        <h2>Key features of our science games</h2>
         <ul>
-          <li>Interactive learning about animals and plants.</li>
-          <li>Engaging quests about ecosystems.</li>
-          <li>Instant results to track progress.</li>
+          <li><strong>Interactive exploration:</strong> Learn about animal classification and plant life through active choices.</li>
+          <li><strong>Engaging quests:</strong> Embark on missions that reveal secrets about ecosystems and life cycles.</li>
+          <li><strong>Progress monitoring:</strong> Get instant results to track how your knowledge grows from lesson to lesson.</li>
         </ul>
         
-        <p>Explore our <Link href="/astro-biologie" style={{color: "#00D4FF"}}>Biology learning planet</Link> or take a <Link href="/biologietest" style={{color: "#00D4FF"}}>Biology quiz</Link>.</p>
+        <h2>Learning with Plizio</h2>
+        <p>Explore our <Link href="/astro-biologie" style={{color: "#00D4FF"}}>Biology learning planet</Link>, which makes even the most difficult biological topics easy to understand. Supplement your school curriculum with our specialized modules, or challenge yourself with a <Link href="/biologietest" style={{color: "#00D4FF"}}>Biology quiz</Link> to check your current level.</p>
+        
+        <p>Whether you're a parent supporting your child or a teacher looking for fresh classroom ideas, our resources are here to make science accessible and exciting.</p>
+
+        <div style={{ padding: "20px", background: "#12122A", borderRadius: "12px", borderLeft: "4px solid #B44DFF" }}>
+            <strong>Teacher's tip:</strong> Use our biology games as an introduction to a new chapter. It captures attention immediately and gives students a framework to which they can attach the detailed information learned in class.
+        </div>
         
         <Link href="/blog/">← Back to Blog</Link>
       </div>
