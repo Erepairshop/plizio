@@ -10,6 +10,7 @@ import { createInitialFactionReputation } from "./faction";
 import { createInitialSynergies } from "./synergy";
 import { createInitialGalaxyCycle } from "./galaxy";
 import { createInitialDilemmaState } from "./dilemma";
+import { createInitialCommanderState } from "./commander";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -152,6 +153,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       synergies: createInitialSynergies(),
       galaxyCycle: createInitialGalaxyCycle(),
       dilemmaSystem: createInitialDilemmaState(),
+      commander: createInitialCommanderState(),
     });
   }
 
@@ -262,5 +264,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     synergies: createInitialSynergies(),
     galaxyCycle: createInitialGalaxyCycle(),
     dilemmaSystem: createInitialDilemmaState(),
+    commander: createInitialCommanderState(),
   };
 }

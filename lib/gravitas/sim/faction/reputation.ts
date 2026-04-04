@@ -54,6 +54,11 @@ export function getTradeModifier(tier: ReputationTier, state?: import("../types"
       mod *= (1 - cycleEffects.tradeDiscount);
     }
   }
+
+  if (state?.commander?.effects.tradeDiscount) {
+    mod *= (1 - state.commander.effects.tradeDiscount);
+  }
+
   return mod;
 }
 
@@ -76,6 +81,10 @@ export function applyReputationChange(
     finalDelta *= cycleEffects.reputationMod;
   }
 
+  if (state?.commander?.effects.reputationChangeMod) {
+    finalDelta *= state.commander.effects.reputationChangeMod;
+  }
+
   // Primary change
   next[targetFaction] = Math.max(-100, Math.min(100, next[targetFaction] + finalDelta));
 
@@ -86,6 +95,10 @@ export function applyReputationChange(
     if (state?.galaxyCycle) {
       const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
       spilloverDelta *= cycleEffects.reputationMod;
+    }
+
+    if (state?.commander?.effects.reputationChangeMod) {
+      spilloverDelta *= state.commander.effects.reputationChangeMod;
     }
     
     // Faction's enemies like that you attacked them

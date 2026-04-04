@@ -283,6 +283,8 @@ export interface StarholdState {
   galaxyCycle: import("./galaxy/types").GalaxyCycleState;
   /** Moral dilemma and narrative event system */
   dilemmaSystem: import("./dilemma/types").DilemmaSystemState;
+  /** Adaptive commander profile system */
+  commander: import("./commander/types").CommanderState;
 }
 
 export interface ModuleUpgradeSlot {

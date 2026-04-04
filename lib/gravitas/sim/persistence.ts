@@ -8,6 +8,7 @@ import { createInitialFactionReputation } from "./faction";
 import { createInitialSynergies } from "./synergy";
 import { createInitialGalaxyCycle } from "./galaxy";
 import { createInitialDilemmaState } from "./dilemma";
+import { createInitialCommanderState } from "./commander";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -380,6 +381,7 @@ export function loadGravitasState(): StarholdState | null {
       synergies: parsed.synergies ?? createInitialSynergies(),
       galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
       dilemmaSystem: parsed.dilemmaSystem ?? createInitialDilemmaState(),
+      commander: parsed.commander ?? createInitialCommanderState(),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

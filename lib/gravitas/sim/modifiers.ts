@@ -18,6 +18,8 @@ export interface StarholdModifiers {
   synergy: import("./synergy/types").SynergyEffects;
   /** Galaxy cycle effects */
   cycle: import("./galaxy/cycles").CycleEffects;
+  /** Commander profile state */
+  commander: import("./commander/types").CommanderState;
 }
 
 export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
@@ -50,6 +52,7 @@ export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
     voidLens: state.progression.unlockedItems.includes("void_lens"),
     synergy: state.synergies.combined,
     cycle: getCycleEffects(state.galaxyCycle.currentPhase),
+    commander: state.commander,
   };
 }
 

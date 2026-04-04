@@ -191,6 +191,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   const avatarStats = getEffectiveCombatStats(avatarCombat);
   const baseStatMod = 1.0 + (playerState.resources.morale - 50) / 200; 
   const syn = playerState.synergies.combined;
+  const cmd = playerState.commander.effects;
   
   const playerEval = {
     firepower: avatarStats.firepower * (armyBase.attack / 100) * baseStatMod * tactic.attackMod,
@@ -210,6 +211,19 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     playerEval.tactics *= (1 + syn.unitAllStatsBonus);
     playerEval.inspiration *= (1 + syn.unitAllStatsBonus);
     playerEval.energy *= (1 + syn.unitAllStatsBonus);
+  }
+
+  // Apply Commander Profile Bonuses
+  if (cmd.attackBonus) playerEval.firepower *= (1 + cmd.attackBonus);
+  if (cmd.attackPenalty) playerEval.firepower *= (1 - cmd.attackPenalty);
+  if (cmd.defenseBonus) playerEval.barrier *= (1 + cmd.defenseBonus);
+  if (cmd.defensePenalty) playerEval.barrier *= (1 - cmd.defensePenalty);
+  if (cmd.allStatsBonus) {
+    playerEval.firepower *= (1 + cmd.allStatsBonus);
+    playerEval.barrier *= (1 + cmd.allStatsBonus);
+    playerEval.tactics *= (1 + cmd.allStatsBonus);
+    playerEval.inspiration *= (1 + cmd.allStatsBonus);
+    playerEval.energy *= (1 + cmd.allStatsBonus);
   }
 
   // Minimum troop penalty
@@ -371,7 +385,10 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   });
 
   const cycleEffects = getCycleEffects(playerState.galaxyCycle.currentPhase);
-  const lootMultiplier = getLootMultiplier(worldLevel) * cycleEffects.battleLootMod;
+  let lootMultiplier = getLootMultiplier(worldLevel) * cycleEffects.battleLootMod;
+  if (playerState.commander.effects.lootBonus) {
+    lootMultiplier *= (1 + playerState.commander.effects.lootBonus);
+  }
   const loot = rewardPack.loot;
   if (loot) {
     Object.keys(loot.materials).forEach(matId => {

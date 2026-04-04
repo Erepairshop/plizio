@@ -229,6 +229,13 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           de: "Bergungsdrohnen gestartet.",
           ro: "Dronele de colectare au fost lansate.",
         },
+        commander: {
+          ...state.commander,
+          metrics: {
+            ...state.commander.metrics,
+            miningMissions: state.commander.metrics.miningMissions + 1,
+          }
+        },
         journal: pushJournal(state, {
           en: "A salvage drone is sweeping the debris field for usable material.",
           hu: "Egy mentődrón átvizsgálja a törmelékmezőt használható anyagért.",
@@ -865,6 +872,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const enemyFactionId = targetNode?.factionId;
       let nextReputation = state.factionReputation.reputation;
       
+      const wasInitiated = !!targetNode;
+
       if (enemyFactionId) {
         nextReputation = applyReputationChange(
           nextReputation,
@@ -877,6 +886,14 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 
       return {
         ...state,
+        commander: {
+          ...state.commander,
+          metrics: {
+            ...state.commander.metrics,
+            battlesInitiated: state.commander.metrics.battlesInitiated + (wasInitiated ? 1 : 0),
+            battlesDefended: state.commander.metrics.battlesDefended + (wasInitiated ? 0 : 1),
+          }
+        },
         factionReputation: {
           ...state.factionReputation,
           reputation: nextReputation,
@@ -998,7 +1015,17 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ro: "Reparatia nu poate porni acum.",
         });
       }
-      return startRepair(state, command.unitId, command.unitLevel, command.count);
+      const nextState = startRepair(state, command.unitId, command.unitLevel, command.count);
+      return {
+        ...nextState,
+        commander: {
+          ...nextState.commander,
+          metrics: {
+            ...nextState.commander.metrics,
+            unitsRepaired: nextState.commander.metrics.unitsRepaired + command.count,
+          }
+        }
+      };
     }
     case "CANCEL_REPAIR": {
       return cancelRepair(state, command.slotIndex);

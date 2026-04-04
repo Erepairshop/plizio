@@ -21,6 +21,7 @@ import { evaluateSynergies } from "./synergy/evaluate";
 import { SYNERGY_MAP } from "./synergy/registry";
 import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "./galaxy/cycles";
 import { tickDilemmaEffects, tickDilemmaSpawn } from "./dilemma/engine";
+import { evaluateProfile, getProfileEffects } from "./commander/evaluate";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -96,6 +97,49 @@ function tickFactionReputation(state: StarholdState): StarholdState {
     };
   }
   return state;
+}
+
+/** Daily evaluation of player playstyle profile */
+function tickCommanderProfile(state: StarholdState): StarholdState {
+  const now = Date.now();
+  if (now - state.commander.metrics.lastEvaluatedAt < 24 * 60 * 60 * 1000) {
+    return state;
+  }
+
+  const nextProfileId = evaluateProfile(state.commander.metrics, state.moduleLevels);
+  let nextState = state;
+
+  if (nextProfileId !== state.commander.currentProfile) {
+    const profileDef = import("./commander/evaluate").PROFILE_DEFS[nextProfileId];
+    const changeAlert: LocalizedString = {
+      en: `Commander profile updated: ${profileDef.name.en}`,
+      hu: `Parancsnoki profil frissítve: ${profileDef.name.hu}`,
+      de: `Kommandantenprofil aktualisiert: ${profileDef.name.de}`,
+      ro: `Profil comandant actualizat: ${profileDef.name.ro}`,
+    };
+
+    nextState = {
+      ...state,
+      commander: {
+        ...state.commander,
+        currentProfile: nextProfileId,
+        effects: getProfileEffects(nextProfileId),
+      },
+      alert: changeAlert,
+      journal: pushJournal(state, changeAlert),
+    };
+  }
+
+  return {
+    ...nextState,
+    commander: {
+      ...nextState.commander,
+      metrics: {
+        ...nextState.commander.metrics,
+        lastEvaluatedAt: now,
+      }
+    }
+  };
 }
 
 function tickWorldLevel(state: StarholdState): StarholdState {
@@ -1014,18 +1058,20 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     return stabilizeContinuationTick(
       state,
       checkStarholdMilestones(
-        tickDilemmaSpawn(
-          tickDilemmaEffects(
-            tickGalaxyCycle(
-              tickFactionReputation(
-                tickWorldLevel(
-                  tickBattle(
-                    tickUpgrades(
-                      tickRepairBay(
-                        tickWarroomProduction({
-                          ...threatResult.nextState,
-                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                        }),
+        tickCommanderProfile(
+          tickDilemmaSpawn(
+            tickDilemmaEffects(
+              tickGalaxyCycle(
+                tickFactionReputation(
+                  tickWorldLevel(
+                    tickBattle(
+                      tickUpgrades(
+                        tickRepairBay(
+                          tickWarroomProduction({
+                            ...threatResult.nextState,
+                            waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                          }),
+                        ),
                       ),
                     ),
                   ),
@@ -1041,19 +1087,21 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   return stabilizeContinuationTick(
     state,
     checkStarholdMilestones(
-      tickDilemmaSpawn(
-        tickDilemmaEffects(
-          tickGalaxyCycle(
-            tickFactionReputation(
-              tickWorldLevel(
-                tickBattle(
-                  tickUpgrades(
-                    tickRepairBay(
-                      applyStarholdEvents(
-                        tickWarroomProduction({
-                          ...threatResult.nextState,
-                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                        }),
+      tickCommanderProfile(
+        tickDilemmaSpawn(
+          tickDilemmaEffects(
+            tickGalaxyCycle(
+              tickFactionReputation(
+                tickWorldLevel(
+                  tickBattle(
+                    tickUpgrades(
+                      tickRepairBay(
+                        applyStarholdEvents(
+                          tickWarroomProduction({
+                            ...threatResult.nextState,
+                            waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                          }),
+                        ),
                       ),
                     ),
                   ),

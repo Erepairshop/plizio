@@ -96,6 +96,9 @@ export function getRepairDuration(_repairLevel: number, warroomLevel: number, st
       baseTicks /= (1 + cycleEffects.repairSpeedBonus);
     }
   }
+  if (state?.commander?.effects.repairSpeedBonus) {
+    baseTicks /= (1 + state.commander.effects.repairSpeedBonus);
+  }
   return Math.max(1, Math.round(baseTicks * (1 - reduction)));
 }
 

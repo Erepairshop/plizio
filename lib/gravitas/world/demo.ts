@@ -377,6 +377,10 @@ export function getMeteorYieldPerHour(materialId: string, logisticsLevel = 1, st
     }
   }
 
+  if (state?.commander?.effects.miningBonus) {
+    yieldPerHour *= (1 + state.commander.effects.miningBonus);
+  }
+
   return Math.round(yieldPerHour);
 }
 
@@ -391,6 +395,10 @@ export function getMeteorBaseDurationMinutes(materialId: string, logisticsLevel 
 
   // Galaxy Cycle Effects (Mining speed bonus from calm fázis, etc. though yield is preferred, prompt said "Bányászat bónusz: +20% mining yield")
   // So yieldPerHour handles it.
+
+  if (state?.commander?.effects.miningBonus) {
+    durationMinutes /= (1 + state.commander.effects.miningBonus);
+  }
 
   return Math.max(12, Math.round(durationMinutes));
 }
