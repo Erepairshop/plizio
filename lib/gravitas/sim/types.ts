@@ -1,4 +1,4 @@
-export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom";
+export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor";
 
 export interface StarholdModuleState {
   id: StarholdModuleId;
@@ -242,6 +242,26 @@ export interface StarholdState {
   bootstrapChecklist: Record<StarholdModuleId, boolean>;
   waveRecoveryCalmTicks: number;
   warRoom: import("./warroom/types").WarRoomState;
+  moduleLevels: {
+    reactor: number;
+    logistics: number;
+    core: number;
+    sensor: number;
+    warroom: number;
+  };
+  /** Active module upgrades (real-time timers) */
+  upgradeQueue: ModuleUpgradeSlot[];
+  /** How many parallel upgrade slots (default 1, unlockable) */
+  upgradeSlotCount: number;
+}
+
+export interface ModuleUpgradeSlot {
+  moduleId: import("../economy").UpgradableModuleId;
+  targetLevel: number;
+  /** Real timestamp (Date.now()) when upgrade started */
+  startedAt: number;
+  /** Real timestamp when upgrade completes */
+  completesAt: number;
 }
 
 export type StarholdCommand =
@@ -271,4 +291,5 @@ export type StarholdCommand =
   | { type: "CHANNEL_AVATAR_IMPRINT"; amount: number }
   | { type: "RESET_AVATAR_IMPRINT" }
   | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId }
-  | { type: "CANCEL_TRAINING" };
+  | { type: "CANCEL_TRAINING" }
+  | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };

@@ -11,6 +11,9 @@ import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { canTrainUnit, startTraining, cancelTraining } from "./warroom";
+import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
+import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";
+import type { GalaxyMaterialId } from "../world/mission";
 
 function startOperation(
   state: StarholdState,
@@ -706,9 +709,59 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "CANCEL_TRAINING": {
       return cancelTraining(state);
     }
+    case "UPGRADE_MODULE": {
+      return handleUpgradeModule(state, command.moduleId);
+    }
     default:
       return checkStarholdMilestones(state);
   }
+}
+
+// ── Module upgrade handler ─────────────────────────────────────
+
+function handleUpgradeModule(state: StarholdState, moduleId: UpgradableModuleId): StarholdState {
+  // Check slot availability
+  if (state.upgradeQueue.length >= state.upgradeSlotCount) return state;
+  // Check not already upgrading this module
+  if (state.upgradeQueue.some(s => s.moduleId === moduleId)) return state;
+
+  const inventory = loadSavedGalaxyInventory();
+  const result = canUpgradeModule(moduleId, state.moduleLevels, inventory);
+  if (!result.canUpgrade) return state;
+
+  const targetLevel = state.moduleLevels[moduleId] + 1;
+  const entry = getLevelCost(moduleId, targetLevel);
+  if (!entry) return state;
+
+  // Deduct materials
+  const nextInventory = { ...inventory };
+  for (const [matId, amount] of Object.entries(entry.cost)) {
+    if (amount) nextInventory[matId as GalaxyMaterialId] = Math.max(0, nextInventory[matId as GalaxyMaterialId] - amount);
+  }
+  saveGalaxyInventory(nextInventory);
+
+  const now = Date.now();
+  const startText: LocalizedString = {
+    en: `${moduleId} upgrade to level ${targetLevel} started.`,
+    hu: `${moduleId} fejlesztés indítva: ${targetLevel}. szint.`,
+    de: `${moduleId}-Upgrade auf Level ${targetLevel} gestartet.`,
+    ro: `Upgrade ${moduleId} la nivelul ${targetLevel} început.`,
+  };
+
+  return {
+    ...state,
+    upgradeQueue: [
+      ...state.upgradeQueue,
+      {
+        moduleId,
+        targetLevel,
+        startedAt: now,
+        completesAt: now + entry.buildSeconds * 1000,
+      },
+    ],
+    alert: startText,
+    journal: pushJournal(state, startText),
+  };
 }
 
 export interface GravitasActionSlot {

@@ -5,6 +5,7 @@ import type { WarRoomState } from "./types";
 export function createInitialWarRoom(): WarRoomState {
   return {
     level: 1,
+    online: true,
     productionSlot: null,
     garrison: { militia: 0, ranger: 0, shieldbearer: 0, scout_drone: 0 },
   };

@@ -2,6 +2,7 @@ import type { StarholdState } from "./types";
 import { inferBootstrapChecklist } from "./bootstrap";
 import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
+import { createInitialWarRoom } from "./warroom";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -62,12 +63,6 @@ function sanitizeContinuationState(state: StarholdState): StarholdState {
         integrity: Math.max(82, state.modules.sensor.integrity),
         load: Math.min(10, state.modules.sensor.load),
       },
-      warroom: {
-        ...state.modules.warroom,
-        online: false,
-        integrity: Math.max(40, state.modules.warroom?.integrity ?? 40),
-        load: 0,
-      },
     },
   });
 }
@@ -117,31 +112,36 @@ export function loadGravitasState(): StarholdState | null {
       ...parsed.threat,
     };
 
+    // Legacy migration: only apply if countdown looks like old 90-tick format
+    // The new initial state uses 86400 (24h) — don't overwrite that
     if ((parsed.chapter ?? (parsed.avatarAwake ? "continuation" : "demo")) === "demo" && !parsed.avatarAwake && parsed.threat.aftershock === 0) {
-      if ((parsed.threatCycle ?? 0) === 0 && parsed.tick < 90) {
-        migratedThreat = {
-          ...migratedThreat,
-          type: "distortionWave",
-          countdown: Math.max(1, 90 - parsed.tick),
-          totalDuration: 90,
-          intensity: 1,
-        };
-      } else if ((parsed.threatCycle ?? 0) === 1 && parsed.tick < 135) {
-        migratedThreat = {
-          ...migratedThreat,
-          type: "distortionWave",
-          countdown: Math.max(1, 135 - parsed.tick),
-          totalDuration: 45,
-          intensity: Math.max(1, migratedThreat.intensity ?? 1),
-        };
-      } else if ((parsed.threatCycle ?? 0) === 2 && parsed.tick < 180) {
-        migratedThreat = {
-          ...migratedThreat,
-          type: "distortionWave",
-          countdown: Math.max(1, 180 - parsed.tick),
-          totalDuration: 45,
-          intensity: Math.max(1, migratedThreat.intensity ?? 1),
-        };
+      const isLegacySave = parsed.threat.totalDuration <= 180;
+      if (isLegacySave) {
+        if ((parsed.threatCycle ?? 0) === 0 && parsed.tick < 90) {
+          migratedThreat = {
+            ...migratedThreat,
+            type: "distortionWave",
+            countdown: Math.max(1, 90 - parsed.tick),
+            totalDuration: 90,
+            intensity: 1,
+          };
+        } else if ((parsed.threatCycle ?? 0) === 1 && parsed.tick < 135) {
+          migratedThreat = {
+            ...migratedThreat,
+            type: "distortionWave",
+            countdown: Math.max(1, 135 - parsed.tick),
+            totalDuration: 45,
+            intensity: Math.max(1, migratedThreat.intensity ?? 1),
+          };
+        } else if ((parsed.threatCycle ?? 0) === 2 && parsed.tick < 180) {
+          migratedThreat = {
+            ...migratedThreat,
+            type: "distortionWave",
+            countdown: Math.max(1, 180 - parsed.tick),
+            totalDuration: 45,
+            intensity: Math.max(1, migratedThreat.intensity ?? 1),
+          };
+        }
       }
     }
 
@@ -204,6 +204,10 @@ export function loadGravitasState(): StarholdState | null {
       },
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
+      warRoom: parsed.warRoom ?? createInitialWarRoom(),
+      moduleLevels: parsed.moduleLevels ?? { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+      upgradeQueue: parsed.upgradeQueue ?? [],
+      upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

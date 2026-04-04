@@ -1,6 +1,7 @@
 "use client";
 
 import type { WarRoomUnitDef } from "@/lib/gravitas/sim/warroom/types";
+import { METEOR_MATERIAL_META } from "@/lib/gravitas/world/demo";
 
 type Lang = "en" | "hu" | "de" | "ro";
 
@@ -12,19 +13,24 @@ export default function WarRoomUnitCard({
   unit,
   canAfford,
   isTraining,
+  garrisonCount,
   onTrain,
   lang,
 }: {
   unit: WarRoomUnitDef;
   canAfford: boolean;
   isTraining: boolean;
+  garrisonCount: number;
   onTrain: () => void;
   lang: string;
 }) {
   const l = (lang || "en") as Lang;
-  const disabled = !canAfford || isTraining;
+  const atMax = garrisonCount >= unit.maxCount;
+  const disabled = !canAfford || isTraining || atMax;
   const tickSeconds = unit.productionTicks * 5;
-  const timeLabel = tickSeconds >= 60 ? `${Math.floor(tickSeconds / 60)}m ${tickSeconds % 60}s` : `${tickSeconds}s`;
+  const timeLabel = tickSeconds >= 60 ? `${Math.floor(tickSeconds / 60)}m` : `${tickSeconds}s`;
+
+  const costEntries = Object.entries(unit.cost).filter(([, v]) => v && v > 0) as [string, number][];
 
   return (
     <button
@@ -45,22 +51,33 @@ export default function WarRoomUnitCard({
         {loc(l, unit.name)}
       </span>
 
-      {/* Cost chips */}
-      <div className="flex items-center gap-1.5 flex-wrap justify-center">
-        <span className="text-[10px] sm:text-[11px] font-black text-amber-400/80">
-          {unit.cost.materials} ⛏️
-        </span>
-        {unit.cost.power && (
-          <span className="text-[10px] sm:text-[11px] font-black text-cyan-400/80">
-            {unit.cost.power} ⚡
-          </span>
-        )}
+      {/* Garrison count / max */}
+      <span className="text-[9px] font-bold text-white/50">
+        {garrisonCount}/{unit.maxCount}
+      </span>
+
+      {/* Cost chips — meteor materials */}
+      <div className="flex items-center gap-1 flex-wrap justify-center">
+        {costEntries.map(([matId, amount]) => {
+          const meta = METEOR_MATERIAL_META[matId as keyof typeof METEOR_MATERIAL_META];
+          const short = meta ? loc(l, meta.short) : matId;
+          const colorClass = meta?.colorClassName ?? "text-white/60";
+          return (
+            <span key={matId} className={`text-[9px] sm:text-[10px] font-black ${colorClass}`}>
+              {amount} {short}
+            </span>
+          );
+        })}
       </div>
 
       {/* Time */}
       <span className="text-[9px] sm:text-[10px] font-medium text-white/40">
         ⏱ {timeLabel}
       </span>
+
+      {atMax && (
+        <span className="text-[8px] font-bold text-amber-400/60 uppercase">MAX</span>
+      )}
     </button>
   );
 }

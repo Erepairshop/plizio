@@ -5,11 +5,12 @@ import { WARROOM_UNITS } from "./units";
 // ── Per-tick production advancement ────────────────────────────
 
 export function tickWarRoom(state: StarholdState): StarholdState {
+  if (!state.warRoom) return state;
   const slot = state.warRoom.productionSlot;
   if (!slot) return state;
 
   // Production pauses when war-room is offline — NOT cancelled
-  if (!state.modules.warroom?.online) return state;
+  if (!state.warRoom.online) return state;
 
   const remaining = slot.remaining - 1;
 

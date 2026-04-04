@@ -51,7 +51,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
         logistics: { ...modules.logistics, online: true, integrity: 94, load: 8 },
         core: { ...modules.core, online: true, integrity: 97, load: 12 },
         sensor: { ...modules.sensor, online: true, integrity: 95, load: 6 },
-        warroom: { ...modules.warroom, online: false, integrity: 40, load: 0 },
       },
       alert: {
         en: "Chapter II online. The station is stable and awaiting the next daily wave.",
@@ -116,6 +115,9 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       bootstrapChecklist: createCompleteBootstrapChecklist(),
       waveRecoveryCalmTicks: 0,
       warRoom: createInitialWarRoom(),
+      moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+      upgradeQueue: [],
+      upgradeSlotCount: 1,
     });
   }
 
@@ -205,5 +207,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     bootstrapChecklist: createInitialBootstrapChecklist(),
     waveRecoveryCalmTicks: 0,
     warRoom: createInitialWarRoom(),
+    moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+    upgradeQueue: [],
+    upgradeSlotCount: 1,
   };
 }

@@ -41,7 +41,7 @@ export default function WarRoomPanel({
 }) {
   const l = (lang || "en") as Lang;
   const { warRoom } = state;
-  const isOnline = state.modules.warroom?.online ?? false;
+  const isOnline = warRoom.online;
   const slot = warRoom.productionSlot;
 
   return (
@@ -72,6 +72,7 @@ export default function WarRoomPanel({
               unit={def}
               canAfford={canTrainUnit(state, unitId)}
               isTraining={slot !== null}
+              garrisonCount={warRoom.garrison[unitId]}
               onTrain={() => dispatch({ type: "TRAIN_UNIT", unitId })}
               lang={lang}
             />
