@@ -3,7 +3,8 @@ import type { GalaxyMaterialId } from "../../world/mission";
 
 // ── Unit identity ──────────────────────────────────────────────
 
-export type WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone";
+export type WarRoomUnitId = "sentinel" | "vanguard" | "wraith" | "nexus";
+export type WarRoomUnitRole = "tank" | "assault" | "recon" | "support";
 
 // ── Unit definition (static data) ──────────────────────────────
 
@@ -12,12 +13,19 @@ export interface WarRoomUnitDef {
   icon: string;
   name: LocalizedString;
   desc: LocalizedString;
-  /** How many game ticks to produce one unit (1 tick ≈ 5s) */
-  productionTicks: number;
-  /** Meteor material costs */
-  cost: Partial<Record<GalaxyMaterialId, number>>;
-  /** Maximum number of this unit in garrison */
-  maxCount: number;
+  role: WarRoomUnitRole;
+  focus: LocalizedString;
+  baseStats: {
+    attack: number;
+    defense: number;
+    speed: number;
+    hp: number;
+  };
+  /** Current per-batch base + per-level material profile */
+  cost: {
+    base: Partial<Record<GalaxyMaterialId, number>>;
+    perLevel: Partial<Record<GalaxyMaterialId, number>>;
+  };
   /** Minimum war-room level required to train this unit */
   minLevel: number;
 }
@@ -26,9 +34,20 @@ export interface WarRoomUnitDef {
 
 export interface WarRoomProductionSlot {
   unitId: WarRoomUnitId;
+  isUpgrade: boolean;
+  batchSize: number;
+  targetLevel: number;
   startedTick: number;
   duration: number;
   remaining: number;
+  reservedCount?: number;
+  reservedFromLevel?: number;
+  spentCost?: Partial<Record<GalaxyMaterialId, number>>;
+}
+
+export interface GarrisonEntry {
+  count: number;
+  level: number;
 }
 
 // ── War-room module state ──────────────────────────────────────
@@ -36,6 +55,6 @@ export interface WarRoomProductionSlot {
 export interface WarRoomState {
   level: number;
   online: boolean;
-  productionSlot: WarRoomProductionSlot | null;
-  garrison: Record<WarRoomUnitId, number>;
+  productionSlots: Record<WarRoomUnitId, WarRoomProductionSlot | null>;
+  garrison: Record<WarRoomUnitId, GarrisonEntry[]>;
 }

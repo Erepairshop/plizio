@@ -1,4 +1,3 @@
-import type { StarholdAvatarAnswer } from "@/lib/gravitas/sim/types";
 import type { EnemyTrait, EnemyTraitId } from "./types";
 import { createBattleLoot } from "./rewards";
 import { getEffectiveCombatStats } from "./avatarCombat";
@@ -9,7 +8,6 @@ import {
   BATTLE_TACTICS,
   BATTLE_UNIT_PROFILES,
   type BattleArmy,
-  type BattleEvaluation,
   type BattleHistoryEntry,
   type BattlePhase,
   type BattleResult,
@@ -105,7 +103,7 @@ function calculateArmyEvaluation(army: BattleArmy) {
   let speed = 0;
   let totalUnits = 0;
   let specialUnits = 0;
-  const roleScores: Record<UnitCombatRole, number> = { infantry: 0, ranged: 0, special: 0, drone: 0 };
+  const roleScores: Record<UnitCombatRole, number> = { tank: 0, assault: 0, recon: 0, support: 0 };
 
   Object.entries(army.units).forEach(([unitId, countRaw]) => {
     const count = Math.max(0, Math.floor(countRaw));
@@ -113,14 +111,14 @@ function calculateArmyEvaluation(army: BattleArmy) {
     const unit = BATTLE_UNIT_PROFILES[unitId];
     if (!unit) return;
     totalUnits += count;
-    if (unit.role === "special" || unit.role === "drone") specialUnits += count;
+    if (unit.role === "recon" || unit.role === "support") specialUnits += count;
     roleScores[unit.role] += count;
     attack += unit.attack * count;
     defense += unit.defense * count;
     speed += unit.speed * count;
   });
 
-  const dominantRole = (Object.entries(roleScores).sort((a, b) => b[1] - a[1])[0]?.[0] ?? "infantry") as UnitCombatRole;
+  const dominantRole = (Object.entries(roleScores).sort((a, b) => b[1] - a[1])[0]?.[0] ?? "tank") as UnitCombatRole;
   return { attack, defense, speed, dominantRole, totalUnits, specialUnits };
 }
 

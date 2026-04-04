@@ -10,12 +10,31 @@ import { createNextThreat } from "./threats";
 import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
-import { canTrainUnit, startTraining, cancelTraining } from "./warroom";
+import { canTrainUnit, canUpgradeUnit, startTraining, startUpgrade, cancelProduction } from "./warroom";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";
 import type { GalaxyMaterialId } from "../world/mission";
 import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
 import { getBattleXP, getCombatLevel } from "./battle/xp";
+
+function removeFromHighestLevel(
+  entries: import("./warroom/types").GarrisonEntry[],
+  count: number,
+): import("./warroom/types").GarrisonEntry[] {
+  let remaining = count;
+  const next = [...entries].sort((a, b) => b.level - a.level).map((e) => ({ ...e }));
+  for (let i = 0; i < next.length; i += 1) {
+    const take = Math.min(remaining, next[i].count);
+    next[i].count -= take;
+    remaining -= take;
+    if (remaining <= 0) break;
+  }
+  return next.filter((e) => e.count > 0).sort((a, b) => a.level - b.level);
+}
+
+function getTotalEntryCount(entries: import("./warroom/types").GarrisonEntry[]): number {
+  return entries.reduce((sum, e) => sum + e.count, 0);
+}
 
 function startOperation(
   state: StarholdState,
@@ -726,13 +745,13 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const updatedGarrison = { ...state.warRoom.garrison };
       Object.entries(result.stats.unitsLost).forEach(([unitId, lost]) => {
         const id = unitId as import("./warroom/types").WarRoomUnitId;
-        updatedGarrison[id] = Math.max(0, (updatedGarrison[id] ?? 0) - lost);
+        updatedGarrison[id] = removeFromHighestLevel(updatedGarrison[id] ?? [], Math.max(0, Math.floor(lost)));
       });
       const cooldownMs = 60 * 60 * 1000; // 1 hour cooldown
       const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
         buildingId: nodeId as import("./battle/types").EnemyBuilding["id"],
         at: Date.now(),
-        dominantUnitType: "infantry",
+        dominantUnitType: "tank",
         victory: result.victory,
         durationMs: result.durationMs,
         damageDealt: result.stats.damageDealt,
@@ -775,7 +794,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       };
     }
     case "START_SCOUT": {
-      if (state.battleState.activeScout || (state.warRoom.garrison.scout_drone ?? 0) <= 0) return state;
+      const wraithEntries = state.warRoom.garrison.wraith ?? [];
+      if (state.battleState.activeScout || getTotalEntryCount(wraithEntries) <= 0) return state;
       const durationMs = 30 * 60 * 1000;
       return {
         ...state,
@@ -783,7 +803,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ...state.warRoom,
           garrison: {
             ...state.warRoom.garrison,
-            scout_drone: (state.warRoom.garrison.scout_drone ?? 0) - 1
+            wraith: removeFromHighestLevel(wraithEntries, 1),
           }
         },
         battleState: {
@@ -824,7 +844,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       };
     }
     case "TRAIN_UNIT": {
-      if (!canTrainUnit(state, command.unitId)) {
+      if (!canTrainUnit(state, command.unitId, command.level)) {
         return withAlert(state, {
           en: "Cannot start training now.",
           hu: "Nem indítható kiképzés most.",
@@ -832,10 +852,21 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ro: "Antrenamentul nu poate fi pornit acum.",
         });
       }
-      return startTraining(state, command.unitId);
+      return startTraining(state, command.unitId, command.level);
+    }
+    case "UPGRADE_UNIT": {
+      if (!canUpgradeUnit(state, command.unitId, command.fromLevel)) {
+        return withAlert(state, {
+          en: "Cannot start unit upgrade now.",
+          hu: "Most nem indithato egysegfejlesztes.",
+          de: "Einheiten-Upgrade kann jetzt nicht gestartet werden.",
+          ro: "Upgrade-ul unitatii nu poate porni acum.",
+        });
+      }
+      return startUpgrade(state, command.unitId, command.fromLevel, command.count);
     }
     case "CANCEL_TRAINING": {
-      return cancelTraining(state);
+      return cancelProduction(state, command.unitId);
     }
     case "UPGRADE_MODULE": {
       return handleUpgradeModule(state, command.moduleId);

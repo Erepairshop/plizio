@@ -233,47 +233,50 @@ export function canUpgradeModule(
 // ── Egység költségek (warroom) ─────────────────────────────────
 
 export const UNIT_COSTS = {
-  /** Voidwalker — alap katona, olcsó, gyors (warroom lv1) */
-  militia: {
-    cost: { lumen_dust: 25, verdant_crystals: 15 } satisfies MaterialCost,
-    productionTicks: 180, // 15 min
-    maxCount: 10,
+  sentinel: {
+    base: { ember_shards: 40, sable_alloy: 20 } satisfies MaterialCost,
+    perLevel: { ember_shards: 15, sable_alloy: 10 } satisfies MaterialCost,
   },
-  /** 2. egység — warroom lv5-től (TBD) */
-  ranger: {
-    cost: { aether_ore: 60, verdant_crystals: 30 } satisfies MaterialCost,
-    productionTicks: 120,
-    maxCount: 1,
+  vanguard: {
+    base: { lumen_dust: 30, verdant_crystals: 20 } satisfies MaterialCost,
+    perLevel: { lumen_dust: 12, verdant_crystals: 8 } satisfies MaterialCost,
   },
-  /** 3. egység — warroom lv10-től (TBD) */
-  shieldbearer: {
-    cost: { ember_shards: 50, sable_alloy: 30 } satisfies MaterialCost,
-    productionTicks: 120,
-    maxCount: 1,
+  wraith: {
+    base: { aether_ore: 35, verdant_crystals: 15 } satisfies MaterialCost,
+    perLevel: { aether_ore: 14, verdant_crystals: 6 } satisfies MaterialCost,
   },
-  /** 4. egység — warroom lv15-től (TBD) */
-  scout_drone: {
-    cost: { lumen_dust: 20, verdant_crystals: 20 } satisfies MaterialCost,
-    productionTicks: 120,
-    maxCount: 3,
+  nexus: {
+    base: { lumen_dust: 25, aether_ore: 15 } satisfies MaterialCost,
+    perLevel: { lumen_dust: 10, aether_ore: 8 } satisfies MaterialCost,
   },
+} as const;
+
+export const WARROOM_PRODUCTION_CONFIG = {
+  batchBaseSizePerLevel: 10,
+  baseProductionTicksPerBatch: 900,
+  upgradeCostRatio: 0.4,
+  upgradeDurationRatio: 0.5,
+  cancelRefundRatio: 0.5,
+  garrisonCap: 1000,
+  maxUnitLevel: 10,
+  statScalePerLevel: 0.15,
+  parallelSlots: 4,
 } as const;
 
 // ── Warroom level bónuszok ────────────────────────────────────
 
 export const WARROOM_LEVEL_CONFIG = {
-  /** Garrison max = base + (level-1) × perLevel */
-  garrisonBase: 10,
-  garrisonPerLevel: 40, // lv1: 10, lv5: 170, lv10: 370, lv25: 970 ≈ 1000
+  /** Global cap handled by WARROOM_PRODUCTION_CONFIG.garrisonCap */
+  garrisonBase: WARROOM_PRODUCTION_CONFIG.garrisonCap,
+  garrisonPerLevel: 0,
   /** Production speed bonus: 1.0 = alap, 0.9 = 10% gyorsabb */
-  productionSpeedPerLevel: 0.03, // lv1: 1.0, lv10: 0.73, lv25: 0.28 → max ~3.5x gyorsabb
+  productionSpeedPerLevel: 0.03,
   /** Egység feloldási szintek */
   unitUnlockLevels: {
-    militia: 1,
-    ranger: 5,
-    shieldbearer: 10,
-    scout_drone: 15,
-    // 5. egység: 20 (TBD)
+    sentinel: 1,
+    vanguard: 1,
+    wraith: 1,
+    nexus: 1,
   } as Record<string, number>,
 } as const;
 

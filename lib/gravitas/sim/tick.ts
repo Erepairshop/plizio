@@ -12,7 +12,7 @@ import { getModuleIds } from "./registry";
 import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
-import { tickWarRoom } from "./warroom";
+import { tickWarroomProduction } from "./warroom";
 import { applyStarholdCommand } from "./commands";
 import { getWorldLevelDelay, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
 
@@ -883,13 +883,13 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickWarroomProduction({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     }))))));
     }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(applyStarholdEvents(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(applyStarholdEvents(tickWarroomProduction({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     })))))));

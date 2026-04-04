@@ -1,4 +1,4 @@
-import type { LocalizedString, StarholdAvatarProfile, StarholdState } from "@/lib/gravitas/sim/types";
+import type { LocalizedString, StarholdState } from "@/lib/gravitas/sim/types";
 import type { GalaxyMaterialId } from "@/lib/gravitas/world/mission";
 
 export type EnemyTraitId = string;
@@ -125,7 +125,7 @@ export interface BattleEvaluation {
   garrison: number;
 }
 
-export type UnitCombatRole = "infantry" | "ranged" | "special" | "drone";
+export type UnitCombatRole = "tank" | "assault" | "recon" | "support";
 
 export interface BattleUnitProfile {
   id: string;
@@ -133,6 +133,7 @@ export interface BattleUnitProfile {
   attack: number;
   defense: number;
   speed: number;
+  hp: number;
 }
 
 export const BATTLE_TACTICS: Record<BattleTacticId, BattleTactic> = {
@@ -214,9 +215,8 @@ export const BATTLE_TACTICS: Record<BattleTacticId, BattleTactic> = {
 };
 
 export const BATTLE_UNIT_PROFILES: Record<string, BattleUnitProfile> = {
-  militia: { id: "militia", role: "infantry", attack: 14, defense: 18, speed: 11 },
-  ranger: { id: "ranger", role: "ranged", attack: 22, defense: 12, speed: 20 },
-  shieldbearer: { id: "shieldbearer", role: "special", attack: 12, defense: 30, speed: 8 },
-  scout_drone: { id: "scout_drone", role: "drone", attack: 16, defense: 10, speed: 28 },
+  sentinel: { id: "sentinel", role: "tank", attack: 8, defense: 28, speed: 6, hp: 45 },
+  vanguard: { id: "vanguard", role: "assault", attack: 24, defense: 12, speed: 16, hp: 28 },
+  wraith: { id: "wraith", role: "recon", attack: 14, defense: 10, speed: 26, hp: 20 },
+  nexus: { id: "nexus", role: "support", attack: 6, defense: 14, speed: 12, hp: 22 },
 };
-

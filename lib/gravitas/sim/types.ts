@@ -314,6 +314,7 @@ export type StarholdCommand =
   | { type: "START_SCOUT"; buildingId: string }
   | { type: "COMPLETE_SCOUT" }
   | { type: "APPLY_BATTLE_RESULT"; result: import("./battle/types").BattleResult; nodeId: string }
-  | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId }
-  | { type: "CANCEL_TRAINING" }
+  | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId; level: number }
+  | { type: "UPGRADE_UNIT"; unitId: import("./warroom/types").WarRoomUnitId; fromLevel: number; count: number }
+  | { type: "CANCEL_TRAINING"; unitId: import("./warroom/types").WarRoomUnitId }
   | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };

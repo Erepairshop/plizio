@@ -4,6 +4,7 @@ import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { defaultAllocation } from "./battle/avatarCombat";
+import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -16,6 +17,84 @@ function getSaveKey(): string {
 }
 
 const CONTINUATION_DAILY_WAVE_TICKS = 24 * 60 * 60;
+
+function mapLegacyUnitId(id: string): WarRoomUnitId | null {
+  if (id === "sentinel" || id === "vanguard" || id === "wraith" || id === "nexus") return id;
+  if (id === "militia") return "sentinel";
+  if (id === "ranger") return "vanguard";
+  if (id === "shieldbearer") return "wraith";
+  if (id === "scout_drone") return "nexus";
+  return null;
+}
+
+function toGarrisonEntries(value: unknown): { count: number; level: number }[] {
+  if (Array.isArray(value)) {
+    return value
+      .filter((entry) => entry && typeof entry.count === "number")
+      .map((entry: any) => ({ count: Math.max(0, Math.floor(entry.count)), level: Math.max(1, Math.floor(entry.level ?? 1)) }))
+      .filter((entry) => entry.count > 0);
+  }
+  if (typeof value === "number") {
+    const count = Math.max(0, Math.floor(value));
+    return count > 0 ? [{ count, level: 1 }] : [];
+  }
+  return [];
+}
+
+function migrateWarRoom(raw: any): WarRoomState {
+  const base = createInitialWarRoom();
+  if (!raw || typeof raw !== "object") return base;
+
+  const migrated: WarRoomState = {
+    level: Math.max(1, Math.floor(raw.level ?? base.level)),
+    online: typeof raw.online === "boolean" ? raw.online : base.online,
+    productionSlots: { ...base.productionSlots },
+    garrison: { ...base.garrison },
+  };
+
+  Object.entries(raw.garrison ?? {}).forEach(([legacyId, value]) => {
+    const mapped = mapLegacyUnitId(legacyId);
+    if (!mapped) return;
+    migrated.garrison[mapped] = [
+      ...migrated.garrison[mapped],
+      ...toGarrisonEntries(value),
+    ];
+  });
+
+  if (raw.productionSlots && typeof raw.productionSlots === "object") {
+    Object.entries(raw.productionSlots).forEach(([legacyId, slot]) => {
+      const mapped = mapLegacyUnitId(legacyId);
+      if (!mapped || !slot || typeof slot !== "object") return;
+      migrated.productionSlots[mapped] = {
+        unitId: mapped,
+        isUpgrade: Boolean((slot as any).isUpgrade),
+        batchSize: Math.max(1, Math.floor((slot as any).batchSize ?? 1)),
+        targetLevel: Math.max(1, Math.floor((slot as any).targetLevel ?? 1)),
+        startedTick: Math.max(0, Math.floor((slot as any).startedTick ?? 0)),
+        duration: Math.max(1, Math.floor((slot as any).duration ?? 1)),
+        remaining: Math.max(0, Math.floor((slot as any).remaining ?? 0)),
+        reservedCount: (slot as any).reservedCount ? Math.max(1, Math.floor((slot as any).reservedCount)) : undefined,
+        reservedFromLevel: (slot as any).reservedFromLevel ? Math.max(1, Math.floor((slot as any).reservedFromLevel)) : undefined,
+        spentCost: (slot as any).spentCost ?? undefined,
+      };
+    });
+  } else if (raw.productionSlot && typeof raw.productionSlot === "object") {
+    const mapped = mapLegacyUnitId((raw.productionSlot as any).unitId);
+    if (mapped) {
+      migrated.productionSlots[mapped] = {
+        unitId: mapped,
+        isUpgrade: false,
+        batchSize: 1,
+        targetLevel: 1,
+        startedTick: Math.max(0, Math.floor((raw.productionSlot as any).startedTick ?? 0)),
+        duration: Math.max(1, Math.floor((raw.productionSlot as any).duration ?? 1)),
+        remaining: Math.max(0, Math.floor((raw.productionSlot as any).remaining ?? 0)),
+      };
+    }
+  }
+
+  return migrated;
+}
 
 function sanitizeContinuationState(state: StarholdState): StarholdState {
   return normalizeContinuationState({
@@ -240,7 +319,7 @@ export function loadGravitasState(): StarholdState | null {
       },
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
-      warRoom: parsed.warRoom ?? createInitialWarRoom(),
+      warRoom: migrateWarRoom(parsed.warRoom),
       moduleLevels: parsed.moduleLevels ?? { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
       upgradeQueue: parsed.upgradeQueue ?? [],
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,

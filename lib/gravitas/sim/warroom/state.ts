@@ -6,13 +6,25 @@ export function createInitialWarRoom(): WarRoomState {
   return {
     level: 1,
     online: true,
-    productionSlot: null,
-    garrison: { militia: 0, ranger: 0, shieldbearer: 0, scout_drone: 0 },
+    productionSlots: {
+      sentinel: null,
+      vanguard: null,
+      wraith: null,
+      nexus: null,
+    },
+    garrison: {
+      sentinel: [],
+      vanguard: [],
+      wraith: [],
+      nexus: [],
+    },
   };
 }
 
 // ── Garrison helpers ───────────────────────────────────────────
 
 export function getTotalGarrison(wr: WarRoomState): number {
-  return Object.values(wr.garrison).reduce((sum, n) => sum + n, 0);
+  return Object.values(wr.garrison)
+    .flat()
+    .reduce((sum, entry) => sum + entry.count, 0);
 }
