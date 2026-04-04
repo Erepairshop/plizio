@@ -1,4 +1,4 @@
-// ─── GESCHICHTE CURRICULUM — K5-K8 (Deutsche Geschichte) ─────────────────────
+// ─── GESCHICHTE CURRICULUM — K5-K8 (Deutsche Geschichte) ────────────��────────
 // 24-28 Altthemen über 4 Klassenstufen (Klasse 5-8)
 // Sprache: Deutsch
 // Kompatibel mit LanguageTestEngine
@@ -9,7 +9,7 @@ import { G6_Generators_Geschichte } from "./geschichteGenerators6";
 import { G7_Generators_Geschichte } from "./geschichteGenerators7";
 import { G8_Generators_Geschichte } from "./geschichteGenerators8";
 
-// ─── TOPIC NAMES ────────────────────────────────────────────────────────────
+// ─── TOPIC NAMES ─────────────��──────────────────────────────────────────────
 
 const TOPIC_NAMES: Record<string, string> = {
   // Grade 5 (7 Themen)
@@ -46,115 +46,68 @@ const TOPIC_NAMES: Record<string, string> = {
   wiedervereinigung: "Wiedervereinigung & EU",
 };
 
-// ─── GRADE 5: ANTIKE ─────────────────────────────────────────────────────────
+// ─── BUILD HELPER ────────────────────────────────────────────────────────────
+
+function buildTheme(
+  id: string, name: string, icon: string, color: string,
+  generators: Record<string, () => CurriculumQuestion[]>,
+  keys: string[],
+): CurriculumTheme {
+  return {
+    id, name, icon, color,
+    subtopics: keys.map((key) => {
+      const gen = generators[key];
+      const questions: CurriculumQuestion[] = gen ? gen() : [];
+      return { id: key, name: TOPIC_NAMES[key] ?? key, questions, hasGenerator: !!gen };
+    }),
+  };
+}
+
+// ──��� GRADE 5: ANTIKE ─────────────────────────────────────────────────────────
 
 const GRADE_5_THEMES: CurriculumTheme[] = [
-  {
-    id: "antike_kulturen", name: "Antike Kulturen", icon: "🏛️", color: "#F59E0B",
-    subtopics: [
-      { id: "fruehe_hochkulturen", name: TOPIC_NAMES.fruehe_hochkulturen, questions: [], hasGenerator: true },
-      { id: "aegypten", name: TOPIC_NAMES.aegypten, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "griechenland_rom", name: "Griechenland & Rom", icon: "⚔️", color: "#3B82F6",
-    subtopics: [
-      { id: "griechenland", name: TOPIC_NAMES.griechenland, questions: [], hasGenerator: true },
-      { id: "rom_republik", name: TOPIC_NAMES.rom_republik, questions: [], hasGenerator: true },
-      { id: "rom_kaiserreich", name: TOPIC_NAMES.rom_kaiserreich, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "spaetantike", name: "Spätantike & Übergang", icon: "🗡️", color: "#10B981",
-    subtopics: [
-      { id: "germanen", name: TOPIC_NAMES.germanen, questions: [], hasGenerator: true },
-      { id: "voelkerwanderung", name: TOPIC_NAMES.voelkerwanderung, questions: [], hasGenerator: true },
-    ],
-  },
+  buildTheme("antike_kulturen", "Antike Kulturen", "🏛️", "#F59E0B",
+    G5_Generators_Geschichte as any, ["fruehe_hochkulturen", "aegypten"]),
+  buildTheme("griechenland_rom", "Griechenland & Rom", "⚔️", "#3B82F6",
+    G5_Generators_Geschichte as any, ["griechenland", "rom_republik", "rom_kaiserreich"]),
+  buildTheme("spaetantike", "Spätantike & Übergang", "🗡️", "#10B981",
+    G5_Generators_Geschichte as any, ["germanen", "voelkerwanderung"]),
 ];
 
-// ─── GRADE 6: MITTELALTER ────────────────────────────────────────────────────
+// ─── GRADE 6: MITTELALTER ──────────────────���───────────────────────────────���─
 
 const GRADE_6_THEMES: CurriculumTheme[] = [
-  {
-    id: "fruehes_ma", name: "Frühes Mittelalter", icon: "👑", color: "#8B5CF6",
-    subtopics: [
-      { id: "fruehes_mittelalter", name: TOPIC_NAMES.fruehes_mittelalter, questions: [], hasGenerator: true },
-      { id: "karl_der_grosse", name: TOPIC_NAMES.karl_der_grosse, questions: [], hasGenerator: true },
-      { id: "lehnswesen", name: TOPIC_NAMES.lehnswesen, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "hohes_ma", name: "Hohes & Spätes Mittelalter", icon: "🏰", color: "#EF4444",
-    subtopics: [
-      { id: "kreuzzuege", name: TOPIC_NAMES.kreuzzuege, questions: [], hasGenerator: true },
-      { id: "stadtleben_mittelalter", name: TOPIC_NAMES.stadtleben_mittelalter, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "glaube_wissen", name: "Glaube & Wissen", icon: "📜", color: "#F59E0B",
-    subtopics: [
-      { id: "islam_goldenes_zeitalter", name: TOPIC_NAMES.islam_goldenes_zeitalter, questions: [], hasGenerator: true },
-      { id: "reformation", name: TOPIC_NAMES.reformation, questions: [], hasGenerator: true },
-    ],
-  },
+  buildTheme("fruehes_ma", "Frühes Mittelalter", "👑", "#8B5CF6",
+    G6_Generators_Geschichte as any, ["fruehes_mittelalter", "karl_der_grosse", "lehnswesen"]),
+  buildTheme("hohes_ma", "Hohes & Spätes Mittelalter", "🏰", "#EF4444",
+    G6_Generators_Geschichte as any, ["kreuzzuege", "stadtleben_mittelalter"]),
+  buildTheme("glaube_wissen", "Glaube & Wissen", "📜", "#F59E0B",
+    G6_Generators_Geschichte as any, ["islam_goldenes_zeitalter", "reformation"]),
 ];
 
-// ─── GRADE 7: NEUZEIT ────────────────────────────────────────────────────────
+// ─── GRADE 7: NEUZEIT ──────��─────────────────────────────���───────────────────
 
 const GRADE_7_THEMES: CurriculumTheme[] = [
-  {
-    id: "absolutismus_aufklaerung", name: "Absolutismus & Aufklärung", icon: "🌟", color: "#6366F1",
-    subtopics: [
-      { id: "absolutismus", name: TOPIC_NAMES.absolutismus, questions: [], hasGenerator: true },
-      { id: "aufklaerung", name: TOPIC_NAMES.aufklaerung, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "revolutionen", name: "Revolutionen", icon: "🔥", color: "#EF4444",
-    subtopics: [
-      { id: "amerikanische_revolution", name: TOPIC_NAMES.amerikanische_revolution, questions: [], hasGenerator: true },
-      { id: "franzoesische_revolution", name: TOPIC_NAMES.franzoesische_revolution, questions: [], hasGenerator: true },
-      { id: "napoleon", name: TOPIC_NAMES.napoleon, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "neuordnung", name: "Neuordnung & Wandel", icon: "🏭", color: "#10B981",
-    subtopics: [
-      { id: "wiener_kongress", name: TOPIC_NAMES.wiener_kongress, questions: [], hasGenerator: true },
-      { id: "industrialisierung", name: TOPIC_NAMES.industrialisierung, questions: [], hasGenerator: true },
-    ],
-  },
+  buildTheme("absolutismus_aufklaerung", "Absolutismus & Aufklärung", "🌟", "#6366F1",
+    G7_Generators_Geschichte as any, ["absolutismus", "aufklaerung"]),
+  buildTheme("revolutionen", "Revolutionen", "🔥", "#EF4444",
+    G7_Generators_Geschichte as any, ["amerikanische_revolution", "franzoesische_revolution", "napoleon"]),
+  buildTheme("neuordnung", "Neuordnung & Wandel", "🏭", "#10B981",
+    G7_Generators_Geschichte as any, ["wiener_kongress", "industrialisierung"]),
 ];
 
 // ─── GRADE 8: 20. JAHRHUNDERT ───────────────────────────────────────────────
 
 const GRADE_8_THEMES: CurriculumTheme[] = [
-  {
-    id: "weltkriege", name: "Weltkriege", icon: "💥", color: "#EF4444",
-    subtopics: [
-      { id: "imperialismus", name: TOPIC_NAMES.imperialismus, questions: [], hasGenerator: true },
-      { id: "erster_weltkrieg", name: TOPIC_NAMES.erster_weltkrieg, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "ns_zeit", name: "NS-Zeit & Zweiter Weltkrieg", icon: "⚠️", color: "#991B1B",
-    subtopics: [
-      { id: "weimarer_republik", name: TOPIC_NAMES.weimarer_republik, questions: [], hasGenerator: true },
-      { id: "nationalsozialismus", name: TOPIC_NAMES.nationalsozialismus, questions: [], hasGenerator: true },
-      { id: "zweiter_weltkrieg", name: TOPIC_NAMES.zweiter_weltkrieg, questions: [], hasGenerator: true },
-    ],
-  },
-  {
-    id: "nachkrieg", name: "Nachkriegszeit & Gegenwart", icon: "🇩🇪", color: "#3B82F6",
-    subtopics: [
-      { id: "kalter_krieg", name: TOPIC_NAMES.kalter_krieg, questions: [], hasGenerator: true },
-      { id: "wiedervereinigung", name: TOPIC_NAMES.wiedervereinigung, questions: [], hasGenerator: true },
-    ],
-  },
+  buildTheme("weltkriege", "Weltkriege", "💥", "#EF4444",
+    G8_Generators_Geschichte as any, ["imperialismus", "erster_weltkrieg"]),
+  buildTheme("ns_zeit", "NS-Zeit & Zweiter Weltkrieg", "⚠���", "#991B1B",
+    G8_Generators_Geschichte as any, ["weimarer_republik", "nationalsozialismus", "zweiter_weltkrieg"]),
+  buildTheme("nachkrieg", "Nachkriegszeit & Gegenwart", "🇩🇪", "#3B82F6",
+    G8_Generators_Geschichte as any, ["kalter_krieg", "wiedervereinigung"]),
 ];
 
-// ─── FULL CURRICULUM ────────────────────────────────────────────────────────
+// ─── FULL CURRICULUM ──────────────��─────────────────────────────────────────
 
 export const GESCHICHTE_CURRICULUM: Record<number, CurriculumTheme[]> = {
   5: GRADE_5_THEMES,
@@ -163,7 +116,7 @@ export const GESCHICHTE_CURRICULUM: Record<number, CurriculumTheme[]> = {
   8: GRADE_8_THEMES,
 };
 
-// ─── QUESTION GENERATOR ─────────────────────────────────────────────────────
+// ──��� QUESTION GENERATOR ─────────────────────────────────────────────────────
 
 const ALL_GENERATORS: Record<number, Record<string, () => CurriculumQuestion[]>> = {
   5: G5_Generators_Geschichte,
@@ -191,7 +144,7 @@ export function getGeschichteQuestions(
   return shuffled.slice(0, count);
 }
 
-// ─── GRADING ─────────────────────────────────────────────────────────────────
+// ─── GRADING ��─────────────��──────────────────────────��───────────────────────
 
 export function calculateGeschichteMark(pct: number): GradeMark {
   if (pct >= 92) return { label: "1", description: "Sehr gut", color: "#10B981", emoji: "🌟" };
@@ -202,7 +155,7 @@ export function calculateGeschichteMark(pct: number): GradeMark {
   return { label: "6", description: "Ungenügend", color: "#991B1B", emoji: "❌" };
 }
 
-// ─── SUBTOPIC HINTS ──────────────────────────────────────────────────────────
+// ─── SUBTOPIC HINTS ────────────────────────────────────��─────────────────────
 
 export const GESCHICHTE_SUBTOPIC_HINTS: Record<string, string> = {
   fruehe_hochkulturen: "Mesopotamien, Ägypten, Indus-Tal",

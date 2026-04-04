@@ -600,7 +600,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         gradient: "bg-gradient-to-br from-emerald-500/20 to-green-500/20",
       },
       {
-        id: "astrogeschichte",
+        id: "astro-geschichte",
         icon: Castle,
         nameKey: "astrogeschichte",
         color: "#8B5CF6",
@@ -827,7 +827,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", astromagyar: "brain", astroromana: "brain", "astro-sachkunde": "brain", "astro-biologie": "brain", "astro-physik": "brain", "astro-geographie": "brain", astrokemia: "brain", astrogeschichte: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain", sachkundetest: "brain", geschichtetest: "brain", biologietest: "brain", physiktest: "brain", geographietest: "brain", kemiatest: "brain",
+  astromath: "brain", astrodeutsch: "brain", astroenglish: "brain", astromagyar: "brain", astroromana: "brain", "astro-sachkunde": "brain", "astro-biologie": "brain", "astro-physik": "brain", "astro-geographie": "brain", astrokemia: "brain", "astro-geschichte": "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain", magyarteszt: "brain", romaniantest: "brain", sachkundetest: "brain", geschichtetest: "brain", biologietest: "brain", physiktest: "brain", geographietest: "brain", kemiatest: "brain",
   numberpath: "logic", pathbuilder: "logic", pipeflow: "logic", deductiongrid: "logic", deductiongrid2: "logic", timeecho: "logic", shadowswitch: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   signaldecoder: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
