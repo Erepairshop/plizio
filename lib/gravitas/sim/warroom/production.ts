@@ -282,8 +282,8 @@ export function tickWarroomProduction(state: StarholdState): StarholdState {
 
     const unitName = WARROOM_UNITS[unitId].name;
     const nextEntries = slot.isUpgrade
-      ? addGarrisonEntries(next.warRoom.garrison[unitId] ?? [], slot.targetLevel, slot.reservedCount ?? slot.batchSize)
-      : addGarrisonEntries(next.warRoom.garrison[unitId] ?? [], slot.targetLevel, slot.batchSize);
+      ? mergeGarrisonEntries(next.warRoom.garrison[unitId] ?? [], (slot.upgradedEntries ?? [{ level: slot.targetLevel - 1, count: slot.reservedCount ?? slot.batchSize }]).map(e => ({ ...e, level: slot.targetLevel })))
+      : mergeGarrisonEntries(next.warRoom.garrison[unitId] ?? [], [{ level: slot.targetLevel, count: slot.batchSize }]);
     const text = slot.isUpgrade
       ? {
         en: `${unitName.en} upgrade completed (Lv${slot.targetLevel}).`,

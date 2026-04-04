@@ -243,19 +243,22 @@ export function startRepair(
   const cost = getRepairBatchCost(unitId, unitLevel, count, state.repairBay.level, state.moduleLevels.logistics, state);
   applyInventoryDelta(cost, -1);
 
+  const { remaining: nextWoundedEntries, taken: repairedEntries } = takeBestUnitsOfLevel(state.repairBay.wounded[unitId] ?? [], unitLevel, count);
+
   const slot = {
     unitId,
     targetLevel: unitLevel,
     batchSize: count,
     startedAt: Date.now(),
     completesAt: Date.now() + duration * 1000,
+    repairedEntries,
   };
 
   const nextSlots = [...state.repairBay.repairSlots];
   nextSlots[slotIndex] = slot;
   const nextWounded = {
     ...state.repairBay.wounded,
-    [unitId]: removeEntries(state.repairBay.wounded[unitId] ?? [], unitLevel, count),
+    [unitId]: nextWoundedEntries,
   };
 
   const text = {

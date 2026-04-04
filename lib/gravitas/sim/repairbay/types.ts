@@ -6,6 +6,7 @@ export interface RepairSlot {
   batchSize: number;
   startedAt: number;
   completesAt: number;
+  repairedEntries?: GarrisonEntry[];
 }
 
 export interface RepairBayState {

@@ -394,13 +394,11 @@ const YIELD_PER_HOUR: Record<GalaxyMaterialId, number> = {
  * Kiszámolja mennyi idő (percben) egy költség összegyűjtése.
  * A leglassabb anyag határozza meg a teljes időt (1 drón, lv1).
  */
-export function estimateGatherMinutes(cost: MaterialCost): number {
-  let maxMinutes = 0;
-  for (const [matId, amount] of Object.entries(cost)) {
-    if (!amount) continue;
-    const perHour = YIELD_PER_HOUR[matId as GalaxyMaterialId] ?? 50;
-    const minutes = (amount / perHour) * 60;
-    if (minutes > maxMinutes) maxMinutes = minutes;
+export const VETERAN_CONFIG = {
+  tiers: {
+    hardened: { minBattles: 5, statBonus: 0.05 },
+    veteran: { minBattles: 10, statBonus: 0.10 },
+    elite: { minBattles: 20, statBonus: 0.15 },
+    legendary: { minBattles: 50, statBonus: 0.20 },
   }
-  return Math.round(maxMinutes);
-}
+} as const;

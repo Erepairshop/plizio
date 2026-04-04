@@ -130,6 +130,7 @@ function migrateRepairBay(raw: any): RepairBayState {
       batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
       startedAt: Date.now() - (dur - rem) * 1000,
       completesAt: Date.now() + rem * 1000,
+      repairedEntries: slot.repairedEntries ? toGarrisonEntries(slot.repairedEntries) : undefined,
     };
   });
 

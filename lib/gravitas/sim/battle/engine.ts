@@ -415,6 +415,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
       damageDealt: Math.round(ctx.playerDamageDone),
       damageReceived: Math.round(ctx.playerDamageTaken),
       unitsLost: casualties.killed,
+      unitsSent: army.units,
       enemyGarrisonDestroyed: Math.max(0, enemy.stats.garrison - runtime.enemyGarrison),
       traitTriggered: Array.from(ctx.traitTriggered) as EnemyTraitId[],
       counterUsed: Array.from(ctx.countersUsed),

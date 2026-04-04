@@ -42,11 +42,15 @@ export interface WarRoomProductionSlot {
   reservedCount?: number;
   reservedFromLevel?: number;
   spentCost?: Partial<Record<GalaxyMaterialId, number>>;
+  upgradedEntries?: GarrisonEntry[];
 }
 
 export interface GarrisonEntry {
   count: number;
   level: number;
+  battlesSurvived?: number;
+  veteranName?: LocalizedString;
+  veteranTier?: "hardened" | "veteran" | "elite" | "legendary";
 }
 
 // ── War-room module state ──────────────────────────────────────

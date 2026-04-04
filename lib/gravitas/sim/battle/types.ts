@@ -72,6 +72,7 @@ export interface BattleResult {
     damageDealt: number;
     damageReceived: number;
     unitsLost: Record<string, number>;
+    unitsSent?: Record<string, number>;
     enemyGarrisonDestroyed: number;
     traitTriggered: EnemyTraitId[];
     counterUsed: string[];

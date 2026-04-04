@@ -834,21 +834,45 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       let movedWounded = 0;
       Object.keys(updatedGarrison).forEach((rawUnitId) => {
         const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
+        const sent = result.stats.unitsSent?.[unitId] ?? 0;
         const killed = Math.max(0, Math.floor(computedCasualties.killed[unitId] ?? 0));
         const wounded = Math.max(0, Math.floor(computedCasualties.wounded[unitId] ?? 0));
+        
         let entries = updatedGarrison[unitId] ?? [];
-        if (killed > 0) {
-          const killedTake = takeFromHighestLevel(entries, killed);
+        
+        if (sent > 0) {
+          const { remaining: stayInBase, taken: armyEntries } = takeBestUnits(entries, sent);
+          
+          const killedResult = takeBestUnits(armyEntries, killed);
+          let survivingArmy = killedResult.remaining;
+          
+          const woundedResult = takeBestUnits(survivingArmy, wounded);
+          survivingArmy = woundedResult.remaining;
+          const woundedArmy = woundedResult.taken;
+          
+          const veteranizedSurviving = survivingArmy.map(incrementVeteranStats);
+          const veteranizedWounded = woundedArmy.map(incrementVeteranStats);
+          
+          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);
+          
+          movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
+          if (veteranizedWounded.length > 0) {
+            updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], veteranizedWounded);
+          }
+        } else if (killed > 0 || wounded > 0) {
+          // Fallback if unitsSent was not provided (legacy battles)
+          const killedTake = takeBestUnits(entries, killed);
           entries = killedTake.remaining;
-        }
-        if (wounded > 0) {
-          const woundedTake = takeFromHighestLevel(entries, wounded);
-          entries = woundedTake.remaining;
-          movedWounded += woundedTake.removedByLevel.reduce((sum, e) => sum + e.count, 0);
-          if (woundedTake.removedByLevel.length > 0) {
-            updatedWounded[unitId] = mergeEntriesByLevel(updatedWounded[unitId] ?? [], woundedTake.removedByLevel);
+          if (wounded > 0) {
+            const woundedTake = takeBestUnits(entries, wounded);
+            entries = woundedTake.remaining;
+            movedWounded += woundedTake.taken.reduce((sum, e) => sum + e.count, 0);
+            if (woundedTake.taken.length > 0) {
+              updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], woundedTake.taken);
+            }
           }
         }
+        
         updatedGarrison[unitId] = entries;
       });
 
