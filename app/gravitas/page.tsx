@@ -131,7 +131,7 @@ export default function GravitasPage() {
   const [quickActionsOpen, setQuickActionsOpen] = useState(false);
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);

@@ -4,7 +4,8 @@ import { useState, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X, Lock, CheckCircle2, Play, Beaker, AlertTriangle, FlaskConical } from "lucide-react";
 import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
-import { RESEARCH_PROJECTS, type ResearchProject, type ResearchFieldId, type ResearchTier } from "@/lib/gravitas/sim/research/projects";
+import { RESEARCH_PROJECTS } from "@/lib/gravitas/sim/research/projects";
+import type { ResearchProject, ResearchFieldId, ResearchTier } from "@/lib/gravitas/sim/research/types";
 import { canResearch } from "@/lib/gravitas/sim/research/engine";
 import { loadSavedGalaxyInventory } from "@/lib/gravitas/world/mission";
 
@@ -195,7 +196,7 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
                   if (!isCompleted && !isAvailable && !isCurrentlyActive) {
                     if (state.research.active) lockReason = "Busy";
                     else if (state.moduleLevels.core < (tier === 1 ? 3 : tier === 2 ? 8 : tier === 3 ? 14 : 20)) lockReason = "Core LVL";
-                    else if (project.prerequisites.some(r => !state.research.completed.includes(r))) lockReason = "Prereq";
+                    else if (project.prerequisites.some((r: string) => !state.research.completed.includes(r))) lockReason = "Prereq";
                     else lockReason = "Cost";
                   }
 
@@ -230,7 +231,8 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
                       {!isCompleted && (
                         <div className="flex items-end justify-between mt-auto">
                           <div className="flex flex-wrap gap-1.5">
-                            {Object.entries(project.materialCost).map(([mat, amount]) => {
+                            {Object.entries(project.materialCost).map(([mat, rawAmount]) => {
+                              const amount = rawAmount as number;
                               if (!amount) return null;
                               const hasEnough = (inventory[mat as keyof typeof inventory] ?? 0) >= amount;
                               return (
