@@ -53,7 +53,7 @@ const CATEGORY_CONFIG: Record<string, {
     },
     color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
   },
-  geschichte-explore: {
+  "geschichte-explore": {
     label: { en: "History Explore", hu: "Történelem Felfedezés", de: "Geschichte entdecken", ro: "Explorare Istorie" },
     desc: {
       en: "Learn about history through interactive missions!",
