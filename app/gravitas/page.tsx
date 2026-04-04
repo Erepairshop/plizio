@@ -7,7 +7,7 @@ import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
   AlertTriangle, Activity, Zap, ShieldAlert,
   Layers, FileText, X, RotateCcw,
-  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound
+  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound, ArrowUpCircle
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
@@ -26,6 +26,7 @@ import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
 import { normalizeContinuationState } from "@/lib/gravitas/sim/continuation";
 import GalaxyInteriorView from "@/components/gravitas/GalaxyInteriorView";
 import GravitasMaterialStrip from "@/components/gravitas/GravitasMaterialStrip";
+import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
 import {
   AvatarBaseChip,
   HUDChip,
@@ -105,7 +106,7 @@ export default function GravitasPage() {
   const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");
   const [shopOpen, setShopOpen] = useState(false);
-  const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | null>(null);
+  const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | "upgrades" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
@@ -1633,6 +1634,11 @@ export default function GravitasPage() {
               active={activePanel === "marks"}
               onClick={() => setActivePanel(activePanel === "marks" ? null : "marks")}
             />
+          <MapMiniButton
+            icon={<ArrowUpCircle size={14} />}
+            active={activePanel === "upgrades"}
+            onClick={() => setActivePanel(activePanel === "upgrades" ? null : "upgrades")}
+          />
           <MapMiniButton
             icon={<FileText size={14} />}
             active={activePanel === "journal"}

@@ -1,7 +1,8 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
-import { FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap } from "lucide-react";
+import { ArrowUpCircle, FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap } from "lucide-react";
+import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
 import { Badge, MainAction, MarkBox, StatItem } from "@/components/gravitas/GravitasUiParts";
 
@@ -236,6 +237,7 @@ export default function GravitasOverlays(props: Props) {
               <h2 className="text-xl font-black uppercase tracking-tight flex items-center gap-2">
                 {activePanel === "modules" && <><LayoutGrid size={20} className="text-cyan-400" /> {localize(ui.modules)}</>}
                 {activePanel === "marks" && <><ShieldHalf size={20} className="text-rose-400" /> {localize(ui.marks)}</>}
+                {activePanel === "upgrades" && <><ArrowUpCircle size={20} className="text-emerald-400" /> {localize({ en: "Upgrades", hu: "Fejlesztések", de: "Upgrades", ro: "Îmbunătățiri" })}</>}
                 {activePanel === "journal" && <><FileText size={20} className="text-amber-400" /> {localize(ui.journal)}</>}
               </h2>
               <button onClick={() => setActivePanel(null)} className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center">
@@ -265,7 +267,7 @@ export default function GravitasOverlays(props: Props) {
                           <div className="flex items-center justify-between mb-2">
                             <Icon size={16} className={isSelected ? "text-cyan-400" : "text-white/40"} />
                             <div className="flex items-center gap-2">
-                              <div className="rounded-full border border-white/10 bg-white/5 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.16em] text-white/65">LVL 1</div>
+                              <div className="rounded-full border border-white/10 bg-white/5 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.16em] text-white/65">LVL {state.moduleLevels?.[m.id as keyof typeof state.moduleLevels] ?? 1}</div>
                               <div className="text-[10px] font-black">{m.integrity}%</div>
                             </div>
                           </div>
@@ -310,6 +312,9 @@ export default function GravitasOverlays(props: Props) {
                     <div className="h-2 w-full bg-white/5 rounded-full overflow-hidden"><div className={`h-full transition-all duration-500 ${state.entropy > 70 ? "bg-rose-500" : state.entropy > 40 ? "bg-amber-500" : "bg-cyan-500"}`} style={{ width: `${state.entropy}%` }} /></div>
                   </div>
                 </div>
+              )}
+              {activePanel === "upgrades" && (
+                <ModuleUpgradePanel state={state} dispatch={(cmd: any) => doAction(cmd, "rgba(16,185,129,0.4)")} lang={lang} />
               )}
               {activePanel === "journal" && (
                 <div className="space-y-4">
