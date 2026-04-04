@@ -1140,8 +1140,9 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
   return stabilizeContinuationTick(
     state,
     checkStarholdMilestones(
-      tickOfficers(
-        tickCommanderProfile(
+      tickFactionWars(
+        tickOfficers(
+          tickCommanderProfile(
           tickDilemmaSpawn(
             tickDilemmaEffects(
               tickGalaxyCycle(
@@ -1165,6 +1166,7 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
                                     ),
                                   ),
                                 ),
+                              ),
                               ),
                             ),
                           ),

@@ -233,6 +233,27 @@ export function getEnemyBuildingById(id: string): EnemyBuilding | null {
   return ENEMY_BUILDINGS[key] ?? null;
 }
 
+import { GALAXY_FACTIONS } from "./factions";
+
+export function getFactionFleetAsEnemy(factionId: import("../faction/types").FactionId, intensity: number): EnemyBuilding {
+  const f = GALAXY_FACTIONS[factionId] || GALAXY_FACTIONS.synthoid;
+  return {
+    id: "raider-stronghold", // Treat as a moving fleet, reuse stronghold rules for now
+    stats: {
+      armor: 20 + f.profile.barrier * 0.5 * intensity,
+      shield: 20 + f.profile.energy * 0.5 * intensity,
+      firepower: 30 + f.profile.firepower * 0.6 * intensity,
+      speed: 20 + f.profile.tactics * 0.5 * intensity,
+      garrison: 50 + f.profile.inspiration * 1.5 * intensity,
+      antiAir: 10 + f.profile.intel * 0.5 * intensity,
+    },
+    traits: [],
+    difficulty: Math.min(10, intensity + 3),
+    resetCooldownMs: 0,
+    lootTableId: "loot_raider_stronghold",
+  };
+}
+
 export function getBattleTactic(tacticId: BattleTacticId): BattleTactic {
   return BATTLE_TACTICS[tacticId];
 }

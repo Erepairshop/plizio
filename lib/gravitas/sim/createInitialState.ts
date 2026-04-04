@@ -17,6 +17,7 @@ import { createInitialSupplyRouteState } from "./supplyroute/index";
 import { createInitialCodexState } from "./codex/index";
 import { createInitialNotificationState } from "./notifications/index";
 import { createInitialOfficerState } from "./officers/index";
+import { createInitialFactionWarState } from "./factionwars/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 

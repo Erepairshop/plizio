@@ -15,6 +15,7 @@ import { createInitialSupplyRouteState } from "./supplyroute/index";
 import { createInitialCodexState } from "./codex/index";
 import { createInitialNotificationState } from "./notifications/index";
 import { createInitialOfficerState } from "./officers/index";
+import { createInitialFactionWarState } from "./factionwars/index";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -405,6 +406,9 @@ export function loadGravitasState(): StarholdState | null {
       research: parsed.research ?? createInitialResearchState(["weapons", "shields"]),
       supplyRoutes: parsed.supplyRoutes ?? createInitialSupplyRouteState(),
       codex: parsed.codex ?? createInitialCodexState(),
+      notifications: parsed.notifications ?? createInitialNotificationState(),
+      officers: parsed.officers ?? createInitialOfficerState(),
+      factionWars: parsed.factionWars ?? createInitialFactionWarState(),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

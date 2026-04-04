@@ -357,4 +357,5 @@ export type StarholdCommand =
   | { type: "DISMISS_NOTIFICATION"; id: string }
   | { type: "MARK_NOTIFICATIONS_READ" }
   | { type: "RECRUIT_OFFICER"; officerId: string }
-  | { type: "DISMISS_OFFICER"; officerId: string };
+  | { type: "DISMISS_OFFICER"; officerId: string }
+  | { type: "APPLY_FACTION_WAR_RESULT"; result: import("./battle/types").BattleResult; warId: string; side: "attacker" | "defender" };

@@ -820,6 +820,130 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
     case "CLAIM_MILESTONE": {
       return claimStarholdMilestone(state, command.milestoneId);
     }
+    case "APPLY_FACTION_WAR_RESULT": {
+      const { result, warId, side } = command;
+      const war = state.factionWars.activeWars.find(w => w.id === warId);
+      if (!war) return state; // War already ended or expired
+
+      let nextResources = { ...state.resources };
+      if (result.loot) {
+        Object.values(result.loot.materials).forEach((amount) => {
+          nextResources.supply += amount ?? 0;
+        });
+      }
+
+      const computedCasualties = result.casualties ?? { totalKilled: 0, totalWounded: 0, killed: {}, wounded: {} };
+      const updatedGarrison = { ...state.warRoom.garrison };
+      const updatedWounded = { ...state.repairBay.wounded };
+      let movedWounded = 0;
+      Object.keys(updatedGarrison).forEach((rawUnitId) => {
+        const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
+        const sent = result.stats.unitsSent?.[unitId] ?? 0;
+        const killed = Math.max(0, Math.floor(computedCasualties.killed[unitId] ?? 0));
+        const wounded = Math.max(0, Math.floor(computedCasualties.wounded[unitId] ?? 0));
+        
+        let entries = updatedGarrison[unitId] ?? [];
+        if (sent > 0) {
+          const { remaining: stayInBase, taken: armyEntries } = takeBestUnits(entries, sent);
+          const killedResult = takeBestUnits(armyEntries, killed);
+          let survivingArmy = killedResult.remaining;
+          const woundedResult = takeBestUnits(survivingArmy, wounded);
+          survivingArmy = woundedResult.remaining;
+          const woundedArmy = woundedResult.taken;
+          
+          const veteranizedSurviving = survivingArmy.map(incrementVeteranStats);
+          const veteranizedWounded = woundedArmy.map(incrementVeteranStats);
+          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);
+          movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
+          if (veteranizedWounded.length > 0) {
+            updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], veteranizedWounded);
+          }
+        }
+        updatedGarrison[unitId] = entries;
+      });
+
+      let nextOfficers = state.officers;
+      if (result.officerStatus) {
+        const os = result.officerStatus;
+        const oIndex = nextOfficers.active.findIndex(o => o.id === os.id);
+        if (oIndex !== -1) {
+          const o = { ...nextOfficers.active[oIndex] };
+          if (os.died) {
+            nextOfficers = { ...nextOfficers, active: nextOfficers.active.filter(x => x.id !== os.id) };
+          } else {
+            o.xp += os.xpGained;
+            const nextLevel = Math.floor(o.xp / 100) + 1;
+            if (nextLevel > o.level && o.level < 10) o.level = Math.min(10, nextLevel);
+            if (os.wounded) {
+              o.status = "wounded";
+              o.availableAt = Date.now() + 4 * 60 * 60 * 1000;
+            }
+            const newActive = [...nextOfficers.active];
+            newActive[oIndex] = o;
+            nextOfficers = { ...nextOfficers, active: newActive };
+          }
+        }
+      }
+
+      // Faction rep changes
+      let rep = { ...state.factionReputation.reputation };
+      const helpedId = side === "attacker" ? war.attackerId : war.defenderId;
+      const opposedId = side === "attacker" ? war.defenderId : war.attackerId;
+      
+      if (result.victory) {
+        rep[helpedId] = Math.min(100, (rep[helpedId] || 0) + 20);
+        rep[opposedId] = Math.max(-100, (rep[opposedId] || 0) - 20);
+      } else {
+        // failed to help: minor penalty
+        rep[helpedId] = Math.max(-100, (rep[helpedId] || 0) - 5);
+        rep[opposedId] = Math.max(-100, (rep[opposedId] || 0) - 10);
+      }
+
+      const cooldownMs = 60 * 60 * 1000;
+      const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
+        buildingId: "faction_fleet" as any,
+        at: Date.now(),
+        dominantRole: "tank",
+        dominantUnitType: "tank",
+        victory: result.victory,
+        durationMs: result.durationMs,
+        damageDealt: result.stats.damageDealt,
+        damageReceived: result.stats.damageReceived,
+      };
+
+      return {
+        ...state,
+        resources: {
+          ...nextResources,
+          morale: result.victory
+            ? Math.min(100, state.resources.morale + 15)
+            : Math.max(0, state.resources.morale - 10),
+        },
+        warRoom: { ...state.warRoom, garrison: updatedGarrison },
+        repairBay: {
+          ...state.repairBay,
+          wounded: updatedWounded,
+          woundedAt: movedWounded > 0 ? Date.now() : state.repairBay.woundedAt,
+        },
+        officers: nextOfficers,
+        factionReputation: {
+          ...state.factionReputation,
+          reputation: rep,
+        },
+        factionWars: {
+          ...state.factionWars,
+          activeWars: state.factionWars.activeWars.filter(w => w.id !== warId), // War ends after intervention
+        },
+        battleState: {
+          ...state.battleState,
+          battleHistory: [...state.battleState.battleHistory, newHistoryEntry],
+          buildingCooldowns: {
+            ...state.battleState.buildingCooldowns,
+            [warId]: Date.now() + cooldownMs,
+          },
+        },
+      };
+    }
     case "APPLY_BATTLE_RESULT": {
       const { result, nodeId } = command;
       let nextResources = { ...state.resources };

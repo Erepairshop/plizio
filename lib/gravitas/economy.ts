@@ -248,9 +248,29 @@ export const UNIT_COSTS = {
   },
   nexus: {
     base: { lumen_dust: 25, aether_ore: 15 } satisfies MaterialCost,
-    perLevel: { lumen_dust: 10, aether_ore: 8 } satisfies MaterialCost,
+    perLevel: { lumen_dust: 10, aether_ore: 6 } satisfies MaterialCost,
   },
-} as const;
+  korgath_berserker: {
+    base: { ember_shards: 60, sable_alloy: 40 } satisfies MaterialCost,
+    perLevel: { ember_shards: 25, sable_alloy: 15 } satisfies MaterialCost,
+  },
+  velari_shadow: {
+    base: { aether_ore: 60, verdant_crystals: 30 } satisfies MaterialCost,
+    perLevel: { aether_ore: 25, verdant_crystals: 12 } satisfies MaterialCost,
+  },
+  drex_marauder: {
+    base: { lumen_dust: 50, ember_shards: 30 } satisfies MaterialCost,
+    perLevel: { lumen_dust: 20, ember_shards: 12 } satisfies MaterialCost,
+  },
+  synthoid_titan: {
+    base: { sable_alloy: 80, aether_ore: 20 } satisfies MaterialCost,
+    perLevel: { sable_alloy: 35, aether_ore: 8 } satisfies MaterialCost,
+  },
+  noma_weaver: {
+    base: { verdant_crystals: 50, lumen_dust: 40 } satisfies MaterialCost,
+    perLevel: { verdant_crystals: 20, lumen_dust: 16 } satisfies MaterialCost,
+  },
+  } as const;
 
 export const WARROOM_PRODUCTION_CONFIG = {
   batchBaseSizePerLevel: 10,

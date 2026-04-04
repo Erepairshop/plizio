@@ -78,6 +78,7 @@ export default function WarRoomPanel({
       <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
         {WARROOM_UNIT_ORDER.map((unitId) => {
           const def = WARROOM_UNITS[unitId];
+          if (def.requiredFaction && (state.factionReputation.reputation[def.requiredFaction] || 0) < 61) return null;
           const slot = warRoom.productionSlots[unitId];
           return (
             <WarRoomUnitCard

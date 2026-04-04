@@ -141,13 +141,63 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "officers" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "officers" | "factionwars" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [battleResult, setBattleResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
   const [battleReportResult, setBattleReportResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
   const [showReplay, setShowReplay] = useState(false);
+  const [factionWarSetup, setFactionWarSetup] = useState<{ war: import("@/lib/gravitas/sim/factionwars/types").FactionWar, side: "attacker" | "defender" } | null>(null);
+
+  const handleExecuteFactionWarStrike = useCallback((army: import("@/lib/gravitas/sim/battle/types").BattleArmy, allocation: import("@/lib/gravitas/sim/battle/avatarCombat").AvatarCombatAllocation) => {
+    if (!factionWarSetup) return;
+    const { war, side } = factionWarSetup;
+    
+    const enemyFactionId = side === "attacker" ? war.defenderId : war.attackerId;
+    const enemy = import("@/lib/gravitas/sim/battle/enemies").getFactionFleetAsEnemy(enemyFactionId, war.intensity);
+    const faction = GALAXY_FACTIONS[enemyFactionId];
+    
+    const descriptor: import("@/lib/gravitas/sim/battle/buildingDescriptors").BuildingDescriptor = {
+      buildingId: "faction_fleet",
+      name: { en: `${faction.name.en} Fleet`, hu: `${faction.name.hu} Flotta`, de: `${faction.name.de} Flotte`, ro: `Flota ${faction.name.ro}` },
+      description: faction.description,
+      condition: { type: "active", label: { en: "Active", hu: "Aktív", de: "Aktiv", ro: "Activ" } },
+      material: { type: "energy", label: { en: "Energy Shields", hu: "Energia Pajzs", de: "Energieschilde", ro: "Scuturi Energetice" } },
+      weaponry: { type: "plasma", label: { en: "Plasma Batteries", hu: "Plazma Ütegek", de: "Plasmabatterien", ro: "Baterii cu Plasmă" } },
+      tacticStyle: { type: "chaotic", label: faction.combatStyle },
+    };
+
+    const result = resolveBattle({
+      army,
+      enemy,
+      playerState: state,
+      avatarCombat: {
+        ...state.battleState.avatarCombat,
+        allocation
+      },
+      scoutReport: {
+        buildingId: "faction_fleet",
+        intelLevel: 100, // full intel on fleets
+        revealedStats: enemy.stats,
+        revealedTraits: [],
+        lastScoutedAt: Date.now(),
+      },
+      descriptor,
+      faction,
+      battleHistory: [], 
+    });
+
+    setBattleResult(result);
+    setBattleNode({
+      id: war.id,
+      type: "battle",
+      title: descriptor.name,
+      description: descriptor.description,
+      position: { x: 0, y: 0 }, cardOffset: { x: 0, y: 0 }, radius: 0, assetSrc: "", assetClassName: "", motion: { x: [], y: [], rotate: [] }, motionDuration: 0, details: [], footer: { en: "", hu: "", de: "", ro: "" }
+    });
+    setFactionWarSetup(null);
+  }, [state, factionWarSetup]);
 
   const handleLaunchStrike = useCallback((node: import("@/lib/gravitas/world/types").GalaxyNode) => {
     setArmySetupNode(node);
@@ -1671,14 +1721,24 @@ export default function GravitasPage() {
                   army={{ units: Object.fromEntries(Object.entries(state.warRoom.garrison).map(([k, entries]) => [k, (entries as any[]).reduce((s: number, e: any) => s + e.count, 0)])), tacticId: "aggressive", officerId: undefined }}
                   intelBefore={state.battleState.scoutReports[battleNode.id]?.intelLevel ?? 0}
                   onBackToGalaxy={() => {
-                    dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
+                    if (battleNode?.id.startsWith("war_")) {
+                      const [warId, side] = battleNode.id.split(":");
+                      dispatch({ type: "APPLY_FACTION_WAR_RESULT", result: battleReportResult, warId, side: side as "attacker" | "defender" });
+                    } else {
+                      dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
+                    }
                     setBattleReportResult(null);
                     setBattleNode(null);
                   }}
                   onRetry={() => {
-                    dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
+                    if (battleNode?.id.startsWith("war_")) {
+                      const [warId, side] = battleNode.id.split(":");
+                      dispatch({ type: "APPLY_FACTION_WAR_RESULT", result: battleReportResult, warId, side: side as "attacker" | "defender" });
+                    } else {
+                      dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
+                      handleLaunchStrike(battleNode);
+                    }
                     setBattleReportResult(null);
-                    handleLaunchStrike(battleNode);
                   }}
                   lang={lang}
                 />
@@ -2079,6 +2139,12 @@ export default function GravitasPage() {
             icon={<Medal size={14} />}
             active={interiorView === "officers"}
             onClick={() => setInteriorView(interiorView === "officers" ? null : "officers")}
+          />
+          <MapMiniButton
+            icon={<Swords size={14} />}
+            active={interiorView === "factionwars"}
+            onClick={() => setInteriorView(interiorView === "factionwars" ? null : "factionwars")}
+            showDot={state.factionWars.activeWars.length > 0}
           />
           <MapMiniButton
             icon={<FlaskConical size={14} />}

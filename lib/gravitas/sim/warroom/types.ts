@@ -3,7 +3,7 @@ import type { GalaxyMaterialId } from "../../world/mission";
 
 // ── Unit identity ──────────────────────────────────────────────
 
-export type WarRoomUnitId = "sentinel" | "vanguard" | "wraith" | "nexus";
+export type WarRoomUnitId = "sentinel" | "vanguard" | "wraith" | "nexus" | "korgath_berserker" | "velari_shadow" | "drex_marauder" | "synthoid_titan" | "noma_weaver";
 export type WarRoomUnitRole = "tank" | "assault" | "recon" | "support";
 
 // ── Unit definition (static data) ──────────────────────────────

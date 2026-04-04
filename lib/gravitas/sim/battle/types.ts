@@ -224,4 +224,9 @@ export const BATTLE_UNIT_PROFILES: Record<string, BattleUnitProfile> = {
   vanguard: { id: "vanguard", role: "assault", attack: 24, defense: 12, speed: 16, hp: 28 },
   wraith: { id: "wraith", role: "recon", attack: 14, defense: 10, speed: 26, hp: 20 },
   nexus: { id: "nexus", role: "support", attack: 6, defense: 14, speed: 12, hp: 22 },
+  korgath_berserker: { id: "korgath_berserker", role: "assault", attack: 40, defense: 15, speed: 18, hp: 40 },
+  velari_shadow: { id: "velari_shadow", role: "recon", attack: 25, defense: 12, speed: 45, hp: 25 },
+  drex_marauder: { id: "drex_marauder", role: "assault", attack: 30, defense: 20, speed: 20, hp: 35 },
+  synthoid_titan: { id: "synthoid_titan", role: "tank", attack: 15, defense: 60, speed: 5, hp: 80 },
+  noma_weaver: { id: "noma_weaver", role: "support", attack: 10, defense: 30, speed: 25, hp: 35 },
 };

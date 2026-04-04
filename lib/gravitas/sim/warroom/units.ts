@@ -89,6 +89,46 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
     cost: UNIT_COSTS.nexus,
     minLevel: 1,
   },
+  korgath_berserker: {
+    id: "korgath_berserker",
+    icon: "🪓",
+    name: { en: "Korgath Berserker", hu: "Korgath Berserker", de: "Korgath Berserker", ro: "Berserker Korgath" },
+    desc: { en: "Elite pirate assault force.", hu: "Elit kalóz rohamcsapat.", de: "Elitäre Piraten-Sturmtruppe.", ro: "Forță de asalt de elită pirat." },
+    role: "assault", focus: { en: "Extreme damage", hu: "Extrém sebzés", de: "Extremer Schaden", ro: "Daune extreme" },
+    baseStats: { attack: 40, defense: 15, speed: 18, hp: 40 }, cost: UNIT_COSTS.korgath_berserker, minLevel: 10, requiredFaction: "korgath"
+  },
+  velari_shadow: {
+    id: "velari_shadow",
+    icon: "🥷",
+    name: { en: "Velari Shadow", hu: "Velari Árnyék", de: "Velari Schatten", ro: "Umbră Velari" },
+    desc: { en: "Extremely fast stealth operative.", hu: "Extrém gyors lopakodó ügynök.", de: "Extrem schnelle Tarnkappeneinheit.", ro: "Agent invizibil extrem de rapid." },
+    role: "recon", focus: { en: "Extreme speed", hu: "Extrém sebesség", de: "Extreme Geschwindigkeit", ro: "Viteză extremă" },
+    baseStats: { attack: 25, defense: 12, speed: 45, hp: 25 }, cost: UNIT_COSTS.velari_shadow, minLevel: 10, requiredFaction: "velari"
+  },
+  drex_marauder: {
+    id: "drex_marauder",
+    icon: "🐜",
+    name: { en: "Drex Marauder", hu: "Drex Fosztogató", de: "Drex Plünderer", ro: "Prădător Drex" },
+    desc: { en: "Swarm assault unit with high resilience.", hu: "Raj támadó egység nagy szívóssággal.", de: "Schwarm-Sturmeinheit mit hoher Widerstandskraft.", ro: "Unitate de asalt roi cu rezistență ridicată." },
+    role: "assault", focus: { en: "Balanced assault", hu: "Kiegyensúlyozott roham", de: "Ausgewogener Angriff", ro: "Asalt echilibrat" },
+    baseStats: { attack: 30, defense: 20, speed: 20, hp: 35 }, cost: UNIT_COSTS.drex_marauder, minLevel: 10, requiredFaction: "drex"
+  },
+  synthoid_titan: {
+    id: "synthoid_titan",
+    icon: "🦾",
+    name: { en: "Synthoid Titan", hu: "Synthoid Titán", de: "Synthoid Titan", ro: "Titan Synthoid" },
+    desc: { en: "Massive mechanized fortress.", hu: "Hatalmas gépesített erőd.", de: "Massive mechanisierte Festung.", ro: "Fortăreață mecanizată masivă." },
+    role: "tank", focus: { en: "Extreme defense", hu: "Extrém védelem", de: "Extreme Verteidigung", ro: "Apărare extremă" },
+    baseStats: { attack: 15, defense: 60, speed: 5, hp: 80 }, cost: UNIT_COSTS.synthoid_titan, minLevel: 10, requiredFaction: "synthoid"
+  },
+  noma_weaver: {
+    id: "noma_weaver",
+    icon: "🔮",
+    name: { en: "Noma Weaver", hu: "Noma Szövő", de: "Noma Weber", ro: "Țesător Noma" },
+    desc: { en: "Mystical support manipulating the battlefield.", hu: "Misztikus támogató a harctér manipulálásához.", de: "Mystischer Support zur Manipulation des Schlachtfelds.", ro: "Suport mistic care manipulează câmpul de luptă." },
+    role: "support", focus: { en: "Tactical support", hu: "Taktikai támogatás", de: "Taktischer Support", ro: "Suport tactic" },
+    baseStats: { attack: 10, defense: 30, speed: 25, hp: 35 }, cost: UNIT_COSTS.noma_weaver, minLevel: 10, requiredFaction: "noma"
+  },
 };
 
 /** Render order for UI cards */
@@ -97,6 +137,11 @@ export const WARROOM_UNIT_ORDER: WarRoomUnitId[] = [
   "vanguard",
   "wraith",
   "nexus",
+  "korgath_berserker",
+  "velari_shadow",
+  "drex_marauder",
+  "synthoid_titan",
+  "noma_weaver",
 ];
 
 export function getScaledUnitStats(unitId: WarRoomUnitId, level: number) {
