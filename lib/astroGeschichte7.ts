@@ -28,7 +28,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "☀️", color: "#6366F1", sortRange: [1, 10],
     topicKeys: ["absolutismus_frankreich", "versailler_hofleben", "merkantilismus"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Ludwig Quiz", en: "Louis XIV Quiz", hu: "Lajos kvíz", ro: "Quiz Ludovic" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Ludwig Quiz", en: "Louis XIV Quiz", hu: "Lajos kvíz", ro: "Quiz Ludovic" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -40,7 +40,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🌟", color: "#FBBF24", sortRange: [1, 10],
     topicKeys: ["aufklaerung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Vernunft Quiz", en: "Reason Quiz", hu: "Ész kvíz", ro: "Quiz rațiune" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Vernunft Quiz", en: "Reason Quiz", hu: "Ész kvíz", ro: "Quiz rațiune" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -52,7 +52,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🗽", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["amerikanische_revolution"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "USA Quiz", en: "USA Quiz", hu: "USA kvíz", ro: "Quiz SUA" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "USA Quiz", en: "USA Quiz", hu: "USA kvíz", ro: "Quiz SUA" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -64,7 +64,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🔥", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["ursachen_franz_rev", "sturm_bastille", "schreckensherrschaft"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Revolutions Quiz", en: "Revolution Quiz", hu: "Forradalom kvíz", ro: "Quiz revoluție" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Revolutions Quiz", en: "Revolution Quiz", hu: "Forradalom kvíz", ro: "Quiz revoluție" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -76,7 +76,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🎩", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["aufstieg_napoleon", "ende_napoleon"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Napoleon Quiz", en: "Napoleon Quiz", hu: "Napóleon kvíz", ro: "Quiz Napoleon" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Napoleon Quiz", en: "Napoleon Quiz", hu: "Napóleon kvíz", ro: "Quiz Napoleon" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -88,7 +88,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🤝", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["wiener_kongress"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kongress Quiz", en: "Congress Quiz", hu: "Kongresszus kvíz", ro: "Quiz congres" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Kongress Quiz", en: "Congress Quiz", hu: "Kongresszus kvíz", ro: "Quiz congres" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -100,7 +100,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🏭", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["industrielle_revolution_anfang"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Industrie Quiz", en: "Industry Quiz", hu: "Ipar kvíz", ro: "Quiz industrie" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Industrie Quiz", en: "Industry Quiz", hu: "Ipar kvíz", ro: "Quiz industrie" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -112,7 +112,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🇩🇪", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["gesellschaftlicher_wandel"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "1848 Quiz", en: "1848 Quiz", hu: "1848 kvíz", ro: "Quiz 1848" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "1848 Quiz", en: "1848 Quiz", hu: "1848 kvíz", ro: "Quiz 1848" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -124,7 +124,7 @@ export const K7_ISLANDS: IslandDef[] = [
     icon: "🌟", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["renaissance", "reformation", "absolutismus_frankreich", "aufklaerung", "franzoesische_revolution_anfang", "industrielle_revolution_anfang"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],

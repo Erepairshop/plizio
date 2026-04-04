@@ -28,7 +28,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🌍", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["imperialismus"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kolonien Quiz", en: "Colony Quiz", hu: "Gyarmat kvíz", ro: "Quiz colonii" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Kolonien Quiz", en: "Colony Quiz", hu: "Gyarmat kvíz", ro: "Quiz colonii" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -40,7 +40,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "⚔️", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["erster_weltkrieg_beginn", "erster_weltkrieg_verlauf"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "WWI Quiz", en: "WWI Quiz", hu: "I. vh. kvíz", ro: "Quiz Primul RM" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "WWI Quiz", en: "WWI Quiz", hu: "I. vh. kvíz", ro: "Quiz Primul RM" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -52,7 +52,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🏛️", color: "#FBBF24", sortRange: [1, 10],
     topicKeys: ["weimarer_republik", "weltwirtschaftskrise"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Weimar Quiz", en: "Weimar Quiz", hu: "Weimar kvíz", ro: "Quiz Weimar" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Weimar Quiz", en: "Weimar Quiz", hu: "Weimar kvíz", ro: "Quiz Weimar" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -64,7 +64,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "⚠️", color: "#991B1B", sortRange: [1, 10],
     topicKeys: ["ns_machtuebernahme", "ns_ideologie", "ns_propaganda"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "NS-Zeit Quiz", en: "NS Quiz", hu: "Náci kvíz", ro: "Quiz nazism" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "NS-Zeit Quiz", en: "NS Quiz", hu: "Náci kvíz", ro: "Quiz nazism" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -76,7 +76,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "💥", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["zweiter_weltkrieg", "holocaust", "widerstand_ns"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "WWII Quiz", en: "WWII Quiz", hu: "II. vh. kvíz", ro: "Quiz Al Doilea RM" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "WWII Quiz", en: "WWII Quiz", hu: "II. vh. kvíz", ro: "Quiz Al Doilea RM" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -88,7 +88,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "❄️", color: "#3B82F6", sortRange: [1, 10],
     topicKeys: ["kalter_krieg"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kalter Krieg Quiz", en: "Cold War Quiz", hu: "Hidegháború kvíz", ro: "Quiz Războiul Rece" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Kalter Krieg Quiz", en: "Cold War Quiz", hu: "Hidegháború kvíz", ro: "Quiz Războiul Rece" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -100,7 +100,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🇩🇪", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["wiedervereinigung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Einheit Quiz", en: "Unity Quiz", hu: "Egység kvíz", ro: "Quiz unitate" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Einheit Quiz", en: "Unity Quiz", hu: "Egység kvíz", ro: "Quiz unitate" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -112,7 +112,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🇪🇺", color: "#1E3A8A", sortRange: [1, 10],
     topicKeys: ["europa_einigung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "EU Quiz", en: "EU Quiz", hu: "EU kvíz", ro: "Quiz UE" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "EU Quiz", en: "EU Quiz", hu: "EU kvíz", ro: "Quiz UE" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -124,7 +124,7 @@ export const K8_ISLANDS: IslandDef[] = [
     icon: "🌟", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["imperialismus", "erster_weltkrieg_beginn", "weimarer_republik", "ns_machtuebernahme", "zweiter_weltkrieg", "kalter_krieg", "wiedervereinigung", "europa_einigung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],

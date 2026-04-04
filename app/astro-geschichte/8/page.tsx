@@ -254,7 +254,9 @@ export default function AstroGeschichteK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType !== "orbit-quiz" && mission.gameType !== "star-match" && mission.gameType !== "black-hole" && mission.gameType !== "speed-round") {
+    if (mission.gameType === "geschichte-explore") {
+      // no question generation needed for K8Explorer
+    } else if (mission.gameType !== "orbit-quiz" && mission.gameType !== "star-match" && mission.gameType !== "black-hole" && mission.gameType !== "speed-round") {
     } else {
       const qCount = mission.gameType === "star-match" ? 15 : 10;
       const qs = generateIslandQuestionsK8(activeIsland, lang as Lang, qCount);
@@ -389,7 +391,7 @@ export default function AstroGeschichteK8Page() {
     );
   }
 
-  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round") {
+  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "geschichte-explore") {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
         <Starfield />
@@ -399,6 +401,7 @@ export default function AstroGeschichteK8Page() {
           {screen === "black-hole" && <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
           {screen === "star-match" && <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />}
           {screen === "speed-round" && <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
+          {screen === "geschichte-explore" && activeIsland && <K8Explorer island={activeIsland} grade={8} color={bgColor} lang={lang} onDone={handleMissionDone} />}
         </div>
         <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
       </div>

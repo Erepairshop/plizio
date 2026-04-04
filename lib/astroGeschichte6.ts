@@ -28,7 +28,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "👑", color: "#8B5CF6", sortRange: [1, 10],
     topicKeys: ["frankenreich_chlodwig"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Franken Quiz", en: "Franks Quiz", hu: "Frankok kvíz", ro: "Quiz franci" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Franken Quiz", en: "Franks Quiz", hu: "Frankok kvíz", ro: "Quiz franci" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -40,7 +40,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🏰", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["karl_der_grosse", "verwaltung_frankenreich"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Karl Quiz", en: "Charlemagne Quiz", hu: "Károly kvíz", ro: "Quiz Carol" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Karl Quiz", en: "Charlemagne Quiz", hu: "Károly kvíz", ro: "Quiz Carol" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -52,7 +52,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🛡️", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["staendegesellschaft_lehnswesen", "rittertum", "burgen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Lehnswesen Quiz", en: "Feudalism Quiz", hu: "Hűbériség kvíz", ro: "Quiz feudalism" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Lehnswesen Quiz", en: "Feudalism Quiz", hu: "Hűbériség kvíz", ro: "Quiz feudalism" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -64,7 +64,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "⚔️", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["kreuzzuege", "folgen_kreuzzuege"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kreuzzüge Quiz", en: "Crusades Quiz", hu: "Hadjáratok kvíz", ro: "Quiz cruciade" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Kreuzzüge Quiz", en: "Crusades Quiz", hu: "Hadjáratok kvíz", ro: "Quiz cruciade" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -76,7 +76,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🏠", color: "#6366F1", sortRange: [1, 10],
     topicKeys: ["stadtentstehung", "zuenfte", "hanse", "stadtleben"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Stadt Quiz", en: "City Quiz", hu: "Város kvíz", ro: "Quiz oraș" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Stadt Quiz", en: "City Quiz", hu: "Város kvíz", ro: "Quiz oraș" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -88,7 +88,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🌙", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["islam_entstehung", "islam_expansion", "kulturkontakt"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Islam Quiz", en: "Islam Quiz", hu: "Iszlám kvíz", ro: "Quiz islam" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Islam Quiz", en: "Islam Quiz", hu: "Iszlám kvíz", ro: "Quiz islam" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -100,7 +100,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "☣️", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["schwarzer_tod"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Krise Quiz", en: "Crisis Quiz", hu: "Válság kvíz", ro: "Quiz criză" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Krise Quiz", en: "Crisis Quiz", hu: "Válság kvíz", ro: "Quiz criză" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -112,7 +112,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "⛪", color: "#A855F7", sortRange: [1, 10],
     topicKeys: ["investiturstreit", "barbarossa", "goldene_bulle"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kirche Quiz", en: "Church Quiz", hu: "Egyház kvíz", ro: "Quiz biserică" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Kirche Quiz", en: "Church Quiz", hu: "Egyház kvíz", ro: "Quiz biserică" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -124,7 +124,7 @@ export const K6_ISLANDS: IslandDef[] = [
     icon: "🌟", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["karl_der_grosse", "staendegesellschaft_lehnswesen", "kreuzzuege", "stadtleben", "investiturstreit", "schwarzer_tod"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
