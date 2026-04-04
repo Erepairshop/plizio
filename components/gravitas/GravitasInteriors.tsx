@@ -2,9 +2,17 @@
 
 import { motion } from "framer-motion";
 import { X } from "lucide-react";
-import { type StarholdModuleId } from "@/lib/gravitas/sim/types";
+import { type StarholdModuleId, type StarholdState, type StarholdCommand } from "@/lib/gravitas/sim/types";
+import ModuleInteriorPanel from "./ModuleInteriorPanel";
 
-export function SensorInteriorView({ onClose }: { onClose: () => void }) {
+interface InteriorViewProps {
+  state: StarholdState;
+  dispatch: (cmd: StarholdCommand) => void;
+  lang: string;
+  onClose: () => void;
+}
+
+export function SensorInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
   return (
     <div className="relative flex h-full flex-col">
       <div className="pointer-events-none absolute inset-0 opacity-90">
@@ -26,16 +34,19 @@ export function SensorInteriorView({ onClose }: { onClose: () => void }) {
         </button>
       </div>
 
-      <div className="relative z-10 flex-1 px-4 pb-4">
-        <div className="relative h-full overflow-hidden rounded-[28px] border border-cyan-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/5 via-transparent to-black/20" />
+      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
+        <div className="relative overflow-hidden rounded-[28px] border border-cyan-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/5 via-transparent to-black/20 pointer-events-none" />
+          <div className="relative z-10">
+            <ModuleInteriorPanel moduleId="sensor" state={state} dispatch={dispatch} lang={lang} accentColor="cyan" />
+          </div>
         </div>
       </div>
     </div>
   );
 }
 
-export function ReactorInteriorView({ onClose }: { onClose: () => void }) {
+export function ReactorInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
   return (
     <div className="relative flex h-full flex-col">
       <div className="pointer-events-none absolute inset-0 opacity-95">
@@ -56,16 +67,19 @@ export function ReactorInteriorView({ onClose }: { onClose: () => void }) {
         </button>
       </div>
 
-      <div className="relative z-10 flex-1 px-4 pb-4">
-        <div className="relative h-full overflow-hidden rounded-[28px] border border-amber-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-amber-400/5 via-transparent to-black/20" />
+      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
+        <div className="relative overflow-hidden rounded-[28px] border border-amber-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-amber-400/5 via-transparent to-black/20 pointer-events-none" />
+          <div className="relative z-10">
+            <ModuleInteriorPanel moduleId="reactor" state={state} dispatch={dispatch} lang={lang} accentColor="amber" />
+          </div>
         </div>
       </div>
     </div>
   );
 }
 
-export function CoreInteriorView({ onClose }: { onClose: () => void }) {
+export function CoreInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
   return (
     <div className="relative flex h-full flex-col">
       <div className="pointer-events-none absolute inset-0 opacity-95">
@@ -86,9 +100,45 @@ export function CoreInteriorView({ onClose }: { onClose: () => void }) {
         </button>
       </div>
 
-      <div className="relative z-10 flex-1 px-4 pb-4">
-        <div className="relative h-full overflow-hidden rounded-[28px] border border-fuchsia-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-fuchsia-400/5 via-transparent to-black/20" />
+      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
+        <div className="relative overflow-hidden rounded-[28px] border border-fuchsia-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-fuchsia-400/5 via-transparent to-black/20 pointer-events-none" />
+          <div className="relative z-10">
+            <ModuleInteriorPanel moduleId="core" state={state} dispatch={dispatch} lang={lang} accentColor="fuchsia" />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export function LogisticsInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
+  return (
+    <div className="relative flex h-full flex-col">
+      <div className="pointer-events-none absolute inset-0 opacity-95">
+        <div
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: "url('/gravitas/logistics-interior.webp')" }}
+        />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(129,140,248,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
+      </div>
+
+      <div className="relative z-10 flex items-start justify-end p-4">
+        <button
+          type="button"
+          onClick={onClose}
+          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+        >
+          <X size={16} />
+        </button>
+      </div>
+
+      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
+        <div className="relative overflow-hidden rounded-[28px] border border-indigo-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+          <div className="absolute inset-0 bg-gradient-to-b from-indigo-400/5 via-transparent to-black/20 pointer-events-none" />
+          <div className="relative z-10">
+            <ModuleInteriorPanel moduleId="logistics" state={state} dispatch={dispatch} lang={lang} accentColor="indigo" />
+          </div>
         </div>
       </div>
     </div>

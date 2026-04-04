@@ -37,12 +37,14 @@ import {
 } from "@/components/gravitas/GravitasUiParts";
 import {
   CoreInteriorView,
+  LogisticsInteriorView,
   ModuleArtOverlay,
   ReactorInteriorView,
   SensorInteriorView,
 } from "@/components/gravitas/GravitasInteriors";
 import GravitasOverlays from "@/components/gravitas/GravitasOverlays";
 import { WarRoomPanel } from "@/components/gravitas/warroom";
+import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
 
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 
@@ -164,14 +166,10 @@ export default function GravitasPage() {
   };
 
   const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
-    if ((moduleId === "sensor" || moduleId === "reactor" || moduleId === "core") && moduleId === selectedModule && moduleInfoOpen) {
-      setInteriorView(moduleId);
-      setModuleInfoOpen(false);
-      return;
-    }
     setSelectedModule(moduleId);
-    setModuleInfoOpen(true);
-  }, [moduleInfoOpen, selectedModule]);
+    setModuleInfoOpen(false);
+    setInteriorView(moduleId);
+  }, []);
 
   const handleOpenWarRoom = useCallback(() => {
     setModuleInfoOpen(false);
@@ -1513,7 +1511,7 @@ export default function GravitasPage() {
                     </div>
                   </div>
                   <div className="rounded-full border border-cyan-400/25 bg-cyan-400/12 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.16em] text-cyan-100">
-                    {selectedModule === "core" ? "CORE LVL 1" : "LVL 1"}
+                    LVL {state.moduleLevels?.[selectedModule] ?? 1}
                   </div>
                 </div>
                 <div className="mt-2 flex items-center gap-1.5">
@@ -1572,6 +1570,7 @@ export default function GravitasPage() {
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[radial-gradient(circle_at_50%_28%,rgba(56,189,248,0.18),transparent_24%),radial-gradient(circle_at_50%_64%,rgba(34,211,238,0.12),transparent_34%),linear-gradient(180deg,#06111d_0%,#081425_42%,#040914_100%)]"
               >
                 <SensorInteriorView
+                  state={state} dispatch={dispatch} lang={lang}
                   onClose={() => setInteriorView(null)}
                 />
               </motion.div>
@@ -1584,7 +1583,7 @@ export default function GravitasPage() {
                 transition={{ duration: 0.25, ease: "easeOut" }}
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
               >
-                <ReactorInteriorView onClose={() => setInteriorView(null)} />
+                <ReactorInteriorView state={state} dispatch={dispatch} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
             {interiorView === "core" && (
@@ -1595,7 +1594,18 @@ export default function GravitasPage() {
                 transition={{ duration: 0.25, ease: "easeOut" }}
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
               >
-                <CoreInteriorView onClose={() => setInteriorView(null)} />
+                <CoreInteriorView state={state} dispatch={dispatch} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "logistics" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#0a1028_42%,#040914_100%)]"
+              >
+                <LogisticsInteriorView state={state} dispatch={dispatch} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
             {interiorView === "warroom" && (
@@ -1616,8 +1626,9 @@ export default function GravitasPage() {
                     <X size={12} />
                   </button>
                 </div>
-                <div className="flex-1 overflow-y-auto p-3">
+                <div className="flex-1 overflow-y-auto p-3 space-y-3">
                   <WarRoomPanel state={state} dispatch={dispatch} lang={lang} />
+                  <ModuleInteriorPanel moduleId="warroom" state={state} dispatch={dispatch} lang={lang} accentColor="red" />
                 </div>
               </motion.div>
             )}
