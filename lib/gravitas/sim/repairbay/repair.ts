@@ -6,6 +6,7 @@ import type { StarholdState } from "../types";
 import { getCycleEffects } from "../galaxy/cycles";
 import type { GarrisonEntry, WarRoomUnitId } from "../warroom/types";
 import { getBatchTrainingCost } from "../warroom/production";
+import { takeBestUnitsOfLevel } from "../warroom/veteran";
 
 const HOUR_MS = 60 * 60 * 1000;
 

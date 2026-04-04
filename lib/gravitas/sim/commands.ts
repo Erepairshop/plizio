@@ -11,6 +11,7 @@ import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { canTrainUnit, canUpgradeUnit, startTraining, startUpgrade, cancelProduction } from "./warroom";
+import { takeBestUnits, incrementVeteranStats, mergeGarrisonEntries } from "./warroom/veteran";
 import { canStartRepair, startRepair, cancelRepair } from "./repairbay";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";

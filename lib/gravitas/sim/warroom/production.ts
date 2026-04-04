@@ -5,6 +5,7 @@ import { pushJournal } from "../shared";
 import { UNIT_COSTS, WARROOM_LEVEL_CONFIG, WARROOM_PRODUCTION_CONFIG } from "../../economy";
 import { WARROOM_UNITS } from "./units";
 import type { GarrisonEntry, WarRoomProductionSlot, WarRoomUnitId } from "./types";
+import { mergeGarrisonEntries } from "./veteran";
 
 function canAfford(inventory: GalaxyInventory, cost: Partial<Record<GalaxyMaterialId, number>>): boolean {
   for (const [matId, amount] of Object.entries(cost)) {
