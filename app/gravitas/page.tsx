@@ -47,6 +47,7 @@ import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
 import ResearchPanel from "@/components/gravitas/ResearchPanel";
 import EspionagePanel from "@/components/gravitas/EspionagePanel";
 import TradePanel from "@/components/gravitas/TradePanel";
+import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
 import { FlaskConical, Eye, ArrowLeftRight } from "lucide-react";
@@ -273,19 +274,7 @@ export default function GravitasPage() {
       awakeningShownRef.current = saved.avatarAwake;
       prevAvatarAwakeRef.current = saved.avatarAwake;
       setShowAwakening(false);
-      // Check offline progress (5 min minimum)
-      const offlineDuration = Date.now() - (saved.lastActiveAt ?? Date.now());
-      if (offlineDuration > 5 * 60 * 1000) {
-        const { state: updatedState, report } = processOfflineProgress(saved);
-        const hasEvents = report.completedTraining.length > 0 || report.completedRepairs.length > 0 ||
-          report.completedUpgrades.length > 0 || report.decayedWounded > 0 || report.completedMissions > 0 ||
-          report.phaseChanges.length > 0 || report.triggeredDelayedEffects > 0 ||
-          Object.keys(report.gatheredMaterials).length > 0;
-        if (hasEvents) setOfflineReport(report);
-        dispatch({ type: "__LOAD__", state: updatedState });
-      } else {
-        dispatch({ type: "__LOAD__", state: saved });
-      }
+      dispatch({ type: "__LOAD__", state: saved });
     }
   }, []);
 
@@ -2137,28 +2126,6 @@ export default function GravitasPage() {
         quickActions={quickActions}
         systemsAction={systemsAction}
         prioritizedMobileActions={prioritizedMobileActions}
-        hiddenUrgentActions={hiddenUrgentActions}
-        actionFeedback={actionFeedback}
-        localize={localize}
-        doAction={doAction}
-        restartGravitasChapter={restartGravitasChapter}
-        mods={mods}
-        contentVictoryStationLostTitle={content.victory.stationLostTitle}
-        contentVictoryTryAgain={localize(content.victory.tryAgain)}
-      />
-
-      {offlineReport && (
-        <OfflineProgressPopup
-          report={offlineReport}
-          onDismiss={() => setOfflineReport(null)}
-          lang={lang}
-        />
-      )}
-
-    </main>
-  );
-}
-obileActions}
         hiddenUrgentActions={hiddenUrgentActions}
         actionFeedback={actionFeedback}
         localize={localize}
