@@ -34,7 +34,7 @@ export const GALAXY_STATE_UPDATED_EVENT = "gravitas:galaxy-state-updated";
 
 function emitGalaxyStateUpdated(): void {
   if (typeof window === "undefined") return;
-  window.dispatchEvent(new Event(GALAXY_STATE_UPDATED_EVENT));
+  queueMicrotask(() => window.dispatchEvent(new Event(GALAXY_STATE_UPDATED_EVENT)));
 }
 
 export function createDefaultGalaxyInventory(): GalaxyInventory {
