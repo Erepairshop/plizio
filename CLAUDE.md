@@ -1642,6 +1642,179 @@ generateCheckpointQuestions(testId, lang, count)
 
 ---
 
+## GRAVITAS — Űrállomás menedzsment játék
+
+> Route: `/gravitas` | Állapot: **aktív fejlesztés** (2026-04)
+> Koncepció: valós idejű űrállomás-kezelés, modulok, fenyegetések, avatar, warroom
+
+### Fájlstruktúra és sorhosszak
+
+| Fájl | Sorok | Leírás |
+|------|-------|--------|
+| `app/gravitas/page.tsx` | ~1754 | Fő UI: state, HUD, header, game view, minibuttons, bottom bar |
+| `components/gravitas/GravitasOverlays.tsx` | ~377 | Panel overlay-ek (modules/marks/upgrades/journal) + resource help + command deck |
+| `components/gravitas/GravitasUiParts.tsx` | ~400 | Közös UI komponensek (HUDChip, MapMiniButton, MiniActionButton, MarkBox stb.) |
+| `components/gravitas/GravitasInteriors.tsx` | ~450 | Modul belső nézetek (reactor, sensor, core) + ModuleArtOverlay |
+| `components/gravitas/ModuleUpgradePanel.tsx` | ~207 | Modul fejlesztés panel (CostChips, UpgradeProgress, ModuleUpgradeRow) |
+| `components/gravitas/GalaxyInteriorView.tsx` | ~700 | Galaxis térkép (meteorit bányászat) |
+| `components/gravitas/GravitasMaterialStrip.tsx` | ~80 | HUD anyag csík (6 meteor anyag) |
+| `components/gravitas/warroom/` | mappa | WarRoomPanel.tsx, WarRoomUnitCard.tsx |
+| `components/gravitas/GravitasShop.tsx` | ~230 | Bolt (star shop) |
+| `components/gravitas/GravitasImprint.tsx` | ~220 | Avatar imprint hold UI |
+| `components/gravitas/AwakeningCeremony.tsx` | ~140 | Avatar ébredési ceremónia |
+| `lib/gravitas/economy.ts` | ~351 | **KÖZPONTI** ár/költség konfig — MINDEN ár itt van |
+| `lib/gravitas/sim/types.ts` | ~295 | State típusok, command union |
+| `lib/gravitas/sim/registry.ts` | ~143 | Modul registry (single source of truth) |
+| `lib/gravitas/sim/commands.ts` | ~979 | Parancs kezelés (applyStarholdCommand) |
+| `lib/gravitas/sim/tick.ts` | ~785 | Tick engine (advanceStarholdTick) |
+| `lib/gravitas/sim/persistence.ts` | ~240 | Mentés/betöltés, migráció |
+| `lib/gravitas/sim/createInitialState.ts` | ~214 | Kezdő state (demo + continuation) |
+| `lib/gravitas/sim/events.ts` | ~1400 | Eseményrendszer |
+| `lib/gravitas/sim/threats.ts` | ~400 | Fenyegetés rendszer |
+| `lib/gravitas/sim/content.ts` | ~2300 | Összes szöveg (4 nyelv) |
+| `lib/gravitas/sim/warroom/types.ts` | ~42 | Warroom típusok |
+| `lib/gravitas/sim/warroom/units.ts` | | Egység definíciók |
+| `lib/gravitas/sim/warroom/production.ts` | | Gyártás logika |
+
+### Kulcs típusok (types.ts)
+
+```ts
+StarholdModuleId = "reactor" | "logistics" | "core" | "sensor"  // warroom NEM!
+UpgradableModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom"  // economy.ts-ben
+StarholdPhase = "boot" | "activation" | "awakened"
+StarholdChapterId = "demo" | "continuation"
+```
+
+**StarholdState kulcs mezők:**
+- `moduleLevels: { reactor, logistics, core, sensor, warroom: number }` — modul szintek (1-25)
+- `upgradeQueue: ModuleUpgradeSlot[]` — aktív fejlesztések (valós idő!)
+- `upgradeSlotCount: number` — párhuzamos slotok (default 1, max 5)
+- `modules: Record<StarholdModuleId, StarholdModuleState>` — 4 modul state
+- `warRoom: WarRoomState` — **külön** (NEM modules-ben!)
+- `resources: { power, materials, stability, activation }`
+- `marks: { reactorScar, shellStrain, supplyStress, voidEcho }`
+- `threat: StarholdThreatState` — countdown, type, intensity, fortified/dampened/intercepted
+- `progression: { stars, completedMilestones, unclaimedMilestones, unlockedItems }`
+
+**ModuleUpgradeSlot:** `{ moduleId, targetLevel, startedAt: number, completesAt: number }` — Date.now() alapú!
+
+**StarholdCommand union (25 típus):** SCAVENGE, STABILIZE_REACTOR, REPAIR_MODULE, REROUTE_TO_CORE, CHANNEL_TO_CORE, DISTORTION_SWEEP, PURGE_ANOMALY, OVERCLOCK_REACTOR, OPTIMIZE_LOGISTICS, DEEP_SCAN, FORTIFY_SHELL, DAMPEN_SIGNALS, INTERCEPT_THREAT, PREDICT_THREAT, EMERGENCY_VENT, TUNE_SHIELDS, EMERGENCY_DISCHARGE, RAPID_FABRICATION, AVATAR_PULSE, CLAIM_MILESTONE, BUY_ITEM, ACKNOWLEDGE_PHASE_SHIFT, RESOLVE_EVENT, CHANNEL_AVATAR_IMPRINT, RESET_AVATAR_IMPRINT, TRAIN_UNIT, CANCEL_TRAINING, UPGRADE_MODULE
+
+### page.tsx State és UI struktúra (~1754 sor)
+
+**State változók (line ~106-122):**
+```ts
+const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);  // 106
+const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");       // 107
+const [shopOpen, setShopOpen] = useState(false);                                        // 108
+const [activePanel, setActivePanel] = useState<"modules"|"marks"|"journal"|"activation"|"upgrades"|null>(null); // 109
+const [interiorView, setInteriorView] = useState<StarholdModuleId|"galaxy"|"warroom"|null>(null); // 122
+const [moduleInfoOpen, setModuleInfoOpen] = useState(false);                            // 120
+const [quickActionsOpen, setQuickActionsOpen] = useState(false);                        // 119
+```
+
+**doAction (line 153):** `(command: StarholdCommand, color: string) => void` — dispatch + flash
+**handleSelectModule (line 166):** module kattintás → moduleInfoOpen toggle / interiorView
+**handleOpenWarRoom (line 176):** warroom-ot közvetlenül nyitja (nem selectModule-n át)
+
+**UI layout (line 1154–1754):**
+- `<header>` (1178): Back link, phase badge, chapter badge, galaxy btn, shop btn, reset btn
+- HUD rows (1242): Row1 = stats chips (power/mat/stab/entropy/activation), Row2 = GravitasMaterialStrip
+- Game View (1278): 3D scene / fallback, ModuleArtOverlay, interior views, minibuttons, bottom bar
+- GravitasOverlays (1718): a panels + event card + game over screen
+
+**Minibutton column (line 1626–1658, `absolute right-3 top-16 z-[32]`):**
+| Sorrend | Ikon | Panel/Action |
+|---------|------|-------------|
+| 1 | LayoutGrid | modules panel |
+| 2 | ShieldHalf | marks panel |
+| 3 | ArrowUpCircle | upgrades panel |
+| 4 | FileText | journal panel |
+| 5 | Radar | galaxy interiorView |
+| 6 | Layers | quickActionsOpen (command deck) |
+
+**Toggle minta:** `onClick={() => setActivePanel(activePanel === "X" ? null : "X")}`
+
+**Module info popup (line 1489–1552):** `absolute left-3 top-14 z-[25]`, shows selected module name/role/level, "Enter module" button. **LVL badge line 1515-1517** — jelenleg: `state.moduleLevels?.[m.id] ?? 1`
+
+**Interior views (line 1554–1623):** galaxy, sensor, reactor, core, warroom — mindegyik `absolute inset-0 z-[28]`
+
+**Bottom bar (line 1686–1714):** `absolute inset-x-3 bottom-3 z-[32]` — prioritizedMobileActions + systems button
+
+### GravitasOverlays.tsx struktúra (~377 sor)
+
+**Props:** `any` típusú, destructured: `{ lang, content, ui, state, activePanel, setActivePanel, selectedModule, setSelectedModule, moduleActions, doAction, localize, mods, ... }`
+
+**Overlay-ek sorrendben:**
+1. **ResourceHelp** (line 48–93): `resourceHelpOpen` → modal, title/body/impact/fix
+2. **AvatarBase** (line 94–157): `avatarBaseOpen` → imprint ágak listája
+3. **CommandDeck** (line 158–226): `quickActionsOpen` → összes gyors parancs (mobile)
+4. **Panel container** (line 228–330): `activePanel` → slide-up panel, modules/marks/upgrades/journal
+5. **PendingEvent** (line 333–346): `state.pendingEvent` → anomaly/avatar prep card
+6. **GameOver** (line 349–374): `showGameOver` → station lost screen
+
+**Panel header minta (line 236–245):**
+```tsx
+{activePanel === "upgrades" && <><ArrowUpCircle size={20} className="text-emerald-400" /> Fejlesztések</>}
+// Close: onClick={() => setActivePanel(null)}
+```
+
+**Panel content minta (line 247–327):**
+```tsx
+{activePanel === "upgrades" && (
+  <ModuleUpgradePanel state={state} dispatch={(cmd) => doAction(cmd, "rgba(16,185,129,0.4)")} lang={lang} />
+)}
+```
+
+### Economy rendszer (economy.ts — ~351 sor)
+
+**6 meteor anyag (GalaxyMaterialId):**
+| ID | Rövidítés | ~Gyűjtés/óra | Ritkaság |
+|----|-----------|-------------|---------|
+| lumen_dust | LD | 100 | gyakori |
+| verdant_crystals | VC | 82 | gyakori |
+| aether_ore | AO | 66 | közepes |
+| ember_shards | ES | 52 | ritka |
+| sable_alloy | SA | 38 | ritka |
+| rift_stone | RS | 26 | nagyon ritka |
+
+**Modul költség profilok:** reactor=ES+LD, logistics=VC+LD, core=AO+LD, sensor=VC+AO, warroom=SA+LD
+**Költség görbe:** `20 × 1.35^(level-1)` primary, secondary lv6+, rare lv14+
+**Építési idő:** Core: 1nap→7nap lineáris, Többi: 12h→3.5nap lineáris
+
+**Fő API-k:** `getLevelCost(moduleId, targetLevel)`, `canUpgradeModule(moduleId, levels, inventory)`, `isModuleInDanger(moduleId, levels)`
+**Upgrade slot:** `UPGRADE_SLOT_CONFIG = { baseSlots: 1, maxSlots: 5 }`
+**Warroom garrison:** `garrisonBase:10 + (level-1)×40` → lv25: ~970
+
+### Warroom (standalone, NEM StarholdModuleId!)
+
+```ts
+WarRoomState = { level, online, productionSlot, garrison: Record<WarRoomUnitId, number> }
+WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone"
+```
+- `state.warRoom` — NEM `state.modules.warroom`!
+- `warRoom.online` flag — saját toggle
+- interiorView === "warroom" → WarRoomPanel render
+
+### localStorage
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `gravitas_save_v2_${username}` | Teljes StarholdState JSON |
+| `gravitas_save_v1` | Fallback régi mentés |
+| `plizio_galaxy_inventory` | `Record<GalaxyMaterialId, number>` — meteor anyagok |
+
+### Fejlesztési szabályok
+
+1. **economy.ts = egyetlen igazság** — MINDEN ár, költség, görbe IDE kerül
+2. **registry.ts = modul lista igazsága** — `getModuleIds()` használata hardcoded tömbök helyett
+3. **Warroom standalone** — NEM `StarholdModuleId`, saját `state.warRoom`
+4. **Upgrade = valós idő** — `Date.now()` nem tick, így bezárt játék közben is fut
+5. **doAction(cmd, color)** — overlays-ban wrapper kell: `(cmd) => doAction(cmd, "rgba(…)")`
+6. **Panel bővítés minta:** (1) activePanel union-ba, (2) minibutton hozzáadás, (3) header ikon, (4) content section
+
+---
+
 ## PLIZIO WORLD — Meta-progression rendszer
 
 > Allapot: tervezesi fazis (2026-03-07)
