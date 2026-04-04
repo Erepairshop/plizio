@@ -46,12 +46,12 @@ export const ALL_MODULE_IDS: UpgradableModuleId[] = ["reactor", "logistics", "co
 
 // ── Szint költségek (1→2, 2→3, ... 24→25) ─────────────────────
 //
-// Képlet: exponenciális görbe, ~2 hónap a core 25-ig
-// Korai szintek: olcsó, gyakori anyagok (LD, VC)
-// Közép szintek: közepes anyagok (AO, ES)
-// Magas szintek: ritka anyagok (SA, RS)
+// Képlet: LINEÁRIS görbe, lv2 = 1 nap gyűjtés, lv25 = 10 nap (24h/nap)
+// Max 4 anyag / épület fejlesztés (2 primary + 1 secondary + 1 rare)
+// Max 2 anyag / katona fejlesztés
+// Egy modul maxolása: ~132 nap (sum 1..10 × 24 level)
 //
-// Az árak SZINTENKÉNT vannak, tehát LEVEL_COSTS[moduleId][targetLevel]
+// Az árak SZINTENKÉNT vannak, tehát getLevelCost(moduleId, targetLevel)
 // = mennyibe kerül az adott szintre fejleszteni
 
 export interface LevelCostEntry {
@@ -97,71 +97,65 @@ export const UPGRADE_SLOT_CONFIG = {
 //   - Milyen szorzóval nőnek az árak
 
 interface ModuleCostProfile {
-  /** Elsődleges anyagok (olcsó szintekhez) */
-  primary: GalaxyMaterialId[];
-  /** Másodlagos anyagok (közép szintekhez, lv8+) */
-  secondary: GalaxyMaterialId[];
-  /** Ritka anyagok (magas szintekhez, lv16+) */
-  rare: GalaxyMaterialId[];
+  /** 2 elsődleges anyag (mindig kell) */
+  primary: [GalaxyMaterialId, GalaxyMaterialId];
+  /** 1 másodlagos anyag (lv6-tól) */
+  secondary: GalaxyMaterialId;
+  /** 1 ritka anyag (lv14-től) */
+  rare: GalaxyMaterialId;
 }
 
+// Max 4 anyag / épület fejlesztés (2 primary + 1 secondary + 1 rare)
 const MODULE_COST_PROFILES: Record<UpgradableModuleId, ModuleCostProfile> = {
-  reactor: {
-    primary: ["ember_shards", "lumen_dust"],
-    secondary: ["aether_ore", "sable_alloy"],
-    rare: ["rift_stone"],
-  },
-  logistics: {
-    primary: ["verdant_crystals", "lumen_dust"],
-    secondary: ["sable_alloy", "aether_ore"],
-    rare: ["rift_stone"],
-  },
-  core: {
-    primary: ["aether_ore", "lumen_dust"],
-    secondary: ["ember_shards", "verdant_crystals"],
-    rare: ["rift_stone", "sable_alloy"],
-  },
-  sensor: {
-    primary: ["verdant_crystals", "aether_ore"],
-    secondary: ["lumen_dust", "ember_shards"],
-    rare: ["rift_stone"],
-  },
-  warroom: {
-    primary: ["sable_alloy", "lumen_dust"],
-    secondary: ["ember_shards", "verdant_crystals"],
-    rare: ["rift_stone", "aether_ore"],
-  },
+  reactor:   { primary: ["ember_shards", "lumen_dust"],      secondary: "aether_ore",      rare: "rift_stone" },
+  logistics: { primary: ["verdant_crystals", "lumen_dust"],  secondary: "sable_alloy",     rare: "rift_stone" },
+  core:      { primary: ["aether_ore", "lumen_dust"],        secondary: "ember_shards",    rare: "rift_stone" },
+  sensor:    { primary: ["verdant_crystals", "aether_ore"],  secondary: "lumen_dust",      rare: "rift_stone" },
+  warroom:   { primary: ["sable_alloy", "lumen_dust"],       secondary: "ember_shards",    rare: "rift_stone" },
 };
 
 /**
  * Generál egy szint költséget az adott modulhoz és szinthez.
  *
- * Görbe: alap × (1.35 ^ szint) — exponenciális, de nem túl meredek
- * ~60 nap a core 25-ig = napi ~12-16 óra összgyűjtési igény lv20+ felett
+ * GÖRBE: lineáris, lv2 = 1 nap gyűjtés, lv25 = 10 nap gyűjtés (24h/nap)
+ * Max 4 anyag / fejlesztés: 2 primary + 1 secondary (lv6+) + 1 rare (lv14+)
+ *
+ * Primary amount = gatherDays × 24h × slowestPrimaryRate
+ * Secondary: 15-30% of primary time (ramp lv6→lv25)
+ * Rare: 10-25% of primary time (ramp lv14→lv25)
  */
 function generateLevelCost(moduleId: UpgradableModuleId, targetLevel: number): LevelCostEntry {
   const profile = MODULE_COST_PROFILES[moduleId];
-  const multiplier = Math.pow(1.35, targetLevel - 1);
+
+  // Lineáris görbe: lv2 = 1 nap, lv25 = 10 nap
+  const gatherDays = 1 + (targetLevel - 2) * 9 / 23;
+  const gatherHours = gatherDays * 24;
+
+  // Bottleneck: leglassabb primary anyag
+  const slowestPrimaryRate = Math.min(
+    YIELD_PER_HOUR[profile.primary[0]],
+    YIELD_PER_HOUR[profile.primary[1]],
+  );
+  const primaryAmount = Math.round(gatherHours * slowestPrimaryRate);
 
   const cost: MaterialCost = {};
 
-  // Elsődleges anyagok: mindig kellenek
-  for (const matId of profile.primary) {
-    cost[matId] = Math.round(20 * multiplier);
-  }
+  // 2 primary anyag: mindig kell
+  cost[profile.primary[0]] = primaryAmount;
+  cost[profile.primary[1]] = primaryAmount;
 
-  // Másodlagos: lv6-tól
+  // 1 secondary anyag: lv6-tól, 15%→30% primary idő
   if (targetLevel >= 6) {
-    for (const matId of profile.secondary) {
-      cost[matId] = Math.round(10 * Math.pow(1.35, targetLevel - 5));
-    }
+    const secFrac = 0.15 + (targetLevel - 6) * 0.15 / 19;
+    const secRate = YIELD_PER_HOUR[profile.secondary];
+    cost[profile.secondary] = Math.round(secFrac * gatherHours * secRate);
   }
 
-  // Ritka: lv14-től
+  // 1 rare anyag: lv14-től, 10%→25% primary idő
   if (targetLevel >= 14) {
-    for (const matId of profile.rare) {
-      cost[matId] = Math.round(8 * Math.pow(1.35, targetLevel - 13));
-    }
+    const rareFrac = 0.10 + (targetLevel - 14) * 0.15 / 11;
+    const rareRate = YIELD_PER_HOUR[profile.rare];
+    cost[profile.rare] = Math.round(rareFrac * gatherHours * rareRate);
   }
 
   const entry: LevelCostEntry = {
@@ -174,9 +168,8 @@ function generateLevelCost(moduleId: UpgradableModuleId, targetLevel: number): L
     entry.requireCoreLevel = targetLevel;
   }
 
-  // Speciális előfeltételek
+  // Core lv3+ igényel reactor lv2+
   if (moduleId === "core" && targetLevel >= 3) {
-    // Core lv3+ igényel reactor lv2+
     entry.requireModules = {
       reactor: Math.max(1, targetLevel - 2),
     };
