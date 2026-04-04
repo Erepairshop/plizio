@@ -1083,6 +1083,21 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         }
       };
     }
+    case "DEPLOY_SPIES": {
+      return deploySpies(state, command.targetFactionId, command.wraithCount, command.missionType);
+    }
+    case "EXTRACT_SPIES": {
+      return extractSpies(state, command.missionId);
+    }
+    case "SPEND_INTEL": {
+      return spendIntel(state, command.action, command.extraArg);
+    }
+    case "START_RESEARCH": {
+      return startResearch(state, command.projectId);
+    }
+    case "CANCEL_RESEARCH": {
+      return cancelResearch(state);
+    }
     default:
       return checkStarholdMilestones(state);
   }

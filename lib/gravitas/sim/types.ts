@@ -338,4 +338,9 @@ export type StarholdCommand =
   | { type: "ACCEPT_TRADE"; offerId: string }
   | { type: "REJECT_TRADE"; offerId: string }
   | { type: "DEPLOY_WEEKLY_UNITS"; units: Record<string, number> }
-  | { type: "SKIP_WEEKLY_MISSION" };
+  | { type: "SKIP_WEEKLY_MISSION" }
+  | { type: "DEPLOY_SPIES"; targetFactionId: import("./faction/types").FactionId; wraithCount: number; missionType: import("./espionage/types").EspionageMissionType }
+  | { type: "EXTRACT_SPIES"; missionId: string }
+  | { type: "SPEND_INTEL"; action: import("./espionage/types").EspionageIntelAction; extraArg?: any }
+  | { type: "START_RESEARCH"; projectId: string }
+  | { type: "CANCEL_RESEARCH" };

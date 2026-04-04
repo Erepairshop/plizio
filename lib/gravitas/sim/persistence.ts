@@ -395,6 +395,8 @@ export function loadGravitasState(): StarholdState | null {
       tradeSystem: parsed.tradeSystem ?? { offers: [], lastRefreshAt: Date.now() },
       weeklyMission: parsed.weeklyMission ?? { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
       commander: parsed.commander ?? createInitialCommanderState(),
+      espionage: parsed.espionage ?? createInitialEspionageState(),
+      research: parsed.research ?? createInitialResearchState(["weapons", "shields"]),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

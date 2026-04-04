@@ -408,6 +408,30 @@ export const WEEKLY_MISSION_CONFIG = {
   reputationPenaltyForMiss: -5,
 } as const;
 
+export const ESPIONAGE_CONFIG = {
+  maxActiveMissions: 3,
+  minWraithsPerMission: 5,
+  deployTimeMs: 2 * 60 * 60 * 1000,
+  intelYieldIntervalMs: 4 * 60 * 60 * 1000,
+  baseExposureGrowthPerHour: 2,
+  exposureThreshold: 80,
+  exposureLossRatio: 0.5,
+  extractGracePeriodMs: 60 * 60 * 1000,
+  intelCosts: { revealBuilding: 50, weakenDefense: 80, factionSecret: 120, earlyWarning: 30, sabotageSupply: 100 },
+} as const;
+
+export const RESEARCH_CONFIG = {
+  tierUnlockCoreLevels: [3, 8, 14, 20],
+  tierDurationMs: [6 * 3600000, 18 * 3600000, 48 * 3600000, 120 * 3600000],
+  fieldDiscovery: { 
+    weapons: "auto", 
+    shields: "auto", 
+    logistics: { moduleLevel: ["logistics", 5] as const }, 
+    sensors: { moduleLevel: ["sensor", 5] as const }, 
+    void: { coreLevel: 10, entropyThreshold: 50 } 
+  },
+} as const;
+
 export const VETERAN_CONFIG = {
   tiers: {
     hardened: { minBattles: 5, statBonus: 0.05 },
