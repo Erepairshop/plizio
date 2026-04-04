@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { 
   Sword, Shield, Compass, Megaphone, Eye, Zap, 
   ChevronLeft, ChevronRight, Target, Info, Users, 
-  Crosshair, ShieldAlert, Activity, AlertTriangle
+  Crosshair, ShieldAlert, Activity, AlertTriangle, Medal
 } from "lucide-react";
 import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
 import type { WarRoomUnitId, GarrisonEntry } from "@/lib/gravitas/sim/warroom/types";
@@ -412,8 +412,6 @@ export default function ArmySetup({
             )}
           </div>
         </div>
-
-      </div>
 
       {/* Footer / Start Button */}
       <div className="mt-6 pt-4 border-t border-white/10">

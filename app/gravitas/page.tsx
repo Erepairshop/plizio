@@ -50,9 +50,11 @@ import TradePanel from "@/components/gravitas/TradePanel";
 import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
 import WeeklyMissionPanel from "@/components/gravitas/WeeklyMissionPanel";
 import BattleReplayPanel from "@/components/gravitas/BattleReplayPanel";
+import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
+import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Medal } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -139,7 +141,7 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "officers" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -1990,6 +1992,28 @@ export default function GravitasPage() {
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
               >
                 <WeeklyMissionPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "codex" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <CodexPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "officers" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <OfficerLoungePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} onClose={() => setInteriorView(null)} lang={lang} />
               </motion.div>
             )}
           </AnimatePresence>

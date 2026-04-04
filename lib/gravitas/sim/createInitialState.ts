@@ -16,6 +16,7 @@ import { createInitialResearchState } from "./research/index";
 import { createInitialSupplyRouteState } from "./supplyroute/index";
 import { createInitialCodexState } from "./codex/index";
 import { createInitialNotificationState } from "./notifications/index";
+import { createInitialOfficerState } from "./officers/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -286,8 +287,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     supplyRoutes: createInitialSupplyRouteState(),
     codex: createInitialCodexState(),
     notifications: createInitialNotificationState(),
-  };
-}
-nState(),
+    officers: createInitialOfficerState(),
   };
 }

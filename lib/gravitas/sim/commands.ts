@@ -30,6 +30,7 @@ import { deployWeeklyUnits } from "./weekly/engine";
 import { establishRoute, abandonRoute } from "./supplyroute/index";
 import { markCodexRead } from "./codex/index";
 import { dismissNotification, markAllNotificationsRead, pushNotification } from "./notifications/engine";
+import { recruitOfficer, dismissOfficer } from "./officers/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -144,6 +145,8 @@ function stopForegroundOperation(state: StarholdState): StarholdState {
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
   if (command.type === "DISMISS_NOTIFICATION") return dismissNotification(state, command.id);
   if (command.type === "MARK_NOTIFICATIONS_READ") return markAllNotificationsRead(state);
+  if (command.type === "RECRUIT_OFFICER") return recruitOfficer(state, command.officerId);
+  if (command.type === "DISMISS_OFFICER") return dismissOfficer(state, command.officerId);
 
   const nextState = applyStarholdCommandInternal(state, command);
   if (nextState.alert && nextState.alert !== state.alert) {

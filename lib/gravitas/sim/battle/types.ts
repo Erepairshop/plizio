@@ -225,5 +225,3 @@ export const BATTLE_UNIT_PROFILES: Record<string, BattleUnitProfile> = {
   wraith: { id: "wraith", role: "recon", attack: 14, defense: 10, speed: 26, hp: 20 },
   nexus: { id: "nexus", role: "support", attack: 6, defense: 14, speed: 12, hp: 22 },
 };
-: { id: "nexus", role: "support", attack: 6, defense: 14, speed: 12, hp: 22 },
-};

@@ -168,7 +168,8 @@ import { getCycleEffects } from "../galaxy/cycles";
 
 export function resolveBattle(input: ResolveBattleInput): BattleResult {
   const { army, enemy, playerState, avatarCombat, scoutReport, descriptor, faction, battleHistory, seedNow } = input;
-  
+  const officer = army.officerId ? playerState.officers?.active?.find(o => o.id === army.officerId) : undefined;
+
   const tactic = BATTLE_TACTICS[army.tacticId];
   const armyBase = calculateArmyEvaluation(army);
   const abilities = collectAvatarAbilities(playerState.avatarProfile?.answers);
@@ -428,20 +429,5 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     intelGained: victory ? 12 : 4,
     casualties,
     replay: generateReplayLog(phases),
-  };
-}
-ent: army.units,
-      enemyGarrisonDestroyed: Math.max(0, enemy.stats.garrison - runtime.enemyGarrison),
-      traitTriggered: Array.from(ctx.traitTriggered) as EnemyTraitId[],
-      counterUsed: Array.from(ctx.countersUsed),
-    },
-    loot: rewardPack.loot,
-    intelGained: victory ? 12 : 4,
-    casualties,
-    replay: generateReplayLog(phases),
-    officerStatus,
-  };
-}
-lay: generateReplayLog(phases),
   };
 }

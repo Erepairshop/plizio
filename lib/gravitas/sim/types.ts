@@ -355,5 +355,6 @@ export type StarholdCommand =
   | { type: "ABANDON_ROUTE"; routeId: string }
   | { type: "MARK_CODEX_READ"; entryId: string }
   | { type: "DISMISS_NOTIFICATION"; id: string }
-  | { type: "MARK_NOTIFICATIONS_READ" };
-fficerId: string };
+  | { type: "MARK_NOTIFICATIONS_READ" }
+  | { type: "RECRUIT_OFFICER"; officerId: string }
+  | { type: "DISMISS_OFFICER"; officerId: string };

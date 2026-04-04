@@ -29,6 +29,7 @@ import { tickResearch } from "./research/engine";
 import { tickSupplyRoutes } from "./supplyroute/engine";
 import { tickCodex } from "./codex/engine";
 import { tickNotifications, pushNotification } from "./notifications/engine";
+import { tickOfficers } from "./officers/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -1096,25 +1097,27 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
     return stabilizeContinuationTick(
       state,
       checkStarholdMilestones(
-        tickCommanderProfile(
-          tickDilemmaSpawn(
-            tickDilemmaEffects(
-              tickGalaxyCycle(
-                tickFactionReputation(
-                  tickBattle(
-                    tickTradeSystem(
-                      tickSupplyRoutes(
-                        tickWeeklyMission(
-                          tickEspionage(
-                            tickResearch(
-                              tickCodex(
-                                tickUpgrades(
-                                  tickRepairBay(
-                                    applyStarholdEvents(
-                                      tickWarroomProduction({
-                                        ...threatResult.nextState,
-                                        waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                      }),
+        tickOfficers(
+          tickCommanderProfile(
+            tickDilemmaSpawn(
+              tickDilemmaEffects(
+                tickGalaxyCycle(
+                  tickFactionReputation(
+                    tickBattle(
+                      tickTradeSystem(
+                        tickSupplyRoutes(
+                          tickWeeklyMission(
+                            tickEspionage(
+                              tickResearch(
+                                tickCodex(
+                                  tickUpgrades(
+                                    tickRepairBay(
+                                      applyStarholdEvents(
+                                        tickWarroomProduction({
+                                          ...threatResult.nextState,
+                                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                        }),
+                                      ),
                                     ),
                                   ),
                                 ),
@@ -1137,26 +1140,28 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
   return stabilizeContinuationTick(
     state,
     checkStarholdMilestones(
-      tickCommanderProfile(
-        tickDilemmaSpawn(
-          tickDilemmaEffects(
-            tickGalaxyCycle(
-              tickFactionReputation(
-                tickWorldLevel(
-                  tickBattle(
-                    tickTradeSystem(
-                      tickSupplyRoutes(
-                        tickWeeklyMission(
-                          tickEspionage(
-                            tickResearch(
-                              tickCodex(
-                                tickUpgrades(
-                                  tickRepairBay(
-                                    applyStarholdEvents(
-                                      tickWarroomProduction({
-                                        ...threatResult.nextState,
-                                        waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                      }),
+      tickOfficers(
+        tickCommanderProfile(
+          tickDilemmaSpawn(
+            tickDilemmaEffects(
+              tickGalaxyCycle(
+                tickFactionReputation(
+                  tickWorldLevel(
+                    tickBattle(
+                      tickTradeSystem(
+                        tickSupplyRoutes(
+                          tickWeeklyMission(
+                            tickEspionage(
+                              tickResearch(
+                                tickCodex(
+                                  tickUpgrades(
+                                    tickRepairBay(
+                                      applyStarholdEvents(
+                                        tickWarroomProduction({
+                                          ...threatResult.nextState,
+                                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                        }),
+                                      ),
                                     ),
                                   ),
                                 ),
