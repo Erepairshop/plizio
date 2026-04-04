@@ -15,6 +15,7 @@ const MODULE_NAMES: Record<UpgradableModuleId, Record<Lang, string>> = {
   core: { en: "Core", hu: "Mag", de: "Kern", ro: "Nucleu" },
   sensor: { en: "Sensor", hu: "Szenzor", de: "Sensor", ro: "Senzor" },
   warroom: { en: "Command", hu: "Hadiszállás", de: "Kommando", ro: "Comandă" },
+  repairbay: { en: "Repair Bay", hu: "Javítóüzem", de: "Reparaturbucht", ro: "Doc reparații" },
 };
 
 function formatTime(seconds: number): string {
