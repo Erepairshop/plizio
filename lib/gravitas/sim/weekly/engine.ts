@@ -3,14 +3,14 @@ import type { WeeklyMissionState, WeeklyMission } from "./types";
 import type { FactionId } from "../faction/types";
 import { WEEKLY_MISSION_CONFIG, FACTION_REPUTATION_CONFIG } from "../../economy";
 import { applyReputationChange } from "../faction/reputation";
-import { getScaledEnemyStats, getLootMultiplier } from "../battle/worldScaling";
-import { calculateCasualties } from "../battle/casualties";
+import { getLootMultiplier } from "../battle/worldScaling";
 import { resolveBattle } from "../battle/engine";
-import type { BattleArmy, EnemyBuilding, ScoutReport } from "../battle/types";
+import type { BattleArmy, EnemyBuilding, ScoutReport, ResolveBattleInput } from "../battle/types";
 import { pushJournal } from "../shared";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
 import type { GalaxyMaterialId } from "../../world/mission";
 import { takeBestUnits } from "../warroom/veteran";
+import { applyStarholdCommand } from "../commands";
 
 function generateNextMissionTime(lastMissionAt: number): number {
   const minDays = WEEKLY_MISSION_CONFIG.minDaysBetween;
@@ -177,35 +177,39 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
 
   const army: BattleArmy = {
     units: mission.deployedUnits,
-    tacticId: "frontal_assault",
+    tacticId: "aggressive",
   };
 
   const strengthMod = WEEKLY_MISSION_CONFIG.waveStrengthMods[waveNum - 1];
-  const enemyStats = getScaledEnemyStats(mission.worldLevel);
-  const enemyGarrison = Math.round(enemyStats.garrison * strengthMod);
+  const baseArmor = 40 + mission.worldLevel * 8;
+  const baseShield = 20 + mission.worldLevel * 5;
+  const baseFirepower = 30 + mission.worldLevel * 6;
+  const baseGarrison = 50 + mission.worldLevel * 20;
 
-  const mockEnemyBuilding: EnemyBuilding = {
-    id: "weekly_target",
-    name: { en: "Facility", hu: "Létesítmény", de: "Einrichtung", ro: "Facilitate" },
-    description: { en: "", hu: "", de: "", ro: "" },
-    factionId: mission.attackerFactionId,
-    level: mission.worldLevel,
+  const mockEnemyBuilding = {
+    id: "derelict-outpost" as const,
     stats: {
-      health: enemyStats.hp * strengthMod,
-      attack: enemyStats.attack * strengthMod,
-      defense: enemyStats.defense * strengthMod,
-      garrison: enemyGarrison,
-      techLevel: mission.worldLevel,
+      armor: Math.round(baseArmor * strengthMod),
+      shield: Math.round(baseShield * strengthMod),
+      firepower: Math.round(baseFirepower * strengthMod),
+      speed: 5,
+      garrison: Math.round(baseGarrison * strengthMod),
+      antiAir: Math.round(10 * strengthMod),
     },
     traits: [],
-    rewardPool: { materials: {}, starChance: 0, items: [] },
-  };
+    difficulty: mission.worldLevel,
+    resetCooldownMs: 0,
+    lootTableId: "weekly",
+  } satisfies EnemyBuilding;
 
   const scoutReport: ScoutReport = {
     buildingId: mockEnemyBuilding.id,
     intelLevel: 100,
     revealedStats: {
-      health: true, attack: true, defense: true, garrison: true, techLevel: true
+      armor: mockEnemyBuilding.stats.armor,
+      shield: mockEnemyBuilding.stats.shield,
+      firepower: mockEnemyBuilding.stats.firepower,
+      garrison: mockEnemyBuilding.stats.garrison,
     },
     revealedTraits: [],
     lastScoutedAt: now,
@@ -217,8 +221,9 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
     playerState: state,
     avatarCombat: state.battleState.avatarCombat,
     scoutReport,
-    faction: null,
-    descriptor: null,
+    descriptor: null as unknown as ResolveBattleInput["descriptor"],
+    faction: null as unknown as ResolveBattleInput["faction"],
+    battleHistory: state.battleState.battleHistory,
     seedNow: now,
   });
 
@@ -273,7 +278,7 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
     nodeId: "weekly_target",
   };
 
-  return import("../commands").applyStarholdCommand(nextState, command);
+  return applyStarholdCommand(nextState, command);
 }
 
 function giveWeeklyRewards(state: StarholdState, completedWaves: number, worldLevel: number, defenderFactionId: FactionId) {
