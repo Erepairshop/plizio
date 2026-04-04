@@ -176,7 +176,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "sachkunde-k1-explore" | "sachkunde-k2-explore" | "sachkunde-k3-explore" | "sachkunde-k4-explore"
   | "bio-explore"
   | "romana-explore"
-  | "geschichte-explore";
+  | "geschichte-explore"
+  | "geographie-explore";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
