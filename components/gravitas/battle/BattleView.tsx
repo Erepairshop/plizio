@@ -96,19 +96,20 @@ export default function BattleView({ result, enemy, army, onComplete, lang }: Ba
         setLog((prev) => [...prev, ...newEvents].slice(-6));
         setCurrentIndex(safeIndex);
         newEvents.forEach((ev) => {
-          if (!ev.damage) return;
+          const dmg = ev.damage;
+          if (!dmg) return;
           setSnapshot((prev) => {
             if (ev.source === "player") {
-              const shieldHit = Math.min(prev.enemyShield, damageToBarDelta(ev.damage) * 0.65);
-              const overflow = Math.max(0, damageToBarDelta(ev.damage) - shieldHit);
+              const shieldHit = Math.min(prev.enemyShield, damageToBarDelta(dmg) * 0.65);
+              const overflow = Math.max(0, damageToBarDelta(dmg) - shieldHit);
               return {
                 ...prev,
                 enemyShield: clamp(prev.enemyShield - shieldHit, 0, BAR_MAX),
                 enemyHp: clamp(prev.enemyHp - overflow, 0, BAR_MAX),
               };
             }
-            const shieldHit = Math.min(prev.playerShield, damageToBarDelta(ev.damage) * 0.65);
-            const overflow = Math.max(0, damageToBarDelta(ev.damage) - shieldHit);
+            const shieldHit = Math.min(prev.playerShield, damageToBarDelta(dmg) * 0.65);
+            const overflow = Math.max(0, damageToBarDelta(dmg) - shieldHit);
             return {
               ...prev,
               playerShield: clamp(prev.playerShield - shieldHit, 0, BAR_MAX),
