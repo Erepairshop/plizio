@@ -2484,7 +2484,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         </>
       ) : null}
 
-      {/* ── MASCOT ── phase-aware robot character, bottom-left corner */}
+      {/* ── MASCOT ── phase-aware robot character, top-right corner */}
       <motion.div
         key={mascotSrc}
         initial={{ opacity: 0, scale: 0.75, y: 12 }}
