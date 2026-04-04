@@ -432,6 +432,18 @@ export const RESEARCH_CONFIG = {
   },
 } as const;
 
+export const SUPPLY_ROUTE_CONFIG = {
+  baseYieldPerHour: 20,
+  yieldIntervalMs: 60 * 60 * 1000,
+  raidCheckIntervalMs: 6 * 60 * 60 * 1000,
+  disruptionDurationMs: 4 * 60 * 60 * 1000,
+  minReputationForRoute: 30,
+  maxRoutesBase: 1,
+  maxRoutesPerLogisticsLevels: 5,
+  destroyChanceIfLowProtection: 0.1,
+  abandonReputationPenalty: -3,
+} as const;
+
 export const VETERAN_CONFIG = {
   tiers: {
     hardened: { minBattles: 5, statBonus: 0.05 },

@@ -345,4 +345,6 @@ export type StarholdCommand =
   | { type: "EXTRACT_SPIES"; missionId: string }
   | { type: "SPEND_INTEL"; action: import("./espionage/types").EspionageIntelAction; extraArg?: any }
   | { type: "START_RESEARCH"; projectId: string }
-  | { type: "CANCEL_RESEARCH" };
+  | { type: "CANCEL_RESEARCH" }
+  | { type: "ESTABLISH_ROUTE"; factionId: import("./faction/types").FactionId; materialId: import("../../world/mission").GalaxyMaterialId }
+  | { type: "ABANDON_ROUTE"; routeId: string };

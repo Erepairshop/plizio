@@ -159,7 +159,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
       commander: createInitialCommanderState(),
       espionage: createInitialEspionageState(),
-      research: createInitialResearchState(),
+      research: createInitialResearchState(["weapons", "shields"]),
+      supplyRoutes: createInitialSupplyRouteState(),
       lastActiveAt: Date.now(),
     });
   }
@@ -277,5 +278,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     commander: createInitialCommanderState(),
     espionage: createInitialEspionageState(),
     research: createInitialResearchState(["weapons", "shields"]),
+    supplyRoutes: createInitialSupplyRouteState(),
+    lastActiveAt: Date.now(),
   };
 }

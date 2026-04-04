@@ -1100,6 +1100,12 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "CANCEL_RESEARCH": {
       return cancelResearch(state);
     }
+    case "ESTABLISH_ROUTE": {
+      return establishRoute(state, command.factionId, command.materialId);
+    }
+    case "ABANDON_ROUTE": {
+      return abandonRoute(state, command.routeId);
+    }
     default:
       return checkStarholdMilestones(state);
   }

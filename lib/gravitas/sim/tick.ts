@@ -1110,16 +1110,18 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
                 tickWorldLevel(
                   tickBattle(
                     tickTradeSystem(
-                      tickWeeklyMission(
-                        tickEspionage(
-                          tickResearch(
-                            tickUpgrades(
-                              tickRepairBay(
-                                applyStarholdEvents(
-                                  tickWarroomProduction({
-                                    ...threatResult.nextState,
-                                    waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                  }),
+                      tickSupplyRoutes(
+                        tickWeeklyMission(
+                          tickEspionage(
+                            tickResearch(
+                              tickUpgrades(
+                                tickRepairBay(
+                                  applyStarholdEvents(
+                                    tickWarroomProduction({
+                                      ...threatResult.nextState,
+                                      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                    }),
+                                  ),
                                 ),
                               ),
                             ),
