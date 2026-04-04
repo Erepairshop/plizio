@@ -31,6 +31,8 @@ const GESCHICHTE_CONFIG: LanguageTestEngineConfig = {
 
   bgChars: BG_CHARS,
   bgColors: BG_COLORS,
+  grades: [5, 6, 7, 8],
+  hideLesetest: true,
 
   countries: [
     { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
