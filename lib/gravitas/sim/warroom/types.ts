@@ -31,6 +31,7 @@ export interface WarRoomProductionSlot {
 
 export interface WarRoomState {
   level: number;
+  online: boolean;
   productionSlot: WarRoomProductionSlot | null;
   garrison: Record<WarRoomUnitId, number>;
 }

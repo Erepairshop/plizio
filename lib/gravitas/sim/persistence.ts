@@ -63,12 +63,6 @@ function sanitizeContinuationState(state: StarholdState): StarholdState {
         integrity: Math.max(82, state.modules.sensor.integrity),
         load: Math.min(10, state.modules.sensor.load),
       },
-      warroom: {
-        ...state.modules.warroom,
-        online: false,
-        integrity: Math.max(40, state.modules.warroom?.integrity ?? 40),
-        load: 0,
-      },
     },
   });
 }
@@ -207,16 +201,6 @@ export function loadGravitasState(): StarholdState | null {
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
       warRoom: parsed.warRoom ?? createInitialWarRoom(),
     };
-    // Migrate modules + bootstrap — add warroom if missing from old saves
-    if (!nextState.modules.warroom) {
-      nextState.modules = {
-        ...nextState.modules,
-        warroom: { id: "warroom", name: { en: "Command Deck", hu: "Főhadiszállás", de: "Kommandozentrale", ro: "Centrul de comandă" }, online: false, integrity: 40, load: 0 },
-      };
-    }
-    if (nextState.bootstrapChecklist && !("warroom" in nextState.bootstrapChecklist)) {
-      (nextState.bootstrapChecklist as Record<string, boolean>).warroom = false;
-    }
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));
       nextState.repairChallenge = {

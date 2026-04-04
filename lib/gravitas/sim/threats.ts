@@ -345,7 +345,7 @@ export function getUpcomingDamagePreview(state: StarholdState): {
   
   let stabilityLoss = 0;
   let powerLoss = 0;
-  let moduleDamage: Record<StarholdModuleId, number> = { reactor: 0, logistics: 0, core: 0, sensor: 0, warroom: 0 };
+  let moduleDamage: Record<StarholdModuleId, number> = { reactor: 0, logistics: 0, core: 0, sensor: 0 };
   let markGain: Partial<StarholdMarks> = {};
 
   switch (threat.type) {

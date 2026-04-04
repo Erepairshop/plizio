@@ -11,7 +11,7 @@ export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId): boole
   if (!def) return false;
   if (def.minLevel > state.warRoom.level) return false;
   if (state.warRoom.productionSlot !== null) return false;
-  if (!state.modules.warroom?.online) return false;
+  if (!state.warRoom.online) return false;
   if (state.resources.materials < def.cost.materials) return false;
   if (def.cost.power && state.resources.power < def.cost.power) return false;
   return true;

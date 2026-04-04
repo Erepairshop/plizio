@@ -10,7 +10,7 @@ export function tickWarRoom(state: StarholdState): StarholdState {
   if (!slot) return state;
 
   // Production pauses when war-room is offline — NOT cancelled
-  if (!state.modules.warroom?.online) return state;
+  if (!state.warRoom.online) return state;
 
   const remaining = slot.remaining - 1;
 

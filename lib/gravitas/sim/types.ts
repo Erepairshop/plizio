@@ -1,4 +1,4 @@
-export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom";
+export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor";
 
 export interface StarholdModuleState {
   id: StarholdModuleId;

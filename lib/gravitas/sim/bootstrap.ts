@@ -21,7 +21,6 @@ export function createInitialBootstrapChecklist(): StarholdBootstrapChecklist {
     logistics: false,
     core: false,
     sensor: false,
-    warroom: false,
   };
 }
 
@@ -31,7 +30,6 @@ export function createCompleteBootstrapChecklist(): StarholdBootstrapChecklist {
     logistics: true,
     core: true,
     sensor: true,
-    warroom: true,
   };
 }
 
@@ -73,7 +71,5 @@ export function inferBootstrapChecklist(state: Pick<StarholdState, "threatCycle"
     sensor:
       state.modules.sensor.integrity !== initial.sensor.integrity ||
       state.modules.sensor.load !== initial.sensor.load,
-    warroom:
-      state.modules.warroom?.online || false,
   };
 }
