@@ -152,7 +152,7 @@ export function ModuleArtOverlay({
     {
       id: "warroom" as const,
       src: "/gravitas/modules/command-deck.webp",
-      className: "left-[55%] top-[34%] z-[11] w-[33%] max-w-[252px] sm:left-[61%] sm:top-[28%] sm:w-[22%] sm:max-w-[244px]",
+      className: "left-[55%] top-[34%] z-[19] w-[33%] max-w-[252px] sm:left-[61%] sm:top-[28%] sm:w-[22%] sm:max-w-[244px]",
       hitboxClassName: "inset-[12%]",
       imageClassName: "-translate-y-[1%] scale-[1.02]",
       motion: { y: [-2, 1.5, -1], x: [0, 0.8, 0], rotate: [-0.2, 0.3, -0.1] },

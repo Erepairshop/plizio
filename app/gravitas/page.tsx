@@ -163,7 +163,7 @@ export default function GravitasPage() {
   };
 
   const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
-    if ((moduleId === "sensor" || moduleId === "reactor" || moduleId === "core") && moduleId === selectedModule && moduleInfoOpen) {
+    if ((moduleId === "sensor" || moduleId === "reactor" || moduleId === "core" || moduleId === "warroom") && moduleId === selectedModule && moduleInfoOpen) {
       setInteriorView(moduleId);
       setModuleInfoOpen(false);
       return;
