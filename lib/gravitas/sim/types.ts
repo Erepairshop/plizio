@@ -293,6 +293,8 @@ export interface StarholdState {
   supplyRoutes: import("./supplyroute/types").SupplyRouteState;
   codex: import("./codex/types").CodexState;
   notifications: import("./notifications/types").NotificationState;
+  /** Officer/Hero system */
+  officers: import("./officers/types").OfficerState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -354,3 +356,4 @@ export type StarholdCommand =
   | { type: "MARK_CODEX_READ"; entryId: string }
   | { type: "DISMISS_NOTIFICATION"; id: string }
   | { type: "MARK_NOTIFICATIONS_READ" };
+fficerId: string };

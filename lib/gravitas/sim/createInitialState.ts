@@ -166,6 +166,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       supplyRoutes: createInitialSupplyRouteState(),
       codex: createInitialCodexState(),
       notifications: createInitialNotificationState(),
+      officers: createInitialOfficerState(),
       lastActiveAt: Date.now(),    });
   }
 
@@ -285,5 +286,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     supplyRoutes: createInitialSupplyRouteState(),
     codex: createInitialCodexState(),
     notifications: createInitialNotificationState(),
+  };
+}
+nState(),
   };
 }

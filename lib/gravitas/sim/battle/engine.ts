@@ -390,6 +390,9 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   if (playerState.commander.effects.lootBonus) {
     lootMultiplier *= (1 + playerState.commander.effects.lootBonus);
   }
+  if (officer && officer.status === "ready" && officer.trait === "scavenger") {
+    lootMultiplier *= 1.25 + (officer.level * 0.03);
+  }
   const loot = rewardPack.loot;
   if (loot) {
     Object.keys(loot.materials).forEach(matId => {
@@ -425,5 +428,20 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     intelGained: victory ? 12 : 4,
     casualties,
     replay: generateReplayLog(phases),
+  };
+}
+ent: army.units,
+      enemyGarrisonDestroyed: Math.max(0, enemy.stats.garrison - runtime.enemyGarrison),
+      traitTriggered: Array.from(ctx.traitTriggered) as EnemyTraitId[],
+      counterUsed: Array.from(ctx.countersUsed),
+    },
+    loot: rewardPack.loot,
+    intelGained: victory ? 12 : 4,
+    casualties,
+    replay: generateReplayLog(phases),
+    officerStatus,
+  };
+}
+lay: generateReplayLog(phases),
   };
 }

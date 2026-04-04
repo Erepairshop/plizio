@@ -40,6 +40,7 @@ export interface EnemyBuilding {
 export interface BattleArmy {
   units: Record<string, number>;
   tacticId: BattleTacticId;
+  officerId?: string;
 }
 
 export type BattleTacticId = "aggressive" | "defensive" | "flanking" | "blitz" | "siege";
@@ -223,4 +224,6 @@ export const BATTLE_UNIT_PROFILES: Record<string, BattleUnitProfile> = {
   vanguard: { id: "vanguard", role: "assault", attack: 24, defense: 12, speed: 16, hp: 28 },
   wraith: { id: "wraith", role: "recon", attack: 14, defense: 10, speed: 26, hp: 20 },
   nexus: { id: "nexus", role: "support", attack: 6, defense: 14, speed: 12, hp: 22 },
+};
+: { id: "nexus", role: "support", attack: 6, defense: 14, speed: 12, hp: 22 },
 };

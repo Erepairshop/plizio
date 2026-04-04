@@ -60,6 +60,7 @@ export default function ArmySetup({
   const [allocation, setAllocation] = useState<AvatarCombatAllocation>(avatarCombat.allocation);
   const [selectedUnits, setSelectedUnits] = useState<Record<string, number>>({});
   const [tacticId, setTacticId] = useState<BattleTacticId>("aggressive");
+  const [selectedOfficerId, setSelectedOfficerId] = useState<string>("");
 
   const intel = scoutReport.intelLevel;
   const showFaction = intel >= 25;
@@ -353,31 +354,65 @@ export default function ArmySetup({
             <span className="text-[10px] font-black uppercase tracking-wider text-indigo-300/70">Strategic Tactic</span>
           </div>
 
-          <div className="flex flex-wrap gap-1.5 mb-3">
-            {(Object.keys(BATTLE_TACTICS) as BattleTacticId[]).map(id => {
-              const tactic = BATTLE_TACTICS[id];
-              const active = tacticId === id;
-              
-              return (
-                <button
-                  key={id}
-                  onClick={() => setTacticId(id)}
-                  className={`px-2.5 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-wider transition ${
-                    active 
-                      ? "bg-indigo-500 text-white shadow-[0_0_12px_rgba(99,102,241,0.4)]" 
-                      : "bg-white/5 text-white/40 hover:bg-white/10"
-                  }`}
-                >
-                  {localize(lang, tactic.name)}
-                </button>
-              );
-            })}
+            <div className="grid grid-cols-2 gap-2 mt-4">
+              {(Object.keys(BATTLE_TACTICS) as BattleTacticId[]).map(id => {
+                const tactic = BATTLE_TACTICS[id];
+                const active = tacticId === id;
+                
+                return (
+                  <button
+                    key={id}
+                    onClick={() => setTacticId(id)}
+                    className={`px-2.5 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-wider transition ${
+                      active 
+                        ? "bg-indigo-500 text-white shadow-[0_0_12px_rgba(99,102,241,0.4)]" 
+                        : "bg-white/5 text-white/40 hover:bg-white/10"
+                    }`}
+                  >
+                    {localize(lang, tactic.name)}
+                  </button>
+                );
+              })}
+            </div>
+
+            <div className="p-2 mt-3 rounded-xl bg-black/30 border border-white/5 text-[10px] leading-relaxed text-indigo-100/80 italic">
+              "{localize(lang, BATTLE_TACTICS[tacticId].description)}"
+            </div>
           </div>
 
-          <div className="p-2 rounded-xl bg-black/30 border border-white/5 text-[10px] leading-relaxed text-indigo-100/80 italic">
-            "{localize(lang, BATTLE_TACTICS[tacticId].description)}"
+          <div className="rounded-2xl border border-purple-500/20 bg-purple-500/5 p-3">
+            <div className="flex items-center gap-2 mb-3 border-b border-white/10 pb-2">
+              <Medal size={14} className="text-purple-400" />
+              <span className="text-[10px] font-black uppercase tracking-wider text-purple-300/70">Assign Officer</span>
+            </div>
+            {state.officers?.active?.length === 0 ? (
+              <div className="text-xs text-white/30 italic">No active officers available.</div>
+            ) : (
+              <div className="space-y-2">
+                <button
+                  onClick={() => setSelectedOfficerId("")}
+                  className={`w-full p-2 border rounded-xl text-left transition-all text-xs font-bold ${selectedOfficerId === "" ? "bg-purple-900/40 border-purple-500/50 text-white" : "bg-black/30 border-white/5 text-white/50"}`}
+                >
+                  No Officer
+                </button>
+                {state.officers?.active?.map(o => (
+                  <button
+                    key={o.id}
+                    onClick={() => setSelectedOfficerId(o.id)}
+                    disabled={o.status !== "ready"}
+                    className={`w-full p-2 border rounded-xl text-left transition-all flex items-center justify-between ${o.status !== "ready" ? "opacity-30 cursor-not-allowed" : selectedOfficerId === o.id ? "bg-purple-900/40 border-purple-500/50" : "bg-black/30 border-white/5 hover:bg-white/5"}`}
+                  >
+                    <div>
+                      <div className={`text-xs font-bold ${selectedOfficerId === o.id ? "text-purple-300" : "text-white"}`}>{o.name} <span className="text-[9px] text-white/40">LVL {o.level}</span></div>
+                    </div>
+                    {o.status !== "ready" && <span className="text-[9px] text-rose-400 uppercase tracking-widest">Wounded</span>}
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
         </div>
+
       </div>
 
       {/* Footer / Start Button */}

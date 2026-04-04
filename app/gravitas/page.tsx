@@ -1666,7 +1666,7 @@ export default function GravitasPage() {
                 <BattleReport
                   result={battleReportResult}
                   enemy={getEnemyBuildingById(battleNode.variantId || battleNode.id || "")!}
-                  army={{ units: Object.fromEntries(Object.entries(state.warRoom.garrison).map(([k, entries]) => [k, (entries as any[]).reduce((s: number, e: any) => s + e.count, 0)])), tacticId: "aggressive" }}
+                  army={{ units: Object.fromEntries(Object.entries(state.warRoom.garrison).map(([k, entries]) => [k, (entries as any[]).reduce((s: number, e: any) => s + e.count, 0)])), tacticId: "aggressive", officerId: undefined }}
                   intelBefore={state.battleState.scoutReports[battleNode.id]?.intelLevel ?? 0}
                   onBackToGalaxy={() => {
                     dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
@@ -2050,6 +2050,11 @@ export default function GravitasPage() {
             active={interiorView === "codex"}
             onClick={() => setInteriorView(interiorView === "codex" ? null : "codex")}
             showDot={state.codex.unlockedEntries.length > state.codex.readEntries.length}
+          />
+          <MapMiniButton
+            icon={<Medal size={14} />}
+            active={interiorView === "officers"}
+            onClick={() => setInteriorView(interiorView === "officers" ? null : "officers")}
           />
           <MapMiniButton
             icon={<FlaskConical size={14} />}

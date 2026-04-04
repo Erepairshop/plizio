@@ -452,3 +452,15 @@ export const VETERAN_CONFIG = {
     legendary: { minBattles: 50, statBonus: 0.20 },
   }
 } as const;
+
+export const OFFICER_CONFIG = {
+  maxActiveOfficers: 4,
+  recruitRefreshMs: 12 * 60 * 60 * 1000, // 12 hours
+  recruitPoolSize: 3,
+  baseRecruitCost: 1500, // Supply
+  xpPerBattle: 50,
+  xpPerLevel: 100, // level = floor(xp/100) + 1
+  maxLevel: 10,
+  woundChanceBase: 0.1, // Base chance to get wounded if units are lost
+  woundDurationMs: 4 * 60 * 60 * 1000, // 4 hours
+} as const;
