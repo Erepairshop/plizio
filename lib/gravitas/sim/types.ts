@@ -10,9 +10,14 @@ export interface StarholdModuleState {
 
 export interface StarholdResources {
   power: number;
-  materials: number;
+  supply: number;
   stability: number;
   activation: number;
+  hull: number;
+  shield: number;
+  morale: number;
+  signalRange: number;
+  supplyFlow: number;
 }
 
 export interface StarholdMarks {

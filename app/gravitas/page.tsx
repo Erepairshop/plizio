@@ -6,7 +6,7 @@ import Link from "next/link";
 import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
   AlertTriangle, Activity, Zap, ShieldAlert,
-  Layers, FileText, X, RotateCcw,
+  Layers, FileText, X, RotateCcw, Package, Shield, Heart,
   Terminal, ShieldHalf, LayoutGrid, Brain, UserRound, ArrowUpCircle
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -31,7 +31,6 @@ import {
   AvatarBaseChip,
   HUDChip,
   MapMiniButton,
-  MaterialResourceGlyph,
   MiniActionButton,
   StationHealthRing,
 } from "@/components/gravitas/GravitasUiParts";
@@ -71,7 +70,7 @@ function moduleIcon(moduleId: StarholdModuleId) {
 }
 
 type Lang = "en" | "hu" | "de" | "ro";
-type ResourceHelpKey = "power" | "materials" | "stability" | "activation" | "entropy";
+type ResourceHelpKey = "power" | "supply" | "stability" | "activation" | "entropy" | "hull" | "shield" | "morale" | "signalRange" | "supplyFlow";
 type QuickActionTone = "default" | "warning" | "danger";
 
 type QuickActionItem = {
@@ -401,25 +400,130 @@ export default function GravitasPage() {
         ro: "Crește prin stabilizarea reactorului, menținerea rețelei sănătoase și evitarea pierderilor din criză.",
       },
     },
-    materials: {
-      title: { en: "Materials", hu: "Nyersanyag", de: "Material", ro: "Materiale" },
+    supply: {
+      title: { en: "Supply", hu: "Ellátás", de: "Versorgung", ro: "Aprovizionare" },
       body: {
-        en: "Materials are your repair and fabrication reserve. Stabilizing and patching systems often spends them.",
-        hu: "A nyersanyag a javítás és gyártás tartaléka. A stabilizálás és javítás gyakran ebből költ.",
-        de: "Material ist deine Reparatur- und Fertigungsreserve. Stabilisierung und Reparaturen verbrauchen sie oft.",
-        ro: "Materialele sunt rezerva ta pentru reparații și fabricație. Stabilizarea și repararea le consumă des.",
+        en: "The station's repair and fabrication reserve. Logistics level determines passive generation.",
+        hu: "Az állomás javítási és gyártási tartaléka. A logisztika szintje határozza meg az utánpótlás sebességét.",
+        de: "Die Reparatur- und Fertigungsreserve der Station. Das Logistik-Level bestimmt die Nachschubrate.",
+        ro: "Rezerva de reparații și fabricație a stației. Nivelul de logistică determină rata de aprovizionare.",
       },
       impact: {
-        en: "If materials run low, repairs fail and some logistics-driven options disappear.",
-        hu: "Ha kevés a nyersanyag, a javítások elbuknak, és több logisztikai opció eltűnik.",
-        de: "Wenn Material fehlt, scheitern Reparaturen und einige logistikbasierte Optionen verschwinden.",
-        ro: "Dacă materialele scad prea mult, reparațiile eșuează și dispar unele opțiuni logistice.",
+        en: "If it runs out, repairs fail and several logistics options are blocked.",
+        hu: "Ha kifogy, javítások és egyes akciók blokkolódnak.",
+        de: "Wenn sie ausgeht, schlagen Reparaturen fehl und Logistikoptionen werden blockiert.",
+        ro: "Dacă se epuizează, reparațiile eșuează și opțiunile logistice sunt blocate.",
       },
       fix: {
-        en: "Increase it with scavange cycles, logistics upkeep, and by avoiding waste during meteor pressure.",
-        hu: "Gyűjtőciklusokkal, a logisztika karbantartásával és a meteoros nyomás alatti pazarlás elkerülésével növelhető.",
-        de: "Erhöhe es mit Bergungszyklen, gesunder Logistik und weniger Verschwendung unter Meteordruck.",
-        ro: "Crește prin cicluri de colectare, întreținerea logisticii și evitarea risipei sub presiune meteoritică.",
+        en: "Raise Logistics level and use scavenger drones to recover more.",
+        hu: "Logisztika szint emelésével és galaxy bányászattal növelhető.",
+        de: "Logistik-Level erhöhen und Bergungsdrohnen für mehr Nachschub nutzen.",
+        ro: "Crește nivelul Logisticii și folosește drone de colectare pentru a recupera mai mult.",
+      },
+    },
+    hull: {
+      title: { en: "Hull", hu: "Páncél", de: "Hülle", ro: "Blindaj" },
+      body: {
+        en: "The physical integrity of the base. The Core level determines maximum capacity.",
+        hu: "A bázis fizikai állapota. A Core szintje határozza meg a maximumot. Fenyegetések és becsapódások csökkentik.",
+        de: "Die physische Integrität der Basis. Das Kern-Level bestimmt die maximale Kapazität.",
+        ro: "Integritatea fizică a bazei. Nivelul Core determină capacitatea maximă.",
+      },
+      impact: {
+        en: "If it drops to 0, the station is destroyed.",
+        hu: "Ha 0-ra csökken, az állomás megsemmisül.",
+        de: "Wenn sie auf 0 fällt, wird die Station zerstört.",
+        ro: "Dacă scade la 0, stația este distrusă.",
+      },
+      fix: {
+        en: "Raise Core level to increase max HP. Repairs and low entropy help maintain it.",
+        hu: "Core szint emelése növeli a max HP-t. Javítások és alacsony entrópia segít fenntartani.",
+        de: "Kern-Level erhöhen für mehr Max-HP. Reparaturen und niedrige Entropie helfen.",
+        ro: "Crește nivelul Core pentru mai mult HP maxim. Reparațiile și entropia scăzută ajută.",
+      },
+    },
+    shield: {
+      title: { en: "Shield", hu: "Pajzs", de: "Schild", ro: "Scut" },
+      body: {
+        en: "Energy shield around the base. The Warroom level determines its strength.",
+        hu: "Energiapajzs a bázis körül. A Warroom szintje határozza meg az erősségét. Fenyegetések ellen először a pajzs szívja el a sérülést.",
+        de: "Energieschild um die Basis. Das Warroom-Level bestimmt seine Stärke.",
+        ro: "Scut de energie în jurul bazei. Nivelul Warroom îi determină puterea.",
+      },
+      impact: {
+        en: "If 0, all incoming damage hits the hull directly.",
+        hu: "Ha 0, minden sérülés közvetlenül a páncélra hat.",
+        de: "Bei 0 trifft jeglicher Schaden direkt die Hülle.",
+        ro: "Dacă este 0, toate daunele lovesc direct blindajul.",
+      },
+      fix: {
+        en: "Raise Warroom level, use Fortify Shell, and keep the warroom online to regenerate.",
+        hu: "Warroom szint emelés, Fortify Shell parancs, és a warroom online tartása regenerálja.",
+        de: "Warroom-Level erhöhen, Fortify Shell nutzen und Warroom online halten zur Regeneration.",
+        ro: "Crește nivelul Warroom, folosește Fortify Shell și menține warroom-ul online pentru regenerare.",
+      },
+    },
+    morale: {
+      title: { en: "Morale", hu: "Morál", de: "Moral", ro: "Moral" },
+      body: {
+        en: "Crew and system harmony. Balanced module levels keep it high; lagging modules lower it.",
+        hu: "A legénység és rendszerek összehangoltsága. Ha a modulok egyensúlyban vannak (nincs nagy szintkülönbség), magas. Ha modulok lemaradnak a Core-tól, csökken.",
+        de: "Harmonie von Crew und Systemen. Ausgeglichene Modul-Level halten sie hoch.",
+        ro: "Armonia echipajului și a sistemelor. Nivelurile echilibrate ale modulelor o mențin ridicată.",
+      },
+      impact: {
+        en: "Low morale slows command efficiency and increases anomaly risks.",
+        hu: "Alacsony morál lassítja a parancsok hatékonyságát és növeli az anomáliák esélyét.",
+        de: "Niedrige Moral verlangsamt Befehlseffizienz und erhöht Anomalierisiken.",
+        ro: "Moralul scăzut încetinește eficiența comenzilor și crește riscul de anomalii.",
+      },
+      fix: {
+        en: "Keep module levels balanced—don't let any module fall 3+ levels behind the Core.",
+        hu: "Tartsd a modulokat egyensúlyban — ne hagyd, hogy bármelyik 3+ szinttel lemaradjon a Core-tól.",
+        de: "Modul-Level ausbalanciert halten — keines 3+ Level hinter den Kern zurückfallen lassen.",
+        ro: "Menține nivelurile modulelor echilibrate — nu lăsa niciunul cu 3+ niveluri în urma Core-ului.",
+      },
+    },
+    signalRange: {
+      title: { en: "Signal", hu: "Jelzés", de: "Signal", ro: "Semnal" },
+      body: {
+        en: "Sensor range. Higher Sensor level sees further, warns of threats earlier, and boosts mining.",
+        hu: "A szenzor hatótávja. Magasabb szintű szenzor messzebbre lát, korábban figyelmeztet fenyegetésekre, és növeli a galaxy bányászat hatékonyságát.",
+        de: "Sensorreichweite. Höheres Sensor-Level sieht weiter, warnt früher und verbessert Bergbau.",
+        ro: "Raza senzorului. Un nivel mai mare al Senzorului vede mai departe, avertizează mai devreme și stimulează mineritul.",
+      },
+      impact: {
+        en: "Low signal = late threat warnings, less time to prepare.",
+        hu: "Alacsony jelzés = késői figyelmeztetés fenyegetésekre, kevesebb idő felkészülni.",
+        de: "Niedriges Signal = späte Warnungen, weniger Vorbereitungszeit.",
+        ro: "Semnal slab = avertizări târzii de amenințări, mai puțin timp de pregătire.",
+      },
+      fix: {
+        en: "Upgrade the Sensor module.",
+        hu: "Sensor modul szintjének emelésével növelhető.",
+        de: "Werte das Sensormodul auf.",
+        ro: "Îmbunătățește modulul Senzor.",
+      },
+    },
+    supplyFlow: {
+      title: { en: "Flow", hu: "Áramlás", de: "Fluss", ro: "Flux" },
+      body: {
+        en: "Passive supply generation rate, driven by Logistics level.",
+        hu: "A logisztikai rendszer passzív anyagáramlása. Magasabb logisztika szint = gyorsabb automatikus utánpótlás és bányászat.",
+        de: "Passive Nachschubrate, angetrieben durch Logistik-Level.",
+        ro: "Rata pasivă de generare a aprovizionării, condusă de nivelul Logisticii.",
+      },
+      impact: {
+        en: "Low flow = slower building and repairs, less passive income.",
+        hu: "Alacsony áramlás = lassabb építés és javítás, kevesebb passzív bevétel.",
+        de: "Niedriger Fluss = langsamer Bau und Reparatur, weniger passives Einkommen.",
+        ro: "Flux scăzut = construire și reparații mai lente, mai puține venituri pasive.",
+      },
+      fix: {
+        en: "Upgrade the Logistics module.",
+        hu: "Logistics modul fejlesztésével növelhető.",
+        de: "Werte das Logistikmodul auf.",
+        ro: "Îmbunătățește modulul Logistică.",
       },
     },
     stability: {
@@ -924,7 +1028,7 @@ export default function GravitasPage() {
 
     const delta = {
       power: next.resources.power - prev.resources.power,
-      materials: next.resources.materials - prev.resources.materials,
+      supply: next.resources.supply - prev.resources.supply,
       stability: next.resources.stability - prev.resources.stability,
       activation: next.resources.activation - prev.resources.activation,
     };
@@ -936,10 +1040,10 @@ export default function GravitasPage() {
       case "SCAVENGE":
         if (hasResourceShift) {
           return {
-            en: `Salvage ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "PWR")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
-            hu: `Bergés ${format(delta.materials, "ANY")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
-            de: `Bergung ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
-            ro: `Recuperare ${format(delta.materials, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            en: `Salvage ${format(delta.supply, "MAT")}${delta.power ? `, ${format(delta.power, "PWR")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            hu: `Bergés ${format(delta.supply, "ANY")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            de: `Bergung ${format(delta.supply, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
+            ro: `Recuperare ${format(delta.supply, "MAT")}${delta.power ? `, ${format(delta.power, "ENE")}` : ""}${delta.stability ? `, ${format(delta.stability, "STB")}` : ""}.`,
           };
         }
         break;
@@ -998,10 +1102,10 @@ export default function GravitasPage() {
         };
       case "OPTIMIZE_LOGISTICS":
         return {
-          en: `Logistics optimized. ${format(delta.materials, "MAT")} flow improved.`,
-          hu: `Logisztika optimalizálva. ${format(delta.materials, "ANY")} áramlás javult.`,
-          de: `Logistik optimiert. ${format(delta.materials, "MAT")} Fluss verbessert.`,
-          ro: `Logistica optimizată. Fluxul a crescut cu ${format(delta.materials, "MAT")}.`,
+          en: `Logistics optimized. ${format(delta.supply, "MAT")} flow improved.`,
+          hu: `Logisztika optimalizálva. ${format(delta.supply, "ANY")} áramlás javult.`,
+          de: `Logistik optimiert. ${format(delta.supply, "MAT")} Fluss verbessert.`,
+          ro: `Logistica optimizată. Fluxul a crescut cu ${format(delta.supply, "MAT")}.`,
         };
       case "DEEP_SCAN":
         return {
@@ -1112,7 +1216,7 @@ export default function GravitasPage() {
     if (hasResourceShift) {
       const pieces = [
         delta.power ? format(delta.power, "PWR") : null,
-        delta.materials ? format(delta.materials, "MAT") : null,
+        delta.supply ? format(delta.supply, "MAT") : null,
         delta.stability ? format(delta.stability, "STB") : null,
         delta.activation ? format(delta.activation, "ACT") : null,
       ].filter(Boolean);
@@ -1242,14 +1346,17 @@ export default function GravitasPage() {
         {/* Row 1: Stats */}
         <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
           <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
-          <HUDChip
-            icon={<MaterialResourceGlyph active={isScavengeActive} />}
-            value={state.resources.materials}
-            color="text-indigo-300"
-            onClick={() => setResourceHelpOpen("materials")}
-          />
+          <HUDChip icon={<Package size={12} />} value={state.resources.supply} color="text-indigo-300" onClick={() => setResourceHelpOpen("supply")} />
           <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
-          <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
+          <HUDChip icon={<Heart size={12} />} value={state.resources.hull} color="text-rose-400" onClick={() => setResourceHelpOpen("hull")} />
+          <HUDChip icon={<Shield size={12} />} value={state.resources.shield} color="text-blue-400" onClick={() => setResourceHelpOpen("shield")} />
+          <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-red-400" onClick={() => setResourceHelpOpen("entropy")} />
+        </div>
+        {/* Row 2: Derived stats */}
+        <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
+          <HUDChip icon={<Star size={12} />} value={state.resources.morale} color="text-yellow-400" onClick={() => setResourceHelpOpen("morale")} />
+          <HUDChip icon={<Radar size={12} />} value={state.resources.signalRange} color="text-cyan-400" onClick={() => setResourceHelpOpen("signalRange")} />
+          <HUDChip icon={<ArrowUpCircle size={12} />} value={state.resources.supplyFlow} color="text-indigo-400" onClick={() => setResourceHelpOpen("supplyFlow")} />
           {state.chapter === "demo" && (
             <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
           )}

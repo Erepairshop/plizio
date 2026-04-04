@@ -105,7 +105,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
   let nextPower = resources.power;
   let nextStability = resources.stability;
-  let nextMaterials = resources.materials;
+  let nextMaterials = resources.supply;
   let nextModules = { ...modules };
   let nextMarks = { ...marks };
   let nextAnomalies = [...state.anomalies];
@@ -253,7 +253,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       ...resources,
       power: nextPower,
       stability: nextStability,
-      materials: nextMaterials,
+      supply: nextMaterials,
     },
     modules: nextModules,
     marks: nextMarks,

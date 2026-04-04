@@ -105,8 +105,8 @@ export const STARHOLD_MILESTONES: StarholdMilestone[] = [
     id: "deep_scavenger",
     label: { en: "Deep Scavenger", hu: "Mély gyűjtögető", de: "Tiefensammler", ro: "Recuperator profund" },
     rewardStars: 2,
-    check: (s) => s.resources.materials >= 80,
-    getProgress: (s) => Math.min(100, (s.resources.materials / 80) * 100),
+    check: (s) => s.resources.supply >= 80,
+    getProgress: (s) => Math.min(100, (s.resources.supply / 80) * 100),
   },
   {
     id: "power_grid",

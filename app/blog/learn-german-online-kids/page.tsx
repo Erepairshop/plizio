@@ -91,14 +91,18 @@ export default function LearnGermanOnlinePage() {
         <h2 style={styles.h2}>Making German Fun and Interactive</h2>
         <p style={styles.p}>Gone are the days when learning meant rote memorization. Our interactive platform focuses on gamification. Fun games turn every lesson into a quest, ensuring that the dopamine hit of 'winning' is tied directly to linguistic progress. With real-time feedback, children never feel lost; they are guided through every step of the journey.</p>
         
-        <h2 style={styles.h2}>The Plizio Approach to Language Acquisition</h2>
-        <p style={styles.p}>Start practicing today with <Link href="/astrodeutsch" style={{color: "#00D4FF"}}>AstroDeutsch</Link>. Our platform adapts to your child's learning pace, ensuring they aren't overwhelmed but always challenged. If you want to check your child's current level, our <Link href="/deutschtest" style={{color: "#00D4FF"}}>German proficiency test</Link> is a great starting point. For those just beginning, we recommend starting with <Link href="/astrodeutsch/1" style={{color: "#00D4FF"}}>Grade 1 lessons</Link> to build a solid foundation.</p>
-        
-        <p style={styles.p}>Consistency is the ultimate key to success. By using our interactive resources for just a few minutes every day, you can turn study time into your child's favorite part of the afternoon.</p>
-        
+        <h2 style={styles.h2}>The Benefits of a Bilingual Foundation</h2>
+        <p style={styles.p}>Research consistently shows that children who learn a second language like German develop better problem-solving skills, enhanced creativity, and a more flexible mindset. Beyond the cognitive advantages, being bilingual fosters cultural empathy. By understanding how Germans structure their thoughts through language, children gain a broader perspective on the world. In an increasingly globalized job market, having German as a second language is a significant competitive advantage that starts with simple, fun exercises in primary school.</p>
+
+        <h2 style={styles.h2}>How to Stay Motivated: Beyond the Digital Screen</h2>
+        <p style={styles.p}>While our digital tools provide the foundation, staying motivated requires a multi-faceted approach. We recommend a "low-pressure, high-reward" environment. Don't focus on the grades; focus on the ability to communicate. Celebrate when your child remembers a difficult word or correctly uses a past tense during a game. To supplement their learning, you can also explore our <Link href="/deutsch-test" style={{color: "#00D4FF"}}>quick German assessment</Link> to see how their vocabulary is growing week by week.</p>
+
+        <h2 style={styles.h2}>The Importance of Spaced Repetition</h2>
+        <p style={styles.p}>Our platform utilizes principles of spaced repetition. This means we re-introduce challenging words and grammatical rules at specific intervals to ensure they move from short-term to long-term memory. This scientific approach is far more effective than "cramming" for a test. By spending just 10 minutes a day on <Link href="/astrodeutsch" style={{color: "#00D4FF"}}>AstroDeutsch</Link>, your child is building a linguistic structure that will last a lifetime.</p>
+
         <div style={{ padding: "24px", background: "#12122A", borderRadius: "16px", borderLeft: "4px solid #00D4FF", marginTop: "40px" }}>
-            <h3 style={{ marginTop: 0, color: "#00D4FF" }}>A Quick Tip for Parents</h3>
-            <p style={{ margin: 0, color: "#d0d0e8" }}>Try to integrate German into daily life! Labels on kitchen items or listening to German nursery rhymes together can reinforce what they learn online. When a child sees the language being used in the real world, its value increases exponentially in their eyes.</p>
+            <h3 style={{ marginTop: 0, color: "#00D4FF" }}>Final Conclusion</h3>
+            <p style={{ margin: 0, color: "#d0d0e8" }}>Learning German doesn't have to be a chore. With the right mix of interactive technology, parental support, and consistent practice, any child can become confident in German. Start your journey today and watch your child's world expand through the power of language.</p>
         </div>
 
         <div style={{ marginTop: "40px" }}>

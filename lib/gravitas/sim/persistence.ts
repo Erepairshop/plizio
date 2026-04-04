@@ -30,7 +30,7 @@ function sanitizeContinuationState(state: StarholdState): StarholdState {
     anomalies: [],
     resources: {
       ...state.resources,
-      materials: Math.max(1_000, state.resources.materials),
+      supply: Math.max(1_000, state.resources.supply),
     },
     threat: {
       ...state.threat,
@@ -160,9 +160,23 @@ export function loadGravitasState(): StarholdState | null {
       };
     }
 
+    const migratedResources = {
+      ...parsed.resources,
+      supply: parsed.resources.supply ?? (parsed.resources as any).materials ?? 100,
+      hull: parsed.resources.hull ?? 100,
+      shield: parsed.resources.shield ?? 25,
+      morale: parsed.resources.morale ?? 75,
+      signalRange: parsed.resources.signalRange ?? 30,
+      supplyFlow: parsed.resources.supplyFlow ?? 20,
+    };
+    if ((migratedResources as any).materials !== undefined) {
+      delete (migratedResources as any).materials;
+    }
+
     const nextState: StarholdState = {
       ...parsed,
       chapter: parsed.chapter ?? (parsed.avatarAwake ? "continuation" : "demo"),
+      resources: migratedResources as any,
       threatCycle: parsed.threatCycle ?? 0,
       lastAvatarPulse: parsed.lastAvatarPulse ?? -100,
       lowEntropyStreak: parsed.lowEntropyStreak ?? 0,

@@ -15,9 +15,14 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       chapter,
       resources: {
         power: 84,
-        materials: 1_000,
+        supply: 1_000,
         stability: 88,
         activation: 100,
+        hull: 100,
+        shield: 25,
+        morale: 75,
+        signalRange: 30,
+        supplyFlow: 20,
       },
       marks: {
         reactorScar: 0,
@@ -127,9 +132,14 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     chapter,
     resources: {
       power: 36,
-      materials: 100,
+      supply: 100,
       stability: 64,
       activation: 0,
+      hull: 100,
+      shield: 25,
+      morale: 75,
+      signalRange: 30,
+      supplyFlow: 20,
     },
     marks: {
       reactorScar: 0,

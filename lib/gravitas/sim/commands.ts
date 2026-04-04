@@ -170,7 +170,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const profile = getModuleActionProfile("reactor");
       const introWindow = state.phase === "boot" && state.tick < 90;
       const cost = Math.max(1, Math.ceil(profile.repairCost * mods.powerCostMod) - (introWindow ? 1 : 0));
-      if (state.resources.materials < cost) {
+      if (state.resources.supply < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.noMaterials);
       }
       if (state.chapter === "continuation") {
@@ -180,7 +180,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ...state,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials - cost),
+            supply: clamp(state.resources.supply - cost),
           },
           modules: {
             ...state.modules,
@@ -217,7 +217,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         return advanceRepairChallenge({
           ...markBootstrapCheckpoint(state, "reactor"),
           resources: addResourceDelta(state.resources, {
-            materials: -cost,
+            supply: -cost,
             stability: 100,
           }),
           modules: {
@@ -236,7 +236,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       return {
         ...markBootstrapCheckpoint(state, "reactor"),
         resources: addResourceDelta(state.resources, {
-          materials: -cost,
+          supply: -cost,
         }),
         activeOperation: null,
         modules: {
@@ -267,7 +267,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "REPAIR_MODULE": {
       const profile = getModuleActionProfile(command.moduleId);
       const cost = 10;
-      if (state.resources.materials < cost) {
+      if (state.resources.supply < cost) {
         return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       }
       if (state.chapter === "continuation") {
@@ -277,7 +277,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ...state,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials - cost),
+            supply: clamp(state.resources.supply - cost),
           },
           modules: {
             ...state.modules,
@@ -303,7 +303,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ? command.moduleId === "reactor"
             ? { stability: 100 }
             : command.moduleId === "logistics"
-              ? { materials: 100 }
+              ? { supply: 100 }
               : command.moduleId === "sensor"
                 ? { power: 100 }
                 : {}
@@ -311,7 +311,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       return advanceRepairChallenge({
         ...markBootstrapCheckpoint(state, command.moduleId),
         resources: addResourceDelta(state.resources, {
-          materials: -cost,
+          supply: -cost,
           stability: Math.floor((introWindow ? 4 : 3) * mods.recoveryEfficiency),
           ...challengeResourceDelta,
         }),
@@ -493,7 +493,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       return {
         ...markBootstrapCheckpoint(state, "logistics"),
         resources: addResourceDelta(state.resources, {
-          materials: 18,
+          supply: 18,
           power: -8 * mods.powerCostMod,
         }),
         marks: {
@@ -546,10 +546,10 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "FORTIFY_SHELL": {
       if (threat.countdown > 5 || threat.fortified) return state;
       const cost = Math.ceil(12 * mods.powerCostMod);
-      if (state.resources.materials < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
+      if (state.resources.supply < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       return {
         ...state,
-        resources: addResourceDelta(state.resources, { materials: -cost }),
+        resources: addResourceDelta(state.resources, { supply: -cost }),
         threat: { ...threat, fortified: true },
         alert: GRAVITAS_TEXT.threats.fortifiedJournal,
         journal: pushJournal(state, GRAVITAS_TEXT.threats.fortifiedJournal),
@@ -558,10 +558,10 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     case "INTERCEPT_THREAT": {
       if (threat.countdown > 5 || threat.intercepted) return state;
       const cost = Math.ceil(14 * mods.powerCostMod);
-      if (state.resources.materials < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
+      if (state.resources.supply < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       return {
         ...state,
-        resources: addResourceDelta(state.resources, { materials: -cost }),
+        resources: addResourceDelta(state.resources, { supply: -cost }),
         threat: { ...threat, intercepted: true },
         alert: { en: "Drone swarm deployed for interception.", hu: "Drónraj bevetve az elfogáshoz.", de: "Drohnenschwarm zum Abfangen eingesetzt.", ro: "Roi de drone desfășurat pentru intercepție." },
         journal: pushJournal(state, { en: "Drones are forming a defensive perimeter.", hu: "A drónok védelmi kordont vonnak az állomás köré.", de: "Drohnen bilden einen Verteidigungsperimeter.", ro: "Dronele formează un perimetru defensiv." }),
@@ -622,13 +622,13 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "RAPID_FABRICATION": {
       const cost = Math.ceil(15 * mods.powerCostMod);
-      if (state.resources.materials < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
+      if (state.resources.supply < cost) return withAlert(state, GRAVITAS_TEXT.alerts.repairAborted);
       const target = state.modules[command.moduleId];
       // Apply recoveryEfficiency: 1.5× during aftershock / crisis
       const fabGain = Math.floor(25 * mods.recoveryEfficiency);
       return {
         ...markBootstrapCheckpoint(state, command.moduleId),
-        resources: addResourceDelta(state.resources, { materials: -cost }),
+        resources: addResourceDelta(state.resources, { supply: -cost }),
         modules: {
           ...state.modules,
           [command.moduleId]: {

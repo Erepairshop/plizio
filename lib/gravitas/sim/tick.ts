@@ -52,7 +52,6 @@ function stabilizeContinuationTick(previous: StarholdState, next: StarholdState)
     ...next,
     resources: {
       ...next.resources,
-      materials: next.resources.materials,
     },
   });
 }
@@ -214,7 +213,7 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
   return {
     ...state,
     resources: addResourceDelta(state.resources, {
-      materials: materialsGain,
+      supply: materialsGain,
     }),
     worldPulse: clamp(state.worldPulse + 1),
     alert: GRAVITAS_TEXT.alerts.scavengeSuccess,
@@ -377,7 +376,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
       )
     );
   }
-  let nextMaterials = state.resources.materials;
+  let nextSupply = state.resources.supply;
   let nextActivation = state.resources.activation;
   if (state.repairChallenge.active && !recoveryCalmWindow) {
     const repairChallengeTarget = state.repairChallenge.sequence[state.repairChallenge.promptIndex] ?? null;
@@ -390,8 +389,8 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
         break;
       }
       case "logistics": {
-        const drain = Math.max(1, Math.ceil(nextMaterials / remainingWindow));
-        nextMaterials = clamp(Math.max(0, nextMaterials - drain));
+        const drain = Math.max(1, Math.ceil(nextSupply / remainingWindow));
+        nextSupply = clamp(Math.max(0, nextSupply - drain));
         nextPower = clamp(Math.max(6, nextPower - 1));
         break;
       }
@@ -556,7 +555,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
 
   // Auto-Salvage Item Logic
   if (state.progression.unlockedItems.includes("auto_salvage") && state.tick % 10 === 0) {
-    nextMaterials = clamp(nextMaterials + 1);
+    nextSupply = clamp(nextSupply + 1);
   }
 
   let nextAlert =
@@ -647,6 +646,54 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     progression.stars += 10;
     progression.lastStarGain = 10;
   }
+  
+  let nextHull = state.resources.hull;
+  let nextShield = state.resources.shield;
+  let nextMorale = state.resources.morale;
+  let nextSignalRange = state.resources.signalRange;
+  let nextSupplyFlow = state.resources.supplyFlow;
+
+  // Level-gap effects
+  const levels = state.moduleLevels;
+  const coreLevel = levels.core;
+
+  // Hull max = core * 4
+  const hullMax = Math.min(100, coreLevel * 4);
+  if (nextHull > hullMax) nextHull = Math.max(hullMax, nextHull - 0.5);
+
+  // Shield = warroom * 4
+  const warLevel = levels.warroom;
+  const shieldMax = Math.min(100, warLevel * 4);
+  if (state.warRoom.online && nextShield < shieldMax) nextShield = Math.min(shieldMax, nextShield + 0.5);
+
+  // Morale = module balance
+  let moralePenalty = 0;
+  for (const mod of ["reactor", "logistics", "sensor", "warroom"] as const) {
+    const gap = coreLevel - levels[mod as "reactor" | "logistics" | "sensor" | "warroom"];
+    if (gap >= 3) moralePenalty += 15;
+    else if (gap >= 2) moralePenalty += 5;
+  }
+  const targetMorale = Math.max(0, Math.min(100, 75 - moralePenalty));
+  nextMorale = nextMorale + (targetMorale - nextMorale) * 0.1;
+
+  // Signal Range
+  nextSignalRange = Math.min(100, levels.sensor * 4);
+
+  // Supply Flow
+  nextSupplyFlow = Math.min(100, levels.logistics * 4);
+
+  // Reactor gap penalty
+  const reactorGap = coreLevel - levels.reactor;
+  if (reactorGap >= 3) {
+    nextPower = Math.max(0, nextPower - 1.5);
+    nextStability = Math.max(0, nextStability - 1.0);
+  }
+
+  // Sensor gap penalty
+  const sensorGap = coreLevel - levels.sensor;
+  if (sensorGap >= 3) {
+    nextEntropy = Math.min(100, nextEntropy + 0.8);
+  }
 
   const nextState = {
     ...state,
@@ -656,8 +703,13 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
       ...state.resources,
       power: nextPower,
       stability: nextStability,
-      materials: nextMaterials,
+      supply: nextSupply,
       activation: nextActivation,
+      hull: nextHull,
+      shield: nextShield,
+      morale: nextMorale,
+      signalRange: nextSignalRange,
+      supplyFlow: nextSupplyFlow,
     },
     modules: nextModules,
     marks: {
@@ -714,7 +766,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
           ...nextState.resources,
           power: Math.max(nextState.resources.power, state.resources.power),
           stability: Math.max(nextState.resources.stability, state.resources.stability),
-          materials: Math.max(nextState.resources.materials, state.resources.materials),
+          supply: Math.max(nextState.resources.supply, state.resources.supply),
           activation: Math.max(nextState.resources.activation, state.resources.activation),
         },
         entropy: Math.min(nextState.entropy, state.entropy),
@@ -726,7 +778,7 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
             ...nextState.resources,
             power: Math.max(nextState.resources.power, state.resources.power),
             stability: Math.max(nextState.resources.stability, state.resources.stability),
-            materials: Math.max(nextState.resources.materials, state.resources.materials),
+            supply: Math.max(nextState.resources.supply, state.resources.supply),
             activation: Math.max(nextState.resources.activation, state.resources.activation),
           },
           entropy: Math.min(nextState.entropy, state.entropy),

@@ -26,9 +26,14 @@ export function addResourceDelta(
 ): StarholdResources {
   return {
     power: clamp(resources.power + (delta.power ?? 0)),
-    materials: clampResourceFloor(resources.materials + (delta.materials ?? 0)),
+    supply: clampResourceFloor(resources.supply + (delta.supply ?? 0)),
     stability: clamp(resources.stability + (delta.stability ?? 0)),
     activation: clamp(resources.activation + (delta.activation ?? 0)),
+    hull: clamp(resources.hull + (delta.hull ?? 0)),
+    shield: clamp(resources.shield + (delta.shield ?? 0)),
+    morale: clamp(resources.morale + (delta.morale ?? 0)),
+    signalRange: clamp(resources.signalRange + (delta.signalRange ?? 0)),
+    supplyFlow: clamp(resources.supplyFlow + (delta.supplyFlow ?? 0)),
   };
 }
 

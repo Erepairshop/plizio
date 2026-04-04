@@ -530,7 +530,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           lockdown: false,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials - 15),
+            supply: clamp(state.resources.supply - 15),
             stability: clamp(state.resources.stability + 15),
           },
           alert: A.lockdownLifted,
@@ -676,7 +676,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     id: "materialBottleneck",
     minTick: 10,
     cooldown: 12,
-    shouldTrigger: (state) => state.resources.materials <= 6 && !state.modules.logistics.online,
+    shouldTrigger: (state) => state.resources.supply <= 6 && !state.modules.logistics.online,
     create: () => ({
       id: "materialBottleneck",
       title: T.materialBottleneck.title,
@@ -693,7 +693,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           pendingEvent: null,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials + 5),
+            supply: clamp(state.resources.supply + 5),
             stability: clamp(state.resources.stability - 4),
           },
           marks: {
@@ -710,7 +710,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         pendingEvent: null,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials + 3),
+            supply: clamp(state.resources.supply + 3),
             power: clamp(state.resources.power - 2),
           },
           marks: {
@@ -750,7 +750,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           pendingEvent: null,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials - 15),
+            supply: clamp(state.resources.supply - 15),
           },
           entropy: clamp(state.entropy - 25),
           alert: A.entropyPurged,
@@ -1114,7 +1114,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         resources: {
           ...state.resources,
           power: clamp(state.resources.power - 4),
-          materials: clamp(state.resources.materials - 3),
+          supply: clamp(state.resources.supply - 3),
           stability: clamp(state.resources.stability + 2),
         },
         marks: {
@@ -1197,7 +1197,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           pendingEvent: null,
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials - 12),
+            supply: clamp(state.resources.supply - 12),
             stability: clamp(state.resources.stability + 10),
           },
           alert: A.voidSacrifice,
@@ -1285,7 +1285,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
             pendingEvent: null,
             resources: {
               ...state.resources,
-              materials: clamp(state.resources.materials + 20),
+              supply: clamp(state.resources.supply + 20),
               power: clamp(state.resources.power - 8),
             },
             alert: A.trekSuccess,
@@ -1318,7 +1318,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     id: "supplyCascade",
     minTick: 10,
     cooldown: 16,
-    shouldTrigger: (state) => state.modules.logistics.online && state.resources.materials < 15,
+    shouldTrigger: (state) => state.modules.logistics.online && state.resources.supply < 15,
     create: () => ({
       ...chainedEvent(
         {
@@ -1437,7 +1437,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
           ),
           resources: {
             ...state.resources,
-            materials: clamp(state.resources.materials + 8),
+            supply: clamp(state.resources.supply + 8),
             stability: clamp(state.resources.stability + 5),
           },
           alert: A.structureStabilized,
