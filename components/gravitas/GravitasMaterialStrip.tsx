@@ -20,6 +20,7 @@ function localize(lang: Lang, value: { en: string; hu: string; de: string; ro: s
   return value[lang] ?? value.en;
 }
 
+/** Renders inline material chips — same style as HUDChip so they fit in one row */
 export default function GravitasMaterialStrip({ lang }: { lang: Lang }) {
   const [inventory, setInventory] = useState<GalaxyInventory>(() => loadSavedGalaxyInventory());
   const [livePreview, setLivePreview] = useState<GalaxyLivePreview>(() => loadSavedGalaxyLivePreview());
@@ -49,30 +50,27 @@ export default function GravitasMaterialStrip({ lang }: { lang: Lang }) {
   }, [inventory, livePreview]);
 
   return (
-    <div className="grid grid-cols-3 gap-1 w-full shrink-0 sm:flex sm:flex-nowrap sm:gap-1.5 sm:w-auto sm:overflow-x-auto sm:no-scrollbar">
+    <>
       {METEOR_MATERIAL_ORDER.map((materialId) => {
         const meta = METEOR_MATERIAL_META[materialId];
         const active = livePreview?.materialId === materialId;
         return (
           <div
             key={materialId}
-            className={`group flex items-center gap-1 rounded-lg border px-1.5 py-0.5 text-[9px] font-black uppercase tracking-[0.06em] text-white/78 transition-all sm:rounded-xl sm:px-2 sm:py-1 sm:text-[10px] sm:gap-1.5 ${
-              active ? "border-white/20 bg-white/10 shadow-[0_0_18px_rgba(255,255,255,0.08)]" : meta.glowClassName
-            }`}
+            className={`flex items-center gap-1 px-2 py-1 rounded-lg border font-black text-[11px] shrink-0 transition-all sm:gap-1.5 sm:px-2.5 sm:py-1.5 sm:rounded-xl sm:text-xs ${
+              active ? "border-white/20 bg-white/10 shadow-[0_0_18px_rgba(255,255,255,0.08)]" : "border-white/5 bg-white/5"
+            } ${meta.colorClassName}`}
             title={`${localize(lang, meta.label)}: ${formatCompactGalaxyValue(displayInventory[materialId])}`}
           >
-            <span className={`flex h-3.5 w-3.5 items-center justify-center rounded-full border border-white/10 bg-black/18 text-[7px] sm:h-4 sm:w-4 sm:text-[8px] ${meta.colorClassName}`}>
+            <span className="text-[10px] opacity-70 sm:text-[11px]">
               {localize(lang, meta.short)}
             </span>
-            <span className={`hidden sm:inline text-[8px] leading-none ${meta.colorClassName}`}>
-              {localize(lang, meta.label)}
-            </span>
-            <span className="text-[10px] leading-none text-white sm:text-[11px]">
+            <span className="text-white">
               {formatCompactGalaxyValue(displayInventory[materialId])}
             </span>
           </div>
         );
       })}
-    </div>
+    </>
   );
 }
