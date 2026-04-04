@@ -50,7 +50,7 @@ import TradePanel from "@/components/gravitas/TradePanel";
 import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -123,7 +123,7 @@ export default function GravitasPage() {
   const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");
   const [shopOpen, setShopOpen] = useState(false);
-  const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | "upgrades" | null>(null);
+  const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | "upgrades" | "factions" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);

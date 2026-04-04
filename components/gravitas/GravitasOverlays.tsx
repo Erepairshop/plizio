@@ -390,14 +390,3 @@ export default function GravitasOverlays(props: Props) {
     </>
   );
 }
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </>
-  );
-}
-
-    </>
-  );
-}

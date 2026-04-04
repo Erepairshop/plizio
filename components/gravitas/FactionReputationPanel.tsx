@@ -2,9 +2,10 @@
 
 import { motion } from "framer-motion";
 import { X, Users, Crosshair, Shield, Activity, Eye, Radar } from "lucide-react";
-import type { FactionReputationState, FactionId } from "@/lib/gravitas/sim/faction/types";
-import { getReputationTier, type ReputationTier } from "@/lib/gravitas/sim/faction/reputation";
+import type { FactionReputationState, ReputationTier } from "@/lib/gravitas/sim/faction/types";
+import { getReputationTier } from "@/lib/gravitas/sim/faction/reputation";
 import { GALAXY_FACTIONS } from "@/lib/gravitas/sim/battle/factions";
+import type { FactionId } from "@/lib/gravitas/sim/battle/factions";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
 
 interface FactionReputationPanelProps {
@@ -73,13 +74,13 @@ export default function FactionReputationPanel({ factionReputation, lang, onClos
             <span className="text-[10px] font-black uppercase tracking-widest text-white/40 mb-1">
               {localize({ en: "Highest Standing", hu: "Legjobb Viszony", de: "Höchstes Ansehen", ro: "Cea mai bună reputație" })}
             </span>
-            <span className="text-sm font-black text-cyan-400">{bestFaction ? localize(GALAXY_FACTIONS[bestFaction].name) : "—"}</span>
+            <span className="text-sm font-black text-cyan-400">{bestFaction ? localize(GALAXY_FACTIONS[bestFaction as keyof typeof GALAXY_FACTIONS].name) : "—"}</span>
           </div>
           <div className="p-3 rounded-xl border border-white/5 bg-black/20 flex flex-col">
             <span className="text-[10px] font-black uppercase tracking-widest text-white/40 mb-1">
               {localize({ en: "Lowest Standing", hu: "Legrosszabb Viszony", de: "Niedrigstes Ansehen", ro: "Cea mai proastă reputație" })}
             </span>
-            <span className="text-sm font-black text-red-400">{worstFaction ? localize(GALAXY_FACTIONS[worstFaction].name) : "—"}</span>
+            <span className="text-sm font-black text-red-400">{worstFaction ? localize(GALAXY_FACTIONS[worstFaction as keyof typeof GALAXY_FACTIONS].name) : "—"}</span>
           </div>
         </div>
 
