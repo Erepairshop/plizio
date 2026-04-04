@@ -288,6 +288,8 @@ export interface StarholdState {
   commander: import("./commander/types").CommanderState;
   tradeSystem: import("./trade/types").TradeSystemState;
   weeklyMission: import("./weekly/types").WeeklyMissionState;
+  espionage: import("./espionage/types").EspionageState;
+  research: import("./research/types").ResearchState;
 }
 
 export interface ModuleUpgradeSlot {

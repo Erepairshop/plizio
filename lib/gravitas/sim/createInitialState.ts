@@ -11,6 +11,8 @@ import { createInitialSynergies } from "./synergy";
 import { createInitialGalaxyCycle } from "./galaxy";
 import { createInitialDilemmaState } from "./dilemma";
 import { createInitialCommanderState } from "./commander";
+import { createInitialEspionageState } from "./espionage/index";
+import { createInitialResearchState } from "./research/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -156,6 +158,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       tradeSystem: { offers: [], lastRefreshAt: Date.now() },
       weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
       commander: createInitialCommanderState(),
+      espionage: createInitialEspionageState(),
+      research: createInitialResearchState(),
       lastActiveAt: Date.now(),
     });
   }
@@ -274,6 +278,4 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     espionage: createInitialEspionageState(),
     research: createInitialResearchState(["weapons", "shields"]),
   };
-}
-tActiveAt: Date.now(),
 }

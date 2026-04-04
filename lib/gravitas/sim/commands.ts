@@ -23,6 +23,8 @@ import { applyReputationChange } from "./faction/reputation";
 import { FACTION_REPUTATION_CONFIG } from "../economy";
 import { GALAXY_DEMO_NODES } from "../world/demo";
 import { resolveDilemma } from "./dilemma/engine";
+import { deploySpies, extractSpies, spendIntel } from "./espionage/index";
+import { startResearch, cancelResearch } from "./research/engine";
 import { acceptTrade, rejectTrade } from "./trade/engine";
 import { deployWeeklyUnits } from "./weekly/engine";
 
