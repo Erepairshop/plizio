@@ -71,3 +71,14 @@ export function tickCodex(state: StarholdState): StarholdState {
 
   return state;
 }
+
+export function markCodexRead(state: StarholdState, entryId: string): StarholdState {
+  if (state.codex.readEntries.includes(entryId)) return state;
+  return {
+    ...state,
+    codex: {
+      ...state.codex,
+      readEntries: [...state.codex.readEntries, entryId],
+    }
+  };
+}

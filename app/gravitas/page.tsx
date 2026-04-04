@@ -2029,9 +2029,15 @@ export default function GravitasPage() {
             onClick={() => setActivePanel(activePanel === "factions" ? null : "factions")}
           />
           <MapMiniButton
-            icon={<Radar size={14} />}
-            active={interiorView === "galaxy"}
-            onClick={() => setInteriorView(interiorView === "galaxy" ? null : "galaxy")}
+            icon={<Calendar size={14} />}
+            active={interiorView === "weekly"}
+            onClick={() => setInteriorView(interiorView === "weekly" ? null : "weekly")}
+          />
+          <MapMiniButton
+            icon={<Book size={14} />}
+            active={interiorView === "codex"}
+            onClick={() => setInteriorView(interiorView === "codex" ? null : "codex")}
+            showDot={state.codex.unlockedEntries.length > state.codex.readEntries.length}
           />
           <MapMiniButton
             icon={<FlaskConical size={14} />}
@@ -2144,6 +2150,19 @@ export default function GravitasPage() {
         systemsAction={systemsAction}
         prioritizedMobileActions={prioritizedMobileActions}
         hiddenUrgentActions={hiddenUrgentActions}
+        actionFeedback={actionFeedback}
+        localize={localize}
+        doAction={doAction}
+        restartGravitasChapter={restartGravitasChapter}
+        mods={mods}
+        contentVictoryStationLostTitle={content.victory.stationLostTitle}
+        contentVictoryTryAgain={localize(content.victory.tryAgain)}
+      />
+
+    </main>
+  );
+}
+
         actionFeedback={actionFeedback}
         localize={localize}
         doAction={doAction}

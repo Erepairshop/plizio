@@ -349,4 +349,5 @@ export type StarholdCommand =
   | { type: "START_RESEARCH"; projectId: string }
   | { type: "CANCEL_RESEARCH" }
   | { type: "ESTABLISH_ROUTE"; factionId: import("./faction/types").FactionId; materialId: import("../world/mission").GalaxyMaterialId }
-  | { type: "ABANDON_ROUTE"; routeId: string };
+  | { type: "ABANDON_ROUTE"; routeId: string }
+  | { type: "MARK_CODEX_READ"; entryId: string };

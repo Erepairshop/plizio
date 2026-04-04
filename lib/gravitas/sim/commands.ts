@@ -27,7 +27,8 @@ import { deploySpies, extractSpies, spendIntel } from "./espionage/index";
 import { startResearch, cancelResearch } from "./research/engine";
 import { acceptTrade, rejectTrade } from "./trade/engine";
 import { deployWeeklyUnits } from "./weekly/engine";
-import { establishRoute, abandonRoute } from "./supplyroute/engine";
+import { establishRoute, abandonRoute } from "./supplyroute/index";
+import { markCodexRead } from "./codex/index";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -1367,6 +1368,12 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
         command: { type: "REPAIR_MODULE", moduleId: "core" },
         emphasis: repairChallengeTarget === "core" ? "primary" : isRecovering ? "secondary" : undefined,
       });
+      break;
+  }
+
+  return slots;
+}
+  });
       break;
   }
 
