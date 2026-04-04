@@ -80,6 +80,7 @@ export interface BattleResult {
   loot?: BattleLoot;
   intelGained: number;
   casualties?: CasualtyReport;
+  replay?: import("./replay").BattleReplayLog;
 }
 
 export interface BattlePhase {

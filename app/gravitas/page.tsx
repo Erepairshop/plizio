@@ -144,6 +144,7 @@ export default function GravitasPage() {
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [battleResult, setBattleResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
   const [battleReportResult, setBattleReportResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
+  const [showReplay, setShowReplay] = useState(false);
 
   const handleLaunchStrike = useCallback((node: import("@/lib/gravitas/world/types").GalaxyNode) => {
     setArmySetupNode(node);
@@ -1989,6 +1990,16 @@ export default function GravitasPage() {
               >
                 <WeeklyMissionPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
+            {showReplay && battleReportResult && (
+              <BattleReplayPanel 
+                result={battleReportResult} 
+                onClose={() => setShowReplay(false)} 
+                lang={lang} 
+              />
             )}
           </AnimatePresence>
 

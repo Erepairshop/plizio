@@ -163,6 +163,9 @@ export default function BattleReport({
           <button type="button" onClick={onRetry} className="flex-1 rounded-xl border border-cyan-300/28 bg-cyan-300/14 px-3 py-2 text-[12px] font-black text-cyan-100 transition hover:bg-cyan-300/20">
             {localize(lang, { hu: "Ujra", en: "Retry", de: "Erneut", ro: "Reincearca" })}
           </button>
+          <button type="button" onClick={onReplay} className="flex-1 rounded-xl border border-amber-300/28 bg-amber-300/14 px-3 py-2 text-[12px] font-black text-amber-100 transition hover:bg-amber-300/20">
+            {localize(lang, { hu: "Visszajátszás", en: "Replay", de: "Wiederholung", ro: "Reluare" })}
+          </button>
         </div>
       </div>
     </div>

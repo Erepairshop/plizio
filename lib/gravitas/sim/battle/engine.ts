@@ -423,5 +423,8 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     loot: rewardPack.loot,
     intelGained: victory ? 12 : 4,
     casualties,
+    replay: generateReplayLog(phases),
+  };
+}
   };
 }
