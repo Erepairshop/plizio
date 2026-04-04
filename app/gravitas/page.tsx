@@ -46,7 +46,8 @@ import { WarRoomPanel } from "@/components/gravitas/warroom";
 import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
 import ResearchPanel from "@/components/gravitas/ResearchPanel";
 import EspionagePanel from "@/components/gravitas/EspionagePanel";
-import { FlaskConical, Eye } from "lucide-react";
+import TradePanel from "@/components/gravitas/TradePanel";
+import { FlaskConical, Eye, ArrowLeftRight } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -1983,6 +1984,11 @@ export default function GravitasPage() {
             onClick={() => setInteriorView(interiorView === "espionage" ? null : "espionage")}
           />
           <MapMiniButton
+            icon={<ArrowLeftRight size={14} />}
+            active={interiorView === "trade"}
+            onClick={() => setInteriorView(interiorView === "trade" ? null : "trade")}
+          />
+          <MapMiniButton
             icon={<Layers size={14} />}
             active={quickActionsOpen}
             onClick={() => setQuickActionsOpen(true)}
@@ -2080,12 +2086,6 @@ export default function GravitasPage() {
         mods={mods}
         contentVictoryStationLostTitle={content.victory.stationLostTitle}
         contentVictoryTryAgain={localize(content.victory.tryAgain)}
-      />
-
-    </main>
-  );
-}
-localize(content.victory.tryAgain)}
       />
 
     </main>
