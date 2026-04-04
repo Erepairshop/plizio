@@ -4,6 +4,8 @@ import DynamicExplorer from "@/components/DynamicExplorer";
 import { GEO_K6_LABELS, GEO_K6_POOL } from "@/lib/explorerPools/geographieK6";
 
 interface Props {
+  island?: any;
+  grade?: number;
   color?: string;
   lang?: string;
   onDone: (score: number, total: number) => void;

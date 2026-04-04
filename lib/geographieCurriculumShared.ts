@@ -91,7 +91,7 @@ export function getGeneratedQuestions(
 
   for (const theme of themes) {
     for (const sub of theme.subtopics) {
-      if (!selectedSubtopicIds.includes(sub.id)) continue;
+      if (!selectedSubtopicIds.includes(sub.id) && !selectedSubtopicIds.includes(theme.id)) continue;
 
       const seed = Math.floor(Math.random() * 1000000);
 
