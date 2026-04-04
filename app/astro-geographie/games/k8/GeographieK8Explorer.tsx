@@ -19,7 +19,7 @@ export default function GeographieK8Explorer({ color = "#06B6D4", lang = "de", o
       icon="🗺️"
       count={5}
       explorerId="geographie_k8_core"
-      subject="sachkunde"
+      subject="geographie"
       color={color}
       lang={lang}
       grade={8}

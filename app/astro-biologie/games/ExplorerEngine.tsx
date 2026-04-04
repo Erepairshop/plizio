@@ -409,6 +409,8 @@ function deriveSubject(explorerId?: string): AISubject {
   if (source.includes("astro-sachkunde") || source.includes("sachkunde_")) return "sachkunde";
   if (source.includes("astro-physik") || source.includes("physik")) return "physik";
   if (source.includes("astrokemia") || source.includes("kemia") || source.includes("chemie")) return "chemie";
+  if (source.includes("astro-geographie") || source.includes("geographie")) return "geographie";
+  if (source.includes("astro-geschichte") || source.includes("geschichte")) return "geschichte";
 
   return "general";
 }

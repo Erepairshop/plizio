@@ -19,7 +19,7 @@ export default function GeographieK7Explorer({ color = "#06B6D4", lang = "de", o
       icon="🗺️"
       count={5}
       explorerId="geographie_k7_core"
-      subject="sachkunde"
+      subject="geographie"
       color={color}
       lang={lang}
       grade={7}
