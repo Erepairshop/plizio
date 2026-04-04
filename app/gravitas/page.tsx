@@ -1595,7 +1595,7 @@ export default function GravitasPage() {
                   faction={GALAXY_FACTIONS[armySetupNode.factionId!]!}
                   scoutReport={{
                     buildingId: armySetupNode.id,
-                    intelLevel: state.galaxyIntel[armySetupNode.id] ?? 0,
+                    intelLevel: state.battleState.scoutReports[armySetupNode.id]?.intelLevel ?? 0,
                     revealedStats: {},
                     revealedTraits: [],
                     lastScoutedAt: Date.now(),
@@ -1638,7 +1638,7 @@ export default function GravitasPage() {
                   result={battleReportResult}
                   enemy={getEnemyBuildingById(battleNode.variantId || battleNode.id || "")!}
                   army={{ units: state.warRoom.garrison, tacticId: "aggressive" }}
-                  intelBefore={state.galaxyIntel[battleNode.id] ?? 0}
+                  intelBefore={state.battleState.scoutReports[battleNode.id]?.intelLevel ?? 0}
                   onBackToGalaxy={() => {
                     dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
                     setBattleReportResult(null);

@@ -8,6 +8,7 @@ import {
   Crosshair, ShieldAlert, Activity, AlertTriangle
 } from "lucide-react";
 import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
+import type { WarRoomUnitId } from "@/lib/gravitas/sim/warroom/types";
 import { 
   BATTLE_TACTICS, 
   BATTLE_UNIT_PROFILES, 
@@ -132,7 +133,7 @@ export default function ArmySetup({
   const handleUpdateUnit = (unitId: string, delta: number) => {
     setSelectedUnits(prev => {
       const current = prev[unitId] ?? 0;
-      const available = availableGarrison[unitId as any] ?? 0;
+      const available = availableGarrison[unitId as WarRoomUnitId] ?? 0;
       const nextValue = Math.max(0, Math.min(available, current + delta));
       return { ...prev, [unitId]: nextValue };
     });
@@ -172,7 +173,7 @@ export default function ArmySetup({
             <Target size={14} className="text-rose-400" />
             <span className="text-[10px] font-black uppercase tracking-wider text-rose-300/70">Target Profile</span>
           </div>
-          <div className="text-sm font-bold text-white mb-1">{localize(lang, descriptor.title)}</div>
+          <div className="text-sm font-bold text-white mb-1">{localize(lang, descriptor.name)}</div>
           
           <div className="grid grid-cols-1 gap-1.5 text-[11px]">
             {showFaction && (
@@ -298,7 +299,7 @@ export default function ArmySetup({
           <div className="grid grid-cols-1 gap-2">
             {unitIds.map(id => {
               const profile = BATTLE_UNIT_PROFILES[id];
-              const available = availableGarrison[id] ?? 0;
+              const available = availableGarrison[id as WarRoomUnitId] ?? 0;
               const selected = selectedUnits[id] ?? 0;
               
               return (

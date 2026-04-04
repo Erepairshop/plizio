@@ -729,11 +729,12 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         updatedGarrison[id] = Math.max(0, (updatedGarrison[id] ?? 0) - lost);
       });
       const cooldownMs = 60 * 60 * 1000; // 1 hour cooldown
-      const newHistoryEntry = {
-        buildingId: nodeId,
-        timestamp: Date.now(),
+      const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
+        buildingId: nodeId as import("./battle/types").EnemyBuilding["id"],
+        at: Date.now(),
+        dominantUnitType: "infantry",
         victory: result.victory,
-        unitsLost: result.stats.unitsLost,
+        durationMs: result.durationMs,
         damageDealt: result.stats.damageDealt,
         damageReceived: result.stats.damageReceived,
       };

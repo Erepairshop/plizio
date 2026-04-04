@@ -9,6 +9,8 @@ export type ConditionType = "abandoned" | "active" | "fortified" | "decaying" | 
 
 export interface BuildingDescriptor {
   buildingId: string;
+  /** Human-readable building name */
+  name: LocalizedString;
   /** Construction material — implicitly determines defense types */
   material: {
     type: BuildingMaterialType;
@@ -57,6 +59,12 @@ export interface BuildingDescriptor {
 export const BUILDING_DESCRIPTORS: Record<string, BuildingDescriptor> = {
   "derelict-outpost": {
     buildingId: "derelict-outpost",
+    name: {
+      hu: "Elhagyott előőrs",
+      en: "Derelict Outpost",
+      de: "Verlassener Außenposten",
+      ro: "Avanpost abandonat",
+    },
     material: {
       type: "scrap",
       label: {
@@ -110,13 +118,19 @@ export const BUILDING_DESCRIPTORS: Record<string, BuildingDescriptor> = {
     },
     revealOrder: {
       basic: ["condition", "material"],
-      medium: ["faction"],
-      advanced: ["weaponry", "comms"],
+      medium: ["faction", "weaponry"],
+      advanced: ["comms"],
       full: ["tacticStyle", "traits"],
     },
   },
   "raider-stronghold": {
     buildingId: "raider-stronghold",
+    name: {
+      hu: "Fosztogató erőd",
+      en: "Raider Stronghold",
+      de: "Räuber-Festung",
+      ro: "Fortăreață de raideri",
+    },
     material: {
       type: "titan",
       label: {
@@ -177,6 +191,12 @@ export const BUILDING_DESCRIPTORS: Record<string, BuildingDescriptor> = {
   },
   "fortified-relay": {
     buildingId: "fortified-relay",
+    name: {
+      hu: "Megerősített közvetítő",
+      en: "Fortified Relay",
+      de: "Befestigtes Relais",
+      ro: "Releu fortificat",
+    },
     material: {
       type: "energy_lattice",
       label: {

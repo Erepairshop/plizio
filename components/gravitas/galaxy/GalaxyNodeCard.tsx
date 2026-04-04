@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Rocket, RotateCcw, X, Sword, Shield, Zap, Eye, Target, Activity } from "lucide-react";
+import { Rocket, RotateCcw, X, Sword, Shield, Zap, Eye, Target, Activity, Radar } from "lucide-react";
 import { GALAXY_RENDER_WORLD_OFFSET, GALAXY_RENDER_WORLD_SIZE, getGalaxyCardStyle } from "@/lib/gravitas/world";
 import type { GalaxyNode, GalaxyNodeTone } from "@/lib/gravitas/world";
 import { formatDurationMinutes } from "@/lib/gravitas/world/mission";

@@ -1,4 +1,5 @@
-import type { StarholdAvatarAnswer, EnemyTrait, EnemyTraitId } from "@/lib/gravitas/sim/types";
+import type { StarholdAvatarAnswer } from "@/lib/gravitas/sim/types";
+import type { EnemyTrait, EnemyTraitId } from "./types";
 import { createBattleLoot } from "./rewards";
 import { getEffectiveCombatStats } from "./avatarCombat";
 import type { Faction } from "./factions";
@@ -179,7 +180,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   
   const tactic = BATTLE_TACTICS[army.tacticId];
   const armyBase = calculateArmyEvaluation(army);
-  const abilities = collectAvatarAbilities(avatarCombat.answers);
+  const abilities = collectAvatarAbilities(playerState.avatarProfile?.answers);
   const intel = scoutReport?.intelLevel ?? 0;
 
   const seedBasis = [
