@@ -912,10 +912,10 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     }))))))));
-    }
+  }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
+  return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    })))))))));
+  })))))))));
 }
