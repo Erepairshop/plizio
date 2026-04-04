@@ -1,842 +1,1391 @@
 import type { PoolTopicDef, SvgConfig } from "./types";
 
-type Lang = "de" | "en" | "hu" | "ro";
-type L4 = Record<Lang, string>;
+type Lang = "de";
+type L1 = Record<Lang, string>;
 
-const L = (de: string, en: string, hu: string, ro: string): L4 => ({ de, en, hu, ro });
+const L = (de: string): L1 => ({ de });
 
 interface TopicSpec {
-  title: L4;
-  text: L4;
-  hint?: L4;
-  bullet1?: L4;
-  bullet2?: L4;
-  labels?: Record<string, L4>;
+  id: string;
+  title: L1;
+  hint1: L1;
+  hint2: L1;
   svg: SvgConfig;
-  interactive: (k: (suffix: string) => string) => any;
-  quiz: string;
-  difficulty?: "easy" | "medium" | "hard";
+  interactive: any; 
+  quiz: {
+    question: L1;
+    choices: L1[];
+    answer: L1;
+  };
 }
 
 interface IslandSpec {
   id: string;
-  title: L4;
+  title: L1;
   topics: TopicSpec[];
-}
-
-function topicKey(islandId: string, index: number, suffix: string): string {
-  return `${islandId}_t${index}_${suffix}`;
-}
-
-function buildTopicLabels(islandId: string, index: number, spec: TopicSpec) {
-  const out: Record<string, L4> = {
-    title: spec.title,
-    text: spec.text,
-  };
-  if (spec.hint) out.hint = spec.hint;
-  if (spec.bullet1) out.bullet1 = spec.bullet1;
-  if (spec.bullet2) out.bullet2 = spec.bullet2;
-  for (const [key, value] of Object.entries(spec.labels ?? {})) {
-    out[key] = value;
-  }
-  const prefixed: Record<string, L4> = {};
-  for (const [suffix, value] of Object.entries(out)) {
-    prefixed[topicKey(islandId, index, suffix)] = value;
-  }
-  return prefixed;
-}
-
-function buildPool(islandId: string, topics: TopicSpec[]): PoolTopicDef[] {
-  return topics.map((spec, index) => {
-    const prefix = (suffix: string) => topicKey(islandId, index + 1, suffix);
-    return {
-      infoTitle: prefix("title"),
-      infoText: prefix("text"),
-      svg: spec.svg,
-      bulletKeys: spec.bullet1 || spec.bullet2 ? [spec.bullet1 ? prefix("bullet1") : "", spec.bullet2 ? prefix("bullet2") : ""].filter(Boolean) as string[] : undefined,
-      hintKey: spec.hint ? prefix("hint") : undefined,
-      interactive: spec.interactive(prefix),
-      quiz: { generate: spec.quiz },
-      difficulty: spec.difficulty,
-    };
-  });
 }
 
 function buildIsland(island: IslandSpec) {
   const labels: Record<Lang, Record<string, string>> = {
     de: { explorer_title: island.title.de },
-    en: { explorer_title: island.title.en },
-    hu: { explorer_title: island.title.hu },
-    ro: { explorer_title: island.title.ro },
   };
-  island.topics.forEach((topic, idx) => {
-    for (const [key, value] of Object.entries(buildTopicLabels(island.id, idx + 1, topic))) {
-      labels.de[key] = value.de;
-      labels.en[key] = value.en;
-      labels.hu[key] = value.hu;
-      labels.ro[key] = value.ro;
+
+  const pool: PoolTopicDef[] = island.topics.map((topic) => {
+    const prefix = `${island.id}_${topic.id}`;
+    
+    labels.de[`${prefix}_title`] = topic.title.de;
+    labels.de[`${prefix}_h1`] = topic.hint1.de;
+    labels.de[`${prefix}_h2`] = topic.hint2.de;
+    labels.de[`${prefix}_q`] = topic.quiz.question.de;
+    topic.quiz.choices.forEach((c, i) => {
+      labels.de[`${prefix}_c${i}`] = c.de;
+    });
+    labels.de[`${prefix}_a`] = topic.quiz.answer.de;
+
+    let interactive = { ...topic.interactive };
+    if (interactive.instruction) {
+      labels.de[`${prefix}_instr`] = interactive.instruction.de;
+      interactive.instruction = `${prefix}_instr`;
     }
+    
+    if (interactive.type === "match-pairs") {
+      interactive.pairs = interactive.pairs.map((p: any, i: number) => {
+        labels.de[`${prefix}_p${i}l`] = p.left.de;
+        labels.de[`${prefix}_p${i}r`] = p.right.de;
+        return { left: `${prefix}_p${i}l`, right: `${prefix}_p${i}r` };
+      });
+    } else if (interactive.type === "gap-fill") {
+      labels.de[`${prefix}_gf_text`] = interactive.text.de;
+      interactive.text = `${prefix}_gf_text`;
+      interactive.gaps = interactive.gaps.map((g: any, i: number) => {
+        g.options = g.options.map((opt: any, j: number) => {
+          labels.de[`${prefix}_gf${i}o${j}`] = opt.de;
+          return `${prefix}_gf${i}o${j}`;
+        });
+        return g;
+      });
+    } else if (interactive.type === "drag-to-bucket") {
+      interactive.buckets = interactive.buckets.map((b: any, i: number) => {
+        labels.de[`${prefix}_b${i}`] = b.label.de;
+        b.label = `${prefix}_b${i}`;
+        return b;
+      });
+      interactive.items = interactive.items.map((it: any, i: number) => {
+        labels.de[`${prefix}_it${i}`] = it.text.de;
+        it.text = `${prefix}_it${i}`;
+        return it;
+      });
+    } else if (interactive.type === "word-order" || interactive.type === "sentence-build") {
+      interactive.words = interactive.words.map((w: any, i: number) => {
+        labels.de[`${prefix}_w${i}`] = w.de;
+        return `${prefix}_w${i}`;
+      });
+    } else if (interactive.type === "highlight-text") {
+      labels.de[`${prefix}_ht`] = interactive.text.de;
+      interactive.text = `${prefix}_ht`;
+    } else if (interactive.type === "lang-mcq") {
+      labels.de[`${prefix}_lq`] = interactive.question.de;
+      interactive.question = `${prefix}_lq`;
+      interactive.choices = interactive.choices.map((c: any, i: number) => {
+        labels.de[`${prefix}_lc${i}`] = c.de;
+        return `${prefix}_lc${i}`;
+      });
+      labels.de[`${prefix}_la`] = interactive.answer.de;
+      interactive.answer = `${prefix}_la`;
+    }
+
+    return {
+      infoTitle: `${prefix}_title`,
+      infoText: `${prefix}_h1`,
+      hintKey: `${prefix}_h2`,
+      svg: topic.svg,
+      interactive: interactive,
+      quiz: {
+        question: `${prefix}_q`,
+        choices: topic.quiz.choices.map((_, i) => `${prefix}_c${i}`),
+        answer: `${prefix}_a`,
+      },
+    };
   });
-  return { labels, pool: buildPool(island.id, island.topics) };
+
+  return { labels, pool };
 }
 
-// ─── ISLAND 1: ABSOLUTISMUS ───────────────────────────────────────────────
-
+// ─── ISLAND 1: DIE FRANZÖSISCHE REVOLUTION (BEGINN) ────────────────────────
 const I1: IslandSpec = {
   id: "i1",
-  title: L("Der Absolutismus", "Absolutism", "Az abszolutizmus", "Absolutismul"),
+  title: L("Französische Revolution: Beginn"),
   topics: [
     {
-      title: L("Ludwig XIV.", "Louis XIV", "XIV. Lajos", "Ludovic al XIV-lea"),
-      text: L("Der 'Sonnenkönig' herrschte uneingeschränkt über Frankreich. Er sah sich als Stellvertreter Gottes auf Erden.", "The 'Sun King' ruled over France with absolute power. He saw himself as God's representative on Earth.", "A „Napkirály” korlátlan hatalommal uralkodott Franciaország felett. Isten földi helytartójának tekintette magát.", "„Regele Soare” a guvernat Franța cu putere absolută. El s-a considerat reprezentantul lui Dumnezeu pe pământ."),
-      svg: { type: "geschichte-diagram", name: "NapoleonSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("L'état, c'est moi", "I am the state", "Az állam én vagyok", "Statul sunt eu"), right: L("Leitsatz", "Motto", "Jelszó", "Deviză") },
-          { left: L("Sonne", "Sun", "Nap", "Soare"), right: L("Symbol", "Symbol", "Szimbólum", "Simbol") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "absolutismus_frankreich",
+      id: "staende",
+      title: L("Ständegesellschaft"),
+      hint1: L("Die Gesellschaft war in drei Stände geteilt."),
+      hint2: L("Klerus, Adel und der Dritte Stand."),
+      svg: { type: "two-groups", left: { items: ["Klerus", "Adel"], bg: "#fee2e2", border: "#ef4444" }, right: { items: ["Bauern", "Bürger"], bg: "#dcfce7", border: "#22c55e" } },
+      interactive: { type: "match-pairs", pairs: [{ left: L("1. Stand"), right: L("Klerus") }, { left: L("2. Stand"), right: L("Adel") }, { left: L("3. Stand"), right: L("Bauern") }] },
+      quiz: { question: L("Wer gehörte zum ersten Stand?"), choices: [L("Klerus"), L("Adel"), L("Bauern"), L("König")], answer: L("Klerus") }
     },
     {
-      title: L("Schloss Versailles", "Palace of Versailles", "Versailles-i kastély", "Palatul Versailles"),
-      text: L("Das prächtige Schloss war das Zentrum der Macht und Vorbild für ganz Europa.", "The magnificent palace was the center of power and a model for all of Europe.", "A pompás kastély a hatalom központja és Európa-szerte mintakép volt.", "Mărețul palat a fost centrul puterii și un model pentru întreaga Europă."),
-      svg: { type: "geschichte-diagram", name: "VersaillesSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Das Schloss liegt bei __. Es hat einen großen __.", "The palace is located near __. It has a large __.", "A kastély __ közelében fekszik. Van egy nagy __.", "Palatul este situat lângă __. Are un __ mare."),
-        gaps: [
-          { index: 0, options: [L("Paris", "Paris", "Párizs", "Paris"), L("Berlin", "Berlin", "Berlin", "Berlin")], correct: 0 },
-          { index: 1, options: [L("Park", "Park", "Park", "Parc"), L("Wald", "Forest", "Erdő", "Pădure")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "versailler_hofleben",
+      id: "generalstaende",
+      title: L("Generalstände"),
+      hint1: L("1789 rief Ludwig XVI. die Generalstände zusammen."),
+      hint2: L("Das Ziel war die Lösung der Finanzkrise."),
+      svg: { type: "text-bubbles", items: [{ text: "1789", color: "#fff", bg: "#3b82f6" }, { text: "Steuern", color: "#fff", bg: "#ef4444" }] },
+      interactive: { type: "gap-fill", text: L("Der König brauchte neues __."), gaps: [{ index: 0, options: [L("Geld"), L("Brot")], correct: 0 }] },
+      quiz: { question: L("In welchem Jahr wurden die Generalstände einberufen?"), choices: [L("1789"), L("1776"), L("1815"), L("1799")], answer: L("1789") }
     },
     {
-      title: L("Ständegesellschaft", "Estate Society", "Rendi társadalom", "Societatea stărilor"),
-      text: L("Die Gesellschaft war in drei Stände geteilt: Klerus, Adel und der Dritte Stand (Bauern und Bürger).", "Society was divided into three estates: clergy, nobility, and the Third Estate (peasants and citizens).", "A társadalom három rendre oszlott: papság, nemesség és a harmadik rend (parasztok és polgárok).", "Societatea era împărțită în trei stări: clerul, nobilimea și Starea a Treia (țăranii și cetățenii)."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: [L("Klerus", "Clergy", "Papság", "Cler"), L("Adel", "Nobility", "Nemesség", "Nobilime"), L("Dritter Stand", "Third Estate", "Harmadik rend", "Starea a Treia")],
-        instruction: L("Ordne die Stände (1. bis 3.)", "Order the estates (1st to 3rd)", "Rendezd a rendeket (1.-3.)", "Ordonează stările (1-3)"),
-      }),
-      quiz: "ursachen_franz_rev",
+      id: "ballhaus",
+      title: L("Ballhausschwur"),
+      hint1: L("Abgeordnete schworen, eine Verfassung zu geben."),
+      hint2: L("Sie trafen sich im Ballhaus von Versailles."),
+      svg: { type: "word-card", word: L("Verfassung"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "word-order", words: [L("Wir"), L("geben"), L("uns"), L("eine"), L("Verfassung")], instruction: L("Ordne den Schwur!") },
+      quiz: { question: L("Was forderten die Abgeordneten im Ballhaus?"), choices: [L("Eine Verfassung"), L("Mehr Wein"), L("Einen neuen König"), L("Krieg")], answer: L("Eine Verfassung") }
     },
     {
-      title: L("Merkantilismus", "Mercantilism", "Merkantilizmus", "Mercantilism"),
-      text: L("Dieses Wirtschaftssystem zielte darauf ab, durch Exporte möglichst viel Gold ins Land zu bringen.", "This economic system aimed to bring as much gold as possible into the country through exports.", "Ez a gazdasági rendszer arra törekedett, hogy az export révén a lehető legtöbb aranyat hozza az országba.", "Acest sistem economic viza aducerea a cât mai mult aur în țară prin exporturi."),
-      svg: { type: "geschichte-diagram", name: "FactorySvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "exp", label: L("Fördern", "Promote", "Támogatni", "Promovare") },
-          { id: "imp", label: L("Hemmen", "Inhibit", "Gátolni", "Inhibare") },
-        ],
-        items: [
-          { text: L("Export", "Export", "Export", "Export"), bucketId: "exp" },
-          { text: L("Import", "Import", "Import", "Import"), bucketId: "imp" },
-          { text: L("Zölle", "Taxes", "Vámok", "Taxe"), bucketId: "imp" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "merkantilismus",
+      id: "bastille",
+      title: L("Sturm auf die Bastille"),
+      hint1: L("Am 14. Juli 1789 begann der Aufstand."),
+      hint2: L("Die Bastille war ein Symbol der Willkür."),
+      svg: { type: "comparison-table", rows: [{ left: L("Bastille"), right: L("Gefängnis") }, { left: L("Waffen"), right: L("Pulver") }] },
+      interactive: { type: "tap-count", count: 14, instruction: L("An welchem Tag im Juli war der Sturm?") },
+      quiz: { question: L("Was war die Bastille?"), choices: [L("Ein Gefängnis"), L("Ein Schloss"), L("Eine Kirche"), L("Ein Markt")], answer: L("Ein Gefängnis") }
     },
     {
-      title: L("Säulen der Macht", "Pillars of Power", "A hatalom oszlopai", "Pilonii puterii"),
-      text: L("Ludwig XIV. stützte seine Macht auf das Heer, die Beamten, die Kirche und die Justiz.", "Louis XIV based his power on the army, officials, the Church, and the judiciary.", "XIV. Lajos a hadseregre, a tisztviselőkre, az egyházra és az igazságszolgáltatásra alapozta hatalmát.", "Ludovic al XIV-lea și-a bazat puterea pe armată, funcționari, Biserică și justiție."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Heer", "Army", "Hadsereg", "Armată"), right: L("Soldaten", "Soldiers", "Katonák", "Soldați") },
-          { left: L("Beamte", "Officials", "Hivatalnokok", "Funcționari"), right: L("Verwaltung", "Admin", "Közigazgatás", "Administrație") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "absolutismus_frankreich",
+      id: "menschenrechte",
+      title: L("Menschenrechte"),
+      hint1: L("1789 wurde die Erklärung der Rechte verkündet."),
+      hint2: L("Gleichheit vor dem Gesetz war zentral."),
+      svg: { type: "sentence-flow", words: ["Freiheit", "Gleichheit", "Brüderlichkeit"], color: "#16a34a" },
+      interactive: { type: "highlight-text", text: L("Alle Menschen sind von Geburt an frei und gleich an Rechten."), instruction: L("Markiere die zentrale Aussage!") },
+      quiz: { question: L("Was ist ein Kernpunkt der Menschenrechte?"), choices: [L("Gleichheit"), L("Sklaverei"), L("Absolute Macht"), L("Zensur")], answer: L("Gleichheit") }
     },
-  ],
+    {
+      id: "trikolore",
+      title: L("Die Trikolore"),
+      hint1: L("Die neue Flagge Frankreichs."),
+      hint2: L("Blau, Weiß und Rot."),
+      svg: { type: "text-bubbles", items: [{ text: "Blau", color: "#fff", bg: "#002395" }, { text: "Weiß", color: "#000", bg: "#ffffff" }, { text: "Rot", color: "#fff", bg: "#ed2939" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Revolution"), items: [L("Trikolore"), L("Kokarde")] }, { label: L("Monarchie"), items: [L("Lilie")] }] },
+      quiz: { question: L("Welche Farben hat die Trikolore?"), choices: [L("Blau-Weiß-Rot"), L("Schwarz-Rot-Gold"), L("Rot-Gelb"), L("Grün-Weiß-Rot")], answer: L("Blau-Weiß-Rot") }
+    },
+    {
+      id: "ludwig16",
+      title: L("Ludwig XVI."),
+      hint1: L("Der letzte absolutistische König."),
+      hint2: L("Er war mit der Situation überfordert."),
+      svg: { type: "icon-grid", items: [{ emoji: "👑", label: "Krone" }, { emoji: "🏰", label: "Versailles" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Ludwig XVI."), right: L("König") }, { left: L("Marie Antoinette"), right: L("Königin") }] },
+      quiz: { question: L("Wer war der König zu Beginn der Revolution?"), choices: [L("Ludwig XVI."), L("Ludwig XIV."), L("Napoleon"), L("Karl X.")], answer: L("Ludwig XVI.") }
+    },
+    {
+      id: "nationalversammlung",
+      title: L("Nationalversammlung"),
+      hint1: L("Der 3. Stand erklärte sich zur Vertretung."),
+      hint2: L("Sie wollten die Nation allein vertreten."),
+      svg: { type: "word-card", word: L("Nation"), color: "#fff", bg: "#dc2626" },
+      interactive: { type: "sentence-build", words: [L("Die"), L("Nationalversammlung"), L("vertritt"), L("das"), L("Volk")], instruction: L("Bilde den Satz!") },
+      quiz: { question: L("Wer bildete die Nationalversammlung?"), choices: [L("Der 3. Stand"), L("Nur der Adel"), L("Die Priester"), L("Ausländer")], answer: L("Der 3. Stand") }
+    },
+    {
+      id: "brotpreise",
+      title: L("Hunger & Brot"),
+      hint1: L("Missernten führten zu hohen Brotpreisen."),
+      hint2: L("Das Volk litt unter großem Hunger."),
+      svg: { type: "comparison-table", rows: [{ left: L("Missernte"), right: L("Hunger") }, { left: L("Hohe Preise"), right: L("Wut") }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "urs", label: L("Ursachen") }], items: [{ text: L("Hunger"), bucketId: "urs" }, { text: L("Schulden"), bucketId: "urs" }] },
+      quiz: { question: L("Was war ein wirtschaftlicher Grund für die Revolution?"), choices: [L("Hohe Brotpreise"), L("Zu viel Gold"), L("Günstige Mieten"), L("Keine Steuern")], answer: L("Hohe Brotpreise") }
+    },
+    {
+      id: "versailles",
+      title: L("Versailles"),
+      hint1: L("Der prunkvolle Sitz des Königs."),
+      hint2: L("Weit weg vom hungernden Volk in Paris."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 20, text: "Schloss" }, { x: 50, y: 80, text: "Park" }] },
+      interactive: { type: "gap-fill", text: L("Der König residierte in __."), gaps: [{ index: 0, options: ["Versailles", "Berlin", "Wien"], correct: 0 }] },
+      quiz: { question: L("Wo wohnte der französische König?"), choices: [L("Versailles"), L("Louvre"), L("Bastille"), L("Eiffelturm")], answer: L("Versailles") }
+    },
+    {
+      id: "aufklaerung",
+      title: L("Einfluss der Aufklärung"),
+      hint1: L("Denker forderten Vernunft und Freiheit."),
+      hint2: L("Kritik an der Macht des Königs."),
+      svg: { type: "text-bubbles", items: [{ text: "Vernunft", color: "#fff", bg: "#8b5cf6" }, { text: "Wissen", color: "#fff", bg: "#4f46e5" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Montesquieu"), right: L("Gewaltenteilung") }, { left: L("Rousseau"), right: L("Volkswille") }] },
+      quiz: { question: L("Was forderten die Aufklärer?"), choices: [L("Gewaltenteilung"), L("Mehr Steuern"), L("Absolute Macht"), L("Hexenverbrennung")], answer: L("Gewaltenteilung") }
+    },
+    {
+      id: "olympe",
+      title: L("Olympe de Gouges"),
+      hint1: L("Sie forderte Rechte für Frauen."),
+      hint2: L("Erklärung der Rechte der Frau."),
+      svg: { type: "word-card", word: L("Frauenrechte"), color: "#fff", bg: "#db2777" },
+      interactive: { type: "lang-mcq", question: L("Was forderte Olympe de Gouges?"), choices: [L("Rechte für Frauen"), L("Rückkehr zum König"), L("Krieg gegen England")], answer: L("Rechte für Frauen") }
+    },
+    {
+      id: "marschfrauen",
+      title: L("Marsch der Frauen"),
+      hint1: L("Frauen zogen nach Versailles."),
+      hint2: L("Sie holten den König nach Paris."),
+      svg: { type: "icon-grid", items: [{ emoji: "🥖", label: "Brot" }, { emoji: "🚶‍♀️", label: "Marsch" }] },
+      interactive: { type: "tap-count", count: 7, instruction: L("In welchem Monat (Oktober=10) war der Marsch?") },
+      quiz: { question: L("Wohin zogen die Frauen beim Marsch?"), choices: [L("Versailles"), L("Lyon"), L("Marseille"), L("London")], answer: L("Versailles") }
+    },
+    {
+      id: "verfassung1791",
+      title: L("Verfassung 1791"),
+      hint1: L("Frankreich wurde eine konstitutionelle Monarchie."),
+      hint2: L("Der König war an Gesetze gebunden."),
+      svg: { type: "two-groups", left: { items: [L("Gesetz")], bg: "#dbeafe", border: "#2563eb" }, right: { items: [L("König")], bg: "#fef3c7", border: "#d97706" } },
+      interactive: { type: "gap-fill", text: L("Die Verfassung beschränkt die Macht des __."), gaps: [{ index: 0, options: [L("Königs"), L("Volkes")], correct: 0 }] },
+      quiz: { question: L("Was bedeutet konstitutionelle Monarchie?"), choices: [L("König an Verfassung gebunden"), L("König hat alle Macht"), L("Es gibt keinen König"), L("Nur die Kirche regiert")], answer: L("König an Verfassung gebunden") }
+    },
+    {
+      id: "fluchtkoenig",
+      title: L("Fluchtversuch"),
+      hint1: L("Ludwig XVI. wollte ins Ausland fliehen."),
+      hint2: L("Er wurde in Varennes gefasst."),
+      svg: { type: "text-bubbles", items: [{ text: "Varennes", color: "#fff", bg: "#475569" }, { text: "Verrat", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Varennes"), right: L("Ort der Festnahme") }, { left: L("Flucht"), right: L("Vertrauensverlust") }] },
+      quiz: { question: L("Wo wurde der fliehende König gefasst?"), choices: [L("Varennes"), L("Paris"), L("Berlin"), L("Straßburg")], answer: L("Varennes") }
+    }
+  ]
 };
 
-// ─── ISLAND 2: DIE AUFKLÄRUNG ──────────────────────────────────────────────
-
+// ─── ISLAND 2: DIE SCHRECKENSHERRSCHAFT & NAPOLEON ─────────────────────────
 const I2: IslandSpec = {
   id: "i2",
-  title: L("Die Aufklärung", "Enlightenment", "A felvilágosodás", "Iluminismul"),
+  title: L("Terror & Napoleon"),
   topics: [
     {
-      title: L("Vernunft", "Reason", "Ész", "Rațiune"),
-      text: L("Die Aufklärer forderten den Gebrauch des eigenen Verstandes statt blindem Gehorsam.", "The Enlighteners called for the use of one's own intellect instead of blind obedience.", "A felvilágosultak a saját ész használatát követelték a vak engedelmesség helyett.", "Iluminiștii au cerut folosirea propriului intelect în locul obedienței oarbe."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Habe Mut, dich deines eigenen __ zu bedienen!", "Have courage to use your own __!", "Merj a saját __ használni!", "Ai curajul să te folosești de propria __!"),
-        gaps: [
-          { index: 0, options: [L("Verstandes", "Reason", "Eszét", "Rațiune"), L("Königs", "King", "Királyát", "Rege")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "aufklaerung",
+      id: "guillotine",
+      title: L("Die Guillotine"),
+      hint1: L("Ein Gerät zur schnellen Hinrichtung."),
+      hint2: L("Es galt als 'humaner' Weg zu töten."),
+      svg: { type: "icon-grid", items: [{ emoji: "🗡️", label: "Fallbeil" }, { emoji: "⚖️", label: "Strafe" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Guillotine"), right: L("Hinrichtung") }, { left: L("Dr. Guillotin"), right: L("Erfinder") }] },
+      quiz: { question: L("Wofür wurde die Guillotine genutzt?"), choices: [L("Hinrichtungen"), L("Brot schneiden"), L("Hausbau"), L("Sport")], answer: L("Hinrichtungen") }
     },
     {
-      title: L("Immanuel Kant", "Immanuel Kant", "Immanuel Kant", "Immanuel Kant"),
-      text: L("Kant definierte Aufklärung als den 'Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit'.", "Kant defined Enlightenment as 'man's emergence from his self-imposed immaturity'.", "Kant a felvilágosodást úgy határozta meg, mint „az ember kilépése a maga okozta kiskorúságból”.", "Kant a definit Iluminismul drept „ieșirea omului din starea de minorat de care el însuși este vinovat”."),
-      svg: { type: "geschichte-diagram", name: "WeimarSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Kant", "Kant", "Kant", "Kant"), right: L("Königsberg", "Königsberg", "Königsberg", "Königsberg") },
-          { left: L("Kritik", "Critique", "Kritika", "Critică"), right: L("Vernunft", "Reason", "Ész", "Rațiune") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "aufklaerung",
+      id: "robespierre",
+      title: L("Maximilien Robespierre"),
+      hint1: L("Anführer der Jakobiner."),
+      hint2: L("Er rechtfertigte den Terror mit Tugend."),
+      svg: { type: "text-bubbles", items: [{ text: "Terror", color: "#fff", bg: "#991b1b" }, { text: "Tugend", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "gap-fill", text: L("Robespierre war ein __."), gaps: [{ index: 0, options: ["Jakobiner", "Königstreuer"], correct: 0 }] },
+      quiz: { question: L("Wer war der Kopf der Schreckensherrschaft?"), choices: [L("Robespierre"), L("Napoleon"), L("Ludwig XVI."), L("Metternich")], answer: L("Robespierre") }
     },
     {
-      title: L("Gewaltenteilung", "Separation of Powers", "Hatalmi ágak megosztása", "Separația puterilor"),
-      text: L("Montesquieu forderte die Trennung der Macht in drei Zweige, um Tyrannei zu verhindern.", "Montesquieu called for the separation of power into three branches to prevent tyranny.", "Montesquieu a hatalom három ágra való felosztását követelte a zsarnokság megelőzése érdekében.", "Montesquieu a cerut separarea puterii în trei ramuri pentru a preveni tirania."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: [L("Gesetzgebung", "Legislative", "Törvényhozás", "Legislativ"), L("Ausführung", "Executive", "Végrehajtás", "Executiv"), L("Rechtsprechung", "Judiciary", "Igazságszolgáltatás", "Judiciar")],
-        instruction: L("Nenne die drei Gewalten", "Order the three powers", "Nevezd meg a három hatalmi ágat", "Numește cele trei puteri"),
-      }),
-      quiz: "aufklaerung",
+      id: "jakobiner",
+      title: L("Die Jakobiner"),
+      hint1: L("Radikale Anhänger der Revolution."),
+      hint2: L("Sie wollten die Republik mit Gewalt."),
+      svg: { type: "word-card", word: L("Republik"), color: "#fff", bg: "#ef4444" },
+      interactive: { type: "block-drag", blocks: [{ label: L("Gruppen"), items: [L("Jakobiner"), L("Girondisten")] }] },
+      quiz: { question: L("Was wollten die Jakobiner?"), choices: [L("Eine radikale Republik"), L("Die Rückkehr des Königs"), L("Frieden mit allen"), L("Keine Gesetze")], answer: L("Eine radikale Republik") }
     },
     {
-      title: L("Volkssouveränität", "Popular Sovereignty", "Népszuverenitás", "Suveranitatea poporului"),
-      text: L("Rousseau lehrte, dass die Macht vom Volk ausgehen sollte, nicht vom König.", "Rousseau taught that power should originate from the people, not the king.", "Rousseau azt tanította, hogy a hatalomnak a néptől kell származnia, nem a királytól.", "Rousseau a învățat că puterea ar trebui să provină de la popor, nu de la rege."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Rousseau", "Rousseau", "Rousseau", "Rousseau"), right: L("Gesellschaftsvertrag", "Social Contract", "Társadalmi szerződés", "Contract social") },
-          { left: L("Volk", "People", "Nép", "Popor"), right: L("Herrscher", "Ruler", "Uralkodó", "Conducător") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "aufklaerung",
+      id: "endemonarchie",
+      title: L("Ende der Monarchie"),
+      hint1: L("Der König wurde abgesetzt und hingerichtet."),
+      hint2: L("1792 wurde Frankreich zur Republik."),
+      svg: { type: "comparison-table", rows: [{ left: L("1791"), right: L("Monarchie") }, { left: L("1792"), right: L("Republik") }] },
+      interactive: { type: "tap-count", count: 1792, instruction: L("In welchem Jahr wurde die Republik ausgerufen?") },
+      quiz: { question: L("Was geschah 1792?"), choices: [L("Ausrufung der Republik"), L("Sieg bei Waterloo"), L("Entdeckung Amerikas"), L("Bau der Bastille")], answer: L("Ausrufung der Republik") }
     },
     {
-      title: L("Toleranz", "Tolerance", "Tolerancia", "Toleranță"),
-      text: L("Voltaire kämpfte für die Gedankenfreiheit und religiöse Toleranz gegenüber allen Glaubensrichtungen.", "Voltaire fought for freedom of thought and religious tolerance toward all faiths.", "Voltaire küzdött a gondolatszabadságért és a vallási toleranciáért minden hittel szemben.", "Voltaire a luptat pentru libertatea de gândire și toleranța religioasă față de toate credințele."),
-      svg: { type: "geschichte-diagram", name: "PeaceDoveSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "tol", label: L("Werte", "Values", "Értékek", "Valori") },
-          { id: "no", label: L("Gegenteil", "Opposite", "Ellentét", "Opus") },
-        ],
-        items: [
-          { text: L("Freiheit", "Freedom", "Szabadság", "Libertate"), bucketId: "tol" },
-          { text: L("Zensur", "Censorship", "Cenzúra", "Cenzură"), bucketId: "no" },
-          { text: L("Vorurteil", "Prejudice", "Előítélet", "Prejudecată"), bucketId: "no" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "aufklaerung",
+      id: "napoleonaufstieg",
+      title: L("Aufstieg Napoleons"),
+      hint1: L("Ein erfolgreicher General aus Korsika."),
+      hint2: L("Er beendete die Revolution 1799."),
+      svg: { type: "text-bubbles", items: [{ text: "General", color: "#fff", bg: "#3b82f6" }, { text: "1799", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "word-order", words: [L("Napoleon"), L("wird"), L("Erster"), L("Konsul")], instruction: L("Sein erster Titel?") },
+      quiz: { question: L("Woher stammte Napoleon?"), choices: [L("Korsika"), L("Paris"), L("London"), L("Berlin")], answer: L("Korsika") }
     },
-  ],
+    {
+      id: "codecivil",
+      title: L("Code Civil"),
+      hint1: L("Ein modernes Gesetzbuch Napoleons."),
+      hint2: L("Es garantierte Freiheit und Eigentum."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Gesetze" }] },
+      interactive: { type: "highlight-text", text: L("Gleichheit vor dem Gesetz für alle männlichen Bürger."), instruction: L("Was war neu?") },
+      quiz: { question: L("Was war der Code Civil?"), choices: [L("Ein Gesetzbuch"), L("Ein Kochbuch"), L("Ein Kriegsplan"), L("Eine Schiffsklasse")], answer: L("Ein Gesetzbuch") }
+    },
+    {
+      id: "kaiserkroenung",
+      title: L("Kaiserkrönung"),
+      hint1: L("1804 krönte sich Napoleon selbst."),
+      hint2: L("Er wollte seine Macht festigen."),
+      svg: { type: "icon-grid", items: [{ emoji: "👑", label: "Kaiser" }, { emoji: "🏛️", label: "Notre Dame" }] },
+      interactive: { type: "sentence-build", words: [L("Er"), L("setzte"), L("sich"), L("die"), L("Krone"), L("selbst"), L("auf")], instruction: L("Was tat er?") },
+      quiz: { question: L("Wann wurde Napoleon Kaiser?"), choices: [L("1804"), L("1789"), L("1815"), L("1871")], answer: L("1804") }
+    },
+    {
+      id: "russlandfeldzug",
+      title: L("Russlandfeldzug"),
+      hint1: L("1812 scheiterte die Große Armee."),
+      hint2: L("Kälte und Hunger besiegten ihn."),
+      svg: { type: "comparison-table", rows: [{ left: L("Russland"), right: L("Kälte") }, { left: L("Napoleon"), right: L("Rückzug") }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "fail", label: L("Gründe") }], items: [{ text: L("Winter"), bucketId: "fail" }, { text: L("Hunger"), bucketId: "fail" }] },
+      quiz: { question: L("Was stoppte Napoleon in Russland?"), choices: [L("Kälte und Hunger"), L("Die russische Marine"), L("Ein Vulkanausbruch"), L("Geldmangel")], answer: L("Kälte und Hunger") }
+    },
+    {
+      id: "leipzig",
+      title: L("Völkerschlacht bei Leipzig"),
+      hint1: L("1813 kämpften viele Völker gegen ihn."),
+      hint2: L("Napoleons Macht in Deutschland brach zusammen."),
+      svg: { type: "text-bubbles", items: [{ text: "1813", color: "#fff", bg: "#1e3a8a" }, { text: "Leipzig", color: "#fff", bg: "#ea580c" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Leipzig"), right: L("1813") }, { left: L("Völkerschlacht"), right: L("Niederlage") }] },
+      quiz: { question: L("Wann war die Völkerschlacht bei Leipzig?"), choices: [L("1813"), L("1804"), L("1815"), L("1789")], answer: L("1813") }
+    },
+    {
+      id: "waterloo",
+      title: L("Schlacht bei Waterloo"),
+      hint1: L("Seine endgültige Niederlage 1815."),
+      hint2: L("Besiegt von Wellington und Blücher."),
+      svg: { type: "word-card", word: L("Waterloo"), color: "#fff", bg: "#000" },
+      interactive: { type: "gap-fill", text: L("Waterloo liegt im heutigen __."), gaps: [{ index: 0, options: ["Belgien", "Frankreich"], correct: 0 }] },
+      quiz: { question: L("In welchem Jahr wurde Napoleon bei Waterloo besiegt?"), choices: [L("1815"), L("1812"), L("1813"), L("1821")], answer: L("1815") }
+    },
+    {
+      id: "sthelena",
+      title: L("Verbannung St. Helena"),
+      hint1: L("Seine letzte Station im Exil."),
+      hint2: L("Eine einsame Insel im Atlantik."),
+      svg: { type: "letter-circles", letters: ["I", "N", "S", "E", "L"] },
+      interactive: { type: "lang-mcq", question: L("Wo starb Napoleon?"), choices: [L("St. Helena"), L("Elba"), L("Paris")], answer: L("St. Helena") }
+    },
+    {
+      id: "rheinbund",
+      title: L("Rheinbund"),
+      hint1: L("Deutsche Staaten unter Napoleons Schutz."),
+      hint2: L("Ende des Heiligen Römischen Reiches."),
+      svg: { type: "two-groups", left: { items: [L("Bayern"), L("Sachsen")], bg: "#dcfce7", border: "#16a34a" }, right: { items: [L("Österreich"), L("Preußen")], bg: "#fee2e2", border: "#ef4444" } },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Rheinbund"), right: L("Napoleon") }, { left: L("1806"), right: L("Ende HRRDN") }] },
+      quiz: { question: L("Wann endete das Heilige Römische Reich?"), choices: [L("1806"), L("1804"), L("1815"), L("1871")], answer: L("1806") }
+    },
+    {
+      id: "kontinentalsperre",
+      title: L("Kontinentalsperre"),
+      hint1: L("Handelsverbot gegen England."),
+      hint2: L("Er wollte England wirtschaftlich besiegen."),
+      svg: { type: "text-bubbles", items: [{ text: "Handel", color: "#fff", bg: "#0ea5e9" }, { text: "Stopp", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "gap-fill", text: L("Die Sperre galt gegen __."), gaps: [{ index: 0, options: ["England", "Russland"], correct: 0 }] },
+      quiz: { question: L("Gegen wen richtete sich die Kontinentalsperre?"), choices: [L("England"), L("Spanien"), L("Preußen"), L("Amerika")], answer: L("England") }
+    },
+    {
+      id: "saekularisation",
+      title: L("Säkularisation"),
+      hint1: L("Enteignung kirchlicher Besitztümer."),
+      hint2: L("Fürsten erhielten Kirchenland."),
+      svg: { type: "comparison-table", rows: [{ left: L("Kirche"), right: L("Landverlust") }, { left: L("Fürsten"), right: L("Landgewinn") }] },
+      interactive: { type: "word-order", words: [L("Kirche"), L("verliert"), L("ihre"), L("Macht")], instruction: L("Was geschah?") },
+      quiz: { question: L("Was bedeutet Säkularisation?"), choices: [L("Enteignung der Kirche"), L("Wahl eines Papstes"), L("Bau von Kirchen"), L("Neugründung von Klöstern")], answer: L("Enteignung der Kirche") }
+    },
+    {
+      id: "legende",
+      title: L("Napoleons Legende"),
+      hint1: L("Widersprüchliche Wirkung bis heute."),
+      hint2: L("Befreier oder Tyrann?"),
+      svg: { type: "text-bubbles", items: [{ text: "Befreier", color: "#fff", bg: "#16a34a" }, { text: "Tyrann", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Meinungen"), items: [L("Modernisierer"), L("Eroberer")] }] },
+      quiz: { question: L("Wie wird Napoleon oft gesehen?"), choices: [L("Widersprüchlich"), L("Nur als Heiliger"), L("Nur als Versager"), L("Gar nicht mehr")], answer: L("Widersprüchlich") }
+    }
+  ]
 };
 
-// ─── ISLAND 3: AMERIKANISCHE REVOLUTION ─────────────────────────────────────
-
+// ─── ISLAND 3: DER WIENER KONGRESS & RESTAURATION ──────────────────────────
 const I3: IslandSpec = {
   id: "i3",
-  title: L("Amerikanische Revolution", "American Revolution", "Amerikai forradalom", "Revoluția americană"),
+  title: L("Wiener Kongress"),
   topics: [
     {
-      title: L("Boston Tea Party", "Boston Tea Party", "Bostoni teadélután", "Partida de ceai de la Boston"),
-      text: L("Aus Protest gegen britische Steuern warfen Siedler Teekisten ins Meer (1773).", "Settlers threw tea chests into the sea in protest against British taxes (1773).", "A brit adók elleni tiltakozásul a telepesek tealádákat dobtak a tengerbe (1773).", "Coloniștii au aruncat lăzi cu ceai în mare în semn de protest față de taxele britanice (1773)."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("No taxation without __! Der Protest war in __.", "No taxation without __! The protest was in __.", "Nincs adózás __ nélkül! A tiltakozás __-ban volt.", "Nicio taxare fără __! Protestul a fost în __."),
-        gaps: [
-          { index: 0, options: [L("representation", "representation", "képviselet", "reprezentare"), L("money", "money", "pénz", "bani")], correct: 0 },
-          { index: 1, options: [L("Boston", "Boston", "Boston", "Boston"), L("London", "London", "London", "London")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "entdeckungsfahrten",
+      id: "restauration",
+      title: L("Restauration"),
+      hint1: L("Wiederherstellung der alten Ordnung."),
+      hint2: L("Zeit vor der Revolution als Ideal."),
+      svg: { type: "comparison-table", rows: [{ left: L("Neu"), right: L("Revolution") }, { left: L("Alt"), right: L("Monarchie") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Restauration"), right: L("Wiederherstellung") }, { left: L("Alt"), right: L("Vor 1789") }] },
+      quiz: { question: L("Was bedeutet Restauration?"), choices: [L("Wiederherstellung"), L("Zerstörung"), L("Neuanfang"), L("Urlaub")], answer: L("Wiederherstellung") }
     },
     {
-      title: L("Unabhängigkeitserklärung", "Declaration of Independence", "Függetlenségi Nyilatkozat", "Declarația de Independență"),
-      text: L("Am 4. Juli 1776 erklärten die 13 Kolonien ihre Unabhängigkeit von England.", "On July 4, 1776, the 13 colonies declared their independence from England.", "1776. július 4-én a 13 gyarmat kikiáltotta függetlenségét Angliától.", "La 4 iulie 1776, cele 13 colonii și-au declarat independența față de Anglia."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("4. Juli 1776", "July 4, 1776", "1776. júl. 4.", "4 iulie 1776"), right: L("Feiertag", "Holiday", "Ünnep", "Sărbătoare") },
-          { left: L("Thomas Jefferson", "Thomas Jefferson", "Thomas Jefferson", "Thomas Jefferson"), right: L("Autor", "Author", "Szerző", "Autor") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "entdeckungsfahrten",
+      id: "legitimitaet",
+      title: L("Legitimität"),
+      hint1: L("Rechtmäßigkeit der Herrschaft."),
+      hint2: L("Gottesgnadentum als Begründung."),
+      svg: { type: "icon-grid", items: [{ emoji: "👑", label: "König" }, { emoji: "🙏", label: "Gott" }] },
+      interactive: { type: "gap-fill", text: L("Herrschaft durch __ Gnade."), gaps: [{ index: 0, options: ["Gottes", "Volkes"], correct: 0 }] },
+      quiz: { question: L("Wie begründeten Fürsten ihre Macht?"), choices: [L("Gottesgnadentum"), L("Wahlen"), L("Stärke"), L("Zufall")], answer: L("Gottesgnadentum") }
     },
     {
-      title: L("George Washington", "George Washington", "George Washington", "George Washington"),
-      text: L("Er war der Oberbefehlshaber im Unabhängigkeitskrieg und wurde der erste Präsident der USA.", "He was the commander-in-chief in the War of Independence and became the first president of the USA.", "A függetlenségi háború főparancsnoka volt, és az USA első elnöke lett.", "El a fost comandantul suprem în Războiul de Independență și a devenit primul președinte al SUA."),
-      svg: { type: "geschichte-diagram", name: "NapoleonSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "wash", label: L("Washington", "Washington", "Washington", "Washington") },
-          { id: "other", label: L("Andere", "Others", "Mások", "Alții") },
-        ],
-        items: [
-          { text: L("1. Präsident", "1st President", "1. elnök", "Primul președinte"), bucketId: "wash" },
-          { text: L("General", "General", "Tábornok", "General"), bucketId: "wash" },
-          { text: L("König", "King", "Király", "Rege"), bucketId: "other" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "entdeckungsfahrten",
+      id: "solidaritaet",
+      title: L("Solidarität"),
+      hint1: L("Gegenseitige Hilfe der Monarchen."),
+      hint2: L("Schutz gegen neue Revolutionen."),
+      svg: { type: "text-bubbles", items: [{ text: "Allianz", color: "#fff", bg: "#16a34a" }, { text: "Hilfe", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "word-order", words: [L("Fürsten"), L("helfen"), L("sich"), L("gegenseitig")], instruction: L("Was war Solidarität?") },
+      quiz: { question: L("Gegen wen richtete sich die Solidarität?"), choices: [L("Revolutionäre"), L("Andere Könige"), L("Die Kirche"), L("Händler")], answer: L("Revolutionäre") }
     },
     {
-      title: L("Die US-Verfassung", "The US Constitution", "Az USA alkotmánya", "Constituția SUA"),
-      text: L("Sie ist eine der ältesten modernen Verfassungen und regelt die Gewaltenteilung in den USA.", "It is one of the oldest modern constitutions and regulates the separation of powers in the USA.", "Az egyik legrégebbi modern alkotmány, amely szabályozza a hatalmi ágak megosztását az USA-ban.", "Este una dintre cele mai vechi constituții moderne și reglementează separarea puterilor în SUA."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Präsident", "President", "Elnök", "Președinte"), right: L("Exekutive", "Executive", "Végrehajtó", "Executiv") },
-          { left: L("Kongress", "Congress", "Kongresszus", "Congres"), right: L("Legislative", "Legislative", "Törvényhozó", "Legislativ") },
-          { left: L("Oberster Gerichtshof", "Supreme Court", "Legfelsőbb Bíróság", "Curtea Supremă"), right: L("Judikative", "Judiciary", "Bírói", "Judiciar") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "entdeckungsfahrten",
+      id: "metternich",
+      title: L("Fürst von Metternich"),
+      hint1: L("Der 'Kutscher Europas'."),
+      hint2: L("Österreichischer Staatsmann."),
+      svg: { type: "word-card", word: L("Metternich"), color: "#fff", bg: "#475569" },
+      interactive: { type: "highlight-text", text: L("Metternich bekämpfte alle liberalen Ideen mit Zensur."), instruction: L("Seine Methode?") },
+      quiz: { question: L("Welches Land vertrat Metternich?"), choices: [L("Österreich"), L("Preußen"), L("Russland"), L("England")], answer: L("Österreich") }
     },
     {
-      title: L("Bill of Rights", "Bill of Rights", "Jognyilatkozat", "Bill of Rights"),
-      text: L("Die ersten zehn Zusatzartikel garantieren den Bürgern wichtige Grundrechte wie Religionsfreiheit.", "The first ten amendments guarantee citizens important basic rights such as freedom of religion.", "Az első tíz kiegészítés fontos alapjogokat garantál az állampolgároknak, például a vallásszabadságot.", "Primele zece amendamente garantează cetățenilor drepturi de bază importante, cum ar fi libertatea religioasă."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "right", label: L("Grundrechte", "Basic Rights", "Alapjogok", "Drepturi") },
-          { id: "no", label: L("Kein Recht", "Not a Right", "Nem jog", "Nu e drept") },
-        ],
-        items: [
-          { text: L("Pressefreiheit", "Press Freedom", "Sajtószabadság", "Libertatea presei"), bucketId: "right" },
-          { text: L("Meinungsfreiheit", "Speech Freedom", "Véleményszabadság", "Libertatea de exprimare"), bucketId: "right" },
-          { text: L("Gehorsamspflicht", "Obedience", "Engedelmesség", "Obediență"), bucketId: "no" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "entdeckungsfahrten",
+      id: "deutscherbund",
+      title: L("Deutscher Bund"),
+      hint1: L("Lockerer Staatenbund von 39 Staaten."),
+      hint2: L("Kein deutscher Nationalstaat."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Staatenbund" }] },
+      interactive: { type: "tap-count", count: 39, instruction: L("Wie viele Staaten gehörten zum Bund?") },
+      quiz: { question: L("Was war der Deutsche Bund?"), choices: [L("Lockerer Staatenbund"), L("Ein Einheitsstaat"), L("Ein Sportverein"), L("Eine Armee")], answer: L("Lockerer Staatenbund") }
     },
-  ],
+    {
+      id: "zensur",
+      title: L("Zensur"),
+      hint1: L("Kontrolle von Büchern und Zeitungen."),
+      hint2: L("Verbot von freien Meinungen."),
+      svg: { type: "text-bubbles", items: [{ text: "Stopp", color: "#fff", bg: "#dc2626" }, { text: "Verbot", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "gap-fill", text: L("Die Presse wurde __."), gaps: [{ index: 0, options: ["zensiert", "gefeiert"], correct: 0 }] },
+      quiz: { question: L("Wozu diente die Zensur?"), choices: [L("Kontrolle der Meinung"), L("Leseförderung"), L("Papier sparen"), L("Werbung")], answer: L("Kontrolle der Meinung") }
+    },
+    {
+      id: "karlsbad",
+      title: L("Karlsbader Beschlüsse"),
+      hint1: L("Harte Gesetze gegen Liberale."),
+      hint2: L("Verbot von Burschenschaften."),
+      svg: { type: "comparison-table", rows: [{ left: L("1819"), right: L("Beschlüsse") }, { left: L("Zensur"), right: L("Überwachung") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Karlsbad"), right: L("1819") }, { left: L("Verbot"), right: L("Burschenschaften") }] },
+      quiz: { question: L("Was wurde in Karlsbad beschlossen?"), choices: [L("Strenge Zensur"), L("Mehr Freiheit"), L("Ein neuer König"), L("Ein Volksfest")], answer: L("Strenge Zensur") }
+    },
+    {
+      id: "biedermeier",
+      title: L("Biedermeier"),
+      hint1: L("Rückzug ins Private."),
+      hint2: L("Häuslichkeit und Ruhe."),
+      svg: { type: "icon-grid", items: [{ emoji: "🏠", label: "Heim" }, { emoji: "☕", label: "Kaffee" }] },
+      interactive: { type: "sentence-build", words: [L("Rückzug"), L("in"), L("die"), L("eigene"), L("Wohnung")], instruction: L("Biedermeier-Motto?") },
+      quiz: { question: L("Was ist typisch für die Biedermeier-Zeit?"), choices: [L("Rückzug ins Private"), L("Politische Revolten"), L("Weltreisen"), L("Fabrikbau")], answer: L("Rückzug ins Private") }
+    },
+    {
+      id: "hambach",
+      title: L("Hambacher Fest"),
+      hint1: L("Große Demonstration für Freiheit 1832."),
+      hint2: L("30.000 Menschen auf dem Hambacher Schloss."),
+      svg: { type: "text-bubbles", items: [{ text: "1832", color: "#fff", bg: "#f59e0b" }, { text: "Freiheit", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "word-order", words: [L("Hinauf"), L("zum"), L("Schloss")], instruction: L("Der Ruf von Hambach?") },
+      quiz: { question: L("Was forderten die Menschen in Hambach?"), choices: [L("Einheit und Freiheit"), L("Mehr Steuern"), L("Einen neuen Papst"), L("Nichts")], answer: L("Einheit und Freiheit") }
+    },
+    {
+      id: "wartburg",
+      title: L("Wartburgfest"),
+      hint1: L("Studenten forderten deutsche Einheit 1817."),
+      hint2: L("Verbrennung von Symbolen der Unfreiheit."),
+      svg: { type: "word-card", word: L("Einheit"), color: "#fff", bg: "#000" },
+      interactive: { type: "tap-count", count: 1817, instruction: L("In welchem Jahr war das Wartburgfest?") },
+      quiz: { question: L("Wer organisierte das Wartburgfest?"), choices: [L("Studenten"), L("Bauern"), L("Könige"), L("Händler")], answer: L("Studenten") }
+    },
+    {
+      id: "liberalismus",
+      title: L("Liberalismus"),
+      hint1: L("Forderung nach Freiheit des Einzelnen."),
+      hint2: L("Rechte gegenüber dem Staat."),
+      svg: { type: "two-groups", left: { items: [L("Freiheit")], bg: "#dcfce7", border: "#16a34a" }, right: { items: [L("Zwang")], bg: "#fee2e2", border: "#dc2626" } },
+      interactive: { type: "lang-mcq", question: L("Was ist das Hauptziel des Liberalismus?"), choices: [L("Freiheit"), L("Absolute Macht"), L("Gleiche Armut")], answer: L("Freiheit") }
+    },
+    {
+      id: "nationalismus",
+      title: L("Nationalismus (19. Jh.)"),
+      hint1: L("Wunsch nach einem eigenen Nationalstaat."),
+      hint2: L("Ein Volk, eine Nation."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇩🇪", label: "Einheit" }, { emoji: "⚔️", label: "Kampf" }] },
+      interactive: { type: "gap-fill", text: L("Ein Volk will ein __."), gaps: [{ index: 0, options: ["Land", "Haus"], correct: 0 }] },
+      quiz: { question: L("Was wollten Nationalisten im 19. Jahrhundert?"), choices: [L("Einen Nationalstaat"), L("Viele kleine Fürstentümer"), L("Ein Weltreich"), L("Gar keinen Staat")], answer: L("Einen Nationalstaat") }
+    },
+    {
+      id: "heiligeallianz",
+      title: L("Heilige Allianz"),
+      hint1: L("Bündnis von Russland, Preußen, Österreich."),
+      hint2: L("Christliche Grundwerte als Basis."),
+      svg: { type: "text-bubbles", items: [{ text: "Drei", color: "#fff", bg: "#475569" }, { text: "Mächte", color: "#fff", bg: "#1e3a8a" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Russland"), right: L("Zar") }, { left: L("Preußen"), right: L("König") }] },
+      quiz: { question: L("Wer gehörte zur Heiligen Allianz?"), choices: [L("Österreich, Preußen, Russland"), L("Frankreich, England, USA"), L("China, Indien, Japan"), L("Niemand")], answer: L("Österreich, Preußen, Russland") }
+    },
+    {
+      id: "pentarchie",
+      title: L("Pentarchie"),
+      hint1: L("Die fünf Großmächte Europas."),
+      hint2: L("Gleichgewicht der Kräfte."),
+      svg: { type: "comparison-table", rows: [{ left: L("5"), right: L("Mächte") }, { left: L("Gleichgewicht"), right: L("Frieden") }] },
+      interactive: { type: "tap-count", count: 5, instruction: L("Wie viele Mächte bildeten die Pentarchie?") },
+      quiz: { question: L("Was war das Ziel der Pentarchie?"), choices: [L("Gleichgewicht der Mächte"), L("Weltherrschaft"), L("Vernichtung Englands"), L("Zerstörung Frankreichs")], answer: L("Gleichgewicht der Mächte") }
+    },
+    {
+      id: "grenzen",
+      title: L("Neue Grenzen"),
+      hint1: L("Europa wurde neu aufgeteilt."),
+      hint2: L("Preußen erhielt Gebiete am Rhein."),
+      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Preußen" }, { x: 80, y: 50, text: "Österreich" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Gewinner"), items: [L("Preußen"), L("Russland")] }] },
+      quiz: { question: L("Welches Land erhielt Gebiete am Rhein?"), choices: [L("Preußen"), L("Frankreich"), L("Italien"), L("Spanien")], answer: L("Preußen") }
+    }
+  ]
 };
 
-// ─── ISLAND 4: FRANZÖSISCHE REVOLUTION ──────────────────────────────────────
-
+// ─── ISLAND 4: DIE REVOLUTION VON 1848 ─────────────────────────────────────
 const I4: IslandSpec = {
   id: "i4",
-  title: L("Französische Revolution", "French Revolution", "Francia forradalom", "Revoluția franceză"),
+  title: L("Revolution 1848"),
   topics: [
     {
-      title: L("Generalstände", "Estates-General", "Rendi gyűlés", "Stările Generale"),
-      text: L("1789 rief der König die Vertreter der drei Stände zusammen, um die Finanzkrise zu lösen.", "In 1789, the king called together representatives of the three estates to solve the financial crisis.", "1789-ben a király összehívta a három rend képviselőit a pénzügyi válság megoldására.", "În 1789, regele a convocat reprezentanții celor trei stări pentru a rezolva criza financiară."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("1. Stand", "1st Estate", "1. rend", "Starea I"), right: L("Klerus", "Clergy", "Papság", "Cler") },
-          { left: L("2. Stand", "2nd Estate", "2. rend", "Starea II"), right: L("Adel", "Nobility", "Nemesség", "Nobilime") },
-          { left: L("3. Stand", "3rd Estate", "3. rend", "Starea III"), right: L("Bürger & Bauern", "Commoners", "Polgárok és parasztok", "Cetățeni și țărani") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ursachen_franz_rev",
+      id: "maerz",
+      title: L("Märzforderungen"),
+      hint1: L("Was das Volk im März forderte."),
+      hint2: L("Pressefreiheit und Parlament."),
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Forderung" }, { emoji: "📢", label: "Freiheit" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Presse"), right: L("Freiheit") }, { left: L("Verfassung"), right: L("Recht") }] },
+      quiz: { question: L("Was war eine Märzforderung?"), choices: [L("Pressefreiheit"), L("Mehr Steuern"), L("Zensur"), L("Königsmacht")], answer: L("Pressefreiheit") }
     },
     {
-      title: L("Sturm auf die Bastille", "Storming of the Bastille", "A Bastille ostroma", "Căderea Bastiliei"),
-      text: L("Am 14. Juli 1789 stürmte das Volk von Paris das Staatsgefängnis – das Symbol der Willkür.", "On July 14, 1789, the people of Paris stormed the state prison – the symbol of tyranny.", "1789. július 14-én Párizs népe megostromolta az állami börtönt – az önkény jelképét.", "La 14 iulie 1789, poporul Parisului a asaltat închisoarea statului – simbolul tiraniei."),
-      svg: { type: "geschichte-diagram", name: "BastilleSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Der Sturm war am __. Juli. Es suchten Waffen und __.", "The storm was on July __. They sought weapons and __.", "Az ostrom július __-én volt. Fegyvereket és __ kerestek.", "Asaltul a fost pe __ iulie. Căutau arme și __."),
-        gaps: [
-          { index: 0, options: ["14", "4", "24"], correct: 0 },
-          { index: 1, options: [L("Schießpulver", "Gunpowder", "puskaport", "praf de pușcă"), L("Gold", "Gold", "aranyat", "aur")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "sturm_bastille",
+      id: "barrikaden",
+      title: L("Barrikadenkämpfe"),
+      hint1: L("Kämpfe in Berlin und Wien."),
+      hint2: L("Das Volk gegen das Militär."),
+      svg: { type: "text-bubbles", items: [{ text: "Kampf", color: "#fff", bg: "#991b1b" }, { text: "Straße", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "gap-fill", text: L("In __ gab es schwere Kämpfe."), gaps: [{ index: 0, options: ["Berlin", "London"], correct: 0 }] },
+      quiz: { question: L("Wo fanden Barrikadenkämpfe statt?"), choices: [L("Berlin"), L("München"), L("Hamburg"), L("Bremen")], answer: L("Berlin") }
     },
     {
-      title: L("Menschenrechte", "Human Rights", "Emberi jogok", "Drepturile omului"),
-      text: L("Die Nationalversammlung verkündete 1789 die Erklärung der Menschen- und Bürgerrechte.", "The National Assembly proclaimed the Declaration of the Rights of Man and of the Citizen in 1789.", "A Nemzetgyűlés 1789-ben kihirdette az Emberi és Polgári Jogok Nyilatkozatát.", "Adunarea Națională a proclamat Declarația Drepturilor Omului și ale Cetățeanului în 1789."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "right", label: L("Rechte", "Rights", "Jogok", "Drepturi") },
-          { id: "no", label: L("Gegenteil", "Opposite", "Ellentét", "Opus") },
-        ],
-        items: [
-          { text: L("Freiheit", "Freedom", "Szabadság", "Libertate"), bucketId: "right" },
-          { text: L("Eigentum", "Property", "Tulajdon", "Proprietate"), bucketId: "right" },
-          { text: L("Willkür", "Tyranny", "Önkény", "Tiranie"), bucketId: "no" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ursachen_franz_rev",
+      id: "paulskirche",
+      title: L("Die Paulskirche"),
+      hint1: L("Sitz des ersten deutschen Parlaments."),
+      hint2: L("Frankfurt am Main."),
+      svg: { type: "word-card", word: L("Parlament"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "word-order", words: [L("Erstes"), L("deutsches"), L("Parlament")], instruction: L("Was tagte dort?") },
+      quiz: { question: L("In welcher Stadt steht die Paulskirche?"), choices: [L("Frankfurt"), L("Berlin"), L("Leipzig"), L("Köln")], answer: L("Frankfurt") }
     },
     {
-      title: L("Ballhausschwur", "Tennis Court Oath", "Labdaházi eskü", "Jurământul de la Jeu de Paume"),
-      text: L("Die Abgeordneten schworen, erst auseinanderzugehen, wenn eine Verfassung ausgearbeitet sei.", "The deputies swore not to separate until a constitution had been drafted.", "A képviselők megesküdtek, hogy addig nem oszlanak szét, amíg ki nem dolgozzák az alkotmányt.", "Deputații au jurat să nu se separe până când nu va fi elaborată o constituție."),
-      svg: { type: "geschichte-diagram", name: "WeimarSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Wir schwören eine __ zu geben.", "We swear to give a __.", "Esküszünk, hogy __ adunk.", "Jurăm să dăm o __."),
-        gaps: [
-          { index: 0, options: [L("Verfassung", "Constitution", "alkotmányt", "constituție"), L("Krone", "Crown", "koronát", "coroană")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ursachen_franz_rev",
+      id: "grundrechte1848",
+      title: L("Grundrechte 1848"),
+      hint1: L("Erstmals Rechte für alle Deutschen."),
+      hint2: L("Vorbild für heutige Gesetze."),
+      svg: { type: "comparison-table", rows: [{ left: L("Freiheit"), right: L("Recht") }, { left: L("Gleichheit"), right: L("Gesetz") }] },
+      interactive: { type: "highlight-text", text: L("Die Freiheit der Person ist unverletzlich."), instruction: L("Wichtiger Satz!") },
+      quiz: { question: L("Was wurde in der Paulskirche erarbeitet?"), choices: [L("Grundrechte"), L("Kriegspläne"), L("Steuertabellen"), L("Liederbücher")], answer: L("Grundrechte") }
     },
     {
-      title: L("Die Jakobiner", "The Jacobins", "A jakobinusok", "Iacobinii"),
-      text: L("Unter Robespierre errichteten die radikalen Jakobiner eine Schreckensherrschaft (Terreur).", "Under Robespierre, the radical Jacobins established a reign of terror (Terreur).", "Robespierre vezetésével a radikális jakobinusok bevezették a diktatúrát (Terror).", "Sub conducerea lui Robespierre, iacobinii radicali au stabilit o domnie a terorii (Terreur)."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Robespierre", "Robespierre", "Robespierre", "Robespierre"), right: L("Anführer", "Leader", "Vezető", "Lider") },
-          { left: L("Guillotine", "Guillotine", "Guillotine", "Ghilotină"), right: L("Hinrichtung", "Execution", "Kivégzés", "Execuție") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "schreckensherrschaft",
+      id: "kleindeutsch",
+      title: L("Kleindeutsche Lösung"),
+      hint1: L("Ein Deutschland ohne Österreich."),
+      hint2: L("Preußen sollte die Führung übernehmen."),
+      svg: { type: "text-bubbles", items: [{ text: "Ohne", color: "#fff", bg: "#dc2626" }, { text: "Österreich", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "gap-fill", text: L("Kleindeutsch heißt __ Österreich."), gaps: [{ index: 0, options: ["ohne", "mit"], correct: 0 }] },
+      quiz: { question: L("Was bedeutete kleindeutsch?"), choices: [L("Ohne Österreich"), L("Mit Österreich"), L("Nur Preußen"), L("Nur Bayern")], answer: L("Ohne Österreich") }
     },
-  ],
+    {
+      id: "grossdeutsch",
+      title: L("Großdeutsche Lösung"),
+      hint1: L("Ein Deutschland mit Österreich."),
+      hint2: L("Schwierig wegen der vielen Völker dort."),
+      svg: { type: "text-bubbles", items: [{ text: "Mit", color: "#fff", bg: "#16a34a" }, { text: "Österreich", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Großdeutsch"), right: L("Mit Österreich") }, { left: L("Kleindeutsch"), right: L("Preußen führt") }] },
+      quiz: { question: L("Was war das Problem der großdeutschen Lösung?"), choices: [L("Vielvölkerstaat Österreich"), L("Zu wenig Land"), L("Kein König"), L("Geldmangel")], answer: L("Vielvölkerstaat Österreich") }
+    },
+    {
+      id: "friedrichwilhelm",
+      title: L("Friedrich Wilhelm IV."),
+      hint1: L("Preußischer König."),
+      hint2: L("Er lehnte die Kaiserkrone ab."),
+      svg: { type: "icon-grid", items: [{ emoji: "👑", label: "Krone" }, { emoji: "🚫", label: "Nein" }] },
+      interactive: { type: "sentence-build", words: [L("Er"), L("will"), L("keine"), L("Krone"), L("vom"), L("Volk")], instruction: L("Seine Haltung?") },
+      quiz: { question: L("Warum lehnte der König die Krone ab?"), choices: [L("Er wollte sie nicht vom Volk"), L("Sie war zu schwer"), L("Er wollte Republik"), L("Er hatte schon eine")], answer: L("Er wollte sie nicht vom Volk") }
+    },
+    {
+      id: "scheitern1848",
+      title: L("Das Scheitern"),
+      hint1: L("Die Revolution wurde niedergeschlagen."),
+      hint2: L("Die alten Mächte siegten."),
+      svg: { type: "comparison-table", rows: [{ left: L("Revolution"), right: L("Aus") }, { left: L("Monarchie"), right: L("Bleibt") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Ende"), items: [L("Niederlage"), L("Auflösung")] }] },
+      quiz: { question: L("Wie endete die Revolution 1848?"), choices: [L("Sie scheiterte"), L("Sie siegte"), L("Nichts geschah"), L("Krieg begann")], answer: L("Sie scheiterte") }
+    },
+    {
+      id: "auswanderung",
+      title: L("Auswanderung"),
+      hint1: L("Viele Deutsche flohen nach Amerika."),
+      hint2: L("Die 'Forty-Eighters'."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "USA" }] },
+      interactive: { type: "tap-count", count: 48, instruction: L("Wie nennt man die Auswanderer von 18..?") },
+      quiz: { question: L("Wohin flohen viele Revolutionäre?"), choices: [L("Amerika (USA)"), L("Russland"), L("China"), L("Afrika")], answer: L("Amerika (USA)") }
+    },
+    {
+      id: "erbe1848",
+      title: L("Das Erbe von 1848"),
+      hint1: L("Die Ideen blieben lebendig."),
+      hint2: L("Wegbereiter für die Demokratie."),
+      svg: { type: "text-bubbles", items: [{ text: "Demokratie", color: "#fff", bg: "#16a34a" }, { text: "Einheit", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "highlight-text", text: L("1848 war der erste Versuch einer deutschen Demokratie."), instruction: L("Historischer Wert?") },
+      quiz: { question: L("Was blieb von 1848?"), choices: [L("Die demokratischen Ideen"), L("Die alten Könige"), L("Nur Ruinen"), L("Nichts")], answer: L("Die demokratischen Ideen") }
+    },
+    {
+      id: "frankreich1848",
+      title: L("Februarrevolution"),
+      hint1: L("Beginn der Unruhen in Paris."),
+      hint2: L("Sturz des 'Bürgerkönigs'."),
+      svg: { type: "comparison-table", rows: [{ left: L("Paris"), right: L("Februar") }, { left: L("Berlin"), right: L("März") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Februar"), right: L("Paris") }, { left: L("März"), right: L("Berlin") }] },
+      quiz: { question: L("Wo begann die Revolution 1848?"), choices: [L("Paris"), L("London"), L("Rom"), L("Madrid")], answer: L("Paris") }
+    },
+    {
+      id: "parlamentarier",
+      title: L("Abgeordnete"),
+      hint1: L("Meist Professoren und Juristen."),
+      hint2: L("Das 'Professorenparlament'."),
+      svg: { type: "icon-grid", items: [{ emoji: "🎓", label: "Professoren" }, { emoji: "⚖️", label: "Juristen" }] },
+      interactive: { type: "lang-mcq", question: L("Wer saß hauptsächlich im Parlament?"), choices: [L("Gebildete Bürger"), L("Bauern"), L("Fabrikarbeiter")], answer: L("Gebildete Bürger") }
+    },
+    {
+      id: "grundrechte_heute",
+      title: L("Grundrechte heute"),
+      hint1: L("Ähnlichkeit zum Grundgesetz."),
+      hint2: L("Wurzeln unserer Freiheit."),
+      svg: { type: "word-card", word: L("Grundgesetz"), color: "#fff", bg: "#166534" },
+      interactive: { type: "gap-fill", text: L("1848 war ein __ für heute."), gaps: [{ index: 0, options: ["Vorbild", "Fehler"], correct: 0 }] },
+      quiz: { question: L("Welches heutige Gesetz hat Wurzeln in 1848?"), choices: [L("Grundgesetz"), L("Strafgesetzbuch"), L("Straßenverkehrsordnung"), L("Schulordnung")], answer: L("Grundgesetz") }
+    },
+    {
+      id: "schwarzrotgold",
+      title: L("Schwarz-Rot-Gold"),
+      hint1: L("Die Farben der Freiheit."),
+      hint2: L("Entstanden aus den Lützower Jägern."),
+      svg: { type: "text-bubbles", items: [{ text: "Schwarz", color: "#fff", bg: "#000" }, { text: "Rot", color: "#fff", bg: "#f00" }, { text: "Gold", color: "#000", bg: "#ff0" }] },
+      interactive: { type: "tap-count", count: 3, instruction: L("Wie viele Farben hat die deutsche Flagge?") },
+      quiz: { question: L("Wofür standen die Farben 1848?"), choices: [L("Einheit und Freiheit"), L("Krieg und Tod"), L("Reichtum"), L("Nichts")], answer: L("Einheit und Freiheit") }
+    },
+    {
+      id: "reaktion",
+      title: L("Reaktionszeit"),
+      hint1: L("Rückkehr zur alten Ordnung nach 1849."),
+      hint2: L("Unterdrückung der Demokraten."),
+      svg: { type: "comparison-table", rows: [{ left: L("Revolution"), right: L("Ende") }, { left: L("Polizei"), right: L("Macht") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Folgen"), items: [L("Überwachung"), L("Verhaftung")] }] },
+      quiz: { question: L("Was geschah nach dem Scheitern?"), choices: [L("Harte Unterdrückung"), L("Sofortige Wahlen"), L("Ein Volksfest"), L("Krieg gegen England")], answer: L("Harte Unterdrückung") }
+    }
+  ]
 };
 
-// ─── ISLAND 5: NAPOLEON BONAPARTE ──────────────────────────────────────────
-
+// ─── ISLAND 5: DIE INDUSTRIELLE REVOLUTION (ANFÄNGE) ───────────────────────
 const I5: IslandSpec = {
   id: "i5",
-  title: L("Napoleon Bonaparte", "Napoleon Bonaparte", "Napóleon Bonaparte", "Napoleon Bonaparte"),
+  title: L("Industrielle Revolution"),
   topics: [
     {
-      title: L("Aufstieg zur Macht", "Rise to Power", "Hatalomra jutás", "Ascensiunea la putere"),
-      text: L("Der junge General Napoleon beendete die Revolution durch einen Staatsstreich 1799.", "The young general Napoleon ended the revolution through a coup d'état in 1799.", "A fiatal Napóleon tábornok egy államcsínnyel vetett véget a forradalomnak 1799-ben.", "Tânărul general Napoleon a pus capăt revoluției printr-o lovitură de stat în 1799."),
-      svg: { type: "geschichte-diagram", name: "NapoleonSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Napoleon wurde zuerst __.", "Napoleon first became __.", "Napóleon először __ lett.", "Napoleon a devenit mai întâi __."),
-        gaps: [
-          { index: 0, options: [L("Konsul", "Consul", "konzul", "consul"), L("Papst", "Pope", "pápa", "papă")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "aufstieg_napoleon",
+      id: "watt",
+      title: L("James Watt"),
+      hint1: L("Verbesserer der Dampfmaschine."),
+      hint2: L("Er ermöglichte den Antrieb von Maschinen."),
+      svg: { type: "icon-grid", items: [{ emoji: "⚙️", label: "Technik" }, { emoji: "💨", label: "Dampf" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("James Watt"), right: L("Dampfmaschine") }, { left: L("Kraft"), right: L("Dampf") }] },
+      quiz: { question: L("Was verbesserte James Watt?"), choices: [L("Dampfmaschine"), L("Auto"), L("Flugzeug"), L("Internet")], answer: L("Dampfmaschine") }
     },
     {
-      title: L("Code Civil", "Code Civil", "Code Civil", "Codul Civil"),
-      text: L("Napoleons Gesetzbuch garantierte Gleichheit vor dem Gesetz und Eigentumsrechte.", "Napoleon's law book guaranteed equality before the law and property rights.", "Napóleon törvénykönyve garantálta a törvény előtti egyenlőséget és a tulajdonjogokat.", "Codul de legi al lui Napoleon a garantat egalitatea în fața legii și drepturile de proprietate."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Eigentum", "Property", "Tulajdon", "Proprietate"), right: L("Schutz", "Protection", "Védelem", "Protecție") },
-          { left: L("Gesetz", "Law", "Törvény", "Lege"), right: L("Gleichheit", "Equality", "Egyenlőség", "Egalitate") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "aufstieg_napoleon",
+      id: "england",
+      title: L("Mutterland England"),
+      hint1: L("Hier begann die Industrialisierung."),
+      hint2: L("Rohstoffe und Erfindungen."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "England" }] },
+      interactive: { type: "gap-fill", text: L("England hatte viel __."), gaps: [{ index: 0, options: ["Kohle", "Holz"], correct: 0 }] },
+      quiz: { question: L("In welchem Land begann die Industrie?"), choices: [L("England"), L("Deutschland"), L("Frankreich"), L("USA")], answer: L("England") }
     },
     {
-      title: L("Kaiserkrönung", "Coronation", "Császárrá koronázás", "Încoronarea ca împărat"),
-      text: L("1804 krönte sich Napoleon in der Kathedrale Notre-Dame selbst zum Kaiser.", "In 1804, Napoleon crowned himself emperor in the Notre-Dame Cathedral.", "1804-ben Napóleon a Notre-Dame-székesegyházban saját magát koronázta császárrá.", "În 1804, Napoleon s-a încoronat el însuși împărat în Catedrala Notre-Dame."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: ["1799", "1804", "1812", "1815"],
-        instruction: L("Ordne die Jahreszahlen chronologisch", "Order the years chronologically", "Rendezd az évszámokat időrendbe", "Ordonează anii cronologic"),
-      }),
-      quiz: "aufstieg_napoleon",
+      id: "webstuhl",
+      title: L("Mechanischer Webstuhl"),
+      hint1: L("Erste große Industrie: Textilien."),
+      hint2: L("Stoffe wurden viel günstiger."),
+      svg: { type: "text-bubbles", items: [{ text: "Stoff", color: "#fff", bg: "#16a34a" }, { text: "Weben", color: "#fff", bg: "#0ea5e9" }] },
+      interactive: { type: "word-order", words: [L("Maschinen"), L("weben"), L("schneller")], instruction: L("Was war neu?") },
+      quiz: { question: L("Welche Industrie war die erste?"), choices: [L("Textilindustrie"), L("Autoindustrie"), L("Computer"), L("Luftfahrt")], answer: L("Textilindustrie") }
     },
     {
-      title: L("Russlandfeldzug", "Russian Campaign", "Oroszországi hadjárat", "Campania din Rusia"),
-      text: L("Der Versuch, Russland 1812 zu erobern, scheiterte am 'General Winter' und der Taktik der Russen.", "The attempt to conquer Russia in 1812 failed due to 'General Winter' and Russian tactics.", "Az Oroszország meghódítására tett kísérlet 1812-ben kudarcba fulladt a „Tél tábornok” és az orosz taktika miatt.", "Încercarea de a cuceri Rusia în 1812 a eșuat din cauza „Generalului Iarnă” și a tacticii rușilor."),
-      svg: { type: "geschichte-diagram", name: "TrenchSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "fail", label: L("Gründe Scheitern", "Reasons for failure", "Kudarc okai", "Motivele eșecului") },
-          { id: "other", label: L("Anderes", "Other", "Egyéb", "Altele") },
-        ],
-        items: [
-          { text: L("Kälte", "Cold", "Hideg", "Frig"), bucketId: "fail" },
-          { text: L("Hunger", "Hunger", "Éhség", "Foame"), bucketId: "fail" },
-          { text: L("Zuviel Gold", "Too much gold", "Túl sok arany", "Prea mult aur"), bucketId: "other" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ende_napoleon",
+      id: "eisenbahn",
+      title: L("Die Eisenbahn"),
+      hint1: L("Revolution des Transports."),
+      hint2: L("Schneller Transport von Kohle."),
+      svg: { type: "word-card", word: L("Dampflok"), color: "#fff", bg: "#475569" },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Adler"), right: L("Erste Bahn") }, { left: L("Schienen"), right: L("Weg") }] },
+      quiz: { question: L("Was veränderte den Transport?"), choices: [L("Eisenbahn"), L("Pferdewagen"), L("Schiff"), L("Flugzeug")], answer: L("Eisenbahn") }
     },
     {
-      title: L("Waterloo", "Waterloo", "Waterloo", "Waterloo"),
-      text: L("1815 wurde Napoleon bei Waterloo endgültig besiegt und auf die Insel St. Helena verbannt.", "In 1815, Napoleon was finally defeated at Waterloo and exiled to the island of Saint Helena.", "1815-ben Napóleon Waterloonál végleg vereséget szenvedett, és Szent Ilona szigetére száműzték.", "În 1815, Napoleon a fost învins definitiv la Waterloo și exilat pe insula Sfânta Elena."),
-      svg: { type: "geschichte-diagram", name: "ShieldSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Waterloo", "Waterloo", "Waterloo", "Waterloo"), right: L("Belgien", "Belgium", "Belgium", "Belgia") },
-          { left: L("Wellington", "Wellington", "Wellington", "Wellington"), right: L("England", "England", "Anglia", "Anglia") },
-          { left: L("St. Helena", "St. Helena", "Szt. Ilona", "Sf. Elena"), right: L("Exil", "Exile", "Száműzetés", "Exil") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ende_napoleon",
+      id: "kohle",
+      title: L("Kohle & Eisen"),
+      hint1: L("Wichtigste Rohstoffe."),
+      hint2: L("Brennstoff für Maschinen."),
+      svg: { type: "icon-grid", items: [{ emoji: "⬛", label: "Kohle" }, { emoji: "⛏️", label: "Bergbau" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Rohstoffe"), items: [L("Kohle"), L("Eisenerz")] }] },
+      quiz: { question: L("Welcher Rohstoff trieb Maschinen an?"), choices: [L("Kohle"), L("Öl"), L("Holz"), L("Wasser")], answer: L("Kohle") }
     },
-  ],
+    {
+      id: "fabrik",
+      title: L("Fabrikarbeit"),
+      hint1: L("Arbeit unter einem Dach."),
+      hint2: L("Feste Arbeitszeiten und Disziplin."),
+      svg: { type: "comparison-table", rows: [{ left: L("Früher"), right: L("Handarbeit") }, { left: L("Heute"), right: L("Maschinen") }] },
+      interactive: { type: "gap-fill", text: L("In der Fabrik regiert die __."), gaps: [{ index: 0, options: ["Uhr", "Sonne"], correct: 0 }] },
+      quiz: { question: L("Was war neu in Fabriken?"), choices: [L("Strenge Disziplin"), L("Viel Freiheit"), L("Keine Regeln"), L("Kurze Arbeit")], answer: L("Strenge Disziplin") }
+    },
+    {
+      id: "adler1835",
+      title: L("Der Adler"),
+      hint1: L("Erste Eisenbahn in Deutschland."),
+      hint2: L("Von Nürnberg nach Fürth."),
+      svg: { type: "text-bubbles", items: [{ text: "1835", color: "#fff", bg: "#ea580c" }, { text: "Nürnberg", color: "#fff", bg: "#1e3a8a" }] },
+      interactive: { type: "tap-count", count: 1835, instruction: L("In welchem Jahr fuhr der Adler?") },
+      quiz: { question: L("Wo fuhr die erste deutsche Bahn?"), choices: [L("Nürnberg-Fürth"), L("Berlin-Potsdam"), L("Hamburg-Kiel"), L("München-Augsburg")], answer: L("Nürnberg-Fürth") }
+    },
+    {
+      id: "urbanisierung",
+      title: L("Urbanisierung"),
+      hint1: L("Wachstum der Städte."),
+      hint2: L("Menschen ziehen vom Land weg."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Großstadt" }] },
+      interactive: { type: "sentence-build", words: [L("Städte"), L("wachsen"), L("sehr"), L("schnell")], instruction: L("Was ist Urbanisierung?") },
+      quiz: { question: L("Wohin zogen die Menschen?"), choices: [L("In die Städte"), L("Aufs Land"), L("In den Wald"), L("Gar nicht")], answer: L("In die Städte") }
+    },
+    {
+      id: "kapitalismus",
+      title: L("Kapitalismus"),
+      hint1: L("Privater Besitz von Fabriken."),
+      hint2: L("Gewinn steht im Vordergrund."),
+      svg: { type: "text-bubbles", items: [{ text: "Kapital", color: "#fff", bg: "#fbbf24" }, { text: "Profit", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "lang-mcq", question: L("Was ist Kapitalismus?"), choices: [L("Marktwirtschaft mit Profit"), L("Tausch von Äpfeln"), L("Alles gehört allen")], answer: L("Marktwirtschaft mit Profit") }
+    },
+    {
+      id: "technisierung",
+      title: L("Technisierung"),
+      hint1: L("Maschinen übernehmen Aufgaben."),
+      hint2: L("Effizienz steigt extrem."),
+      svg: { type: "icon-grid", items: [{ emoji: "⚙️", label: "Maschine" }, { emoji: "📈", label: "Ertrag" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Hand"), right: L("Langsam") }, { left: L("Maschine"), right: L("Schnell") }] },
+      quiz: { question: L("Was war der Vorteil von Maschinen?"), choices: [L("Schnellere Produktion"), L("Mehr Freizeit"), L("Bessere Luft"), L("Nichts")], answer: L("Schnellere Produktion") }
+    },
+    {
+      id: "lokomotive",
+      title: L("Dampflokomotive"),
+      hint1: L("Antrieb durch Wasserdampf."),
+      hint2: L("Schwerer Transport möglich."),
+      svg: { type: "comparison-table", rows: [{ left: L("Pferd"), right: L("Schwach") }, { left: L("Lok"), right: L("Stark") }] },
+      interactive: { type: "gap-fill", text: L("Die Lok braucht Wasser und __."), gaps: [{ index: 0, options: ["Kohle", "Holz"], correct: 0 }] },
+      quiz: { question: L("Wie wurde die Lok angetrieben?"), choices: [L("Wasserdampf"), L("Elektrizität"), L("Benzin"), L("Luft")], answer: L("Wasserdampf") }
+    },
+    {
+      id: "fabrikherr",
+      title: L("Fabrikbesitzer"),
+      hint1: L("Die neuen Reichen."),
+      hint2: L("Oft Bourgeoisie genannt."),
+      svg: { type: "word-card", word: L("Unternehmer"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "highlight-text", text: L("Die Unternehmer besaßen das Kapital."), instruction: L("Wer war mächtig?") },
+      quiz: { question: L("Wer besaß die Fabriken?"), choices: [L("Unternehmer"), L("Arbeiter"), L("Könige"), L("Priester")], answer: L("Unternehmer") }
+    },
+    {
+      id: "bevoelkerung",
+      title: L("Bevölkerungsexplosion"),
+      hint1: L("Zahl der Menschen stieg stark an."),
+      hint2: L("Bessere Hygiene und Medizin."),
+      svg: { type: "icon-grid", items: [{ emoji: "👨‍👩‍👧‍👦", label: "Wachstum" }, { emoji: "➕", label: "Mehr" }] },
+      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele Faktoren (Essen+Medizin) halfen?") },
+      quiz: { question: L("Warum stieg die Bevölkerung?"), choices: [L("Bessere Nahrung"), L("Mehr Kriege"), L("Wenig Kinder"), L("Kälte")], answer: L("Bessere Nahrung") }
+    },
+    {
+      id: "export",
+      title: L("Welthandel"),
+      hint1: L("Waren wurden weltweit verkauft."),
+      hint2: L("Dampfschiffe halfen dabei."),
+      svg: { type: "text-bubbles", items: [{ text: "Schiff", color: "#fff", bg: "#0284c7" }, { text: "Welt", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Import"), right: L("Einfuhr") }, { left: L("Export"), right: L("Ausfuhr") }] },
+      quiz: { question: L("Was beschleunigte den Welthandel?"), choices: [L("Dampfschiffe"), L("Ruderboote"), L("Flugzeuge"), L("Autos")], answer: L("Dampfschiffe") }
+    },
+    {
+      id: "erfindungen",
+      title: L("Wichtige Erfindungen"),
+      hint1: L("Rad, Pflug, Dampfmaschine."),
+      hint2: L("Technik verändert die Welt."),
+      svg: { type: "block-drag", blocks: [{ label: L("Erfindungen"), items: [L("Telefon"), L("Glühbirne")] }] },
+      quiz: { question: L("Was gehört zur späten Industriezeit?"), choices: [L("Elektrizität"), L("Feuerstein"), L("Höhlenmalerei"), L("Streitwagen")], answer: L("Elektrizität") }
+    }
+  ]
 };
 
-// ─── ISLAND 6: WIENER KONGRESS ───────────────────────────────────────────────
-
+// ─── ISLAND 6: SOZIALE FRAGE & TECHNISCHER FORTSCHRITT ─────────────────────
 const I6: IslandSpec = {
   id: "i6",
-  title: L("Wiener Kongress", "Congress of Vienna", "Bécsi kongresszus", "Congresul de la Viena"),
+  title: L("Soziale Frage"),
   topics: [
     {
-      title: L("Restauration", "Restoration", "Restauráció", "Restaurația"),
-      text: L("Ziel war die Wiederherstellung der alten Ordnung vor der Französischen Revolution.", "The goal was to restore the old order before the French Revolution.", "A cél a francia forradalom előtti régi rend visszaállítása volt.", "Scopul a fost restaurarea vechii ordini de dinaintea Revoluției Franceze."),
-      svg: { type: "geschichte-diagram", name: "TempleSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Restauration bedeutet __.", "Restoration means __.", "A restauráció __ jelent.", "Restaurația înseamnă __."),
-        gaps: [
-          { index: 0, options: [L("Wiederherstellung", "Restoration", "Visszaállítást", "Restaurare"), L("Zerstörung", "Destruction", "Rombolást", "Distrugere")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiener_kongress",
+      id: "arbeiterelend",
+      title: L("Das Elend"),
+      hint1: L("Schlechte Arbeitsbedingungen."),
+      hint2: L("Lange Arbeitszeiten, wenig Lohn."),
+      svg: { type: "comparison-table", rows: [{ left: L("Lohn"), right: L("Niedrig") }, { left: L("Zeit"), right: L("14 Stunden") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Lohn"), right: L("Wenig") }, { left: L("Wohnung"), right: L("Eng") }] },
+      quiz: { question: L("Wie war das Leben der Arbeiter?"), choices: [L("Sehr arm"), L("Reich"), L("Gemütlich"), L("Luxuriös")], answer: L("Sehr arm") }
     },
     {
-      title: L("Legitimität", "Legitimacy", "Legitimitás", "Legitimitatea"),
-      text: L("Die Fürsten rechtfertigten ihre Herrschaft durch das Gottesgnadentum.", "The princes justified their rule through divine right.", "A fejedelmek hatalmukat az istenkegyelemmel indokolták.", "Principii și-au justificat domnia prin dreptul divin."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Gott", "God", "Isten", "Dumnezeu"), right: L("Gnaden", "Grace", "Kegyelem", "Har") },
-          { left: L("Dynastie", "Dynasty", "Dinasztia", "Dinastie"), right: L("Abstammung", "Descent", "Származás", "Origine") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiener_kongress",
+      id: "kinderarbeit",
+      title: L("Kinderarbeit"),
+      hint1: L("Kinder mussten mitverdienen."),
+      hint2: L("In Bergwerken oder Fabriken."),
+      svg: { type: "icon-grid", items: [{ emoji: "👶", label: "Kind" }, { emoji: "⛏️", label: "Arbeit" }] },
+      interactive: { type: "gap-fill", text: L("Kinder arbeiteten oft __ Stunden."), gaps: [{ index: 0, options: ["12", "2"], correct: 0 }] },
+      quiz: { question: L("Wo arbeiteten Kinder oft?"), choices: [L("In Bergwerken"), L("In der Schule"), L("Im Kindergarten"), L("Gar nicht")], answer: L("In Bergwerken") }
     },
     {
-      title: L("Solidarität", "Solidarity", "Szolidaritás", "Solidaritatea"),
-      text: L("Die Monarchen versprachen sich gegenseitige Hilfe gegen revolutionäre Bestrebungen.", "The monarchs promised each other mutual aid against revolutionary movements.", "Az uralkodók kölcsönös segítséget ígértek egymásnak a forradalmi törekvésekkel szemben.", "Monarhii și-au promis ajutor reciproc împotriva mișcărilor revoluționare."),
-      svg: { type: "geschichte-diagram", name: "ShieldSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "all", label: L("Heilige Allianz", "Holy Alliance", "Szent Szövetség", "Sfânta Alianță") },
-          { id: "other", label: L("Andere", "Others", "Mások", "Alții") },
-        ],
-        items: [
-          { text: L("Preußen", "Prussia", "Poroszország", "Prusia"), bucketId: "all" },
-          { text: L("Österreich", "Austria", "Ausztria", "Austria"), bucketId: "all" },
-          { text: L("Russland", "Russia", "Oroszország", "Rusia"), bucketId: "all" },
-          { text: L("USA", "USA", "USA", "SUA"), bucketId: "other" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiener_kongress",
+      id: "proletariat",
+      title: L("Das Proletariat"),
+      hint1: L("Die neue Klasse der Arbeiter."),
+      hint2: L("Besitzlose Lohnarbeiter."),
+      svg: { type: "word-card", word: L("Arbeiterklasse"), color: "#fff", bg: "#991b1b" },
+      interactive: { type: "sentence-build", words: [L("Arbeiter"), L("haben"), L("keinen"), L("Besitz")], instruction: L("Wer sind Proletarier?") },
+      quiz: { question: L("Wie nennt man die besitzlose Klasse?"), choices: [L("Proletariat"), L("Adel"), L("Bourgeoisie"), L("Klerus")], answer: L("Proletariat") }
     },
     {
-      title: L("Fürst von Metternich", "Prince Metternich", "Metternich herceg", "Prințul Metternich"),
-      text: L("Metternich war der führende Staatsmann des Kongresses és Verfechter der alten Ordnung.", "Metternich was the leading statesman of the congress and advocate of the old order.", "Metternich a kongresszus vezető államférfija és a régi rend védelmezője volt.", "Metternich a fost omul de stat conducător al congresului și susținător al vechii ordini."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Metternich kam aus __.", "Metternich came from __.", "Metternich __-ból származott.", "Metternich a venit din __."),
-        gaps: [
-          { index: 0, options: [L("Österreich", "Austria", "Ausztriából", "Austria"), L("Frankreich", "France", "Franciaországból", "Franța")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiener_kongress",
+      id: "gewerkschaften",
+      title: L("Gewerkschaften"),
+      hint1: L("Zusammenschluss von Arbeitern."),
+      hint2: L("Kampf für bessere Bedingungen."),
+      svg: { type: "text-bubbles", items: [{ text: "Streik", color: "#fff", bg: "#ef4444" }, { text: "Rechte", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Streik"), right: L("Waffe") }, { left: L("Gewerkschaft"), right: L("Schutz") }] },
+      quiz: { question: L("Was forderten Gewerkschaften?"), choices: [L("Höhere Löhne"), L("Längere Arbeit"), L("Mehr Steuern"), L("Nichts")], answer: L("Höhere Löhne") }
     },
     {
-      title: L("Deutscher Bund", "German Confederation", "Német Szövetség", "Confederația Germană"),
-      text: L("Als lockerer Zusammenschluss von 39 Staaten ersetzte er das Heilige Römische Reich.", "As a loose confederation of 39 states, it replaced the Holy Roman Empire.", "39 állam laza szövetségeként váltotta fel a Német-római Birodalmat.", "Ca o confederație laxă de 39 de state, a înlocuit Sfântul Imperiu Roman."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: ["39", "4", "12", "100"],
-        instruction: L("Wie viele Staaten gehörten zum Bund?", "How many states belonged to the confederation?", "Hány állam tartozott a szövetséghez?", "Câte state aparțineau confederației?"),
-      }),
-      quiz: "wiener_kongress",
+      id: "marx",
+      title: L("Karl Marx"),
+      hint1: L("Denker des Kommunismus."),
+      hint2: L("Das Kapital' und 'Manifest'."),
+      svg: { type: "icon-grid", items: [{ emoji: "📖", label: "Manifest" }, { emoji: "⚒️", label: "Symbol" }] },
+      interactive: { type: "highlight-text", text: L("Proletarier aller Länder, vereinigt euch!"), instruction: L("Berühmter Satz?") },
+      quiz: { question: L("Was forderte Karl Marx?"), choices: [L("Klassenlose Gesellschaft"), L("Einen starken König"), L("Mehr Klöster"), L("Privatisierung")], answer: L("Klassenlose Gesellschaft") }
     },
-  ],
+    {
+      id: "sozialversicherung",
+      title: L("Bismarcks Gesetze"),
+      hint1: L("Erste Krankenversicherung 1883."),
+      hint2: L("Schutz gegen Krankheiten und Unfälle."),
+      svg: { type: "comparison-table", rows: [{ left: L("Krankheit"), right: L("Geld") }, { left: L("Alter"), right: L("Rente") }] },
+      interactive: { type: "tap-count", count: 3, instruction: L("Wie viele große Versicherungen (Kranken, Unfall, Rente)?") },
+      quiz: { question: L("Wer führte die Sozialversicherung ein?"), choices: [L("Bismarck"), L("Napoleon"), L("Marx"), L("Hitler")], answer: L("Bismarck") }
+    },
+    {
+      id: "mietskaserne",
+      title: L("Mietskasernen"),
+      hint1: L("Enge, dunkle Wohnungen."),
+      hint2: L("Oft viele Menschen in einem Zimmer."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Hinterhof" }] },
+      interactive: { type: "gap-fill", text: L("Es war eng und __."), gaps: [{ index: 0, options: ["ungesund", "luxuriös"], correct: 0 }] },
+      quiz: { question: L("Wie nannte man die Arbeiterhäuser?"), choices: [L("Mietskasernen"), L("Villen"), L("Schlösser"), L("Hotels")], answer: L("Mietskasernen") }
+    },
+    {
+      id: "streik",
+      title: L("Der Streik"),
+      hint1: L("Arbeitsniederlegung als Protest."),
+      hint2: L("Druckmittel gegen Fabrikherren."),
+      svg: { type: "text-bubbles", items: [{ text: "Halt", color: "#fff", bg: "#dc2626" }, { text: "Protest", color: "#fff", bg: "#ea580c" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Methoden"), items: [L("Streik"), L("Demos")] }] },
+      quiz: { question: L("Was passiert bei einem Streik?"), choices: [L("Arbeit ruht"), L("Arbeit wird schneller"), L("Man geht wandern"), L("Nichts")], answer: L("Arbeit ruht") }
+    },
+    {
+      id: "sozialismus",
+      title: L("Sozialismus"),
+      hint1: L("Gleichheit und soziale Gerechtigkeit."),
+      hint2: L("Staat soll Wirtschaft lenken."),
+      svg: { type: "word-card", word: L("Gleichheit"), color: "#fff", bg: "#991b1b" },
+      interactive: { type: "lang-mcq", question: L("Was want der Sozialismus?"), choices: [L("Soziale Sicherheit"), L("Absolute Monarchie"), L("Sklaverei")], answer: L("Soziale Sicherheit") }
+    },
+    {
+      id: "hygiene",
+      title: L("Hygiene & Medizin"),
+      hint1: L("Kampf gegen Krankheiten."),
+      hint2: L("Robert Koch und Bakterien."),
+      svg: { type: "icon-grid", items: [{ emoji: "🔬", label: "Mikroskop" }, { emoji: "🧼", label: "Sauberkeit" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Koch"), right: L("Bakterien") }, { left: L("Seife"), right: L("Sauberkeit") }] },
+      quiz: { question: L("Wer erforschte Bakterien?"), choices: [L("Robert Koch"), L("James Watt"), L("Bismarck"), L("Napoleon")], answer: L("Robert Koch") }
+    },
+    {
+      id: "telekommunikation",
+      title: L("Das Telefon"),
+      hint1: L("Schnelle Übermittlung von Tönen."),
+      hint2: L("Graham Bell."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Telefon" }] },
+      interactive: { type: "gap-fill", text: L("Erfinder: Graham __."), gaps: [{ index: 0, options: ["Bell", "Edison"], correct: 0 }] },
+      quiz: { question: L("Was erfand Graham Bell?"), choices: [L("Telefon"), L("Auto"), L("Radio"), L("Dampfschiff")], answer: L("Telefon") }
+    },
+    {
+      id: "gluehbirne",
+      title: L("Die Glühbirne"),
+      hint1: L("Licht durch Elektrizität."),
+      hint2: L("Thomas Edison."),
+      svg: { type: "text-bubbles", items: [{ text: "Licht", color: "#fff", bg: "#fde047" }, { text: "Strom", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Fäden glühen?") },
+      quiz: { question: L("Wer erfand die Glühbirne?"), choices: [L("Thomas Edison"), L("James Watt"), L("Karl Marx"), L("Bismarck")], answer: L("Thomas Edison") }
+    },
+    {
+      id: "automobil",
+      title: L("Das Auto"),
+      hint1: L("Fahrzeug mit Verbrennungsmotor."),
+      hint2: L("Carl Benz 1886."),
+      svg: { type: "word-card", word: L("Benz"), color: "#fff", bg: "#475569" },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Benz"), right: L("Auto") }, { left: L("1886"), right: L("Patent") }] },
+      quiz: { question: L("Wann wurde das Auto erfunden?"), choices: [L("1886"), L("1835"), L("1914"), L("1789")], answer: L("1886") }
+    },
+    {
+      id: "frauenarbeit",
+      title: L("Frauen in der Industrie"),
+      hint1: L("Frauen arbeiteten oft für weniger Lohn."),
+      hint2: L("Doppelbelastung: Haushalt und Fabrik."),
+      svg: { type: "comparison-table", rows: [{ left: L("Mann"), right: L("Mehr Lohn") }, { left: L("Frau"), right: L("Weniger Lohn") }] },
+      interactive: { type: "sentence-build", words: [L("Frauen"), L("verdienten"), L("weniger"), L("als"), L("Männer")], instruction: L("Ungerechtigkeit?") },
+      quiz: { question: L("Warum stellten Fabrikanten gerne Frauen ein?"), choices: [L("Sie waren billiger"), L("Sie waren stärker"), L("Sie hatten Ferien"), L("Nichts")], answer: L("Sie waren billiger") }
+    },
+    {
+      id: "flieszband",
+      title: L("Fließbandarbeit"),
+      hint1: L("Zerlegung in kleine Schritte."),
+      hint2: L("Später durch Henry Ford berühmt."),
+      svg: { type: "icon-grid", items: [{ emoji: "🏭", label: "Fabrik" }, { emoji: "🔄", label: "Schritt" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Arbeit"), items: [L("Monoton"), L("Schnell")] }] },
+      quiz: { question: L("Was ist typisch für Fließbandarbeit?"), choices: [L("Immer gleicher Schritt"), L("Viel Abwechslung"), L("Keine Zeitvorgabe"), L("Freie Wahl")], answer: L("Immer gleicher Schritt") }
+    }
+  ]
 };
 
-// ─── ISLAND 7: INDUSTRIELLE REVOLUTION ──────────────────────────────────────
-
+// ─── ISLAND 7: DIE DEUTSCHE EINIGUNG 1871 ──────────────────────────────────
 const I7: IslandSpec = {
   id: "i7",
-  title: L("Industrielle Revolution", "Industrial Revolution", "Ipari forradalom", "Revoluția industrială"),
+  title: L("Deutsche Einigung"),
   topics: [
     {
-      title: L("Dampfmaschine", "Steam Engine", "Gőzgép", "Mașina cu abur"),
-      text: L("James Watt verbesserte die Dampfmaschine, die zum Motor der Industrialisierung wurde.", "James Watt improved the steam engine, which became the engine of industrialization.", "James Watt tökéletesítette a gőzgépet, amely az iparosodás motorjává vált.", "James Watt a perfecționat mașina cu abur, care a devenit motorul industrializării."),
-      svg: { type: "geschichte-diagram", name: "SteamEngineSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Erfinder: James __. Kraft durch __.", "Inventor: James __. Power through __.", "Feltaláló: James __. Erő __ által.", "Inventor: James __. Putere prin __."),
-        gaps: [
-          { index: 0, options: ["Watt", "Newton", "Tesla"], correct: 0 },
-          { index: 1, options: [L("Wasserdampf", "Steam", "gőz", "abur"), L("Elektrizität", "Electricity", "elektromosság", "electricitate")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "industrielle_revolution_anfang",
+      id: "bismarck",
+      title: L("Otto von Bismarck"),
+      hint1: L("Preußischer Ministerpräsident."),
+      hint2: L("Einte Deutschland 'mit Eisen und Blut'."),
+      svg: { type: "icon-grid", items: [{ emoji: "⚒️", label: "Eisen" }, { emoji: "🩸", label: "Blut" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Bismarck"), right: L("Preußen") }, { left: L("Kanzler"), right: L("Reich") }] },
+      quiz: { question: L("Wie nannte man Bismarck?"), choices: [L("Eiserner Kanzler"), L("Sonnenkönig"), L("Der Große"), L("Reformkönig")], answer: L("Eiserner Kanzler") }
     },
     {
-      title: L("Fabrikarbeit", "Factory Work", "Gyári munka", "Munca în fabrică"),
-      text: L("Maschinen ersetzten Handarbeit. Es entstanden große Fabriken mit strenger Disziplin.", "Machines replaced manual labor. Large factories with strict discipline emerged.", "A gépek felváltották a kézi munkát. Szigorú fegyelmű nagygyárak jöttek létre.", "Mașinile au înlocuit munca manuală. Au apărut mari fabrici cu disciplină strictă."),
-      svg: { type: "geschichte-diagram", name: "FactorySvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "pro", label: L("Vorteile", "Pros", "Előnyök", "Avantaje") },
-          { id: "con", label: L("Nachteile", "Cons", "Hátrányok", "Dezavantaje") },
-        ],
-        items: [
-          { text: L("Massengüter", "Mass goods", "Tömegáru", "Bunuri de masă"), bucketId: "pro" },
-          { text: L("Lärm", "Noise", "Zaj", "Zgomot"), bucketId: "con" },
-          { text: L("Lange Arbeitszeit", "Long hours", "Hosszú munkaidő", "Program lung"), bucketId: "con" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "industrielle_revolution_anfang",
+      id: "eisenblut",
+      title: L("Eisen und Blut"),
+      hint1: L("Bismarcks Motto für die Einigung."),
+      hint2: L("Einigung durch Kriege."),
+      svg: { type: "text-bubbles", items: [{ text: "Krieg", color: "#fff", bg: "#991b1b" }, { text: "Einheit", color: "#fff", bg: "#1e3a8a" }] },
+      interactive: { type: "word-order", words: [L("Nicht"), L("durch"), L("Reden"), L("sondern"), L("Eisen"), L("und"), L("Blut")], instruction: L("Das Zitat!") },
+      quiz: { question: L("Was meinte Bismarck mit 'Eisen und Blut'?"), choices: [L("Militärische Gewalt"), L("Gartenarbeit"), L("Kochen"), L("Friedliche Reden")], answer: L("Militärische Gewalt") }
     },
     {
-      title: L("Die Eisenbahn", "The Railway", "A vasút", "Calea ferată"),
-      text: L("Die Eisenbahn revolutionierte den Transport von Waren und Menschen im 19. Jahrhundert.", "The railway revolutionized the transport of goods and people in the 19th century.", "A vasút forradalmasította az áruk és emberek szállítását a 19. században.", "Calea ferată a revoluționat transportul de mărfuri și persoane în secolul al XIX-lea."),
-      svg: { type: "geschichte-diagram", name: "SteamEngineSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Adler", "Adler", "Adler", "Adler"), right: L("Erste Lokomotive (DE)", "First loco", "Első mozdony", "Prima locomotivă") },
-          { left: L("Schienen", "Rails", "Sínek", "Șine"), right: L("Transportweg", "Route", "Szállítási út", "Rută") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "industrielle_revolution_anfang",
+      id: "reichsgruendung",
+      title: L("Reichsgründung 1871"),
+      hint1: L("Nach dem Sieg gegen Frankreich."),
+      hint2: L("Im Spiegelsaal von Versailles."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Versailles" }] },
+      interactive: { type: "tap-count", count: 1871, instruction: L("In welchem Jahr wurde das Reich gegründet?") },
+      quiz: { question: L("Wo wurde das Deutsche Reich gegründet?"), choices: [L("Versailles"), L("Berlin"), L("Frankfurt"), L("München")], answer: L("Versailles") }
     },
     {
-      title: L("Soziale Frage", "Social Question", "Társadalmi kérdés", "Chestiunea socială"),
-      text: L("Die Not der Arbeiter führte zur Suche nach Lösungen und zur Entstehung von Gewerkschaften.", "The plight of the workers led to the search for solutions and the emergence of trade unions.", "A munkások nyomora megoldások kereséséhez és szakszervezetek kialakulásához vezetett.", "Suferința muncitorilor a dus la căutarea de soluții și la apariția sindicatelor."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Arbeiter nannten sich __. Sie forderten höhere __.", "Workers called themselves __. They demanded higher __.", "A munkások __-nak nevezték magukat. Magasabb __ követeltek.", "Muncitorii s-au numit __. Ei au cerut __ mai mari."),
-        gaps: [
-          { index: 0, options: [L("Proletarier", "Proletarians", "proletárok", "proletari"), L("Adlige", "Nobles", "nemesek", "nobili")], correct: 0 },
-          { index: 1, options: [L("Löhne", "Wages", "béreket", "salarii"), L("Steuern", "Taxes", "adókat", "taxe")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "wilhelm1",
+      title: L("Wilhelm I."),
+      hint1: L("Erster deutscher Kaiser."),
+      hint2: L("Vorher König von Preußen."),
+      svg: { type: "icon-grid", items: [{ emoji: "👑", label: "Kaiser" }, { emoji: "🛡️", label: "Preußen" }] },
+      interactive: { type: "gap-fill", text: L("Wilhelm I. war König von __."), gaps: [{ index: 0, options: ["Preußen", "Bayern"], correct: 0 }] },
+      quiz: { question: L("Wer wurde 1871 Kaiser?"), choices: [L("Wilhelm I."), L("Friedrich III."), L("Bismarck"), L("Napoleon III.")], answer: L("Wilhelm I.") }
     },
     {
-      title: L("Urbanisierung", "Urbanization", "Urbanizáció", "Urbanizare"),
-      text: L("Immer mehr Menschen zogen vom Land in die schnell wachsenden Industriestädte.", "More and more people moved from the countryside into the rapidly growing industrial cities.", "Egyre többen költöztek vidékről a gyorsan növekvő iparvárosokba.", "Tot mai mulți oameni s-au mutat de la sat în orașele industriale care creșteau rapid."),
-      svg: { type: "geschichte-diagram", name: "MedievalCitySvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "city", label: L("Stadt", "City", "Város", "Oraș") },
-          { id: "land", label: L("Land", "Country", "Vidék", "Sat") },
-        ],
-        items: [
-          { text: L("Mietskaserne", "Tenement", "Bérkaszárnya", "Cazărmi"), bucketId: "city" },
-          { text: L("Ackerbau", "Farming", "Földművelés", "Agricultură"), bucketId: "land" },
-          { text: L("Fabrik", "Factory", "Gyár", "Fabrică"), bucketId: "city" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "elsaßlothringen",
+      title: L("Elsass-Lothringen"),
+      hint1: L("Gebiet, das 1871 an Deutschland fiel."),
+      hint2: L("Grund für lange Feindschaft mit Frankreich."),
+      svg: { type: "text-bubbles", items: [{ text: "Land", color: "#fff", bg: "#475569" }, { text: "Streit", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Elsass"), right: L("Straßburg") }, { left: L("Gewinn"), right: L("1871") }] },
+      quiz: { question: L("Welches Gebiet verlor Frankreich 1871?"), choices: [L("Elsass-Lothringen"), L("Paris"), L("Normandie"), L("Bretagne")], answer: L("Elsass-Lothringen") }
     },
-  ],
+    {
+      id: "kulturkampf",
+      title: L("Kulturkampf"),
+      hint1: L("Konflikt zwischen Staat und Kirche."),
+      hint2: L("Bismarck gegen den Papst."),
+      svg: { type: "comparison-table", rows: [{ left: L("Bismarck"), right: L("Staat") }, { left: L("Papst"), right: L("Kirche") }] },
+      interactive: { type: "lang-mcq", question: L("Gegen wen richtete sich the Kulturkampf?"), choices: [L("Katholische Kirche"), L("Bauern"), L("Händler")], answer: L("Katholische Kirche") }
+    },
+    {
+      id: "sozialistengesetze",
+      title: L("Sozialistengesetze"),
+      hint1: L("Verbot von sozialistischen Parteien."),
+      hint2: L("Angst vor Revolution der Arbeiter."),
+      svg: { type: "word-card", word: L("Verbot"), color: "#fff", bg: "#991b1b" },
+      interactive: { type: "gap-fill", text: L("Bismarck verbot die __."), gaps: [{ index: 0, options: ["Sozialisten", "Könige"], correct: 0 }] },
+      quiz: { question: L("Warum gab es die Sozialistengesetze?"), choices: [L("Angst vor Umsturz"), L("Geldmangel"), L("Umweltgründe"), L("Nichts")], answer: L("Angst vor Umsturz") }
+    },
+    {
+      id: "buendnispolitik",
+      title: L("Bündnispolitik"),
+      hint1: L("Bismarck wollte Frankreich isolieren."),
+      hint2: L("Sicherung des Friedens durch Verträge."),
+      svg: { type: "text-bubbles", items: [{ text: "Vertrag", color: "#fff", bg: "#16a34a" }, { text: "Schutz", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Zweibund"), right: L("Österreich") }, { left: L("Rückvers."), right: L("Russland") }] },
+      quiz: { question: L("Was war Bismarcks Ziel in Europa?"), choices: [L("Frieden sichern"), L("Frankreich stärken"), L("Krieg gegen alle"), L("Urlaub")], answer: L("Frieden sichern") }
+    },
+    {
+      id: "sedan",
+      title: L("Schlacht von Sedan"),
+      hint1: L("Entscheidender Sieg 1870."),
+      hint2: L("Napoleon III. wurde gefangen."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Sieg" }] },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Kaiser wurden gefangen?") },
+      quiz: { question: L("Welche Schlacht entschied den Krieg 1870?"), choices: [L("Sedan"), L("Waterloo"), L("Leipzig"), L("Stalingrad")], answer: L("Sedan") }
+    },
+    {
+      id: "norddeutscherbund",
+      title: L("Norddeutscher Bund"),
+      hint1: L("Vorstufe zum Kaiserreich."),
+      hint2: L("Gegründet nach 1866."),
+      svg: { type: "comparison-table", rows: [{ left: L("Preußen"), right: L("Führung") }, { left: L("Norden"), right: L("Einheit") }] },
+      interactive: { type: "word-order", words: [L("Bund"), L("der"), L("nördlichen"), L("Staaten")], instruction: L("Was war es?") },
+      quiz: { question: L("Wer führte den Norddeutschen Bund an?"), choices: [L("Preußen"), L("Bayern"), L("Sachsen"), L("Hessen")], answer: L("Preußen") }
+    },
+    {
+      id: "koeniggraetz",
+      title: L("Königgrätz 1866"),
+      hint1: L("Preußen besiegt Österreich."),
+      hint2: L("Entscheidung um die Führung in Deutschland."),
+      svg: { type: "icon-grid", items: [{ emoji: "⚔️", label: "Bruderkrieg" }, { emoji: "🥇", label: "Preußen" }] },
+      interactive: { type: "gap-fill", text: L("Preußen verdrängt __."), gaps: [{ index: 0, options: ["Österreich", "Bayern"], correct: 0 }] },
+      quiz: { question: L("Was war die Folge von Königgrätz?"), choices: [L("Preußen führt"), L("Österreich führt"), L("Frieden mit allen"), L("Nichts")], answer: L("Preußen führt") }
+    },
+    {
+      id: "spiegelsaal",
+      title: L("Spiegelsaal"),
+      hint1: L("Ort der Proklamation."),
+      hint2: L("Besonders demütigend für Frankreich."),
+      svg: { type: "text-bubbles", items: [{ text: "Spiegel", color: "#fff", bg: "#fde047" }, { text: "Prunk", color: "#fff", bg: "#fbbf24" }] },
+      interactive: { type: "highlight-text", text: L("Der König von Preußen wird zum Deutschen Kaiser."), instruction: L("Was geschah?") },
+      quiz: { question: L("In welchem Schloss ist der Spiegelsaal?"), choices: [L("Versailles"), L("Berlin"), L("Neuschwanstein"), L("Sanssouci")], answer: L("Versailles") }
+    },
+    {
+      id: "dreiklassenwahl",
+      title: L("Dreiklassenwahlrecht"),
+      hint1: L("Wahlsystem in Preußen."),
+      hint2: L("Reiche hatten mehr Stimmen."),
+      svg: { type: "comparison-table", rows: [{ left: L("Reich"), right: L("Viel Macht") }, { left: L("Arm"), right: L("Wenig Macht") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Stimmen"), items: [L("Klasse 1"), L("Klasse 2"), L("Klasse 3")] }] },
+      quiz: { question: L("Wer hatte beim Dreiklassenwahlrecht am meisten Macht?"), choices: [L("Die Reichen"), L("Die Armen"), L("Die Bauern"), L("Niemand")], answer: L("Die Reichen") }
+    },
+    {
+      id: "nationalhymne",
+      title: L("Lied der Deutschen"),
+      hint1: L("1841 von Fallersleben geschrieben."),
+      hint2: L("Wunsch nach Einheit."),
+      svg: { type: "word-card", word: L("Helgoland"), color: "#fff", bg: "#0284c7" },
+      interactive: { type: "sentence-build", words: [L("Einigkeit"), L("und"), L("Recht"), L("und"), L("Freiheit")], instruction: L("Beginn der Hymne?") },
+      quiz: { question: L("Wer schrieb das Lied der Deutschen?"), choices: [L("Fallersleben"), L("Goethe"), L("Schiller"), L("Bismarck")], answer: L("Fallersleben") }
+    },
+    {
+      id: "proklamation",
+      title: L("Proklamation"),
+      hint1: L("Ausrufung des Kaisers."),
+      hint2: L("18. Januar 1871."),
+      svg: { type: "icon-grid", items: [{ emoji: "📅", label: "18. Jan" }, { emoji: "📣", label: "Ruf" }] },
+      interactive: { type: "tap-count", count: 18, instruction: L("An welchem Tag im Januar?") },
+      quiz: { question: L("An welchem Tag wurde das Reich gegründet?"), choices: [L("18. Januar"), L("1. Januar"), L("4. Juli"), L("24. Dezember")], answer: L("18. Januar") }
+    }
+  ]
 };
 
-// ─── ISLAND 8: VORMÄRZ UND REVOLUTION ───────────────────────────────────────
-
+// ─── ISLAND 8: IMPERIALISMUS & KOLONIALISMUS ───────────────────────────────
 const I8: IslandSpec = {
   id: "i8",
-  title: L("Vormärz & Revolution", "Vormärz & Revolution", "Vormärz és forradalom", "Vormärz și revoluția"),
+  title: L("Imperialismus"),
   topics: [
     {
-      title: L("Wartburgfest", "Wartburg Festival", "Wartburgi ünnep", "Festivalul de la Wartburg"),
-      text: L("1817 forderten Studenten auf der Wartburg Einheit und Freiheit für Deutschland.", "In 1817, students at the Wartburg called for unity and freedom for Germany.", "1817-ben egyetemisták egységet és szabadságot követeltek Németországnak Wartburg várában.", "În 1817, studenții de la Wartburg au cerut unitate și libertate pentru Germania."),
-      svg: { type: "geschichte-diagram", name: "CastleSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("1817", "1817", "1817", "1817"), right: L("Wartburgfest", "Wartburg Festival", "Wartburgi ünnep", "Festivalul de la Wartburg") },
-          { left: L("Farben", "Colors", "Színek", "Culori"), right: L("Schwarz-Rot-Gold", "Black-Red-Gold", "Fekete-vörös-arany", "Negru-roșu-auriu") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "weltmacht",
+      title: L("Platz an der Sonne"),
+      hint1: L("Deutscher Wunsch nach Weltmacht."),
+      hint2: L("Forderung nach eigenen Kolonien."),
+      svg: { type: "icon-grid", items: [{ emoji: "☀️", label: "Sonne" }, { emoji: "🌍", label: "Welt" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Platz"), right: L("Sonne") }, { left: L("Kolonie"), right: L("Macht") }] },
+      quiz: { question: L("Was meint 'Platz an der Sonne'?"), choices: [L("Weltmachtanspruch"), L("Urlaub am Strand"), L("Gartenbau"), L("Astronomie")], answer: L("Weltmachtanspruch") }
     },
     {
-      title: L("Hambacher Fest", "Hambach Festival", "Hambachi ünnep", "Festivalul de la Hambach"),
-      text: L("1832 demonstrierten 30.000 Menschen für Freiheit, Demokratie und europäische Einheit.", "In 1832, 30,000 people demonstrated for freedom, democracy, and European unity.", "1832-ben 30 000 ember tüntetett a szabadságért, a demokráciáért és az európai egységért.", "În 1832, 30.000 de oameni au demonstrat pentru libertate, democrație și unitate europeană."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Hinauf, hinauf zum __! Freiheit und __!", "Up, up to the __! Freedom and __!", "Fel, fel a __-hoz! Szabadság és __!", "Sus, sus la __! Libertate și __!"),
-        gaps: [
-          { index: 0, options: [L("Schloss", "Castle", "kastélyhoz", "castel"), L("Markt", "Market", "piachoz", "piață")], correct: 0 },
-          { index: 1, options: [L("Einheit", "Unity", "egység", "unitate"), L("Krieg", "War", "háború", "război")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "afrika",
+      title: L("Wettlauf um Afrika"),
+      hint1: L("Aufteilung Afrikas unter Europa."),
+      hint2: L("Konferenz in Berlin 1884."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Afrika" }] },
+      interactive: { type: "gap-fill", text: L("Die Mächte zogen __."), gaps: [{ index: 0, options: ["Grenzen", "Schiffe"], correct: 0 }] },
+      quiz: { question: L("Wo wurde Afrika aufgeteilt?"), choices: [L("Berlin"), L("Paris"), L("London"), L("Rom")], answer: L("Berlin") }
     },
     {
-      title: L("Märzrevolution 1848", "March Revolution", "Márciusi forradalom", "Revoluția de la martie"),
-      text: L("In ganz Europa brachen Unruhen aus. Das Volk kämpfte gegen die Fürstenherrschaft.", "Unrest broke out all over Europe. The people fought against the rule of the princes.", "Európa-szerte zavargások törtek ki. A nép a fejedelmek uralma ellen harcolt.", "În întreaga Europă au izbucnit revolte. Poporul a luptat împotriva stăpânirii principilor."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("März 1848", "March 1848", "1848. március", "Martie 1848"), right: L("Barrikadenkämpfe", "Barricades", "Barrikádharcok", "Lupte de baricadă") },
-          { left: L("Berlin/Wien", "Berlin/Vienna", "Berlin/Bécs", "Berlin/Viena"), right: L("Schauplätze", "Scenes", "Helyszínek", "Locuri") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "rohstoffe",
+      title: L("Rohstoffraub"),
+      hint1: L("Kolonien lieferten billige Waren."),
+      hint2: L("Gummi, Gold und Kakao."),
+      svg: { type: "comparison-table", rows: [{ left: L("Kolonie"), right: L("Rohstoff") }, { left: L("Europa"), right: L("Fabrik") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Waren"), items: [L("Gold"), L("Gummi")] }] },
+      quiz: { question: L("Was holten die Europäer aus Kolonien?"), choices: [L("Rohstoffe"), L("Fertige Autos"), L("Computer"), L("Nichts")], answer: L("Rohstoffe") }
     },
     {
-      title: L("Die Paulskirche", "Paulskirche", "Paulskirche", "Paulskirche"),
-      text: L("In der Frankfurter Paulskirche tagte das erste frei gewählte deutsche Parlament.", "The first freely elected German parliament met in Frankfurt's Paulskirche.", "A frankfurti Paulskirche-ben ülésezett az első szabadon választott német parlament.", "În Paulskirche din Frankfurt s-a întrunit primul parlament german ales liber."),
-      svg: { type: "geschichte-diagram", name: "TempleSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: [L("Wahl", "Election", "Választás", "Alegeri"), L("Debatte", "Debate", "Vita", "Dezbatere"), L("Verfassung", "Constitution", "Alkotmány", "Constituție")],
-        instruction: L("Schritte der Nationalversammlung", "Steps of the National Assembly", "A nemzetgyűlés lépései", "Pașii Adunării Naționale"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "herero",
+      title: L("Herero-Aufstand"),
+      hint1: L("Widerstand gegen deutsche Herrschaft."),
+      hint2: L("Grausame Niederschlagung."),
+      svg: { type: "text-bubbles", items: [{ text: "1904", color: "#fff", bg: "#991b1b" }, { text: "Namibia", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "highlight-text", text: L("Der Aufstand der Herero wurde gewaltsam beendet."), instruction: L("Was geschah?") },
+      quiz: { question: L("In welcher Kolonie war der Aufstand?"), choices: [L("Deutsch-Südwestafrika"), L("Kamerun"), L("Togo"), L("China")], answer: L("Deutsch-Südwestafrika") }
     },
     {
-      title: L("Das Scheitern", "The Failure", "A bukás", "Eșecul"),
-      text: L("König Friedrich Wilhelm IV. lehnte die Kaiserkrone ab. Die Revolution wurde niedergeschlagen.", "King Frederick William IV rejected the imperial crown. The revolution was suppressed.", "IV. Frigyes Vilmos király elutasította a császári koronát. A forradalmat levertek.", "Regele Frederic Wilhelm al IV-lea a refuzat coroana imperială. Revoluția a fost înăbușită."),
-      svg: { type: "geschichte-diagram", name: "CrownSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Keine Krone aus der __. Die Revolution __.", "No crown from the __. The revolution __.", "Nincs korona a __-ból. A forradalom __.", "Nicio coroană din __. Revoluția __."),
-        gaps: [
-          { index: 0, options: [L("Gosse", "Gutter", "utcáról", "stradă"), L("Kirche", "Church", "templomból", "biserică")], correct: 0 },
-          { index: 1, options: [L("scheiterte", "failed", "elbukott", "a eșuat"), L("siegte", "won", "győzött", "a câștigat")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "gesellschaftlicher_wandel",
+      id: "flottenbau",
+      title: L("Flottenbau"),
+      hint1: L("Deutschland baut große Kriegsschiffe."),
+      hint2: L("Wettlauf mit England zur See."),
+      svg: { type: "word-card", word: L("Schlachtschiff"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele Mächte (DE/GB) bauten um die Wette?") },
+      quiz: { question: L("Gegen wen baute Deutschland Schiffe?"), choices: [L("England"), L("Russland"), L("USA"), L("Spanien")], answer: L("England") }
     },
-  ],
+    {
+      id: "zivilisierung",
+      title: L("Angebliche Zivilisierung"),
+      hint1: L("Europäer hielten sich für überlegen."),
+      hint2: L("Rechtfertigung für Unterdrückung."),
+      svg: { type: "icon-grid", items: [{ emoji: "📖", label: "Lehre" }, { emoji: "⛪", label: "Mission" }] },
+      interactive: { type: "lang-mcq", question: L("Was war eine Rechtfertigung?"), choices: [L("Zivilisierungsmission"), L("Sportwettkampf"), L("Urlaubshilfe")], answer: L("Zivilisierungsmission") }
+    },
+    {
+      id: "wilhelm2",
+      title: L("Wilhelm II."),
+      hint1: L("Der letzte deutsche Kaiser."),
+      hint2: L("Er liebte Uniformen und Paraden."),
+      svg: { type: "text-bubbles", items: [{ text: "Kaiser", color: "#fff", bg: "#475569" }, { text: "Marine", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Wilhelm II."), right: L("Letzter Kaiser") }, { left: L("Flotte"), right: L("Leidenschaft") }] },
+      quiz: { question: L("Wer regierte während des Imperialismus?"), choices: [L("Wilhelm II."), L("Bismarck"), L("Wilhelm I."), L("Hitler")], answer: L("Wilhelm II.") }
+    },
+    {
+      id: "socialdarwinism",
+      title: L("Sozialdarwinismus"),
+      hint1: L("Recht des Stärkeren."),
+      hint2: L("Falsche Anwendung von Darwins Lehre."),
+      svg: { type: "comparison-table", rows: [{ left: L("Stark"), right: L("Herrscht") }, { left: L("Schwach"), right: L("Dient") }] },
+      interactive: { type: "gap-fill", text: L("Recht des __."), gaps: [{ index: 0, options: ["Stärkeren", "Gerechten"], correct: 0 }] },
+      quiz: { question: L("Was besagt der Sozialdarwinismus?"), choices: [L("Recht des Stärkeren"), L("Alle sind gleich"), L("Gott herrscht"), L("Nichts")], answer: L("Recht des Stärkeren") }
+    },
+    {
+      id: "kolonialmaechte",
+      title: L("Kolonialmächte"),
+      hint1: L("England, Frankreich, Deutschland."),
+      hint2: L("Wer hat die meisten Kolonien?"),
+      svg: { type: "block-drag", blocks: [{ label: L("Mächte"), items: [L("England"), L("Frankreich"), L("Deutschland")] }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Indien"), right: L("England") }, { left: L("Algerien"), right: L("Frankreich") }] },
+      quiz: { question: L("Wer hatte das größte Weltreich?"), choices: [L("England"), L("Deutschland"), L("Russland"), L("Japan")], answer: L("England") }
+    },
+    {
+      id: "opiumkrieg",
+      title: L("Opiumkrieg"),
+      hint1: L("England gegen China."),
+      hint2: L("Erzwungener Drogenhandel."),
+      svg: { type: "text-bubbles", items: [{ text: "China", color: "#fff", bg: "#ea580c" }, { text: "Opium", color: "#fff", bg: "#8b5cf6" }] },
+      interactive: { type: "sentence-build", words: [L("England"), L("zwang"), L("China"), L("zum"), L("Handel")], instruction: L("Was geschah?") },
+      quiz: { question: L("Gegen wen kämpfte China?"), choices: [L("England"), L("USA"), L("Spanien"), L("Italien")], answer: L("England") }
+    },
+    {
+      id: "boxeraufstand",
+      title: L("Boxeraufstand"),
+      hint1: L("Chinesischer Widerstand."),
+      hint2: L("Gegen fremde Mächte."),
+      svg: { type: "icon-grid", items: [{ emoji: "🥊", label: "Boxer" }, { emoji: "🇨🇳", label: "China" }] },
+      interactive: { type: "tap-count", count: 8, instruction: L("Wie viele Nationen (8-Nationen-Bund) kämpften?") },
+      quiz: { question: L("Was wollten die 'Boxer'?"), choices: [L("Ausländer vertreiben"), L("Sport treiben"), L("Tee verkaufen"), L("Nichts")], answer: L("Ausländer vertreiben") }
+    },
+    {
+      id: "missionare",
+      title: L("Missionare"),
+      hint1: L("Verbreitung des Christentums."),
+      hint2: L("Oft Hand in Hand mit Soldaten."),
+      svg: { type: "comparison-table", rows: [{ left: L("Bibel"), right: L("Glaube") }, { left: L("Schutz"), right: L("Armee") }] },
+      interactive: { type: "gap-fill", text: L("Sie brachten das __."), gaps: [{ index: 0, options: ["Christentum", "Islam"], correct: 0 }] },
+      quiz: { question: L("Was machten Missionare in Afrika?"), choices: [L("Religion verbreiten"), L("Häuser bauen"), L("Gar nichts"), L("Auto fahren")], answer: L("Religion verbreiten") }
+    },
+    {
+      id: "eisenbahn_kolonien",
+      title: L("Bahn in Afrika"),
+      hint1: L("Transport von Rohstoffen zur Küste."),
+      hint2: L("Ausbeutung des Hinterlandes."),
+      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Mine" }, { x: 80, y: 50, text: "Hafen" }] },
+      interactive: { type: "word-order", words: [L("Vom"), L("Inneren"), L("zum"), L("Meer")], instruction: L("Der Weg?") },
+      quiz: { question: L("Wozu dienten die Bahnen in Kolonien?"), choices: [L("Rohstofftransport"), L("Tourismus"), L("Zum Spaß"), L("Nichts")], answer: L("Rohstofftransport") }
+    },
+    {
+      id: "schutzgebiete",
+      title: L("Schutzgebiete"),
+      hint1: L("Name für deutsche Kolonien."),
+      hint2: L("Angeblicher Schutz durch das Reich."),
+      svg: { type: "word-card", word: L("Togo"), color: "#fff", bg: "#16a34a" },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Togo"), right: L("Afrika") }, { left: L("Samoa"), right: L("Südsee") }] },
+      quiz: { question: L("Wie nannte Deutschland seine Kolonien?"), choices: [L("Schutzgebiete"), L("Ferienorte"), L("Bundesländer"), L("Provinzen")], answer: L("Schutzgebiete") }
+    },
+    {
+      id: "nationalstolz",
+      title: L("Nationalstolz"),
+      hint1: L("Kolonien als Zeichen von Ehre."),
+      hint2: L("Man wollte dazugehören."),
+      svg: { type: "text-bubbles", items: [{ text: "Ehre", color: "#fff", bg: "#fbbf24" }, { text: "Stolz", color: "#fff", bg: "#ea580c" }] },
+      interactive: { type: "highlight-text", text: L("Ein Volk ohne Kolonien galt als zweitklassig."), instruction: L("Die Meinung damals?") },
+      quiz: { question: L("Was war ein Grund für Kolonien?"), choices: [L("Prestige"), L("Geld sparen"), L("Umweltschutz"), L("Nichts")], answer: L("Prestige") }
+    }
+  ]
 };
 
-// ─── ISLAND 9: NATIONBUILDING ───────────────────────────────────────────────
-
+// ─── ISLAND 9: DER WEG IN DEN ERSTEN WELTKRIEG ─────────────────────────────
 const I9: IslandSpec = {
   id: "i9",
-  title: L("Nationbuilding", "Nation Building", "Nemzetépítés", "Formarea națiunii"),
+  title: L("Weg zum Krieg"),
   topics: [
     {
-      title: L("Bismarck", "Bismarck", "Bismarck", "Bismarck"),
-      text: L("Otto von Bismarck einte Deutschland 'durch Eisen und Blut'.", "Otto von Bismarck unified Germany 'through iron and blood'.", "Otto von Bismarck „vassal és vérrel” egyesítette Németországot.", "Otto von Bismarck a unit Germania „prin fier și sânge”."),
-      svg: { type: "geschichte-diagram", name: "NapoleonSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Bismarck", "Bismarck", "Bismarck", "Bismarck"), right: L("Eiserner Kanzler", "Iron Chancellor", "Vaskancellár", "Cancelarul de fier") },
-          { left: L("Preußen", "Prussia", "Poroszország", "Prusia"), right: L("Führungsmacht", "Lead power", "Vezető hatalom", "Putere conducătoare") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "preussen_friedrich",
+      id: "attentat",
+      title: L("Das Attentat"),
+      hint1: L("Mord in Sarajevo 1914."),
+      hint2: L("Österreichischer Thronfolger."),
+      svg: { type: "icon-grid", items: [{ emoji: "🔫", label: "Schuss" }, { emoji: "📅", label: "28. Juni" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Sarajevo"), right: L("Ort") }, { left: L("Franz Ferd."), right: L("Opfer") }] },
+      quiz: { question: L("Wo geschah das Attentat?"), choices: [L("Sarajevo"), L("Berlin"), L("Paris"), L("Wien")], answer: L("Sarajevo") }
     },
     {
-      title: L("Reichsgründung 1871", "Founding of the Empire", "Birodalomalapítás", "Fondarea Imperiului"),
-      text: L("Im Schloss von Versailles wurde Wilhelm I. zum deutschen Kaiser gekrönt.", "In the Palace of Versailles, William I was crowned German Emperor.", "A versailles-i kastélyban I. Vilmost német császárrá koronázták.", "În Palatul de la Versailles, Wilhelm I a fost încoronat împărat german."),
-      svg: { type: "geschichte-diagram", name: "CrownSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Ort: Spiegelsaal von __. Jahr: __.", "Place: Hall of Mirrors at __. Year: __.", "Hely: __ tükörterme. Év: __.", "Loc: Sala Oglinzilor din __. An: __."),
-        gaps: [
-          { index: 0, options: ["Versailles", "Berlin", "Wien"], correct: 0 },
-          { index: 1, options: ["1871", "1848", "1914"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "preussen_friedrich",
+      id: "pulverfass",
+      title: L("Pulverfass Balkan"),
+      hint1: L("Viele Konflikte in Südosteuropa."),
+      hint2: L("Spannungen zwischen den Mächten."),
+      svg: { type: "text-bubbles", items: [{ text: "Balkan", color: "#fff", bg: "#991b1b" }, { text: "Pulver", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "gap-fill", text: L("Der Balkan war ein __."), gaps: [{ index: 0, options: ["Pulverfass", "Spielplatz"], correct: 0 }] },
+      quiz: { question: L("Wie nannte man den Balkan vor 1914?"), choices: [L("Pulverfass Europas"), L("Garten Europas"), L("Küche Europas"), L("Nichts")], answer: L("Pulverfass Europas") }
     },
     {
-      title: L("Nationalismus", "Nationalism", "Nationalizmus", "Naționalism"),
-      text: L("Das Streben nach einem eigenen Nationalstaat prägte das 19. Jahrhundert.", "The quest for its own nation-state characterized the 19th century.", "A saját nemzetállam utáni vágy határozta meg a 19. századot.", "Căutarea propriului stat național a caracterizat secolul al XIX-lea."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "nat", label: L("Nation", "Nation", "Nemzet", "Națiune") },
-          { id: "mon", label: L("Monarchie", "Monarchy", "Monarchia", "Monarhie") },
-        ],
-        items: [
-          { text: L("Einheit", "Unity", "Egység", "Unitate"), bucketId: "nat" },
-          { text: L("Freiheit", "Freedom", "Szabadság", "Libertate"), bucketId: "nat" },
-          { text: L("Gottesgnadentum", "Divine Right", "Istenkegyelem", "Har divin"), bucketId: "mon" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "preussen_friedrich",
+      id: "buendnissysteme",
+      title: L("Bündnisse 1914"),
+      hint1: L("Europa war in zwei Blöcke geteilt."),
+      hint2: L("Entente gegen Mittelmächte."),
+      svg: { type: "two-groups", left: { items: [L("Deutschland"), L("Österreich")], bg: "#fee2e2", border: "#ef4444" }, right: { items: [L("Frankreich"), L("Russland")], bg: "#dbeafe", border: "#2563eb" } },
+      interactive: { type: "block-drag", blocks: [{ label: L("Mittelmächte"), items: [L("Deutschland"), L("Österreich")] }] },
+      quiz: { question: L("Wer gehörte zur Entente?"), choices: [L("Frankreich, Russland, England"), L("Deutschland, Österreich"), L("USA, China"), L("Niemand")], answer: L("Frankreich, Russland, England") }
     },
     {
-      title: L("Imperialismus", "Imperialism", "Imperializmus", "Imperialism"),
-      text: L("Europäische Mächte teilten die Welt unter sich auf, besonders in Afrika.", "European powers divided the world among themselves, especially in Africa.", "Az európai hatalmak felosztották egymás között a világot, különösen Afrikában.", "Puterile europene au împărțit lumea între ele, în special în Africa."),
-      svg: { type: "geschichte-diagram", name: "ShieldSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Kolonien", "Colonies", "Gyarmatok", "Colonii"), right: L("Rohstoffe", "Resources", "Nyersanyagok", "Materii prime") },
-          { left: L("Macht", "Power", "Hatalom", "Putere"), right: L("Weltreich", "Empire", "Világbirodalom", "Imperiu mondial") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "preussen_friedrich",
+      id: "aufruestung",
+      title: L("Wettrüsten"),
+      hint1: L("Alle Mächte vergrößern ihr Heer."),
+      hint2: L("Angst vor dem Nachbarn."),
+      svg: { type: "comparison-table", rows: [{ left: L("Früher"), right: L("Wenig Waffen") }, { left: L("1914"), right: L("Viel Waffen") }] },
+      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele große Bündnisblöcke?") },
+      quiz: { question: L("Was ist ein Wettrüsten?"), choices: [L("Immer mehr Waffen bauen"), L("Ein sportlicher Wettkampf"), L("Hausbau-Wettbewerb"), L("Nichts")], answer: L("Immer mehr Waffen bauen") }
     },
     {
-      title: L("Kulturkampf", "Kulturkampf", "Kultúrharc", "Kulturkampf"),
-      text: L("Bismarck kämpfte gegen den Einfluss der katholischen Kirche im neuen Reich.", "Bismarck fought against the influence of the Catholic Church in the new empire.", "Bismarck küzdött a katolikus egyház befolyása ellen az új birodalomban.", "Bismarck a luptat împotriva influenței Bisericii Catolice în noul imperiu."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Staat gegen __. Zivilehe wurde __.", "State against __. Civil marriage became __.", "Állam az __ ellen. A polgári házasság __ lett.", "Statul împotriva __. Căsătoria civilă a devenit __."),
-        gaps: [
-          { index: 0, options: [L("Kirche", "Church", "egyház", "Biserică"), L("Bauern", "Peasants", "parasztok", "țărani")], correct: 0 },
-          { index: 1, options: [L("Pflicht", "Compulsory", "kötelező", "obligatorie"), L("verboten", "Forbidden", "tilos", "interzisă")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "preussen_friedrich",
+      id: "blankoscheck",
+      title: L("Der Blankoscheck"),
+      hint1: L("Zusage Deutschlands an Österreich."),
+      hint2: L("Bedingungslose Unterstützung."),
+      svg: { type: "word-card", word: L("Scheck"), color: "#fff", bg: "#16a34a" },
+      interactive: { type: "highlight-text", text: L("Deutschland versprach Österreich volle Hilfe."), instruction: L("Was war der Scheck?") },
+      quiz: { question: L("Wem gab Deutschland den Blankoscheck?"), choices: [L("Österreich"), L("Russland"), L("Serbien"), L("Italien")], answer: L("Österreich") }
     },
-  ],
+    {
+      id: "mobilmachung",
+      title: L("Mobilmachung"),
+      hint1: L("Vorbereitung der Armee auf Krieg."),
+      hint2: L("Züge bringen Soldaten an die Grenze."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚆", label: "Zug" }, { emoji: "🔫", label: "Soldat" }] },
+      interactive: { type: "word-order", words: [L("Die"), L("Armeen"), L("machen"), L("sich"), L("bereit")], instruction: L("Was bedeutet Mobil?") },
+      quiz: { question: L("Was passiert bei der Mobilmachung?"), choices: [L("Soldaten ziehen in den Krieg"), L("Friedensvertrag wird unterschrieben"), L("Nichts"), L("Urlaub beginnt")], answer: L("Soldaten ziehen in den Krieg") }
+    },
+    {
+      id: "schlieffenplan",
+      title: L("Schlieffenplan"),
+      hint1: L("Deutscher Plan für Zweifrontenkrieg."),
+      hint2: L("Erst Frankreich, dann Russland."),
+      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Frankreich" }, { x: 80, y: 50, text: "Russland" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Westen"), right: L("Frankreich") }, { left: L("Osten"), right: L("Russland") }] },
+      quiz: { question: L("Wen wollte Deutschland zuerst besiegen?"), choices: [L("Frankreich"), L("Russland"), L("England"), L("USA")], answer: L("Frankreich") }
+    },
+    {
+      id: "belgien",
+      title: L("Durchmarsch Belgien"),
+      hint1: L("Verletzung der Neutralität."),
+      hint2: L("Grund für Englands Kriegseintritt."),
+      svg: { type: "text-bubbles", items: [{ text: "Belgien", color: "#fff", bg: "#ef4444" }, { text: "Neutral", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "gap-fill", text: L("Deutschland marschierte durch __."), gaps: [{ index: 0, options: ["Belgien", "Holland"], correct: 0 }] },
+      quiz: { question: L("Welches Land wurde neutral überrannt?"), choices: [L("Belgien"), L("Schweiz"), L("Schweden"), L("Spanien")], answer: L("Belgien") }
+    },
+    {
+      id: "kriegsausbruch",
+      title: L("Kriegsausbruch 1914"),
+      hint1: L("Anfang August begann das Töten."),
+      hint2: L("Begeisterung bei vielen jungen Männern."),
+      svg: { type: "text-bubbles", items: [{ text: "August", color: "#fff", bg: "#991b1b" }, { text: "1914", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "tap-count", count: 1914, instruction: L("In welchem Jahr begann der 1. Weltkrieg?") },
+      quiz: { question: L("Wann brach der 1. Weltkrieg aus?"), choices: [L("August 1914"), L("Juli 1789"), L("Mai 1848"), L("Januar 1871")], answer: L("August 1914") }
+    },
+    {
+      id: "automatisierung_tod",
+      title: L("Moderner Krieg"),
+      hint1: L("Maschinengewehre und Kanonen."),
+      hint2: L("Industrielles Töten."),
+      svg: { type: "icon-grid", items: [{ emoji: "💣", label: "Bombe" }, { emoji: "🔫", label: "MG" }] },
+      interactive: { type: "sentence-build", words: [L("Neue"), L("Waffen"), L("töten"), L("viele"), L("Menschen")], instruction: L("Was war neu?") },
+      quiz: { question: L("Warum gab es so viele Tote?"), choices: [L("Moderne Waffen"), L("Wenig Soldaten"), L("Kein Essen"), L("Nichts")], answer: L("Moderne Waffen") }
+    },
+    {
+      id: "serbien",
+      title: L("Österreich gegen Serbien"),
+      hint1: L("Der Funke am Balkan."),
+      hint2: L("Ultimatum nach dem Attentat."),
+      svg: { type: "comparison-table", rows: [{ left: L("Österreich"), right: L("Groß") }, { left: L("Serbien"), right: L("Klein") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Wien"), right: L("Österreich") }, { left: L("Belgrad"), right: L("Serbien") }] },
+      quiz: { question: L("Gegen wen erklärte Österreich zuerst den Krieg?"), choices: [L("Serbien"), L("Russland"), L("Frankreich"), L("England")], answer: L("Serbien") }
+    },
+    {
+      id: "russlandmobil",
+      title: L("Russlands Antwort"),
+      hint1: L("Russland hilft seinem 'Bruder' Serbien."),
+      hint2: L("Mobilmachung im Osten."),
+      svg: { type: "word-card", word: L("Schutz"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "gap-fill", text: L("Russland schützte __."), gaps: [{ index: 0, options: ["Serbien", "Polen"], correct: 0 }] },
+      quiz: { question: L("Wen schützte Russland?"), choices: [L("Serbien"), L("Deutschland"), L("Österreich"), L("Türkei")], answer: L("Serbien") }
+    },
+    {
+      id: "augusterlebnis",
+      title: L("August-Erlebnis"),
+      hint1: L("Freude auf den Krieg."),
+      hint2: L("Man dachte, man ist zu Weihnachten zuhause."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚩", label: "Stolz" }, { emoji: "🚅", label: "Abfahrt" }] },
+      interactive: { type: "lang-mcq", question: L("Was dachten viele Soldaten am Anfang?"), choices: [L("Kurzer Krieg"), L("Langer Krieg"), L("Gar kein Krieg")], answer: L("Kurzer Krieg") }
+    },
+    {
+      id: "weltkrieg",
+      title: L("Warum 'Weltkrieg'?"),
+      hint1: L("Krieg auf fast allen Kontinenten."),
+      hint2: L("Beteiligung vieler Nationen."),
+      svg: { type: "text-bubbles", items: [{ text: "Erde", color: "#fff", bg: "#16a34a" }, { text: "Global", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "highlight-text", text: L("Der Krieg umfasste fast die ganze bewohnte Welt."), instruction: L("Was bedeutet Welt?") },
+      quiz: { question: L("Warum hieß es Weltkrieg?"), choices: [L("Beteiligung vieler Nationen"), L("Nur in Europa"), L("Nur im Meer"), L("Nichts")], answer: L("Beteiligung vieler Nationen") }
+    },
+    {
+      id: "fazit1914",
+      title: L("Ende einer Epoche"),
+      hint1: L("Die alte Welt geht unter."),
+      hint2: L("Beginn des Zeitalters der Extreme."),
+      svg: { type: "comparison-table", rows: [{ left: L("Früher"), right: L("Könige") }, { left: L("Später"), right: L("Chaos") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Wandel"), items: [L("Ende"), L("Neuanfang")] }] },
+      quiz: { question: L("Was markiert 1914 historisch?"), choices: [L("Ende des 19. Jahrhunderts"), L("Anfang der Römer"), L("Entdeckung Amerikas"), L("Nichts")], answer: L("Ende des 19. Jahrhunderts") }
+    }
+  ]
 };
 
 const islands = [I1, I2, I3, I4, I5, I6, I7, I8, I9];

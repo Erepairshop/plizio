@@ -1,831 +1,1392 @@
 import type { PoolTopicDef, SvgConfig } from "./types";
 
-type Lang = "de" | "en" | "hu" | "ro";
-type L4 = Record<Lang, string>;
+type Lang = "de";
+type L1 = Record<Lang, string>;
 
-const L = (de: string, en: string, hu: string, ro: string): L4 => ({ de, en, hu, ro });
+const L = (de: string): L1 => ({ de });
 
 interface TopicSpec {
-  title: L4;
-  text: L4;
-  hint?: L4;
-  bullet1?: L4;
-  bullet2?: L4;
-  labels?: Record<string, L4>;
+  id: string;
+  title: L1;
+  hint1: L1;
+  hint2: L1;
   svg: SvgConfig;
-  interactive: (k: (suffix: string) => string) => any;
-  quiz: string;
-  difficulty?: "easy" | "medium" | "hard";
+  interactive: any; 
+  quiz: {
+    question: L1;
+    choices: L1[];
+    answer: L1;
+  };
 }
 
 interface IslandSpec {
   id: string;
-  title: L4;
+  title: L1;
   topics: TopicSpec[];
-}
-
-function topicKey(islandId: string, index: number, suffix: string): string {
-  return `${islandId}_t${index}_${suffix}`;
-}
-
-function buildTopicLabels(islandId: string, index: number, spec: TopicSpec) {
-  const out: Record<string, L4> = {
-    title: spec.title,
-    text: spec.text,
-  };
-  if (spec.hint) out.hint = spec.hint;
-  if (spec.bullet1) out.bullet1 = spec.bullet1;
-  if (spec.bullet2) out.bullet2 = spec.bullet2;
-  for (const [key, value] of Object.entries(spec.labels ?? {})) {
-    out[key] = value;
-  }
-  const prefixed: Record<string, L4> = {};
-  for (const [suffix, value] of Object.entries(out)) {
-    prefixed[topicKey(islandId, index, suffix)] = value;
-  }
-  return prefixed;
-}
-
-function buildPool(islandId: string, topics: TopicSpec[]): PoolTopicDef[] {
-  return topics.map((spec, index) => {
-    const prefix = (suffix: string) => topicKey(islandId, index + 1, suffix);
-    return {
-      infoTitle: prefix("title"),
-      infoText: prefix("text"),
-      svg: spec.svg,
-      bulletKeys: spec.bullet1 || spec.bullet2 ? [spec.bullet1 ? prefix("bullet1") : "", spec.bullet2 ? prefix("bullet2") : ""].filter(Boolean) as string[] : undefined,
-      hintKey: spec.hint ? prefix("hint") : undefined,
-      interactive: spec.interactive(prefix),
-      quiz: { generate: spec.quiz },
-      difficulty: spec.difficulty,
-    };
-  });
 }
 
 function buildIsland(island: IslandSpec) {
   const labels: Record<Lang, Record<string, string>> = {
     de: { explorer_title: island.title.de },
-    en: { explorer_title: island.title.en },
-    hu: { explorer_title: island.title.hu },
-    ro: { explorer_title: island.title.ro },
   };
-  island.topics.forEach((topic, idx) => {
-    for (const [key, value] of Object.entries(buildTopicLabels(island.id, idx + 1, topic))) {
-      labels.de[key] = value.de;
-      labels.en[key] = value.en;
-      labels.hu[key] = value.hu;
-      labels.ro[key] = value.ro;
+
+  const pool: PoolTopicDef[] = island.topics.map((topic) => {
+    const prefix = `${island.id}_${topic.id}`;
+    
+    labels.de[`${prefix}_title`] = topic.title.de;
+    labels.de[`${prefix}_h1`] = topic.hint1.de;
+    labels.de[`${prefix}_h2`] = topic.hint2.de;
+    labels.de[`${prefix}_q`] = topic.quiz.question.de;
+    topic.quiz.choices.forEach((c, i) => {
+      labels.de[`${prefix}_c${i}`] = c.de;
+    });
+    labels.de[`${prefix}_a`] = topic.quiz.answer.de;
+
+    let interactive = { ...topic.interactive };
+    if (interactive.instruction) {
+      labels.de[`${prefix}_instr`] = interactive.instruction.de;
+      interactive.instruction = `${prefix}_instr`;
     }
+    
+    if (interactive.type === "match-pairs") {
+      interactive.pairs = interactive.pairs.map((p: any, i: number) => {
+        labels.de[`${prefix}_p${i}l`] = p.left.de;
+        labels.de[`${prefix}_p${i}r`] = p.right.de;
+        return { left: `${prefix}_p${i}l`, right: `${prefix}_p${i}r` };
+      });
+    } else if (interactive.type === "gap-fill") {
+      labels.de[`${prefix}_gf_text`] = interactive.text.de;
+      interactive.text = `${prefix}_gf_text`;
+      interactive.gaps = interactive.gaps.map((g: any, i: number) => {
+        g.options = g.options.map((opt: any, j: number) => {
+          labels.de[`${prefix}_gf${i}o${j}`] = opt.de;
+          return `${prefix}_gf${i}o${j}`;
+        });
+        return g;
+      });
+    } else if (interactive.type === "drag-to-bucket") {
+      interactive.buckets = interactive.buckets.map((b: any, i: number) => {
+        labels.de[`${prefix}_b${i}`] = b.label.de;
+        b.label = `${prefix}_b${i}`;
+        return b;
+      });
+      interactive.items = interactive.items.map((it: any, i: number) => {
+        labels.de[`${prefix}_it${i}`] = it.text.de;
+        it.text = `${prefix}_it${i}`;
+        return it;
+      });
+    } else if (interactive.type === "word-order" || interactive.type === "sentence-build") {
+      interactive.words = interactive.words.map((w: any, i: number) => {
+        labels.de[`${prefix}_w${i}`] = w.de;
+        return `${prefix}_w${i}`;
+      });
+    } else if (interactive.type === "highlight-text") {
+      labels.de[`${prefix}_ht`] = interactive.text.de;
+      interactive.text = `${prefix}_ht`;
+    } else if (interactive.type === "lang-mcq") {
+      labels.de[`${prefix}_lq`] = interactive.question.de;
+      interactive.question = `${prefix}_lq`;
+      interactive.choices = interactive.choices.map((c: any, i: number) => {
+        labels.de[`${prefix}_lc${i}`] = c.de;
+        return `${prefix}_lc${i}`;
+      });
+      labels.de[`${prefix}_la`] = interactive.answer.de;
+      interactive.answer = `${prefix}_la`;
+    }
+
+    return {
+      infoTitle: `${prefix}_title`,
+      infoText: `${prefix}_h1`,
+      hintKey: `${prefix}_h2`,
+      svg: topic.svg,
+      interactive: interactive,
+      quiz: {
+        question: `${prefix}_q`,
+        choices: topic.quiz.choices.map((_, i) => `${prefix}_c${i}`),
+        answer: `${prefix}_a`,
+      },
+    };
   });
-  return { labels, pool: buildPool(island.id, island.topics) };
+
+  return { labels, pool };
 }
 
-// ─── ISLAND 1: IMPERIALISMUS ───────────────────────────────────────────────
-
+// ─── ISLAND 1: DER ERSTE WELTKRIEG ──────────────────────────────────────────
 const I1: IslandSpec = {
   id: "i1",
-  title: L("Imperialismus", "Imperialism", "Imperializmus", "Imperialism"),
+  title: L("Erster Weltkrieg"),
   topics: [
     {
-      title: L("Motive", "Motives", "Motívumok", "Motive"),
-      text: L("Großmächte strebten nach Rohstoffen, Absatzmärkten und politischer Macht weltweit.", "Great powers sought raw materials, markets, and political power worldwide.", "A nagyhatalmak nyersanyagokra, piacokra és politikai hatalomra törekedtek világszerte.", "Marile puteri au căutat materii prime, piețe și putere politică la nivel mondial."),
-      svg: { type: "geschichte-diagram", name: "ShieldSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Rohstoffe", "Raw materials", "Nyersanyag", "Materii prime"), right: L("Wirtschaft", "Economy", "Gazdaság", "Economie") },
-          { left: L("Macht", "Power", "Hatalom", "Putere"), right: L("Politik", "Politics", "Politika", "Politică") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "imperialismus",
+      id: "attentat",
+      title: L("Attentat von Sarajevo"),
+      hint1: L("Am 28. Juni 1914 wurde Franz Ferdinand ermordet."),
+      hint2: L("Dieses Ereignis war der Auslöser des Krieges."),
+      svg: { type: "icon-grid", items: [{ emoji: "🔫", label: "Schuss" }, { emoji: "📅", label: "28. Juni" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Opfer"), right: L("Franz Ferdinand") }, { left: L("Ort"), right: L("Sarajevo") }] },
+      quiz: { question: L("Wer wurde in Sarajevo ermordet?"), choices: [L("Franz Ferdinand"), L("Wilhelm II."), L("Bismarck"), L("Hitler")], answer: L("Franz Ferdinand") }
     },
     {
-      title: L("Afrika-Konferenz", "Africa Conference", "Afrika-konferencia", "Conferința de la Berlin"),
-      text: L("In Berlin wurde 1884/85 die Aufteilung Afrikas unter den europäischen Mächten geregelt.", "The division of Africa among European powers was regulated in Berlin in 1884/85.", "Berlinben szabályozták Afrika felosztását az európai hatalmak között 1884/85-ben.", "Divizarea Africii între puterile europene a fost reglementată la Berlin în 1884/85."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Ort der Konferenz: __. Ziel: __ Afrikas.", "Place: __. Goal: __ of Africa.", "Helyszín: __. Cél: Afrika __.", "Locul: __. Scop: __ Africii."),
-        gaps: [
-          { index: 0, options: ["Berlin", "London", "Paris"], correct: 0 },
-          { index: 1, options: [L("Aufteilung", "Division", "felosztása", "divizarea"), L("Schutz", "Protection", "védelme", "protecția")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "imperialismus",
+      id: "grabenkrieg",
+      title: L("Grabenkrieg"),
+      hint1: L("Soldaten lebten monatelang in Schützengräben."),
+      hint2: L("Es gab kaum Geländegewinne, nur viele Tote."),
+      svg: { type: "comparison-table", rows: [{ left: L("Angriff"), right: L("Verlust") }, { left: L("Abwehr"), right: L("Graben") }] },
+      interactive: { type: "gap-fill", text: L("An der __ erstarrte die Front."), gaps: [{ index: 0, options: ["Westfront", "Ostfront"], correct: 0 }] },
+      quiz: { question: L("Was ist typisch für den Ersten Weltkrieg?"), choices: [L("Grabenkrieg"), L("Blitzkrieg"), L("Ritterkampf"), L("Atomkrieg")], answer: L("Grabenkrieg") }
     },
     {
-      title: L("Kolonien", "Colonies", "Gyarmatok", "Colonii"),
-      text: L("Europäische Staaten beherrschten weite Teile der Welt und beuteten sie aus.", "European states ruled large parts of the world and exploited them.", "Az európai államok a világ nagy részét uralták és kizsákmányolták.", "Statele europene au stăpânit mari părți ale lumii și le-au exploatat."),
-      svg: { type: "geschichte-diagram", name: "FactorySvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "col", label: L("Kolonien", "Colonies", "Gyarmatok", "Colonii") },
-          { id: "pow", label: L("Mächte", "Powers", "Hatalmak", "Puteri") },
-        ],
-        items: [
-          { text: L("Indien", "India", "India", "India"), bucketId: "col" },
-          { text: L("Kongo", "Congo", "Kongó", "Congo"), bucketId: "col" },
-          { text: L("England", "England", "Anglia", "Anglia"), bucketId: "pow" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "imperialismus",
+      id: "giftgas",
+      title: L("Giftgas"),
+      hint1: L("Erstmals wurden chemische Waffen eingesetzt."),
+      hint2: L("Es verursachte schreckliche Qualen."),
+      svg: { type: "text-bubbles", items: [{ text: "Gas", color: "#fff", bg: "#4ade80" }, { text: "Qual", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "word-order", words: [L("Einsatz"), L("von"), L("chemischen"), L("Waffen")], instruction: L("Was war neu?") },
+      quiz: { question: L("Welche neue Waffe wurde eingesetzt?"), choices: [L("Giftgas"), L("Armbrust"), L("Drohnen"), L("Laser")], answer: L("Giftgas") }
     },
     {
-      title: L("Nationalstolz", "Nationalism", "Nacionalizmus", "Naționalism"),
-      text: L("Jede Nation wollte die größte und mächtigste sein, was zu Spannungen führte.", "Every nation wanted to be the largest and most powerful, leading to tensions.", "Minden nemzet a legnagyobb és legerősebb akart lenni, ami feszültséghez vezetett.", "Fiecare națiune dorea să fie cea mai mare și mai puternică, ceea ce a dus la tensiuni."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Platz an der Sonne", "Place in the sun", "Hely a nap alatt", "Loc sub soare"), right: L("Deutschland", "Germany", "Németország", "Germania") },
-          { left: L("Empire", "Empire", "Birodalom", "Imperiu"), right: L("Großbritannien", "Great Britain", "Nagy-Britannia", "Marea Britanie") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "imperialismus",
+      id: "materialschlacht",
+      title: L("Materialschlacht"),
+      hint1: L("Enormer Einsatz von Waffen und Munition."),
+      hint2: L("Die Industrie arbeitete nur für den Krieg."),
+      svg: { type: "icon-grid", items: [{ emoji: "💣", label: "Bomben" }, { emoji: "🏭", label: "Fabrik" }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "w", label: L("Waffen") }], items: [{ text: L("Panzer"), bucketId: "w" }, { text: L("MG"), bucketId: "w" }] },
+      quiz: { question: L("Was bedeutet Materialschlacht?"), choices: [L("Massiver Waffeneinsatz"), L("Tausch von Waren"), L("Sportwettkampf"), L("Bau von Häusern")], answer: L("Massiver Waffeneinsatz") }
     },
     {
-      title: L("Wettlauf", "Race for Africa", "Versenyfutás", "Cursa pentru Africa"),
-      text: L("Ein schneller Wettlauf um die letzten unbesetzten Gebiete der Erde begann.", "A rapid race for the last unoccupied territories on earth began.", "Gyors versenyfutás kezdődött a Föld utolsó még megszállatlan területeiért.", "A început o cursă rapidă pentru ultimele teritorii neocupate de pe pământ."),
-      svg: { type: "geschichte-diagram", name: "SteamEngineSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: [L("Erkundung", "Exploration", "Felfedezés", "Explorare"), L("Eroberung", "Conquest", "Hódítás", "Cucerire"), L("Ausbeutung", "Exploitation", "Kizsákmányolás", "Exploatare")],
-        instruction: L("Schritte der Kolonialisierung", "Steps of colonization", "A gyarmatosítás lépései", "Pașii colonizării"),
-      }),
-      quiz: "imperialismus",
+      id: "hindenburg",
+      title: L("Paul von Hindenburg"),
+      hint1: L("Deutscher Generalfeldmarschall."),
+      hint2: L("Späterer Reichspräsident."),
+      svg: { type: "word-card", word: L("Generalfeldmarschall"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "highlight-text", text: L("Hindenburg wurde durch den Sieg bei Tannenberg berühmt."), instruction: L("Wichtiger Name!") },
+      quiz: { question: L("Wer war ein bekannter deutscher General?"), choices: [L("Hindenburg"), L("Napoleon"), L("Washington"), L("Caesar")], answer: L("Hindenburg") }
     },
-  ],
+    {
+      id: "versaillervertrag",
+      title: L("Versailler Vertrag"),
+      hint1: L("Friedensvertrag von 1919."),
+      hint2: L("Harte Bedingungen für Deutschland."),
+      svg: { type: "comparison-table", rows: [{ left: L("Schuld"), right: L("Deutschland") }, { left: L("Folge"), right: L("Reparationen") }] },
+      interactive: { type: "tap-count", count: 1919, instruction: L("In welchem Jahr wurde der Vertrag unterzeichnet?") },
+      quiz: { question: L("Wie hieß the Friedensvertrag nach 1918?"), choices: [L("Versailler Vertrag"), L("Wiener Kongress"), L("Maastricht"), L("Westfälischer Friede")], answer: L("Versailler Vertrag") }
+    },
+    {
+      id: "reparationen",
+      title: L("Reparationen"),
+      hint1: L("Entschädigungszahlungen Deutschlands."),
+      hint2: L("Belastung für die neue Demokratie."),
+      svg: { type: "text-bubbles", items: [{ text: "Geld", color: "#fff", bg: "#fbbf24" }, { text: "Schuld", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "sentence-build", words: [L("Deutschland"), L("musste"), L("hohe"), L("Summen"), L("bezahlen")], instruction: L("Was sind Reparationen?") },
+      quiz: { question: L("Was musste Deutschland laut Vertrag leisten?"), choices: [L("Reparationen"), L("Keine Steuern"), L("Neue Schlösser"), L("Urlaub geben")], answer: L("Reparationen") }
+    },
+    {
+      id: "novemberrevolution",
+      title: L("Novemberrevolution"),
+      hint1: L("1918 stürzte das Kaiserreich."),
+      hint2: L("Deutschland wurde eine Republik."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚩", label: "Aufstand" }, { emoji: "🏙️", label: "Berlin" }] },
+      interactive: { type: "gap-fill", text: L("Kaiser __ dankte ab."), gaps: [{ index: 0, options: ["Wilhelm II.", "Friedrich"], correct: 0 }] },
+      quiz: { question: L("Was geschah im November 1918?"), choices: [L("Revolution"), L("Kaiserkrönung"), L("Olympiade"), L("Mauerbau")], answer: L("Revolution") }
+    },
+    {
+      id: "u_boot",
+      title: L("U-Boot-Krieg"),
+      hint1: L("Deutschland setzte Unterseeboote ein."),
+      hint2: L("Grund für den Kriegseintritt der USA."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 80, text: "U-Boot" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("U-Boot"), right: L("Seekrieg") }, { left: L("USA"), right: L("Kriegseintritt") }] },
+      quiz: { question: L("Welches Land trat wegen des U-Boot-Kriegs ein?"), choices: [L("USA"), L("Russland"), L("China"), L("Japan")], answer: L("USA") }
+    },
+    {
+      id: "tannenberg",
+      title: L("Schlacht bei Tannenberg"),
+      hint1: L("Großer Sieg im Osten gegen Russland."),
+      hint2: L("Hindenburg und Ludendorff wurden Helden."),
+      svg: { type: "text-bubbles", items: [{ text: "Osten", color: "#fff", bg: "#1e3a8a" }, { text: "Sieg", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Ostfront"), items: [L("Tannenberg"), L("Masuren")] }] },
+      quiz: { question: L("Gegen wen siegte Deutschland bei Tannenberg?"), choices: [L("Russland"), L("Frankreich"), L("England"), L("Italien")], answer: L("Russland") }
+    },
+    {
+      id: "frauenwahlrecht",
+      title: L("Frauenwahlrecht"),
+      hint1: L("Nach dem Krieg erhielten Frauen das Wahlrecht."),
+      hint2: L("Erstmals 1919 in Deutschland."),
+      svg: { type: "word-card", word: L("Wahlrecht"), color: "#fff", bg: "#db2777" },
+      interactive: { type: "lang-mcq", question: L("Wann durften Frauen erstmals wählen?"), choices: [L("1919"), L("1871"), L("1945")], answer: L("1919") }
+    },
+    {
+      id: "hunger_ww1",
+      title: L("Steckrübenwinter"),
+      hint1: L("Großer Hunger in der Heimat."),
+      hint2: L("Wegen der britischen Seeblockade."),
+      svg: { type: "icon-grid", items: [{ emoji: "🥔", label: "Hunger" }, { emoji: "❄️", label: "Winter" }] },
+      interactive: { type: "gap-fill", text: L("Es gab fast nur noch __."), gaps: [{ index: 0, options: [L("Steckrüben"), L("Fleisch")], correct: 0 }] },
+      quiz: { question: L("Warum hungerte das Volk?"), choices: [L("Seeblockade"), L("Zu viel Regen"), L("Keine Bauern"), L("Nichts")], answer: L("Seeblockade") }
+    },
+    {
+      id: "panzer_ww1",
+      title: L("Tanks"),
+      hint1: L("Erste gepanzerte Fahrzeuge."),
+      hint2: L("Besonders von England eingesetzt."),
+      svg: { type: "comparison-table", rows: [{ left: L("Stahl"), right: L("Panzer") }, { left: L("Durchbruch"), right: L("Ziel") }] },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Fronten (Zweifrontenkrieg) gab es?") },
+      quiz: { question: L("Wer setzte Panzer zuerst massiv ein?"), choices: [L("England"), L("Preußen"), L("Russland"), L("China")], answer: L("England") }
+    },
+    {
+      id: "dolchstosz",
+      title: L("Dolchstoßlegende"),
+      hint1: L("Lüge über das Ende des Krieges."),
+      hint2: L("Behauptung, das Heer sei unbesiegt geblieben."),
+      svg: { type: "text-bubbles", items: [{ text: "Lüge", color: "#fff", bg: "#dc2626" }, { text: "Verrat", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "sentence-build", words: [L("Das"), L("Heer"), L("wurde"), L("von"), L("hinten"), L("erstochen")], instruction: L("Was war der Kern?") },
+      quiz: { question: L("Was besagte die Dolchstoßlegende?"), choices: [L("Verrat in der Heimat"), L("Sieg an der Front"), L("Frieden mit allen"), L("Nichts")], answer: L("Verrat in der Heimat") }
+    },
+    {
+      id: "weimar_start",
+      title: L("Geburt von Weimar"),
+      hint1: L("Nationalversammlung in Weimar."),
+      hint2: L("Flucht vor den Unruhen in Berlin."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Theater" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Städte"), items: [L("Weimar"), L("Berlin")] }] },
+      quiz: { question: L("Wo wurde die Verfassung beraten?"), choices: [L("Weimar"), L("München"), L("Hamburg"), L("Köln")], answer: L("Weimar") }
+    }
+  ]
 };
 
-// ─── ISLAND 2: ERSTER WELTKRIEG ──────────────────────────────────────────────
-
+// ─── ISLAND 2: DIE WEIMARER REPUBLIK ────────────────────────────────────────
 const I2: IslandSpec = {
   id: "i2",
-  title: L("Erster Weltkrieg", "World War I", "I. világháború", "Primul Război Mondial"),
+  title: L("Weimarer Republik"),
   topics: [
     {
-      title: L("Sarajevo 1914", "Sarajevo 1914", "Szarajevó 1914", "Sarajevo 1914"),
-      text: L("Das Attentat auf den österreichischen Thronfolger löste die Julikrise aus.", "The assassination of the Austrian heir to the throne triggered the July Crisis.", "Az osztrák trónörökös elleni merénylet robbantotta ki a júliusi válságot.", "Atentatul împotriva moștenitorului tronului austriac a declanșat Criza din Iulie."),
-      svg: { type: "geschichte-diagram", name: "RomanSoldierSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Ermordet: __. Stadt: __.", "Assassinated: __. City: __.", "Meggyilkolva: __. Város: __.", "Asasinat: __. Oraș: __."),
-        gaps: [
-          { index: 0, options: ["Franz Ferdinand", "Wilhelm II.", "Bismarck"], correct: 0 },
-          { index: 1, options: ["Sarajevo", "Wien", "Berlin"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "erster_weltkrieg_beginn",
+      id: "hyperinflation",
+      title: L("Hyperinflation 1923"),
+      hint1: L("Geld verlor stündlich an Wert."),
+      hint2: L("Menschen brauchten Schubkarren voll Geld."),
+      svg: { type: "icon-grid", items: [{ emoji: "💸", label: "Wertlos" }, { emoji: "🍞", label: "Teuer" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Brot"), right: L("Milliarden") }, { left: L("Geld"), right: L("Papier") }] },
+      quiz: { question: L("In welchem Jahr war die Hyperinflation?"), choices: [L("1923"), L("1914"), L("1933"), L("1945")], answer: L("1923") }
     },
     {
-      title: L("Grabenkrieg", "Trench Warfare", "Lövészárok-háború", "Războiul de tranșee"),
-      text: L("An der Westfront erstarrten die Fronten in kilometerlangen Schützengräben.", "On the Western Front, the fronts froze in miles of trenches.", "A nyugati fronton a harcok kilométeres lövészárkokba merevedtek.", "Pe frontul de vest, fronturile au încremenit în kilometri de tranșee."),
-      svg: { type: "geschichte-diagram", name: "TrenchSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Schützengraben", "Trench", "Lövészárok", "Tranșee"), right: L("Schutz", "Protection", "Védelem", "Protecție") },
-          { left: L("Niemandsland", "No man's land", "Senki földje", "Tărâmul nimănui"), right: L("Mitte", "Middle", "Közép", "Mijloc") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "erster_weltkrieg_verlauf",
+      id: "goldene20er",
+      title: L("Goldene Zwanziger"),
+      hint1: L("Kulturelle Blüte und Aufschwung."),
+      hint2: L("Kino, Jazz und neue Mode."),
+      svg: { type: "text-bubbles", items: [{ text: "Jazz", color: "#fff", bg: "#8b5cf6" }, { text: "Kino", color: "#fff", bg: "#0ea5e9" }] },
+      interactive: { type: "gap-fill", text: L("Berlin war eine __."), gaps: [{ index: 0, options: ["Weltstadt", "Kleinstadt"], correct: 0 }] },
+      quiz: { question: L("Was ist typisch für die Goldenen 20er?"), choices: [L("Aufschwung der Kultur"), L("Dauerhafter Hunger"), L("Nur Krieg"), L("Keine Musik")], answer: L("Aufschwung der Kultur") }
     },
     {
-      title: L("Materialschlacht", "War of Attrition", "Anyagháború", "Război de uzură"),
-      text: L("Der Krieg wurde durch den massiven Einsatz von Waffen und Soldaten entschieden.", "The war was decided by the massive use of weapons and soldiers.", "A háborút a fegyverek és katonák tömeges bevetése döntötte el.", "Războiul a fost decis de utilizarea masivă a armelor și a soldaților."),
-      svg: { type: "geschichte-diagram", name: "FactorySvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "new", label: L("Neue Waffen", "New weapons", "Új fegyverek", "Arme noi") },
-          { id: "old", label: L("Alte Waffen", "Old weapons", "Régi fegyverek", "Arme vechi") },
-        ],
-        items: [
-          { text: L("Giftgas", "Poison gas", "Gáz", "Gaz toxic"), bucketId: "new" },
-          { text: L("Panzer", "Tanks", "Harckocsi", "Tancuri"), bucketId: "new" },
-          { text: L("Schwerter", "Swords", "Kardok", "Săbii"), bucketId: "old" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "erster_weltkrieg_verlauf",
+      id: "weltwirtschaftskrise",
+      title: L("Börsenkrach 1929"),
+      hint1: L("Schwarzer Freitag in New York."),
+      hint2: L("Folge: Massenarbeitslosigkeit weltweit."),
+      svg: { type: "comparison-table", rows: [{ left: L("Aktien"), right: L("Sturz") }, { left: L("Arbeit"), right: L("Verlust") }] },
+      interactive: { type: "word-order", words: [L("Aktien"), L("verlieren"), L("an"), L("Wert")], instruction: L("Was geschah?") },
+      quiz: { question: L("Wo begann die Weltwirtschaftskrise?"), choices: [L("New York"), L("Berlin"), L("London"), L("Paris")], answer: L("New York") }
     },
     {
-      title: L("Heimatfront", "Home Front", "Hátország", "Frontul de acasă"),
-      text: L("Frauen arbeiteten in Fabriken, während die Bevölkerung Hunger litt.", "Women worked in factories while the population suffered from hunger.", "A nők gyárakban dolgoztak, miközben a lakosság éhezett.", "Femeile lucrau în fabrici în timp ce populația suferea de foame."),
-      svg: { type: "geschichte-diagram", name: "FactorySvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Frauen ersetzten die __. Es gab wenig __.", "Women replaced the __. There was little __.", "A nők helyettesítették a __. Kevés volt az __.", "Femeile i-au înlocuit pe __. Era puțină __."),
-        gaps: [
-          { index: 0, options: [L("Männer", "Men", "férfiakat", "bărbați"), L("Kinder", "Children", "gyerekeket", "copii")], correct: 0 },
-          { index: 1, options: [L("Essen", "Food", "étel", "mâncare"), L("Gold", "Gold", "arany", "aur")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "erster_weltkrieg_verlauf",
+      id: "stresemann",
+      title: L("Gustav Stresemann"),
+      hint1: L("Außenminister und Versöhner."),
+      hint2: L("Friedensnobelpreis 1926."),
+      svg: { type: "word-card", word: L("Frieden"), color: "#fff", bg: "#16a34a" },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Nobelpreis"), right: L("1926") }, { left: L("Locarno"), right: L("Vertrag") }] },
+      quiz: { question: L("Was war Stresemanns Ziel?"), choices: [L("Verständigung"), L("Neuer Krieg"), L("Diktatur"), L("Keine Steuern")], answer: L("Verständigung") }
     },
     {
-      title: L("Versailles 1919", "Versailles 1919", "Versailles 1919", "Versailles 1919"),
-      text: L("Der Friedensvertrag beendete den Krieg, gab Deutschland aber die alleinige Schuld.", "The peace treaty ended the war but gave Germany sole responsibility.", "A békeszerződés véget vetett a háborúnak, de Németországot tette egyedüli felelőssé.", "Tratatul de pace a pus capăt războiului, dar a dat Germaniei întreaga vină."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Kriegsschuld", "War guilt", "Háborús bűnösség", "Vina de război"), right: L("Paragraph 231", "Art. 231", "231. pont", "Articolul 231") },
-          { left: L("Reparationen", "Reparations", "Jóvátétel", "Reparații"), right: L("Zahlungen", "Payments", "Fizetések", "Plăți") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "erster_weltkrieg_verlauf",
+      id: "hitlerputsch",
+      title: L("Hitler-Putsch 1923"),
+      hint1: L("Versuchter Umsturz in München."),
+      hint2: L("Hitler wurde verhaftet."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚫", label: "Stopp" }, { emoji: "🍺", label: "München" }] },
+      interactive: { type: "gap-fill", text: L("Der Putsch in __ scheiterte."), gaps: [{ index: 0, options: ["München", "Berlin"], correct: 0 }] },
+      quiz: { question: L("Wo fand der Hitler-Putsch statt?"), choices: [L("München"), L("Berlin"), L("Hamburg"), L("Wien")], answer: L("München") }
     },
-  ],
+    {
+      id: "radikalisierung",
+      title: L("Radikalisierung"),
+      hint1: L("Zunahme von Gewalt auf den Straßen."),
+      hint2: L("Extreme Parteien bekämpften sich."),
+      svg: { type: "text-bubbles", items: [{ text: "KPD", color: "#fff", bg: "#dc2626" }, { text: "NSDAP", color: "#fff", bg: "#475569" }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "ext", label: L("Extrem") }], items: [{ text: L("Rechts"), bucketId: "ext" }, { text: L("Links"), bucketId: "ext" }] },
+      quiz: { question: L("Was schwächte die Republik am Ende?"), choices: [L("Radikale Parteien"), L("Zu viel Einigkeit"), L("Wenig Sport"), L("Gutes Wetter")], answer: L("Radikale Parteien") }
+    },
+    {
+      id: "bauhaus",
+      title: L("Das Bauhaus"),
+      hint1: L("Berühmte Schule für Kunst und Bau."),
+      hint2: L("Form folgt Funktion."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Design" }] },
+      interactive: { type: "highlight-text", text: L("Das Bauhaus revolutionierte Architektur und Design."), instruction: L("Was war es?") },
+      quiz: { question: L("Was ist das Bauhaus?"), choices: [L("Design-Schule"), L("Ein Baumarkt"), L("Ein Bahnhof"), L("Eine Kirche")], answer: L("Design-Schule") }
+    },
+    {
+      id: "ebert",
+      title: L("Friedrich Ebert"),
+      hint1: L("Erster Reichspräsident."),
+      hint2: L("Ein Sozialdemokrat."),
+      svg: { type: "word-card", word: L("Präsident"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "sentence-build", words: [L("Ebert"), L("wahr"), L("ein"), L("Mann"), L("der"), L("Mitte")], instruction: L("Wer war er?") },
+      quiz: { question: L("Welcher Partei gehörte Ebert an?"), choices: [L("SPD"), L("NSDAP"), L("Zentrum"), L("KPD")], answer: L("SPD") }
+    },
+    {
+      id: "weimarerverfassung",
+      title: L("Die Verfassung"),
+      hint1: L("Sehr modern, aber auch schwach."),
+      hint2: L("Große Macht des Reichspräsidenten."),
+      svg: { type: "comparison-table", rows: [{ left: L("Volk"), right: L("Wählt") }, { left: L("Präsident"), right: L("Macht") }] },
+      interactive: { type: "tap-count", count: 48, instruction: L("Welcher Artikel (Notverordnung) war gefährlich?") },
+      quiz: { question: L("Wer hatte laut Verfassung sehr viel Macht?"), choices: [L("Reichspräsident"), L("Bürgermeister"), L("Pfarrer"), L("Niemand")], answer: L("Reichspräsident") }
+    },
+    {
+      id: "arbeitslosigkeit",
+      title: L("Massennot"),
+      hint1: L("Über 6 Millionen Arbeitslose 1932."),
+      hint2: L("Nährboden für die Nazis."),
+      svg: { type: "icon-grid", items: [{ emoji: "📉", label: "Krise" }, { emoji: "🚶", label: "Schlange" }] },
+      interactive: { type: "gap-fill", text: L("Millionen hatten keine __."), gaps: [{ index: 0, options: ["Arbeit", "Handys"], correct: 0 }] },
+      quiz: { question: L("Wie viele Arbeitslose gab es ca. 1932?"), choices: [L("6 Millionen"), L("1 Million"), L("100.000"), L("Keine")], answer: L("6 Millionen") }
+    },
+    {
+      id: "vergnuegen",
+      title: L("Amüsiermeile Berlin"),
+      hint1: L("Tanzlokale und Revues."),
+      hint2: L("Verdrängung der Sorgen."),
+      svg: { type: "text-bubbles", items: [{ text: "Tanz", color: "#fff", bg: "#db2777" }, { text: "Nacht", color: "#fff", bg: "#1e3a8a" }] },
+      interactive: { type: "lang-mcq", question: L("Wo war das Zentrum des Nachtlebens?"), choices: [L("Berlin"), L("Bonn"), L("Weimar")], answer: L("Berlin") }
+    },
+    {
+      id: "ruhrbesetzung",
+      title: L("Ruhrkampf 1923"),
+      hint1: L("Frankreich besetzt das Ruhrgebiet."),
+      hint2: L("Passiver Widerstand der Deutschen."),
+      svg: { type: "image-label", labels: [{ x: 30, y: 50, text: "Kohle" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Frankreich"), right: L("Besatzung") }, { left: L("Ruhr"), right: L("Kohle") }] },
+      quiz: { question: L("Welches Gebiet wurde 1923 besetzt?"), choices: [L("Ruhrgebiet"), L("Bayern"), L("Sachsen"), L("Berlin")], answer: L("Ruhrgebiet") }
+    },
+    {
+      id: "dolchstosz_weimar",
+      title: L("Belastung"),
+      hint1: L("Rechte Propaganda gegen Demokraten."),
+      hint2: L("Novemberverbrecher' als Schimpfwort."),
+      svg: { type: "text-bubbles", items: [{ text: "Hass", color: "#fff", bg: "#991b1b" }, { text: "Wut", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Gegner"), items: [L("Nationalisten"), L("Monarchisten")] }] },
+      quiz: { question: L("Wie nannten Feinde die Demokraten?"), choices: [L("Novemberverbrecher"), L("Helden"), L("Könige"), L("Sportler")], answer: L("Novemberverbrecher") }
+    },
+    {
+      id: "frauenbild",
+      title: L("Neue Frau"),
+      hint1: L("Kurze Haare, Berufstätigkeit."),
+      hint2: L("Mehr Unabhängigkeit."),
+      svg: { type: "icon-grid", items: [{ emoji: "👩‍💼", label: "Beruf" }, { emoji: "✂️", label: "Bubikopf" }] },
+      interactive: { type: "sentence-build", words: [L("Frauen"), L("wurden"), L("selbstbewusster")], instruction: L("Was änderte sich?") },
+      quiz: { question: L("Welche Frisur war modern?"), choices: [L("Bubikopf"), L("Lange Zöpfe"), L("Perücke"), L("Glatze")], answer: L("Bubikopf") }
+    },
+    {
+      id: "hindenburg_praesident",
+      title: L("Paul von Hindenburg"),
+      hint1: L("Reichspräsident ab 1925."),
+      hint2: L("Eigentlich ein Anhänger des Kaisers."),
+      svg: { type: "word-card", word: L("Ersatzkaiser"), color: "#fff", bg: "#475569" },
+      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele (Ebert/Hindenburg) große Präsidenten?") },
+      quiz: { question: L("Wer wurde 1925 Präsident?"), choices: [L("Hindenburg"), L("Hitler"), L("Stresemann"), L("Adenauer")], answer: L("Hindenburg") }
+    }
+  ]
 };
 
-// ─── ISLAND 3: WEIMARER REPUBLIK ───────────────────────────────────────────
-
+// ─── ISLAND 3: NATIONALSOZIALISMUS & MACHTERGREIFUNG ───────────────────────
 const I3: IslandSpec = {
   id: "i3",
-  title: L("Weimarer Republik", "Weimar Republic", "Weimari köztársaság", "Republica de la Weimar"),
+  title: L("NS-Zeit"),
   topics: [
     {
-      title: L("Demokratie", "Democracy", "Demokrácia", "Democrație"),
-      text: L("Nach der Revolution 1918 wurde Deutschland erstmals eine Republik.", "After the 1918 revolution, Germany became a republic for the first time.", "Az 1918-as forradalom után Németország először lett köztársaság.", "După revoluția din 1918, Germania a devenit republică pentru prima dată."),
-      svg: { type: "geschichte-diagram", name: "WeimarSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Erster Präsident: Friedrich __. Ort: __.", "First President: Friedrich __. Place: __.", "Első elnök: Friedrich __. Hely: __.", "Primul președinte: Friedrich __. Locul: __."),
-        gaps: [
-          { index: 0, options: ["Ebert", "Hitler", "Kohl"], correct: 0 },
-          { index: 1, options: ["Weimar", "Berlin", "Paris"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "weimarer_republik",
+      id: "machtergreifung",
+      title: L("30. Januar 1933"),
+      hint1: L("Hitler wird Reichskanzler."),
+      hint2: L("Beginn der Zerstörung der Demokratie."),
+      svg: { type: "icon-grid", items: [{ emoji: "🏛️", label: "Amt" }, { emoji: "📅", label: "30. Jan" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Hitler"), right: L("Kanzler") }, { left: L("Hindenburg"), right: L("Präsident") }] },
+      quiz: { question: L("Wann wurde Hitler Kanzler?"), choices: [L("30. Januar 1933"), L("1. Mai 1945"), L("9. November 1918"), L("1. September 1939")], answer: L("30. Januar 1933") }
     },
     {
-      title: L("Hyperinflation", "Hyperinflation", "Hiperinfláció", "Hiperinflație"),
-      text: L("1923 verlor das Geld völlig an Wert. Brot kostete Milliarden von Mark.", "In 1923, money lost all its value. Bread cost billions of marks.", "1923-ban a pénz teljesen elértéktelenedett. Egy kenyér milliárdokba került.", "În 1923, banii și-au pierdut complet valoarea. Pâinea costa miliarde de mărci."),
-      svg: { type: "geschichte-diagram", name: "ShieldSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("1923", "1923", "1923", "1923"), right: L("Inflation", "Inflation", "Infláció", "Inflație") },
-          { left: L("Rentenmark", "Rentenmark", "Rentenmark", "Rentenmark"), right: L("Rettung", "Rescue", "Mentőöv", "Salvare") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "weimarer_republik",
+      id: "reichstagsbrand",
+      title: L("Reichstagsbrand"),
+      hint1: L("Das Parlamentsgebäude brannte."),
+      hint2: L("Vorwand für die Verfolgung von Gegnern."),
+      svg: { type: "text-bubbles", items: [{ text: "Feuer", color: "#fff", bg: "#ef4444" }, { text: "Terror", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "gap-fill", text: L("Es war im __ 1933."), gaps: [{ index: 0, options: ["Februar", "August"], correct: 0 }] },
+      quiz: { question: L("Was diente als Vorwand für Notverordnungen?"), choices: [L("Reichstagsbrand"), L("Ein Streik"), L("Ein Sportfest"), L("Ein Regen")], answer: L("Reichstagsbrand") }
     },
     {
-      title: L("Goldene 20er", "Golden Twenties", "Arany húszas évek", "Anii '20 de aur"),
-      text: L("Eine kurze Zeit der wirtschaftlichen Erholung und kulturellen Blüte.", "A short period of economic recovery and cultural flourish.", "A gazdasági fellendülés és a kulturális virágzás rövid időszaka.", "O scurtă perioadă de redresare economică și înflorire culturală."),
-      svg: { type: "geschichte-diagram", name: "PeaceDoveSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "art", label: L("Kultur", "Culture", "Kultúra", "Cultură") },
-          { id: "pol", label: L("Politik", "Politics", "Politika", "Politică") },
-        ],
-        items: [
-          { text: L("Jazz", "Jazz", "Jazz", "Jazz"), bucketId: "art" },
-          { text: L("Kino", "Cinema", "Mozi", "Cinema"), bucketId: "art" },
-          { text: L("Verträge", "Treaties", "Szerződések", "Tratate"), bucketId: "pol" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "weimarer_republik",
+      id: "ermaechtigungsgesetz",
+      title: L("Ermächtigungsgesetz"),
+      hint1: L("Selbstentachtung des Parlaments."),
+      hint2: L("Hitler konnte nun ohne Parlament Gesetze erlassen."),
+      svg: { type: "comparison-table", rows: [{ left: L("Gesetz"), right: L("Hitler") }, { left: L("Kontrolle"), right: L("Keine") }] },
+      interactive: { type: "word-order", words: [L("Ende"), L("der"), L("Demokratie")], instruction: L("Was bedeutete das Gesetz?") },
+      quiz: { question: L("Was bewirkte das Ermächtigungsgesetz?"), choices: [L("Diktatur"), L("Mehr Freiheit"), L("Wahlen alle Wochen"), L("Keine Änderung")], answer: L("Diktatur") }
     },
     {
-      title: L("Börsenkrach 1929", "Stock Market Crash", "Tőzsdekrach", "Crahul bursier"),
-      text: L("Der Absturz der Kurse in New York löste eine Weltwirtschaftskrise aus.", "The crash of prices in New York triggered a global economic crisis.", "A New York-i árfolyamok összeomlása gazdasági világválságot robbantott ki.", "Căderea cotațiilor la New York a declanșat o criză economică mondială."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Tag: Schwarzer __. Folge: __.", "Day: Black __. Result: __.", "Nap: Fekete __. Következmény: __.", "Ziua: __ neagră. Rezultat: __."),
-        gaps: [
-          { index: 0, options: [L("Donnerstag", "Thursday", "csütörtök", "joi"), L("Montag", "Monday", "hétfő", "luni")], correct: 0 },
-          { index: 1, options: [L("Arbeitslosigkeit", "Unemployment", "munkanélküliség", "șomaj"), L("Reichtum", "Wealth", "gazdagság", "bogăție")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "weimarer_republik",
+      id: "gleichschaltung",
+      title: L("Gleichschaltung"),
+      hint1: L("Kontrolle über alle Lebensbereiche."),
+      hint2: L("Parteien und Gewerkschaften wurden verboten."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚫", label: "Verbot" }, { emoji: "⚙️", label: "Zwang" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Partei"), right: L("NSDAP") }, { left: L("Alleine"), right: L("Macht") }] },
+      quiz: { question: L("Welche Partei war als einzige erlaubt?"), choices: [L("NSDAP"), L("SPD"), L("KPD"), L("Zentrum")], answer: L("NSDAP") }
     },
     {
-      title: L("Das Ende", "The End", "A vég", "Sfârșitul"),
-      text: L("Politische Instabilität und Not führten zum Untergang der Republik.", "Political instability and hardship led to the demise of the republic.", "A politikai instabilitás és a nyomor a köztársaság bukásához vezetett.", "Instabilitatea politică și suferința au dus la dispariția republicii."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: [L("Krise", "Crisis", "Válság", "Criză"), L("Radikalisierung", "Radicalization", "Radikalizálódás", "Radicalizare"), L("Diktatur", "Dictatorship", "Diktatúra", "Dictatură")],
-        instruction: L("Weg in den Abgrund", "Path to the abyss", "Út a szakadékba", "Drumul spre abis"),
-      }),
-      quiz: "weimarer_republik",
+      id: "propaganda",
+      title: L("Propaganda"),
+      hint1: L("Gezielte Beeinflussung der Menschen."),
+      hint2: L("Joseph Goebbels als Minister."),
+      svg: { type: "text-bubbles", items: [{ text: "Radio", color: "#fff", bg: "#fbbf24" }, { text: "Lüge", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "highlight-text", text: L("Goebbels kontrollierte Presse, Funk und Film."), instruction: L("Wer war das?") },
+      quiz: { question: L("Wer war Propagandaminister?"), choices: [L("Goebbels"), L("Hindenburg"), L("Ebert"), L("Adenauer")], answer: L("Goebbels") }
     },
-  ],
+    {
+      id: "antisemitismus",
+      title: L("Hass auf Juden"),
+      hint1: L("Kernpunkt der NS-Ideologie."),
+      hint2: L("Ausgrenzung und Entrechtung."),
+      svg: { type: "word-card", word: L("Rassenhass"), color: "#fff", bg: "#000" },
+      interactive: { type: "block-drag", blocks: [{ label: L("Ideologie"), items: [L("Rassismus"), L("Antisemitismus")] }] },
+      quiz: { question: L("Was war ein Hauptmerkmal der NS-Lehre?"), choices: [L("Antisemitismus"), L("Gleichheit"), L("Frieden"), L("Demokratie")], answer: L("Antisemitismus") }
+    },
+    {
+      id: "konzentrationslager",
+      title: L("Die Lager"),
+      hint1: L("Orte der Haft und Folter."),
+      hint2: L("Dachau war das erste KZ 1933."),
+      svg: { type: "comparison-table", rows: [{ left: L("Gegner"), right: L("Haft") }, { left: L("Gewalt"), right: L("Terror") }] },
+      interactive: { type: "tap-count", count: 1933, instruction: L("In welchem Jahr wurde Dachau eröffnet?") },
+      quiz: { question: L("Wo wurden Gegner eingesperrt?"), choices: [L("Konzentrationslager"), L("Hotels"), L("Schulen"), L("Sportvereine")], answer: L("Konzentrationslager") }
+    },
+    {
+      id: "hitlerjugend",
+      title: L("HJ und BDM"),
+      hint1: L("Jugendorganisationen der Nazis."),
+      hint2: L("Erziehung zu Gehorsam und Krieg."),
+      svg: { type: "icon-grid", items: [{ emoji: "👦", label: "HJ" }, { emoji: "👧", label: "BDM" }] },
+      interactive: { type: "gap-fill", text: L("Jugend sollte dem __ folgen."), gaps: [{ index: 0, options: [L("Führer"), L("Vater")], correct: 0 }] },
+      quiz: { question: L("Wie hieß the Organisation für Jungen?"), choices: [L("Hitlerjugend"), L("Pfadfinder"), L("Sportclub"), L("Nichts")], answer: L("Hitlerjugend") }
+    },
+    {
+      id: "nuernbergergesetze",
+      title: L("Rassengesetze"),
+      hint1: L("1935 wurden Juden entrechtet."),
+      hint2: L("Verbot von Ehen zwischen Juden und Nichtjuden."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Gesetz" }] },
+      interactive: { type: "sentence-build", words: [L("Juden"), L("verloren"), L("ihre"), L("Rechte")], instruction: L("Was geschah 1935?") },
+      quiz: { question: L("Wo wurden die Rassengesetze verkündet?"), choices: [L("Nürnberg"), L("Berlin"), L("München"), L("Wien")], answer: L("Nürnberg") }
+    },
+    {
+      id: "volksgemeinschaft",
+      title: L("Volksgemeinschaft"),
+      hint1: L("Einheit der 'Arier'."),
+      hint2: L("Ausschluss aller anderen."),
+      svg: { type: "text-bubbles", items: [{ text: "Wir", color: "#fff", bg: "#16a34a" }, { text: "Nicht-Ihr", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "lang-mcq", question: L("Wer durfte dazugehören?"), choices: [L("Nur 'Arier'"), L("Alle Menschen"), L("Nur Reiche")], answer: L("Nur 'Arier'") }
+    },
+    {
+      id: "widerstand_ns",
+      title: L("Mutiger Widerstand"),
+      hint1: L("Menschen, die sich trauten."),
+      hint2: L("Oft mit dem Leben bezahlt."),
+      svg: { type: "icon-grid", items: [{ emoji: "🌹", label: "Weiße Rose" }, { emoji: "💣", label: "Stauffenberg" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Weiße Rose"), right: L("Geschwister Scholl") }, { left: L("20. Juli"), right: L("Stauffenberg") }] },
+      quiz: { question: L("Wer gehörte zum Widerstand?"), choices: [L("Geschwister Scholl"), L("Goebbels"), L("Himmler"), L("Niemand")], answer: L("Geschwister Scholl") }
+    },
+    {
+      id: "pogromnacht",
+      title: L("9. November 1938"),
+      hint1: L("Brennende Synagogen."),
+      hint2: L("Offene Gewalt gegen Juden."),
+      svg: { type: "comparison-table", rows: [{ left: L("Glas"), right: L("Scherben") }, { left: L("Gewalt"), right: L("Staatlich") }] },
+      interactive: { type: "gap-fill", text: L("Man nennt es auch __."), gaps: [{ index: 0, options: ["Kristallnacht", "Friedensnacht"], correct: 0 }] },
+      quiz: { question: L("Was geschah in der Pogromnacht?"), choices: [L("Synagogen brannten"), L("König wurde gewählt"), L("Mauer wurde gebaut"), L("Nichts")], answer: L("Synagogen brannten") }
+    },
+    {
+      id: "aufrüstung_ns",
+      title: L("Vorbereitung"),
+      hint1: L("Heimliche und offene Aufrüstung."),
+      hint2: L("Beseitigung der Arbeitslosigkeit durch Rüstung."),
+      svg: { type: "text-bubbles", items: [{ text: "Waffen", color: "#fff", bg: "#475569" }, { text: "Heer", color: "#fff", bg: "#1e3a8a" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Ziele"), items: [L("Krieg"), L("Raum")] }] },
+      quiz: { question: L("Wie bekämpfte Hitler die Arbeitslosigkeit?"), choices: [L("Rüstungsindustrie"), L("Urlaubsreisen"), L("Schulbau"), L("Nichts")], answer: L("Rüstungsindustrie") }
+    },
+    {
+      id: "lebensraum",
+      title: L("Lebensraum im Osten"),
+      hint1: L("Plan zur Eroberung von Gebieten."),
+      hint2: L("Besonders in Polen und Russland."),
+      svg: { type: "image-label", labels: [{ x: 80, y: 50, text: "Osten" }] },
+      interactive: { type: "word-order", words: [L("Eroberung"), L("von"), L("neuem"), L("Land")], instruction: L("Was war das Ziel?") },
+      quiz: { question: L("Wohin wollte Hitler expandieren?"), choices: [L("Nach Osten"), L("Nach Westen"), L("Nach Amerika"), L("Nach Afrika")], answer: L("Nach Osten") }
+    },
+    {
+      id: "ende_demokratie",
+      title: L("Abschluss"),
+      hint1: L("Der Staat wurde totalitär."),
+      hint2: L("Keine Freiheit mehr."),
+      svg: { type: "word-card", word: L("Diktatur"), color: "#fff", bg: "#000" },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Parteien (Einparteienstaat) gab es?") },
+      quiz: { question: L("Was war Deutschland ab 1933?"), choices: [L("Totalitäre Diktatur"), L("Freie Republik"), L("Königreich"), L("Nichts")], answer: L("Totalitäre Diktatur") }
+    }
+  ]
 };
 
-// ─── ISLAND 4: NS-AUFSTIEG ───────────────────────────────────────────────────
-
+// ─── ISLAND 4: DER ZWEITE WELTKRIEG ─────────────────────────────────────────
 const I4: IslandSpec = {
   id: "i4",
-  title: L("NS-Aufstieg", "Rise of National Socialism", "A náci hatalomátvétel", "Ascensiunea nazismului"),
+  title: L("Zweiter Weltkrieg"),
   topics: [
     {
-      title: L("Machtergreifung", "Seizure of Power", "Hatalomátvétel", "Preluarea puterii"),
-      text: L("Am 30. Januar 1933 wurde Adolf Hitler zum Reichskanzler ernannt. Kurz darauf wurde die Demokratie abgeschafft.", "On January 30, 1933, Adolf Hitler was appointed Reich Chancellor. Shortly after, democracy was abolished.", "1933. január 30-án Adolf Hitlert kinevezték birodalmi kancellárrá. Röviddel ezután felszámolták a demokráciát.", "La 30 ianuarie 1933, Adolf Hitler a fost numit cancelar al Reich-ului. La scurt timp după aceea, democrația a fost abolită."),
-      svg: { type: "geschichte-diagram", name: "NapoleonSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Hitler wurde am 30. __ 1933 Kanzler. Das Parlament verlor die __.", "Hitler became Chancellor on Jan __, 1933. Parliament lost its __.", "Hitler 1933. __ 30-án lett kancellár. A parlament elvesztette __.", "Hitler a devenit cancelar pe 30 __ 1933. Parlamentul și-a pierdut __."),
-        gaps: [
-          { index: 0, options: ["Januar", "März", "Mai"], correct: 0 },
-          { index: 1, options: [L("Macht", "Power", "hatalmát", "puterea"), L("Gebäude", "Building", "épületét", "clădirea")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ns_machtuebernahme",
+      id: "ueberfall_polen",
+      title: L("Kriegsbeginn"),
+      hint1: L("1. September 1939."),
+      hint2: L("Einmarsch in Polen ohne Kriegserklärung."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇵🇱", label: "Polen" }, { emoji: "📅", label: "1. Sept" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("1. Sept 1939"), right: L("Beginn") }, { left: L("Polen"), right: L("Ziel") }] },
+      quiz: { question: L("Wann begann der Zweite Weltkrieg?"), choices: [L("1. September 1939"), L("1. August 1914"), L("30. Januar 1933"), L("8. Mai 1945")], answer: L("1. September 1939") }
     },
     {
-      title: L("Reichstagsbrand", "Reichstag Fire", "A Reichstag felégetése", "Incendierea Reichstagului"),
-      text: L("Der Brand des Parlamentsgebäudes diente als Vorwand, um Grundrechte außer Kraft zu setzen.", "The burning of the parliament building served as a pretext to suspend basic rights.", "A parlament épületének felgyújtása ürügyként szolgált az alapjogok felfüggesztésére.", "Incendierea clădirii parlamentului a servit drept pretext pentru suspendarea drepturilor fundamentale."),
-      svg: { type: "geschichte-diagram", name: "ReichstagSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Februar 1933", "February 1933", "1933. február", "Februarie 1933"), right: L("Reichstagsbrand", "Reichstag Fire", "Reichstag-tűz", "Incendierea Reichstagului") },
-          { left: L("Notverordnung", "Emergency Decree", "Kényszerrendelet", "Decret de urgență"), right: L("Grundrechte weg", "Rights gone", "Jogok vége", "Drepturi anulate") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ns_machtuebernahme",
+      id: "blitzkrieg_ww2",
+      title: L("Blitzkrieg"),
+      hint1: L("Schnelle Siege gegen Nachbarländer."),
+      hint2: L("Zusammenspiel von Panzern und Flugzeugen."),
+      svg: { type: "text-bubbles", items: [{ text: "Schnell", color: "#fff", bg: "#fbbf24" }, { text: "Sieg", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "gap-fill", text: L("Erfolge im __."), gaps: [{ index: 0, options: ["Westen", "Osten"], correct: 0 }] },
+      quiz: { question: L("Was war der Blitzkrieg?"), choices: [L("Schneller Angriff"), L("Krieg bei Gewitter"), L("Ein Wetterphänomen"), L("Nichts")], answer: L("Schneller Angriff") }
     },
     {
-      title: L("NS-Ideologie", "NS Ideology", "Náci ideológia", "Ideologia nazistă"),
-      text: L("Rassismus, Antisemitismus und das Streben nach Lebensraum im Osten waren die Kernpunkte.", "Racism, antisemitism, and the quest for living space in the East were core points.", "A rasszizmus, az antiszemitizmus és a keleti élettér keresése voltak a legfőbb pontok.", "Rasismul, antisemitismul și căutarea spațiului vital în Est au fost punctele centrale."),
-      svg: { type: "geschichte-diagram", name: "PyramidSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "ide", label: L("Ideologie", "Ideology", "Ideológia", "Ideologie") },
-          { id: "oth", label: L("Anderes", "Other", "Más", "Altele") },
-        ],
-        items: [
-          { text: L("Herrenrasse", "Master race", "Felsőbbrendű faj", "Rasa superioară"), bucketId: "ide" },
-          { text: L("Antisemitismus", "Antisemitism", "Antiszemitizmus", "Antisemitism"), bucketId: "ide" },
-          { text: L("Gleichheit", "Equality", "Egyenlőség", "Egalitate"), bucketId: "oth" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ns_ideologie",
+      id: "stalingrad_ww2",
+      title: L("Stalingrad"),
+      hint1: L("Entscheidender Wendepunkt 1942/43."),
+      hint2: L("Untergang der 6. Armee."),
+      svg: { type: "comparison-table", rows: [{ left: L("Wende"), right: L("Niederlage") }, { left: L("Ort"), right: L("Wolga") }] },
+      interactive: { type: "word-order", words: [L("Der"), L("Wendepunkt"), L("im"), L("Osten")], instruction: L("Was war Stalingrad?") },
+      quiz: { question: L("Welche Schlacht war die Wende?"), choices: [L("Stalingrad"), L("Waterloo"), L("Sedan"), L("Leipzig")], answer: L("Stalingrad") }
     },
     {
-      title: L("Propaganda", "Propaganda", "Propaganda", "Propaganda"),
-      text: L("Joseph Goebbels kontrollierte die Medien und inszenierte Hitler als unfehlbaren Führer.", "Joseph Goebbels controlled the media and staged Hitler as an infallible leader.", "Joseph Goebbels irányította a médiát, és Hitlert tévedhetetlen vezérként állította be.", "Joseph Goebbels a controlat mass-media și l-a prezentat pe Hitler ca pe un lider infailibil."),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Wichtigstes Medium: __. Minister: __.", "Most important medium: __. Minister: __.", "Legfontosabb eszköz: __. Miniszter: __.", "Cel mai important mediu: __. Ministru: __."),
-        gaps: [
-          { index: 0, options: [L("Radio", "Radio", "rádió", "radio"), L("Internet", "Internet", "internet", "internet")], correct: 0 },
-          { index: 1, options: ["Goebbels", "Bismarck", "Adenauer"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ns_propaganda",
+      id: "holocaust_ww2",
+      title: L("Holocaust"),
+      hint1: L("Systematischer Völkermord an Juden."),
+      hint2: L("Über 6 Millionen Opfer."),
+      svg: { type: "word-card", word: L("Shoah"), color: "#fff", bg: "#475569" },
+      interactive: { type: "highlight-text", text: L("Auschwitz war das größte Vernichtungslager."), instruction: L("Wo geschah das?") },
+      quiz: { question: L("Wie viele Juden wurden ermordet?"), choices: [L("Über 6 Millionen"), L("1 Million"), L("100.000"), L("Keine")], answer: L("Über 6 Millionen") }
     },
     {
-      title: L("Gleichschaltung", "Gleichschaltung", "Egyenirányítás", "Sincronizarea"),
-      text: L("Alle Bereiche des Lebens (Vereine, Schulen, Ämter) wurden dem NS-Staat untergeordnet.", "All areas of life (clubs, schools, offices) were subordinated to the NS state.", "Az élet minden területét (egyesületek, iskolák, hivatalok) a náci állam alá rendelték.", "Toate domeniile vieții (cluburi, școli, birouri) au fost subordonate statului nazist."),
-      svg: { type: "geschichte-diagram", name: "ColumnSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Hitlerjugend", "Hitler Youth", "Hitlerjugend", "Tineretul hitlerist"), right: L("Jugend", "Youth", "Ifjúság", "Tineret") },
-          { left: L("Einheitspartei", "Single Party", "Egységpárt", "Partid unic"), right: L("NSDAP", "NSDAP", "NSDAP", "NSDAP") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "ns_machtuebernahme",
+      id: "widerstand_scholl",
+      title: L("Weiße Rose"),
+      hint1: L("Widerstand von Studenten in München."),
+      hint2: L("Flugblätter gegen Hitler."),
+      svg: { type: "icon-grid", items: [{ emoji: "🌹", label: "Blume" }, { emoji: "📜", label: "Blatt" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Hans Scholl"), right: L("Bruder") }, { left: L("Sophie Scholl"), right: L("Schwester") }] },
+      quiz: { question: L("Wie hieß die Widerstandsgruppe?"), choices: [L("Weiße Rose"), L("Roter Stern"), L("Blauer Enzian"), L("Nichts")], answer: L("Weiße Rose") }
     },
-  ],
+    {
+      id: "totalerkrieg",
+      title: L("Totaler Krieg"),
+      hint1: L("Goebbels Rede 1943."),
+      hint2: L("Alle Kraft nur noch für den Sieg."),
+      svg: { type: "text-bubbles", items: [{ text: "Alles", color: "#fff", bg: "#991b1b" }, { text: "Sieg", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "gap-fill", text: L("Wollt ihr den __ Krieg?"), gaps: [{ index: 0, options: ["totalen", "kurzen"], correct: 0 }] },
+      quiz: { question: L("Wer rief zum totalen Krieg auf?"), choices: [L("Goebbels"), L("Hitler"), L("Stauffenberg"), L("Hindenburg")], answer: L("Goebbels") }
+    },
+    {
+      id: "attentat_juli",
+      title: L("20. Juli 1944"),
+      hint1: L("Bombenattentat auf Hitler."),
+      hint2: L("Claus Schenk Graf von Stauffenberg."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Bombe" }] },
+      interactive: { type: "tap-count", count: 20, instruction: L("An welchem Tag im Juli war das Attentat?") },
+      quiz: { question: L("Wer führte das Attentat 1944 aus?"), choices: [L("Stauffenberg"), L("Scholl"), L("Adenauer"), L("Brandt")], answer: L("Stauffenberg") }
+    },
+    {
+      id: "dday",
+      title: L("D-Day"),
+      hint1: L("Landung der Alliierten in der Normandie."),
+      hint2: L("6. Juni 1944."),
+      svg: { type: "comparison-table", rows: [{ left: L("Westen"), right: L("Landung") }, { left: L("Freiheit"), right: L("Ziel") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Länder"), items: [L("USA"), L("England")] }] },
+      quiz: { question: L("Wo landeten die Alliierten 1944?"), choices: [L("Normandie"), L("Berlin"), L("Rom"), L("Madrid")], answer: L("Normandie") }
+    },
+    {
+      id: "allierte",
+      title: L("Die Alliierten"),
+      hint1: L("Gegner Deutschlands."),
+      hint2: L("USA, Sowjetunion, England."),
+      svg: { type: "text-bubbles", items: [{ text: "USA", color: "#fff", bg: "#3b82f6" }, { text: "UdSSR", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "lang-mcq", question: L("Wer gehörte nicht zu den Alliierten?"), choices: [L("Japan"), L("USA"), L("England")], answer: L("Japan") }
+    },
+    {
+      id: "stunde_null",
+      title: L("Kriegsende"),
+      hint1: L("8. Mai 1945."),
+      hint2: L("Bedingungslose Kapitulation."),
+      svg: { type: "word-card", word: L("Kapitulation"), color: "#fff", bg: "#000" },
+      interactive: { type: "gap-fill", text: L("Der Krieg endete im __."), gaps: [{ index: 0, options: ["Mai", "Januar"], correct: 0 }] },
+      quiz: { question: L("Wann endete der Krieg in Europa?"), choices: [L("8. Mai 1945"), L("1. September 1939"), L("11. November 1918"), L("3. Oktober 1990")], answer: L("8. Mai 1945") }
+    },
+    {
+      id: "ausbomben",
+      title: L("Luftkrieg"),
+      hint1: L("Zerstörung deutscher Städte."),
+      hint2: L("Dresden, Berlin, Hamburg."),
+      svg: { type: "icon-grid", items: [{ emoji: "✈️", label: "Bomber" }, { emoji: "🏚️", label: "Ruine" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Bombe"), right: L("Zerstörung") }, { left: L("Bunker"), right: L("Schutz") }] },
+      quiz: { question: L("Was passierte mit vielen deutschen Städten?"), choices: [L("Sie wurden zerbombt"), L("Nichts geschah"), L("Sie wurden reicher"), L("Urlaubsorte")], answer: L("Sie wurden zerbombt") }
+    },
+    {
+      id: "flucht_vertreibung",
+      title: L("Flucht"),
+      hint1: L("Millionen Deutsche flohen aus dem Osten."),
+      hint2: L("Verlust der Heimat."),
+      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Treck" }] },
+      interactive: { type: "sentence-build", words: [L("Millionen"), L("verloren"), L("ihre"), L("Heimat")], instruction: L("Was war die Folge?") },
+      quiz: { question: L("Wohin flohen die Menschen?"), choices: [L("Nach Westen"), L("Nach Osten"), L("Nach China"), L("Nach Japan")], answer: L("Nach Westen") }
+    },
+    {
+      id: "nuernberger_prozesse",
+      title: L("Nürnberger Prozesse"),
+      hint1: L("Gericht gegen Hauptkriegsverbrecher."),
+      hint2: L("Gerechtigkeit nach dem Grauen."),
+      svg: { type: "comparison-table", rows: [{ left: L("Gericht"), right: L("Urteil") }, { left: L("Verbrechen"), right: L("Strafe") }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Ort"), items: [L("Nürnberg")] }] },
+      quiz: { question: L("Wo wurden die NS-Anführer angeklagt?"), choices: [L("Nürnberg"), L("Berlin"), L("München"), L("Bonn")], answer: L("Nürnberg") }
+    },
+    {
+      id: "hiroshima",
+      title: L("Atombombe"),
+      hint1: L("Abwurf über Hiroshima und Nagasaki."),
+      hint2: L("Ende des Krieges im Pazifik."),
+      svg: { type: "text-bubbles", items: [{ text: "Atom", color: "#fff", bg: "#facc15" }, { text: "Tod", color: "#fff", bg: "#000" }] },
+      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele Städte (Hiroshima/Nagasaki)?") },
+      quiz: { question: L("Wer warf die Atombomben?"), choices: [L("USA"), L("Deutschland"), L("Japan"), L("Russland")], answer: L("USA") }
+    },
+    {
+      id: "vereintenationen",
+      title: L("Gründung der UN"),
+      hint1: L("1945 als Friedenssicherung."),
+      hint2: L("Nie wieder Krieg."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇺🇳", label: "UN" }, { emoji: "🕊️", label: "Frieden" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("UN"), right: L("Frieden") }, { left: L("1945"), right: L("Gründung") }] },
+      quiz: { question: L("Wozu wurde die UN gegründet?"), choices: [L("Frieden bewahren"), L("Krieg planen"), L("Geld drucken"), L("Nichts")], answer: L("Frieden bewahren") }
+    }
+  ]
 };
 
-// ─── ISLAND 5: ZWEITER WELTKRIEG ──────────────────────────────────────────────
-
+// ─── ISLAND 5: DEUTSCHLAND IM KALTEN KRIEG ──────────────────────────────────
 const I5: IslandSpec = {
   id: "i5",
-  title: L("Zweiter Weltkrieg", "World War II", "II. világháború", "Al Doilea Război Mondial"),
+  title: L("Kalter Krieg"),
   topics: [
     {
-      title: L("Kriegsbeginn 1939", "Outbreak 1939", "A háború kezdete", "Începutul războiului"),
-      text: L("Mit dem Überfall auf Polen begann am 1. September 1939 der blutigste Krieg der Geschichte.", "The bloodiest war in history began with the invasion of Poland on September 1, 1939.", "Lengyelország lerohanásával 1939. szeptember 1-jén kezdődött a történelem legvéresebb háborúja.", "Odată cu invadarea Poloniei la 1 septembrie 1939, a început cel mai sângeros război din istorie."),
-      svg: { type: "geschichte-diagram", name: "TrenchSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Datum: 1. __ 1939. Land: __.", "Date: Sep 1, 1939. Country: __.", "Dátum: 1939. szeptember 1. Ország: __.", "Data: 1 septembrie 1939. Țara: __."),
-        gaps: [
-          { index: 0, options: ["September", "August", "Oktober"], correct: 0 },
-          { index: 1, options: [L("Polen", "Poland", "Lengyelország", "Polonia"), L("Russland", "Russia", "Oroszország", "Rusia")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "zweiter_weltkrieg",
+      id: "teilung",
+      title: L("Zwei Staaten"),
+      hint1: L("Gründung von BRD und DDR 1949."),
+      hint2: L("Deutschland wurde geteilt."),
+      svg: { type: "two-groups", left: { items: ["BRD"], bg: "#3b82f6", border: "#1d4ed8" }, right: { items: ["DDR"], bg: "#ef4444", border: "#b91c1c" } },
+      interactive: { type: "match-pairs", pairs: [{ left: L("BRD"), right: L("Bonn") }, { left: L("DDR"), right: L("Ost-Berlin") }] },
+      quiz: { question: L("Wann wurden die beiden Staaten gegründet?"), choices: [L("1949"), L("1945"), L("1961"), L("1989")], answer: L("1949") }
     },
     {
-      title: L("Blitzkrieg", "Blitzkrieg", "Villámháború", "Război fulger"),
-      text: L("In den ersten Jahren erzielte die deutsche Wehrmacht schnelle Siege durch Panzer und Luftwaffe.", "In the early years, the German Wehrmacht achieved rapid victories through tanks and air force.", "Az első években a német hadsereg gyors győzelmeket aratott páncélosok és a légierő segítségével.", "În primii ani, Wehrmacht-ul german a obținut victorii rapide prin tancuri și forțele aeriene."),
-      svg: { type: "geschichte-diagram", name: "SteamEngineSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Panzer", "Tanks", "Páncélosok", "Tancuri"), right: L("Schnelligkeit", "Speed", "Gyorsaság", "Viteză") },
-          { left: L("Luftwaffe", "Air Force", "Légierő", "Forțe aeriene"), right: L("Angriff", "Attack", "Támadás", "Atac") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "zweiter_weltkrieg",
+      id: "mauerbau",
+      title: L("Berliner Mauer"),
+      hint1: L("13. August 1961."),
+      hint2: L("Trennung von Familien und Freunden."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Mauer" }] },
+      interactive: { type: "gap-fill", text: L("Die Mauer stand in __."), gaps: [{ index: 0, options: ["Berlin", "München"], correct: 0 }] },
+      quiz: { question: L("Wann wurde die Mauer gebaut?"), choices: [L("1961"), L("1949"), L("1989"), L("1945")], answer: L("1961") }
     },
     {
-      title: L("Stalingrad", "Stalingrad", "Sztálingrád", "Stalingrad"),
-      text: L("Die Schlacht von Stalingrad (1942/43) markierte den entscheidenden Wendepunkt des Krieges.", "The Battle of Stalingrad (1942/43) marked the decisive turning point of the war.", "A sztálingrádi csata (1942/43) jelentette a háború döntő fordulatpontját.", "Bătălia de la Stalingrad (1942/43) a marcat punctul de cotitură decisiv al războiului."),
-      svg: { type: "geschichte-diagram", name: "TrenchSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Der Wendepunkt war im __. Die 6. Armee __.", "The turning point was in the __. The 6th Army __.", "A fordulat __ volt. A 6. hadsereg __.", "Punctul de cotitură a fost în __. Armata a 6-a __."),
-        gaps: [
-          { index: 0, options: ["Osten", "Westen", "Süden"], correct: 0 },
-          { index: 1, options: [L("kapitulierte", "surrendered", "megadta magát", "a capitulat"), L("siegte", "won", "győzött", "a câștigat")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "zweiter_weltkrieg",
+      id: "luftbruecke",
+      title: L("Berliner Blockade"),
+      hint1: L("Rosinenbomber' versorgten die Stadt."),
+      hint2: L("Sowjetunion sperrte alle Wege."),
+      svg: { type: "icon-grid", items: [{ emoji: "✈️", label: "Bomber" }, { emoji: "🍬", label: "Rosinen" }] },
+      interactive: { type: "word-order", words: [L("Hilfe"), L("aus"), L("der"), L("Luft")], instruction: L("Was war es?") },
+      quiz: { question: L("Wie hießen die Versorgungsflugzeuge?"), choices: [L("Rosinenbomber"), L("Düsenjets"), L("Zeppeline"), L("Nichts")], answer: L("Rosinenbomber") }
     },
     {
-      title: L("Widerstand", "Resistance", "Ellenállás", "Rezistența"),
-      text: L("Menschen wie die Geschwister Scholl oder Stauffenberg kämpften mutig gegen Hitler.", "People like the Scholl siblings or Stauffenberg fought courageously against Hitler.", "Olyan emberek, mint a Scholl testvérek vagy Stauffenberg, bátran küzdöttek Hitler ellen.", "Oameni precum frații Scholl sau Stauffenberg au luptat cu curaj împotriva lui Hitler."),
-      svg: { type: "geschichte-diagram", name: "KnightSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Weiße Rose", "White Rose", "Fehér Rózsa", "Trandafirul Alb"), right: L("Flugblätter", "Leaflets", "Röplapok", "Manifeste") },
-          { left: L("20. Juli 1944", "July 20, 1944", "1944. júl. 20.", "20 iulie 1944"), right: L("Attentat", "Assassination", "Merénylet", "Atentat") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "widerstand_ns",
+      id: "adenauer",
+      title: L("Konrad Adenauer"),
+      hint1: L("Erster Bundeskanzler der BRD."),
+      hint2: L("Westintegration und Aussöhnung."),
+      svg: { type: "word-card", word: L("Adenauer"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "highlight-text", text: L("Adenauer führte die BRD nach Westen."), instruction: L("Wer war er?") },
+      quiz: { question: L("Welcher Partei gehörte Adenauer an?"), choices: [L("CDU"), L("SPD"), L("FDP"), L("SED")], answer: L("CDU") }
     },
     {
-      title: L("Kapitulation 1945", "Surrender 1945", "Kapituláció 1945", "Capitularea 1945"),
-      text: L("Am 8. Mai 1945 endete der Krieg in Europa mit der bedingungslosen Kapitulation Deutschlands.", "On May 8, 1945, the war in Europe ended with Germany's unconditional surrender.", "1945. május 8-án Európában véget ért a háború Németország feltétel nélküli megadásával.", "La 8 mai 1945, războiul în Europa s-a încheiat cu capitularea necondiționată a Germaniei."),
-      svg: { type: "geschichte-diagram", name: "PeaceDoveSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: ["1939", "1941", "1944", "1945"],
-        instruction: L("Ordne die Kriegsjahre", "Order the war years", "Rendezd a háborús éveket", "Ordonează anii de război"),
-      }),
-      quiz: "zweiter_weltkrieg",
+      id: "wirtschaftswunder",
+      title: L("Wirtschaftswunder"),
+      hint1: L("Schneller Aufstieg in den 50ern."),
+      hint2: L("Ludwig Erhard und die Soziale Marktwirtschaft."),
+      svg: { type: "text-bubbles", items: [{ text: "Wohlstand", color: "#fff", bg: "#16a34a" }, { text: "VW Käfer", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "gap-fill", text: L("Vater des Wunders: Ludwig __."), gaps: [{ index: 0, options: ["Erhard", "Kohl"], correct: 0 }] },
+      quiz: { question: L("Was war das Wirtschaftswunder?"), choices: [L("Schneller Aufstieg"), L("Ein Zaubertrick"), L("Ein Misserfolg"), L("Nur für Reiche")], answer: L("Schneller Aufstieg") }
     },
-  ],
+    {
+      id: "sed",
+      title: L("Die SED"),
+      hint1: L("Einheitspartei in der DDR."),
+      hint2: L("Diktatur unter Führung der Sowjetunion."),
+      svg: { type: "comparison-table", rows: [{ left: L("DDR"), right: L("SED") }, { left: L("Kontrolle"), right: L("Stasi") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("DDR"), right: L("Kommunismus") }, { left: L("BRD"), right: L("Kapitalismus") }] },
+      quiz: { question: L("Wie hieß die mächtigste Partei der DDR?"), choices: [L("SED"), L("CDU"), L("SPD"), L("AfD")], answer: L("SED") }
+    },
+    {
+      id: "stasi",
+      title: L("Die Stasi"),
+      hint1: L("Geheimdienst der DDR."),
+      hint2: L("Überwachung der eigenen Bürger."),
+      svg: { type: "icon-grid", items: [{ emoji: "👂", label: "Hören" }, { emoji: "📂", label: "Akte" }] },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele (SED) Parteien führten die DDR?") },
+      quiz: { question: L("Was war die Aufgabe der Stasi?"), choices: [L("Überwachung"), L("Post austragen"), L("Sport fördern"), L("Nichts")], answer: L("Überwachung") }
+    },
+    {
+      id: "aufstand_1953",
+      title: L("17. Juni 1953"),
+      hint1: L("Volksaufstand in der DDR."),
+      hint2: L("Niederschlagung durch sowjetische Panzer."),
+      svg: { type: "text-bubbles", items: [{ text: "Freiheit", color: "#fff", bg: "#3b82f6" }, { text: "Panzer", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "highlight-text", text: L("Der Aufstand forderte freie Wahlen."), instruction: L("Was wollten sie?") },
+      quiz: { question: L("Wann war der erste große Aufstand in der DDR?"), choices: [L("17. Juni 1953"), L("9. November 1989"), L("13. August 1961"), L("1. Mai 1945")], answer: L("17. Juni 1953") }
+    },
+    {
+      id: "brand_ostpolitik",
+      title: L("Willy Brandt"),
+      hint1: L("Kniefall von Warschau."),
+      hint2: L("Entspannungspolitik gegenüber dem Osten."),
+      svg: { type: "word-card", word: L("Ostpolitik"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "sentence-build", words: [L("Wandel"), L("durch"), L("Annäherung")], instruction: L("Brandts Motto?") },
+      quiz: { question: L("Was war Brandts Ziel?"), choices: [L("Entspannung"), L("Krieg"), L("Mehr Mauern"), L("Nichts")], answer: L("Entspannung") }
+    },
+    {
+      id: "gastarbeiter",
+      title: L("Gastarbeiter"),
+      hint1: L("Menschen kamen zum Arbeiten nach Deutschland."),
+      hint2: L("Besonders aus Italien und der Türkei."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇮🇹", label: "Italien" }, { emoji: "🇹🇷", label: "Türkei" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Herkunft"), items: [L("Italien"), L("Türkei")] }] },
+      quiz: { question: L("Warum kamen Gastarbeiter?"), choices: [L("Arbeitskräftemangel"), L("Zum Urlaub"), L("Kein Grund"), L("Wegen des Wetters")], answer: L("Arbeitskräftemangel") }
+    },
+    {
+      id: "atomgefahr",
+      title: L("Kuba-Krise"),
+      hint1: L("Die Welt am Rande des Atomkriegs."),
+      hint2: L("Raketenstationierung auf Kuba."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Rakete" }] },
+      interactive: { type: "gap-fill", text: L("Konflikt zwischen USA und __."), gaps: [{ index: 0, options: ["UdSSR", "China"], correct: 0 }] },
+      quiz: { question: L("Wo standen die Raketen 1962?"), choices: [L("Kuba"), L("Berlin"), L("Paris"), L("London")], answer: L("Kuba") }
+    },
+    {
+      id: "apollo",
+      title: L("Mondlandung"),
+      hint1: L("Wettlauf im All."),
+      hint2: L("Neil Armstrong 1969."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚀", label: "Rakete" }, { emoji: "🌕", label: "Mond" }] },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele (erste) Schritte auf dem Mond?") },
+      quiz: { question: L("Welches Land landete zuerst auf dem Mond?"), choices: [L("USA"), L("Russland"), L("China"), L("Deutschland")], answer: L("USA") }
+    },
+    {
+      id: "vietnam",
+      title: L("Vietnamkrieg"),
+      hint1: L("Stellvertreterkrieg der Blöcke."),
+      hint2: L("Große Proteste weltweit."),
+      svg: { type: "text-bubbles", items: [{ text: "Dschungel", color: "#fff", bg: "#16a34a" }, { text: "Protest", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("USA"), right: L("Süden") }, { left: L("Kommunisten"), right: L("Norden") }] },
+      quiz: { question: L("In welchem Jahrzehnt war der Höhepunkt?"), choices: [L("1960er"), L("1920er"), L("1990er"), L("1880er")], answer: L("1960er") }
+    },
+    {
+      id: "frauenbewegung",
+      title: L("68er Bewegung"),
+      hint1: L("Studentenrevolten."),
+      hint2: L("Kritik an den Eltern und dem Staat."),
+      svg: { type: "word-card", word: L("Revolte"), color: "#fff", bg: "#ef4444" },
+      interactive: { type: "highlight-text", text: L("Die 68er wollten die Gesellschaft verändern."), instruction: L("Was wollten sie?") },
+      quiz: { question: L("Welches Jahr gab der Bewegung den Namen?"), choices: [L("1968"), L("1945"), L("1989"), L("2000")], answer: L("1968") }
+    },
+    {
+      id: "nato",
+      title: L("NATO"),
+      hint1: L("Westliches Verteidigungsbündnis."),
+      hint2: L("Schutz vor sowjetischem Angriff."),
+      svg: { type: "comparison-table", rows: [{ left: L("West"), right: L("NATO") }, { left: L("Ost"), right: L("Warschauer Pakt") }] },
+      interactive: { type: "lang-mcq", question: L("Was ist die NATO?"), choices: [L("Militärbündnis"), L("Sportverein"), L("Bank")], answer: L("Militärbündnis") }
+    }
+  ]
 };
 
-// ─── ISLAND 6: HOLOCAUST ─────────────────────────────────────────────────────
-
+// ─── ISLAND 6: MAUERFALL & WIEDERVEREINIGUNG ───────────────────────────────
 const I6: IslandSpec = {
   id: "i6",
-  title: L("Holocaust / Shoah", "Holocaust / Shoah", "Holokauszt / Soá", "Holocaust / Shoah"),
+  title: L("Wiedervereinigung"),
   topics: [
     {
-      title: L("Nürnberger Gesetze", "Nuremberg Laws", "Nürnbergi törvények", "Legile de la Nürnberg"),
-      text: L("1935 wurden Juden durch Rassengesetze ausgegrenzt und ihrer Rechte beraubt.", "In 1935, Jews were marginalized and deprived of their rights through racial laws.", "1935-ben a zsidókat faji törvényekkel kirekesztették és megfosztották jogaiktól.", "În 1935, evreii au fost marginalizați și privați de drepturile lor prin legile rasiale."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Die Gesetze waren von __. Juden verloren die __.", "The laws were from __. Jews lost their __.", "A törvények __-ból származnak. A zsidók elvesztették az __.", "Legile au fost din __. Evreii și-au pierdut __."),
-        gaps: [
-          { index: 0, options: ["1935", "1914", "1945"], correct: 0 },
-          { index: 1, options: [L("Staatsbürgerschaft", "Citizenship", "állampolgárságukat", "cetățenia"), L("Häuser", "Houses", "házaikat", "casele")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "holocaust",
+      id: "gorbatschow",
+      title: L("Gorbatschow"),
+      hint1: L("Sowjetischer Führer."),
+      hint2: L("Glasnost (Offenheit) und Perestroika (Umbau)."),
+      svg: { type: "icon-grid", items: [{ emoji: "🗣️", label: "Glasnost" }, { emoji: "🏗️", label: "Umbau" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Glasnost"), right: L("Offenheit") }, { left: L("Perestroika"), right: L("Umbau") }] },
+      quiz: { question: L("Wer leitete die Reformen in der UdSSR ein?"), choices: [L("Gorbatschow"), L("Stalin"), L("Putin"), L("Lenin")], answer: L("Gorbatschow") }
     },
     {
-      title: L("Pogromnacht", "Pogrom Night", "Kristályéjszaka", "Noaptea Pogromului"),
-      text: L("Am 9. November 1938 wurden jüdische Geschäfte zerstört und Synagogen in Brand gesetzt.", "On November 9, 1938, Jewish shops were destroyed and synagogues set on fire.", "1938. november 9-én zsidó üzleteket romboltak le és zsinagógákat gyújtottak fel.", "La 9 noiembrie 1938, magazinele evreiești au fost distruse și sinagogile incendiate."),
-      svg: { type: "geschichte-diagram", name: "BastilleSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("9. November", "Nov 9", "Nov. 9.", "9 noiembrie"), right: L("1938", "1938", "1938", "1938") },
-          { left: L("Synagogen", "Synagogues", "Zsinagógák", "Sinagogi"), right: L("Brand", "Fire", "Tűz", "Foc") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "holocaust",
+      id: "montagsdemos",
+      title: L("Wir sind das Volk"),
+      hint1: L("Friedliche Demos in der DDR."),
+      hint2: L("Besonders in Leipzig."),
+      svg: { type: "text-bubbles", items: [{ text: "Leipzig", color: "#fff", bg: "#1e3a8a" }, { text: "Freiheit", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "gap-fill", text: L("Sie riefen: Wir sind das __."), gaps: [{ index: 0, options: ["Volk", "Heer"], correct: 0 }] },
+      quiz: { question: L("Wo fanden die Montagsdemos statt?"), choices: [L("DDR / Leipzig"), L("BRD / Bonn"), L("USA / New York"), L("Nichts")], answer: L("DDR / Leipzig") }
     },
     {
-      title: L("Wannsee-Konferenz", "Wannsee Conference", "Wannseei konferencia", "Conferința de la Wannsee"),
-      text: L("1942 planten NS-Funktionäre die systematische Ermordung aller europäischen Juden.", "In 1942, NS officials planned the systematic murder of all European Jews.", "1942-ben a náci tisztviselők megtervezték az összes európai zsidó szisztematikus kiirtását.", "În 1942, oficialii naziști au planificat uciderea sistematică a tuturor evreilor europeni."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Ort: __ am Wannsee. Ziel: __.", "Place: __ at Wannsee. Goal: __.", "Hely: __ a Wannsee-nál. Cél: __.", "Locul: __ la Wannsee. Scop: __."),
-        gaps: [
-          { index: 0, options: ["Villa", "Schloss", "Burg"], correct: 0 },
-          { index: 1, options: [L("Völkermord", "Genocide", "Népirtás", "Genocid"), L("Frieden", "Peace", "Béke", "Pace")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "holocaust",
+      id: "mauerfall_1989",
+      title: L("9. November 1989"),
+      hint1: L("Öffnung der Grenze."),
+      hint2: L("Menschen tanzten auf der Mauer."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Offen" }] },
+      interactive: { type: "tap-count", count: 11, instruction: L("In welchem Monat (Nov=11) fiel die Mauer?") },
+      quiz: { question: L("Wann fiel die Berliner Mauer?"), choices: [L("9. November 1989"), L("3. Oktober 1990"), L("13. August 1961"), L("1. Mai 1945")], answer: L("9. November 1989") }
     },
     {
-      title: L("Auschwitz", "Auschwitz", "Auschwitz", "Auschwitz"),
-      text: L("Im größten Vernichtungslager wurden über eine Million Menschen ermordet.", "In the largest extermination camp, over a million people were murdered.", "A legnagyobb megsemmisítő táborban több mint egymillió embert gyilkoltak meg.", "În cel mai mare lagăr de exterminare, peste un milion de oameni au fost uciși."),
-      svg: { type: "geschichte-diagram", name: "TrenchSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "cam", label: L("Lager", "Camp", "Tábor", "Lagăr") },
-          { id: "vic", label: L("Opfer", "Victims", "Áldozatok", "Victime") },
-        ],
-        items: [
-          { text: L("Gaskammern", "Gas chambers", "Gázkamrák", "Camere de gazare"), bucketId: "cam" },
-          { text: L("Juden", "Jews", "Zsidók", "Evrei"), bucketId: "vic" },
-          { text: L("Sinti & Roma", "Sinti & Roma", "Sintik és romák", "Sinti și romi"), bucketId: "vic" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "holocaust",
+      id: "helmutkohl",
+      title: L("Helmut Kohl"),
+      hint1: L("Kanzler der Einheit."),
+      hint2: L("Er nutzte die Chance zur Einigung."),
+      svg: { type: "word-card", word: L("Kanzler"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "highlight-text", text: L("Kohl versprach 'blühende Landschaften'."), instruction: L("Wer war das?") },
+      quiz: { question: L("Wer war Bundeskanzler 1990?"), choices: [L("Helmut Kohl"), L("Willy Brandt"), L("Angela Merkel"), L("Gerhard Schröder")], answer: L("Helmut Kohl") }
     },
     {
-      title: L("Anne Frank", "Anne Frank", "Anne Frank", "Anne Frank"),
-      text: L("Ihr Tagebuch wurde zum Symbol für das Schicksal der verfolgten Juden.", "Her diary became a symbol of the fate of the persecuted Jews.", "Naplója az üldözött zsidók sorsának jelképévé vált.", "Jurnalul ei a devenit un simbol al sorții evreilor persecutați."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Anne Frank schrieb ein __. Sie lebte in __.", "Anne Frank wrote a __. She lived in __.", "Anne Frank egy __-t írt. __-ban élt.", "Anne Frank a scris un __. Ea a trăit în __."),
-        gaps: [
-          { index: 0, options: [L("Tagebuch", "Diary", "naplót", "jurnal"), L("Lied", "Song", "dalt", "cântec")], correct: 0 },
-          { index: 1, options: ["Amsterdam", "Berlin", "Paris"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "holocaust",
+      id: "einheitsvertrag",
+      title: L("3. Oktober 1990"),
+      hint1: L("Tag der Deutschen Einheit."),
+      hint2: L("Offizielles Ende der Teilung."),
+      svg: { type: "comparison-table", rows: [{ left: L("DDR"), right: L("Beitritt") }, { left: L("Einheit"), right: L("Vollzug") }] },
+      interactive: { type: "word-order", words: [L("Ein"), L("einiges"), L("Deutschland")], instruction: L("Was geschah?") },
+      quiz: { question: L("Was ist der Nationalfeiertag Deutschlands?"), choices: [L("3. Oktober"), L("9. November"), L("1. Mai"), L("24. Dezember")], answer: L("3. Oktober") }
     },
-  ],
+    {
+      id: "zweiplusvier",
+      title: L("Zwei-plus-Vier-Vertrag"),
+      hint1: L("Vertrag zwischen DE und Siegermächten."),
+      hint2: L("Souveränität für das vereinte Deutschland."),
+      svg: { type: "icon-grid", items: [{ emoji: "🤝", label: "Vertrag" }, { emoji: "🌍", label: "Welt" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("2"), right: L("Deutsche Staaten") }, { left: L("4"), right: L("Siegermächte") }] },
+      quiz: { question: L("Wer musste der Einheit zustimmen?"), choices: [L("Siegermächte"), L("Nur die UN"), L("Niemand"), L("Nur der Papst")], answer: L("Siegermächte") }
+    },
+    {
+      id: "treuhand",
+      title: L("Treuhand"),
+      hint1: L("Verkauf der DDR-Wirtschaft."),
+      hint2: L("Viele Fabriken wurden geschlossen."),
+      svg: { type: "text-bubbles", items: [{ text: "Fabrik", color: "#fff", bg: "#475569" }, { text: "Aus", color: "#fff", bg: "#991b1b" }] },
+      interactive: { type: "gap-fill", text: L("Viele verloren ihre __."), gaps: [{ index: 0, options: ["Arbeit", "Sprache"], correct: 0 }] },
+      quiz: { question: L("Was machte die Treuhandanstalt?"), choices: [L("DDR-Betriebe privatisieren"), L("Häuser bauen"), L("Geld verschenken"), L("Nichts")], answer: L("DDR-Betriebe privatisieren") }
+    },
+    {
+      id: "ostalgie",
+      title: L("Ostalgie"),
+      hint1: L("Erinnerung an das Leben in der DDR."),
+      hint2: L("Trabi, Ampelmännchen, Sandmännchen."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚗", label: "Trabi" }, { emoji: "🚦", label: "Ampel" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("DDR-Symbole"), items: [L("Trabi"), L("FDJ")] }] },
+      quiz: { question: L("Wie hieß das bekannte DDR-Auto?"), choices: [L("Trabant"), L("VW Käfer"), L("Mercedes"), L("Fiat")], answer: L("Trabant") }
+    },
+    {
+      id: "bluehende_landschaften",
+      title: L("Blühende Landschaften"),
+      hint1: L("Kohls Versprechen für den Osten."),
+      hint2: L("Der Aufbau dauerte länger als gedacht."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Aufbau" }] },
+      interactive: { type: "sentence-build", words: [L("Der"), L("Aufbau"), L("Ost"), L("begann")], instruction: L("Was geschah?") },
+      quiz: { question: L("Was meinte Kohl mit 'blühenden Landschaften'?"), choices: [L("Wirtschaftlicher Erfolg"), L("Nur echte Blumen"), L("Wüsten"), L("Nichts")], answer: L("Wirtschaftlicher Erfolg") }
+    },
+    {
+      id: "berlin_hauptstadt",
+      title: L("Hauptstadtbeschluss"),
+      hint1: L("Berlin wird wieder Sitz von Regierung."),
+      hint2: L("Umzug von Bonn nach Berlin."),
+      svg: { type: "comparison-table", rows: [{ left: L("Alt"), right: L("Bonn") }, { left: L("Neu"), right: L("Berlin") }] },
+      interactive: { type: "lang-mcq", question: L("Welche Stadt war Hauptstadt der BRD vor 1990?"), choices: [L("Bonn"), L("München"), L("Hamburg")], answer: L("Bonn") }
+    },
+    {
+      id: "schabowski",
+      title: L("Günter Schabowski"),
+      hint1: L("Unbeabsichtigte Maueröffnung."),
+      hint2: L("Das tritt nach meiner Kenntnis... sofort, unverzüglich."),
+      svg: { type: "text-bubbles", items: [{ text: "Sofort", color: "#fff", bg: "#16a34a" }, { text: "Irrtum", color: "#fff", bg: "#ea580c" }] },
+      interactive: { type: "highlight-text", text: L("Schabowski öffnete die Grenze durch einen Versprecher."), instruction: L("Was passierte?") },
+      quiz: { question: L("Welcher Satz öffnete die Grenze?"), choices: [L("Sofort, unverzüglich"), L("Nächste Woche"), L("Vielleicht"), L("Nichts")], answer: L("Sofort, unverzüglich") }
+    },
+    {
+      id: "begrueszungsgeld",
+      title: L("Begrüßungsgeld"),
+      hint1: L("100 DM für DDR-Bürger."),
+      hint2: L("Erster Einkauf im Westen."),
+      svg: { type: "icon-grid", items: [{ emoji: "💶", label: "100 DM" }, { emoji: "🛒", label: "Kauf" }] },
+      interactive: { type: "tap-count", count: 100, instruction: L("Wie viele DM gab es?") },
+      quiz: { question: L("Wie viel Geld bekamen DDR-Bürger bei der Einreise?"), choices: [L("100 DM"), L("10 DM"), L("1000 DM"), L("Nichts")], answer: L("100 DM") }
+    },
+    {
+      id: "stasi_akten",
+      title: L("Akteur"),
+      hint1: L("Bürger stürmten Stasi-Zentralen."),
+      hint2: L("Rettung der Akten vor der Vernichtung."),
+      svg: { type: "word-card", word: L("Akte"), color: "#fff", bg: "#475569" },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Bürger"), right: L("Sturm") }, { left: L("Akten"), right: L("Wahrheit") }] },
+      quiz: { question: L("Was wollten die Bürger in den Stasi-Zentralen?"), choices: [L("Akten sichern"), L("Geld klauen"), L("Kaffee trinken"), L("Nichts")], answer: L("Akten sichern") }
+    },
+    {
+      id: "runder_tisch",
+      title: L("Runder Tisch"),
+      hint1: L("Gespräche zwischen Regierung und Opposition."),
+      hint2: L("Friedlicher Übergang zur Demokratie."),
+      svg: { type: "text-bubbles", items: [{ text: "Dialog", color: "#fff", bg: "#3b82f6" }, { text: "Frieden", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "gap-fill", text: L("Ein __ Übergang."), gaps: [{ index: 0, options: ["friedlicher", "blutiger"], correct: 0 }] },
+      quiz: { question: L("Was war der 'Runde Tisch'?"), choices: [L("Forum für Gespräche"), L("Ein Möbelstück"), L("Ein Marktplatz"), L("Nichts")], answer: L("Forum für Gespräche") }
+    },
+    {
+      id: "fazit_einheit",
+      title: L("Fazit"),
+      hint1: L("Deutschland ist wieder eins."),
+      hint2: L("Herausforderung des Zusammenwachsens."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇩🇪", label: "Eins" }, { emoji: "🇪🇺", label: "Europa" }] },
+      interactive: { type: "word-order", words: [L("Zusammenwachsen"), L("was"), L("zusammen"), L("gehört")], instruction: L("Brandts Satz?") },
+      quiz: { question: L("Was ist Deutschland heute?"), choices: [L("Ein demokratischer Einheitsstaat"), L("Zwei Staaten"), L("Ein Kaiserreich"), L("Nichts")], answer: L("Ein demokratischer Einheitsstaat") }
+    }
+  ]
 };
-// ─── ISLAND 7: KALTER KRIEG ──────────────────────────────────────────────────
 
+// ─── ISLAND 7: EUROPA & GLOBALISIERUNG ─────────────────────────────────────
 const I7: IslandSpec = {
   id: "i7",
-  title: L("Der Kalte Krieg", "The Cold War", "A hidegháború", "Războiul Rece"),
+  title: L("Modernes Europa"),
   topics: [
     {
-      title: L("Eiserner Vorhang", "Iron Curtain", "Vasfüggöny", "Cortina de fier"),
-      text: L("Churchills Metapher für die Teilung Europas in einen westlichen und einen östlichen Block.", "Churchill's metaphor for the division of Europe into a Western and an Eastern block.", "Churchill metaforája Európa nyugati és keleti blokkra való felosztására.", "Metafora lui Churchill pentru divizarea Europei într-un bloc vestic și unul estic."),
-      svg: { type: "geschichte-diagram", name: "BerlinWallSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Westen", "West", "Nyugat", "Vest"), right: L("Demokratie", "Democracy", "Demokrácia", "Democrație") },
-          { left: L("Osten", "East", "Kelet", "Est"), right: L("Kommunismus", "Communism", "Kommunizmus", "Comunism") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "kalter_krieg",
+      id: "eu_gruendung",
+      title: L("Die EU"),
+      hint1: L("Zusammenschluss europäischer Staaten."),
+      hint2: L("Frieden und Wohlstand durch Handel."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇪🇺", label: "EU" }, { emoji: "🤝", label: "Bund" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("EU"), right: L("Brüssel") }, { left: L("Euro"), right: L("Währung") }] },
+      quiz: { question: L("Wo ist der Hauptsitz der EU?"), choices: [L("Brüssel"), L("Berlin"), L("Paris"), L("London")], answer: L("Brüssel") }
     },
     {
-      title: L("NATO & Warschauer Pakt", "NATO & Warsaw Pact", "NATO és Varsói Szerződés", "NATO și Pactul de la Varșovia"),
-      text: L("Die beiden Militärbündnisse standen sich jahrzehntelang schwer bewaffnet gegenüber.", "The two military alliances faced each other heavily armed for decades.", "A két katonai szövetség évtizedekig állt egymással szemben állig felfegyverkezve.", "Cele două alianțe militare s-au confruntat timp de decenii, fiind puternic înarmate."),
-      svg: { type: "geschichte-diagram", name: "ShieldSvg" },
-      interactive: (k) => ({
-        type: "drag-to-bucket",
-        buckets: [
-          { id: "west", label: L("Westen (NATO)", "West", "Nyugat", "Vest") },
-          { id: "east", label: L("Osten (Pakt)", "East", "Kelet", "Est") },
-        ],
-        items: [
-          { text: "USA", bucketId: "west" },
-          { text: "BRD", bucketId: "west" },
-          { text: "UdSSR", bucketId: "east" },
-          { text: "DDR", bucketId: "east" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "kalter_krieg",
+      id: "euro",
+      title: L("Der Euro"),
+      hint1: L("Gemeinsame Währung seit 2002."),
+      hint2: L("Wegfall von Umtauschgebühren."),
+      svg: { type: "text-bubbles", items: [{ text: "Geld", color: "#fff", bg: "#fbbf24" }, { text: "Europa", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "tap-count", count: 2002, instruction: L("In welchem Jahr kam das Bargeld?") },
+      quiz: { question: L("Seit wann gibt es Euro-Bargeld?"), choices: [L("2002"), L("1990"), L("2010"), L("1945")], answer: L("2002") }
     },
     {
-      title: L("Mauerbau 1961", "Berlin Wall 1961", "A fal felépítése", "Construirea Zidului"),
-      text: L("Um die Fluchtbewegung zu stoppen, baute die DDR die Berliner Mauer.", "To stop the wave of escapees, the GDR built the Berlin Wall.", "A menekülthullám megállítására az NDK felépítette a berlini falat.", "Pentru a opri valul de refugiați, RDG a construit Zidul Berlinului."),
-      svg: { type: "geschichte-diagram", name: "BerlinWallSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Baubeginn: 13. __ 1961. Stadt: __.", "Start: Aug 13, 1961. City: __.", "Építés kezdete: 1961. augusztus 13. Város: __.", "Începutul construcției: 13 __ 1961. Orașul: __."),
-        gaps: [
-          { index: 0, options: ["August", "Juni", "Oktober"], correct: 0 },
-          { index: 1, options: ["Berlin", "Bonn", "Prag"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "kalter_krieg",
+      id: "schengen",
+      title: L("Schengen"),
+      hint1: L("Grenzen ohne Kontrollen."),
+      hint2: L("Freies Reisen in Europa."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Frei" }] },
+      interactive: { type: "gap-fill", text: L("Reisen ohne __."), gaps: [{ index: 0, options: ["Kontrolle", "Auto"], correct: 0 }] },
+      quiz: { question: L("Was bedeutet das Schengen-Abkommen?"), choices: [L("Keine Grenzkontrollen"), L("Günstiges Benzin"), L("Mehr Steuern"), L("Nichts")], answer: L("Keine Grenzkontrollen") }
     },
     {
-      title: L("Kuba-Krise 1962", "Cuban Missile Crisis", "Kubai rakétaválság", "Criza rachetelor din Cuba"),
-      text: L("Die Stationierung sowjetischer Raketen auf Kuba brachte die Welt an den Rand eines Atomkriegs.", "The deployment of Soviet missiles in Cuba brought the world to the brink of nuclear war.", "A szovjet rakéták kubai telepítése az atomháború szélére sodorta a világot.", "Amplasarea rachetelor sovietice în Cuba a adus lumea în pragul unui război nuclear."),
-      svg: { type: "geschichte-diagram", name: "TrenchSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: "USA", right: "Kennedy" },
-          { left: "UdSSR", right: "Chruschtschow" },
-          { left: "Kuba", right: "Castro" },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "kalter_krieg",
+      id: "digitalisierung",
+      title: L("Internet"),
+      hint1: L("Revolution der Kommunikation."),
+      hint2: L("Weltweite Vernetzung."),
+      svg: { type: "icon-grid", items: [{ emoji: "💻", label: "Netz" }, { emoji: "🌐", label: "Welt" }] },
+      interactive: { type: "highlight-text", text: L("Das Internet hat die Welt verändert."), instruction: L("Wichtigste Erfindung?") },
+      quiz: { question: L("Was veränderte die Welt ab den 90ern?"), choices: [L("Internet"), L("Dampfmaschine"), L("Rad"), L("Nichts")], answer: L("Internet") }
     },
     {
-      title: L("Die Stasi", "The Stasi", "A Stasi", "Stasi"),
-      text: L("Das Ministerium für Staatssicherheit überwachte die Bürger der DDR lückenlos.", "The Ministry for State Security monitored the citizens of the GDR completely.", "Az Állambiztonsági Minisztérium folyamatosan megfigyelte az NDK állampolgárait.", "Ministerul Securității Statului monitoriza complet cetățenii RDG."),
-      svg: { type: "geschichte-diagram", name: "RomanSoldierSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Die Stasi war die __. Sie sammelte __.", "The Stasi was the __. It collected __.", "A Stasi volt a __. __ gyűjtött.", "Stasi a fost __. Colecta __."),
-        gaps: [
-          { index: 0, options: [L("Geheimpolizei", "Secret Police", "titkosrendőrség", "poliția secretă"), L("Feuerwehr", "Fire Dept", "tűzoltóság", "pompierii")], correct: 0 },
-          { index: 1, options: [L("Informationen", "Information", "információkat", "informații"), L("Briefmarken", "Stamps", "bélyegeket", "timbre")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "kalter_krieg",
+      id: "klimawandel",
+      title: L("Umweltschutz"),
+      hint1: L("Globale Erwärmung."),
+      hint2: L("Herausforderung für die Zukunft."),
+      svg: { type: "text-bubbles", items: [{ text: "Erde", color: "#fff", bg: "#16a34a" }, { text: "Heiß", color: "#fff", bg: "#ea580c" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Probleme"), items: [L("CO2"), L("Plastik")] }] },
+      quiz: { question: L("Was ist eine große heutige Sorge?"), choices: [L("Klimawandel"), L("Zu viel Gold"), L("Kein Internet"), L("Nichts")], answer: L("Klimawandel") }
     },
-  ],
+    {
+      id: "maastricht",
+      title: L("Maastricht"),
+      hint1: L("Vertrag zur Gründung der EU 1992."),
+      hint2: L("Aus der EG wurde die EU."),
+      svg: { type: "word-card", word: L("Union"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "match-pairs", pairs: [{ left: L("1992"), right: L("Vertrag") }, { left: L("Maastricht"), right: L("Ort") }] },
+      quiz: { question: L("Wann wurde der Maastricht-Vertrag unterzeichnet?"), choices: [L("1992"), L("1945"), L("1961"), L("2020")], answer: L("1992") }
+    },
+    {
+      id: "demokratisierung",
+      title: L("Demokratiewelle"),
+      hint1: L("Ende vieler Diktaturen."),
+      hint2: L("Besonders in Osteuropa nach 1989."),
+      svg: { type: "comparison-table", rows: [{ left: L("Alt"), right: L("Diktatur") }, { left: L("Neu"), right: L("Demokratie") }] },
+      interactive: { type: "word-order", words: [L("Freiheit"), L("für"), L("alle"), L("Menschen")], instruction: L("Was war das Ziel?") },
+      quiz: { question: L("Was geschah in Osteuropa nach 1989?"), choices: [L("Demokratisierung"), L("Mehr Mauern"), L("Keine Änderung"), L("Nichts")], answer: L("Demokratisierung") }
+    },
+    {
+      id: "globalisierung",
+      title: L("Globalisierung"),
+      hint1: L("Weltweite Wirtschaft."),
+      hint2: L("Waren aus aller Welt im Supermarkt."),
+      svg: { type: "icon-grid", items: [{ emoji: "🌍", label: "Welt" }, { emoji: "📦", label: "Handel" }] },
+      interactive: { type: "gap-fill", text: L("Die Welt wird ein __."), gaps: [{ index: 0, options: ["Dorf", "Haus"], correct: 0 }] },
+      quiz: { question: L("Was bedeutet Globalisierung?"), choices: [L("Weltweite Vernetzung"), L("Nur im eigenen Dorf"), L("Kein Handel mehr"), L("Nichts")], answer: L("Weltweite Vernetzung") }
+    },
+    {
+      id: "migration_modern",
+      title: L("Migration"),
+      hint1: L("Menschen verlassen ihre Heimat."),
+      hint2: L("Gründe: Krieg, Not, Arbeit."),
+      svg: { type: "text-bubbles", items: [{ text: "Flucht", color: "#fff", bg: "#475569" }, { text: "Hoffnung", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Grund"), right: L("Krieg") }, { left: L("Ziel"), right: L("Sicherheit") }] },
+      quiz: { question: L("Warum ziehen Menschen in andere Länder?"), choices: [L("Vielfältige Gründe"), L("Nur zum Spaß"), L("Gar nicht"), L("Nichts")], answer: L("Vielfältige Gründe") }
+    },
+    {
+      id: "friedensnobelpreis_eu",
+      title: L("EU & Frieden"),
+      hint1: L("2012 erhielt die EU den Nobelpreis."),
+      hint2: L("Für den Beitrag zu Frieden und Versöhnung."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Nobelpreis" }] },
+      interactive: { type: "tap-count", count: 2012, instruction: L("In welchem Jahr war die Verleihung?") },
+      quiz: { question: L("Welchen Preis erhielt die EU 2012?"), choices: [L("Friedensnobelpreis"), L("Oscar"), L("Goldene Kamera"), L("Nichts")], answer: L("Friedensnobelpreis") }
+    },
+    {
+      id: "ostbeidritt_eu",
+      title: L("Osterweiterung"),
+      hint1: L("Beitritt vieler osteuropäischer Staaten."),
+      hint2: L("Polen, Ungarn, Tschechien etc."),
+      svg: { type: "icon-grid", items: [{ emoji: "🇵🇱", label: "Polen" }, { emoji: "🇭🇺", label: "Ungarn" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Beitritt"), items: [L("2004")] }] },
+      quiz: { question: L("Wann traten viele östliche Länder bei?"), choices: [L("2004"), L("1990"), L("1945"), L("2020")], answer: L("2004") }
+    },
+    {
+      id: "brexit",
+      title: L("Brexit"),
+      hint1: L("Austritt Großbritanniens."),
+      hint2: L("Erster Austritt eines Landes."),
+      svg: { type: "word-card", word: L("Exit"), color: "#fff", bg: "#991b1b" },
+      interactive: { type: "gap-fill", text: L("Land: __."), gaps: [{ index: 0, options: ["Großbritannien", "Frankreich"], correct: 0 }] },
+      quiz: { question: L("Welches Land verließ die EU?"), choices: [L("Großbritannien"), L("Deutschland"), L("Italien"), L("Spanien")], answer: L("Großbritannien") }
+    },
+    {
+      id: "werte_eu",
+      title: L("Werte"),
+      hint1: L("Menschenwürde, Freiheit, Demokratie."),
+      hint2: L("Gemeinsame Basis der EU."),
+      svg: { type: "text-bubbles", items: [{ text: "Recht", color: "#fff", bg: "#16a34a" }, { text: "Freiheit", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "highlight-text", text: L("Die EU schützt die Grundrechte der Bürger."), instruction: L("Was ist wichtig?") },
+      quiz: { question: L("Was ist ein Wert der EU?"), choices: [L("Demokratie"), L("Diktatur"), L("Sklaverei"), L("Zensur")], answer: L("Demokratie") }
+    },
+    {
+      id: "parlament_eu",
+      title: L("EU-Parlament"),
+      hint1: L("Direkt gewähltes Organ."),
+      hint2: L("Sitz in Straßburg und Brüssel."),
+      svg: { type: "comparison-table", rows: [{ left: L("Bürger"), right: L("Wahl") }, { left: L("Europa"), right: L("Gesetz") }] },
+      interactive: { type: "sentence-build", words: [L("Wir"), L("wählen"), L("das"), L("Parlament")], instruction: L("Was tun Bürger?") },
+      quiz: { question: L("Wer wählt das EU-Parlament?"), choices: [L("Die Bürger"), L("Nur die Könige"), L("Die US-Regierung"), L("Niemand")], answer: L("Die Bürger") }
+    },
+    {
+      id: "zukunft_eu",
+      title: L("Herausforderung"),
+      hint1: L("Zusammenhalt in Krisenzeiten."),
+      hint2: L("Wirtschaft und Sicherheit."),
+      svg: { type: "icon-grid", items: [{ emoji: "❓", label: "Zukunft" }, { emoji: "🇪🇺", label: "Gemeinsam" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Gemeinsam"), right: L("Stark") }, { left: L("Einsam"), right: L("Schwach") }] },
+      quiz: { question: L("Was ist wichtig für Europas Zukunft?"), choices: [L("Zusammenarbeit"), L("Streit"), L("Abschottung"), L("Nichts")], answer: L("Zusammenarbeit") }
+    }
+  ]
 };
 
-// ─── ISLAND 8: WIEDERVEREINIGUNG ─────────────────────────────────────────────
-
+// ─── ISLAND 8: WIEDERHOLUNG MODERNE ─────────────────────────────────────────
 const I8: IslandSpec = {
   id: "i8",
-  title: L("Wiedervereinigung", "German Reunification", "Újraegyesítés", "Reunificarea"),
+  title: L("Wiederholung"),
   topics: [
     {
-      title: L("Gorbatschow", "Gorbachev", "Gorbacsov", "Gorbaciov"),
-      text: L("Mit Glasnost und Perestroika leitete er das Ende des Kalten Krieges ein.", "With Glasnost and Perestroika, he initiated the end of the Cold War.", "Glasznoszttyal és peresztrojkával elindította a hidegháború végét.", "Cu Glasnost și Perestroika, el a inițiat sfârșitul Războiului Rece."),
-      svg: { type: "geschichte-diagram", name: "PeaceDoveSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: "Glasnost", right: L("Offenheit", "Openness", "Nyíltság", "Deschidere") },
-          { left: "Perestroika", right: L("Umbau", "Restructuring", "Átalakítás", "Restructurare") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiedervereinigung",
+      id: "ww1_vs_ww2",
+      title: L("Weltkriege"),
+      hint1: L("Vergleich der beiden Katastrophen."),
+      hint2: L("1914-18 und 1939-45."),
+      svg: { type: "comparison-table", rows: [{ left: L("1. WK"), right: L("1914") }, { left: L("2. WK"), right: L("1939") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Kaiser"), right: L("1. WK") }, { left: L("Hitler"), right: L("2. WK") }] },
+      quiz: { question: L("Welcher Krieg war früher?"), choices: [L("Erster Weltkrieg"), L("Zweiter Weltkrieg"), L("Kalter Krieg"), L("Nichts")], answer: L("Erster Weltkrieg") }
     },
     {
-      title: L("Montagsdemos", "Monday Demonstrations", "Hétfői tüntetések", "Demonstrațiile de luni"),
-      text: L("In Leipzig und anderen Städten protestierten die Menschen friedlich: 'Wir sind das Volk!'", "In Leipzig and other cities, people protested peacefully: 'We are the people!'", "Lipcsében és más városokban az emberek békésen tüntettek: „Mi vagyunk a nép!”", "În Leipzig și în alte orașe, oamenii au protestat pașnic: „Noi suntem poporul!”"),
-      svg: { type: "geschichte-diagram", name: "RevolutionSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Stadt: __. Parole: Wir sind das __!", "City: __. Slogan: We are the __!", "Város: __. Jelszó: Mi vagyunk a __!", "Orașul: __. Slogan: Noi suntem __!"),
-        gaps: [
-          { index: 0, options: ["Leipzig", "Bonn", "München"], correct: 0 },
-          { index: 1, options: [L("Volk", "People", "nép", "poporul"), L("Heer", "Army", "hadsereg", "armata")], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiedervereinigung",
+      id: "demokratie_check",
+      title: L("Staatsformen"),
+      hint1: L("Weimar, NS-Zeit, BRD/DDR."),
+      hint2: L("Wandel der Regierungen."),
+      svg: { type: "text-bubbles", items: [{ text: "Frei", color: "#fff", bg: "#16a34a" }, { text: "Unfrei", color: "#fff", bg: "#dc2626" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Diktatur"), items: [L("NS-Zeit"), L("DDR")] }, { label: L("Demokratie"), items: [L("BRD")] }] },
+      quiz: { question: L("Was war die DDR?"), choices: [L("Diktatur"), L("Königreich"), L("Freie Republik"), L("Nichts")], answer: L("Diktatur") }
     },
     {
-      title: L("Mauerfall 1989", "Fall of the Wall", "A fal leomlása", "Căderea Zidului"),
-      text: L("Am 9. November 1989 öffnete sich die Grenze zwischen Ost- und West-Berlin.", "On November 9, 1989, the border between East and West Berlin opened.", "1989. november 9-én megnyílt a határ Kelet- és Nyugat-Berlin között.", "La 9 noiembrie 1989, granița dintre Berlinul de Est și cel de Vest s-a deschis."),
-      svg: { type: "geschichte-diagram", name: "BerlinWallSvg" },
-      interactive: (k) => ({
-        type: "word-order",
-        words: ["9. Nov 1989", "1. Juli 1990", "3. Okt 1990"],
-        instruction: L("Ordne die Schritte zur Einheit", "Order the steps to unity", "Rendezd az egység felé vezető lépéseket", "Ordonează pașii către unitate"),
-      }),
-      quiz: "wiedervereinigung",
+      id: "timeline_20jh",
+      title: L("Zeitstrahl"),
+      hint1: L("Reihenfolge der Ereignisse."),
+      hint2: L("Vom Kaiser zur EU."),
+      svg: { type: "image-label", labels: [{ x: 10, y: 50, text: "1914" }, { x: 90, y: 50, text: "2000" }] },
+      interactive: { type: "word-order", words: ["1914", "1933", "1945", "1989"], instruction: L("Ordne!") } ,
+      quiz: { question: L("Was geschah 1989?"), choices: [L("Mauerfall"), L("Machtergreifung"), L("Kriegsbeginn"), L("Nichts")], answer: L("Mauerfall") }
     },
     {
-      title: L("3. Oktober 1990", "October 3, 1990", "1990. október 3.", "3 octombrie 1990"),
-      text: L("Der Tag der Deutschen Einheit markiert den offiziellen Beitritt der DDR zur Bundesrepublik.", "The Day of German Unity marks the official accession of the GDR to the Federal Republic.", "A német egység napja az NDK hivatalos csatlakozását jelenti a Szövetségi Köztársasághoz.", "Ziua Unității Germane marchează aderarea oficială a RDG la Republica Federală."),
-      svg: { type: "geschichte-diagram", name: "CrownSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Staatsform: __. Bundeskanzler: __.", "State form: __. Chancellor: __.", "Államforma: __. Kancellár: __.", "Forma de stat: __. Cancelar: __."),
-        gaps: [
-          { index: 0, options: [L("Einheit", "Unity", "Egység", "Unitate"), L("Teilung", "Division", "Megosztottság", "Divizare")], correct: 0 },
-          { index: 1, options: ["Helmut Kohl", "Willy Brandt", "Angela Merkel"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiedervereinigung",
+      id: "menschen_20jh",
+      title: L("Personen"),
+      hint1: L("Wer prägte das Jahrhundert?"),
+      hint2: L("Adenauer, Brandt, Kohl."),
+      svg: { type: "icon-grid", items: [{ emoji: "👨", label: "Adenauer" }, { emoji: "👨", label: "Brandt" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Einheit"), right: L("Kohl") }, { left: L("West"), right: L("Adenauer") }] },
+      quiz: { question: L("Wer war der Kanzler der Einheit?"), choices: [L("Helmut Kohl"), L("Willy Brandt"), L("Adolf Hitler"), L("Nichts")], answer: L("Helmut Kohl") }
     },
     {
-      title: L("Zwei-plus-Vier", "Two-plus-Four", "Kettő plusz négy", "Doi plus Patru"),
-      text: L("Der Vertrag zwischen den deutschen Staaten und den Siegermächten regelte die volle Souveränität.", "The treaty between the German states and the winning powers regulated full sovereignty.", "A német államok és a győztes hatalmak közötti szerződés rendezte a teljes szuverenitást.", "Tratatul dintre statele germane și puterile învingătoare a reglementat suveranitatea deplină."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: "2", right: L("Deutsche Staaten", "German states", "Német államok", "Statele germane") },
-          { left: "4", right: L("Siegermächte", "Winning powers", "Győztes hatalmak", "Puterile învingătoare") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "wiedervereinigung",
+      id: "symbole_20jh",
+      title: L("Symbole"),
+      hint1: L("Mauer, Hakenkreuz, Euro."),
+      hint2: L("Zeichen der Geschichte."),
+      svg: { type: "text-bubbles", items: [{ text: "Mauer", color: "#fff", bg: "#475569" }, { text: "Sterne", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "gap-fill", text: L("Die Sterne stehen für __."), gaps: [{ index: 0, options: ["Europa", "Deutschland"], correct: 0 }] },
+      quiz: { question: L("Was ist ein Symbol für die Teilung?"), choices: [L("Die Mauer"), L("Der Euro"), L("Der Rhein"), L("Nichts")], answer: L("Die Mauer") }
     },
-  ],
+    {
+      id: "technik_wandel",
+      title: L("Fortschritt"),
+      hint1: L("Vom Zeppelin zum Computer."),
+      hint2: L("Beschleunigung des Lebens."),
+      svg: { type: "icon-grid", items: [{ emoji: "📟", label: "Alt" }, { emoji: "📱", label: "Neu" }] },
+      interactive: { type: "highlight-text", text: L("Technik veränderte den Alltag der Menschen."), instruction: L("Was geschah?") },
+      quiz: { question: L("Was ist eine moderne Erfindung?"), choices: [L("Smartphone"), L("Dampfmaschine"), L("Pflug"), L("Nichts")], answer: L("Smartphone") }
+    },
+    {
+      id: "ideologien_mix",
+      title: L("Ismen"),
+      hint1: L("Sozialismus, Nationalismus, Liberalismus."),
+      hint2: L("Ideen, die die Welt bewegten."),
+      svg: { type: "word-card", word: L("Ideen"), color: "#fff", bg: "#1e3a8a" },
+      interactive: { type: "lang-mcq", question: L("Was will the Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur")], answer: L("Freiheit") }
+    },
+    {
+      id: "grenzen_mix",
+      title: L("Grenzen"),
+      hint1: L("Vom Eisernen Vorhang zum offenen Europa."),
+      hint2: L("Wandel der Schlagbäume."),
+      svg: { type: "comparison-table", rows: [{ left: L("Gestern"), right: L("Stacheldraht") }, { left: L("Heute"), right: L("Offen") }] },
+      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele (BRD/DDR) deutsche Staaten?") },
+      quiz: { question: L("Was trennte Europa jahrzehntelang?"), choices: [L("Eiserner Vorhang"), L("Der Äquator"), L("Der Himalaya"), L("Nichts")], answer: L("Eiserner Vorhang") }
+    },
+    {
+      id: "wirtschaft_check",
+      title: L("Wirtschaft"),
+      hint1: L("Inflation, Wunder, Globalisierung."),
+      hint2: L("Wie das Geld floss."),
+      svg: { type: "text-bubbles", items: [{ text: "Mark", color: "#fff", bg: "#fbbf24" }, { text: "Euro", color: "#fff", bg: "#3b82f6" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("1923"), right: L("Inflation") }, { left: L("1950er"), right: L("Wunder") }] },
+      quiz: { question: L("Wie hieß die Währung vor dem Euro?"), choices: [L("D-Mark"), L("Dollar"), L("Pfund"), L("Nichts")], answer: L("D-Mark") }
+    },
+    {
+      id: "widerstand_helden",
+      title: L("Zivilcourage"),
+      hint1: L("Nein sagen können."),
+      hint2: L("Werte verteidigen."),
+      svg: { type: "icon-grid", items: [{ emoji: "🤝", label: "Mut" }, { emoji: "⚖️", label: "Recht" }] },
+      interactive: { type: "sentence-build", words: [L("Mut"), L("ist"), L("wichtig"), L("für"), L("Freiheit")], instruction: L("Lektion?") },
+      quiz: { question: L("Was lernt man aus der Geschichte?"), choices: [L("Zivilcourage ist nötig"), L("Gewalt siegt immer"), L("Nichts"), L("Alles egal")], answer: L("Zivilcourage ist nötig") }
+    },
+    {
+      id: "frauen_wandel",
+      title: L("Rolle der Frau"),
+      hint1: L("Vom Wahlrecht zur Gleichberechtigung."),
+      hint2: L("Langer Weg zur Freiheit."),
+      svg: { type: "word-card", word: L("Gleichheit"), color: "#fff", bg: "#db2777" },
+      interactive: { type: "gap-fill", text: L("Frauen erhielten das __."), gaps: [{ index: 0, options: [L("Wahlrecht"), L("Fahrverbot")], correct: 0 }] },
+      quiz: { question: L("In welchem Jahr erhielten Frauen in DE das Wahlrecht?"), choices: [L("1919"), L("1871"), L("1945"), L("2000")], answer: L("1919") }
+    },
+    {
+      id: "globalisierung_check",
+      title: L("Vernetzung"),
+      hint1: L("Weltweite Abhängigkeit."),
+      hint2: L("Chancen und Risiken."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Welt" }] },
+      interactive: { type: "lang-mcq", question: L("Was bedeutet Globalisierung?"), choices: [L("Weltweiter Handel"), L("Nur lokaler Markt"), L("Ende der Technik")], answer: L("Weltweiter Handel") }
+    },
+    {
+      id: "kultur_mix",
+      title: L("Kultur"),
+      hint1: L("Vom Stummfilm zum Streaming."),
+      hint2: L("Unterhaltung für alle."),
+      svg: { type: "icon-grid", items: [{ emoji: "🎬", label: "Film" }, { emoji: "📻", label: "Radio" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("20er"), right: L("Stummfilm") }, { left: L("Heute"), right: L("Internet") }] },
+      quiz: { question: L("Was war eine neue Technik in den 20ern?"), choices: [L("Rundfunk"), L("Smartphone"), L("Dampfschiff"), L("Nichts")], answer: L("Rundfunk") }
+    },
+    {
+      id: "ursache_folge_mix",
+      title: L("Logik"),
+      hint1: L("Zusammenhänge erkennen."),
+      hint2: L("Warum passierte was?"),
+      svg: { type: "comparison-table", rows: [{ left: L("Not"), right: L("Radikale") }, { left: L("Mauerfall"), right: L("Einheit") }] },
+      interactive: { type: "highlight-text", text: L("Wirtschaftskrisen führen oft zu politischer Instabilität."), instruction: L("Was ist die Gefahr?") },
+      quiz: { question: L("Was war die Folge des Mauerfalls?"), choices: [L("Die Einheit"), L("Ein neuer Krieg"), L("Ein dritter Staat"), L("Nichts")], answer: L("Die Einheit") }
+    },
+    {
+      id: "abschluss_20jh",
+      title: L("Das 20. Jahrhundert"),
+      hint1: L("Jahrhundert der Extreme."),
+      hint2: L("Schreckliche Kriege und große Hoffnung."),
+      svg: { type: "word-card", word: L("Geschichte"), color: "#fff", bg: "#16a34a" },
+      interactive: { type: "tap-count", count: 100, instruction: L("Wie viele Jahre hat ein Jahrhundert?") },
+      quiz: { question: L("Wie nennt man das 20. Jahrhundert oft?"), choices: [L("Zeitalter der Extreme"), L("Die ruhige Zeit"), L("Die Steinzeit"), L("Nichts")], answer: L("Zeitalter der Extreme") }
+    }
+  ]
 };
 
-// ─── ISLAND 9: EUROPÄISCHE EINIGUNG ──────────────────────────────────────────
-
+// ─── ISLAND 9: AKTUELLE ZEITGESCHICHTE ─────────────────────────────────────
 const I9: IslandSpec = {
   id: "i9",
-  title: L("Europäische Einigung", "European Integration", "Európai egység", "Integrarea europeană"),
+  title: L("Heute"),
   topics: [
     {
-      title: L("Friedensprojekt", "Peace Project", "Békeprojekt", "Proiect de pace"),
-      text: L("Nach zwei Weltkriegen war das Ziel ein dauerhafter Frieden durch Zusammenarbeit.", "After two world wars, the goal was a lasting peace through cooperation.", "Két világháború után a cél a tartós béke volt az együttműködés révén.", "După două războaie mondiale, scopul a fost o pace durabilă prin cooperare."),
-      svg: { type: "geschichte-diagram", name: "PeaceDoveSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Krieg", "War", "Háború", "Război"), right: L("Vergangenheit", "Past", "Múlt", "Trecut") },
-          { left: L("Frieden", "Peace", "Béke", "Pace"), right: L("Zukunft", "Future", "Jövő", "Viitor") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "europa_einigung",
+      id: "digital_revolution",
+      title: L("Digitale Welt"),
+      hint1: L("Smartphones und soziale Medien."),
+      hint2: L("Ständige Erreichbarkeit."),
+      svg: { type: "icon-grid", items: [{ emoji: "📱", label: "Handy" }, { emoji: "💬", label: "Chat" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Internet"), right: L("Vernetzung") }, { left: L("Daten"), right: L("Schutz") }] },
+      quiz: { question: L("Was prägt unseren Alltag heute am meisten?"), choices: [L("Digitale Technik"), L("Dampfmaschinen"), L("Kutschen"), L("Nichts")], answer: L("Digitale Technik") }
     },
     {
-      title: L("Robert Schuman", "Robert Schuman", "Robert Schuman", "Robert Schuman"),
-      text: L("Sein Plan von 1950 zur Kontrolle der Kohle- und Stahlproduktion war der Grundstein der EU.", "His 1950 plan to control coal and steel production was the cornerstone of the EU.", "1950-es terve a szén- és acéltermelés ellenőrzésére az EU alapköve volt.", "Planul său din 1950 pentru controlul producției de cărbune și oțel a fost piatra de temelie a UE."),
-      svg: { type: "geschichte-diagram", name: "FactorySvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Schuman-Plan: Kohle und __. Jahr: __.", "Schuman Plan: Coal and __. Year: __.", "Schuman-terv: Szén és __. Év: __.", "Planul Schuman: Cărbune și __. An: __."),
-        gaps: [
-          { index: 0, options: [L("Stahl", "Steel", "acél", "oțel"), L("Gold", "Gold", "arany", "aur")], correct: 0 },
-          { index: 1, options: ["1950", "1914", "1990"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "europa_einigung",
+      id: "eu_heute",
+      title: L("Herausforderung EU"),
+      hint1: L("Suche nach Einigkeit."),
+      hint2: L("Gemeinsame Politik in schwierigen Zeiten."),
+      svg: { type: "text-bubbles", items: [{ text: "Einheit", color: "#fff", bg: "#3b82f6" }, { text: "Vielfalt", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "gap-fill", text: L("In __ ist die Zentrale."), gaps: [{ index: 0, options: ["Brüssel", "Rom"], correct: 0 }] },
+      quiz: { question: L("Was ist ein aktuelles Ziel der EU?"), choices: [L("Stabilität sichern"), L("Krieg führen"), L("Mauern bauen"), L("Nichts")], answer: L("Stabilität sichern") }
     },
     {
-      title: L("EWG 1957", "EEC 1957", "EGK 1957", "CEE 1957"),
-      text: L("In den Römischen Verträgen wurde die Europäische Wirtschaftsgemeinschaft gegründet.", "The European Economic Community was founded in the Treaties of Rome.", "A Római Szerződésekben megalapították az Európai Gazdasági Közösséget.", "În Tratatele de la Roma a fost fondată Comunitatea Economică Europeană."),
-      svg: { type: "geschichte-diagram", name: "ScrollSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: L("Rom", "Rome", "Róma", "Roma"), right: L("Verträge", "Treaties", "Szerződések", "Tratate") },
-          { left: L("Wirtschaft", "Economy", "Gazdaság", "Economie"), right: L("Gemeinschaft", "Community", "Közösség", "Comunitate") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "europa_einigung",
+      id: "umwelt_global",
+      title: L("Klimaschutz"),
+      hint1: L("Pariser Abkommen."),
+      hint2: L("Begrenzung der Erderwärmung."),
+      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Erde" }] },
+      interactive: { type: "highlight-text", text: L("Die Begrenzung der CO2-Emissionen ist ein weltweites Ziel."), instruction: L("Was ist CO2?") },
+      quiz: { question: L("Welches Abkommen ist wichtig für das Klima?"), choices: [L("Pariser Abkommen"), L("Versailler Vertrag"), L("Magna Carta"), L("Nichts")], answer: L("Pariser Abkommen") }
     },
     {
-      title: L("Die EU", "The EU", "Az EU", "UE"),
-      text: L("Der Vertrag von Maastricht (1992) machte aus der Gemeinschaft die Europäische Union.", "The Treaty of Maastricht (1992) turned the community into the European Union.", "A Maastrichti Szerződés (1992) alakította át a közösséget Európai Unióvá.", "Tratatul de la Maastricht (1992) a transformat comunitatea în Uniunea Europeană."),
-      svg: { type: "geschichte-diagram", name: "EUFlagSvg" },
-      interactive: (k) => ({
-        type: "gap-fill",
-        text: L("Name: __ Union. Sitz: __.", "Name: __ Union. Seat: __.", "Név: Európai __. Székhely: __.", "Numele: Uniunea __. Sediul: __."),
-        gaps: [
-          { index: 0, options: ["Europäische", "Deutsche", "Amerikanische"], correct: 0 },
-          { index: 1, options: ["Brüssel", "Berlin", "London"], correct: 0 },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "europa_einigung",
+      id: "fake_news",
+      title: L("Desinformation"),
+      hint1: L("Gefahr durch falsche Nachrichten."),
+      hint2: L("Manipulation der Meinung."),
+      svg: { type: "text-bubbles", items: [{ text: "Lüge", color: "#fff", bg: "#dc2626" }, { text: "Check", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "word-order", words: [L("Prüfe"), L("die"), L("Quelle")], instruction: L("Regel?") },
+      quiz: { question: L("Wie nennt man absichtliche Falschmeldungen?"), choices: [L("Fake News"), L("Gute Nachrichten"), L("Märchen"), L("Nichts")], answer: L("Fake News") }
     },
     {
-      title: L("Der Euro", "The Euro", "Az Euró", "Euro"),
-      text: L("Seit 2002 ist der Euro das gemeinsame Bargeld in vielen Ländern der EU.", "Since 2002, the Euro has been the common cash in many EU countries.", "2002 óta az euró a közös készpénz az EU számos országában.", "Din 2002, Euro este moneda comună în multe țări din UE."),
-      svg: { type: "geschichte-diagram", name: "EUFlagSvg" },
-      interactive: (k) => ({
-        type: "match-pairs",
-        pairs: [
-          { left: "Euro", right: L("Währung", "Currency", "Pénznem", "Monedă") },
-          { left: "2002", right: L("Bargeld", "Cash", "Készpénz", "Numerar") },
-        ],
-        instruction: k("title"),
-      }),
-      quiz: "europa_einigung",
+      id: "globaler_handel",
+      title: L("Warenwege"),
+      hint1: L("Containerschiffe und Logistik."),
+      hint2: L("Abhängigkeit von Lieferketten."),
+      svg: { type: "icon-grid", items: [{ emoji: "🚢", label: "Schiff" }, { emoji: "📦", label: "Paket" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Hafen"), right: L("Logistik") }, { left: L("Konsum"), right: L("Kauf") }] },
+      quiz: { question: L("Was ermöglicht billige Waren weltweit?"), choices: [L("Globale Lieferketten"), L("Nur Handarbeit"), L("Kein Transport"), L("Nichts")], answer: L("Globale Lieferketten") }
     },
-  ],
+    {
+      id: "ki",
+      title: L("KI"),
+      hint1: L("Künstliche Intelligenz."),
+      hint2: L("Maschinen, die lernen."),
+      svg: { type: "word-card", word: L("KI"), color: "#fff", bg: "#8b5cf6" },
+      interactive: { type: "lang-mcq", question: L("Was bedeutet KI?"), choices: [L("Künstliche Intelligenz"), L("Keine Infos"), L("Kleines Interface")], answer: L("Künstliche Intelligenz") }
+    },
+    {
+      id: "friedenssicherung",
+      title: L("Konflikte heute"),
+      hint1: L("Neue Spannungen weltweit."),
+      hint2: L("Diplomatie als wichtigstes Werkzeug."),
+      svg: { type: "comparison-table", rows: [{ left: L("Krieg"), right: L("Gefahr") }, { left: L("Reden"), right: L("Lösung") }] },
+      interactive: { type: "gap-fill", text: L("Diplomatie bedeutet __."), gaps: [{ index: 0, options: [L("Verhandeln"), L("Kämpfen")], correct: 0 }] },
+      quiz: { question: L("Was soll Kriege verhindern?"), choices: [L("Diplomatie"), L("Mehr Waffen"), L("Abschottung"), L("Nichts")], answer: L("Diplomatie") }
+    },
+    {
+      id: "energiewende",
+      title: L("Erneuerbare Energie"),
+      hint1: L("Wind, Sonne, Wasser."),
+      hint2: L("Abkehr von Kohle und Öl."),
+      svg: { type: "icon-grid", items: [{ emoji: "💨", label: "Wind" }, { emoji: "☀️", label: "Sonne" }] },
+      interactive: { type: "block-drag", blocks: [{ label: L("Sauber"), items: [L("Windkraft"), L("Solar")] }] },
+      quiz: { question: L("Was gehört zur Energiewende?"), choices: [L("Sonnenergie"), L("Kohleverbrennung"), L("Ölheizung"), L("Nichts")], answer: L("Sonnenergie") }
+    },
+    {
+      id: "pandemie",
+      title: L("Gesundheit"),
+      hint1: L("Globale Krankheiten."),
+      hint2: L("Bedeutung der Wissenschaft."),
+      svg: { type: "text-bubbles", items: [{ text: "Maske", color: "#fff", bg: "#3b82f6" }, { text: "Impfung", color: "#fff", bg: "#16a34a" }] },
+      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele (eine) Welt haben wir?") },
+      quiz: { question: L("Was schützt vor Viren?"), choices: [L("Impfungen"), L("Handewaschen allein"), L("Gar nichts"), L("Warten")], answer: L("Impfungen") }
+    },
+    {
+      id: "demokratie_gefahr",
+      title: L("Zusammenhalt"),
+      hint1: L("Gefahr durch Spaltung."),
+      hint2: L("Wichtigkeit des Dialogs."),
+      svg: { type: "comparison-table", rows: [{ left: L("Reden"), right: L("Brücke") }, { left: L("Hass"), right: L("Mauer") }] },
+      interactive: { type: "highlight-text", text: L("Demokratie braucht aktive Bürger."), instruction: L("Was ist nötig?") },
+      quiz: { question: L("Was stärkt die Demokratie?"), choices: [L("Mitmachen"), L("Zuschauen"), L("Ignorieren"), L("Nichts")], answer: L("Mitmachen") }
+    },
+    {
+      id: "weltraum_modern",
+      title: L("Mars-Pläne"),
+      hint1: L("Neue Reiseziele im All."),
+      hint2: L("Private Firmen wie SpaceX."),
+      svg: { type: "icon-grid", items: [{ emoji: "🔴", label: "Mars" }, { emoji: "🚀", label: "Ziel" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Erde"), right: L("Blau") }, { left: L("Mars"), right: L("Rot") }] },
+      quiz: { question: L("Welcher Planet ist das nächste Ziel?"), choices: [L("Mars"), L("Venus"), L("Jupiter"), L("Saturn")], answer: L("Mars") }
+    },
+    {
+      id: "nachhaltigkeit",
+      title: L("Nachhaltigkeit"),
+      hint1: L("Ressourcen schonen."),
+      hint2: L("An die Enkel denken."),
+      svg: { type: "word-card", word: L("Zukunft"), color: "#fff", bg: "#16a34a" },
+      interactive: { type: "sentence-build", words: [L("Schütze"), L("die"), L("Natur"), L("für"), L("später")], instruction: L("Motto?") },
+      quiz: { question: L("Was bedeutet Nachhaltigkeit?"), choices: [L("Ressourcenschutz"), L("Verschwendung"), L("Alles sofort verbrauchen"), L("Nichts")], answer: L("Ressourcenschutz") }
+    },
+    {
+      id: "vielfalt",
+      title: L("Bunte Welt"),
+      hint1: L("Akzeptanz verschiedener Lebensstile."),
+      hint2: L("Gegen Diskriminierung."),
+      svg: { type: "text-bubbles", items: [{ text: "Bunt", color: "#fff", bg: "#db2777" }, { text: "Offen", color: "#fff", bg: "#8b5cf6" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Respekt"), right: L("Frieden") }, { left: L("Hass"), right: L("Konflikt") }] },
+      quiz: { question: L("Was fördert das Zusammenleben?"), choices: [L("Toleranz"), L("Vorurteile"), L("Gewalt"), L("Nichts")], answer: L("Toleranz") }
+    },
+    {
+      id: "bildung_digital",
+      title: L("Lernen heute"),
+      hint1: L("Tablets statt Kreide."),
+      hint2: L("Wissen ist überall verfügbar."),
+      svg: { type: "icon-grid", items: [{ emoji: "🎓", label: "Wissen" }, { emoji: "💻", label: "Online" }] },
+      interactive: { type: "gap-fill", text: L("Lernen mit der __."), gaps: [{ index: 0, options: ["Cloud", "Tafel"], correct: 0 }] },
+      quiz: { question: L("Was hilft beim modernen Lernen?"), choices: [L("Digitale Medien"), L("Trommeln"), L("Steintafeln"), L("Nichts")], answer: L("Digitale Medien") }
+    },
+    {
+      id: "schlusswort",
+      title: L("Deine Geschichte"),
+      hint1: L("Du schreibst die Zukunft."),
+      hint2: L("Lerne aus dem Gestern."),
+      svg: { type: "word-card", word: L("Zukunft"), color: "#fff", bg: "#3b82f6" },
+      interactive: { type: "sentence-build", words: [L("Geschichte"), L("geht"), L("immer"), L("weiter")], instruction: L("Schluss?") },
+      quiz: { question: L("Was ist Geschichte?"), choices: [L("Vergangenheit und Zukunft"), L("Nur alte Bücher"), L("Langweilig"), L("Nichts")], answer: L("Vergangenheit und Zukunft") }
+    }
+  ]
 };
 
 const islands = [I1, I2, I3, I4, I5, I6, I7, I8, I9];

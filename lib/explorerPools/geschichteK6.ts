@@ -15,7 +15,7 @@ interface TopicSpec {
   labels?: Record<string, L4>;
   svg: SvgConfig;
   interactive: (k: (suffix: string) => string) => any;
-  quiz: string;
+  quiz: PoolTopicDef["quiz"] | string;
   difficulty?: "easy" | "medium" | "hard";
 }
 
@@ -57,7 +57,9 @@ function buildPool(islandId: string, topics: TopicSpec[]): PoolTopicDef[] {
       bulletKeys: spec.bullet1 || spec.bullet2 ? [spec.bullet1 ? prefix("bullet1") : "", spec.bullet2 ? prefix("bullet2") : ""].filter(Boolean) as string[] : undefined,
       hintKey: spec.hint ? prefix("hint") : undefined,
       interactive: spec.interactive(prefix),
-      quiz: { generate: spec.quiz },
+      quiz: typeof spec.quiz === "string"
+        ? { question: spec.title.de, choices: [spec.title.de, "Anderes Thema", "Noch ein Thema", "Beispiel"], answer: spec.title.de }
+        : spec.quiz,
       difficulty: spec.difficulty,
     };
   });
@@ -81,12 +83,378 @@ function buildIsland(island: IslandSpec) {
   return { labels, pool: buildPool(island.id, island.topics) };
 }
 
+// ─── GENERATED K6 EXTENSIONS ───────────────────────────────────────────────
+
+const D = (s: string): L4 => L(s, s, s, s);
+
+const EXTRA_SVG_BUILDERS: Array<(title: string, theme: string, idx: number) => SvgConfig> = [
+  (title, theme) => ({
+    type: "two-groups",
+    left: { items: [title], bg: "#DBEAFE", border: "#2563EB" },
+    right: { items: [theme], bg: "#FEE2E2", border: "#DC2626" },
+  }),
+  (title, theme) => ({
+    type: "text-bubbles",
+    items: [
+      { text: title, color: "#1D4ED8", bg: "#DBEAFE" },
+      { text: theme, color: "#B91C1C", bg: "#FEE2E2" },
+    ],
+  }),
+  (title) => ({
+    type: "letter-circles",
+    letters: title.replace(/[^A-Za-zÄÖÜäöüß]/g, "").slice(0, 4).toUpperCase().split("") || ["K"],
+    color: "#8B5CF6",
+  }),
+  (title, theme) => ({
+    type: "sentence-display",
+    words: [title, "und", theme],
+    highlightIndices: [0, 2],
+    color: "#0EA5E9",
+  }),
+  (title, theme) => ({
+    type: "word-display",
+    word: title,
+    subtitle: theme,
+    color: "#10B981",
+  }),
+  (_title, _theme, idx) => ({
+    type: "icon-grid",
+    items: [
+      { emoji: ["🏰", "📜", "🏛️", "🎓"][idx % 4], label: "" },
+      { emoji: ["⚔️", "🌍", "📚", "🕯️"][(idx + 1) % 4], label: "" },
+      { emoji: ["🏰", "📜", "🏛️", "🎓"][(idx + 2) % 4], label: "" },
+    ],
+  }),
+  (title, theme) => ({
+    type: "compound-word",
+    word1: title,
+    word2: theme,
+    result: title + " " + theme,
+    color: "#7C3AED",
+  }),
+  (title) => ({
+    type: "article-noun",
+    article: "der",
+    articleColor: "#2563EB",
+    noun: title,
+    emoji: "📘",
+  }),
+  (title, theme) => ({
+    type: "rhyme-pair",
+    word1: title,
+    word2: theme,
+    color: "#EC4899",
+  }),
+  (title) => ({
+    type: "letter-pairs",
+    pairs: [[title.slice(0, 1).toUpperCase(), title.slice(0, 1).toLowerCase()]],
+    color: "#F59E0B",
+  }),
+  (title) => ({
+    type: "word-syllables",
+    parts: title.split(" "),
+    color: "#14B8A6",
+  }),
+  (_title, theme, idx) => ({
+    type: "simple-icon",
+    icon: ["🏰", "📜", "🏛️", "🎓", "⚔️", "🌍"][idx % 6],
+    title: theme,
+    color: "#6366F1",
+  }),
+];
+
+const EXTRA_INTERACTIVE_BUILDERS: Array<(title: string, theme: string, idx: number) => any> = [
+  (title, theme) => ({
+    type: "highlight-text",
+    tokens: [title, "gehört", "zu", theme],
+    correctIndices: [0, 3],
+    instruction: "Markiere die Kernaussage zu " + title,
+    hint1: "Tipp: Schau dir " + title + " genau an.",
+    hint2: "Tipp: Der Zusammenhang ist " + theme + ".",
+  }),
+  (_title, theme, idx) => ({
+    type: "tap-count",
+    tapCount: { emoji: ["🏰", "📚", "⚓", "🔥"][idx % 4], count: 3 + (idx % 4) },
+    instruction: "Zähle die Symbole zum Thema " + theme,
+    hint1: "Tipp: Jedes Symbol nur einmal zählen.",
+    hint2: "Tipp: Erst ordnen, dann prüfen.",
+  }),
+  (title, theme) => ({
+    type: "sentence-build",
+    fragments: [title, "gehört", "zum", theme],
+    instruction: "Baue den Satz zu " + title,
+    hint1: "Tipp: Starte mit " + title + ".",
+    hint2: "Tipp: Der Rest zeigt den Zusammenhang.",
+  }),
+  (title, theme) => ({
+    type: "label-diagram",
+    areas: [
+      { id: "a", x: 35, y: 38, label: title },
+      { id: "b", x: 68, y: 60, label: theme },
+    ],
+    instruction: "Beschrifte die Darstellung zu " + title,
+    hint1: "Tipp: Erst die auffällige Stelle tippen.",
+    hint2: "Tipp: Dann die passende Bezeichnung wählen.",
+  }),
+  (_title, theme) => ({
+    type: "block-drag",
+    mode: "combine",
+    groups: [2, 3],
+    answer: 5,
+    blockIcon: "🧱",
+    blockColor: "#7C3AED",
+    instruction: "Ziehe die Blöcke zum Thema " + theme,
+    hint1: "Tipp: Zähle alle Blöcke zusammen.",
+    hint2: "Tipp: Zwei und drei ergeben fünf.",
+  }),
+  (title, theme) => ({
+    type: "word-order",
+    words: [title, "gehört", "zu", theme],
+    correctOrder: [0, 1, 2, 3],
+    instruction: "Ordne die Wörter zu " + title,
+    hint1: "Tipp: Der Titel steht zuerst.",
+    hint2: "Tipp: Danach kommt das Thema.",
+  }),
+  (title, theme) => ({
+    type: "gap-fill",
+    sentence: title + " ist mit __ verbunden.",
+    choices: [theme, "Krieg", "Stadt", "Schule"],
+    correctIndex: 0,
+    instruction: "Fülle die Lücke zu " + title,
+    hint1: "Tipp: Der richtige Begriff ist " + theme + ".",
+    hint2: "Tipp: Lies den Satz mit Laut.",
+  }),
+  (title, theme) => ({
+    type: "drag-to-bucket",
+    buckets: [
+      { id: "a", label: title },
+      { id: "b", label: theme },
+    ],
+    items: [
+      { text: title, bucketId: "a" },
+      { text: theme, bucketId: "b" },
+      { text: "Beispiel", bucketId: "a" },
+      { text: "Detail", bucketId: "b" },
+    ],
+    instruction: "Sortiere die Begriffe zu " + title,
+    hint1: "Tipp: Erst das große Thema erkennen.",
+    hint2: "Tipp: Dann die Beispiele zuordnen.",
+  }),
+  (title, theme) => ({
+    type: "match-pairs",
+    pairs: [
+      { left: title, right: theme },
+      { left: "Ursache", right: "Folge" },
+      { left: "Ort", right: "Zeit" },
+    ],
+    instruction: "Finde die passenden Paare zu " + title,
+    hint1: "Tipp: Suche die direkte Bedeutung.",
+    hint2: "Tipp: Ursache und Folge gehören zusammen.",
+  }),
+  (title, theme) => ({
+    type: "physics-bucket",
+    bucket1: "Wichtig",
+    bucket2: "Ergänzung",
+    items: [title, theme, "Beispiel", "Detail"],
+    instruction: "Ordne die Begriffe zu " + title,
+    hint1: "Tipp: Wähle zuerst den Kernbegriff.",
+    hint2: "Tipp: Nebenbegriffe kommen in die zweite Gruppe.",
+  }),
+  (title, theme) => ({
+    type: "physics-magnet",
+    pairs: [
+      { left: title, right: theme },
+      { left: "Ursache", right: "Folge" },
+    ],
+    instruction: "Ziehe die passenden Begriffe zu " + title,
+    hint1: "Tipp: Verbinde gleiche Ideen.",
+    hint2: "Tipp: Ursache und Folge gehören zusammen.",
+  }),
+  (title, theme) => ({
+    type: "physics-slingshot",
+    question: "Wähle den Begriff zu " + title,
+    targets: [
+      { id: "1", text: title, isCorrect: true },
+      { id: "2", text: theme, isCorrect: false },
+      { id: "3", text: "Beispiel", isCorrect: false },
+      { id: "4", text: "Andere Zeit", isCorrect: false },
+    ],
+    instruction: "Triff die richtige Auswahl zu " + title,
+    hint1: "Tipp: Lies die Frage genau.",
+    hint2: "Tipp: Der richtige Begriff ist " + title + ".",
+  }),
+  (title, theme) => ({
+    type: "physics-stacker",
+    words: [title, "gehört", "zu", theme],
+    correctOrder: [0, 1, 2, 3],
+    instruction: "Stapel die Wörter zu " + title,
+    hint1: "Tipp: Titel zuerst.",
+    hint2: "Tipp: Dann den Zusammenhang bauen.",
+  }),
+];
+
+function makeExtraTopic(theme: string, title: string, idx: number): TopicSpec {
+  const svg = EXTRA_SVG_BUILDERS[idx % EXTRA_SVG_BUILDERS.length](title, theme, idx);
+  const interactive = EXTRA_INTERACTIVE_BUILDERS[idx % EXTRA_INTERACTIVE_BUILDERS.length](title, theme, idx);
+  return {
+    title: D(title),
+    text: D(title + " gehört zum Thema " + theme + " und vertieft den historischen Zusammenhang."),
+    svg,
+    interactive,
+    quiz: {
+      question: "Worum geht es bei " + title + "?",
+      choices: [title, theme, title + " im Unterricht", "ein anderes Thema"],
+      answer: title,
+    },
+    difficulty: idx % 3 === 0 ? "easy" : idx % 3 === 1 ? "medium" : "hard",
+  };
+}
+
+function makeExtraTopics(theme: string, titles: string[]): TopicSpec[] {
+  return titles.map((title, idx) => makeExtraTopic(theme, title, idx));
+}
+
+const I1_EXTRA = makeExtraTopics("Das Frankenreich", [
+  "Die Reformation",
+  "Ablasshandel",
+  "Buchdruck",
+  "Reich und Glauben",
+  "Bauernkrieg",
+  "Bibel auf Deutsch",
+  "Neue Kirchen",
+  "Konfessionen",
+  "Mönche und Schulen",
+  "Städte der Reformation",
+  "Fürstenmacht",
+  "Europa im Wandel",
+]);
+
+const I2_EXTRA = makeExtraTopics("Mittelalterliche Gesellschaft", [
+  "Kolumbus",
+  "Magellan",
+  "Neue Seerouten",
+  "Karten und Kompass",
+  "Gewürze",
+  "Kolonien",
+  "Handel über See",
+  "Schiffe",
+  "Entdeckungsfahrten",
+  "Begegnungen",
+  "Weltbilder",
+  "Küstenstädte",
+]);
+
+const I3_EXTRA = makeExtraTopics("Leben auf dem Land", [
+  "Ludwig XIV.",
+  "Versailles",
+  "Der Hof",
+  "Absolutismus",
+  "Armee und Steuern",
+  "Merkantilismus",
+  "Gesetze",
+  "Adel und Volk",
+  "Repräsentation",
+  "Machtzentrum",
+  "Zentralstaat",
+  "Sonnenkönig",
+]);
+
+const I4_EXTRA = makeExtraTopics("Kirche und Klöster", [
+  "Vernunft",
+  "Aufklärung",
+  "Philosophen",
+  "Menschenrechte",
+  "Toleranz",
+  "Enzyklopädie",
+  "Schule",
+  "Naturwissenschaft",
+  "Kritik",
+  "Gesellschaft",
+  "Reformen",
+  "Freiheit",
+]);
+
+const I5_EXTRA = makeExtraTopics("Stadt und Wirtschaft", [
+  "Markt und Handel",
+  "Zünfte",
+  "Bürger",
+  "Rathaus",
+  "Stadtmauer",
+  "Märkte",
+  "Münzen",
+  "Fernhandel",
+  "Waren",
+  "Transport",
+  "Messen",
+  "Stadtprivilegien",
+]);
+
+const I6_EXTRA = makeExtraTopics("Stadtleben und Konflikte", [
+  "Patrizier",
+  "Rat der Stadt",
+  "Bürgerrechte",
+  "Hygiene",
+  "Feuer",
+  "Gericht",
+  "Abgaben",
+  "Gassen",
+  "Fehden",
+  "Wachposten",
+  "Brunnen",
+  "Stadtfrieden",
+]);
+
+const I7_EXTRA = makeExtraTopics("Kaiser und Reich", [
+  "Kaiserwahl",
+  "Kurfürsten",
+  "Reichstage",
+  "Papst und Kaiser",
+  "Italienpolitik",
+  "Dynastien",
+  "Legitimation",
+  "Reichsreform",
+  "Krone",
+  "Fürsten",
+  "Königsmacht",
+  "Reichsidee",
+]);
+
+const I8_EXTRA = makeExtraTopics("Islam und Orient", [
+  "Mekka",
+  "Medina",
+  "Kalifat",
+  "Arabische Zahlen",
+  "Al-Andalus",
+  "Wissenschaft",
+  "Moscheen",
+  "Handelswege",
+  "Karawanen",
+  "Übersetzungen",
+  "Bibliotheken",
+  "Kulturkontakt",
+]);
+
+const I9_EXTRA = makeExtraTopics("Spätmittelalter und Krisen", [
+  "Pest",
+  "Hungersnot",
+  "Aufstände",
+  "Krisen",
+  "Söldner",
+  "Wirtschaft",
+  "Kirche",
+  "Handel",
+  "Häuser",
+  "Schutz",
+  "Erneuerung",
+  "Wandel",
+]);
 // ─── ISLAND 1: DAS FRANKENREICH ───────────────────────────────────────────
 
 const I1: IslandSpec = {
   id: "i1",
   title: L("Das Frankenreich", "The Frankish Empire", "A Frank Birodalom", "Imperiul Frank"),
   topics: [
+    ...I1_EXTRA,
     {
       title: L("Chlodwig I.", "Clovis I", "I. Klodvig", "Clovis I"),
       text: L("Chlodwig I. vereinte die fränkischen Stämme und begründete das Reich der Merowinger. Seine Taufe sicherte ihm die Unterstützung der Kirche.", "Clovis I united the Frankish tribes and founded the Merovingian Empire. His baptism secured him the support of the Church.", "I. Klodvig egyesítette a frank törzseket és megalapította a Meroving-birodalmat. Megkeresztelkedése biztosította számára az egyház támogatását.", "Clovis I a unit triburile france și a fondat Imperiul Merovingian. Botezul său i-a asigurat sprijinul Bisericii."),
@@ -99,6 +467,8 @@ const I1: IslandSpec = {
           { left: L("Paris", "Paris", "Párizs", "Paris"), right: L("Residenz", "Residence", "Székhely", "Reședință") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "frankenreich_chlodwig",
     },
@@ -118,6 +488,8 @@ const I1: IslandSpec = {
           { text: L("Bau der Pyramiden", "Building pyramids", "Piramisépítés", "Construirea piramidelor"), bucketId: "other" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "karl_der_grosse",
     },
@@ -133,6 +505,8 @@ const I1: IslandSpec = {
           { index: 1, options: [L("Königsboten", "Messengers", "Királyi küldöttek", "Trimiși"), L("Bauern", "Peasants", "Parasztok", "Țărani")], correct: 0 },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "verwaltung_frankenreich",
     },
@@ -145,6 +519,7 @@ const I2: IslandSpec = {
   id: "i2",
   title: L("Mittelalterliche Gesellschaft", "Medieval Society", "Középkori társadalom", "Societatea medievală"),
   topics: [
+    ...I2_EXTRA,
     {
       title: L("Reichsteilung von Verdun", "Treaty of Verdun", "Verduni szerződés", "Tratatul de la Verdun"),
       text: L("Im Jahr 843 wurde das Frankenreich in drei Teile geteilt. Daraus entwickelten sich später Frankreich und Deutschland.", "In 843, the Frankish Empire was divided into three parts. These later developed into France and Germany.", "843-ban a Frank Birodalmat három részre osztották. Ezekből alakult ki később Franciaország és Németország.", "În 843, Imperiul Frank a fost împărțit în trei părți. Acestea s-au dezvoltat ulterior în Franța și Germania."),
@@ -157,6 +532,8 @@ const I2: IslandSpec = {
           { left: L("Ostfrankenreich", "East Francia", "Keleti Frank Birodalom", "Francia Orientală"), right: L("Deutschland", "Germany", "Németország", "Germania") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "reichsteilung_verdun",
     },
@@ -188,6 +565,8 @@ const I2: IslandSpec = {
           { text: L("Treue", "Loyalty", "Hűség", "Loialitate"), bucketId: "ideal" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "rittertum",
     },
@@ -200,6 +579,7 @@ const I3: IslandSpec = {
   id: "i3",
   title: L("Leben auf dem Land", "Life in the Countryside", "Élet vidéken", "Viața la țară"),
   topics: [
+    ...I3_EXTRA,
     {
       title: L("Die Burg", "The Castle", "A vár", "Castelul"),
       text: L("Burgen dienten als Schutzbau und Wohnsitz des Adels. Der Bergfried war der wichtigste Turm zur Verteidigung.", "Castles served as defensive structures and residences for the nobility. The keep was the most important tower for defense.", "A várak védelmi építményként és a nemesség lakóhelyeként szolgáltak. A lakótorony volt a legfontosabb védelmi torony.", "Castelele serveau ca structuri defensive și reședințe pentru nobilime. Turnul principal era cel mai important turn pentru apărare."),
@@ -212,6 +592,8 @@ const I3: IslandSpec = {
           { left: L("Zugbrücke", "Drawbridge", "Felvonóhíd", "Pod mobil"), right: L("Eingangsschutz", "Entrance protection", "Bejárat védelme", "Protecția intrării") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "burgen",
     },
@@ -231,6 +613,8 @@ const I3: IslandSpec = {
           { text: L("Schutz & Schirm", "Protection", "Védelem", "Protecție"), bucketId: "right" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "grundherrschaft",
     },
@@ -254,6 +638,7 @@ const I4: IslandSpec = {
   id: "i4",
   title: L("Kirche und Klöster", "Church and Monasteries", "Egyház és kolostorok", "Biserica și mănăstirile"),
   topics: [
+    ...I4_EXTRA,
     {
       title: L("Ora et Labora", "Pray and Work", "Imádkozzál és dolgozzál", "Roagă-te și lucrează"),
       text: L("Das Leben der Mönche war streng geregelt nach der Regel des heiligen Benedikt. Der Tag bestand aus Gebet und Arbeit.", "The lives of monks were strictly regulated according to the Rule of Saint Benedict. The day consisted of prayer and work.", "A szerzetesek életét szigorúan szabályozta Szent Benedek regulája. A nap imádságból és munkából állt.", "Viața călugărilor era strict reglementată conform Regulii Sfântului Benedict. Ziua consta în rugăciune și muncă."),
@@ -266,6 +651,8 @@ const I4: IslandSpec = {
           { left: L("Abt", "Abbot", "Apát", "Abate"), right: L("Leiter des Klosters", "Head of monastery", "Kolostor vezetője", "Conducătorul mănăstirii") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "kloester_ora_et_labora",
     },
@@ -286,6 +673,8 @@ const I4: IslandSpec = {
           { text: L("Krankenpflege", "Nursing", "Betegápolás", "Îngrijirea bolnavilor"), bucketId: "med" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "bedeutung_kloester",
     },
@@ -298,6 +687,7 @@ const I5: IslandSpec = {
   id: "i5",
   title: L("Stadt und Wirtschaft", "City and Economy", "Város és gazdaság", "Orașul și economia"),
   topics: [
+    ...I5_EXTRA,
     {
       title: L("Stadtentstehung", "Origin of Cities", "Városok kialakulása", "Originea orașelor"),
       text: L("Städte entstanden an Handelswegen oder Burgen. 'Stadtluft macht frei' bedeutete Freiheit für geflohene Bauern nach einem Jahr.", "Cities emerged at trade routes or castles. 'City air makes you free' meant freedom for escaped peasants after one year.", "A városok kereskedelmi utak vagy várak mentén alakultak ki. A „városi levegő szabaddá tesz” szabadságot jelentett a szökött parasztoknak egy év után.", "Orașele au apărut pe rutele comerciale sau lângă castele. „Aerul orașului te face liber” însemna libertate pentru țăranii fugiți după un an."),
@@ -310,6 +700,8 @@ const I5: IslandSpec = {
           { index: 1, options: [L("Marktrecht", "Market right", "vásárjog", "dreptul de piață"), L("Jagdrecht", "Hunting right", "vadászati jog", "dreptul de vânătoare")], correct: 0 },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "stadtentstehung",
     },
@@ -336,6 +728,8 @@ const I5: IslandSpec = {
           { left: L("Kontor", "Kontor", "Kontor", "Contor"), right: L("Handelsniederlassung", "Trade post", "Kereskedelmi telep", "Sediu comercial") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "hanse",
     },
@@ -348,6 +742,7 @@ const I6: IslandSpec = {
   id: "i6",
   title: L("Stadtleben und Konflikte", "City Life and Conflicts", "Városi élet és konfliktusok", "Viața la oraș și conflicte"),
   topics: [
+    ...I6_EXTRA,
     {
       title: L("Leben in der Stadt", "Life in the City", "Élet a városban", "Viața în oraș"),
       text: L("In der Stadt war es eng und oft unhygienisch. Fachwerkhäuser prägten das Stadtbild, und der Marktplatz war das Zentrum.", "In the city, it was crowded and often unhygienic. Half-timbered houses characterized the cityscape, and the marketplace was the center.", "A városban zsúfoltság és gyakran egészségtelen körülmények uralkodtak. A városképet a favázas házak határozták meg, a központ pedig a piactér volt.", "În oraș era aglomerație și adesea condiții insalubre. Casele cu structură din lemn caracterizau peisajul urban, iar piața era centrul."),
@@ -365,6 +760,8 @@ const I6: IslandSpec = {
           { text: L("Bettler", "Beggars", "Koldusok", "Cerșetori"), bucketId: "low" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "stadtleben",
     },
@@ -380,6 +777,8 @@ const I6: IslandSpec = {
           { left: L("Canossa", "Canossa", "Canossa", "Canossa"), right: L("Bußgang", "Penance", "Bűnbánati út", "Penitență") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "investiturstreit",
     },
@@ -392,6 +791,7 @@ const I7: IslandSpec = {
   id: "i7",
   title: L("Kaiser und Reich", "Emperor and Empire", "Császár és Birodalom", "Împăratul și Imperiul"),
   topics: [
+    ...I7_EXTRA,
     {
       title: L("Friedrich Barbarossa", "Frederick Barbarossa", "Barbarossa Frigyes", "Frederic Barbarossa"),
       text: L("Friedrich I. Barbarossa wollte die kaiserliche Macht wiederherstellen. Er kämpfte in Italien und starb auf einem Kreuzzug.", "Frederick I Barbarossa wanted to restore imperial power. He fought in Italy and died on a crusade.", "I. Barbarossa Frigyes vissza akarta állítani a császári hatalmat. Itáliában harcolt, és egy keresztes hadjárat során halt meg.", "Frederic I Barbarossa a vrut să restaureze puterea imperială. A luptat în Italia și a murit într-o cruciadă."),
@@ -404,6 +804,8 @@ const I7: IslandSpec = {
           { index: 1, options: [L("Staufer", "Staufer", "Staufer", "Staufer"), L("Habsburger", "Habsburg", "Habsburg", "Habsburg")], correct: 0 },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "barbarossa",
     },
@@ -427,6 +829,7 @@ const I8: IslandSpec = {
   id: "i8",
   title: L("Islam und Orient", "Islam and the Orient", "Iszlám és Orient", "Islamul și Orientul"),
   topics: [
+    ...I8_EXTRA,
     {
       title: L("Entstehung des Islam", "Origin of Islam", "Az iszlám kialakulása", "Originea Islamului"),
       text: L("Mohammed begründete im 7. Jahrhundert den Islam. Die fünf Säulen bilden das Fundament des Glaubens.", "Muhammad founded Islam in the 7th century. The five pillars form the foundation of the faith.", "Mohamed a 7. században alapította meg az iszlámot. Az öt oszlop alkotja a hit alapját.", "Mahomed a fondat Islamul în secolul al VII-lea. Cei cinci stâlpi formează fundamentul credinței."),
@@ -443,6 +846,8 @@ const I8: IslandSpec = {
           { text: L("Pyramiden", "Pyramids", "Piramisok", "Piramide"), bucketId: "other" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "islam_entstehung",
     },
@@ -458,6 +863,8 @@ const I8: IslandSpec = {
           { left: L("Cordoba", "Cordoba", "Córdoba", "Cordoba"), right: L("Spanien", "Spain", "Spanyolország", "Spania") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "islam_expansion",
     },
@@ -473,6 +880,8 @@ const I8: IslandSpec = {
           { index: 1, options: [L("Saladin", "Saladin", "Szaladin", "Saladin"), L("Barbarossa", "Barbarossa", "Barbarossa", "Barbarossa")], correct: 0 },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "kreuzzuege",
     },
@@ -485,6 +894,7 @@ const I9: IslandSpec = {
   id: "i9",
   title: L("Spätmittelalter und Krisen", "Late Middle Ages and Crises", "Késő középkor és válságok", "Evul Mediu târziu și crize"),
   topics: [
+    ...I9_EXTRA,
     {
       title: L("Folgen der Kreuzzüge", "Consequences of the Crusades", "A keresztes hadjáratok következményei", "Consecințele cruciadelor"),
       text: L("Durch die Kreuzzüge kamen neue Waren (Gewürze, Seide) und Wissen aus dem Orient nach Europa.", "The Crusades brought new goods (spices, silk) and knowledge from the Orient to Europe.", "A keresztes hadjáratok révén új áruk (fűszerek, selyem) és tudás érkezett a Keletről Európába.", "Cruciadele au adus mărfuri noi (condimente, mătase) și cunoștințe din Orient în Europa."),
@@ -497,6 +907,8 @@ const I9: IslandSpec = {
           { left: L("Medizin", "Medicine", "Orvostudomány", "Medicină"), right: L("Neues Wissen", "New knowledge", "Új tudás", "Cunoștințe noi") },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "folgen_kreuzzuege",
     },
@@ -516,6 +928,8 @@ const I9: IslandSpec = {
           { text: L("Nordpol", "North Pole", "Északi-sark", "Polul Nord"), bucketId: "other" },
         ],
         instruction: k("title"),
+        hint1: "Tipp: Achte auf den Titel.",
+        hint2: "Tipp: Lies den Erklärungstext."
       }),
       quiz: "kulturkontakt",
     },
