@@ -190,7 +190,7 @@ export function ModuleArtOverlay({
                   src={module.src}
                   alt=""
                   className={`relative h-auto w-full select-none object-contain ${"imageClassName" in module ? module.imageClassName : ""} [mask-image:radial-gradient(circle_at_50%_46%,black_62%,rgba(0,0,0,0.95)_78%,transparent_100%)]`}
-                  style={"imageStyle" in module ? module.imageStyle : undefined}
+                  style={"imageStyle" in module ? (module.imageStyle as React.CSSProperties) : undefined}
                   draggable={false}
                 />
                 {module.id === "core" && (
