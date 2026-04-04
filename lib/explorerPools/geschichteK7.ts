@@ -139,7 +139,7 @@ const I1: IslandSpec = {
       title: L("Ballhausschwur"),
       hint1: L("Abgeordnete schworen, eine Verfassung zu geben."),
       hint2: L("Sie trafen sich im Ballhaus von Versailles."),
-      svg: { type: "word-card", word: L("Verfassung"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Verfassung", color: "#1e3a8a" },
       interactive: { type: "word-order", words: [L("Wir"), L("geben"), L("uns"), L("eine"), L("Verfassung")], instruction: L("Ordne den Schwur!") },
       quiz: { question: L("Was forderten die Abgeordneten im Ballhaus?"), choices: [L("Eine Verfassung"), L("Mehr Wein"), L("Einen neuen König"), L("Krieg")], answer: L("Eine Verfassung") }
     },
@@ -148,7 +148,7 @@ const I1: IslandSpec = {
       title: L("Sturm auf die Bastille"),
       hint1: L("Am 14. Juli 1789 begann der Aufstand."),
       hint2: L("Die Bastille war ein Symbol der Willkür."),
-      svg: { type: "comparison-table", rows: [{ left: L("Bastille"), right: L("Gefängnis") }, { left: L("Waffen"), right: L("Pulver") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Bastille", color: "#fff", bg: "#3b82f6" }, { text: "Gefängnis", color: "#fff", bg: "#6366f1" }, { text: "Waffen", color: "#fff", bg: "#3b82f6" }, { text: "Pulver", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 14, instruction: L("An welchem Tag im Juli war der Sturm?") },
       quiz: { question: L("Was war die Bastille?"), choices: [L("Ein Gefängnis"), L("Ein Schloss"), L("Eine Kirche"), L("Ein Markt")], answer: L("Ein Gefängnis") }
     },
@@ -157,7 +157,7 @@ const I1: IslandSpec = {
       title: L("Menschenrechte"),
       hint1: L("1789 wurde die Erklärung der Rechte verkündet."),
       hint2: L("Gleichheit vor dem Gesetz war zentral."),
-      svg: { type: "sentence-flow", words: ["Freiheit", "Gleichheit", "Brüderlichkeit"], color: "#16a34a" },
+      svg: { type: "sentence-display", words: ["Freiheit", "Gleichheit", "Brüderlichkeit"], color: "#16a34a" },
       interactive: { type: "highlight-text", text: L("Alle Menschen sind von Geburt an frei und gleich an Rechten."), instruction: L("Markiere die zentrale Aussage!") },
       quiz: { question: L("Was ist ein Kernpunkt der Menschenrechte?"), choices: [L("Gleichheit"), L("Sklaverei"), L("Absolute Macht"), L("Zensur")], answer: L("Gleichheit") }
     },
@@ -184,7 +184,7 @@ const I1: IslandSpec = {
       title: L("Nationalversammlung"),
       hint1: L("Der 3. Stand erklärte sich zur Vertretung."),
       hint2: L("Sie wollten die Nation allein vertreten."),
-      svg: { type: "word-card", word: L("Nation"), color: "#fff", bg: "#dc2626" },
+      svg: { type: "word-display", word: "Nation", color: "#dc2626" },
       interactive: { type: "sentence-build", words: [L("Die"), L("Nationalversammlung"), L("vertritt"), L("das"), L("Volk")], instruction: L("Bilde den Satz!") },
       quiz: { question: L("Wer bildete die Nationalversammlung?"), choices: [L("Der 3. Stand"), L("Nur der Adel"), L("Die Priester"), L("Ausländer")], answer: L("Der 3. Stand") }
     },
@@ -193,7 +193,7 @@ const I1: IslandSpec = {
       title: L("Hunger & Brot"),
       hint1: L("Missernten führten zu hohen Brotpreisen."),
       hint2: L("Das Volk litt unter großem Hunger."),
-      svg: { type: "comparison-table", rows: [{ left: L("Missernte"), right: L("Hunger") }, { left: L("Hohe Preise"), right: L("Wut") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Missernte", color: "#fff", bg: "#dc2626" }, { text: "Hunger", color: "#fff", bg: "#991b1b" }, { text: "Hohe Preise", color: "#fff", bg: "#dc2626" }, { text: "Wut", color: "#fff", bg: "#991b1b" }] },
       interactive: { type: "drag-to-bucket", buckets: [{ id: "urs", label: L("Ursachen") }], items: [{ text: L("Hunger"), bucketId: "urs" }, { text: L("Schulden"), bucketId: "urs" }] },
       quiz: { question: L("Was war ein wirtschaftlicher Grund für die Revolution?"), choices: [L("Hohe Brotpreise"), L("Zu viel Gold"), L("Günstige Mieten"), L("Keine Steuern")], answer: L("Hohe Brotpreise") }
     },
@@ -202,7 +202,7 @@ const I1: IslandSpec = {
       title: L("Versailles"),
       hint1: L("Der prunkvolle Sitz des Königs."),
       hint2: L("Weit weg vom hungernden Volk in Paris."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 20, text: "Schloss" }, { x: 50, y: 80, text: "Park" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🏰", label: "Schloss" }, { emoji: "🌳", label: "Park" }] },
       interactive: { type: "gap-fill", text: L("Der König residierte in __."), gaps: [{ index: 0, options: ["Versailles", "Berlin", "Wien"], correct: 0 }] },
       quiz: { question: L("Wo wohnte der französische König?"), choices: [L("Versailles"), L("Louvre"), L("Bastille"), L("Eiffelturm")], answer: L("Versailles") }
     },
@@ -220,8 +220,9 @@ const I1: IslandSpec = {
       title: L("Olympe de Gouges"),
       hint1: L("Sie forderte Rechte für Frauen."),
       hint2: L("Erklärung der Rechte der Frau."),
-      svg: { type: "word-card", word: L("Frauenrechte"), color: "#fff", bg: "#db2777" },
-      interactive: { type: "lang-mcq", question: L("Was forderte Olympe de Gouges?"), choices: [L("Rechte für Frauen"), L("Rückkehr zum König"), L("Krieg gegen England")], answer: L("Rechte für Frauen") }
+      svg: { type: "word-display", word: "Frauenrechte", color: "#db2777" },
+      interactive: { type: "lang-mcq", question: L("Was forderte Olympe de Gouges?"), choices: [L("Rechte für Frauen"), L("Rückkehr zum König"), L("Krieg gegen England")], answer: L("Rechte für Frauen") },
+      quiz: { question: L("Was forderte Olympe de Gouges?"), choices: [L("Rechte für Frauen"), L("Rückkehr zum König"), L("Krieg gegen England"), L("Steuererhöhung")], answer: L("Rechte für Frauen") }
     },
     {
       id: "marschfrauen",
@@ -237,7 +238,7 @@ const I1: IslandSpec = {
       title: L("Verfassung 1791"),
       hint1: L("Frankreich wurde eine konstitutionelle Monarchie."),
       hint2: L("Der König war an Gesetze gebunden."),
-      svg: { type: "two-groups", left: { items: [L("Gesetz")], bg: "#dbeafe", border: "#2563eb" }, right: { items: [L("König")], bg: "#fef3c7", border: "#d97706" } },
+      svg: { type: "two-groups", left: { items: ["Gesetz"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["König"], bg: "#fef3c7", border: "#d97706" } },
       interactive: { type: "gap-fill", text: L("Die Verfassung beschränkt die Macht des __."), gaps: [{ index: 0, options: [L("Königs"), L("Volkes")], correct: 0 }] },
       quiz: { question: L("Was bedeutet konstitutionelle Monarchie?"), choices: [L("König an Verfassung gebunden"), L("König hat alle Macht"), L("Es gibt keinen König"), L("Nur die Kirche regiert")], answer: L("König an Verfassung gebunden") }
     },
@@ -281,7 +282,7 @@ const I2: IslandSpec = {
       title: L("Die Jakobiner"),
       hint1: L("Radikale Anhänger der Revolution."),
       hint2: L("Sie wollten die Republik mit Gewalt."),
-      svg: { type: "word-card", word: L("Republik"), color: "#fff", bg: "#ef4444" },
+      svg: { type: "word-display", word: "Republik", color: "#ef4444" },
       interactive: { type: "block-drag", blocks: [{ label: L("Gruppen"), items: [L("Jakobiner"), L("Girondisten")] }] },
       quiz: { question: L("Was wollten die Jakobiner?"), choices: [L("Eine radikale Republik"), L("Die Rückkehr des Königs"), L("Frieden mit allen"), L("Keine Gesetze")], answer: L("Eine radikale Republik") }
     },
@@ -290,7 +291,7 @@ const I2: IslandSpec = {
       title: L("Ende der Monarchie"),
       hint1: L("Der König wurde abgesetzt und hingerichtet."),
       hint2: L("1792 wurde Frankreich zur Republik."),
-      svg: { type: "comparison-table", rows: [{ left: L("1791"), right: L("Monarchie") }, { left: L("1792"), right: L("Republik") }] },
+      svg: { type: "text-bubbles", items: [{ text: "1791", color: "#fff", bg: "#2563eb" }, { text: "Monarchie", color: "#fff", bg: "#6366f1" }, { text: "1792", color: "#fff", bg: "#dc2626" }, { text: "Republik", color: "#fff", bg: "#ef4444" }] },
       interactive: { type: "tap-count", count: 1792, instruction: L("In welchem Jahr wurde die Republik ausgerufen?") },
       quiz: { question: L("Was geschah 1792?"), choices: [L("Ausrufung der Republik"), L("Sieg bei Waterloo"), L("Entdeckung Amerikas"), L("Bau der Bastille")], answer: L("Ausrufung der Republik") }
     },
@@ -308,7 +309,7 @@ const I2: IslandSpec = {
       title: L("Code Civil"),
       hint1: L("Ein modernes Gesetzbuch Napoleons."),
       hint2: L("Es garantierte Freiheit und Eigentum."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Gesetze" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Gesetze" }] },
       interactive: { type: "highlight-text", text: L("Gleichheit vor dem Gesetz für alle männlichen Bürger."), instruction: L("Was war neu?") },
       quiz: { question: L("Was war der Code Civil?"), choices: [L("Ein Gesetzbuch"), L("Ein Kochbuch"), L("Ein Kriegsplan"), L("Eine Schiffsklasse")], answer: L("Ein Gesetzbuch") }
     },
@@ -326,7 +327,7 @@ const I2: IslandSpec = {
       title: L("Russlandfeldzug"),
       hint1: L("1812 scheiterte die Große Armee."),
       hint2: L("Kälte und Hunger besiegten ihn."),
-      svg: { type: "comparison-table", rows: [{ left: L("Russland"), right: L("Kälte") }, { left: L("Napoleon"), right: L("Rückzug") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Russland", color: "#fff", bg: "#1e40af" }, { text: "Kälte", color: "#fff", bg: "#6366f1" }, { text: "Napoleon", color: "#fff", bg: "#1e40af" }, { text: "Rückzug", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "drag-to-bucket", buckets: [{ id: "fail", label: L("Gründe") }], items: [{ text: L("Winter"), bucketId: "fail" }, { text: L("Hunger"), bucketId: "fail" }] },
       quiz: { question: L("Was stoppte Napoleon in Russland?"), choices: [L("Kälte und Hunger"), L("Die russische Marine"), L("Ein Vulkanausbruch"), L("Geldmangel")], answer: L("Kälte und Hunger") }
     },
@@ -344,7 +345,7 @@ const I2: IslandSpec = {
       title: L("Schlacht bei Waterloo"),
       hint1: L("Seine endgültige Niederlage 1815."),
       hint2: L("Besiegt von Wellington und Blücher."),
-      svg: { type: "word-card", word: L("Waterloo"), color: "#fff", bg: "#000" },
+      svg: { type: "word-display", word: "Waterloo", color: "#000" },
       interactive: { type: "gap-fill", text: L("Waterloo liegt im heutigen __."), gaps: [{ index: 0, options: ["Belgien", "Frankreich"], correct: 0 }] },
       quiz: { question: L("In welchem Jahr wurde Napoleon bei Waterloo besiegt?"), choices: [L("1815"), L("1812"), L("1813"), L("1821")], answer: L("1815") }
     },
@@ -353,15 +354,16 @@ const I2: IslandSpec = {
       title: L("Verbannung St. Helena"),
       hint1: L("Seine letzte Station im Exil."),
       hint2: L("Eine einsame Insel im Atlantik."),
-      svg: { type: "letter-circles", letters: ["I", "N", "S", "E", "L"] },
-      interactive: { type: "lang-mcq", question: L("Wo starb Napoleon?"), choices: [L("St. Helena"), L("Elba"), L("Paris")], answer: L("St. Helena") }
+      svg: { type: "letter-circles", letters: ["I", "N", "S", "E", "L"], color: "#1e40af" },
+      interactive: { type: "lang-mcq", question: L("Wo starb Napoleon?"), choices: [L("St. Helena"), L("Elba"), L("Paris")], answer: L("St. Helena") },
+      quiz: { question: L("Wo starb Napoleon?"), choices: [L("St. Helena"), L("Elba"), L("Paris"), L("London")], answer: L("St. Helena") }
     },
     {
       id: "rheinbund",
       title: L("Rheinbund"),
       hint1: L("Deutsche Staaten unter Napoleons Schutz."),
       hint2: L("Ende des Heiligen Römischen Reiches."),
-      svg: { type: "two-groups", left: { items: [L("Bayern"), L("Sachsen")], bg: "#dcfce7", border: "#16a34a" }, right: { items: [L("Österreich"), L("Preußen")], bg: "#fee2e2", border: "#ef4444" } },
+      svg: { type: "two-groups", left: { items: ["Bayern", "Sachsen"], bg: "#dcfce7", border: "#16a34a" }, right: { items: ["Österreich", "Preußen"], bg: "#fee2e2", border: "#ef4444" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Rheinbund"), right: L("Napoleon") }, { left: L("1806"), right: L("Ende HRRDN") }] },
       quiz: { question: L("Wann endete das Heilige Römische Reich?"), choices: [L("1806"), L("1804"), L("1815"), L("1871")], answer: L("1806") }
     },
@@ -379,7 +381,7 @@ const I2: IslandSpec = {
       title: L("Säkularisation"),
       hint1: L("Enteignung kirchlicher Besitztümer."),
       hint2: L("Fürsten erhielten Kirchenland."),
-      svg: { type: "comparison-table", rows: [{ left: L("Kirche"), right: L("Landverlust") }, { left: L("Fürsten"), right: L("Landgewinn") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Kirche", color: "#fff", bg: "#7c3aed" }, { text: "Landverlust", color: "#fff", bg: "#6366f1" }, { text: "Fürsten", color: "#fff", bg: "#7c3aed" }, { text: "Landgewinn", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Kirche"), L("verliert"), L("ihre"), L("Macht")], instruction: L("Was geschah?") },
       quiz: { question: L("Was bedeutet Säkularisation?"), choices: [L("Enteignung der Kirche"), L("Wahl eines Papstes"), L("Bau von Kirchen"), L("Neugründung von Klöstern")], answer: L("Enteignung der Kirche") }
     },
@@ -405,7 +407,7 @@ const I3: IslandSpec = {
       title: L("Restauration"),
       hint1: L("Wiederherstellung der alten Ordnung."),
       hint2: L("Zeit vor der Revolution als Ideal."),
-      svg: { type: "comparison-table", rows: [{ left: L("Neu"), right: L("Revolution") }, { left: L("Alt"), right: L("Monarchie") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Neu", color: "#fff", bg: "#16a34a" }, { text: "Revolution", color: "#fff", bg: "#15803d" }, { text: "Alt", color: "#fff", bg: "#dc2626" }, { text: "Monarchie", color: "#fff", bg: "#991b1b" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Restauration"), right: L("Wiederherstellung") }, { left: L("Alt"), right: L("Vor 1789") }] },
       quiz: { question: L("Was bedeutet Restauration?"), choices: [L("Wiederherstellung"), L("Zerstörung"), L("Neuanfang"), L("Urlaub")], answer: L("Wiederherstellung") }
     },
@@ -432,7 +434,7 @@ const I3: IslandSpec = {
       title: L("Fürst von Metternich"),
       hint1: L("Der 'Kutscher Europas'."),
       hint2: L("Österreichischer Staatsmann."),
-      svg: { type: "word-card", word: L("Metternich"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "Metternich", color: "#475569" },
       interactive: { type: "highlight-text", text: L("Metternich bekämpfte alle liberalen Ideen mit Zensur."), instruction: L("Seine Methode?") },
       quiz: { question: L("Welches Land vertrat Metternich?"), choices: [L("Österreich"), L("Preußen"), L("Russland"), L("England")], answer: L("Österreich") }
     },
@@ -441,7 +443,7 @@ const I3: IslandSpec = {
       title: L("Deutscher Bund"),
       hint1: L("Lockerer Staatenbund von 39 Staaten."),
       hint2: L("Kein deutscher Nationalstaat."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Staatenbund" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🤝", label: "Staatenbund" }] },
       interactive: { type: "tap-count", count: 39, instruction: L("Wie viele Staaten gehörten zum Bund?") },
       quiz: { question: L("Was war der Deutsche Bund?"), choices: [L("Lockerer Staatenbund"), L("Ein Einheitsstaat"), L("Ein Sportverein"), L("Eine Armee")], answer: L("Lockerer Staatenbund") }
     },
@@ -459,7 +461,7 @@ const I3: IslandSpec = {
       title: L("Karlsbader Beschlüsse"),
       hint1: L("Harte Gesetze gegen Liberale."),
       hint2: L("Verbot von Burschenschaften."),
-      svg: { type: "comparison-table", rows: [{ left: L("1819"), right: L("Beschlüsse") }, { left: L("Zensur"), right: L("Überwachung") }] },
+      svg: { type: "text-bubbles", items: [{ text: "1819", color: "#fff", bg: "#475569" }, { text: "Beschlüsse", color: "#fff", bg: "#64748b" }, { text: "Zensur", color: "#fff", bg: "#475569" }, { text: "Überwachung", color: "#fff", bg: "#64748b" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Karlsbad"), right: L("1819") }, { left: L("Verbot"), right: L("Burschenschaften") }] },
       quiz: { question: L("Was wurde in Karlsbad beschlossen?"), choices: [L("Strenge Zensur"), L("Mehr Freiheit"), L("Ein neuer König"), L("Ein Volksfest")], answer: L("Strenge Zensur") }
     },
@@ -486,7 +488,7 @@ const I3: IslandSpec = {
       title: L("Wartburgfest"),
       hint1: L("Studenten forderten deutsche Einheit 1817."),
       hint2: L("Verbrennung von Symbolen der Unfreiheit."),
-      svg: { type: "word-card", word: L("Einheit"), color: "#fff", bg: "#000" },
+      svg: { type: "word-display", word: "Einheit", color: "#000" },
       interactive: { type: "tap-count", count: 1817, instruction: L("In welchem Jahr war das Wartburgfest?") },
       quiz: { question: L("Wer organisierte das Wartburgfest?"), choices: [L("Studenten"), L("Bauern"), L("Könige"), L("Händler")], answer: L("Studenten") }
     },
@@ -495,8 +497,9 @@ const I3: IslandSpec = {
       title: L("Liberalismus"),
       hint1: L("Forderung nach Freiheit des Einzelnen."),
       hint2: L("Rechte gegenüber dem Staat."),
-      svg: { type: "two-groups", left: { items: [L("Freiheit")], bg: "#dcfce7", border: "#16a34a" }, right: { items: [L("Zwang")], bg: "#fee2e2", border: "#dc2626" } },
-      interactive: { type: "lang-mcq", question: L("Was ist das Hauptziel des Liberalismus?"), choices: [L("Freiheit"), L("Absolute Macht"), L("Gleiche Armut")], answer: L("Freiheit") }
+      svg: { type: "two-groups", left: { items: ["Freiheit"], bg: "#dcfce7", border: "#16a34a" }, right: { items: ["Zwang"], bg: "#fee2e2", border: "#dc2626" } },
+      interactive: { type: "lang-mcq", question: L("Was ist das Hauptziel des Liberalismus?"), choices: [L("Freiheit"), L("Absolute Macht"), L("Gleiche Armut")], answer: L("Freiheit") },
+      quiz: { question: L("Was ist das Hauptziel des Liberalismus?"), choices: [L("Freiheit"), L("Absolute Macht"), L("Gleiche Armut"), L("Zensur")], answer: L("Freiheit") }
     },
     {
       id: "nationalismus",
@@ -521,7 +524,7 @@ const I3: IslandSpec = {
       title: L("Pentarchie"),
       hint1: L("Die fünf Großmächte Europas."),
       hint2: L("Gleichgewicht der Kräfte."),
-      svg: { type: "comparison-table", rows: [{ left: L("5"), right: L("Mächte") }, { left: L("Gleichgewicht"), right: L("Frieden") }] },
+      svg: { type: "text-bubbles", items: [{ text: "5", color: "#fff", bg: "#2563eb" }, { text: "Mächte", color: "#fff", bg: "#6366f1" }, { text: "Gleichgewicht", color: "#fff", bg: "#2563eb" }, { text: "Frieden", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 5, instruction: L("Wie viele Mächte bildeten die Pentarchie?") },
       quiz: { question: L("Was war das Ziel der Pentarchie?"), choices: [L("Gleichgewicht der Mächte"), L("Weltherrschaft"), L("Vernichtung Englands"), L("Zerstörung Frankreichs")], answer: L("Gleichgewicht der Mächte") }
     },
@@ -530,7 +533,7 @@ const I3: IslandSpec = {
       title: L("Neue Grenzen"),
       hint1: L("Europa wurde neu aufgeteilt."),
       hint2: L("Preußen erhielt Gebiete am Rhein."),
-      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Preußen" }, { x: 80, y: 50, text: "Österreich" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🦅", label: "Preußen" }, { emoji: "👑", label: "Österreich" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Gewinner"), items: [L("Preußen"), L("Russland")] }] },
       quiz: { question: L("Welches Land erhielt Gebiete am Rhein?"), choices: [L("Preußen"), L("Frankreich"), L("Italien"), L("Spanien")], answer: L("Preußen") }
     }
@@ -565,7 +568,7 @@ const I4: IslandSpec = {
       title: L("Die Paulskirche"),
       hint1: L("Sitz des ersten deutschen Parlaments."),
       hint2: L("Frankfurt am Main."),
-      svg: { type: "word-card", word: L("Parlament"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Parlament", color: "#1e3a8a" },
       interactive: { type: "word-order", words: [L("Erstes"), L("deutsches"), L("Parlament")], instruction: L("Was tagte dort?") },
       quiz: { question: L("In welcher Stadt steht die Paulskirche?"), choices: [L("Frankfurt"), L("Berlin"), L("Leipzig"), L("Köln")], answer: L("Frankfurt") }
     },
@@ -574,7 +577,7 @@ const I4: IslandSpec = {
       title: L("Grundrechte 1848"),
       hint1: L("Erstmals Rechte für alle Deutschen."),
       hint2: L("Vorbild für heutige Gesetze."),
-      svg: { type: "comparison-table", rows: [{ left: L("Freiheit"), right: L("Recht") }, { left: L("Gleichheit"), right: L("Gesetz") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Freiheit", color: "#fff", bg: "#1e3a8a" }, { text: "Recht", color: "#fff", bg: "#3b82f6" }, { text: "Gleichheit", color: "#fff", bg: "#1e3a8a" }, { text: "Gesetz", color: "#fff", bg: "#3b82f6" }] },
       interactive: { type: "highlight-text", text: L("Die Freiheit der Person ist unverletzlich."), instruction: L("Wichtiger Satz!") },
       quiz: { question: L("Was wurde in der Paulskirche erarbeitet?"), choices: [L("Grundrechte"), L("Kriegspläne"), L("Steuertabellen"), L("Liederbücher")], answer: L("Grundrechte") }
     },
@@ -610,7 +613,7 @@ const I4: IslandSpec = {
       title: L("Das Scheitern"),
       hint1: L("Die Revolution wurde niedergeschlagen."),
       hint2: L("Die alten Mächte siegten."),
-      svg: { type: "comparison-table", rows: [{ left: L("Revolution"), right: L("Aus") }, { left: L("Monarchie"), right: L("Bleibt") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Revolution", color: "#fff", bg: "#dc2626" }, { text: "Aus", color: "#fff", bg: "#991b1b" }, { text: "Monarchie", color: "#fff", bg: "#2563eb" }, { text: "Bleibt", color: "#fff", bg: "#1e40af" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Ende"), items: [L("Niederlage"), L("Auflösung")] }] },
       quiz: { question: L("Wie endete die Revolution 1848?"), choices: [L("Sie scheiterte"), L("Sie siegte"), L("Nichts geschah"), L("Krieg begann")], answer: L("Sie scheiterte") }
     },
@@ -619,7 +622,7 @@ const I4: IslandSpec = {
       title: L("Auswanderung"),
       hint1: L("Viele Deutsche flohen nach Amerika."),
       hint2: L("Die 'Forty-Eighters'."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "USA" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🇺🇸", label: "USA" }] },
       interactive: { type: "tap-count", count: 48, instruction: L("Wie nennt man die Auswanderer von 18..?") },
       quiz: { question: L("Wohin flohen viele Revolutionäre?"), choices: [L("Amerika (USA)"), L("Russland"), L("China"), L("Afrika")], answer: L("Amerika (USA)") }
     },
@@ -637,7 +640,7 @@ const I4: IslandSpec = {
       title: L("Februarrevolution"),
       hint1: L("Beginn der Unruhen in Paris."),
       hint2: L("Sturz des 'Bürgerkönigs'."),
-      svg: { type: "comparison-table", rows: [{ left: L("Paris"), right: L("Februar") }, { left: L("Berlin"), right: L("März") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Paris", color: "#fff", bg: "#2563eb" }, { text: "Februar", color: "#fff", bg: "#6366f1" }, { text: "Berlin", color: "#fff", bg: "#2563eb" }, { text: "März", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Februar"), right: L("Paris") }, { left: L("März"), right: L("Berlin") }] },
       quiz: { question: L("Wo begann die Revolution 1848?"), choices: [L("Paris"), L("London"), L("Rom"), L("Madrid")], answer: L("Paris") }
     },
@@ -647,14 +650,15 @@ const I4: IslandSpec = {
       hint1: L("Meist Professoren und Juristen."),
       hint2: L("Das 'Professorenparlament'."),
       svg: { type: "icon-grid", items: [{ emoji: "🎓", label: "Professoren" }, { emoji: "⚖️", label: "Juristen" }] },
-      interactive: { type: "lang-mcq", question: L("Wer saß hauptsächlich im Parlament?"), choices: [L("Gebildete Bürger"), L("Bauern"), L("Fabrikarbeiter")], answer: L("Gebildete Bürger") }
+      interactive: { type: "lang-mcq", question: L("Wer saß hauptsächlich im Parlament?"), choices: [L("Gebildete Bürger"), L("Bauern"), L("Fabrikarbeiter")], answer: L("Gebildete Bürger") },
+      quiz: { question: L("Wer saß hauptsächlich im Parlament?"), choices: [L("Gebildete Bürger"), L("Bauern"), L("Fabrikarbeiter"), L("Adlige")], answer: L("Gebildete Bürger") }
     },
     {
       id: "grundrechte_heute",
       title: L("Grundrechte heute"),
       hint1: L("Ähnlichkeit zum Grundgesetz."),
       hint2: L("Wurzeln unserer Freiheit."),
-      svg: { type: "word-card", word: L("Grundgesetz"), color: "#fff", bg: "#166534" },
+      svg: { type: "word-display", word: "Grundgesetz", color: "#166534" },
       interactive: { type: "gap-fill", text: L("1848 war ein __ für heute."), gaps: [{ index: 0, options: ["Vorbild", "Fehler"], correct: 0 }] },
       quiz: { question: L("Welches heutige Gesetz hat Wurzeln in 1848?"), choices: [L("Grundgesetz"), L("Strafgesetzbuch"), L("Straßenverkehrsordnung"), L("Schulordnung")], answer: L("Grundgesetz") }
     },
@@ -672,7 +676,7 @@ const I4: IslandSpec = {
       title: L("Reaktionszeit"),
       hint1: L("Rückkehr zur alten Ordnung nach 1849."),
       hint2: L("Unterdrückung der Demokraten."),
-      svg: { type: "comparison-table", rows: [{ left: L("Revolution"), right: L("Ende") }, { left: L("Polizei"), right: L("Macht") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Revolution", color: "#fff", bg: "#dc2626" }, { text: "Ende", color: "#fff", bg: "#991b1b" }, { text: "Polizei", color: "#fff", bg: "#475569" }, { text: "Macht", color: "#fff", bg: "#64748b" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Folgen"), items: [L("Überwachung"), L("Verhaftung")] }] },
       quiz: { question: L("Was geschah nach dem Scheitern?"), choices: [L("Harte Unterdrückung"), L("Sofortige Wahlen"), L("Ein Volksfest"), L("Krieg gegen England")], answer: L("Harte Unterdrückung") }
     }
@@ -698,7 +702,7 @@ const I5: IslandSpec = {
       title: L("Mutterland England"),
       hint1: L("Hier begann die Industrialisierung."),
       hint2: L("Rohstoffe und Erfindungen."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "England" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🇬🇧", label: "England" }] },
       interactive: { type: "gap-fill", text: L("England hatte viel __."), gaps: [{ index: 0, options: ["Kohle", "Holz"], correct: 0 }] },
       quiz: { question: L("In welchem Land begann die Industrie?"), choices: [L("England"), L("Deutschland"), L("Frankreich"), L("USA")], answer: L("England") }
     },
@@ -716,7 +720,7 @@ const I5: IslandSpec = {
       title: L("Die Eisenbahn"),
       hint1: L("Revolution des Transports."),
       hint2: L("Schneller Transport von Kohle."),
-      svg: { type: "word-card", word: L("Dampflok"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "Dampflok", color: "#475569" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Adler"), right: L("Erste Bahn") }, { left: L("Schienen"), right: L("Weg") }] },
       quiz: { question: L("Was veränderte den Transport?"), choices: [L("Eisenbahn"), L("Pferdewagen"), L("Schiff"), L("Flugzeug")], answer: L("Eisenbahn") }
     },
@@ -734,7 +738,7 @@ const I5: IslandSpec = {
       title: L("Fabrikarbeit"),
       hint1: L("Arbeit unter einem Dach."),
       hint2: L("Feste Arbeitszeiten und Disziplin."),
-      svg: { type: "comparison-table", rows: [{ left: L("Früher"), right: L("Handarbeit") }, { left: L("Heute"), right: L("Maschinen") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Früher", color: "#fff", bg: "#92400e" }, { text: "Handarbeit", color: "#fff", bg: "#b45309" }, { text: "Heute", color: "#fff", bg: "#475569" }, { text: "Maschinen", color: "#fff", bg: "#64748b" }] },
       interactive: { type: "gap-fill", text: L("In der Fabrik regiert die __."), gaps: [{ index: 0, options: ["Uhr", "Sonne"], correct: 0 }] },
       quiz: { question: L("Was war neu in Fabriken?"), choices: [L("Strenge Disziplin"), L("Viel Freiheit"), L("Keine Regeln"), L("Kurze Arbeit")], answer: L("Strenge Disziplin") }
     },
@@ -752,7 +756,7 @@ const I5: IslandSpec = {
       title: L("Urbanisierung"),
       hint1: L("Wachstum der Städte."),
       hint2: L("Menschen ziehen vom Land weg."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Großstadt" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🏙️", label: "Großstadt" }] },
       interactive: { type: "sentence-build", words: [L("Städte"), L("wachsen"), L("sehr"), L("schnell")], instruction: L("Was ist Urbanisierung?") },
       quiz: { question: L("Wohin zogen die Menschen?"), choices: [L("In die Städte"), L("Aufs Land"), L("In den Wald"), L("Gar nicht")], answer: L("In die Städte") }
     },
@@ -762,7 +766,8 @@ const I5: IslandSpec = {
       hint1: L("Privater Besitz von Fabriken."),
       hint2: L("Gewinn steht im Vordergrund."),
       svg: { type: "text-bubbles", items: [{ text: "Kapital", color: "#fff", bg: "#fbbf24" }, { text: "Profit", color: "#fff", bg: "#16a34a" }] },
-      interactive: { type: "lang-mcq", question: L("Was ist Kapitalismus?"), choices: [L("Marktwirtschaft mit Profit"), L("Tausch von Äpfeln"), L("Alles gehört allen")], answer: L("Marktwirtschaft mit Profit") }
+      interactive: { type: "lang-mcq", question: L("Was ist Kapitalismus?"), choices: [L("Marktwirtschaft mit Profit"), L("Tausch von Äpfeln"), L("Alles gehört allen")], answer: L("Marktwirtschaft mit Profit") },
+      quiz: { question: L("Was ist Kapitalismus?"), choices: [L("Marktwirtschaft mit Profit"), L("Tausch von Äpfeln"), L("Alles gehört allen"), L("Planwirtschaft")], answer: L("Marktwirtschaft mit Profit") }
     },
     {
       id: "technisierung",
@@ -778,7 +783,7 @@ const I5: IslandSpec = {
       title: L("Dampflokomotive"),
       hint1: L("Antrieb durch Wasserdampf."),
       hint2: L("Schwerer Transport möglich."),
-      svg: { type: "comparison-table", rows: [{ left: L("Pferd"), right: L("Schwach") }, { left: L("Lok"), right: L("Stark") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Pferd", color: "#fff", bg: "#92400e" }, { text: "Schwach", color: "#fff", bg: "#b45309" }, { text: "Lok", color: "#fff", bg: "#475569" }, { text: "Stark", color: "#fff", bg: "#64748b" }] },
       interactive: { type: "gap-fill", text: L("Die Lok braucht Wasser und __."), gaps: [{ index: 0, options: ["Kohle", "Holz"], correct: 0 }] },
       quiz: { question: L("Wie wurde die Lok angetrieben?"), choices: [L("Wasserdampf"), L("Elektrizität"), L("Benzin"), L("Luft")], answer: L("Wasserdampf") }
     },
@@ -787,7 +792,7 @@ const I5: IslandSpec = {
       title: L("Fabrikbesitzer"),
       hint1: L("Die neuen Reichen."),
       hint2: L("Oft Bourgeoisie genannt."),
-      svg: { type: "word-card", word: L("Unternehmer"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Unternehmer", color: "#1e3a8a" },
       interactive: { type: "highlight-text", text: L("Die Unternehmer besaßen das Kapital."), instruction: L("Wer war mächtig?") },
       quiz: { question: L("Wer besaß die Fabriken?"), choices: [L("Unternehmer"), L("Arbeiter"), L("Könige"), L("Priester")], answer: L("Unternehmer") }
     },
@@ -814,7 +819,8 @@ const I5: IslandSpec = {
       title: L("Wichtige Erfindungen"),
       hint1: L("Rad, Pflug, Dampfmaschine."),
       hint2: L("Technik verändert die Welt."),
-      svg: { type: "block-drag", blocks: [{ label: L("Erfindungen"), items: [L("Telefon"), L("Glühbirne")] }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📞", label: "Telefon" }, { emoji: "💡", label: "Glühbirne" }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Telefon"), right: L("Bell") }, { left: L("Glühbirne"), right: L("Edison") }] },
       quiz: { question: L("Was gehört zur späten Industriezeit?"), choices: [L("Elektrizität"), L("Feuerstein"), L("Höhlenmalerei"), L("Streitwagen")], answer: L("Elektrizität") }
     }
   ]
@@ -830,7 +836,7 @@ const I6: IslandSpec = {
       title: L("Das Elend"),
       hint1: L("Schlechte Arbeitsbedingungen."),
       hint2: L("Lange Arbeitszeiten, wenig Lohn."),
-      svg: { type: "comparison-table", rows: [{ left: L("Lohn"), right: L("Niedrig") }, { left: L("Zeit"), right: L("14 Stunden") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Lohn", color: "#fff", bg: "#991b1b" }, { text: "Niedrig", color: "#fff", bg: "#dc2626" }, { text: "Zeit", color: "#fff", bg: "#991b1b" }, { text: "14 Stunden", color: "#fff", bg: "#dc2626" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Lohn"), right: L("Wenig") }, { left: L("Wohnung"), right: L("Eng") }] },
       quiz: { question: L("Wie war das Leben der Arbeiter?"), choices: [L("Sehr arm"), L("Reich"), L("Gemütlich"), L("Luxuriös")], answer: L("Sehr arm") }
     },
@@ -848,7 +854,7 @@ const I6: IslandSpec = {
       title: L("Das Proletariat"),
       hint1: L("Die neue Klasse der Arbeiter."),
       hint2: L("Besitzlose Lohnarbeiter."),
-      svg: { type: "word-card", word: L("Arbeiterklasse"), color: "#fff", bg: "#991b1b" },
+      svg: { type: "word-display", word: "Arbeiterklasse", color: "#991b1b" },
       interactive: { type: "sentence-build", words: [L("Arbeiter"), L("haben"), L("keinen"), L("Besitz")], instruction: L("Wer sind Proletarier?") },
       quiz: { question: L("Wie nennt man die besitzlose Klasse?"), choices: [L("Proletariat"), L("Adel"), L("Bourgeoisie"), L("Klerus")], answer: L("Proletariat") }
     },
@@ -875,7 +881,7 @@ const I6: IslandSpec = {
       title: L("Bismarcks Gesetze"),
       hint1: L("Erste Krankenversicherung 1883."),
       hint2: L("Schutz gegen Krankheiten und Unfälle."),
-      svg: { type: "comparison-table", rows: [{ left: L("Krankheit"), right: L("Geld") }, { left: L("Alter"), right: L("Rente") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Krankheit", color: "#fff", bg: "#7c3aed" }, { text: "Geld", color: "#fff", bg: "#6d28d9" }, { text: "Alter", color: "#fff", bg: "#7c3aed" }, { text: "Rente", color: "#fff", bg: "#6d28d9" }] },
       interactive: { type: "tap-count", count: 3, instruction: L("Wie viele große Versicherungen (Kranken, Unfall, Rente)?") },
       quiz: { question: L("Wer führte die Sozialversicherung ein?"), choices: [L("Bismarck"), L("Napoleon"), L("Marx"), L("Hitler")], answer: L("Bismarck") }
     },
@@ -884,7 +890,7 @@ const I6: IslandSpec = {
       title: L("Mietskasernen"),
       hint1: L("Enge, dunkle Wohnungen."),
       hint2: L("Oft viele Menschen in einem Zimmer."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Hinterhof" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🏚️", label: "Hinterhof" }] },
       interactive: { type: "gap-fill", text: L("Es war eng und __."), gaps: [{ index: 0, options: ["ungesund", "luxuriös"], correct: 0 }] },
       quiz: { question: L("Wie nannte man die Arbeiterhäuser?"), choices: [L("Mietskasernen"), L("Villen"), L("Schlösser"), L("Hotels")], answer: L("Mietskasernen") }
     },
@@ -902,8 +908,9 @@ const I6: IslandSpec = {
       title: L("Sozialismus"),
       hint1: L("Gleichheit und soziale Gerechtigkeit."),
       hint2: L("Staat soll Wirtschaft lenken."),
-      svg: { type: "word-card", word: L("Gleichheit"), color: "#fff", bg: "#991b1b" },
-      interactive: { type: "lang-mcq", question: L("Was want der Sozialismus?"), choices: [L("Soziale Sicherheit"), L("Absolute Monarchie"), L("Sklaverei")], answer: L("Soziale Sicherheit") }
+      svg: { type: "word-display", word: "Gleichheit", color: "#991b1b" },
+      interactive: { type: "lang-mcq", question: L("Was will der Sozialismus?"), choices: [L("Soziale Sicherheit"), L("Absolute Monarchie"), L("Sklaverei")], answer: L("Soziale Sicherheit") },
+      quiz: { question: L("Was will der Sozialismus?"), choices: [L("Soziale Sicherheit"), L("Absolute Monarchie"), L("Sklaverei"), L("Feudalismus")], answer: L("Soziale Sicherheit") }
     },
     {
       id: "hygiene",
@@ -919,7 +926,7 @@ const I6: IslandSpec = {
       title: L("Das Telefon"),
       hint1: L("Schnelle Übermittlung von Tönen."),
       hint2: L("Graham Bell."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Telefon" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📞", label: "Telefon" }] },
       interactive: { type: "gap-fill", text: L("Erfinder: Graham __."), gaps: [{ index: 0, options: ["Bell", "Edison"], correct: 0 }] },
       quiz: { question: L("Was erfand Graham Bell?"), choices: [L("Telefon"), L("Auto"), L("Radio"), L("Dampfschiff")], answer: L("Telefon") }
     },
@@ -937,7 +944,7 @@ const I6: IslandSpec = {
       title: L("Das Auto"),
       hint1: L("Fahrzeug mit Verbrennungsmotor."),
       hint2: L("Carl Benz 1886."),
-      svg: { type: "word-card", word: L("Benz"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "Benz", color: "#475569" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Benz"), right: L("Auto") }, { left: L("1886"), right: L("Patent") }] },
       quiz: { question: L("Wann wurde das Auto erfunden?"), choices: [L("1886"), L("1835"), L("1914"), L("1789")], answer: L("1886") }
     },
@@ -946,7 +953,7 @@ const I6: IslandSpec = {
       title: L("Frauen in der Industrie"),
       hint1: L("Frauen arbeiteten oft für weniger Lohn."),
       hint2: L("Doppelbelastung: Haushalt und Fabrik."),
-      svg: { type: "comparison-table", rows: [{ left: L("Mann"), right: L("Mehr Lohn") }, { left: L("Frau"), right: L("Weniger Lohn") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Mann", color: "#fff", bg: "#2563eb" }, { text: "Mehr Lohn", color: "#fff", bg: "#3b82f6" }, { text: "Frau", color: "#fff", bg: "#db2777" }, { text: "Weniger Lohn", color: "#fff", bg: "#ec4899" }] },
       interactive: { type: "sentence-build", words: [L("Frauen"), L("verdienten"), L("weniger"), L("als"), L("Männer")], instruction: L("Ungerechtigkeit?") },
       quiz: { question: L("Warum stellten Fabrikanten gerne Frauen ein?"), choices: [L("Sie waren billiger"), L("Sie waren stärker"), L("Sie hatten Ferien"), L("Nichts")], answer: L("Sie waren billiger") }
     },
@@ -990,7 +997,7 @@ const I7: IslandSpec = {
       title: L("Reichsgründung 1871"),
       hint1: L("Nach dem Sieg gegen Frankreich."),
       hint2: L("Im Spiegelsaal von Versailles."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Versailles" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🏛️", label: "Versailles" }] },
       interactive: { type: "tap-count", count: 1871, instruction: L("In welchem Jahr wurde das Reich gegründet?") },
       quiz: { question: L("Wo wurde das Deutsche Reich gegründet?"), choices: [L("Versailles"), L("Berlin"), L("Frankfurt"), L("München")], answer: L("Versailles") }
     },
@@ -1017,15 +1024,16 @@ const I7: IslandSpec = {
       title: L("Kulturkampf"),
       hint1: L("Konflikt zwischen Staat und Kirche."),
       hint2: L("Bismarck gegen den Papst."),
-      svg: { type: "comparison-table", rows: [{ left: L("Bismarck"), right: L("Staat") }, { left: L("Papst"), right: L("Kirche") }] },
-      interactive: { type: "lang-mcq", question: L("Gegen wen richtete sich the Kulturkampf?"), choices: [L("Katholische Kirche"), L("Bauern"), L("Händler")], answer: L("Katholische Kirche") }
+      svg: { type: "text-bubbles", items: [{ text: "Bismarck", color: "#fff", bg: "#475569" }, { text: "Staat", color: "#fff", bg: "#64748b" }, { text: "Papst", color: "#fff", bg: "#7c3aed" }, { text: "Kirche", color: "#fff", bg: "#6d28d9" }] },
+      interactive: { type: "lang-mcq", question: L("Gegen wen richtete sich der Kulturkampf?"), choices: [L("Katholische Kirche"), L("Bauern"), L("Händler")], answer: L("Katholische Kirche") },
+      quiz: { question: L("Gegen wen richtete sich der Kulturkampf?"), choices: [L("Katholische Kirche"), L("Bauern"), L("Händler"), L("Armee")], answer: L("Katholische Kirche") }
     },
     {
       id: "sozialistengesetze",
       title: L("Sozialistengesetze"),
       hint1: L("Verbot von sozialistischen Parteien."),
       hint2: L("Angst vor Revolution der Arbeiter."),
-      svg: { type: "word-card", word: L("Verbot"), color: "#fff", bg: "#991b1b" },
+      svg: { type: "word-display", word: "Verbot", color: "#991b1b" },
       interactive: { type: "gap-fill", text: L("Bismarck verbot die __."), gaps: [{ index: 0, options: ["Sozialisten", "Könige"], correct: 0 }] },
       quiz: { question: L("Warum gab es die Sozialistengesetze?"), choices: [L("Angst vor Umsturz"), L("Geldmangel"), L("Umweltgründe"), L("Nichts")], answer: L("Angst vor Umsturz") }
     },
@@ -1043,7 +1051,7 @@ const I7: IslandSpec = {
       title: L("Schlacht von Sedan"),
       hint1: L("Entscheidender Sieg 1870."),
       hint2: L("Napoleon III. wurde gefangen."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Sieg" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🏆", label: "Sieg" }] },
       interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Kaiser wurden gefangen?") },
       quiz: { question: L("Welche Schlacht entschied den Krieg 1870?"), choices: [L("Sedan"), L("Waterloo"), L("Leipzig"), L("Stalingrad")], answer: L("Sedan") }
     },
@@ -1052,7 +1060,7 @@ const I7: IslandSpec = {
       title: L("Norddeutscher Bund"),
       hint1: L("Vorstufe zum Kaiserreich."),
       hint2: L("Gegründet nach 1866."),
-      svg: { type: "comparison-table", rows: [{ left: L("Preußen"), right: L("Führung") }, { left: L("Norden"), right: L("Einheit") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Preußen", color: "#fff", bg: "#1e3a8a" }, { text: "Führung", color: "#fff", bg: "#2563eb" }, { text: "Norden", color: "#fff", bg: "#1e3a8a" }, { text: "Einheit", color: "#fff", bg: "#2563eb" }] },
       interactive: { type: "word-order", words: [L("Bund"), L("der"), L("nördlichen"), L("Staaten")], instruction: L("Was war es?") },
       quiz: { question: L("Wer führte den Norddeutschen Bund an?"), choices: [L("Preußen"), L("Bayern"), L("Sachsen"), L("Hessen")], answer: L("Preußen") }
     },
@@ -1079,7 +1087,7 @@ const I7: IslandSpec = {
       title: L("Dreiklassenwahlrecht"),
       hint1: L("Wahlsystem in Preußen."),
       hint2: L("Reiche hatten mehr Stimmen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Reich"), right: L("Viel Macht") }, { left: L("Arm"), right: L("Wenig Macht") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Reich", color: "#fff", bg: "#b45309" }, { text: "Viel Macht", color: "#fff", bg: "#d97706" }, { text: "Arm", color: "#fff", bg: "#475569" }, { text: "Wenig Macht", color: "#fff", bg: "#64748b" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Stimmen"), items: [L("Klasse 1"), L("Klasse 2"), L("Klasse 3")] }] },
       quiz: { question: L("Wer hatte beim Dreiklassenwahlrecht am meisten Macht?"), choices: [L("Die Reichen"), L("Die Armen"), L("Die Bauern"), L("Niemand")], answer: L("Die Reichen") }
     },
@@ -1088,7 +1096,7 @@ const I7: IslandSpec = {
       title: L("Lied der Deutschen"),
       hint1: L("1841 von Fallersleben geschrieben."),
       hint2: L("Wunsch nach Einheit."),
-      svg: { type: "word-card", word: L("Helgoland"), color: "#fff", bg: "#0284c7" },
+      svg: { type: "word-display", word: "Helgoland", color: "#0284c7" },
       interactive: { type: "sentence-build", words: [L("Einigkeit"), L("und"), L("Recht"), L("und"), L("Freiheit")], instruction: L("Beginn der Hymne?") },
       quiz: { question: L("Wer schrieb das Lied der Deutschen?"), choices: [L("Fallersleben"), L("Goethe"), L("Schiller"), L("Bismarck")], answer: L("Fallersleben") }
     },
@@ -1123,7 +1131,7 @@ const I8: IslandSpec = {
       title: L("Wettlauf um Afrika"),
       hint1: L("Aufteilung Afrikas unter Europa."),
       hint2: L("Konferenz in Berlin 1884."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Afrika" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🌍", label: "Afrika" }] },
       interactive: { type: "gap-fill", text: L("Die Mächte zogen __."), gaps: [{ index: 0, options: ["Grenzen", "Schiffe"], correct: 0 }] },
       quiz: { question: L("Wo wurde Afrika aufgeteilt?"), choices: [L("Berlin"), L("Paris"), L("London"), L("Rom")], answer: L("Berlin") }
     },
@@ -1132,7 +1140,7 @@ const I8: IslandSpec = {
       title: L("Rohstoffraub"),
       hint1: L("Kolonien lieferten billige Waren."),
       hint2: L("Gummi, Gold und Kakao."),
-      svg: { type: "comparison-table", rows: [{ left: L("Kolonie"), right: L("Rohstoff") }, { left: L("Europa"), right: L("Fabrik") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Kolonie", color: "#fff", bg: "#3b82f6" }, { text: "Rohstoff", color: "#fff", bg: "#6366f1" }, { text: "Europa", color: "#fff", bg: "#3b82f6" }, { text: "Fabrik", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Waren"), items: [L("Gold"), L("Gummi")] }] },
       quiz: { question: L("Was holten die Europäer aus Kolonien?"), choices: [L("Rohstoffe"), L("Fertige Autos"), L("Computer"), L("Nichts")], answer: L("Rohstoffe") }
     },
@@ -1150,7 +1158,7 @@ const I8: IslandSpec = {
       title: L("Flottenbau"),
       hint1: L("Deutschland baut große Kriegsschiffe."),
       hint2: L("Wettlauf mit England zur See."),
-      svg: { type: "word-card", word: L("Schlachtschiff"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Schlachtschiff", color: "#1e3a8a" },
       interactive: { type: "tap-count", count: 2, instruction: L("Wie viele Mächte (DE/GB) bauten um die Wette?") },
       quiz: { question: L("Gegen wen baute Deutschland Schiffe?"), choices: [L("England"), L("Russland"), L("USA"), L("Spanien")], answer: L("England") }
     },
@@ -1160,7 +1168,8 @@ const I8: IslandSpec = {
       hint1: L("Europäer hielten sich für überlegen."),
       hint2: L("Rechtfertigung für Unterdrückung."),
       svg: { type: "icon-grid", items: [{ emoji: "📖", label: "Lehre" }, { emoji: "⛪", label: "Mission" }] },
-      interactive: { type: "lang-mcq", question: L("Was war eine Rechtfertigung?"), choices: [L("Zivilisierungsmission"), L("Sportwettkampf"), L("Urlaubshilfe")], answer: L("Zivilisierungsmission") }
+      interactive: { type: "lang-mcq", question: L("Was war eine Rechtfertigung?"), choices: [L("Zivilisierungsmission"), L("Sportwettkampf"), L("Urlaubshilfe")], answer: L("Zivilisierungsmission") },
+      quiz: { question: L("Was war eine Rechtfertigung für Kolonisierung?"), choices: [L("Zivilisierungsmission"), L("Sportwettkampf"), L("Urlaubshilfe"), L("Friedenspakt")], answer: L("Zivilisierungsmission") }
     },
     {
       id: "wilhelm2",
@@ -1176,7 +1185,7 @@ const I8: IslandSpec = {
       title: L("Sozialdarwinismus"),
       hint1: L("Recht des Stärkeren."),
       hint2: L("Falsche Anwendung von Darwins Lehre."),
-      svg: { type: "comparison-table", rows: [{ left: L("Stark"), right: L("Herrscht") }, { left: L("Schwach"), right: L("Dient") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Stark", color: "#fff", bg: "#dc2626" }, { text: "Herrscht", color: "#fff", bg: "#b91c1c" }, { text: "Schwach", color: "#fff", bg: "#2563eb" }, { text: "Dient", color: "#fff", bg: "#1d4ed8" }] },
       interactive: { type: "gap-fill", text: L("Recht des __."), gaps: [{ index: 0, options: ["Stärkeren", "Gerechten"], correct: 0 }] },
       quiz: { question: L("Was besagt der Sozialdarwinismus?"), choices: [L("Recht des Stärkeren"), L("Alle sind gleich"), L("Gott herrscht"), L("Nichts")], answer: L("Recht des Stärkeren") }
     },
@@ -1185,7 +1194,7 @@ const I8: IslandSpec = {
       title: L("Kolonialmächte"),
       hint1: L("England, Frankreich, Deutschland."),
       hint2: L("Wer hat die meisten Kolonien?"),
-      svg: { type: "block-drag", blocks: [{ label: L("Mächte"), items: [L("England"), L("Frankreich"), L("Deutschland")] }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🇬🇧", label: "England" }, { emoji: "🇫🇷", label: "Frankreich" }, { emoji: "🇩🇪", label: "Deutschland" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Indien"), right: L("England") }, { left: L("Algerien"), right: L("Frankreich") }] },
       quiz: { question: L("Wer hatte das größte Weltreich?"), choices: [L("England"), L("Deutschland"), L("Russland"), L("Japan")], answer: L("England") }
     },
@@ -1212,7 +1221,7 @@ const I8: IslandSpec = {
       title: L("Missionare"),
       hint1: L("Verbreitung des Christentums."),
       hint2: L("Oft Hand in Hand mit Soldaten."),
-      svg: { type: "comparison-table", rows: [{ left: L("Bibel"), right: L("Glaube") }, { left: L("Schutz"), right: L("Armee") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Bibel", color: "#fff", bg: "#7c3aed" }, { text: "Glaube", color: "#fff", bg: "#6d28d9" }, { text: "Schutz", color: "#fff", bg: "#059669" }, { text: "Armee", color: "#fff", bg: "#047857" }] },
       interactive: { type: "gap-fill", text: L("Sie brachten das __."), gaps: [{ index: 0, options: ["Christentum", "Islam"], correct: 0 }] },
       quiz: { question: L("Was machten Missionare in Afrika?"), choices: [L("Religion verbreiten"), L("Häuser bauen"), L("Gar nichts"), L("Auto fahren")], answer: L("Religion verbreiten") }
     },
@@ -1221,7 +1230,7 @@ const I8: IslandSpec = {
       title: L("Bahn in Afrika"),
       hint1: L("Transport von Rohstoffen zur Küste."),
       hint2: L("Ausbeutung des Hinterlandes."),
-      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Mine" }, { x: 80, y: 50, text: "Hafen" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "⛏️", label: "Mine" }, { emoji: "🚢", label: "Hafen" }] },
       interactive: { type: "word-order", words: [L("Vom"), L("Inneren"), L("zum"), L("Meer")], instruction: L("Der Weg?") },
       quiz: { question: L("Wozu dienten die Bahnen in Kolonien?"), choices: [L("Rohstofftransport"), L("Tourismus"), L("Zum Spaß"), L("Nichts")], answer: L("Rohstofftransport") }
     },
@@ -1230,7 +1239,7 @@ const I8: IslandSpec = {
       title: L("Schutzgebiete"),
       hint1: L("Name für deutsche Kolonien."),
       hint2: L("Angeblicher Schutz durch das Reich."),
-      svg: { type: "word-card", word: L("Togo"), color: "#fff", bg: "#16a34a" },
+      svg: { type: "word-display", word: "Togo", color: "#16a34a" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Togo"), right: L("Afrika") }, { left: L("Samoa"), right: L("Südsee") }] },
       quiz: { question: L("Wie nannte Deutschland seine Kolonien?"), choices: [L("Schutzgebiete"), L("Ferienorte"), L("Bundesländer"), L("Provinzen")], answer: L("Schutzgebiete") }
     },
@@ -1274,7 +1283,7 @@ const I9: IslandSpec = {
       title: L("Bündnisse 1914"),
       hint1: L("Europa war in zwei Blöcke geteilt."),
       hint2: L("Entente gegen Mittelmächte."),
-      svg: { type: "two-groups", left: { items: [L("Deutschland"), L("Österreich")], bg: "#fee2e2", border: "#ef4444" }, right: { items: [L("Frankreich"), L("Russland")], bg: "#dbeafe", border: "#2563eb" } },
+      svg: { type: "two-groups", left: { items: ["Deutschland", "Österreich"], bg: "#fee2e2", border: "#ef4444" }, right: { items: ["Frankreich", "Russland"], bg: "#dbeafe", border: "#2563eb" } },
       interactive: { type: "block-drag", blocks: [{ label: L("Mittelmächte"), items: [L("Deutschland"), L("Österreich")] }] },
       quiz: { question: L("Wer gehörte zur Entente?"), choices: [L("Frankreich, Russland, England"), L("Deutschland, Österreich"), L("USA, China"), L("Niemand")], answer: L("Frankreich, Russland, England") }
     },
@@ -1283,7 +1292,7 @@ const I9: IslandSpec = {
       title: L("Wettrüsten"),
       hint1: L("Alle Mächte vergrößern ihr Heer."),
       hint2: L("Angst vor dem Nachbarn."),
-      svg: { type: "comparison-table", rows: [{ left: L("Früher"), right: L("Wenig Waffen") }, { left: L("1914"), right: L("Viel Waffen") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Früher", color: "#fff", bg: "#16a34a" }, { text: "Wenig Waffen", color: "#fff", bg: "#15803d" }, { text: "1914", color: "#fff", bg: "#dc2626" }, { text: "Viel Waffen", color: "#fff", bg: "#b91c1c" }] },
       interactive: { type: "tap-count", count: 2, instruction: L("Wie viele große Bündnisblöcke?") },
       quiz: { question: L("Was ist ein Wettrüsten?"), choices: [L("Immer mehr Waffen bauen"), L("Ein sportlicher Wettkampf"), L("Hausbau-Wettbewerb"), L("Nichts")], answer: L("Immer mehr Waffen bauen") }
     },
@@ -1292,7 +1301,7 @@ const I9: IslandSpec = {
       title: L("Der Blankoscheck"),
       hint1: L("Zusage Deutschlands an Österreich."),
       hint2: L("Bedingungslose Unterstützung."),
-      svg: { type: "word-card", word: L("Scheck"), color: "#fff", bg: "#16a34a" },
+      svg: { type: "word-display", word: "Scheck", color: "#16a34a" },
       interactive: { type: "highlight-text", text: L("Deutschland versprach Österreich volle Hilfe."), instruction: L("Was war der Scheck?") },
       quiz: { question: L("Wem gab Deutschland den Blankoscheck?"), choices: [L("Österreich"), L("Russland"), L("Serbien"), L("Italien")], answer: L("Österreich") }
     },
@@ -1310,7 +1319,7 @@ const I9: IslandSpec = {
       title: L("Schlieffenplan"),
       hint1: L("Deutscher Plan für Zweifrontenkrieg."),
       hint2: L("Erst Frankreich, dann Russland."),
-      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Frankreich" }, { x: 80, y: 50, text: "Russland" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🇫🇷", label: "Frankreich" }, { emoji: "🇷🇺", label: "Russland" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Westen"), right: L("Frankreich") }, { left: L("Osten"), right: L("Russland") }] },
       quiz: { question: L("Wen wollte Deutschland zuerst besiegen?"), choices: [L("Frankreich"), L("Russland"), L("England"), L("USA")], answer: L("Frankreich") }
     },
@@ -1346,7 +1355,7 @@ const I9: IslandSpec = {
       title: L("Österreich gegen Serbien"),
       hint1: L("Der Funke am Balkan."),
       hint2: L("Ultimatum nach dem Attentat."),
-      svg: { type: "comparison-table", rows: [{ left: L("Österreich"), right: L("Groß") }, { left: L("Serbien"), right: L("Klein") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Österreich", color: "#fff", bg: "#dc2626" }, { text: "Groß", color: "#fff", bg: "#b91c1c" }, { text: "Serbien", color: "#fff", bg: "#2563eb" }, { text: "Klein", color: "#fff", bg: "#1d4ed8" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Wien"), right: L("Österreich") }, { left: L("Belgrad"), right: L("Serbien") }] },
       quiz: { question: L("Gegen wen erklärte Österreich zuerst den Krieg?"), choices: [L("Serbien"), L("Russland"), L("Frankreich"), L("England")], answer: L("Serbien") }
     },
@@ -1355,7 +1364,7 @@ const I9: IslandSpec = {
       title: L("Russlands Antwort"),
       hint1: L("Russland hilft seinem 'Bruder' Serbien."),
       hint2: L("Mobilmachung im Osten."),
-      svg: { type: "word-card", word: L("Schutz"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Schutz", color: "#1e3a8a" },
       interactive: { type: "gap-fill", text: L("Russland schützte __."), gaps: [{ index: 0, options: ["Serbien", "Polen"], correct: 0 }] },
       quiz: { question: L("Wen schützte Russland?"), choices: [L("Serbien"), L("Deutschland"), L("Österreich"), L("Türkei")], answer: L("Serbien") }
     },
@@ -1365,7 +1374,8 @@ const I9: IslandSpec = {
       hint1: L("Freude auf den Krieg."),
       hint2: L("Man dachte, man ist zu Weihnachten zuhause."),
       svg: { type: "icon-grid", items: [{ emoji: "🚩", label: "Stolz" }, { emoji: "🚅", label: "Abfahrt" }] },
-      interactive: { type: "lang-mcq", question: L("Was dachten viele Soldaten am Anfang?"), choices: [L("Kurzer Krieg"), L("Langer Krieg"), L("Gar kein Krieg")], answer: L("Kurzer Krieg") }
+      interactive: { type: "lang-mcq", question: L("Was dachten viele Soldaten am Anfang?"), choices: [L("Kurzer Krieg"), L("Langer Krieg"), L("Gar kein Krieg")], answer: L("Kurzer Krieg") },
+      quiz: { question: L("Was dachten viele Soldaten am Anfang?"), choices: [L("Kurzer Krieg"), L("Langer Krieg"), L("Gar kein Krieg"), L("Frieden")], answer: L("Kurzer Krieg") }
     },
     {
       id: "weltkrieg",
@@ -1381,7 +1391,7 @@ const I9: IslandSpec = {
       title: L("Ende einer Epoche"),
       hint1: L("Die alte Welt geht unter."),
       hint2: L("Beginn des Zeitalters der Extreme."),
-      svg: { type: "comparison-table", rows: [{ left: L("Früher"), right: L("Könige") }, { left: L("Später"), right: L("Chaos") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Früher", color: "#fff", bg: "#7c3aed" }, { text: "Könige", color: "#fff", bg: "#6d28d9" }, { text: "Später", color: "#fff", bg: "#dc2626" }, { text: "Chaos", color: "#fff", bg: "#b91c1c" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Wandel"), items: [L("Ende"), L("Neuanfang")] }] },
       quiz: { question: L("Was markiert 1914 historisch?"), choices: [L("Ende des 19. Jahrhunderts"), L("Anfang der Römer"), L("Entdeckung Amerikas"), L("Nichts")], answer: L("Ende des 19. Jahrhunderts") }
     }

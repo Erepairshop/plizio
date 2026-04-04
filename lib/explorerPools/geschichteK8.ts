@@ -130,7 +130,7 @@ const I1: IslandSpec = {
       title: L("Grabenkrieg"),
       hint1: L("Soldaten lebten monatelang in Schützengräben."),
       hint2: L("Es gab kaum Geländegewinne, nur viele Tote."),
-      svg: { type: "comparison-table", rows: [{ left: L("Angriff"), right: L("Verlust") }, { left: L("Abwehr"), right: L("Graben") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Angriff → Verlust", color: "#fff", bg: "#3b82f6" }, { text: "Abwehr → Graben", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "gap-fill", text: L("An der __ erstarrte die Front."), gaps: [{ index: 0, options: ["Westfront", "Ostfront"], correct: 0 }] },
       quiz: { question: L("Was ist typisch für den Ersten Weltkrieg?"), choices: [L("Grabenkrieg"), L("Blitzkrieg"), L("Ritterkampf"), L("Atomkrieg")], answer: L("Grabenkrieg") }
     },
@@ -157,7 +157,7 @@ const I1: IslandSpec = {
       title: L("Paul von Hindenburg"),
       hint1: L("Deutscher Generalfeldmarschall."),
       hint2: L("Späterer Reichspräsident."),
-      svg: { type: "word-card", word: L("Generalfeldmarschall"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Generalfeldmarschall", color: "#1e3a8a" },
       interactive: { type: "highlight-text", text: L("Hindenburg wurde durch den Sieg bei Tannenberg berühmt."), instruction: L("Wichtiger Name!") },
       quiz: { question: L("Wer war ein bekannter deutscher General?"), choices: [L("Hindenburg"), L("Napoleon"), L("Washington"), L("Caesar")], answer: L("Hindenburg") }
     },
@@ -166,7 +166,7 @@ const I1: IslandSpec = {
       title: L("Versailler Vertrag"),
       hint1: L("Friedensvertrag von 1919."),
       hint2: L("Harte Bedingungen für Deutschland."),
-      svg: { type: "comparison-table", rows: [{ left: L("Schuld"), right: L("Deutschland") }, { left: L("Folge"), right: L("Reparationen") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Schuld → Deutschland", color: "#fff", bg: "#3b82f6" }, { text: "Folge → Reparationen", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 1919, instruction: L("In welchem Jahr wurde der Vertrag unterzeichnet?") },
       quiz: { question: L("Wie hieß the Friedensvertrag nach 1918?"), choices: [L("Versailler Vertrag"), L("Wiener Kongress"), L("Maastricht"), L("Westfälischer Friede")], answer: L("Versailler Vertrag") }
     },
@@ -193,7 +193,7 @@ const I1: IslandSpec = {
       title: L("U-Boot-Krieg"),
       hint1: L("Deutschland setzte Unterseeboote ein."),
       hint2: L("Grund für den Kriegseintritt der USA."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 80, text: "U-Boot" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "U-Boot" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("U-Boot"), right: L("Seekrieg") }, { left: L("USA"), right: L("Kriegseintritt") }] },
       quiz: { question: L("Welches Land trat wegen des U-Boot-Kriegs ein?"), choices: [L("USA"), L("Russland"), L("China"), L("Japan")], answer: L("USA") }
     },
@@ -211,8 +211,9 @@ const I1: IslandSpec = {
       title: L("Frauenwahlrecht"),
       hint1: L("Nach dem Krieg erhielten Frauen das Wahlrecht."),
       hint2: L("Erstmals 1919 in Deutschland."),
-      svg: { type: "word-card", word: L("Wahlrecht"), color: "#fff", bg: "#db2777" },
-      interactive: { type: "lang-mcq", question: L("Wann durften Frauen erstmals wählen?"), choices: [L("1919"), L("1871"), L("1945")], answer: L("1919") }
+      svg: { type: "word-display", word: "Wahlrecht", color: "#db2777" },
+      interactive: { type: "lang-mcq", question: L("Wann durften Frauen erstmals wählen?"), choices: [L("1919"), L("1871"), L("1945")], answer: L("1919") },
+      quiz: { question: L("Wann erhielten Frauen in Deutschland das Wahlrecht?"), choices: [L("1919"), L("1871"), L("1945"), L("1933")], answer: L("1919") }
     },
     {
       id: "hunger_ww1",
@@ -228,7 +229,7 @@ const I1: IslandSpec = {
       title: L("Tanks"),
       hint1: L("Erste gepanzerte Fahrzeuge."),
       hint2: L("Besonders von England eingesetzt."),
-      svg: { type: "comparison-table", rows: [{ left: L("Stahl"), right: L("Panzer") }, { left: L("Durchbruch"), right: L("Ziel") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Stahl → Panzer", color: "#fff", bg: "#3b82f6" }, { text: "Durchbruch → Ziel", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Fronten (Zweifrontenkrieg) gab es?") },
       quiz: { question: L("Wer setzte Panzer zuerst massiv ein?"), choices: [L("England"), L("Preußen"), L("Russland"), L("China")], answer: L("England") }
     },
@@ -246,7 +247,7 @@ const I1: IslandSpec = {
       title: L("Geburt von Weimar"),
       hint1: L("Nationalversammlung in Weimar."),
       hint2: L("Flucht vor den Unruhen in Berlin."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Theater" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Theater" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Städte"), items: [L("Weimar"), L("Berlin")] }] },
       quiz: { question: L("Wo wurde die Verfassung beraten?"), choices: [L("Weimar"), L("München"), L("Hamburg"), L("Köln")], answer: L("Weimar") }
     }
@@ -281,7 +282,7 @@ const I2: IslandSpec = {
       title: L("Börsenkrach 1929"),
       hint1: L("Schwarzer Freitag in New York."),
       hint2: L("Folge: Massenarbeitslosigkeit weltweit."),
-      svg: { type: "comparison-table", rows: [{ left: L("Aktien"), right: L("Sturz") }, { left: L("Arbeit"), right: L("Verlust") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Aktien → Sturz", color: "#fff", bg: "#3b82f6" }, { text: "Arbeit → Verlust", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Aktien"), L("verlieren"), L("an"), L("Wert")], instruction: L("Was geschah?") },
       quiz: { question: L("Wo begann die Weltwirtschaftskrise?"), choices: [L("New York"), L("Berlin"), L("London"), L("Paris")], answer: L("New York") }
     },
@@ -290,7 +291,7 @@ const I2: IslandSpec = {
       title: L("Gustav Stresemann"),
       hint1: L("Außenminister und Versöhner."),
       hint2: L("Friedensnobelpreis 1926."),
-      svg: { type: "word-card", word: L("Frieden"), color: "#fff", bg: "#16a34a" },
+      svg: { type: "word-display", word: "Frieden", color: "#16a34a" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Nobelpreis"), right: L("1926") }, { left: L("Locarno"), right: L("Vertrag") }] },
       quiz: { question: L("Was war Stresemanns Ziel?"), choices: [L("Verständigung"), L("Neuer Krieg"), L("Diktatur"), L("Keine Steuern")], answer: L("Verständigung") }
     },
@@ -317,7 +318,7 @@ const I2: IslandSpec = {
       title: L("Das Bauhaus"),
       hint1: L("Berühmte Schule für Kunst und Bau."),
       hint2: L("Form folgt Funktion."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Design" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Design" }] },
       interactive: { type: "highlight-text", text: L("Das Bauhaus revolutionierte Architektur und Design."), instruction: L("Was war es?") },
       quiz: { question: L("Was ist das Bauhaus?"), choices: [L("Design-Schule"), L("Ein Baumarkt"), L("Ein Bahnhof"), L("Eine Kirche")], answer: L("Design-Schule") }
     },
@@ -326,7 +327,7 @@ const I2: IslandSpec = {
       title: L("Friedrich Ebert"),
       hint1: L("Erster Reichspräsident."),
       hint2: L("Ein Sozialdemokrat."),
-      svg: { type: "word-card", word: L("Präsident"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Präsident", color: "#1e3a8a" },
       interactive: { type: "sentence-build", words: [L("Ebert"), L("wahr"), L("ein"), L("Mann"), L("der"), L("Mitte")], instruction: L("Wer war er?") },
       quiz: { question: L("Welcher Partei gehörte Ebert an?"), choices: [L("SPD"), L("NSDAP"), L("Zentrum"), L("KPD")], answer: L("SPD") }
     },
@@ -335,7 +336,7 @@ const I2: IslandSpec = {
       title: L("Die Verfassung"),
       hint1: L("Sehr modern, aber auch schwach."),
       hint2: L("Große Macht des Reichspräsidenten."),
-      svg: { type: "comparison-table", rows: [{ left: L("Volk"), right: L("Wählt") }, { left: L("Präsident"), right: L("Macht") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Volk → Wählt", color: "#fff", bg: "#3b82f6" }, { text: "Präsident → Macht", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 48, instruction: L("Welcher Artikel (Notverordnung) war gefährlich?") },
       quiz: { question: L("Wer hatte laut Verfassung sehr viel Macht?"), choices: [L("Reichspräsident"), L("Bürgermeister"), L("Pfarrer"), L("Niemand")], answer: L("Reichspräsident") }
     },
@@ -354,14 +355,15 @@ const I2: IslandSpec = {
       hint1: L("Tanzlokale und Revues."),
       hint2: L("Verdrängung der Sorgen."),
       svg: { type: "text-bubbles", items: [{ text: "Tanz", color: "#fff", bg: "#db2777" }, { text: "Nacht", color: "#fff", bg: "#1e3a8a" }] },
-      interactive: { type: "lang-mcq", question: L("Wo war das Zentrum des Nachtlebens?"), choices: [L("Berlin"), L("Bonn"), L("Weimar")], answer: L("Berlin") }
+      interactive: { type: "lang-mcq", question: L("Wo war das Zentrum des Nachtlebens?"), choices: [L("Berlin"), L("Bonn"), L("Weimar")], answer: L("Berlin") },
+      quiz: { question: L("Wo war das kulturelle Zentrum der 1920er?"), choices: [L("Berlin"), L("Bonn"), L("Weimar"), L("München")], answer: L("Berlin") }
     },
     {
       id: "ruhrbesetzung",
       title: L("Ruhrkampf 1923"),
       hint1: L("Frankreich besetzt das Ruhrgebiet."),
       hint2: L("Passiver Widerstand der Deutschen."),
-      svg: { type: "image-label", labels: [{ x: 30, y: 50, text: "Kohle" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Kohle" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Frankreich"), right: L("Besatzung") }, { left: L("Ruhr"), right: L("Kohle") }] },
       quiz: { question: L("Welches Gebiet wurde 1923 besetzt?"), choices: [L("Ruhrgebiet"), L("Bayern"), L("Sachsen"), L("Berlin")], answer: L("Ruhrgebiet") }
     },
@@ -388,7 +390,7 @@ const I2: IslandSpec = {
       title: L("Paul von Hindenburg"),
       hint1: L("Reichspräsident ab 1925."),
       hint2: L("Eigentlich ein Anhänger des Kaisers."),
-      svg: { type: "word-card", word: L("Ersatzkaiser"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "Ersatzkaiser", color: "#475569" },
       interactive: { type: "tap-count", count: 2, instruction: L("Wie viele (Ebert/Hindenburg) große Präsidenten?") },
       quiz: { question: L("Wer wurde 1925 Präsident?"), choices: [L("Hindenburg"), L("Hitler"), L("Stresemann"), L("Adenauer")], answer: L("Hindenburg") }
     }
@@ -423,7 +425,7 @@ const I3: IslandSpec = {
       title: L("Ermächtigungsgesetz"),
       hint1: L("Selbstentachtung des Parlaments."),
       hint2: L("Hitler konnte nun ohne Parlament Gesetze erlassen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Gesetz"), right: L("Hitler") }, { left: L("Kontrolle"), right: L("Keine") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Gesetz → Hitler", color: "#fff", bg: "#3b82f6" }, { text: "Kontrolle → Keine", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Ende"), L("der"), L("Demokratie")], instruction: L("Was bedeutete das Gesetz?") },
       quiz: { question: L("Was bewirkte das Ermächtigungsgesetz?"), choices: [L("Diktatur"), L("Mehr Freiheit"), L("Wahlen alle Wochen"), L("Keine Änderung")], answer: L("Diktatur") }
     },
@@ -450,7 +452,7 @@ const I3: IslandSpec = {
       title: L("Hass auf Juden"),
       hint1: L("Kernpunkt der NS-Ideologie."),
       hint2: L("Ausgrenzung und Entrechtung."),
-      svg: { type: "word-card", word: L("Rassenhass"), color: "#fff", bg: "#000" },
+      svg: { type: "word-display", word: "Rassenhass", color: "#000" },
       interactive: { type: "block-drag", blocks: [{ label: L("Ideologie"), items: [L("Rassismus"), L("Antisemitismus")] }] },
       quiz: { question: L("Was war ein Hauptmerkmal der NS-Lehre?"), choices: [L("Antisemitismus"), L("Gleichheit"), L("Frieden"), L("Demokratie")], answer: L("Antisemitismus") }
     },
@@ -459,7 +461,7 @@ const I3: IslandSpec = {
       title: L("Die Lager"),
       hint1: L("Orte der Haft und Folter."),
       hint2: L("Dachau war das erste KZ 1933."),
-      svg: { type: "comparison-table", rows: [{ left: L("Gegner"), right: L("Haft") }, { left: L("Gewalt"), right: L("Terror") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Gegner → Haft", color: "#fff", bg: "#3b82f6" }, { text: "Gewalt → Terror", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 1933, instruction: L("In welchem Jahr wurde Dachau eröffnet?") },
       quiz: { question: L("Wo wurden Gegner eingesperrt?"), choices: [L("Konzentrationslager"), L("Hotels"), L("Schulen"), L("Sportvereine")], answer: L("Konzentrationslager") }
     },
@@ -477,7 +479,7 @@ const I3: IslandSpec = {
       title: L("Rassengesetze"),
       hint1: L("1935 wurden Juden entrechtet."),
       hint2: L("Verbot von Ehen zwischen Juden und Nichtjuden."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Gesetz" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Gesetz" }] },
       interactive: { type: "sentence-build", words: [L("Juden"), L("verloren"), L("ihre"), L("Rechte")], instruction: L("Was geschah 1935?") },
       quiz: { question: L("Wo wurden die Rassengesetze verkündet?"), choices: [L("Nürnberg"), L("Berlin"), L("München"), L("Wien")], answer: L("Nürnberg") }
     },
@@ -487,7 +489,8 @@ const I3: IslandSpec = {
       hint1: L("Einheit der 'Arier'."),
       hint2: L("Ausschluss aller anderen."),
       svg: { type: "text-bubbles", items: [{ text: "Wir", color: "#fff", bg: "#16a34a" }, { text: "Nicht-Ihr", color: "#fff", bg: "#991b1b" }] },
-      interactive: { type: "lang-mcq", question: L("Wer durfte dazugehören?"), choices: [L("Nur 'Arier'"), L("Alle Menschen"), L("Nur Reiche")], answer: L("Nur 'Arier'") }
+      interactive: { type: "lang-mcq", question: L("Wer durfte dazugehören?"), choices: [L("Nur 'Arier'"), L("Alle Menschen"), L("Nur Reiche")], answer: L("Nur 'Arier'") },
+      quiz: { question: L("Wer durfte laut NS-Ideologie dazugehören?"), choices: [L("Nur 'Arier'"), L("Alle Menschen"), L("Nur Reiche"), L("Niemand")], answer: L("Nur 'Arier'") }
     },
     {
       id: "widerstand_ns",
@@ -503,7 +506,7 @@ const I3: IslandSpec = {
       title: L("9. November 1938"),
       hint1: L("Brennende Synagogen."),
       hint2: L("Offene Gewalt gegen Juden."),
-      svg: { type: "comparison-table", rows: [{ left: L("Glas"), right: L("Scherben") }, { left: L("Gewalt"), right: L("Staatlich") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Glas → Scherben", color: "#fff", bg: "#3b82f6" }, { text: "Gewalt → Staatlich", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "gap-fill", text: L("Man nennt es auch __."), gaps: [{ index: 0, options: ["Kristallnacht", "Friedensnacht"], correct: 0 }] },
       quiz: { question: L("Was geschah in der Pogromnacht?"), choices: [L("Synagogen brannten"), L("König wurde gewählt"), L("Mauer wurde gebaut"), L("Nichts")], answer: L("Synagogen brannten") }
     },
@@ -521,7 +524,7 @@ const I3: IslandSpec = {
       title: L("Lebensraum im Osten"),
       hint1: L("Plan zur Eroberung von Gebieten."),
       hint2: L("Besonders in Polen und Russland."),
-      svg: { type: "image-label", labels: [{ x: 80, y: 50, text: "Osten" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Osten" }] },
       interactive: { type: "word-order", words: [L("Eroberung"), L("von"), L("neuem"), L("Land")], instruction: L("Was war das Ziel?") },
       quiz: { question: L("Wohin wollte Hitler expandieren?"), choices: [L("Nach Osten"), L("Nach Westen"), L("Nach Amerika"), L("Nach Afrika")], answer: L("Nach Osten") }
     },
@@ -530,7 +533,7 @@ const I3: IslandSpec = {
       title: L("Abschluss"),
       hint1: L("Der Staat wurde totalitär."),
       hint2: L("Keine Freiheit mehr."),
-      svg: { type: "word-card", word: L("Diktatur"), color: "#fff", bg: "#000" },
+      svg: { type: "word-display", word: "Diktatur", color: "#000" },
       interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Parteien (Einparteienstaat) gab es?") },
       quiz: { question: L("Was war Deutschland ab 1933?"), choices: [L("Totalitäre Diktatur"), L("Freie Republik"), L("Königreich"), L("Nichts")], answer: L("Totalitäre Diktatur") }
     }
@@ -565,7 +568,7 @@ const I4: IslandSpec = {
       title: L("Stalingrad"),
       hint1: L("Entscheidender Wendepunkt 1942/43."),
       hint2: L("Untergang der 6. Armee."),
-      svg: { type: "comparison-table", rows: [{ left: L("Wende"), right: L("Niederlage") }, { left: L("Ort"), right: L("Wolga") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Wende → Niederlage", color: "#fff", bg: "#3b82f6" }, { text: "Ort → Wolga", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Der"), L("Wendepunkt"), L("im"), L("Osten")], instruction: L("Was war Stalingrad?") },
       quiz: { question: L("Welche Schlacht war die Wende?"), choices: [L("Stalingrad"), L("Waterloo"), L("Sedan"), L("Leipzig")], answer: L("Stalingrad") }
     },
@@ -574,7 +577,7 @@ const I4: IslandSpec = {
       title: L("Holocaust"),
       hint1: L("Systematischer Völkermord an Juden."),
       hint2: L("Über 6 Millionen Opfer."),
-      svg: { type: "word-card", word: L("Shoah"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "Shoah", color: "#475569" },
       interactive: { type: "highlight-text", text: L("Auschwitz war das größte Vernichtungslager."), instruction: L("Wo geschah das?") },
       quiz: { question: L("Wie viele Juden wurden ermordet?"), choices: [L("Über 6 Millionen"), L("1 Million"), L("100.000"), L("Keine")], answer: L("Über 6 Millionen") }
     },
@@ -601,7 +604,7 @@ const I4: IslandSpec = {
       title: L("20. Juli 1944"),
       hint1: L("Bombenattentat auf Hitler."),
       hint2: L("Claus Schenk Graf von Stauffenberg."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Bombe" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Bombe" }] },
       interactive: { type: "tap-count", count: 20, instruction: L("An welchem Tag im Juli war das Attentat?") },
       quiz: { question: L("Wer führte das Attentat 1944 aus?"), choices: [L("Stauffenberg"), L("Scholl"), L("Adenauer"), L("Brandt")], answer: L("Stauffenberg") }
     },
@@ -610,7 +613,7 @@ const I4: IslandSpec = {
       title: L("D-Day"),
       hint1: L("Landung der Alliierten in der Normandie."),
       hint2: L("6. Juni 1944."),
-      svg: { type: "comparison-table", rows: [{ left: L("Westen"), right: L("Landung") }, { left: L("Freiheit"), right: L("Ziel") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Westen → Landung", color: "#fff", bg: "#3b82f6" }, { text: "Freiheit → Ziel", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Länder"), items: [L("USA"), L("England")] }] },
       quiz: { question: L("Wo landeten die Alliierten 1944?"), choices: [L("Normandie"), L("Berlin"), L("Rom"), L("Madrid")], answer: L("Normandie") }
     },
@@ -620,14 +623,15 @@ const I4: IslandSpec = {
       hint1: L("Gegner Deutschlands."),
       hint2: L("USA, Sowjetunion, England."),
       svg: { type: "text-bubbles", items: [{ text: "USA", color: "#fff", bg: "#3b82f6" }, { text: "UdSSR", color: "#fff", bg: "#dc2626" }] },
-      interactive: { type: "lang-mcq", question: L("Wer gehörte nicht zu den Alliierten?"), choices: [L("Japan"), L("USA"), L("England")], answer: L("Japan") }
+      interactive: { type: "lang-mcq", question: L("Wer gehörte nicht zu den Alliierten?"), choices: [L("Japan"), L("USA"), L("England")], answer: L("Japan") },
+      quiz: { question: L("Wer gehörte nicht zu den Alliierten?"), choices: [L("Japan"), L("USA"), L("England"), L("UdSSR")], answer: L("Japan") }
     },
     {
       id: "stunde_null",
       title: L("Kriegsende"),
       hint1: L("8. Mai 1945."),
       hint2: L("Bedingungslose Kapitulation."),
-      svg: { type: "word-card", word: L("Kapitulation"), color: "#fff", bg: "#000" },
+      svg: { type: "word-display", word: "Kapitulation", color: "#000" },
       interactive: { type: "gap-fill", text: L("Der Krieg endete im __."), gaps: [{ index: 0, options: ["Mai", "Januar"], correct: 0 }] },
       quiz: { question: L("Wann endete der Krieg in Europa?"), choices: [L("8. Mai 1945"), L("1. September 1939"), L("11. November 1918"), L("3. Oktober 1990")], answer: L("8. Mai 1945") }
     },
@@ -645,7 +649,7 @@ const I4: IslandSpec = {
       title: L("Flucht"),
       hint1: L("Millionen Deutsche flohen aus dem Osten."),
       hint2: L("Verlust der Heimat."),
-      svg: { type: "image-label", labels: [{ x: 20, y: 50, text: "Treck" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Treck" }] },
       interactive: { type: "sentence-build", words: [L("Millionen"), L("verloren"), L("ihre"), L("Heimat")], instruction: L("Was war die Folge?") },
       quiz: { question: L("Wohin flohen die Menschen?"), choices: [L("Nach Westen"), L("Nach Osten"), L("Nach China"), L("Nach Japan")], answer: L("Nach Westen") }
     },
@@ -654,7 +658,7 @@ const I4: IslandSpec = {
       title: L("Nürnberger Prozesse"),
       hint1: L("Gericht gegen Hauptkriegsverbrecher."),
       hint2: L("Gerechtigkeit nach dem Grauen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Gericht"), right: L("Urteil") }, { left: L("Verbrechen"), right: L("Strafe") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Gericht → Urteil", color: "#fff", bg: "#3b82f6" }, { text: "Verbrechen → Strafe", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Ort"), items: [L("Nürnberg")] }] },
       quiz: { question: L("Wo wurden die NS-Anführer angeklagt?"), choices: [L("Nürnberg"), L("Berlin"), L("München"), L("Bonn")], answer: L("Nürnberg") }
     },
@@ -698,7 +702,7 @@ const I5: IslandSpec = {
       title: L("Berliner Mauer"),
       hint1: L("13. August 1961."),
       hint2: L("Trennung von Familien und Freunden."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Mauer" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Mauer" }] },
       interactive: { type: "gap-fill", text: L("Die Mauer stand in __."), gaps: [{ index: 0, options: ["Berlin", "München"], correct: 0 }] },
       quiz: { question: L("Wann wurde die Mauer gebaut?"), choices: [L("1961"), L("1949"), L("1989"), L("1945")], answer: L("1961") }
     },
@@ -716,7 +720,7 @@ const I5: IslandSpec = {
       title: L("Konrad Adenauer"),
       hint1: L("Erster Bundeskanzler der BRD."),
       hint2: L("Westintegration und Aussöhnung."),
-      svg: { type: "word-card", word: L("Adenauer"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Adenauer", color: "#1e3a8a" },
       interactive: { type: "highlight-text", text: L("Adenauer führte die BRD nach Westen."), instruction: L("Wer war er?") },
       quiz: { question: L("Welcher Partei gehörte Adenauer an?"), choices: [L("CDU"), L("SPD"), L("FDP"), L("SED")], answer: L("CDU") }
     },
@@ -734,7 +738,7 @@ const I5: IslandSpec = {
       title: L("Die SED"),
       hint1: L("Einheitspartei in der DDR."),
       hint2: L("Diktatur unter Führung der Sowjetunion."),
-      svg: { type: "comparison-table", rows: [{ left: L("DDR"), right: L("SED") }, { left: L("Kontrolle"), right: L("Stasi") }] },
+      svg: { type: "text-bubbles", items: [{ text: "DDR → SED", color: "#fff", bg: "#3b82f6" }, { text: "Kontrolle → Stasi", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("DDR"), right: L("Kommunismus") }, { left: L("BRD"), right: L("Kapitalismus") }] },
       quiz: { question: L("Wie hieß die mächtigste Partei der DDR?"), choices: [L("SED"), L("CDU"), L("SPD"), L("AfD")], answer: L("SED") }
     },
@@ -761,7 +765,7 @@ const I5: IslandSpec = {
       title: L("Willy Brandt"),
       hint1: L("Kniefall von Warschau."),
       hint2: L("Entspannungspolitik gegenüber dem Osten."),
-      svg: { type: "word-card", word: L("Ostpolitik"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Ostpolitik", color: "#1e3a8a" },
       interactive: { type: "sentence-build", words: [L("Wandel"), L("durch"), L("Annäherung")], instruction: L("Brandts Motto?") },
       quiz: { question: L("Was war Brandts Ziel?"), choices: [L("Entspannung"), L("Krieg"), L("Mehr Mauern"), L("Nichts")], answer: L("Entspannung") }
     },
@@ -779,7 +783,7 @@ const I5: IslandSpec = {
       title: L("Kuba-Krise"),
       hint1: L("Die Welt am Rande des Atomkriegs."),
       hint2: L("Raketenstationierung auf Kuba."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Rakete" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Rakete" }] },
       interactive: { type: "gap-fill", text: L("Konflikt zwischen USA und __."), gaps: [{ index: 0, options: ["UdSSR", "China"], correct: 0 }] },
       quiz: { question: L("Wo standen die Raketen 1962?"), choices: [L("Kuba"), L("Berlin"), L("Paris"), L("London")], answer: L("Kuba") }
     },
@@ -806,7 +810,7 @@ const I5: IslandSpec = {
       title: L("68er Bewegung"),
       hint1: L("Studentenrevolten."),
       hint2: L("Kritik an den Eltern und dem Staat."),
-      svg: { type: "word-card", word: L("Revolte"), color: "#fff", bg: "#ef4444" },
+      svg: { type: "word-display", word: "Revolte", color: "#ef4444" },
       interactive: { type: "highlight-text", text: L("Die 68er wollten die Gesellschaft verändern."), instruction: L("Was wollten sie?") },
       quiz: { question: L("Welches Jahr gab der Bewegung den Namen?"), choices: [L("1968"), L("1945"), L("1989"), L("2000")], answer: L("1968") }
     },
@@ -815,8 +819,9 @@ const I5: IslandSpec = {
       title: L("NATO"),
       hint1: L("Westliches Verteidigungsbündnis."),
       hint2: L("Schutz vor sowjetischem Angriff."),
-      svg: { type: "comparison-table", rows: [{ left: L("West"), right: L("NATO") }, { left: L("Ost"), right: L("Warschauer Pakt") }] },
-      interactive: { type: "lang-mcq", question: L("Was ist die NATO?"), choices: [L("Militärbündnis"), L("Sportverein"), L("Bank")], answer: L("Militärbündnis") }
+      svg: { type: "text-bubbles", items: [{ text: "West → NATO", color: "#fff", bg: "#3b82f6" }, { text: "Ost → Warschauer Pakt", color: "#fff", bg: "#6366f1" }] },
+      interactive: { type: "lang-mcq", question: L("Was ist die NATO?"), choices: [L("Militärbündnis"), L("Sportverein"), L("Bank")], answer: L("Militärbündnis") },
+      quiz: { question: L("Was ist die NATO?"), choices: [L("Militärbündnis"), L("Sportverein"), L("Bank"), L("Hilfsorganisation")], answer: L("Militärbündnis") }
     }
   ]
 };
@@ -849,7 +854,7 @@ const I6: IslandSpec = {
       title: L("9. November 1989"),
       hint1: L("Öffnung der Grenze."),
       hint2: L("Menschen tanzten auf der Mauer."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Offen" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Offen" }] },
       interactive: { type: "tap-count", count: 11, instruction: L("In welchem Monat (Nov=11) fiel die Mauer?") },
       quiz: { question: L("Wann fiel die Berliner Mauer?"), choices: [L("9. November 1989"), L("3. Oktober 1990"), L("13. August 1961"), L("1. Mai 1945")], answer: L("9. November 1989") }
     },
@@ -858,7 +863,7 @@ const I6: IslandSpec = {
       title: L("Helmut Kohl"),
       hint1: L("Kanzler der Einheit."),
       hint2: L("Er nutzte die Chance zur Einigung."),
-      svg: { type: "word-card", word: L("Kanzler"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Kanzler", color: "#1e3a8a" },
       interactive: { type: "highlight-text", text: L("Kohl versprach 'blühende Landschaften'."), instruction: L("Wer war das?") },
       quiz: { question: L("Wer war Bundeskanzler 1990?"), choices: [L("Helmut Kohl"), L("Willy Brandt"), L("Angela Merkel"), L("Gerhard Schröder")], answer: L("Helmut Kohl") }
     },
@@ -867,7 +872,7 @@ const I6: IslandSpec = {
       title: L("3. Oktober 1990"),
       hint1: L("Tag der Deutschen Einheit."),
       hint2: L("Offizielles Ende der Teilung."),
-      svg: { type: "comparison-table", rows: [{ left: L("DDR"), right: L("Beitritt") }, { left: L("Einheit"), right: L("Vollzug") }] },
+      svg: { type: "text-bubbles", items: [{ text: "DDR → Beitritt", color: "#fff", bg: "#3b82f6" }, { text: "Einheit → Vollzug", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Ein"), L("einiges"), L("Deutschland")], instruction: L("Was geschah?") },
       quiz: { question: L("Was ist der Nationalfeiertag Deutschlands?"), choices: [L("3. Oktober"), L("9. November"), L("1. Mai"), L("24. Dezember")], answer: L("3. Oktober") }
     },
@@ -903,7 +908,7 @@ const I6: IslandSpec = {
       title: L("Blühende Landschaften"),
       hint1: L("Kohls Versprechen für den Osten."),
       hint2: L("Der Aufbau dauerte länger als gedacht."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Aufbau" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Aufbau" }] },
       interactive: { type: "sentence-build", words: [L("Der"), L("Aufbau"), L("Ost"), L("begann")], instruction: L("Was geschah?") },
       quiz: { question: L("Was meinte Kohl mit 'blühenden Landschaften'?"), choices: [L("Wirtschaftlicher Erfolg"), L("Nur echte Blumen"), L("Wüsten"), L("Nichts")], answer: L("Wirtschaftlicher Erfolg") }
     },
@@ -912,8 +917,9 @@ const I6: IslandSpec = {
       title: L("Hauptstadtbeschluss"),
       hint1: L("Berlin wird wieder Sitz von Regierung."),
       hint2: L("Umzug von Bonn nach Berlin."),
-      svg: { type: "comparison-table", rows: [{ left: L("Alt"), right: L("Bonn") }, { left: L("Neu"), right: L("Berlin") }] },
-      interactive: { type: "lang-mcq", question: L("Welche Stadt war Hauptstadt der BRD vor 1990?"), choices: [L("Bonn"), L("München"), L("Hamburg")], answer: L("Bonn") }
+      svg: { type: "text-bubbles", items: [{ text: "Alt → Bonn", color: "#fff", bg: "#3b82f6" }, { text: "Neu → Berlin", color: "#fff", bg: "#6366f1" }] },
+      interactive: { type: "lang-mcq", question: L("Welche Stadt war Hauptstadt der BRD vor 1990?"), choices: [L("Bonn"), L("München"), L("Hamburg")], answer: L("Bonn") },
+      quiz: { question: L("Welche Stadt war vor 1990 Hauptstadt der BRD?"), choices: [L("Bonn"), L("München"), L("Hamburg"), L("Berlin")], answer: L("Bonn") }
     },
     {
       id: "schabowski",
@@ -938,7 +944,7 @@ const I6: IslandSpec = {
       title: L("Akteur"),
       hint1: L("Bürger stürmten Stasi-Zentralen."),
       hint2: L("Rettung der Akten vor der Vernichtung."),
-      svg: { type: "word-card", word: L("Akte"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "Akte", color: "#475569" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Bürger"), right: L("Sturm") }, { left: L("Akten"), right: L("Wahrheit") }] },
       quiz: { question: L("Was wollten die Bürger in den Stasi-Zentralen?"), choices: [L("Akten sichern"), L("Geld klauen"), L("Kaffee trinken"), L("Nichts")], answer: L("Akten sichern") }
     },
@@ -991,7 +997,7 @@ const I7: IslandSpec = {
       title: L("Schengen"),
       hint1: L("Grenzen ohne Kontrollen."),
       hint2: L("Freies Reisen in Europa."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Frei" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Frei" }] },
       interactive: { type: "gap-fill", text: L("Reisen ohne __."), gaps: [{ index: 0, options: ["Kontrolle", "Auto"], correct: 0 }] },
       quiz: { question: L("Was bedeutet das Schengen-Abkommen?"), choices: [L("Keine Grenzkontrollen"), L("Günstiges Benzin"), L("Mehr Steuern"), L("Nichts")], answer: L("Keine Grenzkontrollen") }
     },
@@ -1018,7 +1024,7 @@ const I7: IslandSpec = {
       title: L("Maastricht"),
       hint1: L("Vertrag zur Gründung der EU 1992."),
       hint2: L("Aus der EG wurde die EU."),
-      svg: { type: "word-card", word: L("Union"), color: "#fff", bg: "#1e3a8a" },
+      svg: { type: "word-display", word: "Union", color: "#1e3a8a" },
       interactive: { type: "match-pairs", pairs: [{ left: L("1992"), right: L("Vertrag") }, { left: L("Maastricht"), right: L("Ort") }] },
       quiz: { question: L("Wann wurde der Maastricht-Vertrag unterzeichnet?"), choices: [L("1992"), L("1945"), L("1961"), L("2020")], answer: L("1992") }
     },
@@ -1027,7 +1033,7 @@ const I7: IslandSpec = {
       title: L("Demokratiewelle"),
       hint1: L("Ende vieler Diktaturen."),
       hint2: L("Besonders in Osteuropa nach 1989."),
-      svg: { type: "comparison-table", rows: [{ left: L("Alt"), right: L("Diktatur") }, { left: L("Neu"), right: L("Demokratie") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Alt → Diktatur", color: "#fff", bg: "#3b82f6" }, { text: "Neu → Demokratie", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Freiheit"), L("für"), L("alle"), L("Menschen")], instruction: L("Was war das Ziel?") },
       quiz: { question: L("Was geschah in Osteuropa nach 1989?"), choices: [L("Demokratisierung"), L("Mehr Mauern"), L("Keine Änderung"), L("Nichts")], answer: L("Demokratisierung") }
     },
@@ -1054,7 +1060,7 @@ const I7: IslandSpec = {
       title: L("EU & Frieden"),
       hint1: L("2012 erhielt die EU den Nobelpreis."),
       hint2: L("Für den Beitrag zu Frieden und Versöhnung."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Nobelpreis" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Nobelpreis" }] },
       interactive: { type: "tap-count", count: 2012, instruction: L("In welchem Jahr war die Verleihung?") },
       quiz: { question: L("Welchen Preis erhielt die EU 2012?"), choices: [L("Friedensnobelpreis"), L("Oscar"), L("Goldene Kamera"), L("Nichts")], answer: L("Friedensnobelpreis") }
     },
@@ -1072,7 +1078,7 @@ const I7: IslandSpec = {
       title: L("Brexit"),
       hint1: L("Austritt Großbritanniens."),
       hint2: L("Erster Austritt eines Landes."),
-      svg: { type: "word-card", word: L("Exit"), color: "#fff", bg: "#991b1b" },
+      svg: { type: "word-display", word: "Exit", color: "#991b1b" },
       interactive: { type: "gap-fill", text: L("Land: __."), gaps: [{ index: 0, options: ["Großbritannien", "Frankreich"], correct: 0 }] },
       quiz: { question: L("Welches Land verließ die EU?"), choices: [L("Großbritannien"), L("Deutschland"), L("Italien"), L("Spanien")], answer: L("Großbritannien") }
     },
@@ -1090,7 +1096,7 @@ const I7: IslandSpec = {
       title: L("EU-Parlament"),
       hint1: L("Direkt gewähltes Organ."),
       hint2: L("Sitz in Straßburg und Brüssel."),
-      svg: { type: "comparison-table", rows: [{ left: L("Bürger"), right: L("Wahl") }, { left: L("Europa"), right: L("Gesetz") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Bürger → Wahl", color: "#fff", bg: "#3b82f6" }, { text: "Europa → Gesetz", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "sentence-build", words: [L("Wir"), L("wählen"), L("das"), L("Parlament")], instruction: L("Was tun Bürger?") },
       quiz: { question: L("Wer wählt das EU-Parlament?"), choices: [L("Die Bürger"), L("Nur die Könige"), L("Die US-Regierung"), L("Niemand")], answer: L("Die Bürger") }
     },
@@ -1116,7 +1122,7 @@ const I8: IslandSpec = {
       title: L("Weltkriege"),
       hint1: L("Vergleich der beiden Katastrophen."),
       hint2: L("1914-18 und 1939-45."),
-      svg: { type: "comparison-table", rows: [{ left: L("1. WK"), right: L("1914") }, { left: L("2. WK"), right: L("1939") }] },
+      svg: { type: "text-bubbles", items: [{ text: "1. WK → 1914", color: "#fff", bg: "#3b82f6" }, { text: "2. WK → 1939", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "match-pairs", pairs: [{ left: L("Kaiser"), right: L("1. WK") }, { left: L("Hitler"), right: L("2. WK") }] },
       quiz: { question: L("Welcher Krieg war früher?"), choices: [L("Erster Weltkrieg"), L("Zweiter Weltkrieg"), L("Kalter Krieg"), L("Nichts")], answer: L("Erster Weltkrieg") }
     },
@@ -1134,7 +1140,7 @@ const I8: IslandSpec = {
       title: L("Zeitstrahl"),
       hint1: L("Reihenfolge der Ereignisse."),
       hint2: L("Vom Kaiser zur EU."),
-      svg: { type: "image-label", labels: [{ x: 10, y: 50, text: "1914" }, { x: 90, y: 50, text: "2000" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "1914" }, { emoji: "📜", label: "2000" }] },
       interactive: { type: "word-order", words: ["1914", "1933", "1945", "1989"], instruction: L("Ordne!") } ,
       quiz: { question: L("Was geschah 1989?"), choices: [L("Mauerfall"), L("Machtergreifung"), L("Kriegsbeginn"), L("Nichts")], answer: L("Mauerfall") }
     },
@@ -1170,15 +1176,16 @@ const I8: IslandSpec = {
       title: L("Ismen"),
       hint1: L("Sozialismus, Nationalismus, Liberalismus."),
       hint2: L("Ideen, die die Welt bewegten."),
-      svg: { type: "word-card", word: L("Ideen"), color: "#fff", bg: "#1e3a8a" },
-      interactive: { type: "lang-mcq", question: L("Was will the Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur")], answer: L("Freiheit") }
+      svg: { type: "word-display", word: "Ideen", color: "#1e3a8a" },
+      interactive: { type: "lang-mcq", question: L("Was will the Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur")], answer: L("Freiheit") },
+      quiz: { question: L("Was will der Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur"), L("Monarchie")], answer: L("Freiheit") }
     },
     {
       id: "grenzen_mix",
       title: L("Grenzen"),
       hint1: L("Vom Eisernen Vorhang zum offenen Europa."),
       hint2: L("Wandel der Schlagbäume."),
-      svg: { type: "comparison-table", rows: [{ left: L("Gestern"), right: L("Stacheldraht") }, { left: L("Heute"), right: L("Offen") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Gestern → Stacheldraht", color: "#fff", bg: "#3b82f6" }, { text: "Heute → Offen", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 2, instruction: L("Wie viele (BRD/DDR) deutsche Staaten?") },
       quiz: { question: L("Was trennte Europa jahrzehntelang?"), choices: [L("Eiserner Vorhang"), L("Der Äquator"), L("Der Himalaya"), L("Nichts")], answer: L("Eiserner Vorhang") }
     },
@@ -1205,7 +1212,7 @@ const I8: IslandSpec = {
       title: L("Rolle der Frau"),
       hint1: L("Vom Wahlrecht zur Gleichberechtigung."),
       hint2: L("Langer Weg zur Freiheit."),
-      svg: { type: "word-card", word: L("Gleichheit"), color: "#fff", bg: "#db2777" },
+      svg: { type: "word-display", word: "Gleichheit", color: "#db2777" },
       interactive: { type: "gap-fill", text: L("Frauen erhielten das __."), gaps: [{ index: 0, options: [L("Wahlrecht"), L("Fahrverbot")], correct: 0 }] },
       quiz: { question: L("In welchem Jahr erhielten Frauen in DE das Wahlrecht?"), choices: [L("1919"), L("1871"), L("1945"), L("2000")], answer: L("1919") }
     },
@@ -1214,8 +1221,9 @@ const I8: IslandSpec = {
       title: L("Vernetzung"),
       hint1: L("Weltweite Abhängigkeit."),
       hint2: L("Chancen und Risiken."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Welt" }] },
-      interactive: { type: "lang-mcq", question: L("Was bedeutet Globalisierung?"), choices: [L("Weltweiter Handel"), L("Nur lokaler Markt"), L("Ende der Technik")], answer: L("Weltweiter Handel") }
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Welt" }] },
+      interactive: { type: "lang-mcq", question: L("Was bedeutet Globalisierung?"), choices: [L("Weltweiter Handel"), L("Nur lokaler Markt"), L("Ende der Technik")], answer: L("Weltweiter Handel") },
+      quiz: { question: L("Was bedeutet Globalisierung?"), choices: [L("Weltweiter Handel"), L("Nur lokaler Markt"), L("Ende der Technik"), L("Isolation")], answer: L("Weltweiter Handel") }
     },
     {
       id: "kultur_mix",
@@ -1231,7 +1239,7 @@ const I8: IslandSpec = {
       title: L("Logik"),
       hint1: L("Zusammenhänge erkennen."),
       hint2: L("Warum passierte was?"),
-      svg: { type: "comparison-table", rows: [{ left: L("Not"), right: L("Radikale") }, { left: L("Mauerfall"), right: L("Einheit") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Not → Radikale", color: "#fff", bg: "#3b82f6" }, { text: "Mauerfall → Einheit", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "highlight-text", text: L("Wirtschaftskrisen führen oft zu politischer Instabilität."), instruction: L("Was ist die Gefahr?") },
       quiz: { question: L("Was war die Folge des Mauerfalls?"), choices: [L("Die Einheit"), L("Ein neuer Krieg"), L("Ein dritter Staat"), L("Nichts")], answer: L("Die Einheit") }
     },
@@ -1240,7 +1248,7 @@ const I8: IslandSpec = {
       title: L("Das 20. Jahrhundert"),
       hint1: L("Jahrhundert der Extreme."),
       hint2: L("Schreckliche Kriege und große Hoffnung."),
-      svg: { type: "word-card", word: L("Geschichte"), color: "#fff", bg: "#16a34a" },
+      svg: { type: "word-display", word: "Geschichte", color: "#16a34a" },
       interactive: { type: "tap-count", count: 100, instruction: L("Wie viele Jahre hat ein Jahrhundert?") },
       quiz: { question: L("Wie nennt man das 20. Jahrhundert oft?"), choices: [L("Zeitalter der Extreme"), L("Die ruhige Zeit"), L("Die Steinzeit"), L("Nichts")], answer: L("Zeitalter der Extreme") }
     }
@@ -1275,7 +1283,7 @@ const I9: IslandSpec = {
       title: L("Klimaschutz"),
       hint1: L("Pariser Abkommen."),
       hint2: L("Begrenzung der Erderwärmung."),
-      svg: { type: "image-label", labels: [{ x: 50, y: 50, text: "Erde" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Erde" }] },
       interactive: { type: "highlight-text", text: L("Die Begrenzung der CO2-Emissionen ist ein weltweites Ziel."), instruction: L("Was ist CO2?") },
       quiz: { question: L("Welches Abkommen ist wichtig für das Klima?"), choices: [L("Pariser Abkommen"), L("Versailler Vertrag"), L("Magna Carta"), L("Nichts")], answer: L("Pariser Abkommen") }
     },
@@ -1302,15 +1310,16 @@ const I9: IslandSpec = {
       title: L("KI"),
       hint1: L("Künstliche Intelligenz."),
       hint2: L("Maschinen, die lernen."),
-      svg: { type: "word-card", word: L("KI"), color: "#fff", bg: "#8b5cf6" },
-      interactive: { type: "lang-mcq", question: L("Was bedeutet KI?"), choices: [L("Künstliche Intelligenz"), L("Keine Infos"), L("Kleines Interface")], answer: L("Künstliche Intelligenz") }
+      svg: { type: "word-display", word: "KI", color: "#8b5cf6" },
+      interactive: { type: "lang-mcq", question: L("Was bedeutet KI?"), choices: [L("Künstliche Intelligenz"), L("Keine Infos"), L("Kleines Interface")], answer: L("Künstliche Intelligenz") },
+      quiz: { question: L("Was bedeutet KI?"), choices: [L("Künstliche Intelligenz"), L("Keine Infos"), L("Kleines Interface"), L("Kurze Info")], answer: L("Künstliche Intelligenz") }
     },
     {
       id: "friedenssicherung",
       title: L("Konflikte heute"),
       hint1: L("Neue Spannungen weltweit."),
       hint2: L("Diplomatie als wichtigstes Werkzeug."),
-      svg: { type: "comparison-table", rows: [{ left: L("Krieg"), right: L("Gefahr") }, { left: L("Reden"), right: L("Lösung") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Krieg → Gefahr", color: "#fff", bg: "#3b82f6" }, { text: "Reden → Lösung", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "gap-fill", text: L("Diplomatie bedeutet __."), gaps: [{ index: 0, options: [L("Verhandeln"), L("Kämpfen")], correct: 0 }] },
       quiz: { question: L("Was soll Kriege verhindern?"), choices: [L("Diplomatie"), L("Mehr Waffen"), L("Abschottung"), L("Nichts")], answer: L("Diplomatie") }
     },
@@ -1337,7 +1346,7 @@ const I9: IslandSpec = {
       title: L("Zusammenhalt"),
       hint1: L("Gefahr durch Spaltung."),
       hint2: L("Wichtigkeit des Dialogs."),
-      svg: { type: "comparison-table", rows: [{ left: L("Reden"), right: L("Brücke") }, { left: L("Hass"), right: L("Mauer") }] },
+      svg: { type: "text-bubbles", items: [{ text: "Reden → Brücke", color: "#fff", bg: "#3b82f6" }, { text: "Hass → Mauer", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "highlight-text", text: L("Demokratie braucht aktive Bürger."), instruction: L("Was ist nötig?") },
       quiz: { question: L("Was stärkt die Demokratie?"), choices: [L("Mitmachen"), L("Zuschauen"), L("Ignorieren"), L("Nichts")], answer: L("Mitmachen") }
     },
@@ -1355,7 +1364,7 @@ const I9: IslandSpec = {
       title: L("Nachhaltigkeit"),
       hint1: L("Ressourcen schonen."),
       hint2: L("An die Enkel denken."),
-      svg: { type: "word-card", word: L("Zukunft"), color: "#fff", bg: "#16a34a" },
+      svg: { type: "word-display", word: "Zukunft", color: "#16a34a" },
       interactive: { type: "sentence-build", words: [L("Schütze"), L("die"), L("Natur"), L("für"), L("später")], instruction: L("Motto?") },
       quiz: { question: L("Was bedeutet Nachhaltigkeit?"), choices: [L("Ressourcenschutz"), L("Verschwendung"), L("Alles sofort verbrauchen"), L("Nichts")], answer: L("Ressourcenschutz") }
     },
@@ -1382,7 +1391,7 @@ const I9: IslandSpec = {
       title: L("Deine Geschichte"),
       hint1: L("Du schreibst die Zukunft."),
       hint2: L("Lerne aus dem Gestern."),
-      svg: { type: "word-card", word: L("Zukunft"), color: "#fff", bg: "#3b82f6" },
+      svg: { type: "word-display", word: "Zukunft", color: "#3b82f6" },
       interactive: { type: "sentence-build", words: [L("Geschichte"), L("geht"), L("immer"), L("weiter")], instruction: L("Schluss?") },
       quiz: { question: L("Was ist Geschichte?"), choices: [L("Vergangenheit und Zukunft"), L("Nur alte Bücher"), L("Langweilig"), L("Nichts")], answer: L("Vergangenheit und Zukunft") }
     }
