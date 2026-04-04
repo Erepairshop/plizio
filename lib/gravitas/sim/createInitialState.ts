@@ -115,6 +115,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       bootstrapChecklist: createCompleteBootstrapChecklist(),
       waveRecoveryCalmTicks: 0,
       warRoom: createInitialWarRoom(),
+      moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
     });
   }
 
@@ -204,5 +205,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     bootstrapChecklist: createInitialBootstrapChecklist(),
     waveRecoveryCalmTicks: 0,
     warRoom: createInitialWarRoom(),
+    moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
   };
 }

@@ -205,6 +205,7 @@ export function loadGravitasState(): StarholdState | null {
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
       warRoom: parsed.warRoom ?? createInitialWarRoom(),
+      moduleLevels: parsed.moduleLevels ?? { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

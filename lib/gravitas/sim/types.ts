@@ -242,6 +242,13 @@ export interface StarholdState {
   bootstrapChecklist: Record<StarholdModuleId, boolean>;
   waveRecoveryCalmTicks: number;
   warRoom: import("./warroom/types").WarRoomState;
+  moduleLevels: {
+    reactor: number;
+    logistics: number;
+    core: number;
+    sensor: number;
+    warroom: number;
+  };
 }
 
 export type StarholdCommand =
@@ -271,4 +278,5 @@ export type StarholdCommand =
   | { type: "CHANNEL_AVATAR_IMPRINT"; amount: number }
   | { type: "RESET_AVATAR_IMPRINT" }
   | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId }
-  | { type: "CANCEL_TRAINING" };
+  | { type: "CANCEL_TRAINING" }
+  | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };
