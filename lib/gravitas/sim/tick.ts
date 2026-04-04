@@ -30,6 +30,7 @@ import { tickSupplyRoutes } from "./supplyroute/engine";
 import { tickCodex } from "./codex/engine";
 import { tickNotifications, pushNotification } from "./notifications/engine";
 import { tickOfficers } from "./officers/engine";
+import { tickFactionWars } from "./factionwars/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -1143,11 +1144,11 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
       tickFactionWars(
         tickOfficers(
           tickCommanderProfile(
-          tickDilemmaSpawn(
-            tickDilemmaEffects(
-              tickGalaxyCycle(
-                tickFactionReputation(
-                  tickWorldLevel(
+            tickDilemmaSpawn(
+              tickDilemmaEffects(
+                tickGalaxyCycle(
+                  tickFactionReputation(
+                    tickWorldLevel(
                     tickBattle(
                       tickTradeSystem(
                         tickSupplyRoutes(

@@ -169,6 +169,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       codex: createInitialCodexState(),
       notifications: createInitialNotificationState(),
       officers: createInitialOfficerState(),
+      factionWars: createInitialFactionWarState(),
       lastActiveAt: Date.now(),    });
   }
 
@@ -289,5 +290,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     codex: createInitialCodexState(),
     notifications: createInitialNotificationState(),
     officers: createInitialOfficerState(),
+    factionWars: createInitialFactionWarState(),
   };
 }

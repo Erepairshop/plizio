@@ -10,6 +10,11 @@ export function createInitialRepairBay(): RepairBayState {
       vanguard: [],
       wraith: [],
       nexus: [],
+      korgath_berserker: [],
+      velari_shadow: [],
+      drex_marauder: [],
+      synthoid_titan: [],
+      noma_weaver: [],
     },
     woundedAt: null,
   };

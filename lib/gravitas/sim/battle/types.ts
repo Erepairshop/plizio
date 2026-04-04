@@ -82,6 +82,12 @@ export interface BattleResult {
   intelGained: number;
   casualties?: CasualtyReport;
   replay?: import("./replay").BattleReplayLog;
+  officerStatus?: {
+    id: string;
+    xpGained: number;
+    wounded: boolean;
+    died: boolean;
+  };
 }
 
 export interface BattlePhase {

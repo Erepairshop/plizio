@@ -28,6 +28,7 @@ export interface WarRoomUnitDef {
   };
   /** Minimum war-room level required to train this unit */
   minLevel: number;
+  requiredFaction?: import("../faction/types").FactionId;
 }
 
 // ── Production slot (active training) ──────────────────────────

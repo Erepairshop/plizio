@@ -839,8 +839,8 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       Object.keys(updatedGarrison).forEach((rawUnitId) => {
         const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
         const sent = result.stats.unitsSent?.[unitId] ?? 0;
-        const killed = Math.max(0, Math.floor(computedCasualties.killed[unitId] ?? 0));
-        const wounded = Math.max(0, Math.floor(computedCasualties.wounded[unitId] ?? 0));
+        const killed = Math.max(0, Math.floor((computedCasualties.killed as Record<string, number>)[unitId] ?? 0));
+        const wounded = Math.max(0, Math.floor((computedCasualties.wounded as Record<string, number>)[unitId] ?? 0));
         
         let entries = updatedGarrison[unitId] ?? [];
         if (sent > 0) {
@@ -863,6 +863,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       });
 
       let nextOfficers = state.officers;
+      let newJournals = [...state.journal];
       if (result.officerStatus) {
         const os = result.officerStatus;
         const oIndex = nextOfficers.active.findIndex(o => o.id === os.id);
@@ -870,13 +871,27 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
           const o = { ...nextOfficers.active[oIndex] };
           if (os.died) {
             nextOfficers = { ...nextOfficers, active: nextOfficers.active.filter(x => x.id !== os.id) };
+            newJournals.push({
+              tick: state.tick,
+              text: { en: `Officer ${o.name} was killed in action.`, hu: `${o.name} tiszt elesett a csatában.`, de: `Offizier ${o.name} ist im Kampf gefallen.`, ro: `Ofițerul ${o.name} a fost ucis în acțiune.` }
+            });
           } else {
             o.xp += os.xpGained;
             const nextLevel = Math.floor(o.xp / 100) + 1;
-            if (nextLevel > o.level && o.level < 10) o.level = Math.min(10, nextLevel);
+            if (nextLevel > o.level && o.level < 10) {
+              o.level = Math.min(10, nextLevel);
+              newJournals.push({
+                tick: state.tick,
+                text: { en: `Officer ${o.name} reached level ${o.level}.`, hu: `${o.name} tiszt elérte a(z) ${o.level}. szintet.`, de: `Offizier ${o.name} hat Stufe ${o.level} erreicht.`, ro: `Ofițerul ${o.name} a atins nivelul ${o.level}.` }
+              });
+            }
             if (os.wounded) {
               o.status = "wounded";
               o.availableAt = Date.now() + 4 * 60 * 60 * 1000;
+              newJournals.push({
+                tick: state.tick,
+                text: { en: `Officer ${o.name} was wounded in combat.`, hu: `${o.name} tiszt megsebesült a harcban.`, de: `Offizier ${o.name} wurde im Kampf verwundet.`, ro: `Ofițerul ${o.name} a fost rănit în luptă.` }
+              });
             }
             const newActive = [...nextOfficers.active];
             newActive[oIndex] = o;
@@ -903,7 +918,6 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
         buildingId: "faction_fleet" as any,
         at: Date.now(),
-        dominantRole: "tank",
         dominantUnitType: "tank",
         victory: result.victory,
         durationMs: result.durationMs,
@@ -997,8 +1011,8 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       Object.keys(updatedGarrison).forEach((rawUnitId) => {
         const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
         const sent = result.stats.unitsSent?.[unitId] ?? 0;
-        const killed = Math.max(0, Math.floor(computedCasualties.killed[unitId] ?? 0));
-        const wounded = Math.max(0, Math.floor(computedCasualties.wounded[unitId] ?? 0));
+        const killed = Math.max(0, Math.floor((computedCasualties.killed as Record<string, number>)[unitId] ?? 0));
+        const wounded = Math.max(0, Math.floor((computedCasualties.wounded as Record<string, number>)[unitId] ?? 0));
         
         let entries = updatedGarrison[unitId] ?? [];
         

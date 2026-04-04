@@ -54,10 +54,10 @@ import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
 import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Medal } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Medal, Swords } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
-import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
+import { getEnemyBuildingById, getFactionFleetAsEnemy } from "@/lib/gravitas/sim/battle/enemies";
 import { BUILDING_DESCRIPTORS } from "@/lib/gravitas/sim/battle/buildingDescriptors";
 import { GALAXY_FACTIONS } from "@/lib/gravitas/sim/battle/factions";
 
@@ -155,17 +155,19 @@ export default function GravitasPage() {
     const { war, side } = factionWarSetup;
     
     const enemyFactionId = side === "attacker" ? war.defenderId : war.attackerId;
-    const enemy = import("@/lib/gravitas/sim/battle/enemies").getFactionFleetAsEnemy(enemyFactionId, war.intensity);
+    const enemy = getFactionFleetAsEnemy(enemyFactionId, war.intensity);
     const faction = GALAXY_FACTIONS[enemyFactionId];
     
     const descriptor: import("@/lib/gravitas/sim/battle/buildingDescriptors").BuildingDescriptor = {
       buildingId: "faction_fleet",
+      faction: enemyFactionId,
       name: { en: `${faction.name.en} Fleet`, hu: `${faction.name.hu} Flotta`, de: `${faction.name.de} Flotte`, ro: `Flota ${faction.name.ro}` },
-      description: faction.description,
-      condition: { type: "active", label: { en: "Active", hu: "Aktív", de: "Aktiv", ro: "Activ" } },
-      material: { type: "energy", label: { en: "Energy Shields", hu: "Energia Pajzs", de: "Energieschilde", ro: "Scuturi Energetice" } },
-      weaponry: { type: "plasma", label: { en: "Plasma Batteries", hu: "Plazma Ütegek", de: "Plasmabatterien", ro: "Baterii cu Plasmă" } },
-      tacticStyle: { type: "chaotic", label: faction.combatStyle },
+      condition: { type: "active", label: { en: "Active", hu: "Aktív", de: "Aktiv", ro: "Activ" }, hiddenEffect: "" },
+      material: { type: "titan", label: { en: "Energy Shields", hu: "Energia Pajzs", de: "Energieschilde", ro: "Scuturi Energetice" }, hiddenEffect: "" },
+      weaponry: { type: "plasma", label: { en: "Plasma Batteries", hu: "Plazma Ütegek", de: "Plasmabatterien", ro: "Baterii cu Plasmă" }, hiddenEffect: "" },
+      comms: { type: "advanced", label: { en: "Fleet Command", hu: "Flottaparancsnokság", de: "Flottenkommando", ro: "Comandamentul Flotei" }, hiddenEffect: "" },
+      tacticStyle: { type: "chaotic", label: faction.combatStyle, hiddenEffect: "" },
+      revealOrder: { basic: [], medium: [], advanced: [], full: [] }
     };
 
     const result = resolveBattle({
@@ -190,10 +192,10 @@ export default function GravitasPage() {
 
     setBattleResult(result);
     setBattleNode({
-      id: war.id,
+      id: `${war.id}:${side}`, // embed side in ID
       type: "battle",
       title: descriptor.name,
-      description: descriptor.description,
+      description: faction.description,
       position: { x: 0, y: 0 }, cardOffset: { x: 0, y: 0 }, radius: 0, assetSrc: "", assetClassName: "", motion: { x: [], y: [], rotate: [] }, motionDuration: 0, details: [], footer: { en: "", hu: "", de: "", ro: "" }
     });
     setFactionWarSetup(null);

@@ -21,6 +21,11 @@ const UNIT_ICONS: Record<WarRoomUnitId, React.ReactNode> = {
   vanguard: <Crosshair size={16} />,
   wraith: <Radar size={16} />,
   nexus: <Activity size={16} />,
+  korgath_berserker: <Crosshair size={16} className="text-red-400" />,
+  velari_shadow: <Radar size={16} className="text-emerald-400" />,
+  drex_marauder: <Crosshair size={16} className="text-amber-400" />,
+  synthoid_titan: <Shield size={16} className="text-cyan-400" />,
+  noma_weaver: <Activity size={16} className="text-fuchsia-400" />,
 };
 
 const UNIT_NAMES: Record<WarRoomUnitId, LocalizedString> = {
@@ -28,6 +33,11 @@ const UNIT_NAMES: Record<WarRoomUnitId, LocalizedString> = {
   vanguard: { en: "Vanguard", hu: "Vanguard", de: "Vanguard", ro: "Vanguard" },
   wraith: { en: "Wraith", hu: "Wraith", de: "Wraith", ro: "Wraith" },
   nexus: { en: "Nexus", hu: "Nexus", de: "Nexus", ro: "Nexus" },
+  korgath_berserker: { en: "K. Berserker", hu: "K. Berserker", de: "K. Berserker", ro: "K. Berserker" },
+  velari_shadow: { en: "V. Shadow", hu: "V. Árnyék", de: "V. Schatten", ro: "V. Umbră" },
+  drex_marauder: { en: "D. Marauder", hu: "D. Fosztogató", de: "D. Plünderer", ro: "D. Prădător" },
+  synthoid_titan: { en: "S. Titan", hu: "S. Titán", de: "S. Titan", ro: "S. Titan" },
+  noma_weaver: { en: "N. Weaver", hu: "N. Szövő", de: "N. Weber", ro: "N. Țesător" },
 };
 
 function formatDuration(ms: number): string {

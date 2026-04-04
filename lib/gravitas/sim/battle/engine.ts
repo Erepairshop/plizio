@@ -414,7 +414,8 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
 
   let officerStatus = undefined;
   if (officer && officer.status === "ready") {
-    const casualtyRate = casualties.totalKilled / Math.max(1, armyBase.totalUnits);
+    const totalKilled = Object.values(casualties.killed).reduce((a, b) => a + b, 0);
+    const casualtyRate = totalKilled / Math.max(1, armyBase.totalUnits);
     let wounded = false;
     let died = false;
     if (casualtyRate > 0.2) {
@@ -445,5 +446,5 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     casualties,
     replay: generateReplayLog(phases),
     officerStatus,
-  };
+  } as BattleResult;
 }

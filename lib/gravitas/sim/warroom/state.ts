@@ -11,12 +11,22 @@ export function createInitialWarRoom(): WarRoomState {
       vanguard: null,
       wraith: null,
       nexus: null,
+      korgath_berserker: null,
+      velari_shadow: null,
+      drex_marauder: null,
+      synthoid_titan: null,
+      noma_weaver: null,
     },
     garrison: {
       sentinel: [],
       vanguard: [],
       wraith: [],
       nexus: [],
+      korgath_berserker: [],
+      velari_shadow: [],
+      drex_marauder: [],
+      synthoid_titan: [],
+      noma_weaver: [],
     },
   };
 }

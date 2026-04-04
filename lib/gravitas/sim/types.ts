@@ -295,6 +295,8 @@ export interface StarholdState {
   notifications: import("./notifications/types").NotificationState;
   /** Officer/Hero system */
   officers: import("./officers/types").OfficerState;
+  /** Faction Wars system */
+  factionWars: import("./factionwars/types").FactionWarState;
 }
 
 export interface ModuleUpgradeSlot {
