@@ -78,7 +78,7 @@ export default function FreeBiologyGamesPage() {
         <ul style={styles.ul}>
           <li style={styles.li}><strong>Ecosystems:</strong> How animals and plants depend on each other and their environment.</li>
           <li style={styles.li}><strong>Human Biology:</strong> Learning how our hearts beat, how we breathe, and why nutrition is vital for our energy.</li>
-          <li style={li: "8px", color: "#d0d0e8"}><strong>Plant Life:</strong> The magic of photosynthesis and how seeds travel across continents.</li>
+          <li style={styles.li}><strong>Plant Life:</strong> The magic of photosynthesis and how seeds travel across continents.</li>
           <li style={styles.li}><strong>Microbiology:</strong> An introduction to the invisible world of cells and bacteria.</li>
         </ul>
 
