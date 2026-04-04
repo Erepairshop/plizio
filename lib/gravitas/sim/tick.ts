@@ -716,13 +716,13 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const levels = state.moduleLevels;
   const coreLevel = levels.core;
 
-  // Hull max = core * 4
-  const hullMax = Math.min(100, coreLevel * 4);
+  // Hull max = 20 base + core * 3.2 (lv1=23, lv10=52, lv25=100)
+  const hullMax = Math.min(100, 20 + coreLevel * 3.2);
   if (nextHull > hullMax) nextHull = Math.max(hullMax, nextHull - 0.5);
 
-  // Shield = warroom * 4
+  // Shield = 15 base + warroom * 3.4 (lv1=18, lv10=49, lv25=100)
   const warLevel = levels.warroom;
-  const shieldMax = Math.min(100, warLevel * 4);
+  const shieldMax = Math.min(100, 15 + warLevel * 3.4);
   if (state.warRoom.online && nextShield < shieldMax) nextShield = Math.min(shieldMax, nextShield + 0.5);
 
   // Morale = module balance
@@ -735,11 +735,11 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   const targetMorale = Math.max(0, Math.min(100, 75 - moralePenalty));
   nextMorale = nextMorale + (targetMorale - nextMorale) * 0.1;
 
-  // Signal Range
-  nextSignalRange = Math.min(100, levels.sensor * 4);
+  // Signal Range = 15 base + sensor * 3.4 (lv1=18, lv25=100)
+  nextSignalRange = Math.min(100, 15 + levels.sensor * 3.4);
 
-  // Supply Flow
-  nextSupplyFlow = Math.min(100, levels.logistics * 4);
+  // Supply Flow = 10 base + logistics * 3.6 (lv1=14, lv25=100)
+  nextSupplyFlow = Math.min(100, 10 + levels.logistics * 3.6);
 
   // Reactor gap penalty
   const reactorGap = coreLevel - levels.reactor;
