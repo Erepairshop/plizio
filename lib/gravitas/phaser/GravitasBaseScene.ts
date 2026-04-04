@@ -11,6 +11,7 @@ const MODULE_POSITIONS: Record<StarholdModuleId, { x: number; y: number }> = {
   logistics: { x: 610, y: 176 },
   core: { x: CORE_X, y: CORE_Y },
   sensor: { x: 312, y: 388 },
+  warroom: { x: 580, y: 370 },
 };
 
 const SECTOR_COLORS: Record<StarholdModuleId, number> = {
@@ -18,6 +19,7 @@ const SECTOR_COLORS: Record<StarholdModuleId, number> = {
   logistics: 0x6366f1,
   sensor: 0x10b981,
   core: 0xdb2777,
+  warroom: 0xef4444,
 };
 
 const MODULE_GLYPHS: Record<StarholdModuleId, string> = {
@@ -25,6 +27,7 @@ const MODULE_GLYPHS: Record<StarholdModuleId, string> = {
   logistics: "L",
   sensor: "S",
   core: "C",
+  warroom: "W",
 };
 
 interface SceneOptions {

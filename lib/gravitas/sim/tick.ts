@@ -11,6 +11,7 @@ import { getModuleActionProfile } from "./modules";
 import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
+import { tickWarRoom } from "./warroom";
 
 function stabilizeContinuationTick(previous: StarholdState, next: StarholdState): StarholdState {
   if (isDemoChapter(previous)) return next;
@@ -737,14 +738,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWarRoom({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    }));
+    })));
   }
 
-  return stabilizeContinuationTick(state, checkStarholdMilestones(applyStarholdEvents({
+  return stabilizeContinuationTick(state, checkStarholdMilestones(applyStarholdEvents(tickWarRoom({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-  })));
+  }))));
 }

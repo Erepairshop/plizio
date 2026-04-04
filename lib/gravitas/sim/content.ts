@@ -337,6 +337,15 @@ export const GRAVITAS_TEXT = {
         de: "Erfasst Verzerrungen, Signaldrift und schwache Aktivität außerhalb der Hülle.",
         ro: "Citește distorsiuni, deviații de semnal și activitate slabă dincolo de carcasă.",
       }
+    },
+    warroom: {
+      name: { en: "Command Deck", hu: "Főhadiszállás", de: "Kommandozentrale", ro: "Centrul de comandă" },
+      role: {
+        en: "Trains combat units and defense drones to protect the station from threats.",
+        hu: "Harci egységeket és védelmi drónokat képez ki az állomás védelmére.",
+        de: "Bildet Kampfeinheiten und Verteidigungsdrohnen zum Schutz der Station aus.",
+        ro: "Antrenează unități de luptă și drone de apărare pentru protecția stației.",
+      }
     }
   },
   events: {

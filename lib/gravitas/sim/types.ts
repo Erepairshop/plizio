@@ -1,4 +1,4 @@
-export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor";
+export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom";
 
 export interface StarholdModuleState {
   id: StarholdModuleId;
@@ -241,6 +241,7 @@ export interface StarholdState {
   repairChallenge: StarholdRepairChallengeState;
   bootstrapChecklist: Record<StarholdModuleId, boolean>;
   waveRecoveryCalmTicks: number;
+  warRoom: import("./warroom/types").WarRoomState;
 }
 
 export type StarholdCommand =
@@ -268,4 +269,6 @@ export type StarholdCommand =
   | { type: "ACKNOWLEDGE_PHASE_SHIFT" }
   | { type: "RESOLVE_EVENT"; optionId: string }
   | { type: "CHANNEL_AVATAR_IMPRINT"; amount: number }
-  | { type: "RESET_AVATAR_IMPRINT" };
+  | { type: "RESET_AVATAR_IMPRINT" }
+  | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId }
+  | { type: "CANCEL_TRAINING" };

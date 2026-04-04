@@ -14,6 +14,7 @@ export const STARHOLD_MODULE_DEFINITIONS: StarholdModuleDefinition[] = [
   { id: "logistics", name: GRAVITAS_TEXT.modules.logistics.name, startsOnline: false, integrity: 34, load: 0 },
   { id: "core", name: GRAVITAS_TEXT.modules.core.name, startsOnline: false, integrity: 63, load: 12 },
   { id: "sensor", name: GRAVITAS_TEXT.modules.sensor.name, startsOnline: true, integrity: 47, load: 0 },
+  { id: "warroom", name: { en: "Command Deck", hu: "Főhadiszállás", de: "Kommandozentrale", ro: "Centrul de comandă" }, startsOnline: false, integrity: 40, load: 0 },
 ];
 
 export interface StarholdModuleActionProfile {
@@ -57,6 +58,14 @@ export const STARHOLD_MODULE_ACTION_PROFILES: Record<StarholdModuleId, StarholdM
     loadShift: 15,
     onlineThreshold: 40,
     primaryCommand: "REPAIR_MODULE",
+  },
+  warroom: {
+    focusLabel: { en: "Training", hu: "Kiképzés", de: "Ausbildung", ro: "Antrenament" },
+    repairCost: 5,
+    repairGain: 18,
+    loadShift: 20,
+    onlineThreshold: 35,
+    primaryCommand: "TRAIN_UNIT",
   },
 };
 

@@ -41,6 +41,7 @@ import {
   SensorInteriorView,
 } from "@/components/gravitas/GravitasInteriors";
 import GravitasOverlays from "@/components/gravitas/GravitasOverlays";
+import { WarRoomPanel } from "@/components/gravitas/warroom";
 
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
 
@@ -1523,7 +1524,7 @@ export default function GravitasPage() {
                 <p className="mt-2 text-[10px] leading-snug text-white/72 sm:text-[11px]">
                   {localize(selectedModuleInfo.role)}
                 </p>
-                {(selectedModule === "sensor" || selectedModule === "reactor" || selectedModule === "core") && (
+                {(selectedModule === "sensor" || selectedModule === "reactor" || selectedModule === "core" || selectedModule === "warroom") && (
                   <button
                     type="button"
                     onClick={() => {
@@ -1536,7 +1537,9 @@ export default function GravitasPage() {
                       ? localize({ en: "Enter sensor", hu: "Belépés a szenzorba", de: "Sensor betreten", ro: "Intră în senzor" })
                       : selectedModule === "reactor"
                         ? localize({ en: "Enter reactor", hu: "Belépés a reaktorba", de: "Reaktor betreten", ro: "Intră în reactor" })
-                        : localize({ en: "Enter core", hu: "Belépés a magba", de: "Kern betreten", ro: "Intră în nucleu" })}
+                        : selectedModule === "warroom"
+                          ? localize({ en: "Open command deck", hu: "Főhadiszállás megnyitása", de: "Kommandozentrale öffnen", ro: "Deschide centrul de comandă" })
+                          : localize({ en: "Enter core", hu: "Belépés a magba", de: "Kern betreten", ro: "Intră în nucleu" })}
                   </button>
                 )}
               </motion.div>
@@ -1588,6 +1591,29 @@ export default function GravitasPage() {
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
               >
                 <CoreInteriorView onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "warroom" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] flex flex-col overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#0c0818_0%,#0e0f1c_42%,#060610_100%)]"
+              >
+                <div className="flex items-center justify-between px-3 py-2 border-b border-white/5">
+                  <span className="text-[10px] font-black uppercase tracking-[0.18em] text-red-300/70">⚔️ Command Deck</span>
+                  <button
+                    type="button"
+                    onClick={() => setInteriorView(null)}
+                    className="flex h-6 w-6 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 hover:bg-white/10 hover:text-white transition"
+                  >
+                    <X size={12} />
+                  </button>
+                </div>
+                <div className="flex-1 overflow-y-auto p-3">
+                  <WarRoomPanel state={state} dispatch={dispatch} lang={lang} />
+                </div>
               </motion.div>
             )}
           </AnimatePresence>

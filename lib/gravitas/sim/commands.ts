@@ -10,6 +10,7 @@ import { createNextThreat } from "./threats";
 import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
+import { canTrainUnit, startTraining, cancelTraining } from "./warroom";
 
 function startOperation(
   state: StarholdState,
@@ -690,6 +691,20 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "CLAIM_MILESTONE": {
       return claimStarholdMilestone(state, command.milestoneId);
+    }
+    case "TRAIN_UNIT": {
+      if (!canTrainUnit(state, command.unitId)) {
+        return withAlert(state, {
+          en: "Cannot start training now.",
+          hu: "Nem indítható kiképzés most.",
+          de: "Ausbildung kann jetzt nicht gestartet werden.",
+          ro: "Antrenamentul nu poate fi pornit acum.",
+        });
+      }
+      return startTraining(state, command.unitId);
+    }
+    case "CANCEL_TRAINING": {
+      return cancelTraining(state);
     }
     default:
       return checkStarholdMilestones(state);

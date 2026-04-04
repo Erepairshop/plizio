@@ -62,6 +62,12 @@ function sanitizeContinuationState(state: StarholdState): StarholdState {
         integrity: Math.max(82, state.modules.sensor.integrity),
         load: Math.min(10, state.modules.sensor.load),
       },
+      warroom: {
+        ...state.modules.warroom,
+        online: false,
+        integrity: Math.max(40, state.modules.warroom?.integrity ?? 40),
+        load: 0,
+      },
     },
   });
 }
