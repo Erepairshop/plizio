@@ -8,7 +8,7 @@ import {
   Crosshair, ShieldAlert, Activity, AlertTriangle
 } from "lucide-react";
 import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
-import type { WarRoomUnitId } from "@/lib/gravitas/sim/warroom/types";
+import type { WarRoomUnitId, GarrisonEntry } from "@/lib/gravitas/sim/warroom/types";
 import { 
   BATTLE_TACTICS, 
   BATTLE_UNIT_PROFILES, 
@@ -68,7 +68,11 @@ export default function ArmySetup({
   const showWeaponry = intel >= 40;
   const showTactic = intel >= 60;
 
-  const availableGarrison = state.warRoom.garrison;
+  const rawGarrison = state.warRoom.garrison;
+  const availableGarrison: Record<string, number> = {};
+  for (const [uid, entries] of Object.entries(rawGarrison)) {
+    availableGarrison[uid] = (entries as GarrisonEntry[]).reduce((s, e) => s + e.count, 0);
+  }
   const unitIds = Object.keys(BATTLE_UNIT_PROFILES);
 
   const minTroops = useMemo(() => getMinimumTroops(buildingId, state.worldLevel), [buildingId, state.worldLevel]);

@@ -2,7 +2,9 @@
 
 import type { StarholdState, StarholdCommand } from "@/lib/gravitas/sim/types";
 import { WARROOM_UNITS, WARROOM_UNIT_ORDER } from "@/lib/gravitas/sim/warroom/units";
-import { canTrainUnit } from "@/lib/gravitas/sim/warroom/production";
+import { canTrainUnit, getTotalGarrison, getMaxUnitLevel } from "@/lib/gravitas/sim/warroom/production";
+import type { WarRoomUnitId, GarrisonEntry } from "@/lib/gravitas/sim/warroom/types";
+import { WARROOM_PRODUCTION_CONFIG } from "@/lib/gravitas/economy";
 import WarRoomUnitCard from "./WarRoomUnitCard";
 import WarRoomProgress from "./WarRoomProgress";
 import WarRoomGarrison from "./WarRoomGarrison";
@@ -30,6 +32,10 @@ const OFFLINE_LABEL: Record<Lang, string> = {
   ro: "Modul offline — repară pentru a activa antrenamentul",
 };
 
+function sumEntries(entries: GarrisonEntry[]): number {
+  return entries.reduce((s, e) => s + e.count, 0);
+}
+
 export default function WarRoomPanel({
   state,
   dispatch,
@@ -42,7 +48,8 @@ export default function WarRoomPanel({
   const l = (lang || "en") as Lang;
   const { warRoom } = state;
   const isOnline = warRoom.online;
-  const slot = warRoom.productionSlot;
+  const totalGarrison = getTotalGarrison(warRoom.garrison);
+  const maxLevel = getMaxUnitLevel(warRoom.level);
 
   return (
     <div className="flex flex-col gap-3 p-3 sm:p-4 rounded-2xl border border-white/10 bg-black/40 backdrop-blur-sm">
@@ -53,6 +60,11 @@ export default function WarRoomPanel({
         <span className="ml-auto text-[10px] font-bold text-white/30 uppercase tracking-wider">
           Lv {warRoom.level}
         </span>
+      </div>
+
+      {/* Garrison counter */}
+      <div className="text-[10px] font-bold text-white/40 px-1">
+        {totalGarrison}/{WARROOM_PRODUCTION_CONFIG.garrisonCap}
       </div>
 
       {/* Offline warning */}
@@ -66,29 +78,38 @@ export default function WarRoomPanel({
       <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
         {WARROOM_UNIT_ORDER.map((unitId) => {
           const def = WARROOM_UNITS[unitId];
+          const slot = warRoom.productionSlots[unitId];
           return (
             <WarRoomUnitCard
               key={unitId}
               unit={def}
-              canAfford={canTrainUnit(state, unitId)}
+              canAfford={canTrainUnit(state, unitId, 1)}
               isTraining={slot !== null}
-              garrisonCount={warRoom.garrison[unitId]}
-              onTrain={() => dispatch({ type: "TRAIN_UNIT", unitId })}
+              garrisonCount={sumEntries(warRoom.garrison[unitId])}
+              garrisonCap={WARROOM_PRODUCTION_CONFIG.garrisonCap}
+              totalGarrison={totalGarrison}
+              maxUnitLevel={maxLevel}
+              onTrain={() => dispatch({ type: "TRAIN_UNIT", unitId, level: 1 })}
               lang={lang}
             />
           );
         })}
       </div>
 
-      {/* Active production */}
-      {slot && (
-        <WarRoomProgress
-          slot={slot}
-          unitDef={WARROOM_UNITS[slot.unitId]}
-          onCancel={() => dispatch({ type: "CANCEL_TRAINING" })}
-          lang={lang}
-        />
-      )}
+      {/* Active productions (up to 4 parallel) */}
+      {WARROOM_UNIT_ORDER.map((unitId) => {
+        const slot = warRoom.productionSlots[unitId];
+        if (!slot) return null;
+        return (
+          <WarRoomProgress
+            key={unitId}
+            slot={slot}
+            unitDef={WARROOM_UNITS[unitId]}
+            onCancel={() => dispatch({ type: "CANCEL_TRAINING", unitId })}
+            lang={lang}
+          />
+        );
+      })}
 
       {/* Garrison */}
       <div className="flex flex-col gap-1.5">

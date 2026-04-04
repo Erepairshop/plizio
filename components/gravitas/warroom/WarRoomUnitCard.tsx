@@ -1,6 +1,8 @@
 "use client";
 
 import type { WarRoomUnitDef } from "@/lib/gravitas/sim/warroom/types";
+import { getBatchTrainingCost } from "@/lib/gravitas/sim/warroom/production";
+import { WARROOM_PRODUCTION_CONFIG } from "@/lib/gravitas/economy";
 import { METEOR_MATERIAL_META } from "@/lib/gravitas/world/demo";
 
 type Lang = "en" | "hu" | "de" | "ro";
@@ -14,6 +16,9 @@ export default function WarRoomUnitCard({
   canAfford,
   isTraining,
   garrisonCount,
+  garrisonCap,
+  totalGarrison,
+  maxUnitLevel,
   onTrain,
   lang,
 }: {
@@ -21,16 +26,23 @@ export default function WarRoomUnitCard({
   canAfford: boolean;
   isTraining: boolean;
   garrisonCount: number;
+  garrisonCap: number;
+  totalGarrison: number;
+  maxUnitLevel: number;
   onTrain: () => void;
   lang: string;
 }) {
   const l = (lang || "en") as Lang;
-  const atMax = garrisonCount >= unit.maxCount;
-  const disabled = !canAfford || isTraining || atMax;
-  const tickSeconds = unit.productionTicks; // 1 tick = 1 sec
-  const timeLabel = tickSeconds >= 60 ? `${Math.floor(tickSeconds / 60)}m` : `${tickSeconds}s`;
+  const atCap = totalGarrison >= garrisonCap;
+  const disabled = !canAfford || isTraining || atCap;
 
-  const costEntries = Object.entries(unit.cost).filter(([, v]) => v && v > 0) as [string, number][];
+  // Show cost for level 1 batch training
+  const cost = getBatchTrainingCost(unit.id, 1);
+  const costEntries = Object.entries(cost).filter(([, v]) => v && v > 0) as [string, number][];
+
+  // Production time display
+  const tickSeconds = WARROOM_PRODUCTION_CONFIG.baseProductionTicksPerBatch; // 1 tick = 1 sec
+  const timeLabel = tickSeconds >= 60 ? `${Math.floor(tickSeconds / 60)}m` : `${tickSeconds}s`;
 
   return (
     <button
@@ -51,9 +63,9 @@ export default function WarRoomUnitCard({
         {loc(l, unit.name)}
       </span>
 
-      {/* Garrison count / max */}
+      {/* Garrison count */}
       <span className="text-[9px] font-bold text-white/50">
-        {garrisonCount}/{unit.maxCount}
+        {garrisonCount}
       </span>
 
       {/* Cost chips — meteor materials */}
@@ -75,7 +87,7 @@ export default function WarRoomUnitCard({
         ⏱ {timeLabel}
       </span>
 
-      {atMax && (
+      {atCap && (
         <span className="text-[8px] font-bold text-amber-400/60 uppercase">MAX</span>
       )}
     </button>

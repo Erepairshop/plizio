@@ -1618,7 +1618,7 @@ export default function GravitasPage() {
                 <BattleView
                   result={battleResult}
                   enemy={getEnemyBuildingById(battleNode.variantId || battleNode.id || "")!}
-                  army={{ units: state.warRoom.garrison, tacticId: "aggressive" }}
+                  army={{ units: Object.fromEntries(Object.entries(state.warRoom.garrison).map(([k, entries]) => [k, (entries as any[]).reduce((s: number, e: any) => s + e.count, 0)])), tacticId: "aggressive" }}
                   onComplete={() => {
                     setBattleReportResult(battleResult);
                     setBattleResult(null);
@@ -1637,7 +1637,7 @@ export default function GravitasPage() {
                 <BattleReport
                   result={battleReportResult}
                   enemy={getEnemyBuildingById(battleNode.variantId || battleNode.id || "")!}
-                  army={{ units: state.warRoom.garrison, tacticId: "aggressive" }}
+                  army={{ units: Object.fromEntries(Object.entries(state.warRoom.garrison).map(([k, entries]) => [k, (entries as any[]).reduce((s: number, e: any) => s + e.count, 0)])), tacticId: "aggressive" }}
                   intelBefore={state.battleState.scoutReports[battleNode.id]?.intelLevel ?? 0}
                   onBackToGalaxy={() => {
                     dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });

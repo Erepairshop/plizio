@@ -60,7 +60,8 @@ export default function ScoutPanel({
   const [now, setNow] = useState(Date.now());
   const activeScout = state.battleState.activeScout;
   const isScoutingThis = activeScout?.buildingId === buildingId;
-  const availableDrones = state.warRoom.garrison.scout_drone ?? 0;
+  // Wraith units handle scouting in new system (was scout_drone)
+  const availableDrones = (state.warRoom.garrison.wraith ?? []).reduce((s: number, e: { count: number }) => s + e.count, 0);
 
   useEffect(() => {
     const timer = setInterval(() => setNow(Date.now()), 1000);
