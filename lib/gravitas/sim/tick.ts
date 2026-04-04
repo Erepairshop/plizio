@@ -28,6 +28,7 @@ import { tickEspionage } from "./espionage/index";
 import { tickResearch } from "./research/engine";
 import { tickSupplyRoutes } from "./supplyroute/engine";
 import { tickCodex } from "./codex/engine";
+import { tickNotifications, pushNotification } from "./notifications/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {

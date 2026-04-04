@@ -1,6 +1,6 @@
 "use client";
 
-import { X, Bell, Trash2, FlaskConical, ArrowUpCircle, AlertTriangle, Eye, Calendar, ArrowLeftRight, Scale, Wrench, Users, Globe, Activity } from "lucide-react";
+import { X, Bell, Trash2, FlaskConical, ArrowUpCircle, AlertTriangle, Eye, Calendar, ArrowLeftRight, Scale, Wrench, Users, Globe, Activity, Check } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
 import type { NotificationEntry, NotificationType } from "@/lib/gravitas/sim/notifications/types";

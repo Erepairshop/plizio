@@ -15,6 +15,7 @@ import { createInitialEspionageState } from "./espionage/index";
 import { createInitialResearchState } from "./research/index";
 import { createInitialSupplyRouteState } from "./supplyroute/index";
 import { createInitialCodexState } from "./codex/index";
+import { createInitialNotificationState } from "./notifications/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -284,6 +285,5 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     supplyRoutes: createInitialSupplyRouteState(),
     codex: createInitialCodexState(),
     notifications: createInitialNotificationState(),
-    lastActiveAt: Date.now(),
   };
 }
