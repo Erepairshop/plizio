@@ -14,8 +14,8 @@ interface TopicSpec {
   title: L1;
   hint1: L1;
   hint2: L1;
-  svg: SvgConfig;
-  interactive: TopicInteractive;
+  svg: any; // Allow L1 wrappers in spec
+  interactive: any; // Allow L1 wrappers in spec
   quiz: {
     question: L1;
     choices: L1[];
@@ -49,12 +49,58 @@ function buildIsland(island: IslandSpec) {
     });
     labels.de[`${prefix}_a`] = topic.quiz.answer.de;
 
+    // Fix SVG: Extract .de from any L1 objects
+    // IMPORTANT: In SVG, DO NOT use L() wrapper, pass raw strings
+    const svg = JSON.parse(JSON.stringify(topic.svg), (key, value) => {
+      if (value && typeof value === "object" && "de" in value) {
+        return value.de;
+      }
+      return value;
+    });
+
+    // Fix Interactive: Extract .de and map to keys
+    let rawInteractive = JSON.parse(JSON.stringify(topic.interactive));
+    
+    // Recursive label extractor
+    const processInteractive = (obj: any, path: string): any => {
+      if (!obj || typeof obj !== "object") return obj;
+      
+      if ("de" in obj) {
+        const key = `${prefix}_int_${path.replace(/\./g, "_")}`;
+        labels.de[key] = obj.de;
+        return key;
+      }
+
+      if (Array.isArray(obj)) {
+        return obj.map((item, i) => processInteractive(item, `${path}_${i}`));
+      }
+
+      const newObj: any = {};
+      for (const [k, v] of Object.entries(obj)) {
+        newObj[k] = processInteractive(v, `${path}_${k}`);
+      }
+      return newObj;
+    };
+
+    let interactive = processInteractive(rawInteractive, "root");
+
+    // Correct gap-fill structure: text -> sentence, gaps -> choices
+    if (interactive.type === "gap-fill") {
+      interactive.sentence = interactive.text;
+      delete interactive.text;
+      if (interactive.gaps && interactive.gaps[0]) {
+        interactive.choices = interactive.gaps[0].options;
+        interactive.correctIndex = interactive.gaps[0].correct;
+        delete interactive.gaps;
+      }
+    }
+
     return {
       infoTitle: `${prefix}_title`,
       infoText: `${prefix}_h1`,
       hintKey: `${prefix}_h2`,
-      svg: topic.svg,
-      interactive: topic.interactive,
+      svg: svg as SvgConfig,
+      interactive: interactive as TopicInteractive,
       quiz: {
         question: `${prefix}_q`,
         choices: topic.quiz.choices.map((_, i) => `${prefix}_c${i}`),
@@ -102,8 +148,8 @@ const I1: IslandSpec = {
       title: L("Keilschrift"),
       hint1: L("Schriftzeichen in Keilform."),
       hint2: L("Gedrückt in feuchten Ton."),
-      svg: { type: "letter-circles", letters: ["K", "E", "I", "L", "S"] },
-      interactive: { type: "word-order", words: [L("Griff"), L("drückt"), L("in"), L("Ton")], instruction: L("Wie schrieb man?") },
+      svg: { type: "letter-circles", letters: ["K", "E", "I", "L", "S"], color: "#1e40af" },
+      interactive: { type: "word-order", words: [L("Griff"), L("drückt"), L("in"), L("Ton")], instruction: L("Wie schrieb man?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Auf welchem Material schrieben die Sumerer?"), 
         choices: [L("Tontafeln"), L("Papier"), L("Holz"), L("Leder")], 
@@ -115,8 +161,8 @@ const I1: IslandSpec = {
       title: L("Bewässerung"),
       hint1: L("Kanäle brachten Wasser auf die Felder."),
       hint2: L("So gab es reiche Ernten."),
-      svg: { type: "comparison-table", rows: [{ left: L("Kanal"), right: L("Wasser") }, { left: L("Feld"), right: L("Ernte") }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "b", label: L("Landbau") }], items: [{ text: L("Kanal"), bucketId: "b" }, { text: L("Damm"), bucketId: "b" }] },
+      svg: { type: "two-groups", left: { items: ["Kanal", "Wasser"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["Feld", "Ernte"], bg: "#dcfce7", border: "#16a34a" } },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "b", label: L("Landbau") }], items: [{ text: L("Kanal"), bucketId: "b" }, { text: L("Damm"), bucketId: "b" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Warum bauten Mesopotamier Kanäle?"), 
         choices: [L("Zur Bewässerung"), L("Zum Schwimmen"), L("Als Mauern"), L("Für Schiffe allein")], 
@@ -129,7 +175,7 @@ const I1: IslandSpec = {
       hint1: L("Eine der wichtigsten Erfindungen."),
       hint2: L("Zuerst für Töpferscheiben genutzt."),
       svg: { type: "icon-grid", items: [{ emoji: "⭕", label: "Rad" }, { emoji: "🛒", label: "Wagen" }] },
-      interactive: { type: "tap-count", count: 4, instruction: L("Wie viele Räder hat ein Wagen?") },
+      interactive: { type: "tap-count", tapCount: { emoji: "⭕", count: 4 }, instruction: L("Wie viele Räder hat ein Wagen?") },
       quiz: { 
         question: L("Wofür war das Rad besonders nützlich?"), 
         choices: [L("Transport von Waren"), L("Zum Essen"), L("Als Hausbau"), L("Nur zum Spielen")], 
@@ -141,7 +187,7 @@ const I1: IslandSpec = {
       title: L("König Hammurabi"),
       hint1: L("Berühmt für seine Gesetze."),
       hint2: L("Eingemeißelt in Stein."),
-      svg: { type: "word-card", word: L("Gesetz"), color: "#fff", bg: "#475569" },
+      svg: { type: "word-display", word: "GESETZ", color: "#475569" },
       interactive: { type: "gap-fill", text: L("Hammurabi war König von __."), gaps: [{ index: 0, options: ["Babylon", "Rom"], correct: 0 }] },
       quiz: { 
         question: L("Was ließ Hammurabi aufschreiben?"), 
@@ -168,7 +214,7 @@ const I1: IslandSpec = {
       hint1: L("Herrscher waren auch religiöse Führer."),
       hint2: L("Sie regierten im Namen der Götter."),
       svg: { type: "icon-grid", items: [{ emoji: "👑", label: "König" }, { emoji: "🙏", label: "Priester" }] },
-      interactive: { type: "word-order", words: [L("Gott"), L("und"), L("Herrscher")], instruction: L("Zwei Rollen!") },
+      interactive: { type: "word-order", words: [L("Gott"), L("und"), L("Herrscher")], instruction: L("Zwei Rollen!"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wer regierte oft in frühen Hochkulturen?"), 
         choices: [L("Priesterkönige"), L("Präsidenten"), L("Bauernräte"), L("Händler")], 
@@ -180,7 +226,7 @@ const I1: IslandSpec = {
       title: L("Die Stadt Ur"),
       hint1: L("Eine der ersten großen Städte."),
       hint2: L("Hier lebten Tausende Menschen."),
-      svg: { type: "sentence-display", words: [L("Erste"), L("große"), L("Stadt")], color: "#16a34a" },
+      svg: { type: "sentence-display", words: ["Erste", "große", "Stadt"], color: "#16a34a" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Ur"), right: L("Sumerer") }, { left: L("Stadt"), right: L("Mauer") }] },
       quiz: { 
         question: L("In welcher Region lag die Stadt Ur?"), 
@@ -194,7 +240,7 @@ const I1: IslandSpec = {
       hint1: L("Ein sehr wichtiger Beruf."),
       hint2: L("Nur wenige konnten schreiben."),
       svg: { type: "icon-grid", items: [{ emoji: "🖋️", label: "Feder" }, { emoji: "📜", label: "Liste" }] },
-      interactive: { type: "gap-fill", text: L("Schreiber arbeiteten im __."), gaps: [{ index: 0, options: [L("Tempel"), L("Wald")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Schreiber arbeiteten im __."), gaps: [{ index: 0, options: ["Tempel", "Wald"], correct: 0 }] },
       quiz: { 
         question: L("Wofür brauchte man Schreiber?"), 
         choices: [L("Für Vorräte und Steuern"), L("Zum Jagen"), L("Für Sport"), L("Gar nicht")], 
@@ -207,7 +253,7 @@ const I1: IslandSpec = {
       hint1: L("Einteilung in 60 Minuten."),
       hint2: L("Von den Sumerern erfunden."),
       svg: { type: "text-bubbles", items: [{ text: "60", color: "#fff", bg: "#ef4444" }, { text: "Zeit", color: "#fff", bg: "#3b82f6" }] },
-      interactive: { type: "tap-count", count: 12, instruction: L("Wie viele Stunden hat ein halber Tag?") },
+      interactive: { type: "tap-count", tapCount: { emoji: "⏰", count: 12 }, instruction: L("Zähle die Stunden!") },
       quiz: { 
         question: L("Auf welcher Zahl basierte das sumerische Zeitsystem?"), 
         choices: ["60", "10", "100", "7"], 
@@ -219,7 +265,7 @@ const I1: IslandSpec = {
       title: L("Indus-Kultur"),
       hint1: L("Hochkultur am Indus-Fluss."),
       hint2: L("Bekannt für geplante Städte."),
-      svg: { type: "comparison-table", rows: [{ left: L("Indus"), right: L("Fluss") }, { left: L("Bad"), right: L("Hygiene") }] },
+      svg: { type: "two-groups", left: { items: ["Indus", "Fluss"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["Bad", "Hygiene"], bg: "#f1f5f9", border: "#475569" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Indus"), right: L("Pakistan") }, { left: L("Stadt"), right: L("Planung") }] },
       quiz: { 
         question: L("Was war besonders an Indus-Städten?"), 
@@ -232,8 +278,8 @@ const I1: IslandSpec = {
       title: L("Gelber Fluss"),
       hint1: L("Hochkultur im alten China."),
       hint2: L("Huang He brachte fruchtbaren Löss."),
-      svg: { type: "word-card", word: L("Huang He"), color: "#854d0e", bg: "#fef08a" },
-      interactive: { type: "word-order", words: [L("Gelber"), L("Fluss"), L("China")], instruction: L("Satz bilden!") },
+      svg: { type: "word-display", word: "HUANG HE", color: "#854d0e" },
+      interactive: { type: "word-order", words: [L("Gelber"), L("Fluss"), L("China")], instruction: L("Ordnen!"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wo entstand die chinesische Hochkultur?"), 
         choices: [L("Huang He"), L("Nil"), L("Donau"), L("Amazonas")], 
@@ -245,8 +291,8 @@ const I1: IslandSpec = {
       title: L("Arbeitsteilung"),
       hint1: L("Menschen spezialisieren sich."),
       hint2: L("Es gab Bauern, Schmiede, Händler."),
-      svg: { type: "two-groups", left: { items: [L("Bauer"), L("Schmied")], bg: "#dcfce7", border: "#16a34a" }, right: { items: [L("Händler"), L("Schreiber")], bg: "#dbeafe", border: "#2563eb" } },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "b", label: L("Berufe") }], items: [{ text: L("Weber"), bucketId: "b" }, { text: L("Töpfer"), bucketId: "b" }] },
+      svg: { type: "two-groups", left: { items: ["Bauer", "Schmied"], bg: "#dcfce7", border: "#16a34a" }, right: { items: ["Händler", "Schreiber"], bg: "#dbeafe", border: "#2563eb" } },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "b", label: L("Berufe") }], items: [{ text: L("Weber"), bucketId: "b" }, { text: L("Töpfer"), bucketId: "b" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was bedeutet Arbeitsteilung?"), 
         choices: [L("Jeder macht eine spezielle Aufgabe"), L("Niemand arbeitet"), L("Alle machen das Gleiche"), L("Arbeit wird verboten")], 
@@ -259,7 +305,7 @@ const I1: IslandSpec = {
       hint1: L("Gebiet im Nahen Osten."),
       hint2: L("Hier begannen Landwirtschaft und Städte."),
       svg: { type: "icon-grid", items: [{ emoji: "🌙", label: "Form" }, { emoji: "🌱", label: "Früchte" }] },
-      interactive: { type: "gap-fill", text: L("Das Gebiet ist sehr __."), gaps: [{ index: 0, options: [L("fruchtbar"), L("eisig")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Das Gebiet ist sehr __."), gaps: [{ index: 0, options: ["fruchtbar", "eisig"], correct: 0 }] },
       quiz: { 
         question: L("Wo liegt der Fruchtbare Halbmond?"), 
         choices: [L("Naher Osten"), L("Europa"), L("Amerika"), L("Australien")], 
@@ -293,7 +339,7 @@ const I2: IslandSpec = {
       hint1: L("Pyramiden waren Grabmäler für Pharaonen."),
       hint2: L("Die größte ist die Cheops-Pyramide."),
       svg: { type: "text-bubbles", items: [{ text: "Stein", color: "#000", bg: "#fbbf24" }, { text: "Grab", color: "#000", bg: "#f59e0b" }] },
-      interactive: { type: "tap-count", count: 3, instruction: L("Wie viele Ecken hat eine Pyramiden-Grundfläche (quadratisch)?") },
+      interactive: { type: "tap-count", tapCount: { emoji: "🔺", count: 3 }, instruction: L("Zähle die Seiten!") },
       quiz: { 
         question: L("Wozu dienten die Pyramiden?"), 
         choices: [L("Als Gräber"), L("Als Getreidespeicher"), L("Als Wohnhäuser"), L("Als Festungen")], 
@@ -305,8 +351,8 @@ const I2: IslandSpec = {
       title: L("Der Nil"),
       hint1: L("Der Nil ist die Lebensader Ägyptens."),
       hint2: L("Die jährliche Überschwemmung brachte fruchtbaren Schlamm."),
-      svg: { type: "comparison-table", rows: [{ left: L("Überflutung"), right: L("Fruchtbarkeit") }, { left: L("Trockenheit"), right: L("Hunger") }] },
-      interactive: { type: "word-order", words: [L("Nilflut"), L("Schlamm"), L("Ernte")], instruction: L("Bringe den Kreislauf in Ordnung!") },
+      svg: { type: "two-groups", left: { items: ["Wasser", "Flut"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["Ernte", "Schlamm"], bg: "#dcfce7", border: "#16a34a" } },
+      interactive: { type: "word-order", words: [L("Nilflut"), L("Schlamm"), L("Ernte")], instruction: L("Bringe den Kreislauf in Ordnung!"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Warum war der Nil so wichtig?"), 
         choices: [L("Wegen des fruchtbaren Schlamms"), L("Wegen des Salzwassers"), L("Wegen der Fische allein"), L("Wegen des Eises")], 
@@ -331,8 +377,8 @@ const I2: IslandSpec = {
       title: L("Hieroglyphen"),
       hint1: L("Die heilige Schrift der Ägypter."),
       hint2: L("Es sind Bildzeichen."),
-      svg: { type: "letter-circles", letters: ["H", "I", "E", "R", "O"] },
-      interactive: { type: "word-order", words: [L("Bild"), L("Schrift"), L("Zeichen")], instruction: L("Was sind Hieroglyphen?") },
+      svg: { type: "letter-circles", letters: ["H", "I", "E", "R", "O"], color: "#f59e0b" },
+      interactive: { type: "word-order", words: [L("Bild"), L("Schrift"), L("Zeichen")], instruction: L("Was sind Hieroglyphen?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wie nennt man die ägyptische Bilderschrift?"), 
         choices: [L("Hieroglyphen"), L("Keilschrift"), L("Alphabet"), L("Latein")], 
@@ -344,8 +390,8 @@ const I2: IslandSpec = {
       title: L("Totenkult"),
       hint1: L("Ägypter glaubten an ein Weiterleben nach dem Tod."),
       hint2: L("Sie gaben Grabbeigaben mit."),
-      svg: { type: "two-groups", left: { items: [L("Gold"), L("Essen")], bg: "#fef3c7", border: "#d97706" }, right: { items: [L("Werkzeug")], bg: "#fef3c7", border: "#d97706" } },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "j", label: L("Jenseits") }], items: [{ text: L("Schätze"), bucketId: "j" }, { text: L("Speisen"), bucketId: "j" }] },
+      svg: { type: "two-groups", left: { items: ["Gold", "Essen"], bg: "#fef3c7", border: "#d97706" }, right: { items: ["Werkzeug"], bg: "#fef3c7", border: "#d97706" } },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "j", label: L("Jenseits") }], items: [{ text: L("Schätze"), bucketId: "j" }, { text: L("Speisen"), bucketId: "j" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was legte man den Toten ins Grab?"), 
         choices: [L("Grabbeigaben"), L("Nichts"), L("Nur Steine"), L("Geldbeutel")], 
@@ -358,7 +404,7 @@ const I2: IslandSpec = {
       hint1: L("Ra war der Sonnengott."),
       hint2: L("Er war der wichtigste Gott."),
       svg: { type: "text-bubbles", items: [{ text: "Sonne", color: "#fff", bg: "#ea580c" }, { text: "Licht", color: "#fff", bg: "#facc15" }] },
-      interactive: { type: "gap-fill", text: L("Der Gott __ wird oft mit einem Falkenkopf dargestellt."), gaps: [{ index: 0, options: [L("Ra"), L("Osiris")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Der Gott __ wird oft mit einem Falkenkopf dargestellt."), gaps: [{ index: 0, options: ["Ra", "Osiris"], correct: 0 }] },
       quiz: { 
         question: L("Für was war der Gott Ra zuständig?"), 
         choices: [L("Sonne"), L("Unterwelt"), L("Wasser"), L("Krieg")], 
@@ -370,7 +416,7 @@ const I2: IslandSpec = {
       title: L("Gott Osiris"),
       hint1: L("Der Herrscher der Unterwelt."),
       hint2: L("Er richtet über die Toten."),
-      svg: { type: "comparison-table", rows: [{ left: L("Osiris"), right: L("Unterwelt") }, { left: L("Ra"), right: L("Himmel") }] },
+      svg: { type: "two-groups", left: { items: ["Osiris", "Unterwelt"], bg: "#ede9fe", border: "#7c3aed" }, right: { items: ["Ra", "Himmel"], bg: "#dbeafe", border: "#2563eb" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Osiris"), right: L("Richter") }, { left: L("Tote"), right: L("Gericht") }] },
       quiz: { 
         question: L("Wo herrschte der Gott Osiris?"), 
@@ -384,7 +430,7 @@ const I2: IslandSpec = {
       hint1: L("Die Göttin der Magie und Mütter."),
       hint2: L("Ehefrau von Osiris."),
       svg: { type: "icon-grid", items: [{ emoji: "🪄", label: "Magie" }, { emoji: "👩", label: "Mutter" }] },
-      interactive: { type: "word-order", words: [L("Schutz"), L("Göttin"), L("Isis")], instruction: L("Wer war Isis?") },
+      interactive: { type: "word-order", words: [L("Schutz"), L("Göttin"), L("Isis")], instruction: L("Wer war Isis?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Für was steht die Göttin Isis?"), 
         choices: [L("Schutz und Magie"), L("Krieg"), L("Handel"), L("Wetter")], 
@@ -396,7 +442,7 @@ const I2: IslandSpec = {
       title: L("Papyrus"),
       hint1: L("Das Schreibmaterial der Ägypter."),
       hint2: L("Es wurde aus einer Schilfpflanze gemacht."),
-      svg: { type: "word-card", word: L("Papyrus"), color: "#166534", bg: "#dcfce7" },
+      svg: { type: "word-display", word: "PAPYRUS", color: "#166534" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Papyrus"), right: L("Papier") }, { left: L("Schilf"), right: L("Pflanze") }] },
       quiz: { 
         question: L("Woraus machten Ägypter Schreibmaterial?"), 
@@ -409,8 +455,8 @@ const I2: IslandSpec = {
       title: L("Die Sphinx"),
       hint1: L("Ein Wesen mit Löwenkörper und Menschenkopf."),
       hint2: L("Sie bewacht die Pyramiden."),
-      svg: { type: "sentence-display", words: [L("Löwe"), L("und"), L("Mensch")], color: "#854d0e" },
-      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele Körperteile (Löwe+Mensch) hat die Sphinx?") },
+      svg: { type: "sentence-display", words: ["Löwe", "und", "Mensch"], color: "#854d0e" },
+      interactive: { type: "tap-count", tapCount: { emoji: "🐾", count: 2 }, instruction: L("Wie viele Teile?") },
       quiz: { 
         question: L("Welche Gestalt hat die Sphinx?"), 
         choices: [L("Löwe mit Menschenkopf"), L("Vogel mit Fischschwanz"), L("Hund mit Flügeln"), L("Nur Mensch")], 
@@ -436,7 +482,7 @@ const I2: IslandSpec = {
       hint1: L("Die letzte Königin von Ägypten."),
       hint2: L("Sie war sehr klug."),
       svg: { type: "icon-grid", items: [{ emoji: "👸", label: "Königin" }, { emoji: "🐍", label: "Ende" }] },
-      interactive: { type: "word-order", words: [L("Letzte"), L("Pharaonin"), L("Ägyptens")], instruction: L("Wer war Kleopatra?") },
+      interactive: { type: "word-order", words: [L("Letzte"), L("Pharaonin"), L("Ägyptens")], instruction: L("Wer war Kleopatra?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wer war die letzte Herrscherin Ägyptens?"), 
         choices: [L("Kleopatra"), L("Nefertiti"), L("Isis"), L("Hatschepsut")], 
@@ -449,7 +495,7 @@ const I2: IslandSpec = {
       hint1: L("Grüne Orte in der Wüste."),
       hint2: L("Dort gibt es Wasser."),
       svg: { type: "text-bubbles", items: [{ text: "Wasser", color: "#fff", bg: "#0284c7" }, { text: "Palmen", color: "#fff", bg: "#16a34a" }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "o", label: L("Oase") }], items: [{ text: L("Quelle"), bucketId: "o" }, { text: L("Datteln"), bucketId: "o" }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "o", label: L("Oase") }], items: [{ text: L("Quelle"), bucketId: "o" }, { text: L("Datteln"), bucketId: "o" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was findet man in einer Oase?"), 
         choices: [L("Wasser und Pflanzen"), L("Nur Sand"), L("Eis"), L("Salzwasser")], 
@@ -461,8 +507,8 @@ const I2: IslandSpec = {
       title: L("Gesellschaft"),
       hint1: L("Die Ägypter hatten eine feste Ordnung."),
       hint2: L("Ganz oben war der Pharao."),
-      svg: { type: "two-groups", left: { items: [L("Pharao"), L("Beamte")], bg: "#dbeafe", border: "#2563eb" }, right: { items: [L("Bauern"), L("Sklaven")], bg: "#fee2e2", border: "#dc2626" } },
-      interactive: { type: "gap-fill", text: L("Die meisten Menschen waren __."), gaps: [{ index: 0, options: [L("Bauern"), L("Schreiber")], correct: 0 }] },
+      svg: { type: "two-groups", left: { items: ["Pharao", "Beamte"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["Bauern", "Sklaven"], bg: "#fee2e2", border: "#dc2626" } },
+      interactive: { type: "gap-fill", text: L("Die meisten Menschen waren __."), gaps: [{ index: 0, options: ["Bauern", "Schreiber"], correct: 0 }] },
       quiz: { 
         question: L("Wer bildete die Basis der Gesellschaft?"), 
         choices: [L("Bauern"), L("Pharaonen"), L("Priester"), L("Beamte")], 
@@ -496,7 +542,7 @@ const I3: IslandSpec = {
       hint1: L("Das Zentrum von Bildung und Kunst."),
       hint2: L("Berühmt für die Akropolis."),
       svg: { type: "text-bubbles", items: [{ text: "Wissen", color: "#fff", bg: "#3b82f6" }, { text: "Demokratie", color: "#fff", bg: "#10b981" }] },
-      interactive: { type: "word-order", words: [L("Athen"), L("ist"), L("Kultur")], instruction: L("Satz bilden!") },
+      interactive: { type: "word-order", words: [L("Athen"), L("ist"), L("Kultur")], instruction: L("Satz bilden!"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wofür war Athen besonders bekannt?"), 
         choices: [L("Demokratie und Kunst"), L("Nur Krieg"), L("Wüste"), L("Schneehäuser")], 
@@ -508,7 +554,7 @@ const I3: IslandSpec = {
       title: L("Sparta"),
       hint1: L("Ein Staat mit starken Kriegern."),
       hint2: L("Die Erziehung war sehr streng."),
-      svg: { type: "two-groups", left: { items: [L("Kampf"), L("Disziplin")], bg: "#fca5a5", border: "#b91c1c" }, right: { items: [L("Musik")], bg: "#fca5a5", border: "#b91c1c" } },
+      svg: { type: "two-groups", left: { items: ["Kampf", "Disziplin"], bg: "#fca5a5", border: "#b91c1c" }, right: { items: ["Musik"], bg: "#fef3c7", border: "#d97706" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Sparta"), right: L("Militär") }, { left: L("Erziehung"), right: L("Härte") }] },
       quiz: { 
         question: L("Was war in Sparta am wichtigsten?"), 
@@ -521,8 +567,8 @@ const I3: IslandSpec = {
       title: L("Demokratie"),
       hint1: L("Herrschaft des Volkes."),
       hint2: L("Bürger durften mitbestimmen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Volk"), right: L("Entscheidet") }, { left: L("Tyrann"), right: L("Befiehlt") }] },
-      interactive: { type: "gap-fill", text: L("In Athen durften __ Männer wählen."), gaps: [{ index: 0, options: [L("freie"), L("alle")], correct: 0 }] },
+      svg: { type: "two-groups", left: { items: ["Volk", "Wahl"], bg: "#dcfce7", border: "#16a34a" }, right: { items: ["König", "Befehl"], bg: "#fee2e2", border: "#dc2626" } },
+      interactive: { type: "gap-fill", text: L("In Athen durften __ Männer wählen."), gaps: [{ index: 0, options: ["freie", "alle"], correct: 0 }] },
       quiz: { 
         question: L("Was bedeutet Demokratie?"), 
         choices: [L("Volksherrschaft"), L("Königsherrschaft"), L("Gesetz"), L("Reichtum")], 
@@ -535,7 +581,7 @@ const I3: IslandSpec = {
       hint1: L("Wettkämpfe zu Ehren von Zeus."),
       hint2: L("Alle Kriege mussten ruhen."),
       svg: { type: "icon-grid", items: [{ emoji: "🏃", label: "Lauf" }, { emoji: "🥇", label: "Sieg" }] },
-      interactive: { type: "tap-count", count: 5, instruction: L("Wie viele Ringe hat das moderne Olympia-Symbol?") },
+      interactive: { type: "tap-count", tapCount: { emoji: "⭕", count: 5 }, instruction: L("Zähle die Ringe!") },
       quiz: { 
         question: L("Wem zu Ehren fanden die Spiele statt?"), 
         choices: [L("Zeus"), L("Hera"), L("Athene"), L("Poseidon")], 
@@ -547,7 +593,7 @@ const I3: IslandSpec = {
       title: L("Sokrates"),
       hint1: L("Ein berühmter Philosoph."),
       hint2: L("Er stellte viele Fragen."),
-      svg: { type: "word-card", word: L("Philosophie"), color: "#fff", bg: "#6366f1" },
+      svg: { type: "word-display", word: "PHILOSOPHIE", color: "#6366f1" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Sokrates"), right: L("Fragen") }, { left: L("Wissen"), right: L("Denken") }] },
       quiz: { 
         question: L("Was war Sokrates von Beruf?"), 
@@ -561,7 +607,7 @@ const I3: IslandSpec = {
       hint1: L("Schüler von Sokrates."),
       hint2: L("Er gründete die Akademie."),
       svg: { type: "text-bubbles", items: [{ text: "Ideen", color: "#fff", bg: "#8b5cf6" }, { text: "Schule", color: "#fff", bg: "#4f46e5" }] },
-      interactive: { type: "gap-fill", text: L("Platon war ein __."), gaps: [{ index: 0, options: [L("Denker"), L("König")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Platon war ein __."), gaps: [{ index: 0, options: ["Denker", "König"], correct: 0 }] },
       quiz: { 
         question: L("Was gründete Platon in Athen?"), 
         choices: [L("Eine Akademie"), L("Ein Heer"), L("Einen Hafen"), L("Einen Markt")], 
@@ -573,7 +619,7 @@ const I3: IslandSpec = {
       title: L("Aristoteles"),
       hint1: L("Ein Forscher und Philosoph."),
       hint2: L("Lehrer von Alexander dem Großen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Logik"), right: L("Wissenschaft") }] },
+      svg: { type: "two-groups", left: { items: ["Logik", "Wissen"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Schule"], bg: "#f1f5f9", border: "#475569" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Aristoteles"), right: L("Lehrer") }, { left: L("Alexander"), right: L("Schüler") }] },
       quiz: { 
         question: L("Wen unterrichtete Aristoteles?"), 
@@ -587,7 +633,7 @@ const I3: IslandSpec = {
       hint1: L("Die Griechen liebten Dramen."),
       hint2: L("Männer spielten alle Rollen."),
       svg: { type: "icon-grid", items: [{ emoji: "🎭", label: "Maske" }, { emoji: "🏛️", label: "Bühne" }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "t", label: L("Theater") }], items: [{ text: L("Tragödie"), bucketId: "t" }, { text: L("Komödie"), bucketId: "t" }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "t", label: L("Theater") }], items: [{ text: L("Tragödie"), bucketId: "t" }, { text: L("Komödie"), bucketId: "t" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was trugen griechische Schauspieler oft?"), 
         choices: [L("Masken"), L("Brillen"), L("Hüte"), L("Nichts")], 
@@ -613,7 +659,7 @@ const I3: IslandSpec = {
       hint1: L("Göttin der Weisheit."),
       hint2: L("Schutzherrin von Athen."),
       svg: { type: "icon-grid", items: [{ emoji: "🦉", label: "Eule" }, { emoji: "🛡️", label: "Schutz" }] },
-      interactive: { type: "word-order", words: [L("Weisheit"), L("und"), L("Kampf")], instruction: L("Wofür steht Athene?") },
+      interactive: { type: "word-order", words: [L("Weisheit"), L("und"), L("Kampf")], instruction: L("Wofür steht Athene?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Welches Tier ist das Symbol für Athene?"), 
         choices: [L("Eule"), L("Löwe"), L("Adler"), L("Schlange")], 
@@ -625,8 +671,8 @@ const I3: IslandSpec = {
       title: L("Perserkriege"),
       hint1: L("Griechen kämpften gegen das Perserreich."),
       hint2: L("Sie verteidigten ihre Freiheit."),
-      svg: { type: "comparison-table", rows: [{ left: L("Perser"), right: L("Großreich") }, { left: L("Griechen"), right: L("Stadtstaaten") }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "g", label: L("Griechen") }, { id: "p", label: L("Perser") }], items: [{ text: L("Athen"), bucketId: "g" }, { text: L("Xerxes"), bucketId: "p" }] },
+      svg: { type: "two-groups", left: { items: ["Perser", "Heer"], bg: "#fee2e2", border: "#dc2626" }, right: { items: ["Griechen", "Polis"], bg: "#dbeafe", border: "#2563eb" } },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "g", label: L("Griechen") }, { id: "p", label: L("Perser") }], items: [{ text: L("Athen"), bucketId: "g" }, { text: L("Xerxes"), bucketId: "p" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Gegen wen kämpften die Griechen?"), 
         choices: [L("Perser"), L("Römer"), L("Ägypter"), L("Germanen")], 
@@ -638,7 +684,7 @@ const I3: IslandSpec = {
       title: L("Marathon"),
       hint1: L("Ein berühmter Sieg der Athener."),
       hint2: L("Ein Läufer brachte die Nachricht."),
-      svg: { type: "sentence-display", words: [L("Sieg"), L("über"), L("die"), L("Perser")], color: "#16a34a" },
+      svg: { type: "sentence-display", words: ["Sieg", "über", "die", "Perser"], color: "#16a34a" },
       interactive: { type: "gap-fill", text: L("Der Lauf von Marathon ist __ km lang."), gaps: [{ index: 0, options: ["42", "10", "100"], correct: 0 }] },
       quiz: { 
         question: L("Was geschah bei Marathon?"), 
@@ -652,7 +698,7 @@ const I3: IslandSpec = {
       hint1: L("Der Marktplatz von Athen."),
       hint2: L("Hier wurde Politik gemacht."),
       svg: { type: "icon-grid", items: [{ emoji: "🍎", label: "Markt" }, { emoji: "🗣️", label: "Rede" }] },
-      interactive: { type: "word-order", words: [L("Treffpunkt"), L("der"), L("Bürger")], instruction: L("Was war die Agora?") },
+      interactive: { type: "word-order", words: [L("Treffpunkt"), L("der"), L("Bürger")], instruction: L("Was war die Agora?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Was war die Agora?"), 
         choices: [L("Marktplatz"), L("Tempel"), L("Hafen"), L("Schlachtfeld")], 
@@ -686,7 +732,7 @@ const I4: IslandSpec = {
       hint1: L("Romulus und Remus gründeten Rom."),
       hint2: L("Sie wurden von einer Wölfin gesäugt."),
       svg: { type: "icon-grid", items: [{ emoji: "🐺", label: "Wölfin" }, { emoji: "👶", label: "Zwillinge" }] },
-      interactive: { type: "word-order", words: [L("753"), L("Rom"), L("schlüpft"), L("aus"), L("dem"), L("Ei")], instruction: L("Merkspruch!") },
+      interactive: { type: "word-order", words: [L("753"), L("Rom"), L("schlüpft"), L("aus"), L("dem"), L("Ei")], instruction: L("Merkspruch!"), correctOrder: [0, 1, 2, 3, 4, 5] },
       quiz: { 
         question: L("Wer waren die sagenhaften Gründer Roms?"), 
         choices: [L("Romulus und Remus"), L("Caesar und Augustus"), L("Zeus und Poseidon"), L("Adam und Eva")], 
@@ -699,7 +745,7 @@ const I4: IslandSpec = {
       hint1: L("Die Versammlung der Ältesten."),
       hint2: L("Er beriet die Konsuln."),
       svg: { type: "text-bubbles", items: [{ text: "Rat", color: "#fff", bg: "#ef4444" }, { text: "Macht", color: "#fff", bg: "#b91c1c" }] },
-      interactive: { type: "gap-fill", text: L("Im Senat saßen die __."), gaps: [{ index: 0, options: [L("Adligen"), L("Bauern")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Im Senat saßen die __."), gaps: [{ index: 0, options: ["Adligen", "Bauern"], correct: 0 }] },
       quiz: { 
         question: L("Wer hatte in der Republik viel Macht?"), 
         choices: [L("Der Senat"), L("Der Sklave"), L("Der Feind"), L("Niemand")], 
@@ -711,8 +757,8 @@ const I4: IslandSpec = {
       title: L("Konsuln"),
       hint1: L("Die zwei obersten Beamten."),
       hint2: L("Sie regierten für ein Jahr."),
-      svg: { type: "comparison-table", rows: [{ left: L("Konsul 1"), right: L("Veto-Recht") }, { left: L("Konsul 2"), right: L("Veto-Recht") }] },
-      interactive: { type: "tap-count", count: 2, instruction: L("Wie viele Konsuln gab es gleichzeitig?") },
+      svg: { type: "two-groups", left: { items: ["Konsul 1", "Macht"], bg: "#fee2e2", border: "#ef4444" }, right: { items: ["Konsul 2", "Macht"], bg: "#fee2e2", border: "#ef4444" } },
+      interactive: { type: "tap-count", tapCount: { emoji: "👔", count: 2 }, instruction: L("Wie viele Konsuln?") },
       quiz: { 
         question: L("Wie lange durfte ein Konsul regieren?"), 
         choices: [L("Ein Jahr"), L("Ewig"), L("Zehn Jahre"), L("Einen Monat")], 
@@ -724,7 +770,7 @@ const I4: IslandSpec = {
       title: L("Patrizier & Plebejer"),
       hint1: L("Zwei Gruppen in Rom."),
       hint2: L("Patrizier waren adlig, Plebejer das Volk."),
-      svg: { type: "two-groups", left: { items: [L("Patrizier"), L("Reich")], bg: "#ede9fe", border: "#4f46e5" }, right: { items: [L("Plebejer"), L("Volk")], bg: "#f1f5f9", border: "#475569" } },
+      svg: { type: "two-groups", left: { items: ["Patrizier", "Reich"], bg: "#ede9fe", border: "#4f46e5" }, right: { items: ["Plebejer", "Volk"], bg: "#f1f5f9", border: "#475569" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Patrizier"), right: L("Adel") }, { left: L("Plebejer"), right: L("Einfaches Volk") }] },
       quiz: { 
         question: L("Wie nannte man den armen Teil der Bürger?"), 
@@ -737,8 +783,8 @@ const I4: IslandSpec = {
       title: L("Zwölftafelgesetz"),
       hint1: L("Die ersten schriftlichen Gesetze Roms."),
       hint2: L("Jeder sollte sie kennen können."),
-      svg: { type: "comparison-table", rows: [{ left: L("Tafel 1"), right: L("Gesetz") }, { left: L("Tafel 12"), right: L("Gesetz") }] },
-      interactive: { type: "gap-fill", text: L("Die Gesetze standen auf __."), gaps: [{ index: 0, options: [L("Bronze-Tafeln"), L("Papier")], correct: 0 }] },
+      svg: { type: "icon-grid", items: [{ emoji: "📜", label: "Tafel 1" }, { emoji: "📜", label: "Tafel 12" }] },
+      interactive: { type: "gap-fill", text: L("Die Gesetze standen auf __."), gaps: [{ index: 0, options: ["Bronze-Tafeln", "Papier"], correct: 0 }] },
       quiz: { 
         question: L("Warum waren schriftliche Gesetze wichtig?"), 
         choices: [L("Gleiches Recht für alle"), L("Waren sie nicht"), L("Nur zum Lesen"), L("Wegen des Metalls")], 
@@ -764,7 +810,7 @@ const I4: IslandSpec = {
       hint1: L("Der Feldherr von Karthago."),
       hint2: L("Er zog mit Elefanten über die Alpen."),
       svg: { type: "icon-grid", items: [{ emoji: "🐘", label: "Elefant" }, { emoji: "🏔️", label: "Alpen" }] },
-      interactive: { type: "word-order", words: [L("Hannibal"), L("ante"), L("portas")], instruction: L("Berühmter Ausruf!") },
+      interactive: { type: "word-order", words: [L("Hannibal"), L("ante"), L("portas")], instruction: L("Berühmter Ausruf!"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Welches Tier nutzte Hannibal für seinen Alpenzug?"), 
         choices: [L("Elefanten"), L("Pferde"), L("Hunde"), L("Löwen")], 
@@ -776,8 +822,8 @@ const I4: IslandSpec = {
       title: L("Die Legion"),
       hint1: L("Das römische Heer."),
       hint2: L("Soldaten waren gut organisiert."),
-      svg: { type: "sentence-display", words: [L("Stark"), L("und"), L("diszipliniert")], color: "#991b1b" },
-      interactive: { type: "tap-count", count: 4, instruction: L("Wie viele Seiten hat ein Schild?") },
+      svg: { type: "sentence-display", words: ["Stark", "und", "diszipliniert"], color: "#991b1b" },
+      interactive: { type: "tap-count", tapCount: { emoji: "🛡️", count: 4 }, instruction: L("Zähle die Schilde!") },
       quiz: { 
         question: L("Wie nannte man einen römischen Soldaten?"), 
         choices: [L("Legionär"), L("Ritter"), L("Hoplit"), L("Ninja")], 
@@ -789,7 +835,7 @@ const I4: IslandSpec = {
       title: L("Straßenbau"),
       hint1: L("Rom baute feste Straßen durch ganz Europa."),
       hint2: L("Die Via Appia ist sehr berühmt."),
-      svg: { type: "comparison-table", rows: [{ left: L("Stein"), right: L("Straße") }, { left: L("Rom"), right: L("Zentrum") }] },
+      svg: { type: "two-groups", left: { items: ["Stein", "Straße"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Rom", "Zentrum"], bg: "#fef3c7", border: "#d97706" } },
       interactive: { type: "gap-fill", text: L("Alle Wege führen nach __."), gaps: [{ index: 0, options: ["Rom", "Athen"], correct: 0 }] },
       quiz: { 
         question: L("Warum baute Rom so gute Straßen?"), 
@@ -803,7 +849,7 @@ const I4: IslandSpec = {
       hint1: L("Das Zentrum des öffentlichen Lebens."),
       hint2: L("Hier gab es Märkte und Tempel."),
       svg: { type: "icon-grid", items: [{ emoji: "🏛️", label: "Tempel" }, { emoji: "🛒", label: "Markt" }] },
-      interactive: { type: "word-order", words: [L("Zentrum"), L("der"), L("Stadt")], instruction: L("Was war das Forum?") },
+      interactive: { type: "word-order", words: [L("Zentrum"), L("der"), L("Stadt")], instruction: L("Was war das Forum?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Was war das Forum Romanum?"), 
         choices: [L("Marktplatz und Zentrum"), L("Ein Wald"), L("Ein Hafen"), L("Ein Schlachtfeld")], 
@@ -829,7 +875,7 @@ const I4: IslandSpec = {
       hint1: L("Ein mächtiger Feldherr."),
       hint2: L("Er eroberte Gallien."),
       svg: { type: "icon-grid", items: [{ emoji: "🌿", label: "Lorbeer" }, { emoji: "🗡️", label: "Dolch" }] },
-      interactive: { type: "word-order", words: [L("Veni"), L("vidi"), L("vici")], instruction: L("Caesars Ausspruch!") },
+      interactive: { type: "word-order", words: [L("Veni"), L("vidi"), L("vici")], instruction: L("Caesars Ausspruch!"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Welches Land eroberte Caesar?"), 
         choices: [L("Gallien"), L("China"), L("Amerika"), L("Griechenland")], 
@@ -842,7 +888,7 @@ const I4: IslandSpec = {
       hint1: L("Ein Fluss in Italien."),
       hint2: L("Caesar überschritt ihn mit seinem Heer."),
       svg: { type: "text-bubbles", items: [{ text: "Fluss", color: "#fff", bg: "#3b82f6" }, { text: "Entscheidung", color: "#fff", bg: "#991b1b" }] },
-      interactive: { type: "gap-fill", text: L("Die Würfel sind __."), gaps: [{ index: 0, options: [L("gefallen"), L("rund")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Die Würfel sind __."), gaps: [{ index: 0, options: ["gefallen", "rund"], correct: 0 }] },
       quiz: { 
         question: L("Was bedeutete das Überschreiten des Rubikon?"), 
         choices: [L("Bürgerkrieg"), L("Frieden"), L("Urlaub"), L("Handel")], 
@@ -854,8 +900,8 @@ const I4: IslandSpec = {
       title: L("Triumvirat"),
       hint1: L("Die Herrschaft von drei Männern."),
       hint2: L("Caesar war einer von ihnen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Caesar"), right: L("Macht") }, { left: L("Pompeius"), right: L("Macht") }, { left: L("Crassus"), right: L("Geld") }] },
-      interactive: { type: "tap-count", count: 3, instruction: L("Wie viele Männer waren im Triumvirat?") },
+      svg: { type: "two-groups", left: { items: ["Caesar", "Pompeius"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["Crassus"], bg: "#fef3c7", border: "#d97706" } },
+      interactive: { type: "tap-count", tapCount: { emoji: "👤", count: 3 }, instruction: L("Zähle die Männer!") },
       quiz: { 
         question: L("Was bedeutet Triumvirat?"), 
         choices: [L("Drei-Männer-Bund"), L("Königsrat"), L("Volksfest"), L("Krieg")], 
@@ -902,7 +948,7 @@ const I5: IslandSpec = {
       hint1: L("Der römische Friede."),
       hint2: L("Eine lange Zeit der Ruhe im Reich."),
       svg: { type: "text-bubbles", items: [{ text: "Frieden", color: "#fff", bg: "#10b981" }, { text: "Wohlstand", color: "#fff", bg: "#3b82f6" }] },
-      interactive: { type: "word-order", words: [L("Zeit"), L("des"), L("Friedens")], instruction: L("Was ist Pax?") },
+      interactive: { type: "word-order", words: [L("Zeit"), L("des"), L("Friedens")], instruction: L("Was ist Pax?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Was bedeutet Pax Romana?"), 
         choices: [L("Römischer Friede"), L("Römischer Krieg"), L("Römische Steuer"), L("Römische Mauer")], 
@@ -915,7 +961,7 @@ const I5: IslandSpec = {
       hint1: L("Das größte Amphitheater."),
       hint2: L("Hier fanden Spiele statt."),
       svg: { type: "icon-grid", items: [{ emoji: "🏟️", label: "Arena" }, { emoji: "🐯", label: "Tiere" }] },
-      interactive: { type: "tap-count", count: 4, instruction: L("Wie viele Stockwerke hatte das Kolosseum?") },
+      interactive: { type: "tap-count", tapCount: { emoji: "🏢", count: 4 }, instruction: L("Zähle die Etagen!") },
       quiz: { 
         question: L("Wozu diente das Kolosseum?"), 
         choices: [L("Für Unterhaltung"), L("Zum Wohnen"), L("Als Kirche"), L("Als Hafen")], 
@@ -927,8 +973,8 @@ const I5: IslandSpec = {
       title: L("Der Limes"),
       hint1: L("Die Grenze des Reiches."),
       hint2: L("Ein Schutzwall gegen Germanen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Wachtturm"), right: L("Soldat") }, { left: L("Wall"), right: L("Grenze") }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "l", label: L("Limes") }], items: [{ text: L("Turm"), bucketId: "l" }, { text: L("Graben"), bucketId: "l" }] },
+      svg: { type: "two-groups", left: { items: ["Wachtturm", "Soldat"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Wall", "Grenze"], bg: "#f1f5f9", border: "#475569" } },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "l", label: L("Limes") }], items: [{ text: L("Turm"), bucketId: "l" }, { text: L("Graben"), bucketId: "l" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was war der Limes?"), 
         choices: [L("Ein Grenzwall"), L("Ein Berg"), L("Ein Fluss"), L("Ein Marktplatz")], 
@@ -954,7 +1000,7 @@ const I5: IslandSpec = {
       hint1: L("Panem et Circenses."),
       hint2: L("Das Volk wurde mit Essen und Unterhaltung beruhigt."),
       svg: { type: "icon-grid", items: [{ emoji: "🥖", label: "Brot" }, { emoji: "🏇", label: "Rennen" }] },
-      interactive: { type: "gap-fill", text: L("Das Volk wollte Brot und __."), gaps: [{ index: 0, options: [L("Spiele"), L("Arbeit")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Das Volk wollte Brot und __."), gaps: [{ index: 0, options: ["Spiele", "Arbeit"], correct: 0 }] },
       quiz: { 
         question: L("Wozu diente 'Brot und Spiele'?"), 
         choices: [L("Beruhigung des Volkes"), L("Ernährung"), L("Nur zum Spaß"), L("Gegen Hunger")], 
@@ -979,8 +1025,8 @@ const I5: IslandSpec = {
       title: L("Aquädukte"),
       hint1: L("Wasserleitungen."),
       hint2: L("Sie brachten frisches Wasser in die Städte."),
-      svg: { type: "comparison-table", rows: [{ left: L("Bogen"), right: L("Brücke") }, { left: L("Wasser"), right: L("Stadt") }] },
-      interactive: { type: "gap-fill", text: L("Aquädukte leiteten __."), gaps: [{ index: 0, options: [L("Wasser"), L("Gold")], correct: 0 }] },
+      svg: { type: "two-groups", left: { items: ["Bogen", "Brücke"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Wasser", "Stadt"], bg: "#dbeafe", border: "#2563eb" } },
+      interactive: { type: "gap-fill", text: L("Aquädukte leiteten __."), gaps: [{ index: 0, options: ["Wasser", "Gold"], correct: 0 }] },
       quiz: { 
         question: L("Was war die Aufgabe eines Aquädukts?"), 
         choices: [L("Wassertransport"), L("Post"), L("Militär"), L("Handel")], 
@@ -993,7 +1039,7 @@ const I5: IslandSpec = {
       hint1: L("Ein grausamer Kaiser."),
       hint2: L("Berühmt durch den Brand Roms."),
       svg: { type: "icon-grid", items: [{ emoji: "🔥", label: "Feuer" }, { emoji: "🎻", label: "Leier" }] },
-      interactive: { type: "word-order", words: [L("Brand"), L("von"), L("Rom")], instruction: L("Neros Tat?") },
+      interactive: { type: "word-order", words: [L("Brand"), L("von"), L("Rom")], instruction: L("Neros Tat?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Was soll Nero während des Brandes getan haben?"), 
         choices: [L("Musiziert"), L("Geweint"), L("Gelöscht"), L("Geschlafen")], 
@@ -1019,7 +1065,7 @@ const I5: IslandSpec = {
       hint1: L("Anfangs verfolgt."),
       hint2: L("Später wurde es Staatsreligion."),
       svg: { type: "icon-grid", items: [{ emoji: "✝️", label: "Glaube" }, { emoji: "🐟", label: "Fisch" }] },
-      interactive: { type: "word-order", words: [L("Glaube"), L("an"), L("einen"), L("Gott")], instruction: L("Was ist das?") },
+      interactive: { type: "word-order", words: [L("Glaube"), L("an"), L("einen"), L("Gott")], instruction: L("Was ist das?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Welcher Kaiser erlaubte das Christentum?"), 
         choices: [L("Konstantin"), L("Nero"), L("Augustus"), L("Caesar")], 
@@ -1031,7 +1077,7 @@ const I5: IslandSpec = {
       title: L("Konstantinopel"),
       hint1: L("Die neue Hauptstadt im Osten."),
       hint2: L("Heute Istanbul."),
-      svg: { type: "word-card", word: L("Byzanz"), color: "#fff", bg: "#0ea5e9" },
+      svg: { type: "word-display", word: "BYZANZ", color: "#0ea5e9" },
       interactive: { type: "gap-fill", text: L("Die Stadt lag am __."), gaps: [{ index: 0, options: ["Bosporus", "Rhein"], correct: 0 }] },
       quiz: { 
         question: L("Wer gründete Konstantinopel?"), 
@@ -1044,8 +1090,8 @@ const I5: IslandSpec = {
       title: L("Reichsteilung"),
       hint1: L("395 n.Chr. wurde das Reich geteilt."),
       hint2: L("Es gab West- und Ostrom."),
-      svg: { type: "two-groups", left: { items: [L("Westrom"), L("Rom")], bg: "#fee2e2", border: "#ef4444" }, right: { items: [L("Ostrom"), L("Byzanz")], bg: "#dcfce7", border: "#22c55e" } },
-      interactive: { type: "tap-count", count: 2, instruction: L("In wie viele Teile wurde das Reich geteilt?") },
+      svg: { type: "two-groups", left: { items: ["Westrom", "Rom"], bg: "#fee2e2", border: "#ef4444" }, right: { items: ["Ostrom", "Byzanz"], bg: "#dcfce7", border: "#22c55e" } },
+      interactive: { type: "tap-count", tapCount: { emoji: "🗺️", count: 2 }, instruction: L("Wie viele Teile?") },
       quiz: { 
         question: L("Wann wurde das Römische Reich geteilt?"), 
         choices: [L("395 n.Chr."), L("753 v.Chr."), L("476 n.Chr."), L("1914")], 
@@ -1058,7 +1104,7 @@ const I5: IslandSpec = {
       hint1: L("Völker zogen durch Europa."),
       hint2: L("Der Druck der Hunnen war der Auslöser."),
       svg: { type: "icon-grid", items: [{ emoji: "🐎", label: "Hunnen" }, { emoji: "🏹", label: "Flucht" }] },
-      interactive: { type: "word-order", words: [L("Hunnen"), L("treiben"), L("Völker"), L("an")], instruction: L("Was passierte?") },
+      interactive: { type: "word-order", words: [L("Hunnen"), L("treiben"), L("Völker"), L("an")], instruction: L("Was passierte?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Wer löste die Völkerwanderung aus?"), 
         choices: [L("Hunnen"), L("Griechen"), L("Ägypter"), L("Amerikaner")], 
@@ -1070,7 +1116,7 @@ const I5: IslandSpec = {
       title: L("Untergang"),
       hint1: L("476 n.Chr. endete das Weströmische Reich."),
       hint2: L("Der letzte Kaiser wurde abgesetzt."),
-      svg: { type: "sentence-display", words: [L("Das"), L("Ende"), L("von"), L("Rom")], color: "#000" },
+      svg: { type: "sentence-display", words: ["Das", "Ende", "von", "Rom"], color: "#000" },
       interactive: { type: "gap-fill", text: L("Jahr des Untergangs: __."), gaps: [{ index: 0, options: ["476", "753", "1945"], correct: 0 }] },
       quiz: { 
         question: L("Welcher Teil Roms ging 476 n.Chr. unter?"), 
@@ -1105,7 +1151,7 @@ const I6: IslandSpec = {
       hint1: L("Die Volksversammlung der Germanen."),
       hint2: L("Hier wurden Gesetze beschlossen."),
       svg: { type: "icon-grid", items: [{ emoji: "🌳", label: "Baum" }, { emoji: "🗣️", label: "Rat" }] },
-      interactive: { type: "word-order", words: [L("Rat"), L("unter"), L("der"), L("Eiche")], instruction: L("Wo tagte das Thing?") },
+      interactive: { type: "word-order", words: [L("Rat"), L("unter"), L("der"), L("Eiche")], instruction: L("Wo tagte das Thing?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Was war das Thing?"), 
         choices: [L("Eine Versammlung"), L("Ein Haus"), L("Ein Gott"), L("Ein Schwert")], 
@@ -1117,8 +1163,8 @@ const I6: IslandSpec = {
       title: L("Runen"),
       hint1: L("Die Schrift der Germanen."),
       hint2: L("Eingeritzt in Stein oder Holz."),
-      svg: { type: "letter-circles", letters: ["ᚠ", "ᚢ", "ᚦ", "ᚩ", "ᚱ"] },
-      interactive: { type: "word-order", words: [L("Geheime"), L("Zeichen"), L("Runen")], instruction: L("Was sind Runen?") },
+      svg: { type: "letter-circles", letters: ["ᚠ", "ᚢ", "ᚦ", "ᚩ", "ᚱ"], color: "#1e40af" },
+      interactive: { type: "word-order", words: [L("Geheime"), L("Zeichen"), L("Runen")], instruction: L("Was sind Runen?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Worauf schrieben Germanen oft ihre Runen?"), 
         choices: [L("Stein und Holz"), L("Papier"), L("Sand"), L("Wasser")], 
@@ -1144,7 +1190,7 @@ const I6: IslandSpec = {
       hint1: L("Der Ruheort gefallener Krieger."),
       hint2: L("In den Hallen Odins."),
       svg: { type: "text-bubbles", items: [{ text: "Helden", color: "#fff", bg: "#f59e0b" }, { text: "Halle", color: "#fff", bg: "#fbbf24" }] },
-      interactive: { type: "word-order", words: [L("Halle"), L("der"), L("Gefallenen")], instruction: L("Was ist Walhalla?") },
+      interactive: { type: "word-order", words: [L("Halle"), L("der"), L("Gefallenen")], instruction: L("Was ist Walhalla?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wer durfte nach Walhalla?"), 
         choices: [L("Tapfere Krieger"), L("Alle"), L("Nur Bauern"), L("Niemand")], 
@@ -1183,7 +1229,7 @@ const I6: IslandSpec = {
       hint1: L("Göttin der Liebe und Fruchtbarkeit."),
       hint2: L("Sehr schön und mächtig."),
       svg: { type: "icon-grid", items: [{ emoji: "🐱", label: "Katzen" }, { emoji: "❤️", label: "Liebe" }] },
-      interactive: { type: "word-order", words: [L("Göttin"), L("der"), L("Liebe")], instruction: L("Wer war Freya?") },
+      interactive: { type: "word-order", words: [L("Göttin"), L("der"), L("Liebe")], instruction: L("Wer war Freya?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Nach wem ist der Freitag benannt?"), 
         choices: [L("Freya"), L("Frühling"), L("Freitag"), L("Frieden")], 
@@ -1195,7 +1241,7 @@ const I6: IslandSpec = {
       title: L("Siedlungen"),
       hint1: L("Germanen lebten in Dörfern."),
       hint2: L("Es gab keine großen Städte."),
-      svg: { type: "comparison-table", rows: [{ left: L("Dorf"), right: L("Germanen") }, { left: L("Stadt"), right: L("Römer") }] },
+      svg: { type: "two-groups", left: { items: ["Dorf", "Haus"], bg: "#dcfce7", border: "#16a34a" }, right: { items: ["Stadt", "Rom"], bg: "#fee2e2", border: "#dc2626" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Zaun"), right: L("Schutz") }, { left: L("Wald"), right: L("Nähe") }] },
       quiz: { 
         question: L("Wo lebten die meisten Germanen?"), 
@@ -1221,8 +1267,8 @@ const I6: IslandSpec = {
       title: L("Krieger"),
       hint1: L("Tapferkeit war sehr wichtig."),
       hint2: L("Sie folgten ihrem Anführer."),
-      svg: { type: "two-groups", left: { items: [L("Schild"), L("Speer")], bg: "#fee2e2", border: "#dc2626" }, right: { items: [L("Buch")], bg: "#fee2e2", border: "#dc2626" } },
-      interactive: { type: "gap-fill", text: L("Ein Krieger war seinem Herrn __."), gaps: [{ index: 0, options: [L("treu"), L("egal")], correct: 0 }] },
+      svg: { type: "two-groups", left: { items: ["Schild", "Speer"], bg: "#fee2e2", border: "#dc2626" }, right: { items: ["Buch"], bg: "#f1f5f9", border: "#475569" } },
+      interactive: { type: "gap-fill", text: L("Ein Krieger war seinem Herrn __."), gaps: [{ index: 0, options: ["treu", "egal"], correct: 0 }] },
       quiz: { 
         question: L("Was war die Hauptaufgabe eines Kriegers?"), 
         choices: [L("Schutz und Kampf"), L("Kochen"), L("Schreiben"), L("Singen")], 
@@ -1234,8 +1280,8 @@ const I6: IslandSpec = {
       title: L("Tacitus"),
       hint1: L("Ein römischer Schreiber."),
       hint2: L("Er schrieb das Buch 'Germania'."),
-      svg: { type: "word-card", word: L("Germania"), color: "#fff", bg: "#1e3a8a" },
-      interactive: { type: "gap-fill", text: L("Tacitus war ein __."), gaps: [{ index: 0, options: [L("Römer"), L("Germane")], correct: 0 }] },
+      svg: { type: "word-display", word: "GERMANIA", color: "#1e3a8a" },
+      interactive: { type: "gap-fill", text: L("Tacitus war ein __."), gaps: [{ index: 0, options: ["Römer", "Germane"], correct: 0 }] },
       quiz: { 
         question: L("Woher wissen wir viel über Germanen?"), 
         choices: [L("Von römischen Berichten"), L("Durch Fotos"), L("Von germanischen Büchern"), L("Gar nicht")], 
@@ -1247,8 +1293,8 @@ const I6: IslandSpec = {
       title: L("Das Langhaus"),
       hint1: L("Ein großes Haus für Mensch und Tier."),
       hint2: L("Unter einem Dach."),
-      svg: { type: "comparison-table", rows: [{ left: L("Vorne"), right: L("Menschen") }, { left: L("Hinten"), right: L("Tiere") }] },
-      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Dächer hatte ein Langhaus?") },
+      svg: { type: "two-groups", left: { items: ["Vorne", "Menschen"], bg: "#fef3c7", border: "#d97706" }, right: { items: ["Hinten", "Tiere"], bg: "#fef3c7", border: "#d97706" } },
+      interactive: { type: "tap-count", tapCount: { emoji: "🏠", count: 1 }, instruction: L("Zähle die Häuser!") },
       quiz: { 
         question: L("Wer lebte im Langhaus?"), 
         choices: [L("Menschen und Tiere"), L("Nur Tiere"), L("Nur Krieger"), L("Nur Götter")], 
@@ -1261,7 +1307,7 @@ const I6: IslandSpec = {
       hint1: L("Sie bauten Getreide an."),
       hint2: L("Sie hielten Rinder und Schweine."),
       svg: { type: "icon-grid", items: [{ emoji: "🌾", label: "Korn" }, { emoji: "🐄", label: "Rind" }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "f", label: L("Feld") }], items: [{ text: L("Gerste"), bucketId: "f" }, { text: L("Hafer"), bucketId: "f" }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "f", label: L("Feld") }], items: [{ text: L("Gerste"), bucketId: "f" }, { text: L("Hafer"), bucketId: "f" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Wovon lebten die meisten Germanen?"), 
         choices: [L("Von der Landwirtschaft"), L("Vom Raub allein"), L("Vom Handel mit China"), L("Von Fabriken")], 
@@ -1273,7 +1319,7 @@ const I6: IslandSpec = {
       title: L("Handel mit Rom"),
       hint1: L("Germanen tauschten Waren."),
       hint2: L("Bernstein gegen Glas und Wein."),
-      svg: { type: "two-groups", left: { items: [L("Fell"), L("Bernstein")], bg: "#fef3c7", border: "#d97706" }, right: { items: [L("Wein"), L("Glas")], bg: "#dbeafe", border: "#2563eb" } },
+      svg: { type: "two-groups", left: { items: ["Fell", "Bernstein"], bg: "#fef3c7", border: "#d97706" }, right: { items: ["Wein", "Glas"], bg: "#dbeafe", border: "#2563eb" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Bernstein"), right: L("Germanen") }, { left: L("Glas"), right: L("Römer") }] },
       quiz: { 
         question: L("Welches 'Gold des Nordens' war beliebt?"), 
@@ -1307,7 +1353,7 @@ const I7: IslandSpec = {
       title: L("Alarich"),
       hint1: L("König der Westgoten."),
       hint2: L("Er plünderte Rom."),
-      svg: { type: "word-card", word: L("Westgoten"), color: "#fff", bg: "#991b1b" },
+      svg: { type: "word-display", word: "WESTGOTEN", color: "#991b1b" },
       interactive: { type: "gap-fill", text: L("Alarich eroberte __."), gaps: [{ index: 0, options: ["Rom", "Athen"], correct: 0 }] },
       quiz: { 
         question: L("Was tat Alarich im Jahr 410?"), 
@@ -1333,7 +1379,7 @@ const I7: IslandSpec = {
       title: L("Die Ostgoten"),
       hint1: L("Gegründet von Theoderich."),
       hint2: L("Sie herrschten in Italien."),
-      svg: { type: "comparison-table", rows: [{ left: L("Theoderich"), right: L("König") }, { left: L("Ravenna"), right: L("Residenz") }] },
+      svg: { type: "two-groups", left: { items: ["Theoderich", "König"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Ravenna", "Residenz"], bg: "#f1f5f9", border: "#475569" } },
       interactive: { type: "gap-fill", text: L("Der König hieß __."), gaps: [{ index: 0, options: ["Theoderich", "Karl"], correct: 0 }] },
       quiz: { 
         question: L("Welches heutige Land beherrschten die Ostgoten?"), 
@@ -1347,7 +1393,7 @@ const I7: IslandSpec = {
       hint1: L("Ein Schock für die Welt."),
       hint2: L("Rom war nicht mehr sicher."),
       svg: { type: "icon-grid", items: [{ emoji: "🔥", label: "Feuer" }, { emoji: "🪙", label: "Beute" }] },
-      interactive: { type: "word-order", words: [L("Rom"), L("ist"), L("gefallen")], instruction: L("Was sagte man?") },
+      interactive: { type: "word-order", words: [L("Rom"), L("ist"), L("gefallen")], instruction: L("Was sagte man?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wann wurde Rom das erste Mal geplündert?"), 
         choices: [L("410 n.Chr."), L("753 v.Chr."), L("1914"), L("800 n.Chr.")], 
@@ -1359,8 +1405,8 @@ const I7: IslandSpec = {
       title: L("Ende Westroms"),
       hint1: L("476 wurde der letzte Kaiser abgesetzt."),
       hint2: L("Das Ende der Antike."),
-      svg: { type: "sentence-display", words: [L("Ende"), L("einer"), L("Epoche")], color: "#000" },
-      interactive: { type: "tap-count", count: 1, instruction: L("Wie viele Kaiser blieben in Westrom übrig?") },
+      svg: { type: "sentence-display", words: ["Ende", "einer", "Epoche"], color: "#000" },
+      interactive: { type: "tap-count", tapCount: { emoji: "👑", count: 1 }, instruction: L("Zähle die Kaiser!") },
       quiz: { 
         question: L("Wer setzte den letzten Kaiser ab?"), 
         choices: [L("Odoaker"), L("Attila"), L("Caesar"), L("Napoleon")], 
@@ -1385,7 +1431,7 @@ const I7: IslandSpec = {
       title: L("Die Franken"),
       hint1: L("Ein starker germanischer Stamm."),
       hint2: L("Sie gründeten ein großes Reich."),
-      svg: { type: "icon-grid", items: [{ emoji: "🇫🇷", label: "Frankreich" }, { emoji: "🛡️", label: "Schutz" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🛡️", label: "Schutz" }, { emoji: "🏰", label: "Reich" }] },
       interactive: { type: "gap-fill", text: L("Aus dem Frankenreich wurde __."), gaps: [{ index: 0, options: ["Frankreich", "England"], correct: 0 }] },
       quiz: { 
         question: L("Wer war ein früher Frankenkönig?"), 
@@ -1398,8 +1444,8 @@ const I7: IslandSpec = {
       title: L("Flucht & Migration"),
       hint1: L("Warum wanderten die Völker?"),
       hint2: L("Klima, Hunger und Feinde."),
-      svg: { type: "comparison-table", rows: [{ left: L("Hunger"), right: L("Push-Faktor") }, { left: L("Land"), right: L("Pull-Faktor") }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "g", label: L("Gründe") }], items: [{ text: L("Kälte"), bucketId: "g" }, { text: L("Krieg"), bucketId: "g" }] },
+      svg: { type: "two-groups", left: { items: ["Hunger", "Push"], bg: "#fee2e2", border: "#dc2626" }, right: { items: ["Land", "Pull"], bg: "#dcfce7", border: "#16a34a" } },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "g", label: L("Gründe") }], items: [{ text: L("Kälte"), bucketId: "g" }, { text: L("Krieg"), bucketId: "g" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was war ein Grund für die Wanderung?"), 
         choices: [L("Hunger und Kälte"), L("Urlaubslust"), L("Langeweile"), L("Reiseangebote")], 
@@ -1412,7 +1458,7 @@ const I7: IslandSpec = {
       hint1: L("Der Einfall der Hunnen."),
       hint2: L("Ein Domino-Effekt begann."),
       svg: { type: "icon-grid", items: [{ emoji: "🏇", label: "Hunnen" }, { emoji: "🏃", label: "Flucht" }] },
-      interactive: { type: "word-order", words: [L("Hunnen"), L("kommen"), L("Germanen"), L("gehen")], instruction: L("Was geschah?") },
+      interactive: { type: "word-order", words: [L("Hunnen"), L("kommen"), L("Germanen"), L("gehen")], instruction: L("Was geschah?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Welches Reitervolk löste alles aus?"), 
         choices: [L("Hunnen"), L("Mongolen"), L("Römer"), L("Griechen")], 
@@ -1425,7 +1471,7 @@ const I7: IslandSpec = {
       hint1: L("Die Karte Europas änderte sich."),
       hint2: L("Sprachen und Reiche entstanden neu."),
       svg: { type: "text-bubbles", items: [{ text: "Grenzen", color: "#fff", bg: "#9333ea" }, { text: "Sprache", color: "#fff", bg: "#7c3aed" }] },
-      interactive: { type: "gap-fill", text: L("Es entstanden neue __."), gaps: [{ index: 0, options: [L("Königreiche"), L("Pyramiden")], correct: 0 }] },
+      interactive: { type: "gap-fill", text: L("Es entstanden neue __."), gaps: [{ index: 0, options: ["Königreiche", "Pyramiden"], correct: 0 }] },
       quiz: { 
         question: L("Was passierte mit Europa?"), 
         choices: [L("Neue Reiche entstanden"), L("Es wurde eine Wüste"), L("Es blieb gleich"), L("Es versank im Meer")], 
@@ -1436,9 +1482,9 @@ const I7: IslandSpec = {
       id: "uebergang",
       title: L("Übergang"),
       hint1: L("Von der Antike zum Mittelalter."),
-      hint2: L("Eine Zeit des Wandels."),
-      svg: { type: "comparison-table", rows: [{ left: L("Antike"), right: L("Alt") }, { left: L("Mittelalter"), right: L("Neu") }] },
-      interactive: { type: "word-order", words: [L("Ende"), L("der"), L("Antike")], instruction: L("Was geschah?") },
+      hint2: L("Eine zeit des Wandels."),
+      svg: { type: "two-groups", left: { items: ["Antike", "Alt"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Mittelalter", "Neu"], bg: "#fef3c7", border: "#d97706" } },
+      interactive: { type: "word-order", words: [L("Ende"), L("der"), L("Antike")], instruction: L("Was geschah?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Welche Epoche folgt auf die Antike?"), 
         choices: [L("Mittelalter"), L("Steinzeit"), L("Neuzeit"), L("Gegenwart")], 
@@ -1476,7 +1522,7 @@ const I7: IslandSpec = {
       title: L("Die Langobarden"),
       hint1: L("Ein Volk in Norditalien."),
       hint2: L("Sie gaben der Lombardei ihren Namen."),
-      svg: { type: "word-card", word: L("Langbart"), color: "#fff", bg: "#15803d" },
+      svg: { type: "word-display", word: "LANGBART", color: "#15803d" },
       interactive: { type: "gap-fill", text: L("Name bedeutet __."), gaps: [{ index: 0, options: ["Langbart", "Langbein"], correct: 0 }] },
       quiz: { 
         question: L("Woher kommt der Name Lombardei?"), 
@@ -1498,7 +1544,7 @@ const I8: IslandSpec = {
       hint1: L("Ein mächtiger Frankenkönig."),
       hint2: L("Er einte die fränkischen Stämme."),
       svg: { type: "icon-grid", items: [{ emoji: "👑", label: "Macht" }, { emoji: "🛡️", label: "Franken" }] },
-      interactive: { type: "match-pairs", pairs: [{ left: L("Chlodwig"), right: L("Merowinger") }, { left: L("Reich"), right: L("Einingung") }] },
+      interactive: { type: "match-pairs", pairs: [{ left: L("Chlodwig"), right: L("Merowinger") }, { left: L("Reich"), right: L("Einigung") }] },
       quiz: { 
         question: L("Welche Dynastie gründete Chlodwig?"), 
         choices: [L("Merowinger"), L("Karolinger"), L("Habsburger"), L("Römer")], 
@@ -1524,7 +1570,7 @@ const I8: IslandSpec = {
       hint1: L("Die Verbreitung des Christentums."),
       hint2: L("Mönche zogen durch das Land."),
       svg: { type: "icon-grid", items: [{ emoji: "⛪", label: "Glaube" }, { emoji: "🚶", label: "Reise" }] },
-      interactive: { type: "word-order", words: [L("Glauben"), L("in"), L("die"), L("Welt")], instruction: L("Was ist Mission?") },
+      interactive: { type: "word-order", words: [L("Glauben"), L("in"), L("die"), L("Welt")], instruction: L("Was ist Mission?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Was machten Missionare?"), 
         choices: [L("Religion verbreiten"), L("Häuser bauen"), L("Handel"), L("Krieg führen")], 
@@ -1536,7 +1582,7 @@ const I8: IslandSpec = {
       title: L("Klöster"),
       hint1: L("Orte des Gebets und der Arbeit."),
       hint2: L("Zentren des Wissens."),
-      svg: { type: "comparison-table", rows: [{ left: L("Beten"), right: L("Ora") }, { left: L("Arbeiten"), right: L("Labora") }] },
+      svg: { type: "two-groups", left: { items: ["Beten", "Ora"], bg: "#ede9fe", border: "#7c3aed" }, right: { items: ["Arbeiten", "Labora"], bg: "#dcfce7", border: "#16a34a" } },
       interactive: { type: "match-pairs", pairs: [{ left: L("Mönch"), right: L("Kloster") }, { left: L("Nonne"), right: L("Kloster") }] },
       quiz: { 
         question: L("Was war die Hauptaufgabe im Kloster?"), 
@@ -1563,7 +1609,7 @@ const I8: IslandSpec = {
       hint1: L("Bücher wurden von Hand kopiert."),
       hint2: L("Sehr mühsame Arbeit."),
       svg: { type: "icon-grid", items: [{ emoji: "✒️", label: "Feder" }, { emoji: "📖", label: "Buch" }] },
-      interactive: { type: "word-order", words: [L("Buch"), L("von"), L("Hand")], instruction: L("Wie entstand ein Buch?") },
+      interactive: { type: "word-order", words: [L("Buch"), L("von"), L("Hand")], instruction: L("Wie entstand ein Buch?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wo wurden Bücher kopiert?"), 
         choices: [L("In der Schreibstube"), L("In der Fabrik"), L("Im Wald"), L("Gar nicht")], 
@@ -1575,7 +1621,7 @@ const I8: IslandSpec = {
       title: L("Bildung"),
       hint1: L("Nur wenige konnten lesen."),
       hint2: L("Kloster-Schulen waren wichtig."),
-      svg: { type: "word-card", word: L("Lesen"), color: "#fff", bg: "#10b981" },
+      svg: { type: "word-display", word: "LESEN", color: "#10b981" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Mönche"), right: L("Lesen") }, { left: L("Bauern"), right: L("Feldarbeit") }] },
       quiz: { 
         question: L("Wer konnte im frühen Mittelalter meist lesen?"), 
@@ -1589,7 +1635,7 @@ const I8: IslandSpec = {
       hint1: L("Die Basis des Lebens."),
       hint2: L("Fast alle waren Bauern."),
       svg: { type: "icon-grid", items: [{ emoji: "🌾", label: "Feld" }, { emoji: "🐂", label: "Ochse" }] },
-      interactive: { type: "drag-to-bucket", buckets: [{ id: "b", label: L("Bauer") }], items: [{ text: L("Pflug"), bucketId: "b" }, { text: L("Sense"), bucketId: "b" }] },
+      interactive: { type: "drag-to-bucket", buckets: [{ id: "b", label: L("Bauer") }], items: [{ text: L("Pflug"), bucketId: "b" }, { text: L("Sense"), bucketId: "b" }], instruction: L("Zuweisen!") },
       quiz: { 
         question: L("Was war der wichtigste Beruf?"), 
         choices: [L("Bauer"), L("Ritter"), L("Händler"), L("Seefahrer")], 
@@ -1601,8 +1647,8 @@ const I8: IslandSpec = {
       title: L("Grundherrschaft"),
       hint1: L("Der Herr besitzt das Land."),
       hint2: L("Bauern arbeiten für ihn."),
-      svg: { type: "comparison-table", rows: [{ left: L("Grundherr"), right: L("Schutz") }, { left: L("Bauer"), right: L("Arbeit") }] },
-      interactive: { type: "gap-fill", text: L("Der Herr gab den Bauern __."), gaps: [{ index: 0, options: [L("Schutz"), L("Gold")], correct: 0 }] },
+      svg: { type: "two-groups", left: { items: ["Grundherr", "Schutz"], bg: "#f1f5f9", border: "#475569" }, right: { items: ["Bauer", "Arbeit"], bg: "#fef3c7", border: "#d97706" } },
+      interactive: { type: "gap-fill", text: L("Der Herr gab den Bauern __."), gaps: [{ index: 0, options: ["Schutz", "Gold"], correct: 0 }] },
       quiz: { 
         question: L("Was mussten Bauern dem Herrn geben?"), 
         choices: [L("Abgaben und Frondienst"), L("Nichts"), L("Blumen"), L("Geschenke")], 
@@ -1615,7 +1661,7 @@ const I8: IslandSpec = {
       hint1: L("Menschen halfen sich gegenseitig."),
       hint2: L("Ein Dorf war fast autark."),
       svg: { type: "text-bubbles", items: [{ text: "Dorf", color: "#fff", bg: "#16a34a" }, { text: "Hilfe", color: "#fff", bg: "#22c55e" }] },
-      interactive: { type: "word-order", words: [L("Zusammenhalt"), L("im"), L("Dorf")], instruction: L("Was war wichtig?") },
+      interactive: { type: "word-order", words: [L("Zusammenhalt"), L("im"), L("Dorf")], instruction: L("Was war wichtig?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wie lebten die Menschen im Dorf?"), 
         choices: [L("Eng zusammen"), L("Jeder für sich"), L("In Hochhäusern"), L("In Zelten")], 
@@ -1628,7 +1674,7 @@ const I8: IslandSpec = {
       hint1: L("Ein neues System der Landwirtschaft."),
       hint2: L("Brache, Winter- und Sommergetreide."),
       svg: { type: "icon-grid", items: [{ emoji: "1️⃣", label: "Winter" }, { emoji: "2️⃣", label: "Sommer" }, { emoji: "3️⃣", label: "Pause" }] },
-      interactive: { type: "tap-count", count: 3, instruction: L("Wie viele Felder gab es?") },
+      interactive: { type: "tap-count", tapCount: { emoji: "🌾", count: 3 }, instruction: L("Zähle die Felder!") },
       quiz: { 
         question: L("Was war der Vorteil der Dreifelderwirtschaft?"), 
         choices: [L("Höhere Ernten"), L("Weniger Arbeit"), L("Mehr Freizeit"), L("Bunte Felder")], 
@@ -1653,7 +1699,7 @@ const I8: IslandSpec = {
       title: L("Der Papst"),
       hint1: L("Der Nachfolger des Petrus."),
       hint2: L("Sitz in Rom."),
-      svg: { type: "icon-grid", items: [{ emoji: "🇻🇦", label: "Vatikan" }, { emoji: "🗝️", label: "Schlüssel" }] },
+      svg: { type: "icon-grid", items: [{ emoji: "🏛️", label: "Vatikan" }, { emoji: "🗝️", label: "Schlüssel" }] },
       interactive: { type: "gap-fill", text: L("Der Papst wohnt in __."), gaps: [{ index: 0, options: ["Rom", "Berlin"], correct: 0 }] },
       quiz: { 
         question: L("Welche Stadt ist der Sitz des Papstes?"), 
@@ -1666,7 +1712,7 @@ const I8: IslandSpec = {
       title: L("Bischöfe"),
       hint1: L("Leiter der Kirche in einer Region."),
       hint2: L("Oft Berater der Könige."),
-      svg: { type: "word-card", word: L("Bischof"), color: "#fff", bg: "#9333ea" },
+      svg: { type: "word-display", word: "BISCHOF", color: "#9333ea" },
       interactive: { type: "match-pairs", pairs: [{ left: L("Bischof"), right: L("Region") }, { left: L("Stab"), right: L("Zeichen") }] },
       quiz: { 
         question: L("Welche Rolle hatten Bischöfe?"), 
@@ -1680,7 +1726,7 @@ const I8: IslandSpec = {
       hint1: L("Wissen aus der Antike retten."),
       hint2: L("Mönche schrieben alte Texte ab."),
       svg: { type: "icon-grid", items: [{ emoji: "🏛️", label: "Alt" }, { emoji: "📖", label: "Neu" }] },
-      interactive: { type: "word-order", words: [L("Rettung"), L("des"), L("Wissens")], instruction: L("Was geschah?") },
+      interactive: { type: "word-order", words: [L("Rettung"), L("des"), L("Wissens")], instruction: L("Was geschah?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Wer bewahrte die antike Kultur?"), 
         choices: [L("Die Mönche"), L("Die Hunnen"), L("Niemand"), L("Die Wikinger")], 
@@ -1714,7 +1760,7 @@ const I9: IslandSpec = {
       hint1: L("Was kam zuerst?"),
       hint2: L("Bringe die Ereignisse in Ordnung."),
       svg: { type: "text-bubbles", items: [{ text: "753", color: "#fff", bg: "#475569" }, { text: "1492", color: "#fff", bg: "#10b981" }] },
-      interactive: { type: "word-order", words: [L("Ägypten"), L("Griechenland"), L("Rom"), L("Mittelalter")], instruction: L("Zeitliche Folge?") },
+      interactive: { type: "word-order", words: [L("Ägypten"), L("Griechenland"), L("Rom"), L("Mittelalter")], instruction: L("Zeitliche Folge?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Welche Epoche ist die älteste?"), 
         choices: [L("Frühe Hochkulturen"), L("Römisches Reich"), L("Mittelalter"), L("Neuzeit")], 
@@ -1778,7 +1824,7 @@ const I9: IslandSpec = {
       title: L("Ursachen"),
       hint1: L("Warum passierten Dinge?"),
       hint2: L("Zusammenhänge verstehen."),
-      svg: { type: "comparison-table", rows: [{ left: L("Nilflut"), right: L("Ernte") }, { left: L("Hunnen"), right: L("Wanderung") }] },
+      svg: { type: "two-groups", left: { items: ["Nilflut", "Ernte"], bg: "#dbeafe", border: "#2563eb" }, right: { items: ["Hunnen", "Wanderung"], bg: "#fee2e2", border: "#dc2626" } },
       interactive: { type: "gap-fill", text: L("Ohne den Nil gäbe es kein __."), gaps: [{ index: 0, options: ["Ägypten", "Rom"], correct: 0 }] },
       quiz: { 
         question: L("Was war die Folge der Varusschlacht?"), 
@@ -1792,7 +1838,7 @@ const I9: IslandSpec = {
       hint1: L("Reiche kommen und gehen."),
       hint2: L("Von Ägypten bis zum Frankenreich."),
       svg: { type: "icon-grid", items: [{ emoji: "🌍", label: "Welt" }, { emoji: "📉", label: "Fall" }] },
-      interactive: { type: "word-order", words: [L("Aufstieg"), L("und"), L("Fall")], instruction: L("Was beschreibt Geschichte?") },
+      interactive: { type: "word-order", words: [L("Aufstieg"), L("und"), L("Fall")], instruction: L("Was beschreibt Geschichte?"), correctOrder: [0, 1, 2] },
       quiz: { 
         question: L("Welches Reich hielt am längsten?"), 
         choices: [L("Ägypten"), L("Alexanderreich"), L("Westrom"), L("Sparta")], 
@@ -1821,7 +1867,7 @@ const I9: IslandSpec = {
       interactive: { type: "match-pairs", pairs: [{ left: L("Athen"), right: L("Demokratie") }, { left: L("Rom"), right: L("Republik") }] },
       quiz: { 
         question: L("Wo durften Bürger das erste Mal wählen?"), 
-        choices: [L("Athen"), L("Ägypten"), L("Sparta"), L("Germanien")], 
+        choices: [L("Athen"), L("Ägypten"), L("Sparta"), L("Germanen")], 
         answer: L("Athen") 
       }
     },
@@ -1882,8 +1928,8 @@ const I9: IslandSpec = {
       title: L("Fazit"),
       hint1: L("Geschichte ist spannend."),
       hint2: L("Lerne aus der Vergangenheit."),
-      svg: { type: "word-card", word: L("Wissen"), color: "#fff", bg: "#06b6d4" },
-      interactive: { type: "word-order", words: [L("Geschichte"), L("lehrt"), L("uns"), L("viel")], instruction: L("Abschluss!") },
+      svg: { type: "word-display", word: "WISSEN", color: "#06b6d4" },
+      interactive: { type: "word-order", words: [L("Geschichte"), L("lehrt"), L("uns"), L("viel")], instruction: L("Abschluss!"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Was ist Geschichte?"), 
         choices: [L("Erinnerung an früher"), L("Die Zukunft"), L("Ein Märchen"), L("Nur Zahlen")], 
