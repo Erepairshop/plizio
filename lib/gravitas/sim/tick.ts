@@ -1071,15 +1071,16 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
             tickDilemmaEffects(
               tickGalaxyCycle(
                 tickFactionReputation(
-                  tickWorldLevel(
-                    tickBattle(
-                      tickTradeSystem(
+                  tickBattle(
+                    tickTradeSystem(
+                      tickSupplyRoutes(
                         tickWeeklyMission(
                           tickEspionage(
                             tickResearch(
-                              tickUpgrades(
-                                tickRepairBay(
-                                  tickWarroomProduction({
+                              tickCodex(
+                                tickUpgrades(
+                                  tickRepairBay(
+                                    tickWarroomProduction({
                                     ...threatResult.nextState,
                                     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
                                   }),
@@ -1115,13 +1116,15 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
                         tickWeeklyMission(
                           tickEspionage(
                             tickResearch(
-                              tickUpgrades(
-                                tickRepairBay(
-                                  applyStarholdEvents(
-                                    tickWarroomProduction({
-                                      ...threatResult.nextState,
-                                      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                    }),
+                              tickCodex(
+                                tickUpgrades(
+                                  tickRepairBay(
+                                    applyStarholdEvents(
+                                      tickWarroomProduction({
+                                        ...threatResult.nextState,
+                                        waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                      }),
+                                    ),
                                   ),
                                 ),
                               ),

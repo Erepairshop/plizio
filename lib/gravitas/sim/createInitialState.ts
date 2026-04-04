@@ -14,6 +14,7 @@ import { createInitialCommanderState } from "./commander";
 import { createInitialEspionageState } from "./espionage/index";
 import { createInitialResearchState } from "./research/index";
 import { createInitialSupplyRouteState } from "./supplyroute/index";
+import { createInitialCodexState } from "./codex/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 

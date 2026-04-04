@@ -12,6 +12,7 @@ import { createInitialCommanderState } from "./commander";
 import { createInitialEspionageState } from "./espionage/engine";
 import { createInitialResearchState } from "./research/engine";
 import { createInitialSupplyRouteState } from "./supplyroute/index";
+import { createInitialCodexState } from "./codex/index";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -400,6 +401,8 @@ export function loadGravitasState(): StarholdState | null {
       commander: parsed.commander ?? createInitialCommanderState(),
       espionage: parsed.espionage ?? createInitialEspionageState(),
       research: parsed.research ?? createInitialResearchState(["weapons", "shields"]),
+      supplyRoutes: parsed.supplyRoutes ?? createInitialSupplyRouteState(),
+      codex: parsed.codex ?? createInitialCodexState(),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

@@ -291,6 +291,7 @@ export interface StarholdState {
   espionage: import("./espionage/types").EspionageState;
   research: import("./research/types").ResearchState;
   supplyRoutes: import("./supplyroute/types").SupplyRouteState;
+  codex: import("./codex/types").CodexState;
 }
 
 export interface ModuleUpgradeSlot {
