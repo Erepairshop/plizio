@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://plizio.com/blog/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plizio.com/blog/deutsch-grammatik-ueben/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/rechtschreibung-verbessern/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/biologie-klasse-5-lernen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/sachkunde-grundschule/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/learn-german-online-kids/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/free-biology-games-kids/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/physik-klasse-5-einfuehrung/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/geschichte-online-lernen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/nemet-nyelvtan-gyakorlas/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://plizio.com/blog/biologia-gyakorlas-online/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://plizio.com/blog/einmaleins-lernen/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://plizio.com/blog/mathe-tipps-klasse-3/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://plizio.com/blog/bruchrechnung-tipps/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>

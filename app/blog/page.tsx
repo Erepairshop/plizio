@@ -7,6 +7,16 @@ export const metadata: Metadata = {
 };
 
 const ARTICLES = [
+  { slug: "deutsch-grammatik-ueben",   title: "Deutsch Grammatik üben: Die besten Methoden für Klasse 1-8", date: "2026-04-04", tag: "Deutsch" },
+  { slug: "rechtschreibung-verbessern", title: "Rechtschreibung verbessern: 7 Tipps für Kinder", date: "2026-04-04", tag: "Deutsch" },
+  { slug: "biologie-klasse-5-lernen",  title: "Biologie Klasse 5: Was lernt man und wie übt man richtig?", date: "2026-04-04", tag: "Biologie" },
+  { slug: "sachkunde-grundschule",     title: "Sachkunde in der Grundschule: Themen, Tipps & Online-Übungen", date: "2026-04-04", tag: "Sachkunde" },
+  { slug: "learn-german-online-kids",  title: "Learn German Online: Free Interactive Lessons for Kids (Grade 1-8)", date: "2026-04-04", tag: "English" },
+  { slug: "free-biology-games-kids",   title: "Free Biology Games for Kids: Learn Science the Fun Way", date: "2026-04-04", tag: "English" },
+  { slug: "physik-klasse-5-einfuehrung", title: "Physik Klasse 5: Einstieg leicht gemacht", date: "2026-04-04", tag: "Physik" },
+  { slug: "geschichte-online-lernen",  title: "Geschichte online lernen: Interaktive Übungen für Klasse 5-8", date: "2026-04-04", tag: "Geschichte" },
+  { slug: "nemet-nyelvtan-gyakorlas",  title: "Német nyelvtan gyakorlás online: Interaktív feladatok 1-8. osztályig", date: "2026-04-04", tag: "Magyar" },
+  { slug: "biologia-gyakorlas-online", title: "Biológia gyakorlás online: Ingyenes interaktív feladatok", date: "2026-04-04", tag: "Magyar" },
   { slug: "einmaleins-lernen",         title: "Einmaleins lernen: 8 Methoden die wirklich funktionieren",     date: "2026-02-15", tag: "Klasse 3" },
   { slug: "mathe-tipps-klasse-3",      title: "Mathe Klasse 3 – Die 10 wichtigsten Tipps für Eltern",        date: "2026-02-20", tag: "Klasse 3" },
   { slug: "bruchrechnung-tipps",       title: "Bruchrechnung leicht gemacht – Tipps für Klasse 4 & 5",       date: "2026-02-25", tag: "Klasse 4–5" },
