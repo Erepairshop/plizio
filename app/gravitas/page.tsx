@@ -48,6 +48,7 @@ import ResearchPanel from "@/components/gravitas/ResearchPanel";
 import EspionagePanel from "@/components/gravitas/EspionagePanel";
 import TradePanel from "@/components/gravitas/TradePanel";
 import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
+import WeeklyMissionPanel from "@/components/gravitas/WeeklyMissionPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
 import { FlaskConical, Eye, ArrowLeftRight, Users } from "lucide-react";
