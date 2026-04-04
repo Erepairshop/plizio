@@ -1,5 +1,6 @@
 import { METEOR_MATERIAL_ORDER } from "./constants";
 import type { GalaxyWorldPosition } from "./types";
+import { DRONE_CONFIG } from "../economy";
 
 export type GalaxyMaterialId = (typeof METEOR_MATERIAL_ORDER)[number];
 
@@ -12,6 +13,7 @@ export type GalaxyLivePreview = {
 
 export type DroneMissionState = {
   id: string;
+  droneIndex: number; // 0-11, which slot
   targetNodeId: string;
   materialId: GalaxyMaterialId;
   phase: "traveling" | "mining" | "returning";
@@ -27,7 +29,8 @@ export type DroneMissionState = {
   committedUnits?: number;
 };
 
-const DRONE_MISSION_STORAGE_KEY = "gravitas_galaxy_drone_mission_v1";
+const DRONE_MISSION_STORAGE_KEY_V1 = "gravitas_galaxy_drone_mission_v1";
+const DRONE_MISSIONS_STORAGE_KEY_V2 = "gravitas_galaxy_drone_missions_v2";
 const GALAXY_INVENTORY_STORAGE_KEY = "gravitas_galaxy_inventory_v1";
 const GALAXY_LIVE_PREVIEW_STORAGE_KEY = "gravitas_galaxy_live_preview_v1";
 export const GALAXY_STATE_UPDATED_EVENT = "gravitas:galaxy-state-updated";
@@ -60,38 +63,156 @@ export function formatDurationMinutes(totalMinutes: number): string {
   return `${hours}h ${rest}m`;
 }
 
-export function loadSavedDroneMission(): DroneMissionState | null {
-  if (typeof window === "undefined") return null;
+// === Multi-Drone Config ===
+
+export function getMaxDrones(logisticsLevel: number): number {
+  return Math.min(DRONE_CONFIG.maxDrones, Math.floor(logisticsLevel * DRONE_CONFIG.baseDronesPerLogisticsLevel) + 1);
+}
+
+// === Multi-Drone Loading/Saving ===
+
+export function loadAllDroneMissions(): DroneMissionState[] {
+  if (typeof window === "undefined") return [];
+  
+  // Migration
+  migrateDroneMissionV1toV2();
+
   try {
-    const raw = localStorage.getItem(DRONE_MISSION_STORAGE_KEY);
-    if (!raw) return null;
-    const parsed = JSON.parse(raw) as DroneMissionState;
-    if (!parsed || typeof parsed.startedAt !== "number" || typeof parsed.targetNodeId !== "string") return null;
+    const raw = localStorage.getItem(DRONE_MISSIONS_STORAGE_KEY_V2);
+    if (!raw) return [];
+    const parsed = JSON.parse(raw) as DroneMissionState[];
+    if (!Array.isArray(parsed)) return [];
+    
     const now = Date.now();
-    if (parsed.phase === "returning" && parsed.returnCompleteAt && now >= parsed.returnCompleteAt) {
-      localStorage.removeItem(DRONE_MISSION_STORAGE_KEY);
-      return null;
-    }
-    return parsed;
+    // Filter out completed/invalid missions
+    return parsed.filter(m => {
+      if (m.phase === "returning" && m.returnCompleteAt && now >= m.returnCompleteAt) {
+        return false;
+      }
+      return true;
+    });
   } catch {
-    return null;
+    return [];
   }
 }
 
-export function saveDroneMission(mission: DroneMissionState | null): void {
+export function saveAllDroneMissions(missions: DroneMissionState[]): void {
   if (typeof window === "undefined") return;
   try {
-    if (!mission) {
-      localStorage.removeItem(DRONE_MISSION_STORAGE_KEY);
-      emitGalaxyStateUpdated();
-      return;
-    }
-    localStorage.setItem(DRONE_MISSION_STORAGE_KEY, JSON.stringify(mission));
+    localStorage.setItem(DRONE_MISSIONS_STORAGE_KEY_V2, JSON.stringify(missions));
     emitGalaxyStateUpdated();
   } catch {
     // no-op
   }
 }
+
+export function migrateDroneMissionV1toV2(): void {
+  if (typeof window === "undefined") return;
+  const v1Raw = localStorage.getItem(DRONE_MISSION_STORAGE_KEY_V1);
+  const v2Raw = localStorage.getItem(DRONE_MISSIONS_STORAGE_KEY_V2);
+  
+  if (v1Raw && !v2Raw) {
+    try {
+      const v1Mission = JSON.parse(v1Raw) as any;
+      if (v1Mission) {
+        const v2Mission: DroneMissionState = {
+          ...v1Mission,
+          droneIndex: 0
+        };
+        localStorage.setItem(DRONE_MISSIONS_STORAGE_KEY_V2, JSON.stringify([v2Mission]));
+        localStorage.removeItem(DRONE_MISSION_STORAGE_KEY_V1);
+      }
+    } catch {
+      // migration failed
+    }
+  }
+}
+
+// === Mission Management ===
+
+export function startDroneMission(
+  missions: DroneMissionState[],
+  droneIndex: number,
+  targetNodeId: string,
+  materialId: GalaxyMaterialId,
+  travelDurationMinutes: number,
+  miningDurationMinutes: number,
+  targetYieldUnits: number
+): DroneMissionState[] {
+  const startedAt = Date.now();
+  const arrivalAt = startedAt + travelDurationMinutes * 60_000;
+  const miningCompleteAt = arrivalAt + miningDurationMinutes * 60_000;
+  
+  const newMission: DroneMissionState = {
+    id: `mission-${targetNodeId}-${startedAt}`,
+    droneIndex,
+    targetNodeId,
+    materialId,
+    phase: "traveling",
+    startedAt,
+    arrivalAt,
+    miningCompleteAt,
+    travelDurationMinutes,
+    miningDurationMinutes,
+    targetYieldUnits,
+  };
+
+  const nextMissions = missions.filter(m => m.droneIndex !== droneIndex);
+  nextMissions.push(newMission);
+  return nextMissions;
+}
+
+export function completeDroneMission(
+  missions: DroneMissionState[],
+  droneIndex: number
+): { updatedMissions: DroneMissionState[], gatheredMaterial: GalaxyMaterialId | null, gatheredAmount: number } {
+  const mission = missions.find(m => m.droneIndex === droneIndex);
+  if (!mission) return { updatedMissions: missions, gatheredMaterial: null, gatheredAmount: 0 };
+
+  const gatheredMaterial = mission.materialId;
+  const gatheredAmount = mission.committedUnits ?? 0;
+
+  const nextMissions = missions.filter(m => m.droneIndex !== droneIndex);
+  return { updatedMissions: nextMissions, gatheredMaterial, gatheredAmount };
+}
+
+export function cancelDroneMission(missions: DroneMissionState[], droneIndex: number): DroneMissionState[] {
+  return missions.filter(m => m.droneIndex !== droneIndex);
+}
+
+export function getActiveMissionCount(missions: DroneMissionState[]): number {
+  return missions.length;
+}
+
+export function getFreeDroneSlots(missions: DroneMissionState[], logisticsLevel: number): number[] {
+  const maxDrones = getMaxDrones(logisticsLevel);
+  const occupiedSlots = new Set(missions.map(m => m.droneIndex));
+  const freeSlots: number[] = [];
+  for (let i = 0; i < maxDrones; i++) {
+    if (!occupiedSlots.has(i)) {
+      freeSlots.push(i);
+    }
+  }
+  return freeSlots;
+}
+
+// === Backward Compatibility Wrappers ===
+
+export function loadSavedDroneMission(): DroneMissionState | null {
+  const missions = loadAllDroneMissions();
+  return missions.find(m => m.droneIndex === 0) ?? null;
+}
+
+export function saveDroneMission(mission: DroneMissionState | null): void {
+  const missions = loadAllDroneMissions();
+  let nextMissions = missions.filter(m => m.droneIndex !== 0);
+  if (mission) {
+    nextMissions.push({ ...mission, droneIndex: 0 });
+  }
+  saveAllDroneMissions(nextMissions);
+}
+
+// === Inventory Management ===
 
 export function loadSavedGalaxyInventory(): GalaxyInventory {
   if (typeof window === "undefined") return createDefaultGalaxyInventory();

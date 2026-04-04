@@ -325,6 +325,12 @@ export const MODULE_LEVEL_CONFIG = {
   },
 } as const;
 
+export const DRONE_CONFIG = {
+  maxDrones: 12,
+  baseDronesPerLogisticsLevel: 0.5, // floor(level / 2) + 1
+  baseMiningDurationMs: 60 * 60 * 1000, // 60 min base (matching default in mission.ts)
+} as const;
+
 // ── Veszélyzóna ellenőrzés ────────────────────────────────────
 
 export function isModuleInDanger(
