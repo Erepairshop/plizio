@@ -4,6 +4,13 @@ import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { createInitialRepairBay } from "./repairbay";
+import { createInitialFactionReputation } from "./faction";
+import { createInitialSynergies } from "./synergy";
+import { createInitialGalaxyCycle } from "./galaxy";
+import { createInitialDilemmaState } from "./dilemma";
+import { createInitialCommanderState } from "./commander";
+import { createInitialEspionageState } from "./espionage/index";
+import { createInitialResearchState } from "./research/index";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -72,9 +79,8 @@ function migrateWarRoom(raw: any): WarRoomState {
         isUpgrade: Boolean((slot as any).isUpgrade),
         batchSize: Math.max(1, Math.floor((slot as any).batchSize ?? 1)),
         targetLevel: Math.max(1, Math.floor((slot as any).targetLevel ?? 1)),
-        startedTick: Math.max(0, Math.floor((slot as any).startedTick ?? 0)),
-        duration: Math.max(1, Math.floor((slot as any).duration ?? 1)),
-        remaining: Math.max(0, Math.floor((slot as any).remaining ?? 0)),
+        startedAt: (slot as any).startedAt ?? ((slot as any).remaining !== undefined ? Date.now() - (((slot as any).duration ?? 1) - ((slot as any).remaining ?? 0)) * 1000 : Date.now()),
+        completesAt: (slot as any).completesAt ?? ((slot as any).remaining !== undefined ? Date.now() + ((slot as any).remaining ?? 0) * 1000 : Date.now()),
         reservedCount: (slot as any).reservedCount ? Math.max(1, Math.floor((slot as any).reservedCount)) : undefined,
         reservedFromLevel: (slot as any).reservedFromLevel ? Math.max(1, Math.floor((slot as any).reservedFromLevel)) : undefined,
         spentCost: (slot as any).spentCost ?? undefined,
@@ -83,14 +89,14 @@ function migrateWarRoom(raw: any): WarRoomState {
   } else if (raw.productionSlot && typeof raw.productionSlot === "object") {
     const mapped = mapLegacyUnitId((raw.productionSlot as any).unitId);
     if (mapped) {
+      const remaining = Math.max(0, Math.floor((raw.productionSlot as any).remaining ?? 0));
       migrated.productionSlots[mapped] = {
         unitId: mapped,
         isUpgrade: false,
         batchSize: 1,
         targetLevel: 1,
-        startedTick: Math.max(0, Math.floor((raw.productionSlot as any).startedTick ?? 0)),
-        duration: Math.max(1, Math.floor((raw.productionSlot as any).duration ?? 1)),
-        remaining: Math.max(0, Math.floor((raw.productionSlot as any).remaining ?? 0)),
+        startedAt: Date.now() - ((Math.max(1, Math.floor((raw.productionSlot as any).duration ?? 1)) - remaining) * 1000),
+        completesAt: Date.now() + remaining * 1000,
       };
     }
   }
@@ -108,13 +114,25 @@ function migrateRepairBay(raw: any): RepairBayState {
   const repairSlots = Array.from({ length: Math.floor(slotCount) }, (_, index) => {
     const slot = sourceSlots[index];
     if (!slot || typeof slot !== "object") return null;
+    // Migrate tick-based to Date.now() based
+    if (slot.startedAt && slot.completesAt) {
+      return {
+        unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
+        targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
+        batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
+        startedAt: slot.startedAt,
+        completesAt: slot.completesAt,
+      };
+    }
+    const rem = Math.max(0, Math.floor(slot.remaining ?? 0));
+    const dur = Math.max(1, Math.floor(slot.duration ?? 1));
     return {
       unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
       targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
       batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
-      startedTick: Math.max(0, Math.floor(slot.startedTick ?? 0)),
-      duration: Math.max(1, Math.floor(slot.duration ?? 1)),
-      remaining: Math.max(0, Math.floor(slot.remaining ?? 0)),
+      startedAt: Date.now() - (dur - rem) * 1000,
+      completesAt: Date.now() + rem * 1000,
+      repairedEntries: slot.repairedEntries ? toGarrisonEntries(slot.repairedEntries) : undefined,
     };
   });
 
@@ -344,6 +362,7 @@ export function loadGravitasState(): StarholdState | null {
         buildingCooldowns: parsed.battleState?.buildingCooldowns ?? {},
         activeScout: parsed.battleState?.activeScout ?? null,
       },
+      factionReputation: parsed.factionReputation ?? createInitialFactionReputation(),
       worldLevel: parsed.worldLevel ?? 1,
       worldLevelPending: parsed.worldLevelPending ?? null,
       avatarImprintActive: parsed.avatarAwake ? false : (parsed.avatarProfile?.answers?.length ?? 0) >= 3,
@@ -372,6 +391,14 @@ export function loadGravitasState(): StarholdState | null {
       },
       upgradeQueue: parsed.upgradeQueue ?? [],
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
+      synergies: parsed.synergies ?? createInitialSynergies(),
+      galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
+      dilemmaSystem: parsed.dilemmaSystem ?? createInitialDilemmaState(),
+      tradeSystem: parsed.tradeSystem ?? { offers: [], lastRefreshAt: Date.now() },
+      weeklyMission: parsed.weeklyMission ?? { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
+      commander: parsed.commander ?? createInitialCommanderState(),
+      espionage: parsed.espionage ?? createInitialEspionageState(),
+      research: parsed.research ?? createInitialResearchState(["weapons", "shields"]),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

@@ -163,6 +163,8 @@ function applyTraitEffect(
   ctx.traitTriggered.add(trait.id);
 }
 
+import { getCycleEffects } from "../galaxy/cycles";
+
 export function resolveBattle(input: ResolveBattleInput): BattleResult {
   const { army, enemy, playerState, avatarCombat, scoutReport, descriptor, faction, battleHistory, seedNow } = input;
   
@@ -188,6 +190,8 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   // 1. Calculate Player Effective Stats
   const avatarStats = getEffectiveCombatStats(avatarCombat);
   const baseStatMod = 1.0 + (playerState.resources.morale - 50) / 200; 
+  const syn = playerState.synergies.combined;
+  const cmd = playerState.commander.effects;
   
   const playerEval = {
     firepower: avatarStats.firepower * (armyBase.attack / 100) * baseStatMod * tactic.attackMod,
@@ -197,6 +201,30 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     intel: avatarStats.intel * (1 + intel / 100),
     energy: avatarStats.energy * baseStatMod,
   };
+
+  // Apply Synergy Bonuses
+  if (syn.unitAttackBonus) playerEval.firepower *= (1 + syn.unitAttackBonus);
+  if (syn.unitSpeedBonus) playerEval.tactics *= (1 + syn.unitSpeedBonus);
+  if (syn.unitAllStatsBonus) {
+    playerEval.firepower *= (1 + syn.unitAllStatsBonus);
+    playerEval.barrier *= (1 + syn.unitAllStatsBonus);
+    playerEval.tactics *= (1 + syn.unitAllStatsBonus);
+    playerEval.inspiration *= (1 + syn.unitAllStatsBonus);
+    playerEval.energy *= (1 + syn.unitAllStatsBonus);
+  }
+
+  // Apply Commander Profile Bonuses
+  if (cmd.attackBonus) playerEval.firepower *= (1 + cmd.attackBonus);
+  if (cmd.attackPenalty) playerEval.firepower *= (1 - cmd.attackPenalty);
+  if (cmd.defenseBonus) playerEval.barrier *= (1 + cmd.defenseBonus);
+  if (cmd.defensePenalty) playerEval.barrier *= (1 - cmd.defensePenalty);
+  if (cmd.allStatsBonus) {
+    playerEval.firepower *= (1 + cmd.allStatsBonus);
+    playerEval.barrier *= (1 + cmd.allStatsBonus);
+    playerEval.tactics *= (1 + cmd.allStatsBonus);
+    playerEval.inspiration *= (1 + cmd.allStatsBonus);
+    playerEval.energy *= (1 + cmd.allStatsBonus);
+  }
 
   // Minimum troop penalty
   const minTroopsRequired = getMinimumTroops(enemy.id, worldLevel);
@@ -356,7 +384,11 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     seedRng: rng,
   });
 
-  const lootMultiplier = getLootMultiplier(worldLevel);
+  const cycleEffects = getCycleEffects(playerState.galaxyCycle.currentPhase);
+  let lootMultiplier = getLootMultiplier(worldLevel) * cycleEffects.battleLootMod;
+  if (playerState.commander.effects.lootBonus) {
+    lootMultiplier *= (1 + playerState.commander.effects.lootBonus);
+  }
   const loot = rewardPack.loot;
   if (loot) {
     Object.keys(loot.materials).forEach(matId => {
@@ -383,6 +415,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
       damageDealt: Math.round(ctx.playerDamageDone),
       damageReceived: Math.round(ctx.playerDamageTaken),
       unitsLost: casualties.killed,
+      unitsSent: army.units,
       enemyGarrisonDestroyed: Math.max(0, enemy.stats.garrison - runtime.enemyGarrison),
       traitTriggered: Array.from(ctx.traitTriggered) as EnemyTraitId[],
       counterUsed: Array.from(ctx.countersUsed),

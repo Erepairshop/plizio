@@ -5,6 +5,7 @@ import { pushJournal } from "../shared";
 import { UNIT_COSTS, WARROOM_LEVEL_CONFIG, WARROOM_PRODUCTION_CONFIG } from "../../economy";
 import { WARROOM_UNITS } from "./units";
 import type { GarrisonEntry, WarRoomProductionSlot, WarRoomUnitId } from "./types";
+import { mergeGarrisonEntries } from "./veteran";
 
 function canAfford(inventory: GalaxyInventory, cost: Partial<Record<GalaxyMaterialId, number>>): boolean {
   for (const [matId, amount] of Object.entries(cost)) {
@@ -93,9 +94,13 @@ export function getBatchTrainingCost(unitId: WarRoomUnitId, level: number): Part
   return cost;
 }
 
-export function getBatchUpgradeCost(unitId: WarRoomUnitId, targetLevel: number): Partial<Record<GalaxyMaterialId, number>> {
+export function getBatchUpgradeCost(unitId: WarRoomUnitId, targetLevel: number, state?: StarholdState): Partial<Record<GalaxyMaterialId, number>> {
   const full = getBatchTrainingCost(unitId, targetLevel);
-  return scaleByRatio(full, WARROOM_PRODUCTION_CONFIG.upgradeCostRatio);
+  let ratio = WARROOM_PRODUCTION_CONFIG.upgradeCostRatio;
+  if (state?.synergies?.combined?.upgradeCostReduction) {
+    ratio *= (1 - state.synergies.combined.upgradeCostReduction);
+  }
+  return scaleByRatio(full, ratio);
 }
 
 export function getProductionDuration(_unitId: WarRoomUnitId, warroomLevel: number, isUpgrade: boolean): number {
@@ -103,6 +108,10 @@ export function getProductionDuration(_unitId: WarRoomUnitId, warroomLevel: numb
   const base = Math.round(WARROOM_PRODUCTION_CONFIG.baseProductionTicksPerBatch * speedMult);
   if (isUpgrade) return Math.max(1, Math.round(base * WARROOM_PRODUCTION_CONFIG.upgradeDurationRatio));
   return Math.max(1, base);
+}
+
+export function getProductionDurationMs(unitId: WarRoomUnitId, warroomLevel: number, isUpgrade: boolean): number {
+  return getProductionDuration(unitId, warroomLevel, isUpgrade) * 1000;
 }
 
 export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId, level: number): boolean {
@@ -125,7 +134,7 @@ export function canUpgradeUnit(state: StarholdState, unitId: WarRoomUnitId, from
   const entries = state.warRoom.garrison[unitId] ?? [];
   if (getLevelCount(entries, fromLevel) <= 0) return false;
   const inventory = loadSavedGalaxyInventory();
-  return canAfford(inventory, getBatchUpgradeCost(unitId, targetLevel));
+  return canAfford(inventory, getBatchUpgradeCost(unitId, targetLevel, state));
 }
 
 export function startTraining(state: StarholdState, unitId: WarRoomUnitId, level: number): StarholdState {
@@ -141,9 +150,8 @@ export function startTraining(state: StarholdState, unitId: WarRoomUnitId, level
     isUpgrade: false,
     batchSize,
     targetLevel: level,
-    startedTick: state.tick,
-    duration,
-    remaining: duration,
+    startedAt: Date.now(),
+    completesAt: Date.now() + duration * 1000,
     spentCost: cost,
   };
 
@@ -175,7 +183,7 @@ export function startUpgrade(state: StarholdState, unitId: WarRoomUnitId, fromLe
   const entries = state.warRoom.garrison[unitId] ?? [];
   const available = getLevelCount(entries, fromLevel);
   const reserve = Math.max(1, Math.min(count, available));
-  const cost = getBatchUpgradeCost(unitId, targetLevel);
+  const cost = getBatchUpgradeCost(unitId, targetLevel, state);
   const duration = getProductionDuration(unitId, state.warRoom.level, true);
   const inventory = loadSavedGalaxyInventory();
   if (!canAfford(inventory, cost)) return state;
@@ -186,9 +194,8 @@ export function startUpgrade(state: StarholdState, unitId: WarRoomUnitId, fromLe
     isUpgrade: true,
     batchSize: reserve,
     targetLevel,
-    startedTick: state.tick,
-    duration,
-    remaining: duration,
+    startedAt: Date.now(),
+    completesAt: Date.now() + duration * 1000,
     reservedCount: reserve,
     reservedFromLevel: fromLevel,
     spentCost: cost,
@@ -265,29 +272,19 @@ export function tickWarroomProduction(state: StarholdState): StarholdState {
   if (!state.warRoom?.online) return state;
   let next = state;
   let changed = false;
+  const now = Date.now();
 
   (Object.keys(state.warRoom.productionSlots) as WarRoomUnitId[]).forEach((unitId) => {
     const slot = next.warRoom.productionSlots[unitId];
     if (!slot) return;
-    if (slot.remaining > 1) {
-      next = {
-        ...next,
-        warRoom: {
-          ...next.warRoom,
-          productionSlots: {
-            ...next.warRoom.productionSlots,
-            [unitId]: { ...slot, remaining: slot.remaining - 1 },
-          },
-        },
-      };
-      changed = true;
+    if (now < slot.completesAt) {
       return;
     }
 
     const unitName = WARROOM_UNITS[unitId].name;
     const nextEntries = slot.isUpgrade
-      ? addGarrisonEntries(next.warRoom.garrison[unitId] ?? [], slot.targetLevel, slot.reservedCount ?? slot.batchSize)
-      : addGarrisonEntries(next.warRoom.garrison[unitId] ?? [], slot.targetLevel, slot.batchSize);
+      ? mergeGarrisonEntries(next.warRoom.garrison[unitId] ?? [], (slot.upgradedEntries ?? [{ level: slot.targetLevel - 1, count: slot.reservedCount ?? slot.batchSize }]).map(e => ({ ...e, level: slot.targetLevel })))
+      : mergeGarrisonEntries(next.warRoom.garrison[unitId] ?? [], [{ level: slot.targetLevel, count: slot.batchSize }]);
     const text = slot.isUpgrade
       ? {
         en: `${unitName.en} upgrade completed (Lv${slot.targetLevel}).`,

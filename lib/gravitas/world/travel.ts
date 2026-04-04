@@ -13,9 +13,18 @@ export function getGalaxyTravelDurationMinutes(
   from: GalaxyWorldPosition,
   to: GalaxyWorldPosition,
   mode: GalaxyTravelMode = "drone",
+  state?: import("../sim/types").StarholdState,
 ): number {
   const distance = getGalaxyDistance(from, to);
-  const speed = GALAXY_TRAVEL_SPEED_UNITS_PER_MINUTE[mode];
+  let speed = GALAXY_TRAVEL_SPEED_UNITS_PER_MINUTE[mode];
+  if (mode === "drone") {
+    if (state?.synergies?.combined?.droneSpeedBonus) {
+      speed *= (1 + state.synergies.combined.droneSpeedBonus);
+    }
+    if (state?.synergies?.permanentDroneSpeedBoost) {
+      speed *= (1 + state.synergies.permanentDroneSpeedBoost);
+    }
+  }
   return Math.max(1, Math.ceil(distance / speed));
 }
 

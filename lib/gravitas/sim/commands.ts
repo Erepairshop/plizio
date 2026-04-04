@@ -11,6 +11,7 @@ import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { canTrainUnit, canUpgradeUnit, startTraining, startUpgrade, cancelProduction } from "./warroom";
+import { takeBestUnits, incrementVeteranStats, mergeGarrisonEntries } from "./warroom/veteran";
 import { canStartRepair, startRepair, cancelRepair } from "./repairbay";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";
@@ -18,6 +19,14 @@ import type { GalaxyMaterialId } from "../world/mission";
 import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
 import { getBattleXP, getCombatLevel } from "./battle/xp";
 import { calculateCasualties } from "./battle/casualties";
+import { applyReputationChange } from "./faction/reputation";
+import { FACTION_REPUTATION_CONFIG } from "../economy";
+import { GALAXY_DEMO_NODES } from "../world/demo";
+import { resolveDilemma } from "./dilemma/engine";
+import { deploySpies, extractSpies, spendIntel } from "./espionage/index";
+import { startResearch, cancelResearch } from "./research/engine";
+import { acceptTrade, rejectTrade } from "./trade/engine";
+import { deployWeeklyUnits } from "./weekly/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -224,6 +233,13 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           hu: "A gyűjtődrónok elindultak.",
           de: "Bergungsdrohnen gestartet.",
           ro: "Dronele de colectare au fost lansate.",
+        },
+        commander: {
+          ...state.commander,
+          metrics: {
+            ...state.commander.metrics,
+            miningMissions: state.commander.metrics.miningMissions + 1,
+          }
         },
         journal: pushJournal(state, {
           en: "A salvage drone is sweeping the debris field for usable material.",
@@ -798,26 +814,70 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         false,
       );
 
+      // Synergy effects on casualties
+      const syn = state.synergies.combined;
+      if (syn.casualtyReduction) {
+        Object.keys(computedCasualties.killed).forEach(k => {
+          const unitId = k as import("./warroom/types").WarRoomUnitId;
+          computedCasualties.killed[unitId] = Math.floor((computedCasualties.killed[unitId] || 0) * (1 - syn.casualtyReduction!));
+        });
+        Object.keys(computedCasualties.wounded).forEach(k => {
+          const unitId = k as import("./warroom/types").WarRoomUnitId;
+          computedCasualties.wounded[unitId] = Math.floor((computedCasualties.wounded[unitId] || 0) * (1 - syn.casualtyReduction!));
+        });
+      }
+      if (result.victory && syn.instantHealRatio) {
+        Object.keys(computedCasualties.wounded).forEach(k => {
+          const unitId = k as import("./warroom/types").WarRoomUnitId;
+          const healCount = Math.floor((computedCasualties.wounded[unitId] || 0) * syn.instantHealRatio!);
+          computedCasualties.wounded[unitId] = Math.max(0, (computedCasualties.wounded[unitId] || 0) - healCount);
+        });
+      }
+
       const updatedGarrison = { ...state.warRoom.garrison };
       const updatedWounded = { ...state.repairBay.wounded };
       let movedWounded = 0;
       Object.keys(updatedGarrison).forEach((rawUnitId) => {
         const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
+        const sent = result.stats.unitsSent?.[unitId] ?? 0;
         const killed = Math.max(0, Math.floor(computedCasualties.killed[unitId] ?? 0));
         const wounded = Math.max(0, Math.floor(computedCasualties.wounded[unitId] ?? 0));
+        
         let entries = updatedGarrison[unitId] ?? [];
-        if (killed > 0) {
-          const killedTake = takeFromHighestLevel(entries, killed);
+        
+        if (sent > 0) {
+          const { remaining: stayInBase, taken: armyEntries } = takeBestUnits(entries, sent);
+          
+          const killedResult = takeBestUnits(armyEntries, killed);
+          let survivingArmy = killedResult.remaining;
+          
+          const woundedResult = takeBestUnits(survivingArmy, wounded);
+          survivingArmy = woundedResult.remaining;
+          const woundedArmy = woundedResult.taken;
+          
+          const veteranizedSurviving = survivingArmy.map(incrementVeteranStats);
+          const veteranizedWounded = woundedArmy.map(incrementVeteranStats);
+          
+          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);
+          
+          movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
+          if (veteranizedWounded.length > 0) {
+            updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], veteranizedWounded);
+          }
+        } else if (killed > 0 || wounded > 0) {
+          // Fallback if unitsSent was not provided (legacy battles)
+          const killedTake = takeBestUnits(entries, killed);
           entries = killedTake.remaining;
-        }
-        if (wounded > 0) {
-          const woundedTake = takeFromHighestLevel(entries, wounded);
-          entries = woundedTake.remaining;
-          movedWounded += woundedTake.removedByLevel.reduce((sum, e) => sum + e.count, 0);
-          if (woundedTake.removedByLevel.length > 0) {
-            updatedWounded[unitId] = mergeEntriesByLevel(updatedWounded[unitId] ?? [], woundedTake.removedByLevel);
+          if (wounded > 0) {
+            const woundedTake = takeBestUnits(entries, wounded);
+            entries = woundedTake.remaining;
+            movedWounded += woundedTake.taken.reduce((sum, e) => sum + e.count, 0);
+            if (woundedTake.taken.length > 0) {
+              updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], woundedTake.taken);
+            }
           }
         }
+        
         updatedGarrison[unitId] = entries;
       });
 
@@ -837,8 +897,36 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
       const nextXP = state.battleState.avatarCombat.combatXP + xpGained;
       const nextLevel = getCombatLevel(nextXP);
 
+      const targetNode = GALAXY_DEMO_NODES.find(n => n.id === nodeId);
+      const enemyFactionId = targetNode?.factionId;
+      let nextReputation = state.factionReputation.reputation;
+      
+      const wasInitiated = !!targetNode;
+
+      if (enemyFactionId) {
+        nextReputation = applyReputationChange(
+          nextReputation,
+          enemyFactionId,
+          result.victory ? FACTION_REPUTATION_CONFIG.changes.battleVictory : -2, // less penalty for losing, but still some
+          result.victory ? "battle_victory" : "battle_defeat",
+          state
+        );
+      }
+
       return {
         ...state,
+        commander: {
+          ...state.commander,
+          metrics: {
+            ...state.commander.metrics,
+            battlesInitiated: state.commander.metrics.battlesInitiated + (wasInitiated ? 1 : 0),
+            battlesDefended: state.commander.metrics.battlesDefended + (wasInitiated ? 0 : 1),
+          }
+        },
+        factionReputation: {
+          ...state.factionReputation,
+          reputation: nextReputation,
+        },
         resources: nextResources,
         battleState: {
           ...state.battleState,
@@ -956,13 +1044,61 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           ro: "Reparatia nu poate porni acum.",
         });
       }
-      return startRepair(state, command.unitId, command.unitLevel, command.count);
+      const nextState = startRepair(state, command.unitId, command.unitLevel, command.count);
+      return {
+        ...nextState,
+        commander: {
+          ...nextState.commander,
+          metrics: {
+            ...nextState.commander.metrics,
+            unitsRepaired: nextState.commander.metrics.unitsRepaired + command.count,
+          }
+        }
+      };
     }
     case "CANCEL_REPAIR": {
       return cancelRepair(state, command.slotIndex);
     }
     case "UPGRADE_MODULE": {
       return handleUpgradeModule(state, command.moduleId);
+    }
+    case "RESOLVE_DILEMMA": {
+      return resolveDilemma(state, command.optionId);
+    }
+    case "ACCEPT_TRADE": {
+      return acceptTrade(state, command.offerId);
+    }
+    case "REJECT_TRADE": {
+      return rejectTrade(state, command.offerId);
+    }
+    case "DEPLOY_WEEKLY_UNITS": {
+      return deployWeeklyUnits(state, command.units);
+    }
+    case "SKIP_WEEKLY_MISSION": {
+      if (!state.weeklyMission.activeMission || state.weeklyMission.activeMission.phase !== "preparation") return state;
+      return {
+        ...state,
+        weeklyMission: {
+          ...state.weeklyMission,
+          activeMission: null,
+          nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000,
+        }
+      };
+    }
+    case "DEPLOY_SPIES": {
+      return deploySpies(state, command.targetFactionId, command.wraithCount, command.missionType);
+    }
+    case "EXTRACT_SPIES": {
+      return extractSpies(state, command.missionId);
+    }
+    case "SPEND_INTEL": {
+      return spendIntel(state, command.action, command.extraArg);
+    }
+    case "START_RESEARCH": {
+      return startResearch(state, command.projectId);
+    }
+    case "CANCEL_RESEARCH": {
+      return cancelResearch(state);
     }
     default:
       return checkStarholdMilestones(state);

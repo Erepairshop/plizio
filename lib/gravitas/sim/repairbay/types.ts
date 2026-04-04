@@ -4,9 +4,9 @@ export interface RepairSlot {
   unitId: WarRoomUnitId;
   targetLevel: number;
   batchSize: number;
-  startedTick: number;
-  duration: number;
-  remaining: number;
+  startedAt: number;
+  completesAt: number;
+  repairedEntries?: GarrisonEntry[];
 }
 
 export interface RepairBayState {

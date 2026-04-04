@@ -6,6 +6,13 @@ import type { StarholdChapterId } from "./chapter";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { createInitialRepairBay } from "./repairbay";
+import { createInitialFactionReputation } from "./faction";
+import { createInitialSynergies } from "./synergy";
+import { createInitialGalaxyCycle } from "./galaxy";
+import { createInitialDilemmaState } from "./dilemma";
+import { createInitialCommanderState } from "./commander";
+import { createInitialEspionageState } from "./espionage/index";
+import { createInitialResearchState } from "./research/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -123,6 +130,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
         buildingCooldowns: {},
         activeScout: null,
       },
+      factionReputation: createInitialFactionReputation(),
       worldLevel: 1,
       worldLevelPending: null,
       avatarImprintActive: false,
@@ -144,6 +152,15 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1, repairbay: 1 },
       upgradeQueue: [],
       upgradeSlotCount: 1,
+      synergies: createInitialSynergies(),
+      galaxyCycle: createInitialGalaxyCycle(),
+      dilemmaSystem: createInitialDilemmaState(),
+      tradeSystem: { offers: [], lastRefreshAt: Date.now() },
+      weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
+      commander: createInitialCommanderState(),
+      espionage: createInitialEspionageState(),
+      research: createInitialResearchState(),
+      lastActiveAt: Date.now(),
     });
   }
 
@@ -182,6 +199,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       aftershock: 0,
       pausedUntilAwake: false,
     },
+    lastActiveAt: Date.now(),
     progression: {
       stars: 0,
       completedMilestones: [],
@@ -230,8 +248,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       buildingCooldowns: {},
       activeScout: null,
     },
-    worldLevel: 1,
-    worldLevelPending: null,
+    factionReputation: createInitialFactionReputation(),
+    worldLevel: 1,    worldLevelPending: null,
     avatarImprintActive: false,
     avatarImprintProgress: 0,
     avatarPrepArmedTick: null,
@@ -251,5 +269,13 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1, repairbay: 1 },
     upgradeQueue: [],
     upgradeSlotCount: 1,
+    synergies: createInitialSynergies(),
+    galaxyCycle: createInitialGalaxyCycle(),
+    dilemmaSystem: createInitialDilemmaState(),
+    tradeSystem: { offers: [], lastRefreshAt: Date.now() },
+    weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
+    commander: createInitialCommanderState(),
+    espionage: createInitialEspionageState(),
+    research: createInitialResearchState(["weapons", "shields"]),
   };
 }

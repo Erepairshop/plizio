@@ -251,6 +251,7 @@ export interface StarholdState {
       completesAt: number;
     } | null;
   };
+  factionReputation: import("./faction/types").FactionReputationState;
   worldLevel: number;
   worldLevelPending: {
     targetLevel: number;
@@ -264,6 +265,7 @@ export interface StarholdState {
   waveRecoveryCalmTicks: number;
   warRoom: import("./warroom/types").WarRoomState;
   repairBay: import("./repairbay/types").RepairBayState;
+  lastActiveAt: number;
   moduleLevels: {
     reactor: number;
     logistics: number;
@@ -276,6 +278,18 @@ export interface StarholdState {
   upgradeQueue: ModuleUpgradeSlot[];
   /** How many parallel upgrade slots (default 1, unlockable) */
   upgradeSlotCount: number;
+  /** Synergy system state */
+  synergies: import("./synergy/types").ActiveSynergies;
+  /** Dynamic galaxy cycles/seasons */
+  galaxyCycle: import("./galaxy/types").GalaxyCycleState;
+  /** Moral dilemma and narrative event system */
+  dilemmaSystem: import("./dilemma/types").DilemmaSystemState;
+  /** Adaptive commander profile system */
+  commander: import("./commander/types").CommanderState;
+  tradeSystem: import("./trade/types").TradeSystemState;
+  weeklyMission: import("./weekly/types").WeeklyMissionState;
+  espionage: import("./espionage/types").EspionageState;
+  research: import("./research/types").ResearchState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -321,4 +335,14 @@ export type StarholdCommand =
   | { type: "CANCEL_TRAINING"; unitId: import("./warroom/types").WarRoomUnitId }
   | { type: "START_REPAIR"; unitId: import("./warroom/types").WarRoomUnitId; unitLevel: number; count: number }
   | { type: "CANCEL_REPAIR"; slotIndex: number }
-  | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };
+  | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId }
+  | { type: "RESOLVE_DILEMMA"; optionId: string }
+  | { type: "ACCEPT_TRADE"; offerId: string }
+  | { type: "REJECT_TRADE"; offerId: string }
+  | { type: "DEPLOY_WEEKLY_UNITS"; units: Record<string, number> }
+  | { type: "SKIP_WEEKLY_MISSION" }
+  | { type: "DEPLOY_SPIES"; targetFactionId: import("./faction/types").FactionId; wraithCount: number; missionType: import("./espionage/types").EspionageMissionType }
+  | { type: "EXTRACT_SPIES"; missionId: string }
+  | { type: "SPEND_INTEL"; action: import("./espionage/types").EspionageIntelAction; extraArg?: any }
+  | { type: "START_RESEARCH"; projectId: string }
+  | { type: "CANCEL_RESEARCH" };

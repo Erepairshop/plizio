@@ -3,6 +3,8 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { ArrowUpCircle, FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap } from "lucide-react";
 import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
+import DilemmaCard from "@/components/gravitas/DilemmaCard";
+import FactionReputationPanel from "@/components/gravitas/FactionReputationPanel";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
 import { Badge, MainAction, MarkBox, StatItem } from "@/components/gravitas/GravitasUiParts";
 
@@ -327,6 +329,19 @@ export default function GravitasOverlays(props: Props) {
               )}
             </div>
           </motion.div>
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
+        {state.dilemmaSystem?.activeDilemma && (
+          <DilemmaCard 
+            dilemma={state.dilemmaSystem.activeDilemma.event} 
+            onResolve={(idx: number) => {
+              const optionId = state.dilemmaSystem.activeDilemma!.event.options[idx].id;
+              doAction({ type: "RESOLVE_DILEMMA", optionId }, "rgba(251,191,36,0.2)");
+            }} 
+            lang={lang} 
+          />
         )}
       </AnimatePresence>
 

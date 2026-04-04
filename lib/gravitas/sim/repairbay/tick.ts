@@ -2,25 +2,7 @@ import type { StarholdState } from "../types";
 import { pushJournal } from "../shared";
 import type { WarRoomUnitId } from "../warroom/types";
 import { applyWoundedDecay, getRepairSlotCount } from "./repair";
-
-function addToGarrison(
-  garrison: StarholdState["warRoom"]["garrison"],
-  unitId: WarRoomUnitId,
-  level: number,
-  count: number,
-): StarholdState["warRoom"]["garrison"] {
-  const entries = [...(garrison[unitId] ?? [])];
-  const idx = entries.findIndex((entry) => entry.level === level);
-  if (idx >= 0) {
-    entries[idx] = { ...entries[idx], count: entries[idx].count + count };
-  } else {
-    entries.push({ level, count });
-  }
-  return {
-    ...garrison,
-    [unitId]: entries.filter((entry) => entry.count > 0).sort((a, b) => a.level - b.level),
-  };
-}
+import { mergeGarrisonEntries } from "../warroom/veteran";
 
 export function tickRepairBay(state: StarholdState): StarholdState {
   const expectedSlots = getRepairSlotCount(state.repairBay.level);
@@ -48,18 +30,23 @@ export function tickRepairBay(state: StarholdState): StarholdState {
   let nextGarrison = nextState.warRoom.garrison;
   let nextSlotsMutable = [...nextState.repairBay.repairSlots];
   let completionText: StarholdState["alert"] = null;
+  const now = Date.now();
 
   for (let i = 0; i < nextSlotsMutable.length; i += 1) {
     const slot = nextSlotsMutable[i];
     if (!slot) continue;
     if (!nextState.repairBay.online) continue;
-    if (slot.remaining > 1) {
-      nextSlotsMutable[i] = { ...slot, remaining: slot.remaining - 1 };
-      mutated = true;
+    if (now < slot.completesAt) {
       continue;
     }
 
-    nextGarrison = addToGarrison(nextGarrison, slot.unitId, slot.targetLevel, slot.batchSize);
+    nextGarrison = {
+      ...nextGarrison,
+      [slot.unitId]: mergeGarrisonEntries(
+        nextGarrison[slot.unitId] ?? [],
+        slot.repairedEntries ?? [{ level: slot.targetLevel, count: slot.batchSize }]
+      )
+    };
     nextSlotsMutable[i] = null;
     completionText = {
       en: `Repair complete: ${slot.batchSize} ${slot.unitId} units are combat-ready again.`,

@@ -325,6 +325,48 @@ export const MODULE_LEVEL_CONFIG = {
   },
 } as const;
 
+export const DRONE_CONFIG = {
+  maxDrones: 12,
+  baseDronesPerLogisticsLevel: 0.5, // floor(level / 2) + 1
+  baseMiningDurationMs: 60 * 60 * 1000, // 60 min base (matching default in mission.ts)
+} as const;
+
+export const FACTION_REPUTATION_CONFIG = {
+  tiers: {
+    hostile: { min: -100, max: -61 },
+    tense: { min: -60, max: -21 },
+    neutral: { min: -20, max: 20 },
+    friendly: { min: 21, max: 60 },
+    allied: { min: 61, max: 100 },
+  },
+  changes: {
+    battleVictory: -8, // the defeated faction
+    enemyDefeated: 3, // faction whose enemy you defeated
+    tradeAccepted: 5,
+    tradeRejected: -2,
+    dilemmaHelp: 10,
+    dilemmaReject: -5,
+    espionageCaught: -15,
+    naturalDriftPerDay: 1, // +1 towards neutral (0) per day
+  },
+  effects: {
+    hostileRaidFrequency: 2.0,
+    hostileRaidStrength: 1.3,
+    tenseTradeMarkup: 0.25,
+    friendlyTradeDiscount: 0.15,
+    alliedTradeDiscount: 0.3,
+  },
+} as const;
+
+export const GALAXY_CYCLE_CONFIG = {
+  phaseDurations: {
+    calm: 14 * 24 * 60 * 60 * 1000,    // 14 nap
+    storm: 7 * 24 * 60 * 60 * 1000,    // 7 nap
+    war: 7 * 24 * 60 * 60 * 1000,      // 7 nap
+    trade: 7 * 24 * 60 * 60 * 1000,    // 7 nap
+  },
+} as const;
+
 // ── Veszélyzóna ellenőrzés ────────────────────────────────────
 
 export function isModuleInDanger(
@@ -352,13 +394,49 @@ const YIELD_PER_HOUR: Record<GalaxyMaterialId, number> = {
  * Kiszámolja mennyi idő (percben) egy költség összegyűjtése.
  * A leglassabb anyag határozza meg a teljes időt (1 drón, lv1).
  */
-export function estimateGatherMinutes(cost: MaterialCost): number {
-  let maxMinutes = 0;
-  for (const [matId, amount] of Object.entries(cost)) {
-    if (!amount) continue;
-    const perHour = YIELD_PER_HOUR[matId as GalaxyMaterialId] ?? 50;
-    const minutes = (amount / perHour) * 60;
-    if (minutes > maxMinutes) maxMinutes = minutes;
+export const TRADE_CONFIG = {
+  refreshHours: 6,
+  maxOffers: 3,
+} as const;
+
+export const WEEKLY_MISSION_CONFIG = {
+  minDaysBetween: 5,
+  maxDaysBetween: 9,
+  preparationTimeMs: 60 * 60 * 1000, // 1 hour
+  breakTimeMs: 5 * 60 * 1000, // 5 minutes
+  waveStrengthMods: [0.8, 1.2, 1.8], // multipliers for enemy stats
+  reputationPenaltyForMiss: -5,
+} as const;
+
+export const ESPIONAGE_CONFIG = {
+  maxActiveMissions: 3,
+  minWraithsPerMission: 5,
+  deployTimeMs: 2 * 60 * 60 * 1000,
+  intelYieldIntervalMs: 4 * 60 * 60 * 1000,
+  baseExposureGrowthPerHour: 2,
+  exposureThreshold: 80,
+  exposureLossRatio: 0.5,
+  extractGracePeriodMs: 60 * 60 * 1000,
+  intelCosts: { revealBuilding: 50, weakenDefense: 80, factionSecret: 120, earlyWarning: 30, sabotageSupply: 100 },
+} as const;
+
+export const RESEARCH_CONFIG = {
+  tierUnlockCoreLevels: [3, 8, 14, 20],
+  tierDurationMs: [6 * 3600000, 18 * 3600000, 48 * 3600000, 120 * 3600000],
+  fieldDiscovery: { 
+    weapons: "auto", 
+    shields: "auto", 
+    logistics: { moduleLevel: ["logistics", 5] as const }, 
+    sensors: { moduleLevel: ["sensor", 5] as const }, 
+    void: { coreLevel: 10, entropyThreshold: 50 } 
+  },
+} as const;
+
+export const VETERAN_CONFIG = {
+  tiers: {
+    hardened: { minBattles: 5, statBonus: 0.05 },
+    veteran: { minBattles: 10, statBonus: 0.10 },
+    elite: { minBattles: 20, statBonus: 0.15 },
+    legendary: { minBattles: 50, statBonus: 0.20 },
   }
-  return Math.round(maxMinutes);
-}
+} as const;

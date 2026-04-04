@@ -37,17 +37,20 @@ export interface WarRoomProductionSlot {
   isUpgrade: boolean;
   batchSize: number;
   targetLevel: number;
-  startedTick: number;
-  duration: number;
-  remaining: number;
+  startedAt: number;
+  completesAt: number;
   reservedCount?: number;
   reservedFromLevel?: number;
   spentCost?: Partial<Record<GalaxyMaterialId, number>>;
+  upgradedEntries?: GarrisonEntry[];
 }
 
 export interface GarrisonEntry {
   count: number;
   level: number;
+  battlesSurvived?: number;
+  veteranName?: LocalizedString;
+  veteranTier?: "hardened" | "veteran" | "elite" | "legendary";
 }
 
 // ── War-room module state ──────────────────────────────────────

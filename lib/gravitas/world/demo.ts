@@ -355,21 +355,57 @@ export const METEOR_MATERIAL_META = {
   },
 } as const;
 
-export function getMeteorYieldPerHour(materialId: string, logisticsLevel = 1) {
+import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "../sim/galaxy/cycles";
+
+export function getMeteorYieldPerHour(materialId: string, logisticsLevel = 1, state?: import("../sim/types").StarholdState) {
   const baseYieldPerHour = MATERIAL_BASE_YIELD_PER_HOUR[materialId] ?? 50;
   const logisticsMultiplier = 1 + Math.max(0, logisticsLevel - 1) * 0.2;
-  return Math.round(baseYieldPerHour * logisticsMultiplier);
+  let yieldPerHour = baseYieldPerHour * logisticsMultiplier;
+  
+  if (state?.synergies?.combined?.miningSpeedBonus) {
+    yieldPerHour *= (1 + state.synergies.combined.miningSpeedBonus);
+  }
+
+  // Galaxy Cycle Effects
+  if (state?.galaxyCycle) {
+    const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
+    if (cycleEffects.miningYieldBonus) {
+      yieldPerHour *= (1 + cycleEffects.miningYieldBonus);
+    }
+    if (materialId === "rift_stone" && cycleEffects.rareYieldBonus) {
+      yieldPerHour *= (1 + cycleEffects.rareYieldBonus);
+    }
+  }
+
+  if (state?.commander?.effects.miningBonus) {
+    yieldPerHour *= (1 + state.commander.effects.miningBonus);
+  }
+
+  return Math.round(yieldPerHour);
 }
 
-export function getMeteorBaseDurationMinutes(materialId: string, logisticsLevel = 1) {
+export function getMeteorBaseDurationMinutes(materialId: string, logisticsLevel = 1, state?: import("../sim/types").StarholdState) {
   const baseDurationMinutes = MATERIAL_BASE_DURATION_MINUTES[materialId] ?? 60;
   const logisticsMultiplier = 1 + Math.max(0, logisticsLevel - 1) * 0.2;
-  return Math.max(12, Math.round(baseDurationMinutes / logisticsMultiplier));
+  let durationMinutes = baseDurationMinutes / logisticsMultiplier;
+  
+  if (state?.synergies?.combined?.miningSpeedBonus) {
+    durationMinutes /= (1 + state.synergies.combined.miningSpeedBonus);
+  }
+
+  // Galaxy Cycle Effects (Mining speed bonus from calm fázis, etc. though yield is preferred, prompt said "Bányászat bónusz: +20% mining yield")
+  // So yieldPerHour handles it.
+
+  if (state?.commander?.effects.miningBonus) {
+    durationMinutes /= (1 + state.commander.effects.miningBonus);
+  }
+
+  return Math.max(12, Math.round(durationMinutes));
 }
 
-export function getMeteorBaseUnitsPerRun(materialId: string, logisticsLevel = 1) {
-  const durationHours = getMeteorBaseDurationMinutes(materialId, logisticsLevel) / 60;
-  return Math.max(8, Math.round(getMeteorYieldPerHour(materialId, logisticsLevel) * durationHours));
+export function getMeteorBaseUnitsPerRun(materialId: string, logisticsLevel = 1, state?: import("../sim/types").StarholdState) {
+  const durationHours = getMeteorBaseDurationMinutes(materialId, logisticsLevel, state) / 60;
+  return Math.max(8, Math.round(getMeteorYieldPerHour(materialId, logisticsLevel, state) * durationHours));
 }
 
 const SHOWCASE_METEOR_POSITIONS: GalaxyWorldPosition[] = [
@@ -690,9 +726,66 @@ function buildEncounterField(existingNodes: GalaxyNode[]): GalaxyNode[] {
   return nodes;
 }
 
+const DEEP_SCAN_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
+  {
+    id: "void-singularity",
+    factionId: "noma",
+    descriptorId: "void-singularity",
+    title: { en: "Void Singularity", hu: "Void szingularitás", de: "Void-Singularität", ro: "Singularitate Void" },
+    description: {
+      en: "A collapsing point in space leaking high-frequency resonance and ancient data.",
+      hu: "Összeomló pont az űrben, amiből magas frekvenciájú rezonancia és ősi adatok szivárognak.",
+      de: "Ein kollabierender Punkt im Weltraum, aus dem Hochfrequenzresonanz und antike Daten austreten.",
+      ro: "Un punct care se prăbușește în spațiu, scurgând rezonanță de înaltă frecvență și date antice.",
+    },
+    threatLevel: { en: "Extreme", hu: "Extrém", de: "Extrem", ro: "Extrem" },
+    reward: { en: "Ancient tech + RS", hu: "Ősi tech + RS", de: "Alte Tech + RS", ro: "Tech antică + RS" },
+    recommendedPower: "950",
+    footer: {
+      en: "Found only via Deep Scan. Provides the highest tier of loot and resonance.",
+      hu: "Csak Mélytéri Letapogatással érhető el. A legmagasabb szintű lootot és rezonanciát adja.",
+      de: "Nur per Tiefraumscan zu finden. Bietet Loot und Resonanz der höchsten Stufe.",
+      ro: "Găsit doar prin Scanare Profundă. Oferă cel mai înalt nivel de loot și rezonanță.",
+    },
+    assetSrc: "/gravitas/galaxy/void-singularity.webp",
+    assetClassName: "relative z-10 w-[140px] select-none opacity-100 saturate-200 contrast-150 brightness-125 drop-shadow-[0_0_40px_rgba(167,139,250,0.4)] transition-transform duration-300 hover:scale-[1.05]",
+    pulseClassName: "pointer-events-none absolute inset-0 rounded-full border border-violet-400/40 bg-violet-400/15 blur-[4px]",
+    radius: 320,
+    cardOffset: { x: 130, y: -30 },
+    motion: { x: [0, 8, -6, 0], y: [0, -6, 8, 0], rotate: [-8, 4, -4, -8] },
+    motionDuration: 20,
+    toneClassName: VARIANT_TONE_CLASS.lumen,
+  },
+];
+
+const FIXED_DEEP_SCAN_POSITIONS: GalaxyWorldPosition[] = [
+  { x: 10000, y: 10000 }, { x: 15000, y: 5000 }, { x: 5000, y: 15000 },
+];
+
+function buildDeepScanField(existingNodes: GalaxyNode[]): GalaxyNode[] {
+  const nodes: GalaxyNode[] = [];
+  DEEP_SCAN_ENCOUNTER_VARIANTS.forEach((variant, variantIndex) => {
+    FIXED_DEEP_SCAN_POSITIONS.forEach((pos, repIndex) => {
+      const draft = createEncounterNode(variant, repIndex, pos);
+      nodes.push({ ...draft, id: `${draft.id}-deep` });
+    });
+  });
+  return nodes;
+}
+
+export const GALAXY_DEEP_SCAN_NODES: GalaxyNode[] = buildDeepScanField([]);
+
 export const GALAXY_METEOR_NODES: GalaxyNode[] = buildMeteorField();
 export const GALAXY_ENCOUNTER_NODES: GalaxyNode[] = buildEncounterField([GALAXY_PLAYER_BASE_NODE, ...GALAXY_METEOR_NODES]);
 export const GALAXY_DEMO_NODES: GalaxyNode[] = [GALAXY_PLAYER_BASE_NODE, ...GALAXY_METEOR_NODES, ...GALAXY_ENCOUNTER_NODES];
+
+/** Returns all nodes visible to the player based on their synergy state */
+export function getVisibleNodes(state?: import("../sim/types").StarholdState): GalaxyNode[] {
+  if (state?.synergies?.combined?.unlockDeepScan) {
+    return [...GALAXY_DEMO_NODES, ...GALAXY_DEEP_SCAN_NODES];
+  }
+  return GALAXY_DEMO_NODES;
+}
 
 export function getRecommendedMeteorCountForPlayers(activePlayers: number, baseCount = GALAXY_METEOR_NODES.length): number {
   if (activePlayers <= 0) return baseCount;

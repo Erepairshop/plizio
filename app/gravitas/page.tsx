@@ -44,6 +44,13 @@ import {
 import GravitasOverlays from "@/components/gravitas/GravitasOverlays";
 import { WarRoomPanel } from "@/components/gravitas/warroom";
 import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
+import ResearchPanel from "@/components/gravitas/ResearchPanel";
+import EspionagePanel from "@/components/gravitas/EspionagePanel";
+import TradePanel from "@/components/gravitas/TradePanel";
+import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
+import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
+import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
+import { FlaskConical, Eye, ArrowLeftRight, Users } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -116,7 +123,7 @@ export default function GravitasPage() {
   const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
   const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");
   const [shopOpen, setShopOpen] = useState(false);
-  const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | "upgrades" | null>(null);
+  const [activePanel, setActivePanel] = useState<"modules" | "marks" | "journal" | "activation" | "upgrades" | "factions" | null>(null);
   const [showAwakening, setShowAwakening] = useState(false);
   const [impactFlash, setImpactFlash] = useState<string | null>(null);
   const [actionFlash, setActionFlash] = useState<string | null>(null);
@@ -129,7 +136,8 @@ export default function GravitasPage() {
   const [quickActionsOpen, setQuickActionsOpen] = useState(false);
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | null>(null);
+  const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -243,8 +251,26 @@ export default function GravitasPage() {
   }, []);
 
   useEffect(() => {
-    const saved = loadGravitasState();
+    let saved = loadGravitasState();
     if (saved) {
+      const now = Date.now();
+      if (saved.lastActiveAt && now - saved.lastActiveAt > 5 * 60 * 1000) {
+        const { state: updatedState, report } = processOfflineProgress(saved);
+        saved = updatedState;
+        
+        const hasEvents =
+          report.completedTraining.length > 0 ||
+          report.completedRepairs.length > 0 ||
+          report.completedUpgrades.length > 0 ||
+          report.decayedWounded > 0 ||
+          report.phaseChanges.length > 0 ||
+          report.completedMissions > 0;
+          
+        if (hasEvents) {
+          setOfflineReport(report);
+        }
+      }
+
       awakeningShownRef.current = saved.avatarAwake;
       prevAvatarAwakeRef.current = saved.avatarAwake;
       setShowAwakening(false);
@@ -1908,6 +1934,60 @@ export default function GravitasPage() {
                 </div>
               </motion.div>
             )}
+            {interiorView === "research" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <ResearchPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "espionage" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <EspionagePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "trade" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <TradePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "repairbay" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <RepairBayPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
+            {offlineReport && (
+              <OfflineProgressPopup 
+                report={offlineReport} 
+                onDismiss={() => setOfflineReport(null)} 
+                lang={lang} 
+              />
+            )}
           </AnimatePresence>
 
           <div className="absolute right-3 top-16 z-[32] flex flex-col gap-2">
@@ -1932,9 +2012,34 @@ export default function GravitasPage() {
             onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
           />
           <MapMiniButton
+            icon={<Users size={14} />}
+            active={activePanel === "factions"}
+            onClick={() => setActivePanel(activePanel === "factions" ? null : "factions")}
+          />
+          <MapMiniButton
             icon={<Radar size={14} />}
             active={interiorView === "galaxy"}
             onClick={() => setInteriorView(interiorView === "galaxy" ? null : "galaxy")}
+          />
+          <MapMiniButton
+            icon={<FlaskConical size={14} />}
+            active={interiorView === "research"}
+            onClick={() => setInteriorView(interiorView === "research" ? null : "research")}
+          />
+          <MapMiniButton
+            icon={<Eye size={14} />}
+            active={interiorView === "espionage"}
+            onClick={() => setInteriorView(interiorView === "espionage" ? null : "espionage")}
+          />
+          <MapMiniButton
+            icon={<ArrowLeftRight size={14} />}
+            active={interiorView === "trade"}
+            onClick={() => setInteriorView(interiorView === "trade" ? null : "trade")}
+          />
+          <MapMiniButton
+            icon={<Wrench size={14} />}
+            active={interiorView === "repairbay"}
+            onClick={() => setInteriorView(interiorView === "repairbay" ? null : "repairbay")}
           />
           <MapMiniButton
             icon={<Layers size={14} />}
