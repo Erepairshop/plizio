@@ -37,9 +37,8 @@ export interface WarRoomProductionSlot {
   isUpgrade: boolean;
   batchSize: number;
   targetLevel: number;
-  startedTick: number;
-  duration: number;
-  remaining: number;
+  startedAt: number;
+  completesAt: number;
   reservedCount?: number;
   reservedFromLevel?: number;
   spentCost?: Partial<Record<GalaxyMaterialId, number>>;

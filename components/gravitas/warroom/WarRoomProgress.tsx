@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import type { WarRoomProductionSlot, WarRoomUnitDef } from "@/lib/gravitas/sim/warroom/types";
 
 type Lang = "en" | "hu" | "de" | "ro";
@@ -27,8 +28,18 @@ export default function WarRoomProgress({
   lang: string;
 }) {
   const l = (lang || "en") as Lang;
-  const progress = 1 - slot.remaining / slot.duration;
-  const remainSec = slot.remaining; // 1 tick = 1 sec
+  const [now, setNow] = useState(Date.now());
+
+  useEffect(() => {
+    const timer = setInterval(() => setNow(Date.now()), 1000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const total = slot.completesAt - slot.startedAt;
+  const elapsed = now - slot.startedAt;
+  const progress = Math.min(1, Math.max(0, elapsed / total));
+  const remainMs = Math.max(0, slot.completesAt - now);
+  const remainSec = Math.ceil(remainMs / 1000);
   const timeStr = remainSec >= 60 ? `${Math.floor(remainSec / 60)}m ${remainSec % 60}s` : `${remainSec}s`;
 
   return (

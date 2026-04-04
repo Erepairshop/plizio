@@ -448,6 +448,9 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
 
 export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   let state = inputState;
+  if (state.tick % 60 === 0) {
+    state = { ...state, lastActiveAt: Date.now() };
+  }
   if (!isDemoChapter(state) && state.repairChallenge.active) {
     state = {
       ...state,

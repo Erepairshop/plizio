@@ -247,9 +247,8 @@ export function startRepair(
     unitId,
     targetLevel: unitLevel,
     batchSize: count,
-    startedTick: state.tick,
-    duration,
-    remaining: duration,
+    startedAt: Date.now(),
+    completesAt: Date.now() + duration * 1000,
   };
 
   const nextSlots = [...state.repairBay.repairSlots];

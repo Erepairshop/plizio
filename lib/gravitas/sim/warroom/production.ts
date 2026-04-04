@@ -109,6 +109,10 @@ export function getProductionDuration(_unitId: WarRoomUnitId, warroomLevel: numb
   return Math.max(1, base);
 }
 
+export function getProductionDurationMs(unitId: WarRoomUnitId, warroomLevel: number, isUpgrade: boolean): number {
+  return getProductionDuration(unitId, warroomLevel, isUpgrade) * 1000;
+}
+
 export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId, level: number): boolean {
   if (!state.warRoom?.online) return false;
   if (state.warRoom.productionSlots[unitId]) return false;
@@ -269,22 +273,12 @@ export function tickWarroomProduction(state: StarholdState): StarholdState {
   if (!state.warRoom?.online) return state;
   let next = state;
   let changed = false;
+  const now = Date.now();
 
   (Object.keys(state.warRoom.productionSlots) as WarRoomUnitId[]).forEach((unitId) => {
     const slot = next.warRoom.productionSlots[unitId];
     if (!slot) return;
-    if (slot.remaining > 1) {
-      next = {
-        ...next,
-        warRoom: {
-          ...next.warRoom,
-          productionSlots: {
-            ...next.warRoom.productionSlots,
-            [unitId]: { ...slot, remaining: slot.remaining - 1 },
-          },
-        },
-      };
-      changed = true;
+    if (now < slot.completesAt) {
       return;
     }
 
@@ -330,6 +324,12 @@ export function tickWarroomProduction(state: StarholdState): StarholdState {
 
 // Backward-compatible wrappers
 export function cancelTraining(state: StarholdState): StarholdState {
+  const active = (Object.entries(state.warRoom.productionSlots) as [WarRoomUnitId, WarRoomProductionSlot | null][])
+    .find(([, slot]) => slot !== null)?.[0];
+  if (!active) return state;
+  return cancelProduction(state, active);
+}
+tarholdState {
   const active = (Object.entries(state.warRoom.productionSlots) as [WarRoomUnitId, WarRoomProductionSlot | null][])
     .find(([, slot]) => slot !== null)?.[0];
   if (!active) return state;

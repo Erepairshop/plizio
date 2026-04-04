@@ -265,6 +265,7 @@ export interface StarholdState {
   waveRecoveryCalmTicks: number;
   warRoom: import("./warroom/types").WarRoomState;
   repairBay: import("./repairbay/types").RepairBayState;
+  lastActiveAt: number;
   moduleLevels: {
     reactor: number;
     logistics: number;

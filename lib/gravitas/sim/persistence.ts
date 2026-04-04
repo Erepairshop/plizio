@@ -77,9 +77,8 @@ function migrateWarRoom(raw: any): WarRoomState {
         isUpgrade: Boolean((slot as any).isUpgrade),
         batchSize: Math.max(1, Math.floor((slot as any).batchSize ?? 1)),
         targetLevel: Math.max(1, Math.floor((slot as any).targetLevel ?? 1)),
-        startedTick: Math.max(0, Math.floor((slot as any).startedTick ?? 0)),
-        duration: Math.max(1, Math.floor((slot as any).duration ?? 1)),
-        remaining: Math.max(0, Math.floor((slot as any).remaining ?? 0)),
+        startedAt: (slot as any).startedAt ?? ((slot as any).remaining !== undefined ? Date.now() - (((slot as any).duration ?? 1) - ((slot as any).remaining ?? 0)) * 1000 : Date.now()),
+        completesAt: (slot as any).completesAt ?? ((slot as any).remaining !== undefined ? Date.now() + ((slot as any).remaining ?? 0) * 1000 : Date.now()),
         reservedCount: (slot as any).reservedCount ? Math.max(1, Math.floor((slot as any).reservedCount)) : undefined,
         reservedFromLevel: (slot as any).reservedFromLevel ? Math.max(1, Math.floor((slot as any).reservedFromLevel)) : undefined,
         spentCost: (slot as any).spentCost ?? undefined,
@@ -406,6 +405,11 @@ export function clearGravitasSave(): void {
   try {
     localStorage.removeItem(getSaveKey());
     localStorage.removeItem(FALLBACK_SAVE_KEY);
+  } catch {
+    // fail silently
+  }
+}
+LBACK_SAVE_KEY);
   } catch {
     // fail silently
   }

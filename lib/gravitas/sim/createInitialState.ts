@@ -192,6 +192,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       aftershock: 0,
       pausedUntilAwake: false,
     },
+    lastActiveAt: Date.now(),
     progression: {
       stars: 0,
       completedMilestones: [],
@@ -266,4 +267,5 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     dilemmaSystem: createInitialDilemmaState(),
     commander: createInitialCommanderState(),
   };
+}
 }

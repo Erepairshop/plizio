@@ -48,14 +48,13 @@ export function tickRepairBay(state: StarholdState): StarholdState {
   let nextGarrison = nextState.warRoom.garrison;
   let nextSlotsMutable = [...nextState.repairBay.repairSlots];
   let completionText: StarholdState["alert"] = null;
+  const now = Date.now();
 
   for (let i = 0; i < nextSlotsMutable.length; i += 1) {
     const slot = nextSlotsMutable[i];
     if (!slot) continue;
     if (!nextState.repairBay.online) continue;
-    if (slot.remaining > 1) {
-      nextSlotsMutable[i] = { ...slot, remaining: slot.remaining - 1 };
-      mutated = true;
+    if (now < slot.completesAt) {
       continue;
     }
 
