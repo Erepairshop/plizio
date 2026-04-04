@@ -64,7 +64,21 @@ function getNodeAuraStyle(node: GalaxyNode): CSSProperties {
   return { background: "radial-gradient(circle, rgba(255,255,255,0.16) 0%, rgba(255,255,255,0.08) 32%, rgba(255,255,255,0.03) 58%, transparent 78%)" };
 }
 
-export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onClose: () => void }) {
+export default function GalaxyInteriorView({
+  lang,
+  state,
+  scoutReports = {},
+  onLaunchStrike,
+  onOpenScout,
+  onClose,
+}: {
+  lang: Lang;
+  state: import("@/lib/gravitas/sim/types").StarholdState;
+  scoutReports?: Record<string, import("@/lib/gravitas/sim/battle/types").ScoutReport>;
+  onLaunchStrike?: (node: GalaxyNode) => void;
+  onOpenScout?: (node: GalaxyNode) => void;
+  onClose: () => void;
+}) {
   const isLiteMode = process.env.NODE_ENV !== "production";
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [activeMission, setActiveMission] = useState<DroneMissionState | null>(() => loadSavedDroneMission());
@@ -89,6 +103,9 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
   const selectedNode = galaxyNodes.find((node) => node.id === selectedNodeId) ?? null;
   const playerBaseNode = galaxyNodes.find((node) => node.type === "base") ?? GALAXY_PLAYER_BASE_NODE;
   const renderOffset = GALAXY_RENDER_WORLD_OFFSET;
+
+  const selectedNodeIntel = selectedNode ? scoutReports[selectedNode.id]?.intelLevel ?? 0 : 0;
+  const selectedNodeCooldown = selectedNode ? state.battleState.buildingCooldowns[selectedNode.id] ?? 0 : 0;
 
   const selectedNodeTravelInfo = useMemo(() => {
     if (!selectedNode || selectedNode.id === playerBaseNode.id) return null;
@@ -410,7 +427,20 @@ export default function GalaxyInteriorView({ lang, onClose }: { lang: Lang; onCl
                 node={selectedNode}
                 travelInfo={selectedNodeTravelInfo}
                 activeMission={selectedNodeMission}
-                onDispatchDrone={selectedNode.type === "resource" && !activeMission ? () => dispatchDrone(selectedNode) : null}
+                intelLevel={selectedNodeIntel}
+                cooldownUntil={selectedNodeCooldown}
+                onDispatchDrone={
+                  selectedNode.type === "resource" && !activeMission 
+                    ? () => dispatchDrone(selectedNode) 
+                    : selectedNode.type === "battle"
+                    ? () => onLaunchStrike?.(selectedNode)
+                    : null
+                }
+                onOpenScout={
+                  selectedNode.type === "battle"
+                    ? () => onOpenScout?.(selectedNode)
+                    : null
+                }
                 onRecallDrone={selectedNode.type === "resource" && activeMission ? recallDrone : null}
                 onClose={() => setSelectedNodeId(null)}
               />

@@ -109,8 +109,10 @@ export interface ResolveBattleInput {
   army: BattleArmy;
   enemy: EnemyBuilding;
   playerState: StarholdState;
-  avatarProfile: StarholdAvatarProfile | null;
+  avatarCombat: import("./avatarCombat").AvatarCombatProfile;
   scoutReport: ScoutReport | null;
+  descriptor: import("./buildingDescriptors").BuildingDescriptor;
+  faction: import("./factions").Faction;
   battleHistory: BattleHistoryEntry[];
   seedNow?: number;
 }

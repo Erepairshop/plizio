@@ -3,6 +3,7 @@ import { inferBootstrapChecklist } from "./bootstrap";
 import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
+import { defaultAllocation } from "./battle/avatarCombat";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -188,6 +189,7 @@ export function loadGravitasState(): StarholdState | null {
       firstLoopComplete: parsed.firstLoopComplete ?? parsed.avatarAwake ?? false,
       firstLoopShown: parsed.firstLoopShown ?? false,
       eventQuietTicks: parsed.eventQuietTicks ?? 0,
+      lastEventTick: parsed.lastEventTick ?? {},
       worldPulse: parsed.worldPulse ?? 0,
       worldPhase: parsed.worldPhase ?? 0,
       activeOperation: parsed.activeOperation?.type === "scavenge" ? null : parsed.activeOperation ?? null,
@@ -204,6 +206,26 @@ export function loadGravitasState(): StarholdState | null {
       postWaveSurgeTicks: parsed.postWaveSurgeTicks ?? 0,
       postWaveSurgeMode: parsed.postWaveSurgeMode ?? null,
       avatarProfile: parsed.avatarProfile ?? null,
+      battleState: {
+        scoutReports: parsed.battleState?.scoutReports ?? Object.fromEntries(
+          Object.entries((parsed as any).galaxyIntel ?? {}).map(([id, intel]) => [
+            id,
+            { buildingId: id, intelLevel: intel as number, revealedStats: {}, revealedTraits: [], lastScoutedAt: 0 }
+          ])
+        ),
+        battleHistory: parsed.battleState?.battleHistory ?? [],
+        avatarCombat: parsed.battleState?.avatarCombat ?? (parsed as any).avatarCombat ?? {
+          title: parsed.avatarProfile?.title ?? { en: "Initiate", hu: "Beavatott", de: "Initiat", ro: "Inițiat" },
+          allocation: defaultAllocation(),
+          innateBonus: {},
+          combatLevel: 1,
+          combatXP: 0,
+        },
+        buildingCooldowns: parsed.battleState?.buildingCooldowns ?? {},
+        activeScout: parsed.battleState?.activeScout ?? null,
+      },
+      worldLevel: parsed.worldLevel ?? 1,
+      worldLevelPending: parsed.worldLevelPending ?? null,
       avatarImprintActive: parsed.avatarAwake ? false : (parsed.avatarProfile?.answers?.length ?? 0) >= 3,
       avatarImprintProgress: 0,
       avatarPrepArmedTick: parsed.avatarPrepArmedTick ?? ((parsed.avatarProfile?.answers?.length ?? 0) >= 3 && !parsed.avatarAwake ? parsed.tick + 1 : null),

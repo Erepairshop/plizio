@@ -45,7 +45,16 @@ import GravitasOverlays from "@/components/gravitas/GravitasOverlays";
 import { WarRoomPanel } from "@/components/gravitas/warroom";
 import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
 
+import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
+import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
+import { BUILDING_DESCRIPTORS } from "@/lib/gravitas/sim/battle/buildingDescriptors";
+import { GALAXY_FACTIONS } from "@/lib/gravitas/sim/battle/factions";
+
 const GravitasScene = dynamic(() => import("@/components/gravitas/GravitasScene"), { ssr: false });
+const BattleView = dynamic(() => import("@/components/gravitas/battle/BattleView"), { ssr: false });
+const BattleReport = dynamic(() => import("@/components/gravitas/battle/BattleReport"), { ssr: false });
+const ArmySetup = dynamic(() => import("@/components/gravitas/battle/ArmySetup"), { ssr: false });
+const ScoutPanel = dynamic(() => import("@/components/gravitas/battle/ScoutPanel"), { ssr: false });
 
 function reducer(
   state: StarholdState,
@@ -121,6 +130,60 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | null>(null);
+  const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
+  const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
+  const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
+  const [battleResult, setBattleResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
+  const [battleReportResult, setBattleReportResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
+
+  const handleLaunchStrike = useCallback((node: import("@/lib/gravitas/world/types").GalaxyNode) => {
+    setArmySetupNode(node);
+  }, []);
+
+  const handleOpenScout = useCallback((node: import("@/lib/gravitas/world/types").GalaxyNode) => {
+    setScoutNode(node);
+  }, []);
+
+  const handleStartScout = useCallback((buildingId: string) => {
+    dispatch({ type: "START_SCOUT", buildingId });
+  }, []);
+
+  const handleExecuteStrike = useCallback((army: import("@/lib/gravitas/sim/battle/types").BattleArmy, allocation: import("@/lib/gravitas/sim/battle/avatarCombat").AvatarCombatAllocation) => {
+    if (!armySetupNode) return;
+    
+    const node = armySetupNode;
+    const enemy = getEnemyBuildingById(node.variantId || node.id || "");
+    const descriptorId = node.descriptorId;
+    const descriptor = descriptorId ? BUILDING_DESCRIPTORS[descriptorId] : null;
+    const factionId = node.factionId;
+    const faction = factionId ? GALAXY_FACTIONS[factionId] : null;
+    
+    if (!enemy || !descriptor || !faction) return;
+
+    const result = resolveBattle({
+      army,
+      enemy,
+      playerState: state,
+      avatarCombat: {
+        ...state.battleState.avatarCombat,
+        allocation
+      },
+      scoutReport: state.battleState.scoutReports[node.id] || {
+        buildingId: enemy.id,
+        intelLevel: 0,
+        revealedStats: {},
+        revealedTraits: [],
+        lastScoutedAt: Date.now(),
+      },
+      descriptor,
+      faction,
+      battleHistory: [], 
+    });
+
+    setBattleNode(node);
+    setBattleResult(result);
+    setArmySetupNode(null);
+  }, [state, armySetupNode]);
   
   const holdRef = useRef<number | null>(null);
   const imprintHoldRef = useRef<number | null>(null);
@@ -1494,6 +1557,105 @@ export default function GravitasPage() {
           />
 
           <AnimatePresence>
+            {scoutNode && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                className="absolute inset-4 z-[50] sm:inset-x-auto sm:left-1/2 sm:w-[420px] sm:-translate-x-1/2"
+              >
+                <ScoutPanel
+                  buildingId={scoutNode.id}
+                  descriptor={BUILDING_DESCRIPTORS[scoutNode.descriptorId!]!}
+                  faction={GALAXY_FACTIONS[scoutNode.factionId!]!}
+                  scoutReport={state.battleState.scoutReports[scoutNode.id] || {
+                    buildingId: scoutNode.id,
+                    intelLevel: 0,
+                    revealedStats: {},
+                    revealedTraits: [],
+                    lastScoutedAt: 0,
+                  }}
+                  state={state}
+                  onStartScout={handleStartScout}
+                  onClose={() => setScoutNode(null)}
+                  lang={lang}
+                />
+              </motion.div>
+            )}
+            {armySetupNode && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                className="absolute inset-4 z-[50] sm:inset-x-auto sm:left-1/2 sm:w-[420px] sm:-translate-x-1/2"
+              >
+                <ArmySetup
+                  buildingId={armySetupNode.id}
+                  descriptor={BUILDING_DESCRIPTORS[armySetupNode.descriptorId!]!}
+                  faction={GALAXY_FACTIONS[armySetupNode.factionId!]!}
+                  scoutReport={{
+                    buildingId: armySetupNode.id,
+                    intelLevel: state.galaxyIntel[armySetupNode.id] ?? 0,
+                    revealedStats: {},
+                    revealedTraits: [],
+                    lastScoutedAt: Date.now(),
+                  }}
+                  state={state}
+                  avatarCombat={state.battleState.avatarCombat}
+                  onStartBattle={handleExecuteStrike}
+                  onClose={() => setArmySetupNode(null)}
+                  lang={lang}
+                />
+              </motion.div>
+            )}
+            {battleNode && battleResult && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                className="absolute inset-4 z-[50] sm:inset-x-auto sm:left-1/2 sm:w-[420px] sm:-translate-x-1/2"
+              >
+                <BattleView
+                  result={battleResult}
+                  enemy={getEnemyBuildingById(battleNode.variantId || battleNode.id || "")!}
+                  army={{ units: state.warRoom.garrison, tacticId: "aggressive" }}
+                  onComplete={() => {
+                    setBattleReportResult(battleResult);
+                    setBattleResult(null);
+                  }}
+                  lang={lang}
+                />
+              </motion.div>
+            )}
+            {battleNode && battleReportResult && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                className="absolute inset-4 z-[50] sm:inset-x-auto sm:left-1/2 sm:w-[420px] sm:-translate-x-1/2"
+              >
+                <BattleReport
+                  result={battleReportResult}
+                  enemy={getEnemyBuildingById(battleNode.variantId || battleNode.id || "")!}
+                  army={{ units: state.warRoom.garrison, tacticId: "aggressive" }}
+                  intelBefore={state.galaxyIntel[battleNode.id] ?? 0}
+                  onBackToGalaxy={() => {
+                    dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
+                    setBattleReportResult(null);
+                    setBattleNode(null);
+                  }}
+                  onRetry={() => {
+                    dispatch({ type: "APPLY_BATTLE_RESULT", result: battleReportResult, nodeId: battleNode.id });
+                    setBattleReportResult(null);
+                    handleLaunchStrike(battleNode);
+                  }}
+                  lang={lang}
+                />
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
             {state.firstLoopComplete && !state.firstLoopShown && !showAwakening && (
               <motion.div
                 initial={{ opacity: 0, y: 12 }}
@@ -1665,7 +1827,14 @@ export default function GravitasPage() {
                 transition={{ duration: 0.25, ease: "easeOut" }}
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
               >
-                <GalaxyInteriorView lang={lang} onClose={() => setInteriorView(null)} />
+                <GalaxyInteriorView
+                  lang={lang}
+                  state={state}
+                  scoutReports={state.battleState.scoutReports}
+                  onLaunchStrike={handleLaunchStrike}
+                  onOpenScout={handleOpenScout}
+                  onClose={() => setInteriorView(null)}
+                />
               </motion.div>
             )}
             {interiorView === "sensor" && (

@@ -13,6 +13,21 @@ import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { tickWarRoom } from "./warroom";
+import { applyStarholdCommand } from "./commands";
+
+/** Check if any battle-related timers have completed (real-time based) */
+function tickBattle(state: StarholdState): StarholdState {
+  const activeScout = state.battleState.activeScout;
+  if (!activeScout) return state;
+
+  const now = Date.now();
+  if (now >= activeScout.completesAt) {
+    // Re-use COMPLETE_SCOUT logic from commands
+    return applyStarholdCommand(state, { type: "COMPLETE_SCOUT" });
+  }
+
+  return state;
+}
 
 /** Check if any module upgrades have completed (real-time based) */
 function tickUpgrades(state: StarholdState): StarholdState {
@@ -824,14 +839,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickUpgrades(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickBattle(tickUpgrades(tickWarRoom({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    }))));
-  }
+    })))));
+    }
 
-  return stabilizeContinuationTick(state, checkStarholdMilestones(tickUpgrades(applyStarholdEvents(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickBattle(tickUpgrades(applyStarholdEvents(tickWarRoom({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-  })))));
+    }))))));
 }

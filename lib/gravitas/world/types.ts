@@ -39,6 +39,8 @@ export interface GalaxyNode {
   type: GalaxyNodeType;
   variantId?: string;
   materialId?: string;
+  factionId?: import("../sim/battle/factions").FactionId;
+  descriptorId?: string;
   title: LocalizedString;
   description: LocalizedString;
   position: GalaxyWorldPosition;

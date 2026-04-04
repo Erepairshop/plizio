@@ -240,6 +240,22 @@ export interface StarholdState {
   postWaveSurgeTicks: number;
   postWaveSurgeMode: "gentle" | "aggressive" | null;
   avatarProfile: StarholdAvatarProfile | null;
+  battleState: {
+    scoutReports: Record<string, import("./battle/types").ScoutReport>;
+    battleHistory: import("./battle/types").BattleHistoryEntry[];
+    avatarCombat: import("./battle/avatarCombat").AvatarCombatProfile;
+    buildingCooldowns: Record<string, number>;
+    activeScout: {
+      buildingId: string;
+      startedAt: number;
+      completesAt: number;
+    } | null;
+  };
+  worldLevel: number;
+  worldLevelPending: {
+    targetLevel: number;
+    scheduledAt: number; // Date.now() + random(24h-48h)
+  } | null;
   avatarImprintActive: boolean;
   avatarImprintProgress: number;
   avatarPrepArmedTick: number | null;
@@ -295,6 +311,9 @@ export type StarholdCommand =
   | { type: "RESOLVE_EVENT"; optionId: string }
   | { type: "CHANNEL_AVATAR_IMPRINT"; amount: number }
   | { type: "RESET_AVATAR_IMPRINT" }
+  | { type: "START_SCOUT"; buildingId: string }
+  | { type: "COMPLETE_SCOUT" }
+  | { type: "APPLY_BATTLE_RESULT"; result: import("./battle/types").BattleResult; nodeId: string }
   | { type: "TRAIN_UNIT"; unitId: import("./warroom/types").WarRoomUnitId }
   | { type: "CANCEL_TRAINING" }
   | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };

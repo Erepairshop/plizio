@@ -14,6 +14,8 @@ import { canTrainUnit, startTraining, cancelTraining } from "./warroom";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../world/mission";
 import type { GalaxyMaterialId } from "../world/mission";
+import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
+import { getBattleXP, getCombatLevel } from "./battle/xp";
 
 function startOperation(
   state: StarholdState,
@@ -388,6 +390,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         return nextState;
       }
 
+      const innateBonus = computeInnateBonus((state.avatarProfile?.answers ?? []).map(a => a.optionId));
+
       const awakenedBase = moveToContinuationChapter({ ...state, avatarAwake: true, phase: "awakened" });
       const awakenedThreat = state.threat.pausedUntilAwake
         ? createNextThreat(awakenedBase, state.threatCycle + 1)
@@ -405,6 +409,14 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           activation: 100,
           power: clamp(state.resources.power - 6),
           stability: clamp(state.resources.stability + 6),
+        },
+        battleState: {
+          ...state.battleState,
+          avatarCombat: {
+            ...state.battleState.avatarCombat,
+            title: state.avatarProfile?.title ?? state.battleState.avatarCombat.title,
+            innateBonus,
+          }
         },
         worldPulse: clamp(state.worldPulse + 8),
         threat: awakenedThreat,
@@ -694,6 +706,121 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "CLAIM_MILESTONE": {
       return claimStarholdMilestone(state, command.milestoneId);
+    }
+    case "APPLY_BATTLE_RESULT": {
+      const { result, nodeId } = command;
+      let nextResources = { ...state.resources };
+      if (result.loot) {
+        Object.values(result.loot.materials).forEach((amount) => {
+          nextResources.supply += amount ?? 0;
+        });
+      }
+      const currentReport = state.battleState.scoutReports[nodeId] || { 
+        buildingId: nodeId, 
+        intelLevel: 0, 
+        revealedStats: {}, 
+        revealedTraits: [], 
+        lastScoutedAt: 0 
+      };
+      
+      const updatedGarrison = { ...state.warRoom.garrison };
+      Object.entries(result.stats.unitsLost).forEach(([unitId, lost]) => {
+        const id = unitId as import("./warroom/types").WarRoomUnitId;
+        updatedGarrison[id] = Math.max(0, (updatedGarrison[id] ?? 0) - lost);
+      });
+      const cooldownMs = 60 * 60 * 1000; // 1 hour cooldown
+      const newHistoryEntry = {
+        buildingId: nodeId,
+        timestamp: Date.now(),
+        victory: result.victory,
+        unitsLost: result.stats.unitsLost,
+        damageDealt: result.stats.damageDealt,
+        damageReceived: result.stats.damageReceived,
+      };
+      
+      const difficulty = 1; // Base difficulty for now
+      const xpGained = getBattleXP(result, difficulty);
+      const nextXP = state.battleState.avatarCombat.combatXP + xpGained;
+      const nextLevel = getCombatLevel(nextXP);
+
+      return {
+        ...state,
+        resources: nextResources,
+        battleState: {
+          ...state.battleState,
+          battleHistory: [newHistoryEntry, ...state.battleState.battleHistory].slice(0, 20),
+          avatarCombat: {
+            ...state.battleState.avatarCombat,
+            combatXP: nextXP,
+            combatLevel: nextLevel,
+          },
+          scoutReports: {
+            ...state.battleState.scoutReports,
+            [nodeId]: {
+              ...currentReport,
+              intelLevel: Math.min(100, currentReport.intelLevel + result.intelGained),
+              lastScoutedAt: Date.now()
+            }
+          },
+          buildingCooldowns: {
+            ...state.battleState.buildingCooldowns,
+            [nodeId]: Date.now() + cooldownMs
+          }
+        },
+        warRoom: {
+          ...state.warRoom,
+          garrison: updatedGarrison,
+        },
+      };
+    }
+    case "START_SCOUT": {
+      if (state.battleState.activeScout || (state.warRoom.garrison.scout_drone ?? 0) <= 0) return state;
+      const durationMs = 30 * 60 * 1000;
+      return {
+        ...state,
+        warRoom: {
+          ...state.warRoom,
+          garrison: {
+            ...state.warRoom.garrison,
+            scout_drone: (state.warRoom.garrison.scout_drone ?? 0) - 1
+          }
+        },
+        battleState: {
+          ...state.battleState,
+          activeScout: {
+            buildingId: command.buildingId,
+            startedAt: Date.now(),
+            completesAt: Date.now() + durationMs
+          }
+        }
+      };
+    }
+    case "COMPLETE_SCOUT": {
+      if (!state.battleState.activeScout) return state;
+      const { buildingId } = state.battleState.activeScout;
+      const currentReport = state.battleState.scoutReports[buildingId] || {
+        buildingId,
+        intelLevel: 0,
+        revealedStats: {},
+        revealedTraits: [],
+        lastScoutedAt: 0
+      };
+      const intelBonus = Math.round(15 + (state.moduleLevels.sensor - 1) * 2.5);
+      return {
+        ...state,
+        battleState: {
+          ...state.battleState,
+          activeScout: null,
+          scoutReports: {
+            ...state.battleState.scoutReports,
+            [buildingId]: {
+              ...currentReport,
+              intelLevel: Math.min(100, currentReport.intelLevel + intelBonus),
+              lastScoutedAt: Date.now()
+            }
+          }
+        }
+      };
     }
     case "TRAIN_UNIT": {
       if (!canTrainUnit(state, command.unitId)) {

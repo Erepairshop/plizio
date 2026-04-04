@@ -6,7 +6,17 @@ import type { StarholdChapterId } from "./chapter";
 import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 
+import { defaultAllocation } from "./battle/avatarCombat";
+
 export function createInitialStarholdState(chapter: StarholdChapterId = "demo"): StarholdState {
+  const initialAvatarCombat = {
+    title: { en: "Initiate", hu: "Beavatott", de: "Initiat", ro: "Inițiat" },
+    allocation: defaultAllocation(),
+    innateBonus: {},
+    combatLevel: 1,
+    combatXP: 0,
+  };
+
   if (chapter === "continuation") {
     const modules = createInitialModules();
     return normalizeContinuationState({
@@ -105,6 +115,15 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       postWaveSurgeTicks: 0,
       postWaveSurgeMode: null,
       avatarProfile: null,
+      battleState: {
+        scoutReports: {},
+        battleHistory: [],
+        avatarCombat: initialAvatarCombat,
+        buildingCooldowns: {},
+        activeScout: null,
+      },
+      worldLevel: 1,
+      worldLevelPending: null,
       avatarImprintActive: false,
       avatarImprintProgress: 0,
       avatarPrepArmedTick: null,
@@ -202,6 +221,15 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     postWaveSurgeTicks: 0,
     postWaveSurgeMode: null,
     avatarProfile: null,
+    battleState: {
+      scoutReports: {},
+      battleHistory: [],
+      avatarCombat: initialAvatarCombat,
+      buildingCooldowns: {},
+      activeScout: null,
+    },
+    worldLevel: 1,
+    worldLevelPending: null,
     avatarImprintActive: false,
     avatarImprintProgress: 0,
     avatarPrepArmedTick: null,

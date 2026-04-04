@@ -24,6 +24,8 @@ type MeteorVariantDefinition = {
 
 type EncounterVariantDefinition = {
   id: string;
+  factionId: import("../sim/battle/factions").FactionId;
+  descriptorId: string;
   title: GalaxyNode["title"];
   description: GalaxyNode["description"];
   threatLevel: GalaxyNode["title"];
@@ -200,6 +202,8 @@ const DEMO_METEOR_VARIANTS: MeteorVariantDefinition[] = [
 const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
   {
     id: "derelict-outpost",
+    factionId: "noma",
+    descriptorId: "derelict-outpost",
     title: { en: "Derelict Outpost", hu: "Elhagyott előőrs", de: "Verlassener Außenposten", ro: "Avanpost abandonat" },
     description: {
       en: "Abandoned deep-space platform with unstable systems and recoverable caches.",
@@ -227,6 +231,8 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
   },
   {
     id: "raider-stronghold",
+    factionId: "korgath",
+    descriptorId: "raider-stronghold",
     title: { en: "Raider Stronghold", hu: "Portyázó erőd", de: "Räuberfestung", ro: "Fortăreață de pirați" },
     description: {
       en: "Hostile outlaw station stitched from stolen hulls, docks and improvised weapon decks.",
@@ -254,6 +260,8 @@ const DEMO_ENCOUNTER_VARIANTS: EncounterVariantDefinition[] = [
   },
   {
     id: "fortified-relay",
+    factionId: "synthoid",
+    descriptorId: "fortified-relay",
     title: { en: "Fortified Relay", hu: "Erődített relay", de: "Befestigtes Relay", ro: "Releu fortificat" },
     description: {
       en: "Armored relay array with a luminous core field and disciplined defense architecture.",
@@ -634,6 +642,8 @@ function createEncounterNode(
     id: `encounter-${variant.id}-${repetitionIndex + 1}`,
     type: "battle",
     variantId: variant.id,
+    factionId: variant.factionId,
+    descriptorId: variant.descriptorId,
     title: variant.title,
     description: variant.description,
     position,
