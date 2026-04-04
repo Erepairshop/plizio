@@ -211,7 +211,7 @@ export default function GalaxyInteriorView({
     const arrivalAt = startedAt + travelDurationMinutes * 60_000;
     const miningCompleteAt = arrivalAt + miningDurationMinutes * 60_000;
     setMissionClock(startedAt);
-    setActiveMission({ id: `mission-${targetNode.id}-${startedAt}`, targetNodeId: targetNode.id, materialId: targetNode.materialId as GalaxyMaterialId, phase: "traveling", startedAt, arrivalAt, miningCompleteAt, travelDurationMinutes, miningDurationMinutes, targetYieldUnits });
+    setActiveMission({ id: `mission-${targetNode.id}-${startedAt}`, droneIndex: 0, targetNodeId: targetNode.id, materialId: targetNode.materialId as GalaxyMaterialId, phase: "traveling", startedAt, arrivalAt, miningCompleteAt, travelDurationMinutes, miningDurationMinutes, targetYieldUnits });
     setFocusedDroneNodeId(null);
     setSelectedNodeId(targetNode.id);
   }, [activeMission, playerBaseNode.position]);
