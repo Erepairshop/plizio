@@ -1010,14 +1010,50 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickGalaxyCycle(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
-      ...threatResult.nextState,
-      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    })))))))));
-    }
+    return stabilizeContinuationTick(
+      state,
+      checkStarholdMilestones(
+        tickGalaxyCycle(
+          tickFactionReputation(
+            tickWorldLevel(
+              tickBattle(
+                tickUpgrades(
+                  tickRepairBay(
+                    tickWarroomProduction({
+                      ...threatResult.nextState,
+                      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                    }),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickGalaxyCycle(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
-    ...threatResult.nextState,
-    waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    }))))))))));
-    }
+  return stabilizeContinuationTick(
+    state,
+    checkStarholdMilestones(
+      tickGalaxyCycle(
+        tickFactionReputation(
+          tickWorldLevel(
+            tickBattle(
+              tickUpgrades(
+                tickRepairBay(
+                  applyStarholdEvents(
+                    tickWarroomProduction({
+                      ...threatResult.nextState,
+                      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                    }),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  );
+}
