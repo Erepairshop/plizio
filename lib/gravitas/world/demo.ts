@@ -488,13 +488,18 @@ function formatMinutesLocalized(totalMinutes: number): GalaxyNode["title"] {
 }
 
 function createMeteorNode(variant: MeteorVariantDefinition, variantIndex: number, repetitionIndex: number, position: GalaxyWorldPosition): GalaxyNode {
-  const baseDurationMinutes = getDurationForMeteor(variant.materialId, variantIndex, repetitionIndex);
-  const baseYieldPerHour = getMeteorYieldPerHour(variant.materialId, 1);
-  const baseUnitsPerRun = Math.max(10, Math.round(baseYieldPerHour * (baseDurationMinutes / 60)));
-  const amount = Math.min(
+  const isQuickTestShowcaseMeteor = variantIndex === 5 && repetitionIndex === 0;
+  const generatedDurationMinutes = getDurationForMeteor(variant.materialId, variantIndex, repetitionIndex);
+  const generatedYieldPerHour = getMeteorYieldPerHour(variant.materialId, 1);
+  const generatedUnitsPerRun = Math.max(10, Math.round(generatedYieldPerHour * (generatedDurationMinutes / 60)));
+  const generatedAmount = Math.min(
     variant.amountRange[1],
-    Math.max(variant.amountRange[0], baseUnitsPerRun + getAmountForMeteor(variantIndex, repetitionIndex, [0, 8]) - 4)
+    Math.max(variant.amountRange[0], generatedUnitsPerRun + getAmountForMeteor(variantIndex, repetitionIndex, [0, 8]) - 4)
   );
+  const baseDurationMinutes = isQuickTestShowcaseMeteor ? 1 : generatedDurationMinutes;
+  const baseYieldPerHour = isQuickTestShowcaseMeteor ? 60 : generatedYieldPerHour;
+  const baseUnitsPerRun = isQuickTestShowcaseMeteor ? 1 : generatedUnitsPerRun;
+  const amount = isQuickTestShowcaseMeteor ? 1 : generatedAmount;
   const details: GalaxyNodeDetail[] = [
     {
       id: "material",

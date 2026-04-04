@@ -105,60 +105,66 @@ export function ModuleArtOverlay({
   const modules = [
     {
       id: "reactor" as const,
-      src: "/gravitas/modules/reactor-module.webp",
-      className: "left-[7%] top-[8%] w-[12%] max-w-[124px] sm:left-[8%] sm:top-[8%] sm:w-[12%] sm:max-w-[124px]",
+      src: "/gravitas/modules/reactor-luminous.webp",
+      className: "left-[8%] top-[11%] z-[12] w-[34%] max-w-[244px] sm:left-[20%] sm:top-[16%] sm:w-[22%] sm:max-w-[246px]",
       hitboxClassName: "inset-[12%]",
+      imageClassName: "-translate-y-[2%] scale-[1.02]",
       motion: { y: [-2, 2, -1], x: [0, 1, 0], rotate: [-0.4, 0.5, -0.2] },
       duration: 6.4,
     },
     {
       id: "logistics" as const,
-      src: "/gravitas/modules/logistics-module.webp",
-      className: "left-[22%] top-[8%] w-[12%] max-w-[124px] sm:left-[22%] sm:top-[8%] sm:w-[12%] sm:max-w-[124px]",
+      src: "/gravitas/modules/logistics-hub-v3.webp",
+      className: "left-[43%] top-[8%] z-[12] w-[50%] max-w-[360px] sm:left-[50%] sm:top-[18%] sm:w-[18%] sm:max-w-[198px]",
       hitboxClassName: "inset-[12%]",
+      imageClassName: "-translate-y-[3%] scale-[1.03]",
       motion: { y: [-1, 1.5, -1], x: [0, -1, 0], rotate: [-0.25, 0.25, -0.15] },
       duration: 7.6,
     },
     {
       id: "sensor" as const,
-      src: "/gravitas/modules/sensor-module.webp",
-      className: "left-[9%] top-[14%] w-[5.5%] max-w-[64px] sm:left-[9%] sm:top-[14%] sm:w-[5.5%] sm:max-w-[64px]",
+      src: "/gravitas/modules/sensor-probe.webp",
+      className: "left-[56%] top-[52%] z-[20] w-[22%] max-w-[162px] sm:left-[32%] sm:top-[40%] sm:w-[15%] sm:max-w-[170px]",
       hitboxClassName: "inset-[10%]",
+      imageClassName: "scale-[1.03]",
       motion: { y: [-2, 1, -2], x: [0, 1.5, 0], rotate: [-0.6, 0.7, -0.3] },
       duration: 5.8,
     },
     {
       id: "core" as const,
-      src: "/gravitas/modules/core-module.webp",
-      className: "left-[22%] top-[28%] w-[16%] max-w-[160px] sm:left-[22%] sm:top-[28%] sm:w-[16%] sm:max-w-[160px]",
+      src: "/gravitas/modules/core-crystal-v2.webp",
+      className: "left-[29%] top-[24%] z-[18] w-[34%] max-w-[254px] sm:left-[38%] sm:top-[17%] sm:w-[24%] sm:max-w-[248px]",
       hitboxClassName: "inset-[18%]",
+      imageClassName: "-translate-y-[2%] scale-[1.02]",
       motion: { y: [-3, 2, -2], x: [0, 0.5, 0], rotate: [-0.3, 0.3, -0.15] },
       duration: 8.8,
     },
     {
-      id: "war-room",
-      src: "/gravitas/modules/war-command-center.webp",
-      className: "left-[42%] top-[8%] w-[12%] max-w-[124px] sm:left-[42%] sm:top-[8%] sm:w-[12%] sm:max-w-[124px]",
+      id: "repair-bay",
+      src: "/gravitas/modules/repair-station-v2.webp",
+      className: "left-[6%] top-[49%] z-[17] w-[34%] max-w-[268px] sm:left-[13%] sm:top-[43%] sm:w-[24%] sm:max-w-[258px]",
       hitboxClassName: "inset-[12%]",
-      motion: { y: [-2, 1.5, -1], x: [0, 0.8, 0], rotate: [-0.2, 0.3, -0.1] },
-      duration: 9.6,
+      imageClassName: "scale-[1.04]",
+      motion: { y: [-1.5, 1, -1.2], x: [0, -0.8, 0], rotate: [-0.18, 0.2, -0.08] },
+      duration: 8.8,
       decorative: true,
     },
     {
-      id: "repair-bay",
-      src: "/gravitas/modules/repair-bay.webp",
-      className: "left-[42%] top-[28%] w-[12%] max-w-[124px] sm:left-[42%] sm:top-[28%] sm:w-[12%] sm:max-w-[124px]",
+      id: "war-room",
+      src: "/gravitas/modules/command-deck.webp",
+      className: "left-[55%] top-[34%] z-[11] w-[33%] max-w-[252px] sm:left-[61%] sm:top-[28%] sm:w-[22%] sm:max-w-[244px]",
       hitboxClassName: "inset-[12%]",
-      motion: { y: [-1.5, 1, -1.2], x: [0, -0.8, 0], rotate: [-0.18, 0.2, -0.08] },
-      duration: 8.8,
+      imageClassName: "-translate-y-[1%] scale-[1.02]",
+      motion: { y: [-2, 1.5, -1], x: [0, 0.8, 0], rotate: [-0.2, 0.3, -0.1] },
+      duration: 9.6,
       decorative: true,
     },
   ];
 
   return (
     <div className="pointer-events-auto absolute inset-0 z-[6]">
-      <div className="absolute inset-0 overflow-auto overscroll-contain" style={{ touchAction: "pan-x pan-y", WebkitOverflowScrolling: "touch" }}>
-        <div className="relative h-[300%] w-[300%]">
+      <div className="absolute inset-0 overflow-auto touch-pan-x touch-pan-y [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden sm:overflow-hidden">
+        <div className="relative h-[152%] w-[168%] min-h-full min-w-full sm:left-1/2 sm:top-1/2 sm:h-[118%] sm:w-[118%] sm:min-h-0 sm:min-w-0 sm:-translate-x-1/2 sm:-translate-y-[49%]">
           {modules.map((module) => {
             const isSelected = selectedModule === module.id;
             return (
@@ -183,7 +189,8 @@ export function ModuleArtOverlay({
                 <img
                   src={module.src}
                   alt=""
-                  className="h-auto w-full select-none object-contain [mask-image:radial-gradient(circle_at_50%_50%,black_66%,rgba(0,0,0,0.92)_78%,transparent_100%)]"
+                  className={`relative h-auto w-full select-none object-contain ${"imageClassName" in module ? module.imageClassName : ""} [mask-image:radial-gradient(circle_at_50%_46%,black_62%,rgba(0,0,0,0.95)_78%,transparent_100%)]`}
+                  style={"imageStyle" in module ? module.imageStyle : undefined}
                   draggable={false}
                 />
                 {module.id === "core" && (

@@ -1233,7 +1233,7 @@ export default function GravitasPage() {
       </header>
 
       {/* HUD Chips */}
-      <div className="flex items-center justify-between px-3 py-1.5 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar gap-3 scrollbar-hide">
+      <div className="flex flex-wrap items-start gap-2 px-3 py-1.5 bg-black/10 border-b border-white/5 sm:flex-nowrap sm:items-center sm:justify-between sm:gap-3 sm:overflow-x-auto sm:no-scrollbar scrollbar-hide">
         <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
         <HUDChip
           icon={<MaterialResourceGlyph active={isScavengeActive} />}
@@ -1241,7 +1241,9 @@ export default function GravitasPage() {
           color="text-indigo-300"
           onClick={() => setResourceHelpOpen("materials")}
         />
-        <GravitasMaterialStrip lang={lang} />
+        <div className="basis-full sm:basis-auto">
+          <GravitasMaterialStrip lang={lang} />
+        </div>
         <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
         {state.chapter === "demo" && (
           <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />

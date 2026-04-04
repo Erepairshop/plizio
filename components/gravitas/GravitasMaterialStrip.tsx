@@ -49,14 +49,14 @@ export default function GravitasMaterialStrip({ lang }: { lang: Lang }) {
   }, [inventory, livePreview]);
 
   return (
-    <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar shrink-0 max-w-full">
+    <div className="flex max-w-full flex-wrap items-center gap-1.5 overflow-visible shrink-0 sm:flex-nowrap sm:overflow-x-auto sm:no-scrollbar">
       {METEOR_MATERIAL_ORDER.map((materialId) => {
         const meta = METEOR_MATERIAL_META[materialId];
         const active = livePreview?.materialId === materialId;
         return (
           <div
             key={materialId}
-            className={`group flex shrink-0 items-center gap-1.5 rounded-xl border px-2 py-1 text-[10px] font-black uppercase tracking-[0.08em] text-white/78 transition-all ${
+            className={`group flex min-w-[calc(50%-0.25rem)] shrink-0 items-center gap-1.5 rounded-xl border px-2 py-1 text-[10px] font-black uppercase tracking-[0.08em] text-white/78 transition-all sm:min-w-0 ${
               active ? "border-white/20 bg-white/10 shadow-[0_0_18px_rgba(255,255,255,0.08)]" : meta.glowClassName
             }`}
             title={`${localize(lang, meta.label)}: ${formatCompactGalaxyValue(displayInventory[materialId])}`}
