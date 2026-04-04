@@ -26,12 +26,12 @@ export function selectRandomDilemma(state: StarholdState): DilemmaEvent | null {
     if (cond.minPlayDays && state.tick < cond.minPlayDays * 24 * 60) return false;
     if (cond.minModuleLevel) {
       for (const [modId, level] of Object.entries(cond.minModuleLevel)) {
-        if (state.moduleLevels[modId] < level) return false;
+        if ((state.moduleLevels as Record<string, number>)[modId] < (level ?? 0)) return false;
       }
     }
     if (cond.minResource) {
       for (const [resId, val] of Object.entries(cond.minResource)) {
-        if ((state.resources as any)[resId] < val) return false;
+        if ((state.resources as unknown as Record<string, number>)[resId] < (val ?? 0)) return false;
       }
     }
     if (cond.requirePreviousChoice) {
@@ -126,13 +126,25 @@ function applyImmediateEffect(state: StarholdState, effect: DilemmaImmediateEffe
 
   // 2. Resources
   if (effect.resourceChanges) {
+    const resDelta: Partial<Record<string, number>> = {};
     for (const [rid, delta] of Object.entries(effect.resourceChanges)) {
       if (rid.startsWith("moduleIntegrity_")) {
-        const mid = rid.split("_")[1] as any;
-        nextState.modules[mid].integrity = Math.max(0, Math.min(100, nextState.modules[mid].integrity + (delta as number)));
+        const mid = rid.split("_")[1] as keyof typeof nextState.modules;
+        if (nextState.modules[mid]) {
+          nextState = {
+            ...nextState,
+            modules: {
+              ...nextState.modules,
+              [mid]: { ...nextState.modules[mid], integrity: Math.max(0, Math.min(100, nextState.modules[mid].integrity + (delta as number))) },
+            },
+          };
+        }
       } else {
-        nextState = addResourceDelta(nextState, rid as any, delta as number);
+        resDelta[rid] = delta as number;
       }
+    }
+    if (Object.keys(resDelta).length > 0) {
+      nextState = { ...nextState, resources: addResourceDelta(nextState.resources, resDelta as any) };
     }
   }
 
@@ -140,7 +152,8 @@ function applyImmediateEffect(state: StarholdState, effect: DilemmaImmediateEffe
   if (effect.materialChanges) {
     const inv = loadSavedGalaxyInventory();
     for (const [mid, delta] of Object.entries(effect.materialChanges)) {
-      inv[mid as any] = Math.max(0, (inv[mid as any] || 0) + (delta as number));
+      const key = mid as keyof typeof inv;
+      inv[key] = Math.max(0, (inv[key] || 0) + (delta as number));
     }
     saveGalaxyInventory(inv);
   }
@@ -152,12 +165,15 @@ function applyImmediateEffect(state: StarholdState, effect: DilemmaImmediateEffe
       const ids: any[] = ["reactor", "logistics", "core", "sensor"];
       mid = ids[Math.floor(Math.random() * ids.length)];
     }
-    const target = nextState.modules[mid as any];
-    if (target) {
-      target.online = false;
-      // Note: We don't have a built-in "offline for X ticks" logic that auto-restores, 
-      // but we could add a temporary anomaly or just leave it offline for player to fix.
-      // For now, let's just break it.
+    const mKey = mid as keyof typeof nextState.modules;
+    if (nextState.modules[mKey]) {
+      nextState = {
+        ...nextState,
+        modules: {
+          ...nextState.modules,
+          [mKey]: { ...nextState.modules[mKey], online: false },
+        },
+      };
     }
   }
 
