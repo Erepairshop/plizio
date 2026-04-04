@@ -21,7 +21,7 @@ export default function GeographieK5Explorer({ color = "#06B6D4", lang = "de", o
       icon="🗺️"
       count={5}
       explorerId="geographie_k5_core"
-      subject="sachkunde"
+      subject="geographie"
       color={color}
       lang={lang}
       grade={5}
