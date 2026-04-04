@@ -236,25 +236,25 @@ export const UNIT_COSTS = {
   /** Voidwalker — alap katona, olcsó, gyors (warroom lv1) */
   militia: {
     cost: { lumen_dust: 25, verdant_crystals: 15 } satisfies MaterialCost,
-    productionTicks: 180, // 15 min
+    productionTicks: 900, // 15 min (1 tick = 1 sec)
     maxCount: 10,
   },
   /** 2. egység — warroom lv5-től (TBD) */
   ranger: {
     cost: { aether_ore: 60, verdant_crystals: 30 } satisfies MaterialCost,
-    productionTicks: 120,
+    productionTicks: 600, // 10 min
     maxCount: 1,
   },
   /** 3. egység — warroom lv10-től (TBD) */
   shieldbearer: {
     cost: { ember_shards: 50, sable_alloy: 30 } satisfies MaterialCost,
-    productionTicks: 120,
+    productionTicks: 600, // 10 min
     maxCount: 1,
   },
   /** 4. egység — warroom lv15-től (TBD) */
   scout_drone: {
     cost: { lumen_dust: 20, verdant_crystals: 20 } satisfies MaterialCost,
-    productionTicks: 120,
+    productionTicks: 600, // 10 min
     maxCount: 3,
   },
 } as const;

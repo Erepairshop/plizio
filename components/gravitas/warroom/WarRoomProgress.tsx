@@ -28,7 +28,7 @@ export default function WarRoomProgress({
 }) {
   const l = (lang || "en") as Lang;
   const progress = 1 - slot.remaining / slot.duration;
-  const remainSec = slot.remaining * 5;
+  const remainSec = slot.remaining; // 1 tick = 1 sec
   const timeStr = remainSec >= 60 ? `${Math.floor(remainSec / 60)}m ${remainSec % 60}s` : `${remainSec}s`;
 
   return (

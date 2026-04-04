@@ -27,7 +27,7 @@ export default function WarRoomUnitCard({
   const l = (lang || "en") as Lang;
   const atMax = garrisonCount >= unit.maxCount;
   const disabled = !canAfford || isTraining || atMax;
-  const tickSeconds = unit.productionTicks * 5;
+  const tickSeconds = unit.productionTicks; // 1 tick = 1 sec
   const timeLabel = tickSeconds >= 60 ? `${Math.floor(tickSeconds / 60)}m` : `${tickSeconds}s`;
 
   const costEntries = Object.entries(unit.cost).filter(([, v]) => v && v > 0) as [string, number][];
