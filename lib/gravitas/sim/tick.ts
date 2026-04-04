@@ -21,7 +21,7 @@ import { evaluateSynergies } from "./synergy/evaluate";
 import { SYNERGY_MAP } from "./synergy/registry";
 import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "./galaxy/cycles";
 import { tickDilemmaEffects, tickDilemmaSpawn } from "./dilemma/engine";
-import { evaluateProfile, getProfileEffects } from "./commander/evaluate";
+import { evaluateProfile, getProfileEffects, PROFILE_DEFS } from "./commander/evaluate";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -110,7 +110,7 @@ function tickCommanderProfile(state: StarholdState): StarholdState {
   let nextState = state;
 
   if (nextProfileId !== state.commander.currentProfile) {
-    const profileDef = import("./commander/evaluate").PROFILE_DEFS[nextProfileId];
+    const profileDef = PROFILE_DEFS[nextProfileId];
     const changeAlert: LocalizedString = {
       en: `Commander profile updated: ${profileDef.name.en}`,
       hu: `Parancsnoki profil frissítve: ${profileDef.name.hu}`,
