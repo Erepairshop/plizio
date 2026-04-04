@@ -27,6 +27,7 @@ import { evaluateProfile, getProfileEffects, PROFILE_DEFS } from "./commander/ev
 import { tickEspionage } from "./espionage/index";
 import { tickResearch } from "./research/engine";
 import { tickSupplyRoutes } from "./supplyroute/engine";
+import { tickCodex } from "./codex/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -1080,10 +1081,13 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
                               tickCodex(
                                 tickUpgrades(
                                   tickRepairBay(
-                                    tickWarroomProduction({
-                                    ...threatResult.nextState,
-                                    waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                  }),
+                                    applyStarholdEvents(
+                                      tickWarroomProduction({
+                                        ...threatResult.nextState,
+                                        waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                      }),
+                                    ),
+                                  ),
                                 ),
                               ),
                             ),

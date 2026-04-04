@@ -1373,9 +1373,3 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
 
   return slots;
 }
-  });
-      break;
-  }
-
-  return slots;
-}

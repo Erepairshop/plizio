@@ -51,7 +51,7 @@ import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
 import WeeklyMissionPanel from "@/components/gravitas/WeeklyMissionPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -138,7 +138,7 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -2150,19 +2150,6 @@ export default function GravitasPage() {
         systemsAction={systemsAction}
         prioritizedMobileActions={prioritizedMobileActions}
         hiddenUrgentActions={hiddenUrgentActions}
-        actionFeedback={actionFeedback}
-        localize={localize}
-        doAction={doAction}
-        restartGravitasChapter={restartGravitasChapter}
-        mods={mods}
-        contentVictoryStationLostTitle={content.victory.stationLostTitle}
-        contentVictoryTryAgain={localize(content.victory.tryAgain)}
-      />
-
-    </main>
-  );
-}
-
         actionFeedback={actionFeedback}
         localize={localize}
         doAction={doAction}

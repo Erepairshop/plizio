@@ -33,7 +33,7 @@ function isConditionMet(state: StarholdState, condition: CodexUnlockCondition): 
         case "trade":
           return state.tradeSystem.offers.length > 0; // Or track accepted trades if we wanted
         case "dilemma":
-          return state.dilemmaSystem.resolvedDilemmas.length > 0;
+          return state.dilemmaSystem.history.length > 0;
         default:
           return false;
       }

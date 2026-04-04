@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { X, Book, FileText, Zap, Network, Scale, Lock, Shield, Cpu, Wrench, Eye, FlaskConical, Globe, Award, Timer, Users, Wind, Link } from "lucide-react";
+import { X, Book, FileText, Zap, Network, Scale, Lock, Shield, Cpu, Wrench, Eye, FlaskConical, Globe, Award, Timer, Users, Wind, Link, Clock } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
 import { CODEX_ENTRIES } from "@/lib/gravitas/sim/codex/entries";
