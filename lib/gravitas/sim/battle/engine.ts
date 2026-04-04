@@ -2,7 +2,7 @@ import type { StarholdAvatarAnswer } from "@/lib/gravitas/sim/types";
 import type { EnemyTrait, EnemyTraitId } from "./types";
 import { createBattleLoot } from "./rewards";
 import { getEffectiveCombatStats } from "./avatarCombat";
-import { getScaledEnemyStats, getLootMultiplier } from "./worldScaling";
+import { getScaledEnemyStats, getLootMultiplier, getMinimumTroops } from "./worldScaling";
 import type { Faction } from "./factions";
 import type { BuildingDescriptor } from "./buildingDescriptors";
 import {
@@ -370,10 +370,13 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   });
 
   const lootMultiplier = getLootMultiplier(worldLevel);
-  Object.keys(rewardPack.loot.materials).forEach(matId => {
-    const key = matId as keyof typeof rewardPack.loot.materials;
-    rewardPack.loot.materials[key] = Math.round((rewardPack.loot.materials[key] ?? 0) * lootMultiplier);
-  });
+  const loot = rewardPack.loot;
+  if (loot) {
+    Object.keys(loot.materials).forEach(matId => {
+      const key = matId as keyof typeof loot.materials;
+      loot.materials[key] = Math.round((loot.materials[key] ?? 0) * lootMultiplier);
+    });
+  }
 
   return {
     victory,
