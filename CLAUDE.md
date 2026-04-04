@@ -1813,6 +1813,41 @@ WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone"
 5. **doAction(cmd, color)** — overlays-ban wrapper kell: `(cmd) => doAction(cmd, "rgba(…)")`
 6. **Panel bővítés minta:** (1) activePanel union-ba, (2) minibutton hozzáadás, (3) header ikon, (4) content section
 
+### GRAVITAS OPERATÍV MEMÓRIA (tokenkímélő gyorsindítás)
+
+Ez a blokk arra van, hogy Gravitas task előtt ne kelljen sok fájlt újraolvasni.
+
+**Minimál olvasási sorrend (prioritás):**
+1. `CLAUDE.md` (ez a Gravitas blokk + ez a memória rész)
+2. `components/gravitas/GravitasInteriors.tsx` (ha layout/asset kérés)
+3. `app/gravitas/page.tsx` (ha panel/nav/interior wiring kérés)
+4. `lib/gravitas/economy.ts` + `lib/gravitas/sim/*` (ha ár, upgrade, tick, command kérés)
+
+**Aktív ModuleArtOverlay asset map (forrás: GravitasInteriors.tsx):**
+- reactor -> `/gravitas/modules/reactor-luminous.webp`
+- logistics -> `/gravitas/modules/logistics-hub-v3.webp`
+- sensor -> `/gravitas/modules/sensor-probe.webp`
+- core -> `/gravitas/modules/core-crystal-v2.webp`
+- repair-bay (dekor) -> `/gravitas/modules/repair-station-v2.webp`
+- warroom entry -> `/gravitas/modules/command-deck.webp`
+
+**Fontos UI viselkedés (aktuális):**
+- Mobilon a ModuleArtOverlay nagy, scroll/pan jellegu stage-et használ (`overflow-auto`, nagyított canvas).
+- Desktopon kompakt, középre rendezett klaszter marad (`sm:*` pozicionálás).
+- `warroom` NEM `StarholdModuleId`, de az overlayben külön entry van; kattintás `onOpenWarRoom` ágra megy.
+- A material csík 2 sorra törhet mobilon (`GravitasMaterialStrip` + page HUD wiring).
+
+**Asset csere szabály (stabilitás):**
+- Új modulképnél preferált út: új verziószámos fájlnév (`*-v2`, `*-v3`) + source csere.
+- Ezzel a böngésző cache problémák minimalizálhatók.
+- Nyers, feltöltött PNG-k maradhatnak repo gyökérben munkaanyagként; runtime a `public/gravitas/modules/*` fájlokat használja.
+
+**Gyors ellenőrzési lista (Gravitas vizuális patch után):**
+- Desktop: modulok egymáshoz képest olvasható klaszterben vannak, nincs kritikus overlap.
+- Mobil: modulok láthatók, elérhetők scroll/pan mellett, nincs levágott fő elem.
+- Warroom belépés: command-deck assetről nyitható, panel renderel.
+- Galaxy: drón mission ciklus megy (`traveling -> mining -> returning -> clear`).
+
 ---
 
 ## PLIZIO WORLD — Meta-progression rendszer
