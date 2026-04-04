@@ -49,25 +49,25 @@ export default function GravitasMaterialStrip({ lang }: { lang: Lang }) {
   }, [inventory, livePreview]);
 
   return (
-    <div className="flex max-w-full flex-wrap items-center gap-1.5 overflow-visible shrink-0 sm:flex-nowrap sm:overflow-x-auto sm:no-scrollbar">
+    <div className="grid grid-cols-3 gap-1 w-full shrink-0 sm:flex sm:flex-nowrap sm:gap-1.5 sm:w-auto sm:overflow-x-auto sm:no-scrollbar">
       {METEOR_MATERIAL_ORDER.map((materialId) => {
         const meta = METEOR_MATERIAL_META[materialId];
         const active = livePreview?.materialId === materialId;
         return (
           <div
             key={materialId}
-            className={`group flex min-w-[calc(50%-0.25rem)] shrink-0 items-center gap-1.5 rounded-xl border px-2 py-1 text-[10px] font-black uppercase tracking-[0.08em] text-white/78 transition-all sm:min-w-0 ${
+            className={`group flex items-center gap-1 rounded-lg border px-1.5 py-0.5 text-[9px] font-black uppercase tracking-[0.06em] text-white/78 transition-all sm:rounded-xl sm:px-2 sm:py-1 sm:text-[10px] sm:gap-1.5 ${
               active ? "border-white/20 bg-white/10 shadow-[0_0_18px_rgba(255,255,255,0.08)]" : meta.glowClassName
             }`}
             title={`${localize(lang, meta.label)}: ${formatCompactGalaxyValue(displayInventory[materialId])}`}
           >
-            <span className={`flex h-4 w-4 items-center justify-center rounded-full border border-white/10 bg-black/18 text-[8px] ${meta.colorClassName}`}>
+            <span className={`flex h-3.5 w-3.5 items-center justify-center rounded-full border border-white/10 bg-black/18 text-[7px] sm:h-4 sm:w-4 sm:text-[8px] ${meta.colorClassName}`}>
               {localize(lang, meta.short)}
             </span>
             <span className={`hidden sm:inline text-[8px] leading-none ${meta.colorClassName}`}>
               {localize(lang, meta.label)}
             </span>
-            <span className="text-[11px] leading-none text-white">
+            <span className="text-[10px] leading-none text-white sm:text-[11px]">
               {formatCompactGalaxyValue(displayInventory[materialId])}
             </span>
           </div>

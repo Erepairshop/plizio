@@ -1168,10 +1168,10 @@ export default function GravitasPage() {
       )}
 
       {/* Header */}
-      <header className="flex items-center justify-between px-3 py-2 border-b border-white/5 bg-black/20 backdrop-blur-md z-50">
-        <div className="flex items-center gap-3">
-          <Link href="/" className="p-2 -ml-2 text-white/40 hover:text-white transition">
-            <ChevronLeft size={20} />
+      <header className="flex items-center justify-between px-2 py-1.5 border-b border-white/5 bg-black/20 backdrop-blur-md z-50 sm:px-3 sm:py-2">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <Link href="/" className="p-1.5 -ml-1 text-white/40 hover:text-white transition sm:p-2 sm:-ml-2">
+            <ChevronLeft size={18} />
           </Link>
           <div className="flex items-center gap-2 group relative">
             <StationHealthRing state={state} />
@@ -1232,35 +1232,39 @@ export default function GravitasPage() {
         </div>
       </header>
 
-      {/* HUD Chips */}
-      <div className="flex flex-wrap items-start gap-2 px-3 py-1.5 bg-black/10 border-b border-white/5 sm:flex-nowrap sm:items-center sm:justify-between sm:gap-3 sm:overflow-x-auto sm:no-scrollbar scrollbar-hide">
-        <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
-        <HUDChip
-          icon={<MaterialResourceGlyph active={isScavengeActive} />}
-          value={state.resources.materials}
-          color="text-indigo-300"
-          onClick={() => setResourceHelpOpen("materials")}
-        />
-        <div className="basis-full sm:basis-auto">
-          <GravitasMaterialStrip lang={lang} />
-        </div>
-        <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
-        {state.chapter === "demo" && (
-          <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
-        )}
-        <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
-        {state.avatarProfile && state.avatarProfile.answers.length > 0 && (
-          <AvatarBaseChip
-            icon={<UserRound size={12} />}
-            onClick={() => setAvatarBaseOpen(true)}
+      {/* HUD Chips — top row: stats, bottom row: materials */}
+      <div className="bg-black/10 border-b border-white/5">
+        {/* Row 1: Power, Materials, Stability, Entropy, Pattern */}
+        <div className="flex items-center gap-1.5 px-2 py-1 overflow-x-auto no-scrollbar scrollbar-hide sm:px-3 sm:py-1.5 sm:gap-3">
+          <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
+          <HUDChip
+            icon={<MaterialResourceGlyph active={isScavengeActive} />}
+            value={state.resources.materials}
+            color="text-indigo-300"
+            onClick={() => setResourceHelpOpen("materials")}
           />
-        )}
-        <div className={`relative flex items-center gap-1.5 px-2 py-1 rounded-xl bg-white/5 border border-white/5 text-xs font-black shrink-0 ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
-          <Layers size={11} />
-          <div className="flex flex-col leading-none">
-            <span className="text-[7px] uppercase tracking-[0.16em] text-white/30">{localize(ui.pattern)}</span>
-            <span className="text-[9px]">{patternLabel}</span>
+          <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
+          {state.chapter === "demo" && (
+            <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
+          )}
+          <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
+          {state.avatarProfile && state.avatarProfile.answers.length > 0 && (
+            <AvatarBaseChip
+              icon={<UserRound size={12} />}
+              onClick={() => setAvatarBaseOpen(true)}
+            />
+          )}
+          <div className={`relative flex items-center gap-1 px-1.5 py-0.5 rounded-lg bg-white/5 border border-white/5 text-[10px] font-black shrink-0 sm:gap-1.5 sm:px-2 sm:py-1 sm:rounded-xl sm:text-xs ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
+            <Layers size={10} />
+            <div className="flex flex-col leading-none">
+              <span className="text-[6px] uppercase tracking-[0.14em] text-white/30 sm:text-[7px]">{localize(ui.pattern)}</span>
+              <span className="text-[8px] sm:text-[9px]">{patternLabel}</span>
+            </div>
           </div>
+        </div>
+        {/* Row 2: Material strip */}
+        <div className="px-2 pb-1 sm:px-3 sm:pb-1.5">
+          <GravitasMaterialStrip lang={lang} />
         </div>
       </div>
 

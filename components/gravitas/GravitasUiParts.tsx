@@ -112,7 +112,7 @@ export function HUDChip({ icon, value, color, onClick }: { icon: ReactNode; valu
       onClick={onClick}
       animate={diff !== null ? { scale: [1, 1.08, 1] } : { scale: 1 }}
       transition={{ duration: 0.35 }}
-      className={`relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl border font-black text-xs shrink-0 transition-all ${
+      className={`relative flex items-center gap-1 px-2 py-1 rounded-lg border font-black text-[11px] shrink-0 transition-all sm:gap-1.5 sm:px-2.5 sm:py-1.5 sm:rounded-xl sm:text-xs ${
         diff !== null ? "border-white/15 bg-white/10 shadow-[0_0_20px_rgba(255,255,255,0.08)]" : "border-white/5 bg-white/5"
       } ${color} ${onClick ? "cursor-pointer hover:bg-white/10" : ""}`}
     >
