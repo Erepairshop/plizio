@@ -720,6 +720,11 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
 // ── Module upgrade handler ─────────────────────────────────────
 
 function handleUpgradeModule(state: StarholdState, moduleId: UpgradableModuleId): StarholdState {
+  // Check slot availability
+  if (state.upgradeQueue.length >= state.upgradeSlotCount) return state;
+  // Check not already upgrading this module
+  if (state.upgradeQueue.some(s => s.moduleId === moduleId)) return state;
+
   const inventory = loadSavedGalaxyInventory();
   const result = canUpgradeModule(moduleId, state.moduleLevels, inventory);
   if (!result.canUpgrade) return state;
@@ -735,22 +740,28 @@ function handleUpgradeModule(state: StarholdState, moduleId: UpgradableModuleId)
   }
   saveGalaxyInventory(nextInventory);
 
-  const upgradeText: LocalizedString = {
-    en: `${moduleId} upgraded to level ${targetLevel}.`,
-    hu: `${moduleId} fejlesztve: ${targetLevel}. szint.`,
-    de: `${moduleId} auf Level ${targetLevel} aufgewertet.`,
-    ro: `${moduleId} îmbunătățit la nivelul ${targetLevel}.`,
+  const now = Date.now();
+  const startText: LocalizedString = {
+    en: `${moduleId} upgrade to level ${targetLevel} started.`,
+    hu: `${moduleId} fejlesztés indítva: ${targetLevel}. szint.`,
+    de: `${moduleId}-Upgrade auf Level ${targetLevel} gestartet.`,
+    ro: `Upgrade ${moduleId} la nivelul ${targetLevel} început.`,
   };
 
-  return checkStarholdMilestones({
+  return {
     ...state,
-    moduleLevels: {
-      ...state.moduleLevels,
-      [moduleId]: targetLevel,
-    },
-    alert: upgradeText,
-    journal: pushJournal(state, upgradeText),
-  });
+    upgradeQueue: [
+      ...state.upgradeQueue,
+      {
+        moduleId,
+        targetLevel,
+        startedAt: now,
+        completesAt: now + entry.buildSeconds * 1000,
+      },
+    ],
+    alert: startText,
+    journal: pushJournal(state, startText),
+  };
 }
 
 export interface GravitasActionSlot {

@@ -116,6 +116,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       waveRecoveryCalmTicks: 0,
       warRoom: createInitialWarRoom(),
       moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+      upgradeQueue: [],
+      upgradeSlotCount: 1,
     });
   }
 
@@ -206,5 +208,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     waveRecoveryCalmTicks: 0,
     warRoom: createInitialWarRoom(),
     moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1 },
+    upgradeQueue: [],
+    upgradeSlotCount: 1,
   };
 }

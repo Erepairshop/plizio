@@ -249,6 +249,19 @@ export interface StarholdState {
     sensor: number;
     warroom: number;
   };
+  /** Active module upgrades (real-time timers) */
+  upgradeQueue: ModuleUpgradeSlot[];
+  /** How many parallel upgrade slots (default 1, unlockable) */
+  upgradeSlotCount: number;
+}
+
+export interface ModuleUpgradeSlot {
+  moduleId: import("../economy").UpgradableModuleId;
+  targetLevel: number;
+  /** Real timestamp (Date.now()) when upgrade started */
+  startedAt: number;
+  /** Real timestamp when upgrade completes */
+  completesAt: number;
 }
 
 export type StarholdCommand =

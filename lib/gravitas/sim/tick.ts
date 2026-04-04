@@ -14,6 +14,38 @@ import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { tickWarRoom } from "./warroom";
 
+/** Check if any module upgrades have completed (real-time based) */
+function tickUpgrades(state: StarholdState): StarholdState {
+  if (state.upgradeQueue.length === 0) return state;
+  const now = Date.now();
+  const completed = state.upgradeQueue.filter(s => now >= s.completesAt);
+  if (completed.length === 0) return state;
+
+  let nextLevels = { ...state.moduleLevels };
+  let journal = state.journal;
+  let alert: LocalizedString | null = null;
+
+  for (const slot of completed) {
+    nextLevels = { ...nextLevels, [slot.moduleId]: slot.targetLevel };
+    const doneText: LocalizedString = {
+      en: `${slot.moduleId} reached level ${slot.targetLevel}!`,
+      hu: `${slot.moduleId} elérte a ${slot.targetLevel}. szintet!`,
+      de: `${slot.moduleId} hat Level ${slot.targetLevel} erreicht!`,
+      ro: `${slot.moduleId} a ajuns la nivelul ${slot.targetLevel}!`,
+    };
+    journal = pushJournal({ ...state, journal }, doneText);
+    alert = doneText;
+  }
+
+  return {
+    ...state,
+    moduleLevels: nextLevels,
+    upgradeQueue: state.upgradeQueue.filter(s => now < s.completesAt),
+    journal,
+    alert: alert ?? state.alert,
+  };
+}
+
 function stabilizeContinuationTick(previous: StarholdState, next: StarholdState): StarholdState {
   if (isDemoChapter(previous)) return next;
   return normalizeContinuationState({
@@ -740,14 +772,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickUpgrades(tickWarRoom({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    })));
+    }))));
   }
 
-  return stabilizeContinuationTick(state, checkStarholdMilestones(applyStarholdEvents(tickWarRoom({
+  return stabilizeContinuationTick(state, checkStarholdMilestones(tickUpgrades(applyStarholdEvents(tickWarRoom({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-  }))));
+  })))));
 }

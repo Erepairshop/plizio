@@ -56,11 +56,38 @@ export const ALL_MODULE_IDS: UpgradableModuleId[] = ["reactor", "logistics", "co
 
 export interface LevelCostEntry {
   cost: MaterialCost;
+  /** Építési idő másodpercben (valós idő, nem tick) */
+  buildSeconds: number;
   /** Előfeltétel: core minimum szintje (core-nál ez nincs) */
   requireCoreLevel?: number;
   /** Egyéb előfeltételek: moduleId → minimális szint */
   requireModules?: Partial<Record<UpgradableModuleId, number>>;
 }
+
+// ── Építési idő konfig ────────────────────────────────────────
+//
+// Core:  lv2 = 1 nap (86400s),  lv25 = 7 nap (604800s)
+// Többi: lv2 = 12 óra (43200s), lv25 = 3.5 nap (302400s)
+// Lineáris interpoláció közöttük
+
+const CORE_BUILD_SECONDS = { min: 86400, max: 604800 };   // 1 nap → 7 nap
+const OTHER_BUILD_SECONDS = { min: 43200, max: 302400 };   // 12 óra → 3.5 nap
+
+function getBuildSeconds(moduleId: UpgradableModuleId, targetLevel: number): number {
+  const range = moduleId === "core" ? CORE_BUILD_SECONDS : OTHER_BUILD_SECONDS;
+  // Lineáris interpoláció: lv2 = min, lv25 = max
+  const t = (targetLevel - 2) / 23; // 0..1
+  return Math.round(range.min + t * (range.max - range.min));
+}
+
+// ── Upgrade slot rendszer ─────────────────────────────────────
+
+export const UPGRADE_SLOT_CONFIG = {
+  /** Alapértelmezett párhuzamos upgrade slotok száma */
+  baseSlots: 1,
+  /** Max slotok (feladatokkal bővíthető) */
+  maxSlots: 5,
+} as const;
 
 // ── Szint költség generátor ───────────────────────────────────
 //
@@ -137,7 +164,10 @@ function generateLevelCost(moduleId: UpgradableModuleId, targetLevel: number): L
     }
   }
 
-  const entry: LevelCostEntry = { cost };
+  const entry: LevelCostEntry = {
+    cost,
+    buildSeconds: getBuildSeconds(moduleId, targetLevel),
+  };
 
   // Core előfeltétel (core-nál nincs, többinél = target level)
   if (moduleId !== "core") {
