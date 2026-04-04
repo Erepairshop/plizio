@@ -52,7 +52,7 @@ export default function EspionagePanel({ state, doAction, onClose, lang }: Espio
   const [now, setNow] = useState(Date.now());
   const [selectedFaction, setSelectedFaction] = useState<FactionId>("korgath");
   const [selectedType, setSelectedType] = useState<EspionageMissionType>("infiltrate");
-  const [deployCount, setDeployCount] = useState(ESPIONAGE_CONFIG.minWraithsPerMission);
+  const [deployCount, setDeployCount] = useState<number>(ESPIONAGE_CONFIG.minWraithsPerMission);
   const [targetActionFaction, setTargetActionFaction] = useState<FactionId>("korgath");
 
   useEffect(() => {

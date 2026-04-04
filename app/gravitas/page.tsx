@@ -45,7 +45,8 @@ import GravitasOverlays from "@/components/gravitas/GravitasOverlays";
 import { WarRoomPanel } from "@/components/gravitas/warroom";
 import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
 import ResearchPanel from "@/components/gravitas/ResearchPanel";
-import { FlaskConical } from "lucide-react";
+import EspionagePanel from "@/components/gravitas/EspionagePanel";
+import { FlaskConical, Eye } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -2068,12 +2069,6 @@ export default function GravitasPage() {
         mods={mods}
         contentVictoryStationLostTitle={content.victory.stationLostTitle}
         contentVictoryTryAgain={localize(content.victory.tryAgain)}
-      />
-
-    </main>
-  );
-}
-e(content.victory.tryAgain)}
       />
 
     </main>
