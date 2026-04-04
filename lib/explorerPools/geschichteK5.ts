@@ -256,8 +256,8 @@ const I1: IslandSpec = {
       interactive: { type: "tap-count", tapCount: { emoji: "⏰", count: 12 }, instruction: L("Zähle die Stunden!") },
       quiz: { 
         question: L("Auf welcher Zahl basierte das sumerische Zeitsystem?"), 
-        choices: ["60", "10", "100", "7"], 
-        answer: "60" 
+        choices: [L("60"), L("10"), L("100"), L("7")],
+        answer: L("60") 
       }
     },
     {
