@@ -10,6 +10,7 @@ interface BattleReportProps {
   intelBefore: number;
   onBackToGalaxy: () => void;
   onRetry: () => void;
+  onReplay?: () => void;
   lang: string;
 }
 
@@ -82,6 +83,7 @@ export default function BattleReport({
   intelBefore,
   onBackToGalaxy,
   onRetry,
+  onReplay,
   lang,
 }: BattleReportProps) {
   const durationSec = (result.durationMs / 1000).toFixed(1);

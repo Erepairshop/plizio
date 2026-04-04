@@ -3,6 +3,7 @@ import { createBattleLoot } from "./rewards";
 import { getEffectiveCombatStats } from "./avatarCombat";
 import { getScaledEnemyStats, getLootMultiplier, getMinimumTroops } from "./worldScaling";
 import { calculateCasualties } from "./casualties";
+import { generateReplayLog } from "./replay";
 import type { Faction } from "./factions";
 import type { BuildingDescriptor } from "./buildingDescriptors";
 import {
@@ -424,7 +425,5 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     intelGained: victory ? 12 : 4,
     casualties,
     replay: generateReplayLog(phases),
-  };
-}
   };
 }
