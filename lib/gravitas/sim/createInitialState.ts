@@ -13,6 +13,7 @@ import { createInitialDilemmaState } from "./dilemma";
 import { createInitialCommanderState } from "./commander";
 import { createInitialEspionageState } from "./espionage/index";
 import { createInitialResearchState } from "./research/index";
+import { createInitialSupplyRouteState } from "./supplyroute/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -279,6 +280,5 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     espionage: createInitialEspionageState(),
     research: createInitialResearchState(["weapons", "shields"]),
     supplyRoutes: createInitialSupplyRouteState(),
-    lastActiveAt: Date.now(),
   };
 }

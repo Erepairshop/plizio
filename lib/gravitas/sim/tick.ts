@@ -26,6 +26,7 @@ import { tickWeeklyMission } from "./weekly/engine";
 import { evaluateProfile, getProfileEffects, PROFILE_DEFS } from "./commander/evaluate";
 import { tickEspionage } from "./espionage/index";
 import { tickResearch } from "./research/engine";
+import { tickSupplyRoutes } from "./supplyroute/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {

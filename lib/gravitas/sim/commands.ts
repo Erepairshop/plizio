@@ -27,6 +27,7 @@ import { deploySpies, extractSpies, spendIntel } from "./espionage/index";
 import { startResearch, cancelResearch } from "./research/engine";
 import { acceptTrade, rejectTrade } from "./trade/engine";
 import { deployWeeklyUnits } from "./weekly/engine";
+import { establishRoute, abandonRoute } from "./supplyroute/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
