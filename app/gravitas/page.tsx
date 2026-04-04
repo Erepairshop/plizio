@@ -44,6 +44,8 @@ import {
 import GravitasOverlays from "@/components/gravitas/GravitasOverlays";
 import { WarRoomPanel } from "@/components/gravitas/warroom";
 import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
+import ResearchPanel from "@/components/gravitas/ResearchPanel";
+import { FlaskConical } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
@@ -1906,6 +1908,17 @@ export default function GravitasPage() {
                   <WarRoomPanel state={state} dispatch={dispatch} lang={lang} />
                   <ModuleInteriorPanel moduleId="warroom" state={state} dispatch={dispatch} lang={lang} accentColor="red" />
                 </div>
+              </motion.div>
+            )}
+            {interiorView === "research" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <ResearchPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
           </AnimatePresence>
