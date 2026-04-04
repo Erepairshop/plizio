@@ -286,6 +286,7 @@ export interface StarholdState {
   dilemmaSystem: import("./dilemma/types").DilemmaSystemState;
   /** Adaptive commander profile system */
   commander: import("./commander/types").CommanderState;
+  tradeSystem: import("./trade/types").TradeSystemState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -335,4 +336,3 @@ export type StarholdCommand =
   | { type: "RESOLVE_DILEMMA"; optionId: string }
   | { type: "ACCEPT_TRADE"; offerId: string }
   | { type: "REJECT_TRADE"; offerId: string };
-string };

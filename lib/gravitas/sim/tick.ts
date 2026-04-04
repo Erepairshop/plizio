@@ -21,6 +21,7 @@ import { evaluateSynergies } from "./synergy/evaluate";
 import { SYNERGY_MAP } from "./synergy/registry";
 import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "./galaxy/cycles";
 import { tickDilemmaEffects, tickDilemmaSpawn } from "./dilemma/engine";
+import { tickTradeSystem } from "./trade/engine";
 import { evaluateProfile, getProfileEffects, PROFILE_DEFS } from "./commander/evaluate";
 
 /** Manage dynamic galaxy phases */

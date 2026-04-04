@@ -154,6 +154,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       galaxyCycle: createInitialGalaxyCycle(),
       dilemmaSystem: createInitialDilemmaState(),
       commander: createInitialCommanderState(),
+      tradeSystem: { offers: [], lastRefreshAt: Date.now() },
       lastActiveAt: Date.now(),
     });
   }
@@ -269,5 +270,4 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     tradeSystem: { offers: [], lastRefreshAt: Date.now() },
     commander: createInitialCommanderState(),
   };
-}
 }
