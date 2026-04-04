@@ -2490,7 +2490,7 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
         initial={{ opacity: 0, scale: 0.75, y: 12 }}
         animate={{ opacity: 1, scale: 1, y: 0 }}
         transition={{ duration: 0.4, ease: "easeOut" }}
-        className="absolute bottom-3 left-3 z-10 flex h-24 w-24 items-center justify-center overflow-hidden rounded-[28px] border border-white/12 pointer-events-none select-none shadow-[0_10px_30px_rgba(0,0,0,0.35)]"
+        className="absolute top-2 right-2 z-10 flex h-20 w-20 items-center justify-center overflow-hidden rounded-[28px] border border-white/12 pointer-events-none select-none shadow-[0_10px_30px_rgba(0,0,0,0.35)]"
         style={{
           background:
             "radial-gradient(circle at 30% 30%, rgba(255,255,255,0.18), rgba(255,255,255,0.08) 36%, rgba(8,10,24,0.94) 100%)",
