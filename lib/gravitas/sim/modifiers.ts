@@ -13,6 +13,10 @@ export interface StarholdModifiers {
   moduleCoolant: boolean;
   resonanceAmplifier: boolean;
   voidLens: boolean;
+  /** Synergy system effects (merged) */
+  synergy: import("./synergy/types").SynergyEffects;
+  /** Galaxy cycle effects */
+  cycle: import("./galaxy/cycles").CycleEffects;
 }
 
 export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
@@ -43,6 +47,8 @@ export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
     moduleCoolant: state.progression.unlockedItems.includes("module_coolant"),
     resonanceAmplifier: state.progression.unlockedItems.includes("resonance_amplifier"),
     voidLens: state.progression.unlockedItems.includes("void_lens"),
+    synergy: state.synergies.combined,
+    cycle: import("./galaxy/cycles").getCycleEffects(state.galaxyCycle.currentPhase),
   };
 }
 

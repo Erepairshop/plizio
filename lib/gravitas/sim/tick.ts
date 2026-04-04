@@ -17,6 +17,73 @@ import { tickRepairBay, getRepairSlotCount } from "./repairbay";
 import { applyStarholdCommand } from "./commands";
 import { getWorldLevelDelay, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
 import { applyNaturalDrift } from "./faction/reputation";
+import { evaluateSynergies } from "./synergy/evaluate";
+import { SYNERGY_MAP } from "./synergy/registry";
+import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "./galaxy/cycles";
+
+/** Manage dynamic galaxy phases */
+function tickGalaxyCycle(state: StarholdState): StarholdState {
+  const now = Date.now();
+  let nextState = state;
+
+  // 1. Check for phase transition
+  if (now >= state.galaxyCycle.phaseEndsAt) {
+    const nextCycle = advanceCyclePhase(state.galaxyCycle);
+    const nextPhase = nextCycle.currentPhase;
+    const phaseName = CYCLE_PHASE_NAMES[nextPhase];
+
+    const transitionAlert: LocalizedString = {
+      en: `The galaxy has entered the ${phaseName.en} phase.`,
+      hu: `A galaxis belépett a ${phaseName.hu} fázisba.`,
+      de: `Die Galaxie ist in die ${phaseName.de}-Phase eingetreten.`,
+      ro: `Galaxia a intrat în faza ${phaseName.ro}.`,
+    };
+
+    // Add phase-specific warning hints
+    let hint: LocalizedString | null = null;
+    if (nextPhase === "storm") {
+      hint = {
+        en: "Be careful with mining! Drone reliability is reduced.",
+        hu: "Légy óvatos a bányászattal! A drónok megbízhatósága csökkent.",
+        de: "Vorsicht beim Bergbau! Die Zuverlässigkeit der Drohnen ist verringert.",
+        ro: "Atenție la minerit! Fiabilitatea dronelor este redusă.",
+      };
+    } else if (nextPhase === "war") {
+      hint = {
+        en: "Faction tensions are peaking. Expect frequent raids.",
+        hu: "A frakciók közötti feszültség a tetőfokára hágott. Gyakori portyákra számíts.",
+        de: "Die Spannungen zwischen den Fraktionen nehmen zu. Erwarte häufige Überfälle.",
+        ro: "Tensiunile dintre fracțiuni ating cote maxime. Așteaptă-te la raiduri frecvente.",
+      };
+    }
+
+    nextState = {
+      ...state,
+      galaxyCycle: nextCycle,
+      alert: transitionAlert,
+      journal: pushJournal(state, transitionAlert),
+    };
+
+    if (hint) {
+      nextState.journal = pushJournal(nextState, hint);
+    }
+  }
+
+  // 2. Apply passive effects (e.g., Hull drain in Storm)
+  const effects = getCycleEffects(nextState.galaxyCycle.currentPhase);
+  if (effects.hullDrainPerTick > 0 && nextState.resources.shield < 30) {
+    const nextHull = Math.max(0, nextState.resources.hull - effects.hullDrainPerTick);
+    nextState = {
+      ...nextState,
+      resources: {
+        ...nextState.resources,
+        hull: nextHull,
+      }
+    };
+  }
+
+  return nextState;
+}
 
 /** Check if world level should increase based on core level and time */
 function tickFactionReputation(state: StarholdState): StarholdState {
@@ -120,6 +187,29 @@ function tickUpgrades(state: StarholdState): StarholdState {
     alert = doneText;
   }
 
+  // Synergy evaluation after upgrade completion
+  let synergies = state.synergies;
+  const newSynergies = evaluateSynergies(nextLevels, state.tick);
+  
+  // Check for newly activated synergies
+  const added = newSynergies.active.filter(id => !state.synergies.active.includes(id));
+  if (added.length > 0) {
+    synergies = newSynergies;
+    for (const synId of added) {
+      const def = SYNERGY_MAP[synId];
+      if (def) {
+        const discoverText: LocalizedString = {
+          en: `Synergy discovered: "${def.name.en}" — ${def.description.en}`,
+          hu: `Szinergia felfedezve: "${def.name.hu}" — ${def.description.hu}`,
+          de: `Synergie entdeckt: "${def.name.de}" — ${def.description.de}`,
+          ro: `Sinergie descoperită: "${def.name.ro}" — ${def.description.ro}`,
+        };
+        journal = pushJournal({ ...state, journal }, discoverText);
+        alert = discoverText; // Show the latest discovery
+      }
+    }
+  }
+
   return {
     ...state,
     moduleLevels: nextLevels,
@@ -127,6 +217,7 @@ function tickUpgrades(state: StarholdState): StarholdState {
     upgradeQueue: state.upgradeQueue.filter(s => now < s.completesAt),
     journal,
     alert: alert ?? state.alert,
+    synergies,
   };
 }
 
@@ -740,15 +831,26 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   // Level-gap effects
   const levels = state.moduleLevels;
   const coreLevel = levels.core;
+  const syn = state.synergies.combined;
 
   // Hull max = 20 base + core * 3.2 (lv1=23, lv10=52, lv25=100)
-  const hullMax = Math.min(100, 20 + coreLevel * 3.2);
+  const hullMax = Math.min(100, 20 + coreLevel * 3.2 + (syn.hullMaxBonus ?? 0));
   if (nextHull > hullMax) nextHull = Math.max(hullMax, nextHull - 0.5);
 
   // Shield = 15 base + warroom * 3.4 (lv1=18, lv10=49, lv25=100)
   const warLevel = levels.warroom;
-  const shieldMax = Math.min(100, 15 + warLevel * 3.4);
-  if (state.warRoom.online && nextShield < shieldMax) nextShield = Math.min(shieldMax, nextShield + 0.5);
+  const shieldMax = Math.min(100, 15 + warLevel * 3.4 + (syn.shieldMaxBonus ?? 0));
+  if (state.warRoom.online && nextShield < shieldMax) {
+    const shieldRegen = 0.5 * (1 + (syn.shieldRegenBonus ?? 0));
+    nextShield = Math.min(shieldMax, nextShield + shieldRegen);
+  }
+
+  // Global resource regen bonus
+  if (syn.resourceRegenBonus) {
+    const regen = syn.resourceRegenBonus;
+    if (reactorBoost > 0) nextPower += reactorBoost * regen;
+    if (sensorStability > 0) nextStability += sensorStability * regen;
+  }
 
   // Morale = module balance
   let moralePenalty = 0;
@@ -908,14 +1010,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickGalaxyCycle(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    })))))));
+    })))))))));
     }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickGalaxyCycle(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    }))))))));
-}
+    }))))))))));
+    }

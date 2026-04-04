@@ -93,9 +93,13 @@ export function getBatchTrainingCost(unitId: WarRoomUnitId, level: number): Part
   return cost;
 }
 
-export function getBatchUpgradeCost(unitId: WarRoomUnitId, targetLevel: number): Partial<Record<GalaxyMaterialId, number>> {
+export function getBatchUpgradeCost(unitId: WarRoomUnitId, targetLevel: number, state?: StarholdState): Partial<Record<GalaxyMaterialId, number>> {
   const full = getBatchTrainingCost(unitId, targetLevel);
-  return scaleByRatio(full, WARROOM_PRODUCTION_CONFIG.upgradeCostRatio);
+  let ratio = WARROOM_PRODUCTION_CONFIG.upgradeCostRatio;
+  if (state?.synergies?.combined?.upgradeCostReduction) {
+    ratio *= (1 - state.synergies.combined.upgradeCostReduction);
+  }
+  return scaleByRatio(full, ratio);
 }
 
 export function getProductionDuration(_unitId: WarRoomUnitId, warroomLevel: number, isUpgrade: boolean): number {
@@ -125,7 +129,7 @@ export function canUpgradeUnit(state: StarholdState, unitId: WarRoomUnitId, from
   const entries = state.warRoom.garrison[unitId] ?? [];
   if (getLevelCount(entries, fromLevel) <= 0) return false;
   const inventory = loadSavedGalaxyInventory();
-  return canAfford(inventory, getBatchUpgradeCost(unitId, targetLevel));
+  return canAfford(inventory, getBatchUpgradeCost(unitId, targetLevel, state));
 }
 
 export function startTraining(state: StarholdState, unitId: WarRoomUnitId, level: number): StarholdState {
@@ -175,7 +179,7 @@ export function startUpgrade(state: StarholdState, unitId: WarRoomUnitId, fromLe
   const entries = state.warRoom.garrison[unitId] ?? [];
   const available = getLevelCount(entries, fromLevel);
   const reserve = Math.max(1, Math.min(count, available));
-  const cost = getBatchUpgradeCost(unitId, targetLevel);
+  const cost = getBatchUpgradeCost(unitId, targetLevel, state);
   const duration = getProductionDuration(unitId, state.warRoom.level, true);
   const inventory = loadSavedGalaxyInventory();
   if (!canAfford(inventory, cost)) return state;

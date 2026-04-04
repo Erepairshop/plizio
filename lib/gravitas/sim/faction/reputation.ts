@@ -38,13 +38,23 @@ export function getRaidStrengthMultiplier(tier: ReputationTier): number {
   return 1.0;
 }
 
+import { getCycleEffects } from "../galaxy/cycles";
+
 /** Trade price modifier based on reputation tier */
-export function getTradeModifier(tier: ReputationTier): number {
+export function getTradeModifier(tier: ReputationTier, state?: import("../types").StarholdState): number {
   const { effects } = FACTION_REPUTATION_CONFIG;
-  if (tier === "tense") return 1 + effects.tenseTradeMarkup;
-  if (tier === "friendly") return 1 - effects.friendlyTradeDiscount;
-  if (tier === "allied") return 1 - effects.alliedTradeDiscount;
-  return 1.0;
+  let mod = 1.0;
+  if (tier === "tense") mod = 1 + effects.tenseTradeMarkup;
+  if (tier === "friendly") mod = 1 - effects.friendlyTradeDiscount;
+  if (tier === "allied") mod = 1 - effects.alliedTradeDiscount;
+
+  if (state?.galaxyCycle) {
+    const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
+    if (cycleEffects.tradeDiscount) {
+      mod *= (1 - cycleEffects.tradeDiscount);
+    }
+  }
+  return mod;
 }
 
 /** 
@@ -55,17 +65,28 @@ export function applyReputationChange(
   current: Record<FactionId, number>,
   targetFaction: FactionId,
   delta: number,
-  reason: ReputationChangeReason
+  reason: ReputationChangeReason,
+  state?: import("../types").StarholdState
 ): Record<FactionId, number> {
   const next = { ...current };
   
+  let finalDelta = delta;
+  if (state?.galaxyCycle) {
+    const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
+    finalDelta *= cycleEffects.reputationMod;
+  }
+
   // Primary change
-  next[targetFaction] = Math.max(-100, Math.min(100, next[targetFaction] + delta));
+  next[targetFaction] = Math.max(-100, Math.min(100, next[targetFaction] + finalDelta));
 
   // Spillover effects for battle
   if (reason === "battle_victory" || reason === "battle_defeat") {
     const relations = getFactionRelations(targetFaction);
-    const spilloverDelta = FACTION_REPUTATION_CONFIG.changes.enemyDefeated;
+    let spilloverDelta = FACTION_REPUTATION_CONFIG.changes.enemyDefeated;
+    if (state?.galaxyCycle) {
+      const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
+      spilloverDelta *= cycleEffects.reputationMod;
+    }
     
     // Faction's enemies like that you attacked them
     relations.enemies.forEach(enemyId => {

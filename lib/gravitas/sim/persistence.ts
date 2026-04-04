@@ -5,6 +5,8 @@ import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { createInitialRepairBay } from "./repairbay";
 import { createInitialFactionReputation } from "./faction";
+import { createInitialSynergies } from "./synergy";
+import { createInitialGalaxyCycle } from "./galaxy";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -374,6 +376,8 @@ export function loadGravitasState(): StarholdState | null {
       },
       upgradeQueue: parsed.upgradeQueue ?? [],
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
+      synergies: parsed.synergies ?? createInitialSynergies(),
+      galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

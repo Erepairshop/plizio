@@ -7,6 +7,8 @@ import { normalizeContinuationState } from "./continuation";
 import { createInitialWarRoom } from "./warroom";
 import { createInitialRepairBay } from "./repairbay";
 import { createInitialFactionReputation } from "./faction";
+import { createInitialSynergies } from "./synergy";
+import { createInitialGalaxyCycle } from "./galaxy";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -146,6 +148,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1, repairbay: 1 },
       upgradeQueue: [],
       upgradeSlotCount: 1,
+      synergies: createInitialSynergies(),
+      galaxyCycle: createInitialGalaxyCycle(),
     });
   }
 
@@ -253,5 +257,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     moduleLevels: { reactor: 1, logistics: 1, core: 1, sensor: 1, warroom: 1, repairbay: 1 },
     upgradeQueue: [],
     upgradeSlotCount: 1,
+    synergies: createInitialSynergies(),
+    galaxyCycle: createInitialGalaxyCycle(),
   };
 }

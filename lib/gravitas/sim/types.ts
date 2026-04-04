@@ -277,6 +277,10 @@ export interface StarholdState {
   upgradeQueue: ModuleUpgradeSlot[];
   /** How many parallel upgrade slots (default 1, unlockable) */
   upgradeSlotCount: number;
+  /** Synergy system state */
+  synergies: import("./synergy/types").ActiveSynergies;
+  /** Dynamic galaxy cycles/seasons */
+  galaxyCycle: import("./galaxy/types").GalaxyCycleState;
 }
 
 export interface ModuleUpgradeSlot {

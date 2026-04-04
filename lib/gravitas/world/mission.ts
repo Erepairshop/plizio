@@ -27,6 +27,7 @@ export type DroneMissionState = {
   returnCompleteAt?: number;
   returnStartPosition?: GalaxyWorldPosition;
   committedUnits?: number;
+  failed?: boolean;
 };
 
 const DRONE_MISSION_STORAGE_KEY_V1 = "gravitas_galaxy_drone_mission_v1";
@@ -130,6 +131,8 @@ export function migrateDroneMissionV1toV2(): void {
 
 // === Mission Management ===
 
+import { getCycleEffects } from "../sim/galaxy/cycles";
+
 export function startDroneMission(
   missions: DroneMissionState[],
   droneIndex: number,
@@ -137,12 +140,21 @@ export function startDroneMission(
   materialId: GalaxyMaterialId,
   travelDurationMinutes: number,
   miningDurationMinutes: number,
-  targetYieldUnits: number
+  targetYieldUnits: number,
+  state?: import("../sim/types").StarholdState
 ): DroneMissionState[] {
   const startedAt = Date.now();
   const arrivalAt = startedAt + travelDurationMinutes * 60_000;
   const miningCompleteAt = arrivalAt + miningDurationMinutes * 60_000;
   
+  let failed = false;
+  if (state?.galaxyCycle) {
+    const effects = getCycleEffects(state.galaxyCycle.currentPhase);
+    if (effects.miningFailChance && Math.random() < effects.miningFailChance) {
+      failed = true;
+    }
+  }
+
   const newMission: DroneMissionState = {
     id: `mission-${targetNodeId}-${startedAt}`,
     droneIndex,
@@ -155,6 +167,7 @@ export function startDroneMission(
     travelDurationMinutes,
     miningDurationMinutes,
     targetYieldUnits,
+    failed,
   };
 
   const nextMissions = missions.filter(m => m.droneIndex !== droneIndex);
@@ -170,7 +183,7 @@ export function completeDroneMission(
   if (!mission) return { updatedMissions: missions, gatheredMaterial: null, gatheredAmount: 0 };
 
   const gatheredMaterial = mission.materialId;
-  const gatheredAmount = mission.committedUnits ?? 0;
+  const gatheredAmount = mission.failed ? 0 : (mission.committedUnits ?? 0);
 
   const nextMissions = missions.filter(m => m.droneIndex !== droneIndex);
   return { updatedMissions: nextMissions, gatheredMaterial, gatheredAmount };

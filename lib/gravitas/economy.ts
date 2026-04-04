@@ -358,6 +358,15 @@ export const FACTION_REPUTATION_CONFIG = {
   },
 } as const;
 
+export const GALAXY_CYCLE_CONFIG = {
+  phaseDurations: {
+    calm: 14 * 24 * 60 * 60 * 1000,    // 14 nap
+    storm: 7 * 24 * 60 * 60 * 1000,    // 7 nap
+    war: 7 * 24 * 60 * 60 * 1000,      // 7 nap
+    trade: 7 * 24 * 60 * 60 * 1000,    // 7 nap
+  },
+} as const;
+
 // ── Veszélyzóna ellenőrzés ────────────────────────────────────
 
 export function isModuleInDanger(

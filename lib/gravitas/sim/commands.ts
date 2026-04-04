@@ -801,6 +801,26 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
         false,
       );
 
+      // Synergy effects on casualties
+      const syn = state.synergies.combined;
+      if (syn.casualtyReduction) {
+        Object.keys(computedCasualties.killed).forEach(k => {
+          const unitId = k as import("./warroom/types").WarRoomUnitId;
+          computedCasualties.killed[unitId] = Math.floor((computedCasualties.killed[unitId] || 0) * (1 - syn.casualtyReduction!));
+        });
+        Object.keys(computedCasualties.wounded).forEach(k => {
+          const unitId = k as import("./warroom/types").WarRoomUnitId;
+          computedCasualties.wounded[unitId] = Math.floor((computedCasualties.wounded[unitId] || 0) * (1 - syn.casualtyReduction!));
+        });
+      }
+      if (result.victory && syn.instantHealRatio) {
+        Object.keys(computedCasualties.wounded).forEach(k => {
+          const unitId = k as import("./warroom/types").WarRoomUnitId;
+          const healCount = Math.floor((computedCasualties.wounded[unitId] || 0) * syn.instantHealRatio!);
+          computedCasualties.wounded[unitId] = Math.max(0, (computedCasualties.wounded[unitId] || 0) - healCount);
+        });
+      }
+
       const updatedGarrison = { ...state.warRoom.garrison };
       const updatedWounded = { ...state.repairBay.wounded };
       let movedWounded = 0;
@@ -849,7 +869,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
           nextReputation,
           enemyFactionId,
           result.victory ? FACTION_REPUTATION_CONFIG.changes.battleVictory : -2, // less penalty for losing, but still some
-          result.victory ? "battle_victory" : "battle_defeat"
+          result.victory ? "battle_victory" : "battle_defeat",
+          state
         );
       }
 

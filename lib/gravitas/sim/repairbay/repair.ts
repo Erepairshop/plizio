@@ -79,13 +79,23 @@ export function getRepairBatchSize(repairLevel: number): number {
   return Math.max(10, Math.floor(Math.max(1, repairLevel) * 4 + 6));
 }
 
-export function getRepairDuration(_repairLevel: number, warroomLevel: number): number {
+export function getRepairDuration(_repairLevel: number, warroomLevel: number, state?: StarholdState): number {
   const reduction = clamp(
     Math.max(0, warroomLevel) * REPAIR_BAY_CONFIG.warroomSpeedBonus,
     0,
     REPAIR_BAY_CONFIG.maxWarroomSpeedBonus,
   );
-  return Math.max(1, Math.round(REPAIR_BAY_CONFIG.baseRepairTicks * (1 - reduction)));
+  let baseTicks = REPAIR_BAY_CONFIG.baseRepairTicks;
+  if (state?.synergies?.combined?.repairTimeReduction) {
+    baseTicks *= (1 - state.synergies.combined.repairTimeReduction);
+  }
+  if (state?.galaxyCycle) {
+    const cycleEffects = import("../galaxy/cycles").getCycleEffects(state.galaxyCycle.currentPhase);
+    if (cycleEffects.repairSpeedBonus) {
+      baseTicks /= (1 + cycleEffects.repairSpeedBonus);
+    }
+  }
+  return Math.max(1, Math.round(baseTicks * (1 - reduction)));
 }
 
 export function getRepairCostPerUnit(
@@ -93,12 +103,16 @@ export function getRepairCostPerUnit(
   unitLevel: number,
   repairLevel: number,
   logisticsLevel: number,
+  state?: StarholdState,
 ): Partial<Record<GalaxyMaterialId, number>> {
   const trainingCost = getBatchTrainingCost(unitId, unitLevel);
   const costRatioSpan = REPAIR_BAY_CONFIG.baseCostRatio - REPAIR_BAY_CONFIG.minCostRatio;
   const levelRatio = REPAIR_BAY_CONFIG.baseCostRatio - (Math.max(1, repairLevel) - 1) * (costRatioSpan / 24);
   const logisticsReduction = Math.max(0, logisticsLevel) * REPAIR_BAY_CONFIG.logisticsCostReduction;
-  const ratio = Math.max(0.01, levelRatio - logisticsReduction);
+  let ratio = Math.max(0.01, levelRatio - logisticsReduction);
+  if (state?.synergies?.combined?.repairCostReduction) {
+    ratio *= (1 - state.synergies.combined.repairCostReduction);
+  }
   const canonicalBatchSize = Math.max(1, WARROOM_PRODUCTION_CONFIG.batchBaseSizePerLevel);
 
   const perUnit: Partial<Record<GalaxyMaterialId, number>> = {};
@@ -117,8 +131,9 @@ export function getRepairBatchCost(
   count: number,
   repairLevel: number,
   logisticsLevel: number,
+  state?: StarholdState,
 ): Partial<Record<GalaxyMaterialId, number>> {
-  const perUnit = getRepairCostPerUnit(unitId, unitLevel, repairLevel, logisticsLevel);
+  const perUnit = getRepairCostPerUnit(unitId, unitLevel, repairLevel, logisticsLevel, state);
   const total: Partial<Record<GalaxyMaterialId, number>> = {};
   Object.entries(perUnit).forEach(([materialId, amount]) => {
     if (!amount) return;
@@ -204,6 +219,7 @@ export function canStartRepair(
     count,
     state.repairBay.level,
     state.moduleLevels.logistics,
+    state,
   );
   return canAfford(cost);
 }
@@ -219,8 +235,8 @@ export function startRepair(
   const slotIndex = state.repairBay.repairSlots.findIndex((slot) => slot === null);
   if (slotIndex < 0) return state;
 
-  const duration = getRepairDuration(state.repairBay.level, state.moduleLevels.warroom);
-  const cost = getRepairBatchCost(unitId, unitLevel, count, state.repairBay.level, state.moduleLevels.logistics);
+  const duration = getRepairDuration(state.repairBay.level, state.moduleLevels.warroom, state);
+  const cost = getRepairBatchCost(unitId, unitLevel, count, state.repairBay.level, state.moduleLevels.logistics, state);
   applyInventoryDelta(cost, -1);
 
   const slot = {
@@ -269,6 +285,7 @@ export function cancelRepair(state: StarholdState, slotIndex: number): StarholdS
     slot.batchSize,
     state.repairBay.level,
     state.moduleLevels.logistics,
+    state,
   );
   const refund = scaleCost(paid, REPAIR_BAY_CONFIG.cancelRefundRatio);
   applyInventoryDelta(refund, 1);
