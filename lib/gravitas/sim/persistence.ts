@@ -112,31 +112,36 @@ export function loadGravitasState(): StarholdState | null {
       ...parsed.threat,
     };
 
+    // Legacy migration: only apply if countdown looks like old 90-tick format
+    // The new initial state uses 86400 (24h) — don't overwrite that
     if ((parsed.chapter ?? (parsed.avatarAwake ? "continuation" : "demo")) === "demo" && !parsed.avatarAwake && parsed.threat.aftershock === 0) {
-      if ((parsed.threatCycle ?? 0) === 0 && parsed.tick < 90) {
-        migratedThreat = {
-          ...migratedThreat,
-          type: "distortionWave",
-          countdown: Math.max(1, 90 - parsed.tick),
-          totalDuration: 90,
-          intensity: 1,
-        };
-      } else if ((parsed.threatCycle ?? 0) === 1 && parsed.tick < 135) {
-        migratedThreat = {
-          ...migratedThreat,
-          type: "distortionWave",
-          countdown: Math.max(1, 135 - parsed.tick),
-          totalDuration: 45,
-          intensity: Math.max(1, migratedThreat.intensity ?? 1),
-        };
-      } else if ((parsed.threatCycle ?? 0) === 2 && parsed.tick < 180) {
-        migratedThreat = {
-          ...migratedThreat,
-          type: "distortionWave",
-          countdown: Math.max(1, 180 - parsed.tick),
-          totalDuration: 45,
-          intensity: Math.max(1, migratedThreat.intensity ?? 1),
-        };
+      const isLegacySave = parsed.threat.totalDuration <= 180;
+      if (isLegacySave) {
+        if ((parsed.threatCycle ?? 0) === 0 && parsed.tick < 90) {
+          migratedThreat = {
+            ...migratedThreat,
+            type: "distortionWave",
+            countdown: Math.max(1, 90 - parsed.tick),
+            totalDuration: 90,
+            intensity: 1,
+          };
+        } else if ((parsed.threatCycle ?? 0) === 1 && parsed.tick < 135) {
+          migratedThreat = {
+            ...migratedThreat,
+            type: "distortionWave",
+            countdown: Math.max(1, 135 - parsed.tick),
+            totalDuration: 45,
+            intensity: Math.max(1, migratedThreat.intensity ?? 1),
+          };
+        } else if ((parsed.threatCycle ?? 0) === 2 && parsed.tick < 180) {
+          migratedThreat = {
+            ...migratedThreat,
+            type: "distortionWave",
+            countdown: Math.max(1, 180 - parsed.tick),
+            totalDuration: 45,
+            intensity: Math.max(1, migratedThreat.intensity ?? 1),
+          };
+        }
       }
     }
 
