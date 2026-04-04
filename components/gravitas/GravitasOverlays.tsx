@@ -331,6 +331,19 @@ export default function GravitasOverlays(props: Props) {
       </AnimatePresence>
 
       <AnimatePresence>
+        {state.dilemmaSystem?.activeDilemma && (
+          <DilemmaCard 
+            dilemma={state.dilemmaSystem.activeDilemma.event} 
+            onResolve={(idx) => {
+              const optionId = state.dilemmaSystem.activeDilemma!.event.options[idx].id;
+              doAction({ type: "RESOLVE_DILEMMA", optionId }, "rgba(251,191,36,0.2)");
+            }} 
+            lang={lang} 
+          />
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
         {state.pendingEvent && (
           <motion.div initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 18 }} className="pointer-events-none fixed inset-x-0 bottom-[104px] z-[100] px-3 lg:inset-x-auto lg:bottom-6 lg:right-6 lg:px-0">
             <div className={`pointer-events-auto mx-auto w-full max-w-md rounded-[26px] p-4 shadow-[0_20px_60px_rgba(0,0,0,0.45)] backdrop-blur-xl lg:mx-0 lg:w-[380px] ${state.pendingEvent.id === "avatarPreparation" ? "border border-fuchsia-400/30 bg-[#130815]/96" : "border border-amber-400/30 bg-[#151005]/96"}`}>
