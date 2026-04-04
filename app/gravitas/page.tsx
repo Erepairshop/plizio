@@ -247,8 +247,26 @@ export default function GravitasPage() {
   }, []);
 
   useEffect(() => {
-    const saved = loadGravitasState();
+    let saved = loadGravitasState();
     if (saved) {
+      const now = Date.now();
+      if (saved.lastActiveAt && now - saved.lastActiveAt > 5 * 60 * 1000) {
+        const { state: updatedState, report } = processOfflineProgress(saved);
+        saved = updatedState;
+        
+        const hasEvents =
+          report.completedTraining.length > 0 ||
+          report.completedRepairs.length > 0 ||
+          report.completedUpgrades.length > 0 ||
+          report.decayedWounded > 0 ||
+          report.phaseChanges.length > 0 ||
+          report.completedMissions > 0;
+          
+        if (hasEvents) {
+          setOfflineReport(report);
+        }
+      }
+
       awakeningShownRef.current = saved.avatarAwake;
       prevAvatarAwakeRef.current = saved.avatarAwake;
       setShowAwakening(false);
@@ -1945,6 +1963,27 @@ export default function GravitasPage() {
                 <TradePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
+            {interiorView === "repairbay" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <RepairBayPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          <AnimatePresence>
+            {offlineReport && (
+              <OfflineProgressPopup 
+                report={offlineReport} 
+                onDismiss={() => setOfflineReport(null)} 
+                lang={lang} 
+              />
+            )}
           </AnimatePresence>
 
           <div className="absolute right-3 top-16 z-[32] flex flex-col gap-2">
@@ -2097,6 +2136,20 @@ export default function GravitasPage() {
   );
 }
 ileActions={prioritizedMobileActions}
+        hiddenUrgentActions={hiddenUrgentActions}
+        actionFeedback={actionFeedback}
+        localize={localize}
+        doAction={doAction}
+        restartGravitasChapter={restartGravitasChapter}
+        mods={mods}
+        contentVictoryStationLostTitle={content.victory.stationLostTitle}
+        contentVictoryTryAgain={localize(content.victory.tryAgain)}
+      />
+
+    </main>
+  );
+}
+obileActions}
         hiddenUrgentActions={hiddenUrgentActions}
         actionFeedback={actionFeedback}
         localize={localize}
