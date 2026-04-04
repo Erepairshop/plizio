@@ -21,6 +21,7 @@ import { calculateCasualties } from "./battle/casualties";
 import { applyReputationChange } from "./faction/reputation";
 import { FACTION_REPUTATION_CONFIG } from "../economy";
 import { GALAXY_DEMO_NODES } from "../world/demo";
+import { resolveDilemma } from "./dilemma/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -1004,6 +1005,9 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "UPGRADE_MODULE": {
       return handleUpgradeModule(state, command.moduleId);
+    }
+    case "RESOLVE_DILEMMA": {
+      return resolveDilemma(state, command.optionId);
     }
     default:
       return checkStarholdMilestones(state);

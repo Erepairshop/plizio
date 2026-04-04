@@ -50,6 +50,8 @@ export interface ActiveSynergies {
   active: SynergyId[];
   /** Merged effects from all active synergies */
   combined: SynergyEffects;
+  /** Permanent bonuses from events/dilemmas */
+  permanentDroneSpeedBoost?: number;
   /** Last evaluation tick */
   lastEvaluatedTick: number;
 }

@@ -9,6 +9,7 @@ import { createInitialRepairBay } from "./repairbay";
 import { createInitialFactionReputation } from "./faction";
 import { createInitialSynergies } from "./synergy";
 import { createInitialGalaxyCycle } from "./galaxy";
+import { createInitialDilemmaState } from "./dilemma";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -150,6 +151,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       upgradeSlotCount: 1,
       synergies: createInitialSynergies(),
       galaxyCycle: createInitialGalaxyCycle(),
+      dilemmaSystem: createInitialDilemmaState(),
     });
   }
 
@@ -259,5 +261,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     upgradeSlotCount: 1,
     synergies: createInitialSynergies(),
     galaxyCycle: createInitialGalaxyCycle(),
+    dilemmaSystem: createInitialDilemmaState(),
   };
 }

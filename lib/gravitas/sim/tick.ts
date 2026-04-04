@@ -20,6 +20,7 @@ import { applyNaturalDrift } from "./faction/reputation";
 import { evaluateSynergies } from "./synergy/evaluate";
 import { SYNERGY_MAP } from "./synergy/registry";
 import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "./galaxy/cycles";
+import { tickDilemmaEffects, tickDilemmaSpawn } from "./dilemma/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -1013,16 +1014,20 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     return stabilizeContinuationTick(
       state,
       checkStarholdMilestones(
-        tickGalaxyCycle(
-          tickFactionReputation(
-            tickWorldLevel(
-              tickBattle(
-                tickUpgrades(
-                  tickRepairBay(
-                    tickWarroomProduction({
-                      ...threatResult.nextState,
-                      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                    }),
+        tickDilemmaSpawn(
+          tickDilemmaEffects(
+            tickGalaxyCycle(
+              tickFactionReputation(
+                tickWorldLevel(
+                  tickBattle(
+                    tickUpgrades(
+                      tickRepairBay(
+                        tickWarroomProduction({
+                          ...threatResult.nextState,
+                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                        }),
+                      ),
+                    ),
                   ),
                 ),
               ),
@@ -1036,17 +1041,21 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   return stabilizeContinuationTick(
     state,
     checkStarholdMilestones(
-      tickGalaxyCycle(
-        tickFactionReputation(
-          tickWorldLevel(
-            tickBattle(
-              tickUpgrades(
-                tickRepairBay(
-                  applyStarholdEvents(
-                    tickWarroomProduction({
-                      ...threatResult.nextState,
-                      waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                    }),
+      tickDilemmaSpawn(
+        tickDilemmaEffects(
+          tickGalaxyCycle(
+            tickFactionReputation(
+              tickWorldLevel(
+                tickBattle(
+                  tickUpgrades(
+                    tickRepairBay(
+                      applyStarholdEvents(
+                        tickWarroomProduction({
+                          ...threatResult.nextState,
+                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                        }),
+                      ),
+                    ),
                   ),
                 ),
               ),

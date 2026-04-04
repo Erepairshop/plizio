@@ -281,6 +281,8 @@ export interface StarholdState {
   synergies: import("./synergy/types").ActiveSynergies;
   /** Dynamic galaxy cycles/seasons */
   galaxyCycle: import("./galaxy/types").GalaxyCycleState;
+  /** Moral dilemma and narrative event system */
+  dilemmaSystem: import("./dilemma/types").DilemmaSystemState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -326,4 +328,5 @@ export type StarholdCommand =
   | { type: "CANCEL_TRAINING"; unitId: import("./warroom/types").WarRoomUnitId }
   | { type: "START_REPAIR"; unitId: import("./warroom/types").WarRoomUnitId; unitLevel: number; count: number }
   | { type: "CANCEL_REPAIR"; slotIndex: number }
-  | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId };
+  | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId }
+  | { type: "RESOLVE_DILEMMA"; optionId: string };
