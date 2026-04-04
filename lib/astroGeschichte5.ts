@@ -28,7 +28,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🏺", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["fruehe_hochkulturen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Hochkulturen Quiz", en: "Civilizations Quiz", hu: "Kultúrák kvíz", ro: "Quiz civilizații" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Hochkulturen Quiz", en: "Civilizations Quiz", hu: "Kultúrák kvíz", ro: "Quiz civilizații" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -40,7 +40,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "☥", color: "#EF4444", sortRange: [1, 10],
     topicKeys: ["aegypten"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Ägypten Quiz", en: "Egypt Quiz", hu: "Egyiptom kvíz", ro: "Quiz Egipt" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Ägypten Quiz", en: "Egypt Quiz", hu: "Egyiptom kvíz", ro: "Quiz Egipt" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -52,7 +52,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🏛️", color: "#10B981", sortRange: [1, 10],
     topicKeys: ["griechenland"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Griechenland Quiz", en: "Greece Quiz", hu: "Görögország kvíz", ro: "Quiz Grecia" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Griechenland Quiz", en: "Greece Quiz", hu: "Görögország kvíz", ro: "Quiz Grecia" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -64,7 +64,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "⚔️", color: "#F59E0B", sortRange: [1, 10],
     topicKeys: ["rom_republik"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Republik Quiz", en: "Republic Quiz", hu: "Köztársaság kvíz", ro: "Quiz republică" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Republik Quiz", en: "Republic Quiz", hu: "Köztársaság kvíz", ro: "Quiz republică" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -76,7 +76,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "👑", color: "#6366F1", sortRange: [1, 10],
     topicKeys: ["rom_kaiserreich"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Kaiserreich Quiz", en: "Empire Quiz", hu: "Császárság kvíz", ro: "Quiz imperiu" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Kaiserreich Quiz", en: "Empire Quiz", hu: "Császárság kvíz", ro: "Quiz imperiu" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -88,7 +88,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🛡️", color: "#EC4899", sortRange: [1, 10],
     topicKeys: ["germanen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Germanen Quiz", en: "Germans Quiz", hu: "Germánok kvíz", ro: "Quiz germani" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Germanen Quiz", en: "Germans Quiz", hu: "Germánok kvíz", ro: "Quiz germani" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -100,7 +100,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🐎", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["voelkerwanderung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Migration Quiz", en: "Migration Quiz", hu: "Vándorlás kvíz", ro: "Quiz migrație" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Migration Quiz", en: "Migration Quiz", hu: "Vándorlás kvíz", ro: "Quiz migrație" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -112,7 +112,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🏰", color: "#A855F7", sortRange: [1, 10],
     topicKeys: ["voelkerwanderung", "germanen"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Übergang Quiz", en: "Transition Quiz", hu: "Átmenet kvíz", ro: "Quiz tranziție" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Übergang Quiz", en: "Transition Quiz", hu: "Átmenet kvíz", ro: "Quiz tranziție" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],
@@ -124,7 +124,7 @@ export const K5_ISLANDS: IslandDef[] = [
     icon: "🌟", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["fruehe_hochkulturen", "aegypten", "griechenland", "rom_republik", "rom_kaiserreich", "germanen", "voelkerwanderung"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
+      { id: "m1", category: "explore",   gameType: "geschichte-explore",  icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match", hu: "Csillag párosítás", ro: "Potrivire stele" } },
       { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch", en: "Black Hole", hu: "Fekete lyuk", ro: "Gaură neagră" } },
     ],

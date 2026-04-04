@@ -390,7 +390,11 @@ export default function AstroGeschichteK5Page() {
     );
   }
 
-  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round") {
+  if (screen === "geschichte-explore" && activeIsland) {
+    return <K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />;
+  }
+
+  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "geschichte-explore") {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
         <Starfield />
