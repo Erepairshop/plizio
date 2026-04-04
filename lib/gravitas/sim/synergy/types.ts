@@ -1,4 +1,4 @@
-import type { UpgradableModuleId } from "../../../economy";
+import type { UpgradableModuleId } from "../../economy";
 
 export type SynergyId =
   | "energy_field"

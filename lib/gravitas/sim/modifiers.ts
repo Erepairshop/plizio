@@ -1,4 +1,5 @@
 import type { StarholdState } from "./types";
+import { getCycleEffects } from "./galaxy/cycles";
 
 export interface StarholdModifiers {
   shellStrainReduction: number;
@@ -48,7 +49,7 @@ export function getStarholdModifiers(state: StarholdState): StarholdModifiers {
     resonanceAmplifier: state.progression.unlockedItems.includes("resonance_amplifier"),
     voidLens: state.progression.unlockedItems.includes("void_lens"),
     synergy: state.synergies.combined,
-    cycle: import("./galaxy/cycles").getCycleEffects(state.galaxyCycle.currentPhase),
+    cycle: getCycleEffects(state.galaxyCycle.currentPhase),
   };
 }
 

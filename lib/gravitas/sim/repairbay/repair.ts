@@ -3,6 +3,7 @@ import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/missi
 import type { GalaxyMaterialId } from "../../world/mission";
 import { pushJournal } from "../shared";
 import type { StarholdState } from "../types";
+import { getCycleEffects } from "../galaxy/cycles";
 import type { GarrisonEntry, WarRoomUnitId } from "../warroom/types";
 import { getBatchTrainingCost } from "../warroom/production";
 
@@ -90,7 +91,7 @@ export function getRepairDuration(_repairLevel: number, warroomLevel: number, st
     baseTicks *= (1 - state.synergies.combined.repairTimeReduction);
   }
   if (state?.galaxyCycle) {
-    const cycleEffects = import("../galaxy/cycles").getCycleEffects(state.galaxyCycle.currentPhase);
+    const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
     if (cycleEffects.repairSpeedBonus) {
       baseTicks /= (1 + cycleEffects.repairSpeedBonus);
     }
