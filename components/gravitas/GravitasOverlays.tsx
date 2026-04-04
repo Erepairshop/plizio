@@ -4,6 +4,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { ArrowUpCircle, FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap } from "lucide-react";
 import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
 import DilemmaCard from "@/components/gravitas/DilemmaCard";
+import FactionReputationPanel from "@/components/gravitas/FactionReputationPanel";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
 import { Badge, MainAction, MarkBox, StatItem } from "@/components/gravitas/GravitasUiParts";
 
@@ -386,6 +387,17 @@ export default function GravitasOverlays(props: Props) {
           </motion.div>
         )}
       </AnimatePresence>
+    </>
+  );
+}
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </>
+  );
+}
+
     </>
   );
 }

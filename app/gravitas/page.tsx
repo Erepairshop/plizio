@@ -2012,6 +2012,11 @@ export default function GravitasPage() {
             onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
           />
           <MapMiniButton
+            icon={<Users size={14} />}
+            active={activePanel === "factions"}
+            onClick={() => setActivePanel(activePanel === "factions" ? null : "factions")}
+          />
+          <MapMiniButton
             icon={<Radar size={14} />}
             active={interiorView === "galaxy"}
             onClick={() => setInteriorView(interiorView === "galaxy" ? null : "galaxy")}
