@@ -780,7 +780,7 @@ export class GravitasBaseScene extends Phaser.Scene {
       targets: [this.coreShell, this.coreRing, this.coreCenter],
       scale: 1.35,
       duration: 1300,
-      ease: "Sine.easeInOut",
+      ease: "Sine.InOut",
       yoyo: true,
       repeat: 0,
       onUpdate: () => {
@@ -860,7 +860,7 @@ export class GravitasBaseScene extends Phaser.Scene {
           x: hoverX,
           y: hoverY,
           duration: 500,
-          ease: "Sine.easeInOut",
+          ease: "Sine.InOut",
           yoyo: true,
           repeat: 2,
           onComplete: () => {
