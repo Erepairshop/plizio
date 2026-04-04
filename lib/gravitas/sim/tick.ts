@@ -911,11 +911,11 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(tickWarroomProduction({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    })))))));
+    }))))))));
     }
 
     return stabilizeContinuationTick(state, checkStarholdMilestones(tickFactionReputation(tickWorldLevel(tickBattle(tickUpgrades(tickRepairBay(applyStarholdEvents(tickWarroomProduction({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-    }))))))));
+    })))))))));
 }
