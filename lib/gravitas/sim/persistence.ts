@@ -87,14 +87,14 @@ function migrateWarRoom(raw: any): WarRoomState {
   } else if (raw.productionSlot && typeof raw.productionSlot === "object") {
     const mapped = mapLegacyUnitId((raw.productionSlot as any).unitId);
     if (mapped) {
+      const remaining = Math.max(0, Math.floor((raw.productionSlot as any).remaining ?? 0));
       migrated.productionSlots[mapped] = {
         unitId: mapped,
         isUpgrade: false,
         batchSize: 1,
         targetLevel: 1,
-        startedTick: Math.max(0, Math.floor((raw.productionSlot as any).startedTick ?? 0)),
-        duration: Math.max(1, Math.floor((raw.productionSlot as any).duration ?? 1)),
-        remaining: Math.max(0, Math.floor((raw.productionSlot as any).remaining ?? 0)),
+        startedAt: Date.now() - ((Math.max(1, Math.floor((raw.productionSlot as any).duration ?? 1)) - remaining) * 1000),
+        completesAt: Date.now() + remaining * 1000,
       };
     }
   }
@@ -112,13 +112,24 @@ function migrateRepairBay(raw: any): RepairBayState {
   const repairSlots = Array.from({ length: Math.floor(slotCount) }, (_, index) => {
     const slot = sourceSlots[index];
     if (!slot || typeof slot !== "object") return null;
+    // Migrate tick-based to Date.now() based
+    if (slot.startedAt && slot.completesAt) {
+      return {
+        unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
+        targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
+        batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
+        startedAt: slot.startedAt,
+        completesAt: slot.completesAt,
+      };
+    }
+    const rem = Math.max(0, Math.floor(slot.remaining ?? 0));
+    const dur = Math.max(1, Math.floor(slot.duration ?? 1));
     return {
       unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
       targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
       batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
-      startedTick: Math.max(0, Math.floor(slot.startedTick ?? 0)),
-      duration: Math.max(1, Math.floor(slot.duration ?? 1)),
-      remaining: Math.max(0, Math.floor(slot.remaining ?? 0)),
+      startedAt: Date.now() - (dur - rem) * 1000,
+      completesAt: Date.now() + rem * 1000,
     };
   });
 
@@ -405,11 +416,6 @@ export function clearGravitasSave(): void {
   try {
     localStorage.removeItem(getSaveKey());
     localStorage.removeItem(FALLBACK_SAVE_KEY);
-  } catch {
-    // fail silently
-  }
-}
-LBACK_SAVE_KEY);
   } catch {
     // fail silently
   }

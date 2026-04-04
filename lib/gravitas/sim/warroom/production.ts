@@ -149,9 +149,8 @@ export function startTraining(state: StarholdState, unitId: WarRoomUnitId, level
     isUpgrade: false,
     batchSize,
     targetLevel: level,
-    startedTick: state.tick,
-    duration,
-    remaining: duration,
+    startedAt: Date.now(),
+    completesAt: Date.now() + duration * 1000,
     spentCost: cost,
   };
 
@@ -194,9 +193,8 @@ export function startUpgrade(state: StarholdState, unitId: WarRoomUnitId, fromLe
     isUpgrade: true,
     batchSize: reserve,
     targetLevel,
-    startedTick: state.tick,
-    duration,
-    remaining: duration,
+    startedAt: Date.now(),
+    completesAt: Date.now() + duration * 1000,
     reservedCount: reserve,
     reservedFromLevel: fromLevel,
     spentCost: cost,
@@ -324,12 +322,6 @@ export function tickWarroomProduction(state: StarholdState): StarholdState {
 
 // Backward-compatible wrappers
 export function cancelTraining(state: StarholdState): StarholdState {
-  const active = (Object.entries(state.warRoom.productionSlots) as [WarRoomUnitId, WarRoomProductionSlot | null][])
-    .find(([, slot]) => slot !== null)?.[0];
-  if (!active) return state;
-  return cancelProduction(state, active);
-}
-tarholdState {
   const active = (Object.entries(state.warRoom.productionSlots) as [WarRoomUnitId, WarRoomProductionSlot | null][])
     .find(([, slot]) => slot !== null)?.[0];
   if (!active) return state;
