@@ -251,7 +251,8 @@ export default function AstroMathExplorerHybrid(props: AstroMathHybridProps) {
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
               <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
-                <path d={pathD} fill="none" stroke="rgba(255,255,255,0.05)" strokeWidth={4} strokeDasharray="8 6" />
+                <path d={pathD} fill="none" stroke="rgba(150,100,255,0.25)" strokeWidth={8} strokeLinecap="round" />
+                <path d={pathD} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={2.5} strokeDasharray="10 7" strokeLinecap="round" />
                 {props.islands.map((island, idx) => {
                   const unlocked = props.onIslandUnlocked(progress, island.id);
                   const done = props.onIslandDone(progress, island.id);
@@ -284,6 +285,15 @@ export default function AstroMathExplorerHybrid(props: AstroMathHybridProps) {
             </div>
           </div>
         </div>
+      </div>
+    );
+  }
+
+  if (screen === "island-transition") {
+    return (
+      <div className="min-h-screen bg-[#060614] relative">
+        <Starfield />
+        <RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
       </div>
     );
   }
