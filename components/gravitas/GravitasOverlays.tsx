@@ -1,10 +1,11 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowUpCircle, FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap } from "lucide-react";
+import { ArrowUpCircle, FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap, Bell } from "lucide-react";
 import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
 import DilemmaCard from "@/components/gravitas/DilemmaCard";
 import FactionReputationPanel from "@/components/gravitas/FactionReputationPanel";
+import NotificationPanel from "@/components/gravitas/NotificationPanel";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
 import { Badge, MainAction, MarkBox, StatItem } from "@/components/gravitas/GravitasUiParts";
 
@@ -317,6 +318,12 @@ export default function GravitasOverlays(props: Props) {
               )}
               {activePanel === "upgrades" && (
                 <ModuleUpgradePanel state={state} dispatch={(cmd: any) => doAction(cmd, "rgba(16,185,129,0.4)")} lang={lang} />
+              )}
+              {activePanel === "factions" && (
+                <FactionReputationPanel factionReputation={state.factionReputation} lang={lang} onClose={() => setActivePanel(null)} />
+              )}
+              {activePanel === "notifications" && (
+                <NotificationPanel state={state} doAction={(cmd: any) => doAction(cmd, "rgba(59,130,246,0.4)")} lang={lang} onClose={() => setActivePanel(null)} />
               )}
               {activePanel === "journal" && (
                 <div className="space-y-4">

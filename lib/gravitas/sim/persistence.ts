@@ -13,6 +13,7 @@ import { createInitialEspionageState } from "./espionage/engine";
 import { createInitialResearchState } from "./research/engine";
 import { createInitialSupplyRouteState } from "./supplyroute/index";
 import { createInitialCodexState } from "./codex/index";
+import { createInitialNotificationState } from "./notifications/index";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";

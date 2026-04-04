@@ -164,8 +164,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       research: createInitialResearchState(["weapons", "shields"]),
       supplyRoutes: createInitialSupplyRouteState(),
       codex: createInitialCodexState(),
-      lastActiveAt: Date.now(),
-    });
+      notifications: createInitialNotificationState(),
+      lastActiveAt: Date.now(),    });
   }
 
   return {
@@ -283,5 +283,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     research: createInitialResearchState(["weapons", "shields"]),
     supplyRoutes: createInitialSupplyRouteState(),
     codex: createInitialCodexState(),
+    notifications: createInitialNotificationState(),
+    lastActiveAt: Date.now(),
   };
 }

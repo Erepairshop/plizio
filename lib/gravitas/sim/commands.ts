@@ -141,6 +141,32 @@ function stopForegroundOperation(state: StarholdState): StarholdState {
 }
 
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
+  if (command.type === "DISMISS_NOTIFICATION") return dismissNotification(state, command.id);
+  if (command.type === "MARK_NOTIFICATIONS_READ") return markAllNotificationsRead(state);
+
+  const nextState = applyStarholdCommandInternal(state, command);
+  if (nextState.alert && nextState.alert !== state.alert) {
+    const text = nextState.alert.en.toLowerCase();
+    let type: import("./notifications/types").NotificationType = "general";
+    let icon = "Bell";
+
+    if (text.includes("research")) { type = "research"; icon = "FlaskConical"; }
+    else if (text.includes("upgrade") || text.includes("reached level")) { type = "upgrade"; icon = "ArrowUpCircle"; }
+    else if (text.includes("raid") || text.includes("disrupted") || text.includes("destroyed")) { type = "raid"; icon = "AlertTriangle"; }
+    else if (text.includes("exposed") || text.includes("spies") || text.includes("agent") || text.includes("intel")) { type = "espionage"; icon = "Eye"; }
+    else if (text.includes("weekly") || text.includes("defend")) { type = "weekly"; icon = "Calendar"; }
+    else if (text.includes("trade") || text.includes("route")) { type = "trade"; icon = "ArrowLeftRight"; }
+    else if (text.includes("dilemma")) { type = "dilemma"; icon = "Scale"; }
+    else if (text.includes("repair") || text.includes("dying") || text.includes("casualties")) { type = "repair"; icon = "Wrench"; }
+    else if (text.includes("training") || text.includes("unit")) { type = "training"; icon = "Users"; }
+    else if (text.includes("phase") || text.includes("cycle") || text.includes("storm") || text.includes("war")) { type = "system"; icon = "Globe"; }
+
+    return pushNotification(nextState, type, nextState.alert, nextState.alert, icon);
+  }
+  return nextState;
+}
+
+function applyStarholdCommandInternal(state: StarholdState, command: StarholdCommand): StarholdState {
   const repairChallengeTarget = getRepairChallengeModule(state.repairChallenge);
   const commandModule =
     command.type === "STABILIZE_REACTOR"

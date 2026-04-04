@@ -292,6 +292,7 @@ export interface StarholdState {
   research: import("./research/types").ResearchState;
   supplyRoutes: import("./supplyroute/types").SupplyRouteState;
   codex: import("./codex/types").CodexState;
+  notifications: import("./notifications/types").NotificationState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -350,4 +351,6 @@ export type StarholdCommand =
   | { type: "CANCEL_RESEARCH" }
   | { type: "ESTABLISH_ROUTE"; factionId: import("./faction/types").FactionId; materialId: import("../world/mission").GalaxyMaterialId }
   | { type: "ABANDON_ROUTE"; routeId: string }
-  | { type: "MARK_CODEX_READ"; entryId: string };
+  | { type: "MARK_CODEX_READ"; entryId: string }
+  | { type: "DISMISS_NOTIFICATION"; id: string }
+  | { type: "MARK_NOTIFICATIONS_READ" };

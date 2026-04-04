@@ -51,7 +51,7 @@ import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
 import WeeklyMissionPanel from "@/components/gravitas/WeeklyMissionPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Wrench, Calendar, Book, Bell } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById } from "@/lib/gravitas/sim/battle/enemies";
