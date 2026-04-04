@@ -1,7 +1,8 @@
 import type { WarRoomUnitId, WarRoomUnitDef } from "./types";
+import { UNIT_COSTS } from "../../economy";
 
-// ── Unit definitions (static data only) ────────────────────────
-// 1 tick ≈ 5 seconds → 12 ticks/min → 180 ticks = 15 min
+// ── Unit definitions ──────────────────────────────────────────
+// Costs & limits come from economy.ts (single source of truth)
 
 export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
   militia: {
@@ -14,9 +15,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Standard-Hüllentruppe. Schnell einsetzbar für die Stationsverteidigung.",
       ro: "Soldat standard de carenă. Rapid de desfășurat pentru apărarea stației.",
     },
-    productionTicks: 180, // 15 min
-    cost: { lumen_dust: 30, sable_alloy: 20 },
-    maxCount: 10,
+    productionTicks: UNIT_COSTS.militia.productionTicks,
+    cost: UNIT_COSTS.militia.cost,
+    maxCount: UNIT_COSTS.militia.maxCount,
     minLevel: 1,
   },
   ranger: {
@@ -29,9 +30,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Langstrecken-Aufklärer. Erkennt Bedrohungen jenseits der Sensorreichweite.",
       ro: "Unitate de recunoaștere pe distanță lungă. Detectează amenințări dincolo de raza senzorilor.",
     },
-    productionTicks: 120, // 10 min
-    cost: { aether_ore: 80, verdant_crystals: 50 },
-    maxCount: 1,
+    productionTicks: UNIT_COSTS.ranger.productionTicks,
+    cost: UNIT_COSTS.ranger.cost,
+    maxCount: UNIT_COSTS.ranger.maxCount,
     minLevel: 1,
   },
   shieldbearer: {
@@ -44,9 +45,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Schwere Verteidigungseinheit. Absorbiert Schaden während Bedrohungswellen.",
       ro: "Unitate grea de apărare. Absoarbe daunele în timpul valurilor de amenințare.",
     },
-    productionTicks: 120, // 10 min
-    cost: { ember_shards: 80, rift_stone: 60 },
-    maxCount: 1,
+    productionTicks: UNIT_COSTS.shieldbearer.productionTicks,
+    cost: UNIT_COSTS.shieldbearer.cost,
+    maxCount: UNIT_COSTS.shieldbearer.maxCount,
     minLevel: 1,
   },
   scout_drone: {
@@ -59,9 +60,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Automatisierte Überwachungsdrohne. Schnell, aber zerbrechlich.",
       ro: "Dronă automatizată de supraveghere. Rapidă, dar fragilă.",
     },
-    productionTicks: 120, // 10 min
-    cost: { verdant_crystals: 40, lumen_dust: 30 },
-    maxCount: 3,
+    productionTicks: UNIT_COSTS.scout_drone.productionTicks,
+    cost: UNIT_COSTS.scout_drone.cost,
+    maxCount: UNIT_COSTS.scout_drone.maxCount,
     minLevel: 1,
   },
 };
