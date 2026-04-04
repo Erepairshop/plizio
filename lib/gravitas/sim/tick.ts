@@ -1068,17 +1068,18 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
                 tickFactionReputation(
                   tickWorldLevel(
                     tickBattle(
-                      tickUpgrades(
-                        tickRepairBay(
-                          tickWarroomProduction({
-                            ...threatResult.nextState,
-                            waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                          }),
+                      tickTradeSystem(
+                        tickUpgrades(
+                          tickRepairBay(
+                            tickWarroomProduction({
+                              ...threatResult.nextState,
+                              waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                            }),
+                          ),
                         ),
                       ),
                     ),
-                  ),
-                ),
+                  ),                ),
               ),
             ),
           ),
@@ -1117,3 +1118,4 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     ),
   );
 }
+

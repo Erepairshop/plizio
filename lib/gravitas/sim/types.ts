@@ -332,4 +332,7 @@ export type StarholdCommand =
   | { type: "START_REPAIR"; unitId: import("./warroom/types").WarRoomUnitId; unitLevel: number; count: number }
   | { type: "CANCEL_REPAIR"; slotIndex: number }
   | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId }
-  | { type: "RESOLVE_DILEMMA"; optionId: string };
+  | { type: "RESOLVE_DILEMMA"; optionId: string }
+  | { type: "ACCEPT_TRADE"; offerId: string }
+  | { type: "REJECT_TRADE"; offerId: string };
+string };

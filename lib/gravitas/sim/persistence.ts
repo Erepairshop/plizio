@@ -392,6 +392,7 @@ export function loadGravitasState(): StarholdState | null {
       synergies: parsed.synergies ?? createInitialSynergies(),
       galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
       dilemmaSystem: parsed.dilemmaSystem ?? createInitialDilemmaState(),
+      tradeSystem: parsed.tradeSystem ?? { offers: [], lastRefreshAt: Date.now() },
       commander: parsed.commander ?? createInitialCommanderState(),
     };
     if (nextState.chapter === "continuation") {

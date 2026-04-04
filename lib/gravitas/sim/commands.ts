@@ -22,6 +22,7 @@ import { applyReputationChange } from "./faction/reputation";
 import { FACTION_REPUTATION_CONFIG } from "../economy";
 import { GALAXY_DEMO_NODES } from "../world/demo";
 import { resolveDilemma } from "./dilemma/engine";
+import { acceptTrade, rejectTrade } from "./trade/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -1059,6 +1060,12 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "RESOLVE_DILEMMA": {
       return resolveDilemma(state, command.optionId);
+    }
+    case "ACCEPT_TRADE": {
+      return acceptTrade(state, command.offerId);
+    }
+    case "REJECT_TRADE": {
+      return rejectTrade(state, command.offerId);
     }
     default:
       return checkStarholdMilestones(state);

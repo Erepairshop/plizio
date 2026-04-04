@@ -266,6 +266,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     synergies: createInitialSynergies(),
     galaxyCycle: createInitialGalaxyCycle(),
     dilemmaSystem: createInitialDilemmaState(),
+    tradeSystem: { offers: [], lastRefreshAt: Date.now() },
     commander: createInitialCommanderState(),
   };
+}
 }

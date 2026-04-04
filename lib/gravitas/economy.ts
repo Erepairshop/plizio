@@ -394,6 +394,11 @@ const YIELD_PER_HOUR: Record<GalaxyMaterialId, number> = {
  * Kiszámolja mennyi idő (percben) egy költség összegyűjtése.
  * A leglassabb anyag határozza meg a teljes időt (1 drón, lv1).
  */
+export const TRADE_CONFIG = {
+  refreshHours: 6,
+  maxOffers: 3,
+} as const;
+
 export const VETERAN_CONFIG = {
   tiers: {
     hardened: { minBattles: 5, statBonus: 0.05 },
