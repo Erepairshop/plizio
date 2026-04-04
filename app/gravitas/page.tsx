@@ -47,6 +47,8 @@ import ModuleInteriorPanel from "@/components/gravitas/ModuleInteriorPanel";
 import ResearchPanel from "@/components/gravitas/ResearchPanel";
 import EspionagePanel from "@/components/gravitas/EspionagePanel";
 import TradePanel from "@/components/gravitas/TradePanel";
+import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
+import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
 import { FlaskConical, Eye, ArrowLeftRight } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
@@ -133,6 +135,7 @@ export default function GravitasPage() {
   const [quickActionsOpen, setQuickActionsOpen] = useState(false);
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
+  const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
   const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -252,7 +255,19 @@ export default function GravitasPage() {
       awakeningShownRef.current = saved.avatarAwake;
       prevAvatarAwakeRef.current = saved.avatarAwake;
       setShowAwakening(false);
-      dispatch({ type: "__LOAD__", state: saved });
+      // Check offline progress (5 min minimum)
+      const offlineDuration = Date.now() - (saved.lastActiveAt ?? Date.now());
+      if (offlineDuration > 5 * 60 * 1000) {
+        const { state: updatedState, report } = processOfflineProgress(saved);
+        const hasEvents = report.completedTraining.length > 0 || report.completedRepairs.length > 0 ||
+          report.completedUpgrades.length > 0 || report.decayedWounded > 0 || report.completedMissions > 0 ||
+          report.phaseChanges.length > 0 || report.triggeredDelayedEffects > 0 ||
+          Object.keys(report.gatheredMaterials).length > 0;
+        if (hasEvents) setOfflineReport(report);
+        dispatch({ type: "__LOAD__", state: updatedState });
+      } else {
+        dispatch({ type: "__LOAD__", state: saved });
+      }
     }
   }, []);
 
@@ -2092,6 +2107,14 @@ export default function GravitasPage() {
         contentVictoryStationLostTitle={content.victory.stationLostTitle}
         contentVictoryTryAgain={localize(content.victory.tryAgain)}
       />
+
+      {offlineReport && (
+        <OfflineProgressPopup
+          report={offlineReport}
+          onDismiss={() => setOfflineReport(null)}
+          lang={lang}
+        />
+      )}
 
     </main>
   );
