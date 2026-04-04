@@ -137,7 +137,7 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -1976,6 +1976,17 @@ export default function GravitasPage() {
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
               >
                 <RepairBayPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+              </motion.div>
+            )}
+            {interiorView === "weekly" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
+              >
+                <WeeklyMissionPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
           </AnimatePresence>
