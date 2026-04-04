@@ -14,6 +14,50 @@ import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { tickWarRoom } from "./warroom";
 import { applyStarholdCommand } from "./commands";
+import { getWorldLevelDelay, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
+
+/** Check if world level should increase based on core level and time */
+function tickWorldLevel(state: StarholdState): StarholdState {
+  const now = Date.now();
+  const coreLevel = state.moduleLevels.core;
+  
+  // 1. Apply pending level increase
+  if (state.worldLevelPending && now >= state.worldLevelPending.scheduledAt) {
+    const nextLevel = state.worldLevelPending.targetLevel;
+    return {
+      ...state,
+      worldLevel: nextLevel,
+      worldLevelPending: null,
+      alert: WORLD_LEVEL_TEXTS.changed,
+      journal: pushJournal(state, WORLD_LEVEL_TEXTS.changed),
+    };
+  }
+
+  // 2. Schedule new level increase if core level is higher and nothing is pending
+  if (!state.worldLevelPending && coreLevel > state.worldLevel) {
+    return {
+      ...state,
+      worldLevelPending: {
+        targetLevel: coreLevel,
+        scheduledAt: now + getWorldLevelDelay(),
+      },
+      alert: WORLD_LEVEL_TEXTS.pending,
+    };
+  }
+
+  // 3. Update target level if core grows while pending (without resetting timer)
+  if (state.worldLevelPending && coreLevel > state.worldLevelPending.targetLevel) {
+    return {
+      ...state,
+      worldLevelPending: {
+        ...state.worldLevelPending,
+        targetLevel: coreLevel,
+      }
+    };
+  }
+
+  return state;
+}
 
 /** Check if any battle-related timers have completed (real-time based) */
 function tickBattle(state: StarholdState): StarholdState {
@@ -839,13 +883,13 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     worldShifted ||
     recoveryCalmWindow
   ) {
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickBattle(tickUpgrades(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(tickWarRoom({
       ...threatResult.nextState,
       waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     })))));
     }
 
-    return stabilizeContinuationTick(state, checkStarholdMilestones(tickBattle(tickUpgrades(applyStarholdEvents(tickWarRoom({
+    return stabilizeContinuationTick(state, checkStarholdMilestones(tickWorldLevel(tickBattle(tickUpgrades(applyStarholdEvents(tickWarRoom({
     ...threatResult.nextState,
     waveRecoveryCalmTicks: nextRecoveryCalmTicks,
     }))))));

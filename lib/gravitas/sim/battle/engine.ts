@@ -2,6 +2,7 @@ import type { StarholdAvatarAnswer } from "@/lib/gravitas/sim/types";
 import type { EnemyTrait, EnemyTraitId } from "./types";
 import { createBattleLoot } from "./rewards";
 import { getEffectiveCombatStats } from "./avatarCombat";
+import { getScaledEnemyStats, getLootMultiplier } from "./worldScaling";
 import type { Faction } from "./factions";
 import type { BuildingDescriptor } from "./buildingDescriptors";
 import {
@@ -182,6 +183,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   const armyBase = calculateArmyEvaluation(army);
   const abilities = collectAvatarAbilities(playerState.avatarProfile?.answers);
   const intel = scoutReport?.intelLevel ?? 0;
+  const worldLevel = playerState.worldLevel ?? 1;
 
   const seedBasis = [
     seedNow ?? Date.now(),
@@ -192,6 +194,9 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     playerState.tick,
   ].join("|");
   const rng = makeSeededRng(hashString(seedBasis));
+
+  // 0. Scale Enemy Stats
+  const scaledEnemyStats = getScaledEnemyStats(enemy.stats, worldLevel);
 
   // 1. Calculate Player Effective Stats
   const avatarStats = getEffectiveCombatStats(avatarCombat);
@@ -206,25 +211,34 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     energy: avatarStats.energy * baseStatMod,
   };
 
+  // Minimum troop penalty
+  const minTroopsRequired = getMinimumTroops(enemy.id, worldLevel);
+  const troopRatio = Math.min(1, armyBase.totalUnits / minTroopsRequired);
+  if (troopRatio < 1.0) {
+    // Serious penalty to player combat effectiveness if understaffed
+    playerEval.firepower *= troopRatio;
+    playerEval.barrier *= troopRatio;
+  }
+
   // 2. Calculate Enemy Effective Stats
   const conditionMod = descriptor.condition.type === "fortified" ? 1.2 : descriptor.condition.type === "decaying" ? 0.8 : 1.0;
   
   const enemyEval = {
-    firepower: faction.profile.firepower * (enemy.stats.firepower / 50) * conditionMod,
-    barrier: faction.profile.barrier * (enemy.stats.armor / 50) * conditionMod,
-    tactics: faction.profile.tactics * (enemy.stats.speed / 50) * conditionMod,
-    inspiration: faction.profile.inspiration * (enemy.stats.garrison / 100) * conditionMod,
+    firepower: faction.profile.firepower * (scaledEnemyStats.firepower / 50) * conditionMod,
+    barrier: faction.profile.barrier * (scaledEnemyStats.armor / 50) * conditionMod,
+    tactics: faction.profile.tactics * (scaledEnemyStats.speed / 50) * conditionMod,
+    inspiration: faction.profile.inspiration * (scaledEnemyStats.garrison / 100) * conditionMod,
     intel: faction.profile.intel * conditionMod,
-    energy: faction.profile.energy * (enemy.stats.shield / 50) * conditionMod,
+    energy: faction.profile.energy * (scaledEnemyStats.shield / 50) * conditionMod,
   };
 
   const runtime: RuntimeStats = {
     playerHull: armyBase.totalUnits * 4.2,
     playerShield: (avatarStats.barrier * 2) + (playerState.resources.shield * 0.5),
     playerGarrison: armyBase.totalUnits,
-    enemyHull: enemy.stats.garrison * 3.5,
-    enemyShield: enemy.stats.shield * 2.0,
-    enemyGarrison: enemy.stats.garrison,
+    enemyHull: scaledEnemyStats.garrison * 3.5,
+    enemyShield: scaledEnemyStats.shield * 2.0,
+    enemyGarrison: scaledEnemyStats.garrison,
     
     playerFirepower: playerEval.firepower,
     playerBarrier: playerEval.barrier,
@@ -353,6 +367,12 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     raiderLootStack: 0,
     exactUnitCount: armyBase.totalUnits,
     seedRng: rng,
+  });
+
+  const lootMultiplier = getLootMultiplier(worldLevel);
+  Object.keys(rewardPack.loot.materials).forEach(matId => {
+    const key = matId as keyof typeof rewardPack.loot.materials;
+    rewardPack.loot.materials[key] = Math.round((rewardPack.loot.materials[key] ?? 0) * lootMultiplier);
   });
 
   return {

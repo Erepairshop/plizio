@@ -25,6 +25,7 @@ import {
 } from "@/lib/gravitas/sim/battle/avatarCombat";
 import type { BuildingDescriptor } from "@/lib/gravitas/sim/battle/buildingDescriptors";
 import type { Faction } from "@/lib/gravitas/sim/battle/factions";
+import { getMinimumTroops } from "@/lib/gravitas/sim/battle/worldScaling";
 
 interface ArmySetupProps {
   buildingId: string;
@@ -69,6 +70,8 @@ export default function ArmySetup({
 
   const availableGarrison = state.warRoom.garrison;
   const unitIds = Object.keys(BATTLE_UNIT_PROFILES);
+
+  const minTroops = useMemo(() => getMinimumTroops(buildingId, state.worldLevel), [buildingId, state.worldLevel]);
 
   const effectiveStats = useMemo(() => {
     return getEffectiveCombatStats({ ...avatarCombat, allocation });
@@ -140,6 +143,7 @@ export default function ArmySetup({
   };
 
   const totalSelectedUnits = Object.values(selectedUnits).reduce((a, b) => a + b, 0);
+  const isUnderstaffed = totalSelectedUnits < minTroops;
   const isValid = totalSelectedUnits > 0 && validateAllocation(allocation);
 
   const statIcons: Record<keyof AvatarCombatAllocation, React.ReactNode> = {
@@ -291,9 +295,16 @@ export default function ArmySetup({
 
         {/* Army Selection */}
         <div className="rounded-2xl border border-amber-500/20 bg-amber-500/5 p-3">
-          <div className="flex items-center gap-2 mb-3">
-            <Users size={14} className="text-amber-400" />
-            <span className="text-[10px] font-black uppercase tracking-wider text-amber-300/70">Army Deployment</span>
+          <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center gap-2">
+              <Users size={14} className="text-amber-400" />
+              <span className="text-[10px] font-black uppercase tracking-wider text-amber-300/70">Army Deployment</span>
+            </div>
+            <div className="text-[10px] font-bold">
+              <span className={totalSelectedUnits >= minTroops ? "text-emerald-400" : "text-rose-400"}>{totalSelectedUnits}</span>
+              <span className="text-white/30 mx-1">/</span>
+              <span className="text-white/50">min {minTroops}</span>
+            </div>
           </div>
 
           <div className="grid grid-cols-1 gap-2">
@@ -367,6 +378,19 @@ export default function ArmySetup({
 
       {/* Footer / Start Button */}
       <div className="mt-6 pt-4 border-t border-white/10">
+        {isUnderstaffed && totalSelectedUnits > 0 && (
+          <div className="mb-3 p-2.5 rounded-xl bg-rose-500/10 border border-rose-500/30 flex items-start gap-2">
+            <AlertTriangle size={14} className="text-rose-400 shrink-0 mt-0.5" />
+            <p className="text-[10px] text-rose-200 leading-tight">
+              {localize(lang, { 
+                en: "Army size is below recommendation. Effectiveness will be significantly reduced.", 
+                hu: "A sereg mérete elmarad az ajánlottól. A harci hatékonyság jelentősen csökken.", 
+                de: "Armeegröße unter Empfehlung. Effektivität wird stark reduziert.", 
+                ro: "Mărimea armatei este sub recomandare. Eficiența va fi redusă semnificativ." 
+              })}
+            </p>
+          </div>
+        )}
         <button
           disabled={!isValid}
           onClick={() => onStartBattle({ units: selectedUnits, tacticId }, allocation)}
@@ -381,9 +405,22 @@ export default function ArmySetup({
             {localize(lang, { en: "Launch Strike", hu: "Támadás indítása", de: "Angriff starten", ro: "Lansează atacul" })}
           </span>
         </button>
-        {!isValid && totalSelectedUnits === 0 && (
+        {!isValid && (
           <p className="text-center text-[9px] text-rose-400/60 mt-2 font-bold uppercase tracking-widest">
-            {localize(lang, { en: "Select units to proceed", hu: "Válassz egységeket a folytatáshoz", de: "Wähle Einheiten aus", ro: "Selectează unități" })}
+            {totalSelectedUnits === 0 
+              ? localize(lang, { 
+                  en: "Select units to proceed", 
+                  hu: "Válassz egységeket a folytatáshoz", 
+                  de: "Wähle Einheiten aus", 
+                  ro: "Selectează unități" 
+                })
+              : localize(lang, { 
+                  en: "Invalid avatar resonance", 
+                  hu: "Érvénytelen avatar rezonancia", 
+                  de: "Ungültige Avatar-Resonanz", 
+                  ro: "Rezonanță avatar invalidă" 
+                })
+            }
           </p>
         )}
       </div>
