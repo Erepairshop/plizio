@@ -6,6 +6,7 @@ import { addResourceDelta, pushJournal } from "../shared";
 // ── Validation ─────────────────────────────────────────────────
 
 export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId): boolean {
+  if (!state.warRoom) return false;
   const def = WARROOM_UNITS[unitId];
   if (!def) return false;
   if (def.minLevel > state.warRoom.level) return false;

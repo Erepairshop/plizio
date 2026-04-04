@@ -5,6 +5,7 @@ import { WARROOM_UNITS } from "./units";
 // ── Per-tick production advancement ────────────────────────────
 
 export function tickWarRoom(state: StarholdState): StarholdState {
+  if (!state.warRoom) return state;
   const slot = state.warRoom.productionSlot;
   if (!slot) return state;
 

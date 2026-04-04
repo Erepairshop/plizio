@@ -2,6 +2,7 @@ import type { StarholdState } from "./types";
 import { inferBootstrapChecklist } from "./bootstrap";
 import { normalizeRepairChallenge } from "./events";
 import { normalizeContinuationState } from "./continuation";
+import { createInitialWarRoom } from "./warroom";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -204,7 +205,18 @@ export function loadGravitasState(): StarholdState | null {
       },
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
+      warRoom: parsed.warRoom ?? createInitialWarRoom(),
     };
+    // Migrate modules + bootstrap — add warroom if missing from old saves
+    if (!nextState.modules.warroom) {
+      nextState.modules = {
+        ...nextState.modules,
+        warroom: { id: "warroom", name: { en: "Command Deck", hu: "Főhadiszállás", de: "Kommandozentrale", ro: "Centrul de comandă" }, online: false, integrity: 40, load: 0 },
+      };
+    }
+    if (nextState.bootstrapChecklist && !("warroom" in nextState.bootstrapChecklist)) {
+      (nextState.bootstrapChecklist as Record<string, boolean>).warroom = false;
+    }
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));
       nextState.repairChallenge = {
