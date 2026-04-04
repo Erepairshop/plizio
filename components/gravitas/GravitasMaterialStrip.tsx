@@ -57,15 +57,15 @@ export default function GravitasMaterialStrip({ lang }: { lang: Lang }) {
         return (
           <div
             key={materialId}
-            className={`flex items-center gap-1 px-2 py-1 rounded-lg border font-black text-[11px] shrink-0 transition-all sm:gap-1.5 sm:px-2.5 sm:py-1.5 sm:rounded-xl sm:text-xs ${
+            className={`flex flex-1 min-w-0 items-center gap-1 px-1.5 py-1 rounded-lg border font-black text-[11px] transition-all sm:flex-none sm:gap-1.5 sm:px-2.5 sm:py-1.5 sm:rounded-xl sm:text-xs ${
               active ? "border-white/20 bg-white/10 shadow-[0_0_18px_rgba(255,255,255,0.08)]" : "border-white/5 bg-white/5"
             } ${meta.colorClassName}`}
             title={`${localize(lang, meta.label)}: ${formatCompactGalaxyValue(displayInventory[materialId])}`}
           >
-            <span className="text-[10px] opacity-70 sm:text-[11px]">
+            <span className="text-[9px] opacity-70 sm:text-[11px]">
               {localize(lang, meta.short)}
             </span>
-            <span className="text-white">
+            <span className="text-white text-[10px] sm:text-xs">
               {formatCompactGalaxyValue(displayInventory[materialId])}
             </span>
           </div>

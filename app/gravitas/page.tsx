@@ -1232,33 +1232,39 @@ export default function GravitasPage() {
         </div>
       </header>
 
-      {/* HUD Chips — single scrollable row */}
-      <div className="flex items-center gap-1.5 px-2 py-1 bg-black/10 border-b border-white/5 overflow-x-auto no-scrollbar scrollbar-hide sm:px-3 sm:py-1.5 sm:gap-2">
-        <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
-        <HUDChip
-          icon={<MaterialResourceGlyph active={isScavengeActive} />}
-          value={state.resources.materials}
-          color="text-indigo-300"
-          onClick={() => setResourceHelpOpen("materials")}
-        />
-        <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
-        <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
-        {state.chapter === "demo" && (
-          <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
-        )}
-        <GravitasMaterialStrip lang={lang} />
-        {state.avatarProfile && state.avatarProfile.answers.length > 0 && (
-          <AvatarBaseChip
-            icon={<UserRound size={12} />}
-            onClick={() => setAvatarBaseOpen(true)}
+      {/* HUD — Row 1: stats chips, Row 2: material chips */}
+      <div className="bg-black/10 border-b border-white/5 px-2 py-1 sm:px-3 sm:py-1.5 space-y-1">
+        {/* Row 1: Stats */}
+        <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
+          <HUDChip icon={<Zap size={12} />} value={state.resources.power} color="text-amber-400" onClick={() => setResourceHelpOpen("power")} />
+          <HUDChip
+            icon={<MaterialResourceGlyph active={isScavengeActive} />}
+            value={state.resources.materials}
+            color="text-indigo-300"
+            onClick={() => setResourceHelpOpen("materials")}
           />
-        )}
-        <div className={`relative flex items-center gap-1 px-1.5 py-0.5 rounded-lg bg-white/5 border border-white/5 text-[10px] font-black shrink-0 sm:gap-1.5 sm:px-2 sm:py-1 sm:rounded-xl sm:text-xs ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
-          <Layers size={10} />
-          <div className="flex flex-col leading-none">
-            <span className="text-[6px] uppercase tracking-[0.14em] text-white/30 sm:text-[7px]">{localize(ui.pattern)}</span>
-            <span className="text-[8px] sm:text-[9px]">{patternLabel}</span>
+          <HUDChip icon={<Activity size={12} />} value={state.resources.stability} color="text-emerald-400" onClick={() => setResourceHelpOpen("stability")} />
+          <HUDChip icon={<Terminal size={12} />} value={state.entropy} color="text-rose-400" onClick={() => setResourceHelpOpen("entropy")} />
+          {state.chapter === "demo" && (
+            <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
+          )}
+          {state.avatarProfile && state.avatarProfile.answers.length > 0 && (
+            <AvatarBaseChip
+              icon={<UserRound size={12} />}
+              onClick={() => setAvatarBaseOpen(true)}
+            />
+          )}
+          <div className={`relative flex items-center gap-1 px-1.5 py-0.5 rounded-lg bg-white/5 border border-white/5 text-[10px] font-black shrink-0 sm:gap-1.5 sm:px-2 sm:py-1 sm:rounded-xl sm:text-xs ${state.worldPulse < 15 ? "text-slate-400" : state.worldPulse < 35 ? "text-cyan-300" : state.worldPulse < 65 ? "text-violet-300" : "text-rose-300"}`}>
+            <Layers size={10} />
+            <div className="flex flex-col leading-none">
+              <span className="text-[6px] uppercase tracking-[0.14em] text-white/30 sm:text-[7px]">{localize(ui.pattern)}</span>
+              <span className="text-[8px] sm:text-[9px]">{patternLabel}</span>
+            </div>
           </div>
+        </div>
+        {/* Row 2: Materials — single row */}
+        <div className="flex items-center gap-1 sm:gap-1.5">
+          <GravitasMaterialStrip lang={lang} />
         </div>
       </div>
 
