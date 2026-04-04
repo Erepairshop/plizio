@@ -287,6 +287,7 @@ export interface StarholdState {
   /** Adaptive commander profile system */
   commander: import("./commander/types").CommanderState;
   tradeSystem: import("./trade/types").TradeSystemState;
+  weeklyMission: import("./weekly/types").WeeklyMissionState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -335,4 +336,6 @@ export type StarholdCommand =
   | { type: "UPGRADE_MODULE"; moduleId: import("../economy").UpgradableModuleId }
   | { type: "RESOLVE_DILEMMA"; optionId: string }
   | { type: "ACCEPT_TRADE"; offerId: string }
-  | { type: "REJECT_TRADE"; offerId: string };
+  | { type: "REJECT_TRADE"; offerId: string }
+  | { type: "DEPLOY_WEEKLY_UNITS"; units: Record<string, number> }
+  | { type: "SKIP_WEEKLY_MISSION" };

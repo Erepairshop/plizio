@@ -268,6 +268,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     galaxyCycle: createInitialGalaxyCycle(),
     dilemmaSystem: createInitialDilemmaState(),
     tradeSystem: { offers: [], lastRefreshAt: Date.now() },
+    weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
     commander: createInitialCommanderState(),
   };
 }

@@ -24,6 +24,7 @@ import { FACTION_REPUTATION_CONFIG } from "../economy";
 import { GALAXY_DEMO_NODES } from "../world/demo";
 import { resolveDilemma } from "./dilemma/engine";
 import { acceptTrade, rejectTrade } from "./trade/engine";
+import { deployWeeklyUnits } from "./weekly/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -1067,6 +1068,20 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     }
     case "REJECT_TRADE": {
       return rejectTrade(state, command.offerId);
+    }
+    case "DEPLOY_WEEKLY_UNITS": {
+      return deployWeeklyUnits(state, command.units);
+    }
+    case "SKIP_WEEKLY_MISSION": {
+      if (!state.weeklyMission.activeMission || state.weeklyMission.activeMission.phase !== "preparation") return state;
+      return {
+        ...state,
+        weeklyMission: {
+          ...state.weeklyMission,
+          activeMission: null,
+          nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000,
+        }
+      };
     }
     default:
       return checkStarholdMilestones(state);

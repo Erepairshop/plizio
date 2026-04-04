@@ -399,6 +399,15 @@ export const TRADE_CONFIG = {
   maxOffers: 3,
 } as const;
 
+export const WEEKLY_MISSION_CONFIG = {
+  minDaysBetween: 5,
+  maxDaysBetween: 9,
+  preparationTimeMs: 60 * 60 * 1000, // 1 hour
+  breakTimeMs: 5 * 60 * 1000, // 5 minutes
+  waveStrengthMods: [0.8, 1.2, 1.8], // multipliers for enemy stats
+  reputationPenaltyForMiss: -5,
+} as const;
+
 export const VETERAN_CONFIG = {
   tiers: {
     hardened: { minBattles: 5, statBonus: 0.05 },

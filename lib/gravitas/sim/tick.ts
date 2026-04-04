@@ -1070,17 +1070,22 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
                   tickWorldLevel(
                     tickBattle(
                       tickTradeSystem(
-                        tickUpgrades(
-                          tickRepairBay(
-                            tickWarroomProduction({
-                              ...threatResult.nextState,
-                              waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                            }),
+                        tickWeeklyMission(
+                          tickUpgrades(
+                            tickRepairBay(
+                              applyStarholdEvents(
+                                tickWarroomProduction({
+                                  ...threatResult.nextState,
+                                  waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                }),
+                              ),
+                            ),
                           ),
                         ),
                       ),
                     ),
-                  ),                ),
+                  ),
+                ),
               ),
             ),
           ),
@@ -1099,13 +1104,17 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
               tickFactionReputation(
                 tickWorldLevel(
                   tickBattle(
-                    tickUpgrades(
-                      tickRepairBay(
-                        applyStarholdEvents(
-                          tickWarroomProduction({
-                            ...threatResult.nextState,
-                            waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                          }),
+                    tickTradeSystem(
+                      tickWeeklyMission(
+                        tickUpgrades(
+                          tickRepairBay(
+                            applyStarholdEvents(
+                              tickWarroomProduction({
+                                ...threatResult.nextState,
+                                waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                              }),
+                            ),
+                          ),
                         ),
                       ),
                     ),
