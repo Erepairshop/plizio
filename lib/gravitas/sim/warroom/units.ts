@@ -1,6 +1,7 @@
 import type { WarRoomUnitId, WarRoomUnitDef } from "./types";
 
 // ── Unit definitions (static data only) ────────────────────────
+// 1 tick ≈ 5 seconds → 12 ticks/min → 180 ticks = 15 min
 
 export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
   militia: {
@@ -13,8 +14,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Standard-Hüllentruppe. Schnell einsetzbar für die Stationsverteidigung.",
       ro: "Soldat standard de carenă. Rapid de desfășurat pentru apărarea stației.",
     },
-    productionTicks: 12,
-    cost: { materials: 5 },
+    productionTicks: 180, // 15 min
+    cost: { lumen_dust: 30, sable_alloy: 20 },
+    maxCount: 10,
     minLevel: 1,
   },
   ranger: {
@@ -27,8 +29,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Langstrecken-Aufklärer. Erkennt Bedrohungen jenseits der Sensorreichweite.",
       ro: "Unitate de recunoaștere pe distanță lungă. Detectează amenințări dincolo de raza senzorilor.",
     },
-    productionTicks: 18,
-    cost: { materials: 8 },
+    productionTicks: 120, // 10 min
+    cost: { aether_ore: 80, verdant_crystals: 50 },
+    maxCount: 1,
     minLevel: 1,
   },
   shieldbearer: {
@@ -41,8 +44,9 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
       de: "Schwere Verteidigungseinheit. Absorbiert Schaden während Bedrohungswellen.",
       ro: "Unitate grea de apărare. Absoarbe daunele în timpul valurilor de amenințare.",
     },
-    productionTicks: 24,
-    cost: { materials: 12 },
+    productionTicks: 120, // 10 min
+    cost: { ember_shards: 80, rift_stone: 60 },
+    maxCount: 1,
     minLevel: 1,
   },
   scout_drone: {
@@ -50,13 +54,14 @@ export const WARROOM_UNITS: Record<WarRoomUnitId, WarRoomUnitDef> = {
     icon: "🤖",
     name: { en: "Scan Drone", hu: "Pásztázó drón", de: "Scan-Drohne", ro: "Dronă de scanare" },
     desc: {
-      en: "Automated surveillance drone. Fast but requires power to maintain.",
-      hu: "Automatizált megfigyelő drón. Gyors, de energiát igényel.",
-      de: "Automatisierte Überwachungsdrohne. Schnell, benötigt aber Energie.",
-      ro: "Dronă automatizată de supraveghere. Rapidă, dar necesită energie.",
+      en: "Automated surveillance drone. Fast but fragile.",
+      hu: "Automatizált megfigyelő drón. Gyors, de sérülékeny.",
+      de: "Automatisierte Überwachungsdrohne. Schnell, aber zerbrechlich.",
+      ro: "Dronă automatizată de supraveghere. Rapidă, dar fragilă.",
     },
-    productionTicks: 9,
-    cost: { materials: 6, power: 2 },
+    productionTicks: 120, // 10 min
+    cost: { verdant_crystals: 40, lumen_dust: 30 },
+    maxCount: 3,
     minLevel: 1,
   },
 };

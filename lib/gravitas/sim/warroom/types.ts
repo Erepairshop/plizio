@@ -1,4 +1,5 @@
 import type { LocalizedString } from "../types";
+import type { GalaxyMaterialId } from "../../world/mission";
 
 // ── Unit identity ──────────────────────────────────────────────
 
@@ -13,7 +14,10 @@ export interface WarRoomUnitDef {
   desc: LocalizedString;
   /** How many game ticks to produce one unit (1 tick ≈ 5s) */
   productionTicks: number;
-  cost: { materials: number; power?: number };
+  /** Meteor material costs */
+  cost: Partial<Record<GalaxyMaterialId, number>>;
+  /** Maximum number of this unit in garrison */
+  maxCount: number;
   /** Minimum war-room level required to train this unit */
   minLevel: number;
 }

@@ -1,7 +1,34 @@
 import type { StarholdState } from "../types";
 import type { WarRoomUnitId } from "./types";
 import { WARROOM_UNITS } from "./units";
-import { addResourceDelta, pushJournal } from "../shared";
+import { pushJournal } from "../shared";
+import type { GalaxyInventory, GalaxyMaterialId } from "../../world/mission";
+import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
+
+// ── Inventory helpers ─────────────────────────────────────────
+
+function canAfford(inventory: GalaxyInventory, cost: Partial<Record<GalaxyMaterialId, number>>): boolean {
+  for (const [matId, amount] of Object.entries(cost)) {
+    if (amount && inventory[matId as GalaxyMaterialId] < amount) return false;
+  }
+  return true;
+}
+
+function deductCost(inventory: GalaxyInventory, cost: Partial<Record<GalaxyMaterialId, number>>): GalaxyInventory {
+  const next = { ...inventory };
+  for (const [matId, amount] of Object.entries(cost)) {
+    if (amount) next[matId as GalaxyMaterialId] = Math.max(0, next[matId as GalaxyMaterialId] - amount);
+  }
+  return next;
+}
+
+function refundCost(inventory: GalaxyInventory, cost: Partial<Record<GalaxyMaterialId, number>>, ratio: number): GalaxyInventory {
+  const next = { ...inventory };
+  for (const [matId, amount] of Object.entries(cost)) {
+    if (amount) next[matId as GalaxyMaterialId] += Math.floor(amount * ratio);
+  }
+  return next;
+}
 
 // ── Validation ─────────────────────────────────────────────────
 
@@ -12,8 +39,11 @@ export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId): boole
   if (def.minLevel > state.warRoom.level) return false;
   if (state.warRoom.productionSlot !== null) return false;
   if (!state.warRoom.online) return false;
-  if (state.resources.materials < def.cost.materials) return false;
-  if (def.cost.power && state.resources.power < def.cost.power) return false;
+  // Max count check
+  if (state.warRoom.garrison[unitId] >= def.maxCount) return false;
+  // Material cost check (reads from localStorage)
+  const inventory = loadSavedGalaxyInventory();
+  if (!canAfford(inventory, def.cost)) return false;
   return true;
 }
 
@@ -23,10 +53,10 @@ export function startTraining(state: StarholdState, unitId: WarRoomUnitId): Star
   const def = WARROOM_UNITS[unitId];
   if (!def) return state;
 
-  const costDelta: Partial<Record<"power" | "materials" | "stability" | "activation", number>> = {
-    materials: -def.cost.materials,
-  };
-  if (def.cost.power) costDelta.power = -def.cost.power;
+  // Deduct materials from galaxy inventory
+  const inventory = loadSavedGalaxyInventory();
+  if (!canAfford(inventory, def.cost)) return state;
+  saveGalaxyInventory(deductCost(inventory, def.cost));
 
   const journalText = {
     en: `Training ${def.name.en} started.`,
@@ -37,7 +67,6 @@ export function startTraining(state: StarholdState, unitId: WarRoomUnitId): Star
 
   return {
     ...state,
-    resources: addResourceDelta(state.resources, costDelta),
     warRoom: {
       ...state.warRoom,
       productionSlot: {
@@ -59,10 +88,10 @@ export function cancelTraining(state: StarholdState): StarholdState {
   if (!slot) return state;
 
   const def = WARROOM_UNITS[slot.unitId];
-  const refund: Partial<Record<"power" | "materials" | "stability" | "activation", number>> = {
-    materials: Math.floor(def.cost.materials * 0.5),
-  };
-  if (def.cost.power) refund.power = Math.floor(def.cost.power * 0.5);
+
+  // Refund 50% of materials to galaxy inventory
+  const inventory = loadSavedGalaxyInventory();
+  saveGalaxyInventory(refundCost(inventory, def.cost, 0.5));
 
   const cancelText = {
     en: "Training cancelled. Partial resources recovered.",
@@ -73,7 +102,6 @@ export function cancelTraining(state: StarholdState): StarholdState {
 
   return {
     ...state,
-    resources: addResourceDelta(state.resources, refund),
     warRoom: { ...state.warRoom, productionSlot: null },
     alert: cancelText,
     journal: pushJournal(state, cancelText),

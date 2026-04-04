@@ -72,6 +72,7 @@ export default function WarRoomPanel({
               unit={def}
               canAfford={canTrainUnit(state, unitId)}
               isTraining={slot !== null}
+              garrisonCount={warRoom.garrison[unitId]}
               onTrain={() => dispatch({ type: "TRAIN_UNIT", unitId })}
               lang={lang}
             />
