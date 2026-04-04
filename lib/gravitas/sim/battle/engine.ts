@@ -412,6 +412,21 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     false,
   );
 
+  let officerStatus = undefined;
+  if (officer && officer.status === "ready") {
+    const casualtyRate = casualties.totalKilled / Math.max(1, armyBase.totalUnits);
+    let wounded = false;
+    let died = false;
+    if (casualtyRate > 0.2) {
+      const woundChance = 0.1 + (casualtyRate * 0.5);
+      if (rng() < woundChance) {
+        wounded = true;
+        if (casualtyRate > 0.8 && rng() < 0.1) died = true;
+      }
+    }
+    officerStatus = { id: officer.id, xpGained: 50, wounded, died };
+  }
+
   return {
     victory,
     durationMs,
@@ -429,5 +444,6 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     intelGained: victory ? 12 : 4,
     casualties,
     replay: generateReplayLog(phases),
+    officerStatus,
   };
 }

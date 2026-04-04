@@ -926,6 +926,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
           woundedAt: movedWounded > 0 ? Date.now() : state.repairBay.woundedAt,
         },
         officers: nextOfficers,
+        journal: newJournals,
         factionReputation: {
           ...state.factionReputation,
           reputation: rep,
