@@ -9,6 +9,8 @@ import { createInitialSynergies } from "./synergy";
 import { createInitialGalaxyCycle } from "./galaxy";
 import { createInitialDilemmaState } from "./dilemma";
 import { createInitialCommanderState } from "./commander";
+import { createInitialEspionageState } from "./espionage/index";
+import { createInitialResearchState } from "./research/index";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
