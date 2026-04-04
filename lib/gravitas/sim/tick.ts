@@ -8,6 +8,7 @@ import { checkStarholdMilestones } from "./progression";
 import { addResourceDelta, pushJournal, updateModuleIntegrity, addModuleLoad } from "./shared";
 import { getStarholdModifiers } from "./modifiers";
 import { getModuleActionProfile } from "./modules";
+import { getModuleIds } from "./registry";
 import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
@@ -473,7 +474,8 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   // Glitch logic (accelerated in Crisis)
   const glitchThreshold = isCrisis ? 8 : 10;
   if (!earlyWindow && totalMarks > glitchThreshold && state.tick % (isCrisis ? 3 : 5) === 0 && !recoveryCalmWindow) {
-    const affectedModuleId = (["reactor", "logistics", "core", "sensor"] as const)[state.tick % 4];
+    const ids = getModuleIds();
+    const affectedModuleId = ids[state.tick % ids.length];
     const baseDamage = (isCrisis ? 4 : 2) + Math.floor(totalMarks / 5);
     // coreShield synergy: Logistics + Core both healthy → core takes 50% less integrity damage from glitches
     const damage = (affectedModuleId === "core" && mods.coreShield) ? Math.max(1, Math.floor(baseDamage / 2)) : baseDamage;
@@ -487,8 +489,8 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
 
   // Entropy Spike (Aggressive damage at high entropy)
   if (!earlyWindow && state.entropy > 80 && state.tick % 4 === 0 && !recoveryCalmWindow) {
-    const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
-    const targetId = ids[Math.floor(Math.random() * 4)];
+    const eids = getModuleIds();
+    const targetId = eids[Math.floor(Math.random() * eids.length)];
     nextModules[targetId] = {
       ...nextModules[targetId],
       integrity: clamp(nextModules[targetId].integrity - 5),
@@ -593,8 +595,8 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
   }
 
   if (nextLockdown && !recoveryCalmWindow) {
-    const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
-    const targetId = ids[state.tick % 4];
+    const lids = getModuleIds();
+    const targetId = lids[state.tick % lids.length];
     nextModules[targetId] = {
       ...nextModules[targetId],
       integrity: clamp(nextModules[targetId].integrity - 2),

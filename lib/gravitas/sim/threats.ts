@@ -3,6 +3,7 @@ import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { getStarholdModifiers } from "./modifiers";
 import { getModuleActionProfile } from "./modules";
+import { getModuleIds } from "./registry";
 import { createWaveRecoveryEvent } from "./events";
 import { isDemoChapter } from "./chapter";
 
@@ -45,7 +46,7 @@ export function advanceStarholdThreat(state: StarholdState): { nextState: Starho
         stabilityLoss = gentleAftershock ? 0 : Math.max(1, Math.ceil(threat.intensity * 0.8));
         // Lingering integrity decay for a random module during shower aftershock
         if (!gentleAftershock) {
-          const ids: StarholdModuleId[] = ["reactor", "logistics", "core", "sensor"];
+          const ids = getModuleIds();
           const targetId = ids[state.tick % 4];
           nextModules[targetId] = {
             ...nextModules[targetId],
@@ -225,7 +226,7 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   // Determine recovery priority: find the most damaged module
   let worstId: StarholdModuleId = "reactor";
   let worstIntegrity = 100;
-  for (const id of ["reactor", "logistics", "core", "sensor"] as const) {
+  for (const id of getModuleIds()) {
     if (nextModules[id].integrity < worstIntegrity) {
       worstIntegrity = nextModules[id].integrity;
       worstId = id;

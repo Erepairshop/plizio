@@ -1,36 +1,23 @@
 import type { StarholdModuleId, StarholdState } from "./types";
-import { STARHOLD_MODULE_DEFINITIONS } from "./modules";
+import { getModuleIds, getModule, createBootstrapChecklist, createCompleteBootstrap } from "./registry";
 
 export type StarholdBootstrapChecklist = Record<StarholdModuleId, boolean>;
 
-const INITIAL_MODULE_SNAPSHOT = STARHOLD_MODULE_DEFINITIONS.reduce(
-  (acc, definition) => {
-    acc[definition.id] = {
-      online: definition.startsOnline,
-      integrity: definition.integrity,
-      load: definition.load,
-    };
-    return acc;
-  },
-  {} as Record<StarholdModuleId, { online: boolean; integrity: number; load: number }>
-);
+const INITIAL_MODULE_SNAPSHOT = (() => {
+  const result = {} as Record<StarholdModuleId, { online: boolean; integrity: number; load: number }>;
+  for (const id of getModuleIds()) {
+    const m = getModule(id);
+    result[id] = { online: m.startsOnline, integrity: m.integrity, load: m.load };
+  }
+  return result;
+})();
 
 export function createInitialBootstrapChecklist(): StarholdBootstrapChecklist {
-  return {
-    reactor: false,
-    logistics: false,
-    core: false,
-    sensor: false,
-  };
+  return createBootstrapChecklist();
 }
 
 export function createCompleteBootstrapChecklist(): StarholdBootstrapChecklist {
-  return {
-    reactor: true,
-    logistics: true,
-    core: true,
-    sensor: true,
-  };
+  return createCompleteBootstrap();
 }
 
 export function isBootstrapComplete(state: Pick<StarholdState, "bootstrapChecklist">): boolean {
