@@ -70,9 +70,14 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
 
   const nextActivation = clamp(state.resources.activation + actGain, 0, 100);
   const awakened = nextActivation >= 100;
-  const nextThreat = awakened && state.threat.pausedUntilAwake
-    ? createNextThreat(moveToContinuationChapter({ ...state, avatarAwake: true }), state.threatCycle + 1)
-    : state.threat;
+  let nextThreat = state.threat;
+  let currentRngState = state.globalRngState;
+
+  if (awakened && state.threat.pausedUntilAwake) {
+    const { threat: newThreat, nextRng: r1 } = createNextThreat(moveToContinuationChapter({ ...state, avatarAwake: true }), state.threatCycle + 1);
+    nextThreat = newThreat;
+    currentRngState = r1;
+  }
 
   // High resonance hazards
   let nextMarks = { ...state.marks };
@@ -97,6 +102,7 @@ export function channelActivationPulse(state: StarholdState, amount: number): St
       ...state,
       chapter: awakened ? "continuation" : state.chapter,
     }),
+    globalRngState: currentRngState,
     phase: awakened ? "awakened" : "activation",
     avatarAwake: awakened,
     resonance: nextResonance,

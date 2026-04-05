@@ -80,6 +80,7 @@ export function getRepairSlotCount(repairLevel: number): number {
 export function getRepairBatchSize(repairLevel: number): number {
   return Math.max(10, Math.floor(Math.max(1, repairLevel) * 4 + 6));
 }
+import { getResearchEffect } from "../research/engine";
 
 export function getRepairDuration(_repairLevel: number, warroomLevel: number, state?: StarholdState): number {
   const reduction = clamp(
@@ -97,7 +98,11 @@ export function getRepairDuration(_repairLevel: number, warroomLevel: number, st
       baseTicks /= (1 + cycleEffects.repairSpeedBonus);
     }
   }
-  if (state?.commander?.effects.repairSpeedBonus) {
+  if (state?.research?.completed) {
+    const researchBoost = getResearchEffect(state.research.completed, "repair.speed") / 100;
+    if (researchBoost > 0) baseTicks /= (1 + researchBoost);
+  }
+  if (state?.commander?.effects?.repairSpeedBonus) {
     baseTicks /= (1 + state.commander.effects.repairSpeedBonus);
   }
   return Math.max(1, Math.round(baseTicks * (1 - reduction)));
@@ -117,6 +122,10 @@ export function getRepairCostPerUnit(
   let ratio = Math.max(0.01, levelRatio - logisticsReduction);
   if (state?.synergies?.combined?.repairCostReduction) {
     ratio *= (1 - state.synergies.combined.repairCostReduction);
+  }
+  if (state?.research?.completed) {
+    const researchReduction = getResearchEffect(state.research.completed, "repair.cost") / 100;
+    if (researchReduction < 0) ratio *= (1 + researchReduction); // e.g., -15 -> 0.85
   }
   const canonicalBatchSize = Math.max(1, WARROOM_PRODUCTION_CONFIG.batchBaseSizePerLevel);
 

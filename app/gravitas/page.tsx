@@ -6,8 +6,8 @@ import Link from "next/link";
 import {
   ChevronLeft, Power, Wrench, Radar, Cpu, Star,
   AlertTriangle, Activity, Zap, ShieldAlert,
-  Layers, FileText, X, RotateCcw, Package, Shield, Heart,
-  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound, ArrowUpCircle
+  Layers, X, RotateCcw, Package, Shield, Heart,
+  Terminal, ShieldHalf, LayoutGrid, Brain, UserRound, ArrowUpCircle, Move
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
@@ -26,7 +26,7 @@ import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
 import { normalizeContinuationState } from "@/lib/gravitas/sim/continuation";
 import GalaxyInteriorView from "@/components/gravitas/GalaxyInteriorView";
 import GravitasMaterialStrip from "@/components/gravitas/GravitasMaterialStrip";
-import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
+import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
 import {
   AvatarBaseChip,
   HUDChip,
@@ -50,11 +50,11 @@ import TradePanel from "@/components/gravitas/TradePanel";
 import RepairBayPanel from "@/components/gravitas/RepairBayPanel";
 import WeeklyMissionPanel from "@/components/gravitas/WeeklyMissionPanel";
 import BattleReplayPanel from "@/components/gravitas/BattleReplayPanel";
-import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
+import FactionWarsPanel from "@/components/gravitas/FactionWarsPanel";
 import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Medal, Swords, Compass } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById, getFactionFleetAsEnemy } from "@/lib/gravitas/sim/battle/enemies";
@@ -91,6 +91,7 @@ function moduleIcon(moduleId: StarholdModuleId) {
 
 type Lang = "en" | "hu" | "de" | "ro";
 type ResourceHelpKey = "power" | "supply" | "stability" | "activation" | "entropy" | "hull" | "shield" | "morale" | "signalRange" | "supplyFlow";
+type MoveableModuleId = StarholdModuleId | "repair-bay" | "warroom";
 type QuickActionTone = "default" | "warning" | "danger";
 
 type QuickActionItem = {
@@ -139,9 +140,11 @@ export default function GravitasPage() {
   const [resourceHelpOpen, setResourceHelpOpen] = useState<ResourceHelpKey | null>(null);
   const [quickActionsOpen, setQuickActionsOpen] = useState(false);
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
+  const [movePickerOpen, setMovePickerOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
+  const [layoutEditModule, setLayoutEditModule] = useState<MoveableModuleId | null>(null);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "officers" | "factionwars" | "expeditions" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "factionwars" | "expeditions" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
@@ -149,6 +152,7 @@ export default function GravitasPage() {
   const [battleReportResult, setBattleReportResult] = useState<import("@/lib/gravitas/sim/battle/types").BattleResult | null>(null);
   const [showReplay, setShowReplay] = useState(false);
   const [factionWarSetup, setFactionWarSetup] = useState<{ war: import("@/lib/gravitas/sim/factionwars/types").FactionWar, side: "attacker" | "defender" } | null>(null);
+  const [isPageVisible, setIsPageVisible] = useState(true);
 
   const handleExecuteFactionWarStrike = useCallback((army: import("@/lib/gravitas/sim/battle/types").BattleArmy, allocation: import("@/lib/gravitas/sim/battle/avatarCombat").AvatarCombatAllocation) => {
     if (!factionWarSetup) return;
@@ -256,10 +260,13 @@ export default function GravitasPage() {
   const prevSurgeRef = useRef(state.postWaveSurgeTicks);
   const prevSurgeModeRef = useRef(state.postWaveSurgeMode);
   const prevStateRef = useRef(state);
+  const currentStateRef = useRef(state);
   const prevAvatarAwakeRef = useRef(state.avatarAwake);
   const lastActionRef = useRef<StarholdCommand | null>(null);
   const awakeningShownRef = useRef(false);
   const actionFeedbackTimeoutRef = useRef<number | null>(null);
+  const lastPersistAtRef = useRef(0);
+  const persistTimerRef = useRef<number | null>(null);
 
   const restartGravitasChapter = useCallback((chapter: StarholdChapterId) => {
     const resetState = createInitialStarholdState(chapter);
@@ -292,19 +299,89 @@ export default function GravitasPage() {
     setTimeout(() => setActionFlash(null), 300);
   };
 
-  const handleSelectModule = useCallback((moduleId: StarholdModuleId) => {
-    setSelectedModule(moduleId);
+  const handleSelectModule = useCallback((moduleId: string) => {
+    if (moduleId === "warroom") {
+      handleOpenWarRoom();
+      return;
+    }
+    if (moduleId === "repair-bay") {
+      setModuleInfoOpen(false);
+      setInteriorView("repairbay");
+      return;
+    }
+    setSelectedModule(moduleId as StarholdModuleId);
     setModuleInfoOpen(false);
-    setInteriorView(moduleId);
+    setInteriorView(moduleId as StarholdModuleId);
   }, []);
 
   const handleOpenWarRoom = useCallback(() => {
-    setModuleInfoOpen(false);
+    setSelectedModule("core");
+    setModuleInfoOpen(true);
     setInteriorView("warroom");
   }, []);
 
+  const handleToggleMovePicker = useCallback(() => {
+    setMovePickerOpen((open) => {
+      const next = !open;
+      if (next && !layoutEditModule) {
+        setLayoutEditModule(selectedModule);
+      }
+      if (!next) {
+        setLayoutEditModule(null);
+      }
+      setModuleInfoOpen(false);
+      return next;
+    });
+  }, [layoutEditModule, selectedModule]);
+
+  const handleSelectMoveTarget = useCallback((moduleId: MoveableModuleId) => {
+    if (moduleId !== "repair-bay" && moduleId !== "warroom") {
+      setSelectedModule(moduleId);
+      setInteriorView(moduleId);
+    }
+    setLayoutEditModule(moduleId);
+    setModuleInfoOpen(false);
+  }, []);
+
+  const moveTargetLabels: Record<MoveableModuleId, LocalizedString> = {
+    reactor: content.modules.reactor.name,
+    logistics: content.modules.logistics.name,
+    sensor: content.modules.sensor.name,
+    core: content.modules.core.name,
+    "repair-bay": { en: "Repair Bay", hu: "Javítóműhely", de: "Reparaturbucht", ro: "Unitate de Reparații" },
+    warroom: { en: "Command Deck", hu: "Főhadiszállás", de: "Kommandozentrale", ro: "Centrul de comandă" },
+  };
+
   useEffect(() => {
     setHydrated(true);
+  }, []);
+
+  useEffect(() => {
+    currentStateRef.current = state;
+  }, [state]);
+
+  useEffect(() => {
+    const updateVisibility = () => setIsPageVisible(!document.hidden);
+    updateVisibility();
+    document.addEventListener("visibilitychange", updateVisibility);
+    return () => document.removeEventListener("visibilitychange", updateVisibility);
+  }, []);
+
+  useEffect(() => {
+    const flushPersist = () => {
+      if (persistTimerRef.current !== null) {
+        window.clearTimeout(persistTimerRef.current);
+        persistTimerRef.current = null;
+      }
+      saveGravitasState(currentStateRef.current);
+      lastPersistAtRef.current = Date.now();
+    };
+    window.addEventListener("pagehide", flushPersist);
+    window.addEventListener("beforeunload", flushPersist);
+    return () => {
+      window.removeEventListener("pagehide", flushPersist);
+      window.removeEventListener("beforeunload", flushPersist);
+    };
   }, []);
 
   useEffect(() => {
@@ -415,11 +492,12 @@ export default function GravitasPage() {
   }, [state.postWaveSurgeTicks, state.postWaveSurgeMode]);
 
   useEffect(() => {
+    if (!isPageVisible) return undefined;
     const id = window.setInterval(() => {
       dispatch({ type: "__TICK__" });
     }, 1000);
     return () => window.clearInterval(id);
-  }, []);
+  }, [isPageVisible]);
 
   useEffect(() => {
     let cancelled = false;
@@ -475,6 +553,9 @@ export default function GravitasPage() {
       if (actionFeedbackTimeoutRef.current !== null) {
         window.clearTimeout(actionFeedbackTimeoutRef.current);
       }
+      if (persistTimerRef.current !== null) {
+        window.clearTimeout(persistTimerRef.current);
+      }
     };
   }, []);
 
@@ -483,8 +564,25 @@ export default function GravitasPage() {
 
   useEffect(() => {
     if (!hydrated) return;
-    saveGravitasState(state);
-  }, [state, hydrated]);
+    if (!isPageVisible) return;
+
+    const now = Date.now();
+    const minPersistIntervalMs = 5000;
+    if (now - lastPersistAtRef.current < minPersistIntervalMs) {
+      if (persistTimerRef.current !== null) {
+        window.clearTimeout(persistTimerRef.current);
+      }
+      persistTimerRef.current = window.setTimeout(() => {
+        saveGravitasState(currentStateRef.current);
+        lastPersistAtRef.current = Date.now();
+        persistTimerRef.current = null;
+      }, minPersistIntervalMs - (now - lastPersistAtRef.current));
+      return;
+    }
+
+    saveGravitasState(currentStateRef.current);
+    lastPersistAtRef.current = now;
+  }, [state, hydrated, isPageVisible]);
 
   useEffect(() => {
     if (activePanel || resourceHelpOpen || state.pendingEvent || showGameOver) {
@@ -1589,12 +1687,13 @@ export default function GravitasPage() {
           </div>
 
           {sceneReady ? (
-            <GravitasScene
-              state={state}
-              selectedModule={selectedModule}
-              onSelectModule={handleSelectModule}
-              lastCommand={lastCommand}
-            />
+              <GravitasScene
+                  state={state}
+                  selectedModule={selectedModule}
+                  onSelectModule={handleSelectModule}
+                  interactionLocked={interiorView !== null}
+                  lastCommand={lastCommand}
+                />
           ) : (
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgba(34,211,238,0.16),transparent_30%),radial-gradient(circle_at_50%_70%,rgba(168,85,247,0.14),transparent_34%),linear-gradient(180deg,#050816_0%,#071120_50%,#050816_100%)]">
               <div className="absolute inset-0 opacity-50">
@@ -1630,7 +1729,10 @@ export default function GravitasPage() {
           <ModuleArtOverlay
             selectedModule={selectedModule}
             onSelectModule={handleSelectModule}
+            onSelectMoveTarget={handleSelectMoveTarget}
             onOpenWarRoom={handleOpenWarRoom}
+            onOpenRepairBay={() => setInteriorView("repairbay")}
+            layoutEditModule={layoutEditModule}
           />
 
           <AnimatePresence>
@@ -1890,6 +1992,7 @@ export default function GravitasPage() {
                     type="button"
                     onClick={() => {
                       setInteriorView(selectedModule);
+                      setLayoutEditModule(null);
                       setModuleInfoOpen(false);
                     }}
                     className="mt-3 w-full rounded-xl border border-cyan-400/25 bg-cyan-400/10 px-3 py-2 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-100 transition hover:bg-cyan-400/16"
@@ -1971,30 +2074,6 @@ export default function GravitasPage() {
                 <LogisticsInteriorView state={state} dispatch={dispatch} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
-            {interiorView === "warroom" && (
-              <motion.div
-                initial={{ opacity: 0, scale: 0.985 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 0.985 }}
-                transition={{ duration: 0.25, ease: "easeOut" }}
-                className="absolute inset-0 z-[28] flex flex-col overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#0c0818_0%,#0e0f1c_42%,#060610_100%)]"
-              >
-                <div className="flex items-center justify-between px-3 py-2 border-b border-white/5">
-                  <span className="text-[10px] font-black uppercase tracking-[0.18em] text-red-300/70">⚔️ Command Deck</span>
-                  <button
-                    type="button"
-                    onClick={() => setInteriorView(null)}
-                    className="flex h-6 w-6 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 hover:bg-white/10 hover:text-white transition"
-                  >
-                    <X size={12} />
-                  </button>
-                </div>
-                <div className="flex-1 overflow-y-auto p-3 space-y-3">
-                  <WarRoomPanel state={state} dispatch={dispatch} lang={lang} />
-                  <ModuleInteriorPanel moduleId="warroom" state={state} dispatch={dispatch} lang={lang} accentColor="red" />
-                </div>
-              </motion.div>
-            )}
             {interiorView === "research" && (
               <motion.div
                 initial={{ opacity: 0, scale: 0.985 }}
@@ -2028,7 +2107,7 @@ export default function GravitasPage() {
                 <TradePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
               </motion.div>
             )}
-            {interiorView === "repairbay" && (
+            {interiorView === "factionwars" && (
               <motion.div
                 initial={{ opacity: 0, scale: 0.985 }}
                 animate={{ opacity: 1, scale: 1 }}
@@ -2036,7 +2115,79 @@ export default function GravitasPage() {
                 transition={{ duration: 0.25, ease: "easeOut" }}
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
               >
-                <RepairBayPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
+                <FactionWarsPanel
+                  state={state}
+                  onIntervene={(war, side) => {
+                    setFactionWarSetup({ war, side });
+                    const enemyFactionId = side === "attacker" ? war.defenderId : war.attackerId;
+                    const enemy = getFactionFleetAsEnemy(enemyFactionId, war.intensity);
+                    const faction = GALAXY_FACTIONS[enemyFactionId];
+                    setArmySetupNode({
+                      id: `war_${war.id}:${side}`,
+                      type: "battle",
+                      title: { en: `${faction.name.en} Fleet`, hu: `${faction.name.hu} Flotta`, de: `${faction.name.de} Flotte`, ro: `Flota ${faction.name.ro}` },
+                      description: faction.description,
+                      position: { x: 0, y: 0 },
+                      cardOffset: { x: 0, y: 0 },
+                      radius: 0,
+                      assetSrc: "",
+                      assetClassName: "",
+                      motion: { x: [], y: [], rotate: [] },
+                      motionDuration: 0,
+                      details: [],
+                      footer: { en: "", hu: "", de: "", ro: "" },
+                      variantId: enemy.id,
+                      factionId: enemyFactionId,
+                      descriptorId: undefined,
+                    } as import("@/lib/gravitas/world/types").GalaxyNode);
+                    setBattleNode(null);
+                    setBattleResult(null);
+                    setBattleReportResult(null);
+                    setInteriorView(null);
+                  }}
+                  onClose={() => setInteriorView(null)}
+                  lang={lang}
+                />
+              </motion.div>
+            )}
+            {interiorView === "repairbay" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
+              >
+                <div className="relative flex h-full flex-col">
+                  <div className="pointer-events-none absolute inset-0 opacity-95">
+                    <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(96,165,250,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
+                  </div>
+                  <div className="relative z-10 flex items-start justify-between gap-3 p-4">
+                    <span className="rounded-full border border-sky-400/15 bg-sky-400/10 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.18em] text-sky-300">
+                      Repair Bay
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => setInteriorView(null)}
+                      className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+                    >
+                      <X size={16} />
+                    </button>
+                  </div>
+                  <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
+                    <div className="relative overflow-hidden rounded-[28px] border border-sky-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+                      <div className="absolute inset-0 bg-gradient-to-b from-sky-400/5 via-transparent to-black/20 pointer-events-none" />
+                      <div className="relative z-10">
+                        <RepairBayPanel
+                          state={state}
+                          doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }}
+                          lang={lang}
+                          onClose={() => setInteriorView(null)}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </motion.div>
             )}
             {interiorView === "weekly" && (
@@ -2059,17 +2210,6 @@ export default function GravitasPage() {
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
               >
                 <CodexPanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} lang={lang} onClose={() => setInteriorView(null)} />
-              </motion.div>
-            )}
-            {interiorView === "officers" && (
-              <motion.div
-                initial={{ opacity: 0, scale: 0.985 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 0.985 }}
-                transition={{ duration: 0.25, ease: "easeOut" }}
-                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit]"
-              >
-                <OfficerLoungePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} onClose={() => setInteriorView(null)} lang={lang} />
               </motion.div>
             )}
           </AnimatePresence>
@@ -2100,20 +2240,10 @@ export default function GravitasPage() {
               active={activePanel === "modules"}
               onClick={() => setActivePanel(activePanel === "modules" ? null : "modules")}
             />
-            <MapMiniButton
-              icon={<ShieldHalf size={14} />}
-              active={activePanel === "marks"}
-              onClick={() => setActivePanel(activePanel === "marks" ? null : "marks")}
-            />
           <MapMiniButton
-            icon={<ArrowUpCircle size={14} />}
-            active={activePanel === "upgrades"}
-            onClick={() => setActivePanel(activePanel === "upgrades" ? null : "upgrades")}
-          />
-          <MapMiniButton
-            icon={<FileText size={14} />}
-            active={activePanel === "journal"}
-            onClick={() => setActivePanel(activePanel === "journal" ? null : "journal")}
+            icon={<ShieldHalf size={14} />}
+            active={activePanel === "marks"}
+            onClick={() => setActivePanel(activePanel === "marks" ? null : "marks")}
           />
           <MapMiniButton
             icon={<Users size={14} />}
@@ -2130,11 +2260,6 @@ export default function GravitasPage() {
             active={interiorView === "codex"}
             onClick={() => setInteriorView(interiorView === "codex" ? null : "codex")}
             showDot={state.codex.unlockedEntries.length > state.codex.readEntries.length}
-          />
-          <MapMiniButton
-            icon={<Medal size={14} />}
-            active={interiorView === "officers"}
-            onClick={() => setInteriorView(interiorView === "officers" ? null : "officers")}
           />
           <MapMiniButton
             icon={<Swords size={14} />}
@@ -2158,17 +2283,78 @@ export default function GravitasPage() {
             onClick={() => setInteriorView(interiorView === "trade" ? null : "trade")}
           />
           <MapMiniButton
-            icon={<Wrench size={14} />}
-            active={interiorView === "repairbay"}
-            onClick={() => setInteriorView(interiorView === "repairbay" ? null : "repairbay")}
-          />
-          <MapMiniButton
             icon={<Layers size={14} />}
             active={quickActionsOpen}
             onClick={() => setQuickActionsOpen(true)}
             showDot={hiddenUrgentActions}
             />
+          <MapMiniButton
+            icon={<Move size={14} />}
+            active={movePickerOpen}
+            onClick={handleToggleMovePicker}
+          />
           </div>
+
+          <AnimatePresence>
+            {movePickerOpen && (
+              <motion.div
+                initial={{ opacity: 0, x: 16, scale: 0.98 }}
+                animate={{ opacity: 1, x: 0, scale: 1 }}
+                exit={{ opacity: 0, x: 16, scale: 0.98 }}
+                transition={{ type: "spring", damping: 24, stiffness: 250 }}
+                className="absolute right-16 top-16 z-[34] w-[min(72vw,248px)] rounded-[20px] border border-cyan-400/15 bg-[#091120]/92 p-3 text-white shadow-[0_18px_42px_rgba(0,0,0,0.35)] backdrop-blur-md"
+              >
+                <div className="flex items-start justify-between gap-2">
+                  <div className="min-w-0">
+                    <div className="text-[8px] font-black uppercase tracking-[0.22em] text-cyan-300/72">
+                      {localize({ en: "Move Mode", hu: "Mozgatás mód", de: "Bewegungsmodus", ro: "Mod mutare" })}
+                    </div>
+                    <div className="mt-1 text-[13px] font-black leading-tight text-white">
+                      {localize({ en: "Choose a module", hu: "Válassz modult", de: "Modul wählen", ro: "Alege un modul" })}
+                    </div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setMovePickerOpen(false);
+                      setLayoutEditModule(null);
+                    }}
+                    className="flex h-7 w-7 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/10 hover:text-white"
+                  >
+                    <X size={12} />
+                  </button>
+                </div>
+                <p className="mt-2 text-[10px] leading-snug text-cyan-100/68">
+                  {localize({
+                    en: "Grab the building and drag it to the new spot. Click another building to switch the active one.",
+                    hu: "Fogd meg az épületet és húzd az új helyére. Kattints egy másik épületre, ha azt akarod mozgatni.",
+                    de: "Nimm das Gebäude und ziehe es an die neue Stelle. Klicke ein anderes Gebäude, um es aktiv zu machen.",
+                    ro: "Prinde clădirea și trage-o în noul loc. Apasă pe altă clădire ca să o faci activă.",
+                  })}
+                </p>
+                <div className="mt-3 flex items-center justify-between gap-2 rounded-xl border border-cyan-400/15 bg-cyan-400/8 px-3 py-2">
+                  <div className="min-w-0">
+                    <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-100/45">
+                      {localize({ en: "Active", hu: "Aktív", de: "Aktiv", ro: "Activ" })}
+                    </div>
+                    <div className="mt-1 truncate text-[11px] font-black text-cyan-50">
+                      {localize(moveTargetLabels[(layoutEditModule ?? selectedModule) as MoveableModuleId])}
+                    </div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setMovePickerOpen(false);
+                      setLayoutEditModule(null);
+                    }}
+                    className="rounded-full border border-emerald-400/25 bg-emerald-400/10 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.18em] text-emerald-100 transition hover:bg-emerald-400/16"
+                  >
+                    {localize({ en: "Done", hu: "Kész", de: "Fertig", ro: "Gata" })}
+                  </button>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
 
           {state.recoveryPriority && (
             <motion.button
@@ -2183,7 +2369,49 @@ export default function GravitasPage() {
               <AlertTriangle size={12} />
               <span>{localize(state.modules[state.recoveryPriority.moduleId].name)}</span>
             </motion.button>
-          )}
+            )}
+            {interiorView === "warroom" && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.985 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.985 }}
+                transition={{ duration: 0.25, ease: "easeOut" }}
+                className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
+              >
+                <div className="relative flex h-full flex-col">
+                  <div className="pointer-events-none absolute inset-0 opacity-95">
+                    <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(239,68,68,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
+                  </div>
+                  <div className="relative z-10 flex items-start justify-between gap-3 p-4">
+                    <span className="rounded-full border border-red-400/15 bg-red-400/10 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.18em] text-red-300">
+                      Command Deck
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => setInteriorView(null)}
+                      className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
+                    >
+                      <X size={16} />
+                    </button>
+                  </div>
+                  <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
+                    <div className="relative overflow-hidden rounded-[28px] border border-red-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
+                      <div className="absolute inset-0 bg-gradient-to-b from-red-400/5 via-transparent to-black/20 pointer-events-none" />
+                      <div className="relative z-10">
+                        <WarRoomPanel
+                          state={state}
+                          dispatch={dispatch}
+                          lang={lang}
+                        />
+                        <div className="relative mt-4 min-h-[72vh]">
+                          <OfficerLoungePanel state={state} doAction={(cmd, color) => { dispatch(cmd); setActionFlash(color); setTimeout(() => setActionFlash(null), 800); }} onClose={() => setInteriorView(null)} lang={lang} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </motion.div>
+            )}
 
           {avatarImprintStageActive && state.avatarImprintActive && state.avatarProfile && (
             <div className="absolute inset-x-3 bottom-20 z-[32] sm:inset-x-auto sm:right-3 sm:w-[340px]">

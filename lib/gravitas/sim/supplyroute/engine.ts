@@ -6,6 +6,7 @@ import { SUPPLY_ROUTE_CONFIG } from "../../economy";
 import { getReputationTier, applyReputationChange } from "../faction/reputation";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
 import { pushJournal } from "../shared";
+import { nextRandom, randomInt } from "../rng";
 
 export function createInitialSupplyRouteState(): SupplyRouteState {
   return {
@@ -65,8 +66,12 @@ export function establishRoute(state: StarholdState, factionId: FactionId, mater
   const yieldMult = tier === "allied" ? 1.5 : tier === "friendly" ? 1.0 : 0.8; // Should only be friendly+ based on minRep check
   
   const now = Date.now();
+  let currentRngState = state.globalRngState;
+  const { value: r1, nextState: s1 } = randomInt(currentRngState, 0, 999);
+  currentRngState = s1;
+
   const newRoute: SupplyRoute = {
-    id: `route_${now}_${Math.floor(Math.random() * 1000)}`,
+    id: `route_${now}_${r1}`,
     factionId,
     materialId,
     yieldPerHour: Math.round(baseYield * yieldMult),
@@ -86,6 +91,7 @@ export function establishRoute(state: StarholdState, factionId: FactionId, mater
 
   return {
     ...state,
+    globalRngState: currentRngState,
     supplyRoutes: {
       ...state.supplyRoutes,
       maxRoutes: currentMax,
@@ -141,6 +147,7 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
   let nextState = state;
   let mutated = false;
   let inventoryMutated = false;
+  let currentRngState = state.globalRngState;
   const inventory = loadSavedGalaxyInventory();
 
   const currentMax = SUPPLY_ROUTE_CONFIG.maxRoutesBase + Math.floor(state.moduleLevels.logistics / SUPPLY_ROUTE_CONFIG.maxRoutesPerLogisticsLevels);
@@ -201,35 +208,44 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
       const raidChance = Math.max(0, (100 - protectionLevel) * 0.005); // 0.5% per missing protection point
 
       nextRoutes = nextRoutes.map(route => {
-        if (route.status === "active" && Math.random() < raidChance) {
-          const raider = hostileFactions[Math.floor(Math.random() * hostileFactions.length)];
-          const isDestroyed = protectionLevel < 20 && Math.random() < SUPPLY_ROUTE_CONFIG.destroyChanceIfLowProtection;
-          
-          totalRaidedNow++;
-          
-          if (isDestroyed) {
-             const alertText = {
-              en: `CRITICAL: Supply route to ${route.factionId} destroyed by ${raider} raiders!`,
-              hu: `KRITIKUS: Az ellátási útvonalat a(z) ${route.factionId} felé megsemmisítették a(z) ${raider} portyázók!`,
-              de: `KRITISCH: Versorgungsroute nach ${route.factionId} von ${raider} zerstört!`,
-              ro: `CRITIC: Ruta de aprovizionare către ${route.factionId} distrusă de raiderii ${raider}!`,
-            };
-            nextState = { ...nextState, alert: alertText, journal: pushJournal(nextState, alertText) };
-            return { ...route, status: "destroyed", disruptedUntil: null };
-          } else {
-            const alertText = {
-              en: `Supply route to ${route.factionId} disrupted by ${raider} raiders.`,
-              hu: `Az ellátási útvonalat a(z) ${route.factionId} felé megzavarták a(z) ${raider} portyázók.`,
-              de: `Versorgungsroute nach ${route.factionId} von ${raider} gestört.`,
-              ro: `Ruta de aprovizionare către ${route.factionId} perturbată de raiderii ${raider}.`,
-            };
-            nextState = { ...nextState, alert: alertText, journal: pushJournal(nextState, alertText) };
-            return { 
-              ...route, 
-              status: "disrupted", 
-              disruptedUntil: now + SUPPLY_ROUTE_CONFIG.disruptionDurationMs 
-            };
-          }
+        if (route.status === "active") {
+           const { value: rcRoll, nextState: sRc } = nextRandom(currentRngState);
+           currentRngState = sRc;
+           if (rcRoll < raidChance) {
+             const { value: rFac, nextState: sFac } = randomInt(currentRngState, 0, hostileFactions.length - 1);
+             currentRngState = sFac;
+             const raider = hostileFactions[rFac];
+
+             const { value: rDest, nextState: sDest } = nextRandom(currentRngState);
+             currentRngState = sDest;
+             const isDestroyed = protectionLevel < 20 && rDest < SUPPLY_ROUTE_CONFIG.destroyChanceIfLowProtection;
+            
+             totalRaidedNow++;
+            
+             if (isDestroyed) {
+                const alertText = {
+                 en: `CRITICAL: Supply route to ${route.factionId} destroyed by ${raider} raiders!`,
+                 hu: `KRITIKUS: Az ellátási útvonalat a(z) ${route.factionId} felé megsemmisítették a(z) ${raider} portyázók!`,
+                 de: `KRITISCH: Versorgungsroute nach ${route.factionId} von ${raider} zerstört!`,
+                 ro: `CRITIC: Ruta de aprovizionare către ${route.factionId} distrusă de raiderii ${raider}!`,
+               };
+               nextState = { ...nextState, alert: alertText, journal: pushJournal(nextState, alertText) };
+               return { ...route, status: "destroyed", disruptedUntil: null };
+             } else {
+               const alertText = {
+                 en: `Supply route to ${route.factionId} disrupted by ${raider} raiders.`,
+                 hu: `Az ellátási útvonalat a(z) ${route.factionId} felé megzavarták a(z) ${raider} portyázók.`,
+                 de: `Versorgungsroute nach ${route.factionId} von ${raider} gestört.`,
+                 ro: `Ruta de aprovizionare către ${route.factionId} perturbată de raiderii ${raider}.`,
+               };
+               nextState = { ...nextState, alert: alertText, journal: pushJournal(nextState, alertText) };
+               return { 
+                 ...route, 
+                 status: "disrupted", 
+                 disruptedUntil: now + SUPPLY_ROUTE_CONFIG.disruptionDurationMs 
+               };
+             }
+           }
         }
         return route;
       });
@@ -263,5 +279,9 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
     saveGalaxyInventory(inventory);
   }
 
-  return mutated ? nextState : state;
+  if (mutated) {
+    return { ...nextState, globalRngState: currentRngState };
+  }
+
+  return { ...state, globalRngState: currentRngState };
 }

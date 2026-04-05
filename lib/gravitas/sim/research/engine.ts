@@ -24,11 +24,28 @@ export function canResearch(state: StarholdState, projectId: string): boolean {
   if (!state.research.discoveredFields.includes(project.fieldId)) return false;
 
   const coreLevel = state.moduleLevels.core;
-  const requiredCore = RESEARCH_CONFIG.tierUnlockCoreLevels[project.tier - 1];
+  const requiredCore = RESEARCH_CONFIG.tierUnlockCoreLevels[project.tier - 1] || 1; // fallback for tier 5
   if (coreLevel < requiredCore) return false;
 
-  for (const req of project.prerequisites) {
-    if (!state.research.completed.includes(req)) return false;
+  if (project.prerequisites.projects) {
+    for (const req of project.prerequisites.projects) {
+      if (!state.research.completed.includes(req)) return false;
+    }
+  }
+  if (project.prerequisites.moduleLevels) {
+    for (const [modId, level] of Object.entries(project.prerequisites.moduleLevels)) {
+      if ((state.moduleLevels as Record<string, number>)[modId] < (level ?? 0)) return false;
+    }
+  }
+  if (project.prerequisites.factionReputation) {
+    for (const [facId, rep] of Object.entries(project.prerequisites.factionReputation)) {
+      if ((state.factionReputation.reputation as Record<string, number>)[facId] < (rep ?? 0)) return false;
+    }
+  }
+  if (project.prerequisites.resources) {
+    for (const [resId, val] of Object.entries(project.prerequisites.resources)) {
+      if ((state.resources as unknown as Record<string, number>)[resId] < (val ?? 0)) return false;
+    }
   }
 
   const inventory = loadSavedGalaxyInventory();
@@ -55,7 +72,7 @@ export function startResearch(state: StarholdState, projectId: string): Starhold
   }
   saveGalaxyInventory(inventory);
 
-  const durationMs = RESEARCH_CONFIG.tierDurationMs[project.tier - 1];
+  const durationMs = project.baseDurationMs ?? RESEARCH_CONFIG.tierDurationMs[project.tier - 1] ?? (240 * 3600000); // default to long if not found
   const now = Date.now();
 
   const text = {
@@ -145,6 +162,15 @@ export function tickResearch(state: StarholdState): StarholdState {
       mutated = true;
     }
   }
+  if (!nextState.research.discoveredFields.includes("core")) {
+    if (nextState.moduleLevels.core >= 10) {
+      nextState = {
+        ...nextState,
+        research: { ...nextState.research, discoveredFields: [...nextState.research.discoveredFields, "core"] }
+      };
+      mutated = true;
+    }
+  }
 
   // Check completion
   if (nextState.research.active) {
@@ -179,8 +205,12 @@ export function getResearchEffect(completed: string[], target: string): number {
   let total = 0;
   for (const pid of completed) {
     const p = RESEARCH_PROJECTS.find(x => x.id === pid);
-    if (p && p.effect.target === target) {
-      total += p.effect.value;
+    if (p && p.effects) {
+      for (const eff of p.effects) {
+        if (eff.target === target) {
+          total += eff.value;
+        }
+      }
     }
   }
   return total;

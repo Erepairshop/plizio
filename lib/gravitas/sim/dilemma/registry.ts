@@ -13,8 +13,8 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     },
     factionId: null, // Any faction can be chosen at runtime
     options: [
-      { id: "A", label: { en: "Accept", hu: "Befogadás", de: "Aufnehmen", ro: "Acceptă" }, description: { en: "Take them in. Cost: 50 supply. Bonus: +10 rep, permanent drone speed boost later.", hu: "Befogadod. Költség: 50 ellátmány. Bónusz: +10 reputáció, később drón sebesség bónusz.", de: "Nimm sie auf. Kosten: 50 Vorräte. Bonus: +10 Rep, später Drohnengeschwindigkeit.", ro: "Primește-i. Cost: 50 provizii. Bonus: +10 rep, viteză drone mai târziu." } },
-      { id: "B", label: { en: "Refuse", hu: "Elutasítás", de: "Ablehnen", ro: "Refuză" }, description: { en: "Turn them away. -5 rep, risk of future raid.", hu: "Elutasítod. -5 reputáció, jövőbeli portya kockázata.", de: "Weise sie ab. -5 Rep, Risiko eines späteren Überfalls.", ro: "Refuză-i. -5 rep, risc de raid viitor." } },
+      { id: "A", label: { en: "Accept", hu: "Befogadás", de: "Aufnehmen", ro: "Acceptă" }, description: { en: "Take them in. Cost: 50 supply. Bonus: +10 rep, permanent drone speed boost later.", hu: "Befogadod. Költség: 50 ellátmány. Bónusz: +10 reputáció, később drón sebesség bónusz.", de: "Nimm sie auf. Kosten: 50 Vorräte. Bonus: +10 Rep, später Drohnengeschwindigkeit.", ro: "Primește-i. Cost: 50 provizii. Bonus: +10 rep, viteză drone mai târziu." }, hasDelayedEffect: true },
+      { id: "B", label: { en: "Refuse", hu: "Elutasítás", de: "Ablehnen", ro: "Refuză" }, description: { en: "Turn them away. -5 rep, risk of future raid.", hu: "Elutasítod. -5 reputáció, jövőbeli portya kockázata.", de: "Weise sie ab. -5 Rep, Risiko eines späteren Überfalls.", ro: "Refuză-i. -5 rep, risc de raid viitor." }, hasDelayedEffect: true },
       { id: "C", label: { en: "Give supplies", hu: "Ellátmányt adsz", de: "Vorräte geben", ro: "Dă provizii" }, description: { en: "Give resources but don't take them in. Cost: 25 supply. +3 rep.", hu: "Anyagot adsz de nem fogadod be. Költség: 25 ellátmány. +3 reputáció.", de: "Gib Vorräte, aber nimm sie nicht auf. Kosten: 25 Vorräte. +3 Rep.", ro: "Dă-le resurse dar nu îi primi. Cost: 25 provizii. +3 rep." } },
     ],
     requiredPhase: null,
@@ -34,7 +34,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     },
     factionId: "noma", // Velari or Noma
     options: [
-      { id: "A", label: { en: "Accept", hu: "Elfogadás", de: "Akzeptieren", ro: "Acceptă" }, description: { en: "Gain 80 rift stone, but 30% risk of raid in 14 days.", hu: "Kapsz 80 rift követ, de 30% esély portyára 14 nap múlva.", de: "Erhalte 80 Rift-Steine, aber 30% Risiko eines Überfalls in 14 Tagen.", ro: "Primește 80 rift stone, dar risc de 30% raid în 14 zile." } },
+      { id: "A", label: { en: "Accept", hu: "Elfogadás", de: "Akzeptieren", ro: "Acceptă" }, description: { en: "Gain 80 rift stone, but 30% risk of raid in 14 days.", hu: "Kapsz 80 rift követ, de 30% esély portyára 14 nap múlva.", de: "Erhalte 80 Rift-Steine, aber 30% Risiko eines Überfalls in 14 Tagen.", ro: "Primește 80 rift stone, dar risc de 30% raid în 14 zile." }, hasDelayedEffect: true },
       { id: "B", label: { en: "Refuse", hu: "Elutasítás", de: "Ablehnen", ro: "Refuză" }, description: { en: "No trade. -2 rep.", hu: "Nincs üzlet. -2 reputáció.", de: "Kein Handel. -2 Rep.", ro: "Fără schimb. -2 rep." } },
       { id: "C", label: { en: "Pay double", hu: "Duplán fizetsz", de: "Doppelt bezahlen", ro: "Plătește dublu" }, description: { en: "Cost: 120 lumen dust. Gain 80 rift stone. No risk.", hu: "Költség: 120 lumen por. Kapsz 80 rift követ. Nincs kockázat.", de: "Kosten: 120 Lumenstaub. Erhalte 80 Rift-Steine. Kein Risiko.", ro: "Cost: 120 lumen dust. Primește 80 rift stone. Fără risc." } },
     ],
@@ -55,9 +55,9 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     },
     factionId: null,
     options: [
-      { id: "A", label: { en: "Accept", hu: "Elfogadás", de: "Akzeptieren", ro: "Acceptă" }, description: { en: "Gain 30% intel. 40% chance of discovery (-10 rep).", hu: "Kapsz 30% intel-t. 40% esély lebukásra (-10 rep).", de: "Erhalte 30% Intel. 40% Entdeckungschance (-10 Rep).", ro: "Primește 30% intel. 40% șansă de descoperire (-10 rep)." } },
+      { id: "A", label: { en: "Accept", hu: "Elfogadás", de: "Akzeptieren", ro: "Acceptă" }, description: { en: "Gain 30% intel. 40% chance of discovery (-10 rep).", hu: "Kapsz 30% intel-t. 40% esély lebukásra (-10 rep).", de: "Erhalte 30% Intel. 40% Entdeckungschance (-10 Rep).", ro: "Primește 30% intel. 40% șansă de descoperire (-10 rep)." }, hasDelayedEffect: true },
       { id: "B", label: { en: "Report", hu: "Jelentés", de: "Melden", ro: "Raportează" }, description: { en: "Decline and report. +8 rep with deserter's faction.", hu: "Elutasítod és jelented. +8 rep a dezertőr frakciójával.", de: "Ablehnen und melden. +8 Rep bei der Fraktion des Deserteurs.", ro: "Refuză și raportează. +8 rep cu fracțiunea dezertorului." } },
-      { id: "C", label: { en: "Double Play", hu: "Dupla játék", de: "Doppelspiel", ro: "Joc dublu" }, description: { en: "Intel +15%, +4 rep, but 25% risk of -20 rep with both.", hu: "Intel +15%, +4 rep, de 25% esély -20 rep-re mindkettővel.", de: "Intel +15%, +4 Rep, aber 25% Risiko von -20 Rep bei beiden.", ro: "Intel +15%, +4 rep, dar 25% risc de -20 rep cu ambele." } },
+      { id: "C", label: { en: "Double Play", hu: "Dupla játék", de: "Doppelspiel", ro: "Joc dublu" }, description: { en: "Intel +15%, +4 rep, but 25% risk of -20 rep with both.", hu: "Intel +15%, +4 rep, de 25% esély -20 rep-re mindkettővel.", de: "Intel +15%, +4 Rep, aber 25% Risiko von -20 Rep bei beiden.", ro: "Intel +15%, +4 rep, dar 25% risc de -20 rep cu ambele." }, hasDelayedEffect: true },
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { warroom: 5 } },
@@ -96,7 +96,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     },
     factionId: null,
     options: [
-      { id: "A", label: { en: "Shutdown", hu: "Kikapcsolás", de: "Abschalten", ro: "Oprire" }, description: { en: "Offline for 30 mins, then +30 integrity.", hu: "Kikapcsolás 30 percre, utána +30 integrity.", de: "30 Min. offline, dann +30 Integrität.", ro: "Offline 30 min, apoi +30 integritate." } },
+      { id: "A", label: { en: "Shutdown", hu: "Kikapcsolás", de: "Abschalten", ro: "Oprire" }, description: { en: "Offline for 30 mins, then +30 integrity.", hu: "Kikapcsolás 30 percre, utána +30 integrity.", de: "30 Min. offline, dann +30 Integrität.", ro: "Offline 30 min, apoi +30 integritate." }, hasDelayedEffect: true },
       { id: "B", label: { en: "Risk it", hu: "Kockáztatás", de: "Riskieren", ro: "Riscă" }, description: { en: "40% chance of critical failure.", hu: "40% esély kritikus hibára.", de: "40% Risiko eines kritischen Fehlers.", ro: "Șansă de 40% de eșec critic." } },
     ],
     requiredPhase: null,
@@ -403,6 +403,45 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     cooldownDays: 7,
     rare: false,
   },
+  // 21. Black Market Hack (Module Targeting & Delayed)
+  {
+    id: "black_market_hack",
+    name: { en: "Black Market Hack", hu: "Feketepiaci Hack", de: "Schwarzmarkt-Hack", ro: "Hack de Piață Neagră" },
+    description: {
+      en: "A rogue AI offers a logistics upgrade, but it might infect the network.",
+      hu: "Egy kóbor AI logisztikai frissítést kínál, de megfertőzheti a hálózatot.",
+      de: "Eine abtrünnige KI bietet ein Logistik-Upgrade an, könnte aber das Netzwerk infizieren.",
+      ro: "Un AI rătăcit oferă un upgrade logistic, dar ar putea infecta rețeaua."
+    },
+    factionId: null,
+    options: [
+      { id: "A", label: { en: "Install", hu: "Telepítés", de: "Installieren", ro: "Instalează" }, description: { en: "Instant +40 logistics integrity. 30% chance for a network crash later.", hu: "Azonnali +40 logisztika integritás. 30% esély egy későbbi hálózati összeomlásra.", de: "Sofort +40 Logistik-Integrität. 30% Chance auf einen späteren Netzwerkabsturz.", ro: "Azonnali +40 integritate logistică. 30% șansă de prăbușire a rețelei mai târziu." }, hasDelayedEffect: true },
+      { id: "B", label: { en: "Quarantine", hu: "Karantén", de: "Quarantäne", ro: "Carantină" }, description: { en: "Sensor array offline for 1 hour to study it. +10 intel.", hu: "A szenzorok 1 órára leállnak a tanulmányozáshoz. +10 intel.", de: "Sensoren für 1 Stunde offline, um sie zu studieren. +10 Intel.", ro: "Senzorii opriți 1 oră pentru studiu. +10 intel." } },
+    ],
+    requiredPhase: null,
+    conditions: { minModuleLevel: { logistics: 5 } },
+    cooldownDays: 20,
+    rare: false,
+  },
+  // 22. Black Market Crash (Followup)
+  {
+    id: "black_market_crash",
+    name: { en: "Network Crash", hu: "Hálózati Összeomlás", de: "Netzwerkabsturz", ro: "Prăbușirea Rețelei" },
+    description: {
+      en: "The rogue AI from the black market has triggered a widespread network failure.",
+      hu: "A feketepiaci AI egy kiterjedt hálózati hibát okozott.",
+      de: "Die abtrünnige KI vom Schwarzmarkt hat einen weitreichenden Netzwerkausfall ausgelöst.",
+      ro: "AI-ul de pe piața neagră a declanșat o defecțiune a rețelei."
+    },
+    factionId: null,
+    options: [
+      { id: "A", label: { en: "Reboot", hu: "Újraindítás", de: "Neustart", ro: "Repornire" }, description: { en: "Sensors and Logistics offline for 2 hours.", hu: "A Szenzorok és a Logisztika 2 órára leállnak.", de: "Sensoren und Logistik für 2 Stunden offline.", ro: "Senzorii și Logistica offline 2 ore." } },
+    ],
+    requiredPhase: null,
+    conditions: { requirePreviousChoice: { dilemmaId: "black_market_hack", optionId: "A" } },
+    cooldownDays: 999,
+    rare: false,
+  }
 ];
 
 export const DILEMMA_MAP: Record<DilemmaId, DilemmaEvent> = DILEMMA_DEFS.reduce((acc, def) => {

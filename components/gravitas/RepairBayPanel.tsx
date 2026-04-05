@@ -1,12 +1,12 @@
 "use client";
 
 import { useState, useEffect, useMemo } from "react";
-import { X, Wrench, AlertTriangle, Shield, Crosshair, Radar, Activity, Check } from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
+import { AlertTriangle, Shield, Crosshair, Radar, Activity } from "lucide-react";
+import { motion } from "framer-motion";
 import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
 import type { WarRoomUnitId } from "@/lib/gravitas/sim/warroom/types";
-import { getRepairSlotCount, getRepairBatchCost } from "@/lib/gravitas/sim/repairbay/repair";
-import { REPAIR_BAY_CONFIG } from "@/lib/gravitas/economy";
+import { getRepairSlotCount, getRepairBatchCost, getRepairBatchSize } from "@/lib/gravitas/sim/repairbay/repair";
+import { REPAIR_BAY_CONFIG, getLevelCost, canUpgradeModule } from "@/lib/gravitas/economy";
 import { loadSavedGalaxyInventory } from "@/lib/gravitas/world/mission";
 
 interface RepairBayPanelProps {
@@ -50,7 +50,7 @@ function formatDuration(ms: number): string {
   return `${s}s`;
 }
 
-export default function RepairBayPanel({ state, doAction, onClose, lang }: RepairBayPanelProps) {
+export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanelProps) {
   const [now, setNow] = useState(Date.now());
   const [selectedUnit, setSelectedUnit] = useState<WarRoomUnitId | null>(null);
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
@@ -68,6 +68,11 @@ export default function RepairBayPanel({ state, doAction, onClose, lang }: Repai
 
   const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
   const dispatchColor = "rgba(52,211,153,0.15)";
+  const currentLevel = state.moduleLevels.repairbay;
+  const nextUpgrade = getLevelCost("repairbay", currentLevel + 1);
+  const upgradeCheck = canUpgradeModule("repairbay", state.moduleLevels, inventory);
+  const isRepairBayMax = currentLevel >= 25;
+  const slotsFull = state.upgradeQueue.length >= state.upgradeSlotCount;
 
   const maxSlots = getRepairSlotCount(state.repairBay.level);
   const activeSlots = state.repairBay.repairSlots.filter(s => s !== null);
@@ -118,24 +123,91 @@ export default function RepairBayPanel({ state, doAction, onClose, lang }: Repai
   const canAfford = Object.entries(repairCost).every(([matId, amount]) => amount === undefined || amount === 0 || (inventory[matId as keyof typeof inventory] ?? 0) >= amount);
 
   return (
-    <div className="absolute inset-0 z-[28] flex flex-col bg-black/90 backdrop-blur-md text-white/80">
-      {/* Header */}
-      <div className="flex items-center justify-between px-4 py-3 border-b border-emerald-500/20 bg-black/40">
-        <div className="flex items-center gap-3">
-          <Wrench size={20} className="text-emerald-400" />
-          <div>
-            <h2 className="text-sm font-black uppercase tracking-widest text-white">
-              {localize({ en: "Repair Bay", hu: "Javítóműhely", de: "Reparaturbucht", ro: "Unitate de Reparații" })}
-            </h2>
-            <p className="text-[10px] text-white/60">Module LVL {state.repairBay.level}</p>
-          </div>
+    <div className="flex h-full flex-col text-white/80">
+      <div className="px-4 py-2 text-[10px] font-black uppercase tracking-widest text-emerald-300/50">
+        {localize({ en: "Repair Bay", hu: "Javítóműhely", de: "Reparaturbucht", ro: "Unitate de Reparații" })}
+      </div>
+
+      <div className="px-4 pb-2">
+        <div className="rounded-2xl border border-emerald-400/15 bg-emerald-400/[0.04] p-3">
+          <p className="text-[11px] leading-relaxed text-emerald-100/65">
+            {localize({
+              en: "Send wounded units here to restore them before they decay permanently. You can start repairs, cancel them, and upgrade the bay for more capacity.",
+              hu: "Ide küldheted a sebesült egységeket, mielőtt végleg elvesznének. Javítást indíthatsz, megszakíthatod, és a bayt is fejlesztheted nagyobb kapacitásért.",
+              de: "Schicke verwundete Einheiten hierher, bevor sie dauerhaft verloren gehen. Du kannst Reparaturen starten, abbrechen und die Bucht für mehr Kapazität ausbauen.",
+              ro: "Trimite unitățile rănite aici înainte să se piardă definitiv. Poți porni reparații, le poți anula și poți îmbunătăți unitatea pentru capacitate mai mare.",
+            })}
+          </p>
         </div>
-        <button
-          onClick={onClose}
-          className="flex h-8 w-8 items-center justify-center rounded-full border border-white/10 bg-white/5 hover:bg-white/10 transition"
-        >
-          <X size={16} />
-        </button>
+      </div>
+
+      {/* Module Upgrade */}
+      <div className="px-4 pb-2">
+        <div className="rounded-2xl border border-emerald-400/15 bg-emerald-400/[0.04] p-3">
+          <div className="flex items-center justify-between gap-2">
+            <div>
+              <div className="text-[9px] font-black uppercase tracking-widest text-emerald-300/50">
+                {localize({ en: "Module Level", hu: "Modul Szint", de: "Modulstufe", ro: "Nivel Modul" })}
+              </div>
+              <div className="mt-0.5 text-sm font-black text-white/90">
+                Lv {currentLevel}{isRepairBayMax ? " MAX" : ""}
+              </div>
+            </div>
+            {!isRepairBayMax && nextUpgrade && (
+              <button
+                type="button"
+                disabled={!upgradeCheck.canUpgrade || slotsFull}
+                onClick={() => doAction({ type: "UPGRADE_MODULE", moduleId: "repairbay" }, "rgba(251,191,36,0.18)")}
+                className={`rounded-xl px-3 py-2 text-[10px] font-black uppercase tracking-widest transition ${
+                  upgradeCheck.canUpgrade && !slotsFull
+                    ? "border border-amber-400/30 bg-amber-400/12 text-amber-100 hover:bg-amber-400/20"
+                    : "border border-white/10 bg-white/[0.03] text-white/25 cursor-not-allowed"
+                }`}
+              >
+                {localize({ en: "Upgrade", hu: "Fejlesztés", de: "Upgrade", ro: "Upgrade" })}
+              </button>
+            )}
+          </div>
+          {!isRepairBayMax && nextUpgrade && (
+            <div className="mt-3 flex flex-col gap-2">
+              <div className="flex flex-wrap items-center gap-2">
+                {Object.entries(nextUpgrade.cost).map(([matId, amount]) => {
+                  if (!amount) return null;
+                  const hasAmt = (inventory[matId as keyof typeof inventory] ?? 0) >= amount;
+                  return (
+                    <span
+                      key={matId}
+                      className={`rounded-full border px-2 py-0.5 text-[9px] font-black ${
+                        hasAmt ? "border-white/10 text-white/60 bg-white/[0.03]" : "border-rose-500/30 text-rose-400 bg-rose-500/5"
+                      }`}
+                    >
+                      {matId.split("_")[0].slice(0, 2).toUpperCase()} {amount}
+                    </span>
+                  );
+                })}
+              </div>
+              <div className="text-[9px] font-medium uppercase tracking-wider text-white/30">
+                ⏱ {formatDuration(nextUpgrade.buildSeconds * 1000)}
+              </div>
+              {!upgradeCheck.canUpgrade && upgradeCheck.reason && (
+                <div className="text-[9px] font-black uppercase tracking-widest text-amber-300/60">
+                  {upgradeCheck.reason === "core_level"
+                    ? localize({ en: "Core level required", hu: "Core szint szükséges", de: "Core-Level nötig", ro: "Nivel Core necesar" })
+                    : upgradeCheck.reason === "materials"
+                      ? localize({ en: "Insufficient materials", hu: "Nincs elég anyag", de: "Nicht genug Materialien", ro: "Materiale insuficiente" })
+                      : upgradeCheck.reason === "max_level"
+                        ? localize({ en: "Max level reached", hu: "Max szint elérve", de: "Maximalstufe erreicht", ro: "Nivel maxim atins" })
+                        : localize({ en: "Upgrade unavailable", hu: "Fejlesztés nem elérhető", de: "Upgrade nicht verfügbar", ro: "Upgrade indisponibil" })}
+                </div>
+              )}
+              {slotsFull && (
+                <div className="text-[9px] font-black uppercase tracking-widest text-amber-300/60">
+                  {localize({ en: "Upgrade slots full", hu: "Fejlesztési slotok tele", de: "Upgrade-Slots belegt", ro: "Sloturi de upgrade ocupate" })}
+                </div>
+              )}
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Decay Warning */}

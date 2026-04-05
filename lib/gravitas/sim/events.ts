@@ -2,6 +2,7 @@ import type { StarholdEventDefinition, StarholdState, StarholdEventId, StarholdM
 import { clamp, pushJournal } from "./shared";
 import { GRAVITAS_TEXT } from "./content";
 import { isDemoChapter } from "./chapter";
+import { nextRandom } from "./rng";
 
 const T = GRAVITAS_TEXT.events;
 const A = GRAVITAS_TEXT.alerts;
@@ -1278,10 +1279,14 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
     }),
     resolve: (state, optionId) => {
       if (optionId === "sendDrone") {
-        const success = Math.random() > 0.4;
+        let currentRngState = state.globalRngState;
+        const { value: rSucc, nextState: sSucc } = nextRandom(currentRngState);
+        currentRngState = sSucc;
+        const success = rSucc > 0.4;
         if (success) {
           return {
             ...state,
+            globalRngState: currentRngState,
             pendingEvent: null,
             resources: {
               ...state.resources,
@@ -1294,6 +1299,7 @@ const STARHOLD_EVENTS: StarholdEventDefinition[] = [
         } else {
           return {
             ...state,
+            globalRngState: currentRngState,
             pendingEvent: null,
             resources: {
               ...state.resources,

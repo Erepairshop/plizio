@@ -1,5 +1,6 @@
 import type { StarholdState, LocalizedString } from "../types";
 import type { NotificationEntry, NotificationType } from "./types";
+import { randomInt } from "../rng";
 
 const MAX_NOTIFICATIONS = 20;
 const AUTO_DISMISS_MS = 5 * 60 * 1000; // 5 minutes
@@ -15,8 +16,12 @@ export function pushNotification(
   message: LocalizedString,
   icon: string = "Bell"
 ): StarholdState {
+  let currentRngState = state.globalRngState;
+  const { value: r1, nextState: s1 } = randomInt(currentRngState, 0, 9999);
+  currentRngState = s1;
+
   const newNotif: NotificationEntry = {
-    id: `notif_${Date.now()}_${Math.floor(Math.random() * 10000)}`,
+    id: `notif_${Date.now()}_${r1}`,
     type,
     title,
     message,
@@ -29,6 +34,7 @@ export function pushNotification(
   
   return {
     ...state,
+    globalRngState: currentRngState,
     notifications: {
       ...state.notifications,
       queue: newQueue,

@@ -1,5 +1,7 @@
 "use client";
 
+import { useEffect, useRef, useState } from "react";
+import type { PointerEvent as ReactPointerEvent } from "react";
 import { motion } from "framer-motion";
 import { X } from "lucide-react";
 import { type StarholdModuleId, type StarholdState, type StarholdCommand } from "@/lib/gravitas/sim/types";
@@ -12,19 +14,74 @@ interface InteriorViewProps {
   onClose: () => void;
 }
 
-export function SensorInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
+function UnifiedInteriorView({
+  moduleId,
+  state,
+  dispatch,
+  lang,
+  onClose,
+  accentColor,
+  title,
+}: InteriorViewProps & {
+  moduleId: "sensor" | "reactor" | "core" | "logistics";
+  accentColor: "cyan" | "amber" | "fuchsia" | "indigo" | "red";
+  title: string;
+}) {
+  const accentMap = {
+    cyan: {
+      glow: "rgba(34,211,238,0.08)",
+      gradient: "from-cyan-400/5",
+      border: "border-cyan-400/15",
+      text: "text-cyan-300",
+      accent: "bg-cyan-400/10",
+    },
+    amber: {
+      glow: "rgba(251,146,60,0.08)",
+      gradient: "from-amber-400/5",
+      border: "border-amber-400/15",
+      text: "text-amber-300",
+      accent: "bg-amber-400/10",
+    },
+    fuchsia: {
+      glow: "rgba(217,70,239,0.08)",
+      gradient: "from-fuchsia-400/5",
+      border: "border-fuchsia-400/15",
+      text: "text-fuchsia-300",
+      accent: "bg-fuchsia-400/10",
+    },
+    indigo: {
+      glow: "rgba(129,140,248,0.08)",
+      gradient: "from-indigo-400/5",
+      border: "border-indigo-400/15",
+      text: "text-indigo-300",
+      accent: "bg-indigo-400/10",
+    },
+    red: {
+      glow: "rgba(239,68,68,0.08)",
+      gradient: "from-red-400/5",
+      border: "border-red-400/15",
+      text: "text-red-300",
+      accent: "bg-red-400/10",
+    },
+  } as const;
+  const theme = accentMap[accentColor ?? "cyan"];
   return (
     <div className="relative flex h-full flex-col">
-      <div className="pointer-events-none absolute inset-0 opacity-90">
+      <div className="pointer-events-none absolute inset-0 opacity-95">
         <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url('/gravitas/sensor-interior-v2.webp')" }}
+          className="absolute inset-0"
+          style={{
+            backgroundImage: `radial-gradient(circle at 50% 45%, ${theme.glow}, transparent 24%), linear-gradient(180deg, rgba(5,8,22,0.08) 0%, rgba(5,8,22,0.34) 100%)`,
+          }}
         />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(34,211,238,0.08),transparent_26%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.42)_100%)]" />
       </div>
 
-      <div className="relative z-10 flex items-start justify-between gap-4 p-4">
-        <div />
+      <div className="relative z-10 flex items-start justify-between gap-3 p-4">
+        <div className="flex items-center gap-2">
+          <span className={`rounded-full border ${theme.border} ${theme.accent} px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.18em] ${theme.text}`}>
+            {title}
+          </span>
+        </div>
         <button
           type="button"
           onClick={onClose}
@@ -35,10 +92,10 @@ export function SensorInteriorView({ state, dispatch, lang, onClose }: InteriorV
       </div>
 
       <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
-        <div className="relative overflow-hidden rounded-[28px] border border-cyan-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/5 via-transparent to-black/20 pointer-events-none" />
+        <div className={`relative overflow-hidden rounded-[28px] border ${theme.border} bg-black/10 p-4 backdrop-blur-[1px]`}>
+          <div className={`absolute inset-0 bg-gradient-to-b ${theme.gradient} via-transparent to-black/20 pointer-events-none`} />
           <div className="relative z-10">
-            <ModuleInteriorPanel moduleId="sensor" state={state} dispatch={dispatch} lang={lang} accentColor="cyan" />
+            <ModuleInteriorPanel moduleId={moduleId} state={state} dispatch={dispatch} lang={lang} accentColor={accentColor ?? "cyan"} />
           </div>
         </div>
       </div>
@@ -46,119 +103,64 @@ export function SensorInteriorView({ state, dispatch, lang, onClose }: InteriorV
   );
 }
 
-export function ReactorInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
-  return (
-    <div className="relative flex h-full flex-col">
-      <div className="pointer-events-none absolute inset-0 opacity-95">
-        <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url('/gravitas/reactor-interior.webp')" }}
-        />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(251,146,60,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
-      </div>
-
-      <div className="relative z-10 flex items-start justify-end p-4">
-        <button
-          type="button"
-          onClick={onClose}
-          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
-        >
-          <X size={16} />
-        </button>
-      </div>
-
-      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
-        <div className="relative overflow-hidden rounded-[28px] border border-amber-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-amber-400/5 via-transparent to-black/20 pointer-events-none" />
-          <div className="relative z-10">
-            <ModuleInteriorPanel moduleId="reactor" state={state} dispatch={dispatch} lang={lang} accentColor="amber" />
-          </div>
-        </div>
-      </div>
-    </div>
-  );
+export function SensorInteriorView(props: InteriorViewProps) {
+  return <UnifiedInteriorView {...props} moduleId="sensor" accentColor="cyan" title="Sensor" />;
 }
 
-export function CoreInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
-  return (
-    <div className="relative flex h-full flex-col">
-      <div className="pointer-events-none absolute inset-0 opacity-95">
-        <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url('/gravitas/core-interior.webp')" }}
-        />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_42%,rgba(217,70,239,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
-      </div>
-
-      <div className="relative z-10 flex items-start justify-end p-4">
-        <button
-          type="button"
-          onClick={onClose}
-          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
-        >
-          <X size={16} />
-        </button>
-      </div>
-
-      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
-        <div className="relative overflow-hidden rounded-[28px] border border-fuchsia-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-fuchsia-400/5 via-transparent to-black/20 pointer-events-none" />
-          <div className="relative z-10">
-            <ModuleInteriorPanel moduleId="core" state={state} dispatch={dispatch} lang={lang} accentColor="fuchsia" />
-          </div>
-        </div>
-      </div>
-    </div>
-  );
+export function ReactorInteriorView(props: InteriorViewProps) {
+  return <UnifiedInteriorView {...props} moduleId="reactor" accentColor="amber" title="Reactor" />;
 }
 
-export function LogisticsInteriorView({ state, dispatch, lang, onClose }: InteriorViewProps) {
-  return (
-    <div className="relative flex h-full flex-col">
-      <div className="pointer-events-none absolute inset-0 opacity-95">
-        <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url('/gravitas/logistics-interior.webp')" }}
-        />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_45%,rgba(129,140,248,0.08),transparent_24%),linear-gradient(180deg,rgba(5,8,22,0.08)_0%,rgba(5,8,22,0.34)_100%)]" />
-      </div>
+export function CoreInteriorView(props: InteriorViewProps) {
+  return <UnifiedInteriorView {...props} moduleId="core" accentColor="fuchsia" title="Core" />;
+}
 
-      <div className="relative z-10 flex items-start justify-end p-4">
-        <button
-          type="button"
-          onClick={onClose}
-          className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/20 text-white/75 transition hover:bg-white/10 hover:text-white"
-        >
-          <X size={16} />
-        </button>
-      </div>
-
-      <div className="relative z-10 flex-1 overflow-y-auto px-4 pb-4">
-        <div className="relative overflow-hidden rounded-[28px] border border-indigo-400/15 bg-black/10 p-4 backdrop-blur-[1px]">
-          <div className="absolute inset-0 bg-gradient-to-b from-indigo-400/5 via-transparent to-black/20 pointer-events-none" />
-          <div className="relative z-10">
-            <ModuleInteriorPanel moduleId="logistics" state={state} dispatch={dispatch} lang={lang} accentColor="indigo" />
-          </div>
-        </div>
-      </div>
-    </div>
-  );
+export function LogisticsInteriorView(props: InteriorViewProps) {
+  return <UnifiedInteriorView {...props} moduleId="logistics" accentColor="indigo" title="Logistics" />;
 }
 
 export function ModuleArtOverlay({
   selectedModule,
   onSelectModule,
+  onSelectMoveTarget,
   onOpenWarRoom,
+  onOpenRepairBay,
+  layoutEditModule,
 }: {
   selectedModule: StarholdModuleId;
   onSelectModule: (moduleId: StarholdModuleId) => void;
+  onSelectMoveTarget?: (moduleId: StarholdModuleId | "repair-bay" | "warroom") => void;
   onOpenWarRoom?: () => void;
+  onOpenRepairBay?: () => void;
+  layoutEditModule?: StarholdModuleId | "repair-bay" | "warroom" | null;
 }) {
-  const modules = [
+  type ModuleId = StarholdModuleId | "repair-bay" | "warroom";
+  type ModulePlacement = { left: number; top: number };
+  type ModuleDef = {
+    id: ModuleId;
+    src: string;
+    className: string;
+    hitboxClassName: string;
+    imageClassName: string;
+    motion: { x: number[]; y: number[]; rotate: number[] };
+    duration: number;
+  };
+
+  const STORAGE_KEY = "gravitas_module_layout_v1";
+  const defaultPlacements: Record<ModuleId, ModulePlacement> = {
+    reactor: { left: 8, top: 11 },
+    logistics: { left: 43, top: 8 },
+    sensor: { left: 56, top: 52 },
+    core: { left: 29, top: 24 },
+    "repair-bay": { left: 6, top: 49 },
+    warroom: { left: 48, top: 34 },
+  };
+
+  const modules: ModuleDef[] = [
     {
       id: "reactor" as const,
       src: "/gravitas/modules/reactor-luminous.webp",
-      className: "left-[8%] top-[11%] z-[12] w-[34%] max-w-[244px] sm:left-[20%] sm:top-[16%] sm:w-[22%] sm:max-w-[246px]",
+      className: "z-[12] w-[28.9%] max-w-[207px] sm:w-[18.7%] sm:max-w-[209px]",
       hitboxClassName: "inset-[12%]",
       imageClassName: "-translate-y-[2%] scale-[1.02]",
       motion: { y: [-2, 2, -1], x: [0, 1, 0], rotate: [-0.4, 0.5, -0.2] },
@@ -167,16 +169,16 @@ export function ModuleArtOverlay({
     {
       id: "logistics" as const,
       src: "/gravitas/modules/logistics-hub-v3.webp",
-      className: "left-[43%] top-[8%] z-[12] w-[50%] max-w-[360px] sm:left-[50%] sm:top-[18%] sm:w-[18%] sm:max-w-[198px]",
-      hitboxClassName: "inset-[12%]",
-      imageClassName: "-translate-y-[3%] scale-[1.03]",
+      className: "z-[12] w-[35.8%] max-w-[258px] sm:w-[12.9%] sm:max-w-[142px]",
+      hitboxClassName: "inset-[28%]",
+      imageClassName: "-translate-y-[2%] scale-[0.98]",
       motion: { y: [-1, 1.5, -1], x: [0, -1, 0], rotate: [-0.25, 0.25, -0.15] },
       duration: 7.6,
     },
     {
       id: "sensor" as const,
       src: "/gravitas/modules/sensor-probe.webp",
-      className: "left-[56%] top-[52%] z-[20] w-[22%] max-w-[162px] sm:left-[32%] sm:top-[40%] sm:w-[15%] sm:max-w-[170px]",
+      className: "z-[20] w-[18.7%] max-w-[138px] sm:w-[12.75%] sm:max-w-[145px]",
       hitboxClassName: "inset-[10%]",
       imageClassName: "scale-[1.03]",
       motion: { y: [-2, 1, -2], x: [0, 1.5, 0], rotate: [-0.6, 0.7, -0.3] },
@@ -185,7 +187,7 @@ export function ModuleArtOverlay({
     {
       id: "core" as const,
       src: "/gravitas/modules/core-crystal-v2.webp",
-      className: "left-[29%] top-[24%] z-[18] w-[34%] max-w-[254px] sm:left-[38%] sm:top-[17%] sm:w-[24%] sm:max-w-[248px]",
+      className: "z-[18] w-[28.9%] max-w-[216px] sm:w-[20.4%] sm:max-w-[211px]",
       hitboxClassName: "inset-[18%]",
       imageClassName: "-translate-y-[2%] scale-[1.02]",
       motion: { y: [-3, 2, -2], x: [0, 0.5, 0], rotate: [-0.3, 0.3, -0.15] },
@@ -194,49 +196,214 @@ export function ModuleArtOverlay({
     {
       id: "repair-bay",
       src: "/gravitas/modules/repair-station-v2.webp",
-      className: "left-[6%] top-[49%] z-[17] w-[34%] max-w-[268px] sm:left-[13%] sm:top-[43%] sm:w-[24%] sm:max-w-[258px]",
-      hitboxClassName: "inset-[12%]",
+      className: "z-[17] w-[28.9%] max-w-[228px] sm:w-[20.4%] sm:max-w-[219px]",
+      hitboxClassName: "left-[6%] right-[14%] top-[12%] bottom-[12%]",
       imageClassName: "scale-[1.04]",
       motion: { y: [-1.5, 1, -1.2], x: [0, -0.8, 0], rotate: [-0.18, 0.2, -0.08] },
       duration: 8.8,
-      decorative: true,
     },
     {
       id: "warroom" as const,
       src: "/gravitas/modules/command-deck.webp",
-      className: "left-[55%] top-[34%] z-[21] w-[33%] max-w-[252px] sm:left-[61%] sm:top-[28%] sm:w-[22%] sm:max-w-[244px]",
-      hitboxClassName: "inset-[4%]",
+      className: "z-[21] w-[29.75%] max-w-[224px] sm:w-[20.4%] sm:max-w-[218px]",
+      hitboxClassName: "left-[12%] right-[16%] top-[8%] bottom-[8%]",
       imageClassName: "-translate-y-[1%] scale-[1.02]",
       motion: { y: [-2, 1.5, -1], x: [0, 0.8, 0], rotate: [-0.2, 0.3, -0.1] },
       duration: 9.6,
     },
   ];
 
+  const storageKey = typeof window === "undefined"
+    ? STORAGE_KEY
+    : `${STORAGE_KEY}_${localStorage.getItem("plizio_username_id") || localStorage.getItem("plizio_username") || "anonymous"}`;
+
+  const [placements, setPlacements] = useState<Record<ModuleId, ModulePlacement>>(defaultPlacements);
+  const [hasLoadedPlacements, setHasLoadedPlacements] = useState(false);
+  const dragRef = useRef<{
+    moduleId: ModuleId | null;
+    pointerId: number | null;
+    startX: number;
+    startY: number;
+    originLeft: number;
+    originTop: number;
+    dragging: boolean;
+  }>({ moduleId: null, pointerId: null, startX: 0, startY: 0, originLeft: 0, originTop: 0, dragging: false });
+  const [draggingId, setDraggingId] = useState<ModuleId | null>(null);
+  const [dragHintVisible, setDragHintVisible] = useState(true);
+  const suppressClickRef = useRef<ModuleId | null>(null);
+  const sceneRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(storageKey);
+      if (raw) {
+        const parsed = JSON.parse(raw) as Partial<Record<ModuleId, ModulePlacement>>;
+        setPlacements({
+          ...defaultPlacements,
+          ...Object.fromEntries(
+            Object.entries(parsed).map(([id, value]) => [
+              id,
+              {
+                left: Number.isFinite(value?.left) ? Math.max(-5, Math.min(95, value!.left)) : defaultPlacements[id as ModuleId].left,
+                top: Number.isFinite(value?.top) ? Math.max(-5, Math.min(95, value!.top)) : defaultPlacements[id as ModuleId].top,
+              },
+            ]),
+          ) as Record<ModuleId, ModulePlacement>,
+        });
+      }
+    } catch {
+      // ignore malformed stored layouts
+    } finally {
+      setHasLoadedPlacements(true);
+    }
+  }, [storageKey]);
+
+  useEffect(() => {
+    if (!hasLoadedPlacements) return;
+    try {
+      localStorage.setItem(storageKey, JSON.stringify(placements));
+    } catch {
+      // ignore persistence failures
+    }
+  }, [placements, storageKey, hasLoadedPlacements]);
+
+  useEffect(() => {
+    const t = window.setTimeout(() => setDragHintVisible(false), 6000);
+    return () => window.clearTimeout(t);
+  }, []);
+
+  const snap = (value: number) => Math.max(-5, Math.min(95, Math.round(value / 2) * 2));
+
+  const updatePlacement = (moduleId: ModuleId, left: number, top: number) => {
+    setPlacements((current) => ({
+      ...current,
+      [moduleId]: {
+        left: snap(left),
+        top: snap(top),
+      },
+    }));
+  };
+
+  const placeModuleAtPoint = (moduleId: ModuleId, event: ReactPointerEvent<HTMLDivElement>) => {
+    const rect = sceneRef.current?.getBoundingClientRect();
+    if (!rect) return;
+    const left = ((event.clientX - rect.left) / rect.width) * 100;
+    const top = ((event.clientY - rect.top) / rect.height) * 100;
+    updatePlacement(moduleId, snap(left), snap(top));
+  };
+
+  const handlePointerDown = (moduleId: ModuleId, event: ReactPointerEvent<HTMLButtonElement>) => {
+    event.stopPropagation();
+    if (!layoutEditModule) return;
+    if (event.button !== 0) return;
+    if (layoutEditModule !== moduleId) onSelectMoveTarget?.(moduleId);
+    const current = placements[moduleId];
+    dragRef.current = {
+      moduleId,
+      pointerId: event.pointerId,
+      startX: event.clientX,
+      startY: event.clientY,
+      originLeft: current.left,
+      originTop: current.top,
+      dragging: false,
+    };
+    setDraggingId(moduleId);
+    setDragHintVisible(false);
+    try {
+      event.currentTarget.setPointerCapture(event.pointerId);
+    } catch {
+      // ignore capture errors
+    }
+  };
+
+  const handlePointerMove = (moduleId: ModuleId, event: ReactPointerEvent<HTMLButtonElement>) => {
+    if (!layoutEditModule) return;
+    const drag = dragRef.current;
+    if (drag.moduleId !== moduleId || drag.pointerId !== event.pointerId) return;
+    const dx = event.clientX - drag.startX;
+    const dy = event.clientY - drag.startY;
+    const moved = Math.hypot(dx, dy);
+    if (!drag.dragging && moved > 6) drag.dragging = true;
+    if (!drag.dragging) return;
+    const rect = event.currentTarget.parentElement?.parentElement?.getBoundingClientRect();
+    if (!rect) return;
+    const nextLeft = snap(drag.originLeft + (dx / rect.width) * 100);
+    const nextTop = snap(drag.originTop + (dy / rect.height) * 100);
+    updatePlacement(moduleId, nextLeft, nextTop);
+  };
+
+  const finishPointer = (moduleId: ModuleId, event: ReactPointerEvent<HTMLButtonElement>) => {
+    if (!layoutEditModule) return;
+    const drag = dragRef.current;
+    if (drag.moduleId !== moduleId || drag.pointerId !== event.pointerId) return;
+    try {
+      event.currentTarget.releasePointerCapture(event.pointerId);
+    } catch {
+      // ignore capture errors
+    }
+    const wasDragging = drag.dragging;
+    dragRef.current = { moduleId: null, pointerId: null, startX: 0, startY: 0, originLeft: 0, originTop: 0, dragging: false };
+    setDraggingId(null);
+    if (wasDragging) {
+      suppressClickRef.current = moduleId;
+      window.setTimeout(() => {
+        if (suppressClickRef.current === moduleId) suppressClickRef.current = null;
+      }, 0);
+    }
+    window.setTimeout(() => {
+      if (wasDragging) return;
+      setDragHintVisible(false);
+    }, 0);
+  };
+
   return (
     <div className="pointer-events-auto absolute inset-0 z-[6]">
       <div className="absolute inset-0 overflow-auto touch-pan-x touch-pan-y [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden sm:overflow-hidden">
-        <div className="relative h-[152%] w-[168%] min-h-full min-w-full sm:left-1/2 sm:top-1/2 sm:h-[118%] sm:w-[118%] sm:min-h-0 sm:min-w-0 sm:-translate-x-1/2 sm:-translate-y-[49%]">
+        <div
+          ref={sceneRef}
+          className={`relative h-[152%] w-[168%] min-h-full min-w-full sm:left-1/2 sm:top-1/2 sm:h-[118%] sm:w-[118%] sm:min-h-0 sm:min-w-0 sm:-translate-x-1/2 sm:-translate-y-[49%] ${layoutEditModule ? "cursor-crosshair" : ""}`}
+          onPointerDown={(event) => {
+            if (!layoutEditModule) return;
+            const target = event.target as HTMLElement | null;
+            if (target?.closest("button")) return;
+            placeModuleAtPoint(layoutEditModule as ModuleId, event);
+          }}
+        >
+          {layoutEditModule && (
+            <div className="pointer-events-none absolute inset-0 z-[5] opacity-70">
+              <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.06)_1px,transparent_1px),linear-gradient(180deg,rgba(255,255,255,0.06)_1px,transparent_1px)] bg-[size:64px_64px] sm:bg-[size:72px_72px]" />
+              <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(34,211,238,0.08),transparent_52%)]" />
+            </div>
+          )}
           {modules.map((module) => {
             const isSelected = selectedModule === module.id;
+            const placement = placements[module.id];
+            const isDragging = draggingId === module.id;
+            const canEdit = layoutEditModule === module.id;
             return (
               <motion.div
                 key={module.id}
-                className={`absolute transition-all duration-500 ${module.className} ${isSelected ? "scale-[1.03] opacity-100" : "opacity-[0.94]"}`}
+                className={`absolute transition-all duration-500 ${module.className} ${isSelected ? "scale-[1.03] opacity-100" : "opacity-[0.94]"} ${isDragging ? "scale-[1.05]" : ""} ${layoutEditModule && !canEdit ? "opacity-60 grayscale-[0.2]" : ""}`}
                 style={{
+                  left: `${placement.left}%`,
+                  top: `${placement.top}%`,
+                  touchAction: "none",
                   filter: isSelected
                     ? "drop-shadow(0 0 28px rgba(255,255,255,0.12)) drop-shadow(0 0 26px rgba(34,211,238,0.16)) drop-shadow(0 12px 24px rgba(0,0,0,0.32))"
                     : "drop-shadow(0 0 18px rgba(34,211,238,0.06)) drop-shadow(0 10px 22px rgba(0,0,0,0.34))",
                 }}
-                animate={module.motion}
+                animate={isDragging ? { x: 0, y: 0, rotate: 0 } : module.motion}
                 transition={{ duration: module.duration, repeat: Infinity, ease: "easeInOut" }}
               >
                 <div className="absolute inset-[2%] -z-10 rounded-[40px] bg-[radial-gradient(circle_at_50%_52%,rgba(8,15,30,0.82),rgba(8,15,30,0.28)_58%,transparent_84%)] blur-lg sm:blur-xl" />
                 <div className="absolute inset-[11%] -z-10 rounded-[34px] bg-[radial-gradient(circle_at_50%_56%,rgba(34,211,238,0.07),transparent_68%)] blur-xl sm:blur-2xl" />
-                <motion.div
-                  className="pointer-events-none absolute inset-[8%] -z-10 rounded-[34px] bg-[radial-gradient(circle_at_50%_56%,rgba(255,255,255,0.06),transparent_62%)] blur-[12px] sm:blur-[18px]"
-                  animate={{ opacity: isSelected ? [0.18, 0.3, 0.2] : [0.08, 0.16, 0.1] }}
-                  transition={{ duration: 3.6, repeat: Infinity, ease: "easeInOut" }}
-                />
+                {module.id !== "logistics" && (
+                  <motion.div
+                    className="pointer-events-none absolute inset-[8%] -z-10 rounded-[34px] bg-[radial-gradient(circle_at_50%_56%,rgba(255,255,255,0.06),transparent_62%)] blur-[12px] sm:blur-[18px]"
+                    animate={{ opacity: isSelected ? [0.18, 0.3, 0.2] : [0.08, 0.16, 0.1] }}
+                    transition={{ duration: 3.6, repeat: Infinity, ease: "easeInOut" }}
+                  />
+                )}
                 <img
                   src={module.src}
                   alt=""
@@ -315,20 +482,38 @@ export function ModuleArtOverlay({
                     />
                   </>
                 )}
-                {"decorative" in module ? null : (
-                  <button
-                    type="button"
-                    aria-label={module.id}
-                    onClick={() => {
-                      if (module.id === "warroom") onOpenWarRoom?.();
-                      else onSelectModule(module.id as StarholdModuleId);
-                    }}
-                    className={`absolute ${module.hitboxClassName} pointer-events-auto rounded-[28px] bg-transparent`}
-                  />
-                )}
+                <button
+                  type="button"
+                  aria-label={module.id}
+                  onPointerDown={(e) => handlePointerDown(module.id, e)}
+                  onPointerMove={(e) => handlePointerMove(module.id, e)}
+                  onPointerUp={(e) => finishPointer(module.id, e)}
+                  onPointerCancel={(e) => finishPointer(module.id, e)}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    if (suppressClickRef.current === module.id) {
+                      suppressClickRef.current = null;
+                      return;
+                    }
+                    if (dragRef.current.dragging || draggingId === module.id) return;
+                    if (layoutEditModule) {
+                      if (layoutEditModule !== module.id) onSelectMoveTarget?.(module.id as ModuleId);
+                      return;
+                    }
+                    if (module.id === "warroom") onOpenWarRoom?.();
+                    else if (module.id === "repair-bay") onOpenRepairBay?.();
+                    else onSelectModule(module.id as StarholdModuleId);
+                  }}
+                  className={`absolute ${module.hitboxClassName} pointer-events-auto rounded-[28px] bg-transparent ${layoutEditModule ? "cursor-grab active:cursor-grabbing" : "cursor-pointer"}`}
+                />
               </motion.div>
             );
           })}
+          {dragHintVisible && (
+            <div className="pointer-events-none absolute bottom-4 left-1/2 z-[25] -translate-x-1/2 rounded-full border border-white/10 bg-black/50 px-3 py-1 text-[9px] font-black uppercase tracking-[0.18em] text-white/60 backdrop-blur-md">
+              Drag modules to reposition them
+            </div>
+          )}
         </div>
       </div>
     </div>

@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { X, Calendar, Shield, Clock, Crosshair, Radar, Activity, Check, Skull } from "lucide-react";
+import { X, Calendar, Shield, Clock, Crosshair, Radar, Activity, Check, Skull, Package } from "lucide-react";
 import type { StarholdState, StarholdCommand, LocalizedString } from "@/lib/gravitas/sim/types";
 import type { WarRoomUnitId } from "@/lib/gravitas/sim/warroom/types";
 import { WEEKLY_MISSION_CONFIG } from "@/lib/gravitas/economy";
@@ -83,27 +83,111 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
   const renderContent = () => {
     if (!mission) {
       const timeRemaining = Math.max(0, missionState.nextMissionAt - now);
+      const report = missionState.lastReport;
+
       return (
-        <div className="flex-1 flex flex-col items-center justify-center p-8 text-center">
-          <div className="w-16 h-16 rounded-full bg-cyan-900/30 flex items-center justify-center mb-6 border border-cyan-500/20">
-            <Clock size={32} className="text-cyan-400" />
-          </div>
-          <h3 className="text-xl font-black uppercase text-white/90 mb-2">
-            {localize({ en: "All Quiet", hu: "Minden Csendes", de: "Alles Ruhig", ro: "Totul Liniștit" })}
-          </h3>
-          <p className="text-sm text-white/60 mb-8 max-w-sm">
-            {localize({ en: "No emergency requests at this time. Keep your forces ready.", hu: "Jelenleg nincsenek vészhelyzeti kérések. Tartsd készenlétben a csapataidat.", de: "Derzeit keine Notfallanfragen. Halte deine Truppen bereit.", ro: "Nicio cerere de urgență în acest moment. Ține-ți forțele pregătite." })}
-          </p>
-          <div className="bg-black/40 border border-white/10 rounded-xl p-4 w-full max-w-xs">
-            <div className="text-[10px] font-black uppercase tracking-widest text-cyan-300/70 mb-2">
-              {localize({ en: "Next Signal In", hu: "Következő Jel", de: "Nächstes Signal In", ro: "Următorul Semnal În" })}
+        <div className="flex-1 overflow-y-auto p-6 flex flex-col items-center">
+          {report && (
+            <div className="w-full max-w-2xl bg-black/40 border border-white/10 rounded-2xl p-6 mb-8">
+              <h3 className="text-sm font-black uppercase tracking-widest text-white/50 mb-4 border-b border-white/5 pb-2">
+                {localize({ en: "Last Mission Report", hu: "Utolsó Küldetés Jelentés", de: "Letzter Missionsbericht", ro: "Raportul Ultimei Misiuni" })}
+              </h3>
+
+              <div className="flex flex-col md:flex-row gap-6">
+                <div className="flex-1 space-y-4">
+                  <div className={`p-4 rounded-xl border ${report.phase === "completed" ? "bg-emerald-950/20 border-emerald-500/30" : "bg-rose-950/20 border-rose-500/30"}`}>
+                    <div className={`text-lg font-black uppercase tracking-widest mb-1 ${report.phase === "completed" ? "text-emerald-400" : "text-rose-400"}`}>
+                      {report.phase === "completed" ? localize({ en: "Defense Successful", hu: "Sikeres Védelem", de: "Verteidigung Erfolgreich", ro: "Apărare Reușită" }) : localize({ en: "Defense Failed", hu: "Védelem Elbukott", de: "Verteidigung Fehlgeschlagen", ro: "Apărare Eșuată" })}
+                    </div>
+                    {report.overallLesson && (
+                      <div className="text-xs text-white/70 italic">
+                        {localize(report.overallLesson)}
+                      </div>
+                    )}
+                  </div>
+
+                  {report.rewardBreakdown && (
+                    <div className="p-4 bg-sky-950/20 border border-sky-500/20 rounded-xl space-y-3">
+                      <div className="text-[10px] font-black uppercase text-sky-400">Reward Breakdown</div>
+                      <div className="grid grid-cols-2 gap-2 text-xs">
+                        <div className="text-white/60">Waves Cleared:</div><div className="text-right font-bold text-white">{report.rewardBreakdown.wavesCompleted}/3</div>
+                        <div className="text-white/60">Reputation Change:</div>
+                        <div className={`text-right font-bold ${report.rewardBreakdown.reputationBonus > 0 ? "text-emerald-400" : report.rewardBreakdown.reputationPenalty < 0 ? "text-rose-400" : "text-white/50"}`}>
+                          {report.rewardBreakdown.reputationBonus > 0 ? `+${report.rewardBreakdown.reputationBonus}` : report.rewardBreakdown.reputationPenalty < 0 ? report.rewardBreakdown.reputationPenalty : "0"}
+                        </div>
+                      </div>
+                      {Object.keys(report.rewardBreakdown.materials).length > 0 && (
+                        <div className="pt-2 border-t border-sky-500/20">
+                          <div className="flex flex-wrap gap-2">
+                            {Object.entries(report.rewardBreakdown.materials).map(([matId, amount]) => (
+                              <span key={matId} className="px-2 py-1 rounded bg-black/40 text-[10px] font-mono text-amber-300 border border-amber-500/20">
+                                {matId.split('_')[0].toUpperCase()}: +{amount}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                      {report.rewardBreakdown.rareDrop && (
+                        <div className="mt-2 text-[10px] font-bold text-fuchsia-400 flex items-center gap-1.5">
+                          <Package size={12} /> {localize(report.rewardBreakdown.rareDrop.name)}
+                        </div>
+                      )}
+                    </div>
+                  )}
+                </div>
+
+                <div className="flex-1 space-y-2">
+                  <div className="text-[10px] font-black uppercase text-white/50 mb-2">Wave History</div>
+                  {report.waveResults.map((wave, idx) => {
+                    const lost = Object.values(wave.unitsLost).reduce((a,b) => a+b, 0);
+                    const wounded = Object.values(wave.unitsWounded).reduce((a,b) => a+b, 0);
+                    return (
+                      <div key={idx} className={`p-3 rounded-lg border text-xs ${wave.victory ? "bg-emerald-950/10 border-emerald-500/10" : "bg-rose-950/10 border-rose-500/10"}`}>
+                        <div className="flex justify-between items-center gap-3">
+                          <span className="font-bold text-white/80">Wave {wave.wave}</span>
+                          <span className={`px-1.5 py-0.5 rounded text-[8px] font-black uppercase ${wave.victory ? "bg-emerald-500/20 text-emerald-400" : "bg-rose-500/20 text-rose-400"}`}>
+                            {wave.victory ? "Cleared" : "Failed"}
+                          </span>
+                        </div>
+                        <div className="mt-2 grid grid-cols-3 gap-2 text-[10px] text-white/65">
+                          <div>DMG {wave.damageDealt}</div>
+                          <div className="text-rose-300">Taken {wave.damageReceived}</div>
+                          <div className="text-amber-300">L {lost} / W {wounded}</div>
+                        </div>
+                        {wave.lessonText && (
+                          <div className="mt-2 text-[10px] text-white/50 italic border-t border-white/5 pt-2">
+                            {localize(wave.lessonText)}
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
-            <div className="text-2xl font-mono text-cyan-400">
-              {formatDuration(timeRemaining)}
+          )}
+
+          <div className="flex flex-col items-center justify-center text-center mt-auto mb-auto">
+            <div className="w-16 h-16 rounded-full bg-cyan-900/30 flex items-center justify-center mb-6 border border-cyan-500/20">
+              <Clock size={32} className="text-cyan-400" />
             </div>
-          </div>
-          <div className="mt-8 text-xs text-white/40">
-            {localize({ en: "Completed Missions:", hu: "Teljesített Küldetések:", de: "Abgeschlossene Missionen:", ro: "Misiuni Finalizate:" })} <span className="font-bold text-white/70">{missionState.completedCount}</span>
+            <h3 className="text-xl font-black uppercase text-white/90 mb-2">
+              {localize({ en: "All Quiet", hu: "Minden Csendes", de: "Alles Ruhig", ro: "Totul Liniștit" })}
+            </h3>
+            <p className="text-sm text-white/60 mb-8 max-w-sm">
+              {localize({ en: "No emergency requests at this time. Keep your forces ready.", hu: "Jelenleg nincsenek vészhelyzeti kérések. Tartsd készenlétben a csapataidat.", de: "Derzeit keine Notfallanfragen. Halte deine Truppen bereit.", ro: "Nicio cerere de urgență în acest moment. Ține-ți forțele pregătite." })}
+            </p>
+            <div className="bg-black/40 border border-white/10 rounded-xl p-4 w-full max-w-xs">
+              <div className="text-[10px] font-black uppercase tracking-widest text-cyan-300/70 mb-2">
+                {localize({ en: "Next Signal In", hu: "Következő Jel", de: "Nächstes Signal In", ro: "Următorul Semnal În" })}
+              </div>
+              <div className="text-2xl font-mono text-cyan-400">
+                {formatDuration(timeRemaining)}
+              </div>
+            </div>
+            <div className="mt-8 text-xs text-white/40">
+              {localize({ en: "Completed Missions:", hu: "Teljesített Küldetések:", de: "Abgeschlossene Missionen:", ro: "Misiuni Finalizate:" })} <span className="font-bold text-white/70">{missionState.completedCount}</span>
+            </div>
           </div>
         </div>
       );
@@ -275,6 +359,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
                   }
 
                   const lostTotal = Object.values(result.unitsLost).reduce((a,b) => a+b, 0);
+                  const woundedTotal = Object.values(result.unitsWounded ?? {}).reduce((a,b) => a+b, 0);
 
                   return (
                     <div key={waveNum} className={`p-4 rounded-xl border flex flex-col gap-2 ${result.victory ? "bg-emerald-900/10 border-emerald-500/20" : "bg-rose-900/10 border-rose-500/20"}`}>
@@ -284,11 +369,30 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
                           {result.victory ? localize({ en: "Victory", hu: "Győzelem", de: "Sieg", ro: "Victorie" }) : localize({ en: "Defeat", hu: "Vereség", de: "Niederlage", ro: "Înfrângere" })}
                         </div>
                       </div>
-                      {lostTotal > 0 && (
-                        <div className="text-xs text-rose-400/80 flex items-center gap-1.5">
-                          <Skull size={12} /> {lostTotal} units lost
+
+                      {result.lessonText && (
+                        <div className="text-xs italic text-white/50 border-l-2 border-white/10 pl-2 py-1 my-1">
+                          {localize(result.lessonText)}
                         </div>
                       )}
+
+                      <div className="flex gap-4 mt-1">
+                        {lostTotal > 0 && (
+                          <div className="text-[11px] text-rose-400/80 flex items-center gap-1.5 font-bold">
+                            <Skull size={12} /> {lostTotal} lost
+                          </div>
+                        )}
+                        {woundedTotal > 0 && (
+                          <div className="text-[11px] text-amber-400/80 flex items-center gap-1.5 font-bold">
+                            <Activity size={12} /> {woundedTotal} wounded
+                          </div>
+                        )}
+                        {lostTotal === 0 && woundedTotal === 0 && (
+                          <div className="text-[11px] text-emerald-400/80 flex items-center gap-1.5 font-bold">
+                            <Check size={12} /> No casualties
+                          </div>
+                        )}
+                      </div>
                     </div>
                   );
                 })}

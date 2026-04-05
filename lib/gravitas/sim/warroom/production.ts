@@ -114,6 +114,8 @@ export function getProductionDurationMs(unitId: WarRoomUnitId, warroomLevel: num
   return getProductionDuration(unitId, warroomLevel, isUpgrade) * 1000;
 }
 
+import { getResearchEffect } from "../research/engine";
+
 export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId, level: number): boolean {
   if (!state.warRoom?.online) return false;
   if (state.warRoom.productionSlots[unitId]) return false;
@@ -121,7 +123,8 @@ export function canTrainUnit(state: StarholdState, unitId: WarRoomUnitId, level:
   if (state.warRoom.level < unlockAt) return false;
   if (level < 1 || level > getMaxUnitLevel(state.warRoom.level)) return false;
   const batchSize = getBatchSize(state.warRoom.level);
-  if (getTotalGarrison(state.warRoom.garrison) + batchSize > WARROOM_PRODUCTION_CONFIG.garrisonCap) return false;
+  const extraCap = getResearchEffect(state.research.completed, "garrison.capacity");
+  if (getTotalGarrison(state.warRoom.garrison) + batchSize > WARROOM_PRODUCTION_CONFIG.garrisonCap + extraCap) return false;
   const inventory = loadSavedGalaxyInventory();
   return canAfford(inventory, getBatchTrainingCost(unitId, level));
 }

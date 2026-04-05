@@ -69,7 +69,7 @@ export default function GalaxyNodeCard({
   const now = Date.now();
   const isOnCooldown = cooldownUntil > now;
   const cooldownRemainingMs = Math.max(0, cooldownUntil - now);
-  const strikeDisabled = intelLevel < 25 || isOnCooldown;
+  const strikeDisabled = isOnCooldown;
 
   return (
     <motion.div
@@ -223,7 +223,7 @@ export default function GalaxyNodeCard({
           </div>
           {intelLevel < 25 && (
             <div className="text-[9px] text-center text-rose-400/60 font-bold uppercase tracking-widest">
-              {localize(lang, { en: "At least 25% intel required", hu: "Legalább 25% felderítés szükséges", de: "Mindestens 25% Aufklärung erforderlich", ro: "Este nevoie de cel puțin 25% informații" })}
+              {localize(lang, { en: "Low intel - attack is riskier", hu: "Kevés intel - a támadás kockázatosabb", de: "Wenig Intel - Angriff ist riskanter", ro: "Intel puțin - atacul este mai riscant" })}
             </div>
           )}
         </div>

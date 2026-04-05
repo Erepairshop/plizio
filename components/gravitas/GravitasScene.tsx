@@ -11,10 +11,11 @@ interface Props {
   state: StarholdState;
   selectedModule: StarholdModuleId;
   onSelectModule: (moduleId: StarholdModuleId) => void;
+  interactionLocked?: boolean;
   lastCommand: { command: StarholdCommand; timestamp: number } | null;
 }
 
-export default function GravitasScene({ state, selectedModule, onSelectModule, lastCommand }: Props) {
+export default function GravitasScene({ state, selectedModule, onSelectModule, interactionLocked = false, lastCommand }: Props) {
   const hostRef = useRef<HTMLDivElement | null>(null);
   const gameRef = useRef<any | null>(null);
   const sceneRef = useRef<GravitasBaseScene | null>(null);
@@ -87,7 +88,7 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, l
         if (resizeFrame !== null) window.cancelAnimationFrame(resizeFrame);
       });
 
-      scene.syncState(latestStateRef.current, latestSelectedModuleRef.current);
+      scene.syncState(latestStateRef.current, latestSelectedModuleRef.current, interactionLocked);
     });
 
     return () => {
@@ -97,11 +98,11 @@ export default function GravitasScene({ state, selectedModule, onSelectModule, l
       gameRef.current?.destroy(true);
       gameRef.current = null;
     };
-  }, [onSelectModule]);
+  }, [onSelectModule, interactionLocked]);
 
   useEffect(() => {
-    sceneRef.current?.syncState(state, selectedModule);
-  }, [state, selectedModule]);
+    sceneRef.current?.syncState(state, selectedModule, interactionLocked);
+  }, [state, selectedModule, interactionLocked]);
 
   useEffect(() => {
     if (lastCommand) {

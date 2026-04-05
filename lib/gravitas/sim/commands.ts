@@ -25,7 +25,7 @@ import { GALAXY_DEMO_NODES } from "../world/demo";
 import { resolveDilemma } from "./dilemma/engine";
 import { deploySpies, extractSpies, spendIntel } from "./espionage/index";
 import { startResearch, cancelResearch } from "./research/engine";
-import { acceptTrade, rejectTrade } from "./trade/engine";
+import { acceptTrade, rejectTrade, negotiateTrade } from "./trade/engine";
 import { deployWeeklyUnits } from "./weekly/engine";
 import { establishRoute, abandonRoute } from "./supplyroute/index";
 import { markCodexRead } from "./codex/index";
@@ -148,7 +148,7 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
   if (command.type === "MARK_NOTIFICATIONS_READ") return markAllNotificationsRead(state);
   if (command.type === "RECRUIT_OFFICER") return recruitOfficer(state, command.officerId);
   if (command.type === "DISMISS_OFFICER") return dismissOfficer(state, command.officerId);
-  if (command.type === "LAUNCH_EXPEDITION") return launchExpedition(state, command.durationMode, command.fleet);
+  if (command.type === "LAUNCH_EXPEDITION") return launchExpedition(state, command.durationMode, command.routeProfile, command.fleet);
   if (command.type === "RECALL_EXPEDITION") return recallExpedition(state, command.expeditionId);
 
   const nextState = applyStarholdCommandInternal(state, command);
@@ -509,12 +509,17 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       const innateBonus = computeInnateBonus((state.avatarProfile?.answers ?? []).map(a => a.optionId));
 
       const awakenedBase = moveToContinuationChapter({ ...state, avatarAwake: true, phase: "awakened" });
-      const awakenedThreat = state.threat.pausedUntilAwake
-        ? createNextThreat(awakenedBase, state.threatCycle + 1)
-        : state.threat;
+      let nextRngState = state.globalRngState;
+      let awakenedThreat = state.threat;
+      if (state.threat.pausedUntilAwake) {
+         const { threat: newThreat, nextRng: sRng } = createNextThreat(awakenedBase, state.threatCycle + 1);
+         awakenedThreat = newThreat;
+         nextRngState = sRng;
+      }
 
       return {
         ...nextState,
+        globalRngState: nextRngState,
         avatarImprintActive: false,
         avatarImprintProgress: 100,
         avatarAwake: true,
@@ -854,8 +859,20 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
           survivingArmy = woundedResult.remaining;
           const woundedArmy = woundedResult.taken;
           
-          const veteranizedSurviving = survivingArmy.map(incrementVeteranStats);
-          const veteranizedWounded = woundedArmy.map(incrementVeteranStats);
+          let currentRngState = state.globalRngState;
+          
+          const veteranizedSurviving = survivingArmy.map(entry => {
+            const res = incrementVeteranStats(entry, currentRngState);
+            currentRngState = res.nextRng;
+            return res.entry;
+          });
+          const veteranizedWounded = woundedArmy.map(entry => {
+            const res = incrementVeteranStats(entry, currentRngState);
+            currentRngState = res.nextRng;
+            return res.entry;
+          });
+          
+          state = { ...state, globalRngState: currentRngState };
           entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);
           movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
           if (veteranizedWounded.length > 0) {
@@ -1029,11 +1046,21 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
           survivingArmy = woundedResult.remaining;
           const woundedArmy = woundedResult.taken;
           
-          const veteranizedSurviving = survivingArmy.map(incrementVeteranStats);
-          const veteranizedWounded = woundedArmy.map(incrementVeteranStats);
-          
-          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);
-          
+          let currentRngState = state.globalRngState;
+
+          const veteranizedSurviving = survivingArmy.map(entry => {
+            const res = incrementVeteranStats(entry, currentRngState);
+            currentRngState = res.nextRng;
+            return res.entry;
+          });
+          const veteranizedWounded = woundedArmy.map(entry => {
+            const res = incrementVeteranStats(entry, currentRngState);
+            currentRngState = res.nextRng;
+            return res.entry;
+          });
+
+          state = { ...state, globalRngState: currentRngState };
+          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);          
           movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
           if (veteranizedWounded.length > 0) {
             updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], veteranizedWounded);
@@ -1233,6 +1260,9 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
     case "CANCEL_REPAIR": {
       return cancelRepair(state, command.slotIndex);
     }
+    case "MARK_CODEX_READ": {
+      return markCodexRead(state, command.entryId);
+    }
     case "UPGRADE_MODULE": {
       return handleUpgradeModule(state, command.moduleId);
     }
@@ -1244,6 +1274,9 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
     }
     case "REJECT_TRADE": {
       return rejectTrade(state, command.offerId);
+    }
+    case "NEGOTIATE_TRADE": {
+      return negotiateTrade(state, command.offerId, command.intensity);
     }
     case "DEPLOY_WEEKLY_UNITS": {
       return deployWeeklyUnits(state, command.units);
@@ -1260,7 +1293,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       };
     }
     case "DEPLOY_SPIES": {
-      return deploySpies(state, command.targetFactionId, command.wraithCount, command.missionType);
+      return deploySpies(state, command.target, command.operativeUnitId, command.operativeCount, command.operativeRole, command.missionType);
     }
     case "EXTRACT_SPIES": {
       return extractSpies(state, command.missionId);
@@ -1344,6 +1377,12 @@ export interface GravitasActionSlot {
 export function getGravitasActionSlots(selectedModule: keyof StarholdState["modules"], state: StarholdState): GravitasActionSlot[] {
   const moduleId = selectedModule;
   const module = state.modules[moduleId];
+  const moduleName = module?.name ?? {
+    en: moduleId === "reactor" ? "Reactor" : moduleId === "logistics" ? "Logistics" : moduleId === "core" ? "Core" : moduleId === "sensor" ? "Sensor" : "Module",
+    hu: moduleId === "reactor" ? "Reaktor" : moduleId === "logistics" ? "Logisztika" : moduleId === "core" ? "Mag" : moduleId === "sensor" ? "Szenzor" : "Modul",
+    de: moduleId === "reactor" ? "Reaktor" : moduleId === "logistics" ? "Logistik" : moduleId === "core" ? "Kern" : moduleId === "sensor" ? "Sensor" : "Modul",
+    ro: moduleId === "reactor" ? "Reactor" : moduleId === "logistics" ? "Logistică" : moduleId === "core" ? "Nucleu" : moduleId === "sensor" ? "Senzor" : "Modul",
+  };
   const { threat } = state;
   const coreReady = canStartActivationTransfer(state);
   const isRecovering = threat.aftershock > 0 || state.crisis;
@@ -1450,7 +1489,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
       });
       addSlot({
         id: "repairLogistics",
-        label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repará ${module.name.ro}` },
+        label: { en: `Repair ${moduleName.en}`, hu: `${moduleName.hu} javítása`, de: `${moduleName.de} reparieren`, ro: `Repará ${moduleName.ro}` },
         hint: { en: "Reopen supply routing and reduce future drain.", hu: "Újranyitja az ellátási útvonalakat és csökkenti a jövőbeli veszteséget.", de: "Versorgungsrouten öffnen und zukünftigen Abfluss senken.", ro: "Redeschide rutele și reduce pierderile viitoare." },
         command: { type: "REPAIR_MODULE", moduleId: "logistics" },
         emphasis: repairChallengeTarget === "logistics" ? "primary" : isRecovering ? "secondary" : undefined,
@@ -1509,7 +1548,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
       }
       addSlot({
         id: "repairSensor",
-        label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repará ${module.name.ro}` },
+        label: { en: `Repair ${moduleName.en}`, hu: `${moduleName.hu} javítása`, de: `${moduleName.de} reparieren`, ro: `Repará ${moduleName.ro}` },
         hint: { en: "Bring the long-range distortion grid back online.", hu: "Visszakapcsolja a távoli torzulásfigyelő hálózatot.", de: "Bringt das Langstrecken-Distortionsgitter zurück.", ro: "Repune în funcțiune rețeaua de distorsiuni." },
         command: { type: "REPAIR_MODULE", moduleId: "sensor" },
         emphasis: repairChallengeTarget === "sensor" ? "primary" : isRecovering ? "secondary" : undefined,
@@ -1535,7 +1574,7 @@ export function getGravitasActionSlots(selectedModule: keyof StarholdState["modu
       });
       addSlot({
         id: "repairCore",
-        label: { en: `Repair ${module.name.en}`, hu: `${module.name.hu} javítása`, de: `${module.name.de} reparieren`, ro: `Repará ${module.name.ro}` },
+        label: { en: `Repair ${moduleName.en}`, hu: `${moduleName.hu} javítása`, de: `${moduleName.de} reparieren`, ro: `Repará ${moduleName.ro}` },
         hint: { en: "Reduce shell strain before the awakening run.", hu: "Csökkenti a testfeszülést az ébredés előtt.", de: "Hüllenspannung vor dem Erwachenslauf senken.", ro: "Reduce tensiunea corpului înainte de trezire." },
         command: { type: "REPAIR_MODULE", moduleId: "core" },
         emphasis: repairChallengeTarget === "core" ? "primary" : isRecovering ? "secondary" : undefined,

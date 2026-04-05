@@ -215,7 +215,9 @@ export class GravitasBaseScene extends Phaser.Scene {
     // Overlay the custom module silhouettes above the default shells.
     this.root.add(this.moduleVisualsGfx);
 
-    this.coreHitbox = this.add.circle(centerX, centerY, 68, 0xffffff, 0.001)
+    // Keep the core selectable, but make the hit area tighter so casual clicks
+    // on the station map do not accidentally open the core interior.
+    this.coreHitbox = this.add.circle(centerX, centerY, 42, 0xffffff, 0.001)
       .setInteractive({ useHandCursor: true });
     this.coreHitbox.on("pointerdown", () => this.onSelectModule?.("core"));
     this.coreLabel = this.add.text(centerX, centerY + 62, "CORE", {
@@ -584,87 +586,7 @@ export class GravitasBaseScene extends Phaser.Scene {
     // Launch burst at the logistics bay.
     this.createPulseRing(from.x, from.y, 34, 0x818cf8, 420, 1.5, 0.6);
     this.createPulseRing(from.x, from.y, 48, 0x38bdf8, 620, 1.7, 0.4);
-
-    const { drone } = this.createScavengeDroneVisual(0xffffff);
-    drone.setPosition(from.x, from.y);
-    const cargoGlow = this.add.circle(6, 0, 4, 0xf8fafc, 0.8);
-    drone.add(cargoGlow);
-    this.scavengeDrones.push(drone);
-
-    const targetX = 770;
-    const targetY = 96 + Phaser.Math.Between(-28, 28);
-    const salvageHalo = this.add.circle(targetX, targetY, 26, 0x60a5fa, 0.08).setStrokeStyle(2, 0x60a5fa, 0.25);
-
-    this.tweens.add({
-      targets: drone,
-      x: targetX,
-      y: targetY,
-      angle: 10,
-      duration: 760,
-      ease: "Cubic.Out",
-      onComplete: () => {
-        // External salvage pass.
-        const beam = this.add.graphics();
-        const dust = this.add.particles(targetX, targetY, "dot", {
-          scale: { start: 0.55, end: 0 },
-          alpha: { start: 0.95, end: 0 },
-          speed: { min: 60, max: 170 },
-          tint: [0xf8fafc, 0x60a5fa, 0xfbbf24],
-          lifespan: 650,
-          frequency: 36,
-          emitting: true,
-          blendMode: "ADD",
-        });
-
-        this.tweens.add({
-          targets: beam,
-          alpha: { from: 0.18, to: 0.9 },
-          duration: 100,
-          yoyo: true,
-          repeat: 10,
-          onUpdate: () => {
-            beam.clear();
-            beam.lineStyle(3, 0x93c5fd, beam.alpha);
-            beam.lineBetween(targetX, targetY, targetX + Phaser.Math.Between(-14, 18), targetY + 58);
-            beam.lineStyle(1.5, 0xffffff, Math.min(1, beam.alpha + 0.1));
-            beam.lineBetween(targetX, targetY - 2, targetX + Phaser.Math.Between(-8, 10), targetY + 52);
-          },
-        });
-
-        this.tweens.add({
-          targets: salvageHalo,
-          scale: 1.28,
-          alpha: 0.4,
-          duration: 520,
-          yoyo: true,
-          repeat: 1,
-        });
-
-        this.time.delayedCall(1100, () => {
-          beam.destroy();
-          dust.destroy();
-          cargoGlow.setFillStyle(0xfbbf24, 1);
-
-          // Loaded return pass.
-          this.tweens.add({
-            targets: drone,
-            x: from.x,
-            y: from.y,
-            angle: -8,
-            duration: 760,
-            ease: "Cubic.In",
-            onComplete: () => {
-              this.scavengeDrones = this.scavengeDrones.filter((d) => d !== drone);
-              drone.destroy();
-              salvageHalo.destroy();
-
-              // Cargo received payoff at the bay.
-              this.playCargoArrival(from);
-            },
-          });
-        });
-      },
-    });
+    this.time.delayedCall(260, () => this.playCargoArrival(from));
   }
 
   private sequenceStabilize() {
@@ -834,53 +756,8 @@ export class GravitasBaseScene extends Phaser.Scene {
 
   private launchScavengeDrone() {
     const from = MODULE_POSITIONS.logistics;
-    const { drone } = this.createScavengeDroneVisual(0xffffff);
-    drone.setPosition(from.x, from.y);
-
-    const targetX = from.x + Phaser.Math.Between(150, 300);
-    const targetY = from.y + Phaser.Math.Between(-100, 100);
-    const hoverX = targetX + 10;
-    const hoverY = targetY + 10;
-
-    this.scavengeDrones.push(drone);
-
-    this.tweens.add({
-      targets: drone,
-      x: targetX,
-      y: targetY,
-      angle: 8,
-      duration: 1200,
-      ease: "Power2",
-      onComplete: () => {
-        // Scavenge beam at target
-        this.createBeam({ x: targetX, y: targetY }, { x: targetX + 20, y: targetY + 40 }, 0x6366f1);
-
-        this.tweens.add({
-          targets: drone,
-          x: hoverX,
-          y: hoverY,
-          duration: 500,
-          ease: "Sine.InOut",
-          yoyo: true,
-          repeat: 2,
-          onComplete: () => {
-            this.tweens.add({
-              targets: drone,
-              x: from.x,
-              y: from.y,
-              angle: -6,
-              duration: 1000,
-              ease: "Power2",
-              onComplete: () => {
-                this.scavengeDrones = this.scavengeDrones.filter((d) => d !== drone);
-                drone.destroy();
-                this.playCargoArrival(from);
-              },
-            });
-          },
-        });
-      },
-    });
+    this.createPulseRing(from.x, from.y, 30, 0x6366f1, 340, 1.35, 0.45);
+    this.time.delayedCall(240, () => this.playCargoArrival(from));
   }
 
   private createBeam(from: {x: number, y: number}, to: {x: number, y: number}, color: number, hold = 200) {
@@ -1006,11 +883,24 @@ export class GravitasBaseScene extends Phaser.Scene {
     });
   }
 
-  syncState(state: StarholdState, selectedModule: StarholdModuleId) {
+  syncState(state: StarholdState, selectedModule: StarholdModuleId, interactionLocked = false) {
     if (!this.bootReady || !this.cameras?.main) return;
     this.currentState = state;
     if (!this.isActionSequenceActive()) {
       this.focusOnModule(selectedModule);
+    }
+
+    for (const node of this.moduleNodes.values()) {
+      if (interactionLocked) {
+        node.hitbox.disableInteractive();
+      } else if (!node.hitbox.input?.enabled) {
+        node.hitbox.setInteractive({ useHandCursor: true });
+      }
+    }
+    if (interactionLocked) {
+      this.coreHitbox.disableInteractive();
+    } else if (!this.coreHitbox.input?.enabled) {
+      this.coreHitbox.setInteractive({ useHandCursor: true });
     }
 
     const { reactor, logistics, sensor, core } = state.modules;

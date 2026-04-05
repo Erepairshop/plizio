@@ -62,6 +62,17 @@ export default function WarRoomPanel({
         </span>
       </div>
 
+      <div className="rounded-xl border border-white/10 bg-white/[0.03] px-3 py-2">
+        <p className="text-[11px] leading-relaxed text-white/55">
+          {({
+            en: "Train, upgrade, and organize the garrison from this command center. It is the main hub for frontline units and their production slots.",
+            hu: "Innen képezheted, fejlesztheted és szervezheted a helyőrséget. Ez a frontvonalbeli egységek és a gyártási slotok központja.",
+            de: "Hier trainierst, verbesserst und organisierst du die Garnison. Das ist der Hauptknotenpunkt für Frontlinieneinheiten und ihre Produktionsplätze.",
+            ro: "De aici antrenezi, îmbunătățești și organizezi garnizoana. Acesta este nodul principal pentru unitățile de pe front și sloturile lor de producție.",
+          } as Record<Lang, string>)[l]}
+        </p>
+      </div>
+
       {/* Garrison counter */}
       <div className="text-[10px] font-bold text-white/40 px-1">
         {totalGarrison}/{WARROOM_PRODUCTION_CONFIG.garrisonCap}

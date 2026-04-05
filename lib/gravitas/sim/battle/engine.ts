@@ -25,7 +25,7 @@ type RuntimeStats = {
   enemyHull: number;
   enemyShield: number;
   enemyGarrison: number;
-  
+
   // The 6 combat stats
   playerFirepower: number;
   playerBarrier: number;
@@ -59,6 +59,7 @@ type BattleContext = {
   dominantRole: UnitCombatRole;
   raiderLossStreak: number;
   tacticalVictory: boolean;
+  traitLog: import("./types").BattleTraitLogEntry[];
 };
 
 function clamp(v: number, min: number, max: number): number {
@@ -95,8 +96,10 @@ function buildPhase(
   source: BattlePhase["source"],
   description: ReturnType<typeof l>,
   damage?: number,
+  targetShieldDamage?: number,
+  targetHullDamage?: number,
 ): BattlePhase {
-  return { timestamp, event, source, description, damage };
+  return { timestamp, event, source, description, damage, targetShieldDamage, targetHullDamage };
 }
 
 function calculateArmyEvaluation(army: BattleArmy) {
@@ -144,11 +147,12 @@ function applyTraitEffect(
   ctx: BattleContext,
   battleTime: number,
   abilities: Set<string>,
-  phases: BattlePhase[]
+  phases: BattlePhase[],
+  intelLevel: number
 ) {
   const counter = hasCounter(abilities, trait);
   const counterFactor = counter ? 1 - (trait.counterEffectiveness ?? 0) : 1;
-  
+
   if (counter && !ctx.countersUsed.has(trait.counterAbility!)) {
     ctx.countersUsed.add(trait.counterAbility!);
     phases.push(buildPhase(battleTime, "counter", "player", l("Avatar kontra aktiv", "Avatar counter active", "Avatar-Konter aktiv", "Contra-avatar activa")));
@@ -160,11 +164,25 @@ function applyTraitEffect(
   if (trait.modifiers.defenseMultiplier) {
     runtime.enemyDefMul *= 1 + (trait.modifiers.defenseMultiplier - 1) * counterFactor;
   }
-  
+
   ctx.traitTriggered.add(trait.id);
+
+  // Create or update trait log
+  if (!ctx.traitLog.find(t => t.traitId === trait.id)) {
+    ctx.traitLog.push({
+      traitId: trait.id,
+      name: trait.name,
+      description: trait.description,
+      activatedAtPhase: battleTime,
+      counteredBy: counter ? trait.counterAbility : undefined,
+      counterEffectiveness: counter ? trait.counterEffectiveness : undefined,
+      hiddenRevealed: intelLevel >= 50,
+    });
+  }
 }
 
 import { getCycleEffects } from "../galaxy/cycles";
+import { getResearchEffect } from "../research/engine";
 
 export function resolveBattle(input: ResolveBattleInput): BattleResult {
   const { army, enemy, playerState, avatarCombat, scoutReport, descriptor, faction, battleHistory, seedNow } = input;
@@ -293,6 +311,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     dominantRole: armyBase.dominantRole,
     raiderLossStreak: 0,
     tacticalVictory: false,
+    traitLog: [],
   };
 
   // 3. Battle Loop
@@ -308,7 +327,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
          (isStart && trait.phase === "start") ||
          (isMid && trait.phase === "mid") ||
          (isEnd && trait.phase === "end")) {
-        applyTraitEffect(trait, runtime, ctx, t, abilities, phases);
+        applyTraitEffect(trait, runtime, ctx, t, abilities, phases, intel);
       }
     });
     
@@ -331,30 +350,37 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     }
 
     // Apply damage to enemy
+    let enemyShieldDmg = 0;
+    let enemyHullDmg = 0;
     if (runtime.enemyShield > 0) {
-      const shieldDmg = Math.min(runtime.enemyShield, playerDamage);
-      runtime.enemyShield -= shieldDmg;
+      enemyShieldDmg = Math.min(runtime.enemyShield, playerDamage);
+      runtime.enemyShield -= enemyShieldDmg;
       if (runtime.enemyShield <= 0) phases.push(buildPhase(t, "shield_break", "player", l("Ellenseges pajzs attores", "Enemy shield broken", "Feindschild gebrochen", "Scut inamic spart")));
     } else {
-      runtime.enemyHull -= playerDamage;
+      enemyHullDmg = playerDamage;
+      runtime.enemyHull -= enemyHullDmg;
       runtime.enemyGarrison -= playerDamage / 30;
     }
 
     // Apply damage to player
+    let playerShieldDmg = 0;
+    let playerHullDmg = 0;
     if (runtime.playerShield > 0) {
-      const shieldDmg = Math.min(runtime.playerShield, enemyDamage);
-      runtime.playerShield -= shieldDmg;
+      playerShieldDmg = Math.min(runtime.playerShield, enemyDamage);
+      runtime.playerShield -= playerShieldDmg;
       if (runtime.playerShield <= 0) phases.push(buildPhase(t, "shield_break", "enemy", l("Sajat pajzs összeomlott", "Your shield collapsed", "Dein Schild ist zusammengebrochen", "Scutul tău s-a prăbușit")));
     } else {
+      playerHullDmg = enemyDamage;
       const inspirationSave = Math.min(0.5, runtime.playerInspiration / 200);
-      runtime.playerHull -= enemyDamage;
+      runtime.playerHull -= playerHullDmg;
       runtime.playerGarrison -= (enemyDamage / 35) * (1 - inspirationSave);
     }
 
     ctx.playerDamageDone += playerDamage;
     ctx.playerDamageTaken += enemyDamage;
 
-    phases.push(buildPhase(t, "clash", "player", l("Tuzcsere", "Exchange of fire", "Feuerwechsel", "Schimb de foc"), Math.round(playerDamage)));
+    phases.push(buildPhase(t, "clash", "player", l("Játékos támadás", "Player Attack", "Spielerangriff", "Atacul jucătorului"), Math.round(playerDamage), Math.round(enemyShieldDmg), Math.round(enemyHullDmg)));
+    phases.push(buildPhase(t, "clash", "enemy", l("Ellenséges visszacsapás", "Enemy Counter-attack", "Feindlicher Gegenschlag", "Contraatac inamic"), Math.round(enemyDamage), Math.round(playerShieldDmg), Math.round(playerHullDmg)));
 
     if (runtime.enemyGarrison <= 0 || runtime.playerGarrison <= 0) break;
   }
@@ -402,7 +428,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     });
   }
 
-  const casualties = calculateCasualties(
+  const rawCasualties = calculateCasualties(
     army.units,
     {
       victory,
@@ -411,6 +437,18 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     },
     false,
   );
+
+  const casualtyReduction = getResearchEffect(playerState.research.completed, "casualty.reduction") / 100;
+  const casualties = { killed: { ...rawCasualties.killed }, wounded: { ...rawCasualties.wounded } };
+  
+  if (casualtyReduction > 0) {
+    for (const [unitId, count] of Object.entries(casualties.killed)) {
+      casualties.killed[unitId] = Math.max(0, Math.floor(count * (1 - casualtyReduction)));
+    }
+    for (const [unitId, count] of Object.entries(casualties.wounded)) {
+      casualties.wounded[unitId] = Math.max(0, Math.floor(count * (1 - casualtyReduction)));
+    }
+  }
 
   let officerStatus = undefined;
   if (officer && officer.status === "ready") {
@@ -428,6 +466,80 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
     officerStatus = { id: officer.id, xpGained: 50, wounded, died };
   }
 
+  const playerBreakdown = {
+    attack: {
+      base: avatarStats.firepower * (armyBase.attack / 100),
+      tacticMod: tactic.attackMod,
+      avatarMod: baseStatMod,
+      synergyMod: 1 + (syn.unitAttackBonus || 0) + (syn.unitAllStatsBonus || 0),
+      commanderMod: 1 + (cmd.attackBonus || 0) - (cmd.attackPenalty || 0) + (cmd.allStatsBonus || 0),
+      troopRatioMod: troopRatio,
+      intelAdvantageMod: playerEval.intel > enemyEval.intel + 15 ? 1.2 : 1.0,
+      total: playerEval.firepower,
+    },
+    defense: {
+      base: avatarStats.barrier * (armyBase.defense / 100),
+      tacticMod: tactic.defenseMod,
+      avatarMod: baseStatMod,
+      synergyMod: 1 + (syn.unitAllStatsBonus || 0),
+      commanderMod: 1 + (cmd.defenseBonus || 0) - (cmd.defensePenalty || 0) + (cmd.allStatsBonus || 0),
+      troopRatioMod: troopRatio,
+      intelAdvantageMod: playerEval.intel > enemyEval.intel + 15 ? 1.2 : 1.0,
+      total: playerEval.barrier,
+    },
+    speed: {
+      base: avatarStats.tactics * (armyBase.speed / 100),
+      tacticMod: tactic.speedMod,
+      avatarMod: baseStatMod,
+      synergyMod: 1 + (syn.unitSpeedBonus || 0) + (syn.unitAllStatsBonus || 0),
+      commanderMod: 1 + (cmd.allStatsBonus || 0),
+      troopRatioMod: 1.0,
+      intelAdvantageMod: 1.0,
+      total: playerEval.tactics,
+    }
+  };
+
+  const enemyBreakdown = {
+    attack: {
+      base: faction.profile.firepower * (scaledEnemyStats.firepower / 50),
+      tacticMod: 1.0,
+      avatarMod: 1.0,
+      synergyMod: 1.0,
+      commanderMod: 1.0,
+      troopRatioMod: 1.0,
+      conditionMod,
+      intelAdvantageMod: enemyEval.intel > playerEval.intel + 15 ? 1.2 : 1.0,
+      total: enemyEval.firepower,
+    },
+    defense: {
+      base: faction.profile.barrier * (scaledEnemyStats.armor / 50),
+      tacticMod: 1.0,
+      avatarMod: 1.0,
+      synergyMod: 1.0,
+      commanderMod: 1.0,
+      troopRatioMod: 1.0,
+      conditionMod,
+      intelAdvantageMod: enemyEval.intel > playerEval.intel + 15 ? 1.2 : 1.0,
+      total: enemyEval.barrier,
+    },
+    speed: {
+      base: faction.profile.tactics * (scaledEnemyStats.speed / 50),
+      tacticMod: 1.0,
+      avatarMod: 1.0,
+      synergyMod: 1.0,
+      commanderMod: 1.0,
+      troopRatioMod: 1.0,
+      conditionMod,
+      intelAdvantageMod: 1.0,
+      total: enemyEval.tactics,
+    }
+  };
+
+  const breakdown: import("./types").BattleStatBreakdown = {
+    player: playerBreakdown,
+    enemy: enemyBreakdown,
+  };
+
   return {
     victory,
     durationMs,
@@ -437,11 +549,28 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
       damageReceived: Math.round(ctx.playerDamageTaken),
       unitsLost: casualties.killed,
       unitsSent: army.units,
+      tacticId: army.tacticId,
       enemyGarrisonDestroyed: Math.max(0, enemy.stats.garrison - runtime.enemyGarrison),
       traitTriggered: Array.from(ctx.traitTriggered) as EnemyTraitId[],
       counterUsed: Array.from(ctx.countersUsed),
+      breakdown,
+      traitLog: ctx.traitLog,
     },
     loot: rewardPack.loot,
+      lootBreakdown: {
+        baseMaterials: rewardPack.loot?.materials ?? {},
+        bonuses: {
+        powerRatioMod: rewardPack.meta.powerRatioMod,
+        supplyFlowMod: rewardPack.meta.supplyFlowMod,
+        intelMod: rewardPack.meta.intelMod,
+        tacticalPenalty: rewardPack.meta.tacticalPenalty,
+        fastWinDouble: rewardPack.meta.fastWinDouble,
+        rareChance: rewardPack.meta.rareChanceFinal,
+        notes: rewardPack.meta.notes,
+      },
+      finalMaterials: rewardPack.loot?.materials ?? {},
+      rareDrop: rewardPack.loot?.rareDrop,
+    },
     intelGained: victory ? 12 : 4,
     casualties,
     replay: generateReplayLog(phases),

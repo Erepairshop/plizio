@@ -65,6 +65,60 @@ export interface BattleLoot {
   };
 }
 
+export interface BattleLootBreakdown {
+  baseMaterials: Partial<Record<GalaxyMaterialId, number>>;
+  bonuses: {
+    powerRatioMod: number;
+    supplyFlowMod: number;
+    intelMod: number;
+    tacticalPenalty: boolean;
+    fastWinDouble: boolean;
+    rareChance: number;
+    notes: string[];
+  };
+  finalMaterials: Partial<Record<GalaxyMaterialId, number>>;
+  rareDrop?: {
+    id: string;
+    name: LocalizedString;
+    chance: number;
+  };
+}
+
+export interface BattleStatComposition {
+  base: number;
+  tacticMod: number;
+  avatarMod: number;
+  synergyMod: number;
+  commanderMod: number;
+  troopRatioMod: number; // Penalty for bringing too few troops
+  conditionMod?: number; // Enemy specific
+  intelAdvantageMod?: number; // Applied during clash, noted here
+  total: number;
+}
+
+export interface BattleStatBreakdown {
+  player: {
+    attack: BattleStatComposition;
+    defense: BattleStatComposition;
+    speed: BattleStatComposition;
+  };
+  enemy: {
+    attack: BattleStatComposition;
+    defense: BattleStatComposition;
+    speed: BattleStatComposition;
+  };
+}
+
+export interface BattleTraitLogEntry {
+  traitId: EnemyTraitId;
+  name: LocalizedString;
+  description: LocalizedString;
+  activatedAtPhase: number; // Timestamp
+  counteredBy?: string; // Ability ID
+  counterEffectiveness?: number;
+  hiddenRevealed: boolean;
+}
+
 export interface BattleResult {
   victory: boolean;
   durationMs: number;
@@ -74,11 +128,15 @@ export interface BattleResult {
     damageReceived: number;
     unitsLost: Record<string, number>;
     unitsSent?: Record<string, number>;
+    tacticId?: BattleTacticId;
     enemyGarrisonDestroyed: number;
     traitTriggered: EnemyTraitId[];
     counterUsed: string[];
+    breakdown?: BattleStatBreakdown; // New detailed breakdown
+    traitLog?: BattleTraitLogEntry[]; // Detailed trait interactions
   };
   loot?: BattleLoot;
+  lootBreakdown?: BattleLootBreakdown; // Detailed loot info
   intelGained: number;
   casualties?: CasualtyReport;
   replay?: import("./replay").BattleReplayLog;
@@ -96,6 +154,8 @@ export interface BattlePhase {
   description: LocalizedString;
   damage?: number;
   source: "player" | "enemy";
+  targetShieldDamage?: number;
+  targetHullDamage?: number;
 }
 
 export interface ScoutReport {

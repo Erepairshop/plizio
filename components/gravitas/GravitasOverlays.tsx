@@ -1,8 +1,7 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowUpCircle, FileText, LayoutGrid, ShieldHalf, Star, Terminal, X, Zap, Bell } from "lucide-react";
-import ModuleUpgradePanel from "@/components/gravitas/ModuleUpgradePanel";
+import { LayoutGrid, ShieldHalf, Star, Terminal, X, Zap, Bell } from "lucide-react";
 import DilemmaCard from "@/components/gravitas/DilemmaCard";
 import FactionReputationPanel from "@/components/gravitas/FactionReputationPanel";
 import NotificationPanel from "@/components/gravitas/NotificationPanel";
@@ -240,8 +239,6 @@ export default function GravitasOverlays(props: Props) {
               <h2 className="text-xl font-black uppercase tracking-tight flex items-center gap-2">
                 {activePanel === "modules" && <><LayoutGrid size={20} className="text-cyan-400" /> {localize(ui.modules)}</>}
                 {activePanel === "marks" && <><ShieldHalf size={20} className="text-rose-400" /> {localize(ui.marks)}</>}
-                {activePanel === "upgrades" && <><ArrowUpCircle size={20} className="text-emerald-400" /> {localize({ en: "Upgrades", hu: "Fejlesztések", de: "Upgrades", ro: "Îmbunătățiri" })}</>}
-                {activePanel === "journal" && <><FileText size={20} className="text-amber-400" /> {localize(ui.journal)}</>}
               </h2>
               <button onClick={() => setActivePanel(null)} className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center">
                 <X size={20} />
@@ -316,23 +313,11 @@ export default function GravitasOverlays(props: Props) {
                   </div>
                 </div>
               )}
-              {activePanel === "upgrades" && (
-                <ModuleUpgradePanel state={state} dispatch={(cmd: any) => doAction(cmd, "rgba(16,185,129,0.4)")} lang={lang} />
-              )}
               {activePanel === "factions" && (
                 <FactionReputationPanel factionReputation={state.factionReputation} lang={lang} onClose={() => setActivePanel(null)} />
               )}
               {activePanel === "notifications" && (
                 <NotificationPanel state={state} doAction={(cmd: any) => doAction(cmd, "rgba(59,130,246,0.4)")} lang={lang} onClose={() => setActivePanel(null)} />
-              )}
-              {activePanel === "journal" && (
-                <div className="space-y-4">
-                  {state.alert && <div className="p-4 rounded-2xl border border-cyan-400/20 bg-cyan-400/5 text-cyan-100 text-sm font-medium flex items-center gap-3"><Terminal size={16} className="text-cyan-400 shrink-0" />{localize(state.alert)}</div>}
-                  <div className="space-y-3">
-                    {state.journal.map((line: any, idx: number) => <div key={idx} className="p-3 rounded-xl border border-white/5 bg-white/[0.03] text-sm text-white/80 border-l-2 border-l-white/15 flex gap-3"><span className="font-black text-white/45 uppercase shrink-0 mt-0.5 text-[10px]">T{line.tick}</span><span>{localize(line.text)}</span></div>)}
-                    {state.journal.length === 0 && <div className="p-12 text-center text-[10px] text-white/40 font-black uppercase tracking-[0.2em]">{localize(ui.awaitingLog)}</div>}
-                  </div>
-                </div>
               )}
             </div>
           </motion.div>

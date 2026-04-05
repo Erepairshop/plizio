@@ -22,6 +22,7 @@ const FIELD_ICONS: Record<ResearchFieldId, string> = {
   logistics: "📦",
   sensors: "📡",
   void: "🌀",
+  core: "⚛️",
 };
 
 const FIELD_NAMES: Record<ResearchFieldId, LocalizedString> = {
@@ -30,6 +31,7 @@ const FIELD_NAMES: Record<ResearchFieldId, LocalizedString> = {
   logistics: { en: "Logistics", hu: "Logisztika", de: "Logistik", ro: "Logistică" },
   sensors: { en: "Sensors", hu: "Szenzorok", de: "Sensoren", ro: "Senzori" },
   void: { en: "Void", hu: "Void", de: "Void", ro: "Void" },
+  core: { en: "Core", hu: "Mag", de: "Kern", ro: "Nucleu" },
 };
 
 function formatDuration(ms: number): string {
@@ -80,7 +82,7 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
     : 0;
   const activeRemainingMs = state.research.active ? Math.max(0, state.research.active.completesAt - now) : 0;
 
-  const fields: ResearchFieldId[] = ["weapons", "shields", "logistics", "sensors", "void"];
+  const fields: ResearchFieldId[] = ["weapons", "shields", "logistics", "sensors", "void", "core"];
   const projectsByTier = useMemo(() => {
     const map = new Map<ResearchTier, ResearchProject[]>();
     for (const p of RESEARCH_PROJECTS) {
@@ -111,6 +113,17 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
         >
           <X size={16} />
         </button>
+      </div>
+
+      <div className="border-b border-cyan-500/10 bg-cyan-950/10 px-4 py-3">
+        <p className="max-w-4xl text-[11px] leading-relaxed text-cyan-100/65">
+          {localize({
+            en: "Spend core resources to unlock permanent upgrades. Research keeps running in the background until it finishes or you cancel it.",
+            hu: "Költs core erőforrásokat tartós fejlesztések feloldására. A kutatás a háttérben fut, amíg be nem fejeződik vagy meg nem szakítod.",
+            de: "Gib Kernressourcen aus, um permanente Upgrades freizuschalten. Forschung läuft im Hintergrund, bis sie fertig ist oder abgebrochen wird.",
+            ro: "Folosește resursele core pentru a debloca îmbunătățiri permanente. Cercetarea rulează în fundal până se termină sau o anulezi.",
+          })}
+        </p>
       </div>
 
       {/* Active Research Bar */}
@@ -196,7 +209,7 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
                   if (!isCompleted && !isAvailable && !isCurrentlyActive) {
                     if (state.research.active) lockReason = "Busy";
                     else if (state.moduleLevels.core < (tier === 1 ? 3 : tier === 2 ? 8 : tier === 3 ? 14 : 20)) lockReason = "Core LVL";
-                    else if (project.prerequisites.some((r: string) => !state.research.completed.includes(r))) lockReason = "Prereq";
+                    else if (project.prerequisites.projects?.some((r: string) => !state.research.completed.includes(r))) lockReason = "Prereq";
                     else lockReason = "Cost";
                   }
 
@@ -223,27 +236,38 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
                       
                       <div className="text-[10px] text-white/60 mb-3 flex-1">
                         {localize(project.description)}
-                        <div className="mt-1 text-cyan-200/80 font-mono">
-                          » {project.effect.type}: {project.effect.target} ({project.effect.value > 0 ? '+' : ''}{project.effect.value})
+                        <div className="mt-2 space-y-0.5">
+                          {project.effects.map((eff, i) => (
+                            <div key={i} className="text-cyan-200/80 font-mono">
+                              » {eff.description ? localize(eff.description) : `${eff.type}: ${eff.target} (${eff.value > 0 ? '+' : ''}${eff.value})`}
+                            </div>
+                          ))}
                         </div>
                       </div>
 
                       {!isCompleted && (
                         <div className="flex items-end justify-between mt-auto">
-                          <div className="flex flex-wrap gap-1.5">
-                            {Object.entries(project.materialCost).map(([mat, rawAmount]) => {
-                              const amount = rawAmount as number;
-                              if (!amount) return null;
-                              const hasEnough = (inventory[mat as keyof typeof inventory] ?? 0) >= amount;
-                              return (
-                                <div key={mat} className={`px-1.5 py-0.5 rounded text-[9px] font-black border ${hasEnough ? "border-white/10 text-white/60" : "border-rose-500/30 text-rose-400"}`}>
-                                  {mat.split('_')[0].substring(0,2).toUpperCase()} {amount}
-                                </div>
-                              );
-                            })}
+                          <div className="flex flex-col gap-1.5">
+                            {project.unlockHint && (
+                              <div className="text-[9px] font-black text-amber-400/80 uppercase tracking-widest bg-amber-950/30 px-1.5 py-0.5 rounded border border-amber-500/20 inline-block w-fit">
+                                {localize(project.unlockHint)}
+                              </div>
+                            )}
+                            <div className="flex flex-wrap gap-1.5">
+                              {Object.entries(project.materialCost).map(([mat, rawAmount]) => {
+                                const amount = rawAmount as number;
+                                if (!amount) return null;
+                                const hasEnough = (inventory[mat as keyof typeof inventory] ?? 0) >= amount;
+                                return (
+                                  <div key={mat} className={`px-1.5 py-0.5 rounded text-[9px] font-black border ${hasEnough ? "border-white/10 text-white/60" : "border-rose-500/30 text-rose-400"}`}>
+                                    {mat.split('_')[0].substring(0,2).toUpperCase()} {amount}
+                                  </div>
+                                );
+                              })}
+                            </div>
                           </div>
-                          <div className="text-[9px] font-mono text-white/40">
-                            ⏱ {formatDuration(tier === 1 ? 6*3600000 : tier === 2 ? 18*3600000 : tier === 3 ? 48*3600000 : 120*3600000)}
+                          <div className="text-[9px] font-mono text-white/40 mb-0.5">
+                            ⏱ {formatDuration(project.baseDurationMs ?? (tier === 1 ? 6*3600000 : tier === 2 ? 18*3600000 : tier === 3 ? 48*3600000 : 120*3600000))}
                           </div>
                         </div>
                       )}

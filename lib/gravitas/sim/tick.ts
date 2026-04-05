@@ -15,7 +15,7 @@ import { getContinuationScavengeProfile, normalizeContinuationState } from "./co
 import { tickWarroomProduction } from "./warroom";
 import { tickRepairBay, getRepairSlotCount } from "./repairbay";
 import { applyStarholdCommand } from "./commands";
-import { getWorldLevelDelay, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
+import { getEnemyResetTime, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
 import { applyNaturalDrift } from "./faction/reputation";
 import { evaluateSynergies } from "./synergy/evaluate";
 import { SYNERGY_MAP } from "./synergy/registry";
@@ -23,6 +23,7 @@ import { advanceCyclePhase, getCycleEffects, CYCLE_PHASE_NAMES } from "./galaxy/
 import { tickDilemmaEffects, tickDilemmaSpawn } from "./dilemma/engine";
 import { tickTradeSystem } from "./trade/engine";
 import { tickWeeklyMission } from "./weekly/engine";
+import { nextRandom, randomInt } from "./rng";
 import { evaluateProfile, getProfileEffects, PROFILE_DEFS } from "./commander/evaluate";
 import { tickEspionage } from "./espionage/index";
 import { tickResearch } from "./research/engine";
@@ -170,11 +171,13 @@ function tickWorldLevel(state: StarholdState): StarholdState {
 
   // 2. Schedule new level increase if core level is higher and nothing is pending
   if (!state.worldLevelPending && coreLevel > state.worldLevel) {
+    const { time: delay, nextRng: rRng } = getEnemyResetTime(state.globalRngState);
     return {
       ...state,
+      globalRngState: rRng,
       worldLevelPending: {
         targetLevel: coreLevel,
-        scheduledAt: now + getWorldLevelDelay(),
+        scheduledAt: now + delay,
       },
       alert: WORLD_LEVEL_TEXTS.pending,
     };
@@ -755,10 +758,17 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
   }
 
   // Void Whispers (Psychic atmosphere)
-  if (!introWindow && state.marks.voidEcho > 8 && state.tick % 15 === 0 && Math.random() > 0.4 && !recoveryCalmWindow) {
+  let currentRngState = state.globalRngState;
+  
+  const { value: rWhisperChance, nextState: s1 } = nextRandom(currentRngState);
+  currentRngState = s1;
+  
+  if (!introWindow && state.marks.voidEcho > 8 && state.tick % 15 === 0 && rWhisperChance > 0.4 && !recoveryCalmWindow) {
     const whispers = GRAVITAS_TEXT.lore.voidWhispers || [];
     if (whispers.length > 0) {
-      const randomWhisper = whispers[Math.floor(Math.random() * whispers.length)];
+      const { value: rIdx, nextState: s2 } = randomInt(currentRngState, 0, whispers.length - 1);
+      currentRngState = s2;
+      const randomWhisper = whispers[rIdx];
       nextJournal = pushJournal({ ...state, journal: nextJournal }, randomWhisper);
     }
   }
@@ -782,7 +792,9 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
   // Entropy Spike (Aggressive damage at high entropy)
   if (!earlyWindow && state.entropy > 80 && state.tick % 4 === 0 && !recoveryCalmWindow) {
     const eids = getModuleIds();
-    const targetId = eids[Math.floor(Math.random() * eids.length)];
+    const { value: rMod, nextState: s3 } = randomInt(currentRngState, 0, eids.length - 1);
+    currentRngState = s3;
+    const targetId = eids[rMod];
     nextModules[targetId] = {
       ...nextModules[targetId],
       integrity: clamp(nextModules[targetId].integrity - 5),

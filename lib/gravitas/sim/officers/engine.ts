@@ -4,6 +4,7 @@ import { OFFICER_CONFIG } from "../../economy";
 import { GALAXY_FACTIONS } from "../battle/factions";
 import type { FactionId } from "../faction/types";
 import { pushJournal } from "../shared";
+import { nextRandom, randomInt } from "../rng";
 
 const TRAIT_IDS: OfficerTraitId[] = ["tactician", "brute", "defender", "scavenger", "inspirer"];
 
@@ -38,15 +39,24 @@ export const OFFICER_TRAITS: Record<OfficerTraitId, { name: LocalizedString, des
   },
 };
 
-function generateRecruit(): Officer {
+export function generateRecruit(rngState: number): { officer: Officer, nextState: number } {
   const factions = Object.keys(GALAXY_FACTIONS) as FactionId[];
-  const factionId = factions[Math.floor(Math.random() * factions.length)];
-  const nameList = NAMES[factionId] || ["Unknown"];
-  const name = nameList[Math.floor(Math.random() * nameList.length)] + " " + Math.floor(Math.random() * 100);
-  const trait = TRAIT_IDS[Math.floor(Math.random() * TRAIT_IDS.length)];
   
-  return {
-    id: `officer_${Date.now()}_${Math.floor(Math.random() * 1000)}`,
+  const { value: rFacIdx, nextState: s1 } = randomInt(rngState, 0, factions.length - 1);
+  const factionId = factions[rFacIdx];
+  const nameList = NAMES[factionId] || ["Unknown"];
+  
+  const { value: rNameIdx, nextState: s2 } = randomInt(s1, 0, nameList.length - 1);
+  const { value: rNum, nextState: s3 } = randomInt(s2, 0, 99);
+  const name = nameList[rNameIdx] + " " + rNum;
+  
+  const { value: rTraitIdx, nextState: s4 } = randomInt(s3, 0, TRAIT_IDS.length - 1);
+  const trait = TRAIT_IDS[rTraitIdx];
+  
+  const { value: rId, nextState: s5 } = randomInt(s4, 0, 999);
+  
+  const officer: Officer = {
+    id: `officer_${Date.now()}_${rId}`,
     name,
     factionId,
     portrait: factionId,
@@ -56,17 +66,25 @@ function generateRecruit(): Officer {
     status: "ready",
     availableAt: 0,
   };
+
+  return { officer, nextState: s5 };
 }
 
-export function createInitialOfficerState(): OfficerState {
+export function createInitialOfficerState(rngState?: number): { officerState: OfficerState, nextRngState: number } {
   const recruits = [];
+  let currentRngState = rngState ?? (Date.now() % 2147483647);
   for (let i = 0; i < OFFICER_CONFIG.recruitPoolSize; i++) {
-    recruits.push(generateRecruit());
+    const { officer, nextState } = generateRecruit(currentRngState);
+    recruits.push(officer);
+    currentRngState = nextState;
   }
   return {
-    active: [],
-    recruits,
-    lastRecruitRefresh: Date.now(),
+    officerState: {
+      active: [],
+      recruits,
+      lastRecruitRefresh: Date.now(),
+    },
+    nextRngState: currentRngState
   };
 }
 
@@ -116,6 +134,7 @@ export function tickOfficers(state: StarholdState): StarholdState {
 
   const now = Date.now();
   let mutated = false;
+  let currentRngState = state.globalRngState;
   
   let nextOfficers = { ...state.officers };
 
@@ -123,7 +142,9 @@ export function tickOfficers(state: StarholdState): StarholdState {
   if (now - state.officers.lastRecruitRefresh > OFFICER_CONFIG.recruitRefreshMs) {
     const recruits = [];
     for (let i = 0; i < OFFICER_CONFIG.recruitPoolSize; i++) {
-      recruits.push(generateRecruit());
+      const { officer, nextState: s } = generateRecruit(currentRngState);
+      recruits.push(officer);
+      currentRngState = s;
     }
     nextOfficers.recruits = recruits;
     nextOfficers.lastRecruitRefresh = now;
@@ -141,8 +162,8 @@ export function tickOfficers(state: StarholdState): StarholdState {
 
   if (mutated) {
     nextOfficers.active = nextActive;
-    return { ...state, officers: nextOfficers };
+    return { ...state, globalRngState: currentRngState, officers: nextOfficers };
   }
 
-  return state;
+  return { ...state, globalRngState: currentRngState };
 }

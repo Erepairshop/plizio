@@ -53,10 +53,13 @@ export function getAvailableMaterials(worldLevel: number): GalaxyMaterialId[] {
 }
 
 /** Random delay for world level transition: 24-48 hours in ms */
-export function getWorldLevelDelay(): number {
+import { nextRandom } from "../rng";
+
+export function getEnemyResetTime(rngState: number): { time: number; nextRng: number } {
   const minMs = 24 * 60 * 60 * 1000;   // 24 hours
   const maxMs = 48 * 60 * 60 * 1000;   // 48 hours
-  return minMs + Math.random() * (maxMs - minMs);
+  const { value: rReset, nextState: sReset } = nextRandom(rngState);
+  return { time: minMs + rReset * (maxMs - minMs), nextRng: sReset };
 }
 
 /** Texts for world level changes */

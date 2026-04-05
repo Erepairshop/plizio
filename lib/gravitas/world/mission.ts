@@ -30,6 +30,12 @@ export type DroneMissionState = {
   failed?: boolean;
 };
 
+type NormalizedDroneMissionsResult = {
+  missions: DroneMissionState[];
+  completed: Array<{ materialId: GalaxyMaterialId; amount: number }>;
+  changed: boolean;
+};
+
 const DRONE_MISSION_STORAGE_KEY_V1 = "gravitas_galaxy_drone_mission_v1";
 const DRONE_MISSIONS_STORAGE_KEY_V2 = "gravitas_galaxy_drone_missions_v2";
 const GALAXY_INVENTORY_STORAGE_KEY = "gravitas_galaxy_inventory_v1";
@@ -83,18 +89,121 @@ export function loadAllDroneMissions(): DroneMissionState[] {
     if (!raw) return [];
     const parsed = JSON.parse(raw) as DroneMissionState[];
     if (!Array.isArray(parsed)) return [];
-    
-    const now = Date.now();
-    // Filter out completed/invalid missions
-    return parsed.filter(m => {
-      if (m.phase === "returning" && m.returnCompleteAt && now >= m.returnCompleteAt) {
-        return false;
+
+    const { missions, completed, changed } = normalizeDroneMissions(parsed, Date.now());
+    if (completed.length > 0) {
+      const inventory = loadSavedGalaxyInventory();
+      let nextInventory = { ...inventory };
+      for (const item of completed) {
+        nextInventory = addGalaxyInventoryMaterial(nextInventory, item.materialId, item.amount);
       }
-      return true;
-    });
+      saveGalaxyInventory(nextInventory);
+    }
+    if (changed || completed.length > 0) {
+      saveAllDroneMissions(missions);
+    }
+    return missions;
   } catch {
     return [];
   }
+}
+
+function normalizeDroneMissions(missions: DroneMissionState[], now: number): NormalizedDroneMissionsResult {
+  const nextMissions: DroneMissionState[] = [];
+  const completed: Array<{ materialId: GalaxyMaterialId; amount: number }> = [];
+  let changed = false;
+
+  for (const mission of missions) {
+    if (!mission) continue;
+
+    const travelMs = Math.max(1, mission.travelDurationMinutes * 60_000);
+    const miningMs = Math.max(1, mission.miningDurationMinutes * 60_000);
+    const returnMs = travelMs;
+
+    if (mission.phase === "traveling") {
+      if (now < mission.arrivalAt) {
+        nextMissions.push(mission);
+        continue;
+      }
+
+      const miningCompleteAt = mission.miningCompleteAt || (mission.arrivalAt + miningMs);
+      const returnCompleteAt = miningCompleteAt + returnMs;
+
+      if (now >= returnCompleteAt) {
+        completed.push({
+          materialId: mission.materialId,
+          amount: mission.failed ? 0 : mission.targetYieldUnits,
+        });
+        changed = true;
+        continue;
+      }
+
+      nextMissions.push({
+        ...mission,
+        phase: "returning",
+        committedUnits: mission.failed ? 0 : mission.targetYieldUnits,
+        returnStartedAt: miningCompleteAt,
+        returnCompleteAt,
+      });
+      changed = true;
+      continue;
+    }
+
+    if (mission.phase === "mining") {
+      const miningCompleteAt = mission.miningCompleteAt || (mission.arrivalAt + miningMs);
+      const returnCompleteAt = miningCompleteAt + returnMs;
+
+      if (now < miningCompleteAt) {
+        nextMissions.push(mission);
+        continue;
+      }
+
+      if (now >= returnCompleteAt) {
+        completed.push({
+          materialId: mission.materialId,
+          amount: mission.failed ? 0 : (mission.committedUnits ?? mission.targetYieldUnits),
+        });
+        changed = true;
+        continue;
+      }
+
+      nextMissions.push({
+        ...mission,
+        phase: "returning",
+        committedUnits: mission.failed ? 0 : (mission.committedUnits ?? mission.targetYieldUnits),
+        returnStartedAt: miningCompleteAt,
+        returnCompleteAt,
+      });
+      changed = true;
+      continue;
+    }
+
+    if (mission.phase === "returning") {
+      const returnCompleteAt = mission.returnCompleteAt ?? (mission.miningCompleteAt + returnMs);
+      if (now >= returnCompleteAt) {
+        completed.push({
+          materialId: mission.materialId,
+          amount: mission.failed ? 0 : (mission.committedUnits ?? mission.targetYieldUnits),
+        });
+        changed = true;
+        continue;
+      }
+      nextMissions.push({
+        ...mission,
+        committedUnits: mission.committedUnits ?? (mission.failed ? 0 : mission.targetYieldUnits),
+        returnStartedAt: mission.returnStartedAt ?? mission.miningCompleteAt,
+        returnCompleteAt,
+      });
+      if ((mission.returnStartedAt ?? mission.miningCompleteAt) !== mission.returnStartedAt || mission.returnCompleteAt !== returnCompleteAt || (mission.committedUnits ?? (mission.failed ? 0 : mission.targetYieldUnits)) !== mission.committedUnits) {
+        changed = true;
+      }
+      continue;
+    }
+
+    nextMissions.push(mission);
+  }
+
+  return { missions: nextMissions, completed, changed };
 }
 
 export function saveAllDroneMissions(missions: DroneMissionState[]): void {

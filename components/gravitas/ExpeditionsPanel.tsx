@@ -45,6 +45,14 @@ const DURATIONS: Record<ExpeditionDurationType, { label: LocalizedString, hours:
   deep_space: { label: { en: "Void Expedition", hu: "Void Expedíció", de: "Leeren-Expedition", ro: "Expediție în Vid" }, hours: 72, minSensor: 8 },
 };
 
+const ROUTE_TYPES: { id: import("@/lib/gravitas/sim/expeditions/types").ExpeditionRouteProfile; label: LocalizedString; desc: LocalizedString }[] = [
+  { id: "safe", label: { en: "Safe", hu: "Biztonságos", de: "Sicher", ro: "Sigur" }, desc: { en: "Low risk, low reward.", hu: "Alacsony kockázat, alacsony jutalom.", de: "Geringes Risiko, geringe Belohnung.", ro: "Risc scăzut, recompensă mică." } },
+  { id: "balanced", label: { en: "Balanced", hu: "Kiegyensúlyozott", de: "Ausgeglichen", ro: "Echilibrat" }, desc: { en: "Standard risk and reward.", hu: "Normál kockázat és jutalom.", de: "Standardrisiko und -belohnung.", ro: "Risc și recompensă standard." } },
+  { id: "risky", label: { en: "Risky", hu: "Kockázatos", de: "Riskant", ro: "Riscant" }, desc: { en: "High risk, high reward.", hu: "Magas kockázat, magas jutalom.", de: "Hohes Risiko, hohe Belohnung.", ro: "Risc mare, recompensă mare." } },
+  { id: "deep_space", label: { en: "Deep Space", hu: "Mélyűr", de: "Tiefenraum", ro: "Spațiu Adânc" }, desc: { en: "Extreme risk, rare discoveries.", hu: "Extrém kockázat, ritka leletek.", de: "Extremes Risiko, seltene Entdeckungen.", ro: "Risc extrem, descoperiri rare." } },
+  { id: "black_route", label: { en: "Black Route", hu: "Fekete Útvonal", de: "Schwarze Route", ro: "Ruta Neagră" }, desc: { en: "Suicidal risk, massive wealth.", hu: "Öngyilkos kockázat, hatalmas vagyon.", de: "Selbstmörderisches Risiko, enormer Reichtum.", ro: "Risc sinucigaș, bogăție imensă." } },
+];
+
 function formatTimeLeft(ms: number): string {
   if (ms <= 0) return "0s";
   const h = Math.floor(ms / 3600000);
@@ -59,8 +67,18 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
   const [now, setNow] = useState(Date.now());
   const [activeTab, setActiveTab] = useState<"new" | "active" | "history">("active");
   const [selectedUnits, setSelectedUnits] = useState<Record<WarRoomUnitId, number>>({} as any);
+  const [routeProfile, setRouteProfile] = useState<import("@/lib/gravitas/sim/expeditions/types").ExpeditionRouteProfile>("safe");
   const [durationMode, setDurationMode] = useState<ExpeditionDurationType>("short");
   const [officerId, setOfficerId] = useState<string>("");
+
+  // Sync duration with route to keep UI simple but distinct
+  const handleRouteSelect = (route: import("@/lib/gravitas/sim/expeditions/types").ExpeditionRouteProfile) => {
+    setRouteProfile(route);
+    if (route === "safe") setDurationMode("short");
+    else if (route === "balanced") setDurationMode("medium");
+    else if (route === "risky") setDurationMode("long");
+    else setDurationMode("deep_space"); // deep_space and black_route use longest duration
+  };
 
   useEffect(() => {
     const id = setInterval(() => setNow(Date.now()), 1000);
@@ -78,7 +96,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
   };
 
   const handleLaunch = () => {
-    doAction({ type: "LAUNCH_EXPEDITION", durationMode, fleet: { units: selectedUnits, officerId: officerId || undefined } }, "rgba(56,189,248,0.2)");
+    doAction({ type: "LAUNCH_EXPEDITION", durationMode, routeProfile, fleet: { units: selectedUnits, officerId: officerId || undefined } }, "rgba(56,189,248,0.2)");
     setSelectedUnits({} as any);
     setOfficerId("");
     setActiveTab("active");
@@ -136,22 +154,29 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
           {activeTab === "new" && (
             <motion.div key="new" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} className="max-w-2xl mx-auto space-y-6">
               
-              {/* Duration Selection */}
+              {/* Route Selection */}
               <div>
                 <h3 className="text-xs font-black uppercase tracking-widest text-sky-400/80 mb-3">{localize({ en: "Mission Profile", hu: "Küldetés Profil", de: "Missionsprofil", ro: "Profil Misiune" })}</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                  {(Object.entries(DURATIONS) as [ExpeditionDurationType, any][]).map(([key, data]) => {
-                    const available = state.moduleLevels.sensor >= data.minSensor;
+                <div className="grid grid-cols-2 md:grid-cols-5 gap-3">
+                  {ROUTE_TYPES.map((routeData) => {
+                    const durationKey = routeData.id === "safe" ? "short" : routeData.id === "balanced" ? "medium" : routeData.id === "risky" ? "long" : "deep_space";
+                    const durationData = DURATIONS[durationKey];
+                    const available = state.moduleLevels.sensor >= durationData.minSensor;
                     return (
                       <button
-                        key={key}
+                        key={routeData.id}
                         disabled={!available}
-                        onClick={() => setDurationMode(key)}
-                        className={`p-3 rounded-xl border text-left transition-all ${!available ? "opacity-30 grayscale cursor-not-allowed" : durationMode === key ? "bg-sky-500/20 border-sky-400 text-white shadow-[0_0_15px_rgba(56,189,248,0.2)]" : "bg-white/5 border-white/10 hover:bg-white/10 text-white/60"}`}
+                        onClick={() => handleRouteSelect(routeData.id)}
+                        className={`p-3 rounded-xl border text-left transition-all flex flex-col justify-between ${!available ? "opacity-30 grayscale cursor-not-allowed" : routeProfile === routeData.id ? (routeData.id === "black_route" ? "bg-fuchsia-500/20 border-fuchsia-400 text-white shadow-[0_0_15px_rgba(217,70,239,0.2)]" : "bg-sky-500/20 border-sky-400 text-white shadow-[0_0_15px_rgba(56,189,248,0.2)]") : "bg-white/5 border-white/10 hover:bg-white/10 text-white/60"}`}
                       >
-                        <div className="text-[10px] font-black uppercase tracking-widest mb-1">{localize(data.label)}</div>
-                        <div className="text-xs font-mono">{data.hours}h</div>
-                        {!available && <div className="text-[9px] text-rose-400 mt-1 uppercase">Sensor LVL {data.minSensor} req.</div>}
+                        <div>
+                          <div className={`text-[10px] font-black uppercase tracking-widest mb-1 ${routeProfile === routeData.id ? (routeData.id === "black_route" ? "text-fuchsia-300" : "text-sky-300") : ""}`}>{localize(routeData.label)}</div>
+                          <div className="text-[9px] leading-tight mb-2 opacity-70">{localize(routeData.desc)}</div>
+                        </div>
+                        <div>
+                          <div className="text-xs font-mono">{durationData.hours}h</div>
+                          {!available && <div className="text-[9px] text-rose-400 mt-1 uppercase">Sensor LVL {durationData.minSensor} req.</div>}
+                        </div>
                       </button>
                     );
                   })}
@@ -317,20 +342,75 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
               ) : (
                 [...state.expeditions.completedLog].reverse().map(exp => (
                   <div key={exp.id} className="bg-white/5 border border-white/10 rounded-2xl p-4 opacity-80 hover:opacity-100 transition">
-                    <div className="flex items-center justify-between mb-3 border-b border-white/5 pb-3">
-                      <div className="text-[10px] font-black uppercase tracking-widest text-white/50">
-                        {new Date(exp.startedAt).toLocaleDateString()} - {localize(DURATIONS[exp.durationMode].label)}
+                    <div className="flex flex-col md:flex-row md:items-center justify-between mb-3 border-b border-white/5 pb-3 gap-2">
+                      <div>
+                        <div className="text-[10px] font-black uppercase tracking-widest text-white/50 mb-1">
+                          {new Date(exp.startedAt).toLocaleDateString()} - {localize(DURATIONS[exp.durationMode].label)}
+                        </div>
+                        <div className="flex gap-2">
+                          <span className={`px-2 py-0.5 rounded text-[9px] font-black uppercase tracking-widest ${exp.routeProfile === "black_route" ? "bg-fuchsia-500/20 text-fuchsia-400 border border-fuchsia-500/30" : "bg-sky-500/20 text-sky-400 border border-sky-500/30"}`}>
+                            {localize(ROUTE_TYPES.find(r => r.id === exp.routeProfile)?.label || { en: exp.routeProfile } as any)}
+                          </span>
+                          <span className="px-2 py-0.5 rounded text-[9px] font-black uppercase tracking-widest bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+                            {exp.crewProfile.replace("_", " ")}
+                          </span>
+                          {exp.recalled && (
+                            <span className="px-2 py-0.5 rounded text-[9px] font-black uppercase tracking-widest bg-amber-500/20 text-amber-400 border border-amber-500/30">
+                              Aborted
+                            </span>
+                          )}
+                        </div>
                       </div>
-                      <div className="flex gap-3">
-                        {exp.loot.supply && <div className="text-xs font-mono text-emerald-400 flex items-center gap-1"><Package size={12} /> +{exp.loot.supply} SU</div>}
-                        {exp.loot.intel && <div className="text-xs font-mono text-cyan-400 flex items-center gap-1"><Activity size={12} /> +{exp.loot.intel} Intel</div>}
+                      
+                      <div className="flex flex-wrap gap-3">
+                        {exp.rewardBreakdown?.finalLoot.supply && <div className="text-xs font-mono text-emerald-400 flex items-center gap-1"><Package size={12} /> +{exp.rewardBreakdown.finalLoot.supply} SU</div>}
+                        {exp.rewardBreakdown?.finalLoot.intel && <div className="text-xs font-mono text-cyan-400 flex items-center gap-1"><Activity size={12} /> +{exp.rewardBreakdown.finalLoot.intel} Intel</div>}
+                        {Object.entries(exp.casualties).map(([unitId, count]) => {
+                          if (!count) return null;
+                          return (
+                            <div key={unitId} className="text-xs font-mono text-rose-400 flex items-center gap-1">
+                              <AlertTriangle size={12} /> -{count} {unitId.split('_').pop()}
+                            </div>
+                          );
+                        })}
                       </div>
                     </div>
+                    
+                    {exp.rewardBreakdown && (
+                      <div className="mb-3 p-3 bg-black/40 border border-white/5 rounded-xl grid grid-cols-2 md:grid-cols-4 gap-2 text-[10px]">
+                        <div>
+                          <div className="text-white/40 uppercase font-black">Route Mult</div>
+                          <div className="font-mono text-sky-300">x{exp.rewardBreakdown.routeBonusMult.toFixed(1)}</div>
+                        </div>
+                        <div>
+                          <div className="text-white/40 uppercase font-black">Crew Mult</div>
+                          <div className="font-mono text-emerald-300">x{exp.rewardBreakdown.crewBonusMult.toFixed(2)}</div>
+                        </div>
+                        <div>
+                          <div className="text-white/40 uppercase font-black">Risk Pen.</div>
+                          <div className="font-mono text-rose-300">x{exp.rewardBreakdown.riskPenaltyMult.toFixed(1)}</div>
+                        </div>
+                        {exp.rewardBreakdown.rareDiscoveryBonus && (
+                          <div>
+                            <div className="text-white/40 uppercase font-black">Rare Drop</div>
+                            <div className="font-mono text-fuchsia-400 font-bold">+{exp.rewardBreakdown.rareDiscoveryBonus.amount} {localize(exp.rewardBreakdown.rareDiscoveryBonus.name)}</div>
+                          </div>
+                        )}
+                      </div>
+                    )}
+
+                    {exp.lessonText && (
+                      <div className="mb-3 p-2 bg-black/40 border-l-2 border-sky-500/50 rounded-r-lg text-xs italic text-sky-100/70">
+                        {localize(exp.lessonText)}
+                      </div>
+                    )}
+                    
                     <div className="space-y-2">
                       {exp.logs.filter(l => l.resultType !== "safe").map((log, i) => (
                         <div key={i} className={`text-xs pl-2 border-l-2 ${
                               log.resultType === "danger" || log.resultType === "disaster" ? "border-rose-500 text-rose-200/80" :
                               log.resultType === "discovery" || log.resultType === "reward" ? "border-emerald-500 text-emerald-200/80" :
+                              log.resultType === "ambush_survived" ? "border-amber-500 text-amber-200/80" :
                               "border-white/20 text-white/60"
                         }`}>
                           {localize(log.text)}

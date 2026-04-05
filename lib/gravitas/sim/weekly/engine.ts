@@ -1,21 +1,26 @@
 import type { StarholdState } from "../types";
-import type { WeeklyMissionState, WeeklyMission } from "./types";
+import type { WeeklyMissionState, WeeklyMission, WeeklyWaveResult } from "./types";
 import type { FactionId } from "../faction/types";
 import { WEEKLY_MISSION_CONFIG, FACTION_REPUTATION_CONFIG } from "../../economy";
 import { applyReputationChange } from "../faction/reputation";
-import { getLootMultiplier } from "../battle/worldScaling";
 import { resolveBattle } from "../battle/engine";
 import type { BattleArmy, EnemyBuilding, ScoutReport, ResolveBattleInput } from "../battle/types";
 import { pushJournal } from "../shared";
-import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
-import type { GalaxyMaterialId } from "../../world/mission";
-import { takeBestUnits } from "../warroom/veteran";
-import { applyStarholdCommand } from "../commands";
+import { applyWeeklyWaveCasualtiesToState } from "./casualties";
+import { giveWeeklyRewards } from "./rewards";
 
 function generateNextMissionTime(lastMissionAt: number): number {
   const minDays = WEEKLY_MISSION_CONFIG.minDaysBetween;
   const maxDays = WEEKLY_MISSION_CONFIG.maxDaysBetween;
-  const days = minDays + Math.random() * (maxDays - minDays);
+  let t = lastMissionAt >>> 0;
+  const rng = () => {
+    t += 0x6d2b79f5;
+    let x = t;
+    x = Math.imul(x ^ (x >>> 15), x | 1);
+    x ^= x + Math.imul(x ^ (x >>> 7), x | 61);
+    return ((x ^ (x >>> 14)) >>> 0) / 4294967296;
+  };
+  const days = minDays + rng() * (maxDays - minDays);
   return lastMissionAt + days * 24 * 60 * 60 * 1000;
 }
 
@@ -27,7 +32,19 @@ function getWorstFaction(reputation: Record<FactionId, number>): FactionId {
 
 function getRandomFaction(exclude: FactionId, reputation: Record<FactionId, number>): FactionId {
   const factions = Object.keys(reputation).filter(f => f !== exclude) as FactionId[];
-  return factions[Math.floor(Math.random() * factions.length)];
+  let seed = factions.length;
+  Object.entries(reputation).forEach(([id, rep]) => {
+    seed ^= (id.length * 31) ^ Math.round(rep * 100);
+  });
+  let t = seed >>> 0;
+  const rng = () => {
+    t += 0x6d2b79f5;
+    let x = t;
+    x = Math.imul(x ^ (x >>> 15), x | 1);
+    x ^= x + Math.imul(x ^ (x >>> 7), x | 61);
+    return ((x ^ (x >>> 14)) >>> 0) / 4294967296;
+  };
+  return factions[Math.floor(rng() * factions.length)];
 }
 
 export function scheduleInitialWeeklyMission(): WeeklyMissionState {
@@ -39,6 +56,9 @@ export function scheduleInitialWeeklyMission(): WeeklyMissionState {
     nextMissionAt: generateNextMissionTime(now),
   };
 }
+
+import { GALAXY_FACTIONS } from "../battle/factions";
+import { BUILDING_DESCRIPTORS } from "../battle/buildingDescriptors";
 
 export function tickWeeklyMission(state: StarholdState): StarholdState {
   if (state.phase !== "awakened") return state;
@@ -103,8 +123,9 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
       weeklyMission: {
         ...nextState.weeklyMission,
         activeMission: null,
+        lastReport: mission,
         lastMissionAt: now,
-        nextMissionAt: generateNextMissionTime(now),
+        nextMissionAt: generateNextMissionTime(now + nextState.weeklyMission.completedCount),
       },
       journal: pushJournal(nextState, {
         en: `The ${mission.defenderFactionId} facility fell. We arrived too late.`,
@@ -137,16 +158,44 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
     mutated = true;
   } else if (mission.phase === "completed" || mission.phase === "failed") {
     const completedWaves = mission.waveResults.filter(r => r.victory).length;
-    giveWeeklyRewards(nextState, completedWaves, mission.worldLevel, mission.defenderFactionId);
+    const { nextState: rewardedState, breakdown } = giveWeeklyRewards(nextState, completedWaves, mission.worldLevel, mission.defenderFactionId);
+    nextState = rewardedState;
     
+    // Mission failure effect: Faction Reputation Penalty
+    if (mission.phase === "failed") {
+      const nextRep = applyReputationChange(
+        nextState.factionReputation.reputation,
+        mission.defenderFactionId,
+        -10, // significant penalty for failing defense
+        "battle_defeat",
+        nextState
+      );
+      nextState = {
+        ...nextState,
+        factionReputation: {
+          ...nextState.factionReputation,
+          reputation: nextRep,
+        }
+      };
+    }
+
+    const overallLesson = mission.phase === "completed"
+      ? { en: "A flawless defense. The garrison held strong.", hu: "Hibátlan védelem. A helyőrség kitartott.", de: "Eine makellose Verteidigung. Die Garnison hielt stand.", ro: "O apărare impecabilă. Garnizoana a rezistat." }
+      : { en: "Defenses crumbled under pressure. Reinforcements needed.", hu: "A védelem összeomlott a nyomás alatt. Erősítésre van szükség.", de: "Die Verteidigung brach unter dem Druck zusammen. Verstärkung erforderlich.", ro: "Apărarea s-a prăbușit sub presiune. E nevoie de întăriri." };
+
     nextState = {
       ...nextState,
       weeklyMission: {
         ...nextState.weeklyMission,
         activeMission: null,
+        lastReport: {
+          ...mission,
+          rewardBreakdown: breakdown,
+          overallLesson
+        },
         lastMissionAt: now,
         completedCount: mission.phase === "completed" ? nextState.weeklyMission.completedCount + 1 : nextState.weeklyMission.completedCount,
-        nextMissionAt: generateNextMissionTime(now),
+        nextMissionAt: generateNextMissionTime(now + nextState.weeklyMission.completedCount + mission.waveResults.length),
       }
     };
     mutated = true;
@@ -215,23 +264,71 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
     lastScoutedAt: now,
   };
 
+  const attackerFaction = GALAXY_FACTIONS[mission.attackerFactionId];
+  const weeklyDescriptor = BUILDING_DESCRIPTORS["derelict-outpost"]; // fallback to valid descriptor
+
   const result = resolveBattle({
     army,
     enemy: mockEnemyBuilding,
     playerState: state,
     avatarCombat: state.battleState.avatarCombat,
     scoutReport,
-    descriptor: null as unknown as ResolveBattleInput["descriptor"],
-    faction: null as unknown as ResolveBattleInput["faction"],
+    descriptor: weeklyDescriptor,
+    faction: attackerFaction,
     battleHistory: state.battleState.battleHistory,
     seedNow: now,
   });
 
+  const { nextState, computedCasualties } = applyWeeklyWaveCasualtiesToState(state, result);
+
+  // Determine lesson based on stats
+  let lessonText;
+  if (result.victory) {
+    if (result.durationMs <= 2000) {
+      lessonText = {
+        en: `Wave ${waveNum} cleared cleanly. Firepower was overwhelming.`,
+        hu: `${waveNum}. hullám tisztán hárítva. A tűzerő elsöprő volt.`,
+        de: `Welle ${waveNum} sauber abgewehrt. Feuerkraft war überwältigend.`,
+        ro: `Valul ${waveNum} curățat fără probleme. Puterea de foc a fost copleșitoare.`
+      };
+    } else {
+      lessonText = {
+        en: `Wave ${waveNum} took time to wear down enemy defenses.`,
+        hu: `A(z) ${waveNum}. hullám ellenfeleinek védelmét időbe telt felőrölni.`,
+        de: `Welle ${waveNum} brauchte Zeit, um die feindliche Verteidigung aufzureiben.`,
+        ro: `Valul ${waveNum} a durat ceva timp pentru a epuiza apărarea inamică.`
+      };
+    }
+  } else {
+    lessonText = {
+      en: `Wave ${waveNum} overwhelmed your forces. Casualties were high.`,
+      hu: `A(z) ${waveNum}. hullám elsöpörte a csapataidat. Magas veszteségek.`,
+      de: `Welle ${waveNum} überrannte deine Truppen. Die Verluste waren hoch.`,
+      ro: `Valul ${waveNum} a copleșit forțele tale. Pierderile au fost mari.`
+    };
+  }
+
+  const waveResult: WeeklyWaveResult = {
+    wave: waveNum,
+    victory: result.victory,
+    unitsLost: computedCasualties.killed,
+    unitsWounded: computedCasualties.wounded,
+    damageDealt: result.stats.damageDealt,
+    damageReceived: result.stats.damageReceived,
+    enemyGarrisonDestroyed: result.stats.enemyGarrisonDestroyed,
+    traitTriggered: result.stats.traitTriggered,
+    counterUsed: result.stats.counterUsed,
+    tacticId: result.stats.tacticId,
+    lessonText,
+  };
+
   // Apply casualties to deployed units permanently for next waves
   const nextDeployedUnits = { ...mission.deployedUnits };
-  Object.keys(result.stats.unitsLost).forEach(k => {
-    const unitId = k as keyof typeof result.stats.unitsLost;
-    nextDeployedUnits[unitId] = Math.max(0, (nextDeployedUnits[unitId] ?? 0) - (result.stats.unitsLost[unitId] ?? 0));
+  Object.keys(computedCasualties.killed).forEach(k => {
+    nextDeployedUnits[k] = Math.max(0, (nextDeployedUnits[k] ?? 0) - (computedCasualties.killed[k] ?? 0));
+  });
+  Object.keys(computedCasualties.wounded).forEach(k => {
+    nextDeployedUnits[k] = Math.max(0, (nextDeployedUnits[k] ?? 0) - (computedCasualties.wounded[k] ?? 0));
   });
 
   const nextMission = {
@@ -239,7 +336,7 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
     deployedUnits: nextDeployedUnits,
     waveResults: [
       ...mission.waveResults,
-      { wave: waveNum, victory: result.victory, unitsLost: result.stats.unitsLost }
+      waveResult
     ],
   };
 
@@ -252,11 +349,10 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
     nextPhase = waveNum === 1 ? "break1" : "break2";
   }
 
-  // Also apply casualties to actual garrison via APPLY_BATTLE_RESULT
-  let nextState = {
-    ...state,
+  return {
+    ...nextState,
     weeklyMission: {
-      ...state.weeklyMission,
+      ...nextState.weeklyMission,
       activeMission: {
         ...nextMission,
         phase: nextPhase,
@@ -264,60 +360,6 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
       }
     }
   };
-
-  // We construct a fake battle result just to let the standard logic apply casualties to garrison correctly.
-  // Note: we set loot to empty since rewards are given at the end.
-  const fakeResultForCasualties = {
-    ...result,
-    loot: { materials: {}, items: [] },
-  };
-
-  const command: import("../types").StarholdCommand = {
-    type: "APPLY_BATTLE_RESULT",
-    result: fakeResultForCasualties,
-    nodeId: "weekly_target",
-  };
-
-  return applyStarholdCommand(nextState, command);
-}
-
-function giveWeeklyRewards(state: StarholdState, completedWaves: number, worldLevel: number, defenderFactionId: FactionId) {
-  if (completedWaves === 0) return;
-  
-  const mult = completedWaves === 3 ? 1.0 : completedWaves * 0.25;
-  const baseReward = 500 * getLootMultiplier(worldLevel);
-
-  const inventory = loadSavedGalaxyInventory();
-  
-  const rewardMaterials: Partial<Record<GalaxyMaterialId, number>> = {
-    lumen_dust: Math.round(baseReward * mult),
-    verdant_crystals: Math.round((baseReward * 0.8) * mult),
-    aether_ore: Math.round((baseReward * 0.6) * mult),
-  };
-
-  if (completedWaves >= 2) {
-    rewardMaterials.ember_shards = Math.round((baseReward * 0.4) * mult);
-    rewardMaterials.sable_alloy = Math.round((baseReward * 0.3) * mult);
-  }
-
-  if (completedWaves === 3) {
-    rewardMaterials.rift_stone = Math.round((baseReward * 0.15) * mult);
-  }
-
-  Object.entries(rewardMaterials).forEach(([matId, amount]) => {
-    if (amount) {
-      inventory[matId as GalaxyMaterialId] = (inventory[matId as GalaxyMaterialId] ?? 0) + amount;
-    }
-  });
-
-  saveGalaxyInventory(inventory);
-
-  const reputationBonus = completedWaves === 3 ? 15 : completedWaves * 3;
-  // Apply rep via generic function without returning state just to mutate it if we were holding it, but since we are not mutating state directly here but just want to apply it... Wait, we NEED to mutate state.
-
-  // Instead of direct mutation, this function just handles inventory (which is localStorage).
-  // For state mutations like reputation, we should return a partial state update.
-  // But wait, since we are inside tickWeeklyMission, we can just let `giveWeeklyRewards` be handled in the main tick, or we can mutate state here and return it.
 }
 
 export function deployWeeklyUnits(state: StarholdState, units: Record<string, number>): StarholdState {

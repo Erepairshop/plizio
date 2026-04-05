@@ -8,6 +8,8 @@ export interface DilemmaOption {
   id: string; // "A", "B", "C", "D"
   label: LocalizedString;
   description: LocalizedString;
+  /** Ha true, az UI jelzi, hogy hosszútávú következményei lesznek */
+  hasDelayedEffect?: boolean;
 }
 
 export interface DilemmaEvent {
@@ -43,28 +45,49 @@ export interface DilemmaChoice {
   factionId: FactionId | null;
 }
 
+export interface DilemmaMemoryEntry {
+  id: string; // unique
+  dilemmaId: DilemmaId;
+  optionId: string;
+  timestamp: number;
+  factionId: FactionId | null;
+  triggeredDelayedEffects: string[]; // ids of triggered effects
+}
+
+export interface DilemmaModuleEffect {
+  moduleId: string;
+  integrityChange?: number;
+  offlineDurationTicks?: number;
+}
+
 /** Azonnali hatás amit a választás után azonnal alkalmazunk */
 export interface DilemmaImmediateEffect {
   reputationChanges?: Partial<Record<FactionId, number>>;
   resourceChanges?: Partial<Record<string, number>>; // supply, power, morale, activation, stb
   materialChanges?: Partial<Record<GalaxyMaterialId, number>>;
   garrisonChange?: number; // - szám = veszteség
-  moduleOffline?: { moduleId: string; durationTicks: number };
+  moduleOffline?: { moduleId: string; durationTicks: number }; // Deprecated, use moduleEffects
+  moduleEffects?: DilemmaModuleEffect[];
   repairSlotPause?: number; // tick
 }
 
 /** Késleltetett hatás — X nap múlva aktiválódik */
 export interface DilemmaDelayedEffect {
-  id: string;
+  id: string; // Unique ID for this effect
+  sourceDilemmaId: DilemmaId; // Honnan származik
   triggerAt: number; // Date.now() + delay
   chance: number; // 0-1, alkalmazás esélye
   effect: DilemmaImmediateEffect;
   journalText: LocalizedString;
+  /** Következő dilemma amit azonnal bedob */
+  triggerDilemmaId?: DilemmaId;
 }
 
 export interface DilemmaSystemState {
   /** Korábban hozott döntések */
   history: DilemmaChoice[];
+  /** A döntések emlékezete és folyományaik */
+  memoryLog: DilemmaMemoryEntry[];
   /** Aktív késleltetett hatások amik még nem triggerelődtek */
   pendingEffects: DilemmaDelayedEffect[];
   /** Utolsó dilemma megjelenés ideje (rate limit) */

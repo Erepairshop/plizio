@@ -34,6 +34,11 @@ export interface RewardMeta {
   multiplier: number;
   rareChanceFinal: number;
   notes: string[];
+  powerRatioMod: number;
+  supplyFlowMod: number;
+  intelMod: number;
+  tacticalPenalty: boolean;
+  fastWinDouble: boolean;
 }
 
 export const BATTLE_LOOT_TABLES: Record<string, LootTableDef> = {
@@ -121,7 +126,16 @@ export function createBattleLoot(input: BattleRewardInput): { loot?: BattleLoot;
   if (!input.victory && !input.tacticalVictory) {
     return {
       loot: undefined,
-      meta: { multiplier: 0, rareChanceFinal: 0, notes: ["defeat_no_loot"] },
+      meta: {
+        multiplier: 0,
+        rareChanceFinal: 0,
+        notes: ["defeat_no_loot"],
+        powerRatioMod: 0,
+        supplyFlowMod: 0,
+        intelMod: 0,
+        tacticalPenalty: false,
+        fastWinDouble: false,
+      },
     };
   }
 
@@ -129,23 +143,39 @@ export function createBattleLoot(input: BattleRewardInput): { loot?: BattleLoot;
   if (!table) {
     return {
       loot: undefined,
-      meta: { multiplier: 0, rareChanceFinal: 0, notes: ["missing_loot_table"] },
+      meta: {
+        multiplier: 0,
+        rareChanceFinal: 0,
+        notes: ["missing_loot_table"],
+        powerRatioMod: 0,
+        supplyFlowMod: 0,
+        intelMod: 0,
+        tacticalPenalty: false,
+        fastWinDouble: false,
+      },
     };
   }
 
   const notes: string[] = [];
+  const powerRatioMod = getPowerRatioMultiplier(input.playerPowerScore, input.enemyPowerScore);
+  const supplyFlowMod = getSupplyFlowMultiplier(input.supplyFlow);
+  const intelMod = input.scoutIntel > 90 ? 1.1 : input.scoutIntel < 30 ? 0.92 : 1;
   let multiplier = 1;
-  multiplier *= getPowerRatioMultiplier(input.playerPowerScore, input.enemyPowerScore);
-  multiplier *= getSupplyFlowMultiplier(input.supplyFlow);
-  multiplier *= input.scoutIntel > 90 ? 1.1 : input.scoutIntel < 30 ? 0.92 : 1;
+  multiplier *= powerRatioMod;
+  multiplier *= supplyFlowMod;
+  multiplier *= intelMod;
+  let tacticalPenalty = false;
+  let fastWinDouble = false;
 
   if (input.tacticalVictory) {
     multiplier *= 0.5;
+    tacticalPenalty = true;
     notes.push("tactical_half_loot");
   }
 
   if (input.enemy.id === "derelict-outpost" && input.durationMs < 4000) {
     multiplier *= 2;
+    fastWinDouble = true;
     notes.push("derelict_fast_win_double");
   }
 
@@ -170,7 +200,7 @@ export function createBattleLoot(input: BattleRewardInput): { loot?: BattleLoot;
   if (!table.rareDrop) {
     return {
       loot: { materials },
-      meta: { multiplier, rareChanceFinal: 0, notes },
+      meta: { multiplier, rareChanceFinal: 0, notes, powerRatioMod, supplyFlowMod, intelMod, tacticalPenalty, fastWinDouble },
     };
   }
 
@@ -190,7 +220,6 @@ export function createBattleLoot(input: BattleRewardInput): { loot?: BattleLoot;
 
   return {
     loot: { materials, rareDrop },
-    meta: { multiplier, rareChanceFinal: rareChance, notes },
+    meta: { multiplier, rareChanceFinal: rareChance, notes, powerRatioMod, supplyFlowMod, intelMod, tacticalPenalty, fastWinDouble },
   };
 }
-

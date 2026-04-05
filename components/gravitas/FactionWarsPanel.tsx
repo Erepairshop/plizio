@@ -47,6 +47,17 @@ export default function FactionWarsPanel({ state, onIntervene, onClose, lang }: 
         </button>
       </div>
 
+      <div className="border-b border-orange-500/10 bg-white/5 px-4 py-3">
+        <p className="max-w-4xl text-[11px] leading-relaxed text-white/60">
+          {localize({
+            en: "This panel lists active faction conflicts in the sector. Choose a side to open battle preparation and intervene in the war.",
+            hu: "Ez a panel a szektor aktív frakciókonfliktusait mutatja. Válassz oldalt, hogy megnyíljon a csata-előkészítés és beavatkozhass a háborúba.",
+            de: "Dieses Panel zeigt die aktiven Fraktionskonflikte im Sektor. Wähle eine Seite, um die Gefechtsvorbereitung zu öffnen und in den Krieg einzugreifen.",
+            ro: "Acest panou listează conflictele active dintre facțiuni din sector. Alege o parte ca să deschizi pregătirea de luptă și să intervii în război.",
+          })}
+        </p>
+      </div>
+
       <div className="flex-1 overflow-y-auto p-4 md:p-6 space-y-4">
         {activeWars.length === 0 ? (
           <div className="flex flex-col items-center justify-center py-20 text-white/30 border border-white/5 rounded-2xl border-dashed">

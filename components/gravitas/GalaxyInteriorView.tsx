@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { PointerEvent as ReactPointerEvent, WheelEvent as ReactWheelEvent } from "react";
+import type { PointerEvent as ReactPointerEvent } from "react";
 import type { CSSProperties } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Home, RotateCcw, X } from "lucide-react";
@@ -259,6 +259,8 @@ export default function GalaxyInteriorView({
   }, [focusBase]);
 
   const beginPan = useCallback((event: ReactPointerEvent<HTMLDivElement>) => {
+    const target = event.target as HTMLElement | null;
+    if (target?.closest("button, a, input, textarea, select, [role='button']")) return;
     const container = scrollContainerRef.current;
     if (!container) return;
     panDragRef.current = {
@@ -310,7 +312,7 @@ export default function GalaxyInteriorView({
     }, 0);
   }, []);
 
-  const handleWheel = useCallback((event: ReactWheelEvent<HTMLDivElement>) => {
+  const handleWheel = useCallback((event: WheelEvent) => {
     const container = scrollContainerRef.current;
     if (!container) return;
     event.preventDefault();
@@ -321,6 +323,15 @@ export default function GalaxyInteriorView({
       container.scrollTop += delta;
     }
   }, []);
+
+  useEffect(() => {
+    const container = scrollContainerRef.current;
+    if (!container) return undefined;
+    container.addEventListener("wheel", handleWheel, { passive: false });
+    return () => {
+      container.removeEventListener("wheel", handleWheel);
+    };
+  }, [handleWheel]);
 
   const handleNodeSelect = useCallback((nodeId: string) => {
     if (suppressNextNodeClickRef.current) return;
@@ -344,7 +355,6 @@ export default function GalaxyInteriorView({
           WebkitOverflowScrolling: "touch",
           cursor: "grab",
         }}
-        onWheel={handleWheel}
         onPointerDown={beginPan}
         onPointerMove={movePan}
         onPointerUp={endPan}
@@ -369,7 +379,17 @@ export default function GalaxyInteriorView({
             />
           </motion.div>
           {galaxyNodes.map((node) => (
-            <motion.button key={node.id} type="button" onClick={() => handleNodeSelect(node.id)} className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70" style={getGalaxyNodeAnchorStyle(node.position, GALAXY_RENDER_WORLD_SIZE, renderOffset)} animate={node.motion as any} transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}>
+            <motion.button
+              key={node.id}
+              type="button"
+              data-galaxy-node="true"
+              onPointerDown={(e) => e.stopPropagation()}
+              onClick={() => handleNodeSelect(node.id)}
+              className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70"
+              style={getGalaxyNodeAnchorStyle(node.position, GALAXY_RENDER_WORLD_SIZE, renderOffset)}
+              animate={node.motion as any}
+              transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}
+            >
               {!isLiteMode && (
                 <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[132px] w-[132px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10 bg-black/10 blur-[0.5px]" animate={{ scale: [0.95, 1.03, 0.96], opacity: [0.16, 0.24, 0.16] }} transition={{ duration: 4.6 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
               )}

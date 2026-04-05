@@ -201,6 +201,7 @@ export interface StarholdRepairChallengeState {
 }
 
 export interface StarholdState {
+  globalRngState: number;
   tick: number;
   phase: StarholdPhase;
   chapter: StarholdChapterId;
@@ -348,9 +349,10 @@ export type StarholdCommand =
   | { type: "RESOLVE_DILEMMA"; optionId: string }
   | { type: "ACCEPT_TRADE"; offerId: string }
   | { type: "REJECT_TRADE"; offerId: string }
+  | { type: "NEGOTIATE_TRADE"; offerId: string; intensity: "bargain" | "hardball" }
   | { type: "DEPLOY_WEEKLY_UNITS"; units: Record<string, number> }
   | { type: "SKIP_WEEKLY_MISSION" }
-  | { type: "DEPLOY_SPIES"; targetFactionId: import("./faction/types").FactionId; wraithCount: number; missionType: import("./espionage/types").EspionageMissionType }
+  | { type: "DEPLOY_SPIES"; target: import("./espionage/types").EspionageTarget; missionType: import("./espionage/types").EspionageMissionType; operativeRole: import("./espionage/types").EspionageOperativeRole; operativeUnitId: import("./warroom/types").WarRoomUnitId; operativeCount: number }
   | { type: "EXTRACT_SPIES"; missionId: string }
   | { type: "SPEND_INTEL"; action: import("./espionage/types").EspionageIntelAction; extraArg?: any }
   | { type: "START_RESEARCH"; projectId: string }
@@ -363,5 +365,5 @@ export type StarholdCommand =
   | { type: "RECRUIT_OFFICER"; officerId: string }
   | { type: "DISMISS_OFFICER"; officerId: string }
   | { type: "APPLY_FACTION_WAR_RESULT"; result: import("./battle/types").BattleResult; warId: string; side: "attacker" | "defender" }
-  | { type: "LAUNCH_EXPEDITION"; durationMode: import("./expeditions/types").ExpeditionDurationType; fleet: import("./expeditions/types").ExpeditionFleet }
+  | { type: "LAUNCH_EXPEDITION"; durationMode: import("./expeditions/types").ExpeditionDurationType; routeProfile: import("./expeditions/types").ExpeditionRouteProfile; fleet: import("./expeditions/types").ExpeditionFleet }
   | { type: "RECALL_EXPEDITION"; expeditionId: string };

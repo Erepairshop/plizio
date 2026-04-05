@@ -76,9 +76,16 @@ export default function BattleView({ result, enemy, army, onComplete, lang }: Ba
   const [progressMs, setProgressMs] = useState(0);
   const [currentIndex, setCurrentIndex] = useState(-1);
   const doneRef = useRef(false);
+  const currentIndexRef = useRef(-1);
+  const onCompleteRef = useRef(onComplete);
+
+  useEffect(() => {
+    onCompleteRef.current = onComplete;
+  }, [onComplete]);
 
   useEffect(() => {
     doneRef.current = false;
+    currentIndexRef.current = -1;
     setSnapshot(inferStartBars(result));
     setLog([]);
     setProgressMs(0);
@@ -89,45 +96,48 @@ export default function BattleView({ result, enemy, army, onComplete, lang }: Ba
       const elapsed = Date.now() - startAt;
       setProgressMs(Math.min(result.durationMs, elapsed));
 
-      const nextIndex = timeline.findIndex((p) => p.timestamp > elapsed) - 1;
-      const safeIndex = nextIndex < 0 ? (elapsed >= timeline[0]?.timestamp ? 0 : -1) : nextIndex;
-      if (safeIndex > currentIndex) {
-        const newEvents = timeline.slice(currentIndex + 1, safeIndex + 1);
-        setLog((prev) => [...prev, ...newEvents].slice(-6));
-        setCurrentIndex(safeIndex);
-        newEvents.forEach((ev) => {
-          const dmg = ev.damage;
-          if (!dmg) return;
-          setSnapshot((prev) => {
-            if (ev.source === "player") {
-              const shieldHit = Math.min(prev.enemyShield, damageToBarDelta(dmg) * 0.65);
+      if (timeline.length > 0) {
+        const nextIndex = timeline.findIndex((p) => p.timestamp > elapsed) - 1;
+        const safeIndex = nextIndex < 0 ? (elapsed >= timeline[0]!.timestamp ? 0 : -1) : nextIndex;
+        if (safeIndex > currentIndexRef.current) {
+          const newEvents = timeline.slice(currentIndexRef.current + 1, safeIndex + 1);
+          currentIndexRef.current = safeIndex;
+          setCurrentIndex(safeIndex);
+          setLog((prev) => [...prev, ...newEvents].slice(-6));
+          newEvents.forEach((ev) => {
+            const dmg = ev.damage;
+            if (!dmg) return;
+            setSnapshot((prev) => {
+              if (ev.source === "player") {
+                const shieldHit = Math.min(prev.enemyShield, damageToBarDelta(dmg) * 0.65);
+                const overflow = Math.max(0, damageToBarDelta(dmg) - shieldHit);
+                return {
+                  ...prev,
+                  enemyShield: clamp(prev.enemyShield - shieldHit, 0, BAR_MAX),
+                  enemyHp: clamp(prev.enemyHp - overflow, 0, BAR_MAX),
+                };
+              }
+              const shieldHit = Math.min(prev.playerShield, damageToBarDelta(dmg) * 0.65);
               const overflow = Math.max(0, damageToBarDelta(dmg) - shieldHit);
               return {
                 ...prev,
-                enemyShield: clamp(prev.enemyShield - shieldHit, 0, BAR_MAX),
-                enemyHp: clamp(prev.enemyHp - overflow, 0, BAR_MAX),
+                playerShield: clamp(prev.playerShield - shieldHit, 0, BAR_MAX),
+                playerHp: clamp(prev.playerHp - overflow, 0, BAR_MAX),
               };
-            }
-            const shieldHit = Math.min(prev.playerShield, damageToBarDelta(dmg) * 0.65);
-            const overflow = Math.max(0, damageToBarDelta(dmg) - shieldHit);
-            return {
-              ...prev,
-              playerShield: clamp(prev.playerShield - shieldHit, 0, BAR_MAX),
-              playerHp: clamp(prev.playerHp - overflow, 0, BAR_MAX),
-            };
+            });
           });
-        });
+        }
       }
 
       if (elapsed >= result.durationMs && !doneRef.current) {
         doneRef.current = true;
         window.clearInterval(timer);
-        window.setTimeout(onComplete, 900);
+        window.setTimeout(() => onCompleteRef.current(), 900);
       }
     }, 90);
 
     return () => window.clearInterval(timer);
-  }, [result, timeline, currentIndex, onComplete]);
+  }, [result, timeline]);
 
   const isVictory = result.victory;
   const phaseSec = `${(progressMs / 1000).toFixed(1)}s / ${(result.durationMs / 1000).toFixed(1)}s`;
@@ -229,4 +239,3 @@ function Bar({ label, value, tone }: { label: string; value: number; tone: "cyan
     </div>
   );
 }
-

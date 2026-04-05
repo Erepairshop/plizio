@@ -241,6 +241,10 @@ export function loadGravitasState(): StarholdState | null {
       return null;
     }
     // Backward compatibility for new fields
+    if (parsed.globalRngState === undefined) {
+      parsed.globalRngState = Date.now() % 2147483647;
+    }
+
     const migratedScavengeOperation =
       parsed.scavengeOperation ??
       (parsed.activeOperation?.type === "scavenge"
@@ -407,7 +411,7 @@ export function loadGravitasState(): StarholdState | null {
       supplyRoutes: parsed.supplyRoutes ?? createInitialSupplyRouteState(),
       codex: parsed.codex ?? createInitialCodexState(),
       notifications: parsed.notifications ?? createInitialNotificationState(),
-      officers: parsed.officers ?? createInitialOfficerState(),
+      officers: parsed.officers ?? createInitialOfficerState().officerState,
       factionWars: parsed.factionWars ?? createInitialFactionWarState(),
       expeditions: parsed.expeditions ?? createInitialExpeditionState(),
     };

@@ -34,6 +34,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
   if (chapter === "continuation") {
     const modules = createInitialModules();
     return normalizeContinuationState({
+      globalRngState: Date.now() % 2147483647,
       tick: 0,
       phase: "awakened",
       chapter,
@@ -161,7 +162,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       synergies: createInitialSynergies(),
       galaxyCycle: createInitialGalaxyCycle(),
       dilemmaSystem: createInitialDilemmaState(),
-      tradeSystem: { offers: [], lastRefreshAt: Date.now() },
+      tradeSystem: { offers: [], activeTrades: [], marketState: "normal", marketStateUpdatedAt: Date.now(), lastRefreshAt: Date.now() },
       weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
       commander: createInitialCommanderState(),
       espionage: createInitialEspionageState(),
@@ -169,13 +170,14 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       supplyRoutes: createInitialSupplyRouteState(),
       codex: createInitialCodexState(),
       notifications: createInitialNotificationState(),
-      officers: createInitialOfficerState(),
+      officers: createInitialOfficerState().officerState,
       factionWars: createInitialFactionWarState(),
       expeditions: createInitialExpeditionState(),
       lastActiveAt: Date.now(),    });
   }
 
   return {
+    globalRngState: Date.now() % 2147483647,
     tick: 0,
     phase: "boot",
     chapter,
@@ -283,7 +285,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     synergies: createInitialSynergies(),
     galaxyCycle: createInitialGalaxyCycle(),
     dilemmaSystem: createInitialDilemmaState(),
-    tradeSystem: { offers: [], lastRefreshAt: Date.now() },
+    tradeSystem: { offers: [], activeTrades: [], marketState: "normal", marketStateUpdatedAt: Date.now(), lastRefreshAt: Date.now() },
     weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
     commander: createInitialCommanderState(),
     espionage: createInitialEspionageState(),
@@ -291,7 +293,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     supplyRoutes: createInitialSupplyRouteState(),
     codex: createInitialCodexState(),
     notifications: createInitialNotificationState(),
-    officers: createInitialOfficerState(),
+    officers: createInitialOfficerState().officerState,
     factionWars: createInitialFactionWarState(),
     expeditions: createInitialExpeditionState(),
   };

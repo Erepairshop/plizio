@@ -38,28 +38,35 @@ export function getVeteranStatMultiplier(tier?: "hardened" | "veteran" | "elite"
   return 1.0 + VETERAN_CONFIG.tiers[tier].statBonus;
 }
 
-export function generateVeteranName(seed?: number): LocalizedString {
-  const index = Math.floor((seed ?? Math.random()) * VETERAN_NAMES.length) % VETERAN_NAMES.length;
-  return VETERAN_NAMES[index];
+import { nextRandom, randomInt } from "../rng";
+
+export function generateVeteranName(rngState: number): { name: import("../types").LocalizedString; nextRng: number } {
+  const { value: rName, nextState: sName } = randomInt(rngState, 0, VETERAN_NAMES.length - 1);
+  return { name: VETERAN_NAMES[rName], nextRng: sName };
 }
 
-export function incrementVeteranStats(entry: GarrisonEntry): GarrisonEntry {
+export function incrementVeteranStats(entry: GarrisonEntry, rngState: number): { entry: GarrisonEntry; nextRng: number } {
   const battles = (entry.battlesSurvived ?? 0) + 1;
   const tier = getVeteranTier(battles);
   let name = entry.veteranName;
-  
+  let currentRngState = rngState;
+
   if (tier && (tier === "veteran" || tier === "elite" || tier === "legendary") && !name) {
-    name = generateVeteranName();
+    const { name: vName, nextRng: sRng } = generateVeteranName(currentRngState);
+    name = vName;
+    currentRngState = sRng;
   }
 
   return {
-    ...entry,
-    battlesSurvived: battles,
-    veteranTier: tier,
-    veteranName: name,
+    entry: {
+      ...entry,
+      battlesSurvived: battles,
+      veteranTier: tier,
+      veteranName: name,
+    },
+    nextRng: currentRngState
   };
 }
-
 export function mergeGarrisonEntries(
   current: GarrisonEntry[],
   additions: GarrisonEntry[],

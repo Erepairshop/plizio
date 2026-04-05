@@ -1,15 +1,18 @@
 import type { DilemmaId, DilemmaImmediateEffect, DilemmaDelayedEffect } from "./types";
 import type { FactionId } from "../faction/types";
-import type { LocalizedString } from "../types";
+import type { LocalizedString, StarholdState } from "../types";
+import { nextRandom } from "../rng";
 
-export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factionId: FactionId | null): {
+export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factionId: FactionId | null, state: StarholdState): {
   immediate: DilemmaImmediateEffect;
   delayed: DilemmaDelayedEffect[];
   journalText: LocalizedString;
+  nextRng: number;
 } {
   const immediate: DilemmaImmediateEffect = {};
   const delayed: DilemmaDelayedEffect[] = [];
   let journalText: LocalizedString = { en: "", hu: "", de: "", ro: "" };
+  let currentRngState = state.globalRngState;
 
   const day = 24 * 60 * 60 * 1000;
 
@@ -20,9 +23,10 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         if (factionId) immediate.reputationChanges = { [factionId]: 10 };
         delayed.push({
           id: "refugee_workers",
+          sourceDilemmaId: dilemmaId,
           triggerAt: Date.now() + 3 * day,
           chance: 1.0,
-          effect: {}, // Logic handled in engine for permanent boost if needed or just resource
+          effect: {}, 
           journalText: { en: "The refugees have integrated. Drone efficiency improved.", hu: "A menekültek beilleszkedtek. A drónok hatékonyabbak.", de: "Die Flüchtlinge haben sich integriert. Drohneneffizienz verbessert.", ro: "Refugiații s-au integrat. Eficiența dronelor a crescut." }
         });
         journalText = { en: "You welcomed the refugees.", hu: "Befogadtad a menekülteket.", de: "Du hast die Flüchtlinge aufgenommen.", ro: "Ai primit refugiații." };
@@ -30,10 +34,12 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         if (factionId) immediate.reputationChanges = { [factionId]: -5 };
         delayed.push({
           id: "refugee_revenge_trigger",
+          sourceDilemmaId: dilemmaId,
           triggerAt: Date.now() + 7 * day,
           chance: 0.2,
-          effect: {}, // Triggers raid dilemma
-          journalText: { en: "Rumors say the rejected refugees are planning something.", hu: "Hírek szerint az elutasított menekültek terveznek valamit.", de: "Gerüchte besagen, dass die abgelehnten Flüchtlinge etwas planen.", ro: "Zvonurile spun că refugiații refuzați plănuiesc ceva." }
+          effect: {}, 
+          journalText: { en: "Rumors say the rejected refugees are planning something.", hu: "Hírek szerint az elutasított menekültek terveznek valamit.", de: "Gerüchte besagen, dass die abgelehnten Flüchtlinge etwas planen.", ro: "Zvonurile spun că refugiații refuzați plănuiesc ceva." },
+          triggerDilemmaId: "refugee_revenge",
         });
         journalText = { en: "You turned the refugees away.", hu: "Elutasítottad a menekülteket.", de: "Du hast die Flüchtlinge abgewiesen.", ro: "Ai refuzat refugiații." };
       } else {
@@ -49,6 +55,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         if (factionId) immediate.reputationChanges = { [factionId]: 5 };
         delayed.push({
           id: "trader_raid",
+          sourceDilemmaId: dilemmaId,
           triggerAt: Date.now() + 14 * day,
           chance: 0.3,
           effect: {}, // Logic for raid
@@ -70,6 +77,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         if (factionId) {
           delayed.push({
             id: "spy_discovery",
+            sourceDilemmaId: dilemmaId,
             triggerAt: Date.now() + 2 * day,
             chance: 0.4,
             effect: { reputationChanges: { [factionId]: -10 } },
@@ -84,10 +92,12 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         if (factionId) immediate.reputationChanges = { [factionId]: 4 };
         delayed.push({
           id: "double_play_fail",
+          sourceDilemmaId: dilemmaId,
           triggerAt: Date.now() + 3 * day,
           chance: 0.25,
           effect: {}, // Logic for joint raid / massive rep loss
-          journalText: { en: "Your double game has failed.", hu: "A kettős játékod elbukott.", de: "Dein Doppelspiel ist gescheitert.", ro: "Jocul tău dublu a eșuat." }
+          journalText: { en: "Your double game has failed.", hu: "A kettős játékod elbukott.", de: "Dein Doppelspiel ist gescheitert.", ro: "Jocul tău dublu a eșuat." },
+          triggerDilemmaId: "spy_backfire",
         });
         journalText = { en: "You attempted a dangerous double play.", hu: "Veszélyes kettős játékba kezdtél.", de: "Du hast ein gefährliches Doppelspiel versucht.", ro: "Ai încercat un joc dublu periculos." };
       }
@@ -95,17 +105,20 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
 
     case "reactor_overload":
       if (optionId === "A") {
-        immediate.moduleOffline = { moduleId: "reactor", durationTicks: 30 * 60 }; // 30 mins
+        immediate.moduleEffects = [{ moduleId: "reactor", offlineDurationTicks: 30 * 60 }];
         delayed.push({
           id: "reactor_fixed",
+          sourceDilemmaId: dilemmaId,
           triggerAt: Date.now() + 30 * 60 * 1000,
           chance: 1.0,
-          effect: { resourceChanges: { moduleIntegrity_reactor: 30 } }, // mapped in engine
+          effect: { moduleEffects: [{ moduleId: "reactor", integrityChange: 30 }] },
           journalText: { en: "Reactor maintenance complete.", hu: "Reaktor karbantartás kész.", de: "Reaktorwartung abgeschlossen.", ro: "Mentenanță reactor finalizată." }
         });
         journalText = { en: "Reactor shutdown for safety.", hu: "Reaktor leállítva a biztonságért.", de: "Reaktor aus Sicherheitsgründen abgeschaltet.", ro: "Reactor oprit pentru siguranță." };
       } else {
-        const fail = Math.random() < 0.4;
+        const { value: rFail, nextState: sFail } = nextRandom(currentRngState);
+        currentRngState = sFail;
+        const fail = rFail < 0.4;
         if (fail) {
           immediate.resourceChanges = { moduleIntegrity_reactor: -40, power: -30 };
           journalText = { en: "Critical failure! The reactor buckled.", hu: "Kritikus hiba! A reaktor megsérült.", de: "Kritischer Fehler! Der Reaktor ist beschädigt.", ro: "Eșec critic! Reactorul a cedat." };
@@ -125,7 +138,9 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         journalText = { en: "Emergency reserves used.", hu: "Vészhelyzeti tartalékok felhasználva.", de: "Notfallreserven genutzt.", ro: "Rezerve de urgență utilizate." };
       } else {
         immediate.resourceChanges = { morale: -25 };
-        const mutiny = Math.random() < 0.3;
+        const { value: rMutiny, nextState: sMutiny } = nextRandom(currentRngState);
+        currentRngState = sMutiny;
+        const mutiny = rMutiny < 0.3;
         if (mutiny) {
           immediate.moduleOffline = { moduleId: "random", durationTicks: 120 * 60 };
           journalText = { en: "The crew is revolting!", hu: "A legénység fellázadt!", de: "Die Besatzung meutert!", ro: "Echipajul se revoltă!" };
@@ -135,9 +150,39 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
       }
       break;
 
+    case "black_market_hack":
+      if (optionId === "A") {
+        immediate.moduleEffects = [{ moduleId: "logistics", integrityChange: 40 }];
+        delayed.push({
+          id: "black_market_crash_trigger",
+          sourceDilemmaId: dilemmaId,
+          triggerAt: Date.now() + 5 * day,
+          chance: 0.3,
+          effect: {},
+          journalText: { en: "The rogue AI code is corrupting other systems.", hu: "A kóbor AI kód megfertőzte a többi rendszert.", de: "Der abtrünnige KI-Code korrumpiert andere Systeme.", ro: "Codul AI rătăcit corupe alte sisteme." },
+          triggerDilemmaId: "black_market_crash",
+        });
+        journalText = { en: "You installed the rogue AI upgrade.", hu: "Telepítetted a kóbor AI frissítést.", de: "Du hast das abtrünnige KI-Upgrade installiert.", ro: "Ai instalat upgrade-ul AI rătăcit." };
+      } else {
+        immediate.moduleEffects = [{ moduleId: "sensor", offlineDurationTicks: 60 * 60 }];
+        immediate.resourceChanges = { activation: 10 };
+        journalText = { en: "You quarantined the code for study.", hu: "Karanténba zártad a kódot tanulmányozásra.", de: "Du hast den Code zum Studieren in Quarantäne gestellt.", ro: "Ai carantinat codul pentru studiu." };
+      }
+      break;
+
+    case "black_market_crash":
+      if (optionId === "A") {
+        immediate.moduleEffects = [
+          { moduleId: "sensor", offlineDurationTicks: 120 * 60 },
+          { moduleId: "logistics", offlineDurationTicks: 120 * 60 }
+        ];
+        journalText = { en: "System rebooted. The infection is purged.", hu: "Rendszer újraindítva. A fertőzés törölve.", de: "System neu gestartet. Die Infektion wurde bereinigt.", ro: "Sistem repornit. Infecția a fost purjată." };
+      }
+      break;
+
     default:
       journalText = { en: "Decision recorded.", hu: "Döntés rögzítve.", de: "Entscheidung gespeichert.", ro: "Decizie înregistrată." };
   }
 
-  return { immediate, delayed, journalText };
+  return { immediate, delayed, journalText, nextRng: currentRngState };
 }

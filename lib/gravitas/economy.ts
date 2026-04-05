@@ -437,7 +437,15 @@ export const ESPIONAGE_CONFIG = {
   exposureThreshold: 80,
   exposureLossRatio: 0.5,
   extractGracePeriodMs: 60 * 60 * 1000,
-  intelCosts: { revealBuilding: 50, weakenDefense: 80, factionSecret: 120, earlyWarning: 30, sabotageSupply: 100 },
+  intelCosts: { 
+    revealBuilding: 50, 
+    weakenDefense: 80, 
+    factionSecret: 120, 
+    earlyWarning: 30, 
+    sabotageSupply: 100,
+    counterfeitIntel: 70,
+    decoyDeployment: 90
+  },
 } as const;
 
 export const RESEARCH_CONFIG = {

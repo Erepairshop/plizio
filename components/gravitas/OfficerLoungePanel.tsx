@@ -71,6 +71,17 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
         </button>
       </div>
 
+      <div className="border-b border-purple-500/10 bg-white/5 px-4 py-3">
+        <p className="max-w-4xl text-[11px] leading-relaxed text-white/60">
+          {localize({
+            en: "Recruit officers here, assign them to duty, and dismiss them when needed. Their traits add passive bonuses to battles, logistics, and scouting.",
+            hu: "Itt toborozhatsz tiszteket, beoszthatod őket szolgálatra, és szükség esetén elbocsáthatod őket. Tulajdonságaik passzív bónuszokat adnak a csatákhoz, a logisztikához és a felderítéshez.",
+            de: "Hier rekrutierst du Offiziere, weist sie dem Dienst zu und entlässt sie bei Bedarf. Ihre Eigenschaften geben passive Boni für Kämpfe, Logistik und Aufklärung.",
+            ro: "Aici recrutezi ofițeri, îi poți pune în serviciu și îi poți concedia când e nevoie. Trăsăturile lor oferă bonusuri pasive pentru lupte, logistică și cercetare.",
+          })}
+        </p>
+      </div>
+
       <div className="flex-1 overflow-y-auto p-4 md:p-6 space-y-6">
         
         {/* Active Officers */}

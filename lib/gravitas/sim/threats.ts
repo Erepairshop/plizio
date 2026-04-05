@@ -6,6 +6,7 @@ import { getModuleActionProfile } from "./modules";
 import { getModuleIds } from "./registry";
 import { createWaveRecoveryEvent } from "./events";
 import { isDemoChapter } from "./chapter";
+import { nextRandom, randomInt } from "./rng";
 
 const DAILY_WAVE_TICKS = 24 * 60 * 60;
 
@@ -111,6 +112,8 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   let nextAnomalies = [...state.anomalies];
   let impactJournal: LocalizedString;
 
+  let currentRngState = state.globalRngState;
+
   const intensityFactor = 1 + (threat.intensity * 0.3);
   const predictionBonus = threat.predicted ? 0.35 : 0;
   const earlyThreatWindow = !state.avatarAwake && state.threatCycle <= 2;
@@ -130,7 +133,9 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
       nextMarks.voidEcho = clamp(nextMarks.voidEcho + Math.max(0, 2 - markPenalty));
 
       if (!threat.fortified) {
-        if (Math.random() > 0.5) {
+        const { value: roll, nextState: s1 } = nextRandom(currentRngState);
+        currentRngState = s1;
+        if (roll > 0.5) {
           nextAnomalies.push({
             id: "coreTremor",
             name: { en: "Core Tremor", hu: "Mag-remegés", de: "Kernbeben", ro: "Tremur nucleu" },
@@ -155,7 +160,9 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
       if (!threat.dampened) {
         nextStability = clamp(nextStability - (earlyThreatWindow ? 3 : 12));
-        if (Math.random() > 0.3) {
+        const { value: roll, nextState: s1 } = nextRandom(currentRngState);
+        currentRngState = s1;
+        if (roll > 0.3) {
           nextAnomalies.push({
             id: "voidLeak",
             name: { en: "Void Leak", hu: "Void szivárgás", de: "Void-Leck", ro: "Scurgere Void" },
@@ -187,7 +194,9 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
         const markPenalty = mods.markShield ? 1 : 0;
         const ids = (Object.keys(modules) as Array<keyof typeof modules>);
         ids.forEach(id => {
-          const dmg = Math.floor(baseDmg * (1.1 + Math.random() * 0.6) * (1 - reduction));
+          const { value: roll, nextState: s1 } = nextRandom(currentRngState);
+          currentRngState = s1;
+          const dmg = Math.floor(baseDmg * (1.1 + roll * 0.6) * (1 - reduction));
           nextModules[id] = {
             ...nextModules[id],
             integrity: clamp(nextModules[id].integrity - dmg),
@@ -244,11 +253,14 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
 
   const starReward = Math.ceil(threat.intensity / 2) + (state.worldPhase === 1 ? 1 : 0);
   const nextCycle = state.threatCycle + 1;
-  const nextThreat = createNextThreat(state, nextCycle);
+  const { threat: nextThreat, nextRng } = createNextThreat({ ...state, globalRngState: currentRngState }, nextCycle);
+  currentRngState = nextRng;
+
   const waveRecoveryEvent = isDemoChapter(state) && !state.avatarAwake && nextCycle <= 3 ? createWaveRecoveryEvent(nextCycle) : null;
 
   return {
     ...state,
+    globalRngState: currentRngState,
     resources: {
       ...resources,
       power: nextPower,
@@ -279,12 +291,17 @@ function resolveThreatImpact(state: StarholdState): StarholdState {
   };
 }
 
-export function createNextThreat(state: StarholdState, nextCycle: number): StarholdThreatState {
+export function createNextThreat(state: StarholdState, nextCycle: number): { threat: StarholdThreatState; nextRng: number } {
+  let currentRngState = state.globalRngState;
   const uniformDemoWave = isDemoChapter(state) && !state.avatarAwake && nextCycle < 3;
   const pausedUntilAwake = isDemoChapter(state) && !state.avatarAwake && nextCycle >= 3;
+  
+  const { value: rTypeIdx, nextState: sType } = randomInt(currentRngState, 0, 2);
+  currentRngState = sType;
+
   const nextType = uniformDemoWave
     ? "distortionWave"
-    : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[Math.floor(Math.random() * 3)];
+    : (["distortionWave", "voidStorm", "meteorShower"] as StarholdThreatType[])[rTypeIdx];
   const worldPressure = Math.floor(state.worldPulse / 35);
   const nextDuration = uniformDemoWave
     ? 45
@@ -297,16 +314,19 @@ export function createNextThreat(state: StarholdState, nextCycle: number): Starh
 
   if (pausedUntilAwake) {
     return {
-      type: "distortionWave",
-      countdown: 0,
-      totalDuration: 0,
-      intensity: 1,
-      fortified: false,
-      dampened: false,
-      intercepted: false,
-      predicted: false,
-      aftershock: 0,
-      pausedUntilAwake: true,
+      threat: {
+        type: "distortionWave",
+        countdown: 0,
+        totalDuration: 0,
+        intensity: 1,
+        fortified: false,
+        dampened: false,
+        intercepted: false,
+        predicted: false,
+        aftershock: 0,
+        pausedUntilAwake: true,
+      },
+      nextRng: currentRngState
     };
   }
 
@@ -318,16 +338,19 @@ export function createNextThreat(state: StarholdState, nextCycle: number): Starh
         : (uniformDemoWave ? 1 : Math.max(3, 4 - (1 - Math.min(1, nextCycle)) + Math.floor(state.worldPulse / 40)));
 
   return {
-    type: nextType,
-    countdown: nextDuration,
-    totalDuration: nextDuration,
-    intensity: uniformDemoWave ? 1 : Math.min(10, nextCycle === 2 ? 2 : 2 + Math.floor(nextCycle / 3)),
-    fortified: false,
-    dampened: false,
-    intercepted: false,
-    predicted: false,
-    aftershock: aftershockDuration,
-    pausedUntilAwake: false,
+    threat: {
+      type: nextType,
+      countdown: nextDuration,
+      totalDuration: nextDuration,
+      intensity: uniformDemoWave ? 1 : Math.min(10, nextCycle === 2 ? 2 : 2 + Math.floor(nextCycle / 3)),
+      fortified: false,
+      dampened: false,
+      intercepted: false,
+      predicted: false,
+      aftershock: aftershockDuration,
+      pausedUntilAwake: false,
+    },
+    nextRng: currentRngState
   };
 }
 

@@ -63,19 +63,12 @@ export default function DilemmaCard({ dilemma, onResolve, lang }: DilemmaCardPro
                   {localize(option.description)}
                 </div>
                 
-                {/* Immediate effect preview logic could be added here if effects were explicitly linked to options in a structured way for the UI.
-                    For now, we rely on the description to hint at it, or we could look up the effect in the registry. 
-                    Since getDilemmaEffects is available in engine, we could ideally fetch it, but the prompt says:
-                    "Azonnali hatás előnézet (ha van immediateEffect...)" 
-                    But the UI doesn't know the exact effect without importing getDilemmaEffects and evaluating it.
-                    Let's just show the description, as it usually contains the consequences.
-                    We will also add the delayed effect warning.
-                */}
-                
-                <div className="mt-1 flex items-center gap-1.5 text-amber-400/70 italic text-[10px] font-medium">
-                  <Clock size={12} />
-                  <span>{localize({ en: "Unknown consequences...", hu: "Ismeretlen következmények...", de: "Unbekannte Konsequenzen...", ro: "Consecințe necunoscute..." })}</span>
-                </div>
+                {option.hasDelayedEffect && (
+                  <div className="mt-1 flex items-center gap-1.5 text-amber-400/70 italic text-[10px] font-medium">
+                    <Clock size={12} />
+                    <span>{localize({ en: "Long-term consequences expected...", hu: "Hosszútávú következmények várhatók...", de: "Langfristige Konsequenzen erwartet...", ro: "Sunt de așteptat consecințe pe termen lung..." })}</span>
+                  </div>
+                )}
               </button>
             ))}
           </div>

@@ -118,6 +118,17 @@ export default function CodexPanel({ state, doAction, onClose, lang }: CodexPane
         </div>
       </div>
 
+      <div className="border-b border-indigo-500/10 bg-indigo-950/10 px-6 py-3">
+        <p className="max-w-4xl text-[11px] leading-relaxed text-indigo-100/65">
+          {localize({
+            en: "Browse unlocked handbook entries for rules, systems, and station logs. Click a title to read it and mark it as learned.",
+            hu: "Itt találod a feloldott kézikönyv-bejegyzéseket szabályokkal, rendszerekkel és naplókkal. Kattints egy címre, hogy elolvasd és olvasottnak jelöld.",
+            de: "Hier findest du freigeschaltete Handbuch-Einträge zu Regeln, Systemen und Stationsprotokollen. Klicke einen Titel an, um ihn zu lesen und als gelernt zu markieren.",
+            ro: "Aici vezi intrările de manual deblocate pentru reguli, sisteme și jurnale. Apasă pe un titlu ca să-l citești și să-l marchezi ca învățat.",
+          })}
+        </p>
+      </div>
+
       <div className="flex-1 flex flex-col md:flex-row min-h-0">
         {/* Categories Sidebar */}
         <div className="md:w-64 flex flex-row md:flex-col border-b md:border-b-0 md:border-r border-indigo-500/20 bg-black/40 shrink-0 overflow-x-auto md:overflow-y-auto no-scrollbar">
@@ -153,7 +164,7 @@ export default function CodexPanel({ state, doAction, onClose, lang }: CodexPane
         </div>
 
         {/* Entries Content */}
-        <div className="flex-1 overflow-y-auto bg-[url('/noise.png')] bg-repeat opacity-90 p-4 md:p-8">
+        <div className="flex-1 overflow-y-auto bg-[url('/gravitas/galaxy/deep-space-tile.webp')] bg-repeat opacity-90 p-4 md:p-8">
           <div className="max-w-3xl mx-auto">
             <div className="flex items-end justify-between mb-8 pb-4 border-b border-white/10">
               <h3 className="text-2xl font-black text-indigo-300 uppercase tracking-wider">
