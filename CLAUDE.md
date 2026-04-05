@@ -233,3 +233,30 @@ WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone"
 - Mobil: modulok láthatók, elérhetők scroll/pan mellett, nincs levágott fő elem.
 - Warroom belépés: command-deck assetről nyitható, panel renderel.
 - Galaxy: drón mission ciklus megy (`traveling -> mining -> returning -> clear`).
+
+### Új rendszerek (2026)
+- **Értesítési rendszer (Notifications):** Queue-olt események (alert hook), max 20 item, 5 perc után auto-dismiss.
+- **Kódex (Codex):** Játékbeli enciklopédia, lore és mechanikai tudás-morzsák (read/unread state).
+- **Tiszti rendszer (Officers):** Toborozható hősök trait-ekkel (Tactician, Brute, stb.). XP-t kapnak, a csaták után megsebesülhetnek (4h cooldown) vagy meg is halhatnak (permadeath).
+- **Frakció Háborúk (Faction Wars):** 48 óránként generálódó 24 órás konfliktusok NPC frakciók között. A játékos "intervene" módban sereget küldhet, oldalt választva (+20/-20 reputáció). 61+ reputációnál egyedi szövetséges egységek válnak elérhetővé (pl. Velari Shadow, Synthoid Titan).
+- **Expedíciók (Expeditions):** Mélyűri küldetések (4h, 12h, 24h, 72h). Flotta + tiszt + ellátmány kell hozzá. A Sensor szint (1/3/5/8) gate-eli a távokat. RNG alapú narratív események út közben (safe, discovery, reward, danger, disaster).
+- **Csata Visszajátszás (Battle Replay):** Részletes, lépésről-lépésre (turn-by-turn) vizualizáció az automata csaták elemzéséhez.
+- **Javítóműhely (Repair Bay):** Visszatérő sebesült egységek korlátozott ideig javíthatók alapanyagokért, ha a Core szintjétől függő decay idő letelik, a sebesültek meghalnak.
+- **Offline Progress:** Állandó mentés másodpercenként és gombnyomáskor (state.tick függés eltávolítva). Bejelentkezéskor popup riport készül az inaktív időben befejeződött gyártásokról, fejlesztésekről és drón küldetésekről.
+
+### Gravitas Game Core Design Philosophy (CRITICAL RULES)
+1. **Semmi nem lehet egyszerű (Nothing should be simple)** — Ha egy játékos 1 nap alatt kitanulja, az rossz. Minden rendszernek hetekig tartó mélysége kell legyen.
+2. **Minden összefügg (Everything is interconnected)** — Modul szintek hatnak a harcra, avatar válaszai a szinergiákra, a warroom a frakciókra.
+3. **A játékos felelőssége legyen (It's the player's responsibility)** — A rendszer sosem dönt helyette; a játékos dönt és viseli a következményeket (ha nem gyógyít sebesültet -> meghal).
+4. **Először single, de multi-ready architektúra (Singleplayer first, but multi-ready)** — Amit a gép / AI tesz most, azt később egy másik játékos fogja tenni.
+5. **Nem pay-to-win (Not pay-to-win)** — Az idő és a tudás (kódex/taktika) számít, nem a pénz.
+6. **Narratív, nem számos (Narrative, not numerical)** — A játékos ne nyers statisztikákat (HP számokat) lásson az UI-n, hanem történetet és leírást, ami mögött mély és komplex matek lapul.
+
+### Szigorú TypeScript és Architektúra Szabályok
+- **Dinamikus import TILOS (`import()`):** Mindig használj statikus importot (`import { fn } from "./path"`).
+- **TS ellenőrzés futtatása memórialimittel:** `NODE_OPTIONS="--max-old-space-size=4096" npx tsc --noEmit`. (Több ezer soros fájlok oom-ot okozhatnak natív TS runnál).
+- **Kód duplikáció kerülése:** Ne másolj be nagy blokkokat `page.tsx` és `tick.ts` fájlokban.
+- **Valós idő (Real-time timers):** `Date.now()` használata timer-ekre (completesAt, startedAt) a tick-ek (state.tick) helyett a perzisztencia érdekében.
+- **LocalizedString objektum:** Mindig tartalmaznia kell mind a 4 nyelvet (`{ en, hu, de, ro }`).
+- **Ikonok:** Kizárólag `lucide-react`.
+- **Állapot struktúra (State):** Ha módosítod a `StarholdState`-et, KÖTELEZŐ frissíteni a `demo` és `continuation` állapotokat a `createInitialState.ts`-ben, ÉS le kell kezelni a backward-kompatibilis fallback-et a `persistence.ts`-ben.
