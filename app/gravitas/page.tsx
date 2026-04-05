@@ -54,7 +54,7 @@ import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
 import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Medal, Swords } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Medal, Swords, Compass } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById, getFactionFleetAsEnemy } from "@/lib/gravitas/sim/battle/enemies";
@@ -141,7 +141,7 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
-  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "officers" | "factionwars" | null>(null);
+  const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "officers" | "factionwars" | "expeditions" | null>(null);
   const [battleNode, setBattleNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [armySetupNode, setArmySetupNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);
   const [scoutNode, setScoutNode] = useState<import("@/lib/gravitas/world/types").GalaxyNode | null>(null);

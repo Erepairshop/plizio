@@ -31,6 +31,7 @@ import { establishRoute, abandonRoute } from "./supplyroute/index";
 import { markCodexRead } from "./codex/index";
 import { dismissNotification, markAllNotificationsRead, pushNotification } from "./notifications/engine";
 import { recruitOfficer, dismissOfficer } from "./officers/engine";
+import { launchExpedition, recallExpedition } from "./expeditions/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -147,6 +148,8 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
   if (command.type === "MARK_NOTIFICATIONS_READ") return markAllNotificationsRead(state);
   if (command.type === "RECRUIT_OFFICER") return recruitOfficer(state, command.officerId);
   if (command.type === "DISMISS_OFFICER") return dismissOfficer(state, command.officerId);
+  if (command.type === "LAUNCH_EXPEDITION") return launchExpedition(state, command.durationMode, command.fleet);
+  if (command.type === "RECALL_EXPEDITION") return recallExpedition(state, command.expeditionId);
 
   const nextState = applyStarholdCommandInternal(state, command);
   if (nextState.alert && nextState.alert !== state.alert) {

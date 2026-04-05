@@ -18,6 +18,7 @@ import { createInitialCodexState } from "./codex/index";
 import { createInitialNotificationState } from "./notifications/index";
 import { createInitialOfficerState } from "./officers/index";
 import { createInitialFactionWarState } from "./factionwars/index";
+import { createInitialExpeditionState } from "./expeditions/index";
 
 import { defaultAllocation } from "./battle/avatarCombat";
 
@@ -170,6 +171,7 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       notifications: createInitialNotificationState(),
       officers: createInitialOfficerState(),
       factionWars: createInitialFactionWarState(),
+      expeditions: createInitialExpeditionState(),
       lastActiveAt: Date.now(),    });
   }
 
@@ -291,5 +293,6 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     notifications: createInitialNotificationState(),
     officers: createInitialOfficerState(),
     factionWars: createInitialFactionWarState(),
+    expeditions: createInitialExpeditionState(),
   };
 }

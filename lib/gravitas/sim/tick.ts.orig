@@ -31,7 +31,6 @@ import { tickCodex } from "./codex/engine";
 import { tickNotifications, pushNotification } from "./notifications/engine";
 import { tickOfficers } from "./officers/engine";
 import { tickFactionWars } from "./factionwars/engine";
-import { tickExpeditions } from "./expeditions/engine";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -1145,45 +1144,45 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
       tickExpeditions(
         tickFactionWars(
           tickOfficers(
-            tickCommanderProfile(
-              tickDilemmaSpawn(
-                tickDilemmaEffects(
-                  tickGalaxyCycle(
-                    tickFactionReputation(
-                      tickWorldLevel(
-                        tickBattle(
-                          tickTradeSystem(
-                            tickSupplyRoutes(
-                              tickWeeklyMission(
-                                tickEspionage(
-                                  tickResearch(
-                                    tickCodex(
-                                      tickUpgrades(
-                                        tickRepairBay(
-                                          applyStarholdEvents(
-                                            tickWarroomProduction({
-                                              ...threatResult.nextState,
-                                              waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                            })
-                                          )
-                                        )
-                                      )
-                                    )
-                                  )
-                                )
-                              )
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
+          tickCommanderProfile(
+            tickDilemmaSpawn(
+              tickDilemmaEffects(
+                tickGalaxyCycle(
+                  tickFactionReputation(
+                    tickWorldLevel(
+                    tickBattle(
+                      tickTradeSystem(
+                        tickSupplyRoutes(
+                          tickWeeklyMission(
+                            tickEspionage(
+                              tickResearch(
+                                tickCodex(
+                                  tickUpgrades(
+                                    tickRepairBay(
+                                      applyStarholdEvents(
+                                        tickWarroomProduction({
+                                          ...threatResult.nextState,
+                                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                        }),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
   );
+}
 }

@@ -16,6 +16,7 @@ import { createInitialCodexState } from "./codex/index";
 import { createInitialNotificationState } from "./notifications/index";
 import { createInitialOfficerState } from "./officers/index";
 import { createInitialFactionWarState } from "./factionwars/index";
+import { createInitialExpeditionState } from "./expeditions/index";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
@@ -409,6 +410,7 @@ export function loadGravitasState(): StarholdState | null {
       notifications: parsed.notifications ?? createInitialNotificationState(),
       officers: parsed.officers ?? createInitialOfficerState(),
       factionWars: parsed.factionWars ?? createInitialFactionWarState(),
+      expeditions: parsed.expeditions ?? createInitialExpeditionState(),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

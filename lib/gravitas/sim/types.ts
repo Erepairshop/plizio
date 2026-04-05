@@ -297,6 +297,8 @@ export interface StarholdState {
   officers: import("./officers/types").OfficerState;
   /** Faction Wars system */
   factionWars: import("./factionwars/types").FactionWarState;
+  /** Deep Space Expeditions */
+  expeditions: import("./expeditions/types").ExpeditionState;
 }
 
 export interface ModuleUpgradeSlot {
@@ -360,4 +362,6 @@ export type StarholdCommand =
   | { type: "MARK_NOTIFICATIONS_READ" }
   | { type: "RECRUIT_OFFICER"; officerId: string }
   | { type: "DISMISS_OFFICER"; officerId: string }
-  | { type: "APPLY_FACTION_WAR_RESULT"; result: import("./battle/types").BattleResult; warId: string; side: "attacker" | "defender" };
+  | { type: "APPLY_FACTION_WAR_RESULT"; result: import("./battle/types").BattleResult; warId: string; side: "attacker" | "defender" }
+  | { type: "LAUNCH_EXPEDITION"; durationMode: import("./expeditions/types").ExpeditionDurationType; fleet: import("./expeditions/types").ExpeditionFleet }
+  | { type: "RECALL_EXPEDITION"; expeditionId: string };

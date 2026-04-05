@@ -1,0 +1,10 @@
+--- lib/gravitas/sim/tick.ts
++++ lib/gravitas/sim/tick.ts
+@@ -1183,6 +1183,5 @@
+         ),
+       ),
+     ),
+   );
+ }
+-
+-}
