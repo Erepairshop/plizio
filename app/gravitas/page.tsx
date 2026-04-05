@@ -52,7 +52,7 @@ import WeeklyMissionPanel from "@/components/gravitas/WeeklyMissionPanel";
 import BattleReplayPanel from "@/components/gravitas/BattleReplayPanel";
 import FactionWarsPanel from "@/components/gravitas/FactionWarsPanel";
 import CodexPanel from "@/components/gravitas/CodexPanel";
-import OfflineProgressPopup from "@/components/gravitas/OfflineProgressPopup";
+import OfflineBriefingModal from "@/components/gravitas/OfflineBriefingModal";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
 import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass } from "lucide-react";
 
@@ -2226,10 +2226,10 @@ export default function GravitasPage() {
 
           <AnimatePresence>
             {offlineReport && (
-              <OfflineProgressPopup 
-                report={offlineReport} 
-                onDismiss={() => setOfflineReport(null)} 
-                lang={lang} 
+              <OfflineBriefingModal
+                report={offlineReport}
+                onDismiss={() => setOfflineReport(null)}
+                lang={lang}
               />
             )}
           </AnimatePresence>
