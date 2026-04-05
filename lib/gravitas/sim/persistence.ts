@@ -213,7 +213,6 @@ function sanitizeContinuationState(state: StarholdState): StarholdState {
 }
 
 export function saveGravitasState(state: StarholdState): void {
-  if (state.tick % 5 !== 0) return;
   try {
     const toSave: StarholdState = {
       ...state,

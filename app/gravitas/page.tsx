@@ -482,15 +482,9 @@ export default function GravitasPage() {
   const showGameOver = !isContinuationLike && state.stationLost;
 
   useEffect(() => {
-    if (state.tick % 5 === 0) {
-      saveGravitasState(state);
-    }
-  }, [state.tick]);
-
-  useEffect(() => {
     if (!hydrated) return;
     saveGravitasState(state);
-  }, [state.chapter, hydrated]);
+  }, [state, hydrated]);
 
   useEffect(() => {
     if (activePanel || resourceHelpOpen || state.pendingEvent || showGameOver) {
