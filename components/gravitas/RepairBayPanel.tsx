@@ -104,8 +104,9 @@ export default function RepairBayPanel({ state, doAction, onClose, lang }: Repai
   const decayWarningActive = hasWounded && state.repairBay.woundedAt && timeUntilDecay < 4 * 60 * 60 * 1000; // Warning 4h before
 
   // Selected unit max
+  const maxBatch = getRepairBatchSize(state.repairBay.level);
   const selectedWoundedEntry = selectedUnit ? (state.repairBay.wounded[selectedUnit] ?? []).find(e => e.level === selectedLevel) : null;
-  const maxRepairable = selectedWoundedEntry ? selectedWoundedEntry.count : 0;
+  const maxRepairable = Math.min(maxBatch, selectedWoundedEntry ? selectedWoundedEntry.count : 0);
 
   useEffect(() => {
     if (repairCount > maxRepairable) {
@@ -275,8 +276,8 @@ export default function RepairBayPanel({ state, doAction, onClose, lang }: Repai
                       </div>
                     </div>
                     <div className="text-right">
-                      <div className="text-[10px] uppercase font-black text-white/40">Available</div>
-                      <div className="text-sm font-black text-rose-400">{maxRepairable}</div>
+                      <div className="text-[10px] uppercase font-black text-white/40">Wounded: <span className="text-rose-400">{selectedWoundedEntry?.count ?? 0}</span></div>
+                      <div className="text-[10px] uppercase font-black text-white/40">Max/Slot: <span className="text-emerald-400">{maxBatch}</span></div>
                     </div>
                   </div>
 
