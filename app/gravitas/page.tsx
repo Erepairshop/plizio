@@ -54,7 +54,7 @@ import FactionWarsPanel from "@/components/gravitas/FactionWarsPanel";
 import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineBriefingModal from "@/components/gravitas/OfflineBriefingModal";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass, Fuel } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById, getFactionFleetAsEnemy } from "@/lib/gravitas/sim/battle/enemies";
@@ -1595,6 +1595,7 @@ export default function GravitasPage() {
           <HUDChip icon={<Star size={12} />} value={state.resources.morale} color="text-yellow-400" onClick={() => setResourceHelpOpen("morale")} />
           <HUDChip icon={<Radar size={12} />} value={state.resources.signalRange} color="text-cyan-400" onClick={() => setResourceHelpOpen("signalRange")} />
           <HUDChip icon={<ArrowUpCircle size={12} />} value={state.resources.supplyFlow} color="text-indigo-400" onClick={() => setResourceHelpOpen("supplyFlow")} />
+          <HUDChip icon={<Fuel size={12} />} value={Math.floor(state.resources.antimatter ?? 0)} color="text-purple-400" onClick={() => setResourceHelpOpen("antimatter")} />
           {state.chapter === "demo" && (
             <HUDChip icon={<Brain size={12} />} value={Math.floor(state.resources.activation)} color="text-pink-400" onClick={() => setResourceHelpOpen("activation")} />
           )}
@@ -1612,10 +1613,34 @@ export default function GravitasPage() {
             </div>
           </div>
         </div>
-        {/* Row 2: Materials — single row */}
+        {/* Row 3: Materials — single row */}
         <div className="flex items-center gap-1 sm:gap-1.5">
           <GravitasMaterialStrip lang={lang} />
         </div>
+        {/* Row 4: Active fleet status (only when fleets in motion) */}
+        {state.galaxy?.activeFleets?.length > 0 && (
+          <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto">
+            <span className="text-[8px] font-black tracking-[0.15em] uppercase text-white/25 shrink-0 sm:text-[9px]">Fleets</span>
+            {state.galaxy.activeFleets.slice(0, 4).map((f) => {
+              const statusColor = f.status === "traveling_to" ? "text-amber-300" : f.status === "mining" ? "text-emerald-300" : "text-cyan-300";
+              const dotColor = f.status === "traveling_to" ? "bg-amber-400" : f.status === "mining" ? "bg-emerald-400" : "bg-cyan-400";
+              const label = f.status === "traveling_to" ? "En Route" : f.status === "mining" ? "Mining" : "Return";
+              return (
+                <button
+                  key={f.id}
+                  onClick={() => setInteriorView("galaxy")}
+                  className="flex items-center gap-1 px-1.5 py-0.5 rounded-lg bg-white/5 border border-white/5 hover:bg-white/10 transition-colors shrink-0"
+                >
+                  <span className={`w-1.5 h-1.5 rounded-full ${dotColor} shrink-0`} />
+                  <span className={`text-[9px] font-bold ${statusColor} sm:text-[10px]`}>{label}</span>
+                </button>
+              );
+            })}
+            {state.galaxy.activeFleets.length > 4 && (
+              <span className="text-[8px] text-white/20 font-mono shrink-0">+{state.galaxy.activeFleets.length - 4}</span>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Game View */}

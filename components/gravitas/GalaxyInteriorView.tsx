@@ -5,6 +5,7 @@ import type { PointerEvent as ReactPointerEvent } from "react";
 import type { CSSProperties } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Home, RotateCcw, X } from "lucide-react";
+import GalaxyMapView from "@/components/gravitas/map/GalaxyMapView";
 import {
   GALAXY_DECOR_LAYERS,
   GALAXY_DEMO_NODES,
@@ -338,6 +339,87 @@ export default function GalaxyInteriorView({
     setSelectedNodeId(nodeId);
   }, []);
 
+  const hasBackendGalaxy = state.galaxy?.transientNodes?.length > 0 || state.galaxy?.activeFleets?.length > 0;
+
+  if (hasBackendGalaxy) {
+    return (
+      <div className="relative h-full w-full overflow-hidden">
+        {/* Close button */}
+        <button type="button" onClick={onClose} className="absolute right-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/30 text-white/75 transition hover:bg-white/15 hover:text-white">
+          <X size={16} />
+        </button>
+        {/* New backend-driven galaxy map */}
+        <GalaxyMapView
+          galaxyState={state.galaxy}
+          currentTick={state.tick}
+          antimatter={{
+            current: state.resources?.antimatter ?? 0,
+            max: state.derived?.maxAntimatter ?? 100,
+          }}
+          onNodeClick={(nodeId) => {
+            const demoNode = galaxyNodes.find((n) => n.id === nodeId);
+            if (demoNode) {
+              handleNodeSelect(nodeId);
+            }
+          }}
+          onBaseClick={() => handleNodeSelect(playerBaseNode.id)}
+        />
+        {/* Legacy drone mission overlay (still functional) */}
+        {activeMissionTarget && activeMissionMarkerPosition && isFocusedMissionVisible && (
+          <motion.div
+            initial={{ opacity: 0, y: 6 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="absolute top-14 left-3 z-[22] w-[180px] rounded-[14px] border border-cyan-300/18 bg-[#081120]/92 px-3 py-2 text-white shadow-[0_16px_34px_rgba(0,0,0,0.26)] backdrop-blur-md"
+          >
+            <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-200/72">
+              {activeMissionStatus?.status === "traveling" ? "Drone route" : activeMissionStatus?.status === "mining" ? "Drone mining" : "Drone returning"}
+            </div>
+            <div className="mt-1 text-[13px] font-black text-white">
+              {activeMissionStatus?.status === "traveling"
+                ? `Arrives in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}`
+                : `Finishes in ${formatDurationMinutes(activeMissionStatus?.remainingMinutes ?? 0)}`}
+            </div>
+            {activeMissionStatus?.status === "mining" && (
+              <div className="mt-1 text-[10px] font-black text-emerald-100/90">
+                {`Gathered ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`}
+              </div>
+            )}
+          </motion.div>
+        )}
+        {/* Legacy node card overlay for selected nodes */}
+        <AnimatePresence>
+          {selectedNode && (
+            <div className="absolute inset-x-0 bottom-0 z-[22] flex justify-center pb-4">
+              <GalaxyNodeCard
+                lang={lang}
+                node={selectedNode}
+                travelInfo={selectedNodeTravelInfo}
+                activeMission={selectedNodeMission}
+                intelLevel={selectedNodeIntel}
+                cooldownUntil={selectedNodeCooldown}
+                onDispatchDrone={
+                  selectedNode.type === "resource" && !activeMission
+                    ? () => dispatchDrone(selectedNode)
+                    : selectedNode.type === "battle"
+                    ? () => onLaunchStrike?.(selectedNode)
+                    : null
+                }
+                onOpenScout={
+                  selectedNode.type === "battle"
+                    ? () => onOpenScout?.(selectedNode)
+                    : null
+                }
+                onRecallDrone={selectedNode.type === "resource" && activeMission ? recallDrone : null}
+                onClose={() => setSelectedNodeId(null)}
+              />
+            </div>
+          )}
+        </AnimatePresence>
+      </div>
+    );
+  }
+
+  // ── Legacy demo galaxy view (fallback when no backend galaxy data) ──
   return (
     <div className="relative h-full w-full overflow-hidden">
       <button type="button" onClick={onClose} className="absolute right-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-black/30 text-white/75 transition hover:bg-white/15 hover:text-white">
