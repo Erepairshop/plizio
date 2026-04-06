@@ -28,6 +28,17 @@ const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
 const MAX_JOURNAL_ENTRIES = 20;
 
+/** Migrate old ±100 galaxy coords to new ±3 range by clearing stale nodes */
+function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): import("./map/types").GalaxyMapState {
+  if (!galaxy.transientNodes || galaxy.transientNodes.length === 0) return galaxy;
+  // If any node has coords outside ±5, it's from the old ±100 system — clear all
+  const hasOldCoords = galaxy.transientNodes.some(n => Math.abs(n.x) > 5 || Math.abs(n.y) > 5);
+  if (hasOldCoords) {
+    return { ...galaxy, transientNodes: [], activeFleets: [] };
+  }
+  return galaxy;
+}
+
 function getSaveKey(): string {
   if (typeof window === "undefined") return SAVE_KEY_PREFIX;
   const userKey = localStorage.getItem("plizio_username_id") || localStorage.getItem("plizio_username") || "anonymous";
@@ -416,7 +427,7 @@ export function loadGravitasState(): StarholdState | null {
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
       synergies: parsed.synergies ?? createInitialSynergies(),
       galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
-      galaxy: parsed.galaxy ?? createInitialGalaxyMap(),
+      galaxy: migrateGalaxyCoords(parsed.galaxy ?? createInitialGalaxyMap()),
       dilemmaSystem: parsed.dilemmaSystem ?? createInitialDilemmaState(),
       tradeSystem: {
         marketState: parsed.tradeSystem?.marketState ?? "normal",
