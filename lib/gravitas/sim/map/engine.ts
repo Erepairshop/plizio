@@ -93,10 +93,12 @@ export function tickFleets(state: StarholdState): StarholdState {
 }
 
 export function spawnTransientNodes(state: StarholdState): StarholdState {
-  // Let's only run the spawn logic sparingly, e.g., if there are fewer than X nodes
-  // Or run it completely deterministically every time it's called
-  const maxNodes = 10;
-  
+  // Galaxy spatial design:
+  //   - Coords ±3.0 units → diagonal ~8.5 units → ~85 min full traversal (1 unit = 10 min)
+  //   - 40 nodes → avg spacing ~0.3 units → ~3 min to nearest object
+  //   - Player bases (multiplayer) will be added separately
+  const maxNodes = 40;
+
   if (state.galaxy.transientNodes.length >= maxNodes) {
     return state;
   }
@@ -105,12 +107,14 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
   let nextTransientNodes = [...state.galaxy.transientNodes];
   let currentRngState = state.globalRngState;
 
-  // Let's spawn 1 node per call
-  const { value: rX, nextState: s1 } = randomInt(currentRngState, -100, 100);
+  // Float coords in ±3.0 range for proper travel-time spacing
+  const { value: rXnorm, nextState: s1 } = nextRandom(currentRngState);
   currentRngState = s1;
+  const rX = Math.round((rXnorm - 0.5) * 600) / 100; // ±3.00
 
-  const { value: rY, nextState: s2 } = randomInt(currentRngState, -100, 100);
+  const { value: rYnorm, nextState: s2 } = nextRandom(currentRngState);
   currentRngState = s2;
+  const rY = Math.round((rYnorm - 0.5) * 600) / 100; // ±3.00
 
   const { value: rType, nextState: s3 } = nextRandom(currentRngState);
   currentRngState = s3;

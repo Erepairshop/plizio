@@ -53,8 +53,8 @@ type NodeVisual = {
 
 const WORLD_SIZE = 12000;
 const WORLD_CENTER = WORLD_SIZE / 2;
-/** Backend coords are ±100; scale up for visual spread across the world canvas */
-const COORD_SCALE = 40;
+/** Backend coords are ±3.0; scale to fill ~80% of the 12000px world canvas */
+const COORD_SCALE = 1600;
 const MIN_ZOOM = 0.18;
 const MAX_ZOOM = 1.8;
 
