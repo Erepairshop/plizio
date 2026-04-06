@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { CSSProperties, PointerEvent as ReactPointerEvent, WheelEvent as ReactWheelEvent } from "react";
+import type { CSSProperties, PointerEvent as ReactPointerEvent } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import {
   AlertTriangle,
@@ -482,13 +482,20 @@ export default function GalaxyMapView({
     }
   }, []);
 
-  const handleWheel = useCallback((event: ReactWheelEvent<HTMLDivElement>) => {
-    event.preventDefault();
-    const delta = event.deltaY;
-    const nextZoom = clamp(zoom + (delta > 0 ? -0.06 : 0.06), MIN_ZOOM, MAX_ZOOM);
-    const rect = event.currentTarget.getBoundingClientRect();
-    const focus = { x: event.clientX - rect.left, y: event.clientY - rect.top };
-    applyZoom(nextZoom, focus);
+  // Native wheel handler (non-passive) so we can preventDefault
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+    const handler = (event: WheelEvent) => {
+      event.preventDefault();
+      const delta = event.deltaY;
+      const nextZoom = clamp(zoom + (delta > 0 ? -0.06 : 0.06), MIN_ZOOM, MAX_ZOOM);
+      const rect = el.getBoundingClientRect();
+      const focus = { x: event.clientX - rect.left, y: event.clientY - rect.top };
+      applyZoom(nextZoom, focus);
+    };
+    el.addEventListener("wheel", handler, { passive: false });
+    return () => el.removeEventListener("wheel", handler);
   }, [applyZoom, zoom]);
 
   const containerStyle = useMemo<CSSProperties>(
@@ -511,7 +518,6 @@ export default function GalaxyMapView({
         onPointerMove={moveDrag}
         onPointerUp={endDrag}
         onPointerCancel={endDrag}
-        onWheel={handleWheel}
         style={{ touchAction: "none" }}
       >
         <div ref={worldRef} className="absolute left-0 top-0" style={containerStyle}>
