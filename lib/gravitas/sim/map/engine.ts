@@ -1,7 +1,8 @@
-import type { StarholdState } from "../types";
+import type { StarholdState, LocalizedString } from "../types";
 import { nextRandom, randomInt } from "../rng";
-import type { MapNode, MapNodeType, GalaxyMapState } from "./types";
+import type { MapNode, MapNodeType, GalaxyMapState, NodePriority, NodeRisk, NodeYieldEntry, FleetMissionType } from "./types";
 import { pushJournal } from "../shared";
+import { MISSION_DURATION_TICKS } from "./constants";
 
 export function createInitialGalaxyMap(): GalaxyMapState {
   return {
@@ -11,6 +12,8 @@ export function createInitialGalaxyMap(): GalaxyMapState {
   };
 }
 
+// ─── Fleet tick ─────────────────────────────────────────────────────────────
+
 export function tickFleets(state: StarholdState): StarholdState {
   if (!state.galaxy.activeFleets || state.galaxy.activeFleets.length === 0) return state;
 
@@ -18,52 +21,53 @@ export function tickFleets(state: StarholdState): StarholdState {
   let nextArchiveFleets = state.archive ? [...state.archive.completedFleets] : [];
   let mutated = false;
   let nextState = state;
-  let journals: import("../types").LocalizedString[] = [];
+  const journals: LocalizedString[] = [];
 
-  nextFleets = nextFleets.filter(fleet => {
+  nextFleets = nextFleets.filter((fleet) => {
+    // Traveling → arrived at node
     if (fleet.status === "traveling_to" && state.tick >= fleet.arrivalTime) {
+      const missionDuration = MISSION_DURATION_TICKS[fleet.missionType ?? "collect"];
       fleet.status = "mining";
       fleet.departureTime = state.tick;
-      fleet.miningCompletesAt = state.tick + 3600; // e.g. 1 hour mining time (in ticks)
-      fleet.arrivalTime = fleet.miningCompletesAt; // use arrivalTime for UI simplification if needed
+      fleet.miningCompletesAt = state.tick + missionDuration;
+      fleet.arrivalTime = fleet.miningCompletesAt;
       mutated = true;
       journals.push({
-        en: `Fleet arrived at target node ${fleet.targetNodeId} and began operations.`,
-        hu: `A flotta megérkezett a(z) ${fleet.targetNodeId} célponthoz és megkezdte a műveleteket.`,
-        de: `Flotte am Zielknoten ${fleet.targetNodeId} angekommen und hat mit den Operationen begonnen.`,
-        ro: `Flota a ajuns la nodul țintă ${fleet.targetNodeId} și a început operațiunile.`
+        en: `Fleet arrived at target node ${fleet.targetNodeId} and began ${fleet.missionType ?? "operations"}.`,
+        hu: `A flotta megérkezett a(z) ${fleet.targetNodeId} célponthoz és megkezdte: ${fleet.missionType ?? "műveletek"}.`,
+        de: `Flotte am Zielknoten ${fleet.targetNodeId} angekommen. Mission: ${fleet.missionType ?? "Operationen"}.`,
+        ro: `Flota a ajuns la nodul ${fleet.targetNodeId} și a început: ${fleet.missionType ?? "operațiuni"}.`,
       });
       return true;
-    } 
-    
+    }
+
+    // Mining complete → returning
     if (fleet.status === "mining" && fleet.miningCompletesAt && state.tick >= fleet.miningCompletesAt) {
       fleet.status = "returning";
-      const travelTime = fleet.departureTime ? state.tick - fleet.departureTime : 3600; 
+      const travelTime = fleet.departureTime ? state.tick - fleet.departureTime : 3600;
       fleet.departureTime = state.tick;
       fleet.arrivalTime = state.tick + travelTime;
       fleet.miningCompletesAt = undefined;
       mutated = true;
       journals.push({
-        en: `Fleet completed operations at node ${fleet.targetNodeId} and is returning to base.`,
-        hu: `A flotta befejezte a műveleteket a(z) ${fleet.targetNodeId} célpontnál és visszatér a bázisra.`,
-        de: `Flotte hat Operationen am Zielknoten ${fleet.targetNodeId} abgeschlossen und kehrt zur Basis zurück.`,
-        ro: `Flota a finalizat operațiunile la nodul țintă ${fleet.targetNodeId} și se întoarce la bază.`
+        en: `Fleet completed ${fleet.missionType ?? "operations"} at node ${fleet.targetNodeId} and is returning.`,
+        hu: `A flotta befejezte: ${fleet.missionType ?? "műveleteket"} — ${fleet.targetNodeId}. Visszatér.`,
+        de: `Flotte hat ${fleet.missionType ?? "Operationen"} abgeschlossen: ${fleet.targetNodeId}. Rückkehr.`,
+        ro: `Flota a finalizat ${fleet.missionType ?? "operațiuni"} la ${fleet.targetNodeId}. Se întoarce.`,
       });
       return true;
     }
 
+    // Returned to base
     if (fleet.status === "returning" && state.tick >= fleet.arrivalTime) {
-      // Arrived at base
       mutated = true;
       journals.push({
         en: `Fleet returned to base from node ${fleet.targetNodeId}.`,
-        hu: `A flotta visszatért a bázisra a(z) ${fleet.targetNodeId} célpontról.`,
-        de: `Flotte ist von Knoten ${fleet.targetNodeId} zur Basis zurückgekehrt.`,
-        ro: `Flota s-a întors la bază de la nodul țintă ${fleet.targetNodeId}.`
+        hu: `A flotta visszatért a bázisra: ${fleet.targetNodeId}.`,
+        de: `Flotte von Knoten ${fleet.targetNodeId} zurückgekehrt.`,
+        ro: `Flota s-a întors de la nodul ${fleet.targetNodeId}.`,
       });
-      
       nextArchiveFleets.push(fleet);
-      // Remove from active
       return false;
     }
 
@@ -79,42 +83,94 @@ export function tickFleets(state: StarholdState): StarholdState {
       },
       archive: {
         ...nextState.archive,
-        completedFleets: nextArchiveFleets.slice(-50), // keep last 50
-      }
+        completedFleets: nextArchiveFleets.slice(-50),
+      },
     };
-    
+
     for (const j of journals) {
       nextState.journal = pushJournal(nextState, j);
-      nextState.alert = j; // Show latest as alert
+      nextState.alert = j;
     }
   }
 
   return nextState;
 }
 
+// ─── Node spawning ──────────────────────────────────────────────────────────
+
+function generateYield(
+  nodeType: MapNodeType,
+  rngState: number,
+  risk: number,
+): { yield_: NodeYieldEntry[]; nextRng: number } {
+  let rng = rngState;
+
+  if (nodeType === "meteorite") {
+    const { value: r1, nextState: s1 } = randomInt(rng, 3, 12);
+    rng = s1;
+    const { value: r2, nextState: s2 } = randomInt(rng, 1, 6);
+    rng = s2;
+
+    const materials = ["lumen_dust", "verdant_crystals", "aether_ore", "ember_shards", "sable_alloy", "rift_stone"];
+    const primaryIdx = r2 - 1;
+    const primaryAmount = r1 + risk * 2;
+
+    const entries: NodeYieldEntry[] = [
+      { resourceId: materials[primaryIdx], amount: primaryAmount },
+      { resourceId: "supply", amount: Math.round(primaryAmount * 0.4) },
+    ];
+
+    // Rare bonus: antimatter
+    const { value: bonusRoll, nextState: s3 } = nextRandom(rng);
+    rng = s3;
+    if (bonusRoll > 0.82) {
+      entries.push({ resourceId: "antimatter", amount: Math.round(risk * 1.5 + 2) });
+    }
+
+    return { yield_: entries, nextRng: rng };
+  }
+
+  if (nodeType === "pve_base") {
+    const { value: r1, nextState: s1 } = randomInt(rng, 5, 20);
+    rng = s1;
+    return {
+      yield_: [
+        { resourceId: "supply", amount: r1 + risk * 3 },
+        { resourceId: "power", amount: Math.round(r1 * 0.6) },
+        { resourceId: "antimatter", amount: Math.round(risk * 2 + 3) },
+      ],
+      nextRng: rng,
+    };
+  }
+
+  // anomaly
+  const { value: r1, nextState: s1 } = randomInt(rng, 1, 8);
+  rng = s1;
+  return {
+    yield_: [
+      { resourceId: "antimatter", amount: r1 + risk },
+    ],
+    nextRng: rng,
+  };
+}
+
 export function spawnTransientNodes(state: StarholdState): StarholdState {
-  // Galaxy spatial design:
-  //   - Coords ±3.0 units → diagonal ~8.5 units → ~85 min full traversal (1 unit = 10 min)
-  //   - 40 nodes → avg spacing ~0.3 units → ~3 min to nearest object
-  //   - Player bases (multiplayer) will be added separately
   const maxNodes = 40;
 
   if (state.galaxy.transientNodes.length >= maxNodes) {
     return state;
   }
 
-  let mutated = false;
-  let nextTransientNodes = [...state.galaxy.transientNodes];
   let currentRngState = state.globalRngState;
 
-  // Float coords in ±3.0 range for proper travel-time spacing
+  // Float coords in ±3.0 range
   const { value: rXnorm, nextState: s1 } = nextRandom(currentRngState);
   currentRngState = s1;
-  const rX = Math.round((rXnorm - 0.5) * 600) / 100; // ±3.00
+  const rX = Math.round((rXnorm - 0.5) * 600) / 100;
 
   const { value: rYnorm, nextState: s2 } = nextRandom(currentRngState);
   currentRngState = s2;
-  const rY = Math.round((rYnorm - 0.5) * 600) / 100; // ±3.00
+  const rY = Math.round((rYnorm - 0.5) * 600) / 100;
 
   const { value: rType, nextState: s3 } = nextRandom(currentRngState);
   currentRngState = s3;
@@ -132,7 +188,39 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
   const { value: rId, nextState: s6 } = randomInt(currentRngState, 1000, 9999);
   currentRngState = s6;
 
-  // Use tick for deterministic expiry
+  // Priority (1-5): based on type rarity + stealth
+  const { value: rPriority, nextState: s7 } = randomInt(currentRngState, 1, 5);
+  currentRngState = s7;
+  const priority = (nodeType === "pve_base" ? Math.min(5, rPriority + 1) : rPriority) as 1 | 2 | 3 | 4 | 5;
+
+  // Risk (1-5)
+  const { value: rRisk, nextState: s8 } = randomInt(currentRngState, 1, 5);
+  currentRngState = s8;
+  const risk = (nodeType === "anomaly" ? Math.min(5, rRisk + 1) : rRisk) as 1 | 2 | 3 | 4 | 5;
+
+  // Node seed for deterministic outcomes
+  const { value: nodeSeed, nextState: s9 } = randomInt(currentRngState, 0, 2147483647);
+  currentRngState = s9;
+
+  // Max harvests
+  const { value: rHarvests, nextState: s10 } = randomInt(currentRngState, 1, 4);
+  currentRngState = s10;
+  const maxHarvests = nodeType === "meteorite" ? rHarvests + 1 : nodeType === "pve_base" ? 1 : 0;
+
+  // Defence for PvE
+  const { value: rDefence, nextState: s11 } = randomInt(currentRngState, 10, 60);
+  currentRngState = s11;
+  const defenceRating = nodeType === "pve_base" ? rDefence + risk * 8 : 0;
+
+  // Instability for anomaly
+  const { value: rInstability, nextState: s12 } = randomInt(currentRngState, 10, 80);
+  currentRngState = s12;
+  const instability = nodeType === "anomaly" ? rInstability : 0;
+
+  // Generate yield table
+  const { yield_: expectedYield, nextRng: rngAfterYield } = generateYield(nodeType, currentRngState, risk);
+  currentRngState = rngAfterYield;
+
   const newNode: MapNode = {
     id: `node_${state.tick}_${rId}`,
     type: nodeType,
@@ -141,21 +229,27 @@ export function spawnTransientNodes(state: StarholdState): StarholdState {
     stealthLevel: rStealth,
     expiresAt: state.tick + rLifetimeHours * 3600,
     isOccupiedBy: null,
+    // New meta fields
+    nodeState: "undiscovered",
+    priority,
+    risk,
+    expectedYield,
+    intelDepth: 0,
+    nodeSeed,
+    harvestCount: 0,
+    maxHarvests,
+    defenceRating,
+    instability,
+    actionLog: [],
+    cooldownUntil: 0,
   };
 
-  nextTransientNodes.push(newNode);
-  mutated = true;
-
-  if (mutated) {
-    return {
-      ...state,
-      globalRngState: currentRngState,
-      galaxy: {
-        ...state.galaxy,
-        transientNodes: nextTransientNodes,
-      }
-    };
-  }
-
-  return state;
+  return {
+    ...state,
+    globalRngState: currentRngState,
+    galaxy: {
+      ...state.galaxy,
+      transientNodes: [...state.galaxy.transientNodes, newNode],
+    },
+  };
 }

@@ -144,6 +144,7 @@ function stopForegroundOperation(state: StarholdState): StarholdState {
 }
 
 import { recalculateDerivedState } from "./derived";
+import { resolveInspectNode, resolveCollectNode, resolveAttackNode, resolveDispatchFleet, resolveRecallFleet } from "./map/actions";
 
 function withDerived(state: StarholdState): StarholdState {
   return { ...state, derived: recalculateDerivedState(state) };
@@ -152,6 +153,11 @@ function withDerived(state: StarholdState): StarholdState {
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
   if (command.type === "DISMISS_NOTIFICATION") return withDerived(dismissNotification(state, command.id));
   if (command.type === "MARK_NOTIFICATIONS_READ") return withDerived(markAllNotificationsRead(state));
+  if (command.type === "INSPECT_NODE") return withDerived(resolveInspectNode(state, command.nodeId));
+  if (command.type === "COLLECT_NODE") return withDerived(resolveCollectNode(state, command.nodeId));
+  if (command.type === "ATTACK_NODE") return withDerived(resolveAttackNode(state, command.nodeId));
+  if (command.type === "DISPATCH_FLEET") return withDerived(resolveDispatchFleet(state, command.nodeId, command.missionType));
+  if (command.type === "RECALL_FLEET") return withDerived(resolveRecallFleet(state, command.fleetId));
   if (command.type === "RECRUIT_OFFICER") return withDerived(recruitOfficer(state, command.officerId));
   if (command.type === "DISMISS_OFFICER") return withDerived(dismissOfficer(state, command.officerId));
   if (command.type === "LAUNCH_EXPEDITION") return withDerived(launchExpedition(state, command.durationMode, command.routeProfile, command.fleet));

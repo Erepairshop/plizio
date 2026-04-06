@@ -2052,21 +2052,16 @@ export default function GravitasPage() {
                   currentTick={state.tick}
                   antimatter={antimatterGauge}
                   onNodeClick={(node) => {
-                    setModuleInfoOpen(true);
-                    if (node.type === "pve_base") setSelectedModule("core");
-                    else if (node.type === "meteorite") setSelectedModule("logistics");
-                    else setSelectedModule("sensor");
+                    doAction({ type: "INSPECT_NODE", nodeId: node.id }, "rgba(34,211,238,0.4)");
                   }}
-                  onNodeCollect={() => {
-                    doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)");
+                  onNodeCollect={(node) => {
+                    doAction({ type: "COLLECT_NODE", nodeId: node.id }, "rgba(16,185,129,0.4)");
                   }}
-                  onNodeAttack={() => {
-                    setSelectedModule("core");
-                    setModuleInfoOpen(true);
+                  onNodeAttack={(node) => {
+                    doAction({ type: "ATTACK_NODE", nodeId: node.id }, "rgba(248,113,113,0.4)");
                   }}
                   onNodeInspect={(node) => {
-                    setSelectedModule(node.type === "anomaly" ? "sensor" : "logistics");
-                    setModuleInfoOpen(true);
+                    doAction({ type: "INSPECT_NODE", nodeId: node.id }, "rgba(34,211,238,0.4)");
                   }}
                   onBaseClick={() => {
                     setSelectedModule("core");

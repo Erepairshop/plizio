@@ -28,13 +28,43 @@ const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
 const MAX_JOURNAL_ENTRIES = 20;
 
-/** Migrate old ±100 galaxy coords to new ±3 range by clearing stale nodes */
+/** Migrate old ±100 galaxy coords to new ±3 range by clearing stale nodes.
+ *  Also backfill new meta fields on MapNode if missing. */
 function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): import("./map/types").GalaxyMapState {
   if (!galaxy.transientNodes || galaxy.transientNodes.length === 0) return galaxy;
   // If any node has coords outside ±5, it's from the old ±100 system — clear all
   const hasOldCoords = galaxy.transientNodes.some(n => Math.abs(n.x) > 5 || Math.abs(n.y) > 5);
   if (hasOldCoords) {
     return { ...galaxy, transientNodes: [], activeFleets: [] };
+  }
+  // Backfill new meta fields for nodes from before the meta system
+  const needsMigration = galaxy.transientNodes.some(n => (n as any).nodeState === undefined);
+  if (needsMigration) {
+    const migrated = galaxy.transientNodes.map(n => {
+      if ((n as any).nodeState !== undefined) return n;
+      return {
+        ...n,
+        nodeState: "undiscovered" as const,
+        priority: (Math.min(5, Math.max(1, Math.round(n.stealthLevel / 10))) || 1) as 1|2|3|4|5,
+        risk: (Math.min(5, Math.max(1, Math.round(n.stealthLevel / 10))) || 1) as 1|2|3|4|5,
+        expectedYield: [] as import("./map/types").NodeYieldEntry[],
+        intelDepth: 0 as const,
+        nodeSeed: Math.abs((n.id.charCodeAt(5) || 42) * 2654435761) >>> 0,
+        harvestCount: 0,
+        maxHarvests: n.type === "meteorite" ? 3 : n.type === "pve_base" ? 1 : 0,
+        defenceRating: n.type === "pve_base" ? 30 : 0,
+        instability: n.type === "anomaly" ? 40 : 0,
+        actionLog: [] as import("./map/types").NodeActionLog[],
+        cooldownUntil: 0,
+      };
+    });
+    const migratedFleets = (galaxy.activeFleets ?? []).map(f => ({
+      ...f,
+      missionType: (f as any).missionType ?? "collect" as const,
+      fuelSpent: (f as any).fuelSpent ?? 0,
+      weight: (f as any).weight ?? 1,
+    }));
+    return { ...galaxy, transientNodes: migrated, activeFleets: migratedFleets };
   }
   return galaxy;
 }

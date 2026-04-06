@@ -432,4 +432,9 @@ export type StarholdCommand =
   | { type: "DISMISS_OFFICER"; officerId: string }
   | { type: "APPLY_FACTION_WAR_RESULT"; result: import("./battle/types").BattleResult; warId: string; side: "attacker" | "defender" }
   | { type: "LAUNCH_EXPEDITION"; durationMode: import("./expeditions/types").ExpeditionDurationType; routeProfile: import("./expeditions/types").ExpeditionRouteProfile; fleet: import("./expeditions/types").ExpeditionFleet }
-  | { type: "RECALL_EXPEDITION"; expeditionId: string };
+  | { type: "RECALL_EXPEDITION"; expeditionId: string }
+  | { type: "INSPECT_NODE"; nodeId: string }
+  | { type: "COLLECT_NODE"; nodeId: string }
+  | { type: "ATTACK_NODE"; nodeId: string }
+  | { type: "DISPATCH_FLEET"; nodeId: string; missionType: import("./map/types").FleetMissionType }
+  | { type: "RECALL_FLEET"; fleetId: string };
