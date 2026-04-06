@@ -56,7 +56,7 @@ import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineBriefingModal from "@/components/gravitas/OfflineBriefingModal";
 import CommanderTacticalOverview from "@/components/gravitas/CommanderTacticalOverview";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
-import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass } from "lucide-react";
+import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass, Fuel } from "lucide-react";
 
 import { resolveBattle } from "@/lib/gravitas/sim/battle/engine";
 import { getEnemyBuildingById, getFactionFleetAsEnemy } from "@/lib/gravitas/sim/battle/enemies";
@@ -1619,27 +1619,10 @@ export default function GravitasPage() {
             </div>
           </div>
         </div>
-        <div className="flex w-full flex-col gap-2">
-          <GravitasHUD
-            power={state.resources.power}
-            materials={state.resources.supply}
-            stability={state.resources.stability}
-            activation={Math.floor(state.resources.activation)}
-            entropy={state.entropy}
-            antimatter={antimatterGauge.current}
-            antimatterMax={antimatterGauge.max}
-            labels={{
-              power: localize({ en: "Power", hu: "Energia", de: "Energie", ro: "Putere" }),
-              materials: localize({ en: "Supply", hu: "Ellátmány", de: "Nachschub", ro: "Aprovizionare" }),
-              stability: localize({ en: "Stability", hu: "Stabilitás", de: "Stabilität", ro: "Stabilitate" }),
-              activation: localize({ en: "Activation", hu: "Aktiválás", de: "Aktivierung", ro: "Activare" }),
-              entropy: localize({ en: "Entropy", hu: "Entrópia", de: "Entropie", ro: "Entropie" }),
-              antimatter: localize({ en: "Antimatter", hu: "Antianyag", de: "Antimaterie", ro: "Antimaterie" }),
-            }}
-          />
-          <div className="flex items-center gap-1 sm:gap-1.5">
-            <GravitasMaterialStrip lang={lang} />
-          </div>
+        {/* Row 3: Materials */}
+        <div className="flex items-center gap-1 sm:gap-1.5">
+          <HUDChip icon={<Fuel size={12} />} value={Math.floor(antimatterGauge.current)} color="text-purple-400" onClick={() => setResourceHelpOpen("antimatter")} />
+          <GravitasMaterialStrip lang={lang} />
         </div>
       </div>
 

@@ -53,6 +53,8 @@ type NodeVisual = {
 
 const WORLD_SIZE = 4000;
 const WORLD_CENTER = WORLD_SIZE / 2;
+/** Backend coords are ±100; scale up for visual spread across the world canvas */
+const COORD_SCALE = 14;
 const MIN_ZOOM = 0.62;
 const MAX_ZOOM = 1.8;
 
@@ -306,8 +308,8 @@ export default function GalaxyMapView({
   const nodeVisuals = useMemo<NodeVisual[]>(() => {
     return galaxyState.transientNodes.map((node) => {
       const point = {
-        x: WORLD_CENTER + (node.x - base.x),
-        y: WORLD_CENTER + (node.y - base.y),
+        x: WORLD_CENTER + (node.x - base.x) * COORD_SCALE,
+        y: WORLD_CENTER + (node.y - base.y) * COORD_SCALE,
       };
       return {
         node,
@@ -325,8 +327,8 @@ export default function GalaxyMapView({
       const targetNode = nodeById.get(fleet.targetNodeId);
       const targetPoint = targetNode
         ? {
-            x: WORLD_CENTER + (targetNode.x - base.x),
-            y: WORLD_CENTER + (targetNode.y - base.y),
+            x: WORLD_CENTER + (targetNode.x - base.x) * COORD_SCALE,
+            y: WORLD_CENTER + (targetNode.y - base.y) * COORD_SCALE,
           }
         : { x: WORLD_CENTER, y: WORLD_CENTER };
       const originPoint =
