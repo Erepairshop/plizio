@@ -39,6 +39,14 @@ export function deploySpies(
   const { value: r1, nextState: s1 } = randomInt(currentRngState, 0, 9999);
   currentRngState = s1;
 
+  let initialRisk = 0;
+  if (target.type === "faction") {
+    const rep = state.factionReputation.reputation[target.id as FactionId] ?? 0;
+    if (getReputationTier(rep) === "hostile") {
+      initialRisk = 30; // Harder to infiltrate hostile factions
+    }
+  }
+
   const now = Date.now();
   const newMission: EspionageMission = {
     id: `spy_${now}_${r1}`,
@@ -50,7 +58,7 @@ export function deploySpies(
     phase: "deploying",
     startedAt: now,
     activeAt: now + ESPIONAGE_CONFIG.deployTimeMs,
-    exposureRisk: 0,
+    exposureRisk: initialRisk,
     intelGathered: 0,
     intelDepthLevel: 0,
     lastYieldAt: now + ESPIONAGE_CONFIG.deployTimeMs,
@@ -135,7 +143,7 @@ export function tickEspionage(state: StarholdState): StarholdState {
   // Avatar Traits Check
   const isCurious = !!state.battleState.avatarCombat.innateBonus?.intel; // Curious maps to intel
   const isCalm = !!state.battleState.avatarCombat.innateBonus?.barrier; // Calm maps to barrier
-  const isBold = !!state.battleState.avatarCombat.innateBonus?.firepower; // Bold maps to firepower
+  const isBold = state.derived?.commanderBonuses.isBold; // Bold maps to firepower
 
   const nextMissions = nextState.espionage.missions.map(mission => {
     let m = { ...mission };
@@ -324,12 +332,20 @@ export function tickEspionage(state: StarholdState): StarholdState {
                 };
               }
 
+              const lostOps = Math.floor(m.operativeCount * ESPIONAGE_CONFIG.exposureLossRatio);
               nextState = {
                   ...nextState,
+                  statistics: {
+                    ...nextState.statistics,
+                    trauma: {
+                      ...nextState.statistics.trauma,
+                      agentsLost: nextState.statistics.trauma.agentsLost + lostOps,
+                    }
+                  },
                   espionage: {
                     ...nextState.espionage,
                     lastExposureEvent: now,
-                    lostCount: nextState.espionage.lostCount + Math.floor(m.operativeCount * ESPIONAGE_CONFIG.exposureLossRatio),
+                    lostCount: nextState.espionage.lostCount + lostOps,
                   }
               };
               
@@ -394,7 +410,7 @@ export function spendIntel(state: StarholdState, action: EspionageIntelAction, e
   const cost = ESPIONAGE_CONFIG.intelCosts[action];
   
   // Bold avatar penalty for counterfeit/decoy
-  const isBold = !!state.battleState.avatarCombat.innateBonus?.firepower;
+  const isBold = state.derived?.commanderBonuses.isBold;
   const actualCost = (isBold && (action === "counterfeitIntel" || action === "decoyDeployment")) ? Math.floor(cost * 1.2) : cost;
 
   if (state.espionage.totalIntel < actualCost) return state;
@@ -429,10 +445,14 @@ export function spendIntel(state: StarholdState, action: EspionageIntelAction, e
       break;
     case "factionSecret":
       if (extraArg && typeof extraArg === "string") {
+        const isCurious = nextState.derived?.commanderBonuses.isCurious;
+        const baseRepGain = 15;
+        const repGain = isCurious ? Math.floor(baseRepGain * 1.5) : baseRepGain;
+
         nextState.factionReputation.reputation = applyReputationChange(
           nextState.factionReputation.reputation,
-          extraArg as FactionId,
-          15,
+          extraArg as import("../faction/types").FactionId,
+          repGain,
           "event",
           nextState
         );

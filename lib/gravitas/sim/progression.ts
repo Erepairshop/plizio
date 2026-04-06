@@ -295,3 +295,52 @@ export function buyStarholdItem(state: StarholdState, itemId: string): StarholdS
     journal: pushJournal(state, journalLine),
   };
 }
+
+export function addExperience(state: StarholdState, amount: number): StarholdState {
+  if (state.level >= 25) return state;
+
+  let nextState = { ...state };
+  nextState.experience += amount;
+
+  let mutated = false;
+  let leveledUp = false;
+
+  while (nextState.level < 25) {
+    const requiredXp = nextState.level * nextState.level * 1000;
+    if (nextState.experience >= requiredXp) {
+      nextState.experience -= requiredXp;
+      nextState.level += 1;
+      mutated = true;
+      leveledUp = true;
+    } else {
+      break;
+    }
+  }
+
+  if (nextState.level >= 25 && !nextState.endgame.isZenithUnlocked) {
+    nextState.endgame = {
+      ...nextState.endgame,
+      isZenithUnlocked: true,
+    };
+    nextState.journal = pushJournal(nextState, {
+      en: "Maximum level reached. The Zenith Protocol is now unlocked.",
+      hu: "Maximális szint elérve. A Zenit Protokoll feloldva.",
+      de: "Maximales Level erreicht. Das Zenith-Protokoll ist nun entsperrt.",
+      ro: "Nivel maxim atins. Protocolul Zenit este acum deblocat."
+    });
+    mutated = true;
+  }
+
+  if (leveledUp) {
+    const alertMsg = {
+      en: `Level Up! You are now level ${nextState.level}.`,
+      hu: `Szintlépés! A szinted mostantól ${nextState.level}.`,
+      de: `Levelaufstieg! Du bist jetzt Level ${nextState.level}.`,
+      ro: `Creștere în nivel! Acum ești la nivelul ${nextState.level}.`
+    };
+    nextState.alert = alertMsg;
+    nextState.journal = pushJournal(nextState, alertMsg);
+  }
+
+  return mutated ? nextState : { ...state, experience: nextState.experience };
+}

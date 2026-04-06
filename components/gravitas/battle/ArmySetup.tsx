@@ -114,7 +114,10 @@ export default function ArmySetup({
           const sign = remainingToAdjust > 0 ? 1 : -1;
           const candidates = otherKeys.filter(k => sign > 0 ? true : next[k] > 0);
           if (candidates.length === 0) break;
-          const luckyKey = candidates.sort((a, b) => sign > 0 ? next[a] - next[b] : next[b] - next[a])[0];
+          const luckyKey = candidates.sort((a, b) => {
+            if (sign > 0) return next[a] - next[b];
+            return next[b] - next[a];
+          })[0];
           next[luckyKey] += 5 * sign;
           remainingToAdjust -= 5 * sign;
         }
@@ -127,10 +130,12 @@ export default function ArmySetup({
         });
         
         // Final cleanup
+        let k = 0;
         while (Math.abs(remainingToAdjust) >= 5) {
-          const luckyKey = otherKeys[Math.floor(Math.random() * otherKeys.length)];
+          const luckyKey = otherKeys[k % otherKeys.length];
           next[luckyKey] += 5;
           remainingToAdjust -= 5;
+          k++;
         }
       }
 

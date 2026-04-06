@@ -16,6 +16,7 @@ export interface ResearchPrerequisites {
   moduleLevels?: Partial<Record<string, number>>;
   factionReputation?: Partial<Record<string, number>>;
   resources?: Partial<Record<string, number>>;
+  trauma?: Partial<Record<keyof import("../types").StarholdState["statistics"]["trauma"], number>>;
 }
 
 export interface ResearchProject {
@@ -41,4 +42,6 @@ export interface ResearchState {
   completed: string[];
   active: ActiveResearch | null;
   discoveredFields: ResearchFieldId[];
+  unlockedTechs: string[];
+  calmProductionBuffs: number;
 }

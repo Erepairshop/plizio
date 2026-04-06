@@ -17,9 +17,12 @@ import { createInitialNotificationState } from "./notifications/index";
 import { createInitialOfficerState } from "./officers/index";
 import { createInitialFactionWarState } from "./factionwars/index";
 import { createInitialExpeditionState } from "./expeditions/index";
+import { createInitialGalaxyMap } from "./map/engine";
 import { defaultAllocation } from "./battle/avatarCombat";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
+import { runMaintenance } from "./maintenance";
+import { recalculateDerivedState } from "./derived";
 
 const SAVE_KEY_PREFIX = "gravitas_save_v2";
 const FALLBACK_SAVE_KEY = "gravitas_save_v1";
@@ -214,9 +217,11 @@ function sanitizeContinuationState(state: StarholdState): StarholdState {
 
 export function saveGravitasState(state: StarholdState): void {
   try {
+    const maintainedState = runMaintenance(state);
+    const { derived, ...persistedState } = maintainedState;
     const toSave: StarholdState = {
-      ...state,
-      journal: state.journal.slice(0, MAX_JOURNAL_ENTRIES),
+      ...persistedState,
+      journal: maintainedState.journal.slice(0, MAX_JOURNAL_ENTRIES),
       avatarImprintActive: false,
       avatarImprintProgress: 0,
     };
@@ -311,11 +316,12 @@ export function loadGravitasState(): StarholdState | null {
     const migratedResources = {
       ...parsed.resources,
       supply: parsed.resources.supply ?? (parsed.resources as any).materials ?? 100,
-      hull: parsed.resources.hull ?? 100,
-      shield: parsed.resources.shield ?? 25,
-      morale: parsed.resources.morale ?? 75,
-      signalRange: parsed.resources.signalRange ?? 30,
-      supplyFlow: parsed.resources.supplyFlow ?? 20,
+      hull: parsed.resources?.hull ?? 100,
+      shield: parsed.resources?.shield ?? 25,
+      morale: parsed.resources?.morale ?? 75,
+      signalRange: parsed.resources?.signalRange ?? 30,
+      supplyFlow: parsed.resources?.supplyFlow ?? 20,
+      antimatter: parsed.resources?.antimatter ?? 0,
     };
     if ((migratedResources as any).materials !== undefined) {
       delete (migratedResources as any).materials;
@@ -324,6 +330,14 @@ export function loadGravitasState(): StarholdState | null {
     const nextState: StarholdState = {
       ...parsed,
       chapter: parsed.chapter ?? (parsed.avatarAwake ? "continuation" : "demo"),
+      endgame: parsed.endgame ?? {
+        isZenithUnlocked: false,
+        zenithHolder: null,
+        zenithHoldTimeSeconds: 0,
+        galacticLeader: null,
+        imperialTaxRate: 0,
+        embargoedPlayers: [],
+      },
       resources: migratedResources as any,
       threatCycle: parsed.threatCycle ?? 0,
       lastAvatarPulse: parsed.lastAvatarPulse ?? -100,
@@ -402,18 +416,43 @@ export function loadGravitasState(): StarholdState | null {
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
       synergies: parsed.synergies ?? createInitialSynergies(),
       galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
+      galaxy: parsed.galaxy ?? createInitialGalaxyMap(),
       dilemmaSystem: parsed.dilemmaSystem ?? createInitialDilemmaState(),
-      tradeSystem: parsed.tradeSystem ?? { offers: [], lastRefreshAt: Date.now() },
+      tradeSystem: {
+        marketState: parsed.tradeSystem?.marketState ?? "normal",
+        marketStateUpdatedAt: parsed.tradeSystem?.marketStateUpdatedAt ?? Date.now(),
+        offers: parsed.tradeSystem?.offers ?? [],
+        activeTrades: parsed.tradeSystem?.activeTrades ?? [],
+        lastRefreshAt: parsed.tradeSystem?.lastRefreshAt ?? Date.now(),
+      },
       weeklyMission: parsed.weeklyMission ?? { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
       commander: parsed.commander ?? createInitialCommanderState(),
-      espionage: parsed.espionage ?? createInitialEspionageState(),
+      espionage: {
+        ...createInitialEspionageState(),
+        ...(parsed.espionage ?? {}),
+      },
       research: parsed.research ?? createInitialResearchState(["weapons", "shields"]),
-      supplyRoutes: parsed.supplyRoutes ?? createInitialSupplyRouteState(),
+      supplyRoutes: {
+        ...createInitialSupplyRouteState(),
+        ...(parsed.supplyRoutes ?? {}),
+      },
       codex: parsed.codex ?? createInitialCodexState(),
       notifications: parsed.notifications ?? createInitialNotificationState(),
       officers: parsed.officers ?? createInitialOfficerState().officerState,
-      factionWars: parsed.factionWars ?? createInitialFactionWarState(),
+      factionWars: {
+        ...createInitialFactionWarState(),
+        ...(parsed.factionWars ?? {}),
+      },
       expeditions: parsed.expeditions ?? createInitialExpeditionState(),
+      statistics: parsed.statistics ?? {
+        trauma: {
+          agentsLost: 0,
+          expeditionCasualties: 0,
+          cargoSeized: 0,
+          ambushesSuffered: 0,
+        },
+      },
+      offlineSummary: parsed.offlineSummary ?? null,
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));
@@ -423,12 +462,15 @@ export function loadGravitasState(): StarholdState | null {
         promptEndsAtTick: 0,
         promptIndex: 0,
         sequence: [],
-        windowSatisfied: false,
-        unlocksAvatarPrep: false,
-      };
+      windowSatisfied: false,
+      unlocksAvatarPrep: false,
+    };
     }
     nextState.repairChallenge = normalizeRepairChallenge(nextState.repairChallenge, nextState.threatCycle);
-    return nextState;
+    return {
+      ...nextState,
+      derived: recalculateDerivedState(nextState),
+    };
   } catch {
     return null;
   }

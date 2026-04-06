@@ -201,13 +201,14 @@ export function tickExpeditions(state: StarholdState): StarholdState {
   let nextGarrison = { ...state.warRoom.garrison };
   let nextResources = { ...state.resources };
   let nextOfficers = state.officers;
+  let nextTrauma = { ...state.statistics.trauma };
   let journalEntries: LocalizedString[] = [];
   
   let currentRngState = state.globalRngState;
 
   // Avatar traits logic checks
-  const isAggressive = !!state.battleState.avatarCombat.innateBonus?.firepower;
-  const isReckless = !!state.battleState.avatarCombat.innateBonus?.tactics;
+  const isAggressive = state.derived?.commanderBonuses.isBold;
+  const isReckless = state.derived?.commanderBonuses.isReckless;
 
   for (let i = 0; i < nextActive.length; i++) {
     const exp = nextActive[i];
@@ -342,6 +343,10 @@ export function tickExpeditions(state: StarholdState): StarholdState {
             exp.fleet.units[lostUnitId] -= actualLoss;
             exp.casualties[lostUnitId] = (exp.casualties[lostUnitId] || 0) + actualLoss;
 
+            // Update trauma counters
+            nextTrauma.ambushesSuffered += 1;
+            nextTrauma.expeditionCasualties += actualLoss;
+
             logText = {
               en: `Hostile encounter. We lost ${actualLoss} ${lostUnitId}(s) during the skirmish.`,
               hu: `Ellenséges találkozás. Elvesztettünk ${actualLoss} ${lostUnitId}-t az összecsapásban.`,
@@ -349,6 +354,9 @@ export function tickExpeditions(state: StarholdState): StarholdState {
               ro: `Întâlnire ostilă. Am pierdut ${actualLoss} ${lostUnitId} în timpul luptei.`
             };
           } else {
+            // Also count as ambush suffered even if no casualties
+            nextTrauma.ambushesSuffered += 1;
+
             logText = { 
               en: "Navigated through a dense hazard. Hull suffered abrasions but no units lost.", 
               hu: "Sűrű veszélyzónán haladtunk át. A hajótest sérült, de nincs veszteség.", 
@@ -440,6 +448,10 @@ export function tickExpeditions(state: StarholdState): StarholdState {
       resources: nextResources,
       warRoom: { ...state.warRoom, garrison: nextGarrison },
       officers: nextOfficers,
+      statistics: {
+        ...state.statistics,
+        trauma: nextTrauma,
+      },
       expeditions: {
         activeExpeditions: nextActive.filter(e => e.status !== "completed" && e.status !== "lost"),
         completedLog: [...state.expeditions.completedLog, ...completedLogAdditions].slice(-20), // Keep last 20

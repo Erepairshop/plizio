@@ -34,6 +34,7 @@ export function addResourceDelta(
     morale: clamp(resources.morale + (delta.morale ?? 0)),
     signalRange: clamp(resources.signalRange + (delta.signalRange ?? 0)),
     supplyFlow: clamp(resources.supplyFlow + (delta.supplyFlow ?? 0)),
+    antimatter: clampResourceFloor(resources.antimatter + (delta.antimatter ?? 0)),
   };
 }
 

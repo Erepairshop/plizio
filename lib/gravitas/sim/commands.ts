@@ -143,13 +143,19 @@ function stopForegroundOperation(state: StarholdState): StarholdState {
   };
 }
 
+import { recalculateDerivedState } from "./derived";
+
+function withDerived(state: StarholdState): StarholdState {
+  return { ...state, derived: recalculateDerivedState(state) };
+}
+
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
-  if (command.type === "DISMISS_NOTIFICATION") return dismissNotification(state, command.id);
-  if (command.type === "MARK_NOTIFICATIONS_READ") return markAllNotificationsRead(state);
-  if (command.type === "RECRUIT_OFFICER") return recruitOfficer(state, command.officerId);
-  if (command.type === "DISMISS_OFFICER") return dismissOfficer(state, command.officerId);
-  if (command.type === "LAUNCH_EXPEDITION") return launchExpedition(state, command.durationMode, command.routeProfile, command.fleet);
-  if (command.type === "RECALL_EXPEDITION") return recallExpedition(state, command.expeditionId);
+  if (command.type === "DISMISS_NOTIFICATION") return withDerived(dismissNotification(state, command.id));
+  if (command.type === "MARK_NOTIFICATIONS_READ") return withDerived(markAllNotificationsRead(state));
+  if (command.type === "RECRUIT_OFFICER") return withDerived(recruitOfficer(state, command.officerId));
+  if (command.type === "DISMISS_OFFICER") return withDerived(dismissOfficer(state, command.officerId));
+  if (command.type === "LAUNCH_EXPEDITION") return withDerived(launchExpedition(state, command.durationMode, command.routeProfile, command.fleet));
+  if (command.type === "RECALL_EXPEDITION") return withDerived(recallExpedition(state, command.expeditionId));
 
   const nextState = applyStarholdCommandInternal(state, command);
   if (nextState.alert && nextState.alert !== state.alert) {
@@ -168,9 +174,9 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
     else if (text.includes("training") || text.includes("unit")) { type = "training"; icon = "Users"; }
     else if (text.includes("phase") || text.includes("cycle") || text.includes("storm") || text.includes("war")) { type = "system"; icon = "Globe"; }
 
-    return pushNotification(nextState, type, nextState.alert, nextState.alert, icon);
+    return withDerived(pushNotification(nextState, type, nextState.alert, nextState.alert, icon));
   }
-  return nextState;
+  return withDerived(nextState);
 }
 
 function applyStarholdCommandInternal(state: StarholdState, command: StarholdCommand): StarholdState {

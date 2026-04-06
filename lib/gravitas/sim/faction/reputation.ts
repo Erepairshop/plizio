@@ -76,6 +76,15 @@ export function applyReputationChange(
   const next = { ...current };
   
   let finalDelta = delta;
+
+  // Calm avatar trait: reduce negative diplomatic incidents penalty by 20%
+  if (state && finalDelta < 0 && (reason === "dilemma_reject" || reason === "espionage_caught" || reason === "event")) {
+    const isCalm = !!state.battleState.avatarCombat.innateBonus?.barrier; // Calm maps to barrier
+    if (isCalm) {
+      finalDelta = Math.ceil(finalDelta * 0.8); // e.g. -10 becomes -8
+    }
+  }
+
   if (state?.galaxyCycle) {
     const cycleEffects = getCycleEffects(state.galaxyCycle.currentPhase);
     finalDelta *= cycleEffects.reputationMod;
@@ -128,7 +137,9 @@ export function applyNaturalDrift(state: FactionReputationState): FactionReputat
   });
 
   return {
+    ...state,
     reputation: nextReputation,
+    status: getAllReputationTiers(nextReputation),
     lastDriftAt: Date.now(),
   };
 }

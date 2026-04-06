@@ -5,12 +5,15 @@ import { RESEARCH_CONFIG } from "../../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
 import type { GalaxyMaterialId } from "../../world/mission";
 import { pushJournal } from "../shared";
+import { nextRandom } from "../rng";
 
 export function createInitialResearchState(discoveredFields: import("./types").ResearchFieldId[] = ["weapons", "shields"]): ResearchState {
   return {
     completed: [],
     active: null,
     discoveredFields,
+    unlockedTechs: [],
+    calmProductionBuffs: 0,
   };
 }
 
@@ -48,10 +51,22 @@ export function canResearch(state: StarholdState, projectId: string): boolean {
     }
   }
 
+  const isBold = state.derived?.commanderBonuses.isBold;
+  const isProtective = state.derived?.commanderBonuses.isProtective;
+
   const inventory = loadSavedGalaxyInventory();
-  for (const [matId, amount] of Object.entries(project.materialCost)) {
-    if (amount && (inventory[matId as GalaxyMaterialId] ?? 0) < amount) {
-      return false;
+  for (const [matId, baseAmount] of Object.entries(project.materialCost)) {
+    if (baseAmount) {
+      let amount = baseAmount;
+      if (isBold && (project.fieldId === "logistics" || project.fieldId === "sensors")) {
+        amount = Math.ceil(amount * 1.2);
+      }
+      if (isProtective && project.fieldId === "shields") {
+        amount = Math.ceil(amount * 0.75);
+      }
+      if ((inventory[matId as GalaxyMaterialId] ?? 0) < amount) {
+        return false;
+      }
     }
   }
 
@@ -64,15 +79,41 @@ export function startResearch(state: StarholdState, projectId: string): Starhold
   const project = RESEARCH_PROJECTS.find(p => p.id === projectId);
   if (!project) return state;
 
+  const isCurious = !!state.battleState.avatarCombat.innateBonus?.intel;
+  const isBold = state.derived?.commanderBonuses.isBold;
+  const isProtective = state.derived?.commanderBonuses.isProtective;
+
+  const hasLifeLossTrauma = project.prerequisites.trauma?.agentsLost || project.prerequisites.trauma?.expeditionCasualties;
+  const protectiveDiscount = isProtective && hasLifeLossTrauma ? 0.5 : 1.0;
+
   const inventory = loadSavedGalaxyInventory();
-  for (const [matId, amount] of Object.entries(project.materialCost)) {
-    if (amount) {
+  for (const [matId, baseAmount] of Object.entries(project.materialCost)) {
+    if (baseAmount) {
+      let amount = baseAmount;
+      if (isBold && (project.fieldId === "logistics" || project.fieldId === "sensors")) {
+        amount = Math.ceil(amount * 1.2);
+      }
+      if (isProtective && project.fieldId === "shields") {
+        amount = Math.ceil(amount * 0.75);
+      }
+      amount = Math.ceil(amount * protectiveDiscount);
       inventory[matId as GalaxyMaterialId] -= amount;
     }
   }
   saveGalaxyInventory(inventory);
 
-  const durationMs = project.baseDurationMs ?? RESEARCH_CONFIG.tierDurationMs[project.tier - 1] ?? (240 * 3600000); // default to long if not found
+  let durationMs = project.baseDurationMs ?? RESEARCH_CONFIG.tierDurationMs[project.tier - 1] ?? (240 * 3600000); // default to long if not found
+  
+  if (isCurious) {
+    durationMs = Math.ceil(durationMs * 0.8);
+  }
+  if (isBold && project.fieldId === "weapons") {
+    durationMs = 0;
+  }
+  if (protectiveDiscount < 1.0) {
+    durationMs = Math.ceil(durationMs * protectiveDiscount);
+  }
+
   const now = Date.now();
 
   const text = {
@@ -102,9 +143,23 @@ export function cancelResearch(state: StarholdState): StarholdState {
   
   const project = RESEARCH_PROJECTS.find(p => p.id === state.research.active!.projectId);
   if (project) {
+    const isBold = state.derived?.commanderBonuses.isBold;
+    const isProtective = state.derived?.commanderBonuses.isProtective;
+
+    const hasLifeLossTrauma = project.prerequisites.trauma?.agentsLost || project.prerequisites.trauma?.expeditionCasualties;
+    const protectiveDiscount = isProtective && hasLifeLossTrauma ? 0.5 : 1.0;
+
     const inventory = loadSavedGalaxyInventory();
-    for (const [matId, amount] of Object.entries(project.materialCost)) {
-      if (amount) {
+    for (const [matId, baseAmount] of Object.entries(project.materialCost)) {
+      if (baseAmount) {
+        let amount = baseAmount;
+        if (isBold && (project.fieldId === "logistics" || project.fieldId === "sensors")) {
+          amount = Math.ceil(amount * 1.2);
+        }
+        if (isProtective && project.fieldId === "shields") {
+          amount = Math.ceil(amount * 0.75);
+        }
+        amount = Math.ceil(amount * protectiveDiscount);
         inventory[matId as GalaxyMaterialId] += Math.floor(amount * 0.5); // 50% refund
       }
     }
@@ -177,22 +232,87 @@ export function tickResearch(state: StarholdState): StarholdState {
     const now = Date.now();
     if (now >= nextState.research.active.completesAt) {
       const project = RESEARCH_PROJECTS.find(p => p.id === nextState.research.active!.projectId);
-      nextState = {
-        ...nextState,
-        research: {
-          ...nextState.research,
-          completed: [...nextState.research.completed, nextState.research.active.projectId],
-          active: null,
-        }
-      };
+      
       if (project) {
-        const text = {
+        const isCurious = nextState.derived?.commanderBonuses.isCurious;
+        const isCalm = nextState.derived?.commanderBonuses.isCalm;
+        
+        let currentRngState = nextState.globalRngState;
+
+        // Is it experimental? (e.g. requires rift_stone)
+        const isExperimental = !!project.materialCost["rift_stone"];
+
+        let success = true;
+        let text: any = {
           en: `Research completed: ${project.name.en}`,
           hu: `Kutatás befejezve: ${project.name.hu}`,
           de: `Forschung abgeschlossen: ${project.name.de}`,
           ro: `Cercetare finalizată: ${project.name.ro}`,
         };
+
+        if (isExperimental) {
+           const { value: rngVal, nextState: s1 } = nextRandom(currentRngState);
+           currentRngState = s1;
+           nextState.globalRngState = currentRngState;
+
+           let breakthroughChance = 0.7;
+           if (isCurious) breakthroughChance = 0.85;
+
+           if (rngVal <= breakthroughChance) {
+               // Breakthrough
+               text = {
+                 en: `Breakthrough! Research completed: ${project.name.en}`,
+                 hu: `Áttörés! Kutatás befejezve: ${project.name.hu}`,
+                 de: `Durchbruch! Forschung abgeschlossen: ${project.name.de}`,
+                 ro: `Descoperire! Cercetare finalizată: ${project.name.ro}`,
+               };
+           } else {
+               // Catastrophe
+               success = false;
+               text = {
+                 en: `Catastrophe! Experimental research failed: ${project.name.en}`,
+                 hu: `Katasztrófa! A kísérleti kutatás elbukott: ${project.name.hu}`,
+                 de: `Katastrophe! Experimentelle Forschung fehlgeschlagen: ${project.name.de}`,
+                 ro: `Catastrofă! Cercetarea experimentală a eșuat: ${project.name.ro}`,
+               };
+           }
+        }
+
+        if (success) {
+            let nextUnlocked = [...nextState.research.unlockedTechs, project.id];
+            let nextCompleted = [...nextState.research.completed, project.id];
+            let nextCalmBuffs = nextState.research.calmProductionBuffs || 0;
+
+            if (isCalm && (project.fieldId === "logistics" || project.fieldId === "sensors")) {
+                nextCalmBuffs += 1;
+            }
+
+            nextState = {
+              ...nextState,
+              research: {
+                ...nextState.research,
+                completed: nextCompleted,
+                unlockedTechs: nextUnlocked,
+                active: null,
+                calmProductionBuffs: nextCalmBuffs,
+              }
+            };
+        } else {
+            nextState = {
+              ...nextState,
+              research: {
+                ...nextState.research,
+                active: null,
+              }
+            };
+        }
+
         nextState = { ...nextState, alert: text, journal: pushJournal(nextState, text) };
+      } else {
+        nextState = {
+          ...nextState,
+          research: { ...nextState.research, active: null }
+        };
       }
       mutated = true;
     }

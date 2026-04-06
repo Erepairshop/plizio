@@ -12,7 +12,7 @@ import { getModuleIds } from "./registry";
 import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
-import { tickWarroomProduction } from "./warroom";
+import { tickWarRoom } from "./warroom";
 import { tickRepairBay, getRepairSlotCount } from "./repairbay";
 import { applyStarholdCommand } from "./commands";
 import { getEnemyResetTime, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
@@ -29,10 +29,13 @@ import { tickEspionage } from "./espionage/index";
 import { tickResearch } from "./research/engine";
 import { tickSupplyRoutes } from "./supplyroute/engine";
 import { tickCodex } from "./codex/engine";
+import { runMaintenance } from "./maintenance";
 import { tickNotifications, pushNotification } from "./notifications/engine";
 import { tickOfficers } from "./officers/engine";
 import { tickFactionWars } from "./factionwars/engine";
 import { tickExpeditions } from "./expeditions/engine";
+import { spawnTransientNodes, tickFleets } from "./map/engine";
+import { recalculateDerivedState } from "./derived";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
@@ -482,16 +485,14 @@ export function advanceStarholdTick(inputState: StarholdState): StarholdState {
     else if (text.includes("training") || text.includes("unit")) { type = "training"; icon = "Users"; }
     else if (text.includes("phase") || text.includes("cycle") || text.includes("storm") || text.includes("war")) { type = "system"; icon = "Globe"; }
 
-    return pushNotification(nextState, type, nextState.alert, nextState.alert, icon);
+    const finalState = pushNotification(nextState, type, nextState.alert, nextState.alert, icon);
+    return { ...finalState, derived: recalculateDerivedState(finalState) };
   }
-  return nextState;
+  return { ...nextState, derived: recalculateDerivedState(nextState) };
 }
 
 function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
   let state = inputState;
-  if (state.tick % 60 === 0) {
-    state = { ...state, lastActiveAt: Date.now() };
-  }
   if (!isDemoChapter(state) && state.repairChallenge.active) {
     state = {
       ...state,
@@ -1127,7 +1128,7 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
                                   tickUpgrades(
                                     tickRepairBay(
                                       applyStarholdEvents(
-                                        tickWarroomProduction({
+                                        tickWarRoom({
                                           ...threatResult.nextState,
                                           waveRecoveryCalmTicks: nextRecoveryCalmTicks,
                                         }),
@@ -1153,30 +1154,34 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
 
   return stabilizeContinuationTick(
     state,
-    checkStarholdMilestones(
-      tickExpeditions(
-        tickFactionWars(
-          tickOfficers(
-            tickCommanderProfile(
-              tickDilemmaSpawn(
-                tickDilemmaEffects(
-                  tickGalaxyCycle(
-                    tickFactionReputation(
-                      tickWorldLevel(
-                        tickBattle(
-                          tickTradeSystem(
-                            tickSupplyRoutes(
-                              tickWeeklyMission(
-                                tickEspionage(
-                                  tickResearch(
-                                    tickCodex(
-                                      tickUpgrades(
-                                        tickRepairBay(
-                                          applyStarholdEvents(
-                                            tickWarroomProduction({
-                                              ...threatResult.nextState,
-                                              waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                            })
+    tickFleets(
+      spawnTransientNodes(
+        checkStarholdMilestones(
+          tickExpeditions(
+            tickFactionWars(
+              tickOfficers(
+                tickCommanderProfile(
+                  tickDilemmaSpawn(
+                    tickDilemmaEffects(
+                      tickGalaxyCycle(
+                        tickFactionReputation(
+                          tickWorldLevel(
+                            tickBattle(
+                              tickTradeSystem(
+                                tickSupplyRoutes(
+                                  tickWeeklyMission(
+                                    tickEspionage(
+                                      tickResearch(
+                                        tickCodex(
+                                          tickUpgrades(
+                                            tickRepairBay(
+                                              applyStarholdEvents(
+                                                tickWarRoom({
+                                                  ...threatResult.nextState,
+                                                  waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                                })
+                                              )
+                                            )
                                           )
                                         )
                                       )

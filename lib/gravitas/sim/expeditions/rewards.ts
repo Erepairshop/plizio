@@ -92,7 +92,7 @@ export function giveExpeditionRewards(
   if (exp.crewProfile === "support_heavy") rareChance += 0.1; // Better at salvaging
   
   // Avatar reckless effect
-  const isReckless = !!state.battleState.avatarCombat.innateBonus?.tactics;
+  const isReckless = state.derived?.commanderBonuses.isReckless;
   if (isReckless && exp.routeProfile === "black_route") {
     rareChance += 0.1;
   }

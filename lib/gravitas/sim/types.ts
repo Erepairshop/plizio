@@ -18,6 +18,7 @@ export interface StarholdResources {
   morale: number;
   signalRange: number;
   supplyFlow: number;
+  antimatter: number;
 }
 
 export interface StarholdMarks {
@@ -200,11 +201,63 @@ export interface StarholdRepairChallengeState {
   unlocksAvatarPrep: boolean;
 }
 
+export interface StarholdDerivedState {
+  globalMultipliers: {
+    production: number;
+    research: number;
+    repair: number;
+    expRisk: number;
+    tradeYield: number;
+    intelYield: number;
+  };
+  factionEffects: Record<string, { tradeRisk: number; expRisk: number; intelRisk: number; tradeYield: number }>;
+  commanderBonuses: {
+    isCurious: boolean;
+    isBold: boolean;
+    isProtective: boolean;
+    isCalm: boolean;
+    isReckless: boolean;
+  };
+  productionMultipliers: {
+    supply: number;
+    power: number;
+  };
+  tradeModifiers: {
+    taxRate: number;
+    isEmbargoed: boolean;
+  };
+  combatModifiers: {
+    bonusFirepower: number;
+    bonusArmor: number;
+    bonusShield: number;
+  };
+  maxAntimatter: number;
+}
+
+export interface StarholdArchiveState {
+  expiredMapNodes: import("./map/types").MapNode[];
+  completedFleets: import("./map/types").FleetMovement[];
+  completedExpeditions: import("./expeditions/types").ActiveExpedition[];
+  completedTrades: import("./trade/types").ActiveTrade[];
+  completedMissions: import("./espionage/types").EspionageMission[];
+  battleHistory: import("./battle/types").BattleHistoryEntry[];
+}
+
 export interface StarholdState {
   globalRngState: number;
   tick: number;
   phase: StarholdPhase;
   chapter: StarholdChapterId;
+  level: number;
+  experience: number;
+  endgame: {
+    isZenithUnlocked: boolean;
+    zenithHolder: string | null;
+    zenithHoldTimeSeconds: number;
+    galacticLeader: string | null;
+    imperialTaxRate: number;
+    embargoedPlayers: string[];
+  };
   resources: StarholdResources;
   marks: StarholdMarks;
   anomalies: StarholdAnomaly[];
@@ -267,6 +320,7 @@ export interface StarholdState {
   warRoom: import("./warroom/types").WarRoomState;
   repairBay: import("./repairbay/types").RepairBayState;
   lastActiveAt: number;
+  offlineSummary: import("./offlineProgress").OfflineProgressReport | null;
   moduleLevels: {
     reactor: number;
     logistics: number;
@@ -300,6 +354,18 @@ export interface StarholdState {
   factionWars: import("./factionwars/types").FactionWarState;
   /** Deep Space Expeditions */
   expeditions: import("./expeditions/types").ExpeditionState;
+  /** Galaxy Map System */
+  galaxy: import("./map/types").GalaxyMapState;
+  statistics: {
+    trauma: {
+      agentsLost: number;
+      expeditionCasualties: number;
+      cargoSeized: number;
+      ambushesSuffered: number;
+    };
+  };
+  archive: StarholdArchiveState;
+  derived?: StarholdDerivedState;
 }
 
 export interface ModuleUpgradeSlot {

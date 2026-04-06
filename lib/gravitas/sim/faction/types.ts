@@ -10,6 +10,10 @@ export interface FactionRelations {
 export interface FactionReputationState {
   /** -100 to +100 per faction */
   reputation: Record<FactionId, number>;
+  /** Derived status, updated during ticks or events */
+  status: Record<FactionId, ReputationTier>;
+  /** Faction resources for events/diplomacy */
+  resources: Record<FactionId, number>;
   /** Last time natural drift was applied (Date.now()) */
   lastDriftAt: number;
 }

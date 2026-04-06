@@ -10,6 +10,20 @@ export function createInitialFactionReputation(): FactionReputationState {
       synthoid: 0,
       noma: 0,
     },
+    status: {
+      korgath: "neutral",
+      velari: "neutral",
+      drex: "neutral",
+      synthoid: "neutral",
+      noma: "neutral",
+    },
+    resources: {
+      korgath: 1000,
+      velari: 1000,
+      drex: 1000,
+      synthoid: 1000,
+      noma: 1000,
+    },
     lastDriftAt: Date.now(),
   };
 }

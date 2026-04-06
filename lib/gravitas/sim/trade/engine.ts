@@ -218,8 +218,8 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
   let mutated = false;
   let currentRngState = state.globalRngState;
 
-  const isProtective = !!state.battleState.avatarCombat.innateBonus?.inspiration;
-  const isBold = !!state.battleState.avatarCombat.innateBonus?.firepower;
+  const isProtective = state.derived?.commanderBonuses.isProtective;
+  const isBold = state.derived?.commanderBonuses.isBold;
 
   // 1. Market State Cycle (every 24h roughly)
   if (now - nextState.tradeSystem.marketStateUpdatedAt > 24 * 60 * 60 * 1000) {
@@ -286,10 +286,26 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
       mutated = true;
       trade.status = "completed";
 
+      // Protective avatar trait check (+10% yield from Allied factions)
+      let finalAmount = trade.offer.amountOffered;
+      const isProtective = !!nextState.battleState.avatarCombat.innateBonus?.inspiration;
+      const repTier = getReputationTier(nextState.factionReputation.reputation[trade.offer.factionId] ?? 0);
+      if (isProtective && repTier === "allied") {
+        finalAmount = Math.floor(finalAmount * 1.1);
+      }
+
+      if (nextState.endgame.embargoedPlayers.includes("local_player")) {
+        finalAmount = 0;
+      } else {
+        finalAmount = Math.floor(finalAmount * (1 - nextState.endgame.imperialTaxRate));
+      }
+
       // Give goods
       const inventory = loadSavedGalaxyInventory();
-      inventory[trade.offer.materialOffered] = (inventory[trade.offer.materialOffered] ?? 0) + trade.offer.amountOffered;
-      saveGalaxyInventory(inventory);
+      if (finalAmount > 0) {
+        inventory[trade.offer.materialOffered] = (inventory[trade.offer.materialOffered] ?? 0) + finalAmount;
+        saveGalaxyInventory(inventory);
+      }
 
       // Rep change
       const nextReputation = applyReputationChange(
@@ -302,10 +318,10 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
       nextState.factionReputation.reputation = nextReputation;
 
       const text = {
-        en: `Shipment arrived from ${trade.offer.factionId}. +${trade.offer.amountOffered} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
-        hu: `Szállítmány megérkezett innen: ${trade.offer.factionId}. +${trade.offer.amountOffered} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
-        de: `Lieferung von ${trade.offer.factionId} eingetroffen. +${trade.offer.amountOffered} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
-        ro: `Transport sosit de la ${trade.offer.factionId}. +${trade.offer.amountOffered} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
+        en: `Shipment arrived from ${trade.offer.factionId}. +${finalAmount} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
+        hu: `Szállítmány megérkezett innen: ${trade.offer.factionId}. +${finalAmount} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
+        de: `Lieferung von ${trade.offer.factionId} eingetroffen. +${finalAmount} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
+        ro: `Transport sosit de la ${trade.offer.factionId}. +${finalAmount} ${trade.offer.materialOffered.split('_')[0].toUpperCase()}`,
       };
       nextState.journal = pushJournal(nextState, text);
       nextState.alert = text;
@@ -320,6 +336,11 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
     if (isCheckTime) {
       let baseRisk = trade.offer.routeType === "local" ? 0 : trade.offer.routeType === "sector" ? 0.05 : trade.offer.routeType === "deep_sector" ? 0.15 : 0.3;
       if (trade.offer.partnerType === "smuggler") baseRisk += 0.1;
+      
+      const rep = nextState.factionReputation.reputation[trade.offer.factionId] ?? 0;
+      if (getReputationTier(rep) === "hostile") {
+          baseRisk = 0.95; // Extreme risk for hostile factions
+      }
       
       // Espionage intel lowers risk
       const intelRiskReduction = Math.min(0.5, nextState.espionage.totalIntel / 1000); 
@@ -349,6 +370,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
         } else if (eventRoll < seizedChance && trade.offer.partnerType === "smuggler") {
           // Seized (Total Loss)
           trade.status = "seized";
+          nextState.statistics.trauma.cargoSeized += 1;
 
           if (isBold) {
              nextState.factionReputation.reputation = applyReputationChange(
@@ -447,7 +469,15 @@ export function acceptTrade(state: StarholdState, offerId: string): StarholdStat
   if (durationMs === 0) {
     // Immediate delivery for local routes
     newActiveTrade.status = "completed";
-    inventory[offer.materialOffered] = (inventory[offer.materialOffered] ?? 0) + offer.amountOffered;
+
+    let finalAmount = offer.amountOffered;
+    const isProtective = !!state.battleState.avatarCombat.innateBonus?.inspiration;
+    const repTier = getReputationTier(state.factionReputation.reputation[offer.factionId] ?? 0);
+    if (isProtective && repTier === "allied") {
+      finalAmount = Math.floor(finalAmount * 1.1);
+    }
+
+    inventory[offer.materialOffered] = (inventory[offer.materialOffered] ?? 0) + finalAmount;
     saveGalaxyInventory(inventory);
 
     const nextReputation = applyReputationChange(
@@ -460,10 +490,10 @@ export function acceptTrade(state: StarholdState, offerId: string): StarholdStat
     nextState.factionReputation.reputation = nextReputation;
 
     const text = {
-      en: `Local trade completed instantly. +${offer.amountOffered} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
-      hu: `Helyi üzlet azonnal teljesítve. +${offer.amountOffered} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
-      de: `Lokaler Handel sofort abgeschlossen. +${offer.amountOffered} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
-      ro: `Comerț local finalizat instantaneu. +${offer.amountOffered} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
+      en: `Local trade completed instantly. +${finalAmount} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
+      hu: `Helyi üzlet azonnal teljesítve. +${finalAmount} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
+      de: `Lokaler Handel sofort abgeschlossen. +${finalAmount} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
+      ro: `Comerț local finalizat instantaneu. +${finalAmount} ${offer.materialOffered.split('_')[0].toUpperCase()}`,
     };
     nextState.journal = pushJournal(nextState, text);
     nextState.alert = text;
@@ -502,6 +532,7 @@ export function negotiateTrade(state: StarholdState, offerId: string, intensity:
 
   const isProtective = !!state.battleState.avatarCombat.innateBonus?.inspiration;
   const isCalm = !!state.battleState.avatarCombat.innateBonus?.barrier;
+  const isBold = !!state.battleState.avatarCombat.innateBonus?.firepower;
 
   let successChance = intensity === "bargain" ? 0.7 : 0.4;
   
@@ -510,6 +541,7 @@ export function negotiateTrade(state: StarholdState, offerId: string, intensity:
   if (offer.partnerType === "faction_envoy") successChance += 0.1; // More reasonable
   
   if (isProtective && intensity === "hardball") successChance -= 0.10;
+  if (isBold && intensity === "hardball") successChance += 0.15; // Bold gives +15% to aggressive negotiation
 
   const rep = state.factionReputation.reputation[offer.factionId] ?? 0;
   if (rep > 50) successChance += 0.1;
@@ -555,12 +587,16 @@ export function negotiateTrade(state: StarholdState, offerId: string, intensity:
     if (rOffend < offendChance) {
       // Offended, offer revoked
       const nextOffers = state.tradeSystem.offers.filter(o => o.id !== offerId);
+      
+      // Bold penalty is severe if rejected (increases war risk)
+      const repPenalty = (isBold && intensity === "hardball") ? -15 : -2;
+
       nextState = {
         ...nextState,
         tradeSystem: { ...nextState.tradeSystem, offers: nextOffers },
         factionReputation: {
           ...nextState.factionReputation,
-          reputation: applyReputationChange(nextState.factionReputation.reputation, offer.factionId, -2, "trade_rejected", nextState)
+          reputation: applyReputationChange(nextState.factionReputation.reputation, offer.factionId, repPenalty, "trade_rejected", nextState)
         }
       };
       text = {
