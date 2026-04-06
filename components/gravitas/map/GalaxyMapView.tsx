@@ -443,10 +443,6 @@ export default function GalaxyMapView({
   0%, 100% { opacity: 0.12; }
   50% { opacity: 0.55; }
 }
-@keyframes gaugeScroll {
-  from { transform: translateX(0); }
-  to { transform: translateX(6px); }
-}
 @keyframes baseScanRing {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
@@ -734,7 +730,7 @@ export function FleetStatusStrip({
   );
 }
 
-/* ── Antimatter Gauge HUD ────────────────────────────────────── */
+/* ── Antimatter Gauge HUD (compact chip style) ──────────────── */
 
 export function AntimatterGauge({
   current,
@@ -747,96 +743,38 @@ export function AntimatterGauge({
   const isLow = pct < 0.2;
   const isCritical = pct < 0.1;
 
+  const color = isCritical ? "text-red-400" : isLow ? "text-amber-400" : "text-purple-400";
+  const barBg = isCritical
+    ? "bg-gradient-to-r from-red-600 to-orange-500"
+    : isLow
+      ? "bg-gradient-to-r from-orange-500 to-amber-500"
+      : "bg-gradient-to-r from-purple-600 to-purple-400";
+
   return (
     <div className="absolute top-3 left-3 z-10 select-none pointer-events-none">
-      <div className="relative w-52 rounded-lg overflow-hidden border border-purple-500/25 bg-black/75 backdrop-blur-sm">
-        {/* Header */}
-        <div className="flex items-center gap-2 px-3 pt-2 pb-1">
-          <Fuel
-            className={`w-4 h-4 drop-shadow-[0_0_6px_rgba(168,85,247,0.6)] ${
-              isCritical ? "text-red-400" : "text-purple-400"
-            }`}
-          />
-          <span className="text-[9px] font-black tracking-[0.2em] uppercase text-purple-300/70">
-            Antimatter
-          </span>
-        </div>
-
-        {/* Gauge bar */}
-        <div className="px-3 pb-1">
-          <div className="relative h-5 rounded-sm overflow-hidden bg-purple-950/50 border border-purple-500/15">
-            {/* Fill */}
+      <div
+        className={`flex items-center gap-1.5 px-2 py-1 rounded-xl border bg-black/60 backdrop-blur-sm ${
+          isCritical
+            ? "border-red-500/30 shadow-[0_0_10px_rgba(239,68,68,0.12)]"
+            : "border-purple-500/20"
+        }`}
+      >
+        <Fuel className={`w-3 h-3 shrink-0 ${color} drop-shadow-[0_0_4px_rgba(168,85,247,0.5)]`} />
+        <div className="flex flex-col gap-0.5 min-w-[52px]">
+          <div className="flex items-baseline gap-1">
+            <span className={`text-[11px] font-black tabular-nums ${color} ${isCritical ? "animate-pulse" : ""}`}>
+              {Math.floor(current)}
+            </span>
+            <span className="text-[8px] font-mono text-white/25">/{Math.floor(max)}</span>
+          </div>
+          {/* Mini gauge bar */}
+          <div className="relative h-[3px] w-full rounded-full bg-white/8 overflow-hidden">
             <div
-              className="absolute inset-y-0 left-0 transition-all duration-700 ease-out"
-              style={{
-                width: `${pct * 100}%`,
-                background: isCritical
-                  ? "linear-gradient(90deg, #991b1b, #dc2626, #f97316)"
-                  : isLow
-                    ? "linear-gradient(90deg, #92400e, #f97316, #d97706)"
-                    : "linear-gradient(90deg, #581c87, #7c3aed, #a855f7, #c084fc)",
-              }}
-            >
-              {/* Energy pulse overlay */}
-              <div
-                className="absolute inset-0 opacity-30"
-                style={{
-                  background:
-                    "repeating-linear-gradient(90deg, transparent 0px, transparent 4px, rgba(255,255,255,0.12) 4px, rgba(255,255,255,0.12) 6px)",
-                  animation: "gaugeScroll 1.5s linear infinite",
-                }}
-              />
-            </div>
-
-            {/* Glow line at fill edge */}
-            {pct > 0.02 && (
-              <div
-                className="absolute top-0 bottom-0 w-[2px] transition-all duration-700"
-                style={{
-                  left: `${pct * 100}%`,
-                  boxShadow: isCritical
-                    ? "0 0 10px 3px rgba(249,115,22,0.9)"
-                    : "0 0 10px 3px rgba(168,85,247,0.9)",
-                }}
-              />
-            )}
-
-            {/* Cell dividers */}
-            {[0.2, 0.4, 0.6, 0.8].map((p) => (
-              <div
-                key={p}
-                className="absolute top-0 bottom-0 w-px bg-purple-300/8"
-                style={{ left: `${p * 100}%` }}
-              />
-            ))}
+              className={`absolute inset-y-0 left-0 rounded-full ${barBg} transition-all duration-500`}
+              style={{ width: `${pct * 100}%` }}
+            />
           </div>
         </div>
-
-        {/* Value readout */}
-        <div className="px-3 pb-2 flex items-baseline justify-between">
-          <span
-            className={`text-sm font-mono font-black tabular-nums ${
-              isCritical
-                ? "text-red-400 animate-pulse"
-                : isLow
-                  ? "text-amber-400"
-                  : "text-purple-200"
-            }`}
-          >
-            {Math.floor(current)}
-          </span>
-          <span className="text-[10px] font-mono text-white/25">/ {Math.floor(max)}</span>
-        </div>
-
-        {/* Ambient glow */}
-        <div
-          className="absolute -inset-px rounded-lg pointer-events-none"
-          style={{
-            boxShadow: isCritical
-              ? "inset 0 0 14px rgba(239,68,68,0.18), 0 0 24px rgba(239,68,68,0.08)"
-              : "inset 0 0 14px rgba(168,85,247,0.1), 0 0 24px rgba(168,85,247,0.05)",
-          }}
-        />
       </div>
     </div>
   );
