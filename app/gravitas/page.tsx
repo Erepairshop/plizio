@@ -24,8 +24,9 @@ import { GRAVITAS_TEXT } from "@/lib/gravitas/sim/content";
 import AwakeningCeremony from "@/components/gravitas/AwakeningCeremony";
 import { getStarholdModifiers } from "@/lib/gravitas/sim/modifiers";
 import { normalizeContinuationState } from "@/lib/gravitas/sim/continuation";
-import GalaxyInteriorView from "@/components/gravitas/GalaxyInteriorView";
+import GalaxyMapView from "@/components/gravitas/map/GalaxyMapView";
 import GravitasMaterialStrip from "@/components/gravitas/GravitasMaterialStrip";
+import GravitasHUD from "@/components/gravitas/GravitasHUD";
 import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
 import {
   AvatarBaseChip,
@@ -53,6 +54,7 @@ import BattleReplayPanel from "@/components/gravitas/BattleReplayPanel";
 import FactionWarsPanel from "@/components/gravitas/FactionWarsPanel";
 import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfflineBriefingModal from "@/components/gravitas/OfflineBriefingModal";
+import CommanderTacticalOverview from "@/components/gravitas/CommanderTacticalOverview";
 import { processOfflineProgress, type OfflineProgressReport } from "@/lib/gravitas/sim/offlineProgress";
 import { FlaskConical, Eye, ArrowLeftRight, Users, Calendar, Book, Bell, Swords, Compass } from "lucide-react";
 
@@ -142,6 +144,7 @@ export default function GravitasPage() {
   const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
   const [movePickerOpen, setMovePickerOpen] = useState(false);
   const [avatarBaseOpen, setAvatarBaseOpen] = useState(false);
+  const [commanderOverviewOpen, setCommanderOverviewOpen] = useState(false);
   const [layoutEditModule, setLayoutEditModule] = useState<MoveableModuleId | null>(null);
   const [offlineReport, setOfflineReport] = useState<OfflineProgressReport | null>(null);
   const [interiorView, setInteriorView] = useState<StarholdModuleId | "galaxy" | "warroom" | "research" | "espionage" | "trade" | "repairbay" | "weekly" | "codex" | "factionwars" | "expeditions" | null>(null);
@@ -153,6 +156,10 @@ export default function GravitasPage() {
   const [showReplay, setShowReplay] = useState(false);
   const [factionWarSetup, setFactionWarSetup] = useState<{ war: import("@/lib/gravitas/sim/factionwars/types").FactionWar, side: "attacker" | "defender" } | null>(null);
   const [isPageVisible, setIsPageVisible] = useState(true);
+  const antimatterGauge = useMemo(() => ({
+    current: state.resources.antimatter,
+    max: state.derived?.maxAntimatter ?? 100,
+  }), [state.derived?.maxAntimatter, state.resources.antimatter]);
 
   const handleExecuteFactionWarStrike = useCallback((army: import("@/lib/gravitas/sim/battle/types").BattleArmy, allocation: import("@/lib/gravitas/sim/battle/avatarCombat").AvatarCombatAllocation) => {
     if (!factionWarSetup) return;
@@ -1612,9 +1619,27 @@ export default function GravitasPage() {
             </div>
           </div>
         </div>
-        {/* Row 2: Materials — single row */}
-        <div className="flex items-center gap-1 sm:gap-1.5">
-          <GravitasMaterialStrip lang={lang} />
+        <div className="flex w-full flex-col gap-2">
+          <GravitasHUD
+            power={state.resources.power}
+            materials={state.resources.supply}
+            stability={state.resources.stability}
+            activation={Math.floor(state.resources.activation)}
+            entropy={state.entropy}
+            antimatter={antimatterGauge.current}
+            antimatterMax={antimatterGauge.max}
+            labels={{
+              power: localize({ en: "Power", hu: "Energia", de: "Energie", ro: "Putere" }),
+              materials: localize({ en: "Supply", hu: "Ellátmány", de: "Nachschub", ro: "Aprovizionare" }),
+              stability: localize({ en: "Stability", hu: "Stabilitás", de: "Stabilität", ro: "Stabilitate" }),
+              activation: localize({ en: "Activation", hu: "Aktiválás", de: "Aktivierung", ro: "Activare" }),
+              entropy: localize({ en: "Entropy", hu: "Entrópia", de: "Entropie", ro: "Entropie" }),
+              antimatter: localize({ en: "Antimatter", hu: "Antianyag", de: "Antimaterie", ro: "Antimaterie" }),
+            }}
+          />
+          <div className="flex items-center gap-1 sm:gap-1.5">
+            <GravitasMaterialStrip lang={lang} />
+          </div>
         </div>
       </div>
 
@@ -2017,13 +2042,19 @@ export default function GravitasPage() {
                 transition={{ duration: 0.25, ease: "easeOut" }}
                 className="absolute inset-0 z-[28] overflow-hidden rounded-[inherit] bg-[linear-gradient(180deg,#06101c_0%,#081425_42%,#040914_100%)]"
               >
-                <GalaxyInteriorView
+                <GalaxyMapView
                   lang={lang}
-                  state={state}
-                  scoutReports={state.battleState.scoutReports}
-                  onLaunchStrike={handleLaunchStrike}
-                  onOpenScout={handleOpenScout}
-                  onClose={() => setInteriorView(null)}
+                  galaxyState={state.galaxy}
+                  antimatter={antimatterGauge}
+                  onNodeClick={(node) => {
+                    if (node.type === "pve_base") {
+                      setModuleInfoOpen(true);
+                    }
+                  }}
+                  onBaseClick={() => {
+                    setSelectedModule("core");
+                    setModuleInfoOpen(true);
+                  }}
                 />
               </motion.div>
             )}
@@ -2234,6 +2265,12 @@ export default function GravitasPage() {
             )}
           </AnimatePresence>
 
+          <CommanderTacticalOverview
+            open={commanderOverviewOpen}
+            onClose={() => setCommanderOverviewOpen(false)}
+            lang={lang}
+          />
+
           <div className="absolute right-3 top-16 z-[32] flex flex-col gap-2">
             <MapMiniButton
               icon={<LayoutGrid size={14} />}
@@ -2292,6 +2329,11 @@ export default function GravitasPage() {
             icon={<Move size={14} />}
             active={movePickerOpen}
             onClick={handleToggleMovePicker}
+          />
+          <MapMiniButton
+            icon={<Book size={14} />}
+            active={commanderOverviewOpen}
+            onClick={() => setCommanderOverviewOpen(true)}
           />
           </div>
 

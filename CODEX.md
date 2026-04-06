@@ -61,6 +61,8 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   - `npm run lint`
   - `npm run preflight`
   - `npm run typecheck`
+- Ha a TypeScript check memóriaigényes vagy elfogy a heap:
+  - `NODE_OPTIONS="--max-old-space-size=4096" npx tsc --noEmit --pretty false`
 - Jelenlegi jelentésük:
   - `npm run lint`: gyors szerkezeti ellenőrzés, most főleg duplikált object key-k kiszúrására
   - `npm run preflight`: `lint` + `typecheck`

@@ -64,7 +64,8 @@ Minden feladat végén:
 | `components/gravitas/GravitasInteriors.tsx` | ~380 | Modul belső nézetek (reactor, sensor, core, logistics) + ModuleArtOverlay |
 | `components/gravitas/ModuleInteriorPanel.tsx` | ~225 | Egyedi modul panel (level, integrity, upgrade) — beágyazva minden interior view-ba |
 | `components/gravitas/ModuleUpgradePanel.tsx` | ~207 | Összesített modul fejlesztés panel |
-| `components/gravitas/GalaxyInteriorView.tsx` | ~700 | Galaxis térkép (meteorit bányászat) |
+| `components/gravitas/map/GalaxyMapView.tsx` | ~856 | Új backend-alapú galaxis térkép (pan/zoom, fleet, antimatter HUD) |
+| `components/gravitas/GalaxyInteriorView.tsx` | ~700 | Legacy galaxis térkép (meteorit bányászat, fallback) |
 | `components/gravitas/GravitasMaterialStrip.tsx` | ~80 | HUD anyag csík (6 meteor anyag) |
 | `components/gravitas/warroom/` | mappa | WarRoomPanel.tsx, WarRoomUnitCard.tsx |
 | `components/gravitas/GravitasShop.tsx` | ~230 | Bolt (star shop) |
