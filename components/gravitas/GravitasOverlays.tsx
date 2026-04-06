@@ -49,6 +49,7 @@ export default function GravitasOverlays(props: Props) {
       <AnimatePresence>
         {resourceHelpOpen && (
           <motion.div
+            key={`resource-help-${resourceHelpOpen}`}
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
@@ -95,6 +96,7 @@ export default function GravitasOverlays(props: Props) {
         )}
         {avatarBaseOpen && state.avatarProfile && (
           <motion.div
+            key="avatar-base-modal"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
@@ -159,6 +161,7 @@ export default function GravitasOverlays(props: Props) {
         )}
         {quickActionsOpen && (
           <motion.div
+            key="quick-actions-modal"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
@@ -229,6 +232,7 @@ export default function GravitasOverlays(props: Props) {
         )}
         {activePanel && (
           <motion.div
+            key={`active-panel-${activePanel}`}
             initial={{ y: "100%" }}
             animate={{ y: 0 }}
             exit={{ y: "100%" }}

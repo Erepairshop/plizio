@@ -4,19 +4,16 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { CSSProperties, PointerEvent as ReactPointerEvent } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import {
-  AlertTriangle,
+  Fuel,
   Home,
-  MapPin,
   Minus,
-  Orbit,
   Plus,
   RotateCcw,
   ShieldAlert,
   Sparkles,
   X,
-  Zap,
 } from "lucide-react";
-import type { GalaxyMapState, FleetMovement, MapNode, MapNodeType } from "@/lib/gravitas/sim/map/types";
+import type { GalaxyMapState, FleetMovement, MapNode } from "@/lib/gravitas/sim/map/types";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
 
 type Lang = "en" | "hu" | "de" | "ro";
@@ -24,9 +21,12 @@ type Lang = "en" | "hu" | "de" | "ro";
 type GalaxyMapViewProps = {
   lang: Lang;
   galaxyState: GalaxyMapState;
-  antimatter: { current: number; max: number };
   currentTick: number;
+  antimatter: { current: number; max: number };
   onNodeClick?: (node: MapNode) => void;
+  onNodeCollect?: (node: MapNode) => void;
+  onNodeAttack?: (node: MapNode) => void;
+  onNodeInspect?: (node: MapNode) => void;
   onFleetClick?: (fleet: FleetMovement) => void;
   onBaseClick?: () => void;
   className?: string;
@@ -49,6 +49,15 @@ type NodeVisual = {
   assetSrc: string;
   label: LocalizedString;
   toneClass: string;
+};
+
+type NodeAction = {
+  id: string;
+  label: string;
+  icon: React.ReactNode;
+  toneClass: string;
+  onClick: () => void;
+  disabled?: boolean;
 };
 
 const WORLD_SIZE = 12000;
@@ -81,8 +90,20 @@ function formatDurationMs(ms: number) {
   return `${Math.ceil(ms / 1000)}s`;
 }
 
+function formatTickDuration(ticks: number) {
+  return formatDurationMs(Math.max(0, ticks) * 1000);
+}
+
+function formatDecimal(value: number, digits = 1) {
+  return Number.isFinite(value) ? value.toFixed(digits) : "0.0";
+}
+
 function formatNumber(value: number) {
-  return new Intl.NumberFormat("en-US", { maximumFractionDigits: 2 }).format(value);
+  return new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 }).format(value);
+}
+
+function shortId(value: string, length = 12) {
+  return value.length > length ? `${value.slice(0, length)}…` : value;
 }
 
 function getNodeLabel(node: MapNode): LocalizedString {
@@ -212,9 +233,12 @@ function getFleetProgress(fleet: FleetMovement, now: number) {
 export default function GalaxyMapView({
   lang,
   galaxyState,
-  antimatter,
   currentTick,
+  antimatter,
   onNodeClick,
+  onNodeCollect,
+  onNodeAttack,
+  onNodeInspect,
   onFleetClick,
   onBaseClick,
   className,
@@ -255,6 +279,8 @@ export default function GalaxyMapView({
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [viewport, setViewport] = useState({ width: 1, height: 1 });
   const [isPanning, setIsPanning] = useState(false);
+  const zoomRef = useRef(zoom);
+  const offsetRef = useRef(offset);
 
   const base = galaxyState.baseCoordinates ?? { x: 0, y: 0 };
 
@@ -283,6 +309,14 @@ export default function GalaxyMapView({
     const centerY = viewport.height / 2 - WORLD_CENTER * zoom;
     setOffset({ x: centerX, y: centerY });
   }, [viewport.width, viewport.height]);
+
+  useEffect(() => {
+    zoomRef.current = zoom;
+  }, [zoom]);
+
+  useEffect(() => {
+    offsetRef.current = offset;
+  }, [offset]);
 
   const visibleStars = useMemo(
     () =>
@@ -352,36 +386,120 @@ export default function GalaxyMapView({
 
   const selectedNode = useMemo(() => nodeVisuals.find((entry) => entry.node.id === selectedNodeId) ?? null, [nodeVisuals, selectedNodeId]);
   const selectedFleet = useMemo(() => fleetVisuals.find((entry) => entry.fleet.id === selectedFleetId) ?? null, [fleetVisuals, selectedFleetId]);
+  const selectedNodeDistance = useMemo(
+    () => (selectedNode ? Math.hypot(selectedNode.node.x - base.x, selectedNode.node.y - base.y) : 0),
+    [base.x, base.y, selectedNode],
+  );
+  const selectedFleetTarget = useMemo(
+    () => (selectedFleet ? galaxyState.transientNodes.find((item) => item.id === selectedFleet.fleet.targetNodeId) ?? null : null),
+    [galaxyState.transientNodes, selectedFleet],
+  );
+  const selectedFleetRouteDistance = useMemo(
+    () => (selectedFleetTarget ? Math.hypot(selectedFleetTarget.x - base.x, selectedFleetTarget.y - base.y) : 0),
+    [base.x, base.y, selectedFleetTarget],
+  );
+  const selectedFleetTotalTicks = useMemo(
+    () => (selectedFleet ? Math.max(0, selectedFleet.fleet.arrivalTime - selectedFleet.fleet.departureTime) : 0),
+    [selectedFleet],
+  );
+  const selectedFleetMiningTicks = useMemo(
+    () => (selectedFleet?.fleet.miningCompletesAt ? Math.max(0, selectedFleet.fleet.miningCompletesAt - selectedFleet.fleet.arrivalTime) : 0),
+    [selectedFleet],
+  );
+  const selectedNodeActions = useMemo<NodeAction[]>(() => {
+    if (!selectedNode) return [];
+    const fallbackInspect = () => onNodeInspect?.(selectedNode.node) ?? onNodeClick?.(selectedNode.node);
+    const fallbackCollect = () => onNodeCollect?.(selectedNode.node) ?? fallbackInspect();
+    const fallbackAttack = () => onNodeAttack?.(selectedNode.node) ?? fallbackInspect();
+
+    if (selectedNode.node.type === "meteorite") {
+      return [
+        {
+          id: "collect",
+          label: localize(lang, { en: "Collect", hu: "Gyűjtés", de: "Sammeln", ro: "Colectează" }),
+          icon: <Fuel size={12} />,
+          toneClass: "text-emerald-100 border-emerald-300/18 bg-emerald-300/10",
+          onClick: fallbackCollect,
+        },
+        {
+          id: "inspect",
+          label: localize(lang, { en: "Inspect", hu: "Vizsgálat", de: "Untersuchen", ro: "Inspectează" }),
+          icon: <Sparkles size={12} />,
+          toneClass: "text-cyan-100 border-cyan-300/18 bg-cyan-300/10",
+          onClick: fallbackInspect,
+        },
+      ];
+    }
+
+    if (selectedNode.node.type === "pve_base") {
+      return [
+        {
+          id: "attack",
+          label: localize(lang, { en: "Attack", hu: "Támadás", de: "Angriff", ro: "Atacă" }),
+          icon: <ShieldAlert size={12} />,
+          toneClass: "text-rose-100 border-rose-300/18 bg-rose-300/10",
+          onClick: fallbackAttack,
+        },
+        {
+          id: "inspect",
+          label: localize(lang, { en: "Scout", hu: "Felderítés", de: "Aufklärung", ro: "Recunoaștere" }),
+          icon: <Sparkles size={12} />,
+          toneClass: "text-cyan-100 border-cyan-300/18 bg-cyan-300/10",
+          onClick: fallbackInspect,
+        },
+      ];
+    }
+
+    return [
+      {
+        id: "inspect",
+        label: localize(lang, { en: "Inspect", hu: "Vizsgálat", de: "Untersuchen", ro: "Inspectează" }),
+        icon: <Sparkles size={12} />,
+        toneClass: "text-violet-100 border-violet-300/18 bg-violet-300/10",
+        onClick: fallbackInspect,
+      },
+      {
+        id: "focus",
+        label: localize(lang, { en: "Focus", hu: "Fókusz", de: "Fokus", ro: "Focus" }),
+        icon: <Home size={12} />,
+        toneClass: "text-white/80 border-white/12 bg-white/5",
+        onClick: fallbackInspect,
+      },
+    ];
+  }, [lang, onNodeAttack, onNodeClick, onNodeCollect, onNodeInspect, selectedNode]);
 
   const recenter = useCallback(() => {
     const centerX = viewport.width / 2 - WORLD_CENTER * zoom;
     const centerY = viewport.height / 2 - WORLD_CENTER * zoom;
-    setOffset({ x: centerX, y: centerY });
+    const nextOffset = { x: centerX, y: centerY };
+    offsetRef.current = nextOffset;
+    setOffset(nextOffset);
   }, [viewport.height, viewport.width, zoom]);
 
   const applyZoom = useCallback(
     (nextZoom: number, focusPoint?: { x: number; y: number }) => {
-      const container = containerRef.current;
-      if (!container) {
-        setZoom(clamp(nextZoom, MIN_ZOOM, MAX_ZOOM));
-        return;
-      }
       const clamped = clamp(nextZoom, MIN_ZOOM, MAX_ZOOM);
+      const currentZoom = zoomRef.current;
+      const currentOffset = offsetRef.current;
+
       if (!focusPoint) {
+        zoomRef.current = clamped;
         setZoom(clamped);
         return;
       }
 
-      setOffset((current) => {
-        const worldX = (focusPoint.x - current.x) / zoom;
-        const worldY = (focusPoint.y - current.y) / zoom;
-        const nextOffsetX = focusPoint.x - worldX * clamped;
-        const nextOffsetY = focusPoint.y - worldY * clamped;
-        return { x: nextOffsetX, y: nextOffsetY };
-      });
+      const worldX = (focusPoint.x - currentOffset.x) / currentZoom;
+      const worldY = (focusPoint.y - currentOffset.y) / currentZoom;
+      const nextOffset = {
+        x: focusPoint.x - worldX * clamped,
+        y: focusPoint.y - worldY * clamped,
+      };
+      zoomRef.current = clamped;
+      offsetRef.current = nextOffset;
+      setOffset(nextOffset);
       setZoom(clamped);
     },
-    [zoom],
+    [],
   );
 
   const beginDrag = useCallback((event: ReactPointerEvent<HTMLDivElement>) => {
@@ -440,11 +558,14 @@ export default function GalaxyMapView({
       const mid = { x: (p1.x + p2.x) / 2, y: (p1.y + p2.y) / 2 };
       const distance = Math.max(1, Math.hypot(p1.x - p2.x, p1.y - p2.y));
       const nextZoom = clamp(drag.pinchStartZoom * (distance / drag.pinchStartDistance), MIN_ZOOM, MAX_ZOOM);
-      setZoom(nextZoom);
-      setOffset({
+      const nextOffset = {
         x: mid.x - drag.pinchWorldPoint.x * nextZoom,
         y: mid.y - drag.pinchWorldPoint.y * nextZoom,
-      });
+      };
+      zoomRef.current = nextZoom;
+      offsetRef.current = nextOffset;
+      setZoom(nextZoom);
+      setOffset(nextOffset);
       return;
     }
 
@@ -674,10 +795,10 @@ export default function GalaxyMapView({
 
 
       <div className="absolute right-4 bottom-4 z-[20] flex items-center gap-2 rounded-full border border-white/10 bg-[#08111f]/92 p-1.5 text-white shadow-[0_16px_42px_rgba(0,0,0,0.38)] backdrop-blur-md">
-        <button type="button" onClick={() => applyZoom(zoom + 0.12)} className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-white/5 transition hover:bg-white/10">
+        <button type="button" onClick={() => applyZoom(zoom + 0.12, { x: viewport.width / 2, y: viewport.height / 2 })} className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-white/5 transition hover:bg-white/10">
           <Plus size={16} />
         </button>
-        <button type="button" onClick={() => applyZoom(zoom - 0.12)} className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-white/5 transition hover:bg-white/10">
+        <button type="button" onClick={() => applyZoom(zoom - 0.12, { x: viewport.width / 2, y: viewport.height / 2 })} className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-white/5 transition hover:bg-white/10">
           <Minus size={16} />
         </button>
         <button type="button" onClick={recenter} className="flex h-9 w-9 items-center justify-center rounded-full border border-cyan-300/20 bg-cyan-400/10 text-cyan-100 transition hover:bg-cyan-400/16">
@@ -736,6 +857,21 @@ export default function GalaxyMapView({
                   <p className="text-[11px] leading-snug text-white/68">
                     {localize(lang, getNodeDescription(selectedNode.node))}
                   </p>
+                  <div className="flex flex-wrap gap-1.5">
+                    <span className="rounded-full border border-cyan-300/14 bg-cyan-400/8 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-cyan-100/88">
+                      {localize(lang, { en: "ID", hu: "Azonosító", de: "ID", ro: "ID" })}: {shortId(selectedNode.node.id)}
+                    </span>
+                    <span className="rounded-full border border-white/8 bg-white/5 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-white/65">
+                      {localize(lang, { en: "Owner", hu: "Tulaj", de: "Besitzer", ro: "Proprietar" })}:{" "}
+                      {selectedNode.node.isOccupiedBy ? shortId(selectedNode.node.isOccupiedBy) : localize(lang, { en: "None", hu: "Nincs", de: "Keiner", ro: "Nimeni" })}
+                    </span>
+                    <span className="rounded-full border border-violet-300/14 bg-violet-400/8 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-violet-100/88">
+                      {localize(lang, { en: "Lifetime", hu: "Élettartam", de: "Lebenszeit", ro: "Durată" })}:{" "}
+                      {selectedNode.node.expiresAt <= currentTick
+                        ? localize(lang, { en: "Expired", hu: "Lejárt", de: "Abgelaufen", ro: "Expirat" })
+                        : formatTickDuration(selectedNode.node.expiresAt - currentTick)}
+                    </span>
+                  </div>
                   <div className="grid grid-cols-2 gap-2">
                     <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
                       <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
@@ -762,14 +898,79 @@ export default function GalaxyMapView({
                         : localize(lang, { en: "Free target", hu: "Szabad célpont", de: "Freies Ziel", ro: "Țintă liberă" })}
                     </span>
                     <span className="ml-auto text-white/35">
-                      {formatDurationMs(Math.max(0, (selectedNode.node.expiresAt - currentTick) * 1000))}
+                      {selectedNode.node.expiresAt <= currentTick
+                        ? localize(lang, { en: "Expired", hu: "Lejárt", de: "Abgelaufen", ro: "Expirat" })
+                        : formatTickDuration(selectedNode.node.expiresAt - currentTick)}
                     </span>
                   </div>
+                  <div className="grid grid-cols-2 gap-2">
+                    <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
+                      <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
+                        {localize(lang, { en: "Range", hu: "Távolság", de: "Reichweite", ro: "Distanță" })}
+                      </div>
+                      <div className="mt-1 text-[12px] font-black text-violet-100">
+                        {formatDecimal(selectedNodeDistance, 1)}
+                      </div>
+                    </div>
+                    <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
+                      <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
+                        {localize(lang, { en: "Type", hu: "Típus", de: "Typ", ro: "Tip" })}
+                      </div>
+                      <div className="mt-1 text-[12px] font-black text-amber-100">
+                        {localize(lang, selectedNode.label)}
+                      </div>
+                    </div>
+                  </div>
+                  {selectedNodeActions.length > 0 && (
+                    <div className="mt-2 grid grid-cols-2 gap-2">
+                      {selectedNodeActions.map((action) => (
+                        <button
+                          key={action.id}
+                          type="button"
+                          onClick={action.onClick}
+                          className={`flex items-center justify-center gap-2 rounded-2xl border px-3 py-2 text-[10px] font-black uppercase tracking-[0.18em] transition hover:brightness-110 ${action.toneClass}`}
+                        >
+                          {action.icon}
+                          <span>{action.label}</span>
+                        </button>
+                      ))}
+                    </div>
+                  )}
                 </>
               )}
 
               {selectedFleet && (
                 <>
+                  <p className="text-[11px] leading-snug text-white/68">
+                    {selectedFleetTarget
+                      ? localize(lang, {
+                          en: `Target: ${localize(lang, getNodeLabel(selectedFleetTarget))}`,
+                          hu: `Célpont: ${localize(lang, getNodeLabel(selectedFleetTarget))}`,
+                          de: `Ziel: ${localize(lang, getNodeLabel(selectedFleetTarget))}`,
+                          ro: `Țintă: ${localize(lang, getNodeLabel(selectedFleetTarget))}`,
+                        })
+                      : localize(lang, {
+                          en: "Target coordinates unavailable.",
+                          hu: "A célpont koordinátái nem elérhetők.",
+                          de: "Zielkoordinaten nicht verfügbar.",
+                          ro: "Coordonatele țintei nu sunt disponibile.",
+                        })}
+                  </p>
+                  <div className="flex flex-wrap gap-1.5">
+                    <span className="rounded-full border border-cyan-300/14 bg-cyan-400/8 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-cyan-100/88">
+                      {localize(lang, { en: "ID", hu: "Azonosító", de: "ID", ro: "ID" })}: {shortId(selectedFleet.fleet.id)}
+                    </span>
+                    <span className="rounded-full border border-white/8 bg-white/5 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-white/65">
+                      {localize(lang, { en: "Target", hu: "Cél", de: "Ziel", ro: "Țintă" })}:{" "}
+                      {selectedFleetTarget ? shortId(selectedFleetTarget.id) : localize(lang, { en: "Unknown", hu: "Ismeretlen", de: "Unbekannt", ro: "Necunoscut" })}
+                    </span>
+                    <span className="rounded-full border border-violet-300/14 bg-violet-400/8 px-2 py-1 text-[8px] font-black uppercase tracking-[0.16em] text-violet-100/88">
+                      {localize(lang, { en: "Route", hu: "Útvonal", de: "Route", ro: "Rută" })}:{" "}
+                      {selectedFleet.fleet.status === "returning"
+                        ? localize(lang, { en: "Back", hu: "Vissza", de: "Zurück", ro: "Înapoi" })
+                        : localize(lang, { en: "Outbound", hu: "Kimenő", de: "Hinweg", ro: "Dus" })}
+                    </span>
+                  </div>
                   <div className="grid grid-cols-2 gap-2">
                     <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
                       <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
@@ -784,7 +985,45 @@ export default function GalaxyMapView({
                         {localize(lang, { en: "ETA", hu: "Érkezés", de: "Ankunft", ro: "Sosire" })}
                       </div>
                       <div className="mt-1 text-[12px] font-black text-emerald-100">
-                        {formatDurationMs(Math.max(0, (selectedFleet.fleet.arrivalTime - currentTick) * 1000))}
+                        {formatTickDuration(selectedFleet.fleet.arrivalTime - currentTick)}
+                      </div>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 gap-2">
+                    <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
+                      <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
+                        {localize(lang, { en: "Route", hu: "Útvonal", de: "Route", ro: "Rută" })}
+                      </div>
+                      <div className="mt-1 text-[12px] font-black text-cyan-100">
+                        {selectedFleet.fleet.status === "returning"
+                          ? localize(lang, { en: "Target → Base", hu: "Célpont → Bázis", de: "Ziel → Basis", ro: "Țintă → Bază" })
+                          : localize(lang, { en: "Base → Target", hu: "Bázis → Célpont", de: "Basis → Ziel", ro: "Bază → Țintă" })}
+                      </div>
+                    </div>
+                    <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
+                      <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
+                        {localize(lang, { en: "Travel", hu: "Utazás", de: "Reise", ro: "Călătorie" })}
+                      </div>
+                      <div className="mt-1 text-[12px] font-black text-violet-100">
+                        {formatTickDuration(selectedFleetTotalTicks || selectedFleetMiningTicks || 0)}
+                      </div>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 gap-2">
+                    <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
+                      <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
+                        {localize(lang, { en: "Range", hu: "Távolság", de: "Reichweite", ro: "Distanță" })}
+                      </div>
+                      <div className="mt-1 text-[12px] font-black text-fuchsia-100">
+                        {formatDecimal(selectedFleetRouteDistance, 1)}
+                      </div>
+                    </div>
+                    <div className="rounded-2xl border border-white/8 bg-white/5 p-2.5">
+                      <div className="text-[8px] font-black uppercase tracking-[0.16em] text-white/42">
+                        {localize(lang, { en: "State", hu: "Állapot", de: "Status", ro: "Stare" })}
+                      </div>
+                      <div className="mt-1 text-[12px] font-black text-amber-100">
+                        {localize(lang, selectedFleet.statusLabel)}
                       </div>
                     </div>
                   </div>

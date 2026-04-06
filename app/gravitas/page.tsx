@@ -92,7 +92,7 @@ function moduleIcon(moduleId: StarholdModuleId) {
 }
 
 type Lang = "en" | "hu" | "de" | "ro";
-type ResourceHelpKey = "power" | "supply" | "stability" | "activation" | "entropy" | "hull" | "shield" | "morale" | "signalRange" | "supplyFlow";
+type ResourceHelpKey = "power" | "supply" | "stability" | "activation" | "entropy" | "hull" | "shield" | "morale" | "signalRange" | "supplyFlow" | "antimatter";
 type MoveableModuleId = StarholdModuleId | "repair-bay" | "warroom";
 type QuickActionTone = "default" | "warning" | "danger";
 
@@ -769,6 +769,27 @@ export default function GravitasPage() {
         hu: "Logistics modul fejlesztésével növelhető.",
         de: "Werte das Logistikmodul auf.",
         ro: "Îmbunătățește modulul Logistică.",
+      },
+    },
+    antimatter: {
+      title: { en: "Antimatter", hu: "Antianyag", de: "Antimaterie", ro: "Antimaterie" },
+      body: {
+        en: "Antimatter is the reactor-bound fuel reserve that powers long-range movement, fleet dispatches and advanced station operations.",
+        hu: "Az antianyag a reaktorhoz kötött üzemanyag-tartalék, amely a nagy hatótávú mozgást, a flottaküldéseket és a fejlettebb állomásműveleteket hajtja.",
+        de: "Antimaterie ist die an den Reaktor gebundene Kraftstoffreserve für Langstreckenbewegungen, Flotteneinsätze und fortgeschrittene Stationsaktionen.",
+        ro: "Antimateria este rezerva de combustibil legată de reactor, care alimentează mișcările pe distanțe lungi, misiunile flotei și operațiunile avansate ale stației.",
+      },
+      impact: {
+        en: "If the reactor cell is low, long trips stall and fleet choices become much tighter. If it is full, production stops until fuel is spent.",
+        hu: "Ha a reaktorcella alacsony, a hosszú utak lelassulnak és a flotta-választások szűkösebbek lesznek. Ha tele van, a termelés megáll, amíg el nem költöd az üzemanyagot.",
+        de: "Wenn die Reaktorzelle niedrig ist, stocken Langstreckenreisen und Flottenentscheidungen werden knapper. Ist sie voll, stoppt die Produktion, bis Kraftstoff verbraucht wird.",
+        ro: "Dacă celula reactorului este scăzută, călătoriile lungi se blochează iar alegerile de flotă devin mai restrânse. Dacă este plină, producția se oprește până când combustibilul este consumat.",
+      },
+      fix: {
+        en: "Upgrade the Quantum Reactor, spend fuel on real movement, and keep dispatches balanced so the cell keeps cycling.",
+        hu: "A Kvantum Reaktor fejlesztésével, az üzemanyag tényleges elköltésével és az egyensúlyban tartott küldetésekkel tartható mozgásban a cella.",
+        de: "Werte den Quantreaktor auf, verbrauche Kraftstoff für echte Bewegung und halte Einsätze ausgewogen, damit die Zelle zirkuliert.",
+        ro: "Îmbunătățește Reactorul Cuantic, consumă combustibil pe mișcări reale și păstrează misiunile echilibrate pentru a menține ciclul celulei.",
       },
     },
     stability: {
@@ -2028,12 +2049,24 @@ export default function GravitasPage() {
                 <GalaxyMapView
                   lang={lang}
                   galaxyState={state.galaxy}
-                  antimatter={antimatterGauge}
                   currentTick={state.tick}
+                  antimatter={antimatterGauge}
                   onNodeClick={(node) => {
-                    if (node.type === "pve_base") {
-                      setModuleInfoOpen(true);
-                    }
+                    setModuleInfoOpen(true);
+                    if (node.type === "pve_base") setSelectedModule("core");
+                    else if (node.type === "meteorite") setSelectedModule("logistics");
+                    else setSelectedModule("sensor");
+                  }}
+                  onNodeCollect={() => {
+                    doAction({ type: "SCAVENGE" }, "rgba(16,185,129,0.4)");
+                  }}
+                  onNodeAttack={() => {
+                    setSelectedModule("core");
+                    setModuleInfoOpen(true);
+                  }}
+                  onNodeInspect={(node) => {
+                    setSelectedModule(node.type === "anomaly" ? "sensor" : "logistics");
+                    setModuleInfoOpen(true);
                   }}
                   onBaseClick={() => {
                     setSelectedModule("core");
