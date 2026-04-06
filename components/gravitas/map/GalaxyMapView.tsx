@@ -51,11 +51,11 @@ type NodeVisual = {
   toneClass: string;
 };
 
-const WORLD_SIZE = 4000;
+const WORLD_SIZE = 12000;
 const WORLD_CENTER = WORLD_SIZE / 2;
 /** Backend coords are ±100; scale up for visual spread across the world canvas */
-const COORD_SCALE = 14;
-const MIN_ZOOM = 0.62;
+const COORD_SCALE = 40;
+const MIN_ZOOM = 0.18;
 const MAX_ZOOM = 1.8;
 
 function localize(lang: Lang, ls: LocalizedString) {
@@ -501,9 +501,6 @@ export default function GalaxyMapView({
     [offset.x, offset.y, zoom],
   );
 
-  const antimatterRatio = antimatter.max > 0 ? clamp(antimatter.current / antimatter.max, 0, 1) : 0;
-  const antimatterCritical = antimatterRatio < 0.14;
-  const antimatterLow = antimatterRatio < 0.33;
 
   return (
     <div className={`relative h-full w-full overflow-hidden bg-[radial-gradient(circle_at_50%_18%,rgba(34,211,238,0.08),transparent_26%),linear-gradient(180deg,#04070f_0%,#06101b_38%,#02040a_100%)] ${className ?? ""}`}>
@@ -673,50 +670,7 @@ export default function GalaxyMapView({
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 h-24 bg-[linear-gradient(180deg,rgba(4,9,18,0.92),rgba(4,9,18,0.6),transparent)]" />
       <div className="pointer-events-none absolute inset-x-0 bottom-0 z-10 h-20 bg-[linear-gradient(0deg,rgba(4,9,18,0.94),rgba(4,9,18,0.58),transparent)]" />
 
-      <div className="absolute left-4 top-4 z-[20] w-[min(92vw,320px)] rounded-[24px] border border-cyan-300/18 bg-[#08111f]/92 p-3 text-white shadow-[0_16px_42px_rgba(0,0,0,0.38)] backdrop-blur-md">
-        <div className="flex items-center justify-between gap-2">
-          <div>
-            <div className="text-[8px] font-black uppercase tracking-[0.22em] text-cyan-200/58">
-              {localize(lang, {
-                en: "Antimatter Core",
-                hu: "Antianyag Mag",
-                de: "Antimaterie-Kern",
-                ro: "Nucleu de antimaterie",
-              })}
-            </div>
-            <div className="mt-1 text-[12px] font-black text-white">
-              {formatNumber(antimatter.current)} / {formatNumber(antimatter.max)}
-            </div>
-          </div>
-          <div className={`flex h-10 w-10 items-center justify-center rounded-full border ${antimatterCritical ? "border-rose-400/40 bg-rose-500/15 text-rose-100" : antimatterLow ? "border-amber-300/30 bg-amber-400/12 text-amber-100" : "border-cyan-300/30 bg-cyan-400/12 text-cyan-100"}`}>
-            <Fuel size={18} />
-          </div>
-        </div>
-        <div className="mt-3 rounded-[20px] border border-white/10 bg-[#050b14]/92 p-2">
-          <div className="relative h-28 overflow-hidden rounded-[18px] border border-white/6 bg-[linear-gradient(180deg,rgba(112,26,117,0.26),rgba(18,9,39,0.92))]">
-            <div
-              className={`absolute inset-x-2 bottom-2 rounded-[16px] border border-white/8 bg-[linear-gradient(180deg,rgba(236,72,153,0.18),rgba(245,158,11,0.28))] transition-all duration-500 ${antimatterCritical ? "shadow-[0_0_24px_rgba(244,63,94,0.34)] animate-pulse" : "shadow-[0_0_18px_rgba(236,72,153,0.24)]"}`}
-              style={{ height: `${Math.max(8, antimatterRatio * 100)}%` }}
-            >
-              <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(255,255,255,0.16),transparent_30%,transparent_70%,rgba(255,255,255,0.08))]" />
-              <div className="absolute inset-0 animate-[gravitasFuelFlow_4s_linear_infinite] bg-[repeating-linear-gradient(180deg,rgba(255,255,255,0.12)_0px,rgba(255,255,255,0.12)_3px,transparent_3px,transparent_12px)] opacity-35" />
-              {[0.25, 0.5, 0.75].map((mark) => (
-                <span
-                  key={mark}
-                  className="absolute left-2 right-2 h-px bg-white/10"
-                  style={{ bottom: `${mark * 100}%` }}
-                />
-              ))}
-            </div>
-            <div className="absolute inset-0 pointer-events-none bg-[radial-gradient(circle_at_50%_20%,rgba(255,255,255,0.14),transparent_18%),radial-gradient(circle_at_50%_80%,rgba(236,72,153,0.12),transparent_26%)]" />
-            <div className="absolute inset-x-0 bottom-0 flex items-center justify-center gap-2 px-2 py-2 text-[8px] font-black uppercase tracking-[0.18em] text-white/52">
-              <span>Quantum Fuel</span>
-              <span>•</span>
-              <span>{Math.round(antimatterRatio * 100)}%</span>
-            </div>
-          </div>
-        </div>
-      </div>
+
 
       <div className="absolute right-4 bottom-4 z-[20] flex items-center gap-2 rounded-full border border-white/10 bg-[#08111f]/92 p-1.5 text-white shadow-[0_16px_42px_rgba(0,0,0,0.38)] backdrop-blur-md">
         <button type="button" onClick={() => applyZoom(zoom + 0.12)} className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-white/5 transition hover:bg-white/10">
@@ -847,10 +801,6 @@ export default function GalaxyMapView({
         @keyframes gravitasTwinkle {
           0%, 100% { opacity: 0.18; transform: scale(0.92); }
           50% { opacity: 0.95; transform: scale(1.18); }
-        }
-        @keyframes gravitasFuelFlow {
-          from { background-position: 0 0; }
-          to { background-position: 0 120px; }
         }
       `}</style>
     </div>
