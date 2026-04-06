@@ -2029,6 +2029,7 @@ export default function GravitasPage() {
                   lang={lang}
                   galaxyState={state.galaxy}
                   antimatter={antimatterGauge}
+                  currentTick={state.tick}
                   onNodeClick={(node) => {
                     if (node.type === "pve_base") {
                       setModuleInfoOpen(true);

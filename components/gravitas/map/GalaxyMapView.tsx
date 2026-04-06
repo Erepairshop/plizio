@@ -5,7 +5,6 @@ import type { CSSProperties, PointerEvent as ReactPointerEvent } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import {
   AlertTriangle,
-  Fuel,
   Home,
   MapPin,
   Minus,
@@ -26,6 +25,7 @@ type GalaxyMapViewProps = {
   lang: Lang;
   galaxyState: GalaxyMapState;
   antimatter: { current: number; max: number };
+  currentTick: number;
   onNodeClick?: (node: MapNode) => void;
   onFleetClick?: (fleet: FleetMovement) => void;
   onBaseClick?: () => void;
@@ -82,7 +82,7 @@ function formatDurationMs(ms: number) {
 }
 
 function formatNumber(value: number) {
-  return new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 }).format(value);
+  return new Intl.NumberFormat("en-US", { maximumFractionDigits: 2 }).format(value);
 }
 
 function getNodeLabel(node: MapNode): LocalizedString {
@@ -213,6 +213,7 @@ export default function GalaxyMapView({
   lang,
   galaxyState,
   antimatter,
+  currentTick,
   onNodeClick,
   onFleetClick,
   onBaseClick,
@@ -252,16 +253,10 @@ export default function GalaxyMapView({
   const [selectedFleetId, setSelectedFleetId] = useState<string | null>(null);
   const [zoom, setZoom] = useState(0.88);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
-  const [clock, setClock] = useState(() => Date.now());
   const [viewport, setViewport] = useState({ width: 1, height: 1 });
   const [isPanning, setIsPanning] = useState(false);
 
   const base = galaxyState.baseCoordinates ?? { x: 0, y: 0 };
-
-  useEffect(() => {
-    const tick = window.setInterval(() => setClock(Date.now()), 1000);
-    return () => window.clearInterval(tick);
-  }, []);
 
   useEffect(() => {
     const container = containerRef.current;
@@ -338,7 +333,7 @@ export default function GalaxyMapView({
               x: WORLD_CENTER + 0,
               y: WORLD_CENTER + 0,
             };
-      const progress = getFleetProgress(fleet, clock);
+      const progress = getFleetProgress(fleet, currentTick);
       const current = {
         x: originPoint.x + (targetPoint.x - originPoint.x) * progress,
         y: originPoint.y + (targetPoint.y - originPoint.y) * progress,
@@ -353,7 +348,7 @@ export default function GalaxyMapView({
         statusTone: getFleetStatusMeta(fleet).tone,
       };
     });
-  }, [base.x, base.y, clock, galaxyState.activeFleets, galaxyState.transientNodes]);
+  }, [base.x, base.y, currentTick, galaxyState.activeFleets, galaxyState.transientNodes]);
 
   const selectedNode = useMemo(() => nodeVisuals.find((entry) => entry.node.id === selectedNodeId) ?? null, [nodeVisuals, selectedNodeId]);
   const selectedFleet = useMemo(() => fleetVisuals.find((entry) => entry.fleet.id === selectedFleetId) ?? null, [fleetVisuals, selectedFleetId]);
@@ -767,7 +762,7 @@ export default function GalaxyMapView({
                         : localize(lang, { en: "Free target", hu: "Szabad célpont", de: "Freies Ziel", ro: "Țintă liberă" })}
                     </span>
                     <span className="ml-auto text-white/35">
-                      {formatDurationMs(Math.max(0, selectedNode.node.expiresAt - clock))}
+                      {formatDurationMs(Math.max(0, (selectedNode.node.expiresAt - currentTick) * 1000))}
                     </span>
                   </div>
                 </>
@@ -789,7 +784,7 @@ export default function GalaxyMapView({
                         {localize(lang, { en: "ETA", hu: "Érkezés", de: "Ankunft", ro: "Sosire" })}
                       </div>
                       <div className="mt-1 text-[12px] font-black text-emerald-100">
-                        {formatDurationMs(Math.max(0, selectedFleet.fleet.arrivalTime - clock))}
+                        {formatDurationMs(Math.max(0, (selectedFleet.fleet.arrivalTime - currentTick) * 1000))}
                       </div>
                     </div>
                   </div>
