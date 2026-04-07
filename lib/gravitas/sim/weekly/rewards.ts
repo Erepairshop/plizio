@@ -69,7 +69,7 @@ export function giveWeeklyRewards(
     
     // Rare drop chance on full clear
     const rng = makeSeededRng(hashString([
-      state.weeklyMission.lastMissionAt,
+      state.weeklyMission.lastMissionAtTick,
       completedWaves,
       worldLevel,
       defenderFactionId,

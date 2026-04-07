@@ -40,27 +40,21 @@ const UNIT_NAMES: Record<WarRoomUnitId, LocalizedString> = {
   noma_weaver: { en: "N. Weaver", hu: "N. Szövő", de: "N. Weber", ro: "N. Țesător" },
 };
 
-function formatDuration(ms: number): string {
-  if (ms <= 0) return "0s";
-  const h = Math.floor(ms / (60 * 60 * 1000));
-  const m = Math.floor((ms % (60 * 60 * 1000)) / (60 * 1000));
-  const s = Math.floor((ms % (60 * 1000)) / 1000);
+function formatDurationTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const h = Math.floor(ticks / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
+  const s = Math.floor(ticks % 60);
   if (h > 0) return `${h}h ${m}m`;
   if (m > 0) return `${m}m ${s}s`;
   return `${s}s`;
 }
 
 export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanelProps) {
-  const [now, setNow] = useState(Date.now());
   const [selectedUnit, setSelectedUnit] = useState<WarRoomUnitId | null>(null);
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
   const [repairCount, setRepairCount] = useState<number>(1);
   const [inventory, setInventory] = useState(() => loadSavedGalaxyInventory());
-
-  useEffect(() => {
-    const id = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(id);
-  }, []);
 
   useEffect(() => {
     setInventory(loadSavedGalaxyInventory());
@@ -102,11 +96,11 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
 
   // Check for decay warning
   const decayGraceHours = REPAIR_BAY_CONFIG.decayGraceHours + state.moduleLevels.core * REPAIR_BAY_CONFIG.decayGracePerCoreLevel;
-  const decayGraceMs = decayGraceHours * 60 * 60 * 1000;
-  const timeUntilDecay = state.repairBay.woundedAt ? Math.max(0, (state.repairBay.woundedAt + decayGraceMs) - now) : 0;
+  const decayGraceTicks = decayGraceHours * 3600;
+  const ticksUntilDecay = state.repairBay.woundedAtTick ? Math.max(0, (state.repairBay.woundedAtTick + decayGraceTicks) - state.tick) : 0;
   const hasWounded = woundedGroups.length > 0;
-  const isDecaying = hasWounded && state.repairBay.woundedAt && timeUntilDecay === 0;
-  const decayWarningActive = hasWounded && state.repairBay.woundedAt && timeUntilDecay < 4 * 60 * 60 * 1000; // Warning 4h before
+  const isDecaying = hasWounded && state.repairBay.woundedAtTick && ticksUntilDecay === 0;
+  const decayWarningActive = hasWounded && state.repairBay.woundedAtTick && ticksUntilDecay < 4 * 3600; // Warning 4h before
 
   // Selected unit max
   const maxBatch = getRepairBatchSize(state.repairBay.level);
@@ -187,7 +181,7 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
                 })}
               </div>
               <div className="text-[9px] font-medium uppercase tracking-wider text-white/30">
-                ⏱ {formatDuration(nextUpgrade.buildSeconds * 1000)}
+                ⏱ {formatDurationTicks(nextUpgrade.buildSeconds)}
               </div>
               {!upgradeCheck.canUpgrade && upgradeCheck.reason && (
                 <div className="text-[9px] font-black uppercase tracking-widest text-amber-300/60">
@@ -211,7 +205,7 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
       </div>
 
       {/* Decay Warning */}
-      {hasWounded && state.repairBay.woundedAt && (
+      {hasWounded && state.repairBay.woundedAtTick && (
         <div className={`px-4 py-2 text-[10px] font-black uppercase tracking-widest border-b border-white/5 flex items-center gap-2 ${isDecaying ? "bg-rose-900/30 text-rose-400 animate-pulse border-rose-500/50" : decayWarningActive ? "bg-amber-900/30 text-amber-400" : "bg-black/40 text-white/40"}`}>
           <AlertTriangle size={14} />
           {isDecaying ? (
@@ -219,7 +213,7 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
           ) : (
             <>
               {localize({ en: "Time until casualties:", hu: "Idő az első áldozatokig:", de: "Zeit bis Verluste:", ro: "Timp până la primele pierderi:" })}
-              <span className="font-mono text-xs">{formatDuration(timeUntilDecay)}</span>
+              <span className="font-mono text-xs">{formatDurationTicks(ticksUntilDecay)}</span>
             </>
           )}
         </div>
@@ -283,8 +277,8 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
             <div className="space-y-2">
               {state.repairBay.repairSlots.map((slot, idx) => {
                 if (slot) {
-                  const progress = Math.min(100, Math.max(0, ((now - slot.startedAt) / (slot.completesAt - slot.startedAt)) * 100));
-                  const timeRemaining = Math.max(0, slot.completesAt - now);
+                  const progress = Math.min(100, Math.max(0, ((state.tick - slot.startedAtTick) / (slot.completesAtTick - slot.startedAtTick)) * 100));
+                  const ticksRemaining = Math.max(0, slot.completesAtTick - state.tick);
                   
                   return (
                     <div key={idx} className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 p-3 rounded-xl bg-white/5 border border-emerald-500/20">
@@ -302,7 +296,7 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
                             <div className="flex-1 h-1 bg-black/50 rounded-full overflow-hidden">
                               <motion.div className="h-full bg-emerald-400" initial={{ width: `${progress}%` }} animate={{ width: `${progress}%` }} />
                             </div>
-                            <span className="text-[9px] font-mono text-emerald-200/80 w-10 text-right">{formatDuration(timeRemaining)}</span>
+                            <span className="text-[9px] font-mono text-emerald-200/80 w-10 text-right">{formatDurationTicks(ticksRemaining)}</span>
                           </div>
                         </div>
                       </div>
@@ -348,14 +342,14 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
                       </div>
                     </div>
                     <div className="text-right">
-                      <div className="text-[10px] uppercase font-black text-white/40">Wounded: <span className="text-rose-400">{selectedWoundedEntry?.count ?? 0}</span></div>
-                      <div className="text-[10px] uppercase font-black text-white/40">Max/Slot: <span className="text-emerald-400">{maxBatch}</span></div>
+                      <div className="text-[10px] uppercase font-black text-white/40">{localize({ en: "Wounded", hu: "Sebesült", de: "Verwundet", ro: "Rănit" })}: <span className="text-rose-400">{selectedWoundedEntry?.count ?? 0}</span></div>
+                      <div className="text-[10px] uppercase font-black text-white/40">{localize({ en: "Max/Slot", hu: "Max/Hely", de: "Max/Platz", ro: "Max/Loc" })}: <span className="text-emerald-400">{maxBatch}</span></div>
                     </div>
                   </div>
 
                   <div>
                     <div className="flex justify-between items-center mb-2">
-                      <label className="block text-[10px] uppercase font-black tracking-widest text-emerald-300/70">Repair Count</label>
+                      <label className="block text-[10px] uppercase font-black tracking-widest text-emerald-300/70">{localize({ en: "Repair Count", hu: "Javítási Szám", de: "Reparaturanzahl", ro: "Număr Reparații" })}</label>
                       <span className="text-[10px] font-black text-emerald-300">{repairCount}</span>
                     </div>
                     <div className="flex items-center gap-3">
@@ -374,7 +368,7 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
                   </div>
 
                   <div className="bg-black/40 rounded-lg p-2 flex flex-wrap gap-2">
-                    <span className="text-[9px] uppercase font-black tracking-widest text-white/40 mr-2 flex items-center">Cost:</span>
+                    <span className="text-[9px] uppercase font-black tracking-widest text-white/40 mr-2 flex items-center">{localize({ en: "Cost", hu: "Költség", de: "Kosten", ro: "Cost" })}:</span>
                     {Object.entries(repairCost).map(([matId, amount]) => {
                       if (!amount) return null;
                       const hasAmt = (inventory[matId as keyof typeof inventory] ?? 0) >= amount;
@@ -407,7 +401,7 @@ export default function RepairBayPanel({ state, doAction, lang }: RepairBayPanel
       {/* Footer Stats */}
       <div className="px-4 py-2 bg-black/60 border-t border-white/10 text-[9px] font-black uppercase tracking-widest flex justify-between text-white/40">
         <div className="flex gap-4">
-          <span>Repaired: <span className="text-emerald-400">{state.commander.metrics.unitsRepaired}</span></span>
+          <span>{localize({ en: "Repaired", hu: "Javítva", de: "Repariert", ro: "Reparat" })}: <span className="text-emerald-400">{state.commander.metrics.unitsRepaired}</span></span>
         </div>
       </div>
     </div>

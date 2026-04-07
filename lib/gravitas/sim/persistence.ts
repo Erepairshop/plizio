@@ -37,10 +37,12 @@ function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): impo
   if (hasOldCoords) {
     return { ...galaxy, transientNodes: [], activeFleets: [] };
   }
-  // Backfill new meta fields for nodes from before the meta system
-  const needsMigration = galaxy.transientNodes.some(n => (n as any).nodeState === undefined);
-  if (needsMigration) {
-    const migrated = galaxy.transientNodes.map(n => {
+  // Backfill new meta fields for nodes and fleets
+  const needsNodeMigration = galaxy.transientNodes.some(n => (n as any).nodeState === undefined);
+  const needsFleetMigration = (galaxy.activeFleets ?? []).some(f => (f as any).travelTimeTicks === undefined || (f as any).composition === undefined || (f as any).payload === undefined);
+
+  if (needsNodeMigration || needsFleetMigration) {
+    const migratedNodes = galaxy.transientNodes.map(n => {
       if ((n as any).nodeState !== undefined) return n;
       return {
         ...n,
@@ -58,13 +60,28 @@ function migrateGalaxyCoords(galaxy: import("./map/types").GalaxyMapState): impo
         cooldownUntil: 0,
       };
     });
-    const migratedFleets = (galaxy.activeFleets ?? []).map(f => ({
-      ...f,
-      missionType: (f as any).missionType ?? "collect" as const,
-      fuelSpent: (f as any).fuelSpent ?? 0,
-      weight: (f as any).weight ?? 1,
-    }));
-    return { ...galaxy, transientNodes: migrated, activeFleets: migratedFleets };
+
+    const migratedFleets = (galaxy.activeFleets ?? []).map(f => {
+      const travelTimeTicks = (f as any).travelTimeTicks ?? Math.max(60, f.arrivalTime - f.departureTime);
+      return {
+        ...f,
+        missionType: (f as any).missionType ?? "collect" as const,
+        fuelSpent: (f as any).fuelSpent ?? 0,
+        weight: (f as any).weight ?? 1,
+        travelTimeTicks,
+        composition: (f as any).composition ?? {},
+        payload: (f as any).payload ?? {},
+        casualties: ((f as any).casualties && ((f as any).casualties.killed || (f as any).casualties.wounded))
+          ? (f as any).casualties
+          : { killed: (f as any).casualties ?? {}, wounded: {} },
+        outcome: (f as any).outcome ?? "victory",
+        arrivalState: typeof (f as any).arrivalState === "string" 
+          ? { en: (f as any).arrivalState, hu: (f as any).arrivalState, de: (f as any).arrivalState, ro: (f as any).arrivalState }
+          : (f as any).arrivalState ?? { en: "", hu: "", de: "", ro: "" },
+      };
+    });
+
+    return { ...galaxy, transientNodes: migratedNodes, activeFleets: migratedFleets };
   }
   return galaxy;
 }
@@ -100,7 +117,7 @@ function toGarrisonEntries(value: unknown): { count: number; level: number }[] {
   return [];
 }
 
-function migrateWarRoom(raw: any): WarRoomState {
+function migrateWarRoom(raw: any, currentTick: number): WarRoomState {
   const base = createInitialWarRoom();
   if (!raw || typeof raw !== "object") return base;
 
@@ -109,6 +126,7 @@ function migrateWarRoom(raw: any): WarRoomState {
     online: typeof raw.online === "boolean" ? raw.online : base.online,
     productionSlots: { ...base.productionSlots },
     garrison: { ...base.garrison },
+    allocations: raw.allocations ?? base.allocations,
   };
 
   Object.entries(raw.garrison ?? {}).forEach(([legacyId, value]) => {
@@ -129,32 +147,19 @@ function migrateWarRoom(raw: any): WarRoomState {
         isUpgrade: Boolean((slot as any).isUpgrade),
         batchSize: Math.max(1, Math.floor((slot as any).batchSize ?? 1)),
         targetLevel: Math.max(1, Math.floor((slot as any).targetLevel ?? 1)),
-        startedAt: (slot as any).startedAt ?? ((slot as any).remaining !== undefined ? Date.now() - (((slot as any).duration ?? 1) - ((slot as any).remaining ?? 0)) * 1000 : Date.now()),
-        completesAt: (slot as any).completesAt ?? ((slot as any).remaining !== undefined ? Date.now() + ((slot as any).remaining ?? 0) * 1000 : Date.now()),
+        startedAtTick: (slot as any).startedAtTick ?? currentTick,
+        completesAtTick: (slot as any).completesAtTick ?? currentTick + 60,
         reservedCount: (slot as any).reservedCount ? Math.max(1, Math.floor((slot as any).reservedCount)) : undefined,
         reservedFromLevel: (slot as any).reservedFromLevel ? Math.max(1, Math.floor((slot as any).reservedFromLevel)) : undefined,
         spentCost: (slot as any).spentCost ?? undefined,
       };
     });
-  } else if (raw.productionSlot && typeof raw.productionSlot === "object") {
-    const mapped = mapLegacyUnitId((raw.productionSlot as any).unitId);
-    if (mapped) {
-      const remaining = Math.max(0, Math.floor((raw.productionSlot as any).remaining ?? 0));
-      migrated.productionSlots[mapped] = {
-        unitId: mapped,
-        isUpgrade: false,
-        batchSize: 1,
-        targetLevel: 1,
-        startedAt: Date.now() - ((Math.max(1, Math.floor((raw.productionSlot as any).duration ?? 1)) - remaining) * 1000),
-        completesAt: Date.now() + remaining * 1000,
-      };
-    }
   }
 
   return migrated;
 }
 
-function migrateRepairBay(raw: any): RepairBayState {
+function migrateRepairBay(raw: any, currentTick: number): RepairBayState {
   const base = createInitialRepairBay();
   if (!raw || typeof raw !== "object") return base;
 
@@ -164,24 +169,12 @@ function migrateRepairBay(raw: any): RepairBayState {
   const repairSlots = Array.from({ length: Math.floor(slotCount) }, (_, index) => {
     const slot = sourceSlots[index];
     if (!slot || typeof slot !== "object") return null;
-    // Migrate tick-based to Date.now() based
-    if (slot.startedAt && slot.completesAt) {
-      return {
-        unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
-        targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
-        batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
-        startedAt: slot.startedAt,
-        completesAt: slot.completesAt,
-      };
-    }
-    const rem = Math.max(0, Math.floor(slot.remaining ?? 0));
-    const dur = Math.max(1, Math.floor(slot.duration ?? 1));
     return {
       unitId: mapLegacyUnitId(slot.unitId) ?? "sentinel",
       targetLevel: Math.max(1, Math.floor(slot.targetLevel ?? 1)),
       batchSize: Math.max(1, Math.floor(slot.batchSize ?? 1)),
-      startedAt: Date.now() - (dur - rem) * 1000,
-      completesAt: Date.now() + rem * 1000,
+      startedAtTick: slot.startedAtTick ?? currentTick,
+      completesAtTick: slot.completesAtTick ?? currentTick + 60,
       repairedEntries: slot.repairedEntries ? toGarrisonEntries(slot.repairedEntries) : undefined,
     };
   });
@@ -201,7 +194,7 @@ function migrateRepairBay(raw: any): RepairBayState {
     online: typeof raw.online === "boolean" ? raw.online : base.online,
     repairSlots,
     wounded,
-    woundedAt: typeof raw.woundedAt === "number" ? raw.woundedAt : null,
+    woundedAtTick: typeof raw.woundedAtTick === "number" ? raw.woundedAtTick : (typeof raw.woundedAt === "number" ? currentTick : null),
   };
 }
 
@@ -290,6 +283,9 @@ export function loadGravitasState(): StarholdState | null {
     if (parsed.globalRngState === undefined) {
       parsed.globalRngState = Date.now() % 2147483647;
     }
+    if (parsed.lastActiveAt === undefined) {
+      parsed.lastActiveAt = Date.now();
+    }
 
     const migratedScavengeOperation =
       parsed.scavengeOperation ??
@@ -363,6 +359,7 @@ export function loadGravitasState(): StarholdState | null {
       signalRange: parsed.resources?.signalRange ?? 30,
       supplyFlow: parsed.resources?.supplyFlow ?? 20,
       antimatter: parsed.resources?.antimatter ?? 0,
+      chronoCore: parsed.resources?.chronoCore ?? 0,
     };
     if ((migratedResources as any).materials !== undefined) {
       delete (migratedResources as any).materials;
@@ -412,10 +409,13 @@ export function loadGravitasState(): StarholdState | null {
         scoutReports: parsed.battleState?.scoutReports ?? Object.fromEntries(
           Object.entries((parsed as any).galaxyIntel ?? {}).map(([id, intel]) => [
             id,
-            { buildingId: id, intelLevel: intel as number, revealedStats: {}, revealedTraits: [], lastScoutedAt: 0 }
+            { buildingId: id, intelLevel: intel as number, revealedStats: {}, revealedTraits: [], lastScoutedAtTick: 0 }
           ])
         ),
-        battleHistory: parsed.battleState?.battleHistory ?? [],
+        battleHistory: (parsed.battleState?.battleHistory ?? []).map((h: any) => ({
+          ...h,
+          atTick: h.atTick ?? parsed.tick ?? 0,
+        })),
         avatarCombat: parsed.battleState?.avatarCombat ?? (parsed as any).avatarCombat ?? {
           title: parsed.avatarProfile?.title ?? { en: "Initiate", hu: "Beavatott", de: "Initiat", ro: "Inițiat" },
           allocation: defaultAllocation(),
@@ -424,7 +424,11 @@ export function loadGravitasState(): StarholdState | null {
           combatXP: 0,
         },
         buildingCooldowns: parsed.battleState?.buildingCooldowns ?? {},
-        activeScout: parsed.battleState?.activeScout ?? null,
+        activeScout: parsed.battleState?.activeScout ? {
+          ...parsed.battleState.activeScout,
+          startedAtTick: parsed.battleState.activeScout.startedAtTick ?? parsed.tick ?? 0,
+          completesAtTick: parsed.battleState.activeScout.completesAtTick ?? (parsed.tick ?? 0) + 1800,
+        } : null,
       },
       factionReputation: parsed.factionReputation ?? createInitialFactionReputation(),
       worldLevel: parsed.worldLevel ?? 1,
@@ -443,8 +447,8 @@ export function loadGravitasState(): StarholdState | null {
       },
       bootstrapChecklist: parsed.bootstrapChecklist ?? inferBootstrapChecklist(parsed),
       waveRecoveryCalmTicks: parsed.waveRecoveryCalmTicks ?? 0,
-      warRoom: migrateWarRoom(parsed.warRoom),
-      repairBay: migrateRepairBay((parsed as any).repairBay),
+      warRoom: migrateWarRoom(parsed.warRoom, parsed.tick ?? 0),
+      repairBay: migrateRepairBay((parsed as any).repairBay, parsed.tick ?? 0),
       moduleLevels: {
         reactor: parsed.moduleLevels?.reactor ?? 1,
         logistics: parsed.moduleLevels?.logistics ?? 1,
@@ -453,7 +457,11 @@ export function loadGravitasState(): StarholdState | null {
         warroom: parsed.moduleLevels?.warroom ?? 1,
         repairbay: (parsed.moduleLevels as any)?.repairbay ?? 1,
       },
-      upgradeQueue: parsed.upgradeQueue ?? [],
+      upgradeQueue: (parsed.upgradeQueue ?? []).map((u: any) => ({
+        ...u,
+        startedAtTick: u.startedAtTick ?? parsed.tick ?? 0,
+        completesAtTick: u.completesAtTick ?? (parsed.tick ?? 0) + 300,
+      })),
       upgradeSlotCount: parsed.upgradeSlotCount ?? 1,
       synergies: parsed.synergies ?? createInitialSynergies(),
       galaxyCycle: parsed.galaxyCycle ?? createInitialGalaxyCycle(),
@@ -461,30 +469,110 @@ export function loadGravitasState(): StarholdState | null {
       dilemmaSystem: parsed.dilemmaSystem ?? createInitialDilemmaState(),
       tradeSystem: {
         marketState: parsed.tradeSystem?.marketState ?? "normal",
-        marketStateUpdatedAt: parsed.tradeSystem?.marketStateUpdatedAt ?? Date.now(),
-        offers: parsed.tradeSystem?.offers ?? [],
-        activeTrades: parsed.tradeSystem?.activeTrades ?? [],
-        lastRefreshAt: parsed.tradeSystem?.lastRefreshAt ?? Date.now(),
+        marketStateUpdatedAtTick: parsed.tradeSystem?.marketStateUpdatedAtTick ?? parsed.tick ?? 0,
+        offers: (parsed.tradeSystem?.offers ?? []).map((o: any) => ({
+          ...o,
+          expiresAtTick: o.expiresAtTick ?? parsed.tick ?? 0,
+        })),
+        activeTrades: (parsed.tradeSystem?.activeTrades ?? []).map((t: any) => ({
+          ...t,
+          startedAtTick: t.startedAtTick ?? parsed.tick ?? 0,
+          completesAtTick: t.completesAtTick ?? (parsed.tick ?? 0) + 3600,
+        })),
+        lastRefreshAtTick: parsed.tradeSystem?.lastRefreshAtTick ?? parsed.tick ?? 0,
       },
-      weeklyMission: parsed.weeklyMission ?? { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
-      commander: parsed.commander ?? createInitialCommanderState(),
-      espionage: {
-        ...createInitialEspionageState(),
-        ...(parsed.espionage ?? {}),
-      },
+      weeklyMission: parsed.weeklyMission ? {
+        ...parsed.weeklyMission,
+        lastMissionAtTick: parsed.weeklyMission.lastMissionAtTick ?? parsed.tick ?? 0,
+        nextMissionAtTick: parsed.weeklyMission.nextMissionAtTick ?? (parsed.tick ?? 0) + 5 * 24 * 3600,
+        activeMission: parsed.weeklyMission.activeMission ? {
+          ...parsed.weeklyMission.activeMission,
+          appearedAtTick: parsed.weeklyMission.activeMission.appearedAtTick ?? parsed.tick ?? 0,
+          battleStartsAtTick: parsed.weeklyMission.activeMission.battleStartsAtTick ?? (parsed.tick ?? 0) + 3600,
+          phaseStartedAtTick: parsed.weeklyMission.activeMission.phaseStartedAtTick ?? parsed.tick ?? 0,
+        } : null,
+      } : { activeMission: null, lastMissionAtTick: 0, completedCount: 0, nextMissionAtTick: 5 * 24 * 3600 },
+      commander: parsed.commander ? {
+        ...parsed.commander,
+        metrics: {
+          ...parsed.commander.metrics,
+          lastEvaluatedAtTick: parsed.commander.metrics.lastEvaluatedAtTick ?? parsed.tick ?? 0,
+        }
+      } : createInitialCommanderState(),
+      espionage: parsed.espionage ? {
+        ...parsed.espionage,
+        lastExposureEventTick: parsed.espionage.lastExposureEventTick ?? null,
+        decoyActiveUntilTick: parsed.espionage.decoyActiveUntilTick ?? null,
+        missions: (parsed.espionage.missions || []).map((m: any) => ({
+          ...m,
+          startedAtTick: m.startedAtTick ?? parsed.tick ?? 0,
+          activeAtTick: m.activeAtTick ?? (parsed.tick ?? 0) + 300,
+          lastYieldAtTick: m.lastYieldAtTick ?? (parsed.tick ?? 0) + 300,
+        })),
+      } : createInitialEspionageState(),
       research: parsed.research ?? createInitialResearchState(["weapons", "shields"]),
-      supplyRoutes: {
-        ...createInitialSupplyRouteState(),
-        ...(parsed.supplyRoutes ?? {}),
-      },
+      supplyRoutes: parsed.supplyRoutes ? {
+        ...parsed.supplyRoutes,
+        lastRaidCheckTick: parsed.supplyRoutes.lastRaidCheckTick ?? parsed.tick ?? 0,
+        routes: (parsed.supplyRoutes.routes || []).map((r: any) => ({
+          ...r,
+          establishedAtTick: r.establishedAtTick ?? parsed.tick ?? 0,
+          lastYieldAtTick: r.lastYieldAtTick ?? parsed.tick ?? 0,
+          disruptedUntilTick: r.disruptedUntilTick ?? null,
+        })),
+      } : createInitialSupplyRouteState(parsed.tick ?? 0),
       codex: parsed.codex ?? createInitialCodexState(),
       notifications: parsed.notifications ?? createInitialNotificationState(),
       officers: parsed.officers ?? createInitialOfficerState().officerState,
-      factionWars: {
-        ...createInitialFactionWarState(),
-        ...(parsed.factionWars ?? {}),
+      factionWars: parsed.factionWars ? {
+        activeWars: (parsed.factionWars.activeWars || []).map((w: any) => ({
+          ...w,
+          startedAtTick: w.startedAtTick ?? (typeof w.startedAt === "number" ? parsed.tick : parsed.tick),
+          endsAtTick: w.endsAtTick ?? (typeof w.endsAt === "number" ? parsed.tick + 86400 : parsed.tick + 86400),
+        })),
+        lastWarSpawnAtTick: parsed.factionWars.lastWarSpawnAtTick ?? (typeof (parsed.factionWars as any).lastWarSpawnAt === "number" ? parsed.tick : parsed.tick),
+      } : createInitialFactionWarState(parsed.tick ?? 0),
+      expeditions: parsed.expeditions ? {
+        ...parsed.expeditions,
+        activeExpeditions: (parsed.expeditions.activeExpeditions || []).map((exp: any) => ({
+          ...exp,
+          startedAtTick: exp.startedAtTick ?? parsed.tick ?? 0,
+          endsAtTick: exp.endsAtTick ?? (parsed.tick ?? 0) + 3600,
+          status: exp.status ?? "en_route",
+          recalled: exp.recalled ?? false,
+          logs: exp.logs ?? [],
+          loot: exp.loot ?? {},
+          casualties: (exp.casualties && (exp.casualties.killed || exp.casualties.wounded)) 
+            ? exp.casualties 
+            : { killed: exp.casualties ?? {}, wounded: {} },
+        })),
+      } : createInitialExpeditionState(),
+      starChamber: parsed.starChamber ? {
+        ...parsed.starChamber,
+        rotation: parsed.starChamber.rotation ?? {
+          dailyOffers: [],
+          weeklyOffers: [],
+          lastDailyRefreshTick: -100000,
+          lastWeeklyRefreshTick: -1000000,
+          currentSeed: 0,
+        },
+      } : {
+        unlockedItemIds: [],
+        itemCooldowns: {},
+        rotation: {
+          dailyOffers: [],
+          weeklyOffers: [],
+          lastDailyRefreshTick: -100000,
+          lastWeeklyRefreshTick: -1000000,
+          currentSeed: 0,
+        },
       },
-      expeditions: parsed.expeditions ?? createInitialExpeditionState(),
+      dailyTasks: parsed.dailyTasks ?? {
+        weeklySet: [],
+        progress: {},
+        claimedTaskIds: [],
+        lastWeeklyRefreshTick: -1000000,
+      },
       statistics: parsed.statistics ?? {
         trauma: {
           agentsLost: 0,
@@ -492,6 +580,16 @@ export function loadGravitasState(): StarholdState | null {
           cargoSeized: 0,
           ambushesSuffered: 0,
         },
+      },
+      archive: parsed.archive ?? {
+        events: [],
+        lastViewedTick: 0,
+        expiredMapNodes: [],
+        completedFleets: [],
+        completedExpeditions: [],
+        completedTrades: [],
+        completedMissions: [],
+        battleHistory: [],
       },
       offlineSummary: parsed.offlineSummary ?? null,
     };

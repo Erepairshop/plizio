@@ -23,14 +23,14 @@ export interface DilemmaEvent {
   requiredPhase: import("../galaxy/types").GalaxyCyclePhase | null;
   /** Feltétel: min module level, min reputáció, stb */
   conditions: DilemmaCondition;
-  /** Hány naponta jelenhet meg max (rate limit) */
-  cooldownDays: number;
+  /** Hány tickenként jelenhet meg max (rate limit) */
+  cooldownTicks: number;
   /** Ritka? (havonta max 1 ha true) */
   rare: boolean;
 }
 
 export interface DilemmaCondition {
-  minPlayDays?: number;
+  minPlayTicks?: number;
   minModuleLevel?: Partial<Record<string, number>>;
   minReputation?: Partial<Record<FactionId, number>>;
   minResource?: Partial<Record<string, number>>;
@@ -41,7 +41,7 @@ export interface DilemmaCondition {
 export interface DilemmaChoice {
   dilemmaId: DilemmaId;
   optionId: string;
-  timestamp: number; // Date.now()
+  atTick: number;
   factionId: FactionId | null;
 }
 
@@ -49,7 +49,7 @@ export interface DilemmaMemoryEntry {
   id: string; // unique
   dilemmaId: DilemmaId;
   optionId: string;
-  timestamp: number;
+  atTick: number;
   factionId: FactionId | null;
   triggeredDelayedEffects: string[]; // ids of triggered effects
 }
@@ -71,11 +71,11 @@ export interface DilemmaImmediateEffect {
   repairSlotPause?: number; // tick
 }
 
-/** Késleltetett hatás — X nap múlva aktiválódik */
+/** Késleltetett hatás — X tick múlva aktiválódik */
 export interface DilemmaDelayedEffect {
   id: string; // Unique ID for this effect
   sourceDilemmaId: DilemmaId; // Honnan származik
-  triggerAt: number; // Date.now() + delay
+  triggerAtTick: number;
   chance: number; // 0-1, alkalmazás esélye
   effect: DilemmaImmediateEffect;
   journalText: LocalizedString;
@@ -91,9 +91,9 @@ export interface DilemmaSystemState {
   /** Aktív késleltetett hatások amik még nem triggerelődtek */
   pendingEffects: DilemmaDelayedEffect[];
   /** Utolsó dilemma megjelenés ideje (rate limit) */
-  lastDilemmaAt: number;
+  lastDilemmaAtTick: number;
   /** Utolsó ritka dilemma hónapja */
   lastRareMonth: number;
   /** Jelenleg aktív dilemma amit a játékos még nem döntött el */
-  activeDilemma: { event: DilemmaEvent; appearedAt: number } | null;
+  activeDilemma: { event: DilemmaEvent; appearedAtTick: number } | null;
 }

@@ -153,8 +153,8 @@ export function startTraining(state: StarholdState, unitId: WarRoomUnitId, level
     isUpgrade: false,
     batchSize,
     targetLevel: level,
-    startedAt: Date.now(),
-    completesAt: Date.now() + duration * 1000,
+    startedAtTick: state.tick,
+    completesAtTick: state.tick + duration,
     spentCost: cost,
   };
 
@@ -197,8 +197,8 @@ export function startUpgrade(state: StarholdState, unitId: WarRoomUnitId, fromLe
     isUpgrade: true,
     batchSize: reserve,
     targetLevel,
-    startedAt: Date.now(),
-    completesAt: Date.now() + duration * 1000,
+    startedAtTick: state.tick,
+    completesAtTick: state.tick + duration,
     reservedCount: reserve,
     reservedFromLevel: fromLevel,
     spentCost: cost,
@@ -275,12 +275,11 @@ export function tickWarroomProduction(state: StarholdState): StarholdState {
   if (!state.warRoom?.online) return state;
   let next = state;
   let changed = false;
-  const now = Date.now();
 
   (Object.keys(state.warRoom.productionSlots) as WarRoomUnitId[]).forEach((unitId) => {
     const slot = next.warRoom.productionSlots[unitId];
     if (!slot) return;
-    if (now < slot.completesAt) {
+    if (state.tick < slot.completesAtTick) {
       return;
     }
 

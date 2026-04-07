@@ -4,8 +4,8 @@ export interface RepairSlot {
   unitId: WarRoomUnitId;
   targetLevel: number;
   batchSize: number;
-  startedAt: number;
-  completesAt: number;
+  startedAtTick: number;
+  completesAtTick: number;
   repairedEntries?: GarrisonEntry[];
 }
 
@@ -14,5 +14,5 @@ export interface RepairBayState {
   online: boolean;
   repairSlots: (RepairSlot | null)[];
   wounded: Record<WarRoomUnitId, GarrisonEntry[]>;
-  woundedAt: number | null;
+  woundedAtTick: number | null;
 }

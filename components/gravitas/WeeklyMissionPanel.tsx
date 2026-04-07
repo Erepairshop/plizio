@@ -39,12 +39,12 @@ const UNIT_NAMES: Record<WarRoomUnitId, LocalizedString> = {
   noma_weaver: { en: "N. Weaver", hu: "N. Szövő", de: "N. Weber", ro: "N. Țesător" },
 };
 
-function formatDuration(ms: number): string {
-  if (ms <= 0) return "0s";
-  const d = Math.floor(ms / (24 * 60 * 60 * 1000));
-  const h = Math.floor((ms % (24 * 60 * 60 * 1000)) / (60 * 60 * 1000));
-  const m = Math.floor((ms % (60 * 60 * 1000)) / (60 * 1000));
-  const s = Math.floor((ms % (60 * 1000)) / 1000);
+function formatDurationTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const d = Math.floor(ticks / (24 * 3600));
+  const h = Math.floor((ticks % (24 * 3600)) / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
+  const s = Math.floor(ticks % 60);
   
   if (d > 0) return `${d}d ${h}h`;
   if (h > 0) return `${h}h ${m}m`;
@@ -53,18 +53,12 @@ function formatDuration(ms: number): string {
 }
 
 export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: WeeklyMissionPanelProps) {
-  const [now, setNow] = useState(Date.now());
   const [deployments, setDeployments] = useState<Record<string, number>>({
     sentinel: 0,
     vanguard: 0,
     wraith: 0,
     nexus: 0,
   });
-
-  useEffect(() => {
-    const id = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(id);
-  }, []);
 
   const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
   const dispatchColor = "rgba(251,146,60,0.15)";
@@ -82,7 +76,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
 
   const renderContent = () => {
     if (!mission) {
-      const timeRemaining = Math.max(0, missionState.nextMissionAt - now);
+      const ticksRemaining = Math.max(0, missionState.nextMissionAtTick - state.tick);
       const report = missionState.lastReport;
 
       return (
@@ -182,7 +176,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
                 {localize({ en: "Next Signal In", hu: "Következő Jel", de: "Nächstes Signal In", ro: "Următorul Semnal În" })}
               </div>
               <div className="text-2xl font-mono text-cyan-400">
-                {formatDuration(timeRemaining)}
+                {formatDurationTicks(ticksRemaining)}
               </div>
             </div>
             <div className="mt-8 text-xs text-white/40">
@@ -194,7 +188,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
     }
 
     if (mission.phase === "preparation") {
-      const timeRemaining = Math.max(0, mission.battleStartsAt - now);
+      const ticksRemaining = Math.max(0, mission.battleStartsAtTick - state.tick);
       
       if (mission.deployedUnits) {
         return (
@@ -213,7 +207,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
                 {localize({ en: "Attack Commences In", hu: "Támadás Kezdődik", de: "Angriff Beginnt In", ro: "Atacul Începe În" })}
               </div>
               <div className="text-2xl font-mono text-emerald-400">
-                {formatDuration(timeRemaining)}
+                {formatDurationTicks(ticksRemaining)}
               </div>
             </div>
           </div>
@@ -238,7 +232,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
                 <div className="text-[10px] font-black uppercase tracking-widest text-cyan-300/50 mb-1">
                   {localize({ en: "Time Remaining", hu: "Hátralévő Idő", de: "Verbleibende Zeit", ro: "Timp Rămas" })}
                 </div>
-                <div className="text-xl font-mono text-cyan-400 font-bold">{formatDuration(timeRemaining)}</div>
+                <div className="text-xl font-mono text-cyan-400 font-bold">{formatDurationTicks(ticksRemaining)}</div>
               </div>
             </div>
 
@@ -315,15 +309,16 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
     if (["wave1", "break1", "wave2", "break2", "wave3"].includes(mission.phase)) {
       const isBreak = mission.phase.startsWith("break");
       const currentWave = mission.phase.includes("1") ? 1 : mission.phase.includes("2") ? 2 : 3;
-      const nextEventAt = isBreak ? mission.phaseStartedAt + WEEKLY_MISSION_CONFIG.breakTimeMs : 0;
-      const timeRemaining = Math.max(0, nextEventAt - now);
+      const breakTicks = Math.floor(WEEKLY_MISSION_CONFIG.breakTimeMs / 1000);
+      const nextEventAtTick = isBreak ? mission.phaseStartedAtTick + breakTicks : 0;
+      const ticksRemaining = Math.max(0, nextEventAtTick - state.tick);
 
       return (
         <div className="flex-1 overflow-y-auto p-6 flex flex-col items-center">
           <div className="w-full max-w-2xl bg-orange-950/20 border border-orange-500/30 rounded-2xl overflow-hidden">
             <div className="bg-orange-900/40 p-4 border-b border-orange-500/20 text-center">
               <h2 className="text-xl font-black text-orange-400 uppercase tracking-widest mb-1">
-                {isBreak ? localize({ en: "Intermission", hu: "Szünet", de: "Pause", ro: "Pauză" }) : localize({ en: "Combat Active", hu: "Harc Folyamatban", de: "Kampf Aktiv", ro: "Luptă Activă" })}
+                {isBreak ? localize({ en: "Intermission", hu: "Szünet", de: "Pause", ro: "Pauză" }) : localize({ en: "Combat Active", hu: "Harc Folyamatban", de: "Kampf Aktiv", ro: "Luptă Aktivă" })}
               </h2>
               <p className="text-orange-200/70 text-sm">
                 Wave {currentWave} of 3
@@ -336,7 +331,7 @@ export default function WeeklyMissionPanel({ state, doAction, onClose, lang }: W
                   {localize({ en: "Next wave in", hu: "Következő hullám", de: "Nächste Welle in", ro: "Următorul val în" })}
                 </div>
                 <div className="text-4xl font-mono text-white/90">
-                  {formatDuration(timeRemaining)}
+                  {formatDurationTicks(ticksRemaining)}
                 </div>
               </div>
             )}

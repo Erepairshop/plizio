@@ -29,6 +29,7 @@ import {
   type GalaxyInventory,
   type GalaxyMaterialId,
 } from "@/lib/gravitas/world/mission";
+import { getAvailableActions } from "@/lib/gravitas/sim/map/actions";
 import GalaxyNodeCard, { type GalaxyMissionStatus } from "@/components/gravitas/galaxy/GalaxyNodeCard";
 import GalaxyNodeMarker from "@/components/gravitas/galaxy/GalaxyNodeMarker";
 import GalaxyDroneMarker from "@/components/gravitas/galaxy/GalaxyDroneMarker";
@@ -113,6 +114,11 @@ export default function GalaxyInteriorView({
 
   const selectedNodeMission = selectedNode && activeMission && activeMission.targetNodeId === selectedNode.id ? activeMissionStatus : null;
   const isFocusedMissionVisible = Boolean(activeMission && activeMissionTarget && focusedDroneNodeId === activeMission.targetNodeId);
+
+  const backendNode = useMemo(() => {
+    if (!selectedNode) return null;
+    return state.galaxy.transientNodes.find(n => n.id === selectedNode.id);
+  }, [selectedNode, state.galaxy.transientNodes]);
 
   useEffect(() => { activeMissionRef.current = activeMission; }, [activeMission]);
   useEffect(() => { activeMissionStatusRef.current = activeMissionStatus; }, [activeMissionStatus]);
@@ -399,6 +405,7 @@ export default function GalaxyInteriorView({
                 }
                 onRecallDrone={selectedNode.type === "resource" && activeMission ? recallDrone : null}
                 onClose={() => setSelectedNodeId(null)}
+                recommendedActions={backendNode ? getAvailableActions(state, backendNode) : []}
               />
             )}
           </AnimatePresence>

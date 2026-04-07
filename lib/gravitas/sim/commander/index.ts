@@ -10,7 +10,7 @@ export function createInitialCommanderState(): CommanderState {
       miningMissions: 0,
       unitsRepaired: 0,
       moduleLevelVariance: 0,
-      lastEvaluatedAt: Date.now(),
+      lastEvaluatedAtTick: 0,
     },
     effects: getProfileEffects("strategist"),
   };

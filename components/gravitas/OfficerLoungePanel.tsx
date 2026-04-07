@@ -25,13 +25,6 @@ const FACTION_COLORS: Record<FactionId, string> = {
 };
 
 export default function OfficerLoungePanel({ state, doAction, onClose, lang }: OfficerLoungePanelProps) {
-  const [now, setNow] = useState(Date.now());
-
-  useEffect(() => {
-    const id = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(id);
-  }, []);
-
   const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
   const dispatchColor = "rgba(168,85,247,0.15)"; // Purple tone for officers
 
@@ -43,11 +36,12 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
     doAction({ type: "DISMISS_OFFICER", officerId }, "rgba(244,63,94,0.15)");
   };
 
-  const timeUntilRefresh = Math.max(0, (state.officers.lastRecruitRefresh + OFFICER_CONFIG.recruitRefreshMs) - now);
+  const refreshTicks = Math.floor(OFFICER_CONFIG.recruitRefreshMs / 1000);
+  const timeUntilRefreshTicks = Math.max(0, (state.officers.lastRecruitRefreshTick + refreshTicks) - state.tick);
   
-  const h = Math.floor(timeUntilRefresh / 3600000);
-  const m = Math.floor((timeUntilRefresh % 3600000) / 60000);
-  const s = Math.floor((timeUntilRefresh % 60000) / 1000);
+  const h = Math.floor(timeUntilRefreshTicks / 3600);
+  const m = Math.floor((timeUntilRefreshTicks % 3600) / 60);
+  const s = Math.floor(timeUntilRefreshTicks % 60);
   const formattedRefresh = `${h}h ${m}m ${s}s`;
 
   return (
@@ -103,9 +97,9 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
                 const traitData = OFFICER_TRAITS[officer.trait];
                 const xpProgress = (officer.xp % 100) / 100;
                 
-                let healTimeRemaining = 0;
+                let healTicksRemaining = 0;
                 if (isWounded) {
-                  healTimeRemaining = Math.max(0, officer.availableAt - now);
+                  healTicksRemaining = Math.max(0, officer.availableAtTick - state.tick);
                 }
 
                 return (
@@ -143,13 +137,15 @@ export default function OfficerLoungePanel({ state, doAction, onClose, lang }: O
                           </div>
                         </div>
 
-                        {isWounded && healTimeRemaining > 0 && (
+                        {isWounded && healTicksRemaining > 0 ? (
                           <div className="mb-3 text-[10px] text-rose-300 flex items-center gap-1.5">
                             <HeartPulse size={12} className="animate-pulse" />
                             {localize({ en: "Recovery time:", hu: "Felépülési idő:", de: "Erholungszeit:", ro: "Timp recuperare:" })} 
-                            <span className="font-mono font-bold">{Math.ceil(healTimeRemaining / 60000)}m</span>
+                            <span className="font-mono font-bold">
+                              {healTicksRemaining >= 60 ? `${Math.ceil(healTicksRemaining / 60)}m` : `${healTicksRemaining}s`}
+                            </span>
                           </div>
-                        )}
+                        ) : null}
 
                         <div className="flex justify-end">
                           <button

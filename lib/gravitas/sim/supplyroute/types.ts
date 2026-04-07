@@ -8,16 +8,16 @@ export interface SupplyRoute {
   factionId: FactionId;
   materialId: GalaxyMaterialId;
   yieldPerHour: number;
-  establishedAt: number; // Date.now() timestamp
-  lastYieldAt: number; // Date.now() timestamp
+  establishedAtTick: number; // Simulation tick
+  lastYieldAtTick: number; // Simulation tick
   status: "active" | "disrupted" | "destroyed";
   protectionLevel: number; // 0-100
-  disruptedUntil: number | null; // Date.now() timestamp if disrupted
+  disruptedUntilTick: number | null; // Simulation tick if disrupted
 }
 
 export interface SupplyRouteState {
   routes: SupplyRoute[];
   maxRoutes: number;
   totalRaided: number;
-  lastRaidCheck: number; // Date.now() timestamp
+  lastRaidCheckTick: number; // Simulation tick
 }

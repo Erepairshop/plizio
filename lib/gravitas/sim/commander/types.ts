@@ -8,7 +8,7 @@ export interface CommanderMetrics {
   miningMissions: number;      // drón küldetések
   unitsRepaired: number;       // javított egységek
   moduleLevelVariance: number; // modulok szintjének szórása (alacsony = kiegyensúlyozott)
-  lastEvaluatedAt: number;     // Date.now()
+  lastEvaluatedAtTick: number; // Simulation tick
 }
 
 export interface CommanderProfileEffects {

@@ -9,10 +9,10 @@ import { pushJournal } from "../shared";
 import { applyWeeklyWaveCasualtiesToState } from "./casualties";
 import { giveWeeklyRewards } from "./rewards";
 
-function generateNextMissionTime(lastMissionAt: number): number {
+function generateNextMissionTimeTicks(lastMissionAtTick: number): number {
   const minDays = WEEKLY_MISSION_CONFIG.minDaysBetween;
   const maxDays = WEEKLY_MISSION_CONFIG.maxDaysBetween;
-  let t = lastMissionAt >>> 0;
+  let t = lastMissionAtTick >>> 0;
   const rng = () => {
     t += 0x6d2b79f5;
     let x = t;
@@ -21,7 +21,7 @@ function generateNextMissionTime(lastMissionAt: number): number {
     return ((x ^ (x >>> 14)) >>> 0) / 4294967296;
   };
   const days = minDays + rng() * (maxDays - minDays);
-  return lastMissionAt + days * 24 * 60 * 60 * 1000;
+  return lastMissionAtTick + Math.floor(days * 24 * 3600);
 }
 
 function getWorstFaction(reputation: Record<FactionId, number>): FactionId {
@@ -47,13 +47,12 @@ function getRandomFaction(exclude: FactionId, reputation: Record<FactionId, numb
   return factions[Math.floor(rng() * factions.length)];
 }
 
-export function scheduleInitialWeeklyMission(): WeeklyMissionState {
-  const now = Date.now();
+export function scheduleInitialWeeklyMission(state: StarholdState): WeeklyMissionState {
   return {
     activeMission: null,
-    lastMissionAt: now,
+    lastMissionAtTick: state.tick,
     completedCount: 0,
-    nextMissionAt: generateNextMissionTime(now),
+    nextMissionAtTick: generateNextMissionTimeTicks(state.tick),
   };
 }
 
@@ -63,23 +62,25 @@ import { BUILDING_DESCRIPTORS } from "../battle/buildingDescriptors";
 export function tickWeeklyMission(state: StarholdState): StarholdState {
   if (state.phase !== "awakened") return state;
 
-  const now = Date.now();
   let nextState = state;
   let mutated = false;
 
+  const prepTicks = Math.floor(WEEKLY_MISSION_CONFIG.preparationTimeMs / 1000);
+  const breakTicks = Math.floor(WEEKLY_MISSION_CONFIG.breakTimeMs / 1000);
+
   // Spawning
-  if (!nextState.weeklyMission.activeMission && now >= nextState.weeklyMission.nextMissionAt) {
+  if (!nextState.weeklyMission.activeMission && state.tick >= nextState.weeklyMission.nextMissionAtTick) {
     const attackerFactionId = getWorstFaction(nextState.factionReputation.reputation);
     const defenderFactionId = getRandomFaction(attackerFactionId, nextState.factionReputation.reputation);
     
     const newMission: WeeklyMission = {
-      id: `weekly_${now}`,
+      id: `weekly_${state.tick}`,
       defenderFactionId,
       attackerFactionId,
-      appearedAt: now,
-      battleStartsAt: now + WEEKLY_MISSION_CONFIG.preparationTimeMs,
+      appearedAtTick: state.tick,
+      battleStartsAtTick: state.tick + prepTicks,
       phase: "preparation",
-      phaseStartedAt: now,
+      phaseStartedAtTick: state.tick,
       deployedUnits: null,
       waveResults: [],
       worldLevel: nextState.worldLevel,
@@ -105,7 +106,7 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
   if (!mission) return mutated ? nextState : state;
 
   // Handle missed mission
-  if (mission.phase === "preparation" && now >= mission.battleStartsAt && !mission.deployedUnits) {
+  if (mission.phase === "preparation" && state.tick >= mission.battleStartsAtTick && !mission.deployedUnits) {
     const nextReputation = applyReputationChange(
       nextState.factionReputation.reputation,
       mission.defenderFactionId,
@@ -124,8 +125,8 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
         ...nextState.weeklyMission,
         activeMission: null,
         lastReport: mission,
-        lastMissionAt: now,
-        nextMissionAt: generateNextMissionTime(now + nextState.weeklyMission.completedCount),
+        lastMissionAtTick: state.tick,
+        nextMissionAtTick: generateNextMissionTimeTicks(state.tick + nextState.weeklyMission.completedCount),
       },
       journal: pushJournal(nextState, {
         en: `The ${mission.defenderFactionId} facility fell. We arrived too late.`,
@@ -138,23 +139,23 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
   }
 
   // Handle phase transitions
-  if (mission.phase === "preparation" && now >= mission.battleStartsAt && mission.deployedUnits) {
-    nextState = transitionMissionPhase(nextState, "wave1", now);
+  if (mission.phase === "preparation" && state.tick >= mission.battleStartsAtTick && mission.deployedUnits) {
+    nextState = transitionMissionPhase(nextState, "wave1", state.tick);
     mutated = true;
   } else if (mission.phase === "wave1") {
-    nextState = resolveWeeklyWave(nextState, 1, now);
+    nextState = resolveWeeklyWave(nextState, 1, state.tick);
     mutated = true;
-  } else if (mission.phase === "break1" && now >= mission.phaseStartedAt + WEEKLY_MISSION_CONFIG.breakTimeMs) {
-    nextState = transitionMissionPhase(nextState, "wave2", now);
+  } else if (mission.phase === "break1" && state.tick >= mission.phaseStartedAtTick + breakTicks) {
+    nextState = transitionMissionPhase(nextState, "wave2", state.tick);
     mutated = true;
   } else if (mission.phase === "wave2") {
-    nextState = resolveWeeklyWave(nextState, 2, now);
+    nextState = resolveWeeklyWave(nextState, 2, state.tick);
     mutated = true;
-  } else if (mission.phase === "break2" && now >= mission.phaseStartedAt + WEEKLY_MISSION_CONFIG.breakTimeMs) {
-    nextState = transitionMissionPhase(nextState, "wave3", now);
+  } else if (mission.phase === "break2" && state.tick >= mission.phaseStartedAtTick + breakTicks) {
+    nextState = transitionMissionPhase(nextState, "wave3", state.tick);
     mutated = true;
   } else if (mission.phase === "wave3") {
-    nextState = resolveWeeklyWave(nextState, 3, now);
+    nextState = resolveWeeklyWave(nextState, 3, state.tick);
     mutated = true;
   } else if (mission.phase === "completed" || mission.phase === "failed") {
     const completedWaves = mission.waveResults.filter(r => r.victory).length;
@@ -179,6 +180,24 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
       };
     }
 
+    // Release units from ledger
+    const totalKilled: Record<string, number> = {};
+    const totalWounded: Record<string, number> = {};
+    for (const res of mission.waveResults) {
+      for (const [uId, count] of Object.entries(res.unitsLost)) {
+        totalKilled[uId] = (totalKilled[uId] || 0) + count;
+      }
+      for (const [uId, count] of Object.entries(res.unitsWounded)) {
+        totalWounded[uId] = (totalWounded[uId] || 0) + count;
+      }
+    }
+    nextState = releaseAllocationWithCasualties(
+      nextState, 
+      mission.id, 
+      totalKilled as Record<import("../warroom/types").WarRoomUnitId, number>,
+      totalWounded as Record<import("../warroom/types").WarRoomUnitId, number>
+    );
+
     const overallLesson = mission.phase === "completed"
       ? { en: "A flawless defense. The garrison held strong.", hu: "Hibátlan védelem. A helyőrség kitartott.", de: "Eine makellose Verteidigung. Die Garnison hielt stand.", ro: "O apărare impecabilă. Garnizoana a rezistat." }
       : { en: "Defenses crumbled under pressure. Reinforcements needed.", hu: "A védelem összeomlott a nyomás alatt. Erősítésre van szükség.", de: "Die Verteidigung brach unter dem Druck zusammen. Verstärkung erforderlich.", ro: "Apărarea s-a prăbușit sub presiune. E nevoie de întăriri." };
@@ -193,9 +212,9 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
           rewardBreakdown: breakdown,
           overallLesson
         },
-        lastMissionAt: now,
+        lastMissionAtTick: state.tick,
         completedCount: mission.phase === "completed" ? nextState.weeklyMission.completedCount + 1 : nextState.weeklyMission.completedCount,
-        nextMissionAt: generateNextMissionTime(now + nextState.weeklyMission.completedCount + mission.waveResults.length),
+        nextMissionAtTick: generateNextMissionTimeTicks(state.tick + nextState.weeklyMission.completedCount + mission.waveResults.length),
       }
     };
     mutated = true;
@@ -204,7 +223,7 @@ export function tickWeeklyMission(state: StarholdState): StarholdState {
   return mutated ? nextState : state;
 }
 
-function transitionMissionPhase(state: StarholdState, phase: WeeklyMission["phase"], now: number): StarholdState {
+function transitionMissionPhase(state: StarholdState, phase: WeeklyMission["phase"], tick: number): StarholdState {
   const mission = state.weeklyMission.activeMission;
   if (!mission) return state;
   return {
@@ -214,13 +233,13 @@ function transitionMissionPhase(state: StarholdState, phase: WeeklyMission["phas
       activeMission: {
         ...mission,
         phase,
-        phaseStartedAt: now,
+        phaseStartedAtTick: tick,
       }
     }
   };
 }
 
-function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): StarholdState {
+function resolveWeeklyWave(state: StarholdState, waveNum: number, tick: number): StarholdState {
   const mission = state.weeklyMission.activeMission;
   if (!mission || !mission.deployedUnits) return state;
 
@@ -261,7 +280,7 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
       garrison: mockEnemyBuilding.stats.garrison,
     },
     revealedTraits: [],
-    lastScoutedAt: now,
+    lastScoutedAtTick: tick,
   };
 
   const attackerFaction = GALAXY_FACTIONS[mission.attackerFactionId];
@@ -276,7 +295,7 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
     descriptor: weeklyDescriptor,
     faction: attackerFaction,
     battleHistory: state.battleState.battleHistory,
-    seedNow: now,
+    seedNow: tick,
   });
 
   const { nextState, computedCasualties } = applyWeeklyWaveCasualtiesToState(state, result);
@@ -356,20 +375,28 @@ function resolveWeeklyWave(state: StarholdState, waveNum: number, now: number): 
       activeMission: {
         ...nextMission,
         phase: nextPhase,
-        phaseStartedAt: now,
+        phaseStartedAtTick: tick,
       }
     }
   };
 }
 
+import { reserveUnits, releaseAllocation, releaseAllocationWithCasualties } from "../warroom/ledger";
+
 export function deployWeeklyUnits(state: StarholdState, units: Record<string, number>): StarholdState {
   const mission = state.weeklyMission.activeMission;
   if (!mission || mission.phase !== "preparation") return state;
 
+  const reservation = reserveUnits(state, mission.id, "weekly", units as Record<import("../warroom/types").WarRoomUnitId, number>);
+  
+  if (!reservation.success) {
+    return state; // Or alert missing units
+  }
+
   return {
-    ...state,
+    ...reservation.nextState,
     weeklyMission: {
-      ...state.weeklyMission,
+      ...reservation.nextState.weeklyMission,
       activeMission: {
         ...mission,
         deployedUnits: units,

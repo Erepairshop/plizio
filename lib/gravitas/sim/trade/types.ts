@@ -15,15 +15,15 @@ export interface TradeOffer {
   materialWanted: GalaxyMaterialId;
   amountWanted: number;
   originalAmountWanted: number;
-  expiresAt: number; // Date.now() timestamp
+  expiresAtTick: number; // Simulation tick
   negotiationAttempts: number;
 }
 
 export interface ActiveTrade {
   id: string;
   offer: TradeOffer; // The accepted offer details
-  startedAt: number;
-  completesAt: number;
+  startedAtTick: number;
+  completesAtTick: number;
   status: "in_transit" | "completed" | "intercepted" | "seized" | "delayed";
 }
 
@@ -31,6 +31,6 @@ export interface TradeSystemState {
   marketState: TradeMarketState;
   offers: TradeOffer[];
   activeTrades: ActiveTrade[];
-  lastRefreshAt: number; // Date.now() timestamp
-  marketStateUpdatedAt: number;
+  lastRefreshAtTick: number; // Simulation tick
+  marketStateUpdatedAtTick: number;
 }

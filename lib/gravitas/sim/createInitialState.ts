@@ -22,6 +22,8 @@ import { createInitialExpeditionState } from "./expeditions/index";
 import { createInitialGalaxyMap } from "./map/engine";
 import { recalculateDerivedState } from "./derived";
 
+import { createDefaultGalaxyInventory } from "../world/mission";
+
 import { defaultAllocation } from "./battle/avatarCombat";
 
 export function createInitialStarholdState(chapter: StarholdChapterId = "demo"): StarholdState {
@@ -61,7 +63,9 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
         signalRange: 30,
         supplyFlow: 20,
         antimatter: 10,
+        chronoCore: 0,
       },
+      inventory: createDefaultGalaxyInventory(),
       marks: {
         reactorScar: 0,
         shellStrain: 0,
@@ -176,17 +180,34 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       galaxyCycle: createInitialGalaxyCycle(),
       galaxy: createInitialGalaxyMap(),
       dilemmaSystem: createInitialDilemmaState(),
-      tradeSystem: { offers: [], activeTrades: [], marketState: "normal" as const, marketStateUpdatedAt: Date.now(), lastRefreshAt: Date.now() },
-      weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
+      tradeSystem: { offers: [], activeTrades: [], marketState: "normal" as const, marketStateUpdatedAtTick: 0, lastRefreshAtTick: 0 },
+      weeklyMission: { activeMission: null, lastMissionAtTick: 0, completedCount: 0, nextMissionAtTick: 5 * 24 * 60 * 60 },
       commander: createInitialCommanderState(),
       espionage: createInitialEspionageState(),
       research: createInitialResearchState(["weapons", "shields"]),
-      supplyRoutes: createInitialSupplyRouteState(),
+      supplyRoutes: createInitialSupplyRouteState(0),
       codex: createInitialCodexState(),
       notifications: createInitialNotificationState(),
       officers: createInitialOfficerState().officerState,
-      factionWars: createInitialFactionWarState(),
+      factionWars: createInitialFactionWarState(0),
       expeditions: createInitialExpeditionState(),
+      starChamber: {
+        unlockedItemIds: [],
+        itemCooldowns: {},
+        rotation: {
+          dailyOffers: [],
+          weeklyOffers: [],
+          lastDailyRefreshTick: -100000,
+          lastWeeklyRefreshTick: -1000000,
+          currentSeed: 0,
+        },
+      },
+      dailyTasks: {
+        weeklySet: [],
+        progress: {},
+        claimedTaskIds: [],
+        lastWeeklyRefreshTick: -1000000,
+      },
       statistics: {
         trauma: {
           agentsLost: 0,
@@ -196,6 +217,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
         },
       },
       archive: {
+        events: [],
+        lastViewedTick: 0,
         expiredMapNodes: [],
         completedFleets: [],
         completedExpeditions: [],
@@ -238,9 +261,10 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       signalRange: 30,
       supplyFlow: 20,
       antimatter: 0,
+      chronoCore: 0,
     },
-    marks: {
-      reactorScar: 0,
+    inventory: createDefaultGalaxyInventory(),
+    marks: {      reactorScar: 0,
       shellStrain: 0,
       supplyStress: 0,
       voidEcho: 0,
@@ -333,17 +357,34 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
     galaxyCycle: createInitialGalaxyCycle(),
     galaxy: createInitialGalaxyMap(),
     dilemmaSystem: createInitialDilemmaState(),
-    tradeSystem: { offers: [], activeTrades: [], marketState: "normal" as const, marketStateUpdatedAt: Date.now(), lastRefreshAt: Date.now() },
-    weeklyMission: { activeMission: null, lastMissionAt: Date.now(), completedCount: 0, nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000 },
+    tradeSystem: { offers: [], activeTrades: [], marketState: "normal" as const, marketStateUpdatedAtTick: 0, lastRefreshAtTick: 0 },
+    weeklyMission: { activeMission: null, lastMissionAtTick: 0, completedCount: 0, nextMissionAtTick: 5 * 24 * 60 * 60 },
     commander: createInitialCommanderState(),
     espionage: createInitialEspionageState(),
     research: createInitialResearchState(["weapons", "shields"]),
-    supplyRoutes: createInitialSupplyRouteState(),
+    supplyRoutes: createInitialSupplyRouteState(0),
     codex: createInitialCodexState(),
     notifications: createInitialNotificationState(),
     officers: createInitialOfficerState().officerState,
-    factionWars: createInitialFactionWarState(),
+    factionWars: createInitialFactionWarState(0),
     expeditions: createInitialExpeditionState(),
+    starChamber: {
+      unlockedItemIds: [],
+      itemCooldowns: {},
+      rotation: {
+        dailyOffers: [],
+        weeklyOffers: [],
+        lastDailyRefreshTick: -100000,
+        lastWeeklyRefreshTick: -1000000,
+        currentSeed: 0,
+      },
+    },
+    dailyTasks: {
+      weeklySet: [],
+      progress: {},
+      claimedTaskIds: [],
+      lastWeeklyRefreshTick: -1000000,
+    },
     statistics: {
       trauma: {
         agentsLost: 0,
@@ -353,6 +394,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       },
     },
     archive: {
+      events: [],
+      lastViewedTick: 0,
       expiredMapNodes: [],
       completedFleets: [],
       completedExpeditions: [],

@@ -66,10 +66,21 @@ function formatTimeLeft(ms: number): string {
 export default function ExpeditionsPanel({ state, doAction, onClose, lang }: ExpeditionsPanelProps) {
   const [now, setNow] = useState(Date.now());
   const [activeTab, setActiveTab] = useState<"new" | "active" | "history">("active");
-  const [selectedUnits, setSelectedUnits] = useState<Record<WarRoomUnitId, number>>({} as any);
+  const [selectedUnits, setSelectedUnits] = useState<Partial<Record<WarRoomUnitId, number>>>({});
   const [routeProfile, setRouteProfile] = useState<import("@/lib/gravitas/sim/expeditions/types").ExpeditionRouteProfile>("safe");
   const [durationMode, setDurationMode] = useState<ExpeditionDurationType>("short");
   const [officerId, setOfficerId] = useState<string>("");
+  const [lastExpeditionCount, setLastExpeditionCount] = useState(state.expeditions.activeExpeditions.length);
+
+  // Reset selection only on successful launch
+  useEffect(() => {
+    if (state.expeditions.activeExpeditions.length > lastExpeditionCount) {
+      setSelectedUnits({});
+      setOfficerId("");
+      setActiveTab("active");
+    }
+    setLastExpeditionCount(state.expeditions.activeExpeditions.length);
+  }, [state.expeditions.activeExpeditions.length, lastExpeditionCount]);
 
   // Sync duration with route to keep UI simple but distinct
   const handleRouteSelect = (route: import("@/lib/gravitas/sim/expeditions/types").ExpeditionRouteProfile) => {
@@ -96,10 +107,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
   };
 
   const handleLaunch = () => {
-    doAction({ type: "LAUNCH_EXPEDITION", durationMode, routeProfile, fleet: { units: selectedUnits, officerId: officerId || undefined } }, "rgba(56,189,248,0.2)");
-    setSelectedUnits({} as any);
-    setOfficerId("");
-    setActiveTab("active");
+    doAction({ type: "LAUNCH_EXPEDITION", durationMode, routeProfile, fleet: { units: selectedUnits as Record<WarRoomUnitId, number>, officerId: officerId || undefined } }, "rgba(56,189,248,0.2)");
   };
 
   const handleRecall = (id: string) => {
@@ -175,7 +183,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                         </div>
                         <div>
                           <div className="text-xs font-mono">{durationData.hours}h</div>
-                          {!available && <div className="text-[9px] text-rose-400 mt-1 uppercase">Sensor LVL {durationData.minSensor} req.</div>}
+                          {!available && <div className="text-[9px] text-rose-400 mt-1 uppercase">{localize({ en: "Sensor LVL", hu: "Szenzor SZINT", de: "Sensor LVL", ro: "Senzor LVL" })} {durationData.minSensor} {localize({ en: "req.", hu: "szüks.", de: "erf.", ro: "nec." })}</div>}
                         </div>
                       </button>
                     );
@@ -187,7 +195,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
               <div>
                 <h3 className="text-xs font-black uppercase tracking-widest text-sky-400/80 mb-3 flex justify-between">
                   <span>{localize({ en: "Assign Fleet", hu: "Flotta Kijelölése", de: "Flotte zuweisen", ro: "Asignare Flotă" })}</span>
-                  <span className="text-white/50">{totalSelected} Units Selected</span>
+                  <span className="text-white/50">{totalSelected} {localize({ en: "Units Selected", hu: "Egység Kijelölve", de: "Einheiten ausgewählt", ro: "Unități Selectate" })}</span>
                 </h3>
                 <div className="space-y-2">
                   {Object.entries(state.warRoom.garrison).map(([rawUnitId, entries]) => {
@@ -203,14 +211,14 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                           <span className="text-sm font-bold uppercase tracking-wider">{localize(UNIT_NAMES[unitId])}</span>
                         </div>
                         <div className="flex items-center gap-3">
-                          <div className="text-[10px] font-mono text-white/40">{available} Avail</div>
+                          <div className="text-[10px] font-mono text-white/40">{available} {localize({ en: "Avail", hu: "Elérh.", de: "Verf.", ro: "Disp." })}</div>
                           <div className="flex items-center bg-white/5 rounded-lg overflow-hidden border border-white/10">
                             <button onClick={() => handleUnitChange(unitId, -10)} className="px-3 py-1 hover:bg-white/10 transition">-10</button>
                             <button onClick={() => handleUnitChange(unitId, -1)} className="px-3 py-1 hover:bg-white/10 transition border-r border-white/10">-</button>
                             <div className="w-12 text-center font-mono font-bold text-sky-300">{selected}</div>
                             <button onClick={() => handleUnitChange(unitId, 1)} className="px-3 py-1 hover:bg-white/10 transition border-l border-white/10">+</button>
                             <button onClick={() => handleUnitChange(unitId, 10)} className="px-3 py-1 hover:bg-white/10 transition">+10</button>
-                            <button onClick={() => handleUnitChange(unitId, available)} className="px-3 py-1 hover:bg-white/10 transition text-[9px] uppercase tracking-widest font-black text-sky-400">All</button>
+                            <button onClick={() => handleUnitChange(unitId, available)} className="px-3 py-1 hover:bg-white/10 transition text-[9px] uppercase tracking-widest font-black text-sky-400">{localize({ en: "All", hu: "Mind", de: "Alle", ro: "Toate" })}</button>
                           </div>
                         </div>
                       </div>
@@ -227,7 +235,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                     onClick={() => setOfficerId("")}
                     className={`p-3 rounded-xl border text-left transition-all text-xs font-bold uppercase tracking-widest ${officerId === "" ? "bg-sky-500/20 border-sky-400 text-white" : "bg-white/5 border-white/10 text-white/50"}`}
                   >
-                    No Officer
+                    {localize({ en: "No Officer", hu: "Nincs Tiszt", de: "Kein Offizier", ro: "Fără Ofițer" })}
                   </button>
                   {state.officers.active.map(o => (
                     <button
@@ -237,7 +245,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                       className={`p-3 rounded-xl border text-left transition-all flex justify-between items-center ${o.status !== "ready" ? "opacity-30 grayscale cursor-not-allowed" : officerId === o.id ? "bg-purple-900/40 border-purple-400 text-white" : "bg-white/5 border-white/10 hover:bg-white/10"}`}
                     >
                       <div className="font-bold text-xs uppercase tracking-widest">{o.name} <span className="text-[9px] text-white/40">LVL {o.level}</span></div>
-                      {o.status !== "ready" && <span className="text-[9px] text-rose-400 uppercase">Busy</span>}
+                      {o.status !== "ready" && <span className="text-[9px] text-rose-400 uppercase">{localize({ en: "Busy", hu: "Foglalt", de: "Besetzt", ro: "Ocupat" })}</span>}
                     </button>
                   ))}
                 </div>
@@ -265,10 +273,10 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                 </div>
               ) : (
                 state.expeditions.activeExpeditions.map(exp => {
-                  const targetTime = exp.status === "returning" ? exp.returnAt! : exp.endsAt;
-                  const totalTime = exp.status === "returning" ? (exp.returnAt! - exp.logs[exp.logs.length-1].timestamp) : (exp.endsAt - exp.startedAt);
-                  const remaining = Math.max(0, targetTime - now);
-                  const progress = Math.min(100, Math.max(0, 100 - (remaining / totalTime) * 100));
+                  const targetTick = exp.status === "returning" ? exp.returnAtTick! : exp.endsAtTick;
+                  const totalTicks = exp.status === "returning" ? (exp.returnAtTick! - exp.logs[exp.logs.length-1].tick) : (exp.endsAtTick - exp.startedAtTick);
+                  const remainingTicks = Math.max(0, targetTick - state.tick);
+                  const progress = Math.min(100, Math.max(0, 100 - (remainingTicks / totalTicks) * 100));
 
                   const officer = exp.fleet.officerId ? state.officers.active.find(o => o.id === exp.fleet.officerId) : null;
                   const totalUnits = Object.values(exp.fleet.units).reduce((a, b) => a + b, 0);
@@ -288,13 +296,13 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                             <span className="text-[10px] text-white/40 uppercase tracking-widest">{localize(DURATIONS[exp.durationMode].label)}</span>
                           </div>
                           <div className="text-xs text-white/60 font-medium">
-                            {totalUnits} Units deployed {officer ? `under Cmdr. ${officer.name}` : "without command"}
+                            {totalUnits} {localize({ en: "Units deployed", hu: "Egység bevetve", de: "Einheiten eingesetzt", ro: "Unități desfășurate" })} {officer ? `${localize({ en: "under Cmdr.", hu: "Cmdr. alatt:", de: "unter Kmdr.", ro: "sub Cmdr." })} ${officer.name}` : localize({ en: "without command", hu: "parancsnokság nélkül", de: "ohne Kommando", ro: "fără comandă" })}
                           </div>
                         </div>
                         
                         <div className="text-right">
-                          <div className="text-2xl font-mono text-white tracking-tight">{formatTimeLeft(remaining)}</div>
-                          <div className="text-[10px] uppercase font-black tracking-widest text-sky-400/60">Estimated Arrival</div>
+                          <div className="text-2xl font-mono text-white tracking-tight">{formatTimeLeft(remainingTicks * 1000)}</div>
+                          <div className="text-[10px] uppercase font-black tracking-widest text-sky-400/60">{localize({ en: "Estimated Arrival", hu: "Várható Érkezés", de: "Voraussichtliche Ankunft", ro: "Sosire Estimată" })}</div>
                         </div>
                       </div>
 
@@ -302,7 +310,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                         {exp.logs.map((log, i) => (
                           <div key={i} className="flex gap-3 text-xs leading-relaxed">
                             <span className="text-[10px] font-mono text-white/30 shrink-0 pt-0.5">
-                              {new Date(log.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                              T{log.tick}
                             </span>
                             <div className={`flex-1 font-medium ${
                               log.resultType === "danger" || log.resultType === "disaster" ? "text-rose-300" :
@@ -345,7 +353,7 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                     <div className="flex flex-col md:flex-row md:items-center justify-between mb-3 border-b border-white/5 pb-3 gap-2">
                       <div>
                         <div className="text-[10px] font-black uppercase tracking-widest text-white/50 mb-1">
-                          {new Date(exp.startedAt).toLocaleDateString()} - {localize(DURATIONS[exp.durationMode].label)}
+                          TICK {exp.startedAtTick} - {localize(DURATIONS[exp.durationMode].label)}
                         </div>
                         <div className="flex gap-2">
                           <span className={`px-2 py-0.5 rounded text-[9px] font-black uppercase tracking-widest ${exp.routeProfile === "black_route" ? "bg-fuchsia-500/20 text-fuchsia-400 border border-fuchsia-500/30" : "bg-sky-500/20 text-sky-400 border border-sky-500/30"}`}>
@@ -365,11 +373,19 @@ export default function ExpeditionsPanel({ state, doAction, onClose, lang }: Exp
                       <div className="flex flex-wrap gap-3">
                         {exp.rewardBreakdown?.finalLoot.supply && <div className="text-xs font-mono text-emerald-400 flex items-center gap-1"><Package size={12} /> +{exp.rewardBreakdown.finalLoot.supply} SU</div>}
                         {exp.rewardBreakdown?.finalLoot.intel && <div className="text-xs font-mono text-cyan-400 flex items-center gap-1"><Activity size={12} /> +{exp.rewardBreakdown.finalLoot.intel} Intel</div>}
-                        {Object.entries(exp.casualties).map(([unitId, count]) => {
+                        {Object.entries(exp.casualties.killed).map(([unitId, count]) => {
                           if (!count) return null;
                           return (
-                            <div key={unitId} className="text-xs font-mono text-rose-400 flex items-center gap-1">
-                              <AlertTriangle size={12} /> -{count} {unitId.split('_').pop()}
+                            <div key={`killed_${unitId}`} className="text-xs font-mono text-rose-400 flex items-center gap-1">
+                              <AlertTriangle size={12} /> -{count} {unitId.split('_').pop()} (Lost)
+                            </div>
+                          );
+                        })}
+                        {Object.entries(exp.casualties.wounded).map(([unitId, count]) => {
+                          if (!count) return null;
+                          return (
+                            <div key={`wounded_${unitId}`} className="text-xs font-mono text-amber-400 flex items-center gap-1">
+                              <Activity size={12} /> -{count} {unitId.split('_').pop()} (Wounded)
                             </div>
                           );
                         })}

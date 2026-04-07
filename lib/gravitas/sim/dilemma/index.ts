@@ -5,7 +5,7 @@ export function createInitialDilemmaState(): DilemmaSystemState {
     history: [],
     memoryLog: [],
     pendingEffects: [],
-    lastDilemmaAt: Date.now(),
+    lastDilemmaAtTick: 0,
     lastRareMonth: -1,
     activeDilemma: null,
   };

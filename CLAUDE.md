@@ -68,7 +68,7 @@ Minden feladat végén:
 | `components/gravitas/GalaxyInteriorView.tsx` | ~700 | Legacy galaxis térkép (meteorit bányászat, fallback) |
 | `components/gravitas/GravitasMaterialStrip.tsx` | ~80 | HUD anyag csík (6 meteor anyag) |
 | `components/gravitas/warroom/` | mappa | WarRoomPanel.tsx, WarRoomUnitCard.tsx |
-| `components/gravitas/GravitasShop.tsx` | ~230 | Bolt (star shop) |
+| `components/gravitas/GravitasShop.tsx` | ~230 | Régi bolt-keret, jelenleg Csillagkamra / különleges rendszer hub |
 | `components/gravitas/GravitasImprint.tsx` | ~220 | Avatar imprint hold UI |
 | `components/gravitas/AwakeningCeremony.tsx` | ~140 | Avatar ébredési ceremónia |
 | `lib/gravitas/economy.ts` | ~351 | **KÖZPONTI** ár/költség konfig — MINDEN ár itt van |
@@ -236,14 +236,30 @@ WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone"
 - Galaxy: drón mission ciklus megy (`traveling -> mining -> returning -> clear`).
 
 ### Új rendszerek (2026)
-- **Értesítési rendszer (Notifications):** Queue-olt események (alert hook), max 20 item, 5 perc után auto-dismiss.
-- **Kódex (Codex):** Játékbeli enciklopédia, lore és mechanikai tudás-morzsák (read/unread state).
-- **Tiszti rendszer (Officers):** Toborozható hősök trait-ekkel (Tactician, Brute, stb.). XP-t kapnak, a csaták után megsebesülhetnek (4h cooldown) vagy meg is halhatnak (permadeath).
+- **Értesítési rendszer (Notifications):** queue-olt események (alert hook), max 20 item, 5 perc után auto-dismiss.
+- **Kódex (Codex):** játékbeli enciklopédia, lore és mechanikai tudás-morzsák (read/unread state).
+- **Krónika / Archívum:** fontos események visszanézhető archívuma (battle, fleet, trade, expedition, rewards, alerts). Nem spam-log.
+- **Csillagkamra:** a régi shop-keret helyett különleges rendszerek hubja. Csillaggal feloldható és nyersanyaggal karbantartható mobilitási / support / access / cohesion / special itemek.
+- **Napi Feladatok:** 7 napos rotációs feladatkészlet, opcionális, csillagot és ritka extra jutalmat adhat.
+- **Tiszti rendszer (Officers):** toborozható hősök trait-ekkel (Tactician, Brute, stb.). XP-t kapnak, a csaták után megsebesülhetnek (4h cooldown) vagy meg is halhatnak (permadeath).
 - **Frakció Háborúk (Faction Wars):** 48 óránként generálódó 24 órás konfliktusok NPC frakciók között. A játékos "intervene" módban sereget küldhet, oldalt választva (+20/-20 reputáció). 61+ reputációnál egyedi szövetséges egységek válnak elérhetővé (pl. Velari Shadow, Synthoid Titan).
-- **Expedíciók (Expeditions):** Mélyűri küldetések (4h, 12h, 24h, 72h). Flotta + tiszt + ellátmány kell hozzá. A Sensor szint (1/3/5/8) gate-eli a távokat. RNG alapú narratív események út közben (safe, discovery, reward, danger, disaster).
-- **Csata Visszajátszás (Battle Replay):** Részletes, lépésről-lépésre (turn-by-turn) vizualizáció az automata csaták elemzéséhez.
-- **Javítóműhely (Repair Bay):** Visszatérő sebesült egységek korlátozott ideig javíthatók alapanyagokért, ha a Core szintjétől függő decay idő letelik, a sebesültek meghalnak.
-- **Offline Progress:** Állandó mentés másodpercenként és gombnyomáskor (state.tick függés eltávolítva). Bejelentkezéskor popup riport készül az inaktív időben befejeződött gyártásokról, fejlesztésekről és drón küldetésekről.
+- **Expedíciók (Expeditions):** mélyűri küldetések (4h, 12h, 24h, 72h). Flotta + tiszt + ellátmány kell hozzá. A Sensor szint (1/3/5/8) gate-eli a távokat. RNG alapú narratív események út közben (safe, discovery, reward, danger, disaster).
+- **Ledger / Reservation:** központi unit foglalási réteg, amely a fleet/expedition/battle felhasználást egységesíti. `available / reserved / traveling / working / returning / wounded / lost` bontás.
+- **Trade rendszer:** anyag-alapú barter, seedelt ajánlatgenerálással, partnerType/routeType enumokkal és tick-alapú tranzit állapottal.
+- **Csata Visszajátszás (Battle Replay):** részletes, lépésről-lépésre (turn-by-turn) vizualizáció az automata csaták elemzéséhez.
+- **Javítóműhely (Repair Bay):** visszatérő sebesült egységek korlátozott ideig javíthatók alapanyagokért, ha a Core szintjétől függő decay idő letelik, a sebesültek meghalnak.
+- **Rotációs Csillagkamra kínálat:** napi és heti ajánlatok / unlockok, külön csillag + nyersanyag / charge árképzéssel.
+- **Offline Progress:** a gameplay továbbra is tick-alapú, az offline catch-up wall-clock időből számolódik, majd a sim állapotba fordul vissza. A meta/UI időbélyegek maradhatnak `Date.now()`-on, de a mission/fleet/cooldown timing ne keveredjen.
+
+### Aktuális Gravitas UI/Backend contract (2026-04)
+
+- **Fő játékidő:** `state.tick` a canonical gameplay időalap. Fleet ETA, mission resolve, trade/travel, repair, research és cooldown timing erre épüljön.
+- **Valós idő:** `Date.now()` csak offline restore, persistence meta és legacy/UI időbélyegek esetén maradhat.
+- **Csillagkamra elérés:** a jobb oldali “Kamra” gomb nyitja; a panelen külön tabok lehetnek (Mobility, Support, Access, Cohesion, Specials, Daily/Weekly Rotation).
+- **Krónika elérés:** a backend archivál fontos eseményeket, a UI csak olvassa és szűrve jeleníti meg.
+- **Action feedback:** a map / expedition / trade flow rövid, tömör backend feedbacket adjon; a UI ne találjon ki szabályt.
+- **Fleet picker / ledger:** az expedition és galaxy dispatch mindig a ledgeren át foglaljon, ugyanaz az egység ne legyen több missionben.
+- **Legacy islandek:** a `GalaxyInteriorView` és hasonló fallback panelek maradhatnak átmenetileg, de új gameplay szabályt ne építsünk rájuk.
 
 ### Gravitas Game Core Design Philosophy (CRITICAL RULES)
 1. **Semmi nem lehet egyszerű (Nothing should be simple)** — Ha egy játékos 1 nap alatt kitanulja, az rossz. Minden rendszernek hetekig tartó mélysége kell legyen.
@@ -257,7 +273,7 @@ WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone"
 - **Dinamikus import TILOS (`import()`):** Mindig használj statikus importot (`import { fn } from "./path"`).
 - **TS ellenőrzés futtatása memórialimittel:** `NODE_OPTIONS="--max-old-space-size=4096" npx tsc --noEmit`. (Több ezer soros fájlok oom-ot okozhatnak natív TS runnál).
 - **Kód duplikáció kerülése:** Ne másolj be nagy blokkokat `page.tsx` és `tick.ts` fájlokban.
-- **Valós idő (Real-time timers):** `Date.now()` használata timer-ekre (completesAt, startedAt) a tick-ek (state.tick) helyett a perzisztencia érdekében.
+- **Valós idő (Real-time timers):** `Date.now()` csak offline restore / persistence meta / legacy UI timer esetén. Gameplay-hez, fleet ETA-hoz, mission resolve-hoz, cooldownhoz és tranzithoz `state.tick` az elsődleges.
 - **LocalizedString objektum:** Mindig tartalmaznia kell mind a 4 nyelvet (`{ en, hu, de, ro }`).
 - **Ikonok:** Kizárólag `lucide-react`.
 - **Állapot struktúra (State):** Ha módosítod a `StarholdState`-et, KÖTELEZŐ frissíteni a `demo` és `continuation` állapotokat a `createInitialState.ts`-ben, ÉS le kell kezelni a backward-kompatibilis fallback-et a `persistence.ts`-ben.

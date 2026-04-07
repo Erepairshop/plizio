@@ -13,6 +13,10 @@ import { isBootstrapComplete } from "./bootstrap";
 import { isDemoChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { tickWarRoom } from "./warroom";
+import { tickLedger } from "./warroom/ledger";
+import { pushArchiveEvent } from "./archive/manager";
+import { tickStarChamberRotation } from "./starchamber/rotation/engine";
+import { tickDailyTasks } from "./tasks/engine";
 import { tickRepairBay, getRepairSlotCount } from "./repairbay";
 import { applyStarholdCommand } from "./commands";
 import { getEnemyResetTime, WORLD_LEVEL_TEXTS } from "./battle/worldScaling";
@@ -39,12 +43,11 @@ import { recalculateDerivedState } from "./derived";
 
 /** Manage dynamic galaxy phases */
 function tickGalaxyCycle(state: StarholdState): StarholdState {
-  const now = Date.now();
   let nextState = state;
 
   // 1. Check for phase transition
-  if (now >= state.galaxyCycle.phaseEndsAt) {
-    const nextCycle = advanceCyclePhase(state.galaxyCycle);
+  if (state.tick >= state.galaxyCycle.phaseEndsAtTick) {
+    const nextCycle = advanceCyclePhase(state.galaxyCycle, state.tick);
     const nextPhase = nextCycle.currentPhase;
     const phaseName = CYCLE_PHASE_NAMES[nextPhase];
 
@@ -103,11 +106,14 @@ function tickGalaxyCycle(state: StarholdState): StarholdState {
 
 /** Check if world level should increase based on core level and time */
 function tickFactionReputation(state: StarholdState): StarholdState {
-  const now = Date.now();
-  if (now - state.factionReputation.lastDriftAt >= 24 * 60 * 60 * 1000) {
+  // Drift every 24 hours (86400 ticks)
+  if (state.tick - state.factionReputation.lastDriftAtTick >= 86400) {
     return {
       ...state,
-      factionReputation: applyNaturalDrift(state.factionReputation),
+      factionReputation: {
+        ...applyNaturalDrift(state.factionReputation),
+        lastDriftAtTick: state.tick,
+      }
     };
   }
   return state;
@@ -115,8 +121,8 @@ function tickFactionReputation(state: StarholdState): StarholdState {
 
 /** Daily evaluation of player playstyle profile */
 function tickCommanderProfile(state: StarholdState): StarholdState {
-  const now = Date.now();
-  if (now - state.commander.metrics.lastEvaluatedAt < 24 * 60 * 60 * 1000) {
+  // Evaluate every 24 hours (86400 ticks)
+  if (state.tick - state.commander.metrics.lastEvaluatedAtTick < 86400) {
     return state;
   }
 
@@ -142,6 +148,17 @@ function tickCommanderProfile(state: StarholdState): StarholdState {
       alert: changeAlert,
       journal: pushJournal(state, changeAlert),
     };
+
+    nextState = pushArchiveEvent(nextState, {
+      category: "unlock",
+      severity: "info",
+      importance: 4,
+      title: { en: "Commander Profile Updated", hu: "Parancsnoki Profil Frissítve", de: "Kommandantenprofil aktualisiert", ro: "Profil Comandant Actualizat" },
+      summary: changeAlert,
+      details: {
+        targetId: nextProfileId,
+      }
+    });
   }
 
   return {
@@ -150,18 +167,17 @@ function tickCommanderProfile(state: StarholdState): StarholdState {
       ...nextState.commander,
       metrics: {
         ...nextState.commander.metrics,
-        lastEvaluatedAt: now,
+        lastEvaluatedAtTick: state.tick,
       }
     }
   };
 }
 
 function tickWorldLevel(state: StarholdState): StarholdState {
-  const now = Date.now();
   const coreLevel = state.moduleLevels.core;
   
   // 1. Apply pending level increase
-  if (state.worldLevelPending && now >= state.worldLevelPending.scheduledAt) {
+  if (state.worldLevelPending && state.tick >= state.worldLevelPending.scheduledAtTick) {
     const nextLevel = state.worldLevelPending.targetLevel;
     return {
       ...state,
@@ -175,12 +191,14 @@ function tickWorldLevel(state: StarholdState): StarholdState {
   // 2. Schedule new level increase if core level is higher and nothing is pending
   if (!state.worldLevelPending && coreLevel > state.worldLevel) {
     const { time: delay, nextRng: rRng } = getEnemyResetTime(state.globalRngState);
+    // delay is in ms, convert to ticks (seconds)
+    const delayTicks = Math.floor(delay / 1000);
     return {
       ...state,
       globalRngState: rRng,
       worldLevelPending: {
         targetLevel: coreLevel,
-        scheduledAt: now + delay,
+        scheduledAtTick: state.tick + delayTicks,
       },
       alert: WORLD_LEVEL_TEXTS.pending,
     };
@@ -200,13 +218,12 @@ function tickWorldLevel(state: StarholdState): StarholdState {
   return state;
 }
 
-/** Check if any battle-related timers have completed (real-time based) */
+/** Check if any battle-related timers have completed (tick-based) */
 function tickBattle(state: StarholdState): StarholdState {
   const activeScout = state.battleState.activeScout;
   if (!activeScout) return state;
 
-  const now = Date.now();
-  if (now >= activeScout.completesAt) {
+  if (state.tick >= activeScout.completesAtTick) {
     // Re-use COMPLETE_SCOUT logic from commands
     return applyStarholdCommand(state, { type: "COMPLETE_SCOUT" });
   }
@@ -214,11 +231,10 @@ function tickBattle(state: StarholdState): StarholdState {
   return state;
 }
 
-/** Check if any module upgrades have completed (real-time based) */
+/** Check if any module upgrades have completed (tick-based) */
 function tickUpgrades(state: StarholdState): StarholdState {
   if (state.upgradeQueue.length === 0) return state;
-  const now = Date.now();
-  const completed = state.upgradeQueue.filter(s => now >= s.completesAt);
+  const completed = state.upgradeQueue.filter(s => state.tick >= s.completesAtTick);
   if (completed.length === 0) return state;
 
   let nextLevels = { ...state.moduleLevels };
@@ -246,6 +262,17 @@ function tickUpgrades(state: StarholdState): StarholdState {
     };
     journal = pushJournal({ ...state, journal }, doneText);
     alert = doneText;
+
+    state = pushArchiveEvent(state, {
+      category: "unlock",
+      severity: "success",
+      importance: 4,
+      title: { en: "Module Upgraded", hu: "Modul Fejlesztve", de: "Modul aktualisiert", ro: "Modul Îmbunătățit" },
+      summary: doneText,
+      details: {
+        targetId: slot.moduleId,
+      }
+    });
   }
 
   // Synergy evaluation after upgrade completion
@@ -267,6 +294,17 @@ function tickUpgrades(state: StarholdState): StarholdState {
         };
         journal = pushJournal({ ...state, journal }, discoverText);
         alert = discoverText; // Show the latest discovery
+
+        state = pushArchiveEvent(state, {
+          category: "unlock",
+          severity: "success",
+          importance: 5,
+          title: { en: "Synergy Discovered", hu: "Szinergia Felfedezve", de: "Synergie entdeckt", ro: "Sinergie Descoperită" },
+          summary: discoverText,
+          details: {
+            targetId: synId,
+          }
+        });
       }
     }
   }
@@ -275,7 +313,7 @@ function tickUpgrades(state: StarholdState): StarholdState {
     ...state,
     moduleLevels: nextLevels,
     repairBay: nextRepairBay,
-    upgradeQueue: state.upgradeQueue.filter(s => now < s.completesAt),
+    upgradeQueue: state.upgradeQueue.filter(s => state.tick < s.completesAtTick),
     journal,
     alert: alert ?? state.alert,
     synergies,
@@ -463,7 +501,7 @@ function advanceScavengeOperation(state: StarholdState): StarholdState {
 }
 
 export function advanceStarholdTick(inputState: StarholdState): StarholdState {
-  let state = inputState;
+  let state = { ...inputState, lastActiveAt: Date.now() };
   
   // Also process notification tick
   state = tickNotifications(state);
@@ -1111,44 +1149,54 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
   ) {
     return stabilizeContinuationTick(
       state,
-      checkStarholdMilestones(
-        tickOfficers(
-          tickCommanderProfile(
-            tickDilemmaSpawn(
-              tickDilemmaEffects(
-                tickGalaxyCycle(
-                  tickFactionReputation(
-                    tickBattle(
-                      tickTradeSystem(
-                        tickSupplyRoutes(
-                          tickWeeklyMission(
-                            tickEspionage(
-                              tickResearch(
-                                tickCodex(
-                                  tickUpgrades(
-                                    tickRepairBay(
-                                      applyStarholdEvents(
-                                        tickWarRoom({
-                                          ...threatResult.nextState,
-                                          waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                        }),
-                                      ),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-            ),
-          ),
-        ),
-      ),
+      tickFleets(
+        spawnTransientNodes(
+          checkStarholdMilestones(
+            tickOfficers(
+              tickCommanderProfile(
+                tickDilemmaSpawn(
+                  tickDilemmaEffects(
+                    tickGalaxyCycle(
+                      tickFactionReputation(
+                        tickBattle(
+                          tickTradeSystem(
+                            tickStarChamberRotation(
+                              tickDailyTasks(
+                                tickSupplyRoutes(
+                                  tickWeeklyMission(
+                                    tickEspionage(
+                                      tickResearch(
+                                        tickCodex(
+                                          tickUpgrades(
+                                            tickRepairBay(
+                                              applyStarholdEvents(
+                                                tickWarRoom(
+                                                  tickLedger({
+                                                    ...threatResult.nextState,
+                                                    waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                                  })
+                                                )
+                                              )
+                                            )
+                                          )
+                                        )
+                                      )
+                                    )
+                                  )
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
     );
   }
 
@@ -1168,18 +1216,24 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
                           tickWorldLevel(
                             tickBattle(
                               tickTradeSystem(
-                                tickSupplyRoutes(
-                                  tickWeeklyMission(
-                                    tickEspionage(
-                                      tickResearch(
-                                        tickCodex(
-                                          tickUpgrades(
-                                            tickRepairBay(
-                                              applyStarholdEvents(
-                                                tickWarRoom({
-                                                  ...threatResult.nextState,
-                                                  waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                                })
+                                tickStarChamberRotation(
+                                  tickDailyTasks(
+                                    tickSupplyRoutes(
+                                      tickWeeklyMission(
+                                        tickEspionage(
+                                          tickResearch(
+                                            tickCodex(
+                                              tickUpgrades(
+                                                tickRepairBay(
+                                                  applyStarholdEvents(
+                                                    tickWarRoom(
+                                                      tickLedger({
+                                                        ...threatResult.nextState,
+                                                        waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                                      })
+                                                    )
+                                                  )
+                                                )
                                               )
                                             )
                                           )

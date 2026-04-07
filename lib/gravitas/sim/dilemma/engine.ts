@@ -15,8 +15,8 @@ export function selectRandomDilemma(state: StarholdState): { event: DilemmaEvent
     if (def.requiredPhase && state.galaxyCycle.currentPhase !== def.requiredPhase) return false;
 
     // 2. Cooldown check
-    const lastTime = state.dilemmaSystem.history.filter(h => h.dilemmaId === def.id).sort((a, b) => b.timestamp - a.timestamp)[0]?.timestamp || 0;
-    if (Date.now() - lastTime < def.cooldownDays * 24 * 60 * 60 * 1000) return false;
+    const lastTick = state.dilemmaSystem.history.filter(h => h.dilemmaId === def.id).sort((a, b) => b.atTick - a.atTick)[0]?.atTick || 0;
+    if (state.tick - lastTick < def.cooldownTicks) return false;
 
     // 3. Rare check
     if (def.rare) {
@@ -26,7 +26,7 @@ export function selectRandomDilemma(state: StarholdState): { event: DilemmaEvent
 
     // 4. Conditions check
     const cond = def.conditions;
-    if (cond.minPlayDays && state.tick < cond.minPlayDays * 24 * 60) return false;
+    if (cond.minPlayTicks && state.tick < cond.minPlayTicks) return false;
     if (cond.minModuleLevel) {
       for (const [modId, level] of Object.entries(cond.minModuleLevel)) {
         if ((state.moduleLevels as Record<string, number>)[modId] < (level ?? 0)) return false;
@@ -83,7 +83,7 @@ export function triggerDilemma(state: StarholdState, event: DilemmaEvent): Starh
     globalRngState: currentRngState,
     dilemmaSystem: {
       ...state.dilemmaSystem,
-      activeDilemma: { event: { ...event, factionId, name: localizedName }, appearedAt: Date.now() },
+      activeDilemma: { event: { ...event, factionId, name: localizedName }, appearedAtTick: state.tick },
     },
     alert: localizedName,
   };
@@ -101,15 +101,15 @@ export function resolveDilemma(state: StarholdState, optionId: string): Starhold
   const choice: DilemmaChoice = {
     dilemmaId: event.id,
     optionId,
-    timestamp: Date.now(),
+    atTick: state.tick,
     factionId: event.factionId,
   };
 
   const memory: import("./types").DilemmaMemoryEntry = {
-    id: `mem_${event.id}_${Date.now()}`,
+    id: `mem_${event.id}_${state.tick}`,
     dilemmaId: event.id,
     optionId,
-    timestamp: Date.now(),
+    atTick: state.tick,
     factionId: event.factionId,
     triggeredDelayedEffects: [],
   };
@@ -122,7 +122,7 @@ export function resolveDilemma(state: StarholdState, optionId: string): Starhold
       memoryLog: [...(nextState.dilemmaSystem.memoryLog || []), memory],
       pendingEffects: [...nextState.dilemmaSystem.pendingEffects, ...effects.delayed],
       activeDilemma: null,
-      lastDilemmaAt: Date.now(),
+      lastDilemmaAtTick: state.tick,
       lastRareMonth: event.rare ? new Date().getMonth() : nextState.dilemmaSystem.lastRareMonth,
     },
     journal: pushJournal(nextState, effects.journalText),
@@ -232,15 +232,14 @@ function applyImmediateEffect(state: StarholdState, effect: DilemmaImmediateEffe
 }
 
 export function tickDilemmaEffects(state: StarholdState): StarholdState {
-  const now = Date.now();
   const pending = state.dilemmaSystem.pendingEffects;
   if (pending.length === 0) return state;
 
-  const toTrigger = pending.filter(e => now >= e.triggerAt);
+  const toTrigger = pending.filter(e => state.tick >= e.triggerAtTick);
   if (toTrigger.length === 0) return state;
 
   let nextState = state;
-  const stillPending = pending.filter(e => now < e.triggerAt);
+  const stillPending = pending.filter(e => state.tick < e.triggerAtTick);
   const memoryLog = [...(nextState.dilemmaSystem.memoryLog || [])];
   let currentRngState = nextState.globalRngState;
 
@@ -308,12 +307,10 @@ export function tickDilemmaSpawn(state: StarholdState): StarholdState {
   const sys = state.dilemmaSystem;
   if (sys.activeDilemma) return state;
 
-  const now = Date.now();
-  // 1-3 days random gap
-  const minGap = 1 * 24 * 60 * 60 * 1000;
-  const maxGap = 3 * 24 * 60 * 60 * 1000;
+  // 1-3 days random gap (in ticks: 86400 - 259200)
+  const minGap = 1 * 86400;
   
-  if (now - sys.lastDilemmaAt < minGap) return state;
+  if (state.tick - sys.lastDilemmaAtTick < minGap) return state;
 
   // Time-based threshold or a very small chance.
   let currentRngState = state.globalRngState;

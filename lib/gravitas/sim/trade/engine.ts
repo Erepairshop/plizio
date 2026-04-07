@@ -7,6 +7,7 @@ import type { GalaxyMaterialId } from "../../world/mission";
 import type { FactionId } from "../faction/types";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
 import { pushJournal } from "../shared";
+import { pushArchiveEvent } from "../archive/manager";
 import { getResearchEffect } from "../research/engine";
 import { nextRandom, randomInt } from "../rng";
 
@@ -32,12 +33,12 @@ function getMaterialBaseValue(matId: GalaxyMaterialId): number {
 const PARTNERS: TradePartnerType[] = ["loyal_trader", "opportunist", "smuggler", "faction_envoy", "relic_broker"];
 const ROUTES: TradeRouteType[] = ["local", "sector", "deep_sector", "black_route"];
 
-function getRouteDuration(routeType: TradeRouteType): number {
+function getRouteDurationTicks(routeType: TradeRouteType): number {
   switch (routeType) {
     case "local": return 0; // Instant
-    case "sector": return 4 * 60 * 60 * 1000;
-    case "deep_sector": return 12 * 60 * 60 * 1000;
-    case "black_route": return 24 * 60 * 60 * 1000;
+    case "sector": return 4 * 3600;
+    case "deep_sector": return 12 * 3600;
+    case "black_route": return 24 * 3600;
   }
 }
 
@@ -194,8 +195,9 @@ export function generateTradeOffers(state: StarholdState): { offers: TradeOffer[
        amountOffered = Math.floor(amountOffered * 1.2); // Bold bonus
     }
 
+    const refreshTicks = TRADE_CONFIG.refreshHours * 3600;
     offers.push({
-      id: `trade_${Date.now()}_${i}`,
+      id: `trade_${state.tick}_${i}`,
       factionId,
       partnerType,
       routeType,
@@ -204,7 +206,7 @@ export function generateTradeOffers(state: StarholdState): { offers: TradeOffer[
       materialWanted,
       amountWanted,
       originalAmountWanted: amountWanted,
-      expiresAt: Date.now() + (TRADE_CONFIG.refreshHours * 60 * 60 * 1000) * (state.galaxyCycle.currentPhase === "trade" ? 0.5 : 1),
+      expiresAtTick: state.tick + refreshTicks * (state.galaxyCycle.currentPhase === "trade" ? 0.5 : 1),
       negotiationAttempts: 0,
     });
   }
@@ -213,7 +215,6 @@ export function generateTradeOffers(state: StarholdState): { offers: TradeOffer[
 }
 
 export function tickTradeSystem(state: StarholdState): StarholdState {
-  const now = Date.now();
   let nextState = state;
   let mutated = false;
   let currentRngState = state.globalRngState;
@@ -222,7 +223,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
   const isBold = state.derived?.commanderBonuses.isBold;
 
   // 1. Market State Cycle (every 24h roughly)
-  if (now - nextState.tradeSystem.marketStateUpdatedAt > 24 * 60 * 60 * 1000) {
+  if (state.tick - nextState.tradeSystem.marketStateUpdatedAtTick > 24 * 3600) {
     const { marketState: nextMarketState, nextState: msRng } = updateMarketState({ ...nextState, globalRngState: currentRngState });
     currentRngState = msRng;
 
@@ -231,7 +232,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
       tradeSystem: {
         ...nextState.tradeSystem,
         marketState: nextMarketState,
-        marketStateUpdatedAt: now,
+        marketStateUpdatedAtTick: state.tick,
       },
       journal: pushJournal(nextState, {
         en: `Market state shifted to: ${nextMarketState.replace('_', ' ').toUpperCase()}`,
@@ -244,7 +245,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
   }
 
   // 2. Offer Expiration
-  const validOffers = nextState.tradeSystem.offers.filter(o => now < o.expiresAt);
+  const validOffers = nextState.tradeSystem.offers.filter(o => state.tick < o.expiresAtTick);
   if (validOffers.length !== nextState.tradeSystem.offers.length) {
     nextState = {
       ...nextState,
@@ -257,8 +258,8 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
   }
 
   // 3. Offer Generation
-  const refreshInterval = TRADE_CONFIG.refreshHours * 60 * 60 * 1000 * (state.galaxyCycle.currentPhase === "trade" ? 0.5 : 1);
-  if (now - nextState.tradeSystem.lastRefreshAt >= refreshInterval) {
+  const refreshIntervalTicks = TRADE_CONFIG.refreshHours * 3600 * (state.galaxyCycle.currentPhase === "trade" ? 0.5 : 1);
+  if (state.tick - nextState.tradeSystem.lastRefreshAtTick >= refreshIntervalTicks) {
     const { offers: newOffers, nextState: oRng } = generateTradeOffers({ ...nextState, globalRngState: currentRngState });
     currentRngState = oRng;
 
@@ -267,7 +268,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
       tradeSystem: {
         ...nextState.tradeSystem,
         offers: [...validOffers, ...newOffers].slice(-TRADE_CONFIG.maxOffers),
-        lastRefreshAt: now,
+        lastRefreshAtTick: state.tick,
       }
     };
     mutated = true;
@@ -282,7 +283,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
     }
 
     // Check completion
-    if (now >= trade.completesAt) {
+    if (state.tick >= trade.completesAtTick) {
       mutated = true;
       trade.status = "completed";
 
@@ -325,13 +326,25 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
       };
       nextState.journal = pushJournal(nextState, text);
       nextState.alert = text;
+
+      nextState = pushArchiveEvent(nextState, {
+        category: "trade",
+        severity: "success",
+        importance: 2,
+        title: { en: "Trade Completed", hu: "Kereskedelem Teljesítve", de: "Handel abgeschlossen", ro: "Comerț Finalizat" },
+        summary: text,
+        details: {
+          loot: { [trade.offer.materialOffered]: finalAmount },
+          targetId: trade.offer.factionId,
+        }
+      });
       continue; // Remove from active (or keep in a log if desired, but we drop it for now)
     }
 
     // Random Events during transit
-    const riskCheckInterval = 2 * 60 * 60 * 1000; // Check every 2 hours
-    const tradeAge = now - trade.startedAt;
-    const isCheckTime = tradeAge > 0 && Math.floor(tradeAge / 1000) % Math.floor(riskCheckInterval / 1000) === 0;
+    const riskCheckIntervalTicks = 2 * 3600; // Check every 2 hours
+    const tradeAgeTicks = state.tick - trade.startedAtTick;
+    const isCheckTime = tradeAgeTicks > 0 && tradeAgeTicks % riskCheckIntervalTicks === 0;
 
     if (isCheckTime) {
       let baseRisk = trade.offer.routeType === "local" ? 0 : trade.offer.routeType === "sector" ? 0.05 : trade.offer.routeType === "deep_sector" ? 0.15 : 0.3;
@@ -360,7 +373,7 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
         if (eventRoll < 0.4) {
           // Delayed
           trade.status = "delayed";
-          trade.completesAt += 4 * 60 * 60 * 1000;
+          trade.completesAtTick += 4 * 3600;
           nextState.journal = pushJournal(nextState, {
             en: `Trade shipment from ${trade.offer.factionId} delayed due to spatial hazards.`,
             hu: `A(z) ${trade.offer.factionId} frakciótól érkező szállítmány tér-anomáliák miatt késik.`,
@@ -382,11 +395,24 @@ export function tickTradeSystem(state: StarholdState): StarholdState {
              );
           }
 
-          nextState.journal = pushJournal(nextState, {
+          const seizureText = {
             en: `Smuggler intercepted. Trade shipment from ${trade.offer.factionId} was seized by authorities. Total loss.`,
             hu: `Csempész elfogva. A(z) ${trade.offer.factionId} szállítmányát elkobozták a hatóságok. Teljes veszteség.`,
             de: `Schmuggler abgefangen. Handelslieferung von ${trade.offer.factionId} von den Behörden beschlagnahmt. Totalverlust.`,
             ro: `Contrabandist interceptat. Transportul de la ${trade.offer.factionId} a fost confiscat. Pierdere totală.`,
+          };
+          nextState.journal = pushJournal(nextState, seizureText);
+
+          nextState = pushArchiveEvent(nextState, {
+            category: "trade",
+            severity: "danger",
+            importance: 3,
+            title: { en: "Shipment Seized", hu: "Szállítmány Elkobozva", de: "Lieferung beschlagnahmt", ro: "Transport Confiscat" },
+            summary: seizureText,
+            details: {
+              targetId: trade.offer.factionId,
+              outcome: "seized",
+            }
           });
           continue; // Drop from active
         } else {
@@ -446,14 +472,13 @@ export function acceptTrade(state: StarholdState, offerId: string): StarholdStat
   inventory[offer.materialWanted] = (inventory[offer.materialWanted] ?? 0) - offer.amountWanted;
   saveGalaxyInventory(inventory);
 
-  const durationMs = getRouteDuration(offer.routeType);
-  const now = Date.now();
+  const durationTicks = getRouteDurationTicks(offer.routeType);
 
   const newActiveTrade: ActiveTrade = {
-    id: `transit_${now}_${offer.id}`,
+    id: `transit_${state.tick}_${offer.id}`,
     offer,
-    startedAt: now,
-    completesAt: now + durationMs,
+    startedAtTick: state.tick,
+    completesAtTick: state.tick + durationTicks,
     status: "in_transit",
   };
 
@@ -466,7 +491,7 @@ export function acceptTrade(state: StarholdState, offerId: string): StarholdStat
     }
   };
 
-  if (durationMs === 0) {
+  if (durationTicks === 0) {
     // Immediate delivery for local routes
     newActiveTrade.status = "completed";
 
@@ -501,10 +526,10 @@ export function acceptTrade(state: StarholdState, offerId: string): StarholdStat
     nextState.tradeSystem.activeTrades = nextState.tradeSystem.activeTrades.filter(t => t.id !== newActiveTrade.id);
   } else {
     const text = {
-      en: `Trade agreement signed. Shipment en route via ${offer.routeType.replace('_', ' ')}. ETA: ${Math.round(durationMs / 3600000)}h`,
-      hu: `Üzlet megkötve. Szállítmány úton (${offer.routeType.replace('_', ' ')}). Érkezés: ${Math.round(durationMs / 3600000)}h`,
-      de: `Handelsabkommen unterzeichnet. Lieferung unterwegs via ${offer.routeType.replace('_', ' ')}. ETA: ${Math.round(durationMs / 3600000)}h`,
-      ro: `Acord de comerț semnat. Transport pe drum via ${offer.routeType.replace('_', ' ')}. ETA: ${Math.round(durationMs / 3600000)}h`,
+      en: `Trade agreement signed. Shipment en route via ${offer.routeType.replace('_', ' ')}. ETA: ${Math.round(durationTicks / 3600)}h`,
+      hu: `Üzlet megkötve. Szállítmány úton (${offer.routeType.replace('_', ' ')}). Érkezés: ${Math.round(durationTicks / 3600)}h`,
+      de: `Handelsabkommen unterzeichnet. Lieferung unterwegs via ${offer.routeType.replace('_', ' ')}. ETA: ${Math.round(durationTicks / 3600)}h`,
+      ro: `Acord de comerț semnat. Transport pe drum via ${offer.routeType.replace('_', ' ')}. ETA: ${Math.round(durationTicks / 3600)}h`,
     };
     nextState.journal = pushJournal(nextState, text);
     nextState.alert = text;

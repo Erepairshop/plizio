@@ -27,7 +27,7 @@ export interface NodeYieldEntry {
 }
 
 /** Node action that the player attempted */
-export type NodeActionId = "inspect" | "collect" | "attack" | "dispatch" | "recall";
+export type NodeActionId = "inspect" | "collect" | "attack" | "dispatch" | "recall" | "focus";
 
 /** Log of a completed action on this node */
 export interface NodeActionLog {
@@ -70,26 +70,60 @@ export interface MapNode {
   actionLog: NodeActionLog[];
   /** Cooldown: tick when next action is allowed */
   cooldownUntil: number;
+  /** Actions currently available for this node */
+  recommendedActions?: NodeActionId[];
 }
 
-export type FleetMovementStatus = "traveling_to" | "mining" | "returning";
+export interface NodeActionFeedback {
+  actionType: NodeActionId | "fleet_arrival" | "fleet_return" | "node_expired" | "expedition_launch";
+  success: boolean;
+  summary: import("../types").LocalizedString;
+  rewardSummary?: string;
+  riskSummary?: string;
+  cooldownSummary?: string;
+  etaSummary?: string;
+  nextSuggestedAction?: NodeActionId | "wait" | "abandon" | "monitor" | "reinforce";
+  nodeStateAfter?: MapNodeState;
+  fleetStateAfter?: FleetMovementStatus;
+}
+
+export type FleetMovementStatus = "traveling_to" | "returning";
 
 export type FleetMissionType = "collect" | "attack" | "inspect";
+
+export type FleetOutcome = "victory" | "defeat" | "partial_success" | "collected" | "inspected";
 
 export interface FleetMovement {
   id: string;
   targetNodeId: string;
   departureTime: number; // in ticks
   arrivalTime: number; // in ticks
+  travelTimeTicks: number; // original duration for return trip
   status: FleetMovementStatus;
-  miningCompletesAt?: number; // in ticks
   /** What mission is the fleet performing at the node */
   missionType: FleetMissionType;
   /** Antimatter spent on this trip */
   fuelSpent: number;
   /** Fleet weight (affects fuel cost) */
   weight: number;
+  /** Composition snapshot of units */
+  composition: Record<string, number>;
+  /** Loot gathered to be returned */
+  payload?: Partial<Record<keyof import("../types").StarholdResources | import("../../world/mission").GalaxyMaterialId, number>>;
+  /** Units lost during the mission */
+  casualties?: {
+    killed: Record<string, number>;
+    wounded: Record<string, number>;
+  };
+  /** The outcome of the mission at the node */
+  outcome?: FleetOutcome;
+  /** Short summary of what happened at arrival for UI */
+  arrivalState?: import("../types").LocalizedString;
+  /** Whether this trip was boosted by a chronoCore */
+  boosted?: boolean;
 }
+
+export type CompletedFleetSnapshot = FleetMovement;
 
 /** Compact preview data for the UI info card */
 export interface NodePreview {
@@ -102,6 +136,8 @@ export interface NodePreview {
   intelDepth: IntelDepth;
   fuelCost: number;
   travelTimeTicks: number;
+  boostedTravelTimeTicks: number;
+  chronoCoreCount: number;
   threatRating: number;
   occupancy: "free" | "occupied" | "contested" | "depleted";
   recommendedActions: NodeActionId[];

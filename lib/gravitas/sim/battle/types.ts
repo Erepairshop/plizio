@@ -163,12 +163,14 @@ export interface ScoutReport {
   intelLevel: number;
   revealedStats: Partial<EnemyBuilding["stats"]>;
   revealedTraits: EnemyTraitId[];
-  lastScoutedAt: number;
+  lastScoutedAtTick: number;
+  lastScoutedAt?: number; // Legacy
 }
 
 export interface BattleHistoryEntry {
   buildingId: EnemyBuilding["id"];
-  at: number;
+  atTick: number;
+  at?: number; // Legacy
   dominantUnitType: UnitCombatRole;
   victory: boolean;
   durationMs: number;

@@ -8,12 +8,12 @@ import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/missi
 import { pushJournal } from "../shared";
 import { nextRandom, randomInt } from "../rng";
 
-export function createInitialSupplyRouteState(): SupplyRouteState {
+export function createInitialSupplyRouteState(currentTick: number): SupplyRouteState {
   return {
     routes: [],
     maxRoutes: SUPPLY_ROUTE_CONFIG.maxRoutesBase,
     totalRaided: 0,
-    lastRaidCheck: Date.now(),
+    lastRaidCheckTick: currentTick,
   };
 }
 
@@ -65,21 +65,20 @@ export function establishRoute(state: StarholdState, factionId: FactionId, mater
   const baseYield = SUPPLY_ROUTE_CONFIG.baseYieldPerHour;
   const yieldMult = tier === "allied" ? 1.5 : tier === "friendly" ? 1.0 : 0.8; // Should only be friendly+ based on minRep check
   
-  const now = Date.now();
   let currentRngState = state.globalRngState;
   const { value: r1, nextState: s1 } = randomInt(currentRngState, 0, 999);
   currentRngState = s1;
 
   const newRoute: SupplyRoute = {
-    id: `route_${now}_${r1}`,
+    id: `route_${state.tick}_${r1}`,
     factionId,
     materialId,
     yieldPerHour: Math.round(baseYield * yieldMult),
-    establishedAt: now,
-    lastYieldAt: now,
+    establishedAtTick: state.tick,
+    lastYieldAtTick: state.tick,
     status: "active",
     protectionLevel: calculateProtectionLevel(state),
-    disruptedUntil: null,
+    disruptedUntilTick: null,
   };
 
   const text = {
@@ -143,7 +142,6 @@ export function abandonRoute(state: StarholdState, routeId: SupplyRouteId): Star
 }
 
 export function tickSupplyRoutes(state: StarholdState): StarholdState {
-  const now = Date.now();
   let nextState = state;
   let mutated = false;
   let inventoryMutated = false;
@@ -162,23 +160,27 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
     mutated = true;
   }
 
+  const yieldIntervalTicks = Math.floor(SUPPLY_ROUTE_CONFIG.yieldIntervalMs / 1000);
+  const raidCheckIntervalTicks = Math.floor(SUPPLY_ROUTE_CONFIG.raidCheckIntervalMs / 1000);
+  const disruptionDurationTicks = Math.floor(SUPPLY_ROUTE_CONFIG.disruptionDurationMs / 1000);
+
   // 1. Process Yields and Disruption recovery
   const globalYieldMod = getRouteYieldModifier(nextState);
   let nextRoutes = nextState.supplyRoutes.routes.map(route => {
     let r = { ...route };
 
     // Recovery from disruption
-    if (r.status === "disrupted" && r.disruptedUntil && now >= r.disruptedUntil) {
+    if (r.status === "disrupted" && r.disruptedUntilTick && state.tick >= r.disruptedUntilTick) {
       r.status = "active";
-      r.disruptedUntil = null;
+      r.disruptedUntilTick = null;
       mutated = true;
     }
 
     // Process yield if active
     if (r.status === "active") {
-      const elapsed = now - r.lastYieldAt;
-      if (elapsed >= SUPPLY_ROUTE_CONFIG.yieldIntervalMs) {
-        const yieldCycles = Math.floor(elapsed / SUPPLY_ROUTE_CONFIG.yieldIntervalMs);
+      const elapsed = state.tick - r.lastYieldAtTick;
+      if (elapsed >= yieldIntervalTicks) {
+        const yieldCycles = Math.floor(elapsed / yieldIntervalTicks);
         const amount = Math.floor(r.yieldPerHour * yieldCycles * globalYieldMod);
         
         if (amount > 0) {
@@ -186,7 +188,7 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
           inventoryMutated = true;
         }
         
-        r.lastYieldAt += yieldCycles * SUPPLY_ROUTE_CONFIG.yieldIntervalMs;
+        r.lastYieldAtTick += yieldCycles * yieldIntervalTicks;
         mutated = true;
       }
     }
@@ -195,7 +197,7 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
   });
 
   // 2. Process Raids
-  if (now - nextState.supplyRoutes.lastRaidCheck >= SUPPLY_ROUTE_CONFIG.raidCheckIntervalMs) {
+  if (state.tick - nextState.supplyRoutes.lastRaidCheckTick >= raidCheckIntervalTicks) {
     const protectionLevel = calculateProtectionLevel(nextState);
     let totalRaidedNow = 0;
     
@@ -230,7 +232,7 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
                  ro: `CRITIC: Ruta de aprovizionare către ${route.factionId} distrusă de raiderii ${raider}!`,
                };
                nextState = { ...nextState, alert: alertText, journal: pushJournal(nextState, alertText) };
-               return { ...route, status: "destroyed", disruptedUntil: null };
+               return { ...route, status: "destroyed", disruptedUntilTick: null };
              } else {
                const alertText = {
                  en: `Supply route to ${route.factionId} disrupted by ${raider} raiders.`,
@@ -242,7 +244,7 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
                return { 
                  ...route, 
                  status: "disrupted", 
-                 disruptedUntil: now + SUPPLY_ROUTE_CONFIG.disruptionDurationMs 
+                 disruptedUntilTick: state.tick + disruptionDurationTicks 
                };
              }
            }
@@ -259,7 +261,7 @@ export function tickSupplyRoutes(state: StarholdState): StarholdState {
       supplyRoutes: {
         ...nextState.supplyRoutes,
         routes: survivingRoutes,
-        lastRaidCheck: now,
+        lastRaidCheckTick: state.tick,
         totalRaided: nextState.supplyRoutes.totalRaided + totalRaidedNow,
       }
     };

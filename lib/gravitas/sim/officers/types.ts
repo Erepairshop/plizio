@@ -18,11 +18,11 @@ export interface Officer {
   xp: number;
   trait: OfficerTraitId;
   status: "ready" | "wounded" | "dead";
-  availableAt: number; // if wounded, when they are ready again
+  availableAtTick: number; // if wounded, when they are ready again
 }
 
 export interface OfficerState {
   active: Officer[];
   recruits: Officer[];
-  lastRecruitRefresh: number; // Date.now() timestamp
+  lastRecruitRefreshTick: number;
 }

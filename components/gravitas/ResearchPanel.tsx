@@ -34,12 +34,12 @@ const FIELD_NAMES: Record<ResearchFieldId, LocalizedString> = {
   core: { en: "Core", hu: "Mag", de: "Kern", ro: "Nucleu" },
 };
 
-function formatDuration(ms: number): string {
-  if (ms <= 0) return "0s";
-  const d = Math.floor(ms / (24 * 60 * 60 * 1000));
-  const h = Math.floor((ms % (24 * 60 * 60 * 1000)) / (60 * 60 * 1000));
-  const m = Math.floor((ms % (60 * 60 * 1000)) / (60 * 1000));
-  const s = Math.floor((ms % (60 * 1000)) / 1000);
+function formatDurationTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const d = Math.floor(ticks / 86400);
+  const h = Math.floor((ticks % 86400) / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
+  const s = Math.floor(ticks % 60);
   
   if (d > 0) return `${d}d ${h}h`;
   if (h > 0) return `${h}h ${m}m`;
@@ -48,16 +48,8 @@ function formatDuration(ms: number): string {
 }
 
 export default function ResearchPanel({ state, doAction, onClose, lang }: ResearchPanelProps) {
-  const [now, setNow] = useState(Date.now());
-  const [activeField, setActiveField] = useState<ResearchFieldId>("weapons");
   const [inventory, setInventory] = useState(() => loadSavedGalaxyInventory());
-
-  useEffect(() => {
-    const id = setInterval(() => {
-      setNow(Date.now());
-    }, 1000);
-    return () => clearInterval(id);
-  }, []);
+  const [activeField, setActiveField] = useState<ResearchFieldId>("weapons");
 
   useEffect(() => {
     // Refresh inventory whenever we open/render just to be safe
@@ -78,9 +70,9 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
 
   const activeProject = state.research.active ? RESEARCH_PROJECTS.find(p => p.id === state.research.active!.projectId) : null;
   const activeProgress = state.research.active && activeProject
-    ? Math.min(100, Math.max(0, ((now - state.research.active.startedAt) / (state.research.active.completesAt - state.research.active.startedAt)) * 100))
+    ? Math.min(100, Math.max(0, ((state.tick - state.research.active.startedAtTick) / (state.research.active.completesAtTick - state.research.active.startedAtTick)) * 100))
     : 0;
-  const activeRemainingMs = state.research.active ? Math.max(0, state.research.active.completesAt - now) : 0;
+  const activeRemainingTicks = state.research.active ? Math.max(0, state.research.active.completesAtTick - state.tick) : 0;
 
   const fields: ResearchFieldId[] = ["weapons", "shields", "logistics", "sensors", "void", "core"];
   const projectsByTier = useMemo(() => {
@@ -144,7 +136,7 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
                   />
                 </div>
                 <span className="text-[10px] font-mono text-cyan-100 min-w-[50px] text-right">
-                  {formatDuration(activeRemainingMs)}
+                  {formatDurationTicks(activeRemainingTicks)}
                 </span>
               </div>
             </div>
@@ -267,7 +259,7 @@ export default function ResearchPanel({ state, doAction, onClose, lang }: Resear
                             </div>
                           </div>
                           <div className="text-[9px] font-mono text-white/40 mb-0.5">
-                            ⏱ {formatDuration(project.baseDurationMs ?? (tier === 1 ? 6*3600000 : tier === 2 ? 18*3600000 : tier === 3 ? 48*3600000 : 120*3600000))}
+                            ⏱ {formatDurationTicks(Math.floor((project.baseDurationMs ?? (tier === 1 ? 6*3600000 : tier === 2 ? 18*3600000 : tier === 3 ? 48*3600000 : 120*3600000)) / 1000))}
                           </div>
                         </div>
                       )}
