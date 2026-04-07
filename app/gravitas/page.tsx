@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
-import GravitasShop from "@/components/gravitas/GravitasShop";
+import StarhallPanel from "@/components/gravitas/starhall/StarhallPanel";
 import GravitasImprint from "@/components/gravitas/GravitasImprint";
 import { createInitialStarholdState } from "@/lib/gravitas/sim/createInitialState";
 import { saveGravitasState, loadGravitasState } from "@/lib/gravitas/sim/persistence";
@@ -1523,14 +1523,14 @@ export default function GravitasPage() {
     <main className={`fixed inset-0 overflow-hidden transition-colors duration-1000 ${isLockdown ? "bg-[#0a0a0a]" : state.crisis ? "bg-[#1a0505]" : "bg-[#050816]"} ${impactFlash ? "animate-shake" : ""} text-white flex flex-col`}>
       <AnimatePresence>
         {shopOpen && (
-          <GravitasShop
-            key="gravitas-shop"
+          <StarhallPanel
+            key="gravitas-starhall"
             state={state}
             lang={lang}
-            ui={ui}
             onClose={() => setShopOpen(false)}
             onBuy={(itemId) => dispatch({ type: "BUY_ITEM", itemId })}
             onClaim={(milestoneId) => dispatch({ type: "CLAIM_MILESTONE", milestoneId })}
+            onDismissNotification={(id) => dispatch({ type: "DISMISS_NOTIFICATION", id })}
           />
         )}
         {showAwakening && (

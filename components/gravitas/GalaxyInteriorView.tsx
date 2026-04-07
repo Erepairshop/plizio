@@ -2,9 +2,8 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { PointerEvent as ReactPointerEvent } from "react";
-import type { CSSProperties } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Home, RotateCcw, X } from "lucide-react";
+import { X } from "lucide-react";
 import {
   GALAXY_DECOR_LAYERS,
   GALAXY_DEMO_NODES,
@@ -12,8 +11,6 @@ import {
   GALAXY_WORLD_SIZE,
   GALAXY_RENDER_WORLD_OFFSET,
   GALAXY_RENDER_WORLD_SIZE,
-  getGalaxyLinkStyle,
-  getGalaxyNodeAnchorStyle,
   getGalaxyTravelDistance,
   getGalaxyTravelDurationMinutes,
   getGalaxyWorldCanvasStyle,
@@ -22,7 +19,6 @@ import {
 import type { GalaxyNode } from "@/lib/gravitas/world";
 import {
   addGalaxyInventoryMaterial,
-  formatDurationMinutes,
   getDroneMissionCurrentPosition,
   loadSavedDroneMission,
   saveDroneMission,
@@ -34,35 +30,11 @@ import {
   type GalaxyMaterialId,
 } from "@/lib/gravitas/world/mission";
 import GalaxyNodeCard, { type GalaxyMissionStatus } from "@/components/gravitas/galaxy/GalaxyNodeCard";
-import type { LocalizedString } from "@/lib/gravitas/sim/types";
+import GalaxyNodeMarker from "@/components/gravitas/galaxy/GalaxyNodeMarker";
+import GalaxyDroneMarker from "@/components/gravitas/galaxy/GalaxyDroneMarker";
+import { localizeGalaxy } from "@/components/gravitas/galaxy/galaxyViewHelpers";
 
 type Lang = "en" | "hu" | "de" | "ro";
-function localize(lang: Lang, ls: LocalizedString) {
-  return ls[lang] ?? ls.en;
-}
-
-function getNodeAuraStyle(node: GalaxyNode): CSSProperties {
-  if (node.type === "base") {
-    return { background: "radial-gradient(circle, rgba(34,211,238,0.28) 0%, rgba(34,211,238,0.14) 28%, rgba(34,211,238,0.05) 50%, transparent 74%)" };
-  }
-  if (node.type === "battle") {
-    return { background: "radial-gradient(circle, rgba(251,146,60,0.26) 0%, rgba(251,146,60,0.12) 28%, rgba(251,146,60,0.05) 52%, transparent 76%)" };
-  }
-  if (node.type === "resource") {
-    const materialId = node.materialId ?? "aether_ore";
-    const palette: Record<string, string> = {
-      lumen_dust: "rgba(167,139,250,0.24)",
-      verdant_crystals: "rgba(74,222,128,0.24)",
-      aether_ore: "rgba(34,211,238,0.24)",
-      ember_shards: "rgba(251,191,36,0.24)",
-      sable_alloy: "rgba(148,163,184,0.22)",
-      rift_stone: "rgba(56,189,248,0.24)",
-    };
-    const color = palette[materialId] ?? "rgba(34,211,238,0.24)";
-    return { background: `radial-gradient(circle, ${color} 0%, rgba(255,255,255,0.12) 28%, rgba(255,255,255,0.05) 54%, transparent 78%)` };
-  }
-  return { background: "radial-gradient(circle, rgba(255,255,255,0.16) 0%, rgba(255,255,255,0.08) 32%, rgba(255,255,255,0.03) 58%, transparent 78%)" };
-}
 
 export default function GalaxyInteriorView({
   lang,
@@ -379,66 +351,30 @@ export default function GalaxyInteriorView({
             />
           </motion.div>
           {galaxyNodes.map((node) => (
-            <motion.button
+            <GalaxyNodeMarker
               key={node.id}
-              type="button"
-              data-galaxy-node="true"
-              onPointerDown={(e) => e.stopPropagation()}
-              onClick={() => handleNodeSelect(node.id)}
-              className="absolute z-10 rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300/70"
-              style={getGalaxyNodeAnchorStyle(node.position, GALAXY_RENDER_WORLD_SIZE, renderOffset)}
-              animate={node.motion as any}
-              transition={{ duration: node.motionDuration, repeat: Infinity, ease: "easeInOut" }}
-            >
-              {!isLiteMode && (
-                <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[132px] w-[132px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10 bg-black/10 blur-[0.5px]" animate={{ scale: [0.95, 1.03, 0.96], opacity: [0.16, 0.24, 0.16] }} transition={{ duration: 4.6 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
-              )}
-              <motion.span aria-hidden className="pointer-events-none absolute left-1/2 top-1/2 h-[170px] w-[170px] -translate-x-1/2 -translate-y-1/2 rounded-full blur-2xl" style={getNodeAuraStyle(node)} animate={isLiteMode ? { scale: 1, opacity: 0.5 } : { scale: [0.96, 1.06, 0.98], opacity: [0.42, 0.68, 0.42] }} transition={{ duration: 5.4 + (node.motionDuration % 4), repeat: Infinity, ease: "easeInOut" }} />
-              {!isLiteMode && (
-                <>
-                  <motion.span aria-hidden className="pointer-events-none absolute left-[8%] top-[18%] h-2 w-2 rounded-full bg-white/90 blur-[0.5px]" animate={{ opacity: [0.12, 0.72, 0.12], scale: [0.8, 1.25, 0.8] }} transition={{ duration: 3.2 + (node.motionDuration % 2), repeat: Infinity, ease: "easeInOut" }} />
-                  <motion.span aria-hidden className="pointer-events-none absolute right-[14%] top-[26%] h-1.5 w-1.5 rounded-full bg-cyan-200/90 blur-[0.5px]" animate={{ opacity: [0.1, 0.5, 0.1], y: [0, -5, 0] }} transition={{ duration: 4.2 + (node.motionDuration % 5), repeat: Infinity, ease: "easeInOut" }} />
-                  <motion.span aria-hidden className="pointer-events-none absolute left-[20%] bottom-[18%] h-3.5 w-3.5 rounded-full border border-white/10 bg-white/10" animate={{ x: [0, -3, 1, 0], y: [0, 2, -2, 0], opacity: [0.22, 0.42, 0.24, 0.22] }} transition={{ duration: 6 + (node.motionDuration % 4), repeat: Infinity, ease: "easeInOut" }} />
-                  <motion.span aria-hidden className="pointer-events-none absolute right-[18%] bottom-[12%] h-2.5 w-2.5 rounded-full border border-white/10 bg-white/10" animate={{ x: [0, 2, -2, 0], y: [0, -2, 2, 0], opacity: [0.18, 0.3, 0.18] }} transition={{ duration: 5.2 + (node.motionDuration % 3), repeat: Infinity, ease: "easeInOut" }} />
-                </>
-              )}
-              {node.pulseClassName && <span className={node.pulseClassName} />}
-              <img
-                src={node.assetSrc}
-                alt={localize(lang, node.assetAlt ?? node.title)}
-                draggable={false}
-                className={`${node.assetClassName} ${node.toneClassName ?? ""}`}
-              />
-            </motion.button>
+              node={node}
+              renderOffset={renderOffset}
+              isLiteMode={isLiteMode}
+              onSelect={handleNodeSelect}
+              lang={lang}
+              localize={localizeGalaxy}
+            />
           ))}
           {activeMissionTarget && activeMissionMarkerPosition && (
-            <>
-              {isFocusedMissionVisible && activeMissionRouteLine && <div className="pointer-events-none absolute z-[9] h-[2px] rounded-full bg-[linear-gradient(90deg,rgba(34,211,238,0.06),rgba(34,211,238,0.9),rgba(34,211,238,0.08))] shadow-[0_0_12px_rgba(34,211,238,0.28)]" style={getGalaxyLinkStyle(activeMissionRouteLine.from, activeMissionRouteLine.to, renderOffset)} />}
-              <motion.button type="button" onClick={() => {
-                  if (suppressNextNodeClickRef.current) return;
-                  setFocusedDroneNodeId((current) => (current === activeMission?.targetNodeId ? null : activeMission?.targetNodeId ?? null));
-                }}
-                className="absolute z-[14] flex h-[72px] w-[72px] items-center justify-center rounded-full border border-cyan-300/16 bg-[#07111d]/26 shadow-[0_0_20px_rgba(34,211,238,0.18)] backdrop-blur-[1px] transition hover:scale-[1.04] hover:bg-[#0c1728]/36"
-                style={{ left: `${activeMissionMarkerPosition.x + renderOffset.x}px`, top: `${activeMissionMarkerPosition.y + renderOffset.y}px`, transform: "translate(-50%, -50%)" }}
-                animate={{ scale: activeMissionStatus?.status === "traveling" ? [0.96, 1.06, 0.96] : [1, 1.06, 1], opacity: [0.88, 1, 0.88] }}
-                transition={{ duration: activeMissionStatus?.status === "traveling" ? 1.4 : 1.8, repeat: Infinity, ease: "easeInOut" }}
-                aria-label="Drone"
-              >
-                <img
-                  src="/gravitas/modules/scout-probe.webp"
-                  alt=""
-                  draggable={false}
-                  className="h-auto w-[92%] select-none object-contain [filter:drop-shadow(0_0_16px_rgba(34,211,238,0.24))]"
-                />
-              </motion.button>
-              {isFocusedMissionVisible && (
-                <motion.div initial={{ opacity: 0, y: 6, scale: 0.98 }} animate={{ opacity: 1, y: 0, scale: 1 }} className="absolute z-[15] pointer-events-none w-[170px] rounded-[16px] border border-cyan-300/18 bg-[#081120]/92 px-3 py-2 text-white shadow-[0_16px_34px_rgba(0,0,0,0.26)] backdrop-blur-md" style={{ left: `${activeMissionMarkerPosition.x + renderOffset.x + 18}px`, top: `${activeMissionMarkerPosition.y + renderOffset.y - 54}px` }}>
-                  <div className="text-[9px] font-black uppercase tracking-[0.18em] text-cyan-200/72">{activeMissionStatus?.status === "traveling" ? "Drone route" : "Drone mining"}</div>
-                  <div className="mt-1 text-[13px] font-black text-white">{activeMissionStatus?.status === "traveling" ? `Arrives in ${formatDurationMinutes(activeMissionStatus.remainingMinutes)}` : `Finishes in ${formatDurationMinutes(activeMissionStatus?.remainingMinutes ?? 0)}`}</div>
-                  {activeMissionStatus?.status === "mining" && <div className="mt-1 text-[10px] font-black text-emerald-100/90">{`Gathered ${activeMissionStatus.gatheredUnits}/${activeMissionStatus.targetYieldUnits}`}</div>}
-                </motion.div>
-              )}
-            </>
+            <GalaxyDroneMarker
+              markerPosition={activeMissionMarkerPosition}
+              renderOffset={renderOffset}
+              routeLine={activeMissionRouteLine}
+              missionStatus={activeMissionStatus}
+              focused={isFocusedMissionVisible}
+              onToggleFocus={() => {
+                if (suppressNextNodeClickRef.current) return;
+                setFocusedDroneNodeId((current) =>
+                  current === activeMission?.targetNodeId ? null : activeMission?.targetNodeId ?? null,
+                );
+              }}
+            />
           )}
           <AnimatePresence>
             {selectedNode && (
