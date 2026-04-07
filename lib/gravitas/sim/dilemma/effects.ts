@@ -14,7 +14,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
   let journalText: LocalizedString = { en: "", hu: "", de: "", ro: "" };
   let currentRngState = state.globalRngState;
 
-  const day = 24 * 60 * 60 * 1000;
+  const dayTicks = 86400;
 
   switch (dilemmaId) {
     case "refugees":
@@ -24,7 +24,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         delayed.push({
           id: "refugee_workers",
           sourceDilemmaId: dilemmaId,
-          triggerAt: Date.now() + 3 * day,
+          triggerAtTick: state.tick + 3 * dayTicks,
           chance: 1.0,
           effect: {}, 
           journalText: { en: "The refugees have integrated. Drone efficiency improved.", hu: "A menekültek beilleszkedtek. A drónok hatékonyabbak.", de: "Die Flüchtlinge haben sich integriert. Drohneneffizienz verbessert.", ro: "Refugiații s-au integrat. Eficiența dronelor a crescut." }
@@ -35,7 +35,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         delayed.push({
           id: "refugee_revenge_trigger",
           sourceDilemmaId: dilemmaId,
-          triggerAt: Date.now() + 7 * day,
+          triggerAtTick: state.tick + 7 * dayTicks,
           chance: 0.2,
           effect: {}, 
           journalText: { en: "Rumors say the rejected refugees are planning something.", hu: "Hírek szerint az elutasított menekültek terveznek valamit.", de: "Gerüchte besagen, dass die abgelehnten Flüchtlinge etwas planen.", ro: "Zvonurile spun că refugiații refuzați plănuiesc ceva." },
@@ -56,7 +56,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         delayed.push({
           id: "trader_raid",
           sourceDilemmaId: dilemmaId,
-          triggerAt: Date.now() + 14 * day,
+          triggerAtTick: state.tick + 14 * dayTicks,
           chance: 0.3,
           effect: {}, // Logic for raid
           journalText: { en: "The data you sold was used to find your position.", hu: "Az eladott adatokat felhasználták a pozíciód bemérésére.", de: "Die verkauften Daten wurden genutzt, um deine Position zu finden.", ro: "Datele vândute au fost folosite pentru a-ți găsi poziția." }
@@ -78,7 +78,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
           delayed.push({
             id: "spy_discovery",
             sourceDilemmaId: dilemmaId,
-            triggerAt: Date.now() + 2 * day,
+            triggerAtTick: state.tick + 2 * dayTicks,
             chance: 0.4,
             effect: { reputationChanges: { [factionId]: -10 } },
             journalText: { en: "The spy was caught. Your involvement is known.", hu: "A kémet elkapták. Tudják, hogy közöd volt hozzá.", de: "Der Spion wurde gefasst. Deine Beteiligung ist bekannt.", ro: "Spionul a fost prins. Implicarea ta este cunoscută." }
@@ -93,7 +93,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         delayed.push({
           id: "double_play_fail",
           sourceDilemmaId: dilemmaId,
-          triggerAt: Date.now() + 3 * day,
+          triggerAtTick: state.tick + 3 * dayTicks,
           chance: 0.25,
           effect: {}, // Logic for joint raid / massive rep loss
           journalText: { en: "Your double game has failed.", hu: "A kettős játékod elbukott.", de: "Dein Doppelspiel ist gescheitert.", ro: "Jocul tău dublu a eșuat." },
@@ -109,7 +109,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         delayed.push({
           id: "reactor_fixed",
           sourceDilemmaId: dilemmaId,
-          triggerAt: Date.now() + 30 * 60 * 1000,
+          triggerAtTick: state.tick + 30 * 60,
           chance: 1.0,
           effect: { moduleEffects: [{ moduleId: "reactor", integrityChange: 30 }] },
           journalText: { en: "Reactor maintenance complete.", hu: "Reaktor karbantartás kész.", de: "Reaktorwartung abgeschlossen.", ro: "Mentenanță reactor finalizată." }
@@ -156,7 +156,7 @@ export function getDilemmaEffects(dilemmaId: DilemmaId, optionId: string, factio
         delayed.push({
           id: "black_market_crash_trigger",
           sourceDilemmaId: dilemmaId,
-          triggerAt: Date.now() + 5 * day,
+          triggerAtTick: state.tick + 5 * dayTicks,
           chance: 0.3,
           effect: {},
           journalText: { en: "The rogue AI code is corrupting other systems.", hu: "A kóbor AI kód megfertőzte a többi rendszert.", de: "Der abtrünnige KI-Code korrumpiert andere Systeme.", ro: "Codul AI rătăcit corupe alte sisteme." },

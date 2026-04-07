@@ -39,7 +39,7 @@ export const OFFICER_TRAITS: Record<OfficerTraitId, { name: LocalizedString, des
   },
 };
 
-export function generateRecruit(rngState: number): { officer: Officer, nextState: number } {
+export function generateRecruit(rngState: number, tick: number): { officer: Officer, nextState: number } {
   const factions = Object.keys(GALAXY_FACTIONS) as FactionId[];
   
   const { value: rFacIdx, nextState: s1 } = randomInt(rngState, 0, factions.length - 1);
@@ -56,7 +56,7 @@ export function generateRecruit(rngState: number): { officer: Officer, nextState
   const { value: rId, nextState: s5 } = randomInt(s4, 0, 999);
   
   const officer: Officer = {
-    id: `officer_${Date.now()}_${rId}`,
+    id: `officer_${tick}_${rId}`,
     name,
     factionId,
     portrait: factionId,
@@ -64,17 +64,17 @@ export function generateRecruit(rngState: number): { officer: Officer, nextState
     xp: 0,
     trait,
     status: "ready",
-    availableAt: 0,
+    availableAtTick: 0,
   };
 
   return { officer, nextState: s5 };
 }
 
-export function createInitialOfficerState(rngState?: number): { officerState: OfficerState, nextRngState: number } {
+export function createInitialOfficerState(rngState?: number, currentTick: number = 0): { officerState: OfficerState, nextRngState: number } {
   const recruits = [];
-  let currentRngState = rngState ?? (Date.now() % 2147483647);
+  let currentRngState = rngState ?? 0;
   for (let i = 0; i < OFFICER_CONFIG.recruitPoolSize; i++) {
-    const { officer, nextState } = generateRecruit(currentRngState);
+    const { officer, nextState } = generateRecruit(currentRngState, currentTick);
     recruits.push(officer);
     currentRngState = nextState;
   }
@@ -82,7 +82,7 @@ export function createInitialOfficerState(rngState?: number): { officerState: Of
     officerState: {
       active: [],
       recruits,
-      lastRecruitRefresh: Date.now(),
+      lastRecruitRefreshTick: currentTick,
     },
     nextRngState: currentRngState
   };
@@ -130,32 +130,33 @@ export function dismissOfficer(state: StarholdState, officerId: string): Starhol
 }
 
 export function tickOfficers(state: StarholdState): StarholdState {
-  if (state.tick % 60 !== 0) return state;
+  // Only check every 10 ticks for performance
+  if (state.tick % 10 !== 0) return state;
 
-  const now = Date.now();
   let mutated = false;
   let currentRngState = state.globalRngState;
   
   let nextOfficers = { ...state.officers };
 
-  // Refresh recruits
-  if (now - state.officers.lastRecruitRefresh > OFFICER_CONFIG.recruitRefreshMs) {
+  // Refresh recruits (convert MS to ticks: 1000ms = 1 tick)
+  const refreshTicks = Math.floor(OFFICER_CONFIG.recruitRefreshMs / 1000);
+  if (state.tick - state.officers.lastRecruitRefreshTick > refreshTicks) {
     const recruits = [];
     for (let i = 0; i < OFFICER_CONFIG.recruitPoolSize; i++) {
-      const { officer, nextState: s } = generateRecruit(currentRngState);
+      const { officer, nextState: s } = generateRecruit(currentRngState, state.tick);
       recruits.push(officer);
       currentRngState = s;
     }
     nextOfficers.recruits = recruits;
-    nextOfficers.lastRecruitRefresh = now;
+    nextOfficers.lastRecruitRefreshTick = state.tick;
     mutated = true;
   }
 
   // Heal wounded
   const nextActive = nextOfficers.active.map(o => {
-    if (o.status === "wounded" && now >= o.availableAt) {
+    if (o.status === "wounded" && state.tick >= o.availableAtTick) {
       mutated = true;
-      return { ...o, status: "ready" as const, availableAt: 0 };
+      return { ...o, status: "ready" as const, availableAtTick: 0 };
     }
     return o;
   });

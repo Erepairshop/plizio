@@ -98,7 +98,7 @@ export function applyWeeklyWaveCasualtiesToState(
       repairBay: {
         ...state.repairBay,
         wounded: updatedWounded,
-        woundedAt: movedWounded > 0 ? (state.repairBay.woundedAt ?? Date.now()) : state.repairBay.woundedAt,
+        woundedAtTick: movedWounded > 0 ? (state.repairBay.woundedAtTick ?? state.tick) : state.repairBay.woundedAtTick,
       },
     }
   };

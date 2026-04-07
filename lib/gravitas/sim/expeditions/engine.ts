@@ -1,18 +1,20 @@
 import type { StarholdState, LocalizedString } from "../types";
 import type { ActiveExpedition, ExpeditionState, ExpeditionDurationType, ExpeditionFleet, ExpeditionEventResult, ExpeditionRouteProfile } from "./types";
 import { pushNotification } from "../notifications/engine";
-import { pushJournal } from "../shared";
+import { pushJournal, withAlert } from "../shared";
 import type { WarRoomUnitId } from "../warroom/types";
 import { getRouteProfile, getCrewProfile, getRouteRiskMultiplier, getRouteLootMultiplier, generateExpeditionLesson } from "./logic";
 import { giveExpeditionRewards } from "./rewards";
 import { getResearchEffect } from "../research/engine";
 import { nextRandom, randomInt } from "../rng";
+import { reserveUnits, releaseAllocation, releaseAllocationWithCasualties, updateAllocationStatus, reportLostAllocation } from "../warroom/ledger";
+import { pushArchiveEvent } from "../archive/manager";
 
-const EXPEDITION_DURATIONS: Record<ExpeditionDurationType, number> = {
-  short: 4 * 60 * 60 * 1000, // 4 hours
-  medium: 12 * 60 * 60 * 1000, // 12 hours
-  long: 24 * 60 * 60 * 1000, // 24 hours
-  deep_space: 72 * 60 * 60 * 1000, // 3 days
+const EXPEDITION_DURATIONS_TICKS: Record<ExpeditionDurationType, number> = {
+  short: 4 * 3600, // 4 hours in ticks (1 tick = 1 sec)
+  medium: 12 * 3600, // 12 hours
+  long: 24 * 3600, // 24 hours
+  deep_space: 72 * 3600, // 3 days
 };
 
 export function createInitialExpeditionState(): ExpeditionState {
@@ -32,81 +34,96 @@ export function launchExpedition(
   // 1. Validate Sensor level (Gatekeeping)
   const requiredLevel = durationMode === "short" ? 1 : durationMode === "medium" ? 3 : durationMode === "long" ? 5 : 8;
   if (state.modules.sensor.integrity === 0 || !state.modules.sensor.online || state.moduleLevels.sensor < requiredLevel) {
-    return state; // Failed validation
-  }
-
-  // 2. Remove units from Garrison
-  let nextGarrison = { ...state.warRoom.garrison };
-  let hasEnough = true;
-  for (const [rawUnitId, rawCount] of Object.entries(fleet.units)) {
-    const count = rawCount as number;
-    if (count <= 0) continue;
-    const unitId = rawUnitId as WarRoomUnitId;
-    const entries = nextGarrison[unitId] || [];
-    const totalAvailable = entries.reduce((sum, e) => sum + e.count, 0);
-    if (totalAvailable < count) {
-      hasEnough = false;
-      break;
-    }
-  }
-
-  if (!hasEnough) return state;
-
-  // Perform removal (simplistic for now: take from best/first entries)
-  for (const [rawUnitId, rawCount] of Object.entries(fleet.units)) {
-    const count = rawCount as number;
-    if (count <= 0) continue;
-    const unitId = rawUnitId as WarRoomUnitId;
-    let remainingToTake = count;
-    let updatedEntries = [...(nextGarrison[unitId] || [])];
-    
-    // Sort by level ascending (send rookies to expedition first if we can, or just standard pop)
-    updatedEntries.sort((a, b) => a.level - b.level);
-    
-    for (let i = 0; i < updatedEntries.length && remainingToTake > 0; i++) {
-      if (updatedEntries[i].count <= remainingToTake) {
-        remainingToTake -= updatedEntries[i].count;
-        updatedEntries[i] = { ...updatedEntries[i], count: 0 };
-      } else {
-        updatedEntries[i] = { ...updatedEntries[i], count: updatedEntries[i].count - remainingToTake };
-        remainingToTake = 0;
+    const error: LocalizedString = {
+      en: `Sensor level too low. Level ${requiredLevel} required.`,
+      hu: `Szenzor szint túl alacsony. ${requiredLevel}. szint szükséges.`,
+      de: `Sensorstufe zu niedrig. Stufe ${requiredLevel} erforderlich.`,
+      ro: `Nivel senzor prea mic. Nivelul ${requiredLevel} este necesar.`,
+    };
+    return {
+      ...withAlert(state, error),
+      lastActionFeedback: {
+        actionType: "expedition_launch",
+        success: false,
+        summary: error,
       }
-    }
-    nextGarrison[unitId] = updatedEntries.filter(e => e.count > 0);
+    };
   }
-
-  // 3. Mark Officer as deployed (busy)
-  let nextOfficers = { ...state.officers };
-  if (fleet.officerId) {
-    const oIndex = nextOfficers.active.findIndex(o => o.id === fleet.officerId);
-    if (oIndex !== -1 && nextOfficers.active[oIndex].status === "ready") {
-      const updatedOfficers = [...nextOfficers.active];
-      updatedOfficers[oIndex] = { ...updatedOfficers[oIndex], status: "wounded", availableAt: Date.now() + EXPEDITION_DURATIONS[durationMode] }; // Treat as unavailable/busy
-      nextOfficers.active = updatedOfficers;
-    } else {
-      return state; // Officer not ready
-    }
-  }
-
-  const durationMs = EXPEDITION_DURATIONS[durationMode];
-  const now = Date.now();
-  const crewProfile = getCrewProfile(fleet);
 
   let currentRngState = state.globalRngState;
   const { value: r1, nextState: s1 } = randomInt(currentRngState, 0, 999);
   currentRngState = s1;
 
+  const expeditionId = `exp_${state.tick}_${r1}`;
+
+  // 2. Validate Officer before reserving units so failed launches do not leak allocations
+  let nextOfficers = { ...state.officers };
+  if (fleet.officerId) {
+    const oIndex = nextOfficers.active.findIndex(o => o.id === fleet.officerId);
+    if (oIndex !== -1 && nextOfficers.active[oIndex].status === "ready") {
+      const updatedOfficers = [...nextOfficers.active];
+      // Officer becomes busy until the expedition ends
+      updatedOfficers[oIndex] = { ...updatedOfficers[oIndex], status: "wounded", availableAtTick: state.tick + EXPEDITION_DURATIONS_TICKS[durationMode] };      nextOfficers.active = updatedOfficers;
+    } else {
+      const error: LocalizedString = {
+        en: "Expedition failed. Selected officer is wounded or unavailable.",
+        hu: "Az expedíció meghiúsult. A választott tiszt sebesült vagy nem elérhető.",
+        de: "Expedition fehlgeschlagen. Der gewählte Offizier ist verwundet oder nicht verfügbar.",
+        ro: "Expediție eșuată. Ofițerul selectat este rănit sau indisponibil.",
+      };
+      return {
+        ...withAlert(state, error),
+        lastActionFeedback: {
+          actionType: "expedition_launch",
+          success: false,
+          summary: error,
+        }
+      };
+    }
+  }
+
+  // 3. Reserve units via ledger once the launch is guaranteed to proceed
+  const reservation = reserveUnits(state, expeditionId, "expedition", fleet.units);
+  if (!reservation.success) {
+    const missing = Object.entries(reservation.missingUnits ?? {})
+      .map(([id, count]) => `${count} ${id}`)
+      .join(", ");
+    const error: LocalizedString = {
+      en: `Expedition failed. Missing units: ${missing}`,
+      hu: `Expedíció sikertelen. Hiányzó egységek: ${missing}`,
+      de: `Expedition fehlgeschlagen. Fehlende Einheiten: ${missing}`,
+      ro: `Expediție eșuată. Unități lipsă: ${missing}`,
+    };
+    return {
+      ...withAlert(state, error),
+      lastActionFeedback: {
+        actionType: "expedition_launch",
+        success: false,
+        summary: error,
+      }
+    };
+  }
+
+  // Set status to traveling in the ledger
+  let nextState = updateAllocationStatus(reservation.nextState, expeditionId, "traveling");
+
+  const durationTicks = EXPEDITION_DURATIONS_TICKS[durationMode];
+  const crewProfile = getCrewProfile(fleet);
+
   const newExpedition: ActiveExpedition = {
-    id: `exp_${now}_${r1}`,
+    id: expeditionId,
     durationMode,
     routeProfile,
     crewProfile,
-    fleet,
-    startedAt: now,
-    endsAt: now + durationMs,
+    fleet: {
+      ...fleet,
+      originalComposition: { ...fleet.units },
+    },
+    startedAtTick: state.tick,
+    endsAtTick: state.tick + durationTicks,
     logs: [
       {
-        timestamp: now,
+        tick: state.tick,
         text: { 
           en: "Fleet departed the Starhold. Commencing hyperspace jump into unknown sectors.", 
           hu: "A flotta elhagyta a Starholdot. Hiperugrás az ismeretlen szektorokba megkezdve.", 
@@ -119,23 +136,30 @@ export function launchExpedition(
     loot: {},
     status: "en_route",
     recalled: false,
-    casualties: {},
+    casualties: { killed: {}, wounded: {} },
   };
 
-  const nextState = {
-    ...state,
+  const successSummary: LocalizedString = { 
+    en: "A fleet has been dispatched on a deep space expedition.", 
+    hu: "Egy flotta mélyűri expedícióra indult.", 
+    de: "Eine flotta wurde auf eine Tiefenraum-Expedition entsandt.", 
+    ro: "O flotă a fost trimisă într-o expediție în spațiul îndepărtat." 
+  };
+
+  nextState = {
+    ...nextState,
     globalRngState: currentRngState,
-    warRoom: { ...state.warRoom, garrison: nextGarrison },
     officers: nextOfficers,
-    journal: pushJournal(state, { 
-      en: "A fleet has been dispatched on a deep space expedition.", 
-      hu: "Egy flotta mélyűri expedícióra indult.", 
-      de: "Eine Flotte wurde auf eine Tiefenraum-Expedition entsandt.", 
-      ro: "O flotă a fost trimisă într-o expediție în spațiul îndepărtat." 
-    }),
+    journal: pushJournal(nextState, successSummary),
     expeditions: {
-      ...state.expeditions,
-      activeExpeditions: [...state.expeditions.activeExpeditions, newExpedition],
+      ...nextState.expeditions,
+      activeExpeditions: [...nextState.expeditions.activeExpeditions, newExpedition],
+    },
+    lastActionFeedback: {
+      actionType: "expedition_launch",
+      success: true,
+      summary: successSummary,
+      etaSummary: `Duration: ${durationMode}`,
     }
   };
 
@@ -153,21 +177,20 @@ export function recallExpedition(state: StarholdState, expeditionId: string): St
   if (expIndex === -1 || state.expeditions.activeExpeditions[expIndex].status !== "en_route") return state;
 
   const exp = state.expeditions.activeExpeditions[expIndex];
-  const now = Date.now();
-  const timeSpent = now - exp.startedAt;
+  const ticksSpent = state.tick - exp.startedAtTick;
   
   // It takes the same amount of time to get back as they spent going out (capped at max duration)
-  const returnTime = Math.min(timeSpent, EXPEDITION_DURATIONS[exp.durationMode]);
+  const returnTicks = Math.min(ticksSpent, EXPEDITION_DURATIONS_TICKS[exp.durationMode]);
 
   const updatedExp: ActiveExpedition = {
     ...exp,
     status: "returning" as const,
-    returnAt: now + returnTime,
+    returnAtTick: state.tick + returnTicks,
     recalled: true,
     logs: [
       ...exp.logs,
       {
-        timestamp: now,
+        tick: state.tick,
         text: { 
           en: "Recall order received. Fleet is turning around and burning fuel for home.", 
           hu: "Visszahívási parancs nyugtázva. A flotta visszafordul a bázis felé.", 
@@ -182,10 +205,12 @@ export function recallExpedition(state: StarholdState, expeditionId: string): St
   const nextActive = [...state.expeditions.activeExpeditions];
   nextActive[expIndex] = updatedExp;
 
+  const stateWithAllocation = updateAllocationStatus(state, expeditionId, "returning");
+
   return {
-    ...state,
+    ...stateWithAllocation,
     expeditions: {
-      ...state.expeditions,
+      ...stateWithAllocation.expeditions,
       activeExpeditions: nextActive,
     }
   };
@@ -194,7 +219,6 @@ export function recallExpedition(state: StarholdState, expeditionId: string): St
 export function tickExpeditions(state: StarholdState): StarholdState {
   if (state.tick % 60 !== 0) return state; // Run every minute in sim time
 
-  const now = Date.now();
   let mutated = false;
   let nextActive = [...state.expeditions.activeExpeditions];
   const completedLogAdditions: ActiveExpedition[] = [];
@@ -214,7 +238,6 @@ export function tickExpeditions(state: StarholdState): StarholdState {
     const exp = nextActive[i];
     
     // Process Random Events
-    // During return, events can still happen (retreat is dangerous)
     const dangerReduction = getResearchEffect(state.research.completed, "expedition.dangerRisk") / 100;
     const riskMult = Math.max(0.1, getRouteRiskMultiplier(exp.routeProfile) * (exp.status === "returning" ? 1.5 : 1.0) * (1 + dangerReduction));
     
@@ -285,9 +308,9 @@ export function tickExpeditions(state: StarholdState): StarholdState {
         // Delay the expedition
         const { value: rDelay, nextState: sDelay } = nextRandom(currentRngState);
         currentRngState = sDelay;
-        const delayMs = 60 * 60 * 1000 * Math.max(1, Math.floor(rDelay * 3));
-        exp.endsAt += delayMs;
-        if (exp.returnAt) exp.returnAt += delayMs;
+        const delayTicks = 3600 * Math.max(1, Math.floor(rDelay * 3));
+        exp.endsAtTick += delayTicks;
+        if (exp.returnAtTick) exp.returnAtTick += delayTicks;
         logText = { 
           en: `Navigation systems malfunctioned. Expedition delayed by severe spatial anomalies.`, 
           hu: `Navigációs rendszerek meghibásodtak. Az expedíciót súlyos téranomáliák késleltetik.`, 
@@ -320,28 +343,34 @@ export function tickExpeditions(state: StarholdState): StarholdState {
           // Calculate casualty
           const { value: rCasualty, nextState: sCasualty } = nextRandom(currentRngState);
           currentRngState = sCasualty;
-          let casualtyCount = isDisaster ? Math.floor(rCasualty * 4) + 2 : 1;
+          let totalLost = isDisaster ? Math.floor(rCasualty * 4) + 2 : 1;
           
-          if (exp.crewProfile === "support_heavy") casualtyCount = Math.max(0, casualtyCount - 2);
-          if (exp.crewProfile === "tank_heavy") casualtyCount = Math.max(0, casualtyCount - 2);
+          if (exp.crewProfile === "support_heavy") totalLost = Math.max(0, totalLost - 2);
+          if (exp.crewProfile === "tank_heavy") totalLost = Math.max(0, totalLost - 2);
 
-          // Avatar reckless effect: slightly more casualties on disasters in black route
+          // Avatar reckless effect
           if (isReckless && exp.routeProfile === "black_route" && isDisaster) {
-            casualtyCount += 1;
+            totalLost += 1;
           }
 
           let lostUnitId: WarRoomUnitId | null = null;
           const availableUnits = Object.entries(exp.fleet.units).filter(([_, count]) => count > 0);
           
-          if (availableUnits.length > 0 && casualtyCount > 0) {
+          if (availableUnits.length > 0 && totalLost > 0) {
             const { value: rUnit, nextState: sUnit } = randomInt(currentRngState, 0, availableUnits.length - 1);
             currentRngState = sUnit;
             const randomUnit = availableUnits[rUnit];
             lostUnitId = randomUnit[0] as WarRoomUnitId;
-            const actualLoss = Math.min(randomUnit[1], casualtyCount);
+            const actualLoss = Math.min(randomUnit[1], totalLost);
             
             exp.fleet.units[lostUnitId] -= actualLoss;
-            exp.casualties[lostUnitId] = (exp.casualties[lostUnitId] || 0) + actualLoss;
+            
+            // Distinguish between killed and wounded
+            const killedCount = Math.floor(actualLoss * (isDisaster ? 0.7 : 0.3));
+            const woundedCount = actualLoss - killedCount;
+            
+            if (killedCount > 0) exp.casualties.killed[lostUnitId] = (exp.casualties.killed[lostUnitId] || 0) + killedCount;
+            if (woundedCount > 0) exp.casualties.wounded[lostUnitId] = (exp.casualties.wounded[lostUnitId] || 0) + woundedCount;
 
             // Update trauma counters
             nextTrauma.ambushesSuffered += 1;
@@ -354,9 +383,7 @@ export function tickExpeditions(state: StarholdState): StarholdState {
               ro: `Întâlnire ostilă. Am pierdut ${actualLoss} ${lostUnitId} în timpul luptei.`
             };
           } else {
-            // Also count as ambush suffered even if no casualties
             nextTrauma.ambushesSuffered += 1;
-
             logText = { 
               en: "Navigated through a dense hazard. Hull suffered abrasions but no units lost.", 
               hu: "Sűrű veszélyzónán haladtunk át. A hajótest sérült, de nincs veszteség.", 
@@ -367,77 +394,159 @@ export function tickExpeditions(state: StarholdState): StarholdState {
         }
       }
 
-      exp.logs.push({ timestamp: now, text: logText, resultType });
+      exp.logs.push({ tick: state.tick, text: logText, resultType });
     }
 
-    // Process Completion / Return
-    const isDone = (exp.status === "en_route" && now >= exp.endsAt) || (exp.status === "returning" && exp.returnAt && now >= exp.returnAt);
-    
-    if (isDone) {
+    // Check if fleet was completely wiped out
+    const totalRemaining = Object.values(exp.fleet.units).reduce((sum, count) => sum + (count ?? 0), 0);
+    if (totalRemaining <= 0 && exp.status !== "lost" && exp.status !== "completed") {
       mutated = true;
-      exp.status = "completed";
+      exp.status = "lost";
       
-      const { nextState: rewardedState, journalEntries: rewardJournals } = giveExpeditionRewards(
-        {...state, globalRngState: currentRngState}, 
-        exp
-      );
+      state = reportLostAllocation(state, exp.id);
+      nextGarrison = state.warRoom.garrison;
       
-      currentRngState = rewardedState.globalRngState;
-      nextResources = rewardedState.resources;
-      
-      // Merge reputation if it changed
-      if (rewardedState.factionReputation.reputation !== state.factionReputation.reputation) {
-        state = {
-          ...state,
-          factionReputation: rewardedState.factionReputation
-        };
-      }
-      
-      // 2. Return Units
-      for (const [rawUnitId, rawCount] of Object.entries(exp.fleet.units)) {
-        const count = rawCount as number;
-        if (count <= 0) continue;
-        const unitId = rawUnitId as WarRoomUnitId;
-        const existing = nextGarrison[unitId] || [];
-        existing.push({ count, level: 1, battlesSurvived: 1 }); // Returning from expedition counts as a battle survived
-        nextGarrison[unitId] = existing;
-      }
-
-      // 3. Return Officer
       if (exp.fleet.officerId) {
         const oIndex = nextOfficers.active.findIndex(o => o.id === exp.fleet.officerId);
         if (oIndex !== -1) {
           const updatedOfficers = [...nextOfficers.active];
-          updatedOfficers[oIndex] = { 
-            ...updatedOfficers[oIndex], 
-            status: "ready", 
-            availableAt: 0,
-            xp: updatedOfficers[oIndex].xp + 75 // Flat XP for expedition
-          };
-          nextOfficers.active = updatedOfficers;
+          updatedOfficers[oIndex] = { ...updatedOfficers[oIndex], status: "wounded", availableAtTick: state.tick + 14400 };          nextOfficers.active = updatedOfficers;
         }
       }
 
-      const hadLosses = Object.values(exp.casualties).some(count => (count ?? 0) > 0);
-      exp.lessonText = generateExpeditionLesson(exp.routeProfile, exp.crewProfile, exp.recalled, hadLosses);
-
-      // 4. Wrap up logs
       exp.logs.push({
-        timestamp: now,
-        text: { en: "Expedition concluded. Fleet has docked successfully.", hu: "Expedíció befejezve. A flotta sikeresen dokkolt.", de: "Expedition abgeschlossen. Flotte erfolgreich angedockt.", ro: "Expediție încheiată. Flota a acostat cu succes." },
-        resultType: "safe",
+        tick: state.tick,
+        text: { en: "Expedition lost. All units destroyed in the Void.", hu: "Expedíció elveszett. Minden egység megsemmisült az űrben.", de: "Expedition verloren. Alle Einheiten im Nichts zerstört.", ro: "Expediție pierdută. Toate unitățile distruse în Vid." },
+        resultType: "disaster",
       });
 
       completedLogAdditions.push(exp);
-      journalEntries.push(...rewardJournals);
+      const lossJournal: LocalizedString = { en: `Expedition fleet ${exp.id} lost all units.`, hu: `A(z) ${exp.id} expedíciós flotta teljesen megsemmisült.`, de: `Expeditionsflotte ${exp.id} hat alle Einheiten verloren.`, ro: `Flota de expediție ${exp.id} a pierdut toate unitățile.` };
+      journalEntries.push(lossJournal);
       
       state = pushNotification(
         state,
-        "general",
-        { en: "Expedition Returned", hu: "Expedíció Visszatért", de: "Expedition Zurückgekehrt", ro: "Expediție Întoarsă" },
-        journalEntries[journalEntries.length - 1],
-        "Compass"
+        "raid",
+        { en: "Expedition Lost", hu: "Expedíció Elveszett", de: "Expedition Verloren", ro: "Expediție Pierdută" },
+        lossJournal,
+        "AlertTriangle"
       );
+
+      state = pushArchiveEvent(state, {
+        category: "expedition",
+        severity: "critical",
+        importance: 4,
+        title: { en: "Expedition Lost", hu: "Expedíció Elveszett", de: "Expedition Verloren", ro: "Expediție Pierdută" },
+        summary: lossJournal,
+        details: {
+          targetId: exp.id,
+          outcome: "lost",
+          casualties: exp.casualties,
+          officerId: exp.fleet.officerId,
+        }
+      });
+      continue;
+    }
+
+    // Process Completion / Return
+    const isDone = (exp.status === "en_route" && state.tick >= exp.endsAtTick) || (exp.status === "returning" && exp.returnAtTick && state.tick >= exp.returnAtTick);
+    
+    if (isDone) {
+      mutated = true;
+      
+      if (exp.status === "en_route") {
+        exp.status = "returning";
+        const ticksSpent = state.tick - exp.startedAtTick;
+        const returnTicks = Math.min(ticksSpent, EXPEDITION_DURATIONS_TICKS[exp.durationMode]);
+        exp.returnAtTick = state.tick + returnTicks;
+        state = updateAllocationStatus(state, exp.id, "returning");
+        
+        exp.logs.push({
+          tick: state.tick,
+          text: { en: "Expedition target reached. Commencing return trip.", hu: "Az expedíció elérte a célpontot. Hazautazás megkezdve.", de: "Expeditionsziel erreicht. Rückreise beginnt.", ro: "Ținta expediției a fost atinsă. Începe călătoria de întoarcere." },
+          resultType: "safe",
+        });
+        
+        journalEntries.push({
+          en: `Expedition ${exp.id} reached target. Returning to base.`,
+          hu: `A(z) ${exp.id} expedíció elérte a célpontot. Visszatér a bázisra.`,
+          de: `Expedition ${exp.id} hat das Ziel erreicht. Rückkehr zur Basis.`,
+          ro: `Expediția ${exp.id} a atins ținta. Se întoarce la bază.`,
+        });
+      } else {
+        exp.status = "completed";
+        
+        const { nextState: rewardedState, journalEntries: rewardJournals } = giveExpeditionRewards(
+          {...state, globalRngState: currentRngState}, 
+          exp
+        );
+        
+        currentRngState = rewardedState.globalRngState;
+        nextResources = rewardedState.resources;
+        
+        if (rewardedState.factionReputation.reputation !== state.factionReputation.reputation) {
+          state = { ...state, factionReputation: rewardedState.factionReputation };
+        }
+        
+        const totalKilled = Object.values(exp.casualties.killed).reduce((sum, count) => sum + (count ?? 0), 0);
+        const totalWounded = Object.values(exp.casualties.wounded).reduce((sum, count) => sum + (count ?? 0), 0);
+        
+        // 2. Return Survivors via Ledger
+        state = (totalKilled > 0 || totalWounded > 0)
+          ? releaseAllocationWithCasualties(state, exp.id, exp.casualties.killed, exp.casualties.wounded) 
+          : releaseAllocation(state, exp.id);
+        
+        nextGarrison = state.warRoom.garrison;
+
+        if (exp.fleet.officerId) {
+          const oIndex = nextOfficers.active.findIndex(o => o.id === exp.fleet.officerId);
+          if (oIndex !== -1) {
+            const updatedOfficers = [...nextOfficers.active];
+            updatedOfficers[oIndex] = { 
+              ...updatedOfficers[oIndex], 
+              status: "ready", 
+              availableAtTick: 0,
+              xp: updatedOfficers[oIndex].xp + 75
+            };
+            nextOfficers.active = updatedOfficers;
+          }
+        }
+
+        const hadLosses = totalKilled > 0 || totalWounded > 0;
+        exp.lessonText = generateExpeditionLesson(exp.routeProfile, exp.crewProfile, exp.recalled, hadLosses);
+
+        exp.logs.push({
+          tick: state.tick,
+          text: { en: "Expedition concluded. Fleet has docked successfully.", hu: "Expedíció befejezve. A flotta sikeresen dokkolt.", de: "Expedition abgeschlossen. Flotte erfolgreich angedockt.", ro: "Expediție încheiată. Flota a acostat cu succes." },
+          resultType: "safe",
+        });
+
+        completedLogAdditions.push(exp);
+        journalEntries.push(...rewardJournals);
+        
+        state = pushNotification(
+          state,
+          "general",
+          { en: "Expedition Returned", hu: "Expedíció Visszatért", de: "Expedition Zurückgekehrt", ro: "Expediție Întoarsă" },
+          journalEntries[journalEntries.length - 1],
+          "Compass"
+        );
+
+        state = pushArchiveEvent(state, {
+          category: "expedition",
+          severity: totalKilled > 0 ? "warning" : "success",
+          importance: 3,
+          title: { en: "Expedition Returned", hu: "Expedíció Visszatért", de: "Expedition Zurückgekehrt", ro: "Expediție Întoarsă" },
+          summary: journalEntries[journalEntries.length - 1],
+          details: {
+            targetId: exp.id,
+            outcome: "completed",
+            loot: exp.loot,
+            casualties: exp.casualties,
+            officerId: exp.fleet.officerId,
+          }
+        });
+      }
     }
   }
 
@@ -454,7 +563,7 @@ export function tickExpeditions(state: StarholdState): StarholdState {
       },
       expeditions: {
         activeExpeditions: nextActive.filter(e => e.status !== "completed" && e.status !== "lost"),
-        completedLog: [...state.expeditions.completedLog, ...completedLogAdditions].slice(-20), // Keep last 20
+        completedLog: [...state.expeditions.completedLog, ...completedLogAdditions].slice(-20),
       }
     };
     

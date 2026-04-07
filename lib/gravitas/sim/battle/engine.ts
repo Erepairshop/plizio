@@ -195,7 +195,7 @@ export function resolveBattle(input: ResolveBattleInput): BattleResult {
   const worldLevel = playerState.worldLevel ?? 1;
 
   const seedBasis = [
-    seedNow ?? Date.now(),
+    seedNow ?? playerState.tick,
     enemy.id,
     army.tacticId,
     JSON.stringify(army.units),

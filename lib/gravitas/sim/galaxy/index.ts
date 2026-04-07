@@ -2,12 +2,11 @@ import type { GalaxyCycleState } from "./types";
 import { getPhaseDurationMs } from "./cycles";
 
 export function createInitialGalaxyCycle(): GalaxyCycleState {
-  const now = Date.now();
-  const duration = getPhaseDurationMs("calm");
+  const durationTicks = Math.floor(getPhaseDurationMs("calm") / 1000);
   return {
     currentPhase: "calm",
-    phaseStartedAt: now,
-    phaseEndsAt: now + duration,
+    phaseStartedAtTick: 0,
+    phaseEndsAtTick: durationTicks,
     cycleNumber: 0,
   };
 }

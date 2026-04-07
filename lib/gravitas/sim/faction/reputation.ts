@@ -140,7 +140,7 @@ export function applyNaturalDrift(state: FactionReputationState): FactionReputat
     ...state,
     reputation: nextReputation,
     status: getAllReputationTiers(nextReputation),
-    lastDriftAt: Date.now(),
+    lastDriftAtTick: 0, // Should be updated by caller
   };
 }
 

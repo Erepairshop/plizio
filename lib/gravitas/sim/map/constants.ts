@@ -1,12 +1,5 @@
 import type { FleetMissionType } from "./types";
 
-/** Mission durations in ticks (1 tick = 1 second) */
-export const MISSION_DURATION_TICKS: Record<FleetMissionType, number> = {
-  collect: 3600,  // 1 hour
-  attack: 1800,   // 30 min
-  inspect: 600,   // 10 min
-};
-
 /** Ticks cooldown between node actions */
 export const ACTION_COOLDOWN_TICKS = 120;
 

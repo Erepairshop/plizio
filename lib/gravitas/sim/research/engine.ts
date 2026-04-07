@@ -5,6 +5,7 @@ import { RESEARCH_CONFIG } from "../../economy";
 import { loadSavedGalaxyInventory, saveGalaxyInventory } from "../../world/mission";
 import type { GalaxyMaterialId } from "../../world/mission";
 import { pushJournal } from "../shared";
+import { pushArchiveEvent } from "../archive/manager";
 import { nextRandom } from "../rng";
 
 export function createInitialResearchState(discoveredFields: import("./types").ResearchFieldId[] = ["weapons", "shields"]): ResearchState {
@@ -102,19 +103,17 @@ export function startResearch(state: StarholdState, projectId: string): Starhold
   }
   saveGalaxyInventory(inventory);
 
-  let durationMs = project.baseDurationMs ?? RESEARCH_CONFIG.tierDurationMs[project.tier - 1] ?? (240 * 3600000); // default to long if not found
+  let durationTicks = Math.floor((project.baseDurationMs ?? RESEARCH_CONFIG.tierDurationMs[project.tier - 1] ?? (240 * 3600000)) / 1000);
   
   if (isCurious) {
-    durationMs = Math.ceil(durationMs * 0.8);
+    durationTicks = Math.ceil(durationTicks * 0.8);
   }
   if (isBold && project.fieldId === "weapons") {
-    durationMs = 0;
+    durationTicks = 0;
   }
   if (protectiveDiscount < 1.0) {
-    durationMs = Math.ceil(durationMs * protectiveDiscount);
+    durationTicks = Math.ceil(durationTicks * protectiveDiscount);
   }
-
-  const now = Date.now();
 
   const text = {
     en: `Research started: ${project.name.en}`,
@@ -129,8 +128,8 @@ export function startResearch(state: StarholdState, projectId: string): Starhold
       ...state.research,
       active: {
         projectId,
-        startedAt: now,
-        completesAt: now + durationMs,
+        startedAtTick: state.tick,
+        completesAtTick: state.tick + durationTicks,
       }
     },
     alert: text,
@@ -229,8 +228,7 @@ export function tickResearch(state: StarholdState): StarholdState {
 
   // Check completion
   if (nextState.research.active) {
-    const now = Date.now();
-    if (now >= nextState.research.active.completesAt) {
+    if (nextState.tick >= nextState.research.active.completesAtTick) {
       const project = RESEARCH_PROJECTS.find(p => p.id === nextState.research.active!.projectId);
       
       if (project) {
@@ -297,6 +295,17 @@ export function tickResearch(state: StarholdState): StarholdState {
                 calmProductionBuffs: nextCalmBuffs,
               }
             };
+
+            nextState = pushArchiveEvent(nextState, {
+              category: "research",
+              severity: "success",
+              importance: 3,
+              title: { en: "Research Completed", hu: "Kutatás Befejezve", de: "Forschung abgeschlossen", ro: "Cercetare Finalizată" },
+              summary: text,
+              details: {
+                researchId: project.id,
+              }
+            });
         } else {
             nextState = {
               ...nextState,

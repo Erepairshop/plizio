@@ -2,10 +2,10 @@ import type { StarholdState } from "../types";
 import type { EspionageState, EspionageMission, EspionageMissionType, EspionageIntelAction } from "./types";
 import type { FactionId } from "../faction/types";
 import { ESPIONAGE_CONFIG, FACTION_REPUTATION_CONFIG } from "../../economy";
-import { takeBestUnits, mergeGarrisonEntries } from "../warroom/veteran";
 import { pushJournal } from "../shared";
 import { getReputationTier, applyReputationChange } from "../faction/reputation";
 import { nextRandom, randomInt } from "../rng";
+import { reserveUnits, releaseAllocation, releaseAllocationWithCasualties, updateAllocationStatus, reportLostAllocation } from "../warroom/ledger";
 
 export function createInitialEspionageState(): EspionageState {
   return {
@@ -13,8 +13,8 @@ export function createInitialEspionageState(): EspionageState {
     totalIntel: 0,
     extractedCount: 0,
     lostCount: 0,
-    lastExposureEvent: null,
-    decoyActiveUntil: null,
+    lastExposureEventTick: null,
+    decoyActiveUntilTick: null,
   };
 }
 
@@ -29,15 +29,15 @@ export function deploySpies(
   if (state.espionage.missions.length >= ESPIONAGE_CONFIG.maxActiveMissions) return state;
   if (operativeCount < ESPIONAGE_CONFIG.minWraithsPerMission) return state;
   
-  const currentUnits = state.warRoom.garrison[operativeUnitId] ?? [];
-  const totalUnits = currentUnits.reduce((sum, e) => sum + e.count, 0);
-  if (totalUnits < operativeCount) return state;
-
-  const { remaining, taken } = takeBestUnits(currentUnits, operativeCount);
-
   let currentRngState = state.globalRngState;
   const { value: r1, nextState: s1 } = randomInt(currentRngState, 0, 9999);
   currentRngState = s1;
+
+  const missionId = `spy_${state.tick}_${r1}`;
+  const allocationId = `esp_${missionId}`;
+
+  const reservation = reserveUnits(state, allocationId, "battle", { [operativeUnitId]: operativeCount });
+  if (!reservation.success) return state;
 
   let initialRisk = 0;
   if (target.type === "faction") {
@@ -47,39 +47,35 @@ export function deploySpies(
     }
   }
 
-  const now = Date.now();
+  const deployTicks = Math.floor(ESPIONAGE_CONFIG.deployTimeMs / 1000);
   const newMission: EspionageMission = {
-    id: `spy_${now}_${r1}`,
+    id: missionId,
+    allocationId,
     type: missionType,
     target,
     operativeRole,
     operativeUnitId,
     operativeCount,
     phase: "deploying",
-    startedAt: now,
-    activeAt: now + ESPIONAGE_CONFIG.deployTimeMs,
+    startedAtTick: state.tick,
+    activeAtTick: state.tick + deployTicks,
     exposureRisk: initialRisk,
     intelGathered: 0,
     intelDepthLevel: 0,
-    lastYieldAt: now + ESPIONAGE_CONFIG.deployTimeMs,
+    lastYieldAtTick: state.tick + deployTicks,
     revealedData: {},
   };
 
+  let nextState = updateAllocationStatus(reservation.nextState, allocationId, "traveling", state.tick + deployTicks);
+
   return {
-    ...state,
+    ...nextState,
     globalRngState: currentRngState,
-    warRoom: {
-      ...state.warRoom,
-      garrison: {
-        ...state.warRoom.garrison,
-        [operativeUnitId]: remaining,
-      }
-    },
     espionage: {
-      ...state.espionage,
-      missions: [...state.espionage.missions, newMission],
+      ...nextState.espionage,
+      missions: [...nextState.espionage.missions, newMission],
     },
-    journal: pushJournal(state, {
+    journal: pushJournal(nextState, {
       en: `Deployed ${operativeCount} ${operativeRole}s to infiltrate ${target.id}.`,
       hu: `${operativeCount} ${operativeRole} beépítése elindítva a(z) ${target.id} célpontba.`,
       de: `${operativeCount} ${operativeRole}s entsandt, um ${target.id} zu infiltrieren.`,
@@ -93,23 +89,23 @@ export function extractSpies(state: StarholdState, missionId: string): StarholdS
   if (!mission || mission.phase === "extracted" || mission.phase === "lost") return state;
 
   const isExposed = mission.phase === "exposed";
-  const returnCount = isExposed ? Math.floor(mission.operativeCount * (1 - ESPIONAGE_CONFIG.exposureLossRatio)) : mission.operativeCount;
+  const lostCount = isExposed ? Math.floor(mission.operativeCount * ESPIONAGE_CONFIG.exposureLossRatio) : 0;
 
-  let nextGarrison = state.warRoom.garrison;
-  if (returnCount > 0) {
-    nextGarrison = {
-      ...nextGarrison,
-      [mission.operativeUnitId]: mergeGarrisonEntries(nextGarrison[mission.operativeUnitId] ?? [], [{ count: returnCount, level: 1 }])
-    };
+  let nextState = state;
+  if (lostCount > 0) {
+    nextState = releaseAllocationWithCasualties(nextState, mission.allocationId, { [mission.operativeUnitId]: lostCount });
+  } else {
+    nextState = releaseAllocation(nextState, mission.allocationId);
   }
 
-  const nextMissions = state.espionage.missions.map(m => {
+  const nextMissions = nextState.espionage.missions.map(m => {
     if (m.id === missionId) {
       return { ...m, phase: "extracted" as const };
     }
     return m;
   });
 
+  const returnCount = mission.operativeCount - lostCount;
   const text = {
     en: `Extraction complete. ${returnCount} ${mission.operativeRole}s returned from ${mission.target.id}.`,
     hu: `Kivonás sikeres. ${returnCount} ${mission.operativeRole} visszatért a(z) ${mission.target.id} területről.`,
@@ -118,24 +114,19 @@ export function extractSpies(state: StarholdState, missionId: string): StarholdS
   };
 
   return {
-    ...state,
-    warRoom: {
-      ...state.warRoom,
-      garrison: nextGarrison,
-    },
+    ...nextState,
     espionage: {
-      ...state.espionage,
+      ...nextState.espionage,
       missions: nextMissions,
-      extractedCount: state.espionage.extractedCount + 1,
-      totalIntel: state.espionage.totalIntel + mission.intelGathered,
+      extractedCount: nextState.espionage.extractedCount + 1,
+      totalIntel: nextState.espionage.totalIntel + mission.intelGathered,
     },
-    journal: pushJournal(state, text),
+    journal: pushJournal(nextState, text),
     alert: text,
   };
 }
 
 export function tickEspionage(state: StarholdState): StarholdState {
-  const now = Date.now();
   let nextState = state;
   let mutated = false;
   let currentRngState = state.globalRngState;
@@ -145,18 +136,22 @@ export function tickEspionage(state: StarholdState): StarholdState {
   const isCalm = !!state.battleState.avatarCombat.innateBonus?.barrier; // Calm maps to barrier
   const isBold = state.derived?.commanderBonuses.isBold; // Bold maps to firepower
 
+  const intelYieldIntervalTicks = Math.floor(ESPIONAGE_CONFIG.intelYieldIntervalMs / 1000);
+  const extractGracePeriodTicks = Math.floor(ESPIONAGE_CONFIG.extractGracePeriodMs / 1000);
+
   const nextMissions = nextState.espionage.missions.map(mission => {
     let m = { ...mission };
 
-    if (m.phase === "deploying" && now >= m.activeAt) {
+    if (m.phase === "deploying" && state.tick >= m.activeAtTick) {
       m.phase = "active";
+      nextState = updateAllocationStatus(nextState, m.allocationId, "working");
       mutated = true;
     }
 
     if (m.phase === "active") {
-      const elapsedSinceYield = now - m.lastYieldAt;
-      if (elapsedSinceYield >= ESPIONAGE_CONFIG.intelYieldIntervalMs) {
-        const yieldCycles = Math.floor(elapsedSinceYield / ESPIONAGE_CONFIG.intelYieldIntervalMs);
+      const elapsedSinceYield = state.tick - m.lastYieldAtTick;
+      if (elapsedSinceYield >= intelYieldIntervalTicks) {
+        const yieldCycles = Math.floor(elapsedSinceYield / intelYieldIntervalTicks);
         
         let rep = 0;
         if (m.target.type === "faction") {
@@ -279,9 +274,9 @@ export function tickEspionage(state: StarholdState): StarholdState {
 
             if (rExp < chance) {
               // Counter-Intel Check (Did the player leave a decoy?)
-              if (nextState.espionage.decoyActiveUntil && now < nextState.espionage.decoyActiveUntil) {
+              if (nextState.espionage.decoyActiveUntilTick && state.tick < nextState.espionage.decoyActiveUntilTick) {
                 m.exposureRisk = 50; // Reset risk
-                nextState.espionage.decoyActiveUntil = null; // Consume decoy
+                nextState.espionage.decoyActiveUntilTick = null; // Consume decoy
                 const decoyText = {
                   en: `Operatives compromised, but the active decoy diverted attention. Exposure reduced.`,
                   hu: `Az ügynökök lebuktak, de az aktív csalétek elterelte a figyelmet. A kockázat csökkent.`,
@@ -310,7 +305,7 @@ export function tickEspionage(state: StarholdState): StarholdState {
               }
 
               m.phase = "exposed";
-              m.lastYieldAt = now; // marking exposure time
+              m.lastYieldAtTick = state.tick; // marking exposure time
               m.trapTriggered = true;
               
               let repPenalty = -15;
@@ -344,7 +339,7 @@ export function tickEspionage(state: StarholdState): StarholdState {
                   },
                   espionage: {
                     ...nextState.espionage,
-                    lastExposureEvent: now,
+                    lastExposureEventTick: state.tick,
                     lostCount: nextState.espionage.lostCount + lostOps,
                   }
               };
@@ -362,15 +357,19 @@ export function tickEspionage(state: StarholdState): StarholdState {
         }
         
         if (m.phase === "active") {
-          m.lastYieldAt += yieldCycles * ESPIONAGE_CONFIG.intelYieldIntervalMs;
+          m.lastYieldAtTick += yieldCycles * intelYieldIntervalTicks;
         }
         mutated = true;
       }
     }
 
     if (m.phase === "exposed") {
-      if (now >= m.lastYieldAt + ESPIONAGE_CONFIG.extractGracePeriodMs) {
+      if (state.tick >= m.lastYieldAtTick + extractGracePeriodTicks) {
         m.phase = "lost";
+        
+        // Report lost allocation to ledger
+        nextState = reportLostAllocation(nextState, m.allocationId);
+
         nextState = {
           ...nextState,
           espionage: {
@@ -431,12 +430,12 @@ export function spendIntel(state: StarholdState, action: EspionageIntelAction, e
           intelLevel: 0,
           revealedStats: {},
           revealedTraits: [],
-          lastScoutedAt: 0
+          lastScoutedAtTick: 0
         };
         nextState.battleState.scoutReports[extraArg] = {
           ...currentReport,
           intelLevel: 100,
-          lastScoutedAt: Date.now(),
+          lastScoutedAtTick: state.tick,
         };
       }
       break;
@@ -460,7 +459,7 @@ export function spendIntel(state: StarholdState, action: EspionageIntelAction, e
       break;
     case "earlyWarning":
       if (nextState.weeklyMission.activeMission && nextState.weeklyMission.activeMission.phase === "preparation") {
-        nextState.weeklyMission.activeMission.battleStartsAt += 2 * 60 * 60 * 1000;
+        nextState.weeklyMission.activeMission.battleStartsAtTick += 2 * 3600; // 2 hours in ticks
       }
       break;
     case "sabotageSupply":
@@ -470,7 +469,7 @@ export function spendIntel(state: StarholdState, action: EspionageIntelAction, e
       nextState.journal = pushJournal(nextState, { en: "Planted counterfeit intel to mislead enemies.", hu: "Hamis információkat juttattunk be az ellenség megtévesztésére.", de: "Gefälschte Informationen platziert, um Feinde in die Irre zu führen.", ro: "Au fost plantate informații false pentru a induce în eroare inamicii." });
       break;
     case "decoyDeployment":
-      nextState.espionage.decoyActiveUntil = Date.now() + 24 * 60 * 60 * 1000; // 24h decoy
+      nextState.espionage.decoyActiveUntilTick = state.tick + 24 * 3600; // 24h decoy in ticks
       nextState.journal = pushJournal(nextState, { en: "Decoy deployment active. Future raids will be misdirected.", hu: "Csalétek bevetve. A jövőbeli portyák tévútra kerülnek.", de: "Täuschungseinsatz aktiv. Zukünftige Überfälle werden fehlgeleitet.", ro: "Desfășurare momeală activă. Raidurile viitoare vor fi deturnate." });
       break;
   }

@@ -24,6 +24,6 @@ export function createInitialFactionReputation(): FactionReputationState {
       synthoid: 1000,
       noma: 1000,
     },
-    lastDriftAt: Date.now(),
+    lastDriftAtTick: 0,
   };
 }

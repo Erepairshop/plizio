@@ -119,6 +119,7 @@ export default function WarRoomPanel({
             unitDef={WARROOM_UNITS[unitId]}
             onCancel={() => dispatch({ type: "CANCEL_TRAINING", unitId })}
             lang={lang}
+            currentTick={state.tick}
           />
         );
       })}

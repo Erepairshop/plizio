@@ -161,14 +161,15 @@ export function getTotalWounded(wounded: StarholdState["repairBay"]["wounded"]):
 }
 
 export function applyWoundedDecay(state: StarholdState): StarholdState {
-  if (!state.repairBay.woundedAt) return state;
-  const now = Date.now();
+  if (!state.repairBay.woundedAtTick) return state;
+  
+  // Decay every hour (3600 ticks)
   const graceHours = REPAIR_BAY_CONFIG.decayGraceHours + state.moduleLevels.core * REPAIR_BAY_CONFIG.decayGracePerCoreLevel;
-  const graceMs = graceHours * HOUR_MS;
-  const elapsedAfterGrace = now - (state.repairBay.woundedAt + graceMs);
-  if (elapsedAfterGrace < HOUR_MS) return state;
+  const graceTicks = graceHours * 3600;
+  const elapsedAfterGrace = state.tick - (state.repairBay.woundedAtTick + graceTicks);
+  if (elapsedAfterGrace < 3600) return state;
 
-  const elapsedHours = Math.floor(elapsedAfterGrace / HOUR_MS);
+  const elapsedHours = Math.floor(elapsedAfterGrace / 3600);
   const survivalFactor = Math.pow(1 - REPAIR_BAY_CONFIG.decayRatePerHour, elapsedHours);
   let totalDied = 0;
 
@@ -185,8 +186,8 @@ export function applyWoundedDecay(state: StarholdState): StarholdState {
 
   if (totalDied <= 0) return state;
 
-  const remainingAfterGraceRemainder = elapsedAfterGrace % HOUR_MS;
-  const adjustedWoundedAt = now - graceMs - remainingAfterGraceRemainder;
+  const remainingAfterGraceRemainder = elapsedAfterGrace % 3600;
+  const adjustedWoundedAtTick = state.tick - remainingAfterGraceRemainder;
   const hasWounded = getTotalWounded(nextWounded) > 0;
   const text = {
     en: `${totalDied} wounded units were lost due to delayed treatment.`,
@@ -200,7 +201,7 @@ export function applyWoundedDecay(state: StarholdState): StarholdState {
     repairBay: {
       ...state.repairBay,
       wounded: nextWounded,
-      woundedAt: hasWounded ? adjustedWoundedAt : null,
+      woundedAtTick: hasWounded ? adjustedWoundedAtTick : null,
     },
     alert: text,
     journal: pushJournal(state, text),
@@ -259,8 +260,8 @@ export function startRepair(
     unitId,
     targetLevel: unitLevel,
     batchSize: count,
-    startedAt: Date.now(),
-    completesAt: Date.now() + duration * 1000,
+    startedAtTick: state.tick,
+    completesAtTick: state.tick + duration,
     repairedEntries,
   };
 
@@ -284,7 +285,7 @@ export function startRepair(
       ...state.repairBay,
       repairSlots: nextSlots,
       wounded: nextWounded,
-      woundedAt: getTotalWounded(nextWounded) > 0 ? (state.repairBay.woundedAt ?? Date.now()) : null,
+      woundedAtTick: getTotalWounded(nextWounded) > 0 ? (state.repairBay.woundedAtTick ?? state.tick) : null,
     },
     alert: text,
     journal: pushJournal(state, text),
@@ -326,7 +327,7 @@ export function cancelRepair(state: StarholdState, slotIndex: number): StarholdS
       ...state.repairBay,
       repairSlots: nextSlots,
       wounded: nextWounded,
-      woundedAt: state.repairBay.woundedAt ?? Date.now(),
+      woundedAtTick: state.repairBay.woundedAtTick ?? state.tick,
     },
     alert: text,
     journal: pushJournal(state, text),

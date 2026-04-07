@@ -28,6 +28,7 @@ export function createInitialWarRoom(): WarRoomState {
       synthoid_titan: [],
       noma_weaver: [],
     },
+    allocations: [],
   };
 }
 

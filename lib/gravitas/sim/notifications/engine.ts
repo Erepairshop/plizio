@@ -21,7 +21,7 @@ export function pushNotification(
   currentRngState = s1;
 
   const newNotif: NotificationEntry = {
-    id: `notif_${Date.now()}_${r1}`,
+    id: `notif_${state.tick}_${r1}`,
     type,
     title,
     message,

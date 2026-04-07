@@ -71,7 +71,8 @@ export default function FactionWarsPanel({ state, onIntervene, onClose, lang }: 
             const attacker = GALAXY_FACTIONS[war.attackerId];
             const defender = GALAXY_FACTIONS[war.defenderId];
             
-            const hoursLeft = Math.max(0, Math.ceil((war.endsAt - Date.now()) / 3600000));
+            const ticksLeft = Math.max(0, war.endsAtTick - state.tick);
+            const hoursLeft = Math.ceil(ticksLeft / 3600);
 
             return (
               <div key={war.id} className="rounded-2xl border border-white/10 bg-white/5 overflow-hidden">

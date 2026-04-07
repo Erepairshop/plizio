@@ -1,3 +1,5 @@
+import type { BattleHistoryEntry, ScoutReport } from "./battle/types";
+
 export type StarholdModuleId = "reactor" | "logistics" | "core" | "sensor";
 
 export interface StarholdModuleState {
@@ -19,6 +21,7 @@ export interface StarholdResources {
   signalRange: number;
   supplyFlow: number;
   antimatter: number;
+  chronoCore: number;
 }
 
 export interface StarholdMarks {
@@ -234,15 +237,6 @@ export interface StarholdDerivedState {
   maxAntimatter: number;
 }
 
-export interface StarholdArchiveState {
-  expiredMapNodes: import("./map/types").MapNode[];
-  completedFleets: import("./map/types").FleetMovement[];
-  completedExpeditions: import("./expeditions/types").ActiveExpedition[];
-  completedTrades: import("./trade/types").ActiveTrade[];
-  completedMissions: import("./espionage/types").EspionageMission[];
-  battleHistory: import("./battle/types").BattleHistoryEntry[];
-}
-
 export interface StarholdState {
   globalRngState: number;
   tick: number;
@@ -259,6 +253,7 @@ export interface StarholdState {
     embargoedPlayers: string[];
   };
   resources: StarholdResources;
+  inventory: import("../world/mission").GalaxyInventory;
   marks: StarholdMarks;
   anomalies: StarholdAnomaly[];
   entropy: number; // 0-100, affects costs and stability
@@ -295,21 +290,22 @@ export interface StarholdState {
   postWaveSurgeMode: "gentle" | "aggressive" | null;
   avatarProfile: StarholdAvatarProfile | null;
   battleState: {
-    scoutReports: Record<string, import("./battle/types").ScoutReport>;
-    battleHistory: import("./battle/types").BattleHistoryEntry[];
+    scoutReports: Record<string, ScoutReport>;
+    battleHistory: BattleHistoryEntry[];
     avatarCombat: import("./battle/avatarCombat").AvatarCombatProfile;
     buildingCooldowns: Record<string, number>;
     activeScout: {
       buildingId: string;
-      startedAt: number;
-      completesAt: number;
+      allocationId: string;
+      startedAtTick: number;
+      completesAtTick: number;
     } | null;
   };
   factionReputation: import("./faction/types").FactionReputationState;
   worldLevel: number;
   worldLevelPending: {
     targetLevel: number;
-    scheduledAt: number; // Date.now() + random(24h-48h)
+    scheduledAtTick: number; // state.tick + random(24h-48h in ticks)
   } | null;
   avatarImprintActive: boolean;
   avatarImprintProgress: number;
@@ -319,7 +315,7 @@ export interface StarholdState {
   waveRecoveryCalmTicks: number;
   warRoom: import("./warroom/types").WarRoomState;
   repairBay: import("./repairbay/types").RepairBayState;
-  lastActiveAt: number;
+  lastActiveAt: number; // Real Date.now() for offline calculation
   offlineSummary: import("./offlineProgress").OfflineProgressReport | null;
   moduleLevels: {
     reactor: number;
@@ -329,7 +325,7 @@ export interface StarholdState {
     warroom: number;
     repairbay: number;
   };
-  /** Active module upgrades (real-time timers) */
+  /** Active module upgrades (tick-based timers) */
   upgradeQueue: ModuleUpgradeSlot[];
   /** How many parallel upgrade slots (default 1, unlockable) */
   upgradeSlotCount: number;
@@ -356,6 +352,10 @@ export interface StarholdState {
   expeditions: import("./expeditions/types").ExpeditionState;
   /** Galaxy Map System */
   galaxy: import("./map/types").GalaxyMapState;
+  /** Star Chamber special systems */
+  starChamber: import("./starchamber/types").StarChamberState;
+  /** Daily and weekly task system */
+  dailyTasks: import("./tasks/types").DailyTaskState;
   statistics: {
     trauma: {
       agentsLost: number;
@@ -366,15 +366,16 @@ export interface StarholdState {
   };
   archive: StarholdArchiveState;
   derived?: StarholdDerivedState;
+  lastActionFeedback?: import("./map/types").NodeActionFeedback;
 }
 
 export interface ModuleUpgradeSlot {
   moduleId: import("../economy").UpgradableModuleId;
   targetLevel: number;
-  /** Real timestamp (Date.now()) when upgrade started */
-  startedAt: number;
-  /** Real timestamp when upgrade completes */
-  completesAt: number;
+  /** Simulation tick when upgrade started */
+  startedAtTick: number;
+  /** Simulation tick when upgrade completes */
+  completesAtTick: number;
 }
 
 export type StarholdCommand =
@@ -436,5 +437,19 @@ export type StarholdCommand =
   | { type: "INSPECT_NODE"; nodeId: string }
   | { type: "COLLECT_NODE"; nodeId: string }
   | { type: "ATTACK_NODE"; nodeId: string }
-  | { type: "DISPATCH_FLEET"; nodeId: string; missionType: import("./map/types").FleetMissionType }
-  | { type: "RECALL_FLEET"; fleetId: string };
+  | { type: "DISPATCH_FLEET"; nodeId: string; missionType: import("./map/types").FleetMissionType; composition: Record<string, number>; useBoost?: boolean }
+  | { type: "RECALL_FLEET"; fleetId: string; useBoost?: boolean }
+  | { type: "UNLOCK_STAR_CHAMBER_ITEM"; itemId: string }
+  | { type: "ACTIVATE_STAR_CHAMBER_ITEM"; itemId: string; targetId?: string }
+  | { type: "CLAIM_STAR_CHAMBER_OFFER"; instanceId: string }
+  | { type: "CLAIM_DAILY_TASK_REWARD"; taskId: string }
+  | { type: "TICK" }
+  | { type: "LOAD_STATE"; state: StarholdState }
+  | { type: "RESET_STATE" }
+  | { type: "DISMISS_VICTORY" }
+  | { type: "START_IMPRINT" }
+  | { type: "STOP_IMPRINT" }
+  | { type: "START_TRANSFER" }
+  | { type: "STOP_TRANSFER" };
+
+export type StarholdArchiveState = import('./archive/types').ArchiveState;

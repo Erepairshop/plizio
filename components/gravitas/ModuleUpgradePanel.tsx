@@ -18,11 +18,11 @@ const MODULE_NAMES: Record<UpgradableModuleId, Record<Lang, string>> = {
   repairbay: { en: "Repair Bay", hu: "Javítóüzem", de: "Reparaturbucht", ro: "Doc reparații" },
 };
 
-function formatTime(seconds: number): string {
-  if (seconds <= 0) return "0s";
-  const d = Math.floor(seconds / 86400);
-  const h = Math.floor((seconds % 86400) / 3600);
-  const m = Math.floor((seconds % 3600) / 60);
+function formatTimeTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const d = Math.floor(ticks / 86400);
+  const h = Math.floor((ticks % 86400) / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
   if (d > 0) return h > 0 ? `${d}d ${h}h` : `${d}d`;
   if (h > 0) return m > 0 ? `${h}h ${m}m` : `${h}h`;
   return `${m}m`;
@@ -47,20 +47,15 @@ function CostChips({ cost, lang }: { cost: MaterialCost; lang: Lang }) {
 }
 
 /** Active upgrade progress bar */
-function UpgradeProgress({ slot, lang, onCancel }: {
+function UpgradeProgress({ slot, lang, currentTick, onCancel }: {
   slot: StarholdState["upgradeQueue"][0];
   lang: Lang;
+  currentTick: number;
   onCancel?: () => void;
 }) {
-  const [now, setNow] = useState(Date.now());
-  useEffect(() => {
-    const interval = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(interval);
-  }, []);
-
-  const total = slot.completesAt - slot.startedAt;
-  const elapsed = Math.min(now - slot.startedAt, total);
-  const remaining = Math.max(0, slot.completesAt - now);
+  const total = slot.completesAtTick - slot.startedAtTick;
+  const elapsed = Math.min(currentTick - slot.startedAtTick, total);
+  const remaining = Math.max(0, slot.completesAtTick - currentTick);
   const pct = total > 0 ? (elapsed / total) * 100 : 100;
   const moduleName = MODULE_NAMES[slot.moduleId]?.[lang] ?? slot.moduleId;
 
@@ -71,7 +66,7 @@ function UpgradeProgress({ slot, lang, onCancel }: {
           🔨 {moduleName} → Lv{slot.targetLevel}
         </span>
         <span className="text-[9px] font-bold text-amber-300/60">
-          {formatTime(remaining / 1000)}
+          {formatTimeTicks(remaining)}
         </span>
       </div>
       <div className="mt-1.5 h-1.5 overflow-hidden rounded-full bg-black/30">
@@ -139,7 +134,7 @@ function ModuleUpgradeRow({ moduleId, state, dispatch, lang }: {
           <div className="min-w-0">
             <CostChips cost={nextEntry.cost} lang={lang} />
             <span className="mt-1 block text-[8px] font-medium text-white/30">
-              ⏱ {formatTime(nextEntry.buildSeconds)}
+              ⏱ {formatTimeTicks(nextEntry.buildSeconds)}
             </span>
           </div>
           <button
@@ -179,7 +174,7 @@ export default function ModuleUpgradePanel({ state, dispatch, lang }: {
       {state.upgradeQueue.length > 0 && (
         <div className="flex flex-col gap-1.5">
           {state.upgradeQueue.map(slot => (
-            <UpgradeProgress key={slot.moduleId} slot={slot} lang={l} />
+            <UpgradeProgress key={slot.moduleId} slot={slot} lang={l} currentTick={state.tick} />
           ))}
         </div>
       )}

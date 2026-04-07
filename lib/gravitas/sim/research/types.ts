@@ -34,8 +34,8 @@ export interface ResearchProject {
 
 export interface ActiveResearch {
   projectId: string;
-  startedAt: number; // Date.now() timestamp
-  completesAt: number; // Date.now() timestamp
+  startedAtTick: number;
+  completesAtTick: number;
 }
 
 export interface ResearchState {

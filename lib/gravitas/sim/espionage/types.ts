@@ -14,18 +14,19 @@ export interface EspionageTarget {
 
 export interface EspionageMission {
   id: string;
+  allocationId: string;
   type: EspionageMissionType;
   target: EspionageTarget;
   operativeRole: EspionageOperativeRole;
   operativeUnitId: WarRoomUnitId; // Which exact unit was sent
   operativeCount: number;
   phase: EspionageMissionPhase;
-  startedAt: number;
-  activeAt: number;
+  startedAtTick: number;
+  activeAtTick: number;
   exposureRisk: number; // 0-100
   intelGathered: number;
   intelDepthLevel: number; // 0 to 4
-  lastYieldAt: number;
+  lastYieldAtTick: number;
   revealedData: Record<string, any>; // Specific traits, loot hints, etc.
   trapTriggered?: boolean;
 }
@@ -35,8 +36,8 @@ export interface EspionageState {
   totalIntel: number;
   extractedCount: number;
   lostCount: number;
-  lastExposureEvent: number | null;
-  decoyActiveUntil: number | null; // Prevent raids or misdirect them
+  lastExposureEventTick: number | null;
+  decoyActiveUntilTick: number | null; // Prevent raids or misdirect them
 }
 
 export type EspionageIntelAction = "revealBuilding" | "weakenDefense" | "factionSecret" | "earlyWarning" | "sabotageSupply" | "counterfeitIntel" | "decoyDeployment";

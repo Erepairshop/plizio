@@ -18,8 +18,8 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
       { id: "C", label: { en: "Give supplies", hu: "Ellátmányt adsz", de: "Vorräte geben", ro: "Dă provizii" }, description: { en: "Give resources but don't take them in. Cost: 25 supply. +3 rep.", hu: "Anyagot adsz de nem fogadod be. Költség: 25 ellátmány. +3 reputáció.", de: "Gib Vorräte, aber nimm sie nicht auf. Kosten: 25 Vorräte. +3 Rep.", ro: "Dă-le resurse dar nu îi primi. Cost: 25 provizii. +3 rep." } },
     ],
     requiredPhase: null,
-    conditions: { minPlayDays: 3 },
-    cooldownDays: 14,
+    conditions: { minPlayTicks: 259200 },
+    cooldownTicks: 1209600,
     rare: false,
   },
   // 2. Trader Offer
@@ -40,7 +40,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: "trade", // or calm
     conditions: {},
-    cooldownDays: 10,
+    cooldownTicks: 864000,
     rare: false,
   },
   // 3. Spy Offer
@@ -61,7 +61,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { warroom: 5 } },
-    cooldownDays: 20,
+    cooldownTicks: 1728000,
     rare: false,
   },
   // 4. Alliance Request
@@ -81,7 +81,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minReputation: { noma: 21 } }, // Dynamic check in engine for any faction
-    cooldownDays: 30,
+    cooldownTicks: 2592000,
     rare: false,
   },
   // 5. Reactor Overload
@@ -101,7 +101,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { reactor: 1 } }, // reactor integrity < 60 check in engine
-    cooldownDays: 7,
+    cooldownTicks: 604800,
     rare: false,
   },
   // 6. Unknown Signal
@@ -121,7 +121,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { sensor: 3 } },
-    cooldownDays: 10,
+    cooldownTicks: 864000,
     rare: false,
   },
   // 7. Supply Crisis
@@ -142,7 +142,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minResource: { supply: 30 } }, // supply < 30 in engine
-    cooldownDays: 14,
+    cooldownTicks: 1209600,
     rare: false,
   },
   // 8. Repair Bay Accident
@@ -162,7 +162,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { repairbay: 3 } }, // wounded > 0 in engine
-    cooldownDays: 15,
+    cooldownTicks: 1296000,
     rare: false,
   },
   // 9. Energy Anomaly
@@ -183,7 +183,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { core: 5 } },
-    cooldownDays: 12,
+    cooldownTicks: 1036800,
     rare: false,
   },
   // 10. Drifting Wreck
@@ -203,7 +203,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { isGalaxyActive: true },
-    cooldownDays: 8,
+    cooldownTicks: 691200,
     rare: false,
   },
   // 11. Faction War
@@ -225,7 +225,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: "war",
     conditions: {},
-    cooldownDays: 15,
+    cooldownTicks: 1296000,
     rare: false,
   },
   // 12. Meteor Warning
@@ -246,7 +246,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: "storm",
     conditions: {},
-    cooldownDays: 12,
+    cooldownTicks: 1036800,
     rare: false,
   },
   // 13. Refugee Revenge (Followup)
@@ -265,7 +265,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { requirePreviousChoice: { dilemmaId: "refugees", optionId: "B" } },
-    cooldownDays: 999,
+    cooldownTicks: 86313600,
     rare: false,
   },
   // 14. Trader Return (Followup)
@@ -284,7 +284,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { requirePreviousChoice: { dilemmaId: "trader_offer", optionId: "A" } },
-    cooldownDays: 999,
+    cooldownTicks: 86313600,
     rare: false,
   },
   // 15. Double Play Consequence (Followup)
@@ -303,7 +303,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { requirePreviousChoice: { dilemmaId: "spy_offer", optionId: "C" } }, // engine should roll for 25% chance
-    cooldownDays: 999,
+    cooldownTicks: 86313600,
     rare: false,
   },
   // 16. Ancient Signal (Rare)
@@ -323,7 +323,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { sensor: 15 } },
-    cooldownDays: 90,
+    cooldownTicks: 7776000,
     rare: true,
   },
   // 17. Galactic Fair (Rare)
@@ -342,7 +342,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: "trade",
     conditions: {},
-    cooldownDays: 30,
+    cooldownTicks: 2592000,
     rare: true,
   },
   // 18. Dark Storm (Rare)
@@ -361,7 +361,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: "storm",
     conditions: {},
-    cooldownDays: 30,
+    cooldownTicks: 2592000,
     rare: true,
   },
   // 19. Truce (Rare)
@@ -381,7 +381,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: "war",
     conditions: {},
-    cooldownDays: 30,
+    cooldownTicks: 2592000,
     rare: true,
   },
   // 20. Avatar Vision
@@ -400,7 +400,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minResource: { activation: 80 } },
-    cooldownDays: 7,
+    cooldownTicks: 604800,
     rare: false,
   },
   // 21. Black Market Hack (Module Targeting & Delayed)
@@ -420,7 +420,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { minModuleLevel: { logistics: 5 } },
-    cooldownDays: 20,
+    cooldownTicks: 1728000,
     rare: false,
   },
   // 22. Black Market Crash (Followup)
@@ -439,7 +439,7 @@ export const DILEMMA_DEFS: DilemmaEvent[] = [
     ],
     requiredPhase: null,
     conditions: { requirePreviousChoice: { dilemmaId: "black_market_hack", optionId: "A" } },
-    cooldownDays: 999,
+    cooldownTicks: 86313600,
     rare: false,
   }
 ];

@@ -85,7 +85,14 @@ export function processOfflineProgress(state: StarholdState): {
   }
 
   const offlineDurationMs = Math.min(rawOfflineMs, MAX_OFFLINE_MS);
-  let nextState = { ...state, lastActiveAt: now };
+  const offlineTicks = Math.floor(offlineDurationMs / 1000);
+  
+  let nextState = { 
+    ...state, 
+    lastActiveAt: now,
+    tick: state.tick + offlineTicks 
+  };
+  
   let currentRngState = state.globalRngState;
   const report = createEmptyReport(offlineDurationMs);
 
@@ -103,7 +110,7 @@ export function processOfflineProgress(state: StarholdState): {
   // 1. WarRoom (Training)
   for (const [unitId, slot] of Object.entries(nextState.warRoom.productionSlots)) {
     if (!slot) continue;
-    if (now >= slot.completesAt) {
+    if (nextState.tick >= slot.completesAtTick) {
       report.completedTraining.push({ 
         unitId: unitId as WarRoomUnitId, 
         batchSize: slot.batchSize, 
@@ -115,7 +122,7 @@ export function processOfflineProgress(state: StarholdState): {
   // 2. RepairBay
   for (const slot of nextState.repairBay.repairSlots) {
     if (!slot) continue;
-    if (now >= slot.completesAt) {
+    if (nextState.tick >= slot.completesAtTick) {
       report.completedRepairs.push({
         unitId: slot.unitId as WarRoomUnitId,
         count: slot.batchSize
@@ -125,7 +132,7 @@ export function processOfflineProgress(state: StarholdState): {
 
   // 3. Upgrades
   for (const upgrade of nextState.upgradeQueue) {
-    if (now >= upgrade.completesAt) {
+    if (nextState.tick >= upgrade.completesAtTick) {
       report.completedUpgrades.push({
         moduleId: upgrade.moduleId,
         newLevel: upgrade.targetLevel
@@ -150,8 +157,8 @@ export function processOfflineProgress(state: StarholdState): {
 
   for (let r of nextState.supplyRoutes?.routes ?? []) {
     if (r.status === "active") {
-      const elapsed = offlineDurationMs; // Simplified to total offline time for jump
-      const yieldCycles = Math.floor(elapsed / SUPPLY_ROUTE_CONFIG.yieldIntervalMs);
+      const yieldIntervalTicks = Math.floor(SUPPLY_ROUTE_CONFIG.yieldIntervalMs / 1000);
+      const yieldCycles = Math.floor(offlineTicks / yieldIntervalTicks);
       
       if (yieldCycles > 0) {
         const amount = Math.floor(r.yieldPerHour * yieldCycles * globalYieldMod);
@@ -170,7 +177,7 @@ export function processOfflineProgress(state: StarholdState): {
         if (rRaid < expectedRaids) {
           report.supplyRouteRaids += 1;
           r.status = "disrupted";
-          r.disruptedUntil = now + SUPPLY_ROUTE_CONFIG.disruptionDurationMs;
+          r.disruptedUntilTick = nextState.tick + Math.floor(SUPPLY_ROUTE_CONFIG.disruptionDurationMs / 1000);
         }
       }
     }
@@ -183,7 +190,7 @@ export function processOfflineProgress(state: StarholdState): {
   const remainingActiveTrades = [];
   for (let trade of nextState.tradeSystem?.activeTrades ?? []) {
     if (trade.status === "in_transit" || trade.status === "delayed") {
-      if (now >= trade.completesAt) {
+      if (nextState.tick >= trade.completesAtTick) {
         // Roll for interception once instead of every tick
         const { value: rInt, nextState: s2 } = nextRandom(currentRngState);
         currentRngState = s2;
@@ -231,8 +238,8 @@ export function processOfflineProgress(state: StarholdState): {
   const remainingExpeditions = [];
   for (let exp of nextState.expeditions?.activeExpeditions ?? []) {
     if (exp.status === "en_route" || exp.status === "returning") {
-      const targetTime = exp.status === "en_route" ? exp.endsAt : (exp.returnAt || 0);
-      if (now >= targetTime) {
+      const targetTick = exp.status === "en_route" ? exp.endsAtTick : (exp.returnAtTick || 0);
+      if (nextState.tick >= targetTick) {
         report.completedExpeditions++;
         
         // Random chance of offline casualty
@@ -274,7 +281,8 @@ export function processOfflineProgress(state: StarholdState): {
   const remainingMissions = [];
   for (let mission of nextState.espionage?.missions ?? []) {
     if (mission.phase === "active") {
-      if (now >= mission.lastYieldAt + 60 * 60 * 1000) { // check if offline for an hour at least
+      const hourTicks = 3600;
+      if (nextState.tick >= mission.lastYieldAtTick + hourTicks) { 
         const { value: rExp, nextState: s4 } = nextRandom(currentRngState);
         currentRngState = s4;
 
@@ -285,12 +293,13 @@ export function processOfflineProgress(state: StarholdState): {
           nextState.statistics.trauma.agentsLost += lostOps;
           nextState.espionage.lostCount += lostOps;
         } else {
-           const cycles = Math.floor(offlineDurationMs / (60 * 60 * 1000));
+           const cycles = Math.floor(offlineTicks / hourTicks);
            if (cycles > 0) {
               const intelYield = cycles * 10;
               mission.intelGathered += intelYield;
               nextState.espionage.totalIntel += intelYield;
               report.intelGained += intelYield;
+              mission.lastYieldAtTick += cycles * hourTicks;
            }
            remainingMissions.push(mission);
         }
@@ -303,6 +312,30 @@ export function processOfflineProgress(state: StarholdState): {
   }
   if (nextState.espionage) {
     nextState.espionage.missions = remainingMissions;
+  }
+
+  // 9. Galaxy Fleets
+  const remainingFleets = [];
+  for (let fleet of nextState.galaxy?.activeFleets ?? []) {
+    if (nextState.tick >= fleet.arrivalTime) {
+      // For simplicity in offline mode, we assume the fleet reached the node AND returned
+      // if the offline time was long enough.
+      const totalTripTime = fleet.travelTimeTicks * 2 + 3600; // travel + mission + return
+      if (nextState.tick >= fleet.departureTime + totalTripTime) {
+        report.completedExpeditions++; // Reuse this counter for UI
+        // We don't simulate the exact loot here to avoid complexity, 
+        // but we could add a small supply bonus.
+        report.gatheredMaterials["supply"] = (report.gatheredMaterials["supply"] || 0) + 100;
+      } else {
+        // Fleet is still out or returning
+        remainingFleets.push(fleet);
+      }
+    } else {
+      remainingFleets.push(fleet);
+    }
+  }
+  if (nextState.galaxy) {
+    nextState.galaxy.activeFleets = remainingFleets;
   }
 
   nextState.globalRngState = currentRngState;

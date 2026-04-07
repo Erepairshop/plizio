@@ -15,12 +15,24 @@ interface TradePanelProps {
   lang: string;
 }
 
-const FACTION_NAMES: Record<FactionId, string> = {
-  korgath: "Korgath",
-  velari: "Velari",
-  drex: "Drex",
-  synthoid: "Synthoid",
-  noma: "Noma",
+const FACTION_NAMES: Record<FactionId, LocalizedString> = {
+  korgath: { en: "Korgath", hu: "Korgath", de: "Korgath", ro: "Korgath" },
+  velari: { en: "Velari", hu: "Velari", de: "Velari", ro: "Velari" },
+  drex: { en: "Drex", hu: "Drex", de: "Drex", ro: "Drex" },
+  synthoid: { en: "Synthoid", hu: "Synthoid", de: "Synthoid", ro: "Synthoid" },
+  noma: { en: "Noma", hu: "Noma", de: "Noma", ro: "Noma" },
+};
+
+const PARTNER_LABELS: Record<string, LocalizedString> = {
+  merchant: { en: "Merchant", hu: "Kereskedő", de: "Händler", ro: "Negustor" },
+  smuggler: { en: "Smuggler", hu: "Csempész", de: "Schmuggler", ro: "Contrabandist" },
+  scavenger: { en: "Scavenger", hu: "Guberáló", de: "Plünderer", ro: "Scavenger" },
+};
+
+const ROUTE_LABELS: Record<string, LocalizedString> = {
+  safe: { en: "Safe", hu: "Biztonságos", de: "Sicher", ro: "Sigur" },
+  risky: { en: "Risky", hu: "Kockázatos", de: "Riskant", ro: "Riscant" },
+  direct: { en: "Direct", hu: "Közvetlen", de: "Direkt", ro: "Direct" },
 };
 
 const FACTION_COLORS: Record<FactionId, string> = {
@@ -40,25 +52,19 @@ const MATERIAL_MAP: Record<string, { code: string; color: string; label: Localiz
   rift_stone: { code: "RS", color: "text-fuchsia-300", label: { en: "Rift Stone", hu: "Hasadékkő", de: "Riss-Stein", ro: "Piatră de Rift" } },
 };
 
-function formatDuration(ms: number): string {
-  if (ms <= 0) return "0s";
-  const h = Math.floor(ms / (60 * 60 * 1000));
-  const m = Math.floor((ms % (60 * 60 * 1000)) / (60 * 1000));
-  const s = Math.floor((ms % (60 * 1000)) / 1000);
+function formatDurationTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const h = Math.floor(ticks / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
+  const s = Math.floor(ticks % 60);
   if (h > 0) return `${h}h ${m}m`;
   if (m > 0) return `${m}m ${s}s`;
   return `${s}s`;
 }
 
 export default function TradePanel({ state, doAction, onClose, lang }: TradePanelProps) {
-  const [now, setNow] = useState(Date.now());
   const [inventory, setInventory] = useState(() => loadSavedGalaxyInventory());
   const [activeTab, setActiveTab] = useState<"offers" | "transit">("offers");
-
-  useEffect(() => {
-    const id = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(id);
-  }, []);
 
   useEffect(() => {
     setInventory(loadSavedGalaxyInventory());
@@ -91,7 +97,7 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
             <h2 className="text-sm font-black uppercase tracking-widest text-white">
               {localize({ en: "Trade Station", hu: "Kereskedelmi Állomás", de: "Handelsstation", ro: "Stație de Comerț" })}
             </h2>
-            <p className="text-[10px] text-white/60">Inter-Faction Commerce</p>
+            <p className="text-[10px] text-white/60">{localize({ en: "Inter-Faction Commerce", hu: "Frakciók Közötti Kereskedelem", de: "Interfraktioneller Handel", ro: "Comerț între Fracțiuni" })}</p>
           </div>
         </div>
         <div className="flex items-center gap-4">
@@ -102,7 +108,12 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
             "bg-amber-900/30 border-amber-500/30 text-amber-200"
           }`}>
             <Activity size={12} />
-            Market: {state.tradeSystem.marketState.replace('_', ' ')}
+            {localize({ en: "Market", hu: "Piac", de: "Markt", ro: "Piață" })}: {
+              state.tradeSystem.marketState === "cheap" ? localize({ en: "Cheap", hu: "Olcsó", de: "Billig", ro: "Ieftin" }) :
+              state.tradeSystem.marketState === "inflated" ? localize({ en: "Inflated", hu: "Inflált", de: "Inflatiös", ro: "Inflat" }) :
+              state.tradeSystem.marketState === "black_market" ? localize({ en: "Black Market", hu: "Feketepiac", de: "Schwarzmarkt", ro: "Piața Neagră" }) :
+              localize({ en: "Normal", hu: "Normál", de: "Normal", ro: "Normal" })
+            }
           </div>
           <button
             onClick={onClose}
@@ -159,7 +170,7 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
                     const rep = state.factionReputation.reputation[offer.factionId] ?? 0;
                     const tier = getReputationTier(rep);
                     const hasEnough = (inventory[offer.materialWanted as keyof typeof inventory] ?? 0) >= offer.amountWanted;
-                    const timeRemaining = Math.max(0, offer.expiresAt - now);
+                    const ticksRemaining = Math.max(0, offer.expiresAtTick - state.tick);
 
                     const offMat = MATERIAL_MAP[offer.materialOffered];
                     const wantMat = MATERIAL_MAP[offer.materialWanted];
@@ -170,14 +181,14 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
                         {/* Offer Header */}
                         <div className="flex items-center justify-between px-3 py-2 bg-black/40 border-b border-white/5">
                           <div className={`px-2 py-0.5 rounded text-[10px] font-black uppercase tracking-widest border ${FACTION_COLORS[offer.factionId]}`}>
-                            {FACTION_NAMES[offer.factionId]}
+                            {localize(FACTION_NAMES[offer.factionId])}
                           </div>
                           <div className="flex gap-2">
                             <div className="px-1.5 py-0.5 rounded bg-white/10 text-white/60 text-[9px] font-black uppercase tracking-widest">
-                              {offer.partnerType.replace('_', ' ')}
+                              {localize(PARTNER_LABELS[offer.partnerType] || { en: offer.partnerType, hu: offer.partnerType, de: offer.partnerType, ro: offer.partnerType })}
                             </div>
                             <div className="px-1.5 py-0.5 rounded bg-sky-500/20 text-sky-400 text-[9px] font-black uppercase tracking-widest">
-                              {offer.routeType.replace('_', ' ')}
+                              {localize(ROUTE_LABELS[offer.routeType] || { en: offer.routeType, hu: offer.routeType, de: offer.routeType, ro: offer.routeType })}
                             </div>
                           </div>
                         </div>
@@ -224,18 +235,18 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
                                 onClick={() => handleNegotiate(offer.id, "bargain")}
                                 className="flex-1 py-1.5 rounded bg-white/5 hover:bg-white/10 text-[9px] font-black uppercase tracking-widest text-amber-200 transition"
                               >
-                                Bargain (Safe)
+                                {localize({ en: "Bargain (Safe)", hu: "Alku (Biztonságos)", de: "Feilschen (Sicher)", ro: "Negociază (Sigur)" })}
                               </button>
                               <button
                                 onClick={() => handleNegotiate(offer.id, "hardball")}
                                 className="flex-1 py-1.5 rounded bg-rose-900/20 hover:bg-rose-900/40 border border-rose-500/20 text-[9px] font-black uppercase tracking-widest text-rose-300 transition"
                               >
-                                Hardball (Risky)
+                                {localize({ en: "Hardball (Risky)", hu: "Keménykedés (Kockázatos)", de: "Hart verhandeln (Riskant)", ro: "Negociază dur (Riscant)" })}
                               </button>
                             </div>
                           ) : (
                             <div className="p-2 text-center text-[9px] font-black uppercase tracking-widest text-rose-400/50 border-b border-white/5">
-                              Final Offer
+                              {localize({ en: "Final Offer", hu: "Végső Ajánlat", de: "Letztes Angebot", ro: "Ofertă Finală" })}
                             </div>
                           )}
                           <div className="grid grid-cols-2 divide-x divide-white/5">
@@ -278,9 +289,9 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
                   </div>
                 ) : (
                   state.tradeSystem.activeTrades.map(trade => {
-                    const timeRemaining = Math.max(0, trade.completesAt - now);
-                    const totalDuration = trade.completesAt - trade.startedAt;
-                    const progress = totalDuration > 0 ? 100 - (timeRemaining / totalDuration) * 100 : 100;
+                    const ticksRemaining = Math.max(0, trade.completesAtTick - state.tick);
+                    const totalDurationTicks = trade.completesAtTick - trade.startedAtTick;
+                    const progress = totalDurationTicks > 0 ? 100 - (ticksRemaining / totalDurationTicks) * 100 : 100;
                     
                     const isDelayed = trade.status === "delayed";
                     
@@ -289,24 +300,24 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
                         <div className="flex justify-between items-center mb-3">
                           <div className="flex items-center gap-2">
                             <span className={`px-2 py-0.5 rounded text-[10px] font-black uppercase tracking-widest border ${FACTION_COLORS[trade.offer.factionId]}`}>
-                              {FACTION_NAMES[trade.offer.factionId]}
+                              {localize(FACTION_NAMES[trade.offer.factionId])}
                             </span>
                             <span className="px-1.5 py-0.5 rounded bg-sky-500/20 text-sky-400 text-[9px] font-black uppercase tracking-widest">
                               {trade.offer.routeType.replace('_', ' ')}
                             </span>
                             {isDelayed && (
                               <span className="px-1.5 py-0.5 rounded bg-amber-500/20 text-amber-400 text-[9px] font-black uppercase tracking-widest animate-pulse flex items-center gap-1">
-                                <AlertTriangle size={10} /> Delayed
+                                <AlertTriangle size={10} /> {localize({ en: "Delayed", hu: "Késik", de: "Verspätet", ro: "Întârziat" })}
                               </span>
                             )}
                           </div>
                           <div className="text-[10px] font-mono text-cyan-300 flex items-center gap-1.5">
-                            <Clock size={12} /> ETA: {formatDuration(timeRemaining)}
+                            <Clock size={12} /> {localize({ en: "ETA", hu: "ETA", de: "ETA", ro: "ETA" })}: {formatDurationTicks(ticksRemaining)}
                           </div>
                         </div>
 
                         <div className="flex items-center gap-4 text-xs font-mono mb-3">
-                          <span className="text-white/60">Expecting:</span>
+                          <span className="text-white/60">{localize({ en: "Expecting", hu: "Várható", de: "Erwartet", ro: "Așteptat" })}:</span>
                           <span className="text-emerald-400">+{trade.offer.amountOffered} {MATERIAL_MAP[trade.offer.materialOffered]?.code ?? trade.offer.materialOffered}</span>
                         </div>
 
@@ -352,7 +363,7 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
                     <div className={`h-1.5 rounded-full ${color} opacity-60 group-hover:opacity-100 transition-opacity`} />
                     {/* Tooltip */}
                     <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-1 px-2 py-1 bg-black rounded border border-white/10 text-[9px] text-white opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none whitespace-nowrap z-10">
-                      {FACTION_NAMES[factionId]}: {rep > 0 ? `+${rep}` : rep}
+                      {localize(FACTION_NAMES[factionId])}: {rep > 0 ? `+${rep}` : rep}
                     </div>
                   </div>
                 );
@@ -364,7 +375,7 @@ export default function TradePanel({ state, doAction, onClose, lang }: TradePane
           <div className="flex flex-col justify-between">
             <div className="flex items-center justify-between text-[9px] font-black uppercase tracking-widest text-white/40 mb-2">
               <span>{localize({ en: "Material Reserves", hu: "Anyagkészletek", de: "Materialreserven", ro: "Rezerve de Materiale" })}</span>
-              <span className="flex items-center gap-1"><History size={10} /> {formatDuration(Date.now() - state.tradeSystem.lastRefreshAt)}</span>
+              <span className="flex items-center gap-1"><History size={10} /> {formatDurationTicks(state.tick - state.tradeSystem.lastRefreshAtTick)}</span>
             </div>
             <div className="flex items-center gap-3">
               {Object.entries(MATERIAL_MAP).map(([id, info]) => {

@@ -14,8 +14,8 @@ export interface FactionReputationState {
   status: Record<FactionId, ReputationTier>;
   /** Faction resources for events/diplomacy */
   resources: Record<FactionId, number>;
-  /** Last time natural drift was applied (Date.now()) */
-  lastDriftAt: number;
+  /** Last time natural drift was applied (simulation tick) */
+  lastDriftAtTick: number;
 }
 
 export type ReputationChangeReason =

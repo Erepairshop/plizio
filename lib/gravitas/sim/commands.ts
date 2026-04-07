@@ -11,6 +11,7 @@ import { markBootstrapCheckpoint } from "./bootstrap";
 import { moveToContinuationChapter } from "./chapter";
 import { getContinuationScavengeProfile, normalizeContinuationState } from "./continuation";
 import { canTrainUnit, canUpgradeUnit, startTraining, startUpgrade, cancelProduction } from "./warroom";
+import { reserveUnits, releaseAllocation, releaseAllocationWithCasualties, updateAllocationStatus } from "./warroom/ledger";
 import { takeBestUnits, incrementVeteranStats, mergeGarrisonEntries } from "./warroom/veteran";
 import { canStartRepair, startRepair, cancelRepair } from "./repairbay";
 import { type UpgradableModuleId, getLevelCost, canUpgradeModule } from "../economy";
@@ -19,6 +20,7 @@ import type { GalaxyMaterialId } from "../world/mission";
 import { computeInnateBonus, defaultAllocation } from "./battle/avatarCombat";
 import { getBattleXP, getCombatLevel } from "./battle/xp";
 import { calculateCasualties } from "./battle/casualties";
+import type { BattleHistoryEntry, ScoutReport, EnemyBuilding } from "./battle/types";
 import { applyReputationChange } from "./faction/reputation";
 import { FACTION_REPUTATION_CONFIG } from "../economy";
 import { GALAXY_DEMO_NODES } from "../world/demo";
@@ -32,6 +34,10 @@ import { markCodexRead } from "./codex/index";
 import { dismissNotification, markAllNotificationsRead, pushNotification } from "./notifications/engine";
 import { recruitOfficer, dismissOfficer } from "./officers/engine";
 import { launchExpedition, recallExpedition } from "./expeditions/engine";
+import { pushArchiveEvent } from "./archive/manager";
+import { unlockStarChamberItem, activateStarChamberItem } from "./starchamber/engine";
+import { claimStarChamberOffer } from "./starchamber/rotation/engine";
+import { claimTaskReward, updateTaskProgress } from "./tasks/engine";
 
 function removeFromHighestLevel(
   entries: import("./warroom/types").GarrisonEntry[],
@@ -156,12 +162,16 @@ export function applyStarholdCommand(state: StarholdState, command: StarholdComm
   if (command.type === "INSPECT_NODE") return withDerived(resolveInspectNode(state, command.nodeId));
   if (command.type === "COLLECT_NODE") return withDerived(resolveCollectNode(state, command.nodeId));
   if (command.type === "ATTACK_NODE") return withDerived(resolveAttackNode(state, command.nodeId));
-  if (command.type === "DISPATCH_FLEET") return withDerived(resolveDispatchFleet(state, command.nodeId, command.missionType));
-  if (command.type === "RECALL_FLEET") return withDerived(resolveRecallFleet(state, command.fleetId));
+  if (command.type === "DISPATCH_FLEET") return withDerived(resolveDispatchFleet(state, command.nodeId, command.missionType, command.composition, command.useBoost));
+  if (command.type === "RECALL_FLEET") return withDerived(resolveRecallFleet(state, command.fleetId, command.useBoost));
   if (command.type === "RECRUIT_OFFICER") return withDerived(recruitOfficer(state, command.officerId));
   if (command.type === "DISMISS_OFFICER") return withDerived(dismissOfficer(state, command.officerId));
   if (command.type === "LAUNCH_EXPEDITION") return withDerived(launchExpedition(state, command.durationMode, command.routeProfile, command.fleet));
   if (command.type === "RECALL_EXPEDITION") return withDerived(recallExpedition(state, command.expeditionId));
+  if (command.type === "UNLOCK_STAR_CHAMBER_ITEM") return withDerived(unlockStarChamberItem(state, command.itemId));
+  if (command.type === "ACTIVATE_STAR_CHAMBER_ITEM") return withDerived(activateStarChamberItem(state, command.itemId, command.targetId));
+  if (command.type === "CLAIM_STAR_CHAMBER_OFFER") return withDerived(claimStarChamberOffer(state, command.instanceId));
+  if (command.type === "CLAIM_DAILY_TASK_REWARD") return withDerived(claimTaskReward(state, command.taskId));
 
   const nextState = applyStarholdCommandInternal(state, command);
   if (nextState.alert && nextState.alert !== state.alert) {
@@ -267,7 +277,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       const cycleDuration = state.chapter === "continuation"
         ? getContinuationScavengeProfile(state).cycleDuration
         : 5;
-      return {
+      return updateTaskProgress({
         ...markBootstrapCheckpoint(state, "logistics"),
         scavengeOperation: {
           startedTick: state.tick,
@@ -294,7 +304,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
           de: "Eine Bergungsdrohne durchsucht das Trümmerfeld nach verwertbarem Material.",
           ro: "O dronă de salvare scanează câmpul de resturi după materiale utile.",
         }),
-      };
+      }, "collection", 5);
     }
     case "STABILIZE_REACTOR": {
       const profile = getModuleActionProfile("reactor");
@@ -845,6 +855,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       const war = state.factionWars.activeWars.find(w => w.id === warId);
       if (!war) return state; // War already ended or expired
 
+      let nextState = state;
       let nextResources = { ...state.resources };
       if (result.loot) {
         Object.values(result.loot.materials).forEach((amount) => {
@@ -852,50 +863,26 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         });
       }
 
-      const computedCasualties = result.casualties ?? { totalKilled: 0, totalWounded: 0, killed: {}, wounded: {} };
-      const updatedGarrison = { ...state.warRoom.garrison };
-      const updatedWounded = { ...state.repairBay.wounded };
-      let movedWounded = 0;
-      Object.keys(updatedGarrison).forEach((rawUnitId) => {
-        const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
-        const sent = result.stats.unitsSent?.[unitId] ?? 0;
-        const killed = Math.max(0, Math.floor((computedCasualties.killed as Record<string, number>)[unitId] ?? 0));
-        const wounded = Math.max(0, Math.floor((computedCasualties.wounded as Record<string, number>)[unitId] ?? 0));
-        
-        let entries = updatedGarrison[unitId] ?? [];
-        if (sent > 0) {
-          const { remaining: stayInBase, taken: armyEntries } = takeBestUnits(entries, sent);
-          const killedResult = takeBestUnits(armyEntries, killed);
-          let survivingArmy = killedResult.remaining;
-          const woundedResult = takeBestUnits(survivingArmy, wounded);
-          survivingArmy = woundedResult.remaining;
-          const woundedArmy = woundedResult.taken;
-          
-          let currentRngState = state.globalRngState;
-          
-          const veteranizedSurviving = survivingArmy.map(entry => {
-            const res = incrementVeteranStats(entry, currentRngState);
-            currentRngState = res.nextRng;
-            return res.entry;
-          });
-          const veteranizedWounded = woundedArmy.map(entry => {
-            const res = incrementVeteranStats(entry, currentRngState);
-            currentRngState = res.nextRng;
-            return res.entry;
-          });
-          
-          state = { ...state, globalRngState: currentRngState };
-          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);
-          movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
-          if (veteranizedWounded.length > 0) {
-            updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], veteranizedWounded);
-          }
-        }
-        updatedGarrison[unitId] = entries;
-      });
+      const unitsSent = result.stats.unitsSent as Record<import("./warroom/types").WarRoomUnitId, number>;
+      const reservation = reserveUnits(nextState, `war_${warId}`, "battle", unitsSent);
+      
+      if (reservation.success) {
+        nextState = reservation.nextState;
+        const killed = result.casualties?.killed ?? {};
+        const wounded = result.casualties?.wounded ?? {};
+        nextState = releaseAllocationWithCasualties(
+          nextState, 
+          `war_${warId}`, 
+          killed as Record<import("./warroom/types").WarRoomUnitId, number>,
+          wounded as Record<import("./warroom/types").WarRoomUnitId, number>
+        );
+      } else {
+        // Fallback for legacy or if units were somehow moved
+        // We still want to apply the result but we can't properly track survivors
+      }
 
-      let nextOfficers = state.officers;
-      let newJournals = [...state.journal];
+      let nextOfficers = nextState.officers;
+      let newJournals = [...nextState.journal];
       if (result.officerStatus) {
         const os = result.officerStatus;
         const oIndex = nextOfficers.active.findIndex(o => o.id === os.id);
@@ -919,10 +906,10 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
             }
             if (os.wounded) {
               o.status = "wounded";
-              o.availableAt = Date.now() + 4 * 60 * 60 * 1000;
+              o.availableAtTick = state.tick + 14400;
               newJournals.push({
                 tick: state.tick,
-                text: { en: `Officer ${o.name} was wounded in combat.`, hu: `${o.name} tiszt megsebesült a harcban.`, de: `Offizier ${o.name} wurde im Kampf verwundet.`, ro: `Ofițerul ${o.name} a fost rănit în luptă.` }
+                text: { en: `Officer ${o.name} was wounded in combat.`, hu: `${o.name} tiszt megsebesült a harban.`, de: `Offizier ${o.name} wurde im Kampf verwundet.`, ro: `Ofițerul ${o.name} a fost rănit în luptă.` }
               });
             }
             const newActive = [...nextOfficers.active];
@@ -946,10 +933,10 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         rep[opposedId] = Math.max(-100, (rep[opposedId] || 0) - 10);
       }
 
-      const cooldownMs = 60 * 60 * 1000;
-      const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
+      const cooldownTicks = 3600; // 1 hour in ticks
+      const newHistoryEntry: BattleHistoryEntry = {
         buildingId: "faction_fleet" as any,
-        at: Date.now(),
+        atTick: state.tick,
         dominantUnitType: "tank",
         victory: result.victory,
         durationMs: result.durationMs,
@@ -958,48 +945,61 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       };
 
       return {
-        ...state,
+        ...nextState,
         resources: {
           ...nextResources,
           morale: result.victory
             ? Math.min(100, state.resources.morale + 15)
             : Math.max(0, state.resources.morale - 10),
         },
-        warRoom: { ...state.warRoom, garrison: updatedGarrison },
-        repairBay: {
-          ...state.repairBay,
-          wounded: updatedWounded,
-          woundedAt: movedWounded > 0 ? Date.now() : state.repairBay.woundedAt,
-        },
         officers: nextOfficers,
         journal: newJournals,
         factionReputation: {
-          ...state.factionReputation,
+          ...nextState.factionReputation,
           reputation: rep,
         },
         factionWars: {
-          ...state.factionWars,
-          activeWars: state.factionWars.activeWars.filter(w => w.id !== warId), // War ends after intervention
+          ...nextState.factionWars,
+          activeWars: nextState.factionWars.activeWars.filter(w => w.id !== warId), // War ends after intervention
         },
         battleState: {
-          ...state.battleState,
-          battleHistory: [...state.battleState.battleHistory, newHistoryEntry],
+          ...nextState.battleState,
+          battleHistory: [...nextState.battleState.battleHistory, newHistoryEntry],
           buildingCooldowns: {
-            ...state.battleState.buildingCooldowns,
-            [warId]: Date.now() + cooldownMs,
+            ...nextState.battleState.buildingCooldowns,
+            [warId]: state.tick + cooldownTicks,
           },
         },
       };
     }
     case "APPLY_BATTLE_RESULT": {
       const { result, nodeId } = command;
+      let nextState = state;
       let nextResources = { ...state.resources };
       if (result.loot) {
         Object.values(result.loot.materials).forEach((amount) => {
           nextResources.supply += amount ?? 0;
         });
       }
-      const currentReport = state.battleState.scoutReports[nodeId] || { 
+
+      const unitsSent = result.stats.unitsSent as Record<import("./warroom/types").WarRoomUnitId, number>;
+      const reservation = reserveUnits(nextState, `battle_${nodeId}_${state.tick}`, "battle", unitsSent);
+      
+      if (reservation.success) {
+        nextState = reservation.nextState;
+        const killed = result.casualties?.killed ?? {};
+        const wounded = result.casualties?.wounded ?? {};
+        nextState = releaseAllocationWithCasualties(
+          nextState, 
+          `battle_${nodeId}_${state.tick}`, 
+          killed as Record<import("./warroom/types").WarRoomUnitId, number>,
+          wounded as Record<import("./warroom/types").WarRoomUnitId, number>
+        );
+      } else {
+        // Fallback for legacy or if units were somehow moved
+      }
+
+      const currentReport = nextState.battleState.scoutReports[nodeId] || { 
         buildingId: nodeId, 
         intelLevel: 0, 
         revealedStats: {}, 
@@ -1007,97 +1007,10 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         lastScoutedAt: 0 
       };
 
-      const computedCasualties = result.casualties ?? calculateCasualties(
-        result.stats.unitsLost,
-        {
-          victory: result.victory,
-          damageDealt: result.stats.damageDealt,
-          damageReceived: result.stats.damageReceived,
-        },
-        false,
-      );
-
-      // Synergy effects on casualties
-      const syn = state.synergies.combined;
-      if (syn.casualtyReduction) {
-        Object.keys(computedCasualties.killed).forEach(k => {
-          const unitId = k as import("./warroom/types").WarRoomUnitId;
-          computedCasualties.killed[unitId] = Math.floor((computedCasualties.killed[unitId] || 0) * (1 - syn.casualtyReduction!));
-        });
-        Object.keys(computedCasualties.wounded).forEach(k => {
-          const unitId = k as import("./warroom/types").WarRoomUnitId;
-          computedCasualties.wounded[unitId] = Math.floor((computedCasualties.wounded[unitId] || 0) * (1 - syn.casualtyReduction!));
-        });
-      }
-      if (result.victory && syn.instantHealRatio) {
-        Object.keys(computedCasualties.wounded).forEach(k => {
-          const unitId = k as import("./warroom/types").WarRoomUnitId;
-          const healCount = Math.floor((computedCasualties.wounded[unitId] || 0) * syn.instantHealRatio!);
-          computedCasualties.wounded[unitId] = Math.max(0, (computedCasualties.wounded[unitId] || 0) - healCount);
-        });
-      }
-
-      const updatedGarrison = { ...state.warRoom.garrison };
-      const updatedWounded = { ...state.repairBay.wounded };
-      let movedWounded = 0;
-      Object.keys(updatedGarrison).forEach((rawUnitId) => {
-        const unitId = rawUnitId as import("./warroom/types").WarRoomUnitId;
-        const sent = result.stats.unitsSent?.[unitId] ?? 0;
-        const killed = Math.max(0, Math.floor((computedCasualties.killed as Record<string, number>)[unitId] ?? 0));
-        const wounded = Math.max(0, Math.floor((computedCasualties.wounded as Record<string, number>)[unitId] ?? 0));
-        
-        let entries = updatedGarrison[unitId] ?? [];
-        
-        if (sent > 0) {
-          const { remaining: stayInBase, taken: armyEntries } = takeBestUnits(entries, sent);
-          
-          const killedResult = takeBestUnits(armyEntries, killed);
-          let survivingArmy = killedResult.remaining;
-          
-          const woundedResult = takeBestUnits(survivingArmy, wounded);
-          survivingArmy = woundedResult.remaining;
-          const woundedArmy = woundedResult.taken;
-          
-          let currentRngState = state.globalRngState;
-
-          const veteranizedSurviving = survivingArmy.map(entry => {
-            const res = incrementVeteranStats(entry, currentRngState);
-            currentRngState = res.nextRng;
-            return res.entry;
-          });
-          const veteranizedWounded = woundedArmy.map(entry => {
-            const res = incrementVeteranStats(entry, currentRngState);
-            currentRngState = res.nextRng;
-            return res.entry;
-          });
-
-          state = { ...state, globalRngState: currentRngState };
-          entries = mergeGarrisonEntries(stayInBase, veteranizedSurviving);          
-          movedWounded += veteranizedWounded.reduce((sum, e) => sum + e.count, 0);
-          if (veteranizedWounded.length > 0) {
-            updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], veteranizedWounded);
-          }
-        } else if (killed > 0 || wounded > 0) {
-          // Fallback if unitsSent was not provided (legacy battles)
-          const killedTake = takeBestUnits(entries, killed);
-          entries = killedTake.remaining;
-          if (wounded > 0) {
-            const woundedTake = takeBestUnits(entries, wounded);
-            entries = woundedTake.remaining;
-            movedWounded += woundedTake.taken.reduce((sum, e) => sum + e.count, 0);
-            if (woundedTake.taken.length > 0) {
-              updatedWounded[unitId] = mergeGarrisonEntries(updatedWounded[unitId] ?? [], woundedTake.taken);
-            }
-          }
-        }
-        
-        updatedGarrison[unitId] = entries;
-      });
-
-      const cooldownMs = 60 * 60 * 1000; // 1 hour cooldown
-      const newHistoryEntry: import("./battle/types").BattleHistoryEntry = {
-        buildingId: nodeId as import("./battle/types").EnemyBuilding["id"],
-        at: Date.now(),
+      const cooldownTicks = 3600; // 1 hour in ticks
+      const newHistoryEntry: BattleHistoryEntry = {
+        buildingId: nodeId as EnemyBuilding["id"],
+        atTick: state.tick,
         dominantUnitType: "tank",
         victory: result.victory,
         durationMs: result.durationMs,
@@ -1126,98 +1039,110 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         );
       }
 
+      const battleSummary: LocalizedString = result.victory
+        ? { en: `Victory at ${targetNode?.title.en || nodeId}. Enemy forces neutralized.`, hu: `Győzelem: ${targetNode?.title.hu || nodeId}. Ellenséges erők semlegesítve.`, de: `Sieg bei ${targetNode?.title.de || nodeId}. Feindliche Kräfte neutralisiert.`, ro: `Victorie la ${targetNode?.title.ro || nodeId}. Forțele inamice neutralizate.` }
+        : { en: `Defeat at ${targetNode?.title.en || nodeId}. Our forces were repelled.`, hu: `Vereség: ${targetNode?.title.hu || nodeId}. Erőinket visszaverték.`, de: `Niederlage bei ${targetNode?.title.de || nodeId}. Unsere Kräfte wurden zurückgeschlagen.`, ro: `Înfrângere la ${targetNode?.title.ro || nodeId}. Forțele noastre au fost respinse.` };
+
+      nextState = pushArchiveEvent(nextState, {
+        category: "battle",
+        severity: result.victory ? "success" : "danger",
+        importance: 3,
+        title: result.victory ? { en: "Battle Victory", hu: "Csata Győzelem", de: "Kampfsieg", ro: "Victorie în Luptă" } : { en: "Battle Defeat", hu: "Csata Vereség", de: "Kampfniederlage", ro: "Înfrângere în Luptă" },
+        summary: battleSummary,
+        details: {
+          loot: result.loot?.materials,
+          casualties: result.casualties,
+          targetId: nodeId,
+        }
+      });
+
       return {
-        ...state,
+        ...nextState,
         commander: {
-          ...state.commander,
+          ...nextState.commander,
           metrics: {
-            ...state.commander.metrics,
-            battlesInitiated: state.commander.metrics.battlesInitiated + (wasInitiated ? 1 : 0),
-            battlesDefended: state.commander.metrics.battlesDefended + (wasInitiated ? 0 : 1),
+            ...nextState.commander.metrics,
+            battlesInitiated: nextState.commander.metrics.battlesInitiated + (wasInitiated ? 1 : 0),
+            battlesDefended: nextState.commander.metrics.battlesDefended + (wasInitiated ? 0 : 1),
           }
         },
         factionReputation: {
-          ...state.factionReputation,
+          ...nextState.factionReputation,
           reputation: nextReputation,
         },
         resources: nextResources,
         battleState: {
-          ...state.battleState,
-          battleHistory: [newHistoryEntry, ...state.battleState.battleHistory].slice(0, 20),
+          ...nextState.battleState,
+          battleHistory: [newHistoryEntry, ...nextState.battleState.battleHistory].slice(0, 20),
           avatarCombat: {
-            ...state.battleState.avatarCombat,
+            ...nextState.battleState.avatarCombat,
             combatXP: nextXP,
             combatLevel: nextLevel,
           },
           scoutReports: {
-            ...state.battleState.scoutReports,
+            ...nextState.battleState.scoutReports,
             [nodeId]: {
               ...currentReport,
               intelLevel: Math.min(100, currentReport.intelLevel + result.intelGained),
-              lastScoutedAt: Date.now()
+              lastScoutedAtTick: state.tick
             }
           },
           buildingCooldowns: {
-            ...state.battleState.buildingCooldowns,
-            [nodeId]: Date.now() + cooldownMs
+            ...nextState.battleState.buildingCooldowns,
+            [nodeId]: state.tick + cooldownTicks
           }
-        },
-        warRoom: {
-          ...state.warRoom,
-          garrison: updatedGarrison,
-        },
-        repairBay: {
-          ...state.repairBay,
-          wounded: updatedWounded,
-          woundedAt: movedWounded > 0 ? (state.repairBay.woundedAt ?? Date.now()) : state.repairBay.woundedAt,
         },
       };
     }
     case "START_SCOUT": {
-      const wraithEntries = state.warRoom.garrison.wraith ?? [];
-      if (state.battleState.activeScout || getTotalEntryCount(wraithEntries) <= 0) return state;
-      const durationMs = 30 * 60 * 1000;
+      if (state.battleState.activeScout) return state;
+      const durationTicks = 1800; // 30 minutes in ticks
+      const allocationId = `scout_${command.buildingId}_${state.tick}`;
+      
+      const reservation = reserveUnits(state, allocationId, "battle", { wraith: 1 });
+      if (!reservation.success) return state;
+
+      let nextState = updateAllocationStatus(reservation.nextState, allocationId, "traveling", state.tick + durationTicks);
+
       return {
-        ...state,
-        warRoom: {
-          ...state.warRoom,
-          garrison: {
-            ...state.warRoom.garrison,
-            wraith: removeFromHighestLevel(wraithEntries, 1),
-          }
-        },
+        ...nextState,
         battleState: {
-          ...state.battleState,
+          ...nextState.battleState,
           activeScout: {
             buildingId: command.buildingId,
-            startedAt: Date.now(),
-            completesAt: Date.now() + durationMs
+            allocationId,
+            startedAtTick: state.tick,
+            completesAtTick: state.tick + durationTicks
           }
         }
       };
     }
     case "COMPLETE_SCOUT": {
       if (!state.battleState.activeScout) return state;
-      const { buildingId } = state.battleState.activeScout;
+      const { buildingId, allocationId } = state.battleState.activeScout;
       const currentReport = state.battleState.scoutReports[buildingId] || {
         buildingId,
         intelLevel: 0,
         revealedStats: {},
         revealedTraits: [],
-        lastScoutedAt: 0
+        lastScoutedAtTick: 0
       };
       const intelBonus = Math.round(15 + (state.moduleLevels.sensor - 1) * 2.5);
+      
+      // Release the wraith unit
+      const nextState = releaseAllocation(state, allocationId);
+
       return {
-        ...state,
+        ...nextState,
         battleState: {
-          ...state.battleState,
+          ...nextState.battleState,
           activeScout: null,
           scoutReports: {
-            ...state.battleState.scoutReports,
+            ...nextState.battleState.scoutReports,
             [buildingId]: {
               ...currentReport,
               intelLevel: Math.min(100, currentReport.intelLevel + intelBonus),
-              lastScoutedAt: Date.now()
+              lastScoutedAtTick: state.tick
             }
           }
         }
@@ -1300,7 +1225,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         weeklyMission: {
           ...state.weeklyMission,
           activeMission: null,
-          nextMissionAt: Date.now() + 5 * 24 * 60 * 60 * 1000,
+          nextMissionAtTick: state.tick + 5 * 24 * 3600, // 5 days in ticks
         }
       };
     }
@@ -1353,7 +1278,6 @@ function handleUpgradeModule(state: StarholdState, moduleId: UpgradableModuleId)
   }
   saveGalaxyInventory(nextInventory);
 
-  const now = Date.now();
   const startText: LocalizedString = {
     en: `${moduleId} upgrade to level ${targetLevel} started.`,
     hu: `${moduleId} fejlesztés indítva: ${targetLevel}. szint.`,
@@ -1368,8 +1292,8 @@ function handleUpgradeModule(state: StarholdState, moduleId: UpgradableModuleId)
       {
         moduleId,
         targetLevel,
-        startedAt: now,
-        completesAt: now + entry.buildSeconds * 1000,
+        startedAtTick: state.tick,
+        completesAtTick: state.tick + entry.buildSeconds,
       },
     ],
     alert: startText,

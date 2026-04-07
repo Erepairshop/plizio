@@ -56,18 +56,17 @@ const INTEL_ACTIONS: { id: EspionageIntelAction; name: LocalizedString; cost: nu
   { id: "decoyDeployment", name: { en: "Deploy Decoy", hu: "Csalétek Bevetés", de: "Köder Einsetzen", ro: "Desfășoară Momeală" }, cost: ESPIONAGE_CONFIG.intelCosts.decoyDeployment, desc: { en: "Prevent raids for 24h.", hu: "Megakadályozza a portyákat 24 órára.", de: "Verhindert Überfälle für 24h.", ro: "Previn raidurile pentru 24h." }, icon: <Shield size={14} /> },
 ];
 
-function formatDuration(ms: number): string {
-  if (ms <= 0) return "0s";
-  const h = Math.floor(ms / (60 * 60 * 1000));
-  const m = Math.floor((ms % (60 * 60 * 1000)) / (60 * 1000));
-  const s = Math.floor((ms % (60 * 1000)) / 1000);
+function formatDurationTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const h = Math.floor(ticks / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
+  const s = Math.floor(ticks % 60);
   if (h > 0) return `${h}h ${m}m`;
   if (m > 0) return `${m}m ${s}s`;
   return `${s}s`;
 }
 
 export default function EspionagePanel({ state, doAction, onClose, lang }: EspionagePanelProps) {
-  const [now, setNow] = useState(Date.now());
   const [selectedTargetType, setSelectedTargetType] = useState<import("@/lib/gravitas/sim/espionage/types").EspionageTargetType>("faction");
   const [selectedTargetId, setSelectedTargetId] = useState<string>("korgath");
   const [selectedOperativeRole, setSelectedOperativeRole] = useState<import("@/lib/gravitas/sim/espionage/types").EspionageOperativeRole>("infiltrator");
@@ -76,11 +75,6 @@ export default function EspionagePanel({ state, doAction, onClose, lang }: Espio
   const [selectedType, setSelectedType] = useState<EspionageMissionType>("infiltrate");
   const [deployCount, setDeployCount] = useState<number>(ESPIONAGE_CONFIG.minWraithsPerMission);
   const [targetActionFaction, setTargetActionFaction] = useState<FactionId>("korgath");
-
-  useEffect(() => {
-    const id = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(id);
-  }, []);
 
   const localize = (ls: LocalizedString) => ls[lang as keyof LocalizedString] ?? ls.en;
   const dispatchColor = "rgba(160,60,255,0.15)";
@@ -167,8 +161,8 @@ export default function EspionagePanel({ state, doAction, onClose, lang }: Espio
                 const isExposed = mission.phase === "exposed";
                 const isEnded = mission.phase === "extracted" || mission.phase === "lost";
                 
-                const timeRemaining = Math.max(0, mission.activeAt - now);
-                const timeElapsed = Math.max(0, now - mission.startedAt);
+                const ticksRemaining = Math.max(0, mission.activeAtTick - state.tick);
+                const ticksElapsed = Math.max(0, state.tick - mission.startedAtTick);
                 
                 return (
                   <div key={mission.id} className={`p-4 rounded-xl border transition-all ${isExposed ? "border-rose-500 bg-rose-950/20" : isActive ? "border-emerald-500/30 bg-white/5" : isDeploying ? "border-cyan-500/30 bg-white/5" : "border-white/5 bg-black/40 opacity-60"}`}>
@@ -184,13 +178,13 @@ export default function EspionagePanel({ state, doAction, onClose, lang }: Espio
                     
                     {isDeploying && (
                       <div className="flex items-center gap-2 text-cyan-200/80 text-xs font-mono mb-4">
-                        <Send size={14} className="animate-pulse" /> Deploying: {formatDuration(timeRemaining)}
+                        <Send size={14} className="animate-pulse" /> Deploying: {formatDurationTicks(ticksRemaining)}
                       </div>
                     )}
                     
                     {isActive && (
                       <div className="flex items-center gap-2 text-emerald-200/80 text-xs font-mono mb-4">
-                        <Activity size={14} /> Active: {formatDuration(timeElapsed)}
+                        <Activity size={14} /> Active: {formatDurationTicks(ticksElapsed)}
                       </div>
                     )}
                     

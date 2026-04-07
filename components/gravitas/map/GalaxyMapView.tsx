@@ -8,27 +8,39 @@ import {
   Home,
   Minus,
   Plus,
+  Rocket,
   RotateCcw,
   ShieldAlert,
   Sparkles,
   X,
+  Zap,
 } from "lucide-react";
-import type { GalaxyMapState, FleetMovement, MapNode } from "@/lib/gravitas/sim/map/types";
+import type { GalaxyMapState, FleetMovement, MapNode, NodePreview, NodeActionId } from "@/lib/gravitas/sim/map/types";
 import type { LocalizedString } from "@/lib/gravitas/sim/types";
+
+import type { GarrisonEntry, WarRoomUnitId } from "@/lib/gravitas/sim/warroom/types";
+import { WARROOM_UNITS, WARROOM_UNIT_ORDER } from "@/lib/gravitas/sim/warroom/units";
+import FleetCompositionPicker from "./FleetCompositionPicker";
 
 type Lang = "en" | "hu" | "de" | "ro";
 
 type GalaxyMapViewProps = {
   lang: Lang;
   galaxyState: GalaxyMapState;
+  nodePreviews: Record<string, NodePreview>;
   currentTick: number;
   antimatter: { current: number; max: number };
+  chronoCore: number;
+  garrison: Record<WarRoomUnitId, GarrisonEntry[]>;
+  sensorLevel: number;
   onNodeClick?: (node: MapNode) => void;
   onNodeCollect?: (node: MapNode) => void;
   onNodeAttack?: (node: MapNode) => void;
   onNodeInspect?: (node: MapNode) => void;
   onFleetClick?: (fleet: FleetMovement) => void;
   onBaseClick?: () => void;
+  onDispatchFleet?: (node: MapNode, missionType: "collect" | "attack" | "inspect", composition: Partial<Record<WarRoomUnitId, number>>, useBoost?: boolean) => void;
+  onRecallFleet?: (fleetId: string, useBoost?: boolean) => void;
   className?: string;
 };
 
@@ -48,7 +60,9 @@ type NodeVisual = {
   point: WorldPoint;
   assetSrc: string;
   label: LocalizedString;
-  toneClass: string;
+  tone: string;
+  glow: string;
+  recommendedActions: NodeActionId[];
 };
 
 type NodeAction = {
@@ -183,58 +197,80 @@ function getNodeHalo(node: MapNode) {
 }
 
 function getFleetStatusMeta(fleet: FleetMovement) {
+  const isBoosted = fleet.boosted;
   switch (fleet.status) {
-    case "mining":
-      return {
-        label: {
-          en: "Mining",
-          hu: "Bányászat",
-          de: "Abbau",
-          ro: "Extragere",
-        } satisfies LocalizedString,
-        tone: "text-emerald-200",
-        glow: "rgba(16,185,129,0.72)",
-      };
     case "returning":
       return {
         label: {
-          en: "Returning",
-          hu: "Visszatérés",
-          de: "Rückkehr",
-          ro: "Întoarcere",
+          en: isBoosted ? "Returning [BOOSTED]" : "Returning",
+          hu: isBoosted ? "Visszatérés [GYORSÍTOTT]" : "Visszatérés",
+          de: isBoosted ? "Rückkehr [GEBOOSTET]" : "Rückkehr",
+          ro: isBoosted ? "Întoarcere [BOOSTED]" : "Întoarcere",
         } satisfies LocalizedString,
-        tone: "text-cyan-200",
-        glow: "rgba(34,211,238,0.72)",
+        tone: isBoosted ? "text-fuchsia-300" : "text-cyan-200",
+        glow: isBoosted ? "rgba(217,70,239,0.85)" : "rgba(34,211,238,0.72)",
       };
     default:
       return {
         label: {
-          en: "Traveling",
-          hu: "Utazás",
-          de: "Reise",
-          ro: "Călătorie",
+          en: isBoosted ? "Traveling [BOOSTED]" : "Traveling",
+          hu: isBoosted ? "Utazás [GYORSÍTOTT]" : "Utazás",
+          de: isBoosted ? "Reise [GEBOOSTET]" : "Reise",
+          ro: isBoosted ? "Călătorie [BOOSTED]" : "Călătorie",
         } satisfies LocalizedString,
-        tone: "text-amber-200",
-        glow: "rgba(251,191,36,0.72)",
+        tone: isBoosted ? "text-fuchsia-300" : "text-amber-200",
+        glow: isBoosted ? "rgba(217,70,239,0.85)" : "rgba(251,191,36,0.72)",
       };
   }
 }
 
 function getFleetProgress(fleet: FleetMovement, now: number) {
   const total = Math.max(1, fleet.arrivalTime - fleet.departureTime);
-  if (fleet.status === "mining" && fleet.miningCompletesAt) {
-    const start = fleet.arrivalTime;
-    const miningTotal = Math.max(1, fleet.miningCompletesAt - start);
-    return clamp((now - start) / miningTotal, 0, 1);
-  }
   return clamp((now - fleet.departureTime) / total, 0, 1);
+}
+
+function buildAutoComposition(
+  garrison: Record<WarRoomUnitId, GarrisonEntry[]>,
+  missionType: "collect" | "attack" | "inspect",
+): Partial<Record<WarRoomUnitId, number>> | null {
+  const available = new Map<WarRoomUnitId, number>();
+  for (const [unitId, entries] of Object.entries(garrison) as [WarRoomUnitId, GarrisonEntry[]][]) {
+    const count = entries.reduce((sum, entry) => sum + entry.count, 0);
+    if (count > 0) {
+      available.set(unitId, count);
+    }
+  }
+
+  const preferredRoles =
+    missionType === "attack"
+      ? ["assault", "tank", "support", "recon"]
+      : ["recon", "support", "assault", "tank"];
+
+  for (const role of preferredRoles) {
+    for (const unitId of WARROOM_UNIT_ORDER) {
+      const def = WARROOM_UNITS[unitId];
+      if (!def || def.role !== role) continue;
+      const count = available.get(unitId) ?? 0;
+      if (count > 0) {
+        return { [unitId]: 1 };
+      }
+    }
+  }
+
+  return null;
 }
 
 export default function GalaxyMapView({
   lang,
   galaxyState,
+  nodePreviews,
   currentTick,
   antimatter,
+  chronoCore,
+  garrison,
+  sensorLevel,
+  onDispatchFleet,
+  onRecallFleet,
   onNodeClick,
   onNodeCollect,
   onNodeAttack,
@@ -275,6 +311,7 @@ export default function GalaxyMapView({
   });
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [selectedFleetId, setSelectedFleetId] = useState<string | null>(null);
+  const [dispatchTarget, setDispatchTarget] = useState<{ node: MapNode; missionType: "collect" | "attack" | "inspect" } | null>(null);
   const [zoom, setZoom] = useState(0.88);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [viewport, setViewport] = useState({ width: 1, height: 1 });
@@ -345,37 +382,51 @@ export default function GalaxyMapView({
         point,
         assetSrc: getNodeAsset(node),
         label: getNodeLabel(node),
-        toneClass: getNodeTone(node),
+        tone: getNodeTone(node),
+        glow: getNodeHalo(node),
+        recommendedActions: nodePreviews[node.id]?.recommendedActions ?? [],
       };
     });
-  }, [base.x, base.y, galaxyState.transientNodes]);
+  }, [base.x, base.y, galaxyState.transientNodes, nodePreviews]);
+
+  const nodeById = useMemo(
+    () => new Map(galaxyState.transientNodes.map((node) => [node.id, node] as const)),
+    [galaxyState.transientNodes],
+  );
 
   const fleetVisuals = useMemo<FleetVisual[]>(() => {
-    const nodeById = new Map(galaxyState.transientNodes.map((node) => [node.id, node] as const));
     return galaxyState.activeFleets.map((fleet) => {
       const targetNode = nodeById.get(fleet.targetNodeId);
-      const targetPoint = targetNode
+      const nodePoint = targetNode
         ? {
             x: WORLD_CENTER + (targetNode.x - base.x) * COORD_SCALE,
             y: WORLD_CENTER + (targetNode.y - base.y) * COORD_SCALE,
           }
         : { x: WORLD_CENTER, y: WORLD_CENTER };
-      const originPoint =
-        fleet.status === "returning"
-          ? targetPoint
-          : {
-              x: WORLD_CENTER + 0,
-              y: WORLD_CENTER + 0,
-            };
+
+      const basePoint = { x: WORLD_CENTER, y: WORLD_CENTER };
+
+      let from: WorldPoint;
+      let to: WorldPoint;
+
+      if (fleet.status === "returning") {
+        from = nodePoint;
+        to = basePoint;
+      } else {
+        // traveling_to
+        from = basePoint;
+        to = nodePoint;
+      }
+
       const progress = getFleetProgress(fleet, currentTick);
       const current = {
-        x: originPoint.x + (targetPoint.x - originPoint.x) * progress,
-        y: originPoint.y + (targetPoint.y - originPoint.y) * progress,
+        x: from.x + (to.x - from.x) * progress,
+        y: from.y + (to.y - from.y) * progress,
       };
       return {
         fleet,
-        from: originPoint,
-        to: targetPoint,
+        from,
+        to,
         current,
         progress,
         statusLabel: getFleetStatusMeta(fleet).label,
@@ -402,71 +453,83 @@ export default function GalaxyMapView({
     () => (selectedFleet ? Math.max(0, selectedFleet.fleet.arrivalTime - selectedFleet.fleet.departureTime) : 0),
     [selectedFleet],
   );
-  const selectedFleetMiningTicks = useMemo(
-    () => (selectedFleet?.fleet.miningCompletesAt ? Math.max(0, selectedFleet.fleet.miningCompletesAt - selectedFleet.fleet.arrivalTime) : 0),
-    [selectedFleet],
-  );
   const selectedNodeActions = useMemo<NodeAction[]>(() => {
     if (!selectedNode) return [];
-    const fallbackInspect = () => onNodeInspect?.(selectedNode.node) ?? onNodeClick?.(selectedNode.node);
-    const fallbackCollect = () => onNodeCollect?.(selectedNode.node) ?? fallbackInspect();
-    const fallbackAttack = () => onNodeAttack?.(selectedNode.node) ?? fallbackInspect();
+    
+    const actions: NodeAction[] = [];
 
-    if (selectedNode.node.type === "meteorite") {
-      return [
-        {
-          id: "collect",
-          label: localize(lang, { en: "Collect", hu: "Gyűjtés", de: "Sammeln", ro: "Colectează" }),
-          icon: <Fuel size={12} />,
-          toneClass: "text-emerald-100 border-emerald-300/18 bg-emerald-300/10",
-          onClick: fallbackCollect,
-        },
-        {
+    selectedNode.recommendedActions.forEach((actionId) => {
+      if (actionId === "inspect") {
+        actions.push({
           id: "inspect",
           label: localize(lang, { en: "Inspect", hu: "Vizsgálat", de: "Untersuchen", ro: "Inspectează" }),
           icon: <Sparkles size={12} />,
           toneClass: "text-cyan-100 border-cyan-300/18 bg-cyan-300/10",
-          onClick: fallbackInspect,
-        },
-      ];
-    }
-
-    if (selectedNode.node.type === "pve_base") {
-      return [
-        {
+          onClick: () => {
+            if (onNodeInspect) onNodeInspect(selectedNode.node);
+            else if (onNodeClick) onNodeClick(selectedNode.node);
+          },
+        });
+      } else if (actionId === "collect") {
+        actions.push({
+          id: "collect",
+          label: localize(lang, { en: "Collect", hu: "Gyűjtés", de: "Sammeln", ro: "Colectează" }),
+          icon: <Fuel size={12} />,
+          toneClass: "text-emerald-100 border-emerald-300/18 bg-emerald-300/10",
+          onClick: () => {
+            const autoComposition = buildAutoComposition(garrison, "collect");
+            if (onDispatchFleet && autoComposition) {
+              onDispatchFleet(selectedNode.node, "collect", autoComposition);
+            } else if (onNodeCollect) {
+              onNodeCollect(selectedNode.node);
+            }
+          },
+        });
+      } else if (actionId === "attack") {
+        actions.push({
           id: "attack",
           label: localize(lang, { en: "Attack", hu: "Támadás", de: "Angriff", ro: "Atacă" }),
           icon: <ShieldAlert size={12} />,
           toneClass: "text-rose-100 border-rose-300/18 bg-rose-300/10",
-          onClick: fallbackAttack,
-        },
-        {
-          id: "inspect",
-          label: localize(lang, { en: "Scout", hu: "Felderítés", de: "Aufklärung", ro: "Recunoaștere" }),
-          icon: <Sparkles size={12} />,
-          toneClass: "text-cyan-100 border-cyan-300/18 bg-cyan-300/10",
-          onClick: fallbackInspect,
-        },
-      ];
+          onClick: () => {
+            const autoComposition = buildAutoComposition(garrison, "attack");
+            if (onDispatchFleet && autoComposition) {
+              onDispatchFleet(selectedNode.node, "attack", autoComposition);
+            } else if (onNodeAttack) {
+              onNodeAttack(selectedNode.node);
+            }
+          },
+        });
+      } else if (actionId === "dispatch") {
+        actions.push({
+          id: "dispatch",
+          label: localize(lang, { en: "Dispatch", hu: "Indítás", de: "Entsenden", ro: "Trimite" }),
+          icon: <Rocket size={12} />,
+          toneClass: "text-amber-100 border-amber-300/18 bg-amber-300/10",
+          onClick: () => setDispatchTarget({ node: selectedNode.node, missionType: selectedNode.node.type === "pve_base" ? "attack" : "collect" }),
+        });
+      } else if (actionId === "focus") {
+        actions.push({
+          id: "focus",
+          label: localize(lang, { en: "Focus", hu: "Fókusz", de: "Fokus", ro: "Focus" }),
+          icon: <Home size={12} />,
+          toneClass: "text-white/80 border-white/12 bg-white/5",
+          onClick: () => {
+            if (onNodeInspect) onNodeInspect(selectedNode.node);
+            else if (onNodeClick) onNodeClick(selectedNode.node);
+          },
+        });
+      }
+    });
+
+    // Special case for "focus" which might not be in backend recommendedActions yet but was in UI
+    if (selectedNode.node.type === "anomaly" && !selectedNode.recommendedActions.includes("inspect" as any)) {
+       // keep it if needed, but the goal is backend driven. 
+       // If backend doesn't send it, we don't show it.
     }
 
-    return [
-      {
-        id: "inspect",
-        label: localize(lang, { en: "Inspect", hu: "Vizsgálat", de: "Untersuchen", ro: "Inspectează" }),
-        icon: <Sparkles size={12} />,
-        toneClass: "text-violet-100 border-violet-300/18 bg-violet-300/10",
-        onClick: fallbackInspect,
-      },
-      {
-        id: "focus",
-        label: localize(lang, { en: "Focus", hu: "Fókusz", de: "Fokus", ro: "Focus" }),
-        icon: <Home size={12} />,
-        toneClass: "text-white/80 border-white/12 bg-white/5",
-        onClick: fallbackInspect,
-      },
-    ];
-  }, [lang, onNodeAttack, onNodeClick, onNodeCollect, onNodeInspect, selectedNode]);
+    return actions;
+  }, [garrison, lang, onDispatchFleet, onNodeAttack, onNodeClick, onNodeCollect, onNodeInspect, selectedNode]);
 
   const recenter = useCallback(() => {
     const centerX = viewport.width / 2 - WORLD_CENTER * zoom;
@@ -688,7 +751,7 @@ export default function GalaxyMapView({
             <Home size={28} className="relative drop-shadow-[0_0_12px_rgba(34,211,238,0.42)]" />
           </button>
 
-          {nodeVisuals.map(({ node, point, assetSrc, label, toneClass }) => {
+          {nodeVisuals.map(({ node, point, assetSrc, label, tone }) => {
             const occupied = Boolean(node.isOccupiedBy);
             const isSelected = selectedNodeId === node.id;
             return (
@@ -721,7 +784,7 @@ export default function GalaxyMapView({
                     draggable={false}
                     className={`h-[74px] w-[74px] select-none object-contain drop-shadow-[0_0_14px_rgba(34,211,238,0.22)] ${node.type === "pve_base" ? "drop-shadow-[0_0_18px_rgba(248,113,113,0.25)]" : ""} ${node.type === "anomaly" ? "mix-blend-screen" : ""}`}
                   />
-                  <span className={`mt-1 rounded-full border px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.18em] ${toneClass} border-white/10 bg-[#07111d]/82`}>
+                  <span className={`mt-1 rounded-full border px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.18em] ${tone} border-white/10 bg-[#07111d]/82`}>
                     {localize(lang, label)}
                   </span>
                   <span className="mt-1 text-[8px] font-black uppercase tracking-[0.2em] text-white/45">
@@ -770,7 +833,7 @@ export default function GalaxyMapView({
                   }}
                 />
                 <span
-                  className={`relative block h-4 w-4 rounded-full border border-white/20 shadow-[0_0_18px_rgba(255,255,255,0.18)] ${entry.fleet.status === "mining" ? "bg-emerald-300" : entry.fleet.status === "returning" ? "bg-cyan-300" : "bg-amber-300"}`}
+                  className={`relative block h-4 w-4 rounded-full border border-white/20 shadow-[0_0_18px_rgba(255,255,255,0.18)] ${entry.fleet.status === "returning" ? "bg-cyan-300" : "bg-amber-300"}`}
                 />
                 {isSelected && (
                   <span className="pointer-events-none absolute inset-[-5px] rounded-full border border-white/80" />
@@ -1005,7 +1068,7 @@ export default function GalaxyMapView({
                         {localize(lang, { en: "Travel", hu: "Utazás", de: "Reise", ro: "Călătorie" })}
                       </div>
                       <div className="mt-1 text-[12px] font-black text-violet-100">
-                        {formatTickDuration(selectedFleetTotalTicks || selectedFleetMiningTicks || 0)}
+                        {formatTickDuration(selectedFleetTotalTicks || 0)}
                       </div>
                     </div>
                   </div>
@@ -1027,13 +1090,75 @@ export default function GalaxyMapView({
                       </div>
                     </div>
                   </div>
+                  
+                  {selectedFleet.fleet.boosted && (
+                    <div className="flex items-center gap-2 rounded-2xl border border-fuchsia-500/30 bg-fuchsia-500/10 px-3 py-2 text-[10px] font-black uppercase tracking-[0.18em] text-fuchsia-200">
+                      <Zap size={12} className="animate-pulse" />
+                      <span>{localize(lang, { en: "Chrono Overdrive Active", hu: "Chrono Túlhajtás Aktív", de: "Chrono-Overdrive Aktiv", ro: "Overdrive Chrono Activ" })}</span>
+                    </div>
+                  )}
+
                   <div className={`rounded-2xl border px-3 py-2 text-[10px] font-black uppercase tracking-[0.18em] ${selectedFleet.statusTone} border-white/8 bg-white/5`}>
                     {localize(lang, selectedFleet.statusLabel)}
                   </div>
+                  {selectedFleet.fleet.status === "traveling_to" && onRecallFleet && (
+                    <div className="mt-2 space-y-2">
+                      <button
+                        type="button"
+                        onClick={() => onRecallFleet(selectedFleet.fleet.id, false)}
+                        className="flex w-full items-center justify-center gap-2 rounded-2xl border border-cyan-300/20 bg-cyan-400/10 px-3 py-2 text-[10px] font-black uppercase tracking-[0.2em] text-cyan-100 transition hover:bg-cyan-400/16"
+                      >
+                        <RotateCcw size={12} />
+                        <span>
+                          {localize(lang, {
+                            en: "Recall",
+                            hu: "Visszahívás",
+                            de: "Zurückrufen",
+                            ro: "Rechemare",
+                          })}
+                        </span>
+                      </button>
+                      {chronoCore > 0 && (
+                        <button
+                          type="button"
+                          onClick={() => onRecallFleet(selectedFleet.fleet.id, true)}
+                          className="flex w-full items-center justify-center gap-2 rounded-2xl border border-fuchsia-500/30 bg-fuchsia-500/20 px-3 py-2 text-[10px] font-black uppercase tracking-[0.2em] text-fuchsia-100 transition hover:bg-fuchsia-500/30 shadow-[0_0_15px_rgba(217,70,239,0.15)]"
+                        >
+                          <Zap size={12} className="animate-pulse" />
+                          <span>
+                            {localize(lang, {
+                              en: "Chrono Recall",
+                              hu: "Chrono Visszahívás",
+                              de: "Chrono-Rückruf",
+                              ro: "Rechemare Chrono",
+                            })}
+                          </span>
+                        </button>
+                      )}
+                    </div>
+                  )}
                 </>
               )}
             </div>
           </motion.div>
+        )}
+
+        {dispatchTarget && (
+          <FleetCompositionPicker
+            lang={lang}
+            node={dispatchTarget.node}
+            missionType={dispatchTarget.missionType}
+            base={base}
+            sensorLevel={sensorLevel}
+            antimatter={antimatter.current}
+            chronoCore={chronoCore}
+            garrison={garrison}
+            onConfirm={(composition, useBoost) => {
+              onDispatchFleet?.(dispatchTarget.node, dispatchTarget.missionType, composition, useBoost);
+              setDispatchTarget(null);
+            }}
+            onClose={() => setDispatchTarget(null)}
+          />
         )}
       </AnimatePresence>
 

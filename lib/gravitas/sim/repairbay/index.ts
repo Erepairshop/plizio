@@ -16,7 +16,7 @@ export function createInitialRepairBay(): RepairBayState {
       synthoid_titan: [],
       noma_weaver: [],
     },
-    woundedAt: null,
+    woundedAtTick: null,
   };
 }
 

@@ -75,7 +75,7 @@ export function runMaintenance(state: StarholdState): StarholdState {
 
   // 2. TTL Pruning
   if (nextState.tradeSystem && nextState.tradeSystem.offers) {
-    const validOffers = nextState.tradeSystem.offers.filter(o => now < o.expiresAt);
+    const validOffers = nextState.tradeSystem.offers.filter(o => nextState.tick < o.expiresAtTick);
     if (validOffers.length !== nextState.tradeSystem.offers.length) {
       nextState = {
         ...nextState,
@@ -91,9 +91,9 @@ export function runMaintenance(state: StarholdState): StarholdState {
   if (nextState.dilemmaSystem && nextState.dilemmaSystem.pendingEffects) {
     // Keep effects that haven't triggered yet, or only recently triggered if we want to be safe,
     // but pendingEffects are usually removed by tickDilemmaEffects once triggered.
-    // In case any get stuck past a large threshold (e.g. 10 days), purge them.
-    const staleThreshold = 10 * 24 * 60 * 60 * 1000;
-    const activeEffects = nextState.dilemmaSystem.pendingEffects.filter(e => now - e.triggerAt < staleThreshold);
+    // In case any get stuck past a large threshold (e.g. 10 days in ticks), purge them.
+    const staleThresholdTicks = 10 * 24 * 3600;
+    const activeEffects = nextState.dilemmaSystem.pendingEffects.filter(e => nextState.tick - e.triggerAtTick < staleThresholdTicks);
     if (activeEffects.length !== nextState.dilemmaSystem.pendingEffects.length) {
       nextState = {
         ...nextState,
@@ -124,9 +124,9 @@ export function runMaintenance(state: StarholdState): StarholdState {
 
   // 3. Dead Entity Cleanup
   if (nextState.espionage && nextState.espionage.missions) {
-    const staleThreshold = 2 * 24 * 60 * 60 * 1000; // 2 days
+    const staleThresholdTicks = 2 * 24 * 3600; // 2 days in ticks
     const activeMissions = nextState.espionage.missions.filter(m => {
-      if ((m.phase === "extracted" || m.phase === "lost") && (now - m.lastYieldAt > staleThreshold)) {
+      if ((m.phase === "extracted" || m.phase === "lost") && (nextState.tick - m.lastYieldAtTick > staleThresholdTicks)) {
         return false;
       }
       return true;
@@ -176,11 +176,10 @@ export function runMaintenance(state: StarholdState): StarholdState {
         nextActiveFleets.forEach(fleet => {
           if (fleet.targetNodeId === node.id && fleet.status !== "returning") {
             fleet.status = "returning";
-            // Correct arrival time based on how far it traveled (using ticks)
-            const travelDuration = nextState.tick - fleet.departureTime;
+            // Correct arrival time based on original travel duration
+            const travelDuration = fleet.travelTimeTicks ?? (nextState.tick - fleet.departureTime);
             fleet.departureTime = nextState.tick;
-            fleet.arrivalTime = nextState.tick + travelDuration;
-            fleet.miningCompletesAt = undefined;
+            fleet.arrivalTime = nextState.tick + Math.max(60, travelDuration);
             
             alerts.push({
               en: `Sensor connection lost. Target disappeared. Fleet automatically returned to base.`,

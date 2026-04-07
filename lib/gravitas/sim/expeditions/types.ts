@@ -9,13 +9,14 @@ export type ExpeditionCrewProfile = "scout_heavy" | "assault_heavy" | "support_h
 
 export interface ExpeditionFleet {
   units: Record<WarRoomUnitId, number>;
+  originalComposition?: Record<WarRoomUnitId, number>;
   officerId?: string;
 }
 
 export type ExpeditionEventResult = "safe" | "reward" | "danger" | "disaster" | "discovery" | "ambush_survived" | "ambush_lost" | "signal_trace" | "lost_route";
 
 export interface ExpeditionLogEntry {
-  timestamp: number;
+  tick: number;
   text: LocalizedString;
   resultType: ExpeditionEventResult;
 }
@@ -37,14 +38,17 @@ export interface ActiveExpedition {
   routeProfile: ExpeditionRouteProfile;
   crewProfile: ExpeditionCrewProfile;
   fleet: ExpeditionFleet;
-  startedAt: number; // Date.now() timestamp
-  endsAt: number; // Date.now() + durationMs
+  startedAtTick: number; // Simulation tick
+  endsAtTick: number; // Simulation tick
   logs: ExpeditionLogEntry[];
   loot: Partial<Record<GalaxyMaterialId | "intel" | "supply", number>>;
   status: "en_route" | "returning" | "completed" | "lost";
-  returnAt?: number; // Time when it gets back if 'returning' state is triggered early
+  returnAtTick?: number; // Simulation tick
   recalled: boolean; // Was it manually recalled?
-  casualties: Partial<Record<WarRoomUnitId, number>>; // Track lost units during the expedition
+  casualties: {
+    killed: Partial<Record<WarRoomUnitId, number>>;
+    wounded: Partial<Record<WarRoomUnitId, number>>;
+  }; // Track lost units during the expedition
   lessonText?: LocalizedString;
   rewardBreakdown?: ExpeditionRewardBreakdown;
 }

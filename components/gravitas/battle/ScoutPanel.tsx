@@ -41,9 +41,9 @@ function localize(lang: string, ls: LocalizedString): string {
   return ls[l] ?? ls.en;
 }
 
-function formatTime(ms: number): string {
-  const mins = Math.floor(ms / 60000);
-  const secs = Math.floor((ms % 60000) / 1000);
+function formatTimeTicks(ticks: number): string {
+  const mins = Math.floor(ticks / 60);
+  const secs = Math.floor(ticks % 60);
   return `${mins}:${secs.toString().padStart(2, "0")}`;
 }
 
@@ -57,16 +57,10 @@ export default function ScoutPanel({
   onClose,
   lang
 }: ScoutPanelProps) {
-  const [now, setNow] = useState(Date.now());
   const activeScout = state.battleState.activeScout;
   const isScoutingThis = activeScout?.buildingId === buildingId;
   // Wraith units handle scouting in new system (was scout_drone)
   const availableDrones = (state.warRoom.garrison.wraith ?? []).reduce((s: number, e: { count: number }) => s + e.count, 0);
-
-  useEffect(() => {
-    const timer = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(timer);
-  }, []);
 
   const intel = scoutReport.intelLevel;
   
@@ -82,8 +76,8 @@ export default function ScoutPanel({
 
   const canStart = availableDrones > 0 && !state.battleState.activeScout;
 
-  const remainingMs = isScoutingThis ? Math.max(0, activeScout.completesAt - now) : 0;
-  const progress = isScoutingThis ? 1 - (remainingMs / (activeScout.completesAt - activeScout.startedAt)) : 0;
+  const ticksRemaining = isScoutingThis ? Math.max(0, activeScout.completesAtTick - state.tick) : 0;
+  const progress = isScoutingThis ? 1 - (ticksRemaining / (activeScout.completesAtTick - activeScout.startedAtTick)) : 0;
 
   const intelBonus = Math.round(15 + (state.moduleLevels.sensor - 1) * 2.5);
 
@@ -164,7 +158,7 @@ export default function ScoutPanel({
                 </div>
                 <div className="flex items-center gap-1.5 text-[11px] font-bold text-white/80">
                   <Clock size={12} />
-                  <span>{formatTime(remainingMs)}</span>
+                  <span>{formatTimeTicks(ticksRemaining)}</span>
                 </div>
               </div>
               <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">

@@ -18,11 +18,11 @@ const MODULE_LABELS: Record<UpgradableModuleId, Record<Lang, string>> = {
   repairbay: { en: "Repair Bay", hu: "Javítóüzem", de: "Reparaturbucht", ro: "Doc reparații" },
 };
 
-function formatTime(seconds: number): string {
-  if (seconds <= 0) return "0s";
-  const d = Math.floor(seconds / 86400);
-  const h = Math.floor((seconds % 86400) / 3600);
-  const m = Math.floor((seconds % 3600) / 60);
+function formatTimeTicks(ticks: number): string {
+  if (ticks <= 0) return "0s";
+  const d = Math.floor(ticks / 86400);
+  const h = Math.floor((ticks % 86400) / 3600);
+  const m = Math.floor((ticks % 3600) / 60);
   if (d > 0) return h > 0 ? `${d}d ${h}h` : `${d}d`;
   if (h > 0) return m > 0 ? `${h}h ${m}m` : `${h}h`;
   return `${m}m`;
@@ -47,26 +47,20 @@ function CostChips({ cost, lang }: { cost: MaterialCost; lang: Lang }) {
 }
 
 /** Active upgrade progress bar for this module */
-function ActiveUpgradeBar({ slot }: { slot: StarholdState["upgradeQueue"][0] }) {
-  const [now, setNow] = useState(Date.now());
-  useEffect(() => {
-    const interval = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(interval);
-  }, []);
-
-  const total = slot.completesAt - slot.startedAt;
-  const elapsed = Math.min(now - slot.startedAt, total);
-  const remaining = Math.max(0, slot.completesAt - now);
+function ActiveUpgradeBar({ slot, lang, currentTick }: { slot: StarholdState["upgradeQueue"][0]; lang: Lang; currentTick: number }) {
+  const total = slot.completesAtTick - slot.startedAtTick;
+  const elapsed = Math.min(currentTick - slot.startedAtTick, total);
+  const remaining = Math.max(0, slot.completesAtTick - currentTick);
   const pct = total > 0 ? (elapsed / total) * 100 : 100;
 
   return (
     <div className="rounded-xl border border-amber-400/15 bg-amber-400/[0.04] p-3">
       <div className="flex items-center justify-between gap-2">
         <span className="text-[11px] font-black text-amber-300/90">
-          🔨 Upgrading to Lv{slot.targetLevel}
+          🔨 {{ en: "Upgrading to", hu: "Fejlesztés:", de: "Upgrade auf", ro: "Upgrade la" }[lang] || "Upgrading to"} Lv{slot.targetLevel}
         </span>
         <span className="text-[10px] font-bold text-amber-300/60">
-          {formatTime(remaining / 1000)}
+          {formatTimeTicks(remaining)}
         </span>
       </div>
       <div className="mt-2 h-2 overflow-hidden rounded-full bg-black/30">
@@ -138,7 +132,7 @@ export default function ModuleInteriorPanel({
           <div className="mt-2.5 space-y-1.5">
             <div className="flex items-center justify-between">
               <span className="text-[9px] font-bold uppercase tracking-wider text-white/40">
-                {l === "hu" ? "Integritás" : l === "de" ? "Integrität" : "Integrity"}
+                {{ en: "Integrity", hu: "Integritás", de: "Integrität", ro: "Integritate" }[l] || "Integrity"}
               </span>
               <span className="text-[10px] font-black text-white/70">{moduleState.integrity}%</span>
             </div>
@@ -149,7 +143,9 @@ export default function ModuleInteriorPanel({
               />
             </div>
             <div className="flex items-center justify-between">
-              <span className="text-[9px] font-bold uppercase tracking-wider text-white/40">Load</span>
+              <span className="text-[9px] font-bold uppercase tracking-wider text-white/40">
+                {{ en: "Load", hu: "Terhelés", de: "Last", ro: "Sarcină" }[l] || "Load"}
+              </span>
               <span className="text-[10px] font-black text-white/70">{moduleState.load}%</span>
             </div>
             <div className="h-1.5 w-full overflow-hidden rounded-full bg-white/5">
@@ -160,8 +156,8 @@ export default function ModuleInteriorPanel({
             </div>
             <div className={`mt-1 text-[10px] font-black ${moduleState.online ? "text-emerald-400/80" : "text-white/40"}`}>
               {moduleState.online
-                ? (l === "hu" ? "● Online" : "● Online")
-                : (l === "hu" ? "○ Offline" : "○ Offline")}
+                ? ({ en: "● Online", hu: "● Online", de: "● Online", ro: "● Online" }[l] || "● Online")
+                : ({ en: "○ Offline", hu: "○ Offline", de: "○ Offline", ro: "○ Offline" }[l] || "○ Offline")}
             </div>
           </div>
         )}
@@ -180,18 +176,18 @@ export default function ModuleInteriorPanel({
       )}
 
       {/* Active upgrade */}
-      {activeSlot && <ActiveUpgradeBar slot={activeSlot} />}
+      {activeSlot && <ActiveUpgradeBar slot={activeSlot} lang={l} currentTick={state.tick} />}
 
       {/* Upgrade section */}
       {!isMaxLevel && !isUpgrading && nextEntry && (
         <div className={`rounded-2xl border ${c.border} ${c.bg} p-3`}>
           <div className="text-[9px] font-black uppercase tracking-wider text-white/40 mb-2">
-            {l === "hu" ? "Következő szint" : l === "de" ? "Nächstes Level" : "Next Level"}
+            {{ en: "Next Level", hu: "Következő szint", de: "Nächstes Level", ro: "Nivelul următor" }[l] || "Next Level"}
           </div>
           <CostChips cost={nextEntry.cost} lang={l} />
           <div className="mt-2 flex items-center justify-between">
             <span className="text-[10px] font-medium text-white/35">
-              ⏱ {formatTime(nextEntry.buildSeconds)}
+              ⏱ {formatTimeTicks(nextEntry.buildSeconds)}
             </span>
             <button
               type="button"

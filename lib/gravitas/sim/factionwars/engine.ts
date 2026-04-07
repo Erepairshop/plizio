@@ -6,20 +6,19 @@ import { pushNotification } from "../notifications/engine";
 import { applyReputationChange } from "../faction/reputation";
 import { nextRandom, randomInt } from "../rng";
 
-const WAR_DURATION_MS = 24 * 60 * 60 * 1000; // 24 hours
-const WAR_COOLDOWN_MS = 48 * 60 * 60 * 1000; // 48 hours between spawns
+const WAR_DURATION_TICKS = 24 * 60 * 60; // 24 hours in ticks
+const WAR_COOLDOWN_TICKS = 48 * 60 * 60; // 48 hours between spawns
 
-export function createInitialFactionWarState(): FactionWarState {
+export function createInitialFactionWarState(currentTick: number = 0): FactionWarState {
   return {
     activeWars: [],
-    lastWarSpawnAt: Date.now(),
+    lastWarSpawnAtTick: currentTick,
   };
 }
 
 export function tickFactionWars(state: StarholdState): StarholdState {
   if (state.tick % 60 !== 0) return state;
 
-  const now = Date.now();
   let mutated = false;
   let nextActiveWars = [...state.factionWars.activeWars];
   let currentRngState = state.globalRngState;
@@ -28,8 +27,8 @@ export function tickFactionWars(state: StarholdState): StarholdState {
 
   // 1. Expire old wars and resolve outcomes
   const beforeCount = nextActiveWars.length;
-  const expiredWars = nextActiveWars.filter(w => now >= w.endsAt);
-  nextActiveWars = nextActiveWars.filter(w => now < w.endsAt);
+  const expiredWars = nextActiveWars.filter(w => state.tick >= w.endsAtTick);
+  nextActiveWars = nextActiveWars.filter(w => state.tick < w.endsAtTick);
   
   if (expiredWars.length > 0) {
     mutated = true;
@@ -53,7 +52,6 @@ export function tickFactionWars(state: StarholdState): StarholdState {
        );
        
        // Deterministic market/player impact
-       // Small rep boost for winner if player is allied/friendly, else penalty. O(1) mathematical impact.
        const winnerRep = nextReputation[winnerId] ?? 0;
        if (winnerRep > 20) {
          nextReputation = applyReputationChange(nextReputation, winnerId, 5, "event", nextState);
@@ -64,7 +62,7 @@ export function tickFactionWars(state: StarholdState): StarholdState {
   }
 
   // 2. Spawn new war
-  if (now - state.factionWars.lastWarSpawnAt > WAR_COOLDOWN_MS && nextActiveWars.length === 0) {
+  if (state.tick - state.factionWars.lastWarSpawnAtTick > WAR_COOLDOWN_TICKS && nextActiveWars.length === 0) {
     const factions = Object.keys(GALAXY_FACTIONS) as FactionId[];
     
     const { value: attackerIdx, nextState: s1 } = randomInt(currentRngState, 0, factions.length - 1);
@@ -84,11 +82,11 @@ export function tickFactionWars(state: StarholdState): StarholdState {
     currentRngState = s4;
 
     const newWar: FactionWar = {
-      id: `war_${now}_${idRand}`,
+      id: `war_${state.tick}_${idRand}`,
       attackerId: factions[attackerIdx],
       defenderId: factions[defenderIdx],
-      startedAt: now,
-      endsAt: now + WAR_DURATION_MS,
+      startedAtTick: state.tick,
+      endsAtTick: state.tick + WAR_DURATION_TICKS,
       intensity: 1 + intensityRand,
     };
     
@@ -120,7 +118,7 @@ export function tickFactionWars(state: StarholdState): StarholdState {
       },
       factionWars: {
         activeWars: nextActiveWars,
-        lastWarSpawnAt: nextActiveWars.length > beforeCount ? now : state.factionWars.lastWarSpawnAt,
+        lastWarSpawnAtTick: nextActiveWars.length > beforeCount ? state.tick : state.factionWars.lastWarSpawnAtTick,
       }
     };
   }

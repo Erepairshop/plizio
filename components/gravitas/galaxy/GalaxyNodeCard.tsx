@@ -46,6 +46,7 @@ export default function GalaxyNodeCard({
   onRecallDrone,
   onOpenScout,
   onClose,
+  recommendedActions = [],
 }: {
   lang: Lang;
   node: GalaxyNode;
@@ -57,6 +58,7 @@ export default function GalaxyNodeCard({
   onRecallDrone?: (() => void) | null;
   onOpenScout?: (() => void) | null;
   onClose: () => void;
+  recommendedActions?: import("@/lib/gravitas/sim/map/types").NodeActionId[];
 }) {
   const descriptor = node.descriptorId ? BUILDING_DESCRIPTORS[node.descriptorId] : null;
   const faction = node.factionId ? GALAXY_FACTIONS[node.factionId] : null;
@@ -70,6 +72,13 @@ export default function GalaxyNodeCard({
   const isOnCooldown = cooldownUntil > now;
   const cooldownRemainingMs = Math.max(0, cooldownUntil - now);
   const strikeDisabled = isOnCooldown;
+
+  // Use recommended actions from backend if provided, otherwise fallback to legacy type-based logic
+  const hasRecommended = recommendedActions.length > 0;
+  const canCollect = hasRecommended ? recommendedActions.includes("collect") : (node.type === "resource" && !activeMission);
+  const canAttack = hasRecommended ? recommendedActions.includes("attack") : (node.type === "battle");
+  const canScout = hasRecommended ? recommendedActions.includes("inspect") : (node.type === "battle");
+  const canRecall = hasRecommended ? recommendedActions.includes("recall") : (node.type === "resource" && activeMission && activeMission.status !== "returning");
 
   return (
     <motion.div
@@ -196,16 +205,16 @@ export default function GalaxyNodeCard({
         <div className="mt-2.5 rounded-2xl border border-amber-300/16 bg-amber-300/8 px-2.5 py-2 text-[10px] leading-relaxed text-white/72">{localize(lang, node.footer)}</div>
       )}
 
-      {onDispatchDrone && node.type === "resource" && !activeMission && (
+      {onDispatchDrone && canCollect && (
         <button type="button" onClick={onDispatchDrone} className="mt-3 flex w-full items-center justify-center gap-2 rounded-2xl border border-cyan-300/24 bg-cyan-300/10 px-3 py-2.5 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-50 transition hover:bg-cyan-300/16">
           <Rocket size={13} />
           <span>Dispatch drone</span>
         </button>
       )}
-      {onDispatchDrone && node.type === "battle" && (
+      {onDispatchDrone && canAttack && (
         <div className="mt-3 flex flex-col gap-2">
           <div className="flex gap-2">
-            {onOpenScout && (
+            {onOpenScout && canScout && (
               <button type="button" onClick={onOpenScout} className="flex-1 flex items-center justify-center gap-2 rounded-2xl border border-cyan-300/24 bg-cyan-300/10 px-3 py-2.5 text-[10px] font-black uppercase tracking-[0.18em] text-cyan-50 transition hover:bg-cyan-300/16">
                 <Radar size={13} />
                 <span>Scout</span>
@@ -228,7 +237,7 @@ export default function GalaxyNodeCard({
           )}
         </div>
       )}
-      {onRecallDrone && activeMission && node.type === "resource" && activeMission.status !== "returning" && (
+      {onRecallDrone && canRecall && (
         <button type="button" onClick={onRecallDrone} className="mt-3 flex w-full items-center justify-center gap-2 rounded-2xl border border-rose-300/24 bg-rose-300/10 px-3 py-2.5 text-[10px] font-black uppercase tracking-[0.18em] text-rose-50 transition hover:bg-rose-300/16">
           <RotateCcw size={13} />
           <span>Recall drone</span>

@@ -38,8 +38,8 @@ export interface WarRoomProductionSlot {
   isUpgrade: boolean;
   batchSize: number;
   targetLevel: number;
-  startedAt: number;
-  completesAt: number;
+  startedAtTick: number;
+  completesAtTick: number;
   reservedCount?: number;
   reservedFromLevel?: number;
   spentCost?: Partial<Record<GalaxyMaterialId, number>>;
@@ -56,9 +56,21 @@ export interface GarrisonEntry {
 
 // ── War-room module state ──────────────────────────────────────
 
+export type UnitAllocationStatus = "reserved" | "traveling" | "working" | "returning" | "wounded" | "lost";
+
+export interface UnitAllocation {
+  id: string; // The fleet or mission id
+  missionType: "dispatch" | "expedition" | "weekly" | "battle";
+  status: UnitAllocationStatus;
+  entries: Partial<Record<WarRoomUnitId, GarrisonEntry[]>>;
+  startedAtTick: number;
+  expectedArrivalTick?: number;
+}
+
 export interface WarRoomState {
   level: number;
   online: boolean;
   productionSlots: Record<WarRoomUnitId, WarRoomProductionSlot | null>;
   garrison: Record<WarRoomUnitId, GarrisonEntry[]>;
+  allocations: UnitAllocation[];
 }

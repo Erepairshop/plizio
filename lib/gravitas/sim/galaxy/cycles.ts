@@ -62,15 +62,14 @@ export function getNextPhase(current: GalaxyCyclePhase): GalaxyCyclePhase {
   return CYCLE_PHASE_ORDER[(idx + 1) % CYCLE_PHASE_ORDER.length];
 }
 
-export function advanceCyclePhase(state: GalaxyCycleState): GalaxyCycleState {
+export function advanceCyclePhase(state: GalaxyCycleState, currentTick: number): GalaxyCycleState {
   const nextPhase = getNextPhase(state.currentPhase);
-  const now = Date.now();
-  const duration = getPhaseDurationMs(nextPhase);
+  const durationTicks = Math.floor(getPhaseDurationMs(nextPhase) / 1000);
   
   return {
     currentPhase: nextPhase,
-    phaseStartedAt: now,
-    phaseEndsAt: now + duration,
+    phaseStartedAtTick: currentTick,
+    phaseEndsAtTick: currentTick + durationTicks,
     cycleNumber: nextPhase === "calm" ? state.cycleNumber + 1 : state.cycleNumber,
   };
 }

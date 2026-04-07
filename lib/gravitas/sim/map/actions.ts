@@ -21,7 +21,8 @@ import type {
 } from "./types";
 import { nextRandom, randomInt } from "../rng";
 import { addResourceDelta, pushJournal, clamp } from "../shared";
-import { calculateTravelTimeTicks, calculateFuelCost, nodeDistance } from "./navigation";
+import { calculateTravelTimeTicks, calculateFuelCost, nodeDistance, calculateFleetWeight } from "./navigation";
+import { reserveUnits, updateAllocationStatus } from "../warroom/ledger";
 
 // ─── Constants ──────────────────────────────────────────────────────────────
 
@@ -29,7 +30,7 @@ import { calculateTravelTimeTicks, calculateFuelCost, nodeDistance } from "./nav
 const ACTION_COOLDOWN_TICKS = 120; // 2 minutes
 
 /** Mining duration at node (ticks) per mission type */
-const MISSION_DURATION: Record<FleetMissionType, number> = {
+export const MISSION_DURATION: Record<FleetMissionType, number> = {
   collect: 3600,  // 1 hour
   attack: 1800,   // 30 min
   inspect: 600,   // 10 min
@@ -50,6 +51,7 @@ export function getNodePreview(state: StarholdState, nodeId: string): NodePrevie
   const sensorLevel = state.moduleLevels.sensor;
   const fuelCost = calculateFuelCost(dist, BASE_FLEET_WEIGHT);
   const travelTimeTicks = calculateTravelTimeTicks(dist, sensorLevel);
+  const boostedTravelTimeTicks = calculateTravelTimeTicks(dist, sensorLevel, BASE_FLEET_WEIGHT, true);
 
   const occupancy: NodePreview["occupancy"] =
     node.nodeState === "depleted"
@@ -80,6 +82,8 @@ export function getNodePreview(state: StarholdState, nodeId: string): NodePrevie
     intelDepth: node.intelDepth,
     fuelCost,
     travelTimeTicks,
+    boostedTravelTimeTicks,
+    chronoCoreCount: state.resources.chronoCore ?? 0,
     threatRating,
     occupancy,
     recommendedActions,
@@ -89,13 +93,13 @@ export function getNodePreview(state: StarholdState, nodeId: string): NodePrevie
 
 // ─── Available actions ──────────────────────────────────────────────────────
 
-function getAvailableActions(state: StarholdState, node: MapNode): NodeActionId[] {
+export function getAvailableActions(state: StarholdState, node: MapNode): NodeActionId[] {
   const actions: NodeActionId[] = [];
   const hasFleetAtNode = state.galaxy.activeFleets.some(
     (f) => f.targetNodeId === node.id && f.status !== "returning",
   );
-  const hasFleetDispatched = state.galaxy.activeFleets.some(
-    (f) => f.targetNodeId === node.id,
+  const hasFleetEnRoute = state.galaxy.activeFleets.some(
+    (f) => f.targetNodeId === node.id && f.status === "traveling_to",
   );
   const onCooldown = node.cooldownUntil > state.tick;
 
@@ -114,6 +118,10 @@ function getAvailableActions(state: StarholdState, node: MapNode): NodeActionId[
     actions.push("attack");
   }
 
+  if (node.type === "anomaly" && node.nodeState !== "depleted" && !onCooldown) {
+    actions.push("focus");
+  }
+
   // Dispatch: available when no fleet is already en route/at node
   if (!hasFleetAtNode && node.nodeState !== "depleted" && node.nodeState !== "expired") {
     const antimatter = state.resources.antimatter;
@@ -126,7 +134,7 @@ function getAvailableActions(state: StarholdState, node: MapNode): NodeActionId[
   }
 
   // Recall: available when a fleet is dispatched (not yet returned)
-  if (hasFleetDispatched) {
+  if (hasFleetEnRoute) {
     actions.push("recall");
   }
 
@@ -370,6 +378,8 @@ export function resolveDispatchFleet(
   state: StarholdState,
   nodeId: string,
   missionType: FleetMissionType,
+  composition: Record<string, number> = {},
+  useBoost: boolean = false,
 ): StarholdState {
   const node = state.galaxy.transientNodes.find((n) => n.id === nodeId);
   if (!node) return state;
@@ -390,10 +400,21 @@ export function resolveDispatchFleet(
     });
   }
 
+  // Boost check
+  if (useBoost && (state.resources.chronoCore ?? 0) <= 0) {
+    return withAlert(state, {
+      en: "No Chrono Cores available for travel boost.",
+      hu: "Nincs elérhető Chrono Core az utazásgyorsításhoz.",
+      de: "Keine Chrono-Kerne für Reise-Boost verfügbar.",
+      ro: "Nu există nuclee Chrono disponibile pentru boost de călătorie.",
+    });
+  }
+
   const base = state.galaxy.baseCoordinates;
   const dist = nodeDistance(base.x, base.y, node.x, node.y);
-  const fuelCost = calculateFuelCost(dist, BASE_FLEET_WEIGHT);
-  const travelTimeTicks = calculateTravelTimeTicks(dist, state.moduleLevels.sensor);
+  const fleetWeight = calculateFleetWeight(composition);
+  const fuelCost = calculateFuelCost(dist, fleetWeight);
+  const travelTimeTicks = calculateTravelTimeTicks(dist, state.moduleLevels.sensor, fleetWeight, useBoost);
 
   // Check antimatter
   if (state.resources.antimatter < fuelCost) {
@@ -408,21 +429,42 @@ export function resolveDispatchFleet(
   let rng = state.globalRngState;
   const { value: idSuffix, nextState: rng2 } = randomInt(rng, 1000, 9999);
   rng = rng2;
+  const fleetId = `fleet_${state.tick}_${idSuffix}`;
+
+  const reservation = reserveUnits(state, fleetId, "dispatch", composition);
+
+  if (!reservation.success) {
+    const missing = Object.entries(reservation.missingUnits ?? {})
+      .map(([id, count]) => `${count} ${id}`)
+      .join(", ");
+    return withAlert(state, {
+      en: `Dispatch failed. Missing units: ${missing}`,
+      hu: `Indítás sikertelen. Hiányzó egységek: ${missing}`,
+      de: `Entsendung fehlgeschlagen. Fehlende Einheiten: ${missing}`,
+      ro: `Indisponibil. Unități lipsă: ${missing}`,
+    });
+  }
+
+  // Set status to traveling in the ledger
+  const stateWithReserved = updateAllocationStatus(reservation.nextState, fleetId, "traveling");
 
   const fleet: FleetMovement = {
-    id: `fleet_${state.tick}_${idSuffix}`,
+    id: fleetId,
     targetNodeId: nodeId,
     departureTime: state.tick,
     arrivalTime: state.tick + travelTimeTicks,
+    travelTimeTicks,
     status: "traveling_to",
     missionType,
     fuelSpent: fuelCost,
-    weight: BASE_FLEET_WEIGHT,
+    weight: fleetWeight,
+    composition,
+    boosted: useBoost,
   };
 
   // Update node state to contested
-  const nodeIdx = state.galaxy.transientNodes.findIndex((n) => n.id === nodeId);
-  const nextNodes = [...state.galaxy.transientNodes];
+  const nodeIdx = stateWithReserved.galaxy.transientNodes.findIndex((n) => n.id === nodeId);
+  const nextNodes = [...stateWithReserved.galaxy.transientNodes];
   if (nodeIdx >= 0) {
     nextNodes[nodeIdx] = {
       ...nextNodes[nodeIdx],
@@ -431,29 +473,44 @@ export function resolveDispatchFleet(
   }
 
   const journal: LocalizedString = {
-    en: `Fleet dispatched to ${node.id} (${missionType}). ETA: ${Math.ceil(travelTimeTicks / 60)}m. Fuel: ${fuelCost}.`,
-    hu: `Flotta indítva: ${node.id} (${missionType}). ETA: ${Math.ceil(travelTimeTicks / 60)}p. Üzemanyag: ${fuelCost}.`,
-    de: `Flotte entsandt zu ${node.id} (${missionType}). ETA: ${Math.ceil(travelTimeTicks / 60)}m. Treibstoff: ${fuelCost}.`,
-    ro: `Flotă trimisă la ${node.id} (${missionType}). ETA: ${Math.ceil(travelTimeTicks / 60)}m. Combustibil: ${fuelCost}.`,
+    en: `Fleet dispatched to ${node.id} (${missionType})${useBoost ? " [BOOSTED]" : ""}. ETA: ${Math.ceil(travelTimeTicks / 60)}m. Fuel: ${fuelCost}.`,
+    hu: `Flotta indítva: ${node.id} (${missionType})${useBoost ? " [GYORSÍTOTT]" : ""}. ETA: ${Math.ceil(travelTimeTicks / 60)}p. Üzemanyag: ${fuelCost}.`,
+    de: `Flotte entsandt zu ${node.id} (${missionType})${useBoost ? " [GEBOOSTET]" : ""}. ETA: ${Math.ceil(travelTimeTicks / 60)}m. Treibstoff: ${fuelCost}.`,
+    ro: `Flotă trimisă la ${node.id} (${missionType})${useBoost ? " [BOOSTED]" : ""}. ETA: ${Math.ceil(travelTimeTicks / 60)}m. Combustibil: ${fuelCost}.`,
+  };
+
+  const feedback: import("./types").NodeActionFeedback = {
+    actionType: "dispatch",
+    success: true,
+    summary: journal,
+    etaSummary: `ETA: ${Math.ceil(travelTimeTicks / 60)}m`,
+    riskSummary: `Fuel spent: ${fuelCost}`,
+    nextSuggestedAction: "monitor",
+    nodeStateAfter: nextNodes[nodeIdx]?.nodeState,
+    fleetStateAfter: "traveling_to",
   };
 
   let nextState: StarholdState = {
-    ...state,
+    ...stateWithReserved,
     globalRngState: rng,
     galaxy: {
-      ...state.galaxy,
+      ...stateWithReserved.galaxy,
       transientNodes: nextNodes,
-      activeFleets: [...state.galaxy.activeFleets, fleet],
+      activeFleets: [...stateWithReserved.galaxy.activeFleets, fleet],
     },
-    resources: addResourceDelta(state.resources, { antimatter: -fuelCost }),
+    resources: addResourceDelta(stateWithReserved.resources, { 
+      antimatter: -fuelCost,
+      chronoCore: useBoost ? -1 : 0,
+    }),
     alert: journal,
+    lastActionFeedback: feedback,
   };
   nextState.journal = pushJournal(nextState, journal);
   return nextState;
 }
 
 /** Recall a fleet — turns it around immediately */
-export function resolveRecallFleet(state: StarholdState, fleetId: string): StarholdState {
+export function resolveRecallFleet(state: StarholdState, fleetId: string, useBoost: boolean = false): StarholdState {
   const fleetIdx = state.galaxy.activeFleets.findIndex((f) => f.id === fleetId);
   if (fleetIdx === -1) return state;
   const fleet = state.galaxy.activeFleets[fleetIdx];
@@ -467,16 +524,29 @@ export function resolveRecallFleet(state: StarholdState, fleetId: string): Starh
     });
   }
 
+  // Boost check
+  if (useBoost && (state.resources.chronoCore ?? 0) <= 0) {
+    return withAlert(state, {
+      en: "No Chrono Cores available for travel boost.",
+      hu: "Nincs elérhető Chrono Core az utazásgyorsításhoz.",
+      de: "Keine Chrono-Kerne für Reise-Boost verfügbar.",
+      ro: "Nu există nuclee Chrono disponibile pentru boost de călătorie.",
+    });
+  }
+
   // Calculate how far the fleet has traveled
   const ticksTraveled = state.tick - fleet.departureTime;
-  const returnTime = Math.max(60, ticksTraveled); // At least 1 min return
+  // Return trip duration is how far we got (capped at original travel time)
+  // Apply boost if requested
+  const baseReturnTime = Math.max(60, Math.min(fleet.travelTimeTicks, ticksTraveled));
+  const returnTime = useBoost ? Math.max(60, Math.ceil(baseReturnTime / 10)) : baseReturnTime;
 
   const updatedFleet: FleetMovement = {
     ...fleet,
     status: "returning",
     departureTime: state.tick,
     arrivalTime: state.tick + returnTime,
-    miningCompletesAt: undefined,
+    boosted: useBoost || fleet.boosted,
   };
 
   const nextFleets = [...state.galaxy.activeFleets];
@@ -495,16 +565,31 @@ export function resolveRecallFleet(state: StarholdState, fleetId: string): Starh
   }
 
   const journal: LocalizedString = {
-    en: `Fleet ${fleet.id} recalled. ETA to base: ${Math.ceil(returnTime / 60)}m.`,
-    hu: `Flotta ${fleet.id} visszahívva. Bázisra érkezés: ${Math.ceil(returnTime / 60)}p.`,
-    de: `Flotte ${fleet.id} zurückgerufen. Ankunft: ${Math.ceil(returnTime / 60)}m.`,
-    ro: `Flotă ${fleet.id} retrasă. Sosire la bază: ${Math.ceil(returnTime / 60)}m.`,
+    en: `Fleet ${fleet.id} recalled${useBoost ? " [BOOSTED]" : ""}. ETA to base: ${Math.ceil(returnTime / 60)}m.`,
+    hu: `Flotta ${fleet.id} visszahívva${useBoost ? " [GYORSÍTOTT]" : ""}. Bázisra érkezés: ${Math.ceil(returnTime / 60)}p.`,
+    de: `Flotte ${fleet.id} zurückgerufen${useBoost ? " [GEBOOSTET]" : ""}. Ankunft: ${Math.ceil(returnTime / 60)}m.`,
+    ro: `Flotă ${fleet.id} retrasă${useBoost ? " [BOOSTED]" : ""}. Sosire la bază: ${Math.ceil(returnTime / 60)}m.`,
   };
 
+  const feedback: import("./types").NodeActionFeedback = {
+    actionType: "recall",
+    success: true,
+    summary: journal,
+    etaSummary: `Return ETA: ${Math.ceil(returnTime / 60)}m`,
+    nextSuggestedAction: "wait",
+    fleetStateAfter: "returning",
+  };
+
+  const stateWithAllocation = updateAllocationStatus(state, fleetId, "returning");
+
   let nextState: StarholdState = {
-    ...state,
-    galaxy: { ...state.galaxy, transientNodes: nextNodes, activeFleets: nextFleets },
+    ...stateWithAllocation,
+    galaxy: { ...stateWithAllocation.galaxy, transientNodes: nextNodes, activeFleets: nextFleets },
+    resources: addResourceDelta(stateWithAllocation.resources, {
+      chronoCore: useBoost ? -1 : 0,
+    }),
     alert: journal,
+    lastActionFeedback: feedback,
   };
   nextState.journal = pushJournal(nextState, journal);
   return nextState;
