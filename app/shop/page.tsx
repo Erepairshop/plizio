@@ -2,22 +2,15 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors, Venus, Mars } from "lucide-react";
-import AvatarCompanion from "@/components/AvatarCompanion";
-import { getGender, setGender, getAvatarScale, setAvatarScale, type AvatarGender } from "@/lib/gender";
-import { useLang } from "@/components/LanguageProvider";
-import type { Language } from "@/lib/language";
+import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind } from "lucide-react";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
-import { getUser } from "@/lib/auth";
-import { uploadToSupabase } from "@/lib/sync";
 import { SKINS, getOwnedSkins, getActiveSkin, setActiveSkin, buySkin, type SkinDef } from "@/lib/skins";
 import {
   HATS, TRAILS,
   getOwnedHats, getActiveHat, setActiveHat, buyHat, type HatDef,
   getOwnedTrails, getActiveTrail, setActiveTrail, buyTrail, type TrailDef,
 } from "@/lib/accessories";
-import { HAIR_STYLES, getOwnedHair, getActiveHair, setActiveHair, buyHairStyle, type HairDef } from "@/lib/hair";
 import {
   TOPS, BOTTOMS, SHOES, CAPES, GLASSES, GLOVES,
   getOwned, getActive, setActive, buyItem,
@@ -64,10 +57,6 @@ const POWER_UPS: PowerUpDef[] = [
   { id: "qp_hint", name: "Hint", icon: Eye, game: "Quick Pick", gameIcon: Crosshair, color: "#FF2D78", price: 1 },
   { id: "rg_extratime", name: "Extra Time", icon: Clock, game: "Reflex Grid", gameIcon: Zap, color: "#00D4FF", price: 1 },
   { id: "mf_longerview", name: "Longer View", icon: Eye, game: "Memory Flash", gameIcon: Brain, color: "#B44DFF", price: 1 },
-  { id: "mm_extra5050", name: "Extra 50:50", icon: Scissors, game: "Milliomos", gameIcon: Crown, color: "#FFD700", price: 1 },
-  { id: "mm_doubledip", name: "Double Dip", icon: Shield, game: "Milliomos", gameIcon: Crown, color: "#FFD700", price: 2 },
-  { id: "ws_reveal", name: "Reveal Letter", icon: Eye, game: "Word Scramble", gameIcon: Shuffle, color: "#34D399", price: 1 },
-  { id: "ws_extratime", name: "Extra Time", icon: Clock, game: "Word Scramble", gameIcon: Shuffle, color: "#34D399", price: 1 },
 ];
 
 // ─── ABILITY DEFINITIONS ─────────────────────────────
@@ -87,333 +76,6 @@ const ABILITIES: AbilityDef[] = [
 ];
 
 type Tab = "cars" | "powerups" | "skins" | "abilities";
-
-// ─── TRANSLATIONS ──────────────────────────────────
-type ShopTranslations = {
-  header: string;
-  tabs: Record<Tab, string>;
-  skinSubs: Record<"skin" | "face" | "hair" | "top" | "bottom" | "shoe" | "hat" | "cape" | "glasses" | "gloves" | "trail", string>;
-  buttons: {
-    select: string;
-    free: string;
-    unlockFree: string;
-    active: string;
-    tap: string;
-    drift: string;
-    nitro: string;
-  };
-  notifications: {
-    notEnough: string;
-    skinSelected: string;
-    skinPurchased: string;
-    faceSelected: string;
-    facePurchased: string;
-    hatRemoved: string;
-    hatEquipped: string;
-    hatPurchased: string;
-    trailRemoved: string;
-    trailEquipped: string;
-    trailPurchased: string;
-    equipped: string;
-    unequipped: string;
-    unlocked: string;
-    purchased: string;
-    powerUpAdded: string;
-    abilityAdded: string;
-  };
-  carStats: {
-    spd: string;
-    acc: string;
-    hdl: string;
-  };
-  carDescriptions: Record<string, string>;
-  preview: {
-    title: string;
-    hint: string;
-    girl: string;
-    boy: string;
-    size: string;
-  };
-};
-
-const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
-  en: {
-    header: "SHOP",
-    tabs: {
-      cars: "Cars",
-      skins: "Skins",
-      powerups: "Boost",
-      abilities: "Skills",
-    },
-    skinSubs: {
-      skin: "Skin",
-      face: "Face",
-      hair: "Hair",
-      top: "Top",
-      bottom: "Pants",
-      shoe: "Shoes",
-      hat: "Hats",
-      cape: "Cape",
-      glasses: "Glasses",
-      gloves: "Gloves",
-      trail: "Trails",
-    },
-    buttons: {
-      select: "Select",
-      free: "Free",
-      unlockFree: "Unlock Free",
-      active: "ACTIVE",
-      tap: "TAP",
-      drift: "DRIFT",
-      nitro: "NITRO",
-    },
-    notifications: {
-      notEnough: "Not enough ⭐",
-      skinSelected: "Skin selected!",
-      skinPurchased: "Skin purchased!",
-      faceSelected: "Face selected!",
-      facePurchased: "Face purchased!",
-      hatRemoved: "Hat removed",
-      hatEquipped: "Hat equipped!",
-      hatPurchased: "Hat purchased!",
-      trailRemoved: "Trail removed",
-      trailEquipped: "Trail equipped!",
-      trailPurchased: "Trail purchased!",
-      equipped: "Equipped!",
-      unequipped: "Unequipped!",
-      unlocked: "Unlocked!",
-      purchased: "Purchased!",
-      powerUpAdded: "+1 power-up!",
-      abilityAdded: "+1 ability!",
-    },
-    carStats: {
-      spd: "SPD",
-      acc: "ACC",
-      hdl: "HDL",
-    },
-    carDescriptions: {
-      starter: "Reliable starter car. Slow but easy to handle.",
-      sedan: "Balanced family sedan. Good acceleration and handling.",
-      muscle: "Powerful muscle car with drift capability. Harder steering.",
-      racer: "Racing car. Excellent speed and handling with drift.",
-      supercar: "The best. Nitro boost, drift, maximum speed and acceleration.",
-    },
-    preview: {
-      title: "AVATAR PREVIEW",
-      hint: "Buy items and see them on your avatar instantly!",
-      girl: "Girl",
-      boy: "Boy",
-      size: "Size",
-    },
-  },
-  hu: {
-    header: "BOLT",
-    tabs: {
-      cars: "Autók",
-      skins: "Megjelenés",
-      powerups: "Feltuning",
-      abilities: "Képességek",
-    },
-    skinSubs: {
-      skin: "Skin",
-      face: "Fej",
-      hair: "Haj",
-      top: "Felső",
-      bottom: "Alsó",
-      shoe: "Cipő",
-      hat: "Kalap",
-      cape: "Köpeny",
-      glasses: "Szemüveg",
-      gloves: "Kesztyű",
-      trail: "Nyomvonal",
-    },
-    buttons: {
-      select: "Kiválaszt",
-      free: "Ingyenes",
-      unlockFree: "Feloldás",
-      active: "AKTÍV",
-      tap: "KOPPINTS",
-      drift: "DRIFT",
-      nitro: "NITRO",
-    },
-    notifications: {
-      notEnough: "Nincs elég ⭐",
-      skinSelected: "Skin kiválasztva!",
-      skinPurchased: "Skin megvásárolva!",
-      faceSelected: "Fej kiválasztva!",
-      facePurchased: "Fej megvásárolva!",
-      hatRemoved: "Kalap eltávolítva",
-      hatEquipped: "Kalap felhelyezve!",
-      hatPurchased: "Kalap megvásárolva!",
-      trailRemoved: "Nyomvonal eltávolítva",
-      trailEquipped: "Nyomvonal felhelyezve!",
-      trailPurchased: "Nyomvonal megvásárolva!",
-      equipped: "Felhelyezve!",
-      unequipped: "Levéve!",
-      unlocked: "Feloldva!",
-      purchased: "Megvásárolva!",
-      powerUpAdded: "+1 feltuning!",
-      abilityAdded: "+1 képesség!",
-    },
-    carStats: {
-      spd: "SEP",
-      acc: "GYO",
-      hdl: "KOR",
-    },
-    carDescriptions: {
-      starter: "Megbízható kezdő autó. Lassú de könnyen kezelhető.",
-      sedan: "Kiegyensúlyozott családi szedán. Jó gyorsulás és kezelhetőség.",
-      muscle: "Erős izomautó drift képességgel. Nehezebb a kormányzás.",
-      racer: "Versenyautó. Kiváló sebesség és kezelhetőség drifttel.",
-      supercar: "A legjobb. Nitro boost, drift, maximális sebesség és gyorsulás.",
-    },
-    preview: {
-      title: "AVATÁR ELŐNÉZET",
-      hint: "Vásárolj tárgyakat, és azonnal látod az avatáron!",
-      girl: "Lány",
-      boy: "Fiú",
-      size: "Méret",
-    },
-  },
-  de: {
-    header: "SHOP",
-    tabs: {
-      cars: "Autos",
-      skins: "Skins",
-      powerups: "Boost",
-      abilities: "Fähigkeiten",
-    },
-    skinSubs: {
-      skin: "Skin",
-      face: "Gesicht",
-      hair: "Haare",
-      top: "Oberteil",
-      bottom: "Unterhose",
-      shoe: "Schuhe",
-      hat: "Hüte",
-      cape: "Umhang",
-      glasses: "Brille",
-      gloves: "Handschuhe",
-      trail: "Spur",
-    },
-    buttons: {
-      select: "Auswählen",
-      free: "Kostenlos",
-      unlockFree: "Freischalten",
-      active: "AKTIV",
-      tap: "TAP",
-      drift: "DRIFT",
-      nitro: "NITRO",
-    },
-    notifications: {
-      notEnough: "Nicht genug ⭐",
-      skinSelected: "Skin ausgewählt!",
-      skinPurchased: "Skin gekauft!",
-      faceSelected: "Gesicht ausgewählt!",
-      facePurchased: "Gesicht gekauft!",
-      hatRemoved: "Hut entfernt",
-      hatEquipped: "Hut angelegt!",
-      hatPurchased: "Hut gekauft!",
-      trailRemoved: "Spur entfernt",
-      trailEquipped: "Spur angelegt!",
-      trailPurchased: "Spur gekauft!",
-      equipped: "Angelegt!",
-      unequipped: "Entfernt!",
-      unlocked: "Freigeschaltet!",
-      purchased: "Gekauft!",
-      powerUpAdded: "+1 Boost!",
-      abilityAdded: "+1 Fähigkeit!",
-    },
-    carStats: {
-      spd: "GES",
-      acc: "BES",
-      hdl: "HAN",
-    },
-    carDescriptions: {
-      starter: "Zuverlässiges Anfängerauto. Langsam aber leicht zu handhaben.",
-      sedan: "Ausgewogene Familienkombi. Gute Beschleunigung und Handling.",
-      muscle: "Starkes Muscle Car mit Driftfähigkeit. Schwierigere Lenkung.",
-      racer: "Rennwagen. Ausgezeichnete Geschwindigkeit und Handling mit Drift.",
-      supercar: "Das Beste. Nitro-Boost, Drift, maximale Geschwindigkeit und Beschleunigung.",
-    },
-    preview: {
-      title: "AVATAR-VORSCHAU",
-      hint: "Kaufe Gegenstände und sieh sie sofort auf deinem Avatar!",
-      girl: "Mädchen",
-      boy: "Junge",
-      size: "Größe",
-    },
-  },
-  ro: {
-    header: "MAGAZIN",
-    tabs: {
-      cars: "Mașini",
-      skins: "Aspecte",
-      powerups: "Boost",
-      abilities: "Abilități",
-    },
-    skinSubs: {
-      skin: "Aspect",
-      face: "Față",
-      hair: "Păr",
-      top: "Tricou",
-      bottom: "Pantaloni",
-      shoe: "Pantofi",
-      hat: "Pălării",
-      cape: "Pelerinã",
-      glasses: "Ochelari",
-      gloves: "Mănuși",
-      trail: "Urmă",
-    },
-    buttons: {
-      select: "Selecteaza",
-      free: "Gratuit",
-      unlockFree: "Deblochează",
-      active: "ACTIV",
-      tap: "APASÃ",
-      drift: "DRIFT",
-      nitro: "NITRO",
-    },
-    notifications: {
-      notEnough: "Nu sunt suficiente ⭐",
-      skinSelected: "Aspect selectat!",
-      skinPurchased: "Aspect cumpărat!",
-      faceSelected: "Față selectată!",
-      facePurchased: "Față cumpărată!",
-      hatRemoved: "Pălărie eliminată",
-      hatEquipped: "Pălărie pusă!",
-      hatPurchased: "Pălărie cumpărată!",
-      trailRemoved: "Urmă eliminată",
-      trailEquipped: "Urmă pusă!",
-      trailPurchased: "Urmă cumpărată!",
-      equipped: "Pus!",
-      unequipped: "Scos!",
-      unlocked: "Deblocat!",
-      purchased: "Cumpărat!",
-      powerUpAdded: "+1 boost!",
-      abilityAdded: "+1 abilitate!",
-    },
-    carStats: {
-      spd: "VIT",
-      acc: "ACC",
-      hdl: "MAN",
-    },
-    carDescriptions: {
-      starter: "Mașină de pornire de încredere. Lentă dar ușor de controlat.",
-      sedan: "Sedan familial echilibrat. Bună accelerație și manevrabilitate.",
-      muscle: "Mașină cu motor puternic cu capacitate de drift. Direcție mai dificilă.",
-      racer: "Mașina de curse. Viteză și manevrabilitate excelente cu drift.",
-      supercar: "Cea mai bună. Nitro boost, drift, viteză maximă și accelerație.",
-    },
-    preview: {
-      title: "PREVIZUALIZARE AVATAR",
-      hint: "Cumpără obiecte și vezi-le imediat pe avatar!",
-      girl: "Fată",
-      boy: "Băiat",
-      size: "Mărime",
-    },
-  },
-};
 
 // ─── CAR SVG ICON ─────────────────────────────────
 function CarIcon({ color, size = 80 }: { color: string; size?: number }) {
@@ -520,52 +182,6 @@ function HatPreview({ type, color, emissive, size = 48 }: { type: string; color:
         <circle cx={cx + 4} cy={s * 0.38} r={2.5} fill={emissive} opacity={0.7} />
         <circle cx={cx - 3} cy={s * 0.48} r={1.5} fill={emissive} opacity={0.5} />
       </>)}
-      {type === "beanie" && (<>
-        <ellipse cx={cx} cy={s * 0.5} rx={14} ry={12} fill={color} />
-        <rect x={cx - 15} y={s * 0.57} width={30} height={5} rx={2.5} fill={color} opacity={0.6} />
-        <circle cx={cx} cy={s * 0.34} r={4} fill={emissive} opacity={0.6} />
-      </>)}
-      {type === "bucket" && (<>
-        <ellipse cx={cx} cy={s * 0.6} rx={18} ry={4} fill={color} opacity={0.8} />
-        <path d={`M${cx - 12},${s * 0.6} L${cx - 8},${s * 0.35} L${cx + 8},${s * 0.35} L${cx + 12},${s * 0.6}`} fill={color} />
-        <rect x={cx - 9} y={s * 0.32} width={18} height={5} rx={2.5} fill={color} opacity={0.85} />
-      </>)}
-      {type === "party" && (<>
-        <polygon points={`${cx},${s * 0.2} ${cx - 12},${s * 0.62} ${cx + 12},${s * 0.62}`} fill={color} />
-        <ellipse cx={cx} cy={s * 0.62} rx={12} ry={3} fill={color} opacity={0.7} />
-        {[{x:cx-5,y:s*0.35},{x:cx+4,y:s*0.43},{x:cx-2,y:s*0.52}].map((p,i) => (
-          <circle key={i} cx={p.x} cy={p.y} r={2} fill={emissive} opacity={0.8} />
-        ))}
-      </>)}
-      {type === "fedora" && (<>
-        <ellipse cx={cx} cy={s * 0.62} rx={18} ry={4} fill={color} />
-        <path d={`M${cx - 10},${s * 0.62} L${cx - 8},${s * 0.38} Q${cx},${s * 0.3} ${cx + 8},${s * 0.38} L${cx + 10},${s * 0.62}`} fill={color} />
-        <rect x={cx - 9} y={s * 0.45} width={18} height={3} rx={1.5} fill={emissive} opacity={0.35} />
-      </>)}
-      {type === "viking" && (<>
-        <ellipse cx={cx} cy={s * 0.48} rx={14} ry={11} fill={color} />
-        <path d={`M${cx - 14},${s * 0.52} Q${cx - 20},${s * 0.55} ${cx - 18},${s * 0.7} Q${cx - 14},${s * 0.62} ${cx - 10},${s * 0.58}`} fill="#F5F0E8" />
-        <path d={`M${cx + 14},${s * 0.52} Q${cx + 20},${s * 0.55} ${cx + 18},${s * 0.7} Q${cx + 14},${s * 0.62} ${cx + 10},${s * 0.58}`} fill="#F5F0E8" />
-        <rect x={cx - 4} y={s * 0.38} width={8} height={12} rx={1} fill={color} opacity={0.8} />
-      </>)}
-      {type === "ninja" && (<>
-        <ellipse cx={cx} cy={s * 0.46} rx={14} ry={11} fill={color} />
-        <rect x={cx - 14} y={s * 0.5} width={28} height={5} rx={1} fill={color} opacity={0.6} />
-        <circle cx={cx + 10} cy={s * 0.48} r={3} fill={emissive} opacity={0.5} />
-      </>)}
-      {type === "snapback" && (<>
-        <ellipse cx={cx} cy={s * 0.5} rx={14} ry={8} fill={color} />
-        <rect x={cx - 14} y={s * 0.56} width={28} height={3} rx={1.5} fill={color} opacity={0.6} />
-        <rect x={cx - 2} y={s * 0.3} width={18} height={4} rx={2} fill={color} opacity={0.75} />
-        <ellipse cx={cx} cy={s * 0.38} rx={12} ry={10} fill={color} />
-        <rect x={cx - 7} y={s * 0.42} width={14} height={2} rx={1} fill={emissive} opacity={0.4} />
-      </>)}
-      {type === "bandana" && (<>
-        <ellipse cx={cx} cy={s * 0.46} rx={14} ry={7} fill={color} />
-        <circle cx={cx + 12} cy={s * 0.44} r={4} fill={color} opacity={0.85} />
-        <ellipse cx={cx + 12} cy={s * 0.44} rx={5} ry={3} fill={emissive} opacity={0.3} />
-        <rect x={cx - 13} y={s * 0.45} width={26} height={3} rx={1.5} fill={emissive} opacity={0.2} />
-      </>)}
     </svg>
   );
 }
@@ -615,66 +231,6 @@ function TrailPreview({ type, color, emissive, size = 48 }: { type: string; colo
         <polyline points={`${cx + 4},${s * 0.25} ${cx - 2},${s * 0.5} ${cx + 3},${s * 0.55} ${cx - 5},${s * 0.75}`} fill="none" stroke={emissive} strokeWidth={1.5} strokeLinejoin="round" opacity={0.6} />
         <circle cx={cx + 6} cy={s * 0.7} r={2} fill={emissive} opacity={0.8} />
       </>)}
-      {type === "magic" && (<>
-        {[{x:cx,y:s*0.28,r:3},{x:cx-9,y:s*0.45,r:2},{x:cx+9,y:s*0.42,r:2.5},{x:cx-5,y:s*0.63,r:1.5},{x:cx+6,y:s*0.68,r:1.5}].map((p,i) => (
-          <circle key={i} cx={p.x} cy={p.y} r={p.r} fill={i%2===0?color:emissive} opacity={0.85-i*0.1} />
-        ))}
-        <path d={`M${cx},${s*0.28} Q${cx-9},${s*0.45} ${cx-5},${s*0.63}`} fill="none" stroke={color} strokeWidth={1} opacity={0.4} strokeDasharray="2 2" />
-      </>)}
-      {type === "poison" && (<>
-        <ellipse cx={cx} cy={s*0.5} rx={8} ry={11} fill={color} opacity={0.25} />
-        {[{x:cx-4,y:s*0.35},{x:cx+5,y:s*0.48},{x:cx-2,y:s*0.62},{x:cx+3,y:s*0.72}].map((p,i) => (
-          <circle key={i} cx={p.x} cy={p.y} r={3-i*0.4} fill={emissive} opacity={0.7} />
-        ))}
-      </>)}
-      {type === "gold" && (<>
-        {[{x:cx,y:s*0.3,r:4},{x:cx-7,y:s*0.48,r:3},{x:cx+7,y:s*0.48,r:3},{x:cx-3,y:s*0.65,r:2.5},{x:cx+3,y:s*0.7,r:2}].map((p,i) => (
-          <polygon key={i} points={starPoints(p.x,p.y,p.r)} fill={color} opacity={0.9-i*0.1} />
-        ))}
-        <circle cx={cx} cy={cx} r={s*0.3} fill="none" stroke={emissive} strokeWidth={1} opacity={0.25} />
-      </>)}
-      {type === "dark" && (<>
-        <ellipse cx={cx} cy={s*0.5} rx={10} ry={14} fill={color} opacity={0.4} />
-        {[{x:cx-5,y:s*0.32},{x:cx+6,y:s*0.44},{x:cx-3,y:s*0.58},{x:cx+4,y:s*0.7}].map((p,i) => (
-          <circle key={i} cx={p.x} cy={p.y} r={3-i*0.3} fill={emissive} opacity={0.6} />
-        ))}
-      </>)}
-      {type === "nature" && (<>
-        {[{x:cx-3,y:s*0.32},{x:cx+5,y:s*0.44},{x:cx-6,y:s*0.55},{x:cx+2,y:s*0.66}].map((p,i) => (
-          <ellipse key={i} cx={p.x} cy={p.y} rx={5-i*0.5} ry={3-i*0.3} fill={color} opacity={0.75} transform={`rotate(${30+i*20} ${p.x} ${p.y})`} />
-        ))}
-        <line x1={cx} y1={s*0.3} x2={cx} y2={s*0.72} stroke={emissive} strokeWidth={1.5} opacity={0.4} strokeDasharray="2 3" />
-      </>)}
-      {type === "love" && (<>
-        {[{x:cx,y:s*0.32},{x:cx-8,y:s*0.5},{x:cx+7,y:s*0.55},{x:cx-2,y:s*0.68}].map((p,i) => {
-          const r = 4-i*0.7;
-          return <path key={i} d={`M${p.x},${p.y+r} Q${p.x-r},${p.y} ${p.x},${p.y-r} Q${p.x+r},${p.y} ${p.x},${p.y+r}`} fill={color} opacity={0.75} />;
-        })}
-      </>)}
-      {type === "ghost" && (<>
-        <ellipse cx={cx} cy={s*0.45} rx={10} ry={12} fill={color} opacity={0.35} />
-        {[{x:cx-6,y:s*0.38},{x:cx+5,y:s*0.42},{x:cx-1,y:s*0.6}].map((p,i) => (
-          <circle key={i} cx={p.x} cy={p.y} r={3.5-i*0.5} fill={emissive} opacity={0.55} />
-        ))}
-      </>)}
-      {type === "lava" && (<>
-        <ellipse cx={cx} cy={s*0.65} rx={12} ry={5} fill={color} opacity={0.5} />
-        {[{x:cx-3,y:s*0.58},{x:cx+5,y:s*0.48},{x:cx-2,y:s*0.38}].map((p,i) => (
-          <ellipse key={i} cx={p.x} cy={p.y} rx={4-i} ry={6-i*1.5} fill={i===0?color:emissive} opacity={0.7} />
-        ))}
-      </>)}
-      {type === "neon" && (<>
-        {["#FF00AA","#FF00FF","#AA00FF"].map((c,i) => (
-          <ellipse key={i} cx={cx} cy={s*0.5} rx={7+i*3} ry={10+i*2} fill="none" stroke={c} strokeWidth={1.5} opacity={0.5-i*0.1} />
-        ))}
-        <circle cx={cx} cy={s*0.5} r={4} fill={emissive} opacity={0.9} />
-      </>)}
-      {type === "shadow" && (<>
-        <ellipse cx={cx} cy={s*0.5} rx={12} ry={15} fill={color} opacity={0.5} />
-        {[s*0.32,s*0.48,s*0.62].map((y,i) => (
-          <rect key={i} x={cx-8+i*2} y={y} width={16-i*2} height={2} rx={1} fill={emissive} opacity={0.5-i*0.1} />
-        ))}
-      </>)}
     </svg>
   );
 }
@@ -691,9 +247,6 @@ function starPoints(cx: number, cy: number, r: number): string {
 }
 
 export default function ShopPage() {
-  const { lang } = useLang();
-  const t = SHOP_TRANSLATIONS[lang];
-
   const [balance, setBalance] = useState(0);
   const [ownedSkins, setOwnedSkins] = useState<string[]>(["default"]);
   const [activeSkin, setActiveSkinState] = useState("default");
@@ -703,41 +256,18 @@ export default function ShopPage() {
   const [activeTrail, setActiveTrailState] = useState<string | null>(null);
   const [ownedCars, setOwnedCars] = useState<string[]>(["starter"]);
   const [activeCar, setActiveCar] = useState("starter");
-  const [tab, setTab] = useState<Tab>("skins");
+  const [tab, setTab] = useState<Tab>("cars");
   const [notification, setNotification] = useState<string | null>(null);
   const [boughtPowerUps, setBoughtPowerUps] = useState<Record<string, number>>({});
   const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
   const [selectedSkin, setSelectedSkin] = useState<SkinDef | null>(null);
   // Clothing & Face state
-  type SkinSub = "skin" | "face" | "hair" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves" | "hat" | "trail";
+  type SkinSub = "skin" | "face" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves" | "hat" | "trail";
   const [skinSub, setSkinSub] = useState<SkinSub>("skin");
   const [ownedFaces, setOwnedFaces] = useState<string[]>(["default"]);
   const [activeFaceId, setActiveFaceId] = useState("default");
-  const [ownedHairIds, setOwnedHairIds] = useState<string[]>(["hair_chestnut"]);
-  const [activeHairId, setActiveHairId] = useState<string>("hair_chestnut");
   const [clothingOwned, setClothingOwned] = useState<Record<string, string[]>>({});
   const [clothingActive, setClothingActive] = useState<Record<string, string | null>>({});
-
-  const [shopGender, setShopGender] = useState<AvatarGender>('girl');
-  const [avatarMood, setAvatarMood] = useState<'idle' | 'happy'>('idle');
-  const [avatarScaleVal, setAvatarScaleVal] = useState(1.0);
-
-  // Computed avatar props for preview
-  const previewHairDef = HAIR_STYLES.find(h => h.id === activeHairId) || null;
-  const previewSkinDef = SKINS.find(s => s.id === activeSkin) || SKINS[0];
-  const previewFaceDef = FACES.find(f => f.id === activeFaceId);
-  const previewTopDef = clothingActive.top ? TOPS.find(t => t.id === clothingActive.top) || null : null;
-  const previewBottomDef = clothingActive.bottom ? BOTTOMS.find(b => b.id === clothingActive.bottom) || null : null;
-  const previewShoeDef = clothingActive.shoe ? SHOES.find(s => s.id === clothingActive.shoe) || null : null;
-  const previewCapeDef = clothingActive.cape ? CAPES.find(c => c.id === clothingActive.cape) || null : null;
-  const previewGlassesDef = clothingActive.glasses ? GLASSES.find(g => g.id === clothingActive.glasses) || null : null;
-  const previewGlovesDef = clothingActive.gloves ? GLOVES.find(g => g.id === clothingActive.gloves) || null : null;
-  const previewHatDef = activeHat ? HATS.find(h => h.id === activeHat) || null : null;
-  const previewTrailDef = activeTrail ? TRAILS.find(t => t.id === activeTrail) || null : null;
-
-  const syncAfterPurchase = () => {
-    getUser().then(user => { if (user) uploadToSupabase(user.id).catch(() => {}); });
-  };
 
   const refreshClothing = () => {
     const slots = ["top", "bottom", "shoe", "cape", "glasses", "gloves"] as const;
@@ -760,11 +290,7 @@ export default function ShopPage() {
     setActiveCar(getActiveCarLS());
     setOwnedFaces(getOwnedFaces());
     setActiveFaceId(getActiveFace());
-    setOwnedHairIds(getOwnedHair());
-    setActiveHairId(getActiveHair());
     refreshClothing();
-    setShopGender(getGender());
-    setAvatarScaleVal(getAvatarScale());
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -793,7 +319,7 @@ export default function ShopPage() {
       setSelectedCar(null);
       return;
     }
-    if (balance < car.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < car.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(car.price);
     const newOwned = [...ownedCars, car.id];
     setOwnedCarsLS(newOwned);
@@ -801,47 +327,37 @@ export default function ShopPage() {
     setActiveCarLS(car.id);
     setActiveCar(car.id);
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
     showNotif(`${car.name} purchased!`);
     setSelectedCar(null);
   };
 
   const handleBuyPowerUp = (pu: PowerUpDef) => {
-    if (balance < pu.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < pu.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(pu.price);
     const updated = { ...boughtPowerUps, [pu.id]: (boughtPowerUps[pu.id] || 0) + 1 };
     setBoughtPowerUps(updated);
     localStorage.setItem("plizio_powerups", JSON.stringify(updated));
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.powerUpAdded);
-  };
-
-  const triggerAvatarReaction = () => {
-    setAvatarMood('happy');
-    setTimeout(() => setAvatarMood('idle'), 1200);
+    showNotif("+1 power-up!");
   };
 
   const handleBuySkin = (skin: SkinDef) => {
     if (ownedSkins.includes(skin.id)) {
       setActiveSkin(skin.id);
       setActiveSkinState(skin.id);
-      showNotif(t.notifications.skinSelected);
+      showNotif("Skin selected!");
       setSelectedSkin(null);
-      triggerAvatarReaction();
       return;
     }
-    if (balance < skin.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < skin.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(skin.price);
     buySkin(skin.id);
     setOwnedSkins(getOwnedSkins());
     setActiveSkin(skin.id);
     setActiveSkinState(skin.id);
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.skinPurchased);
+    showNotif("Skin purchased!");
     setSelectedSkin(null);
-    triggerAvatarReaction();
   };
 
   const handleBuyHat = (hat: HatDef) => {
@@ -849,25 +365,22 @@ export default function ShopPage() {
       if (activeHat === hat.id) {
         setActiveHat(null);
         setActiveHatState(null);
-        showNotif(t.notifications.hatRemoved);
+        showNotif("Hat removed");
       } else {
         setActiveHat(hat.id);
         setActiveHatState(hat.id);
-        showNotif(t.notifications.hatEquipped);
-        triggerAvatarReaction();
+        showNotif("Hat equipped!");
       }
       return;
     }
-    if (balance < hat.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < hat.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(hat.price);
     buyHat(hat.id);
     setOwnedHats(getOwnedHats());
     setActiveHat(hat.id);
     setActiveHatState(hat.id);
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.hatPurchased);
-    triggerAvatarReaction();
+    showNotif("Hat purchased!");
   };
 
   const handleBuyTrail = (trail: TrailDef) => {
@@ -875,36 +388,32 @@ export default function ShopPage() {
       if (activeTrail === trail.id) {
         setActiveTrail(null);
         setActiveTrailState(null);
-        showNotif(t.notifications.trailRemoved);
+        showNotif("Trail removed");
       } else {
         setActiveTrail(trail.id);
         setActiveTrailState(trail.id);
-        showNotif(t.notifications.trailEquipped);
-        triggerAvatarReaction();
+        showNotif("Trail equipped!");
       }
       return;
     }
-    if (balance < trail.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < trail.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(trail.price);
     buyTrail(trail.id);
     setOwnedTrails(getOwnedTrails());
     setActiveTrail(trail.id);
     setActiveTrailState(trail.id);
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.trailPurchased);
-    triggerAvatarReaction();
+    showNotif("Trail purchased!");
   };
 
   const handleBuyAbility = (ab: AbilityDef) => {
-    if (balance < ab.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < ab.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(ab.price);
     const key = `plizio_ability_${ab.id}`;
     const current = parseInt(localStorage.getItem(key) || "0");
     localStorage.setItem(key, (current + 1).toString());
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.abilityAdded);
+    showNotif("+1 ability!");
   };
 
   // ─── Face handler ─────────────────
@@ -912,49 +421,17 @@ export default function ShopPage() {
     if (ownedFaces.includes(face.id)) {
       setActiveFace(face.id);
       setActiveFaceId(face.id);
-      showNotif(t.notifications.faceSelected);
-      triggerAvatarReaction();
+      showNotif("Face selected!");
       return;
     }
-    if (balance < face.price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < face.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(face.price);
     buyFace(face.id);
     setOwnedFaces(getOwnedFaces());
     setActiveFace(face.id);
     setActiveFaceId(face.id);
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.facePurchased);
-    triggerAvatarReaction();
-  };
-
-  // ─── Hair handler ─────────────────
-  const handleHairAction = (hair: HairDef) => {
-    if (ownedHairIds.includes(hair.id)) {
-      setActiveHair(hair.id);
-      setActiveHairId(hair.id);
-      showNotif(lang === "hu" ? "Frizura aktiválva!" : lang === "de" ? "Frisur aktiviert!" : lang === "ro" ? "Coafură activată!" : "Hairstyle equipped!");
-      triggerAvatarReaction();
-      return;
-    }
-    if (balance < hair.price) { showNotif(t.notifications.notEnough); return; }
-    spendSpecialCards(hair.price);
-    buyHairStyle(hair.id);
-    setOwnedHairIds(getOwnedHair());
-    setActiveHair(hair.id);
-    setActiveHairId(hair.id);
-    setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(lang === "hu" ? "Frizura megvásárolva!" : lang === "de" ? "Frisur gekauft!" : lang === "ro" ? "Coafură cumpărată!" : "Hairstyle purchased!");
-    triggerAvatarReaction();
-  };
-
-  // ─── Gender toggle ─────────────────
-  const handleGenderToggle = (g: AvatarGender) => {
-    setGender(g);
-    setShopGender(g);
-    setAvatarMood('happy');
-    setTimeout(() => setAvatarMood('idle'), 1200);
+    showNotif("Face purchased!");
   };
 
   // ─── Clothing handler (generic) ─────────────────
@@ -966,12 +443,11 @@ export default function ShopPage() {
       if (clothingActive[slot] === itemId) {
         setActive(slot, null);
         refreshClothing();
-        showNotif(t.notifications.unequipped);
+        showNotif("Unequipped!");
       } else {
         setActive(slot, itemId);
         refreshClothing();
-        showNotif(t.notifications.equipped);
-        triggerAvatarReaction();
+        showNotif("Equipped!");
       }
       return;
     }
@@ -979,40 +455,36 @@ export default function ShopPage() {
       buyItem(slot, itemId);
       setActive(slot, itemId);
       refreshClothing();
-      showNotif(t.notifications.unlocked);
-      triggerAvatarReaction();
+      showNotif("Unlocked!");
       return;
     }
-    if (balance < price) { showNotif(t.notifications.notEnough); return; }
+    if (balance < price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(price);
     buyItem(slot, itemId);
     setActive(slot, itemId);
     refreshClothing();
     setBalance(getSpecialCardCount());
-    syncAfterPurchase();
-    showNotif(t.notifications.purchased);
-    triggerAvatarReaction();
+    showNotif("Purchased!");
   };
 
   const SKIN_SUBS: { id: SkinSub; label: string; icon: string }[] = [
-    { id: "skin", label: t.skinSubs.skin, icon: "🎨" },
-    { id: "face", label: t.skinSubs.face, icon: "😊" },
-    { id: "hair", label: t.skinSubs.hair, icon: "💇" },
-    { id: "top", label: t.skinSubs.top, icon: "👕" },
-    { id: "bottom", label: t.skinSubs.bottom, icon: "👖" },
-    { id: "shoe", label: t.skinSubs.shoe, icon: "👟" },
-    { id: "hat", label: t.skinSubs.hat, icon: "🎩" },
-    { id: "cape", label: t.skinSubs.cape, icon: "🦸" },
-    { id: "glasses", label: t.skinSubs.glasses, icon: "🕶️" },
-    { id: "gloves", label: t.skinSubs.gloves, icon: "🧤" },
-    { id: "trail", label: t.skinSubs.trail, icon: "✨" },
+    { id: "skin", label: "Skin", icon: "🎨" },
+    { id: "face", label: "Face", icon: "😊" },
+    { id: "top", label: "Top", icon: "👕" },
+    { id: "bottom", label: "Pants", icon: "👖" },
+    { id: "shoe", label: "Shoes", icon: "👟" },
+    { id: "hat", label: "Hats", icon: "🎩" },
+    { id: "cape", label: "Cape", icon: "🦸" },
+    { id: "glasses", label: "Glasses", icon: "🕶️" },
+    { id: "gloves", label: "Gloves", icon: "🧤" },
+    { id: "trail", label: "Trails", icon: "✨" },
   ];
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
-    { id: "skins", label: t.tabs.skins, icon: "🎨" },
-    { id: "cars", label: t.tabs.cars, icon: "🏎️" },
-    { id: "powerups", label: t.tabs.powerups, icon: "⚡" },
-    { id: "abilities", label: t.tabs.abilities, icon: "🏔️" },
+    { id: "cars", label: "Cars", icon: "🏎️" },
+    { id: "skins", label: "Skins", icon: "🎨" },
+    { id: "powerups", label: "Boost", icon: "⚡" },
+    { id: "abilities", label: "Skills", icon: "🏔️" },
   ];
 
   const statBar = (val: number, max: number, color: string, label: string, icon: React.ReactNode) => (
@@ -1039,7 +511,7 @@ export default function ShopPage() {
           </motion.div>
         </Link>
 
-        <h1 className="text-white font-black text-lg tracking-wide">{t.header}</h1>
+        <h1 className="text-white font-black text-lg tracking-wide">SHOP</h1>
 
         {/* Balance */}
         <motion.div className="flex items-center gap-2 bg-gradient-to-r from-[#E040FB]/10 to-[#E040FB]/5 border border-[#E040FB]/20 px-4 py-2 rounded-xl backdrop-blur-sm"
@@ -1115,7 +587,7 @@ export default function ShopPage() {
                   <div className="flex items-center gap-2">
                     <span className="text-white font-bold text-sm">{car.name}</span>
                     {isActive && (
-                      <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1.5 py-0.5 rounded-full font-black">{t.buttons.active}</span>
+                      <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1.5 py-0.5 rounded-full font-black">ACTIVE</span>
                     )}
                   </div>
                   {/* Mini stat bars */}
@@ -1132,8 +604,8 @@ export default function ShopPage() {
                   </div>
                   {/* Tags */}
                   <div className="flex gap-1 mt-1.5">
-                    {car.canDrift && <span className="text-[7px] bg-orange-500/15 text-orange-400/80 px-1.5 py-0.5 rounded font-black">{t.buttons.drift}</span>}
-                    {car.canNitro && <span className="text-[7px] bg-purple-500/15 text-purple-400/80 px-1.5 py-0.5 rounded font-black">{t.buttons.nitro}</span>}
+                    {car.canDrift && <span className="text-[7px] bg-orange-500/15 text-orange-400/80 px-1.5 py-0.5 rounded font-black">DRIFT</span>}
+                    {car.canNitro && <span className="text-[7px] bg-purple-500/15 text-purple-400/80 px-1.5 py-0.5 rounded font-black">NITRO</span>}
                     <span className="text-[7px] text-white/15 font-bold">~{Math.round(car.maxSpeed * 3.6)} km/h</span>
                   </div>
                 </div>
@@ -1145,7 +617,7 @@ export default function ShopPage() {
                       <Check size={14} className="text-[#E040FB]" />
                     </div>
                   ) : owned ? (
-                    <span className="text-white/20 text-[10px] font-bold">{t.buttons.tap}</span>
+                    <span className="text-white/20 text-[10px] font-bold">TAP</span>
                   ) : car.price === 0 ? (
                     <span className="text-green-400/70 text-[10px] font-bold">FREE</span>
                   ) : (
@@ -1190,17 +662,17 @@ export default function ShopPage() {
                 <div className="flex items-center gap-3 mb-1">
                   <h2 className="text-white font-black text-xl">{selectedCar.name}</h2>
                   <div className="flex gap-1">
-                    {selectedCar.canDrift && <span className="text-[8px] bg-orange-500/20 text-orange-400 px-2 py-0.5 rounded-full font-black">{t.buttons.drift}</span>}
-                    {selectedCar.canNitro && <span className="text-[8px] bg-purple-500/20 text-purple-400 px-2 py-0.5 rounded-full font-black">{t.buttons.nitro}</span>}
+                    {selectedCar.canDrift && <span className="text-[8px] bg-orange-500/20 text-orange-400 px-2 py-0.5 rounded-full font-black">DRIFT</span>}
+                    {selectedCar.canNitro && <span className="text-[8px] bg-purple-500/20 text-purple-400 px-2 py-0.5 rounded-full font-black">NITRO</span>}
                   </div>
                 </div>
-                <p className="text-white/30 text-xs leading-relaxed mb-4">{t.carDescriptions[selectedCar.id] || selectedCar.desc}</p>
+                <p className="text-white/30 text-xs leading-relaxed mb-4">{selectedCar.desc}</p>
 
                 {/* Stats */}
                 <div className="flex flex-col gap-2.5 mb-5">
-                  {statBar(selectedCar.maxSpeed, 45, "#00FF88", t.carStats.spd, <Gauge size={12} />)}
-                  {statBar(selectedCar.accel, 30, "#00D4FF", t.carStats.acc, <Flame size={12} />)}
-                  {statBar(selectedCar.handling, 3.5, "#FFD700", t.carStats.hdl, <Cog size={12} />)}
+                  {statBar(selectedCar.maxSpeed, 45, "#00FF88", "SPD", <Gauge size={12} />)}
+                  {statBar(selectedCar.accel, 30, "#00D4FF", "ACC", <Flame size={12} />)}
+                  {statBar(selectedCar.handling, 3.5, "#FFD700", "HDL", <Cog size={12} />)}
                 </div>
 
                 {/* Action button */}
@@ -1223,7 +695,7 @@ export default function ShopPage() {
                         color: owned ? selectedCar.color : "#fff",
                       }}
                       whileTap={{ scale: 0.97 }}>
-                      {owned ? t.buttons.select : selectedCar.price === 0 ? t.buttons.unlockFree : (
+                      {owned ? "Select" : selectedCar.price === 0 ? "Unlock Free" : (
                         <span className="flex items-center justify-center gap-1.5">
                           Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedCar.price}
                         </span>
@@ -1239,70 +711,6 @@ export default function ShopPage() {
 
       {/* ═══════ SKINS TAB (with sub-categories) ═══════ */}
       {tab === "skins" && (<>
-        {/* ── Live 3D Avatar Preview ── */}
-        <div className="w-full max-w-md bg-white/[0.03] border border-white/8 rounded-2xl overflow-hidden">
-          <div className="flex items-center">
-            {/* Avatar canvas — with orbit controls for 360° view */}
-            <div className="w-40 h-40 flex-shrink-0">
-              <AvatarCompanion
-                mood={avatarMood}
-                fixed={false}
-                gender={shopGender}
-                activeSkin={previewSkinDef}
-                activeFace={previewFaceDef}
-                activeTop={previewTopDef}
-                activeBottom={previewBottomDef}
-                activeShoe={previewShoeDef}
-                activeCape={previewCapeDef}
-                activeGlasses={previewGlassesDef}
-                activeGloves={previewGlovesDef}
-                activeHat={previewHatDef}
-                activeTrail={previewTrailDef}
-                activeHair={previewHairDef}
-                orbitControls
-              />
-            </div>
-            {/* Info + gender switch */}
-            <div className="flex-1 px-3 py-3 flex flex-col gap-2">
-              <span className="text-white/60 text-xs font-bold">{t.preview.title}</span>
-              <div className="flex gap-1.5">
-                <button
-                  onClick={() => handleGenderToggle('girl')}
-                  className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'girl' ? 'bg-[#E040FB]/15 border-[#E040FB]/40 text-[#E040FB]' : 'border-white/10 text-white/30'}`}
-                >
-                  <Venus size={11} /> {t.preview.girl}
-                </button>
-                <button
-                  onClick={() => handleGenderToggle('boy')}
-                  className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'boy' ? 'bg-[#00D4FF]/15 border-[#00D4FF]/40 text-[#00D4FF]' : 'border-white/10 text-white/30'}`}
-                >
-                  <Mars size={11} /> {t.preview.boy}
-                </button>
-              </div>
-              <div className="text-[10px] text-white/20 leading-tight">
-                {t.preview.hint}
-              </div>
-              {/* Avatar size slider */}
-              <div className="flex items-center gap-2 mt-1">
-                <span className="text-[9px] text-white/30 font-bold shrink-0">{t.preview.size}</span>
-                <input
-                  type="range"
-                  min={60}
-                  max={140}
-                  value={Math.round(avatarScaleVal * 100)}
-                  onChange={(e) => {
-                    const v = parseInt(e.target.value) / 100;
-                    setAvatarScaleVal(v);
-                    setAvatarScale(v);
-                  }}
-                  className="flex-1 h-1 accent-[#E040FB] cursor-pointer"
-                />
-                <span className="text-[9px] text-white/30 font-mono w-7 text-right">{Math.round(avatarScaleVal * 100)}%</span>
-              </div>
-            </div>
-          </div>
-        </div>
-
         {/* Sub-tabs */}
         <div className="flex gap-1 overflow-x-auto max-w-md w-full pb-1 scrollbar-hide">
           {SKIN_SUBS.map(s => (
@@ -1327,9 +735,9 @@ export default function ShopPage() {
                   style={active ? { boxShadow: `0 0 20px ${skin.emissive}20` } : undefined}
                   whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
                   <SkinPreview skin={skin} size={52} />
-                  <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? (lang === "en" ? "Classic" : lang === "hu" ? "Alap" : lang === "de" ? "Klassisch" : "Clasic") : skin.id}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />{t.buttons.active}</span>
-                    : owned ? <span className="text-white/20 text-[8px] font-bold">{t.buttons.tap}</span>
+                  <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? "Classic" : skin.id}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{skin.price}</span>}
                 </motion.button>
               );
@@ -1350,53 +758,12 @@ export default function ShopPage() {
                   whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
                   <div className="text-3xl">{face.icon}</div>
                   <span className="text-white/50 text-[9px] font-bold">{face.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />{t.buttons.active}</span>
-                    : owned ? <span className="text-white/20 text-[8px] font-bold">{t.buttons.tap}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{face.price}</span>}
                 </motion.button>
               );
             })}
-          </motion.div>
-        )}
-
-        {/* ── Hair sub ── */}
-        {skinSub === "hair" && (
-          <motion.div className="w-full max-w-md" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            <div className="grid grid-cols-4 gap-2">
-              {HAIR_STYLES.map((hair, idx) => {
-                const owned = ownedHairIds.includes(hair.id);
-                const active = activeHairId === hair.id;
-                const isRainbow = hair.id === "hair_rainbow";
-                return (
-                  <motion.button key={hair.id} onClick={() => handleHairAction(hair)}
-                    className={`flex flex-col items-center gap-1.5 p-2 rounded-2xl border transition-all ${active ? "border-[#E040FB]/50 bg-[#E040FB]/10" : owned ? "border-white/15 bg-white/3" : "border-white/5 bg-transparent"}`}
-                    whileTap={{ scale: 0.93 }} initial={{ opacity: 0, scale: 0.85 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.015 }}>
-                    {/* Color swatch */}
-                    <div className="relative w-9 h-9 rounded-full overflow-hidden border-2 flex items-center justify-center shrink-0"
-                      style={{
-                        background: isRainbow
-                          ? "conic-gradient(#FF0000, #FF8800, #FFFF00, #00FF00, #0088FF, #8800FF, #FF0000)"
-                          : hair.color,
-                        borderColor: active ? "#E040FB" : owned ? hair.color + "60" : "rgba(255,255,255,0.1)",
-                        boxShadow: active ? `0 0 10px ${hair.color}50` : undefined,
-                      }}>
-                      {hair.highlight && !isRainbow && (
-                        <div className="absolute top-0 left-0 right-0 h-1/2 rounded-t-full opacity-40"
-                          style={{ background: `linear-gradient(180deg, ${hair.highlight}, transparent)` }} />
-                      )}
-                      {active && <div className="absolute inset-0 flex items-center justify-center"><Check size={14} className="text-white drop-shadow-md" /></div>}
-                    </div>
-                    <span className="text-[8px] font-bold text-white/50 leading-tight text-center">{hair.name.split(" ").slice(-1)[0]}</span>
-                    {!owned && hair.price > 0 && (
-                      <span className="text-[7px] font-black text-[#E040FB] flex items-center gap-0.5">
-                        <Star size={6} fill="#E040FB" />{hair.price}
-                      </span>
-                    )}
-                    {owned && !active && <span className="text-[7px] text-white/20 font-bold">EQUIP</span>}
-                  </motion.button>
-                );
-              })}
-            </div>
           </motion.div>
         )}
 
@@ -1417,7 +784,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1444,7 +811,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1471,7 +838,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1495,7 +862,7 @@ export default function ShopPage() {
                   <div className="text-2xl">{item.icon}</div>
                   <span className="text-white/50 text-[9px] font-bold">{item.name}</span>
                   <div className="w-8 h-12 rounded-md" style={{ background: `linear-gradient(180deg, ${item.color}, ${item.color}80)`, boxShadow: `0 0 8px ${item.emissive}30` }} />
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1521,7 +888,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1546,7 +913,7 @@ export default function ShopPage() {
                   <div className="flex-1 min-w-0 text-left">
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                   </div>
-                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1571,7 +938,7 @@ export default function ShopPage() {
                     <HatPreview type={hat.type} color={hat.color} emissive={hat.emissive} size={48} />
                   </div>
                   <span className="text-white/50 text-[9px] font-bold">{hat.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{hat.price}</span>}
                 </motion.button>
@@ -1596,7 +963,7 @@ export default function ShopPage() {
                     <TrailPreview type={trail.type} color={trail.color} emissive={trail.emissive} size={48} />
                   </div>
                   <span className="text-white/50 text-[9px] font-bold">{trail.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{trail.price}</span>}
                 </motion.button>
@@ -1649,7 +1016,7 @@ export default function ShopPage() {
                       className="w-full py-3 rounded-xl font-bold text-sm border transition-all"
                       style={{ background: owned ? `${selectedSkin.emissive}15` : `linear-gradient(135deg, ${selectedSkin.emissive}30, ${selectedSkin.emissive}10)`, borderColor: `${selectedSkin.emissive}30`, color: owned ? selectedSkin.emissive : "#fff" }}
                       whileTap={{ scale: 0.97 }}>
-                      {owned ? t.buttons.select : selectedSkin.price === 0 ? t.buttons.free : (
+                      {owned ? "Select" : selectedSkin.price === 0 ? "Free" : (
                         <span className="flex items-center justify-center gap-1.5">Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedSkin.price}</span>
                       )}
                     </motion.button>

@@ -2,278 +2,44 @@
 
 ## Repo struktúra
 
+A repo tisztán van szervezve:
 - **Forráskód**: `app/`, `components/`, `lib/`, `data/`, `public/`
 - **Build output**: `out/` mappa (ez megy a szerverre `public_html/`-be)
 - A gyökérben NEM lehetnek build output fájlok (index.html, _next/, stb.)
-- **Részletes dokumentáció más játékokhoz:** `CLAUDE-ARCHIVE.md` (NE olvasd be automatikusan!)
-
-## Alapszabályok
-
-- `npm run build` **NEM MŰKÖDIK**, mindig `npx next build`
-- `output: "export"` → statikus export, nincs szerver
-- Language: `"hu" | "de" | "en" | "ro"`, `useLang()` hook
-- **NE használj `opengraph-image.tsx`-et** static exportnál
-- **Avatar + scale:0 animáció TILOS** — Three.js canvas törik
-- **RelatedGames komponens** — EL VAN TÁVOLÍTVA, NE ADD VISSZA
-- **Szöveg szín minimum:** fő szöveg `text-white/80`, másodlagos `text-white/60`, TILOS `text-white/20-40`
 
 ## SSH Pull + Deploy parancs minden feladat végén
 
-A user a `~/public_html` mappában van SSH-n.
+**FONTOS:** Minden feladat befejezésekor küldj a felhasználónak egy copy-paste kész parancsot, amivel:
+1. Lehúzza a friss fájlokat gitből
+2. Deployolja a `public_html/` mappába
 
-**1. parancs - Git pull (out mappa lehúzása):**
+Formátum:
 ```bash
+# 1. Fájlok lehúzása gitből:
 git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
-```
 
-**2. parancs - Deploy (out tartalmának kimásolása):**
-```bash
-rm -rf _next next_static && cp -r out/* . && mv _next next_static && rm -rf out
+# 2. Deploy a public_html-be:
+rm -rf ~/public_html/_next && cp -r out/* ~/public_html/
 ```
 
 Szabályok:
 - A branch neve mindig az aktuális fejlesztési branch legyen
-- MINDIG ezt a 2 parancsot küldd, semmi mást
-- Minden push után küldd el mindkét parancsot
+- Az `out/` mappát MINDIG egészben húzd le (ne fájlonként)
+- Ha forráskód fájlok is változtak, azokat is sorold fel külön
+- Minden push után küldd el a teljes pull+deploy parancsot
 
 ## Out mappa szinkron (public_html deploy)
 
+**FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
+
 Minden feladat végén:
-1. `npx next build` (`npm run build` nem működik)
+1. Futtasd le a `npm run build` parancsot
 2. Az `out/` mappa automatikusan generálódik
 3. Commitold és pushold az `out/` mappát is
 
-- **NE használj `git add -f out/`** — simán `git add out/` elegendő
-- Deploy parancsban töröld a régi `_next/` és `next_static/` mappát először
-- Az `/out/` NEM lehet a `.gitignore`-ban!
-
----
-
-## GRAVITAS — Űrállomás menedzsment játék
-
-> Route: `/gravitas` | Állapot: **aktív fejlesztés** (2026-04)
-> Koncepció: valós idejű űrállomás-kezelés, modulok, fenyegetések, avatar, warroom
-
-### Fájlstruktúra és sorhosszak
-
-| Fájl | Sorok | Leírás |
-|------|-------|--------|
-| `app/gravitas/page.tsx` | ~1770 | Fő UI: state, HUD, header, game view, minibuttons, bottom bar |
-| `components/gravitas/GravitasOverlays.tsx` | ~377 | Panel overlay-ek (modules/marks/upgrades/journal) + resource help + command deck |
-| `components/gravitas/GravitasUiParts.tsx` | ~400 | Közös UI komponensek (HUDChip, MapMiniButton, MiniActionButton, MarkBox stb.) |
-| `components/gravitas/GravitasInteriors.tsx` | ~380 | Modul belső nézetek (reactor, sensor, core, logistics) + ModuleArtOverlay |
-| `components/gravitas/ModuleInteriorPanel.tsx` | ~225 | Egyedi modul panel (level, integrity, upgrade) — beágyazva minden interior view-ba |
-| `components/gravitas/ModuleUpgradePanel.tsx` | ~207 | Összesített modul fejlesztés panel |
-| `components/gravitas/map/GalaxyMapView.tsx` | ~856 | Új backend-alapú galaxis térkép (pan/zoom, fleet, antimatter HUD) |
-| `components/gravitas/GalaxyInteriorView.tsx` | ~700 | Legacy galaxis térkép (meteorit bányászat, fallback) |
-| `components/gravitas/GravitasMaterialStrip.tsx` | ~80 | HUD anyag csík (6 meteor anyag) |
-| `components/gravitas/warroom/` | mappa | WarRoomPanel.tsx, WarRoomUnitCard.tsx |
-| `components/gravitas/GravitasShop.tsx` | ~230 | Régi bolt-keret, jelenleg Csillagkamra / különleges rendszer hub |
-| `components/gravitas/GravitasImprint.tsx` | ~220 | Avatar imprint hold UI |
-| `components/gravitas/AwakeningCeremony.tsx` | ~140 | Avatar ébredési ceremónia |
-| `lib/gravitas/economy.ts` | ~351 | **KÖZPONTI** ár/költség konfig — MINDEN ár itt van |
-| `lib/gravitas/sim/types.ts` | ~295 | State típusok, command union |
-| `lib/gravitas/sim/registry.ts` | ~143 | Modul registry (single source of truth) |
-| `lib/gravitas/sim/commands.ts` | ~979 | Parancs kezelés (applyStarholdCommand) |
-| `lib/gravitas/sim/tick.ts` | ~785 | Tick engine (advanceStarholdTick) |
-| `lib/gravitas/sim/persistence.ts` | ~240 | Mentés/betöltés, migráció |
-| `lib/gravitas/sim/createInitialState.ts` | ~214 | Kezdő state (demo + continuation) |
-| `lib/gravitas/sim/events.ts` | ~1400 | Eseményrendszer |
-| `lib/gravitas/sim/threats.ts` | ~400 | Fenyegetés rendszer |
-| `lib/gravitas/sim/content.ts` | ~2300 | Összes szöveg (4 nyelv) |
-| `lib/gravitas/sim/warroom/types.ts` | ~42 | Warroom típusok |
-| `lib/gravitas/sim/warroom/units.ts` | | Egység definíciók |
-| `lib/gravitas/sim/warroom/production.ts` | | Gyártás logika |
-
-### Kulcs típusok (types.ts)
-
-```ts
-StarholdModuleId = "reactor" | "logistics" | "core" | "sensor"  // warroom NEM!
-UpgradableModuleId = "reactor" | "logistics" | "core" | "sensor" | "warroom"  // economy.ts-ben
-StarholdPhase = "boot" | "activation" | "awakened"
-StarholdChapterId = "demo" | "continuation"
-```
-
-**StarholdState kulcs mezők:**
-- `moduleLevels: { reactor, logistics, core, sensor, warroom: number }` — modul szintek (1-25)
-- `upgradeQueue: ModuleUpgradeSlot[]` — aktív fejlesztések (valós idő!)
-- `upgradeSlotCount: number` — párhuzamos slotok (default 1, max 5)
-- `modules: Record<StarholdModuleId, StarholdModuleState>` — 4 modul state
-- `warRoom: WarRoomState` — **külön** (NEM modules-ben!)
-- `resources: { power, materials, stability, activation }`
-- `marks: { reactorScar, shellStrain, supplyStress, voidEcho }`
-- `threat: StarholdThreatState` — countdown, type, intensity, fortified/dampened/intercepted
-- `progression: { stars, completedMilestones, unclaimedMilestones, unlockedItems }`
-
-**ModuleUpgradeSlot:** `{ moduleId, targetLevel, startedAt: number, completesAt: number }` — Date.now() alapú!
-
-**StarholdCommand union (28 típus):** SCAVENGE, STABILIZE_REACTOR, REPAIR_MODULE, REROUTE_TO_CORE, CHANNEL_TO_CORE, DISTORTION_SWEEP, PURGE_ANOMALY, OVERCLOCK_REACTOR, OPTIMIZE_LOGISTICS, DEEP_SCAN, FORTIFY_SHELL, DAMPEN_SIGNALS, INTERCEPT_THREAT, PREDICT_THREAT, EMERGENCY_VENT, TUNE_SHIELDS, EMERGENCY_DISCHARGE, RAPID_FABRICATION, AVATAR_PULSE, CLAIM_MILESTONE, BUY_ITEM, ACKNOWLEDGE_PHASE_SHIFT, RESOLVE_EVENT, CHANNEL_AVATAR_IMPRINT, RESET_AVATAR_IMPRINT, TRAIN_UNIT, CANCEL_TRAINING, UPGRADE_MODULE
-
-### page.tsx State és UI struktúra
-
-**State változók (line ~106-122):**
-```ts
-const [state, dispatch] = useReducer(reducer, undefined, createInitialStarholdState);
-const [selectedModule, setSelectedModule] = useState<StarholdModuleId>("reactor");
-const [shopOpen, setShopOpen] = useState(false);
-const [activePanel, setActivePanel] = useState<"modules"|"marks"|"journal"|"activation"|"upgrades"|null>(null);
-const [interiorView, setInteriorView] = useState<StarholdModuleId|"galaxy"|"warroom"|null>(null);
-const [moduleInfoOpen, setModuleInfoOpen] = useState(false);
-const [quickActionsOpen, setQuickActionsOpen] = useState(false);
-```
-
-**doAction (line ~153):** `(command: StarholdCommand, color: string) => void` — dispatch + flash
-**handleSelectModule (line ~166):** module kattintás → interiorView közvetlenül nyitja
-**handleOpenWarRoom (line ~176):** warroom-ot közvetlenül nyitja
-
-**UI layout:**
-- `<header>`: Back link, phase badge, chapter badge, galaxy btn, shop btn, reset btn
-- HUD rows: Row1 = stats chips (power/mat/stab/entropy/activation), Row2 = GravitasMaterialStrip
-- Game View: 3D scene / fallback, ModuleArtOverlay, interior views, minibuttons, bottom bar
-- GravitasOverlays: panels + event card + game over screen
-
-**Minibutton column (`absolute right-3 top-16 z-[32]`):**
-| Sorrend | Ikon | Panel/Action |
-|---------|------|-------------|
-| 1 | LayoutGrid | modules panel |
-| 2 | ShieldHalf | marks panel |
-| 3 | ArrowUpCircle | upgrades panel |
-| 4 | FileText | journal panel |
-| 5 | Radar | galaxy interiorView |
-| 6 | Layers | quickActionsOpen (command deck) |
-
-**Interior views:** galaxy, sensor, reactor, core, logistics, warroom — mindegyik `absolute inset-0 z-[28]`
-- Kattintás bármelyik modulra → közvetlenül megnyílik az interiorView (nem popup)
-- Minden interior view tartalmazza a ModuleInteriorPanel-t (level, integrity, upgrade)
-
-### GravitasOverlays.tsx struktúra (~377 sor)
-
-**Overlay-ek sorrendben:**
-1. **ResourceHelp**: `resourceHelpOpen` → modal
-2. **AvatarBase**: `avatarBaseOpen` → imprint ágak
-3. **CommandDeck**: `quickActionsOpen` → összes gyors parancs
-4. **Panel container**: `activePanel` → slide-up panel (modules/marks/upgrades/journal)
-5. **PendingEvent**: `state.pendingEvent` → anomaly/avatar prep card
-6. **GameOver**: `showGameOver` → station lost screen
-
-### Economy rendszer (economy.ts — ~351 sor)
-
-**6 meteor anyag (GalaxyMaterialId):**
-| ID | Rövidítés | ~Gyűjtés/óra | Ritkaság |
-|----|-----------|-------------|---------|
-| lumen_dust | LD | 100 | gyakori |
-| verdant_crystals | VC | 82 | gyakori |
-| aether_ore | AO | 66 | közepes |
-| ember_shards | ES | 52 | ritka |
-| sable_alloy | SA | 38 | ritka |
-| rift_stone | RS | 26 | nagyon ritka |
-
-**Modul költség profilok:** reactor=ES+LD, logistics=VC+LD, core=AO+LD, sensor=VC+AO, warroom=SA+LD
-**Költség görbe:** `20 × 1.35^(level-1)` primary, secondary lv6+, rare lv14+
-**Építési idő:** Core: 1nap→7nap lineáris, Többi: 12h→3.5nap lineáris
-
-**Fő API-k:** `getLevelCost(moduleId, targetLevel)`, `canUpgradeModule(moduleId, levels, inventory)`, `isModuleInDanger(moduleId, levels)`
-**Upgrade slot:** `UPGRADE_SLOT_CONFIG = { baseSlots: 1, maxSlots: 5 }`
-**Warroom garrison:** `garrisonBase:10 + (level-1)×40` → lv25: ~970
-
-### Warroom (standalone, NEM StarholdModuleId!)
-
-```ts
-WarRoomState = { level, online, productionSlot, garrison: Record<WarRoomUnitId, number> }
-WarRoomUnitId = "militia" | "ranger" | "shieldbearer" | "scout_drone"
-```
-- `state.warRoom` — NEM `state.modules.warroom`!
-- `warRoom.online` flag — saját toggle
-- interiorView === "warroom" → WarRoomPanel render
-
-### localStorage
-
-| Kulcs | Tartalom |
-|-------|---------|
-| `gravitas_save_v2_${username}` | Teljes StarholdState JSON |
-| `gravitas_save_v1` | Fallback régi mentés |
-| `plizio_galaxy_inventory` | `Record<GalaxyMaterialId, number>` — meteor anyagok |
-
-### Fejlesztési szabályok
-
-1. **economy.ts = egyetlen igazság** — MINDEN ár, költség, görbe IDE kerül
-2. **registry.ts = modul lista igazsága** — `getModuleIds()` használata hardcoded tömbök helyett
-3. **Warroom standalone** — NEM `StarholdModuleId`, saját `state.warRoom`
-4. **Upgrade = valós idő** — `Date.now()` nem tick, így bezárt játék közben is fut
-5. **doAction(cmd, color)** — overlays-ban wrapper kell: `(cmd) => doAction(cmd, "rgba(…)")`
-6. **Panel bővítés minta:** (1) activePanel union-ba, (2) minibutton hozzáadás, (3) header ikon, (4) content section
-
-### GRAVITAS OPERATÍV MEMÓRIA (tokenkímélő gyorsindítás)
-
-**Minimál olvasási sorrend (prioritás):**
-1. `CLAUDE.md` (ez a Gravitas blokk + ez a memória rész)
-2. `components/gravitas/GravitasInteriors.tsx` (ha layout/asset kérés)
-3. `app/gravitas/page.tsx` (ha panel/nav/interior wiring kérés)
-4. `lib/gravitas/economy.ts` + `lib/gravitas/sim/*` (ha ár, upgrade, tick, command kérés)
-
-**Aktív ModuleArtOverlay asset map (forrás: GravitasInteriors.tsx):**
-- reactor -> `/gravitas/modules/reactor-luminous.webp`
-- logistics -> `/gravitas/modules/logistics-hub-v3.webp`
-- sensor -> `/gravitas/modules/sensor-probe.webp`
-- core -> `/gravitas/modules/core-crystal-v2.webp`
-- repair-bay (dekor) -> `/gravitas/modules/repair-station-v2.webp`
-- warroom entry -> `/gravitas/modules/command-deck.webp`
-
-**Fontos UI viselkedés (aktuális):**
-- Mobilon a ModuleArtOverlay nagy, scroll/pan jellegu stage-et használ (`overflow-auto`, nagyított canvas).
-- Desktopon kompakt, középre rendezett klaszter marad (`sm:*` pozicionálás).
-- `warroom` NEM `StarholdModuleId`, de az overlayben külön entry van; kattintás `onOpenWarRoom` ágra megy.
-- A material csík 2 sorra törhet mobilon (`GravitasMaterialStrip` + page HUD wiring).
-
-**Asset csere szabály (stabilitás):**
-- Új modulképnél preferált út: új verziószámos fájlnév (`*-v2`, `*-v3`) + source csere.
-- Nyers, feltöltött PNG-k maradhatnak repo gyökérben munkaanyagként; runtime a `public/gravitas/modules/*` fájlokat használja.
-
-**Gyors ellenőrzési lista (Gravitas vizuális patch után):**
-- Desktop: modulok egymáshoz képest olvasható klaszterben vannak, nincs kritikus overlap.
-- Mobil: modulok láthatók, elérhetők scroll/pan mellett, nincs levágott fő elem.
-- Warroom belépés: command-deck assetről nyitható, panel renderel.
-- Galaxy: drón mission ciklus megy (`traveling -> mining -> returning -> clear`).
-
-### Új rendszerek (2026)
-- **Értesítési rendszer (Notifications):** queue-olt események (alert hook), max 20 item, 5 perc után auto-dismiss.
-- **Kódex (Codex):** játékbeli enciklopédia, lore és mechanikai tudás-morzsák (read/unread state).
-- **Krónika / Archívum:** fontos események visszanézhető archívuma (battle, fleet, trade, expedition, rewards, alerts). Nem spam-log.
-- **Csillagkamra:** a régi shop-keret helyett különleges rendszerek hubja. Csillaggal feloldható és nyersanyaggal karbantartható mobilitási / support / access / cohesion / special itemek.
-- **Napi Feladatok:** 7 napos rotációs feladatkészlet, opcionális, csillagot és ritka extra jutalmat adhat.
-- **Tiszti rendszer (Officers):** toborozható hősök trait-ekkel (Tactician, Brute, stb.). XP-t kapnak, a csaták után megsebesülhetnek (4h cooldown) vagy meg is halhatnak (permadeath).
-- **Frakció Háborúk (Faction Wars):** 48 óránként generálódó 24 órás konfliktusok NPC frakciók között. A játékos "intervene" módban sereget küldhet, oldalt választva (+20/-20 reputáció). 61+ reputációnál egyedi szövetséges egységek válnak elérhetővé (pl. Velari Shadow, Synthoid Titan).
-- **Expedíciók (Expeditions):** mélyűri küldetések (4h, 12h, 24h, 72h). Flotta + tiszt + ellátmány kell hozzá. A Sensor szint (1/3/5/8) gate-eli a távokat. RNG alapú narratív események út közben (safe, discovery, reward, danger, disaster).
-- **Ledger / Reservation:** központi unit foglalási réteg, amely a fleet/expedition/battle felhasználást egységesíti. `available / reserved / traveling / working / returning / wounded / lost` bontás.
-- **Trade rendszer:** anyag-alapú barter, seedelt ajánlatgenerálással, partnerType/routeType enumokkal és tick-alapú tranzit állapottal.
-- **Csata Visszajátszás (Battle Replay):** részletes, lépésről-lépésre (turn-by-turn) vizualizáció az automata csaták elemzéséhez.
-- **Javítóműhely (Repair Bay):** visszatérő sebesült egységek korlátozott ideig javíthatók alapanyagokért, ha a Core szintjétől függő decay idő letelik, a sebesültek meghalnak.
-- **Rotációs Csillagkamra kínálat:** napi és heti ajánlatok / unlockok, külön csillag + nyersanyag / charge árképzéssel.
-- **Offline Progress:** a gameplay továbbra is tick-alapú, az offline catch-up wall-clock időből számolódik, majd a sim állapotba fordul vissza. A meta/UI időbélyegek maradhatnak `Date.now()`-on, de a mission/fleet/cooldown timing ne keveredjen.
-
-### Aktuális Gravitas UI/Backend contract (2026-04)
-
-- **Fő játékidő:** `state.tick` a canonical gameplay időalap. Fleet ETA, mission resolve, trade/travel, repair, research és cooldown timing erre épüljön.
-- **Valós idő:** `Date.now()` csak offline restore, persistence meta és legacy/UI időbélyegek esetén maradhat.
-- **Csillagkamra elérés:** a jobb oldali “Kamra” gomb nyitja; a panelen külön tabok lehetnek (Mobility, Support, Access, Cohesion, Specials, Daily/Weekly Rotation).
-- **Krónika elérés:** a backend archivál fontos eseményeket, a UI csak olvassa és szűrve jeleníti meg.
-- **Action feedback:** a map / expedition / trade flow rövid, tömör backend feedbacket adjon; a UI ne találjon ki szabályt.
-- **Fleet picker / ledger:** az expedition és galaxy dispatch mindig a ledgeren át foglaljon, ugyanaz az egység ne legyen több missionben.
-- **Legacy islandek:** a `GalaxyInteriorView` és hasonló fallback panelek maradhatnak átmenetileg, de új gameplay szabályt ne építsünk rájuk.
-
-### Gravitas Game Core Design Philosophy (CRITICAL RULES)
-1. **Semmi nem lehet egyszerű (Nothing should be simple)** — Ha egy játékos 1 nap alatt kitanulja, az rossz. Minden rendszernek hetekig tartó mélysége kell legyen.
-2. **Minden összefügg (Everything is interconnected)** — Modul szintek hatnak a harcra, avatar válaszai a szinergiákra, a warroom a frakciókra.
-3. **A játékos felelőssége legyen (It's the player's responsibility)** — A rendszer sosem dönt helyette; a játékos dönt és viseli a következményeket (ha nem gyógyít sebesültet -> meghal).
-4. **Először single, de multi-ready architektúra (Singleplayer first, but multi-ready)** — Amit a gép / AI tesz most, azt később egy másik játékos fogja tenni.
-5. **Nem pay-to-win (Not pay-to-win)** — Az idő és a tudás (kódex/taktika) számít, nem a pénz.
-6. **Narratív, nem számos (Narrative, not numerical)** — A játékos ne nyers statisztikákat (HP számokat) lásson az UI-n, hanem történetet és leírást, ami mögött mély és komplex matek lapul.
-
-### Szigorú TypeScript és Architektúra Szabályok
-- **Dinamikus import TILOS (`import()`):** Mindig használj statikus importot (`import { fn } from "./path"`).
-- **TS ellenőrzés futtatása memórialimittel:** `NODE_OPTIONS="--max-old-space-size=4096" npx tsc --noEmit`. (Több ezer soros fájlok oom-ot okozhatnak natív TS runnál).
-- **Kód duplikáció kerülése:** Ne másolj be nagy blokkokat `page.tsx` és `tick.ts` fájlokban.
-- **Valós idő (Real-time timers):** `Date.now()` csak offline restore / persistence meta / legacy UI timer esetén. Gameplay-hez, fleet ETA-hoz, mission resolve-hoz, cooldownhoz és tranzithoz `state.tick` az elsődleges.
-- **LocalizedString objektum:** Mindig tartalmaznia kell mind a 4 nyelvet (`{ en, hu, de, ro }`).
-- **Ikonok:** Kizárólag `lucide-react`.
-- **Állapot struktúra (State):** Ha módosítod a `StarholdState`-et, KÖTELEZŐ frissíteni a `demo` és `continuation` állapotokat a `createInitialState.ts`-ben, ÉS le kell kezelni a backward-kompatibilis fallback-et a `persistence.ts`-ben.
+Szabályok:
+- Minden kód módosítás után MINDIG buildelj (`npm run build`)
+- Az `out/` mappát MINDIG commitold és pushold
+- A deploy parancsban MINDIG töröld a régi `_next/` mappát először (`rm -rf ~/public_html/_next`)
+  - Ez azért fontos, mert a JS chunk fájlnevek minden buildnél változnak
+  - Ha nem törlöd, régi és új chunk fájlok keverednek, és elromlik az oldal

@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef, useMemo, useCallback } from "react"
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, Trophy, Lock, Check, Eye } from "lucide-react";
+import { ArrowLeft, Trophy, Lock, Check } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
@@ -470,289 +470,17 @@ function CarMesh({ color, tilt }: { color: string; tilt?: number }) {
 }
 
 // ═══════════════════════════════════════════════
-//  TIRE WALLS
-// ═══════════════════════════════════════════════
-function TireWalls({ curve, width, segments }: { curve: THREE.CatmullRomCurve3; width: number; segments: number }) {
-  const pts = useMemo(() => curve.getSpacedPoints(segments), [curve, segments]);
-  const walls = useMemo(() => {
-    const result: { x: number; y: number; z: number; angle: number; side: number }[] = [];
-    for (let i = 0; i < pts.length; i += 30) {
-      const p = pts[i];
-      const t = curve.getTangentAt((i % segments) / segments);
-      const n = new THREE.Vector3(-t.z, 0, t.x).normalize();
-      const ang = Math.atan2(t.x, t.z);
-      // outer barrier side (positive normal direction)
-      result.push({ x: p.x + n.x * (width / 2 + 1.2), y: 0, z: p.z + n.z * (width / 2 + 1.2), angle: ang, side: 1 });
-    }
-    return result;
-  }, [pts, curve, segments, width]);
-
-  return (
-    <>
-      {walls.map((w, i) => (
-        <group key={i} position={[w.x, w.y, w.z]} rotation={[0, w.angle, 0]}>
-          {/* Bottom tire */}
-          <mesh position={[0, 0.35, 0]} rotation={[Math.PI / 2, 0, 0]}>
-            <cylinderGeometry args={[0.6, 0.6, 0.5, 10]} />
-            <meshStandardMaterial color="#222222" roughness={0.9} />
-          </mesh>
-          {/* Inner ring bottom */}
-          <mesh position={[0, 0.35, 0]} rotation={[Math.PI / 2, 0, 0]}>
-            <torusGeometry args={[0.35, 0.1, 6, 10]} />
-            <meshStandardMaterial color="#444444" />
-          </mesh>
-          {/* Top tire */}
-          <mesh position={[0, 1.0, 0]} rotation={[Math.PI / 2, 0, 0]}>
-            <cylinderGeometry args={[0.6, 0.6, 0.5, 10]} />
-            <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
-          </mesh>
-          {/* Inner ring top */}
-          <mesh position={[0, 1.0, 0]} rotation={[Math.PI / 2, 0, 0]}>
-            <torusGeometry args={[0.35, 0.1, 6, 10]} />
-            <meshStandardMaterial color="#333333" />
-          </mesh>
-        </group>
-      ))}
-    </>
-  );
-}
-
-
-// ═══════════════════════════════════════════════
-//  DRIFT SMOKE (3D particle pool)
-// ═══════════════════════════════════════════════
-const SMOKE_COUNT = 12;
-interface SmokePart { x: number; z: number; y: number; opacity: number; scale: number; life: number; active: boolean; }
-
-function DriftSmoke3D({ hudRef, playerPosRef }: {
-  hudRef: React.RefObject<RaceHud>;
-  playerPosRef: React.RefObject<{ x: number; z: number; angle: number; speed: number }>;
-}) {
-  const meshRefs = useRef<(THREE.Mesh | null)[]>(new Array(SMOKE_COUNT).fill(null));
-  const particles = useRef<SmokePart[]>(Array.from({ length: SMOKE_COUNT }, () => ({ x: 0, z: 0, y: 0.3, opacity: 0, scale: 0.5, life: 0, active: false })));
-  const nextIdx = useRef(0);
-  const emitTimer = useRef(0);
-
-  useFrame((_, delta) => {
-    const isDrifting = hudRef.current.isDrifting;
-    const pos = playerPosRef.current;
-    emitTimer.current += delta;
-
-    if (isDrifting && pos.speed > 2 && emitTimer.current > 0.07) {
-      emitTimer.current = 0;
-      const idx = nextIdx.current % SMOKE_COUNT;
-      nextIdx.current++;
-      const spread = 1.5;
-      particles.current[idx] = {
-        x: pos.x - Math.sin(pos.angle) * 2 + (Math.random() - 0.5) * spread,
-        z: pos.z - Math.cos(pos.angle) * 2 + (Math.random() - 0.5) * spread,
-        y: 0.4, opacity: 0.55, scale: 0.8, life: 1, active: true,
-      };
-    }
-
-    for (let i = 0; i < SMOKE_COUNT; i++) {
-      const p = particles.current[i];
-      const mesh = meshRefs.current[i];
-      if (!mesh) continue;
-      if (p.active && p.life > 0) {
-        p.life -= delta * 1.3;
-        p.y += delta * 1.8;
-        p.scale += delta * 2.5;
-        p.opacity = Math.max(0, p.life * 0.5);
-        mesh.position.set(p.x, p.y, p.z);
-        mesh.scale.setScalar(p.scale);
-        (mesh.material as THREE.MeshBasicMaterial).opacity = p.opacity;
-        mesh.visible = true;
-      } else {
-        mesh.visible = false;
-        if (p.life <= 0) p.active = false;
-      }
-    }
-  });
-
-  return (
-    <>
-      {Array.from({ length: SMOKE_COUNT }, (_, i) => (
-        <mesh key={i} ref={(el: THREE.Mesh | null) => { meshRefs.current[i] = el; }} visible={false}>
-          <sphereGeometry args={[0.9, 5, 5]} />
-          <meshBasicMaterial color="#bbbbbb" transparent opacity={0.4} depthWrite={false} />
-        </mesh>
-      ))}
-    </>
-  );
-}
-
-// ═══════════════════════════════════════════════
-//  MINIMAP (canvas outside Three.js)
-// ═══════════════════════════════════════════════
-function MiniMap({ track, playerPosRef, aiPosRef }: {
-  track: TrackDef;
-  playerPosRef: React.RefObject<{ x: number; z: number; angle: number; speed: number }>;
-  aiPosRef: React.RefObject<{ x: number; z: number; color: string }[]>;
-}) {
-  const canvasRef = useRef<HTMLCanvasElement>(null);
-  const animRef = useRef<number>(0);
-
-  useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const SIZE = 130;
-    canvas.width = SIZE; canvas.height = SIZE;
-
-    const wps = track.waypoints;
-    const allX = wps.map(p => p.x), allZ = wps.map(p => p.z);
-    const minX = Math.min(...allX), maxX = Math.max(...allX);
-    const minZ = Math.min(...allZ), maxZ = Math.max(...allZ);
-    const range = Math.max(maxX - minX, maxZ - minZ) * 1.2;
-    const cx = (minX + maxX) / 2, cz = (minZ + maxZ) / 2;
-    const toM = (x: number, z: number) => ({
-      mx: (x - cx) / range * SIZE + SIZE / 2,
-      mz: (z - cz) / range * SIZE + SIZE / 2,
-    });
-
-    const roadW = Math.max(3, track.width * SIZE / range * 0.9);
-
-    const draw = () => {
-      const ctx = canvas.getContext("2d");
-      if (!ctx) return;
-      ctx.clearRect(0, 0, SIZE, SIZE);
-
-      // Background
-      ctx.fillStyle = "rgba(8,10,22,0.85)";
-      ctx.beginPath();
-      ctx.roundRect(0, 0, SIZE, SIZE, 10);
-      ctx.fill();
-
-      // Track road
-      ctx.strokeStyle = "#3a3a55";
-      ctx.lineWidth = roadW;
-      ctx.lineCap = "round";
-      ctx.lineJoin = "round";
-      ctx.beginPath();
-      wps.forEach((p, i) => {
-        const { mx, mz } = toM(p.x, p.z);
-        if (i === 0) ctx.moveTo(mx, mz); else ctx.lineTo(mx, mz);
-      });
-      ctx.closePath();
-      ctx.stroke();
-
-      // Track center line
-      ctx.strokeStyle = "#555570";
-      ctx.lineWidth = 1;
-      ctx.setLineDash([4, 4]);
-      ctx.beginPath();
-      wps.forEach((p, i) => {
-        const { mx, mz } = toM(p.x, p.z);
-        if (i === 0) ctx.moveTo(mx, mz); else ctx.lineTo(mx, mz);
-      });
-      ctx.closePath();
-      ctx.stroke();
-      ctx.setLineDash([]);
-
-      // Start/finish line
-      const { mx: sx, mz: sz } = toM(wps[0].x, wps[0].z);
-      ctx.fillStyle = "#FFD700";
-      ctx.fillRect(sx - 2, sz - 5, 4, 10);
-
-      // AI dots
-      for (const ai of aiPosRef.current) {
-        const { mx, mz } = toM(ai.x, ai.z);
-        ctx.fillStyle = ai.color;
-        ctx.beginPath(); ctx.arc(mx, mz, 3, 0, Math.PI * 2); ctx.fill();
-      }
-
-      // Player dot + direction arrow
-      const pl = playerPosRef.current;
-      const { mx: px, mz: pz } = toM(pl.x, pl.z);
-      ctx.fillStyle = "#FFFFFF";
-      ctx.strokeStyle = "#FFFFFF";
-      ctx.lineWidth = 2;
-      ctx.beginPath(); ctx.arc(px, pz, 4.5, 0, Math.PI * 2); ctx.fill();
-      ctx.beginPath();
-      ctx.moveTo(px, pz);
-      ctx.lineTo(px + Math.sin(pl.angle) * 8, pz + Math.cos(pl.angle) * 8);
-      ctx.stroke();
-
-      animRef.current = requestAnimationFrame(draw);
-    };
-    draw();
-    return () => cancelAnimationFrame(animRef.current);
-  }, [track, playerPosRef, aiPosRef]);
-
-  return <canvas ref={canvasRef} style={{ width: 130, height: 130, borderRadius: 10, border: "1px solid rgba(255,255,255,0.12)" }} />;
-}
-
-// ═══════════════════════════════════════════════
-//  SPEED GAUGE (SVG)
-// ═══════════════════════════════════════════════
-function SpeedGauge({ speed, maxSpeed, nitroActive, nitro, canNitro, onNitroToggle }: {
-  speed: number; maxSpeed: number; nitroActive: boolean; nitro: number; canNitro: boolean; onNitroToggle: () => void;
-}) {
-  const pct = Math.min(1, speed / maxSpeed);
-  const cx = 50, cy = 50, R = 38;
-  const startDeg = 135, totalDeg = 270;
-  const sweepDeg = pct * totalDeg;
-  const toXY = (deg: number) => ({
-    x: cx + R * Math.cos((deg - 90) * Math.PI / 180),
-    y: cy + R * Math.sin((deg - 90) * Math.PI / 180),
-  });
-  const p1 = toXY(startDeg);
-  const p2 = toXY(startDeg + Math.max(0.01, sweepDeg));
-  const largeArc = sweepDeg > 180 ? 1 : 0;
-  const arcColor = nitroActive ? "#FF6600" : pct > 0.85 ? "#FF4444" : pct > 0.55 ? "#FFAA00" : "#44AAFF";
-  const kmh = Math.round(speed * 3.6);
-
-  // Background arc path (full 270°)
-  const pb2 = toXY(startDeg + 270);
-
-  return (
-    <div style={{ position: "relative", width: 100, height: 100 }}>
-      <svg width={100} height={100}>
-        {/* Background arc */}
-        <path d={`M ${toXY(startDeg).x} ${toXY(startDeg).y} A ${R} ${R} 0 1 1 ${pb2.x} ${pb2.y}`}
-          stroke="rgba(255,255,255,0.08)" strokeWidth={6} fill="none" strokeLinecap="round" />
-        {/* Speed arc */}
-        {pct > 0.01 && (
-          <path d={`M ${p1.x} ${p1.y} A ${R} ${R} 0 ${largeArc} 1 ${p2.x} ${p2.y}`}
-            stroke={arcColor} strokeWidth={6} fill="none" strokeLinecap="round"
-            style={{ filter: `drop-shadow(0 0 4px ${arcColor})` }} />
-        )}
-        {/* Speed text */}
-        <text x={cx} y={cy - 2} textAnchor="middle" dominantBaseline="middle"
-          fill="white" fontSize={16} fontWeight="bold" fontFamily="monospace">{kmh}</text>
-        <text x={cx} y={cy + 14} textAnchor="middle" fill="rgba(255,255,255,0.35)" fontSize={8}>km/h</text>
-      </svg>
-      {/* Nitro bar below gauge */}
-      {canNitro && (
-        <div style={{ position: "absolute", bottom: -18, left: 0, right: 0, display: "flex", flexDirection: "column", alignItems: "center", gap: 3 }}>
-          <button onClick={onNitroToggle}
-            style={{ fontSize: 9, fontWeight: "bold", padding: "2px 8px", borderRadius: 6, pointerEvents: "auto",
-              background: nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,180,255,0.15)",
-              border: `1px solid ${nitroActive ? "rgba(255,102,0,0.6)" : "rgba(0,180,255,0.4)"}`,
-              color: nitroActive ? "#FF8800" : "#44CCFF" }}>NOS</button>
-          <div style={{ width: 70, height: 4, background: "rgba(255,255,255,0.1)", borderRadius: 2 }}>
-            <div style={{ width: `${nitro}%`, height: "100%", borderRadius: 2, background: nitroActive ? "#FF6600" : "#00CCFF", transition: "width 0.1s" }} />
-          </div>
-        </div>
-      )}
-    </div>
-  );
-}
-
-// ═══════════════════════════════════════════════
 //  RACE SCENE
 // ═══════════════════════════════════════════════
 interface RacerState {
   x: number; z: number; angle: number; speed: number;
   trackProgress: number; // 0..1 along curve per lap
-  totalProgress: number; // cumulative distance for position ranking
   lap: number;
   tilt: number; // for flip visual
   maxSpeed: number; accel: number; handling: number;
   color: string; name: string;
   aggressive: number; // 0..1
   pushVx: number; pushVz: number;
-  laneOffset: number; // lateral offset for route diversity
 }
 
 interface RaceHud {
@@ -760,7 +488,7 @@ interface RaceHud {
   position: number; totalRacers: number;
   nitro: number; nitroActive: boolean;
   time: number; onOil: boolean;
-  playerTilt: number; isDrifting: boolean;
+  playerTilt: number;
 }
 
 interface RaceSceneProps {
@@ -773,12 +501,9 @@ interface RaceSceneProps {
   nitroActiveRef: React.RefObject<boolean>;
   keysRef: React.RefObject<Set<string>>;
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
-  playerPosRef: React.RefObject<{ x: number; z: number; angle: number; speed: number }>;
-  aiPosRef: React.RefObject<{ x: number; z: number; color: string }[]>;
-  cameraModeRef: React.RefObject<"chase" | "overhead">;
 }
 
-const RaceScene = React.memo(function RaceScene({ track, carType, running, onFinish, onFlipped, hudRef, nitroActiveRef, keysRef, touchRef, playerPosRef, aiPosRef, cameraModeRef }: RaceSceneProps) {
+const RaceScene = React.memo(function RaceScene({ track, carType, running, onFinish, onFlipped, hudRef, nitroActiveRef, keysRef, touchRef }: RaceSceneProps) {
   const { camera } = useThree();
   const curve = useMemo(() => createTrackCurve(track.waypoints), [track]);
   const trackPoints = useMemo(() => sampleTrack(curve, 200), [curve]);
@@ -788,57 +513,31 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   const playerRef = useRef<RacerState>({
     x: trackPoints[0].x, z: trackPoints[0].z,
     angle: Math.atan2(trackPoints[1].x - trackPoints[0].x, trackPoints[1].z - trackPoints[0].z),
-    speed: 0, trackProgress: 0, totalProgress: 0, lap: 0, tilt: 0,
+    speed: 0, trackProgress: 0, lap: 0, tilt: 0,
     maxSpeed: carType.maxSpeed, accel: carType.accel, handling: carType.handling,
-    color: carType.color, name: "You", aggressive: 0, pushVx: 0, pushVz: 0, laneOffset: 0,
+    color: carType.color, name: "You", aggressive: 0, pushVx: 0, pushVz: 0,
   });
 
-  // AI racers - starting grid formation
+  // AI racers
   const aiRef = useRef<RacerState[]>(AI_NAMES.map((name, i) => {
-    // Calculate grid positions: 2 columns, 3 rows behind the start line
-    const startPt = trackPoints[0];
-    const nextPt = trackPoints[1];
-    const fwdAngle = Math.atan2(nextPt.x - startPt.x, nextPt.z - startPt.z);
-    const behindX = -Math.sin(fwdAngle);
-    const behindZ = -Math.cos(fwdAngle);
-    const latX = Math.cos(fwdAngle);
-    const latZ = -Math.sin(fwdAngle);
-
-    const row = Math.floor(i / 2) + 1; // rows 1,1,2,2,3,3
-    const col = (i % 2 === 0) ? -1 : 1; // left, right
-    const gx = startPt.x + behindX * row * 6 + latX * col * 2.5;
-    const gz = startPt.z + behindZ * row * 6 + latZ * col * 2.5;
-
-    // Find initial track progress for grid position
-    let bestIdx = 0, bestDist = Infinity;
-    for (let j = 0; j < trackPoints.length; j++) {
-      const ddx = gx - trackPoints[j].x;
-      const ddz = gz - trackPoints[j].z;
-      const d = ddx * ddx + ddz * ddz;
-      if (d < bestDist) { bestDist = d; bestIdx = j; }
-    }
-
-    // AI speeds: balanced so good driving wins
-    const speedFactors = [0.52, 0.57, 0.62, 0.67, 0.72, 0.77];
-    const aggressionLevels = [0.15, 0.25, 0.35, 0.45, 0.60, 0.75];
-    const laneOffsets = [-0.4, 0.4, -0.2, 0.3, -0.45, 0.2];
-
-    // Calculate initial totalProgress relative to start line so grid position is accounted for
-    const gridProgress = bestIdx / trackPoints.length;
-    // If gridProgress is very high (close to 1.0), the AI is just behind the start line → negative offset
-    const initialTotal = gridProgress > 0.5 ? gridProgress - 1 : gridProgress;
-
+    // Stagger start positions behind player
+    const startIdx = Math.max(0, SEGS - (i + 1) * 3);
+    const sp = trackPoints[startIdx % trackPoints.length];
+    const spNext = trackPoints[(startIdx + 1) % trackPoints.length];
+    // Scale AI speed: racer 0 is weakest, racer 5 is strongest (2-3 km/h slower than player)
+    const strengthFactor = 0.78 + i * 0.035; // 0.78, 0.815, 0.85, 0.885, 0.92, 0.955
+    const topAiSpeed = carType.maxSpeed - 0.7; // strongest AI is ~2.5 km/h slower in display
+    const aiMaxSpeed = i === 5 ? topAiSpeed : carType.maxSpeed * strengthFactor;
     return {
-      x: gx, z: gz,
-      angle: fwdAngle,
-      speed: 0, trackProgress: gridProgress, totalProgress: initialTotal, lap: 0, tilt: 0,
-      maxSpeed: carType.maxSpeed * speedFactors[i],
-      accel: carType.accel * (0.80 + i * 0.04),
-      handling: 3.0 + i * 0.3,
+      x: sp.x + (Math.random() - 0.5) * 4, z: sp.z + (Math.random() - 0.5) * 4,
+      angle: Math.atan2(spNext.x - sp.x, spNext.z - sp.z),
+      speed: 0, trackProgress: startIdx / SEGS, lap: 0, tilt: 0,
+      maxSpeed: aiMaxSpeed,
+      accel: carType.accel * (0.8 + i * 0.03),
+      handling: 2.5 + i * 0.15,
       color: AI_COLORS[i], name,
-      aggressive: aggressionLevels[i],
+      aggressive: i === 5 ? 0.9 : i === 4 ? 0.5 : 0.2 + i * 0.05,
       pushVx: 0, pushVz: 0,
-      laneOffset: laneOffsets[i],
     };
   }));
 
@@ -846,55 +545,35 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   const aiMeshRefs = useRef<(THREE.Group | null)[]>(new Array(6).fill(null));
   const finishedRef = useRef(false);
   const timerRef = useRef(0);
+  const prevLapRef = useRef(0);
 
   // Oil slick effect
   const onOilRef = useRef(false);
   const oilTimerRef = useRef(0);
 
-  // Find closest track point for a position - with sub-segment interpolation for precision
+  // Find closest track point for a position
   const getTrackProgress = useCallback((x: number, z: number) => {
     let bestDist = Infinity;
     let bestIdx = 0;
-    const len = trackPoints.length;
-    for (let i = 0; i < len; i++) {
+    for (let i = 0; i < trackPoints.length; i++) {
       const dx = x - trackPoints[i].x;
       const dz = z - trackPoints[i].z;
       const d = dx * dx + dz * dz;
       if (d < bestDist) { bestDist = d; bestIdx = i; }
     }
-    // Sub-segment interpolation: project position onto the segment between bestIdx-1 and bestIdx+1
-    const prevIdx = (bestIdx - 1 + len) % len;
-    const nextIdx = (bestIdx + 1) % len;
-    const prev = trackPoints[prevIdx];
-    const next = trackPoints[nextIdx];
-    // Vector from prev to next (the local track direction)
-    const segDx = next.x - prev.x;
-    const segDz = next.z - prev.z;
-    const segLen2 = segDx * segDx + segDz * segDz;
-    if (segLen2 > 0.001) {
-      // Project point onto the prev->next segment
-      const px = x - prev.x;
-      const pz = z - prev.z;
-      const t = Math.max(0, Math.min(1, (px * segDx + pz * segDz) / segLen2));
-      // t=0 means at prev, t=1 means at next, t=0.5 means at bestIdx
-      // Convert to fractional index offset: t maps [0,1] to [prevIdx, nextIdx]
-      const fractionalIdx = prevIdx + t * ((nextIdx - prevIdx + len) % len || len);
-      return (fractionalIdx % len) / len;
-    }
-    return bestIdx / len;
+    return bestIdx / trackPoints.length;
   }, [trackPoints]);
 
-  // Check if position is on track - returns { onTrack, nearestX, nearestZ, dist }
-  const checkTrack = useCallback((x: number, z: number): { onTrack: boolean; nearestX: number; nearestZ: number; dist: number } => {
+  // Check if position is on track
+  const isOnTrack = useCallback((x: number, z: number): boolean => {
     let minDist = Infinity;
-    let nearIdx = 0;
     for (let i = 0; i < trackPoints.length; i++) {
       const dx = x - trackPoints[i].x;
       const dz = z - trackPoints[i].z;
       const d = Math.sqrt(dx * dx + dz * dz);
-      if (d < minDist) { minDist = d; nearIdx = i; }
+      if (d < minDist) minDist = d;
     }
-    return { onTrack: minDist < track.width / 2 + 2, nearestX: trackPoints[nearIdx].x, nearestZ: trackPoints[nearIdx].z, dist: minDist };
+    return minDist < track.width / 2 + 2;
   }, [trackPoints, track.width]);
 
   // Check oil slick
@@ -907,15 +586,14 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     return false;
   }, [track.oilSlicks]);
 
-  // Calculate race position using totalProgress with hysteresis to prevent flickering
-  const lastPosRef = useRef(1);
-  const posHoldTimer = useRef(0);
+  // Calculate race position
   const getPosition = useCallback((allRacers: RacerState[]): number => {
-    const playerTotal = allRacers[0].totalProgress;
+    const player = allRacers[0];
+    const playerScore = player.lap + player.trackProgress;
     let pos = 1;
     for (let i = 1; i < allRacers.length; i++) {
-      // Use a small threshold: only count AI as ahead if clearly ahead
-      if (allRacers[i].totalProgress > playerTotal + 0.002) pos++;
+      const aiScore = allRacers[i].lap + allRacers[i].trackProgress;
+      if (aiScore > playerScore) pos++;
     }
     return pos;
   }, []);
@@ -937,25 +615,10 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   }, [trackPoints]);
 
   useFrame((_, delta) => {
-    if (finishedRef.current) return;
-    const player = playerRef.current;
-
-    // Camera follows player
-    if (cameraModeRef.current === "overhead") {
-      camera.position.lerp(new THREE.Vector3(player.x, 90, player.z), 0.06);
-      camera.lookAt(player.x, 0, player.z);
-    } else {
-      const camDist = 14;
-      const camH = 7;
-      const camTx = player.x - Math.sin(player.angle) * camDist;
-      const camTz = player.z - Math.cos(player.angle) * camDist;
-      camera.position.lerp(new THREE.Vector3(camTx, camH, camTz), 0.08);
-      camera.lookAt(player.x, 1, player.z);
-    }
-
-    if (!running) return; // Don't run game logic during countdown
+    if (!running || finishedRef.current) return;
     const dt = Math.min(delta, 0.05);
     timerRef.current += dt;
+    const player = playerRef.current;
     const ais = aiRef.current;
     const keys = keysRef.current;
     const touch = touchRef.current;
@@ -1011,19 +674,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     let nx = player.x + Math.sin(player.angle) * player.speed * dt;
     let nz = player.z + Math.cos(player.angle) * player.speed * dt;
 
-    // Track boundary check - barriers bounce player back
-    const trackCheck = checkTrack(nx, nz);
-    if (!trackCheck.onTrack) {
-      // Calculate bounce direction: push toward track center
-      const toTrackX = trackCheck.nearestX - nx;
-      const toTrackZ = trackCheck.nearestZ - nz;
-      const toTrackDist = Math.sqrt(toTrackX * toTrackX + toTrackZ * toTrackZ);
-      if (toTrackDist > 0.01) {
-        const bounceForce = Math.abs(player.speed) * 0.8 + 5;
-        player.pushVx += (toTrackX / toTrackDist) * bounceForce;
-        player.pushVz += (toTrackZ / toTrackDist) * bounceForce;
-      }
-      player.speed *= -0.3; // reverse with speed loss
+    // Track boundary check
+    if (!isOnTrack(nx, nz)) {
+      player.speed *= 0.5;
       nx = player.x;
       nz = player.z;
     }
@@ -1031,19 +684,12 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     player.x = nx;
     player.z = nz;
 
-    // Track progress & laps using totalProgress
+    // Track progress & laps
     const newProg = getTrackProgress(player.x, player.z);
     const prevProg = player.trackProgress;
-    let pDelta = newProg - prevProg;
-    if (pDelta < -0.5) pDelta += 1; // crossed start line forward
-    if (pDelta > 0.5) pDelta -= 1;  // went backward past start
-    player.totalProgress += pDelta;
-    player.trackProgress = newProg;
-
-    // Lap detection from totalProgress
-    const newLap = Math.floor(player.totalProgress);
-    if (newLap > player.lap) {
-      player.lap = newLap;
+    // Detect lap completion (crossing from ~1.0 to ~0.0)
+    if (prevProg > 0.85 && newProg < 0.15) {
+      player.lap++;
       if (player.lap >= track.laps) {
         finishedRef.current = true;
         const allRacers = [player, ...ais];
@@ -1052,6 +698,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         return;
       }
     }
+    player.trackProgress = newProg;
 
     // Tilt based on turn sharpness and speed
     const turnSharp = getTurnSharpness(newProg);
@@ -1061,55 +708,11 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     // ── AI Logic ──
     for (let i = 0; i < ais.length; i++) {
       const ai = ais[i];
-
-      // Find target point with varying look-ahead and lane offset
-      const lookAhead = 4 + ai.aggressive * 4 + ai.speed * 0.15;
-      const targetIdx = Math.floor(ai.trackProgress * SEGS + lookAhead) % SEGS;
+      // Find target point on track ahead
+      const targetIdx = Math.floor(ai.trackProgress * SEGS + 5) % SEGS;
       const target = trackPoints[targetIdx];
-
-      // Apply lane offset for route diversity
-      const tgtT = curve.getTangentAt(targetIdx / SEGS);
-      const tgtNorm = new THREE.Vector3(-tgtT.z, 0, tgtT.x).normalize();
-      let laneShift = ai.laneOffset; // base lane position
-
-      // ── Overtake logic: shift target position laterally when cars are ahead ──
-      const aiFwdX = Math.sin(ai.angle);
-      const aiFwdZ = Math.cos(ai.angle);
-      const scanDist = 14 + ai.speed * 0.4;
-
-      const checkCarAhead = (ox: number, oz: number) => {
-        const ddx = ox - ai.x;
-        const ddz = oz - ai.z;
-        const dist = Math.sqrt(ddx * ddx + ddz * ddz);
-        if (dist > 0.8 && dist < scanDist) {
-          const dot = ddx * aiFwdX + ddz * aiFwdZ;
-          if (dot > 0) { // car is ahead
-            const cross = aiFwdX * ddz - aiFwdZ * ddx; // which side
-            const closeness = Math.pow(1 - dist / scanDist, 1.5);
-            // Shift lane to the opposite side of the blocking car
-            // Stronger shift when closer, and proportional to track width
-            const shiftAmount = closeness * 1.8;
-            laneShift += (cross > 0 ? -shiftAmount : shiftAmount);
-          }
-        }
-      };
-
-      // Check all other AI cars
-      for (let j = 0; j < ais.length; j++) {
-        if (j !== i) checkCarAhead(ais[j].x, ais[j].z);
-      }
-      // Check player
-      checkCarAhead(player.x, player.z);
-
-      // Clamp lane shift so AI stays on track
-      laneShift = Math.max(-1.2, Math.min(1.2, laneShift));
-
-      // Build actual target position using shifted lane
-      const offX = target.x + tgtNorm.x * laneShift * track.width * 0.35;
-      const offZ = target.z + tgtNorm.z * laneShift * track.width * 0.35;
-
-      const dxT = offX - ai.x;
-      const dzT = offZ - ai.z;
+      const dxT = target.x - ai.x;
+      const dzT = target.z - ai.z;
       const angleToTarget = Math.atan2(dxT, dzT);
 
       // Steer toward target
@@ -1118,12 +721,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
       ai.angle += angleDiff * ai.handling * dt;
 
-      // Accelerate - nearly full power with minor variation
-      const accelBoost = 1 + ai.aggressive * 0.2;
-      const accelWobble = 0.92 + Math.random() * 0.08; // 92-100% throttle
-      ai.speed += ai.accel * accelBoost * accelWobble * dt;
-      ai.speed *= 0.982; // close to player drag (0.98)
-
+      // Accelerate
+      ai.speed += ai.accel * dt;
+      ai.speed *= 0.98;
       // Slow down for sharp turns
       const aiTurnSharp = getTurnSharpness(ai.trackProgress);
       if (aiTurnSharp > 0.3) {
@@ -1137,37 +737,25 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       ai.pushVx *= 0.9;
       ai.pushVz *= 0.9;
 
-      // Move - with barrier bounce
+      // Move
       let ax = ai.x + Math.sin(ai.angle) * ai.speed * dt;
       let az = ai.z + Math.cos(ai.angle) * ai.speed * dt;
-      const aiTrackCheck = checkTrack(ax, az);
-      if (!aiTrackCheck.onTrack) {
-        const toX = aiTrackCheck.nearestX - ax;
-        const toZ = aiTrackCheck.nearestZ - az;
-        const toDist = Math.sqrt(toX * toX + toZ * toZ);
-        if (toDist > 0.01) {
-          const bForce = Math.abs(ai.speed) * 0.5 + 3;
-          ai.pushVx += (toX / toDist) * bForce;
-          ai.pushVz += (toZ / toDist) * bForce;
-        }
-        ai.speed *= 0.4;
+      if (!isOnTrack(ax, az)) {
+        ai.speed *= 0.5;
       } else {
         ai.x = ax;
         ai.z = az;
       }
 
-      // Track progress & laps using totalProgress
+      // Track progress & laps
       const aiNewProg = getTrackProgress(ai.x, ai.z);
-      let aiDelta = aiNewProg - ai.trackProgress;
-      if (aiDelta < -0.5) aiDelta += 1;
-      if (aiDelta > 0.5) aiDelta -= 1;
-      ai.totalProgress += aiDelta;
-      ai.trackProgress = aiNewProg;
-
-      const aiNewLap = Math.floor(ai.totalProgress);
-      if (aiNewLap > ai.lap) {
-        ai.lap = aiNewLap;
+      if (ai.trackProgress > 0.85 && aiNewProg < 0.15) {
+        ai.lap++;
+        if (ai.lap >= track.laps && !finishedRef.current) {
+          // AI finished before player - race continues but they're done
+        }
       }
+      ai.trackProgress = aiNewProg;
 
       // AI tilt
       const aiTargetTilt = angleDiff * Math.min(0.15, aiTurnSharp * ai.speed * 0.01);
@@ -1213,6 +801,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
           // Flip check for player (a===0 means player)
           if (a === 0 || b === 0) {
             const playerCar = a === 0 ? ca : cb;
+            const otherCar = a === 0 ? cb : ca;
             const impactSpeed = Math.abs(ca.speed) + Math.abs(cb.speed);
             const turnSharpHere = getTurnSharpness(playerCar.trackProgress);
             // Flip if: in a sharp turn AND strong impact
@@ -1227,38 +816,11 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       }
     }
 
-    // ── Update external position refs (for minimap) ──
-    playerPosRef.current.x = player.x;
-    playerPosRef.current.z = player.z;
-    playerPosRef.current.angle = player.angle;
-    playerPosRef.current.speed = player.speed;
-    const aisSnap = aiRef.current;
-    if (aiPosRef.current.length !== aisSnap.length) {
-      aiPosRef.current = aisSnap.map((a, i) => ({ x: a.x, z: a.z, color: AI_COLORS[i] }));
-    } else {
-      for (let i = 0; i < aisSnap.length; i++) {
-        aiPosRef.current[i].x = aisSnap[i].x;
-        aiPosRef.current[i].z = aisSnap[i].z;
-      }
-    }
-
     // ── Update HUD ──
     hud.speed = Math.abs(player.speed);
     hud.lap = player.lap + 1;
     hud.totalLaps = track.laps;
-    hud.isDrifting = Math.abs(steerInput) > 0.4 && player.speed > 3;
-    // Stabilize position display - only update if new position holds for a brief moment
-    const rawPos = getPosition(allCars);
-    if (rawPos !== lastPosRef.current) {
-      posHoldTimer.current += dt;
-      if (posHoldTimer.current > 0.3) { // position must be consistent for 0.3s before updating display
-        lastPosRef.current = rawPos;
-        posHoldTimer.current = 0;
-      }
-    } else {
-      posHoldTimer.current = 0;
-    }
-    hud.position = lastPosRef.current;
+    hud.position = getPosition(allCars);
     hud.totalRacers = allCars.length;
     hud.time = timerRef.current;
     hud.playerTilt = player.tilt;
@@ -1268,6 +830,14 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       playerMeshRef.current.position.set(player.x, 0.4, player.z);
       playerMeshRef.current.rotation.y = player.angle;
     }
+
+    // ── Camera ──
+    const camDist = 14;
+    const camH = 7;
+    const tx = player.x - Math.sin(player.angle) * camDist;
+    const tz = player.z - Math.cos(player.angle) * camDist;
+    camera.position.lerp(new THREE.Vector3(tx, camH, tz), 0.08);
+    camera.lookAt(player.x, 1, player.z);
   });
 
   return (
@@ -1302,19 +872,12 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         <spotLight position={[0, 0.5, 2]} target-position={[0, 0, 10]} angle={0.5} intensity={2} distance={20} color="#FFE4B5" />
       </group>
 
-      {/* AI cars - positioned on starting grid */}
+      {/* AI cars */}
       {aiRef.current.map((ai, i) => (
-        <group key={i} ref={(el: THREE.Group | null) => { aiMeshRefs.current[i] = el; }}
-          position={[ai.x, 0.4, ai.z]} rotation={[0, ai.angle, 0]}>
+        <group key={i} ref={(el: THREE.Group | null) => { aiMeshRefs.current[i] = el; }}>
           <CarMesh color={ai.color} tilt={ai.tilt} />
         </group>
       ))}
-
-      {/* Tire walls on outer barriers */}
-      <TireWalls curve={curve} width={track.width} segments={SEGS} />
-
-      {/* Drift smoke */}
-      <DriftSmoke3D hudRef={hudRef} playerPosRef={playerPosRef} />
 
       {/* Track-side lights */}
       {trackPoints.filter((_, i) => i % 15 === 0).map((p, i) => {
@@ -1346,19 +909,15 @@ export default function RacetrackPage() {
   const [finishTime, setFinishTime] = useState(0);
   const [cardSaved, setCardSaved] = useState(false);
   const [showMilestone, setShowMilestone] = useState(false);
-  const [, setHudTick] = useState(0);
+  const [hudTick, setHudTick] = useState(0);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const nitroActiveRef = useRef(false);
-  const playerPosRef = useRef<{ x: number; z: number; angle: number; speed: number }>({ x: 0, z: 0, angle: 0, speed: 0 });
-  const aiPosRef = useRef<{ x: number; z: number; color: string }[]>([]);
-  const cameraModeRef = useRef<"chase" | "overhead">("chase");
-  const [cameraMode, setCameraMode] = useState<"chase" | "overhead">("chase");
   const hudRef = useRef<RaceHud>({
-    speed: 0, lap: 1, totalLaps: 2, position: 1, totalRacers: 7,
-    nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0, isDrifting: false,
+    speed: 0, lap: 1, totalLaps: 2, position: 7, totalRacers: 7,
+    nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0,
   });
 
   const carType = useMemo(() => getCarType(getActiveCar()), []);
@@ -1400,7 +959,7 @@ export default function RacetrackPage() {
     if (gameState !== "reward" || cardSaved) return;
     // Position-based rarity: 1st = gold (guaranteed high), 2nd = silver, 3rd+ = lower
     const posScore = finishPosition === 1 ? 95 : finishPosition === 2 ? 75 : finishPosition === 3 ? 55 : Math.max(10, 50 - finishPosition * 5);
-    const rarity = calculateRarity(posScore, 100, 1, false);
+    const rarity = calculateRarity(posScore, 100, 1);
 
     saveCard({
       id: generateCardId(),
@@ -1430,7 +989,7 @@ export default function RacetrackPage() {
     setSelectedLevel(lvl);
     setCountdown(3);
     setCardSaved(false);
-    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 1, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0, isDrifting: false };
+    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 7, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0 };
     nitroActiveRef.current = false;
     setGameState("countdown");
   };
@@ -1450,7 +1009,7 @@ export default function RacetrackPage() {
   const cardType = finishPosition === 1 ? "GOLD" : finishPosition === 2 ? "SILVER" : finishPosition === 3 ? "BRONZE" : "COMMON";
 
   const posScore = finishPosition === 1 ? 95 : finishPosition === 2 ? 75 : finishPosition === 3 ? 55 : Math.max(10, 50 - finishPosition * 5);
-  const rarity = useMemo(() => calculateRarity(posScore, 100, 1, false), [posScore]);
+  const rarity = useMemo(() => calculateRarity(posScore, 100, 1), [posScore]);
   const winStreak = typeof window !== "undefined" ? getWinStreak() : 0;
 
   const hud = hudRef.current;
@@ -1463,7 +1022,7 @@ export default function RacetrackPage() {
         <div className="absolute inset-0 z-20 flex flex-col items-center overflow-y-auto pb-8">
           <div className="w-full max-w-md px-4 pt-6">
             <div className="flex items-center justify-between mb-6">
-              <Link href="/">
+              <Link href="/citydrive">
                 <motion.div className="bg-white/5 border border-white/8 p-2.5 rounded-xl cursor-pointer" whileTap={{ scale: 0.9 }}>
                   <ArrowLeft size={18} className="text-white/60" />
                 </motion.div>
@@ -1546,97 +1105,68 @@ export default function RacetrackPage() {
       {(gameState === "playing" || gameState === "countdown") && (
         <>
           <Canvas camera={{ fov: 65, near: 0.1, far: 400, position: [0, 8, 20] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-            <RaceScene track={track} carType={carType} running={gameState === "playing"} onFinish={handleFinish} onFlipped={handleFlipped} hudRef={hudRef} nitroActiveRef={nitroActiveRef} keysRef={keysRef} touchRef={touchRef} playerPosRef={playerPosRef} aiPosRef={aiPosRef} cameraModeRef={cameraModeRef} />
+            <RaceScene track={track} carType={carType} running={gameState === "playing"} onFinish={handleFinish} onFlipped={handleFlipped} hudRef={hudRef} nitroActiveRef={nitroActiveRef} keysRef={keysRef} touchRef={touchRef} />
           </Canvas>
 
           {/* HUD overlay */}
           {gameState === "playing" && (
             <div className="absolute inset-0 z-10 pointer-events-none">
-
-              {/* Nitro glow screen edge */}
-              {hud.nitroActive && (
-                <div className="absolute inset-0 pointer-events-none" style={{ boxShadow: "inset 0 0 80px rgba(255,102,0,0.45)", borderRadius: 0 }} />
-              )}
-              {/* Drift smoke indicator */}
-              {hud.isDrifting && (
-                <div className="absolute inset-0 pointer-events-none" style={{ boxShadow: "inset 0 0 60px rgba(180,180,180,0.12)" }} />
-              )}
-
-              {/* TOP BAR – Lap + Time */}
-              <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-2xl px-5 py-2 border border-[#BB44FF]/30 flex items-center gap-4">
-                <div className="text-center">
-                  <div className="text-[#BB44FF] font-black text-[9px] tracking-widest">LAP</div>
-                  <div className="text-white font-black text-xl leading-none">{hud.lap}<span className="text-xs text-white/30">/{hud.totalLaps}</span></div>
+              {/* Position + Lap */}
+              <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-5 py-2 border border-[#BB44FF]/30">
+                <div className="flex items-center gap-4">
+                  <div>
+                    <div className="text-[#BB44FF] font-black text-[10px]">POSITION</div>
+                    <div className="text-white font-black text-2xl text-center">{hud.position}<span className="text-sm text-white/40">/{hud.totalRacers}</span></div>
+                  </div>
+                  <div className="w-px h-8 bg-white/10" />
+                  <div>
+                    <div className="text-[#BB44FF] font-black text-[10px]">LAP</div>
+                    <div className="text-white font-black text-2xl text-center">{hud.lap}<span className="text-sm text-white/40">/{hud.totalLaps}</span></div>
+                  </div>
+                  <div className="w-px h-8 bg-white/10" />
+                  <div>
+                    <div className="text-white/40 font-bold text-[10px]">TIME</div>
+                    <div className="text-white/60 font-black text-lg">{hud.time.toFixed(1)}s</div>
+                  </div>
                 </div>
-                <div className="w-px h-7 bg-white/10" />
-                <div className="text-center">
-                  <div className="text-white/30 font-bold text-[9px] tracking-widest">TIME</div>
-                  <div className="text-white/70 font-black text-lg leading-none tabular-nums">{hud.time.toFixed(1)}s</div>
-                </div>
-              </div>
-
-              {/* POSITION – top left, big, animated pop on change */}
-              <div className="absolute top-3 left-14 flex flex-col items-center">
-                <div className="text-[9px] font-black text-[#BB44FF]/70 tracking-widest">POS</div>
-                <motion.div
-                  key={hud.position}
-                  initial={{ scale: 1.6, opacity: 0.5 }}
-                  animate={{ scale: 1, opacity: 1 }}
-                  transition={{ type: "spring", stiffness: 400, damping: 18 }}
-                  className="font-black text-4xl leading-none"
-                  style={{ color: hud.position === 1 ? "#FFD700" : hud.position === 2 ? "#C0C0C0" : hud.position === 3 ? "#CD7F32" : "#aaaaaa" }}
-                >
-                  {hud.position === 1 ? "P1" : hud.position === 2 ? "P2" : hud.position === 3 ? "P3" : `P${hud.position}`}
-                </motion.div>
-                <div className="text-[9px] font-bold leading-none -mt-0.5" style={{ color: hud.position === 1 ? "#FFD700" : hud.position === 2 ? "#C0C0C0" : hud.position === 3 ? "#CD7F32" : "#666" }}>
-                  {hud.position === 1 ? "1st" : hud.position === 2 ? "2nd" : hud.position === 3 ? "3rd" : `${hud.position}th`}
-                </div>
-              </div>
-
-              {/* Mini-map – top right, below close button */}
-              <div className="absolute top-3 right-3 pointer-events-none flex flex-col items-end gap-1">
-                <MiniMap track={track} playerPosRef={playerPosRef} aiPosRef={aiPosRef} />
-                {/* Camera toggle – sits below mini-map */}
-                <button onClick={() => { const next = cameraMode === "chase" ? "overhead" : "chase"; setCameraMode(next); cameraModeRef.current = next; }}
-                  className="bg-black/70 border border-white/20 rounded-xl p-2 pointer-events-auto active:scale-95 transition-all flex items-center gap-1.5">
-                  <Eye size={12} className="text-white/60" />
-                  <span className="text-white/50 text-[10px] font-bold">{cameraMode === "chase" ? "CHASE" : "TOP"}</span>
-                </button>
               </div>
 
               {/* Oil slick warning */}
               {hud.onOil && (
                 <div className="absolute top-20 left-1/2 -translate-x-1/2 bg-yellow-900/80 rounded-lg px-3 py-1 border border-yellow-500/40">
-                  <div className="text-yellow-400 font-black text-xs animate-pulse">⚠ OIL SLICK!</div>
+                  <div className="text-yellow-400 font-black text-xs animate-pulse">OIL SLICK!</div>
                 </div>
               )}
 
-              {/* Speed gauge – bottom center */}
-              <div className="absolute bottom-20 left-1/2 -translate-x-1/2 pointer-events-auto">
-                <SpeedGauge
-                  speed={hud.speed}
-                  maxSpeed={carType.maxSpeed}
-                  nitroActive={hud.nitroActive}
-                  nitro={hud.nitro}
-                  canNitro={carType.canNitro}
-                  onNitroToggle={() => { nitroActiveRef.current = !nitroActiveRef.current; }}
-                />
+              {/* Speed */}
+              <div className="absolute bottom-14 left-1/2 -translate-x-1/2 bg-black/70 backdrop-blur-sm rounded-xl px-5 py-2 border border-white/10">
+                <div className="text-white font-black text-lg text-center">{Math.round(hud.speed * 3.6)} <span className="text-xs text-white/40">km/h</span></div>
+                {carType.canNitro && (
+                  <div className="flex items-center gap-1.5 mt-1">
+                    <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }}
+                      className="text-[10px] font-black px-2 py-1 rounded-md pointer-events-auto transition-all cursor-pointer border"
+                      style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,200,255,0.1)", borderColor: hud.nitroActive ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)" }}>NOS</button>
+                    <div className="w-20 h-2 bg-white/10 rounded-full">
+                      <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : "#00CCFF" }} />
+                    </div>
+                  </div>
+                )}
               </div>
 
-              {/* Back button */}
-              <button onClick={() => router.push("/")}
-                className="absolute top-3 left-3 bg-black/70 border border-white/20 rounded-xl p-2.5 pointer-events-auto active:scale-95 transition-all z-30">
-                <ArrowLeft size={16} className="text-white/60" />
+              {/* Back to City button */}
+              <button onClick={() => router.push("/citydrive")}
+                className="absolute top-3 left-3 bg-black/70 border border-white/20 rounded-xl px-3 py-2 pointer-events-auto active:scale-95 transition-all z-30">
+                <span className="text-white/60 font-bold text-xs">Back to City</span>
               </button>
 
-              {/* Menu button */}
+              {/* Close/menu button */}
               <button onClick={() => setGameState("menu")}
-                className="absolute top-14 left-3 bg-black/70 border border-white/20 rounded-xl px-2.5 py-1.5 pointer-events-auto z-30">
-                <span className="text-white/50 font-bold text-[10px]">MENU</span>
+                className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 border border-white/20 flex items-center justify-center pointer-events-auto z-30">
+                <span className="text-white/70 font-bold text-lg">✕</span>
               </button>
 
-              <div className="absolute bottom-3 left-3 text-[9px] text-white/15">
-                WASD{carType.canNitro ? " | E: NOS" : ""} | Lvl {selectedLevel}
+              <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
+                WASD: drive{carType.canNitro ? " | E: nitro" : ""} | 6 racers | Level {selectedLevel}
               </div>
             </div>
           )}
@@ -1663,94 +1193,43 @@ export default function RacetrackPage() {
         </>
       )}
 
-      {/* ═══ COUNTDOWN - TRAFFIC LIGHT ═══ */}
+      {/* ═══ COUNTDOWN ═══ */}
       <AnimatePresence>
         {gameState === "countdown" && (
-          <motion.div className="absolute inset-0 z-30 flex items-center justify-center"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/80"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-            <div className="flex flex-col items-center gap-3">
-              {/* Traffic light housing */}
-              <motion.div className="bg-[#1a1a2e]/95 border-2 border-white/15 rounded-3xl p-5 flex flex-col items-center gap-3 shadow-2xl backdrop-blur-sm"
-                initial={{ scale: 0.5, y: -30 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring", damping: 12 }}>
-                {/* Red light */}
-                <div className={`w-16 h-16 rounded-full border-2 transition-all duration-300 ${
-                  countdown >= 3 ? "bg-red-500 border-red-400" : "bg-red-500/10 border-white/10"
-                }`} style={countdown >= 3 ? { boxShadow: "0 0 30px rgba(239,68,68,0.8), 0 0 60px rgba(239,68,68,0.4)" } : {}} />
-                {/* Yellow light */}
-                <div className={`w-16 h-16 rounded-full border-2 transition-all duration-300 ${
-                  countdown === 2 ? "bg-yellow-400 border-yellow-300" : "bg-yellow-500/10 border-white/10"
-                }`} style={countdown === 2 ? { boxShadow: "0 0 30px rgba(250,204,21,0.8), 0 0 60px rgba(250,204,21,0.4)" } : {}} />
-                {/* Green light */}
-                <div className={`w-16 h-16 rounded-full border-2 transition-all duration-300 ${
-                  countdown <= 1 ? "bg-green-500 border-green-400" : "bg-green-500/10 border-white/10"
-                }`} style={countdown <= 1 ? { boxShadow: "0 0 30px rgba(34,197,94,0.8), 0 0 60px rgba(34,197,94,0.4)" } : {}} />
-              </motion.div>
-              {/* Text labels */}
-              <motion.div key={countdown} initial={{ scale: 1.5, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
-                className={`font-black text-3xl mt-1 ${
-                  countdown >= 3 ? "text-red-400" : countdown === 2 ? "text-yellow-400" : "text-green-400"
-                }`}>
-                {countdown >= 3 ? "READY" : countdown === 2 ? "SET" : "GO!"}
-              </motion.div>
-            </div>
+            <motion.div key={countdown} initial={{ scale: 3, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.5, opacity: 0 }}
+              className="text-7xl font-black text-[#BB44FF]">{countdown > 0 ? countdown : "GO!"}</motion.div>
           </motion.div>
         )}
       </AnimatePresence>
 
-      {/* ═══ RACE COMPLETE – PODIUM ═══ */}
+      {/* ═══ RACE COMPLETE ═══ */}
       <AnimatePresence>
         {gameState === "complete" && (
-          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/92 p-4"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90 p-4"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div className="w-full max-w-sm bg-[#0d1117] border rounded-3xl p-6 text-center"
               style={{ borderColor: `${posColor}33` }}
               initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
-
-              <div className="text-3xl mb-1">🏁</div>
-              <h2 className="text-white font-black text-xl mb-4">Race Complete!</h2>
-
-              {/* Podium */}
-              <div className="flex items-end justify-center gap-2 mb-5">
-                {/* 2nd */}
-                <div className="flex flex-col items-center">
-                  <div className="text-2xl mb-1">🥈</div>
-                  <div className={`w-16 rounded-t-lg flex items-end justify-center pb-1 ${finishPosition === 2 ? "ring-2 ring-silver" : ""}`}
-                    style={{ height: 52, background: finishPosition === 2 ? "rgba(192,192,192,0.25)" : "rgba(255,255,255,0.06)", border: "1px solid rgba(255,255,255,0.1)" }}>
-                    <span className="text-white/60 font-black text-sm">2nd</span>
-                  </div>
-                </div>
-                {/* 1st */}
-                <div className="flex flex-col items-center">
-                  <div className="text-3xl mb-1">🥇</div>
-                  <div className={`w-20 rounded-t-lg flex items-end justify-center pb-1 ${finishPosition === 1 ? "ring-2 ring-yellow-400" : ""}`}
-                    style={{ height: 72, background: finishPosition === 1 ? "rgba(255,215,0,0.2)" : "rgba(255,255,255,0.06)", border: "1px solid rgba(255,255,255,0.1)" }}>
-                    <span className="text-white/60 font-black text-sm">1st</span>
-                  </div>
-                </div>
-                {/* 3rd */}
-                <div className="flex flex-col items-center">
-                  <div className="text-2xl mb-1">🥉</div>
-                  <div className={`w-16 rounded-t-lg flex items-end justify-center pb-1 ${finishPosition === 3 ? "ring-2 ring-orange-400" : ""}`}
-                    style={{ height: 36, background: finishPosition === 3 ? "rgba(205,127,50,0.25)" : "rgba(255,255,255,0.06)", border: "1px solid rgba(255,255,255,0.1)" }}>
-                    <span className="text-white/60 font-black text-sm">3rd</span>
-                  </div>
-                </div>
+              <div className="text-5xl mb-2">🏁</div>
+              <h2 className="text-white font-black text-2xl">Race Complete!</h2>
+              <div className="mt-4 mb-2">
+                <div className="text-6xl font-black" style={{ color: posColor }}>{posLabel}</div>
+                <div className="text-white/30 text-sm mt-1">of 7 racers</div>
               </div>
-
-              {/* Result */}
-              <div className="font-black text-5xl mb-1" style={{ color: posColor }}>{posLabel}</div>
-              <div className="text-white/30 text-xs mb-3">of 7 racers · {finishTime.toFixed(1)}s</div>
-              <div className="text-sm font-black mb-1" style={{ color: posColor }}>{cardType} CARD</div>
-
+              <div className="space-y-1">
+                <div className="text-white/50 text-sm">Time: <span className="text-white font-bold">{finishTime.toFixed(1)}s</span></div>
+                <div className="text-sm font-bold" style={{ color: posColor }}>{cardType} CARD</div>
+              </div>
               {winStreak >= 3 && finishPosition === 1 && (
-                <div className="mt-2 mb-2 bg-purple-500/10 border border-purple-500/30 rounded-xl px-3 py-1.5">
-                  <div className="text-purple-400 font-black text-xs">⚡ LEGENDARY! {winStreak} wins in a row!</div>
+                <div className="mt-3 bg-purple-500/10 border border-purple-500/30 rounded-xl px-3 py-2">
+                  <div className="text-purple-400 font-black text-sm">LEGENDARY! {winStreak} wins in a row!</div>
                 </div>
               )}
-
-              <div className="flex gap-3 mt-4">
+              <div className="flex gap-3 mt-5">
                 <button onClick={() => setGameState("reward")}
-                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF]">
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF] hover:opacity-90 transition-all">
                   View Card
                 </button>
                 <button onClick={() => setGameState("menu")}
@@ -1778,7 +1257,7 @@ export default function RacetrackPage() {
                   className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-red-500 to-orange-500 active:scale-95">
                   Retry
                 </button>
-                <button onClick={() => router.push("/")}
+                <button onClick={() => router.push("/citydrive")}
                   className="flex-1 py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10 active:scale-95">
                   Back to City
                 </button>

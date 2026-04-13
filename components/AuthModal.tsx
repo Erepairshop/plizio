@@ -4,9 +4,8 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mail, Lock, X, Star } from "lucide-react";
 import { signUpWithEmail, signInWithEmail, signInWithGoogle } from "@/lib/auth";
-import { uploadToSupabase, syncToSupabase } from "@/lib/sync";
+import { uploadToSupabase } from "@/lib/sync";
 import { addSpecialCards } from "@/lib/specialCards";
-import { syncUsernameToSupabase } from "@/lib/username";
 
 interface AuthModalProps {
   onClose: () => void;
@@ -14,7 +13,7 @@ interface AuthModalProps {
   mode?: "register" | "login";
 }
 
-export default function AuthModal({ onClose, onSuccess, mode: initialMode = "login" }: AuthModalProps) {
+export default function AuthModal({ onClose, onSuccess, mode: initialMode = "register" }: AuthModalProps) {
   const [mode, setMode] = useState<"register" | "login">(initialMode);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -33,16 +32,15 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
           // Registration bonus
           addSpecialCards(3);
           await uploadToSupabase(data.user.id);
-          syncUsernameToSupabase(data.user.id).catch(() => {});
           localStorage.setItem("plizio_registered", "true");
           onSuccess();
         }
       } else {
         const data = await signInWithEmail(email, password);
         if (data.user) {
-          // Teljes kétirányú sync: download (szerver adatok visszaállítása) + upload (helyi adat mentése)
-          // syncToSupabase kezeli a dirty flag-et, username prioritást és a race conditiont
-          await syncToSupabase(data.user.id);
+          // Sync data from Supabase
+          const { downloadFromSupabase } = await import("@/lib/sync");
+          await downloadFromSupabase(data.user.id);
           onSuccess();
         }
       }
@@ -160,13 +158,12 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
           </motion.button>
 
           {/* Toggle mode */}
-          <motion.button
+          <button
             onClick={() => setMode(mode === "register" ? "login" : "register")}
-            className="text-white/50 text-sm hover:text-white transition-colors font-medium py-2 border-t border-white/5 mt-2"
-            whileHover={{ scale: 1.02 }}
+            className="text-white/30 text-xs hover:text-white/50 transition-colors"
           >
-            {mode === "register" ? "👤 Already have an account? Sign in here" : "✨ Don't have an account? Register here"}
-          </motion.button>
+            {mode === "register" ? "Already have an account? Sign in" : "Don't have an account? Register"}
+          </button>
         </motion.div>
       </motion.div>
     </AnimatePresence>

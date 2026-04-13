@@ -1,187 +1,31 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef, useMemo, Suspense } from "react";
-import { useSearchParams, useRouter } from "next/navigation";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X, Swords } from "lucide-react";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, X } from "lucide-react";
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
-import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
-import { useLang } from "@/components/LanguageProvider";
-import type { Language } from "@/lib/language";
-import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
-import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
-import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
-import MultiplayerResult from "@/components/MultiplayerResult";
-import MixRoundResult from "@/components/MixRoundResult";
-import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
-import { getUsername } from "@/lib/username";
-import { supabase } from "@/lib/supabase/client";
-import type { RealtimeChannel } from "@supabase/supabase-js";
+import generalData from "@/data/quickpick/general.json";
+import kpopData from "@/data/quickpick/kpop.json";
+import footballData from "@/data/quickpick/football.json";
+import animeData from "@/data/quickpick/anime.json";
 
-// English versions (default/fallback)
-import generalDataEn from "@/data/quickpick/general.json";
-import musicDataEn from "@/data/quickpick/music.json";
-import footballDataEn from "@/data/quickpick/football.json";
-import animeDataEn from "@/data/quickpick/anime.json";
-import gamingDataEn from "@/data/quickpick/gaming.json";
-import geographyDataEn from "@/data/quickpick/geography.json";
-import socialDataEn from "@/data/quickpick/social.json";
-import moviesDataEn from "@/data/quickpick/movies.json";
-
-// Hungarian versions
-import generalDataHu from "@/data/quickpick/general-hu.json";
-import musicDataHu from "@/data/quickpick/music-hu.json";
-import footballDataHu from "@/data/quickpick/football-hu.json";
-import animeDataHu from "@/data/quickpick/anime-hu.json";
-import gamingDataHu from "@/data/quickpick/gaming-hu.json";
-import geographyDataHu from "@/data/quickpick/geography-hu.json";
-import socialDataHu from "@/data/quickpick/social-hu.json";
-import moviesDataHu from "@/data/quickpick/movies-hu.json";
-
-// German versions
-import generalDataDe from "@/data/quickpick/general-de.json";
-import musicDataDe from "@/data/quickpick/music-de.json";
-import footballDataDe from "@/data/quickpick/football-de.json";
-import animeDataDe from "@/data/quickpick/anime-de.json";
-import gamingDataDe from "@/data/quickpick/gaming-de.json";
-import geographyDataDe from "@/data/quickpick/geography-de.json";
-import socialDataDe from "@/data/quickpick/social-de.json";
-import moviesDataDe from "@/data/quickpick/movies-de.json";
-
-// Romanian versions
-import generalDataRo from "@/data/quickpick/general-ro.json";
-import musicDataRo from "@/data/quickpick/music-ro.json";
-import footballDataRo from "@/data/quickpick/football-ro.json";
-import animeDataRo from "@/data/quickpick/anime-ro.json";
-import gamingDataRo from "@/data/quickpick/gaming-ro.json";
-import geographyDataRo from "@/data/quickpick/geography-ro.json";
-import socialDataRo from "@/data/quickpick/social-ro.json";
-import moviesDataRo from "@/data/quickpick/movies-ro.json";
-
-// Function to get theme data by language
-const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
-  const langMap: Record<Language, Record<string, Question[]>> = {
-    en: {
-      general: generalDataEn as Question[],
-      music: musicDataEn as Question[],
-      football: footballDataEn as Question[],
-      anime: animeDataEn as Question[],
-      gaming: gamingDataEn as Question[],
-      geography: geographyDataEn as Question[],
-      social: socialDataEn as Question[],
-      movies: moviesDataEn as Question[],
-    },
-    hu: {
-      general: generalDataHu as Question[],
-      music: musicDataHu as Question[],
-      football: footballDataHu as Question[],
-      anime: animeDataHu as Question[],
-      gaming: gamingDataHu as Question[],
-      geography: geographyDataHu as Question[],
-      social: socialDataHu as Question[],
-      movies: moviesDataHu as Question[],
-    },
-    de: {
-      general: generalDataDe as Question[],
-      music: musicDataDe as Question[],
-      football: footballDataDe as Question[],
-      anime: animeDataDe as Question[],
-      gaming: gamingDataDe as Question[],
-      geography: geographyDataDe as Question[],
-      social: socialDataDe as Question[],
-      movies: moviesDataDe as Question[],
-    },
-    ro: {
-      general: generalDataRo as Question[],
-      music: musicDataRo as Question[],
-      football: footballDataRo as Question[],
-      anime: animeDataRo as Question[],
-      gaming: gamingDataRo as Question[],
-      geography: geographyDataRo as Question[],
-      social: socialDataRo as Question[],
-      movies: moviesDataRo as Question[],
-    },
-  };
-
-  return langMap[lang] || langMap.en;
-};
-
-const TRANSLATIONS = {
-  en: {
-    themeLabels: {
-      general: "GEN",
-      music: "MUSIC",
-      football: "GOAL",
-      anime: "ANIME",
-      gaming: "GAME",
-      geography: "GEO",
-      social: "SOCIAL",
-      movies: "FILM",
-    },
-    tap: "TAP",
-    vs: "VS",
-    gameName: "Quick Pick",
-  },
-  hu: {
-    themeLabels: {
-      general: "ÁLTALÁNOS",
-      music: "ZENE",
-      football: "LABDA",
-      anime: "ANIME",
-      gaming: "JÁTÉK",
-      geography: "FÖLD",
-      social: "KÖZÖSSÉG",
-      movies: "FILM",
-    },
-    tap: "ÉRINT",
-    vs: "VS",
-    gameName: "Gyors Választás",
-  },
-  de: {
-    themeLabels: {
-      general: "ALLG",
-      music: "MUSIK",
-      football: "BALL",
-      anime: "ANIME",
-      gaming: "SPIEL",
-      geography: "GEO",
-      social: "SOZIAL",
-      movies: "FILM",
-    },
-    tap: "BERÜHR",
-    vs: "VS",
-    gameName: "Schnelle Wahl",
-  },
-  ro: {
-    themeLabels: {
-      general: "GENERAL",
-      music: "MUZICĂ",
-      football: "MINGE",
-      anime: "ANIME",
-      gaming: "JOC",
-      geography: "GEOGRAFIE",
-      social: "SOCIAL",
-      movies: "FILM",
-    },
-    tap: "APASĂ",
-    vs: "VS",
-    gameName: "Alegere Rapidă",
-  },
+const THEME_DATA: Record<string, Question[]> = {
+  general: generalData as Question[],
+  kpop: kpopData as Question[],
+  football: footballData as Question[],
+  anime: animeData as Question[],
 };
 
 const THEMES = [
-  { id: "general", icon: Globe, color: "#00D4FF" },
-  { id: "music", icon: Music, color: "#FF2D78" },
-  { id: "football", icon: CircleDot, color: "#00FF88" },
-  { id: "anime", icon: Sparkles, color: "#FFD700" },
-  { id: "gaming", icon: Gamepad2, color: "#8B5CF6" },
-  { id: "geography", icon: MapPin, color: "#06B6D4" },
-  { id: "social", icon: Share2, color: "#F97316" },
-  { id: "movies", icon: Film, color: "#EF4444" },
+  { id: "general", icon: Globe, label: "GEN", color: "#00D4FF" },
+  { id: "kpop", icon: Music, label: "K-POP", color: "#FF2D78" },
+  { id: "football", icon: CircleDot, label: "GOAL", color: "#00FF88" },
+  { id: "anime", icon: Sparkles, label: "ANIME", color: "#FFD700" },
 ];
 
 interface Question {
@@ -198,16 +42,12 @@ interface Question {
 // Theme background gradients
 const THEME_GRADIENTS: Record<string, string> = {
   general: "from-blue-950/30 to-cyan-950/20",
-  music: "from-pink-950/30 to-purple-950/20",
+  kpop: "from-pink-950/30 to-purple-950/20",
   football: "from-green-950/30 to-emerald-950/20",
   anime: "from-amber-950/30 to-yellow-950/20",
-  gaming: "from-violet-950/30 to-purple-950/20",
-  geography: "from-cyan-950/30 to-teal-950/20",
-  social: "from-orange-950/30 to-amber-950/20",
-  movies: "from-red-950/30 to-rose-950/20",
 };
 
-type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward" | "multi-result" | "mix-waiting";
+type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward";
 
 function formatNumber(n: number): string {
   if (n >= 1_000_000_000) return `${(n / 1_000_000_000).toFixed(1)}B`;
@@ -216,25 +56,10 @@ function formatNumber(n: number): string {
   return n.toString();
 }
 
-// Seeded PRNG (mulberry32)
-function seededRandom(seed: string): () => number {
-  let h = 0;
-  for (let i = 0; i < seed.length; i++) {
-    h = Math.imul(31, h) + seed.charCodeAt(i) | 0;
-  }
-  return () => {
-    h |= 0; h = h + 0x6D2B79F5 | 0;
-    let t = Math.imul(h ^ h >>> 15, 1 | h);
-    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
-    return ((t ^ t >>> 14) >>> 0) / 4294967296;
-  };
-}
-
-function shuffleArray<T>(arr: T[], rng?: () => number): T[] {
+function shuffleArray<T>(arr: T[]): T[] {
   const shuffled = [...arr];
-  const random = rng || Math.random;
   for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(random() * (i + 1));
+    const j = Math.floor(Math.random() * (i + 1));
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
   return shuffled;
@@ -270,39 +95,9 @@ function updateStreak(): number {
 }
 
 const TOTAL_ROUNDS = 10;
-// Időbónusz paraméterek (láthatatlan a játékos számára)
-const EXPECTED_TIME = 30; // másodperc — ennél gyorsabb = bónusz
-const TIME_BONUS_PER_SEC = 10; // pont/másodperc
-const TIME_BONUS_MAX = 150; // max 150 pont bónusz
-const MAX_SCORE = TOTAL_ROUNDS * 100 + TIME_BONUS_MAX; // 1150
 
-export default function QuickPickPageWrapper() {
-  return (
-    <Suspense fallback={<div className="min-h-screen bg-bg" />}>
-      <QuickPickPage />
-    </Suspense>
-  );
-}
-
-function QuickPickPage() {
-  const { lang } = useLang();
-  const t = TRANSLATIONS[lang] ?? TRANSLATIONS.en;
-  const searchParams = useSearchParams();
-  const router = useRouter();
-
-  // Multiplayer params
-  const matchId = searchParams.get("match");
-  const seed = searchParams.get("seed");
-  const playerNum = searchParams.get("p"); // "1" or "2"
-  const opponentName = searchParams.get("vs") || "???";
-  const mixround = searchParams.get("mixround");
-  const isMultiplayer = !!(matchId && seed);
-  const isMix = !!(isMultiplayer && mixround);
-
-  // Get language-specific theme data
-  const THEME_DATA = useMemo(() => getThemeDataByLanguage(lang), [lang]);
-
-  const [gameState, setGameState] = useState<GameState>(isMultiplayer ? "playing" : "theme-select");
+export default function QuickPickPage() {
+  const [gameState, setGameState] = useState<GameState>("theme-select");
   const [selectedTheme, setSelectedTheme] = useState("general");
   const [countdown, setCountdown] = useState(3);
   const [round, setRound] = useState(0);
@@ -312,154 +107,13 @@ function QuickPickPage() {
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [totalTime, setTotalTime] = useState(0);
   const [streak, setStreak] = useState(0);
-  const [scoreSubmitted, setScoreSubmitted] = useState(false);
-  const [showExitConfirm, setShowExitConfirm] = useState(false);
-  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
-  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
-  const [mixFinished, setMixFinished] = useState(false);
-  const [earnedRarity, setEarnedRarity] = useState<CardRarity>("bronze");
-  const [roundResult, setRoundResult] = useState<{ myScore: number; oppScore: number; roundNumber: number; totalRounds: number } | null>(null);
-  const [showRoundResult, setShowRoundResult] = useState(false);
-  const [oppScore, setOppScore] = useState(0);
-  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
-  const nextRoundUrlRef = useRef<string | null>(null);
   const startTimeRef = useRef<number>(0);
-  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
-  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
 
   useEffect(() => {
     setStreak(getStreak());
   }, []);
-
-  // Auto-start multiplayer game with seeded questions
-  useEffect(() => {
-    if (!isMultiplayer || questions.length > 0) return;
-    const rng = seededRandom(seed);
-    const data = THEME_DATA.general;
-    const shuffled = shuffleArray(data, rng).slice(0, TOTAL_ROUNDS).map((q) => {
-      if (rng() < 0.5) {
-        return { ...q, itemA: q.itemB, valueA: q.valueB, emojiA: q.emojiB, itemB: q.itemA, valueB: q.valueA, emojiB: q.emojiA };
-      }
-      return q;
-    });
-    setQuestions(shuffled);
-    startTimeRef.current = Date.now();
-  }, [isMultiplayer, seed, THEME_DATA, questions.length]);
-
-  // ─── MULTIPLAYER: Broadcast channel setup ────────
-  useEffect(() => {
-    if (!isMultiplayer || !matchId) return;
-
-    const channel = supabase.channel(`quickpick-${matchId}`, {
-      config: { broadcast: { self: false } },
-    });
-
-    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
-      if (payload.payload.p !== playerNum) {
-        setOppScore(payload.payload.score);
-        setOppMood("happy");
-        setTimeout(() => setOppMood("focused"), 600);
-      }
-    });
-
-    channel.subscribe((status) => {
-      if (status === "SUBSCRIBED") {
-        // Send initial avatar/name handshake (optional)
-      }
-    });
-
-    broadcastChannelRef.current = channel;
-
-    return () => {
-      channel.unsubscribe();
-      broadcastChannelRef.current = null;
-    };
-  }, [isMultiplayer, matchId, playerNum]);
-
-  // ─── MULTIPLAYER: Broadcast score updates ────────
-  useEffect(() => {
-    if (!isMultiplayer || gameState !== "playing" || !broadcastChannelRef.current) return;
-
-    broadcastIntervalRef.current = setInterval(() => {
-      broadcastChannelRef.current?.send({
-        type: "broadcast",
-        event: "scoreUpdate",
-        payload: { p: playerNum, score, theme: selectedTheme },
-      });
-    }, 500); // Send score update every 500ms
-
-    return () => {
-      if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current);
-    };
-  }, [isMultiplayer, gameState, playerNum, score, selectedTheme]);
-
-  // Poll for opponent completion (multiplayer waiting)
-  useEffect(() => {
-    if (gameState !== "mix-waiting" || !isMultiplayer || !matchId) return;
-    const isP1 = playerNum === "1";
-
-    const checkMatch = async () => {
-      if (isMix) {
-        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
-        if (result.action === "finished") {
-          setMyFinalScore(result.myWins);
-          setOppFinalScore(result.oppWins);
-          setMixFinished(true);
-          // Save one card for the whole mix (time elapsed unknown here, use score-only rarity)
-          const mixRarity: CardRarity = score === TOTAL_ROUNDS && streak >= 3
-            ? "legendary"
-            : calculateRarity(score * 100, MAX_SCORE, streak, 85);
-          saveCard({
-            id: generateCardId(), game: "quickpick", theme: selectedTheme,
-            rarity: mixRarity, score, total: TOTAL_ROUNDS, date: new Date().toISOString(),
-          });
-          window.dispatchEvent(new Event("plizio-cards-changed"));
-          incrementTotalGames();
-          if (score === TOTAL_ROUNDS) incrementPerfectScores();
-          updateStats({ highestStreak: streak });
-          setGameState("multi-result");
-          return true;
-        }
-        if (result.action === "next") {
-          // Store round result and show it before navigating
-          if (result.roundScores) {
-            setRoundResult(result.roundScores);
-            setShowRoundResult(true);
-            nextRoundUrlRef.current = result.url;
-            // Auto-navigate after 2.5 seconds
-            setTimeout(() => {
-              router.push(result.url);
-            }, 2500);
-          } else {
-            router.push(result.url);
-          }
-          return true;
-        }
-        return false;
-      } else {
-        // Single match: check opponent done
-        const { supabase } = await import("@/lib/supabase/client");
-        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
-        if (!data) return false;
-        const oppDone = isP1 ? data.player2_done : data.player1_done;
-        const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
-        if (oppDone && oppScoreVal !== null) {
-          setOppFinalScore(oppScoreVal);
-          setGameState("multi-result");
-          return true;
-        }
-        return false;
-      }
-    };
-    checkMatch();
-    const interval = setInterval(async () => {
-      const done = await checkMatch();
-      if (done) clearInterval(interval);
-    }, 2000);
-    return () => clearInterval(interval);
-  }, [gameState, isMultiplayer, matchId, isMix, playerNum, router, opponentName, score, streak, selectedTheme, mixround]);
 
   const startGame = (themeId: string) => {
     setSelectedTheme(themeId);
@@ -540,51 +194,22 @@ function QuickPickPage() {
         setTotalTime(elapsed);
         const newStreak = updateStreak();
         setStreak(newStreak);
+        // Save card and show reward first
+        const rarity = calculateRarity(score + (correct ? 1 : 0), TOTAL_ROUNDS, newStreak);
+        saveCard({
+          id: generateCardId(),
+          game: "quickpick",
+          theme: selectedTheme,
+          rarity,
+          score: score + (correct ? 1 : 0),
+          total: TOTAL_ROUNDS,
+          date: new Date().toISOString(),
+        });
         const finalScore = score + (correct ? 1 : 0);
-
-        // Időbónusz számítás (láthatatlan)
-        const timeBonus = Math.min(TIME_BONUS_MAX, Math.max(0, (EXPECTED_TIME - elapsed) * TIME_BONUS_PER_SEC));
-        const combinedScore = finalScore * 100 + timeBonus;
-        const rarity: CardRarity = finalScore === TOTAL_ROUNDS && newStreak >= 3
-          ? "legendary"
-          : calculateRarity(combinedScore, MAX_SCORE, newStreak, 85);
-
-        if (isMix && matchId && !scoreSubmitted) {
-          // Mix mode: submit round score, NO card save between rounds
-          setScoreSubmitted(true);
-          submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
-            // Go to waiting — polling effect handles advancement
-            setGameState("mix-waiting");
-          });
-        } else if (isMultiplayer && matchId && !scoreSubmitted) {
-          // Single multiplayer match: submit score, then poll for opponent
-          setScoreSubmitted(true);
-          submitScore(matchId, finalScore, playerNum === "1");
-          // Save card
-          setEarnedRarity(rarity);
-          saveCard({
-            id: generateCardId(), game: "quickpick", theme: selectedTheme,
-            rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
-          });
-          window.dispatchEvent(new Event("plizio-cards-changed"));
-          incrementTotalGames();
-          if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
-          updateStats({ highestStreak: newStreak });
-          // Wait for opponent score via polling
-          setGameState("mix-waiting");
-        } else {
-          // Solo mode: save card and show reward
-          setEarnedRarity(rarity);
-          saveCard({
-            id: generateCardId(), game: "quickpick", theme: selectedTheme,
-            rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
-          });
-          window.dispatchEvent(new Event("plizio-cards-changed"));
-          incrementTotalGames();
-          if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
-          updateStats({ highestStreak: newStreak });
-          setGameState("reward");
-        }
+        incrementTotalGames();
+        if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
+        updateStats({ highestStreak: newStreak });
+        setGameState("reward");
       } else {
         setRound((r) => r + 1);
         setPicked(null);
@@ -631,14 +256,14 @@ function QuickPickPage() {
         >
           <Crosshair size={40} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
 
-          <div className="grid grid-cols-4 gap-2.5 w-full max-w-sm px-2">
+          <div className="flex gap-3">
             {THEMES.map((theme) => {
               const Icon = theme.icon;
               return (
                 <motion.button
                   key={theme.id}
                   onClick={() => startGame(theme.id)}
-                  className="bg-card border border-white/5 rounded-2xl p-4 flex flex-col items-center gap-2"
+                  className="bg-card border border-white/5 rounded-2xl p-5 flex flex-col items-center gap-2.5 w-24"
                   style={{ boxShadow: `0 0 0 0px ${theme.color}` }}
                   whileHover={{
                     scale: 1.08,
@@ -647,9 +272,9 @@ function QuickPickPage() {
                   }}
                   whileTap={{ scale: 0.95 }}
                 >
-                  <Icon size={24} style={{ color: theme.color, filter: `drop-shadow(0 0 6px ${theme.color}40)` }} />
-                  <span className="text-[9px] font-bold tracking-wider" style={{ color: theme.color }}>
-                    {t.themeLabels[theme.id as keyof typeof t.themeLabels]}
+                  <Icon size={28} style={{ color: theme.color, filter: `drop-shadow(0 0 6px ${theme.color}40)` }} />
+                  <span className="text-[10px] font-bold tracking-widest" style={{ color: theme.color }}>
+                    {theme.label}
                   </span>
                 </motion.button>
               );
@@ -711,19 +336,11 @@ function QuickPickPage() {
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
             {/* Close button */}
-            {isMultiplayer ? (
-              <button onClick={() => setShowExitConfirm(true)}>
-                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
-                  <X size={16} className="text-white/60" />
-                </div>
-              </button>
-            ) : (
-              <Link href="/">
-                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
-                  <X size={16} className="text-white/60" />
-                </div>
-              </Link>
-            )}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
 
             {/* Progress dots */}
             <div className="flex gap-1.5">
@@ -816,7 +433,7 @@ function QuickPickPage() {
                 animate={{ opacity: [0.15, 0.3, 0.15] }}
                 transition={{ repeat: Infinity, duration: 2 }}
               >
-                {t.tap}
+                TAP
               </motion.div>
             )}
 
@@ -843,7 +460,7 @@ function QuickPickPage() {
               animate={{ scale: [1, 1.05, 1] }}
               transition={{ repeat: Infinity, duration: 2 }}
             >
-              <span className="text-xs font-black text-white/30">{t.vs}</span>
+              <span className="text-xs font-black text-white/30">VS</span>
             </motion.div>
           </div>
 
@@ -886,7 +503,7 @@ function QuickPickPage() {
                 animate={{ opacity: [0.15, 0.3, 0.15] }}
                 transition={{ repeat: Infinity, duration: 2 }}
               >
-                {t.tap}
+                TAP
               </motion.div>
             )}
 
@@ -925,80 +542,10 @@ function QuickPickPage() {
         )}
       </AnimatePresence>
 
-      {/* Waiting for opponent */}
-      {gameState === "mix-waiting" && !showRoundResult && (
-        <motion.div
-          className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-        >
-          <motion.div
-            className="text-3xl font-black text-neon-blue"
-            style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
-            initial={{ scale: 0.8 }}
-            animate={{ scale: 1 }}
-          >
-            {score}/{TOTAL_ROUNDS}
-          </motion.div>
-          {isMix && (
-            <span className="text-white/60 text-xs font-bold uppercase">
-              Round {mixround} ✓
-            </span>
-          )}
-          <motion.div
-            className="w-10 h-10 border-2 border-neon-blue border-t-transparent rounded-full"
-            animate={{ rotate: 360 }}
-            transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
-          />
-          <span className="text-white/70 text-sm font-medium text-center">
-            {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
-             lang === "de" ? `Warte auf ${opponentName}...` :
-             lang === "ro" ? `Se așteaptă ${opponentName}...` :
-             `Waiting for ${opponentName}...`}
-          </span>
-        </motion.div>
-      )}
-
-      {/* Mix Round Result - shows before navigating to next round */}
-      {showRoundResult && roundResult && (
-        <MixRoundResult
-          roundNumber={roundResult.roundNumber}
-          totalRounds={roundResult.totalRounds}
-          p1Score={playerNum === "1" ? roundResult.myScore : roundResult.oppScore}
-          p2Score={playerNum === "1" ? roundResult.oppScore : roundResult.myScore}
-          p1Name={playerNum === "1" ? (getUsername() || "???") : opponentName}
-          p2Name={playerNum === "1" ? opponentName : (getUsername() || "???")}
-          isWaiting={true}
-        />
-      )}
-
-      {/* Multiplayer Opponent Panel - real-time score tracking */}
-      {isMultiplayer && (
-        <MultiplayerOpponentPanel
-          opponentName={opponentName}
-          opponentScore={oppScore}
-          opponentMood={oppMood}
-          totalRounds={TOTAL_ROUNDS}
-          isVisible={gameState === "playing" || gameState === "reveal"}
-          scoreJustIncreased={false}
-        />
-      )}
-
-      {/* Multiplayer result — win/lose with 2 avatars */}
-      {gameState === "multi-result" && oppFinalScore !== null && (
-        <MultiplayerResult
-          myScore={myFinalScore !== null ? myFinalScore : score}
-          oppScore={oppFinalScore}
-          myName={getUsername() || "???"}
-          oppName={opponentName}
-          onContinue={() => setGameState("reward")}
-        />
-      )}
-
-      {/* Reward Reveal - shows after multi-result (or directly for solo) */}
+      {/* Reward Reveal - shows FIRST after game ends */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={earnedRarity}
+          rarity={calculateRarity(score, TOTAL_ROUNDS, streak)}
           game="quickpick"
           score={score}
           total={TOTAL_ROUNDS}
@@ -1013,40 +560,11 @@ function QuickPickPage() {
             score={score}
             total={TOTAL_ROUNDS}
             time={totalTime}
-            gameName={isMultiplayer ? `${t.gameName} ⚔️` : t.gameName}
+            gameName="Quick Pick"
             gameIcon={<Crosshair size={24} className="text-neon-pink" />}
-            onPlayAgain={isMultiplayer ? undefined : handlePlayAgain}
+            onPlayAgain={handlePlayAgain}
           />
-          {isMultiplayer && (
-            <Link href="/multiplayer">
-              <motion.button
-                className="mt-4 flex items-center gap-2 px-6 py-3 rounded-xl bg-neon-pink/15 border border-neon-pink/40 text-neon-pink font-bold text-sm"
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <Swords size={16} />
-                Multiplayer
-              </motion.button>
-            </Link>
-          )}
           <MilestonePopup />
-        </>
-      )}
-
-      {/* Multiplayer exit confirm */}
-      {isMultiplayer && matchId && (
-        <>
-          <MultiplayerExitConfirm
-            open={showExitConfirm}
-            onStay={() => setShowExitConfirm(false)}
-            onLeave={() => {
-              abandonMatch(matchId);
-              router.push("/multiplayer");
-            }}
-          />
-          {gameState === "playing" && (
-            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
-          )}
         </>
       )}
     </main>

@@ -1,49 +1,19 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback, useMemo, Suspense } from "react";
+import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
-import { Html } from "@react-three/drei";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Shield, Zap, X } from "lucide-react";
 import Link from "next/link";
-import { useSearchParams, useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
-import { getGender } from "@/lib/gender";
-import { AVATAR_DEFAULTS } from "@/lib/avatarDefaults";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
-import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
-import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
-import MultiplayerResult from "@/components/MultiplayerResult";
-import MixRoundResult from "@/components/MixRoundResult";
-import { submitScore, submitMixRoundScore, abandonMatch, pollMixRound } from "@/lib/multiplayer";
-import { getUsername } from "@/lib/username";
-import { supabase } from "@/lib/supabase/client";
-import type { RealtimeChannel } from "@supabase/supabase-js";
-
-// ─── SEEDED PRNG ────────────────────────────────
-function mulberry32(seed: number) {
-  return function () {
-    seed |= 0;
-    seed = (seed + 0x6d2b79f5) | 0;
-    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
-    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
-function hashSeed(str: string): number {
-  let h = 0;
-  for (let i = 0; i < str.length; i++) {
-    h = ((h << 5) - h + str.charCodeAt(i)) | 0;
-  }
-  return h;
-}
 
 // ─── TYPES ──────────────────────────────────────
 interface Platform3D {
@@ -77,7 +47,7 @@ interface PowerUpItem {
   collected: boolean;
 }
 
-type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward" | "multi-waiting" | "mix-round-result";
+type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
 
 // ─── CONSTANTS (TUNED) ──────────────────────────
 const GRAVITY = 0.022;
@@ -98,8 +68,7 @@ const MAGNET_PULL = 0.006;
 const WIN_ANIM_FRAMES = 90;
 
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
-function generateLevel(level: number, seed?: string): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
-  const rng = seed ? mulberry32(hashSeed(seed + "-" + level)) : () => Math.random();
+function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
 
@@ -111,9 +80,9 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
     p.trees = [];
     for (let i = 0; i < count; i++) {
       p.trees.push({
-        ox: (rng() - 0.5) * Math.max(p.w - 2, 1),
-        oz: (rng() - 0.5) * Math.max(p.d - 2, 1),
-        s: 0.6 + rng() * 0.6,
+        ox: (Math.random() - 0.5) * Math.max(p.w - 2, 1),
+        oz: (Math.random() - 0.5) * Math.max(p.d - 2, 1),
+        s: 0.6 + Math.random() * 0.6,
       });
     }
   }
@@ -122,9 +91,9 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
     p.rocks = [];
     for (let i = 0; i < count; i++) {
       p.rocks.push({
-        ox: (rng() - 0.5) * Math.max(p.w - 1, 0.5),
-        oz: (rng() - 0.5) * Math.max(p.d - 1, 0.5),
-        s: 0.2 + rng() * 0.4,
+        ox: (Math.random() - 0.5) * Math.max(p.w - 1, 0.5),
+        oz: (Math.random() - 0.5) * Math.max(p.d - 1, 0.5),
+        s: 0.2 + Math.random() * 0.4,
       });
     }
   }
@@ -139,36 +108,36 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
   const segCount = 8 + level * 2;
 
   for (let s = 0; s < segCount; s++) {
-    const roll = rng();
+    const roll = Math.random();
 
     // Lateral shift increases with difficulty for zigzag paths
-    const lateralShift = difficulty >= 3 ? (rng() - 0.5) * (1.5 + difficulty * 0.3) : (rng() - 0.5) * 0.4;
+    const lateralShift = difficulty >= 3 ? (Math.random() - 0.5) * (1.5 + difficulty * 0.3) : (Math.random() - 0.5) * 0.4;
 
     if (s < 2 || (s % 4 === 0 && roll < 0.35)) {
       // ── GROUND REST AREA ──
-      const depth = 5 + rng() * 3;
-      const w = 6 + rng() * 3;
-      const h = 1 + rng() * 0.5;
-      surfY += 0.6 + rng() * 0.4;
+      const depth = 5 + Math.random() * 3;
+      const w = 6 + Math.random() * 3;
+      const h = 1 + Math.random() * 0.5;
+      surfY += 0.6 + Math.random() * 0.4;
       cx += lateralShift;
 
-      const gap = 0.5 + rng() * 0.3;
+      const gap = 0.5 + Math.random() * 0.3;
       const centerZ = edgeZ + gap + depth / 2;
       const p: Platform3D = {
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d: depth, h, type: "ground",
       };
-      addTrees(p, 1 + Math.floor(rng() * 2));
-      addRocks(p, Math.floor(rng() * 2));
+      addTrees(p, 1 + Math.floor(Math.random() * 2));
+      addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + depth / 2;
     } else if (roll < 0.40) {
       // ── GAP JUMP — wider platforms, manageable gaps ──
       const gap = 0.8 + difficulty * 0.06;
-      const d = 4 + rng() * 2;
-      const w = 4 + rng() * 2;
-      const h = 0.6 + rng() * 0.4;
-      surfY += 0.3 + rng() * 0.5;
+      const d = 4 + Math.random() * 2;
+      const w = 4 + Math.random() * 2;
+      const h = 0.6 + Math.random() * 0.4;
+      surfY += 0.3 + Math.random() * 0.5;
       cx += lateralShift * 1.5;
 
       const centerZ = edgeZ + gap + d / 2;
@@ -176,21 +145,21 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d, h, type: "rock",
       };
-      addRocks(p, Math.floor(rng() * 2));
+      addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + d / 2;
     } else if (roll < 0.58) {
       // ── STAIRCASE — zigzag steps at higher levels ──
-      const steps = 3 + Math.floor(rng() * 3);
+      const steps = 3 + Math.floor(Math.random() * 3);
       const zigzag = difficulty >= 4;
       for (let i = 0; i < steps; i++) {
-        const stepD = 2.5 + rng() * 1.0;
-        const stepW = 3.5 + rng() * 1.5;
-        const stepH = 0.4 + rng() * 0.3;
-        surfY += 0.5 + rng() * 0.3;
-        cx += zigzag ? ((i % 2 === 0 ? 1 : -1) * (1.0 + rng() * 0.8)) : (rng() - 0.5) * 0.7;
+        const stepD = 2.5 + Math.random() * 1.0;
+        const stepW = 3.5 + Math.random() * 1.5;
+        const stepH = 0.4 + Math.random() * 0.3;
+        surfY += 0.5 + Math.random() * 0.3;
+        cx += zigzag ? ((i % 2 === 0 ? 1 : -1) * (1.0 + Math.random() * 0.8)) : (Math.random() - 0.5) * 0.7;
 
-        const gap = 0.3 + rng() * 0.2;
+        const gap = 0.3 + Math.random() * 0.2;
         const centerZ = edgeZ + gap + stepD / 2;
         platforms.push({
           x: cx, y: surfY - stepH / 2, z: centerZ,
@@ -200,15 +169,15 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
       }
     } else if (roll < 0.68) {
       // ── BRIDGE — slightly wider ──
-      const bLen = 4 + rng() * 4;
+      const bLen = 4 + Math.random() * 4;
       const bH = 0.3;
-      surfY += 0.2 + rng() * 0.2;
+      surfY += 0.2 + Math.random() * 0.2;
       cx += lateralShift * 0.5;
 
       const centerZ = edgeZ + bLen / 2;
       platforms.push({
         x: cx, y: surfY - bH / 2, z: centerZ,
-        w: 2.2 + rng() * 0.6, d: bLen, h: bH, type: "bridge",
+        w: 2.2 + Math.random() * 0.6, d: bLen, h: bH, type: "bridge",
       });
       edgeZ = centerZ + bLen / 2;
     } else if (difficulty >= 3 && roll < 0.78) {
@@ -222,18 +191,18 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
         x: cx, y: surfY - 0.2, z: centerZ, w: 3.5, d: 3.5, h: 0.4,
         type: "moving",
         origX: cx, origZ: centerZ,
-        moveAxis: rng() > 0.5 ? "x" : "z",
-        moveRange: 1.2 + rng() * 1.2,
+        moveAxis: Math.random() > 0.5 ? "x" : "z",
+        moveRange: 1.2 + Math.random() * 1.2,
         moveSpeed: 0.35 + difficulty * 0.08,
         deltaX: 0, deltaZ: 0,
       });
       edgeZ = centerZ + 1.75;
     } else if (difficulty >= 4 && roll < 0.88) {
       // ── CRUMBLE PLATFORMS ──
-      const count = 2 + Math.floor(rng() * 2);
+      const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
-        surfY += 0.3 + rng() * 0.3;
-        cx += (rng() - 0.5) * 1.5;
+        surfY += 0.3 + Math.random() * 0.3;
+        cx += (Math.random() - 0.5) * 1.5;
         const pD = 3;
 
         const centerZ = edgeZ + 0.6 + pD / 2;
@@ -246,11 +215,11 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
       }
     } else if (difficulty >= 5 && roll < 0.93) {
       // ── FLOATING SPHERES / SMALL ISLANDS — high level challenge ──
-      const count = 2 + Math.floor(rng() * 3);
+      const count = 2 + Math.floor(Math.random() * 3);
       for (let i = 0; i < count; i++) {
-        surfY += 0.4 + rng() * 0.5;
-        cx += ((i % 2 === 0 ? 1 : -1) * (1.5 + rng() * 1.5));
-        const size = 1.8 + rng() * 1.2;
+        surfY += 0.4 + Math.random() * 0.5;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.5 + Math.random() * 1.5));
+        const size = 1.8 + Math.random() * 1.2;
 
         const centerZ = edgeZ + 1.0 + size / 2;
         platforms.push({
@@ -262,12 +231,12 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
       }
     } else if (level >= 10 && roll < 0.96) {
       // ── ICE PLATFORMS (level 10+) — slippery, low friction ──
-      const count = 2 + Math.floor(rng() * 3);
+      const count = 2 + Math.floor(Math.random() * 3);
       for (let i = 0; i < count; i++) {
-        surfY += 0.3 + rng() * 0.4;
-        cx += (rng() - 0.5) * 2.5;
-        const d = 3 + rng() * 2;
-        const w = 3 + rng() * 2;
+        surfY += 0.3 + Math.random() * 0.4;
+        cx += (Math.random() - 0.5) * 2.5;
+        const d = 3 + Math.random() * 2;
+        const w = 3 + Math.random() * 2;
         const centerZ = edgeZ + 0.6 + d / 2;
         platforms.push({
           x: cx, y: surfY - 0.15, z: centerZ,
@@ -278,11 +247,11 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
       }
     } else if (level >= 15) {
       // ── BOUNCE PLATFORMS (level 15+) — bounce you up high ──
-      const count = 2 + Math.floor(rng() * 2);
+      const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
-        surfY += 0.8 + rng() * 0.6;
-        cx += ((i % 2 === 0 ? 1 : -1) * (1.2 + rng() * 1.5));
-        const size = 2.2 + rng() * 1.0;
+        surfY += 0.8 + Math.random() * 0.6;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.2 + Math.random() * 1.5));
+        const size = 2.2 + Math.random() * 1.0;
         const centerZ = edgeZ + 1.2 + size / 2;
         platforms.push({
           x: cx, y: surfY - 0.15, z: centerZ,
@@ -315,13 +284,13 @@ function generateLevel(level: number, seed?: string): { platforms: Platform3D[];
   const candidates = platforms.slice(2, -1).filter(p => p.type !== "crumble" && p.type !== "moving");
 
   if (candidates.length > 0) {
-    const idx = Math.floor(rng() * candidates.length);
+    const idx = Math.floor(Math.random() * candidates.length);
     const plat = candidates[idx];
     powerUps.push({
-      x: plat.x + (rng() - 0.5) * Math.max(plat.w - 2, 0.5),
+      x: plat.x + (Math.random() - 0.5) * Math.max(plat.w - 2, 0.5),
       y: plat.y + plat.h / 2 + 1.2,
-      z: plat.z + (rng() - 0.5) * Math.max(plat.d - 2, 0.5),
-      type: availableTypes[Math.floor(rng() * availableTypes.length)],
+      z: plat.z + (Math.random() - 0.5) * Math.max(plat.d - 2, 0.5),
+      type: availableTypes[Math.floor(Math.random() * availableTypes.length)],
       collected: false,
     });
   }
@@ -360,8 +329,6 @@ interface GameData {
   rocketTimer: number;
   // Platform state
   onIce: boolean;
-  // Progress tracking
-  bestHeight: number;
   // Win animation
   winAnim: boolean;
   winAnimTimer: number;
@@ -396,13 +363,12 @@ function createGameData(): GameData {
     magnetTimer: 0,
     rocketTimer: 0,
     onIce: false,
-    bestHeight: 0,
     winAnim: false,
     winAnimTimer: 0,
   };
 }
 
-// ─── CHARACTER (HUMANOID) ────────────────────────────
+// ─── CHARACTER (BOX-MAN) ────────────────────────────
 function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObject<GameData>; skinId: string; hatId: string | null; trailId: string | null }) {
   const groupRef = useRef<THREE.Group>(null);
   const bodyGroupRef = useRef<THREE.Group>(null);
@@ -410,8 +376,6 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   const rightLegRef = useRef<THREE.Group>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
-  const leftForearmRef = useRef<THREE.Group>(null);
-  const rightForearmRef = useRef<THREE.Group>(null);
   const trailRef = useRef<THREE.Group>(null);
 
   const skin = useMemo(() => getSkinDef(skinId), [skinId]);
@@ -427,47 +391,34 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   const gloveDef = useMemo(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; }, []);
   const face = useMemo(() => getFaceDef(getActiveFace()), []);
 
-  const gender = useMemo(() => getGender(), []);
-  const hasRealSkin = skin.id !== 'default';
-  const hairColor = hasRealSkin ? skin.headColor : AVATAR_DEFAULTS.hairColor;
-  const skinHeadColor = hasRealSkin ? skin.headColor : AVATAR_DEFAULTS.skinColor;
-  const isGirl = gender === 'girl';
-
   // Trail particle positions
   const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
 
-  // Materials - imported from shared AVATAR_DEFAULTS
-  const bodyColor = topDef ? topDef.color : (hasRealSkin ? skin.bodyColor : AVATAR_DEFAULTS.outfitColor);
-  const legColor = bottomDef ? bottomDef.color : (hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.legColor);
-  const shoeColor = shoeDef ? shoeDef.color : (hasRealSkin ? skin.shoeColor : AVATAR_DEFAULTS.shoeColor);
-  const armEndColor = gloveDef ? gloveDef.color : (hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor);
+  // Materials - clothing overrides skin colors where equipped
+  const bodyColor = topDef ? topDef.color : skin.bodyColor;
+  const legColor = bottomDef ? bottomDef.color : skin.limbColor;
+  const shoeColor = shoeDef ? shoeDef.color : skin.shoeColor;
+  const armEndColor = gloveDef ? gloveDef.color : skin.limbColor;
 
-  // Emissive intensity matching AvatarCompanion (base = skin.emissiveIntensity * 0.3)
-  const ei = skin.emissiveIntensity * 0.3;
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: bodyColor, emissive: skin.emissive, emissiveIntensity: ei,
-    roughness: 0.68, metalness: 0.04,
+    color: bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.6 : 1,
-  }), [skin, bodyColor, ei]);
+  }), [skin, bodyColor]);
   const headMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: skinHeadColor, emissive: skin.emissive, emissiveIntensity: ei * 0.5,
-    roughness: 0.55, metalness: 0.02,
+    color: skin.headColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity + 0.1,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.5 : 1,
-  }), [skin, skinHeadColor, ei]);
+  }), [skin]);
   const limbMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: legColor, emissive: skin.emissive, emissiveIntensity: ei * 0.4,
-    roughness: 0.68, metalness: 0.04,
+    color: legColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
-  }), [skin, legColor, ei]);
+  }), [skin, legColor]);
   const armMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor, emissive: skin.emissive, emissiveIntensity: ei * 0.4,
-    roughness: 0.62, metalness: 0.02,
+    color: topDef ? topDef.color : skin.limbColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
-  }), [skin, ei]);
+  }), [skin, topDef]);
   const gloveMat = useMemo(() => gloveDef ? new THREE.MeshStandardMaterial({
-    color: gloveDef.color, emissive: skin.emissive, emissiveIntensity: ei * 0.3,
-    roughness: 0.55,
-  }) : null, [skin, gloveDef, ei]);
+    color: gloveDef.color, emissive: skin.emissive, emissiveIntensity: 0.2,
+  }) : null, [skin, gloveDef]);
   const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({
     color: face.eyeColor || (skin.id === "robot" ? "#00FF00" : "#0A0A1A"),
     emissive: face.eyeColor || (skin.id === "robot" ? "#00FF00" : "#000000"),
@@ -479,9 +430,8 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     emissiveIntensity: 0,
   }), [face]);
   const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: shoeColor, emissive: skin.emissive, emissiveIntensity: ei * 0.3,
-    roughness: 0.7,
-  }), [skin, shoeColor, ei]);
+    color: shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15,
+  }), [skin, shoeColor]);
   const capeMat = useMemo(() => capeDef ? new THREE.MeshStandardMaterial({
     color: capeDef.color, emissive: capeDef.emissive, emissiveIntensity: capeDef.emissiveIntensity,
     side: THREE.DoubleSide,
@@ -531,8 +481,6 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     if (g.winAnim && g.winAnimTimer > 30) {
       if (leftArmRef.current) leftArmRef.current.rotation.x = -2.5;
       if (rightArmRef.current) rightArmRef.current.rotation.x = -2.5;
-      if (leftForearmRef.current) leftForearmRef.current.rotation.x = 0;
-      if (rightForearmRef.current) rightForearmRef.current.rotation.x = 0;
       if (leftLegRef.current) leftLegRef.current.rotation.x = 0;
       if (rightLegRef.current) rightLegRef.current.rotation.x = 0;
     } else {
@@ -540,8 +488,6 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
       if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
       if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
       if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
-      if (leftForearmRef.current) leftForearmRef.current.rotation.x = isAirborne ? 0.3 : Math.sin(g.walkCycle) * 0.2;
-      if (rightForearmRef.current) rightForearmRef.current.rotation.x = isAirborne ? 0.3 : Math.sin(g.walkCycle + Math.PI) * 0.2;
     }
 
     // Trail particles
@@ -573,525 +519,302 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   return (
     <group ref={groupRef}>
       <group ref={bodyGroupRef}>
-
-        {/* ── CAPE (behind body) ── */}
-        {capeDef && capeMat && (
-          <group position={[0, 0.52, -0.14]}>
-            <mesh material={capeMat}><boxGeometry args={[0.40, 0.06, 0.04]} /></mesh>
-            <mesh position={[0, -0.22, -0.02]} material={capeMat}><boxGeometry args={[0.36, 0.38, 0.025]} /></mesh>
-            <mesh position={[0, -0.48, -0.04]} material={capeMat}><boxGeometry args={[0.30, 0.2, 0.018]} /></mesh>
-          </group>
-        )}
-
-        {/* ── BODY (rounded torso — matching AvatarCompanion) ── */}
-        <group position={[0, 0.48, 0]}>
-          {/* Main torso cylinder */}
-          <mesh material={bodyMat}>
-            <cylinderGeometry args={[(isGirl ? 0.40 : 0.43) * 0.46, (isGirl ? 0.40 : 0.43) * 0.50, (isGirl ? 0.58 : 0.60) * 0.75, 10]} />
-          </mesh>
-          {/* Chest volume */}
-          <mesh position={[0, 0.08, 0.04]} scale={[(isGirl ? 0.40 : 0.43) * 2.2, 0.70, 0.85]} material={bodyMat}>
-            <sphereGeometry args={[0.14, 10, 8]} />
-          </mesh>
-          {/* Hip area */}
-          <mesh position={[0, -0.18, 0]} scale={[(isGirl ? 0.40 : 0.43) * 2.4, 0.55, 0.92]} material={bodyMat}>
-            <sphereGeometry args={[0.14, 10, 8]} />
-          </mesh>
-        </group>
-
-        {/* Shirt collar */}
-        {topDef && (
-          <>
-            <mesh position={[0, 0.80, 0.05]}>
-              <boxGeometry args={[0.24, 0.05, 0.05]} />
-              <meshStandardMaterial color={topDef.accent || bodyColor} roughness={0.6} />
-            </mesh>
-            <mesh position={[-0.06, 0.78, 0.08]} rotation={[0, 0.3, 0.15]}>
-              <boxGeometry args={[0.08, 0.038, 0.018]} />
-              <meshStandardMaterial color={topDef.accent || bodyColor} roughness={0.6} />
-            </mesh>
-            <mesh position={[0.06, 0.78, 0.08]} rotation={[0, -0.3, -0.15]}>
-              <boxGeometry args={[0.08, 0.038, 0.018]} />
-              <meshStandardMaterial color={topDef.accent || bodyColor} roughness={0.6} />
-            </mesh>
-          </>
-        )}
-
-        {/* Buttons */}
-        {[0.56, 0.50, 0.44].map((y, i) => (
-          <mesh key={i} position={[0, y, 0.155]}>
-            <cylinderGeometry args={[0.010, 0.010, 0.006, 8]} />
-            <meshStandardMaterial color={topDef?.accent || bodyColor} roughness={0.4} metalness={0.3} />
-          </mesh>
-        ))}
-
-        {/* Pockets */}
-        <mesh position={[-0.10, 0.44, 0.148]}>
-          <boxGeometry args={[0.068, 0.060, 0.006]} />
-          <meshStandardMaterial color={bodyColor} roughness={0.72} />
-        </mesh>
-        <mesh position={[-0.10, 0.44, 0.150]}>
-          <boxGeometry args={[0.071, 0.063, 0.003]} />
-          <meshStandardMaterial color={topDef?.accent || bodyColor} roughness={0.65} transparent opacity={0.5} />
-        </mesh>
-        <mesh position={[0.10, 0.44, 0.148]}>
-          <boxGeometry args={[0.068, 0.060, 0.006]} />
-          <meshStandardMaterial color={bodyColor} roughness={0.72} />
-        </mesh>
-        <mesh position={[0.10, 0.44, 0.150]}>
-          <boxGeometry args={[0.071, 0.063, 0.003]} />
-          <meshStandardMaterial color={topDef?.accent || bodyColor} roughness={0.65} transparent opacity={0.5} />
-        </mesh>
-
-        {/* Belt line */}
-        <mesh position={[0, 0.26, 0.02]}>
-          <boxGeometry args={[(isGirl ? 0.40 : 0.43) + 0.02, 0.016, 0.27]} />
-          <meshStandardMaterial color={legColor} roughness={0.82} />
-        </mesh>
-        <mesh position={[0, 0.262, 0.145]}>
-          <boxGeometry args={[0.050, 0.025, 0.006]} />
-          <meshStandardMaterial color="#8a7050" roughness={0.4} metalness={0.5} />
-        </mesh>
-
-        {/* ── SHOULDERS ── */}
-        <mesh position={[0.24, 0.65, 0]} material={bodyMat}>
-          <sphereGeometry args={[0.085, 8, 6]} />
-        </mesh>
-        <mesh position={[-0.24, 0.65, 0]} material={bodyMat}>
-          <sphereGeometry args={[0.085, 8, 6]} />
-        </mesh>
-
-        {/* ── ARMS (matching AvatarCompanion: upper + elbow bump + forearm + hand) ── */}
-        <group ref={leftArmRef} position={[0.28, 0.60, 0]} rotation={[0.12, 0, -0.15]}>
-          <mesh position={[0, -0.12, 0]} material={armMat}>
-            <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
-          </mesh>
-          {/* Elbow bump */}
-          <mesh position={[0, -0.24, -0.01]} scale={[0.72, 0.52, 0.62]} material={armMat}>
-            <sphereGeometry args={[0.052, 8, 6]} />
-          </mesh>
-          <group ref={leftForearmRef} position={[0, -0.24, 0]}>
-            <mesh position={[0, -0.09, 0]} material={armMat}>
-              <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
-            </mesh>
-            {gloveMat
-              ? <mesh position={[0, -0.20, 0]} material={gloveMat}><sphereGeometry args={[0.065, 8, 6]} /></mesh>
-              : <mesh position={[0, -0.20, 0]} material={armMat}><sphereGeometry args={[0.058, 8, 6]} /></mesh>
-            }
-          </group>
-        </group>
-        <group ref={rightArmRef} position={[-0.28, 0.60, 0]} rotation={[0.12, 0, 0.15]}>
-          <mesh position={[0, -0.12, 0]} material={armMat}>
-            <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
-          </mesh>
-          {/* Elbow bump */}
-          <mesh position={[0, -0.24, -0.01]} scale={[0.72, 0.52, 0.62]} material={armMat}>
-            <sphereGeometry args={[0.052, 8, 6]} />
-          </mesh>
-          <group ref={rightForearmRef} position={[0, -0.24, 0]}>
-            <mesh position={[0, -0.09, 0]} material={armMat}>
-              <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
-            </mesh>
-            {gloveMat
-              ? <mesh position={[0, -0.20, 0]} material={gloveMat}><sphereGeometry args={[0.065, 8, 6]} /></mesh>
-              : <mesh position={[0, -0.20, 0]} material={armMat}><sphereGeometry args={[0.058, 8, 6]} /></mesh>
-            }
-          </group>
-        </group>
-
-        {/* ── LEGS ── */}
-        <group ref={leftLegRef} position={[0.11, 0.24, 0]}>
-          <mesh position={[0, -0.16, 0]} material={limbMat}>
-            <cylinderGeometry args={[0.072, 0.082, 0.32, 6]} />
-          </mesh>
-          {/* Shoe sole */}
-          <mesh position={[0, -0.335, 0.04]} material={shoeMat}>
-            <boxGeometry args={[0.13, 0.065, 0.20]} />
-          </mesh>
-          {/* Shoe top */}
-          <mesh position={[0, -0.310, 0.028]}>
-            <boxGeometry args={[0.125, 0.035, 0.16]} />
-            <meshStandardMaterial color={shoeColor} roughness={0.75} />
-          </mesh>
-        </group>
-        <group ref={rightLegRef} position={[-0.11, 0.24, 0]}>
-          <mesh position={[0, -0.16, 0]} material={limbMat}>
-            <cylinderGeometry args={[0.072, 0.082, 0.32, 6]} />
-          </mesh>
-          {/* Shoe sole */}
-          <mesh position={[0, -0.335, 0.04]} material={shoeMat}>
-            <boxGeometry args={[0.13, 0.065, 0.20]} />
-          </mesh>
-          {/* Shoe top */}
-          <mesh position={[0, -0.310, 0.028]}>
-            <boxGeometry args={[0.125, 0.035, 0.16]} />
-            <meshStandardMaterial color={shoeColor} roughness={0.75} />
-          </mesh>
-        </group>
-
-        {/* ── NECK ── */}
-        <mesh position={[0, 0.82, 0]} material={headMat}>
-          <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
-        </mesh>
-
         {/* ── HEAD ── */}
-        <group position={[0, 0.97, 0]}>
-          {/* Main head sphere */}
-          <mesh material={headMat}>
-            <sphereGeometry args={[0.18, 16, 12]} />
-          </mesh>
-          {/* Chin */}
-          <mesh position={[0, -0.12, 0.05]} scale={[0.65, 0.32, 0.60]}>
-            <sphereGeometry args={[0.10, 10, 6]} />
-            <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.7} />
-          </mesh>
-          {/* Cheekbone left */}
-          <mesh position={[-0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
-            <sphereGeometry args={[0.055, 8, 6]} />
-            <meshStandardMaterial color={skinHeadColor} roughness={0.58} />
-          </mesh>
-          {/* Cheekbone right */}
-          <mesh position={[0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
-            <sphereGeometry args={[0.055, 8, 6]} />
-            <meshStandardMaterial color={skinHeadColor} roughness={0.58} />
-          </mesh>
-          {/* Forehead */}
-          <mesh position={[0, 0.10, 0.168]} scale={[0.75, 0.35, 0.20]}>
-            <sphereGeometry args={[0.09, 8, 6]} />
-            <meshStandardMaterial color={skinHeadColor} roughness={0.55} />
-          </mesh>
-          {/* Nose bridge */}
-          <mesh position={[0, -0.01, 0.195]} scale={[0.35, 0.55, 0.35]}>
-            <sphereGeometry args={[0.030, 8, 6]} />
-            <meshStandardMaterial color={skinHeadColor} roughness={0.50} />
-          </mesh>
-          {/* Nose tip */}
-          <mesh position={[0, -0.022, 0.200]} scale={[0.48, 0.35, 0.38]}>
-            <sphereGeometry args={[0.030, 8, 6]} />
-            <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.55} transparent opacity={0.7} />
-          </mesh>
-          {/* Left ear */}
-          <group position={[-0.178, 0.01, 0]}>
-            <mesh scale={[0.38, 0.62, 0.22]}>
-              <sphereGeometry args={[0.10, 10, 8]} />
-              <meshStandardMaterial color={skinHeadColor} roughness={0.65} />
-            </mesh>
-            <mesh position={[0.018, 0, 0.005]} scale={[0.22, 0.38, 0.18]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.75} />
-            </mesh>
-          </group>
-          {/* Right ear */}
-          <group position={[0.178, 0.01, 0]}>
-            <mesh scale={[0.38, 0.62, 0.22]}>
-              <sphereGeometry args={[0.10, 10, 8]} />
-              <meshStandardMaterial color={skinHeadColor} roughness={0.65} />
-            </mesh>
-            <mesh position={[-0.018, 0, 0.005]} scale={[0.22, 0.38, 0.18]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.75} />
-            </mesh>
-          </group>
-        </group>
-
-        {/* ── HAIR (matching AvatarCompanion) ── */}
-        <group position={[0, 0.97, 0]}>
-        {isGirl ? (
-          <>
-            {/* Main cap */}
-            <mesh position={[0, 0.02, -0.02]} scale={[1.07, 1.05, 1.02]}>
-              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.48]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            {/* Back volume */}
-            <mesh position={[0, -0.02, -0.06]} scale={[1.04, 1.08, 0.95]}>
-              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            {/* Left curtain */}
-            <mesh position={[-0.16, -0.10, -0.02]} scale={[0.36, 1.1, 0.42]}>
-              <sphereGeometry args={[0.13, 10, 8]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            {/* Right curtain */}
-            <mesh position={[0.16, -0.10, -0.02]} scale={[0.36, 1.1, 0.42]}>
-              <sphereGeometry args={[0.13, 10, 8]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            {/* Front fringe */}
-            <mesh position={[0, 0.10, 0.16]} rotation={[0.65, 0, 0]} scale={[1.05, 0.28, 0.32]}>
-              <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-          </>
-        ) : (
-          <>
-            {/* Main cap */}
-            <mesh position={[0, 0.02, -0.02]} scale={[1.07, 1.05, 1.02]}>
-              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.44]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            {/* Back volume */}
-            <mesh position={[0, 0, -0.04]} scale={[1.05, 1.04, 0.92]}>
-              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.48]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            {/* Front fringe */}
-            <mesh position={[0, 0.10, 0.15]} rotation={[0.70, 0, 0]} scale={[0.95, 0.25, 0.30]}>
-              <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-          </>
-        )}
-        </group>
-
-        {/* ── FACE: Eyebrows ── */}
-        <mesh
-          position={[0.068, 1.028, 0.172]}
-          rotation={[0, 0, face.eyeType === 'angry' ? 0.40 : face.eyeType === 'sad' ? -0.25 : face.eyeType === 'surprised' ? 0.05 : 0.07]}
-        >
-          <boxGeometry args={[0.060, 0.012, 0.009]} />
-          <meshStandardMaterial color={hairColor} roughness={0.7} />
-        </mesh>
-        <mesh
-          position={[-0.068, 1.028, 0.172]}
-          rotation={[0, 0, face.eyeType === 'angry' ? -0.40 : face.eyeType === 'sad' ? 0.25 : face.eyeType === 'surprised' ? -0.05 : -0.07]}
-        >
-          <boxGeometry args={[0.060, 0.012, 0.009]} />
-          <meshStandardMaterial color={hairColor} roughness={0.7} />
+        <mesh position={[0, 0.82, 0]} material={headMat}>
+          <boxGeometry args={[0.36, 0.36, 0.36]} />
         </mesh>
 
         {/* ── FACE: Eyes ── */}
-        {/* Eye whites — only for types that show a normal eye ball */}
-        {(face.eyeType === "dot" || face.eyeType === "round" || face.eyeType === "angry") && (<>
-          <mesh position={[0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
-        </>)}
-        {face.eyeType === "sad" && (<>
-          <mesh position={[0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
-        </>)}
-        {/* Wink: only right eye (x=-0.07) gets white, left eye is the wink line */}
-        {face.eyeType === "wink" && (
-          <mesh position={[-0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
-        )}
         {face.eyeType === "dot" && (<>
-          <mesh position={[0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.018, 8, 8]} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.018, 8, 8]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
         </>)}
         {face.eyeType === "round" && (<>
-          <mesh position={[0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.022, 8, 8]} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.022, 8, 8]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.045, 8, 8]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.045, 8, 8]} /></mesh>
         </>)}
         {face.eyeType === "happy" && (<>
-          <mesh position={[0.07, 0.993, 0.181]} rotation={[0, 0, 0]} material={eyeMat}>
-            <torusGeometry args={[0.022, 0.008, 6, 12, Math.PI]} />
-          </mesh>
-          <mesh position={[-0.07, 0.993, 0.181]} rotation={[0, 0, 0]} material={eyeMat}>
-            <torusGeometry args={[0.022, 0.008, 6, 12, Math.PI]} />
-          </mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
         </>)}
         {face.eyeType === "angry" && (<>
-          <mesh position={[0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.022, 8, 8]} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.022, 8, 8]} /></mesh>
-          {/* Angry squint overlay */}
-          <mesh position={[0.07, 1.003, 0.181]} rotation={[0, 0, -0.38]}>
-            <boxGeometry args={[0.066, 0.036, 0.008]} />
-            <meshStandardMaterial color={skinHeadColor} />
-          </mesh>
-          <mesh position={[-0.07, 1.003, 0.181]} rotation={[0, 0, 0.38]}>
-            <boxGeometry args={[0.066, 0.036, 0.008]} />
-            <meshStandardMaterial color={skinHeadColor} />
-          </mesh>
+          <mesh position={[0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.09, 0.04, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.09, 0.04, 0.02]} /></mesh>
         </>)}
         {face.eyeType === "sad" && (<>
-          <mesh position={[0.072, 0.993, 0.181]} rotation={[0, 0, 0.2]} material={eyeMat}><boxGeometry args={[0.052, 0.024, 0.012]} /></mesh>
-          <mesh position={[-0.072, 0.993, 0.181]} rotation={[0, 0, -0.2]} material={eyeMat}><boxGeometry args={[0.052, 0.024, 0.012]} /></mesh>
+          <mesh position={[0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, 0.2]}><boxGeometry args={[0.08, 0.04, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, -0.2]}><boxGeometry args={[0.08, 0.04, 0.02]} /></mesh>
         </>)}
         {face.eyeType === "star" && (<>
-          {[0, Math.PI/4, Math.PI/2, Math.PI*3/4].map((rot, i) => (
-            <mesh key={i} position={[0.07, 0.99, 0.181]} rotation={[0, 0, rot]} material={eyeMat}>
-              <boxGeometry args={[0.052, 0.011, 0.006]} />
-            </mesh>
-          ))}
-          {[0, Math.PI/4, Math.PI/2, Math.PI*3/4].map((rot, i) => (
-            <mesh key={i+4} position={[-0.07, 0.99, 0.181]} rotation={[0, 0, rot]} material={eyeMat}>
-              <boxGeometry args={[0.052, 0.011, 0.006]} />
-            </mesh>
-          ))}
-          <mesh position={[0.07, 0.99, 0.183]}><sphereGeometry args={[0.012, 6, 6]} /><meshStandardMaterial color="white" emissive="white" emissiveIntensity={1} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.183]}><sphereGeometry args={[0.012, 6, 6]} /><meshStandardMaterial color="white" emissive="white" emissiveIntensity={1} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
         </>)}
         {face.eyeType === "heart" && (<>
-          <mesh position={[0.059, 1.002, 0.180]} material={eyeMat}><sphereGeometry args={[0.016, 6, 6]} /></mesh>
-          <mesh position={[0.081, 1.002, 0.180]} material={eyeMat}><sphereGeometry args={[0.016, 6, 6]} /></mesh>
-          <mesh position={[0.070, 0.987, 0.179]} scale={[1.3, 1.1, 1]} material={eyeMat}><sphereGeometry args={[0.016, 6, 6]} /></mesh>
-          <mesh position={[-0.059, 1.002, 0.180]} material={eyeMat}><sphereGeometry args={[0.016, 6, 6]} /></mesh>
-          <mesh position={[-0.081, 1.002, 0.180]} material={eyeMat}><sphereGeometry args={[0.016, 6, 6]} /></mesh>
-          <mesh position={[-0.070, 0.987, 0.179]} scale={[1.3, 1.1, 1]} material={eyeMat}><sphereGeometry args={[0.016, 6, 6]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.04, 6, 6]} /></mesh>
+          <mesh position={[0.06, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[0.10, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.04, 6, 6]} /></mesh>
+          <mesh position={[-0.06, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[-0.10, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
         </>)}
         {face.eyeType === "x" && (<>
-          <mesh position={[0.07, 0.99, 0.181]} rotation={[0, 0, Math.PI / 4]} material={eyeMat}><boxGeometry args={[0.058, 0.014, 0.012]} /></mesh>
-          <mesh position={[0.07, 0.99, 0.181]} rotation={[0, 0, -Math.PI / 4]} material={eyeMat}><boxGeometry args={[0.058, 0.014, 0.012]} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.181]} rotation={[0, 0, Math.PI / 4]} material={eyeMat}><boxGeometry args={[0.058, 0.014, 0.012]} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.181]} rotation={[0, 0, -Math.PI / 4]} material={eyeMat}><boxGeometry args={[0.058, 0.014, 0.012]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
         </>)}
         {face.eyeType === "wink" && (<>
-          <mesh position={[0.07, 0.993, 0.181]} material={eyeMat}><boxGeometry args={[0.052, 0.020, 0.012]} /></mesh>
-          <mesh position={[-0.07, 0.99, 0.181]} material={eyeMat}><sphereGeometry args={[0.022, 8, 8]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
         </>)}
 
         {/* ── FACE: Mouth ── */}
         {face.mouthType === "smile" && (
-          <mesh position={[0, 0.9, 0.191]} rotation={[0, 0, Math.PI]} material={mouthMat}>
-            <torusGeometry args={[0.030, 0.009, 6, 16, Math.PI]} />
-          </mesh>
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.12, 0.02, 0.02]} /></mesh>
         )}
-        {face.mouthType === "grin" && (<>
-          <mesh position={[0, 0.902, 0.191]} rotation={[0, 0, Math.PI]} material={mouthMat}>
-            <torusGeometry args={[0.036, 0.009, 6, 16, Math.PI]} />
-          </mesh>
-          <mesh position={[0, 0.884, 0.192]}><boxGeometry args={[0.056, 0.014, 0.01]} /><meshStandardMaterial color="#ffffff" /></mesh>
-        </>)}
+        {face.mouthType === "grin" && (
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.16, 0.04, 0.02]} /></mesh>
+        )}
         {face.mouthType === "sad" && (
-          <mesh position={[0, 0.886, 0.191]} material={mouthMat}>
-            <torusGeometry args={[0.028, 0.009, 6, 16, Math.PI]} />
-          </mesh>
+          <mesh position={[0, 0.73, 0.18]} material={mouthMat}><boxGeometry args={[0.10, 0.02, 0.02]} /></mesh>
         )}
         {face.mouthType === "neutral" && (
-          <mesh position={[0, 0.9, 0.191]} material={mouthMat}><boxGeometry args={[0.055, 0.010, 0.010]} /></mesh>
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
         )}
-        {face.mouthType === "open" && (<>
-          <mesh position={[0, 0.893, 0.191]} scale={[1, 0.72, 1]} material={mouthMat}>
-            <torusGeometry args={[0.028, 0.012, 6, 12]} />
-          </mesh>
-          <mesh position={[0, 0.893, 0.189]}><circleGeometry args={[0.022, 10]} /><meshStandardMaterial color="#1a0808" /></mesh>
-        </>)}
+        {face.mouthType === "open" && (
+          <mesh position={[0, 0.73, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.06, 0.02]} /></mesh>
+        )}
         {face.mouthType === "tongue" && (<>
-          <mesh position={[0, 0.9, 0.191]} rotation={[0, 0, Math.PI]} material={mouthMat}>
-            <torusGeometry args={[0.030, 0.009, 6, 16, Math.PI]} />
-          </mesh>
-          <mesh position={[0, 0.874, 0.193]}><sphereGeometry args={[0.022, 8, 6]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.12, 0.02, 0.02]} /></mesh>
+          <mesh position={[0, 0.72, 0.19]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
         </>)}
         {face.mouthType === "cat" && (<>
-          <mesh position={[0.030, 0.9, 0.191]} rotation={[0, 0, 0.3]} material={mouthMat}><boxGeometry args={[0.046, 0.010, 0.010]} /></mesh>
-          <mesh position={[-0.030, 0.9, 0.191]} rotation={[0, 0, -0.3]} material={mouthMat}><boxGeometry args={[0.046, 0.010, 0.010]} /></mesh>
-          <mesh position={[0, 0.9, 0.191]}><sphereGeometry args={[0.009, 5, 5]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
+          <mesh position={[0.04, 0.74, 0.18]} material={mouthMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.06, 0.015, 0.02]} /></mesh>
+          <mesh position={[-0.04, 0.74, 0.18]} material={mouthMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.06, 0.015, 0.02]} /></mesh>
         </>)}
         {face.mouthType === "fangs" && (<>
-          <mesh position={[0, 0.9, 0.191]} rotation={[0, 0, Math.PI]} material={mouthMat}>
-            <torusGeometry args={[0.032, 0.009, 6, 16, Math.PI]} />
-          </mesh>
-          <mesh position={[0.028, 0.878, 0.192]}><boxGeometry args={[0.014, 0.030, 0.010]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
-          <mesh position={[-0.028, 0.878, 0.192]}><boxGeometry args={[0.014, 0.030, 0.010]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.14, 0.03, 0.02]} /></mesh>
+          <mesh position={[0.04, 0.72, 0.18]}><boxGeometry args={[0.02, 0.04, 0.02]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+          <mesh position={[-0.04, 0.72, 0.18]}><boxGeometry args={[0.02, 0.04, 0.02]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
         </>)}
 
         {/* ── FACE: Blush ── */}
         {face.blush && (
           <>
-            <mesh position={[0.12, 0.95, 0.15]}><sphereGeometry args={[0.034, 8, 6]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.4} roughness={0.9} /></mesh>
-            <mesh position={[-0.12, 0.95, 0.15]}><sphereGeometry args={[0.034, 8, 6]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.4} roughness={0.9} /></mesh>
+            <mesh position={[0.14, 0.8, 0.16]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.5} /></mesh>
+            <mesh position={[-0.14, 0.8, 0.16]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.5} /></mesh>
           </>
         )}
 
         {/* ── GLASSES ── */}
         {glassesDef && glassesDef.type === "sunglasses" && (
-          <group position={[0, 0.99, 0.183]}>
-            <mesh position={[0.07, 0, 0]}><boxGeometry args={[0.075, 0.05, 0.014]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.85} /></mesh>
-            <mesh position={[-0.07, 0, 0]}><boxGeometry args={[0.075, 0.05, 0.014]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.85} /></mesh>
-            <mesh><boxGeometry args={[0.032, 0.012, 0.008]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          <group position={[0, 0.85, 0.19]}>
+            <mesh position={[0.08, 0, 0]}><boxGeometry args={[0.09, 0.06, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} /></mesh>
+            <mesh position={[-0.08, 0, 0]}><boxGeometry args={[0.09, 0.06, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} /></mesh>
+            <mesh><boxGeometry args={[0.04, 0.015, 0.01]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
           </group>
         )}
         {glassesDef && glassesDef.type === "round" && (
-          <group position={[0, 0.99, 0.183]}>
-            <mesh position={[0.07, 0, 0]} rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.028, 0.007, 6, 14]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
-            <mesh position={[-0.07, 0, 0]} rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.028, 0.007, 6, 14]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
-            <mesh><boxGeometry args={[0.028, 0.007, 0.006]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          <group position={[0, 0.85, 0.19]}>
+            <mesh position={[0.08, 0, 0]}><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.4} /></mesh>
+            <mesh position={[-0.08, 0, 0]}><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.4} /></mesh>
+            <mesh><boxGeometry args={[0.03, 0.01, 0.01]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
           </group>
         )}
         {glassesDef && glassesDef.type === "visor" && (
-          <mesh position={[0, 0.99, 0.185]}><boxGeometry args={[0.25, 0.06, 0.012]} /><meshStandardMaterial color={glassesDef.lensColor} emissive={glassesDef.color} emissiveIntensity={0.5} transparent opacity={0.7} /></mesh>
+          <mesh position={[0, 0.85, 0.19]}><boxGeometry args={[0.3, 0.08, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} emissive={glassesDef.color} emissiveIntensity={0.5} transparent opacity={0.7} /></mesh>
         )}
         {glassesDef && glassesDef.type === "monocle" && (
-          <group position={[0.07, 0.99, 0.184]}>
-            <mesh rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.03, 0.006, 6, 14]} /><meshStandardMaterial color={glassesDef.color} metalness={0.6} /></mesh>
+          <group position={[0.08, 0.85, 0.19]}>
+            <mesh><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.3} /></mesh>
+            <mesh rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.04, 0.005, 8, 12]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
           </group>
         )}
         {glassesDef && glassesDef.type === "thug" && (
-          <group position={[0, 0.99, 0.183]}>
-            <mesh position={[0.07, 0, 0]}><boxGeometry args={[0.085, 0.042, 0.014]} /><meshStandardMaterial color="#000000" /></mesh>
-            <mesh position={[-0.07, 0, 0]}><boxGeometry args={[0.085, 0.042, 0.014]} /><meshStandardMaterial color="#000000" /></mesh>
-            <mesh><boxGeometry args={[0.032, 0.014, 0.009]} /><meshStandardMaterial color="#000000" /></mesh>
+          <group position={[0, 0.86, 0.19]}>
+            <mesh position={[0.08, 0, 0]}><boxGeometry args={[0.10, 0.05, 0.02]} /><meshStandardMaterial color="#000000" /></mesh>
+            <mesh position={[-0.08, 0, 0]}><boxGeometry args={[0.10, 0.05, 0.02]} /><meshStandardMaterial color="#000000" /></mesh>
+            <mesh><boxGeometry args={[0.04, 0.02, 0.01]} /><meshStandardMaterial color="#000000" /></mesh>
           </group>
         )}
 
-        {/* ── SKIN GLOW ── */}
-        {skin.particle && (
-          <pointLight position={[0, 0.6, 0]} color={skin.particle} intensity={skin.emissiveIntensity * 2} distance={3} />
+        {/* ── BODY ── */}
+        <mesh position={[0, 0.42, 0]} material={bodyMat}>
+          <boxGeometry args={[0.38, 0.42, 0.24]} />
+        </mesh>
+
+        {/* Top accent (collar/detail line for hoodie/jacket/suit) */}
+        {topDef && topDef.accent && (
+          <mesh position={[0, 0.6, 0.12]}>
+            <boxGeometry args={[0.2, 0.03, 0.02]} />
+            <meshStandardMaterial color={topDef.accent} />
+          </mesh>
         )}
 
-        {/* ── HATS ── */}
-        {/* Legendary crown (no hat equipped) */}
+        {/* ── CAPE ── */}
+        {capeDef && capeMat && (
+          <group position={[0, 0.5, -0.14]}>
+            <mesh material={capeMat}><boxGeometry args={[0.34, 0.5, 0.03]} /></mesh>
+          </group>
+        )}
+
+        {/* ── ARMS ── */}
+        <group ref={leftArmRef} position={[0.28, 0.55, 0]}>
+          <mesh position={[0, -0.17, 0]} material={armMat}>
+            <boxGeometry args={[0.12, 0.36, 0.12]} />
+          </mesh>
+          {gloveMat && <mesh position={[0, -0.33, 0]} material={gloveMat}><boxGeometry args={[0.13, 0.1, 0.13]} /></mesh>}
+        </group>
+        <group ref={rightArmRef} position={[-0.28, 0.55, 0]}>
+          <mesh position={[0, -0.17, 0]} material={armMat}>
+            <boxGeometry args={[0.12, 0.36, 0.12]} />
+          </mesh>
+          {gloveMat && <mesh position={[0, -0.33, 0]} material={gloveMat}><boxGeometry args={[0.13, 0.1, 0.13]} /></mesh>}
+        </group>
+
+        {/* ── LEGS ── */}
+        <group ref={leftLegRef} position={[0.1, 0.2, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.14, 0.28, 0.14]} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
+            <boxGeometry args={[0.15, 0.08, 0.2]} />
+          </mesh>
+        </group>
+        <group ref={rightLegRef} position={[-0.1, 0.2, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.14, 0.28, 0.14]} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
+            <boxGeometry args={[0.15, 0.08, 0.2]} />
+          </mesh>
+        </group>
+        {/* Skin particle glow aura */}
+        {skin.particle && (
+          <pointLight
+            position={[0, 0.5, 0]}
+            color={skin.particle}
+            intensity={skin.emissiveIntensity * 2}
+            distance={3}
+          />
+        )}
+        {/* Crown for legendary skin (default if no hat equipped) */}
         {skin.id === "legendary" && !hat && (
-          <group position={[0, 1.2, 0]}>
-            <mesh><cylinderGeometry args={[0.17, 0.2, 0.09, 5]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} metalness={0.7} /></mesh>
-            {[0,1,2,3,4].map((i) => (
-              <mesh key={i} position={[Math.sin((i/5)*Math.PI*2)*0.15, 0.08, Math.cos((i/5)*Math.PI*2)*0.15]}>
-                <coneGeometry args={[0.025, 0.1, 4]} />
+          <group position={[0, 1.05, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
+              <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+            </mesh>
+            {[0, 1, 2, 3, 4].map((i) => (
+              <mesh key={i} position={[
+                Math.sin((i / 5) * Math.PI * 2) * 0.17,
+                0.1,
+                Math.cos((i / 5) * Math.PI * 2) * 0.17
+              ]}>
+                <boxGeometry args={[0.04, 0.08, 0.04]} />
                 <meshStandardMaterial color="#FFD700" emissive="#FF1493" emissiveIntensity={0.6} />
               </mesh>
             ))}
           </group>
         )}
+
+        {/* Equipped hat */}
         {hat && hat.type === "crown" && (
-          <group position={[0, 1.2, 0]}>
-            <mesh><cylinderGeometry args={[0.17, 0.2, 0.09, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} metalness={0.7} /></mesh>
-            {[0,1,2,3,4].map((i) => (
-              <mesh key={i} position={[Math.sin((i/5)*Math.PI*2)*0.15, 0.08, Math.cos((i/5)*Math.PI*2)*0.15]}>
-                <coneGeometry args={[0.024, 0.1, 4]} />
-                <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.9} />
+          <group position={[0, 1.05, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            {[0, 1, 2, 3, 4].map((i) => (
+              <mesh key={i} position={[Math.sin((i / 5) * Math.PI * 2) * 0.17, 0.1, Math.cos((i / 5) * Math.PI * 2) * 0.17]}>
+                <boxGeometry args={[0.04, 0.08, 0.04]} />
+                <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.8} />
               </mesh>
             ))}
           </group>
         )}
         {hat && hat.type === "cap" && (
-          <group position={[0, 1.16, 0]} rotation={[0.1, 0, 0]}>
-            <mesh><sphereGeometry args={[0.2, 10, 6, 0, Math.PI*2, 0, Math.PI*0.5]} /><meshStandardMaterial color={hat.color} roughness={0.7} /></mesh>
-            <mesh position={[0, -0.04, 0.18]} rotation={[0.3, 0, 0]}><boxGeometry args={[0.32, 0.04, 0.2]} /><meshStandardMaterial color={hat.color} roughness={0.7} /></mesh>
+          <group position={[0, 1.02, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.22, 0.22, 0.08, 8]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.06, 0]}>
+              <sphereGeometry args={[0.2, 8, 4, 0, Math.PI * 2, 0, Math.PI / 2]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0, 0.22]} rotation={[-0.3, 0, 0]}>
+              <boxGeometry args={[0.3, 0.02, 0.15]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
+            </mesh>
           </group>
         )}
         {hat && hat.type === "halo" && (
-          <group position={[0, 1.32, 0]}>
-            <mesh rotation={[Math.PI/2, 0, 0]}><torusGeometry args={[0.2, 0.028, 8, 18]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} roughness={0.1} metalness={0.8} /></mesh>
+          <group position={[0, 1.15, 0]}>
+            <mesh rotation={[Math.PI / 2, 0, 0]}>
+              <torusGeometry args={[0.22, 0.03, 8, 16]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
             <pointLight color={hat.emissive} intensity={1.5} distance={3} />
           </group>
         )}
         {hat && hat.type === "horns" && (
-          <group position={[0, 1.15, 0]}>
-            <mesh position={[0.12, 0.06, 0]} rotation={[0, 0, 0.4]}><coneGeometry args={[0.055, 0.2, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
-            <mesh position={[-0.12, 0.06, 0]} rotation={[0, 0, -0.4]}><coneGeometry args={[0.055, 0.2, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+          <group position={[0, 1.0, 0]}>
+            <mesh position={[0.14, 0.08, 0]} rotation={[0, 0, 0.4]}>
+              <coneGeometry args={[0.06, 0.22, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[-0.14, 0.08, 0]} rotation={[0, 0, -0.4]}>
+              <coneGeometry args={[0.06, 0.22, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
           </group>
         )}
         {hat && hat.type === "tophat" && (
-          <group position={[0, 1.18, 0]}>
-            <mesh><cylinderGeometry args={[0.15, 0.15, 0.28, 12]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
-            <mesh position={[0, -0.14, 0]}><cylinderGeometry args={[0.22, 0.22, 0.03, 12]} /><meshStandardMaterial color={hat.color} roughness={0.8} /></mesh>
+          <group position={[0, 1.02, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.22, 0.22, 0.04, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.18, 0]}>
+              <cylinderGeometry args={[0.15, 0.15, 0.3, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
           </group>
         )}
         {hat && hat.type === "helmet" && (
-          <mesh position={[0, 1.1, 0]}><sphereGeometry args={[0.22, 10, 7, 0, Math.PI*2, 0, Math.PI*0.6]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} roughness={0.3} metalness={0.5} /></mesh>
+          <group position={[0, 0.95, 0]}>
+            <mesh>
+              <sphereGeometry args={[0.22, 8, 6, 0, Math.PI * 2, 0, Math.PI / 2]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
         )}
         {hat && hat.type === "antenna" && (
-          <group position={[0, 1.18, 0]}>
-            <mesh position={[0, 0.14, 0]}><cylinderGeometry args={[0.013, 0.013, 0.28, 5]} /><meshStandardMaterial color="#888888" metalness={0.6} /></mesh>
-            <mesh position={[0, 0.3, 0]}><sphereGeometry args={[0.052, 8, 8]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
-            <pointLight position={[0, 0.3, 0]} color={hat.emissive} intensity={2} distance={3} />
+          <group position={[0, 1.02, 0]}>
+            <mesh position={[0, 0.15, 0]}>
+              <cylinderGeometry args={[0.015, 0.015, 0.3, 4]} />
+              <meshStandardMaterial color="#888888" emissive="#444444" emissiveIntensity={0.2} />
+            </mesh>
+            <mesh position={[0, 0.33, 0]}>
+              <sphereGeometry args={[0.06, 8, 8]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <pointLight position={[0, 0.33, 0]} color={hat.emissive} intensity={2} distance={3} />
           </group>
         )}
         {hat && hat.type === "wizard" && (
-          <group position={[0, 1.15, 0]}>
-            <mesh><coneGeometry args={[0.2, 0.42, 10]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.6} roughness={0.7} /></mesh>
-            <mesh position={[0, 0, 0]}><cylinderGeometry args={[0.24, 0.24, 0.04, 12]} /><meshStandardMaterial color={hat.color} roughness={0.75} /></mesh>
+          <group position={[0, 1.0, 0]}>
+            <mesh>
+              <coneGeometry args={[0.22, 0.45, 6]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.0, 0]}>
+              <cylinderGeometry args={[0.25, 0.25, 0.04, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
+            </mesh>
           </group>
         )}
       </group>
@@ -1144,219 +867,6 @@ function RockDeco({ px, py, pz, s }: { px: number; py: number; pz: number; s: nu
       <dodecahedronGeometry args={[s * 0.3, 0]} />
       <meshStandardMaterial color="#7a7a6a" roughness={0.95} />
     </mesh>
-  );
-}
-
-// ─── GHOST PLAYER (opponent in multiplayer) ─────────
-interface GhostAvatarData {
-  bodyColor: string;
-  headColor: string;
-  limbColor: string;
-  shoeColor: string;
-  hairColor: string;
-  gender: string;
-}
-
-function GhostPlayer({ posRef, name, avatarData }: {
-  posRef: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>;
-  name: string;
-  avatarData: GhostAvatarData | null;
-}) {
-  const groupRef = useRef<THREE.Group>(null);
-  const bodyGroupRef = useRef<THREE.Group>(null);
-  const leftLegRef = useRef<THREE.Group>(null);
-  const rightLegRef = useRef<THREE.Group>(null);
-  const leftArmRef = useRef<THREE.Group>(null);
-  const rightArmRef = useRef<THREE.Group>(null);
-  const targetPos = useRef(new THREE.Vector3(0, 1, 0));
-  const targetAngle = useRef(0);
-  const prevPos = useRef(new THREE.Vector3(0, 1, 0));
-  const walkCycle = useRef(0);
-
-  const bc = avatarData?.bodyColor || "#6b8fad";
-  const hc = avatarData?.headColor || "#e8c9a0";
-  const lc = avatarData?.limbColor || "#1e3a5f";
-  const sc = avatarData?.shoeColor || "#222222";
-  const hairC = avatarData?.hairColor || "#3b2a1a";
-  const isGirl = avatarData?.gender === "girl";
-  const OP = 0.55; // ghost opacity
-
-  useFrame((_, delta) => {
-    if (!groupRef.current || !posRef.current) return;
-    const p = posRef.current;
-    targetPos.current.set(p.x, p.y, p.z);
-    targetAngle.current = p.fa;
-
-    // Smooth interpolation
-    groupRef.current.position.lerp(targetPos.current, 0.2);
-
-    // Rotate body
-    if (bodyGroupRef.current) {
-      let diff = targetAngle.current - bodyGroupRef.current.rotation.y;
-      while (diff > Math.PI) diff -= Math.PI * 2;
-      while (diff < -Math.PI) diff += Math.PI * 2;
-      bodyGroupRef.current.rotation.y += diff * 0.15;
-    }
-
-    // Walk animation based on movement
-    const dx = groupRef.current.position.x - prevPos.current.x;
-    const dz = groupRef.current.position.z - prevPos.current.z;
-    const isMoving = Math.abs(dx) > 0.001 || Math.abs(dz) > 0.001;
-    prevPos.current.copy(groupRef.current.position);
-
-    if (isMoving) {
-      walkCycle.current += delta * 10;
-    } else {
-      walkCycle.current *= 0.9;
-    }
-    const legSwing = isMoving ? Math.sin(walkCycle.current) * 0.6 : 0;
-    const armSwing = isMoving ? Math.sin(walkCycle.current + Math.PI) * 0.4 : 0;
-
-    if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
-    if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
-    if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
-    if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
-
-    // Fade out if dead
-    if (p.dead) groupRef.current.visible = false;
-  });
-
-  return (
-    <group ref={groupRef} position={[0, 1, 0]}>
-      <group ref={bodyGroupRef}>
-        {/* ── BODY (torso) ── */}
-        <mesh position={[0, 0.48, 0]}>
-          <boxGeometry args={[0.38, 0.40, 0.21]} />
-          <meshStandardMaterial color={bc} transparent opacity={OP} emissive={bc} emissiveIntensity={0.15} />
-        </mesh>
-
-        {/* ── SHOULDERS ── */}
-        <mesh position={[0.21, 0.64, 0]}>
-          <sphereGeometry args={[0.09, 8, 6]} />
-          <meshStandardMaterial color={bc} transparent opacity={OP} />
-        </mesh>
-        <mesh position={[-0.21, 0.64, 0]}>
-          <sphereGeometry args={[0.09, 8, 6]} />
-          <meshStandardMaterial color={bc} transparent opacity={OP} />
-        </mesh>
-
-        {/* ── ARMS ── */}
-        <group ref={leftArmRef} position={[0.27, 0.58, 0]} rotation={[0.12, 0, -0.15]}>
-          <mesh position={[0, -0.10, 0]}>
-            <cylinderGeometry args={[0.048, 0.055, 0.20, 6]} />
-            <meshStandardMaterial color={hc} transparent opacity={OP} />
-          </mesh>
-          <mesh position={[0, -0.24, 0]}>
-            <sphereGeometry args={[0.055, 8, 6]} />
-            <meshStandardMaterial color={hc} transparent opacity={OP} />
-          </mesh>
-        </group>
-        <group ref={rightArmRef} position={[-0.27, 0.58, 0]} rotation={[0.12, 0, 0.15]}>
-          <mesh position={[0, -0.10, 0]}>
-            <cylinderGeometry args={[0.048, 0.055, 0.20, 6]} />
-            <meshStandardMaterial color={hc} transparent opacity={OP} />
-          </mesh>
-          <mesh position={[0, -0.24, 0]}>
-            <sphereGeometry args={[0.055, 8, 6]} />
-            <meshStandardMaterial color={hc} transparent opacity={OP} />
-          </mesh>
-        </group>
-
-        {/* ── LEGS ── */}
-        <group ref={leftLegRef} position={[0.10, 0.24, 0]}>
-          <mesh position={[0, -0.15, 0]}>
-            <cylinderGeometry args={[0.068, 0.078, 0.30, 6]} />
-            <meshStandardMaterial color={lc} transparent opacity={OP} />
-          </mesh>
-          <mesh position={[0, -0.33, 0.03]}>
-            <boxGeometry args={[0.12, 0.06, 0.18]} />
-            <meshStandardMaterial color={sc} transparent opacity={OP} />
-          </mesh>
-        </group>
-        <group ref={rightLegRef} position={[-0.10, 0.24, 0]}>
-          <mesh position={[0, -0.15, 0]}>
-            <cylinderGeometry args={[0.068, 0.078, 0.30, 6]} />
-            <meshStandardMaterial color={lc} transparent opacity={OP} />
-          </mesh>
-          <mesh position={[0, -0.33, 0.03]}>
-            <boxGeometry args={[0.12, 0.06, 0.18]} />
-            <meshStandardMaterial color={sc} transparent opacity={OP} />
-          </mesh>
-        </group>
-
-        {/* ── NECK ── */}
-        <mesh position={[0, 0.80, 0]}>
-          <cylinderGeometry args={[0.08, 0.095, 0.16, 8]} />
-          <meshStandardMaterial color={hc} transparent opacity={OP} />
-        </mesh>
-
-        {/* ── HEAD ── */}
-        <mesh position={[0, 0.95, 0]}>
-          <sphereGeometry args={[0.18, 14, 10]} />
-          <meshStandardMaterial color={hc} transparent opacity={OP} />
-        </mesh>
-
-        {/* ── HAIR ── */}
-        {isGirl ? (
-          <>
-            <mesh position={[0, 1.03, 0]} scale={[1.04, 0.65, 1.04]}>
-              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
-              <meshStandardMaterial color={hairC} transparent opacity={OP} />
-            </mesh>
-            <mesh position={[-0.13, 0.92, -0.04]} scale={[0.50, 0.65, 0.52]}>
-              <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairC} transparent opacity={OP} />
-            </mesh>
-            <mesh position={[0.13, 0.92, -0.04]} scale={[0.50, 0.65, 0.52]}>
-              <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairC} transparent opacity={OP} />
-            </mesh>
-          </>
-        ) : (
-          <>
-            <mesh position={[0, 1.05, 0]} scale={[1.02, 0.55, 1.02]}>
-              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
-              <meshStandardMaterial color={hairC} transparent opacity={OP} />
-            </mesh>
-            <mesh position={[0, 1.16, 0.04]} rotation={[-0.2, 0, 0]} scale={[0.42, 1, 0.36]}>
-              <coneGeometry args={[0.055, 0.12, 5]} />
-              <meshStandardMaterial color={hairC} transparent opacity={OP} />
-            </mesh>
-          </>
-        )}
-
-        {/* ── EYES (simple dots) ── */}
-        <mesh position={[0.065, 0.97, 0.17]}>
-          <sphereGeometry args={[0.018, 8, 8]} />
-          <meshStandardMaterial color="#0A0A1A" transparent opacity={OP} />
-        </mesh>
-        <mesh position={[-0.065, 0.97, 0.17]}>
-          <sphereGeometry args={[0.018, 8, 8]} />
-          <meshStandardMaterial color="#0A0A1A" transparent opacity={OP} />
-        </mesh>
-
-        {/* ── Subtle glow ── */}
-        <pointLight position={[0, 0.6, 0]} color={bc} intensity={0.6} distance={3} />
-      </group>
-
-      {/* ── Nametag (HTML overlay) ── */}
-      <Html position={[0, 1.35, 0]} center distanceFactor={8} sprite>
-        <div style={{
-          background: "rgba(0,0,0,0.55)",
-          color: "#fff",
-          padding: "2px 8px",
-          borderRadius: 6,
-          fontSize: 11,
-          fontWeight: 700,
-          whiteSpace: "nowrap",
-          userSelect: "none",
-          pointerEvents: "none",
-          border: "1px solid rgba(255,255,255,0.15)",
-        }}>
-          {name}
-        </div>
-      </Html>
-    </group>
   );
 }
 
@@ -1844,7 +1354,6 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
         g.vy = 0;
         g.onGround = true;
         g.lastGroundY = platTop;
-        if (platTop > g.bestHeight) g.bestHeight = platTop;
 
         if (plat.type === "crumble") plat.touched = true;
         if (plat.type === "ice") g.onIce = true;
@@ -2000,7 +1509,7 @@ function FloatingParticles() {
   );
 }
 
-function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId, ghostPosRef, ghostName, ghostAvatarData }: {
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
@@ -2010,9 +1519,6 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
   skinId: string;
   hatId: string | null;
   trailId: string | null;
-  ghostPosRef?: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>;
-  ghostName?: string;
-  ghostAvatarData?: GhostAvatarData | null;
 }) {
   const g = gameRef.current;
   if (!g) return null;
@@ -2041,11 +1547,6 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
       ))}
 
       <Character gameRef={gameRef} skinId={skinId} hatId={hatId} trailId={trailId} />
-
-      {/* Ghost player (multiplayer opponent) */}
-      {ghostPosRef && ghostName && (
-        <GhostPlayer posRef={ghostPosRef} name={ghostName} avatarData={ghostAvatarData || null} />
-      )}
 
       <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
     </>
@@ -2154,23 +1655,7 @@ function isIOS(): boolean {
 }
 
 // ─── MAIN COMPONENT ─────────────────────────────────
-export default function SkyClimbPageWrapper() {
-  return <Suspense><SkyClimbPage /></Suspense>;
-}
-
-function SkyClimbPage() {
-  const searchParams = useSearchParams();
-  const router = useRouter();
-  const matchId = searchParams.get("match");
-  const matchSeed = searchParams.get("seed");
-  const playerNum = searchParams.get("p");
-  const opponentName = searchParams.get("vs") || "???";
-  const urlLevel = searchParams.get("level");
-  const mixround = searchParams.get("mixround");
-  const isMultiplayer = !!matchId;
-  const isMix = !!(isMultiplayer && mixround);
-  const isP1 = playerNum === "1";
-
+export default function SkyClimbPage() {
   const [gameState, setGameState] = useState<GameState>("menu");
   const [level, setLevel] = useState(1);
   const [highestLevel, setHighestLevel] = useState(1);
@@ -2183,22 +1668,6 @@ function SkyClimbPage() {
   const [activeSkinId, setActiveSkinId] = useState("default");
   const [activeHatId, setActiveHatId] = useState<string | null>(null);
   const [activeTrailId, setActiveTrailId] = useState<string | null>(null);
-
-  // ─── MULTIPLAYER STATE ──────────────────────────
-  const [showExitConfirm, setShowExitConfirm] = useState(false);
-  const [oppFinished, setOppFinished] = useState(false);
-  const [oppDied, setOppDied] = useState(false);
-  const [multiResult, setMultiResult] = useState<{ myScore: number; oppScore: number } | null>(null);
-  const [scoreSubmitted, setScoreSubmitted] = useState(false);
-  const [ghostAvatarData, setGhostAvatarData] = useState<GhostAvatarData | null>(null);
-  const [roundResult, setRoundResult] = useState<{ myScore: number; oppScore: number; roundNumber: number; totalRounds: number } | null>(null);
-  const [showRoundResult, setShowRoundResult] = useState(false);
-  const channelRef = useRef<RealtimeChannel | null>(null);
-  const ghostPosRef = useRef({ x: 0, y: 1, z: 0, fa: 0, dead: false });
-  const oppHeightRef = useRef(0);
-  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const nextRoundUrlRef = useRef<string | null>(null);
-  const multiStartedRef = useRef(false);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
@@ -2388,145 +1857,6 @@ function SkyClimbPage() {
     };
   }, [gameState]);
 
-  // ─── MULTIPLAYER: Supabase broadcast channel ───────
-  useEffect(() => {
-    if (!isMultiplayer || !matchId) return;
-
-    const channel = supabase.channel(`skyclimb-${matchId}`, {
-      config: { broadcast: { self: false } },
-    });
-
-    channel.on("broadcast", { event: "pos" }, ({ payload }) => {
-      if (payload.p !== playerNum) {
-        ghostPosRef.current = { x: payload.x, y: payload.y, z: payload.z, fa: payload.fa, dead: false };
-      }
-    });
-
-    channel.on("broadcast", { event: "finished" }, ({ payload }) => {
-      if (payload.p !== playerNum) {
-        setOppFinished(true);
-      }
-    });
-
-    channel.on("broadcast", { event: "died" }, ({ payload }) => {
-      if (payload.p !== playerNum) {
-        ghostPosRef.current = { ...ghostPosRef.current, dead: true };
-        oppHeightRef.current = payload.height ?? 0;
-        setOppDied(true);
-      }
-    });
-
-    channel.on("broadcast", { event: "avatar" }, ({ payload }) => {
-      if (payload.p !== playerNum) {
-        setGhostAvatarData(payload.avatar as GhostAvatarData);
-      }
-    });
-
-    channel.subscribe((status) => {
-      if (status === "SUBSCRIBED") {
-        // Send our avatar appearance to opponent
-        const skin = getSkinDef(getActiveSkin());
-        const hasReal = skin.id !== "default";
-        const topId = getActive("top");
-        const bottomId = getActive("bottom");
-        const shoeId = getActive("shoe");
-        const topD = topId ? getTopDef(topId) : null;
-        const bottomD = bottomId ? getBottomDef(bottomId) : null;
-        const shoeD = shoeId ? getShoeDef(shoeId) : null;
-        const myAvatar: GhostAvatarData = {
-          bodyColor: topD ? topD.color : (hasReal ? skin.bodyColor : "#6b8fad"),
-          headColor: hasReal ? skin.headColor : "#e8c9a0",
-          limbColor: bottomD ? bottomD.color : (hasReal ? skin.limbColor : "#1e3a5f"),
-          shoeColor: shoeD ? shoeD.color : (hasReal ? skin.shoeColor : "#222222"),
-          hairColor: hasReal ? skin.headColor : "#3b2a1a",
-          gender: getGender(),
-        };
-        channel.send({ type: "broadcast", event: "avatar", payload: { p: playerNum, avatar: myAvatar } });
-        // Send again after a delay in case opponent joined late
-        setTimeout(() => {
-          channel.send({ type: "broadcast", event: "avatar", payload: { p: playerNum, avatar: myAvatar } });
-        }, 2000);
-      }
-    });
-    channelRef.current = channel;
-
-    return () => {
-      supabase.removeChannel(channel);
-      channelRef.current = null;
-    };
-  }, [isMultiplayer, matchId, playerNum]);
-
-  // ─── MULTIPLAYER: Broadcast position ~8/sec ────────
-  useEffect(() => {
-    if (!isMultiplayer || gameState !== "playing" || !channelRef.current) return;
-
-    const interval = setInterval(() => {
-      const g = gameRef.current;
-      if (g.dead || g.levelComplete) return;
-      channelRef.current?.send({
-        type: "broadcast",
-        event: "pos",
-        payload: { p: playerNum, x: g.px, y: g.py, z: g.pz, fa: g.facingAngle },
-      });
-    }, 120);
-
-    broadcastIntervalRef.current = interval;
-    return () => {
-      clearInterval(interval);
-      broadcastIntervalRef.current = null;
-    };
-  }, [isMultiplayer, gameState, playerNum]);
-
-  // ─── MULTIPLAYER: Auto-start when URL has level ────
-  const multiStarted = useRef(false);
-  useEffect(() => {
-    if (isMultiplayer && urlLevel && !multiStarted.current) {
-      multiStarted.current = true;
-      const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
-      setTimeout(() => startGame(lv), 100);
-    }
-  }, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
-
-  // ─── MULTIPLAYER: Handle opponent finishing ────────
-  useEffect(() => {
-    if (!oppFinished || !isMultiplayer || !matchId || scoreSubmitted) return;
-    // Opponent finished first — I lose, submit my best height
-    setScoreSubmitted(true);
-    const g = gameRef.current;
-    const myHeight = Math.round(g.bestHeight);
-    if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current);
-
-    if (isMix) {
-      submitMixRoundScore(matchId, myHeight, isP1).then(() => {
-        setMultiResult({ myScore: myHeight, oppScore: 999 });
-      });
-    } else {
-      submitScore(matchId, myHeight, isP1).then(() => {
-        setMultiResult({ myScore: myHeight, oppScore: 999 });
-      });
-    }
-  }, [oppFinished, isMultiplayer, matchId, scoreSubmitted, playerNum, isMix, isP1]);
-
-  // ─── MULTIPLAYER: Handle opponent dying ────────────
-  useEffect(() => {
-    if (!oppDied || !isMultiplayer) return;
-    setNotification("💀 " + opponentName);
-    setTimeout(() => setNotification(null), 2000);
-    // If I already submitted score (finished/died), update result with opponent's height
-    if (scoreSubmitted && multiResult && multiResult.oppScore === -1) {
-      setMultiResult({ ...multiResult, oppScore: oppHeightRef.current });
-    }
-  }, [oppDied, isMultiplayer, opponentName, scoreSubmitted, multiResult]);
-
-  // ─── MULTIPLAYER: Handle opponent finishing after I died/finished ─
-  useEffect(() => {
-    if (!oppFinished || !isMultiplayer || !scoreSubmitted) return;
-    // Opponent finished the level = score 999
-    if (multiResult && multiResult.oppScore === -1) {
-      setMultiResult({ ...multiResult, oppScore: 999 });
-    }
-  }, [oppFinished, isMultiplayer, scoreSubmitted, multiResult]);
-
   const startGame = useCallback((lvl: number) => {
     // Try fullscreen on Android
     if (!isStandalone()) {
@@ -2536,9 +1866,7 @@ function SkyClimbPage() {
       (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
     } catch {}
 
-    // Use seed for deterministic levels in multiplayer
-    const seed = isMultiplayer ? matchSeed || undefined : undefined;
-    const { platforms, goalIdx, powerUps } = generateLevel(lvl, seed);
+    const { platforms, goalIdx, powerUps } = generateLevel(lvl);
     const g = gameRef.current;
     Object.assign(g, createGameData());
     g.platforms = platforms;
@@ -2546,14 +1874,6 @@ function SkyClimbPage() {
     g.powerUps = powerUps;
     g.level = lvl;
     g.py = 1;
-
-    // Reset multiplayer state
-    setOppFinished(false);
-    setOppDied(false);
-    setScoreSubmitted(false);
-    setMultiResult(null);
-    ghostPosRef.current = { x: 0, y: 1, z: 0, fa: 0, dead: false };
-    oppHeightRef.current = 0;
 
     // Activate shop power-up: sky_extralife gives shield at start
     try {
@@ -2579,33 +1899,8 @@ function SkyClimbPage() {
 
   const handleDie = useCallback(() => {
     setWinAnimActive(false);
-    if (isMultiplayer && matchId && !scoreSubmitted) {
-      const g = gameRef.current;
-      const heightScore = Math.round(g.bestHeight);
-      // Broadcast death + height to opponent
-      channelRef.current?.send({
-        type: "broadcast",
-        event: "died",
-        payload: { p: playerNum, height: heightScore },
-      });
-
-      setScoreSubmitted(true);
-      const submitFn = isMix ? submitMixRoundScore : submitScore;
-      submitFn(matchId, heightScore, isP1).then(() => {
-        if (oppDied) {
-          // Both died — compare heights
-          setMultiResult({ myScore: heightScore, oppScore: oppHeightRef.current });
-        } else if (oppFinished) {
-          // Opponent already finished — they win
-          setMultiResult({ myScore: heightScore, oppScore: 999 });
-        } else {
-          // Wait for opponent
-          setMultiResult({ myScore: heightScore, oppScore: -1 });
-        }
-      });
-    }
     setGameState("dead");
-  }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished, isMix, isP1]);
+  }, []);
 
   const handleWinStart = useCallback(() => {
     setWinAnimActive(true);
@@ -2642,38 +1937,13 @@ function SkyClimbPage() {
       total: g.level,
       date: new Date().toISOString(),
     });
-    window.dispatchEvent(new Event("plizio-cards-changed"));
     const newHighest = Math.max(g.level, parseInt(localStorage.getItem("plizio_skyclimb_highest") || "1"));
     localStorage.setItem("plizio_skyclimb_highest", newHighest.toString());
     setHighestLevel(newHighest);
     incrementTotalGames();
     updateStats({ skyHighestLevel: newHighest });
-
-    if (isMultiplayer && matchId && !scoreSubmitted) {
-      // Broadcast finish to opponent
-      channelRef.current?.send({
-        type: "broadcast",
-        event: "finished",
-        payload: { p: playerNum },
-      });
-      setScoreSubmitted(true);
-      const winScore = 999; // finished = always beats any death height
-      const submitFn = isMix ? submitMixRoundScore : submitScore;
-      submitFn(matchId, winScore, isP1).then(() => {
-        if (oppDied) {
-          setMultiResult({ myScore: winScore, oppScore: oppHeightRef.current });
-        } else if (oppFinished) {
-          // Both finished — draw
-          setMultiResult({ myScore: winScore, oppScore: 999 });
-        } else {
-          setMultiResult({ myScore: winScore, oppScore: -1 });
-        }
-      });
-      setGameState("reward");
-      return;
-    }
     setGameState("reward");
-  }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished]);
+  }, []);
 
   const handleFullscreenBtn = useCallback(() => {
     if (isIOS()) {
@@ -2685,8 +1955,8 @@ function SkyClimbPage() {
 
   return (
     <main className="flex flex-col items-center justify-center bg-bg relative overflow-hidden" style={{ minHeight: "100dvh", height: "100dvh", width: "100vw", overscrollBehavior: "none" }}>
-      {/* Menu (hidden in multiplayer) */}
-      {gameState === "menu" && !isMultiplayer && (
+      {/* Menu */}
+      {gameState === "menu" && (
         <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
           <Mountain size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
           <div className="flex flex-wrap items-center justify-center gap-2 max-w-xs">
@@ -2789,37 +2059,22 @@ function SkyClimbPage() {
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
             style={{ background: "linear-gradient(180deg, #2a5298 0%, #5b86c7 25%, #87CEEB 50%, #e8d5b7 85%, #f0c27f 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId}
-              ghostPosRef={isMultiplayer ? ghostPosRef : undefined} ghostName={isMultiplayer ? opponentName : undefined} ghostAvatarData={isMultiplayer ? ghostAvatarData : undefined} />
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId} />
           </Canvas>
 
           {/* HUD */}
           <div className="fixed top-2 left-0 right-0 z-10 flex items-start justify-between px-3 pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
-            {/* Home/Exit button */}
-            {isMultiplayer ? (
-              <button onClick={() => setShowExitConfirm(true)}
-                className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
+            {/* Home button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
                 <X size={16} className="text-white/60" />
-              </button>
-            ) : (
-              <Link href="/">
-                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
-                  <X size={16} className="text-white/60" />
-                </div>
-              </Link>
-            )}
-
-            {/* Level display + VS indicator */}
-            <div className="flex flex-col items-center gap-1">
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
-                <Mountain size={14} className="text-neon-green" />
-                <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
               </div>
-              {isMultiplayer && (
-                <div className="bg-neon-pink/20 backdrop-blur-sm rounded-lg px-3 py-1 border border-neon-pink/30">
-                  <span className="text-neon-pink text-[10px] font-bold">VS {opponentName}</span>
-                </div>
-              )}
+            </Link>
+
+            {/* Level display */}
+            <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
+              <Mountain size={14} className="text-neon-green" />
+              <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
             </div>
 
             {/* Power-up indicators */}
@@ -2920,7 +2175,7 @@ function SkyClimbPage() {
 
       {/* Death */}
       <AnimatePresence>
-        {gameState === "dead" && !isMultiplayer && (
+        {gameState === "dead" && (
           <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div initial={{ scale: 2, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring" }}>
@@ -2945,50 +2200,17 @@ function SkyClimbPage() {
             </motion.div>
           </motion.div>
         )}
-        {/* Multi death — waiting for opponent result */}
-        {gameState === "dead" && isMultiplayer && (!multiResult || multiResult.oppScore === -1) && (
-          <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
-            initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            <Mountain size={48} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
-            <span className="text-neon-pink font-black text-lg">FELL!</span>
-            <motion.div className="w-10 h-10 border-2 border-neon-pink border-t-transparent rounded-full"
-              animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
-            <span className="text-white/50 text-sm">Waiting for {opponentName}...</span>
-          </motion.div>
-        )}
-        {/* Multi result overlay */}
-        {isMultiplayer && multiResult && multiResult.oppScore !== -1 && (
-          <MultiplayerResult
-            myScore={multiResult.myScore}
-            oppScore={multiResult.oppScore}
-            myName={getUsername() || "???"}
-            oppName={opponentName}
-            onContinue={() => router.push("/multiplayer")}
-            formatScore={(s) => s >= 999 ? "✓" : `${s}m`}
-          />
-        )}
       </AnimatePresence>
 
       {/* Reward */}
       {gameState === "reward" && (
         <RewardReveal rarity={rewardRarity} game="skyclimb" score={level} total={level}
-          onDone={() => {
-            if (isMultiplayer) {
-              // In multi, after reward go to waiting or result
-              if (multiResult && multiResult.oppScore !== -1) {
-                setGameState("level-complete"); // triggers multi-result via the AnimatePresence above
-              } else {
-                setGameState("dead"); // reuse dead screen as waiting state
-              }
-            } else {
-              setGameState("level-complete");
-            }
-          }} />
+          onDone={() => setGameState("level-complete")} />
       )}
 
-      {/* Level complete (solo only — multi uses MultiplayerResult) */}
+      {/* Level complete */}
       <AnimatePresence>
-        {gameState === "level-complete" && !isMultiplayer && (
+        {gameState === "level-complete" && (
           <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring" }}>
@@ -3018,44 +2240,6 @@ function SkyClimbPage() {
           </motion.div>
         )}
       </AnimatePresence>
-
-      {/* Multiplayer: waiting for opponent after I won */}
-      {isMultiplayer && gameState === "level-complete" && multiResult && multiResult.oppScore === -1 && (
-        <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <Mountain size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
-          <span className="text-neon-green font-black text-lg">LVL {level} ✓</span>
-          <motion.div className="w-10 h-10 border-2 border-neon-green border-t-transparent rounded-full"
-            animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
-          <span className="text-white/50 text-sm">Waiting for {opponentName}...</span>
-        </motion.div>
-      )}
-
-      {/* Multiplayer: result after both done from level-complete */}
-      {isMultiplayer && gameState === "level-complete" && multiResult && multiResult.oppScore !== -1 && (
-        <MultiplayerResult
-          myScore={multiResult.myScore}
-          oppScore={multiResult.oppScore}
-          myName={getUsername() || "???"}
-          oppName={opponentName}
-          onContinue={() => router.push("/multiplayer")}
-          formatScore={(s) => s >= 999 ? "✓" : `${s}m`}
-        />
-      )}
-
-      {/* Multiplayer overlays */}
-      {isMultiplayer && matchId && (
-        <>
-          <MultiplayerExitConfirm
-            open={showExitConfirm}
-            onStay={() => setShowExitConfirm(false)}
-            onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
-          />
-          {gameState === "playing" && (
-            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
-          )}
-        </>
-      )}
     </main>
   );
 }

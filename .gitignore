@@ -12,7 +12,6 @@
 /.next/
 
 # build output at root level (prevent accidental root pollution)
-# NOTE: /out/ is NOT ignored — build artifacts must be committed for deployment
 /index.html
 /404.html
 /sw.js
@@ -35,9 +34,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-# .env.local is committed intentionally (contains only public NEXT_PUBLIC_ anon keys)
 .env*.local
-!.env.local
 
 # vercel
 .vercel
@@ -45,8 +42,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# Service account credentials (NEVER commit!)
-scripts/service-account.json
-supabase/.temp/
-.claude/

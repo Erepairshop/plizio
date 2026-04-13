@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Car, Search, Hash, Shuffle, Crown, Calculator, GitBranch, Grid3x3, Rocket, Timer, Ghost, Radio, type LucideIcon } from "lucide-react";
+import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Car, type LucideIcon } from "lucide-react";
 import { type CardRarity, getRarityConfig } from "@/lib/cards";
 import Confetti from "@/components/Confetti";
 
@@ -21,17 +21,6 @@ const GAME_ICONS: Record<string, LucideIcon> = {
   daily: Calendar,
   skyclimb: Mountain,
   citydrive: Car,
-  spotdiff: Search,
-  numberrush: Hash,
-  pipeflow: GitBranch,
-  deductiongrid: Grid3x3,
-  deductiongrid2: Rocket,
-  timeecho: Timer,
-  shadowswitch: Ghost,
-  signaldecoder: Radio,
-  wordscramble: Shuffle,
-  milliomos: Crown,
-  mathtest: Calculator,
 };
 
 const GAME_COLORS: Record<string, string> = {
@@ -41,17 +30,6 @@ const GAME_COLORS: Record<string, string> = {
   daily: "#FFD700",
   skyclimb: "#00FF88",
   citydrive: "#FF6B00",
-  spotdiff: "#F59E0B",
-  numberrush: "#22D3EE",
-  pipeflow: "#22C55E",
-  deductiongrid: "#8B5CF6",
-  deductiongrid2: "#6366F1",
-  timeecho: "#00FFFF",
-  shadowswitch: "#F472B6",
-  signaldecoder: "#00FFCC",
-  wordscramble: "#34D399",
-  milliomos: "#FFD700",
-  mathtest: "#FFD700",
 };
 
 export default function RewardReveal({ rarity, game, score, total, onDone }: RewardRevealProps) {
@@ -148,7 +126,7 @@ export default function RewardReveal({ rarity, game, score, total, onDone }: Rew
               animate={revealed ? { opacity: 1, y: 0 } : {}}
               transition={{ delay: 1 }}
             >
-              {total > 0 ? `${score}/${total}` : score}
+              {score}/{total}
             </motion.div>
 
             {/* Date */}

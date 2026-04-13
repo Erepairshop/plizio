@@ -1,5 +1,5 @@
-import { supabase } from "./supabase/client";
-import type { User, AuthChangeEvent, Session } from "@supabase/supabase-js";
+import { supabase } from "./supabase";
+import type { User } from "@supabase/supabase-js";
 
 // ─── AUTH FUNCTIONS ────────────────────────────────
 
@@ -35,7 +35,7 @@ export async function getUser(): Promise<User | null> {
 }
 
 export function onAuthChange(callback: (user: User | null) => void) {
-  return supabase.auth.onAuthStateChange((_event: AuthChangeEvent, session: Session | null) => {
+  return supabase.auth.onAuthStateChange((_event, session) => {
     callback(session?.user ?? null);
   });
 }
