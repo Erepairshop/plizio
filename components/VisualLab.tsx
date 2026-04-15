@@ -23,6 +23,13 @@ import MeteorScaleGame from "@/app/astromath/visual-lab/games/MeteorScaleGame";
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
+// Astrodeutsch Visual Lab játékok
+import WortWaechterGame from "@/app/astro-deutsch/visual-lab/games/WortWaechterGame";
+import ArtikelAsteroidsGame from "@/app/astro-deutsch/visual-lab/games/ArtikelAsteroidsGame";
+import SatzbauSniperGame from "@/app/astro-deutsch/visual-lab/games/SatzbauSniperGame";
+import SilbenSlicerGame from "@/app/astro-deutsch/visual-lab/games/SilbenSlicerGame";
+import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
+
 import { SACHKUNDE_VISUAL_LAB_K1 } from "@/lib/visualLab/pools/sachkundeK1";
 import { SACHKUNDE_VISUAL_LAB_K2 } from "@/lib/visualLab/pools/sachkundeK2";
 import { SACHKUNDE_VISUAL_LAB_K3 } from "@/lib/visualLab/pools/sachkundeK3";
@@ -177,6 +184,10 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "meteor-scale", type: "puzzle", labelKey: "meteorScale", available: true },
   ],
   deutsch: [
+    { id: "wort-waechter", type: "spotter", labelKey: "wortWaechter", available: true },
+    { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
+    { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
+    { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
     { id: "grusel-builder", type: "puzzle", labelKey: "gruselBuilder", available: true },
     { id: "grusel-bild", type: "puzzle", labelKey: "gruselBild", available: true },
   ],
@@ -193,6 +204,10 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Meteorskala",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Bild-Geschichte 🖼️",
+    wortWaechter: "Wort-Wächter 🔤",
+    artikelAsteroids: "Artikel-Asteroiden 🪐",
+    satzbauSniper: "Satzbau-Sniper 🎯",
+    silbenSlicer: "Silben-Slicer ✂️",
   },
   hu: {
     mathNinja: "Math Ninja",
@@ -204,6 +219,10 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Meteormérleg",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Kép-Történet 🖼️",
+    wortWaechter: "Szó-Őrző 🔤",
+    artikelAsteroids: "Névelő-Aszteroidák 🪐",
+    satzbauSniper: "Mondatépítő 🎯",
+    silbenSlicer: "Szótag-Vágó ✂️",
   },
   ro: {
     mathNinja: "Math Ninja",
@@ -215,6 +234,10 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Balanță Meteorică",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Poveste cu Imagini 🖼️",
+    wortWaechter: "Paznicul Cuvintelor 🔤",
+    artikelAsteroids: "Asteroizi cu Articole 🪐",
+    satzbauSniper: "Sniper de Propoziții 🎯",
+    silbenSlicer: "Tăiător de Silabe ✂️",
   },
   en: {
     mathNinja: "Math Ninja",
@@ -226,6 +249,10 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Meteor Scale",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Picture Story 🖼️",
+    wortWaechter: "Word Guardian 🔤",
+    artikelAsteroids: "Article Asteroids 🪐",
+    satzbauSniper: "Sentence Sniper 🎯",
+    silbenSlicer: "Syllable Slicer ✂️",
   },
 };
 
@@ -478,6 +505,31 @@ function DeutschGameSwitch({
   lang: Lang;
   tSoon: string;
 }) {
+  // Pool betöltés: grade alapján, fallback grade=1 de
+  const pool = ASTRO_LANGUAGE_POOLS[lang]?.[grade]
+    ?? ASTRO_LANGUAGE_POOLS[lang]?.[1]
+    ?? ASTRO_LANGUAGE_POOLS['de']?.[1];
+
+  if (gameId === "wort-waechter") {
+    const round = pool?.wortWaechter?.[0];
+    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
+    return <WortWaechterGame grade={grade} lang={lang} round={round} />;
+  }
+  if (gameId === "artikel-asteroids") {
+    const round = pool?.artikelAsteroids?.[0];
+    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
+    return <ArtikelAsteroidsGame grade={grade} lang={lang} round={round} />;
+  }
+  if (gameId === "satzbau-sniper") {
+    const round = pool?.satzbauSniper?.[0];
+    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
+    return <SatzbauSniperGame grade={grade} lang={lang} round={round} />;
+  }
+  if (gameId === "silben-slicer") {
+    const round = pool?.silbenSlicer?.[0];
+    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
+    return <SilbenSlicerGame grade={grade} lang={lang} round={round} />;
+  }
   if (gameId === "grusel-builder") {
     return <GruselBuilderGame grade={grade} lang={lang} />;
   }
