@@ -28,6 +28,7 @@ import WortWaechterGame from "@/app/astro-deutsch/visual-lab/games/WortWaechterG
 import ArtikelAsteroidsGame from "@/app/astro-deutsch/visual-lab/games/ArtikelAsteroidsGame";
 import SatzbauSniperGame from "@/app/astro-deutsch/visual-lab/games/SatzbauSniperGame";
 import SilbenSlicerGame from "@/app/astro-deutsch/visual-lab/games/SilbenSlicerGame";
+import TippSturmGame from "@/app/astro-deutsch/visual-lab/games/TippSturmGame";
 import { ASTRO_LANGUAGE_POOLS } from "@/lib/visualLab/pools/astroLanguagePools";
 
 import { SACHKUNDE_VISUAL_LAB_K1 } from "@/lib/visualLab/pools/sachkundeK1";
@@ -184,6 +185,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "meteor-scale", type: "puzzle", labelKey: "meteorScale", available: true },
   ],
   deutsch: [
+    { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
     { id: "wort-waechter", type: "spotter", labelKey: "wortWaechter", available: true },
     { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
     { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
@@ -204,6 +206,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Meteorskala",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Bild-Geschichte 🖼️",
+    tippSturm: "TippSturm ⚡",
     wortWaechter: "Wort-Wächter 🔤",
     artikelAsteroids: "Artikel-Asteroiden 🪐",
     satzbauSniper: "Satzbau-Sniper 🎯",
@@ -219,6 +222,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Meteormérleg",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Kép-Történet 🖼️",
+    tippSturm: "TippSturm ⚡",
     wortWaechter: "Szó-Őrző 🔤",
     artikelAsteroids: "Névelő-Aszteroidák 🪐",
     satzbauSniper: "Mondatépítő 🎯",
@@ -234,6 +238,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Balanță Meteorică",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Poveste cu Imagini 🖼️",
+    tippSturm: "TippSturm ⚡",
     wortWaechter: "Paznicul Cuvintelor 🔤",
     artikelAsteroids: "Asteroizi cu Articole 🪐",
     satzbauSniper: "Sniper de Propoziții 🎯",
@@ -249,6 +254,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     meteorScale: "Meteor Scale",
     gruselBuilder: "Grusel-Baukasten 👻",
     gruselBild: "Picture Story 🖼️",
+    tippSturm: "TippSturm ⚡",
     wortWaechter: "Word Guardian 🔤",
     artikelAsteroids: "Article Asteroids 🪐",
     satzbauSniper: "Sentence Sniper 🎯",
@@ -510,6 +516,11 @@ function DeutschGameSwitch({
     ?? ASTRO_LANGUAGE_POOLS[lang]?.[1]
     ?? ASTRO_LANGUAGE_POOLS['de']?.[1];
 
+  if (gameId === "tipp-sturm") {
+    const round = pool?.tippSturm?.[0];
+    if (!round) return <FallbackBox title={gameId} info={tSoon} />;
+    return <TippSturmGame grade={grade} lang={lang} round={round} />;
+  }
   if (gameId === "wort-waechter") {
     const round = pool?.wortWaechter?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;

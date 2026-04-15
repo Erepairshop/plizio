@@ -45,6 +45,15 @@ export interface VerbenVortexRound {
   theme: { bg: string; accent: string };
 }
 
+export interface TippSturmRound {
+  id: string;
+  title: string;
+  instruction: string;
+  words: string[];
+  flashDuration: number; // ms to show the word before hiding
+  theme: { bg: string; accent: string };
+}
+
 export interface LanguageGradePool {
   grade: number;
   wortWaechter: WortWaechterRound[];
@@ -52,6 +61,7 @@ export interface LanguageGradePool {
   satzbauSniper: SatzbauSniperRound[];
   silbenSlicer: SilbenSlicerRound[];
   verbenVortex: VerbenVortexRound[];
+  tippSturm: TippSturmRound[];
 }
 
 export type LanguagePools = Record<Language, Record<number, LanguageGradePool>>;
