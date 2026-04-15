@@ -457,7 +457,7 @@ function GameHost({
       {subject === "astromath" ? (
         <AstromathGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "deutsch" ? (
-        <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
+        <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
       ) : (
         <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       )}
@@ -505,11 +505,13 @@ function DeutschGameSwitch({
   grade,
   lang,
   tSoon,
+  onDone,
 }: {
   gameId: string;
   grade: number;
   lang: Lang;
   tSoon: string;
+  onDone?: (score: number) => void;
 }) {
   // Pool betöltés: lang+grade → lang+1 → de+1 (pool-szintű fallback)
   const pool = ASTRO_LANGUAGE_POOLS[lang]?.[grade]
@@ -522,27 +524,27 @@ function DeutschGameSwitch({
   if (gameId === "tipp-sturm") {
     const round = pool?.tippSturm?.[0] ?? dePool?.tippSturm?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <TippSturmGame grade={grade} lang={lang} round={round} />;
+    return <TippSturmGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "wort-waechter") {
     const round = pool?.wortWaechter?.[0] ?? dePool?.wortWaechter?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <WortWaechterGame grade={grade} lang={lang} round={round} />;
+    return <WortWaechterGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "artikel-asteroids") {
     const round = pool?.artikelAsteroids?.[0] ?? dePool?.artikelAsteroids?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <ArtikelAsteroidsGame grade={grade} lang={lang} round={round} />;
+    return <ArtikelAsteroidsGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "satzbau-sniper") {
     const round = pool?.satzbauSniper?.[0] ?? dePool?.satzbauSniper?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <SatzbauSniperGame grade={grade} lang={lang} round={round} />;
+    return <SatzbauSniperGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "silben-slicer") {
     const round = pool?.silbenSlicer?.[0] ?? dePool?.silbenSlicer?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
-    return <SilbenSlicerGame grade={grade} lang={lang} round={round} />;
+    return <SilbenSlicerGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "grusel-builder") {
     return <GruselBuilderGame grade={grade} lang={lang} />;
