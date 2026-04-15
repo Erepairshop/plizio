@@ -5,12 +5,11 @@ import { motion, AnimatePresence } from "framer-motion";
 import type { TippSturmRound, Language } from "@/lib/visualLab/languageTypes";
 
 const WORDS_PER_GAME = 10;
-const TYPE_SECONDS = 12;
 
 const T: Record<Language, {
   memorize: string; type: string; correct: string; wrong: string;
   score: string; streak: string; done: string; total: string;
-  placeholder: string; pressEnter: string; timeout: string;
+  placeholder: string; pressEnter: string;
   word: string; of: string;
 }> = {
   de: {
@@ -24,7 +23,6 @@ const T: Record<Language, {
     total: "Gesamtpunkte",
     placeholder: "Wort eingeben…",
     pressEnter: "Enter zum Bestätigen",
-    timeout: "Zeit abgelaufen!",
     word: "Wort",
     of: "von",
   },
@@ -39,7 +37,6 @@ const T: Record<Language, {
     total: "Összpontszám",
     placeholder: "Írd be a szót…",
     pressEnter: "Enter a megerősítéshez",
-    timeout: "Lejárt az idő!",
     word: "Szó",
     of: "/",
   },
@@ -54,7 +51,6 @@ const T: Record<Language, {
     total: "Total",
     placeholder: "Scrie cuvântul…",
     pressEnter: "Enter pentru confirmare",
-    timeout: "Timp expirat!",
     word: "Cuvânt",
     of: "din",
   },
@@ -69,7 +65,6 @@ const T: Record<Language, {
     total: "Total Score",
     placeholder: "Type the word…",
     pressEnter: "Press Enter to confirm",
-    timeout: "Time's up!",
     word: "Word",
     of: "of",
   },
@@ -121,7 +116,6 @@ export default function TippSturmGame({
   const [typed, setTyped] = useState("");
   const [score, setScore] = useState(0);
   const [streak, setStreak] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(TYPE_SECONDS);
   const [lastResult, setLastResult] = useState<"correct" | "wrong" | null>(null);
   const [letterResults, setLetterResults] = useState<LetterResult[]>([]);
   const inputRef = useRef<HTMLInputElement>(null);
@@ -141,22 +135,9 @@ export default function TippSturmGame({
   // Focus on type phase
   useEffect(() => {
     if (phase === "type") {
-      setTimeLeft(TYPE_SECONDS);
       setTimeout(() => inputRef.current?.focus(), 100);
     }
   }, [phase]);
-
-  // Countdown
-  useEffect(() => {
-    if (phase !== "type") return;
-    if (timeLeft <= 0) {
-      handleSubmit("", true);
-      return;
-    }
-    const timer = setInterval(() => setTimeLeft((p) => p - 1), 1000);
-    return () => clearInterval(timer);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [phase, timeLeft]);
 
   // Feedback → next or done
   useEffect(() => {
@@ -176,35 +157,27 @@ export default function TippSturmGame({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [phase]);
 
-  const handleSubmit = (value: string, timeout = false) => {
+  const handleSubmit = (value: string) => {
     if (submitCalledRef.current) return;
     submitCalledRef.current = true;
 
-    const isCorrect =
-      !timeout &&
-      value.trim().toLowerCase() === currentWord.toLowerCase();
-
+    const isCorrect = value.trim().toLowerCase() === currentWord.toLowerCase();
     const newStreak = isCorrect ? streak + 1 : 0;
     const basePoints = isCorrect ? 10 : 0;
     const streakBonus =
       isCorrect && newStreak >= 2 ? Math.min((newStreak - 1) * 5, 25) : 0;
-    const timeBonus = isCorrect
-      ? Math.floor((timeLeft / TYPE_SECONDS) * 5)
-      : 0;
 
-    setScore((s) => s + basePoints + streakBonus + timeBonus);
+    setScore((s) => s + basePoints + streakBonus);
     setStreak(newStreak);
     setLastResult(isCorrect ? "correct" : "wrong");
-    setLetterResults(compareWords(currentWord, timeout ? "" : value.trim()));
+    setLetterResults(compareWords(currentWord, value.trim()));
     setPhase("feedback");
   };
 
-  const timerFraction = timeLeft / TYPE_SECONDS;
-  const circumference = 2 * Math.PI * 22;
   const progress = (index / wordQueue.length) * 100;
 
   if (phase === "done") {
-    const maxScore = wordQueue.length * 15; // 10 base + 5 time bonus
+    const maxScore = wordQueue.length * 10;
     const pct = Math.round((score / maxScore) * 100);
     const emoji = pct >= 80 ? "🏆" : pct >= 50 ? "🌟" : "💪";
     return (
@@ -358,41 +331,6 @@ export default function TippSturmGame({
                 {t.type}
               </p>
 
-              {/* Circular timer */}
-              <div className="relative w-14 h-14">
-                <svg
-                  className="w-full h-full -rotate-90"
-                  viewBox="0 0 48 48"
-                >
-                  <circle
-                    cx="24"
-                    cy="24"
-                    r="22"
-                    fill="none"
-                    stroke="rgba(255,255,255,0.08)"
-                    strokeWidth="4"
-                  />
-                  <motion.circle
-                    cx="24"
-                    cy="24"
-                    r="22"
-                    fill="none"
-                    stroke={timeLeft <= 3 ? "#ef4444" : round.theme.accent}
-                    strokeWidth="4"
-                    strokeLinecap="round"
-                    strokeDasharray={circumference}
-                    animate={{
-                      strokeDashoffset:
-                        circumference * (1 - timerFraction),
-                    }}
-                    transition={{ duration: 0.5 }}
-                  />
-                </svg>
-                <span className="absolute inset-0 flex items-center justify-center font-mono font-bold text-white text-sm">
-                  {timeLeft}
-                </span>
-              </div>
-
               <input
                 ref={inputRef}
                 value={typed}
@@ -401,12 +339,7 @@ export default function TippSturmGame({
                   if (e.key === "Enter") handleSubmit(typed);
                 }}
                 className="w-full text-center text-2xl font-bold bg-black/40 border-2 rounded-xl px-4 py-3 text-white outline-none transition-colors placeholder:text-white/20"
-                style={{
-                  borderColor:
-                    timeLeft <= 3
-                      ? "rgba(239,68,68,0.7)"
-                      : `${round.theme.accent}60`,
-                }}
+                style={{ borderColor: `${round.theme.accent}60` }}
                 placeholder={t.placeholder}
                 autoCapitalize="off"
                 autoCorrect="off"

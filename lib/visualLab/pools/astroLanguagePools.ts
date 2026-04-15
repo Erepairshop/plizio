@@ -1,9 +1,9 @@
 import { LanguagePools } from "../languageTypes";
 
-// Flash durations by grade (ms): grade 1 = 3s, grade 8 = 0.9s
+// Flash durations by grade (ms): grade 1 = 5s, grade 8 = 2.9s
 const FLASH: Record<number, number> = {
-  1: 3000, 2: 2600, 3: 2200, 4: 1900,
-  5: 1600, 6: 1300, 7: 1100, 8: 900,
+  1: 5000, 2: 4600, 3: 4200, 4: 3900,
+  5: 3600, 6: 3300, 7: 3100, 8: 2900,
 };
 
 const TS_THEME = { bg: "#0d0a1f", accent: "#a855f7" };
