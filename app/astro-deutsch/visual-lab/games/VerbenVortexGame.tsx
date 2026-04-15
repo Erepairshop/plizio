@@ -106,7 +106,7 @@ export default function VerbenVortexGame({ grade, lang, round, onDone }: VerbenV
         <motion.div
           className="h-full bg-cyan-400"
           initial={{ width: '100%' }}
-          animate={{ width: \`\${(timeLeft / 15) * 100}%\` }}
+          animate={{ width: `${(timeLeft / 15) * 100}%` }}
           transition={{ duration: 1, ease: 'linear' }}
         />
       </div>
@@ -177,12 +177,12 @@ export default function VerbenVortexGame({ grade, lang, round, onDone }: VerbenV
                   <button
                     onClick={() => handleSelect(option)}
                     disabled={gameState !== 'playing'}
-                    className={\`px-6 py-3 rounded-full font-bold text-xl backdrop-blur-md transition-all border-2 whitespace-nowrap
-                      \${gameState !== 'playing' && isSelected && isCorrect ? 'bg-green-500/90 border-green-400 text-white shadow-[0_0_30px_rgba(34,197,94,0.8)]' : ''}
-                      \${gameState !== 'playing' && isSelected && !isCorrect ? 'bg-red-500/90 border-red-400 text-white shadow-[0_0_30px_rgba(239,68,68,0.8)]' : ''}
-                      \${gameState === 'playing' ? 'bg-slate-800/80 border-cyan-500/60 text-cyan-50 hover:bg-cyan-700 hover:border-cyan-300 hover:scale-110 shadow-[0_0_20px_rgba(34,211,238,0.4)] cursor-pointer' : 'cursor-default'}
-                      \${gameState !== 'playing' && !isSelected && !isCorrect ? 'bg-slate-800/80 border-cyan-500/60 text-cyan-50' : ''}
-                    \`}
+                    className={`px-6 py-3 rounded-full font-bold text-xl backdrop-blur-md transition-all border-2 whitespace-nowrap
+                      ${gameState !== 'playing' && isSelected && isCorrect ? 'bg-green-500/90 border-green-400 text-white shadow-[0_0_30px_rgba(34,197,94,0.8)]' : ''}
+                      ${gameState !== 'playing' && isSelected && !isCorrect ? 'bg-red-500/90 border-red-400 text-white shadow-[0_0_30px_rgba(239,68,68,0.8)]' : ''}
+                      ${gameState === 'playing' ? 'bg-slate-800/80 border-cyan-500/60 text-cyan-50 hover:bg-cyan-700 hover:border-cyan-300 hover:scale-110 shadow-[0_0_20px_rgba(34,211,238,0.4)] cursor-pointer' : 'cursor-default'}
+                      ${gameState !== 'playing' && !isSelected && !isCorrect ? 'bg-slate-800/80 border-cyan-500/60 text-cyan-50' : ''}
+                    `}
                   >
                     {option}
                   </button>
@@ -201,7 +201,7 @@ export default function VerbenVortexGame({ grade, lang, round, onDone }: VerbenV
             animate={{ opacity: 1, scale: 1, y: 0 }}
             className="absolute bottom-12 z-40 px-8 py-4 rounded-2xl bg-slate-900/95 border border-slate-700 backdrop-blur-xl shadow-2xl"
           >
-            <h2 className={\`text-3xl font-black uppercase tracking-widest \${gameState === 'won' ? 'text-green-400 drop-shadow-[0_0_15px_rgba(34,197,94,0.8)]' : 'text-red-400 drop-shadow-[0_0_15px_rgba(239,68,68,0.8)]'}\`}>
+            <h2 className={`text-3xl font-black uppercase tracking-widest ${gameState === 'won' ? 'text-green-400 drop-shadow-[0_0_15px_rgba(34,197,94,0.8)]' : 'text-red-400 drop-shadow-[0_0_15px_rgba(239,68,68,0.8)]'}`}>
               {gameState === 'won' ? t.correct : gameState === 'timeout' ? t.timeOut : t.wrong}
             </h2>
           </motion.div>
