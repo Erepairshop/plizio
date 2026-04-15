@@ -511,33 +511,36 @@ function DeutschGameSwitch({
   lang: Lang;
   tSoon: string;
 }) {
-  // Pool betöltés: grade alapján, fallback grade=1 de
+  // Pool betöltés: lang+grade → lang+1 → de+1 (pool-szintű fallback)
   const pool = ASTRO_LANGUAGE_POOLS[lang]?.[grade]
     ?? ASTRO_LANGUAGE_POOLS[lang]?.[1]
     ?? ASTRO_LANGUAGE_POOLS['de']?.[1];
 
+  // Round-szintű fallback: ha az adott pool-ban üres az array, de+1-ből vesszük
+  const dePool = ASTRO_LANGUAGE_POOLS['de']?.[1];
+
   if (gameId === "tipp-sturm") {
-    const round = pool?.tippSturm?.[0];
+    const round = pool?.tippSturm?.[0] ?? dePool?.tippSturm?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <TippSturmGame grade={grade} lang={lang} round={round} />;
   }
   if (gameId === "wort-waechter") {
-    const round = pool?.wortWaechter?.[0];
+    const round = pool?.wortWaechter?.[0] ?? dePool?.wortWaechter?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <WortWaechterGame grade={grade} lang={lang} round={round} />;
   }
   if (gameId === "artikel-asteroids") {
-    const round = pool?.artikelAsteroids?.[0];
+    const round = pool?.artikelAsteroids?.[0] ?? dePool?.artikelAsteroids?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <ArtikelAsteroidsGame grade={grade} lang={lang} round={round} />;
   }
   if (gameId === "satzbau-sniper") {
-    const round = pool?.satzbauSniper?.[0];
+    const round = pool?.satzbauSniper?.[0] ?? dePool?.satzbauSniper?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <SatzbauSniperGame grade={grade} lang={lang} round={round} />;
   }
   if (gameId === "silben-slicer") {
-    const round = pool?.silbenSlicer?.[0];
+    const round = pool?.silbenSlicer?.[0] ?? dePool?.silbenSlicer?.[0];
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <SilbenSlicerGame grade={grade} lang={lang} round={round} />;
   }
