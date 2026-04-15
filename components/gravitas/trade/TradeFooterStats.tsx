@@ -60,7 +60,7 @@ export default function TradeFooterStats({ state, inventory, localize }: Props) 
               })}
             </span>
             <span className="flex items-center gap-1">
-              <History size={10} /> {formatDuration(Date.now() - state.tradeSystem.lastRefreshAt)}
+              <History size={10} /> {formatDuration(Date.now() - state.tradeSystem.lastRefreshAtTick)}
             </span>
           </div>
           <div className="flex items-center gap-3">

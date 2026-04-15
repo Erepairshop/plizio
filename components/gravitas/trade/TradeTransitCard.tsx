@@ -12,8 +12,8 @@ interface Props {
 }
 
 export default function TradeTransitCard({ trade, now }: Props) {
-  const timeRemaining = Math.max(0, trade.completesAt - now);
-  const totalDuration = trade.completesAt - trade.startedAt;
+  const timeRemaining = Math.max(0, trade.completesAtTick - now);
+  const totalDuration = trade.completesAtTick - trade.startedAtTick;
   const progress = totalDuration > 0 ? 100 - (timeRemaining / totalDuration) * 100 : 100;
   const isDelayed = trade.status === "delayed";
 
