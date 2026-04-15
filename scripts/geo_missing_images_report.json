@@ -1,0 +1,236 @@
+[
+  {
+    "id": "city-augsburg",
+    "title": "Augsburg",
+    "status": "exists",
+    "path": "/geo-images/city-augsburg.svg"
+  },
+  {
+    "id": "city-oberhausen",
+    "title": "Oberhausen",
+    "status": "exists",
+    "path": "/geo-images/city-oberhausen.svg"
+  },
+  {
+    "id": "city-gelsenkirchen",
+    "title": "Gelsenkirchen",
+    "status": "exists",
+    "path": "/geo-images/city-gelsenkirchen.svg"
+  },
+  {
+    "id": "mnt-watzmann",
+    "title": "Watzmann",
+    "status": "exists",
+    "path": "/geo-images/mnt-watzmann.webp"
+  },
+  {
+    "id": "mnt-fichtelberg",
+    "title": "Fichtelberg (Erzgebirge)",
+    "status": "no-image",
+    "path": null
+  },
+  {
+    "id": "forest-spreewald",
+    "title": "Spreewald",
+    "status": "exists",
+    "path": "/geo-images/forest-spreewald.webp"
+  },
+  {
+    "id": "hist-wittenberg-schlosskirche",
+    "title": "Schlosskirche (Lutherstadt Wittenberg)",
+    "status": "exists",
+    "path": "/geo-images/hist-wittenberg-schlosskirche.webp"
+  },
+  {
+    "id": "hist-paulskirche",
+    "title": "Frankfurter Paulskirche",
+    "status": "no-image",
+    "path": null
+  },
+  {
+    "id": "hist-stasi-museum",
+    "title": "Stasimuseum",
+    "status": "exists",
+    "path": "/geo-images/hist-stasi-museum.webp"
+  },
+  {
+    "id": "hist-eisleben",
+    "title": "Lutherstadt Eisleben",
+    "status": "exists",
+    "path": "/geo-images/hist-eisleben.svg"
+  },
+  {
+    "id": "hist-tannenberg",
+    "title": "Tannenberg-Denkmal",
+    "status": "exists",
+    "path": "/geo-images/hist-tannenberg.webp"
+  },
+  {
+    "id": "hist-skagerrakschlacht",
+    "title": "Marine-Ehrenmal Laboe",
+    "status": "downloaded-webp",
+    "path": "/geo-images/hist-skagerrakschlacht.webp"
+  },
+  {
+    "id": "hist-verdun-gedenkstaette",
+    "title": "Beinhaus von Douaumont",
+    "status": "downloaded-webp",
+    "path": "/geo-images/hist-verdun-gedenkstaette.webp"
+  },
+  {
+    "id": "hist-november-revolution",
+    "title": "Reichstagsgebäude",
+    "status": "downloaded-webp",
+    "path": "/geo-images/hist-november-revolution.webp"
+  },
+  {
+    "id": "hist-spartakusaufstand",
+    "title": "Berlin",
+    "status": "exists",
+    "path": "/geo-images/hist-spartakusaufstand.svg"
+  },
+  {
+    "id": "hist-obersalzberg",
+    "title": "Kehlsteinhaus",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "hist-worms-dom",
+    "title": "Wormser Dom",
+    "status": "downloaded-webp",
+    "path": "/geo-images/hist-worms-dom.webp"
+  },
+  {
+    "id": "hist-paderborn-dom",
+    "title": "Paderborner Dom",
+    "status": "downloaded-webp",
+    "path": "/geo-images/hist-paderborn-dom.webp"
+  },
+  {
+    "id": "hist-bamberg-dom",
+    "title": "Bamberger Dom",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "hist-noerdlingen",
+    "title": "Nördlingen",
+    "status": "downloaded-webp",
+    "path": "/geo-images/hist-noerdlingen.webp"
+  },
+  {
+    "id": "zoo-berlin",
+    "title": "Zoologischer Garten Berlin",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "zoo-hagenbeck-hamburg",
+    "title": "Tierpark Hagenbeck",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "zoo-hellabrunn-muenchen",
+    "title": "Tierpark Hellabrunn",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "zoo-leipzig",
+    "title": "Zoo Leipzig",
+    "status": "downloaded-webp",
+    "path": "/geo-images/zoo-leipzig.webp"
+  },
+  {
+    "id": "animal-wattenmeer-seehunde",
+    "title": "Wattenmeer",
+    "status": "downloaded-webp",
+    "path": "/geo-images/animal-wattenmeer-seehunde.webp"
+  },
+  {
+    "id": "animal-schwarzwald-rotwild",
+    "title": "Schwarzwald",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "animal-alpen-gaemse",
+    "title": "Alpen",
+    "status": "exists",
+    "path": "/geo-images/animal-alpen-gaemse.webp"
+  },
+  {
+    "id": "animal-bayrischer-wald-luchs",
+    "title": "Nationalpark Bayerischer Wald",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "agri-loreley-wein",
+    "title": "Loreley",
+    "status": "downloaded-webp",
+    "path": "/geo-images/agri-loreley-wein.webp"
+  },
+  {
+    "id": "agri-hallertau-hopfen",
+    "title": "Hallertau",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "agri-altes-land-aepfel",
+    "title": "Altes Land",
+    "status": "exists",
+    "path": "/geo-images/agri-altes-land-aepfel.webp"
+  },
+  {
+    "id": "agri-spreewald-gurken",
+    "title": "Spreewald",
+    "status": "error",
+    "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+  },
+  {
+    "id": "agri-lueneburger-heide-imker",
+    "title": "Lüneburger Heide",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "kidlm-europapark-rust",
+    "title": "Europa-Park",
+    "status": "error",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "kidlm-legoland-guenzburg",
+    "title": "Legoland Deutschland Resort",
+    "status": "exists",
+    "path": "/geo-images/kidlm-legoland-guenzburg.webp"
+  },
+  {
+    "id": "kidlm-phantasialand-bruehl",
+    "title": "Phantasialand",
+    "status": "exists",
+    "path": "/geo-images/kidlm-phantasialand-bruehl.svg"
+  },
+  {
+    "id": "kidlm-heide-park-soltau",
+    "title": "Heide Park",
+    "status": "no-image",
+    "path": null
+  },
+  {
+    "id": "kidlm-miniatur-wunderland",
+    "title": "Miniatur Wunderland",
+    "status": "exists",
+    "path": "/geo-images/kidlm-miniatur-wunderland.webp"
+  },
+  {
+    "id": "kidlm-deutsches-museum-muenchen",
+    "title": "Deutsches Museum",
+    "status": "error",
+    "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
+  }
+]

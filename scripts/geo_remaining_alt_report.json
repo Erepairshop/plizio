@@ -1,0 +1,110 @@
+[
+  {
+    "id": "mnt-fichtelberg",
+    "status": "downloaded",
+    "path": "/geo-images/mnt-fichtelberg.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "hist-paulskirche",
+    "status": "attempt-failed",
+    "source": "en-summary",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "hist-paulskirche",
+    "status": "no-success"
+  },
+  {
+    "id": "hist-obersalzberg",
+    "status": "downloaded",
+    "path": "/geo-images/hist-obersalzberg.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "hist-bamberg-dom",
+    "status": "downloaded",
+    "path": "/geo-images/hist-bamberg-dom.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "zoo-berlin",
+    "status": "downloaded",
+    "path": "/geo-images/zoo-berlin.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "zoo-hagenbeck-hamburg",
+    "status": "downloaded",
+    "path": "/geo-images/zoo-hagenbeck-hamburg.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "zoo-hellabrunn-muenchen",
+    "status": "attempt-failed",
+    "source": "en-summary",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "zoo-hellabrunn-muenchen",
+    "status": "attempt-failed",
+    "source": "de-pageimages",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "zoo-hellabrunn-muenchen",
+    "status": "no-success"
+  },
+  {
+    "id": "animal-schwarzwald-rotwild",
+    "status": "downloaded",
+    "path": "/geo-images/animal-schwarzwald-rotwild.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "animal-bayrischer-wald-luchs",
+    "status": "attempt-failed",
+    "source": "en-summary",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "animal-bayrischer-wald-luchs",
+    "status": "no-success"
+  },
+  {
+    "id": "agri-hallertau-hopfen",
+    "status": "downloaded",
+    "path": "/geo-images/agri-hallertau-hopfen.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "agri-spreewald-gurken",
+    "status": "downloaded",
+    "path": "/geo-images/agri-spreewald-gurken.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "agri-lueneburger-heide-imker",
+    "status": "downloaded",
+    "path": "/geo-images/agri-lueneburger-heide-imker.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "kidlm-europapark-rust",
+    "status": "downloaded",
+    "path": "/geo-images/kidlm-europapark-rust.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "kidlm-heide-park-soltau",
+    "status": "downloaded",
+    "path": "/geo-images/kidlm-heide-park-soltau.webp",
+    "source": "en-summary"
+  },
+  {
+    "id": "kidlm-deutsches-museum-muenchen",
+    "status": "downloaded",
+    "path": "/geo-images/kidlm-deutsches-museum-muenchen.webp",
+    "source": "en-summary"
+  }
+]

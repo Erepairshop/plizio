@@ -1,0 +1,1477 @@
+[
+  {
+    "id": "city-berlin",
+    "type": "state-capital",
+    "parent": "DE-BE",
+    "title": "Berlin",
+    "coords": [
+      13.405,
+      52.52
+    ]
+  },
+  {
+    "id": "city-muenchen",
+    "type": "state-capital",
+    "parent": "DE-BY",
+    "title": "München",
+    "coords": [
+      11.582,
+      48.135
+    ]
+  },
+  {
+    "id": "city-stuttgart",
+    "type": "state-capital",
+    "parent": "DE-BW",
+    "title": "Stuttgart",
+    "coords": [
+      9.182,
+      48.775
+    ]
+  },
+  {
+    "id": "city-duesseldorf",
+    "type": "state-capital",
+    "parent": "DE-NW",
+    "title": "Düsseldorf",
+    "coords": [
+      6.773,
+      51.227
+    ]
+  },
+  {
+    "id": "city-hamburg",
+    "type": "state-capital",
+    "parent": "DE-HH",
+    "title": "Hamburg",
+    "coords": [
+      9.994,
+      53.551
+    ]
+  },
+  {
+    "id": "city-hannover",
+    "type": "state-capital",
+    "parent": "DE-NI",
+    "title": "Hannover",
+    "coords": [
+      9.733,
+      52.375
+    ]
+  },
+  {
+    "id": "city-wiesbaden",
+    "type": "state-capital",
+    "parent": "DE-HE",
+    "title": "Wiesbaden",
+    "coords": [
+      8.239,
+      50.082
+    ]
+  },
+  {
+    "id": "city-mainz",
+    "type": "state-capital",
+    "parent": "DE-RP",
+    "title": "Mainz",
+    "coords": [
+      8.2473,
+      49.9929
+    ]
+  },
+  {
+    "id": "city-saarbruecken",
+    "type": "state-capital",
+    "parent": "DE-SL",
+    "title": "Saarbrücken",
+    "coords": [
+      6.997,
+      49.24
+    ]
+  },
+  {
+    "id": "city-bremen",
+    "type": "state-capital",
+    "parent": "DE-HB",
+    "title": "Bremen",
+    "coords": [
+      8.8017,
+      53.0793
+    ]
+  },
+  {
+    "id": "city-kiel",
+    "type": "state-capital",
+    "parent": "DE-SH",
+    "title": "Kiel",
+    "coords": [
+      10.1228,
+      54.3233
+    ]
+  },
+  {
+    "id": "city-schwerin",
+    "type": "state-capital",
+    "parent": "DE-MV",
+    "title": "Schwerin",
+    "coords": [
+      11.4075,
+      53.6355
+    ]
+  },
+  {
+    "id": "city-potsdam",
+    "type": "state-capital",
+    "parent": "DE-BB",
+    "title": "Potsdam",
+    "coords": [
+      13.0657,
+      52.3906
+    ]
+  },
+  {
+    "id": "city-magdeburg",
+    "type": "state-capital",
+    "parent": "DE-ST",
+    "title": "Magdeburg",
+    "coords": [
+      11.6276,
+      52.1205
+    ]
+  },
+  {
+    "id": "city-erfurt",
+    "type": "state-capital",
+    "parent": "DE-TH",
+    "title": "Erfurt",
+    "coords": [
+      11.029,
+      50.9848
+    ]
+  },
+  {
+    "id": "city-dresden",
+    "type": "state-capital",
+    "parent": "DE-SN",
+    "title": "Dresden",
+    "coords": [
+      13.7383,
+      51.0504
+    ]
+  },
+  {
+    "id": "city-koeln",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Köln",
+    "coords": [
+      6.9603,
+      50.9375
+    ]
+  },
+  {
+    "id": "city-frankfurt",
+    "type": "city",
+    "parent": "DE-HE",
+    "title": "Frankfurt am Main",
+    "coords": [
+      8.6821,
+      50.1109
+    ]
+  },
+  {
+    "id": "city-leipzig",
+    "type": "city",
+    "parent": "DE-SN",
+    "title": "Leipzig",
+    "coords": [
+      12.3731,
+      51.3397
+    ]
+  },
+  {
+    "id": "city-nuernberg",
+    "type": "city",
+    "parent": "DE-BY",
+    "title": "Nürnberg",
+    "coords": [
+      11.0767,
+      49.4521
+    ]
+  },
+  {
+    "id": "city-heidelberg",
+    "type": "city",
+    "parent": "DE-BW",
+    "title": "Heidelberg",
+    "coords": [
+      8.6724,
+      49.3988
+    ]
+  },
+  {
+    "id": "city-luebeck",
+    "type": "city",
+    "parent": "DE-SH",
+    "title": "Lübeck",
+    "coords": [
+      10.6866,
+      53.8655
+    ]
+  },
+  {
+    "id": "city-regensburg",
+    "type": "city",
+    "parent": "DE-BY",
+    "title": "Regensburg",
+    "coords": [
+      12.0956,
+      49.0134
+    ]
+  },
+  {
+    "id": "city-wuerzburg",
+    "type": "city",
+    "parent": "DE-BY",
+    "title": "Würzburg",
+    "coords": [
+      9.9534,
+      49.7913
+    ]
+  },
+  {
+    "id": "city-rostock",
+    "type": "city",
+    "parent": "DE-MV",
+    "title": "Rostock",
+    "coords": [
+      12.0991,
+      54.0924
+    ]
+  },
+  {
+    "id": "city-augsburg",
+    "type": "city",
+    "parent": "DE-BY",
+    "title": "Augsburg",
+    "coords": [
+      10.8978,
+      48.3705
+    ]
+  },
+  {
+    "id": "city-trier",
+    "type": "city",
+    "parent": "DE-RP",
+    "title": "Trier",
+    "coords": [
+      6.6371,
+      49.7499
+    ]
+  },
+  {
+    "id": "city-freiburg",
+    "type": "city",
+    "parent": "DE-BW",
+    "title": "Freiburg im Breisgau",
+    "coords": [
+      7.8522,
+      47.999
+    ]
+  },
+  {
+    "id": "city-kassel",
+    "type": "city",
+    "parent": "DE-HE",
+    "title": "Kassel",
+    "coords": [
+      9.4797,
+      51.3127
+    ]
+  },
+  {
+    "id": "city-aachen",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Aachen",
+    "coords": [
+      6.0839,
+      50.7753
+    ]
+  },
+  {
+    "id": "city-braunschweig",
+    "type": "city",
+    "parent": "DE-NI",
+    "title": "Braunschweig",
+    "coords": [
+      10.5268,
+      52.2689
+    ]
+  },
+  {
+    "id": "city-bonn",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Bonn",
+    "coords": [
+      7.0982,
+      50.7374
+    ]
+  },
+  {
+    "id": "city-goettingen",
+    "type": "city",
+    "parent": "DE-NI",
+    "title": "Göttingen",
+    "coords": [
+      9.9352,
+      51.5413
+    ]
+  },
+  {
+    "id": "city-bayreuth",
+    "type": "city",
+    "parent": "DE-BY",
+    "title": "Bayreuth",
+    "coords": [
+      11.5789,
+      49.9427
+    ]
+  },
+  {
+    "id": "city-jena",
+    "type": "city",
+    "parent": "DE-TH",
+    "title": "Jena",
+    "coords": [
+      11.5892,
+      50.9271
+    ]
+  },
+  {
+    "id": "city-duisburg",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Duisburg",
+    "coords": [
+      6.7623,
+      51.4344
+    ]
+  },
+  {
+    "id": "city-oberhausen",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Oberhausen",
+    "coords": [
+      6.8638,
+      51.4963
+    ]
+  },
+  {
+    "id": "city-gelsenkirchen",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Gelsenkirchen",
+    "coords": [
+      7.0857,
+      51.5177
+    ]
+  },
+  {
+    "id": "city-bochum",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Bochum",
+    "coords": [
+      7.2162,
+      51.4818
+    ]
+  },
+  {
+    "id": "city-bielefeld",
+    "type": "city",
+    "parent": "DE-NW",
+    "title": "Bielefeld",
+    "coords": [
+      8.5325,
+      52.0302
+    ]
+  },
+  {
+    "id": "river-rhein",
+    "type": "river",
+    "parent": "DE",
+    "title": "Rhein",
+    "coords": [
+      7.72,
+      50.13
+    ]
+  },
+  {
+    "id": "river-elbe",
+    "type": "river",
+    "parent": "DE",
+    "title": "Elbe",
+    "coords": [
+      11.74,
+      52.24
+    ]
+  },
+  {
+    "id": "river-donau",
+    "type": "river",
+    "parent": "DE",
+    "title": "Donau",
+    "coords": [
+      12.98,
+      48.77
+    ]
+  },
+  {
+    "id": "river-main",
+    "type": "river",
+    "parent": "DE",
+    "title": "Main",
+    "coords": [
+      8.77,
+      50.11
+    ]
+  },
+  {
+    "id": "river-mosel",
+    "type": "river",
+    "parent": "DE",
+    "title": "Mosel",
+    "coords": [
+      7.59,
+      50.36
+    ]
+  },
+  {
+    "id": "river-neckar",
+    "type": "river",
+    "parent": "DE",
+    "title": "Neckar",
+    "coords": [
+      9.18,
+      48.78
+    ]
+  },
+  {
+    "id": "river-weser",
+    "type": "river",
+    "parent": "DE",
+    "title": "Weser",
+    "coords": [
+      8.74,
+      53.08
+    ]
+  },
+  {
+    "id": "river-isar",
+    "type": "river",
+    "parent": "DE",
+    "title": "Isar",
+    "coords": [
+      11.59,
+      48.14
+    ]
+  },
+  {
+    "id": "river-oder",
+    "type": "river",
+    "parent": "DE",
+    "title": "Oder",
+    "coords": [
+      14.55,
+      52.34
+    ]
+  },
+  {
+    "id": "river-spree",
+    "type": "river",
+    "parent": "DE",
+    "title": "Spree",
+    "coords": [
+      13.41,
+      52.52
+    ]
+  },
+  {
+    "id": "river-ruhr",
+    "type": "river",
+    "parent": "DE",
+    "title": "Ruhr",
+    "coords": [
+      7.46,
+      51.51
+    ]
+  },
+  {
+    "id": "river-havel",
+    "type": "river",
+    "parent": "DE",
+    "title": "Havel",
+    "coords": [
+      13.07,
+      52.4
+    ]
+  },
+  {
+    "id": "mnt-zugspitze",
+    "type": "mountain",
+    "parent": "DE-BY",
+    "title": "Zugspitze",
+    "coords": [
+      10.9859,
+      47.4211
+    ]
+  },
+  {
+    "id": "mnt-brocken",
+    "type": "mountain",
+    "parent": "DE-ST",
+    "title": "Brocken",
+    "coords": [
+      10.6175,
+      51.7996
+    ]
+  },
+  {
+    "id": "mnt-feldberg",
+    "type": "mountain",
+    "parent": "DE-BW",
+    "title": "Feldberg (Schwarzwald)",
+    "coords": [
+      8.0039,
+      47.8736
+    ]
+  },
+  {
+    "id": "mnt-grosser-arber",
+    "type": "mountain",
+    "parent": "DE-BY",
+    "title": "Großer Arber",
+    "coords": [
+      13.1433,
+      49.1128
+    ]
+  },
+  {
+    "id": "mnt-watzmann",
+    "type": "mountain",
+    "parent": "DE-BY",
+    "title": "Watzmann",
+    "coords": [
+      12.9227,
+      47.5552
+    ]
+  },
+  {
+    "id": "mnt-wasserkuppe",
+    "type": "mountain",
+    "parent": "DE-HE",
+    "title": "Wasserkuppe",
+    "coords": [
+      9.9436,
+      50.4974
+    ]
+  },
+  {
+    "id": "mnt-fichtelberg",
+    "type": "mountain",
+    "parent": "DE-SN",
+    "title": "Fichtelberg",
+    "queryTitle": "Fichtelberg (Erzgebirge)",
+    "name": {
+      "de": "Fichtelberg",
+      "hu": "Fichtelberg",
+      "ro": "Fichtelberg",
+      "en": "Fichtelberg"
+    },
+    "coords": [
+      12.9547,
+      50.4286
+    ]
+  },
+  {
+    "id": "mnt-grosser-feldberg",
+    "type": "mountain",
+    "parent": "DE-HE",
+    "title": "Großer Feldberg",
+    "coords": [
+      8.451,
+      50.222
+    ]
+  },
+  {
+    "id": "lake-bodensee",
+    "type": "lake",
+    "parent": "DE",
+    "title": "Bodensee",
+    "coords": [
+      9.38,
+      47.65
+    ]
+  },
+  {
+    "id": "lake-chiemsee",
+    "type": "lake",
+    "parent": "DE-BY",
+    "title": "Chiemsee",
+    "coords": [
+      12.48,
+      47.88
+    ]
+  },
+  {
+    "id": "lake-starnberger-see",
+    "type": "lake",
+    "parent": "DE-BY",
+    "title": "Starnberger See",
+    "coords": [
+      11.33,
+      47.91
+    ]
+  },
+  {
+    "id": "lake-ammersee",
+    "type": "lake",
+    "parent": "DE-BY",
+    "title": "Ammersee",
+    "coords": [
+      11.12,
+      48
+    ]
+  },
+  {
+    "id": "lake-mueritz",
+    "type": "lake",
+    "parent": "DE-MV",
+    "title": "Müritz",
+    "coords": [
+      12.69,
+      53.45
+    ]
+  },
+  {
+    "id": "lake-schweriner-see",
+    "type": "lake",
+    "parent": "DE-MV",
+    "title": "Schweriner See",
+    "coords": [
+      11.43,
+      53.62
+    ]
+  },
+  {
+    "id": "island-sylt",
+    "type": "island",
+    "parent": "DE-SH",
+    "title": "Sylt",
+    "coords": [
+      8.34,
+      54.9
+    ]
+  },
+  {
+    "id": "island-ruegen",
+    "type": "island",
+    "parent": "DE-MV",
+    "title": "Rügen",
+    "coords": [
+      13.42,
+      54.45
+    ]
+  },
+  {
+    "id": "island-helgoland",
+    "type": "island",
+    "parent": "DE-SH",
+    "title": "Helgoland",
+    "coords": [
+      7.89,
+      54.18
+    ]
+  },
+  {
+    "id": "island-usedom",
+    "type": "island",
+    "parent": "DE-MV",
+    "title": "Usedom",
+    "coords": [
+      14.01,
+      53.95
+    ]
+  },
+  {
+    "id": "island-fehmarn",
+    "type": "island",
+    "parent": "DE-SH",
+    "title": "Fehmarn",
+    "coords": [
+      11.2,
+      54.44
+    ]
+  },
+  {
+    "id": "forest-schwarzwald",
+    "type": "forest",
+    "parent": "DE-BW",
+    "title": "Schwarzwald",
+    "coords": [
+      8.23,
+      48.25
+    ]
+  },
+  {
+    "id": "forest-bayerischer-wald",
+    "type": "forest",
+    "parent": "DE-BY",
+    "title": "Bayerischer Wald",
+    "coords": [
+      13.24,
+      49.03
+    ]
+  },
+  {
+    "id": "forest-harz",
+    "type": "forest",
+    "parent": "DE-ST",
+    "title": "Harz",
+    "coords": [
+      10.6,
+      51.77
+    ]
+  },
+  {
+    "id": "forest-lueneburger-heide",
+    "type": "forest",
+    "parent": "DE-NI",
+    "title": "Lüneburger Heide",
+    "coords": [
+      10.08,
+      53.12
+    ]
+  },
+  {
+    "id": "forest-spreewald",
+    "type": "forest",
+    "parent": "DE-BB",
+    "title": "Spreewald",
+    "coords": [
+      14.03,
+      51.87
+    ]
+  },
+  {
+    "id": "sea-nordsee",
+    "type": "sea",
+    "parent": "DE",
+    "title": "Nordsee",
+    "coords": [
+      8.2,
+      54.2
+    ]
+  },
+  {
+    "id": "sea-ostsee",
+    "type": "sea",
+    "parent": "DE",
+    "title": "Ostsee",
+    "coords": [
+      13.8,
+      54.5
+    ]
+  },
+  {
+    "id": "landmark-cologne-cathedral",
+    "type": "landmark",
+    "parent": "DE-NW",
+    "title": "Kölner Dom",
+    "coords": [
+      6.9583,
+      50.9413
+    ]
+  },
+  {
+    "id": "landmark-brandenburg-gate",
+    "type": "landmark",
+    "parent": "DE-BE",
+    "title": "Brandenburger Tor",
+    "queryTitle": "Brandenburger Tor",
+    "name": {
+      "de": "Brandenburger Tor",
+      "hu": "Brandenburgi kapu",
+      "ro": "Poarta Brandenburg",
+      "en": "Brandenburg Gate"
+    },
+    "coords": [
+      13.3777,
+      52.5163
+    ]
+  },
+  {
+    "id": "landmark-neuschwanstein",
+    "type": "landmark",
+    "parent": "DE-BY",
+    "title": "Schloss Neuschwanstein",
+    "coords": [
+      10.7498,
+      47.5576
+    ]
+  },
+  {
+    "id": "landmark-reichstag",
+    "type": "landmark",
+    "parent": "DE-BE",
+    "title": "Reichstagsgebäude",
+    "queryTitle": "Reichstagsgebäude",
+    "name": {
+      "de": "Reichstagsgebäude",
+      "hu": "Reichstag épülete",
+      "ro": "Clădirea Reichstagului",
+      "en": "Reichstag Building"
+    },
+    "coords": [
+      13.376,
+      52.5186
+    ]
+  },
+  {
+    "id": "landmark-frauenkirche-muenchen",
+    "type": "landmark",
+    "parent": "DE-BY",
+    "title": "Frauenkirche (München)",
+    "queryTitle": "Frauenkirche (München)",
+    "name": {
+      "de": "Frauenkirche München",
+      "hu": "Müncheni Frauenkirche",
+      "ro": "Frauenkirche din München",
+      "en": "Munich Frauenkirche"
+    },
+    "coords": [
+      11.5736,
+      48.1386
+    ]
+  },
+  {
+    "id": "landmark-speyer-cathedral",
+    "type": "landmark",
+    "parent": "DE-RP",
+    "title": "Speyerer Dom",
+    "queryTitle": "Speyerer Dom",
+    "name": {
+      "de": "Speyerer Dom",
+      "hu": "Speyeri dóm",
+      "ro": "Catedrala din Speyer",
+      "en": "Speyer Cathedral"
+    },
+    "coords": [
+      8.442,
+      49.3172
+    ]
+  },
+  {
+    "id": "landmark-wartburg",
+    "type": "landmark",
+    "parent": "DE-TH",
+    "title": "Wartburg",
+    "coords": [
+      10.3067,
+      50.9664
+    ]
+  },
+  {
+    "id": "landmark-sanssouci",
+    "type": "landmark",
+    "parent": "DE-BB",
+    "title": "Schloss Sanssouci",
+    "queryTitle": "Schloss Sanssouci",
+    "name": {
+      "de": "Schloss Sanssouci",
+      "hu": "Sanssouci kastély",
+      "ro": "Palatul Sanssouci",
+      "en": "Sanssouci Palace"
+    },
+    "coords": [
+      13.0386,
+      52.4046
+    ]
+  },
+  {
+    "id": "landmark-porta-nigra",
+    "type": "landmark",
+    "parent": "DE-RP",
+    "title": "Porta Nigra",
+    "queryTitle": "Porta Nigra",
+    "name": {
+      "de": "Porta Nigra",
+      "hu": "Porta Nigra",
+      "ro": "Porta Nigra",
+      "en": "Porta Nigra"
+    },
+    "coords": [
+      6.644,
+      49.7597
+    ]
+  },
+  {
+    "id": "landmark-elbphilharmonie",
+    "type": "landmark",
+    "parent": "DE-HH",
+    "title": "Elbphilharmonie",
+    "queryTitle": "Elbphilharmonie",
+    "name": {
+      "de": "Elbphilharmonie",
+      "hu": "Elbphilharmonie",
+      "ro": "Elbphilharmonie",
+      "en": "Elbphilharmonie"
+    },
+    "coords": [
+      9.9841,
+      53.5413
+    ]
+  },
+  {
+    "id": "landmark-zwinger",
+    "type": "landmark",
+    "parent": "DE-SN",
+    "title": "Zwinger (Dresden)",
+    "queryTitle": "Zwinger (Dresden)",
+    "name": {
+      "de": "Zwinger",
+      "hu": "Zwinger",
+      "ro": "Zwinger",
+      "en": "Zwinger"
+    },
+    "coords": [
+      13.734,
+      51.0522
+    ]
+  },
+  {
+    "id": "landmark-fernsehturm",
+    "type": "landmark",
+    "parent": "DE-BE",
+    "title": "Berliner Fernsehturm",
+    "queryTitle": "Berliner Fernsehturm",
+    "name": {
+      "de": "Berliner Fernsehturm",
+      "hu": "Berlini tévétorony",
+      "ro": "Turnul TV din Berlin",
+      "en": "Berlin TV Tower"
+    },
+    "coords": [
+      13.4094,
+      52.5208
+    ]
+  },
+  {
+    "id": "landmark-heidelberg-castle",
+    "type": "landmark",
+    "parent": "DE-BW",
+    "title": "Heidelberger Schloss",
+    "coords": [
+      8.715,
+      49.4106
+    ]
+  },
+  {
+    "id": "landmark-schwerin-castle",
+    "type": "landmark",
+    "parent": "DE-MV",
+    "title": "Schweriner Schloss",
+    "queryTitle": "Schweriner Schloss",
+    "name": {
+      "de": "Schweriner Schloss",
+      "hu": "Schwerini kastély",
+      "ro": "Castelul Schwerin",
+      "en": "Schwerin Castle"
+    },
+    "coords": [
+      11.4189,
+      53.6248
+    ]
+  },
+  {
+    "id": "landmark-voelklinger-huette",
+    "type": "landmark",
+    "parent": "DE-SL",
+    "title": "Völklinger Hütte",
+    "queryTitle": "Völklinger Hütte",
+    "name": {
+      "de": "Völklinger Hütte",
+      "hu": "Völklingeni vaskohó",
+      "ro": "Uzina Völklinger Hütte",
+      "en": "Völklinger Hütte"
+    },
+    "coords": [
+      6.842,
+      49.2518
+    ]
+  },
+  {
+    "id": "hist-wittenberg-schlosskirche",
+    "type": "historical",
+    "parent": "DE-ST",
+    "title": "Schlosskirche (Wittenberg)",
+    "historyPeriod": "reformation",
+    "historyYear": 1517,
+    "queryTitle": "Schlosskirche (Lutherstadt Wittenberg)",
+    "name": {
+      "de": "Schlosskirche Wittenberg",
+      "hu": "Wittenbergi vártemplom",
+      "ro": "Biserica castelului din Wittenberg",
+      "en": "Wittenberg Castle Church"
+    },
+    "coords": [
+      12.6481,
+      51.8663
+    ]
+  },
+  {
+    "id": "hist-weimar",
+    "type": "historical",
+    "parent": "DE-TH",
+    "title": "Weimar",
+    "historyPeriod": "modern",
+    "historyYear": [
+      1750,
+      1919
+    ],
+    "coords": [
+      11.329,
+      50.9795
+    ]
+  },
+  {
+    "id": "hist-reichsparteitag",
+    "type": "historical",
+    "parent": "DE-BY",
+    "title": "Dokumentationszentrum Reichsparteitagsgelände",
+    "historyPeriod": "ww2",
+    "historyYear": [
+      1933,
+      1945
+    ],
+    "queryTitle": "Reichsparteitagsgelände",
+    "name": {
+      "de": "Reichsparteitagsgelände Nürnberg",
+      "hu": "Nürnbergi pártnapok helyszíne",
+      "ro": "Locul congreselor partidului de la Nürnberg",
+      "en": "Nuremberg Rally Grounds"
+    },
+    "coords": [
+      11.1161,
+      49.426
+    ]
+  },
+  {
+    "id": "hist-berliner-mauer",
+    "type": "historical",
+    "parent": "DE-BE",
+    "title": "Berliner Mauer",
+    "historyPeriod": "ddr",
+    "historyYear": [
+      1961,
+      1989
+    ],
+    "coords": [
+      13.3903,
+      52.5351
+    ]
+  },
+  {
+    "id": "hist-checkpoint-charlie",
+    "type": "historical",
+    "parent": "DE-BE",
+    "title": "Checkpoint Charlie",
+    "historyPeriod": "ddr",
+    "historyYear": [
+      1961,
+      1989
+    ],
+    "coords": [
+      13.3904,
+      52.5076
+    ]
+  },
+  {
+    "id": "hist-leipzig-montagsdemos",
+    "type": "historical",
+    "parent": "DE-SN",
+    "title": "Montagsdemonstrationen in der DDR",
+    "historyPeriod": "ddr",
+    "historyYear": 1989,
+    "queryTitle": "Leipzig",
+    "name": {
+      "de": "Montagsdemonstrationen Leipzig",
+      "hu": "Lipcsei hétfői tüntetések",
+      "ro": "Demonstrațiile de luni din Leipzig",
+      "en": "Leipzig Monday demonstrations"
+    },
+    "coords": [
+      12.3731,
+      51.3397
+    ]
+  },
+  {
+    "id": "hist-cecilienhof",
+    "type": "historical",
+    "parent": "DE-BB",
+    "title": "Schloss Cecilienhof",
+    "historyPeriod": "modern",
+    "historyYear": 1945,
+    "queryTitle": "Potsdam",
+    "name": {
+      "de": "Schloss Cecilienhof",
+      "hu": "Cecilienhof kastély",
+      "ro": "Palatul Cecilienhof",
+      "en": "Cecilienhof Palace"
+    },
+    "coords": [
+      13.0933,
+      52.4125
+    ]
+  },
+  {
+    "id": "hist-aachen-cathedral",
+    "type": "historical",
+    "parent": "DE-NW",
+    "title": "Aachener Dom",
+    "historyPeriod": "middle-ages",
+    "historyYear": [
+      796,
+      805
+    ],
+    "queryTitle": "Aachener Dom",
+    "name": {
+      "de": "Aachener Dom",
+      "hu": "Aacheni dóm",
+      "ro": "Catedrala din Aachen",
+      "en": "Aachen Cathedral"
+    },
+    "coords": [
+      6.0839,
+      50.7747
+    ]
+  },
+  {
+    "id": "hist-augsburg",
+    "type": "historical",
+    "parent": "DE-BY",
+    "title": "Augsburger Rathaus",
+    "historyPeriod": "empire",
+    "historyYear": 1624,
+    "queryTitle": "Augsburger Rathaus",
+    "name": {
+      "de": "Augsburger Rathaus",
+      "hu": "Augsburg városháza",
+      "ro": "Primăria din Augsburg",
+      "en": "Augsburg Town Hall"
+    },
+    "coords": [
+      10.8978,
+      48.3665
+    ]
+  },
+  {
+    "id": "hist-luebeck",
+    "type": "historical",
+    "parent": "DE-SH",
+    "title": "Lübeck",
+    "historyPeriod": "middle-ages",
+    "historyYear": [
+      1200,
+      1500
+    ],
+    "coords": [
+      10.6866,
+      53.8655
+    ]
+  },
+  {
+    "id": "hist-regensburg",
+    "type": "historical",
+    "parent": "DE-BY",
+    "title": "Regensburg",
+    "historyPeriod": "empire",
+    "historyYear": [
+      1663,
+      1806
+    ],
+    "coords": [
+      12.0956,
+      49.0195
+    ]
+  },
+  {
+    "id": "hist-rothenburg",
+    "type": "historical",
+    "parent": "DE-BY",
+    "title": "Rothenburg ob der Tauber",
+    "historyPeriod": "middle-ages",
+    "historyYear": [
+      1200,
+      1500
+    ],
+    "coords": [
+      10.1793,
+      49.378
+    ]
+  },
+  {
+    "id": "hist-peenemuende",
+    "type": "historical",
+    "parent": "DE-MV",
+    "title": "Peenemünde",
+    "historyPeriod": "ww2",
+    "historyYear": [
+      1937,
+      1945
+    ],
+    "queryTitle": "Peenemünde",
+    "name": {
+      "de": "Peenemünde",
+      "hu": "Peenemünde",
+      "ro": "Peenemünde",
+      "en": "Peenemünde"
+    },
+    "coords": [
+      13.7727,
+      54.1419
+    ]
+  },
+  {
+    "id": "hist-paulskirche",
+    "type": "historical",
+    "parent": "DE-HE",
+    "title": "Frankfurter Paulskirche",
+    "historyPeriod": "modern",
+    "historyYear": 1848,
+    "coords": [
+      8.6797,
+      50.1107
+    ]
+  },
+  {
+    "id": "hist-hambach",
+    "type": "historical",
+    "parent": "DE-RP",
+    "title": "Hambacher Schloss",
+    "historyPeriod": "modern",
+    "historyYear": 1832,
+    "coords": [
+      8.1239,
+      49.3196
+    ]
+  },
+  {
+    "id": "hist-stasi-museum",
+    "type": "historical",
+    "parent": "DE-BE",
+    "title": "Stasi-Museum",
+    "historyPeriod": "ddr",
+    "historyYear": [
+      1950,
+      1989
+    ],
+    "queryTitle": "Stasi-Museum",
+    "name": {
+      "de": "Stasi-Museum",
+      "hu": "Stasi Múzeum",
+      "ro": "Muzeul Stasi",
+      "en": "Stasi Museum"
+    },
+    "coords": [
+      13.497,
+      52.5145
+    ]
+  },
+  {
+    "id": "hist-buchenwald",
+    "type": "historical",
+    "parent": "DE-TH",
+    "title": "KZ Buchenwald",
+    "historyPeriod": "ww2",
+    "historyYear": [
+      1937,
+      1945
+    ],
+    "coords": [
+      11.2498,
+      51.0213
+    ]
+  },
+  {
+    "id": "hist-dachau",
+    "type": "historical",
+    "parent": "DE-BY",
+    "title": "KZ Dachau",
+    "historyPeriod": "ww2",
+    "historyYear": [
+      1933,
+      1945
+    ],
+    "coords": [
+      11.4342,
+      48.2642
+    ]
+  },
+  {
+    "id": "hist-point-alpha",
+    "type": "historical",
+    "parent": "DE-HE",
+    "title": "Point Alpha",
+    "historyPeriod": "ddr",
+    "historyYear": [
+      1945,
+      1989
+    ],
+    "queryTitle": "Gedenkstätte Point Alpha",
+    "name": {
+      "de": "Point Alpha",
+      "hu": "Point Alpha",
+      "ro": "Point Alpha",
+      "en": "Point Alpha"
+    },
+    "coords": [
+      9.9156,
+      50.6476
+    ]
+  },
+  {
+    "id": "hist-bonn-bundeshaus",
+    "type": "historical",
+    "parent": "DE-NW",
+    "title": "Bundeshaus Bonn",
+    "historyPeriod": "modern",
+    "historyYear": [
+      1949,
+      1999
+    ],
+    "queryTitle": "Bundeshaus (Bonn)",
+    "name": {
+      "de": "Bundeshaus Bonn",
+      "hu": "Bonni Bundestag-épület",
+      "ro": "Bundeshaus Bonn",
+      "en": "Bundeshaus Bonn"
+    },
+    "coords": [
+      7.1227,
+      50.7197
+    ]
+  },
+  {
+    "id": "hist-eisleben",
+    "type": "historical",
+    "parent": "DE-ST",
+    "title": "Lutherstadt Eisleben",
+    "historyPeriod": "reformation",
+    "historyYear": 1483,
+    "queryTitle": "Lutherstadt Eisleben",
+    "name": {
+      "de": "Lutherstadt Eisleben",
+      "hu": "Lutherstadt Eisleben",
+      "ro": "Lutherstadt Eisleben",
+      "en": "Lutherstadt Eisleben"
+    },
+    "coords": [
+      11.5523,
+      51.5279
+    ]
+  },
+  {
+    "id": "hist-wolfenbuettel",
+    "type": "historical",
+    "parent": "DE-NI",
+    "title": "Wolfenbüttel",
+    "historyPeriod": "modern",
+    "historyYear": [
+      1500,
+      1800
+    ],
+    "queryTitle": "Wolfenbüttel",
+    "name": {
+      "de": "Wolfenbüttel",
+      "hu": "Wolfenbüttel",
+      "ro": "Wolfenbüttel",
+      "en": "Wolfenbüttel"
+    },
+    "coords": [
+      10.5409,
+      52.162
+    ]
+  },
+  {
+    "id": "hist-ddr-museum",
+    "type": "historical",
+    "parent": "DE-BE",
+    "title": "DDR Museum",
+    "historyPeriod": "ddr",
+    "historyYear": [
+      1949,
+      1989
+    ],
+    "queryTitle": "DDR Museum",
+    "name": {
+      "de": "DDR Museum",
+      "hu": "DDR Múzeum",
+      "ro": "Muzeul RDG",
+      "en": "DDR Museum"
+    },
+    "coords": [
+      13.401,
+      52.5191
+    ]
+  },
+  {
+    "id": "hist-berlin-reichstag-1945",
+    "type": "historical",
+    "parent": "DE-BE",
+    "title": "Reichstagsgebäude",
+    "historyPeriod": "ww2",
+    "historyYear": 1945,
+    "queryTitle": "Reichstagsgebäude",
+    "name": {
+      "de": "Reichstag 1945",
+      "hu": "Reichstag 1945",
+      "ro": "Reichstag 1945",
+      "en": "Reichstag 1945"
+    },
+    "coords": [
+      13.376,
+      52.5186
+    ]
+  },
+  {
+    "id": "hist-speyer",
+    "type": "historical",
+    "parent": "DE-RP",
+    "title": "Speyerer Dom",
+    "historyPeriod": "middle-ages",
+    "historyYear": [
+      1030,
+      1106
+    ],
+    "coords": [
+      8.442,
+      49.3172
+    ]
+  },
+  {
+    "id": "hist-wartburg",
+    "type": "historical",
+    "parent": "DE-TH",
+    "title": "Wartburg",
+    "historyPeriod": "reformation",
+    "historyYear": 1521,
+    "coords": [
+      10.3067,
+      50.9664
+    ]
+  }
+]

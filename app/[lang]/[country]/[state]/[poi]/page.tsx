@@ -1,0 +1,205 @@
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import Breadcrumb from "@/components/seo/Breadcrumb";
+import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
+import StructuredData, { createPoiStructuredData } from "@/components/seo/StructuredData";
+import { pois, type POI } from "@/lib/visualLab/data/poi";
+import {
+  SEO_COPY,
+  absoluteUrl,
+  getPoiAlternates,
+  getPoiByRouteParams,
+  getRelatedPois,
+  getVisualLabHref,
+  isLang,
+  osmHref,
+  poiDescription,
+  poiTitle,
+} from "@/lib/seo/routes";
+import { SUPPORTED_LANGS, buildCountryPath, buildPoiPath, buildStatePath, countrySlugFor, type Lang } from "@/lib/seo/slugs";
+
+export const dynamicParams = false;
+
+type Params = { lang: string; country: string; state: string; poi: string };
+
+function geographicFacts(poi: POI) {
+  return [
+    poi.elevation ? `${poi.elevation} m` : null,
+    poi.length ? `${poi.length} km` : null,
+    poi.area ? `${poi.area} km²` : null,
+  ].filter(Boolean) as string[];
+}
+
+export function generateStaticParams() {
+  return SUPPORTED_LANGS.flatMap((lang) =>
+    pois
+      .filter((poi) => poi.type !== "region")
+      .map((poi) => ({
+        lang,
+        country: countrySlugFor(lang),
+        state: buildStatePath(lang, poi.parent).split("/").filter(Boolean)[2],
+        poi: buildPoiPath(lang, poi).split("/").filter(Boolean)[3],
+      })),
+  );
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<Params>;
+}): Promise<Metadata> {
+  const resolved = await params;
+  if (!isLang(resolved.lang) || resolved.country !== countrySlugFor(resolved.lang)) return {};
+  const match = getPoiByRouteParams(resolved.lang, resolved.country, resolved.state, resolved.poi);
+  if (!match) return {};
+
+  const { poi } = match;
+  const title = poiTitle(poi, resolved.lang);
+  const description = poiDescription(poi, resolved.lang);
+
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: absoluteUrl(buildPoiPath(resolved.lang, poi)),
+      languages: { ...getPoiAlternates(poi), "x-default": absoluteUrl(buildPoiPath("en", poi)) },
+    },
+    openGraph: {
+      title,
+      description,
+      url: absoluteUrl(buildPoiPath(resolved.lang, poi)),
+      type: "article",
+      images: poi.image ? [{ url: absoluteUrl(poi.image) }] : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: poi.image ? [absoluteUrl(poi.image)] : undefined,
+    },
+  };
+}
+
+export default async function PoiPage({
+  params,
+}: {
+  params: Promise<Params>;
+}) {
+  const resolved = await params;
+  if (!isLang(resolved.lang) || resolved.country !== countrySlugFor(resolved.lang)) notFound();
+  const match = getPoiByRouteParams(resolved.lang, resolved.country, resolved.state, resolved.poi);
+  if (!match) notFound();
+
+  const { poi, region } = match;
+  const copy = SEO_COPY[resolved.lang];
+  const related = getRelatedPois(poi);
+  const geoFacts = geographicFacts(poi);
+  const description = poi.description[resolved.lang] || poi.description.de;
+  const advanced = poi.descriptionAdvanced?.[resolved.lang] || poi.descriptionAdvanced?.de;
+  const facts = [
+    ...(poi.facts[resolved.lang] || poi.facts.de || []),
+    ...((poi.factsAdvanced?.[resolved.lang] || poi.factsAdvanced?.de || []) as string[]),
+  ];
+
+  return (
+    <main className="min-h-screen bg-[#020408] text-white">
+      <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+        <Breadcrumb
+          items={[
+            { name: copy.home, href: "/" },
+            { name: copy.country, href: buildCountryPath(resolved.lang) },
+            { name: region.name[resolved.lang] || region.name.de, href: buildStatePath(resolved.lang, region.id) },
+            { name: poi.name[resolved.lang] || poi.name.de, href: buildPoiPath(resolved.lang, poi) },
+          ]}
+        />
+
+        <article className="mt-6 rounded-[28px] border border-cyan-500/15 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.12),_transparent_55%),linear-gradient(180deg,rgba(7,17,27,0.98),rgba(2,4,8,0.98))] overflow-hidden">
+          <div className="grid gap-0 lg:grid-cols-[1.05fr_0.95fr]">
+            <div className="min-h-[320px] bg-[#07111b]">
+              {poi.image ? (
+                <img src={poi.image} alt={poi.name[resolved.lang] || poi.name.de} loading="lazy" className="h-full w-full object-cover" />
+              ) : (
+                <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
+              )}
+            </div>
+            <div className="p-6 sm:p-8">
+              <div className="flex items-start gap-4">
+                {poi.coa ? <img src={poi.coa} alt="" loading="lazy" className="h-16 w-16 rounded-2xl border border-white/10 bg-white/5 object-contain p-2" /> : null}
+                <div className="min-w-0 flex-1">
+                  <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Visual Lab</p>
+                  <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{poi.name[resolved.lang] || poi.name.de}</h1>
+                </div>
+              </div>
+
+              <div className="mt-5 flex flex-wrap gap-3">
+                {poi.audio ? (
+                  <audio controls preload="none" aria-label={`${poi.name[resolved.lang] || poi.name.de} pronunciation`} className="max-w-full">
+                    <source src={poi.audio} />
+                  </audio>
+                ) : null}
+                <a href={getVisualLabHref(poi)} className="inline-flex items-center rounded-full border border-cyan-400/30 bg-cyan-500/10 px-4 py-2 text-sm font-medium text-cyan-200 hover:border-cyan-300/50">
+                  {copy.backToMap}
+                </a>
+              </div>
+
+              <div className="mt-6 space-y-4 text-base leading-7 text-white/75">
+                <p>{description}</p>
+                {advanced ? <p>{advanced}</p> : null}
+              </div>
+
+              {facts.length ? (
+                <section className="mt-6">
+                  <h2 className="text-lg font-semibold">{copy.facts}</h2>
+                  <ul className="mt-3 list-disc space-y-2 pl-5 text-white/72">
+                    {facts.map((fact) => (
+                      <li key={fact}>{fact}</li>
+                    ))}
+                  </ul>
+                </section>
+              ) : null}
+
+              {(poi.historyPeriod || poi.historyYear || geoFacts.length) ? (
+                <section className="mt-6 grid gap-6 sm:grid-cols-2">
+                  {(poi.historyPeriod || poi.historyYear) ? (
+                    <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
+                      <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-white/55">{copy.history}</h2>
+                      <p className="mt-3 text-white/80">{String(poi.historyPeriod || "")}</p>
+                      <p className="mt-1 text-white/60">{Array.isArray(poi.historyYear) ? `${poi.historyYear[0]}–${poi.historyYear[1]}` : poi.historyYear}</p>
+                    </div>
+                  ) : null}
+                  {geoFacts.length ? (
+                    <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
+                      <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-white/55">{copy.geography}</h2>
+                      <ul className="mt-3 space-y-2 text-white/80">
+                        {geoFacts.map((item) => <li key={item}>{item}</li>)}
+                        <li>{poi.coords[1]}, {poi.coords[0]}</li>
+                      </ul>
+                    </div>
+                  ) : null}
+                </section>
+              ) : null}
+
+              <div className="mt-6">
+                <a href={osmHref(poi)} target="_blank" rel="noreferrer" className="text-sm text-cyan-300 hover:text-cyan-200">
+                  {copy.openMap}
+                </a>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        {related.length ? (
+          <section className="mt-10">
+            <h2 className="text-2xl font-semibold tracking-tight">{copy.related}</h2>
+            <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {related.map((item) => (
+                <PoiGalleryCard key={item.id} poi={item} lang={resolved.lang as Lang} />
+              ))}
+            </div>
+          </section>
+        ) : null}
+      </section>
+      <StructuredData data={createPoiStructuredData(poi, resolved.lang as Lang)} />
+    </main>
+  );
+}
