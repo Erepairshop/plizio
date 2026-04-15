@@ -24,20 +24,13 @@ const Topic1Svg = memo(function Topic1Svg() {
   );
 });
 
+import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
+
 const Topic2Svg = memo(function Topic2Svg() {
   return (
-    <svg width="100%" viewBox="0 0 240 140">
-      <rect width="240" height="140" fill="#F8FAFC" rx="20" />
-      {/* Németország sziluett (nagyon leegyszerűsítve) */}
-      <g transform="translate(120, 70)">
-        <path d="M -25,-45 L 20,-40 L 35,-10 L 25,35 L -10,40 L -30,10 Z" fill="#CBD5E1" stroke="#475569" strokeWidth="2" />
-        {/* Főváros (Berlin) helye */}
-        <circle cx="15" cy="-15" r="4" fill="#EF4444" />
-        {/* Néhány belső felosztás */}
-        <line x1="-10" y1="0" x2="10" y2="0" stroke="#94A3B8" strokeWidth="1" />
-        <line x1="0" y1="-20" x2="0" y2="20" stroke="#94A3B8" strokeWidth="1" />
-      </g>
-    </svg>
+    <div className="w-full">
+      <InteractiveMap lang="hu" />
+    </div>
   );
 });
 
