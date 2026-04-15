@@ -1,335 +1,234 @@
 "use client";
 
-import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { SilbenSlicerRound } from '@/lib/visualLab/languageTypes';
+import { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import type { SilbenSlicerRound, Language } from "@/lib/visualLab/languageTypes";
 
-interface Props {
+const T: Record<Language, { instruction: string; correct: string; wrong: string; lives: string; done: string; score: string; choose: string }> = {
+  de: { instruction: "Wähle die richtige Silbentrennung!", correct: "Super Schnitt!", wrong: "Daneben!", lives: "Leben", done: "Fertig!", score: "Punkte", choose: "Wie wird das Wort getrennt?" },
+  hu: { instruction: "Válaszd a helyes szótagolást!", correct: "Szuper vágás!", wrong: "Nem jó!", lives: "Élet", done: "Kész!", score: "Pont", choose: "Hogy tagolódik a szó?" },
+  ro: { instruction: "Alege despărțirea corectă în silabe!", correct: "Tăietură bună!", wrong: "Greșit!", lives: "Vieți", done: "Gata!", score: "Scor", choose: "Cum se desparte cuvântul?" },
+  en: { instruction: "Choose the correct syllable split!", correct: "Clean cut!", wrong: "Miss!", lives: "Lives", done: "Done!", score: "Score", choose: "How is the word split?" },
+};
+
+function buildOptions(syllables: string[]): string[][] {
+  const correct = syllables;
+  // Generate wrong options by shifting split points
+  const word = syllables.join("");
+  const wrongs: string[][] = [];
+
+  if (syllables.length === 2) {
+    // Try splitting at different positions
+    for (let i = 1; i < word.length - 1; i++) {
+      const candidate = [word.slice(0, i), word.slice(i)];
+      if (candidate[0] !== correct[0]) { // different from correct
+        wrongs.push(candidate);
+        if (wrongs.length >= 2) break;
+      }
+    }
+  } else if (syllables.length >= 3) {
+    // Generate: merge first two, keep rest; and merge last two, keep rest
+    wrongs.push([syllables[0] + syllables[1], ...syllables.slice(2)]);
+    wrongs.push([...syllables.slice(0, syllables.length - 2), syllables[syllables.length - 2] + syllables[syllables.length - 1]]);
+  }
+
+  // Fill up to 2 wrongs if needed
+  while (wrongs.length < 2) {
+    const mid = Math.floor(word.length / 2) + wrongs.length;
+    wrongs.push([word.slice(0, mid), word.slice(mid)]);
+  }
+
+  // Build 3 options: correct + 2 wrongs, shuffled
+  const options = [correct, wrongs[0], wrongs[1].length ? wrongs[1] : wrongs[0]].slice(0, 3);
+  return options.sort(() => Math.random() - 0.5);
+}
+
+function formatSplit(parts: string[]): string {
+  return parts.join(" · ");
+}
+
+export default function SilbenSlicerGame({
+  lang,
+  round,
+  onDone,
+}: {
   grade: number;
-  lang: 'de' | 'hu' | 'ro' | 'en';
+  lang: Language;
   round: SilbenSlicerRound;
   onDone?: (score: number) => void;
-}
+}) {
+  const t = T[lang] ?? T.de;
 
-const T = {
-  de: {
-    title: "Silben Slicer",
-    instruction: "Zerschneide die Wörter in ihre Silben!",
-    score: "Punkte",
-    gameOver: "Spiel Beendet!",
-    combo: "Kombo!",
-    continue: "Weiter"
-  },
-  hu: {
-    title: "Szótag Szeletelő",
-    instruction: "Vágd szét a szavakat szótagokra!",
-    score: "Pontszám",
-    gameOver: "Játék Vége!",
-    combo: "Kombó!",
-    continue: "Tovább"
-  },
-  ro: {
-    title: "Tăietor de Silabe",
-    instruction: "Taie cuvintele în silabe!",
-    score: "Scor",
-    gameOver: "Joc Terminat!",
-    combo: "Combo!",
-    continue: "Continuă"
-  },
-  en: {
-    title: "Syllable Slicer",
-    instruction: "Slice the words into syllables!",
-    score: "Score",
-    gameOver: "Game Over!",
-    combo: "Combo!",
-    continue: "Continue"
-  }
-};
-
-interface FlyingWord {
-  id: string;
-  text: string;
-  splitIndex: number;
-  startX: number;
-  duration: number;
-  sliced: boolean;
-  failed: boolean;
-}
-
-const WordEntity = ({ 
-  word, 
-  onSlice, 
-  onRemove 
-}: { 
-  word: FlyingWord; 
-  onSlice: (id: string, index: number) => void; 
-  onRemove: () => void; 
-}) => {
-  useEffect(() => {
-    if (word.sliced || word.failed) {
-      const timer = setTimeout(() => {
-        onRemove();
-      }, 1000);
-      return () => clearTimeout(timer);
-    }
-  }, [word.sliced, word.failed, onRemove]);
-
-  if (word.sliced) {
-    return (
-      <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
-        <motion.div
-          initial={{ left: `${word.startX}%`, top: '40%', rotate: 0 }}
-          animate={{ left: `${word.startX - 10}%`, top: '100%', rotate: -45, opacity: 0 }}
-          transition={{ duration: 1 }}
-          className="absolute text-5xl md:text-6xl font-black text-green-400 drop-shadow-[0_0_15px_rgba(74,222,128,0.8)]"
-          style={{ transform: 'translateX(-50%)' }}
-        >
-          {word.text.slice(0, word.splitIndex)}
-        </motion.div>
-        <motion.div
-          initial={{ left: `${word.startX}%`, top: '40%', rotate: 0 }}
-          animate={{ left: `${word.startX + 10}%`, top: '100%', rotate: 45, opacity: 0 }}
-          transition={{ duration: 1 }}
-          className="absolute text-5xl md:text-6xl font-black text-green-400 drop-shadow-[0_0_15px_rgba(74,222,128,0.8)]"
-          style={{ transform: 'translateX(-50%)' }}
-        >
-          {word.text.slice(word.splitIndex)}
-        </motion.div>
-      </div>
-    );
-  }
-
-  return (
-    <motion.div
-      initial={{ top: '100%', left: `${word.startX}%`, rotate: -15 }}
-      animate={{ 
-        top: word.failed ? '100%' : ['100%', '15%', '100%'], 
-        left: `${word.startX}%`,
-        rotate: word.failed ? 45 : [-15, 0, 15]
-      }}
-      transition={{ duration: word.failed ? 1 : word.duration, ease: "linear" }}
-      onAnimationComplete={() => {
-        if (!word.sliced && !word.failed) {
-          onRemove();
-        }
-      }}
-      className={`absolute text-5xl md:text-6xl font-black tracking-widest flex items-center
-        ${word.failed ? 'text-red-500' : 'text-white'}`}
-      style={{
-         textShadow: word.failed ? '0 0 20px rgba(239,68,68,0.8)' : '0 0 15px rgba(6,182,212,0.8)',
-         transform: 'translateX(-50%)' 
-      }}
-    >
-      {word.text.split('').map((char, i) => (
-        <React.Fragment key={`${word.id}-char-${i}`}>
-          {i > 0 && !word.failed && (
-            <div 
-              data-gap-id={word.id} 
-              data-gap-index={i} 
-              className="w-12 h-20 -mx-6 bg-transparent z-10 cursor-crosshair pointer-events-auto"
-            />
-          )}
-          <span className="select-none pointer-events-none">{char}</span>
-        </React.Fragment>
-      ))}
-    </motion.div>
+  const [items] = useState(() =>
+    round.words.map((entry) => ({
+      word: entry.word,
+      syllables: entry.syllables,
+      options: buildOptions(entry.syllables),
+    }))
   );
-};
 
-export default function SilbenSlicerGame({ grade, lang, round, onDone }: Props) {
-  const t = T[lang] || T.en;
-  
+  const [idx, setIdx] = useState(0);
+  const [lives, setLives] = useState(3);
   const [score, setScore] = useState(0);
-  const [activeWords, setActiveWords] = useState<FlyingWord[]>([]);
-  const [gameOver, setGameOver] = useState(false);
-  
-  const [slicePath, setSlicePath] = useState<{x: number, y: number}[]>([]);
-  const isDragging = useRef(false);
-  const containerRef = useRef<HTMLDivElement>(null);
-  const spawnedCount = useRef(0);
-  const maxWords = 15;
+  const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
+  const [sliced, setSliced] = useState(false); // word splitting animation
+  const [done, setDone] = useState(false);
+  const [chosenOpt, setChosenOpt] = useState<string[] | null>(null);
 
-  // Trail effect decay
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setSlicePath(prev => {
-        if (prev.length > 0) return prev.slice(1);
-        return prev;
-      });
-    }, 30);
-    return () => clearInterval(interval);
-  }, []);
+  const current = items[idx];
 
-  // Game loop
-  useEffect(() => {
-    if (gameOver) return;
-    const interval = setInterval(() => {
-      if (spawnedCount.current >= maxWords) {
-        clearInterval(interval);
-        return;
-      }
-      
-      const sourceWords = (round as any)?.words || [
-        { word: "Katze", splitIndex: 3 },
-        { word: "Auto", splitIndex: 2 },
-        { word: "Apfel", splitIndex: 2 },
-        { word: "Banane", splitIndex: 2 },
-        { word: "Schule", splitIndex: 4 },
-      ];
-      
-      const splittableWords = sourceWords.filter((w: any) => w.splitIndex > 0 && w.splitIndex < w.word.length);
-      const pool = splittableWords.length > 0 ? splittableWords : [{ word: "Katze", splitIndex: 3 }];
-      
-      const randomWord = pool[Math.floor(Math.random() * pool.length)];
-      
-      const newWord: FlyingWord = {
-        id: Math.random().toString(36).substr(2, 9),
-        text: randomWord.word,
-        splitIndex: randomWord.splitIndex,
-        startX: 20 + Math.random() * 60, // 20% to 80%
-        duration: 3 + Math.random() * 2, // 3 to 5 seconds
-        sliced: false,
-        failed: false,
-      };
-      
-      setActiveWords(prev => [...prev, newWord]);
-      spawnedCount.current++;
-    }, 1500);
+  const handleOption = (opt: string[]) => {
+    if (flash || done || !current) return;
+    const isCorrect = opt.join("") === current.syllables.join("") &&
+      opt.length === current.syllables.length &&
+      opt.every((s, i) => s === current.syllables[i]);
 
-    return () => clearInterval(interval);
-  }, [gameOver, round]);
+    setChosenOpt(opt);
+    setFlash(isCorrect ? "correct" : "wrong");
 
-  // Check Game Over
-  useEffect(() => {
-    if (spawnedCount.current >= maxWords && activeWords.length === 0) {
-      setGameOver(true);
+    if (isCorrect) {
+      setSliced(true);
+      setScore((s) => s + 10);
+    } else {
+      setLives((l) => l - 1);
     }
-  }, [activeWords]);
 
-  const removeWord = useCallback((id: string) => {
-    setActiveWords(prev => prev.filter(w => w.id !== id));
-  }, []);
-
-  const handleSlice = useCallback((id: string, index: number) => {
-    setActiveWords(prev => prev.map(w => {
-      if (w.id === id && !w.sliced && !w.failed) {
-        if (w.splitIndex === index) {
-          setScore(s => s + 100);
-          return { ...w, sliced: true };
-        } else {
-          setScore(s => Math.max(0, s - 50));
-          return { ...w, failed: true };
-        }
+    setTimeout(() => {
+      setFlash(null);
+      setSliced(false);
+      setChosenOpt(null);
+      const nextIdx = idx + 1;
+      const newLives = isCorrect ? lives : lives - 1;
+      if (nextIdx >= items.length || newLives <= 0) {
+        setDone(true);
+        onDone?.(isCorrect ? score + 10 : score);
+      } else {
+        setIdx(nextIdx);
       }
-      return w;
-    }));
-  }, []);
-
-  // Pointer events
-  const handlePointerDown = (e: React.PointerEvent) => {
-    isDragging.current = true;
-    setSlicePath([{x: e.clientX, y: e.clientY}]);
-  };
-
-  const handlePointerMove = (e: React.PointerEvent) => {
-    if (!isDragging.current) return;
-    
-    setSlicePath(prev => {
-       const newPath = [...prev, {x: e.clientX, y: e.clientY}];
-       if (newPath.length > 15) return newPath.slice(newPath.length - 15);
-       return newPath;
-    });
-
-    const element = document.elementFromPoint(e.clientX, e.clientY);
-    if (element && element.hasAttribute('data-gap-id')) {
-      const id = element.getAttribute('data-gap-id')!;
-      const index = parseInt(element.getAttribute('data-gap-index')!, 10);
-      handleSlice(id, index);
-    }
-  };
-
-  const handlePointerUp = () => {
-    isDragging.current = false;
+    }, 1100);
   };
 
   return (
-    <div 
-      className="relative w-full h-full min-h-[600px] overflow-hidden bg-slate-900 touch-none select-none rounded-xl border border-slate-800"
-      onPointerDown={handlePointerDown}
-      onPointerMove={handlePointerMove}
-      onPointerUp={handlePointerUp}
-      onPointerCancel={handlePointerUp}
-      onPointerLeave={handlePointerUp}
-      ref={containerRef}
-      style={{
-        backgroundImage: 'radial-gradient(circle at center, #1e293b 0%, #0f172a 100%)'
-      }}
-    >
-      {/* UI Overlay */}
-      <div className="absolute top-4 left-6 z-20 pointer-events-none">
-        <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
-          {t.title}
-        </h1>
-        <p className="text-xl text-white mt-1 font-semibold">{t.score}: {score}</p>
+    <div className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
+      {/* BG glow */}
+      <div className="absolute inset-0 pointer-events-none"
+        style={{ background: `radial-gradient(circle at 50% 60%, ${round.theme.accent}22, transparent 65%)` }} />
+
+      {/* HUD */}
+      <div className="relative z-20 flex justify-between px-4 pt-3 pb-2 shrink-0">
+        <div className="bg-black/50 px-3 py-1 rounded-full border border-white/10 text-xs text-white/70">
+          {t.lives}: <span className="text-rose-400">{"❤️".repeat(Math.max(0, lives))}</span>
+        </div>
+        <div className="bg-black/50 px-3 py-1 rounded-full border border-white/10 text-xs">
+          <span className="text-white/50 mr-1">{t.score}</span>
+          <span className="font-bold text-white">{score}</span>
+        </div>
+        <div className="text-white/40 text-xs font-mono self-center">{idx + 1}/{items.length}</div>
       </div>
 
-      <div className="absolute top-4 right-6 z-20 pointer-events-none text-slate-400 text-sm">
-        {t.instruction}
+      {/* Main area */}
+      <div className="relative z-10 flex-1 flex flex-col items-center justify-center gap-6 px-6">
+        {/* Question */}
+        <p className="text-white/50 text-xs uppercase tracking-widest">{t.choose}</p>
+
+        {/* Word display — splits apart on correct */}
+        <div className="flex items-center justify-center gap-0">
+          <AnimatePresence mode="wait">
+            {current && !done && (
+              sliced ? (
+                // Sliced state: syllables fly apart
+                <motion.div key={`sliced-${idx}`} className="flex items-center gap-2">
+                  {current.syllables.map((syl, si) => (
+                    <motion.span
+                      key={si}
+                      initial={{ x: 0, opacity: 1 }}
+                      animate={{ x: (si - (current.syllables.length - 1) / 2) * 30, opacity: 1 }}
+                      className="font-black text-3xl text-white px-3 py-2 rounded-xl border"
+                      style={{ borderColor: `${round.theme.accent}70`, background: `${round.theme.accent}20` }}
+                    >
+                      {syl}
+                    </motion.span>
+                  ))}
+                </motion.div>
+              ) : (
+                <motion.div
+                  key={`word-${idx}`}
+                  initial={{ opacity: 0, scale: 0.85 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  exit={{ opacity: 0, scale: 1.05 }}
+                  className="font-black text-white text-4xl px-8 py-4 rounded-2xl border-2 backdrop-blur-sm"
+                  style={{
+                    background: "rgba(0,0,0,0.5)",
+                    borderColor: flash === "correct"
+                      ? "#22c55e"
+                      : flash === "wrong"
+                      ? "#ef4444"
+                      : `${round.theme.accent}80`,
+                    boxShadow: flash === "correct"
+                      ? "0 0 30px rgba(34,197,94,0.6)"
+                      : flash === "wrong"
+                      ? "0 0 20px rgba(239,68,68,0.5)"
+                      : `0 0 20px ${round.theme.accent}40`,
+                  }}
+                >
+                  {current.word}
+                </motion.div>
+              )
+            )}
+          </AnimatePresence>
+        </div>
+
+        {/* Flash label */}
+        <AnimatePresence>
+          {flash && (
+            <motion.p key={flash + idx}
+              initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
+              className={`text-xl font-black uppercase tracking-widest ${flash === "correct" ? "text-emerald-400" : "text-rose-400"}`}>
+              {flash === "correct" ? t.correct : t.wrong}
+            </motion.p>
+          )}
+        </AnimatePresence>
+
+        {/* Split options */}
+        {current && !done && (
+          <div className="flex flex-col gap-2.5 w-full max-w-xs">
+            {current.options.map((opt, oi) => {
+              const isChosen = chosenOpt === opt;
+              const isCorrectOpt = opt.every((s, i) => s === current.syllables[i]) && opt.length === current.syllables.length;
+              let btnColor = `${round.theme.accent}50`;
+              let btnBg = "rgba(0,0,0,0.5)";
+              if (isChosen && flash === "correct") { btnColor = "#22c55e"; btnBg = "rgba(34,197,94,0.15)"; }
+              if (isChosen && flash === "wrong") { btnColor = "#ef4444"; btnBg = "rgba(239,68,68,0.15)"; }
+              if (!isChosen && flash === "correct" && isCorrectOpt) { btnColor = "#22c55e60"; }
+
+              return (
+                <motion.button
+                  key={oi}
+                  onClick={() => handleOption(opt)}
+                  disabled={!!flash || done}
+                  className="w-full py-3 rounded-xl border-2 font-bold text-white text-lg backdrop-blur-sm transition-colors"
+                  style={{ borderColor: btnColor, background: btnBg }}
+                  whileHover={!flash ? { scale: 1.03, borderColor: round.theme.accent } : {}}
+                  whileTap={!flash ? { scale: 0.97 } : {}}
+                >
+                  ✂️ {formatSplit(opt)}
+                </motion.button>
+              );
+            })}
+          </div>
+        )}
       </div>
 
-      {/* Words */}
-      {activeWords.map(word => (
-        <WordEntity 
-          key={word.id} 
-          word={word} 
-          onSlice={handleSlice} 
-          onRemove={() => removeWord(word.id)} 
-        />
-      ))}
-
-      {/* Slice Line */}
-      <svg className="absolute inset-0 pointer-events-none z-50 w-full h-full">
-        <polyline 
-          points={slicePath.map(p => {
-             if (containerRef.current) {
-                const rect = containerRef.current.getBoundingClientRect();
-                return `${p.x - rect.left},${p.y - rect.top}`;
-             }
-             return `${p.x},${p.y}`;
-          }).join(' ')} 
-          fill="none" 
-          stroke="#22d3ee" 
-          strokeWidth="6" 
-          strokeLinecap="round" 
-          strokeLinejoin="round" 
-          style={{ filter: 'drop-shadow(0 0 10px #22d3ee)' }}
-        />
-      </svg>
-
-      {/* Game Over Screen */}
+      {/* Done overlay */}
       <AnimatePresence>
-        {gameOver && (
-          <motion.div 
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="absolute inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm pointer-events-auto"
-          >
-            <motion.div 
-              initial={{ scale: 0.8, y: 50 }}
-              animate={{ scale: 1, y: 0 }}
-              className="bg-slate-800 p-10 rounded-3xl border border-slate-700 shadow-[0_0_50px_rgba(0,0,0,0.5)] text-center max-w-sm w-full"
-            >
-              <h2 className="text-4xl font-bold text-white mb-2">{t.gameOver}</h2>
-              <p className="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 mb-8">
-                {score} {t.score}
-              </p>
-              <button 
-                onClick={() => onDone && onDone(score)}
-                className="w-full py-4 bg-gradient-to-r from-cyan-500 to-blue-600 text-white text-xl font-bold rounded-2xl hover:scale-105 active:scale-95 transition-all shadow-[0_0_20px_rgba(6,182,212,0.4)]"
-              >
-                {t.continue}
-              </button>
+        {done && (
+          <motion.div key="done" initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            className="absolute inset-0 z-40 flex items-center justify-center bg-black/60 backdrop-blur-sm">
+            <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring", delay: 0.2 }}
+              className="text-center">
+              <div className="text-6xl mb-3">{score >= items.length * 7 ? "🏆" : "⭐"}</div>
+              <div className="text-3xl font-black text-white mb-1">{t.done}</div>
+              <div className="text-xl font-bold" style={{ color: round.theme.accent }}>{score} {t.score}</div>
             </motion.div>
           </motion.div>
         )}

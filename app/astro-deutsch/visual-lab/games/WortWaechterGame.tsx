@@ -1,193 +1,183 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { WortWaechterRound, Language } from "@/lib/visualLab/languageTypes";
 
-interface Props {
+const T: Record<Language, { find: string; correct: string; wrong: string; lives: string; done: string }> = {
+  de: { find: "Finde das richtig geschriebene Wort!", correct: "Richtig!", wrong: "Falsch!", lives: "Leben", done: "Klasse!" },
+  hu: { find: "Keresd a helyesen írt szót!", correct: "Helyes!", wrong: "Hibás!", lives: "Élet", done: "Szuper!" },
+  ro: { find: "Găsește cuvântul scris corect!", correct: "Corect!", wrong: "Greșit!", lives: "Vieți", done: "Bravo!" },
+  en: { find: "Find the correctly spelled word!", correct: "Correct!", wrong: "Wrong!", lives: "Lives", done: "Well done!" },
+};
+
+// Scattered positions (% of container width/height) — up to 7 words
+const SLOTS = [
+  { x: 14, y: 16 }, { x: 58, y: 10 }, { x: 76, y: 44 },
+  { x: 6,  y: 56 }, { x: 46, y: 60 }, { x: 28, y: 38 }, { x: 68, y: 74 },
+];
+
+// Gentle drift paths per bubble index
+const DRIFTS = [
+  { x: [0, 12, -8, 6, 0],   y: [0, -10, 14, -6, 0] },
+  { x: [0, -14, 8, -4, 0],  y: [0, 12, -8, 10, 0] },
+  { x: [0, 10, -12, 4, 0],  y: [0, -14, 6, -10, 0] },
+  { x: [0, -6, 16, -10, 0], y: [0, 8, -12, 4, 0] },
+  { x: [0, 14, -6, 8, 0],   y: [0, -6, 14, -12, 0] },
+  { x: [0, -10, 4, -14, 0], y: [0, 14, -4, 8, 0] },
+  { x: [0, 8, -14, 6, 0],   y: [0, -12, 8, -6, 0] },
+];
+
+type BubbleState = "idle" | "wrong" | "correct" | "gone";
+
+export default function WortWaechterGame({
+  lang,
+  round,
+  onDone,
+}: {
   grade: number;
   lang: Language;
   round: WortWaechterRound;
   onDone?: (score: number) => void;
-}
-
-const T = {
-  de: { score: "Punkte", lives: "Leben", gameOver: "Game Over", success: "Klasse!", target: "Finde:" },
-  hu: { score: "Pont", lives: "Élet", gameOver: "Vége", success: "Szuper!", target: "Keresd:" },
-  ro: { score: "Scor", lives: "Vieți", gameOver: "Game Over", success: "Bravo!", target: "Găsește:" },
-  en: { score: "Score", lives: "Lives", gameOver: "Game Over", success: "Great!", target: "Find:" }
-};
-
-interface Bubble {
-  id: number;
-  word: string;
-  isCorrect: boolean;
-  x: number;
-  y: number;
-  vx: number;
-  vy: number;
-  popped: boolean;
-}
-
-export default function WortWaechterGame({ grade, lang, round, onDone }: Props) {
+}) {
   const t = T[lang] ?? T.de;
-  const [bubbles, setBubbles] = useState<Bubble[]>([]);
-  const [score, setScore] = useState(0);
+
+  // Build shuffled word list once
+  const [words] = useState<{ word: string; isCorrect: boolean }[]>(() =>
+    [round.targetWord, ...round.wrongWords]
+      .slice(0, 7)
+      .sort(() => Math.random() - 0.5)
+      .map((word) => ({ word, isCorrect: word === round.targetWord }))
+  );
+
+  const [states, setStates] = useState<BubbleState[]>(() => words.map(() => "idle"));
   const [lives, setLives] = useState(3);
-  const [status, setStatus] = useState<"playing" | "won" | "lost">("playing");
-  
-  const uidRef = useRef(0);
-  const frameRef = useRef<number | null>(null);
+  const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
+  const [done, setDone] = useState(false);
 
-  // Spawner
-  useEffect(() => {
-    if (status !== "playing") return;
-    const interval = setInterval(() => {
-      setBubbles((prev) => {
-        if (prev.filter(b => !b.popped).length >= 6) return prev;
-        
-        const isCorrect = Math.random() > 0.6;
-        const word = isCorrect 
-          ? round.targetWord 
-          : round.wrongWords[Math.floor(Math.random() * round.wrongWords.length)];
-          
-        const newBubble: Bubble = {
-          id: uidRef.current++,
-          word,
-          isCorrect,
-          x: 10 + Math.random() * 80,
-          y: 110,
-          vx: (Math.random() - 0.5) * 20,
-          vy: -30 - Math.random() * 20,
-          popped: false
-        };
-        return [...prev, newBubble];
-      });
-    }, 1500 - Math.min(grade * 100, 800));
-    return () => clearInterval(interval);
-  }, [status, round, grade]);
+  const handleClick = (idx: number) => {
+    if (done || states[idx] !== "idle") return;
+    const { isCorrect } = words[idx];
 
-  // Physics
-  useEffect(() => {
-    if (status !== "playing") return;
-    let lastTs = performance.now();
-    
-    const step = (ts: number) => {
-      const dt = (ts - lastTs) / 1000;
-      lastTs = ts;
-      
-      setBubbles(prev => {
-        let lifeLost = false;
-        const next = prev.map(b => {
-          if (b.popped) return b;
-          const ny = b.y + b.vy * dt;
-          const nx = b.x + b.vx * dt;
-          
-          if (ny < -10) {
-            if (b.isCorrect) lifeLost = true;
-            return { ...b, popped: true };
-          }
-          return { ...b, x: nx, y: ny };
-        });
-        
-        if (lifeLost) {
-          setLives(l => {
-            const nl = l - 1;
-            if (nl <= 0) setStatus("lost");
-            return nl;
-          });
-        }
-        return next;
-      });
-      
-      frameRef.current = requestAnimationFrame(step);
-    };
-    frameRef.current = requestAnimationFrame(step);
-    return () => {
-      if (frameRef.current) cancelAnimationFrame(frameRef.current);
-    };
-  }, [status]);
-
-  useEffect(() => {
-    if (score >= 100 && status === "playing") {
-      setStatus("won");
-      onDone?.(score);
-    }
-  }, [score, status, onDone]);
-
-  useEffect(() => {
-    if (status === "lost") {
-      onDone?.(score);
-    }
-  }, [status, score, onDone]);
-
-  const handlePop = (b: Bubble) => {
-    if (status !== "playing" || b.popped) return;
-    setBubbles(prev => prev.map(p => p.id === b.id ? { ...p, popped: true } : p));
-    if (b.isCorrect) {
-      setScore(s => s + 10);
+    if (isCorrect) {
+      setStates((prev) => prev.map((s, i) => (i === idx ? "correct" : s === "idle" ? "gone" : s)));
+      setFlash("correct");
+      setDone(true);
+      setTimeout(() => onDone?.(Math.max(lives, 1) * 30 + 10), 1800);
     } else {
-      setLives(l => {
-        const nl = l - 1;
-        if (nl <= 0) setStatus("lost");
-        return nl;
-      });
+      setStates((prev) => prev.map((s, i) => (i === idx ? "wrong" : s)));
+      setFlash("wrong");
+      const nl = lives - 1;
+      setLives(nl);
+      setTimeout(() => {
+        setStates((prev) => prev.map((s, i) => (i === idx ? "gone" : s)));
+        setFlash(null);
+        if (nl <= 0) { setDone(true); onDone?.(0); }
+      }, 650);
     }
   };
 
   return (
-    <div className="relative w-full max-w-2xl mx-auto rounded-[24px] overflow-hidden shadow-2xl" style={{ background: round.theme.bg, aspectRatio: "4/3" }}>
-      <div className="absolute inset-0 pointer-events-none" style={{ backgroundImage: `radial-gradient(circle at 50% 120%, ${round.theme.accent}40, transparent 60%)` }} />
-      
-      {/* HUD */}
-      <div className="absolute top-4 left-4 right-4 flex justify-between text-white z-20">
-        <div className="flex gap-4">
-          <div className="bg-black/40 px-3 py-1 rounded-full border border-white/10">
-            <span className="text-white/50 text-xs mr-2">{t.score}</span>
-            <span className="font-bold text-cyan-300">{score}</span>
-          </div>
-        </div>
-        <div className="bg-black/40 px-3 py-1 rounded-full border border-white/10">
-           <span className="text-white/50 text-xs mr-2">{t.lives}</span>
-           <span className="text-rose-400 tracking-widest">{"❤".repeat(Math.max(0, lives))}</span>
-        </div>
-      </div>
+    <div className="relative w-full h-[500px] rounded-xl overflow-hidden" style={{ background: round.theme.bg }}>
+      {/* BG radial glow */}
+      <div className="absolute inset-0 pointer-events-none"
+        style={{ background: `radial-gradient(ellipse at 50% 100%, ${round.theme.accent}22, transparent 65%)` }} />
 
-      <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/60 px-6 py-2 rounded-full border border-white/20 z-20">
-         <span className="text-white/70 mr-2">{t.target}</span>
-         <span className="text-white font-bold text-xl">{round.targetWord}</span>
-      </div>
-
-      {/* SVG Canvas */}
-      <svg viewBox="0 0 100 100" className="absolute inset-0 w-full h-full z-10 pointer-events-none">
-        <AnimatePresence>
-          {bubbles.map(b => !b.popped && (
-            <motion.g 
-              key={b.id}
-              initial={{ scale: 0, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 1.5, opacity: 0 }}
-              transform={`translate(${b.x} ${b.y})`}
-              style={{ pointerEvents: "auto", cursor: "pointer" }}
-              onClick={() => handlePop(b)}
-            >
-              <circle r="8" fill="#1e293b" stroke={round.theme.accent} strokeWidth="0.5" opacity="0.8" />
-              <text textAnchor="middle" dominantBaseline="central" fill="white" fontSize="3" fontWeight="bold">
-                {b.word}
-              </text>
-            </motion.g>
-          ))}
-        </AnimatePresence>
+      {/* Orbit ring */}
+      <svg className="absolute inset-0 w-full h-full pointer-events-none opacity-10">
+        <ellipse cx="50%" cy="50%" rx="48%" ry="42%" fill="none" stroke={round.theme.accent} strokeWidth="1" strokeDasharray="5 12" />
       </svg>
 
-      {status !== "playing" && (
-        <div className="absolute inset-0 z-50 bg-black/80 flex flex-col items-center justify-center">
-          <h2 className={`text-4xl font-black mb-4 ${status === "won" ? "text-emerald-400" : "text-rose-500"}`}>
-            {status === "won" ? t.success : t.gameOver}
-          </h2>
-          <p className="text-white text-xl">{t.score}: {score}</p>
+      {/* HUD */}
+      <div className="absolute top-4 left-4 right-4 flex justify-between z-20 pointer-events-none">
+        <div className="bg-black/50 px-3 py-1 rounded-full border border-white/10 text-xs text-white/70">
+          {t.lives}: <span className="text-rose-400">{"❤️".repeat(Math.max(0, lives))}</span>
         </div>
-      )}
+        <div className="bg-black/50 px-3 py-1 rounded-full border text-xs font-bold"
+          style={{ borderColor: `${round.theme.accent}50`, color: round.theme.accent }}>
+          {round.instruction}
+        </div>
+      </div>
+
+      {/* Instruction */}
+      <div className="absolute top-14 left-0 right-0 text-center z-10 pointer-events-none">
+        <p className="text-white/45 text-xs uppercase tracking-widest">{t.find}</p>
+      </div>
+
+      {/* Floating bubbles */}
+      {words.map((w, idx) => {
+        const slot = SLOTS[idx] ?? SLOTS[0];
+        const drift = DRIFTS[idx % DRIFTS.length];
+        const st = states[idx];
+        if (st === "gone") return null;
+
+        const isWrong = st === "wrong";
+        const isCorrect = st === "correct";
+
+        return (
+          <motion.button
+            key={idx}
+            onClick={() => handleClick(idx)}
+            className="absolute z-10 rounded-full font-black text-white border-2 px-5 py-3 backdrop-blur-sm select-none"
+            style={{
+              left: `${slot.x}%`,
+              top: `${slot.y}%`,
+              fontSize: w.word.length > 10 ? "0.8rem" : w.word.length > 7 ? "0.95rem" : "1.1rem",
+              background: isCorrect ? "rgba(34,197,94,0.2)" : isWrong ? "rgba(239,68,68,0.2)" : "rgba(0,0,0,0.5)",
+              borderColor: isCorrect ? "#22c55e" : isWrong ? "#ef4444" : `${round.theme.accent}70`,
+              boxShadow: isCorrect
+                ? "0 0 35px rgba(34,197,94,0.7)"
+                : isWrong
+                ? "0 0 20px rgba(239,68,68,0.5)"
+                : `0 0 12px ${round.theme.accent}28`,
+              cursor: done ? "default" : "pointer",
+            }}
+            animate={
+              st === "idle"
+                ? { x: drift.x, y: drift.y }
+                : st === "wrong"
+                ? { x: [-6, 6, -5, 5, -3, 3, 0] }
+                : { scale: [1, 1.25, 1.05, 1.15, 1] }
+            }
+            transition={
+              st === "idle"
+                ? { duration: 7 + idx * 1.2, repeat: Infinity, ease: "easeInOut" }
+                : { duration: 0.4 }
+            }
+            whileHover={st === "idle" ? { scale: 1.1 } : {}}
+          >
+            {w.word}
+          </motion.button>
+        );
+      })}
+
+      {/* Flash result badge */}
+      <AnimatePresence>
+        {flash && (
+          <motion.div
+            key={flash}
+            initial={{ opacity: 0, y: 15, scale: 0.85 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.9 }}
+            className="absolute bottom-10 left-1/2 -translate-x-1/2 z-30 px-8 py-3 rounded-2xl bg-black/90 border backdrop-blur-xl"
+            style={{ borderColor: flash === "correct" ? "#22c55e" : "#ef4444" }}
+          >
+            <span className={`text-2xl font-black uppercase tracking-widest ${flash === "correct" ? "text-emerald-400" : "text-rose-400"}`}>
+              {flash === "correct" ? t.correct : t.wrong}
+            </span>
+          </motion.div>
+        )}
+        {done && flash === "correct" && (
+          <motion.div key="done-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            className="absolute inset-0 z-40 flex items-center justify-center bg-black/55 backdrop-blur-sm">
+            <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring", delay: 0.3 }}
+              className="text-center">
+              <div className="text-6xl mb-3">⭐</div>
+              <div className="text-3xl font-black text-emerald-400">{t.done}</div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }

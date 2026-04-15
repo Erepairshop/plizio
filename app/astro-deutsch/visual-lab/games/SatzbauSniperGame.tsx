@@ -1,264 +1,225 @@
-import React, { useState, useEffect, useMemo } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { SatzbauSniperRound } from '@/lib/visualLab/languageTypes';
+"use client";
 
-interface FloatingWord {
-  id: number;
-  text: string;
-  waypoints: { x: string[]; y: string[] };
-  duration: number;
-  initialX: string;
-  initialY: string;
-}
+import { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import type { SatzbauSniperRound, Language } from "@/lib/visualLab/languageTypes";
 
-const T = {
-  de: {
-    title: 'Satzbau Sniper',
-    instruction: 'Tippe die Wörter in der richtigen Reihenfolge an!',
-    score: 'Punkte',
-    finish: 'Mission Erfüllt!',
-    awaiting: '[ ZIELE AUSSTEHEND ]',
-  },
-  en: {
-    title: 'Sentence Sniper',
-    instruction: 'Tap the words in the correct grammatical order!',
-    score: 'Score',
-    finish: 'Mission Accomplished!',
-    awaiting: '[ AWAITING TARGETS ]',
-  },
-  hu: {
-    title: 'Mondat Mesterlövész',
-    instruction: 'Koppints a szavakra a helyes sorrendben!',
-    score: 'Pontszám',
-    finish: 'Küldetés Teljesítve!',
-    awaiting: '[ CÉLPONTOKRA VÁRVA ]',
-  },
-  ro: {
-    title: 'Lunetist de Propoziții',
-    instruction: 'Atinge cuvintele în ordinea corectă!',
-    score: 'Scor',
-    finish: 'Misiune Îndeplinită!',
-    awaiting: '[ AȘTEPTARE ȚINTE ]',
-  }
+const T: Record<Language, { instruction: string; correct: string; wrong: string; lives: string; done: string; build: string }> = {
+  de: { instruction: "Schieß die Wörter in der richtigen Reihenfolge ab!", correct: "Treffer!", wrong: "Falsch!", lives: "Leben", done: "Satz fertig!", build: "Baue den Satz:" },
+  hu: { instruction: "Lődd ki a szavakat a helyes sorrendben!", correct: "Találat!", wrong: "Hibás!", lives: "Élet", done: "Mondat kész!", build: "Épített mondat:" },
+  ro: { instruction: "Trage cuvintele în ordinea corectă!", correct: "Lovit!", wrong: "Greșit!", lives: "Vieți", done: "Propoziție gata!", build: "Construiești:" },
+  en: { instruction: "Shoot the words in the correct order!", correct: "Hit!", wrong: "Wrong!", lives: "Lives", done: "Sentence done!", build: "Build:" },
 };
 
-export default function SatzbauSniperGame({ grade, lang, round, onDone }: {
+// Pre-defined float positions for up to 8 words (% of container)
+const WORD_SLOTS = [
+  { x: 12, y: 14 }, { x: 58, y: 8 },  { x: 78, y: 38 }, { x: 8,  y: 50 },
+  { x: 44, y: 55 }, { x: 70, y: 68 }, { x: 25, y: 72 }, { x: 52, y: 28 },
+];
+
+// Drift animation per slot
+const DRIFTS = [
+  { x: [0, 8, -6, 4, 0],    y: [0, -8, 10, -4, 0] },
+  { x: [0, -10, 6, -4, 0],  y: [0, 10, -6, 8, 0] },
+  { x: [0, 6, -10, 3, 0],   y: [0, -10, 4, -8, 0] },
+  { x: [0, -4, 12, -8, 0],  y: [0, 6, -10, 4, 0] },
+  { x: [0, 10, -4, 6, 0],   y: [0, -4, 10, -8, 0] },
+  { x: [0, -8, 4, -10, 0],  y: [0, 10, -3, 6, 0] },
+  { x: [0, 6, -10, 4, 0],   y: [0, -8, 6, -4, 0] },
+  { x: [0, -4, 8, -6, 0],   y: [0, 8, -10, 3, 0] },
+];
+
+type WordState = "idle" | "sniped" | "wrong" | "gone";
+
+export default function SatzbauSniperGame({
+  lang,
+  round,
+  onDone,
+}: {
   grade: number;
-  lang: 'de' | 'hu' | 'ro' | 'en';
+  lang: Language;
   round: SatzbauSniperRound;
   onDone?: (score: number) => void;
 }) {
-  const correctSequence: string[] = useMemo(() => {
-    // Attempt to extract words from round, fallback to a default sentence if unknown structure
-    const fallback = ['Das', 'ist', 'ein', 'geheimer', 'Test'];
-    return (round as any)?.words || (round as any)?.sentence?.split(' ') || fallback;
-  }, [round]);
-  
-  const [scrambled, setScrambled] = useState<FloatingWord[]>([]);
-  const [selected, setSelected] = useState<{ id: number; text: string }[]>([]);
-  const [errorIndex, setErrorIndex] = useState<number | null>(null);
-  const [score, setScore] = useState(0);
+  const t = T[lang] ?? T.de;
+  const correct = round.correctOrder;
 
-  useEffect(() => {
-    if (!correctSequence || correctSequence.length === 0) return;
-    
-    const words = [...correctSequence];
-    // Fisher-Yates shuffle
-    for (let i = words.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [words[i], words[j]] = [words[j], words[i]];
-    }
+  // Shuffled display words (same as round.words but ordered by slot)
+  const [displayWords] = useState<string[]>(() =>
+    [...round.words].sort(() => Math.random() - 0.5)
+  );
 
-    const initWords = words.map((w, i) => {
-      const wpX: string[] = [];
-      const wpY: string[] = [];
-      const steps = 6;
-      for (let j = 0; j < steps; j++) {
-        wpX.push(`${10 + Math.random() * 75}%`);
-        wpY.push(`${10 + Math.random() * 65}%`);
-      }
-      // Return to start for smooth loop
-      wpX.push(wpX[0]);
-      wpY.push(wpY[0]);
+  const [wordStates, setWordStates] = useState<WordState[]>(() => displayWords.map(() => "idle"));
+  const [built, setBuilt] = useState<string[]>([]); // words added to sentence so far
+  const [lives, setLives] = useState(3);
+  const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
+  const [done, setDone] = useState(false);
 
-      return { 
-        id: i, 
-        text: w, 
-        waypoints: { x: wpX, y: wpY },
-        duration: 25 + Math.random() * 20,
-        initialX: wpX[0],
-        initialY: wpY[0],
-      };
-    });
-    setScrambled(initWords);
-    setSelected([]);
-    setErrorIndex(null);
-  }, [correctSequence]);
+  // Next word needed
+  const nextNeeded = correct[built.length];
 
-  const handleWordTap = (word: FloatingWord) => {
-    const nextExpectedIndex = selected.length;
-    if (nextExpectedIndex >= correctSequence.length) return;
+  const handleClick = (displayIdx: number) => {
+    if (done || wordStates[displayIdx] !== "idle") return;
+    const word = displayWords[displayIdx];
 
-    if (word.text === correctSequence[nextExpectedIndex]) {
-      // Correct Match
-      setScore(s => s + 10);
-      setSelected(prev => [...prev, { id: word.id, text: word.text }]);
-      setScrambled(prev => prev.filter(w => w.id !== word.id));
-      setErrorIndex(null);
-
-      if (nextExpectedIndex + 1 === correctSequence.length) {
-        setTimeout(() => {
-          onDone?.(score + 10 + 50);
-        }, 2000);
-      }
+    if (word === nextNeeded) {
+      // Correct!
+      setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "sniped" : s)));
+      setFlash("correct");
+      const newBuilt = [...built, word];
+      setTimeout(() => {
+        setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "gone" : s)));
+        setBuilt(newBuilt);
+        setFlash(null);
+        if (newBuilt.length >= correct.length) {
+          setDone(true);
+          onDone?.(Math.max(lives, 1) * 20 + built.length * 5);
+        }
+      }, 500);
     } else {
-      // Wrong Match
-      setScore(s => Math.max(0, s - 5));
-      setErrorIndex(word.id);
-      setTimeout(() => setErrorIndex(null), 800);
+      // Wrong order
+      setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "wrong" : s)));
+      setFlash("wrong");
+      const nl = lives - 1;
+      setLives(nl);
+      setTimeout(() => {
+        setWordStates((prev) => prev.map((s, i) => (i === displayIdx ? "idle" : s)));
+        setFlash(null);
+        if (nl <= 0) { setDone(true); onDone?.(0); }
+      }, 600);
     }
   };
 
-  const t = T[lang] || T.en;
-
   return (
-    <div className="relative w-full h-full min-h-[600px] bg-slate-950 overflow-hidden flex flex-col font-sans text-white border border-fuchsia-500/30 rounded-2xl shadow-[0_0_40px_rgba(217,70,239,0.15)]">
-       {/* Deep Space Background Grid & Glows */}
-       <div className="absolute inset-0 pointer-events-none opacity-30 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-fuchsia-900/40 via-slate-950 to-slate-950" />
-       <div className="absolute inset-0 pointer-events-none opacity-20"
-            style={{
-              backgroundImage: 'linear-gradient(to right, #4a044e 1px, transparent 1px), linear-gradient(to bottom, #4a044e 1px, transparent 1px)',
-              backgroundSize: '40px 40px'
-            }} />
-            
-       {/* Header HUD */}
-       <div className="relative z-10 flex justify-between items-center p-5 bg-slate-900/80 backdrop-blur-md border-b border-fuchsia-500/40 shadow-lg">
-         <div className="flex items-center gap-3">
-           <svg className="w-8 h-8 text-fuchsia-400 animate-spin" style={{ animationDuration: '4s' }} viewBox="0 0 24 24" fill="none" stroke="currentColor">
-             <circle cx="12" cy="12" r="10" strokeWidth="1.5" strokeDasharray="4 4" />
-             <circle cx="12" cy="12" r="3" strokeWidth="1.5" />
-             <path d="M12 2L12 12" strokeWidth="1.5" strokeLinecap="round" />
-           </svg>
-           <h2 className="text-2xl font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-400 to-cyan-400 drop-shadow-[0_0_10px_rgba(217,70,239,0.6)] uppercase">
-             {t.title}
-           </h2>
-         </div>
-         <div className="flex flex-col items-end">
-           <span className="text-xs text-cyan-300/80 uppercase tracking-widest mb-1.5 font-semibold">{t.instruction}</span>
-           <div className="px-5 py-1.5 bg-slate-950 rounded-full border border-cyan-500/50 text-cyan-300 font-mono font-bold shadow-[0_0_15px_rgba(6,182,212,0.3)]">
-             {t.score}: <span className="text-white">{score.toString().padStart(4, '0')}</span>
-           </div>
-         </div>
-       </div>
+    <div className="relative w-full h-[500px] rounded-xl overflow-hidden flex flex-col" style={{ background: round.theme.bg }}>
+      {/* BG glow */}
+      <div className="absolute inset-0 pointer-events-none"
+        style={{ background: `radial-gradient(ellipse at 50% 50%, ${round.theme.accent}18, transparent 65%)` }} />
 
-       {/* Targeting Area (Floating Words) */}
-       <div className="relative flex-1 overflow-hidden">
-          <AnimatePresence>
-            {scrambled.map((w, idx) => (
-              <motion.button
-                key={w.id}
-                onClick={() => handleWordTap(w)}
-                initial={{ 
-                  scale: 0, 
-                  opacity: 0,
-                  left: w.initialX,
-                  top: w.initialY,
-                  x: '-50%',
-                  y: '-50%'
-                }}
-                animate={{ 
-                  scale: 1, 
-                  opacity: 1,
-                  left: w.waypoints.x,
-                  top: w.waypoints.y,
-                }}
-                exit={{ scale: 1.5, opacity: 0, filter: 'blur(10px)', transition: { duration: 0.4 } }}
-                transition={{ 
-                  left: { repeat: Infinity, duration: w.duration, ease: "linear" },
-                  top: { repeat: Infinity, duration: w.duration * 1.1, ease: "linear" },
-                  scale: { duration: 0.5, type: 'spring', delay: idx * 0.1 },
-                  opacity: { duration: 0.4, delay: idx * 0.1 }
-                }}
-                className={`absolute group flex items-center justify-center px-6 py-3 rounded font-bold text-xl cursor-crosshair backdrop-blur-sm transition-all duration-300 outline-none ${
-                  errorIndex === w.id 
-                    ? 'bg-rose-950/80 border-rose-500 text-rose-200 shadow-[0_0_30px_rgba(244,63,94,0.8)] z-20 scale-110' 
-                    : 'bg-slate-900/70 border-cyan-500/50 text-cyan-50 hover:bg-cyan-950 hover:border-cyan-300 hover:text-white shadow-[0_0_20px_rgba(6,182,212,0.4)] hover:shadow-[0_0_30px_rgba(34,211,238,0.8)] z-10'
-                }`}
-                style={{
-                  borderWidth: '1px',
-                  textShadow: '0 2px 5px rgba(0,0,0,0.8)'
-                }}
-              >
-                {/* SVG Targeting Brackets */}
-                <svg className={`absolute inset-0 w-full h-full pointer-events-none transition-all duration-500 opacity-40 ${errorIndex === w.id ? 'text-rose-500 scale-125 opacity-100' : 'text-cyan-400 group-hover:opacity-100 group-hover:scale-[1.15]'}`} viewBox="0 0 100 100" preserveAspectRatio="none">
-                  <path vectorEffect="non-scaling-stroke" d="M0,15 L0,0 L15,0" stroke="currentColor" fill="none" strokeWidth="2" />
-                  <path vectorEffect="non-scaling-stroke" d="M85,0 L100,0 L100,15" stroke="currentColor" fill="none" strokeWidth="2" />
-                  <path vectorEffect="non-scaling-stroke" d="M100,85 L100,100 L85,100" stroke="currentColor" fill="none" strokeWidth="2" />
-                  <path vectorEffect="non-scaling-stroke" d="M15,100 L0,100 L0,85" stroke="currentColor" fill="none" strokeWidth="2" />
-                  
-                  {/* Crosshair accents on hover */}
-                  <path vectorEffect="non-scaling-stroke" d="M50,-5 L50,5 M-5,50 L5,50 M50,105 L50,95 M105,50 L95,50" stroke="currentColor" fill="none" strokeWidth="1" className="opacity-0 group-hover:opacity-100 transition-opacity delay-100" />
-                </svg>
+      {/* Crosshair cursor hint */}
+      <style>{`.sniper-area { cursor: crosshair; }`}</style>
 
-                {errorIndex === w.id && (
-                  <motion.div 
-                    initial={{ opacity: 1, scale: 1 }}
-                    animate={{ opacity: 0, scale: 2 }}
-                    transition={{ duration: 0.6, ease: "easeOut" }}
-                    className="absolute inset-0 border-2 border-rose-500 rounded pointer-events-none"
-                  />
-                )}
-                
-                <span className="relative z-10">{w.text}</span>
-              </motion.button>
-            ))}
-          </AnimatePresence>
-       </div>
+      {/* HUD */}
+      <div className="relative z-20 flex justify-between px-4 pt-3 pb-1 shrink-0">
+        <div className="bg-black/50 px-3 py-1 rounded-full border border-white/10 text-xs text-white/70">
+          {t.lives}: <span className="text-rose-400">{"❤️".repeat(Math.max(0, lives))}</span>
+        </div>
+        <div className="bg-black/50 px-3 py-1 rounded-full border text-xs font-medium"
+          style={{ borderColor: `${round.theme.accent}40`, color: round.theme.accent }}>
+          {t.instruction}
+        </div>
+      </div>
 
-       {/* Constructor Area (Formed Sentence) */}
-       <div className="relative z-10 min-h-[180px] p-6 bg-slate-950/95 border-t-2 border-fuchsia-500/40 flex flex-col items-center justify-center gap-6 shadow-[0_-15px_40px_rgba(0,0,0,0.6)]">
-         <div className="flex flex-wrap gap-4 justify-center min-w-[320px] min-h-[72px] p-5 bg-slate-900 rounded-xl border border-slate-800 shadow-[inset_0_0_20px_rgba(0,0,0,0.8)] w-full max-w-5xl">
-           <AnimatePresence mode="popLayout">
-             {selected.map((w, i) => (
-               <motion.div
-                 key={`sel-${w.id}-${i}`}
-                 layout
-                 initial={{ opacity: 0, scale: 0.5, y: -40, rotate: -10 }}
-                 animate={{ opacity: 1, scale: 1, y: 0, rotate: 0 }}
-                 transition={{ type: "spring", stiffness: 300, damping: 20 }}
-                 className="px-6 py-3 bg-gradient-to-br from-cyan-600 to-blue-800 rounded-lg font-bold text-white shadow-[0_5px_20px_rgba(6,182,212,0.5)] border border-cyan-400/50 text-2xl tracking-wide"
-               >
-                 {w.text}
-               </motion.div>
-             ))}
-           </AnimatePresence>
-           
-           {selected.length === 0 && (
-             <div className="flex items-center justify-center w-full opacity-40">
-               <span className="font-mono tracking-widest text-slate-400 uppercase text-sm animate-pulse">
-                 {t.awaiting}
-               </span>
-             </div>
-           )}
-         </div>
-         
-         {/* Success Message */}
-         <AnimatePresence>
-           {selected.length === correctSequence.length && correctSequence.length > 0 && (
-             <motion.div
-               initial={{ opacity: 0, y: 20, scale: 0.8 }}
-               animate={{ opacity: 1, y: 0, scale: 1 }}
-               className="flex items-center gap-4 text-fuchsia-400 font-black text-3xl tracking-widest uppercase drop-shadow-[0_0_15px_rgba(217,70,239,0.9)]"
-             >
-               <svg className="w-10 h-10" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                 <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
-                 <path d="M22 4L12 14.01l-3-3" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
-               </svg>
-               {t.finish} <span className="text-cyan-400 ml-2 drop-shadow-[0_0_15px_rgba(34,211,238,0.9)]">+50 {t.score}!</span>
-             </motion.div>
-           )}
-         </AnimatePresence>
-       </div>
+      {/* Floating words area */}
+      <div className="relative sniper-area flex-1">
+        {displayWords.map((word, idx) => {
+          const slot = WORD_SLOTS[idx % WORD_SLOTS.length];
+          const drift = DRIFTS[idx % DRIFTS.length];
+          const st = wordStates[idx];
+          if (st === "gone") return null;
+
+          const isSniped = st === "sniped";
+          const isWrong = st === "wrong";
+
+          return (
+            <motion.button
+              key={idx}
+              onClick={() => handleClick(idx)}
+              className="absolute z-10 rounded-xl border-2 font-bold text-white px-4 py-2 backdrop-blur-sm select-none"
+              style={{
+                left: `${slot.x}%`,
+                top: `${slot.y}%`,
+                fontSize: word.length > 10 ? "0.8rem" : "0.95rem",
+                background: isSniped
+                  ? "rgba(34,197,94,0.25)"
+                  : isWrong
+                  ? "rgba(239,68,68,0.25)"
+                  : "rgba(0,0,0,0.55)",
+                borderColor: isSniped
+                  ? "#22c55e"
+                  : isWrong
+                  ? "#ef4444"
+                  : `${round.theme.accent}70`,
+                boxShadow: isSniped
+                  ? "0 0 28px rgba(34,197,94,0.7)"
+                  : isWrong
+                  ? "0 0 20px rgba(239,68,68,0.5)"
+                  : `0 0 10px ${round.theme.accent}28`,
+                cursor: done ? "default" : "crosshair",
+              }}
+              animate={
+                st === "idle"
+                  ? { x: drift.x, y: drift.y }
+                  : st === "wrong"
+                  ? { x: [-5, 5, -4, 4, 0], rotate: [-2, 2, -2, 0] }
+                  : { scale: [1, 1.4, 0], opacity: [1, 1, 0] }
+              }
+              transition={
+                st === "idle"
+                  ? { duration: 6 + idx * 1.1, repeat: Infinity, ease: "easeInOut" }
+                  : { duration: 0.45 }
+              }
+              whileHover={st === "idle" ? { scale: 1.1, boxShadow: `0 0 22px ${round.theme.accent}60` } : {}}
+            >
+              {word}
+            </motion.button>
+          );
+        })}
+
+        {/* Flash overlay */}
+        <AnimatePresence>
+          {flash && (
+            <motion.div key={flash + built.length}
+              initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}
+              className="absolute inset-0 flex items-center justify-center pointer-events-none z-20">
+              <span className={`text-4xl font-black drop-shadow-lg ${flash === "correct" ? "text-emerald-400" : "text-rose-400"}`}>
+                {flash === "correct" ? t.correct : t.wrong}
+              </span>
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </div>
+
+      {/* Built sentence strip */}
+      <div className="relative z-20 shrink-0 mx-3 mb-3 px-4 py-2.5 rounded-xl border border-white/10 bg-black/50 min-h-[44px] flex flex-wrap gap-1.5 items-center">
+        <span className="text-white/30 text-xs mr-1">{t.build}</span>
+        <AnimatePresence>
+          {built.map((word, i) => (
+            <motion.span
+              key={i}
+              initial={{ opacity: 0, scale: 0, y: -10 }}
+              animate={{ opacity: 1, scale: 1, y: 0 }}
+              className="px-2.5 py-0.5 rounded-lg text-sm font-bold text-white"
+              style={{ background: `${round.theme.accent}30`, border: `1px solid ${round.theme.accent}60` }}
+            >
+              {word}
+            </motion.span>
+          ))}
+        </AnimatePresence>
+        {built.length === 0 && <span className="text-white/20 text-xs italic">…</span>}
+      </div>
+
+      {/* Done overlay */}
+      <AnimatePresence>
+        {done && (
+          <motion.div key="done" initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            className="absolute inset-0 z-40 flex items-center justify-center bg-black/60 backdrop-blur-sm">
+            <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring", delay: 0.2 }}
+              className="text-center px-8">
+              <div className="text-6xl mb-3">{lives > 0 ? "🎯" : "💥"}</div>
+              <div className="text-2xl font-black text-white mb-2">{t.done}</div>
+              <div className="flex flex-wrap gap-1 justify-center">
+                {correct.map((w, i) => (
+                  <span key={i} className="px-2 py-0.5 rounded text-sm font-bold text-white"
+                    style={{ background: `${round.theme.accent}30`, border: `1px solid ${round.theme.accent}50` }}>
+                    {w}
+                  </span>
+                ))}
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
