@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { X, Map, Globe2, Landmark } from "lucide-react";
@@ -22,6 +22,14 @@ import StarMapperGame from "@/app/astromath/visual-lab/games/StarMapperGame";
 import MeteorScaleGame from "@/app/astromath/visual-lab/games/MeteorScaleGame";
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
+
+// Astrinformatika Visual Lab játékok
+import BinaryBitStreamGame from "@/app/astrinformatika/visual-lab/games/BinaryBitStreamGame";
+import CodeCommanderGame from "@/app/astrinformatika/visual-lab/games/CodeCommanderGame";
+import HardwareHeroGame from "@/app/astrinformatika/visual-lab/games/HardwareHeroGame";
+import PacketPathGame from "@/app/astrinformatika/visual-lab/games/PacketPathGame";
+import VirusVaultGame from "@/app/astrinformatika/visual-lab/games/VirusVaultGame";
+import { INFORMATIKA_POOLS } from "@/lib/visualLab/pools/informatikaPool";
 
 // Astrodeutsch Visual Lab játékok
 import WortWaechterGame from "@/app/astro-deutsch/visual-lab/games/WortWaechterGame";
@@ -49,7 +57,7 @@ const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
 /* Types                                                               */
 /* ------------------------------------------------------------------ */
 
-export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch";
+export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika";
 export type Lang = "de" | "hu" | "ro" | "en";
 
 export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline";
@@ -193,6 +201,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "grusel-builder", type: "puzzle", labelKey: "gruselBuilder", available: true },
     { id: "grusel-bild", type: "puzzle", labelKey: "gruselBild", available: true },
   ],
+  informatika: [
+    { id: "binary-bit-stream", type: "spotter", labelKey: "binaryBitStream", available: true },
+    { id: "code-commander", type: "puzzle", labelKey: "codeCommander", available: true },
+    { id: "hardware-hero", type: "puzzle", labelKey: "hardwareHero", available: true },
+    { id: "packet-path", type: "puzzle", labelKey: "packetPath", available: true },
+    { id: "virus-vault", type: "spotter", labelKey: "virusVault", available: true },
+  ],
 };
 
 const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
@@ -211,6 +226,11 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Artikel-Asteroiden 🪐",
     satzbauSniper: "Satzbau-Sniper 🎯",
     silbenSlicer: "Silben-Slicer ✂️",
+    binaryBitStream: "Bit-Strom 💾",
+    codeCommander: "Code-Kommandeur 🤖",
+    hardwareHero: "Hardware-Held 🖥️",
+    packetPath: "Paket-Pfad 🌐",
+    virusVault: "Virus-Tresor 🔐",
   },
   hu: {
     mathNinja: "Math Ninja",
@@ -227,6 +247,11 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Névelő-Aszteroidák 🪐",
     satzbauSniper: "Mondatépítő 🎯",
     silbenSlicer: "Szótag-Vágó ✂️",
+    binaryBitStream: "Bit-Folyam 💾",
+    codeCommander: "Kód-Parancsnok 🤖",
+    hardwareHero: "Hardver-Hős 🖥️",
+    packetPath: "Adatcsomag Útvonal 🌐",
+    virusVault: "Vírus-Páncélszekrény 🔐",
   },
   ro: {
     mathNinja: "Math Ninja",
@@ -243,6 +268,11 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Asteroizi cu Articole 🪐",
     satzbauSniper: "Sniper de Propoziții 🎯",
     silbenSlicer: "Tăiător de Silabe ✂️",
+    binaryBitStream: "Flux Binar 💾",
+    codeCommander: "Comandant Cod 🤖",
+    hardwareHero: "Erou Hardware 🖥️",
+    packetPath: "Rută Pachete 🌐",
+    virusVault: "Seiful Virușilor 🔐",
   },
   en: {
     mathNinja: "Math Ninja",
@@ -259,6 +289,11 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
     artikelAsteroids: "Article Asteroids 🪐",
     satzbauSniper: "Sentence Sniper 🎯",
     silbenSlicer: "Syllable Slicer ✂️",
+    binaryBitStream: "Bit Stream 💾",
+    codeCommander: "Code Commander 🤖",
+    hardwareHero: "Hardware Hero 🖥️",
+    packetPath: "Packet Path 🌐",
+    virusVault: "Virus Vault 🔐",
   },
 };
 
@@ -271,7 +306,7 @@ for (const lg of ["de", "hu", "ro", "en"] as Lang[]) {
 /* Component                                                           */
 /* ------------------------------------------------------------------ */
 
-export default function VisualLab({ subject, grade, lang, open, onClose }: VisualLabProps) {
+function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [activeGame, setActiveGame] = useState<string | null>(null);
@@ -358,6 +393,14 @@ export default function VisualLab({ subject, grade, lang, open, onClose }: Visua
         </motion.div>
       )}
     </AnimatePresence>
+  );
+}
+
+export default function VisualLab(props: VisualLabProps) {
+  return (
+    <Suspense fallback={null}>
+      <VisualLabInner {...props} />
+    </Suspense>
   );
 }
 
@@ -458,6 +501,8 @@ function GameHost({
         <AstromathGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "deutsch" ? (
         <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
+      ) : subject === "informatika" ? (
+        <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
       ) : (
         <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       )}
@@ -551,6 +596,47 @@ function DeutschGameSwitch({
   }
   if (gameId === "grusel-bild") {
     return <BildGeschichteGame grade={grade} lang={lang} />;
+  }
+  return <FallbackBox title={gameId} info={tSoon} />;
+}
+
+function InformatikaGameSwitch({
+  gameId,
+  grade,
+  lang,
+  tSoon,
+  onDone,
+}: {
+  gameId: string;
+  grade: number;
+  lang: Lang;
+  tSoon: string;
+  onDone?: (score: number) => void;
+}) {
+  const pool = INFORMATIKA_POOLS[lang]?.[grade]
+    ?? INFORMATIKA_POOLS[lang]?.[5]
+    ?? INFORMATIKA_POOLS["hu"]?.[5];
+  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
+
+  if (gameId === "binary-bit-stream") {
+    const round = pool.binaryAsteroids[0];
+    return round ? <BinaryBitStreamGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
+  }
+  if (gameId === "code-commander") {
+    const round = pool.algorithmSniper[0];
+    return round ? <CodeCommanderGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
+  }
+  if (gameId === "hardware-hero") {
+    const round = pool.hardwareSort[0];
+    return round ? <HardwareHeroGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
+  }
+  if (gameId === "packet-path") {
+    const round = pool.termGuardian[0];
+    return round ? <PacketPathGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
+  }
+  if (gameId === "virus-vault") {
+    const round = pool.securitySturm[0];
+    return round ? <VirusVaultGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
   }
   return <FallbackBox title={gameId} info={tSoon} />;
 }

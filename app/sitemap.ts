@@ -3,6 +3,8 @@ import { pois, regions } from "@/lib/visualLab/data/poi";
 import { SITE_URL } from "@/lib/seo/routes";
 import { SUPPORTED_LANGS, buildCountryPath, buildPoiPath, buildStatePath } from "@/lib/seo/slugs";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date();
 
