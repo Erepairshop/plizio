@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { ChevronLeft, History as HistoryIcon, Star, Layers } from "lucide-react";
+import { ChevronLeft, History as HistoryIcon, Star, Layers, Shield, Radio } from "lucide-react";
 import Link from "next/link";
 import type { StarholdState, LocalizedString } from "@/lib/gravitas/sim/types";
 
@@ -11,9 +11,11 @@ interface Props {
   onChronicleOpen: () => void;
   onShopOpen: () => void;
   onCodexOpen: () => void;
+  onConcordOpen: () => void;
+  onNpcStationsOpen: () => void;
 }
 
-export default function GravitasHeader({ state, localize, onChronicleOpen, onShopOpen, onCodexOpen }: Props) {
+export default function GravitasHeader({ state, localize, onChronicleOpen, onShopOpen, onCodexOpen, onConcordOpen, onNpcStationsOpen }: Props) {
   return (
     <div className="flex items-center justify-between px-6 py-4 border-b border-white/5 bg-black/40 backdrop-blur-md z-50">
       <div className="flex items-center gap-6">
@@ -45,6 +47,28 @@ export default function GravitasHeader({ state, localize, onChronicleOpen, onSho
       </div>
 
       <div className="flex items-center gap-3">
+        <button
+          onClick={onNpcStationsOpen}
+          className="relative flex items-center gap-2 px-3 py-1.5 rounded-full border border-white/10 bg-white/5 text-white/40 hover:bg-white/10 hover:text-white transition-all"
+          title={localize({ en: "NPC Stations", hu: "NPC Állomások", de: "NPC-Stationen", ro: "Stații NPC" })}
+        >
+          <Radio size={13} />
+        </button>
+        <button
+          onClick={onConcordOpen}
+          className={`relative flex items-center gap-2 px-3 py-1.5 rounded-full border transition-all ${
+            state.concord?.status === "member"
+              ? "border-emerald-500/40 bg-emerald-500/10 text-emerald-400 hover:bg-emerald-500/20"
+              : state.concord?.status === "revoked"
+              ? "border-rose-500/40 bg-rose-500/10 text-rose-400 hover:bg-rose-500/20"
+              : state.concord?.status === "candidate"
+              ? "border-amber-500/30 bg-amber-500/5 text-amber-400 hover:bg-amber-500/10"
+              : "border-white/10 bg-white/5 text-white/40 hover:bg-white/10 hover:text-white"
+          }`}
+          title={localize({ en: "Concord", hu: "Concord", de: "Concord", ro: "Concord" })}
+        >
+          <Shield size={13} />
+        </button>
         <button
           onClick={onCodexOpen}
           className="relative flex items-center gap-2 px-3 py-1.5 rounded-full border border-white/10 bg-white/5 text-white/40 hover:bg-white/10 hover:text-white transition-all"

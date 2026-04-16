@@ -368,4 +368,22 @@ export const CODEX_ENTRIES: CodexEntry[] = [
       ro: "Voidul nu este gol. Poartă o greutate entropică ce erodează încet mintea și materia.",
     },
   },
+  {
+    id: "concord_charter",
+    category: "mechanics",
+    icon: "Shield",
+    unlockCondition: { type: "phaseReached", phase: "continuation" },
+    title: {
+      en: "Concord Charter",
+      hu: "Concord Charta",
+      de: "Concord-Charta",
+      ro: "Carta Concord",
+    },
+    content: {
+      en: "The Concord is an interstellar governance body that evaluates station conduct against five core standards: stability, module integrity, no-lockdown record, entropy containment, and crew morale. Stations that maintain high standing gain access to diplomatic privileges and trade advantages. Membership can be revoked for repeated violations — reputation once lost is difficult to rebuild.",
+      hu: "A Concord egy csillagközi kormányzati szervezet, amely az állomások működését öt alapkritérium szerint értékeli: stabilitás, modul-integritás, lezárásmentesség, entrópia-kontroll és legénységi morál. A magas státusszal rendelkező állomások diplomáciai és kereskedelmi előnyökhöz jutnak. A tagság ismételt szabályszegések esetén visszavonható — az elveszített hírnevet nehéz visszaszerezni.",
+      de: "Das Concord ist ein interstellares Governance-Organ, das Stationsverhalten nach fünf Kernstandards bewertet: Stabilität, Modulintegrität, kein Lockdown, Entropiekontrolle und Besatzungsmoral. Stationen mit hohem Ansehen erhalten Zugang zu diplomatischen Vorteilen. Mitgliedschaft kann bei wiederholten Verstößen entzogen werden.",
+      ro: "Concord este un organism de guvernanță interstelar care evaluează conduita stației după cinci standarde de bază: stabilitate, integritate modul, fără blocare, control entropie și moral echipaj. Stațiile cu statut ridicat obțin privilegii diplomatice. Calitatea de membru poate fi revocată pentru încălcări repetate.",
+    },
+  },
 ];

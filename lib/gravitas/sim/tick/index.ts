@@ -35,6 +35,9 @@ import { tickGalaxyCycle, tickFactionReputation, tickWorldLevel } from "./galaxy
 import { tickCommanderProfile } from "./commander";
 import { completeActiveOperation, advanceScavengeOperation } from "./operations";
 import { tickUpgrades } from "./upgrades";
+import { tickWorldEcho, tickGalaxyAnomalyNodes } from "./worldsystems";
+import { tickConcord } from "../concord/engine";
+import { tickNpcStations } from "../npcstations/engine";
 
 function tickBattle(state: StarholdState): StarholdState {
   const activeScout = state.battleState.activeScout;
@@ -664,30 +667,38 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
       state,
       tickFleets(
         spawnTransientNodes(
-          checkStarholdMilestones(
-            tickOfficers(
-              tickCommanderProfile(
-                tickDilemmaSpawn(
-                  tickDilemmaEffects(
-                    tickGalaxyCycle(
-                      tickFactionReputation(
-                        tickBattle(
-                          tickTradeSystem(
-                            tickStarChamberRotation(
-                              tickDailyTasks(
-                                tickSupplyRoutes(
-                                  tickWeeklyMission(
-                                    tickEspionage(
-                                      tickResearch(
-                                        tickCodex(
-                                          tickUpgrades(
-                                            tickRepairBay(
-                                              applyStarholdEvents(
-                                                tickWarRoom(
-                                                  tickLedger({
-                                                    ...threatResult.nextState,
-                                                    waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                                  })
+          tickGalaxyAnomalyNodes(
+            tickWorldEcho(
+              tickNpcStations(
+                tickConcord(
+                  checkStarholdMilestones(
+                    tickOfficers(
+                      tickCommanderProfile(
+                        tickDilemmaSpawn(
+                          tickDilemmaEffects(
+                            tickGalaxyCycle(
+                              tickFactionReputation(
+                                tickBattle(
+                                  tickTradeSystem(
+                                    tickStarChamberRotation(
+                                      tickDailyTasks(
+                                        tickSupplyRoutes(
+                                          tickWeeklyMission(
+                                            tickEspionage(
+                                              tickResearch(
+                                                tickCodex(
+                                                  tickUpgrades(
+                                                    tickRepairBay(
+                                                      applyStarholdEvents(
+                                                        tickWarRoom(
+                                                          tickLedger({
+                                                            ...threatResult.nextState,
+                                                            waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                                          })
+                                                        )
+                                                      )
+                                                    )
+                                                  )
                                                 )
                                               )
                                             )
@@ -717,33 +728,41 @@ function advanceStarholdTickInternal(inputState: StarholdState): StarholdState {
     state,
     tickFleets(
       spawnTransientNodes(
-        checkStarholdMilestones(
-          tickExpeditions(
-            tickFactionWars(
-              tickOfficers(
-                tickCommanderProfile(
-                  tickDilemmaSpawn(
-                    tickDilemmaEffects(
-                      tickGalaxyCycle(
-                        tickFactionReputation(
-                          tickWorldLevel(
-                            tickBattle(
-                              tickTradeSystem(
-                                tickStarChamberRotation(
-                                  tickDailyTasks(
-                                    tickSupplyRoutes(
-                                      tickWeeklyMission(
-                                        tickEspionage(
-                                          tickResearch(
-                                            tickCodex(
-                                              tickUpgrades(
-                                                tickRepairBay(
-                                                  applyStarholdEvents(
-                                                    tickWarRoom(
-                                                      tickLedger({
-                                                        ...threatResult.nextState,
-                                                        waveRecoveryCalmTicks: nextRecoveryCalmTicks,
-                                                      })
+        tickGalaxyAnomalyNodes(
+          tickWorldEcho(
+            tickNpcStations(
+              tickConcord(
+                checkStarholdMilestones(
+                  tickExpeditions(
+                    tickFactionWars(
+                      tickOfficers(
+                        tickCommanderProfile(
+                          tickDilemmaSpawn(
+                            tickDilemmaEffects(
+                              tickGalaxyCycle(
+                                tickFactionReputation(
+                                  tickWorldLevel(
+                                    tickBattle(
+                                      tickTradeSystem(
+                                        tickStarChamberRotation(
+                                          tickDailyTasks(
+                                            tickSupplyRoutes(
+                                              tickWeeklyMission(
+                                                tickEspionage(
+                                                  tickResearch(
+                                                    tickCodex(
+                                                      tickUpgrades(
+                                                        tickRepairBay(
+                                                          applyStarholdEvents(
+                                                            tickWarRoom(
+                                                              tickLedger({
+                                                                ...threatResult.nextState,
+                                                                waveRecoveryCalmTicks: nextRecoveryCalmTicks,
+                                                              })
+                                                            )
+                                                          )
+                                                        )
+                                                      )
                                                     )
                                                   )
                                                 )

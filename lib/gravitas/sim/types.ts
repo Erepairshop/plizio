@@ -367,6 +367,10 @@ export interface StarholdState {
   archive: StarholdArchiveState;
   derived?: StarholdDerivedState;
   lastActionFeedback?: import("./map/types").NodeActionFeedback;
+  /** Concord political alliance system */
+  concord: import("./concord/types").ConcordState;
+  /** NPC Faction Stations */
+  npcStations: import("./npcstations/types").NpcStationsState;
 }
 
 export interface ModuleUpgradeSlot {

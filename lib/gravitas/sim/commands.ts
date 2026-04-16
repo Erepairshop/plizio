@@ -159,14 +159,14 @@ function withDerived(state: StarholdState): StarholdState {
 export function applyStarholdCommand(state: StarholdState, command: StarholdCommand): StarholdState {
   if (command.type === "DISMISS_NOTIFICATION") return withDerived(dismissNotification(state, command.id));
   if (command.type === "MARK_NOTIFICATIONS_READ") return withDerived(markAllNotificationsRead(state));
-  if (command.type === "INSPECT_NODE") return withDerived(resolveInspectNode(state, command.nodeId));
+  if (command.type === "INSPECT_NODE") return withDerived(updateTaskProgress(resolveInspectNode(state, command.nodeId), "discovery", 1));
   if (command.type === "COLLECT_NODE") return withDerived(resolveCollectNode(state, command.nodeId));
   if (command.type === "ATTACK_NODE") return withDerived(resolveAttackNode(state, command.nodeId));
-  if (command.type === "DISPATCH_FLEET") return withDerived(resolveDispatchFleet(state, command.nodeId, command.missionType, command.composition, command.useBoost));
+  if (command.type === "DISPATCH_FLEET") return withDerived(updateTaskProgress(resolveDispatchFleet(state, command.nodeId, command.missionType, command.composition, command.useBoost), "fleet", 1));
   if (command.type === "RECALL_FLEET") return withDerived(resolveRecallFleet(state, command.fleetId, command.useBoost));
   if (command.type === "RECRUIT_OFFICER") return withDerived(recruitOfficer(state, command.officerId));
   if (command.type === "DISMISS_OFFICER") return withDerived(dismissOfficer(state, command.officerId));
-  if (command.type === "LAUNCH_EXPEDITION") return withDerived(launchExpedition(state, command.durationMode, command.routeProfile, command.fleet));
+  if (command.type === "LAUNCH_EXPEDITION") return withDerived(updateTaskProgress(launchExpedition(state, command.durationMode, command.routeProfile, command.fleet), "expedition", 1));
   if (command.type === "RECALL_EXPEDITION") return withDerived(recallExpedition(state, command.expeditionId));
   if (command.type === "UNLOCK_STAR_CHAMBER_ITEM") return withDerived(unlockStarChamberItem(state, command.itemId));
   if (command.type === "ACTIVATE_STAR_CHAMBER_ITEM") return withDerived(activateStarChamberItem(state, command.itemId, command.targetId));
@@ -431,7 +431,8 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
           alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
           journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
         });
-        return continuationRestored;
+        const continuationRepairGain = nextIntegrity - target.integrity;
+        return updateTaskProgress(continuationRestored, "repair", Math.max(0, continuationRepairGain));
       }
       const introWindow = state.phase === "boot" && state.tick < 90;
       const target = state.modules[command.moduleId];
@@ -448,7 +449,8 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
                 ? { power: 100 }
                 : {}
           : {};
-      return advanceRepairChallenge({
+      const repairGain = Math.max(0, nextIntegrity - target.integrity);
+      return updateTaskProgress(advanceRepairChallenge({
         ...markBootstrapCheckpoint(state, command.moduleId),
         resources: addResourceDelta(state.resources, {
           supply: -cost,
@@ -466,7 +468,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         },
         alert: GRAVITAS_TEXT.alerts.modulePatched(target.name),
         journal: pushJournal(state, GRAVITAS_TEXT.journal.integrityRestored(target.name, nextIntegrity)),
-      }, command.moduleId);
+      }, command.moduleId), "repair", repairGain);
     }
     case "REROUTE_TO_CORE": {
       const introWindow = state.phase === "boot" && state.tick < 90;
@@ -1056,7 +1058,8 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
         }
       });
 
-      return {
+      const enemiesKilled = result.stats.enemyGarrisonDestroyed ?? 0;
+      return updateTaskProgress({
         ...nextState,
         commander: {
           ...nextState.commander,
@@ -1092,7 +1095,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
             [nodeId]: state.tick + cooldownTicks
           }
         },
-      };
+      }, "battle", enemiesKilled > 0 ? enemiesKilled : (result.victory ? 1 : 0));
     }
     case "START_SCOUT": {
       if (state.battleState.activeScout) return state;
@@ -1207,7 +1210,7 @@ function applyStarholdCommandInternal(state: StarholdState, command: StarholdCom
       return resolveDilemma(state, command.optionId);
     }
     case "ACCEPT_TRADE": {
-      return acceptTrade(state, command.offerId);
+      return updateTaskProgress(acceptTrade(state, command.offerId), "trade", 1);
     }
     case "REJECT_TRADE": {
       return rejectTrade(state, command.offerId);

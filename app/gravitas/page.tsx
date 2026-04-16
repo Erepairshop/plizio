@@ -113,12 +113,14 @@ export default function GravitasPage() {
       </AnimatePresence>
 
       <div className="relative flex flex-col h-full z-10">
-        <GravitasHeader 
-          state={state} 
-          localize={localize} 
+        <GravitasHeader
+          state={state}
+          localize={localize}
           onChronicleOpen={() => panels.setChronicleOpen(true)}
           onShopOpen={() => panels.setShopOpen(true)}
           onCodexOpen={() => panels.setCodexOpen(true)}
+          onConcordOpen={() => panels.setConcordOpen(true)}
+          onNpcStationsOpen={() => panels.setNpcStationsOpen(true)}
         />
 
         <main className="relative flex-1 flex overflow-hidden">

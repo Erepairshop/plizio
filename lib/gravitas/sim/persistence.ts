@@ -19,6 +19,8 @@ import { createInitialFactionWarState } from "./factionwars/index";
 import { createInitialExpeditionState } from "./expeditions/index";
 import { createInitialGalaxyMap } from "./map/engine";
 import { defaultAllocation } from "./battle/avatarCombat";
+import { createInitialConcordState, normalizeConcordState } from "./concord/engine";
+import { createInitialNpcStationsState, normalizeNpcStationsState } from "./npcstations/engine";
 import type { WarRoomState, WarRoomUnitId } from "./warroom/types";
 import type { RepairBayState } from "./repairbay/types";
 import { runMaintenance } from "./maintenance";
@@ -592,6 +594,8 @@ export function loadGravitasState(): StarholdState | null {
         battleHistory: [],
       },
       offlineSummary: parsed.offlineSummary ?? null,
+      concord: normalizeConcordState((parsed as any).concord ?? createInitialConcordState()),
+      npcStations: normalizeNpcStationsState((parsed as any).npcStations ?? createInitialNpcStationsState()),
     };
     if (nextState.chapter === "continuation") {
       Object.assign(nextState, sanitizeContinuationState(nextState));

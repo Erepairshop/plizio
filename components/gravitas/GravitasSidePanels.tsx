@@ -11,6 +11,8 @@ import CodexPanel from "@/components/gravitas/CodexPanel";
 import OfficerLoungePanel from "@/components/gravitas/OfficerLoungePanel";
 import FactionWarsPanel from "@/components/gravitas/FactionWarsPanel";
 import ExpeditionsPanel from "@/components/gravitas/ExpeditionsPanel";
+import ConcordPanel from "@/components/gravitas/ConcordPanel";
+import NpcStationsPanel from "@/components/gravitas/NpcStationsPanel";
 import type { StarholdState, StarholdCommand } from "@/lib/gravitas/sim/types";
 
 interface Props {
@@ -123,6 +125,22 @@ export default function GravitasSidePanels({ state, lang, panels, doAction }: Pr
           lang={lang}
           onClose={() => panels.setExpeditionsOpen(false)}
           doAction={doAction}
+        />
+      )}
+      {panels.concordOpen && (
+        <ConcordPanel
+          key="concord"
+          state={state}
+          lang={lang}
+          onClose={() => panels.setConcordOpen(false)}
+        />
+      )}
+      {panels.npcStationsOpen && (
+        <NpcStationsPanel
+          key="npc-stations"
+          state={state}
+          lang={lang}
+          onClose={() => panels.setNpcStationsOpen(false)}
         />
       )}
     </AnimatePresence>

@@ -21,6 +21,8 @@ import { createInitialFactionWarState } from "./factionwars/index";
 import { createInitialExpeditionState } from "./expeditions/index";
 import { createInitialGalaxyMap } from "./map/engine";
 import { recalculateDerivedState } from "./derived";
+import { createInitialConcordState } from "./concord/engine";
+import { createInitialNpcStationsState } from "./npcstations/engine";
 
 import { createDefaultGalaxyInventory } from "../world/mission";
 
@@ -228,6 +230,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       },
       lastActiveAt: Date.now(),
       offlineSummary: null,
+      concord: createInitialConcordState(),
+      npcStations: createInitialNpcStationsState(),
     });
     return {
       ...nextState,
@@ -404,6 +408,8 @@ export function createInitialStarholdState(chapter: StarholdChapterId = "demo"):
       battleHistory: [],
     },
     offlineSummary: null,
+    concord: createInitialConcordState(),
+    npcStations: createInitialNpcStationsState(),
   };
 
   return {

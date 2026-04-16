@@ -16,6 +16,8 @@ export function useGravitasPanels() {
   const [officersOpen, setOfficersOpen] = useState(false);
   const [factionWarsOpen, setFactionWarsOpen] = useState(false);
   const [expeditionsOpen, setExpeditionsOpen] = useState(false);
+  const [concordOpen, setConcordOpen] = useState(false);
+  const [npcStationsOpen, setNpcStationsOpen] = useState(false);
 
   const closeAllPanels = useCallback(() => {
     setActivePanel(null);
@@ -31,6 +33,8 @@ export function useGravitasPanels() {
     setOfficersOpen(false);
     setFactionWarsOpen(false);
     setExpeditionsOpen(false);
+    setConcordOpen(false);
+    setNpcStationsOpen(false);
   }, []);
 
   return {
@@ -47,6 +51,8 @@ export function useGravitasPanels() {
     officersOpen, setOfficersOpen,
     factionWarsOpen, setFactionWarsOpen,
     expeditionsOpen, setExpeditionsOpen,
+    concordOpen, setConcordOpen,
+    npcStationsOpen, setNpcStationsOpen,
     closeAllPanels
   };
 }
