@@ -1,13 +1,17 @@
-// lib/explorerPools/romanaC8.ts — conținut AstroRomână clasa a VIII-a
 import type { PoolTopicDef, SvgConfig } from "./types";
+import type { TopicInteractive } from "@/app/astro-biologie/games/ExplorerEngine";
 
 type Difficulty = "easy" | "medium" | "hard";
 
 type InteractiveSpec =
   | { type: "match-pairs"; pairs: [string, string][] }
-  | { type: "drag-to-bucket"; buckets: { id: string; label: string }[]; items: { text: string; bucketId: string }[] };
+  | { type: "drag-to-bucket"; buckets: { id: string; label: string }[]; items: { text: string; bucketId: string }[] }
+  | { type: "highlight-text"; tokens: string[]; correctIndices: number[] }
+  | { type: "sentence-build"; fragments: string[] }
+  | { type: "word-order"; words: string[]; correctOrder: number[] }
+  | { type: "gap-fill"; sentence: string; choices: [string, string, string, string]; correctIndex: number };
 
-type ThemeSpec = {
+type TopicSpec = {
   title: string;
   text: string;
   svg: SvgConfig;
@@ -15,394 +19,306 @@ type ThemeSpec = {
   instruction: string;
   hint1: string;
   hint2: string;
-  question: string;
-  choices: [string, string, string, string];
-  answer: 0 | 1 | 2 | 3;
+  quizQuestion: string;
+  quizChoices: [string, string, string, string];
+  quizAnswer: 0 | 1 | 2 | 3;
   difficulty: Difficulty;
 };
 
 type LangLabels = Record<string, Record<string, string>>;
 
-function cloneLabels(base: Record<string, string>): LangLabels {
-  return {
-    ro: { ...base },
-    en: { ...base },
-    hu: { ...base },
-    de: { ...base },
-  };
+type Kit = {
+  pairs: [string, string][];
+  buckets: { id: string; label: string }[];
+  bucketItems: { text: string; bucketId: string }[];
+  tokens: string[];
+  tokenIndices: number[];
+  fragments: string[];
+  orderWords: string[];
+  order: number[];
+  gapSentence: string;
+  gapChoices: [string, string, string, string];
+  gapIndex: number;
+};
+
+function buildLabels(title: string, topics: TopicSpec[]): LangLabels {
+  const ro: Record<string, string> = { explorer_title: title };
+  topics.forEach((topic, i) => {
+    const p = `t${i + 1}`;
+    ro[`${p}_title`] = topic.title;
+    ro[`${p}_text`] = topic.text;
+    ro[`${p}_inst`] = topic.instruction;
+    ro[`${p}_h1`] = topic.hint1;
+    ro[`${p}_h2`] = topic.hint2;
+    ro[`${p}_q`] = topic.quizQuestion;
+    ro[`${p}_qa`] = topic.quizChoices[0];
+    ro[`${p}_qb`] = topic.quizChoices[1];
+    ro[`${p}_qc`] = topic.quizChoices[2];
+    ro[`${p}_qd`] = topic.quizChoices[3];
+
+    if (topic.interactive.type === "match-pairs") {
+      topic.interactive.pairs.forEach(([l, r], j) => {
+        ro[`${p}_l${j + 1}`] = l;
+        ro[`${p}_r${j + 1}`] = r;
+      });
+    } else if (topic.interactive.type === "drag-to-bucket") {
+      topic.interactive.buckets.forEach((b, j) => {
+        ro[`${p}_b${j + 1}`] = b.label;
+      });
+      topic.interactive.items.forEach((it, j) => {
+        ro[`${p}_i${j + 1}`] = it.text;
+      });
+    } else if (topic.interactive.type === "highlight-text") {
+      topic.interactive.tokens.forEach((w, j) => {
+        ro[`${p}_w${j + 1}`] = w;
+      });
+    } else if (topic.interactive.type === "sentence-build") {
+      topic.interactive.fragments.forEach((f, j) => {
+        ro[`${p}_f${j + 1}`] = f;
+      });
+    } else if (topic.interactive.type === "word-order") {
+      topic.interactive.words.forEach((w, j) => {
+        ro[`${p}_w${j + 1}`] = w;
+      });
+    } else {
+      ro[`${p}_s`] = topic.interactive.sentence;
+      ro[`${p}_c1`] = topic.interactive.choices[0];
+      ro[`${p}_c2`] = topic.interactive.choices[1];
+      ro[`${p}_c3`] = topic.interactive.choices[2];
+      ro[`${p}_c4`] = topic.interactive.choices[3];
+    }
+  });
+  return { ro };
 }
 
-function buildLabels(spec: ThemeSpec): LangLabels {
-  const base: Record<string, string> = {
-    explorer_title: spec.title,
-    t1_title: spec.title,
-    t1_text: spec.text,
-    t1_inst: spec.instruction,
-    t1_h1: spec.hint1,
-    t1_h2: spec.hint2,
-    t1_q: spec.question,
-    t1_qa: spec.choices[0],
-    t1_qb: spec.choices[1],
-    t1_qc: spec.choices[2],
-    t1_qd: spec.choices[3],
-  };
+function buildInteractive(prefix: string, spec: InteractiveSpec): TopicInteractive {
+  const withHints = <T extends object>(interactive: T): TopicInteractive =>
+    ({
+      ...interactive,
+      instruction: `${prefix}_inst`,
+      hint1: `${prefix}_h1`,
+      hint2: `${prefix}_h2`,
+    } as unknown as TopicInteractive);
 
-  if (spec.interactive.type === "match-pairs") {
-    spec.interactive.pairs.forEach(([left, right], index) => {
-      base[`t1_l${index + 1}`] = left;
-      base[`t1_r${index + 1}`] = right;
-    });
-  } else if (spec.interactive.type === "drag-to-bucket") {
-    spec.interactive.buckets.forEach((bucket, index) => {
-      base[`t1_b${index + 1}`] = bucket.label;
-    });
-    spec.interactive.items.forEach((item, index) => {
-      base[`t1_i${index + 1}`] = item.text;
-    });
+  switch (spec.type) {
+    case "match-pairs":
+      return withHints({ type: "match-pairs", pairs: spec.pairs.map((_, i) => ({ left: `${prefix}_l${i + 1}`, right: `${prefix}_r${i + 1}` })) });
+    case "drag-to-bucket":
+      return withHints({
+        type: "drag-to-bucket",
+        buckets: spec.buckets.map((b, i) => ({ id: b.id, label: `${prefix}_b${i + 1}` })),
+        items: spec.items.map((it, i) => ({ text: `${prefix}_i${i + 1}`, bucketId: it.bucketId })),
+      });
+    case "highlight-text":
+      return withHints({ type: "highlight-text", tokens: spec.tokens.map((_, i) => `${prefix}_w${i + 1}`), correctIndices: spec.correctIndices });
+    case "sentence-build":
+      return withHints({ type: "sentence-build", fragments: spec.fragments.map((_, i) => `${prefix}_f${i + 1}`) });
+    case "word-order":
+      return withHints({ type: "word-order", words: spec.words.map((_, i) => `${prefix}_w${i + 1}`), correctOrder: spec.correctOrder });
+    case "gap-fill":
+      return withHints({ type: "gap-fill", sentence: `${prefix}_s`, choices: [`${prefix}_c1`, `${prefix}_c2`, `${prefix}_c3`, `${prefix}_c4`], correctIndex: spec.correctIndex });
   }
-
-  return cloneLabels(base);
 }
 
-function buildPool(spec: ThemeSpec): PoolTopicDef[] {
-  const answerKey = ["qa", "qb", "qc", "qd"][spec.answer];
-
-  return [
-    {
-      infoTitle: "t1_title",
-      infoText: "t1_text",
-      svg: spec.svg,
-      hintKey: "t1_h1",
-      interactive:
-        spec.interactive.type === "match-pairs"
-          ? {
-              type: "match-pairs",
-              pairs: spec.interactive.pairs.map(([left, right], index) => ({
-                left: `t1_l${index + 1}`,
-                right: `t1_r${index + 1}`,
-              })),
-              instruction: "t1_inst",
-              hint1: "t1_h1",
-              hint2: "t1_h2",
-            }
-          : {
-              type: "drag-to-bucket",
-              buckets: spec.interactive.buckets.map((bucket, index) => ({
-                id: bucket.id,
-                label: `t1_b${index + 1}`,
-              })),
-              items: spec.interactive.items.map((item, index) => ({
-                text: `t1_i${index + 1}`,
-                bucketId: item.bucketId,
-              })),
-              instruction: "t1_inst",
-              hint1: "t1_h1",
-              hint2: "t1_h2",
-            },
-      quiz: {
-        question: "t1_q",
-        choices: ["t1_qa", "t1_qb", "t1_qc", "t1_qd"],
-        answer: `t1_${answerKey}`,
-      },
-      difficulty: spec.difficulty,
-    },
-  ];
+function buildPool(topics: TopicSpec[]): PoolTopicDef[] {
+  return topics.map((t, i) => {
+    const p = `t${i + 1}`;
+    const a = ["qa", "qb", "qc", "qd"][t.quizAnswer];
+    return {
+      infoTitle: `${p}_title`,
+      infoText: `${p}_text`,
+      svg: t.svg,
+      hintKey: `${p}_h1`,
+      interactive: buildInteractive(p, t.interactive),
+      quiz: { question: `${p}_q`, choices: [`${p}_qa`, `${p}_qb`, `${p}_qc`, `${p}_qd`], answer: `${p}_${a}` },
+      difficulty: t.difficulty,
+    };
+  });
 }
 
-function makeTheme(spec: ThemeSpec) {
-  return {
-    labels: buildLabels(spec),
-    pool: buildPool(spec),
-  };
+function diff(i: number): Difficulty {
+  if (i < 5) return "easy";
+  if (i < 10) return "medium";
+  return "hard";
 }
 
-const MORFO8 = makeTheme({
-  title: "Morfologia: părțile de vorbire",
-  text: "Pornim de la cuvintele de bază și le așezăm după rol: substantive, verbe și adjective.",
-  svg: {
-    type: "icon-grid",
-    items: [
-      { emoji: "👧", label: "substantiv" },
-      { emoji: "🏃", label: "verb" },
-      { emoji: "🌟", label: "adjectiv" },
-      { emoji: "👥", label: "pronume" },
-    ],
-    bg: "#F5F3FF",
-  },
-  interactive: {
-    type: "drag-to-bucket",
-    buckets: [
-      { id: "substantive", label: "substantive" },
-      { id: "verbe", label: "verbe" },
-      { id: "adjective", label: "adjective" },
-    ],
-    items: [
-      { text: "copil", bucketId: "substantive" },
-      { text: "floare", bucketId: "substantive" },
-      { text: "aleargă", bucketId: "verbe" },
-      { text: "citește", bucketId: "verbe" },
-      { text: "frumos", bucketId: "adjective" },
-      { text: "verde", bucketId: "adjective" },
-    ],
-  },
-  instruction: "Așază cuvântul în grupa potrivită.",
-  hint1: "Întreabă-te dacă numește, arată o acțiune sau o însușire.",
-  hint2: "Substantivele numesc ființe ori lucruri, verbele arată acțiunea.",
-  question: "Ce studiază morfologia?",
-  choices: ["părțile de vorbire", "semnele de punctuație", "ordinea ideilor", "figurile de stil"],
-  answer: 0,
-  difficulty: "easy",
-});
+function pickInteractive(i: number, kit: Kit): InteractiveSpec {
+  const m = i % 6;
+  if (m === 0) return { type: "match-pairs", pairs: kit.pairs };
+  if (m === 1) return { type: "drag-to-bucket", buckets: kit.buckets, items: kit.bucketItems };
+  if (m === 2) return { type: "highlight-text", tokens: kit.tokens, correctIndices: kit.tokenIndices };
+  if (m === 3) return { type: "sentence-build", fragments: kit.fragments };
+  if (m === 4) return { type: "word-order", words: kit.orderWords, correctOrder: kit.order };
+  return { type: "gap-fill", sentence: kit.gapSentence, choices: kit.gapChoices, correctIndex: kit.gapIndex };
+}
 
-const SINT8 = makeTheme({
-  title: "Sintaxa: propoziția și părțile ei",
-  text: "Analizăm propoziția simplă prin subiect și predicat, apoi observăm cum se leagă părțile între ele.",
-  svg: {
-    type: "sentence-display",
-    words: ["Maria", "citește", "o", "carte"],
-    highlightIndices: [0, 1],
-    color: "#7C3AED",
-  },
-  interactive: {
-    type: "match-pairs",
-    pairs: [
-      ["subiect", "despre cine se vorbește"],
-      ["predicat", "ce spune propoziția despre subiect"],
-      ["propoziție simplă", "are un singur predicat"],
-    ],
-  },
-  instruction: "Potrivește termenul cu explicația lui.",
-  hint1: "Subiectul spune despre cine este vorba.",
-  hint2: "Predicatul arată ce se spune despre subiect.",
-  question: "Ce este predicatul?",
-  choices: ["partea care spune ceva despre subiect", "numele unei persoane", "cuvântul care arată o însușire", "semnul de punctuație"],
-  answer: 0,
-  difficulty: "easy",
-});
+function buildTopics(island: string, titles: string[], kit: Kit, color: string): TopicSpec[] {
+  return titles.map((title, i) => ({
+    title,
+    text: `Consolidăm tema „${title}” la nivel de evaluare pentru clasa a VIII-a.`,
+    svg: { type: "word-display", word: title, color, subtitle: island },
+    interactive: pickInteractive(i, kit),
+    instruction: "Rezolvă activitatea interactivă și apoi itemul-grilă.",
+    hint1: "Identifică noțiunea centrală din titlu.",
+    hint2: "Elimină variantele care nu respectă norma școlară.",
+    quizQuestion: `Noțiunea „${title}” aparține domeniului:`,
+    quizChoices: [island, "Matematică", "Fizică", "Biologie"],
+    quizAnswer: 0,
+    difficulty: diff(i),
+  }));
+}
 
-const ORT8 = makeTheme({
-  title: "Ortografia: scrierea corectă",
-  text: "Fixăm scrierea cu m înainte de b/p, folosirea lui î și â și legarea corectă a cuvintelor.",
-  svg: {
-    type: "text-bubbles",
-    items: [
-      { text: "câmp", color: "#2563EB", bg: "#DBEAFE" },
-      { text: "înger", color: "#059669", bg: "#D1FAE5" },
-      { text: "s-a", color: "#D97706", bg: "#FEF3C7" },
-      { text: "cântec", color: "#7C3AED", bg: "#EDE9FE" },
-    ],
-  },
-  interactive: {
-    type: "match-pairs",
-    pairs: [
-      ["m înainte de b/p", "câmp"],
-      ["î la începutul cuvântului", "înger"],
-      ["cratimă", "s-a"],
-    ],
-  },
-  instruction: "Leagă regula de exemplul potrivit.",
-  hint1: "Gândește-te la scrierea corectă a sunetului și a legăturii dintre cuvinte.",
-  hint2: "Exemplele bune păstrează sensul și ortografia corectă.",
-  question: "Cum se scrie corect?",
-  choices: ["câmp", "cânp", "cîmp", "câmb"],
-  answer: 0,
-  difficulty: "medium",
-});
+function buildTheme(title: string, topics: TopicSpec[]) {
+  return { labels: buildLabels(title, topics), pool: buildPool(topics) };
+}
 
-const TEXT8L = makeTheme({
-  title: "Textul literar",
-  text: "În textul literar observăm autorul, naratorul, personajele, timpul, spațiul, tema și mesajul.",
-  svg: {
-    type: "icon-grid",
-    items: [
-      { emoji: "📖", label: "text" },
-      { emoji: "🎭", label: "personaje" },
-      { emoji: "🪶", label: "autor" },
-      { emoji: "✨", label: "imagini" },
-    ],
-    bg: "#FFF7ED",
-  },
-  interactive: {
-    type: "match-pairs",
-    pairs: [
-      ["narator", "spune povestea"],
-      ["personaj", "participă la acțiune"],
-      ["tema", "ideea centrală"],
-    ],
-  },
-  instruction: "Potrivește elementul literar cu rolul lui.",
-  hint1: "Naratorul povestește, personajul trăiește acțiunea.",
-  hint2: "Tema este ideea centrală a textului.",
-  question: "Ce face naratorul?",
-  choices: ["spune povestea", "scrie titlul", "numără silabele", "construiește argumente"],
-  answer: 0,
-  difficulty: "medium",
-});
+const MORFO8_TITLES = [
+  "Părți de vorbire flexibile", "Substantiv comun și propriu", "Articol hotărât și nehotărât", "Pronume personale", "Numeral cardinal și ordinal",
+  "Cazurile substantivului", "Adjectiv variabil și invariabil", "Grade de comparație", "Moduri personale ale verbului", "Moduri nepersonale",
+  "Diateze verbale", "Pronume relative", "Acordul numeralului", "Analiza morfologică completă", "Corectarea erorilor morfologice",
+];
 
-const TEXT8N = makeTheme({
-  title: "Textul nonliterar",
-  text: "Aici recunoaștem texte care transmit informații, dau indicații sau încearcă să convingă.",
-  svg: {
-    type: "text-bubbles",
-    items: [
-      { text: "știre", color: "#0F766E", bg: "#CCFBF1" },
-      { text: "instrucțiuni", color: "#B45309", bg: "#FEF3C7" },
-      { text: "reclamă", color: "#BE123C", bg: "#FFE4E6" },
-      { text: "afiș", color: "#2563EB", bg: "#DBEAFE" },
-    ],
-  },
-  interactive: {
-    type: "drag-to-bucket",
-    buckets: [
-      { id: "informeaza", label: "informează" },
-      { id: "explica", label: "explică" },
-      { id: "convinge", label: "convinge" },
-    ],
-    items: [
-      { text: "știre", bucketId: "informeaza" },
-      { text: "articol", bucketId: "informeaza" },
-      { text: "instrucțiuni", bucketId: "explica" },
-      { text: "ghid", bucketId: "explica" },
-      { text: "reclamă", bucketId: "convinge" },
-      { text: "afiș", bucketId: "convinge" },
-    ],
-  },
-  instruction: "Așază fiecare text după scopul lui.",
-  hint1: "Gândește-te dacă textul oferă informații, explicații sau convinge.",
-  hint2: "Textele nonliterare servesc unui scop practic.",
-  question: "Care este un text nonliterar?",
-  choices: ["știre", "basm", "poezie", "legendă"],
-  answer: 0,
-  difficulty: "medium",
-});
+const SINT8_TITLES = [
+  "Subiect și predicat", "Atribut și complement", "Propoziție simplă și dezvoltată", "Coordonare în frază", "Subordonata atributivă",
+  "Subordonata completivă directă", "Subordonata de timp", "Subordonata de cauză", "Subordonata de scop", "Punctuația frazei",
+  "Transformări sintactice", "Ambiguitate sintactică", "Ierarhia propozițiilor", "Corectarea erorilor de sintaxă", "Analiză sintactică integrată",
+];
 
-const ARG8 = makeTheme({
-  title: "Textul argumentativ",
-  text: "În textul argumentativ spunem o opinie, o susținem cu argumente și încheiem cu o concluzie.",
-  svg: {
-    type: "sentence-display",
-    words: ["Cred", "că", "lectura", "este", "utilă"],
-    highlightIndices: [0, 1, 2, 3, 4],
-    color: "#C026D3",
-  },
-  interactive: {
-    type: "match-pairs",
-    pairs: [
-      ["opinie", "ce cred"],
-      ["argument", "de ce cred"],
-      ["concluzie", "încheierea textului"],
-    ],
-  },
-  instruction: "Leagă noțiunea de explicația ei.",
-  hint1: "Opinia arată poziția, argumentul o sprijină.",
-  hint2: "Concluzia închide textul argumentativ.",
-  question: "Ce susține o opinie?",
-  choices: ["argumentul", "tema", "naratorul", "cratima"],
-  answer: 0,
-  difficulty: "hard",
-});
+const ORT8_TITLES = [
+  "Diacritice obligatorii", "Î și â", "M înainte de b/p", "Scrierea cu cratimă", "Majuscula la nume proprii",
+  "Virgula în incidente", "Două puncte și dialog", "Omofone gramaticale", "Ortografia împrumuturilor", "Punct și virgulă",
+  "Rescriere cu diacritice", "Ortografie contextuală avansată", "Normă și uz", "Rescriere ortografică integrală", "Mini-simulare ortografie",
+];
 
-const FIG8 = makeTheme({
-  title: "Figuri de stil",
-  text: "Figurile de stil dau expresivitate: comparația apropie, metafora înlocuiește, personificarea umanizează.",
-  svg: {
-    type: "icon-grid",
-    items: [
-      { emoji: "🔗", label: "comparație" },
-      { emoji: "✨", label: "metaforă" },
-      { emoji: "🤝", label: "personificare" },
-      { emoji: "🎨", label: "expresivitate" },
-    ],
-    bg: "#FDF2F8",
-  },
-  interactive: {
-    type: "match-pairs",
-    pairs: [
-      ["comparație", "asemănare cu „ca” sau „precum”"],
-      ["metaforă", "spune pe ascuns o asemănare"],
-      ["personificare", "dă trăsături omenești"],
-    ],
-  },
-  instruction: "Potrivește figura de stil cu explicația ei.",
-  hint1: "Comparația folosește cuvinte de asemănare.",
-  hint2: "Personificarea dă viață lucrurilor și fenomenelor.",
-  question: "Ce figură folosește cuvântul „ca”?",
-  choices: ["comparația", "metafora", "ironia", "epitetul"],
-  answer: 0,
-  difficulty: "hard",
-});
+const ARG8_TITLES = [
+  "Structura textului argumentativ", "Teză și opinie", "Argument și exemplu", "Conectori argumentativi", "Concluzia",
+  "Teză explicită și implicită", "Calitatea argumentului", "Contraargument și refutare", "Ordinea logică a ideilor", "Registrul formal",
+  "Sofisme frecvente", "Rescriere argumentativă concisă", "Evaluare critică de paragraf", "Mini-simulare argumentare", "Verificare finală argumentativă",
+];
 
-const COMP8 = makeTheme({
-  title: "Compunerea",
-  text: "O compunere bună are introducere, cuprins și încheiere; ideile se ordonează clar și logic.",
-  svg: {
-    type: "word-display",
-    word: "introducere - cuprins - încheiere",
-    color: "#7C3AED",
-    subtitle: "planul textului",
-  },
-  interactive: {
-    type: "match-pairs",
-    pairs: [
-      ["introducere", "prezintă tema"],
-      ["cuprins", "dezvoltă ideile"],
-      ["încheiere", "închide textul"],
-    ],
-  },
-  instruction: "Leagă partea compunerii de rolul ei.",
-  hint1: "Introducerea deschide, cuprinsul dezvoltă, încheierea închide.",
-  hint2: "O compunere bună are ordine și coerență.",
-  question: "Care parte dezvoltă ideile?",
-  choices: ["cuprinsul", "titlul", "motto-ul", "aliniatul"],
-  answer: 0,
-  difficulty: "hard",
-});
+const FIG8_TITLES = [
+  "Comparația", "Epitetul", "Personificarea", "Metafora", "Repetiția",
+  "Enumerația", "Antiteza", "Hiperbola", "Inversiunea", "Sinestezia",
+  "Simbolul", "Aliterația", "Analiză stilistică mixtă", "Funcția expresivă", "Mini-simulare figuri de stil",
+];
 
-const RECAP8 = makeTheme({
-  title: "Recapitulare",
-  text: "Recapitulăm noțiunile importante din morfologie, sintaxă, ortografie, literatură și comunicare.",
-  svg: {
-    type: "icon-grid",
-    items: [
-      { emoji: "🎓", label: "morfologie" },
-      { emoji: "📊", label: "sintaxă" },
-      { emoji: "✏️", label: "ortografie" },
-      { emoji: "📚", label: "literatură" },
-      { emoji: "📰", label: "comunicare" },
-      { emoji: "🏆", label: "recapitulare" },
-    ],
-    bg: "#EEF2FF",
-  },
-  interactive: {
-    type: "drag-to-bucket",
-    buckets: [
-      { id: "morfologie", label: "morfologie" },
-      { id: "sintaxa", label: "sintaxă" },
-      { id: "ortografie", label: "ortografie" },
-      { id: "literatura", label: "literatură" },
-      { id: "comunicare", label: "comunicare" },
-    ],
-    items: [
-      { text: "substantiv", bucketId: "morfologie" },
-      { text: "verb", bucketId: "morfologie" },
-      { text: "subiect", bucketId: "sintaxa" },
-      { text: "predicat", bucketId: "sintaxa" },
-      { text: "cratimă", bucketId: "ortografie" },
-      { text: "diacritice", bucketId: "ortografie" },
-      { text: "narator", bucketId: "literatura" },
-      { text: "metaforă", bucketId: "literatura" },
-      { text: "știre", bucketId: "comunicare" },
-      { text: "reclamă", bucketId: "comunicare" },
-    ],
-  },
-  instruction: "Așază noțiunile în aria potrivită.",
-  hint1: "Privește la ce parte a limbii sau la ce tip de text se referă.",
-  hint2: "Recapitularea amestecă toate temele importante din clasa a VIII-a.",
-  question: "Care noțiune ține de sintaxă?",
-  choices: ["predicat", "câmp", "reclamă", "metaforă"],
-  answer: 0,
-  difficulty: "hard",
-});
+const COMP8_TITLES = [
+  "Planul compunerii", "Paragraful coerent", "Conectori de organizare", "Compunerea narativă", "Compunerea descriptivă",
+  "Titlul potrivit", "Evitarea repetițiilor", "Introducerea atractivă", "Concluzia eficientă", "Coerența dintre paragrafe",
+  "Registrul formal la examen", "Revizuirea finală", "Mini-simulare redactare", "Autoevaluarea compunerii", "Compunere pentru evaluare",
+];
+
+const RECAP8_TITLES = [
+  "Recapitulare morfologie", "Recapitulare sintaxă", "Recapitulare ortografie", "Recapitulare argumentare", "Recapitulare figuri de stil",
+  "Recap subordonate", "Recap omofone și cratimă", "Recap structură compunere", "Recap identificare mixtă", "Recap item integrat",
+  "Recap analiză integrată", "Recap corectare erori", "Recap frază complexă", "Recap argumentare completă", "Strategie de examen",
+];
+
+const MORFO8_KIT: Kit = {
+  pairs: [["substantiv", "numește"], ["verb", "acțiune"], ["adjectiv", "însușire"], ["pronume", "înlocuiește nume"]],
+  buckets: [{ id: "flex", label: "flexibile" }, { id: "neflex", label: "neflexibile" }],
+  bucketItems: [{ text: "substantiv", bucketId: "flex" }, { text: "verb", bucketId: "flex" }, { text: "adjectiv", bucketId: "flex" }, { text: "adverb", bucketId: "neflex" }, { text: "prepoziție", bucketId: "neflex" }, { text: "conjuncție", bucketId: "neflex" }],
+  tokens: ["substantiv", "verb", "adjectiv", "adverb", "pronume", "interjecție"],
+  tokenIndices: [0, 1, 2, 4],
+  fragments: ["Identific partea de vorbire", "stabilesc categoria", "verific acordul", "conchid"],
+  orderWords: ["parte de vorbire", "categorie", "valoare", "concluzie"],
+  order: [0, 1, 2, 3],
+  gapSentence: "Noi ___ corect exercițiul.",
+  gapChoices: ["rezolvăm", "rezolvă", "rezolvi", "rezolva"],
+  gapIndex: 0,
+};
+
+const SINT8_KIT: Kit = {
+  pairs: [["subiect", "cine?"], ["predicat", "ce face?"], ["atribut", "determină substantiv"], ["complement", "determină verb"]],
+  buckets: [{ id: "princ", label: "principală" }, { id: "sub", label: "subordonată" }],
+  bucketItems: [{ text: "propoziție de bază", bucketId: "princ" }, { text: "independentă", bucketId: "princ" }, { text: "atributivă", bucketId: "sub" }, { text: "completivă directă", bucketId: "sub" }, { text: "de timp", bucketId: "sub" }, { text: "de scop", bucketId: "sub" }],
+  tokens: ["și", "dar", "ori", "că", "când", "fiindcă"],
+  tokenIndices: [0, 1, 2, 3, 4, 5],
+  fragments: ["Când ajung", ",", "te sun", "."],
+  orderWords: ["identific predicatele", "separ propozițiile", "stabilesc raporturile", "numesc tipurile"],
+  order: [0, 1, 2, 3],
+  gapSentence: "Știu ___ vei reuși.",
+  gapChoices: ["că", "deși", "fiindcă", "ca să"],
+  gapIndex: 0,
+};
+
+const ORT8_KIT: Kit = {
+  pairs: [["s-a", "cratimă"], ["învață", "diacritice"], ["câmp", "m înainte de p"], ["Mara", "majusculă"]],
+  buckets: [{ id: "corect", label: "corect" }, { id: "gresit", label: "greșit" }],
+  bucketItems: [{ text: "s-a dus", bucketId: "corect" }, { text: "sau dus", bucketId: "gresit" }, { text: "învață", bucketId: "corect" }, { text: "invata", bucketId: "gresit" }, { text: "câmp", bucketId: "corect" }, { text: "cîmp", bucketId: "gresit" }],
+  tokens: ["școală", "scoala", "țară", "tara", "română", "romina"],
+  tokenIndices: [0, 2, 4],
+  fragments: ["Ieri", "ne-am", "întâlnit", "în", "Cluj-Napoca", "."],
+  orderWords: ["diacritice", "cratimă", "majusculă", "punctuație"],
+  order: [0, 1, 2, 3],
+  gapSentence: "El ___ explicat tema.",
+  gapChoices: ["ia", "i-a", "i a", "ia-"],
+  gapIndex: 1,
+};
+
+const ARG8_KIT: Kit = {
+  pairs: [["teză", "opinie"], ["argument", "motiv"], ["exemplu", "dovadă"], ["concluzie", "încheiere"]],
+  buckets: [{ id: "bun", label: "valid" }, { id: "slab", label: "nevalid" }],
+  bucketItems: [{ text: "opinie clară", bucketId: "bun" }, { text: "argument relevant", bucketId: "bun" }, { text: "exemplu concret", bucketId: "bun" }, { text: "generalizare fără dovadă", bucketId: "slab" }, { text: "atac la persoană", bucketId: "slab" }, { text: "fără concluzie", bucketId: "slab" }],
+  tokens: ["în primul rând", "de exemplu", "în plus", "în concluzie", "poate", "na"],
+  tokenIndices: [0, 1, 2, 3],
+  fragments: ["Formulez teza", "aduc argument", "dau exemplu", "închei cu concluzie"],
+  orderWords: ["teză", "argument", "exemplu", "concluzie"],
+  order: [0, 1, 2, 3],
+  gapSentence: "___, ideea este susținută logic.",
+  gapChoices: ["În concluzie", "Deși", "Poate", "Când"],
+  gapIndex: 0,
+};
+
+const FIG8_KIT: Kit = {
+  pairs: [["comparație", "cu „ca”"], ["metaforă", "asemănare implicită"], ["personificare", "trăsături umane"], ["epitet", "determinant expresiv"]],
+  buckets: [{ id: "figur", label: "figură" }, { id: "literal", label: "literal" }],
+  bucketItems: [{ text: "alb ca neaua", bucketId: "figur" }, { text: "ochi de foc", bucketId: "figur" }, { text: "vântul șoptește", bucketId: "figur" }, { text: "plouă", bucketId: "literal" }, { text: "copacul crește", bucketId: "literal" }, { text: "apa curge", bucketId: "literal" }],
+  tokens: ["ca", "precum", "marea de stele", "vântul șoptește", "copac înalt", "foarte frumos"],
+  tokenIndices: [0, 1, 2, 3],
+  fragments: ["Luna", "zâmbește", "ca", "o", "lampă", "."],
+  orderWords: ["indiciu lexical", "numesc figura", "explic efectul", "verific contextul"],
+  order: [0, 1, 2, 3],
+  gapSentence: "„Marea de oameni” este ___ .",
+  gapChoices: ["metaforă", "comparație", "epitet", "antiteză"],
+  gapIndex: 0,
+};
+
+const COMP8_KIT: Kit = {
+  pairs: [["introducere", "prezintă tema"], ["cuprins", "dezvoltă ideile"], ["încheiere", "finalizează"], ["paragraf", "organizează logic"]],
+  buckets: [{ id: "formal", label: "formal" }, { id: "informal", label: "informal" }],
+  bucketItems: [{ text: "consider că", bucketId: "formal" }, { text: "în concluzie", bucketId: "formal" }, { text: "de exemplu", bucketId: "formal" }, { text: "super tare", bucketId: "informal" }, { text: "chestia asta", bucketId: "informal" }, { text: "na", bucketId: "informal" }],
+  tokens: ["în primul rând", "în plus", "de exemplu", "în concluzie", "brusc", "fără legătură"],
+  tokenIndices: [0, 1, 2, 3],
+  fragments: ["Planific", "redactez", "revizuiesc", "finalizez"],
+  orderWords: ["planificare", "redactare", "revizuire", "variantă finală"],
+  order: [0, 1, 2, 3],
+  gapSentence: "___, această experiență a fost utilă.",
+  gapChoices: ["În concluzie", "Totuși", "Dacă", "Poate"],
+  gapIndex: 0,
+};
+
+const RECAP8_KIT: Kit = {
+  pairs: [["substantiv", "morfologie"], ["predicat", "sintaxă"], ["cratimă", "ortografie"], ["metaforă", "stilistică"]],
+  buckets: [{ id: "corect", label: "încadrare corectă" }, { id: "gresit", label: "încadrare greșită" }],
+  bucketItems: [{ text: "verb - morfologie", bucketId: "corect" }, { text: "subiect - sintaxă", bucketId: "corect" }, { text: "diacritice - ortografie", bucketId: "corect" }, { text: "metaforă - ortografie", bucketId: "gresit" }, { text: "predicat - morfologie", bucketId: "gresit" }, { text: "virgulă - figură de stil", bucketId: "gresit" }],
+  tokens: ["teză", "argument", "subiect", "predicat", "s-a", "metaforă"],
+  tokenIndices: [0, 1, 2, 3, 4, 5],
+  fragments: ["citesc cerința", "identific noțiunea", "rezolv", "verific"],
+  orderWords: ["citire atentă", "analiză", "rezolvare", "verificare"],
+  order: [0, 1, 2, 3],
+  gapSentence: "Înainte de predare, ___ răspunsul.",
+  gapChoices: ["verific", "ghicesc", "omit", "rescriu la întâmplare"],
+  gapIndex: 0,
+};
+
+const MORFO8 = buildTheme("MORFO8 · Morfologie", buildTopics("Morfologie", MORFO8_TITLES, MORFO8_KIT, "#7C3AED"));
+const SINT8 = buildTheme("SINT8 · Sintaxă", buildTopics("Sintaxă", SINT8_TITLES, SINT8_KIT, "#2563EB"));
+const ORT8 = buildTheme("ORT8 · Ortografie", buildTopics("Ortografie", ORT8_TITLES, ORT8_KIT, "#DC2626"));
+const ARG8 = buildTheme("ARG8 · Argumentare", buildTopics("Argumentare", ARG8_TITLES, ARG8_KIT, "#C026D3"));
+const FIG8 = buildTheme("FIG8 · Figuri de stil", buildTopics("Figuri de stil", FIG8_TITLES, FIG8_KIT, "#BE123C"));
+const COMP8 = buildTheme("COMP8 · Compunere", buildTopics("Compunere", COMP8_TITLES, COMP8_KIT, "#047857"));
+const RECAP8 = buildTheme("RECAP8 · Recapitulare", buildTopics("Recapitulare", RECAP8_TITLES, RECAP8_KIT, "#0891B2"));
 
 export const MORFO8_LABELS = MORFO8.labels;
 export const MORFO8_POOL = MORFO8.pool;
@@ -412,12 +328,6 @@ export const SINT8_POOL = SINT8.pool;
 
 export const ORT8_LABELS = ORT8.labels;
 export const ORT8_POOL = ORT8.pool;
-
-export const TEXT8L_LABELS = TEXT8L.labels;
-export const TEXT8L_POOL = TEXT8L.pool;
-
-export const TEXT8N_LABELS = TEXT8N.labels;
-export const TEXT8N_POOL = TEXT8N.pool;
 
 export const ARG8_LABELS = ARG8.labels;
 export const ARG8_POOL = ARG8.pool;
@@ -430,3 +340,9 @@ export const COMP8_POOL = COMP8.pool;
 
 export const RECAP8_LABELS = RECAP8.labels;
 export const RECAP8_POOL = RECAP8.pool;
+
+// Kompatibilitás a meglévő C8 importokhoz.
+export const TEXT8L_LABELS = FIG8_LABELS;
+export const TEXT8L_POOL = FIG8_POOL;
+export const TEXT8N_LABELS = ARG8_LABELS;
+export const TEXT8N_POOL = ARG8_POOL;
