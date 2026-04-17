@@ -27,6 +27,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import K1Explorer from "@/app/astroenglish/games/k1/K1Explorer";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 import {
   K1_ISLANDS, K1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -388,6 +389,7 @@ export default function AstroEnglishK1Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -589,6 +591,8 @@ export default function AstroEnglishK1Page() {
             </div>
           </div>
         </div>
+        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+        <VisualLab subject="deutsch" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

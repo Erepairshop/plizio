@@ -41,6 +41,7 @@ import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import K5Explorer from "@/app/astroenglish/games/k5/K5Explorer";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import { K5_ISLAND_SVGS } from "@/app/astroenglish/islands-k5";
 import {
   K5_ISLANDS, K5_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -777,6 +778,7 @@ export default function AstroEnglishK5Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -981,6 +983,8 @@ export default function AstroEnglishK5Page() {
             </div>
           </div>
         </div>
+        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+        <VisualLab subject="deutsch" grade={5} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

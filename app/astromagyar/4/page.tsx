@@ -33,6 +33,7 @@ import {
   generateIslandQuestionsO4, generateCheckpointQuestionsO4,
 } from "@/lib/astroMagyar4";
 import { O4_ISLAND_SVGS } from "@/app/astromagyar/islands-o4";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -281,6 +282,7 @@ export default function AstroMagyarO4Page() {
   const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const avatarProps = {
     gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe,
@@ -624,6 +626,8 @@ export default function AstroMagyarO4Page() {
 
       {/* Milestones */}
       <MilestonePopup />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="deutsch" grade={4} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

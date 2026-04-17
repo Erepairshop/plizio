@@ -4,6 +4,8 @@ export type VisualLabGameId =
   | "signal-runner"
   | "constellation-builder"
   | "memory-radar"
+  | "sequence-sort"
+  | "fact-swipe"
   | "shape-sorter"
   | "pattern-match"
   | "color-pattern"
@@ -284,4 +286,36 @@ export interface SachkundeVisualLabGradePool {
   signalRunner: SignalRunnerRound[];
   constellationBuilder: ConstellationBuilderRound[];
   memoryRadar: MemoryRadarRound[];
+  sequenceSort: SequenceSortRound[];
+  factSwipe: FactSwipeRound[];
+}
+
+export interface SequenceSortItem {
+  id: string;
+  label: string;
+  emoji: string;
+}
+
+export interface SequenceSortRound {
+  id: string;
+  title: string;
+  instruction: string;
+  sequence: SequenceSortItem[]; // Must be correctly ordered
+  theme: { bg: string; accent: string };
+}
+
+export interface FactSwipeCard {
+  id: string;
+  statement: string;
+  isTrue: boolean;
+  explanation: string;
+  emoji: string;
+}
+
+export interface FactSwipeRound {
+  id: string;
+  title: string;
+  instruction: string;
+  cards: FactSwipeCard[];
+  theme: { bg: string; accent: string };
 }

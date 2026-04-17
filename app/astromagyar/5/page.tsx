@@ -35,6 +35,7 @@ import {
 } from "@/lib/astroMagyar5";
 import type { IslandDef, MissionDef, Lang, MagyarProgress, MissionCategory } from "@/lib/astroMagyar";
 import { O5_ISLAND_SVGS } from "@/app/astromagyar/islands-o5";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -292,6 +293,7 @@ export default function AstroMagyarO5Page() {
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<"idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing">("idle");
   const [avatarJumpTrigger] = useState({ reaction: null as 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null, timestamp: 0 });
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const color = activeIsland?.color || "#FF2D78";
   const bgColor = activeIsland?.color ?? "#FF2D78";
@@ -668,6 +670,8 @@ export default function AstroMagyarO5Page() {
           />
         </div>
       </div>
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="deutsch" grade={5} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

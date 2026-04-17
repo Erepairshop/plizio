@@ -64,6 +64,46 @@ export const SACHKUNDE_VISUAL_LAB_K2: SachkundeVisualLabGradePool = {
         { id: "stein", label: "Stein", emoji: "🪨" },
         { id: "schnee", label: "Schnee", emoji: "❄️" },
       ],
+    },
+    {
+      id: "k2-feuerwehr",
+      title: "Feuerwehr-Einsatz",
+      prompt: "Fange nur Dinge, die zur Feuerwehr gehören.",
+      goal: 6,
+      speed: 6,
+      theme: { sky: "#450a0a", glow: "#ef4444", accent: "#f87171" },
+      correctItems: [
+        { id: "feuerwehrauto", label: "Feuerwehrauto", emoji: "🚒" },
+        { id: "feuerloescher", label: "Feuerlöscher", emoji: "🧯" },
+        { id: "helm", label: "Helm", emoji: "⛑️" },
+        { id: "schlauch", label: "Schlauch", emoji: "🚿" },
+      ],
+      wrongItems: [
+        { id: "besen", label: "Besen", emoji: "🧹" },
+        { id: "teddy", label: "Teddy", emoji: "🧸" },
+        { id: "buch", label: "Buch", emoji: "📖" },
+        { id: "gitarre", label: "Gitarre", emoji: "🎸" },
+      ],
+    },
+    {
+      id: "k2-berufe-werkzeuge",
+      title: "Werkzeug-Kiste",
+      prompt: "Fange nur Handwerkszeug ein.",
+      goal: 5,
+      speed: 5,
+      theme: { sky: "#3f3f46", glow: "#a1a1aa", accent: "#d4d4d8" },
+      correctItems: [
+        { id: "hammer", label: "Hammer", emoji: "🔨" },
+        { id: "schraubenschluessel", label: "Schraubenschlüssel", emoji: "🔧" },
+        { id: "saege", label: "Säge", emoji: "🪚" },
+        { id: "schraubenzieher", label: "Schraubenzieher", emoji: "🪛" },
+      ],
+      wrongItems: [
+        { id: "ball", label: "Ball", emoji: "⚽" },
+        { id: "brille", label: "Brille", emoji: "👓" },
+        { id: "pfanne", label: "Pfanne", emoji: "🍳" },
+        { id: "stift", label: "Stift", emoji: "🖍️" },
+      ],
     }
   ],
   orbitSort: [
@@ -119,6 +159,42 @@ export const SACHKUNDE_VISUAL_LAB_K2: SachkundeVisualLabGradePool = {
         { id: "lutscher", label: "Lutscher", emoji: "🍭", bucketId: "ungesund" },
         { id: "schokolade", label: "Schokolade", emoji: "🍫", bucketId: "ungesund" },
         { id: "cola", label: "Cola", emoji: "🥤", bucketId: "ungesund" },
+      ],
+    },
+    {
+      id: "k2-magnetismus-sort",
+      title: "Magnet-Labor",
+      instruction: "Ist es magnetisch oder nicht magnetisch?",
+      theme: { bg: "#2e1065", orbit: "#8b5cf6", accent: "#c084fc" },
+      buckets: [
+        { id: "magnetisch", label: "Magnetisch 🧲", color: "#8b5cf6" },
+        { id: "nicht-magnetisch", label: "Nicht magnetisch 🪵", color: "#64748b" },
+      ],
+      items: [
+        { id: "nagel", label: "Nagel", emoji: "🔩", bucketId: "magnetisch" },
+        { id: "schraube", label: "Schraube", emoji: "🔧", bucketId: "magnetisch" },
+        { id: "klammer", label: "Büroklammer", emoji: "📎", bucketId: "magnetisch" },
+        { id: "plastik", label: "Plastik", emoji: "🥤", bucketId: "nicht-magnetisch" },
+        { id: "holz", label: "Holz", emoji: "🪵", bucketId: "nicht-magnetisch" },
+        { id: "glas", label: "Glas", emoji: "🥛", bucketId: "nicht-magnetisch" },
+      ],
+    },
+    {
+      id: "k2-pflanzen-teile",
+      title: "Botanischer Garten",
+      instruction: "Ist das eine Pflanze oder ein Tier?",
+      theme: { bg: "#064e3b", orbit: "#10b981", accent: "#34d399" },
+      buckets: [
+        { id: "pflanze", label: "Pflanze 🌿", color: "#10b981" },
+        { id: "tier", label: "Tier 🦊", color: "#f59e0b" },
+      ],
+      items: [
+        { id: "baum", label: "Baum", emoji: "🌳", bucketId: "pflanze" },
+        { id: "blume", label: "Blume", emoji: "🌻", bucketId: "pflanze" },
+        { id: "gras", label: "Gras", emoji: "🌾", bucketId: "pflanze" },
+        { id: "hund", label: "Hund", emoji: "🐕", bucketId: "tier" },
+        { id: "vogel", label: "Vogel", emoji: "🐦", bucketId: "tier" },
+        { id: "fisch", label: "Fisch", emoji: "🐟", bucketId: "tier" },
       ],
     }
   ],
@@ -192,6 +268,111 @@ export const SACHKUNDE_VISUAL_LAB_K2: SachkundeVisualLabGradePool = {
           failFeedback: "Nein, das ist nicht nett und hilft niemandem.",
         }
       ]
+    },
+    {
+      id: "k2-verkehrssicherheit",
+      title: "Sicher im Verkehr",
+      instruction: "Wie verhältst du dich richtig im Straßenverkehr?",
+      scenes: [
+        {
+          id: "ampel",
+          title: "An der Ampel",
+          prompt: "Die Ampel zeigt Rot. Was machst du?",
+          sceneType: "safety",
+          visual: { icon: "🚦", bg: "#450a0a", accent: "#ef4444" },
+          choices: [
+            { id: "warten", label: "Ich bleibe stehen und warte auf Grün." },
+            { id: "rennen", label: "Ich renne schnell rüber." },
+          ],
+          correctChoiceId: "warten",
+          successFeedback: "Richtig! Bei Rot musst du immer stehen bleiben.",
+          failFeedback: "Falsch! Bei Rot über die Straße zu gehen ist lebensgefährlich.",
+        },
+        {
+          id: "fahrrad",
+          title: "Fahrrad fahren",
+          prompt: "Du möchtest mit dem Fahrrad fahren. Was setzt du auf?",
+          sceneType: "safety",
+          visual: { icon: "🚲", bg: "#0f172a", accent: "#3b82f6" },
+          choices: [
+            { id: "helm", label: "Ich setze meinen Fahrradhelm auf." },
+            { id: "muetze", label: "Ich setze eine coole Mütze auf." },
+          ],
+          correctChoiceId: "helm",
+          successFeedback: "Sehr gut! Ein Helm schützt deinen Kopf.",
+          failFeedback: "Leider falsch. Eine Mütze schützt dich bei einem Unfall nicht.",
+        }
+      ]
+    },
+    {
+      id: "k2-umwelt-pflanzen",
+      title: "Pflanzen-Pflege",
+      instruction: "Was brauchen Pflanzen zum Leben?",
+      scenes: [
+        {
+          id: "durstige_pflanze",
+          title: "Die Pflanze lässt den Kopf hängen",
+          prompt: "Deine Zimmerpflanze sieht ganz trocken aus.",
+          sceneType: "community",
+          visual: { icon: "🪴", bg: "#14532d", accent: "#22c55e" },
+          choices: [
+            { id: "giessen", label: "Ich gebe ihr Wasser." },
+            { id: "streicheln", label: "Ich streichle ihre Blätter." },
+          ],
+          correctChoiceId: "giessen",
+          successFeedback: "Super! Wasser ist lebenswichtig für Pflanzen.",
+          failFeedback: "Streicheln ist nett, aber ohne Wasser verdurstet sie.",
+        },
+        {
+          id: "sonnenlicht",
+          title: "Ein neuer Platz",
+          prompt: "Wo wächst die Pflanze am besten?",
+          sceneType: "community",
+          visual: { icon: "☀️", bg: "#422006", accent: "#eab308" },
+          choices: [
+            { id: "fenster", label: "An einem hellen Fenster." },
+            { id: "schrank", label: "In einem dunklen Schrank." },
+          ],
+          correctChoiceId: "fenster",
+          successFeedback: "Richtig! Pflanzen brauchen Licht zum Wachsen.",
+          failFeedback: "Falsch. Im Dunkeln kann die Pflanze nicht wachsen.",
+        }
+      ]
+    },
+    {
+      id: "k2-wetter-kleidung",
+      title: "Wetter-Check",
+      instruction: "Zieh dich passend zum Wetter an.",
+      scenes: [
+        {
+          id: "regen",
+          title: "Es regnet",
+          prompt: "Draußen regnet es in Strömen. Was ziehst du an?",
+          sceneType: "safety",
+          visual: { icon: "🌧️", bg: "#082f49", accent: "#0ea5e9" },
+          choices: [
+            { id: "regenjacke", label: "Regenjacke und Gummistiefel." },
+            { id: "tshirt", label: "Nur ein T-Shirt." },
+          ],
+          correctChoiceId: "regenjacke",
+          successFeedback: "Richtig! So bleibst du schön trocken.",
+          failFeedback: "Falsch. Da wirst du sofort nass und kannst krank werden.",
+        },
+        {
+          id: "schnee",
+          title: "Es schneit",
+          prompt: "Alles ist weiß voller Schnee. Du willst nach draußen.",
+          sceneType: "safety",
+          visual: { icon: "❄️", bg: "#0f172a", accent: "#e2e8f0" },
+          choices: [
+            { id: "schneeanzug", label: "Schneeanzug, Mütze und Handschuhe." },
+            { id: "kurzehose", label: "Kurze Hose und Sandalen." },
+          ],
+          correctChoiceId: "schneeanzug",
+          successFeedback: "Perfekt! So bleibst du im Schnee schön warm.",
+          failFeedback: "Oh nein! Darin würdest du sehr schnell frieren.",
+        }
+      ]
     }
   ],
   constellationBuilder: [
@@ -248,6 +429,42 @@ export const SACHKUNDE_VISUAL_LAB_K2: SachkundeVisualLabGradePool = {
         { id: "slot3", label: "Frisst das Tier" },
       ],
       solution: ["blatt", "raupe", "vogel"],
+    },
+    {
+      id: "k2-notruf",
+      title: "Notruf absetzen",
+      instruction: "Was machst du zuerst bei einem Unfall?",
+      hint: "Erst schauen, dann anrufen, dann warten.",
+      theme: { bg: "#450a0a", accent: "#ef4444", card: "rgba(239,68,68,0.1)" },
+      parts: [
+        { id: "gucken", label: "Was ist passiert?", emoji: "👀" },
+        { id: "anrufen", label: "112 anrufen", emoji: "📞" },
+        { id: "warten", label: "Auf Hilfe warten", emoji: "🚑" },
+      ],
+      slots: [
+        { id: "slot1", label: "Zuerst" },
+        { id: "slot2", label: "Dann" },
+        { id: "slot3", label: "Zuletzt" },
+      ],
+      solution: ["gucken", "anrufen", "warten"],
+    },
+    {
+      id: "k2-brot-backen",
+      title: "Vom Korn zum Brot",
+      instruction: "Wie macht der Bäcker das Brot?",
+      hint: "Aus Korn wird Mehl, und daraus Teig.",
+      theme: { bg: "#422006", accent: "#f59e0b", card: "rgba(245,158,11,0.1)" },
+      parts: [
+        { id: "korn", label: "Korn ernten", emoji: "🌾" },
+        { id: "mehl", label: "Mehl mahlen", emoji: "🍚" },
+        { id: "brot", label: "Brot backen", emoji: "🍞" },
+      ],
+      slots: [
+        { id: "slot1", label: "Feld" },
+        { id: "slot2", label: "Mühle" },
+        { id: "slot3", label: "Bäckerei" },
+      ],
+      solution: ["korn", "mehl", "brot"],
     }
   ],
   memoryRadar: [
@@ -289,6 +506,178 @@ export const SACHKUNDE_VISUAL_LAB_K2: SachkundeVisualLabGradePool = {
         { id: "traktor", label: "Traktor", emoji: "🚜" },
         { id: "pinsel", label: "Pinsel", emoji: "🖌️" },
       ],
+    },
+    {
+      id: "k2-magnet-radar",
+      title: "Magnet-Scanner",
+      instruction: "Merke dir nur die magnetischen Dinge.",
+      flashDurationMs: 2000,
+      selectionLimit: 3,
+      theme: { bg: "#2e1065", accent: "#c084fc", radar: "#a855f7" },
+      targetItems: [
+        { id: "nagel", label: "Nagel", emoji: "🔩" },
+        { id: "schraube", label: "Schraube", emoji: "🔧" },
+        { id: "magnet", label: "Hufeisenmagnet", emoji: "🧲" },
+      ],
+      decoyItems: [
+        { id: "holz", label: "Holz", emoji: "🪵" },
+        { id: "stein", label: "Stein", emoji: "🪨" },
+        { id: "papier", label: "Papier", emoji: "📄" },
+        { id: "glas", label: "Glas", emoji: "🥛" },
+      ],
+    },
+    {
+      id: "k2-wetter-radar",
+      title: "Wetter-Beobachter",
+      instruction: "Merke dir alle Wetter-Zeichen.",
+      flashDurationMs: 2500,
+      selectionLimit: 4,
+      theme: { bg: "#082f49", accent: "#38bdf8", radar: "#0ea5e9" },
+      targetItems: [
+        { id: "sonne", label: "Sonne", emoji: "☀️" },
+        { id: "regen", label: "Regen", emoji: "🌧️" },
+        { id: "schnee", label: "Schnee", emoji: "❄️" },
+        { id: "blitz", label: "Blitz", emoji: "⚡" },
+      ],
+      decoyItems: [
+        { id: "haus", label: "Haus", emoji: "🏠" },
+        { id: "auto", label: "Auto", emoji: "🚗" },
+        { id: "baum", label: "Baum", emoji: "🌲" },
+        { id: "hund", label: "Hund", emoji: "🐕" },
+      ],
+    },
+    {
+      id: "k2-pflanzen-radar",
+      title: "Botaniker-Radar",
+      instruction: "Merke dir die Pflanzen.",
+      flashDurationMs: 2200,
+      selectionLimit: 3,
+      theme: { bg: "#14532d", accent: "#4ade80", radar: "#22c55e" },
+      targetItems: [
+        { id: "blume", label: "Blume", emoji: "🌸" },
+        { id: "baum", label: "Baum", emoji: "🌳" },
+        { id: "kaktus", label: "Kaktus", emoji: "🌵" },
+      ],
+      decoyItems: [
+        { id: "schuh", label: "Schuh", emoji: "👟" },
+        { id: "ball", label: "Ball", emoji: "⚽" },
+        { id: "fahrrad", label: "Fahrrad", emoji: "🚲" },
+        { id: "uhr", label: "Uhr", emoji: "⌚" },
+      ],
     }
+  ],
+  sequenceSort: [
+    {
+      id: "k2-seq-water",
+      title: "Der Wasserkreislauf",
+      instruction: "Bringe den Wasserkreislauf in die richtige Reihenfolge.",
+      theme: { bg: "#082f49", accent: "#38bdf8" },
+      sequence: [
+        { id: "verdunstung", label: "Wasser verdunstet", emoji: "☀️" },
+        { id: "wolkenbildung", label: "Wolken entstehen", emoji: "☁️" },
+        { id: "regen", label: "Es regnet", emoji: "🌧️" },
+      ],
+    },
+    {
+      id: "k2-seq-plant",
+      title: "Das Leben einer Pflanze",
+      instruction: "Wie wächst eine Pflanze heran?",
+      theme: { bg: "#14532d", accent: "#4ade80" },
+      sequence: [
+        { id: "samen", label: "Der Samen in der Erde", emoji: "🌱" },
+        { id: "spross", label: "Ein kleiner Spross", emoji: "🌿" },
+        { id: "blume", label: "Die fertige Blume", emoji: "🌻" },
+      ],
+    },
+    {
+      id: "k2-seq-frog",
+      title: "Vom Ei zum Frosch",
+      instruction: "Wie entwickelt sich ein Frosch?",
+      theme: { bg: "#064e3b", accent: "#10b981" },
+      sequence: [
+        { id: "laich", label: "Froschlaich", emoji: "🥚" },
+        { id: "kaulquappe", label: "Kaulquappe", emoji: "🐟" },
+        { id: "frosch", label: "Frosch", emoji: "🐸" },
+      ],
+    },
+    {
+      id: "k2-seq-bread",
+      title: "Brot backen",
+      instruction: "Vom Feld bis auf den Tisch.",
+      theme: { bg: "#422006", accent: "#f59e0b" },
+      sequence: [
+        { id: "ernte", label: "Getreide ernten", emoji: "🌾" },
+        { id: "mehl", label: "Mehl mahlen", emoji: "🍚" },
+        { id: "brot", label: "Brot backen", emoji: "🍞" },
+      ],
+    },
+    {
+      id: "k2-seq-traffic",
+      title: "An der Ampel",
+      instruction: "Wie funktioniert die Fußgängerampel?",
+      theme: { bg: "#1e293b", accent: "#ef4444" },
+      sequence: [
+        { id: "rot", label: "Rot: Warten", emoji: "🛑" },
+        { id: "gruen", label: "Grün: Gehen", emoji: "🚶" },
+        { id: "rot2", label: "Rot: Wieder warten", emoji: "🛑" },
+      ],
+    },
+  ],
+  factSwipe: [
+    {
+      id: "k2-fact-plants",
+      title: "Pflanzen-Wissen",
+      instruction: "Stimmt das?",
+      theme: { bg: "#14532d", accent: "#22c55e" },
+      cards: [
+        { id: "c1", statement: "Pflanzen brauchen Licht zum Wachsen.", isTrue: true, explanation: "Ohne Licht können Pflanzen nicht überleben.", emoji: "☀️" },
+        { id: "c2", statement: "Pflanzen trinken Cola.", isTrue: false, explanation: "Pflanzen brauchen Wasser, keine Cola.", emoji: "🥤" },
+        { id: "c3", statement: "Bäume haben Wurzeln.", isTrue: true, explanation: "Wurzeln geben dem Baum Halt und Wasser.", emoji: "🌳" },
+      ],
+    },
+    {
+      id: "k2-fact-magnet",
+      title: "Magnetismus",
+      instruction: "Wahr oder falsch?",
+      theme: { bg: "#2e1065", accent: "#c084fc" },
+      cards: [
+        { id: "c1", statement: "Ein Magnet zieht Holz an.", isTrue: false, explanation: "Magnete ziehen nur bestimmte Metalle wie Eisen an.", emoji: "🪵" },
+        { id: "c2", statement: "Ein Magnet zieht Nägel an.", isTrue: true, explanation: "Nägel sind oft aus Eisen, das magnetisch ist.", emoji: "🔩" },
+        { id: "c3", statement: "Magnete haben zwei Pole.", isTrue: true, explanation: "Es gibt einen Nordpol und einen Südpol.", emoji: "🧲" },
+      ],
+    },
+    {
+      id: "k2-fact-water",
+      title: "Alles über Wasser",
+      instruction: "Ist das richtig?",
+      theme: { bg: "#082f49", accent: "#0ea5e9" },
+      cards: [
+        { id: "c1", statement: "Wasser kann gefrieren.", isTrue: true, explanation: "Bei Kälte wird Wasser zu Eis.", emoji: "🧊" },
+        { id: "c2", statement: "Regen kommt aus der Erde.", isTrue: false, explanation: "Regen fällt aus den Wolken am Himmel.", emoji: "🌧️" },
+        { id: "c3", statement: "Wasser hat keine Farbe.", isTrue: true, explanation: "Reines Wasser ist durchsichtig.", emoji: "💧" },
+      ],
+    },
+    {
+      id: "k2-fact-professions",
+      title: "Berufe raten",
+      instruction: "Stimmt das über Berufe?",
+      theme: { bg: "#3f3f46", accent: "#d4d4d8" },
+      cards: [
+        { id: "c1", statement: "Der Bäcker repariert Autos.", isTrue: false, explanation: "Ein Bäcker backt Brot und Brötchen.", emoji: "🥖" },
+        { id: "c2", statement: "Die Feuerwehr löscht Brände.", isTrue: true, explanation: "Das ist eine ihrer wichtigsten Aufgaben.", emoji: "🚒" },
+        { id: "c3", statement: "Ein Arzt heilt kranke Menschen.", isTrue: true, explanation: "Ärzte helfen uns, gesund zu werden.", emoji: "🩺" },
+      ],
+    },
+    {
+      id: "k2-fact-traffic",
+      title: "Verkehrs-Regeln",
+      instruction: "Wahr oder falsch?",
+      theme: { bg: "#0f172a", accent: "#facc15" },
+      cards: [
+        { id: "c1", statement: "Bei Rot darf ich über die Straße gehen.", isTrue: false, explanation: "Bei Rot musst du stehen bleiben!", emoji: "🛑" },
+        { id: "c2", statement: "Ein Helm schützt beim Fahrradfahren.", isTrue: true, explanation: "Der Helm schützt deinen Kopf bei einem Sturz.", emoji: "⛑️" },
+        { id: "c3", statement: "Man schaut vor dem Überqueren nach links und rechts.", isTrue: true, explanation: "So siehst du, ob ein Auto kommt.", emoji: "👀" },
+      ],
+    },
   ],
 };

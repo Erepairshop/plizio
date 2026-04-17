@@ -28,6 +28,7 @@ import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { RomanaProgress, IslandDef, MissionDef, Lang, MissionCategory } from "@/lib/astroRomana";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -479,6 +480,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const [gender] = useState<AvatarGender>(() => getGender());
   const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
@@ -618,6 +620,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
     const totalDone = progress.completedIslands.length;
 
     return (
+      <>
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2 flex-shrink-0">
@@ -661,6 +664,9 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
           </div>
         </div>
       </div>
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="deutsch" grade={config.grade} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      </>
     );
   }
 

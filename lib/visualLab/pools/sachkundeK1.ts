@@ -89,6 +89,25 @@ export const SACHKUNDE_VISUAL_LAB_K1: SachkundeVisualLabGradePool = {
         { id: "apfelgriebs", label: "Apfelrest", emoji: "🍏" },
         { id: "plastiktuete", label: "Plastiktüte", emoji: "🛍️" },
       ],
+    },
+    {
+      id: "k1-verkehr",
+      title: "Verkehrs-Kometen",
+      prompt: "Fange nur Fahrzeuge ein.",
+      goal: 6,
+      speed: 4,
+      theme: { sky: "#1e293b", glow: "#ef4444", accent: "#f87171" },
+      correctItems: [
+        { id: "auto", label: "Auto", emoji: "🚗" },
+        { id: "bus", label: "Bus", emoji: "🚌" },
+        { id: "fahrrad", label: "Fahrrad", emoji: "🚲" },
+        { id: "zug", label: "Zug", emoji: "🚂" },
+      ],
+      wrongItems: [
+        { id: "baum", label: "Baum", emoji: "🌳" },
+        { id: "haus", label: "Haus", emoji: "🏠" },
+        { id: "apfel", label: "Apfel", emoji: "🍎" },
+      ],
     }
   ],
   orbitSort: [
@@ -146,6 +165,44 @@ export const SACHKUNDE_VISUAL_LAB_K1: SachkundeVisualLabGradePool = {
         { id: "schneemann", label: "Schneemann", emoji: "⛄", bucketId: "winter" },
         { id: "handschuhe", label: "Handschuhe", emoji: "🧤", bucketId: "winter" },
         { id: "schlitten", label: "Schlitten", emoji: "🛷", bucketId: "winter" },
+      ],
+    },
+    {
+      id: "k1-verkehr-sort",
+      title: "Fahrzeuge sortieren",
+      instruction: "Wo bewegen sich diese Fahrzeuge?",
+      theme: { bg: "#020617", orbit: "#3b82f6", accent: "#60a5fa" },
+      buckets: [
+        { id: "strasse", label: "Straße 🛣️", color: "#64748b" },
+        { id: "wasser", label: "Wasser 🌊", color: "#0ea5e9" },
+        { id: "luft", label: "Luft ☁️", color: "#f8fafc" },
+      ],
+      items: [
+        { id: "auto", label: "Auto", emoji: "🚗", bucketId: "strasse" },
+        { id: "bus", label: "Bus", emoji: "🚌", bucketId: "strasse" },
+        { id: "schiff", label: "Schiff", emoji: "🚢", bucketId: "wasser" },
+        { id: "boot", label: "Boot", emoji: "⛵", bucketId: "wasser" },
+        { id: "flugzeug", label: "Flugzeug", emoji: "✈️", bucketId: "luft" },
+        { id: "rakete", label: "Rakete", emoji: "🚀", bucketId: "luft" },
+      ],
+    },
+    {
+      id: "k1-tiere-beine",
+      title: "Bein-Zähler",
+      instruction: "Wie viele Beine hat das Tier?",
+      theme: { bg: "#1a2f1c", orbit: "#4ade80", accent: "#22c55e" },
+      buckets: [
+        { id: "zwei", label: "Zwei Beine", color: "#facc15" },
+        { id: "vier", label: "Vier Beine", color: "#fb923c" },
+        { id: "keine", label: "Keine Beine", color: "#94a3b8" },
+      ],
+      items: [
+        { id: "vogel", label: "Vogel", emoji: "🐦", bucketId: "zwei" },
+        { id: "ente", label: "Ente", emoji: "🦆", bucketId: "zwei" },
+        { id: "hund", label: "Hund", emoji: "🐶", bucketId: "vier" },
+        { id: "katze", label: "Katze", emoji: "🐱", bucketId: "vier" },
+        { id: "schlange", label: "Schlange", emoji: "🐍", bucketId: "keine" },
+        { id: "fisch", label: "Fisch", emoji: "🐟", bucketId: "keine" },
       ],
     }
   ],
@@ -233,6 +290,111 @@ export const SACHKUNDE_VISUAL_LAB_K1: SachkundeVisualLabGradePool = {
           failFeedback: "Nicht vergessen: Abends Zähne putzen ist wichtig!",
         }
       ],
+    },
+    {
+      id: "k1-wetter-route",
+      title: "Wetter-Mission",
+      instruction: "Wähle das richtige Verhalten beim Wetter.",
+      scenes: [
+        {
+          id: "regen",
+          title: "Es regnet",
+          prompt: "Es regnet stark. Was brauchst du?",
+          sceneType: "safety",
+          visual: { icon: "🌧️", bg: "#1e3a8a", accent: "#3b82f6" },
+          choices: [
+            { id: "schirm", label: "Einen Regenschirm." },
+            { id: "sonnenbrille", label: "Eine Sonnenbrille." },
+          ],
+          correctChoiceId: "schirm",
+          successFeedback: "Richtig! So bleibst du trocken.",
+          failFeedback: "Die Sonnenbrille hilft nicht gegen Regen.",
+        },
+        {
+          id: "sonne",
+          title: "Heißer Sommertag",
+          prompt: "Die Sonne scheint sehr stark.",
+          sceneType: "safety",
+          visual: { icon: "☀️", bg: "#78350f", accent: "#f59e0b" },
+          choices: [
+            { id: "creme", label: "Ich creme mich mit Sonnencreme ein." },
+            { id: "schal", label: "Ich ziehe einen dicken Schal an." },
+          ],
+          correctChoiceId: "creme",
+          successFeedback: "Super! Die Creme schützt deine Haut.",
+          failFeedback: "Ein Schal ist im Sommer viel zu warm!",
+        }
+      ],
+    },
+    {
+      id: "k1-tiere-route",
+      title: "Tier-Begegnung",
+      instruction: "Wie verhältst du dich bei Tieren richtig?",
+      scenes: [
+        {
+          id: "fremder_hund",
+          title: "Fremder Hund",
+          prompt: "Ein fremder Hund bellt dich an.",
+          sceneType: "safety",
+          visual: { icon: "🐕", bg: "#3f2c23", accent: "#f97316" },
+          choices: [
+            { id: "ruhig", label: "Ich bleibe ruhig stehen." },
+            { id: "rennen", label: "Ich renne schreiend weg." },
+          ],
+          correctChoiceId: "ruhig",
+          successFeedback: "Genau! Wenn du ruhig bleibst, beruhigt sich auch der Hund.",
+          failFeedback: "Rennen macht Hunde oft noch aufgeregter.",
+        },
+        {
+          id: "vogel",
+          title: "Junger Vogel",
+          prompt: "Ein kleiner Vogel sitzt hilflos auf dem Weg.",
+          sceneType: "safety",
+          visual: { icon: "🐣", bg: "#064e3b", accent: "#10b981" },
+          choices: [
+            { id: "hilfe", label: "Ich rufe einen Erwachsenen." },
+            { id: "mitnehmen", label: "Ich nehme ihn einfach mit nach Hause." },
+          ],
+          correctChoiceId: "hilfe",
+          successFeedback: "Richtig! Erwachsene wissen, was zu tun ist.",
+          failFeedback: "Besser nicht! Manchmal sind die Eltern des Vogels ganz in der Nähe.",
+        }
+      ],
+    },
+    {
+      id: "k1-sinne-route",
+      title: "Achtsamkeits-Signal",
+      instruction: "Nutze deine Sinne klug.",
+      scenes: [
+        {
+          id: "herd",
+          title: "In der Küche",
+          prompt: "Die Herdplatte leuchtet rot.",
+          sceneType: "safety",
+          visual: { icon: "🍳", bg: "#450a0a", accent: "#ef4444" },
+          choices: [
+            { id: "weg", label: "Nicht anfassen, sie ist heiß!" },
+            { id: "anfassen", label: "Ich lege meine Hand darauf." },
+          ],
+          correctChoiceId: "weg",
+          successFeedback: "Sehr gut! Das schützt dich vor Verbrennungen.",
+          failFeedback: "Vorsicht, heiß! Das tut sehr weh.",
+        },
+        {
+          id: "laerm",
+          title: "Auf der Straße",
+          prompt: "Ein lautes Feuerwehrauto fährt vorbei.",
+          sceneType: "safety",
+          visual: { icon: "🚒", bg: "#172554", accent: "#3b82f6" },
+          choices: [
+            { id: "ohren", label: "Ich halte mir die Ohren zu." },
+            { id: "schreien", label: "Ich schreie so laut ich kann." },
+          ],
+          correctChoiceId: "ohren",
+          successFeedback: "Richtig! Das schützt dein Gehör.",
+          failFeedback: "Schreien macht es nur noch lauter!",
+        }
+      ],
     }
   ],
   constellationBuilder: [
@@ -289,6 +451,42 @@ export const SACHKUNDE_VISUAL_LAB_K1: SachkundeVisualLabGradePool = {
         { id: "slot3", label: "Am Abend" },
       ],
       solution: ["aufstehen", "schule", "schlafen"],
+    },
+    {
+      id: "k1-ampel-build",
+      title: "Sternbild: Ampel",
+      instruction: "Wie sind die Farben einer Ampel angeordnet?",
+      hint: "Was leuchtet ganz oben?",
+      theme: { bg: "#1f2937", accent: "#ef4444", card: "rgba(239, 68, 68, 0.1)" },
+      parts: [
+        { id: "rot", label: "Rot", emoji: "🔴" },
+        { id: "gelb", label: "Gelb", emoji: "🟡" },
+        { id: "gruen", label: "Grün", emoji: "🟢" },
+      ],
+      slots: [
+        { id: "slot1", label: "Ganz oben" },
+        { id: "slot2", label: "In der Mitte" },
+        { id: "slot3", label: "Ganz unten" },
+      ],
+      solution: ["rot", "gelb", "gruen"],
+    },
+    {
+      id: "k1-schmetterling-build",
+      title: "Kosmische Entwicklung",
+      instruction: "Wie wächst ein Schmetterling heran?",
+      hint: "Womit fängt es an?",
+      theme: { bg: "#2e1025", accent: "#d946ef", card: "rgba(217, 70, 239, 0.1)" },
+      parts: [
+        { id: "raupe", label: "Raupe", emoji: "🐛" },
+        { id: "kokon", label: "Kokon", emoji: "🪹" },
+        { id: "schmetterling", label: "Schmetterling", emoji: "🦋" },
+      ],
+      slots: [
+        { id: "slot1", label: "Zuerst" },
+        { id: "slot2", label: "Danach" },
+        { id: "slot3", label: "Am Ende" },
+      ],
+      solution: ["raupe", "kokon", "schmetterling"],
     }
   ],
   memoryRadar: [
@@ -349,6 +547,291 @@ export const SACHKUNDE_VISUAL_LAB_K1: SachkundeVisualLabGradePool = {
         { id: "affe", label: "Affe", emoji: "🐒" },
         { id: "hai", label: "Hai", emoji: "🦈" },
       ],
+    },
+    {
+      id: "k1-senses-radar",
+      title: "Sinnes-Radar",
+      instruction: "Merke dir nur die Körperteile für unsere Sinne.",
+      flashDurationMs: 1800,
+      selectionLimit: 4,
+      theme: { bg: "#0f172a", accent: "#a855f7", radar: "#9333ea" },
+      targetItems: [
+        { id: "auge", label: "Auge", emoji: "👁️" },
+        { id: "ohr", label: "Ohr", emoji: "👂" },
+        { id: "nase", label: "Nase", emoji: "👃" },
+        { id: "mund", label: "Mund", emoji: "👄" },
+      ],
+      decoyItems: [
+        { id: "bauch", label: "Bauch", emoji: "🤰" },
+        { id: "knie", label: "Knie", emoji: "🦵" },
+        { id: "fuss", label: "Fuß", emoji: "🦶" },
+        { id: "arm", label: "Arm", emoji: "💪" },
+      ],
+    },
+    {
+      id: "k1-waldtiere-radar",
+      title: "Waldtiere-Scanner",
+      instruction: "Präge dir die Tiere ein, die im Wald leben.",
+      flashDurationMs: 2000,
+      selectionLimit: 4,
+      theme: { bg: "#14532d", accent: "#4ade80", radar: "#22c55e" },
+      targetItems: [
+        { id: "fuchs", label: "Fuchs", emoji: "🦊" },
+        { id: "eule", label: "Eule", emoji: "🦉" },
+        { id: "reh", label: "Reh", emoji: "🦌" },
+        { id: "wildschwein", label: "Wildschwein", emoji: "🐗" },
+      ],
+      decoyItems: [
+        { id: "kuh", label: "Kuh", emoji: "🐄" },
+        { id: "schwein", label: "Schwein", emoji: "🐖" },
+        { id: "pferd", label: "Pferd", emoji: "🐎" },
+        { id: "hund", label: "Hund", emoji: "🐶" },
+      ],
     }
   ],
+  sequenceSort: [
+    {
+      id: "k1-jahreszeiten-seq",
+      title: "Jahreszeiten",
+      instruction: "Bringe die Jahreszeiten in die richtige Reihenfolge. Beginne mit dem Frühling.",
+      theme: { bg: "#0f172a", accent: "#38bdf8" },
+      sequence: [
+        { id: "fruehling", label: "Frühling", emoji: "🌷" },
+        { id: "sommer", label: "Sommer", emoji: "☀️" },
+        { id: "herbst", label: "Herbst", emoji: "🍂" },
+        { id: "winter", label: "Winter", emoji: "❄️" },
+      ]
+    },
+    {
+      id: "k1-apfel-seq",
+      title: "Vom Samen zum Apfel",
+      instruction: "Wie wächst ein Apfelbaum?",
+      theme: { bg: "#1a2f1c", accent: "#4ade80" },
+      sequence: [
+        { id: "samen", label: "Samen", emoji: "🌱" },
+        { id: "baum", label: "Baum", emoji: "🌳" },
+        { id: "bluete", label: "Blüte", emoji: "🌸" },
+        { id: "apfel", label: "Apfel", emoji: "🍎" },
+      ]
+    },
+    {
+      id: "k1-schmetterling-seq",
+      title: "Der Schmetterling",
+      instruction: "Wie wächst ein Schmetterling heran?",
+      theme: { bg: "#2e1025", accent: "#d946ef" },
+      sequence: [
+        { id: "ei", label: "Ei", emoji: "🥚" },
+        { id: "raupe", label: "Raupe", emoji: "🐛" },
+        { id: "puppe", label: "Puppe", emoji: "🪹" },
+        { id: "schmetterling", label: "Schmetterling", emoji: "🦋" },
+      ]
+    },
+    {
+      id: "k1-morgen-seq",
+      title: "Am Morgen",
+      instruction: "Was machst du morgens zuerst?",
+      theme: { bg: "#1e1b4b", accent: "#facc15" },
+      sequence: [
+        { id: "aufstehen", label: "Aufstehen", emoji: "🥱" },
+        { id: "waschen", label: "Waschen", emoji: "🧼" },
+        { id: "anziehen", label: "Anziehen", emoji: "👕" },
+        { id: "fruehstueck", label: "Frühstücken", emoji: "🥣" },
+        { id: "zaehneputzen", label: "Zähne putzen", emoji: "🪥" },
+      ]
+    },
+    {
+      id: "k1-brot-seq",
+      title: "Vom Korn zum Brot",
+      instruction: "Wie wird Brot gemacht?",
+      theme: { bg: "#3f2c23", accent: "#f97316" },
+      sequence: [
+        { id: "getreide", label: "Getreide wächst", emoji: "🌾" },
+        { id: "mehl", label: "Getreide mahlen (Mehl)", emoji: "🥣" },
+        { id: "teig", label: "Teig kneten", emoji: "🥐" },
+        { id: "brot", label: "Brot backen", emoji: "🍞" },
+      ]
+    }
+  ],
+  factSwipe: [
+    {
+      id: "k1-tiere-swipe",
+      title: "Tier-Fakten",
+      instruction: "Stimmt das? Wische nach rechts für JA, nach links für NEIN.",
+      theme: { bg: "#064e3b", accent: "#10b981" },
+      cards: [
+        {
+          id: "f1",
+          statement: "Hunde können gut riechen.",
+          isTrue: true,
+          explanation: "Hunde haben eine sehr feine Nase und riechen viel besser als Menschen.",
+          emoji: "🐶"
+        },
+        {
+          id: "f2",
+          statement: "Kühe geben Limonade.",
+          isTrue: false,
+          explanation: "Kühe geben Milch, aus der wir Käse und Butter machen können.",
+          emoji: "🐄"
+        },
+        {
+          id: "f3",
+          statement: "Katzen können im Dunkeln gut sehen.",
+          isTrue: true,
+          explanation: "Katzenaugen fangen nachts viel Licht ein.",
+          emoji: "🐱"
+        },
+        {
+          id: "f4",
+          statement: "Fische atmen Luft wie wir.",
+          isTrue: false,
+          explanation: "Fische atmen unter Wasser durch ihre Kiemen.",
+          emoji: "🐟"
+        }
+      ]
+    },
+    {
+      id: "k1-verkehr-swipe",
+      title: "Verkehrs-Check",
+      instruction: "Ist das sicher im Verkehr?",
+      theme: { bg: "#1f2937", accent: "#ef4444" },
+      cards: [
+        {
+          id: "v1",
+          statement: "Bei Rot darf ich über die Ampel gehen.",
+          isTrue: false,
+          explanation: "Bei Rot musst du stehen bleiben. Nur bei Grün darfst du gehen.",
+          emoji: "🚦"
+        },
+        {
+          id: "v2",
+          statement: "Ich schaue nach links, rechts und wieder links, bevor ich über die Straße gehe.",
+          isTrue: true,
+          explanation: "So stellst du sicher, dass kein Auto kommt.",
+          emoji: "👀"
+        },
+        {
+          id: "v3",
+          statement: "Auf dem Fahrrad trage ich einen Helm.",
+          isTrue: true,
+          explanation: "Der Helm schützt deinen Kopf, wenn du fällst.",
+          emoji: "🚲"
+        },
+        {
+          id: "v4",
+          statement: "Ich spiele am liebsten auf der Straße.",
+          isTrue: false,
+          explanation: "Auf der Straße fahren Autos. Spiele lieber auf dem Spielplatz oder im Garten.",
+          emoji: "🚗"
+        }
+      ]
+    },
+    {
+      id: "k1-koerper-swipe",
+      title: "Körper und Sinne",
+      instruction: "Stimmt das über deinen Körper?",
+      theme: { bg: "#1e1b4b", accent: "#8b5cf6" },
+      cards: [
+        {
+          id: "k1",
+          statement: "Mit den Ohren kann ich sehen.",
+          isTrue: false,
+          explanation: "Mit den Ohren hörst du. Sehen tust du mit den Augen.",
+          emoji: "👂"
+        },
+        {
+          id: "k2",
+          statement: "Die Zunge hilft mir beim Schmecken.",
+          isTrue: true,
+          explanation: "Die Zunge merkt, ob etwas süß, sauer, salzig oder bitter ist.",
+          emoji: "👅"
+        },
+        {
+          id: "k3",
+          statement: "Mit der Nase rieche ich Blumen.",
+          isTrue: true,
+          explanation: "Deine Nase erkennt viele verschiedene Gerüche.",
+          emoji: "👃"
+        },
+        {
+          id: "k4",
+          statement: "Ich habe vier Beine.",
+          isTrue: false,
+          explanation: "Menschen haben zwei Beine und zwei Arme. Tiere wie Hunde haben vier Beine.",
+          emoji: "🦵"
+        }
+      ]
+    },
+    {
+      id: "k1-gesundheit-swipe",
+      title: "Fit und Gesund",
+      instruction: "Ist das gut für deinen Körper?",
+      theme: { bg: "#0b132b", accent: "#00f5d4" },
+      cards: [
+        {
+          id: "g1",
+          statement: "Apfel und Karotte sind gesund.",
+          isTrue: true,
+          explanation: "Obst und Gemüse geben dir wichtige Vitamine.",
+          emoji: "🍎"
+        },
+        {
+          id: "g2",
+          statement: "Zähneputzen ist nicht wichtig.",
+          isTrue: false,
+          explanation: "Zähneputzen schützt vor Löchern in den Zähnen (Karies).",
+          emoji: "🪥"
+        },
+        {
+          id: "g3",
+          statement: "Vor dem Essen wasche ich meine Hände.",
+          isTrue: true,
+          explanation: "So wäschst du Keime weg, die dich krank machen könnten.",
+          emoji: "🧼"
+        },
+        {
+          id: "g4",
+          statement: "Ich trinke jeden Tag viel Limonade.",
+          isTrue: false,
+          explanation: "Limonade hat viel Zucker. Wasser oder ungesüßter Tee sind viel besser.",
+          emoji: "🥤"
+        }
+      ]
+    },
+    {
+      id: "k1-wetter-swipe",
+      title: "Wetter-Wissen",
+      instruction: "Stimmen diese Aussagen über das Wetter?",
+      theme: { bg: "#0f172a", accent: "#38bdf8" },
+      cards: [
+        {
+          id: "w1",
+          statement: "Im Winter schneit es oft.",
+          isTrue: true,
+          explanation: "Wenn es kalt genug ist, gefriert der Regen zu Schnee.",
+          emoji: "❄️"
+        },
+        {
+          id: "w2",
+          statement: "Wenn es regnet, brauche ich eine Sonnenbrille.",
+          isTrue: false,
+          explanation: "Bei Regen nimmst du besser einen Regenschirm. Sonnenbrillen schützen vor hellem Licht.",
+          emoji: "🌧️"
+        },
+        {
+          id: "w3",
+          statement: "Aus Wolken fällt manchmal Regen.",
+          isTrue: true,
+          explanation: "Wolken bestehen aus winzigen Wassertropfen. Werden sie zu schwer, fallen sie als Regen herunter.",
+          emoji: "☁️"
+        },
+        {
+          id: "w4",
+          statement: "Die Sonne macht uns kalt.",
+          isTrue: false,
+          explanation: "Die Sonnenstrahlen wärmen die Erde und uns.",
+          emoji: "☀️"
+        }
+      ]
+    }
+  ]
 };

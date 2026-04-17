@@ -26,6 +26,7 @@ import O2Explorer from "@/app/astromagyar/games/o2/O2Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import { O2_ISLAND_SVGS } from "@/app/astromagyar/islands-o2";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   O2_ISLANDS, O2_CHECKPOINT_MAP, O2_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO2Progress, saveO2Progress, type MagyarProgress,
@@ -277,6 +278,7 @@ export default function AstroMagyar2() {
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<"idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing">("idle");
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const color = activeIsland?.color || "#00D4FF";
   const bgColor = activeIsland?.color ?? "#00D4FF";
@@ -622,6 +624,8 @@ export default function AstroMagyar2() {
           activeGlasses={activeGlasses} activeGloves={activeGloves} activeHat={activeHat} activeTrail={activeTrail}
           mood={avatarMood} />
       </div>
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="deutsch" grade={2} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

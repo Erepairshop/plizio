@@ -7,7 +7,23 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  webpack: (config: unknown) => {
+  webpack: (config: any) => {
+    const rules = config.module?.rules ?? [];
+    for (const rule of rules) {
+      if (!rule.oneOf) continue;
+      for (const r of rule.oneOf) {
+        if (!Array.isArray(r.use)) continue;
+        for (const use of r.use) {
+          if (
+            typeof use === "object" &&
+            use.loader?.includes("css-loader") &&
+            use.options
+          ) {
+            use.options.import = false;
+          }
+        }
+      }
+    }
     return config;
   },
 };

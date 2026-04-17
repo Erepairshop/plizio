@@ -11,6 +11,8 @@ import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame"
 import SignalRunnerGame from "@/app/astro-sachkunde/visual-lab/games/SignalRunnerGame";
 import ConstellationBuilderGame from "@/app/astro-sachkunde/visual-lab/games/ConstellationBuilderGame";
 import MemoryRadarGame from "@/app/astro-sachkunde/visual-lab/games/MemoryRadarGame";
+import SequenceSortGame from "@/app/astro-sachkunde/visual-lab/games/SequenceSortGame";
+import FactSwipeGame from "@/app/astro-sachkunde/visual-lab/games/FactSwipeGame";
 
 // Astromath — single flagship game (for now)
 import MathNinjaGame from "@/app/astromath/visual-lab/games/MathNinjaGame";
@@ -104,6 +106,8 @@ const T: Record<Lang, Record<string, string>> = {
     changeMaker: "Wechselgeld-Profi",
     lengthEstimator: "Längen-Schätzer",
     weightBalance: "Waage-Meister",
+    sequenceSort: "Zeitlinie Sortieren",
+    factSwipe: "Fakten-Check",
     comingSoon: "Bald verfügbar",
     close: "Schließen",
     soon: "Weitere visuelle Spiele kommen bald.",
@@ -118,6 +122,8 @@ const T: Record<Lang, Record<string, string>> = {
     signalRunner: "Jelzés-futó",
     constellationBuilder: "Csillagkép-építő",
     memoryRadar: "Memória radar",
+    sequenceSort: "Idővonal rendező",
+    factSwipe: "Tényellenőrző",
     comingSoon: "Hamarosan",
     close: "Bezárás",
     soon: "További vizuális játékok hamarosan.",
@@ -144,6 +150,8 @@ const T: Record<Lang, Record<string, string>> = {
     changeMaker: "Restul corect",
     lengthEstimator: "Estimator lungime",
     weightBalance: "Maestru balanță",
+    sequenceSort: "Sortare Cronologică",
+    factSwipe: "Verificare Fapte",
     comingSoon: "În curând",
     close: "Închide",
     soon: "Mai multe jocuri vizuale vin în curând.",
@@ -158,6 +166,8 @@ const T: Record<Lang, Record<string, string>> = {
     signalRunner: "Signal Runner",
     constellationBuilder: "Constellation Builder",
     memoryRadar: "Memory Radar",
+    sequenceSort: "Sequence Sort",
+    factSwipe: "Fact Swipe",
     comingSoon: "Coming soon",
     close: "Close",
     soon: "More visual games coming soon.",
@@ -176,6 +186,8 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
     { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+    { id: "sequence-sort", type: "puzzle", labelKey: "sequenceSort", available: true },
+    { id: "fact-swipe", type: "spotter", labelKey: "factSwipe", available: true },
   ],
   geographie: [
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
@@ -687,6 +699,14 @@ function SachkundeGameSwitch({
     case "memory-radar": {
       const round = pool.memoryRadar[0];
       return round ? <MemoryRadarGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "sequence-sort": {
+      const round = pool.sequenceSort?.[0];
+      return round ? <SequenceSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "fact-swipe": {
+      const round = pool.factSwipe?.[0];
+      return round ? <FactSwipeGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
