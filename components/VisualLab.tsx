@@ -212,6 +212,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   geschichte: [
+    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -260,6 +261,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   biologie: [
+    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -889,6 +891,9 @@ function BiologieGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
+  if (gameId === "deutschland-map") {
+    return <InteractiveMap lang={lang} subject="geographie" grade={grade} />;
+  }
   const pool = BIOLOGIE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
@@ -922,6 +927,9 @@ function GeschichteGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
+  if (gameId === "deutschland-map") {
+    return <InteractiveMap lang={lang} subject="geschichte" grade={grade} />;
+  }
   const pool = GESCHICHTE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {

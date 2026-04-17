@@ -7,10 +7,11 @@ import {
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star } from "lucide-react";
-import { deutschlandMap, deutschlandViewBox, projectCoords, type BundeslandPath } from "../maps/deutschland.svg";
+import { type BundeslandPath } from "../maps/deutschland.svg";
 import { bundeslandSubregions, projectInState } from "../maps/bundeslandSubregions";
+import { getCountryMap } from "../maps/resolver";
 import { usePanZoom } from "./usePanZoom";
-import { pois, type POI } from "../data/poi";
+import { type POI } from "../data/poi";
 import { Building2, Mountain, Waves, Landmark as LandmarkIcon, Eye, Layers, Sprout, Factory, Map as MapIcon } from "lucide-react";
 import { buildPoiPathById, buildStatePath, type Lang as SeoLang } from "@/lib/seo/slugs";
 
@@ -125,6 +126,13 @@ export const InteractiveMap = ({
 }) => {
   const router = useRouter();
   const searchParams = useSearchParams();
+
+  // ---- Country map resolver (lang-based) ---------------------------------
+  const countryData = useMemo(() => getCountryMap(lang as Lang), [lang]);
+  const deutschlandMap = countryData.map;
+  const deutschlandViewBox = countryData.viewBox;
+  const projectCoords = countryData.projectCoords;
+  const pois: POI[] = countryData.pois;
 
   // ---- Initialize state from URL on first render -------------------------
   const initLayer = (): Layer => {
@@ -882,6 +890,7 @@ export const InteractiveMap = ({
             stateId={detailFor}
             stateName={deutschlandMap.find((b) => b.id === detailFor)?.name[lang as Lang] ?? ""}
             lang={lang as Lang}
+            pois={pois}
             onClose={() => setDetailFor(null)}
           />
         )}
@@ -900,11 +909,13 @@ function SubRegionView({
   stateId,
   stateName,
   lang,
+  pois,
   onClose,
 }: {
   stateId: string;
   stateName: string;
   lang: Lang;
+  pois: POI[];
   onClose: () => void;
 }) {
   const detail = bundeslandSubregions[stateId];
