@@ -1175,3 +1175,162 @@ export const MAGYAR_O8_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "történeti_nyelvészet" },
   },
 ];
+
+interface MagyarO8PracticeConfig {
+  topic: string;
+  focus: string;
+  hint1: string;
+  hint2: string;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const MAGYAR_O8_PRACTICE_INSTRUCTIONS: string[] = [
+  "Válaszd ki a helyes példákat.",
+  "Rendezd a kijelentéseket funkció szerint.",
+  "Használd a fogalmakat, és párosítsd őket.",
+  "Kösd össze az okot és a következményt.",
+  "Ellenőrizd az összefüggéseket, válaszd a legjobb állítást."
+];
+
+function addMagyarO8PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: MagyarO8PracticeConfig
+): void {
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+    const bucket = labels.hu;
+    
+    bucket[`${key}_title`] = `${cfg.topic} – Gyakorlat ${n}`;
+    bucket[`${key}_text`] = `${cfg.focus} rövid példákon keresztül: gyakorlás és elmélyítés.`;
+    bucket[`${key}_h1`] = cfg.hint1;
+    bucket[`${key}_h2`] = cfg.hint2;
+    bucket[`${key}_inst`] = MAGYAR_O8_PRACTICE_INSTRUCTIONS[i];
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const MAGYAR_O8_PRACTICE_CONFIGS: MagyarO8PracticeConfig[] = [
+  {
+    topic: "Ómagyar nyelvemlékek",
+    focus: "Nyelvemlékeink és kódexeink",
+    hint1: "Szövegemlékek",
+    hint2: "Nyelvtörténet",
+    quiz: "omagyr",
+    icon: "📜",
+    color: "#D97706",
+    emoji: "📖"
+  },
+  {
+    topic: "Stílus és alakzatok",
+    focus: "Stilisztikai eszközök felismerése",
+    hint1: "Alakzatok",
+    hint2: "Nyelvhasználat",
+    quiz: "stílus_variacio",
+    icon: "🎭",
+    color: "#7C3AED",
+    emoji: "✍️"
+  },
+  {
+    topic: "Szövegműhely",
+    focus: "Szövegek mélyebb elemzése",
+    hint1: "Motívumok",
+    hint2: "Szövegértés",
+    quiz: "irodalmi_elemzes",
+    icon: "🔍",
+    color: "#2563EB",
+    emoji: "💡"
+  },
+  {
+    topic: "Irodalomelmélet",
+    focus: "Narratológia és poétika",
+    hint1: "Elbeszélés",
+    hint2: "Műfajok",
+    quiz: "műfajok_elméleti",
+    icon: "📚",
+    color: "#059669",
+    emoji: "📚"
+  },
+  {
+    topic: "Helyesírási gyakorlatok",
+    focus: "Helyesírási szabályok alkalmazása",
+    hint1: "Norma",
+    hint2: "Szabályok",
+    quiz: "osszefoglalo",
+    icon: "✏️",
+    color: "#DC2626",
+    emoji: "✅"
+  },
+  {
+    topic: "Jelentéstan",
+    focus: "Szavak jelentése és kontextusa",
+    hint1: "Szemantika",
+    hint2: "Pragmatika",
+    quiz: "szemantika_szomantika",
+    icon: "💬",
+    color: "#0284C7",
+    emoji: "🗣️"
+  },
+  {
+    topic: "Érvelés és vita",
+    focus: "Meggyőzés és logikai érvek",
+    hint1: "Érvelés",
+    hint2: "Cáfolat",
+    quiz: "ervales_technika",
+    icon: "⚖️",
+    color: "#9333EA",
+    emoji: "⚖️"
+  },
+  {
+    topic: "Nyelvtani ismétlés",
+    focus: "Mondatrészek és szófajok",
+    hint1: "Nyelvtan",
+    hint2: "Szerkezet",
+    quiz: "osszefoglalo",
+    icon: "🧩",
+    color: "#EA580C",
+    emoji: "🧩"
+  },
+  {
+    topic: "Osztályozó vizsga felkészítő",
+    focus: "Komplex nyelvi és irodalmi feladatok",
+    hint1: "Ismétlés",
+    hint2: "Gyakorlás",
+    quiz: "osszefoglalo",
+    icon: "🎓",
+    color: "#4F46E5",
+    emoji: "🎯"
+  }
+];
+
+addMagyarO8PracticeTopics(MAGYAR_O8_I1_LABELS, MAGYAR_O8_I1_POOL, MAGYAR_O8_PRACTICE_CONFIGS[0]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I2_LABELS, MAGYAR_O8_I2_POOL, MAGYAR_O8_PRACTICE_CONFIGS[1]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I3_LABELS, MAGYAR_O8_I3_POOL, MAGYAR_O8_PRACTICE_CONFIGS[2]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I4_LABELS, MAGYAR_O8_I4_POOL, MAGYAR_O8_PRACTICE_CONFIGS[3]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I5_LABELS, MAGYAR_O8_I5_POOL, MAGYAR_O8_PRACTICE_CONFIGS[4]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I6_LABELS, MAGYAR_O8_I6_POOL, MAGYAR_O8_PRACTICE_CONFIGS[5]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I7_LABELS, MAGYAR_O8_I7_POOL, MAGYAR_O8_PRACTICE_CONFIGS[6]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I8_LABELS, MAGYAR_O8_I8_POOL, MAGYAR_O8_PRACTICE_CONFIGS[7]);
+addMagyarO8PracticeTopics(MAGYAR_O8_I9_LABELS, MAGYAR_O8_I9_POOL, MAGYAR_O8_PRACTICE_CONFIGS[8]);
+
