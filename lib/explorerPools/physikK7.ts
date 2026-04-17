@@ -711,12 +711,73 @@ const topic = (
   difficulty: "easy" | "medium" | "hard",
   infoTitle: string,
   infoText: string,
-  svg: ReturnType<typeof icon>,
+  svg: PoolTopicDef["svg"],
   interactive: PoolTopicDef["interactive"],
   quiz: PoolTopicDef["quiz"],
 ): PoolTopicDef => ({ difficulty, infoTitle, infoText, svg, interactive, quiz });
 
+const physSvg = (name: string): PoolTopicDef["svg"] => ({ type: "physik-diagram", name });
+
+const COMMON_EXTRA_LABELS: Record<string, LangEntry> = {
+  t11_title: lang("Sort the examples", "Sortiere die Beispiele", "Rendezd a peldakat", "Sorteaza exemplele"),
+  t11_text: lang("Put each item in the right group.", "Ordne jedes Beispiel der richtigen Gruppe zu.", "Minden peldat tedd a jo csoportba.", "Pune fiecare exemplu in grupul corect."),
+  t11_inst: lang("Sort the examples.", "Sortiere die Beispiele.", "Rendezd a peldakat.", "Sorteaza exemplele."),
+  t11_h1: lang("Use the two groups.", "Nutze die zwei Gruppen.", "Hasznald a ket csoportot.", "Foloseste cele doua grupuri."),
+  t11_h2: lang("Choose the right bucket.", "Waehle den richtigen Eimer.", "Valaszd ki a jo csoportot.", "Alege galetul corect."),
+  t11_b1: lang("changes", "veraendert sich", "valtozik", "se schimba"),
+  t11_b2: lang("stays", "bleibt", "marad", "ramane"),
+  t12_title: lang("Match terms", "Ordne Begriffe zu", "Paresitsd a fogalmakat", "Potriveste termenii"),
+  t12_text: lang("Connect each term with its meaning.", "Verbinde jeden Begriff mit seiner Bedeutung.", "Kossd ossze a fogalmat a jelentessel.", "Leaga fiecare termen de sensul lui."),
+  t12_inst: lang("Match the terms.", "Ordne die Begriffe zu.", "Paresitsd a fogalmakat.", "Potriveste termenii."),
+  t12_h1: lang("Left and right belong together.", "Links und rechts gehoeren zusammen.", "A bal es jobb osszetartozik.", "Stanga si dreapta merg impreuna."),
+  t12_h2: lang("Read both sides.", "Lies beide Seiten.", "Olvasd el mindket oldalt.", "Citeste ambele parti."),
+  t13_title: lang("Put in order", "In die richtige Reihenfolge", "Rendezd sorrendbe", "Pune in ordine"),
+  t13_text: lang("Arrange the steps in order.", "Ordne die Schritte.", "Rendezd a lepeseket.", "Ordoneaza pasii."),
+  t13_inst: lang("Put the steps in order.", "Bringe die Schritte in die richtige Reihenfolge.", "Tedd sorrendbe a lepeseket.", "Pune pasii in ordine."),
+  t13_h1: lang("Start first.", "Starte zuerst.", "Eloszor kezdd.", "Incepe primul."),
+  t13_h2: lang("Finish last.", "Ende zuletzt.", "A vege legyen utolso.", "Sfarsitul vine la urma."),
+  t14_title: lang("Pick examples", "Beispiele waehlen", "Valassz peldakat", "Alege exemple"),
+  t14_text: lang("Select the correct examples.", "Waehle die richtigen Beispiele.", "Valaszd ki a helyes peldakat.", "Selecteaza exemplele corecte."),
+  t14_inst: lang("Pick the correct examples.", "Waehle die richtigen Beispiele.", "Valaszd ki a helyes peldakat.", "Alege exemplele corecte."),
+  t14_h1: lang("Some are true.", "Manche sind richtig.", "Nehany igaz.", "Unele sunt corecte."),
+  t14_h2: lang("Some are false.", "Manche sind falsch.", "Nehany hamis.", "Unele sunt false."),
+  t14_q: lang("Which examples are correct?", "Welche Beispiele sind richtig?", "Mely peldak helyesek?", "Care exemple sunt corecte?"),
+  t15_title: lang("Fill the blank", "Lueckentext", "Hianyzik egy szo", "Completeaza spatiul"),
+  t15_text: lang("Choose the missing word.", "Waehle das fehlende Wort.", "Valaszd ki a hianyzó szot.", "Alege cuvantul lipsa."),
+  t15_inst: lang("Choose the missing word.", "Waehle das fehlende Wort.", "Valaszd ki a hianyzó szot.", "Alege cuvantul lipsa."),
+  t15_h1: lang("Read the sentence.", "Lies den Satz.", "Olvasd el a mondatot.", "Citeste propozitia."),
+  t15_h2: lang("One word fits best.", "Ein Wort passt am besten.", "Egy szo illik a legjobban.", "Un singur cuvant se potriveste cel mai bine."),
+};
+
+const extraTopics = (svgName: string, quizGenerate: string): PoolTopicDef[] => [
+  topic("easy", "t11_title", "t11_text", physSvg(svgName), bucket(
+    [{ id: "a", label: "t11_b1" }, { id: "b", label: "t11_b2" }],
+    [
+      { text: "t11_i1", bucketId: "a" },
+      { text: "t11_i2", bucketId: "b" },
+      { text: "t11_i3", bucketId: "b" },
+      { text: "t11_i4", bucketId: "a" },
+    ],
+    "t11_inst", "t11_h1", "t11_h2",
+  ), { generate: quizGenerate }),
+  topic("medium", "t12_title", "t12_text", physSvg(svgName), magnet([
+    { left: "t12_l1", right: "t12_r1" },
+    { left: "t12_l2", right: "t12_r2" },
+    { left: "t12_l3", right: "t12_r3" },
+    { left: "t12_l4", right: "t12_r4" },
+  ], "t12_inst", "t12_h1", "t12_h2"), { generate: quizGenerate }),
+  topic("medium", "t13_title", "t13_text", physSvg(svgName), stacker(["t13_w1", "t13_w2", "t13_w3"], [0, 1, 2], "t13_inst", "t13_h1", "t13_h2"), { generate: quizGenerate }),
+  topic("medium", "t14_title", "t14_text", physSvg(svgName), slingshot("t14_q", [
+    { id: "1", text: "t14_t1", isCorrect: true },
+    { id: "2", text: "t14_t2", isCorrect: true },
+    { id: "3", text: "t14_t3", isCorrect: false },
+    { id: "4", text: "t14_t4", isCorrect: false },
+  ], "t14_inst", "t14_h1", "t14_h2"), { generate: quizGenerate }),
+  topic("hard", "t15_title", "t15_text", physSvg(svgName), gapFill("t15_sent", ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], 0, "t15_inst", "t15_h1", "t15_h2"), { generate: quizGenerate }),
+];
+
 export const PHYSIK_K7_I2_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Newton Lab", "Newton-Labor", "Newton labor", "Laborator Newton"),
   t1_title: lang("First Law", "1. Gesetz", "1. torveny", "Legea 1"),
   t1_text: lang("An object stays still or keeps moving unless a force changes it.", "Ohne Kraft bleibt Ruhe oder Bewegung erhalten.", "Erore nelkul a nyugalom vagy mozgás marad.", "Fara forta, repausul sau miscarea raman."),
@@ -774,6 +835,34 @@ export const PHYSIK_K7_I2_LABELS = makeLabels({
   t5_c3: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
   t5_c4: lang("energy", "Energie", "energia", "energie"),
 
+  t11_i1: lang("lifted box", "hochgehobene Kiste", "felemelt doboz", "cutie ridicata"),
+  t11_i2: lang("book on shelf", "Buch im Regal", "konyv a polcon", "carte pe raft"),
+  t11_i3: lang("moving cart", "fahrender Wagen", "mozgo kocsi", "carucior in miscare"),
+  t11_i4: lang("resting stone", "ruhender Stein", "nyugvo ko", "piatra in repaus"),
+
+  t12_l1: lang("work", "Arbeit", "munka", "lucru"),
+  t12_r1: lang("force times distance", "Kraft mal Weg", "ero szor ut", "forta ori distanta"),
+  t12_l2: lang("power", "Leistung", "teljesitmeny", "putere"),
+  t12_r2: lang("work per time", "Arbeit pro Zeit", "munka per ido", "lucru pe timp"),
+  t12_l3: lang("force", "Kraft", "ero", "forta"),
+  t12_r3: lang("push or pull", "Druck oder Zug", "nyomas vagy huzas", "impingere sau tractiune"),
+  t12_l4: lang("energy", "Energie", "energia", "energie"),
+  t12_r4: lang("ability to do work", "Faehigkeit Arbeit zu tun", "munka vegzesi kepesseg", "capacitatea de a face lucru"),
+
+  t13_w1: lang("input energy", "Energie hinein", "bemeneti energia", "energie de intrare"),
+  t13_w2: lang("work done", "Arbeit verrichtet", "munka megtortent", "lucru efectuat"),
+  t13_w3: lang("output energy", "Energie heraus", "kimeneti energia", "energie de iesire"),
+
+  t14_t1: lang("push box", "Kiste schieben", "dobozt tolni", "impinge cutia"),
+  t14_t2: lang("lift backpack", "Rucksack heben", "hatizsakot emel", "ridica rucsacul"),
+  t14_t3: lang("hold bag still", "Tasche ruhig halten", "taskat mozdulatlanul tart", "tine geanta pe loc"),
+  t14_t4: lang("push wall that does not move", "gegen Wand druecken die sich nicht bewegt", "falat tolni ami nem mozdul", "impinge perete care nu se misca"),
+
+  t15_sent: lang("Work equals force times ___.", "Arbeit ist Kraft mal ___ .", "A munka ero szor ___ .", "Lucrul este forta ori ___ ."),
+  t15_c1: lang("distance", "Weg", "ut", "distanta"),
+  t15_c2: lang("time", "Zeit", "ido", "timp"),
+  t15_c3: lang("mass", "Masse", "tomeg", "masa"),
+  t15_c4: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
   t6_title: lang("Friction Helps or Hinders", "Reibung hilft oder schadet", "Surloadas: segit vagy akadalyoz", "Frecarea ajuta sau impiedica"),
   t6_text: lang("Friction can be useful or a problem depending on the situation.", "Reibung kann nuetzlich oder hinderlich sein.", "A surlodas hasznos vagy akadaly lehet.", "Frecarea poate fi utila sau daunatoare."),
   t6_inst: lang("Sort the examples: friction helps or friction hinders.", "Sortiere: Reibung hilft oder schadet.", "Rendezd: surloadas segit vagy akadalyoz.", "Sorteaza: frecarea ajuta sau impiedica."),
@@ -853,7 +942,7 @@ export const PHYSIK_K7_I2_POOL: PoolTopicDef[] = [
     { generate: "newton_mcq" },
   ),
   topic(
-    "medium",
+    "easy",
     "t2_title",
     "t2_text",
     icon("📈", "Second law", "#ECFDF5", "#059669"),
@@ -871,7 +960,7 @@ export const PHYSIK_K7_I2_POOL: PoolTopicDef[] = [
     { generate: "newton_mcq" },
   ),
   topic(
-    "medium",
+    "easy",
     "t3_title",
     "t3_text",
     icon("💥", "Third law", "#FEF3C7", "#D97706"),
@@ -915,7 +1004,7 @@ export const PHYSIK_K7_I2_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "newton_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("⚖️", "Forces", "#DBEAFE", "#2563EB"), magnet(
+  topic("hard", "t7_title", "t7_text", icon("⚖️", "Forces", "#DBEAFE", "#2563EB"), magnet(
     [
       { left: "t7_l1", right: "t7_r1" },
       { left: "t7_l2", right: "t7_r2" },
@@ -924,7 +1013,7 @@ export const PHYSIK_K7_I2_POOL: PoolTopicDef[] = [
     ],
     "t7_inst", "t7_h1", "t7_h2",
   ), { generate: "newton_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("💥", "Force→Accel", "#ECFDF5", "#059669"), stacker(
+  topic("hard", "t8_title", "t8_text", icon("💥", "Force→Accel", "#ECFDF5", "#059669"), stacker(
     ["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2",
   ), { generate: "newton_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("🚀", "3rd Law", "#F5F3FF", "#7C3AED"), slingshot(
@@ -940,9 +1029,11 @@ export const PHYSIK_K7_I2_POOL: PoolTopicDef[] = [
   topic("hard", "t10_title", "t10_text", icon("📐", "2nd Law", "#FEF3C7", "#D97706"), gapFill(
     "t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2",
   ), { generate: "newton_mcq" }),
+  ...extraTopics("NewtonSvg", "newton_mcq"),
 ];
 
 export const PHYSIK_K7_I3_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Work Lab", "Arbeits-Labor", "Munka labor", "Labor de lucru"),
   t1_title: lang("Work", "Arbeit", "munka", "lucru"),
   t1_text: lang("Work happens when a force moves an object over a distance.", "Arbeit ist Kraft mal Weg.", "Munka akkor van, ha ero utat tesz meg.", "Lucrul apare cand forta misca pe o distanta."),
@@ -1000,6 +1091,34 @@ export const PHYSIK_K7_I3_LABELS = makeLabels({
   t5_c2: lang("mass", "Masse", "tomeg", "masa"),
   t5_c3: lang("force", "Kraft", "ero", "forta"),
   t5_c4: lang("distance", "Weg", "ut", "distanta"),
+  t11_i1: lang("hot water", "heisses Wasser", "forro viz", "apa fierbinte"),
+  t11_i2: lang("ice cube", "Eiswuerfel", "jeggkocka", "cub de gheata"),
+  t11_i3: lang("sunny road", "sonnige Strasse", "napos ut", "drum insorit"),
+  t11_i4: lang("snow", "Schnee", "ho", "zapada"),
+
+  t12_l1: lang("heat", "Waerme", "ho", "caldura"),
+  t12_r1: lang("energy transfer", "Energieuebertragung", "energia atadas", "transfer de energie"),
+  t12_l2: lang("temperature", "Temperatur", "homerseklet", "temperatura"),
+  t12_r2: lang("how hot or cold", "wie heiss oder kalt", "mennyire meleg vagy hideg", "cat de cald sau rece"),
+  t12_l3: lang("thermometer", "Thermometer", "homero", "termometru"),
+  t12_r3: lang("measures temperature", "misst Temperatur", "meri a homersekletet", "masoara temperatura"),
+  t12_l4: lang("insulator", "Isolator", "szigetelo", "izolator"),
+  t12_r4: lang("slows heat transfer", "verlangsamt Waermefluss", "lassitja a hoatadast", "incetineste transferul"),
+
+  t13_w1: lang("heating", "Erwaermung", "melegites", "incalzire"),
+  t13_w2: lang("particles move faster", "Teilchen bewegen sich schneller", "a reszecskek gyorsabban mozognak", "particulele se misca mai repede"),
+  t13_w3: lang("temperature rises", "Temperatur steigt", "a homerseklet emelkedik", "temperatura creste"),
+
+  t14_t1: lang("boiling water", "kochendes Wasser", "forro viz", "apa clocotita"),
+  t14_t2: lang("ice melting", "Eis schmilzt", "jeg olvad", "gheata se topeste"),
+  t14_t3: lang("book on shelf", "Buch im Regal", "konyv a polcon", "carte pe raft"),
+  t14_t4: lang("snow becoming water", "Schnee wird zu Wasser", "ho vizze valik", "zapada devine apa"),
+
+  t15_sent: lang("When a gas is heated it ___ and takes up more space.", "Wenn ein Gas erhitzt wird, ___ es sich und nimmt mehr Platz ein.", "Ha egy gazt melegitunk, ___ es tobb helyet foglal.", "Cand un gaz este incalzit, ___ si ocupa mai mult spatiu."),
+  t15_c1: lang("expands", "dehnt sich aus", "kitagul", "se dilata"),
+  t15_c2: lang("contracts", "zieht sich zusammen", "osszehuzodik", "se contracta"),
+  t15_c3: lang("melts", "schmilzt", "megolvad", "se topeste"),
+  t15_c4: lang("freezes", "gefriert", "megfagy", "ingheata"),
 
   t6_title: lang("Work formula", "Arbeitsformel", "munkaképlet", "formula lucrului"),
   t6_text: lang("Work is done when a force moves an object over a distance. W = F × d.", "Arbeit wird verrichtet, wenn eine Kraft einen Gegenstand bewegt. W = F × d.", "Munka végzésekor erő hat és mozgás történik. M = F × s.", "Lucrul se face când o forță deplasează un obiect. L = F × d."),
@@ -1079,8 +1198,8 @@ export const PHYSIK_K7_I3_POOL: PoolTopicDef[] = [
     ],
     "t2_inst", "t2_h1", "t2_h2",
   ), { generate: "power_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("🔄", "Transfer", "#FFF7ED", "#C2410C"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "work_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("🔥", "Useful", "#F5F3FF", "#7C3AED"), slingshot("t4_q", [
+  topic("easy", "t3_title", "t3_text", icon("🔄", "Transfer", "#FFF7ED", "#C2410C"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "work_mcq" }),
+  topic("easy", "t4_title", "t4_text", icon("🔥", "Useful", "#F5F3FF", "#7C3AED"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: true },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -1097,13 +1216,13 @@ export const PHYSIK_K7_I3_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "work_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("📏", "Units", "#ECFDF5", "#059669"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("📏", "Units", "#ECFDF5", "#059669"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "power_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("🔢", "P-Steps", "#FFF7ED", "#C2410C"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "power_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("🔢", "P-Steps", "#FFF7ED", "#C2410C"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "power_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("⚙️", "Efficiency", "#F5F3FF", "#7C3AED"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -1111,9 +1230,11 @@ export const PHYSIK_K7_I3_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "power_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FEF3C7", "#D97706"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "work_mcq" }),
+  ...extraTopics("HeatSvg", "heat_transfer_mcq"),
 ];
 
 export const PHYSIK_K7_I4_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Energy Calc", "Energie", "energia", "energie"),
   t1_title: lang("Kinetic energy", "Bewegungsenergie", "mozgasi energia", "energie cinetica"),
   t1_text: lang("Moving objects store kinetic energy.", "Bewegung speichert Energie.", "A mozgó test mozgasenergiat tarol.", "Corpurile in miscare au energie cinetica."),
@@ -1228,6 +1349,34 @@ export const PHYSIK_K7_I4_LABELS = makeLabels({
   t10_c2: lang("chemical", "chemische", "kémiai", "chimică"),
   t10_c3: lang("nuclear", "Kern-", "nukleáris", "nucleară"),
   t10_c4: lang("electrical", "elektrische", "elektromos", "electrică"),
+  t11_i1: lang("pupil", "Pupille", "pupilla", "pupila"),
+  t11_i2: lang("retina", "Netzhaut", "retina", "retina"),
+  t11_i3: lang("hammer", "Hammer", "kalapacs", "ciocan"),
+  t11_i4: lang("lens", "Linse", "lencse", "lentila"),
+
+  t12_l1: lang("glasses", "Brille", "szemuveg", "ochelari"),
+  t12_r1: lang("help focus", "hilft beim Fokus", "segit fokuszalni", "ajuta la focalizare"),
+  t12_l2: lang("eye", "Auge", "szem", "ochi"),
+  t12_r2: lang("gets clearer", "sieht klarer", "tisztabban lat", "vede mai clar"),
+  t12_l3: lang("lens", "Linse", "lencse", "lentila"),
+  t12_r3: lang("changes light path", "andert Lichtweg", "valtoztatja a feny utjat", "schimba drumul luminii"),
+  t12_l4: lang("retina", "Netzhaut", "retina", "retina"),
+  t12_r4: lang("stores image", "bildet Bild", "kepet kepez", "formeaza imaginea"),
+
+  t13_w1: lang("light in", "Licht rein", "feny be", "lumina intra"),
+  t13_w2: lang("focus", "Fokus", "fokusz", "focalizare"),
+  t13_w3: lang("picture out", "Bild raus", "kep ki", "imagine iese"),
+
+  t14_t1: lang("telescope", "Teleskop", "teleszkop", "telescop"),
+  t14_t2: lang("microscope", "Mikroskop", "mikroszkop", "microscop"),
+  t14_t3: lang("spoon", "Loeffel", "kanal", "lingura"),
+  t14_t4: lang("shoe", "Schuh", "cipo", "pantof"),
+
+  t15_sent: lang("A telescope helps you see ___.", "Ein Teleskop hilft dir, ___ zu sehen.", "A teleszkop segit ___ latni.", "Un telescop te ajuta sa vezi ___."),
+  t15_c1: lang("far", "weit", "messze", "departe"),
+  t15_c2: lang("small", "klein", "kicsi", "mic"),
+  t15_c3: lang("dark", "dunkel", "sotet", "intuneric"),
+  t15_c4: lang("hot", "heiss", "forro", "cald"),
 });
 
 export const PHYSIK_K7_I4_POOL: PoolTopicDef[] = [
@@ -1247,8 +1396,8 @@ export const PHYSIK_K7_I4_POOL: PoolTopicDef[] = [
     { left: "t2_l3", right: "t2_r3" },
     { left: "t2_l4", right: "t2_r4" },
   ], "t2_inst", "t2_h1", "t2_h2"), { generate: "potential_energy_calc_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("🧮", "Formula", "#F5F3FF", "#7C3AED"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "kinetic_energy_calc_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("🛠️", "Advantage", "#FEF3C7", "#D97706"), slingshot("t4_q", [
+  topic("easy", "t3_title", "t3_text", icon("🧮", "Formula", "#F5F3FF", "#7C3AED"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "kinetic_energy_calc_mcq" }),
+  topic("easy", "t4_title", "t4_text", icon("🛠️", "Advantage", "#FEF3C7", "#D97706"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: true },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -1265,13 +1414,13 @@ export const PHYSIK_K7_I4_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "kinetic_energy_calc_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("🔋", "Conversion", "#ECFDF5", "#059669"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("🔋", "Conversion", "#ECFDF5", "#059669"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "potential_energy_calc_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("🎾", "Ball Chain", "#F5F3FF", "#7C3AED"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "kinetic_energy_calc_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("🎾", "Ball Chain", "#F5F3FF", "#7C3AED"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "kinetic_energy_calc_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("♻️", "Conservation", "#FEF3C7", "#D97706"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -1279,9 +1428,11 @@ export const PHYSIK_K7_I4_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "potential_energy_calc_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "kinetic_energy_calc_mcq" }),
+  ...extraTopics("EnergySvg", "kinetic_energy_calc_mcq"),
 ];
 
 export const PHYSIK_K7_I5_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Lens Lab", "Linsen-Labor", "lencse labor", "laborator lentile"),
   t1_title: lang("Convex lens", "Sammellinse", "domboru lencse", "lentila convexa"),
   t1_text: lang("A convex lens brings light together.", "Eine Sammellinse buendelt Licht.", "A domboru lencse osszegyujti a fenyt.", "O lentila convexa aduna lumina."),
@@ -1396,6 +1547,34 @@ export const PHYSIK_K7_I5_LABELS = makeLabels({
   t10_c2: lang("concave", "konkav", "homorú", "concavă"),
   t10_c3: lang("flat", "flach", "sík", "plată"),
   t10_c4: lang("curved", "gebogen", "görbe", "curbată"),
+  t11_i1: lang("magnifying glass", "Lupe", "nagyito", "lupa"),
+  t11_i2: lang("camera lens", "Kameralinse", "kamera lencse", "obiectiv"),
+  t11_i3: lang("flat glass", "flaches Glas", "sima uveg", "sticla plana"),
+  t11_i4: lang("projector", "Projektor", "projektor", "proiector"),
+
+  t12_l1: lang("concave lens", "Zerstreuungslinse", "homoru lencse", "lentila concava"),
+  t12_r1: lang("spreads light", "streut Licht", "szetszoroja a fenyt", "imprastie lumina"),
+  t12_l2: lang("convex lens", "Sammellinse", "domboru lencse", "lentila convexa"),
+  t12_r2: lang("collects light", "buendelt Licht", "osszegyujti a fenyt", "aduna lumina"),
+  t12_l3: lang("centre thin", "Mitte duenner", "kozep vekony", "centru subtire"),
+  t12_r3: lang("spread", "streuen", "szetvalaszt", "imprastie"),
+  t12_l4: lang("centre thick", "Mitte dick", "kozep vastag", "centru gros"),
+  t12_r4: lang("focus", "fokus", "fokusz", "focalizare"),
+
+  t13_w1: lang("ray in", "einfallender Strahl", "beerkezo sugar", "raza incidenta"),
+  t13_w2: lang("lens", "Linse", "lencse", "lentila"),
+  t13_w3: lang("image", "Bild", "kep", "imagine"),
+
+  t14_t1: lang("convex lens", "Sammellinse", "domboru lencse", "lentila convexa"),
+  t14_t2: lang("concave lens", "Zerstreuungslinse", "homoru lencse", "lentila concava"),
+  t14_t3: lang("paper", "Papier", "papir", "hartie"),
+  t14_t4: lang("stone", "Stein", "ko", "piatra"),
+
+  t15_sent: lang("A lens thicker in the middle is called a ___ lens.", "Eine in der Mitte dickere Linse heisst ___ Linse.", "A kozepen vastagabb lencset ___ lencsenek hivjuk.", "O lentila mai groasa la mijloc se numeste lentila ___ ."),
+  t15_c1: lang("convex", "konvex", "domboru", "convexa"),
+  t15_c2: lang("concave", "konkav", "homoru", "concava"),
+  t15_c3: lang("flat", "flach", "sima", "plana"),
+  t15_c4: lang("curved", "gebogen", "gorbe", "curbata"),
 });
 
 export const PHYSIK_K7_I5_POOL: PoolTopicDef[] = [
@@ -1415,8 +1594,8 @@ export const PHYSIK_K7_I5_POOL: PoolTopicDef[] = [
     { left: "t2_l3", right: "t2_r3" },
     { left: "t2_l4", right: "t2_r4" },
   ], "t2_inst", "t2_h1", "t2_h2"), { generate: "lenses_concave_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("✨", "Image", "#FEF3C7", "#D97706"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "image_formation_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("👓", "Compare", "#F5F3FF", "#7C3AED"), slingshot("t4_q", [
+  topic("easy", "t3_title", "t3_text", icon("✨", "Image", "#FEF3C7", "#D97706"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "image_formation_mcq" }),
+  topic("easy", "t4_title", "t4_text", icon("👓", "Compare", "#F5F3FF", "#7C3AED"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: true },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -1433,13 +1612,13 @@ export const PHYSIK_K7_I5_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "lenses_convex_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("🎯", "Focal", "#ECFDF5", "#059669"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("🎯", "Focal", "#ECFDF5", "#059669"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "lenses_concave_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("🔬", "Magnifier", "#FEF3C7", "#D97706"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "image_formation_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("🔬", "Magnifier", "#FEF3C7", "#D97706"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "image_formation_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("📽️", "Real/Virtual", "#F5F3FF", "#7C3AED"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -1447,9 +1626,11 @@ export const PHYSIK_K7_I5_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "lenses_convex_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "image_formation_mcq" }),
+  ...extraTopics("LensSvg", "lenses_convex_mcq"),
 ];
 
 export const PHYSIK_K7_I6_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Eye Lab", "Augen-Labor", "szem labor", "laborator ochi"),
   t1_title: lang("Eye optics", "Auge", "szem", "ochi"),
   t1_text: lang("The eye forms a picture with light.", "Das Auge bildet mit Licht ein Bild.", "A szem fenybol kepez kepet.", "Ochiul formeaza o imagine cu lumina."),
@@ -1564,6 +1745,34 @@ export const PHYSIK_K7_I6_LABELS = makeLabels({
   t10_c2: lang("distant", "ferne", "távoli", "îndepărtate"),
   t10_c3: lang("hot", "heiße", "forró", "fierbinți"),
   t10_c4: lang("dark", "dunkle", "sötét", "întunecate"),
+  t11_i1: lang("book on table", "Buch auf Tisch", "konyv az asztalon", "carte pe masa"),
+  t11_i2: lang("rolling ball", "rollender Ball", "gordulo labda", "minge care ruleaza"),
+  t11_i3: lang("parked bike", "parkendes Rad", "parkolo bicikli", "bicicleta parcata"),
+  t11_i4: lang("flying kite", "Drachen im Flug", "repulo sarkany", "zmeu in aer"),
+
+  t12_l1: lang("force", "Kraft", "ero", "forta"),
+  t12_r1: lang("push or pull", "Druck oder Zug", "nyomas vagy huzas", "impingere sau tractiune"),
+  t12_l2: lang("mass", "Masse", "tomeg", "masa"),
+  t12_r2: lang("how much matter", "wie viel Stoff", "mennyi anyag", "cat material"),
+  t12_l3: lang("acceleration", "Beschleunigung", "gyorsulas", "acceleratie"),
+  t12_r3: lang("change in speed", "Aenderung der Geschwindigkeit", "a sebesseg valtozasa", "schimbarea vitezei"),
+  t12_l4: lang("F = m x a", "F = m x a", "F = m x a", "F = m x a"),
+  t12_r4: lang("formula link", "Formel fuer den Zusammenhang", "osszefugges keplete", "formula legaturii"),
+
+  t13_w1: lang("push", "druecken", "nyomas", "impingere"),
+  t13_w2: lang("reaction", "Reaktion", "ellenreakcio", "reactie"),
+  t13_w3: lang("pair", "Paar", "par", "pereche"),
+
+  t14_t1: lang("weight", "Gewichtskraft", "suly", "greutate"),
+  t14_t2: lang("normal force", "Normalkraft", "erinto ero", "forta normala"),
+  t14_t3: lang("friction", "Reibung", "surlodas", "frecare"),
+  t14_t4: lang("net force", "Nettokraft", "eredo ero", "forta neta"),
+
+  t15_sent: lang("If a body is harder to accelerate, it has more ___.", "Wenn ein Koerper schwerer zu beschleunigen ist, hat er mehr ___ .", "Ha egy testet nehezebb gyorsitani, nagyobb ___-ja van.", "Daca un corp e mai greu de accelerat, are mai multa ___ ."),
+  t15_c1: lang("mass", "Masse", "tomeg", "masa"),
+  t15_c2: lang("inertia", "Traegheit", "tehetetlenseg", "inerÈ›ie"),
+  t15_c3: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
+  t15_c4: lang("energy", "Energie", "energia", "energie"),
 });
 
 export const PHYSIK_K7_I6_POOL: PoolTopicDef[] = [
@@ -1583,8 +1792,8 @@ export const PHYSIK_K7_I6_POOL: PoolTopicDef[] = [
     { left: "t2_l3", right: "t2_r3" },
     { left: "t2_l4", right: "t2_r4" },
   ], "t2_inst", "t2_h1", "t2_h2"), { generate: "eye_optics_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("📷", "Camera", "#FEF3C7", "#D97706"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "eye_optics_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("🔭", "Tools", "#F5F3FF", "#7C3AED"), slingshot("t4_q", [
+  topic("easy", "t3_title", "t3_text", icon("📷", "Camera", "#FEF3C7", "#D97706"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "eye_optics_mcq" }),
+  topic("easy", "t4_title", "t4_text", icon("🔭", "Tools", "#F5F3FF", "#7C3AED"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: true },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -1601,13 +1810,13 @@ export const PHYSIK_K7_I6_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "eye_optics_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("🔭", "Vision Fix", "#ECFDF5", "#059669"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("🔭", "Vision Fix", "#ECFDF5", "#059669"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "eye_optics_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("👁️", "Focus Steps", "#FEF3C7", "#D97706"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "eye_optics_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("👁️", "Focus Steps", "#FEF3C7", "#D97706"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "eye_optics_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("🔬", "Instruments", "#F5F3FF", "#7C3AED"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -1615,9 +1824,11 @@ export const PHYSIK_K7_I6_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "optical_instruments_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "optical_instruments_mcq" }),
+  ...extraTopics("NewtonSvg", "newton_mcq"),
 ];
 
 export const PHYSIK_K7_I7_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Thermo Lab", "Thermo-Labor", "termo labor", "laborator termo"),
   t1_title: lang("Temperature", "Temperatur", "homerseklet", "temperatura"),
   t1_text: lang("Temperature tells how warm something is.", "Temperatur sagt wie warm etwas ist.", "A homerseklet azt mutatja, mennyire meleg valami.", "Temperatura arata cat de cald este ceva."),
@@ -1732,6 +1943,34 @@ export const PHYSIK_K7_I7_LABELS = makeLabels({
   t10_c2: lang("contracts", "zieht sich zusammen", "összehúzódik", "se contractă"),
   t10_c3: lang("melts", "schmilzt", "megolvad", "se topește"),
   t10_c4: lang("freezes", "gefriert", "megfagy", "îngheață"),
+  t11_i1: lang("Earth", "Erde", "Fold", "Pamant"),
+  t11_i2: lang("moon", "Mond", "Hold", "Luna"),
+  t11_i3: lang("paper", "Papier", "papir", "hartie"),
+  t11_i4: lang("apple", "Apfel", "alma", "mar"),
+
+  t12_l1: lang("Sun", "Sonne", "Nap", "Soare"),
+  t12_r1: lang("center of system", "Zentrum des Systems", "a rendszer kozpontja", "centrul sistemului"),
+  t12_l2: lang("Earth", "Erde", "Fold", "Pamant"),
+  t12_r2: lang("rocky planet", "Felsplanet", "kozetbolygo", "planeta stancoasa"),
+  t12_l3: lang("Jupiter", "Jupiter", "Jupiter", "Jupiter"),
+  t12_r3: lang("gas giant", "Gasriese", "gazorias", "gigant gazos"),
+  t12_l4: lang("Moon", "Mond", "Hold", "Luna"),
+  t12_r4: lang("orbits Earth", "kreist um Erde", "Fold korul kering", "orbiteaza Pamantul"),
+
+  t13_w1: lang("curve", "Kurve", "gorbe", "curba"),
+  t13_w2: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
+  t13_w3: lang("center", "Mitte", "kozep", "centru"),
+
+  t14_t1: lang("Earth tilt", "Achsneigung", "tengelydoles", "inclinarea axei"),
+  t14_t2: lang("Moon gravity", "Mondgravitation", "Hold gravitacio", "gravitatia Lunii"),
+  t14_t3: lang("wind", "Wind", "szel", "vant"),
+  t14_t4: lang("rain", "Regen", "eso", "ploaie"),
+
+  t15_sent: lang("A rocket needs ___ to leave Earth.", "Eine Rakete braucht ___, um die Erde zu verlassen.", "Egy raketanak ___ kell a Fold elhagyasahoz.", "O racheta are nevoie de ___ ca sa plece de pe Pamant."),
+  t15_c1: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
+  t15_c2: lang("snow", "Schnee", "ho", "zapada"),
+  t15_c3: lang("paper", "Papier", "papir", "hartie"),
+  t15_c4: lang("salt", "Salz", "so", "sare"),
 });
 
 export const PHYSIK_K7_I7_POOL: PoolTopicDef[] = [
@@ -1751,8 +1990,8 @@ export const PHYSIK_K7_I7_POOL: PoolTopicDef[] = [
     { left: "t2_l3", right: "t2_r3" },
     { left: "t2_l4", right: "t2_r4" },
   ], "t2_inst", "t2_h1", "t2_h2"), { generate: "heat_transfer_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("📏", "Expand", "#F5F3FF", "#7C3AED"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "expansion_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("💧", "States", "#EFF6FF", "#2563EB"), slingshot("t4_q", [
+  topic("easy", "t3_title", "t3_text", icon("📏", "Expand", "#F5F3FF", "#7C3AED"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "expansion_mcq" }),
+  topic("easy", "t4_title", "t4_text", icon("💧", "States", "#EFF6FF", "#2563EB"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: false },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -1769,13 +2008,13 @@ export const PHYSIK_K7_I7_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "heat_transfer_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("💧", "Phase Names", "#EFF6FF", "#2563EB"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("💧", "Phase Names", "#EFF6FF", "#2563EB"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "states_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("⚙️", "Steam Engine", "#ECFDF5", "#059669"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "expansion_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("⚙️", "Steam Engine", "#ECFDF5", "#059669"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "expansion_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("🌊", "Convection", "#F5F3FF", "#7C3AED"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -1783,9 +2022,11 @@ export const PHYSIK_K7_I7_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "heat_transfer_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "expansion_mcq" }),
+  ...extraTopics("HeatSvg", "heat_transfer_mcq"),
 ];
 
 export const PHYSIK_K7_I8_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Wave Lab", "Wellen-Labor", "hullam labor", "laborator unde"),
   t1_title: lang("Wave equation", "Wellenformel", "hullamegyenlet", "ecuatia undei"),
   t1_text: lang("Wave speed, frequency, and wavelength belong together.", "Geschwindigkeit, Frequenz und Wellenlaenge gehören zusammen.", "Sebesseg, frekvencia es hullamhossz osszetartozik.", "Viteza, frecventa si lungimea de unda merg impreuna."),
@@ -1900,6 +2141,34 @@ export const PHYSIK_K7_I8_LABELS = makeLabels({
   t10_c2: lang("longer", "länger", "hosszabb", "mai lungă"),
   t10_c3: lang("wider", "breiter", "szélesebb", "mai largă"),
   t10_c4: lang("taller", "höher", "magasabb", "mai înaltă"),
+  t11_i1: lang("frequency", "Frequenz", "frekvencia", "frecventa"),
+  t11_i2: lang("wavelength", "Wellenlaenge", "hullamhossz", "lungime de unda"),
+  t11_i3: lang("banana", "Banane", "banan", "banana"),
+  t11_i4: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
+
+  t12_l1: lang("radio", "Radio", "radio", "radio"),
+  t12_r1: lang("long waves", "lange Wellen", "hosszu hullam", "unde lungi"),
+  t12_l2: lang("visible light", "sichtbares Licht", "lathato feny", "lumina vizibila"),
+  t12_r2: lang("what eyes see", "was Augen sehen", "amit a szem lat", "ce vad ochii"),
+  t12_l3: lang("X-ray", "Roentgen", "rontgen", "raze X"),
+  t12_r3: lang("can pass through body", "geht durch Koerper", "atkeli a testen", "trece prin corp"),
+  t12_l4: lang("microwave", "Mikrowelle", "mikrohullam", "microunde"),
+  t12_r4: lang("heats food", "erhitzt Essen", "elelmet melegit", "incalzeste mancarea"),
+
+  t13_w1: lang("infrared", "Infrarot", "infravoros", "infrarosu"),
+  t13_w2: lang("ultraviolet", "UV", "UV", "UV"),
+  t13_w3: lang("visible", "sichtbar", "lathato", "vizibil"),
+
+  t14_t1: lang("two waves make bigger wave", "zwei Wellen werden groesser", "ket hullam nagyobbat ad", "doua unde fac una mai mare"),
+  t14_t2: lang("waves cancel out", "Wellen loeschen sich aus", "a hullamok kioltjak egymast", "undele se anuleaza"),
+  t14_t3: lang("banana", "Banane", "banan", "banana"),
+  t14_t4: lang("stone", "Stein", "ko", "piatra"),
+
+  t15_sent: lang("Wave speed equals frequency times ___.", "Wellengeschwindigkeit ist Frequenz mal ___ .", "A hullamsebesseg frekvencia szor ___ .", "Viteza undei este frecventa ori ___ ."),
+  t15_c1: lang("wavelength", "Wellenlaenge", "hullamhossz", "lungime de unda"),
+  t15_c2: lang("mass", "Masse", "tomeg", "masa"),
+  t15_c3: lang("color", "Farbe", "szin", "culoare"),
+  t15_c4: lang("heat", "Waerme", "ho", "caldura"),
 });
 
 export const PHYSIK_K7_I8_POOL: PoolTopicDef[] = [
@@ -1914,12 +2183,12 @@ export const PHYSIK_K7_I8_POOL: PoolTopicDef[] = [
     ],
     "t2_inst", "t2_h1", "t2_h2",
   ), { generate: "electromagnetic_spectrum_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("☀️", "UV", "#F5F3FF", "#7C3AED"), magnet([
+  topic("easy", "t3_title", "t3_text", icon("☀️", "UV", "#F5F3FF", "#7C3AED"), magnet([
     { left: "t3_w1", right: "t3_h1" },
     { left: "t3_w2", right: "t3_h2" },
     { left: "t3_w3", right: "t3_h1" },
   ], "t3_inst", "t3_h1", "t3_h2"), { generate: "infrared_uv_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("〰️", "Interf.", "#ECFDF5", "#059669"), slingshot("t4_q", [
+  topic("easy", "t4_title", "t4_text", icon("〰️", "Interf.", "#ECFDF5", "#059669"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: true },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -1936,13 +2205,13 @@ export const PHYSIK_K7_I8_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "wave_equation_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("📐", "Properties", "#FEF3C7", "#D97706"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("📐", "Properties", "#FEF3C7", "#D97706"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "electromagnetic_spectrum_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("📡", "EM Order", "#F5F3FF", "#7C3AED"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "electromagnetic_spectrum_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("📡", "EM Order", "#F5F3FF", "#7C3AED"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "electromagnetic_spectrum_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("🏥", "Medicine", "#ECFDF5", "#059669"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -1950,9 +2219,11 @@ export const PHYSIK_K7_I8_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "infrared_uv_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "wave_equation_mcq" }),
+  ...extraTopics("WaveSvg", "wave_equation_mcq"),
 ];
 
 export const PHYSIK_K7_I9_LABELS = makeLabels({
+  ...COMMON_EXTRA_LABELS,
   explorer_title: lang("Space Lab", "Weltall-Labor", "ur labor", "laborator spatial"),
   t1_title: lang("Gravity", "Gravitation", "gravitacio", "gravitatie"),
   t1_text: lang("Gravity pulls masses together.", "Gravitation zieht Massen an.", "A gravitacio osszehuzza a tomegeket.", "Gravitatia trage masele impreuna."),
@@ -2067,6 +2338,34 @@ export const PHYSIK_K7_I9_LABELS = makeLabels({
   t10_c2: lang("shorter", "kürzer", "rövidebb", "mai scurtă"),
   t10_c3: lang("the same", "gleich", "ugyanolyan", "aceeași"),
   t10_c4: lang("faster", "schneller", "gyorsabb", "mai rapidă"),
+  t11_i1: lang("Earth", "Erde", "Fold", "Pamant"),
+  t11_i2: lang("moon", "Mond", "Hold", "Luna"),
+  t11_i3: lang("paper", "Papier", "papir", "hartie"),
+  t11_i4: lang("apple", "Apfel", "alma", "mar"),
+
+  t12_l1: lang("Sun", "Sonne", "Nap", "Soare"),
+  t12_r1: lang("center of system", "Zentrum des Systems", "a rendszer kozpontja", "centrul sistemului"),
+  t12_l2: lang("Earth", "Erde", "Fold", "Pamant"),
+  t12_r2: lang("rocky planet", "Felsplanet", "kozetbolygo", "planeta stancoasa"),
+  t12_l3: lang("Jupiter", "Jupiter", "Jupiter", "Jupiter"),
+  t12_r3: lang("gas giant", "Gasriese", "gazorias", "gigant gazos"),
+  t12_l4: lang("Moon", "Mond", "Hold", "Luna"),
+  t12_r4: lang("orbits Earth", "kreist um Erde", "Fold korul kering", "orbiteaza Pamantul"),
+
+  t13_w1: lang("curve", "Kurve", "gorbe", "curba"),
+  t13_w2: lang("speed", "Geschwindigkeit", "sebesseg", "viteza"),
+  t13_w3: lang("center", "Mitte", "kozep", "centru"),
+
+  t14_t1: lang("Earth tilt", "Achsneigung", "tengelydoles", "inclinarea axei"),
+  t14_t2: lang("Moon gravity", "Mondgravitation", "Hold gravitacio", "gravitatia Lunii"),
+  t14_t3: lang("wind", "Wind", "szel", "vant"),
+  t14_t4: lang("rain", "Regen", "eso", "ploaie"),
+
+  t15_sent: lang("The further a planet is from the Sun, the ___ its orbital period.", "Je weiter ein Planet von der Sonne, desto ___ seine Umlaufzeit.", "Minel messzebb van a bolygo a Naptol, annal ___ a keringesi ideje.", "Cu cat o planeta este mai departe de Soare, cu atat perioada orbitala este mai ___ ."),
+  t15_c1: lang("longer", "laenger", "hosszabb", "lunga"),
+  t15_c2: lang("shorter", "kuerzer", "rovidebb", "scurta"),
+  t15_c3: lang("the same", "gleich", "ugyanolyan", "aceeasi"),
+  t15_c4: lang("faster", "schneller", "gyorsabb", "mai rapida"),
 });
 
 export const PHYSIK_K7_I9_POOL: PoolTopicDef[] = [
@@ -2086,8 +2385,8 @@ export const PHYSIK_K7_I9_POOL: PoolTopicDef[] = [
     { left: "t2_l3", right: "t2_r3" },
     { left: "t2_l4", right: "t2_r4" },
   ], "t2_inst", "t2_h1", "t2_h2"), { generate: "solar_system_mcq" }),
-  topic("medium", "t3_title", "t3_text", icon("🛰️", "Orbit", "#F5F3FF", "#7C3AED"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "orbits_mcq" }),
-  topic("medium", "t4_title", "t4_text", icon("🌙", "Tides", "#ECFDF5", "#059669"), slingshot("t4_q", [
+  topic("easy", "t3_title", "t3_text", icon("🛰️", "Orbit", "#F5F3FF", "#7C3AED"), stacker(["t3_w1", "t3_w2", "t3_w3"], [0, 1, 2], "t3_inst", "t3_h1", "t3_h2"), { generate: "orbits_mcq" }),
+  topic("easy", "t4_title", "t4_text", icon("🌙", "Tides", "#ECFDF5", "#059669"), slingshot("t4_q", [
     { id: "1", text: "t4_t1", isCorrect: true },
     { id: "2", text: "t4_t2", isCorrect: true },
     { id: "3", text: "t4_t3", isCorrect: false },
@@ -2104,13 +2403,13 @@ export const PHYSIK_K7_I9_POOL: PoolTopicDef[] = [
     ],
     "t6_inst", "t6_h1", "t6_h2",
   ), { generate: "solar_system_mcq" }),
-  topic("medium", "t7_title", "t7_text", icon("🌀", "Kepler", "#FEF3C7", "#D97706"), magnet([
+  topic("hard", "t7_title", "t7_text", icon("🌀", "Kepler", "#FEF3C7", "#D97706"), magnet([
     { left: "t7_l1", right: "t7_r1" },
     { left: "t7_l2", right: "t7_r2" },
     { left: "t7_l3", right: "t7_r3" },
     { left: "t7_l4", right: "t7_r4" },
   ], "t7_inst", "t7_h1", "t7_h2"), { generate: "orbits_mcq" }),
-  topic("medium", "t8_title", "t8_text", icon("🌅", "Day/Night", "#ECFDF5", "#059669"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "seasons_tides_mcq" }),
+  topic("hard", "t8_title", "t8_text", icon("🌅", "Day/Night", "#ECFDF5", "#059669"), stacker(["t8_w1", "t8_w2", "t8_w3"], [0, 1, 2], "t8_inst", "t8_h1", "t8_h2"), { generate: "seasons_tides_mcq" }),
   topic("medium", "t9_title", "t9_text", icon("☄️", "Comets", "#F5F3FF", "#7C3AED"), slingshot("t9_q", [
     { id: "1", text: "t9_t1", isCorrect: true },
     { id: "2", text: "t9_t2", isCorrect: true },
@@ -2118,4 +2417,7 @@ export const PHYSIK_K7_I9_POOL: PoolTopicDef[] = [
     { id: "4", text: "t9_t4", isCorrect: false },
   ], "t9_inst", "t9_h1", "t9_h2"), { generate: "solar_system_mcq" }),
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "orbits_mcq" }),
+  ...extraTopics("SpaceSvg", "orbits_mcq"),
 ];
+
+
