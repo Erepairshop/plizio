@@ -47,6 +47,8 @@ import { SACHKUNDE_VISUAL_LAB_K3 } from "@/lib/visualLab/pools/sachkundeK3";
 import { SACHKUNDE_VISUAL_LAB_K4 } from "@/lib/visualLab/pools/sachkundeK4";
 
 import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
+import { GEOGRAPHY_POOLS } from "@/lib/visualLab/pools/geographyPool";
+import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 
 const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
   1: SACHKUNDE_VISUAL_LAB_K1,
@@ -191,6 +193,11 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
   ],
   geographie: [
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
+    { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
+    { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
+    { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
+    { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
+    { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   geschichte: [
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
@@ -515,6 +522,8 @@ function GameHost({
         <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
       ) : subject === "informatika" ? (
         <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
+      ) : subject === "geographie" ? (
+        <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       ) : (
         <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       )}
@@ -707,6 +716,42 @@ function SachkundeGameSwitch({
     case "fact-swipe": {
       const round = pool.factSwipe?.[0];
       return round ? <FactSwipeGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    default:
+      return <FallbackBox title={gameId} info={tSoon} />;
+  }
+}
+
+function GeographieGameSwitch({
+  gameId, grade, lang, initialPoiId, tSoon,
+}: {
+  gameId: string; grade: number; lang: Lang; initialPoiId?: string | null; tSoon: string;
+}) {
+  if (gameId === "deutschland-map") {
+    return <InteractiveMap lang={lang} subject="geographie" grade={grade} initialPoiId={initialPoiId} />;
+  }
+  const pool = GEOGRAPHY_POOLS[grade];
+  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
+  switch (gameId) {
+    case "meteor-catch": {
+      const round = pickRound(pool.meteorCatch, undefined);
+      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "orbit-sort": {
+      const round = pickRound(pool.orbitSort, undefined);
+      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "signal-runner": {
+      const round = pickRound(pool.signalRunner, undefined);
+      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "constellation-builder": {
+      const round = pickRound(pool.constellationBuilder, undefined);
+      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "memory-radar": {
+      const round = pickRound(pool.memoryRadar, undefined);
+      return round ? <MemoryRadarGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;

@@ -35,6 +35,7 @@ import {
   generateIslandQuestionsK8, generateCheckpointQuestionsK8,
 } from "@/lib/astroGeographie8";
 
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 const GeographieK8Explorer = dynamic(() => import("@/app/astro-geographie/games/k8/GeographieK8Explorer"), { ssr: false });
 
@@ -218,6 +219,7 @@ export default function AstroGeographieK8Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const [gender] = useState<AvatarGender>(() => getGender());
   const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
@@ -345,6 +347,14 @@ export default function AstroGeographieK8Page() {
             </motion.div>
           </div>
         </div>
+        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+        <VisualLab
+          subject="geographie"
+          grade={8}
+          lang={lang}
+          open={visualLabOpen}
+          onClose={() => setVisualLabOpen(false)}
+        />
       </div>
     );
   }

@@ -319,3 +319,12 @@ export interface FactSwipeRound {
   cards: FactSwipeCard[];
   theme: { bg: string; accent: string };
 }
+
+export interface GeographieVisualLabGradePool {
+  grade: 5 | 6 | 7 | 8;
+  meteorCatch: MeteorCatchRound[];
+  orbitSort: OrbitSortRound[];
+  signalRunner: SignalRunnerRound[];
+  constellationBuilder: ConstellationBuilderRound[];
+  memoryRadar: MemoryRadarRound[];
+}
