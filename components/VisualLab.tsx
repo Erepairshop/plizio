@@ -522,6 +522,12 @@ function GameHost({
   );
 }
 
+function pickRound<T>(arr: T[] | undefined, fallback: T[] | undefined): T | undefined {
+  const src = (arr && arr.length > 0) ? arr : (fallback && fallback.length > 0 ? fallback : undefined);
+  if (!src || src.length === 0) return undefined;
+  return src[Math.floor(Math.random() * src.length)];
+}
+
 function AstromathGameSwitch({
   gameId,
   grade,
@@ -577,12 +583,6 @@ function DeutschGameSwitch({
 
   // Round-szintű fallback: ha az adott pool-ban üres az array, de+1-ből vesszük
   const dePool = ASTRO_LANGUAGE_POOLS['de']?.[1];
-
-  function pickRound<T>(arr: T[] | undefined, fallback: T[] | undefined): T | undefined {
-    const src = (arr && arr.length > 0) ? arr : (fallback && fallback.length > 0 ? fallback : undefined);
-    if (!src || src.length === 0) return undefined;
-    return src[Math.floor(Math.random() * src.length)];
-  }
 
   if (gameId === "tipp-sturm") {
     const round = pickRound(pool?.tippSturm, dePool?.tippSturm);
