@@ -1,4 +1,6 @@
 "use client";
+import { useState } from "react";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
 import K6Explorer from "@/app/astrokemia/games/k6/K6Explorer";
@@ -21,6 +23,7 @@ import {
 
 export default function AstroKemiaGrade6Page() {
   const { lang } = useLang();
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const subtitle =
     lang === "hu"
       ? "Atomok és szétválasztás"
@@ -31,6 +34,7 @@ export default function AstroKemiaGrade6Page() {
       : "Atome & Trennmethoden";
 
   return (
+    <>
     <AstroKemiaGradeGame
       grade={6}
       title="AstroKemia"
@@ -53,5 +57,8 @@ export default function AstroKemiaGrade6Page() {
       generateCheckpointQuestions={generateCheckpointQuestionsKemiaK6}
       Explorer={K6Explorer}
     />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="kemia" grade={6} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+    </>
   );
 }

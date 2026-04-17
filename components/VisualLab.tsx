@@ -53,6 +53,7 @@ import { SACHKUNDE_VISUAL_LAB_K4 } from "@/lib/visualLab/pools/sachkundeK4";
 import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
 import { GEOGRAPHY_POOLS } from "@/lib/visualLab/pools/geographyPool";
 import { PHYSIK_POOLS } from "@/lib/visualLab/pools/physikPool";
+import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
 import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 
 const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
@@ -66,7 +67,7 @@ const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
 /* Types                                                               */
 /* ------------------------------------------------------------------ */
 
-export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik";
+export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik" | "kemia";
 export type Lang = "de" | "hu" | "ro" | "en";
 
 export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline" | "campaign";
@@ -239,6 +240,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
   ],
   physik: [
     { id: "formula-blitz", type: "spotter", labelKey: "formulaBlitz", available: true },
+    { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
+    { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
+    { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
+    { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
+    { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+  ],
+  kemia: [
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -550,6 +558,8 @@ function GameHost({
         <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       ) : subject === "physik" ? (
         <PhysikGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
+      ) : subject === "kemia" ? (
+        <KemiaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : (
         <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       )}
@@ -797,6 +807,39 @@ function PhysikGameSwitch({
     return <FormulaBlitzGame grade={grade} lang={lang} />;
   }
   const pool = PHYSIK_POOLS[grade];
+  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
+  switch (gameId) {
+    case "meteor-catch": {
+      const round = pickRound(pool.meteorCatch, undefined);
+      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "orbit-sort": {
+      const round = pickRound(pool.orbitSort, undefined);
+      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "signal-runner": {
+      const round = pickRound(pool.signalRunner, undefined);
+      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "constellation-builder": {
+      const round = pickRound(pool.constellationBuilder, undefined);
+      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "memory-radar": {
+      const rounds = pool.memoryRadar.slice(0, 3);
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    default:
+      return <FallbackBox title={gameId} info={tSoon} />;
+  }
+}
+
+function KemiaGameSwitch({
+  gameId, grade, lang, tSoon,
+}: {
+  gameId: string; grade: number; lang: Lang; tSoon: string;
+}) {
+  const pool = KEMIA_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
     case "meteor-catch": {
