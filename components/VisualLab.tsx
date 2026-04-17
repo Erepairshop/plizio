@@ -566,6 +566,7 @@ function AstromathGameSwitch({
     return <MathDefenderGame grade={grade} lang={lang} />;
   }
   if (gameId === "fraction-reactor") {
+    if (grade < 3) return <FallbackBox title="Bruchreaktor" info={lang === "hu" ? "Ez a játék 3. osztálytól elérhető." : lang === "ro" ? "Disponibil din clasa 3." : lang === "en" ? "Available from grade 3." : "Ab Klasse 3 verfügbar."} />;
     return <FractionReactorGame grade={grade} lang={lang} />;
   }
   if (gameId === "angle-laser") {

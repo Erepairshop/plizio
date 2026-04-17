@@ -125,7 +125,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   const [cells, setCells] = useState<Cell[]>([]);
   const [correctCount, setCorrectCount] = useState(0);
   const T = dict[lang] || dict['en'];
-  const maxCorrect = Math.max(1, grade); // K1=1, K8=8
+  const maxCorrect = grade <= 5 ? 3 : 3 + (grade - 5); // K3-5=3, K6=4, K7=5, K8=6
 
   const startGame = () => {
     setScore(0);
