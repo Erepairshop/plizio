@@ -36,6 +36,7 @@ import {
 } from "@/lib/astroGeschichte7";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const K7Explorer = dynamic(() => import("@/app/astro-geschichte/games/k7/K7Explorer"), { ssr: false });
 
 const CATEGORY_CONFIG: Record<string, {
@@ -217,6 +218,7 @@ export default function AstroGeschichteK7Page() {
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
 
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<GeschichteProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -336,6 +338,7 @@ export default function AstroGeschichteK7Page() {
 
   if (screen === "island-map") {
     return (
+      <>
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
@@ -356,6 +359,9 @@ export default function AstroGeschichteK7Page() {
           </div>
         </div>
       </div>
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="geschichte" grade={7} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      </>
     );
   }
 

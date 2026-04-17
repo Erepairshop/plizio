@@ -35,6 +35,7 @@ import {
   generateIslandQuestionsK6, generateCheckpointQuestionsK6,
 } from "@/lib/astroGeschichte6";
 
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 const K6Explorer = dynamic(() => import("@/app/astro-geschichte/games/k6/K6Explorer"), { ssr: false });
 
@@ -217,6 +218,7 @@ export default function AstroGeschichteK6Page() {
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
 
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<GeschichteProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -336,6 +338,7 @@ export default function AstroGeschichteK6Page() {
 
   if (screen === "island-map") {
     return (
+      <>
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
@@ -356,6 +359,9 @@ export default function AstroGeschichteK6Page() {
           </div>
         </div>
       </div>
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="geschichte" grade={6} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      </>
     );
   }
 

@@ -54,6 +54,8 @@ import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
 import { GEOGRAPHY_POOLS } from "@/lib/visualLab/pools/geographyPool";
 import { PHYSIK_POOLS } from "@/lib/visualLab/pools/physikPool";
 import { KEMIA_POOLS } from "@/lib/visualLab/pools/kemiaPool";
+import { BIOLOGIE_POOLS } from "@/lib/visualLab/pools/biologiePool";
+import { GESCHICHTE_POOLS } from "@/lib/visualLab/pools/geschichtePool";
 import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 
 const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
@@ -67,7 +69,7 @@ const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
 /* Types                                                               */
 /* ------------------------------------------------------------------ */
 
-export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik" | "kemia";
+export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik" | "kemia" | "biologie";
 export type Lang = "de" | "hu" | "ro" | "en";
 
 export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline" | "campaign";
@@ -210,7 +212,11 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   geschichte: [
-    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
+    { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
+    { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
+    { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
+    { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
+    { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   astromath: [
     { id: "math-campaign", type: "campaign", labelKey: "mathCampaign", available: true },
@@ -247,6 +253,13 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   kemia: [
+    { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
+    { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
+    { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
+    { id: "constellation-builder", type: "puzzle", labelKey: "constellationBuilder", available: true },
+    { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
+  ],
+  biologie: [
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -560,6 +573,10 @@ function GameHost({
         <PhysikGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "kemia" ? (
         <KemiaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
+      ) : subject === "biologie" ? (
+        <BiologieGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
+      ) : subject === "geschichte" ? (
+        <GeschichteGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : (
         <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
       )}
@@ -840,6 +857,72 @@ function KemiaGameSwitch({
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
   const pool = KEMIA_POOLS[grade];
+  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
+  switch (gameId) {
+    case "meteor-catch": {
+      const round = pickRound(pool.meteorCatch, undefined);
+      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "orbit-sort": {
+      const round = pickRound(pool.orbitSort, undefined);
+      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "signal-runner": {
+      const round = pickRound(pool.signalRunner, undefined);
+      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "constellation-builder": {
+      const round = pickRound(pool.constellationBuilder, undefined);
+      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "memory-radar": {
+      const rounds = pool.memoryRadar.slice(0, 3);
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    default:
+      return <FallbackBox title={gameId} info={tSoon} />;
+  }
+}
+
+function BiologieGameSwitch({
+  gameId, grade, lang, tSoon,
+}: {
+  gameId: string; grade: number; lang: Lang; tSoon: string;
+}) {
+  const pool = BIOLOGIE_POOLS[grade];
+  if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
+  switch (gameId) {
+    case "meteor-catch": {
+      const round = pickRound(pool.meteorCatch, undefined);
+      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "orbit-sort": {
+      const round = pickRound(pool.orbitSort, undefined);
+      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "signal-runner": {
+      const round = pickRound(pool.signalRunner, undefined);
+      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "constellation-builder": {
+      const round = pickRound(pool.constellationBuilder, undefined);
+      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    case "memory-radar": {
+      const rounds = pool.memoryRadar.slice(0, 3);
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+    }
+    default:
+      return <FallbackBox title={gameId} info={tSoon} />;
+  }
+}
+
+function GeschichteGameSwitch({
+  gameId, grade, lang, tSoon,
+}: {
+  gameId: string; grade: number; lang: Lang; tSoon: string;
+}) {
+  const pool = GESCHICHTE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
     case "meteor-catch": {

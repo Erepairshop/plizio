@@ -28,6 +28,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import BioK5Explorer from "@/app/astro-biologie/games/k5/BioK5Explorer";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   BIO_K5_ISLANDS as K5_ISLANDS, BIO_K5_CHECKPOINT_MAP as K5_CHECKPOINT_MAP,
   type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -435,6 +436,7 @@ export default function AstroBiologieK5Page() {
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
 
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<BioK5Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -597,6 +599,7 @@ export default function AstroBiologieK5Page() {
   if (screen === "island-map") {
     const totalDone = progress.completedIslands.length;
     return (
+      <>
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2 flex-shrink-0">
@@ -647,6 +650,9 @@ export default function AstroBiologieK5Page() {
           </div>
         </div>
       </div>
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="biologie" grade={5} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      </>
     );
   }
 
