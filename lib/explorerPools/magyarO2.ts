@@ -2947,3 +2947,84 @@ export const MAGYAR_O2_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "magyar_review_mcq" },
   },
 ];
+
+
+type MagyarO2PracticeConfig = {
+  topic: string;
+  focus: string;
+  hint1: string;
+  hint2: string;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+};
+
+const MAGYAR_O2_PRACTICE_INSTRUCTIONS = [
+  "Lődd le a szavakat!",
+  "Koppints a megfelelő elemekre!",
+  "Gyűjtsd össze a pontokat!",
+  "Találd meg a helyes választ!",
+  "Válaszd ki a jó megoldást!"
+];
+
+function addMagyarO2PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: MagyarO2PracticeConfig
+): void {
+  const lang = "hu";
+  const difficulties: Array<"easy" | "medium" | "medium" | "hard" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+    
+    if (!labels[lang]) labels[lang] = {};
+    const bucket = labels[lang];
+    
+    bucket[`${key}_title`] = `${cfg.topic} – Gyakorlat ${n}`;
+    bucket[`${key}_text`] = `${cfg.focus} gyakorlása játékosan.`;
+    bucket[`${key}_h1`] = cfg.hint1;
+    bucket[`${key}_h2`] = cfg.hint2;
+    bucket[`${key}_inst`] = MAGYAR_O2_PRACTICE_INSTRUCTIONS[i] || "Oldd meg a feladatot!";
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const MAGYAR_O2_PRACTICE_CONFIGS: MagyarO2PracticeConfig[] = [
+  { topic: "Szófajok", focus: "Főnév, Ige, Melléknév", hint1: "Ki, Mi, Mit csinál?", hint2: "Milyen?", quiz: "szofajok", icon: "🅰️", color: "#EF4444", emoji: "🔤" },
+  { topic: "Olvasás", focus: "Szövegértés alapjai", hint1: "Olvasd el figyelmesen!", hint2: "Miről szól?", quiz: "olvasas", icon: "📖", color: "#3B82F6", emoji: "📚" },
+  { topic: "Helyesírás", focus: "Kiejtés és írás", hint1: "Rövid vagy hosszú?", hint2: "J vagy LY?", quiz: "helyesiras_o2", icon: "📝", color: "#10B981", emoji: "✍️" },
+  { topic: "Nyelvtan", focus: "Szabályok gyakorlása", hint1: "Figyelj a mondatra!", hint2: "Írásjelek", quiz: "nyelvtan_o2", icon: "💬", color: "#F59E0B", emoji: "❓" },
+  { topic: "Összetett Szavak", focus: "Szavak kapcsolódása", hint1: "Mi az összetétel?", hint2: "Bontsd fel!", quiz: "osszetett_szavak", icon: "🧩", color: "#8B5CF6", emoji: "🔗" },
+  { topic: "Ragozás", focus: "Toldalékok a szavak végén", hint1: "Hogyan ragozod?", hint2: "Toldalékolás", quiz: "ragozas", icon: "➕", color: "#0EA5E9", emoji: "🔧" },
+  { topic: "Szinonímák", focus: "Rokon értelmű szavak", hint1: "Keresd a hasonlót!", hint2: "Ugyanazt jelenti?", quiz: "szinonimak", icon: "🔄", color: "#EC4899", emoji: "🤝" },
+  { topic: "Szókincs", focus: "Új szavak tanulása", hint1: "Tudod mit jelent?", hint2: "Keresd a párját!", quiz: "szokincs", icon: "🧠", color: "#D97706", emoji: "💡" },
+  { topic: "Ismétlés", focus: "Másodikos tananyag", hint1: "Emlékszel?", hint2: "Mutasd mit tudsz!", quiz: "ismetles_o2", icon: "🎓", color: "#64748B", emoji: "🏆" }
+];
+
+addMagyarO2PracticeTopics(MAGYAR_O2_I1_LABELS, MAGYAR_O2_I1_POOL, MAGYAR_O2_PRACTICE_CONFIGS[0]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I2_LABELS, MAGYAR_O2_I2_POOL, MAGYAR_O2_PRACTICE_CONFIGS[1]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I3_LABELS, MAGYAR_O2_I3_POOL, MAGYAR_O2_PRACTICE_CONFIGS[2]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I4_LABELS, MAGYAR_O2_I4_POOL, MAGYAR_O2_PRACTICE_CONFIGS[3]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I5_LABELS, MAGYAR_O2_I5_POOL, MAGYAR_O2_PRACTICE_CONFIGS[4]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I6_LABELS, MAGYAR_O2_I6_POOL, MAGYAR_O2_PRACTICE_CONFIGS[5]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I7_LABELS, MAGYAR_O2_I7_POOL, MAGYAR_O2_PRACTICE_CONFIGS[6]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I8_LABELS, MAGYAR_O2_I8_POOL, MAGYAR_O2_PRACTICE_CONFIGS[7]);
+addMagyarO2PracticeTopics(MAGYAR_O2_I9_LABELS, MAGYAR_O2_I9_POOL, MAGYAR_O2_PRACTICE_CONFIGS[8]);
