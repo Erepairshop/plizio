@@ -532,3 +532,173 @@ export const MAGYAR_O5_I9_POOL: PoolTopicDef[] = [
   { difficulty: "hard", infoTitle: "t9_title", infoText: "", svg: { type: "simple-icon", icon: "🙏", title: "Bár", bg: "#FDF4FF", color: "#A21CAF" }, interactive: { type: "gap-fill", sentence: "t9_sent", choices: ["t9_c1", "t9_c2"], correctIndex: 0, instruction: "t9_inst" }, quiz: { generate: "mondatfajtak" } },
   { difficulty: "hard", infoTitle: "t10_title", infoText: "", svg: { type: "simple-icon", icon: "🎓", title: "Vége", bg: "#EDE9FE", color: "#7C3AED" }, interactive: { type: "physics-slingshot", question: "t10_q", targets: [{ id: "v1", text: "t10_t1", isCorrect: true }, { id: "n1", text: "t10_t2", isCorrect: false }], instruction: "t10_inst" }, quiz: { generate: "szovegtipusok" } },
 ];
+
+type O5Lang = "hu";
+type O5L10n = Record<O5Lang, string>;
+
+interface O5PracticeConfig {
+  topic: O5L10n;
+  focus: O5L10n;
+  hint1: O5L10n;
+  hint2: O5L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const MAGYAR_O5_PRACTICE_INSTRUCTIONS: Record<O5Lang, string[]> = {
+  hu: [
+    "Válaszd ki a helyes példákat!",
+    "Rendezd a kijelentéseket nyelvtani szempont szerint!",
+    "Párosítsd a fogalmat a megfelelő példával!",
+    "Figyeld meg a mondat szereplőit és kapcsolatait!",
+    "Válaszd a legpontosabb nyelvtani megoldást!",
+  ],
+};
+
+function ensureMagyarO5Hu(labels: Record<string, Record<string, string>>): Record<string, string> {
+  if (!labels.hu) {
+    labels.hu = { explorer_title: "Magyar nyelvtan" };
+  }
+  return labels.hu;
+}
+
+function addMagyarO5PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: O5PracticeConfig
+): void {
+  const bucket = ensureMagyarO5Hu(labels);
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+
+    bucket[`${key}_title`] = `${cfg.topic.hu} – Gyakorlat ${n}`;
+    bucket[`${key}_text`] = `${cfg.focus.hu} rövid feladatokkal és biztos fogalomhasználattal.`;
+    bucket[`${key}_h1`] = cfg.hint1.hu;
+    bucket[`${key}_h2`] = cfg.hint2.hu;
+    bucket[`${key}_inst`] = MAGYAR_O5_PRACTICE_INSTRUCTIONS.hu[i];
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const MAGYAR_O5_PRACTICE_CONFIGS: O5PracticeConfig[] = [
+  {
+    topic: { hu: "Hangtan és hangtörvények" },
+    focus: { hu: "A magánhangzók, mássalhangzók és hasonulás szabályai" },
+    hint1: { hu: "Hangrend és illeszkedés" },
+    hint2: { hu: "Zöngésség és időtartam" },
+    quiz: "hangrendsz",
+    icon: "A",
+    color: "#2563EB",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Szóalkotás és ragozás" },
+    focus: { hu: "Szótő, képző, jel, rag felismerése és sorrendje" },
+    hint1: { hu: "Toldalékfajták" },
+    hint2: { hu: "Szóelemzési sorrend" },
+    quiz: "kepzo_jel_rag",
+    icon: "S",
+    color: "#7C3AED",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Névszó típusok és igeragozás" },
+    focus: { hu: "Főnév, melléknév, névmás, valamint az ige alakjai" },
+    hint1: { hu: "Szófaji felismerés" },
+    hint2: { hu: "Személy és szám" },
+    quiz: "hu_parts_of_speech",
+    icon: "N",
+    color: "#DC2626",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Mondatrészek és szószerkezetek" },
+    focus: { hu: "Alany, állítmány, tárgy és határozók szerepe" },
+    hint1: { hu: "Kérdések a mondatrészekhez" },
+    hint2: { hu: "Mondatbeli kapcsolatok" },
+    quiz: "alany_allitmany",
+    icon: "M",
+    color: "#0EA5E9",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Irodalmi alapfogalmak és szövegtípusok" },
+    focus: { hu: "Leíró, elbeszélő szöveg és a lényegkiemelés" },
+    hint1: { hu: "Téma és cím" },
+    hint2: { hu: "Bekezdés és vázlat" },
+    quiz: "szovegtipusok",
+    icon: "I",
+    color: "#16A34A",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Helyesírás és írásjelek" },
+    focus: { hu: "Íráselvek, egybeírás, elválasztás és vesszőhasználat" },
+    hint1: { hu: "J vagy ly, nagybetű" },
+    hint2: { hu: "Szabály és kivétel" },
+    quiz: "helyesiras_5",
+    icon: "H",
+    color: "#D97706",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Ismétlés: hangtan és ragozás" },
+    focus: { hu: "Hangrend, toldalékolás és igeidők összekapcsolása" },
+    hint1: { hu: "Gyors felismerés" },
+    hint2: { hu: "Biztos szabályalkalmazás" },
+    quiz: "to_toldalek",
+    icon: "R",
+    color: "#8B5CF6",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Ismétlés: névszók, mondatrészek, szöveg" },
+    focus: { hu: "Szófaj, mondatrész és szövegértés egyben" },
+    hint1: { hu: "Fogalomkapcsolatok" },
+    hint2: { hu: "Pontos mondatelemzés" },
+    quiz: "targy_hatarozo",
+    icon: "G",
+    color: "#0891B2",
+    emoji: "*",
+  },
+  {
+    topic: { hu: "Záró gyakorlás: teljes tananyag" },
+    focus: { hu: "Hangtan, szóalkotás, mondattan és helyesírás összefoglalása" },
+    hint1: { hu: "Átfogó ismétlés" },
+    hint2: { hu: "Vizsgaszintű pontosság" },
+    quiz: "szovegtipusok",
+    icon: "Z",
+    color: "#BE123C",
+    emoji: "*",
+  },
+];
+
+addMagyarO5PracticeTopics(MAGYAR_O5_I1_LABELS, MAGYAR_O5_I1_POOL, MAGYAR_O5_PRACTICE_CONFIGS[0]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I2_LABELS, MAGYAR_O5_I2_POOL, MAGYAR_O5_PRACTICE_CONFIGS[1]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I3_LABELS, MAGYAR_O5_I3_POOL, MAGYAR_O5_PRACTICE_CONFIGS[2]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I4_LABELS, MAGYAR_O5_I4_POOL, MAGYAR_O5_PRACTICE_CONFIGS[3]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I5_LABELS, MAGYAR_O5_I5_POOL, MAGYAR_O5_PRACTICE_CONFIGS[4]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I6_LABELS, MAGYAR_O5_I6_POOL, MAGYAR_O5_PRACTICE_CONFIGS[5]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I7_LABELS, MAGYAR_O5_I7_POOL, MAGYAR_O5_PRACTICE_CONFIGS[6]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I8_LABELS, MAGYAR_O5_I8_POOL, MAGYAR_O5_PRACTICE_CONFIGS[7]);
+addMagyarO5PracticeTopics(MAGYAR_O5_I9_LABELS, MAGYAR_O5_I9_POOL, MAGYAR_O5_PRACTICE_CONFIGS[8]);
