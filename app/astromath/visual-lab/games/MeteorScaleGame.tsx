@@ -98,7 +98,8 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
   const [scaleStatus, setScaleStatus] = useState<'left-heavy' | 'balanced'>('left-heavy');
   const [caughtMeteor, setCaughtMeteor] = useState<number | null>(null);
   const [rounds, setRounds] = useState(0);
-  const maxRounds = Math.max(1, grade);
+  const maxRounds = grade <= 5 ? 3 : 3 + (grade - 5);
+  const fallDuration = grade <= 2 ? 12 : grade <= 4 ? 9 : grade <= 6 ? 7 : 6;
 
   const initNextRound = useCallback(() => {
     if (rounds >= maxRounds) {
@@ -182,7 +183,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
                     : { y: 800, opacity: 1, rotate: 90 }
                 }
                 transition={{ 
-                  duration: meteor.status === 'wrong' ? 1 : 6, 
+                  duration: meteor.status === 'wrong' ? 1 : fallDuration,
                   delay: meteor.status === 'wrong' ? 0 : meteor.delay, 
                   ease: "linear",
                   repeat: meteor.status === 'falling' ? Infinity : 0
@@ -201,7 +202,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
         </AnimatePresence>
 
         {/* The Scale */}
-        <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex flex-col items-center z-10 pointer-events-none">
+        <div className="absolute bottom-32 left-1/2 -translate-x-1/2 flex flex-col items-center z-10 pointer-events-none">
           <motion.div 
             animate={{ rotate: scaleRotation }} 
             className="w-72 sm:w-96 h-3 sm:h-4 bg-cyan-400 rounded-full relative shadow-[0_0_15px_#22d3ee]"

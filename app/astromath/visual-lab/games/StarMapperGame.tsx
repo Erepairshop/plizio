@@ -261,7 +261,6 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                       animate={{ scale: 1, opacity: 1 }}
                       exit={{ scale: 2, opacity: 0 }}
                       transition={{ type: 'spring', bounce: 0.5, duration: 0.6 }}
-                      style={{ originX: '0px', originY: '0px' }}
                     >
                       <circle cx={0} cy={0} r={16} fill="rgba(251,191,36,0.15)" />
                       <circle cx={0} cy={0} r={10} fill="none" stroke="#fbbf24" strokeWidth="1.5" strokeDasharray="3 2" />
@@ -275,7 +274,6 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                       initial={{ scale: 0.5, opacity: 1 }}
                       animate={{ scale: 3, opacity: 0 }}
                       transition={{ duration: 0.5 }}
-                      style={{ originX: '0px', originY: '0px' }}
                     >
                       <circle cx={0} cy={0} r={15} fill="#34d399" style={{ filter: 'drop-shadow(0 0 10px #34d399)' }} />
                     </motion.g>

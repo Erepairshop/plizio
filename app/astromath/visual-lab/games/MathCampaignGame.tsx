@@ -136,6 +136,7 @@ function StageRow({ stage, lang, result, unlocked, onStart }: { stage: StageDef;
 
 export default function MathCampaignGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
+  const stages = useMemo(() => STAGES.filter(s => !(s.gameId === "fraction-reactor" && grade < 3)), [grade]);
   const [save, setSave] = useState<SaveData>(() => loadSave(grade));
   const [view, setView] = useState<"hub" | "stage" | "result">("hub");
   const [activeStageId, setActiveStageId] = useState<StageId | null>(null);
@@ -146,19 +147,19 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
   useEffect(() => { setSave(loadSave(grade)); setView("hub"); setActiveStageId(null); }, [grade]);
 
   const stageResults = save.stages;
-  const completedCount = useMemo(() => STAGES.filter(s => stageResults[s.id]?.completed).length, [stageResults]);
-  const totalStars = useMemo(() => STAGES.reduce((sum, s) => sum + (stageResults[s.id]?.stars ?? 0), 0), [stageResults]);
-  const overallPct = Math.round((completedCount / STAGES.length) * 100);
+  const completedCount = useMemo(() => stages.filter(s => stageResults[s.id]?.completed).length, [stages, stageResults]);
+  const totalStars = useMemo(() => stages.reduce((sum, s) => sum + (stageResults[s.id]?.stars ?? 0), 0), [stages, stageResults]);
+  const overallPct = Math.round((completedCount / stages.length) * 100);
 
   const unlockedIds = useMemo(() => {
-    const s = new Set<StageId>([STAGES[0].id]);
-    for (let i = 0; i < STAGES.length - 1; i++) if (stageResults[STAGES[i].id]?.completed) s.add(STAGES[i + 1].id);
-    for (const st of STAGES) if (stageResults[st.id]?.completed) s.add(st.id);
+    const s = new Set<StageId>([stages[0].id]);
+    for (let i = 0; i < stages.length - 1; i++) if (stageResults[stages[i].id]?.completed) s.add(stages[i + 1].id);
+    for (const st of stages) if (stageResults[st.id]?.completed) s.add(st.id);
     return s;
-  }, [stageResults]);
+  }, [stages, stageResults]);
 
-  const currentStage = activeStageId ? STAGES.find(s => s.id === activeStageId) ?? null : null;
-  const nextStage = useMemo(() => { if (!activeStageId) return null; const idx = STAGES.findIndex(s => s.id === activeStageId); return idx >= 0 && idx < STAGES.length - 1 ? STAGES[idx + 1] : null; }, [activeStageId]);
+  const currentStage = activeStageId ? stages.find(s => s.id === activeStageId) ?? null : null;
+  const nextStage = useMemo(() => { if (!activeStageId) return null; const idx = stages.findIndex(s => s.id === activeStageId); return idx >= 0 && idx < stages.length - 1 ? stages[idx + 1] : null; }, [activeStageId, stages]);
 
   const openStage = useCallback((id: StageId) => {
     if (!unlockedIds.has(id)) return;
@@ -181,8 +182,8 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
   const playNext = useCallback(() => {
     if (!currentStage) return;
     if ((stageResults[currentStage.id]?.stars ?? 0) <= 0) { openStage(currentStage.id); return; }
-    const idx = STAGES.findIndex(s => s.id === currentStage.id);
-    const cand = STAGES[idx + 1];
+    const idx = stages.findIndex(s => s.id === currentStage.id);
+    const cand = stages[idx + 1];
     if (cand && unlockedIds.has(cand.id)) { openStage(cand.id); return; }
     closeStage();
   }, [closeStage, currentStage, openStage, stageResults, unlockedIds]);
@@ -191,15 +192,16 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
 
   const renderGame = () => {
     if (!currentStage) return null;
-    const p = { key: `${currentStage.id}:${runId}`, grade, lang, onDone: handleStageDone };
+    const k = `${currentStage.id}:${runId}`;
+    const p = { grade, lang, onDone: handleStageDone };
     switch (currentStage.gameId) {
-      case "math-ninja": return <MathNinjaGame {...p} />;
-      case "math-defender": return <MathDefenderGame {...p} />;
-      case "fraction-reactor": return <FractionReactorGame {...p} />;
-      case "angle-laser": return <AngleLaserGame {...p} />;
-      case "time-warp": return <TimeWarpGame {...p} />;
-      case "star-mapper": return <StarMapperGame {...p} />;
-      case "meteor-scale": return <MeteorScaleGame {...p} />;
+      case "math-ninja": return <MathNinjaGame key={k} {...p} />;
+      case "math-defender": return <MathDefenderGame key={k} {...p} />;
+      case "fraction-reactor": return <FractionReactorGame key={k} {...p} />;
+      case "angle-laser": return <AngleLaserGame key={k} {...p} />;
+      case "time-warp": return <TimeWarpGame key={k} {...p} />;
+      case "star-mapper": return <StarMapperGame key={k} {...p} />;
+      case "meteor-scale": return <MeteorScaleGame key={k} {...p} />;
       default: return null;
     }
   };
@@ -284,7 +286,7 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
   }
 
   /* ── HUB VIEW ── */
-  const continueStage = STAGES.find(s => !stageResults[s.id]?.completed && unlockedIds.has(s.id)) ?? STAGES[0];
+  const continueStage = stages.find(s => !stageResults[s.id]?.completed && unlockedIds.has(s.id)) ?? stages[0];
 
   return (
     <div className="rounded-[28px] border border-white/10 bg-[#060614] p-4 text-white">
@@ -309,7 +311,7 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
           </div>
           <div className="flex items-center gap-2 text-xs text-white/50">
             <Trophy size={12} className="text-cyan-400" />
-            <span className="font-bold text-white">{completedCount}/{STAGES.length}</span>
+            <span className="font-bold text-white">{completedCount}/{stages.length}</span>
             <span>{t.missions}</span>
           </div>
           <span className="text-xs font-bold text-white/70">{overallPct}%</span>
@@ -333,10 +335,10 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
       <div className="rounded-2xl border border-white/10 bg-white/[0.02] p-3">
         <div className="mb-2 flex items-center justify-between">
           <p className="text-xs font-black uppercase tracking-widest text-white/35">{t.route}</p>
-          <p className="text-xs text-white/30">{unlockedIds.size}/{STAGES.length}</p>
+          <p className="text-xs text-white/30">{unlockedIds.size}/{stages.length}</p>
         </div>
         <div className="space-y-2">
-          {STAGES.map((stage, idx) => (
+          {stages.map((stage, idx) => (
             <motion.div key={stage.id} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: idx * 0.03 }}>
               <StageRow stage={stage} lang={lang} result={stageResults[stage.id]} unlocked={unlockedIds.has(stage.id)} onStart={() => openStage(stage.id)} />
             </motion.div>
