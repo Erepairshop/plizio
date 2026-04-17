@@ -9,8 +9,13 @@
       "question": "Wie viel ist 125 + 234?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [359, 369, 349, 379],
-      "correct": 0,
+      "options": [
+        349,
+        359,
+        379,
+        369
+      ],
+      "correct": 1,
       "explanation": "125 + 234 = 359"
     },
     {
@@ -18,8 +23,13 @@
       "question": "Wie viel ist 567 - 123?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [444, 454, 434, 464],
-      "correct": 0,
+      "options": [
+        454,
+        444,
+        464,
+        434
+      ],
+      "correct": 1,
       "explanation": "567 - 123 = 444"
     },
     {
@@ -27,8 +37,13 @@
       "question": "Wie viel ist 12 × 5?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [60, 70, 50, 65],
-      "correct": 0,
+      "options": [
+        50,
+        65,
+        70,
+        60
+      ],
+      "correct": 3,
       "explanation": "12 × 5 = 60"
     },
     {
@@ -36,8 +51,13 @@
       "question": "Wie viel ist 48 ÷ 6?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [8, 9, 7, 6],
-      "correct": 0,
+      "options": [
+        6,
+        7,
+        9,
+        8
+      ],
+      "correct": 3,
       "explanation": "48 ÷ 6 = 8"
     },
     {
@@ -45,8 +65,13 @@
       "question": "Wie viel ist 234 + 456?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [690, 700, 680, 710],
-      "correct": 0,
+      "options": [
+        700,
+        690,
+        680,
+        710
+      ],
+      "correct": 1,
       "explanation": "234 + 456 = 690"
     },
     {
@@ -54,8 +79,13 @@
       "question": "Wie viel ist 800 - 345?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [455, 465, 445, 475],
-      "correct": 0,
+      "options": [
+        475,
+        445,
+        455,
+        465
+      ],
+      "correct": 2,
       "explanation": "800 - 345 = 455"
     },
     {
@@ -63,8 +93,13 @@
       "question": "Wie viel ist 15 × 6?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [90, 100, 80, 85],
-      "correct": 0,
+      "options": [
+        100,
+        90,
+        85,
+        80
+      ],
+      "correct": 1,
       "explanation": "15 × 6 = 90"
     },
     {
@@ -72,8 +107,13 @@
       "question": "Wie viel ist 72 ÷ 8?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [9, 8, 10, 7],
-      "correct": 0,
+      "options": [
+        8,
+        10,
+        9,
+        7
+      ],
+      "correct": 2,
       "explanation": "72 ÷ 8 = 9"
     },
     {
@@ -81,8 +121,13 @@
       "question": "Wie viel ist 1234 + 5678?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [6912, 6902, 6922, 6932],
-      "correct": 0,
+      "options": [
+        6922,
+        6932,
+        6902,
+        6912
+      ],
+      "correct": 3,
       "explanation": "1234 + 5678 = 6912"
     },
     {
@@ -90,7 +135,12 @@
       "question": "Wie viel ist 5000 - 1234?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [3766, 3756, 3776, 3786],
+      "options": [
+        3766,
+        3776,
+        3756,
+        3786
+      ],
       "correct": 0,
       "explanation": "5000 - 1234 = 3766"
     },
@@ -99,8 +149,13 @@
       "question": "Wie viel ist 23 × 4?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [92, 82, 102, 112],
-      "correct": 0,
+      "options": [
+        112,
+        92,
+        82,
+        102
+      ],
+      "correct": 1,
       "explanation": "23 × 4 = 92"
     },
     {
@@ -108,8 +163,13 @@
       "question": "Wie viel ist 56 ÷ 7?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 7, 9, 6],
-      "correct": 0,
+      "options": [
+        6,
+        8,
+        9,
+        7
+      ],
+      "correct": 1,
       "explanation": "56 ÷ 7 = 8"
     },
     {
@@ -117,16 +177,20 @@
       "question": "Wie viel ist 345 + 567 + 123?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [1035, 1025, 1045, 1055],
-      "correct": 0,
+      "options": [
+        1055,
+        1025,
+        1045,
+        1035
+      ],
+      "correct": 3,
       "explanation": "345 + 567 + 123 = 1035"
     },
     {
       "id": "4-zahl-014",
       "question": "Wie viel ist 1000 - 234 - 123?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [643, 633, 653, 663],
+      "type": "calculation",
       "correct": 0,
       "explanation": "1000 - 234 - 123 = 643"
     },
@@ -135,7 +199,12 @@
       "question": "Wie viel ist 25 × 8?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [200, 190, 210, 220],
+      "options": [
+        200,
+        220,
+        190,
+        210
+      ],
       "correct": 0,
       "explanation": "25 × 8 = 200"
     },
@@ -143,8 +212,7 @@
       "id": "4-zahl-016",
       "question": "Wie viel ist 144 ÷ 12?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [12, 11, 13, 10],
+      "type": "calculation",
       "correct": 0,
       "explanation": "144 ÷ 12 = 12"
     },
@@ -153,8 +221,13 @@
       "question": "Eine Schule hat 234 Schüler in der 4. Klasse und 178 in der 3. Klasse. Wie viele Schüler sind es zusammen?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [412, 402, 422, 432],
-      "correct": 0,
+      "options": [
+        402,
+        412,
+        432,
+        422
+      ],
+      "correct": 1,
       "explanation": "234 + 178 = 412 Schüler"
     },
     {
@@ -162,7 +235,12 @@
       "question": "Max hat 500 Euro. Er kauft ein Buch für 45 Euro und einen Stift für 12 Euro. Wie viel Geld hat er noch?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [443, 453, 433, 463],
+      "options": [
+        443,
+        433,
+        453,
+        463
+      ],
       "correct": 0,
       "explanation": "500 - 45 - 12 = 443 Euro"
     },
@@ -171,8 +249,13 @@
       "question": "Ein Paket enthält 8 Äpfel. Wie viele Äpfel sind in 6 Paketen?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [48, 58, 38, 68],
-      "correct": 0,
+      "options": [
+        58,
+        68,
+        48,
+        38
+      ],
+      "correct": 2,
       "explanation": "8 × 6 = 48 Äpfel"
     },
     {
@@ -180,8 +263,13 @@
       "question": "36 Bonbons sollen auf 4 Kinder verteilt werden. Wie viele Bonbons bekommt jedes Kind?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [9, 8, 10, 7],
-      "correct": 0,
+      "options": [
+        7,
+        10,
+        9,
+        8
+      ],
+      "correct": 2,
       "explanation": "36 ÷ 4 = 9 Bonbons pro Kind"
     },
     {
@@ -189,7 +277,12 @@
       "question": "Wie viel ist 2 + 3 × 4?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [14, 20, 12, 16],
+      "options": [
+        14,
+        20,
+        12,
+        16
+      ],
       "correct": 0,
       "explanation": "2 + 3 × 4 = 2 + 12 = 14 (Punktrechnung vor Strichrechnung)"
     },
@@ -198,8 +291,13 @@
       "question": "Wie viel ist (10 - 2) × 3?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [24, 28, 20, 26],
-      "correct": 0,
+      "options": [
+        28,
+        26,
+        20,
+        24
+      ],
+      "correct": 3,
       "explanation": "(10 - 2) × 3 = 8 × 3 = 24"
     },
     {
@@ -207,7 +305,12 @@
       "question": "Wie viel ist 7 × 7?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [49, 48, 50, 47],
+      "options": [
+        49,
+        48,
+        47,
+        50
+      ],
       "correct": 0,
       "explanation": "7 × 7 = 49"
     },
@@ -216,8 +319,13 @@
       "question": "Wie viel ist 8 × 8?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [64, 63, 65, 62],
-      "correct": 0,
+      "options": [
+        65,
+        64,
+        63,
+        62
+      ],
+      "correct": 1,
       "explanation": "8 × 8 = 64"
     },
     {
@@ -225,7 +333,12 @@
       "question": "Wie viel ist 9 × 9?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [81, 80, 82, 79],
+      "options": [
+        81,
+        79,
+        82,
+        80
+      ],
       "correct": 0,
       "explanation": "9 × 9 = 81"
     },
@@ -234,8 +347,13 @@
       "question": "Wie viel ist 100 ÷ 10?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [10, 11, 9, 8],
-      "correct": 0,
+      "options": [
+        8,
+        9,
+        11,
+        10
+      ],
+      "correct": 3,
       "explanation": "100 ÷ 10 = 10"
     },
     {
@@ -243,8 +361,13 @@
       "question": "Wie viel ist 120 ÷ 10?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [12, 11, 13, 10],
-      "correct": 0,
+      "options": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "correct": 2,
       "explanation": "120 ÷ 10 = 12"
     },
     {
@@ -252,8 +375,13 @@
       "question": "Wie viel ist 456 ÷ 2?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [228, 218, 238, 248],
-      "correct": 0,
+      "options": [
+        248,
+        218,
+        238,
+        228
+      ],
+      "correct": 3,
       "explanation": "456 ÷ 2 = 228"
     },
     {
@@ -261,7 +389,12 @@
       "question": "Eine Lehrerin hat 24 Bleistifte. Sie verteilt sie gleichmäßig auf 6 Schüler. Wie viele Bleistifte bekommt jeder Schüler?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 5, 6],
+      "options": [
+        4,
+        5,
+        3,
+        6
+      ],
       "correct": 0,
       "explanation": "24 ÷ 6 = 4 Bleistifte pro Schüler"
     },
@@ -270,8 +403,13 @@
       "question": "Ein Buch kostet 12 Euro. Wie viel kosten 5 Bücher?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [60, 50, 70, 55],
-      "correct": 0,
+      "options": [
+        50,
+        60,
+        70,
+        55
+      ],
+      "correct": 1,
       "explanation": "12 × 5 = 60 Euro"
     }
   ]

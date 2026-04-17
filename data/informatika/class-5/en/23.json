@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Electronic Mail (E-mail)",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is an e-mail?",
+      "options": [
+        "A fast train",
+        "Electronic mail",
+        "An internet game",
+        "A programming language"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a correct e-mail address format?",
+      "options": [
+        "examplename.gmail.com",
+        "example@gmail.com",
+        "example#gmail.com",
+        "www.example.com"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the 'Subject' field mean?",
+      "options": [
+        "A school subject",
+        "A short summary or title of the email",
+        "The sender's name",
+        "The time of sending"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'attachment' for?",
+      "options": [
+        "Decoration",
+        "Sending files (pictures, documents) together with the letter",
+        "Deleting the letter",
+        "Hiding the password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'CC' (Carbon Copy) mean?",
+      "options": [
+        "Only for names starting with C",
+        "Sends a copy to someone we want to keep informed",
+        "Secret correspondence",
+        "Letter deletion"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'BCC' (Blind Carbon Copy) mean?",
+      "options": [
+        "Very important letter",
+        "A copy where other recipients don't see who else got it",
+        "Only for friends",
+        "Only for kids"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which button can you use to answer a letter?",
+      "options": [
+        "Delete",
+        "Reply",
+        "Forward",
+        "Spam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Forward' button for?",
+      "options": [
+        "Sending an answer",
+        "Sending the received letter to someone else",
+        "Printing the letter",
+        "Saving the letter"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you find received letters?",
+      "options": [
+        "Sent folder",
+        "Inbox folder",
+        "Trash folder",
+        "Drafts folder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where are unfinished letters stored?",
+      "options": [
+        "Sent",
+        "Drafts",
+        "Spam",
+        "Inbox"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you receive a suspicious letter from an unknown sender?",
+      "options": [
+        "Open it immediately",
+        "Download the attachment",
+        "Delete it without opening or report as spam",
+        "Answer politely"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a signature at the end of an email?",
+      "options": [
+        "A handwritten name scanned",
+        "A preset text with your name and details",
+        "A drawing",
+        "Your password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to send very large files as attachments?",
+      "options": [
+        "Yes, any size",
+        "No, because it can fill the recipient's mailbox or fail to send",
+        "Only if it's a video",
+        "Only at night"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is the greeting important at the beginning of the letter?",
+      "options": [
+        "To make it longer",
+        "Because it is part of basic politeness",
+        "To know who sent it",
+        "It is not important"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a free email service?",
+      "options": [
+        "Gmail",
+        "Outlook",
+        "Minecraft",
+        "Yahoo"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does the '@' symbol mean?",
+      "options": [
+        "An animal",
+        "The mandatory separator of an email address",
+        "A mathematical operation",
+        "A bracket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you end a letter politely?",
+      "options": [
+        "Bye!",
+        "Best regards / Sincerely",
+        "That's it",
+        "Done"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is it worth filling in the 'Subject' field?",
+      "options": [
+        "To make the letter prettier",
+        "Helps the recipient know what the letter is about",
+        "So it's not empty",
+        "Because the computer won't send it without"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Reply All' mean?",
+      "options": [
+        "Send an answer to all friends",
+        "Answer everyone who was in the original correspondence",
+        "Answer only the sender",
+        "Delete all letters"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the spam folder?",
+      "options": [
+        "Where important letters go",
+        "Place for unwanted junk mail",
+        "Place for drafts",
+        "Place for sent letters"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the search in email for?",
+      "options": [
+        "Finding new friends",
+        "Finding older letters based on keywords",
+        "Searching the internet",
+        "Finding games"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can you get a virus through email?",
+      "options": [
+        "No, only on websites",
+        "Yes, mainly through suspicious attachments",
+        "Only if you answer",
+        "Only if you don't have a password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you send an email to many people at once?",
+      "options": [
+        "Write it individually to everyone",
+        "Enter all addresses in the recipients field",
+        "Shout at the monitor",
+        "You cannot do that"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an email account?",
+      "options": [
+        "A real drawer in the desk",
+        "A storage space on the internet where letters are stored",
+        "A computer game",
+        "A type of keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you forgot your password?",
+      "options": [
+        "Buy a new machine",
+        "Use the 'password reminder' or 'forgot password' function",
+        "Start crying",
+        "Leave the whole thing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "E-mail stands for electronic mail."
+    },
+    {
+      "type": "typing",
+      "text": "Always write a short, relevant subject for your letter!"
+    },
+    {
+      "type": "typing",
+      "text": "Attachments allow us to send files."
+    },
+    {
+      "type": "typing",
+      "text": "The '@' sign must always be in an email address."
+    },
+    {
+      "type": "typing",
+      "text": "Never open suspicious attachments from strangers!"
+    },
+    {
+      "type": "typing",
+      "text": "Use a polite closing at the end of formal letters!"
+    },
+    {
+      "type": "typing",
+      "text": "You can find your incoming letters in the Inbox folder."
+    },
+    {
+      "type": "typing",
+      "text": "You can save unfinished letters in Drafts."
+    },
+    {
+      "type": "typing",
+      "text": "Do not send very large images by email!"
+    },
+    {
+      "type": "typing",
+      "text": "Electronic mail is fast and efficient."
+    }
+  ]
+}

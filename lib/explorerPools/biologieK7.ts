@@ -941,7 +941,7 @@ export const BIO_K7_I4_LABELS: Record<string, Record<string, string>> = {
 
     // T8: ATP
     t8_title: "Die Energiewährung",
-    t8_text: "ATP (Adenosintriphosphat) ist wie eine geladene Batterie, die Energie für alle processes bereitstellt.",
+    t8_text: "ATP (Adenosintriphosphat) ist wie eine geladene Batterie, die Energie für alle Prozesse bereitstellt.",
     t8_h1: "Universelle Energie", t8_h2: "Batterie der Zelle",
     t8_inst: "Lade ATP auf!",
 
@@ -1352,8 +1352,8 @@ export const BIO_K7_I7_LABELS: Record<string, Record<string, string>> = {
 
     // T8: Allergie
     t8_title: "Allergie",
-    t8_text: "Bei einer Allergie reagiert das Immunsystem overtrieben stark auf eigentlich harmlose Stoffe (Pollen, Staub).",
-    t8_h1: "Fehlalarm", t8_h2: "Overreaktion",
+    t8_text: "Bei einer Allergie reagiert das Immunsystem übertrieben stark auf eigentlich harmlose Stoffe (Pollen, Staub).",
+    t8_h1: "Fehlalarm", t8_h2: "Überreaktion",
     t8_inst: "Stoppe den Fehlalarm!",
 
     // T9: Aktive Immunisierung
@@ -1416,7 +1416,7 @@ export const BIO_K7_I7_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t8_title", infoText: "t8_text",
     svg: { type: "simple-icon", icon: "🤧", color: "#F59E0B" },
-    interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Allergie ist eine ___.", choices: ["Overreaktion", "Pause", "Freude", "Farbe"], correctIndex: 0 },
+    interactive: { type: "gap-fill", instruction: "t8_inst", hint1: "t8_h1", hint2: "t8_h2", sentence: "Allergie ist eine ___.", choices: ["Überreaktion", "Pause", "Freude", "Farbe"], correctIndex: 0 },
     quiz: { generate: "immune_response" }
   },
   {

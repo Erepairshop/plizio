@@ -1,4 +1,4 @@
-// lib/explorerPools/informatikaK8_i9.ts
+﻿// lib/explorerPools/informatikaK8_i9.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K8_I9_LABELS: Record<string, Record<string, string>> = {
@@ -7,7 +7,7 @@ export const INFO_K8_I9_LABELS: Record<string, Record<string, string>> = {
   t1_text: { de: "Ein Softwareentwickler schreibt, testet und wartet Programme. Er nutzt Programmiersprachen wie Python, Java oder JavaScript.", en: "A software developer writes, tests and maintains programs. They use programming languages such as Python, Java or JavaScript.", hu: "A szoftverfejlesztő programokat ír, tesztel és karbantart. Python, Java vagy JavaScript programozási nyelveket használ.", ro: "Un dezvoltator software scrie, testează și întreține programe. Folosește limbaje de programare precum Python, Java sau JavaScript." },
   t1_inst: { de: "Ordne die IT-Berufe ihren Aufgaben zu.", en: "Match the IT careers to their tasks.", hu: "Párosítsd az IT-szakmákat a feladataikhoz.", ro: "Potrivește carierele IT cu sarcinile lor." },
   t1_h1: { de: "Entwickler schreibt Code, Analyst wertet Daten aus", en: "Developer writes code, analyst evaluates data", hu: "fejlesztő kódot ír, elemző adatokat értékel", ro: "Dezvoltatorul scrie cod, analistul evaluează date" },
-  t1_h2: { de: "Jedes IT-Beruf hat eigene Spezialisierung", en: "Each IT career has its own specialization", hu: "minden IT-szakmának saját specializációja van", ro: "Fiecare carieră IT are propria specializare" },
+  t1_h2: { de: "Jeder IT-Beruf hat eine eigene Spezialisierung", en: "Each IT career has its own specialization", hu: "Minden IT-szakmának saját specializációja van", ro: "Fiecare carieră IT are propria specializare" },
   t1_l1: { de: "Softwareentwickler", en: "Software developer", hu: "Szoftverfejlesztő", ro: "Dezvoltator software" },
   t1_r1: { de: "schreibt und wartet Programme", en: "writes and maintains programs", hu: "programokat ír és karbantart", ro: "scrie și întrețin programe" },
   t1_l2: { de: "Datenanalyst", en: "Data analyst", hu: "Adatelemző", ro: "Analist de date" },

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "HTML/CSS Einführung",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wofür steht HTML?",
+      "options": [
+        "Hypertext Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Markup List",
+        "Hyperlink Text Mode Logo"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man HTML?",
+      "options": [
+        "Zum Rechnen",
+        "Strukturierung von Webseiten",
+        "Bildbearbeitung",
+        "Virenschutz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht CSS?",
+      "options": [
+        "Cascading Style Sheets",
+        "Computer Style System",
+        "Creative Sheet Style",
+        "Colorful Style Sheets"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man CSS?",
+      "options": [
+        "Daten speichern",
+        "Design und Layout von Webseiten",
+        "Programmieren von Spielen",
+        "Texte schreiben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Befehle in HTML?",
+      "options": [
+        "Codes",
+        "Tags",
+        "Labels",
+        "Hooks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein Start-Tag meistens aus?",
+      "options": [
+        "(tag)",
+        "{tag}",
+        "<tag>",
+        "[tag]"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein End-Tag meistens aus?",
+      "options": [
+        "<tag>",
+        "</tag>",
+        "<\\tag>",
+        "<#tag>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Tag definiert den Titel einer Webseite im Browser-Tab?",
+      "options": [
+        "<head>",
+        "<body>",
+        "<title>",
+        "<h1>"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "In welchem Bereich steht der sichtbare Inhalt einer Webseite?",
+      "options": [
+        "<head>",
+        "<body>",
+        "<meta>",
+        "<script>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Tag nutzt man für die größte Überschrift?",
+      "options": [
+        "<h6>",
+        "<h1>",
+        "<p>",
+        "<head>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Tag nutzt man für einen normalen Textabsatz?",
+      "options": [
+        "<p>",
+        "<a>",
+        "<div>",
+        "<span>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem Tag fügt man einen Link ein?",
+      "options": [
+        "<link>",
+        "<a>",
+        "<url>",
+        "<li>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem Tag fügt man ein Bild ein?",
+      "options": [
+        "<pic>",
+        "<image>",
+        "<img>",
+        "<src>"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Attribut gibt die Bildquelle an?",
+      "options": [
+        "href",
+        "src",
+        "alt",
+        "link"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist das 'alt'-Attribut bei Bildern gut?",
+      "options": [
+        "Es zeigt das Alter des Bildes",
+        "Alternativtext, wenn das Bild nicht geladen wird",
+        "Bildgröße",
+        "Bildfarbe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches CSS-Attribut ändert die Hintergrundfarbe?",
+      "options": [
+        "color",
+        "background-color",
+        "font-color",
+        "fill"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches CSS-Attribut ändert die Textfarbe?",
+      "options": [
+        "text-color",
+        "color",
+        "font-style",
+        "tint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man in CSS die Schriftgröße?",
+      "options": [
+        "text-size",
+        "font-size",
+        "big",
+        "scale"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches HTML-Tag erstellt eine unsortierte Liste (mit Aufzählungspunkten)?",
+      "options": [
+        "<ol>",
+        "<ul>",
+        "<li>",
+        "<list>"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht das Tag <li>?",
+      "options": [
+        "Erstellt eine Liste",
+        "Definiert ein Listenelement",
+        "Macht Text fett",
+        "Verlinkt eine Seite"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht 'href' bei einem Link-Tag?",
+      "options": [
+        "High Reference",
+        "Hypertext Reference",
+        "Home Reference",
+        "Hidden Reference"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie bindet man eine externe CSS-Datei in HTML ein?",
+      "options": [
+        "<style>",
+        "<script>",
+        "<link>",
+        "<a>"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen trennt in CSS Eigenschaft und Wert (z.B. color ... red)?",
+      "options": [
+        "=",
+        ":",
+        ";",
+        "-"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen beendet eine CSS-Anweisung?",
+      "options": [
+        ".",
+        ";",
+        "!",
+        ","
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Selektor' in CSS?",
+      "options": [
+        "Ein Programm",
+        "Bestimmt, welche HTML-Elemente gestaltet werden",
+        "Ein Tag-Name",
+        "Ein Bild"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "HTML"
+    },
+    {
+      "type": "typing",
+      "text": "CSS"
+    },
+    {
+      "type": "typing",
+      "text": "Tags"
+    },
+    {
+      "type": "typing",
+      "text": "h1"
+    },
+    {
+      "type": "typing",
+      "text": "p"
+    },
+    {
+      "type": "typing",
+      "text": "a"
+    },
+    {
+      "type": "typing",
+      "text": "img"
+    },
+    {
+      "type": "typing",
+      "text": "color"
+    },
+    {
+      "type": "typing",
+      "text": "background-color"
+    },
+    {
+      "type": "typing",
+      "text": "/"
+    }
+  ]
+}

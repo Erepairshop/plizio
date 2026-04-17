@@ -32,7 +32,7 @@ export const INFO_K5_I1_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Pixel", t13_bl2: "Vektor", t13_i1: "Foto", t13_i2: "Logo", t13_i3: "Screenshot", t13_i4: "Icon",
     t14_title: "Textverarbeitung", t14_text: "Programme zum Schreiben von Briefen und Aufsätzen.", t14_inst: "Bringe die Wörter in Ordnung:", t14_h1: "Word ist für...", t14_h2: "Schreiben macht Spaß.", t14_q: "Welches Programm ist für Text?", t14_qa: "Word", t14_qb: "Paint", t14_qc: "Excel", t14_qd: "Chrome",
     t14_w1: "Wir", t14_w2: "schreiben", t14_w3: "einen", t14_w4: "Text", t14_w5: "am", t14_w6: "Computer.",
-    t15_title: "Formatierung", t15_text: "Den Text schöner machen (fett, kursiv, Farbe).", t15_inst: "Markiere das richtige Wort:", t15_h1: "Wie sieht es aus?", t15_h2: "Hervorheben.", t15_q: "Was bedeutet 'Fett'?", t15_qa: "Dicke Linien", t15_qb: "Schräge Schrift", t15_qc: "Große Buchstaben", t15_qd: "Unterstrichen",
+    t15_title: "Formatierung", t15_text: "Den Text schöner machen (fett, kursiv, Farbe).", t15_inst: "Markiere das richtige Wort:", t15_h1: "Wie sieht es aus?", t15_h2: "Hervorheben.", t15_q: "Was bedeutet 'Fett'?", t15_qa: "Dicke Schrift", t15_qb: "Schräge Schrift", t15_qc: "Große Buchstaben", t15_qd: "Unterstrichen",
     t15_tk1: "Fett", t15_tk2: "und", t15_tk3: "Kursiv", t15_tk4: "sind", t15_tk5: "Arten", t15_tk6: "der", t15_tk7: "Formatierung."
   },
   en: {
@@ -65,7 +65,7 @@ export const INFO_K5_I1_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Pixel", t13_bl2: "Vector", t13_i1: "Photo", t13_i2: "Logo", t13_i3: "Screenshot", t13_i4: "Icon",
     t14_title: "Text Processing", t14_text: "Programs for writing letters and essays.", t14_inst: "Put the words in order:", t14_h1: "Word is for...", t14_h2: "Writing is fun.", t14_q: "Which program is for text?", t14_qa: "Word", t14_qb: "Paint", t14_qc: "Excel", t14_qd: "Chrome",
     t14_w1: "We", t14_w2: "write", t14_w3: "a", t14_w4: "text", t14_w5: "on", t14_w6: "the", t14_w7: "computer.",
-    t15_title: "Formatting", t15_text: "Making the text look better (bold, italic, color).", t15_inst: "Highlight the correct word:", t15_h1: "How does it look?", t15_h2: "Highlighting.", t15_q: "What does 'Bold' mean?", t15_qa: "Thick lines", t15_qb: "Slanted font", t15_qc: "Large letters", t15_qd: "Underlined",
+    t15_title: "Formatting", t15_text: "Making the text look better (bold, italic, color).", t15_inst: "Highlight the correct word:", t15_h1: "How does it look?", t15_h2: "Highlighting.", t15_q: "What does 'Bold' mean?", t15_qa: "Thick text", t15_qb: "Slanted font", t15_qc: "Large letters", t15_qd: "Underlined",
     t15_tk1: "Bold", t15_tk2: "and", t15_tk3: "Italic", t15_tk4: "are", t15_tk5: "types", t15_tk6: "of", t15_tk7: "formatting."
   },
   hu: {
@@ -78,17 +78,17 @@ export const INFO_K5_I1_LABELS: Record<string, Record<string, string>> = {
     t3_bl1: "Hardver", t3_bl2: "Szoftver", t3_i1: "Egér", t3_i2: "Windows", t3_i3: "Monitor", t3_i4: "Paint",
     t4_title: "Operációs rendszer (OS)", t4_text: "Az OS kezeli a hardvert és a többi programot.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "A Windows egy...", t4_h2: "Ez irányít mindent.", t4_q: "Melyik operációs rendszer?", t4_qa: "Android", t4_qb: "Google", t4_qc: "YouTube", t4_qd: "Word",
     t4_w1: "A Windows", t4_w2: "egy", t4_w3: "ismert", t4_w4: "operációs", t4_w5: "rendszer", t4_w6: "számítógépekhez.", t4_w7: "",
-    t5_title: "Fájlkezelés", t5_text: "A fájlölkat mappákban tároljuk a rend kedvéért.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Hova mentsünk?", t5_h2: "A mappák rendet tartanak.", t5_q: "Hol vannak általában a fájlok?", t5_qa: "Mappákban", t5_qb: "A kukában", t5_qc: "Az egérben", t5_qd: "A nyomtatóban",
+    t5_title: "Fájlkezelés", t5_text: "A fájlokat mappákban tároljuk a rend kedvéért.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Hova mentsünk?", t5_h2: "A mappák rendet tartanak.", t5_q: "Hol vannak általában a fájlok?", t5_qa: "Mappákban", t5_qb: "A kukában", t5_qc: "Az egérben", t5_qd: "A nyomtatóban",
     t5_tk1: "A mappák", t5_tk2: "segítenek", t5_tk3: "gyorsan", t5_tk4: "megtalálni", t5_tk5: "a", t5_tk6: "fájlokat.",
     t6_title: "Perifériák", t6_text: "Eszközök, amiket a számítógéphez csatlakoztatunk.", t6_inst: "Párosítsd össze:", t6_h1: "Csatlakoztasd!", t6_h2: "A gépen kívül.", t6_q: "Mi a periféria?", t6_qa: "Nyomtató", t6_qb: "Alaplap", t6_qc: "Processzor", t6_qd: "Tápegység",
     t6_l1: "Nyomtatás", t6_r1: "Nyomtató", t6_l2: "Vezérlés", t6_r2: "Egér", t6_l3: "Hallgatás", t6_r3: "Fejhallgató",
-    t7_title: "Beviteli eszközök", t7_text: "Ezekkel küldünk információt A számítógépbe.", t7_inst: "Töltsd ki a hiányt:", t7_h1: "Be a gépbe!", t7_h2: "Gépelés vagy kattintás.", t7_q: "Mi a beviteli eszköz?", t7_qa: "Mikrofon", t7_qb: "Monitor", t7_qc: "Hangszóró", t7_qd: "Nyomtató",
+    t7_title: "Beviteli eszközök", t7_text: "Ezekkel küldünk információt a számítógépbe.", t7_inst: "Töltsd ki a hiányt:", t7_h1: "Be a gépbe!", t7_h2: "Gépelés vagy kattintás.", t7_q: "Mi a beviteli eszköz?", t7_qa: "Mikrofon", t7_qb: "Monitor", t7_qc: "Hangszóró", t7_qd: "Nyomtató",
     t7_sent: "Az egérrel ___ végzünk.", t7_qa2: "bevitelt", t7_qb2: "kivitelt", t7_qc2: "szünetet", t7_qd2: "levest",
     t8_title: "Kiviteli eszközök", t8_text: "Ezekkel mutatja meg a gép az eredményeket.", t8_inst: "Válogasd szét:", t8_h1: "Mi jön ki?", t8_h2: "Kép vagy hang.", t8_q: "Mi a kiviteli eszköz?", t8_qa: "Monitor", t8_qb: "Billentyűzet", t8_qc: "Scanner", t8_qd: "Webkamera",
     t8_bl1: "Bevitel", t8_bl2: "Kivitel", t8_i1: "Billentyűzet", t8_i2: "Monitor", t8_i3: "Egér", t8_i4: "Nyomtató",
     t9_title: "Adathordozók", t9_text: "Itt tároljuk tartósan az adatokat.", t9_inst: "Tedd sorrendbe a szavakat:", t9_h1: "Az USB kulcs...", t9_h2: "A mentés fontos.", t9_q: "Mi tárolja a legtöbbet?", t9_qa: "Merevlemez (HDD)", t9_qb: "CD", t9_qc: "Floppy", t9_qd: "RAM",
     t9_w1: "Az", t9_w2: "SSD", t9_w3: "nagyon", t9_w4: "gyorsan", t9_w5: "menti", t9_w6: "el", t9_w7: "az adatokat.",
-    t10_title: "Monitor & Kijelző", t10_text: "A képernyő sok apró pixelből álló képet mutat.", t10_inst: "Jelöld meg a helyes szót:", t10_h1: "Apró pontok.", t10_h2: "Képpontok.", t10_q: "Hogy hívják a képpontokat?", t10_qa: "Pixel", t10_qb: "Atom", t10_qc: "Szemcse", t10_qd: "Folt",
+    t10_title: "Monitor & Kijelző", t10_text: "A képernyő sok apró pixelből álló képet mutat.", t10_inst: "Jelöld meg a helyes szót:", t10_h1: "Apró pontok.", t10_h2: "Képpontok.", t10_q: "Hogyan hívják a képpontokat?", t10_qa: "Pixel", t10_qb: "Atom", t10_qc: "Szemcse", t10_qd: "Folt",
     t10_tk1: "Sok", t10_tk2: "pixel", t10_tk3: "ad", t10_tk4: "ki", t10_tk5: "egy", t10_tk6: "éles", t10_tk7: "képet.",
     t11_title: "Billentyűzet", t11_text: "A billentyűzettel szövegeket írunk.", t11_inst: "Párosítsd össze:", t11_h1: "Melyik gomb?", t11_h2: "Nagybetű vagy törlés.", t11_q: "Hogyan kezdünk új sort?", t11_qa: "Enter gomb", t11_qb: "Szóköz", t11_qc: "Shift gomb", t11_qd: "Esc gomb",
     t11_l1: "Törlés", t11_r1: "Backspace", t11_l2: "Nagybetű", t11_r2: "Shift", t11_l3: "Szóköz", t11_r3: "Space",
@@ -98,7 +98,7 @@ export const INFO_K5_I1_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Pixel", t13_bl2: "Vektor", t13_i1: "Fotó", t13_i2: "Logó", t13_i3: "Képernyőkép", t13_i4: "Ikon",
     t14_title: "Szövegszerkesztés", t14_text: "Levelek és fogalmazások írására szolgáló programok.", t14_inst: "Tedd sorrendbe a szavakat:", t14_h1: "A Word való...", t14_h2: "Az írás élmény.", t14_q: "Melyik program szövegre való?", t14_qa: "Word", t14_qb: "Paint", t14_qc: "Excel", t14_qd: "Chrome",
     t14_w1: "Szöveget", t14_w2: "írunk", t14_w3: "a", t14_w4: "számítógépen.", t14_w5: "", t14_w6: "", t14_w7: "",
-    t15_title: "Formázás", t15_text: "A szöveg szebbé tétele (félkövér, dőlt, szín).", t15_inst: "Jelöld meg a helyes szót:", t15_h1: "Hogy néz ki?", t15_h2: "Kiemelés.", t15_q: "Mit jelent a 'Félkövér'?", t15_qa: "Vastag vonalak", t15_qb: "Dőlt betűk", t15_qc: "Nagy betűk", t15_qd: "Aláhúzott",
+    t15_title: "Formázás", t15_text: "A szöveg szebbé tétele (félkövér, dőlt, szín).", t15_inst: "Jelöld meg a helyes szót:", t15_h1: "Hogy néz ki?", t15_h2: "Kiemelés.", t15_q: "Mit jelent a 'Félkövér'?", t15_qa: "Vastag betűk", t15_qb: "Dőlt betűk", t15_qc: "Nagy betűk", t15_qd: "Aláhúzott",
     t15_tk1: "A félkövér", t15_tk2: "és", t15_tk3: "a dőlt", t15_tk4: "a formázás", t15_tk5: "típusai."
   },
   ro: {
@@ -131,7 +131,7 @@ export const INFO_K5_I1_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Pixel", t13_bl2: "Vector", t13_i1: "Foto", t13_i2: "Logo", t13_i3: "Screenshot", t13_i4: "Icon",
     t14_title: "Procesare text", t14_text: "Programe pentru scrierea scrisorilor și eseurilor.", t14_inst: "Pune cuvintele în ordine:", t14_h1: "Word este pentru...", t14_h2: "Scrisul e distractiv.", t14_q: "Care program este pentru text?", t14_qa: "Word", t14_qb: "Paint", t14_qc: "Excel", t14_qd: "Chrome",
     t14_w1: "Noi", t14_w2: "scriem", t14_w3: "un", t14_w4: "text", t14_w5: "la", t14_w6: "calculator.", t14_w7: "",
-    t15_title: "Formatare", t15_text: "Înfrumusețarea textului (bold, italic, culoare).", t15_inst: "Evidențiază cuvântul corect:", t15_h1: "Cum arată?", t15_h2: "Evidențiere.", t15_q: "Ce înseamnă 'Bold'?", t15_qa: "Linii groase", t15_qb: "Scris înclinat", t15_qc: "Litere mari", t15_qd: "Subliniat",
+    t15_title: "Formatare", t15_text: "Înfrumusețarea textului (bold, italic, culoare).", t15_inst: "Evidențiază cuvântul corect:", t15_h1: "Cum arată?", t15_h2: "Evidențiere.", t15_q: "Ce înseamnă 'Bold'?", t15_qa: "Text îngroșat", t15_qb: "Scris înclinat", t15_qc: "Litere mari", t15_qd: "Subliniat",
     t15_tk1: "Bold", t15_tk2: "și", t15_tk3: "Italic", t15_tk4: "sunt", t15_tk5: "tipuri", t15_tk6: "de", t15_tk7: "formatare."
   }
 };

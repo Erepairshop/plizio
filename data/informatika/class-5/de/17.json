@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das Internet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein einzelner Computer",
+                                      "Ein weltweites Netzwerk von Computern",
+                                      "Ein Programm auf dem Handy",
+                                      "Ein Kabel im Boden"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wofür steht \u0027WWW\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "World Wide Web",
+                                      "World West Web",
+                                      "Wide World Window",
+                                      "Web World Wide"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Server\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner Computer für zu Hause",
+                                      "Ein leistungsstarker Computer, der Dienste anbietet",
+                                      "Ein Bildschirm",
+                                      "Ein Maustyp"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was braucht man, um ins Internet zu gehen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Einen Drucker",
+                                      "Einen Internetzugang (Provider) und Hardware",
+                                      "Nur eine Tastatur",
+                                      "Einen Scanner"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was ist ein Router?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Gerät, das Datenpakete zwischen Netzwerken weiterleitet",
+                                      "Ein Monitor",
+                                      "Ein Speichergerät",
+                                      "Ein Programm zum Malen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine IP-Adresse?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Name im Internet",
+                                      "Die eindeutige Adresse eines Geräts im Netzwerk",
+                                      "Eine Telefonnummer",
+                                      "Ein Passwort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie werden Daten im Internet meistens übertragen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In einem Stück",
+                                      "In kleinen Datenpaketen",
+                                      "Per Post",
+                                      "Als Geräusche"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist WLAN?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein langes Kabel",
+                                      "Drahtloses lokales Netzwerk",
+                                      "Ein neuer Browser",
+                                      "Ein Speicherformat"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wofür steht \u0027URL\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Uniform Resource Locator (Internetadresse)",
+                                      "Universal Real Link",
+                                      "Under Read Line",
+                                      "Unit Resource List"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Webbrowser?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Internetanschluss",
+                                      "Ein Programm zum Anzeigen von Webseiten",
+                                      "Ein Computerbauteil",
+                                      "Ein Virus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Glasfaser?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Stoff für Kleidung",
+                                      "Ein sehr schnelles Übertragungsmedium aus Glas",
+                                      "Ein Teil der Maus",
+                                      "Ein altes Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Provider?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Computerhersteller",
+                                      "Ein Internetdienstanbieter",
+                                      "Ein Programm zum Spielen",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Download\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten ins Netz hochladen",
+                                      "Daten aus dem Netz auf den eigenen PC laden",
+                                      "Den PC ausschalten",
+                                      "Eine Webseite löschen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Upload\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten aus dem Netz laden",
+                                      "Daten vom eigenen PC ins Netz senden",
+                                      "Einen Monitor kaufen",
+                                      "Musik hören"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Hyperlink?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein schnelles Auto",
+                                      "Eine anklickbare Verknüpfung zu einer anderen Seite",
+                                      "Ein Passwort",
+                                      "Ein Virus"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wofür steht \u0027HTML\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Hypertext Markup Language",
+                                      "High Text Mode List",
+                                      "Home Tool Menu Line",
+                                      "Hyper Tool Markup Language"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Domain?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Computername",
+                                      "Ein Name für eine Webseite (z.B. google.de)",
+                                      "Ein Land",
+                                      "Ein Dateityp"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das \u0027Internet der Dinge\u0027 (IoT)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur Computer im Netz",
+                                      "Alltagsgeräte, die mit dem Internet verbunden sind",
+                                      "Ein Online-Shop",
+                                      "Alte Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Modem?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bildschirm",
+                                      "Ein Gerät zur Signalumwandlung für das Internet",
+                                      "Eine Tastatur",
+                                      "Ein Lautsprecher"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Protokoll sorgt für eine sichere Übertragung von Webseiten?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "HTTP",
+                                      "HTTPS",
+                                      "FTP",
+                                      "POP3"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Firewall\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine echte Mauer aus Feuer",
+                                      "Ein Schutzprogramm für das Netzwerk",
+                                      "Ein kaputtes Kabel",
+                                      "Ein Monitorständer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Netzwerk?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein einzelner PC",
+                                      "Mehrere verbundene Computer",
+                                      "Ein Fischernetz",
+                                      "Ein Webbrowser"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Wie heißt das größte Netzwerk der Welt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "LAN",
+                                      "WLAN",
+                                      "Internet",
+                                      "Intranet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Bandbreite?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Dicke eines Kabels",
+                                      "Die Datenübertragungsrate (Geschwindigkeit)",
+                                      "Die Größe des Gehäuses",
+                                      "Die Anzahl der Farben"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist 5G?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Fünf Computer",
+                                      "Ein moderner Mobilfunkstandard",
+                                      "Ein Spiel",
+                                      "Ein Speicherformat"
+                                  ]
+                  },
+                  {
+                      "text":  "Das Internet verbindet Millionen von Computern weltweit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Router leitet die Datenpakete an das richtige Ziel.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Webseiten werden mit der Sprache HTML erstellt.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "HTTPS sorgt für eine verschlüsselte Verbindung im Web.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "WLAN ermöglicht uns das Surfen ohne lästige Kabel.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Jedes Gerät im Internet hat eine eigene IP-Adresse.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der Browser ist unser Fenster zum World Wide Web.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Glasfaserkabel übertragen Daten mit Lichtgeschwindigkeit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Provider stellt uns den Zugang zum Internet bereit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Hyperlinks verknüpfen verschiedene Webseiten miteinander.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Aufbau des Internets"
+}

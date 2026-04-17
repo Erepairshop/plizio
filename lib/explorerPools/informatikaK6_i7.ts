@@ -4,7 +4,7 @@ import type { PoolTopicDef } from "./types";
 export const INFO_K6_I7_LABELS: Record<string, Record<string, string>> = {
   de: {
     explorer_title: "Informatik Entdecker K6-7",
-    t1_title: "SUMME und MITTELWERT", t1_text: "Mit =SUMME() addieren wir Zahlen, mit =MITTELWERT() berechnen wir den Durchschnitt.", t1_inst: "Ordne die Paare zu:", t1_h1: "Welche Formel macht was?", t1_h2: "SUMME oder MITTELWERT?", t1_q: "Was berechnet =MITTELWERT(A1:A5)?", t1_qa: "Den Durchschnitt der Zahlen", t1_qb: "Die Summe der Zahlen", t1_qc: "Das größte Zahl", t1_qd: "Die kleinste Zahl",
+    t1_title: "SUMME und MITTELWERT", t1_text: "Mit =SUMME() addieren wir Zahlen, mit =MITTELWERT() berechnen wir den Durchschnitt.", t1_inst: "Ordne die Paare zu:", t1_h1: "Welche Formel macht was?", t1_h2: "SUMME oder MITTELWERT?", t1_q: "Was berechnet =MITTELWERT(A1:A5)?", t1_qa: "Den Durchschnitt der Zahlen", t1_qb: "Die Summe der Zahlen", t1_qc: "Die größte Zahl", t1_qd: "Die kleinste Zahl",
     t1_l1: "=SUMME()", t1_r1: "Addition", t1_l2: "=MITTELWERT()", t1_r2: "Durchschnitt", t1_l3: "=MAX()", t1_r3: "Größter Wert",
     t2_title: "Bedingte Formatierung", t2_text: "Bedingte Formatierung färbt Zellen automatisch ein, je nach ihrem Wert.", t2_inst: "Fülle die Lücke aus:", t2_h1: "Rote Zellen = schlechter Wert?", t2_h2: "Automatisch einfärben!", t2_q: "Was macht bedingte Formatierung?", t2_qa: "Zellen je nach Wert einfärben", t2_qb: "Zahlen addieren", t2_qc: "Texte löschen", t2_qd: "Dateien speichern",
     t2_sent: "Bedingte Formatierung ___ Zellen automatisch basierend auf ihrem Wert.", t2_qa2: "färbt", t2_qb2: "löscht", t2_qc2: "kopiert", t2_qd2: "druckt",

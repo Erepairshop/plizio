@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Gestionarea fișierelor",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un fișier?",
+      "options": [
+        "O componentă hardware",
+        "O colecție de date cu un nume",
+        "Un cablu de calculator",
+        "Un tip de birou"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosit un „dosar”?",
+      "options": [
+        "Hârtie de măsurat",
+        "Organizarea fișierelor",
+        "Încărcarea laptopului",
+        "Redând muzică"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „extensie de fișier”?",
+      "options": [
+        "Un cablu mai lung",
+        "Sfârșitul unui nume de fișier care arată tipul de fișier",
+        "Dimensiunea fișierului",
+        "Prețul fișierului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce extensie este de obicei pentru fișierele text?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".txt",
+        ".exe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce extensie este de obicei pentru imagini?",
+      "options": [
+        ".txt",
+        ".jpg",
+        ".wav",
+        ".zip"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face „Copierea” unui fișier?",
+      "options": [
+        "Îl mută în alt loc",
+        "Creează un duplicat al fișierului",
+        "Șterge fișierul",
+        "Redenumește fișierul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face „Mutarea” (Tăiere și lipire) a unui fișier?",
+      "options": [
+        "Creează un duplicat",
+        "Mută ​​originalul într-o locație nouă",
+        "Imprimă fișierul",
+        "Schimbă tipul fișierului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum redenumiți un fișier?",
+      "options": [
+        "Prin ștergerea acestuia",
+        "Selectându-l și schimbându-i numele",
+        "Mutându-l în coșul de gunoi",
+        "Prin imprimarea lui"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este „Calea” unui fișier?",
+      "options": [
+        "Drumul spre magazinul de calculatoare",
+        "Locația unui fișier în sistemul de foldere",
+        "Greutatea dosarului",
+        "Culoarea fișierului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce extensie este pentru programele executabile?",
+      "options": [
+        ".exe",
+        ".txt",
+        ".mp3",
+        ".pdf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un folder „Comprimat” (Arhivat)?",
+      "options": [
+        "Un folder foarte greu",
+        "Un folder care ocupă mai puțin spațiu",
+        "Un dosar spart",
+        "Un folder fără fișiere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce extensie este pentru muzică?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".exe",
+        ".txt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Ștergerea” unui fișier?",
+      "options": [
+        "Realizarea unei copii",
+        "Scoaterea acestuia din locația sa",
+        "Redenumind-o",
+        "Deschiderea lui"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „subdosar”?",
+      "options": [
+        "Un folder în interiorul altui folder",
+        "Un folder pentru sandvișuri",
+        "Un folder pe internet",
+        "Un folder ascuns"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți selecta mai multe fișiere?",
+      "options": [
+        "Folosind tastele Ctrl sau Shift",
+        "Prin oprirea monitorului",
+        "Prin deconectarea mouse-ului",
+        "Prin închiderea ferestrei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este directorul „Root”?",
+      "options": [
+        "O parte a plantei",
+        "Dosarul de nivel superior al unei unități",
+        "Un tip de cablu",
+        "Coșul de reciclare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce extensie este pentru documentele PDF?",
+      "options": [
+        ".pdf",
+        ".jpg",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face \"Paste\"?",
+      "options": [
+        "Taie un fișier",
+        "Plasează un fișier copiat sau tăiat într-o nouă locație",
+        "Șterge un fișier",
+        "Redenumește un fișier"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce ar trebui să organizăm fișierele în foldere?",
+      "options": [
+        "Pentru a le face mai grele",
+        "Pentru a le găsi cu ușurință mai târziu",
+        "Pentru a face computerul colorat",
+        "Pentru a le ascunde de sistemul de operare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „capacitatea de stocare”?",
+      "options": [
+        "Viteza computerului",
+        "Cantitatea de date pe care o poate stoca o unitate",
+        "Dimensiunea monitorului",
+        "Numărul de taste de pe tastatură"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv este adesea folosit pentru a muta fișiere între computere?",
+      "options": [
+        "Imprimanta",
+        "Unitate flash USB",
+        "Scaner",
+        "CPU"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o unitate „Cloud”?",
+      "options": [
+        "O unitate care plutește",
+        "Spațiu de stocare pe internet",
+        "Un drive care funcționează numai pe ploaie",
+        "Un tip de ventilator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o pictogramă „Shortcut”?",
+      "options": [
+        "Dosarul real",
+        "Un link care deschide fișierul din altă parte",
+        "Un fișier șters",
+        "Un dosar spart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce extensie este pentru fișierele video?",
+      "options": [
+        ".mp4",
+        ".txt",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este dimensiunea tipică a unui fișier text simplu?",
+      "options": [
+        "Foarte mic (octeți sau KB)",
+        "Foarte mare (GB)",
+        "Mediu (MB)",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Un fișier este o informație cu un nume."
+    },
+    {
+      "type": "typing",
+      "text": "Folderele vă ajută să vă mențineți fișierele organizate."
+    },
+    {
+      "type": "typing",
+      "text": "Extensiile de fișiere ne spun ce fel de fișier este."
+    },
+    {
+      "type": "typing",
+      "text": "Utilizați Copiere și inserare pentru a duplica un fișier."
+    },
+    {
+      "type": "typing",
+      "text": "Extensia .txt este pentru documente text simple."
+    },
+    {
+      "type": "typing",
+      "text": "Un folder arhivat ocupă mai puțin spațiu de stocare."
+    },
+    {
+      "type": "typing",
+      "text": "Aveți grijă când ștergeți fișiere importante."
+    },
+    {
+      "type": "typing",
+      "text": "Redenumirea unui fișier vă ajută să identificați conținutul acestuia."
+    },
+    {
+      "type": "typing",
+      "text": "Calea fișierului arată unde este stocat un fișier."
+    },
+    {
+      "type": "typing",
+      "text": "Păstrați întotdeauna dosarul cu documente ordonat."
+    }
+  ]
+}

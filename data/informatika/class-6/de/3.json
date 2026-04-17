@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Internetdienste",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Welches ist eine beliebte Suchmaschine?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Word"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet E-Mail?",
+      "options": [
+        "Elektronische Post",
+        "Extra schnelle Nachricht",
+        "Interessanter Inhalt",
+        "Eindeutige Kennung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Spam?",
+      "options": [
+        "Wichtiger Brief",
+        "Unerwünschte Massenwerbe-Mail",
+        "Geschützte Datei",
+        "Fachforum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das @-Symbol in einer E-Mail-Adresse?",
+      "options": [
+        "Und",
+        "Bei (At)",
+        "Plus",
+        "Schrägstrich"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist eine Social-Media-Seite?",
+      "options": [
+        "Wikipedia",
+        "Instagram",
+        "Google Suche",
+        "Notepad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lautet der vollständige Name von WWW?",
+      "options": [
+        "World Wide Web",
+        "World West Web",
+        "Web World Wide",
+        "Wide Web World"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennen wir die Etikette im Internet?",
+      "options": [
+        "Internetgeschwindigkeit",
+        "Verhaltensregeln im Internet",
+        "Online-Shopping",
+        "Website-Design"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Blog?",
+      "options": [
+        "Ein Virustyp",
+        "Internet-Tagebuch",
+        "Suchmaschine",
+        "Betriebssystem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Forum?",
+      "options": [
+        "Online-Diskussionsplatz, wo Themen debattiert werden",
+        "Eine Bilddatei",
+        "E-Mail-Anbieter",
+        "Hardware-Komponente"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Link?",
+      "options": [
+        "Hintergrundfarbe einer Website",
+        "Verweis, der auf eine andere Seite zeigt",
+        "Eine Taste auf der Tastatur",
+        "Ein Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein E-Mail-Anbieter?",
+      "options": [
+        "Gmail",
+        "Spotify",
+        "Netflix",
+        "Steam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Browserverlauf?",
+      "options": [
+        "Zukunftspläne",
+        "Liste der zuvor besuchten Websites",
+        "Gespeicherte Bilder",
+        "Gelöschte E-Mails"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet ein Lesezeichen (Bookmark)?",
+      "options": [
+        "Ein physisches Objekt",
+        "Gespeicherte Website-Adresse für schnellen Zugriff",
+        "Ein Virustyp",
+        "Desktop-Hintergrundbild"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Streaming?",
+      "options": [
+        "Dauerhaftes Herunterladen von Dateien",
+        "Kontinuierliche Datenübertragung (z.B. beim Video schauen)",
+        "Computer-Reinigung",
+        "E-Mail-Versand"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Podcast?",
+      "options": [
+        "Digitaler Audio-Inhalt",
+        "Ein neuer Bildschirmtyp",
+        "Kabellose Maus",
+        "Netzwerkkabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist E-Commerce?",
+      "options": [
+        "Elektronisches Briefeschreiben",
+        "Online-Kauf und -Verkauf",
+        "Programmierung",
+        "Computer-Reparatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Startseite einer Website?",
+      "options": [
+        "Backpage",
+        "Homepage",
+        "Endpage",
+        "Sidepage"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist KEIN Browser?",
+      "options": [
+        "Firefox",
+        "Safari",
+        "Linux",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Captcha?",
+      "options": [
+        "Ein Spiel",
+        "Test zur menschlichen Identifizierung",
+        "Eine Dateiendung",
+        "Ein Kabeltyp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet der Inkognito-Modus?",
+      "options": [
+        "Schnelleres Internet",
+        "Browserdaten werden nicht auf dem Computer gespeichert",
+        "Unsichtbarkeit gegen Hacker",
+        "Keine Internetverbindung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Online-Banking?",
+      "options": [
+        "Geld in einer Box sammeln",
+        "Bankgeschäfte über das Internet",
+        "Spielgeld verwenden",
+        "Einen Geldautomaten finden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Wiki?",
+      "options": [
+        "Eine Suchmaschine",
+        "Gemeinsam bearbeitbare Informations-Website",
+        "Ein Virustyp",
+        "Newsportal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man Belästigung im Internet?",
+      "options": [
+        "Cyberbullying",
+        "E-mailing",
+        "Web-browsing",
+        "Skyping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist eine Messaging-Anwendung?",
+      "options": [
+        "Photoshop",
+        "WhatsApp",
+        "Excel",
+        "PowerPoint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Wichtigste bei einem unbekannten Link?",
+      "options": [
+        "Sofort anklicken",
+        "Nicht anklicken, misstrauisch sein",
+        "An alle Freunde senden",
+        "Inhalt herunterladen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Das Internet bietet unzählige nützliche Dienste."
+    },
+    {
+      "type": "typing",
+      "text": "Wir surfen im Web mit Browsern."
+    },
+    {
+      "type": "typing",
+      "text": "E-Mail ist einer der ältesten Online-Dienste."
+    },
+    {
+      "type": "typing",
+      "text": "Verwenden Sie starke Passwörter für jedes Konto."
+    },
+    {
+      "type": "typing",
+      "text": "Suchmaschinen helfen dabei, Informationen zu finden."
+    },
+    {
+      "type": "typing",
+      "text": "Netiquette-Regeln helfen bei höflicher Kommunikation."
+    },
+    {
+      "type": "typing",
+      "text": "Geben Sie niemals persönliche Daten an Fremde weiter."
+    },
+    {
+      "type": "typing",
+      "text": "Öffnen Sie keine Spam-Nachrichten, löschen Sie diese."
+    },
+    {
+      "type": "typing",
+      "text": "Social Media hilft dabei, in Kontakt zu bleiben."
+    },
+    {
+      "type": "typing",
+      "text": "Online-Shopping ist bequem, aber seien Sie vorsichtig."
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Software",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Software?",
+      "options": [
+        "Physische Teile",
+        "Anleitungen und Programme für den Computer",
+        "Das Computergehäuse",
+        "Ein Stromkabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche davon ist ein Beispiel für Software?",
+      "options": [
+        "Überwachen",
+        "Windows 10",
+        "Maus",
+        "Tastatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine „Bewerbung“?",
+      "options": [
+        "Ein Hardwareteil",
+        "Ein Programm, das für eine bestimmte Aufgabe entwickelt wurde",
+        "Eine Art Monitor",
+        "Ein Computerkabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welcher Software wird im Internet gesurft?",
+      "options": [
+        "Wort",
+        "Excel",
+        "Webbrowser",
+        "Malen"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher davon ist ein Webbrowser?",
+      "options": [
+        "Google Chrome",
+        "PowerPoint",
+        "Rechner",
+        "Notizblock"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck eines Textverarbeitungsprogramms?",
+      "options": [
+        "Bilder zeichnen",
+        "Erstellen und Bearbeiten von Textdokumenten",
+        "Rechnen mit Mathematik",
+        "Im Internet surfen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Programm wird zum Zeichnen verwendet?",
+      "options": [
+        "Wort",
+        "Malen",
+        "Chrom",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine „Antiviren“-Software?",
+      "options": [
+        "Ein Programm, das Viren erstellt",
+        "Ein Programm, das den Computer vor Bedrohungen schützt",
+        "Ein Spiel",
+        "Ein Webbrowser"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein Beispiel für ein Betriebssystem?",
+      "options": [
+        "Microsoft Word",
+        "Windows 11",
+        "Google-Suche",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet „Installieren“ eines Programms?",
+      "options": [
+        "Löschen",
+        "Einrichten auf Ihrem Computer",
+        "Drucken",
+        "Schließen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Update“ in der Software?",
+      "options": [
+        "Älter machen",
+        "Fehler beheben und neue Funktionen hinzufügen",
+        "Löschen des Programms",
+        "Verkaufe den Computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Software wird für Präsentationen verwendet?",
+      "options": [
+        "Excel",
+        "PowerPoint",
+        "Notizblock",
+        "Rechner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Open Source“-Software?",
+      "options": [
+        "Software, die Sie nicht ändern können",
+        "Software, deren Code frei eingesehen und geändert werden kann",
+        "Software, die viel kostet",
+        "Software zum Öffnen von Türen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Virus“ in der Informatik?",
+      "options": [
+        "Eine körperliche Krankheit",
+        "Ein schädliches Programm",
+        "Eine Art Tastatur",
+        "Ein cooles Spiel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Software wird für Tabellenkalkulationen und Mathematik verwendet?",
+      "options": [
+        "Wort",
+        "Excel",
+        "Malen",
+        "Chrom"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Freeware“?",
+      "options": [
+        "Kostenlose Software",
+        "Kostenlose Hardware",
+        "Ein kostenpflichtiges Spiel",
+        "Software zum Einfrieren des Computers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Symbol“?",
+      "options": [
+        "Eine große Datei",
+        "Ein kleines Bild, das ein Programm darstellt",
+        "Eine Art Maus",
+        "Eine Tastaturtaste"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck eines Media Players?",
+      "options": [
+        "Text eingeben",
+        "Musik und Videos abspielen",
+        "Zeichnung",
+        "Berechnen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was davon ist eine E-Mail-Anwendung?",
+      "options": [
+        "Ausblick",
+        "Malen",
+        "Solitär",
+        "Wort"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Bug“ in einem Programm?",
+      "options": [
+        "Ein Insekt",
+        "Ein Fehler im Code",
+        "Eine neue Funktion",
+        "Ein Computerteil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Testversion“-Software?",
+      "options": [
+        "Software, die für immer kostenlos ist",
+        "Software, die für eine begrenzte Zeit funktioniert",
+        "Eine Art Monitor",
+        "Ein kaputtes Programm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man normalerweise neue Apps für ein Telefon?",
+      "options": [
+        "In einem Buch",
+        "In einem App Store",
+        "Im Kühlschrank",
+        "In einem Park"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das „Dekomprimieren“ einer Datei?",
+      "options": [
+        "Verkleinern",
+        "Extrahieren von Dateien aus einem ZIP-Ordner",
+        "Löschen der Datei",
+        "Drucken der Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Software hilft Ihnen bei der Organisation Ihrer Dateien?",
+      "options": [
+        "Dateimanager",
+        "Malen",
+        "Musikplayer",
+        "Webbrowser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Benutzeroberfläche“ (UI)?",
+      "options": [
+        "Die Hardwareteile",
+        "Die Art und Weise, wie der Benutzer mit der Software interagiert",
+        "Der Preis des Computers",
+        "Eine Art Kabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Die Software sagt der Hardware, was sie tun soll."
+    },
+    {
+      "type": "typing",
+      "text": "Anwendungen helfen uns bei der Ausführung bestimmter Aufgaben."
+    },
+    {
+      "type": "typing",
+      "text": "Mit einem Webbrowser können Sie Websites besuchen."
+    },
+    {
+      "type": "typing",
+      "text": "Antivirensoftware schützt Ihren Computer."
+    },
+    {
+      "type": "typing",
+      "text": "Aktualisieren Sie Ihre Software, um die neuesten Funktionen zu erhalten."
+    },
+    {
+      "type": "typing",
+      "text": "Icons sind kleine Bilder für Ihre Programme."
+    },
+    {
+      "type": "typing",
+      "text": "Textverarbeitungsprogramme werden zum Schreiben von Dokumenten verwendet."
+    },
+    {
+      "type": "typing",
+      "text": "Tabellenkalkulationen helfen uns beim Umgang mit Zahlen."
+    },
+    {
+      "type": "typing",
+      "text": "Installieren Sie Software immer von vertrauenswürdigen Quellen."
+    },
+    {
+      "type": "typing",
+      "text": "Die Benutzeroberfläche ist das, was Sie auf dem Bildschirm sehen."
+    }
+  ]
+}

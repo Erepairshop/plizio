@@ -170,9 +170,9 @@ function generateSoundWavesMCQ(seed?: number): CurriculumMCQ[] {
         subtopic,
         q4(
           `Schall kann nicht durch ___ reisen.`,
-          `Sound cannot travel through ___ .`,
-          `A hang nem tud utazni a ___ által.`,
-          `Sunetul nu poate călători prin ___ .`
+          `Sound cannot travel through ___.`,
+          `A hang nem tud ___-ban/-ben terjedni.`,
+          `Sunetul nu poate călători prin ___.`
         ),
         "Vakuum",
         ["Wasser", "Stahl", "Luft"],
@@ -240,7 +240,7 @@ function generateSoundWavesMCQ(seed?: number): CurriculumMCQ[] {
           `Cum ajunge sunetul la urechea ta?`
         ),
         "Durch Schallwellen in der Luft",
-        ["Durch Lichtstrahlen", "Durch unsichtbare Geister", "Direkt aus dem Gehirn"],
+        ["Durch Lichtstrahlen", "Durch Geruchsmoleküle", "Durch elektrische Ströme in der Luft"],
         rng
       )
     );
@@ -720,8 +720,8 @@ function generateEchoMCQ(seed?: number): CurriculumMCQ[] {
         q4(
           `Welches Tier nutzt Echolokation?`,
           `Which animal uses echolocation?`,
-          `Melyik állat használja az echololokációt?`,
-          `Care animal folosește ecolokația?`
+          `Melyik állat használja az echolokációt?`,
+          `Care animal folosește ecolocația?`
         ),
         "Fledermaus",
         ["Vogel", "Fisch", "Reptil"],
@@ -799,10 +799,10 @@ function generateEchoTyping(seed?: number): CurriculumTyping[] {
       q4(
         `Fledermäuse nutzen ___, um sich zu orientieren.`,
         `Bats use ___ to navigate.`,
-        `A denevérek ___ -t használnak a navigációhoz.`,
+        `A denevérek ___-t használnak a navigációhoz.`,
         `Liliecii folosesc ___ pentru a naviga.`
       ),
-      ["Echolokation", "echolocation", "echololokáció", "ecolație"]
+      ["Echolokation", "echolocation", "echolokáció", "ecolocație"]
     )
   );
 
@@ -869,10 +869,10 @@ function generateEchoTyping(seed?: number): CurriculumTyping[] {
       q4(
         `Delfine nutzen ___, um Beute zu lokalisieren.`,
         `Dolphins use ___ to locate prey.`,
-        `A delfinek ___ -t használnak a zsákmány megtalálásához.`,
+        `A delfinek ___-t használnak a zsákmány megtalálásához.`,
         `Delfinii folosesc ___ pentru a localiza prada.`
       ),
-      ["Echolokation", "echolocation", "echololokáció", "ecolație"]
+      ["Echolokation", "echolocation", "echolokáció", "ecolocație"]
     )
   );
 
@@ -900,7 +900,7 @@ function generateEchoTyping(seed?: number): CurriculumTyping[] {
         `Egy ___ az az elv, amelyre a szonár alapul.`,
         `O ___ este principiul pe care se bazează sonarul.`
       ),
-      ["Echolokation", "echolocation", "echololokáció", "ecolație"]
+      ["Echolokation", "echolocation", "echolokáció", "ecolocație"]
     )
   );
 

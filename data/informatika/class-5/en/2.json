@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Hardware Basics",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is hardware?",
+      "options": [
+        "Physical parts of a computer",
+        "Computer programs",
+        "The internet",
+        "Computer games"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'brain' of the computer?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "CPU",
+        "Mouse"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Process Unit",
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Control Power Unit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is RAM?",
+      "options": [
+        "Permanent storage",
+        "Temporary memory",
+        "A type of printer",
+        "A computer cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where are all the main components connected?",
+      "options": [
+        "Motherboard",
+        "Power supply",
+        "Case",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which part provides power to the computer?",
+      "options": [
+        "CPU",
+        "Power Supply Unit",
+        "RAM",
+        "Hard Drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a cooling fan do?",
+      "options": [
+        "Cleans the screen",
+        "Prevents the CPU from overheating",
+        "Speeds up the internet",
+        "Plays music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of the Hard Drive?",
+      "options": [
+        "Temporary storage",
+        "Long-term data storage",
+        "Showing images",
+        "Typing text"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is an internal hardware component?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "CPU",
+        "Webcam"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What happens to data in RAM when the power goes off?",
+      "options": [
+        "It is saved",
+        "It is lost",
+        "It becomes faster",
+        "It is printed"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which part is responsible for processing graphics?",
+      "options": [
+        "Sound Card",
+        "Graphics Card (GPU)",
+        "Network Card",
+        "Keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the computer 'Case'?",
+      "options": [
+        "The box that holds the components",
+        "The software package",
+        "A type of bag",
+        "The monitor frame"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a portable computer?",
+      "options": [
+        "Desktop",
+        "Laptop",
+        "Server",
+        "Mainframe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of a Sound Card?",
+      "options": [
+        "To process images",
+        "To process audio and sound",
+        "To store files",
+        "To connect to the internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'SSD' stand for?",
+      "options": [
+        "Super Speed Drive",
+        "Solid State Drive",
+        "System Storage Device",
+        "Slow Static Data"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is faster, an SSD or a traditional Hard Drive (HDD)?",
+      "options": [
+        "HDD",
+        "SSD",
+        "They are the same",
+        "None"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the function of the CMOS battery?",
+      "options": [
+        "To power the monitor",
+        "To keep the system clock and BIOS settings",
+        "To recharge the laptop",
+        "To make the CPU faster"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you plug in a USB flash drive?",
+      "options": [
+        "Ethernet port",
+        "USB port",
+        "HDMI port",
+        "VGA port"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which component is usually hidden inside the case?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Motherboard",
+        "Monitor"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'External' hardware?",
+      "options": [
+        "CPU",
+        "RAM",
+        "Printer",
+        "Power Supply"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the main task of the motherboard?",
+      "options": [
+        "Printing documents",
+        "Connecting all parts together",
+        "Scanning photos",
+        "Playing videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What unit is CPU speed measured in?",
+      "options": [
+        "Liters",
+        "Hertz (GHz)",
+        "Meters",
+        "Grams"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a Tablet?",
+      "options": [
+        "A type of mouse",
+        "A mobile computer with a touchscreen",
+        "A printer part",
+        "A software program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a primary storage?",
+      "options": [
+        "USB stick",
+        "RAM",
+        "DVD",
+        "Hard Drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Hardware' include?",
+      "options": [
+        "Only the monitor",
+        "Only the mouse",
+        "Everything you can physically touch",
+        "Only the Windows system"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Hardware is the physical part of the computer."
+    },
+    {
+      "type": "typing",
+      "text": "The CPU is the brain of the computer."
+    },
+    {
+      "type": "typing",
+      "text": "RAM is temporary memory for the computer."
+    },
+    {
+      "type": "typing",
+      "text": "The motherboard connects all the parts together."
+    },
+    {
+      "type": "typing",
+      "text": "A power supply provides electricity to the machine."
+    },
+    {
+      "type": "typing",
+      "text": "Laptops are portable personal computers."
+    },
+    {
+      "type": "typing",
+      "text": "An SSD is much faster than an old hard drive."
+    },
+    {
+      "type": "typing",
+      "text": "The graphics card helps show images on screen."
+    },
+    {
+      "type": "typing",
+      "text": "Keep your computer clean and cool for better work."
+    },
+    {
+      "type": "typing",
+      "text": "Internal hardware is inside the computer case."
+    }
+  ]
+}

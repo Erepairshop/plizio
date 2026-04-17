@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Einfache Funktionen",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit welchem Zeichen beginnt jede Funktion?",
+      "options": [
+        "+",
+        "=",
+        "?",
+        "!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion addiert alle Zahlen in einem Bereich?",
+      "options": [
+        "PLUS",
+        "ADD",
+        "SUMME",
+        "GESAMT"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was berechnet die Funktion MITTELWERT?",
+      "options": [
+        "Die Summe",
+        "Den Durchschnitt",
+        "Die größte Zahl",
+        "Die kleinste Zahl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion findet die kleinste Zahl?",
+      "options": [
+        "KLEIN",
+        "MIN",
+        "MAX",
+        "WENIG"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion findet die größte Zahl?",
+      "options": [
+        "GROSS",
+        "MAX",
+        "MIN",
+        "STARK"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie trennt man den Start und das Ende eines Bereichs in einer Funktion?",
+      "options": [
+        ";",
+        "-",
+        ":",
+        ","
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion ANZAHL?",
+      "options": [
+        "Zählt Zellen mit Zahlen",
+        "Zählt alle leeren Zellen",
+        "Addiert die Zahlen",
+        "Löscht den Inhalt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo kann man Funktionen schnell einfügen?",
+      "options": [
+        "Über das fx-Symbol (Funktion einfügen)",
+        "Über das Druckmenü",
+        "Über die rechte Maustaste",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn eine Funktion falsch geschrieben ist?",
+      "options": [
+        "Es erscheint eine Fehlermeldung (z.B. #NAME?)",
+        "Excel stürzt ab",
+        "Der Computer piept",
+        "Es wird 0 angezeigt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Funktionen ineinander verschachteln?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur in der Profi-Version",
+        "Nur zwei Mal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion zählt alle nicht leeren Zellen?",
+      "options": [
+        "ANZAHL",
+        "ANZAHL2",
+        "SUMME",
+        "ZÄHLENWENN"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion HEUTE()?",
+      "options": [
+        "Zeigt das aktuelle Datum an",
+        "Zeigt die Uhrzeit an",
+        "Löscht den Tag",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion RUNDEN?",
+      "options": [
+        "Macht die Zelle rund",
+        "Rundet eine Zahl auf eine bestimmte Stelle",
+        "Löscht Dezimalstellen",
+        "Vergrößert die Zahl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion gibt das aktuelle Datum und die Uhrzeit aus?",
+      "options": [
+        "HEUTE",
+        "JETZT",
+        "ZEIT",
+        "DATUM"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Argument' in einer Funktion?",
+      "options": [
+        "Ein Streit",
+        "Ein Wert oder Bereich, den die Funktion benötigt",
+        "Der Name der Funktion",
+        "Das Ergebnis"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo stehen die Argumente einer Funktion?",
+      "options": [
+        "In Klammern hinter dem Funktionsnamen",
+        "Vor dem Gleichheitszeichen",
+        "Über der Zelle",
+        "In Anführungszeichen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schreibt man die Summe von A1 bis A10?",
+      "options": [
+        "=SUMME(A1:A10)",
+        "=SUMME(A1-A10)",
+        "=A1+A10",
+        "SUMME A1 bis A10"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet #DIV/0! ?",
+      "options": [
+        "Division durch Null ist nicht erlaubt",
+        "Die Zelle ist zu klein",
+        "Falscher Name",
+        "Kein Wert gefunden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion PRODUKT?",
+      "options": [
+        "Addiert Zahlen",
+        "Multipliziert alle Zahlen in den Argumenten",
+        "Dividiert Zahlen",
+        "Subtrahiert Zahlen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man eine Funktion auf andere Zellen kopieren?",
+      "options": [
+        "Mit dem Ausfüllkästchen ziehen",
+        "Strg + C und Strg + V",
+        "Gar nicht",
+        "Neu tippen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was berechnet =ANZAHL(A1:A5), wenn A1=10, A2=Text, A3=20?",
+      "options": [
+        "3",
+        "2",
+        "30",
+        "Fehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion WENN (einfach)?",
+      "options": [
+        "Prüft eine Bedingung und gibt je nach Ergebnis einen Wert zurück",
+        "Addiert nur wenn es regnet",
+        "Löscht Zellen",
+        "Sucht nach Text"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Ergebnis von =SUMME(5;10;15)?",
+      "options": [
+        "30",
+        "15",
+        "5",
+        "51015"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion OBERGRENZE?",
+      "options": [
+        "Rundet eine Zahl auf",
+        "Findet die größte Zahl",
+        "Macht den Text groß",
+        "Gar nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen trennt Argumente in einer Funktion (DE-Version)?",
+      "options": [
+        ":",
+        ";",
+        ",",
+        "-"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "SUMME"
+    },
+    {
+      "type": "typing",
+      "text": "MITTELWERT"
+    },
+    {
+      "type": "typing",
+      "text": "MIN"
+    },
+    {
+      "type": "typing",
+      "text": "MAX"
+    },
+    {
+      "type": "typing",
+      "text": "="
+    },
+    {
+      "type": "typing",
+      "text": ":"
+    },
+    {
+      "type": "typing",
+      "text": "ANZAHL"
+    },
+    {
+      "type": "typing",
+      "text": "HEUTE"
+    },
+    {
+      "type": "typing",
+      "text": "Argumente"
+    },
+    {
+      "type": "typing",
+      "text": "#DIV/0!"
+    }
+  ]
+}

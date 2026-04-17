@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Noțiuni de bază despre hardware",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este hardware-ul?",
+      "options": [
+        "Părțile fizice ale unui computer",
+        "Programe de calculator",
+        "Internetul",
+        "Jocuri pe calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „creierul” computerului?",
+      "options": [
+        "Monitor",
+        "Tastatura",
+        "CPU",
+        "Șoarece"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă CPU?",
+      "options": [
+        "Unitatea centrală de proces",
+        "Unitate centrală de procesare",
+        "Unitate personală computer",
+        "Unitate de putere de control"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este RAM?",
+      "options": [
+        "Depozitare permanentă",
+        "Memoria temporară",
+        "Un tip de imprimantă",
+        "Un cablu de calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde sunt conectate toate componentele principale?",
+      "options": [
+        "Placa de baza",
+        "Alimentare",
+        "Cazul",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care parte furnizează energie computerului?",
+      "options": [
+        "CPU",
+        "Unitate de alimentare",
+        "RAM",
+        "Hard Drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un ventilator de răcire?",
+      "options": [
+        "Curăță ecranul",
+        "Previne supraîncălzirea procesorului",
+        "Accelerează internetul",
+        "Redă muzică"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul hard disk-ului?",
+      "options": [
+        "Depozitare temporară",
+        "Stocarea de date pe termen lung",
+        "Se afișează imagini",
+        "Tastarea textului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este o componentă hardware internă?",
+      "options": [
+        "Imprimanta",
+        "Scaner",
+        "CPU",
+        "Cameră web"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă cu datele din RAM când se oprește alimentarea?",
+      "options": [
+        "Este salvat",
+        "Se pierde",
+        "Devine mai rapid",
+        "Este imprimat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care parte este responsabilă pentru procesarea graficelor?",
+      "options": [
+        "Placă de sunet",
+        "Placă grafică (GPU)",
+        "Placă de rețea",
+        "Tastatura"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „carcasa” computerului?",
+      "options": [
+        "Cutia care deține componentele",
+        "Pachetul software",
+        "Un tip de geantă",
+        "Cadrul monitorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un computer portabil?",
+      "options": [
+        "Desktop",
+        "Laptop",
+        "Server",
+        "Mainframe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul unei plăci de sunet?",
+      "options": [
+        "Pentru a procesa imagini",
+        "Pentru a procesa sunetul și sunetul",
+        "Pentru a stoca fișiere",
+        "Pentru a vă conecta la internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „SSD”?",
+      "options": [
+        "Super Speed ​​Drive",
+        "Unitate SSD",
+        "Dispozitiv de stocare a sistemului",
+        "Date statice lente"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este mai rapid, un SSD sau un hard disk (HDD) tradițional?",
+      "options": [
+        "HDD",
+        "SSD",
+        "Sunt la fel",
+        "Niciuna"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este funcția bateriei CMOS?",
+      "options": [
+        "Pentru alimentarea monitorului",
+        "Pentru a păstra ceasul sistemului și setările BIOS",
+        "Pentru a reincarca laptopul",
+        "Pentru a face procesorul mai rapid"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde conectezi o unitate flash USB?",
+      "options": [
+        "Port Ethernet",
+        "Port USB",
+        "Port HDMI",
+        "Port VGA"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce componentă este de obicei ascunsă în interiorul carcasei?",
+      "options": [
+        "Tastatura",
+        "Șoarece",
+        "Placa de baza",
+        "Monitor"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un hardware „extern”?",
+      "options": [
+        "CPU",
+        "RAM",
+        "Imprimanta",
+        "Sursa de alimentare"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care este sarcina principală a plăcii de bază?",
+      "options": [
+        "Imprimarea documentelor",
+        "Conectarea tuturor pieselor împreună",
+        "Scanarea fotografiilor",
+        "Redarea videoclipurilor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "În ce unitate se măsoară viteza procesorului?",
+      "options": [
+        "Litri",
+        "Hertz (GHz)",
+        "Metri",
+        "Grame"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o tabletă?",
+      "options": [
+        "Un tip de șoarece",
+        "Un computer mobil cu ecran tactil",
+        "O parte a imprimantei",
+        "Un program software"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este stocarea primară?",
+      "options": [
+        "Stick USB",
+        "RAM",
+        "DVD",
+        "Hard Drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce include „Hardware”?",
+      "options": [
+        "Doar monitorul",
+        "Doar șoarecele",
+        "Tot ce poți atinge fizic",
+        "Doar sistemul Windows"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Hardware-ul este partea fizică a computerului."
+    },
+    {
+      "type": "typing",
+      "text": "CPU este creierul computerului."
+    },
+    {
+      "type": "typing",
+      "text": "RAM este memorie temporară pentru computer."
+    },
+    {
+      "type": "typing",
+      "text": "Placa de bază conectează toate piesele împreună."
+    },
+    {
+      "type": "typing",
+      "text": "O sursă de alimentare asigură electricitate mașinii."
+    },
+    {
+      "type": "typing",
+      "text": "Laptopurile sunt computere personale portabile."
+    },
+    {
+      "type": "typing",
+      "text": "Un SSD este mult mai rapid decât un hard disk vechi."
+    },
+    {
+      "type": "typing",
+      "text": "Placa grafică ajută la afișarea imaginilor pe ecran."
+    },
+    {
+      "type": "typing",
+      "text": "Păstrați computerul curat și rece pentru o muncă mai bună."
+    },
+    {
+      "type": "typing",
+      "text": "Hardware-ul intern se află în interiorul carcasei computerului."
+    }
+  ]
+}

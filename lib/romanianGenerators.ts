@@ -281,7 +281,7 @@ const CLASA1_WORDS = {
 
   mBP: [
     { word: "câmp", blank: "câ_p", answer: "m", rule: "m înainte de p" },
-    { word: "bombon", blank: "bo_bon", answer: "m", rule: "m înainte de b" },
+    { word: "bomboană", blank: "bo_boană", answer: "m", rule: "m înainte de b" },
     { word: "tâmplar", blank: "tâ_plar", answer: "m", rule: "m înainte de p" },
     { word: "umbrelă", blank: "u_brelă", answer: "m", rule: "m înainte de b" },
     { word: "trompetă", blank: "tro_petă", answer: "m", rule: "m înainte de p" },
@@ -304,7 +304,7 @@ const CLASA1_WORDS = {
     { word: "complot", blank: "co_plot", answer: "m", rule: "m înainte de p" },
     { word: "romboid", blank: "ro_boid", answer: "m", rule: "m înainte de b" },
     { word: "simplu", blank: "si_plu", answer: "m", rule: "m înainte de p" },
-    { word: "numără", blank: "nu_ără", answer: "m", rule: "m înainte de ă" },
+    { word: "numără", blank: "nu_ără", answer: "m", rule: "se scrie cu m" },
   ],
 
   aCircumflex: [
@@ -321,7 +321,7 @@ const CLASA1_WORDS = {
     { word: "târziu", displayWord: "t_rziu", letter: "â", position: "interior" },
     { word: "cânt", displayWord: "c_nt", letter: "â", position: "interior" },
     { word: "stâncă", displayWord: "st_ncă", letter: "â", position: "interior" },
-    { word: "tânar", displayWord: "t_nar", letter: "â", position: "interior" },
+    { word: "tânăr", displayWord: "t_năr", letter: "â", position: "interior" },
     { word: "vântul", displayWord: "v_ntul", letter: "â", position: "interior" },
     { word: "rândul", displayWord: "r_ndul", letter: "â", position: "interior" },
     { word: "gând", displayWord: "g_nd", letter: "â", position: "interior" },
@@ -2203,7 +2203,7 @@ export const C1_Generators = {
       // Type C: find the error (n used instead of m before b/p)
       const errorData = [
         { gresit: "cânp", corect: "câmp", letter: "n", should: "m" },
-        { gresit: "bonbon", corect: "bombon", letter: "n", should: "m" },
+        { gresit: "bonboană", corect: "bomboană", letter: "n", should: "m" },
         { gresit: "unbrelă", corect: "umbrelă", letter: "n", should: "m" },
         { gresit: "conpot", corect: "compot", letter: "n", should: "m" },
         { gresit: "bonbă", corect: "bombă", letter: "n", should: "m" },
@@ -2796,7 +2796,7 @@ export const C1_Generators = {
       const replicaData = [
         { text: "Ana spune: 'Pisica mea se numește Miau!' Toți copiii o admiră.", spus: "Pisica mea se numește Miau!", personaj: "Ana", wrong: ["Ion", "Maria", "Andrei"] },
         { text: "Ion zice: 'Am ghiozdan nou!' El este foarte fericit.", spus: "Am ghiozdan nou!", personaj: "Ion", wrong: ["Ana", "Maria", "Mihai"] },
-        { text: "Bunica spune nepoților: 'Ascultați, vă povestesc ceva!' Toți se adună.", spus: "Ascultați, vă povestesc ceva!", personaj: "bunica", wrong: ["mama", "tata", "Ana"] },
+        { text: "Bunica spune nepoților: 'Ascultați, vă povestesc ceva!' Toți se adună.", spus: "Ascultați, vă povestesc ceva!", personaj: "Bunica", wrong: ["Mama", "Tata", "Ana"] },
       ];
       const typeD = () => {
         const data = pick(replicaData, rng);
@@ -2862,7 +2862,7 @@ export const C1_Generators = {
           text: "Rex este un câine jucăuș. El aleargă și sare. Rex este prietenul tuturor.",
           idee: "Rex este un câine jucăuș și prietenos.",
           titlu: "Rex, câinele cel bun",
-          rezumat: "Rex este un câine vesel care se joacă și îi place de toți.",
+          rezumat: "Rex este un câine vesel care se joacă și îi place de toată lumea.",
           morala: "Câinii pot fi cei mai buni prieteni ai oamenilor.",
           wrong_idee: ["Rex este un câine rău.", "Rex nu se joacă niciodată.", "Rex este o pisică."],
           wrong_titlu: ["Rex cel rău", "Pisica jucăușă", "Rex doarme"],

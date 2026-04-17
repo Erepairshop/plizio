@@ -69,7 +69,7 @@ export const ADJECTIVE_LABELS: Record<string, Record<string, string>> = {
     t6_i3: "Small", t6_i4: "Green",
 
     t7_title: "Describing Places",
-    t7_text: "Quiet, noisy, busy, empty.",
+    t7_text: "Adjectives describe places too! A library is quiet. A market is noisy. A street can be busy or empty.",
     t7_inst: "Order for a place description:",
     t7_h1: "Start with 'The city'.",
     t7_h2: "Use 'busy and noisy'.",
@@ -89,17 +89,17 @@ export const ADJECTIVE_LABELS: Record<string, Record<string, string>> = {
     t8_l3: "Ice", t8_r3: "Cold",
 
     t9_title: "Weather Adjectives",
-    t9_text: "Sunny, rainy, foggy, windy.",
-    t9_inst: "Choose for a storm:",
-    t9_h1: "Lots of wind and rain.",
-    t9_h2: "Use 'stormy'.",
+    t9_text: "Adjectives can describe the weather! Sunny, rainy, foggy, and windy are all weather adjectives.",
+    t9_inst: "Choose the best weather word:",
+    t9_h1: "When the sun is shining, it is a ___ day.",
+    t9_h2: "Use 'sunny'.",
     t9_q: "Which is weather?",
     t9_qa: "sunny", t9_qb: "chair", t9_qc: "eat", t9_qd: "fast",
     t9_sent: "It is a very ___ day, let's go out.",
     t9_qa2: "sunny", t9_qb2: "rainy", t9_qc2: "windy", t9_qd2: "stormy",
 
     t10_title: "Adjective Highlight 2",
-    t10_text: "Finding multiple adjectives in a sentence.",
+    t10_text: "A sentence can have more than one adjective! Can you find all the describing words?",
     t10_inst: "Highlight the adjectives:",
     t10_h1: "Look for 'beautiful' and 'long'.",
     t10_h2: "They describe the dress.",
@@ -108,7 +108,7 @@ export const ADJECTIVE_LABELS: Record<string, Record<string, string>> = {
     t10_tk1: "She", t10_tk2: "wore", t10_tk3: "a", t10_tk4: "beautiful,", t10_tk5: "long", t10_tk6: "blue", t10_tk7: "dress", t10_tk8: "to", t10_tk9: "the", t10_tk10: "party.",
 
     t11_title: "Adjective Build 2",
-    t11_text: "Build a sentence about a clever animal.",
+    t11_text: "Dolphins are famous for being very clever animals. Let's use this adjective in a sentence!",
     t11_inst: "Build a 'clever' sentence:",
     t11_h1: "Start with 'The dolphin'.",
     t11_h2: "Use 'is a clever animal'.",
@@ -128,7 +128,7 @@ export const ADJECTIVE_LABELS: Record<string, Record<string, string>> = {
     t12_i3: "Helpful", t12_i4: "Lazy",
 
     t13_title: "Food Gap-Fill",
-    t13_text: "Fill in the food description.",
+    t13_text: "We use adjectives to describe how food tastes! Sweet, sour, salty, and bitter are all taste adjectives.",
     t13_inst: "Choose for the taste:",
     t13_h1: "Lemons are not sweet.",
     t13_h2: "Use 'sour'.",
@@ -138,7 +138,7 @@ export const ADJECTIVE_LABELS: Record<string, Record<string, string>> = {
     t13_qa2: "delicious", t13_qb2: "sour", t13_qc2: "bitter", t13_qd2: "hard",
 
     t14_title: "Final Match 1",
-    t14_text: "Final adjective review.",
+    t14_text: "Many adjectives have opposites! Tall/short, empty/full, old/new. Let's match them up!",
     t14_inst: "Match the pairs:",
     t14_h1: "Opposites review.",
     t14_h2: "Tall -> Short.",
@@ -306,7 +306,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t3_qa2: "slowly", t3_qb2: "slow", t3_qc2: "slowness", t3_qd2: "slowing",
 
     t4_title: "Adverb Highlight",
-    t4_text: "Finding the adverb in a sentence.",
+    t4_text: "Adverbs can appear at different places in a sentence. Let's find the adverb that describes HOW something was done.",
     t4_inst: "Highlight the adverb of manner:",
     t4_h1: "Look for 'neatly'.",
     t4_h2: "It describes how she wrote.",
@@ -315,7 +315,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t4_tk1: "She", t4_tk2: "wrote", t4_tk3: "her", t4_tk4: "class", t4_tk5: "notes", t4_tk6: "very", t4_tk7: "neatly", t4_tk8: "today.",
 
     t5_title: "Adverb Build",
-    t5_text: "Build a sentence describing a quiet action.",
+    t5_text: "To describe a quiet action, we use the adverb 'quietly'. It tells us HOW the cat walked.",
     t5_inst: "Build a 'quietly' sentence:",
     t5_h1: "Start with 'The cat'.",
     t5_h2: "Use 'walked quietly'.",
@@ -344,7 +344,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t7_w1: "They", t7_w2: "are", t7_w3: "playing", t7_w4: "soccer", t7_w5: "with", t7_w6: "friends", t7_w7: "outside.",
 
     t8_title: "Irregular Match",
-    t8_text: "Match adjective to its irregular adverb.",
+    t8_text: "Some adverbs are irregular — they do not follow the '-ly' rule. 'Good' becomes 'well', and 'fast' stays 'fast'!",
     t8_inst: "Match Irregular Pairs:",
     t8_h1: "Good -> Well.",
     t8_h2: "Fast -> Fast.",
@@ -355,7 +355,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t8_l3: "Hard", t8_r3: "Hard",
 
     t9_title: "Frequency Choice",
-    t9_text: "Choosing the right frequency for the context.",
+    t9_text: "Choose the right adverb of frequency! Think about how often the action happens — every day, sometimes, or never?",
     t9_inst: "Choose for the blank:",
     t9_h1: "He does it every single day.",
     t9_h2: "Use 'always'.",
@@ -365,7 +365,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t9_qa2: "often", t9_qb2: "once", t9_qc2: "never", t9_qd2: "ever",
 
     t10_title: "Adverb Highlight 2",
-    t10_text: "Finding time adverbs in a sentence.",
+    t10_text: "Adverbs of time tell us WHEN something happens. Words like 'tomorrow', 'yesterday', and 'soon' are time adverbs.",
     t10_inst: "Highlight the time adverb:",
     t10_h1: "Look for 'tomorrow'.",
     t10_h2: "It tells when the action happens.",
@@ -374,7 +374,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t10_tk1: "We", t10_tk2: "will", t10_tk3: "visit", t10_tk4: "the", t10_tk5: "new", t10_tk6: "museum", t10_tk7: "tomorrow", t10_tk8: "morning.",
 
     t11_title: "Adverb Build 2",
-    t11_text: "Build a sentence about a fast action.",
+    t11_text: "When we describe speed, we can use the adverb 'fast'. Note: 'fast' is both an adjective (fast car) and an adverb (ran fast)!",
     t11_inst: "Build a 'fast' sentence:",
     t11_h1: "Start with 'The runner'.",
     t11_h2: "Use 'ran very fast'.",
@@ -394,7 +394,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t12_i3: "Softly", t12_i4: "Shouted",
 
     t13_title: "Gap-Fill 2",
-    t13_text: "Fill in the missing adverb form.",
+    t13_text: "Remember: irregular adverbs do not add '-ly'. 'Good' becomes 'well'. 'Hard' stays 'hard' (not 'hardly', which means barely)!",
     t13_inst: "Choose for the blank:",
     t13_h1: "He is a good player.",
     t13_h2: "He plays 'well'.",
@@ -404,7 +404,7 @@ export const ADVERB_LABELS: Record<string, Record<string, string>> = {
     t13_qa2: "hard", t13_qb2: "hardly", t13_qc2: "harder", t13_qd2: "hardest",
 
     t14_title: "Final Match 2",
-    t14_text: "Final adverb review.",
+    t14_text: "Let's review adjective-to-adverb pairs one more time. Most add '-ly', but watch out for the irregular ones!",
     t14_inst: "Match the pairs:",
     t14_h1: "Adjective to Adverb review.",
     t14_h2: "Real -> Really.",
@@ -581,7 +581,7 @@ export const COMPARISON_LABELS: Record<string, Record<string, string>> = {
     t4_tk1: "This", t4_tk2: "math", t4_tk3: "test", t4_tk4: "is", t4_tk5: "more", t4_tk6: "difficult", t4_tk7: "than", t4_tk8: "the", t4_tk9: "last", t4_tk10: "one.",
 
     t5_title: "Comparison Build",
-    t5_text: "Build a sentence comparing two animals.",
+    t5_text: "Let's compare two animals! A lion is stronger than a zebra. Use '-er than' to compare two things.",
     t5_inst: "Build a 'stronger' sentence:",
     t5_h1: "Start with 'The lion'.",
     t5_h2: "Use 'is stronger than'.",
@@ -630,8 +630,8 @@ export const COMPARISON_LABELS: Record<string, Record<string, string>> = {
     t9_sent: "She is the ___ girl in class.",
     t9_qa2: "most intelligent", t9_qb2: "more intelligent", t9_qc2: "intelligenter", t9_qd2: "intelligent",
 
-    t10_title: "Punctuation Highlight 2",
-    t10_text: "Identifying comparison phrases in text.",
+    t10_title: "Comparison Highlight",
+    t10_text: "A comparison phrase uses '-er than' or 'more ... than'. Can you spot the comparison phrase in this sentence?",
     t10_inst: "Highlight the comparison phrase:",
     t10_h1: "Look for 'cheaper than'.",
     t10_h2: "It compares the two items.",
@@ -817,7 +817,7 @@ export const PREPOSITION_LABELS: Record<string, Record<string, string>> = {
     t1_w1: "The", t1_w2: "book", t1_w3: "is", t1_w4: "lying", t1_w5: "flat", t1_w6: "on", t1_w7: "the", t1_w8: "wooden", t1_w9: "table.",
 
     t2_title: "Prepositions of Time",
-    t2_text: "In, on, at. Example: 'at 5 o'clock', 'on Monday', 'in Summer'.",
+    t2_text: "In, on, at. Example: 'at 5 o'clock', 'on Monday', 'in summer'.",
     t2_inst: "Match time to its preposition:",
     t2_h1: "At for time, On for day, In for season.",
     t2_h2: "5 PM -> At, Monday -> On.",
@@ -1163,7 +1163,7 @@ export const CONJUNCTION_LABELS: Record<string, Record<string, string>> = {
     t9_qa2: "or", t9_qb2: "but", t9_qc2: "so", t9_qd2: "if",
 
     t10_title: "Emphasis Highlight 2",
-    t10_text: "Finding connectors that add emphasis.",
+    t10_text: "Some words add extra information to a sentence. 'Moreover' means 'and also' or 'in addition'.",
     t10_inst: "Highlight the connector 'moreover':",
     t10_h1: "Look for 'moreover' in the middle.",
     t10_h2: "It adds formal information.",

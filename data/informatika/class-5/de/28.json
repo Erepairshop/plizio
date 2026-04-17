@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet die Abkürzung KI (englisch AI)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Keine Information",
+                                      "Künstliche Intelligenz",
+                                      "Karten-Index",
+                                      "Kabel-Input"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das Hauptziel von KI?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Computer schneller machen",
+                                      "Maschinen intelligentes Verhalten beibringen",
+                                      "Strom sparen",
+                                      "Bilder drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Maschinelles Lernen\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Maschinen putzen",
+                                      "KI lernt aus Daten ohne direkte Programmierung jeder Regel",
+                                      "Maschinen kaputt machen",
+                                      "In der Schule lernen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Nenne ein Beispiel für KI im Alltag.",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Toaster",
+                                      "Sprachassistenten (z.B. Siri, Alexa)",
+                                      "Hammer",
+                                      "Fahrrad"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Kann KI Gefühle haben wie ein Mensch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ja",
+                                      "Nein, sie simuliert nur Reaktionen",
+                                      "Manchmal",
+                                      "Nur wenn sie Strom hat"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird KI oft genutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Nägel einschlagen",
+                                      "Zur Bilderkennung und Übersetzung",
+                                      "Zum Kochen von Nudeln",
+                                      "Zum Staubsaugen (manuell)"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Chatbot?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Boot zum Chatten",
+                                      "Ein Programm, mit dem man wie mit einem Menschen schreiben kann",
+                                      "Ein Virus",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was sind \u0027Trainingsdaten\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sportübungen für PCs",
+                                      "Daten, mit denen eine KI lernt",
+                                      "Gelöschte Dateien",
+                                      "Passwörter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Gesichtserkennung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bild malen",
+                                      "KI erkennt Personen auf Fotos oder Videos",
+                                      "Eine Brille",
+                                      "Ein Monitor-Test"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum braucht KI viele Daten?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit sie schwerer wird",
+                                      "Um Muster zu erkennen und besser zu werden",
+                                      "Weil sie Hunger hat",
+                                      "Gar nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Empfehlung (z.B. bei Netflix/YouTube)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Befehl",
+                                      "KI schlägt Inhalte vor, die dir gefallen könnten",
+                                      "Eine Werbung",
+                                      "Ein Fehler"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Deepfake\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein tiefes Loch",
+                                      "Mit KI täuschend echt veränderte Bilder oder Videos",
+                                      "Ein neues Spiel",
+                                      "Ein Passwort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein autonomes Fahrzeug?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein ferngesteuertes Auto",
+                                      "Ein Auto, das mit KI alleine fahren kann",
+                                      "Ein kaputtes Auto",
+                                      "Ein Fahrrad"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Kann KI Fehler machen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein",
+                                      "Ja, wenn die Daten schlecht oder falsch sind",
+                                      "Nur wenn der Strom ausfällt",
+                                      "Nur montags"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Ethik in der KI?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Farbe der KI",
+                                      "Regeln, wie KI gerecht und sicher genutzt werden sollte",
+                                      "Ein Programmierbefehl",
+                                      "Ein Speicherort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Bildgenerierung (z.B. Midjourney)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Fotos machen",
+                                      "KI erstellt neue Bilder aus Textbeschreibungen",
+                                      "Bilder löschen",
+                                      "Bilder drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Spracherkennung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Musik hören",
+                                      "KI wandelt gesprochene Sprache in Text um",
+                                      "Singen",
+                                      "Telefonieren"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Algorithmus bei der KI?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Kochrezept",
+                                      "Die mathematische Grundlage für das Lernen",
+                                      "Ein Kabel",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Kann KI einen menschlichen Arzt ersetzen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ja, komplett",
+                                      "Nein, aber sie kann bei Diagnosen unterstützen",
+                                      "Nur beim Zähneputzen",
+                                      "Nur im Film"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Big Data\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein großer Computer",
+                                      "Riesige Mengen an digitalen Daten",
+                                      "Ein langes Kabel",
+                                      "Ein schwerer Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein neuronales Netz?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Fischernetz",
+                                      "Ein der Biologie nachempfundenes Modell für KI",
+                                      "Ein Gehirn aus Fleisch",
+                                      "Ein Internetkabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür steht \u0027GPT\u0027 (wie bei ChatGPT)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Global Program Tool",
+                                      "Generative Pre-trained Transformer",
+                                      "Great Point Text",
+                                      "General Power Tablet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Turing-Test?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Test für schnelle Autos",
+                                      "Ein Test, ob eine KI von einem Menschen unterscheidbar ist",
+                                      "Ein Mathetest",
+                                      "Ein Sehtest"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Kann KI kreativ sein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein, gar nicht",
+                                      "Sie kann Neues aus Gelerntem kombinieren (z.B. Kunst)",
+                                      "Nur wenn sie möchte",
+                                      "Nur mit Pinsel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum ist Datenschutz bei KI wichtig?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit sie nicht wegfliegt",
+                                      "Weil KI oft mit persönlichen Daten arbeitet",
+                                      "Ist nicht wichtig",
+                                      "Weil Daten teuer sind"
+                                  ]
+                  },
+                  {
+                      "text":  "Künstliche Intelligenz hilft uns, große Datenmengen zu verstehen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Maschinelles Lernen ermöglicht Computern das eigenständige Lernen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sprachassistenten verstehen und antworten auf unsere Fragen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "KI wird in der Medizin zur Früherkennung von Krankheiten genutzt.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Selbstfahrende Autos nutzen KI, um Hindernisse zu erkennen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir sollten KI-Modelle kritisch hinterfragen und prüfen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ethik spielt eine große Rolle bei der Entwicklung von Intelligenz.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Trainingsdaten bilden die Basis für ein erfolgreiches Modell.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Chatbot kann einfache Kundenanfragen automatisch beantworten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Künstliche Intelligenz verändert unsere Welt in vielen Bereichen.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Künstliche Intelligenz"
+}

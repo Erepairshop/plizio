@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Fortgeschrittene Bildbearbeitung",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Ebene (Layer) in der Bildbearbeitung?",
+      "options": [
+        "Bildfarbe",
+        "Stufen ähnlich wie übereinandergelegte Klarsichtfolien",
+        "Bildgröße",
+        "Speichergeschwindigkeit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Programm eignet sich für fortgeschrittene Bildbearbeitung?",
+      "options": [
+        "GIMP / Photoshop",
+        "Notepad",
+        "Excel",
+        "Calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck der Auswahl?",
+      "options": [
+        "Bild löschen",
+        "Änderungen nur an einem bestimmten Teil des Bildes vornehmen",
+        "Bild drucken",
+        "Monitor ausschalten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht das Freistellungswerkzeug (Crop)?",
+      "options": [
+        "Ändert Farben",
+        "Entfernt unnötige Ränder des Bildes",
+        "Färbt den Hintergrund",
+        "Spiegelt das Bild"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Dateiformat unterstützt Transparenz?",
+      "options": [
+        "JPG",
+        "PNG",
+        "BMP",
+        "TXT"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Retuschieren?",
+      "options": [
+        "Bild löschen",
+        "Bildfehler beheben, störende Details entfernen",
+        "Neues Bild zeichnen",
+        "Bild per E-Mail senden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Pixel?",
+      "options": [
+        "Kleinster Bestandteil eines digitalen Bildes (Bildpunkt)",
+        "Ein Maustyp",
+        "Monitormarke",
+        "Eine Taste auf der Tastatur"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Auflösung?",
+      "options": [
+        "Anzahl der Bildfarben",
+        "Anzahl der Pixel pro Flächeneinheit (z.B. DPI)",
+        "Bilddateigröße",
+        "Bearbeitungszeit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Werkzeug dient zum Aufnehmen von Farben?",
+      "options": [
+        "Pinsel",
+        "Pipette (Eyedropper)",
+        "Radiergummi",
+        "Eimer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der Befehl Invertieren?",
+      "options": [
+        "Löscht das Bild",
+        "Kehrt Farben um (Negativ)",
+        "Verkleinert das Bild",
+        "Speichert das Bild"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist der Kopierstempel (Clone Stamp) gut?",
+      "options": [
+        "Bilder von einem Ordner in einen anderen kopieren",
+        "Einen Bildteil kopieren und an anderer Stelle malen",
+        "Bild speichern",
+        "Schriftgröße erhöhen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Unterschied zwischen Raster- und Vektorgrafiken?",
+      "options": [
+        "Kein Unterschied",
+        "Raster besteht aus Pixeln, Vektor aus mathematischen Formen",
+        "Raster ist nur Schwarz-Weiß",
+        "Vektor ist nur gut für Videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was steuert die Deckkraft (Opacity)?",
+      "options": [
+        "Bildschärfe",
+        "Undurchsichtigkeit der Ebene oder des Werkzeugs",
+        "Bildgröße",
+        "Anzahl der Farben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Filter macht das Bild unscharf?",
+      "options": [
+        "Scharfzeichnen",
+        "Gaußscher Weichzeichner",
+        "Rauschen hinzufügen",
+        "Farbsättigung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Histogramm in der Fotografie/Bearbeitung?",
+      "options": [
+        "Bildverlauf",
+        "Grafik, die die Helligkeitsverteilung zeigt",
+        "Bildautor",
+        "Kameratyp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist der Zauberstab (Magic Wand)?",
+      "options": [
+        "Zeichnen",
+        "Automatische Auswahl von Bereichen mit ähnlicher Farbe",
+        "Text schreiben",
+        "Bild speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Sättigung?",
+      "options": [
+        "Bildhelligkeit",
+        "Lebendigkeit der Farben",
+        "Bildgröße in Pixeln",
+        "Anzahl der Ebenen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Farbmodus ist für den Druck?",
+      "options": [
+        "RGB",
+        "CMYK",
+        "Graustufen",
+        "Indiziert"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Farbmodus ist für den Bildschirm?",
+      "options": [
+        "RGB",
+        "CMYK",
+        "Lab",
+        "Bitmap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht das Verlaufswerkzeug (Gradient)?",
+      "options": [
+        "Malt eine einzelne Farbe",
+        "Erzeugt einen kontinuierlichen Übergang zwischen Farben",
+        "Löscht die Ebene",
+        "Schneidet das Bild zu"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist eine Ebenenmaske (Layer Mask)?",
+      "options": [
+        "Dauerhaftes Löschen der Ebene",
+        "Ausblenden oder Einblenden bestimmter Teile der Ebene ohne Zerstörung",
+        "Einrahmen des Bildes",
+        "Passwortschutz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Tastenkombination ist normalerweise Rückgängig?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+Z",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet nicht-destruktive Bearbeitung?",
+      "options": [
+        "Dass das Gerät nicht kaputt geht",
+        "Originalbilddaten bleiben erhalten, und alles kann später geändert werden",
+        "Dass das Speichern sehr langsam ist",
+        "Dass wir nur Kopien machen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Werkzeug dient zur manuellen Freihandauswahl?",
+      "options": [
+        "Rechteckige Auswahl",
+        "Lasso-Werkzeug",
+        "Pinsel",
+        "Eimer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht die Abkürzung DPI?",
+      "options": [
+        "Digital Picture Interface",
+        "Dots Per Inch",
+        "Data Processing Information",
+        "Dual Pixel Image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Die Verwendung von Ebenen ist grundlegend für die professionelle Bildbearbeitung."
+    },
+    {
+      "type": "typing",
+      "text": "Das PNG-Format ist ideal für Bilder mit transparentem Hintergrund."
+    },
+    {
+      "type": "typing",
+      "text": "Die Auflösung bestimmt den Detailgrad eines Bildes."
+    },
+    {
+      "type": "typing",
+      "text": "Vektorgrafiken können ohne Qualitätsverlust vergrößert werden."
+    },
+    {
+      "type": "typing",
+      "text": "Mit Retusche können wir störende Hautunreinheiten beseitigen."
+    },
+    {
+      "type": "typing",
+      "text": "Mit Auswahlwerkzeugen können wir präzise am Bild arbeiten."
+    },
+    {
+      "type": "typing",
+      "text": "Der RGB-Farbmodus verwendet rote, grüne und blaue Farben."
+    },
+    {
+      "type": "typing",
+      "text": "CMYK-Farben werden in Druckereien verwendet."
+    },
+    {
+      "type": "typing",
+      "text": "Mit Filtern können wir Fotos besondere Effekte hinzufügen."
+    },
+    {
+      "type": "typing",
+      "text": "Nicht-destruktive Bearbeitung hilft, die Originalqualität zu erhalten."
+    }
+  ]
+}

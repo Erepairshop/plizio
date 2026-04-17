@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was macht ein Gerät \u0027smart\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Es ist bunt",
+                                      "Es ist mit dem Internet verbunden und oft steuerbar",
+                                      "Es ist sehr groß",
+                                      "Es braucht keinen Strom"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Nenne ein Smart-Gerät.",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Analoge Uhr",
+                                      "Smartphone",
+                                      "Normaler Hammer",
+                                      "Holztisch"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Smart Home\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Haus aus Plastik",
+                                      "Ein vernetztes Zuhause (z.B. Licht per App steuern)",
+                                      "Ein Haus im Wald",
+                                      "Ein großes Zelt"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Womit steuert man viele Smart-Geräte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mit einem Hammer",
+                                      "Mit einer App auf dem Smartphone",
+                                      "Mit den Augen",
+                                      "Gar nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Smartwatch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Taschenlampe",
+                                      "Eine intelligente Armbanduhr mit vielen Funktionen",
+                                      "Ein kleiner Fernseher",
+                                      "Ein Kompass"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Vorteil von smarter Beleuchtung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie ist schwerer",
+                                      "Man kann sie per Stimme steuern oder Zeitpläne erstellen",
+                                      "Sie braucht mehr Strom",
+                                      "Sie leuchtet gar nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein smartes Thermostat?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Gerät zum Fiebermessen",
+                                      "Ein Gerät zur intelligenten Steuerung der Heizung",
+                                      "Ein Teil des Autos",
+                                      "Ein Kühlschrank"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Sprachsteuerung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Laut schreien",
+                                      "Geräte mit Sprachbefehlen bedienen (z.B. \u0027Licht an\u0027)",
+                                      "Singen",
+                                      "Flüstern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum ist Sicherheit bei Smart-Geräten wichtig?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit sie nicht runterfallen",
+                                      "Damit Fremde keinen Zugriff auf das Hausnetz haben",
+                                      "Weil sie bunt sind",
+                                      "Ist egal"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein smartes Türschloss?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Schloss aus Glas",
+                                      "Ein Schloss, das man per Handy oder Code öffnet",
+                                      "Ein Schloss ohne Schlüssel",
+                                      "Ein kaputtes Schloss"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Synchronisation\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten löschen",
+                                      "Daten auf verschiedenen Geräten auf dem gleichen Stand halten",
+                                      "Singen im Chor",
+                                      "Schneller laufen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine IP-Kamera?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Kamera mit Film",
+                                      "Eine Überwachungskamera mit Internetanschluss",
+                                      "Eine Kamera für Fotos",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Bluetooth?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein blauer Zahn",
+                                      "Eine Funktechnik für kurze Entfernungen",
+                                      "Ein Internetkabel",
+                                      "Ein neuer Browser"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein smartes TV-Gerät?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein alter Fernseher",
+                                      "Ein Fernseher mit Internetzugang und Apps",
+                                      "Ein Radio",
+                                      "Ein Bildschirm"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das \u0027Internet der Dinge\u0027 (IoT)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur PCs",
+                                      "Die Vernetzung von Alltagsgegenständen mit dem Internet",
+                                      "Ein Online-Shop",
+                                      "Alte Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie spart ein Smart Home Energie?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Gar nicht",
+                                      "Durch automatisches Ausschalten von Licht und Heizung",
+                                      "Indem man den Stecker zieht",
+                                      "Durch lautes Rufen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine App-Benachrichtigung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Brief",
+                                      "Eine Nachricht vom Gerät aufs Handy",
+                                      "Ein Anruf",
+                                      "Ein Geräusch"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein smartes Armband (Fitness-Tracker)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Schmuck",
+                                      "Ein Gerät zum Messen von Schritten und Puls",
+                                      "Ein Verband",
+                                      "Eine Uhr"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Firmware-Update\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Gerät putzen",
+                                      "Die Software des Geräts aktualisieren",
+                                      "Das Gerät verkaufen",
+                                      "Neue Batterien"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Können Smart-Geräte gehackt werden?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein, nie",
+                                      "Ja, wenn sie nicht gut gesichert sind",
+                                      "Nur wenn sie aus Holz sind",
+                                      "Nur wenn sie aus sind"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür nutzt man einen smarten Lautsprecher?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur zum Musikhören",
+                                      "Als Zentrale für das Smart Home und Sprachassistenten",
+                                      "Zum Fernsehen",
+                                      "Als Hammer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Cloud beim Smart Home?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Regenwolke",
+                                      "Ein Server im Internet, der die Geräte verbindet",
+                                      "Ein Speicher im Keller",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist NFC?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein neuer Fußballclub",
+                                      "Nahfeldkommunikation (z.B. zum kontaktlosen Bezahlen)",
+                                      "Ein Internetkabel",
+                                      "Ein Videotyp"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man Passwörter für Smart-Geräte ändern?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Weil es Spaß macht",
+                                      "Um den Schutz vor Hackern zu erhöhen",
+                                      "Weil der PC sonst abstürzt",
+                                      "Muss man nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein smartes Haushaltsgerät?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Besen",
+                                      "Ein Kühlschrank, der den Bestand prüft",
+                                      "Ein normaler Löffel",
+                                      "Ein alter Herd"
+                                  ]
+                  },
+                  {
+                      "text":  "Smart-Geräte erleichtern unseren Alltag durch Vernetzung.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit dem Smartphone können wir die Heizung von unterwegs steuern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sicherheitspatches schützen unsere Geräte vor Angriffen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Smart Home kann dabei helfen, Energie zu sparen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sprachbefehle machen die Bedienung von Technik sehr komfortabel.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Fitness-Tracker motivieren uns zu mehr Bewegung im Alltag.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Vernetzte Rauchmelder senden im Notfall eine Nachricht aufs Handy.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir sollten beim Kauf auf den Datenschutz der Geräte achten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Bluetooth verbindet Kopfhörer ganz ohne störende Kabel.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Welt der Smart-Geräte wächst jeden Tag weiter.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Nutzung von Smart-Geräten"
+}

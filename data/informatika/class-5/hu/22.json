@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Netikett",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent a netikett?",
+      "options": [
+        "Internetes vásárlás",
+        "Az internetes viselkedés íratlan szabályai",
+        "Egy új típusú számítógép",
+        "Egy internetes játék"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e csupa nagybetűvel írni az interneten?",
+      "options": [
+        "Igen, mert jobban látszik",
+        "Nem, mert ez kiabálásnak számít",
+        "Csak ha nagyon örülünk",
+        "Csak hétfőn"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha nem értesz egyet valakivel egy fórumon?",
+      "options": [
+        "Csúnyán lehordod",
+        "Udvariasan leírod a véleményedet",
+        "Kirobbantasz egy veszekedést",
+        "Azonnal letiltod és szidod"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a troll?",
+      "options": [
+        "Egy kedves manó",
+        "Valaki, aki szándékosan bosszant másokat a neten",
+        "Egy profi játékos",
+        "A gép hűtője"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e engedély nélkül fotót posztolni másról?",
+      "options": [
+        "Igen, ha vicces",
+        "Nem, előbb engedélyt kell kérni tőle",
+        "Csak ha a barátunk",
+        "Csak ha nem látja"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Flame war'?",
+      "options": [
+        "Egy tüzes játék",
+        "Heves, bántó viták sorozata az interneten",
+        "Egy gyors internetkapcsolat",
+        "Egy új típusú tűzfal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a hangulatjel (emoji)?",
+      "options": [
+        "Helyettesíti a betűket",
+        "Segít kifejezni az érzelmeket és az üzenet hangvételét",
+        "Lassítja a gépelést",
+        "Díszítésre"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan köszönjünk egy hivatalos e-mailben?",
+      "options": [
+        "Szió!",
+        "Tisztelt Hölgyem/Uram!",
+        "Csá!",
+        "Hali!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor érdemes elküldeni egy dühös üzenetet?",
+      "options": [
+        "Azonnal, amíg idegesek vagyunk",
+        "Soha, érdemes megvárni, amíg megnyugszunk",
+        "Csak ha sokan látják",
+        "Éjfélkor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e mások magántitkait megosztani a neten?",
+      "options": [
+        "Igen, ha érdekes",
+        "Nem, ez tiszteletlen és tilos",
+        "Csak ha névtelenül tesszük",
+        "Csak ha ő is megosztotta az enyémet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a teendő, ha véletlenül megbántottál valakit online?",
+      "options": [
+        "Letagadod",
+        "Bocsánatot kérsz tőle",
+        "Még jobban bántod",
+        "Törlöd a profilodat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a helyesírás az üzenetekben?",
+      "options": [
+        "Mert a tanár látja",
+        "Segít a félreértések elkerülésében és tiszteletet mutat",
+        "Hogy hosszabb legyen az üzenet",
+        "Nem fontos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a lánclevél?",
+      "options": [
+        "Láncból készült levél",
+        "Levél, amit sok embernek tovább kell küldeni",
+        "Egy nagyon nehéz levél",
+        "Egy titkos kód"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne küldjünk lánclevelet?",
+      "options": [
+        "Mert nehéz gépelni",
+        "Mert zavaró, és feleslegesen terheli a hálózatot",
+        "Mert elfogy tőle az internet",
+        "Mert megeszi a gép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a legfontosabb szabály a neten?",
+      "options": [
+        "Légy a leggyorsabb",
+        "Bánj úgy másokkal, ahogy szeretnéd, hogy veled bánjanak",
+        "Nyerj meg minden játékot",
+        "Legyen sok követőd"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha cyberbullying-ot (internetes zaklatást) látsz?",
+      "options": [
+        "Csatlakozol a csúfolódáshoz",
+        "Nem szólsz bele",
+        "Szólsz egy felnőttnek vagy segítesz az áldozatnak",
+        "Lájkolod a bántó posztokat"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mire figyeljünk csoportos beszélgetésben?",
+      "options": [
+        "Csak magunkról beszéljünk",
+        "Ne térjünk el túlságosan a témától és maradjunk udvariasak",
+        "Mindenkinek írjunk privátban is",
+        "Küldjünk sok felesleges képet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e ismeretleneknek személyeskedő megjegyzéseket tenni?",
+      "options": [
+        "Igen, mert úgysem ismernek",
+        "Nem, az interneten is emberekkel beszélgetünk",
+        "Csak ha rossz napunk van",
+        "Csak ha ők kezdték"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Ghosting'?",
+      "options": [
+        "Szellemeket látni",
+        "Szó nélkül megszakítani a kapcsolatot valakivel az interneten",
+        "Gyorsan gépelni",
+        "Elrejteni a profilunkat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen a jó profilkép?",
+      "options": [
+        "Bármilyen vicces kép",
+        "Olyan, ami nem árul el túl sokat rólunk idegeneknek",
+        "Csak a lakásunkról készült kép",
+        "A kutyánk képe (ez a legbiztonságosabb)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a 'Tag' (megjelölés)?",
+      "options": [
+        "Egy ruhadarab",
+        "Megjelölni valakit egy képen vagy posztban",
+        "Törölni a képet",
+        "Kicsinyíteni a képet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mikor ne jelöljünk meg valakit egy képen?",
+      "options": [
+        "Ha jól néz ki rajta",
+        "Ha nem kértük ki előtte a véleményét vagy kellemetlen neki",
+        "Ha sokan látják",
+        "Mindig meg szabad jelölni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a teendő, ha túl sok értesítést kapsz?",
+      "options": [
+        "Kivágod a gépet",
+        "Állítasz az értesítések beállításain",
+        "Mindenkit letiltasz",
+        "Sírva fakadsz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Spamming' a beszélgetésben?",
+      "options": [
+        "Finom ételekről beszélni",
+        "Sok értelmetlen üzenet gyors egymásutánban történő küldése",
+        "Halkan beszélni",
+        "Csak képeket küldeni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne osszunk meg álhíreket?",
+      "options": [
+        "Mert unalmasak",
+        "Mert félretájékoztatunk vele másokat és rontjuk a hitelességünket",
+        "Mert elfogy a tárhely",
+        "Mert büntetést kapunk érte a Google-től"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "A netikett az internetes illemszabályok gyűjteménye."
+    },
+    {
+      "type": "typing",
+      "text": "Ne írj csupa nagybetűvel, mert az kiabálásnak számít!"
+    },
+    {
+      "type": "typing",
+      "text": "Bánj tisztelettel másokkal az interneten is!"
+    },
+    {
+      "type": "typing",
+      "text": "Kérj engedélyt, mielőtt bárkiről képet posztolnál!"
+    },
+    {
+      "type": "typing",
+      "text": "Az internet nem felejt, gondold át, mit írsz le!"
+    },
+    {
+      "type": "typing",
+      "text": "A hangulatjelek segítenek az érzelmek kifejezésében."
+    },
+    {
+      "type": "typing",
+      "text": "Ne küldj felesleges láncleveleket a barátaidnak!"
+    },
+    {
+      "type": "typing",
+      "text": "Az udvariasság az online világban is alapvető elvárás."
+    },
+    {
+      "type": "typing",
+      "text": "Ha bántanak a neten, kérj segítséget egy felnőttől!"
+    },
+    {
+      "type": "typing",
+      "text": "A digitális világban is legyél felelősségteljes!"
+    }
+  ]
+}

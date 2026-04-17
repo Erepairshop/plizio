@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Copyright on the Net",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does copyright mean?",
+      "options": [
+        "Only writers have rights",
+        "The creator's right to control their own work",
+        "That anyone can download anything for free",
+        "A type of software"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to present someone else's picture as your own?",
+      "options": [
+        "Yes, if you like it",
+        "No, this counts as stealing",
+        "Only if you change it a little",
+        "Only if there is no name on it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'attribution'?",
+      "options": [
+        "Marking the water's source",
+        "Stating where the information or image comes from",
+        "Setting the font size",
+        "The name of a new website"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which content is NOT under copyright protection?",
+      "options": [
+        "Movies",
+        "Music",
+        "A well-known mathematical formula",
+        "Computer games"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Creative Commons' license?",
+      "options": [
+        "That everything is forbidden",
+        "A flexible system that allows certain uses of works",
+        "A joint drawing program",
+        "A secret society"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to watch a paid movie on a free, illegal site?",
+      "options": [
+        "Yes, because they won't find out anyway",
+        "No, it violates copyrights",
+        "Only on weekends",
+        "Only if we have no money for the cinema"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is software piracy?",
+      "options": [
+        "Transporting software by ships",
+        "Illegal copying and distribution of software",
+        "Programming on the sea",
+        "A new type of game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Public Domain' mean?",
+      "options": [
+        "Only the government can use it",
+        "Copyright has expired, anyone can use it freely",
+        "The name of a public park",
+        "Forbidden for everyone"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you want to use an image for your presentation?",
+      "options": [
+        "Just copy it and that's it",
+        "Find the author and ask for permission, or look for free-to-use images",
+        "Color it in",
+        "Delete the name from it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a watermark?",
+      "options": [
+        "The monitor got wet",
+        "A transparent text or logo on the image against copying",
+        "A photo taken at the beach",
+        "A button in the browser"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "From which site can you legally download music?",
+      "options": [
+        "From a site full of suspicious ads",
+        "From official stores or streaming providers (e.g., Spotify)",
+        "Secretly from the neighbor's machine",
+        "From nowhere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'plagiarism'?",
+      "options": [
+        "A disease",
+        "Presenting others' work as your own",
+        "A type of plastic",
+        "A planet's name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to sell an image downloaded from the internet?",
+      "options": [
+        "Yes, if we downloaded it",
+        "No, unless we have special permission from the author",
+        "Only if we print it out",
+        "Only if nobody notices"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which symbol marks copyright?",
+      "options": [
+        "@",
+        "©",
+        "&",
+        "$"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Fair Use' mean?",
+      "options": [
+        "Everything is allowed",
+        "In certain cases (e.g., teaching, criticism) a small part can be used without permission",
+        "It means free games",
+        "A type of mouse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What can happen if we violate copyrights?",
+      "options": [
+        "Nothing",
+        "They can delete our post, our account, or even sue us",
+        "They turn off the internet in the city",
+        "The computer catches fire"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can we search for free-to-use images in Google?",
+      "options": [
+        "Type 'free'",
+        "Use the 'Usage Rights' filter in the Tools menu",
+        "All images are free",
+        "You cannot do that"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is attribution for in homework?",
+      "options": [
+        "To make the text longer",
+        "To show where we got the information and respect the author",
+        "So the teacher can read the original too",
+        "To fill the empty space"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who do we call the author?",
+      "options": [
+        "Who buys the book",
+        "Who created the original work",
+        "Who prints the picture",
+        "Who watches the movie"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How long does copyright protection usually last?",
+      "options": [
+        "One year",
+        "Many years after the author's death (e.g., 70 years)",
+        "Until it is deleted from the internet",
+        "Only one day"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to modify software without permission?",
+      "options": [
+        "Yes, if we know how",
+        "No, unless the license allows it (e.g., open source)",
+        "Only if they don't see it",
+        "Only at school"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Open Source'?",
+      "options": [
+        "Code that is visible and modifiable by everyone",
+        "A secret code",
+        "A broken program",
+        "Paid software"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Does copyright apply to your own photos?",
+      "options": [
+        "No, because I am not a pro",
+        "Yes, from the moment of creation, you hold the right",
+        "Only if I register it on the net",
+        "Only if many people like it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you want to put famous music under your video?",
+      "options": [
+        "Just put it under",
+        "Check the rights or look for royalty-free music",
+        "Play it slowly",
+        "Cut out the singing from it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is digital rights management (DRM)?",
+      "options": [
+        "A type of game",
+        "Technical protection against copying content",
+        "A new keyboard",
+        "Internet shopping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Copyright protects the original works of creators."
+    },
+    {
+      "type": "typing",
+      "text": "Always credit the source of information or images!"
+    },
+    {
+      "type": "typing",
+      "text": "Do not illegally download movies and games from the net!"
+    },
+    {
+      "type": "typing",
+      "text": "Plagiarism is presenting others' work as your own."
+    },
+    {
+      "type": "typing",
+      "text": "Use free-to-use images for your work!"
+    },
+    {
+      "type": "typing",
+      "text": "Creative Commons licenses help with sharing."
+    },
+    {
+      "type": "typing",
+      "text": "Respect others' intellectual property on the internet too!"
+    },
+    {
+      "type": "typing",
+      "text": "The symbol © refers to copyright protection."
+    },
+    {
+      "type": "typing",
+      "text": "Software piracy is an activity against the law."
+    },
+    {
+      "type": "typing",
+      "text": "A conscious internet user pays attention to regulations."
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Urheberrecht im Internet",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Urheberrecht?",
+      "options": [
+        "Nur Autoren haben Rechte",
+        "Recht des Schöpfers, über sein Werk zu bestimmen",
+        "Jeder darf alles gratis laden",
+        "Eine Softwareart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man ein fremdes Bild als eigenes ausgeben?",
+      "options": [
+        "Ja, wenn es gefällt",
+        "Nein, das gilt als Diebstahl",
+        "Nur wenn man es leicht ändert",
+        "Nur wenn kein Name draufsteht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Quellenangabe?",
+      "options": [
+        "Markierung einer Wasserquelle",
+        "Angabe, woher Info oder Bild stammen",
+        "Schriftgröße einstellen",
+        "Name einer neuen Webseite"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Inhalt steht NICHT unter Urheberrecht?",
+      "options": [
+        "Filme",
+        "Musik",
+        "Eine bekannte mathematische Formel",
+        "Computerspiele"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Creative Commons'-Lizenz?",
+      "options": [
+        "Alles ist verboten",
+        "Flexibles System, das bestimmte Nutzungen erlaubt",
+        "Gemeinsames Zeichenprogramm",
+        "Geheimbund"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Bezahlfilme auf illegalen Gratis-Seiten sehen?",
+      "options": [
+        "Ja, merkt eh keiner",
+        "Nein, das verletzt Urheberrechte",
+        "Nur am Wochenende",
+        "Nur wenn kein Geld für Kino da ist"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Softwarepiraterie?",
+      "options": [
+        "Software mit Schiffen transportieren",
+        "Illegales Kopieren und Verteilen von Software",
+        "Programmieren auf See",
+        "Eine neue Spielart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Public Domain' (Gemeinfrei)?",
+      "options": [
+        "Nur Regierung darf es nutzen",
+        "Urheberrecht abgelaufen, jeder darf es frei nutzen",
+        "Name eines Stadtparks",
+        "Für alle verboten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn du ein Bild für ein Referat nutzen willst?",
+      "options": [
+        "Einfach kopieren",
+        "Autor suchen und fragen oder freie Bilder suchen",
+        "Ausmalen",
+        "Namen weglöschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Wasserzeichen?",
+      "options": [
+        "Monitor nass geworden",
+        "Transparenter Text/Logo im Bild gegen Kopieren",
+        "Foto vom Strand",
+        "Button im Browser"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Von welcher Seite kann man Musik legal laden?",
+      "options": [
+        "Seite voller verdächtiger Werbung",
+        "Offizielle Stores oder Streaming-Dienste (z.B. Spotify)",
+        "Heimlich vom PC des Nachbarn",
+        "Nirgends"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Plagiat'?",
+      "options": [
+        "Eine Krankheit",
+        "Fremde Arbeit als eigene ausgeben",
+        "Eine Kunststoffart",
+        "Ein Planetenname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man ein Bild aus dem Netz verkaufen?",
+      "options": [
+        "Ja, wenn wir es geladen haben",
+        "Nein, außer bei spezieller Erlaubnis des Autors",
+        "Nur wenn wir es drucken",
+        "Nur wenn es keiner merkt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol kennzeichnet das Urheberrecht?",
+      "options": [
+        "@",
+        "©",
+        "&",
+        "$"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Fair Use' (Angemessene Verwendung)?",
+      "options": [
+        "Alles ist erlaubt",
+        "In bestimmten Fällen (z.B. Lehre, Kritik) darf ein kleiner Teil ohne Erlaubnis genutzt werden",
+        "Bedeutet Gratis-Spiele",
+        "Eine Mausart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann passieren, wenn wir Urheberrechte verletzen?",
+      "options": [
+        "Nichts",
+        "Post/Konto löschen oder sogar Klage",
+        "Internet in der Stadt wird abgeschaltet",
+        "PC fängt Feuer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie bei Google nach freien Bildern suchen?",
+      "options": [
+        "'gratis' eingeben",
+        "Filter 'Nutzungsrechte' im Menü Tools nutzen",
+        "Alle Bilder sind frei",
+        "Geht nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient die Quellenangabe in der Hausaufgabe?",
+      "options": [
+        "Text länger machen",
+        "Zeigen, woher Info ist, und Autor respektieren",
+        "Damit Lehrer das Original lesen kann",
+        "Leere Stelle füllen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wen nennen wir Autor?",
+      "options": [
+        "Wer das Buch kauft",
+        "Wer das Originalwerk erschaffen hat",
+        "Wer das Bild druckt",
+        "Wer den Film sieht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lange dauert der Urheberrechtsschutz meist?",
+      "options": [
+        "Ein Jahr",
+        "Viele Jahre nach dem Tod des Autors (z.B. 70 Jahre)",
+        "Bis es im Netz gelöscht wird",
+        "Nur einen Tag"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Software ohne Erlaubnis ändern?",
+      "options": [
+        "Ja, wenn man es kann",
+        "Nein, außer Lizenz erlaubt es (z.B. Open Source)",
+        "Nur wenn man es nicht sieht",
+        "Nur in der Schule"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Open Source' (Quelloffen)?",
+      "options": [
+        "Code, der für jeden sichtbar und änderbar ist",
+        "Ein Geheimcode",
+        "Ein kaputtes Programm",
+        "Bezahl-Software"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gilt Urheberrecht für deine eigenen Fotos?",
+      "options": [
+        "Nein, bin kein Profi",
+        "Ja, ab dem Moment der Aufnahme hast du das Recht",
+        "Nur bei Registrierung im Netz",
+        "Nur bei vielen Likes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn berühmte Musik unter ein Video soll?",
+      "options": [
+        "Einfach drunterschneiden",
+        "Rechte prüfen oder lizenzfreie Musik suchen",
+        "Langsam abspielen",
+        "Gesang rausschneiden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Digital Rights Management (DRM)?",
+      "options": [
+        "Eine Spielart",
+        "Technischer Schutz gegen Kopieren von Inhalten",
+        "Eine neue Tastatur",
+        "Internet-Shopping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Das Urheberrecht schützt die Originalwerke der Schöpfer."
+    },
+    {
+      "type": "typing",
+      "text": "Gib immer die Quelle von Informationen oder Bildern an!"
+    },
+    {
+      "type": "typing",
+      "text": "Lade keine Filme und Spiele illegal aus dem Netz herunter!"
+    },
+    {
+      "type": "typing",
+      "text": "Ein Plagiat ist das Ausgeben fremder Arbeit als die eigene."
+    },
+    {
+      "type": "typing",
+      "text": "Nutze für deine Arbeiten frei verwendbare Bilder!"
+    },
+    {
+      "type": "typing",
+      "text": "Creative-Commons-Lizenzen helfen beim Teilen."
+    },
+    {
+      "type": "typing",
+      "text": "Respektiere das geistige Eigentum anderer auch im Internet!"
+    },
+    {
+      "type": "typing",
+      "text": "Das Symbol © weist auf den Urheberrechtsschutz hin."
+    },
+    {
+      "type": "typing",
+      "text": "Softwarepiraterie ist eine gesetzwidrige Aktivität."
+    },
+    {
+      "type": "typing",
+      "text": "Ein bewusster Internetnutzer achtet auf die Bestimmungen."
+    }
+  ]
+}

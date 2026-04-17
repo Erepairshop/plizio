@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Operációs rendszerek",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az operációs rendszer fő feladata?",
+      "options": [
+        "Játékok",
+        "Hardver és szoftver kezelése",
+        "Fényképek nyomtatása",
+        "Kávéfőzés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik a híres PC operációs rendszer?",
+      "options": [
+        "Android",
+        "Windows",
+        "iOS",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik operációs rendszert gyártja az Apple Mac számítógépekhez?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "ChromeOS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a népszerű mobil operációs rendszer?",
+      "options": [
+        "Windows 95",
+        "Android",
+        "Microsoft Word",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az 'Asztali'?",
+      "options": [
+        "Fizikai íróasztal teteje",
+        "Az operációs rendszer fő képernyője",
+        "A monitor hátoldala",
+        "Egy nyomtatótípus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"Tálca\" a Windowsban?",
+      "options": [
+        "Fájlok tárolási helye",
+        "A megnyitott programokat és a Start menüt mutató sáv",
+        "Egy sáv a görgetéshez",
+        "Egy billentyűzetrész"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a \"Start menü\"?",
+      "options": [
+        "A számítógép leállítása",
+        "A programok és beállítások elérése",
+        "Betű beírása",
+        "Rajz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"háttérkép\"?",
+      "options": [
+        "Az asztal dekorációs képe a számítógép képernyőjén",
+        "Fizikai papír a falon",
+        "Egyfajta képernyővédő fólia",
+        "Számítógépes hiba"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az „Újraindítás”?",
+      "options": [
+        "Új csizma vásárlása",
+        "A számítógép újraindítása",
+        "Örökre kikapcsolva",
+        "A billentyűzet tisztítása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „multitasking”?",
+      "options": [
+        "Egyszerre egy program használata",
+        "Több program egyidejű futtatása",
+        "Több egér használata",
+        "A számítógép használata sötétben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik ingyenes és nyílt forráskódú operációs rendszer?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Felhasználói fiók”?",
+      "options": [
+        "Bankszámla",
+        "Személyes tér a felhasználó számára a számítógépen",
+        "Egy típusú monitor",
+        "Számítógépes bolt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"Bejelentkezés\"?",
+      "options": [
+        "Favágás",
+        "Felhasználónév és jelszó megadása a számítógép használatához",
+        "A monitor kikapcsolása",
+        "Fájl nyomtatása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hová kerülnek először a törölt fájlok a Windows rendszerben?",
+      "options": [
+        "Internet",
+        "Lomtár",
+        "RAM",
+        "Saját dokumentumaim"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a „Vezérlőpult” vagy a „Beállítások”?",
+      "options": [
+        "Zene lejátszása",
+        "A számítógép konfigurációjának módosítása",
+        "Képek rajzolása",
+        "Hírek böngészése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az „illesztőprogram” az informatikában?",
+      "options": [
+        "Személygépkocsit vezető személy",
+        "Szoftver, amely megmondja az operációs rendszernek a hardver használatát",
+        "Egy típusú monitor",
+        "Egy billentyűzet billentyű"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik operációs rendszert használják gyakran az iPhone-okon?",
+      "options": [
+        "Android",
+        "iOS",
+        "Windows",
+        "Linux"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a „Fájlböngésző”?",
+      "options": [
+        "Böngészés az interneten",
+        "Fájlok és mappák kezelése",
+        "Fényképek szerkesztése",
+        "Játékok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Kikapcsolás”?",
+      "options": [
+        "Könyv bezárása",
+        "A számítógép megfelelő kikapcsolása",
+        "Csak a képernyő kikapcsolása",
+        "Az áramellátás kihúzása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik alvó üzemmódban?",
+      "options": [
+        "A számítógép teljesen kikapcsol",
+        "A számítógép alacsony fogyasztású, és készen áll",
+        "A számítógép zenét játszik le",
+        "A számítógép törli a fájlokat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"parancsikon\"?",
+      "options": [
+        "Egy rövidebb kábel",
+        "Egy fájlra vagy programra mutató ikon",
+        "Egy kis billentyűzet",
+        "Egy gyors egér"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az \"ablak\" egy operációs rendszerben?",
+      "options": [
+        "Egy pohár a szobában",
+        "Egy téglalap alakú terület, amely egy programot mutat",
+        "Egy képernyőtípus",
+        "Számítógépes hiba"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „GUI”?",
+      "options": [
+        "Grafikus felhasználói felület",
+        "Általános egységbevitel",
+        "Nagy felhasználói ikon",
+        "Nagy hasznossági index"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik NEM operációs rendszer?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Google Keresés",
+        "macOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"Kernel\"?",
+      "options": [
+        "A pattogatott kukorica egyik fajtája",
+        "Az operációs rendszer központi része",
+        "Egy számítógépház",
+        "Egy típusú monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Az operációs rendszer az egész számítógépet kezeli."
+    },
+    {
+      "type": "typing",
+      "text": "A Windows nagyon népszerű operációs rendszer."
+    },
+    {
+      "type": "typing",
+      "text": "Az Android és az iOS mobileszközökön használatos."
+    },
+    {
+      "type": "typing",
+      "text": "Az asztal a fő munkaterület a képernyőn."
+    },
+    {
+      "type": "typing",
+      "text": "A megnyitott programok közötti váltáshoz használja a tálcát."
+    },
+    {
+      "type": "typing",
+      "text": "A Lomtár ideiglenesen tárolja a törölt fájlokat."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig megfelelően kapcsolja ki a számítógépet."
+    },
+    {
+      "type": "typing",
+      "text": "Egy felhasználói fiók megőrzi a fájlok titkosságát."
+    },
+    {
+      "type": "typing",
+      "text": "A beállítások lehetővé teszik a háttérkép megváltoztatását."
+    },
+    {
+      "type": "typing",
+      "text": "A Linux egy ingyenes és nyílt forráskódú rendszer."
+    }
+  ]
+}

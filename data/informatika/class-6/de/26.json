@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Medienkompetenz und Fake News",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Medienkompetenz?",
+      "options": [
+        "Einen PC einschalten können",
+        "Die Fähigkeit, Medien kritisch und sicher zu nutzen",
+        "Nur Fernsehen schauen",
+        "Ganz viel am Handy sein"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Fake News'?",
+      "options": [
+        "Wahre Nachrichten",
+        "Gezielt verbreitete Falschinformationen",
+        "Lustige Witze",
+        "Wetterberichte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum werden Fake News verbreitet?",
+      "options": [
+        "Zur Unterhaltung",
+        "Manipulation, Geldverdienen oder Stimmungsmache",
+        "Nur aus Versehen",
+        "Wegen technischer Fehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Impressum'?",
+      "options": [
+        "Ein Stempel",
+        "Gesetzlich vorgeschriebene Info über den Betreiber einer Webseite",
+        "Ein Passwort",
+        "Ein Bildname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Woran erkennt man eine seriöse Nachrichtenseite oft?",
+      "options": [
+        "Ganz viel Werbung",
+        "Vorhandenes Impressum und sachlicher Stil",
+        "Reißerische Überschriften",
+        "Kein Datum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Faktencheck'?",
+      "options": [
+        "Prüfung einer Behauptung auf ihren Wahrheitsgehalt",
+        "Ein schnelles Spiel",
+        "Datenlöschung",
+        "Ein Hardwaretest"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Filterblase'?",
+      "options": [
+        "Ein Spielzeug",
+        "Algorithmen zeigen einem nur noch Dinge, die die eigene Meinung bestätigen",
+        "Ein sauberer PC",
+        "Eine schnelle Internetverbindung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Echokammer'?",
+      "options": [
+        "Ein Raum mit Echo",
+        "Räume im Netz, in denen man nur die eigene Meinung hört",
+        "Ein Tonstudio",
+        "Ein Hardware-Teil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Clickbait'?",
+      "options": [
+        "Angeln im Internet",
+        "Überschriften, die nur zum Klicken verleiten sollen (oft übertrieben)",
+        "Ein neuer Browser",
+        "Ein Virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Social Bot'?",
+      "options": [
+        "Ein netter Mensch",
+        "Ein Programm, das vorgibt, ein Mensch zu sein und Meinungen beeinflusst",
+        "Ein Roboter im Haus",
+        "Eine Spiele-App"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man eine schockierende Nachricht sofort teilen?",
+      "options": [
+        "Ja, schnell alle informieren",
+        "Nein, erst die Quelle prüfen und einen Faktencheck machen",
+        "Nur wenn sie viele Likes hat",
+        "Nur wenn Freunde es auch tun"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Manipulation'?",
+      "options": [
+        "Handarbeit",
+        "Gezielte Beeinflussung von Menschen",
+        "Datenrettung",
+        "Bildschirmreinigung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Deepfake'?",
+      "options": [
+        "Eine tiefe Grube",
+        "Täuschend echt wirkende, manipulierte Bilder oder Videos (KI-erzeugt)",
+        "Ein schnelles Spiel",
+        "Ein Cloud-Speicher"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man meistens vertrauenswürdige Infos?",
+      "options": [
+        "Nur auf TikTok",
+        "Bei öffentlich-rechtlichen Medien oder bekannten Zeitungen",
+        "In WhatsApp-Kettenbriefen",
+        "In YouTube-Kommentaren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Quellenkritik'?",
+      "options": [
+        "Eine Quelle ausschalten",
+        "Hinterfragen, wer eine Info warum verbreitet",
+        "Nachrichten löschen",
+        "Den Fernseher kritisieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind 'Likes' kein Beweis für Wahrheit?",
+      "options": [
+        "Likes kann man kaufen oder durch Bots erzeugen",
+        "Wahrheit braucht keine Likes",
+        "Jeder mag etwas anderes",
+        "Likes sind immer wahr"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Zensur'?",
+      "options": [
+        "Noten vergeben",
+        "Unterdrückung von Informationen durch staatliche Stellen",
+        "Ein Passwort",
+        "Ein Schreibfehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Propaganda'?",
+      "options": [
+        "Werbung für Produkte",
+        "Systematische Verbreitung politischer Ideen zur Beeinflussung",
+        "Ein neues Buch",
+        "Ein Computerprogramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Kettenbrief'?",
+      "options": [
+        "Ein Brief aus Metall",
+        "Nachricht, die dazu auffordert, sie an viele weiterzuleiten",
+        "Ein sicheres Passwort",
+        "Ein Hardware-Defekt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie prüft man ein Bild auf Echtheit?",
+      "options": [
+        "Anschauen",
+        "Rückwärts-Bildersuche (z.B. Google Bilder)",
+        "Drucken",
+        "Löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Hate Speech'?",
+      "options": [
+        "Hassrede im Internet",
+        "Ein lautes Programm",
+        "Eine schnelle Nachricht",
+        "Ein Bildfehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Netiquette'?",
+      "options": [
+        "Regeln für höfliches Benehmen im Internet",
+        "Ein Internet-Tarif",
+        "Ein Browser-Name",
+        "Ein Antivirus-Programm"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist kritisches Denken wichtig?",
+      "options": [
+        "Um nicht auf Lügen reinzufallen",
+        "Um alles schlecht zu finden",
+        "Um schneller zu tippen",
+        "Um Strom zu sparen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Satire'?",
+      "options": [
+        "Eine Lüge",
+        "Künstlerische Form, die Dinge übertreibt, um sie zu kritisieren",
+        "Ein ernsthafter Bericht",
+        "Eine Bauanleitung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man alles im Internet glauben?",
+      "options": [
+        "Ja, steht ja da",
+        "Nein, man sollte immer skeptisch sein und prüfen",
+        "Nur was Lehrer sagen",
+        "Nur was auf Wikipedia steht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Medienkompetenz"
+    },
+    {
+      "type": "typing",
+      "text": "Fake News"
+    },
+    {
+      "type": "typing",
+      "text": "Impressum"
+    },
+    {
+      "type": "typing",
+      "text": "Clickbait"
+    },
+    {
+      "type": "typing",
+      "text": "Faktencheck"
+    },
+    {
+      "type": "typing",
+      "text": "Manipulation"
+    },
+    {
+      "type": "typing",
+      "text": "Deepfake"
+    },
+    {
+      "type": "typing",
+      "text": "Filterblase"
+    },
+    {
+      "type": "typing",
+      "text": "Hate Speech"
+    },
+    {
+      "type": "typing",
+      "text": "Netiquette"
+    }
+  ]
+}

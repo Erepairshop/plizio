@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Netichetă",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă netichetă?",
+      "options": [
+        "Cumpărături pe internet",
+        "Regulile nescrise de comportament pe internet",
+        "Un tip nou de calculator",
+        "Un joc pe internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să scrii cu litere mari pe internet?",
+      "options": [
+        "Da, pentru că se vede mai bine",
+        "Nu, deoarece acest lucru este considerat țipat",
+        "Doar dacă suntem foarte bucuroși",
+        "Doar lunea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă nu ești de acord cu cineva pe un forum?",
+      "options": [
+        "Îl jignești",
+        "Îți scrii părerea politicos",
+        "Provoci o ceartă",
+        "Îl blochezi imediat și îl vorbești de rău"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un troll?",
+      "options": [
+        "Un spiriduș drăguț",
+        "Cineva care enervează intenționat pe alții pe net",
+        "Un jucător profesionist",
+        "Răcitorul calculatorului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să postezi o fotografie cu altcineva fără permisiune?",
+      "options": [
+        "Da, dacă e amuzantă",
+        "Nu, mai întâi trebuie să îi ceri permisiunea",
+        "Doar dacă e prietenul nostru",
+        "Doar dacă nu vede"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Flame war' (război de cuvinte)?",
+      "options": [
+        "Un joc cu foc",
+        "O serie de certuri aprinse și jignitoare pe internet",
+        "O conexiune rapidă la internet",
+        "Un tip nou de firewall"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește un emoji (emoticon)?",
+      "options": [
+        "Înlocuiește literele",
+        "Ajută la exprimarea emoțiilor și a tonului mesajului",
+        "Încetinește tastarea",
+        "Pentru decorare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum să salutăm într-un e-mail oficial?",
+      "options": [
+        "Bună!",
+        "Stimată Doamnă/Stimate Domnule,",
+        "Salut!",
+        "Hei!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Când merită trimis un mesaj plin de furie?",
+      "options": [
+        "Imediat, cât timp suntem nervoși",
+        "Niciodată, merită să așteptăm până ne calmăm",
+        "Doar dacă îl văd mulți oameni",
+        "La miezul nopții"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să împărtășești secretele private ale altora pe net?",
+      "options": [
+        "Da, dacă e interesant",
+        "Nu, este lipsit de respect și interzis",
+        "Doar dacă o facem anonim",
+        "Doar dacă și el a împărtășit secretele mele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă ai rănit pe cineva online din greșeală?",
+      "options": [
+        "Negi",
+        "Îți ceri scuze",
+        "Îl rănești și mai tare",
+        "Îți ștergi profilul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este importantă ortografia în mesaje?",
+      "options": [
+        "Pentru că vede profesorul",
+        "Ajută la evitarea neînțelegerilor și arată respect",
+        "Pentru a face mesajul mai lung",
+        "Nu este importantă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă un mesaj în lanț (chain letter)?",
+      "options": [
+        "Un mesaj făcut din lanțuri",
+        "Un mesaj care trebuie trimis mai multor persoane",
+        "Un mesaj foarte greu",
+        "Un cod secret"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce să nu trimitem mesaje în lanț?",
+      "options": [
+        "Pentru că sunt greu de tastat",
+        "Deoarece sunt deranjante și încarcă inutil rețeaua",
+        "Deoarece se termină internetul",
+        "Deoarece calculatorul îl mănâncă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cea mai importantă regulă pe net?",
+      "options": [
+        "Fii cel mai rapid",
+        "Poartă-te cu ceilalți așa cum ai vrea să se poarte ei cu tine",
+        "Câștigă fiecare joc",
+        "Să ai mulți urmăritori"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă vezi hărțuire cibernetică?",
+      "options": [
+        "Te alături batjocurii",
+        "Nu spui nimic",
+        "Spui unui adult sau ajuți victima",
+        "Dai like la postările jignitoare"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "La ce să fim atenți într-o conversație de grup?",
+      "options": [
+        "Să vorbim doar despre noi",
+        "Să nu ne abatem prea mult de la subiect și să rămânem politicoși",
+        "Să scriem tuturor și în privat",
+        "Să trimitem multe imagini inutile"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să faci remarci personale străinilor?",
+      "options": [
+        "Da, pentru că oricum nu te cunosc",
+        "Nu, pe internet vorbești tot cu oameni",
+        "Doar dacă ai o zi proastă",
+        "Doar dacă ei au început"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Ghosting'?",
+      "options": [
+        "Să vezi fantome",
+        "Să întrerupi contactul cu cineva pe internet fără niciun cuvânt",
+        "Tastare rapidă",
+        "Să ne ascundem profilul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum este o poză de profil bună?",
+      "options": [
+        "Orice poză amuzantă",
+        "Una care nu dezvăluie prea multe despre noi străinilor",
+        "Doar o poză cu casa noastră",
+        "Poza câinelui nostru (aceasta e cea mai sigură)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește un 'Tag' (etichetă/menționare)?",
+      "options": [
+        "O piesă de îmbrăcăminte",
+        "Marcarea cuiva într-o imagine sau postare",
+        "Ștergerea imaginii",
+        "Micșorarea imaginii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Când să nu etichetezi pe cineva într-o poză?",
+      "options": [
+        "Dacă arată bine în ea",
+        "Dacă nu i-ai cerut părerea înainte sau este neplăcut pentru el",
+        "Dacă o văd mulți oameni",
+        "Întotdeauna este voie să etichetezi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă primești prea multe notificări?",
+      "options": [
+        "Arunci calculatorul",
+        "Modifici setările de notificări",
+        "Blochezi pe toată lumea",
+        "Începi să plângi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Spamming' într-o conversație?",
+      "options": [
+        "Să vorbești despre mâncare",
+        "Trimiterea multor mesaje fără sens rapid unul după altul",
+        "Să vorbești încet",
+        "Să trimiți doar imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce să nu distribuim știri false?",
+      "options": [
+        "Pentru că sunt plictisitoare",
+        "Deoarece îi dezinformăm pe alții și ne stricăm credibilitatea",
+        "Deoarece se termină spațiul de stocare",
+        "Deoarece primim o penalizare de la Google"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Neticheta este colecția de reguli de politețe pe internet."
+    },
+    {
+      "type": "typing",
+      "text": "Nu scrie cu litere mari, deoarece acest lucru contează ca țipat!"
+    },
+    {
+      "type": "typing",
+      "text": "Poartă-te cu respect cu ceilalți și pe internet!"
+    },
+    {
+      "type": "typing",
+      "text": "Cere permisiunea înainte de a posta o poză cu cineva!"
+    },
+    {
+      "type": "typing",
+      "text": "Internetul nu uită, gândește-te bine la ce scrii!"
+    },
+    {
+      "type": "typing",
+      "text": "Emoji-urile ajută la exprimarea emoțiilor."
+    },
+    {
+      "type": "typing",
+      "text": "Nu trimite mesaje în lanț inutile prietenilor tăi!"
+    },
+    {
+      "type": "typing",
+      "text": "Politețea este o așteptare de bază și în lumea online."
+    },
+    {
+      "type": "typing",
+      "text": "Dacă ești hărțuit pe net, cere ajutorul unui adult!"
+    },
+    {
+      "type": "typing",
+      "text": "Fii responsabil și în lumea digitală!"
+    }
+  ]
+}

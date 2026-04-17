@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Roboter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Mensch aus Metall",
+                                      "Eine programmierbare Maschine, die Aufgaben ausführt",
+                                      "Ein kaputtes Auto",
+                                      "Ein Computerbildschirm"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was sind Sensoren bei einem Roboter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Muskeln",
+                                      "Die Sinnesorgane (z.B. für Licht, Abstand)",
+                                      "Das Gehirn",
+                                      "Die Räder"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was sind Aktoren?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Augen",
+                                      "Teile, die Bewegung erzeugen (z.B. Motoren)",
+                                      "Die Batterien",
+                                      "Die Sensoren"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das \u0027Gehirn\u0027 eines Roboters?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Akku",
+                                      "Ein Mikrocontroller oder Computer",
+                                      "Ein Motor",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo werden Roboter oft in der Industrie eingesetzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Im Bett",
+                                      "In Fabriken (z.B. Autobau)",
+                                      "Im Wald",
+                                      "Gar nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht ein Ultraschallsensor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Bilder malen",
+                                      "Entfernungen zu Hindernissen messen",
+                                      "Musik abspielen",
+                                      "Temperatur messen"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welcher Roboter hilft im Haushalt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Staubsauger-Roboter",
+                                      "Fernseh-Roboter",
+                                      "Kühlschrank-Roboter",
+                                      "Schrank-Roboter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum nutzt man Roboter für gefährliche Aufgaben?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Weil sie billig sind",
+                                      "Um Menschen nicht in Gefahr zu bringen",
+                                      "Weil sie Spaß haben",
+                                      "Weil sie fliegen können"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein autonomer Roboter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein ferngesteuerter Roboter",
+                                      "Ein Roboter, der ohne menschliche Hilfe entscheidet",
+                                      "Ein kaputter Roboter",
+                                      "Ein Roboter aus Holz"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Greifarm?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bein",
+                                      "Ein Werkzeug zum Festhalten und Bewegen von Objekten",
+                                      "Ein Sensor",
+                                      "Ein Rad"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Energiequelle nutzen die meisten mobilen Roboter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Benzin",
+                                      "Akkus / Batterien",
+                                      "Holz",
+                                      "Wind"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Robotik\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Film",
+                                      "Die Wissenschaft, die sich mit Robotern beschäftigt",
+                                      "Ein Spielzeug",
+                                      "Ein Bauteil"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Sensor hilft einem Roboter, einer Linie zu folgen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Temperatursensor",
+                                      "Lichtsensor / Farbsensor",
+                                      "Mikrofon",
+                                      "Drucksensor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Können Roboter auch im Weltraum arbeiten?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein",
+                                      "Ja, z.B. Mars-Rover",
+                                      "Nur auf dem Mond",
+                                      "Nur im Film"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Drohne?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kriechender Roboter",
+                                      "Ein fliegender Roboter",
+                                      "Ein U-Boot",
+                                      "Ein Toaster"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht ein Berührungssensor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Farben sehen",
+                                      "Registrieren, wenn der Roboter irgendwo anstößt",
+                                      "Töne hören",
+                                      "Entfernung messen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet Programmierung bei Robotern?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Den Roboter anstreichen",
+                                      "Dem Roboter Befehle geben, was er tun soll",
+                                      "Den Roboter putzen",
+                                      "Batterien laden"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein humanoider Roboter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Roboter in Tierform",
+                                      "Ein Roboter, der wie ein Mensch aussieht",
+                                      "Ein fliegender Roboter",
+                                      "Ein kleiner Chip"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welchen Vorteil haben Roboter gegenüber Menschen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie können weinen",
+                                      "Sie werden nicht müde und arbeiten sehr präzise",
+                                      "Sie sind schlauer",
+                                      "Sie essen gerne"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür nutzt man Roboter in der Medizin?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Putzen",
+                                      "Für präzise Operationen",
+                                      "Zum Fernsehen",
+                                      "Zum Schlafen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Schrittmotor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Motor für Treppen",
+                                      "Ein Motor, der sich in exakten kleinen Winkeln drehen kann",
+                                      "Ein sehr schneller Motor",
+                                      "Ein kaputter Motor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum brauchen Roboter Software?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit sie schöner sind",
+                                      "Damit sie wissen, wie sie auf Sensordaten reagieren sollen",
+                                      "Gar nicht",
+                                      "Um Bilder zu malen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist künstliche Intelligenz bei Robotern?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein neuer Akku",
+                                      "Die Fähigkeit, aus Erfahrungen zu lernen",
+                                      "Ein bunter Anstrich",
+                                      "Eine laute Stimme"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Tele-Roboter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Roboter zum Fernsehen",
+                                      "Ein Roboter, der aus der Ferne gesteuert wird",
+                                      "Ein Telefon-Roboter",
+                                      "Ein alter Roboter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Gyrosensor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Sensor für Essen",
+                                      "Ein Sensor zur Messung der Drehung und Lage",
+                                      "Ein Lichtsensor",
+                                      "Ein Tastsensor"
+                                  ]
+                  },
+                  {
+                      "text":  "Ein Roboter führt programmierte Befehle automatisch aus.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sensoren liefern dem Roboter Informationen über seine Umwelt.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Motoren ermöglichen es dem Roboter, sich zu bewegen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In der Industrie übernehmen Roboter oft schwere Arbeiten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Mars-Rover erkundet ferne Planeten ganz alleine.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Haushaltsroboter sparen uns wertvolle Zeit im Alltag.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Programmierung ist das Herzstück jeder robotischen Anlage.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sicherheit ist beim Einsatz von Robotern sehr wichtig.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Humanoide Roboter ähneln in ihrem Aufbau dem Menschen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Robotik kombiniert Informatik, Elektrotechnik und Mechanik.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Robotik Grundlagen"
+}

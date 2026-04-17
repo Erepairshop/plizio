@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Servicii în cloud",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă serviciu cloud?",
+      "options": [
+        "Stocarea datelor în cer",
+        "Date și software stocate pe servere la distanță accesibile prin internet",
+        "Rețea care funcționează doar pe vreme rea",
+        "Hard disk-ul propriului computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este o stocare în cloud?",
+      "options": [
+        "Google Drive",
+        "Monitor",
+        "Tastatură",
+        "Mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cel mai mare avantaj al cloud-ului?",
+      "options": [
+        "Accesibil de oriunde cu internet",
+        "Nu e nevoie de computer",
+        "Totul este gratuit",
+        "Mai rapid decât lumina"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care companie deține OneDrive?",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Facebook"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este iCloud?",
+      "options": [
+        "Serviciul cloud al Apple",
+        "Un tip de ochelari",
+        "Player muzical",
+        "Cameră"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care NU este un serviciu cloud?",
+      "options": [
+        "Dropbox",
+        "Google Photos",
+        "Calculator (Windows offline)",
+        "OneDrive"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă sincronizarea?",
+      "options": [
+        "Ștergerea datelor",
+        "Datele se potrivesc în cloud și pe dispozitivul local",
+        "Oprirea computerului",
+        "Salvarea ecranului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne putem accesa fișierele din cloud?",
+      "options": [
+        "Doar cu un cablu",
+        "Prin autentificare (utilizator și parolă)",
+        "Doar de acasă",
+        "Nu le putem accesa"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce este bun Google Docs?",
+      "options": [
+        "Doar vizualizarea imaginilor",
+        "Procesare de text în cloud",
+        "Gaming",
+        "Editare de filme"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă dacă pierdem telefonul dar datele sunt în cloud?",
+      "options": [
+        "Toate datele sunt pierdute",
+        "Datele rămân și sunt accesibile de pe alt aparat",
+        "Cloud-ul dispare de asemenea",
+        "Telefonul se întoarce singur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A cărei suite de software este versiunea cloud Office 365?",
+      "options": [
+        "Microsoft Office",
+        "Adobe Creative Cloud",
+        "Google Workspace",
+        "LibreOffice"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă limita de stocare?",
+      "options": [
+        "Cât timp putem petrece pe internet",
+        "Câtă informație putem stoca în cloud",
+        "Cât de greu e computerul",
+        "Cât de rapid e CPU"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pot fi partajate fișierele cu alții în cloud?",
+      "options": [
+        "Nu, este interzis",
+        "Da, cu un link sau adresă de e-mail",
+        "Doar dacă folosesc același aparat",
+        "Doar pe un stick"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care serviciu cloud se concentrează pe fotografii?",
+      "options": [
+        "Google Photos",
+        "Excel",
+        "Notepad",
+        "VLC Player"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este SaaS?",
+      "options": [
+        "Software as a Service",
+        "System and Application",
+        "Super Apple System",
+        "Simple Auto Service"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un dezavantaj al cloud-ului?",
+      "options": [
+        "Prea colorat",
+        "Datele nu sunt accesibile fără internet",
+        "Ocupă prea mult loc în casă",
+        "Greu de ridicat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Este cloud-ul sigur?",
+      "options": [
+        "Deloc",
+        "În general da, dacă se folosesc parole puternice și 2FA",
+        "Doar dacă oprești monitorul",
+        "Doar în timpul zilei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă autentificarea cu doi factori (2FA)?",
+      "options": [
+        "Două parole necesare",
+        "Parolă plus un cod (de ex. prin SMS sau aplicație)",
+        "Două persoane necesare pentru autentificare",
+        "Trebuie apăsat Enter de două ori"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care serviciu cloud ajută la luarea notițelor?",
+      "options": [
+        "Google Keep / OneNote",
+        "Calculator",
+        "Solitaire",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o copie de rezervă (backup) în cloud?",
+      "options": [
+        "Acoperirea computerului",
+        "Copie a datelor importante în cloud pentru securitate",
+        "Antivirus",
+        "Cumpărarea de software nou"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De care browser este legat strâns Google Drive?",
+      "options": [
+        "Safari",
+        "Chrome",
+        "Firefox",
+        "Edge"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Poate fi un document editat în comun în cloud?",
+      "options": [
+        "Nu, doar o persoană poate scrie o dată",
+        "Da, chiar mai multe persoane deodată",
+        "Doar dacă stau unul lângă altul",
+        "Doar dacă este trimis prin e-mail"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce se referă numele 'Cloud'?",
+      "options": [
+        "Că datele zboară prin aer",
+        "Simbol abstract pentru internet",
+        "Că aduce ploaie",
+        "Că fișierele sunt doar albe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este o limită de stocare cloud gratuită (de obicei)?",
+      "options": [
+        "1 TB",
+        "15 GB (Google)",
+        "1 MB",
+        "Fără limită"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă partajarea fișierelor?",
+      "options": [
+        "Tăierea fișierelor în două",
+        "Oferirea accesului altora la fișierele noastre",
+        "Ștergerea fișierelor",
+        "Criptarea fișierelor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Serviciile cloud permit stocarea convenabilă a datelor."
+    },
+    {
+      "type": "typing",
+      "text": "Google Drive și OneDrive sunt stocări cloud populare."
+    },
+    {
+      "type": "typing",
+      "text": "Sincronizarea ajută la păstrarea acelorași fișiere pe toate dispozitivele."
+    },
+    {
+      "type": "typing",
+      "text": "Documentele stocate în cloud pot fi editate de oriunde."
+    },
+    {
+      "type": "typing",
+      "text": "Folosiți întotdeauna o parolă puternică pentru contul cloud."
+    },
+    {
+      "type": "typing",
+      "text": "Autentificarea cu doi factori crește semnificativ securitatea."
+    },
+    {
+      "type": "typing",
+      "text": "Partajarea link-urilor ușurează trimiterea fișierelor mari."
+    },
+    {
+      "type": "typing",
+      "text": "Cloud-ul oferă o copie de rezervă dacă se strică computerul."
+    },
+    {
+      "type": "typing",
+      "text": "Programele de birou online nu necesită instalare."
+    },
+    {
+      "type": "typing",
+      "text": "Serviciile cloud necesită o conexiune stabilă la internet."
+    }
+  ]
+}

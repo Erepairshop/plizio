@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Webbrowser?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Suchprogramm",
+                                      "Ein Programm zum Anzeigen von Webseiten",
+                                      "Ein Computer",
+                                      "Ein Virus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Nenne ein Beispiel für einen Webbrowser.",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Word",
+                                      "Google Chrome",
+                                      "Excel",
+                                      "Paint"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Suchmaschine?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Browser",
+                                      "Eine Webseite zum Finden von Informationen (z.B. Google)",
+                                      "Ein Computerteil",
+                                      "Ein Speicher"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man die Startseite einer Webseite?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Endpage",
+                                      "Homepage",
+                                      "Firstpage",
+                                      "Cover"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo gibt man eine Internetadresse ein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In das Suchfeld",
+                                      "In die Adressleiste",
+                                      "In den Texteditor",
+                                      "Im Startmenü"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Tab\u0027 im Browser?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Taste",
+                                      "Ein Reiter für eine weitere geöffnete Webseite",
+                                      "Ein Passwort",
+                                      "Ein Bild"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was sind \u0027Lesezeichen\u0027 (Favoriten)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Echte Buchzeichen",
+                                      "Gespeicherte Links zu oft besuchten Seiten",
+                                      "Bücher im Regal",
+                                      "Gelöschte Seiten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist der \u0027Verlauf\u0027 (History) im Browser?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Geschichtsbuch",
+                                      "Eine Liste der zuletzt besuchten Webseiten",
+                                      "Zukünftige Pläne",
+                                      "Alte Computer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Aktualisieren\u0027 (Refresh)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Den PC ausschalten",
+                                      "Die Webseite neu laden",
+                                      "Eine neue Maus kaufen",
+                                      "Das Fenster schließen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim Klick auf den \u0027Zurück\u0027-Pfeil?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der PC startet neu",
+                                      "Man kehrt zur vorherigen Seite zurück",
+                                      "Die Seite wird gelöscht",
+                                      "Man geht zur Homepage"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Popup?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner Snack",
+                                      "Ein Fenster, das sich plötzlich öffnet",
+                                      "Ein Browser-Typ",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man bei unbekannten Links vorsichtig sein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie könnten teuer sein",
+                                      "Gefahr von Viren oder Betrug",
+                                      "Der Monitor könnte kaputt gehen",
+                                      "Es ist nicht gefährlich"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Cookie?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Keks",
+                                      "Eine kleine Datei mit Informationen über den Webseitenbesuch",
+                                      "Ein Virus",
+                                      "Ein Bildschirmschoner"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet das Schloss-Symbol in der Adressleiste?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Seite ist gesperrt",
+                                      "Die Verbindung ist sicher (verschlüsselt)",
+                                      "Der PC ist aus",
+                                      "Ein Passwort ist falsch"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Inkognito-Modus\u0027 (Privates Surfen)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Surfen ohne Strom",
+                                      "Surfen ohne Speichern des Verlaufs",
+                                      "Surfen als Geheimagent",
+                                      "Surfen ohne Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Kindersuchmaschine?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Suchmaschine für Spielzeug",
+                                      "Eine Suchmaschine mit sicheren Inhalten für Kinder (z.B. FragFinn)",
+                                      "Ein Browser für Babys",
+                                      "Ein Spiel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Download?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten hochladen",
+                                      "Daten aus dem Internet speichern",
+                                      "Musik hören",
+                                      "PC putzen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Urheberrecht\u0027 im Internet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Alles gehört jedem",
+                                      "Schutz von Werken anderer (Bilder, Texte)",
+                                      "Ein Recht zum Hacken",
+                                      "Gibt es nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Impressum?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bild",
+                                      "Angaben zum Verantwortlichen einer Webseite",
+                                      "Ein Werbebanner",
+                                      "Ein Passwort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Spam\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein leckeres Essen",
+                                      "Unerwünschte Werbe-Nachrichten",
+                                      "Ein Browser",
+                                      "Ein neuer PC"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Phishing?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Fische fangen",
+                                      "Versuch, an Passwörter durch gefälschte Seiten zu kommen",
+                                      "Ein Spiel",
+                                      "Ein Browser-Update"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027App\u0027 auf dem Smartphone?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kurzes Wort",
+                                      "Ein Anwendungsprogramm",
+                                      "Ein Klingelton",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die \u0027Home\u0027-Schaltfläche im Browser?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Schließt das Programm",
+                                      "Führt zur festgelegten Startseite",
+                                      "Schaltet den PC aus",
+                                      "Öffnet den Explorer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Streaming\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten löschen",
+                                      "Direktes Ansehen/Anhören von Inhalten ohne kompletten Download",
+                                      "Ein Foto machen",
+                                      "Tippen"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was ist ein Adblocker?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Programm, das Werbung ausblendet",
+                                      "Ein Monitor",
+                                      "Ein kaputter Browser",
+                                      "Ein Passwort"
+                                  ]
+                  },
+                  {
+                      "text":  "Wir nutzen Suchmaschinen, um Informationen im Web zu finden.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In der Adressleiste geben wir die URL einer Webseite ein.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Lesezeichen helfen uns, unsere Lieblingsseiten schnell aufzurufen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Vorsicht beim Klicken auf unbekannte Links und Werbebanner.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Das Internet bietet unendlich viele Möglichkeiten zum Lernen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Im Verlauf können wir sehen, welche Seiten wir besucht haben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sichere Webseiten erkennt man am HTTPS und dem Schloss-Symbol.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Downloads sollten nur von vertrauenswürdigen Quellen kommen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Das Urheberrecht schützt die Bilder und Texte im Internet.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Private Fenster speichern keinen Verlauf auf dem Computer.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Surfen im Web"
+}

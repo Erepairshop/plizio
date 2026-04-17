@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Begriff und Messung der Information",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist die kleinste Dateneinheit?",
+      "options": [
+        "Byte",
+        "Bit",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Bits hat 1 Byte?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist keine Maßeinheit für Informationen?",
+      "options": [
+        "Hertz",
+        "Byte",
+        "Gigabyte",
+        "Terabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Information?",
+      "options": [
+        "Alle Daten",
+        "Nachricht, die neues Wissen vermittelt",
+        "Nur Zahlen",
+        "Nur Text"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind Daten?",
+      "options": [
+        "Interpretierte Information",
+        "Aufgezeichnete Tatsache",
+        "Nur Bild",
+        "Nur Ton"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Bytes hat 1 Kilobyte (KB) in der Informatik?",
+      "options": [
+        "1000",
+        "1024",
+        "1048",
+        "100"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Einheit ist größer als ein Gigabyte?",
+      "options": [
+        "Megabyte",
+        "Terabyte",
+        "Kilobyte",
+        "Byte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Wert hat ein Bit?",
+      "options": [
+        "Nur 1",
+        "Nur 0",
+        "0 oder 1",
+        "Jede Zahl"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät speichert Informationen?",
+      "options": [
+        "Maus",
+        "Monitor",
+        "USB-Stick",
+        "Tastatur"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennen wir die Verarbeitung von Daten?",
+      "options": [
+        "Informatik",
+        "Datenverarbeitung",
+        "Programmierung",
+        "Installation"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die kleinste Speicherkapazität?",
+      "options": [
+        "1 MB",
+        "1 GB",
+        "100 KB",
+        "1 TB"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchen Signalen arbeitet der Computer?",
+      "options": [
+        "Dezimalsystem",
+        "Binärsystem",
+        "Buchstaben",
+        "Bilder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet der Begriff binär?",
+      "options": [
+        "Dreiteilig",
+        "Doppelt, zwei Zustände",
+        "Vielfältig",
+        "Einfach"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Megabyte (MB) entsprechen etwa 1 Gigabyte (GB)?",
+      "options": [
+        "100",
+        "500",
+        "1000",
+        "10000"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck der Kodierung?",
+      "options": [
+        "Verschlüsseln von Daten",
+        "Umwandeln von Daten in ein verarbeitbares Format",
+        "Löschen von Daten",
+        "Kopieren von Daten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Einheit wird mit TB bezeichnet?",
+      "options": [
+        "Vierzehn Bytes",
+        "Terabyte",
+        "Zehntausend Bytes",
+        "Telebyte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die richtige Reihenfolge in aufsteigender Richtung?",
+      "options": [
+        "Bit, Byte, KB, MB, GB",
+        "Byte, Bit, KB, MB, GB",
+        "Bit, Byte, MB, KB, GB",
+        "GB, MB, KB, Byte, Bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Worauf bezieht sich das Präfix 'Mega'?",
+      "options": [
+        "Tausend",
+        "Million",
+        "Milliarde",
+        "Billiarde"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein analoges Signal?",
+      "options": [
+        "Stufenweise",
+        "Kontinuierlich veränderlich",
+        "Hat nur zwei Werte",
+        "Hat keinen Wert"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein digitales Signal?",
+      "options": [
+        "Kontinuierlich",
+        "Diskret, nimmt bestimmte Werte an",
+        "Wellig",
+        "Unsichtbar"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist keine Speichereinheit?",
+      "options": [
+        "HDD",
+        "SSD",
+        "CPU",
+        "CD"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Bytes belegt ein Zeichen normalerweise im ASCII-Code?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Hardware?",
+      "options": [
+        "Satz von Software",
+        "Physische Teile des Computers",
+        "Internetverbindung",
+        "Programmiersprache"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Basis der Informationsmaßeinheiten?",
+      "options": [
+        "Basis 10",
+        "Basis 2",
+        "Basis 16",
+        "Basis 8"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Bits sind in 2 Bytes?",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "64"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Die Grundeinheit für die Messung von Informationen ist das Bit."
+    },
+    {
+      "type": "typing",
+      "text": "Computer arbeiten mit binären Codes."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Byte enthält genau acht Bits."
+    },
+    {
+      "type": "typing",
+      "text": "Daten sind aufgezeichnete Tatsachen, die noch keine Bedeutung tragen."
+    },
+    {
+      "type": "typing",
+      "text": "Kilobyte und Megabyte sind ebenfalls Maßeinheiten."
+    },
+    {
+      "type": "typing",
+      "text": "Informationen vermitteln dem Benutzer neues Wissen."
+    },
+    {
+      "type": "typing",
+      "text": "Das Binärsystem verwendet nur Nullen und Einsen."
+    },
+    {
+      "type": "typing",
+      "text": "Das Terabyte ist heute bei Festplatten üblich."
+    },
+    {
+      "type": "typing",
+      "text": "Der ASCII-Code hilft bei der Darstellung von Zeichen."
+    },
+    {
+      "type": "typing",
+      "text": "Analoge Signale können in digitale umgewandelt werden."
+    }
+  ]
+}

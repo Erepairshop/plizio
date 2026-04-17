@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Tehnici de căutare",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un motor de căutare popular pe internet?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă un 'cuvânt-cheie' în căutare?",
+      "options": [
+        "Un cod secret",
+        "Cel mai important cuvânt pe care îl căutăm",
+        "Numele calculatorului",
+        "Un buton de pe tastatură"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce semn de punctuație ajută la căutarea unei expresii exacte?",
+      "options": [
+        "Semnul întrebării (?)",
+        "Ghilimelele (\"\")",
+        "Semnul exclamării (!)",
+        "Două puncte (:)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți restrânge căutarea doar la imagini?",
+      "options": [
+        "Închizi monitorul",
+        "Dai click pe fila 'Imagini' din motorul de căutare",
+        "Agiți tastatura",
+        "Nu se poate face asta"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face semnul minus (-) înaintea unui cuvânt într-o căutare?",
+      "options": [
+        "Scade numere",
+        "Exclude paginile care conțin acel cuvânt",
+        "Evidențiază cuvântul",
+        "Nu face nimic"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cel mai bun cuvânt-cheie dacă cauți info despre castele din România?",
+      "options": [
+        "Castele",
+        "Case vechi",
+        "Castele din România",
+        "Unde sunt castelele?"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'SafeSearch'?",
+      "options": [
+        "Internet mai rapid",
+        "Filtrează conținutul nepotrivit pentru copii",
+        "Salvează parolele",
+        "Șterge istoricul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum cauți un anumit tip de fișier (ex. PDF)?",
+      "options": [
+        "Scrii 'pdf'",
+        "Folosești comanda 'filetype:pdf'",
+        "Dai click pe pictograma imprimantei",
+        "Descarci un program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce ar trebui să faci dacă primești prea multe rezultate?",
+      "options": [
+        "Te oprești din căutat",
+        "Folosești cuvinte-cheie mai multe și mai specifice",
+        "Aștepți o oră",
+        "Repornești calculatorul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care extensie de site se referă adesea la instituții de învățământ?",
+      "options": [
+        ".com",
+        ".ro",
+        ".edu",
+        ".net"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește un 'semn de carte' (bookmark) în browser?",
+      "options": [
+        "Marcarea paginilor într-o carte reală",
+        "Salvarea adresei unui site pentru mai târziu",
+        "Prevenirea descărcării bateriei",
+        "Mărirea dimensiunii fontului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'istoricul de navigare'?",
+      "options": [
+        "Planuri de viitor",
+        "O listă a site-urilor vizitate anterior",
+        "Anul în care a fost fabricat calculatorul",
+        "Jocuri descărcate"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea NU este un browser web?",
+      "options": [
+        "Chrome",
+        "Firefox",
+        "Excel",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți reîmprospăta o pagină web?",
+      "options": [
+        "Apeși tasta F5",
+        "Închizi calculatorul",
+        "Ștergi monitorul",
+        "Dai click repetat cu mouse-ul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un URL?",
+      "options": [
+        "Un joc",
+        "O adresă de site web",
+        "Un nume de utilizator",
+        "Un virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde se află de obicei bara de căutare?",
+      "options": [
+        "În partea de jos a ecranului",
+        "În partea de sus sau la mijlocul browserului",
+        "Pe tastatură",
+        "În difuzoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este butonul 'Mă simt norocos'?",
+      "options": [
+        "Câștigi bani",
+        "Te duce direct la primul rezultat",
+        "Oprește reclamele",
+        "Schimbă culoarea de fundal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce ar trebui să faci dacă nu găsești nimic pe prima pagină?",
+      "options": [
+        "Începi să plângi",
+        "Modifici cuvintele-cheie",
+        "Cumperi un calculator nou",
+        "Te duci la culcare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un motor de căutare vechi?",
+      "options": [
+        "Google",
+        "Altavista",
+        "Facebook",
+        "TikTok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă căutarea vocală?",
+      "options": [
+        "Calculatorul vorbește cu tine",
+        "Dictezi cuvintele de căutare",
+        "Cântă muzică în timpul căutării",
+        "Găsește doar videoclipuri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce trebuie să faci dacă un rezultat de căutare pare suspect?",
+      "options": [
+        "Dai click imediat",
+        "Nu îl deschizi",
+        "Îl arăți tuturor",
+        "Descarci toate fișierele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care caracter este folosit ca înlocuitor (wildcard) în căutări?",
+      "options": [
+        "Asterisc (*)",
+        "Semnul at (@)",
+        "Semnul dolar ($)",
+        "Slash (/)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o fereastră 'incognito'?",
+      "options": [
+        "Te face invizibil în cameră",
+        "Nu salvează istoricul de navigare",
+        "Face internetul mai rapid",
+        "Oferă jocuri gratuite"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cea mai specifică căutare?",
+      "options": [
+        "câine",
+        "câine negru",
+        "ciobănesc german negru",
+        "animal"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Câte rezultate ar trebui să verifici de obicei?",
+      "options": [
+        "Doar primul",
+        "Primele 3-5 rezultate",
+        "Toate (milioane)",
+        "Niciunul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Google este cel mai popular motor de căutare din lume."
+    },
+    {
+      "type": "typing",
+      "text": "Cuvintele-cheie te ajută să găsești informația de care ai nevoie."
+    },
+    {
+      "type": "typing",
+      "text": "Folosește ghilimelele pentru a căuta expresii exacte!"
+    },
+    {
+      "type": "typing",
+      "text": "Filtrele pot restrânge lista rezultatelor căutării."
+    },
+    {
+      "type": "typing",
+      "text": "Verifică întotdeauna credibilitatea surselor tale!"
+    },
+    {
+      "type": "typing",
+      "text": "Pe internet se află o cantitate uriașă de date."
+    },
+    {
+      "type": "typing",
+      "text": "Poți salva paginile preferate în browser."
+    },
+    {
+      "type": "typing",
+      "text": "Restrângerea căutării îți economisește mult timp."
+    },
+    {
+      "type": "typing",
+      "text": "Nu da click pe reclame suspecte în timpul căutării!"
+    },
+    {
+      "type": "typing",
+      "text": "Căutarea inteligentă este o abilitate digitală importantă."
+    }
+  ]
+}

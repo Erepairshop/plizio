@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Wo wird das Betriebssystem und die meisten Programme dauerhaft gespeichert?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "RAM",
+                                      "Festplatte / SSD",
+                                      "Monitor",
+                                      "CPU"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Speicher verliert seine Daten, wenn der Computer ausgeschaltet wird?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Festplatte",
+                                      "SSD",
+                                      "Arbeitsspeicher (RAM)",
+                                      "USB-Stick"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist der Vorteil einer SSD gegenüber einer HDD?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie ist schwerer",
+                                      "Sie ist viel schneller",
+                                      "Sie ist billiger",
+                                      "Sie ist größer"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Wie viel Byte sind ein Kilobyte (ungefähr)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "10",
+                                      "100",
+                                      "1000",
+                                      "1.000.000"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welches Medium wurde früher oft für die Datenspeicherung verwendet, ist aber heute selten?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "USB-Stick",
+                                      "Cloud",
+                                      "Diskette",
+                                      "Externe Festplatte"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür steht die Abkürzung \u0027GB\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Groß-Byte",
+                                      "Gigabyte",
+                                      "Gesamt-Bit",
+                                      "Grafik-Basis"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Speicher ist am kleinsten und tragbarsten?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Interne Festplatte",
+                                      "USB-Stick",
+                                      "Mainboard",
+                                      "Netzteil"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was bedeutet \u0027Cloud-Speicher\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Speichern von Daten im Internet",
+                                      "Speichern von Daten auf dem Wetter-Satelliten",
+                                      "Ein Speicher, der nur bei Regen funktioniert",
+                                      "Speichern auf einer CD"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Medium wird oft für Filme (Spielfilme) verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "CD",
+                                      "DVD / Blu-ray",
+                                      "Diskette",
+                                      "RAM"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine SD-Karte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine große Festplatte",
+                                      "Eine kleine Speicherkarte für Kameras und Handys",
+                                      "Ein Teil des Monitors",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man regelmäßig Backups (Sicherungskopien) machen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit der Computer schneller wird",
+                                      "Um Datenverlust bei Fehlern vorzubeugen",
+                                      "Um mehr Platz auf der Festplatte zu haben",
+                                      "Um das Internet zu löschen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die kleinste Informationseinheit im Computer?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Byte",
+                                      "Bit",
+                                      "Megabyte",
+                                      "Datei"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Wie viele Bits ergeben ein Byte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "2",
+                                      "4",
+                                      "8",
+                                      "16"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welcher Speicher ist direkt auf dem Prozessor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Cache",
+                                      "Festplatte",
+                                      "USB-Stick",
+                                      "Cloud"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Woran erkennt man eine externe Festplatte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie ist fest im Gehäuse verbaut",
+                                      "Sie wird meist über USB angeschlossen",
+                                      "Sie hat keinen Speicherplatz",
+                                      "Sie leuchtet immer rot"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein NAS?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein neues Betriebssystem",
+                                      "Ein Netzwerkspeicher",
+                                      "Ein Eingabegerät",
+                                      "Ein Monitor-Typ"
+                                  ]
+                  },
+                  {
+                      "correct":  3,
+                      "question":  "Welche Speicherkapazität ist größer?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "1 MB",
+                                      "1 KB",
+                                      "1 GB",
+                                      "1 TB"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird ein DVD-Laufwerk verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Tippen",
+                                      "Zum Lesen und Beschreiben von DVDs",
+                                      "Zum Kühlen des PCs",
+                                      "Zum Anzeigen von Bildern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim Formatieren eines Datenträgers?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Daten werden verschönert",
+                                      "Alle vorhandenen Daten werden gelöscht und der Träger vorbereitet",
+                                      "Der Speicher wird physisch größer",
+                                      "Die Farbe des Sticks ändert sich"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was ist \u0027ROM\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur-Lese-Speicher",
+                                      "Schneller Schreib-Speicher",
+                                      "Ein Teil der Maus",
+                                      "Ein Videospiel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man das Speichern von Daten auf einem USB-Stick?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Herunterladen",
+                                      "Kopieren / Speichern",
+                                      "Drucken",
+                                      "Scannen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man einen USB-Stick \u0027sicher entfernen\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit er nicht wegfliegt",
+                                      "Um Datenfehler zu vermeiden",
+                                      "Damit er nicht heiß wird",
+                                      "Das ist nicht nötig"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Offline-Speicher\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten im Internet",
+                                      "Lokale Datenträger ohne Internetverbindung",
+                                      "Gelöschte Daten",
+                                      "Kaputter Speicher"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät braucht meistens eine SD-Karte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Toaster",
+                                      "Digitalkamera",
+                                      "Monitor",
+                                      "Tastatur"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die Abkürzung für Solid State Drive?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "HDD",
+                                      "SSD",
+                                      "RAM",
+                                      "CPU"
+                                  ]
+                  },
+                  {
+                      "text":  "Die Festplatte speichert alle unsere Dateien dauerhaft.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der Arbeitsspeicher ist ein flüchtiger Speicher für laufende Programme.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein USB-Stick ist praktisch für den Datentransport.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In der Cloud können wir von überall auf unsere Daten zugreifen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Backup schützt uns vor dem Verlust wichtiger Dokumente.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Terabyte entspricht etwa tausend Gigabyte.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Speicherkarten werden oft in Smartphones und Kameras genutzt.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die SSD macht das Starten des Computers viel schneller.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Bit kann nur den Zustand null oder eins haben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Regelmäßiges Aufräumen spart Platz auf dem Datenträger.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Datenspeicher"
+}

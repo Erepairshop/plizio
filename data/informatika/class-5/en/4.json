@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Operating Systems",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is the main task of an Operating System?",
+      "options": [
+        "Playing games",
+        "Managing hardware and software",
+        "Printing photos",
+        "Making coffee"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a famous Operating System for PCs?",
+      "options": [
+        "Android",
+        "Windows",
+        "iOS",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which OS is made by Apple for Mac computers?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "ChromeOS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a popular mobile Operating System?",
+      "options": [
+        "Windows 95",
+        "Android",
+        "Microsoft Word",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Desktop'?",
+      "options": [
+        "The top of a physical desk",
+        "The main screen of the operating system",
+        "The back of the monitor",
+        "A type of printer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Taskbar' in Windows?",
+      "options": [
+        "A place to store files",
+        "A bar showing open programs and the Start menu",
+        "A bar for scrolling",
+        "A keyboard part"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Start Menu' used for?",
+      "options": [
+        "Stopping the computer",
+        "Accessing programs and settings",
+        "Typing a letter",
+        "Drawing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Wallpaper'?",
+      "options": [
+        "The background image on the desktop",
+        "A physical paper on the wall",
+        "A type of screen protector",
+        "A computer error"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Rebooting' mean?",
+      "options": [
+        "Buying new boots",
+        "Restarting the computer",
+        "Turning it off forever",
+        "Cleaning the keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Multitasking'?",
+      "options": [
+        "Using one program at a time",
+        "Running multiple programs at the same time",
+        "Having multiple mouses",
+        "Using the computer in the dark"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a free and open-source OS?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'User Account'?",
+      "options": [
+        "A bank account",
+        "A personal space for a user on a computer",
+        "A type of monitor",
+        "A computer store"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Logging in'?",
+      "options": [
+        "Cutting wood",
+        "Entering a username and password to use the computer",
+        "Turning off the monitor",
+        "Printing a file"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where do deleted files go first in Windows?",
+      "options": [
+        "Internet",
+        "Recycle Bin",
+        "RAM",
+        "My Documents"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Control Panel' or 'Settings' used for?",
+      "options": [
+        "Playing music",
+        "Changing computer configuration",
+        "Drawing pictures",
+        "Browsing news"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Driver' in informatics?",
+      "options": [
+        "A person driving a car",
+        "Software that tells the OS how to use hardware",
+        "A type of monitor",
+        "A keyboard key"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which OS is often used on iPhones?",
+      "options": [
+        "Android",
+        "iOS",
+        "Windows",
+        "Linux"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'File Explorer' used for?",
+      "options": [
+        "Browsing the web",
+        "Managing files and folders",
+        "Editing photos",
+        "Playing games"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Shut Down'?",
+      "options": [
+        "Closing a book",
+        "Turning off the computer properly",
+        "Turning off only the screen",
+        "Unplugging the power"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens during 'Sleep' mode?",
+      "options": [
+        "The computer turns off completely",
+        "The computer uses low power and stays ready",
+        "The computer plays music",
+        "The computer deletes files"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Shortcut'?",
+      "options": [
+        "A shorter cable",
+        "An icon that points to a file or program",
+        "A small keyboard",
+        "A fast mouse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Window' in an OS?",
+      "options": [
+        "A glass in the room",
+        "A rectangular area showing a program",
+        "A type of screen",
+        "A computer error"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'GUI'?",
+      "options": [
+        "Graphical User Interface",
+        "General Unit Input",
+        "Grand User Icon",
+        "Great Utility Index"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT an operating system?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Google Search",
+        "macOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Kernel'?",
+      "options": [
+        "A type of popcorn",
+        "The core part of an operating system",
+        "A computer case",
+        "A type of monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "The operating system manages the whole computer."
+    },
+    {
+      "type": "typing",
+      "text": "Windows is a very popular operating system."
+    },
+    {
+      "type": "typing",
+      "text": "Android and iOS are used on mobile devices."
+    },
+    {
+      "type": "typing",
+      "text": "The desktop is your main workspace on the screen."
+    },
+    {
+      "type": "typing",
+      "text": "Use the taskbar to switch between open programs."
+    },
+    {
+      "type": "typing",
+      "text": "The Recycle Bin stores your deleted files temporarily."
+    },
+    {
+      "type": "typing",
+      "text": "Always shut down your computer properly."
+    },
+    {
+      "type": "typing",
+      "text": "A user account keeps your files private."
+    },
+    {
+      "type": "typing",
+      "text": "Settings allow you to change your wallpaper."
+    },
+    {
+      "type": "typing",
+      "text": "Linux is a free and open-source system."
+    }
+  ]
+}

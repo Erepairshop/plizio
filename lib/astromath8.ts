@@ -54,7 +54,7 @@ export const G8_ISLANDS: IslandDef[] = [
     icon: "x²", color: "#6366F1", sortRange: [1, 100],
     topicKeys: ["g8_quad_simple", "g8_quad_shifted", "g8_quad_eval", "g8_quad_diff"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "quadratic-explorer", icon: "🔍", label: { en: "Explore Quadratics",  hu: "Másodfokúak felfedezése", de: "Quadratische entdecken",   ro: "Descoperă pătratele"    } },
+      { id: "m1", category: "explore",   gameType: "quadratic-explorer", icon: "🔍", label: { en: "Explore Quadratics",  hu: "Másodfokú egyenletek felfedezése", de: "Quadratische Gleichungen entdecken", ro: "Descoperă ecuațiile pătratice" } },
       { id: "m2", category: "build",     gameType: "equation-drill",     icon: "🧮", label: { en: "Equation Drill",      hu: "Egyenlet drill",          de: "Gleichungs-Drill",        ro: "Ecuații"                } },
       { id: "m3", category: "challenge", gameType: "star-match",         icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",            ro: "Perechi stele"          } },
     ],
@@ -91,7 +91,7 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_func_value", "g8_func_neg", "g8_func_slope", "g8_func_intercept", "g8_func_eq"],
     missions: [
       { id: "m1", category: "explore",   gameType: "function-explorer", icon: "🔍", label: { en: "Discover Functions",  hu: "Függvények felfedezése",  de: "Funktionen entdecken",    ro: "Descoperă funcțiile"    } },
-      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Function Drill",      hu: "Függvény drill",          de: "Funktions-Drill",         ro: "Ecuații funcții"         } },
+      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Function Drill",      hu: "Függvény drill",          de: "Funktions-Drill",         ro: "Exerciții cu funcții"    } },
       { id: "m3", category: "challenge", gameType: "star-match",        icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",            ro: "Perechi stele"          } },
     ],
     svgX: 220, svgY: 195,
@@ -126,7 +126,7 @@ export const G8_ISLANDS: IslandDef[] = [
     icon: "🔄", color: "#EAB308", sortRange: [-10, 10],
     topicKeys: ["g8_trans_translate", "g8_trans_reflectX", "g8_trans_reflectY", "g8_trans_rotate"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "transform-explorer",  icon: "🔍", label: { en: "Discover Transforms",  hu: "Transzformációk felfedezése", de: "Transformationen entdecken", ro: "Descoperă transformările" } },
+      { id: "m1", category: "explore",   gameType: "transform-explorer",  icon: "🔍", label: { en: "Discover Transformations",  hu: "Transzformációk felfedezése", de: "Transformationen entdecken", ro: "Descoperă transformările" } },
       { id: "m2", category: "build",     gameType: "visual-challenge",   icon: "🔄", label: { en: "Transform Practice",   hu: "Transzformáció gyakorlás",    de: "Transformation üben",        ro: "Practică transformări"    }, visualType: "transformation" },
       { id: "m3", category: "challenge", gameType: "black-hole",         icon: "🕳️", label: { en: "Black Hole",            hu: "Fekete lyuk",                 de: "Schwarzes Loch",             ro: "Gaura neagră"             } },
     ],

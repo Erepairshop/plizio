@@ -89,7 +89,7 @@ export const PLURAL_LABELS: Record<string, Record<string, string>> = {
     t8_l3: "Mouse", t8_r3: "Mice",
 
     t9_title: "Plural Choice",
-    t9_text: "Choosing the correct plural form.",
+    t9_text: "It is time to choose the correct plural! Some words follow rules, but others are tricky and irregular.",
     t9_inst: "Pick the correct word:",
     t9_h1: "Check the grammar rule.",
     t9_h2: "Is it -s, -es, or irregular?",
@@ -108,7 +108,7 @@ export const PLURAL_LABELS: Record<string, Record<string, string>> = {
     t10_tk1: "Look", t10_tk2: "at", t10_tk3: "those", t10_tk4: "ten", t10_tk5: "sheep", t10_tk6: "on", t10_tk7: "the", t10_tk8: "hill.",
 
     t11_title: "Plural Build",
-    t11_text: "Build a plural sentence about people.",
+    t11_text: "The word 'person' has a special plural: 'people'. Let's use it in a sentence!",
     t11_inst: "Build a 'people' sentence:",
     t11_h1: "Start with 'There are'.",
     t11_h2: "Use 'people' for plural.",
@@ -128,7 +128,7 @@ export const PLURAL_LABELS: Record<string, Record<string, string>> = {
     t12_i3: "Cats", t12_i4: "Men",
 
     t13_title: "Plural Gap-Fill",
-    t13_text: "Fill in the correct plural form.",
+    t13_text: "Some words ending in -fe change to -ves in the plural. Example: 'knife' becomes 'knives'.",
     t13_inst: "Choose for the blank:",
     t13_h1: "Look at the number (two).",
     t13_h2: "Use the plural form.",
@@ -355,7 +355,7 @@ export const TENSE_LABELS: Record<string, Record<string, string>> = {
     t8_l3: "Do", t8_r3: "Did",
 
     t9_title: "Tense Gap-Fill",
-    t9_text: "Choosing the right helper.",
+    t9_text: "Choosing the right helper verb is important. Use 'am/is/are' for things happening now.",
     t9_inst: "Choose for the blank:",
     t9_h1: "Is it now or later?",
     t9_h2: "Check the helper word.",
@@ -400,7 +400,7 @@ export const TENSE_LABELS: Record<string, Record<string, string>> = {
     t13_h2: "Use 'Do' or 'Did'.",
     t13_q: "___ you like it?",
     t13_qa: "Do", t13_qb: "Am", t13_qc: "Is", t13_qd: "Are",
-    t13_sent: "___ you see the cat yesterday?",
+    t13_sent: "___ you see a cat yesterday?",
     t13_qa2: "Did", t13_qb2: "Do", t13_qc2: "Are", t13_qd2: "Were",
 
     t14_title: "Final Tense Match",
@@ -942,9 +942,9 @@ export const SUBJECT_LABELS: Record<string, Record<string, string>> = {
     t14_h2: "I am, You are, He is.",
     t14_q: "Which is correct?",
     t14_qa: "I am", t14_qb: "I is", t14_qc: "He am", t14_qd: "They is",
-    t14_l1: "I ", t14_r1: "am",
-    t14_l2: "You ", t14_r2: "are",
-    t14_l3: "He ", t14_r3: "is",
+    t14_l1: "I", t14_r1: "am",
+    t14_l2: "You", t14_r2: "are",
+    t14_l3: "He", t14_r3: "is",
 
     t15_title: "Subject Review",
     t15_text: "Final review of Grade 3 subjects.",
@@ -1074,7 +1074,7 @@ export const QUOTE_LABELS: Record<string, Record<string, string>> = {
   en: {
     explorer_title: "Quote Quest",
     t1_title: "Using Quotes",
-    t1_text: "Quotes are used to show someone is speaking. Example: 'I am here,' said Tom.",
+    t1_text: "Quotes are used to show someone is speaking. Example: \"I am here,\" said Tom.",
     t1_inst: "Order for a quote sentence:",
     t1_h1: "Start with the quoted part.",
     t1_h2: "Use 'said Mary' at the end.",

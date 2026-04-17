@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Betriebssysteme",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist die Hauptaufgabe eines Betriebssystems?",
+      "options": [
+        "Spiele spielen",
+        "Verwalten von Hardware und Software",
+        "Fotos drucken",
+        "Kaffee kochen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist ein berühmtes Betriebssystem für PCs?",
+      "options": [
+        "Android",
+        "Windows",
+        "iOS",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Betriebssystem wird von Apple für Mac-Computer entwickelt?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "ChromeOS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein beliebtes mobiles Betriebssystem?",
+      "options": [
+        "Windows 95",
+        "Android",
+        "Microsoft Word",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der „Desktop“?",
+      "options": [
+        "Die Oberseite eines physischen Schreibtisches",
+        "Der Hauptbildschirm des Betriebssystems",
+        "Die Rückseite des Monitors",
+        "Ein Druckertyp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die „Taskleiste“ in Windows?",
+      "options": [
+        "Ein Ort zum Speichern von Dateien",
+        "Eine Leiste mit geöffneten Programmen und dem Startmenü",
+        "Eine Leiste zum Scrollen",
+        "Ein Keyboard-Part"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient das „Startmenü“?",
+      "options": [
+        "Stoppen des Computers",
+        "Auf Programme und Einstellungen zugreifen",
+        "Einen Buchstaben eingeben",
+        "Zeichnung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Hintergrundbild“?",
+      "options": [
+        "Das Hintergrundbild auf dem Desktop",
+        "Ein physisches Papier an der Wand",
+        "Eine Art Displayschutz",
+        "Ein Computerfehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet „Neustart“?",
+      "options": [
+        "Neue Stiefel kaufen",
+        "Neustart des Computers",
+        "Für immer ausschalten",
+        "Reinigung der Tastatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Multitasking“?",
+      "options": [
+        "Verwendung jeweils eines Programms",
+        "Mehrere Programme gleichzeitig ausführen",
+        "Mehrere Mäuse haben",
+        "Den Computer im Dunkeln nutzen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist ein kostenloses Open-Source-Betriebssystem?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Benutzerkonto“?",
+      "options": [
+        "Ein Bankkonto",
+        "Ein persönlicher Bereich für einen Benutzer auf einem Computer",
+        "Eine Art Monitor",
+        "Ein Computerladen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Anmelden“?",
+      "options": [
+        "Holz schneiden",
+        "Eingabe eines Benutzernamens und Passworts zur Nutzung des Computers",
+        "Ausschalten des Monitors",
+        "Drucken einer Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wohin werden gelöschte Dateien in Windows zuerst verschoben?",
+      "options": [
+        "Internet",
+        "Papierkorb",
+        "RAM",
+        "Meine Dokumente"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dienen die „Systemsteuerung“ oder die „Einstellungen“?",
+      "options": [
+        "Musik spielen",
+        "Computerkonfiguration ändern",
+        "Bilder zeichnen",
+        "Durchsuchen von Nachrichten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Fahrer“ in der Informatik?",
+      "options": [
+        "Eine Person, die ein Auto fährt",
+        "Software, die dem Betriebssystem mitteilt, wie Hardware zu verwenden ist",
+        "Eine Art Monitor",
+        "Eine Tastaturtaste"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Betriebssystem wird häufig auf iPhones verwendet?",
+      "options": [
+        "Android",
+        "iOS",
+        "Windows",
+        "Linux"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird der „Datei-Explorer“ verwendet?",
+      "options": [
+        "Im Internet surfen",
+        "Dateien und Ordner verwalten",
+        "Fotos bearbeiten",
+        "Spiele spielen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Herunterfahren“?",
+      "options": [
+        "Ein Buch schließen",
+        "Den Computer richtig ausschalten",
+        "Nur den Bildschirm ausschalten",
+        "Trennen Sie den Strom"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert im „Schlafmodus“?",
+      "options": [
+        "Der Computer schaltet sich vollständig aus",
+        "Der Computer verbraucht wenig Strom und bleibt betriebsbereit",
+        "Der Computer spielt Musik",
+        "Der Computer löscht Dateien"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine „Verknüpfung“?",
+      "options": [
+        "Ein kürzeres Kabel",
+        "Ein Symbol, das auf eine Datei oder ein Programm verweist",
+        "Eine kleine Tastatur",
+        "Eine schnelle Maus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Fenster“ in einem Betriebssystem?",
+      "options": [
+        "Ein Glas im Zimmer",
+        "Ein rechteckiger Bereich, der ein Programm",
+        "zeigt Eine Art Bildschirm",
+        "Ein Computerfehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „GUI“?",
+      "options": [
+        "Grafische Benutzeroberfläche",
+        "Allgemeine Einheiteneingabe",
+        "Großes Benutzersymbol",
+        "Toller Utility-Index"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist KEIN Betriebssystem?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Google-Suche",
+        "macOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der „Kernel“?",
+      "options": [
+        "Eine Art Popcorn",
+        "Der Kernbestandteil eines Betriebssystems",
+        "Ein Computergehäuse",
+        "Eine Art Monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Das Betriebssystem verwaltet den gesamten Computer."
+    },
+    {
+      "type": "typing",
+      "text": "Windows ist ein sehr beliebtes Betriebssystem."
+    },
+    {
+      "type": "typing",
+      "text": "Auf Mobilgeräten kommen Android und iOS zum Einsatz."
+    },
+    {
+      "type": "typing",
+      "text": "Der Desktop ist Ihr Hauptarbeitsbereich auf dem Bildschirm."
+    },
+    {
+      "type": "typing",
+      "text": "Verwenden Sie die Taskleiste, um zwischen geöffneten Programmen zu wechseln."
+    },
+    {
+      "type": "typing",
+      "text": "Der Papierkorb speichert Ihre gelöschten Dateien vorübergehend."
+    },
+    {
+      "type": "typing",
+      "text": "Fahren Sie Ihren Computer immer ordnungsgemäß herunter."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Benutzerkonto hält Ihre Dateien privat."
+    },
+    {
+      "type": "typing",
+      "text": "Mit den Einstellungen können Sie Ihr Hintergrundbild ändern."
+    },
+    {
+      "type": "typing",
+      "text": "Linux ist ein kostenloses und Open-Source-System."
+    }
+  ]
+}

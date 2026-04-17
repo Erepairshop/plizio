@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cloud-Dienste",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Cloud-Dienst?",
+      "options": [
+        "Daten im Himmel speichern",
+        "Über das Internet zugängliche Daten und Software auf entfernten Servern",
+        "Netzwerk, das nur bei schlechtem Wetter funktioniert",
+        "Die Festplatte Ihres eigenen Computers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein Cloud-Speicher?",
+      "options": [
+        "Google Drive",
+        "Monitor",
+        "Tastatur",
+        "Maus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der größte Vorteil der Cloud?",
+      "options": [
+        "Von überall mit Internet zugänglich",
+        "Kein Computer erforderlich",
+        "Alles ist kostenlos",
+        "Schneller als das Licht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Unternehmen besitzt OneDrive?",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Facebook"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist iCloud?",
+      "options": [
+        "Cloud-Dienst von Apple",
+        "Ein Brillentyp",
+        "Musikplayer",
+        "Kamera"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist KEIN Cloud-Dienst?",
+      "options": [
+        "Dropbox",
+        "Google Fotos",
+        "Taschenrechner (Windows offline)",
+        "OneDrive"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Synchronisation?",
+      "options": [
+        "Daten löschen",
+        "Daten in der Cloud und auf dem lokalen Gerät stimmen überein",
+        "Computer herunterfahren",
+        "Bildschirm speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie können wir auf unsere Dateien in der Cloud zugreifen?",
+      "options": [
+        "Nur mit einem Kabel",
+        "Durch Einloggen (Benutzername und Passwort)",
+        "Nur von zu Hause aus",
+        "Können nicht darauf zugreifen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist Google Docs gut?",
+      "options": [
+        "Nur zum Bilder anschauen",
+        "Textverarbeitung in der Cloud",
+        "Gaming",
+        "Filmbearbeitung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn unser Handy verloren geht, aber unsere Daten in der Cloud sind?",
+      "options": [
+        "Alle Daten sind verloren",
+        "Daten bleiben erhalten und sind von einem anderen Gerät aus zugänglich",
+        "Die Cloud verschwindet ebenfalls",
+        "Das Handy kommt von selbst zurück"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Software-Suite ist Office 365 die Cloud-Version?",
+      "options": [
+        "Microsoft Office",
+        "Adobe Creative Cloud",
+        "Google Workspace",
+        "LibreOffice"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Speicherminimierung?",
+      "options": [
+        "Wie viel Zeit wir im Internet verbringen können",
+        "Wie viele Daten wir in der Cloud speichern können",
+        "Wie schwer der Computer ist",
+        "Wie schnell die CPU ist"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Können Dateien in der Cloud mit anderen geteilt werden?",
+      "options": [
+        "Nein, es ist verboten",
+        "Ja, mit einem Link oder einer E-Mail-Adresse",
+        "Nur wenn dasselbe Gerät verwendet wird",
+        "Nur auf einem USB-Stick"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Cloud-Dienst konzentriert sich auf Fotos?",
+      "options": [
+        "Google Fotos",
+        "Excel",
+        "Notepad",
+        "VLC Player"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist SaaS?",
+      "options": [
+        "Software as a Service",
+        "System and Application",
+        "Super Apple System",
+        "Simple Auto Service"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Nachteil der Cloud?",
+      "options": [
+        "Zu bunt",
+        "Daten ohne Internet nicht zugänglich",
+        "Nimmt zu viel Platz im Haus ein",
+        "Schwer anzuheben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist die Cloud sicher?",
+      "options": [
+        "Gar nicht",
+        "Im Allgemeinen ja, wenn starke Passwörter und 2FA verwendet werden",
+        "Nur wenn der Monitor ausgeschaltet wird",
+        "Nur tagsüber"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Zwei-Faktor-Authentifizierung (2FA)?",
+      "options": [
+        "Zwei Passwörter erforderlich",
+        "Passwort plus ein Code (z.B. per SMS oder App)",
+        "Zwei Personen zum Einloggen erforderlich",
+        "Man muss zweimal Enter drücken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Cloud-Dienst hilft bei Notizen?",
+      "options": [
+        "Google Keep / OneNote",
+        "Calculator",
+        "Solitaire",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Cloud-Backup?",
+      "options": [
+        "Computer abdecken",
+        "Kopie wichtiger Daten in der Cloud zur Sicherheit",
+        "Antivirus",
+        "Neue Software kaufen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem Browser ist Google Drive eng verbunden?",
+      "options": [
+        "Safari",
+        "Chrome",
+        "Firefox",
+        "Edge"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Dokument in der Cloud gemeinsam bearbeitet werden?",
+      "options": [
+        "Nein, nur eine Person kann gleichzeitig schreiben",
+        "Ja, sogar mehrere Personen gleichzeitig",
+        "Nur wenn man nebeneinander sitzt",
+        "Nur wenn per E-Mail gesendet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Worauf bezieht sich der Name 'Cloud'?",
+      "options": [
+        "Dass Daten in der Luft fliegen",
+        "Abstraktes Symbol für das Internet",
+        "Dass es Regen bringt",
+        "Dass Dateien nur weiß sind"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein kostenloses Cloud-Speicherlimit (normalerweise)?",
+      "options": [
+        "1 TB",
+        "15 GB (Google)",
+        "1 MB",
+        "Kein Limit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Filesharing?",
+      "options": [
+        "Dateien in zwei Hälften schneiden",
+        "Anderen Zugriff auf unsere Dateien gewähren",
+        "Dateien löschen",
+        "Dateien verschlüsseln"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Cloud-Dienste ermöglichen eine bequeme Datenspeicherung."
+    },
+    {
+      "type": "typing",
+      "text": "Google Drive und OneDrive sind beliebte Cloud-Speicher."
+    },
+    {
+      "type": "typing",
+      "text": "Synchronisation hilft dabei, dieselben Dateien auf allen Geräten zu haben."
+    },
+    {
+      "type": "typing",
+      "text": "In der Cloud gespeicherte Dokumente können von überall bearbeitet werden."
+    },
+    {
+      "type": "typing",
+      "text": "Verwenden Sie immer ein starkes Passwort für Ihr Cloud-Konto."
+    },
+    {
+      "type": "typing",
+      "text": "Zwei-Faktor-Authentifizierung erhöht die Sicherheit erheblich."
+    },
+    {
+      "type": "typing",
+      "text": "Das Teilen von Links erleichtert den Versand großer Dateien."
+    },
+    {
+      "type": "typing",
+      "text": "Die Cloud bietet ein Backup, falls Ihr Computer kaputt geht."
+    },
+    {
+      "type": "typing",
+      "text": "Online-Büroprogramme erfordern keine Installation."
+    },
+    {
+      "type": "typing",
+      "text": "Cloud-Dienste erfordern eine stabile Internetverbindung."
+    }
+  ]
+}

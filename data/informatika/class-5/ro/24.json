@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Drepturi de autor pe internet",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă dreptul de autor?",
+      "options": [
+        "Doar scriitorii au drepturi",
+        "Dreptul creatorului de a dispune de propria operă",
+        "Că oricine poate descărca orice gratuit",
+        "Un tip de software"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să prezinți imaginea altcuiva ca fiind a ta?",
+      "options": [
+        "Da, dacă îți place",
+        "Nu, acest lucru contează ca hoție",
+        "Doar dacă o modificăm puțin",
+        "Doar dacă nu e niciun nume pe ea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă indicarea sursei?",
+      "options": [
+        "Marcarea sursei de apă",
+        "Specificarea locului de unde provine informația sau imaginea",
+        "Setarea dimensiunii fontului",
+        "Numele unui site web nou"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care conținut nu este protejat de drepturi de autor?",
+      "options": [
+        "Filmele",
+        "Muzica",
+        "O formulă matematică binecunoscută",
+        "Jocurile pe calculator"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă licența 'Creative Commons'?",
+      "options": [
+        "Că totul este interzis",
+        "Un sistem flexibil care permite anumite utilizări ale operelor",
+        "Un program comun de desenat",
+        "O societate secretă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să te uiți la un film cu plată pe un site gratuit, ilegal?",
+      "options": [
+        "Da, pentru că oricum nu se află",
+        "Nu, acest lucru încalcă drepturile de autor",
+        "Doar în weekend",
+        "Doar dacă nu avem bani de cinema"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este pirateria software?",
+      "options": [
+        "Transportul de software cu nave",
+        "Copierea și distribuirea ilegală de software",
+        "Programarea pe mare",
+        "Un tip nou de joc"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Public Domain' (Domeniu public)?",
+      "options": [
+        "Doar guvernul îl poate folosi",
+        "Dreptul de autor a expirat, oricine îl poate folosi liber",
+        "Numele unui parc public",
+        "Interzis pentru toată lumea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă vrei să folosești o imagine pentru prezentarea ta?",
+      "options": [
+        "O copiezi pur și simplu și gata",
+        "Cauți autorul și îi ceri permisiunea sau cauți o imagine cu utilizare liberă",
+        "O colorezi",
+        "Ștergi numele de pe ea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un watermark (filigran)?",
+      "options": [
+        "S-a udat monitorul",
+        "Un text sau logo transparent pe imagine împotriva copierii",
+        "O poză făcută la malul apei",
+        "Un buton în browser"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De pe ce site poți descărca muzică legal?",
+      "options": [
+        "De pe un site plin de reclame suspecte",
+        "Din magazine oficiale sau de la furnizori de streaming (ex. Spotify)",
+        "Pe ascuns de pe calculatorul vecinului",
+        "De nicăieri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'plagiat'?",
+      "options": [
+        "O boală",
+        "Prezentarea muncii altora ca fiind propria noastră muncă",
+        "Un tip de plastic",
+        "Numele unei planete"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să vinzi o imagine descărcată de pe internet?",
+      "options": [
+        "Da, dacă noi am descărcat-o",
+        "Nu, decât dacă avem permisiune specială de la autor",
+        "Doar dacă o imprimăm",
+        "Doar dacă nu observă nimeni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care simbol marchează dreptul de autor?",
+      "options": [
+        "@",
+        "©",
+        "&",
+        "$"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Fair Use' (Utilizare rezonabilă)?",
+      "options": [
+        "Totul este voie",
+        "În anumite cazuri (ex. predare, critică) se poate folosi un mic fragment fără permisiune",
+        "Înseamnă jocuri gratuite",
+        "Un tip de mouse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se poate întâmpla dacă încălcăm drepturile de autor?",
+      "options": [
+        "Nimic",
+        "Ne pot șterge postarea, contul sau chiar ne pot da în judecată",
+        "Închid internetul în oraș",
+        "Ia foc calculatorul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum putem căuta imagini cu utilizare liberă pe Google?",
+      "options": [
+        "Scriem 'gratis'",
+        "Folosim filtrul 'Drepturi de utilizare' în meniul Instrumente",
+        "Toate imaginile sunt libere",
+        "Nu se poate face așa ceva"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește indicarea sursei în tema pentru acasă?",
+      "options": [
+        "Ca să fie mai lung textul",
+        "Să arătăm de unde am obținut informația și să respectăm autorul",
+        "Ca și profesorul să poată citi originalul",
+        "Să umplem locul gol"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine numim autor?",
+      "options": [
+        "Pe cel care cumpără cartea",
+        "Pe cel care a creat opera originală",
+        "Pe cel care imprimă imaginea",
+        "Pe cel care vede filmul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp durează de obicei protecția dreptului de autor?",
+      "options": [
+        "Un an",
+        "Mulți ani după moartea autorului (ex. 70 de ani)",
+        "Până când nu e șters de pe internet",
+        "Doar o zi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să modifici software fără permisiune?",
+      "options": [
+        "Da, dacă ne pricepem",
+        "Nu, decât dacă licența permite acest lucru (ex. open source)",
+        "Doar dacă nu văd ei",
+        "Doar la școală"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'Open Source' (Sursă deschisă)?",
+      "options": [
+        "Cod care este vizibil și modificabil de către toată lumea",
+        "Un cod secret",
+        "Un program stricat",
+        "Un software cu plată"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Se aplică dreptul de autor fotografiilor tale proprii?",
+      "options": [
+        "Nu, pentru că nu sunt profesionist",
+        "Da, din momentul creării, dreptul îți aparține",
+        "Doar dacă o înregistrez pe net",
+        "Doar dacă are multe like-uri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă vrei să pui o muzică celebră sub videoclipul tău?",
+      "options": [
+        "O pui pur și simplu",
+        "Verifici drepturile sau cauți muzică fără drepturi de autor",
+        "O redai lent",
+        "Tai cântatul din ea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este managementul drepturilor digitale (DRM)?",
+      "options": [
+        "Un tip de joc",
+        "Protecție tehnică împotriva copierii conținutului",
+        "O tastatură nouă",
+        "Cumpărături pe internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Dreptul de autor protejează operele originale ale creatorilor."
+    },
+    {
+      "type": "typing",
+      "text": "Indică întotdeauna sursa informației sau a imaginii!"
+    },
+    {
+      "type": "typing",
+      "text": "Nu descărca ilegal filme și jocuri de pe net!"
+    },
+    {
+      "type": "typing",
+      "text": "Plagiul este prezentarea muncii altora ca fiind propria noastră muncă."
+    },
+    {
+      "type": "typing",
+      "text": "Folosește imagini cu utilizare liberă pentru lucrările tale!"
+    },
+    {
+      "type": "typing",
+      "text": "Licențele Creative Commons ajută la distribuire."
+    },
+    {
+      "type": "typing",
+      "text": "Respectă proprietatea intelectuală a altora și pe internet!"
+    },
+    {
+      "type": "typing",
+      "text": "Simbolul © se referă la protecția dreptului de autor."
+    },
+    {
+      "type": "typing",
+      "text": "Pirateria software este o activitate împotriva legii."
+    },
+    {
+      "type": "typing",
+      "text": "Un utilizator de internet conștient este atent la reglementări."
+    }
+  ]
+}

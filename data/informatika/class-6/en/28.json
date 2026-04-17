@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Programming Robots",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a robot?",
+      "options": [
+        "A remote-controlled car",
+        "A programmable machine capable of carrying out tasks automatically",
+        "A smartphone",
+        "A metal box"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which device detects the robot's environment?",
+      "options": [
+        "Motor",
+        "Sensor",
+        "Wheel",
+        "Battery"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an ultrasonic sensor used for?",
+      "options": [
+        "Recognizing colors",
+        "Measuring distance and detecting obstacles",
+        "Listening to music",
+        "Measuring temperature"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'algorithm' in terms of robotics?",
+      "options": [
+        "The robot's name",
+        "A sequence of steps to solve a task",
+        "The robot's color",
+        "A type of fuel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'loop' mean in programming?",
+      "options": [
+        "Stopping the robot",
+        "Repeating a set of instructions",
+        "Turning off the robot",
+        "The end of the program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which component is responsible for the robot's movement?",
+      "options": [
+        "Display",
+        "Actuator (e.g., motor)",
+        "Microphone",
+        "Case"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the robot's 'brain' where the program runs?",
+      "options": [
+        "Battery",
+        "Microcontroller or central unit",
+        "Wheel",
+        "Sensor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a robot do if programmed for 'line following'?",
+      "options": [
+        "Jumps over the line",
+        "Follows a specific colored (usually black) line on the ground",
+        "Erases the line",
+        "Draws a line"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which programming environment is popular in beginner robotics?",
+      "options": [
+        "Scratch or block-based programming",
+        "Only binary code",
+        "Hieroglyphs",
+        "They don't need programming"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does a 'conditional' statement mean?",
+      "options": [
+        "It always executes",
+        "It only executes if a condition is met (e.g., If it sees a wall)",
+        "It increases the robot's speed",
+        "It changes the robot's color"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which sensor helps the robot distinguish between red and blue?",
+      "options": [
+        "Heat sensor",
+        "Color or light sensor",
+        "Touch sensor",
+        "Sound sensor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What are industrial robots used for?",
+      "options": [
+        "Cooking at home",
+        "In factories, for repetitive and difficult tasks",
+        "Playing board games",
+        "Sleeping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a servomotor?",
+      "options": [
+        "A very large motor",
+        "A motor that can be rotated to a precisely controlled angle",
+        "A battery charger",
+        "The robot's leg"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'teleoperation' mean?",
+      "options": [
+        "The robot thinks for itself",
+        "Remote control of the robot by a human",
+        "The robot watches television",
+        "Disassembling the robot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who created the Three Laws of Robotics?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Asimov",
+        "Steve Jobs",
+        "Bill Gates"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an autonomous robot?",
+      "options": [
+        "Works with a remote control",
+        "Makes decisions and acts independently without external control",
+        "Only stays in one place",
+        "Is not powered"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is NOT a robot part?",
+      "options": [
+        "Gear",
+        "Processor",
+        "Software",
+        "A sandwich"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is a gyroscope sensor used for?",
+      "options": [
+        "Measuring temperature",
+        "Detecting balance and angle of tilt",
+        "Measuring brightness",
+        "Measuring water level"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'debugging' a robot mean?",
+      "options": [
+        "Painting the robot",
+        "Finding and fixing errors in the program",
+        "Selling the robot",
+        "Installing new wheels"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where are Mars Rover robots used?",
+      "options": [
+        "Under the sea",
+        "On another planet (Mars) for research",
+        "In the school cafeteria",
+        "In the garden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which software is suitable for practicing virtual robotics?",
+      "options": [
+        "Word processor",
+        "Robot simulator",
+        "Music player",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a touch sensor good for?",
+      "options": [
+        "Seeing objects",
+        "Detecting when the robot hits something",
+        "Measuring humidity",
+        "Singing the robot's name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'I/O' stand for in robotics?",
+      "options": [
+        "Yes or No",
+        "Input/Output",
+        "Start/Stop",
+        "Internet/Online"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In which area can robots help doctors?",
+      "options": [
+        "Patient transport and precision surgery",
+        "Only in cleaning",
+        "Writing prescriptions",
+        "They cannot help"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Why is teamwork important when building a robot?",
+      "options": [
+        "Because it's not allowed alone",
+        "Different skills (design, building, programming) are needed",
+        "To have more people being bored",
+        "Because the robot is heavy"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "When programming robots, we use algorithms for tasks."
+    },
+    {
+      "type": "typing",
+      "text": "Sensors allow the robot to perceive the world around it."
+    },
+    {
+      "type": "typing",
+      "text": "The ultrasonic sensor measures the distance of objects from the robot."
+    },
+    {
+      "type": "typing",
+      "text": "Motors provide the movement for the robot's arms and wheels."
+    },
+    {
+      "type": "typing",
+      "text": "Loops allow the robot to repeat instructions."
+    },
+    {
+      "type": "typing",
+      "text": "Conditional statements help the robot make decisions."
+    },
+    {
+      "type": "typing",
+      "text": "Block-based programming makes learning robotics easier."
+    },
+    {
+      "type": "typing",
+      "text": "Autonomous robots are capable of operating without human intervention."
+    },
+    {
+      "type": "typing",
+      "text": "Always test and debug your program before starting the robot."
+    },
+    {
+      "type": "typing",
+      "text": "In the future, robots will help humans in many areas."
+    }
+  ]
+}

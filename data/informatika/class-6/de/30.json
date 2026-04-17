@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Zukunft der Informatik",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist 'Künstliche Intelligenz' (KI)?",
+      "options": [
+        "Ein sehr schneller Taschenrechner",
+        "Maschinen, die menschenähnliche Intelligenz zeigen/lernen",
+        "Ein Mensch mit Computer-Gehirn",
+        "Ein neues Betriebssystem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Quantencomputer'?",
+      "options": [
+        "Ein kleiner PC",
+        "Ein Computer, der auf Quantenphysik basiert und extrem schnell ist",
+        "Ein Computer für Atome",
+        "Ein Computer aus Plastik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Virtual Reality' (VR)?",
+      "options": [
+        "Echte Welt",
+        "Vollständiges Eintauchen in eine digitale Welt (mit Brille)",
+        "Ein schöner Bildschirm",
+        "Bilder malen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Blockchain'?",
+      "options": [
+        "Ein Stapel Bücher",
+        "Dezentrale, sichere Datenbanktechnik (z.B. für Bitcoin)",
+        "Ein neues Kabel",
+        "Ein Spiel mit Blöcken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Autonomes Fahren'?",
+      "options": [
+        "Auto fährt mit Benzin",
+        "Auto fährt ohne menschlichen Fahrer",
+        "Auto ist sehr schnell",
+        "Auto hat keinen Motor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Big Data'?",
+      "options": [
+        "Ein großer Monitor",
+        "Verarbeitung riesiger, komplexer Datenmengen",
+        "Ein teurer PC",
+        "Ganz viele Festplatten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein '3D-Drucker'?",
+      "options": [
+        "Ein Drucker für 3D-Bilder",
+        "Ein Gerät, das dreidimensionale Objekte aus Material aufbaut",
+        "Ein sehr schneller Drucker",
+        "Ein Drucker für Papier"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Cloud Computing'?",
+      "options": [
+        "Rechnen im Wetter",
+        "Nutzung von IT-Ressourcen über das Internet",
+        "PC ohne Gehäuse",
+        "Ein schneller Prozessor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Biometrie'?",
+      "options": [
+        "Biologieunterricht",
+        "Erkennung von Personen anhand körperlicher Merkmale (z.B. Gesicht)",
+        "Ein Fitnessgerät",
+        "Ein neues Medikament"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Industrie 4.0'?",
+      "options": [
+        "Die vierte Fabrik",
+        "Die intelligente Vernetzung der Produktion",
+        "Ein neues Auto",
+        "Ganz viel Strom"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Green IT'?",
+      "options": [
+        "Grüne Computergehäuse",
+        "Umweltfreundliche und ressourcensparende Informationstechnik",
+        "Computer im Wald",
+        "Billige Computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Algorithmus' in sozialen Medien?",
+      "options": [
+        "Ein Rechenfehler",
+        "Ein Programm, das entscheidet, was man sieht",
+        "Ein Passwort",
+        "Ein Profilbild"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Edge Computing'?",
+      "options": [
+        "Rechnen am Rand (Datenverarbeitung nah am Entstehungsort)",
+        "Ein scharfer Computer",
+        "Rechnen in der Cloud",
+        "Ein Hardware-Defekt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Cyber-Sicherheit' (Cybersecurity)?",
+      "options": [
+        "Ein sicherer Raum",
+        "Schutz von Netzwerken und Systemen vor Angriffen",
+        "Ein Antivirus-Programm",
+        "Ein Passwort-Buch"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Singularität' in der KI-Forschung?",
+      "options": [
+        "Ein einzelner Punkt",
+        "Zeitpunkt, an dem KI klüger als Menschen wird",
+        "Ein einsamer Computer",
+        "Ein Programmierfehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Holografie'?",
+      "options": [
+        "Ein Bildfehler",
+        "Dreidimensionale Darstellung von Lichtbildern",
+        "Ein neues Papier",
+        "Ein Monitor-Schutz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Maschinelles Lernen' (Machine Learning)?",
+      "options": [
+        "Maschinen gehen zur Schule",
+        "Teilbereich der KI, bei dem Systeme aus Daten lernen",
+        "Ein neues Buch",
+        "Hardwarebau"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Kryptowährung'?",
+      "options": [
+        "Geld aus Metall",
+        "Digitales Geld auf Basis von Verschlüsselung",
+        "Ein Bankkonto",
+        "Ein falscher Schein"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Smart City'?",
+      "options": [
+        "Eine schlaue Person",
+        "Vernetzung einer ganzen Stadt zur Effizienzsteigerung",
+        "Eine Stadt ohne Autos",
+        "Eine Stadt aus Glas"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet '5G'?",
+      "options": [
+        "Fünf Gramm",
+        "Fünfte Generation des Mobilfunks (sehr schnell)",
+        "Fünf Gigabyte",
+        "Ein neues Handy"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Digitaler Zwilling'?",
+      "options": [
+        "Ein echter Bruder",
+        "Virtuelles Abbild eines physischen Objekts oder Systems",
+        "Ein zweiter Monitor",
+        "Eine Kopie einer Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Brain-Computer-Interface' (BCI)?",
+      "options": [
+        "Ein Hut",
+        "Direkte Verbindung zwischen Gehirn und Computer",
+        "Ein Kopfhörer",
+        "Ein PC-Gehäuse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Ubiquitous Computing'?",
+      "options": [
+        "Rechnen überall (Allgegenwart der Informatik)",
+        "Ein schweres Programm",
+        "Rechnen im Labor",
+        "Ein Hardware-Test"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Data Science'?",
+      "options": [
+        "Wissenschaft von den Daten (Extraktion von Wissen)",
+        "Daten löschen",
+        "Bilder malen",
+        "Programmieren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Informatik wichtig für die Zukunft?",
+      "options": [
+        "Sie löst Probleme in Medizin, Umwelt und Alltag",
+        "Damit man mehr spielen kann",
+        "Damit man reicher wird",
+        "Gibt keinen Grund"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "KI"
+    },
+    {
+      "type": "typing",
+      "text": "Quantencomputer"
+    },
+    {
+      "type": "typing",
+      "text": "Virtual Reality"
+    },
+    {
+      "type": "typing",
+      "text": "Blockchain"
+    },
+    {
+      "type": "typing",
+      "text": "autonom"
+    },
+    {
+      "type": "typing",
+      "text": "Green IT"
+    },
+    {
+      "type": "typing",
+      "text": "Big Data"
+    },
+    {
+      "type": "typing",
+      "text": "3D-Druck"
+    },
+    {
+      "type": "typing",
+      "text": "5G"
+    },
+    {
+      "type": "typing",
+      "text": "Industrie 4.0"
+    }
+  ]
+}

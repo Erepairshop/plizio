@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Online Collaboration",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does online collaboration mean?",
+      "options": [
+        "Only playing games together",
+        "Joint work of multiple people via internet",
+        "Typing next to each other",
+        "Watching a movie together"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which tool is suitable for online video calls?",
+      "options": [
+        "Excel",
+        "Zoom",
+        "Notepad",
+        "Paint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the essence of Google Docs 'Share' function?",
+      "options": [
+        "Deleting the file",
+        "Inviting others to edit or view the document",
+        "Printing the document",
+        "Encrypting the document"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which roles exist in file sharing?",
+      "options": [
+        "Viewer, Commenter, Editor",
+        "Boss, Apprentice, Guest",
+        "Writer, Reader, Deleter",
+        "Only Editor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does real-time editing mean?",
+      "options": [
+        "Everyone works at different times",
+        "Multiple people see and edit the same document at once",
+        "The document writes itself",
+        "Can only be edited during the day"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which application is NOT for group work?",
+      "options": [
+        "Microsoft Teams",
+        "Slack",
+        "Windows Minesweeper (offline)",
+        "Trello"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a digital whiteboard (e.g., Jamboard)?",
+      "options": [
+        "A physical board on the wall",
+        "Online surface that can be jointly drawn and written on",
+        "A type of monitor",
+        "Screensaver"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'commenting' in a document mean?",
+      "options": [
+        "Final rewriting of the text",
+        "Adding notes to certain parts without modifying the text",
+        "Deleting the document",
+        "Inserting an image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which platform is good for project management?",
+      "options": [
+        "Trello / Asana",
+        "Spotify",
+        "Netflix",
+        "Steam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can we signal in an online call that we want to speak?",
+      "options": [
+        "By shouting",
+        "With the 'Raise Hand' function",
+        "By shaking the computer",
+        "By covering the camera"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is Microsoft Teams for?",
+      "options": [
+        "Only for gaming",
+        "Group communication, calls, and file sharing",
+        "Image editing",
+        "Music writing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the advantage of an online calendar (e.g., Google Calendar)?",
+      "options": [
+        "Multiple people can see shared times and events",
+        "Shows the weather",
+        "Calculates homework",
+        "Measures pulse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the version history function mean?",
+      "options": [
+        "Future plans",
+        "Review and restore previous states of the document",
+        "List of saved images",
+        "List of deleted users"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of the 'Chat' function during joint work?",
+      "options": [
+        "Quick, written exchange of messages",
+        "Writing long novels",
+        "Printing images",
+        "Cooling the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a video conferencing tool?",
+      "options": [
+        "Google Meet",
+        "Adobe Reader",
+        "Calculator",
+        "Winamp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does screen sharing mean?",
+      "options": [
+        "Cutting the monitor in two",
+        "Showing your own screen to other participants",
+        "Using two monitors",
+        "Changing the wallpaper"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is it important to mute the microphone when not speaking?",
+      "options": [
+        "To save battery",
+        "To filter out background noise",
+        "Because it's forbidden to speak",
+        "To speed up the net"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a group e-mail list?",
+      "options": [
+        "Sending mail to many people at once with a single address",
+        "A secret code",
+        "Name of spam",
+        "Place for deleted messages"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "On which cloud storage can people work together?",
+      "options": [
+        "Google Drive",
+        "Floppy disk",
+        "Flash drive",
+        "CD-ROM"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does asynchronous collaboration mean?",
+      "options": [
+        "When everyone speaks at once",
+        "When participants don't work on the task at the same time",
+        "When there is no internet",
+        "When there is only one machine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call lessons/seminars held online?",
+      "options": [
+        "Webinar",
+        "Television",
+        "Cinema",
+        "Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which tool is good for brainstorming?",
+      "options": [
+        "Miro / Padlet",
+        "VLC Player",
+        "Minesweeper",
+        "Disk Cleanup"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'permission' mean in online work?",
+      "options": [
+        "Who has what rights (view, edit, etc.)",
+        "What clothes someone wears",
+        "Computer speed",
+        "Monitor brightness"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the goal of joint workflows?",
+      "options": [
+        "To confuse everyone",
+        "To increase efficiency and transparency",
+        "To consume more power",
+        "To go slower"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Avatar' mean in online collaboration spaces?",
+      "options": [
+        "A type of cable",
+        "Digital figure or image representing the user",
+        "A file format",
+        "An operating system"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Online collaboration facilitates group projects."
+    },
+    {
+      "type": "typing",
+      "text": "Shared documents can be edited by multiple people at once."
+    },
+    {
+      "type": "typing",
+      "text": "Video calls help in more personal communication."
+    },
+    {
+      "type": "typing",
+      "text": "Use comments to discuss suggestions."
+    },
+    {
+      "type": "typing",
+      "text": "Screen sharing is useful when holding presentations."
+    },
+    {
+      "type": "typing",
+      "text": "Calendar sharing helps in scheduling appointments."
+    },
+    {
+      "type": "typing",
+      "text": "Always respect others' work in shared files."
+    },
+    {
+      "type": "typing",
+      "text": "In the cloud, every modification is automatically saved."
+    },
+    {
+      "type": "typing",
+      "text": "On digital whiteboards, we can plan together visually."
+    },
+    {
+      "type": "typing",
+      "text": "Version control protects against accidental deletion of data."
+    }
+  ]
+}

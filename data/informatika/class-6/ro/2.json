@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Noțiuni de bază despre rețele",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă LAN?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Link Access Node",
+        "Low Area Network"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este sarcina unui router?",
+      "options": [
+        "Stocarea datelor",
+        "Conectarea rețelelor și rutarea",
+        "Controlul monitorului",
+        "Imprimarea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv oferă internet fără fir?",
+      "options": [
+        "Switch",
+        "Router / Access Point",
+        "Monitor",
+        "Mouse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o adresă IP?",
+      "options": [
+        "Numele unui site web",
+        "Identificatorul unic al unui dispozitiv în rețea",
+        "O extensie de fișier",
+        "Un tip de parolă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum numim rețeaua mondială?",
+      "options": [
+        "LAN",
+        "WAN (Internet)",
+        "PAN",
+        "MAN"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care tip de cablu este cel mai rapid dintre acestea?",
+      "options": [
+        "Cablu telefonic",
+        "Cablu coaxial",
+        "Fibră optică",
+        "Cablu UTP"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care este sarcina unui browser?",
+      "options": [
+        "Scrierea scrisorilor",
+        "Afișarea paginilor web",
+        "Antivirus",
+        "Editare de imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă Wi-Fi?",
+      "options": [
+        "Conexiune prin cablu",
+        "Tehnologie de rețea fără fir",
+        "Un format de fișier",
+        "Un sistem de operare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un server?",
+      "options": [
+        "O tastatură simplă",
+        "Un computer gazdă care oferă servicii",
+        "Un laptop mic",
+        "Un tip de monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă lățimea de bandă?",
+      "options": [
+        "Lățimea monitorului",
+        "Cantitatea de date transferată prin rețea pe unitatea de timp",
+        "Lungimea tastaturii",
+        "Culoarea cablului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un program de browser?",
+      "options": [
+        "Excel",
+        "Google Chrome",
+        "Photoshop",
+        "Notepad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un firewall?",
+      "options": [
+        "Răcește computerul",
+        "Protejează rețeaua de atacuri externe",
+        "Lustruiește monitorul",
+        "Accelerează internetul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un URL?",
+      "options": [
+        "Un tip de imagine",
+        "O adresă de site web",
+        "Un cod secret",
+        "O dimensiune de fișier"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă HTTP?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Tech Transfer Program",
+        "Home Tool Task Power",
+        "Hyper Task Tool Process"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv conectează computerele într-o rețea locală?",
+      "options": [
+        "Scanner",
+        "Switch",
+        "Webcam",
+        "Difuzor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este sarcina unei plăci de rețea?",
+      "options": [
+        "Stocarea imaginilor",
+        "Permite computerului să se conecteze la rețea",
+        "Redarea muzicii",
+        "Efectuarea calculelor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă descărcare (download)?",
+      "options": [
+        "Trimiterea datelor către server",
+        "Primirea datelor de la server pe propriul computer",
+        "Ștergerea unui fișier",
+        "Oprirea computerului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă încărcare (upload)?",
+      "options": [
+        "Trimiterea datelor de pe propriul computer către un server",
+        "Primirea datelor",
+        "Închiderea unui program",
+        "Salvarea unei capturi de ecran"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care NU este o topologie de rețea?",
+      "options": [
+        "Stea",
+        "Inel",
+        "Pătrat",
+        "Bus"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un nume de domeniu?",
+      "options": [
+        "Numele unei persoane",
+        "Numele ușor de reținut al unui site web",
+        "Numele unui dosar",
+        "O parolă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce conector folosește un cablu UTP?",
+      "options": [
+        "USB",
+        "RJ-45",
+        "HDMI",
+        "VGA"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un intranet?",
+      "options": [
+        "Rețea mondială",
+        "Rețea internă, închisă în cadrul unei organizații",
+        "Un tip de cablu",
+        "Un joc online"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este sarcina unui modem?",
+      "options": [
+        "Imprimarea imaginilor",
+        "Convertirea semnalelor digitale în analogice și invers",
+        "Scrierea textului",
+        "Controlul volumului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă Ethernet?",
+      "options": [
+        "Tehnologie de rețea prin cablu",
+        "Un browser de internet",
+        "Un sistem de operare",
+        "O stocare în cloud"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cea mai sigură criptare Wi-Fi?",
+      "options": [
+        "WEP",
+        "WPA2/WPA3",
+        "Open",
+        "Fără parolă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Rețelele sunt sisteme de computere interconectate."
+    },
+    {
+      "type": "typing",
+      "text": "Rețelele locale sunt numite LAN-uri."
+    },
+    {
+      "type": "typing",
+      "text": "Adresa IP identifică computerul pe internet."
+    },
+    {
+      "type": "typing",
+      "text": "Routerul direcționează traficul de date între rețele."
+    },
+    {
+      "type": "typing",
+      "text": "Fibra optică transmite date folosind semnale luminoase."
+    },
+    {
+      "type": "typing",
+      "text": "Wi-Fi permite conexiunea fără cabluri."
+    },
+    {
+      "type": "typing",
+      "text": "Serverele sunt întotdeauna disponibile clienților."
+    },
+    {
+      "type": "typing",
+      "text": "Lățimea de bandă determină viteza internetului."
+    },
+    {
+      "type": "typing",
+      "text": "Vizualizăm paginile web folosind un browser."
+    },
+    {
+      "type": "typing",
+      "text": "Protejați rețeaua cu o parolă puternică și un firewall."
+    }
+  ]
+}

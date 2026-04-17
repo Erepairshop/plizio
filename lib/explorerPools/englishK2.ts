@@ -527,7 +527,7 @@ export const VERB_LABELS: Record<string, Record<string, string>> = {
     t14_title: "Helping Verbs",
     t14_text: "Helping verbs help the main verb! Words like 'can', 'will', and 'should' are helping verbs.",
     t14_inst: "Sort the helping verbs and action verbs!",
-    t14_h1: "Can you 'will'? No! It's a helping verb.",
+    t14_h1: "'Will' and 'can' help the main verb — they cannot stand alone.",
     t14_h2: "'will' and 'can' are helping verbs.",
     t14_b14_1: "Helping Verb", t14_b14_2: "Action Verb",
     t14_i14_1: "will", t14_i14_2: "can", t14_i14_3: "jump", t14_i14_4: "run",
@@ -704,7 +704,7 @@ export const ADJ_LABELS: Record<string, Record<string, string>> = {
 
     // T7 - Comparative (taller) - Medium
     t7_title: "Adding '-er'",
-    t7_text: "If a tree is tall, a building is tall-er. We use '-er' for comparing two nouns.",
+    t7_text: "If a tree is tall, a building is tall-er. We use '-er' when comparing two things.",
     t7_inst: "Match the word to its '-er' form!",
     t7_h1: "Find the word with '-er' at the end.",
     t7_h2: "Match tall with taller.",
@@ -972,8 +972,8 @@ export const SENTENCE2_LABELS: Record<string, Record<string, string>> = {
     t10_text: "A sentence fragment is missing a part. 'Runs to the park' is a fragment because we don't know WHO is running!",
     t10_inst: "Match the fragment to make a complete sentence!",
     t10_h1: "Give each action a subject.",
-    t10_h2: "The dog -> barks loud.",
-    t10_ml10_1: "The dog", t10_mr10_1: "barks loud.",
+    t10_h2: "The dog -> barks loudly.",
+    t10_ml10_1: "The dog", t10_mr10_1: "barks loudly.",
     t10_ml10_2: "My mom", t10_mr10_2: "drives a car.",
     t10_ml10_3: "The bird", t10_mr10_3: "sings a song.",
 
@@ -1614,7 +1614,7 @@ export const MEANING_LABELS: Record<string, Record<string, string>> = {
 
     // T2 - Synonyms: fast/quick (Easy)
     t2_title: "More Synonyms",
-    t2_text: "If you run fast, you run quick! Using synonyms makes your sentences more interesting.",
+    t2_text: "If you run fast, you run quickly! Using synonyms makes your sentences more interesting.",
     t2_inst: "Shoot the synonym for 'fast'!",
     t2_h1: "Which word means the same as 'fast'?",
     t2_h2: "The word is 'quick'.",

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Animationen und Übergänge",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist der Unterschied zwischen einem Übergang und einer Animation?",
+      "options": [
+        "Kein Unterschied",
+        "Übergang ist zwischen Folien, Animation ist für Objekte auf einer Folie",
+        "Animation ist zwischen Folien, Übergang für Objekte",
+        "Nur Übergänge haben Sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In welcher Registerkarte stellt man den Effekt für den Folienwechsel ein?",
+      "options": [
+        "Animationen",
+        "Übergänge",
+        "Einfügen",
+        "Entwurf"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In welcher Registerkarte lässt man Bilder oder Text auf der Folie bewegen?",
+      "options": [
+        "Übergänge",
+        "Animationen",
+        "Ansicht",
+        "Start"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche vier Arten von Animationen gibt es in PowerPoint?",
+      "options": [
+        "Eingang, Betonung, Ausgang, Animationspfade",
+        "Langsam, Schnell, Mittel, Sofort",
+        "Farbe, Schrift, Größe, Sound",
+        "Start, Mitte, Ende, Löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Eingangsanimation'?",
+      "options": [
+        "Das Objekt verlässt die Folie",
+        "Das Objekt erscheint mit einem Effekt auf der Folie",
+        "Das Objekt ändert die Farbe",
+        "Die Präsentation startet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Ausgangsanimation'?",
+      "options": [
+        "Das Objekt erscheint",
+        "Das Objekt verschwindet mit einem Effekt von der Folie",
+        "Das Programm schließt",
+        "Das Objekt dreht sich"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man eine Animation während der Präsentation starten?",
+      "options": [
+        "Beim Klicken, Mit Vorherigen oder Nach Vorherigen",
+        "Durch Befehl-Eingabe",
+        "Nur mit Sound",
+        "Automatisch beim Speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Animationsbereich'?",
+      "options": [
+        "Ort für die Folienreihenfolge",
+        "Ein Fenster, das alle Animationen der Folie und ihr Timing auflistet",
+        "Ein Fenster zur Farbwahl",
+        "Das Hilfe-Fenster"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Dauer' (Duration) bei einer Animation?",
+      "options": [
+        "Die Distanz der Bewegung",
+        "Wie lange der Animationseffekt dauert",
+        "Wann die Animation startet",
+        "Wie oft sie wiederholt wird"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Verzögerung' (Delay) bei einer Animation?",
+      "options": [
+        "Wartezeit bis zum Start der Animation",
+        "Geschwindigkeit der Bewegung",
+        "Farbe des Objekts",
+        "Die Animation fällt aus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Betonungsanimation'?",
+      "options": [
+        "Objekt erscheint",
+        "Objekt verschwindet",
+        "Objekt auf der Folie ändert sich (z. B. drehen oder wachsen)",
+        "Neue Folie erscheint"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Für alle übernehmen' bei Übergängen?",
+      "options": [
+        "Animiert alle Objekte",
+        "Nutzt den gleichen Übergang für jede Folie der Präsentation",
+        "Löscht die Präsentation",
+        "Wirkt nur auf Folie 1"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man einem Folienübergang einen Sound hinzufügen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur für Animationen",
+        "Nur wenn kein Text da ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Animationspfad'?",
+      "options": [
+        "Ein Ordner auf dem PC",
+        "Eine bestimmte Route, der ein Objekt auf der Folie folgt",
+        "Die Gesamtlänge der Präsentation",
+        "Der Abstand zwischen Folien"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man die Reihenfolge von Animationen ändern?",
+      "options": [
+        "Im Animationsbereich die Reihenfolge verschieben",
+        "Durch Löschen und Neuerstellen",
+        "PC neu starten",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Start beim Klicken'?",
+      "options": [
+        "Startet von allein",
+        "Startet nur bei Mausklick oder Tastendruck",
+        "Startet nie",
+        "Präsentation endet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Start nach Vorherigen'?",
+      "options": [
+        "Startet automatisch, wenn das Ereignis davor endet",
+        "Startet gleichzeitig mit dem davor",
+        "Wartet auf Klick",
+        "Spielt rückwärts ab"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Start mit Vorherigen'?",
+      "options": [
+        "Startet zur gleichen Zeit wie das Ereignis davor",
+        "Startet nach dem davor",
+        "Animation wird gelöscht",
+        "Zwei Folien wechseln zugleich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist ein Übergangseffekt?",
+      "options": [
+        "Verblassen",
+        "Einfliegen",
+        "Rotieren",
+        "Vergrößern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie entfernt man eine Animation?",
+      "options": [
+        "Objekt löschen",
+        "Im Animationsbereich markieren und Entf drücken",
+        "Monitor aus",
+        "Nur durch neue Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Effektoptionen'?",
+      "options": [
+        "Zusatzeinstellungen wie die Bewegungsrichtung",
+        "Textfarbe",
+        "Schriftart",
+        "Dateigröße"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Animation übertragen'-Pinsel?",
+      "options": [
+        "Kopiert Animationen von einem Objekt auf ein anderes",
+        "Zum Ausmalen von Bildern",
+        "Zum Kopieren von Folien",
+        "Ein Virus"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lässt man Folien nach ein paar Sekunden automatisch weiterlaufen?",
+      "options": [
+        "Register Übergänge -> Anzeigedauer -> Haken bei 'Nach' und Zeit setzen",
+        "Taste gedrückt halten",
+        "Geht nicht",
+        "Nur wenn Video da ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe steht meistens für Eingangsanimationen?",
+      "options": [
+        "Grün",
+        "Gelb",
+        "Rot",
+        "Blau"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe steht meistens für Ausgangsanimationen?",
+      "options": [
+        "Grün",
+        "Gelb",
+        "Rot",
+        "Blau"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Übergang"
+    },
+    {
+      "type": "typing",
+      "text": "Animation"
+    },
+    {
+      "type": "typing",
+      "text": "gelb"
+    },
+    {
+      "type": "typing",
+      "text": "Animationsbereich"
+    },
+    {
+      "type": "typing",
+      "text": "Übertragen"
+    },
+    {
+      "type": "typing",
+      "text": "beim Klicken"
+    },
+    {
+      "type": "typing",
+      "text": "Animationspfad"
+    },
+    {
+      "type": "typing",
+      "text": "Eingang"
+    },
+    {
+      "type": "typing",
+      "text": "Ausgang"
+    },
+    {
+      "type": "typing",
+      "text": "Dauer"
+    }
+  ]
+}

@@ -245,7 +245,13 @@ function generateWavePropertiesTyping(lang = "en", seed = 0): CurriculumTyping[]
       "wave_properties",
       q4("Was ist eine Welle?", "What is a wave?", "Mi az a hullám?", "Ce este o undă?", lang),
       [
-        q4("Eine Störung, die sich durch ein Medium oder Vakuum ausbreitet und Energie überträgt", "A disturbance that travels through medium/vacuum, transferring energy", "Egy zavar, amely közegben vagy vákuumban terjed és energiát továbbít", "O perturbare care se propagă printr-un mediu sau vid, transferând energie", lang),
+        q4(
+          "Eine Störung, die sich durch ein Medium ausbreitet und Energie überträgt (Licht auch im Vakuum)",
+          "A disturbance that travels through a medium and transfers energy (light can also travel through vacuum)",
+          "Egy zavar, amely közegben terjed és energiát továbbít (a fény vákuumban is terjedhet)",
+          "O perturbare care se propagă printr-un mediu și transferă energie (lumina se poate propaga și în vid)",
+          lang
+        ),
       ]
     )
   );
@@ -520,7 +526,13 @@ function generateWaveTypesTyping(lang = "en", seed = 0): CurriculumTyping[] {
       "wave_types",
       q4("Unterschied Lichtwelle und Schallwelle?", "Difference light and sound waves?", "Különbség fényhullám és hanghullám között?", "Diferență între undele luminoase și undele sonore?", lang),
       [
-        q4("Licht: EM-Welle, keine Medium, ~3×10⁸ m/s; Schall: Longitudinal, benötigt Medium, ~340 m/s Luft", "Light: EM wave, no medium needed, ~3×10⁸ m/s; Sound: longitudinal, needs medium, ~340 m/s in air", "Fény: EM-hullám, nincs közeg, ~3×10⁸ m/s; Hang: hosszanti, közeg kell, ~340 m/s levegőben", "Lumină: undă EM, nu are nevoie de mediu, ~3×10⁸ m/s; Sunet: longitudinal, mediu necesar, ~340 m/s în aer", lang),
+        q4(
+          "Licht: EM-Welle, kein Medium nötig, ~3×10⁸ m/s; Schall: Longitudinalwelle, benötigt ein Medium, ~340 m/s in Luft",
+          "Light: EM wave, no medium needed, ~3×10⁸ m/s; Sound: longitudinal wave, needs a medium, ~340 m/s in air",
+          "Fény: EM-hullám, nincs közeg, ~3×10⁸ m/s; Hang: hosszanti hullám, közeg kell, ~340 m/s levegőben",
+          "Lumină: undă EM, nu are nevoie de mediu, ~3×10⁸ m/s; Sunet: undă longitudinală, mediu necesar, ~340 m/s în aer",
+          lang
+        ),
       ]
     )
   );
@@ -529,9 +541,21 @@ function generateWaveTypesTyping(lang = "en", seed = 0): CurriculumTyping[] {
     createTyping(
       "waves_sound",
       "wave_types",
-      q4("Warum kann Schall im Vakuum nicht ausbreiten?", "Why can't sound travel in vacuum?", "Miért nem terjedhet a hang vákuumban?", "De ce nu poate sunetul se propaga în vid?", lang),
+      q4(
+        "Warum kann sich Schall im Vakuum nicht ausbreiten?",
+        "Why can't sound travel in vacuum?",
+        "Miért nem terjedhet a hang vákuumban?",
+        "De ce nu poate sunetul să se propage în vid?",
+        lang
+      ),
       [
-        q4("Schall ist eine Longitudinalwelle und benötigt Teilchen (Medium), die sich hin- und herbewegen können", "Sound is longitudinal wave, needs particles (medium) to oscillate", "A hang hosszanti hullám és részecskéket (közegeket) igényel az oszcilláláshoz", "Sunetul este undă longitudinală și are nevoie de particule (mediu) pentru a oscila", lang),
+        q4(
+          "Schall ist eine Longitudinalwelle und benötigt Teilchen (ein Medium), die schwingen können",
+          "Sound is a longitudinal wave and needs particles (a medium) to oscillate",
+          "A hang hosszanti hullám, és részecskékre (közegre) van szüksége, amelyek rezeghetnek",
+          "Sunetul este o undă longitudinală și are nevoie de particule (un mediu) care să oscileze",
+          lang
+        ),
       ]
     )
   );

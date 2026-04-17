@@ -80,23 +80,23 @@ const WORDS_WITH_VOWELS = {
   e: ["egér", "eper", "erdő", "eső", "edény"],
   é: ["élet", "él", "éj", "éhes", "érzés"],
   i: ["iskola", "ikon", "idő", "igaz", "ilyen"],
-  í: ["ír", "ívás", "illetve", "íj"],
+  í: ["ír", "ív", "íjász", "íj"],
   o: ["olló", "orca", "oroszlán", "oka", "otthon"],
-  ó: ["óra", "ól", "ót", "óvodai"],
-  ö: ["öt", "ön", "ömlik", "öltözet"],
-  ő: ["őz", "őri", "őrangyal"],
-  u: ["utca", "uszoda", "urlop", "úr"],
+  ó: ["óra", "ól", "óvoda", "ólom"],
+  ö: ["öt", "ökör", "öböl", "öltözet"],
+  ő: ["őz", "őr", "ősz", "őzike"],
+  u: ["utca", "uszoda", "unoka", "ugor"],
   ú: ["úszni", "út", "úti", "úrnő"],
   ü: ["üdül", "ügy", "ütem", "üveg"],
-  ű: ["űr", "üzenet"]
+  ű: ["űr", "fűrész", "tűz", "bűn"]
 };
 
-const CONSONANT_WORDS = ["ball", "cica", "daru", "fák", "gólya", "ház", "játék", "kapu", "létra", "maci", "nyírfa", "pók", "rák", "sunyi", "tűz", "vízcsap", "zsiraf"];
-const CONSONANT_START = { b: "ball", c: "cica", d: "daru", f: "fák", g: "gólya", h: "ház", j: "játék", k: "kapu", l: "létra", m: "maci", n: "nyírfa", p: "pók", r: "rák", s: "sunyi", t: "tűz", v: "vízcsap", z: "zsiraf" };
+const CONSONANT_WORDS = ["baba", "cica", "daru", "fák", "gólya", "ház", "játék", "kapu", "létra", "maci", "nyírfa", "pók", "rák", "sunyi", "tűz", "vízcsap", "zsiraf"];
+const CONSONANT_START = { b: "baba", c: "cica", d: "daru", f: "fák", g: "gólya", h: "ház", j: "játék", k: "kapu", l: "létra", m: "maci", n: "nyírfa", p: "pók", r: "rák", s: "sunyi", t: "tűz", v: "vízcsap", z: "zsiraf" };
 
 const ALPHABET = "aábcdeéfghijíjkklmnoóöőpqrststuúüűvwxyz".split("");
 const ALPHABET_WORDS = {
-  a: "alma", b: "ball", c: "cica", d: "daru", e: "egér", f: "fák", g: "gólya", h: "ház",
+  a: "alma", b: "baba", c: "cica", d: "daru", e: "egér", f: "fák", g: "gólya", h: "ház",
   i: "iskola", j: "játék", k: "kapu", l: "létra", m: "maci", n: "nyírfa", o: "olló", p: "pók",
   q: "quia", r: "rák", s: "sunyi", t: "tűz", u: "utca", v: "vízcsap", w: "williams", x: "xilofon",
   y: "yardstick", z: "zsiraf"
@@ -118,9 +118,9 @@ const SYLLABLE_WORDS = [
 
 const J_LY_WORDS = [
   { word: "játék", correct: "j" }, { word: "járda", correct: "j" }, { word: "jó", correct: "j" },
-  { word: "járni", correct: "j" }, { word: "jégkenyó", correct: "j" }, { word: "lyuk", correct: "ly" },
-  { word: "lya", correct: "ly" }, { word: "mély", correct: "ly" }, { word: "gólya", correct: "ly" },
-  { word: "szály", correct: "ly" }, { word: "király", correct: "ly" }, { word: "nyájbeli", correct: "ly" },
+  { word: "járni", correct: "j" }, { word: "jégcsap", correct: "j" }, { word: "lyuk", correct: "ly" },
+  { word: "folyó", correct: "ly" }, { word: "mély", correct: "ly" }, { word: "gólya", correct: "ly" },
+  { word: "pulyka", correct: "ly" }, { word: "király", correct: "ly" }, { word: "völgy", correct: "gy" },
 ];
 
 const NOUNS = ["kutya", "macska", "ló", "tehén", "tyúk", "kacsa", "liba", "disznó", "bárány", "kecske", "asztal", "szék", "ágy", "ajtó", "ablak", "könyv", "ceruza", "radír", "toll", "füzet", "alma", "körte", "banán", "szamóca", "eper"];
@@ -128,13 +128,13 @@ const NOUN_CONTEXT = [
   { noun: "kutya", context: "A kutya ugat. Mi az a kutya?" },
   { noun: "macska", context: "A macska nyávog. Mi az a macska?" },
   { noun: "asztal", context: "Az asztal erős. Mi az az asztal?" },
-  { noun: "könyv", context: "Az könyv érdekes. Mi az a könyv?" }
+  { noun: "könyv", context: "A könyv érdekes. Mi az a könyv?" }
 ];
 
 const VERBS = ["fut", "eszik", "alszik", "olvas", "játszik", "ír", "rajzol", "úszik", "ugat", "nyávog", "nyel", "tölt", "ír", "mond", "néz", "hallgat"];
 const VERB_CONTEXT = [
   { verb: "fut", context: "A gyerek gyorsan fut." },
-  { verb: "eszik", context: "A kutya eteti magát." },
+  { verb: "eszik", context: "A kutya eszik." },
   { verb: "alszik", context: "A baba aluszik." }
 ];
 
@@ -175,17 +175,17 @@ const COLOR_ASSOCIATION = [
   { color: "zöld", item: "fű" },
   { color: "sárga", item: "banán" },
   { color: "fehér", item: "hó" },
-  { color: "fekete", item: "szénszor" },
+  { color: "fekete", item: "szén" },
   { color: "narancssárga", item: "narancs" }
 ];
 
 const FAMILY = [
-  { relative: "édesanya", relation: "az apám szülője" },
-  { relative: "édesapa", relation: "az anyám szülője" },
-  { relative: "nagymama", relation: "az apám anyja" },
-  { relative: "nagypapa", relation: "az apám apja" },
-  { relative: "húg", relation: "a lánytestvérem" },
-  { relative: "öcs", relation: "a fiútestvérem" }
+  { relative: "édesanya", relation: "az anyám" },
+  { relative: "édesapa", relation: "az apám" },
+  { relative: "nagymama", relation: "az apám vagy anyám anyja" },
+  { relative: "nagypapa", relation: "az apám vagy anyám apja" },
+  { relative: "húg", relation: "a fiatalabb lánytestvérem" },
+  { relative: "öcs", relation: "a fiatalabb fiútestvérem" }
 ];
 
 const BODY_PARTS = ["fej", "szem", "fül", "orr", "száj", "kéz", "láb", "has", "hát", "térd", "ujj", "lábujj", "szív", "tüdő", "agy"];
@@ -260,7 +260,7 @@ export function generateMassalhangzok(seed?: number): CurriculumMCQ[] {
         "Melyik mássalhangzó?", correct, wrong));
     } else if (type === 1) {
       // "Mivel kezdődik a szó?"
-      const words = ["alma", "ball", "cica", "daru", "egér", "fák", "gólya", "ház", "igaz", "játék"];
+      const words = ["alma", "baba", "cica", "daru", "egér", "fák", "gólya", "ház", "igaz", "játék"];
       const word = pick(words, rng);
       const correct = word[0];
       const wrong = pick(HUNGARIAN_CONSONANTS, rng);
@@ -622,7 +622,7 @@ export function generateNagybetu(seed?: number): CurriculumMCQ[] {
     } else {
       // "Miért kell nagybetű?"
       const correct = "Mert mondat kezdete / tulajdonnév";
-      const wrong = ["Mert nehéz szó", "Mert hosszú", "Mert siker"];
+      const wrong = ["Mert nehéz szó", "Mert hosszú", "Mert fontos szó"];
       q.push(createMCQ("mondatok", "nagybetu",
         `Miért kell nagybetű a mondat elején?`, correct, wrong));
     }
@@ -687,7 +687,7 @@ export function generateSzinek(seed?: number): CurriculumMCQ[] {
         .slice(0, 3)
         .map(a => a.item);
       q.push(createMCQ("szokincs", "szinek",
-        `Mi ${color} szín?`, correct, wrong.length > 0 ? wrong : ["valami"]));
+        `Mi a ${color} színű dolog?`, correct, wrong.length > 0 ? wrong : ["valami"]));
     }
   }
 
@@ -900,7 +900,6 @@ export function generateNapszakok(seed?: number): CurriculumMCQ[] {
       q.push(createMCQ("szokincs", "napszakok",
         "Melyik napszak?", correct, wrong));
     } else if (type === 1) {
-      // "Mikor veszel reggelizünk?"
       const correct = "reggel";
       const wrong = ["este", "éjszaka", "dél"];
       q.push(createMCQ("szokincs", "napszakok",
@@ -922,7 +921,7 @@ export function generateNapszakok(seed?: number): CurriculumMCQ[] {
 
 const CLOTHING = [
   "nadrág", "póló", "cipő", "sapka", "kabát", "kesztyű", "sál", "csizma",
-  "ruhagyak", "zokni", "mellény", "kalap"
+  "ruha", "zokni", "mellény", "kalap"
 ];
 
 export function generateRuhazat(seed?: number): CurriculumMCQ[] {
@@ -934,9 +933,9 @@ export function generateRuhazat(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // "Melyik ruhaadat?"
       const correct = pick(CLOTHING, rng);
-      const wrong = ["kutya", "almafá", "szék", "könyv"];
+      const wrong = ["kutya", "almafa", "szék", "könyv"];
       q.push(createMCQ("szokincs", "ruhazat",
-        "Melyik ruhádat?", correct, wrong));
+        "Melyik ruhadarab?", correct, wrong));
     } else if (type === 1) {
       // "Mit viselsz a lábadra?"
       const correct = pick(["cipő", "csizma", "zokni"], rng);
@@ -1027,7 +1026,7 @@ export function generateKozlekedes(seed?: number): CurriculumMCQ[] {
     } else {
       // "Mivel utazunk a városban?"
       const correct = pick(["autó", "busz", "bicikli"], rng);
-      const wrong = ["almafá", "szék", "könyv"];
+      const wrong = ["almafa", "szék", "könyv"];
       q.push(createMCQ("szokincs", "kozlekedes",
         "Mivel utazunk a városban?", correct, wrong));
     }
@@ -1149,7 +1148,7 @@ export function generateKicsinyitokepozo(seed?: number): CurriculumMCQ[] {
       // "Kicsinyítő képző-e?"
       const data = pick(DIMINUTIVE_WORDS, rng);
       q.push(createMCQ("szavak", "kicsinyitokepozo",
-        `Hasznal-e kicsinyítő képzőt a "${data.diminutive}" szó?`,
+        `Használ-e kicsinyítő képzőt a "${data.diminutive}" szó?`,
         "igen", ["nem", "talán"]));
     }
   }
@@ -1177,7 +1176,7 @@ export function generateHangutanzo(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // "Melyik hangutánzó szó?"
       const correct = pick(ONOMATOPOEIA.map(o => o.word), rng);
-      const wrong = ["futás", "almafá", "szék"];
+      const wrong = ["futás", "almafa", "szék"];
       q.push(createMCQ("szavak", "hangutanzo",
         "Melyik hangutánzó szó?", correct, wrong));
     } else if (type === 1) {

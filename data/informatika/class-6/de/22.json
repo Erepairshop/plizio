@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Nutzung von mobilen Apps",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'App'?",
+      "options": [
+        "Eine Abkürzung für Applikation (Anwendungsprogramm)",
+        "Ein spezielles Handy",
+        "Ein Ladegerät",
+        "Ein Klingelton"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Betriebssystem ist auf den meisten Smartphones (außer Apple) installiert?",
+      "options": [
+        "iOS",
+        "Android",
+        "Windows",
+        "Linux"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie heißt das Betriebssystem von Apple-Geräten?",
+      "options": [
+        "macOS",
+        "iOS",
+        "Android",
+        "WatchOS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Woher bezieht man Apps für Android-Geräte sicher?",
+      "options": [
+        "Google Play Store",
+        "Per E-Mail",
+        "Von unbekannten Webseiten",
+        "Gibt es nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Woher bezieht man Apps für das iPhone?",
+      "options": [
+        "Apple App Store",
+        "Microsoft Store",
+        "Amazon",
+        "Play Store"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'In-App-Käufe'?",
+      "options": [
+        "Käufe im Supermarkt",
+        "Zusätzliche Kosten innerhalb einer meist kostenlosen App",
+        "Käufe von neuen Handys",
+        "Gebrauchte Apps"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Berechtigungen' bei einer App?",
+      "options": [
+        "Wie teuer die App ist",
+        "Worauf die App zugreifen darf (z.B. Kamera, Kontakte)",
+        "Der Name des Entwicklers",
+        "Die Farbe der App"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man App-Updates installieren?",
+      "options": [
+        "Um Speicher zu füllen",
+        "Für neue Funktionen und Sicherheitsverbesserungen",
+        "Um das Handy langsamer zu machen",
+        "Nur bei Fehlern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Cloud-Synchronisierung' bei Apps?",
+      "options": [
+        "Daten werden online gespeichert und sind auf anderen Geräten verfügbar",
+        "Das Handy wird nass",
+        "Apps werden gelöscht",
+        "Wettervorhersage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Native App'?",
+      "options": [
+        "Eine App, die speziell für ein Betriebssystem entwickelt wurde",
+        "Eine App aus der Natur",
+        "Eine sehr alte App",
+        "Eine Web-App"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Web-App'?",
+      "options": [
+        "Eine App, die im Browser läuft",
+        "Eine App für Spinnen",
+        "Eine App ohne Internet",
+        "Ein Hardware-Teil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Push-Benachrichtigung'?",
+      "options": [
+        "Das Handy vibriert beim Drücken",
+        "Nachrichten, die eine App direkt auf den Sperrbildschirm sendet",
+        "Das Handy wird ausgeschaltet",
+        "Ein Klingelton wird gelöscht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Roaming'?",
+      "options": [
+        "Handy aufladen",
+        "Nutzung des Mobilfunks im Ausland",
+        "Spiele spielen",
+        "Apps löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht 'QR' in QR-Code?",
+      "options": [
+        "Quick Response",
+        "Quality Result",
+        "Question Round",
+        "Quick Read"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Flugmodus'?",
+      "options": [
+        "Handy kann fliegen",
+        "Alle Funkverbindungen werden deaktiviert",
+        "Man kann nur Spiele spielen",
+        "Das Handy wird schneller"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man den Akkuverbrauch einer App senken?",
+      "options": [
+        "Hintergrundaktualisierung deaktivieren",
+        "Mehr Apps öffnen",
+        "Helligkeit auf Maximum",
+        "WLAN immer an"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Cache' bei einer App?",
+      "options": [
+        "Bargeld",
+        "Zwischenspeicher für Daten zur schnelleren Anzeige",
+        "Ein Geheimpfwort",
+        "Ein Hardware-Defekt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Zwei-Faktor-Authentifizierung' (2FA)?",
+      "options": [
+        "Zwei Passwörter",
+        "Passwort + zweiter Faktor (z.B. Code per SMS)",
+        "Zwei Personen nutzen das Handy",
+        "Ein sehr langes Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'NFC'?",
+      "options": [
+        "Near Field Communication (für kontaktloses Bezahlen)",
+        "No Fast Charge",
+        "Network File Center",
+        "New Folder Create"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche App dient meist zur Kommunikation?",
+      "options": [
+        "Calculator",
+        "WhatsApp",
+        "Clock",
+        "Settings"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Beta-Version'?",
+      "options": [
+        "Eine fertige App",
+        "Eine Testversion zum Ausprobieren von neuen Funktionen",
+        "Eine App für Fische",
+        "Eine teure App"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Sideloading'?",
+      "options": [
+        "Handy auf die Seite legen",
+        "Installieren von Apps aus Quellen außerhalb der offiziellen Stores",
+        "Laden über Kabel",
+        "Apps löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Augmented Reality' (AR) in Apps?",
+      "options": [
+        "Nur Virtual Reality",
+        "Einblendung digitaler Infos in das Kamerabild",
+        "Schwarz-Weiß-Bilder",
+        "Kein Internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Widget'?",
+      "options": [
+        "Ein kleiner Helfer auf dem Startbildschirm",
+        "Ein Teil des Akkus",
+        "Ein spezielles Kabel",
+        "Ein Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist ein Passwort für den Sperrbildschirm wichtig?",
+      "options": [
+        "Damit es schöner aussieht",
+        "Zum Schutz persönlicher Daten bei Verlust",
+        "Damit das Handy nicht ausgeht",
+        "Ist nicht wichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "App"
+    },
+    {
+      "type": "typing",
+      "text": "Android"
+    },
+    {
+      "type": "typing",
+      "text": "iOS"
+    },
+    {
+      "type": "typing",
+      "text": "Play Store"
+    },
+    {
+      "type": "typing",
+      "text": "App Store"
+    },
+    {
+      "type": "typing",
+      "text": "Push"
+    },
+    {
+      "type": "typing",
+      "text": "Roaming"
+    },
+    {
+      "type": "typing",
+      "text": "NFC"
+    },
+    {
+      "type": "typing",
+      "text": "Berechtigung"
+    },
+    {
+      "type": "typing",
+      "text": "In-App"
+    }
+  ]
+}

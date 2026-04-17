@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Sisteme de operare",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Care este sarcina principală a unui sistem de operare?",
+      "options": [
+        "Jucând jocuri",
+        "Gestionarea hardware și software",
+        "Imprimarea fotografiilor",
+        "Prepararea cafelei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un sistem de operare faimos pentru computere?",
+      "options": [
+        "Android",
+        "Ferestre",
+        "iOS",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sistem de operare este realizat de Apple pentru computerele Mac?",
+      "options": [
+        "Ferestre",
+        "macOS",
+        "Linux",
+        "ChromeOS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un sistem de operare mobil popular?",
+      "options": [
+        "Windows 95",
+        "Android",
+        "Microsoft Word",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Desktop”?",
+      "options": [
+        "Partea superioară a unui birou fizic",
+        "Ecranul principal al sistemului de operare",
+        "Spatele monitorului",
+        "Un tip de imprimantă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Bara de activități” în Windows?",
+      "options": [
+        "Un loc pentru stocarea fișierelor",
+        "O bară care arată programele deschise și meniul Start",
+        "O bară pentru defilare",
+        "O parte a tastaturii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosit „Meniul Start”?",
+      "options": [
+        "Oprirea calculatorului",
+        "Accesarea programelor și setărilor",
+        "Tastarea unei litere",
+        "Desen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „tapet”?",
+      "options": [
+        "Imaginea de fundal de pe desktop",
+        "O hârtie fizică pe perete",
+        "Un tip de protecție pentru ecran",
+        "O eroare de calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „Repornire”?",
+      "options": [
+        "Cumpărând cizme noi",
+        "Repornirea computerului",
+        "Oprim-o pentru totdeauna",
+        "Curățarea tastaturii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Multitasking”?",
+      "options": [
+        "Folosind câte un program",
+        "Rularea mai multor programe în același timp",
+        "Având mai multe mouse-uri",
+        "Folosind computerul în întuneric"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un sistem de operare gratuit și open-source?",
+      "options": [
+        "Ferestre",
+        "macOS",
+        "Linux",
+        "iOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „Cont de utilizator”?",
+      "options": [
+        "Un cont bancar",
+        "Un spațiu personal pentru un utilizator pe un computer",
+        "Un tip de monitor",
+        "Un magazin de calculatoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Autentificare”?",
+      "options": [
+        "Tăierea lemnului",
+        "Introducerea unui nume de utilizator și a unei parole pentru a utiliza computerul",
+        "Oprirea monitorului",
+        "Imprimarea unui fișier"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde ajung mai întâi fișierele șterse în Windows?",
+      "options": [
+        "Internet",
+        "Coș de reciclare",
+        "RAM",
+        "Documentele mele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce se utilizează „Panou de control” sau „Setări”?",
+      "options": [
+        "Redând muzică",
+        "Modificarea configurației computerului",
+        "Desenând imagini",
+        "Răsfoind știri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „Driver” în informatică?",
+      "options": [
+        "O persoană care conduce o mașină",
+        "Software care spune sistemului de operare cum să folosească hardware-ul",
+        "Un tip de monitor",
+        "O tastă de la tastatură"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sistem de operare este adesea folosit pe iPhone-uri?",
+      "options": [
+        "Android",
+        "iOS",
+        "Ferestre",
+        "Linux"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosit „File Explorer”?",
+      "options": [
+        "Navigarea pe web",
+        "Gestionarea fișierelor și folderelor",
+        "Editarea fotografiilor",
+        "Jucând jocuri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Închidere”?",
+      "options": [
+        "Închiderea unei cărți",
+        "Oprirea corectă a computerului",
+        "Oprirea doar a ecranului",
+        "Deconectarea alimentării"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce se întâmplă în modul „Sleep”?",
+      "options": [
+        "Computerul se oprește complet",
+        "Computerul folosește putere redusă și rămâne pregătit",
+        "Computerul redă muzică",
+        "Computerul șterge fișiere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „comandă rapidă”?",
+      "options": [
+        "Un cablu mai scurt",
+        "O pictogramă care indică un fișier sau un program",
+        "O tastatură mică",
+        "Un mouse rapid"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „Fereastră” într-un sistem de operare?",
+      "options": [
+        "Un pahar în cameră",
+        "O zonă dreptunghiulară care arată un program",
+        "Un tip de ecran",
+        "O eroare de calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „GUI”?",
+      "options": [
+        "Interfață grafică utilizator",
+        "Intrare generală a unității",
+        "Pictogramă mare utilizator",
+        "Indicele de mare utilitate"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea NU este un sistem de operare?",
+      "options": [
+        "Linux",
+        "Ferestre",
+        "Căutare Google",
+        "macOS"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „kernelul”?",
+      "options": [
+        "Un tip de floricele",
+        "Partea centrală a unui sistem de operare",
+        "O carcasă de calculator",
+        "Un tip de monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Sistemul de operare gestionează întregul computer."
+    },
+    {
+      "type": "typing",
+      "text": "Windows este un sistem de operare foarte popular."
+    },
+    {
+      "type": "typing",
+      "text": "Android și iOS sunt folosite pe dispozitivele mobile."
+    },
+    {
+      "type": "typing",
+      "text": "Desktopul este spațiul dvs. principal de lucru pe ecran."
+    },
+    {
+      "type": "typing",
+      "text": "Utilizați bara de activități pentru a comuta între programele deschise."
+    },
+    {
+      "type": "typing",
+      "text": "Coșul de reciclare stochează temporar fișierele șterse."
+    },
+    {
+      "type": "typing",
+      "text": "Închideți întotdeauna computerul în mod corespunzător."
+    },
+    {
+      "type": "typing",
+      "text": "Un cont de utilizator vă păstrează fișierele private."
+    },
+    {
+      "type": "typing",
+      "text": "Setările vă permit să vă schimbați imaginea de fundal."
+    },
+    {
+      "type": "typing",
+      "text": "Linux este un sistem gratuit și open-source."
+    }
+  ]
+}

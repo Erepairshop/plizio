@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Căutarea informațiilor și credibilitatea",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Este tot ce citim pe internet adevărat?",
+      "options": [
+        "Da, întotdeauna",
+        "Doar dacă are multe like-uri",
+        "Nu, oricine poate încărca orice",
+        "Doar ce spune Google"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'critica sursei'?",
+      "options": [
+        "Criticarea altora",
+        "Verificarea credibilității informației",
+        "Repararea calculatorului",
+        "Tastarea rapidă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care site este cel mai de încredere pentru o știre școlară?",
+      "options": [
+        "Un blog anonim",
+        "Site-ul oficial al școlii",
+        "O postare amuzantă pe Facebook",
+        "Un videoclip TikTok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este 'fake news'?",
+      "options": [
+        "Știri rapide",
+        "Știri false menite să inducă în eroare",
+        "Știri străine",
+        "Știri gratuite"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți verifica dacă o știre este adevărată?",
+      "options": [
+        "Îți întrebi pisica",
+        "Verifici în mai multe alte surse",
+        "O citești încă o dată",
+        "O trimiți tuturor prietenilor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dată este importantă pentru un articol?",
+      "options": [
+        "Ziua ta de naștere",
+        "Data publicării articolului",
+        "Data de mâine",
+        "Data nu este importantă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cine este autorul?",
+      "options": [
+        "Persoana care citește articolul",
+        "Persoana care a scris articolul",
+        "Persoana care a cumpărat calculatorul",
+        "Persoana care repară internetul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este important să știi cine a scris articolul?",
+      "options": [
+        "Pentru a ști dacă se pricepe la subiect",
+        "Pentru a-i vedea fotografia",
+        "Pentru a-i ști adresa",
+        "Nu este important"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care extensie de site se referă adesea la un organ guvernamental?",
+      "options": [
+        ".com",
+        ".ro",
+        ".gov",
+        ".xyz"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă Wikipedia?",
+      "options": [
+        "O enciclopedie infailibilă",
+        "O enciclopedie editată de comunitate",
+        "Un site de socializare",
+        "Un joc online"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să folosești Wikipedia ca singură sursă?",
+      "options": [
+        "Da, este întotdeauna perfectă",
+        "Nu, merită verificat și în altă parte",
+        "Doar la temele de mate",
+        "Doar în weekend"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poate fi recunoscut un site web suspect?",
+      "options": [
+        "Multe greșeli de ortografie și reclame",
+        "Culoarea este frumoasă",
+        "Sunt multe imagini",
+        "Se încarcă rapid"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă un site spune că ai câștigat un iPhone?",
+      "options": [
+        "Îți dai imediat adresa",
+        "Închizi pagina, deoarece este probabil o fraudă",
+        "Te bucuri și aștepți",
+        "Trimiți datele cardului bancar"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este titlul 'clickbait'?",
+      "options": [
+        "Un titlu foarte plictisitor",
+        "Un titlu exagerat, care atrage atenția, dar adesea păcălește",
+        "Un titlu scurt",
+        "Un titlu într-o limbă străină"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care sursă este cea mai credibilă pentru un eveniment istoric?",
+      "options": [
+        "O carte de istorie sau site-ul unui muzeu",
+        "Un comentariu pe YouTube",
+        "O memă",
+        "O bârfa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'obiectivitate'?",
+      "options": [
+        "Sunt multe obiecte în imagine",
+        "Imparțialitate, lipsă de părtinire",
+        "Viteză",
+        "Mulți bani"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește nota de subsol într-un articol?",
+      "options": [
+        "Se scrie mărimea la pantofi",
+        "Se marchează sursele utilizate",
+        "Pentru decorare",
+        "Pentru reclame"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum putem verifica o imagine?",
+      "options": [
+        "O imprimăm",
+        "Folosim căutarea inversă de imagini",
+        "O privim cu lupa",
+        "Redenumim fișierul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă numele de domeniu?",
+      "options": [
+        "Numele calculatorului",
+        "Adresa de identificare a site-ului web",
+        "Numele proprietarului",
+        "Un program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum este o sursă care este 'părtinitoare'?",
+      "options": [
+        "Foarte deșteaptă",
+        "Prezintă doar unul dintre punctele de vedere",
+        "Îi iubește pe toți",
+        "Nu funcționează"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care iconiță este văzută pe site-urile de încredere ca semn de securitate?",
+      "options": [
+        "Un X roșu",
+        "O iconiță de lacăt în bara de adrese",
+        "O față zâmbitoare",
+        "Un schelet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Câte surse diferite merită comparate?",
+      "options": [
+        "Una e de ajuns",
+        "Cel puțin două-trei",
+        "O sută",
+        "Niciuna"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este importantă ortografia pe un site serios?",
+      "options": [
+        "Pentru că e mai frumos",
+        "Indică seriozitate și credibilitate",
+        "Pentru a fi mai greu de citit",
+        "Nu este importantă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'conținut sponsorizat'?",
+      "options": [
+        "Cadou gratuit",
+        "Publicitate plătită care poate părea un articol",
+        "Mesaj secret",
+        "Material educațional"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să facem dacă avem dubii despre o știre?",
+      "options": [
+        "O credem",
+        "Întrebăm un adult sau un profesor",
+        "Ștergem internetul",
+        "Nu ne ocupăm de ea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Oricine poate publica orice informație pe internet."
+    },
+    {
+      "type": "typing",
+      "text": "Verifică întotdeauna sursa și credibilitatea știrilor!"
+    },
+    {
+      "type": "typing",
+      "text": "Scopul știrilor false este adesea dezinformarea."
+    },
+    {
+      "type": "typing",
+      "text": "Articolele Wikipedia pot fi editate de oricine pe internet."
+    },
+    {
+      "type": "typing",
+      "text": "Iconița de lacăt din browser indică o conexiune sigură."
+    },
+    {
+      "type": "typing",
+      "text": "Critica sursei ajută la recunoașterea informațiilor false."
+    },
+    {
+      "type": "typing",
+      "text": "Nu crede tot ce vezi pe rețelele de socializare!"
+    },
+    {
+      "type": "typing",
+      "text": "Site-urile științifice sunt de obicei surse mai de încredere."
+    },
+    {
+      "type": "typing",
+      "text": "Data știrii este importantă pentru verificarea actualității."
+    },
+    {
+      "type": "typing",
+      "text": "Întreabă un profesor dacă găsești un site suspect!"
+    }
+  ]
+}

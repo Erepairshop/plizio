@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Peripheriegeräte",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was sind Peripheriegeräte?",
+      "options": [
+        "Nur interne Teile",
+        "An den Computer angeschlossene externe Geräte",
+        "Arten von Software",
+        "Internetkabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist ein „Eingabegerät“?",
+      "options": [
+        "Überwachen",
+        "Drucker",
+        "Tastatur",
+        "Sprecher"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist ein „Ausgabe“-Gerät?",
+      "options": [
+        "Maus",
+        "Scanner",
+        "Überwachen",
+        "Mikrofon"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Hauptzweck einer Maus?",
+      "options": [
+        "Tippen",
+        "Zeigen und Klicken auf den Bildschirm",
+        "Drucken",
+        "Musik hören"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird eine Tastatur verwendet?",
+      "options": [
+        "Fotos scannen",
+        "Eingeben von Texten und Befehlen",
+        "Videos werden angezeigt",
+        "Den Computer bewegen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Scanner?",
+      "options": [
+        "Druckt Text auf Papier",
+        "Konvertiert Papierdokumente in digitale Dateien",
+        "Spielt Töne ab",
+        "Zeigt Bilder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein Drucker verwendet?",
+      "options": [
+        "Fotografieren",
+        "Digitale Texte oder Bilder auf Papier bringen",
+        "Bewegen des Cursors",
+        "Dateien speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem ​​Peripheriegerät können Sie Ton hören?",
+      "options": [
+        "Überwachen",
+        "Sprecher",
+        "Tastatur",
+        "Webcam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird eine Webcam verwendet?",
+      "options": [
+        "Drucken",
+        "Video aufnehmen und Fotos machen",
+        "Tippen",
+        "Scannen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein Mikrofon verwendet?",
+      "options": [
+        "Bilder werden angezeigt",
+        "Aufnehmen oder Senden von Sprache und Ton",
+        "Anklicken der Schaltflächen",
+        "Drucken von Dokumenten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist sowohl ein Eingabe- als auch ein Ausgabegerät?",
+      "options": [
+        "Touchscreen",
+        "Standardmaus",
+        "Standardtastatur",
+        "Einfache Lautsprecher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Monitor“?",
+      "options": [
+        "Ein Gerät, das",
+        "druckt Ein Bildschirm, der visuelle Informationen",
+        "anzeigt Ein Gerät zum Eingeben von",
+        "Ein Speicherteil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Projektor“?",
+      "options": [
+        "Ein kleiner Bildschirm",
+        "Ein Gerät, das das Bildschirmbild an einer Wand anzeigt",
+        "Ein Druckertyp",
+        "Eine Art Scanner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo schließen Sie die meisten modernen Peripheriegeräte an?",
+      "options": [
+        "Steckdose",
+        "USB-Anschluss",
+        "Diskettenlaufwerk",
+        "CD-Fach"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein „Joystick“ häufig verwendet?",
+      "options": [
+        "Tippen",
+        "Spiele spielen",
+        "Drucken",
+        "Scannen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird eine „externe Festplatte“ verwendet?",
+      "options": [
+        "Bilder werden angezeigt",
+        "Zusätzlicher Datenspeicher",
+        "Drucken",
+        "Tonaufnahme"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet „DPI“ normalerweise für eine Maus oder einen Drucker?",
+      "options": [
+        "Das Gewicht",
+        "Die Auflösung oder Empfindlichkeit",
+        "Die Farbe",
+        "Der Preis"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Peripheriegerät wird für einen Videoanruf benötigt?",
+      "options": [
+        "Drucker",
+        "Webcam",
+        "Scanner",
+        "Festplatte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Headset“?",
+      "options": [
+        "Eine Art Hut",
+        "Eine Kombination aus Kopfhörer und Mikrofon",
+        "Eine Displayschutzfolie",
+        "Ein Mauspad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein „Grafiktablett“ verwendet?",
+      "options": [
+        "Bücher lesen",
+        "Zeichnung und digitale Kunst",
+        "Fotos drucken",
+        "Musik spielen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist KEIN Peripheriegerät?",
+      "options": [
+        "Tastatur",
+        "CPU",
+        "Drucker",
+        "Scanner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird „Bluetooth“ verwendet?",
+      "options": [
+        "Den Bildschirm blau machen",
+        "Geräte drahtlos verbinden",
+        "Reinigen des Computers",
+        "Drucken in Farbe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein „Barcode-Scanner“ verwendet?",
+      "options": [
+        "Zeichnung",
+        "Produktcodes in Geschäften lesen",
+        "Buchstaben eingeben",
+        "Videos abspielen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem ​​Gerät wird ein Papierfoto in einen Computer eingegeben?",
+      "options": [
+        "Drucker",
+        "Scanner",
+        "Überwachen",
+        "Sprecher"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Plotter“?",
+      "options": [
+        "Eine kleine Maus",
+        "Ein Großdrucker für technische Zeichnungen",
+        "Eine Art Tastatur",
+        "Ein Gamecontroller"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Peripheriegeräte sind Geräte, die an den Computer angeschlossen sind."
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur und Maus sind Eingabegeräte."
+    },
+    {
+      "type": "typing",
+      "text": "Monitor und Drucker sind Ausgabegeräte."
+    },
+    {
+      "type": "typing",
+      "text": "Mit einer Webcam können andere Sie während eines Videoanrufs sehen."
+    },
+    {
+      "type": "typing",
+      "text": "Mit Lautsprechern können Sie Musik und Geräusche hören."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Scanner wandelt Papierfotos in digitale Dateien um."
+    },
+    {
+      "type": "typing",
+      "text": "Über USB-Anschlüsse werden zahlreiche Peripheriegeräte angeschlossen."
+    },
+    {
+      "type": "typing",
+      "text": "Touchscreens fungieren sowohl als Eingabe als auch als Ausgabe."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Drucker bringt Ihre digitale Arbeit auf Papier."
+    },
+    {
+      "type": "typing",
+      "text": "Drahtlose Mäuse stellen über Bluetooth eine Verbindung zum Computer her."
+    }
+  ]
+}

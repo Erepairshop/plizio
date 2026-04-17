@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@theme {
+:root {
   --color-bg: #0A0A1A;
   --color-card: #12122A;
   --color-neon-pink: #FF2D78;

@@ -26,7 +26,7 @@ export const INFO_K7_I6_LABELS: Record<string, Record<string, string>> = {
   t2_inst: { de: "Fülle die Lücke aus.", en: "Fill in the blank.", hu: "Töltsd ki a hiányzó részt.", ro: "Completează spațiul liber." },
   t2_h1: { de: "Der Parameter steht in den Klammern", en: "The parameter goes inside the parentheses", hu: "A paraméter a zárójelbe kerül", ro: "Parametrul se află în paranteze" },
   t2_h2: { de: "Er wird im Funktionskörper genutzt", en: "It is used in the function body", hu: "A függvény törzsében használják", ro: "Este utilizat în corpul funcției" },
-  t2_sent: { de: "def greet(___): print('Hallo', ___)", en: "def greet(___): print('Hello', ___)", hu: "def udvozol(___): print('Helló', ___)", ro: "def salut(___): print('Buna', ___)" },
+  t2_sent: { de: "def greet(___): print('Hallo', ___)", en: "def greet(___): print('Hello', ___)", hu: "def udvozol(___): print('Helló', ___)", ro: "def salut(___): print('Bună', ___)" },
   t2_qa2: { de: "name", en: "name", hu: "nev", ro: "nume" },
   t2_qb2: { de: "print", en: "print", hu: "print", ro: "print" },
   t2_qc2: { de: "def", en: "def", hu: "def", ro: "def" },

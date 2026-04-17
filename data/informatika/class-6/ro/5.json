@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Colaborare online",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă colaborarea online?",
+      "options": [
+        "Doar jucatul jocurilor împreună",
+        "Munca comună a mai multor persoane prin internet",
+        "Scrisul unul lângă altul",
+        "Vizionarea unui film împreună"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care instrument este potrivit pentru apeluri video online?",
+      "options": [
+        "Excel",
+        "Zoom",
+        "Notepad",
+        "Paint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este esența funcției 'Share' din Google Docs?",
+      "options": [
+        "Ștergerea fișierului",
+        "Invitarea altora să editeze sau să vizualizeze documentul",
+        "Imprimarea documentului",
+        "Criptarea documentului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce roluri există la partajarea fișierelor?",
+      "options": [
+        "Vizualizator, Comentator, Editor",
+        "Șef, Ucenic, Oaspete",
+        "Scriitor, Cititor, Ștergător",
+        "Doar Editor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă editarea în timp real?",
+      "options": [
+        "Toată lumea lucrează la ore diferite",
+        "Mai mulți oameni văd și editează același document deodată",
+        "Documentul se scrie singur",
+        "Poate fi editat doar ziua"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care aplicație NU este pentru munca în grup?",
+      "options": [
+        "Microsoft Teams",
+        "Slack",
+        "Minesweeper Windows (offline)",
+        "Trello"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o tablă digitală (ex. Jamboard)?",
+      "options": [
+        "O tablă fizică pe perete",
+        "Suprafață online pe care se poate desena și scrie în comun",
+        "Un tip de monitor",
+        "Screensaver"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'comentarea' într-un document?",
+      "options": [
+        "Rescrierea finală a textului",
+        "Adăugarea de note la anumite părți fără a modifica textul",
+        "Ștergerea documentului",
+        "Inserarea unei imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care platformă este bună pentru managementul proiectelor?",
+      "options": [
+        "Trello / Asana",
+        "Spotify",
+        "Netflix",
+        "Steam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum putem semnala într-un apel online că vrem să vorbim?",
+      "options": [
+        "Prin strigăte",
+        "Cu funcția 'Raise Hand'",
+        "Prin scuturarea computerului",
+        "Prin acoperirea camerei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este Microsoft Teams?",
+      "options": [
+        "Doar pentru jocuri",
+        "Comunicare în grup, apeluri și partajare de fișiere",
+        "Editare de imagini",
+        "Scriere de muzică"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este avantajul unui calendar online (ex. Google Calendar)?",
+      "options": [
+        "Mai mulți oameni pot vedea orele și evenimentele comune",
+        "Arată vremea",
+        "Calculează temele",
+        "Măsoară pulsul"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă funcția istoric versiuni?",
+      "options": [
+        "Planuri de viitor",
+        "Revizuirea și restaurarea stărilor anterioare ale documentului",
+        "Lista imaginilor salvate",
+        "Lista utilizatorilor șterși"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul funcției 'Chat' în timpul muncii comune?",
+      "options": [
+        "Schimb rapid de mesaje scrise",
+        "Scrierea de romane lungi",
+        "Imprimarea imaginilor",
+        "Răcirea computerului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un instrument de videoconferință?",
+      "options": [
+        "Google Meet",
+        "Adobe Reader",
+        "Calculator",
+        "Winamp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă partajarea ecranului?",
+      "options": [
+        "Tăierea monitorului în două",
+        "Arătarea propriului ecran celorlalți participanți",
+        "Folosirea a două monitoare",
+        "Schimbarea tapetului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este important să oprești microfonul când nu vorbești?",
+      "options": [
+        "Pentru a economisi bateria",
+        "Pentru a filtra zgomotul de fundal",
+        "Pentru că este interzis să vorbești",
+        "Pentru a accelera netul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o listă de e-mail de grup?",
+      "options": [
+        "Trimiterea de mail-uri multor persoane deodată cu o singură adresă",
+        "Un cod secret",
+        "Numele spam-ului",
+        "Loc pentru mesaje șterse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pe care stocare cloud pot lucra oamenii împreună?",
+      "options": [
+        "Google Drive",
+        "Dischetă",
+        "Stick de memorie",
+        "CD-ROM"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă colaborarea asincronă?",
+      "options": [
+        "Când toată lumea vorbește deodată",
+        "Când participanții nu lucrează la sarcină în același timp",
+        "Când nu există internet",
+        "Când există doar un aparat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum numim lecțiile/seminariile ținute online?",
+      "options": [
+        "Webinar",
+        "Televiziune",
+        "Cinema",
+        "Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care instrument este bun pentru brainstorming?",
+      "options": [
+        "Miro / Padlet",
+        "VLC Player",
+        "Minesweeper",
+        "Disk Cleanup"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'permisiune' în munca online?",
+      "options": [
+        "Cine ce drepturi are (vizualizare, editare, etc.)",
+        "Ce haine poartă cineva",
+        "Viteza computerului",
+        "Luminozitatea monitorului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul fluxurilor de lucru comune?",
+      "options": [
+        "Să-i zăpăcească pe toți",
+        "Să crească eficiența și transparența",
+        "Să consume mai mult curent",
+        "Să meargă mai lent"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Avatar' în spațiile de colaborare online?",
+      "options": [
+        "Un tip de cablu",
+        "Figură sau imagine digitală care reprezintă utilizatorul",
+        "Un format de fișier",
+        "Un sistem de operare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Colaborarea online facilitează proiectele de grup."
+    },
+    {
+      "type": "typing",
+      "text": "Documentele partajate pot fi editate de mai multe persoane deodată."
+    },
+    {
+      "type": "typing",
+      "text": "Apelurile video ajută la o comunicare mai personală."
+    },
+    {
+      "type": "typing",
+      "text": "Folosiți comentariile pentru a discuta sugestiile."
+    },
+    {
+      "type": "typing",
+      "text": "Partajarea ecranului este utilă la susținerea prezentărilor."
+    },
+    {
+      "type": "typing",
+      "text": "Partajarea calendarului ajută la programarea întâlnirilor."
+    },
+    {
+      "type": "typing",
+      "text": "Respectați întotdeauna munca celorlalți în fișierele partajate."
+    },
+    {
+      "type": "typing",
+      "text": "În cloud, fiecare modificare este salvată automat."
+    },
+    {
+      "type": "typing",
+      "text": "Pe tablele digitale putem planifica împreună vizual."
+    },
+    {
+      "type": "typing",
+      "text": "Controlul versiunilor protejează împotriva ștergerii accidentale a datelor."
+    }
+  ]
+}

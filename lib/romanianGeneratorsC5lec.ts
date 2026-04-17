@@ -86,11 +86,11 @@ export function gen_intentie_autor_c5(seed: number = 42): CurriculumQuestion[] {
       "sentimente"),
 
     createTyping(T, S,
-      "Care este intențiile unui text artistic emoțional?",
+      "Care este intenția unui text artistic emoțional?",
       "emoție"),
 
     createTyping(T, S,
-      "Pe ce perspective este scris un text narativ?",
+      "Din ce perspectivă este scris un text narativ?",
       "persoana"),
 
     createTyping(T, S,

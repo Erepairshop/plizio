@@ -62,7 +62,7 @@ const VERERBUNG_QUESTIONS = [
   { q: "Was ist ein rezessives Allel?", c: "Ein Allel, das sich nur im homozygoten Zustand zeigt", w: ["Ein Allel vom Vater", "Ein häufiges Allel", "Ein Allel, das verschwindet"] },
   { q: "Was ist der Unterschied zwischen Genotyp und Phänotyp?", c: "Genotyp: genetischer Aufbau; Phänotyp: Erscheinungsbild", w: ["Genotyp ist sichtbar; Phänotyp ist verborgen", "Sie sind identisch", "Genotyp ist nur beim Mann vorhanden"] },
   { q: "Welcher Prozess trennt die Allele bei der Vererbung?", c: "Meiose", w: ["Mitose", "Fertilisation", "Differenzierung"] },
-  { q: "Was ist eine heterozygote Genotyp?", c: "Zwei verschiedene Allele für ein Gen", w: ["Zwei gleiche Allele", "Nur ein Allel", "Ein mutiertes Allel"] },
+  { q: "Was ist ein heterozygoter Genotyp?", c: "Zwei verschiedene Allele für ein Gen", w: ["Zwei gleiche Allele", "Nur ein Allel", "Ein mutiertes Allel"] },
 ];
 
 const MUTATION_QUESTIONS = [
@@ -80,7 +80,7 @@ const GENETISCHE_TECHNIK_QUESTIONS = [
   { q: "Was ist Genklonen?", c: "Herstellung eines genetisch identischen Organismus", w: ["Kopieren eines Fotos", "Verschiebung von Genen", "Umkehrung der DNA"] },
   { q: "Wer entdeckte die DNA-Struktur?", c: "Watson und Crick (mit Franklin und Wilkins)", w: ["Mendel", "Darwin", "Pasteur"] },
   { q: "Welche Technik wird zur Gensequenzierung verwendet?", c: "DNA-Sequenzierung (z.B. Sanger oder Next-Gen)", w: ["Elektrophorese nur", "PCR allein", "Mikroskopie"] },
-  { q: "Was ist eine transgene Organismus?", c: "Organismus mit eingefügtem Gen aus anderer Art", w: ["Mutierter Organismus", "Geklonter Organismus", "Aussterbender Organismus"] },
+  { q: "Was ist ein transgener Organismus?", c: "Organismus mit eingefügtem Gen aus anderer Art", w: ["Mutierter Organismus", "Geklonter Organismus", "Aussterbender Organismus"] },
 ];
 
 const ENDOKRINE_DRUESEN_QUESTIONS = [
@@ -89,7 +89,7 @@ const ENDOKRINE_DRUESEN_QUESTIONS = [
   { q: "Was produziert die Hypophyse?", c: "Mehrere Hormone (FSH, LH, ADH, etc.)", w: ["Nur Insulin", "Nur Thyroxin", "Nur Adrenalin"] },
   { q: "Welche Funktion hat die Bauchspeicheldrüse?", c: "Produktion von Insulin und Glucagon", w: ["Nur Verdauungsenzyme", "Nur Hormonproduktion", "Nur Urinproduktion"] },
   { q: "Was ist eine endokrine Drüse?", c: "Drüse, die Hormone direkt in die Blutbahn abgibt", w: ["Drüse mit Ausführungsgang", "Drüse in der Haut", "Lymphdrüse"] },
-  { q: "Welche Hormon erhöht die Herzfrequenz?", c: "Adrenalin (Epinephrin)", w: ["Insulin", "Thyroxin", "Melatonin"] },
+  { q: "Welches Hormon erhöht die Herzfrequenz?", c: "Adrenalin (Epinephrin)", w: ["Insulin", "Thyroxin", "Melatonin"] },
 ];
 
 const HORMON_QUESTIONS = [
@@ -98,7 +98,7 @@ const HORMON_QUESTIONS = [
   { q: "Was ist die Rolle von Oxytocin?", c: "Verursacht Uteruskontraktionen bei Geburt", w: ["Reguliert Blutzucker", "Steuert Schlaf-Wach-Rhythmus", "Regelt Körpertemperatur"] },
   { q: "Wie schnell wirken Hormone?", c: "Minuten bis Stunden", w: ["Sekunden", "Tage", "Wochen"] },
   { q: "Was ist die Funktion von Melatonin?", c: "Reguliert Schlaf-Wach-Rhythmus", w: ["Reguliert Blutzucker", "Steuert Stressreaktion", "Kontrolliert Herzschlag"] },
-  { q: "Welches Hormon reguliert den Wassersalt-Haushalt?", c: "ADH (Antidiuretisches Hormon)", w: ["Insulin", "Adrenalin", "Melatonin"] },
+  { q: "Welches Hormon reguliert den Wasser-Salz-Haushalt?", c: "ADH (Antidiuretisches Hormon)", w: ["Insulin", "Adrenalin", "Melatonin"] },
 ];
 
 const FEEDBACK_QUESTIONS = [
@@ -121,8 +121,8 @@ const GAMETOGENESE_QUESTIONS = [
 
 const BEFRUCHTUNG_QUESTIONS = [
   { q: "Was ist Befruchtung?", c: "Vereinigung von Spermium und Eizelle", w: ["Implantation in die Gebärmutter", "Geburt des Kindes", "Produktion von Spermien"] },
-  { q: "Wo findet Befruchtung statt?", c: "In den Eileiter (Ovidukt)", w: ["In der Gebärmutter", "In den Eierstöcken", "In der Vagina"] },
-  { q: "Was ist die Zona Pellucida?", c: "Schutzhülle um die Eizelle", w: ["Ein Hormon", "Eine Blutgefäß", "Ein Chromosom"] },
+  { q: "Wo findet Befruchtung statt?", c: "Im Eileiter (Ovidukt)", w: ["In der Gebärmutter", "In den Eierstöcken", "In der Vagina"] },
+  { q: "Was ist die Zona Pellucida?", c: "Schutzhülle um die Eizelle", w: ["Ein Hormon", "Ein Blutgefäß", "Ein Chromosom"] },
   { q: "Was verhindert, dass mehrere Spermien eindringen?", c: "Cortical Reaction (Blockade der Zona)", w: ["Das Hormon Progesteron", "Die Vagina", "Der Gebärmutterhals"] },
   { q: "Wie lange dauert die Implantation nach Befruchtung?", c: "6-12 Tage", w: ["1 Tag", "3 Wochen", "2 Monate"] },
   { q: "Wie heißt die befruchtete Eizelle?", c: "Zygote", w: ["Oozyte", "Morula", "Blastula"] },
@@ -194,19 +194,19 @@ const HOMEOSTASIS_QUESTIONS = [
 const STOFFWECHSEL_QUESTIONS = [
   { q: "Was ist Katabolismus?", c: "Abbau von Stoffen mit Energiefreisetzung", w: ["Aufbau von Stoffen", "Speicherung von Stoffen", "Transport von Stoffen"] },
   { q: "Was ist Anabolismus?", c: "Aufbau von Stoffen mit Energieverbrauch", w: ["Abbau von Stoffen", "Lagerung von Energie", "Verlust von Energie"] },
-  { q: "Was ist aerobe Respiration?", c: "Stoffwechsel mit Sauerstoff (großer ATP-Ertrag)", w: ["Ohne Sauerstoff", "Nur Gärung", "Nur Fermentation"] },
-  { q: "Was ist anaerobe Respiration?", c: "Stoffwechsel ohne Sauerstoff (weniger ATP)", w: ["Mit Sauerstoff", "Sehr effizient", "Natürlich"] },
+  { q: "Was ist aerobe Zellatmung?", c: "Stoffwechsel mit Sauerstoff (großer ATP-Ertrag)", w: ["Ohne Sauerstoff", "Nur Gärung", "Nur Fermentation"] },
+  { q: "Was ist anaerobe Zellatmung?", c: "Stoffwechsel ohne Sauerstoff (weniger ATP)", w: ["Mit Sauerstoff", "Sehr effizient", "Ohne Gärung"] },
   { q: "Wer hat schnelleren Metabolismus?", c: "Junge, aktive Menschen und kleine Tiere", w: ["Alte Menschen", "Übergewichtige", "Inaktive Menschen"] },
   { q: "Was ist Basal Metabolic Rate (BMR)?", c: "Energieverbrauch in Ruhe", w: ["Energieverbrauch beim Sport", "Verdauungsenergie", "Kalorienaufnahme"] },
 ];
 
 const POPULATIONSGENETIK_QUESTIONS = [
   { q: "Was ist ein Allel?", c: "Verschiedene Form eines Gens", w: ["Chromosom", "Protein", "Mutation"] },
-  { q: "Was ist das Hardy-Weinberg-Gleichgewicht?", c: "Zustand, wenn Allele-Frequenzen konstant bleiben ohne Evolution", w: ["Schnelle Evolution", "Selektion führt", "Mutation dominant"] },
-  { q: "Was ist genetischer Drift?", c: "Zufallsänderung der Allele-Frequenz (besonders in kleinen Populationen)", w: ["Natürliche Selektion", "Mutation", "Migration"] },
-  { q: "Wie wird Allele-Frequenz berechnet?", c: "Prozentsatz des Allels in der Population", w: ["Nur Anzahl der Individuen", "Nur dominante Allele", "Nur rezessive"] },
+  { q: "Was ist das Hardy-Weinberg-Gleichgewicht?", c: "Zustand, wenn Allelfrequenzen konstant bleiben ohne Evolution", w: ["Schnelle Allelveränderung", "Nur Selektion wirkt", "Mutation ist dominant"] },
+  { q: "Was ist genetischer Drift?", c: "Zufallsänderung der Allelfrequenz (besonders in kleinen Populationen)", w: ["Natürliche Selektion", "Mutation", "Migration"] },
+  { q: "Wie wird Allelfrequenz berechnet?", c: "Prozentsatz des Allels in der Population", w: ["Nur Anzahl der Individuen", "Nur dominante Allele", "Nur rezessive"] },
   { q: "Was sind Faktoren der Evolution?", c: "Mutation, Selektion, Drift, Migration", w: ["Nur Selektion", "Nur Mutation", "Nur Drift"] },
-  { q: "Was ist Gene Flow?", c: "Migration von Allelen zwischen Populationen", w: ["Mutation", "Selektion", "Drift"] },
+  { q: "Was ist Genfluss?", c: "Migration von Allelen zwischen Populationen", w: ["Mutation", "Selektion", "Drift"] },
 ];
 
 const ARTBILDUNG_QUESTIONS = [
@@ -230,7 +230,7 @@ const PHYLOGENIE_QUESTIONS = [
 const GENETIC_COUNSELING_QUESTIONS = [
   { q: "Was ist genetische Beratung?", c: "Beratung über genetische Risiken und Erbkrankheiten", w: ["Gentechnik-Diagnose", "Gentherapie", "Klonen-Beratung"] },
   { q: "Was ist eine Erbkrankheit?", c: "Krankheit durch abnormales Gen", w: ["Infektionskrankheit", "Umweltkrankheit", "Verletzung"] },
-  { q: "Was ist Mukoviszidose?", c: "Autosomal-rezessive Störung der Lungenherz-Funktion", w: ["Geschlechtsgebunden", "Dominant", "Nicht erblich"] },
+  { q: "Was ist Mukoviszidose?", c: "Autosomal-rezessive Erkrankung der Lunge und Bauchspeicheldrüse", w: ["Geschlechtsgebunden", "Dominant", "Nicht erblich"] },
   { q: "Was ist Bluterkrankheit (Hämophilie)?", c: "X-gekoppelte rezessive Blutgerinnungsstörung", w: ["Autosomale Dominanz", "Nicht erblich", "Nur bei Frauen"] },
   { q: "Nenne 3 erbliche Störungen", c: "Mukoviszidose, Hämophilie, Huntington, Sichelzellanämie (etc.)", w: ["Nur Infektionen", "Nur Krebs", "Nur Verletzungen"] },
   { q: "Was ist ein Pränataltest?", c: "Test auf genetische Abnormalitäten vor Geburt", w: ["Test nach Geburt", "Test im Erwachsenenalter", "Kein genetischer Test"] },
@@ -556,11 +556,11 @@ export const K8_Generators: Record<string, (seed?: number) => CurriculumQuestion
     return questions.slice(0, 30);
   },
   populationsgenetik_typing: (seed?: number) => [
-    createTyping("evolution_advanced", "populationsgenetik", "Was ist Allele?", ["Verschiedene Formen eines Gens"]),
-    createTyping("evolution_advanced", "populationsgenetik", "Was ist Hardy-Weinberg?", ["Gleichgewicht", "Konstante Allele-Frequenz"]),
+    createTyping("evolution_advanced", "populationsgenetik", "Was sind Allele?", ["Verschiedene Formen eines Gens"]),
+    createTyping("evolution_advanced", "populationsgenetik", "Was ist Hardy-Weinberg?", ["Gleichgewicht", "Konstante Allelfrequenz"]),
     createTyping("evolution_advanced", "populationsgenetik", "Was ist Genetischer Drift?", ["Zufallsänderung", "Zufällige Frequenz-Änderung"]),
-    createTyping("evolution_advanced", "populationsgenetik", "Nenne 3 Evolving Faktoren", ["Mutation, Selektion, Drift", "Mutation, Selektion, Drift, Migration"]),
-    createTyping("evolution_advanced", "populationsgenetik", "Was ist Allele Frequenz?", ["Prozent Population", "%-Anteil eines Allels"]),
+    createTyping("evolution_advanced", "populationsgenetik", "Nenne 3 Evolutionsfaktoren", ["Mutation, Selektion, Drift", "Mutation, Selektion, Drift, Migration"]),
+    createTyping("evolution_advanced", "populationsgenetik", "Was ist Allelfrequenz?", ["Prozent Population", "%-Anteil eines Allels"]),
   ],
 
   artbildung: (seed?: number) => {
@@ -609,7 +609,7 @@ export const K8_Generators: Record<string, (seed?: number) => CurriculumQuestion
   genetic_counseling_typing: (seed?: number) => [
     createTyping("genetik", "genetic_counseling", "Was ist genetische Beratung?", ["Risiko Bewertung", "Beratung über Erbkrankheiten"]),
     createTyping("genetik", "genetic_counseling", "Nenne 3 genetische Störungen", ["Mukoviszidose, Hämophilie, Huntington"]),
-    createTyping("genetik", "genetic_counseling", "Was ist Carrier Testing?", ["Träger Prüfung", "Test ob Träger"]),
+    createTyping("genetik", "genetic_counseling", "Was ist ein Trägertest?", ["Träger-Prüfung", "Test ob Träger"]),
     createTyping("genetik", "genetic_counseling", "Wer sollte Beratung erhalten?", ["Patienten, Familie", "Betroffene, Risikogruppen"]),
     createTyping("genetik", "genetic_counseling", "Was ist Pränataltest?", ["Schwangerschaft Test", "Test vor Geburt"]),
   ],

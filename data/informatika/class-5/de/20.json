@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Informationssuche und Glaubwürdigkeit",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ist alles wahr, was wir im Internet lesen?",
+      "options": [
+        "Ja, immer",
+        "Nur wenn es viele Likes hat",
+        "Nein, jeder kann alles hochladen",
+        "Nur was Google schreibt"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Quellenkritik?",
+      "options": [
+        "Andere ausschimpfen",
+        "Die Glaubwürdigkeit von Informationen prüfen",
+        "Den PC reparieren",
+        "Schnelles Tippen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Seite ist für Schulnachrichten am verlässlichsten?",
+      "options": [
+        "Ein anonymer Blog",
+        "Die offizielle Schulwebseite",
+        "Ein lustiger Facebook-Post",
+        "Ein TikTok-Video"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Fake News'?",
+      "options": [
+        "Schnelle Nachrichten",
+        "Falschmeldungen, die täuschen sollen",
+        "Auslandsnachrichten",
+        "Gratis-Nachrichten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kannst du prüfen, ob eine Nachricht wahr ist?",
+      "options": [
+        "Die Katze fragen",
+        "In mehreren anderen Quellen nachsehen",
+        "Noch einmal lesen",
+        "An alle Freunde schicken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Datum ist bei einem Artikel wichtig?",
+      "options": [
+        "Dein Geburtstag",
+        "Das Veröffentlichungsdatum",
+        "Das morgige Datum",
+        "Datum ist nicht wichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer ist der Autor?",
+      "options": [
+        "Der den Artikel liest",
+        "Der den Artikel geschrieben hat",
+        "Der den PC gekauft hat",
+        "Der das Internet repariert"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist es wichtig zu wissen, wer den Artikel schrieb?",
+      "options": [
+        "Um zu wissen, ob er Experte ist",
+        "Um sein Foto zu sehen",
+        "Um seine Adresse zu haben",
+        "Nicht wichtig"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Endung weist oft auf eine Regierungsseite hin?",
+      "options": [
+        ".com",
+        ".de",
+        ".gov",
+        ".xyz"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Wikipedia?",
+      "options": [
+        "Ein unfehlbares Lexikon",
+        "Eine von der Gemeinschaft bearbeitete Enzyklopädie",
+        "Eine Social-Media-Seite",
+        "Ein Online-Spiel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Wikipedia als einzige Quelle nutzen?",
+      "options": [
+        "Ja, das ist immer perfekt",
+        "Nein, man sollte es woanders prüfen",
+        "Nur bei Mathe-Hausaufgaben",
+        "Nur am Wochenende"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Woran erkennt man eine verdächtige Webseite?",
+      "options": [
+        "Viele Rechtschreibfehler und Werbung",
+        "Schöne Farbe",
+        "Viele Bilder",
+        "Lädt schnell"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn eine Seite sagt, du hast ein iPhone gewonnen?",
+      "options": [
+        "Sofort die Adresse angeben",
+        "Seite schließen, es ist wohl Betrug",
+        "Freuen und warten",
+        "Bankkartendaten schicken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Clickbait-Titel?",
+      "options": [
+        "Ein sehr langweiliger Titel",
+        "Ein übertriebener Titel, der oft täuscht",
+        "Ein kurzer Titel",
+        "Ein fremdsprachiger Titel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Quelle ist für ein historisches Ereignis am glaubwürdigsten?",
+      "options": [
+        "Ein Geschichtsbuch oder eine Museumsseite",
+        "Ein YouTube-Kommentar",
+        "Ein Meme",
+        "Ein Gerücht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Objektivität'?",
+      "options": [
+        "Viele Objekte im Bild",
+        "Sachlichkeit, Unvoreingenommenheit",
+        "Schnelligkeit",
+        "Viel Geld"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient eine Fußnote in einem Artikel?",
+      "options": [
+        "Schuhgröße eintragen",
+        "Genutzte Quellen angeben",
+        "Zur Zierde",
+        "Für Werbung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie können wir ein Bild prüfen?",
+      "options": [
+        "Ausdrucken",
+        "Die umgekehrte Bildsuche nutzen",
+        "Mit der Lupe ansehen",
+        "Datei umbenennen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Domain-Name?",
+      "options": [
+        "Name des PCs",
+        "Die Kennadresse der Webseite",
+        "Name des Besitzers",
+        "Ein Programm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ist eine Quelle, die 'parteiisch' ist?",
+      "options": [
+        "Sehr schlau",
+        "Zeigt nur eine Sichtweise",
+        "Liebt alle",
+        "Funktioniert nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol sieht man auf sicheren Seiten als Schutzzeichen?",
+      "options": [
+        "Ein rotes X",
+        "Ein Schloss-Symbol in der Adressleiste",
+        "Ein Smiley",
+        "Ein Skelett"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Quellen sollte man vergleichen?",
+      "options": [
+        "Eine reicht",
+        "Mindestens zwei bis drei",
+        "Hundert",
+        "Gar keine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Rechtschreibung auf einer seriösen Seite wichtig?",
+      "options": [
+        "Weil es schöner ist",
+        "Zeigt Sorgfalt und Verlässlichkeit",
+        "Damit es schwerer zu lesen ist",
+        "Nicht wichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'gesponserter Inhalt'?",
+      "options": [
+        "Gratis-Geschenk",
+        "Bezahlte Werbung, die wie ein Artikel aussieht",
+        "Geheimbotschaft",
+        "Lernmaterial"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn wir bei einer Nachricht unsicher sind?",
+      "options": [
+        "Einfach glauben",
+        "Einen Erwachsenen oder Lehrer fragen",
+        "Das Internet löschen",
+        "Ignorieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Im Internet kann jeder beliebige Informationen veröffentlichen."
+    },
+    {
+      "type": "typing",
+      "text": "Prüfe immer die Quelle und Glaubwürdigkeit von Nachrichten!"
+    },
+    {
+      "type": "typing",
+      "text": "Das Ziel von Falschmeldungen ist oft Desinformation."
+    },
+    {
+      "type": "typing",
+      "text": "Wikipedia-Artikel können von jedem im Internet bearbeitet werden."
+    },
+    {
+      "type": "typing",
+      "text": "Das Schloss-Symbol im Browser zeigt eine sichere Verbindung an."
+    },
+    {
+      "type": "typing",
+      "text": "Quellenkritik hilft dabei, falsche Informationen zu erkennen."
+    },
+    {
+      "type": "typing",
+      "text": "Glaube nicht alles, was du in sozialen Medien siehst!"
+    },
+    {
+      "type": "typing",
+      "text": "Wissenschaftliche Seiten sind meist verlässlichere Quellen."
+    },
+    {
+      "type": "typing",
+      "text": "Das Datum der Nachricht ist wichtig für die Aktualität."
+    },
+    {
+      "type": "typing",
+      "text": "Frage einen Lehrer, wenn du eine verdächtige Seite findest!"
+    }
+  ]
+}

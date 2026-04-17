@@ -255,7 +255,7 @@ export const INFO_K6_I2_LABELS: Record<string, Record<string, string>> = {
     t21_title: "Szoftver szerzői jog",
     t21_text: "A szoftverek szerzői jogi védelem alatt állnak. Licencre van szükség a legális használathoz.",
     t21_h1: "Licencek (EULA)", t21_h2: "Open Source vs. Jogvédett",
-    t21_inst: "Párosítsd a licenc típusokat!",
+    t21_inst: "Párosítsd a licenctípusokat!",
     t21_q: "Szabadon másolhatunk bármilyen szoftvert?",
     t21_qa: "Nem, csak engedéllyel", t21_qb: "Igen, mindig", t21_qc: "Csak hétvégén", t21_qd: "Csak ha drága",
     
@@ -310,7 +310,7 @@ export const INFO_K6_I2_LABELS: Record<string, Record<string, string>> = {
     
     t29_title: "Digitális kreativitás",
     t29_text: "A számítógép a kreativitás eszköze: komponálhatunk zenét, készíthetünk digitális művészetet vagy videót vághatunk.",
-    t29_h1: "Saját tartalom gyártása", t29_h2: "Kreatív eszközök",
+    t29_h1: "Saját tartalom készítése", t29_h2: "Kreatív eszközök",
     t29_inst: "Alkoss valami újat!",
     t29_q: "Mit alkothatunk kreatívan a gépen?",
     t29_qa: "Digitális művészetet", t29_qb: "Portörlést", t29_qc: "Kábelrendezést", t29_qd: "Pixelszámlálást",

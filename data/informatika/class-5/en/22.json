@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Netiquette",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does 'netiquette' mean?",
+      "options": [
+        "Internet shopping",
+        "The unwritten rules of internet behavior",
+        "A new type of computer",
+        "An internet game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to write in all capital letters on the internet?",
+      "options": [
+        "Yes, because it is more visible",
+        "No, because it is considered shouting",
+        "Only if you are very happy",
+        "Only on Mondays"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you disagree with someone on a forum?",
+      "options": [
+        "Insult them",
+        "Politely describe your opinion",
+        "Start a fight",
+        "Immediately block and badmouth them"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'troll'?",
+      "options": [
+        "A kind elf",
+        "Someone who intentionally annoys others on the net",
+        "A pro player",
+        "The computer's cooler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to post a photo of someone else without permission?",
+      "options": [
+        "Yes, if it's funny",
+        "No, you must ask for permission first",
+        "Only if they are your friend",
+        "Only if they don't see it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'flame war'?",
+      "options": [
+        "A fiery game",
+        "A series of heated, hurtful arguments on the internet",
+        "A fast internet connection",
+        "A new type of firewall"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an emoji for?",
+      "options": [
+        "Replacing letters",
+        "Helping to express emotions and the tone of the message",
+        "Slowing down typing",
+        "Decoration"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How should you greet in a formal email?",
+      "options": [
+        "Hi!",
+        "Dear Madam/Sir,",
+        "Yo!",
+        "Hey!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "When is it worth sending an angry message?",
+      "options": [
+        "Immediately, while we are nervous",
+        "Never, it is better to wait until we calm down",
+        "Only if many people see it",
+        "At midnight"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to share other people's private secrets on the net?",
+      "options": [
+        "Yes, if it's interesting",
+        "No, it's disrespectful and forbidden",
+        "Only if we do it anonymously",
+        "Only if they shared mine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you accidentally hurt someone online?",
+      "options": [
+        "Deny it",
+        "Apologize to them",
+        "Hurt them even more",
+        "Delete your profile"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is spelling important in messages?",
+      "options": [
+        "Because the teacher sees it",
+        "Helps avoid misunderstandings and shows respect",
+        "To make the message longer",
+        "It is not important"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a chain letter?",
+      "options": [
+        "A letter made of chains",
+        "A letter that must be forwarded to many people",
+        "A very heavy letter",
+        "A secret code"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why shouldn't we send chain letters?",
+      "options": [
+        "Because they are hard to type",
+        "Because they are annoying and unnecessarily burden the network",
+        "Because the internet runs out",
+        "Because the computer eats it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the most important rule on the net?",
+      "options": [
+        "Be the fastest",
+        "Treat others as you would like to be treated",
+        "Win every game",
+        "Have many followers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you see cyberbullying?",
+      "options": [
+        "Join in the mocking",
+        "Don't say anything",
+        "Tell an adult or help the victim",
+        "Like the hurtful posts"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What should we pay attention to in group conversations?",
+      "options": [
+        "Only talk about ourselves",
+        "Don't deviate too much from the topic and stay polite",
+        "Write to everyone privately too",
+        "Send many unnecessary pictures"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to make personal remarks to strangers?",
+      "options": [
+        "Yes, because they don't know you anyway",
+        "No, you are talking to people on the internet too",
+        "Only if you have a bad day",
+        "Only if they started it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'ghosting' mean?",
+      "options": [
+        "Seeing ghosts",
+        "Cutting off contact with someone on the internet without a word",
+        "Fast typing",
+        "Hiding your profile"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a good profile picture like?",
+      "options": [
+        "Any funny picture",
+        "One that doesn't reveal too much about you to strangers",
+        "Only a picture of your home",
+        "Your dog's picture (this is safest)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'tag' for?",
+      "options": [
+        "A piece of clothing",
+        "Marking someone in a picture or post",
+        "Deleting the picture",
+        "Shrinking the picture"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "When shouldn't you tag someone in a picture?",
+      "options": [
+        "If they look good in it",
+        "If you haven't asked their opinion or it's embarrassing for them",
+        "If many people see it",
+        "You are always allowed to tag"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you get too many notifications?",
+      "options": [
+        "Throw out the machine",
+        "Adjust the notification settings",
+        "Block everyone",
+        "Start crying"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'spamming' mean in a conversation?",
+      "options": [
+        "Talking about delicious food",
+        "Sending many meaningless messages in quick succession",
+        "Talking quietly",
+        "Only sending pictures"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why shouldn't we share fake news?",
+      "options": [
+        "Because they are boring",
+        "Because we misinform others and ruin our credibility",
+        "Because storage space runs out",
+        "Because we get a penalty from Google"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Netiquette is a collection of internet etiquette rules."
+    },
+    {
+      "type": "typing",
+      "text": "Do not write in all capitals, as it counts as shouting!"
+    },
+    {
+      "type": "typing",
+      "text": "Treat others with respect on the internet too!"
+    },
+    {
+      "type": "typing",
+      "text": "Ask for permission before posting a picture of anyone!"
+    },
+    {
+      "type": "typing",
+      "text": "The internet doesn't forget, think about what you write!"
+    },
+    {
+      "type": "typing",
+      "text": "Emojis help in expressing emotions."
+    },
+    {
+      "type": "typing",
+      "text": "Do not send unnecessary chain letters to your friends!"
+    },
+    {
+      "type": "typing",
+      "text": "Politeness is a basic expectation in the online world too."
+    },
+    {
+      "type": "typing",
+      "text": "If you are bullied on the net, ask for help from an adult!"
+    },
+    {
+      "type": "typing",
+      "text": "Be responsible in the digital world as well!"
+    }
+  ]
+}

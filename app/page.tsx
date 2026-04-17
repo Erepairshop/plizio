@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -95,6 +95,8 @@ const TRANSLATIONS = {
       astrogeschichte: "AstroHistory",
       physiktest: "Physics Test",
       kemiatest: "Chemistry Test",
+      astrinformatika: "AstroInformatics",
+      informatikatest: "Informatics Test",
       geographietest: "Geography Test",
       deductiongrid: "Deduction Grid",
       deductiongrid2: "Galactic Deduction",
@@ -163,6 +165,8 @@ const TRANSLATIONS = {
       astrogeschichte: "AstroTörténelem",
       physiktest: "Fizika Teszt",
       kemiatest: "Kémia Teszt",
+      astrinformatika: "AstroInformatika",
+      informatikatest: "Informatika Teszt",
       geographietest: "Földrajz Teszt",
       deductiongrid: "Dedukciós rács",
       deductiongrid2: "Galaktikus Dedukció",
@@ -231,6 +235,8 @@ const TRANSLATIONS = {
       astrogeschichte: "AstroGeschichte",
       physiktest: "Physik-Test",
       kemiatest: "Chemie-Test",
+      astrinformatika: "AstroInformatik",
+      informatikatest: "Informatik-Test",
       geographietest: "Geographie-Test",
       deductiongrid: "Deduktionsraster",
       deductiongrid2: "Galaktische Deduktion",
@@ -299,6 +305,8 @@ const TRANSLATIONS = {
       astrogeschichte: "AstroIstorie",
       physiktest: "Test de Fizică",
       kemiatest: "Test de Chimie",
+      astrinformatika: "AstroInformatică",
+      informatikatest: "Test de Informatică",
       geographietest: "Test de Geografie",
       deductiongrid: "Grilă de deducție",
       deductiongrid2: "Deducție Galactică",
@@ -612,6 +620,20 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "geschichtetest",
         color: "#F59E0B",
         gradient: "bg-gradient-to-br from-amber-500/20 to-yellow-500/20",
+      },
+      {
+        id: "astrinformatika",
+        icon: Cpu,
+        nameKey: "astrinformatika",
+        color: "#3B82F6",
+        gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
+      },
+      {
+        id: "informatikatest",
+        icon: Cpu,
+        nameKey: "informatikatest",
+        color: "#60A5FA",
+        gradient: "bg-gradient-to-br from-blue-500/20 to-sky-500/20",
       },
     ],
   },

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Grundlagen der Präsentation",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist der Hauptzweck von Präsentationssoftware?",
+      "options": [
+        "Bücher schreiben",
+        "Informationen visuell für ein Publikum darstellen",
+        "Steuern berechnen",
+        "Videos schneiden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die einzelnen Seiten einer Präsentation?",
+      "options": [
+        "Blätter",
+        "Folien",
+        "Zellen",
+        "Seiten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Software ist am bekanntesten für Präsentationen?",
+      "options": [
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Editor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Taste startet die Bildschirmpräsentation von Anfang an?",
+      "options": [
+        "F1",
+        "F5",
+        "F10",
+        "F11"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welcher Taste beendet man eine Bildschirmpräsentation?",
+      "options": [
+        "Enter",
+        "Esc",
+        "Leertaste",
+        "Umschalt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Platzhalter'?",
+      "options": [
+        "Ein Dekobild",
+        "Ein Kasten mit gepunktetem Rand für Text oder Bilder",
+        "Die Hintergrundfarbe",
+        "Der Dateiname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Ansicht zeigt alle Folien als kleine Vorschaubilder?",
+      "options": [
+        "Normalansicht",
+        "Folien-Sortierung",
+        "Leseansicht",
+        "Notizenseite"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lautet die Dateiendung für moderne PowerPoint-Dateien?",
+      "options": [
+        ".docx",
+        ".xlsx",
+        ".pptx",
+        ".txt"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fügt man eine neue Folie ein?",
+      "options": [
+        "Start -> Neue Folie",
+        "Entf-Taste drücken",
+        "Rechtsklick auf Desktop",
+        "Programm schließen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Design' (Theme) in einer Präsentation?",
+      "options": [
+        "Das Thema der Rede",
+        "Ein Set aus passenden Farben, Schriftarten und Hintergründen",
+        "Die Anzahl der Folien",
+        "Die Mausgeschwindigkeit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo kann man private Notizen für den Redner hinzufügen?",
+      "options": [
+        "Auf der Folie selbst",
+        "Im Notizenbereich unter der Folie",
+        "In der Titelleiste",
+        "Gar nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie startet man die Präsentation ab der aktuellen Folie?",
+      "options": [
+        "F5",
+        "Umschalt + F5",
+        "Strg + F5",
+        "Alt + F5"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Folienlayout'?",
+      "options": [
+        "Die Hintergrundfarbe",
+        "Die Anordnung der Platzhalter auf einer Folie",
+        "Die Reihenfolge der Folien",
+        "Die Schriftgröße"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Registerkarte nutzt man zum Einfügen von Bildern oder Formen?",
+      "options": [
+        "Entwurf",
+        "Einfügen",
+        "Übergänge",
+        "Animationen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Fußzeile' in einer Präsentation?",
+      "options": [
+        "Der Titel oben",
+        "Infos am unteren Rand (z. B. Datum, Seitenzahl)",
+        "Ein Bildtyp",
+        "Die letzte Folie"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man ein Video in eine Folie einfügen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur wenn es kurz ist",
+        "Nur auf der ersten Folie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt das 'Ausblenden einer Folie'?",
+      "options": [
+        "Löscht die Folie",
+        "Verhindert das Anzeigen der Folie während der Präsentation",
+        "Macht die Folie schwarz",
+        "Speichert sie separat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Werkzeug nutzt man für dekorative Texteffekte?",
+      "options": [
+        "Textfeld",
+        "WordArt",
+        "SmartArt",
+        "Formen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie gelangt man während der Präsentation zur nächsten Folie?",
+      "options": [
+        "Mausklick, Leertaste oder Pfeiltasten",
+        "Eingabe 'NEXT'",
+        "Esc-Taste",
+        "Laptop schließen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Normalansicht'?",
+      "options": [
+        "Die Hauptansicht zum Bearbeiten und Gestalten",
+        "Die Druckansicht",
+        "Die Präsentationsansicht",
+        "Eine farblose Ansicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "In welcher Registerkarte ändert man das Farbschema?",
+      "options": [
+        "Start",
+        "Einfügen",
+        "Entwurf",
+        "Übergänge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie löscht man eine Folie?",
+      "options": [
+        "Markieren und Entf oder Rücktaste drücken",
+        "Doppelklick darauf",
+        "Vom Bildschirm ziehen",
+        "Umbenennen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Formen' (Shapes)?",
+      "options": [
+        "Fertige Objekte wie Pfeile, Kreise und Sterne",
+        "Schriftarten",
+        "Fenstergrößen",
+        "Mausfarben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'SmartArt'?",
+      "options": [
+        "Ein Rätselspiel",
+        "Grafische Diagramme zur Darstellung von Prozessen oder Listen",
+        "Ein Zeichenstift",
+        "Ein Antivirus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sollte die erste Folie normalerweise enthalten?",
+      "options": [
+        "Alle Daten",
+        "Titel und Name des Referenten",
+        "Quellenverzeichnis",
+        "Nur Bilder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Folie"
+    },
+    {
+      "type": "typing",
+      "text": "PowerPoint"
+    },
+    {
+      "type": "typing",
+      "text": "F5"
+    },
+    {
+      "type": "typing",
+      "text": "Esc"
+    },
+    {
+      "type": "typing",
+      "text": "Platzhalter"
+    },
+    {
+      "type": "typing",
+      "text": "Design"
+    },
+    {
+      "type": "typing",
+      "text": "Foliensortierung"
+    },
+    {
+      "type": "typing",
+      "text": "pptx"
+    },
+    {
+      "type": "typing",
+      "text": "Start"
+    },
+    {
+      "type": "typing",
+      "text": "Fußzeile"
+    }
+  ]
+}

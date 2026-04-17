@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Digitale Sicherheit",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein gutes Passwort aus?",
+      "options": [
+        "123456",
+        "Dein Vorname",
+        "Lang, mit Groß-/Kleinbuchstaben, Zahlen und Zeichen",
+        "Name deines Hundes"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wem darfst du dein Passwort geben?",
+      "options": [
+        "Deinem besten Freund",
+        "Niemandem (außer evtl. deinen Eltern)",
+        "Einem netten Fremden",
+        "Jedem, der fragt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind personenbezogene Daten?",
+      "options": [
+        "Deine Lieblingsfarbe",
+        "Name, Adresse, Telefonnummer, Schulname",
+        "Ein lustiges Bild",
+        "PC-Typ"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Virus?",
+      "options": [
+        "Eine Krankheit beim Menschen",
+        "Ein schädliches Programm, das den PC kaputt macht",
+        "Ein Spielname",
+        "Eine Taste am Monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie können wir uns vor Viren schützen?",
+      "options": [
+        "Händewaschen",
+        "Ein Antivirenprogramm nutzen",
+        "Den Monitor ausschalten",
+        "Die Tastatur nicht nutzen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Phishing'?",
+      "options": [
+        "Fischen am See",
+        "Betrüger versuchen, persönliche Daten zu erschleichen",
+        "Neue Spiele laden",
+        "Computersport"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fremde treffen, die man im Netz kennengelernt hat?",
+      "options": [
+        "Ja, bestimmt nett",
+        "Nur wenn sie Geschenke bringen",
+        "Nein, das ist sehr gefährlich!",
+        "Nur wenn man allein geht"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun bei einer beleidigenden Nachricht?",
+      "options": [
+        "Zurückbeleidigen",
+        "Erwachsenen sagen und Absender blockieren",
+        "Löschen und vergessen",
+        "Jedem zeigen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Firewall?",
+      "options": [
+        "Eine Mauer ums Haus",
+        "Schutz, der den Netzwerkverkehr überwacht",
+        "Ein Heizgerät",
+        "Der PC-Kühler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man alles von unbekannten Seiten laden?",
+      "options": [
+        "Ja, wenn gratis",
+        "Nur wenn Button schön",
+        "Nein, könnte virenverseucht sein",
+        "Nur nachts"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Wi-Fi-Netz ist am sichersten?",
+      "options": [
+        "Das offene ohne Passwort im Park",
+        "Das eigene passwortgeschützte Heimnetz",
+        "Das vom Nachbarn heimlich",
+        "Jedes ist gut"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Zwei-Faktor-Authentisierung?",
+      "options": [
+        "Zweimal Taste drücken",
+        "System fragt nach Passwort noch einen Code (z.B. SMS) ab",
+        "Mit zwei Händen tippen",
+        "Zwei Monitore nötig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der digitale Fußabdruck?",
+      "options": [
+        "Schuhabdruck am Monitor",
+        "Alles, was wir im Netz tun und Spuren hinterlässt",
+        "PC-Gewicht",
+        "Tastaturabnutzung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum kein Foto vom Flugticket posten?",
+      "options": [
+        "Weil es hässlich ist",
+        "Wegen persönlicher Daten und Codes darauf",
+        "Weil andere auch verreisen wollen",
+        "Kein Problem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Spam'?",
+      "options": [
+        "Leckeres Essen",
+        "Unerwünschte, nervige Werbe-Mails",
+        "Ein schneller PC",
+        "Ein neues soziales Netz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient der private Modus des Browsers?",
+      "options": [
+        "Gibt Gratis-Netz",
+        "Speichert keine Passwörter und Verlauf",
+        "PC wird unsichtbar",
+        "Spiel wird schneller"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn jemand im Netz nach der Adresse fragt?",
+      "options": [
+        "Geben",
+        "Nicht geben und Eltern sagen",
+        "Andere Adresse lügen",
+        "Nur Stadtnamen geben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn man auf einer Erwachsenenseite landet?",
+      "options": [
+        "Zu Ende sehen",
+        "Sofort schließen und Erwachsenen sagen",
+        "Freunden schicken",
+        "Bilder speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer ist ein Hacker?",
+      "options": [
+        "Ein Verkäufer",
+        "Jemand, der in Computersysteme einbricht",
+        "Profi-E-Sportler",
+        "Jemand, der PCs baut"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Ransomware?",
+      "options": [
+        "Virus, der Geld für deine Dateien fordert",
+        "Virus, der Witze macht",
+        "Virus, der Musik spielt",
+        "Gibt es nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo wichtige Dateien speichern (Backup)?",
+      "options": [
+        "Nirgends, passt schon",
+        "Externe Festplatte oder Cloud",
+        "Im Papierkorb",
+        "Am Monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Software-Update?",
+      "options": [
+        "Neuer PC-Kauf",
+        "Fehler beheben und Sicherheit erhöhen",
+        "Hintergrundbild ändern",
+        "PC langsamer machen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum Passwörter nicht an den Monitor kleben?",
+      "options": [
+        "Weil es abfällt",
+        "Jeder kann es sehen und stehlen",
+        "Verfärbt den Monitor",
+        "Nicht gefährlich"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Cybermobbing?",
+      "options": [
+        "Internet-Rennen",
+        "Wiederholtes Verletzen und Demütigen im Netz",
+        "Zu viel Spielen",
+        "Internet-Shopping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Woran erkennt man eine Betrugs-Mail?",
+      "options": [
+        "Eilt, fordert Daten, verdächtiger Absender",
+        "Schöne Schrift",
+        "Zu kurz",
+        "Keine Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Gib niemals dein Passwort an jemanden im Internet weiter!"
+    },
+    {
+      "type": "typing",
+      "text": "Der Schutz personenbezogener Daten ist sehr wichtig für die Sicherheit."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Antivirenprogramm schützt den Computer vor Schädlingen."
+    },
+    {
+      "type": "typing",
+      "text": "Nutze ein starkes Passwort mit Buchstaben und Zahlen!"
+    },
+    {
+      "type": "typing",
+      "text": "Die Zwei-Faktor-Authentisierung bietet extra Schutz für dein Konto."
+    },
+    {
+      "type": "typing",
+      "text": "Überlege genau, bevor du etwas im Internet postest!"
+    },
+    {
+      "type": "typing",
+      "text": "Im Internet kann jeder der sein, der er scheinen möchte."
+    },
+    {
+      "type": "typing",
+      "text": "Triff dich niemals allein mit Internetbekanntschaften!"
+    },
+    {
+      "type": "typing",
+      "text": "Die Datensicherung hilft dabei, wichtige Dateien zu erhalten."
+    },
+    {
+      "type": "typing",
+      "text": "Melde Mobbing einem Erwachsenen, dem du vertraust!"
+    }
+  ]
+}

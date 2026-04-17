@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Állománykezelés",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a fájl?",
+      "options": [
+        "Egy hardverkomponens",
+        "Adatgyűjtemény névvel",
+        "Egy számítógép kábel",
+        "Egy típusú íróasztal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a „mappa”?",
+      "options": [
+        "Mérőpapír",
+        "Fájlok rendezése",
+        "A laptop töltése",
+        "Zene lejátszása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"fájlkiterjesztés\"?",
+      "options": [
+        "Egy hosszabb kábel",
+        "A fájlnév vége, amely a fájltípust mutatja",
+        "A fájl mérete",
+        "A fájl ára"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kiterjesztést szokták használni a szöveges fájlok számára?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".txt",
+        ".exe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kiterjesztést szokták használni a képekhez?",
+      "options": [
+        ".txt",
+        ".jpg",
+        ".wav",
+        ".zip"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy fájl \"másolása\"?",
+      "options": [
+        "Áthelyezi egy másik helyre",
+        "Létrehoz egy másolatot a fájlból",
+        "Törli a fájlt",
+        "Átnevezi a fájlt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy fájl „áthelyezése” (kivágás és beillesztés)?",
+      "options": [
+        "Létrehoz egy másolatot",
+        "Az eredetit új helyre helyezi",
+        "Kinyomtatja a fájlt",
+        "Módosítja a fájltípust"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kell átnevezni egy fájlt?",
+      "options": [
+        "Törlésével",
+        "Kijelölésével és nevének megváltoztatásával",
+        "A kukába helyezve",
+        "Kinyomtatással"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fájl 'útvonala'?",
+      "options": [
+        "Az út a számítógépes boltba",
+        "A fájl helye a mapparendszerben",
+        "A fájl súlya",
+        "A fájl színe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kiterjesztés használható a futtatható programokhoz?",
+      "options": [
+        ".exe",
+        ".txt",
+        ".mp3",
+        ".pdf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"Tömörített\" (zip) mappa?",
+      "options": [
+        "Nagyon nehéz mappa",
+        "Egy mappa, amely kevesebb helyet foglal",
+        "Egy törött mappa",
+        "Egy mappa fájl nélkül"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik bővítmény szól a zenéhez?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".exe",
+        ".txt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a fájl „törlése”?",
+      "options": [
+        "Másolás készítése",
+        "Eltávolítása a helyéről",
+        "Átnevezése",
+        "Megnyitása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az \"almappa\"?",
+      "options": [
+        "Mappa egy másik mappában",
+        "Szendvicsmappa",
+        "Egy mappa az interneten",
+        "Egy rejtett mappa"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan lehet több fájlt kiválasztani?",
+      "options": [
+        "A Ctrl vagy Shift billentyűk használatával",
+        "A monitor kikapcsolásával",
+        "Az egér kihúzásával",
+        "Az ablak bezárásával"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"Root\" könyvtár?",
+      "options": [
+        "Egy növényi rész",
+        "A meghajtó legfelső szintű mappája",
+        "A kábel típusa",
+        "A lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kiterjesztés használható PDF dokumentumokhoz?",
+      "options": [
+        ".pdf",
+        ".jpg",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a „Beillesztés”?",
+      "options": [
+        "Fájl kivágása",
+        "A másolt vagy kivágott fájlt új helyre helyezi",
+        "Fájl törlése",
+        "Átnevez egy fájlt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért érdemes mappákba rendezni a fájlokat?",
+      "options": [
+        "Hogy nehezebbek legyenek",
+        "Hogy később könnyen megtalálhassa őket",
+        "Hogy színes legyen a számítógép",
+        "Elrejteni őket az operációs rendszer elől"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „tárhelykapacitás”?",
+      "options": [
+        "A számítógép sebessége",
+        "A meghajtón tárolható adatmennyiség",
+        "A monitor mérete",
+        "A billentyűzet billentyűinek száma"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközt használják gyakran a fájlok számítógépek közötti mozgatására?",
+      "options": [
+        "Nyomtató",
+        "USB flash meghajtó",
+        "Szkenner",
+        "CPU"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Cloud” meghajtó?",
+      "options": [
+        "Egy meghajtó, amely lebeg",
+        "Tárhely az interneten",
+        "Meghajtó, amely csak esőben működik",
+        "A ventilátor típusa"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Parancsikon” ikon?",
+      "options": [
+        "Az igazi fájl",
+        "Egy hivatkozás, amely megnyitja a fájlt máshonnan",
+        "Egy törölt fájl",
+        "Törött fájl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kiterjesztés használható a videofájlokhoz?",
+      "options": [
+        ".mp4",
+        ".txt",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mekkora egy egyszerű szövegfájl tipikus mérete?",
+      "options": [
+        "Nagyon kicsi (bájt vagy KB)",
+        "Nagyon nagy (GB)",
+        "Közepes (MB)",
+        "Nulla"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "A fájl egy névvel ellátott információ."
+    },
+    {
+      "type": "typing",
+      "text": "A mappák segítenek a fájlok rendszerezésében."
+    },
+    {
+      "type": "typing",
+      "text": "A fájlkiterjesztések megmondják, hogy milyen fájlról van szó."
+    },
+    {
+      "type": "typing",
+      "text": "Használja a Másolás és beillesztés parancsot a fájlok másolásához."
+    },
+    {
+      "type": "typing",
+      "text": "A .txt kiterjesztése egyszerű szöveges dokumentumokhoz való."
+    },
+    {
+      "type": "typing",
+      "text": "A tömörített mappa kevesebb tárhelyet foglal el."
+    },
+    {
+      "type": "typing",
+      "text": "Legyen óvatos a fontos fájlok törlésekor."
+    },
+    {
+      "type": "typing",
+      "text": "A fájl átnevezése segít a tartalom azonosításában."
+    },
+    {
+      "type": "typing",
+      "text": "A fájl elérési útja megmutatja, hol van a fájl tárolva."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig tartsa rendben a dokumentummappát."
+    }
+  ]
+}

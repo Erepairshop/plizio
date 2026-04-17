@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Perifériák",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mik azok a perifériák?",
+      "options": [
+        "Csak belső alkatrészek",
+        "A számítógéphez csatlakoztatott külső eszközök",
+        "Szoftvertípusok",
+        "Internet kábelek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik „bemeneti” eszköz?",
+      "options": [
+        "Monitor",
+        "Nyomtató",
+        "Billentyűzet",
+        "Hangszórók"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik „kimeneti” eszköz?",
+      "options": [
+        "Egér",
+        "Szkenner",
+        "Monitor",
+        "Mikrofon"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az egér fő felhasználási területe?",
+      "options": [
+        "Gépelés",
+        "A képernyőre mutat és rákattint",
+        "Nyomtatás",
+        "Zenehallgatás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a billentyűzet?",
+      "options": [
+        "Fényképek beolvasása",
+        "Szöveg és parancsok bevitele",
+        "Videók megjelenítése",
+        "A számítógép mozgatása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál egy szkenner?",
+      "options": [
+        "Szöveg nyomtatása papírra",
+        "A papíralapú dokumentumokat digitális fájlokká alakítja",
+        "Hangok lejátszása",
+        "Képek megjelenítése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a nyomtató?",
+      "options": [
+        "Fényképezés",
+        "Digitális szöveg vagy képek papírra helyezése",
+        "A kurzor mozgatása",
+        "Fájlok tárolása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik perifériával lehet hangot hallani?",
+      "options": [
+        "Monitor",
+        "Hangszórók",
+        "Billentyűzet",
+        "Webkamera"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a webkamera?",
+      "options": [
+        "Nyomtatás",
+        "Videó és fotózás",
+        "Gépelés",
+        "Szkennelés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a mikrofon?",
+      "options": [
+        "Képek megjelenítése",
+        "Hangok rögzítése vagy küldése",
+        "A gombok kattintása",
+        "Dokumentumok nyomtatása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egyszerre bemeneti és kimeneti eszköz?",
+      "options": [
+        "Érintőképernyő",
+        "Standard egér",
+        "Normál billentyűzet",
+        "Egyszerű hangszórók"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „monitor”?",
+      "options": [
+        "Egy eszköz, amely zajokat szűr",
+        "Képernyő, amely vizuális információkat mutat",
+        "Eszköz a gépelésre",
+        "Tároló rész"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"projektor\"?",
+      "options": [
+        "Egy kis képernyő",
+        "Egy eszköz, amely a képernyő képét mutatja a falon",
+        "Egy nyomtatótípus",
+        "Egyfajta szkenner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hova csatlakoztatja a legtöbb modern perifériát?",
+      "options": [
+        "Tápcsatlakozó",
+        "USB-port",
+        "Hajlékonylemez-meghajtó",
+        "CD-tálca"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használják gyakran a „joystick”-et?",
+      "options": [
+        "Gépelés",
+        "Játékok",
+        "Nyomtatás",
+        "Szkennelés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a „külső merevlemez”?",
+      "options": [
+        "Képek megjelenítése",
+        "További adattárolás",
+        "Nyomtatás",
+        "Hangfelvétel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a „DPI” általában egér vagy nyomtató esetében?",
+      "options": [
+        "A súly",
+        "A felbontás vagy érzékenység",
+        "A szín",
+        "Az ár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen perifériára van szükség egy videohíváshoz?",
+      "options": [
+        "Nyomtató",
+        "Webkamera",
+        "Szkenner",
+        "Merevlemez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „fejhallgató”?",
+      "options": [
+        "Egy típusú kalap",
+        "Fejhallgató és mikrofon kombinációja",
+        "Egy képernyővédő fólia",
+        "Egérpad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a „Grafikus tábla”?",
+      "options": [
+        "Könyvek olvasása",
+        "Rajz és digitális művészet",
+        "Fényképek nyomtatása",
+        "Zene lejátszása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik NEM periféria?",
+      "options": [
+        "Billentyűzet",
+        "CPU",
+        "Nyomtató",
+        "Szkenner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a „Bluetooth”?",
+      "options": [
+        "A képernyő kékké tétele",
+        "Eszközök vezeték nélküli csatlakoztatása",
+        "A számítógép tisztítása",
+        "Színes nyomtatás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a vonalkódolvasó?",
+      "options": [
+        "Rajz",
+        "Termékkódok olvasása az üzletekben",
+        "Betűk beírása",
+        "Videók lejátszása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik eszközzel lehet papírfotót bevinni a számítógépbe?",
+      "options": [
+        "Nyomtató",
+        "Szkenner",
+        "Monitor",
+        "Hangszórók"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Plotter'?",
+      "options": [
+        "Egy kis egér",
+        "Nagyméretű nyomtató műszaki rajzokhoz",
+        "A billentyűzet típusa",
+        "Egy játékvezérlő"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "A perifériák a számítógéphez csatlakoztatott eszközök."
+    },
+    {
+      "type": "typing",
+      "text": "A billentyűzet és az egér beviteli eszközök."
+    },
+    {
+      "type": "typing",
+      "text": "A monitor és a nyomtató kimeneti eszközök."
+    },
+    {
+      "type": "typing",
+      "text": "A webkamera segítségével az emberek láthatják Önt videohívás közben."
+    },
+    {
+      "type": "typing",
+      "text": "A hangszórók segítségével zenét és hangokat hallgathat."
+    },
+    {
+      "type": "typing",
+      "text": "A lapolvasó a papíralapú fényképeket digitális fájlokká alakítja."
+    },
+    {
+      "type": "typing",
+      "text": "Az USB-portok számos periféria csatlakoztatására szolgálnak."
+    },
+    {
+      "type": "typing",
+      "text": "Az érintőképernyők bemenetként és kimenetként is működnek."
+    },
+    {
+      "type": "typing",
+      "text": "A nyomtató papírra helyezi digitális munkáját."
+    },
+    {
+      "type": "typing",
+      "text": "A vezeték nélküli egerek Bluetooth segítségével csatlakoznak a számítógéphez."
+    }
+  ]
+}

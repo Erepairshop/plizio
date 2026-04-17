@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Seitenausrichtung\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Farbe der Seite",
+                                      "Hochformat oder Querformat",
+                                      "Größe des Monitors",
+                                      "Anzahl der Seiten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was sind Seitenränder?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Dicke des Papiers",
+                                      "Der leere Platz zwischen Text und Papierrand",
+                                      "Bilder am Rand",
+                                      "Seitenzahlen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man den Bereich ganz oben auf jeder Seite?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Fußzeile",
+                                      "Kopfzeile",
+                                      "Mittelfeld",
+                                      "Titel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo stehen meistens die Seitenzahlen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In der Mitte des Textes",
+                                      "In der Kopf- oder Fußzeile",
+                                      "Auf dem Cover",
+                                      "In den Bildern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht der Zeilenabstand?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ändert die Schriftgröße",
+                                      "Bestimmt den Platz zwischen zwei Textzeilen",
+                                      "Löscht Zeilen",
+                                      "Macht den Text fett"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Standard-Papierformat wird in Europa meist genutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Letter",
+                                      "A4",
+                                      "A3",
+                                      "Postkarte"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Formatvorlage\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bild",
+                                      "Vordefinierte Einstellungen für Überschriften oder Text",
+                                      "Ein leeres Blatt",
+                                      "Ein Drucker-Treiber"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie richtet man Text mittig aus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mit der Leertaste",
+                                      "Über die Schaltfläche \u0027Zentriert\u0027",
+                                      "Durch Schütteln des Fensters",
+                                      "Text an den Rand schieben"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Unterstreichen\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text fett machen",
+                                      "Eine Linie unter den Text ziehen",
+                                      "Text löschen",
+                                      "Text kursiv machen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür nutzt man Einzüge?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Speichern",
+                                      "Um den Textanfang vom Rand weg zu rücken",
+                                      "Zum Drucken",
+                                      "Zum Löschen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert bei einem \u0027Seitenumbruch\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Seite geht kaputt",
+                                      "Der Text wird auf der nächsten Seite fortgesetzt",
+                                      "Das Dokument wird geschlossen",
+                                      "Das Bild wird gelöscht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die \u0027Schriftfarbe\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Farbe des Papiers",
+                                      "Die Farbe der Buchstaben",
+                                      "Die Farbe des Cursors",
+                                      "Die Hintergrundfarbe"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man Text, der leicht nach oben versetzt ist (z.B. bei m²)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Tiefgestellt",
+                                      "Hochgestellt",
+                                      "Fett",
+                                      "Kursiv"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Fußnote?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Text am Ende eines Dokuments",
+                                      "Eine Anmerkung am Ende einer Seite",
+                                      "Ein Bild von einem Fuß",
+                                      "Eine Seitenzahl"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie kann man die Hintergrundfarbe einer Seite ändern?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mit einem Stift auf dem Monitor",
+                                      "Über \u0027Seitenfarbe\u0027 im Menü Entwurf/Layout",
+                                      "Gar nicht",
+                                      "Durch lauter Tippen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Rahmen\u0027 im Dokument?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Gehäuse des PCs",
+                                      "Linien um Text oder Seiten",
+                                      "Ein Fenster",
+                                      "Ein Bildhalter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür ist die Tabulatortaste beim Formatieren gut?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Löschen",
+                                      "Für genaue Abstände und Spalten",
+                                      "Zum Speichern",
+                                      "Zum Beenden"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Linksbündig\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text ist an der rechten Seite gerade",
+                                      "Text ist an der linken Seite gerade",
+                                      "Text ist in der Mitte",
+                                      "Text ist überall gerade"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht ein \u0027Spaltensatz\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Löscht Text",
+                                      "Teilt den Text in zwei oder mehr Spalten (wie in der Zeitung)",
+                                      "Macht den Text groß",
+                                      "Speichert die Datei"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Inhaltsverzeichnis?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Liste aller Wörter",
+                                      "Eine Liste der Überschriften mit Seitenzahlen",
+                                      "Ein Ordner",
+                                      "Ein Bild"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bewirkt die \u0027Formatübertragung\u0027 (Pinsel-Symbol)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Löscht Formate",
+                                      "Kopiert nur das Aussehen (Format) eines Textes",
+                                      "Malt Bilder",
+                                      "Druckt das Dokument"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man Text, der leicht nach unten versetzt ist (z.B. bei H₂O)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Hochgestellt",
+                                      "Tiefgestellt",
+                                      "Fett",
+                                      "Klein"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Hervorheben\u0027 (Textmarker)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text löschen",
+                                      "Text farbig hinterlegen",
+                                      "Text kursiv machen",
+                                      "Text drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum nutzt man Überschriften (H1, H2)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur zum Spaß",
+                                      "Um das Dokument zu strukturieren",
+                                      "Um Papier zu sparen",
+                                      "Um Bilder zu finden"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was ist eine \u0027Silbentrennung\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Wörter werden am Zeilenende getrennt",
+                                      "Wörter werden gelöscht",
+                                      "Wörter werden fett",
+                                      "Bilder werden geteilt"
+                                  ]
+                  },
+                  {
+                      "text":  "Die Kopfzeile erscheint automatisch auf jeder neuen Seite.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Seitenränder definieren den Platz für den Text auf dem Papier.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein zentrierter Titel sieht oft sehr professionell aus.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir nutzen das Hochformat für Briefe und das Querformat für Tabellen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Formatvorlagen helfen uns, ein einheitliches Design zu nutzen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Seitenzahlen erleichtern die Orientierung in langen Dokumenten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der Zeilenabstand beeinflusst die Lesbarkeit eines Textes.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Silbentrennung sorgt für einen gleichmäßigen rechten Rand.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In der Fußzeile stehen oft Informationen zum Autor.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Rahmen und Schattierungen können wichtige Absätze betonen.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Dokumentformatierung"
+}

@@ -132,7 +132,7 @@ const ERRORS_SPELLING: ErrorItem[] = [
   { words: ["I", "will", "writte", "a", "letter."], errorIndex: 2, hint: "Correct spelling: write (one 't').", question: "Find the word with a mistake:" },
   { words: ["She", "is", "a", "buetiful", "singer."], errorIndex: 3, hint: "Correct spelling: beautiful.", question: "Find the word with a mistake:" },
   { words: ["He", "studdied", "all", "night."], errorIndex: 1, hint: "Correct spelling: studied (drop 'y', add 'ied').", question: "Find the word with a mistake:" },
-  { words: ["The", "libary", "is", "closed."], errorIndex: 1, hint: "Correct spelling: library (two r's).", question: "Find the word with a mistake:" },
+  { words: ["The", "libary", "is", "closed."], errorIndex: 1, hint: "Correct spelling: library (remember the 'r' before the 'a': lib-rar-y).", question: "Find the word with a mistake:" },
   { words: ["We", "had", "a", "wonderfull", "day."], errorIndex: 3, hint: "Correct spelling: wonderful (one 'l' at the end).", question: "Find the word with a mistake:" },
   { words: ["I", "ate", "a", "peice", "of", "cake."], errorIndex: 3, hint: "Correct spelling: piece (i before e).", question: "Find the word with a mistake:" },
   { words: ["She", "was", "very", "suprise", "to", "see", "him."], errorIndex: 3, hint: "Correct spelling: surprised.", question: "Find the word with a mistake:" },
@@ -221,7 +221,7 @@ const WORD_FAMILIES_POOL: Array<{
   { root: "sad",    family: ["sadder", "sadness", "sadly", "saddened"],     distractors: ["mad", "bad", "add"] },
   { root: "color",  family: ["colorful", "colorless", "colored", "coloring"], distractors: ["collar", "cold", "coral"] },
   { root: "power",  family: ["powerful", "powerless", "powered", "empower"], distractors: ["tower", "flower", "lower"] },
-  { root: "wonder", family: ["wonderful", "wondering", "wondered", "wonderland"], distractors: ["wander", "wander", "blunder"] },
+  { root: "wonder", family: ["wonderful", "wondering", "wondered", "wonderland"], distractors: ["wander", "thunder", "blunder"] },
 ];
 
 function buildWordFamilyItem(entry: typeof WORD_FAMILIES_POOL[number]): WordFamilyItem {

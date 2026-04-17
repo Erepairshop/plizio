@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Digital Security",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a good password like?",
+      "options": [
+        "123456",
+        "Your first name",
+        "Long, has uppercase, lowercase, numbers, and symbols",
+        "Your dog's name"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who can you give your password to?",
+      "options": [
+        "Your best friend",
+        "No one (except maybe your parents)",
+        "A nice stranger",
+        "Everyone who asks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is personal data?",
+      "options": [
+        "Your favorite color",
+        "Name, address, phone number, school name",
+        "A funny picture",
+        "Computer type"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a virus?",
+      "options": [
+        "A human disease",
+        "A harmful program that can break your computer",
+        "A game name",
+        "A button on the monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can we protect against viruses?",
+      "options": [
+        "Wash our hands",
+        "Use an antivirus program",
+        "Turn off the monitor",
+        "Don't use the keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'phishing'?",
+      "options": [
+        "Fishing at the lake",
+        "Scammers trying to trick you out of personal data",
+        "Downloading new games",
+        "Computer sports"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to meet strangers you met online?",
+      "options": [
+        "Yes, they are surely nice",
+        "Only if they bring gifts",
+        "No, it is very dangerous!",
+        "Only if you go alone"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you get a mean message?",
+      "options": [
+        "Be mean back",
+        "Tell an adult and block the sender",
+        "Delete it and forget it",
+        "Show it to everyone"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a firewall?",
+      "options": [
+        "A wall around the house",
+        "Protection that monitors network traffic",
+        "A heating device",
+        "The computer's cooler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is it okay to download anything from an unknown site?",
+      "options": [
+        "Yes, if it is free",
+        "Only if the button is pretty",
+        "No, because it could have viruses",
+        "Only at night"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the safest Wi-Fi network?",
+      "options": [
+        "The open, password-free one in the park",
+        "Your own password-protected home network",
+        "The neighbor's secretly",
+        "Any is fine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is two-step verification?",
+      "options": [
+        "Pressing the button twice",
+        "System asks for another code (e.g., SMS) besides the password",
+        "Typing with two hands",
+        "Needs two monitors"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'digital footprint'?",
+      "options": [
+        "Your shoe mark on a dirty monitor",
+        "Everything you do online that leaves a trace",
+        "Computer weight",
+        "Keyboard wear"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why shouldn't you post a photo of your boarding pass?",
+      "options": [
+        "Because it's ugly",
+        "Because it has personal data and codes",
+        "Because others want to travel too",
+        "It is okay to post it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'spam'?",
+      "options": [
+        "A tasty food",
+        "Unwanted, annoying junk email",
+        "A fast computer",
+        "A new social media site"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the browser's private mode for?",
+      "options": [
+        "Gives free internet",
+        "Doesn't save passwords and history",
+        "Makes the computer invisible",
+        "Makes the game faster"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if someone online asks for your home address?",
+      "options": [
+        "Give it to them",
+        "Don't give it and tell your parents",
+        "Lie and give another address",
+        "Give only the city name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you accidentally end up on an adult site?",
+      "options": [
+        "Watch it all",
+        "Close it immediately and tell an adult",
+        "Send it to your friends",
+        "Save the pictures"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who is a hacker?",
+      "options": [
+        "A shop assistant",
+        "A person who breaks into computer systems",
+        "A pro e-sports player",
+        "A person who builds computers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is ransomware?",
+      "options": [
+        "A virus that asks for money for your files",
+        "A virus that tells jokes",
+        "A virus that plays music",
+        "There is no such thing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Where should you save important files (backup)?",
+      "options": [
+        "Nowhere, it's fine there",
+        "External hard drive or cloud",
+        "In the trash bin",
+        "On the monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a software update?",
+      "options": [
+        "Buying a new machine",
+        "Fixing bugs and increasing security",
+        "Changing background wallpaper",
+        "Slowing down the machine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is it dangerous to stick passwords on the monitor?",
+      "options": [
+        "Because it falls off",
+        "Because anyone can see and steal it",
+        "Because it discolors the monitor",
+        "It is not dangerous"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is cyberbullying?",
+      "options": [
+        "Internet racing",
+        "Repeated hurting and humilation on the internet",
+        "Too much gaming",
+        "Internet shopping"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you recognize a scam email?",
+      "options": [
+        "Urgent, asks for data, and suspicious sender address",
+        "Nice font",
+        "Too short",
+        "No pictures"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Never give your password to anyone on the internet!"
+    },
+    {
+      "type": "typing",
+      "text": "Protecting personal data is very important for security."
+    },
+    {
+      "type": "typing",
+      "text": "Antivirus software protects the computer from malware."
+    },
+    {
+      "type": "typing",
+      "text": "Use a strong password that contains letters and numbers!"
+    },
+    {
+      "type": "typing",
+      "text": "Two-step verification provides extra protection for your account."
+    },
+    {
+      "type": "typing",
+      "text": "Think carefully before posting anything on the net!"
+    },
+    {
+      "type": "typing",
+      "text": "On the internet, everyone can be who they want to seem."
+    },
+    {
+      "type": "typing",
+      "text": "Never meet strangers from the internet alone!"
+    },
+    {
+      "type": "typing",
+      "text": "Backing up helps preserve your important files."
+    },
+    {
+      "type": "typing",
+      "text": "Report bullying to a trusted adult!"
+    }
+  ]
+}

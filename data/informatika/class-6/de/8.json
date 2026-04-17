@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Textverarbeitung: Tabellen",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "In welcher Registerkarte findet man die Option zum Einfügen einer Tabelle?",
+      "options": [
+        "Start",
+        "Einfügen",
+        "Entwurf",
+        "Ansicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Schnittstelle zwischen einer Zeile und einer Spalte?",
+      "options": [
+        "Box",
+        "Zelle",
+        "Gitter",
+        "Linie"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind die waagerechten Elemente einer Tabelle?",
+      "options": [
+        "Spalten",
+        "Zeilen",
+        "Rahmen",
+        "Tabs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind die senkrechten Elemente einer Tabelle?",
+      "options": [
+        "Zeilen",
+        "Spalten",
+        "Zellen",
+        "Überschriften"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Zellen verbinden'?",
+      "options": [
+        "Zellen löschen",
+        "Zwei oder mehr benachbarte Zellen zu einer zusammenfassen",
+        "Eine Zelle in zwei teilen",
+        "Zellen einfärben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Taste wird verwendet, um zur nächsten Zelle in einer Tabelle zu springen?",
+      "options": [
+        "Enter",
+        "Tab",
+        "Umschalt",
+        "Leertaste"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man die Breite einer Spalte ändern?",
+      "options": [
+        "Durch mehr Text",
+        "Durch Ziehen an der Spaltenbegrenzung",
+        "Durch Ändern der Schriftart",
+        "Gar nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Kopfzeile'?",
+      "options": [
+        "Die letzte Zeile",
+        "Die erste Zeile mit den Titeln der Spalten",
+        "Der Platz außerhalb der Tabelle",
+        "Eine Zeile mit Bildern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Zellen teilen'?",
+      "options": [
+        "Löscht die Tabelle",
+        "Unterteilt eine Zelle in mehrere kleinere Zellen",
+        "Verbindet zwei Tabellen",
+        "Ändert die Hintergrundfarbe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem Werkzeug kann man die Hintergrundfarbe einer Zelle ändern?",
+      "options": [
+        "Rahmen",
+        "Schattierung oder Füllung",
+        "Schriftfarbe",
+        "Ausrichtung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die Tabellentools, wenn man in eine Tabelle klickt?",
+      "options": [
+        "Im Menü Datei",
+        "In den Registerkarten Entwurf und Layout",
+        "In der Taskleiste",
+        "Im Menü Hilfe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man schnell eine neue Zeile am Ende der Tabelle einfügen?",
+      "options": [
+        "Tab-Taste in der letzten Zelle drücken",
+        "Enter 5-mal drücken",
+        "Die letzte Zeile löschen",
+        "Den PC neu starten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'AutoAnpassen' (AutoFit)?",
+      "options": [
+        "Die Tabelle passt ihre Größe automatisch dem Inhalt an",
+        "Die Tabelle löscht sich",
+        "Der Text wird blau",
+        "Die Tabelle dreht sich"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion erlaubt es, Tabellendaten alphabetisch zu ordnen?",
+      "options": [
+        "Filtern",
+        "Sortieren",
+        "Verbinden",
+        "Teilen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Rahmen' in einer Tabelle?",
+      "options": [
+        "Der Text im Inneren",
+        "Die Linien, die die Zellen begrenzen",
+        "Die Bilder",
+        "Die Seitenzahlen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man eine ganze Spalte markieren?",
+      "options": [
+        "Strg+A drücken",
+        "Auf den oberen Rand der Spalte klicken, wenn der Cursor ein schwarzer Pfeil wird",
+        "Rechtsklick auf den Desktop",
+        "Eingabe von 'SELECT'"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man ein Bild in eine Tabellenzelle einfügen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur in die erste Zelle",
+        "Nur wenn die Tabelle klein ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck der 'Textrichtung' in einer Zelle?",
+      "options": [
+        "Rechtschreibung prüfen",
+        "Text drehen (z. B. vertikal)",
+        "Die Sprache ändern",
+        "Text löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Überschriften wiederholen' bei einer mehrseitigen Tabelle?",
+      "options": [
+        "Löscht die Tabelle",
+        "Zeigt die erste Zeile oben auf jeder neuen Seite an",
+        "Kopiert den Text doppelt",
+        "Ändert die Schriftgröße"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie löscht man eine Zeile?",
+      "options": [
+        "Rücktaste drücken",
+        "Zeile markieren und 'Zeilen löschen' wählen",
+        "Monitor ausschalten",
+        "Farbe auf Weiß ändern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Zellenausrichtung'?",
+      "options": [
+        "Die Farbe der Zelle",
+        "Die Position des Texts in der Zelle (oben, mittig, unten etc.)",
+        "Die Größe der Tabelle",
+        "Der Name der Tabelle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches davon ist KEINE Tabellenformatvorlage?",
+      "options": [
+        "Gestreifte Zeilen",
+        "Erste Spalte",
+        "Video einfügen",
+        "Ergebniszeile"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man eine Tabelle an eine andere Stelle im Dokument verschieben?",
+      "options": [
+        "Verschiebekreuz (Vierfachpfeil) oben links ziehen",
+        "Pfeiltasten benutzen",
+        "Nur durch Kopieren und Einfügen",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man 'Entf' drückt, während die ganze Tabelle markiert ist?",
+      "options": [
+        "Nur der Text darin wird gelöscht",
+        "Die ganze Tabellenstruktur und der Inhalt werden gelöscht",
+        "Die Datei wird gespeichert",
+        "Eine neue Tabelle entsteht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Gitternetzlinien'?",
+      "options": [
+        "Unsichtbare Linien zur Orientierung, auch wenn Rahmen aus sind",
+        "Die Seitenfarbe",
+        "Ein Virus",
+        "Der Dateiname"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Zelle"
+    },
+    {
+      "type": "typing",
+      "text": "Tab"
+    },
+    {
+      "type": "typing",
+      "text": "Zeile"
+    },
+    {
+      "type": "typing",
+      "text": "Spalte"
+    },
+    {
+      "type": "typing",
+      "text": "Verbinden"
+    },
+    {
+      "type": "typing",
+      "text": "Teilen"
+    },
+    {
+      "type": "typing",
+      "text": "Rahmen"
+    },
+    {
+      "type": "typing",
+      "text": "Schattierung"
+    },
+    {
+      "type": "typing",
+      "text": "Kopfzeile"
+    },
+    {
+      "type": "typing",
+      "text": "Einfügen"
+    }
+  ]
+}

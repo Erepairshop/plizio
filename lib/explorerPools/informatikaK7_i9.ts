@@ -47,7 +47,7 @@ export const INFO_K7_I9_LABELS: Record<string, Record<string, string>> = {
   t3_w2: { de: ".getElementById(", en: ".getElementById(", hu: ".getElementById(", ro: ".getElementById(" },
   t3_w3: { de: "'cim'", en: "'title'", hu: "'cim'", ro: "'titlu'" },
   t3_w4: { de: ")", en: ")", hu: ")", ro: ")" },
-  t3_w5: { de: ".innerHTML = 'Hallo!'", en: ".innerHTML = 'Hello!'", hu: ".innerHTML = 'Szia!'", ro: ".innerHTML = 'Buna!'" },
+  t3_w5: { de: ".innerHTML = 'Hallo!'", en: ".innerHTML = 'Hello!'", hu: ".innerHTML = 'Szia!'", ro: ".innerHTML = 'Bună!'" },
   t3_q: { de: "Was ist die Hauptaufgabe von JavaScript auf einer Webseite?", en: "What is the main purpose of JavaScript on a web page?", hu: "Mi a JavaScript fő feladata egy weboldalon?", ro: "Care este scopul principal al JavaScript pe o pagină web?" },
   t3_qa: { de: "Interaktivität und dynamische Inhalte", en: "Interactivity and dynamic content", hu: "Interaktivitás és dinamikus tartalom", ro: "Interactivitate și conținut dinamic" },
   t3_qb: { de: "Die Struktur der Seite definieren", en: "Define the structure of the page", hu: "Az oldal szerkezetének meghatározása", ro: "Definirea structurii paginii" },

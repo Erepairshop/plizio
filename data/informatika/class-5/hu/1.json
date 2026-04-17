@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Adatok világa",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az adat a számítástechnikában?",
+      "options": [
+        "Egy karakter vagy szimbólum",
+        "Egy információ",
+        "Számok halmaza",
+        "A fentiek mindegyike"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egység a legkisebb?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Kilobájt",
+        "Megabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hány bit van 1 bájtban?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik az adattárolási egység?",
+      "options": [
+        "Méter",
+        "Liter",
+        "Gigabyte",
+        "Gram"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a „KB”?",
+      "options": [
+        "Kiloakkumulátor",
+        "Kilobájt",
+        "Billentyűzet",
+        "Keybit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az 1024 megabájt?",
+      "options": [
+        "1 Gigabyte",
+        "1 terabájt",
+        "1 kilobájt",
+        "1 bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik mértékegységet használják ma a nagyon nagy merevlemezek mérésére?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Megabyte",
+        "Terabyte"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az \"Információ\"?",
+      "options": [
+        "Véletlenszerű zaj",
+        "Feldolgozott és értelmes adatok",
+        "Csak számok",
+        "Egy számítógép képernyője"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik az adattárolás digitális módja?",
+      "options": [
+        "Jegyzetfüzet",
+        "Merevlemez",
+        "Memória",
+        "Ceruza"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire használható a jelszó?",
+      "options": [
+        "A számítógép felgyorsítása",
+        "Adatvédelem",
+        "Játékok",
+        "Gyorsabb gépelés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az erős jelszó?",
+      "options": [
+        "1234",
+        "jelszó",
+        "Betűk, számok és szimbólumok keveréke",
+        "a neved"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik NEM tárolóeszköz?",
+      "options": [
+        "USB flash meghajtó",
+        "Cloud Storage",
+        "CPU",
+        "Merevlemez"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a „digitális” az informatikában?",
+      "options": [
+        "Az ujjak használata",
+        "Számok (0 és 1) képviselik",
+        "Csak színek használata",
+        "Analóg jelek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol tárolják az adatokat tartósan?",
+      "options": [
+        "RAM",
+        "Monitor",
+        "Merevlemez",
+        "Egér"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"Bit\"?",
+      "options": [
+        "Egy kis bájt",
+        "Bináris számjegy (0 vagy 1)",
+        "Egy darab egér",
+        "Egy számítógépes játék"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az adatmentés fő célja?",
+      "options": [
+        "A számítógép gyorsabbá tételéhez",
+        "Adatok mentése elvesztés esetén",
+        "A háttérkép megváltoztatása",
+        "Új játékok telepítéséhez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik itt a legnagyobb egység?",
+      "options": [
+        "GB",
+        "MB",
+        "KB",
+        "Byte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Cloud Storage”?",
+      "options": [
+        "Adatok tárolása a Holdon",
+        "Adatok tárolása távoli szervereken interneten keresztül",
+        "Adatok tárolása esőben",
+        "A billentyűzet típusa"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az \"Input\" adat?",
+      "options": [
+        "A képernyőn megjelenő adatok",
+        "A számítógépbe bevitt adatok",
+        "A nyomtatóra küldött adatok",
+        "Törölt adatok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „kimeneti” adat?",
+      "options": [
+        "Egérrel bevitt adatok",
+        "A számítógép által megjelenített vagy kiadott adatok",
+        "A RAM-ban tárolt adatok",
+        "Adatok egy mappában"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az \"adatbázis\"?",
+      "options": [
+        "Rendszerezett adatok gyűjteménye",
+        "Egy típusú monitor",
+        "Egy számítógépház",
+        "Egy tápkábel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólumot használják általában az e-mail címekben?",
+      "options": [
+        "#",
+        "$",
+        "@",
+        "&"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az \"Adatvédelem\"?",
+      "options": [
+        "Minden megosztása online",
+        "Személyes adatainak védelme",
+        "Nyilvános számítógép használata",
+        "Zene letöltése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „titkosítás”?",
+      "options": [
+        "Fájlok törlése",
+        "Adatok titkosítása a titoktartás érdekében",
+        "Dokumentum nyomtatása",
+        "Mappa elnevezése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik szöveges adat?",
+      "options": [
+        "Egy fénykép",
+        "Egy dal",
+        "Levél egy barátnak",
+        "Egy videoklip"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Az adatok olyan információk, amelyeket a számítógép képes feldolgozni."
+    },
+    {
+      "type": "typing",
+      "text": "Nyolc bit alkot egy bájtot."
+    },
+    {
+      "type": "typing",
+      "text": "Egy erős jelszó védi fiókját."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig készítsen biztonsági másolatot a fontos fájlokról."
+    },
+    {
+      "type": "typing",
+      "text": "Egy gigabájt nagyobb, mint egy megabájt."
+    },
+    {
+      "type": "typing",
+      "text": "A számítógépek bináris számokat használnak: nullát és egyet."
+    },
+    {
+      "type": "typing",
+      "text": "A merevlemez folyamatosan tárolja az adatokat."
+    },
+    {
+      "type": "typing",
+      "text": "Soha ne ossza meg jelszavát idegenekkel."
+    },
+    {
+      "type": "typing",
+      "text": "A digitális adatok könnyen másolhatók és megoszthatók."
+    },
+    {
+      "type": "typing",
+      "text": "Az információ olyan adat, amelynek van jelentése."
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Grundlagen der Tabellenkalkulation",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Welche Software ist die bekannteste Tabellenkalkulation?",
+      "options": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Windows Media Player"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man eine Excel-Datei?",
+      "options": [
+        "Dokument",
+        "Arbeitsmappe",
+        "Präsentation",
+        "Datenbank"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Woraus besteht eine Arbeitsmappe?",
+      "options": [
+        "Nur Text",
+        "Tabellenblättern",
+        "Nur Bildern",
+        "Folien"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie werden Spalten in Excel identifiziert?",
+      "options": [
+        "Zahlen (1, 2, 3...)",
+        "Buchstaben (A, B, C...)",
+        "Farben",
+        "Römische Zahlen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie werden Zeilen in Excel identifiziert?",
+      "options": [
+        "Buchstaben (A, B, C...)",
+        "Zahlen (1, 2, 3...)",
+        "Namen",
+        "Codes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Zelladresse (Bezug)?",
+      "options": [
+        "Spaltenbuchstabe und Zeilennummer (z. B. A1)",
+        "Der Text in der Zelle",
+        "Die Zellfarbe",
+        "Der Name des Tabellenblatts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was muss man vor eine Formel schreiben, damit Excel rechnet?",
+      "options": [
+        "Fragezeichen (?)",
+        "Gleichheitszeichen (=)",
+        "Raute (#)",
+        "Stern (*)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die aktuell ausgewählte Zelle?",
+      "options": [
+        "Passive Zelle",
+        "Aktive Zelle",
+        "Hauptzelle",
+        "Leere Zelle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist die 'Bearbeitungsleiste' da?",
+      "options": [
+        "Inhalt oder Formel einer Zelle bearbeiten",
+        "Schriftart ändern",
+        "Datei speichern",
+        "Blätter löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schreibt man einen Zellbereich (z. B. von A1 bis B5)?",
+      "options": [
+        "A1 : B5",
+        "A1 + B5",
+        "A1 - B5",
+        "A1 , B5"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen nutzt man für die Addition in Tabellen?",
+      "options": [
+        "+",
+        "-",
+        "*",
+        "/"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen nutzt man für die Multiplikation?",
+      "options": [
+        "x",
+        "*",
+        ".",
+        "s"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen nutzt man für die Division?",
+      "options": [
+        ":",
+        "/",
+        "\\",
+        "%"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man 'AutoAusfüllen' (Ziehen am Ausfüllkästchen)?",
+      "options": [
+        "Schnelles Kopieren oder Fortsetzen von Reihen",
+        "Zellen färben",
+        "PC ausschalten",
+        "Neue Datei öffnen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man das Format einer Zelle in Währung?",
+      "options": [
+        "Start -> Gruppe Zahl -> Dropdown-Menü",
+        "Einfach Symbol tippen",
+        "Geht nicht",
+        "Dateiname ändern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die SUMME-Funktion?",
+      "options": [
+        "Addiert die Zahlen eines Bereichs",
+        "Subtrahiert Zahlen",
+        "Findet kleinste Zahl",
+        "Berechnet Durchschnitt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die MITTELWERT-Funktion?",
+      "options": [
+        "Berechnet den Durchschnitt der Zahlen",
+        "Addiert alles",
+        "Zählt die Zellen",
+        "Findet größte Zahl"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die MIN-Funktion?",
+      "options": [
+        "Findet den kleinsten Wert",
+        "Findet den größten Wert",
+        "Löscht alles",
+        "Skaliert die Tabelle"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die MAX-Funktion?",
+      "options": [
+        "Findet den größten Wert",
+        "Addiert Zahlen",
+        "Macht alles groß",
+        "Berechnet Maximalzeit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fügt man eine neue Spalte ein?",
+      "options": [
+        "Rechtsklick auf Spaltenkopf -> Einfügen",
+        "Entf-Taste",
+        "Nur am Ende möglich",
+        "Geht nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Shortcut speichert die Arbeitsmappe?",
+      "options": [
+        "Strg + S",
+        "Strg + C",
+        "Strg + V",
+        "Strg + Z"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Rahmen' in Excel?",
+      "options": [
+        "Linien, die das Gitter im Druck sichtbar machen und Daten ordnen",
+        "Bilderrahmen",
+        "Versteckt Formeln",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet es, wenn eine Zelle ##### zeigt?",
+      "options": [
+        "Formelfehler",
+        "Inhalt ist zu breit für die Spalte",
+        "PC kaputt",
+        "Geheimcode"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie verbindet man mehrere Zellen zu einer?",
+      "options": [
+        "Verbinden und Zentrieren-Button",
+        "Zellen löschen",
+        "Spalten schneiden",
+        "Geht nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Dateiendung ist typisch für Excel?",
+      "options": [
+        ".docx",
+        ".pptx",
+        ".xlsx",
+        ".pdf"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Tabellenblatt"
+    },
+    {
+      "type": "typing",
+      "text": "Zelle"
+    },
+    {
+      "type": "typing",
+      "text": "="
+    },
+    {
+      "type": "typing",
+      "text": "SUMME"
+    },
+    {
+      "type": "typing",
+      "text": "Bereich"
+    },
+    {
+      "type": "typing",
+      "text": "Buchstabe"
+    },
+    {
+      "type": "typing",
+      "text": "Zahl"
+    },
+    {
+      "type": "typing",
+      "text": "Bearbeitungsleiste"
+    },
+    {
+      "type": "typing",
+      "text": "MIN"
+    },
+    {
+      "type": "typing",
+      "text": "xlsx"
+    }
+  ]
+}

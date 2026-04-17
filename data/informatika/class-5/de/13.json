@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Pixel\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Tier",
+                                      "Der kleinste Bildpunkt einer Grafik",
+                                      "Ein Programm",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Programm wird oft für einfache Zeichnungen verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Word",
+                                      "Paint",
+                                      "Excel",
+                                      "Calculator"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was ist eine Rastergrafik?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bild aus Punkten (Pixeln)",
+                                      "Ein Bild aus Linien",
+                                      "Ein Video",
+                                      "Ein Text"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Vektorgrafik?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bild aus Punkten",
+                                      "Ein Bild aus mathematisch berechneten Linien und Kurven",
+                                      "Ein Foto",
+                                      "Ein Scan"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Dateiformat ist typisch für Fotos?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "MP3",
+                                      "JPG / JPEG",
+                                      "EXE",
+                                      "TXT"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Auflösung\u0027 bei einem Bild?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Farbe",
+                                      "Die Anzahl der Pixel (Breite x Höhe)",
+                                      "Das Alter des Bildes",
+                                      "Die Dateigröße"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Werkzeug benutzt man in Paint zum Ausfüllen einer Fläche?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Pinsel",
+                                      "Farbeimer / Füllen",
+                                      "Radiergummi",
+                                      "Lupe"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht das \u0027Radiergummi\u0027-Werkzeug?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Farbe hinzufügen",
+                                      "Teile des Bildes löschen",
+                                      "Das Bild vergrößern",
+                                      "Das Bild speichern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Format unterstützt transparente Hintergründe?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "JPG",
+                                      "PNG",
+                                      "BMP",
+                                      "TIFF"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür steht \u0027RGB\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rechts-Gerade-Blau",
+                                      "Rot-Grün-Blau (Grundfarben)",
+                                      "Rechner-Grafik-Basis",
+                                      "Real-Graphic-Bytes"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Scanner?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Gerät zum Drucken",
+                                      "Ein Gerät zum Digitalisieren von Papierbildern",
+                                      "Ein Monitor",
+                                      "Eine Maus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim \u0027Zuschneiden\u0027 (Crop) eines Bildes?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Farben ändern sich",
+                                      "Ränder werden entfernt",
+                                      "Das Bild wird gedruckt",
+                                      "Das Bild wird gelöscht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027ClipArt\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Video",
+                                      "Eine fertige Grafik oder Illustration zum Einfügen",
+                                      "Ein Musikstück",
+                                      "Ein Textdokument"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Werkzeug in Paint zeichnet freihändig?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rechteck",
+                                      "Stift / Pinsel",
+                                      "Textwerkzeug",
+                                      "Linie"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Skalieren\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Größe eines Bildes ändern",
+                                      "Ein Bild löschen",
+                                      "Ein Bild drucken",
+                                      "Die Farbe ändern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Screenshot?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Foto von einer Kamera",
+                                      "Ein Abbild des aktuellen Bildschirminhalts",
+                                      "Ein kaputter Monitor",
+                                      "Ein spezielles Spiel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Werkzeug wird zum Schreiben im Bild genutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Pinsel",
+                                      "Text-Werkzeug (A)",
+                                      "Fülleimer",
+                                      "Radierer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Womit wählt man einen rechteckigen Bereich aus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Lupe",
+                                      "Auswahl-Werkzeug",
+                                      "Farbauswahl",
+                                      "Pinsel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist der Vorteil von Vektorgrafiken?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie sehen immer wie Fotos aus",
+                                      "Man kann sie ohne Qualitätsverlust vergrößern",
+                                      "Sie sind immer sehr groß",
+                                      "Sie haben keine Farben"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Farbwähler (Pipette)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Werkzeug zum Löschen",
+                                      "Ein Werkzeug zum Übernehmen einer Farbe aus dem Bild",
+                                      "Ein Pinsel",
+                                      "Ein Speicherknopf"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Collage?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein einzelnes Foto",
+                                      "Ein Bild aus vielen verschiedenen Bildern",
+                                      "Ein Video",
+                                      "Ein Text"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird die \u0027Lupe\u0027 verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Löschen",
+                                      "Zum Vergrößern der Ansicht",
+                                      "Zum Ändern der Farbe",
+                                      "Zum Drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein GIF?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein reiner Text",
+                                      "Ein Bildformat, das auch Animationen kann",
+                                      "Ein Musikformat",
+                                      "Ein Virus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027DPI\u0027 bei Grafiken?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Data Per Image",
+                                      "Dots Per Inch (Druckauflösung)",
+                                      "Digital Picture Input",
+                                      "Direct Print Index"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Programm ist ein professionelles Bildbearbeitungsprogramm?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Editor",
+                                      "Photoshop (oder GIMP)",
+                                      "Minesweeper",
+                                      "WordPad"
+                                  ]
+                  },
+                  {
+                      "text":  "Digitale Bilder bestehen aus vielen kleinen Bildpunkten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit einem Bildbearbeitungsprogramm können wir Fotos verändern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "PNG-Dateien können einen transparenten Hintergrund haben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Vektorgrafiken bleiben auch beim Vergrößern immer scharf.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In Paint können wir mit dem Pinsel freihändig zeichnen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Auflösung gibt an, wie viele Pixel ein Bild hat.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir speichern unsere Zeichnungen meistens als JPG oder PNG.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit dem Fülleimer färben wir geschlossene Flächen schnell ein.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Screenshot speichert das aktuelle Bild auf dem Monitor.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Grafiktabletts helfen Künstlern beim digitalen Malen.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Digitale Grafik"
+}

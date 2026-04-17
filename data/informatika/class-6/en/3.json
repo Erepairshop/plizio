@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Internet Services",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Which is a popular search engine?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Word"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does e-mail mean?",
+      "options": [
+        "Electronic mail",
+        "Extra fast message",
+        "Interesting content",
+        "Unique identifier"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is spam?",
+      "options": [
+        "Important letter",
+        "Unsolicited, mass advertising mail",
+        "Protected file",
+        "Professional forum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the @ symbol mean in an e-mail address?",
+      "options": [
+        "And",
+        "At",
+        "Plus",
+        "Slash"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a social media site?",
+      "options": [
+        "Wikipedia",
+        "Instagram",
+        "Google Search",
+        "Notepad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the full name of WWW?",
+      "options": [
+        "World Wide Web",
+        "World West Web",
+        "Web World Wide",
+        "Wide Web World"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call netiquette?",
+      "options": [
+        "Internet speed",
+        "Internet behavior rules",
+        "Online shopping",
+        "Website design"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a blog?",
+      "options": [
+        "A type of virus",
+        "Internet diary",
+        "Search engine",
+        "Operating system"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a forum?",
+      "options": [
+        "Online discussion place where topics are debated",
+        "An image file",
+        "E-mail provider",
+        "Hardware component"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a link?",
+      "options": [
+        "Background color of a website",
+        "Reference that points to another page",
+        "A button on the keyboard",
+        "A password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is an e-mail provider?",
+      "options": [
+        "Gmail",
+        "Spotify",
+        "Netflix",
+        "Steam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is browser history?",
+      "options": [
+        "Future plans",
+        "List of previously visited websites",
+        "Saved images",
+        "Deleted e-mails"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a bookmark mean?",
+      "options": [
+        "A physical object",
+        "Saved website address for quick access",
+        "A type of virus",
+        "Desktop wallpaper"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is streaming?",
+      "options": [
+        "Permanent download of files",
+        "Continuous data transfer (e.g., when watching a video)",
+        "Computer cleaning",
+        "E-mail sending"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a podcast?",
+      "options": [
+        "Digital audio content",
+        "A new type of screen",
+        "Wireless mouse",
+        "Network cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is e-commerce?",
+      "options": [
+        "Electronic letter writing",
+        "Online buying and selling",
+        "Programming",
+        "Computer repair"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the starting page of a website called?",
+      "options": [
+        "Backpage",
+        "Homepage",
+        "Endpage",
+        "Sidepage"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is NOT a browser?",
+      "options": [
+        "Firefox",
+        "Safari",
+        "Linux",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a captcha?",
+      "options": [
+        "A game",
+        "Test to perform human identification",
+        "A file extension",
+        "A type of cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does incognito mode mean?",
+      "options": [
+        "Faster internet",
+        "Browsing data is not saved on the computer",
+        "Invisibility against hackers",
+        "No internet connection"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is online banking?",
+      "options": [
+        "Collecting money in a box",
+        "Banking through the internet",
+        "Using play money",
+        "Finding an ATM"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a wiki?",
+      "options": [
+        "A search engine",
+        "Jointly editable information website",
+        "A type of virus",
+        "News portal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is internet harassment called?",
+      "options": [
+        "Cyberbullying",
+        "E-mailing",
+        "Web-browsing",
+        "Skyping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a messaging application?",
+      "options": [
+        "Photoshop",
+        "WhatsApp",
+        "Excel",
+        "PowerPoint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the most important thing to do with an unknown link?",
+      "options": [
+        "Click it immediately",
+        "Don't click it, be suspicious",
+        "Send it to all friends",
+        "Download its content"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "The internet provides countless useful services."
+    },
+    {
+      "type": "typing",
+      "text": "We surf the web using browsers."
+    },
+    {
+      "type": "typing",
+      "text": "E-mail is one of the oldest online services."
+    },
+    {
+      "type": "typing",
+      "text": "Use strong passwords for every account."
+    },
+    {
+      "type": "typing",
+      "text": "Search engines help find information."
+    },
+    {
+      "type": "typing",
+      "text": "Netiquette rules help in polite communication."
+    },
+    {
+      "type": "typing",
+      "text": "Never give personal data to strangers."
+    },
+    {
+      "type": "typing",
+      "text": "Do not open spam messages, delete them."
+    },
+    {
+      "type": "typing",
+      "text": "Social media helps in staying in touch."
+    },
+    {
+      "type": "typing",
+      "text": "Online shopping is convenient, but be careful."
+    }
+  ]
+}

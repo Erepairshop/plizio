@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Peripherals",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What are peripherals?",
+      "options": [
+        "Internal parts only",
+        "External devices connected to the computer",
+        "Types of software",
+        "Internet cables"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is an 'Input' device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speakers"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is an 'Output' device?",
+      "options": [
+        "Mouse",
+        "Scanner",
+        "Monitor",
+        "Microphone"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the main use of a Mouse?",
+      "options": [
+        "Typing",
+        "Pointing and clicking on the screen",
+        "Printing",
+        "Listening to music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a Keyboard used for?",
+      "options": [
+        "Scanning photos",
+        "Entering text and commands",
+        "Showing videos",
+        "Moving the computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a Scanner do?",
+      "options": [
+        "Prints text on paper",
+        "Converts paper documents into digital files",
+        "Plays sounds",
+        "Shows images"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a Printer used for?",
+      "options": [
+        "Taking photos",
+        "Putting digital text or images onto paper",
+        "Moving the cursor",
+        "Storing files"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which peripheral allows you to hear sound?",
+      "options": [
+        "Monitor",
+        "Speakers",
+        "Keyboard",
+        "Webcam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a Webcam used for?",
+      "options": [
+        "Printing",
+        "Capturing video and taking photos",
+        "Typing",
+        "Scanning"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a Microphone used for?",
+      "options": [
+        "Showing images",
+        "Recording or sending voice and sound",
+        "Clicking buttons",
+        "Printing documents"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is both an input and output device?",
+      "options": [
+        "Touchscreen",
+        "Standard Mouse",
+        "Standard Keyboard",
+        "Simple Speakers"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Monitor'?",
+      "options": [
+        "A device that prints",
+        "A screen that shows visual information",
+        "A device for typing",
+        "A storage part"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Projector'?",
+      "options": [
+        "A small screen",
+        "A device that shows the screen image on a wall",
+        "A type of printer",
+        "A type of scanner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where do you plug in most modern peripherals?",
+      "options": [
+        "Power socket",
+        "USB port",
+        "Floppy drive",
+        "CD tray"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Joystick' often used for?",
+      "options": [
+        "Typing",
+        "Playing games",
+        "Printing",
+        "Scanning"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'External Hard Drive' used for?",
+      "options": [
+        "Showing images",
+        "Additional data storage",
+        "Printing",
+        "Sound recording"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'DPI' usually refer to for a mouse or printer?",
+      "options": [
+        "The weight",
+        "The resolution or sensitivity",
+        "The color",
+        "The price"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which peripheral is needed for a video call?",
+      "options": [
+        "Printer",
+        "Webcam",
+        "Scanner",
+        "Hard Drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Headset'?",
+      "options": [
+        "A type of hat",
+        "A combination of headphones and a microphone",
+        "A screen protector",
+        "A mouse pad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Graphic Tablet' used for?",
+      "options": [
+        "Reading books",
+        "Drawing and digital art",
+        "Printing photos",
+        "Playing music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a peripheral?",
+      "options": [
+        "Keyboard",
+        "CPU",
+        "Printer",
+        "Scanner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Bluetooth' used for?",
+      "options": [
+        "Making the screen blue",
+        "Connecting devices wirelessly",
+        "Cleaning the computer",
+        "Printing in color"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Barcode Scanner' used for?",
+      "options": [
+        "Drawing",
+        "Reading product codes in stores",
+        "Typing letters",
+        "Playing videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is used to enter a paper photo into a computer?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Monitor",
+        "Speakers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Plotter'?",
+      "options": [
+        "A small mouse",
+        "A large-scale printer for technical drawings",
+        "A type of keyboard",
+        "A game controller"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Peripherals are devices connected to the computer."
+    },
+    {
+      "type": "typing",
+      "text": "The keyboard and mouse are input devices."
+    },
+    {
+      "type": "typing",
+      "text": "The monitor and printer are output devices."
+    },
+    {
+      "type": "typing",
+      "text": "A webcam lets people see you during a video call."
+    },
+    {
+      "type": "typing",
+      "text": "Speakers allow you to listen to music and sounds."
+    },
+    {
+      "type": "typing",
+      "text": "A scanner turns paper photos into digital files."
+    },
+    {
+      "type": "typing",
+      "text": "USB ports are used to connect many peripherals."
+    },
+    {
+      "type": "typing",
+      "text": "Touchscreens work as both input and output."
+    },
+    {
+      "type": "typing",
+      "text": "A printer puts your digital work onto paper."
+    },
+    {
+      "type": "typing",
+      "text": "Wireless mice connect to the computer using Bluetooth."
+    }
+  ]
+}

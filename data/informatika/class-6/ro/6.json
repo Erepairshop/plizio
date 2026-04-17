@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Editare avansată de imagini",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă strat (layer) în editarea de imagini?",
+      "options": [
+        "Culoarea imaginii",
+        "Niveluri similare cu foliile transparente suprapuse",
+        "Dimensiunea imaginii",
+        "Viteza de salvare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care program este potrivit pentru editare avansată de imagini?",
+      "options": [
+        "GIMP / Photoshop",
+        "Notepad",
+        "Excel",
+        "Calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul selecției?",
+      "options": [
+        "Ștergerea imaginii",
+        "Efectuarea modificărilor doar pe o anumită parte a imaginii",
+        "Imprimarea imaginii",
+        "Oprirea monitorului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face instrumentul Crop?",
+      "options": [
+        "Schimbă culorile",
+        "Elimină marginile inutile ale imaginii",
+        "Colorează fundalul",
+        "Întoarce imaginea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care format de fișier suportă transparența?",
+      "options": [
+        "JPG",
+        "PNG",
+        "BMP",
+        "TXT"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă retușarea?",
+      "options": [
+        "Ștergerea imaginii",
+        "Repararea erorilor din imagine, eliminarea detaliilor deranjante",
+        "Desenarea unei imagini noi",
+        "Trimiterea imaginii prin e-mail"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un pixel?",
+      "options": [
+        "Cea mai mică componentă a unei imagini digitale (element de imagine)",
+        "Un tip de mouse",
+        "Marcă de monitor",
+        "O tastă de pe tastatură"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă rezoluția?",
+      "options": [
+        "Numărul de culori ale imaginii",
+        "Numărul de pixeli pe unitatea de suprafață (ex. DPI)",
+        "Dimensiunea fișierului imaginii",
+        "Timpul de editare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care instrument este pentru eșantionarea culorilor?",
+      "options": [
+        "Pensulă",
+        "Pipetă (Eyedropper)",
+        "Radieră",
+        "Găleată"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face comanda Invert?",
+      "options": [
+        "Șterge imaginea",
+        "Inversează culorile (negativ)",
+        "Micșorează imaginea",
+        "Salvează imaginea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce este bun Clone Stamp?",
+      "options": [
+        "Copierea imaginilor dintr-un dosar în altul",
+        "Copierea unei părți din imagine și pictarea ei în altă parte",
+        "Salvarea imaginii",
+        "Creșterea dimensiunii fontului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este diferența dintre imaginile raster și cele vectoriale?",
+      "options": [
+        "Nicio diferență",
+        "Raster constă din pixeli, vectorial din forme matematice",
+        "Raster este doar alb-negru",
+        "Vectorial este bun doar pentru videoclipuri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce controlează Opacitatea?",
+      "options": [
+        "Claritatea imaginii",
+        "Lipsa de transparență a stratului sau instrumentului",
+        "Dimensiunea imaginii",
+        "Numărul de culori"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care filtru estompează (blurează) imaginea?",
+      "options": [
+        "Claritate (Sharpen)",
+        "Gaussian Blur",
+        "Add Noise",
+        "Saturația culorilor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă Histogramă în fotografie/editare?",
+      "options": [
+        "Istoricul imaginii",
+        "Grafic care arată distribuția luminozității",
+        "Creatorul imaginii",
+        "Tipul camerei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este instrumentul Magic Wand?",
+      "options": [
+        "Desen",
+        "Selecția automată a zonelor cu culoare similară",
+        "Scriere de text",
+        "Salvare de imagine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă Saturația?",
+      "options": [
+        "Luminozitatea imaginii",
+        "Vigoarea culorilor",
+        "Dimensiunea imaginii în pixeli",
+        "Numărul de straturi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care mod de culoare este pentru imprimare?",
+      "options": [
+        "RGB",
+        "CMYK",
+        "Grayscale",
+        "Indexed"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care mod de culoare este pentru ecran?",
+      "options": [
+        "RGB",
+        "CMYK",
+        "Lab",
+        "Bitmap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face instrumentul Gradient?",
+      "options": [
+        "Pictează o singură culoare",
+        "Creează o tranziție continuă între culori",
+        "Șterge stratul",
+        "Decupează imaginea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este o mască de strat (layer mask)?",
+      "options": [
+        "Ștergerea definitivă a stratului",
+        "Ascunderea sau afișarea anumitor părți ale stratului fără distrugere",
+        "Înrămarea imaginii",
+        "Protecție cu parolă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce combinație de taste este de obicei Undo?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+Z",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă editare non-distructivă?",
+      "options": [
+        "Că nu se strică aparatul",
+        "Datele originale ale imaginii rămân și orice poate fi modificat ulterior",
+        "Că salvarea este foarte lentă",
+        "Că facem doar copii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care instrument este pentru selecție manuală liberă?",
+      "options": [
+        "Rectangular marquee",
+        "Lasso tool",
+        "Pensulă",
+        "Găleată"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă abrevierea DPI?",
+      "options": [
+        "Digital Picture Interface",
+        "Dots Per Inch",
+        "Data Processing Information",
+        "Dual Pixel Image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Folosirea straturilor este fundamentală în editarea foto profesională."
+    },
+    {
+      "type": "typing",
+      "text": "Formatul PNG este ideal pentru imagini cu fundal transparent."
+    },
+    {
+      "type": "typing",
+      "text": "Rezoluția determină nivelul de detaliu al unei imagini."
+    },
+    {
+      "type": "typing",
+      "text": "Grafica vectorială poate fi mărită fără pierderea calității."
+    },
+    {
+      "type": "typing",
+      "text": "Cu retușarea putem elimina imperfecțiunile pielii."
+    },
+    {
+      "type": "typing",
+      "text": "Cu instrumentele de selecție putem lucra precis pe imagine."
+    },
+    {
+      "type": "typing",
+      "text": "Modul de culoare RGB folosește culorile roșu, verde și albastru."
+    },
+    {
+      "type": "typing",
+      "text": "Culorile CMYK sunt aplicate în tipografii."
+    },
+    {
+      "type": "typing",
+      "text": "Cu filtrele putem adăuga efecte speciale fotografiilor."
+    },
+    {
+      "type": "typing",
+      "text": "Editarea non-distructivă ajută la păstrarea calității originale."
+    }
+  ]
+}

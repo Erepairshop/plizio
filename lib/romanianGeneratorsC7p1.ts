@@ -219,15 +219,15 @@ function adjectiv_functii(seed = 42): CurriculumQuestion[] {
     if (variantType === 0) {
       question = `În propoziția "${func.sentence}", adjectivul "${func.adjective}" joacă funcția de:`;
       correct = func.function;
-      wrongOpts = ["adverbial", "complement indirect", "determinator nominal"];
+      wrongOpts = ["complement circumstanțial", "complement indirect", "atribut"];
     } else if (variantType === 1) {
       question = `Adjectivul "${func.adjective}" din "${func.sentence}" exprimă:`;
       correct = func.role;
-      wrongOpts = ["deoarece", "în mod adverbial", "ca determinant"];
+      wrongOpts = ["o acțiune", "o cauză", "o împrejurare"];
     } else {
       question = `Ce rol joacă adjectivul în: "${func.sentence}"?`;
       correct = func.function;
-      wrongOpts = ["predicat nominal", "modifier de verb", "complement prepoziție"];
+      wrongOpts = ["predicat nominal", "complement circumstanțial", "complement prepozițional"];
     }
 
     questionPool.push(createMCQ("Romanian-C7-P1", "adjectiv_functii", question, correct, wrongOpts, rng));

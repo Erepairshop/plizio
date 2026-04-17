@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Securitate digitală",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cum este o parolă bună?",
+      "options": [
+        "123456",
+        "Prenumele tău",
+        "Lungă, conține litere mari și mici, cifre și semne",
+        "Numele câinelui tău"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cui îi poți da parola ta?",
+      "options": [
+        "Celui mai bun prieten",
+        "Nimănui (doar eventual părinților)",
+        "Unui străin drăguț",
+        "Tuturor celor care o cer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă date cu caracter personal?",
+      "options": [
+        "Culoarea ta preferată",
+        "Nume, adresă, număr de telefon, numele școlii",
+        "O imagine amuzantă",
+        "Tipul calculatorului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un virus?",
+      "options": [
+        "O boală la om",
+        "Un program dăunător care îți poate strica calculatorul",
+        "Numele unui joc",
+        "Un buton de pe monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ne putem proteja împotriva virușilor?",
+      "options": [
+        "Ne spălăm pe mâini",
+        "Folosim un program antivirus",
+        "Închidem monitorul",
+        "Nu folosim tastatura"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'phishing' (pescuirea de date)?",
+      "options": [
+        "Pescuit la lac",
+        "Escrocii încearcă să ne păcălească să dăm date personale",
+        "Descărcarea de jocuri noi",
+        "Sport pe calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să te întâlnești cu străini pe care i-ai cunoscut pe net?",
+      "options": [
+        "Da, sigur sunt drăguți",
+        "Doar dacă aduc cadouri",
+        "Nu, acest lucru este foarte periculos!",
+        "Doar dacă te duci singur"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce trebuie să faci dacă primești un mesaj jignitor?",
+      "options": [
+        "Îl jignești și tu",
+        "Spui unui adult și blochezi expeditorul",
+        "Îl ștergi și uiți",
+        "Îl arăți tuturor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă firewall (paravan de protecție)?",
+      "options": [
+        "Un zid în jurul casei",
+        "O protecție care monitorizează traficul de rețea",
+        "Un dispozitiv de încălzire",
+        "Răcitorul calculatorului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să descarci orice de pe un site necunoscut?",
+      "options": [
+        "Da, dacă este gratuit",
+        "Doar dacă butonul este frumos",
+        "Nu, deoarece poate fi virusat",
+        "Doar noaptea"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cea mai sigură rețea Wi-Fi?",
+      "options": [
+        "Cea deschisă, fără parolă, din parc",
+        "Propria rețea de acasă protejată cu parolă",
+        "A vecinului, pe ascuns",
+        "Oricare e bună"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă autentificarea în doi pași?",
+      "options": [
+        "Trebuie apăsat butonul de două ori",
+        "Sistemul cere și un alt cod (ex. SMS) pe lângă parolă",
+        "Trebuie tastat cu ambele mâini",
+        "E nevoie de două monitoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă amprenta digitală?",
+      "options": [
+        "Urma pantofului pe monitorul murdar",
+        "Tot ceea ce facem pe net și lasă o urmă după noi",
+        "Greutatea calculatorului",
+        "Uzură tastaturii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce să nu postăm fotografii cu biletul de avion?",
+      "options": [
+        "Pentru că e urât",
+        "Deoarece sunt pe el datele personale și codul nostru",
+        "Deoarece și alții vor să călătorească",
+        "Nu e nicio problemă dacă îl postăm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'spam'?",
+      "options": [
+        "O mâncare gustoasă",
+        "Mesaj publicitar nesolicitat și deranjant",
+        "Un calculator rapid",
+        "O rețea socială nouă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește modul privat al browserului?",
+      "options": [
+        "Oferă net gratuit",
+        "Nu salvează parolele și istoricul",
+        "Calculatorul va fi invizibil",
+        "Jocul va fi mai rapid"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă cineva pe net îți cere adresa de acasă?",
+      "options": [
+        "I-o dai",
+        "Nu i-o dai și spui părinților",
+        "Minți și dai o altă adresă",
+        "Dai doar numele orașului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă ajungi din greșeală pe un site pentru adulți?",
+      "options": [
+        "Te uiți până la capăt",
+        "Îl închizi imediat și spui unui adult",
+        "Îl trimiți prietenilor",
+        "Salvezi imaginile"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cine este hackerul?",
+      "options": [
+        "Un vânzător în magazin",
+        "O persoană care pătrunde în sisteme informatice",
+        "Un jucător profesionist de e-sports",
+        "Cineva care fabrică calculatoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un virus ransomware (de răscumpărare)?",
+      "options": [
+        "Un virus care cere bani în schimbul fișierelor tale",
+        "Un virus care face glume",
+        "Un virus care cântă",
+        "Nu există așa ceva"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Unde merită salvate fișierele importante (copie de rezervă)?",
+      "options": [
+        "Nicăieri, e bine acolo",
+        "Pe un hard disk extern sau în cloud",
+        "În coșul de gunoi",
+        "Pe monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă actualizarea software-ului?",
+      "options": [
+        "Cumpărarea unui calculator nou",
+        "Repararea erorilor și creșterea securității",
+        "Schimbarea imaginii de fundal",
+        "Încetinirea calculatorului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este periculos să lipești parolele pe un bilet pe monitor?",
+      "options": [
+        "Deoarece cade",
+        "Deoarece oricine le poate vedea și fura",
+        "Deoarece decolorează monitorul",
+        "Nu este periculos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă hărțuirea cibernetică (cyberbullying)?",
+      "options": [
+        "Urmărire pe internet",
+        "Rănire și umilire repetată pe internet",
+        "Prea multe jocuri",
+        "Cumpărături pe internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poate fi recunoscut un e-mail fraudulos?",
+      "options": [
+        "Te grăbește, cere date și adresa expeditorului e suspectă",
+        "Are un font frumos",
+        "E prea scurt",
+        "Nu are imagini"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Nu da niciodată parola ta nimănui pe internet!"
+    },
+    {
+      "type": "typing",
+      "text": "Protecția datelor personale este foarte importantă pentru securitate."
+    },
+    {
+      "type": "typing",
+      "text": "Programul antivirus protejează calculatorul de software-ul dăunător."
+    },
+    {
+      "type": "typing",
+      "text": "Folosește o parolă puternică, care conține litere și cifre!"
+    },
+    {
+      "type": "typing",
+      "text": "Autentificarea în doi pași oferă protecție suplimentară contului tău."
+    },
+    {
+      "type": "typing",
+      "text": "Gândește-te bine înainte de a posta ceva pe net!"
+    },
+    {
+      "type": "typing",
+      "text": "Pe internet, oricine poate rămâne cine vrea să pară."
+    },
+    {
+      "type": "typing",
+      "text": "Nu te întâlni niciodată singur cu persoane necunoscute de pe internet!"
+    },
+    {
+      "type": "typing",
+      "text": "Copia de rezervă ajută la păstrarea fișierelor tale importante."
+    },
+    {
+      "type": "typing",
+      "text": "Raportează hărțuirea unui adult de încredere!"
+    }
+  ]
+}

@@ -79,18 +79,18 @@ export function gen_genuri_literare_c5(seed: number): CurriculumQuestion[] {
 
     createTyping(T, S,
       "Care sunt cele trei genuri literare?",
-      "epic"),
+      "epic, liric și dramatic"),
 
     createTyping(T, S,
-      "Ce genul exprimă sentimente directe?",
+      "Ce gen exprimă sentimente directe?",
       "liric"),
 
     createTyping(T, S,
-      "Ce genul prezintă acțiuni cu personaje?",
+      "Ce gen prezintă acțiuni cu personaje?",
       "epic"),
 
     createTyping(T, S,
-      "Ce genul se joacă pe scenă?",
+      "Ce gen se joacă pe scenă?",
       "dramatic"),
 
     createTyping(T, S,
@@ -99,7 +99,7 @@ export function gen_genuri_literare_c5(seed: number): CurriculumQuestion[] {
 
     createTyping(T, S,
       "Cum se numește vocea care exprimă sentimente în poezie?",
-      "liric"),
+      "eul liric"),
 
     createTyping(T, S,
       "Care este autorul unei opere?",

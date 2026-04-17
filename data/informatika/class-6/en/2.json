@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Basics of Networks",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does LAN stand for?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Link Access Node",
+        "Low Area Network"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the task of a router?",
+      "options": [
+        "Storing data",
+        "Connecting networks and routing",
+        "Controlling the monitor",
+        "Printing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which device provides wireless internet?",
+      "options": [
+        "Switch",
+        "Router / Access Point",
+        "Monitor",
+        "Mouse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an IP address?",
+      "options": [
+        "Name of a website",
+        "Unique identifier of a device on the network",
+        "A file extension",
+        "A type of password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the worldwide network?",
+      "options": [
+        "LAN",
+        "WAN (Internet)",
+        "PAN",
+        "MAN"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which cable type is the fastest among these?",
+      "options": [
+        "Phone cable",
+        "Coaxial cable",
+        "Optical fiber",
+        "UTP cable"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the task of a browser?",
+      "options": [
+        "Writing letters",
+        "Displaying web pages",
+        "Antivirus",
+        "Image editing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does Wi-Fi mean?",
+      "options": [
+        "Wired connection",
+        "Wireless network technology",
+        "A file format",
+        "An operating system"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a server?",
+      "options": [
+        "A simple keyboard",
+        "A host computer that provides services",
+        "A small laptop",
+        "A type of monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does bandwidth mean?",
+      "options": [
+        "Width of the monitor",
+        "Amount of data transferred over the network per unit of time",
+        "Length of the keyboard",
+        "Color of the cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a browser program?",
+      "options": [
+        "Excel",
+        "Google Chrome",
+        "Photoshop",
+        "Notepad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a firewall do?",
+      "options": [
+        "Cools the computer",
+        "Protects the network from external attacks",
+        "Polishes the monitor",
+        "Speeds up the internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a URL?",
+      "options": [
+        "A type of image",
+        "A website address",
+        "A secret code",
+        "A file size"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does HTTP stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Tech Transfer Program",
+        "Home Tool Task Power",
+        "Hyper Task Tool Process"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which device connects computers in a local network?",
+      "options": [
+        "Scanner",
+        "Switch",
+        "Webcam",
+        "Speaker"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the task of a network card?",
+      "options": [
+        "Storing images",
+        "Allows the computer to connect to the network",
+        "Playing music",
+        "Performing calculations"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does download mean?",
+      "options": [
+        "Sending data to the server",
+        "Receiving data from the server to your own computer",
+        "Deleting a file",
+        "Turning off the computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does upload mean?",
+      "options": [
+        "Sending data from your own computer to a server",
+        "Receiving data",
+        "Closing a program",
+        "Saving a screenshot"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is NOT a network topology?",
+      "options": [
+        "Star",
+        "Ring",
+        "Square",
+        "Bus"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a domain name?",
+      "options": [
+        "Name of a person",
+        "Easy to remember name of a website",
+        "Name of a folder",
+        "A password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What connector does a UTP cable use?",
+      "options": [
+        "USB",
+        "RJ-45",
+        "HDMI",
+        "VGA"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an intranet?",
+      "options": [
+        "Worldwide network",
+        "Internal, closed network within an organization",
+        "A type of cable",
+        "An online game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the task of a modem?",
+      "options": [
+        "Printing images",
+        "Converting digital signals to analog and vice versa",
+        "Writing text",
+        "Volume control"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does Ethernet mean?",
+      "options": [
+        "Wired network technology",
+        "An internet browser",
+        "An operating system",
+        "A cloud storage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the most secure Wi-Fi encryption?",
+      "options": [
+        "WEP",
+        "WPA2/WPA3",
+        "Open",
+        "No password"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Networks are systems of interconnected computers."
+    },
+    {
+      "type": "typing",
+      "text": "Local area networks are called LANs."
+    },
+    {
+      "type": "typing",
+      "text": "The IP address identifies the computer on the internet."
+    },
+    {
+      "type": "typing",
+      "text": "The router directs data traffic between networks."
+    },
+    {
+      "type": "typing",
+      "text": "Optical fiber transmits data using light signals."
+    },
+    {
+      "type": "typing",
+      "text": "Wi-Fi allows for connection without cables."
+    },
+    {
+      "type": "typing",
+      "text": "Servers are always available to clients."
+    },
+    {
+      "type": "typing",
+      "text": "Bandwidth determines the speed of the internet."
+    },
+    {
+      "type": "typing",
+      "text": "We view web pages using a browser."
+    },
+    {
+      "type": "typing",
+      "text": "Protect our network with a strong password and firewall."
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Block-Programmierung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Bauen mit echten Steinen",
+                                      "Programmieren durch Zusammenstecken von grafischen Blöcken",
+                                      "Schreiben von kompliziertem Text",
+                                      "Malen am PC"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Nenne eine bekannte Umgebung für Block-Programmierung.",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Word",
+                                      "Scratch",
+                                      "Excel",
+                                      "Calculator"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Sprite\u0027 in Scratch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Getränk",
+                                      "Eine Figur oder ein Objekt auf der Bühne",
+                                      "Ein Hintergrundbild",
+                                      "Ein Ton"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Block startet meistens ein Programm?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Stopp-Block",
+                                      "Wenn die grüne Fahne angeklickt wird",
+                                      "Lösch-Block",
+                                      "Warte-Block"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo werden die Blöcke in Scratch zusammengesteckt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Im Keller",
+                                      "Im Skriptbereich (Code-Bereich)",
+                                      "Auf der Tastatur",
+                                      "Im Internet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht ein \u0027Wiederhole\u0027-Block?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Löscht den Code",
+                                      "Führt den Inhalt mehrfach aus",
+                                      "Stoppt das Programm",
+                                      "Ändert die Farbe"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür ist der \u0027Falls-Dann\u0027-Block da?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Schlafen",
+                                      "Für Entscheidungen und Bedingungen",
+                                      "Zum Zählen",
+                                      "Zum Malen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Variable\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kaputter Block",
+                                      "Ein Platzhalter oder Speicher für einen Wert (z.B. Punkte)",
+                                      "Ein Bild",
+                                      "Ein Name für eine Katze"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie ändert man das Aussehen einer Figur?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor putzen",
+                                      "Anderes Kostüm wählen",
+                                      "Maus schütteln",
+                                      "Lauter sprechen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht der Block \u0027Gehe 10 Schritte\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der Computer läuft weg",
+                                      "Die Figur bewegt sich vorwärts",
+                                      "Die Zeit vergeht schneller",
+                                      "Nichts"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die \u0027Bühne\u0027 in Scratch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der Ort, wo man sitzt",
+                                      "Der Bereich, in dem die Figuren agieren",
+                                      "Die Tastatur",
+                                      "Der Monitorständer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie fügt man einen Ton hinzu?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Singen",
+                                      "Über den Reiter \u0027Klänge\u0027 und entsprechende Blöcke",
+                                      "Kabel ziehen",
+                                      "Tippen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Sende Nachricht\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine E-Mail schreiben",
+                                      "Ein Signal an andere Figuren geben, damit diese reagieren",
+                                      "Den PC ausschalten",
+                                      "Eine SMS schicken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Ereignis-Block?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Block für Partys",
+                                      "Ein Block, der auf eine Aktion wartet (z.B. Tastendruck)",
+                                      "Ein Bild-Block",
+                                      "Ein löschender Block"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim Klick auf den roten Punkt in Scratch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Programm startet",
+                                      "Das Programm wird gestoppt",
+                                      "Die Farbe ändert sich",
+                                      "Alles wird gelöscht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Kann man in Scratch eigene Blöcke erstellen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein",
+                                      "Ja, über die Funktion \u0027Meine Blöcke\u0027",
+                                      "Nur wenn man Profi ist",
+                                      "Nur mit Geld"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht der Block \u0027Pralle vom Rand ab\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Figur verschwindet",
+                                      "Die Figur dreht um, wenn sie den Bühnenrand berührt",
+                                      "Der Monitor wackelt",
+                                      "Das Programm stürzt ab"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was sind \u0027Operatoren\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Telefonisten",
+                                      "Blöcke für mathematische Berechnungen oder Vergleiche",
+                                      "Ärzte",
+                                      "Spezielle Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird das \u0027Malstift\u0027-Tool oft genutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Schreiben von Text",
+                                      "Damit Figuren Linien zeichnen, während sie sich bewegen",
+                                      "Zum Ausmalen von Fotos",
+                                      "Zum Putzen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Hintergrund (Bühnenbild)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Farbe der Maus",
+                                      "Das Bild hinter den Figuren auf der Bühne",
+                                      "Ein Plakat an der Wand",
+                                      "Ein Ordner"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie speichert man sein Projekt in Scratch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Gar nicht",
+                                      "Über \u0027Datei\u0027 -\u003e \u0027Jetzt speichern\u0027",
+                                      "Indem man den Monitor ausschaltet",
+                                      "Durch Klatschen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das Ziel von Block-Programmierung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Besonders viel Text schreiben",
+                                      "Logisches Denken und Programmieren spielerisch lernen",
+                                      "Echte Häuser bauen",
+                                      "Bilder drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Farbe haben meist die \u0027Bewegung\u0027-Blöcke?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Grün",
+                                      "Blau",
+                                      "Gelb",
+                                      "Rot"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht der Block \u0027Warte 1 Sekunde\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Beendet das Programm",
+                                      "Pausiert den Ablauf für eine Sekunde",
+                                      "Macht den Computer schneller",
+                                      "Löscht den Code"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Klon in Scratch?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein böser Bruder",
+                                      "Eine Kopie einer Figur, die während des Spiels entsteht",
+                                      "Ein Virus",
+                                      "Ein neues Programm"
+                                  ]
+                  },
+                  {
+                      "text":  "Mit Blöcken können wir Programme wie mit Bausteinen zusammenfügen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In Scratch steuern wir Figuren auf einer digitalen Bühne.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die grüne Fahne startet den Ablauf unserer Skripte.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Schleifen helfen uns dabei, Bewegungen ständig zu wiederholen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Variablen können Spielstände oder Namen von Spielern speichern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Bedingungen machen unsere Programme interaktiv und intelligent.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir können unsere eigenen Spiele und Animationen gestalten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Block-Programmierung ist ein toller Einstieg in die Informatik.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Kostüme erlauben es uns, das Aussehen der Figuren zu verändern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Klänge und Musik machen unsere Projekte noch interessanter.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Programmierung Grundlagen - Blöcke"
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Online-Zusammenarbeit",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Online-Zusammenarbeit?",
+      "options": [
+        "Nur Spiele zusammen spielen",
+        "Gemeinsame Arbeit mehrerer Personen über das Internet",
+        "Nebeneinander tippen",
+        "Zusammen einen Film schauen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Tool eignet sich für Online-Videoanrufe?",
+      "options": [
+        "Excel",
+        "Zoom",
+        "Notepad",
+        "Paint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Kern der 'Teilen'-Funktion von Google Docs?",
+      "options": [
+        "Datei löschen",
+        "Andere zum Bearbeiten oder Ansehen einladen",
+        "Dokument drucken",
+        "Dokument verschlüsseln"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Rollen gibt es beim Filesharing?",
+      "options": [
+        "Betrachter, Kommentator, Bearbeiter",
+        "Chef, Lehrling, Gast",
+        "Schreiber, Leser, Löscher",
+        "Nur Bearbeiter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Echtzeit-Bearbeitung?",
+      "options": [
+        "Alle arbeiten zu verschiedenen Zeiten",
+        "Mehrere Personen sehen und bearbeiten dasselbe Dokument gleichzeitig",
+        "Das Dokument schreibt sich von selbst",
+        "Kann nur tagsüber bearbeitet werden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Anwendung ist NICHT für Gruppenarbeit gedacht?",
+      "options": [
+        "Microsoft Teams",
+        "Slack",
+        "Windows Minesweeper (offline)",
+        "Trello"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein digitales Whiteboard (z.B. Jamboard)?",
+      "options": [
+        "Eine physische Tafel an der Wand",
+        "Online-Fläche, auf der gemeinsam gezeichnet und geschrieben werden kann",
+        "Ein Monitortyp",
+        "Bildschirmschoner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Kommentieren' in einem Dokument?",
+      "options": [
+        "Endgültiges Umschreiben des Textes",
+        "Hinzufügen von Notizen ohne den Text zu verändern",
+        "Dokument löschen",
+        "Ein Bild einfügen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Plattform ist gut für Projektmanagement?",
+      "options": [
+        "Trello / Asana",
+        "Spotify",
+        "Netflix",
+        "Steam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie können wir in einem Online-Anruf signalisieren, dass wir sprechen möchten?",
+      "options": [
+        "Durch Schreien",
+        "Mit der Funktion 'Hand heben'",
+        "Durch Schütteln des Computers",
+        "Durch Abdecken der Kamera"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist Microsoft Teams?",
+      "options": [
+        "Nur zum Spielen",
+        "Gruppenkommunikation, Anrufe und Filesharing",
+        "Bildbearbeitung",
+        "Musik schreiben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Vorteil eines Online-Kalenders (z.B. Google Calendar)?",
+      "options": [
+        "Mehrere Personen können gemeinsame Zeiten und Ereignisse sehen",
+        "Zeigt das Wetter",
+        "Berechnet Hausaufgaben",
+        "Misst den Puls"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet die Funktion Versionsverlauf?",
+      "options": [
+        "Zukunftspläne",
+        "Überprüfung und Wiederherstellung früherer Zustände des Dokuments",
+        "Liste gespeicherter Bilder",
+        "Liste gelöschter Benutzer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck der 'Chat'-Funktion während der gemeinsamen Arbeit?",
+      "options": [
+        "Schneller, schriftlicher Nachrichtenaustausch",
+        "Lange Romane schreiben",
+        "Bilder drucken",
+        "Computer kühlen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein Videokonferenz-Tool?",
+      "options": [
+        "Google Meet",
+        "Adobe Reader",
+        "Calculator",
+        "Winamp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Bildschirmfreigabe?",
+      "options": [
+        "Monitor in zwei Hälften schneiden",
+        "Den eigenen Bildschirm anderen Teilnehmern zeigen",
+        "Zwei Monitore verwenden",
+        "Hintergrundbild ändern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist es wichtig, das Mikrofon stummzuschalten, wenn man nicht spricht?",
+      "options": [
+        "Um Batterie zu sparen",
+        "Um Hintergrundgeräusche zu filtern",
+        "Weil es verboten ist zu sprechen",
+        "Um das Netz zu beschleunigen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Gruppen-E-Mail-Liste?",
+      "options": [
+        "E-Mails an viele Personen gleichzeitig mit einer einzigen Adresse senden",
+        "Ein Geheimcode",
+        "Name von Spam",
+        "Platz für gelöschte Nachrichten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Auf welchem Cloud-Speicher können Leute zusammenarbeiten?",
+      "options": [
+        "Google Drive",
+        "Diskette",
+        "USB-Stick",
+        "CD-ROM"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet asynchrone Zusammenarbeit?",
+      "options": [
+        "Wenn alle gleichzeitig sprechen",
+        "Wenn Teilnehmer nicht zur gleichen Zeit an der Aufgabe arbeiten",
+        "Wenn kein Internet vorhanden ist",
+        "Wenn es nur ein Gerät gibt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennen wir online abgehaltene Lektionen/Seminare?",
+      "options": [
+        "Webinar",
+        "Fernsehen",
+        "Kino",
+        "Radio"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Tool ist gut für Brainstorming?",
+      "options": [
+        "Miro / Padlet",
+        "VLC Player",
+        "Minesweeper",
+        "Disk Cleanup"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Berechtigung' bei der Online-Arbeit?",
+      "options": [
+        "Wer welche Rechte hat (Ansehen, Bearbeiten usw.)",
+        "Welche Kleidung jemand trägt",
+        "Computergeschwindigkeit",
+        "Monitorhelligkeit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Ziel gemeinsamer Workflows?",
+      "options": [
+        "Alle zu verwirren",
+        "Effizienz und Transparenz zu erhöhen",
+        "Mehr Strom zu verbrauchen",
+        "Langsamer voranzukommen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Avatar' in Online-Zusammenarbeitsräumen?",
+      "options": [
+        "Ein Kabeltyp",
+        "Digitale Figur oder Bild, das den Benutzer darstellt",
+        "Ein Dateiformat",
+        "Ein Betriebssystem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Online-Zusammenarbeit erleichtert Gruppenprojekte."
+    },
+    {
+      "type": "typing",
+      "text": "Gemeinsame Dokumente können von mehreren Personen gleichzeitig bearbeitet werden."
+    },
+    {
+      "type": "typing",
+      "text": "Videoanrufe helfen bei einer persönlicheren Kommunikation."
+    },
+    {
+      "type": "typing",
+      "text": "Verwenden Sie Kommentare, um Vorschläge zu diskutieren."
+    },
+    {
+      "type": "typing",
+      "text": "Bildschirmfreigabe ist nützlich bei Präsentationen."
+    },
+    {
+      "type": "typing",
+      "text": "Kalenderfreigabe hilft bei der Terminplanung."
+    },
+    {
+      "type": "typing",
+      "text": "Respektieren Sie immer die Arbeit anderer in gemeinsamen Dateien."
+    },
+    {
+      "type": "typing",
+      "text": "In der Cloud wird jede Änderung automatisch gespeichert."
+    },
+    {
+      "type": "typing",
+      "text": "Auf digitalen Whiteboards können wir gemeinsam visuell planen."
+    },
+    {
+      "type": "typing",
+      "text": "Versionskontrolle schützt vor versehentlichem Löschen von Daten."
+    }
+  ]
+}

@@ -494,7 +494,7 @@ export const LETTER_LABELS: Record<string, Record<string, string>> = {
 
     // T12 - Tricky Letters: b vs d
     t12_title: "Tricky Letters: b & d",
-    t12_text: "'b' has a belly. 'd' has a diaper! Don't mix them up.",
+    t12_text: "The letter 'b' has a stick on the left. The letter 'd' has a stick on the right. Don't mix them up!",
     t12_inst: "Find the letter 'b'!",
     t12_h1: "The stick is on the left.",
     t12_h2: "It looks like a bat and a ball.",
@@ -897,9 +897,9 @@ export const WORD_LABELS: Record<string, Record<string, string>> = {
 
     // T4 - Sight Words (you, have, my)
     t4_title: "Sight Words: you, have, my",
-    t4_text: "Let's build a sentence with these words! 'You have my book.'",
+    t4_text: "Let's build a sentence with these words! 'You have my dog.'",
     t4_inst: "Put the sentence in order!",
-    t4_h1: "Start with You.",
+    t4_h1: "Start with 'You'.",
     t4_h2: "You have my dog.",
     t4_sw4_1: "You", t4_sw4_2: "have", t4_sw4_3: "my", t4_sw4_4: "dog.",
 
@@ -1446,7 +1446,7 @@ export const COMPOUND_LABELS: Record<string, Record<string, string>> = {
     t12_h2: "tooth + brush.",
     t12_ml12_1: "star", t12_mr12_1: "fish",
     t12_ml12_2: "tooth", t12_mr12_2: "brush",
-    t12_ml12_3: "pancake", t12_mr12_3: "cake",
+    t12_ml12_3: "pan", t12_mr12_3: "cake",
 
     // T13 - Adjective Gap Fill
     t13_title: "Pick the Adjective",

@@ -9,8 +9,13 @@
       "question": "Ein Rechteck hat die Seiten 8 cm und 5 cm. Wie groß ist der Umfang?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["26 cm", "40 cm", "13 cm", "30 cm"],
-      "correct": 0,
+      "options": [
+        "13 cm",
+        "40 cm",
+        "26 cm",
+        "30 cm"
+      ],
+      "correct": 2,
       "explanation": "Umfang = 2 × (8 + 5) = 2 × 13 = 26 cm"
     },
     {
@@ -18,8 +23,13 @@
       "question": "Ein Quadrat hat eine Seitenlänge von 6 cm. Wie groß ist der Umfang?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["24 cm", "36 cm", "12 cm", "18 cm"],
-      "correct": 0,
+      "options": [
+        "36 cm",
+        "18 cm",
+        "12 cm",
+        "24 cm"
+      ],
+      "correct": 3,
       "explanation": "Umfang = 4 × 6 = 24 cm"
     },
     {
@@ -27,7 +37,12 @@
       "question": "Ein Rechteck hat die Seiten 7 cm und 4 cm. Wie groß ist die Fläche?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["28 cm²", "22 cm²", "11 cm²", "35 cm²"],
+      "options": [
+        "28 cm²",
+        "11 cm²",
+        "22 cm²",
+        "35 cm²"
+      ],
       "correct": 0,
       "explanation": "Fläche = 7 × 4 = 28 cm²"
     },
@@ -36,17 +51,21 @@
       "question": "Ein Quadrat hat eine Seitenlänge von 9 cm. Wie groß ist die Fläche?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["81 cm²", "36 cm²", "72 cm²", "45 cm²"],
-      "correct": 0,
+      "options": [
+        "72 cm²",
+        "81 cm²",
+        "36 cm²",
+        "45 cm²"
+      ],
+      "correct": 1,
       "explanation": "Fläche = 9 × 9 = 81 cm²"
     },
     {
       "id": "5-geo-005",
       "question": "Ein Rechteck hat eine Fläche von 48 cm² und eine Seite von 8 cm. Wie lang ist die andere Seite?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["6 cm", "5 cm", "7 cm", "8 cm"],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "Fläche = Länge × Breite. 48 = 8 × Breite, also Breite = 48 ÷ 8 = 6 cm."
     },
     {
@@ -54,8 +73,13 @@
       "question": "Wie viele Ecken hat ein Rechteck?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 5, 6],
-      "correct": 0,
+      "options": [
+        5,
+        3,
+        4,
+        6
+      ],
+      "correct": 2,
       "explanation": "Ein Rechteck hat 4 Ecken."
     },
     {
@@ -63,17 +87,27 @@
       "question": "Wie viele rechte Winkel hat ein Quadrat?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 2, 3, 1],
-      "correct": 0,
+      "options": [
+        2,
+        3,
+        4,
+        1
+      ],
+      "correct": 2,
       "explanation": "Ein Quadrat hat 4 rechte Winkel (je 90°)."
     },
     {
       "id": "5-geo-008",
       "question": "Ein Fußballfeld ist 100 m lang und 65 m breit. Wie groß ist der Umfang?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["330 m", "165 m", "6500 m", "265 m"],
-      "correct": 0,
+      "options": [
+        "6500 m",
+        "265 m",
+        "165 m",
+        "330 m"
+      ],
+      "correct": 3,
       "explanation": "Umfang = 2 × (100 + 65) = 2 × 165 = 330 m"
     },
     {
@@ -81,8 +115,13 @@
       "question": "Ein quadratischer Garten hat einen Umfang von 36 m. Wie lang ist eine Seite?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["9 m", "6 m", "12 m", "8 m"],
-      "correct": 0,
+      "options": [
+        "12 m",
+        "9 m",
+        "6 m",
+        "8 m"
+      ],
+      "correct": 1,
       "explanation": "Umfang = 4 × Seite. 36 ÷ 4 = 9 m."
     },
     {
@@ -90,8 +129,13 @@
       "question": "Ein Zimmer ist 5 m lang und 4 m breit. Wie viele Quadratmeter Teppich braucht man, um den Boden zu bedecken?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["20 m²", "18 m²", "9 m²", "25 m²"],
-      "correct": 0,
+      "options": [
+        "25 m²",
+        "9 m²",
+        "18 m²",
+        "20 m²"
+      ],
+      "correct": 3,
       "explanation": "Fläche = 5 × 4 = 20 m²"
     },
     {
@@ -99,7 +143,12 @@
       "question": "Ein Rechteck hat die Seiten 10 cm und 6 cm. Wie groß ist der Umfang?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["32 cm", "60 cm", "16 cm", "36 cm"],
+      "options": [
+        "32 cm",
+        "60 cm",
+        "36 cm",
+        "16 cm"
+      ],
       "correct": 0,
       "explanation": "Umfang = 2 × (10 + 6) = 2 × 16 = 32 cm"
     },
@@ -108,8 +157,13 @@
       "question": "Ein Quadrat hat eine Seitenlänge von 8 cm. Wie groß ist der Umfang?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["32 cm", "64 cm", "16 cm", "24 cm"],
-      "correct": 0,
+      "options": [
+        "64 cm",
+        "32 cm",
+        "24 cm",
+        "16 cm"
+      ],
+      "correct": 1,
       "explanation": "Umfang = 4 × 8 = 32 cm"
     },
     {
@@ -117,26 +171,29 @@
       "question": "Ein Rechteck hat die Seiten 12 cm und 5 cm. Wie groß ist die Fläche?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["60 cm²", "34 cm²", "17 cm²", "70 cm²"],
+      "options": [
+        "60 cm²",
+        "17 cm²",
+        "34 cm²",
+        "70 cm²"
+      ],
       "correct": 0,
       "explanation": "Fläche = 12 × 5 = 60 cm²"
     },
     {
       "id": "5-geo-014",
       "question": "Ein Quadrat hat eine Seitenlänge von 7 cm. Wie groß ist die Fläche?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["49 cm²", "28 cm²", "56 cm²", "35 cm²"],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 3,
       "explanation": "Fläche = 7 × 7 = 49 cm²"
     },
     {
       "id": "5-geo-015",
       "question": "Ein Rechteck hat eine Fläche von 72 cm² und eine Seite von 9 cm. Wie lang ist die andere Seite?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["8 cm", "7 cm", "9 cm", "6 cm"],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "Fläche = Länge × Breite. 72 = 9 × Breite, also Breite = 72 ÷ 9 = 8 cm."
     },
     {
@@ -144,8 +201,13 @@
       "question": "Wie viele Seiten hat ein Quadrat?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 5, 6],
-      "correct": 0,
+      "options": [
+        6,
+        4,
+        3,
+        5
+      ],
+      "correct": 1,
       "explanation": "Ein Quadrat hat 4 Seiten."
     },
     {
@@ -153,8 +215,13 @@
       "question": "Ein Rechteck hat die Seiten 15 cm und 8 cm. Wie groß ist der Umfang?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["46 cm", "120 cm", "23 cm", "60 cm"],
-      "correct": 0,
+      "options": [
+        "120 cm",
+        "46 cm",
+        "60 cm",
+        "23 cm"
+      ],
+      "correct": 1,
       "explanation": "Umfang = 2 × (15 + 8) = 2 × 23 = 46 cm"
     },
     {
@@ -162,26 +229,35 @@
       "question": "Ein quadratischer Garten hat einen Umfang von 44 m. Wie lang ist eine Seite?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["11 m", "8 m", "22 m", "9 m"],
-      "correct": 0,
+      "options": [
+        "9 m",
+        "22 m",
+        "8 m",
+        "11 m"
+      ],
+      "correct": 3,
       "explanation": "Umfang = 4 × Seite. 44 ÷ 4 = 11 m."
     },
     {
       "id": "5-geo-019",
       "question": "Ein Rechteck hat die Seiten 20 cm und 12 cm. Wie groß ist die Fläche?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["240 cm²", "64 cm²", "32 cm²", "200 cm²"],
-      "correct": 0,
+      "options": [
+        "32 cm²",
+        "240 cm²",
+        "200 cm²",
+        "64 cm²"
+      ],
+      "correct": 1,
       "explanation": "Fläche = 20 × 12 = 240 cm²"
     },
     {
       "id": "5-geo-020",
       "question": "Ein Rechteck hat eine Fläche von 56 cm² und eine Seite von 7 cm. Wie lang ist die andere Seite?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["8 cm", "6 cm", "9 cm", "7 cm"],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 2,
       "explanation": "Fläche = Länge × Breite. 56 = 7 × Breite, also Breite = 56 ÷ 7 = 8 cm."
     },
     {
@@ -189,8 +265,13 @@
       "question": "Ein Quadrat hat eine Seitenlänge von 4 cm. Wie groß ist der Umfang?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["16 cm", "8 cm", "12 cm", "20 cm"],
-      "correct": 0,
+      "options": [
+        "8 cm",
+        "12 cm",
+        "20 cm",
+        "16 cm"
+      ],
+      "correct": 3,
       "explanation": "Umfang = 4 × 4 = 16 cm"
     },
     {
@@ -198,17 +279,21 @@
       "question": "Ein Rechteck hat die Seiten 11 cm und 9 cm. Wie groß ist der Umfang?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["40 cm", "99 cm", "20 cm", "45 cm"],
+      "options": [
+        "40 cm",
+        "20 cm",
+        "99 cm",
+        "45 cm"
+      ],
       "correct": 0,
       "explanation": "Umfang = 2 × (11 + 9) = 2 × 20 = 40 cm"
     },
     {
       "id": "5-geo-023",
       "question": "Ein Quadrat hat eine Seitenlänge von 10 cm. Wie groß ist die Fläche?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["100 cm²", "40 cm²", "80 cm²", "50 cm²"],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 1,
       "explanation": "Fläche = 10 × 10 = 100 cm²"
     },
     {
@@ -216,8 +301,13 @@
       "question": "Ein Rechteck hat eine Fläche von 84 cm² und eine Seite von 12 cm. Wie lang ist die andere Seite?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["7 cm", "6 cm", "8 cm", "9 cm"],
-      "correct": 0,
+      "options": [
+        "8 cm",
+        "9 cm",
+        "7 cm",
+        "6 cm"
+      ],
+      "correct": 2,
       "explanation": "Fläche = Länge × Breite. 84 = 12 × Breite, also Breite = 84 ÷ 12 = 7 cm."
     },
     {
@@ -225,8 +315,13 @@
       "question": "Ein rechteckiger Garten ist 25 m lang und 18 m breit. Wie groß ist der Umfang?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["86 m", "43 m", "450 m", "86 cm"],
-      "correct": 0,
+      "options": [
+        "86 cm",
+        "86 m",
+        "43 m",
+        "450 m"
+      ],
+      "correct": 1,
       "explanation": "Umfang = 2 × (25 + 18) = 2 × 43 = 86 m"
     },
     {
@@ -234,8 +329,13 @@
       "question": "Ein Rechteck hat die Seiten 14 cm und 6 cm. Wie groß ist die Fläche?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["84 cm²", "40 cm²", "20 cm²", "56 cm²"],
-      "correct": 0,
+      "options": [
+        "40 cm²",
+        "56 cm²",
+        "20 cm²",
+        "84 cm²"
+      ],
+      "correct": 3,
       "explanation": "Fläche = 14 × 6 = 84 cm²"
     },
     {
@@ -243,17 +343,21 @@
       "question": "Wie viele rechte Winkel hat ein Rechteck?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 2, 3, 1],
-      "correct": 0,
+      "options": [
+        1,
+        3,
+        4,
+        2
+      ],
+      "correct": 2,
       "explanation": "Ein Rechteck hat 4 rechte Winkel (je 90°)."
     },
     {
       "id": "5-geo-028",
       "question": "Ein Rechteck hat einen Umfang von 50 cm und eine Seite von 15 cm. Wie lang ist die andere Seite?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["10 cm", "8 cm", "12 cm", "9 cm"],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "Umfang = 2 × (Länge + Breite). 50 = 2 × (15 + Breite), also 25 = 15 + Breite, Breite = 10 cm."
     },
     {
@@ -261,17 +365,21 @@
       "question": "Ein Quadrat hat eine Seitenlänge von 5 cm. Wie groß ist die Fläche?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["25 cm²", "20 cm²", "15 cm²", "10 cm²"],
-      "correct": 0,
+      "options": [
+        "15 cm²",
+        "10 cm²",
+        "25 cm²",
+        "20 cm²"
+      ],
+      "correct": 2,
       "explanation": "Fläche = 5 × 5 = 25 cm²"
     },
     {
       "id": "5-geo-030",
       "question": "Ein Rechteck hat eine Fläche von 96 cm² und eine Seite von 8 cm. Wie lang ist die andere Seite?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["12 cm", "10 cm", "11 cm", "9 cm"],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 2,
       "explanation": "Fläche = Länge × Breite. 96 = 8 × Breite, also Breite = 96 ÷ 8 = 12 cm."
     }
   ]

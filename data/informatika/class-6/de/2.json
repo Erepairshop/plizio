@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Grundlagen von Netzwerken",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet LAN?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Link Access Node",
+        "Low Area Network"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Aufgabe eines Routers?",
+      "options": [
+        "Daten speichern",
+        "Netzwerke verbinden und Routing",
+        "Monitor steuern",
+        "Drucken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät bietet kabelloses Internet?",
+      "options": [
+        "Switch",
+        "Router / Access Point",
+        "Monitor",
+        "Maus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine IP-Adresse?",
+      "options": [
+        "Name einer Website",
+        "Eindeutige Kennung eines Geräts im Netzwerk",
+        "Eine Dateiendung",
+        "Ein Passworttyp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennen wir das weltweite Netzwerk?",
+      "options": [
+        "LAN",
+        "WAN (Internet)",
+        "PAN",
+        "MAN"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Kabeltyp ist der schnellste unter diesen?",
+      "options": [
+        "Telefonkabel",
+        "Koaxialkabel",
+        "Glasfaserkabel",
+        "UTP-Kabel"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Aufgabe eines Browsers?",
+      "options": [
+        "Briefe schreiben",
+        "Webseiten anzeigen",
+        "Virenschutz",
+        "Bildbearbeitung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Wi-Fi?",
+      "options": [
+        "Kabelgebundene Verbindung",
+        "Drahtlose Netzwerktechnologie",
+        "Ein Dateiformat",
+        "Ein Betriebssystem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Server?",
+      "options": [
+        "Eine einfache Tastatur",
+        "Ein Host-Rechner, der Dienste bereitstellt",
+        "Ein kleiner Laptop",
+        "Ein Monitortyp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Bandbreite?",
+      "options": [
+        "Breite des Monitors",
+        "Datenmenge, die pro Zeiteinheit über das Netzwerk übertragen wird",
+        "Länge der Tastatur",
+        "Farbe des Kabels"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein Browserprogramm?",
+      "options": [
+        "Excel",
+        "Google Chrome",
+        "Photoshop",
+        "Notepad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht eine Firewall?",
+      "options": [
+        "Kühlt den Computer",
+        "Schützt das Netzwerk vor externen Angriffen",
+        "Poliert den Monitor",
+        "Beschleunigt das Internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine URL?",
+      "options": [
+        "Ein Bildtyp",
+        "Eine Website-Adresse",
+        "Ein Geheimcode",
+        "Eine Dateigröße"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet HTTP?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Tech Transfer Program",
+        "Home Tool Task Power",
+        "Hyper Task Tool Process"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät verbindet Computer in einem lokalen Netzwerk?",
+      "options": [
+        "Scanner",
+        "Switch",
+        "Webcam",
+        "Lautsprecher"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Aufgabe einer Netzwerkkarte?",
+      "options": [
+        "Bilder speichern",
+        "Ermöglicht dem Computer die Verbindung zum Netzwerk",
+        "Musik abspielen",
+        "Berechnungen durchführen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Download?",
+      "options": [
+        "Daten an den Server senden",
+        "Daten vom Server auf den eigenen Computer empfangen",
+        "Eine Datei löschen",
+        "Den Computer ausschalten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Upload?",
+      "options": [
+        "Daten vom eigenen Computer an einen Server senden",
+        "Daten empfangen",
+        "Ein Programm schließen",
+        "Einen Screenshot speichern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist KEINE Netzwerktopologie?",
+      "options": [
+        "Stern",
+        "Ring",
+        "Quadrat",
+        "Bus"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Domainname?",
+      "options": [
+        "Name einer Person",
+        "Leicht merkbarer Name einer Website",
+        "Name eines Ordners",
+        "Ein Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Anschluss verwendet ein UTP-Kabel?",
+      "options": [
+        "USB",
+        "RJ-45",
+        "HDMI",
+        "VGA"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Intranet?",
+      "options": [
+        "Weltweites Netzwerk",
+        "Internes, geschlossenes Netzwerk innerhalb einer Organisation",
+        "Ein Kabeltyp",
+        "Ein Online-Spiel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Aufgabe eines Modems?",
+      "options": [
+        "Bilder drucken",
+        "Digitale Signale in analoge umwandeln und umgekehrt",
+        "Text schreiben",
+        "Lautstärkeregelung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Ethernet?",
+      "options": [
+        "Kabelgebundene Netzwerktechnologie",
+        "Ein Internetbrowser",
+        "Ein Betriebssystem",
+        "Ein Cloud-Speicher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist die sicherste Wi-Fi-Verschlüsselung?",
+      "options": [
+        "WEP",
+        "WPA2/WPA3",
+        "Open",
+        "Kein Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Netzwerke sind Systeme von miteinander verbundenen Computern."
+    },
+    {
+      "type": "typing",
+      "text": "Lokale Netzwerke werden LANs genannt."
+    },
+    {
+      "type": "typing",
+      "text": "Die IP-Adresse identifiziert den Computer im Internet."
+    },
+    {
+      "type": "typing",
+      "text": "Der Router leitet den Datenverkehr zwischen Netzwerken."
+    },
+    {
+      "type": "typing",
+      "text": "Glasfaserkabel übertragen Daten mit Lichtsignalen."
+    },
+    {
+      "type": "typing",
+      "text": "Wi-Fi ermöglicht die Verbindung ohne Kabel."
+    },
+    {
+      "type": "typing",
+      "text": "Server stehen den Clients immer zur Verfügung."
+    },
+    {
+      "type": "typing",
+      "text": "Die Bandbreite bestimmt die Geschwindigkeit des Internets."
+    },
+    {
+      "type": "typing",
+      "text": "Wir betrachten Webseiten mit einem Browser."
+    },
+    {
+      "type": "typing",
+      "text": "Schützen Sie unser Netzwerk mit einem starken Passwort und einer Firewall."
+    }
+  ]
+}

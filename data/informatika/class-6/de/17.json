@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Flussdiagramme",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Flussdiagramm?",
+      "options": [
+        "Ein Bild von einem Fluss",
+        "Eine grafische Darstellung eines Algorithmus",
+        "Ein Netzwerkplan",
+        "Eine Excel-Tabelle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol steht meistens für den Start oder das Ende?",
+      "options": [
+        "Rechteck",
+        "Raute",
+        "Oval (oder abgerundetes Rechteck)",
+        "Parallelogramm"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was stellt ein Rechteck in einem Flussdiagramm dar?",
+      "options": [
+        "Eine Entscheidung",
+        "Eine Anweisung oder Prozess",
+        "Start",
+        "Eingabe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol nutzt man für eine Entscheidung (Ja/Nein)?",
+      "options": [
+        "Kreis",
+        "Raute",
+        "Quadrat",
+        "Dreieck"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein Parallelogramm oft verwendet?",
+      "options": [
+        "Eingabe oder Ausgabe",
+        "Prozess",
+        "Ende",
+        "Verzweigung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie werden die Symbole in einem Flussdiagramm verbunden?",
+      "options": [
+        "Mit Linien",
+        "Mit Pfeilen (Flusslinien)",
+        "Mit Punkten",
+        "Gar nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In welche Richtung liest man ein Flussdiagramm meistens?",
+      "options": [
+        "Von rechts nach links",
+        "Von unten nach oben",
+        "Von oben nach unten",
+        "Im Kreis"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Algorithmus?",
+      "options": [
+        "Ein mathematisches Rätsel",
+        "Eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+        "Ein Computerprogramm",
+        "Eine Hardware"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Ausgänge hat eine Raute (Entscheidung) normalerweise?",
+      "options": [
+        "Einen",
+        "Zwei (Ja/Nein)",
+        "Drei",
+        "Unendlich viele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn ein Flussdiagramm eine Schleife hat?",
+      "options": [
+        "Es endet nie",
+        "Ein Teil wird wiederholt, bis eine Bedingung erfüllt ist",
+        "Es ist falsch",
+        "Der PC stürzt ab"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das Wort 'Logik'?",
+      "options": [
+        "Richtiges Denken/Schließen",
+        "Farbenlehre",
+        "Drucktechnik",
+        "Stromverbrauch"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol nutzt man für 'Licht einschalten'?",
+      "options": [
+        "Raute",
+        "Rechteck",
+        "Kreis",
+        "Pfeil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was steht oft in einer Raute?",
+      "options": [
+        "Eine Frage",
+        "Ein Name",
+        "Das Wort 'Ende'",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann ein Flussdiagramm mehrere Enden haben?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur eins ist erlaubt",
+        "Nur wenn es kaputt ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Struktogramm'?",
+      "options": [
+        "Ein anderes Wort für Flussdiagramm",
+        "Eine andere Art der grafischen Darstellung (Nassi-Shneiderman)",
+        "Ein Foto",
+        "Ein Diagramm für Musik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient die Planung mit Flussdiagrammen?",
+      "options": [
+        "Um Fehler vor dem Programmieren zu finden",
+        "Zum Zeitvertreib",
+        "Zum Ausmalen",
+        "Um Tinte zu sparen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man den Punkt, an dem zwei Pfeile zusammenlaufen?",
+      "options": [
+        "Knotenpunkt",
+        "Kreuzung",
+        "Ende",
+        "Stopp"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Eingabe' in einem Algorithmus?",
+      "options": [
+        "Daten, die der Benutzer bereitstellt",
+        "Das Ergebnis auf dem Bildschirm",
+        "Das Speichern",
+        "Das Löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Ausgabe'?",
+      "options": [
+        "Daten löschen",
+        "Das Ergebnis wird angezeigt oder ausgegeben",
+        "Einen Text tippen",
+        "Strom ausschalten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol ist für 'Ist die Lampe an?' richtig?",
+      "options": [
+        "Rechteck",
+        "Raute",
+        "Oval",
+        "Pfeil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Endlosschleife'?",
+      "options": [
+        "Ein schöner Ring",
+        "Ein Algorithmus, der nie zum Ende kommt",
+        "Ein kurzer Weg",
+        "Ein schneller Computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist Pseudocode?",
+      "options": [
+        "Ein falscher Code",
+        "Eine textuelle Beschreibung eines Algorithmus (Mischung aus Deutsch und Code)",
+        "Eine geheime Sprache",
+        "Ein Verschlüsselungsverfahren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol nutzt man für 'Zahl einlesen'?",
+      "options": [
+        "Oval",
+        "Parallelogramm",
+        "Rechteck",
+        "Raute"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Pfeilspitzen wichtig?",
+      "options": [
+        "Damit es schön aussieht",
+        "Um die Richtung des Ablaufs anzuzeigen",
+        "Um Platz zu sparen",
+        "Sie sind unwichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht man beim 'Debugging'?",
+      "options": [
+        "Käfer fangen",
+        "Fehler in einem Algorithmus oder Programm suchen und beheben",
+        "Neue Funktionen einbauen",
+        "Den Monitor reinigen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Algorithmus"
+    },
+    {
+      "type": "typing",
+      "text": "Oval"
+    },
+    {
+      "type": "typing",
+      "text": "Raute"
+    },
+    {
+      "type": "typing",
+      "text": "Rechteck"
+    },
+    {
+      "type": "typing",
+      "text": "Pfeil"
+    },
+    {
+      "type": "typing",
+      "text": "Parallelogramm"
+    },
+    {
+      "type": "typing",
+      "text": "Schleife"
+    },
+    {
+      "type": "typing",
+      "text": "Debugging"
+    },
+    {
+      "type": "typing",
+      "text": "Pseudocode"
+    },
+    {
+      "type": "typing",
+      "text": "Endlosschleife"
+    }
+  ]
+}

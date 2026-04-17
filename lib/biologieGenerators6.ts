@@ -354,11 +354,11 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
     return questions.slice(0, 30);
   },
   mollusks_typing: (seed?: number) => [
-    createTyping("wirbellose", "mollusks", "Nenne 3 Molluskten", ["Schnecke, Muschel, Tintenfisch"]),
+    createTyping("wirbellose", "mollusks", "Nenne 3 Mollusken", ["Schnecke, Muschel, Tintenfisch"]),
     createTyping("wirbellose", "mollusks", "Was ist ein Weichtier?", ["Molluske"]),
     createTyping("wirbellose", "mollusks", "Welches Mollusk hat Tinte?", ["Tintenfisch", "Sepia"]),
     createTyping("wirbellose", "mollusks", "Wie heißt der muskulöse Teil?", ["Fuß"]),
-    createTyping("wirbellose", "mollusks", "Was sind Molluskten?", ["Wirbellose mit weichem Körper"]),
+    createTyping("wirbellose", "mollusks", "Was sind Mollusken?", ["Wirbellose mit weichem Körper"]),
   ],
 
   worm: (seed?: number) => {
@@ -521,7 +521,7 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
     createTyping("wald", "decomposition", "Was sind Dekomposer?", ["Pilze, Bakterien"]),
     createTyping("wald", "decomposition", "Was ist die Funktion von Dekomposern?", ["Nährstoffe zurück"]),
     createTyping("wald", "decomposition", "Welcher Hutpilz ist Dekomposer?", ["Champignon", "Austernpilz"]),
-    createTyping("wald", "decomposition", "Wie lange dauert Zersetung?", ["Wochen bis Jahre", "Monate bis Jahre"]),
+    createTyping("wald", "decomposition", "Wie lange dauert Zersetzung?", ["Wochen bis Jahre", "Monate bis Jahre"]),
     createTyping("wald", "decomposition", "Was ist Kompostierung?", ["Abbau durch Dekomposer"]),
   ],
 
@@ -737,7 +737,7 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
     const templates = [
       () =>
         createMCQ("blutkreislauf", "circulation",
-          "Der Blutkreislauf hat wie viele Kreiläufe?",
+          "Der Blutkreislauf hat wie viele Kreisläufe?",
           "2",
           ["1", "3", "4"],
           rng
@@ -805,7 +805,7 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
   },
   blood_types_typing: (seed?: number) => [
     createTyping("blutkreislauf", "blood_types", "Nenne die 4 Blutgruppen", ["A, B, AB, O"]),
-    createTyping("blutkreislauf", "blood_types", "Welche ist die selteste Blutgruppe?", ["AB"]),
+    createTyping("blutkreislauf", "blood_types", "Welche ist die seltenste Blutgruppe?", ["AB"]),
     createTyping("blutkreislauf", "blood_types", "Welche ist die häufigste?", ["O"]),
     createTyping("blutkreislauf", "blood_types", "Was ist der Rh-Faktor?", ["Positiv, Negativ"]),
     createTyping("blutkreislauf", "blood_types", "Was bestimmt der Bluttyp?", ["Bluttransfusion"]),

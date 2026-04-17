@@ -58,10 +58,10 @@ function createMCQ(topic: string, subtopic: string, question: string, correct: s
 const VERBS_IMPERATIVE = [
   { inf: "írni", te_sg: "írj", o_sg: "írjon", mi: "írjunk", ti: "írjatok", ok: "írjanak" },
   { inf: "futni", te_sg: "fuss", o_sg: "fusson", mi: "fussunk", ti: "fussatok", ok: "fussanak" },
-  { inf: "olvasni", te_sg: "olvass", o_sg: "olvasson", mi: "olvassunk", ti: "olvassatok", ok: "olvasnak" },
+  { inf: "olvasni", te_sg: "olvass", o_sg: "olvasson", mi: "olvassunk", ti: "olvassatok", ok: "olvassanak" },
   { inf: "játszani", te_sg: "játssz", o_sg: "játsszon", mi: "játsszunk", ti: "játszatok", ok: "játszanak" },
   { inf: "enni", te_sg: "egyél", o_sg: "egyen", mi: "együnk", ti: "egyetek", ok: "egyenek" },
-  { inf: "inni", te_sg: "igyon", o_sg: "igyon", mi: "igyunk", ti: "igyatok", ok: "igyanak" },
+  { inf: "inni", te_sg: "igyál", o_sg: "igyon", mi: "igyunk", ti: "igyatok", ok: "igyanak" },
 ];
 
 const VERBS_CONDITIONAL = [
@@ -83,7 +83,7 @@ const NOUNS_POSSESSIVE = [
 
 const ADVERBIAL_CASE_ADVANCED = [
   { nom: "ház", comitative: "házzal", ablative: "házból", delative: "házról" },
-  { nom: "iskolа", comitative: "iskolával", ablative: "iskolából", delative: "iskoláról" },
+  { nom: "iskola", comitative: "iskolával", ablative: "iskolából", delative: "iskoláról" },
   { nom: "szék", comitative: "székkel", ablative: "székből", delative: "székről" },
   { nom: "asztal", comitative: "asztallal", ablative: "asztalból", delative: "asztalról" },
   { nom: "toll", comitative: "tollal", ablative: "tollból", delative: "tollról" },
@@ -95,18 +95,18 @@ const EMOTIONS_VOCABULARY = [
   { emotion: "mérges", opposite: "vidám", example: "Mérges lett, mert nem lehetett játszani." },
   { emotion: "félénk", opposite: "bátor", example: "Félénk gyerek nem szeret nagyobbakkal játszani." },
   { emotion: "szorongó", opposite: "nyugodt", example: "Szorongó volt az első nap az iskolában." },
-  { emotion: "vidám", opposite: "mérges", example: "Vidám és nevetsé lett az egész nap." },
+  { emotion: "vidám", opposite: "mérges", example: "Vidám és nevetős volt az egész nap." },
   { emotion: "kíváncsi", opposite: "közömbös", example: "Kíváncsiak voltunk az új játékra." },
 ];
 
 const TIME_EXPRESSIONS = [
   { word: "tegnap", meaning: "az előző napon", example: "Tegnap futottunk az iskolában." },
   { word: "ma", meaning: "az aktuális napon", example: "Ma szép az idő." },
-  { word: "holnap", meaning: "az következő napon", example: "Holnap lesz az iskola." },
-  { word: "reggel", meaning: "napkelte és déli 12 között", example: "Reggel korai kelés." },
-  { word: "éjjel", meaning: "sötét, alváshoz idő", example: "Éjjel csillagok fénylenek." },
-  { word: "délután", meaning: "12-tól alkonyig", example: "Délután játszottunk ki." },
-  { word: "este", meaning: "az nap vége előtt", example: "Este vacsora után játszunk." },
+  { word: "holnap", meaning: "a következő napon", example: "Holnap lesz az iskola." },
+  { word: "reggel", meaning: "napkelte és dél között", example: "Reggel korán kelünk fel." },
+  { word: "éjjel", meaning: "sötét van, mindenki alszik", example: "Éjjel csillagok fénylenek az égen." },
+  { word: "délután", meaning: "déltől alkonyig", example: "Délután kint játszottunk." },
+  { word: "este", meaning: "a nap vége előtt", example: "Este vacsora után játszunk." },
 ];
 
 const IKES_VERBS = [
@@ -114,8 +114,8 @@ const IKES_VERBS = [
   { inf: "iszik", jelen: "isz", múlt: "ivott" },
   { inf: "alszik", jelen: "alsz", múlt: "aludt" },
   { inf: "játszik", jelen: "játsz", múlt: "játszott" },
-  { inf: "fekszik", jelen: "lesz", múlt: "feküdt" },
-  { inf: "fordul", jelen: "fordul", múlt: "fordult" },
+  { inf: "fekszik", jelen: "fekszik", múlt: "feküdt" },
+  { inf: "születik", jelen: "születik", múlt: "született" },
 ];
 
 const CONSONANT_HARMONY_RULES = [
@@ -151,7 +151,7 @@ const VERBS_TENSE = [
   { inf: "enni", jelen: "eszik", múlt: "evett", jövő: "fog enni" },
   { inf: "inni", jelen: "iszik", múlt: "ivott", jövő: "fog inni" },
   { inf: "szállni", jelen: "száll", múlt: "szállt", jövő: "fog szállni" },
-  { inf: "szállni", jelen: "száll", múlt: "szállt", jövő: "fog szállni" },
+  { inf: "tanítani", jelen: "tanít", múlt: "tanított", jövő: "fog tanítani" },
   { inf: "kérdezni", jelen: "kérdez", múlt: "kérdezett", jövő: "fog kérdezni" },
   { inf: "felelni", jelen: "felel", múlt: "felelt", jövő: "fog felelni" },
 ];
@@ -192,17 +192,17 @@ const COMPOUND_WORDS = [
 const WORD_FAMILIES = [
   { root: "fut", words: ["futás", "futó", "futball", "futott"] },
   { root: "ír", words: ["írás", "író", "írott", "írt"] },
-  { root: "olvas", words: ["olvasás", "olvasó", "olvasott", "olvasott"] },
-  { root: "tanul", words: ["tanulás", "tanuló", "tanult", "tanult"] },
+  { root: "olvas", words: ["olvasás", "olvasó", "olvasott", "felolvas"] },
+  { root: "tanul", words: ["tanulás", "tanuló", "tanult", "megtanul"] },
 ];
 
 const IDIOMS = [
   { idiom: "éhes mint a farkas", meaning: "nagyon éhes" },
-  { idiom: "tanácstalan", meaning: "nem tudja mit csináljon" },
-  { idiom: "kékre festette", meaning: "megtévesztette" },
-  { idiom: "összenőtt vele", meaning: "nagyon szereti" },
-  { idiom: "fejre áll", meaning: "nagyon boldog" },
-  { idiom: "szív alatt van", meaning: "zavaros a helyzet" },
+  { idiom: "tanácstalan, mint a kismadár", meaning: "nem tudja, mit csináljon" },
+  { idiom: "lóvá tette", meaning: "megtévesztette, becsapta" },
+  { idiom: "a szívébe zárta", meaning: "nagyon megszerette" },
+  { idiom: "majd kiugrik a bőréből", meaning: "nagyon boldog vagy izgatott" },
+  { idiom: "sűrű lett a levegő", meaning: "feszült, kellemetlen lett a helyzet" },
 ];
 
 const PROVERBS = [
@@ -250,7 +250,7 @@ const TEXT_COMPREH = [
 const OBJECT_ROLE = [
   { sentence: "Péter egy könyvet olvas.", target: "egy könyvet", role: "tárgy" },
   { sentence: "A lány az asztalt tolta.", target: "az asztalt", role: "tárgy" },
-  { sentence: "Marinak egy ceruzája van.", target: "egy ceruzát", role: "tárgy" },
+  { sentence: "Mari megtalálta a ceruzáját.", target: "a ceruzáját", role: "tárgy" },
 ];
 
 const ADVERBIAL_ROLE = [
@@ -470,7 +470,7 @@ export function generateTextComprehension(seed?: number): MagyarMCQ[] {
 
   for (let i = 0; i < 45; i++) {
     const type = i % 3;
-    const text = "A fiú a parkban játszott. Egy labdát dobott magasra. Összeomlottak a fák között. A fiú nevetett és ismét dobott.";
+    const text = "A fiú a parkban játszott. Egy labdát dobott magasra. A labda a fák között landolt. A fiú nevetett és ismét dobott.";
 
     if (type === 0) {
       q.push(createMCQ("szoveg", "megertés", `"Hol játszott a fiú?" Válasz a szövegből:`,
@@ -480,7 +480,7 @@ export function generateTextComprehension(seed?: number): MagyarMCQ[] {
         "labdát", ["könyvet", "kővet", "fát"]));
     } else {
       q.push(createMCQ("szoveg", "megertés", `"Milyen volt a fiú hangulata?" A szöveg alapján:`,
-        "boldog", ["szomorú", "szomorú", "szomorú"]));
+        "boldog", ["szomorú", "mérges", "ijedt"]));
     }
   }
 
@@ -530,7 +530,7 @@ export function generateIdioms(seed?: number): MagyarMCQ[] {
       q.push(createMCQ("szokincs", "szolasok", `Melyik szólás jelenti ezt: "${idiom.meaning}"?`, correct, wrongs));
     } else {
       q.push(createMCQ("szokincs", "szolasok", `A szólások olyan kifejezések, amelyek:`,
-        "переносati értelemben használódnak",
+        "átvitt értelemben használatosak",
         ["szó szerintiek", "mindig igaz", "archaikusak"]));
     }
   }
@@ -557,7 +557,7 @@ export function generateProverbs(seed?: number): MagyarMCQ[] {
     } else {
       q.push(createMCQ("szokincs", "kozmondasok", "A közmondás tanítja:",
         "az élet bölcsességét",
-        ["a történelmet", "a географиát", "a matekot"]));
+        ["a történelmet", "a földrajzot", "a matekot"]));
     }
   }
 
@@ -703,7 +703,7 @@ export function generateAdverbialRole(seed?: number): MagyarMCQ[] {
     if (type === 0) {
       q.push(createMCQ("mondat", "hatarozo", `"${adv.sentence}" Mi a határozó?`,
         adv.target,
-        ["az ige", "a főnév", "az alanyi"]));
+        ["az ige", "a főnév", "az alany"]));
     } else if (type === 1) {
       q.push(createMCQ("mondat", "hatarozo", "A határozó fejti ki az ige:",
         "körülményeit",
@@ -990,7 +990,7 @@ export function generateCompoundSentenceBasics(seed?: number): MagyarMCQ[] {
       // Mi az kötőszó jelentése?
       const correct = sent.meaning;
       const wrongs = shuffle(COMPOUND_SENTENCE_BASICS, rng).slice(0, 3).map(s => s.meaning);
-      q.push(createMCQ("mondat", "osszetett_alap", `"${sent.connector}" kötőszó jelentése:`, correct, wrongs));
+      q.push(createMCQ("mondat", "osszetett_alap", `A(z) „${sent.connector}" kötőszó jelentése:`, correct, wrongs));
     } else if (type === 1) {
       // Melyik a helyes kötőszó?
       const correct = sent.connector;
@@ -1001,7 +1001,7 @@ export function generateCompoundSentenceBasics(seed?: number): MagyarMCQ[] {
       // Összetett mondat fogalma
       q.push(createMCQ("mondat", "osszetett_alap", `Az összetett mondat két vagy több ... áll.`,
         "egyszerű mondatból",
-        ["szóból", "szó csoportból", "szótagból"]));
+        ["szóból", "szócsoportból", "szótagból"]));
     }
   }
 
@@ -1031,7 +1031,7 @@ export function generateDialogueVerbs(seed?: number): MagyarMCQ[] {
       // Mondat kiegészítés
       const correct = dverb.verb;
       const wrongs = shuffle(DIALOGUE_VERBS, rng).slice(0, 3).map(d => d.verb);
-      q.push(createMCQ("fogalmazas", "parbeszed", `"Játszunk!" ... a tanár.`, correct, wrongs));
+      q.push(createMCQ("fogalmazas", "parbeszed", `„Játszunk!" – ___ a tanár. (Melyik párbeszéd-ige illik ide?)`, correct, wrongs));
     }
   }
 

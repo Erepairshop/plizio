@@ -66,18 +66,18 @@ const TEXTS_OMAGYR = [
 ];
 
 const CODICES = [
-  { name: "Müncheni kódex", date: "1466", content: "Imádságok, legendák", significance: "Ómagyar nyelvemléke" },
-  { name: "Winkler kódex", date: "1440-50", content: "Bibliai történetek", significance: "Legrégebb teljes magyar szöveg" },
-  { name: "Jókai kódex", date: "1372-1382", content: "Szentséges eseményi", significance: "Középkori bibliai feldolgozás" },
+  { name: "Müncheni kódex", date: "1466", content: "Imádságok, legendák", significance: "Ómagyar nyelvemlék" },
+  { name: "Winkler kódex", date: "1440-50", content: "Bibliai történetek", significance: "Legrégebbi teljes magyar szöveg" },
+  { name: "Jókai kódex", date: "1372-1382", content: "Szentférenc-legenda", significance: "Középkori bibliai feldolgozás" },
   { name: "Érdy kódex", date: "1526-1527", content: "Egyházi szövegek", significance: "Protestáns reformáció nyomai" },
 ];
 
 const LITERARY_DEVICES = [
   { device: "alliteráció", example: "Szél, szikra, szándék", description: "Azonos kezdőhang ismétlése" },
-  { device: "ritmika", example: "Taka, taka, taka — végig", description: "Hangsor rendszeres ismétlődése" },
+  { device: "ritmika", example: "Taka-taka megy a szekér", description: "Hangsor rendszeres ismétlődése" },
   { device: "irónia", example: "Milyen gyönyörű a vihar!", description: "Ellentétes értelmezéssel mondott kijelentés" },
-  { device: "szatíra", example: "A politikus beszéde (visszásító gúny)", description: "Társadalmi kritika élces kifejezésével" },
-  { device: "paródia", example: "Klasszikus mű nyúzása", description: "Mű vagy stílus gúnyos utánzása" },
+  { device: "szatíra", example: "A politikus ünnepi szavainak gúnyos felidézése", description: "Társadalmi kritika éles, gúnyos kifejezése" },
+  { device: "paródia", example: "Klasszikus mű tréfás utánzása", description: "Mű vagy stílus gúnyos utánzása" },
 ];
 
 const LITERARY_ANALYSIS = [
@@ -90,14 +90,14 @@ const LITERARY_ANALYSIS = [
 const CRITICAL_THINKING = [
   { question: "Mi a szöveg fő mondanivalója?", skill: "értelmezés, szintézis" },
   { question: "Hogyan támogatja a szerző érvelését?", skill: "elemzés, kritika" },
-  { question: "Ki a narrátori szövegben?", skill: "nézőpont-felismerés" },
+  { question: "Ki a narrátor a szövegben?", skill: "nézőpont-felismerés" },
   { question: "Milyen előítélet rejlik a szövegben?", skill: "kritikai gondolkodás" },
 ];
 
 const SPELLING_RULES = [
-  { rule: "Végig/végig", context: "Nagy betűs: Végig az úton (ld. betű szó kezdete)", note: "Csak kisbetűvel: végig járok" },
-  { rule: "Még/még", context: "Még nem. / Még egyszer", note: "Időhatározó = még; intenzív = még" },
-  { rule: "Írás/írásjel", context: "Az írás művészet. Az kérdőjel (.)", note: "Helyes elválasztás: írás/írásjel" },
+  { rule: "Végig/végig", context: "Mindig kisbetűvel: végig az úton (határozószó)", note: "Mondat elején nagybetűvel kezdjük" },
+  { rule: "Még/még", context: "Még nem érkezett meg. / Még egyszer próbáld!", note: "Időhatározóként és nyomatékosításra is használatos" },
+  { rule: "Írás/írásjel", context: "Az írás művészet. A kérdőjel (?) kérdést jelöl.", note: "Helyes elválasztás: írás | jel" },
   { rule: "Nagybetűs nevek", context: "Budapest, Péter, Magyarország", note: "Mindig nagybetűvel kezdjük" },
 ];
 
@@ -123,7 +123,7 @@ const CITING_RULES = [
 const ARGUMENT_TECHNIQUES = [
   { technique: "analógia", example: "Ahogy az ember gondolkodik, a számítógép is...", effect: "Megértésre, hasonlatosságra" },
   { technique: "logikai bizonyítás", example: "Minden ember halandó. Szókratész ember. Tehát halandó.", effect: "Racionális meggyőzésre" },
-  { technique: "szocializáció", example: "Mindenki ezt gondolja, te is így kellene...", effect: "Közösségi nyomásra" },
+  { technique: "szocializáció", example: "Mindenki így gondolja, te is így kellene...", effect: "Közösségi nyomásra" },
   { technique: "etikai érv", example: "Az ember természete jó. Ezért...", effect: "Morális értékekre" },
 ];
 
@@ -386,7 +386,7 @@ export function generateKritikaiGondolkodas(seed?: number): CurriculumMCQ[] {
       topic: "szoveg",
       subtopic: "kritikai_gondolkodas",
       question: "Milyen kérdéseket teszel fel egy szöveg kritikai elemzésekor?",
-      correctAnswers: ["Ki az írója?", "Mi az célja?", "Igaz-e az amit mond?"],
+      correctAnswers: ["Ki az írója?", "Mi a célja?", "Igaz-e az, amit mond?"],
     } as any);
   }
 
@@ -409,13 +409,13 @@ export function generateHelyesirasOsszefoglalo(seed?: number): CurriculumMCQ[] {
     } else if (type === 1) {
       q.push(createMCQ("helyesiras", "osszefoglalo",
         `Mi a szabály az összetett szavak elválasztásánál?`,
-        "A szó szinte minden részét meg lehet választani",
+        "Az összetett szavakat az összetételi határnál kell elválasztani",
         ["Soha nem lehet választani", "Csak az előtagot", "Csak az utótagot"]
       ));
     } else {
       q.push(createMCQ("helyesiras", "osszefoglalo",
         `Milyen szavakat írunk nagybetűvel?`,
-        "Tulajdonneveket és mondatbetűket",
+        "Tulajdonneveket és mondatkezdő betűket",
         ["Minden melléknevet", "Minden igét", "Minden szót, ami fontos"]
       ));
     }
@@ -443,7 +443,7 @@ export function generateKozmaGyar(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       const item = pick(COMMON_HUNGARIAN, rng);
       q.push(createMCQ("norma", "kozmagyar",
-        `A "közmagyar" terméhez sorolható a "${item.word}" szó, melynek kategóriája:`,
+        `A "közmagyar" fogalmához sorolható a "${item.word}" szó, melynek kategóriája:`,
         item.category,
         ["Vidéki beszéd", "Szakszókincs", "Tárgyi kifejezés"]
       ));
@@ -457,7 +457,7 @@ export function generateKozmaGyar(seed?: number): CurriculumMCQ[] {
       q.push(createMCQ("norma", "kozmagyar",
         `Hol fordul elő leggyakrabban a közmagyar?`,
         "A közmédiában és az oktatásban",
-        ["Csak regényekben", "Csak szómagyarázatok körül", "Egyáltalán nem"]
+        ["Csak regényekben", "Csak szómagyarázatokban", "Egyáltalán nem"]
       ));
     }
   }
@@ -468,7 +468,7 @@ export function generateKozmaGyar(seed?: number): CurriculumMCQ[] {
       topic: "norma",
       subtopic: "kozmagyar",
       question: "Adj egy példát az eltérő nyelvhasználatra!",
-      correctAnswers: ["Formális vs. informális", "Tudományos vs. köznyielvi", "Archaikus vs. modern"],
+      correctAnswers: ["Formális vs. informális", "Tudományos vs. köznyelvi", "Archaikus vs. modern"],
     } as any);
   }
 
@@ -652,12 +652,12 @@ export function generateSemantics(seed?: number): CurriculumMCQ[] {
       q.push(createMCQ("szemantika", "szomantika", "Mit jelent a szemantika?", correct, wrong));
     } else if (type === 1) {
       const correct = "Szó jelentésének szövegkörnyezetből való meghatározása";
-      const wrong = ["Fordítás másik nyelvbe", "Szópótlás", "Hangmátrozás"];
+      const wrong = ["Fordítás másik nyelvbe", "Szóhelyettesítés", "Hangtan vizsgálata"];
       q.push(createMCQ("szemantika", "szomantika", "Mit jelent a kontextusfüggő jelentés?", correct, wrong));
     } else {
       const correct = "Szó többféle jelentésének jelenléte";
       const wrong = ["Egyféle jelentés", "Nincs jelentés", "Csak írott forma"];
-      q.push(createMCQ("szemantika", "szomantika", "Mi az poliszémia?", correct, wrong));
+      q.push(createMCQ("szemantika", "szomantika", "Mi a poliszémia?", correct, wrong));
     }
   }
 
@@ -665,7 +665,7 @@ export function generateSemantics(seed?: number): CurriculumMCQ[] {
     const questions = [
       { q: "Mi a lexikai jelentés?", a: "Szó szótárban megtalálható alapjelentése" },
       { q: "Mi a figuratív jelentés?", a: "Átvitt, szószerinti értelmezéstől eltérő jelentés" },
-      { q: "Mi az homonímia?", a: "Különböző jelentésű azonos alakú szavak" },
+      { q: "Mi a homonímia?", a: "Különböző jelentésű, azonos alakú szavak" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -695,8 +695,8 @@ export function generateNarratology(seed?: number): CurriculumMCQ[] {
       const wrong = ["Az írói névjegy", "A könyv fedele", "A szerzői életrajza"];
       q.push(createMCQ("narratologia", "narracio", "Mi a narrátori perspektíva?", correct, wrong));
     } else {
-      const correct = "Az elbeszélő közvetlenül szól az olvasóhoz";
-      const wrong = ["Az olvasó nem hallja az elbeszélőt", "Csend van", "Beszélgetés folyik"];
+      const correct = "Az elbeszélő saját élményeiből merítve, első személyben szól";
+      const wrong = ["Az olvasó nem hallja az elbeszélőt", "Csend van", "Külső narrátor mesél"];
       q.push(createMCQ("narratologia", "narracio", "Mit jelent az autobiografikus narratíva?", correct, wrong));
     }
   }
@@ -705,7 +705,7 @@ export function generateNarratology(seed?: number): CurriculumMCQ[] {
     const questions = [
       { q: "Mi az első személyű narráció?", a: "Az elbeszélő az 'én' formában beszél" },
       { q: "Mi a harmadik személyű narráció?", a: "Az elbeszélő külső szempontból beszél" },
-      { q: "Mi az megbízhatatlan narrátori?", a: "Az elbeszélő szándékosan vagy véletlenül félrevezet" },
+      { q: "Mi a megbízhatatlan narrátor?", a: "Az elbeszélő szándékosan vagy véletlenül félrevezet" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -731,21 +731,21 @@ export function generatePragmatics(seed?: number): CurriculumMCQ[] {
       const wrong = ["Szavak hangzásának tanulmányozása", "Szövegek hosszának mérése", "Betűk számlálása"];
       q.push(createMCQ("pragmatika", "pragmatika", "Mit jelent a pragmatika?", correct, wrong));
     } else if (type === 1) {
-      const correct = "Szavak által kifejezett rejtett szándék";
-      const wrong = ["Nyílt parancs", "Közvetett kérés", "Nem szándékos ütközés"];
-      q.push(createMCQ("pragmatika", "pragmatika", "Mi az implicita kommunikáció?", correct, wrong));
+      const correct = "Szavak által ki nem mondott, de közvetített szándék";
+      const wrong = ["Nyílt parancs", "Közvetlen utasítás", "Szó szerinti közlés"];
+      q.push(createMCQ("pragmatika", "pragmatika", "Mi az implicit kommunikáció?", correct, wrong));
     } else {
-      const correct = "Szavak mondatban való helyzetből száraz jelentésváltása";
-      const wrong = ["Szavak hallása", "Szókincs ismerete", "Nyelvhelyesség"];
+      const correct = "A szavak értelmezéséhez szükséges körülmények összessége";
+      const wrong = ["Szavak hangzása", "Szókincs ismerete", "Nyelvhelyesség"];
       q.push(createMCQ("pragmatika", "pragmatika", "Mit jelent a szövegkörnyezet?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mi az előfeltevés a beszédben?", a: "Az amit hallgatónak már ismernie kell az értelmezéshez" },
-      { q: "Mi az fellebbezés?", a: "Az értelembeli kiterjesztés az elhangzottakon túlra" },
-      { q: "Mi az szpeechact?", a: "Az szavakkal való cselekvés (kérés, parancs stb.)" },
+      { q: "Mi az előfeltevés a beszédben?", a: "Amit a hallgatónak már ismernie kell az értelmezéshez" },
+      { q: "Mi az implikatúra?", a: "Az elhangzottakon túlmutató, következtetett jelentés" },
+      { q: "Mi a beszédaktus?", a: "Szavakkal való cselekvés (kérés, parancs, ígéret stb.)" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -784,7 +784,7 @@ export function generateStyleVariable(seed?: number): CurriculumMCQ[] {
   for (let i = 0; i < 15; i++) {
     const questions = [
       { q: "Mi a regiszter?", a: "A formális vagy informális beszéd szintje" },
-      { q: "Mi az arkhaizmus?", a: "Szó vagy kifejezés, amely már nem használatos" },
+      { q: "Mi az archaizmus?", a: "Szó vagy kifejezés, amely már nem használatos" },
       { q: "Mi a neologizmus?", a: "Újabban keletkezett szó vagy kifejezés" },
     ];
     const item = pick(questions, rng);
@@ -817,15 +817,15 @@ export function generateCognitiveLanguage(seed?: number): CurriculumMCQ[] {
     } else {
       const correct = "A nyelvhasználat memória és figyelem által befolyásolt";
       const wrong = ["A nyelvhasználat véletlenszerű", "Nincs rendszer", "Mindig azonos"];
-      q.push(createMCQ("kognitív", "nyelv", "Hogyan befolyásolja a память a nyelvhasználatot?", correct, wrong));
+      q.push(createMCQ("kognitív", "nyelv", "Hogyan befolyásolja az emlékezet a nyelvhasználatot?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mit jelent a konceptualizáció?", a: "Az elme által a valóság képviselése" },
+      { q: "Mit jelent a konceptualizáció?", a: "A valóság fogalmi megjelenítése az elmében" },
       { q: "Mi a metaforikus gondolkodás?", a: "Az egyik terület megértése másik terület fogalmaival" },
-      { q: "Mit jelent a prototípus elmélet?", a: "Az alapvető képmények szerepe a kategorizálásban" },
+      { q: "Mit jelent a prototípus-elmélet?", a: "A legtipikusabb példányok szerepe a fogalmi kategorizálásban" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -855,17 +855,17 @@ export function generateSociolinguistics(seed?: number): CurriculumMCQ[] {
       const wrong = ["Országok közötti eltérés", "Szókincs eltérése", "Kiejtés eltérése csak"];
       q.push(createMCQ("szociolingvisztika", "szocio", "Mit tanulmányozunk szociolingvisztikában?", correct, wrong));
     } else {
-      const correct = "Az egyenlőtlenség az iskolai nyelvhasználatban";
-      const wrong = ["Felnőttek jobb beszéd mint gyerekek", "Férfiak jobb mint nők", "Fiatalok jobban beszélnek mint öregek"];
-      q.push(createMCQ("szociolingvisztika", "szocio", "Mi a Bernstein kódteória?", correct, wrong));
+      const correct = "A korlátozott és kidolgozott kód közötti különbség a nyelvhasználatban";
+      const wrong = ["A felnőttek mindig jobban beszélnek a gyerekeknél", "A férfiak más kódot használnak mint a nők", "A fiatalok mindig modernebb kódot használnak"];
+      q.push(createMCQ("szociolingvisztika", "szocio", "Mi a Bernstein-féle kódelmélet?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
       { q: "Mi a társadalmi rétegződés?", a: "A társadalom különböző csoportokra való felosztása" },
-      { q: "Mi az etnikai vagy rasszisztikus nyelvhasználat?", a: "Egy csoport negatív megjelölése a nyelvben" },
-      { q: "Mit jelent az inkluzív nyelvhasználat?", a: "A valamennyi nemre és személyre vonatkozó beszéd" },
+      { q: "Mi a diszkriminatív nyelvhasználat?", a: "Egy csoport negatív megjelölése vagy leértékelése a nyelvben" },
+      { q: "Mit jelent az inkluzív nyelvhasználat?", a: "Mindenki számára befogadó, semleges nyelvi forma" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -895,17 +895,17 @@ export function generateHistoricalLinguistics(seed?: number): CurriculumMCQ[] {
       const wrong = ["A szavak helyes kiejtése", "A szavak hossza", "A szavak betűszáma"];
       q.push(createMCQ("történeti", "nyelvészet", "Mit tanulmányoz az etimológia?", correct, wrong));
     } else {
-      const correct = "Az nyelvek közötti genetikai kapcsolatok";
-      const wrong = ["Az nyelvek politikai viszonyai", "Az nyelvek szépségei", "Az nyelvek sorszáma"];
+      const correct = "A nyelvek közötti genetikai kapcsolatok vizsgálata";
+      const wrong = ["A nyelvek politikai viszonyai", "A nyelvek esztétikai értéke", "A nyelvek számának meghatározása"];
       q.push(createMCQ("történeti", "nyelvészet", "Mit jelent a komparatív nyelvészet?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mi az hangtörvény?", a: "Az hangtani változások szabályszerűsége" },
-      { q: "Mit jelent a lautverschiebung?", a: "A germán nyelvek jellegzetes hangváltása az indoeurópai nyelvekhez képest" },
-      { q: "Mi az nyelvrokonság?", a: "A közös predcesszor nyelvből való leszármazás" },
+      { q: "Mi a hangtörvény?", a: "A hangtani változások szabályszerűsége" },
+      { q: "Mit jelent a Lautverschiebung?", a: "A germán nyelvek jellegzetes hangeltolódása az indoeurópai alapnyelvhez képest" },
+      { q: "Mi a nyelvrokonság?", a: "Közös ősnyelvre visszavezethető leszármazás" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -943,9 +943,9 @@ export function generateTextLinguistics(seed?: number): CurriculumMCQ[] {
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mit jelent a referencia a szövegben?", a: "A szövegben szereplő elemek világban való megnevezése" },
-      { q: "Mi az anafor?", a: "Amikor egy szó egy előzőleg említett szóra utal" },
-      { q: "Mit jelent az szöveg témája?", a: "A szöveg megnevezése amit beszélünk" },
+      { q: "Mit jelent a referencia a szövegben?", a: "A szövegbeli elemek valóságban lévő megfelelőjére való utalás" },
+      { q: "Mi az anafora?", a: "Amikor egy szó egy korábban említett szóra utal vissza" },
+      { q: "Mit jelent a szöveg témája?", a: "Az a dolog, amiről a szöveg szól" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -967,25 +967,25 @@ export function generateInterlanguage(seed?: number): CurriculumMCQ[] {
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
     if (type === 0) {
-      const correct = "A tanuló idegen nyelvének köztárgy rendszere";
-      const wrong = ["A tanuló anyanyelve", "Az tanított célnyelv", "A szótár"];
-      q.push(createMCQ("interlingva", "interfész", "Mit jelent az interlanguage?", correct, wrong));
+      const correct = "A tanuló által kialakított köztes nyelvi rendszer";
+      const wrong = ["A tanuló anyanyelve", "A tanított célnyelv", "A szótár"];
+      q.push(createMCQ("interlingva", "interfész", "Mit jelent az interlanguage (köztesnyelv)?", correct, wrong));
     } else if (type === 1) {
       const correct = "Az anyanyelv szabályait idegen nyelvre alkalmazni";
       const wrong = ["Szavak fordítása", "Mondatok másolása", "Betűk felismerése"];
       q.push(createMCQ("interlingva", "interfész", "Mit jelent a nyelvi transzfer?", correct, wrong));
     } else {
-      const correct = "Az hibák figyelmet fordítnak a tudásunkra";
-      const wrong = ["Hibákat elkerülni", "Tökéletességre törekedni", "Szótárat használni"];
-      q.push(createMCQ("interlingva", "interfész", "Mi az érték a kiejtéshibáknak?", correct, wrong));
+      const correct = "A hibák rámutatnak a tanuló aktuális tudásszintjére";
+      const wrong = ["A hibákat minden áron el kell kerülni", "A tökéletességre kell törekedni", "A szótárat kell használni"];
+      q.push(createMCQ("interlingva", "interfész", "Miért értékesek a tanuló hibái?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mi az túlgeneralizáció nyelvtanulásban?", a: "Az szabályokat túl szélesre értelmezni" },
-      { q: "Mit jelent az L1 interfész?", a: "Az anyanyelv hatása idegen nyelvtanulásra" },
-      { q: "Mi az rezídual?", a: "Az továbbra is fennmaradó köztárgy elemek" },
+      { q: "Mi a túlgeneralizáció a nyelvtanulásban?", a: "Egy szabályt olyan esetekre is alkalmazni, amelyekre nem vonatkozik" },
+      { q: "Mit jelent az L1 transzfer?", a: "Az anyanyelv hatása az idegen nyelv elsajátítására" },
+      { q: "Mi a fosszilizáció?", a: "A köztesnyelv egyes elemeinek tartós rögzülése a tanuló nyelvhasználatában" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -1015,17 +1015,17 @@ export function generatePoeticsAdvanced(seed?: number): CurriculumMCQ[] {
       const wrong = ["A versszakok száma", "A szavak száma", "A betűk sorrendje"];
       q.push(createMCQ("poétika", "haladó", "Mit jelent a metrikai szerkezet?", correct, wrong));
     } else {
-      const correct = "A ver szóvégi hangjai közötti visz";
-      const wrong = ["A mondatok értelme", "Az szavak hossza", "A szókincs gazdagsága"];
+      const correct = "A vers ritmikai egysége, szótagok meghatározott mintája";
+      const wrong = ["A mondatok értelme", "A szavak hossza", "A szókincs gazdagsága"];
       q.push(createMCQ("poétika", "haladó", "Mit jelent a versláb?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mi az daktilus?", a: "Egy hosszú és két rövid szótag szerkezetű versláb" },
-      { q: "Mi az jambus?", a: "Egy rövid és egy hosszú szótag szerkezetű versláb" },
-      { q: "Mit jelent a szabadversé?", a: "A vers metrikai és rímelési szabályok nélkül" },
+      { q: "Mi a daktilus?", a: "Egy hosszú és két rövid szótagból álló versláb" },
+      { q: "Mi a jambus?", a: "Egy rövid és egy hosszú szótagból álló versláb" },
+      { q: "Mit jelent a szabadvers?", a: "Kötött metrikai és rímelési szabályokat nem követő vers" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -1048,12 +1048,12 @@ export function generateGenreStudies(seed?: number): CurriculumMCQ[] {
     const type = i % 3;
     if (type === 0) {
       const correct = "Az irodalmi műfajok tanulmányozása és osztályozása";
-      const wrong = ["Az szerzők biográfiái", "Az könyvek címei", "Az lapok szeppezése"];
+      const wrong = ["A szerzők életrajzai", "A könyvek címei", "A lapszámozás"];
       q.push(createMCQ("műfajok", "elméleti", "Mit jelent a műfajtan?", correct, wrong));
     } else if (type === 1) {
-      const correct = "Az irodalmi műfajok közötti határok hígulnak";
+      const correct = "Az irodalmi műfajok közötti határok elmosódnak";
       const wrong = ["A műfajok szigorúak és rögzíttek", "Nincs műfaj", "Minden azonos"];
-      q.push(createMCQ("műfajok", "elméleti", "Mi az posztmodern műfajcsendülete?", correct, wrong));
+      q.push(createMCQ("műfajok", "elméleti", "Mi jellemzi a posztmodern műfajkeveredést?", correct, wrong));
     } else {
       const correct = "Az történelem során a műfajok megváltoznak";
       const wrong = ["A műfajok soha nem változnak", "Az műfajok véletlenszerűek", "Az műfajok nem léteznek"];
@@ -1063,9 +1063,9 @@ export function generateGenreStudies(seed?: number): CurriculumMCQ[] {
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mi az hibrida műfaj?", a: "Több műfaj jellegzetes elemeinek egyesítése" },
-      { q: "Mit jelent az kiterjesztett regény?", a: "Az novella és regény közötti középső műfaj" },
-      { q: "Mi az mikrorégény?", a: "Az nagyon rövid elbeszélés egy vagy néhány oldalas" },
+      { q: "Mi a hibrid műfaj?", a: "Több műfaj jellegzetes elemeinek egyesítése" },
+      { q: "Mit jelent a kisregény?", a: "A novella és a regény közé eső terjedelmű elbeszélő mű" },
+      { q: "Mi a flash fiction (villanypróza)?", a: "Nagyon rövid, néhány soros vagy egy oldalas elbeszélés" },
     ];
     const item = pick(questions, rng);
     q.push({
@@ -1088,24 +1088,24 @@ export function generateReceptionAesthetics(seed?: number): CurriculumMCQ[] {
     const type = i % 3;
     if (type === 0) {
       const correct = "Az szöveg és olvasó közötti kölcsönhatás tanulmányozása";
-      const wrong = ["Az könyv nyomtatása", "Az szerzői kifejezések", "Az szókincs"];
-      q.push(createMCQ("recepció", "esztétika", "Mit jelent az recepció esztétika?", correct, wrong));
+      const wrong = ["A könyv nyomtatása", "A szerzői szándék elemzése", "A szókincs"];
+      q.push(createMCQ("recepció", "esztétika", "Mit jelent a recepcióesztétika?", correct, wrong));
     } else if (type === 1) {
-      const correct = "Az mit az olvasó a szövegből megért";
-      const wrong = ["Az amit az szerző szándékolt", "Az amit az kritikus mond", "Az amit az közönség lát"];
-      q.push(createMCQ("recepció", "esztétika", "Mi az olvasói interpretáció?", correct, wrong));
+      const correct = "Az, amit az olvasó a szövegből megért";
+      const wrong = ["Az, amit a szerző szándékolt", "Az, amit a kritikus mond", "Az, amit a közönség lát"];
+      q.push(createMCQ("recepció", "esztétika", "Mi az olvasói értelmezés?", correct, wrong));
     } else {
-      const correct = "Az szöveg nyitott és a befejezés az olvasóban";
-      const wrong = ["Az szöveg zárt és befejezett", "Az szöveg nem lezárt", "Az szöveg semmis"];
-      q.push(createMCQ("recepció", "esztétika", "Mit jelent az nyitott szöveg?", correct, wrong));
+      const correct = "A szöveg értelmezése nyitott, a befejezés az olvasóban születik meg";
+      const wrong = ["A szöveg egyféleképpen értelmezhető", "A szöveg nem olvasható", "A szöveg értelmezése a szerzőé"];
+      q.push(createMCQ("recepció", "esztétika", "Mit jelent a nyitott szöveg?", correct, wrong));
     }
   }
 
   for (let i = 0; i < 15; i++) {
     const questions = [
-      { q: "Mi a nézői horizont?", a: "Az ami az olvasó vár az szövegtől" },
-      { q: "Mit jelent a horizonton túli eltolódás?", a: "Az szöveg megújít az olvasó elvárásait" },
-      { q: "Mi az megértési folyamata?", a: "Az olvasó szöveg közötti körkörös visz" },
+      { q: "Mi az elvárási horizont?", a: "Az olvasó által a szövegtől elvárt tapasztalat- és értékrendszer" },
+      { q: "Mit jelent a horizont-kiszélesítés?", a: "A szöveg felülírja vagy megújítja az olvasó elvárásait" },
+      { q: "Mi a hermeneutikai kör?", a: "Az olvasó és a szöveg közötti körkörös megértési folyamat" },
     ];
     const item = pick(questions, rng);
     q.push({

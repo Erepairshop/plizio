@@ -85,7 +85,7 @@ function generateWaveEquationMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       qs.push(createMCQ(
         "waves", "wave_equation",
         q4(
-          "Die Wellenverschwindungsformel ist v = f × λ. Was ist v?",
+          "Die Wellengeschwindigkeitsformel ist v = f × λ. Was ist v?",
           "The wave equation is v = f × λ. What is v?",
           "A hullámegyenlet v = f × λ. Mi a v?",
           "Ecuația undelor este v = f × λ. Ce este v?",

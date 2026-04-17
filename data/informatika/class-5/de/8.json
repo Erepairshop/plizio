@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät zeigt Bilder und Text an?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Tastatur",
+                                      "Monitor",
+                                      "Maus",
+                                      "Scanner"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät wird verwendet, um digitale Dokumente auf Papier zu bringen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor",
+                                      "Drucker",
+                                      "Lautsprecher",
+                                      "Modem"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Womit hört man Musik vom Computer?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mikrofon",
+                                      "Webcam",
+                                      "Lautsprecher",
+                                      "Scanner"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät projiziert das Bild an eine Wand?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Beamer",
+                                      "Drucker",
+                                      "Monitor",
+                                      "Plotter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man die Geräte, die Ergebnisse der Computerarbeit ausgeben?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eingabegeräte",
+                                      "Ausgabegeräte",
+                                      "Speichergeräte",
+                                      "Prozessoren"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welches Gerät wird für die Tonausgabe verwendet, ohne andere zu stören?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Lautsprecher",
+                                      "Mikrofon",
+                                      "Kopfhörer",
+                                      "Verstärker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Plotter?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner Monitor",
+                                      "Ein spezieller Drucker für große technische Zeichnungen",
+                                      "Ein Eingabegerät für Spiele",
+                                      "Ein Speichergerät"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Druckertyp ist für seine Schnelligkeit bekannt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Tintenstrahldrucker",
+                                      "Laserdrucker",
+                                      "Nadeldrucker",
+                                      "Typenraddrucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Monitor-Typ ist heute Standard?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Röhrenmonitor (CRT)",
+                                      "Flachbildschirm (LCD/LED)",
+                                      "Projektor",
+                                      "Scanner"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Was gibt ein 3D-Drucker aus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Fotos",
+                                      "Texte",
+                                      "Dreidimensionale Objekte",
+                                      "Musik"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür steht die Abkürzung \u0027DPI\u0027 beim Drucker?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Digital Paper Interface",
+                                      "Dots Per Inch",
+                                      "Data Print Information",
+                                      "Direct Page Input"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welches Gerät ist KEIN Ausgabegerät?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor",
+                                      "Drucker",
+                                      "Scanner",
+                                      "Lautsprecher"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Resolution\u0027 (Auflösung) bei einem Monitor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Größe des Gehäuses",
+                                      "Die Anzahl der Bildpunkte (Pixel)",
+                                      "Die Lautstärke der Töne",
+                                      "Die Geschwindigkeit der Maus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Kabel überträgt oft sowohl Bild als auch Ton zum Monitor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "VGA",
+                                      "HDMI",
+                                      "USB",
+                                      "Stromkabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Drucker verwendet Tintenpatronen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Laserdrucker",
+                                      "Tintenstrahldrucker",
+                                      "Thermodrucker",
+                                      "Nadeldrucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie wird die Bildschirmdiagonale meist gemessen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In Zentimetern",
+                                      "In Zoll (Inch)",
+                                      "In Litern",
+                                      "In Gramm"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die Hauptaufgabe einer Grafikkarte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten speichern",
+                                      "Bilder für den Monitor berechnen",
+                                      "Töne erzeugen",
+                                      "Text drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät gibt Warnsignale als Pieptöne aus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor",
+                                      "Interner Lautsprecher / Buzzer",
+                                      "Maus",
+                                      "Tastatur"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Was ist ein Touchscreen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur ein Ausgabegerät",
+                                      "Nur ein Eingabegerät",
+                                      "Sowohl Eingabe- als auch Ausgabegerät",
+                                      "Ein Speichergerät"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät wird oft in Klassenzimmern statt einer Tafel verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Interaktives Whiteboard",
+                                      "Scanner",
+                                      "Drucker",
+                                      "Kopfhörer"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welcher Drucker wird oft für Kassenbons verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Tintenstrahldrucker",
+                                      "Laserdrucker",
+                                      "Thermodrucker",
+                                      "Nadeldrucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim \u0027Hardcopy\u0027-Drucken?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Foto wird gemacht",
+                                      "Informationen werden auf Papier ausgegeben",
+                                      "Der Computer wird gesperrt",
+                                      "Eine Datei wird gelöscht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Schnittstelle wird oft für Kopfhörer verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "VGA",
+                                      "Klinke (Jack)",
+                                      "HDMI",
+                                      "SATA"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Output\u0027 in der Informatik?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eingabe",
+                                      "Ausgabe",
+                                      "Verarbeitung",
+                                      "Suche"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät ist für die Anzeige der Benutzeroberfläche zuständig?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor",
+                                      "Lautsprecher",
+                                      "Drucker",
+                                      "Scanner"
+                                  ]
+                  },
+                  {
+                      "text":  "Der Monitor zeigt uns die Ergebnisse unserer Arbeit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Drucker erstellt eine physische Kopie eines Dokuments.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Lautsprecher wandeln digitale Signale in hörbaren Schall um.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Beamer projiziert das Bild auf eine große Leinwand.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Kopfhörer ermöglichen privates Hören von Musik und Ton.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Moderne Monitore haben eine sehr hohe Auflösung.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Laserdrucker arbeitet schnell und effizient.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "HDMI-Kabel übertragen hochwertige Video- und Audiosignale.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "3D-Drucker können komplexe Modelle aus Kunststoff erstellen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Grafikkarte ist wichtig für flüssige Darstellungen.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Ausgabegeräte"
+}

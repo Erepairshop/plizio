@@ -748,7 +748,7 @@ export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0)
       [
         q4("niedrigerem Strom", "lower current", "alacsonyabb áramhoz", "curent mai mic", lang),
         q4("gleichem Strom", "same current", "azonos áramhoz", "același curent", lang),
-        q4("keine Veränderung des Stroms", "no change in current", "az áram nincs változása", "nicio schimbare a curentului", lang),
+        q4("keine Veränderung des Stroms", "no change in current", "az áram nem változik", "curentul nu se schimbă", lang),
       ],
       rng
     ));
@@ -765,8 +765,8 @@ export function generateCurrentVoltageTyping(lang: string = "en", seed: number =
     "current_voltage",
     q4("Definiere Elektrischer Strom und nenne seine Einheit.", "Define electric current and name its unit.", "Határozd meg az elektromos áramot és nevezd meg az egységét.", "Definește curentul electric și numește unitatea sa.", lang),
     [
-      q4("Strom ist die Bewegung von Elektronen durch einen Leiter, gemessen in Ampere (A)", "Current is the movement of electrons through a conductor, measured in Amperes (A)", "Az áram az elektronok mozgása egy vezetőn keresztül, ampert (A) mérve", "Curentul este mișcarea electronilor printr-un conductor, măsurat în Amperi (A)", lang),
-      q4("Elektronen bewegung, Einheit Ampere", "Electron movement, unit Ampere", "Elektronmozgás, egység Amper", "Mișcare de electroni, unitate Amper", lang),
+      q4("Strom ist die Bewegung von Elektronen durch einen Leiter, gemessen in Ampere (A)", "Current is the movement of electrons through a conductor, measured in Amperes (A)", "Az áram az elektronok mozgása egy vezetőn keresztül, amperben (A) mérve", "Curentul este mișcarea electronilor printr-un conductor, măsurat în Amperi (A)", lang),
+      q4("Elektronenbewegung, Einheit Ampere", "Electron movement, unit Ampere", "Elektronmozgás, egység amper", "Mișcare de electroni, unitate amper", lang),
     ]
   ));
 

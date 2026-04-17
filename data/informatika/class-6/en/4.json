@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cloud Services",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does cloud service mean?",
+      "options": [
+        "Storing data in the sky",
+        "Data and software stored on remote servers accessible via internet",
+        "Network only working in bad weather",
+        "Your own computer's hard drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a cloud storage?",
+      "options": [
+        "Google Drive",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the biggest advantage of the cloud?",
+      "options": [
+        "Accessible from anywhere with internet",
+        "No computer needed",
+        "Everything is free",
+        "Faster than light"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which company owns OneDrive?",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Facebook"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is iCloud?",
+      "options": [
+        "Apple's cloud service",
+        "A type of glasses",
+        "Music player",
+        "Camera"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which is NOT a cloud service?",
+      "options": [
+        "Dropbox",
+        "Google Photos",
+        "Calculator (Windows offline)",
+        "OneDrive"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does synchronization mean?",
+      "options": [
+        "Deleting data",
+        "Data matches in the cloud and on the local device",
+        "Shutting down the computer",
+        "Saving the screen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can we access our files in the cloud?",
+      "options": [
+        "Only with a cable",
+        "By logging in (username and password)",
+        "Only from home",
+        "Cannot access them"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is Google Docs good for?",
+      "options": [
+        "Only viewing images",
+        "Word processing in the cloud",
+        "Gaming",
+        "Film editing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What happens if our phone is lost but our data is in the cloud?",
+      "options": [
+        "All data is lost",
+        "Data remains and is accessible from another machine",
+        "The cloud also disappears",
+        "The phone comes back by itself"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which software suite's cloud version is Office 365?",
+      "options": [
+        "Microsoft Office",
+        "Adobe Creative Cloud",
+        "Google Workspace",
+        "LibreOffice"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does storage limit mean?",
+      "options": [
+        "How much time we can spend on the internet",
+        "How much data we can store in the cloud",
+        "How heavy the computer is",
+        "How fast the CPU is"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can files be shared with others in the cloud?",
+      "options": [
+        "No, it's forbidden",
+        "Yes, with a link or e-mail address",
+        "Only if using the same machine",
+        "Only on a flash drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which cloud service focuses on photos?",
+      "options": [
+        "Google Photos",
+        "Excel",
+        "Notepad",
+        "VLC Player"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is SaaS?",
+      "options": [
+        "Software as a Service",
+        "System and Application",
+        "Super Apple System",
+        "Simple Auto Service"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a disadvantage of the cloud?",
+      "options": [
+        "Too colorful",
+        "Data not accessible without internet",
+        "Takes up too much room in the house",
+        "Hard to lift"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Is the cloud secure?",
+      "options": [
+        "Not at all",
+        "Generally yes, if using strong passwords and 2FA",
+        "Only if turning off the monitor",
+        "Only during the day"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does two-factor authentication (2FA) mean?",
+      "options": [
+        "Two passwords needed",
+        "Password plus a code (e.g., via SMS or app)",
+        "Two people needed to log in",
+        "Need to press Enter twice"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which cloud service helps in note-taking?",
+      "options": [
+        "Google Keep / OneNote",
+        "Calculator",
+        "Solitaire",
+        "Paint"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a cloud backup?",
+      "options": [
+        "Covering the computer",
+        "Copy of important data in the cloud for security",
+        "Antivirus",
+        "Buying new software"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which browser is Google Drive closely tied to?",
+      "options": [
+        "Safari",
+        "Chrome",
+        "Firefox",
+        "Edge"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Can a document be jointly edited in the cloud?",
+      "options": [
+        "No, only one person can write at a time",
+        "Yes, even multiple people at once",
+        "Only if sitting next to each other",
+        "Only if sent via e-mail"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the name 'Cloud' refer to?",
+      "options": [
+        "That data flies in the air",
+        "Abstract symbol for the internet",
+        "That it brings rain",
+        "That files are only white"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a free cloud storage limit (usually)?",
+      "options": [
+        "1 TB",
+        "15 GB (Google)",
+        "1 MB",
+        "No limit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does file sharing mean?",
+      "options": [
+        "Cutting files in two",
+        "Providing access to others for our files",
+        "Deleting files",
+        "Encrypting files"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Cloud services enable convenient data storage."
+    },
+    {
+      "type": "typing",
+      "text": "Google Drive and OneDrive are popular cloud storages."
+    },
+    {
+      "type": "typing",
+      "text": "Synchronization helps keep the same files on all devices."
+    },
+    {
+      "type": "typing",
+      "text": "Documents stored in the cloud can be edited from anywhere."
+    },
+    {
+      "type": "typing",
+      "text": "Always use a strong password for your cloud account."
+    },
+    {
+      "type": "typing",
+      "text": "Two-factor authentication significantly increases security."
+    },
+    {
+      "type": "typing",
+      "text": "Sharing links makes it easy to send large files."
+    },
+    {
+      "type": "typing",
+      "text": "The cloud provides backup if your computer breaks."
+    },
+    {
+      "type": "typing",
+      "text": "Online office programs do not require installation."
+    },
+    {
+      "type": "typing",
+      "text": "Cloud services require a stable internet connection."
+    }
+  ]
+}

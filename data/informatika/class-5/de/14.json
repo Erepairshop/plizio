@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Welches Programm wird zur Textverarbeitung genutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Excel",
+                                      "Word (oder Writer)",
+                                      "PowerPoint",
+                                      "Paint"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man den blinkenden Strich beim Tippen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Punkt",
+                                      "Cursor (Einfügemarke)",
+                                      "Stoppuhr",
+                                      "Pfeil"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die Enter-Taste?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Löscht Text",
+                                      "Beginnt einen neuen Absatz",
+                                      "Macht den Text fett",
+                                      "Speichert das Dokument"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste löscht Zeichen links vom Cursor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Entf",
+                                      "Backspace",
+                                      "Einfg",
+                                      "Ende"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie speichert man ein Dokument schnell (Tastenkombination)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Strg + C",
+                                      "Strg + S",
+                                      "Strg + V",
+                                      "Strg + P"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Formatieren\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text löschen",
+                                      "Das Aussehen des Textes verändern",
+                                      "Den Computer ausschalten",
+                                      "Text kopieren"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie macht man Text \u0027Fett\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mit der Maus schütteln",
+                                      "Über die Schaltfläche \u0027F\u0027 oder \u0027B\u0027",
+                                      "Den Monitor heller stellen",
+                                      "Lauter tippen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür ist die Rechtschreibprüfung gut?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Um Bilder einzufügen",
+                                      "Um Tippfehler zu finden und zu korrigieren",
+                                      "Um den PC zu beschleunigen",
+                                      "Um Musik zu hören"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim \u0027Kopieren\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der Text verschwindet",
+                                      "Der Text wird in die Zwischenablage geladen",
+                                      "Der Text wird sofort gedruckt",
+                                      "Der Text wird fett"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie fügt man kopierten Text ein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Strg + C",
+                                      "Strg + V",
+                                      "Strg + X",
+                                      "Strg + Z"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Schriftart\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Geschwindigkeit beim Tippen",
+                                      "Das Design der Buchstaben",
+                                      "Die Farbe des Papiers",
+                                      "Die Sprache des Textes"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie markiert man ein Wort mit der Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Einfach anklicken",
+                                      "Doppelklick auf das Wort",
+                                      "Rechtsklick",
+                                      "Mausrad drehen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Blocksatz\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text nur in Blöcken",
+                                      "Text, der links und rechts bündig ist",
+                                      "Text in der Mitte",
+                                      "Text am Ende"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür sind Aufzählungszeichen da?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Zählen von Wörtern",
+                                      "Um Listen übersichtlicher zu machen",
+                                      "Zum Löschen von Sätzen",
+                                      "Um Bilder zu malen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die Funktion \u0027Rückgängig\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Löscht alles",
+                                      "Macht den letzten Schritt rückgängig",
+                                      "Speichert die Datei",
+                                      "Schließt das Programm"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie ändert man die Schriftgröße?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Durch lautes Rufen",
+                                      "Über das Zahlenfeld in der Menüleiste",
+                                      "Indem man den Monitor näher rückt",
+                                      "Durch Scrollen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Vorlage\u0027 in Word?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein fertiges Muster für ein Dokument",
+                                      "Ein kaputtes Dokument",
+                                      "Ein Bild",
+                                      "Ein Passwort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Ausschneiden\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text kopieren",
+                                      "Text entfernen und in die Zwischenablage legen",
+                                      "Text fett machen",
+                                      "Text drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo sieht man den Namen des aktuellen Dokuments?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In der Statusleiste unten",
+                                      "In der Titelleiste oben",
+                                      "Auf der Tastatur",
+                                      "Im Startmenü"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wie fügt man ein Bild in einen Text ein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Über \u0027Einfügen\u0027 -\u003e \u0027Bilder\u0027",
+                                      "Durch Malen mit der Maus",
+                                      "Indem man den Scanner anschaltet",
+                                      "Durch Tippen von \u0027BILD\u0027"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die Zwischenablage?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Ordner auf der Festplatte",
+                                      "Ein unsichtbarer Speicher für Kopiertes",
+                                      "Ein Papierkorb",
+                                      "Ein Druckermenü"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Kursiv\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Dicker Text",
+                                      "Schräggestellter Text",
+                                      "Unterstrichener Text",
+                                      "Großer Text"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie kann man ein Dokument drucken?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Strg + D",
+                                      "Strg + P",
+                                      "Strg + S",
+                                      "Strg + F"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Absatz?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein einzelnes Wort",
+                                      "Ein Textabschnitt, der mit Enter endet",
+                                      "Eine ganze Seite",
+                                      "Ein Bild im Text"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür nutzt man WordPad?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Für Profi-Grafiken",
+                                      "Für einfache Texte ohne viele Funktionen",
+                                      "Zum Programmieren",
+                                      "Zum Spielen"
+                                  ]
+                  },
+                  {
+                      "text":  "Textverarbeitung hilft uns beim Schreiben von Briefen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit der Tastenkombination Strg und S speichern wir schnell.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Fehlerhafte Wörter werden oft mit einer roten Linie markiert.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In der Zwischenablage landen alle kopierten Texte und Bilder.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein neuer Absatz beginnt immer nach dem Drücken von Enter.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir können die Schriftart und die Größe frei wählen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Fett und Kursiv sind wichtige Möglichkeiten zur Hervorhebung.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Das Einfügen von Bildern macht ein Dokument lebendiger.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit Rückgängig können wir kleine Fehler sofort korrigieren.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Listen mit Aufzählungszeichen sind sehr übersichtlich.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Textverarbeitung Grundlagen"
+}

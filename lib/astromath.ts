@@ -121,6 +121,7 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "pk8-ohm-explorer" | "pk8-power-explorer" | "pk8-semiconductor-explorer" | "pk8-electromagnetic-explorer" | "pk8-generators-explorer"
   | "pk8-atomic-explorer" | "pk8-nuclear-explorer" | "pk8-modern-explorer" | "pk8-environment-explorer" | "pk8-explorer"
   | "ck5-explorer" | "ck6-explorer" | "ck7-explorer" | "ck8-explorer"
+  | "ik5-explorer" | "ik6-explorer" | "ik7-explorer" | "ik8-explorer"
   | "symbiosis-explorer"
   | "sexdetermination-explorer" | "biosystems-explorer"
   | "fraction-pro-explorer" | "grand-final-explorer"
@@ -249,7 +250,7 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "🔢", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["g1_count", "g1_compare", "g1_pos", "g1_visual"],
     missions: [
-      { id: "m1", gameType: "counting-explorer",  category: "explore",   icon: "🔭", label: { en: "Counting Explorer", hu: "Számolás felfedezés", de: "Zählen entdecken",  ro: "Explorare numărare" } },
+      { id: "m1", gameType: "counting-explorer",  category: "explore",   icon: "🔭", label: { en: "Counting Explorer", hu: "Számolás felfedezése", de: "Zählen entdecken",  ro: "Explorare numărare" } },
       { id: "m2", gameType: "number-duel",      category: "build",     icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc",     de: "Zahlen-Duell",    ro: "Duel numere"    } },
       { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
@@ -261,7 +262,7 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "➕", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["g1_tausch", "g1_zahlzerlegung", "add10"],
     missions: [
-      { id: "m1", gameType: "addsub-explorer", category: "explore",   icon: "🔭", label: { en: "Addition Explorer", hu: "Összeadás felfedezés", de: "Addition entdecken", ro: "Explorare adunare" } },
+      { id: "m1", gameType: "addsub-explorer", category: "explore",   icon: "🔭", label: { en: "Addition Explorer", hu: "Összeadás felfedezése", de: "Addition entdecken", ro: "Explorare adunare" } },
       { id: "m2", gameType: "star-match",    category: "build",     icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"  } },
       { id: "m3", gameType: "missing-number",category: "challenge", icon: "❓", label: { en: "What's Missing?", hu: "Mi hiányzik?",    de: "Was fehlt?",      ro: "Ce lipsește?"   } },
     ],
@@ -273,7 +274,7 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "➖", color: "#FF6B6B", sortRange: [1, 10],
     topicKeys: ["sub10", "g1_ergaenzen"],
     missions: [
-      { id: "m1", gameType: "subtraction-explorer", category: "explore",   icon: "🔭", label: { en: "Subtraction Explorer", hu: "Kivonás felfedezés", de: "Subtraktion entdecken", ro: "Explorare scădere" } },
+      { id: "m1", gameType: "subtraction-explorer", category: "explore",   icon: "🔭", label: { en: "Subtraction Explorer", hu: "Kivonás felfedezése", de: "Subtraktion entdecken", ro: "Explorare scădere" } },
       { id: "m2", gameType: "black-hole",    category: "build",     icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"   } },
       { id: "m3", gameType: "missing-number",category: "challenge", icon: "❓", label: { en: "What's Missing?", hu: "Mi hiányzik?",    de: "Was fehlt?",       ro: "Ce lipsește?"   } },
     ],
@@ -309,7 +310,7 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#FFD700", sortRange: [1, 20],
     topicKeys: ["word", "add20", "sub20"],
     missions: [
-      { id: "m1", gameType: "word-problem-intro",  category: "explore",   icon: "🔭", label: { en: "Story Explorer",  hu: "Szöveges felfedezés", de: "Sachaufgaben entdecken", ro: "Explorare probleme" } },
+      { id: "m1", gameType: "word-problem-intro",  category: "explore",   icon: "🔭", label: { en: "Story Explorer",  hu: "Szöveges feladatok felfedezése", de: "Sachaufgaben entdecken", ro: "Explorare probleme" } },
       { id: "m2", gameType: "black-hole",       category: "build",     icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",      de: "Schwarzes Loch",  ro: "Gaura neagră"   } },
       { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
@@ -321,7 +322,7 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "🔷", color: "#10B981", sortRange: [0, 6],
     topicKeys: ["g1_shapes", "g1_spatial", "g1_pattern"],
     missions: [
-      { id: "m1", gameType: "shapes-explorer", category: "explore", icon: "🔭", label: { en: "Shapes Explorer", hu: "Alakzatok felfedezés", de: "Formen entdecken", ro: "Explorare forme" } },
+      { id: "m1", gameType: "shapes-explorer", category: "explore", icon: "🔭", label: { en: "Shapes Explorer", hu: "Alakzatok felfedezése", de: "Formen entdecken", ro: "Explorare forme" } },
       { id: "m2", gameType: "star-match",   category: "build",     icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",     ro: "Perechi stele"  } },
       { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
@@ -345,8 +346,8 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "📊", color: "#E879F9", sortRange: [1, 20],
     topicKeys: ["g1_data", "g1_sequence", "word"],
     missions: [
-      { id: "m1", gameType: "pattern-explorer",  category: "explore",   icon: "🔭", label: { en: "Pattern Explorer", hu: "Mintázat felfedezés", de: "Muster entdecken", ro: "Explorare tipare" } },
-      { id: "m2", gameType: "gravity-sort",     category: "build",     icon: "🌪️", label: { en: "Sort Numbers",   hu: "Számrendezés",     de: "Zahlen sortieren", ro: "Sortează"       } },
+      { id: "m1", gameType: "pattern-explorer",  category: "explore",   icon: "🔭", label: { en: "Pattern Explorer", hu: "Mintázat felfedezése", de: "Muster entdecken", ro: "Explorare tipare" } },
+      { id: "m2", gameType: "gravity-sort",     category: "build",     icon: "🌪️", label: { en: "Sort Numbers",   hu: "Számrendezés",     de: "Zahlen sortieren", ro: "Sortează numerele"       } },
       { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
     svgX: 190, svgY: -90,

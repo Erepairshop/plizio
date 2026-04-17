@@ -278,7 +278,7 @@ export const INFO_K6_I1_LABELS: Record<string, Record<string, string>> = {
     t9_h1: "Adatcsere", t9_h2: "Internet",
     t9_inst: "Kösd össze a gépeket!",
     t9_q: "Mi a hálózat fő célja?",
-    t9_qa: "Kommunikáció", t9_qb: "Árammegtakarítás", t9_qc: "Játékok törlése", t9_qd: "Billentyűzet tisztítás",
+    t9_qa: "Kommunikáció", t9_qb: "Árammegtakarítás", t9_qc: "Játékok törlése", t9_qd: "Billentyűzettisztítás",
     
     t10_title: "LAN és WAN",
     t10_text: "A LAN egy helyi hálózat (pl. otthon). A WAN egy kiterjedt hálózat, amely városokat vagy országokat köt össze.",
@@ -296,8 +296,8 @@ export const INFO_K6_I1_LABELS: Record<string, Record<string, string>> = {
     
     t12_title: "Routerek és switchek",
     t12_text: "A switch az eszközöket köti össze a LAN-on belül. A router különböző hálózatokat köt össze, pl. az otthonit az internettel.",
-    t12_h1: "Router = Útmutató", t12_h2: "Switch = Elosztó",
-    t12_inst: "Oszt el az adatokat!",
+    t12_h1: "Router = Útválasztó", t12_h2: "Switch = Elosztó",
+    t12_inst: "Osztd el az adatokat!",
     t12_q: "Melyik eszköz köti össze a házat az internettel?",
     t12_qa: "Router", t12_qb: "Egér", t12_qc: "Monitor", t12_qd: "Nyomtató",
     

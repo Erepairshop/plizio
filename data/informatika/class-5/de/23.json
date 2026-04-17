@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Elektronische Post (E-Mail)",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine E-Mail?",
+      "options": [
+        "Ein Schnellzug",
+        "Elektronische Post",
+        "Ein Internetspiel",
+        "Eine Programmiersprache"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist ein korrektes E-Mail-Adressformat?",
+      "options": [
+        "beispielname.gmail.com",
+        "beispiel@gmail.de",
+        "beispiel#gmail.com",
+        "www.beispiel.com"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das Feld 'Betreff' (Subject)?",
+      "options": [
+        "Das Schulfach",
+        "Der kurze Inhalt oder Titel der Mail",
+        "Name des Absenders",
+        "Sendezeitpunkt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient der 'Anhang' (Attachment)?",
+      "options": [
+        "Zur Zierde",
+        "Dateien (Bilder, Dokumente) mit der Mail mitschicken",
+        "Mail löschen",
+        "Passwort verstecken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'CC' (Kopie)?",
+      "options": [
+        "Nur für Namen mit C",
+        "Kopie an jemanden, den man mit informieren will",
+        "Geheimkorrespondenz",
+        "Mail löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'BCC' (Blindkopie)?",
+      "options": [
+        "Sehr wichtige Mail",
+        "Kopie, bei der andere Empfänger nicht sehen, wer sie noch bekam",
+        "Nur für Freunde",
+        "Nur für Kinder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welchem Button antwortet man auf eine Mail?",
+      "options": [
+        "Delete",
+        "Reply (Antworten)",
+        "Forward (Weiterleiten)",
+        "Spam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu ist der 'Forward'-Button (Weiterleiten) da?",
+      "options": [
+        "Antwort schicken",
+        "Die erhaltene Mail an jemand anderen schicken",
+        "Mail drucken",
+        "Mail speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man erhaltene Mails?",
+      "options": [
+        "Ordner 'Gesendet'",
+        "Ordner 'Posteingang' (Inbox)",
+        "Ordner 'Papierkorb'",
+        "Ordner 'Entwürfe'"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo werden unfertige Mails gespeichert?",
+      "options": [
+        "Gesendet",
+        "Entwürfe (Drafts)",
+        "Spam",
+        "Posteingang"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun bei einer verdächtigen Mail von Unbekannt?",
+      "options": [
+        "Sofort öffnen",
+        "Anhang laden",
+        "Ungeöffnet löschen oder als Spam melden",
+        "Höflich antworten"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Signatur am Ende einer E-Mail?",
+      "options": [
+        "Ein gescannter Name",
+        "Ein voreingestellter Text mit Name und Daten",
+        "Eine Zeichnung",
+        "Das Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man zu große Dateien im Anhang schicken?",
+      "options": [
+        "Ja, jede Größe",
+        "Nein, Postfach des Empfängers kann voll werden oder Mail geht nicht raus",
+        "Nur wenn Video",
+        "Nur nachts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist die Begrüßung am Anfang wichtig?",
+      "options": [
+        "Damit es länger wird",
+        "Teil der Grundhöflichkeit",
+        "Damit man weiß, wer schickte",
+        "Nicht wichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist KEIN kostenloser E-Mail-Dienst?",
+      "options": [
+        "Gmail",
+        "Outlook",
+        "Minecraft",
+        "Web.de"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das '@'-Zeichen (Klammeraffe)?",
+      "options": [
+        "Ein Tier",
+        "Das Pflicht-Trennelement einer E-Mail-Adresse",
+        "Eine Rechenoperation",
+        "Eine Klammer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie beendet man eine Mail höflich?",
+      "options": [
+        "Tschüss!",
+        "Mit freundlichen Grüßen",
+        "Das war's",
+        "Fertig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum den 'Betreff' ausfüllen?",
+      "options": [
+        "Damit die Mail schöner ist",
+        "Hilft dem Empfänger zu wissen, worum es geht",
+        "Damit es nicht leer ist",
+        "PC schickt sonst nicht ab"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Allen antworten' (Reply All)?",
+      "options": [
+        "Antwort an alle Freunde",
+        "Antwort an alle, die in der Original-Mail standen",
+        "Antwort nur an Absender",
+        "Alle Mails löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Spam-Ordner?",
+      "options": [
+        "Wo wichtige Mails hinkommen",
+        "Sammelort für unerwünschte Werbung",
+        "Ort für Entwürfe",
+        "Ort für gesendete Mails"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient die Suche im Mailprogramm?",
+      "options": [
+        "Neue Freunde finden",
+        "Alte Mails über Stichwörter finden",
+        "Im Internet suchen",
+        "Spiele finden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man per E-Mail einen Virus bekommen?",
+      "options": [
+        "Nein, nur auf Webseiten",
+        "Ja, besonders über verdächtige Anhänge",
+        "Nur beim Antworten",
+        "Nur ohne Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie schickt man eine Mail an viele Leute gleichzeitig?",
+      "options": [
+        "Jedem einzeln schreiben",
+        "Alle Adressen bei Empfänger eintragen",
+        "Den Monitor anschreien",
+        "Geht nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein E-Mail-Konto?",
+      "options": [
+        "Schublade im Schreibtisch",
+        "Speicherplatz im Netz für Mails",
+        "Ein Computerspiel",
+        "Eine Tastaturart"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn man das Passwort vergessen hat?",
+      "options": [
+        "Neuen PC kaufen",
+        "Funktion 'Passwort vergessen' nutzen",
+        "Weinen",
+        "Alles lassen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "E-Mail ist die Abkürzung für elektronische Post."
+    },
+    {
+      "type": "typing",
+      "text": "Schreibe immer einen kurzen, passenden Betreff für deine Mail!"
+    },
+    {
+      "type": "typing",
+      "text": "Mithilfe von Anhängen können wir Dateien verschicken."
+    },
+    {
+      "type": "typing",
+      "text": "In der E-Mail-Adresse muss immer das @-Zeichen stehen."
+    },
+    {
+      "type": "typing",
+      "text": "Öffne niemals verdächtige Anhänge von Unbekannten!"
+    },
+    {
+      "type": "typing",
+      "text": "Nutze einen höflichen Abschied am Ende offizieller Mails!"
+    },
+    {
+      "type": "typing",
+      "text": "Du findest deine eingehenden Mails im Posteingang."
+    },
+    {
+      "type": "typing",
+      "text": "Unter Entwürfe kannst du unfertige Mails speichern."
+    },
+    {
+      "type": "typing",
+      "text": "Verschicke keine zu großen Bilder per E-Mail!"
+    },
+    {
+      "type": "typing",
+      "text": "Elektronische Post ist schnell und effizient."
+    }
+  ]
+}

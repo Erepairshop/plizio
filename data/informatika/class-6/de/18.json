@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Variablen in der Programmierung",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine Variable in der Programmierung?",
+      "options": [
+        "Ein fester Wert",
+        "Ein Platzhalter für Daten, die sich ändern können",
+        "Ein Hardware-Teil",
+        "Ein Programmname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man sich eine Variable bildlich vorstellen?",
+      "options": [
+        "Als Hammer",
+        "Als Box oder Schublade mit einem Namen",
+        "Als Bildschirm",
+        "Als Kabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Variablenname'?",
+      "options": [
+        "Das Ergebnis",
+        "Die Bezeichnung, unter der man den Wert findet",
+        "Ein Passwort",
+        "Der Programmcode"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Zuweisung'?",
+      "options": [
+        "Einen Wert löschen",
+        "Einer Variablen einen Wert geben (z.B. x = 5)",
+        "Eine Frage stellen",
+        "Einen Drucker wählen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Datentyp nutzt man für ganze Zahlen?",
+      "options": [
+        "String",
+        "Integer",
+        "Boolean",
+        "Float"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Datentyp nutzt man für Text?",
+      "options": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was speichert ein 'Boolean'?",
+      "options": [
+        "Zahlen",
+        "Text",
+        "Wahrheitswerte (True/False)",
+        "Bilder"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Datentyp nutzt man für Kommazahlen?",
+      "options": [
+        "Integer",
+        "Float (oder Double)",
+        "String",
+        "Char"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Deklarieren'?",
+      "options": [
+        "Einen Wert löschen",
+        "Eine Variable im Programm anmelden/erstellen",
+        "Ein Programm beenden",
+        "Eine Nachricht senden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Konstante'?",
+      "options": [
+        "Eine Variable, die sich oft ändert",
+        "Ein Wert, der sich während des Programms nicht ändert",
+        "Ein Fehler",
+        "Ein Eingabegerät"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man einer Variablen einen neuen Wert zuweist?",
+      "options": [
+        "Der alte Wert wird gelöscht/überschrieben",
+        "Beide Werte werden gespeichert",
+        "Das Programm stürzt ab",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Dürfen Variablennamen Leerzeichen enthalten (meistens)?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur am Ende",
+        "Nur am Anfang"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen wird oft für die Zuweisung genutzt?",
+      "options": [
+        "=",
+        "!",
+        "?",
+        "#"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Initialisierung'?",
+      "options": [
+        "Das Löschen einer Variablen",
+        "Die erste Wertzuweisung nach der Erstellung",
+        "Das Beenden des Programms",
+        "Das Speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann eine Variable ihren Typ ändern (in manchen Sprachen)?",
+      "options": [
+        "Ja (dynamische Typisierung)",
+        "Nein, niemals",
+        "Nur wenn man den PC neu startet",
+        "Nur bei Fehlern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'globaler' Gültigkeitsbereich?",
+      "options": [
+        "Die Variable ist überall im Programm bekannt",
+        "Die Variable gilt nur in einer Funktion",
+        "Die Variable gilt weltweit im Internet",
+        "Die Variable ist geheim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'lokale' Variable?",
+      "options": [
+        "Sie ist im ganzen Haus bekannt",
+        "Sie gilt nur innerhalb eines bestimmten Blocks (z.B. Funktion)",
+        "Sie braucht kein Internet",
+        "Sie ist langsam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man eine Liste von Werten in einer Variablen?",
+      "options": [
+        "String",
+        "Array (oder Liste)",
+        "Boolean",
+        "Integer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert bei `x = 5 + 3`?",
+      "options": [
+        "x wird der Text '5+3'",
+        "x wird der Wert 8",
+        "Es gibt einen Fehler",
+        "Nichts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Dürfen Variablennamen mit einer Zahl beginnen (meistens)?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur wenn sie kurz sind",
+        "Nur bei Python"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Datentyp hat 'Hallo Welt'?",
+      "options": [
+        "Integer",
+        "Boolean",
+        "String",
+        "Float"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Datentyp hat der Wert 3.14?",
+      "options": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welchen Datentyp hat der Wert True?",
+      "options": [
+        "Integer",
+        "String",
+        "Boolean",
+        "Float"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Inkrementieren'?",
+      "options": [
+        "Einen Wert um 1 erhöhen",
+        "Einen Wert löschen",
+        "Einen Wert halbieren",
+        "Ein Bild einfügen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Dekrementieren'?",
+      "options": [
+        "Einen Wert verdoppeln",
+        "Einen Wert um 1 verringern",
+        "Einen Wert speichern",
+        "Einen Wert kopieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Variable"
+    },
+    {
+      "type": "typing",
+      "text": "Integer"
+    },
+    {
+      "type": "typing",
+      "text": "String"
+    },
+    {
+      "type": "typing",
+      "text": "Boolean"
+    },
+    {
+      "type": "typing",
+      "text": "Float"
+    },
+    {
+      "type": "typing",
+      "text": "="
+    },
+    {
+      "type": "typing",
+      "text": "Initialisierung"
+    },
+    {
+      "type": "typing",
+      "text": "Deklarieren"
+    },
+    {
+      "type": "typing",
+      "text": "Konstante"
+    },
+    {
+      "type": "typing",
+      "text": "Array"
+    }
+  ]
+}

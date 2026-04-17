@@ -30,7 +30,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Informatika Felfedező K6-6",
-    t1_title: "HTML tag-ek", t1_text: "A HTML tag-ek szögletes zárójelben lévő parancsok, amelyek struktúrálják a weboldalakat.", t1_inst: "Párosítsd össze:", t1_h1: "Tag megnyitása és bezárása!", t1_h2: "<tag>...</tag>", t1_q: "Hogyan néz ki egy HTML tag?", t1_qa: "<tag>tartalom</tag>", t1_qb: "[tag]tartalom[/tag]", t1_qc: "{tag}tartalom{/tag}", t1_qd: "(tag)tartalom(/tag)",
+    t1_title: "HTML tag-ek", t1_text: "A HTML tag-ek csúcsos zárójelben lévő parancsok, amelyek struktúrálják a weboldalakat.", t1_inst: "Párosítsd össze:", t1_h1: "Tag megnyitása és bezárása!", t1_h2: "<tag>...</tag>", t1_q: "Hogyan néz ki egy HTML tag?", t1_qa: "<tag>tartalom</tag>", t1_qb: "[tag]tartalom[/tag]", t1_qc: "{tag}tartalom{/tag}", t1_qd: "(tag)tartalom(/tag)",
     t1_l1: "<h1>", t1_r1: "Nagy fejléc", t1_l2: "<p>", t1_r2: "Bekezdés", t1_l3: "<img>", t1_r3: "Kép",
     t2_title: "HTML alapstruktúra", t2_text: "Minden HTML oldal alapstruktúrája: <html>, <head> és <body>.", t2_inst: "Töltsd ki a hiányt:", t2_h1: "HTML > head + body", t2_h2: "A weboldal vázlata.", t2_q: "Mit tartalmaz a <body> tag?", t2_qa: "Az oldal látható tartalmát", t2_qb: "A böngészőfül nevét", t2_qc: "A CSS stílusokat", t2_qd: "A jelszót",
     t2_sent: "A ___ tartalmazza a weboldal látható tartalmát.", t2_qa2: "<body>", t2_qb2: "<head>", t2_qc2: "<html>", t2_qd2: "<style>",

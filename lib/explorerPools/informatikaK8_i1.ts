@@ -131,7 +131,7 @@ export const INFO_K8_I1_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Pótold:", t9_sent: "Az öröklődés az ___ szót használja.", t9_qa9: "extends", t9_qb9: "includes", t9_qc9: "implements", t9_qd9: "inherits",
     t9_q: "Miért használunk öröklődést?", t9_qa: "Kód újrafelhasználás", t9_qb: "Hogy nehezebb legyen", t9_qc: "Több fájlhoz", t9_qd: "Egyáltalán nem",
     t10_title: "Big-O Jelölés", t10_text: "Az algoritmusok hatékonyságát méri.",
-    t10_inst: "Jelöld a komplexitást:", t10_tk1: "Az időbonyolultság", t10_tk2: "itt", t10_tk3: "O(n)", t10_tk4: "lineáris keresésnél.",
+    t10_inst: "Jelöld a komplexitást:", t10_tk1: "Az időbonyolultság", t10_tk2: "értéke", t10_tk3: "O(n)", t10_tk4: "lineáris keresésnél.",
     t10_q: "Melyik a leggyorsabb?", t10_qa: "O(1)", t10_qb: "O(n)", t10_qc: "O(n^2)", t10_qd: "O(log n)",
     t11_title: "Keresőalgoritmusok", t11_text: "Módszerek adatok megtalálására egy halmazban.",
     t11_inst: "Építs mondatot:", t11_f1: "A bináris kereséshez", t11_f2: "szükséges egy", t11_f3: "már", t11_f4: "rendezett lista.",

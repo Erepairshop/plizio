@@ -38,11 +38,11 @@ export const G4_ISLANDS: IslandDef[] = [
   {
     id: "i1",
     name: { en: "Large Numbers", hu: "Nagy számok", de: "Große Zahlen", ro: "Numere mari" },
-    icon: "🔢", color: "#4ECDC4", sortRange: [100, 999],
-    topicKeys: ["place1k"],
+    icon: "🔢", color: "#4ECDC4", sortRange: [1000, 9999],
+    topicKeys: ["place", "place1k"],
     missions: [
       { id: "m1", category: "explore",   gameType: "place-value-explorer", icon: "🔍", label: { en: "Discover Place Values", hu: "Helyiértékek felfedezése", de: "Stellenwerte entdecken", ro: "Descoperă valorile poziționale" } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",         icon: "🌪️", label: { en: "Sort Numbers",           hu: "Számrendezés",             de: "Zahlen sortieren",       ro: "Sortează"                       } },
+      { id: "m2", category: "build",     gameType: "gravity-sort",         icon: "🌪️", label: { en: "Sort Numbers",           hu: "Számrendezés",             de: "Zahlen sortieren",       ro: "Sortează numerele"              } },
       { id: "m3", category: "challenge", gameType: "speed-round",          icon: "⚡", label: { en: "Speed Round",             hu: "Gyors kör",                de: "Speedrunde",             ro: "Rundă rapidă"                  } },
     ],
     svgX: 160, svgY: 530,
@@ -54,7 +54,7 @@ export const G4_ISLANDS: IslandDef[] = [
     topicKeys: ["mul"],
     missions: [
       { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Arrays",  hu: "Felfedezés",      de: "Entdecken",        ro: "Descoperire"    } },
-      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"        } },
+      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenletgyakorlat", de: "Gleichungs-Drill", ro: "Ecuații"        } },
       { id: "m3", category: "challenge", gameType: "chain-calc",    icon: "🔗", label: { en: "Chain Calc",      hu: "Láncszámítás",    de: "Kettenrechnen",    ro: "Calcul în lanț" } },
     ],
     svgX: 80, svgY: 440,
@@ -63,10 +63,10 @@ export const G4_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Division", hu: "Osztás", de: "Division", ro: "Împărțire" },
     icon: "➗", color: "#FF6B6B", sortRange: [10, 99],
-    topicKeys: ["div_simple"],
+    topicKeys: ["div", "div_simple"],
     missions: [
       { id: "m1", category: "explore",   gameType: "division-explorer", icon: "🔍", label: { en: "Discover Division",  hu: "Osztás felfedezése", de: "Division entdecken",     ro: "Descoperă împărțirea" } },
-      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",     de: "Gleichungs-Drill",       ro: "Ecuații"              } },
+      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenletgyakorlat",   de: "Gleichungs-Drill",       ro: "Ecuații"              } },
       { id: "m3", category: "challenge", gameType: "missing-number",    icon: "🧩", label: { en: "What's Missing?",  hu: "Mi hiányzik?",       de: "Was fehlt?",             ro: "Ce lipsește?"         } },
     ],
     svgX: 240, svgY: 360,

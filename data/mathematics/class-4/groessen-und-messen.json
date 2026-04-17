@@ -9,8 +9,13 @@
       "question": "Wie viel Zentimeter sind 2 Meter?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [200, 100, 300, 150],
-      "correct": 0,
+      "options": [
+        300,
+        150,
+        100,
+        200
+      ],
+      "correct": 3,
       "explanation": "1 Meter = 100 cm, also 2 Meter = 200 cm"
     },
     {
@@ -18,7 +23,12 @@
       "question": "Wie viel Millimeter sind 5 Zentimeter?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [50, 5, 500, 25],
+      "options": [
+        50,
+        25,
+        500,
+        5
+      ],
       "correct": 0,
       "explanation": "1 cm = 10 mm, also 5 cm = 50 mm"
     },
@@ -27,7 +37,12 @@
       "question": "Wie viel Kilogramm sind 5000 Gramm?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 50, 500, 0.5],
+      "options": [
+        5,
+        0.5,
+        50,
+        500
+      ],
       "correct": 0,
       "explanation": "1 kg = 1000 g, also 5000 g = 5 kg"
     },
@@ -36,8 +51,13 @@
       "question": "Wie viel Minuten sind 2 Stunden?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [120, 60, 180, 90],
-      "correct": 0,
+      "options": [
+        60,
+        180,
+        120,
+        90
+      ],
+      "correct": 2,
       "explanation": "1 Stunde = 60 Minuten, also 2 Stunden = 120 Minuten"
     },
     {
@@ -45,8 +65,13 @@
       "question": "Wie viel Sekunden sind 3 Minuten?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [180, 60, 240, 120],
-      "correct": 0,
+      "options": [
+        60,
+        240,
+        120,
+        180
+      ],
+      "correct": 3,
       "explanation": "1 Minute = 60 Sekunden, also 3 Minuten = 180 Sekunden"
     },
     {
@@ -54,8 +79,13 @@
       "question": "Wie viel Liter sind 5000 Milliliter?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 50, 500, 0.5],
-      "correct": 0,
+      "options": [
+        0.5,
+        500,
+        50,
+        5
+      ],
+      "correct": 3,
       "explanation": "1 Liter = 1000 ml, also 5000 ml = 5 Liter"
     },
     {
@@ -63,8 +93,13 @@
       "question": "Ein Stift ist 14 cm lang. Wie lang sind 8 Stifte hintereinander?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [112, 100, 120, 104],
-      "correct": 0,
+      "options": [
+        100,
+        112,
+        120,
+        104
+      ],
+      "correct": 1,
       "explanation": "14 × 8 = 112 cm"
     },
     {
@@ -72,8 +107,13 @@
       "question": "Ein Apfel wiegt 150 Gramm. Wie viel wiegen 6 Äpfel?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [900, 800, 1000, 850],
-      "correct": 0,
+      "options": [
+        850,
+        1000,
+        900,
+        800
+      ],
+      "correct": 2,
       "explanation": "150 × 6 = 900 Gramm = 0,9 kg"
     },
     {
@@ -81,7 +121,12 @@
       "question": "Wie viel Meter sind 750 Zentimeter?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [7.5, 75, 0.75, 70],
+      "options": [
+        7.5,
+        70,
+        0.75,
+        75
+      ],
       "correct": 0,
       "explanation": "750 cm ÷ 100 = 7,5 Meter"
     },
@@ -90,7 +135,12 @@
       "question": "Wie viel Stunden sind 480 Minuten?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 4, 12, 6],
+      "options": [
+        8,
+        4,
+        12,
+        6
+      ],
       "correct": 0,
       "explanation": "480 ÷ 60 = 8 Stunden"
     },
@@ -99,8 +149,13 @@
       "question": "Ein Schulweg ist 2 Kilometer lang. Wie viel Meter sind das?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2000, 200, 20000, 200],
-      "correct": 0,
+      "options": [
+        20000,
+        2000,
+        200,
+        200000
+      ],
+      "correct": 1,
       "explanation": "1 km = 1000 m, also 2 km = 2000 m"
     },
     {
@@ -108,8 +163,13 @@
       "question": "Max wiegt 35 kg. Sein Bruder wiegt 28 kg. Wie viel wiegen die beiden zusammen?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [63, 53, 73, 58],
-      "correct": 0,
+      "options": [
+        73,
+        53,
+        58,
+        63
+      ],
+      "correct": 3,
       "explanation": "35 + 28 = 63 kg"
     },
     {
@@ -117,8 +177,13 @@
       "question": "Ein Unterricht dauert 45 Minuten. Wie lange dauern 3 Unterrichtsstunden?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [135, 125, 145, 130],
-      "correct": 0,
+      "options": [
+        125,
+        130,
+        145,
+        135
+      ],
+      "correct": 3,
       "explanation": "45 × 3 = 135 Minuten = 2 Stunden 15 Minuten"
     },
     {
@@ -126,8 +191,13 @@
       "question": "Wie viel Zentimeter sind 4 Meter und 32 Zentimeter?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [432, 442, 422, 452],
-      "correct": 0,
+      "options": [
+        442,
+        432,
+        422,
+        452
+      ],
+      "correct": 1,
       "explanation": "4 m = 400 cm, also 400 + 32 = 432 cm"
     },
     {
@@ -135,8 +205,13 @@
       "question": "Ein Buch wiegt 600 Gramm. Wie viel wiegen 10 Bücher?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, 60, 600, 0.6],
-      "correct": 0,
+      "options": [
+        600,
+        60,
+        0.6,
+        6
+      ],
+      "correct": 3,
       "explanation": "600 × 10 = 6000 Gramm = 6 kg"
     },
     {
@@ -144,8 +219,13 @@
       "question": "Wie viel Deziliter sind 3 Liter?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [30, 3, 300, 0.3],
-      "correct": 0,
+      "options": [
+        3,
+        300,
+        0.3,
+        30
+      ],
+      "correct": 3,
       "explanation": "1 Liter = 10 dl, also 3 Liter = 30 dl"
     },
     {
@@ -153,8 +233,13 @@
       "question": "Ein Zimmer ist 6 Meter lang und 4 Meter breit. Wie groß ist der Umfang?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [20, 18, 24, 22],
-      "correct": 0,
+      "options": [
+        24,
+        18,
+        22,
+        20
+      ],
+      "correct": 3,
       "explanation": "Umfang = 2 × (6 + 4) = 2 × 10 = 20 Meter"
     },
     {
@@ -162,8 +247,13 @@
       "question": "Wie viel Sekunden sind 5 Minuten und 30 Sekunden?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [330, 320, 340, 350],
-      "correct": 0,
+      "options": [
+        350,
+        330,
+        340,
+        320
+      ],
+      "correct": 1,
       "explanation": "5 Minuten = 300 Sekunden, plus 30 Sekunden = 330 Sekunden"
     },
     {
@@ -171,8 +261,13 @@
       "question": "Eine Flasche enthält 750 Milliliter. Wie viel sind 4 Flaschen?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [3, 2, 4, 1],
-      "correct": 0,
+      "options": [
+        4,
+        1,
+        3,
+        2
+      ],
+      "correct": 2,
       "explanation": "750 × 4 = 3000 ml = 3 Liter"
     },
     {
@@ -180,17 +275,21 @@
       "question": "Ein Auto fährt 80 Kilometer in einer Stunde. Wie weit fährt es in 3 Stunden?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [240, 160, 320, 200],
-      "correct": 0,
+      "options": [
+        200,
+        240,
+        320,
+        160
+      ],
+      "correct": 1,
       "explanation": "80 × 3 = 240 Kilometer"
     },
     {
       "id": "4-messen-021",
       "question": "Wie viele Millimeter sind 3 Meter?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [3000, 300, 30000, 30],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "3 m = 300 cm = 3000 mm"
     },
     {
@@ -198,7 +297,12 @@
       "question": "Eine Tonne hat wie viele Kilogramm?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [1000, 100, 10000, 500],
+      "options": [
+        1000,
+        10000,
+        500,
+        100
+      ],
       "correct": 0,
       "explanation": "1 Tonne = 1000 Kilogramm"
     },
@@ -206,9 +310,8 @@
       "id": "4-messen-023",
       "question": "Ein Schwimmbecken fasst 2500 Liter. Wie viele Milliliter sind das?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [2500000, 250000, 25000, 2500],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "2500 Liter × 1000 = 2.500.000 ml"
     },
     {
@@ -216,8 +319,13 @@
       "question": "Max wiegt 42 kg. Er kauft ein 5 kg schweres Gepäckstück. Was ist das Gesamtgewicht?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [47, 45, 50, 37],
-      "correct": 0,
+      "options": [
+        50,
+        37,
+        45,
+        47
+      ],
+      "correct": 3,
       "explanation": "42 + 5 = 47 kg"
     },
     {
@@ -225,17 +333,21 @@
       "question": "Ein Seil ist 7,5 m lang. Wie viele Zentimeter sind das?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [750, 75, 7500, 7],
-      "correct": 0,
+      "options": [
+        7,
+        75,
+        7500,
+        750
+      ],
+      "correct": 3,
       "explanation": "7,5 m × 100 = 750 cm"
     },
     {
       "id": "4-messen-026",
       "question": "Wie viele Sekunden hat eine Stunde?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [3600, 360, 600, 1800],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "1 Stunde = 60 Minuten = 60 × 60 = 3600 Sekunden"
     },
     {
@@ -243,17 +355,21 @@
       "question": "Ein Paket wiegt 2 kg 750 g. Wie viel Gramm sind das?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2750, 2075, 2705, 27500],
-      "correct": 0,
+      "options": [
+        2705,
+        2750,
+        2075,
+        27500
+      ],
+      "correct": 1,
       "explanation": "2 kg = 2000 g, plus 750 g = 2750 g"
     },
     {
       "id": "4-messen-028",
       "question": "Anna läuft täglich 3 km. Wie viele Meter läuft sie in einer Woche?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [21000, 2100, 210, 7000],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "7 Tage × 3 km × 1000 m = 21000 m"
     },
     {
@@ -261,17 +377,21 @@
       "question": "Ein Raum ist 5 m lang, 4 m breit und 3 m hoch. Wie groß ist der Fußboden?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [20, 60, 12, 15],
-      "correct": 0,
+      "options": [
+        12,
+        15,
+        20,
+        60
+      ],
+      "correct": 2,
       "explanation": "Fußbodenfläche = 5 × 4 = 20 m²"
     },
     {
       "id": "4-messen-030",
       "question": "Eine Strecke von 15 km wird mit dem Rad in 1 Stunde gefahren. Wie schnell fährt man in km/h?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [15, 30, 10, 20],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "15 km in 1 Stunde = 15 km/h"
     }
   ]

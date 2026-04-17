@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät wird verwendet, um Text in den Computer einzugeben?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor",
+                                      "Tastatur",
+                                      "Drucker",
+                                      "Lautsprecher"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Mit welchem Gerät kann man auf dem Bildschirm klicken und zeichnen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Maus",
+                                      "Scanner",
+                                      "Webcam",
+                                      "Mikrofon"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Was ist der Zweck eines Scanners?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Musik hören",
+                                      "Filme ansehen",
+                                      "Papierbilder in digitale Dateien umwandeln",
+                                      "Text tippen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät wird für die Audioeingabe verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Lautsprecher",
+                                      "Mikrofon",
+                                      "Kopfhörer",
+                                      "Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was macht eine Webcam?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Videos und Bilder aufnehmen",
+                                      "Bilder drucken",
+                                      "Text anzeigen",
+                                      "Den Cursor bewegen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man Geräte, mit denen Daten in den Computer eingegeben werden?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ausgabegeräte",
+                                      "Eingabegeräte",
+                                      "Speichergeräte",
+                                      "Prozessoren"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welches davon ist KEIN Eingabegerät?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Maus",
+                                      "Tastatur",
+                                      "Monitor",
+                                      "Scanner"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät kann für die Touch-Steuerung verwendet werden?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Touchscreen",
+                                      "Drucker",
+                                      "CD-Laufwerk",
+                                      "Netzteil"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät wird am häufigsten für Spiele verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Scanner",
+                                      "Joystick / Controller",
+                                      "Drucker",
+                                      "Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät liest Barcodes im Geschäft?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Maus",
+                                      "Barcode-Scanner",
+                                      "Tastatur",
+                                      "Lautsprecher"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird ein Grafiktablett verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Text tippen",
+                                      "Präzises Zeichnen am Computer",
+                                      "Musik hören",
+                                      "Papier drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie viele Tasten hat eine einfache Maus normalerweise?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "1",
+                                      "2 oder 3",
+                                      "10",
+                                      "50"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welche Taste wird verwendet, um Großbuchstaben zu schreiben?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Leertaste",
+                                      "Enter",
+                                      "Shift",
+                                      "Esc"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wie heißt die Unterlage für die Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mousepad",
+                                      "Monitor",
+                                      "Gehäuse",
+                                      "Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Der eingebaute Mausersatz bei einem Laptop heißt:",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Monitor",
+                                      "Touchpad",
+                                      "Scanner",
+                                      "Webcam"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät macht Fotos und gibt sie direkt ein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Digitalkamera",
+                                      "Drucker",
+                                      "Monitor",
+                                      "Lautsprecher"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welcher Anschluss ist heute am gebräuchlichsten für Eingabegeräte?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "USB",
+                                      "Steckdose",
+                                      "VGA",
+                                      "Klinke"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo wird ein Mikrofon angeschlossen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Am Monitor",
+                                      "Am Soundkarteneingang",
+                                      "Am Drucker",
+                                      "An der Tastatur"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät hilft Menschen mit Behinderungen, einen Computer zu steuern?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Spezielle Trackballs oder Eyetracker",
+                                      "Nur eine Standardmaus",
+                                      "Ein Drucker",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste löscht das Zeichen links vom Cursor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Entf",
+                                      "Backspace",
+                                      "Enter",
+                                      "Leertaste"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird das Mausrad verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Klicken",
+                                      "Scrollen durch ein Dokument",
+                                      "Tippen",
+                                      "Ausschalten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man das Tastaturlayout nach den ersten sechs Buchstaben?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "ASDFGH",
+                                      "QWERTZ",
+                                      "ZXCVBN",
+                                      "ABCDEF"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welches Gerät kann Fingerabdrücke lesen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Fingerabdruckscanner",
+                                      "Scanner",
+                                      "Maus",
+                                      "Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welche Taste beendet einen Absatz beim Tippen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Leertaste",
+                                      "Shift",
+                                      "Enter",
+                                      "Tab"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet das Wort \u0027Input\u0027 in der Informatik?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ausgabe",
+                                      "Eingabe",
+                                      "Speicherung",
+                                      "Verarbeitung"
+                                  ]
+                  },
+                  {
+                      "text":  "Die Tastatur und die Maus sind die wichtigsten Eingabegeräte.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Scanner verwandelt ein Papierbild in eine digitale Datei.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Eine Webcam ist ein wichtiges Werkzeug für Videoanrufe.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Mikrofon wandelt Schallwellen in elektrische Signale um.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Touchpad ist das eingebaute Zeigegerät bei Laptops.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der USB-Anschluss ist die am weitesten verbreitete Verbindungsmethode.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir verwenden eine Maus oder ein Touchpad, um den Cursor zu bewegen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Großbuchstaben können wir mit der Shift-Taste schreiben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Backspace-Taste ermöglicht es uns, falsche Zeichen zu löschen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Controller oder Joystick wird oft für Spiele verwendet.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Eingabegeräte"
+}

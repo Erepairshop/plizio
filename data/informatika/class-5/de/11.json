@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  2,
+                      "question":  "Welches ist die längste Taste auf der Tastatur?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Enter",
+                                      "Shift",
+                                      "Leertaste",
+                                      "Backspace"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Mit welcher Taste beginnt man eine neue Zeile?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Leertaste",
+                                      "Enter",
+                                      "Esc",
+                                      "Tab"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste löscht Zeichen links vom Cursor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Entf",
+                                      "Backspace",
+                                      "Einfg",
+                                      "Ende"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird die Shift-Taste verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Löschen",
+                                      "Für Großbuchstaben oder Sonderzeichen",
+                                      "Zum Beenden von Programmen",
+                                      "Zum Speichern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die Caps Lock Taste?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Schaltet den PC aus",
+                                      "Aktiviert dauerhafte Großschreibung",
+                                      "Löscht den Text",
+                                      "Startet das Internet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo liegen die Tasten F1 bis F12?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rechts beim Nummernblock",
+                                      "Ganz oben in der Funktionsleiste",
+                                      "Ganz unten",
+                                      "In der Mitte"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die \u0027Grundposition\u0027 beim Zehnfingersystem?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Daumen auf der Leertaste",
+                                      "Die Finger auf ASDF und JKLÖ",
+                                      "Alle Finger auf der Maus",
+                                      "Die Hände in den Taschen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste löscht Zeichen rechts vom Cursor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Backspace",
+                                      "Entf",
+                                      "Leertaste",
+                                      "Enter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird die Tab-Taste oft benutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Löschen",
+                                      "Um den Cursor einzurücken (Einzug)",
+                                      "Zum Kopieren",
+                                      "Zum Drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet die Esc-Taste?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eingabe",
+                                      "Abbrechen / Escape",
+                                      "Ende",
+                                      "Start"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wo findet man den Nummernblock?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Meist auf der rechten Seite",
+                                      "Ganz oben",
+                                      "In der Mitte",
+                                      "Auf einer extra Maus"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Welche Taste hilft beim Kopieren (mit Strg)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "X",
+                                      "V",
+                                      "C",
+                                      "S"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Strg\u0027 (oder Ctrl)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Start-Taste",
+                                      "Steuerungstaste",
+                                      "Streichtaste",
+                                      "Stopptaste"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum haben die Tasten F und J kleine Erhebungen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Es sind Fehler",
+                                      "Zur Orientierung für das Blindschreiben",
+                                      "Damit man sie besser drücken kann",
+                                      "Zur Dekoration"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man das Schreiben, ohne auf die Tasten zu schauen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Schnellschreiben",
+                                      "Blindschreiben / Zehnfingersystem",
+                                      "Glücksschreiben",
+                                      "Diktat"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste wird meistens mit dem Daumen gedrückt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Enter",
+                                      "Leertaste",
+                                      "Shift",
+                                      "Strg"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die Alt Gr Taste?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Alles löschen",
+                                      "Drittbelegung von Tasten (z.B. @)",
+                                      "Monitor ausschalten",
+                                      "Großschreiben"
+                                  ]
+                  },
+                  {
+                      "correct":  2,
+                      "question":  "Wie viele Finger nutzt man beim professionellen Tippen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "2",
+                                      "5",
+                                      "10",
+                                      "1"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027QWERTZ\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Geheimcode",
+                                      "Die Anordnung der ersten Buchstaben der Tastatur",
+                                      "Ein Druckername",
+                                      "Ein Spiel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste bewegt den Cursor an den Anfang der Zeile?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ende",
+                                      "Pos1",
+                                      "Bild auf",
+                                      "Bild ab"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür ist die Windows-Taste da?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Putzen der Fenster",
+                                      "Zum Öffnen des Startmenüs",
+                                      "Zum Löschen von Dateien",
+                                      "Zum Ausschalten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die Einheit für Tippgeschwindigkeit?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Meter pro Sekunde",
+                                      "Anschläge pro Minute",
+                                      "Byte pro Stunde",
+                                      "Pixel pro Zoll"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie sollte man am besten sitzen beim Tippen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ganz krumm",
+                                      "Aufrecht und entspannt",
+                                      "Liegend",
+                                      "Stehend auf einem Bein"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Taste wird für das @-Zeichen benötigt (in DE)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Shift",
+                                      "Alt Gr",
+                                      "Strg",
+                                      "Caps Lock"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine ergonomische Tastatur?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine besonders bunte Tastatur",
+                                      "Eine Tastatur, die die Hände schont",
+                                      "Eine sehr kleine Tastatur",
+                                      "Eine Tastatur aus Holz"
+                                  ]
+                  },
+                  {
+                      "text":  "Richtiges Tippen spart viel Zeit bei der Arbeit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Grundstellung hilft uns, alle Tasten blind zu finden.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir benutzen die Leertaste, um Wörter voneinander zu trennen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Enter-Taste bestätigt Eingaben und beginnt neue Absätze.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit der Shift-Taste schreiben wir Großbuchstaben am Satzanfang.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Regelmäßiges Üben verbessert die Genauigkeit beim Schreiben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Zehn Finger sind viel schneller als das Suchsystem.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Pausen verhindern Verspannungen in den Händen und Fingern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Tastatur ist ein unverzichtbares Werkzeug für jeden Computer.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sonderzeichen erreicht man oft über die Alt-Gr-Taste.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Tastatur und Tippen"
+}

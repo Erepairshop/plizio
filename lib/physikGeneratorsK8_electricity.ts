@@ -57,7 +57,7 @@ function generateOhmLawMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     questions.push(createMCQ("electricity", "ohm_law", 
       q4("Ohmsches Gesetz: U = I × R bedeutet?", "Ohm's Law: U = I × R means?", "Ohm törvénye: U = I × R azt jelenti?", "Legea lui Ohm: U = I × R înseamnă?", lang),
       q4("Spannung = Strom × Widerstand", "Voltage = Current × Resistance", "Feszültség = Áramerősség × Ellenállás", "Tensiune = Curent × Rezistență", lang),
-      [q4("Strom = Spannung / Widerstand", "Current = Voltage / Resistance", "Áramerősség = Feszültség / Ellenállás", "Curent = Tensiune / Rezistență", lang),
+      [q4("Spannung = Strom / Widerstand", "Voltage = Current / Resistance", "Feszültség = Áramerősség / Ellenállás", "Tensiune = Curent / Rezistență", lang),
        q4("Leistung = Spannung × Strom", "Power = Voltage × Current", "Teljesítmény = Feszültség × Áramerősség", "Putere = Tensiune × Curent", lang),
        q4("Widerstand = Spannung + Strom", "Resistance = Voltage + Current", "Ellenállás = Feszültség + Áramerősség", "Rezistență = Tensiune + Curent", lang)], rng));
   }
@@ -106,12 +106,12 @@ function generateOhmLawTyping(lang = "en", seed = 0): CurriculumTyping[] {
       [q4("I = U/R; R = U/I", "I = U/R; R = U/I", "I = U/R; R = U/I", "I = U/R; R = U/I", lang)]),
     createTyping("electricity", "ohm_law", q4("Direkter Proportionalität U~I?", "Direct proportionality U~I?", "Közvetlen arányosság U~I?", "Proporționalitate directă U~I?", lang),
       [q4("Ja, wenn R konstant → U proportional zu I; Graph gerade Linie durch Ursprung", "Yes, if R constant → U proportional to I; graph straight line through origin", "Igen, ha R konstans → U arányos I-vel; grafikon egyenes az origón keresztül", "Da, dacă R constantă → U proporțional cu I; grafic linie dreaptă prin origine", lang)]),
-    createTyping("electricity", "ohm_law", q4("R-I Graph: Widerstand ↑?", "R-I graph: Resistance ↑?", "R-I grafikon: Ellenállás ↑?", "Grafic R-I: Rezistență ↑?", lang),
+    createTyping("electricity", "ohm_law", q4("U-I Graph: Widerstand ↑?", "U-I graph: resistance ↑?", "U-I grafikon: Ellenállás ↑?", "Grafic U-I: rezistență ↑?", lang),
       [q4("Graph steiler (steeper slope); höhere Steigung = höherer Widerstand", "Graph steeper; higher slope = higher resistance", "Grafikon meredekebb; magasabb meredekség = magasabb ellenállás", "Grafic mai abrupt; pantă mai mare = rezistență mai mare", lang)]),
     createTyping("electricity", "ohm_law", q4("Ohm Einheiten SI?", "Ohm units SI?", "Ohm egységek SI?", "Unități Ohm SI?", lang),
       [q4("1 Ω = 1 V/A = 1 kg⋅m²/(A²⋅s³)", "1 Ω = 1 V/A = 1 kg⋅m²/(A²⋅s³)", "1 Ω = 1 V/A = 1 kg⋅m²/(A²⋅s³)", "1 Ω = 1 V/A = 1 kg⋅m²/(A²⋅s³)", lang)]),
-    createTyping("electricity", "ohm_law", q4("Supraleiter R=?", "Superconductor R=?", "Szupravezetó R=?", "Supraconductor R=?", lang),
-      [q4("R = 0 Ω (exakt); unendlich großer Strom bei endlicher Spannung; Meissner-Effekt", "R = 0 Ω (exactly); infinite current at finite voltage; Meissner effect", "R = 0 Ω (pontosan); végtelen nagy áram véges feszültségnél; Meissner-hatás", "R = 0 Ω (exact); curent infinit la tensiune finită; efect Meissner", lang)]),
+    createTyping("electricity", "ohm_law", q4("Supraleiter R=?", "Superconductor R=?", "Szupravezető R=?", "Supraconductor R=?", lang),
+      [q4("R = 0 Ω (ideal); sehr großer Strom möglich (begrenzt durch kritischen Strom); Meissner-Effekt", "R = 0 Ω (ideal); very large current possible (limited by critical current); Meissner effect", "R = 0 Ω (ideálisan); nagyon nagy áram lehetséges (kritikus áram korlátozza); Meissner-hatás", "R = 0 Ω (ideal); curent foarte mare posibil (limitat de curentul critic); efect Meissner", lang)]),
     createTyping("electricity", "ohm_law", q4("Ohm nicht linear Beispiel?", "Non-ohmic example?", "Nem ohmikus példa?", "Exemplu non-ohmic?", lang),
       [q4("Glühbirne Glühfaden (R ↑ mit T ↑); Diode (asymmetrisch); Thermistor", "Incandescent filament (R ↑ with T ↑); diode (asymmetric); thermistor", "Izzólánc (R ↑ ha T ↑); dioda (aszimmetrikus); termisztor", "Filament incandesent (R ↑ cu T ↑); diodă (asimetrică); termistor", lang)]),
     createTyping("electricity", "ohm_law", q4("Kirchhoffs Spannungsgesetz?", "Kirchhoff's voltage law?", "Kirchhoff feszültségtörvénye?", "Legea tensiunii Kirchhoff?", lang),
@@ -210,8 +210,8 @@ function generateElectricPowerMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("Elektrische Leistung P: Definition?", "Electric power P: definition?", "Elektromos teljesítmény P: definíció?", "Putere electrică P: definiție?", lang),
       q4("P = U × I [W]; Energie pro Zeit", "P = U × I [W]; energy per time", "P = U × I [W]; energia per idő", "P = U × I [W]; energie per timp", lang),
       [q4("P = U / I", "P = U / I", "P = U / I", "P = U / I", lang),
-       q4("P = R × I²", "P = R × I²", "P = R × I²", "P = R × I²", lang),
-       q4("P = U² / R", "P = U² / R", "P = U² / R", "P = U² / R", lang)], rng));
+       q4("P = U + I", "P = U + I", "P = U + I", "P = U + I", lang),
+       q4("P = I / R", "P = I / R", "P = I / R", "P = I / R", lang)], rng));
   }
 
   for (let i = 0; i < 8; i++) {
@@ -336,7 +336,7 @@ function generateElectricEnergyTyping(lang = "en", seed = 0): CurriculumTyping[]
       [q4("Költség = W [kWh] × Tarifa [€/kWh]; z.B. 100 kWh × 0,20€/kWh = 20€", "Cost = W [kWh] × Rate [€/kWh]; e.g. 100 kWh × 0.20€/kWh = 20€", "Költség = W [kWh] × Tarifa [€/kWh]; pl. 100 kWh × 0,20€/kWh = 20€", "Cost = W [kWh] × Tarif [€/kWh]; ex. 100 kWh × 0,20€/kWh = 20€", lang)]),
     createTyping("electricity", "electric_energy", q4("Energiesparen: Konvention?", "Energy saving: convention?", "Energia spórolás: konvenció?", "Economie energie: convenție?", lang),
       [q4("LED < Energiesparlampe < Glühbirne; LED 80% weniger Energie für gleiche Helligkeit", "LED < compact fluorescent < incandescent; LED 80% less energy for same brightness", "LED < energiatakarékos < izzó; LED 80% kevesebb energia azonos fényerőhöz", "LED < compact fluorescent < incandescent; LED 80% mai puțină energie pentru aceeași luminozitate", lang)]),
-    createTyping("electricity", "electric_energy", q4("Stromleitung Verlust Orslow?", "Power line loss: cause?", "Áramvezeték veszteség: oka?", "Pierdere linie putere: cauza?", lang),
+    createTyping("electricity", "electric_energy", q4("Stromleitung Verlust: Ursache?", "Power line loss: cause?", "Áramvezeték veszteség: oka?", "Pierdere linie putere: cauza?", lang),
       [q4("Joule-Wärmeverlust in Leitungswiderstand: Q = I² × R × t; deshalb Hochspannung/kleiner I", "Joule heat loss in line resistance: Q = I² × R × t; that's why high voltage/small I", "Joule-hőveszteség vezetési ellenállásban: Q = I² × R × t; ezért nagyfeszültség/kis I", "Pierdere căldură Joule în rezistență linie: Q = I² × R × t; de aceea înaltă tensiune/mic I", lang)]),
     createTyping("electricity", "electric_energy", q4("Batterie Kapazität Ah?", "Battery capacity Ah?", "Akkumulátor kapacitás Ah?", "Capacitate baterie Ah?", lang),
       [q4("Ah [Ampere×Stunde] = Q [Coulomb] / 3600; Ladungsmenge, nicht Energie!", "Ah [Ampere×hour] = Q [coulomb] / 3600; charge amount, not energy!", "Ah [Amper×Óra] = Q [coulomb] / 3600; töltésmennyiség, nem energia!", "Ah [Amper×ora] = Q [coulomb] / 3600; cantitate sarcină, nu energie!", lang)]),
@@ -357,24 +357,24 @@ function generateSemiconductorsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("Zwischen Leiter und Isolator; Si (Silizium), Ge (Germanium); Leitfähigkeit mit T↑", "Between conductor and insulator; Si (silicon), Ge (germanium); conductivity ↑ with T↑", "Vezető és szigetelő között; Si (szilícium), Ge (germánium); vezetőképesség T↑-vel nő", "Între conductor și izolator; Si (siliciu), Ge (germaniu); conductibilitate ↑ cu T↑", lang),
       [q4("Nur Leiter", "Only conductors", "Csak vezetők", "Doar conductori", lang),
        q4("Nur Isolator", "Only insulators", "Csak szigetelők", "Doar izolatori", lang),
-       q4("Keine Unterschied", "No difference", "Nincs különbség", "Fără diferență", lang)], rng));
+       q4("Kein Unterschied", "No difference", "Nincs különbség", "Fără diferență", lang)], rng));
   }
 
   for (let i = 0; i < 7; i++) {
     questions.push(createMCQ("electricity", "semiconductors",
       q4("P-Dotierung (Doping)?", "P-doping?", "P-szennyezés?", "Dopaj P?", lang),
-      q4("Akzeptor-Atome (B, Al, Ga); fehlende Elektron = Loch (hole); p-Halbleiter", "Acceptor atoms (B, Al, Ga); missing electron = hole; p-semiconductor", "Akceptor atomok (B, Al, Ga); hiányzó elektron = lyuk; p-félvezetô", "Atomi acceptor (B, Al, Ga); electron lipsit = gaură; p-semiconductor", lang),
-      [q4("N-Dotierung Sache", "N-doping thing", "N-szennyezés dolog", "Dopaj N chestie", lang),
-       q4("Negativ Loch", "Negative hole", "Negatív lyuk", "Gaură negativă", lang),
+      q4("Akzeptor-Atome (B, Al, Ga); fehlende Elektron = Loch (hole); p-Halbleiter", "Acceptor atoms (B, Al, Ga); missing electron = hole; p-semiconductor", "Akceptor atomok (B, Al, Ga); hiányzó elektron = lyuk; p-félvezető", "Atomi acceptor (B, Al, Ga); electron lipsit = gaură; p-semiconductor", lang),
+      [q4("Donator-Atome (P, As, Sb); überschüssiges Elektron; n-Halbleiter", "Donor atoms (P, As, Sb); excess electron; n-semiconductor", "Donor atomok (P, As, Sb); felesleges elektron; n-félvezető", "Atomi donatori (P, As, Sb); electron în exces; n-semiconductor", lang),
+       q4("Überschuss an Elektronen (n-Typ)", "Excess electrons (n-type)", "Felesleges elektronok (n-típus)", "Electroni în exces (tip n)", lang),
        q4("Leitfähigkeit ↓", "Conductivity ↓", "Vezetőképesség ↓", "Conductibilitate ↓", lang)], rng));
   }
 
   for (let i = 0; i < 7; i++) {
     questions.push(createMCQ("electricity", "semiconductors",
       q4("N-Dotierung (Doping)?", "N-doping?", "N-szennyezés?", "Dopaj N?", lang),
-      q4("Donator-Atome (P, As, Sb); überschüssiges Elektron; n-Halbleiter", "Donor atoms (P, As, Sb); excess electron; n-semiconductor", "Donor atomok (P, As, Sb); felesleges elektron; n-félvezetó", "Atomi donatori (P, As, Sb); electron în exces; n-semiconductor", lang),
-      [q4("P-Dotierung Sache", "P-doping thing", "P-szennyezés dolog", "Dopaj P chestie", lang),
-       q4("Positiv Elektron", "Positive electron", "Pozitív elektron", "Electron pozitiv", lang),
+      q4("Donator-Atome (P, As, Sb); überschüssiges Elektron; n-Halbleiter", "Donor atoms (P, As, Sb); excess electron; n-semiconductor", "Donor atomok (P, As, Sb); felesleges elektron; n-félvezető", "Atomi donatori (P, As, Sb); electron în exces; n-semiconductor", lang),
+      [q4("Akzeptor-Atome (B, Al, Ga); Loch-Leitung; p-Halbleiter", "Acceptor atoms (B, Al, Ga); hole conduction; p-semiconductor", "Akceptor atomok (B, Al, Ga); lyukvezetés; p-félvezető", "Atomi acceptor (B, Al, Ga); conducție prin găuri; p-semiconductor", lang),
+       q4("Überschuss an Löchern (p-Typ)", "Excess holes (p-type)", "Többlet lyukak (p-típus)", "Exces de găuri (tip p)", lang),
        q4("Leitfähigkeit ↓", "Conductivity ↓", "Vezetőképesség ↓", "Conductibilitate ↓", lang)], rng));
   }
 
@@ -383,7 +383,7 @@ function generateSemiconductorsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("PN-Diode: Durchlass- vs Sperrrichtung?", "PN-diode: forward vs reverse bias?", "PN-dióda: nyitó és blokkoló irány?", "Diodă PN: polarizare directă vs inversă?", lang),
       q4("Durchlass: U_anode > U_kathode → Strom fließt; Sperrrichtung: umgekehrt → kein Strom", "Forward: U_anode > U_cathode → current flows; reverse: opposite → no current", "Nyitó: U_anód > U_katód → áram folyik; blokkoló: fordított → nincs áram", "Polarizare directă: U_anod > U_catod → curent curgător; inversă: opus → fără curent", lang),
       [q4("Gleich beide", "Same both", "Mindkettő azonos", "Ambele la fel", lang),
-       q4("Keine Unterschied", "No difference", "Nincs különbség", "Fără diferență", lang),
+       q4("Kein Unterschied", "No difference", "Nincs különbség", "Fără diferență", lang),
        q4("Immer blockiert", "Always blocked", "Mindig blokkolva", "Mereu blocat", lang)], rng));
   }
 
@@ -392,20 +392,20 @@ function generateSemiconductorsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
 function generateSemiconductorsTyping(lang = "en", seed = 0): CurriculumTyping[] {
   return [
-    createTyping("electricity", "semiconductors", q4("Halbleiter vs Leiter vs Isolator?", "Semiconductor vs conductor vs insulator?", "Félvezetô vs vezető vs szigetelô?", "Semiconductor vs conductor vs izolator?", lang),
-      [q4("Halbleiter: ρ mittel, ~10⁻⁶...10⁴ Ω⋅m; Leiter: ρ klein <10⁻⁶; Isolator: ρ groß >10⁴ Ω⋅m", "Semiconductor: ρ medium, ~10⁻⁶...10⁴ Ω⋅m; conductor: ρ small <10⁻⁶; insulator: ρ large >10⁴ Ω⋅m", "Félvezetô: ρ közepes, ~10⁻⁶...10⁴ Ω⋅m; vezető: ρ kicsi <10⁻⁶; szigetelô: ρ nagy >10⁴ Ω⋅m", "Semiconductor: ρ mediu, ~10⁻⁶...10⁴ Ω⋅m; conductor: ρ mic <10⁻⁶; izolator: ρ mare >10⁴ Ω⋅m", lang)]),
+    createTyping("electricity", "semiconductors", q4("Halbleiter vs Leiter vs Isolator?", "Semiconductor vs conductor vs insulator?", "Félvezető vs vezető vs szigetelő?", "Semiconductor vs conductor vs izolator?", lang),
+      [q4("Halbleiter: ρ mittel, ~10⁻⁶...10⁴ Ω⋅m; Leiter: ρ klein <10⁻⁶; Isolator: ρ groß >10⁴ Ω⋅m", "Semiconductor: ρ medium, ~10⁻⁶...10⁴ Ω⋅m; conductor: ρ small <10⁻⁶; insulator: ρ large >10⁴ Ω⋅m", "Félvezető: ρ közepes, ~10⁻⁶...10⁴ Ω⋅m; vezető: ρ kicsi <10⁻⁶; szigetelő: ρ nagy >10⁴ Ω⋅m", "Semiconductor: ρ mediu, ~10⁻⁶...10⁴ Ω⋅m; conductor: ρ mic <10⁻⁶; izolator: ρ mare >10⁴ Ω⋅m", lang)]),
     createTyping("electricity", "semiconductors", q4("Dotierung Effekt auf ρ?", "Doping effect on ρ?", "Szennyezés hatása a ρ-ra?", "Efect dopaj pe ρ?", lang),
       [q4("Dotierung ↓ ρ drastisch; rein Si: ρ=10⁶ Ω⋅m, dotiert: ρ=10⁻³...1 Ω⋅m", "Doping ↓ ρ drastically; pure Si: ρ=10⁶ Ω⋅m, doped: ρ=10⁻³...1 Ω⋅m", "Szennyezés ↓ ρ drámaian; tiszta Si: ρ=10⁶ Ω⋅m, szennyezett: ρ=10⁻³...1 Ω⋅m", "Dopaj ↓ ρ dramatic; Si pur: ρ=10⁶ Ω⋅m, dopat: ρ=10⁻³...1 Ω⋅m", lang)]),
     createTyping("electricity", "semiconductors", q4("Diode: Durchbruch-Spannung?", "Diode: breakdown voltage?", "Dióda: átütési feszültség?", "Diodă: tensiune pătrundere?", lang),
       [q4("U_z (Zener); sperrrichtung: U_z überschritten → plötzlich Strom; Zenerdiode für Spannungsregelung", "U_z (Zener); reverse bias: U_z exceeded → sudden current; Zener diode for voltage regulation", "U_z (Zener); blokkoló: U_z túllépve → hirtelen áram; Zener-dióda feszültség szabályozáshoz", "U_z (Zener); polarizare inversă: U_z depășit → curent brusc; diodă Zener pentru reglare tensiune", lang)]),
     createTyping("electricity", "semiconductors", q4("Tranzisztor: Funktion?", "Transistor: function?", "Tranzisztor: funkció?", "Tranzistor: funcție?", lang),
-      [q4("Strom-/Spannungsverstärker (BJT, FET); kleine Basis/Gate Strom → große Kollektor/Drain Strom", "Current/voltage amplifier (BJT, FET); small base/gate current → large collector/drain current", "Áram/feszültség erôsítô (BJT, FET); kicsi bázis/kapu áram → nagy kollektor/lefolyó áram", "Amplificator curent/tensiune (BJT, FET); curent mic bază/poartă → curent mare colector/drenaj", lang)]),
+      [q4("Strom-/Spannungsverstärker (BJT, FET); kleine Basis/Gate Strom → große Kollektor/Drain Strom", "Current/voltage amplifier (BJT, FET); small base/gate current → large collector/drain current", "Áram/feszültség erősítő (BJT, FET); kicsi bázis/kapu áram → nagy kollektor/lefolyó áram", "Amplificator curent/tensiune (BJT, FET); curent mic bază/poartă → curent mare colector/drenaj", lang)]),
     createTyping("electricity", "semiconductors", q4("Bandgap energie E_g?", "Bandgap energy E_g?", "Sáv-rés energia E_g?", "Energie bandă interzisă E_g?", lang),
       [q4("Minimum energia részecskéknek valencia → vezetési sáv; Si: ~1,1 eV, Ge: ~0,66 eV, GaAs: ~1,43 eV", "Minimum energy for particle valence → conduction band; Si: ~1.1 eV, Ge: ~0.66 eV, GaAs: ~1.43 eV", "Minimum energia valentcia → vezetési sáv; Si: ~1,1 eV, Ge: ~0,66 eV, GaAs: ~1,43 eV", "Energie minimă valență → bandă conducție; Si: ~1,1 eV, Ge: ~0,66 eV, GaAs: ~1,43 eV", lang)]),
     createTyping("electricity", "semiconductors", q4("LED (light-emitting diode)?", "LED (light-emitting diode)?", "LED (fénykibocs. dióda)?", "LED (diodă electroluminescent)?", lang),
       [q4("Forward-biased PN junction; elektron-lyuk rekombináció → foton kibocsátás; szín = E_g", "Forward-biased PN junction; electron-hole recombination → photon emission; color = E_g", "Nyitott PN átmenet; elektron-lyuk rekombináció → foton kibocsátás; szín = E_g", "Joncțiune PN polarizată direct; recombinare electron-gaură → emisie foton; culoare = E_g", lang)]),
-    createTyping("electricity", "semiconductors", q4("Thermistor (thermal resistor)?", "Thermistor (thermal resistor)?", "Termisztor (hôellenállás)?", "Termistor (rezistor termic)?", lang),
-      [q4("Halbleiter-ellenállás; NTC: ↑T → ↓R (negativ temp.koeff); PTC: ↑T → ↑R", "Semiconductor resistor; NTC: ↑T → ↓R (negative temp. coeff); PTC: ↑T → ↑R", "Félvezetô ellenállás; NTC: ↑T → ↓R (negatív hôm. koeff); PTC: ↑T → ↑R", "Rezistor semiconductor; NTC: ↑T → ↓R (coef. temp. negativ); PTC: ↑T → ↑R", lang)]),
+    createTyping("electricity", "semiconductors", q4("Thermistor (thermal resistor)?", "Thermistor (thermal resistor)?", "Termisztor (hőellenállás)?", "Termistor (rezistor termic)?", lang),
+      [q4("Halbleiter-ellenállás; NTC: ↑T → ↓R (negativ temp.koeff); PTC: ↑T → ↑R", "Semiconductor resistor; NTC: ↑T → ↓R (negative temp. coeff); PTC: ↑T → ↑R", "Félvezető ellenállás; NTC: ↑T → ↓R (negatív hőm. koeff); PTC: ↑T → ↑R", "Rezistor semiconductor; NTC: ↑T → ↓R (coef. temp. negativ); PTC: ↑T → ↑R", lang)]),
     createTyping("electricity", "semiconductors", q4("IC (Integrated Circuit)?", "IC (Integrated Circuit)?", "IC (integrált áramkör)?", "IC (Circuit integrat)?", lang),
       [q4("Több 10⁶...10⁹ tranzisztor egy chip-en; modern CPU/GPU alapja", "Millions...billions transistors on one chip; basis of modern CPU/GPU", "Több 10⁶...10⁹ tranzisztor egy chip-en; modern CPU/GPU alapja", "Milioane...miliarde de tranzistori pe un cip; bază CPU/GPU modern", lang)]),
   ];

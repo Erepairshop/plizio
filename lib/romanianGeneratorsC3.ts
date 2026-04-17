@@ -782,16 +782,16 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
           intr.correct, intr.wrong, rng));
       }
       const typings: CurriculumTyping[] = [
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Ce se întâmplă toamna cu frunzele?", answer: ["Danseza in vant si cad pe poteci"], hint: "Mișcări în text" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Ce hobby avea Ionel?", answer: ["Observa insectele din gradina"], hint: "Activitate după școală" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Ce se întâmplă toamna cu frunzele?", answer: ["Dansează în vânt și cad pe poteci", "Danseaza in vant si cad pe poteci"], hint: "Mișcări în text" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Ce hobby avea Ionel?", answer: ["Observă insectele din grădină", "Observa insectele din gradina"], hint: "Activitate după școală" },
         { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Ce meserie avea omul din poveste?", answer: ["Olar"], hint: "Meșteșug cu lut" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Unde trăia familia de vidre?", answer: ["Pe malul unui rau"], hint: "Locul din poveste" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Din ce era veciul pod?", answer: ["Din lemn"], hint: "Material din text" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Unde trăia familia de vidre?", answer: ["Pe malul unui râu", "Pe malul unui rau"], hint: "Locul din poveste" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Din ce era vechiul pod?", answer: ["Din lemn"], hint: "Material din text" },
         { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Ce carte a primit Elena de ziua ei?", answer: ["O carte despre plante medicinale"], hint: "Cadou special" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Cum a reușit pui vidrei să înoate?", answer: ["Cu perseverenta si ajutorul mamei"], hint: "Factori de reușită" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: De ce pleacă păsările toamna?", answer: ["Se duc spre tarile calde"], hint: "Motiv al plecării" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Cât timp au lucrat meșterii la noul pod?", answer: ["O vara intreaga"], hint: "Durată din text" },
-        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Care parisari rămân toamna (din textul despre toamnă)?", answer: ["Pittigoi"], hint: "Păsări mici și curajoase" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Cum a reușit puiul vidrei să înoate?", answer: ["Cu perseverență și ajutorul mamei", "Cu perseverenta si ajutorul mamei"], hint: "Factori de reușită" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: De ce pleacă păsările toamna?", answer: ["Se duc spre țările calde", "Se duc spre tarile calde"], hint: "Motiv al plecării" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Cât timp au lucrat meșterii la noul pod?", answer: ["O vară întreagă", "O vara intreaga"], hint: "Durată din text" },
+        { type: "typing", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Din text: Care păsări rămân toamna (din textul despre toamnă)?", answer: ["Pițigoi", "Pitigoi"], hint: "Păsări mici și curajoase" },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },
@@ -813,15 +813,15 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
       }
       const typings: CurriculumTyping[] = [
         { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este ideea principală?", answer: ["Mesajul cel mai important din text"], hint: "Tema centrală a textului" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Cum identificăm ideea principală?", answer: ["Raspundem la 'Despre ce este textul?'"], hint: "Întrebare de bază" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este un rezumat?", answer: ["O prezentare scurta a continutului"], hint: "Versiune prescurtată" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Cum identificăm ideea principală?", answer: ["Răspundem la 'Despre ce este textul?'", "Raspundem la 'Despre ce este textul?'"], hint: "Întrebare de bază" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este un rezumat?", answer: ["O prezentare scurtă a conținutului", "O prezentare scurta a continutului"], hint: "Versiune prescurtată" },
         { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Cum scriem un rezumat?", answer: ["Cu cuvintele noastre, pe scurt"], hint: "Metodă și stil" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este expoziția?", answer: ["Prezentarea personajelor si locului"], hint: "Início naratării" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este punctul culminant?", answer: ["Momentul de maxima tensiune"], hint: "Clmax al poveștii" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este expoziția?", answer: ["Prezentarea personajelor și a locului", "Prezentarea personajelor si locului"], hint: "Începutul narațiunii" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este punctul culminant?", answer: ["Momentul de maximă tensiune", "Momentul de maxima tensiune"], hint: "Climaxul poveștii" },
         { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este deznodământul?", answer: ["Rezolvarea conflictului"], hint: "Finalizarea poveștii" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Cum identifici personajul principal?", answer: ["Care apare cel mai des in text"], hint: "Protagonist al naratiei" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Care sunt momente narative?", answer: ["Expozitie, intriga, desfasurare, climax, deznodam"], hint: "Structura unei povești" },
-        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este locul unui text?", answer: ["Spatiul unde se desfasoara actiunea"], hint: "Background-ul poveștii" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Cum identifici personajul principal?", answer: ["Care apare cel mai des în text", "Care apare cel mai des in text"], hint: "Protagonist al narațiunii" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Care sunt momentele narative?", answer: ["Expoziția, intriga, desfășurarea, punctul culminant, deznodământul", "Expozitia, intriga, desfasurarea, punctul culminant, deznodamantul"], hint: "Structura unei povești" },
+        { type: "typing", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este locul unui text?", answer: ["Spațiul unde se desfășoară acțiunea", "Spatiul unde se desfasoara actiunea"], hint: "Cadrul povestirii" },
       ];
       return shuffle([...mcqs, ...typings], rng);
     },

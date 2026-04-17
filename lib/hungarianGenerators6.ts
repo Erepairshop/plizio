@@ -85,11 +85,11 @@ const SUBORDINATE_SENTENCES = [
 ];
 
 const FIGURES_OF_SPEECH = [
-  { figure: "A világja olyan mint egy színpad.", type: "hasonlat" },
+  { figure: "A világ olyan, mint egy színpad.", type: "hasonlat" },
   { figure: "Szívében vihar tombol.", type: "metafora" },
   { figure: "Az idő szalad.", type: "metonímia" },
   { figure: "A szél suttog a fák között.", type: "megszemélyesítés" },
-  { figure: "Ezer szemmel figyel az város.", type: "metonímia" },
+  { figure: "Ezer szemmel figyel a város.", type: "metonímia" },
 ];
 
 const FOREIGN_WORDS = [
@@ -113,7 +113,7 @@ const ARGUMENT_TYPES = [
   { type: "logikus", example: "Ha folyóban úszunk, vízben vagyunk." },
   { type: "tapasztalat alapú", example: "Tudom, hogy magas hőmérséklet égéshez vezet." },
   { type: "szokás alapú", example: "Mindig így csináltuk, tehát jó." },
-  { type: "szomorú cselekedet", example: "Hallottam egy történetet, amely szomorú voltál." },
+  { type: "érzelmi hatású érv", example: "Hallottam egy szomorú történetet, amelyre mindenki emlékszik." },
   { type: "tekintély", example: "Az orvos azt mondta, ezért igaz." },
 ];
 
@@ -125,8 +125,8 @@ const TEXT_COMPREHENSION = [
     wrong: ["Félelmet", "Halált", "Ürességet"],
   },
   {
-    text: "Az öreg ház szeretete már nem értékelték, helyette új, modern épületek nőttek fel körülötte.",
-    question: "Milyen hangulat tárul ki a szövegből?",
+    text: "Az öreg házat már nem értékelték, helyette új, modern épületek nőttek fel körülötte.",
+    question: "Milyen hangulat tükröződik a szövegből?",
     correct: "Nosztalgia és szomorúság",
     wrong: ["Vidámság", "Düh", "Közömbösség"],
   },
@@ -237,7 +237,7 @@ export function generateHasonlatMetafora(seed?: number): CurriculumMCQ[] {
       const correct = figure.type;
       const wrong = FIGURES_OF_SPEECH.filter(f => f.type !== figure.type).map(f => f.type).slice(0, 3);
       q.push(createMCQ("stilisztika", "hasonlat_metafora",
-        `Mi a szóképet típusa? "${figure.figure}"`, correct, wrong));
+        `Mi a szókép típusa? "${figure.figure}"`, correct, wrong));
     } else if (type === 1) {
       const correct = "hasonlat";
       const wrong = ["metafora", "metonímia", "szinkédoché"];
@@ -247,7 +247,7 @@ export function generateHasonlatMetafora(seed?: number): CurriculumMCQ[] {
       const correct = "metafora";
       const wrong = ["hasonlat", "metonímia", "allegória"];
       q.push(createMCQ("stilisztika", "hasonlat_metafora",
-        `Mely szóképben azonosítjuk az egy dolog másik dologgal? "Az élet egy színpad."`, correct, wrong));
+        `Melyik szóképben azonosítjuk az egyik dolgot a másikkal? "Az élet egy színpad."`, correct, wrong));
     }
   }
 
@@ -264,17 +264,17 @@ export function generateMegszemelyesites(seed?: number): CurriculumMCQ[] {
       const correct = "Az idő szalad";
       const wrong = ["Az emberek szaladnak", "A ló szalad", "Az autó szalad"];
       q.push(createMCQ("stilisztika", "megszemelyes",
-        `Melyik mondatban van beszerzélyesítés?`, correct, wrong));
+        `Melyik mondatban van megszemélyesítés?`, correct, wrong));
     } else if (type === 1) {
       const correct = "A szél suttog";
       const wrong = ["A szél fúj", "A szél nagyobb lesz", "A szél hideg"];
       q.push(createMCQ("stilisztika", "megszemelyes",
-        `Mely szó mutat beszerzélyesítésre?`, correct, wrong));
+        `Melyik kifejezés mutat megszemélyesítésre?`, correct, wrong));
     } else {
-      const correct = "Szokás szerint az embereknek tulajdonságot adunk élettelen dolgoknak";
-      const wrong = ["Egy szót többször használunk", "Ugyanaz a szó összes formájában", "Egy szónak ellentétes értelme"];
+      const correct = "Élettelen dolgoknak emberi tulajdonságot vagy cselekvést tulajdonítunk";
+      const wrong = ["Egy szót többször használunk", "Ugyanazt a szót minden alakjában", "Egy szónak ellentétes értelmét adjuk"];
       q.push(createMCQ("stilisztika", "megszemelyes",
-        `Mit értünk beszerzélyesítés alatt?`, correct, wrong));
+        `Mit értünk megszemélyesítés alatt?`, correct, wrong));
     }
   }
 
@@ -325,7 +325,7 @@ export function generateNyelvcsal(seed?: number): CurriculumMCQ[] {
         `Melyik nyelvcsaládhoz tartoznak ezek: ${family.members.join(", ")}?`, correct, wrong));
     } else if (type === 1) {
       const correct = "finnugor";
-      const wrong = ["indoeurópai", "szláv", "szokovi"];
+      const wrong = ["indoeurópai", "szláv", "szemita"];
       q.push(createMCQ("nyelvtort", "nyelvcsal",
         `A magyar nyelv melyik nyelvcsaládhoz tartozik?`, correct, wrong));
     } else {
@@ -359,7 +359,7 @@ export function generateErveles(seed?: number): CurriculumMCQ[] {
         `Melyik érv alapul a logikai gondolkodáson?`, correct, wrong));
     } else {
       const correct = "Olyan érv, amely bizonyítékokkal alátámasztott";
-      const wrong = ["Olyan érv, amely csak véleményen alapul", "Olyan érv, amely soha nem igaz", "Olyan érv, amely furcsa"];
+      const wrong = ["Olyan érv, amely csak véleményen alapul", "Olyan érv, amely soha nem lehet igaz", "Olyan érv, amely érzelmekre hat"];
       q.push(createMCQ("retorika", "erveles_alap",
         `Mit értünk logikus érv alatt?`, correct, wrong));
     }
@@ -403,9 +403,9 @@ export function generateTulajdonnev(seed?: number): CurriculumMCQ[] {
         `Milyen típusú tulajdonnév? "${pn.name}"`, correct, wrong));
     } else if (type === 1) {
       const correct = "Nagybetűvel";
-      const wrong = ["kisbetűvel", "aposztrófnal", "szóközzel"];
+      const wrong = ["kisbetűvel", "aposztróffal", "szóközzel"];
       q.push(createMCQ("helyesiras", "tulajdonnev",
-        `Hogyan írjuk a személyneveket?`, correct, wrong));
+        `Hogyan írjuk a tulajdonneveket?`, correct, wrong));
     } else {
       const acronym = pick(ACRONYMS, rng);
       const correct = acronym.full;
@@ -436,8 +436,8 @@ export function generateEssze(seed?: number): CurriculumMCQ[] {
       q.push(createMCQ("fogalmazas", "essze",
         `Mely típusú esszéban próbálunk meggyőzni?`, correct, wrong));
     } else {
-      const correct = "Egy rövid, személyes gondolatcsere az írónak saját nézeteiről";
-      const wrong = ["Hosszú történet", "Egy emlékezet", "Egy könyv összegzése"];
+      const correct = "Egy rövid, személyes írás, amelyben a szerző saját nézeteit fejti ki";
+      const wrong = ["Hosszú történet", "Egy emlékirat", "Egy könyv összefoglalója"];
       q.push(createMCQ("fogalmazas", "essze",
         `Mit értünk esszé alatt?`, correct, wrong));
     }
@@ -502,7 +502,7 @@ export function generateHasonlatMetafora_typing(seed?: number): CurriculumTyping
     if (type === 0) {
       q.push(createTyping("stilus", "hasonlat_metafora", "Mi a hasonlat?", ["két dolog összevetése 'mint', 'olyan mint' szavakkal"], "Explicit összehasonlítás"));
     } else if (type === 1) {
-      q.push(createTyping("stilus", "hasonlat_metafora", "Mi a metafora?", ["implicit szóképiesítés analógia alapján"], "Egyenes szóképiesítés"));
+      q.push(createTyping("stilus", "hasonlat_metafora", "Mi a metafora?", ["két dolog közvetlen azonosítása, a 'mint' szó nélkül"], "Rejtett összehasonlítás"));
     } else {
       q.push(createTyping("stilus", "hasonlat_metafora", "Mondj egy metaforát!", ["Az élet egy utazás", "Az idő egy folyó"], "Pl. Az élet egy utazás"));
     }
@@ -599,7 +599,7 @@ export function generateEssze_typing(seed?: number): CurriculumTyping[] {
   for (let i = 0; i < 15; i++) {
     const type = i % 3;
     if (type === 0) {
-      q.push(createTyping("fogalmazas", "essze", "Mit jelent az esszé?", ["rövid, személyes gondolatcsere az írónak saját nézeteiről"], "Szubjektív írás"));
+      q.push(createTyping("fogalmazas", "essze", "Mit jelent az esszé?", ["rövid, személyes írás, amelyben a szerző saját nézeteit fejti ki"], "Szubjektív írás"));
     } else if (type === 1) {
       q.push(createTyping("fogalmazas", "essze", "Sorolj fel esszétípusokat!", ["elbeszélő, leíró, érvelő, tudományos"], "Esszé fajtái"));
     } else {
@@ -656,11 +656,11 @@ export function generateSzinonimia(seed?: number): CurriculumMCQ[] {
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
     if (type === 0) {
-      q.push(createMCQ("szofaj", "szinonimia", `Mit jelent a szinon imia?`, "azonos vagy nagyon hasonló jelentésű szavak", ["ellentétes értelműek", "azonos alakúak", "homonímia"]));
+      q.push(createMCQ("szofaj", "szinonimia", `Mit jelent a szinonímia?`, "azonos vagy nagyon hasonló jelentésű szavak", ["ellentétes értelműek", "azonos alakúak", "homonímia"]));
     } else if (type === 1) {
       q.push(createMCQ("szofaj", "szinonimia", `Melyik szó szinonímája a "szép" szónak?`, "gyönyörű", ["csúnya", "nagy", "piros"]));
     } else {
-      q.push(createMCQ("szofaj", "szinonimia", `A szinonimiák között vannak-e árnyalatbeli különbségek?`, "igen, fontosak a stílus és kontextus", ["nem, teljesen azonosak", "nem, szófajuk különbözik", "igen, de nem fontos"]));
+      q.push(createMCQ("szofaj", "szinonimia", `A szinonimák között vannak-e árnyalatbeli különbségek?`, "igen, fontosak a stílus és a kontextus szempontjából", ["nem, teljesen azonosak", "nem, szófajuk különbözik", "igen, de nem fontos"]));
     }
   }
   return q;
@@ -752,11 +752,11 @@ export function generateMellékmondatok(seed?: number): CurriculumMCQ[] {
   for (let i = 0; i < 30; i++) {
     const type = i % 3;
     if (type === 0) {
-      q.push(createMCQ("mondattan", "mellékmondatok", `Mit jelent a mellékmondат?`, "egy fő mondathoz csatolt mondat, amely kiegészíti azt", ["egy önálló mondat", "egy szószerkezet", "egy szópár"]));
+      q.push(createMCQ("mondattan", "mellékmondatok", `Mit jelent a mellékmondat?`, "egy fő mondathoz csatolt mondat, amely kiegészíti azt", ["egy önálló mondat", "egy szószerkezet", "egy szópár"]));
     } else if (type === 1) {
-      q.push(createMCQ("mondattan", "mellékmondatok", `Hány fajtája van a mellékmondat-nak?`, "többféle: határozói, tárgyi, melléknévi, stb.", ["csak egy", "csak kettő", "három"]));
+      q.push(createMCQ("mondattan", "mellékmondatok", `Hány fajtája van a mellékmondat-nak?`, "több féle: alanyi, tárgyi, határozói, jelzői", ["csak egy", "csak kettő", "három"]));
     } else {
-      q.push(createMCQ("mondattan", "mellékmondatok", `A mellékmondatot általában mi vezeti be?`, "alárendelő kötőszó vagy vonatkozó névmás", ["mellérendelő kötőszó", "prepozició", "többes szám"]));
+      q.push(createMCQ("mondattan", "mellékmondatok", `A mellékmondatot általában mi vezeti be?`, "alárendelő kötőszó vagy vonatkozó névmás", ["mellérendelő kötőszó", "prepozíció", "többes szám"]));
     }
   }
   return q;
@@ -818,9 +818,9 @@ export function generateIntonáció(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       q.push(createMCQ("stilus", "intonáció_ritmus", `Mit jelent az intonáció?`, "a beszéd során használt hangmagasság és ritmus", ["szavaink tárgyalása", "helyes kiejtés", "betűk sora"]));
     } else if (type === 1) {
-      q.push(createMCQ("stilus", "intonáció_ritmus", `Mit jelent a ritmus egy szövegben?`, "az ismétlődő szótagok, szavak vagy mondatok mintázata", ["szöveg hossza", "szöveg szérkezete", "szöveg témája"]));
+      q.push(createMCQ("stilus", "intonáció_ritmus", `Mit jelent a ritmus egy szövegben?`, "az ismétlődő szótagok, szavak vagy mondatok mintázata", ["szöveg hossza", "szöveg szerkezete", "szöveg témája"]));
     } else {
-      q.push(createMCQ("stilus", "intonáció_ritmus", `Az intonáció milyen szerepe van a szöveg értelmezésében?`, "nagy, meghatározza a mondat értelmet és hangulatát", ["nincs semmilyen", "csak szépítési", "csak nyelvtani"]));
+      q.push(createMCQ("stilus", "intonáció_ritmus", `Az intonáció milyen szerepe van a szöveg értelmezésében?`, "meghatározza a mondat értelmét és hangulatát", ["nincs semmilyen szerepe", "csak szépítési szerepe van", "csak nyelvtani szerepe van"]));
     }
   }
   return q;
@@ -852,7 +852,7 @@ export function generateKözlekedés(seed?: number): CurriculumMCQ[] {
     } else if (type === 1) {
       q.push(createMCQ("szövegtan", "közlekedés_szövegelemzés", `A kommunikáció mely tényezői fontosak?`, "küldő, üzenet, csatorna, fogadó, kontextus", ["csak az üzenet", "csak a csatorna", "csak a kontextus"]));
     } else {
-      q.push(createMCQ("szövegtan", "közlekedés_szövegelemzése", `A szövegelemzés célja?`, "a szöveg értelme, szerkezete és hatása megértése", ["szavak számlálása", "helyesírás ellenőrzése", "betűkészlet azonosítása"]));
+      q.push(createMCQ("szövegtan", "közlekedés_szövegelemzés", `A szövegelemzés célja?`, "a szöveg értelme, szerkezete és hatása megértése", ["szavak számlálása", "helyesírás ellenőrzése", "betűkészlet azonosítása"]));
     }
   }
   return q;
@@ -865,7 +865,7 @@ export function generateSzopárAntonimia_typing(seed?: number): CurriculumTyping
   for (let i = 0; i < 10; i++) {
     const type = i % 2;
     if (type === 0) {
-      q.push(createTyping("szofaj", "szopár_antonimia", "Írd be az 'nagy' szó antonimaját!", ["kicsi", "pici"], "Ellentétes jelentésű szó"));
+      q.push(createTyping("szofaj", "szopár_antonimia", "Írd be a 'nagy' szó antonimáját!", ["kicsi", "pici"], "Ellentétes jelentésű szó"));
     } else {
       q.push(createTyping("szofaj", "szopár_antonimia", "Mondj egy szópárt, ahol az egyik szó az antoniuma a másiknak!", ["szép - csúnya", "forró - hideg", "világos - sötét"], "Pl. szép - csúnya"));
     }
@@ -880,7 +880,7 @@ export function generateHomonimia_typing(seed?: number): CurriculumTyping[] {
     if (type === 0) {
       q.push(createTyping("szofaj", "homonimia", "Mit jelent a homonímia? Röviden válaszolj!", ["azonos alakú, de eltérő jelentésű szavak"], "Pl. bank = pénzintézet, vízpart"));
     } else {
-      q.push(createTyping("szofaj", "homonimia", "Mondj egy homonimapárt!", ["bank - part", "könyv - könt"], "Pl. bank (pénzintézet) - bank (vízpart)"));
+      q.push(createTyping("szofaj", "homonimia", "Mondj egy homonimapárt!", ["bank - bank (vízpart)", "ár - ár (eszköz)"], "Pl. bank (pénzintézet) - bank (vízpart)"));
     }
   }
   return q;
@@ -889,7 +889,7 @@ export function generateHomonimia_typing(seed?: number): CurriculumTyping[] {
 export function generateSzinonimia_typing(seed?: number): CurriculumTyping[] {
   const q: CurriculumTyping[] = [];
   for (let i = 0; i < 10; i++) {
-    q.push(createTyping("szofaj", "szinonimia", i % 2 === 0 ? "Írd be a 'gyors' szó szinonímáját!" : "Mondj egy szónímapaárt!", ["gyors - sebes", "szépség - schönheit", "futás - rohannás"], "Hasonló jelentésű szavak"));
+    q.push(createTyping("szofaj", "szinonimia", i % 2 === 0 ? "Írd be a 'gyors' szó szinonímáját!" : "Mondj egy szinonimapárt!", ["gyors - sebes", "szép - gyönyörű", "futás - rohanás"], "Hasonló jelentésű szavak"));
   }
   return q;
 }
@@ -927,7 +927,7 @@ export function generateMondatfajták6_typing(seed?: number): CurriculumTyping[]
     if (type === 0) {
       q.push(createTyping("mondattan", "mondatfajtak_6", "Hány fő mondatfajta van? Sorolj fel!", ["közlő, kérdő, felszólító"], "Közlő, kérdő, felszólító"));
     } else {
-      q.push(createTyping("mondattan", "mondatfajtak_6", "Melyik mondatfajta ezt a mondatot: 'Mit csinálsz?'", ["kérdő"], "Kérdőjellel végződik"));
+      q.push(createTyping("mondattan", "mondatfajtak_6", "Melyik mondatfajta ez a mondat: 'Mit csinálsz?'", ["kérdő"], "Kérdőjellel végződik"));
     }
   }
   return q;
@@ -938,7 +938,7 @@ export function generateSzórend_typing(seed?: number): CurriculumTyping[] {
   for (let i = 0; i < 10; i++) {
     const type = i % 2;
     if (type === 0) {
-      q.push(createTyping("mondattan", "szórend", "Milyen a magyar szórmend?", ["viszonylag szabad, de vannak szabályok"], "Nem szigorúan kötött"));
+      q.push(createTyping("mondattan", "szórend", "Milyen a magyar szórend?", ["viszonylag szabad, de vannak szabályok"], "Nem szigorúan kötött"));
     } else {
       q.push(createTyping("mondattan", "szórend", "Mit befolyásol a szórend?", ["az értelem és hangsúly"], "Logikai sorrend"));
     }
@@ -964,7 +964,7 @@ export function generateMellékmondatok_typing(seed?: number): CurriculumTyping[
   for (let i = 0; i < 10; i++) {
     const type = i % 2;
     if (type === 0) {
-      q.push(createTyping("mondattan", "mellékmondatok", "Mit jelent a mellékmondntat?", ["fő mondathoz csatolt mondat"], "Alárendelő viszony"));
+      q.push(createTyping("mondattan", "mellékmondatok", "Mit jelent a mellékmondat?", ["fő mondathoz csatolt mondat"], "Alárendelő viszony"));
     } else {
       q.push(createTyping("mondattan", "mellékmondatok", "Mi vezethet be egy mellékmondat-at?", ["alárendelő kötőszó vagy vonatkozó névmás"], "Hogy, mivel, ha, amely"));
     }
@@ -1003,7 +1003,7 @@ export function generateRetorikai_typing(seed?: number): CurriculumTyping[] {
   for (let i = 0; i < 10; i++) {
     const type = i % 2;
     if (type === 0) {
-      q.push(createTyping("stilus", "retorikai_kérdések", "Mit jelent a retorikai kérdés?", ["kérdés, melyre nem várunk választ"], "Hatás nélkül"));
+      q.push(createTyping("stilus", "retorikai_kérdések", "Mit jelent a retorikai kérdés?", ["kérdés, melyre nem várunk választ, csak hatást akarunk elérni"], "Hatáskeltés"));
     } else {
       q.push(createTyping("stilus", "retorikai_kérdések", "Mondj egy retorikai eszközt!", ["hiperbola", "metafora", "metonímia"], "Pl. hiperbola, metafora"));
     }
@@ -1018,7 +1018,7 @@ export function generateIntonáció_typing(seed?: number): CurriculumTyping[] {
     if (type === 0) {
       q.push(createTyping("stilus", "intonáció_ritmus", "Mi az intonáció?", ["hangmagasság és ritmus a beszédben"], "Proszodia"));
     } else {
-      q.push(createTyping("stilus", "intonáció_ritmus", "Mit jelent a ritmus egy szövegben?", ["ismétlődő szótagok vagy szavak mintázata"], "Metruma"));
+      q.push(createTyping("stilus", "intonáció_ritmus", "Mit jelent a ritmus egy szövegben?", ["ismétlődő szótagok vagy szavak mintázata"], "Metrum"));
     }
   }
   return q;

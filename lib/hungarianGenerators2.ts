@@ -67,8 +67,8 @@ const NOUNS_G2 = [
 const VERBS_G2 = [
   "fut", "szalad", "sétál", "állít", "ül", "fekszik", "áll",
   "eszik", "iszik", "alszik", "játszik", "tanul", "ír", "olvas",
-  "rajzol", "festo", "dal", "ugat", "nyávog", "száll", "repül",
-  "nevet", "sír", "énekél", "tánc", "úszik", "fog", "vet",
+  "rajzol", "fest", "énekel", "ugat", "nyávog", "száll", "repül",
+  "nevet", "sír", "táncol", "ugrik", "úszik", "fog", "vet",
 ];
 
 // Adjectives for szófajok/melleknev
@@ -84,12 +84,12 @@ const ADJECTIVES_G2 = [
 const LY_J_WORDS = [
   { word: "játék", letter: "j" },
   { word: "járda", letter: "j" },
-  { word: "járda", letter: "j" },
+  { word: "jobb", letter: "j" },
   { word: "jól", letter: "j" },
   { word: "jó", letter: "j" },
   { word: "járni", letter: "j" },
   { word: "lyuk", letter: "ly" },
-  { word: "lya", letter: "ly" },
+  { word: "folyó", letter: "ly" },
   { word: "mély", letter: "ly" },
   { word: "gólya", letter: "ly" },
   { word: "királynő", letter: "ly" },
@@ -159,7 +159,7 @@ const VERB_CONJUGATION = [
 
 // Synonyms (szokincs/szinonimak)
 const SYNONYMS = [
-  { word: "szép", synonym: "szép" },
+  { word: "szép", synonym: "csinos" },
   { word: "nagy", synonym: "óriási" },
   { word: "kicsi", synonym: "apró" },
   { word: "gyors", synonym: "sebes" },
@@ -179,7 +179,7 @@ const ANTONYMS_G2 = [
 
 // Occupations (szokincs/foglalkozasok)
 const OCCUPATIONS = [
-  "tanár", "orvos", "bácsi", "nővér", "rendőr", "tűzoltó",
+  "tanár", "orvos", "mérnök", "nővér", "rendőr", "tűzoltó",
   "cukrász", "pék", "fodrász", "autóbuszvezető", "pilóta", "festő",
 ];
 
@@ -202,7 +202,7 @@ const ARTICLES_USAGE = [
   { sentence: "A kutya nagy.", article: "a", context: "definite, consonant" },
   { sentence: "Az alma piros.", article: "az", context: "definite, vowel" },
   { sentence: "Egy ház van.", article: "egy", context: "indefinite" },
-  { sentence: "A iskola szép.", article: "az", context: "definite, vowel sound" },
+  { sentence: "Az iskola szép.", article: "az", context: "definite, vowel sound" },
   { sentence: "Egy ember jött.", article: "egy", context: "indefinite" },
   { sentence: "Az óra van.", article: "az", context: "definite, vowel" },
 ];
@@ -214,7 +214,7 @@ const POSTPOSITIONS = [
   { word: "alatt", meaning: "under", example: "Az asztal alatt egy labda van." },
   { word: "felett", meaning: "above", example: "A madár felett az ég kék." },
   { word: "között", meaning: "between", example: "A két fa között egy patak van." },
-  { word: "előtt", meaning: "in front of", example: "Az iskola előtt játékos vannak." },
+  { word: "előtt", meaning: "in front of", example: "Az iskola előtt játékosok vannak." },
 ];
 
 // Vowel harmony (helyesiras/maganhangzo_harmonia) — mély/magas rag
@@ -236,7 +236,7 @@ const LONG_CONSONANTS = [
   { word: "történet", hasLong: false, pattern: "single" },
   { word: "rossz", hasLong: true, pattern: "ss" },
   { word: "kellemes", hasLong: true, pattern: "ll" },
-  { word: "uttort", hasLong: true, pattern: "tt" },
+  { word: "úttörő", hasLong: true, pattern: "tt" },
 ];
 
 // Nature vocabulary (szokincs/termeszet) — erdő, mező, tó, hegy, patak
@@ -248,7 +248,7 @@ const NATURE_WORDS = [
 // Sports (szokincs/sport) — focizik, úszik, fut, ugrik, labda
 const SPORTS_VOCAB = [
   "focizik", "úszik", "fut", "ugrik", "labda", "rúgás", "kapu", "játék",
-  "verseny", "győzelem", "vesztes", "csapat", "edző", "pályázik",
+  "verseny", "győzelem", "vesztes", "csapat", "edző", "kosárlabda",
 ];
 
 // Word order (mondat/szorend) — ki mit csinál hol mikor
@@ -266,7 +266,7 @@ const STORY_ELEMENTS = [
   { element: "varázslat", description: "természetfeletti erő" },
   { element: "tanulság", description: "a történet üzenete" },
   { element: "kaland", description: "érdekes esemény" },
-  { element: "bizottság", description: "döntéshozó csoport" },
+  { element: "befejezés", description: "a történet vége" },
 ];
 
 // Plural formation (szo/tobbesszam) — -k, -ok/-ek/-ök
@@ -274,7 +274,7 @@ const PLURAL_FORMS = [
   { singular: "kutya", plural: "kutyák", ending: "-k" },
   { singular: "ház", plural: "házak", ending: "-ak" },
   { singular: "szék", plural: "székek", ending: "-ek" },
-  { singular: "böl", plural: "bölök", ending: "-ök" },
+  { singular: "öröm", plural: "örömök", ending: "-ök" },
   { singular: "virág", plural: "virágok", ending: "-ok" },
   { singular: "kenyér", plural: "kenyerek", ending: "-ek" },
 ];
@@ -416,7 +416,7 @@ function genAntonyms(): CurriculumMCQ[] {
   for (let i = 0; i < 30; i++) {
     const ant = pick(ANTONYMS_G2);
     const others = shuffle(ANTONYMS_G2.filter(a => a.word !== ant.word)).map(a => a.opposite).slice(0, 3);
-    qs.push(createMCQ("szokincs", "ellentetek2", `Mi az ellentéke a(z) "${ant.word}"-nak?`, ant.opposite, others));
+    qs.push(createMCQ("szokincs", "ellentetek2", `Mi az ellentéte a(z) "${ant.word}"-nak?`, ant.opposite, others));
   }
   return qs;
 }
@@ -495,7 +495,7 @@ function genPostpositions(): CurriculumMCQ[] {
     const pp = pick(POSTPOSITIONS);
     const others = shuffle(POSTPOSITIONS.filter(p => p.word !== pp.word)).map(p => p.word).slice(0, 3);
     const blankExample = pp.example.replace(pp.word, "___");
-    qs.push(createMCQ("szofajok", "nevuto", `Melyik nevető a helyes? "${blankExample}"`, pp.word, others));
+    qs.push(createMCQ("szofajok", "nevuto", `Melyik névutó a helyes? "${blankExample}"`, pp.word, others));
   }
   return qs;
 }

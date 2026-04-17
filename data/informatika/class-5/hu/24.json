@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Szerzői jogok a neten",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mit jelent a szerzői jog?",
+      "options": [
+        "Csak az íróknak van joga",
+        "A készítő joga, hogy rendelkezzen a saját művével",
+        "Hogy bárki bármit letölthet ingyen",
+        "Egy fajta szoftver"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e más képét sajátként feltüntetni?",
+      "options": [
+        "Igen, ha tetszik",
+        "Nem, ez lopásnak számít",
+        "Csak ha kicsit átalakítjuk",
+        "Csak ha nincs rajta név"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a forrásmegjelölés?",
+      "options": [
+        "A forrás vizének megjelölése",
+        "Annak megadása, honnan származik az információ vagy kép",
+        "A betűméret beállítása",
+        "Egy új weboldal neve"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik tartalom nem áll szerzői jogvédelem alatt?",
+      "options": [
+        "Filmek",
+        "Zene",
+        "Egy közismert matematikai képlet",
+        "Számítógépes játékok"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Creative Commons' licenc?",
+      "options": [
+        "Hogy minden tilos",
+        "Egy rugalmas rendszer, ami megengedi a művek bizonyos felhasználását",
+        "Egy közös rajzprogram",
+        "Egy titkos társaság"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e fizetős filmet ingyenes, illegális oldalon nézni?",
+      "options": [
+        "Igen, mert úgysem tudják meg",
+        "Nem, ez sérti a szerzői jogokat",
+        "Csak hétvégén",
+        "Csak ha nincs pénzünk mozira"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a szoftverkalózkodás?",
+      "options": [
+        "Hajókkal való szoftverszállítás",
+        "Szoftverek illegális másolása és terjesztése",
+        "Programozás a tengeren",
+        "Egy új típusú játék"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Public Domain' (Közkinccsé vált)?",
+      "options": [
+        "Csak a kormány használhatja",
+        "A szerzői jog lejárt, bárki szabadon használhatja",
+        "Egy nyilvános park neve",
+        "Mindenki számára tilos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha egy képet akarsz használni a prezentációdhoz?",
+      "options": [
+        "Csak kimásolod és kész",
+        "Megkeresed a szerzőt és engedélyt kérsz, vagy szabad felhasználású képet keresel",
+        "Kiszínezed",
+        "Letörlöd róla a nevet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a vízjel?",
+      "options": [
+        "Vizes lett a monitor",
+        "Egy átlátszó felirat vagy logó a képen a másolás ellen",
+        "A vízparton készült fotó",
+        "Egy gomb a böngészőben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik oldalról tölthetsz le legálisan zenét?",
+      "options": [
+        "Egy gyanús reklámokkal teli oldalról",
+        "Hivatalos áruházakból vagy streaming szolgáltatóktól (pl. Spotify)",
+        "A szomszéd gépéről titokban",
+        "Sehonnan"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'plágium'?",
+      "options": [
+        "Egy betegség",
+        "Mások munkájának sajátként való feltüntetése",
+        "Egy típusú műanyag",
+        "Egy bolygó neve"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e az internetről letöltött képet pénzért árulni?",
+      "options": [
+        "Igen, ha mi töltöttük le",
+        "Nem, hacsak nincs rá külön engedélyünk a szerzőtől",
+        "Csak ha kinyomtatjuk",
+        "Csak ha senki nem veszi észre"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szimbólum jelöli a szerzői jogot?",
+      "options": [
+        "@",
+        "©",
+        "&",
+        "$"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Fair Use' (Méltányos használat)?",
+      "options": [
+        "Mindent szabad",
+        "Bizonyos esetekben (pl. tanítás, kritika) engedély nélkül is használható egy kis részlet",
+        "Ingyen játékokat jelent",
+        "Egy típusú egér"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történhet, ha megsértjük a szerzői jogokat?",
+      "options": [
+        "Semmi",
+        "Törölhetik a posztunkat, a fiókunkat vagy akár perelhetnek is",
+        "Kikapcsolják az internetet a városban",
+        "Kigyullad a gép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan kereshetünk szabadon felhasználható képeket a Google-ben?",
+      "options": [
+        "Beírjuk, hogy 'ingyen'",
+        "A 'Használati jogok' szűrőt használjuk az Eszközök menüben",
+        "Minden kép szabad",
+        "Nem lehet ilyet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a forrásmegjelölés a házi feladatban?",
+      "options": [
+        "Hogy hosszabb legyen a szöveg",
+        "Hogy megmutassuk, honnan szereztük az információt, és tiszteljük a szerzőt",
+        "Hogy a tanár is elolvashassa az eredetit",
+        "Hogy kitöltsük az üres helyet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kit nevezünk szerzőnek?",
+      "options": [
+        "Aki megveszi a könyvet",
+        "Aki létrehozta az eredeti művet",
+        "Aki kinyomtatja a képet",
+        "Aki nézi a filmet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Meddig tart általában a szerzői jogi védelem?",
+      "options": [
+        "Egy évig",
+        "A szerző halála után még sok évig (pl. 70 évig)",
+        "Amíg le nem törlik az internetről",
+        "Csak egy napig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e szoftvereket módosítani engedély nélkül?",
+      "options": [
+        "Igen, ha értünk hozzá",
+        "Nem, hacsak a licenc nem engedi meg (pl. nyílt forráskód)",
+        "Csak ha nem látják",
+        "Csak iskolában"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'Nyílt forráskód' (Open Source)?",
+      "options": [
+        "Mindenki számára látható és módosítható kód",
+        "Egy titkos kód",
+        "Egy elromlott program",
+        "Egy fizetős szoftver"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "A saját készítésű fotóidra vonatkozik a szerzői jog?",
+      "options": [
+        "Nem, mert nem vagyok profi",
+        "Igen, a készítés pillanatától kezdve téged illet a jog",
+        "Csak ha regisztrálom a neten",
+        "Csak ha sokan lájkolják"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha egy híres zenét akarsz a videód alá tenni?",
+      "options": [
+        "Csak simán alávágod",
+        "Ellenőrzöd a jogokat, vagy jogdíjmentes zenét keresel",
+        "Lassan játszod le",
+        "Kivágod belőle az éneket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a digitális jogkezelés (DRM)?",
+      "options": [
+        "Egy típusú játék",
+        "Technikai védelem a tartalom másolása ellen",
+        "Egy új billentyűzet",
+        "Internetes vásárlás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "A szerzői jog védi az alkotók eredeti munkáit."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig jelöld meg az információ vagy a kép forrását!"
+    },
+    {
+      "type": "typing",
+      "text": "Ne tölts le illegálisan filmeket és játékokat a netről!"
+    },
+    {
+      "type": "typing",
+      "text": "A plágium mások munkájának sajátként való feltüntetése."
+    },
+    {
+      "type": "typing",
+      "text": "Használj szabadon felhasználható képeket a munkáidhoz!"
+    },
+    {
+      "type": "typing",
+      "text": "A Creative Commons licencek segítenek a megosztásban."
+    },
+    {
+      "type": "typing",
+      "text": "Tiszteld mások szellemi tulajdonát az interneten is!"
+    },
+    {
+      "type": "typing",
+      "text": "A © szimbólum a szerzői jogvédelemre utal."
+    },
+    {
+      "type": "typing",
+      "text": "A szoftverkalózkodás törvénybe ütköző tevékenység."
+    },
+    {
+      "type": "typing",
+      "text": "A tudatos internethasználó figyel a jogszabályokra."
+    }
+  ]
+}

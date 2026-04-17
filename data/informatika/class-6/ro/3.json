@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Servicii internet",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Care este un motor de căutare popular?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Word"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă e-mail?",
+      "options": [
+        "Poștă electronică",
+        "Mesaj extra rapid",
+        "Conținut interesant",
+        "Identificator unic"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este spam-ul?",
+      "options": [
+        "Scrisoare importantă",
+        "Mesaj publicitar nesolicitat în masă",
+        "Fișier protejat",
+        "Forum profesional"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă simbolul @ într-o adresă de e-mail?",
+      "options": [
+        "Și",
+        "La",
+        "Plus",
+        "Slash"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un site de socializare?",
+      "options": [
+        "Wikipedia",
+        "Instagram",
+        "Căutare Google",
+        "Notepad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este numele complet al WWW?",
+      "options": [
+        "World Wide Web",
+        "World West Web",
+        "Web World Wide",
+        "Wide Web World"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum numim eticheta pe internet?",
+      "options": [
+        "Viteza internetului",
+        "Reguli de comportament pe internet",
+        "Cumpărături online",
+        "Design site web"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un blog?",
+      "options": [
+        "Un tip de virus",
+        "Jurnal pe internet",
+        "Motor de căutare",
+        "Sistem de operare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un forum?",
+      "options": [
+        "Loc de discuții online unde se dezbat teme",
+        "Un fișier imagine",
+        "Furnizor de e-mail",
+        "Componentă hardware"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un link?",
+      "options": [
+        "Culoarea de fundal a unui site",
+        "Referință care trimite către o altă pagină",
+        "Un buton de pe tastatură",
+        "O parolă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un furnizor de e-mail?",
+      "options": [
+        "Gmail",
+        "Spotify",
+        "Netflix",
+        "Steam"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este istoricul browserului?",
+      "options": [
+        "Planuri de viitor",
+        "Lista site-urilor vizitate anterior",
+        "Imagini salvate",
+        "E-mailuri șterse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă un semn de carte (bookmark)?",
+      "options": [
+        "Un obiect fizic",
+        "Adresă de site salvată pentru acces rapid",
+        "Un tip de virus",
+        "Tapet de desktop"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este streaming-ul?",
+      "options": [
+        "Descărcarea permanentă a fișierelor",
+        "Transfer continuu de date (de ex. la vizionarea unui video)",
+        "Curățarea computerului",
+        "Trimiterea de e-mailuri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un podcast?",
+      "options": [
+        "Conținut audio digital",
+        "Un nou tip de ecran",
+        "Mouse fără fir",
+        "Cablu de rețea"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este e-commerce?",
+      "options": [
+        "Scrierea de scrisori electronice",
+        "Cumpărarea și vânzarea online",
+        "Programare",
+        "Reparații calculatoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește pagina de pornire a unui site?",
+      "options": [
+        "Backpage",
+        "Homepage",
+        "Endpage",
+        "Sidepage"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care NU este un browser?",
+      "options": [
+        "Firefox",
+        "Safari",
+        "Linux",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un captcha?",
+      "options": [
+        "Un joc",
+        "Test pentru identificarea umană",
+        "O extensie de fișier",
+        "Un tip de cablu"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă modul incognito?",
+      "options": [
+        "Internet mai rapid",
+        "Datele de navigare nu sunt salvate pe computer",
+        "Invizibilitate împotriva hackerilor",
+        "Fără conexiune la internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este online banking?",
+      "options": [
+        "Colectarea banilor într-o cutie",
+        "Operațiuni bancare prin internet",
+        "Folosirea banilor de jucărie",
+        "Găsirea unui ATM"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un wiki?",
+      "options": [
+        "Un motor de căutare",
+        "Site web cu informații editabil în comun",
+        "Un tip de virus",
+        "Portal de știri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum se numește hărțuirea pe internet?",
+      "options": [
+        "Cyberbullying",
+        "E-mailing",
+        "Web-browsing",
+        "Skyping"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este o aplicație de mesagerie?",
+      "options": [
+        "Photoshop",
+        "WhatsApp",
+        "Excel",
+        "PowerPoint"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cel mai important lucru de făcut cu un link necunoscut?",
+      "options": [
+        "Click imediat",
+        "Nu da click, fii suspicios",
+        "Trimite-l tuturor prietenilor",
+        "Descarcă conținutul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Internetul oferă nenumărate servicii utile."
+    },
+    {
+      "type": "typing",
+      "text": "Navigăm pe web folosind browsere."
+    },
+    {
+      "type": "typing",
+      "text": "E-mailul este unul dintre cele mai vechi servicii online."
+    },
+    {
+      "type": "typing",
+      "text": "Folosiți parole puternice pentru fiecare cont."
+    },
+    {
+      "type": "typing",
+      "text": "Motoarele de căutare ajută la găsirea informațiilor."
+    },
+    {
+      "type": "typing",
+      "text": "Regulile de netichetă ajută la o comunicare politicoasă."
+    },
+    {
+      "type": "typing",
+      "text": "Nu dați niciodată date personale străinilor."
+    },
+    {
+      "type": "typing",
+      "text": "Nu deschideți mesajele spam, ștergeți-le."
+    },
+    {
+      "type": "typing",
+      "text": "Rețelele sociale ajută la păstrarea legăturii."
+    },
+    {
+      "type": "typing",
+      "text": "Cumpărăturile online sunt convenabile, dar fiți precauți."
+    }
+  ]
+}

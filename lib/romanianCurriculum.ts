@@ -70,7 +70,7 @@ const C1: RomanianTheme[] = [
         id: "litere_speciale_c1",
         name: "Literele \u0103, \u00e2, \u00ee, \u0219, \u021b",
         questions: [
-          { type: "mcq", topic: "alfabet_c1", subtopic: "litere_speciale_c1", question: "Care liter\u0103 are sedil\u0103?", options: ["\u0219", "s", "z", "c"], correct: 0 },
+          { type: "mcq", topic: "alfabet_c1", subtopic: "litere_speciale_c1", question: "Care literă are virgulă sub ea?", options: ["\u0219", "s", "z", "c"], correct: 0 },
         ],
       },
       {
@@ -142,7 +142,7 @@ const C1: RomanianTheme[] = [
         id: "silaba_accent_c1",
         name: "Silaba accentuat\u0103",
         questions: [
-          { type: "mcq", topic: "silabe_c1", subtopic: "silaba_accent_c1", question: "Pe care silab\u0103 cade accentul \u00een 'mam\u0103'?", options: ["ma-", "-m\u0103", "ma-m\u0103", "nici una"], correct: 0 },
+          { type: "mcq", topic: "silabe_c1", subtopic: "silaba_accent_c1", question: "Pe ce silabă cade accentul în cuvântul 'mamă'?", options: ["prima silabă", "a doua silabă", "ambele", "niciuna"], correct: 0 },
         ],
       },
     ],
@@ -377,7 +377,7 @@ const C2: RomanianTheme[] = [
     color: "#FFD700",
     subtopics: [
       { id: "omonime_c2", name: "Omonime", questions: [
-        { type: "mcq", topic: "vocabular_c2", subtopic: "omonime_c2", question: "Cuvântul 'broască' poate însemna:", options: ["animal SAU lacăt", "doar animal", "doar lacăt", "nici una"], correct: 0 },
+        { type: "mcq", topic: "vocabular_c2", subtopic: "omonime_c2", question: "Ce poate însemna cuvântul 'broască'?", options: ["animal sau încuietoare", "doar animal", "doar încuietoare", "niciuna"], correct: 0 },
       ]},
       { id: "cuvinte_compuse_c2", name: "Cuvinte compuse", questions: [
         { type: "mcq", topic: "vocabular_c2", subtopic: "cuvinte_compuse_c2", question: "Care cuvânt este compus?", options: ["untdelemn", "frumos", "casă", "merge"], correct: 0 },
@@ -654,7 +654,7 @@ const C4: RomanianTheme[] = [
         { type: "mcq", topic: "lectura_c4", subtopic: "intelegere_text_c4", question: "Cum identificăm ideea principală a unui text?", options: ["Găsim mesajul cel mai important", "Citim doar primul rând", "Numărăm cuvintele", "Căutăm rimele"], correct: 0 },
       ]},
       { id: "personaje_c4", name: "Personajele textului", questions: [
-        { type: "mcq", topic: "lectura_c4", subtopic: "personaje_c4", question: "Personajul principal este:", options: ["cel care apare cel mai mult în text", "primul menționat", "cel mai bun", "narratorul"], correct: 0 },
+        { type: "mcq", topic: "lectura_c4", subtopic: "personaje_c4", question: "Personajul principal este:", options: ["cel care apare cel mai mult în text", "primul menționat", "cel mai bun", "naratorul"], correct: 0 },
       ]},
       { id: "tema_mesaj_c4", name: "Tema și mesajul textului", questions: [
         { type: "mcq", topic: "lectura_c4", subtopic: "tema_mesaj_c4", question: "Tema unui text reprezintă:", options: ["subiectul principal despre care se vorbește", "titlul textului", "autorul textului", "lungimea textului"], correct: 0 },
@@ -690,7 +690,7 @@ const C5: RomanianTheme[] = [
       { id: "a_i_c5", name: "A/I — distincția clară", questions: [] },
       { id: "semne_diacritice_c5", name: "Semne diacritice corecte", questions: [] },
       { id: "scrierea_compuselor_c5", name: "Scrierea cuvintelor compuse", questions: [] },
-      { id: "cratima_forme_c5", name: "Cratima și forme curte", questions: [] },
+      { id: "cratima_forme_c5", name: "Cratima și forme scurte", questions: [] },
     ],
   },
   {
@@ -1319,7 +1319,7 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   "vocale_c1":              "Vocalele limbii române sunt: a, ă, â, e, i, î, o, u (8 vocale)",
   "consoane_c1":            "Consoanele sunt toate literele care NU sunt vocale: b, c, d, f, g, h, j, k, l, m, n, p, r, s, ș, t, ț, v, x, z",
   "litere_mari_mici_c1":    "Fiecare literă are două forme: MARE (A, B, C) și mică (a, b, c). Litera mare se folosește la început de propoziție și la nume proprii.",
-  "litere_speciale_c1":     "Literele speciale românești sunt: ă (a cu sedilă), â (a cu circumflex), î (i cu circumflex), ș (s cu sedilă), ț (t cu sedilă)",
+  "litere_speciale_c1":     "Literele speciale românești sunt: ă, â, î, ș, ț.",
   "ordine_alfa_c1":         "Alfabetul român: A, Ă, Â, B, C, D, E, F, G, H, I, Î, J, K, L, M, N, O, P, Q, R, S, Ș, T, Ț, U, V, W, X, Y, Z (31 litere)",
   // Sunete
   "vocale_consoane_c1":     "Într-un cuvânt, numără vocalele (a, ă, â, e, i, î, o, u). Câte vocale — atâtea silabe!",
@@ -1333,7 +1333,7 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   // Cuvântul
   "sinonime_c1":            "Sinonimele sunt cuvinte cu ACELAȘI înțeles: mare=uriaș, mic=mărunt, frumos=drăguț, vesel=bucuros",
   "antonime_c1":            "Antonimele sunt cuvinte cu înțeles OPUS: mare↔mic, frumos↔urât, vesel↔trist, cald↔rece, sus↔jos",
-  "diminutive_c1":          "Diminutivele arată ceva mic sau drag: casă→căsuță, floare→floricică, copil→copilăș, carte→cărticică",
+  "diminutive_c1":          "Diminutivele arată ceva mic sau drag: casă→căsuță, floare→floricică, copil→copilaș, carte→cărticică",
   "familii_c1":             "Familia de cuvinte = cuvinte cu aceeași rădăcină: floare → florar, floricică, înflorit, florărie",
   "singular_plural_c1":     "Singular = un singur lucru (o carte). Plural = mai multe (două cărți). Regulă: carte→cărți, copac→copaci, masă→mese",
   // Propoziția
@@ -1342,7 +1342,7 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   "propozitie_tip_c1":      "Enunțiativă: spune ceva (.) — Interogativă: întreabă ceva (?) — Exclamativă: exprimă emoție (!)",
   "ordine_cuvinte_c1":      "Într-o propoziție, cuvintele trebuie puse în ordine logică: CINE + CE FACE + UNDE/CÂND. Exemplu: Ana merge la școală.",
   // Ortografie
-  "m_bp_c1":                "Înainte de 'b' și 'p' scriem întotdeauna 'm' (NU 'n'): câmp, bomboane, cumpăra, umbrela, timpuriu",
+  "m_bp_c1":                "Înainte de 'b' și 'p' scriem întotdeauna 'm' (NU 'n'): câmp, bomboane, cumpără, umbrelă, timpuriu",
   "a_i_c1":                 "La începutul cuvântului scriem 'î' (început, înalt, într-o). În interiorul cuvântului scriem 'â' (câine, mâncare, pâine).",
   "cratima_c1":             "Cratima (-) leagă cuvinte scurte: s-a, n-am, într-o, m-a, l-am, nu-i. Se scrie FĂRĂ spații!",
   "scrierea_corecta_c1":    "Atenție la scrierea corectă: într-o (NU intro), s-a (NU sa), m-a (NU ma), n-am (NU nam).",
@@ -1353,13 +1353,13 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   // ─── Clasa II ───
   // Părți de vorbire
   "substantiv_c2":          "Substantivul denumește ființe, lucruri, fenomene: om, carte, ploaie. Se scrie cu literă MARE dacă e nume propriu (Ana, București).",
-  "verb_c2":                "Verbul arată ce FACE cineva: aleargă, citește, doarme, scrie. Întrebarea: 'Ce face?' → verbuL!",
+  "verb_c2":                "Verbul arată ce FACE cineva: aleargă, citește, doarme, scrie. Întrebarea: 'Ce face?' → verbul!",
   "adjectiv_c2":            "Adjectivul arată CUM ESTE un lucru: frumos, mare, roșu, deștept. Întrebarea: 'Cum este?' → adjectivuL!",
   // Ortografie
   "a_i_reguli_c2":          "Regula â/î: La ÎNCEPUT și SFÂRȘIT de cuvânt scriem 'î' (început, coborî). În INTERIORUL cuvântului scriem 'â' (câine, pâine). Excepție: 'România' și derivatele.",
   "sa_s_a_c2":              "Test: înlocuiește cu 'a sa' sau 'ea s-a'. Dacă merge 'a sa' → scrie 'sa'. Dacă merge 's-a' (se + a) → scrie 's-a'.",
   "ia_i_a_c2":              "Test: 'ia' = verb (el ia) sau pronume. 'i-a' = 'îi' + 'a' (lui i-a dat). Dacă poți spune 'îi' înainte → 'i-a'.",
-  "sau_s_au_c2":            "Test: 'sau' = conjuncție (SAU asta, SAU aia). 's-au' = 'se' + 'au' (ei s-au jucat). Dacă poți spune 'se au' → 's-au'.",
+  "sau_s_au_c2":            "Test: 'sau' = conjuncție (sau asta, sau aia). 's-au' = 'se' + 'au' (ei s-au jucat). Dacă poți spune 'se au' → 's-au'.",
   // Propoziția
   "subiect_predicat_c2":    "Subiectul = CINE face acțiunea (cine? ce?). Predicatul = CE FACE subiectul (ce face? ce este?). Ex: 'Maria citește' → S=Maria, P=citește.",
   "tipuri_prop_c2":         "Enunțiativă (.) = spune ceva. Interogativă (?) = întreabă. Exclamativă (!) = exprimă emoție. Imperativă (!) = dă un ordin.",

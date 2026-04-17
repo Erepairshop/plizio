@@ -96,7 +96,7 @@ const LOANWORD_SOURCES = [
 ];
 
 const RHETORIC_ERRORS = [
-  { name: "Ad hominem (személyeskedés)", description: "Az érvelő helyett az érv támadása" },
+  { name: "Ad hominem (személyeskedés)", description: "Az érv helyett az érvelő személy támadása" },
   { name: "Érvek többszörözése", description: "Ugyanaz az érv többszöri ismétlése" },
   { name: "Hamis dilemma", description: "Csak két lehetőség közül választás lehetősége" },
   { name: "Klasszikus körforgalom", description: "Az érv bizonyítása önmaga bizonyításával" },
@@ -124,7 +124,7 @@ const TEXT_STYLE_ELEMENTS = [
   { element: "Mondatszerkesztés", context: "Rövid, hosszú, összetett mondatok" },
   { element: "Figurák", context: "Metafora, hasonlat, metonímia" },
   { element: "Ritmus és dallamosság", context: "Szavak hangsúlyozása és tempója" },
-  { element: "Hang- és betűalapú játékok", context: "Alliteráció, assznonancia, rím" },
+  { element: "Hang- és betűalapú játékok", context: "Alliteráció, asszsonancia, rím" },
 ];
 
 const DIALECT_REGIONS = [
@@ -142,7 +142,7 @@ const ARGUMENT_TEXTS = [
 ];
 
 const JOURNALISM_TEXTS = [
-  { title: "Közlekedési baleset az M3-ason", type: "Híreszerzés" },
+  { title: "Közlekedési baleset az M3-ason", type: "Hírtudósítás" },
   { title: "Az éghajlat megváltozása és következményei", type: "Analitikus cikk" },
   { title: "Interjú a város polgármesterével", type: "Interjú" },
   { title: "Szerkesztői levél az oktatási reformról", type: "Szerkesztői cikk" },
@@ -167,25 +167,25 @@ const VERBAL_COMMUNICATION = [
 
 const NONVERBAL_COMMUNICATION = [
   { type: "Testbeszéd", example: "Testtartás, mozdulatok" },
-  { type: "Szemkontaktus", example: "Tekintetetés intenzitása" },
+  { type: "Szemkontaktus", example: "Tekintés intenzitása" },
   { type: "Gesztusok", example: "Kézmozgások és fejmozdulatok" },
-  { type: "Arcmimic", example: "Arckifejezés és érzelmek" },
-  { type: "Hanglejtés", example: "Szólamvastagság, ritmus, tempó" },
+  { type: "Arckifejezés", example: "Mimika és érzelmek" },
+  { type: "Hanglejtés", example: "Hangmagasság, ritmus, tempó" },
 ];
 
 const MEDIA_TEXTS = [
   { type: "Reklám", characteristic: "Rövid, ütős, figyelemfelkeltő" },
   { type: "Hír", characteristic: "Objektív, tények alapú" },
-  { type: "Vélemények rovatcikk", characteristic: "Szubjektív, érvelő" },
-  { type: "Szólam", characteristic: "Vitás, érzelmi" },
+  { type: "Véleménycikk", characteristic: "Szubjektív, érvelő" },
+  { type: "Kommentár", characteristic: "Vitás jellegű, érzelmileg telített" },
   { type: "Dokumentum", characteristic: "Hosszú, alapos, adatbázis alapú" },
 ];
 
 const MEDIA_MANIPULATION = [
   { technique: "Szelektív információ", example: "Csak az egyik oldal felmutatása" },
   { technique: "Túlzás", example: "Dolgok nagyítása vagy kis részletek hangsúlyozása" },
-  { technique: "Direkt hazugság", example: "Nyilt hamis információ közlése" },
-  { technique: "Félrevezető szövegezés", example: "Félreértelmező/torzító szövegezés" },
+  { technique: "Direkt hazugság", example: "Nyílt, hamis információ közlése" },
+  { technique: "Félrevezető szövegezés", example: "Torzító vagy félreértelmezést elősegítő szövegezés" },
   { technique: "Érzelmek manipulálása", example: "Félelem vagy düh keltése" },
 ];
 
@@ -340,7 +340,7 @@ export function generateMeggyozesHalado(seed?: number): CurriculumMCQ[] {
       const wrong = PERSUASION_TECHNIQUES.filter((t) => t.technique !== tech.technique)
         .slice(0, 3)
         .map((t) => t.example);
-      q.push(createMCQ("retorika", "meggyozes_haladó", `${tech.technique} - mit működésez be?`, correct, wrong));
+      q.push(createMCQ("retorika", "meggyozes_haladó", `${tech.technique} - mire épít?`, correct, wrong));
     } else {
       // "Szakértői tudás mely kategória?"
       const correct = "Hitelesség";
@@ -561,8 +561,8 @@ export function generateTobbszoroszszeretett(seed?: number): CurriculumMCQ[] {
       );
     } else {
       // "Mi az oka?"
-      const correct = "Alkötmondatok közötti viszony";
-      const wrong = ["Szókincs", "Számszabály", "Tagmondatok száma"];
+      const correct = "A tagmondatok közötti viszony";
+      const wrong = ["Szókincs", "Mondatszámozás", "Tagmondatok száma"];
       q.push(
         createMCQ(
           "mondat",
@@ -719,7 +719,7 @@ export function generateErvelesHalado_typing(seed?: number): MagyarTyping[] {
     } else if (type === 2) {
       q.push(createTyping("retorika", "erveles_haladó", "Melyik hiba amikor az érvet önmaga bizonyításával bizonyítják?", "Klasszikus körforgalom"));
     } else if (type === 3) {
-      q.push(createTyping("retorika", "erveles_haladó", "Mi történik a disszimilációnál?", "Ugyanaz az érv többszöri ismétlése"));
+      q.push(createTyping("retorika", "erveles_haladó", "Melyik érvelési hiba az, amikor ugyanazt az érvet többször ismétlik?", "Érvek többszörözése"));
     } else {
       q.push(createTyping("retorika", "erveles_haladó", "Mit jelent a generalizálás az érvelésben?", "Egy esetre alapozott általános kijelentés"));
     }
@@ -783,7 +783,7 @@ export function generateSzovegstilus_typing(seed?: number): MagyarTyping[] {
     } else if (type === 1) {
       q.push(createTyping("stilisztika", "szovegstilus", "Mi a metonímia?", "Egy dolog neve helyett egy másik dolog nevét használjuk"));
     } else if (type === 2) {
-      q.push(createTyping("stilisztika", "szovegstilus", "Melyik szövegstílus eleme az assznonancia?", "Hang- és betűalapú játékok"));
+      q.push(createTyping("stilisztika", "szovegstilus", "Melyik szövegstílus eleme az asszsonancia?", "Hang- és betűalapú játékok"));
     } else if (type === 3) {
       q.push(createTyping("stilisztika", "szovegstilus", "Mi a hasonlat?", "Két dolog közötti hasonlóság kifejezése 'mint' szóval"));
     } else {
@@ -803,7 +803,7 @@ export function generateTajnyelv_typing(seed?: number): MagyarTyping[] {
     if (type === 0) {
       q.push(createTyping("nyelvv", "tajnyelv", "Hol beszélnek palóc nyelvjárást?", "Észak-Magyarország (Nógrád, Gömör)"));
     } else if (type === 1) {
-      q.push(createTyping("nyelvv", "tajnyelv", "Melyik nyelvjárás az Alföld jellegzetes?", "Alföldi nyelvjárás"));
+      q.push(createTyping("nyelvv", "tajnyelv", "Melyik az Alföldre jellegzetes nyelvjárás?", "Alföldi nyelvjárás"));
     } else if (type === 2) {
       q.push(createTyping("nyelvv", "tajnyelv", "Hol használják a szepesi nyelvjárást?", "Szepesség"));
     } else if (type === 3) {
@@ -873,7 +873,7 @@ export function generateKommunikacioVerbalis_typing(seed?: number): MagyarTyping
     } else if (type === 2) {
       q.push(createTyping("komm", "verbalis", "Miért kell kiegészítő kérdéseket feltenni?", "Hogy jobban megértsük az üzenet tartalmát"));
     } else if (type === 3) {
-      q.push(createTyping("komm", "verbalis", "Mit jelent az összehangoztás a beszélgetésben?", "Mindkét fél egyetértésre jutása"));
+      q.push(createTyping("komm", "verbalis", "Mit jelent az összhang megteremtése a beszélgetésben?", "Mindkét fél egyetértésre jutása"));
     } else {
       q.push(createTyping("komm", "verbalis", "Mi az érthető kommunikáció alapja?", "Pontos és világos szavakkal történő megfogalmazás"));
     }
@@ -897,7 +897,7 @@ export function generateMediaszoveg_typing(seed?: number): MagyarTyping[] {
     } else if (type === 3) {
       q.push(createTyping("media", "mediaszoveg", "Mi az a média manipuláció?", "A valóság szándékos torzítása az információ közlésében"));
     } else {
-      q.push(createTyping("media", "mediaszoveg", "Mit tehetünk a médiamesések ellen?", "Kritikus gondolkodás és több forrás ellenőrzése"));
+      q.push(createTyping("media", "mediaszoveg", "Mit tehetünk a médiamanipuláció ellen?", "Kritikus gondolkodás és több forrás ellenőrzése"));
     }
   }
 
@@ -922,7 +922,7 @@ export function generateSzintaxisSzoban(seed?: number): CurriculumMCQ[] {
       q.push(createMCQ("szintaxis", "szóban", "Mi a szóalak másik neve?", correct, wrong));
     } else {
       const correct = "Szórendben való eltérés";
-      const wrong = ["Fordítás", "Igealakvakzáció", "Szóképzés"];
+      const wrong = ["Fordítás", "Szóalaktan", "Szóképzés"];
       q.push(createMCQ("szintaxis", "szóban", "Mit jelent az inverz szórend?", correct, wrong));
     }
   }
@@ -987,7 +987,7 @@ export function generateIrodalomMu(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       const correct = "A szerző által létrehozott történet vagy ötlet";
       const wrong = ["Csak nyomtatott dokumentum", "Történelmi esemény", "Valódi történet"];
-      q.push(createMCQ("irodalom", "mű", "Mi a irodalmi mű?", correct, wrong));
+      q.push(createMCQ("irodalom", "mű", "Mi az irodalmi mű?", correct, wrong));
     } else if (type === 1) {
       const correct = "Petőfi Sándor";
       const wrong = ["Arany János", "Jókai Mór", "Babits Mihály"];
@@ -1113,8 +1113,8 @@ export function generateSzovegelemzesOsszefugges(seed?: number): CurriculumMCQ[]
       const wrong = ["Szóglossz", "Szóforma", "Szógyök"];
       q.push(createMCQ("szoveg", "osszefu", "Mit használunk a szöveg kapcsolódását jelezni?", correct, wrong));
     } else {
-      const correct = "Haladás az általánostól az éspécifikus felé";
-      const wrong = ["Visszatérés", "Ugrálás", "Összezavarás"];
+      const correct = "Haladás az általánostól a specifikus felé";
+      const wrong = ["Visszatérés az elejére", "Témák közti ugrálás", "Összezavarás"];
       q.push(createMCQ("szoveg", "osszefu", "Mi a logikus szöveg jellegzetessége?", correct, wrong));
     }
   }
@@ -1133,8 +1133,8 @@ export function generateNyelvhasznalasRegiszter(seed?: number): CurriculumMCQ[] 
       const wrong = ["Hangszín", "Ritmus", "Tempó"];
       q.push(createMCQ("nyelvhasznalat", "register", "Mit jelent a regiszter?", correct, wrong));
     } else if (type === 1) {
-      const correct = "Oficializáció";
-      const wrong = ["Tisztázat", "Fordítás", "Másolás"];
+      const correct = "Formális regiszter";
+      const wrong = ["Informális regiszter", "Irodalmi regiszter", "Tudományos regiszter"];
       q.push(createMCQ("nyelvhasznalat", "register", "Melyik regiszter a hivatalos dokumentumokhoz?", correct, wrong));
     } else {
       const correct = "Informális regiszter";
@@ -1154,16 +1154,16 @@ export function generateNyelviKreativitas(seed?: number): CurriculumMCQ[] {
     const type = i % 3;
     if (type === 0) {
       const correct = "Szó vagy kifejezés újszerű és szándékos használata";
-      const wrong = ["Gramatikai hiba", "Szóhiba", "Nyelvtan szabálysértés"];
+      const wrong = ["Grammatikai hiba", "Szóhiba", "Nyelvtani szabálysértés"];
       q.push(createMCQ("nyelvhasznalat", "kreativitas", "Mit jelent a nyelvi kreativitás?", correct, wrong));
     } else if (type === 1) {
-      const correct = "Versformáció";
+      const correct = "Versalkotás";
       const wrong = ["Nyomtatás", "Fordítás", "Másolás"];
-      q.push(createMCQ("nyelvhasznalat", "kreativitas", "Melyik a költői forma?", correct, wrong));
+      q.push(createMCQ("nyelvhasznalat", "kreativitas", "Melyik a költői alkotásforma?", correct, wrong));
     } else {
-      const correct = "Újszótörvény";
-      const wrong = ["Szóképzés", "Szótőzés", "Szófordítás"];
-      q.push(createMCQ("nyelvhasznalat", "kreativitas", "Mit jelent az neologizmus?", correct, wrong));
+      const correct = "Újabb keletű szó vagy kifejezés";
+      const wrong = ["Szóképzés folyamata", "Szótő meghatározása", "Szó fordítása"];
+      q.push(createMCQ("nyelvhasznalat", "kreativitas", "Mit jelent a neologizmus?", correct, wrong));
     }
   }
 
@@ -1178,16 +1178,16 @@ export function generatePragmatikaKontextus(seed?: number): CurriculumMCQ[] {
     const type = i % 3;
     if (type === 0) {
       const correct = "A mondat vagy szó használati helyzete és körülményei";
-      const wrong = ["Nyelvtan szabályok", "Szóképzés", "Szóalakvakzáció"];
+      const wrong = ["Nyelvtani szabályok", "Szóképzés", "Szóalaktan"];
       q.push(createMCQ("pragmatika", "kontextus", "Mit jelent a kontextus a pragmatikában?", correct, wrong));
     } else if (type === 1) {
-      const correct = "Azonos szó különböző helyzetekben más jelentésűek";
-      const wrong = ["Szóalakvakzáció", "Szóképzés", "Szófordítás"];
+      const correct = "Azonos szó különböző helyzetekben mást jelent";
+      const wrong = ["Szóalaktan", "Szóképzés", "Szófordítás"];
       q.push(createMCQ("pragmatika", "kontextus", "Mi a kontextusfüggő jelentés?", correct, wrong));
     } else {
       const correct = "Kulturális és társadalmi helyzet";
       const wrong = ["Szintaxis", "Szóképzés", "Morfológia"];
-      q.push(createMCQ("pragmatika", "kontextus", "Mit jelent szociolinguisztikai kontextus?", correct, wrong));
+      q.push(createMCQ("pragmatika", "kontextus", "Mit jelent a szociolingvisztikai kontextus?", correct, wrong));
     }
   }
 
@@ -1259,7 +1259,7 @@ export function generateSzintaxisSzoban_typing(seed?: number): MagyarTyping[] {
     } else if (type === 3) {
       q.push(createTyping("szintaxis", "szóban", "Melyik a szóosztály?", "Az ugyanolyan szófajú szavak csoportja"));
     } else {
-      q.push(createTyping("szintaxis", "szóban", "Mi a szókincs?", "Az egy személy vagy közösség által ismert szavak összeessége"));
+      q.push(createTyping("szintaxis", "szóban", "Mi a szókincs?", "Egy személy vagy közösség által ismert szavak összessége"));
     }
   }
 
@@ -1297,7 +1297,7 @@ export function generateSzintaxisIgealakok_typing(seed?: number): MagyarTyping[]
     if (type === 0) {
       q.push(createTyping("szintaxis", "igealakok", "Mit jelent a jelen idő?", "Az éppen történő vagy szokásos cselekvés"));
     } else if (type === 1) {
-      q.push(createTyping("szintaxis", "igealakok", "Mi a múlt idő?", "Az már lezárult cselekvés vagy állapot"));
+      q.push(createTyping("szintaxis", "igealakok", "Mi a múlt idő?", "A már lezárult cselekvés vagy állapot"));
     } else if (type === 2) {
       q.push(createTyping("szintaxis", "igealakok", "Mit jelent a feltételes mód?", "A lehetséges vagy feltételesen gondolt cselekvés"));
     } else if (type === 3) {
@@ -1317,7 +1317,7 @@ export function generateIrodalomMu_typing(seed?: number): MagyarTyping[] {
   for (let i = 0; i < 15; i++) {
     const type = i % 5;
     if (type === 0) {
-      q.push(createTyping("irodalom", "mű", "Mit jelent a irodalmi mű?", "A szerző által szándékosan megalkotott szöveg"));
+      q.push(createTyping("irodalom", "mű", "Mit jelent az irodalmi mű?", "A szerző által szándékosan megalkotott szöveg"));
     } else if (type === 1) {
       q.push(createTyping("irodalom", "mű", "Mi az elbeszélés?", "Egy történet prózában történő előadása"));
     } else if (type === 2) {
@@ -1385,13 +1385,13 @@ export function generateRetorakaHatas_typing(seed?: number): MagyarTyping[] {
     if (type === 0) {
       q.push(createTyping("retorika", "hatás", "Mi a retorikai hatás?", "Az olvasó vagy hallgató érzelmeinek vagy gondolatainak befolyásolása"));
     } else if (type === 1) {
-      q.push(createTyping("retorika", "hatás", "Mit jelent a metafora?", "Egy dolog nevét másik dolgora alkalmazzuk hasonlóság alapján"));
+      q.push(createTyping("retorika", "hatás", "Mit jelent a metafora?", "Egy dolog nevét másik dologra alkalmazzuk hasonlóság alapján"));
     } else if (type === 2) {
       q.push(createTyping("retorika", "hatás", "Mi az alliteráció?", "Egymást követő szavak azonos hanggal kezdődnek"));
     } else if (type === 3) {
       q.push(createTyping("retorika", "hatás", "Mit jelent a hiperbola?", "Szándékos és nyomatékos túlzás"));
     } else {
-      q.push(createTyping("retorika", "hatás", "Mi az ironia?", "A szó valódi értelmével ellentétes értelmet fejez ki"));
+      q.push(createTyping("retorika", "hatás", "Mi az irónia?", "A szó valódi értelmével ellentétes értelmet fejez ki"));
     }
   }
 
@@ -1431,7 +1431,7 @@ export function generateSzovegelemzesOsszefugges_typing(seed?: number): MagyarTy
     } else if (type === 1) {
       q.push(createTyping("szoveg", "osszefu", "Mit jelent a szöveglánc?", "Szavak vagy gondolatok egymásutáni kapcsolódása"));
     } else if (type === 2) {
-      q.push(createTyping("szoveg", "osszefu", "Mit használunk szövegkapcsolódásra?", "Kötőszavak, hívatkozások és jelzések"));
+      q.push(createTyping("szoveg", "osszefu", "Mit használunk szövegkapcsolódásra?", "Kötőszavak, hivatkozások és utalószók"));
     } else if (type === 3) {
       q.push(createTyping("szoveg", "osszefu", "Mi az inkoherencia?", "A szöveg logikátlan vagy zavaros szerkesztése"));
     } else {
@@ -1455,7 +1455,7 @@ export function generateNyelvhasznalasRegiszter_typing(seed?: number): MagyarTyp
     } else if (type === 2) {
       q.push(createTyping("nyelvhasznalat", "register", "Mit jelent az informális regiszter?", "A barátok közötti beszélgetés vagy írás szintje"));
     } else if (type === 3) {
-      q.push(createTyping("nyelvhasznalat", "register", "Mi a szoknyaregiszter?", "A közhasználatú és semleges nyelvhasználat szintje"));
+      q.push(createTyping("nyelvhasznalat", "register", "Mi a semleges regiszter?", "A közhasználatú és semleges nyelvhasználat szintje"));
     } else {
       q.push(createTyping("nyelvhasznalat", "register", "Mit jelent a szociolinguisztikai regiszter?", "A társadalmi helyzet szerinti nyelvhasználat"));
     }
@@ -1473,13 +1473,13 @@ export function generateNyelviKreativitas_typing(seed?: number): MagyarTyping[] 
     if (type === 0) {
       q.push(createTyping("nyelvhasznalat", "kreativitas", "Mit jelent a nyelvi kreativitás?", "Szó vagy kifejezés újszerű és szándékos használata"));
     } else if (type === 1) {
-      q.push(createTyping("nyelvhasznalat", "kreativitas", "Mi az neologizmus?", "Egy újonnan keletkezett szó vagy szóhasználat"));
+      q.push(createTyping("nyelvhasznalat", "kreativitas", "Mi a neologizmus?", "Újonnan keletkezett szó vagy kifejezés"));
     } else if (type === 2) {
       q.push(createTyping("nyelvhasznalat", "kreativitas", "Melyik nyelvkreatív technika?", "Szóalkotás, újraértelmezés vagy szóépítkezés"));
     } else if (type === 3) {
       q.push(createTyping("nyelvhasznalat", "kreativitas", "Mit jelent az idiomatikus kifejezés?", "A szószerű értelmezésétől eltérő szöveges egység"));
     } else {
-      q.push(createTyping("nyelvhasznalat", "kreativitas", "Mi az szomaportmanteau szó?", "Két szó összeolvadásából keletkezett szó"));
+      q.push(createTyping("nyelvhasznalat", "kreativitas", "Mi a portmanteau-szó?", "Két szó összeolvadásából keletkezett szó"));
     }
   }
 
@@ -1521,9 +1521,9 @@ export function generatePragmatikaIntenciok_typing(seed?: number): MagyarTyping[
     } else if (type === 2) {
       q.push(createTyping("pragmatika", "intenciok", "Melyik intenciótípus a közvetett kérés?", "Az implicit performatív cselekvés"));
     } else if (type === 3) {
-      q.push(createTyping("pragmatika", "intenciok", "Mit jelent az elodázott intenciót?", "Amit később vagy később értünk meg az üzenetből"));
+      q.push(createTyping("pragmatika", "intenciok", "Mit jelent az elhalasztott intenciót?", "Amit csak fokozatosan értünk meg az üzenetből"));
     } else {
-      q.push(createTyping("pragmatika", "intenciok", "Mi az alárendelő beszédmód?", "Közvetetten vagy burkolt módon kifejezve az intenciót"));
+      q.push(createTyping("pragmatika", "intenciok", "Mi az indirekt beszédmód?", "Az intenció közvetetten vagy burkoltan van kifejezve"));
     }
   }
 
@@ -1539,7 +1539,7 @@ export function generateMultimedialSzoveg_typing(seed?: number): MagyarTyping[] 
     if (type === 0) {
       q.push(createTyping("media", "multimodal", "Mit jelent a multimodális szöveg?", "Szöveg, kép, hang és más elemek együttes használata"));
     } else if (type === 1) {
-      q.push(createTyping("media", "multimodal", "Melyik az multimodális szöveg például?", "Plakát, képregény vagy videó"));
+      q.push(createTyping("media", "multimodal", "Melyik a multimodális szöveg példája?", "Plakát, képregény vagy videó"));
     } else if (type === 2) {
       q.push(createTyping("media", "multimodal", "Mi a vizuális kommunikáció?", "A képek és látható jelek által közvetített információ"));
     } else if (type === 3) {

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Schleifen",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine Schleife in der Programmierung?",
+      "options": [
+        "Ein Fehler",
+        "Eine Wiederholung von Anweisungen",
+        "Ein Hardware-Teil",
+        "Ein Programmname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man eine Schleife, die eine feste Anzahl an Durchläufen hat?",
+      "options": [
+        "Zählschleife (For-Schleife)",
+        "Endlosschleife",
+        "Zufallsschleife",
+        "Einzelschleife"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Schleife prüft eine Bedingung, bevor sie ausgeführt wird?",
+      "options": [
+        "While-Schleife",
+        "For-Schleife",
+        "Wenn-Dann",
+        "Lösch-Schleife"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert in einer Endlosschleife?",
+      "options": [
+        "Das Programm endet sofort",
+        "Die Befehle werden unendlich oft wiederholt",
+        "Der PC wird schneller",
+        "Die Variable wird gelöscht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Wort wird oft für eine Zählschleife genutzt?",
+      "options": [
+        "if",
+        "for",
+        "while",
+        "repeat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wann bricht eine While-Schleife normalerweise ab?",
+      "options": [
+        "Wenn die Bedingung falsch (false) wird",
+        "Wenn die Bedingung wahr (true) wird",
+        "Nach genau 10 Mal",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Schleifenzähler'?",
+      "options": [
+        "Ein Gerät am Stromkasten",
+        "Eine Variable, die die Durchläufe zählt",
+        "Der Name des Programmierers",
+        "Ein Passwort"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Iterieren'?",
+      "options": [
+        "Löschen",
+        "Wiederholen eines Schritts",
+        "Speichern",
+        "Drucken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine Schleife innerhalb einer anderen Schleife verwenden?",
+      "options": [
+        "Ja (verschachtelte Schleifen)",
+        "Nein",
+        "Nur in Java",
+        "Nur zwei Mal"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Befehl bricht eine Schleife vorzeitig ab?",
+      "options": [
+        "stop",
+        "break",
+        "exit",
+        "end"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Befehl springt sofort zum nächsten Schleifendurchlauf?",
+      "options": [
+        "next",
+        "continue",
+        "skip",
+        "jump"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Kopfgesteuerte Schleife?",
+      "options": [
+        "Die Bedingung steht am Anfang",
+        "Die Bedingung steht am Ende",
+        "Die Bedingung ist geheim",
+        "Sie hat keine Bedingung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Fußgesteuerte Schleife?",
+      "options": [
+        "Die Bedingung steht am Ende (wird mindestens einmal ausgeführt)",
+        "Sie wird mit dem Fuß bedient",
+        "Sie ist sehr langsam",
+        "Sie steht am Ende des Programms"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Durchläufe hat `for i from 1 to 5`?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "Unendlich"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn die Abbruchbedingung nie erreicht wird?",
+      "options": [
+        "Endlosschleife",
+        "Das Programm stürzt ab",
+        "Der Computer schaltet sich aus",
+        "Es wird 0 ausgegeben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man Schleifen oft?",
+      "options": [
+        "Um lange Listen abzuarbeiten",
+        "Um den Monitor zu reinigen",
+        "Um Tinte zu sparen",
+        "Um das Internet zu löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man einen einzelnen Durchlauf einer Schleife?",
+      "options": [
+        "Schritt",
+        "Iteration",
+        "Runde",
+        "Weg"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol im Flussdiagramm zeigt eine Schleifenbedingung?",
+      "options": [
+        "Rechteck",
+        "Raute",
+        "Oval",
+        "Kreis"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet `i++` in vielen Sprachen innerhalb einer Schleife?",
+      "options": [
+        "Erhöhe i um 1",
+        "Verringere i um 1",
+        "i ist positiv",
+        "i löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man eine For-Schleife rückwärts zählen lassen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur in Spezialfällen",
+        "Nur mit einem Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Ergebnis einer Schleife, die 3x 'Hallo' ausgibt?",
+      "options": [
+        "HalloHalloHallo",
+        "Hallo 3",
+        "Hallo",
+        "Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Array-Durchlauf'?",
+      "options": [
+        "Eine Schleife, die jedes Element einer Liste anspricht",
+        "Ein schneller PC",
+        "Ein Virus",
+        "Ein Hardwaretest"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Schleife nutzt man, wenn man nicht weiß, wie oft wiederholt werden muss?",
+      "options": [
+        "While-Schleife",
+        "For-Schleife",
+        "Zählschleife",
+        "Konstante"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Schleifenkörper'?",
+      "options": [
+        "Das Gehäuse des PCs",
+        "Der Teil des Codes, der wiederholt wird",
+        "Die Bedingung",
+        "Der Zähler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum nutzt man Schleifen statt Code zu kopieren?",
+      "options": [
+        "Kürzerer Code, leichter zu ändern, weniger Fehler",
+        "Weil Kopieren verboten ist",
+        "Weil der PC sonst zu warm wird",
+        "Weil es bunter aussieht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Schleife"
+    },
+    {
+      "type": "typing",
+      "text": "Iteration"
+    },
+    {
+      "type": "typing",
+      "text": "Zählschleife"
+    },
+    {
+      "type": "typing",
+      "text": "for"
+    },
+    {
+      "type": "typing",
+      "text": "While-Schleife"
+    },
+    {
+      "type": "typing",
+      "text": "Endlosschleife"
+    },
+    {
+      "type": "typing",
+      "text": "break"
+    },
+    {
+      "type": "typing",
+      "text": "continue"
+    },
+    {
+      "type": "typing",
+      "text": "Schleifenzähler"
+    },
+    {
+      "type": "typing",
+      "text": "Schleifenkörper"
+    }
+  ]
+}

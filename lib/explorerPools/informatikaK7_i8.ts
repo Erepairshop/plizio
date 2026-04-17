@@ -82,7 +82,7 @@ export const INFO_K7_I8_LABELS: Record<string, Record<string, string>> = {
   t5_i1: { de: "SELECT name FROM ...", en: "SELECT name FROM ...", hu: "SELECT nev FROM ...", ro: "SELECT nume FROM ..." },
   t5_i2: { de: "UPDATE schueler SET alter=14 WHERE name='Anna'", en: "UPDATE students SET age=14 WHERE name='Anna'", hu: "UPDATE tanulok SET kor=14 WHERE nev='Anna'", ro: "UPDATE elevi SET varsta=14 WHERE nume='Anna'" },
   t5_i3: { de: "SELECT * FROM tabelle", en: "SELECT * FROM table", hu: "SELECT * FROM tabla", ro: "SELECT * FROM tabel" },
-  t5_i4: { de: "UPDATE produkte SET ar=200 WHERE id=5", en: "UPDATE products SET price=200 WHERE id=5", hu: "UPDATE termekek SET ar=200 WHERE id=5", ro: "UPDATE produse SET pret=200 WHERE id=5" },
+  t5_i4: { de: "UPDATE produkte SET preis=200 WHERE id=5", en: "UPDATE products SET price=200 WHERE id=5", hu: "UPDATE termekek SET ar=200 WHERE id=5", ro: "UPDATE produse SET pret=200 WHERE id=5" },
   t5_q: { de: "Welchen Befehl verwendest du, um einen vorhandenen Datensatz zu ändern?", en: "Which command do you use to change an existing record?", hu: "Melyik paranccsal módosítasz egy meglévő rekordot?", ro: "Ce comandă folosești pentru a modifica o înregistrare existentă?" },
   t5_qa: { de: "UPDATE", en: "UPDATE", hu: "UPDATE", ro: "UPDATE" },
   t5_qb: { de: "INSERT INTO", en: "INSERT INTO", hu: "INSERT INTO", ro: "INSERT INTO" },

@@ -96,7 +96,7 @@ export const MODAL_MASTERY_LABELS: Record<string, Record<string, string>> = {
     t7_qb: "I calling you.",
     t7_qc: "I am will call.",
     t7_qd: "I will to call.",
-    t7_w1: "It", t7_w2: "will", t7_w3: "be", t7_w4: "sunny", t7_w5: "day", t7_w6: "tomorrow.",
+    t7_w1: "It", t7_w2: "will", t7_w3: "be", t7_w4: "a", t7_w5: "sunny", t7_w6: "day", t7_w7: "tomorrow.",
 
     t8_title: "Suggestions: SHALL",
     t8_text: "SHALL is for suggestions.",
@@ -460,7 +460,7 @@ export const PASSIVE_POWER_LABELS: Record<string, Record<string, string>> = {
     t11_qd: "It was deciding.",
     t11_f1: "The", t11_f2: "decision", t11_f3: "was made", t11_f4: "yesterday.",
 
-    t12_title: "Agent Storter",
+    t12_title: "Agent Sorter",
     t12_text: "Group by who did the action.",
     t12_inst: "Sort by Human vs. Machine:",
     t12_h1: "Who or what performed the action?",

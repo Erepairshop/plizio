@@ -782,7 +782,7 @@ export const G1_Generators = {
         { clue: "A yellow fruit you peel", answer: "banana" },
         { clue: "A red fruit that grows on trees", answer: "apple" },
         { clue: "A round orange vegetable", answer: "orange" },
-        { clue: "A long yellow vegetable", answer: "banana" },
+        { clue: "A long green vegetable", answer: "zucchini" },
         { clue: "A green vegetable you eat in salads", answer: "lettuce" },
         { clue: "A small red vegetable", answer: "tomato" },
         { clue: "A yellow grain you pop", answer: "corn" },
@@ -930,7 +930,7 @@ export const G1_Generators = {
         { sentence: "Look out", mark: "!" },
         { sentence: "When will you come", mark: "?" },
         { sentence: "I am happy", mark: "." },
-        { sentence: "What amazing", mark: "!" },
+        { sentence: "What an amazing day", mark: "!" },
       ];
       for (let i = 0; i < 25; i++) {
         const data = pick(sentenceData, rng);
@@ -3341,7 +3341,7 @@ export const G3_Generators = {
         { word: "teacher", suffix: "er", base: "teach" },
         { word: "quickly", suffix: "ly", base: "quick" },
         { word: "playful", suffix: "ful", base: "play" },
-        { word: "carefully", suffix: "fully", base: "care" },
+        { word: "carefully", suffix: "ly", base: "careful" },
         { word: "hopeless", suffix: "less", base: "hope" },
         { word: "creative", suffix: "ive", base: "create" },
         { word: "movement", suffix: "ment", base: "move" },
@@ -4369,7 +4369,7 @@ export const G4_Generators = {
         { correct: "friend", wrong: ["frend", "freind", "frand"] },
         { correct: "height", wrong: ["hieght", "heigt", "hight"] },
         { correct: "interest", wrong: ["intrest", "intreset", "interes"] },
-        { correct: "patience", wrong: ["patiance", "patience", "patiense"] },
+        { correct: "patience", wrong: ["patiance", "patiense", "pashence"] },
         { correct: "rhythm", wrong: ["rythm", "rhythem", "rithem"] },
         { correct: "achieve", wrong: ["acheive", "achive", "aceve"] },
       ];
@@ -4492,7 +4492,7 @@ export const G4_Generators = {
         { sentence: "The benevolent old man helped many people.", word: "benevolent", answer: "kind and generous", wrong: ["mean", "selfish", "angry"] },
         { sentence: "His meticulous work showed great attention to detail.", word: "meticulous", answer: "very careful and precise", wrong: ["careless", "sloppy", "rushed"] },
         { sentence: "The ephemeral flowers bloomed for only a few days.", word: "ephemeral", answer: "lasting for a short time", wrong: ["permanent", "eternal", "strong"] },
-        { sentence: "The ambiguous instructions confused everyone.", word: "ambiguous", answer: "unclear or unclear meaning", wrong: ["clear", "obvious", "simple"] },
+        { sentence: "The ambiguous instructions confused everyone.", word: "ambiguous", answer: "unclear or having more than one meaning", wrong: ["clear", "obvious", "simple"] },
         { sentence: "Her obstinate refusal to listen frustrated us.", word: "obstinate", answer: "stubbornly refusing to change", wrong: ["flexible", "easy", "cooperative"] },
       ];
       for (let i = 0; i < 30; i++) {
@@ -5370,7 +5370,7 @@ export const G5_Generators = {
         { sentence: "I was reading when she calls me.", hasShift: true, fix: "I was reading when she called me." },
         { sentence: "She is cooking dinner and watches TV.", hasShift: true, fix: "She is cooking dinner and watching TV." },
         { sentence: "He plays baseball and was also on the soccer team.", hasShift: true, fix: "He played baseball and was also on the soccer team." },
-        { sentence: "They are laughing and then they stop talking.", hasShift: true, fix: "They are laughing and then they stop talking." },
+        { sentence: "They are laughing and then they stop talking.", hasShift: false, fix: "" },
         { sentence: "She had studied hard and passes the exam.", hasShift: true, fix: "She had studied hard and passed the exam." },
         { sentence: "They played outside and came home at six.", hasShift: false, fix: "" },
         { sentence: "She walks to school and eats lunch there.", hasShift: false, fix: "" },
@@ -6426,7 +6426,7 @@ export const G5_Generators = {
       for (let i = 0; i < 25; i++) {
         const data = pick(words, rng);
         if (rng() > 0.5) {
-          q.push(createTyping("spelling_g5", "spelling_strategies_g5", `Spell: hope + ing`, data.word));
+          q.push(createTyping("spelling_g5", "spelling_strategies_g5", `How is "${data.word}" spelled correctly?`, data.word));
         } else {
           q.push(createTyping("spelling_g5", "spelling_strategies_g5", `What spelling rule applies to "${data.word}"?`, data.rule));
         }
@@ -11576,7 +11576,7 @@ export const G8_Generators = {
         { text: "'He's a shark in the business world.'", device: "metaphor" },
         { text: "'That test was a real piece of cake!'", device: "idiom" },
         { text: "'When life gives you lemons, make lemonade.'", device: "metaphor" },
-        { text: "'He threw his anger to the wind.'", device: "personification" },
+        { text: "'He threw his anger to the wind.'", device: "metaphor" },
         { text: "'That exam was a total breeze' vs. 'That exam was a nightmare.'", device: "metaphor" },
       ];
       for (let i = 0; i < 25; i++) {

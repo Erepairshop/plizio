@@ -71,7 +71,7 @@ function createMCQ(
 // ─── DATA LISTS ─────────────────────────────────────────────────────────────
 
 const VOWELS_HARMONY = {
-  high: ["szék", "víz", "tüköp", "füst", "kör"],          // magas hangrendű (e/i/ö/ü)
+  high: ["szék", "víz", "tükör", "füst", "kör"],          // magas hangrendű (e/i/ö/ü)
   neutral: ["alma", "apa", "szoknya", "ablak", "szalvéta"], // vegyes hangrendű
   low: ["osztály", "tanár", "óra", "sál", "utca"],        // mély hangrendű (a/á/o/ó/u/ú)
 };
@@ -81,7 +81,7 @@ const CONSONANTS_ASSIMILATION = [
   { word: "futni", sound: "t", explanation: "zárómássalhangzó" },
   { word: "csoport", sound: "cs", explanation: "affrikáta" },
   { word: "könnyű", sound: "ny", explanation: "palatális mássalhangzó" },
-  { word: "szerem", sound: "sz", explanation: "sibiláns" },
+  { word: "szeret", sound: "sz", explanation: "sibiláns" },
 ];
 
 const ROOT_SUFFIXES = [
@@ -162,20 +162,20 @@ const STYLE_LEVELS = [
 ];
 
 const COMPOUND_WORDS = [
-  { word: "szoknyaöltözet", parts: "szoknya + öltözet", rule: "szóvégi magánhangzót kihagyjuk" },
-  { word: "napszúnyog", parts: "nap + szúnyog", rule: "szóvégi 'p' helyén suttogó 'f'" },
-  { word: "vasút", parts: "vas + út", rule: "szóvégi 's' helyén suttogó 'f'" },
+  { word: "szoknyaöltözet", parts: "szoknya + öltözet", rule: "egybeírjuk a két szót" },
+  { word: "napszúnyog", parts: "nap + szúnyog", rule: "egybeírjuk, kiejtésben hasonulás van" },
+  { word: "vasút", parts: "vas + út", rule: "egybeírjuk a két tagot" },
 ];
 
 const POEM_FORMS = [
   { form: "szonett", lines: 14, characteristic: "szerelem és vágy tárgyai" },
-  { form: "tercett", lines: 3, characteristic: "háromsorosvers" },
-  { form: "strófavers", lines: 4, characteristic: "négysorosvers" },
+  { form: "tercett", lines: 3, characteristic: "háromsorosverset jelent" },
+  { form: "strófavers", lines: 4, characteristic: "négysorosverset jelent" },
   { form: "haiku", lines: 3, characteristic: "5-7-5 szótagszám" },
 ];
 
 const STYLISTIC_DEVICES = [
-  { device: "metafora", example: "Az acél szen szíve", definition: "kifejezés átérzékelésével" },
+  { device: "metafora", example: "Az acél kemény szíve", definition: "egyik dolog helyett másik dolog neve" },
   { device: "metonímia", example: "Egy pohár tea", definition: "a tartalom helyett a tartályt említjük" },
   { device: "hiperbola", example: "Millióannyi csillag", definition: "túlzás" },
   { device: "szimbolika", example: "A rózsa a szépség szimbóluma", definition: "szimbólumhasználat" },
@@ -221,7 +221,7 @@ export function generateHasonulas(seed?: number): CurriculumMCQ[] {
     const type = i % 3;
     if (type === 0) {
       // Melyik szóban van hangtani hasonulás?
-      const words = ["képző", "köznyelvű", "szílárdan", "futás"];
+      const words = ["képző", "köznyelvű", "szilárdan", "futás"];
       const correct = pick(words, rng);
       const wrong = ["szék", "almafa", "terített"];
       q.push(createMCQ("hangtan", "hasonulas",
@@ -296,8 +296,8 @@ export function generateKepzoJelRag(seed?: number): CurriculumMCQ[] {
         `A "${data.suffix}" a szóban képző, jel, vagy rag?`, correct, wrong));
     } else if (type === 1) {
       // Mi a különbség a képző és a jel között?
-      const correct = "a képző szófajt, a jel számot fejez ki";
-      const wrong = ["a képző tővel összeáll, a jel végig", "nincs különbség", "szórendre van hatása"];
+      const correct = "a képző új szót alkot, a jel grammatikai viszonyt fejez ki";
+      const wrong = ["a képző a szó végén áll, a jel elején", "nincs különbség", "szórendre van hatása"];
       q.push(createMCQ("szoelem", "kepzo_jel_rag",
         `Mi a különbség a képző és a jel között?`, correct, wrong));
     } else {
@@ -396,7 +396,7 @@ export function generateAlanyAllitmany(seed?: number): CurriculumMCQ[] {
     } else {
       // Alany-állítmány egyeztetés
       const correct = "az alany és az állítmány számában és személyében egyezzék";
-      const wrong = ["az alany és az állítmány szófajában egyezzék", "mindig azonos szín szótagszám", "nincs szabály"];
+      const wrong = ["az alany és az állítmány szófajában egyezzék", "mindig azonos szótagszám", "nincs szabály"];
       q.push(createMCQ("mondatresz", "alany_allitmany",
         `Mit jelent az alany-állítmány egyeztetés?`, correct, wrong));
     }
@@ -422,6 +422,8 @@ export function generateTargyHatarozo(seed?: number): CurriculumMCQ[] {
       // Mi a tárgy feladata?
       const correct = "az ige tárgyát fejezi ki";
       const wrong = ["az ige helyét fejezi ki", "az ige módját jelzi", "az ige azonosságát adja"];
+      q.push(createMCQ("mondatresz", "targy_hatarozo",
+        `Mi a tárgy feladata a mondatban?`, correct, wrong));
     } else {
       // Mit fejez ki a határozó?
       const correct = "az ige körülményeit: hely, idő, mód, stb.";
@@ -456,7 +458,7 @@ export function generateSzovegtipusok(seed?: number): CurriculumMCQ[] {
     } else {
       // Mi a leíró szöveg jellemzője?
       const correct = "részletesen leírja a tárgyat, személyt vagy helyet";
-      const wrong = ["gyorsan meséli az történetet", "érvelő jellegű", "rövid és tömör"];
+      const wrong = ["gyorsan meséli a történetet", "érvelő jellegű", "rövid és tömör"];
       q.push(createMCQ("szoveg", "szovegtipusok",
         `Mi a leíró szöveg jellemzője?`, correct, wrong));
     }
@@ -506,7 +508,7 @@ export function generateKoznyelv(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       // Melyik stílusszint?
       const correct = data.level;
-      const wrong = data.level === "köznyelvű / informális" ? ["irodalmi", "szleng", "formális"] : ["köznyelvű", "irodalmi", "szleng"];
+      const wrong = data.level === "köznyelvű" ? ["irodalmi / formális", "szleng / dialektus", "tudományos"] : ["köznyelvű", "irodalmi / formális", "szleng / dialektus"];
       q.push(createMCQ("stilus", "koznyelv_irodalmi",
         `Melyik stílusszint? "${data.sentence}"`, correct, wrong));
     } else if (type === 1) {
@@ -518,7 +520,7 @@ export function generateKoznyelv(seed?: number): CurriculumMCQ[] {
     } else {
       // Mi az irodalmi stílus?
       const correct = "formális, gondosan megválasztott szavak";
-      const wrong = ["informális, spontán", "szleng és vulgarizmusa", "tudományos és szigorú"];
+      const wrong = ["informális, spontán", "szleng és vulgáris", "tudományos és szigorú"];
       q.push(createMCQ("stilus", "koznyelv_irodalmi",
         `Mi az irodalmi stílus jellemzője?`, correct, wrong));
     }
@@ -543,7 +545,7 @@ export function generateOsszetételIras(seed?: number): CurriculumMCQ[] {
     } else if (type === 1) {
       // Mi az összetételírási szabály?
       const correct = data.rule;
-      const wrong = ["szótagszám nem változik", "új magánhangzót adunk", "szó végig zárul"];
+      const wrong = ["szótagszám nem változik", "új magánhangzót adunk", "szó ketté válik"];
       q.push(createMCQ("helyesiras", "osszetetel_iras",
         `Az "${data.word}" szó összetétel esetén milyen szabályt követünk?`, correct, wrong));
     } else {
@@ -604,7 +606,7 @@ export function generateStiluseszk(seed?: number): CurriculumMCQ[] {
         `Melyik stilisztikai eszköz az alábbi? "${data.example}"`, correct, wrong));
     } else if (type === 1) {
       // Mi a metafora?
-      const correct = data.device === "metafora" ? data.definition : "kifejezés átérzékelésével";
+      const correct = data.device === "metafora" ? data.definition : "egyik dolog helyett másik dolog neve";
       const wrong = ["szó helyettesítése", "szó ismétlése", "szó elhagyása"];
       q.push(createMCQ("irodalom", "stiluseszk",
         `Mi a metafora?`, correct, wrong));
@@ -629,7 +631,7 @@ export function generateIgeIgeidok(seed?: number): CurriculumMCQ[] {
   const tenses = [
     { tense: "jelen idő", verb: "futok", example: "Ma futok az erdőben." },
     { tense: "múlt idő", verb: "futottam", example: "Tegnap futottam az erdőben." },
-    { tense: "jövő idő", verb: "futni fogok", example: "Holnap futni fogok az erdőben." },
+    { tense: "jövő idő", verb: "futni fogok", example: "Holnap futni fogok az erdőn." },
   ];
 
   for (let i = 0; i < 45; i++) {
@@ -663,7 +665,7 @@ export function generateIgeIgemódok(seed?: number): CurriculumMCQ[] {
   const moods = [
     { mood: "kijelentő mód", example: "Futok az erdőben.", description: "valódi cselekvést jelent" },
     { mood: "felszólító mód", example: "Fuss az erdőben!", description: "parancsot vagy kérést fejez ki" },
-    { mood: "feltételes mód", example: "Ha futhatnék, futna az erdőben.", description: "lehetséges vagy képzelt cselekvést jelent" },
+    { mood: "feltételes mód", example: "Ha futhatnék, futnék az erdőben.", description: "lehetséges vagy képzelt cselekvést jelent" },
   ];
 
   for (let i = 0; i < 45; i++) {
@@ -714,7 +716,7 @@ export function generateIgeneves(seed?: number): CurriculumMCQ[] {
       q.push(createMCQ("igenev", "igeneves_szerkezetek",
         `Melyik mondat tartalmazza az igeneves szerkezetet?`, correct, wrong));
     } else {
-      const correct = "egy cselekvést főnévként vagy melléknevként használunk";
+      const correct = "egy cselekvést főnévként vagy melléknévként használunk";
       const wrong = ["két igét egymás után írunk", "az igét nem konjugáljuk", "a mondat végét jelöljük"];
       q.push(createMCQ("igenev", "igeneves_szerkezetek",
         `Mi az igeneves szerkezet lényege?`, correct, wrong));
@@ -729,7 +731,7 @@ export function generateMondatfajtak(seed?: number): CurriculumMCQ[] {
   const q: CurriculumMCQ[] = [];
 
   const sentenceTypes = [
-    { type: "közlő mondat", example: "Péter futnak az erdőben.", mark: "." },
+    { type: "közlő mondat", example: "Péter fut az erdőben.", mark: "." },
     { type: "kérdő mondat", example: "Péter fut az erdőben?", mark: "?" },
     { type: "felszólító mondat", example: "Péter, fuss az erdőben!", mark: "!" },
   ];
@@ -746,7 +748,7 @@ export function generateMondatfajtak(seed?: number): CurriculumMCQ[] {
       const correct = data.mark;
       const wrong = sentenceTypes.filter(s => s.mark !== data.mark).map(s => s.mark);
       q.push(createMCQ("mondattan", "mondatfajtak",
-        `Milyen írásjelcsalád jelöli a ${data.type}-ot?`, correct, wrong));
+        `Milyen írásjel jelöli a ${data.type}-ot?`, correct, wrong));
     } else {
       const correct = "információt közöl";
       const wrong = ["kérdést tesz fel", "parancsot ad", "óhajtást fejez ki"];
@@ -764,7 +766,7 @@ export function generateIgekoto(seed?: number): CurriculumMCQ[] {
 
   const particles = [
     { particle: "meg-", verb: "futni", result: "megfutni", meaning: "befejezettség" },
-    { particle: "fel-", verb: "futni", result: "futni", meaning: "felfelé irányultság" },
+    { particle: "fel-", verb: "futni", result: "felfutni", meaning: "felfelé irányultság" },
     { particle: "ki-", verb: "futni", result: "kifutni", meaning: "kifelé irányultság" },
     { particle: "be-", verb: "futni", result: "befutni", meaning: "befelé irányultság" },
   ];
@@ -808,7 +810,7 @@ export function generateHelyesIrasVesszo(seed?: number): CurriculumMCQ[] {
     const type = i % 3;
     if (type === 0) {
       const correct = data.correct;
-      const wrong = [data.incorrect, "nincs vessző szükséges", "mindkettő egyenlően helyes"];
+      const wrong = [data.incorrect, "nincs szükség vesszőre", "mindkét változat helyes"];
       q.push(createMCQ("helyesiras", "helyesiras_vesszö",
         `Melyik mondatban van helyesen a vessző?`, correct, wrong));
     } else if (type === 1) {
@@ -818,7 +820,7 @@ export function generateHelyesIrasVesszo(seed?: number): CurriculumMCQ[] {
         `Milyen szabály alapján van vessző? "${data.correct}"`, correct, wrong));
     } else {
       const correct = "a vesszővel elválasztott szavak között szünet van";
-      const wrong = ["a vessző mindig kötelező", "csak végén lehet vessző", "az ejtés alapján van vesszö"];
+      const wrong = ["a vessző mindig kötelező", "csak mondat végén lehet vessző", "az ejtés alapján van vessző"];
       q.push(createMCQ("helyesiras", "helyesiras_vesszö",
         `Mit fejez ki a helyesen használt vessző?`, correct, wrong));
     }
@@ -834,7 +836,7 @@ export function generateSzoszerkezet(seed?: number): CurriculumMCQ[] {
   const structures = [
     { structure: "szép ház", type: "melléknévi szerkezet", main: "ház", modifier: "szép" },
     { structure: "gyors futás", type: "melléknévi szerkezet", main: "futás", modifier: "gyors" },
-    { structure: "az iskola udvar", type: "birtokos szerkezet", main: "udvar", modifier: "iskola" },
+    { structure: "az iskola udvara", type: "birtokos szerkezet", main: "udvara", modifier: "iskola" },
     { structure: "a könnyű feladat", type: "névelős szerkezet", main: "feladat", modifier: "könnyű" },
   ];
 
@@ -853,7 +855,7 @@ export function generateSzoszerkezet(seed?: number): CurriculumMCQ[] {
         `Milyen típusú szószerkezet? "${data.structure}"`, correct, wrong));
     } else {
       const correct = "a fő szó + módosító szó kombinációja";
-      const wrong = ["független szavak sora", "grammatikai alanyantartalom", "képzéselhető szó"];
+      const wrong = ["független szavak sora", "ragozott szóalak", "egyszerű szó"];
       q.push(createMCQ("mondattan", "szoszerkezet",
         `Mi a szószerkezet jellegzetessége?`, correct, wrong));
     }
@@ -867,8 +869,8 @@ export function generateVisszahatiNevmas(seed?: number): CurriculumMCQ[] {
   const q: CurriculumMCQ[] = [];
 
   const reflexiveExamples = [
-    { reflexive: "magam", person: "1. személy egyes", example: "Magam készítetttem az ebédet." },
-    { reflexive: "magad", person: "2. személy egyes", example: "Magad csinálod a házitörvényt?" },
+    { reflexive: "magam", person: "1. személy egyes", example: "Magam készítettem az ebédet." },
+    { reflexive: "magad", person: "2. személy egyes", example: "Magad csináltad a házifeladatot?" },
     { reflexive: "maga", person: "3. személy egyes", example: "Ő maga írta ezt az e-mailt." },
   ];
 
@@ -902,7 +904,7 @@ export function generateHatarozoCelOk(seed?: number): CurriculumMCQ[] {
 
   const adverbials = [
     { adverbial: "azért, hogy...", type: "célhatározó", example: "Tanulok azért, hogy sikeres legyek." },
-    { adverbial: "mert...", type: "okhatározó", example: "Tanulok, mert szeretlek tanulni." },
+    { adverbial: "mert...", type: "okhatározó", example: "Tanulok, mert szeretek tanulni." },
     { adverbial: "mivel...", type: "okhatározó", example: "Tanulok, mivel fontos a tudás." },
   ];
 
@@ -1017,7 +1019,7 @@ export function generateToToldalek_typing(seed?: number): CurriculumTyping[] {
   const pool: CurriculumTyping[] = [
     createTyping("szoelem", "to_toldalek", "Mi a 'házak' szó töve?", ["ház"], "A szó alapalakja (tőalak)"),
     createTyping("szoelem", "to_toldalek", "Mi az 'olvasott' szó toldaléka?", ["-ott"], "Az igét módosító végződés"),
-    createTyping("szoelem", "to_toldalek", "Mi a 'kertek' szó töve?", ["kert"], "A szó alapalakja toldaék nélkül"),
+    createTyping("szoelem", "to_toldalek", "Mi a 'kertek' szó töve?", ["kert"], "A szó alapalakja toldalék nélkül"),
     createTyping("szoelem", "to_toldalek", "Mi a 'futunk' szó toldaléka?", ["-unk"], "Az igei személyrag"),
     createTyping("szoelem", "to_toldalek", "Mi a 'látott' szó töve?", ["lát"], "A szó alapalakja (tőalak)"),
     createTyping("szoelem", "to_toldalek", "Mi a 'gyerekek' szó toldaléka?", ["-ek"], "A többes szám jele"),
@@ -1048,7 +1050,7 @@ export function generateIgenev_typing(seed?: number): CurriculumTyping[] {
     if (type === 0) {
       q.push(createTyping("szofaj", "igenev", "Mi az 'futó' igenév típusa?", ["melléknévi"], "A 'futó' melléknévi igenév"));
     } else if (type === 1) {
-      q.push(createTyping("szofaj", "igenev", "Írd be a főnévi igenevet: fut, futva, futó közül!", ["fut", "futni"], "A főnévi igenév -ni végződésű"));
+      q.push(createTyping("szofaj", "igenev", "Írd be a főnévi igenevet: futni, futva, futó közül!", ["futni"], "A főnévi igenév -ni végződésű"));
     } else {
       q.push(createTyping("szofaj", "igenev", "Mit fejez ki a melléknévi igenév?", ["cselekvés során keletkezett tulajdonságot"], "Pl. futó gyerek = aki fut"));
     }
@@ -1117,7 +1119,7 @@ export function generateHatarozoCelOk_typing(seed?: number): CurriculumTyping[] 
     if (type === 0) {
       q.push(createTyping("hatarozo", "hatarozo_cel_ok", "Mit fejez ki a célhatározó?", ["a cselekvés célját"], "Az azért, hogy szerkezet"));
     } else {
-      q.push(createTyping("hatarozo", "hatarozo_cel_ok", "Mondj egy mondatot okhatározóval!", ["tanulok, mert szeretlek tanulni"], "Pl. tanulok, mert/mivel..."));
+      q.push(createTyping("hatarozo", "hatarozo_cel_ok", "Mondj egy mondatot okhatározóval!", ["tanulok, mert szeretek tanulni"], "Pl. tanulok, mert/mivel..."));
     }
   }
   return q;

@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Szoftverek",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a szoftver?",
+      "options": [
+        "Fizikai alkatrészek",
+        "Utasítások és programok a számítógéphez",
+        "A számítógépház",
+        "Egy tápkábel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik szoftver példa?",
+      "options": [
+        "Monitor",
+        "Windows 10",
+        "Egér",
+        "Billentyűzet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az „Alkalmazás”?",
+      "options": [
+        "Egy hardver rész",
+        "Egy adott feladatra tervezett program",
+        "Egy típusú monitor",
+        "Egy számítógép kábel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen szoftverrel böngészhet az interneten?",
+      "options": [
+        "Word",
+        "Excel",
+        "Webböngésző",
+        "Festék"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik webböngésző ezek közül?",
+      "options": [
+        "Google Chrome",
+        "PowerPoint",
+        "Számológép",
+        "Jegyzettömb"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a szövegszerkesztő célja?",
+      "options": [
+        "Képek rajzolása",
+        "Szöveges dokumentumok létrehozása és szerkesztése",
+        "A matematika számítása",
+        "Böngészés az interneten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik programot használjuk a rajzoláshoz?",
+      "options": [
+        "Word",
+        "Festék",
+        "Chrome",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a \"víruskereső\" szoftver?",
+      "options": [
+        "Vírusokat létrehozó program",
+        "Program, amely megvédi a számítógépet a fenyegetésektől",
+        "Egy játék",
+        "Egy webböngésző"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik az operációs rendszer példa?",
+      "options": [
+        "Microsoft Word",
+        "Windows 11",
+        "Google Keresés",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a program „telepítése”?",
+      "options": [
+        "Törlés",
+        "Beállítása a számítógépen",
+        "Nyomtatás",
+        "Bezárás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a „frissítés” a szoftverben?",
+      "options": [
+        "Öregebbé tétele",
+        "Hibák javítása és új funkciók hozzáadása",
+        "A program törlése",
+        "A számítógép eladása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen szoftvereket használnak a prezentációkhoz?",
+      "options": [
+        "Excel",
+        "PowerPoint",
+        "Jegyzettömb",
+        "Számológép"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „nyílt forráskódú” szoftver?",
+      "options": [
+        "Nem módosítható szoftver",
+        "Szoftver, amelynek kódja szabadon megtekinthető és módosítható",
+        "Szoftver, ami sokba kerül",
+        "Szoftver ajtónyitáshoz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a „vírus” a számítástechnikában?",
+      "options": [
+        "Fizikai betegség",
+        "Káros program",
+        "A billentyűzet típusa",
+        "Egy klassz játék"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szoftvert használják táblázatkezeléshez és matematikához?",
+      "options": [
+        "Word",
+        "Excel",
+        "Festék",
+        "Chrome"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az az \"Ingyenes szoftver\"?",
+      "options": [
+        "Ingyenesen használható szoftver",
+        "Ingyenes hardver",
+        "Fizetett játék",
+        "Szoftver a számítógép lefagyasztásához"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az \"ikon\"?",
+      "options": [
+        "Egy nagy fájl",
+        "Egy programot ábrázoló kis kép",
+        "Egy típusú egér",
+        "Egy billentyűzet billentyű"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a médialejátszó célja?",
+      "options": [
+        "Szöveg beírása",
+        "Zene és videók lejátszása",
+        "Rajzolás",
+        "Számítások elvégzése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik e-mail alkalmazás?",
+      "options": [
+        "Microsoft Outlook",
+        "Festék",
+        "Pasziánsz",
+        "Word"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a programhiba?",
+      "options": [
+        "Egy rovar",
+        "Hiba a kódban",
+        "Új funkció",
+        "Számítógép alkatrész"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „Trial” szoftver?",
+      "options": [
+        "Szoftver, amely örökké ingyenes",
+        "Korlátozott ideig működő szoftver",
+        "Egy típusú monitor",
+        "Elromlott program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találhat általában új alkalmazásokat egy telefonhoz?",
+      "options": [
+        "Egy könyvben",
+        "Egy App Store-ban",
+        "Hűtőszekrényben",
+        "Egy parkban"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a fájl \"kitömörítése\"?",
+      "options": [
+        "Kisebbé tétele",
+        "Fájlok kibontása tömörített mappából",
+        "A fájl törlése",
+        "A fájl kinyomtatása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik szoftver segít a fájlok rendszerezésében?",
+      "options": [
+        "Fájlkezelő",
+        "Festék",
+        "Zenelejátszó",
+        "Webböngésző"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a felhasználói felület (UI)?",
+      "options": [
+        "A hardver alkatrészek",
+        "A felhasználó és a szoftver interakciója",
+        "A számítógép ára",
+        "A kábel típusa"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "A szoftver megmondja a hardvernek, hogy mit tegyen."
+    },
+    {
+      "type": "typing",
+      "text": "Az alkalmazások konkrét feladatok elvégzésében segítenek."
+    },
+    {
+      "type": "typing",
+      "text": "A webböngésző lehetővé teszi a webhelyek felkeresését."
+    },
+    {
+      "type": "typing",
+      "text": "A víruskereső szoftver védi számítógépét."
+    },
+    {
+      "type": "typing",
+      "text": "Frissítse szoftverét a legújabb funkciók eléréséhez."
+    },
+    {
+      "type": "typing",
+      "text": "Az ikonok kis képek a programokhoz."
+    },
+    {
+      "type": "typing",
+      "text": "A szövegszerkesztők a dokumentumok gépelésére szolgálnak."
+    },
+    {
+      "type": "typing",
+      "text": "A táblázatok segítenek a számokkal való munkában."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig megbízható forrásból telepítsen szoftvert."
+    },
+    {
+      "type": "typing",
+      "text": "A felhasználói felület az, amit a képernyőn látunk."
+    }
+  ]
+}

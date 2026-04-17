@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Keresési technikák",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Melyik egy népszerű internetes keresőprogram?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kulcsszó a keresésben?",
+      "options": [
+        "Egy titkos kód",
+        "A legfontosabb szó, amire rákeresünk",
+        "A számítógép neve",
+        "Egy gomb a billentyűzeten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik írásjel segít pontos kifejezésre keresni?",
+      "options": [
+        "Kérdőjel (?)",
+        "Idézőjel (\"\")",
+        "Felkiáltójel (!)",
+        "Kettőspont (:)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan szűkíthetjük a keresést képekre?",
+      "options": [
+        "A monitor kikapcsolásával",
+        "A 'Képek' fülre kattintva a keresőben",
+        "A billentyűzet rázásával",
+        "Nem lehet ilyet csinálni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a keresőben a mínusz (-) jel egy szó előtt?",
+      "options": [
+        "Kivonja a számokat",
+        "Kizárja azokat az oldalakat, amik tartalmazzák a szót",
+        "Kiemeli a szót",
+        "Semmit nem csinál"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a legjobb kulcsszó, ha a magyarországi várakról keresel infót?",
+      "options": [
+        "Várak",
+        "Régi házak",
+        "Magyarországi várak",
+        "Hol vannak a várak?"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'SafeSearch' (Biztonságos keresés)?",
+      "options": [
+        "Gyorsabb internetet",
+        "Kiszűri a nem gyerekeknek való tartalmakat",
+        "Menti a jelszavakat",
+        "Törli az előzményeket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan keressünk rá egy konkrét fájltípusra (pl. PDF)?",
+      "options": [
+        "Beírjuk, hogy 'pdf'",
+        "Használjuk a 'filetype:pdf' parancsot",
+        "Rákattintunk a nyomtatóra",
+        "Letöltünk egy programot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit érdemes tenni, ha túl sok találatot kapunk?",
+      "options": [
+        "Abbahagyjuk a keresést",
+        "Több és pontosabb kulcsszót használunk",
+        "Várunk egy órát",
+        "Újraindítjuk a gépet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik weboldal végződés utal gyakran oktatási intézményre?",
+      "options": [
+        ".com",
+        ".hu",
+        ".edu",
+        ".net"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a könyvjelző a böngészőben?",
+      "options": [
+        "Oldaljelzőnek a valódi könyvbe",
+        "Egy weboldal címének elmentésére",
+        "Hogy ne merüljön le a gép",
+        "A betűméret növelésére"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a böngészési előzmények?",
+      "options": [
+        "A jövőbeli terveket",
+        "A korábban meglátogatott oldalak listáját",
+        "A számítógép gyártási évét",
+        "A letöltött játékokat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nem böngészőprogram?",
+      "options": [
+        "Chrome",
+        "Firefox",
+        "Excel",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan frissíthetsz egy weboldalt?",
+      "options": [
+        "Az F5 billentyűvel",
+        "A gép kikapcsolásával",
+        "A monitor letörlésével",
+        "Az egér kattogtatásával"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az URL?",
+      "options": [
+        "Egy játék",
+        "Egy weboldal címe",
+        "A felhasználónév",
+        "Egy vírus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol található általában a keresősáv?",
+      "options": [
+        "A képernyő alján",
+        "A böngésző tetején vagy közepén",
+        "A billentyűzeten",
+        "A hangszóróban"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a 'I'm Feeling Lucky' (Jó napom van) gomb?",
+      "options": [
+        "Pénzt nyerünk vele",
+        "Azonnal az első találatra visz",
+        "Kikapcsolja a reklámokat",
+        "Megváltoztatja a háttérszínt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha nem találunk semmit az első oldalon?",
+      "options": [
+        "Sírva fakadunk",
+        "Módosítjuk a kulcsszavakat",
+        "Veszünk egy új gépet",
+        "Elmegyünk aludni"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik kereső motor magyar fejlesztés volt régen?",
+      "options": [
+        "Google",
+        "Hevesi",
+        "Vizsla",
+        "Yahoo"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a hangalapú keresés?",
+      "options": [
+        "A gép beszél hozzánk",
+        "Diktáljuk a keresőszavakat",
+        "Zene szól keresés közben",
+        "Csak videókat talál meg"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a teendő, ha egy találat gyanúsnak tűnik?",
+      "options": [
+        "Azonnal rákattintunk",
+        "Nem nyitjuk meg",
+        "Megmutatjuk mindenkinek",
+        "Letöltjük az összes fájlt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik karaktert használjuk helyettesítésre (wildcard) a keresésben?",
+      "options": [
+        "Csillag (*)",
+        "Kukac (@)",
+        "Dollárjel ($)",
+        "Perjel (/)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az inkognitó ablak?",
+      "options": [
+        "Láthatatlanná tesz minket a szobában",
+        "Nem menti a böngészési előzményeket",
+        "Gyorsabb tőle az internet",
+        "Ingyen játékokat ad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a legpontosabb keresés?",
+      "options": [
+        "kutya",
+        "fekete kutya",
+        "fekete német juhászkutya",
+        "állat"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hány találatot érdemes általában megnézni?",
+      "options": [
+        "Csak az elsőt",
+        "Az első 3-5 találatot",
+        "Az összeset (több milliót)",
+        "Egyet sem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "A Google a világ legnépszerűbb internetes keresőmotorja."
+    },
+    {
+      "type": "typing",
+      "text": "A kulcsszavak segítenek megtalálni a keresett információt."
+    },
+    {
+      "type": "typing",
+      "text": "Használj idézőjelet a pontos kifejezések kereséséhez!"
+    },
+    {
+      "type": "typing",
+      "text": "A szűrőkkel szűkíthetjük a találatok listáját."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig ellenőrizd a forrás megbízhatóságát!"
+    },
+    {
+      "type": "typing",
+      "text": "Az interneten hatalmas mennyiségű adat található."
+    },
+    {
+      "type": "typing",
+      "text": "A böngészőben elmentheted a kedvenc oldalaidat."
+    },
+    {
+      "type": "typing",
+      "text": "A keresés finomítása időt takarít meg nekünk."
+    },
+    {
+      "type": "typing",
+      "text": "Ne kattints gyanús hirdetésekre keresés közben!"
+    },
+    {
+      "type": "typing",
+      "text": "A tudatos keresés fontos digitális képesség."
+    }
+  ]
+}

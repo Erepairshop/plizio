@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Elektronikus levelezés",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az e-mail?",
+      "options": [
+        "Egy gyors vonat",
+        "Elektronikus levél",
+        "Egy internetes játék",
+        "Egy programozási nyelv"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik egy helyes e-mail cím formátum?",
+      "options": [
+        "peldanév.gmail.com",
+        "pelda@gmail.hu",
+        "pelda#gmail.com",
+        "www.pelda.com"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Tárgy' (Subject) mező?",
+      "options": [
+        "Az iskolai tantárgyat",
+        "A levél rövid tartalmát vagy címét",
+        "A levél írójának nevét",
+        "A levélküldés idejét"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a 'Melléklet' (Attachment)?",
+      "options": [
+        "Díszítésre",
+        "Fájlok (képek, dokumentumok) küldésére a levéllel együtt",
+        "A levél törlésére",
+        "A jelszó elrejtésére"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'CC' (Másolat)?",
+      "options": [
+        "Csak C betűvel kezdődő neveknek",
+        "Másolatot küld valakinek, akit tájékoztatni akarunk",
+        "Titkos levelezés",
+        "Levél törlése"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'BCC' (Titkos másolat)?",
+      "options": [
+        "Nagyon fontos levél",
+        "Olyan másolat, ahol a többi címzett nem látja, ki kapta még meg",
+        "Csak barátoknak",
+        "Csak gyerekeknek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik gombbal válaszolhatunk a levélre?",
+      "options": [
+        "Delete",
+        "Reply (Válasz)",
+        "Forward (Továbbítás)",
+        "Spam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire jó a 'Forward' (Továbbítás) gomb?",
+      "options": [
+        "Válasz küldésére",
+        "A megkapott levelet elküldjük valaki másnak",
+        "A levél kinyomtatására",
+        "A levél mentésére"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol találjuk a megkapott leveleket?",
+      "options": [
+        "Sent (Elküldött) mappa",
+        "Inbox (Beérkező) mappa",
+        "Trash (Kuka) mappa",
+        "Drafts (Piszkozatok) mappa"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol tárolódnak a még el nem küldött, félkész levelek?",
+      "options": [
+        "Sent",
+        "Drafts (Piszkozatok)",
+        "Spam",
+        "Inbox"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha ismeretlen feladótól kapunk gyanús levelet?",
+      "options": [
+        "Azonnal megnyitjuk",
+        "Letöltjük a mellékletet",
+        "Megnyitás nélkül töröljük vagy jelentsük spamnek",
+        "Válaszolunk neki udvariasan"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az aláírás az e-mail végén?",
+      "options": [
+        "Egy kézzel írt név beszkennelve",
+        "Egy előre beállított szöveg a nevünkkel és adatainkkal",
+        "Egy rajz",
+        "A jelszavunk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e túl nagy fájlokat mellékletben küldeni?",
+      "options": [
+        "Igen, bármekkorát",
+        "Nem, mert megtelhet a fogadó postaládája vagy el sem megy a levél",
+        "Csak ha videó",
+        "Csak éjszaka"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a megszólítás a levél elején?",
+      "options": [
+        "Hogy hosszabb legyen",
+        "Mert ez az alapvető udvariasság része",
+        "Hogy tudjuk, ki küldte",
+        "Nem fontos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik nem ingyenes levelezőrendszer?",
+      "options": [
+        "Gmail",
+        "Outlook",
+        "Minecraft",
+        "Freemail"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az '@' (kukac) jel?",
+      "options": [
+        "Egy állat",
+        "Az e-mail cím kötelező elválasztó eleme",
+        "Egy matematikai művelet",
+        "Egy zárójel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan fejezzük be udvariasan a levelet?",
+      "options": [
+        "Pá!",
+        "Üdvözlettel / Tisztelettel",
+        "Ennyi volt",
+        "Kész"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért érdemes kitölteni a 'Tárgy' mezőt?",
+      "options": [
+        "Hogy szebb legyen a levél",
+        "Segít a címzettnek tudni, miről szól a levél",
+        "Hogy ne legyen üres",
+        "Mert a gép nem engedi elküldeni nélküle"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'Reply All' (Válasz mindenkinek)?",
+      "options": [
+        "Minden ismerősünknek küldünk egy választ",
+        "Mindenkinek válaszolunk, aki benne volt az eredeti levelezésben",
+        "Csak a feladónak válaszolunk",
+        "Töröljük az összes levelet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a spam mappa?",
+      "options": [
+        "Ahova a fontos levelek kerülnek",
+        "Kéretlen reklámlevelek gyűjtőhelye",
+        "A piszkozatok helye",
+        "A küldött levelek helye"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a kereső a levelezőben?",
+      "options": [
+        "Új barátok keresésére",
+        "Régebbi levelek megtalálására kulcsszavak alapján",
+        "Az interneten való keresésre",
+        "Játékok keresésére"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Lehet-e e-mailben vírust kapni?",
+      "options": [
+        "Nem, csak weboldalakon",
+        "Igen, főleg gyanús mellékleteken keresztül",
+        "Csak ha válaszolunk",
+        "Csak ha nincs jelszavunk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan tudsz egyszerre sok embernek levelet küldeni?",
+      "options": [
+        "Egyenként megírod mindenkinek",
+        "Beírod az összes címet a címzettekhez",
+        "Kiabálsz a monitornak",
+        "Nem lehet ilyet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az e-mail fiók?",
+      "options": [
+        "Egy valódi fiók az asztalban",
+        "Egy tárhely az interneten, ahol a leveleinket tárolják",
+        "Egy számítógépes játék",
+        "Egy fajta billentyűzet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a teendő, ha elfelejtetted a jelszavadat?",
+      "options": [
+        "Veszel egy új gépet",
+        "A 'jelszó-emlékeztető' vagy 'elfelejtett jelszó' funkciót használod",
+        "Sírva fakadsz",
+        "Hagyod az egészet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Az e-mail az elektronikus levelezés rövidítése."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig írj rövid, lényegre törő tárgyat a levelednek!"
+    },
+    {
+      "type": "typing",
+      "text": "A mellékletek segítségével fájlokat küldhetünk el."
+    },
+    {
+      "type": "typing",
+      "text": "Az e-mail címben mindig szerepelnie kell a kukac jelnek."
+    },
+    {
+      "type": "typing",
+      "text": "Soha ne nyiss meg gyanús mellékletet ismeretlenektől!"
+    },
+    {
+      "type": "typing",
+      "text": "A hivatalos levelek végén használj udvarias elköszönést!"
+    },
+    {
+      "type": "typing",
+      "text": "A beérkező leveleidet az Inbox mappában találod."
+    },
+    {
+      "type": "typing",
+      "text": "A piszkozatok között mentheted a félkész leveleidet."
+    },
+    {
+      "type": "typing",
+      "text": "Ne küldj túl nagy méretű képeket e-mailben!"
+    },
+    {
+      "type": "typing",
+      "text": "Az elektronikus levelezés gyors és hatékony."
+    }
+  ]
+}

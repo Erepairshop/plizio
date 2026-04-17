@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Grundlagen der Vektorgrafik",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Woraus besteht eine Vektorgrafik primär?",
+      "options": [
+        "Pixeln",
+        "Mathematischen Formeln und geometrischen Formen",
+        "Bitmaps",
+        "Fotos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man in eine Vektorgrafik hineinzoomt?",
+      "options": [
+        "Sie wird unscharf",
+        "Sie bleibt scharf und behält ihre Qualität",
+        "Sie verwandelt sich in bunte Punkte",
+        "Sie verschwindet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Software eignet sich zur Erstellung von Vektorgrafiken?",
+      "options": [
+        "Inkscape",
+        "Windows Paint",
+        "Editor (Notepad)",
+        "Taschenrechner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Dateiendung ist typisch für Vektorgrafiken?",
+      "options": [
+        ".jpg",
+        ".png",
+        ".svg",
+        ".bmp"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Punkte, die die Form eines Vektorobjekts definieren?",
+      "options": [
+        "Pixel",
+        "Bits",
+        "Knoten oder Ankerpunkte",
+        "Zellen"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine Bézierkurve?",
+      "options": [
+        "Eine Farbart",
+        "Eine mathematisch definierte Kurve",
+        "Ein Dateiformat",
+        "Ein Mauszeiger"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was versteht man unter der 'Kontur' (Stroke) eines Objekts?",
+      "options": [
+        "Die Innenfarbe",
+        "Die Außenlinie oder der Rand",
+        "Die Größe",
+        "Die Drehung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Füllung' (Fill) eines Objekts?",
+      "options": [
+        "Die Außenlinie",
+        "Die Farbe oder das Muster im Inneren",
+        "Der Schatten",
+        "Der Name"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches dieser Elemente ist KEINE Basisform in der Vektorgrafik?",
+      "options": [
+        "Rechteck",
+        "Ellipse",
+        "Farbverlauf",
+        "Polygon"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt das 'Gruppieren' von Objekten?",
+      "options": [
+        "Es löscht sie",
+        "Es verbindet mehrere Objekte zu einer Einheit",
+        "Es färbt sie rot",
+        "Es speichert sie im Internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Deckkraft' (Opacity)?",
+      "options": [
+        "Die Farbe des Objekts",
+        "Wie durchsichtig ein Objekt ist",
+        "Die Breite der Linie",
+        "Die Dateigröße"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man die Reihenfolge von überlappenden Objekten ändern?",
+      "options": [
+        "Durch Löschen",
+        "Mit 'In den Vordergrund' oder 'In den Hintergrund'",
+        "Durch Größenänderung",
+        "Durch Umbenennen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Farbverlauf' (Gradient)?",
+      "options": [
+        "Eine einzelne solide Farbe",
+        "Ein fließender Übergang zwischen zwei oder mehr Farben",
+        "Eine Schriftart",
+        "Eine gestrichelte Linie"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Werkzeug wird zum Auswählen und Bewegen von Objekten verwendet?",
+      "options": [
+        "Bleistift",
+        "Auswahlwerkzeug",
+        "Textwerkzeug",
+        "Lupe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Taste hält man meistens gedrückt, um ein Objekt proportional zu skalieren?",
+      "options": [
+        "Strg",
+        "Alt",
+        "Umschalt (Shift)",
+        "Tab"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Hauptvorteil von Vektorgrafiken gegenüber Rastergrafiken bei Logos?",
+      "options": [
+        "Sie sind kleiner bei Fotos",
+        "Sie können ohne Qualitätsverlust beliebig vergrößert werden",
+        "Sie haben mehr Farben",
+        "Sie lassen sich leichter drucken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Duplizieren'?",
+      "options": [
+        "Ein Objekt löschen",
+        "Eine exakte Kopie eines Objekts erstellen",
+        "Zwei Dateien zusammenfügen",
+        "Die Sprache ändern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht die Funktion 'Ausrichten' (Align)?",
+      "options": [
+        "Die Farbe ändern",
+        "Objekte präzise zueinander positionieren",
+        "Leerräume löschen",
+        "Den Bildschirm drehen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Pfad' (Path) in der Vektorgrafik?",
+      "options": [
+        "Ein Ordner auf dem PC",
+        "Eine durch Knoten definierte Linie oder Kurve",
+        "Die Geschwindigkeit der Maus",
+        "Ein Monitortyp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Programm ist ein Rastergrafikprogramm (KEIN Vektorprogramm)?",
+      "options": [
+        "Adobe Illustrator",
+        "CorelDRAW",
+        "Adobe Photoshop",
+        "Inkscape"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Exportieren' in einem Vektorprogramm?",
+      "options": [
+        "Die Originaldatei speichern",
+        "Das Bild in einem anderen Format wie PNG oder JPG speichern",
+        "Das Bild drucken",
+        "Das Programm schließen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür werden 'Ebenen' (Layers) verwendet?",
+      "options": [
+        "Um den Desktop zu verstecken",
+        "Um verschiedene Teile eines Bildes auf getrennten Etagen zu organisieren",
+        "Um die Datei zu vergrößern",
+        "Um die Helligkeit zu ändern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Maske' (Clipping Path)?",
+      "options": [
+        "Ein Teil des Bildes löschen",
+        "Eine Form nutzen, um Teile eines anderen Objekts zu verdecken",
+        "Text kopieren",
+        "Das Papier festklammern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Werkzeug erlaubt freihändiges Zeichnen von Pfaden?",
+      "options": [
+        "Rechteck-Werkzeug",
+        "Bleistift- oder Zeichenstift-Werkzeug",
+        "Radiergummi",
+        "Verlaufswerkzeug"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist die Dateigröße einer Vektorgrafik bei einfachen Zeichnungen meist klein?",
+      "options": [
+        "Weil sie nur mathematische Anweisungen speichert",
+        "Weil sie keine Farben hat",
+        "Weil sie komprimiert ist",
+        "Weil sie schwarz-weiß ist"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "svg"
+    },
+    {
+      "type": "typing",
+      "text": "Knoten"
+    },
+    {
+      "type": "typing",
+      "text": "Füllung"
+    },
+    {
+      "type": "typing",
+      "text": "Kontur"
+    },
+    {
+      "type": "typing",
+      "text": "Inkscape"
+    },
+    {
+      "type": "typing",
+      "text": "Rastergrafik"
+    },
+    {
+      "type": "typing",
+      "text": "Bezier"
+    },
+    {
+      "type": "typing",
+      "text": "Deckkraft"
+    },
+    {
+      "type": "typing",
+      "text": "Gruppierung"
+    },
+    {
+      "type": "typing",
+      "text": "Farbverlauf"
+    }
+  ]
+}

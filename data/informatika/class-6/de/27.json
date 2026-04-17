@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Cyberbullying-Prävention",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist 'Cyberbullying'?",
+      "options": [
+        "Spielen im Internet",
+        "Beleidigen, Bedrohen oder Belästigen mit Hilfe digitaler Medien",
+        "Schnelles Tippen",
+        "Ein neues Handy"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet Cyberbullying oft statt?",
+      "options": [
+        "In Sozialen Netzwerken",
+        "In Messenger-Gruppen",
+        "In Online-Spielen",
+        "In allen genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Merkmal von Cyberbullying?",
+      "options": [
+        "Es findet nur einmal statt",
+        "Es ist oft dauerhaft und erreicht ein großes Publikum",
+        "Es ist immer lustig",
+        "Man sieht den Täter immer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sollte man als Erstes tun, wenn man gemobbt wird?",
+      "options": [
+        "Zurückbeleidigen",
+        "Sich jemandem anvertrauen (Eltern, Lehrer)",
+        "Das Handy wegwerfen",
+        "Gar nichts tun"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Beweise (Screenshots) sichern?",
+      "options": [
+        "Ja, sehr wichtig für spätere Hilfe",
+        "Nein, sofort löschen",
+        "Nur wenn sie bunt sind",
+        "Nur wenn man Zeit hat"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann man gegen Cybermobber in Apps tun?",
+      "options": [
+        "Blockieren und Melden",
+        "Ihnen Geld schicken",
+        "Das Profil löschen",
+        "Ihnen freundlich schreiben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Cyber-Stalking'?",
+      "options": [
+        "Schnelles Gehen",
+        "Dauerhaftes Verfolgen und Belästigen einer Person im Netz",
+        "Bilder malen",
+        "Programmieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man peinliche Fotos von anderen ohne Erlaubnis verbreiten?",
+      "options": [
+        "Ja, ist lustig",
+        "Nein, das ist strafbar und Mobbing",
+        "Nur in privaten Gruppen",
+        "Nur am Wochenende"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Cybermobbing oft schlimmer als Mobbing auf dem Schulhof?",
+      "options": [
+        "Weil es 24 Stunden am Tag stattfinden kann",
+        "Weil es mehr Spaß macht",
+        "Weil der PC teuer ist",
+        "Gibt keinen Unterschied"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man es, wenn man jemanden absichtlich aus Gruppen ausschließt?",
+      "options": [
+        "Exklusion (Ausschluss)",
+        "Inklusion",
+        "Fusion",
+        "Löschung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Trolle' im Internet?",
+      "options": [
+        "Fabelwesen",
+        "Menschen, die Diskussionen absichtlich stören und provozieren",
+        "Schnelle Computer",
+        "Spezielles Zubehör"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Hate Speech'?",
+      "options": [
+        "Hassrede gegen Gruppen von Menschen",
+        "Ein lautes Lied",
+        "Ein Tippfehler",
+        "Eine neue App"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man Passwörter an Freunde weitergeben?",
+      "options": [
+        "Ja, wir teilen alles",
+        "Nein, Passwörter sind privat (Schutz vor Missbrauch)",
+        "Nur dem besten Freund",
+        "Nur per WhatsApp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Flaming'?",
+      "options": [
+        "Feuer machen",
+        "Aggressives Beleidigen in Online-Diskussionen",
+        "Bilder bearbeiten",
+        "PC kühlen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann Cyberbullying rechtliche Folgen haben?",
+      "options": [
+        "Ja, bis hin zu Anzeigen bei der Polizei",
+        "Nein, ist nur Internet",
+        "Nur für Erwachsene",
+        "Nur wenn man Geld stiehlt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein 'Zuschauer' (Bystander) idealerweise?",
+      "options": [
+        "Lachen und weiterleiten",
+        "Dem Opfer helfen und das Mobbing nicht unterstützen",
+        "Ignorieren",
+        "Mitmachen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Nummer gegen Kummer'?",
+      "options": [
+        "Eine Telefonnummer für Hilfe bei Problemen",
+        "Eine Bestellhotline",
+        "Die Polizei",
+        "Eine Quizshow"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Empathie' im Netz?",
+      "options": [
+        "Schnelles Internet",
+        "Sich in die Gefühle anderer hineinversetzen",
+        "Viel Text schreiben",
+        "Bilder löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Fake-Profil'?",
+      "options": [
+        "Ein Profil mit falschem Namen/Bild zur Täuschung",
+        "Ein gelöschtes Profil",
+        "Ein sehr schönes Profil",
+        "Ein offizielles Profil"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Sollte man private Daten (Adresse, Tel.) öffentlich posten?",
+      "options": [
+        "Ja, damit man gefunden wird",
+        "Nein, Schutz der Privatsphäre",
+        "Nur bei Facebook",
+        "Nur in Kommentaren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Doxing'?",
+      "options": [
+        "Hunde füttern",
+        "Veröffentlichen privater Daten ohne Erlaubnis zur Belästigung",
+        "Daten sichern",
+        "Bilder scannen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Happy Slapping'?",
+      "options": [
+        "Ein Spiel",
+        "Filmen von körperlichen Angriffen zur Veröffentlichung",
+        "Klatschen",
+        "Lustige Videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man sich schützen?",
+      "options": [
+        "Privatsphäre-Einstellungen nutzen",
+        "Wenig Persönliches teilen",
+        "Sichere Passwörter verwenden",
+        "Alle genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Zivilcourage' online?",
+      "options": [
+        "Mutig gegen Unrecht im Netz eintreten",
+        "Sich verstecken",
+        "Laut schreien",
+        "Viel Geld spenden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Warum mobben manche Menschen?",
+      "options": [
+        "Aus Langeweile, Unsicherheit oder Machtgefühl",
+        "Weil sie zu viel Obst essen",
+        "Weil der PC kaputt ist",
+        "Weil sie keine Schule haben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Cyberbullying"
+    },
+    {
+      "type": "typing",
+      "text": "Screenshot"
+    },
+    {
+      "type": "typing",
+      "text": "blockieren"
+    },
+    {
+      "type": "typing",
+      "text": "Flaming"
+    },
+    {
+      "type": "typing",
+      "text": "Doxing"
+    },
+    {
+      "type": "typing",
+      "text": "Fake-Profil"
+    },
+    {
+      "type": "typing",
+      "text": "Troll"
+    },
+    {
+      "type": "typing",
+      "text": "Empathie"
+    },
+    {
+      "type": "typing",
+      "text": "Zivilcourage"
+    },
+    {
+      "type": "typing",
+      "text": "Hate Speech"
+    }
+  ]
+}

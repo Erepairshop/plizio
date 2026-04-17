@@ -6978,6 +6978,10 @@ export function generateTopicQuestions(
           }
         }
 
+        // Some UI topics are "interactive" placeholders (e.g. 🎮) and intentionally have no generators.
+        // Never crash on those; just return an empty list.
+        if (!generators || generators.length === 0) return [];
+
         const pool: MathQuestion[] = [];
         const seen = new Set<string>();
         let attempts = 0;

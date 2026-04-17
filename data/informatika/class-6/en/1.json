@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Concept and Measurement of Information",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Which is the smallest unit of data?",
+      "options": [
+        "Byte",
+        "Bit",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many bits are in 1 byte?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which is not a unit of measurement for information?",
+      "options": [
+        "Hertz",
+        "Byte",
+        "Gigabyte",
+        "Terabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does information mean?",
+      "options": [
+        "All data",
+        "News providing new knowledge",
+        "Only numbers",
+        "Only text"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is data?",
+      "options": [
+        "Interpreted information",
+        "Recorded fact",
+        "Only image",
+        "Only sound"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many bytes are in 1 kilobyte (KB) in computing?",
+      "options": [
+        "1000",
+        "1024",
+        "1048",
+        "100"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which unit is larger than a Gigabyte?",
+      "options": [
+        "Megabyte",
+        "Terabyte",
+        "Kilobyte",
+        "Byte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the value of a bit?",
+      "options": [
+        "Only 1",
+        "Only 0",
+        "0 or 1",
+        "Any number"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which device stores information?",
+      "options": [
+        "Mouse",
+        "Monitor",
+        "Flash drive",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we call the processing of data?",
+      "options": [
+        "Informatics",
+        "Data processing",
+        "Programming",
+        "Installation"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the smallest storage capacity?",
+      "options": [
+        "1 MB",
+        "1 GB",
+        "100 KB",
+        "1 TB"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What signals does a computer work with?",
+      "options": [
+        "Decimal system",
+        "Binary system",
+        "Letters",
+        "Images"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the term binary mean?",
+      "options": [
+        "Three-part",
+        "Double, two-state",
+        "Multifaceted",
+        "Simple"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many megabytes (MB) approximately make up 1 gigabyte (GB)?",
+      "options": [
+        "100",
+        "500",
+        "1000",
+        "10000"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of encoding?",
+      "options": [
+        "Encrypting data",
+        "Converting data to a processable format",
+        "Deleting data",
+        "Copying data"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which unit is denoted by TB?",
+      "options": [
+        "Fourteen Bytes",
+        "Terabyte",
+        "Ten thousand Bytes",
+        "Telebyte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the correct order in ascending direction?",
+      "options": [
+        "Bit, Byte, KB, MB, GB",
+        "Byte, Bit, KB, MB, GB",
+        "Bit, Byte, MB, KB, GB",
+        "GB, MB, KB, Byte, Bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the prefix 'Mega' refer to?",
+      "options": [
+        "Thousand",
+        "Million",
+        "Billion",
+        "Trillion"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an analog signal?",
+      "options": [
+        "Stepwise",
+        "Continuously varying",
+        "Has only two values",
+        "Has no value"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a digital signal?",
+      "options": [
+        "Continuous",
+        "Discrete, taking definite values",
+        "Wavy",
+        "Invisible"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is not a storage unit?",
+      "options": [
+        "HDD",
+        "SSD",
+        "CPU",
+        "CD"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How many bytes does a character usually occupy in ASCII code?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does hardware mean?",
+      "options": [
+        "Set of software",
+        "Physical parts of the computer",
+        "Internet connection",
+        "Programming language"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the basis of information measurement units?",
+      "options": [
+        "Base 10",
+        "Base 2",
+        "Base 16",
+        "Base 8"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many bits are in 2 bytes?",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "64"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "The basic unit of measuring information is the bit."
+    },
+    {
+      "type": "typing",
+      "text": "Computers work with binary codes."
+    },
+    {
+      "type": "typing",
+      "text": "One byte contains exactly eight bits."
+    },
+    {
+      "type": "typing",
+      "text": "Data is a recorded fact that does not yet carry meaning."
+    },
+    {
+      "type": "typing",
+      "text": "Kilobyte and megabyte are also units of measurement."
+    },
+    {
+      "type": "typing",
+      "text": "Information provides new knowledge to the user."
+    },
+    {
+      "type": "typing",
+      "text": "The binary system uses only zeros and ones."
+    },
+    {
+      "type": "typing",
+      "text": "The terabyte is now common for hard drives."
+    },
+    {
+      "type": "typing",
+      "text": "ASCII code helps in displaying characters."
+    },
+    {
+      "type": "typing",
+      "text": "Analog signals can be converted to digital."
+    }
+  ]
+}

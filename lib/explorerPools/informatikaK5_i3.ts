@@ -31,7 +31,7 @@ export const INFO_K5_I3_LABELS: Record<string, Record<string, string>> = {
   hu: {
     explorer_title: "Informatika Felfedező 3",
     t1_title: "Szövegszerkesztő program", t1_text: "A Word segítségével szövegeket írunk és formázunk a számítógépen.", t1_inst: "Párosítsd össze:", t1_h1: "Melyik program mit csinál?", t1_h2: "Word, Excel, Paint!", t1_q: "Melyik programot használjuk levelekhez?", t1_qa: "Word", t1_qb: "Excel", t1_qc: "Paint", t1_qd: "PowerPoint",
-    t1_l1: "Word", t1_r1: "Szöveg írás", t1_l2: "Excel", t1_r2: "Táblázatok", t1_l3: "Paint", t1_r3: "Rajzolás",
+    t1_l1: "Word", t1_r1: "Szövegírás", t1_l2: "Excel", t1_r2: "Táblázatok", t1_l3: "Paint", t1_r3: "Rajzolás",
     t2_title: "Táblázatkezelő", t2_text: "Az Excellel táblázatokat készítünk és számolunk.", t2_inst: "Töltsd ki a hiányt:", t2_h1: "Számolás számokkal?", t2_h2: "Táblázat = sorok és oszlopok.", t2_q: "Mire való az Excel?", t2_qa: "Táblázatok és számítások", t2_qb: "Képek rajzolása", t2_qc: "Videók nézése", t2_qd: "Zene hallgatása",
     t2_sent: "Az Excel segítségével ___ készítünk.", t2_qa2: "táblázatot", t2_qb2: "levelet", t2_qc2: "videót", t2_qd2: "fotót",
     t3_title: "Paint rajzolóprogram", t3_text: "A Paint programmal képeket rajzolhatunk és fotókat szerkeszthetünk.", t3_inst: "Válogasd szét:", t3_h1: "Rajzolás vagy számolás?", t3_h2: "Melyik program mire való?", t3_q: "Mit csinálhatunk a Paint-tel?", t3_qa: "Képeket rajzolni", t3_qb: "Táblázatot készíteni", t3_qc: "Szöveget írni", t3_qd: "E-mailt küldeni",

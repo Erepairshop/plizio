@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Periferice",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce sunt perifericele?",
+      "options": [
+        "Numai părțile interne",
+        "Dispozitive externe conectate la computer",
+        "Tipuri de software",
+        "Cabluri de internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un dispozitiv de „Intrare”?",
+      "options": [
+        "Monitor",
+        "Imprimanta",
+        "Tastatura",
+        "Difuzoare"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un dispozitiv de „ieșire”?",
+      "options": [
+        "Șoarece",
+        "Scaner",
+        "Monitor",
+        "Microfon"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care este principala utilizare a unui mouse?",
+      "options": [
+        "Tastarea",
+        "Arătând și făcând clic pe ecran",
+        "Imprimare",
+        "Ascultând muzică"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosită o tastatură?",
+      "options": [
+        "Scanarea fotografiilor",
+        "Introducerea textului și a comenzilor",
+        "Se afișează videoclipuri",
+        "Mutarea calculatorului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce face un scaner?",
+      "options": [
+        "Imprimă text pe hârtie",
+        "Transformă documentele de hârtie în fișiere digitale",
+        "Redă sunete",
+        "Afișează imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosită o imprimantă?",
+      "options": [
+        "Facerea fotografiilor",
+        "Punerea textului sau a imaginilor digitale pe hârtie",
+        "Mutarea cursorului",
+        "Stocarea fișierelor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce periferic vă permite să auziți sunetul?",
+      "options": [
+        "Monitor",
+        "Difuzoare",
+        "Tastatura",
+        "Cameră web"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosită o cameră web?",
+      "options": [
+        "Imprimare",
+        "Captură video și fotografiere",
+        "Tastarea",
+        "Scanare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosit un microfon?",
+      "options": [
+        "Se afișează imagini",
+        "Înregistrarea sau trimiterea vocii și sunetului",
+        "Făcând clic pe butoane",
+        "Imprimarea documentelor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este atât un dispozitiv de intrare, cât și un dispozitiv de ieșire?",
+      "options": [
+        "Ecran tactil",
+        "Mouse standard",
+        "Tastatură standard",
+        "Difuzoare simple"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „monitor”?",
+      "options": [
+        "Un dispozitiv care imprimă",
+        "Un ecran care afișează informații vizuale",
+        "Un dispozitiv pentru tastarea",
+        "O parte de depozitare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „proiector”?",
+      "options": [
+        "Un mic ecran",
+        "Un dispozitiv care arată imaginea ecranului pe un perete",
+        "Un tip de imprimantă",
+        "Un tip de scaner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde conectezi majoritatea perifericelor moderne?",
+      "options": [
+        "priză",
+        "Port USB",
+        "Unitate de dischetă",
+        "tavă CD"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce se folosește adesea un „Joystick”?",
+      "options": [
+        "Tastarea",
+        "Jucând jocuri",
+        "Imprimare",
+        "Scanare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosit un „hard disk extern”?",
+      "options": [
+        "Se afișează imagini",
+        "Stocare suplimentară a datelor",
+        "Imprimare",
+        "Înregistrare sunet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce se referă de obicei „DPI” pentru un mouse sau o imprimantă?",
+      "options": [
+        "Greutatea",
+        "Rezoluția sau sensibilitatea",
+        "Culoarea",
+        "Prețul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce periferic este necesar pentru un apel video?",
+      "options": [
+        "Imprimanta",
+        "Cameră web",
+        "Scaner",
+        "Hard Drive"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „Set cu cască”?",
+      "options": [
+        "Un tip de pălărie",
+        "O combinație de căști și un microfon",
+        "Un protector de ecran",
+        "Un mouse pad"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce se utilizează o „tabletă grafică”?",
+      "options": [
+        "Cărți de citit",
+        "Desen și artă digitală",
+        "Imprimarea fotografiilor",
+        "Redând muzică"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea NU este un periferic?",
+      "options": [
+        "Tastatura",
+        "CPU",
+        "Imprimanta",
+        "Scaner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce se folosește „Bluetooth”?",
+      "options": [
+        "Faceți ecranul albastru",
+        "Conectarea dispozitivelor wireless",
+        "Curățarea computerului",
+        "Imprimare color"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosit un „Scanner de coduri de bare”?",
+      "options": [
+        "Desen",
+        "Citirea codurilor de produse în magazine",
+        "Tastând litere",
+        "Redarea videoclipurilor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv este folosit pentru a introduce o fotografie pe hârtie într-un computer?",
+      "options": [
+        "Imprimanta",
+        "Scaner",
+        "Monitor",
+        "Difuzoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „Plotter”?",
+      "options": [
+        "Un șoarece mic",
+        "O imprimantă la scară largă pentru desene tehnice",
+        "Un tip de tastatură",
+        "Un controler de joc"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Perifericele sunt dispozitive conectate la computer."
+    },
+    {
+      "type": "typing",
+      "text": "Tastatura și mouse-ul sunt dispozitive de intrare."
+    },
+    {
+      "type": "typing",
+      "text": "Monitorul și imprimanta sunt dispozitive de ieșire."
+    },
+    {
+      "type": "typing",
+      "text": "O cameră web permite oamenilor să te vadă în timpul unui apel video."
+    },
+    {
+      "type": "typing",
+      "text": "Difuzoarele vă permit să ascultați muzică și sunete."
+    },
+    {
+      "type": "typing",
+      "text": "Un scaner transformă fotografiile de hârtie în fișiere digitale."
+    },
+    {
+      "type": "typing",
+      "text": "Porturile USB sunt folosite pentru a conecta multe periferice."
+    },
+    {
+      "type": "typing",
+      "text": "Ecranele tactile funcționează atât ca intrare, cât și ca ieșire."
+    },
+    {
+      "type": "typing",
+      "text": "O imprimantă vă pune lucrările digitale pe hârtie."
+    },
+    {
+      "type": "typing",
+      "text": "Mouse-urile fără fir se conectează la computer folosind Bluetooth."
+    }
+  ]
+}

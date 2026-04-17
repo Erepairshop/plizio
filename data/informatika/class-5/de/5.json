@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Dateiverwaltung",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine Datei?",
+      "options": [
+        "Eine Hardwarekomponente",
+        "Eine Sammlung von Daten mit einem Namen",
+        "Ein Computerkabel",
+        "Eine Art Schreibtisch"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür wird ein „Ordner“ verwendet?",
+      "options": [
+        "Maßpapier",
+        "Dateien organisieren",
+        "Aufladen des Laptops",
+        "Musik spielen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine „Dateierweiterung“?",
+      "options": [
+        "Ein längeres Kabel",
+        "Das Ende eines Dateinamens, der den Dateityp",
+        "angibt Die Größe der Datei",
+        "Der Preis der Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Erweiterung gilt normalerweise für Textdateien?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".txt",
+        ".exe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Erweiterung gilt normalerweise für Bilder?",
+      "options": [
+        ".txt",
+        ".jpg",
+        ".wav",
+        ".zip"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt das „Kopieren“ einer Datei?",
+      "options": [
+        "Verschiebt es an einen anderen Ort",
+        "Erstellt ein Duplikat der Datei",
+        "Löscht die Datei",
+        "Benennt die Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "um Was bewirkt das „Verschieben“ (Ausschneiden und Einfügen) einer Datei?",
+      "options": [
+        "Erstellt ein Duplikat",
+        "Verschiebt das Original an einen neuen Speicherort",
+        "Druckt die Datei",
+        "Ändert den Dateityp"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie benennt man eine Datei um?",
+      "options": [
+        "Durch Löschen",
+        "Indem Sie es auswählen und seinen Namen ändern",
+        "Durch Verschieben in den Papierkorb",
+        "Durch Drucken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der „Pfad“ einer Datei?",
+      "options": [
+        "Der Weg zum Computerladen",
+        "Der Speicherort einer Datei im Ordnersystem",
+        "Das Gewicht der Datei",
+        "Die Farbe der Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Erweiterung gibt es für ausführbare Programme?",
+      "options": [
+        ".exe",
+        ".txt",
+        ".mp3",
+        ".pdf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „komprimierter“ (gezippter) Ordner?",
+      "options": [
+        "Ein Ordner, der sehr schwer ist",
+        "Ein Ordner, der weniger Platz beansprucht",
+        "Ein kaputter Ordner",
+        "Ein Ordner ohne Dateien"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Erweiterung ist für Musik?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".exe",
+        ".txt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das „Löschen“ einer Datei?",
+      "options": [
+        "Eine Kopie erstellen",
+        "Entfernen von seinem Standort",
+        "Umbenennen",
+        "Öffnen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Unterordner“?",
+      "options": [
+        "Ein Ordner in einem anderen Ordner",
+        "Ein Ordner für Sandwiches",
+        "Ein Ordner im Internet",
+        "Ein versteckter Ordner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie können Sie mehrere Dateien auswählen?",
+      "options": [
+        "Mit der Strg- oder Umschalttaste",
+        "Durch Ausschalten des Monitors",
+        "Durch Herausziehen der Maus",
+        "Durch Schließen des Fensters"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das „Root“-Verzeichnis?",
+      "options": [
+        "Ein Pflanzenteil",
+        "Der oberste Ordner eines Laufwerks",
+        "Eine Art Kabel",
+        "Der Papierkorb"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Erweiterung gibt es für PDF-Dokumente?",
+      "options": [
+        ".pdf",
+        ".jpg",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt „Einfügen“?",
+      "options": [
+        "Schneidet eine Datei",
+        "Platziert eine kopierte oder ausgeschnittene Datei an einem neuen Speicherort",
+        "Löscht eine Datei",
+        "Benennt eine Datei um"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollten wir Dateien in Ordnern organisieren?",
+      "options": [
+        "Um sie schwerer zu machen",
+        "Um sie später leicht zu finden",
+        "Um den Computer bunt zu machen",
+        "Um sie vor dem Betriebssystem zu verbergen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Speicherkapazität“?",
+      "options": [
+        "Die Geschwindigkeit des Computers",
+        "Die Datenmenge, die ein Laufwerk speichern kann",
+        "Die Größe des Monitors",
+        "Die Anzahl der Tasten auf der Tastatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät wird häufig zum Verschieben von Dateien zwischen Computern verwendet?",
+      "options": [
+        "Drucker",
+        "USB-Flash-Laufwerk",
+        "Scanner",
+        "CPU"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Cloud“-Laufwerk?",
+      "options": [
+        "Ein Antrieb, der schwimmt",
+        "Speicherplatz im Internet",
+        "Ein Antrieb, der nur bei Regen funktioniert",
+        "Eine Art Ventilator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Verknüpfungssymbol?",
+      "options": [
+        "Die echte Datei",
+        "Ein Link, der die Datei von einer anderen Stelle öffnet",
+        "Eine gelöschte Datei",
+        "Eine defekte Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Erweiterung gibt es für Videodateien?",
+      "options": [
+        ".mp4",
+        ".txt",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die typische Größe einer einfachen Textdatei?",
+      "options": [
+        "Sehr klein (Bytes oder KB)",
+        "Sehr groß (GB)",
+        "Mittel (MB)",
+        "Null"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Eine Datei ist eine Information mit einem Namen."
+    },
+    {
+      "type": "typing",
+      "text": "Ordner helfen Ihnen, Ihre Dateien zu organisieren."
+    },
+    {
+      "type": "typing",
+      "text": "Dateierweiterungen sagen uns, um welche Art von Datei es sich handelt."
+    },
+    {
+      "type": "typing",
+      "text": "Verwenden Sie Kopieren und Einfügen, um eine Datei zu duplizieren."
+    },
+    {
+      "type": "typing",
+      "text": "Die Erweiterung .txt ist für einfache Textdokumente vorgesehen."
+    },
+    {
+      "type": "typing",
+      "text": "Ein gezippter Ordner benötigt weniger Speicherplatz."
+    },
+    {
+      "type": "typing",
+      "text": "Seien Sie vorsichtig, wenn Sie wichtige Dateien löschen."
+    },
+    {
+      "type": "typing",
+      "text": "Das Umbenennen einer Datei hilft Ihnen, ihren Inhalt zu identifizieren."
+    },
+    {
+      "type": "typing",
+      "text": "Der Dateipfad zeigt an, wo eine Datei gespeichert ist."
+    },
+    {
+      "type": "typing",
+      "text": "Sorgen Sie immer für Ordnung in Ihrem Dokumentenordner."
+    }
+  ]
+}

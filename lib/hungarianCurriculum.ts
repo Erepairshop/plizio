@@ -114,7 +114,7 @@ const G1: HungarianTheme[] = [
       },
       {
         id: "elvalasztas",
-        name: "Elvétkezés, szótagolás",
+        name: "Elválasztás, szótagolás",
         questions: [],
         hasGenerator: true,
       },
@@ -258,7 +258,7 @@ const G1: HungarianTheme[] = [
       },
       {
         id: "kettozodes",
-        name: "Kétközés (mássalhangzók)",
+        name: "Kettőzés (mássalhangzók)",
         questions: [],
         hasGenerator: true,
       },
@@ -349,7 +349,7 @@ const G1: HungarianTheme[] = [
       },
       {
         id: "hu_vocabulary",
-        name: "Lyukas Mondatok",
+        name: "Mondatkiegészítés",
         questions: [],
         hasGenerator: true,
       },
@@ -400,7 +400,7 @@ const G2: HungarianTheme[] = [
       },
       {
         id: "nevelő",
-        name: "Nevelők (a, az)",
+        name: "Névelők (a, az)",
         questions: [],
         hasGenerator: true,
       },
@@ -592,7 +592,7 @@ const G2: HungarianTheme[] = [
       },
       {
         id: "mesek",
-        name: "Meseelem-zés",
+        name: "Meseelemzés",
         questions: [],
         hasGenerator: true,
       },
@@ -671,7 +671,7 @@ const G2: HungarianTheme[] = [
       },
       {
         id: "hu_vocabulary",
-        name: "Lyukas Mondatok",
+        name: "Mondatkiegészítés",
         questions: [],
         hasGenerator: true,
       },
@@ -942,7 +942,7 @@ const G3: HungarianTheme[] = [
   ]},
   { id: "szovegertés_interaktiv", name: "Szövegértés — Interaktív", icon: "📖", color: "#F59E0B", subtopics: [
     { id: "hu_sequencing", name: "Történet Sorrend", questions: [], hasGenerator: true },
-    { id: "hu_vocabulary", name: "Lyukas Mondatok", questions: [], hasGenerator: true },
+    { id: "hu_vocabulary", name: "Mondatkiegészítés", questions: [], hasGenerator: true },
   ]},
   { id: "helyesiras_interaktiv", name: "Helyesírás — Interaktív", icon: "✏️", color: "#EF4444", subtopics: [
     { id: "hu_spelling", name: "Hibák Keresése", questions: [], hasGenerator: true },
@@ -966,7 +966,7 @@ const G4: HungarianTheme[] = [
       },
       {
         id: "targyas_ragozas",
-        name: "Tárgyasragozás",
+        name: "Tárgyas ragozás",
         questions: [],
         hasGenerator: true,
       },
@@ -1210,7 +1210,7 @@ const G4: HungarianTheme[] = [
   ]},
   { id: "szovegertés_interaktiv", name: "Szövegértés — Interaktív", icon: "📖", color: "#F59E0B", subtopics: [
     { id: "hu_sequencing", name: "Történet Sorrend", questions: [], hasGenerator: true },
-    { id: "hu_vocabulary", name: "Lyukas Mondatok", questions: [], hasGenerator: true },
+    { id: "hu_vocabulary", name: "Mondatkiegészítés", questions: [], hasGenerator: true },
   ]},
   { id: "helyesiras_interaktiv", name: "Helyesírás — Interaktív", icon: "✏️", color: "#EF4444", subtopics: [
     { id: "hu_spelling", name: "Hibák Keresése", questions: [], hasGenerator: true },
@@ -1234,7 +1234,7 @@ const G5: HungarianTheme[] = [
       },
       {
         id: "hasonulas",
-        name: "Hangösszehangzás",
+        name: "Hanghasonulás",
         questions: [],
         hasGenerator: true,
       },
@@ -1324,7 +1324,7 @@ const G5: HungarianTheme[] = [
   ]},
   { id: "szovegertés_interaktiv", name: "Szövegértés — Interaktív", icon: "📖", color: "#F59E0B", subtopics: [
     { id: "hu_sequencing", name: "Történet Sorrend", questions: [], hasGenerator: true },
-    { id: "hu_vocabulary", name: "Lyukas Mondatok", questions: [], hasGenerator: true },
+    { id: "hu_vocabulary", name: "Mondatkiegészítés", questions: [], hasGenerator: true },
   ]},
   { id: "helyesiras_interaktiv", name: "Helyesírás — Interaktív", icon: "✏️", color: "#EF4444", subtopics: [
     { id: "hu_spelling", name: "Hibák Keresése", questions: [], hasGenerator: true },
@@ -1388,7 +1388,7 @@ const G6: HungarianTheme[] = [
     color: "#FFD700",
     subtopics: [
       { id: "idegen_szavak", name: "Idegen szavak", questions: [], hasGenerator: true },
-      { id: "nyelvcsal", name: "Nyelvcsal", questions: [], hasGenerator: true },
+      { id: "nyelvcsal", name: "Nyelvcsalád", questions: [], hasGenerator: true },
       { id: "intonáció_ritmus", name: "Intonáció és ritmus", questions: [], hasGenerator: true },
     ],
   },
@@ -1429,7 +1429,7 @@ const G6: HungarianTheme[] = [
   ]},
   { id: "szovegertés_interaktiv", name: "Szövegértés — Interaktív", icon: "📖", color: "#F59E0B", subtopics: [
     { id: "hu_sequencing", name: "Történet Sorrend", questions: [], hasGenerator: true },
-    { id: "hu_vocabulary", name: "Lyukas Mondatok", questions: [], hasGenerator: true },
+    { id: "hu_vocabulary", name: "Mondatkiegészítés", questions: [], hasGenerator: true },
   ]},
   { id: "helyesiras_interaktiv", name: "Helyesírás — Interaktív", icon: "✏️", color: "#EF4444", subtopics: [
     { id: "hu_spelling", name: "Hibák Keresése", questions: [], hasGenerator: true },
@@ -1446,7 +1446,7 @@ const G7: HungarianTheme[] = [
     color: "#FF2D78",
     subtopics: [
       { id: "hangvaltozas", name: "Hangváltozások", questions: [], hasGenerator: true },
-      { id: "jovenényszó_haladó", name: "Jövevényszók (haladó)", questions: [], hasGenerator: true },
+      { id: "jovenényszó_haladó", name: "Jövevényszavak (haladó)", questions: [], hasGenerator: true },
     ],
   },
   {
@@ -1550,7 +1550,7 @@ const G7: HungarianTheme[] = [
   ]},
   { id: "szovegertés_interaktiv", name: "Szövegértés — Interaktív", icon: "📖", color: "#F59E0B", subtopics: [
     { id: "hu_sequencing", name: "Történet Sorrend", questions: [], hasGenerator: true },
-    { id: "hu_vocabulary", name: "Lyukas Mondatok", questions: [], hasGenerator: true },
+    { id: "hu_vocabulary", name: "Mondatkiegészítés", questions: [], hasGenerator: true },
   ]},
   { id: "helyesiras_interaktiv", name: "Helyesírás — Interaktív", icon: "✏️", color: "#EF4444", subtopics: [
     { id: "hu_spelling", name: "Hibák Keresése", questions: [], hasGenerator: true },
@@ -1566,7 +1566,7 @@ const G8: HungarianTheme[] = [
     icon: "📜",
     color: "#FF2D78",
     subtopics: [
-      { id: "omagyr", name: "Ős magyar nyelvemlékek", questions: [], hasGenerator: true },
+      { id: "omagyr", name: "Ómagyar nyelvemlékek", questions: [], hasGenerator: true },
       { id: "kodexek", name: "Kódexek fejlődése", questions: [], hasGenerator: true },
       { id: "történeti_nyelvészet", name: "Történeti nyelvészet", questions: [], hasGenerator: true },
     ],
@@ -1622,7 +1622,7 @@ const G8: HungarianTheme[] = [
     icon: "📋",
     color: "#FF2D78",
     subtopics: [
-      { id: "kozmagyar", name: "Köznyelvesség", questions: [], hasGenerator: true },
+      { id: "kozmagyar", name: "Közmagyar", questions: [], hasGenerator: true },
       { id: "szociolingvisztika_szocio", name: "Szociolingvisztika", questions: [], hasGenerator: true },
       { id: "kognitív_nyelv", name: "Kognitív nyelv", questions: [], hasGenerator: true },
     ],
@@ -1662,7 +1662,7 @@ const G8: HungarianTheme[] = [
   ]},
   { id: "szovegertés_interaktiv", name: "Szövegértés — Interaktív", icon: "📖", color: "#F59E0B", subtopics: [
     { id: "hu_sequencing", name: "Történet Sorrend", questions: [], hasGenerator: true },
-    { id: "hu_vocabulary", name: "Lyukas Mondatok", questions: [], hasGenerator: true },
+    { id: "hu_vocabulary", name: "Mondatkiegészítés", questions: [], hasGenerator: true },
   ]},
   { id: "helyesiras_interaktiv", name: "Helyesírás — Interaktív", icon: "✏️", color: "#EF4444", subtopics: [
     { id: "hu_spelling", name: "Hibák Keresése", questions: [], hasGenerator: true },
@@ -1827,9 +1827,9 @@ export const HUNGARIAN_SUBTOPIC_HINTS: Record<string, string> = {
   rovid_hosszu: "Rövid: a, e, i, o, u | Hosszú: á, é, í, ó, ö, ő, ú, ü, ű",
   j_ly: "Melyik esetben használunk 'j'-t és melyik esetben 'ly'-t?",
   szotagszam: "Számold meg, hány szótagra osztható a szó!",
-  fonevek: "A főnevek azt jelölik, amit meg lehet érteni a szóval.",
+  fonevek: "A főnevek személyeket, tárgyakat, helyeket és fogalmakat jelölnek.",
   igek: "Az igék cselekvéseket, történéseket jelölnek.",
-  melleknevek: "A melléknevek a tulajdonságokat jelölnek.",
+  melleknevek: "A melléknevek tulajdonságokat jelölnek.",
   mondatfajtak: "Kijelentő, kérdő, felszólító, óhajtó mondatok",
   irasjelek: "Pont (.), kérdőjel (?), felkiáltójel (!), vessző (,)",
   nagybetu: "Mondat elején, helynevek, személynevek, intézmények nevei",

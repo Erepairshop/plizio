@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die Aufgabe des Monitors?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Daten verarbeiten",
+                                      "Informationen visuell anzeigen",
+                                      "Töne ausgeben",
+                                      "Papier bedrucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Pixel\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Teil der Maus",
+                                      "Ein einzelner Bildpunkt auf dem Schirm",
+                                      "Ein Speichergerät",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür steht die Abkürzung \u0027LCD\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Light Crystal Drive",
+                                      "Liquid Crystal Display",
+                                      "Low Color Data",
+                                      "Laser Control Device"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was bedeutet die \u0027Aktualisierungsrate\u0027 (Refresh Rate)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Wie oft das Bild pro Sekunde erneuert wird",
+                                      "Wie laut der Monitor ist",
+                                      "Wie viel Strom er verbraucht",
+                                      "Die Anzahl der Farben"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Full HD Auflösung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "800x600",
+                                      "1920x1080",
+                                      "4000x2000",
+                                      "100x100"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie wird die Größe eines Monitors gemessen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Breite mal Höhe",
+                                      "Diagonal von Ecke zu Ecke",
+                                      "Gewicht",
+                                      "Tiefe des Gehäuses"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Curved Monitor\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kaputter Monitor",
+                                      "Ein Bildschirm mit einer gewölbten Oberfläche",
+                                      "Ein quadratischer Monitor",
+                                      "Ein Monitor für Kurven"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Kabel wird heute meistens für Monitore benutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Stromkabel",
+                                      "HDMI oder DisplayPort",
+                                      "Netzwerkkabel",
+                                      "Audiokabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die Einstellung \u0027Helligkeit\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ändert die Farben",
+                                      "Macht das Bild heller oder dunkler",
+                                      "Schaltet den Ton aus",
+                                      "Vergrößert die Schrift"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man einen Monitor nicht direktem Sonnenlicht aussetzen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Er könnte schmelzen",
+                                      "Spiegelungen stören und er könnte überhitzen",
+                                      "Er braucht Schatten zum Schlafen",
+                                      "Die Farben werden besser"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist der \u0027Blaulichtfilter\u0027 am Monitor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Filter für blaues Glas",
+                                      "Eine Funktion zur Schonung der Augen am Abend",
+                                      "Ein Filter für Wasser",
+                                      "Macht alles blau"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Aspektverhältnis\u0027 (z.B. 16:9)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Alter des Monitors",
+                                      "Das Verhältnis von Breite zu Höhe",
+                                      "Die Anzahl der Tasten",
+                                      "Die maximale Lautstärke"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Pixelfehler?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein falsches Wort im Text",
+                                      "Ein Bildpunkt, der immer die falsche Farbe zeigt",
+                                      "Ein Virus",
+                                      "Eine leere Festplatte"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Grafiktreiber?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der Besitzer des PCs",
+                                      "Software, die die Grafikkarte steuert",
+                                      "Ein spezielles Kabel",
+                                      "Ein Zeichenprogramm"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist 4K?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Vier Kabel",
+                                      "Eine sehr hohe Bildschirmauflösung",
+                                      "Vier Monitore zusammen",
+                                      "Ein Speicherplatz"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Dual-Monitor-Setup\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zwei Computer an einem Bildschirm",
+                                      "Zwei Bildschirme an einem Computer",
+                                      "Ein Monitor mit zwei Farben",
+                                      "Zwei Tastaturen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Touchscreen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Schirm zum Anschauen",
+                                      "Ein berührungsempfindlicher Bildschirm",
+                                      "Ein Schirm mit Tasten",
+                                      "Ein Monitor für Blinde"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wofür steht \u0027LED\u0027 bei Monitoren?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Light Emitting Diode",
+                                      "Laser Energy Display",
+                                      "Low Electronic Data",
+                                      "Long End Drive"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim \u0027Bildschirmschoner\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der Schirm wird geputzt",
+                                      "Ein bewegtes Bild verhindert das Einbrennen",
+                                      "Der Computer wird gesperrt",
+                                      "Spiele werden gestartet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie reinigt man einen Monitor am besten?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mit viel Wasser und Seife",
+                                      "Mit einem weichen, leicht feuchten Mikrofasertuch",
+                                      "Mit einem Scheuerschwamm",
+                                      "Gar nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die Reaktionszeit eines Monitors?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Wie schnell er an geht",
+                                      "Wie schnell ein Pixel die Farbe wechseln kann",
+                                      "Wie schnell die Maus ist",
+                                      "Die Zeit bis zum Standby"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Kontrast\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Lautstärke",
+                                      "Der Unterschied zwischen hellsten und dunkelsten Punkten",
+                                      "Die Anzahl der Sprachen",
+                                      "Die Größe des Cursors"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird ein Beamer oft verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Scannen",
+                                      "Für Präsentationen vor vielen Leuten",
+                                      "Zum Musikhören",
+                                      "Zum Drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welcher Anschluss ist alt und überträgt nur analoge Signale?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "HDMI",
+                                      "VGA",
+                                      "USB-C",
+                                      "DisplayPort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist OSD beim Monitor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Old System Disk",
+                                      "On-Screen Display (Einstellungsmenü)",
+                                      "Only Some Data",
+                                      "Open Software Design"
+                                  ]
+                  },
+                  {
+                      "text":  "Der Monitor ist das wichtigste Ausgabegerät für visuelle Daten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Eine hohe Auflösung sorgt für ein scharfes Bild.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Pixel sind die kleinsten Bestandteile einer digitalen Anzeige.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "LCD-Monitore sind flach und verbrauchen wenig Energie.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "HDMI-Kabel übertragen digitale Video- und Audiosignale.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Helligkeit sollte an das Umgebungslicht angepasst werden.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Blaulichtfilter können die Augen bei langer Arbeit schonen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Touchscreen ermöglicht die direkte Bedienung mit den Fingern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Moderne Monitore unterstützen Millionen von verschiedenen Farben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Regelmäßige Pausen sind wichtig für die Gesundheit der Augen.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Monitor und Anzeige"
+}

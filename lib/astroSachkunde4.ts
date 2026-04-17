@@ -593,7 +593,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
           en: "German States",
           hu: "Német államok",
           de: "Deutsche Bundesländer",
-          ro: "State-uri germane",
+          ro: "Landuri germane",
         },
       },
       {
@@ -628,7 +628,7 @@ export const SK_G4_ISLANDS: IslandDef[] = [
     id: "i9",
     name: {
       en: "Grand Finale",
-      hu: "Nagyon finale",
+      hu: "Nagy döntő",
       de: "Großes Finale",
       ro: "Marea finală",
     },

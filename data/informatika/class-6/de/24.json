@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Datenschutz und DSGVO",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wofür steht die Abkürzung DSGVO?",
+      "options": [
+        "Datenschutz-Grundverordnung",
+        "Digitale Sicherheit Ganz Vorne",
+        "Daten-Schutz-Gesetz-Online",
+        "Deutsche Sicherheits-Verordnung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'personenbezogene Daten'?",
+      "options": [
+        "Nur der Name",
+        "Alle Daten, die eine Person identifizierbar machen",
+        "Nur Geheimnisse",
+        "Nur Bilder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf eine Firma deine Daten ohne Grund speichern?",
+      "options": [
+        "Ja, immer",
+        "Nein, nur mit Erlaubnis oder rechtlicher Grundlage",
+        "Nur wenn sie Geld bezahlen",
+        "Nur wenn man über 18 ist"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'Recht auf Auskunft'?",
+      "options": [
+        "Man darf alles fragen",
+        "Man darf erfahren, welche Daten eine Firma über einen gespeichert hat",
+        "Man darf Daten löschen",
+        "Gibt es nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'Recht auf Vergessenwerden'?",
+      "options": [
+        "Man darf alles vergessen",
+        "Recht auf Löschung der eigenen Daten",
+        "Der PC wird gelöscht",
+        "Man darf anonym bleiben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Datenschutzerklärung'?",
+      "options": [
+        "Ein Versprechen",
+        "Information einer Webseite darüber, wie sie Daten nutzt",
+        "Ein Gesetzbuch",
+        "Eine Fehlermeldung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Cookies datenschutzrelevant?",
+      "options": [
+        "Nein, sind nur Kekse",
+        "Ja, sie können das Nutzerverhalten verfolgen",
+        "Nur wenn sie groß sind",
+        "Nur bei Google"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Datensparsamkeit'?",
+      "options": [
+        "Kein Geld für Daten ausgeben",
+        "Nur so viele Daten wie nötig erheben",
+        "Daten auf USB-Sticks speichern",
+        "Daten verstecken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo gilt die DSGVO hauptsächlich?",
+      "options": [
+        "In den USA",
+        "In der Europäischen Union (EU)",
+        "Nur in Deutschland",
+        "Weltweit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer überwacht den Datenschutz in einer Firma?",
+      "options": [
+        "Der Chef",
+        "Der Datenschutzbeauftragte",
+        "Die Polizei",
+        "Niemand"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist deine IP-Adresse ein personenbezogenes Datum?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur wenn man sie kennt",
+        "Nur bei Hackern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fotos von anderen ohne Erlaubnis im Internet posten?",
+      "options": [
+        "Ja, ist öffentlich",
+        "Nein (Recht am eigenen Bild)",
+        "Nur wenn sie klein sind",
+        "Nur bei Freunden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Phishing'?",
+      "options": [
+        "Ein Sport",
+        "Versuch, über gefälschte Mails/Seiten an Daten zu kommen",
+        "Datenlöschung",
+        "Schnelles Internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein sicheres Passwort aus?",
+      "options": [
+        "Nur der Name",
+        "Kombination aus Buchstaben, Zahlen und Sonderzeichen",
+        "Nur 4 Zahlen",
+        "Das Geburtsdatum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf eine Schule deine Noten öffentlich aushängen?",
+      "options": [
+        "Ja, zur Motivation",
+        "Nein, Datenschutz",
+        "Nur wenn sie gut sind",
+        "Nur mit Bild"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Einwilligung'?",
+      "options": [
+        "Ein Vertrag",
+        "Freiwillige Zustimmung zur Datenverarbeitung",
+        "Eine Pflicht",
+        "Ein Verbot"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert bei einem Datenleck (Data Breach)?",
+      "options": [
+        "Nichts",
+        "Die Firma muss die Behörden und Betroffenen meist informieren",
+        "Die Daten werden wertvoll",
+        "Der Strom fällt aus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Sind Gesundheitsdaten besonders geschützt?",
+      "options": [
+        "Ja (besondere Kategorien)",
+        "Nein, sind normale Daten",
+        "Nur im Krankenhaus",
+        "Nur für Ärzte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Verschlüsselung'?",
+      "options": [
+        "Daten löschen",
+        "Daten unleserlich machen, damit nur Berechtigte sie lesen können",
+        "Daten verstecken",
+        "Daten kopieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Anonymisierung'?",
+      "options": [
+        "Daten löschen",
+        "Daten so ändern, dass sie keiner Person mehr zugeordnet werden können",
+        "Namen ändern",
+        "Bilder verpixeln"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Passwort-Manager'?",
+      "options": [
+        "Ein Mensch",
+        "Software zum sicheren Speichern von Passwörtern",
+        "Ein Buch",
+        "Eine App zum Löschen von Passwörtern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Datenschutz wichtig?",
+      "options": [
+        "Zum Schutz der Privatsphäre und Freiheit",
+        "Um das Internet teurer zu machen",
+        "Um Werbung zu verhindern",
+        "Damit der PC länger hält"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man fremde E-Mails lesen?",
+      "options": [
+        "Ja, wenn man den PC nutzt",
+        "Nein (Postgeheimnis / Datenschutz)",
+        "Nur wenn man neugierig ist",
+        "Nur als Admin"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Tracking'?",
+      "options": [
+        "Laufen gehen",
+        "Verfolgung des Nutzerverhaltens im Internet",
+        "Daten speichern",
+        "Bilder laden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Aufsichtsbehörde'?",
+      "options": [
+        "Die Polizei",
+        "Amt, das die Einhaltung des Datenschutzes prüft",
+        "Der Geheimdienst",
+        "Das Gericht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "DSGVO"
+    },
+    {
+      "type": "typing",
+      "text": "personenbezogen"
+    },
+    {
+      "type": "typing",
+      "text": "Einwilligung"
+    },
+    {
+      "type": "typing",
+      "text": "Vergessenwerden"
+    },
+    {
+      "type": "typing",
+      "text": "Datenschutzerklärung"
+    },
+    {
+      "type": "typing",
+      "text": "Datenschutz"
+    },
+    {
+      "type": "typing",
+      "text": "Verschlüsselung"
+    },
+    {
+      "type": "typing",
+      "text": "Datensparsamkeit"
+    },
+    {
+      "type": "typing",
+      "text": "Tracking"
+    },
+    {
+      "type": "typing",
+      "text": "Phishing"
+    }
+  ]
+}

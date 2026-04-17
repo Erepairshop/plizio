@@ -134,7 +134,7 @@ function gen_semne_diacritice_c5(seed: number): CurriculumQuestion[] {
     createMCQ(T, S,
       "Cum se scrie corect cuvântul care denumește localitatea unde locuiești?",
       "oraș (cu ș)",
-      ["oras (fără diacritic)", "orash (cu sh în loc de ș)", "oraş (cu virgulă sub s — acceptabil, dar ș este forma standard)"],
+      ["oras (fără diacritic)", "orash (cu sh în loc de ș)", "oraş (cu sedilă sub s — acceptabil, dar ș este forma standard)"],
       rng),
 
     createMCQ(T, S,
@@ -144,15 +144,15 @@ function gen_semne_diacritice_c5(seed: number): CurriculumQuestion[] {
       rng),
 
     createMCQ(T, S,
-      "Ce diferență de sens există între „tata” și „tata” scris cu diacritice „tată”?",
-      "„tață” = părintele (cu ă la sfârșit), „tata” = forma de adresare afectuoasă",
-      ["nu există nicio diferență", "„tata” este corect, „tață” nu există", "„tata” înseamnă mama"],
+      "Ce diferență există între „tata” și „tată”?",
+      "„tată” = părintele, „tata” = apelativ familiar (formă de adresare afectuoasă)",
+      ["nu există nicio diferență", "„tata” este corect, „tată” nu se folosește", "„tata” înseamnă mama"],
       rng),
 
     createMCQ(T, S,
       "Litera „ș” (s cu virgulă dedesubt) se pronunță ca:",
       "sh (ca în engleză „shoe”)",
-      ["s simplu (ca în „soare”)", "z (ca în „zero”)", "j (ca în „joc\”)"],
+      ["s simplu (ca în „soare”)", "z (ca în „zero”)", "j (ca în „joc”)"],
       rng),
 
     createMCQ(T, S,
@@ -241,7 +241,7 @@ function gen_scrierea_compuselor_c5(seed: number): CurriculumQuestion[] {
     createMCQ(T, S,
       "Un „bloc-turn” este un tip de clădire. Cum se scrie corect?",
       "bloc-turn",
-      ["blocturn", "bloc turn", "Block-turn"],
+      ["blocturn", "bloc turn", "Bloc-turn"],
       rng),
 
     createMCQ(T, S,
@@ -256,11 +256,11 @@ function gen_scrierea_compuselor_c5(seed: number): CurriculumQuestion[] {
 
     createTyping(T, S,
       "Ce se numește cuvânt compus?",
-      "cuvânt"),
+      "un cuvânt format din două sau mai multe cuvinte"),
 
     createTyping(T, S,
       "Cum se scrie „floarea-soarelui”?",
-      "cratimă"),
+      "cu cratimă"),
 
     createTyping(T, S,
       "Care este simbolul cratimei?",
@@ -272,7 +272,7 @@ function gen_scrierea_compuselor_c5(seed: number): CurriculumQuestion[] {
 
     createTyping(T, S,
       "Cum se scrie „nord-vest”?",
-      "cratimă"),
+      "cu cratimă"),
 
     createTyping(T, S,
       "Ce sens au cuvintele compuse?",
@@ -283,8 +283,8 @@ function gen_scrierea_compuselor_c5(seed: number): CurriculumQuestion[] {
       "compuse"),
 
     createTyping(T, S,
-      "Care sunt exemple de cuvinte compuse?",
-      "floare"),
+      "Dă un exemplu de cuvânt compus.",
+      "floarea-soarelui"),
   ];
 
   return shuffle(questions, rng);
@@ -336,7 +336,7 @@ function gen_cratima_forme_c5(seed: number): CurriculumQuestion[] {
     createMCQ(T, S,
       "De ce se folosește cratima în „i-a dat” (pronume + verb auxiliar)?",
       "Cratima leagă pronumele neaccentuat „i” de verbul auxiliar „a”, marcând pronunția lor împreună",
-      ["Nu se folosește cratimă; se scrie „ia dat\”", "Cratima se pune după orice pronume", "Este o greșeală; se scrie „ia-dat\”"],
+      ["Nu se folosește cratimă; se scrie „ia dat”", "Cratima se pune după orice pronume", "Este o greșeală; se scrie „ia-dat”"],
       rng),
 
     createTyping(T, S,

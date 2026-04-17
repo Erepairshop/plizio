@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Lumea datelor",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce sunt datele în calcul?",
+      "options": [
+        "Un caracter sau simbol",
+        "O informație",
+        "Un set de numere",
+        "Toate cele de mai sus"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Care unitate este cea mai mică?",
+      "options": [
+        "Bit",
+        "Octet",
+        "Kilobyte",
+        "Megaoctet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Câți biți sunt într-un octet?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este o unitate de stocare a datelor?",
+      "options": [
+        "Contor",
+        "Litru",
+        "Gigabyte",
+        "Gram"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „KB”?",
+      "options": [
+        "Kilobaterie",
+        "Kilobyte",
+        "Tastatura",
+        "Keybit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce ​​este egal 1024 Megaocteți?",
+      "options": [
+        "1 gigaoctet",
+        "1 Terabyte",
+        "1 Kilobyte",
+        "1 bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce unitate este folosită pentru măsurarea hard diskurilor foarte mari astăzi?",
+      "options": [
+        "Bit",
+        "Octet",
+        "Megaoctet",
+        "Terabyte"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Informația”?",
+      "options": [
+        "Zgomot aleatoriu",
+        "Date prelucrate și semnificative",
+        "Numai numere",
+        "Un ecran de computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este o modalitate digitală de stocare a datelor?",
+      "options": [
+        "Caiet",
+        "Hard Drive",
+        "Memorie",
+        "Creion"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este folosită o parolă?",
+      "options": [
+        "Accelerarea computerului",
+        "Protecția datelor",
+        "Jucând jocuri",
+        "Tastând mai repede"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă puternică?",
+      "options": [
+        "1234",
+        "parola",
+        "Un amestec de litere, cifre și simboluri",
+        "numele tău"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care NU este un dispozitiv de stocare?",
+      "options": [
+        "Unitate flash USB",
+        "Stocare în cloud",
+        "CPU",
+        "Hard Disk"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „digital” în informatică?",
+      "options": [
+        "Folosind degetele pentru a tasta",
+        "Reprezentat prin numere (0 și 1)",
+        "Folosind doar culori",
+        "Semnale analogice"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde sunt stocate permanent datele?",
+      "options": [
+        "RAM",
+        "Monitor",
+        "Hard Drive",
+        "Șoarece"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „Bit”?",
+      "options": [
+        "Un octet mic",
+        "Cifră binară (0 sau 1)",
+        "O bucată de șoarece",
+        "Un joc pe calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul principal al copiei de rezervă a datelor?",
+      "options": [
+        "Pentru a face computerul mai rapid",
+        "Pentru a salva datele în caz de pierdere",
+        "Pentru a schimba tapetul",
+        "Pentru a instala jocuri noi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cea mai mare unitate de aici?",
+      "options": [
+        "GB",
+        "MB",
+        "KB",
+        "Octet"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „stocare în cloud”?",
+      "options": [
+        "Stocarea datelor pe Lună",
+        "Stocarea datelor pe servere la distanță prin internet",
+        "Stocarea datelor în ploaie",
+        "Un tip de tastatură"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt datele „Intrare”?",
+      "options": [
+        "Date afișate pe ecran",
+        "Datele introduse în computer",
+        "Date trimise la imprimantă",
+        "Datele care sunt șterse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt datele „Ieșire”?",
+      "options": [
+        "Date introduse cu mouse-ul",
+        "Date pe care computerul le arată sau le dă",
+        "Date stocate în RAM",
+        "Date într-un folder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „bază de date”?",
+      "options": [
+        "O colecție de date organizate",
+        "Un tip de monitor",
+        "O carcasă de calculator",
+        "Un cablu de alimentare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce simbol este folosit în mod obișnuit în adresele de e-mail?",
+      "options": [
+        "#",
+        "$",
+        "@",
+        "&"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Confidențialitate”?",
+      "options": [
+        "Distribuie totul online",
+        "Protejarea informațiilor dumneavoastră personale",
+        "Folosind un computer public",
+        "Descărcarea muzicii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Criptarea”?",
+      "options": [
+        "Ștergerea fișierelor",
+        "Amestecarea datelor pentru a le păstra secret",
+        "Imprimarea unui document",
+        "Denumirea unui folder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea sunt date text?",
+      "options": [
+        "O fotografie",
+        "Un cântec",
+        "O scrisoare către un prieten",
+        "Un videoclip"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Datele sunt informații pe care un computer le poate procesa."
+    },
+    {
+      "type": "typing",
+      "text": "Opt biți formează un octet."
+    },
+    {
+      "type": "typing",
+      "text": "O parolă puternică vă protejează contul."
+    },
+    {
+      "type": "typing",
+      "text": "Faceți întotdeauna copii de rezervă ale fișierelor importante."
+    },
+    {
+      "type": "typing",
+      "text": "Un gigaoctet este mai mare decât un megaoctet."
+    },
+    {
+      "type": "typing",
+      "text": "Calculatoarele folosesc numere binare: zero și unu."
+    },
+    {
+      "type": "typing",
+      "text": "Hard disk-ul stochează datele dvs. permanent."
+    },
+    {
+      "type": "typing",
+      "text": "Nu împărtășiți niciodată parola cu străinii."
+    },
+    {
+      "type": "typing",
+      "text": "Datele digitale pot fi ușor copiate și partajate."
+    },
+    {
+      "type": "typing",
+      "text": "Informațiile sunt date care au sens."
+    }
+  ]
+}

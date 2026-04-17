@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Algorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Tier",
+                                      "Eine eindeutige Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+                                      "Ein Computerbauteil",
+                                      "Ein Passwort"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Alltagsbeispiel ist ein Algorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Lied hören",
+                                      "Ein Kochrezept",
+                                      "Ein Bild malen",
+                                      "Schlafen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was muss ein guter Algorithmus sein?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Schön",
+                                      "Eindeutig und ausführbar",
+                                      "Geheim",
+                                      "Teuer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Bedingung\u0027 (Falls-Dann)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Regel zum Schlafen",
+                                      "Eine Entscheidungshilfe: Wenn etwas wahr ist, tue dies",
+                                      "Eine Kaputte Maus",
+                                      "Ein Monitor-Typ"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Schleife (Wiederholung)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Knoten",
+                                      "Ein Vorgang, der mehrfach wiederholt wird",
+                                      "Ein kaputtes Kabel",
+                                      "Ein Bild"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum nutzen Computer Algorithmen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Weil sie Hunger haben",
+                                      "Um Aufgaben effizient und präzise zu lösen",
+                                      "Nur zum Spielen",
+                                      "Um Strom zu sparen"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Was ist ein Programm?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Algorithmus, der in eine Computersprache übersetzt wurde",
+                                      "Ein Monitor",
+                                      "Ein Spielzeug",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Welcher Algorithmus hilft beim Zähneputzen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Wasser an, Bürste nass, Putzen, Spülen",
+                                      "Laufen gehen",
+                                      "Singen",
+                                      "Schlafen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Flussdiagramm?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Bild von einem Fluss",
+                                      "Eine grafische Darstellung eines Algorithmus",
+                                      "Ein Spiel",
+                                      "Ein Video"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Eingabe\u0027 bei einem Algorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Ergebnis",
+                                      "Die Informationen, die man am Anfang braucht",
+                                      "Das Löschen von Daten",
+                                      "Der Stromanschluss"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist die \u0027Ausgabe\u0027 eines Algorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Der Anfang",
+                                      "Das Ergebnis oder die Lösung",
+                                      "Ein Fehler",
+                                      "Das Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert, wenn ein Schritt im Algorithmus fehlt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nichts",
+                                      "Das Ziel wird wahrscheinlich nicht oder falsch erreicht",
+                                      "Der Computer explodiert",
+                                      "Es wird schneller"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man das Finden von Fehlern in einem Algorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Suchen",
+                                      "Debugging",
+                                      "Malen",
+                                      "Drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Symbol im Flussdiagramm steht meist für eine Entscheidung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rechteck",
+                                      "Raute",
+                                      "Kreis",
+                                      "Linie"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Ein Algorithmus muss \u0027endlich\u0027 sein. Was bedeutet das?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Er darf nie aufhören",
+                                      "Er muss nach einer begrenzten Anzahl von Schritten enden",
+                                      "Er muss sehr groß sein",
+                                      "Er muss alt sein"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Sortieralgorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Programm zum Malen",
+                                      "Eine Anleitung, um Dinge in eine Reihenfolge zu bringen",
+                                      "Ein Spiel",
+                                      "Ein Browser"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Zerlegung\u0027 (Decomposition)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Etwas kaputt machen",
+                                      "Ein großes Problem in kleinere Teilprobleme zerlegen",
+                                      "Müll trennen",
+                                      "Daten löschen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Abstraktion\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Bunt malen",
+                                      "Sich auf das Wesentliche konzentrieren und Unwichtiges weglassen",
+                                      "Viel Text schreiben",
+                                      "Singen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo finden wir Algorithmen in der Natur?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In den Wellen",
+                                      "In der Bauanleitung von Bienenwaben",
+                                      "Im Wind",
+                                      "Gibt es nicht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Symbol im Flussdiagramm steht für Start/Ende?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rechteck",
+                                      "Oval / Abgerundetes Rechteck",
+                                      "Dreieck",
+                                      "Pfeil"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Endlosschleife?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein schöner Kreis",
+                                      "Ein Fehler, bei dem eine Wiederholung nie aufhört",
+                                      "Ein langes Kabel",
+                                      "Ein Video"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Können Menschen auch Algorithmen ausführen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein",
+                                      "Ja, z.B. beim Aufbau eines LEGO-Modells",
+                                      "Nur im Schlaf",
+                                      "Nur Informatiker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sind Algorithmen wichtig für die Programmierung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Sie sind bunt",
+                                      "Sie bilden die logische Grundlage für jedes Programm",
+                                      "Sie brauchen keinen Strom",
+                                      "Sie sind geheim"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Suchalgorithmus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Programm zum Verstecken",
+                                      "Eine Anleitung zum Finden von Daten",
+                                      "Ein Monitor-Test",
+                                      "Ein Virus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Pseudocode?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein geheimer Code",
+                                      "Eine Mischung aus menschlicher Sprache und Programmierlogik",
+                                      "Ein falsches Passwort",
+                                      "Ein Spiel"
+                                  ]
+                  },
+                  {
+                      "text":  "Ein Algorithmus ist eine genaue Vorschrift zur Lösung einer Aufgabe.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Auch ein Kochrezept ist im Grunde ein Algorithmus.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Computer führen Algorithmen sehr schnell und ohne Fehler aus.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Bedingungen helfen dabei, Entscheidungen in Programmen zu treffen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wiederholungen sparen Zeit und vermeiden doppelte Arbeit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Flussdiagramm macht die Logik eines Ablaufs sichtbar.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Debugging ist der Prozess, Fehler in einer Anleitung zu finden.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Gute Algorithmen sind klar, eindeutig und haben ein Ende.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Wir nutzen Algorithmen täglich, oft ohne es zu merken.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Das Zerlegen von Problemen macht schwierige Aufgaben einfacher.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Algorithmen im Alltag"
+}

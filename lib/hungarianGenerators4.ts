@@ -41,7 +41,7 @@ function createMCQ(
 const VERBS_INFINITIVE = [
   "játszani", "futni", "olvasni", "írni", "rajzolni", "énekleni", "táncolni",
   "rajzolni", "kérni", "adni", "venni", "mondani", "hallani", "látni", "szokni",
-  "szülni", "készíteni", "vallanì", "szeretni", "félteni", "kenyérkazni",
+  "szülni", "készíteni", "vallani", "szeretni", "félteni", "tanítani",
 ];
 
 const PRONOUNS_PERSONAL = [
@@ -319,8 +319,8 @@ export const mellerendelés = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
   const coords = ["és", "vagy", "de", "illetve"];
   const sentences = [
-    { s1: "Péter szereti az Apple", s2: "Márta szereti az sárga", conj: "és" },
-    { s1: "Tudod-e, hogy esik az eső", s2: "Elmész sétálni", conj: "vagy" },
+    { s1: "Péter szeret focizni", s2: "Márta szeret olvasni", conj: "és" },
+    { s1: "Esik az eső", s2: "Elmész sétálni", conj: "vagy" },
     { s1: "Szép az idő", s2: "Hideg van", conj: "de" },
   ];
 
@@ -384,7 +384,7 @@ export const szoalkotás_kepzes = (): CurriculumMCQ[] => {
         "kepzes",
         `Mi az új szó? "${form.base}" + "${form.suffix}" = ___`,
         form.derived,
-        ["szépet", "szépően", "szépre"]
+        ["szépet", "írót", "rajzos"]
       )
     );
   }
@@ -444,10 +444,10 @@ export const szoalkotás_jelezés = (): CurriculumMCQ[] => {
 export const helyesiras_igekoveto = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
   const particles = [
-    { verb: "meg", example: "megállni", correct: "meg van írva" },
-    { verb: "el", example: "elmenni", correct: "el van írva" },
-    { verb: "ki", example: "kijönni", correct: "ki van írva" },
-    { verb: "be", example: "belépni", correct: "be van írva" },
+    { verb: "meg", example: "megállni", correct: "egybeírva az igével" },
+    { verb: "el", example: "elmenni", correct: "egybeírva az igével" },
+    { verb: "ki", example: "kijönni", correct: "egybeírva az igével" },
+    { verb: "be", example: "belépni", correct: "egybeírva az igével" },
   ];
 
   for (const part of particles) {
@@ -455,9 +455,9 @@ export const helyesiras_igekoveto = (): CurriculumMCQ[] => {
       createMCQ(
         "helyesiras",
         "igekoveto",
-        `Igekötő: "___ ${part.example}" - helyesen?`,
+        `Az igekötő (${part.verb}-) a(z) "${part.example}" szóban hogyan írható?`,
         part.correct,
-        ["van nyújtva", "van rövidítve", "nincs írásjel"]
+        ["külön az igétől", "kötőjellel", "nagybetűvel"]
       )
     );
   }
@@ -492,9 +492,9 @@ export const helyesiras_kuloniro = (): CurriculumMCQ[] => {
 export const fogalmazas_erveles = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
   const claimsReasons = [
-    { claim: "A sport fontos", reason: "egészségből" },
-    { claim: "Az olvasás jó", reason: "képzeltségből" },
-    { claim: "Az iskola szükséges", reason: "tanulásból" },
+    { claim: "A sport fontos", reason: "mert egészséges maradhatunk tőle" },
+    { claim: "Az olvasás jó", reason: "mert fejleszti a képzelőerőt" },
+    { claim: "Az iskola szükséges", reason: "mert ott tanulunk meg írni és olvasni" },
   ];
 
   for (const arg of claimsReasons) {
@@ -504,7 +504,7 @@ export const fogalmazas_erveles = (): CurriculumMCQ[] => {
         "erveles",
         `Melyik az érv? "${arg.claim}" - miért? ___`,
         arg.reason,
-        ["másért", "semmiért", "játékért"]
+        ["mert unalmas", "mert kötelező", "mert mindenki csinálja"]
       )
     );
   }
@@ -524,7 +524,7 @@ export const fogalmazas_level = (): CurriculumMCQ[] => {
         "level",
         `Levél kezdete: ___`,
         greeting,
-        ["Halló!", "Szia!", "Csóka!"]
+        ["Halló!", "Szia!", "Hé te!"]
       )
     );
   }
@@ -683,7 +683,7 @@ export const nevmas_visszaható = (): CurriculumMCQ[] => {
     { pron: "magad", person: "te", meaning: "yourself" },
     { pron: "maga", person: "ő", meaning: "himself/herself" },
     { pron: "magunk", person: "mi", meaning: "ourselves" },
-    { pron: "magatuk", person: "ti", meaning: "yourselves" },
+    { pron: "magatokat", person: "ti", meaning: "yourselves" },
     { pron: "magukat", person: "ők", meaning: "themselves" },
   ];
 
@@ -704,9 +704,9 @@ export const nevmas_visszaható = (): CurriculumMCQ[] => {
     createMCQ(
       "nevmas",
       "visszaható",
-      `Helyes: "Én ___ játszom" (magam)`,
-      "magammal",
-      ["magamnak", "magam", "magunkal"]
+      `Helyes: "Én egyedül, ___ játszom" (visszaható névmás)`,
+      "magamban",
+      ["magamnak", "magam", "magammal"]
     )
   );
 
@@ -761,9 +761,9 @@ export const hatarozo_cel = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
   const purposes = [
     { sent: "Az iskolába ___ megy", correct: "tanulni", purpose: "to study" },
-    { sent: "A boltba ___ megy", correct: "sütni való lisztet venni", purpose: "to buy flour" },
-    { sent: "Futok ___ erősödni", correct: "azért hogy", purpose: "in order to get strong" },
-    { sent: "Olvasok ___ ismereteket szerezni", correct: "azért hogy", purpose: "to gain knowledge" },
+    { sent: "A boltba ___ megy", correct: "kenyeret venni", purpose: "to buy bread" },
+    { sent: "Futok, ___ erősödjek", correct: "azért hogy", purpose: "in order to get strong" },
+    { sent: "Olvasok, ___ többet tudjak", correct: "azért hogy", purpose: "to gain knowledge" },
   ];
 
   for (const p of purposes) {
@@ -795,10 +795,10 @@ export const hatarozo_cel = (): CurriculumMCQ[] => {
 export const hatarozo_ok = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
   const causes = [
-    { sent: "___ siettem, mert késő volt", correct: "ezért", reason: "because" },
-    { sent: "___ nem jött el, mert beteg volt", correct: "nem", reason: "because ill" },
-    { sent: "___ játszunk, ___ szép az idő", correct: "mert", reason: "because nice weather" },
-    { sent: "___ otthon maradtam, ___ fájt a fejem", correct: "mert", reason: "because headache" },
+    { sent: "Siettem, ___ késő volt", correct: "mert", reason: "because" },
+    { sent: "Nem jött el, ___ beteg volt", correct: "mert", reason: "because ill" },
+    { sent: "Kint játszunk, ___ szép az idő", correct: "mert", reason: "because nice weather" },
+    { sent: "Otthon maradtam, ___ fájt a fejem", correct: "mert", reason: "because headache" },
   ];
 
   for (const c of causes) {
@@ -854,9 +854,9 @@ export const szoalkot_igekötő_haladó = (): CurriculumMCQ[] => {
     createMCQ(
       "szoalkot",
       "igekötő_haladó",
-      `"A gyerek ___ játszott" (össze-, szét-, félre-)`,
-      "össze",
-      ["szét", "félre", "hozzá"]
+      `"A gyerek összejátszott a barátjával." – Melyik igekötő szerepel ebben?`,
+      "össze-",
+      ["szét-", "félre-", "hozzá-"]
     )
   );
 
@@ -870,7 +870,7 @@ export const helyesiras_vesszőhasználat = (): CurriculumMCQ[] => {
     { sent: "Péter és János játszik", correct: "Péter és János játszik", hasComma: false },
     { sent: "Ha szép az idő játszunk", correct: "Ha szép az idő, játszunk", hasComma: true },
     { sent: "Tudom hogy szeretsz olvasni", correct: "Tudom, hogy szeretsz olvasni", hasComma: true },
-    { sent: "A parkban játsz mivel szeretem", correct: "A parkban játszol, mivel szeretlek", hasComma: true },
+    { sent: "A parkban játszol mivel szép az idő", correct: "A parkban játszol, mivel szép az idő", hasComma: true },
   ];
 
   for (const rule of commaRules) {
@@ -907,7 +907,7 @@ export const fogalmazas_napló = (): CurriculumMCQ[] => {
   const questions: CurriculumMCQ[] = [];
   const diaryStructures = [
     { part: "dátum", example: "2024. március 15.", meaning: "date" },
-    { part: "üdvözlés", example: "Kedves napló!", meaning: "greeting" },
+    { part: "megszólítás", example: "Kedves napló!", meaning: "greeting" },
     { part: "történet", example: "Ma iskolába mentem...", meaning: "story" },
     { part: "érzelmek", example: "Nagyon szomorú vagyok.", meaning: "feelings" },
   ];
@@ -975,7 +975,7 @@ export const nyelvtan_szószerkezet = (): CurriculumMCQ[] => {
       "szószerkezet",
       `"Gyorsan futunk az iskolába" - mely szószerkezet:`,
       "határozó",
-      ["alany", "tárgy", "jelzet"]
+      ["alany", "tárgy", "jelző"]
     )
   );
 
@@ -983,7 +983,7 @@ export const nyelvtan_szószerkezet = (): CurriculumMCQ[] => {
     createMCQ(
       "nyelvtan",
       "szószerkezet",
-      `"Az okos gyerek tisztán beszél" - a jelzet:`,
+      `"Az okos gyerek tisztán beszél" - a jelző:`,
       "okos",
       ["gyerek", "tisztán", "az"]
     )

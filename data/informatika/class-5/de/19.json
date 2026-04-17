@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Suchtechniken",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist eine beliebte Internetsuchmaschine?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Taschenrechner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Stichwort' (Keyword) bei der Suche?",
+      "options": [
+        "Ein Geheimcode",
+        "Das wichtigste Wort, nach dem wir suchen",
+        "Der Name des Computers",
+        "Eine Taste auf der Tastatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Satzzeichen hilft, nach einem genauen Ausdruck zu suchen?",
+      "options": [
+        "Fragezeichen (?)",
+        "Anführungszeichen (\"\")",
+        "Ausrufezeichen (!)",
+        "Doppelpunkt (:)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kannst du die Suche auf Bilder einschränken?",
+      "options": [
+        "Den Monitor ausschalten",
+        "Auf den Reiter 'Bilder' in der Suchmaschine klicken",
+        "Die Tastatur schütteln",
+        "Das geht nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht das Minuszeichen (-) vor einem Wort in der Suche?",
+      "options": [
+        "Zieht Zahlen ab",
+        "Schließt Seiten aus, die dieses Wort enthalten",
+        "Hebt das Wort hervor",
+        "Macht gar nichts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das beste Stichwort, wenn du Infos über Burgen in Deutschland suchst?",
+      "options": [
+        "Burgen",
+        "Alte Häuser",
+        "Burgen in Deutschland",
+        "Wo sind die Burgen?"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'SafeSearch' (Sichere Suche)?",
+      "options": [
+        "Schnelleres Internet",
+        "Filtert ungeeignete Inhalte für Kinder heraus",
+        "Speichert Passwörter",
+        "Löscht den Verlauf"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie suchst du nach einem bestimmten Dateityp (z.B. PDF)?",
+      "options": [
+        "'pdf' eingeben",
+        "Den Befehl 'filetype:pdf' nutzen",
+        "Auf das Druckersymbol klicken",
+        "Ein Programm herunterladen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was solltest du tun, wenn du zu viele Ergebnisse erhältst?",
+      "options": [
+        "Die Suche abbrechen",
+        "Mehr und genauere Stichwörter verwenden",
+        "Eine Stunde warten",
+        "Den Computer neu starten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Website-Endung weist oft auf Bildungseinrichtungen hin?",
+      "options": [
+        ".com",
+        ".de",
+        ".edu",
+        ".net"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist ein Lesezeichen (Bookmark) im Browser gut?",
+      "options": [
+        "Als Lesezeichen für ein echtes Buch",
+        "Um die Adresse einer Website für später zu speichern",
+        "Damit der Akku nicht leer wird",
+        "Um die Schriftgröße zu erhöhen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Browserverlauf?",
+      "options": [
+        "Zukunftspläne",
+        "Eine Liste der früher besuchten Webseiten",
+        "Das Baujahr des Computers",
+        "Heruntergeladene Spiele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist KEIN Webbrowser?",
+      "options": [
+        "Chrome",
+        "Firefox",
+        "Excel",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kannst du eine Webseite aktualisieren?",
+      "options": [
+        "Mit der F5-Taste",
+        "Durch Ausschalten des Computers",
+        "Den Monitor abwischen",
+        "Mit der Maus oft klicken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine URL?",
+      "options": [
+        "Ein Spiel",
+        "Eine Webadresse",
+        "Ein Benutzername",
+        "Ein Virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo befindet sich normalerweise die Suchleiste?",
+      "options": [
+        "Am unteren Bildschirmrand",
+        "Oben oder in der Mitte des Browsers",
+        "Auf der Tastatur",
+        "Im Lautsprecher"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist der Button 'Auf gut Glück' (I'm Feeling Lucky)?",
+      "options": [
+        "Man gewinnt Geld",
+        "Führt direkt zum ersten Suchergebnis",
+        "Schaltet Werbung aus",
+        "Ändert die Hintergrundfarbe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn man auf der ersten Seite nichts findet?",
+      "options": [
+        "Weinen",
+        "Die Stichwörter anpassen",
+        "Einen neuen PC kaufen",
+        "Schlafen gehen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Suchmaschine ist sehr alt?",
+      "options": [
+        "Google",
+        "Altavista",
+        "Facebook",
+        "TikTok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Sprachsuche?",
+      "options": [
+        "Der PC spricht zu uns",
+        "Wir diktieren die Suchwörter",
+        "Musik spielt bei der Suche",
+        "Findet nur Videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn ein Suchergebnis verdächtig aussieht?",
+      "options": [
+        "Sofort anklicken",
+        "Nicht öffnen",
+        "Allen zeigen",
+        "Alle Dateien herunterladen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen wird als Platzhalter (Wildcard) bei Suchen genutzt?",
+      "options": [
+        "Sternchen (*)",
+        "At-Zeichen (@)",
+        "Dollarzeichen ($)",
+        "Schrägstrich (/)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Inkognito-Fenster?",
+      "options": [
+        "Macht uns im Zimmer unsichtbar",
+        "Speichert den Browserverlauf nicht",
+        "Macht das Internet schneller",
+        "Gibt Gratis-Spiele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Suche ist am genauesten?",
+      "options": [
+        "Hund",
+        "schwarzer Hund",
+        "schwarzer Deutscher Schäferhund",
+        "Tier"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Ergebnisse sollte man normalerweise prüfen?",
+      "options": [
+        "Nur das erste",
+        "Die ersten 3-5 Ergebnisse",
+        "Alle (Millionen)",
+        "Gar keine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Google ist die weltweit beliebteste Internet-Suchmaschine."
+    },
+    {
+      "type": "typing",
+      "text": "Stichwörter helfen dabei, die gesuchten Informationen zu finden."
+    },
+    {
+      "type": "typing",
+      "text": "Nutze Anführungszeichen für die Suche nach genauen Ausdrücken!"
+    },
+    {
+      "type": "typing",
+      "text": "Mit Filtern können wir die Ergebnisliste einschränken."
+    },
+    {
+      "type": "typing",
+      "text": "Prüfe immer die Glaubwürdigkeit deiner Quellen!"
+    },
+    {
+      "type": "typing",
+      "text": "Im Internet gibt es riesige Mengen an Daten."
+    },
+    {
+      "type": "typing",
+      "text": "Im Browser kannst du deine Lieblingsseiten speichern."
+    },
+    {
+      "type": "typing",
+      "text": "Die Verfeinerung der Suche spart uns viel Zeit."
+    },
+    {
+      "type": "typing",
+      "text": "Klicke nicht auf verdächtige Werbung während der Suche!"
+    },
+    {
+      "type": "typing",
+      "text": "Gezieltes Suchen ist eine wichtige digitale Fähigkeit."
+    }
+  ]
+}

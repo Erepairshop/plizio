@@ -9,8 +9,13 @@
       "question": "Wie viel ist 6 × 4?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [24, 28, 20, 32],
-      "correct": 0,
+      "options": [
+        28,
+        20,
+        24,
+        32
+      ],
+      "correct": 2,
       "explanation": "6 × 4 = 24"
     },
     {
@@ -18,8 +23,13 @@
       "question": "Wie viel ist 7 × 3?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [21, 24, 18, 27],
-      "correct": 0,
+      "options": [
+        27,
+        18,
+        21,
+        24
+      ],
+      "correct": 2,
       "explanation": "7 × 3 = 21"
     },
     {
@@ -27,8 +37,13 @@
       "question": "Wie viel ist 8 × 5?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [40, 45, 35, 50],
-      "correct": 0,
+      "options": [
+        45,
+        35,
+        50,
+        40
+      ],
+      "correct": 3,
       "explanation": "8 × 5 = 40"
     },
     {
@@ -36,8 +51,13 @@
       "question": "Wie viel ist 9 × 6?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [54, 48, 56, 63],
-      "correct": 0,
+      "options": [
+        48,
+        54,
+        63,
+        56
+      ],
+      "correct": 1,
       "explanation": "9 × 6 = 54"
     },
     {
@@ -45,8 +65,13 @@
       "question": "Wie viel ist 7 × 8?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [56, 54, 48, 63],
-      "correct": 0,
+      "options": [
+        48,
+        56,
+        54,
+        63
+      ],
+      "correct": 1,
       "explanation": "7 × 8 = 56"
     },
     {
@@ -54,8 +79,13 @@
       "question": "Wie viel ist 24 ÷ 6?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 5, 3, 6],
-      "correct": 0,
+      "options": [
+        3,
+        5,
+        6,
+        4
+      ],
+      "correct": 3,
       "explanation": "24 ÷ 6 = 4"
     },
     {
@@ -63,8 +93,13 @@
       "question": "Wie viel ist 35 ÷ 7?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 6, 4, 7],
-      "correct": 0,
+      "options": [
+        6,
+        5,
+        4,
+        7
+      ],
+      "correct": 1,
       "explanation": "35 ÷ 7 = 5"
     },
     {
@@ -72,7 +107,12 @@
       "question": "Wie viel ist 63 ÷ 9?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [7, 8, 6, 9],
+      "options": [
+        7,
+        9,
+        8,
+        6
+      ],
       "correct": 0,
       "explanation": "63 ÷ 9 = 7"
     },
@@ -81,16 +121,20 @@
       "question": "Wie viel ist 48 ÷ 8?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [6, 7, 5, 8],
-      "correct": 0,
+      "options": [
+        8,
+        7,
+        5,
+        6
+      ],
+      "correct": 3,
       "explanation": "48 ÷ 8 = 6"
     },
     {
       "id": "3-mul-010",
       "question": "Wie viel ist 72 ÷ 9?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [8, 7, 9, 6],
+      "type": "calculation",
       "correct": 0,
       "explanation": "72 ÷ 9 = 8"
     },
@@ -99,8 +143,13 @@
       "question": "_ × 5 = 30. Welche Zahl fehlt?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, 5, 7, 8],
-      "correct": 0,
+      "options": [
+        7,
+        5,
+        6,
+        8
+      ],
+      "correct": 2,
       "explanation": "6 × 5 = 30, also fehlt die 6"
     },
     {
@@ -108,8 +157,13 @@
       "question": "4 × _ = 28. Welche Zahl fehlt?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [7, 6, 8, 9],
-      "correct": 0,
+      "options": [
+        9,
+        6,
+        7,
+        8
+      ],
+      "correct": 2,
       "explanation": "4 × 7 = 28, also fehlt die 7"
     },
     {
@@ -117,7 +171,12 @@
       "question": "_ × 8 = 64. Welche Zahl fehlt?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 7, 9, 6],
+      "options": [
+        8,
+        9,
+        6,
+        7
+      ],
       "correct": 0,
       "explanation": "8 × 8 = 64, also fehlt die 8"
     },
@@ -125,8 +184,7 @@
       "id": "3-mul-014",
       "question": "_ × 7 = 42. Welche Zahl fehlt?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [6, 7, 5, 8],
+      "type": "calculation",
       "correct": 0,
       "explanation": "6 × 7 = 42, also fehlt die 6"
     },
@@ -135,8 +193,13 @@
       "question": "9 × _ = 81. Welche Zahl fehlt?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [9, 8, 7, 10],
-      "correct": 0,
+      "options": [
+        7,
+        9,
+        10,
+        8
+      ],
+      "correct": 1,
       "explanation": "9 × 9 = 81, also fehlt die 9"
     },
     {
@@ -144,7 +207,12 @@
       "question": "Wie viel ist 6 × 7?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [42, 48, 36, 56],
+      "options": [
+        42,
+        48,
+        56,
+        36
+      ],
       "correct": 0,
       "explanation": "6 × 7 = 42"
     },
@@ -153,8 +221,13 @@
       "question": "Wie viel ist 8 × 4?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [32, 28, 36, 24],
-      "correct": 0,
+      "options": [
+        28,
+        24,
+        36,
+        32
+      ],
+      "correct": 3,
       "explanation": "8 × 4 = 32"
     },
     {
@@ -162,7 +235,12 @@
       "question": "Wie viel ist 9 × 3?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [27, 24, 30, 21],
+      "options": [
+        27,
+        30,
+        21,
+        24
+      ],
       "correct": 0,
       "explanation": "9 × 3 = 27"
     },
@@ -171,8 +249,13 @@
       "question": "Wie viel ist 7 × 6?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [42, 36, 48, 35],
-      "correct": 0,
+      "options": [
+        36,
+        42,
+        35,
+        48
+      ],
+      "correct": 1,
       "explanation": "7 × 6 = 42"
     },
     {
@@ -180,8 +263,13 @@
       "question": "Wie viel ist 9 × 7?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [63, 56, 72, 54],
-      "correct": 0,
+      "options": [
+        54,
+        56,
+        63,
+        72
+      ],
+      "correct": 2,
       "explanation": "9 × 7 = 63"
     },
     {
@@ -189,8 +277,13 @@
       "question": "Wie viel ist 56 ÷ 7?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 7, 9, 6],
-      "correct": 0,
+      "options": [
+        9,
+        8,
+        6,
+        7
+      ],
+      "correct": 1,
       "explanation": "56 ÷ 7 = 8"
     },
     {
@@ -198,7 +291,12 @@
       "question": "Wie viel ist 32 ÷ 4?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 7, 9, 6],
+      "options": [
+        8,
+        6,
+        7,
+        9
+      ],
       "correct": 0,
       "explanation": "32 ÷ 4 = 8"
     },
@@ -207,8 +305,13 @@
       "question": "Wie viel ist 27 ÷ 3?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [9, 8, 10, 7],
-      "correct": 0,
+      "options": [
+        7,
+        10,
+        8,
+        9
+      ],
+      "correct": 3,
       "explanation": "27 ÷ 3 = 9"
     },
     {
@@ -216,8 +319,13 @@
       "question": "Wie viel ist 42 ÷ 6?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [7, 6, 8, 5],
-      "correct": 0,
+      "options": [
+        8,
+        7,
+        5,
+        6
+      ],
+      "correct": 1,
       "explanation": "42 ÷ 6 = 7"
     },
     {
@@ -225,8 +333,13 @@
       "question": "_ × 9 = 54. Welche Zahl fehlt?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [6, 5, 7, 8],
-      "correct": 0,
+      "options": [
+        8,
+        6,
+        7,
+        5
+      ],
+      "correct": 1,
       "explanation": "6 × 9 = 54, also fehlt die 6"
     },
     {
@@ -234,16 +347,20 @@
       "question": "3 × _ = 24. Welche Zahl fehlt?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 7, 9, 6],
-      "correct": 0,
+      "options": [
+        9,
+        7,
+        8,
+        6
+      ],
+      "correct": 2,
       "explanation": "3 × 8 = 24, also fehlt die 8"
     },
     {
       "id": "3-mul-027",
       "question": "_ × 4 = 36. Welche Zahl fehlt?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [9, 8, 7, 10],
+      "type": "calculation",
       "correct": 0,
       "explanation": "9 × 4 = 36, also fehlt die 9"
     },
@@ -251,8 +368,7 @@
       "id": "3-mul-028",
       "question": "Wie viel ist 8 × 8?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [64, 56, 72, 48],
+      "type": "calculation",
       "correct": 0,
       "explanation": "8 × 8 = 64"
     },
@@ -260,9 +376,8 @@
       "id": "3-mul-029",
       "question": "Wie viel ist 7 × 7?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [49, 42, 56, 63],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "7 × 7 = 49"
     },
     {
@@ -270,8 +385,13 @@
       "question": "_ ÷ 6 = 7. Welche Zahl fehlt?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [42, 36, 48, 54],
-      "correct": 0,
+      "options": [
+        54,
+        48,
+        36,
+        42
+      ],
+      "correct": 3,
       "explanation": "42 ÷ 6 = 7, also fehlt die 42"
     }
   ]

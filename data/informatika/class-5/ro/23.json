@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Corespondență electronică",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este un e-mail?",
+      "options": [
+        "Un tren rapid",
+        "Poștă electronică",
+        "Un joc pe internet",
+        "Un limbaj de programare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un format corect de adresă de e-mail?",
+      "options": [
+        "numepilda.gmail.com",
+        "exemplu@gmail.com",
+        "exemplu#gmail.com",
+        "www.exemplu.com"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă câmpul 'Subiect' (Subject)?",
+      "options": [
+        "Materia școlară",
+        "Scurtul conținut sau titlul scrisorii",
+        "Numele celui care scrie scrisoarea",
+        "Ora trimiterii scrisorii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește 'Atașamentul' (Attachment)?",
+      "options": [
+        "Pentru decorare",
+        "Trimiterea de fișiere (imagini, documente) împreună cu scrisoarea",
+        "Ștergerea scrisorii",
+        "Ascunderea parolei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'CC' (Copie)?",
+      "options": [
+        "Doar pentru nume care încep cu C",
+        "Trimite o copie cuiva pe care vrem să îl informăm",
+        "Corespondență secretă",
+        "Ștergerea scrisorii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'BCC' (Copie oarbă)?",
+      "options": [
+        "Scrisoare foarte importantă",
+        "O copie unde ceilalți destinatari nu văd cine a mai primit-o",
+        "Doar pentru prieteni",
+        "Doar pentru copii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce buton putem răspunde la scrisoare?",
+      "options": [
+        "Delete",
+        "Reply (Răspunde)",
+        "Forward (Redirecționează)",
+        "Spam"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Pentru ce este butonul 'Forward' (Redirecționează)?",
+      "options": [
+        "Trimiterea unui răspuns",
+        "Trimitem scrisoarea primită altcuiva",
+        "Imprimarea scrisorii",
+        "Salvarea scrisorii"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde găsim scrisorile primite?",
+      "options": [
+        "Dosarul Sent (Trimise)",
+        "Dosarul Inbox (Primite)",
+        "Dosarul Trash (Coș)",
+        "Dosarul Drafts (Ciorne)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde sunt stocate scrisorile neterminate, neexpediate?",
+      "options": [
+        "Sent",
+        "Drafts (Ciorne)",
+        "Spam",
+        "Inbox"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să facem dacă primim o scrisoare suspectă de la un expeditor necunoscut?",
+      "options": [
+        "O deschidem imediat",
+        "Descărcăm atașamentul",
+        "O ștergem fără să o deschidem sau o raportăm ca spam",
+        "Îi răspundem politicos"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este semnătura de la sfârșitul e-mailului?",
+      "options": [
+        "Un nume scris de mână scanat",
+        "Un text setat dinainte cu numele și datele noastre",
+        "Un desen",
+        "Parola noastră"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "E voie să trimitem fișiere prea mari în atașament?",
+      "options": [
+        "Da, de orice mărime",
+        "Nu, pentru că se poate umple căsuța poștală a destinatarului sau nu se trimite scrisoarea",
+        "Doar dacă e video",
+        "Doar noaptea"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce este importantă formula de salut de la începutul scrisorii?",
+      "options": [
+        "Ca să fie mai lungă",
+        "Pentru că face parte din politețea de bază",
+        "Ca să știm cine a trimis-o",
+        "Nu este importantă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea NU este un serviciu de e-mail gratuit?",
+      "options": [
+        "Gmail",
+        "Outlook",
+        "Minecraft",
+        "Yahoo"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă semnul '@' (at)?",
+      "options": [
+        "Un animal",
+        "Elementul de separare obligatoriu al unei adrese de e-mail",
+        "O operație matematică",
+        "O paranteză"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum încheiem politicos scrisoarea?",
+      "options": [
+        "Pa!",
+        "Cu stimă / Cu respect",
+        "Atât a fost",
+        "Gata"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "De ce merită completat câmpul 'Subiect'?",
+      "options": [
+        "Ca să fie mai frumoasă scrisoarea",
+        "Ajută destinatarul să știe despre ce este vorba în scrisoare",
+        "Ca să nu fie gol",
+        "Deoarece calculatorul nu o lasă să fie trimisă fără el"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă 'Reply All' (Răspuns tuturor)?",
+      "options": [
+        "Trimitem un răspuns tuturor cunoscuților",
+        "Răspundem tuturor celor care au fost în corespondența originală",
+        "Răspundem doar expeditorului",
+        "Ștergem toate scrisorile"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este dosarul spam?",
+      "options": [
+        "Unde ajung scrisorile importante",
+        "Locul de colectare a mesajelor publicitare nesolicitate",
+        "Locul ciornelor",
+        "Locul scrisorilor trimise"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "La ce servește căutarea în e-mail?",
+      "options": [
+        "Găsirea de noi prieteni",
+        "Găsirea scrisorilor mai vechi pe baza cuvintelor-cheie",
+        "Căutarea pe internet",
+        "Găsirea de jocuri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Se poate primi un virus prin e-mail?",
+      "options": [
+        "Nu, doar pe site-uri web",
+        "Da, în special prin atașamente suspecte",
+        "Doar dacă răspundem",
+        "Doar dacă nu avem parolă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum poți trimite o scrisoare mai multor persoane deodată?",
+      "options": [
+        "O scrii individual fiecăruia",
+        "Scrii toate adresele la destinatari",
+        "Țipi la monitor",
+        "Nu se poate face așa ceva"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă contul de e-mail?",
+      "options": [
+        "Un sertar real în birou",
+        "Un spațiu de stocare pe internet unde sunt păstrate scrisorile noastre",
+        "Un joc pe calculator",
+        "Un tip de tastatură"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce să faci dacă ți-ai uitat parola?",
+      "options": [
+        "Cumperi un calculator nou",
+        "Folosești funcția 'reamintire parolă' sau 'parolă uitată'",
+        "Începi să plângi",
+        "Lași totul baltă"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "E-mailul este prescurtarea pentru poșta electronică."
+    },
+    {
+      "type": "typing",
+      "text": "Scrie întotdeauna un subiect scurt și la obiect scrisorii tale!"
+    },
+    {
+      "type": "typing",
+      "text": "Cu ajutorul atașamentelor putem trimite fișiere."
+    },
+    {
+      "type": "typing",
+      "text": "În adresa de e-mail trebuie să existe întotdeauna semnul at."
+    },
+    {
+      "type": "typing",
+      "text": "Nu deschide niciodată atașamente suspecte de la străini!"
+    },
+    {
+      "type": "typing",
+      "text": "Folosește o încheiere politicoasă la sfârșitul scrisorilor oficiale!"
+    },
+    {
+      "type": "typing",
+      "text": "Găsești scrisorile primite în dosarul Inbox."
+    },
+    {
+      "type": "typing",
+      "text": "Poți salva scrisorile neterminate printre ciorne."
+    },
+    {
+      "type": "typing",
+      "text": "Nu trimite imagini de dimensiuni prea mari prin e-mail!"
+    },
+    {
+      "type": "typing",
+      "text": "Corespondența electronică este rapidă și eficientă."
+    }
+  ]
+}

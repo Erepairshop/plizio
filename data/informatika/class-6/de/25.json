@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Urheberrecht und Lizenzen",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was schützt das Urheberrecht?",
+      "options": [
+        "Nur Hardware",
+        "Persönliche geistige Schöpfungen (z.B. Texte, Bilder, Musik)",
+        "Nur das Internet",
+        "Nichts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ab wann ist ein Werk geschützt?",
+      "options": [
+        "Nach der Anmeldung beim Amt",
+        "Automatisch mit der Erstellung",
+        "Erst nach dem Tod des Urhebers",
+        "Nur mit dem ©-Symbol"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man fremde Bilder einfach für die eigene Webseite nutzen?",
+      "options": [
+        "Ja, ist im Internet",
+        "Nein, man braucht die Erlaubnis des Urhebers",
+        "Nur wenn sie klein sind",
+        "Nur wenn man sie nicht verkauft"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Creative Commons' (CC)?",
+      "options": [
+        "Ein Computer-Club",
+        "Standardisierte Lizenzen zur Freigabe von Werken",
+        "Ein Malprogramm",
+        "Ein soziales Netzwerk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet das Kürzel 'BY' in einer CC-Lizenz?",
+      "options": [
+        "Kauf mich",
+        "Namensnennung des Urhebers erforderlich",
+        "Nicht kommerziell",
+        "Keine Änderungen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'NC' in einer Lizenz?",
+      "options": [
+        "No Code",
+        "Nicht-kommerziell (kein Geld damit verdienen)",
+        "Neue Version erlaubt",
+        "Nur Computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'ND' (No Derivatives)?",
+      "options": [
+        "Keine Änderungen am Werk erlaubt",
+        "Keine Downloads",
+        "Nur für Deutschland",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Gemeinfreiheit' (Public Domain)?",
+      "options": [
+        "Geheime Werke",
+        "Werke, bei denen das Urheberrecht abgelaufen ist oder die frei sind",
+        "Werke der Regierung",
+        "Kostenpflichtige Werke"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie lange gilt das Urheberrecht in Deutschland meistens?",
+      "options": [
+        "10 Jahre",
+        "Bis 70 Jahre nach dem Tod des Urhebers",
+        "Für immer",
+        "50 Jahre nach Erstellung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Raubkopie'?",
+      "options": [
+        "Ein Bild von einem Piraten",
+        "Eine illegal erstellte Kopie eines geschützten Werks",
+        "Eine Kopie für Freunde",
+        "Eine Sicherheitskopie"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Musik von YouTube einfach als MP3 speichern?",
+      "options": [
+        "Ja, ist erlaubt",
+        "Meistens verstößt es gegen die Nutzungsbedingungen",
+        "Nur wenn man sie leise hört",
+        "Nur bei Klassik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'Recht am eigenen Bild'?",
+      "options": [
+        "Man darf alles fotografieren",
+        "Personen müssen zustimmen, bevor Fotos von ihnen veröffentlicht werden",
+        "Bilder gehören dem Kamerahersteller",
+        "Gibt es nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Plagiat'?",
+      "options": [
+        "Eine Krankheit",
+        "Ausgeben fremder geistiger Leistungen als eigene",
+        "Ein neues Programm",
+        "Ein spezielles Papier"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man für die Schule Bilder aus dem Internet in ein Referat einbauen?",
+      "options": [
+        "Ja (Schrankenregelung für Bildung), aber Quellen nennen",
+        "Nein, niemals",
+        "Nur wenn der Lehrer es erlaubt",
+        "Nur Schwarz-Weiß-Bilder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Open Source' Software?",
+      "options": [
+        "Geheime Software",
+        "Software, deren Quellcode frei einsehbar und änderbar ist",
+        "Software ohne Fenster",
+        "Kostenlose Demo-Software"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'SA' (Share Alike) in CC-Lizenzen?",
+      "options": [
+        "Weitergabe unter gleichen Bedingungen",
+        "Nur für Freunde",
+        "Speichern erlaubt",
+        "Immer ausdrucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Software-Lizenz'?",
+      "options": [
+        "Ein Führerschein",
+        "Nutzungsvertrag zwischen Entwickler und Nutzer",
+        "Ein Programmcode",
+        "Ein Hardware-Schlüssel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist 'Kostenlos' gleichbedeutend mit 'Frei von Urheberrechten'?",
+      "options": [
+        "Ja",
+        "Nein, auch kostenlose Werke sind geschützt",
+        "Nur bei Apps",
+        "Nur im Internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man ein gekauftes E-Book an 100 Leute weitergeben?",
+      "options": [
+        "Ja, gehört mir",
+        "Nein, meist nur für den privaten Gebrauch",
+        "Nur wenn man es löscht",
+        "Nur als PDF"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Fair Use' (vor allem im US-Recht)?",
+      "options": [
+        "Faires Spiel",
+        "Eingeschränkte Nutzung ohne Erlaubnis (z.B. für Zitate)",
+        "Alles ist erlaubt",
+        "Gibt es nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Quellenangabe'?",
+      "options": [
+        "Wasserstelle",
+        "Nennung des Urhebers und Fundorts eines Werks",
+        "Ein Passwort",
+        "Ein Link zum Löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Freeware'?",
+      "options": [
+        "Software, die kostenlos genutzt werden darf, aber urheberrechtlich geschützt bleibt",
+        "Ganz freie Software",
+        "Kaputte Software",
+        "Software für den Wald"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Shareware'?",
+      "options": [
+        "Software zum Teilen",
+        "Testsoftware, die nach einer Zeit gekauft werden muss",
+        "Hardware-Teil",
+        "Ein soziales Netzwerk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Markenlogos (z.B. Apple) für eigene Zwecke nutzen?",
+      "options": [
+        "Ja, sieht gut aus",
+        "Nein (Markenrecht)",
+        "Nur wenn man sie umfärbt",
+        "Nur privat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum gibt es das Urheberrecht?",
+      "options": [
+        "Um Kreative zu schützen und zu entlohnen",
+        "Um das Internet zu stoppen",
+        "Um Papier zu sparen",
+        "Um Lehrer zu ärgern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Urheberrecht"
+    },
+    {
+      "type": "typing",
+      "text": "Lizenz"
+    },
+    {
+      "type": "typing",
+      "text": "Creative Commons"
+    },
+    {
+      "type": "typing",
+      "text": "BY"
+    },
+    {
+      "type": "typing",
+      "text": "NC"
+    },
+    {
+      "type": "typing",
+      "text": "Plagiat"
+    },
+    {
+      "type": "typing",
+      "text": "Quellenangabe"
+    },
+    {
+      "type": "typing",
+      "text": "gemeinfrei"
+    },
+    {
+      "type": "typing",
+      "text": "Open Source"
+    },
+    {
+      "type": "typing",
+      "text": "©"
+    }
+  ]
+}

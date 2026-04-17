@@ -30,7 +30,7 @@ export const INFO_K6_I5_LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Informatika Felfedező K6-5",
-    t1_title: "E-mail feladó és cím", t1_text: "Minden e-mailnek van feladója (Feladó:) és címzettje (Címzett:).", t1_inst: "Párosítsd össze:", t1_h1: "Kitől? Kinek?", t1_h2: "Feladó és címzett!", t1_q: "Mi van a 'Címzett:' mezőben?", t1_qa: "A címzett e-mail-címe", t1_qb: "A tárgy", t1_qc: "A csatolmány", t1_qd: "A dátum",
+    t1_title: "E-mail feladó és címzett", t1_text: "Minden e-mailnek van feladója (Feladó:) és címzettje (Címzett:).", t1_inst: "Párosítsd össze:", t1_h1: "Kitől? Kinek?", t1_h2: "Feladó és címzett!", t1_q: "Mi van a 'Címzett:' mezőben?", t1_qa: "A címzett e-mail-címe", t1_qb: "A tárgy", t1_qc: "A csatolmány", t1_qd: "A dátum",
     t1_l1: "Feladó:", t1_r1: "Küldő személy", t1_l2: "Címzett:", t1_r2: "Fogadó személy", t1_l3: "Másolat:", t1_r3: "Másolat kap",
     t2_title: "E-mail tárgya", t2_text: "A tárgy röviden összefoglalja, miről szól az e-mail.", t2_inst: "Töltsd ki a hiányt:", t2_h1: "Mi kerül a tárgyba?", t2_h2: "Rövid és világos!", t2_q: "Mi az e-mail tárgya?", t2_qa: "A tartalom rövid összefoglalása", t2_qb: "Az e-mail-cím", t2_qc: "A csatolmány", t2_qd: "A jelszó",
     t2_sent: "A ___ röviden összefoglalja az e-mail tartalmát.", t2_qa2: "tárgy", t2_qb2: "feladó", t2_qc2: "csatolmány", t2_qd2: "böngésző",

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "IoT - Smart Home",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wofür steht IoT?",
+      "options": [
+        "Internet of Things (Internet der Dinge)",
+        "Internal online Task",
+        "Input output Time",
+        "Internet on Tablets"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Internet der Dinge'?",
+      "options": [
+        "Nur Computer im Internet",
+        "Vernetzung von Alltagsgegenständen mit dem Internet",
+        "Ein neuer Browser",
+        "Ein großes Lagerhaus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Smart Home'?",
+      "options": [
+        "Ein Haus aus Glas",
+        "Ein vernetztes Zuhause mit automatisierter Steuerung",
+        "Ein Haus für schlaue Leute",
+        "Ein kleines Haus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was kann man in einem Smart Home oft steuern?",
+      "options": [
+        "Licht",
+        "Heizung",
+        "Rollläden",
+        "Alle genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Gerät dient oft als Zentrale im Smart Home?",
+      "options": [
+        "Ein Hub / Smart Speaker (z.B. Alexa, Google Home)",
+        "Ein Fernseher",
+        "Ein Toaster",
+        "Eine Lampe"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktechnik wird oft im Smart Home genutzt?",
+      "options": [
+        "WLAN",
+        "Zigbee / Z-Wave",
+        "Bluetooth",
+        "Alle genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Vorteil eines Smart Homes?",
+      "options": [
+        "Komfort und Energieersparnis",
+        "Es ist immer billiger",
+        "Man braucht keinen Strom mehr",
+        "Man muss nicht mehr putzen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Sicherheitsrisiko beim IoT?",
+      "options": [
+        "Hackerangriffe auf ungesicherte Geräte",
+        "Das Internet wird zu voll",
+        "Die Geräte werden zu schwer",
+        "Die Batterien halten zu lange"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Smart Meter'?",
+      "options": [
+        "Ein intelligenter Stromzähler",
+        "Ein schnelles Messgerät",
+        "Ein Lineal für Handys",
+        "Ein Fitnesstracker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Haushaltsgerät kann 'smart' sein?",
+      "options": [
+        "Kühlschrank",
+        "Waschmaschine",
+        "Kaffeemaschine",
+        "Alle genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Szenario' im Smart Home?",
+      "options": [
+        "Ein Film",
+        "Gleichzeitiges Ausführen mehrerer Aktionen (z.B. 'Gute Nacht')",
+        "Ein Fehler",
+        "Ein neues Gerät"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Geofencing'?",
+      "options": [
+        "Zäune bauen",
+        "Aktionen auslösen, wenn man einen Ort erreicht/verlässt (via GPS)",
+        "Bilder malen",
+        "Telefonieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Sprachassistent'?",
+      "options": [
+        "Ein Mensch, der hilft",
+        "Software, die Sprachbefehle versteht und ausführt",
+        "Ein lauter Lautsprecher",
+        "Ein Funkgerät"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sind Updates für IoT-Geräte wichtig?",
+      "options": [
+        "Um neue Farben zu bekommen",
+        "Zum Schließen von Sicherheitslücken",
+        "Damit sie schwerer werden",
+        "Gibt keine Updates"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Interoperabilität'?",
+      "options": [
+        "Dass Geräte verschiedener Hersteller zusammenarbeiten können",
+        "Dass Geräte schnell kaputt gehen",
+        "Dass man nur eine App braucht",
+        "Dass Geräte teuer sind"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'smarter Thermostat'?",
+      "options": [
+        "Ein Fieberthermometer",
+        "Ein Heizungsregler, der sich automatisch anpasst",
+        "Ein Kühlschrankregler",
+        "Ein Wetterhäuschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man ein Smart Home von unterwegs steuern?",
+      "options": [
+        "Ja, meist per App über das Internet",
+        "Nein, nur im Haus",
+        "Nur mit einem langen Kabel",
+        "Nur per Brief"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'smarte Türklingel'?",
+      "options": [
+        "Klingelt lauter",
+        "Klingel mit Kamera und Verbindung zum Handy",
+        "Klingel ohne Ton",
+        "Klingel für Haustiere"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Ambient Assisted Living' (AAL)?",
+      "options": [
+        "Musik hören",
+        "Unterstützung älterer Menschen durch Technik im Alltag",
+        "Ein Urlaubsort",
+        "Ein Computerspiel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Wearable Technology'?",
+      "options": [
+        "Technik zum Essen",
+        "Vernetzte Technik, die man am Körper trägt (z.B. Smartwatch)",
+        "Große Server",
+        "Kabel im Haus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'smartes Schloss'?",
+      "options": [
+        "Schloss aus Gold",
+        "Türschloss, das per Code, Handy oder Fingerabdruck öffnet",
+        "Ein Schloss, das nicht schließt",
+        "Ein Spielzeug"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Protokoll ist sehr energiesparend?",
+      "options": [
+        "WLAN",
+        "Bluetooth Low Energy (BLE)",
+        "HTTP",
+        "FTP"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der 'Standby-Verbrauch'?",
+      "options": [
+        "Energieverbrauch, wenn das Gerät scheinbar aus ist",
+        "Schnelles Laufen",
+        "Ein neuer Akku",
+        "Ein Hardware-Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Sensor-Netzwerk'?",
+      "options": [
+        "Ein Fischernetz",
+        "Viele vernetzte Sensoren zur Datenaufnahme",
+        "Ein Spinnennetz",
+        "Ein Hardwaretest"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Bridge' (Brücke) im Smart Home?",
+      "options": [
+        "Eine Brücke über einen Fluss",
+        "Verbindungsgerät zwischen verschiedenen Funkstandards",
+        "Ein neues Kabel",
+        "Ein Fehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "IoT"
+    },
+    {
+      "type": "typing",
+      "text": "Smart Home"
+    },
+    {
+      "type": "typing",
+      "text": "Sprachassistent"
+    },
+    {
+      "type": "typing",
+      "text": "Smart Meter"
+    },
+    {
+      "type": "typing",
+      "text": "Geofencing"
+    },
+    {
+      "type": "typing",
+      "text": "Wearables"
+    },
+    {
+      "type": "typing",
+      "text": "Zigbee"
+    },
+    {
+      "type": "typing",
+      "text": "Interoperabilität"
+    },
+    {
+      "type": "typing",
+      "text": "Hub"
+    },
+    {
+      "type": "typing",
+      "text": "Thermostat"
+    }
+  ]
+}

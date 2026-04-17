@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Wofür wird die linke Maustaste meistens verwendet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Menüs öffnen",
+                                      "Auswählen und Bestätigen",
+                                      "Löschen",
+                                      "Computer ausschalten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert meistens bei einem Rechtsklick?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Programm wird beendet",
+                                      "Ein Kontextmenü mit Optionen öffnet sich",
+                                      "Ein Bild wird gedruckt",
+                                      "Der Text wird gelöscht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bewirkt ein Doppelklick links?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Wort löschen",
+                                      "Eine Datei oder ein Programm öffnen",
+                                      "Die Farbe ändern",
+                                      "Den PC neu starten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür ist das Mausrad da?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Zum Klicken",
+                                      "Zum Scrollen (Blättern)",
+                                      "Zum Tippen",
+                                      "Zum Speichern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man das Bewegen eines Objekts mit gedrückter Maustaste?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Push and Pull",
+                                      "Drag and Drop (Ziehen und Ablegen)",
+                                      "Click and Go",
+                                      "Cut and Paste"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Cursor\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Programm",
+                                      "Der blinkende Strich oder Pfeil auf dem Bildschirm",
+                                      "Ein Teil der Festplatte",
+                                      "Ein Maustyp"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Form hat der Cursor meistens, wenn man auf einen Link klickt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Pfeil",
+                                      "Kleine Hand",
+                                      "Kreuz",
+                                      "Strich"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Touchpad\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Maus für den Fuß",
+                                      "Eine berührungsempfindliche Fläche beim Laptop",
+                                      "Ein Bildschirm",
+                                      "Ein spezieller Drucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027drahtlose Maus\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Maus ohne Tasten",
+                                      "Eine Maus ohne Kabel (Funk/Bluetooth)",
+                                      "Eine kaputte Maus",
+                                      "Eine Maus aus Plastik"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo wird eine moderne Maus meistens angeschlossen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "An der Steckdose",
+                                      "Am USB-Port",
+                                      "Am Monitor",
+                                      "An der Grafikkarte"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man die Unterlage für die Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Tischdecke",
+                                      "Mousepad",
+                                      "Monitorständer",
+                                      "Tastaturmatte"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Trackball?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Maus, die man rollt",
+                                      "Ein Gerät mit einer Kugel oben zum Steuern",
+                                      "Ein Spielzeug",
+                                      "Ein Maustyp für Katzen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie funktioniert eine optische Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Mit einer Gummikugel",
+                                      "Mit einem Lichtsensor oder Laser",
+                                      "Mit Magneten",
+                                      "Mit Luftdruck"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Grafiktablett?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner Monitor",
+                                      "Ein Eingabegerät mit Stift zum Zeichnen",
+                                      "Ein Brett für den Laptop",
+                                      "Ein Spielcomputer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wofür steht \u0027DPI\u0027 bei einer Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Data Per Inch",
+                                      "Dots Per Inch (Empfindlichkeit)",
+                                      "Digital Power Input",
+                                      "Direct Port Interface"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Hovering\u0027 (Drüberschweben)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Klicken",
+                                      "Mit dem Cursor über etwas bleiben, ohne zu klicken",
+                                      "Die Maus hochwerfen",
+                                      "Schnell bewegen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie kann man die Mausgeschwindigkeit ändern?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Gar nicht",
+                                      "In den Systemeinstellungen",
+                                      "Durch festeres Drücken",
+                                      "Durch Schütteln der Maus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Gaming-Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Maus zum Fernsehen",
+                                      "Eine Maus mit extra Tasten und hoher Präzision",
+                                      "Eine Maus, die wie ein Auto aussieht",
+                                      "Ein Spielzeug"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Gerät wird oft statt einer Maus bei Spielkonsolen genutzt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Tastatur",
+                                      "Controller / Gamepad",
+                                      "Scanner",
+                                      "Drucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man eine Maus regelmäßig reinigen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit sie besser aussieht",
+                                      "Damit der Sensor und die Gleitfüße gut funktionieren",
+                                      "Damit sie nicht stinkt",
+                                      "Nicht nötig"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was macht die \u0027Mittlere Maustaste\u0027 oft?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Schließt den Computer",
+                                      "Oft im Rad integriert, öffnet Links in neuem Tab",
+                                      "Löscht Dateien",
+                                      "Druckt"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine ergonomische Maus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine sehr bunte Maus",
+                                      "Eine Maus, die die Handgelenke schont",
+                                      "Eine besonders schnelle Maus",
+                                      "Eine Maus für Linkshänder"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Kann man eine Maus auch für Linkshänder einstellen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nein",
+                                      "Ja, in den Einstellungen kann man die Tasten vertauschen",
+                                      "Nur mit einer speziellen Software",
+                                      "Nur wenn man sie umdreht"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Joystick?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Gerät zum Musikhören",
+                                      "Ein Steuerknüppel für Spiele",
+                                      "Ein Teil der Tastatur",
+                                      "Ein Maustyp"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie viele Tasten hat eine Standardmaus mindestens?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "1",
+                                      "2 (links und rechts)",
+                                      "5",
+                                      "10"
+                                  ]
+                  },
+                  {
+                      "text":  "Die Maus ist ein wichtiges Werkzeug zur Steuerung des Computers.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit einem Linksklick wählen wir Objekte auf dem Bildschirm aus.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Rechtsklick öffnet oft ein nützliches Menü mit Befehlen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Das Mausrad hilft uns beim schnellen Lesen langer Texte.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Durch Ziehen und Ablegen können wir Dateien einfach verschieben.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der Mauszeiger ändert seine Form je nach Aufgabe.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein Mousepad sorgt für eine präzise Bewegung des Sensors.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Laptop-Benutzer verwenden oft das eingebaute Touchpad.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Moderne Mäuse arbeiten meistens mit optischen Sensoren.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Hand sollte beim Bedienen der Maus entspannt aufliegen.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Maus und Steuerung"
+}

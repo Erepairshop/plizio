@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine \u0027Datei\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Teil des Bildschirms",
+                                      "Eine gespeicherte Informationseinheit",
+                                      "Ein Kabel",
+                                      "Ein Programmfenster"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Woran erkennt man den Dateityp?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "An der Größe",
+                                      "An der Dateiendung (z.B. .txt, .jpg)",
+                                      "An der Farbe des Icons",
+                                      "Am Namen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo werden Dateien dauerhaft gespeichert?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Im Arbeitsspeicher (RAM)",
+                                      "Auf der Festplatte oder SSD",
+                                      "Im Monitor",
+                                      "Im Drucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim Befehl \u0027Speichern unter\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Datei wird gelöscht",
+                                      "Man kann einen neuen Namen oder Ort wählen",
+                                      "Die Datei wird gedruckt",
+                                      "Das Programm wird beendet"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wie öffnet man eine vorhandene Datei?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Über \u0027Datei\u0027 -\u003e \u0027Öffnen\u0027",
+                                      "Indem man den PC neu startet",
+                                      "Durch Tippen auf der Tastatur",
+                                      "Durch Anschalten des Monitors"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Ordner\u0027 (Verzeichnis)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Speichergerät",
+                                      "Ein Behälter zum Organisieren von Dateien",
+                                      "Ein spezielles Programm",
+                                      "Ein Bild"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Programm hilft beim Verwalten von Dateien unter Windows?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Internet Explorer",
+                                      "Datei-Explorer",
+                                      "Paint",
+                                      "Editor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie nennt man das Löschen einer Datei?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Kopieren",
+                                      "Entfernen / Löschen",
+                                      "Verschieben",
+                                      "Umbenennen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wo landen gelöschte Dateien zuerst?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In der Cloud",
+                                      "Im Papierkorb",
+                                      "Auf dem Desktop",
+                                      "Im Internet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Umbenennen\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Datei löschen",
+                                      "Einer Datei einen neuen Namen geben",
+                                      "Den Inhalt ändern",
+                                      "Die Datei drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie kopiert man eine Datei?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rechtsklick -\u003e Kopieren",
+                                      "Löschen und neu schreiben",
+                                      "Den Monitor fotografieren",
+                                      "Ausschneiden"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist der Unterschied zwischen Kopieren und Verschieben?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Es gibt keinen",
+                                      "Beim Kopieren bleibt das Original am alten Platz",
+                                      "Beim Verschieben bleibt das Original am alten Platz",
+                                      "Verschieben ist immer schneller"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein \u0027Pfad\u0027 in der Informatik?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Wanderweg",
+                                      "Die genaue Ortsangabe einer Datei (z.B. C:\\Dokumente)",
+                                      "Ein Kabel im PC",
+                                      "Die Internetadresse"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Dateiendung gehört zu einem Word-Dokument?",
+                      "type":  "mcq",
+                      "options":  [
+                                      ".exe",
+                                      ".docx",
+                                      ".mp3",
+                                      ".jpg"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie kann man mehrere Dateien gleichzeitig auswählen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Gar nicht",
+                                      "Mit gedrückter Strg-Taste anklicken",
+                                      "Indem man sie laut ruft",
+                                      "Nacheinander öffnen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist eine Verknüpfung?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Eine Kopie der Datei",
+                                      "Ein Wegweiser zu einer Datei oder einem Programm",
+                                      "Ein Virus",
+                                      "Ein Ordner"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Komprimieren\u0027 (Zippen)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Dateien löschen",
+                                      "Dateien verkleinern, um Platz zu sparen",
+                                      "Dateien bunt machen",
+                                      "Dateien drucken"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Warum sollte man Dateien sinnvoll benennen?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Damit sie schöner aussehen",
+                                      "Um sie später leichter wiederzufinden",
+                                      "Weil der PC sonst abstürzt",
+                                      "Es ist egal"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Wechseldatenträger?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein fester Speicher im PC",
+                                      "Ein tragbares Speichergerät wie ein USB-Stick",
+                                      "Ein Monitor",
+                                      "Eine Tastatur"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Cloud-Speicherung\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Speichern im Computergehäuse",
+                                      "Speichern von Daten auf Servern im Internet",
+                                      "Speichern auf einer CD",
+                                      "Löschen von Daten"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie sucht man nach einer Datei?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Immer alle Ordner öffnen",
+                                      "Über das Suchfeld im Explorer",
+                                      "Den PC schütteln",
+                                      "Laut fragen"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist schreibgeschützt?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Datei kann nicht gelesen werden",
+                                      "Die Datei kann gelesen, aber nicht verändert werden",
+                                      "Die Datei ist unsichtbar",
+                                      "Die Datei ist passwortgeschützt"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welche Dateiendung gehört zu einer ausführbaren Programmdatei?",
+                      "type":  "mcq",
+                      "options":  [
+                                      ".txt",
+                                      ".exe",
+                                      ".pdf",
+                                      ".png"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein PDF?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein reines Bild",
+                                      "Ein plattformunabhängiges Dokumentformat",
+                                      "Ein Musikformat",
+                                      "Ein Virus"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was passiert beim Leeren des Papierkorbs?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Dateien werden wiederhergestellt",
+                                      "Die Dateien werden endgültig gelöscht",
+                                      "Der Computer wird schneller",
+                                      "Nichts"
+                                  ]
+                  },
+                  {
+                      "text":  "Wir organisieren unsere Dateien in verschiedenen Ordnern.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Dateiendung verrät uns, mit welchem Programm wir sie öffnen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Regelmäßiges Speichern verhindert den Verlust unserer Arbeit.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Im Datei-Explorer können wir Dokumente suchen und finden.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der Papierkorb bietet Schutz vor versehentlichem Löschen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Mit der Suchfunktion finden wir auch versteckte Dateien schnell.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ein aussagekräftiger Dateiname ist sehr hilfreich.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Sicherungskopien auf einem USB-Stick sind sehr wichtig.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Cloud-Speicher ermöglichen den Zugriff von verschiedenen Geräten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Beim Verschieben wird eine Datei an einen neuen Ort gebracht.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Dateien speichern und öffnen"
+}

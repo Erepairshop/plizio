@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Hardver alapok",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi az a hardver?",
+      "options": [
+        "A számítógép fizikai részei",
+        "Számítógépes programok",
+        "Az internet",
+        "Számítógépes játékok"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a számítógép „agya”?",
+      "options": [
+        "Monitor",
+        "Billentyűzet",
+        "CPU",
+        "Egér"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a CPU?",
+      "options": [
+        "Központi folyamategység",
+        "Központi feldolgozó egység",
+        "Számítógép személyi egység",
+        "Vezérlő tápegység"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a RAM?",
+      "options": [
+        "Állandó tárolás",
+        "Ideiglenes memória",
+        "Egy nyomtatótípus",
+        "Egy számítógép kábel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol van az összes fő alkatrész csatlakoztatva?",
+      "options": [
+        "Alaplap",
+        "Tápegység",
+        "Számítógépház",
+        "Monitor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik rész biztosítja a számítógép áramellátását?",
+      "options": [
+        "CPU",
+        "Tápegység",
+        "RAM",
+        "Merevlemez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit csinál a hűtőventilátor?",
+      "options": [
+        "Megtisztítja a képernyőt",
+        "Megakadályozza a CPU túlmelegedését",
+        "Felgyorsítja az internetet",
+        "Zenét játszik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a merevlemez célja?",
+      "options": [
+        "Ideiglenes tárolás",
+        "Hosszú távú adattárolás",
+        "Képek megjelenítése",
+        "Szöveg beírása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a belső hardverkomponens?",
+      "options": [
+        "Nyomtató",
+        "Szkenner",
+        "CPU",
+        "Webkamera"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi történik a RAM-ban lévő adatokkal, ha megszűnik az áramellátás?",
+      "options": [
+        "Megmarad",
+        "Elvész",
+        "Gyorsabbá válik",
+        "Kinyomtatódik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik rész felelős a grafika feldolgozásáért?",
+      "options": [
+        "Hangkártya",
+        "Grafikus kártya (GPU)",
+        "Hálózati kártya",
+        "Billentyűzet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a számítógépes „tok”?",
+      "options": [
+        "Az alkatrészeket tartalmazó doboz",
+        "A szoftvercsomag",
+        "Egy típusú táska",
+        "A monitor kerete"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ezek közül melyik hordozható számítógép?",
+      "options": [
+        "Asztali számítógép",
+        "Laptop",
+        "Szerver",
+        "Mainframe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a hangkártya célja?",
+      "options": [
+        "Képek feldolgozása",
+        "Hang feldolgozása és közvetítése",
+        "Fájlok tárolása",
+        "Csatlakozás az internethez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent az \"SSD\"?",
+      "options": [
+        "Super Speed Drive",
+        "Szilárdtest-meghajtó",
+        "Rendszertároló eszköz",
+        "Lassú statikus adat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a gyorsabb, az SSD vagy a hagyományos merevlemez (HDD)?",
+      "options": [
+        "HDD",
+        "SSD",
+        "Ugyanazok",
+        "Nincs"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a funkciója a CMOS akkumulátornak?",
+      "options": [
+        "A monitor tápellátásához",
+        "A rendszeróra és a BIOS-beállítások megtartása",
+        "A laptop feltöltéséhez",
+        "A CPU gyorsabbá tételéhez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hova kell csatlakoztatni az USB flash meghajtót?",
+      "options": [
+        "Ethernet port",
+        "USB-port",
+        "HDMI port",
+        "VGA port"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik alkatrész rejtőzik általában a tokban?",
+      "options": [
+        "Billentyűzet",
+        "Egér",
+        "Alaplap",
+        "Monitor"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a „külső” hardver?",
+      "options": [
+        "CPU",
+        "RAM",
+        "Nyomtató",
+        "Tápegység"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az alaplap fő feladata?",
+      "options": [
+        "Dokumentumok nyomtatása",
+        "Az összes alkatrész összekapcsolása",
+        "Fényképek beolvasása",
+        "Videók lejátszása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen mértékegységben mérik a CPU sebességét?",
+      "options": [
+        "Liter",
+        "Hertz (GHz)",
+        "Méter",
+        "Gramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a táblagép?",
+      "options": [
+        "Egy típusú egér",
+        "Mobil számítógép érintőképernyővel",
+        "Egy nyomtató alkatrész",
+        "Egy szoftver"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik az elsődleges tárhely?",
+      "options": [
+        "USB stick",
+        "RAM",
+        "DVD",
+        "Merevlemez"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tartalmaz a \"Hardver\"?",
+      "options": [
+        "Csak a monitor",
+        "Csak az egér",
+        "Minden, amit fizikailag megérinthet",
+        "Csak a Windows rendszer"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "A hardver a számítógép fizikai része."
+    },
+    {
+      "type": "typing",
+      "text": "A CPU a számítógép agya."
+    },
+    {
+      "type": "typing",
+      "text": "A RAM a számítógép ideiglenes memóriája."
+    },
+    {
+      "type": "typing",
+      "text": "Az alaplap minden alkatrészt összeköt egymással."
+    },
+    {
+      "type": "typing",
+      "text": "Egy tápegység biztosítja a gép áramellátását."
+    },
+    {
+      "type": "typing",
+      "text": "A laptopok hordozható személyi számítógépek."
+    },
+    {
+      "type": "typing",
+      "text": "Az SSD sokkal gyorsabb, mint egy régi merevlemez."
+    },
+    {
+      "type": "typing",
+      "text": "A grafikus kártya segít a képek képernyőn való megjelenítésében."
+    },
+    {
+      "type": "typing",
+      "text": "A jobb munka érdekében tartsa tisztán és hűvösen számítógépét."
+    },
+    {
+      "type": "typing",
+      "text": "A belső hardver a számítógép házában található."
+    }
+  ]
+}

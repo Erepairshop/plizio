@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Diagramme erstellen",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wozu dienen Diagramme?",
+      "options": [
+        "Zum Verstecken von Daten",
+        "Zur grafischen Darstellung von Werten",
+        "Zum Löschen von Tabellen",
+        "Zum Rechnen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Diagramm eignet sich am besten für Anteile an einem Ganzen?",
+      "options": [
+        "Säulendiagramm",
+        "Kreisdiagramm",
+        "Liniendiagramm",
+        "Punktdiagramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Diagramm zeigt am besten eine Entwicklung über Zeit?",
+      "options": [
+        "Balkendiagramm",
+        "Liniendiagramm",
+        "Kreisdiagramm",
+        "Flächendiagramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Beschriftung der Datengruppen im Diagramm?",
+      "options": [
+        "Legende",
+        "Inhalt",
+        "Liste",
+        "Code"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die X-Achse in einem Diagramm meistens?",
+      "options": [
+        "Die vertikale Achse",
+        "Die horizontale Achse",
+        "Die Tiefenachse",
+        "Die Legende"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Y-Achse in einem Diagramm meistens?",
+      "options": [
+        "Die horizontale Achse",
+        "Die vertikale Achse (Werteachse)",
+        "Die Beschriftung",
+        "Der Titel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fügt man ein Diagramm ein?",
+      "options": [
+        "Einfügen -> Diagramme",
+        "Datei -> Drucken",
+        "Start -> Format",
+        "Daten -> Sortieren"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was muss man vor dem Erstellen eines Diagramms tun?",
+      "options": [
+        "PC ausschalten",
+        "Daten in der Tabelle markieren",
+        "Schriftart ändern",
+        "Drucker einschalten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man den Diagrammtyp nachträglich ändern?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur wenn man neu anfängt",
+        "Nur in Schwarz-Weiß"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Datenbeschriftungen'?",
+      "options": [
+        "Die Legende",
+        "Die genauen Werte direkt an den Balken/Punkten",
+        "Der Name der Datei",
+        "Die Seitenzahl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo steht meistens der Titel eines Diagramms?",
+      "options": [
+        "Unten links",
+        "Ganz oben",
+        "In der Legende",
+        "Hinter dem Diagramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man ein horizontales Säulendiagramm?",
+      "options": [
+        "Kreisdiagramm",
+        "Balkendiagramm",
+        "Netzdiagramm",
+        "Punktdiagramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Daten auswählen' im Kontextmenü?",
+      "options": [
+        "Ändert die Schriftfarbe",
+        "Erlaubt das Ändern des Datenbereichs",
+        "Löscht das Diagramm",
+        "Druckt das Diagramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Diagramme in Word oder PowerPoint kopieren?",
+      "options": [
+        "Ja, sie bleiben oft verknüpft",
+        "Nein",
+        "Nur als Screenshot",
+        "Nur wenn man sie als PDF speichert"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Verbunddiagramm'?",
+      "options": [
+        "Zwei Diagrammtypen in einem (z.B. Säule und Linie)",
+        "Ein Diagramm mit vielen Farben",
+        "Ein kaputtes Diagramm",
+        "Ein Diagramm ohne Daten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Achsen skalieren'?",
+      "options": [
+        "Die Achsen löschen",
+        "Den Wertebereich der Achsen anpassen (z.B. 0 bis 100)",
+        "Die Achsen bunt machen",
+        "Die Achsen verschieben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man eine einzelne Säule im Diagramm färben?",
+      "options": [
+        "Zweimal langsam auf die Säule klicken und Füllfarbe ändern",
+        "Das ganze Diagramm löschen",
+        "Die Tabelle färben",
+        "Geht nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient das Plus-Symbol (+) neben einem markierten Diagramm?",
+      "options": [
+        "Zum Addieren von Werten",
+        "Zum schnellen Hinzufügen von Diagrammelementen",
+        "Zum Vergrößern",
+        "Zum Speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Diagramm nutzt man für wissenschaftliche Datenpunkte?",
+      "options": [
+        "Kreisdiagramm",
+        "Punkt- (XY) Diagramm",
+        "Säulendiagramm",
+        "Balkendiagramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Sekundärachse'?",
+      "options": [
+        "Eine zweite Y-Achse für andere Wertebereiche",
+        "Ein Ersatz für die Legende",
+        "Eine versteckte Achse",
+        "Die X-Achse"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man 3D-Diagramme erstellen?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur mit einer 3D-Brille",
+        "Nur in Spezialprogrammen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man Werte in der Tabelle ändert?",
+      "options": [
+        "Das Diagramm wird gelöscht",
+        "Das Diagramm aktualisiert sich automatisch",
+        "Nichts",
+        "Man muss es neu erstellen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür ist das Trichter-Symbol neben dem Diagramm?",
+      "options": [
+        "Zum Löschen",
+        "Zum Filtern von Datenreihen",
+        "Zum Schütten",
+        "Zum Sortieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die kleinen Striche an den Achsen?",
+      "options": [
+        "Teilstriche",
+        "Punkte",
+        "Gitter",
+        "Rahmen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Diagramme als eigenes Blatt speichern?",
+      "options": [
+        "Ja (Diagramm verschieben)",
+        "Nein",
+        "Nur als Bild",
+        "Nur in der Cloud"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Kreisdiagramm"
+    },
+    {
+      "type": "typing",
+      "text": "Liniendiagramm"
+    },
+    {
+      "type": "typing",
+      "text": "Balkendiagramm"
+    },
+    {
+      "type": "typing",
+      "text": "Legende"
+    },
+    {
+      "type": "typing",
+      "text": "X-Achse"
+    },
+    {
+      "type": "typing",
+      "text": "Y-Achse"
+    },
+    {
+      "type": "typing",
+      "text": "Markieren"
+    },
+    {
+      "type": "typing",
+      "text": "Titel"
+    },
+    {
+      "type": "typing",
+      "text": "Punktdiagramme"
+    },
+    {
+      "type": "typing",
+      "text": "Aktualisierung"
+    }
+  ]
+}

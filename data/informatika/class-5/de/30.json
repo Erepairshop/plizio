@@ -1,0 +1,322 @@
+﻿{
+    "tasks":  [
+                  {
+                      "correct":  1,
+                      "question":  "Wer gilt als der erste Programmierer (die erste Programmiererin)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Bill Gates",
+                                      "Ada Lovelace",
+                                      "Steve Jobs",
+                                      "Albert Einstein"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie hieß der erste mechanische Computer von Charles Babbage?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "PC",
+                                      "Analytical Engine",
+                                      "Laptop",
+                                      "Gameboy"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was war der Z3 von Konrad Zuse?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Auto",
+                                      "Der erste funktionsfähige, programmgesteuerte Computer",
+                                      "Ein Telefon",
+                                      "Ein Drucker"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Womit arbeiteten die ersten Computer statt mit Mikrochips?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Holz",
+                                      "Elektronenröhren",
+                                      "Magneten",
+                                      "Wasser"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist der ENIAC?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner Taschenrechner",
+                                      "Einer der ersten elektronischen Allzweckrechner (USA)",
+                                      "Ein Videospiel",
+                                      "Ein Betriebssystem"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Bauteil ersetzte die Elektronenröhren und machte PCs kleiner?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Rad",
+                                      "Transistor",
+                                      "Glühbirne",
+                                      "Schalter"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Mainframe\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner PC",
+                                      "Ein riesiger Großrechner",
+                                      "Ein Kabel",
+                                      "Ein Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wann kamen die ersten Personal Computer (PCs) für zu Hause auf?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Um 1800",
+                                      "In den 1970er und 1980er Jahren",
+                                      "Im Jahr 2010",
+                                      "Gestern"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wer gründete Microsoft?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Steve Jobs",
+                                      "Bill Gates und Paul Allen",
+                                      "Mark Zuckerberg",
+                                      "Jeff Bezos"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was war der Apple I?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Handy",
+                                      "Einer der ersten PCs von Apple",
+                                      "Ein Tablet",
+                                      "Ein Musikplayer"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wer gilt als Vater der modernen Informatik (Turing-Maschine)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Isaac Newton",
+                                      "Alan Turing",
+                                      "Charles Darwin",
+                                      "Galileo Galilei"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was war früher ein \u0027Computer\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Nur eine Maschine",
+                                      "Eine Berufsbezeichnung für Menschen, die rechneten",
+                                      "Ein Bild",
+                                      "Ein Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wie wurden Programme früher gespeichert, bevor es Disketten gab?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "In Büchern",
+                                      "Auf Lochkarten",
+                                      "Gar nicht",
+                                      "Im Kopf"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist das Arpanet?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Fischernetz",
+                                      "Der Vorläufer des Internets",
+                                      "Ein Radiosender",
+                                      "Ein Computer-Hersteller"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wann wurde das World Wide Web (WWW) erfunden?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "1950",
+                                      "Um 1990 (von Tim Berners-Lee)",
+                                      "2005",
+                                      "1890"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was war der Commodore 64 (C64)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Flugzeug",
+                                      "Ein sehr populärer Heimcomputer der 80er",
+                                      "Ein Drucker",
+                                      "Ein Auto"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Welches Speichermedium folgte auf die Diskette?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Lochkarte",
+                                      "CD-ROM",
+                                      "Steinplatte",
+                                      "Papier"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wer erfand die Computermaus?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Steve Jobs",
+                                      "Douglas Engelbart",
+                                      "Bill Gates",
+                                      "Konrad Zuse"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was bedeutet \u0027Hardware\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Die Programme",
+                                      "Die anfassbaren Teile des Computers",
+                                      "Die Musik",
+                                      "Das Internet"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist \u0027Software\u0027?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Das Gehäuse",
+                                      "Die Programme und Daten",
+                                      "Der Strom",
+                                      "Das Kabel"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was war das Besondere am IBM-PC?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Er war rund",
+                                      "Er setzte einen Standard für Heimcomputer",
+                                      "Er war aus Gold",
+                                      "Er hatte keinen Monitor"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Wann erschien das erste iPhone (Beginn der modernen Smartphones)?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "1995",
+                                      "2007",
+                                      "2015",
+                                      "1980"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist Moore\u0027s Law?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein Gesetz gegen Viren",
+                                      "Die Beobachtung, dass sich die Leistung von Chips etwa alle zwei Jahre verdoppelt",
+                                      "Ein Verkehrsgesetz",
+                                      "Ein Verbot von PCs"
+                                  ]
+                  },
+                  {
+                      "correct":  0,
+                      "question":  "Wie hieß die erste Computermaus aus Holz?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "X-Y-Position Indicator",
+                                      "Click-Box",
+                                      "Wood-Mouse",
+                                      "Roller"
+                                  ]
+                  },
+                  {
+                      "correct":  1,
+                      "question":  "Was ist ein Mikroprozessor?",
+                      "type":  "mcq",
+                      "options":  [
+                                      "Ein kleiner Schalter",
+                                      "Ein ganzer Computerprozessor auf einem einzigen Chip",
+                                      "Ein kleiner Monitor",
+                                      "Ein Mikrofon"
+                                  ]
+                  },
+                  {
+                      "text":  "Die Geschichte der Informatik begann schon vor hunderten von Jahren.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Ada Lovelace schrieb das erste Programm für eine Rechenmaschine.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Konrad Zuse baute mit dem Z3 den ersten programmierbaren Computer.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Früher füllten Computer ganze Räume aus und waren sehr teuer.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Der Transistor revolutionierte den Bau von elektronischen Geräten.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "In den achtziger Jahren wurden Heimcomputer für viele Menschen bezahlbar.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Das World Wide Web veränderte die Art, wie wir Informationen teilen.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Steve Jobs und Bill Gates prägten die Entwicklung der Personal Computer.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Lochkarten waren eine frühe Form der Datenspeicherung.",
+                      "type":  "typing"
+                  },
+                  {
+                      "text":  "Die Entwicklung der Technik geht heute schneller als jemals zuvor.",
+                      "type":  "typing"
+                  }
+              ],
+    "language":  "DE",
+    "class":  5,
+    "theme":  "Geschichte der Informatik"
+}

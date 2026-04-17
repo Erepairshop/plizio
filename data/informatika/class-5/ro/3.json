@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Software",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este software-ul?",
+      "options": [
+        "Părți fizice",
+        "Instrucțiuni și programe pentru calculator",
+        "Carcasa calculatorului",
+        "Un cablu de alimentare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un exemplu de software?",
+      "options": [
+        "Monitor",
+        "Windows 10",
+        "Șoarece",
+        "Tastatura"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „aplicație”?",
+      "options": [
+        "O parte hardware",
+        "Un program conceput pentru o anumită sarcină",
+        "Un tip de monitor",
+        "Un cablu de calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce software este folosit pentru a naviga pe internet?",
+      "options": [
+        "Cuvânt",
+        "Excel",
+        "Browser web",
+        "Vopsea"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este un browser web?",
+      "options": [
+        "Google Chrome",
+        "PowerPoint",
+        "Calculator",
+        "Blocnotes"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul unui procesor de text?",
+      "options": [
+        "Desenând imagini",
+        "Crearea și editarea documentelor text",
+        "Calcularea matematicii",
+        "Navigarea pe web"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce program este folosit pentru desen?",
+      "options": [
+        "Cuvânt",
+        "Vopsea",
+        "Chrome",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un software „Antivirus”?",
+      "options": [
+        "Un program care creează viruși",
+        "Un program care protejează computerul de amenințări",
+        "Un joc",
+        "Un browser web"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este un exemplu de sistem de operare?",
+      "options": [
+        "Microsoft Word",
+        "Windows 11",
+        "Căutare Google",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă „Instalarea” unui program?",
+      "options": [
+        "Ștergerea acestuia",
+        "Configurarea acestuia pe computer",
+        "Imprimarea ei",
+        "Închiderea acestuia"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Actualizare” în software?",
+      "options": [
+        "Făcându-l mai vechi",
+        "Remedierea erorilor și adăugarea de noi funcții",
+        "Ștergerea programului",
+        "Vând calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce software este folosit pentru prezentări?",
+      "options": [
+        "Excel",
+        "PowerPoint",
+        "Blocnotes",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este software-ul „Open Source”?",
+      "options": [
+        "Software pe care nu îl puteți schimba",
+        "Software al cărui cod poate fi văzut și modificat gratuit",
+        "Software care costă mult",
+        "Software pentru deschiderea ușilor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „Virus” în calcul?",
+      "options": [
+        "O boală fizică",
+        "Un program dăunător",
+        "Un tip de tastatură",
+        "Un joc misto"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce software este folosit pentru foi de calcul și matematică?",
+      "options": [
+        "Cuvânt",
+        "Excel",
+        "Vopsea",
+        "Chrome"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Freeware”?",
+      "options": [
+        "Software care poate fi folosit gratuit",
+        "Hardware care este gratuit",
+        "Un joc plătit",
+        "Software pentru înghețarea computerului"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o „icoană”?",
+      "options": [
+        "Un fișier mare",
+        "O imagine mică reprezentând un program",
+        "Un tip de șoarece",
+        "O tastă de la tastatură"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul unui Media Player?",
+      "options": [
+        "Tastarea textului",
+        "Redarea muzicii și videoclipurilor",
+        "Desen",
+        "Calculul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care dintre acestea este o aplicație de e-mail?",
+      "options": [
+        "Perspective",
+        "Vopsea",
+        "Solitaire",
+        "Cuvânt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un „bug” într-un program?",
+      "options": [
+        "O insectă",
+        "O eroare în cod",
+        "O nouă caracteristică",
+        "O parte de calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este software-ul „Trial”?",
+      "options": [
+        "Software care este gratuit pentru totdeauna",
+        "Software care funcționează pentru o perioadă limitată de timp",
+        "Un tip de monitor",
+        "Un program stricat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unde puteți găsi de obicei aplicații noi pentru un telefon?",
+      "options": [
+        "Într-o carte",
+        "Într-un App Store",
+        "Într-un frigider",
+        "Într-un parc"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Decomprimarea” unui fișier?",
+      "options": [
+        "Făcându-l mai mic",
+        "Extragerea fișierelor dintr-un folder arhivat",
+        "Ștergerea fișierului",
+        "Tipărirea fișierului"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce software vă ajută să vă organizați fișierele?",
+      "options": [
+        "Manager de fișiere",
+        "Vopsea",
+        "Player muzical",
+        "Browser web"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este „Interfața utilizator” (UI)?",
+      "options": [
+        "Piesele hardware",
+        "Modul în care utilizatorul interacționează cu software-ul",
+        "Prețul computerului",
+        "Un tip de cablu"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Software-ul spune hardware-ului ce trebuie să facă."
+    },
+    {
+      "type": "typing",
+      "text": "Aplicațiile ne ajută să îndeplinim sarcini specifice."
+    },
+    {
+      "type": "typing",
+      "text": "Un browser web vă permite să vizitați site-uri web."
+    },
+    {
+      "type": "typing",
+      "text": "Software-ul antivirus vă păstrează computerul în siguranță."
+    },
+    {
+      "type": "typing",
+      "text": "Actualizați-vă software-ul pentru a obține cele mai recente funcții."
+    },
+    {
+      "type": "typing",
+      "text": "Pictogramele sunt imagini mici pentru programele dvs."
+    },
+    {
+      "type": "typing",
+      "text": "Procesoarele de text sunt folosite pentru tastarea documentelor."
+    },
+    {
+      "type": "typing",
+      "text": "Foile de calcul ne ajută să lucrăm cu numere."
+    },
+    {
+      "type": "typing",
+      "text": "Instalați întotdeauna software din surse de încredere."
+    },
+    {
+      "type": "typing",
+      "text": "Interfața cu utilizatorul este ceea ce vedeți pe ecran."
+    }
+  ]
+}

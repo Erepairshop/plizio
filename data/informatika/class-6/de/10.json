@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Foliendesign",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist die wichtigste Regel beim Foliendesign?",
+      "options": [
+        "So viele Farben wie möglich nutzen",
+        "Einfachheit und Lesbarkeit",
+        "Jeden freien Platz füllen",
+        "Kleine Schriftarten verwenden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Schriftart-Art ist meist besser für Bildschirmpräsentationen?",
+      "options": [
+        "Serifen (mit Füßchen, wie Times New Roman)",
+        "Serifenlos (ohne Füßchen, wie Arial oder Calibri)",
+        "Schreibschrift",
+        "Sehr dekorative Schriften"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Kontrast' im Foliendesign?",
+      "options": [
+        "Die Anzahl der Folien",
+        "Der Unterschied zwischen Text- und Hintergrundfarbe",
+        "Die Geschwindigkeit der Animationen",
+        "Die Dateigröße"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was besagt die '7x7-Regel'?",
+      "options": [
+        "7 Folien pro Minute",
+        "Maximal 7 Zeilen pro Folie und 7 Wörter pro Zeile",
+        "7 Farben pro Folie",
+        "7 Bilder pro Präsentation"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man den 'Folienmaster'?",
+      "options": [
+        "Zum Spielen",
+        "Um einen einheitlichen Stil für alle Folien gleichzeitig festzulegen",
+        "Um die Präsentation zu löschen",
+        "Zur Rechtschreibprüfung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Weißraum' (White Space)?",
+      "options": [
+        "Verschwendeter Platz",
+        "Leerer Platz um Objekte, der hilft, die Aufmerksamkeit zu lenken",
+        "Platz nur für den Titel",
+        "Ein weißer Hintergrund"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sollte Text auf einer Folie meistens ausgerichtet sein?",
+      "options": [
+        "Blocksatz",
+        "Links oder Zentriert",
+        "Rechts",
+        "Beliebig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die empfohlene Mindestschriftgröße für Haupttext in großen Räumen?",
+      "options": [
+        "12 pt",
+        "18 pt",
+        "24-32 pt",
+        "72 pt"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man zu viele Animationen vermeiden?",
+      "options": [
+        "Sie machen die Datei kleiner",
+        "Sie können das Publikum von der Botschaft ablenken",
+        "Sie sind zu teuer",
+        "Sie funktionieren nicht überall"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine 'Farbpalette'?",
+      "options": [
+        "Ein Zeichenwerkzeug",
+        "Ein Set aus Farben, die gut zusammenpassen",
+        "Die Bildschirmhelligkeit",
+        "Der Name des Referenten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck eines Hintergrunds auf einer Folie?",
+      "options": [
+        "So auffällig wie möglich sein",
+        "Eine saubere Basis bieten, die nicht vom Inhalt ablenkt",
+        "Den Text verstecken",
+        "Viele Fotos zeigen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In welcher Registerkarte kann man den Hintergrund formatieren?",
+      "options": [
+        "Start",
+        "Einfügen",
+        "Entwurf",
+        "Übergänge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Folienorientierung'?",
+      "options": [
+        "Die Reihenfolge der Folien",
+        "Ob die Folie Querformat (breit) oder Hochformat (hoch) ist",
+        "Die Sprache",
+        "Die Folienfarbe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Größe eines Bildes, ohne es zu verzerren?",
+      "options": [
+        "An den Seiten ziehen",
+        "An den Eckpunkten ziehen und Umschalt (Shift) halten",
+        "Oben ziehen",
+        "Radiergummi nutzen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man 'Aufzählungszeichen' (Bullet Points)?",
+      "options": [
+        "Für ganze Absätze",
+        "Um wichtige Punkte klar aufzulisten",
+        "Zur Dekoration",
+        "Um Infos zu verstecken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Ausrichten' bei Objekten?",
+      "options": [
+        "Farbe ändern",
+        "Objekte exakt auf eine Linie bringen (z. B. mittig)",
+        "Löschen",
+        "Speichern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Visuelle Hierarchie'?",
+      "options": [
+        "Anzahl der Bilder",
+        "Elemente nach Wichtigkeit ordnen (z. B. Titel größer)",
+        "Mausgeschwindigkeit",
+        "Dateiname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sollte die Abschlussfolie meistens enthalten?",
+      "options": [
+        "Nichts",
+        "Danke-Sagen und Zeit für Fragen",
+        "Die komplette erste Folie",
+        "Einen schwarzen Bildschirm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Kombination hat einen guten Kontrast?",
+      "options": [
+        "Gelber Text auf weißem Grund",
+        "Schwarzer Text auf hellgrauem Grund",
+        "Weißer Text auf dunkelblauem Grund",
+        "Rosa Text auf weißem Grund"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Standard-Seitenverhältnis für moderne Breitbild-Folien?",
+      "options": [
+        "4:3",
+        "1:1",
+        "16:9",
+        "21:9"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt 'Für alle übernehmen' beim Hintergrund?",
+      "options": [
+        "Ändert nur die aktuelle Folie",
+        "Wendet den Hintergrund auf alle Folien an",
+        "Löscht alle Folien",
+        "Speichert die Datei"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie gelangt man zur Folienmaster-Ansicht?",
+      "options": [
+        "Ansicht -> Folienmaster",
+        "Start -> Master",
+        "F1",
+        "Strg + M"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür werden 'Formen' im Design genutzt?",
+      "options": [
+        "Für lange Geschichten",
+        "Für Diagramme, Icons oder zum Hervorheben",
+        "Für Schriftarten",
+        "Für Audioaufnahmen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Konsistenz' im Design?",
+      "options": [
+        "Andere Schrift auf jeder Folie",
+        "Gleiche Stile, Farben und Schriften in der ganzen Präsentation",
+        "Schnelle Übergänge",
+        "Anzahl der Wörter"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Hauptzweck eines Bildes auf einer Folie?",
+      "options": [
+        "Platz füllen",
+        "Die Botschaft unterstützen und illustrieren",
+        "Datei vergrößern",
+        "Publikum verwirren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Kontrast"
+    },
+    {
+      "type": "typing",
+      "text": "Folienmaster"
+    },
+    {
+      "type": "typing",
+      "text": "serifenlos"
+    },
+    {
+      "type": "typing",
+      "text": "Weißraum"
+    },
+    {
+      "type": "typing",
+      "text": "Landschaft"
+    },
+    {
+      "type": "typing",
+      "text": "Aufzählung"
+    },
+    {
+      "type": "typing",
+      "text": "fett"
+    },
+    {
+      "type": "typing",
+      "text": "Farbpalette"
+    },
+    {
+      "type": "typing",
+      "text": "Konsistenz"
+    },
+    {
+      "type": "typing",
+      "text": "Entwurf"
+    }
+  ]
+}

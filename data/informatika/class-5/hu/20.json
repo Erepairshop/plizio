@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Információkeresés és hitelesség",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Minden igaz, amit az interneten olvasunk?",
+      "options": [
+        "Igen, mindig",
+        "Csak ha sokan lájkolták",
+        "Nem, bármit bárki feltölthet",
+        "Csak amit a Google ír"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a forráskritika?",
+      "options": [
+        "Mások szidása",
+        "Az információ hitelességének ellenőrzése",
+        "A számítógép szerelése",
+        "Gyors gépelés"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik oldal a legmegbízhatóbb egy iskolai hírhez?",
+      "options": [
+        "Egy névtelen blog",
+        "Az iskola hivatalos honlapja",
+        "Egy vicces Facebook poszt",
+        "Egy TikTok videó"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a 'fake news'?",
+      "options": [
+        "Gyors hírek",
+        "Álhírek, amik meg akarnak téveszteni",
+        "Külföldi hírek",
+        "Ingyen hírek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ellenőrizheted, hogy egy hír igaz-e?",
+      "options": [
+        "Megkérdezed a macskádat",
+        "Megnézed több más forrásban is",
+        "Elolvasod még egyszer",
+        "Elküldöd minden barátodnak"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik dátum fontos egy cikknél?",
+      "options": [
+        "A születésnapod",
+        "A cikk megjelenésének ideje",
+        "A holnapi dátum",
+        "Nem fontos a dátum"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki az a szerző?",
+      "options": [
+        "Aki elolvassa a cikket",
+        "Aki a cikket írta",
+        "Aki a számítógépet vette",
+        "Aki az internetet javítja"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos tudni, ki írta a cikket?",
+      "options": [
+        "Hogy tudjuk, ért-e a témához",
+        "Hogy láthassuk a fényképét",
+        "Hogy tudjuk a lakcímét",
+        "Nem fontos tudni"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik weboldal végződés utal gyakran kormányzati szervre?",
+      "options": [
+        ".com",
+        ".hu",
+        ".gov",
+        ".xyz"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a Wikipédia?",
+      "options": [
+        "Egy tévedhetetlen lexikon",
+        "Egy közösség által szerkesztett enciklopédia",
+        "Egy közösségi oldal",
+        "Egy online játék"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e a Wikipédiát egyetlen forrásként használni?",
+      "options": [
+        "Igen, az mindig tökéletes",
+        "Nem, érdemes máshol is ellenőrizni",
+        "Csak matek háziban",
+        "Csak hétvégén"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miről ismerhető fel egy gyanús weboldal?",
+      "options": [
+        "Sok a helyesírási hiba és a reklám",
+        "Szép a színe",
+        "Sok rajta a kép",
+        "Gyorsan betölt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha egy oldal azt mondja, nyertél egy iPhone-t?",
+      "options": [
+        "Azonnal megadod a címed",
+        "Bezárod az oldalt, mert valószínűleg csalás",
+        "Örülsz neki és vársz",
+        "Elküldöd a bankkártya adataidat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a kattintásvadász cím (clickbait)?",
+      "options": [
+        "Egy nagyon unalmas cím",
+        "Egy túlzó, figyelemfelkeltő cím, ami gyakran becsap",
+        "Egy rövid cím",
+        "Egy idegen nyelvű cím"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik forrás a leghitelesebb egy történelmi eseményhez?",
+      "options": [
+        "Egy történelemkönyv vagy múzeum honlapja",
+        "Egy YouTube komment",
+        "Egy mém",
+        "Egy pletyka"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'objektivitás'?",
+      "options": [
+        "Sok tárgy van a képen",
+        "Tárgyilagosság, elfogulatlanság",
+        "Gyorsaság",
+        "Sok pénz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a lábjegyzet egy cikkben?",
+      "options": [
+        "Odaírják a cipőméretet",
+        "Megjelölik a felhasznált forrásokat",
+        "Díszítésre",
+        "Hirdetéseknek"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ellenőrizhetünk egy képet?",
+      "options": [
+        "Kinyomtatjuk",
+        "Használjuk a fordított képkeresőt",
+        "Megnézzük nagyítóval",
+        "Átnevezzük a fájlt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a domain név?",
+      "options": [
+        "A gép neve",
+        "A weboldal azonosító címe",
+        "A tulajdonos neve",
+        "Egy program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Milyen az a forrás, ami 'elfogult'?",
+      "options": [
+        "Nagyon okos",
+        "Csak az egyik nézőpontot mutatja be",
+        "Mindenkit szeret",
+        "Nem működik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik cég logója látható a hiteles oldalakon biztonsági jelként?",
+      "options": [
+        "Egy piros X",
+        "Egy lakat ikon a címsorban",
+        "Egy mosolygós fej",
+        "Egy csontváz"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hány különböző forrást érdemes összevetni?",
+      "options": [
+        "Egyet elég",
+        "Legalább kettőt-hármat",
+        "Százat",
+        "Egyet sem"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért fontos a helyesírás egy komoly oldalon?",
+      "options": [
+        "Mert szebb",
+        "Jelzi az igényességet és megbízhatóságot",
+        "Hogy nehezebb legyen olvasni",
+        "Nem fontos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'szponzorált tartalom'?",
+      "options": [
+        "Ingyenes ajándék",
+        "Fizetett hirdetés, ami cikknek tűnhet",
+        "Titkos üzenet",
+        "Oktatóanyag"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyünk, ha elbizonytalanodunk egy hírben?",
+      "options": [
+        "Elhisszük",
+        "Megkérdezünk egy felnőttet vagy tanárt",
+        "Töröljük az internetet",
+        "Nem foglalkozunk vele"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Az interneten bárki közzétehet bármilyen információt."
+    },
+    {
+      "type": "typing",
+      "text": "Mindig ellenőrizd a hírek forrását és hitelességét!"
+    },
+    {
+      "type": "typing",
+      "text": "Az álhírek célja gyakran a félretájékoztatás."
+    },
+    {
+      "type": "typing",
+      "text": "A Wikipédia cikkeit bárki szerkesztheti az interneten."
+    },
+    {
+      "type": "typing",
+      "text": "A lakat ikon a böngészőben biztonságos kapcsolatot jelez."
+    },
+    {
+      "type": "typing",
+      "text": "A forráskritika segít felismerni a hamis információkat."
+    },
+    {
+      "type": "typing",
+      "text": "Ne higgy el mindent, amit a közösségi médiában látsz!"
+    },
+    {
+      "type": "typing",
+      "text": "A tudományos oldalak általában megbízhatóbb források."
+    },
+    {
+      "type": "typing",
+      "text": "A hír dátuma fontos a naprakészség ellenőrzéséhez."
+    },
+    {
+      "type": "typing",
+      "text": "Kérdezz meg egy tanárt, ha gyanús oldalt találsz!"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Hardware-Grundlagen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist Hardware?",
+      "options": [
+        "Physische Teile eines Computers",
+        "Computerprogramme",
+        "Das Internet",
+        "Computerspiele"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das „Gehirn“ des Computers?",
+      "options": [
+        "Überwachen",
+        "Tastatur",
+        "CPU",
+        "Maus"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht CPU?",
+      "options": [
+        "Zentrale Prozesseinheit",
+        "Zentraleinheit",
+        "Computer-Personaleinheit",
+        "Steuerstromeinheit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist RAM?",
+      "options": [
+        "Dauerhafte Speicherung",
+        "Temporärer Speicher",
+        "Ein Druckertyp",
+        "Ein Computerkabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo sind alle Hauptkomponenten angeschlossen?",
+      "options": [
+        "Hauptplatine",
+        "Stromversorgung",
+        "Fall",
+        "Überwachen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Teil versorgt den Computer mit Strom?",
+      "options": [
+        "CPU",
+        "Netzteil",
+        "RAM",
+        "Festplatte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein Kühlventilator?",
+      "options": [
+        "Reinigt den Bildschirm",
+        "Verhindert eine Überhitzung der CPU",
+        "Beschleunigt das Internet",
+        "Spielt Musik"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient die Festplatte?",
+      "options": [
+        "Temporäre Lagerung",
+        "Langfristige Datenspeicherung",
+        "Bilder werden angezeigt",
+        "Text eingeben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine interne Hardwarekomponente?",
+      "options": [
+        "Drucker",
+        "Scanner",
+        "CPU",
+        "Webcam"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert mit den Daten im RAM, wenn der Strom ausfällt?",
+      "options": [
+        "Es wird",
+        "gespeichert Es ist verloren",
+        "Es wird schneller",
+        "Es wird"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "gedruckt Welcher Teil ist für die Verarbeitung von Grafiken verantwortlich?",
+      "options": [
+        "Soundkarte",
+        "Grafikkarte (GPU)",
+        "Netzwerkkarte",
+        "Tastatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Computergehäuse?",
+      "options": [
+        "Die Box, die die Komponenten",
+        "enthält Das Softwarepaket",
+        "Eine Art Tasche",
+        "Der Monitorrahmen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher davon ist ein tragbarer Computer?",
+      "options": [
+        "Desktop",
+        "Laptop",
+        "Server",
+        "Großrechner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Zweck einer Soundkarte?",
+      "options": [
+        "Um Bilder zu verarbeiten",
+        "Zur Verarbeitung von Audio und Ton",
+        "Zum Speichern von Dateien",
+        "Um eine Verbindung zum Internet herzustellen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht „SSD“?",
+      "options": [
+        "Super-Speed-Antrieb",
+        "Solid-State-Laufwerk",
+        "Systemspeichergerät",
+        "Langsame statische Daten"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist schneller, eine SSD oder eine herkömmliche Festplatte (HDD)?",
+      "options": [
+        "Festplatte",
+        "SSD",
+        "Sie sind gleich",
+        "Keine"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Funktion hat die CMOS-Batterie?",
+      "options": [
+        "Zur Stromversorgung des Monitors",
+        "Um die Systemuhr und BIOS-Einstellungen beizubehalten",
+        "Zum Aufladen des Laptops",
+        "Um die CPU schneller zu machen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo schließt man einen USB-Stick an?",
+      "options": [
+        "Ethernet-Port",
+        "USB-Anschluss",
+        "HDMI-Anschluss",
+        "VGA-Anschluss"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Komponente ist normalerweise im Inneren des Gehäuses versteckt?",
+      "options": [
+        "Tastatur",
+        "Maus",
+        "Hauptplatine",
+        "Überwachen"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine „externe“ Hardware?",
+      "options": [
+        "CPU",
+        "RAM",
+        "Drucker",
+        "Stromversorgung"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die Hauptaufgabe des Motherboards?",
+      "options": [
+        "Drucken von Dokumenten",
+        "Alle Teile miteinander verbinden",
+        "Fotos scannen",
+        "Videos abspielen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In welcher Einheit wird die CPU-Geschwindigkeit gemessen?",
+      "options": [
+        "Liter",
+        "Hertz (GHz)",
+        "Meter",
+        "Gramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Tablet?",
+      "options": [
+        "Eine Art Maus",
+        "Ein mobiler Computer mit Touchscreen",
+        "Ein Druckerteil",
+        "Ein Softwareprogramm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Primärspeicher?",
+      "options": [
+        "USB-Stick",
+        "RAM",
+        "DVD",
+        "Festplatte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was beinhaltet „Hardware“?",
+      "options": [
+        "Nur der Monitor",
+        "Nur die Maus",
+        "Alles, was Sie physisch berühren können",
+        "Nur das Windows-System"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Hardware ist der physische Teil des Computers."
+    },
+    {
+      "type": "typing",
+      "text": "Die CPU ist das Gehirn des Computers."
+    },
+    {
+      "type": "typing",
+      "text": "RAM ist ein temporärer Speicher für den Computer."
+    },
+    {
+      "type": "typing",
+      "text": "Das Motherboard verbindet alle Teile miteinander."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Netzteil versorgt die Maschine mit Strom."
+    },
+    {
+      "type": "typing",
+      "text": "Laptops sind tragbare Personalcomputer."
+    },
+    {
+      "type": "typing",
+      "text": "Eine SSD ist viel schneller als eine alte Festplatte."
+    },
+    {
+      "type": "typing",
+      "text": "Die Grafikkarte hilft bei der Darstellung von Bildern auf dem Bildschirm."
+    },
+    {
+      "type": "typing",
+      "text": "Halten Sie Ihren Computer sauber und kühl, damit Sie besser arbeiten können."
+    },
+    {
+      "type": "typing",
+      "text": "Interne Hardware befindet sich im Computergehäuse."
+    }
+  ]
+}

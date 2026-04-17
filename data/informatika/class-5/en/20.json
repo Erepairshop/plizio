@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Information Search and Credibility",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Is everything on the internet true?",
+      "options": [
+        "Yes, always",
+        "Only if it has many likes",
+        "No, anyone can upload anything",
+        "Only what Google says"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'source criticism'?",
+      "options": [
+        "Criticizing others",
+        "Checking the credibility of information",
+        "Repairing the computer",
+        "Fast typing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which site is most reliable for school news?",
+      "options": [
+        "An anonymous blog",
+        "The official school website",
+        "A funny Facebook post",
+        "A TikTok video"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'fake news'?",
+      "options": [
+        "Fast news",
+        "False news meant to deceive people",
+        "Foreign news",
+        "Free news"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you check if news is true?",
+      "options": [
+        "Ask your cat",
+        "Check multiple other sources",
+        "Read it again",
+        "Send it to all your friends"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which date is important for an article?",
+      "options": [
+        "Your birthday",
+        "The publication date",
+        "Tomorrow's date",
+        "Date is not important"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who is the author?",
+      "options": [
+        "The person who reads the article",
+        "The person who wrote the article",
+        "The person who bought the computer",
+        "The person who repairs the internet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is it important to know who wrote the article?",
+      "options": [
+        "To know if they are an expert",
+        "To see their photo",
+        "To know their address",
+        "It is not important"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which website extension often refers to government sites?",
+      "options": [
+        ".com",
+        ".net",
+        ".gov",
+        ".xyz"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is Wikipedia?",
+      "options": [
+        "An infallible encyclopedia",
+        "A community-edited encyclopedia",
+        "A social media site",
+        "An online game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Should you use Wikipedia as your only source?",
+      "options": [
+        "Yes, it is always perfect",
+        "No, you should verify it elsewhere",
+        "Only for math homework",
+        "Only on weekends"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you recognize a suspicious website?",
+      "options": [
+        "Many typos and lots of ads",
+        "Pretty colors",
+        "Many pictures",
+        "Loads quickly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if a site says you won an iPhone?",
+      "options": [
+        "Give your address immediately",
+        "Close the site, it is likely a scam",
+        "Be happy and wait",
+        "Send your credit card details"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'clickbait'?",
+      "options": [
+        "A very boring title",
+        "An exaggerated, catchy title that is often misleading",
+        "A short title",
+        "A title in a foreign language"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which source is most credible for a historical event?",
+      "options": [
+        "A history book or museum website",
+        "A YouTube comment",
+        "A meme",
+        "A rumor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'objectivity' mean?",
+      "options": [
+        "Many objects in the picture",
+        "Impartiality, being unbiased",
+        "Speed",
+        "Lots of money"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a footnote for in an article?",
+      "options": [
+        "To write shoe size",
+        "To list the sources used",
+        "For decoration",
+        "For advertisements"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can we verify an image?",
+      "options": [
+        "Print it out",
+        "Use reverse image search",
+        "Look at it with a magnifying glass",
+        "Rename the file"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a domain name?",
+      "options": [
+        "Computer name",
+        "The identifying address of a website",
+        "The owner's name",
+        "A program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'biased' source?",
+      "options": [
+        "Very smart",
+        "Shows only one point of view",
+        "Likes everyone",
+        "Does not work"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which icon is seen on secure sites as a safety sign?",
+      "options": [
+        "A red X",
+        "A padlock icon in the address bar",
+        "A smiley face",
+        "A skeleton"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How many different sources should you compare?",
+      "options": [
+        "One is enough",
+        "At least two or three",
+        "A hundred",
+        "None"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why is spelling important on a serious website?",
+      "options": [
+        "It looks better",
+        "Indicates care and reliability",
+        "Makes it harder to read",
+        "It is not important"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'sponsored content'?",
+      "options": [
+        "Free gift",
+        "Paid advertising that may look like an article",
+        "Secret message",
+        "Educational material"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you are unsure about a news story?",
+      "options": [
+        "Believe it anyway",
+        "Ask a trusted adult or teacher",
+        "Delete the internet",
+        "Ignore it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Anyone can publish any information on the internet."
+    },
+    {
+      "type": "typing",
+      "text": "Always check the source and credibility of news!"
+    },
+    {
+      "type": "typing",
+      "text": "The goal of fake news is often disinformation."
+    },
+    {
+      "type": "typing",
+      "text": "Wikipedia articles can be edited by anyone online."
+    },
+    {
+      "type": "typing",
+      "text": "The padlock icon in the browser indicates a secure connection."
+    },
+    {
+      "type": "typing",
+      "text": "Source criticism helps identify false information."
+    },
+    {
+      "type": "typing",
+      "text": "Do not believe everything you see on social media!"
+    },
+    {
+      "type": "typing",
+      "text": "Scientific sites are generally more reliable sources."
+    },
+    {
+      "type": "typing",
+      "text": "The date of the news is important for checking freshness."
+    },
+    {
+      "type": "typing",
+      "text": "Ask a teacher if you find a suspicious website!"
+    }
+  ]
+}

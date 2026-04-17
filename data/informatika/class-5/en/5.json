@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "File Management",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is a file?",
+      "options": [
+        "A hardware component",
+        "A collection of data with a name",
+        "A computer cable",
+        "A type of desk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Folder' used for?",
+      "options": [
+        "Measuring paper",
+        "Organizing files",
+        "Charging the laptop",
+        "Playing music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'File Extension'?",
+      "options": [
+        "A longer cable",
+        "The end of a filename that shows the file type",
+        "The size of the file",
+        "The file's price"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which extension is usually for text files?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".txt",
+        ".exe"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which extension is usually for images?",
+      "options": [
+        ".txt",
+        ".jpg",
+        ".wav",
+        ".zip"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Copying' a file do?",
+      "options": [
+        "Moves it to another place",
+        "Creates a duplicate of the file",
+        "Deletes the file",
+        "Renames the file"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Moving' (Cut and Paste) a file do?",
+      "options": [
+        "Creates a duplicate",
+        "Moves the original to a new location",
+        "Prints the file",
+        "Changes the file type"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you rename a file?",
+      "options": [
+        "By deleting it",
+        "By selecting it and changing its name",
+        "By moving it to the bin",
+        "By printing it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Path' of a file?",
+      "options": [
+        "The road to the computer store",
+        "The location of a file in the folder system",
+        "The weight of the file",
+        "The file's color"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which extension is for executable programs?",
+      "options": [
+        ".exe",
+        ".txt",
+        ".mp3",
+        ".pdf"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Compressed' (Zipped) folder?",
+      "options": [
+        "A folder that is very heavy",
+        "A folder that takes up less space",
+        "A broken folder",
+        "A folder with no files"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which extension is for music?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".exe",
+        ".txt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Deleting' a file?",
+      "options": [
+        "Making a copy",
+        "Removing it from its location",
+        "Renaming it",
+        "Opening it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Subfolder'?",
+      "options": [
+        "A folder inside another folder",
+        "A folder for sandwiches",
+        "A folder on the internet",
+        "A hidden folder"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How can you select multiple files?",
+      "options": [
+        "By using the Ctrl or Shift keys",
+        "By turning off the monitor",
+        "By unplugging the mouse",
+        "By closing the window"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'Root' directory?",
+      "options": [
+        "A plant part",
+        "The top-level folder of a drive",
+        "A type of cable",
+        "The recycle bin"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which extension is for PDF documents?",
+      "options": [
+        ".pdf",
+        ".jpg",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Paste' do?",
+      "options": [
+        "Cuts a file",
+        "Places a copied or cut file in a new location",
+        "Deletes a file",
+        "Renames a file"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Why should we organize files into folders?",
+      "options": [
+        "To make them heavier",
+        "To find them easily later",
+        "To make the computer colorful",
+        "To hide them from the OS"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Storage Capacity'?",
+      "options": [
+        "The speed of the computer",
+        "The amount of data a drive can hold",
+        "The size of the monitor",
+        "The number of keys on the keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which device is often used to move files between computers?",
+      "options": [
+        "Printer",
+        "USB Flash Drive",
+        "Scanner",
+        "CPU"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Cloud' drive?",
+      "options": [
+        "A drive that floats",
+        "Storage space on the internet",
+        "A drive that works only in rain",
+        "A type of fan"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Shortcut' icon?",
+      "options": [
+        "The real file",
+        "A link that opens the file from elsewhere",
+        "A deleted file",
+        "A broken file"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which extension is for video files?",
+      "options": [
+        ".mp4",
+        ".txt",
+        ".mp3",
+        ".zip"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the typical size of a simple text file?",
+      "options": [
+        "Very small (bytes or KB)",
+        "Very large (GB)",
+        "Medium (MB)",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "A file is a piece of information with a name."
+    },
+    {
+      "type": "typing",
+      "text": "Folders help you keep your files organized."
+    },
+    {
+      "type": "typing",
+      "text": "File extensions tell us what kind of file it is."
+    },
+    {
+      "type": "typing",
+      "text": "Use Copy and Paste to duplicate a file."
+    },
+    {
+      "type": "typing",
+      "text": "The .txt extension is for simple text documents."
+    },
+    {
+      "type": "typing",
+      "text": "A zipped folder takes up less storage space."
+    },
+    {
+      "type": "typing",
+      "text": "Be careful when deleting important files."
+    },
+    {
+      "type": "typing",
+      "text": "Renaming a file helps you identify its content."
+    },
+    {
+      "type": "typing",
+      "text": "The file path shows where a file is stored."
+    },
+    {
+      "type": "typing",
+      "text": "Always keep your documents folder tidy."
+    }
+  ]
+}

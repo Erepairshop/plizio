@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Welt der Daten",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was sind Daten in der Informatik?",
+      "options": [
+        "Ein Zeichen oder Symbol",
+        "Eine Information",
+        "Eine Menge von Zahlen",
+        "Alle oben genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Einheit ist die kleinste?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie viele Bits enthält 1 Byte?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche davon ist eine Datenspeichereinheit?",
+      "options": [
+        "Meter",
+        "Liter",
+        "Gigabyte",
+        "Gramm"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür steht „KB“?",
+      "options": [
+        "Kilobatterie",
+        "Kilobyte",
+        "Tastatur",
+        "Schlüsselbit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 1024 Megabyte?",
+      "options": [
+        "1 Gigabyte",
+        "1 Terabyte",
+        "1 Kilobyte",
+        "1 Bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mit welcher Einheit werden heute sehr große Festplatten gemessen?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Megabyte",
+        "Terabyte"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind „Informationen“?",
+      "options": [
+        "Zufälliges Rauschen",
+        "Verarbeitete und aussagekräftige Daten",
+        "Nur Zahlen",
+        "Ein Computerbildschirm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie können Daten digital gespeichert werden?",
+      "options": [
+        "Notizbuch",
+        "Festplatte",
+        "Erinnerung",
+        "Bleistift"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient ein Passwort?",
+      "options": [
+        "Den Computer beschleunigen",
+        "Datenschutz",
+        "Spiele spielen",
+        "Schneller tippen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein sicheres Passwort?",
+      "options": [
+        "1234",
+        "Passwort",
+        "Eine Mischung aus Buchstaben, Zahlen und Symbolen",
+        "dein Name"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist KEIN Speichergerät?",
+      "options": [
+        "USB-Flash-Laufwerk",
+        "Cloud-Speicher",
+        "CPU",
+        "Festplatte"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet „digital“ in der Informatik?",
+      "options": [
+        "Mit den Fingern",
+        "eingeben Dargestellt durch Zahlen (0 und 1)",
+        "Nur Farben verwenden",
+        "Analoge Signale"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo werden Daten dauerhaft gespeichert?",
+      "options": [
+        "RAM",
+        "Überwachen",
+        "Festplatte",
+        "Maus"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein „Bit“?",
+      "options": [
+        "Ein kleines Byte",
+        "Binärziffer (0 oder 1)",
+        "Ein Stück einer Maus",
+        "Ein Computerspiel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Hauptzweck der Datensicherung?",
+      "options": [
+        "Um den Computer schneller zu machen",
+        "Zur Datensicherung bei Verlust",
+        "Um das Hintergrundbild zu ändern",
+        "Um neue Spiele zu installieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches ist hier die größte Einheit?",
+      "options": [
+        "GB",
+        "MB",
+        "KB",
+        "Byte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Cloud-Speicher“?",
+      "options": [
+        "Datenspeicherung auf dem Mond",
+        "Speichern von Daten auf Remote-Servern über das Internet",
+        "Daten im Regen speichern",
+        "Eine Art Tastatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind „Eingabe“-Daten?",
+      "options": [
+        "Auf dem Bildschirm angezeigte Daten",
+        "In den Computer eingegebene Daten",
+        "An den Drucker gesendete Daten",
+        "Daten, die gelöscht werden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind „Ausgabedaten“?",
+      "options": [
+        "Mit der Maus eingegebene Daten",
+        "Daten, die der Computer anzeigt oder ausgibt",
+        "Im RAM gespeicherte Daten",
+        "Daten in einem Ordner"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist eine „Datenbank“?",
+      "options": [
+        "Eine Sammlung organisierter Daten",
+        "Eine Art Monitor",
+        "Ein Computergehäuse",
+        "Ein Stromkabel"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol wird häufig in E-Mail-Adressen verwendet?",
+      "options": [
+        "#",
+        "$",
+        "@",
+        "&"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Datenschutz“?",
+      "options": [
+        "Alles online teilen",
+        "Schutz Ihrer persönlichen Daten",
+        "Verwendung eines öffentlichen Computers",
+        "Musik herunterladen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist „Verschlüsselung“?",
+      "options": [
+        "Dateien löschen",
+        "Daten verschlüsseln, um sie geheim zu halten",
+        "Drucken eines Dokuments",
+        "Einen Ordner benennen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche davon sind Textdaten?",
+      "options": [
+        "Ein Foto",
+        "Ein Lied",
+        "Ein Brief an einen Freund",
+        "Ein Videoclip"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Daten sind Informationen, die ein Computer verarbeiten kann."
+    },
+    {
+      "type": "typing",
+      "text": "Acht Bits ergeben ein Byte."
+    },
+    {
+      "type": "typing",
+      "text": "Ein sicheres Passwort schützt Ihr Konto."
+    },
+    {
+      "type": "typing",
+      "text": "Sichern Sie immer Ihre wichtigen Dateien."
+    },
+    {
+      "type": "typing",
+      "text": "Ein Gigabyte ist größer als ein Megabyte."
+    },
+    {
+      "type": "typing",
+      "text": "Computer verwenden Binärzahlen: Null und Eins."
+    },
+    {
+      "type": "typing",
+      "text": "Die Festplatte speichert Ihre Daten dauerhaft."
+    },
+    {
+      "type": "typing",
+      "text": "Geben Sie Ihr Passwort niemals an Fremde weiter."
+    },
+    {
+      "type": "typing",
+      "text": "Digitale Daten können einfach kopiert und weitergegeben werden."
+    },
+    {
+      "type": "typing",
+      "text": "Informationen sind Daten, die eine Bedeutung haben."
+    }
+  ]
+}

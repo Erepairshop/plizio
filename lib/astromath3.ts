@@ -55,7 +55,7 @@ export const G3_ISLANDS: IslandDef[] = [
     topicKeys: ["g3_add_mental", "g3_add_written"],
     missions: [
       { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Addition",    hu: "Összeadás felfedezése",    de: "Addition entdecken",       ro: "Descoperă adunarea"     } },
-      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",      hu: "Egyenlet drill",           de: "Gleichungs-Drill",         ro: "Ecuații"                } },
+      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",      hu: "Egyenletgyakorlat",         de: "Gleichungs-Drill",         ro: "Ecuații"                } },
       { id: "m3", category: "challenge", gameType: "speed-round",      icon: "⚡", label: { en: "Speed Round",          hu: "Gyors kör",                de: "Speedrunde",               ro: "Rundă rapidă"           } },
     ],
     svgX: 80, svgY: 440,
@@ -91,7 +91,7 @@ export const G3_ISLANDS: IslandDef[] = [
     topicKeys: ["g3_div_basic", "g3_div_rem"],
     missions: [
       { id: "m1", category: "explore",   gameType: "division-explorer", icon: "🔍", label: { en: "Discover Division",  hu: "Osztás felfedezése",      de: "Division entdecken",       ro: "Descoperă împărțirea"   } },
-      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Equation Drill",     hu: "Egyenlet drill",          de: "Gleichungs-Drill",         ro: "Ecuații"                } },
+      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Equation Drill",     hu: "Egyenletgyakorlat",        de: "Gleichungs-Drill",         ro: "Ecuații"                } },
       { id: "m3", category: "challenge", gameType: "star-match",        icon: "⭐", label: { en: "Star Match",          hu: "Csillagpárosítás",        de: "Sternenpaare",             ro: "Perechi stele"          } },
     ],
     svgX: 220, svgY: 195,

@@ -346,7 +346,7 @@ export const C6P1_Generators = {
     questions.push(createTyping(topic, subtopic, "Ce este complementul locativ?", "indică locul acțiunii"));
     questions.push(createTyping(topic, subtopic, "Ce este atributul?", "determină substantivul"));
     questions.push(createTyping(topic, subtopic, "Care sunt funcțiile sintactice principale?", "Subiect, Predicat, Complement"));
-    questions.push(createTyping(topic, subtopic, "Ce exprimă complementul prepoziție?", "relație cu alt element"));
+    questions.push(createTyping(topic, subtopic, "Ce exprimă complementul prepozițional?", "relație cu un alt element"));
     questions.push(createTyping(topic, subtopic, "Ce este funcția sintactică?", "rol al cuvântului în propoziție"));
     questions.push(createTyping(topic, subtopic, "Câte funcții sintactice principale sunt?", "trei: subiect, predicat, complement"));
     questions.push(createTyping(topic, subtopic, "Ce răspunde la 'pe cine/ce'?", "Complement direct"));

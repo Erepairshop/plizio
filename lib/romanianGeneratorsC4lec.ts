@@ -50,7 +50,7 @@ function genIntelegereText(seed: number): CurriculumQuestion[] {
     { type: "typing", topic: T, subtopic: S, question: "Completează: Când cititorul deduce ceva din textul citit, aceasta este o informație...", answer: ["implicită", "implicita"] },
     { type: "typing", topic: T, subtopic: S, question: "Completează: Când autorul spune clar o informație în text, aceasta este...", answer: ["explicită", "explicita"] },
     { type: "typing", topic: T, subtopic: S, question: "Scrie un sinonim pentru 'implicită' (dedus fără a fi spus direct)", answer: ["ascunsă", "ascunsa", "pe jumătate"] },
-    { type: "typing", topic: T, subtopic: S, question: "Cum se numește procesul prin care cititor deduce informații din text?", answer: ["inferență", "inferenta", "deducție"] },
+    { type: "typing", topic: T, subtopic: S, question: "Cum se numește procesul prin care cititorul deduce informații din text?", answer: ["inferență", "inferenta", "deducție"] },
     { type: "typing", topic: T, subtopic: S, question: "Dacă o carte spune 'Ploua torenţial', aceasta este informație...?", answer: ["explicită", "explicita"] },
     { type: "typing", topic: T, subtopic: S, question: "Dacă din text deducem că o persoană e trisă din gesturile ei, unde e informația?", answer: ["implicită", "implicita"] },
     { type: "typing", topic: T, subtopic: S, question: "Care metodă de lectură te ajută să găsești informații implicite?", answer: ["analiza", "citire atentă", "citire activa"] },
@@ -73,11 +73,11 @@ function genPersonaje(seed: number): CurriculumQuestion[] {
     { q: "Personajul PRINCIPAL al unui text literar se mai numește:", c: "protagonist", w: ["antagonist", "narator", "autor"] },
     { q: "Portretul FIZIC al unui personaj descrie:", c: "înfățișarea (față, ochi, păr, statură)", w: ["caracterul și valorile morale", "faptele personajului", "relațiile cu alte personaje"] },
     { q: "Portretul MORAL al unui personaj descrie:", c: "calitățile și defectele de caracter", w: ["culoarea ochilor și a părului", "vârsta și înălțimea", "hainele personajului"] },
-    { q: "Cum se numește personajul care se opune protagonistului?", c: "antagonist", w: ["deuteragonist", "tritagonist", "coagent"] },
+    { q: "Cum se numește personajul care se opune protagonistului?", c: "antagonist", w: ["protagonist", "narator", "personaj secundar"] },
     { q: "Personajele care nu sunt principale dar participă la acțiune se numesc:", c: "secundare", w: ["principali", "figuranți", "actori"] },
-    { q: "Cum se numește textul în care un personaj vorbește singur pentru a se caractariza?", c: "monolog", w: ["dialog", "glas interior", "soliloc"] },
-    { q: "Atunci când personajul vorbește, aceea este caracterizare:", c: "indirectă", w: ["directă", "prin aspectă", "prin gânduri"] },
-    { q: "Care din următoarele este o metodă de caracterizare: prin reacțiile altor personaje?", c: "indirectă", w: ["directă", "prin aspectă", "prin descriere"] },
+    { q: "Cum se numește textul în care un personaj vorbește singur pentru a se caracteriza?", c: "monolog", w: ["dialog", "glas interior", "solilocviu"] },
+    { q: "Atunci când personajul vorbește, aceea este caracterizare:", c: "indirectă", w: ["directă", "prin aspect", "prin gânduri"] },
+    { q: "Care din următoarele este o metodă de caracterizare: prin reacțiile altor personaje?", c: "indirectă", w: ["directă", "prin aspect", "prin descriere"] },
   ];
 
   const mcqs: CurriculumMCQ[] = [];
@@ -90,13 +90,13 @@ function genPersonaje(seed: number): CurriculumQuestion[] {
   const typings: CurriculumTyping[] = [
     { type: "typing", topic: T, subtopic: S, question: "Ce este caracterizarea DIRECTĂ?", answer: ["când autorul spune direct calitățile", "cand autorul spune direct calitatile", "spus explicit"] },
     { type: "typing", topic: T, subtopic: S, question: "Ce este caracterizarea INDIRECTĂ?", answer: ["dedusă din fapte și comportament", "deducta din fapte si comportament", "prin gesturi"] },
-    { type: "typing", topic: T, subtopic: S, question: "Cum se numește personajul principal al unei poveștii?", answer: ["protagonist", "personajul principal"] },
+    { type: "typing", topic: T, subtopic: S, question: "Cum se numește personajul principal al unei povești?", answer: ["protagonist", "personajul principal"] },
     { type: "typing", topic: T, subtopic: S, question: "Cum se numește personajul care se opune protagonistului?", answer: ["antagonist", "adversar"] },
     { type: "typing", topic: T, subtopic: S, question: "Portretul ... descrie înfățișarea fizică a personajului.", answer: ["fizic", "fizic al personajului"] },
     { type: "typing", topic: T, subtopic: S, question: "Portretul ... descrie caracterul și valorile morale ale personajului.", answer: ["moral", "moral al personajului"] },
     { type: "typing", topic: T, subtopic: S, question: "Completează: Atunci când personajul vorbește, aceea este caracterizare...", answer: ["indirectă", "indirecta"] },
     { type: "typing", topic: T, subtopic: S, question: "Scrie cum se numesc personajele care nu sunt principale dar participă la acțiune", answer: ["secundare", "secundari", "personaje secundare"] },
-    { type: "typing", topic: T, subtopic: S, question: "Cum se numește textul în care un personaj vorbește singur pentru a se caractariza?", answer: ["monolog", "monolog interior"] },
+    { type: "typing", topic: T, subtopic: S, question: "Cum se numește textul în care un personaj vorbește singur pentru a se caracteriza?", answer: ["monolog", "monolog interior"] },
     { type: "typing", topic: T, subtopic: S, question: "Care din următoarele este o metodă de caracterizare: prin reacțiile altor personaje?", answer: ["indirectă", "indirecta", "prin alții"] },
   ];
 
@@ -132,15 +132,15 @@ function genTemaMesaj(seed: number): CurriculumQuestion[] {
 
   const typings: CurriculumTyping[] = [
     { type: "typing", topic: T, subtopic: S, question: "Definește TEMA unui text", answer: ["subiectul despre care vorbește", "subiectul principal", "ceea ce descrie"] },
-    { type: "typing", topic: T, subtopic: S, question: "Definește MESAJUL unui text", answer: ["lecția morală pe care o transmite", "ideea principale transmisă", "învățătura"] },
-    { type: "typing", topic: T, subtopic: S, question: "Completează: TEMA este 'Despre ce vorbește?', iar MESAJUL este 'Ce vrea autorul...'?", answer: ["să ne învețe", "sa ne invateze", "să transmită"] },
+    { type: "typing", topic: T, subtopic: S, question: "Definește MESAJUL unui text", answer: ["lecția morală pe care o transmite", "ideea principală transmisă", "învățătura"] },
+    { type: "typing", topic: T, subtopic: S, question: "Completează: TEMA este 'Despre ce vorbește?', iar MESAJUL este 'Ce vrea autorul...'?", answer: ["să ne învețe", "sa ne invete", "să transmită"] },
     { type: "typing", topic: T, subtopic: S, question: "Care este TEMA unui text despre doi prieteni care se ajută?", answer: ["prietenia", "prieteniei"] },
     { type: "typing", topic: T, subtopic: S, question: "Care este MESAJUL unui text în care cineva muncitor reușește?", answer: ["munca aduce succes", "munca e importantă", "perseverența e necesară"] },
     { type: "typing", topic: T, subtopic: S, question: "Scrie un cuvânt care poate fi TEMĂ: curaj, sinceritate sau...", answer: ["cinstea", "dragostea", "prietenia", "loialitatea"] },
     { type: "typing", topic: T, subtopic: S, question: "Unde caută cititorul de obicei MESAJUL unui text?", answer: ["la final", "in final", "în finalul textului"] },
     { type: "typing", topic: T, subtopic: S, question: "Completează: Un text despre natură transmite cel mai probabil mesajul: 'Trebuie să...'", answer: ["o ocrotim", "o respectam", "o apărăm"] },
     { type: "typing", topic: T, subtopic: S, question: "Cum se numește învățătura pe care o transmite autorul?", answer: ["mesaj", "morală", "lecție"] },
-    { type: "typing", topic: T, subtopic: S, question: "Completează: Tema și mesajul sunt diferite; tema arată 'ce', mesajul arată '...'", answer: ["ce lecție", "lecția morală", "invățatura"] },
+    { type: "typing", topic: T, subtopic: S, question: "Completează: Tema și mesajul sunt diferite; tema arată 'ce', mesajul arată '...'", answer: ["ce lecție", "lecția morală", "invatatura"] },
   ];
 
   return shuffle([...mcqs, ...typings], rng);
@@ -176,7 +176,7 @@ function genFiguriStil(seed: number): CurriculumQuestion[] {
   const typings: CurriculumTyping[] = [
     { type: "typing", topic: T, subtopic: S, question: "Ce figură de stil conține cuvântul 'ca' sau 'precum'?", answer: ["comparație", "comparatia"] },
     { type: "typing", topic: T, subtopic: S, question: "Cum se numește figura de stil care exagerează?", answer: ["hiperbolă", "hiperbola"] },
-    { type: "typing", topic: T, subtopic: S, question: "Cum se numește figura care atribuie iensușiri omenești obiectelor?", answer: ["personificare", "personificarea"] },
+    { type: "typing", topic: T, subtopic: S, question: "Cum se numește figura care atribuie însușiri omenești obiectelor?", answer: ["personificare", "personificarea"] },
     { type: "typing", topic: T, subtopic: S, question: "Metafora se deosebește de comparație prin absența cuvintelor...", answer: ["ca, precum", "ca; precum", "ca"] },
     { type: "typing", topic: T, subtopic: S, question: "Completează: Frunzele ... în vânt (personificare)", answer: ["dansau", "pluteau", "plutit"] },
     { type: "typing", topic: T, subtopic: S, question: "Scrie o propoziție cu comparație (foloseşte 'ca')", answer: ["ochii ca stele", "albă ca ninge", "glas ca flaut"] },

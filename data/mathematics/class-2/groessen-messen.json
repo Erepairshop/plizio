@@ -9,8 +9,13 @@
       "question": "Wie viele Zentimeter sind 1 Meter?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [100, 10, 50, 1000],
-      "correct": 0,
+      "options": [
+        1000,
+        10,
+        100,
+        50
+      ],
+      "correct": 2,
       "explanation": "1 Meter = 100 Zentimeter"
     },
     {
@@ -18,8 +23,13 @@
       "question": "Was ist länger: 50 cm oder 1 m?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["1 m", "50 cm", "Gleich lang", "Kann man nicht vergleichen"],
-      "correct": 0,
+      "options": [
+        "Gleich lang",
+        "1 m",
+        "50 cm",
+        "Kann man nicht vergleichen"
+      ],
+      "correct": 1,
       "explanation": "1 m = 100 cm, also ist 1 m länger als 50 cm"
     },
     {
@@ -27,8 +37,13 @@
       "question": "Ein Lineal ist 30 cm lang. Wie lang sind 2 Lineale hintereinander?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [60, 50, 40, 90],
-      "correct": 0,
+      "options": [
+        40,
+        60,
+        50,
+        90
+      ],
+      "correct": 1,
       "explanation": "30 cm + 30 cm = 60 cm"
     },
     {
@@ -36,8 +51,13 @@
       "question": "Wie viel Uhr ist es, wenn der große Zeiger auf 3 und der kleine Zeiger auf 6 steht?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["Viertel nach 6", "Viertel vor 6", "6 Uhr", "Halb 6"],
-      "correct": 0,
+      "options": [
+        "Halb 6",
+        "Viertel vor 6",
+        "Viertel nach 6",
+        "6 Uhr"
+      ],
+      "correct": 2,
       "explanation": "Wenn der große Zeiger auf 3 steht, ist es Viertel nach. Der kleine Zeiger zeigt 6, also Viertel nach 6."
     },
     {
@@ -45,8 +65,13 @@
       "question": "Wie viele Minuten hat eine halbe Stunde?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [30, 20, 45, 60],
-      "correct": 0,
+      "options": [
+        60,
+        30,
+        45,
+        20
+      ],
+      "correct": 1,
       "explanation": "Eine Stunde hat 60 Minuten. Die Hälfte davon sind 30 Minuten."
     },
     {
@@ -54,8 +79,13 @@
       "question": "Ein Eis kostet 2 Euro. Du bezahlst mit einem 5-Euro-Schein. Wie viel Rückgeld bekommst du?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 2, 4, 1],
-      "correct": 0,
+      "options": [
+        4,
+        3,
+        1,
+        2
+      ],
+      "correct": 1,
       "explanation": "5 - 2 = 3 Euro Rückgeld"
     },
     {
@@ -63,8 +93,13 @@
       "question": "Ein Heft kostet 1 Euro und 50 Cent. Ein Bleistift kostet 50 Cent. Wie viel kosten beide zusammen?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["2 Euro", "1 Euro 50 Cent", "3 Euro", "2 Euro 50 Cent"],
-      "correct": 0,
+      "options": [
+        "2 Euro 50 Cent",
+        "2 Euro",
+        "3 Euro",
+        "1 Euro 50 Cent"
+      ],
+      "correct": 1,
       "explanation": "1 Euro 50 Cent + 50 Cent = 2 Euro"
     },
     {
@@ -72,7 +107,12 @@
       "question": "Du hast 10 Euro. Du kaufst ein Buch für 6 Euro und einen Stift für 2 Euro. Wie viel Geld bleibt übrig?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2, 3, 1, 4],
+      "options": [
+        2,
+        4,
+        1,
+        3
+      ],
       "correct": 0,
       "explanation": "10 - 6 - 2 = 2 Euro"
     },
@@ -80,18 +120,16 @@
       "id": "2-mass-009",
       "question": "Wie viel Cent sind 3 Euro und 25 Cent?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [325, 300, 350, 225],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "3 Euro = 300 Cent, plus 25 Cent = 325 Cent"
     },
     {
       "id": "2-mass-010",
       "question": "Anna hat drei 2-Euro-Münzen und fünf 1-Euro-Münzen. Wie viel Geld hat sie?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [11, 10, 12, 8],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "3 × 2 Euro = 6 Euro, plus 5 × 1 Euro = 5 Euro. Zusammen: 6 + 5 = 11 Euro"
     },
     {
@@ -99,8 +137,13 @@
       "question": "Wie viele Zentimeter sind 2 Meter?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [200, 100, 300, 20],
-      "correct": 0,
+      "options": [
+        20,
+        300,
+        200,
+        100
+      ],
+      "correct": 2,
       "explanation": "2 Meter = 2 × 100 = 200 Zentimeter"
     },
     {
@@ -108,8 +151,13 @@
       "question": "Wie viele Minuten hat eine Stunde?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [60, 30, 100, 45],
-      "correct": 0,
+      "options": [
+        30,
+        100,
+        60,
+        45
+      ],
+      "correct": 2,
       "explanation": "1 Stunde = 60 Minuten"
     },
     {
@@ -117,7 +165,12 @@
       "question": "Ein Bleistift ist 17 cm lang. Ein Lineal ist 30 cm lang. Um wie viel cm ist das Lineal länger?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [13, 12, 14, 11],
+      "options": [
+        13,
+        14,
+        12,
+        11
+      ],
       "correct": 0,
       "explanation": "30 - 17 = 13 cm"
     },
@@ -126,8 +179,13 @@
       "question": "Du hast 50 Cent. Du kaufst ein Bonbon für 20 Cent. Wie viel Cent hast du noch?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [30, 25, 35, 20],
-      "correct": 0,
+      "options": [
+        25,
+        35,
+        20,
+        30
+      ],
+      "correct": 3,
       "explanation": "50 - 20 = 30 Cent"
     },
     {
@@ -135,8 +193,13 @@
       "question": "Wie viele Tage hat eine Woche?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [7, 5, 6, 8],
-      "correct": 0,
+      "options": [
+        6,
+        7,
+        5,
+        8
+      ],
+      "correct": 1,
       "explanation": "Eine Woche hat 7 Tage"
     },
     {
@@ -144,8 +207,13 @@
       "question": "Mama kauft Äpfel für 1 Euro 20 Cent und Orangen für 80 Cent. Wie viel Cent kostet beides zusammen?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [200, 180, 220, 160],
-      "correct": 0,
+      "options": [
+        180,
+        200,
+        160,
+        220
+      ],
+      "correct": 1,
       "explanation": "120 Cent + 80 Cent = 200 Cent"
     },
     {
@@ -153,8 +221,13 @@
       "question": "Ein Stab ist 45 cm lang. Ein zweiter Stab ist 35 cm lang. Wie lang sind beide zusammen?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [80, 70, 90, 75],
-      "correct": 0,
+      "options": [
+        70,
+        75,
+        90,
+        80
+      ],
+      "correct": 3,
       "explanation": "45 + 35 = 80 cm"
     },
     {
@@ -162,17 +235,21 @@
       "question": "Wie viele Stunden hat ein Tag?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [24, 12, 60, 48],
-      "correct": 0,
+      "options": [
+        60,
+        48,
+        12,
+        24
+      ],
+      "correct": 3,
       "explanation": "Ein Tag hat 24 Stunden"
     },
     {
       "id": "2-mass-019",
       "question": "Du hast 1 Euro und 50 Cent. Du kaufst etwas für 80 Cent. Wie viel Cent hast du noch?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [70, 60, 80, 50],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "150 Cent - 80 Cent = 70 Cent"
     },
     {
@@ -180,8 +257,13 @@
       "question": "Ein Brötchen kostet 30 Cent. Was kosten 4 Brötchen?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [120, 90, 150, 80],
-      "correct": 0,
+      "options": [
+        80,
+        150,
+        120,
+        90
+      ],
+      "correct": 2,
       "explanation": "4 × 30 Cent = 120 Cent"
     },
     {
@@ -189,8 +271,13 @@
       "question": "Wie viele Cent sind 2 Euro?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [200, 100, 20, 2],
-      "correct": 0,
+      "options": [
+        2,
+        200,
+        100,
+        20
+      ],
+      "correct": 1,
       "explanation": "1 Euro = 100 Cent, also 2 Euro = 200 Cent"
     },
     {
@@ -198,8 +285,13 @@
       "question": "Ein Seil ist 80 cm lang. Du schneidest 25 cm ab. Wie viel Seil bleibt?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [55, 50, 60, 45],
-      "correct": 0,
+      "options": [
+        50,
+        45,
+        55,
+        60
+      ],
+      "correct": 2,
       "explanation": "80 - 25 = 55 cm"
     },
     {
@@ -207,8 +299,13 @@
       "question": "Die Schule dauert von 8 Uhr bis 12 Uhr. Wie viele Stunden dauert sie?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 5, 6],
-      "correct": 0,
+      "options": [
+        6,
+        3,
+        5,
+        4
+      ],
+      "correct": 3,
       "explanation": "Von 8 bis 12 Uhr sind es 4 Stunden"
     },
     {
@@ -216,8 +313,13 @@
       "question": "Tim bekommt jede Woche 2 Euro Taschengeld. Wie viel hat er nach 4 Wochen?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 6, 10, 4],
-      "correct": 0,
+      "options": [
+        4,
+        10,
+        6,
+        8
+      ],
+      "correct": 3,
       "explanation": "4 × 2 Euro = 8 Euro"
     },
     {
@@ -225,8 +327,13 @@
       "question": "Ein Schnur ist 1 Meter lang. Du schneidest 30 cm ab. Wie viel Zentimeter sind noch übrig?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [70, 60, 80, 30],
-      "correct": 0,
+      "options": [
+        60,
+        70,
+        30,
+        80
+      ],
+      "correct": 1,
       "explanation": "100 cm - 30 cm = 70 cm"
     },
     {
@@ -234,26 +341,29 @@
       "question": "Wie viele Monate hat ein Jahr?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [12, 10, 24, 8],
-      "correct": 0,
+      "options": [
+        10,
+        8,
+        24,
+        12
+      ],
+      "correct": 3,
       "explanation": "Ein Jahr hat 12 Monate"
     },
     {
       "id": "2-mass-027",
       "question": "Papa bezahlt 5 Euro für ein Buch und bekommt 1 Euro 50 Cent zurück. Wie viel Cent kostete das Buch?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [350, 300, 400, 250],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "500 Cent - 150 Cent = 350 Cent"
     },
     {
       "id": "2-mass-028",
       "question": "Ein Garten ist 15 m lang und 8 m breit. Wie lang ist der Zaun rund um den Garten?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [46, 40, 52, 23],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 3,
       "explanation": "Umfang = 2 × (15 + 8) = 2 × 23 = 46 Meter"
     },
     {
@@ -261,7 +371,12 @@
       "question": "Wie viele Minuten sind 2 Stunden?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [120, 60, 180, 90],
+      "options": [
+        120,
+        180,
+        90,
+        60
+      ],
       "correct": 0,
       "explanation": "2 × 60 Minuten = 120 Minuten"
     },
@@ -270,8 +385,13 @@
       "question": "Lena hat 3 Euro. Sie kauft ein Heft für 1 Euro 80 Cent. Wie viel Cent hat sie noch?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [120, 100, 140, 80],
-      "correct": 0,
+      "options": [
+        140,
+        80,
+        120,
+        100
+      ],
+      "correct": 2,
       "explanation": "300 Cent - 180 Cent = 120 Cent"
     }
   ]

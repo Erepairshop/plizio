@@ -47,13 +47,13 @@ function gen_substantiv_c4(seed: number): CurriculumQuestion[] {
   // Adatpool: plural questions
   const pluralQuestions = [
     { q: "Care este forma de plural a substantivului \"floare\"?", c: "flori", w: ["floari", "floarea", "florile"] },
-    { q: "Care este forma de plural a substantivului \"carte\"?", c: "cărți", w: ["cartei", "cartela", "cartele"] },
-    { q: "Care este forma de plural a substantivului \"copac\"?", c: "copaci", w: ["copace", "copacel", "copacei"] },
-    { q: "Care este forma de plural a substantivului \"masă\"?", c: "mese", w: ["masele", "masă", "masezi"] },
+    { q: "Care este forma de plural a substantivului \"carte\"?", c: "cărți", w: ["cartei", "carti", "cartele"] },
+    { q: "Care este forma de plural a substantivului \"copac\"?", c: "copaci", w: ["copace", "copacul", "copacei"] },
+    { q: "Care este forma de plural a substantivului \"masă\"?", c: "mese", w: ["masele", "masă", "mase"] },
     { q: "Care este forma de plural a substantivului \"scaun\"?", c: "scaune", w: ["scauni", "scaunul", "scaunuri"] },
-    { q: "Care este forma de plural a substantivului \"om\"?", c: "oameni", w: ["omi", "omu", "omul"] },
-    { q: "Care este forma de plural a substantivului \"vorbă\"?", c: "vorbe", w: ["vorbezi", "vorba", "vorburi"] },
-    { q: "Care este forma de plural a substantivului \"lucru\"?", c: "lucruri", w: ["lucruri", "lucre", "lucrele"] },
+    { q: "Care este forma de plural a substantivului \"om\"?", c: "oameni", w: ["omi", "omii", "omul"] },
+    { q: "Care este forma de plural a substantivului \"vorbă\"?", c: "vorbe", w: ["vorbele", "vorba", "vorburi"] },
+    { q: "Care este forma de plural a substantivului \"lucru\"?", c: "lucruri", w: ["lucru", "lucre", "lucrele"] },
   ];
 
   // Adatpool: case questions
@@ -107,9 +107,9 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
     { q: "Care este gradul de comparație al adjectivului din: \"Maria este mai înaltă decât Ana\"?", c: "comparativ de superioritate", w: ["superlativ relativ", "comparativ de egalitate", "pozitiv"] },
     { q: "Adjectivul \"frumos\" din propoziția \"Are un câine frumos.\" este la gradul:", c: "pozitiv", w: ["comparativ de superioritate", "superlativ absolut", "comparativ de inferioritate"] },
     { q: "Care este gradul de comparație al adjectivului din: \"Ionel este foarte cuminte\"?", c: "superlativ absolut", w: ["superlativ relativ", "comparativ de superioritate", "pozitiv"] },
-    { q: "Care gradul indică: \"la fel de frumos ca\"?", c: "comparativ de egalitate", w: ["comparativ de superioritate", "superlativ relativ", "pozitiv"] },
-    { q: "Care gradul indică \"mai puțin frumos decât\"?", c: "comparativ de inferioritate", w: ["comparativ de superioritate", "superlativ absolut", "pozitiv"] },
-    { q: "Care gradul indică \"cel mai frumos din\"?", c: "superlativ relativ", w: ["superlativ absolut", "comparativ de superioritate", "pozitiv"] },
+    { q: "Care grad indică: \"la fel de frumos ca\"?", c: "comparativ de egalitate", w: ["comparativ de superioritate", "superlativ relativ", "pozitiv"] },
+    { q: "Care grad indică \"mai puțin frumos decât\"?", c: "comparativ de inferioritate", w: ["comparativ de superioritate", "superlativ absolut", "pozitiv"] },
+    { q: "Care grad indică \"cel mai frumos din\"?", c: "superlativ relativ", w: ["superlativ absolut", "comparativ de superioritate", "pozitiv"] },
     { q: "\"Frumos\" (fără comparație) este în gradul:", c: "pozitiv", w: ["comparativ", "superlativ", "relativ"] },
     { q: "\"Mai puternic\" este un exemplu de:", c: "comparativ de superioritate", w: ["superlativ absolut", "pozitiv", "comparativ de egalitate"] },
     { q: "\"Cel mai puternic\" este un exemplu de:", c: "superlativ relativ", w: ["superlativ absolut", "comparativ", "pozitiv"] },
@@ -122,12 +122,12 @@ function gen_adjectiv_c4(seed: number): CurriculumQuestion[] {
     { q: "Alege forma corectă a adjectivului: \"Copii ___.\" (bun)", c: "buni", w: ["bună", "bun", "bune"] },
     { q: "Alege forma corectă a adjectivului: \"Cărți ___.\" (roz)", c: "roz", w: ["roze", "rozu", "rozii"] },
     { q: "Alege forma corectă a adjectivului: \"Un băiat ___.\" (mic)", c: "mic", w: ["mică", "mici", "micuț"] },
-    { q: "Alege forma corectă a adjectivului: \"O pâine ___.\" (cald)", c: "caldă", w: ["cald", "calzi", "calzi"] },
+    { q: "Alege forma corectă a adjectivului: \"O pâine ___.\" (cald)", c: "caldă", w: ["cald", "calde", "calzi"] },
     { q: "Adjectivul trebuie să se acorde cu substantivul în:", c: "gen și număr", w: ["caz și persoană", "timp și aspect", "doar număr"] },
     { q: "Alege forma corectă a adjectivului: \"Zile ___.\" (lung)", c: "lungi", w: ["lung", "lunga", "lungă"] },
     { q: "Alege forma corectă a adjectivului: \"Un glas ___.\" (frumos)", c: "frumos", w: ["frumoasă", "frumoși", "frumoase"] },
-    { q: "Alege forma corectă a adjectivului: \"Mele ___.\" (trist)", c: "trist", w: ["tristo", "triste", "triști"] },
-    { q: "Alege forma corectă a adjectivului: \"Ochi ___.\" (albastru)", c: "albastri", w: ["albaștri", "albastru", "albastre"] },
+    { q: "Alege forma corectă a adjectivului: \"Gânduri ___.\" (trist)", c: "triste", w: ["trist", "triști", "tristo"] },
+    { q: "Alege forma corectă a adjectivului: \"Ochi ___.\" (albastru)", c: "albaștri", w: ["albastru", "albastre", "albastri"] },
   ];
 
   const mcqs: CurriculumMCQ[] = [];
@@ -216,7 +216,7 @@ function gen_pronume_personal_c4(seed: number): CurriculumQuestion[] {
     { type: "typing", topic: T, subtopic: S, question: "Ce caz se folosește pentru complement direct?", answer: ["acuzativ", "acuzativul"] },
     { type: "typing", topic: T, subtopic: S, question: "Ce caz se folosește pentru complement indirect?", answer: ["dativ", "dativul"] },
     { type: "typing", topic: T, subtopic: S, question: "Care pronume personal este de persoana a III-a plural feminin?", answer: ["ele", "le"] },
-    { type: "typing", topic: T, subtopic: S, question: "Completează: Pronumele personal inlocuiește un ...", answer: ["substantiv", "noun", "cuvant"] },
+    { type: "typing", topic: T, subtopic: S, question: "Completează: Pronumele personal înlocuiește un ...", answer: ["substantiv", "substantivul", "cuvant"] },
   ];
 
   return shuffle([...mcqs, ...typings], rng);
@@ -250,16 +250,16 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
     { q: "Pronumele posesiv trebuie să se acorde cu substantivul în:", c: "gen și număr", w: ["caz și persoană", "timp și aspect", "doar număr"] },
     { q: "Care pronume posesiv este de persoana a III-a singular?", c: "al său / a sa / ai săi / ale sale", w: ["al meu", "al tău", "al nostru"] },
     { q: "Care pronume posesiv este de persoana a III-a plural?", c: "al lor / a lor / ai lor / ale lor", w: ["al vostru", "al nostru", "al tău"] },
-    { q: "Pronumele posesiv accentuat al personei I singular (masculin) este:", c: "meu", w: ["mi", "mie", "ma"] },
-    { q: "Pronumele posesiv accentuat al personei a II-a plural (feminin) este:", c: "voastră", w: ["vă", "vi", "voștre"] },
+    { q: "Pronumele posesiv accentuat al persoanei I singular (masculin) este:", c: "meu", w: ["mi", "mie", "ma"] },
+    { q: "Pronumele posesiv accentuat al persoanei a II-a plural (feminin) este:", c: "voastră", w: ["vă", "vi", "voștre"] },
   ];
 
   // Adatpool: concept questions
   const conceptQuestions = [
     { q: "Cum se numește pronumele care indică posesiunea?", c: "posesiv", w: ["demonstrativ", "relativ", "personal"] },
-    { q: "Completează: Pronumele posesiv inlocuiește un ___ și arată a cui e ceva.", c: "substantiv", w: ["verb", "adjectiv", "adverb"] },
+    { q: "Completează: Pronumele posesiv înlocuiește un ___ și arată a cui e ceva.", c: "substantiv", w: ["verb", "adjectiv", "adverb"] },
     { q: "Pronumele posesiv poate fi accentuat sau:", c: "neaccentuat", w: ["relativ", "absolut", "interrogativ"] },
-    { q: "Care pronume posesiv merge cu substantivul \"caiet\" (masculin singular)?", c: "meu / tău / al seu / nostru / vostru / lor", w: ["mea", "ta", "a sa"] },
+    { q: "Care pronume posesiv merge cu substantivul \"caiet\" (masculin singular)?", c: "meu / tău / al său / nostru / vostru / lor", w: ["mea", "ta", "a sa"] },
   ];
 
   const mcqs: CurriculumMCQ[] = [];
@@ -281,7 +281,7 @@ function gen_pronume_posesiv_c4(seed: number): CurriculumQuestion[] {
     { type: "typing", topic: T, subtopic: S, question: "Care pronume posesiv este de persoana a III-a plural?", answer: ["lor", "lor"] },
     { type: "typing", topic: T, subtopic: S, question: "Completează: 'Cartea ___ este interesantă' (ta)", answer: ["ta", "taa"] },
     { type: "typing", topic: T, subtopic: S, question: "Pronumele posesiv poate fi accentuat sau...", answer: ["neaccentuat", "neaccentuatv"] },
-    { type: "typing", topic: T, subtopic: S, question: "Scrie un pronume posesiv al personei I singular (feminin)", answer: ["mea"] },
+    { type: "typing", topic: T, subtopic: S, question: "Scrie un pronume posesiv al persoanei I singular (feminin)", answer: ["mea"] },
     { type: "typing", topic: T, subtopic: S, question: "Pronumele posesiv marchează cine...", answer: ["posedă ceva", "e proprietarul"] },
     { type: "typing", topic: T, subtopic: S, question: "Care pronume posesiv merge cu 'caiet' (masculin)?", answer: ["meu", "tău", "al tău"] },
   ];
@@ -312,12 +312,12 @@ function gen_verb_timpuri_c4(seed: number): CurriculumQuestion[] {
 
   // Adatpool: usage / meaning questions
   const usageQuestions = [
-    { q: "Prezentul se folosește pentru:", c: "fapte care se petrec acum", w: ["fapte care s-au întâmplat cândva", "fapte care se vor întâmpla", "fapte care erau în curs atunci cand a interveni alta"] },
+    { q: "Prezentul se folosește pentru:", c: "fapte care se petrec acum", w: ["fapte care s-au întâmplat cândva", "fapte care se vor întâmpla", "fapte care erau în curs atunci când a intervenit alta"] },
     { q: "Perfectul compus se folosește pentru:", c: "fapte care s-au întâmplat recent și au legătură cu prezent", w: ["fapte care se petrec acum", "fapte care se vor întâmpla", "fapte care erau în curs"] },
-    { q: "Imperfectul se folosește pentru:", c: "fapte care erau în curs atunci când a interveni o altă faptă", w: ["fapte care se petrec acum", "fapte recente", "fapte viitoare"] },
+    { q: "Imperfectul se folosește pentru:", c: "fapte care erau în curs atunci când a intervenit o altă faptă", w: ["fapte care se petrec acum", "fapte recente", "fapte viitoare"] },
     { q: "Viitorul se folosește pentru:", c: "fapte care se vor întâmpla", w: ["fapte care se petrec acum", "fapte recente", "fapte care erau în curs"] },
     { q: "Perfectul simplu se folosește pentru:", c: "fapte care s-au petrec și s-au încheiat", w: ["fapte care se petrec acum", "fapte care vor veni", "fapte în curs"] },
-    { q: "Ce timp exprimă o acțiune care era în curs atunci când a interveni alta?", c: "imperfect", w: ["prezent", "perfect compus", "viitor"] },
+    { q: "Ce timp exprimă o acțiune care era în curs atunci când a intervenit alta?", c: "imperfect", w: ["prezent", "perfect compus", "viitor"] },
     { q: "Câte timpuri principale sunt în limba română?", c: "3", w: ["2", "4", "5"] },
     { q: "Ce timp se utilizează pentru obiceiuri și fapte care se repetă?", c: "prezent", w: ["imperfect", "perfect compus", "viitor"] },
   ];

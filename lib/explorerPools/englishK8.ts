@@ -173,7 +173,7 @@ export const ADVANCED_SYNTAX_LABELS: Record<string, Record<string, string>> = {
     t14_h1: "Check the grammar pattern.",
     t14_h2: "Cleft, Fronting, or Inversion?",
     t14_q: "Which is correct?",
-    t14_qa: "Never have I -> Inversion", t14_qb: "It was me -> Fronting", t14_qc: "Up he went -> Cleft", t14_qd: "None",
+    t14_qa: "Never have I -> Inversion", t14_qb: "It was me -> Cleft", t14_qc: "Up he went -> Fronting", t14_qd: "None",
     t14_l1: "It was... who", t14_r1: "Cleft Sentence",
     t14_l2: "Rarely does he", t14_r2: "Inversion",
     t14_l3: "Into the room...", t14_r3: "Fronting",
@@ -461,7 +461,7 @@ export const DISCOURSE_PRAGMATICS_LABELS: Record<string, Record<string, string>>
     t15_q: "Which word links two contrasting ideas?",
     t15_qa: "whereas", t15_qb: "moreover", t15_qc: "firstly", t15_qd: "likewise",
     t15_sent: "He was late; ___, he missed the bus.",
-    t15_qa2: "evidently", t15_qb2: "but", t15_qc2: "still", t15_qd2: "though",
+    t15_qa2: "consequently", t15_qb2: "but", t15_qc2: "still", t15_qd2: "though",
   },
 };
 
@@ -655,7 +655,7 @@ export const STYLISTIC_STRUCTURES_LABELS: Record<string, Record<string, string>>
     t7_h2: "Use 'love a sunny day?'",
     t7_q: "What is a rhetorical question?",
     t7_qa: "one that needs no answer", t7_qb: "a difficult one", t7_qc: "a simple one", t7_qd: "one with two answers",
-    t7_w1: "Who", t7_w2: "doesn't", t7_w3: "love", t7_w4: "a", t7_w5: "beautiful", t7_w6: "sunny", t7_w7: "day", t7_w8: "at", t7_w9: "beach?",
+    t7_w1: "Who", t7_w2: "doesn't", t7_w3: "love", t7_w4: "a", t7_w5: "beautiful", t7_w6: "sunny", t7_w7: "day", t7_w8: "at", t7_w9: "the beach?",
 
     t8_title: "Tone Match",
     t8_text: "Match the sentence to its tone.",

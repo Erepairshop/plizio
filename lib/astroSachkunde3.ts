@@ -352,7 +352,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
           en: "Pet Breeding",
           hu: "Háziállat tenyésztés",
           de: "Haustier-Zucht",
-          ro: "Criză animale domestice",
+          ro: "Creșterea animalelor domestice",
         },
       },
     ],
@@ -591,9 +591,9 @@ export const SK_G3_ISLANDS: IslandDef[] = [
         category: "explore",
         label: {
           en: "Village vs City",
-          hu: "Községvs város",
-          de: "Dorf vs Stadt",
-          ro: "Sat vs oraș",
+          hu: "Község vs. város",
+          de: "Dorf vs. Stadt",
+          ro: "Sat vs. oraș",
         },
       },
       {

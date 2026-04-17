@@ -9,8 +9,13 @@
       "question": "Welche Form hat ein Ball?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Kreis", "Quadrat", "Dreieck", "Rechteck"],
-      "correct": 0,
+      "options": [
+        "Dreieck",
+        "Kreis",
+        "Rechteck",
+        "Quadrat"
+      ],
+      "correct": 1,
       "explanation": "Ein Ball ist rund wie ein Kreis"
     },
     {
@@ -18,7 +23,12 @@
       "question": "Wie viele Ecken hat ein Dreieck?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 4, 2, 5],
+      "options": [
+        3,
+        4,
+        2,
+        5
+      ],
       "correct": 0,
       "explanation": "Ein Dreieck hat 3 Ecken"
     },
@@ -27,8 +37,13 @@
       "question": "Wie viele Seiten hat ein Quadrat?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 5, 6],
-      "correct": 0,
+      "options": [
+        5,
+        3,
+        6,
+        4
+      ],
+      "correct": 3,
       "explanation": "Ein Quadrat hat 4 gleich lange Seiten"
     },
     {
@@ -36,8 +51,13 @@
       "question": "Welche Form hat ein Fenster meistens?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["Rechteck", "Dreieck", "Kreis", "Fünfeck"],
-      "correct": 0,
+      "options": [
+        "Kreis",
+        "Dreieck",
+        "Rechteck",
+        "Fünfeck"
+      ],
+      "correct": 2,
       "explanation": "Ein Fenster hat meistens die Form eines Rechtecks"
     },
     {
@@ -45,7 +65,12 @@
       "question": "Welche Form hat keine Ecken?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["Kreis", "Quadrat", "Dreieck", "Rechteck"],
+      "options": [
+        "Kreis",
+        "Rechteck",
+        "Quadrat",
+        "Dreieck"
+      ],
       "correct": 0,
       "explanation": "Ein Kreis hat keine Ecken und keine geraden Seiten"
     },
@@ -54,7 +79,12 @@
       "question": "Der große Zeiger steht auf 12 und der kleine Zeiger auf 3. Wie viel Uhr ist es?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 12, 6, 9],
+      "options": [
+        3,
+        9,
+        6,
+        12
+      ],
       "correct": 0,
       "explanation": "Wenn der kleine Zeiger auf 3 und der große auf 12 steht, ist es 3 Uhr"
     },
@@ -63,7 +93,12 @@
       "question": "Der große Zeiger steht auf 12 und der kleine Zeiger auf 8. Wie viel Uhr ist es?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 12, 4, 6],
+      "options": [
+        8,
+        6,
+        4,
+        12
+      ],
       "correct": 0,
       "explanation": "Wenn der kleine Zeiger auf 8 und der große auf 12 steht, ist es 8 Uhr"
     },
@@ -72,8 +107,13 @@
       "question": "Wie viele Cent sind 1 Euro?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [100, 50, 10, 200],
-      "correct": 0,
+      "options": [
+        200,
+        10,
+        100,
+        50
+      ],
+      "correct": 2,
       "explanation": "1 Euro = 100 Cent"
     },
     {
@@ -81,16 +121,20 @@
       "question": "Du hast eine 5-Cent-Münze und eine 2-Cent-Münze. Wie viel Cent hast du zusammen?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [7, 6, 8, 3],
-      "correct": 0,
+      "options": [
+        3,
+        8,
+        6,
+        7
+      ],
+      "correct": 3,
       "explanation": "5 Cent + 2 Cent = 7 Cent"
     },
     {
       "id": "1-geo-010",
       "question": "Du hast zwei 5-Euro-Scheine und eine 2-Euro-Münze. Wie viel Euro hast du?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [12, 10, 7, 15],
+      "type": "calculation",
       "correct": 0,
       "explanation": "5 + 5 + 2 = 12 Euro"
     },
@@ -99,7 +143,12 @@
       "question": "Wie viele Ecken hat ein Quadrat?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 2, 5],
+      "options": [
+        4,
+        2,
+        5,
+        3
+      ],
       "correct": 0,
       "explanation": "Ein Quadrat hat 4 Ecken"
     },
@@ -108,8 +157,13 @@
       "question": "Wie viele Seiten hat ein Dreieck?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 4, 2, 5],
-      "correct": 0,
+      "options": [
+        2,
+        5,
+        3,
+        4
+      ],
+      "correct": 2,
       "explanation": "Ein Dreieck hat 3 Seiten"
     },
     {
@@ -117,7 +171,12 @@
       "question": "Der große Zeiger steht auf 12 und der kleine Zeiger auf 5. Wie viel Uhr ist es?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 12, 7, 10],
+      "options": [
+        5,
+        10,
+        7,
+        12
+      ],
       "correct": 0,
       "explanation": "Wenn der kleine Zeiger auf 5 und der große auf 12 steht, ist es 5 Uhr"
     },
@@ -126,8 +185,13 @@
       "question": "Der große Zeiger steht auf 12 und der kleine Zeiger auf 11. Wie viel Uhr ist es?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [11, 12, 1, 10],
-      "correct": 0,
+      "options": [
+        10,
+        12,
+        11,
+        1
+      ],
+      "correct": 2,
       "explanation": "Wenn der kleine Zeiger auf 11 und der große auf 12 steht, ist es 11 Uhr"
     },
     {
@@ -135,8 +199,13 @@
       "question": "Du hast eine 10-Cent-Münze. Du kaufst etwas für 5 Cent. Wie viel Cent bekommst du zurück?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 4, 6, 3],
-      "correct": 0,
+      "options": [
+        6,
+        5,
+        3,
+        4
+      ],
+      "correct": 1,
       "explanation": "10 - 5 = 5 Cent Rückgeld"
     },
     {
@@ -144,8 +213,13 @@
       "question": "Du hast drei 1-Cent-Münzen und zwei 2-Cent-Münzen. Wie viel Cent hast du?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [7, 5, 6, 8],
-      "correct": 0,
+      "options": [
+        5,
+        8,
+        7,
+        6
+      ],
+      "correct": 2,
       "explanation": "3 × 1 Cent + 2 × 2 Cent = 3 + 4 = 7 Cent"
     },
     {
@@ -153,8 +227,13 @@
       "question": "Wie viele Ecken hat ein Rechteck?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 2, 5],
-      "correct": 0,
+      "options": [
+        2,
+        5,
+        3,
+        4
+      ],
+      "correct": 3,
       "explanation": "Ein Rechteck hat 4 Ecken"
     },
     {
@@ -162,7 +241,12 @@
       "question": "Ein Stift ist kürzer als ein Lineal. Was ist länger?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Lineal", "Stift", "Beide gleich", "Keines"],
+      "options": [
+        "Lineal",
+        "Beide gleich",
+        "Keines",
+        "Stift"
+      ],
       "correct": 0,
       "explanation": "Da der Stift kürzer als das Lineal ist, ist das Lineal länger"
     },
@@ -171,8 +255,13 @@
       "question": "Du hast 5 Euro. Ein Heft kostet 3 Euro. Wie viel Euro hast du nach dem Kauf?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2, 1, 3, 4],
-      "correct": 0,
+      "options": [
+        1,
+        4,
+        3,
+        2
+      ],
+      "correct": 3,
       "explanation": "5 - 3 = 2 Euro bleiben übrig"
     },
     {
@@ -180,8 +269,13 @@
       "question": "Ein Tisch hat 4 Beine. Wie viele Beine haben 2 Tische?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [8, 6, 10, 4],
-      "correct": 0,
+      "options": [
+        4,
+        6,
+        10,
+        8
+      ],
+      "correct": 3,
       "explanation": "4 + 4 = 8 Beine"
     },
     {
@@ -189,7 +283,12 @@
       "question": "Wie viele Seiten hat ein Rechteck?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 3, 2, 5],
+      "options": [
+        4,
+        5,
+        3,
+        2
+      ],
       "correct": 0,
       "explanation": "Ein Rechteck hat 4 Seiten"
     },
@@ -198,7 +297,12 @@
       "question": "Was ist schwerer: 1 kg Äpfel oder 500 g Äpfel?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["1 kg", "500 g", "Beide gleich", "Keine Antwort"],
+      "options": [
+        "1 kg",
+        "Beide gleich",
+        "Keine Antwort",
+        "500 g"
+      ],
       "correct": 0,
       "explanation": "1 kg = 1000 g, also ist 1 kg schwerer als 500 g"
     },
@@ -207,7 +311,12 @@
       "question": "Du kaufst ein Eis für 1 Euro. Du bezahlst mit 2 Euro. Wie viel Rückgeld bekommst du?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [1, 2, 0, 3],
+      "options": [
+        1,
+        2,
+        3,
+        0
+      ],
       "correct": 0,
       "explanation": "2 - 1 = 1 Euro Rückgeld"
     },
@@ -216,8 +325,13 @@
       "question": "Wie viele Minuten hat eine halbe Stunde?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [30, 60, 15, 45],
-      "correct": 0,
+      "options": [
+        45,
+        60,
+        30,
+        15
+      ],
+      "correct": 2,
       "explanation": "Eine Stunde hat 60 Minuten. Die Hälfte davon sind 30 Minuten."
     },
     {
@@ -225,8 +339,13 @@
       "question": "Ein Lineal ist 20 cm lang. Wie lang sind 2 Lineale hintereinander?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [40, 30, 50, 22],
-      "correct": 0,
+      "options": [
+        22,
+        50,
+        40,
+        30
+      ],
+      "correct": 2,
       "explanation": "20 cm + 20 cm = 40 cm"
     },
     {
@@ -234,8 +353,13 @@
       "question": "Du hast 10 Cent. Du kaufst etwas für 4 Cent. Wie viel Cent hast du noch?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, 5, 7, 4],
-      "correct": 0,
+      "options": [
+        7,
+        5,
+        4,
+        6
+      ],
+      "correct": 3,
       "explanation": "10 - 4 = 6 Cent"
     },
     {
@@ -243,8 +367,13 @@
       "question": "Wie viele Tage hat eine Woche?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [7, 5, 6, 8],
-      "correct": 0,
+      "options": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "correct": 3,
       "explanation": "Eine Woche hat 7 Tage"
     },
     {
@@ -252,8 +381,13 @@
       "question": "Der große Zeiger steht auf 12 und der kleine Zeiger auf 7. Wie viel Uhr ist es?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [7, 12, 5, 8],
-      "correct": 0,
+      "options": [
+        5,
+        8,
+        12,
+        7
+      ],
+      "correct": 3,
       "explanation": "Wenn der kleine Zeiger auf 7 und der große auf 12 steht, ist es 7 Uhr"
     },
     {
@@ -261,16 +395,20 @@
       "question": "Du hast zwei 2-Euro-Münzen. Wie viel Euro hast du zusammen?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 2, 6, 3],
-      "correct": 0,
+      "options": [
+        3,
+        6,
+        2,
+        4
+      ],
+      "correct": 3,
       "explanation": "2 + 2 = 4 Euro"
     },
     {
       "id": "1-geo-030",
       "question": "Mama kauft 3 Brötchen zu je 30 Cent. Wie viel Cent kostet das zusammen?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [90, 60, 120, 33],
+      "type": "calculation",
       "correct": 0,
       "explanation": "3 × 30 Cent = 90 Cent"
     }

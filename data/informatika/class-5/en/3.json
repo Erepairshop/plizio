@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Software",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is software?",
+      "options": [
+        "Physical parts",
+        "Instructions and programs for the computer",
+        "The computer case",
+        "A power cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is an example of software?",
+      "options": [
+        "Monitor",
+        "Windows 10",
+        "Mouse",
+        "Keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Application'?",
+      "options": [
+        "A hardware part",
+        "A program designed for a specific task",
+        "A type of monitor",
+        "A computer cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which software is used to browse the internet?",
+      "options": [
+        "Word",
+        "Excel",
+        "Web Browser",
+        "Paint"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Google Chrome",
+        "PowerPoint",
+        "Calculator",
+        "Notepad"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of a Word Processor?",
+      "options": [
+        "Drawing pictures",
+        "Creating and editing text documents",
+        "Calculating math",
+        "Browsing the web"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which program is used for drawing?",
+      "options": [
+        "Word",
+        "Paint",
+        "Chrome",
+        "Excel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Antivirus' software?",
+      "options": [
+        "A program that creates viruses",
+        "A program that protects the computer from threats",
+        "A game",
+        "A web browser"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is an example of an Operating System?",
+      "options": [
+        "Microsoft Word",
+        "Windows 11",
+        "Google Search",
+        "Spotify"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Installing' a program mean?",
+      "options": [
+        "Deleting it",
+        "Setting it up on your computer",
+        "Printing it",
+        "Closing it"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Update' in software?",
+      "options": [
+        "Making it older",
+        "Fixing bugs and adding new features",
+        "Deleting the program",
+        "Selling the computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which software is used for presentations?",
+      "options": [
+        "Excel",
+        "PowerPoint",
+        "Notepad",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Open Source' software?",
+      "options": [
+        "Software you cannot change",
+        "Software whose code is free to see and change",
+        "Software that costs a lot",
+        "Software for opening doors"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Virus' in computing?",
+      "options": [
+        "A physical illness",
+        "A harmful program",
+        "A type of keyboard",
+        "A cool game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which software is used for spreadsheets and math?",
+      "options": [
+        "Word",
+        "Excel",
+        "Paint",
+        "Chrome"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Freeware'?",
+      "options": [
+        "Software that is free to use",
+        "Hardware that is free",
+        "A paid game",
+        "Software for freezing the computer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'Icon'?",
+      "options": [
+        "A large file",
+        "A small picture representing a program",
+        "A type of mouse",
+        "A keyboard key"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of a Media Player?",
+      "options": [
+        "Typing text",
+        "Playing music and videos",
+        "Drawing",
+        "Calculating"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is an email application?",
+      "options": [
+        "Outlook",
+        "Paint",
+        "Solitaire",
+        "Word"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bug' in a program?",
+      "options": [
+        "An insect",
+        "An error in the code",
+        "A new feature",
+        "A computer part"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Trial' software?",
+      "options": [
+        "Software that is free forever",
+        "Software that works for a limited time",
+        "A type of monitor",
+        "A broken program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where can you usually find new apps for a phone?",
+      "options": [
+        "In a book",
+        "In an App Store",
+        "In a fridge",
+        "At a park"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Uncompressing' a file?",
+      "options": [
+        "Making it smaller",
+        "Extracting files from a zipped folder",
+        "Deleting the file",
+        "Printing the file"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which software helps you organize your files?",
+      "options": [
+        "File Manager",
+        "Paint",
+        "Music Player",
+        "Web Browser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'User Interface' (UI)?",
+      "options": [
+        "The hardware parts",
+        "The way the user interacts with the software",
+        "The computer's price",
+        "A type of cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Software tells the hardware what to do."
+    },
+    {
+      "type": "typing",
+      "text": "Applications help us perform specific tasks."
+    },
+    {
+      "type": "typing",
+      "text": "A web browser lets you visit websites."
+    },
+    {
+      "type": "typing",
+      "text": "Antivirus software keeps your computer safe."
+    },
+    {
+      "type": "typing",
+      "text": "Update your software to get the latest features."
+    },
+    {
+      "type": "typing",
+      "text": "Icons are small pictures for your programs."
+    },
+    {
+      "type": "typing",
+      "text": "Word processors are used for typing documents."
+    },
+    {
+      "type": "typing",
+      "text": "Spreadsheets help us work with numbers."
+    },
+    {
+      "type": "typing",
+      "text": "Always install software from trusted sources."
+    },
+    {
+      "type": "typing",
+      "text": "The user interface is what you see on screen."
+    }
+  ]
+}

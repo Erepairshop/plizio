@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Roboter programmieren",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was ist ein Roboter?",
+      "options": [
+        "Ein Mensch aus Metall",
+        "Eine programmierbare Maschine, die Aufgaben ausführt",
+        "Ein ferngesteuertes Auto",
+        "Ein Computerbildschirm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Sensoren' bei einem Roboter?",
+      "options": [
+        "Die Muskeln",
+        "Die Sinnesorgane (nehmen Infos aus der Umwelt auf)",
+        "Das Gehirn",
+        "Die Räder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind 'Aktoren'?",
+      "options": [
+        "Die Augen",
+        "Teile, die Bewegungen ausführen (z.B. Motoren)",
+        "Die Batterien",
+        "Die Programmcodes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welcher Sensor hilft einem Roboter, Hindernisse zu erkennen?",
+      "options": [
+        "Temperatursensor",
+        "Ultraschallsensor (Abstand)",
+        "Feuchtigkeitssensor",
+        "Drucksensor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die 'Steuerung' eines Roboters?",
+      "options": [
+        "Das Gehäuse",
+        "Der Computer/Mikrocontroller (das Gehirn)",
+        "Das Kabel",
+        "Der Benutzer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Industrieroboter'?",
+      "options": [
+        "Ein Spielzeug",
+        "Ein Roboter für Fabriken (z.B. zum Autos bauen)",
+        "Ein Saugroboter",
+        "Ein Roboter-Hund"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein 'Farbsensor'?",
+      "options": [
+        "Er malt den Roboter an",
+        "Er erkennt Farben auf dem Boden oder von Objekten",
+        "Er ändert die Lichtfarbe",
+        "Er misst die Temperatur"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Programmiersprache wird oft für Einsteiger-Roboter genutzt?",
+      "options": [
+        "Scratch / Grafische Blöcke",
+        "Nur Assembler",
+        "HTML",
+        "SQL"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Autonom'?",
+      "options": [
+        "Der Roboter braucht immer Fernsteuerung",
+        "Der Roboter trifft Entscheidungen selbstständig",
+        "Der Roboter ist kaputt",
+        "Der Roboter ist sehr teuer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Gyrosensor'?",
+      "options": [
+        "Ein Sensor für Essen",
+        "Ein Sensor zum Messen von Drehungen und Neigung",
+        "Ein Lichtsensor",
+        "Ein Tastsensor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Servomotor'?",
+      "options": [
+        "Ein Motor, der sich präzise auf einen Winkel drehen lässt",
+        "Ein sehr großer Motor",
+        "Ein Benzinmotor",
+        "Ein kaputter Motor"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wofür nutzt man einen 'Tastsensor'?",
+      "options": [
+        "Zum Musikhören",
+        "Um Berührungen oder Kollisionen zu erkennen",
+        "Zum Messen von Luftdruck",
+        "Zum Sehen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Humanoider Roboter'?",
+      "options": [
+        "Ein Roboter in Tierform",
+        "Ein Roboter, der dem Menschen ähnlich sieht",
+        "Ein fliegender Roboter",
+        "Ein Unterwasser-Roboter"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was sind die 'Robotergesetze' (nach Isaac Asimov)?",
+      "options": [
+        "Verkehrsregeln für Roboter",
+        "Ethische Regeln für das Verhalten von Robotern",
+        "Gesetze zum Verkauf von Robotern",
+        "Gibt es nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Mikrocontroller' (z.B. Arduino, LEGO Hub)?",
+      "options": [
+        "Ein großer PC",
+        "Ein kleiner Computer auf einem Chip zur Steuerung",
+        "Ein Display",
+        "Ein Akku"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert in einem 'Regelkreis'?",
+      "options": [
+        "Daten werden gelöscht",
+        "Der Roboter passt sein Verhalten ständig an Sensordaten an",
+        "Der Roboter fährt im Kreis",
+        "Nichts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Saugroboter'?",
+      "options": [
+        "Ein Industrieroboter",
+        "Ein Serviceroboter für den Haushalt",
+        "Ein fliegender Roboter",
+        "Ein Spielzeug"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum nutzt man Roboter in gefährlichen Gebieten?",
+      "options": [
+        "Weil es billiger ist",
+        "Um Menschenleben zu schützen (z.B. Entschärfung von Bomben)",
+        "Weil Roboter gerne dort sind",
+        "Weil sie schneller fliegen können"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'EVA-Prinzip' in der Robotik?",
+      "options": [
+        "Eingabe-Verarbeitung-Ausgabe",
+        "Ende-Vor-Anfang",
+        "Elektronik-Verkabelung-Akku",
+        "Einfach-Viel-Arbeit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Bauteil liefert dem Roboter Energie?",
+      "options": [
+        "Motor",
+        "Akku / Batterie",
+        "Sensor",
+        "Kabel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'KI' (Künstliche Intelligenz) in der Robotik?",
+      "options": [
+        "Nur bunte Lichter",
+        "Fähigkeit des Roboters, aus Erfahrungen zu lernen",
+        "Ein spezieller Motor",
+        "Ein Gehäuse"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht ein 'Greifer'?",
+      "options": [
+        "Er sieht Dinge",
+        "Er hält und bewegt Objekte",
+        "Er misst den Ton",
+        "Er kühlt den Roboter"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Teleoperation'?",
+      "options": [
+        "Roboter operiert selbstständig",
+        "Fernsteuerung eines Roboters durch einen Menschen",
+        "Roboter telefoniert",
+        "Roboter ist aus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Roboter mit dem Handy steuern?",
+      "options": [
+        "Ja, oft über Bluetooth oder WLAN",
+        "Nein, niemals",
+        "Nur mit einem Kabel",
+        "Nur unter Wasser"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Liniensensor'?",
+      "options": [
+        "Ein langer Sensor",
+        "Ein Sensor, der dem Roboter hilft, einer Linie zu folgen",
+        "Ein Lineal",
+        "Ein Schreibgerät"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Roboter"
+    },
+    {
+      "type": "typing",
+      "text": "Sensor"
+    },
+    {
+      "type": "typing",
+      "text": "Aktor"
+    },
+    {
+      "type": "typing",
+      "text": "Mikrocontroller"
+    },
+    {
+      "type": "typing",
+      "text": "autonom"
+    },
+    {
+      "type": "typing",
+      "text": "Ultraschall"
+    },
+    {
+      "type": "typing",
+      "text": "Servomotor"
+    },
+    {
+      "type": "typing",
+      "text": "humanoid"
+    },
+    {
+      "type": "typing",
+      "text": "EVA"
+    },
+    {
+      "type": "typing",
+      "text": "KI"
+    }
+  ]
+}

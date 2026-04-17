@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Bedingte Verzweigungen",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was macht eine bedingte Verzweigung?",
+      "options": [
+        "Immer dasselbe ausführen",
+        "Code nur ausführen, wenn eine Bedingung wahr ist",
+        "Den PC ausschalten",
+        "Bilder malen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Schlüsselwort wird fast immer für eine Verzweigung genutzt?",
+      "options": [
+        "if (wenn)",
+        "for",
+        "while",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'else' (ansonsten)?",
+      "options": [
+        "Der Code wird ausgeführt, wenn die Bedingung FALSCH ist",
+        "Der Code wird immer ausgeführt",
+        "Der Code wird gelöscht",
+        "Eine neue Frage"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Symbol im Flussdiagramm steht für eine Verzweigung?",
+      "options": [
+        "Rechteck",
+        "Raute",
+        "Oval",
+        "Pfeil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man eine Verzweigung mit mehr als zwei Möglichkeiten oft?",
+      "options": [
+        "Mehrfachverzweigung (Switch/Case)",
+        "Großverzweigung",
+        "Endlosverzweigung",
+        "Zirkelschluss"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Vergleichsoperator'?",
+      "options": [
+        "Ein Techniker",
+        "Zeichen wie ==, <, > zum Vergleichen von Werten",
+        "Ein Drucker",
+        "Ein Programm"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet `==` in vielen Programmiersprachen?",
+      "options": [
+        "Zuweisung",
+        "Vergleich auf Gleichheit",
+        "Ungleichheit",
+        "Größer als"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet `!=`?",
+      "options": [
+        "Gleichheit",
+        "Ungleichheit",
+        "Fakultät",
+        "Wichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Können Verzweigungen verschachtelt werden?",
+      "options": [
+        "Ja (if in einem if)",
+        "Nein",
+        "Nur in Scratch",
+        "Nur bei Fehlern"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Logischer Operator'?",
+      "options": [
+        "Ein kluger Mensch",
+        "Verknüpfungen wie UND (AND), ODER (OR), NICHT (NOT)",
+        "Ein Kabel",
+        "Ein Monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wann ist eine UND-Verknüpfung (AND) wahr?",
+      "options": [
+        "Wenn beide Bedingungen wahr sind",
+        "Wenn nur eine wahr ist",
+        "Wenn keine wahr ist",
+        "Immer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wann ist eine ODER-Verknüpfung (OR) wahr?",
+      "options": [
+        "Wenn mindestens eine Bedingung wahr ist",
+        "Nur wenn beide wahr sind",
+        "Nur wenn beide falsch sind",
+        "Nie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht der NICHT-Operator (NOT)?",
+      "options": [
+        "Löscht alles",
+        "Kehrt den Wahrheitswert um (Wahr -> Falsch)",
+        "Beendet das Programm",
+        "Nichts"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet `else if`?",
+      "options": [
+        "Eine weitere Bedingung prüfen, wenn die erste falsch war",
+        "Das Programm beenden",
+        "Eine Schleife starten",
+        "Einen Text ausgeben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Ergebnis hat `(5 > 3) AND (10 < 20)`?",
+      "options": [
+        "Wahr (True)",
+        "Falsch (False)",
+        "8",
+        "Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Ergebnis hat `(5 < 3) OR (10 < 20)`?",
+      "options": [
+        "Wahr (True)",
+        "Falsch (False)",
+        "30",
+        "Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Bedingter Ausdruck'?",
+      "options": [
+        "Eine Frage an den Benutzer",
+        "Ein Ausdruck, der zu True oder False ausgewertet wird",
+        "Ein langer Text",
+        "Ein Bildname"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Struktur 'Wenn A dann B sonst C'?",
+      "options": [
+        "Alternative",
+        "Schleife",
+        "Zuweisung",
+        "Konstante"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn eine 'if'-Bedingung falsch ist und kein 'else' da ist?",
+      "options": [
+        "Das Programm überspringt den Block einfach",
+        "Es gibt einen Fehler",
+        "Der PC stürzt ab",
+        "Das Programm hält an"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'boolesche Logik'?",
+      "options": [
+        "Rechnen mit Farben",
+        "Logik basierend auf zwei Werten (Wahr/Falsch)",
+        "Eine alte Sprache",
+        "Hardware-Planung"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zeichen steht oft für 'Größer als oder gleich'?",
+      "options": [
+        ">=",
+        "=>",
+        ">+",
+        ">>"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das Ergebnis von `NOT (5 == 5)`?",
+      "options": [
+        "Falsch (False)",
+        "Wahr (True)",
+        "5",
+        "Fehler"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu nutzt man Verzweigungen im Alltag (Beispiel)?",
+      "options": [
+        "Passwortprüfung (Wenn richtig -> Login, sonst Fehler)",
+        "Zum Kochen von Nudeln",
+        "Zum Schlafen",
+        "Zum Musikhören"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man den Bereich zwischen `{}` nach einem `if` oft?",
+      "options": [
+        "Block",
+        "Haus",
+        "Kiste",
+        "Klammer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Indentierung' (Einrückung) bei Verzweigungen?",
+      "options": [
+        "Code schöner machen",
+        "Zugehörigkeit von Code-Blöcken sichtbar machen",
+        "Speicher sparen",
+        "Den PC kühlen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Selektion"
+    },
+    {
+      "type": "typing",
+      "text": "if"
+    },
+    {
+      "type": "typing",
+      "text": "else"
+    },
+    {
+      "type": "typing",
+      "text": "Raute"
+    },
+    {
+      "type": "typing",
+      "text": "=="
+    },
+    {
+      "type": "typing",
+      "text": "UND"
+    },
+    {
+      "type": "typing",
+      "text": "ODER"
+    },
+    {
+      "type": "typing",
+      "text": "NICHT"
+    },
+    {
+      "type": "typing",
+      "text": "Boolean"
+    },
+    {
+      "type": "typing",
+      "text": "verschachtelt"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Conceptul și măsurarea informației",
+  "language": "RO",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Care este cea mai mică unitate de date?",
+      "options": [
+        "Byte",
+        "Bit",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Câți biți sunt într-un byte?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care nu este o unitate de măsură pentru informație?",
+      "options": [
+        "Hertz",
+        "Byte",
+        "Gigabyte",
+        "Terabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă informația?",
+      "options": [
+        "Toate datele",
+        "O știre care aduce cunoștințe noi",
+        "Doar numere",
+        "Doar text"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce sunt datele?",
+      "options": [
+        "Informație interpretată",
+        "Fapt înregistrat",
+        "Doar imagine",
+        "Doar sunet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Câți octeți (bytes) are 1 kilobyte (KB) în informatică?",
+      "options": [
+        "1000",
+        "1024",
+        "1048",
+        "100"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care unitate este mai mare decât un Gigabyte?",
+      "options": [
+        "Megabyte",
+        "Terabyte",
+        "Kilobyte",
+        "Byte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este valoarea unui bit?",
+      "options": [
+        "Doar 1",
+        "Doar 0",
+        "0 sau 1",
+        "Orice număr"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce dispozitiv stochează informații?",
+      "options": [
+        "Mouse",
+        "Monitor",
+        "Stick de memorie",
+        "Tastatură"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum numim prelucrarea datelor?",
+      "options": [
+        "Informatică",
+        "Prelucrarea datelor",
+        "Programare",
+        "Instalare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este cea mai mică capacitate de stocare?",
+      "options": [
+        "1 MB",
+        "1 GB",
+        "100 KB",
+        "1 TB"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce semnale lucrează calculatorul?",
+      "options": [
+        "Sistem zecimal",
+        "Sistem binar",
+        "Litere",
+        "Imagini"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă termenul binar?",
+      "options": [
+        "Din trei părți",
+        "Dublu, cu două stări",
+        "Multifacetic",
+        "Simplu"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Câți megabyți (MB) alcătuiesc aproximativ 1 gigabyte (GB)?",
+      "options": [
+        "100",
+        "500",
+        "1000",
+        "10000"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Care este scopul codificării?",
+      "options": [
+        "Criptarea datelor",
+        "Convertirea datelor într-un format procesabil",
+        "Ștergerea datelor",
+        "Copierea datelor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce unitate este notată cu TB?",
+      "options": [
+        "Paisprezece Byte",
+        "Terabyte",
+        "Zece mii de Byte",
+        "Telebyte"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este ordinea corectă crescătoare?",
+      "options": [
+        "Bit, Byte, KB, MB, GB",
+        "Byte, Bit, KB, MB, GB",
+        "Bit, Byte, MB, KB, GB",
+        "GB, MB, KB, Byte, Bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "La ce se referă prefixul 'Mega'?",
+      "options": [
+        "Mie",
+        "Milion",
+        "Miliard",
+        "Biliard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un semnal analogic?",
+      "options": [
+        "În trepte",
+        "Variabil continuu",
+        "Are doar două valori",
+        "Nu are valoare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un semnal digital?",
+      "options": [
+        "Continuu",
+        "Discret, luând valori determinate",
+        "Ondulat",
+        "Invizibil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care nu este o unitate de stocare?",
+      "options": [
+        "HDD",
+        "SSD",
+        "CPU",
+        "CD"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Câți octeți ocupă de obicei un caracter în codul ASCII?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce înseamnă hardware?",
+      "options": [
+        "Set de software",
+        "Părțile fizice ale calculatorului",
+        "Conexiune la internet",
+        "Limbaj de programare"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Care este baza unităților de măsură a informației?",
+      "options": [
+        "Baza 10",
+        "Baza 2",
+        "Baza 16",
+        "Baza 8"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Câți biți sunt în 2 octeți?",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "64"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Unitatea de bază pentru măsurarea informației este bitul."
+    },
+    {
+      "type": "typing",
+      "text": "Calculatoarele lucrează cu coduri binare."
+    },
+    {
+      "type": "typing",
+      "text": "Un octet conține exact opt biți."
+    },
+    {
+      "type": "typing",
+      "text": "Datele sunt fapte înregistrate care nu poartă încă un sens."
+    },
+    {
+      "type": "typing",
+      "text": "Kilobyte-ul și megabyte-ul sunt, de asemenea, unități de măsură."
+    },
+    {
+      "type": "typing",
+      "text": "Informația oferă noi cunoștințe utilizatorului."
+    },
+    {
+      "type": "typing",
+      "text": "Sistemul binar folosește doar zerouri și unu."
+    },
+    {
+      "type": "typing",
+      "text": "Terabyte-ul este acum obișnuit pentru hard disk-uri."
+    },
+    {
+      "type": "typing",
+      "text": "Codul ASCII ajută la afișarea caracterelor."
+    },
+    {
+      "type": "typing",
+      "text": "Semnalele analogice pot fi convertite în digitale."
+    }
+  ]
+}

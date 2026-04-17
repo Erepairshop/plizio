@@ -294,7 +294,7 @@ function generateGenul(seed: number): CurriculumQuestion[] {
   questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"soare\"?", "masculin"));
   questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"minge\"?", "feminin"));
   questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"geam\"?", "neutru"));
-  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"care\"?", "feminin"));
+  questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"floare\"?", "feminin"));
   questions.push(createTyping(T_SUBST, S_GEN, "Ce gen are substantivul \"munte\"?", "masculin"));
 
   return shuffle(questions, rng);
@@ -597,7 +597,7 @@ function generateRelativ(seed: number): CurriculumQuestion[] {
   // Add typing questions
   questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ se folosește pentru persoane?", "cine"));
   questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ se folosește pentru obiecte?", "ce"));
-  questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ introducere o propoziție atributivă?", "care"));
+  questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ introduce o propoziție atributivă?", "care"));
   questions.push(createTyping(T_PRON, S_REL, "Ce pronume relativ se folosește pentru comparație?", "cât"));
   questions.push(createTyping(T_PRON, S_REL, "Cum se numesc pronumele care introduc propoziții?", "relativ"));
   questions.push(createTyping(T_PRON, S_REL, "Ce rol au pronumele relative?", "legare"));

@@ -55,7 +55,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
   },
   {
     id: "i2",
-    name: { en: "Pets & Wild Animals", hu: "Háziallatások és vadállatok", de: "Haustiere & Wilde Tiere", ro: "Animale de companie & Animale sălbatice" },
+    name: { en: "Pets & Wild Animals", hu: "Háziállatok és vadállatok", de: "Haustiere & Wilde Tiere", ro: "Animale de companie & Animale sălbatice" },
     icon: "🐾", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["haustiere", "wilde_tiere", "tierlaute"],
     missions: [
@@ -145,7 +145,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Grand Quiz",        hu: "Nagy kvíz",                de: "Großes Quiz",               ro: "Quiz Mare"                 } },
       { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { en: "Master Challenge",  hu: "Mester kihívás",           de: "Meister-Herausforderung",   ro: "Provocare maestru"         } },
-      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Final Match",       hu: "Végső párosítás",          de: "Abschließendes Pairing",    ro: "Pereche finală"            } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Final Match",       hu: "Végső párosítás",          de: "Abschluss-Paarung",          ro: "Pereche finală"            } },
     ],
     svgX: 190, svgY: -100,
   },

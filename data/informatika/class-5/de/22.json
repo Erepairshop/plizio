@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Netiquette",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet Netiquette?",
+      "options": [
+        "Internet-Shopping",
+        "Die ungeschriebenen Regeln für Benehmen im Netz",
+        "Ein neuer Computertyp",
+        "Ein Internetspiel"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man im Internet alles in Großbuchstaben schreiben?",
+      "options": [
+        "Ja, weil man es besser sieht",
+        "Nein, das gilt als Schreien",
+        "Nur wenn man sich sehr freut",
+        "Nur montags"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn man in einem Forum anderer Meinung ist?",
+      "options": [
+        "Den anderen beschimpfen",
+        "Höflich die eigene Meinung schreiben",
+        "Einen Streit anzetteln",
+        "Sofort blockieren und schlechtreden"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Troll?",
+      "options": [
+        "Ein netter Kobold",
+        "Jemand, der andere im Netz absichtlich provoziert",
+        "Ein Profi-Spieler",
+        "Der PC-Kühler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man ohne Erlaubnis ein Foto von jemand anderem posten?",
+      "options": [
+        "Ja, wenn es lustig ist",
+        "Nein, man muss vorher um Erlaubnis fragen",
+        "Nur wenn es ein Freund ist",
+        "Nur wenn er es nicht sieht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Flame War'?",
+      "options": [
+        "Ein feuriges Spiel",
+        "Heftige, beleidigende Wortgefechte im Internet",
+        "Eine schnelle Internetverbindung",
+        "Eine neue Firewall-Art"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient ein Emoji?",
+      "options": [
+        "Ersetzt Buchstaben",
+        "Hilft, Gefühle und den Ton der Nachricht auszudrücken",
+        "Verlangsamt das Tippen",
+        "Zur Zierde"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie grüßt man in einer offiziellen E-Mail?",
+      "options": [
+        "Hi!",
+        "Sehr geehrte Damen und Herren,",
+        "Tach!",
+        "Hey!"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wann sollte man eine wütende Nachricht abschicken?",
+      "options": [
+        "Sofort, solange man aufgeregt ist",
+        "Gar nicht, man sollte warten, bis man sich beruhigt hat",
+        "Nur wenn es viele sehen",
+        "Um Mitternacht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Privatgeheimnisse anderer im Netz teilen?",
+      "options": [
+        "Ja, wenn es spannend ist",
+        "Nein, das ist respektlos und verboten",
+        "Nur wenn wir es anonym tun",
+        "Nur wenn er meine auch geteilt hat"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn man jemanden online versehentlich gekränkt hat?",
+      "options": [
+        "Abstreiten",
+        "Sich bei ihm entschuldigen",
+        "Noch mehr kränken",
+        "Das Profil löschen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Rechtschreibung in Nachrichten wichtig?",
+      "options": [
+        "Weil der Lehrer es sieht",
+        "Hilft, Missverständnisse zu vermeiden und zeigt Respekt",
+        "Damit die Nachricht länger wird",
+        "Nicht wichtig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein Kettenbrief?",
+      "options": [
+        "Ein Brief aus Ketten",
+        "Ein Brief, den man an viele Leute weiterleiten muss",
+        "Ein sehr schwerer Brief",
+        "Ein Geheimcode"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum sollte man keine Kettenbriefe verschicken?",
+      "options": [
+        "Weil sie schwer zu tippen sind",
+        "Weil sie nerven und das Netz unnötig belasten",
+        "Weil das Internet davon leer wird",
+        "Weil der PC ihn frisst"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist die wichtigste Regel im Netz?",
+      "options": [
+        "Sei der Schnellste",
+        "Behandle andere so, wie du selbst behandelt werden möchtest",
+        "Gewinne jedes Spiel",
+        "Habe viele Follower"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun, wenn man Cybermobbing sieht?",
+      "options": [
+        "Beim Lästern mitmachen",
+        "Nichts sagen",
+        "Einem Erwachsenen sagen oder dem Opfer helfen",
+        "Die bösen Posts liken"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Worauf in Gruppenchats achten?",
+      "options": [
+        "Nur über sich selbst reden",
+        "Nicht zu weit vom Thema abweichen und höflich bleiben",
+        "Jedem auch privat schreiben",
+        "Viele unnötige Bilder schicken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Darf man Fremden gegenüber persönlich werden?",
+      "options": [
+        "Ja, die kennen einen eh nicht",
+        "Nein, im Internet spricht man auch mit Menschen",
+        "Nur bei schlechter Laune",
+        "Nur wenn die angefangen haben"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Ghosting'?",
+      "options": [
+        "Gespenster sehen",
+        "Den Kontakt zu jemandem im Netz wortlos abbrechen",
+        "Schnelltippen",
+        "Profil verstecken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie sieht ein gutes Profilbild aus?",
+      "options": [
+        "Jedes lustige Bild",
+        "Eines, das Fremden nicht zu viel über dich verrät",
+        "Nur ein Bild vom Haus",
+        "Ein Bild vom Hund (das ist am sichersten)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wozu dient ein 'Tag' (Markierung)?",
+      "options": [
+        "Ein Kleidungsstück",
+        "Jemanden in einem Bild oder Post markieren",
+        "Das Bild löschen",
+        "Das Bild verkleinern"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wann sollte man niemanden in einem Bild markieren?",
+      "options": [
+        "Wenn er gut darauf aussieht",
+        "Wenn man ihn nicht vorher gefragt hat oder es ihm peinlich ist",
+        "Wenn es viele sehen",
+        "Man darf immer markieren"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was tun bei zu vielen Benachrichtigungen?",
+      "options": [
+        "PC wegwerfen",
+        "Benachrichtigungseinstellungen anpassen",
+        "Alle blockieren",
+        "Weinen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Spamming' im Chat?",
+      "options": [
+        "Über Essen reden",
+        "Viele sinnlose Nachrichten schnell hintereinander schicken",
+        "Leise reden",
+        "Nur Bilder schicken"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum keine Fake News teilen?",
+      "options": [
+        "Weil sie langweilig sind",
+        "Man informiert andere falsch und schadet dem Ruf",
+        "Speicherplatz wird voll",
+        "Man bekommt Strafe von Google"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Netiquette ist die Sammlung von Höflichkeitsregeln im Internet."
+    },
+    {
+      "type": "typing",
+      "text": "Schreibe nicht in Großbuchstaben, da dies als Schreien gilt!"
+    },
+    {
+      "type": "typing",
+      "text": "Gehe auch im Internet respektvoll mit anderen um!"
+    },
+    {
+      "type": "typing",
+      "text": "Frage um Erlaubnis, bevor du ein Bild von jemandem postest!"
+    },
+    {
+      "type": "typing",
+      "text": "Das Internet vergisst nicht, überlege, was du schreibst!"
+    },
+    {
+      "type": "typing",
+      "text": "Emojis helfen dabei, Gefühle auszudrücken."
+    },
+    {
+      "type": "typing",
+      "text": "Schicke keine unnötigen Kettenbriefe an deine Freunde!"
+    },
+    {
+      "type": "typing",
+      "text": "Höflichkeit ist auch in der Online-Welt eine Grundvoraussetzung."
+    },
+    {
+      "type": "typing",
+      "text": "Wenn du im Netz gemobbt wirst, suche Hilfe bei einem Erwachsenen!"
+    },
+    {
+      "type": "typing",
+      "text": "Sei auch in der digitalen Welt verantwortungsbewusst!"
+    }
+  ]
+}

@@ -67,7 +67,7 @@ export const G5_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Multiplication", hu: "Szorzás felfedezése",   de: "Multiplikation entdecken", ro: "Descoperă înmulțirea"   } },
       { id: "m2", category: "build",     gameType: "speed-round",      icon: "⚡", label: { en: "Speed Round",              hu: "Gyors kör",             de: "Speedrunde",               ro: "Rundă rapidă"           } },
-      { id: "m3", category: "challenge", gameType: "gravity-sort",     icon: "🌪️", label: { en: "Sort Numbers",              hu: "Számrendezés",          de: "Zahlen sortieren",         ro: "Sortează"               } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort",     icon: "🌪️", label: { en: "Sort Numbers",              hu: "Számrendezés",          de: "Zahlen sortieren",         ro: "Sortează numerele"      } },
     ],
     svgX: 240, svgY: 360,
   },

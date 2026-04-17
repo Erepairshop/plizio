@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Search Techniques",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Which of these is a popular internet search engine?",
+      "options": [
+        "Windows",
+        "Google",
+        "Facebook",
+        "Calculator"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'keyword' in a search?",
+      "options": [
+        "A secret code",
+        "The most important word you are looking for",
+        "The name of the computer",
+        "A button on the keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which punctuation helps search for an exact phrase?",
+      "options": [
+        "Question mark (?)",
+        "Quotation marks (\"\")",
+        "Exclamation mark (!)",
+        "Colon (:)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How can you narrow your search to images only?",
+      "options": [
+        "Turn off the monitor",
+        "Click the 'Images' tab in the search engine",
+        "Shake the keyboard",
+        "You cannot do that"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a minus sign (-) before a word do in a search?",
+      "options": [
+        "Subtracts numbers",
+        "Excludes pages containing that word",
+        "Highlights the word",
+        "Does nothing"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the best keyword if you are looking for info about castles in England?",
+      "options": [
+        "Castles",
+        "Old houses",
+        "Castles in England",
+        "Where are the castles?"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'SafeSearch' mean?",
+      "options": [
+        "Faster internet",
+        "Filters out inappropriate content for kids",
+        "Saves passwords",
+        "Deletes history"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you search for a specific file type (e.g., PDF)?",
+      "options": [
+        "Type 'pdf'",
+        "Use 'filetype:pdf' command",
+        "Click the printer icon",
+        "Download a program"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you get too many results?",
+      "options": [
+        "Stop searching",
+        "Use more and more specific keywords",
+        "Wait for an hour",
+        "Restart the computer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which website extension often refers to educational institutions?",
+      "options": [
+        ".com",
+        ".uk",
+        ".edu",
+        ".net"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'bookmark' used for in a browser?",
+      "options": [
+        "Marking pages in a real book",
+        "Saving a website's address for later",
+        "Preventing the battery from draining",
+        "Increasing font size"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'browsing history'?",
+      "options": [
+        "Future plans",
+        "A list of previously visited websites",
+        "The year the computer was made",
+        "Downloaded games"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is NOT a web browser?",
+      "options": [
+        "Chrome",
+        "Firefox",
+        "Excel",
+        "Edge"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How can you refresh a webpage?",
+      "options": [
+        "Press the F5 key",
+        "Turn off the computer",
+        "Wipe the monitor",
+        "Click the mouse repeatedly"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a URL?",
+      "options": [
+        "A game",
+        "A website address",
+        "A username",
+        "A virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where is the search bar usually located?",
+      "options": [
+        "At the bottom of the screen",
+        "At the top or middle of the browser",
+        "On the keyboard",
+        "Inside the speakers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the 'I'm Feeling Lucky' button for?",
+      "options": [
+        "Winning money",
+        "Taking you directly to the first result",
+        "Turning off ads",
+        "Changing the background color"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if you find nothing on the first page?",
+      "options": [
+        "Start crying",
+        "Modify your keywords",
+        "Buy a new computer",
+        "Go to sleep"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is an old search engine?",
+      "options": [
+        "Google",
+        "Altavista",
+        "Facebook",
+        "TikTok"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does voice search mean?",
+      "options": [
+        "The computer talks to you",
+        "You dictate the search words",
+        "Music plays during search",
+        "It only finds videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What should you do if a search result looks suspicious?",
+      "options": [
+        "Click it immediately",
+        "Do not open it",
+        "Show it to everyone",
+        "Download all files"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which character is used as a wildcard in searches?",
+      "options": [
+        "Asterisk (*)",
+        "At sign (@)",
+        "Dollar sign ($)",
+        "Slash (/)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is an 'incognito' window?",
+      "options": [
+        "Makes you invisible in the room",
+        "Does not save browsing history",
+        "Makes the internet faster",
+        "Gives free games"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the most specific search?",
+      "options": [
+        "dog",
+        "black dog",
+        "black German Shepherd",
+        "animal"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How many results should you usually check?",
+      "options": [
+        "Only the first one",
+        "The first 3-5 results",
+        "All of them (millions)",
+        "None"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Google is the most popular search engine in the world."
+    },
+    {
+      "type": "typing",
+      "text": "Keywords help you find the information you need."
+    },
+    {
+      "type": "typing",
+      "text": "Use quotation marks to search for exact phrases!"
+    },
+    {
+      "type": "typing",
+      "text": "Filters can narrow down the list of search results."
+    },
+    {
+      "type": "typing",
+      "text": "Always check the reliability of your sources!"
+    },
+    {
+      "type": "typing",
+      "text": "There is a huge amount of data on the internet."
+    },
+    {
+      "type": "typing",
+      "text": "You can save your favorite pages in the browser."
+    },
+    {
+      "type": "typing",
+      "text": "Refining your search saves you a lot of time."
+    },
+    {
+      "type": "typing",
+      "text": "Do not click on suspicious ads while searching!"
+    },
+    {
+      "type": "typing",
+      "text": "Smart searching is an important digital skill."
+    }
+  ]
+}

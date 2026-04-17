@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Ereignisgesteuerte Programmierung",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Ereignisgesteuert' (Event-driven)?",
+      "options": [
+        "Programm läuft starr von oben nach unten",
+        "Programm reagiert auf Ereignisse (z.B. Klicks)",
+        "Programm läuft nur bei Events",
+        "Programm ist zufällig"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein typisches 'Ereignis' (Event)?",
+      "options": [
+        "Mausklick",
+        "Tastendruck",
+        "Timer-Ablauf",
+        "Alle genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man den Teil des Programms, der auf ein Ereignis wartet?",
+      "options": [
+        "Event Listener (Ereignis-Empfänger)",
+        "Event Maker",
+        "Event Destroyer",
+        "Event Speaker"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Event Handler'?",
+      "options": [
+        "Ein spezielles Kabel",
+        "Ein Code-Block, der ausgeführt wird, wenn ein Event eintritt",
+        "Der Benutzer",
+        "Ein Virus"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo wird ereignisgesteuerte Programmierung oft genutzt?",
+      "options": [
+        "Grafische Benutzeroberflächen (GUIs)",
+        "Alte Taschenrechner",
+        "Nur in Datenbanken",
+        "Nur beim Drucken"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist das 'Main Loop' (Hauptschleife) in solchen Programmen?",
+      "options": [
+        "Eine Endlosschleife, die auf Events wartet",
+        "Ein Fehler",
+        "Das Ende des Programms",
+        "Ein Bildschirmschoner"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Programm ist oft ereignisgesteuert?",
+      "options": [
+        "Ein Webbrowser",
+        "Ein Texteditor",
+        "Ein Videospiel",
+        "Alle genannten"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn kein Ereignis eintritt?",
+      "options": [
+        "Das Programm wartet (im Leerlauf)",
+        "Das Programm beendet sich",
+        "Der PC stürzt ab",
+        "Der Monitor wird schwarz"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann eine Mausbewegung ein Ereignis sein?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur bei speziellen Mäusen",
+        "Nur unter Linux"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Callback'?",
+      "options": [
+        "Ein Rückruf am Telefon",
+        "Eine Funktion, die nach einem Ereignis aufgerufen wird",
+        "Ein gelöschtes Programm",
+        "Ein Hardwarefehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man es, wenn man auf einen Button drückt?",
+      "options": [
+        "Click-Event",
+        "Push-Event",
+        "Press-Event",
+        "Go-Event"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Focus-Event'?",
+      "options": [
+        "Ein scharfes Bild",
+        "Ein Element wird ausgewählt/aktiviert (z.B. Textfeld)",
+        "Das Programm schließt sich",
+        "Ein Timer startet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Timer-Event'?",
+      "options": [
+        "Eine Uhr am PC",
+        "Ein Ereignis, das nach einer bestimmten Zeit ausgelöst wird",
+        "Ein schnelles Programm",
+        "Ein Hardware-Defekt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Programmiersprache ist sehr bekannt für Event-Steuerung im Web?",
+      "options": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "SQL"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Event Bubble'?",
+      "options": [
+        "Eine Kaugummiblase",
+        "Weitergabe eines Events an übergeordnete Elemente",
+        "Ein gelöschtes Event",
+        "Ein Grafikfehler"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Asynchron'?",
+      "options": [
+        "Gleichzeitig",
+        "Zeitversetzt (Programm wartet nicht auf Fertigstellung)",
+        "Ohne Strom",
+        "Sehr schnell"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Können mehrere Event-Handler auf dasselbe Event reagieren?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur einer ist erlaubt",
+        "Nur in Python"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Drag-and-Drop' Event?",
+      "options": [
+        "Ziehen und Loslassen von Elementen",
+        "Löschen von Dateien",
+        "Drucken von Bildern",
+        "PC Neustart"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert beim 'Load-Event'?",
+      "options": [
+        "Eine Datei wird gelöscht",
+        "Eine Seite oder Ressource wurde fertig geladen",
+        "Der PC wird warm",
+        "Das Internet ist weg"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Warum ist Event-Steuerung benutzerfreundlich?",
+      "options": [
+        "Weil das Programm flexibel auf Eingaben reagiert",
+        "Weil es bunter ist",
+        "Weil es weniger Strom braucht",
+        "Weil es keine Variablen braucht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist 'Event Propagation'?",
+      "options": [
+        "Vermehrung von Events",
+        "Die Ausbreitung eines Events im Elementbaum",
+        "Das Löschen von Events",
+        "Das Ignorieren von Klicks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Submit-Event'?",
+      "options": [
+        "Absenden eines Formulars",
+        "Starten des PCs",
+        "Löschen von Text",
+        "Öffnen einer Datei"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Keydown' Ereignis?",
+      "options": [
+        "Taste wurde gedrückt",
+        "Taste wurde losgelassen",
+        "Taste ist kaputt",
+        "PC fährt runter"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Keyup' Ereignis?",
+      "options": [
+        "Taste wurde losgelassen",
+        "Taste wurde gedrückt",
+        "Großschreiben",
+        "Internet-Upload"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Können Programme eigene Events definieren (Custom Events)?",
+      "options": [
+        "Ja",
+        "Nein",
+        "Nur in Scratch",
+        "Nur Profis"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Event"
+    },
+    {
+      "type": "typing",
+      "text": "Event Handler"
+    },
+    {
+      "type": "typing",
+      "text": "Event Listener"
+    },
+    {
+      "type": "typing",
+      "text": "Mausklick"
+    },
+    {
+      "type": "typing",
+      "text": "Keydown"
+    },
+    {
+      "type": "typing",
+      "text": "Keyup"
+    },
+    {
+      "type": "typing",
+      "text": "Timer"
+    },
+    {
+      "type": "typing",
+      "text": "Drag and Drop"
+    },
+    {
+      "type": "typing",
+      "text": "JavaScript"
+    },
+    {
+      "type": "typing",
+      "text": "ereignisgesteuert"
+    }
+  ]
+}

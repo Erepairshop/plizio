@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "World of Data",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What is data in computing?",
+      "options": [
+        "A character or symbol",
+        "A piece of information",
+        "A set of numbers",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Which unit is the smallest?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How many bits are in 1 byte?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is a unit of data storage?",
+      "options": [
+        "Meter",
+        "Liter",
+        "Gigabyte",
+        "Gram"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'KB' stand for?",
+      "options": [
+        "Kilobattery",
+        "Kilobyte",
+        "Keyboard",
+        "Keybit"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 1024 Megabytes equal to?",
+      "options": [
+        "1 Gigabyte",
+        "1 Terabyte",
+        "1 Kilobyte",
+        "1 Bit"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which unit is used to measure very large hard drives today?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Megabyte",
+        "Terabyte"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Information'?",
+      "options": [
+        "Random noise",
+        "Processed and meaningful data",
+        "Only numbers",
+        "A computer screen"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is a digital way to store data?",
+      "options": [
+        "Notebook",
+        "Hard Drive",
+        "Memory",
+        "Pencil"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password used for?",
+      "options": [
+        "Speeding up the computer",
+        "Data protection",
+        "Playing games",
+        "Typing faster"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a strong password?",
+      "options": [
+        "1234",
+        "password",
+        "A mix of letters, numbers, and symbols",
+        "your name"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Which is NOT a storage device?",
+      "options": [
+        "USB Flash Drive",
+        "Cloud Storage",
+        "CPU",
+        "Hard Disk"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What does 'Digital' mean in informatics?",
+      "options": [
+        "Using fingers to type",
+        "Represented by numbers (0 and 1)",
+        "Only using colors",
+        "Analogue signals"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Where is data stored permanently?",
+      "options": [
+        "RAM",
+        "Monitor",
+        "Hard Drive",
+        "Mouse"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Bit'?",
+      "options": [
+        "A small byte",
+        "Binary Digit (0 or 1)",
+        "A piece of a mouse",
+        "A computer game"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the main purpose of data backup?",
+      "options": [
+        "To make the computer faster",
+        "To save data in case of loss",
+        "To change the wallpaper",
+        "To install new games"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is the largest unit here?",
+      "options": [
+        "GB",
+        "MB",
+        "KB",
+        "Byte"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Cloud Storage'?",
+      "options": [
+        "Storing data on the moon",
+        "Storing data on remote servers via internet",
+        "Storing data in the rain",
+        "A type of keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Input' data?",
+      "options": [
+        "Data shown on the screen",
+        "Data entered into the computer",
+        "Data sent to the printer",
+        "Data that is deleted"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Output' data?",
+      "options": [
+        "Data entered by mouse",
+        "Data the computer shows or gives out",
+        "Data stored in RAM",
+        "Data in a folder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a 'Database'?",
+      "options": [
+        "A collection of organized data",
+        "A type of monitor",
+        "A computer case",
+        "A power cable"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Which symbol is commonly used in email addresses?",
+      "options": [
+        "#",
+        "$",
+        "@",
+        "&"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Privacy'?",
+      "options": [
+        "Sharing everything online",
+        "Protecting your personal information",
+        "Using a public computer",
+        "Downloading music"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is 'Encryption'?",
+      "options": [
+        "Deleting files",
+        "Scrambling data to keep it secret",
+        "Printing a document",
+        "Naming a folder"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of these is text data?",
+      "options": [
+        "A photo",
+        "A song",
+        "A letter to a friend",
+        "A video clip"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Data is information that a computer can process."
+    },
+    {
+      "type": "typing",
+      "text": "Eight bits make one byte."
+    },
+    {
+      "type": "typing",
+      "text": "A strong password protects your account."
+    },
+    {
+      "type": "typing",
+      "text": "Always back up your important files."
+    },
+    {
+      "type": "typing",
+      "text": "A gigabyte is larger than a megabyte."
+    },
+    {
+      "type": "typing",
+      "text": "Computers use binary numbers: zero and one."
+    },
+    {
+      "type": "typing",
+      "text": "The hard drive stores your data permanently."
+    },
+    {
+      "type": "typing",
+      "text": "Never share your password with strangers."
+    },
+    {
+      "type": "typing",
+      "text": "Digital data can be easily copied and shared."
+    },
+    {
+      "type": "typing",
+      "text": "Information is data that has meaning."
+    }
+  ]
+}

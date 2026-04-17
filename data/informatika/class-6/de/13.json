@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Zellenformatierung",
+  "language": "DE",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Welches Symbol steht meistens für 'Fett' in der Formatierungsleiste?",
+      "options": [
+        "U",
+        "I",
+        "F",
+        "K"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man das Verbinden von mehreren Zellen zu einer?",
+      "options": [
+        "Zellen teilen",
+        "Zellen mischen",
+        "Zellen verbinden",
+        "Zellen gruppieren"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Zahlenformat nutzt man für Geldbeträge?",
+      "options": [
+        "Prozent",
+        "Standard",
+        "Währung",
+        "Wissenschaftlich"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man den Hintergrund einer Zelle färben?",
+      "options": [
+        "Füllfarbe (Eimer-Symbol)",
+        "Schriftfarbe",
+        "Rahmen",
+        "Löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt die 'Kursiv'-Formatierung?",
+      "options": [
+        "Text wird dicker",
+        "Text wird schräg gestellt",
+        "Text wird unterstrichen",
+        "Text wird größer"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Ausrichtung des Textes in einer Zelle?",
+      "options": [
+        "Nur linksbündig möglich",
+        "Über die Ausrichtungssymbole (links, zentriert, rechts)",
+        "Nur durch Leerzeichen",
+        "Über die Schriftgröße"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert, wenn man eine Zelle als 'Prozent' formatiert?",
+      "options": [
+        "Die Zahl wird mit 100 multipliziert und ein %-Zeichen ergänzt",
+        "Die Zahl wird durch 100 geteilt",
+        "Die Zahl wird rot",
+        "Nichts"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die Option 'Zeilenumbruch'?",
+      "options": [
+        "In den Seiteneinstellungen",
+        "In der Gruppe 'Ausrichtung'",
+        "Beim Drucken",
+        "Gar nicht"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man eine Zelle mit einem Rahmen versehen?",
+      "options": [
+        "Rahmen-Symbol in der Gruppe Schriftart",
+        "Zelle löschen",
+        "Schriftart ändern",
+        "Hintergrund färben"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist ein 'Benutzerdefiniertes Format'?",
+      "options": [
+        "Ein Format, das man selbst festlegt",
+        "Ein Standardformat",
+        "Ein Virus",
+        "Ein Bild"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie ändert man die Schriftart in Excel?",
+      "options": [
+        "Dropdown-Menü in der Gruppe Schriftart",
+        "Rechtsklick auf die Spalte",
+        "In der Formelleiste",
+        "Gar nicht"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welche Farbe hat die Standardschrift in Excel?",
+      "options": [
+        "Rot",
+        "Blau",
+        "Schwarz",
+        "Grün"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Was bewirkt das Symbol 'Einzug vergrößern'?",
+      "options": [
+        "Der Text rückt weiter nach rechts",
+        "Der Text wird größer",
+        "Die Zelle wird breiter",
+        "Die Zelle wird höher"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie stellt man ein Datum korrekt dar?",
+      "options": [
+        "Zellenformat 'Datum' wählen",
+        "Einfach tippen",
+        "Als Text formatieren",
+        "Als Währung"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was bedeutet 'Bedingte Formatierung'?",
+      "options": [
+        "Zellen werden automatisch formatiert, wenn sie eine Regel erfüllen",
+        "Formatierung nur bei Regen",
+        "Manuelle Formatierung",
+        "Formatierung löschen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man Dezimalstellen ausblenden?",
+      "options": [
+        "Symbol 'Dezimalstelle entfernen'",
+        "Zelle löschen",
+        "Schriftfarbe weiß machen",
+        "Zahl abrunden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was macht das 'Format übertragen'-Werkzeug (Pinsel)?",
+      "options": [
+        "Kopiert nur den Inhalt",
+        "Kopiert die Formatierung einer Zelle auf andere",
+        "Löscht die Formatierung",
+        "Ändert die Zellfarbe"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man die Spaltenbreite automatisch anpassen?",
+      "options": [
+        "Doppelklick auf die Grenze zwischen zwei Spaltenköpfen",
+        "Spalte löschen",
+        "PC neu starten",
+        "Zellen verbinden"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo findet man die vertikale Ausrichtung?",
+      "options": [
+        "Gruppe Ausrichtung (oben, mitte, unten)",
+        "Datei-Menü",
+        "Einfügen-Menü",
+        "Ansicht-Menü"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was ist der Unterschied zwischen 'Zellen verbinden' und 'Zentrieren'?",
+      "options": [
+        "Verbinden macht aus mehreren Zellen eine, Zentrieren richtet den Text aus",
+        "Es gibt keinen Unterschied",
+        "Verbinden löscht den Text",
+        "Zentrieren macht den Text fett"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie kann man alle Formatierungen einer Zelle löschen?",
+      "options": [
+        "Radiergummi-Symbol -> Formate löschen",
+        "Entf-Taste drücken",
+        "Zelle schwarz färben",
+        "Excel schließen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Welches Format ist standardmäßig eingestellt?",
+      "options": [
+        "Währung",
+        "Standard",
+        "Text",
+        "Zahl"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie nennt man die Linien zwischen den Zellen?",
+      "options": [
+        "Gitternetzlinien",
+        "Zellgrenzen",
+        "Tabellenstriche",
+        "Rahmen"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Kann man Text in einer Zelle drehen?",
+      "options": [
+        "Ja, über die Option Orientierung",
+        "Nein",
+        "Nur um 90 Grad",
+        "Nur wenn man ein Bild einfügt"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Was passiert beim 'Zeilenumbruch'?",
+      "options": [
+        "Langer Text wird in mehrere Zeilen innerhalb einer Zelle aufgeteilt",
+        "Die Zelle wird gelöscht",
+        "Eine neue Zeile wird eingefügt",
+        "Der Text wird abgeschnitten"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "kursiv"
+    },
+    {
+      "type": "typing",
+      "text": "Formatübertragen"
+    },
+    {
+      "type": "typing",
+      "text": "Währung"
+    },
+    {
+      "type": "typing",
+      "text": "F"
+    },
+    {
+      "type": "typing",
+      "text": "Füllfarbe"
+    },
+    {
+      "type": "typing",
+      "text": "Rahmen"
+    },
+    {
+      "type": "typing",
+      "text": "Bedingte Formatierung"
+    },
+    {
+      "type": "typing",
+      "text": "Calibri"
+    },
+    {
+      "type": "typing",
+      "text": "Entf"
+    },
+    {
+      "type": "typing",
+      "text": "Prozentsatz"
+    }
+  ]
+}

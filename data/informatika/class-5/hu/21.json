@@ -1,0 +1,322 @@
+{
+  "class": 5,
+  "theme": "Digitális biztonság",
+  "language": "HU",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Milyen a jó jelszó?",
+      "options": [
+        "123456",
+        "A keresztneved",
+        "Hosszú, van benne kis- és nagybetű, szám és jel",
+        "A kutyád neve"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Kinek adhatod meg a jelszavadat?",
+      "options": [
+        "A legjobb barátodnak",
+        "Senkinek (csak esetleg a szüleidnek)",
+        "Egy kedves idegennek",
+        "Mindenkinek, aki kéri"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a személyes adat?",
+      "options": [
+        "A kedvenc színed",
+        "Név, lakcím, telefonszám, iskola neve",
+        "Egy vicces kép",
+        "A számítógép típusa"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a vírus?",
+      "options": [
+        "Egy betegség az embernél",
+        "Egy káros program, ami elronthatja a gépedet",
+        "Egy játék neve",
+        "Egy gomb a monitoron"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan védekezhetünk a vírusok ellen?",
+      "options": [
+        "Kezet mosunk",
+        "Vírusirtó programot használunk",
+        "Kikapcsoljuk a monitort",
+        "Nem használjuk a billentyűzetet"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'phishing' (adathalászat)?",
+      "options": [
+        "Horgászat a tónál",
+        "Csalók személyes adatokat próbálnak kicsalni tőlünk",
+        "Új játékok letöltése",
+        "Számítógépes sport"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e idegenekkel találkozni, akiket a neten ismertél meg?",
+      "options": [
+        "Igen, biztos kedvesek",
+        "Csak ha hoznak ajándékot",
+        "Nem, ez nagyon veszélyes!",
+        "Csak ha egyedül mész"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a teendő, ha bántó üzenetet kapsz?",
+      "options": [
+        "Visszabántod",
+        "Szólsz egy felnőttnek és letiltod a küldőt",
+        "Kitörlöd és elfelejted",
+        "Mindenkinek megmutatod"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a tűzfal?",
+      "options": [
+        "Egy fal a ház körül",
+        "Egy védelem, ami figyeli a hálózati forgalmat",
+        "Egy melegítő eszköz",
+        "A gép hűtője"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Szabad-e bármit letölteni ismeretlen oldalról?",
+      "options": [
+        "Igen, ha ingyen van",
+        "Csak ha szép a gomb",
+        "Nem, mert vírusos lehet",
+        "Csak éjszaka"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Melyik a legbiztonságosabb Wi-Fi hálózat?",
+      "options": [
+        "A nyitott, jelszó nélküli a parkban",
+        "A saját, jelszóval védett otthoni hálózatod",
+        "A szomszédé titokban",
+        "Bármelyik jó"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kétlépcsős azonosítás?",
+      "options": [
+        "Kétszer kell megnyomni a gombot",
+        "Jelszó mellett egy másik kódot (pl. SMS-t) is kér a rendszer",
+        "Két kézzel kell gépelni",
+        "Két monitor kell hozzá"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a digitális lábnyom?",
+      "options": [
+        "A cipőnk nyoma a koszos monitoron",
+        "Minden, amit a neten teszünk és nyomot hagy utánunk",
+        "A gép súlya",
+        "A billentyűzet kopása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért ne posztoljunk fotót a repülőjegyünkről?",
+      "options": [
+        "Mert csúnya",
+        "Mert rajta vannak a személyes adataink és a kódunk",
+        "Mert más is el akar utazni",
+        "Nem baj, ha posztoljuk"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a 'spam'?",
+      "options": [
+        "Egy finom étel",
+        "Kéretlen, zavaró reklámlevél",
+        "Egy gyors számítógép",
+        "Egy új közösségi oldal"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mire való a böngésző privát módja?",
+      "options": [
+        "Ingyen netet ad",
+        "Nem menti a jelszavakat és az előzményeket",
+        "Láthatatlan lesz a gép",
+        "Gyorsabb lesz a játék"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a teendő, ha valaki a neten a lakcímedet kéri?",
+      "options": [
+        "Megadod neki",
+        "Nem adod meg és szólsz a szüleidnek",
+        "Hazudsz egy másik címet",
+        "Csak a város nevét adod meg"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit tegyél, ha véletlenül egy felnőtt tartalmú oldalra tévedsz?",
+      "options": [
+        "Végignézed",
+        "Azonnal bezárod és szólsz egy felnőttnek",
+        "Elküldöd a barátaidnak",
+        "Lemented a képeket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki az a hacker?",
+      "options": [
+        "Egy bolti eladó",
+        "Olyan ember, aki számítógépes rendszerekbe tör be",
+        "Egy profi e-sportoló",
+        "Aki számítógépeket gyárt"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi az a zsarolóvírus?",
+      "options": [
+        "Egy vírus, ami pénzt kér a fájljaidért cserébe",
+        "Egy vírus, ami viccelődik",
+        "Egy vírus, ami zenél",
+        "Olyan nincs is"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hova érdemes menteni a fontos fájlokat (biztonsági mentés)?",
+      "options": [
+        "Sehova, jó ott",
+        "Külső merevlemezre vagy felhőbe",
+        "A lomtárba",
+        "A monitorra"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a szoftverfrissítés?",
+      "options": [
+        "Új gép vétele",
+        "A hibák javítása és a biztonság növelése",
+        "A háttérkép cseréje",
+        "A gép lassítása"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Miért veszélyes a jelszavakat egy cetlire írva a monitorra ragasztani?",
+      "options": [
+        "Mert leesik",
+        "Mert bárki láthatja és ellophatja",
+        "Mert elszínezi a monitort",
+        "Nem veszélyes"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mit jelent a kiberzaklatás?",
+      "options": [
+        "Internetes kergetőzés",
+        "Ismétlődő bántás és megalázás az interneten",
+        "Túl sok játék",
+        "Internetes vásárlás"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogyan ismerhető fel egy csaló e-mail?",
+      "options": [
+        "Sürget, adatokat kér és gyanús a feladó címe",
+        "Szép a betűtípusa",
+        "Túl rövid",
+        "Nincs benne kép"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Soha ne add meg a jelszavadat senkinek az interneten!"
+    },
+    {
+      "type": "typing",
+      "text": "A személyes adatok védelme nagyon fontos a biztonsághoz."
+    },
+    {
+      "type": "typing",
+      "text": "A vírusirtó program védi a számítógépet a kártevőktől."
+    },
+    {
+      "type": "typing",
+      "text": "Használj erős jelszót, ami betűket és számokat is tartalmaz!"
+    },
+    {
+      "type": "typing",
+      "text": "A kétlépcsős azonosítás extra védelmet nyújt a fiókodnak."
+    },
+    {
+      "type": "typing",
+      "text": "Gondold át alaposan, mielőtt bármit posztolnál a netre!"
+    },
+    {
+      "type": "typing",
+      "text": "Az interneten mindenki az maradhat, akinek látszani akar."
+    },
+    {
+      "type": "typing",
+      "text": "Soha ne találkozz egyedül internetes ismeretlenekkel!"
+    },
+    {
+      "type": "typing",
+      "text": "A biztonsági mentés segít megőrizni a fontos fájljaidat."
+    },
+    {
+      "type": "typing",
+      "text": "Jelentsd a zaklatást egy megbízható felnőttnek!"
+    }
+  ]
+}

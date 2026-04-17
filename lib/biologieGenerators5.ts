@@ -92,7 +92,7 @@ const AMPHIBIAN_DATA = [
   { name: "Frosch", transformation: "Kaulquappe → Frosch", feature: "4 Beine", sound: "Quaken" },
   { name: "Molch", transformation: "Lunge + Haut Atmung", feature: "Schwanz", habitat: "feucht" },
   { name: "Salamander", transformation: "Feucht Habitat", feature: "Farben", warning: "giftig" },
-  { name: "Kreuzkröte", transformation: "Wasserbewohner", feature: "3 Augen", season: "Frühling" },
+  { name: "Kreuzkröte", transformation: "Wasserbewohner", feature: "Querstreifen", season: "Frühling" },
   { name: "Wassermolch", transformation: "Zwei Lebensräume", feature: "Crista", dualLife: "wasser-land" },
   { name: "Bergmolch", transformation: "Kleine Amphibie", feature: "Flecken", hochgebirge: "bergig" },
 ];
@@ -166,8 +166,8 @@ const MUSCLES = [
   { muscle: "Bizeps", function: "Arm beugen", type: "Willkürlich", arm: "Oberarm" },
   { muscle: "Zwerchfell", function: "Atmung", type: "Unwillkürlich", breathing: "atmen" },
   { muscle: "Quadrizeps", function: "Bein strecken", type: "Willkürlich", leg: "Oberschenkel" },
-  { muscle: "Sartorial", function: "Bein drehen", type: "Willkürlich", rotation: "drehen" },
-  { muscle: "Magmuskel", function: "Bauch stützen", type: "Willkürlich", core: "Rumpf" },
+  { muscle: "Sartorius", function: "Bein drehen", type: "Willkürlich", rotation: "drehen" },
+  { muscle: "Bauchmuskel", function: "Bauch stützen", type: "Willkürlich", core: "Rumpf" },
 ];
 
 // SINNESORGANE
@@ -279,7 +279,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
         w: ["Wüste", "Berg", "Trocken"]
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({
-        q: `Welche Tier passt zu: "${a.transformation}"?`,
+        q: `Welches Tier passt zu: "${a.transformation}"?`,
         a: a.name,
         w: ["Ente", "Eidechse", "Vogel"]
       }),
@@ -448,12 +448,12 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
         w: ["Fisch", "Vogel", "Säugetier"]
       }),
       () => ({
-        q: "Was haben alle Wirbeliere?",
+        q: "Was haben alle Wirbeltiere?",
         a: "Wirbelsäule",
         w: ["Kiemen", "Flügel", "Tentakel"]
       }),
       () => ({
-        q: "Wie viele Klassen von Wirbelieren gibt es?",
+        q: "Wie viele Klassen von Wirbeltieren gibt es?",
         a: "5",
         w: ["3", "7", "10"]
       }),
@@ -476,10 +476,10 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
     return questions;
   },
   vertebrate_comparison_typing: (seed?: number) => [
-    createTyping("wirbeltiere", "vertebrate_comparison", "Welches ist kein Wirbeliere?", ["Insekt", "Wurm", "Molluske"]),
-    createTyping("wirbeltiere", "vertebrate_comparison", "Was haben alle Wirbeliere?", ["Wirbelsäule", "Rückgrat"]),
-    createTyping("wirbeltiere", "vertebrate_comparison", "Wie viele Wirbeliere Klassen gibt es?", ["5", "fünf"]),
-    createTyping("wirbeltiere", "vertebrate_comparison", "Nenne eine wirbelloses Tier", ["Insekt", "Spinne", "Wurm"]),
+    createTyping("wirbeltiere", "vertebrate_comparison", "Welches ist kein Wirbeltier?", ["Insekt", "Wurm", "Molluske"]),
+    createTyping("wirbeltiere", "vertebrate_comparison", "Was haben alle Wirbeltiere?", ["Wirbelsäule", "Rückgrat"]),
+    createTyping("wirbeltiere", "vertebrate_comparison", "Wie viele Wirbeltierklassen gibt es?", ["5", "fünf"]),
+    createTyping("wirbeltiere", "vertebrate_comparison", "Nenne ein wirbelloses Tier", ["Insekt", "Spinne", "Wurm"]),
     createTyping("wirbeltiere", "vertebrate_comparison", "Wirbellose sind wie viel %?", ["99", "Mehr"]),
   ],
 
@@ -861,7 +861,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       }),
       () => ({
         q: "Nenne 3 Körpersysteme",
-        a: "Kreislauf, Atemung und Verdauung",
+        a: "Kreislauf, Atmung und Verdauung",
         w: ["Nur Herz", "Nur Lunge", "Nur Darm"]
       }),
       () => ({
@@ -888,7 +888,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
     return questions;
   },
   body_systems_typing: (seed?: number) => [
-    createTyping("koerper", "body_systems", "Nenne 3 Körpersysteme", ["Kreislauf, Atemung, Verdauung"]),
+    createTyping("koerper", "body_systems", "Nenne 3 Körpersysteme", ["Kreislauf, Atmung, Verdauung"]),
     createTyping("koerper", "body_systems", "Was ist das Lymphsystem?", ["Immunität", "Flüssigkeitstransport"]),
     createTyping("koerper", "body_systems", "Das Hormonsystem heißt auch...", ["Endokrines System"]),
     createTyping("koerper", "body_systems", "Das Nervensystem teilt sich in...", ["Zentral und Peripher"]),

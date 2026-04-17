@@ -1,0 +1,322 @@
+{
+  "class": 6,
+  "theme": "Advanced Image Editing",
+  "language": "EN",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What does layer mean in image editing?",
+      "options": [
+        "Image color",
+        "Levels similar to transparent foils placed on each other",
+        "Image size",
+        "Saving speed"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which program is suitable for advanced image editing?",
+      "options": [
+        "GIMP / Photoshop",
+        "Notepad",
+        "Excel",
+        "Calculator"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is the purpose of selection?",
+      "options": [
+        "Deleting the image",
+        "Performing modifications only on a specific part of the image",
+        "Printing the image",
+        "Turning off the monitor"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the Crop tool do?",
+      "options": [
+        "Changes colors",
+        "Removes unnecessary edges of the image",
+        "Colors the background",
+        "Flips the image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which file format supports transparency?",
+      "options": [
+        "JPG",
+        "PNG",
+        "BMP",
+        "TXT"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does retouching mean?",
+      "options": [
+        "Deleting image",
+        "Fixing image errors, removing distracting details",
+        "Drawing new image",
+        "Sending image via e-mail"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a pixel?",
+      "options": [
+        "Smallest component of a digital image (picture element)",
+        "A type of mouse",
+        "Monitor brand",
+        "A key on the keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does resolution mean?",
+      "options": [
+        "Number of image colors",
+        "Number of pixels per unit area (e.g., DPI)",
+        "Image file size",
+        "Editing time"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which tool is for sampling colors?",
+      "options": [
+        "Brush",
+        "Eyedropper",
+        "Eraser",
+        "Bucket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the Invert command do?",
+      "options": [
+        "Deletes the image",
+        "Flips colors (negative)",
+        "Shrinks the image",
+        "Saves the image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the Clone Stamp good for?",
+      "options": [
+        "Copying images from one folder to another",
+        "Copying an image part and painting it elsewhere",
+        "Saving the image",
+        "Increasing font size"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the difference between raster and vector images?",
+      "options": [
+        "No difference",
+        "Raster consists of pixels, vector of mathematical shapes",
+        "Raster is only black and white",
+        "Vector is only good for videos"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does Opacity control?",
+      "options": [
+        "Image sharpness",
+        "Untransparency of the layer or tool",
+        "Image size",
+        "Number of colors"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which filter blurs the image?",
+      "options": [
+        "Sharpen",
+        "Gaussian Blur",
+        "Add Noise",
+        "Color Saturation"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does Histogram mean in photography/editing?",
+      "options": [
+        "Image history",
+        "Graph showing the distribution of brightness",
+        "Image creator",
+        "Camera type"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the Magic Wand tool for?",
+      "options": [
+        "Drawing",
+        "Automatic selection of areas with similar color",
+        "Writing text",
+        "Saving image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does Saturation mean?",
+      "options": [
+        "Image brightness",
+        "Vividness of colors",
+        "Image size in pixels",
+        "Number of layers"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which color mode is for printing?",
+      "options": [
+        "RGB",
+        "CMYK",
+        "Grayscale",
+        "Indexed"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which color mode is for screen?",
+      "options": [
+        "RGB",
+        "CMYK",
+        "Lab",
+        "Bitmap"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What does the Gradient tool do?",
+      "options": [
+        "Paints a single color",
+        "Creates continuous transition between colors",
+        "Deletes the layer",
+        "Crops the image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a layer mask for?",
+      "options": [
+        "Permanently deleting the layer",
+        "Hiding or revealing certain parts of the layer non-destructively",
+        "Framing the image",
+        "Password protection"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which key combination is Undo usually?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+Z",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does non-destructive editing mean?",
+      "options": [
+        "That the machine doesn't break",
+        "Original image data remains, and anything can be modified later",
+        "That saving is very slow",
+        "That we only make copies"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which tool is for manual freehand selection?",
+      "options": [
+        "Rectangular marquee",
+        "Lasso tool",
+        "Brush",
+        "Bucket"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does the abbreviation DPI stand for?",
+      "options": [
+        "Digital Picture Interface",
+        "Dots Per Inch",
+        "Data Processing Information",
+        "Dual Pixel Image"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "The use of layers is fundamental in professional image editing."
+    },
+    {
+      "type": "typing",
+      "text": "The PNG format is ideal for images with transparent backgrounds."
+    },
+    {
+      "type": "typing",
+      "text": "Resolution determines the level of detail in an image."
+    },
+    {
+      "type": "typing",
+      "text": "Vector graphics can be enlarged without loss of quality."
+    },
+    {
+      "type": "typing",
+      "text": "With retouching, we can eliminate distracting skin blemishes."
+    },
+    {
+      "type": "typing",
+      "text": "With selection tools, we can work precisely on the image."
+    },
+    {
+      "type": "typing",
+      "text": "The RGB color mode uses red, green, and blue colors."
+    },
+    {
+      "type": "typing",
+      "text": "CMYK colors are applied in printing houses."
+    },
+    {
+      "type": "typing",
+      "text": "With filters, we can add special effects to photos."
+    },
+    {
+      "type": "typing",
+      "text": "Non-destructive editing helps preserve original quality."
+    }
+  ]
+}

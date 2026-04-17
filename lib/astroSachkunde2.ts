@@ -506,7 +506,7 @@ export const SK_G2_ISLANDS: IslandDef[] = [
         label: {
           en: "Family Roles",
           hu: "Családi szerepek",
-          de: "Familien rollen",
+          de: "Familienrollen",
           ro: "Roluri de familie",
         },
       },
@@ -572,7 +572,7 @@ export const SK_G2_ISLANDS: IslandDef[] = [
     name: {
       en: "Science Experiments",
       hu: "Tudományos kísérletek",
-      de: "Wissenschafts-Experimente",
+      de: "Naturwissenschaftliche Experimente",
       ro: "Experimente științifice",
     },
     icon: "🧲",
@@ -624,9 +624,9 @@ export const SK_G2_ISLANDS: IslandDef[] = [
     id: "i9",
     name: {
       en: "Grand Review",
-      hu: "Nagyon felülvizsgálat",
+      hu: "Nagy összefoglalás",
       de: "Großes Finale",
-      ro: "Recenzie finală",
+      ro: "Recapitulare finală",
     },
     icon: "🏆",
     color: "#F1948A",

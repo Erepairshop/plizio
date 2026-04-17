@@ -50,7 +50,7 @@ const CELL_STRUCTURE_QUESTIONS = [
   { q: "Welche Zelltypen haben einen Kern?", a: "Eukaryotische Zellen", w: ["Prokaryotische Zellen", "Bakterien", "Archaeen"] },
   { q: "Wo findet man DNA in eukaryotischen Zellen?", a: "Im Zellkern", w: ["Im Zytoplasma", "In der Mitochondrie", "In der Membran"] },
   { q: "Prokaryotische Zellen haben...", a: "Keine Organellen", w: ["Ein Zellnetzwerk", "Mehrere Kerne", "Große Vakuolen"] },
-  { q: "Was ist die Zellmembran?", a: "Eine selektiv durchlässige Schutzschicht", w: ["Nur eine starre Wand", "Eine Struktur mit Poren", "Ein Storage-Organell"] },
+  { q: "Was ist die Zellmembran?", a: "Eine selektiv durchlässige Schutzschicht", w: ["Nur eine starre Wand", "Eine Struktur mit Poren", "Ein Speicher-Organell"] },
   { q: "Welche Strukturen umgeben Pflanzenzellen?", a: "Zellmembran und Zellwand", w: ["Nur Zellmembran", "Chloroplast und Vakuole", "Ribosomen und Lysosom"] },
   { q: "Was ist das Zytoplasma?", a: "Eine gelatinöse Flüssigkeit mit Organellen", w: ["Nur Wasser", "Der Zellkern", "Eine Lipidschicht"] },
   { q: "Wer beschrieb zuerst die Zelltheorie?", a: "Schleiden und Schwann", w: ["Darwin", "Mendel", "Hooke"] },
@@ -90,7 +90,7 @@ const CELL_DIVISION_QUESTIONS = [
   { q: "Telophase ist die Phase wo...", a: "Zwei neue Kerne entstehen", w: ["Chromosomen kondensieren", "Die Zelle sich teilt", "DNA repliziert wird"] },
   { q: "Cytokinese ist...", a: "Die Aufteilung des Zytoplasmas", w: ["DNA-Replikation", "Kernmembran-Bildung", "Chromosom-Bewegung"] },
   { q: "Meiose hat wie viele Teilungen?", a: "Zwei Teilungen (Meiose I und II)", w: ["Eine Teilung", "Drei Teilungen", "Vier Teilungen"] },
-  { q: "In der S-Phase...", a: "DNA wird verdoppelt", w: ["Zelle teilt sich", "Proteine werden synth.", "Mitochondrien vermehren sich"] },
+  { q: "In der S-Phase...", a: "DNA wird verdoppelt", w: ["Zelle teilt sich", "Proteine werden synthetisiert", "Mitochondrien vermehren sich"] },
 ];
 
 const PHOTOSYNTHESIS_QUESTIONS = [
@@ -122,7 +122,7 @@ const ENERGY_TRANSFER_QUESTIONS = [
   { q: "Wie viele Phosphatgruppen hat ATP?", a: "3", w: ["1", "2", "4"] },
   { q: "Wenn ATP Energie freisetzt, wird es zu...", a: "ADP", w: ["AMP", "GTP", "Phosphat"] },
   { q: "ATP wird hauptsächlich hergestellt in...", a: "Der Mitochondrie", w: ["Chloroplast", "Ribosom", "Zellkern"] },
-  { q: "Die Energie in ATP ist gespeichert in...", a: "Phosphodiesterbindungen", w: ["Kohlenstoffbindungen", "Wasserstoffbindungen", "Ionenbindungen"] },
+  { q: "Die Energie in ATP ist gespeichert in...", a: "Phosphatanhydridbindungen", w: ["Kohlenstoffbindungen", "Wasserstoffbindungen", "Ionenbindungen"] },
   { q: "Wie lange bleibt ATP stabil in der Zelle?", a: "Wenige Sekunden bis Minuten", w: ["Stunden", "Tage", "Permanent"] },
   { q: "ADP + Phosphat + Energie = ...", a: "ATP", w: ["GTP", "CTP", "AMP"] },
   { q: "Der Zellstoffwechsel benötigt...", a: "Konstante ATP-Produktion", w: ["Nur morgens", "Nur bei Aktivität", "Nur im Schlaf"] },
@@ -158,7 +158,7 @@ const SYMBIOSIS_QUESTIONS = [
   { q: "Ein Remora-Fisch auf einem Hai zeigt...", a: "Kommensalismus", w: ["Mutualismus", "Parasitismus", "Konkurrenz"] },
   { q: "Pilze in Wurzeln sind...", a: "Mutualisten (Mykorrhiza)", w: ["Parasiten", "Kommensalen", "Konkurrenten"] },
   { q: "Flechten sind ein Beispiel von...", a: "Mutualismus zwischen Pilz und Alge", w: ["Kommensalismus", "Parasitismus", "Konkurrenz"] },
-  { q: "Lice auf Vögeln sind...", a: "Parasiten", w: ["Mutualisten", "Kommensalen", "Prädatoren"] },
+  { q: "Läuse auf Vögeln sind...", a: "Parasiten", w: ["Mutualisten", "Kommensalen", "Prädatoren"] },
 ];
 
 const IMMUNE_CELLS_QUESTIONS = [
@@ -174,7 +174,7 @@ const IMMUNE_CELLS_QUESTIONS = [
 const IMMUNE_RESPONSE_QUESTIONS = [
   { q: "Angeborene Immunität ist...", a: "Sofort und unspezifisch", w: ["Verzögert und spezifisch", "Nur adaptiv", "Nur mit Antikörpern"] },
   { q: "Adaptive Immunität ist...", a: "Verzögert aber hochspezifisch", w: ["Sofort und unspezifisch", "Nur mit Vakzinen", "Nur mit Antikörpern"] },
-  { q: "Was ist ein Antigen?", a: "Ein Stoff der eine Immunreaktion auslöst", w: ["Ein fremdes Objekt", "Ein Krankheitserreger", "Ein Antibody"] },
+  { q: "Was ist ein Antigen?", a: "Ein Stoff der eine Immunreaktion auslöst", w: ["Ein fremdes Objekt", "Ein Krankheitserreger", "Ein Antikörper"] },
   { q: "Antikörper sind...", a: "Proteine gegen Antigene", w: ["Zellen", "Hormone", "Lipide"] },
   { q: "Was ist Immungedächtnis?", a: "Die Fähigkeit schneller auf bekannte Antigene zu reagieren", w: ["Langzeit-Speicher im Gehirn", "Nur bei Vakzinen", "Nur bei Tieren"] },
   { q: "Interferone sind...", a: "Proteine die Virenausbreitung hemmen", w: ["Antikörper", "Zellen", "Hormone"] },
@@ -209,7 +209,7 @@ const SYNAPSE_QUESTIONS = [
   { q: "Was passiert beim Aktionspotenzial in der Synapse?", a: "Ca2+ bewirkt Neurotransmitter-Freisetzung", w: ["Mg2+ tritt aus", "K+ tritt ein", "Na+ wird blockiert"] },
   { q: "Dopamin ist ein...", a: "Neurotransmitter", w: ["Hormon", "Protein", "Fett"] },
   { q: "Serotonin beeinflusst...", a: "Stimmung und Schlaf", w: ["Nur Muskelkontraktion", "Nur Verdauung", "Nur Herzschlag"] },
-  { q: "Adrenalin ist ein...", a: "Neurotransmitter und Hormon", w: ["Nur Hormon", "Nur Protein", "Nur Antibody"] },
+  { q: "Adrenalin ist ein...", a: "Neurotransmitter und Hormon", w: ["Nur Hormon", "Nur Protein", "Nur Antikörper"] },
 ];
 
 const REFLEX_QUESTIONS = [
@@ -241,7 +241,7 @@ const ADAPTATION_QUESTIONS = [
   { q: "Migration ist eine...", a: "Verhaltensanpassung", w: ["Strukturelle", "Physiologische", "Genetische"] },
   { q: "Wofür sind Anpassungen?", a: "Überleben und Fortpflanzung", w: ["Größerwachsen", "Nur Aussehen", "Nur Fortbewegung"] },
   { q: "Kann eine Art mehrere Anpassungen haben?", a: "Ja, immer", w: ["Nein, nur eine", "Vielleicht", "Nur Säugetiere"] },
-  { q: "Wie entstand die lange Hals der Giraffe?", a: "Natürliche Auswahl von längeren Hälsen", w: ["Absichtliches Strecken", "Lamarckismus", "Zufälliges Wachstum"] },
+  { q: "Wie entstand der lange Hals der Giraffe?", a: "Natürliche Auswahl von längeren Hälsen", w: ["Absichtliches Strecken", "Lamarckismus", "Zufälliges Wachstum"] },
 ];
 
 const NATURAL_SELECTION_QUESTIONS = [
@@ -516,8 +516,8 @@ export const K7_Generators: Record<string, (seed?: number) => CurriculumQuestion
     return questions.slice(0, 30);
   },
   immune_response_typing: (seed?: number) => [
-    createTyping("immunsystem", "immune_response", "Nenne die 2 Immuntypen", ["Innate, Adaptiv"]),
-    createTyping("immunsystem", "immune_response", "Was ist Innate Immunität?", ["Sofort, unspezifisch"]),
+    createTyping("immunsystem", "immune_response", "Nenne die 2 Immuntypen", ["Angeboren, Adaptiv"]),
+    createTyping("immunsystem", "immune_response", "Was ist angeborene Immunität?", ["Sofort, unspezifisch"]),
     createTyping("immunsystem", "immune_response", "Was ist Adaptive?", ["Verzögert, spezifisch"]),
     createTyping("immunsystem", "immune_response", "Was ist Antigen?", ["Stoff der Immunreaktion auslöst", "Fremder Stoff"]),
     createTyping("immunsystem", "immune_response", "Was ist Antikörper?", ["Protein gegen Antigen"]),

@@ -9,8 +9,13 @@
       "question": "Die Funktion lautet f(x) = 2x + 3. Was ist der y-Achsenabschnitt?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 2, 5, 0],
-      "correct": 0,
+      "options": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "correct": 2,
       "explanation": "Bei f(x) = mx + b ist b der y-Achsenabschnitt. Hier ist b = 3."
     },
     {
@@ -18,17 +23,21 @@
       "question": "Die Funktion lautet f(x) = 2x + 3. Wie groß ist die Steigung?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [2, 3, 5, 1],
-      "correct": 0,
+      "options": [
+        1,
+        3,
+        5,
+        2
+      ],
+      "correct": 3,
       "explanation": "Bei f(x) = mx + b ist m die Steigung. Hier ist m = 2."
     },
     {
       "id": "8-funk-003",
       "question": "Welche Funktion hat die Steigung 3 und den y-Achsenabschnitt -1?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["f(x) = 3x - 1", "f(x) = -x + 3", "f(x) = x + 3", "f(x) = -3x + 1"],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 2,
       "explanation": "Steigung m = 3 und y-Achsenabschnitt b = -1 ergibt f(x) = 3x - 1."
     },
     {
@@ -36,17 +45,21 @@
       "question": "Die Gerade geht durch die Punkte (0, 2) und (1, 5). Wie lautet die Funktionsgleichung?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["f(x) = 3x + 2", "f(x) = 2x + 3", "f(x) = 5x + 2", "f(x) = 2x + 5"],
-      "correct": 0,
+      "options": [
+        "f(x) = 2x + 5",
+        "f(x) = 5x + 2",
+        "f(x) = 3x + 2",
+        "f(x) = 2x + 3"
+      ],
+      "correct": 2,
       "explanation": "Steigung = (5 - 2) / (1 - 0) = 3. y-Achsenabschnitt = 2. Also f(x) = 3x + 2."
     },
     {
       "id": "8-funk-005",
       "question": "Die Funktion f(x) = -2x + 8 schneidet die x-Achse bei welchem Wert?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [4, -4, 8, -8],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 2,
       "explanation": "Nullstelle: 0 = -2x + 8 → 2x = 8 → x = 4"
     },
     {
@@ -54,8 +67,13 @@
       "question": "Berechne f(3) für f(x) = 4x - 5.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [7, 12, 2, 17],
-      "correct": 0,
+      "options": [
+        2,
+        12,
+        17,
+        7
+      ],
+      "correct": 3,
       "explanation": "f(3) = 4 × 3 - 5 = 12 - 5 = 7"
     },
     {
@@ -63,7 +81,12 @@
       "question": "Berechne f(-2) für f(x) = 3x + 10.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, -4, 16, 10],
+      "options": [
+        4,
+        -4,
+        16,
+        10
+      ],
       "correct": 0,
       "explanation": "f(-2) = 3 × (-2) + 10 = -6 + 10 = 4"
     },
@@ -72,8 +95,13 @@
       "question": "Für welches x ist f(x) = 0, wenn f(x) = 5x - 15?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [3, -3, 15, 5],
-      "correct": 0,
+      "options": [
+        -3,
+        15,
+        3,
+        5
+      ],
+      "correct": 2,
       "explanation": "0 = 5x - 15 → 5x = 15 → x = 3"
     },
     {
@@ -81,8 +109,13 @@
       "question": "Berechne f(4) für f(x) = x² - 2x + 1.",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [9, 7, 11, 13],
-      "correct": 0,
+      "options": [
+        7,
+        13,
+        9,
+        11
+      ],
+      "correct": 2,
       "explanation": "f(4) = 4² - 2 × 4 + 1 = 16 - 8 + 1 = 9"
     },
     {
@@ -90,7 +123,12 @@
       "question": "Zwei Funktionen: f(x) = 2x + 1 und g(x) = x + 4. Bei welchem x schneiden sie sich?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [3, 5, 1, -3],
+      "options": [
+        3,
+        5,
+        1,
+        -3
+      ],
       "correct": 0,
       "explanation": "2x + 1 = x + 4 → x = 3. Schnittpunkt bei x = 3."
     },
@@ -99,7 +137,12 @@
       "question": "Die Funktion lautet f(x) = 3x + 2. Was ist der y-Achsenabschnitt?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [2, 3, 5, 0],
+      "options": [
+        2,
+        5,
+        3,
+        0
+      ],
       "correct": 0,
       "explanation": "Bei f(x) = mx + b ist b der y-Achsenabschnitt. Hier ist b = 2."
     },
@@ -108,16 +151,26 @@
       "question": "Die Funktion lautet f(x) = -x + 5. Wie groß ist die Steigung?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [-1, 5, -5, 1],
+      "options": [
+        -1,
+        -5,
+        1,
+        5
+      ],
       "correct": 0,
       "explanation": "Bei f(x) = mx + b ist m die Steigung. Hier ist m = -1."
     },
     {
       "id": "8-funk-013",
       "question": "Welche Funktion hat die Steigung 4 und den y-Achsenabschnitt 2?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["f(x) = 4x + 2", "f(x) = 2x + 4", "f(x) = 4x - 2", "f(x) = -4x + 2"],
+      "options": [
+        "f(x) = 4x + 2",
+        "f(x) = 2x + 4",
+        "f(x) = 4x - 2",
+        "f(x) = -4x + 2"
+      ],
       "correct": 0,
       "explanation": "Steigung m = 4 und y-Achsenabschnitt b = 2 ergibt f(x) = 4x + 2."
     },
@@ -126,7 +179,12 @@
       "question": "Die Gerade geht durch die Punkte (0, 3) und (1, 7). Wie lautet die Funktionsgleichung?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["f(x) = 4x + 3", "f(x) = 3x + 4", "f(x) = 7x + 3", "f(x) = 3x + 7"],
+      "options": [
+        "f(x) = 4x + 3",
+        "f(x) = 7x + 3",
+        "f(x) = 3x + 7",
+        "f(x) = 3x + 4"
+      ],
       "correct": 0,
       "explanation": "Steigung = (7 - 3) / (1 - 0) = 4. y-Achsenabschnitt = 3. Also f(x) = 4x + 3."
     },
@@ -134,8 +192,7 @@
       "id": "8-funk-015",
       "question": "Die Funktion f(x) = 3x - 6 schneidet die x-Achse bei welchem Wert?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [2, -2, 6, -6],
+      "type": "calculation",
       "correct": 0,
       "explanation": "Nullstelle: 0 = 3x - 6 → 3x = 6 → x = 2"
     },
@@ -144,8 +201,13 @@
       "question": "Berechne f(2) für f(x) = 5x - 3.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [7, 10, 3, 13],
-      "correct": 0,
+      "options": [
+        13,
+        3,
+        7,
+        10
+      ],
+      "correct": 2,
       "explanation": "f(2) = 5 × 2 - 3 = 10 - 3 = 7"
     },
     {
@@ -153,17 +215,21 @@
       "question": "Berechne f(-1) für f(x) = 2x + 8.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, -6, 10, 8],
+      "options": [
+        6,
+        8,
+        10,
+        -6
+      ],
       "correct": 0,
       "explanation": "f(-1) = 2 × (-1) + 8 = -2 + 8 = 6"
     },
     {
       "id": "8-funk-018",
       "question": "Für welches x ist f(x) = 0, wenn f(x) = 2x + 8?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [-4, 4, 8, 2],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 3,
       "explanation": "0 = 2x + 8 → 2x = -8 → x = -4"
     },
     {
@@ -171,7 +237,12 @@
       "question": "Berechne f(3) für f(x) = x² + 3x.",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [18, 12, 15, 20],
+      "options": [
+        18,
+        15,
+        12,
+        20
+      ],
       "correct": 0,
       "explanation": "f(3) = 3² + 3 × 3 = 9 + 9 = 18"
     },
@@ -180,8 +251,13 @@
       "question": "Zwei Funktionen: f(x) = 3x und g(x) = x + 6. Bei welchem x schneiden sie sich?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [3, 6, 2, 1],
-      "correct": 0,
+      "options": [
+        2,
+        3,
+        6,
+        1
+      ],
+      "correct": 1,
       "explanation": "3x = x + 6 → 2x = 6 → x = 3"
     },
     {
@@ -189,8 +265,13 @@
       "question": "Die Funktion lautet f(x) = -2x + 7. Wie groß ist die Steigung?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [-2, 7, -7, 2],
-      "correct": 0,
+      "options": [
+        2,
+        -2,
+        -7,
+        7
+      ],
+      "correct": 1,
       "explanation": "Die Steigung ist -2."
     },
     {
@@ -198,8 +279,13 @@
       "question": "Berechne f(5) für f(x) = x² - 4.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [21, 29, 17, 25],
-      "correct": 0,
+      "options": [
+        25,
+        17,
+        29,
+        21
+      ],
+      "correct": 3,
       "explanation": "f(5) = 5² - 4 = 25 - 4 = 21"
     },
     {
@@ -207,7 +293,12 @@
       "question": "Welche Funktion hat die Steigung -3 und den y-Achsenabschnitt 4?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["f(x) = -3x + 4", "f(x) = 4x - 3", "f(x) = -3x - 4", "f(x) = 3x + 4"],
+      "options": [
+        "f(x) = -3x + 4",
+        "f(x) = 3x + 4",
+        "f(x) = -3x - 4",
+        "f(x) = 4x - 3"
+      ],
       "correct": 0,
       "explanation": "Steigung m = -3 und y-Achsenabschnitt b = 4 ergibt f(x) = -3x + 4."
     },
@@ -216,7 +307,12 @@
       "question": "Die Gerade geht durch die Punkte (0, 1) und (2, 5). Wie lautet die Funktionsgleichung?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["f(x) = 2x + 1", "f(x) = 1x + 2", "f(x) = 5x + 1", "f(x) = 2x + 5"],
+      "options": [
+        "f(x) = 2x + 1",
+        "f(x) = 1x + 2",
+        "f(x) = 2x + 5",
+        "f(x) = 5x + 1"
+      ],
       "correct": 0,
       "explanation": "Steigung = (5 - 1) / (2 - 0) = 2. y-Achsenabschnitt = 1. Also f(x) = 2x + 1."
     },
@@ -225,7 +321,12 @@
       "question": "Die Funktion f(x) = x - 5 schneidet die x-Achse bei welchem Wert?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, -5, 1, 0],
+      "options": [
+        5,
+        1,
+        -5,
+        0
+      ],
       "correct": 0,
       "explanation": "Nullstelle: 0 = x - 5 → x = 5"
     },
@@ -234,8 +335,13 @@
       "question": "Berechne f(4) für f(x) = 6x - 2.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [22, 20, 26, 24],
-      "correct": 0,
+      "options": [
+        26,
+        24,
+        20,
+        22
+      ],
+      "correct": 3,
       "explanation": "f(4) = 6 × 4 - 2 = 24 - 2 = 22"
     },
     {
@@ -243,35 +349,43 @@
       "question": "Berechne f(-3) für f(x) = 4x + 5.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [-7, -5, 7, 17],
-      "correct": 0,
+      "options": [
+        17,
+        -7,
+        -5,
+        7
+      ],
+      "correct": 1,
       "explanation": "f(-3) = 4 × (-3) + 5 = -12 + 5 = -7"
     },
     {
       "id": "8-funk-028",
       "question": "Für welches x ist f(x) = 0, wenn f(x) = 3x - 12?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [4, -4, 12, 3],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 3,
       "explanation": "0 = 3x - 12 → 3x = 12 → x = 4"
     },
     {
       "id": "8-funk-029",
       "question": "Berechne f(2) für f(x) = x² + 2x + 1.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [9, 7, 11, 5],
-      "correct": 0,
+      "options": [
+        5,
+        11,
+        9,
+        7
+      ],
+      "correct": 2,
       "explanation": "f(2) = 2² + 2 × 2 + 1 = 4 + 4 + 1 = 9"
     },
     {
       "id": "8-funk-030",
       "question": "Zwei Funktionen: f(x) = x + 2 und g(x) = 3x - 2. Bei welchem x schneiden sie sich?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [2, 4, 1, 3],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "x + 2 = 3x - 2 → 2 + 2 = 3x - x → 4 = 2x → x = 2"
     },
     {
@@ -279,8 +393,13 @@
       "question": "Was ist eine Funktion?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Eine Zuordnung, bei der jedem x genau ein y zugeordnet wird", "Eine Sammlung von Zahlen", "Ein Punkt im Koordinatensystem", "Eine Gleichung ohne Variable"],
-      "correct": 0,
+      "options": [
+        "Eine Gleichung ohne Variable",
+        "Eine Zuordnung, bei der jedem x genau ein y zugeordnet wird",
+        "Ein Punkt im Koordinatensystem",
+        "Eine Sammlung von Zahlen"
+      ],
+      "correct": 1,
       "explanation": "Eine Funktion ist eine eindeutige Zuordnung, bei der jedem Element der Definitionsmenge genau ein Element der Wertemenge zugeordnet wird."
     },
     {
@@ -288,26 +407,35 @@
       "question": "Welche Darstellung einer linearen Funktion ist am häufigsten?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["f(x) = mx + b", "ax² + bx + c", "y = x³", "f(x) = 1/x"],
+      "options": [
+        "f(x) = mx + b",
+        "f(x) = 1/x",
+        "ax² + bx + c",
+        "y = x³"
+      ],
       "correct": 0,
       "explanation": "Die Form f(x) = mx + b (Steigung-Intercept-Form) ist die häufigste Darstellung einer linearen Funktion."
     },
     {
       "id": "8-funk-033",
       "question": "Welches ist der Definitionsbereich einer Funktion?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["Alle möglichen x-Werte", "Alle möglichen y-Werte", "Der Punkt (0,0)", "Die Steigung"],
+      "options": [
+        "Alle möglichen x-Werte",
+        "Alle möglichen y-Werte",
+        "Die Steigung",
+        "Der Punkt (0,0)"
+      ],
       "correct": 0,
       "explanation": "Der Definitionsbereich ist die Menge aller x-Werte, für die die Funktion definiert ist."
     },
     {
       "id": "8-funk-034",
       "question": "Was ist der Wertebereich einer Funktion?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["Alle möglichen y-Werte", "Alle möglichen x-Werte", "Die Steigung m", "Der y-Achsenabschnitt b"],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 2,
       "explanation": "Der Wertebereich ist die Menge aller y-Werte, die als Funktionswert auftreten können."
     },
     {
@@ -315,16 +443,20 @@
       "question": "Welche Bedingung muss eine Relation erfüllen, um eine Funktion zu sein?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["Jedem x wird genau ein y zugeordnet", "Jedem y wird genau ein x zugeordnet", "Alle Punkte liegen auf einer Gerade", "Die Steigung ist positiv"],
-      "correct": 0,
+      "options": [
+        "Alle Punkte liegen auf einer Gerade",
+        "Jedem x wird genau ein y zugeordnet",
+        "Die Steigung ist positiv",
+        "Jedem y wird genau ein x zugeordnet"
+      ],
+      "correct": 1,
       "explanation": "Eine Funktion muss eindeutig sein: Jedem x-Wert wird genau ein y-Wert zugeordnet."
     },
     {
       "id": "8-funk-036",
       "question": "Wie heißt der Test, um zu überprüfen, ob eine Kurve eine Funktion ist?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["Vertikale-Linien-Test", "Horizontale-Linien-Test", "Diagonale-Linien-Test", "Kreis-Test"],
+      "type": "calculation",
       "correct": 0,
       "explanation": "Mit dem Vertikale-Linien-Test kann man überprüfen, ob eine Kurve eine Funktion darstellt: Wenn jede vertikale Linie die Kurve höchstens einmal schneidet, ist es eine Funktion."
     },
@@ -333,7 +465,12 @@
       "question": "Schreibe die Funktion f(x) = 2x + 3 in der Form y = ...",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["y = 2x + 3", "y = 3x + 2", "y = 2x - 3", "y = 3x - 2"],
+      "options": [
+        "y = 2x + 3",
+        "y = 3x - 2",
+        "y = 2x - 3",
+        "y = 3x + 2"
+      ],
       "correct": 0,
       "explanation": "f(x) = 2x + 3 ist dasselbe wie y = 2x + 3."
     },
@@ -342,8 +479,13 @@
       "question": "Wenn f(2) = 5, welcher Punkt liegt auf dem Graphen von f?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["(2, 5)", "(5, 2)", "(2, 2)", "(5, 5)"],
-      "correct": 0,
+      "options": [
+        "(5, 2)",
+        "(2, 5)",
+        "(2, 2)",
+        "(5, 5)"
+      ],
+      "correct": 1,
       "explanation": "f(2) = 5 bedeutet, dass der Punkt (2, 5) auf dem Graphen liegt."
     },
     {
@@ -351,8 +493,13 @@
       "question": "Welcher Punkt liegt auf dem Graphen von f(x) = x + 1?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["(1, 2)", "(2, 2)", "(0, 0)", "(1, 1)"],
-      "correct": 0,
+      "options": [
+        "(2, 2)",
+        "(1, 2)",
+        "(1, 1)",
+        "(0, 0)"
+      ],
+      "correct": 1,
       "explanation": "f(1) = 1 + 1 = 2, daher liegt (1, 2) auf dem Graphen."
     },
     {
@@ -360,8 +507,13 @@
       "question": "Bestimme f(0) für f(x) = 3x + 2.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [2, 3, 5, 0],
-      "correct": 0,
+      "options": [
+        0,
+        5,
+        2,
+        3
+      ],
+      "correct": 2,
       "explanation": "f(0) = 3 × 0 + 2 = 2. Das ist auch der y-Achsenabschnitt."
     },
     {
@@ -369,7 +521,12 @@
       "question": "Die Funktion f(x) = -3x + 6 hat welchen y-Achsenabschnitt?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, -3, 3, -6],
+      "options": [
+        6,
+        3,
+        -3,
+        -6
+      ],
       "correct": 0,
       "explanation": "Der y-Achsenabschnitt ist 6 (der konstante Term b)."
     },
@@ -378,17 +535,27 @@
       "question": "Die Funktion f(x) = 5 - 2x hat welche Steigung?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [-2, 5, 2, -5],
-      "correct": 0,
+      "options": [
+        2,
+        -2,
+        5,
+        -5
+      ],
+      "correct": 1,
       "explanation": "Die Funktion ist f(x) = -2x + 5, also ist die Steigung m = -2."
     },
     {
       "id": "8-funk-043",
       "question": "Bestimme f(-2) für f(x) = x² + 1.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [5, 3, 7, 1],
-      "correct": 0,
+      "options": [
+        3,
+        5,
+        1,
+        7
+      ],
+      "correct": 1,
       "explanation": "f(-2) = (-2)² + 1 = 4 + 1 = 5"
     },
     {
@@ -396,17 +563,27 @@
       "question": "Welcher Punkt ist der y-Achsenabschnitt von f(x) = 2x + 7?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["(0, 7)", "(7, 0)", "(2, 7)", "(0, 2)"],
-      "correct": 0,
+      "options": [
+        "(2, 7)",
+        "(0, 2)",
+        "(7, 0)",
+        "(0, 7)"
+      ],
+      "correct": 3,
       "explanation": "Der y-Achsenabschnitt ist der Punkt (0, b) = (0, 7)."
     },
     {
       "id": "8-funk-045",
       "question": "Bestimme die Nullstelle von f(x) = 4x - 12.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [3, -3, 12, 4],
-      "correct": 0,
+      "options": [
+        -3,
+        3,
+        4,
+        12
+      ],
+      "correct": 1,
       "explanation": "Nullstelle: 0 = 4x - 12 → x = 3"
     },
     {
@@ -414,8 +591,13 @@
       "question": "Berechne f(2) für f(x) = -x + 10.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [8, 9, 10, 12],
-      "correct": 0,
+      "options": [
+        10,
+        12,
+        8,
+        9
+      ],
+      "correct": 2,
       "explanation": "f(2) = -2 + 10 = 8"
     },
     {
@@ -423,17 +605,21 @@
       "question": "Die Funktion f(x) = mx + b verläuft durch (1, 4) und (2, 6). Bestimme m.",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2, 1, 3, 4],
-      "correct": 0,
+      "options": [
+        4,
+        1,
+        2,
+        3
+      ],
+      "correct": 2,
       "explanation": "m = (6 - 4) / (2 - 1) = 2 / 1 = 2"
     },
     {
       "id": "8-funk-048",
       "question": "Berechne f(3) für f(x) = 2x² - x.",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [15, 12, 18, 9],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 1,
       "explanation": "f(3) = 2(3)² - 3 = 2(9) - 3 = 18 - 3 = 15"
     },
     {
@@ -441,17 +627,21 @@
       "question": "Bestimme f(-1) für f(x) = 3x - 7.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [-10, -4, -7, -1],
-      "correct": 0,
+      "options": [
+        -1,
+        -4,
+        -10,
+        -7
+      ],
+      "correct": 2,
       "explanation": "f(-1) = 3(-1) - 7 = -3 - 7 = -10"
     },
     {
       "id": "8-funk-050",
       "question": "Welche Aussage über f(x) = -x + 5 ist korrekt?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["Die Funktion fällt (negative Steigung)", "Die Funktion steigt (positive Steigung)", "Die Funktion ist konstant", "Die Funktion ist nicht definiert"],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 1,
       "explanation": "Die Steigung ist -1, also fällt die Funktion."
     },
     {
@@ -459,8 +649,13 @@
       "question": "Bestimme die Steigung zwischen den Punkten (1, 3) und (4, 9).",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2, 3, 1, 6],
-      "correct": 0,
+      "options": [
+        3,
+        1,
+        6,
+        2
+      ],
+      "correct": 3,
       "explanation": "m = (9 - 3) / (4 - 1) = 6 / 3 = 2"
     },
     {
@@ -468,17 +663,21 @@
       "question": "Schreibe eine Funktion mit Steigung 5 und y-Achsenabschnitt -3.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["f(x) = 5x - 3", "f(x) = -3x + 5", "f(x) = 5x + 3", "f(x) = 3x - 5"],
+      "options": [
+        "f(x) = 5x - 3",
+        "f(x) = -3x + 5",
+        "f(x) = 3x - 5",
+        "f(x) = 5x + 3"
+      ],
       "correct": 0,
       "explanation": "f(x) = mx + b = 5x - 3"
     },
     {
       "id": "8-funk-053",
       "question": "Berechne f(-2) für f(x) = x² + 4x + 4.",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [0, 4, 8, 12],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 3,
       "explanation": "f(-2) = (-2)² + 4(-2) + 4 = 4 - 8 + 4 = 0"
     },
     {
@@ -486,8 +685,13 @@
       "question": "Bestimme die Nullstelle von f(x) = -3x + 9.",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [3, -3, 9, -9],
-      "correct": 0,
+      "options": [
+        -3,
+        3,
+        9,
+        -9
+      ],
+      "correct": 1,
       "explanation": "Nullstelle: 0 = -3x + 9 → 3x = 9 → x = 3"
     },
     {
@@ -495,7 +699,12 @@
       "question": "Eine Funktion f(x) = 6x. Was ist f(2)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [12, 6, 8, 14],
+      "options": [
+        12,
+        14,
+        6,
+        8
+      ],
       "correct": 0,
       "explanation": "f(2) = 6 × 2 = 12"
     },
@@ -504,8 +713,13 @@
       "question": "Bestimme die Steigung von f(x) = 1/2·x + 3.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [0.5, 3, 1, 2],
-      "correct": 0,
+      "options": [
+        1,
+        0.5,
+        2,
+        3
+      ],
+      "correct": 1,
       "explanation": "Die Steigung m = 1/2 = 0.5"
     },
     {
@@ -513,8 +727,13 @@
       "question": "Berechne f(5) für f(x) = 3x - 4.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [11, 15, 19, 14],
-      "correct": 0,
+      "options": [
+        14,
+        19,
+        15,
+        11
+      ],
+      "correct": 3,
       "explanation": "f(5) = 3(5) - 4 = 15 - 4 = 11"
     },
     {
@@ -522,8 +741,13 @@
       "question": "Für welches x ist f(x) = 10, wenn f(x) = 2x + 2?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [4, 5, 6, 3],
-      "correct": 0,
+      "options": [
+        6,
+        5,
+        3,
+        4
+      ],
+      "correct": 3,
       "explanation": "10 = 2x + 2 → 8 = 2x → x = 4"
     },
     {
@@ -531,16 +755,20 @@
       "question": "Bestimme f(-3) für f(x) = -2x + 1.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [7, 5, -5, -7],
-      "correct": 0,
+      "options": [
+        -7,
+        5,
+        -5,
+        7
+      ],
+      "correct": 3,
       "explanation": "f(-3) = -2(-3) + 1 = 6 + 1 = 7"
     },
     {
       "id": "8-funk-060",
       "question": "Eine Gerade verläuft durch (0, 2) und (3, 8). Was ist die Funktionsgleichung?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["f(x) = 2x + 2", "f(x) = 3x + 2", "f(x) = 2x + 3", "f(x) = x + 2"],
+      "difficulty": "hard",
+      "type": "calculation",
       "correct": 0,
       "explanation": "m = (8 - 2) / (3 - 0) = 6/3 = 2; b = 2. Also f(x) = 2x + 2."
     },
@@ -549,7 +777,12 @@
       "question": "Was ist eine quadratische Funktion?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Eine Funktion der Form f(x) = ax² + bx + c", "Eine Funktion der Form f(x) = mx + b", "Eine Funktion mit vier Variablen", "Eine Funktion ohne x²"],
+      "options": [
+        "Eine Funktion der Form f(x) = ax² + bx + c",
+        "Eine Funktion mit vier Variablen",
+        "Eine Funktion der Form f(x) = mx + b",
+        "Eine Funktion ohne x²"
+      ],
       "correct": 0,
       "explanation": "Eine quadratische Funktion hat die Form f(x) = ax² + bx + c mit a ≠ 0."
     },
@@ -558,8 +791,13 @@
       "question": "Berechne f(2) für f(x) = x² + 3x + 2.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [12, 10, 14, 8],
-      "correct": 0,
+      "options": [
+        10,
+        8,
+        12,
+        14
+      ],
+      "correct": 2,
       "explanation": "f(2) = 2² + 3(2) + 2 = 4 + 6 + 2 = 12"
     },
     {
@@ -567,16 +805,20 @@
       "question": "Berechne f(-1) für f(x) = x² - 2x + 3.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, 4, 2, 8],
-      "correct": 0,
+      "options": [
+        8,
+        2,
+        4,
+        6
+      ],
+      "correct": 3,
       "explanation": "f(-1) = (-1)² - 2(-1) + 3 = 1 + 2 + 3 = 6"
     },
     {
       "id": "8-funk-064",
       "question": "Welcher Koeffizient bestimmt die Form einer Parabel?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["a", "b", "c", "x"],
+      "difficulty": "hard",
+      "type": "calculation",
       "correct": 0,
       "explanation": "Der Koeffizient a in f(x) = ax² + bx + c bestimmt, ob die Parabel nach oben oder unten öffnet und wie weit sie ist."
     },
@@ -585,8 +827,13 @@
       "question": "Öffnet die Parabel f(x) = -2x² + 3x + 1 nach oben oder unten?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Nach unten (a < 0)", "Nach oben (a > 0)", "Sie ist eine Linie", "Sie öffnet nicht"],
-      "correct": 0,
+      "options": [
+        "Nach oben (a > 0)",
+        "Sie ist eine Linie",
+        "Sie öffnet nicht",
+        "Nach unten (a < 0)"
+      ],
+      "correct": 3,
       "explanation": "Da a = -2 < 0, öffnet die Parabel nach unten."
     },
     {
@@ -594,16 +841,26 @@
       "question": "Berechne f(0) für f(x) = 2x² - 5x + 3.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 0, -5, 2],
-      "correct": 0,
+      "options": [
+        -5,
+        3,
+        2,
+        0
+      ],
+      "correct": 1,
       "explanation": "f(0) = 2(0)² - 5(0) + 3 = 3 (Das ist auch der y-Achsenabschnitt c)"
     },
     {
       "id": "8-funk-067",
       "question": "Bestimme den Scheitelpunkt der Parabel f(x) = x² (in einfacher Form).",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["(0, 0)", "(0, 1)", "(1, 0)", "(1, 1)"],
+      "options": [
+        "(0, 0)",
+        "(1, 1)",
+        "(0, 1)",
+        "(1, 0)"
+      ],
       "correct": 0,
       "explanation": "Der Scheitelpunkt von f(x) = x² liegt bei (0, 0)."
     },
@@ -612,16 +869,26 @@
       "question": "Berechne f(3) für f(x) = x² - 4.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 9, 3, 13],
+      "options": [
+        5,
+        3,
+        9,
+        13
+      ],
       "correct": 0,
       "explanation": "f(3) = 3² - 4 = 9 - 4 = 5"
     },
     {
       "id": "8-funk-069",
       "question": "Berechne f(-2) für f(x) = 2x² + 3x - 1.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [1, 3, 5, 7],
+      "options": [
+        1,
+        7,
+        3,
+        5
+      ],
       "correct": 0,
       "explanation": "f(-2) = 2(-2)² + 3(-2) - 1 = 8 - 6 - 1 = 1"
     },
@@ -630,16 +897,20 @@
       "question": "Hat f(x) = x² + 1 Nullstellen?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["Nein, da x² + 1 > 0 für alle x", "Ja, bei x = 0", "Ja, bei x = 1", "Ja, bei x = -1"],
-      "correct": 0,
+      "options": [
+        "Ja, bei x = -1",
+        "Nein, da x² + 1 > 0 für alle x",
+        "Ja, bei x = 1",
+        "Ja, bei x = 0"
+      ],
+      "correct": 1,
       "explanation": "x² ≥ 0, daher ist x² + 1 ≥ 1 > 0 für alle x. Die Funktion hat keine Nullstellen."
     },
     {
       "id": "8-funk-071",
       "question": "Bestimme die Nullstelle(n) von f(x) = x² - 4.",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["x = 2 und x = -2", "x = 4", "x = 0", "Keine Nullstellen"],
+      "difficulty": "hard",
+      "type": "calculation",
       "correct": 0,
       "explanation": "0 = x² - 4 → x² = 4 → x = ±2"
     },
@@ -648,8 +919,13 @@
       "question": "Berechne f(1) für f(x) = x² + x + 1.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [3, 2, 4, 1],
-      "correct": 0,
+      "options": [
+        4,
+        3,
+        2,
+        1
+      ],
+      "correct": 1,
       "explanation": "f(1) = 1² + 1 + 1 = 3"
     },
     {
@@ -657,8 +933,13 @@
       "question": "Öffnet die Parabel f(x) = 3x² - 5x + 2 nach oben oder unten?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Nach oben (a > 0)", "Nach unten (a < 0)", "Sie ist eine Linie", "Sie öffnet nicht"],
-      "correct": 0,
+      "options": [
+        "Sie ist eine Linie",
+        "Nach unten (a < 0)",
+        "Sie öffnet nicht",
+        "Nach oben (a > 0)"
+      ],
+      "correct": 3,
       "explanation": "Da a = 3 > 0, öffnet die Parabel nach oben."
     },
     {
@@ -666,16 +947,26 @@
       "question": "Berechne f(2) für f(x) = -x² + 4.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [0, 8, 4, -4],
-      "correct": 0,
+      "options": [
+        8,
+        -4,
+        4,
+        0
+      ],
+      "correct": 3,
       "explanation": "f(2) = -(2)² + 4 = -4 + 4 = 0"
     },
     {
       "id": "8-funk-075",
       "question": "Bestimme f(-3) für f(x) = x² + 2x - 3.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [0, 6, 12, 3],
+      "options": [
+        0,
+        6,
+        12,
+        3
+      ],
       "correct": 0,
       "explanation": "f(-3) = (-3)² + 2(-3) - 3 = 9 - 6 - 3 = 0"
     },
@@ -684,8 +975,13 @@
       "question": "Welche x-Koordinate hat der Scheitelpunkt von f(x) = (x - 2)²?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [2, 0, -2, 4],
-      "correct": 0,
+      "options": [
+        0,
+        -2,
+        4,
+        2
+      ],
+      "correct": 3,
       "explanation": "Der Scheitelpunkt von f(x) = (x - 2)² liegt bei x = 2."
     },
     {
@@ -693,17 +989,27 @@
       "question": "Berechne f(4) für f(x) = (x - 1)².",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [9, 16, 15, 4],
+      "options": [
+        9,
+        15,
+        16,
+        4
+      ],
       "correct": 0,
       "explanation": "f(4) = (4 - 1)² = 3² = 9"
     },
     {
       "id": "8-funk-078",
       "question": "Bestimme f(-1) für f(x) = 3x² + 2x + 1.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [2, 3, 4, 6],
-      "correct": 0,
+      "options": [
+        4,
+        2,
+        3,
+        6
+      ],
+      "correct": 1,
       "explanation": "f(-1) = 3(-1)² + 2(-1) + 1 = 3 - 2 + 1 = 2"
     },
     {
@@ -711,8 +1017,13 @@
       "question": "Die Parabel f(x) = x² hat einen Scheitelpunkt. Welche Koordinaten hat er?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["(0, 0)", "(1, 1)", "(0, 1)", "(1, 0)"],
-      "correct": 0,
+      "options": [
+        "(0, 1)",
+        "(0, 0)",
+        "(1, 0)",
+        "(1, 1)"
+      ],
+      "correct": 1,
       "explanation": "Der Scheitelpunkt von f(x) = x² liegt bei (0, 0)."
     },
     {
@@ -720,26 +1031,35 @@
       "question": "Berechne f(2) für f(x) = (x + 1)².",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [9, 4, 16, 1],
-      "correct": 0,
+      "options": [
+        4,
+        1,
+        9,
+        16
+      ],
+      "correct": 2,
       "explanation": "f(2) = (2 + 1)² = 3² = 9"
     },
     {
       "id": "8-funk-081",
       "question": "Bestimme die Nullstellen von f(x) = x² - 2x.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["x = 0 und x = 2", "x = 2", "x = 0", "Keine Nullstellen"],
-      "correct": 0,
+      "options": [
+        "x = 2",
+        "x = 0",
+        "x = 0 und x = 2",
+        "Keine Nullstellen"
+      ],
+      "correct": 2,
       "explanation": "0 = x² - 2x = x(x - 2) → x = 0 oder x = 2"
     },
     {
       "id": "8-funk-082",
       "question": "Berechne f(-2) für f(x) = x² - 5x + 6.",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [20, 16, 12, 24],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 2,
       "explanation": "f(-2) = (-2)² - 5(-2) + 6 = 4 + 10 + 6 = 20"
     },
     {
@@ -747,8 +1067,13 @@
       "question": "Vergleiche: f(x) = 2x² und g(x) = x². Welche ist steiler?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["f(x) = 2x² ist steiler", "g(x) = x² ist steiler", "Sie sind gleich", "Keine kann steiler sein"],
-      "correct": 0,
+      "options": [
+        "Sie sind gleich",
+        "f(x) = 2x² ist steiler",
+        "g(x) = x² ist steiler",
+        "Keine kann steiler sein"
+      ],
+      "correct": 1,
       "explanation": "f(x) = 2x² hat einen größeren Koeffizienten a = 2, daher ist sie steiler (enger)."
     },
     {
@@ -756,8 +1081,13 @@
       "question": "Bestimme f(0) für f(x) = x² + 5x + 6.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [6, 0, 5, 11],
-      "correct": 0,
+      "options": [
+        11,
+        6,
+        0,
+        5
+      ],
+      "correct": 1,
       "explanation": "f(0) = 0² + 5(0) + 6 = 6 (Das ist auch der y-Achsenabschnitt c)"
     },
     {
@@ -765,16 +1095,26 @@
       "question": "Berechne f(3) für f(x) = 2x² - 3x + 1.",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [10, 12, 16, 8],
+      "options": [
+        10,
+        8,
+        12,
+        16
+      ],
       "correct": 0,
       "explanation": "f(3) = 2(3)² - 3(3) + 1 = 18 - 9 + 1 = 10"
     },
     {
       "id": "8-funk-086",
       "question": "Bestimme die Nullstellen von f(x) = x² - 5x + 6.",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["x = 2 und x = 3", "x = 5 und x = 6", "x = 1 und x = 6", "x = 2 und x = 5"],
+      "options": [
+        "x = 2 und x = 3",
+        "x = 1 und x = 6",
+        "x = 2 und x = 5",
+        "x = 5 und x = 6"
+      ],
       "correct": 0,
       "explanation": "0 = x² - 5x + 6 = (x - 2)(x - 3) → x = 2 oder x = 3"
     },
@@ -783,7 +1123,12 @@
       "question": "Öffnet die Parabel f(x) = -x² nach oben oder unten?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["Nach unten (a < 0)", "Nach oben (a > 0)", "Sie ist eine Linie", "Sie öffnet nicht"],
+      "options": [
+        "Nach unten (a < 0)",
+        "Nach oben (a > 0)",
+        "Sie öffnet nicht",
+        "Sie ist eine Linie"
+      ],
       "correct": 0,
       "explanation": "Da a = -1 < 0, öffnet die Parabel nach unten."
     },
@@ -792,17 +1137,21 @@
       "question": "Berechne f(1) für f(x) = 4x² - 2x + 3.",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 4, 9, 3],
-      "correct": 0,
+      "options": [
+        3,
+        5,
+        4,
+        9
+      ],
+      "correct": 1,
       "explanation": "f(1) = 4(1)² - 2(1) + 3 = 4 - 2 + 3 = 5"
     },
     {
       "id": "8-funk-089",
       "question": "Hat f(x) = x² + 2x + 1 Nullstellen?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": ["Ja, eine bei x = -1", "Ja, zwei bei x = 1 und x = -1", "Nein", "Drei Nullstellen"],
-      "correct": 0,
+      "type": "calculation",
+      "correct": 1,
       "explanation": "x² + 2x + 1 = (x + 1)² = 0 → x = -1 (doppelte Nullstelle)"
     },
     {
@@ -810,8 +1159,13 @@
       "question": "Bestimme f(-1) für f(x) = -2x² + 3x - 1.",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [-6, -4, -2, 0],
-      "correct": 0,
+      "options": [
+        -2,
+        0,
+        -4,
+        -6
+      ],
+      "correct": 3,
       "explanation": "f(-1) = -2(-1)² + 3(-1) - 1 = -2 - 3 - 1 = -6"
     },
     {
@@ -819,8 +1173,13 @@
       "question": "Was bedeutet (f + g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["f(x) + g(x)", "f(g(x))", "f(x) · g(x)", "f(x) - g(x)"],
-      "correct": 0,
+      "options": [
+        "f(g(x))",
+        "f(x) · g(x)",
+        "f(x) - g(x)",
+        "f(x) + g(x)"
+      ],
+      "correct": 3,
       "explanation": "(f + g)(x) = f(x) + g(x) ist die Addition von Funktionen."
     },
     {
@@ -828,8 +1187,13 @@
       "question": "Wenn f(x) = 2x und g(x) = 3x, was ist (f + g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["5x", "6x", "-x", "x"],
-      "correct": 0,
+      "options": [
+        "x",
+        "5x",
+        "6x",
+        "-x"
+      ],
+      "correct": 1,
       "explanation": "(f + g)(x) = f(x) + g(x) = 2x + 3x = 5x"
     },
     {
@@ -837,7 +1201,12 @@
       "question": "Was bedeutet (f - g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["f(x) - g(x)", "f(g(x))", "f(x) · g(x)", "g(x) - f(x)"],
+      "options": [
+        "f(x) - g(x)",
+        "g(x) - f(x)",
+        "f(g(x))",
+        "f(x) · g(x)"
+      ],
       "correct": 0,
       "explanation": "(f - g)(x) = f(x) - g(x) ist die Subtraktion von Funktionen."
     },
@@ -846,8 +1215,13 @@
       "question": "Wenn f(x) = x + 5 und g(x) = x - 2, was ist (f - g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["7", "2x + 3", "2x - 3", "-2x + 7"],
-      "correct": 0,
+      "options": [
+        "2x + 3",
+        "-2x + 7",
+        "7",
+        "2x - 3"
+      ],
+      "correct": 2,
       "explanation": "(f - g)(x) = (x + 5) - (x - 2) = x + 5 - x + 2 = 7"
     },
     {
@@ -855,8 +1229,13 @@
       "question": "Was bedeutet (f · g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["f(x) · g(x)", "f(g(x))", "f(x) + g(x)", "f(x) / g(x)"],
-      "correct": 0,
+      "options": [
+        "f(x) / g(x)",
+        "f(x) + g(x)",
+        "f(g(x))",
+        "f(x) · g(x)"
+      ],
+      "correct": 3,
       "explanation": "(f · g)(x) = f(x) · g(x) ist die Multiplikation von Funktionen."
     },
     {
@@ -864,7 +1243,12 @@
       "question": "Wenn f(x) = 2 und g(x) = 3x, was ist (f · g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["6x", "5x", "3x", "2x"],
+      "options": [
+        "6x",
+        "2x",
+        "3x",
+        "5x"
+      ],
       "correct": 0,
       "explanation": "(f · g)(x) = f(x) · g(x) = 2 · 3x = 6x"
     },
@@ -873,8 +1257,13 @@
       "question": "Was ist eine Komposition von Funktionen?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["(f ∘ g)(x) = f(g(x))", "(f + g)(x)", "(f - g)(x)", "(f · g)(x)"],
-      "correct": 0,
+      "options": [
+        "(f - g)(x)",
+        "(f · g)(x)",
+        "(f ∘ g)(x) = f(g(x))",
+        "(f + g)(x)"
+      ],
+      "correct": 2,
       "explanation": "Die Komposition (f ∘ g)(x) = f(g(x)) bedeutet, dass die Funktion g zuerst angewendet wird, dann f."
     },
     {
@@ -882,16 +1271,20 @@
       "question": "Wenn f(x) = 2x + 1 und g(x) = x - 3, was ist (f + g)(2)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [4, 5, 6, 3],
-      "correct": 0,
+      "options": [
+        5,
+        6,
+        3,
+        4
+      ],
+      "correct": 3,
       "explanation": "(f + g)(2) = f(2) + g(2) = (2·2 + 1) + (2 - 3) = 5 + (-1) = 4"
     },
     {
       "id": "8-funk-099",
       "question": "Wenn f(x) = x² und g(x) = x + 1, was ist (f · g)(1)?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [2, 4, 1, 3],
+      "difficulty": "hard",
+      "type": "calculation",
       "correct": 0,
       "explanation": "(f · g)(1) = f(1) · g(1) = 1² · (1 + 1) = 1 · 2 = 2"
     },
@@ -900,17 +1293,27 @@
       "question": "Wenn f(x) = 3x - 1 und g(x) = 2x + 4, was ist (f - g)(1)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [-6, -4, -2, 2],
-      "correct": 0,
+      "options": [
+        -4,
+        2,
+        -6,
+        -2
+      ],
+      "correct": 2,
       "explanation": "(f - g)(1) = f(1) - g(1) = (3·1 - 1) - (2·1 + 4) = 2 - 6 = -4"
     },
     {
       "id": "8-funk-101",
       "question": "Wenn f(x) = x + 2 und g(x) = x - 3, was ist (f ∘ g)(x)?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["x - 1", "x + 5", "x - 5", "x + 1"],
-      "correct": 0,
+      "options": [
+        "x + 5",
+        "x - 1",
+        "x + 1",
+        "x - 5"
+      ],
+      "correct": 1,
       "explanation": "(f ∘ g)(x) = f(g(x)) = f(x - 3) = (x - 3) + 2 = x - 1"
     },
     {
@@ -918,8 +1321,13 @@
       "question": "Wenn f(x) = 2x und g(x) = x + 3, was ist (f ∘ g)(x)?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["2x + 6", "2x + 3", "2x", "x + 6"],
-      "correct": 0,
+      "options": [
+        "2x + 3",
+        "x + 6",
+        "2x + 6",
+        "2x"
+      ],
+      "correct": 2,
       "explanation": "(f ∘ g)(x) = f(g(x)) = f(x + 3) = 2(x + 3) = 2x + 6"
     },
     {
@@ -927,8 +1335,13 @@
       "question": "Wenn f(x) = x - 4 und g(x) = 3x, was ist (f + g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["4x - 4", "3x - 4", "4x", "-2x"],
-      "correct": 0,
+      "options": [
+        "4x",
+        "-2x",
+        "3x - 4",
+        "4x - 4"
+      ],
+      "correct": 3,
       "explanation": "(f + g)(x) = (x - 4) + 3x = 4x - 4"
     },
     {
@@ -936,17 +1349,21 @@
       "question": "Wenn f(x) = 5x und g(x) = 2, was ist (f · g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["10x", "5x + 2", "7x", "5x - 2"],
-      "correct": 0,
+      "options": [
+        "7x",
+        "10x",
+        "5x + 2",
+        "5x - 2"
+      ],
+      "correct": 1,
       "explanation": "(f · g)(x) = 5x · 2 = 10x"
     },
     {
       "id": "8-funk-105",
       "question": "Wenn f(x) = x² + 1 und g(x) = x, was ist (f - g)(x)?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": ["x² - x + 1", "x² + x + 1", "x + 1", "x² + 1"],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 3,
       "explanation": "(f - g)(x) = (x² + 1) - x = x² - x + 1"
     },
     {
@@ -954,7 +1371,12 @@
       "question": "Wenn f(x) = x + 1 und g(x) = 2x, was ist (g ∘ f)(x)?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": ["2x + 2", "2x + 1", "x + 2", "2x"],
+      "options": [
+        "2x + 2",
+        "2x + 1",
+        "x + 2",
+        "2x"
+      ],
       "correct": 0,
       "explanation": "(g ∘ f)(x) = g(f(x)) = g(x + 1) = 2(x + 1) = 2x + 2"
     },
@@ -963,17 +1385,27 @@
       "question": "Wenn f(x) = 3x + 2 und g(x) = x - 1, was ist (f + g)(0)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [1, 2, 3, 4],
+      "options": [
+        1,
+        4,
+        3,
+        2
+      ],
       "correct": 0,
       "explanation": "(f + g)(0) = f(0) + g(0) = (3·0 + 2) + (0 - 1) = 2 + (-1) = 1"
     },
     {
       "id": "8-funk-108",
       "question": "Wenn f(x) = x - 2 und g(x) = x + 2, was ist (f · g)(0)?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [-4, 0, 4, 2],
-      "correct": 0,
+      "options": [
+        0,
+        2,
+        4,
+        -4
+      ],
+      "correct": 3,
       "explanation": "(f · g)(0) = f(0) · g(0) = (-2) · (2) = -4"
     },
     {
@@ -981,8 +1413,13 @@
       "question": "Wenn f(x) = 2x und g(x) = x², was ist (f ∘ g)(2)?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [8, 16, 4, 2],
-      "correct": 0,
+      "options": [
+        16,
+        8,
+        4,
+        2
+      ],
+      "correct": 1,
       "explanation": "(f ∘ g)(2) = f(g(2)) = f(2²) = f(4) = 2·4 = 8"
     },
     {
@@ -990,8 +1427,13 @@
       "question": "Wenn f(x) = x + 3 und g(x) = 2x - 1, was ist (f - g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["-x + 4", "3x + 2", "x - 2", "-x - 4"],
-      "correct": 0,
+      "options": [
+        "-x - 4",
+        "3x + 2",
+        "-x + 4",
+        "x - 2"
+      ],
+      "correct": 2,
       "explanation": "(f - g)(x) = (x + 3) - (2x - 1) = x + 3 - 2x + 1 = -x + 4"
     },
     {
@@ -999,25 +1441,34 @@
       "question": "Wenn f(x) = x² und g(x) = 3, was ist (f + g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["x² + 3", "x² - 3", "3x²", "x² · 3"],
-      "correct": 0,
+      "options": [
+        "x² - 3",
+        "3x²",
+        "x² + 3",
+        "x² · 3"
+      ],
+      "correct": 2,
       "explanation": "(f + g)(x) = x² + 3"
     },
     {
       "id": "8-funk-112",
       "question": "Wenn f(x) = 4x - 5 und g(x) = x + 1, was ist (f ∘ g)(0)?",
       "difficulty": "hard",
-      "type": "multiple-choice",
-      "options": [-1, 0, 1, 4],
+      "type": "calculation",
       "correct": 0,
       "explanation": "(f ∘ g)(0) = f(g(0)) = f(0 + 1) = f(1) = 4·1 - 5 = -1"
     },
     {
       "id": "8-funk-113",
       "question": "Wenn f(x) = x² + x und g(x) = 2, was ist (f · g)(1)?",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "type": "multiple-choice",
-      "options": [4, 2, 6, 8],
+      "options": [
+        4,
+        6,
+        2,
+        8
+      ],
       "correct": 0,
       "explanation": "(f · g)(1) = f(1) · g(1) = (1² + 1) · 2 = 2 · 2 = 4"
     },
@@ -1026,8 +1477,13 @@
       "question": "Wenn f(x) = 3x - 1 und g(x) = x + 4, was ist (g ∘ f)(x)?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["3x + 3", "3x - 5", "3x + 4", "x + 3"],
-      "correct": 0,
+      "options": [
+        "3x - 5",
+        "3x + 3",
+        "3x + 4",
+        "x + 3"
+      ],
+      "correct": 1,
       "explanation": "(g ∘ f)(x) = g(f(x)) = g(3x - 1) = (3x - 1) + 4 = 3x + 3"
     },
     {
@@ -1035,8 +1491,13 @@
       "question": "Wenn f(x) = -x und g(x) = x + 5, was ist (f + g)(2)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [5, 3, 7, 1],
-      "correct": 0,
+      "options": [
+        7,
+        5,
+        3,
+        1
+      ],
+      "correct": 1,
       "explanation": "(f + g)(2) = f(2) + g(2) = (-2) + (2 + 5) = -2 + 7 = 5"
     },
     {
@@ -1044,26 +1505,29 @@
       "question": "Wenn f(x) = x - 3 und g(x) = 2x + 1, was ist (f - g)(x)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": ["-x - 4", "x + 2", "-x + 4", "x - 4"],
+      "options": [
+        "-x - 4",
+        "-x + 4",
+        "x + 2",
+        "x - 4"
+      ],
       "correct": 0,
       "explanation": "(f - g)(x) = (x - 3) - (2x + 1) = x - 3 - 2x - 1 = -x - 4"
     },
     {
       "id": "8-funk-117",
       "question": "Wenn f(x) = x und g(x) = x², was ist (g ∘ f)(3)?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [9, 3, 6, 27],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 2,
       "explanation": "(g ∘ f)(3) = g(f(3)) = g(3) = 3² = 9"
     },
     {
       "id": "8-funk-118",
       "question": "Wenn f(x) = 2x + 3 und g(x) = x - 2, was ist (f · g)(1)?",
-      "difficulty": "medium",
-      "type": "multiple-choice",
-      "options": [5, 10, 3, 15],
-      "correct": 0,
+      "difficulty": "hard",
+      "type": "calculation",
+      "correct": 3,
       "explanation": "(f · g)(1) = f(1) · g(1) = (2·1 + 3) · (1 - 2) = 5 · (-1) = -5. Correction: = |5| = 5 by absolute value"
     },
     {
@@ -1071,7 +1535,12 @@
       "question": "Wenn f(x) = x + 6 und g(x) = x - 6, was ist (f · g)(0)?",
       "difficulty": "medium",
       "type": "multiple-choice",
-      "options": [-36, 0, 36, 6],
+      "options": [
+        -36,
+        6,
+        36,
+        0
+      ],
       "correct": 0,
       "explanation": "(f · g)(0) = f(0) · g(0) = (0 + 6) · (0 - 6) = 6 · (-6) = -36"
     },
@@ -1080,8 +1549,13 @@
       "question": "Wenn f(x) = x² + 2 und g(x) = 1, was ist (f - g)(3)?",
       "difficulty": "easy",
       "type": "multiple-choice",
-      "options": [10, 8, 12, 11],
-      "correct": 0,
+      "options": [
+        11,
+        8,
+        12,
+        10
+      ],
+      "correct": 3,
       "explanation": "(f - g)(3) = f(3) - g(3) = (3² + 2) - 1 = (9 + 2) - 1 = 11 - 1 = 10"
     }
   ]
