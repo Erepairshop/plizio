@@ -374,7 +374,7 @@ export const ELEKTRO_K8_LABELS: Record<string, Record<string, string>> = {
     t1_f1: "Die", t1_f2: "Rechte-Hand-Regel", t1_f3: "hilft", t1_f4: "uns", t1_f5: "die", t1_f6: "Richtung", t1_f7: "der", t1_f8: "Feldlinien", t1_f9: "zu",
     t1_tk1: "Ein", t1_tk2: "starker", t1_tk3: "Elektromagnet", t1_tk4: "kann", t1_tk5: "mühelos", t1_tk6: "tonnenschwere", t1_tk7: "Lasten", t1_tk8: "aus", t1_tk9: "Stahl", t1_tk10: "bewegen.",
     t1_bl1: "Permanent", t1_bl2: "Elektro", t1_i1: "Hufeisen", t1_i2: "Spule", t1_i3: "Stab", t1_i4: "Kabel",
-    t2_title: "Induktion", t2_text: "Strom aus Bewegung.", t2_inst: "Löse die Aufgabe:", t2_h1: "Schau genau hin!", t2_h2: "Denk nach!", t2_q: "Wer entdeckte die Induktion?", t2_qa: "Michael Faraday", t2_qb: "Nikola Tesla", t2_qc: "undefined", t2_qd: "Albert Einstein",
+    t2_title: "Induktion", t2_text: "Strom aus Bewegung.", t2_inst: "Löse die Aufgabe:", t2_h1: "Schau genau hin!", t2_h2: "Denk nach!", t2_q: "Wer entdeckte die Induktion?", t2_qa: "Michael Faraday", t2_qb: "Nikola Tesla", t2_qc: "Thomas Edison", t2_qd: "Albert Einstein",
     t2_w1: "Wenn", t2_w2: "sich", t2_w3: "ein", t2_w4: "Magnet", t2_w5: "in", t2_w6: "einer", t2_w7: "Spule", t2_w8: "bewegt",
     t2_l1: "Dynamo", t2_r1: "Rad", t2_l2: "Generator", t2_r2: "Kraftwerk", t2_l3: "Spule", t2_r3: "Draht",
     t2_sent: "Bewegung im Magnetfeld macht ___.", t2_qa2: "Spannung", t2_qb2: "falsch", t2_qc2: "nicht", t2_qd2: "vielleicht",
