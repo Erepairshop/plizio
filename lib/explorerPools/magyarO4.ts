@@ -549,3 +549,90 @@ export const MAGYAR_O4_I9_POOL: PoolTopicDef[] = [
   { difficulty: "hard", infoTitle: "t9_title", infoText: "", svg: { type: "simple-icon", icon: "📍", title: "Hely", bg: "#FEF3C7", color: "#D97706" }, interactive: { type: "gap-fill", sentence: "t9_sent", choices: ["t9_c1", "t9_c2", "t9_c3"], correctIndex: 0, instruction: "t9_inst" }, quiz: { generate: "hu_grammatical_cases" } },
   { difficulty: "hard", infoTitle: "t10_title", infoText: "", svg: { type: "simple-icon", icon: "🎓", title: "Vége", bg: "#EDE9FE", color: "#7C3AED" }, interactive: { type: "physics-slingshot", question: "t10_q", targets: [{ id: "v1", text: "t10_t1", isCorrect: true }, { id: "n1", text: "t10_t2", isCorrect: false }, { id: "n2", text: "t10_t3", isCorrect: false }], instruction: "t10_inst" }, quiz: { generate: "hu_vocabulary" } },
 ];
+
+interface MagyarO4PracticeConfig {
+  topic: string;
+  focus: string;
+  hint1: string;
+  hint2: string;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const MAGYAR_O4_PRACTICE_INSTRUCTIONS: string[] = [
+  "Válaszd ki a szabályhoz illő példát!",
+  "Egészítsd ki a mondatot helyes alakkal!",
+  "Döntsd el, melyik forma felel meg a nyelvtani szabálynak!",
+  "Gyakorold a témát több rövid példán!",
+  "Ellenőrizd magad egy összefoglaló feladattal!",
+];
+
+function addMagyarO4PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: MagyarO4PracticeConfig
+): void {
+  const hu = labels.hu ?? (labels.hu = { explorer_title: "Magyar nyelvtan" });
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+
+    hu[`${key}_title`] = `${cfg.topic} – Gyakorlat ${n}`;
+    hu[`${key}_text`] = `${cfg.focus} rövid gyakorló példákkal.`;
+    hu[`${key}_h1`] = cfg.hint1;
+    hu[`${key}_h2`] = cfg.hint2;
+    hu[`${key}_inst`] = MAGYAR_O4_PRACTICE_INSTRUCTIONS[i];
+    hu[`${key}_sent`] = `${cfg.topic}: ___`;
+    hu[`${key}_c1`] = "helyes megoldás";
+    hu[`${key}_c2`] = "nem megfelelő alak";
+    hu[`${key}_c3`] = "hibás forma";
+    hu[`${key}_c4`] = "bizonytalan példa";
+    hu[`${key}_q`] = `Melyik válasz igaz a(z) ${cfg.topic.toLowerCase()} témában?`;
+    hu[`${key}_q_a`] = "helyes megoldás";
+    hu[`${key}_q_b`] = "nem megfelelő alak";
+    hu[`${key}_q_c`] = "hibás forma";
+    hu[`${key}_q_d`] = "bizonytalan példa";
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, title: cfg.topic, bg: "#F8FAFC", color: cfg.color },
+      bulletKeys: [`${key}_h1`, `${key}_h2`],
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: i + 2 },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const MAGYAR_O4_PRACTICE_CONFIGS: MagyarO4PracticeConfig[] = [
+  { topic: "Mondatfajták", focus: "Kijelentő, kérdő, felkiáltó és felszólító mondatok", hint1: "A beszélő szándéka dönt", hint2: "Írásjel segít felismerni", quiz: "mondatfajtak", icon: "💬", color: "#0EA5E9", emoji: "❗" },
+  { topic: "Ige és igeidők", focus: "Múlt, jelen, jövő idejű igealakok", hint1: "Figyeld az időjelölő alakokat", hint2: "A mondat ideje és az ige egyezzen", quiz: "ige_igeidok", icon: "⏳", color: "#2563EB", emoji: "⏱️" },
+  { topic: "Főnevek fajtái", focus: "Köznév és tulajdonnév felismerése", hint1: "Tulajdonnév nagybetűs", hint2: "Köznév általános megnevezés", quiz: "tulajdonnev", icon: "📚", color: "#7C3AED", emoji: "📘" },
+  { topic: "Helyesírás", focus: "J/ly, hosszú-rövid hangok és írásjelek", hint1: "A helyes alakot szabály alapján választjuk", hint2: "Ékezet és betűhossz fontos", quiz: "hu_spelling", icon: "✍️", color: "#059669", emoji: "📝" },
+  { topic: "Igekötő", focus: "Igekötők szerepe és helyes használata", hint1: "Igekötő módosítja a jelentést", hint2: "Mondatban helye változhat", quiz: "igekoto", icon: "🔗", color: "#D97706", emoji: "➡️" },
+  { topic: "Jelző", focus: "Minőségjelző és mennyiségjelző gyakorlása", hint1: "Kérdés: Milyen? Mekkora?", hint2: "A jelző a főnévhez kapcsolódik", quiz: "hu_sentence_structure", icon: "🏷️", color: "#0284C7", emoji: "🎯" },
+  { topic: "Tárgy", focus: "A cselekvés tárgyának felismerése", hint1: "Kérdés: Mit? Kit?", hint2: "Gyakori jel a -t", quiz: "hu_subject_predicate", icon: "📦", color: "#DC2626", emoji: "📌" },
+  { topic: "Igeragozás", focus: "Személy és szám szerinti igeragozás", hint1: "E/1, E/2, E/3 és többes szám", hint2: "Alany és ige egyeztetése", quiz: "ige_igeidok", icon: "🧠", color: "#16A34A", emoji: "🔄" },
+  { topic: "Igeragozás és ismétlés", focus: "Összefoglaló gyakorlás az igealakokról", hint1: "Ragozás, igeidő és mondatkapcsolat", hint2: "Válaszd a mondatba illő alakot", quiz: "ige_igemódok", icon: "✅", color: "#1F2937", emoji: "📚" },
+];
+
+addMagyarO4PracticeTopics(MAGYAR_O4_I1_LABELS, MAGYAR_O4_I1_POOL, MAGYAR_O4_PRACTICE_CONFIGS[0]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I2_LABELS, MAGYAR_O4_I2_POOL, MAGYAR_O4_PRACTICE_CONFIGS[1]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I3_LABELS, MAGYAR_O4_I3_POOL, MAGYAR_O4_PRACTICE_CONFIGS[2]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I4_LABELS, MAGYAR_O4_I4_POOL, MAGYAR_O4_PRACTICE_CONFIGS[3]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I5_LABELS, MAGYAR_O4_I5_POOL, MAGYAR_O4_PRACTICE_CONFIGS[4]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I6_LABELS, MAGYAR_O4_I6_POOL, MAGYAR_O4_PRACTICE_CONFIGS[5]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I7_LABELS, MAGYAR_O4_I7_POOL, MAGYAR_O4_PRACTICE_CONFIGS[6]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I8_LABELS, MAGYAR_O4_I8_POOL, MAGYAR_O4_PRACTICE_CONFIGS[7]);
+addMagyarO4PracticeTopics(MAGYAR_O4_I9_LABELS, MAGYAR_O4_I9_POOL, MAGYAR_O4_PRACTICE_CONFIGS[8]);

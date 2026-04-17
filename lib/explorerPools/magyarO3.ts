@@ -1576,3 +1576,90 @@ export const MAGYAR_O3_I9_POOL: PoolTopicDef[] = [
   { difficulty: "hard", infoTitle: "t9_title", infoText: "t9_text", svg: { type: "simple-icon", icon: "🌈", title: "Vegyes", bg: "#F5F3FF", color: "#7C3AED" }, bulletKeys: ["t9_h1", "t9_h2"], interactive: { type: "physics-magnet", pairs: [{ left: "t9_l1", right: "t9_r1" }, { left: "t9_l2", right: "t9_r2" }, { left: "t9_l3", right: "t9_r3" }, { left: "t9_l4", right: "t9_r4" }], instruction: "t9_inst", hint1: "t9_h1", hint2: "t9_h2" }, quiz: { question: "t9_q_a", choices: ["t9_q_a", "t9_q_b", "t9_q_c", "t9_q_d"], answer: "t9_q_a" } },
   { difficulty: "hard", infoTitle: "t10_title", infoText: "t10_text", svg: { type: "simple-icon", icon: "🏆", title: "Grand Final", bg: "#FEF3C7", color: "#D97706" }, bulletKeys: ["t10_h1", "t10_h2"], interactive: { type: "gap-fill", sentence: "t10_sent", choices: ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], correctIndex: 0, instruction: "t10_inst", hint1: "t10_h1", hint2: "t10_h2" }, quiz: { question: "t10_q", choices: ["t10_q_a", "t10_q_b", "t10_q_c", "t10_q_d"], answer: "t10_q_a" } },
 ];
+
+interface MagyarO3PracticeConfig {
+  topic: string;
+  focus: string;
+  hint1: string;
+  hint2: string;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const MAGYAR_O3_PRACTICE_INSTRUCTIONS: string[] = [
+  "Válaszd ki a helyes nyelvtani formát!",
+  "Egészítsd ki a mondatot a megfelelő kifejezéssel!",
+  "Figyeld meg a példát, majd döntsd el a helyes választ!",
+  "Gyakorold a szabályt rövid mondatokban!",
+  "Ellenőrizd a tudásodat egy összefoglaló feladattal!",
+];
+
+function addMagyarO3PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: MagyarO3PracticeConfig
+): void {
+  const hu = labels.hu ?? (labels.hu = { explorer_title: "Magyar nyelvtan" });
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+
+    hu[`${key}_title`] = `${cfg.topic} – Gyakorlat ${n}`;
+    hu[`${key}_text`] = `${cfg.focus} rövid példákkal és gyakorló mondatokkal.`;
+    hu[`${key}_h1`] = cfg.hint1;
+    hu[`${key}_h2`] = cfg.hint2;
+    hu[`${key}_inst`] = MAGYAR_O3_PRACTICE_INSTRUCTIONS[i];
+    hu[`${key}_sent`] = `${cfg.topic}: ___`;
+    hu[`${key}_c1`] = "helyes megoldás";
+    hu[`${key}_c2`] = "nem megfelelő alak";
+    hu[`${key}_c3`] = "hibás forma";
+    hu[`${key}_c4`] = "bizonytalan példa";
+    hu[`${key}_q`] = `Melyik válasz illik a(z) ${cfg.topic.toLowerCase()} szabályához?`;
+    hu[`${key}_q_a`] = "helyes megoldás";
+    hu[`${key}_q_b`] = "nem megfelelő alak";
+    hu[`${key}_q_c`] = "hibás forma";
+    hu[`${key}_q_d`] = "bizonytalan példa";
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, title: cfg.topic, bg: "#F8FAFC", color: cfg.color },
+      bulletKeys: [`${key}_h1`, `${key}_h2`],
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: i + 2 },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const MAGYAR_O3_PRACTICE_CONFIGS: MagyarO3PracticeConfig[] = [
+  { topic: "Magánhangzók", focus: "Rövid és hosszú magánhangzók felismerése", hint1: "á, é, í, ó, ö, ő, ú, ü, ű", hint2: "Figyeld a szó jelentését is", quiz: "hu_spelling", icon: "🔤", color: "#0EA5E9", emoji: "🔠" },
+  { topic: "Mássalhangzók", focus: "Mássalhangzók helyes jelölése és kapcsolatai", hint1: "Kettőzés és hasonulás", hint2: "Kiejtés és írásmód kapcsolata", quiz: "hu_spelling", icon: "🧩", color: "#2563EB", emoji: "🅱️" },
+  { topic: "Főnév", focus: "Főnevek felismerése és használata mondatban", hint1: "Kérdések: Ki? Mi?", hint2: "Személy, állat, tárgy, fogalom", quiz: "hu_parts_of_speech", icon: "📘", color: "#7C3AED", emoji: "📚" },
+  { topic: "Ige", focus: "Cselekvést kifejező szavak gyakorlása", hint1: "Kérdés: Mit csinál?", hint2: "Igeidők és igealakok", quiz: "ige_igeidok", icon: "🏃", color: "#059669", emoji: "⚡" },
+  { topic: "Melléknév", focus: "Tulajdonságot kifejező szavak gyakorlása", hint1: "Kérdés: Milyen?", hint2: "Fokozás: szép, szebb, legszebb", quiz: "hu_parts_of_speech", icon: "🎨", color: "#D97706", emoji: "✨" },
+  { topic: "Szórend", focus: "A magyar mondat természetes szórendje", hint1: "Alany–állítmány kapcsolat", hint2: "Kiemelés a szórenddel", quiz: "hu_sentence_structure", icon: "↔️", color: "#0284C7", emoji: "🧭" },
+  { topic: "Mondatfajta", focus: "Kijelentő, kérdő, felkiáltó és felszólító mondatok", hint1: "Írásjelek segítenek", hint2: "A beszélő szándéka dönt", quiz: "mondatfajtak", icon: "💬", color: "#DC2626", emoji: "❗" },
+  { topic: "Szótagolás", focus: "Szótaghatárok és elválasztás gyakorlása", hint1: "Minden szó szótagokra bontható", hint2: "Elválasztásnál szótaghatár számít", quiz: "hu_syllables", icon: "👏", color: "#16A34A", emoji: "👏" },
+  { topic: "Írásjelek", focus: "Pont, kérdőjel, felkiáltójel és vessző használata", hint1: "A mondatfajta jelöli a mondatvéget", hint2: "A vessző tagol és pontosít", quiz: "hu_spelling", icon: "✍️", color: "#1F2937", emoji: "📝" },
+];
+
+addMagyarO3PracticeTopics(MAGYAR_O3_I1_LABELS, MAGYAR_O3_I1_POOL, MAGYAR_O3_PRACTICE_CONFIGS[0]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I2_LABELS, MAGYAR_O3_I2_POOL, MAGYAR_O3_PRACTICE_CONFIGS[1]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I3_LABELS, MAGYAR_O3_I3_POOL, MAGYAR_O3_PRACTICE_CONFIGS[2]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I4_LABELS, MAGYAR_O3_I4_POOL, MAGYAR_O3_PRACTICE_CONFIGS[3]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I5_LABELS, MAGYAR_O3_I5_POOL, MAGYAR_O3_PRACTICE_CONFIGS[4]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I6_LABELS, MAGYAR_O3_I6_POOL, MAGYAR_O3_PRACTICE_CONFIGS[5]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I7_LABELS, MAGYAR_O3_I7_POOL, MAGYAR_O3_PRACTICE_CONFIGS[6]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I8_LABELS, MAGYAR_O3_I8_POOL, MAGYAR_O3_PRACTICE_CONFIGS[7]);
+addMagyarO3PracticeTopics(MAGYAR_O3_I9_LABELS, MAGYAR_O3_I9_POOL, MAGYAR_O3_PRACTICE_CONFIGS[8]);
