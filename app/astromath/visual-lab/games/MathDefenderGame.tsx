@@ -160,7 +160,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   // Difficulty scaling
   const spawnRate = grade <= 2 ? 3500 : grade <= 4 ? 2800 : 2000;
   const gravity = grade <= 2 ? 2.5 : grade <= 4 ? 3.5 : 4.5;
-  const WIN_SCORE = grade * 10; // K1=10pts, K8=80pts (grade × 1 helyes válasz)
+  const WIN_SCORE = Math.max(5, grade) * 10; // min 5 helyes, K6+=grade×1
 
   const start = useCallback(() => {
     setScore(0);

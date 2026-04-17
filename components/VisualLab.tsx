@@ -637,23 +637,23 @@ function InformatikaGameSwitch({
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
 
   if (gameId === "binary-bit-stream") {
-    const round = pool.binaryAsteroids[0];
+    const round = pickRound(pool.binaryAsteroids, undefined);
     return round ? <BinaryBitStreamGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
   }
   if (gameId === "code-commander") {
-    const round = pool.algorithmSniper[0];
+    const round = pickRound(pool.algorithmSniper, undefined);
     return round ? <CodeCommanderGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
   }
   if (gameId === "hardware-hero") {
-    const round = pool.hardwareSort[0];
+    const round = pickRound(pool.hardwareSort, undefined);
     return round ? <HardwareHeroGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
   }
   if (gameId === "packet-path") {
-    const round = pool.termGuardian[0];
+    const round = pickRound(pool.termGuardian, undefined);
     return round ? <PacketPathGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
   }
   if (gameId === "virus-vault") {
-    const round = pool.securitySturm[0];
+    const round = pickRound(pool.securitySturm, undefined);
     return round ? <VirusVaultGame grade={grade} lang={lang} round={round} onDone={onDone} /> : <FallbackBox title={gameId} info={tSoon} />;
   }
   return <FallbackBox title={gameId} info={tSoon} />;
