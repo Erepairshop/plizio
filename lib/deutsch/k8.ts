@@ -1557,6 +1557,3 @@ export const K8_KONJUNKTIV: DeutschTheme[] = [
     }],
   },
 ];
-],
-  },
-];

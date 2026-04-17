@@ -1057,19 +1057,6 @@ export default function Home() {
           >
             <LanguageSwitcher />
           </motion.div>
-          <motion.button
-            onClick={() => router.push("/gravitas")}
-            className="flex items-center gap-1.5 rounded-full border border-cyan-400/25 bg-[#0b1222]/80 px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.18em] text-cyan-200 backdrop-blur-sm"
-            style={{ boxShadow: "0 0 14px rgba(34,211,238,0.16)" }}
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.48 }}
-            whileHover={{ scale: 1.04 }}
-            whileTap={{ scale: 0.96 }}
-          >
-            <Rocket size={12} />
-            <span>Gravitas</span>
-          </motion.button>
         </div>
 
         {/* Nav buttons — right */}
