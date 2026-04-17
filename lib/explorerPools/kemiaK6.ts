@@ -270,7 +270,116 @@ const K6_I1: IslandSpec = {
       }),
       quiz: "periodic_table_intro",
     },
-  ],
+
+    {
+      title: L("Protonen und Neutronen", "Protons and Neutrons", "Protonok és neutronok", "Protoni și neutroni"),
+      text: L("Der Atomkern enthält Protonen und Neutronen.", "The atomic nucleus contains protons and neutrons.", "Az atommag protonokat és neutronokat tartalmaz.", "Nucleul atomic conține protoni și neutroni."),
+      hint: L("Protonen sind positiv, Neutronen neutral.", "Protons are positive, neutrons neutral.", "A protonok pozitívak, a neutronok semlegesek.", "Protonii sunt pozitivi, neutronii neutri."),
+      labels: {
+        proton: L("Proton", "Proton", "Proton", "Proton"),
+        neutron: L("Neutron", "Neutron", "Neutron", "Neutron"),
+        nucleus: L("Kern", "Nucleus", "Mag", "Nucleu"),
+      },
+      svg: { type: "kemia-diagram", name: "AtomSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("proton"), right: k("nucleus") },
+          { left: k("neutron"), right: k("nucleus") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Elektronen", "Electrons", "Elektronok", "Electronii"),
+      text: L("Elektronen kreisen in der Hülle um den Kern.", "Electrons orbit the nucleus in the shell.", "Az elektronok a mag körül keringenek a burokban.", "Electronii orbitează nucleul în înveliș."),
+      hint: L("Sie sind negativ geladen.", "They are negatively charged.", "Negatív töltésűek.", "Sunt încărcați negativ."),
+      labels: {
+        electron: L("Elektron", "Electron", "Elektron", "Electron"),
+        shell: L("Hülle", "Shell", "Burok", "Înveliș"),
+        negative: L("negativ", "negative", "negatív", "negativ"),
+      },
+      svg: { type: "kemia-diagram", name: "AtomSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("electron"), k("shell"), k("negative")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Ordnungszahl", "Atomic Number", "Rendszám", "Număr atomic"),
+      text: L("Die Ordnungszahl gibt die Anzahl der Protonen an.", "The atomic number indicates the number of protons.", "A rendszám a protonok számát mutatja meg.", "Numărul atomic indică numărul de protoni."),
+      hint: L("Sie bestimmt das Element.", "It determines the element.", "Ez határozza meg az elemet.", "Acesta determină elementul."),
+      labels: {
+        number: L("Ordnungszahl", "Atomic Number", "Rendszám", "Număr atomic"),
+        protons: L("Protonen", "Protons", "Protonok", "Protoni"),
+        element: L("Element", "Element", "Elem", "Element"),
+      },
+      svg: topicSvg("🔢", "Number", "#3B82F6"),
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("number"),
+        choices: [k("protons"), k("element"), k("number"), k("protons")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "periodic_table_intro",
+    },
+    {
+      title: L("Massenzahl", "Mass Number", "Tömegszám", "Număr de masă"),
+      text: L("Die Massenzahl ist die Summe aus Protonen und Neutronen.", "The mass number is the sum of protons and neutrons.", "A tömegszám a protonok és neutronok összege.", "Numărul de masă este suma protonilor și neutronilor."),
+      hint: L("Elektronen sind zu leicht und zählen nicht.", "Electrons are too light and do not count.", "Az elektronok túl könnyűek és nem számítanak.", "Electronii sunt prea ușori și nu contează."),
+      labels: {
+        mass: L("Masse", "Mass", "Tömeg", "Masă"),
+        protons: L("Protonen", "Protons", "Protonok", "Protoni"),
+        neutrons: L("Neutronen", "Neutrons", "Neutronok", "Neutroni"),
+      },
+      svg: topicSvg("⚖️", "Mass", "#F59E0B"),
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("protons"), k("neutrons"), k("mass")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Isotope", "Isotopes", "Izotópok", "Izotopi"),
+      text: L("Isotope haben die gleiche Protonenzahl, aber verschiedene Neutronenzahlen.", "Isotopes have the same number of protons but different numbers of neutrons.", "Az izotópok azonos protonszámmal, de eltérő neutronszámmal rendelkeznek.", "Izotopii au același număr de protoni, dar număr diferit de neutroni."),
+      hint: L("Gleiches Element, andere Masse.", "Same element, different mass.", "Azonos elem, más tömeg.", "Același element, masă diferită."),
+      labels: {
+        same: L("gleich", "same", "azonos", "același"),
+        different: L("verschieden", "different", "eltérő", "diferit"),
+        isotope: L("Isotop", "Isotope", "Izotóp", "Izotop"),
+      },
+      svg: topicSvg("👯", "Isotopes", "#10B981"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "same", label: k("same") },
+          { id: "diff", label: k("different") },
+        ],
+        items: [
+          { text: k("isotope"), bucketId: "same" },
+          { text: k("isotope"), bucketId: "diff" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "elements_intro",
+    }
+      ],
 };
 
 const K6_I2: IslandSpec = {
@@ -423,7 +532,117 @@ const K6_I2: IslandSpec = {
       }),
       quiz: "mixture_vs_compound",
     },
-  ],
+
+    {
+      title: L("Ionen", "Ions", "Ionos", "Ioni"),
+      text: L("Ionen sind geladene Teilchen.", "Ions are charged particles.", "Az ionok töltött részecskék.", "Ionii sunt particule încărcate."),
+      hint: L("Sie haben Elektronen verloren oder gewonnen.", "They have lost or gained electrons.", "Elektronokat vesztettek vagy nyertek.", "Au pierdut sau au câștigat electroni."),
+      labels: {
+        ion: L("Ion", "Ion", "Ion", "Ion"),
+        charge: L("Ladung", "Charge", "Töltés", "Sarcină"),
+        particle: L("Teilchen", "Particle", "Részecske", "Particulă"),
+      },
+      svg: { type: "kemia-diagram", name: "MoleculeSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("ion"), k("charge"), k("particle")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atoms_vs_molecules",
+    },
+    {
+      title: L("Kationen und Anionen", "Cations and Anions", "Kationok és anionok", "Cationi și anioni"),
+      text: L("Kationen sind positiv, Anionen sind negativ.", "Cations are positive, anions are negative.", "A kationok pozitívak, az anionok negatívak.", "Cationii sunt pozitivi, anionii sunt negativi."),
+      hint: L("Gegensätze ziehen sich an.", "Opposites attract.", "Az ellentétek vonzzák egymást.", "Opusele se atrag."),
+      labels: {
+        cation: L("Kation", "Cation", "Kation", "Cation"),
+        anion: L("Anion", "Anion", "Anion", "Anion"),
+        positive: L("positiv", "positive", "pozitív", "pozitiv"),
+        negative: L("negativ", "negative", "negatív", "negativ"),
+      },
+      svg: topicSvg("🧲", "Attraction", "#EF4444"),
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("cation"), right: k("positive") },
+          { left: k("anion"), right: k("negative") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "compounds_intro",
+    },
+    {
+      title: L("Salze", "Salts", "Sók", "Săruri"),
+      text: L("Salze bestehen aus Kationen und Anionen.", "Salts consist of cations and anions.", "A sók kationokból és anionokból állnak.", "Sărurile sunt formate din cationi și anioni."),
+      hint: L("Sie bilden Kristalle.", "They form crystals.", "Kristályokat képeznek.", "Ele formează cristale."),
+      labels: {
+        salt: L("Salz", "Salt", "Só", "Sare"),
+        crystal: L("Kristall", "Crystal", "Kristály", "Cristal"),
+        ions: L("Ionen", "Ions", "Ionok", "Ioni"),
+      },
+      svg: topicSvg("🧂", "Salt", "#F97316"),
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("salt"),
+        choices: [k("crystal"), k("ions"), k("salt"), k("crystal")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "compounds_intro",
+    },
+    {
+      title: L("Gitterstruktur", "Lattice Structure", "Rácsszerkezet", "Structură de rețea"),
+      text: L("In Salzen sind die Ionen in einem Gitter angeordnet.", "In salts, the ions are arranged in a lattice.", "A sókban az ionok rácsban helyezkednek el.", "În săruri, ionii sunt aranjați într-o rețea."),
+      hint: L("Ein regelmäßiges Muster.", "A regular pattern.", "Szabályos minta.", "Un model regulat."),
+      labels: {
+        lattice: L("Gitter", "Lattice", "Rács", "Rețea"),
+        pattern: L("Muster", "Pattern", "Minta", "Model"),
+        regular: L("regelmäßig", "regular", "szabályos", "regulat"),
+      },
+      svg: topicSvg("🕸️", "Lattice", "#8B5CF6"),
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("regular"), k("pattern"), k("lattice")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "element_vs_compound",
+    },
+    {
+      title: L("Chemische Formeln", "Chemical Formulas", "Kémiai képletek", "Formule chimice"),
+      text: L("Formeln zeigen die Art und Anzahl der Atome.", "Formulas show the type and number of atoms.", "A képletek megmutatják az atomok fajtáját és számát.", "Formulele arată tipul și numărul de atomi."),
+      hint: L("H2O bedeutet zwei Wasserstoff, ein Sauerstoff.", "H2O means two hydrogen, one oxygen.", "A H2O két hidrogént és egy oxigént jelent.", "H2O înseamnă doi hidrogen, un oxigen."),
+      labels: {
+        formula: L("Formel", "Formula", "Képlet", "Formulă"),
+        type: L("Art", "Type", "Fajta", "Tip"),
+        number: L("Anzahl", "Number", "Szám", "Număr"),
+      },
+      svg: topicSvg("📝", "Formula", "#3B82F6"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "show", label: k("formula") },
+          { id: "hide", label: k("type") },
+        ],
+        items: [
+          { text: k("type"), bucketId: "show" },
+          { text: k("number"), bucketId: "show" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "molecules_intro",
+    }
+      ],
 };
 
 const K6_I3: IslandSpec = {
@@ -567,7 +786,116 @@ const K6_I3: IslandSpec = {
       }),
       quiz: "word_equations",
     },
-  ],
+
+    {
+      title: L("Exotherm", "Exothermic", "Exoterm", "Exoterm"),
+      text: L("Exotherme Reaktionen geben Wärme ab.", "Exothermic reactions release heat.", "Az exoterm reakciók hőt adnak le.", "Reacțiile exoterme eliberează căldură."),
+      hint: L("Es wird warm.", "It gets warm.", "Meleg lesz.", "Se încălzește."),
+      labels: {
+        exo: L("exotherm", "exothermic", "exoterm", "exoterm"),
+        heat: L("Wärme", "heat", "hő", "căldură"),
+        release: L("abgeben", "release", "lead", "eliberează"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("exo"), k("release"), k("heat")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "reaction_energy",
+    },
+    {
+      title: L("Endotherm", "Endothermic", "Endoterm", "Endoterm"),
+      text: L("Endotherme Reaktionen brauchen ständig Energie.", "Endothermic reactions need constant energy.", "Az endoterm reakciók folyamatos energiát igényelnek.", "Reacțiile endoterme au nevoie constantă de energie."),
+      hint: L("Es wird kalt oder braucht Feuer.", "It gets cold or needs fire.", "Lehűl vagy tüzet igényel.", "Se răcește sau are nevoie de foc."),
+      labels: {
+        endo: L("endotherm", "endothermic", "endoterm", "endoterm"),
+        need: L("brauchen", "need", "igényel", "necesită"),
+        energy: L("Energie", "energy", "energia", "energie"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("endo"), right: k("need") },
+          { left: k("energy"), right: k("endo") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "reaction_energy",
+    },
+    {
+      title: L("Aktivierungsenergie", "Activation Energy", "Aktiválási energia", "Energie de activare"),
+      text: L("Das ist der Startschuss für eine Reaktion.", "This is the starting signal for a reaction.", "Ez a reakció kezdőlökése.", "Acesta este semnalul de start pentru o reacție."),
+      hint: L("Ein Funke reicht oft.", "A spark is often enough.", "Egy szikra gyakran elég.", "O scânteie este adesea suficientă."),
+      labels: {
+        start: L("Start", "Start", "Kezdet", "Start"),
+        energy: L("Energie", "Energy", "Energia", "Energie"),
+        spark: L("Funke", "Spark", "Szikra", "Scânteie"),
+      },
+      svg: topicSvg("⚡", "Spark", "#F59E0B"),
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("start"),
+        choices: [k("energy"), k("spark"), k("start"), k("energy")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "reaction_energy",
+    },
+    {
+      title: L("Katalysatoren", "Catalysts", "Katalizátorok", "Catalizatori"),
+      text: L("Katalysatoren machen Reaktionen schneller.", "Catalysts make reactions faster.", "A katalizátorok felgyorsítják a reakciókat.", "Catalizatorii fac reacțiile mai rapide."),
+      hint: L("Sie werden dabei nicht verbraucht.", "They are not consumed in the process.", "Nem használódnak el közben.", "Nu sunt consumați în proces."),
+      labels: {
+        fast: L("schneller", "faster", "gyorsabb", "mai rapid"),
+        catalyst: L("Katalysator", "Catalyst", "Katalizátor", "Catalizator"),
+        help: L("helfen", "help", "segít", "ajută"),
+      },
+      svg: topicSvg("🚀", "Fast", "#10B981"),
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("catalyst"), k("help"), k("fast")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "reactants_products",
+    },
+    {
+      title: L("Massenerhaltung", "Conservation of Mass", "Tömegmegmaradás", "Conservarea masei"),
+      text: L("Bei einer Reaktion geht keine Masse verloren.", "In a reaction, no mass is lost.", "Egy reakció során nem vész el tömeg.", "Într-o reacție, nu se pierde masă."),
+      hint: L("Vorher und nachher gleich schwer.", "Before and after weigh the same.", "Előtte és utána ugyanolyan nehéz.", "Înainte și după cântăresc la fel."),
+      labels: {
+        mass: L("Masse", "Mass", "Tömeg", "Masă"),
+        same: L("gleich", "same", "azonos", "același"),
+        lost: L("verloren", "lost", "elveszett", "pierdut"),
+      },
+      svg: topicSvg("⚖️", "Balance", "#3B82F6"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "true", label: k("same") },
+          { id: "false", label: k("lost") },
+        ],
+        items: [
+          { text: k("mass"), bucketId: "true" },
+          { text: k("lost"), bucketId: "false" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "word_equations",
+    }
+      ],
 };
 
 const K6_I4: IslandSpec = {
@@ -719,7 +1047,117 @@ const K6_I4: IslandSpec = {
       }),
       quiz: "neutralization_intro",
     },
-  ],
+
+    {
+      title: L("Starke Säuren", "Strong Acids", "Erős savak", "Acizi tari"),
+      text: L("Starke Säuren sind sehr ätzend.", "Strong acids are very corrosive.", "Az erős savak nagyon maró hatásúak.", "Acizii tari sunt foarte corozivi."),
+      hint: L("Salzsäure ist ein Beispiel.", "Hydrochloric acid is an example.", "A sósav egy példa.", "Acidul clorhidric este un exemplu."),
+      labels: {
+        strong: L("stark", "strong", "erős", "tare"),
+        acid: L("Säure", "acid", "sav", "acid"),
+        corrosive: L("ätzend", "corrosive", "maró", "coroziv"),
+      },
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("strong"), k("acid"), k("corrosive")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "acids_everyday",
+    },
+    {
+      title: L("Schwache Säuren", "Weak Acids", "Gyenge savak", "Acizi slabi"),
+      text: L("Schwache Säuren finden wir oft im Essen.", "We often find weak acids in food.", "Gyenge savakat gyakran találunk az ételekben.", "Găsim adesea acizi slabi în mâncare."),
+      hint: L("Zitronensäure ist schwach.", "Citric acid is weak.", "A citromsav gyenge.", "Acidul citric este slab."),
+      labels: {
+        weak: L("schwach", "weak", "gyenge", "slab"),
+        food: L("Essen", "food", "étel", "mâncare"),
+        acid: L("Säure", "acid", "sav", "acid"),
+      },
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("weak"), right: k("acid") },
+          { left: k("food"), right: k("weak") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "acids_everyday",
+    },
+    {
+      title: L("Laugen", "Alkalis", "Lúgok", "Alcalii"),
+      text: L("Laugen sind in Wasser gelöste Basen.", "Alkalis are bases dissolved in water.", "A lúgok vízben oldott bázisok.", "Alcaliile sunt baze dizolvate în apă."),
+      hint: L("Sie fühlen sich seifig an.", "They feel soapy.", "Szappanos tapintásúak.", "Se simt alunecoase."),
+      labels: {
+        alkali: L("Lauge", "Alkali", "Lúg", "Alcaliu"),
+        water: L("Wasser", "water", "víz", "apă"),
+        base: L("Base", "base", "bázis", "bază"),
+      },
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("alkali"),
+        choices: [k("water"), k("base"), k("alkali"), k("water")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "bases_everyday",
+    },
+    {
+      title: L("Universalindikator", "Universal Indicator", "Univerzális indikátor", "Indicator universal"),
+      text: L("Er zeigt den genauen pH-Wert durch viele Farben.", "It shows the exact pH value through many colors.", "Sok színnel mutatja meg a pontos pH-értéket.", "Arată valoarea exactă a pH-ului prin multe culori."),
+      hint: L("Rot ist sauer, blau ist basisch.", "Red is acidic, blue is basic.", "A piros savas, a kék bázikus.", "Roșu este acid, albastru este bazic."),
+      labels: {
+        colors: L("Farben", "colors", "színek", "culori"),
+        exact: L("genau", "exact", "pontos", "exact"),
+        ph: L("pH-Wert", "pH value", "pH-érték", "valoare pH"),
+      },
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("exact"), k("ph"), k("colors")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "indicators_intro",
+    },
+    {
+      title: L("Salze aus Neutralisation", "Salts from Neutralization", "Sók semlegesítésből", "Săruri din neutralizare"),
+      text: L("Säure und Base reagieren zu Salz und Wasser.", "Acid and base react to form salt and water.", "A sav és a bázis sóvá és vízzé reagál.", "Acidul și baza reacționează pentru a forma sare și apă."),
+      hint: L("Das ist die Neutralisation.", "This is neutralization.", "Ez a semlegesítés.", "Aceasta este neutralizarea."),
+      labels: {
+        salt: L("Salz", "salt", "só", "sare"),
+        water: L("Wasser", "water", "víz", "apă"),
+        react: L("reagieren", "react", "reagál", "reacționează"),
+      },
+      svg: { type: "kemia-diagram", name: "PhScaleSvg" },
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "products", label: k("salt") },
+          { id: "action", label: k("react") },
+        ],
+        items: [
+          { text: k("salt"), bucketId: "products" },
+          { text: k("water"), bucketId: "products" },
+          { text: k("react"), bucketId: "action" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "neutralization_intro",
+    }
+      ],
 };
 
 const K6_I5: IslandSpec = {
@@ -860,7 +1298,116 @@ const K6_I5: IslandSpec = {
       }),
       quiz: "chromatography_intro",
     },
-  ],
+
+    {
+      title: L("Filtration", "Filtration", "Szűrés", "Filtrare"),
+      text: L("Trennt feste Stoffe von Flüssigkeiten.", "Separates solid substances from liquids.", "Szilárd anyagokat választ el folyadékoktól.", "Separă substanțele solide de lichide."),
+      hint: L("Wie beim Kaffeekochen.", "Like making coffee.", "Mint a kávéfőzésnél.", "Ca la prepararea cafelei."),
+      labels: {
+        solid: L("fest", "solid", "szilárd", "solid"),
+        liquid: L("flüssig", "liquid", "folyékony", "lichid"),
+        filter: L("Filter", "filter", "szűrő", "filtru"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("filter"), k("solid"), k("liquid")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "solubility_intro",
+    },
+    {
+      title: L("Dekantieren", "Decantation", "Dekantálás", "Decantare"),
+      text: L("Vorsichtiges Abgießen einer Flüssigkeit.", "Careful pouring off of a liquid.", "Egy folyadék óvatos leöntése.", "Turnarea cu grijă a unui lichid."),
+      hint: L("Der feste Stoff bleibt am Boden.", "The solid substance stays at the bottom.", "A szilárd anyag az alján marad.", "Substanța solidă rămâne la fund."),
+      labels: {
+        pour: L("abgießen", "pour off", "leönt", "turna"),
+        bottom: L("Boden", "bottom", "alj", "fund"),
+        careful: L("vorsichtig", "careful", "óvatos", "cu grijă"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("pour"), right: k("careful") },
+          { left: k("bottom"), right: k("pour") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "solubility_intro",
+    },
+    {
+      title: L("Eindampfen", "Evaporation", "Bepárlás", "Evaporare"),
+      text: L("Flüssigkeit verdampft, der gelöste Stoff bleibt zurück.", "Liquid evaporates, the dissolved substance remains.", "A folyadék elpárolog, az oldott anyag visszamarad.", "Lichidul se evaporă, substanța dizolvată rămâne."),
+      hint: L("So gewinnt man Salz aus Meerwasser.", "This is how salt is obtained from seawater.", "Így nyernek sót a tengervízből.", "Așa se obține sarea din apa de mare."),
+      labels: {
+        evaporate: L("verdampfen", "evaporate", "elpárolog", "se evaporă"),
+        remain: L("bleiben", "remain", "marad", "rămâne"),
+        salt: L("Salz", "salt", "só", "sare"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("evaporate"),
+        choices: [k("remain"), k("salt"), k("evaporate"), k("remain")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "crystallization",
+    },
+    {
+      title: L("Extraktion", "Extraction", "Extrakció", "Extracție"),
+      text: L("Herauslösen eines Stoffes mit einem Lösungsmittel.", "Dissolving out a substance with a solvent.", "Egy anyag kioldása oldószerrel.", "Dizolvarea unei substanțe cu un solvent."),
+      hint: L("Tee kochen ist eine Extraktion.", "Making tea is an extraction.", "A teafőzés egy extrakció.", "Prepararea ceaiului este o extracție."),
+      labels: {
+        solvent: L("Lösungsmittel", "solvent", "oldószer", "solvent"),
+        extract: L("herauslösen", "extract", "kiold", "extrage"),
+        tea: L("Tee", "tea", "tea", "ceai"),
+      },
+      svg: topicSvg("☕", "Tea", "#F59E0B"),
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("extract"), k("solvent"), k("tea")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "distillation_intro",
+    },
+    {
+      title: L("Gesättigte Lösungen", "Saturated Solutions", "Telített oldatok", "Soluții saturate"),
+      text: L("Es kann sich kein weiterer Stoff mehr lösen.", "No more substance can dissolve.", "Több anyag már nem tud feloldódni.", "Nu se mai poate dizolva nicio substanță."),
+      hint: L("Der Rest bleibt am Boden liegen.", "The rest stays at the bottom.", "A maradék az alján marad.", "Restul rămâne la fund."),
+      labels: {
+        full: L("voll", "full", "tele", "plin"),
+        dissolve: L("lösen", "dissolve", "oldódik", "se dizolvă"),
+        bottom: L("Boden", "bottom", "alj", "fund"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "yes", label: k("full") },
+          { id: "no", label: k("dissolve") },
+        ],
+        items: [
+          { text: k("bottom"), bucketId: "yes" },
+          { text: k("dissolve"), bucketId: "no" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "concentration_basic",
+    }
+      ],
 };
 
 const K6_I6: IslandSpec = {
@@ -1011,7 +1558,116 @@ const K6_I6: IslandSpec = {
       }),
       quiz: "chemistry_safety_home",
     },
-  ],
+
+    {
+      title: L("Treibhauseffekt", "Greenhouse Effect", "Üvegházhatás", "Efect de seră"),
+      text: L("Gase wie CO2 halten die Wärme auf der Erde.", "Gases like CO2 keep heat on Earth.", "A CO2-hoz hasonló gázok a Földön tartják a hőt.", "Gazele precum CO2 mențin căldura pe Pământ."),
+      hint: L("Zu viel davon macht die Erde zu heiß.", "Too much of it makes the Earth too hot.", "A túl sok belőle túl meleggé teszi a Földet.", "Prea mult face Pământul prea fierbinte."),
+      labels: {
+        gas: L("Gas", "gas", "gáz", "gaz"),
+        heat: L("Wärme", "heat", "hő", "căldură"),
+        earth: L("Erde", "Earth", "Föld", "Pământ"),
+      },
+      svg: topicSvg("🌡️", "Heat", "#EF4444"),
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("gas"), k("heat"), k("earth")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "air_pollution_intro",
+    },
+    {
+      title: L("Saurer Regen", "Acid Rain", "Savas eső", "Ploaie acidă"),
+      text: L("Abgase machen den Regen sauer.", "Exhaust gases make the rain acidic.", "A kipufogógázok savassá teszik az esőt.", "Gazele de eșapament fac ploaia acidă."),
+      hint: L("Das schadet Bäumen und Gebäuden.", "This harms trees and buildings.", "Ez károsítja a fákat és az épületeket.", "Acest lucru dăunează copacilor și clădirilor."),
+      labels: {
+        rain: L("Regen", "rain", "eső", "ploaie"),
+        acid: L("sauer", "acidic", "savas", "acid"),
+        harm: L("schaden", "harm", "károsít", "dăunează"),
+      },
+      svg: topicSvg("🌧️", "Rain", "#3B82F6"),
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("rain"), right: k("acid") },
+          { left: k("harm"), right: k("rain") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "air_pollution_intro",
+    },
+    {
+      title: L("Ozonloch", "Ozone Depletion", "Ózonlyuk", "Gaura de ozon"),
+      text: L("Bestimmte Gase zerstören die Ozonschicht.", "Certain gases destroy the ozone layer.", "Bizonyos gázok elpusztítják az ózonréteget.", "Anumite gaze distrug stratul de ozon."),
+      hint: L("Ozon schützt uns vor UV-Strahlung.", "Ozone protects us from UV radiation.", "Az ózon véd az UV-sugárzástól.", "Ozonul ne protejează de radiațiile UV."),
+      labels: {
+        ozone: L("Ozon", "ozone", "ózon", "ozon"),
+        protect: L("schützen", "protect", "véd", "protejează"),
+        uv: L("UV-Strahlung", "UV radiation", "UV-sugárzás", "radiații UV"),
+      },
+      svg: topicSvg("🛡️", "Shield", "#8B5CF6"),
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("ozone"),
+        choices: [k("protect"), k("uv"), k("ozone"), k("protect")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "air_pollution_intro",
+    },
+    {
+      title: L("Kunststoffe", "Plastics", "Műanyagok", "Materiale plastice"),
+      text: L("Plastik ist nützlich, aber oft ein Umweltproblem.", "Plastic is useful but often an environmental problem.", "A műanyag hasznos, de gyakran környezeti probléma.", "Plasticul este util, dar adesea o problemă de mediu."),
+      hint: L("Es verrottet sehr langsam.", "It rots very slowly.", "Nagyon lassan bomlik le.", "Se descompune foarte încet."),
+      labels: {
+        plastic: L("Plastik", "plastic", "műanyag", "plastic"),
+        problem: L("Problem", "problem", "probléma", "problemă"),
+        slow: L("langsam", "slow", "lassú", "încet"),
+      },
+      svg: topicSvg("🛍️", "Plastic", "#F59E0B"),
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("plastic"), k("problem"), k("slow")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "recycling_materials",
+    },
+    {
+      title: L("Biologisch abbaubar", "Biodegradable", "Biológiailag lebomló", "Biodegradabil"),
+      text: L("Diese Stoffe werden von der Natur zersetzt.", "These substances are broken down by nature.", "Ezeket az anyagokat a természet lebontja.", "Aceste substanțe sunt descompuse de natură."),
+      hint: L("Kompost ist ein gutes Beispiel.", "Compost is a good example.", "A komposzt jó példa.", "Compostul este un exemplu bun."),
+      labels: {
+        nature: L("Natur", "nature", "természet", "natură"),
+        breakdown: L("zersetzen", "break down", "lebont", "descompune"),
+        good: L("gut", "good", "jó", "bun"),
+      },
+      svg: topicSvg("🌱", "Nature", "#10B981"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "yes", label: k("nature") },
+          { id: "no", label: k("breakdown") },
+        ],
+        items: [
+          { text: k("good"), bucketId: "yes" },
+          { text: k("breakdown"), bucketId: "no" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "recycling_materials",
+    }
+      ],
 };
 
 const K6_I7: IslandSpec = {
@@ -1161,7 +1817,116 @@ const K6_I7: IslandSpec = {
       }),
       quiz: "periodic_table_intro",
     },
-  ],
+
+    {
+      title: L("Aggregatzustände", "States of Matter", "Halmazállapotok", "Stări de agregare"),
+      text: L("Stoffe können fest, flüssig oder gasförmig sein.", "Substances can be solid, liquid, or gaseous.", "Az anyagok lehetnek szilárdak, folyékonyak vagy gázneműek.", "Substanțele pot fi solide, lichide sau gazoase."),
+      hint: L("Wasser, Eis und Dampf.", "Water, ice, and steam.", "Víz, jég és gőz.", "Apă, gheață și abur."),
+      labels: {
+        solid: L("fest", "solid", "szilárd", "solid"),
+        liquid: L("flüssig", "liquid", "folyékony", "lichid"),
+        gas: L("gasförmig", "gaseous", "gáznemű", "gazos"),
+      },
+      svg: { type: "kemia-diagram", name: "StatesSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("solid"), k("liquid"), k("gas")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Schmelzen und Erstarren", "Melting and Freezing", "Olvadás és fagyás", "Topire și înghețare"),
+      text: L("Wechsel zwischen fest und flüssig.", "Change between solid and liquid.", "Váltás szilárd és folyékony között.", "Schimbare între solid și lichid."),
+      hint: L("Eis schmilzt, Wasser gefriert.", "Ice melts, water freezes.", "A jég elolvad, a víz megfagy.", "Gheața se topește, apa îngheață."),
+      labels: {
+        melt: L("schmelzen", "melt", "olvad", "se topește"),
+        freeze: L("erstarren", "freeze", "megfagy", "îngheață"),
+        change: L("Wechsel", "change", "váltás", "schimbare"),
+      },
+      svg: { type: "kemia-diagram", name: "StatesSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("melt"), right: k("change") },
+          { left: k("freeze"), right: k("change") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Sieden und Kondensieren", "Boiling and Condensation", "Forrás és lecsapódás", "Fierbere și condensare"),
+      text: L("Wechsel zwischen flüssig und gasförmig.", "Change between liquid and gaseous.", "Váltás folyékony és gáznemű között.", "Schimbare între lichid și gazos."),
+      hint: L("Wasser kocht, Dampf wird zu Tropfen.", "Water boils, steam turns to drops.", "A víz forr, a gőz cseppekké válik.", "Apa fierbe, aburul devine picături."),
+      labels: {
+        boil: L("sieden", "boil", "forr", "fierbe"),
+        condense: L("kondensieren", "condense", "lecsapódik", "condensează"),
+        steam: L("Dampf", "steam", "gőz", "abur"),
+      },
+      svg: { type: "kemia-diagram", name: "StatesSvg" },
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("boil"),
+        choices: [k("condense"), k("steam"), k("boil"), k("condense")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Sublimation", "Sublimation", "Szublimáció", "Sublimare"),
+      text: L("Direkter Wechsel von fest zu gasförmig.", "Direct change from solid to gaseous.", "Közvetlen váltás szilárdból gázneműbe.", "Schimbare directă din solid în gazos."),
+      hint: L("Ohne flüssig zu werden.", "Without becoming liquid.", "Anélkül, hogy folyékony lenne.", "Fără a deveni lichid."),
+      labels: {
+        direct: L("direkt", "direct", "közvetlen", "direct"),
+        solid: L("fest", "solid", "szilárd", "solid"),
+        gas: L("Gas", "gas", "gáz", "gaz"),
+      },
+      svg: { type: "kemia-diagram", name: "StatesSvg" },
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("solid"), k("direct"), k("gas")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Dichte", "Density", "Sűrűség", "Densitate"),
+      text: L("Wie viel Masse in einem bestimmten Volumen steckt.", "How much mass is in a certain volume.", "Mennyi tömeg van egy adott térfogatban.", "Câtă masă este într-un anumit volum."),
+      hint: L("Blei ist dichter als Holz.", "Lead is denser than wood.", "Az ólom sűrűbb, mint a fa.", "Plumbul este mai dens decât lemnul."),
+      labels: {
+        mass: L("Masse", "mass", "tömeg", "masă"),
+        volume: L("Volumen", "volume", "térfogat", "volum"),
+        density: L("Dichte", "density", "sűrűség", "densitate"),
+      },
+      svg: topicSvg("📦", "Density", "#8B5CF6"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "heavy", label: k("density") },
+          { id: "light", label: k("volume") },
+        ],
+        items: [
+          { text: k("mass"), bucketId: "heavy" },
+          { text: k("volume"), bucketId: "light" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    }
+      ],
 };
 
 const K6_I8: IslandSpec = {
@@ -1295,7 +2060,116 @@ const K6_I8: IslandSpec = {
       }),
       quiz: "word_equations",
     },
-  ],
+
+    {
+      title: L("Oxidation", "Oxidation", "Oxidáció", "Oxidare"),
+      text: L("Reaktion mit Sauerstoff.", "Reaction with oxygen.", "Reakció oxigénnel.", "Reacție cu oxigen."),
+      hint: L("Verbrennung ist eine schnelle Oxidation.", "Combustion is a fast oxidation.", "Az égés egy gyors oxidáció.", "Combustia este o oxidare rapidă."),
+      labels: {
+        oxygen: L("Sauerstoff", "oxygen", "oxigén", "oxigen"),
+        react: L("Reaktion", "reaction", "reakció", "reacție"),
+        fast: L("schnell", "fast", "gyors", "rapid"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("react"), k("oxygen"), k("fast")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "combustion_reactions",
+    },
+    {
+      title: L("Reduktion", "Reduction", "Redukció", "Reducere"),
+      text: L("Sauerstoff wird einem Stoff entzogen.", "Oxygen is removed from a substance.", "Az oxigént elvonják egy anyagtól.", "Oxigenul este eliminat dintr-o substanță."),
+      hint: L("Das Gegenteil der Oxidation.", "The opposite of oxidation.", "Az oxidáció ellentéte.", "Opusul oxidării."),
+      labels: {
+        remove: L("entziehen", "remove", "elvon", "elimină"),
+        oxygen: L("Sauerstoff", "oxygen", "oxigén", "oxigen"),
+        opposite: L("Gegenteil", "opposite", "ellentét", "opus"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("remove"), right: k("oxygen") },
+          { left: k("opposite"), right: k("remove") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "combustion_reactions",
+    },
+    {
+      title: L("Redoxreaktionen", "Redox Reactions", "Redoxireakciók", "Reacții redox"),
+      text: L("Oxidation und Reduktion passieren immer gleichzeitig.", "Oxidation and reduction always happen at the same time.", "Az oxidáció és redukció mindig egyszerre történik.", "Oxidarea și reducerea se întâmplă mereu în același timp."),
+      hint: L("Einer gibt, der andere nimmt.", "One gives, the other takes.", "Az egyik ad, a másik vesz.", "Unul dă, celălalt ia."),
+      labels: {
+        together: L("gleichzeitig", "at the same time", "egyszerre", "în același timp"),
+        give: L("geben", "give", "ad", "dă"),
+        take: L("nehmen", "take", "vesz", "ia"),
+      },
+      svg: { type: "kemia-diagram", name: "ReactionSvg" },
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("together"),
+        choices: [k("give"), k("take"), k("together"), k("give")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "combustion_reactions",
+    },
+    {
+      title: L("Rosten", "Rusting", "Rozsdásodás", "Ruginire"),
+      text: L("Eisen reagiert langsam mit Sauerstoff und Wasser.", "Iron reacts slowly with oxygen and water.", "A vas lassan reagál oxigénnel és vízzel.", "Fierul reacționează încet cu oxigenul și apa."),
+      hint: L("Eine langsame Oxidation.", "A slow oxidation.", "Egy lassú oxidáció.", "O oxidare lentă."),
+      labels: {
+        iron: L("Eisen", "iron", "vas", "fier"),
+        slow: L("langsam", "slow", "lassú", "lent"),
+        rust: L("Rost", "rust", "rozsda", "rugină"),
+      },
+      svg: topicSvg("🟤", "Rust", "#F97316"),
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("iron"), k("slow"), k("rust")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "combustion_reactions",
+    },
+    {
+      title: L("Korrosionsschutz", "Corrosion Protection", "Korrózióvédelem", "Protecție împotriva coroziunii"),
+      text: L("Wir schützen Metalle vor dem Rosten.", "We protect metals from rusting.", "Megvédjük a fémeket a rozsdásodástól.", "Protejăm metalele de ruginire."),
+      hint: L("Lackieren oder Einölen hilft.", "Painting or oiling helps.", "A festés vagy olajozás segít.", "Vopsirea sau ungerea ajută."),
+      labels: {
+        protect: L("schützen", "protect", "véd", "protejează"),
+        paint: L("Lack", "paint", "festék", "vopsea"),
+        metal: L("Metall", "metal", "fém", "metal"),
+      },
+      svg: topicSvg("🛡️", "Protect", "#10B981"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "safe", label: k("protect") },
+          { id: "danger", label: k("metal") },
+        ],
+        items: [
+          { text: k("paint"), bucketId: "safe" },
+          { text: k("metal"), bucketId: "danger" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "combustion_reactions",
+    }
+      ],
 };
 
 const K6_I9: IslandSpec = {
@@ -1435,7 +2309,116 @@ const K6_I9: IslandSpec = {
       }),
       quiz: "atom_model_intro",
     },
-  ],
+
+    {
+      title: L("Laborgeräte", "Lab Equipment", "Laboratóriumi eszközök", "Echipament de laborator"),
+      text: L("Im Labor brauchen wir spezielle Geräte.", "In the lab we need special equipment.", "A laborban speciális eszközökre van szükségünk.", "În laborator avem nevoie de echipament special."),
+      hint: L("Becherglas und Pipette.", "Beaker and pipette.", "Főzőpohár és pipetta.", "Pahar Berzelius și pipetă."),
+      labels: {
+        lab: L("Labor", "lab", "labor", "laborator"),
+        glass: L("Glas", "glass", "üveg", "sticlă"),
+        tools: L("Geräte", "equipment", "eszközök", "echipament"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "sentence-build",
+        fragments: [k("lab"), k("tools"), k("glass")],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Bunsenbrenner", "Bunsen Burner", "Bunsen-égő", "Arzător Bunsen"),
+      text: L("Damit erhitzen wir Stoffe im Labor.", "We use it to heat substances in the lab.", "Ezzel melegítjük az anyagokat a laborban.", "Îl folosim pentru a încălzi substanțe în laborator."),
+      hint: L("Vorsicht, heiß!", "Careful, hot!", "Vigyázat, forró!", "Atenție, fierbinte!"),
+      labels: {
+        heat: L("erhitzen", "heat", "melegít", "încălzește"),
+        fire: L("Feuer", "fire", "tűz", "foc"),
+        hot: L("heiß", "hot", "forró", "fierbinte"),
+      },
+      svg: topicSvg("🔥", "Fire", "#EF4444"),
+      interactive: (k) => ({
+        type: "match-pairs",
+        pairs: [
+          { left: k("heat"), right: k("fire") },
+          { left: k("hot"), right: k("heat") },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Reagenzglas", "Test Tube", "Kémcső", "Eprubetă"),
+      text: L("Für kleine Versuche nehmen wir das Reagenzglas.", "For small experiments we use the test tube.", "Kis kísérletekhez kémcsövet használunk.", "Pentru experimente mici folosim eprubeta."),
+      hint: L("Es ist aus dünnem Glas.", "It is made of thin glass.", "Vékony üvegből van.", "Este făcută din sticlă subțire."),
+      labels: {
+        small: L("klein", "small", "kicsi", "mic"),
+        test: L("Versuch", "experiment", "kísérlet", "experiment"),
+        tube: L("Glas", "glass", "üveg", "sticlă"),
+      },
+      svg: { type: "kemia-diagram", name: "BeakerSvg" },
+      interactive: (k) => ({
+        type: "gap-fill",
+        sentence: k("test"),
+        choices: [k("small"), k("tube"), k("test"), k("small")],
+        correctIndex: 2,
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    },
+    {
+      title: L("Schutzbrille", "Safety Goggles", "Védőszemüveg", "Ochelari de protecție"),
+      text: L("Die Schutzbrille schützt unsere Augen.", "Safety goggles protect our eyes.", "A védőszemüveg védi a szemünket.", "Ochelarii de protecție ne protejează ochii."),
+      hint: L("Immer aufsetzen!", "Always put them on!", "Mindig vedd fel!", "Pune-i mereu!"),
+      labels: {
+        eyes: L("Augen", "eyes", "szemek", "ochi"),
+        protect: L("schützen", "protect", "véd", "protejează"),
+        always: L("immer", "always", "mindig", "mereu"),
+      },
+      svg: { type: "kemia-diagram", name: "LabSafetySvg" },
+      interactive: (k) => ({
+        type: "word-order",
+        words: [k("always"), k("protect"), k("eyes")],
+        correctOrder: [0, 1, 2],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "chemistry_safety_home",
+    },
+    {
+      title: L("Experimentieren", "Experimenting", "Kísérletezés", "Experimentare"),
+      text: L("Wir beobachten genau und schreiben alles auf.", "We observe closely and write everything down.", "Pontosan megfigyelünk és mindent leírunk.", "Observăm cu atenție și notăm totul."),
+      hint: L("Ein Protokoll ist wichtig.", "A protocol is important.", "A jegyzőkönyv fontos.", "Un protocol este important."),
+      labels: {
+        observe: L("beobachten", "observe", "megfigyel", "observă"),
+        write: L("aufschreiben", "write down", "leír", "notează"),
+        protocol: L("Protokoll", "protocol", "jegyzőkönyv", "protocol"),
+      },
+      svg: topicSvg("📝", "Protocol", "#3B82F6"),
+      interactive: (k) => ({
+        type: "drag-to-bucket",
+        buckets: [
+          { id: "do", label: k("observe") },
+          { id: "record", label: k("write") },
+        ],
+        items: [
+          { text: k("observe"), bucketId: "do" },
+          { text: k("protocol"), bucketId: "record" },
+        ],
+        instruction: k("title"),
+        hint1: k("hint"),
+        hint2: k("text"),
+      }),
+      quiz: "atom_model_intro",
+    }
+      ],
 };
 
 const ISLANDS: IslandSpec[] = [K6_I1, K6_I2, K6_I3, K6_I4, K6_I5, K6_I6, K6_I7, K6_I8, K6_I9];
