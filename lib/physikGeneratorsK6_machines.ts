@@ -1025,7 +1025,7 @@ export function generateInclinedPlaneMCQ(lang: string = "en", seed: number = 0):
       q4("Wie verringert eine schiefe Ebene den erforderlichen Aufwand?", "How does an inclined plane reduce effort?", "Hogyan csökkenti a ferde sík az erőfeszítést?", "Cum reduce un plan înclinat efortul?", lang),
       q4("Indem sie die Last über eine längere Strecke verteilt", "By spreading the load over a longer distance", "A teher terhelésének hosszabb távolságra való elosztásával", "Prin răspândirea sarcinii pe o distanță mai lungă", lang),
       [
-        q4("Indem sie die Schwerkraft aufhebt", "By canceling gravity", "A gravitáció feloldásával", "Prin anularea gravitației", lang),
+        q4("Indem sie die Strecke verkürzt", "By shortening the distance", "A távolság lerövidítésével", "Prin scurtarea distanței", lang),
         q4("Indem sie das Gewicht verringert", "By reducing weight", "A súly csökkentésével", "Prin reducerea greutății", lang),
         q4("Indem sie die Reibung beseitigt", "By eliminating friction", "A súrlódás kiküszöbölésével", "Prin eliminarea frecării", lang),
       ],

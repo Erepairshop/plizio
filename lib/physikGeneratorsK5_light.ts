@@ -725,7 +725,7 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
       q4(
         `Der Strohhalm zerfällt im Wasser`,
         `The straw dissolves in water`,
-        `A szívócsö feloldódik a vízben`,
+        `A szívócső feloldódik a vízben`,
         `Paia se dizolvă în apă`,
         lang
       ),
@@ -746,7 +746,7 @@ function refraction(lang: string, seed?: number): CurriculumQuestion[] {
         q4(
           `Warum sieht ein Strohhalm im Wasser gebogen aus?`,
           `Why does a straw look bent in water?`,
-          `Miért tűnik a szívócsö meghajlottnak a vízben?`,
+          `Miért tűnik a szívócső meghajlottnak a vízben?`,
           `De ce pare o paie îndoită în apă?`,
           lang
         ),

@@ -489,7 +489,7 @@ function generateBauernleben(seed: number = 109): CurriculumQuestion[] {
 
   const mcqPool: [string, string, string[]][] = [
     ["Welches System der Landwirtschaft setzte sich im Mittelalter durch?", "Dreifelderwirtschaft", ["Zweifelderwirtschaft", "Vierfelderwirtschaft", "Monokultur"]],
-    ["Was wurde bei der Dreifelderwirtschaft im ersten Jahr auf einem field angebaut?", "Wintergetreide (z.B. Roggen)", ["Sommergetreide", "Kartoffeln", "Nichts (Brache)"]],
+    ["Was wurde bei der Dreifelderwirtschaft im ersten Jahr auf einem Feld angebaut?", "Wintergetreide (z.B. Roggen)", ["Sommergetreide", "Kartoffeln", "Nichts (Brache)"]],
     ["Was geschah im dritten Jahr bei der Dreifelderwirtschaft mit dem Feld?", "Es blieb als Brache unbewirtschaftet, um sich zu erholen", ["Es wurde mit Gold bepflanzt", "Es wurde in einen Wald verwandelt", "Es wurde als Parkplatz genutzt"]],
     ["Welche Erfindung verbesserte die Zugkraft der Pferde?", "Das Kummet (Halsjoch)", ["Der Sattel", "Die Peitsche", "Der Hufeisenschutz"]],
     ["Welches neue Ackergerät ermöglichte das Aufbrechen schwerer Böden?", "Der Beetpflug mit Rädern und Sech", ["Der Hakenpflug", "Die Schaufel", "Die Sense"]],
@@ -529,7 +529,7 @@ function generateBauernleben(seed: number = 109): CurriculumQuestion[] {
   return qs;
 }
 
-// ─── 10. KLÖSTER - ORA ET LABORA (REGEN, TAGESABLAUF) ─────────────────────────
+// ─── 10. KLÖSTER - ORA ET LABORA (REGEL, TAGESABLAUF) ─────────────────────────
 
 function generateKloesterOraEtLabora(seed: number = 110): CurriculumQuestion[] {
   const rng = mulberry32(seed);
@@ -729,7 +729,7 @@ function generateZuenfte(seed: number = 113): CurriculumQuestion[] {
   return qs;
 }
 
-// ─── 14. HANSE (HANDEL, FERNANDEL) ───────────────────────────────────────────
+// ─── 14. HANSE (HANDEL, FERNHANDEL) ──────────────────────────────────────────
 
 function generateHanse(seed: number = 114): CurriculumQuestion[] {
   const rng = mulberry32(seed);
@@ -814,7 +814,7 @@ function generateStadtleben(seed: number = 115): CurriculumQuestion[] {
     ["Wie nennt man die schützende Anlage um die Stadt?", "Stadtmauer"],
     ["Wie hieß der Mann, der nachts für Ordnung sorgte?", "Nachtwächter"],
     ["Wo fand der Handel im Zentrum statt?", "Marktplatz"],
-    ["Wie nennt man die bauweise der mittelalterlichen Häuser?", "Fachwerk"],
+    ["Wie nennt man die Bauweise der mittelalterlichen Häuser?", "Fachwerk"],
     ["Wo wurden Verbrecher zur Schau gestellt?", "Pranger"],
     ["Wie nennt man die reiche Oberschicht der Stadt?", "Patrizier"],
     ["Woher holten die Menschen ihr Wasser?", "Brunnen"],
@@ -847,7 +847,7 @@ function generateInvestiturstreit(seed: number = 116): CurriculumQuestion[] {
     ["Warum war der Bann für Heinrich IV. so gefährlich?", "Die Fürsten drohten, ihn abzusetzen, wenn er nicht vom Bann befreit würde", ["Er durfte kein Fleisch mehr essen", "Er musste seine Krone abgeben", "Er wurde ins Gefängnis geworfen"]],
     ["Wie endete der Investiturstreit offiziell im Jahr 1122?", "Mit dem Wormser Konkordat", ["Mit dem Sieg des Kaisers in Rom", "Mit der Auflösung der Kirche", "Mit der Teilung des Reiches"]],
     ["Was wurde im Wormser Konkordat festgelegt?", "Die Trennung zwischen der geistlichen und weltlichen Einsetzung (Investitur)", ["Dass der Kaiser auch Papst ist", "Dass es keine Bischöfe mehr gibt", "Dass der Papst Steuern an den Kaiser zahlt"]],
-    ["Was ist die 'Zweiständerlehre'?", "Die Vorstellung, dass Papst und Kaiser zwei gleichberechtigte Mächte (Schwerter) von Gott sind", ["Dass ein Tisch zwei Beine haben muss", "Dass man zwei Könige braucht", "Dass es zwei Götter gibt"]],
+    ["Was ist die 'Zwei-Schwerter-Lehre'?", "Die Vorstellung, dass Papst und Kaiser zwei gleichberechtigte Mächte (Schwerter) von Gott sind", ["Dass ein Tisch zwei Beine haben muss", "Dass man zwei Könige braucht", "Dass es zwei Götter gibt"]],
     ["Welcher Begriff beschreibt den Kampf um die Freiheit der Kirche von weltlichem Einfluss?", "Libertas Ecclesiae", ["Pax Romana", "Magna Carta", "Lex Salica"]],
     ["Wie hieß die mächtige Adlige, auf deren Burg in Canossa der Papst Schutz suchte?", "Mathilde von Tuszien", ["Hildegard von Bingen", "Kaiserin Theophanu", "Königin Chlothilde"]],
     ["Welche Symbole wurden bei der geistlichen Investitur eines Bischofs überreicht?", "Ring und Stab", ["Schwert und Schild", "Krone und Zepter", "Hammer und Amboss"]],
@@ -897,7 +897,7 @@ function generateBarbarossa(seed: number = 117): CurriculumQuestion[] {
     ["Wie starb Barbarossa im Jahr 1190?", "Er ertrank während des Kreuzzugs im Fluss Saleph (Kleinasien)", ["Er fiel in einer Ritterturnier", "Er starb an Altersschwäche in Aachen", "Er wurde von Heinrich dem Löwen ermordet"]],
     ["Welche Sage rankt sich um Barbarossas Tod?", "Die Kyffhäuser-Sage (er schläft im Berg und wird wiederkehren)", ["Er sei in den Himmel aufgefahren", "Er lebe als Einsiedler im Wald", "Er sei als Geist in Rom gesehen worden"]],
     ["Was ist der 'Friede von Konstanz' (1183)?", "Ein Friedensschluss, in dem Barbarossa den italienischen Städten Freiheiten gewährte", ["Das Ende der Sachsenkriege", "Der Vertrag zur Teilung des Reiches", "Ein Verbot von Klöstern"]],
-    ["Welches Symbol war das Wappentier der Staufer?", "Der Löwe (drei Löwen)", ["Der Adler", "Der Drache", "Der Bär"]],
+    ["Welches Symbol war das Wappentier des Deutschen Reiches unter den Staufern?", "Der Adler", ["Der Löwe", "Der Drache", "Der Bär"]],
     ["Was passierte 1180 mit Heinrich dem Löwen?", "Barbarossa entzog ihm seine Herzogtümer (Bayern und Sachsen) nach einem Prozess", ["Er wurde zum Kaiser gekrönt", "Er wurde Barbarossas Nachfolger", "Er heiratete Barbarossas Tochter"]],
     ["Warum unternahm Barbarossa insgesamt sechs Italienzüge?", "Um seine Macht gegen die aufstrebenden Städte und den Papst zu sichern", ["Um dort Urlaub zu machen", "Um neue Pferde zu kaufen", "Um die Alpen zu sprengen"]],
     ["Wie hieß der Ort, an dem Barbarossa 1155 zum Kaiser gekrönt wurde?", "Rom", ["Aachen", "Mailand", "Palermo"]],
@@ -1253,7 +1253,7 @@ function generateSchwarzerTod(seed: number = 124): CurriculumQuestion[] {
     ["Was passierte mit vielen Dörfern nach der Pest?", "Sie wurden verlassen und verfielen (Wüstungen)", ["Sie wurden zu großen Städten", "Sie wurden alle vergoldet", "Nichts, sie blieben gleich"]],
     ["Wie reagierte die Kunst auf den allgegenwärtigen Tod?", "Es entstanden Motive wie der 'Totentanz'", ["Man malte nur noch Blumen", "Man hörte auf zu malen", "Es gab nur noch Bilder von Königen"]],
     ["Was bedeutet der Begriff 'Quarantäne'?", "Ein 40-tägiges Isolieren von ankommenden Schiffen (von ital. quaranta = 40)", ["Ein spezielles Medikament", "Ein Ort zum Tanzen", "Ein Gebet der Mönche"]],
-    ["In welcher italienischen Stadt wurde die Quarantäne zuerst eingeführt?", "Venedig (oder Ragusa/Dubrovnik)", ["Rom", "Mailand", "Neapel"]],
+    ["In welcher Stadt wurde die Quarantäne zuerst eingeführt?", "Ragusa (heute Dubrovnik) oder Venedig", ["Rom", "Mailand", "Neapel"]],
     ["Welches Bakterium ist der Erreger der Pest?", "Yersinia pestis", ["Escherichia coli", "Salmonellen", "Grippevirus"]],
     ["Was passierte mit der sozialen Ordnung nach der Pest?", "Die feudale Ordnung geriet ins Wanken, da Bauern mehr Rechte fordern konnten", ["Sie wurde strenger als je zuvor", "Der König wurde abgeschafft", "Niemand musste mehr arbeiten"]],
     ["Warum konnte sich die Pest in den Städten besonders schnell ausbreiten?", "Wegen der engen Gassen und mangelnden Hygiene", ["Weil es in den Städten zu viel Wald gab", "Weil die Menschen dort zu viel lasen", "Weil es dort keine Mauern gab"]],

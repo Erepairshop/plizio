@@ -406,7 +406,7 @@ const I2: IslandSpec = {
       svg: { type: "text-bubbles", items: [{ text: "Sonne", color: "#fff", bg: "#ea580c" }, { text: "Licht", color: "#fff", bg: "#facc15" }] },
       interactive: { type: "gap-fill", text: L("Der Gott __ wird oft mit einem Falkenkopf dargestellt."), gaps: [{ index: 0, options: ["Ra", "Osiris"], correct: 0 }] },
       quiz: { 
-        question: L("Für was war der Gott Ra zuständig?"), 
+        question: L("Wofür war der Gott Ra zuständig?"),
         choices: [L("Sonne"), L("Unterwelt"), L("Wasser"), L("Krieg")], 
         answer: L("Sonne") 
       }
@@ -427,12 +427,12 @@ const I2: IslandSpec = {
     {
       id: "isis",
       title: L("Göttin Isis"),
-      hint1: L("Die Göttin der Magie und Mütter."),
+      hint1: L("Die Göttin der Magie und Mutterschaft."),
       hint2: L("Ehefrau von Osiris."),
       svg: { type: "icon-grid", items: [{ emoji: "🪄", label: "Magie" }, { emoji: "👩", label: "Mutter" }] },
       interactive: { type: "word-order", words: [L("Schutz"), L("Göttin"), L("Isis")], instruction: L("Wer war Isis?"), correctOrder: [0, 1, 2] },
       quiz: { 
-        question: L("Für was steht die Göttin Isis?"), 
+        question: L("Wofür steht die Göttin Isis?"),
         choices: [L("Schutz und Magie"), L("Krieg"), L("Handel"), L("Wetter")], 
         answer: L("Schutz und Magie") 
       }
@@ -732,7 +732,7 @@ const I4: IslandSpec = {
       hint1: L("Romulus und Remus gründeten Rom."),
       hint2: L("Sie wurden von einer Wölfin gesäugt."),
       svg: { type: "icon-grid", items: [{ emoji: "🐺", label: "Wölfin" }, { emoji: "👶", label: "Zwillinge" }] },
-      interactive: { type: "word-order", words: [L("753"), L("Rom"), L("schlüpft"), L("aus"), L("dem"), L("Ei")], instruction: L("Merkspruch!"), correctOrder: [0, 1, 2, 3, 4, 5] },
+      interactive: { type: "word-order", words: [L("753"), L("v.Chr."), L("Rom"), L("gegründet")], instruction: L("Merkspruch: Wann wurde Rom gegründet?"), correctOrder: [0, 1, 2, 3] },
       quiz: { 
         question: L("Wer waren die sagenhaften Gründer Roms?"), 
         choices: [L("Romulus und Remus"), L("Caesar und Augustus"), L("Zeus und Poseidon"), L("Adam und Eva")], 
@@ -1278,7 +1278,7 @@ const I6: IslandSpec = {
     {
       id: "tacitus",
       title: L("Tacitus"),
-      hint1: L("Ein römischer Schreiber."),
+      hint1: L("Ein römischer Historiker."),
       hint2: L("Er schrieb das Buch 'Germania'."),
       svg: { type: "word-display", word: "GERMANIA", color: "#1e3a8a" },
       interactive: { type: "gap-fill", text: L("Tacitus war ein __."), gaps: [{ index: 0, options: ["Römer", "Germane"], correct: 0 }] },

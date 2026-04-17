@@ -108,8 +108,8 @@ function generateElectromagnetsTyping(lang = "en", seed = 0): CurriculumTyping[]
       [q4("Kis áram/feszültség → elektromágnes aktiválódik → mechanikus kapcsoló nyitás/zárása → nagy áram/feszültség", "Small current/voltage → electromagnet activates → mechanical switch open/close → large current/voltage", "Kis áram/feszültség → elektromágnes aktiválódik → mechanikus kapcsoló nyitás/zárása", "Curent/tensiune mic → electromagnet se activează → comutator mecanic deschis/închis", lang)]),
     createTyping("electromagnetism", "electromagnets", q4("Tesla SI egység?", "Tesla SI unit?", "Tesla SI egység?", "Unitate Tesla SI?", lang),
       [q4("1 T = 1 Wb/m² = 1 kg/(A×s²); 1 T nagyon erős mágnes mező (Föld mágnese ~50 μT)", "1 T = 1 Wb/m² = 1 kg/(A×s²); 1 T is very strong (Earth's field ~50 μT)", "1 T = 1 Wb/m² = 1 kg/(A×s²); 1 T nagyon erős (Föld mágnese ~50 μT)", "1 T = 1 Wb/m² = 1 kg/(A×s²); 1 T foarte puternic (câmp Pământ ~50 μT)", lang)]),
-    createTyping("electromagnetism", "electromagnets", q4("Permeabilitas μᵣ Anyag-függőség?", "Permeability μᵣ material dependency?", "Permeabilítás μᵣ anyag-függőség?", "Permeabilitate μᵣ dependență material?", lang),
-      [q4("Paramagnet: μᵣ > 1 (pl. vas, nikkel), könnyűen mágnesesíthetô; diamagnet: μᵣ < 1 (pl. réz) taszít", "Paramagnetic: μᵣ > 1 (iron, nickel), easily magnetized; diamagnetic: μᵣ < 1 (copper), repel", "Paramágnes: μᵣ > 1 (vas, nikkel), könnyen mágnesesíthetô; diamágnes: μᵣ < 1 (réz), taszít", "Paramagnetic: μᵣ > 1 (fier, nichel), ușor de magnetizat; diamagnetic: μᵣ < 1 (cupru), respinge", lang)]),
+    createTyping("electromagnetism", "electromagnets", q4("Permeabilitas μᵣ Anyag-függőség?", "Permeability μᵣ material dependency?", "Permeabilitás μᵣ anyag-függőség?", "Permeabilitate μᵣ dependență material?", lang),
+      [q4("Diamagnet: μᵣ < 1 (z.B. Kupfer, Bismut) wird schwach abgestoßen; Paramagnet: μᵣ leicht > 1 (z.B. Aluminium, O₂) wird schwach angezogen; Ferromagnet: μᵣ ≫ 1 (Eisen, Nickel)", "Diamagnetic: μᵣ < 1 (e.g. copper, bismuth) weakly repelled; Paramagnetic: μᵣ slightly > 1 (e.g. aluminum, O₂) weakly attracted; Ferromagnetic: μᵣ ≫ 1 (iron, nickel)", "Diamágnes: μᵣ < 1 (réz, bizmut) gyengén taszít; Paramágnes: μᵣ kicsit > 1 (alumínium, O₂) gyengén vonz; Ferromágnes: μᵣ ≫ 1 (vas, nikkel)", "Diamagnetic: μᵣ < 1 (ex. cupru, bismut) respinge slab; Paramagnetic: μᵣ puțin > 1 (ex. aluminiu, O₂) atrage slab; Feromagnetic: μᵣ ≫ 1 (fier, nichel)", lang)]),
   ];
 }
 
@@ -193,7 +193,7 @@ function generateGeneratorsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     questions.push(createMCQ("electromagnetism", "generators",
       q4("Wechselstrom-Generator: Funktionsweise?", "AC Generator: operation?", "AC generátor: működés?", "Generator AC: funcționare?", lang),
       q4("Spule dreht sich im Magnetfeld → harmonische Flussänderung → sinusförmiger Wechselstrom induziert", "Coil rotates in magnetic field → harmonic flux change → sinusoidal AC induced", "Tekercs mágneses mezőben forog → fluxus harmonikus változása → szinuszos váltóáram", "Bobină se rotește în câmp magnetic → schimbare flux armonică → AC sinusoidal indusă", lang),
-      [q4("Metallbürste schaltet ein/aus", "Metal brush switches on/off", "Fém érintkezô be/ki kapcsol", "Perie metal comutare on/off", lang),
+      [q4("Metallbürste schaltet ein/aus", "Metal brush switches on/off", "Fém érintkező be/ki kapcsol", "Perie metal comutare on/off", lang),
        q4("Nur Gleichstrom", "Only DC", "Csak egyenáram", "Doar DC", lang),
        q4("Braucht einen Dauermagneten", "Needs permanent magnet", "Állandó mágnes kell", "Are nevoie de magnet permanent", lang)], rng));
   }

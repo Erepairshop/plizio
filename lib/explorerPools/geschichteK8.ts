@@ -168,7 +168,7 @@ const I1: IslandSpec = {
       hint2: L("Harte Bedingungen für Deutschland."),
       svg: { type: "text-bubbles", items: [{ text: "Schuld → Deutschland", color: "#fff", bg: "#3b82f6" }, { text: "Folge → Reparationen", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "tap-count", count: 1919, instruction: L("In welchem Jahr wurde der Vertrag unterzeichnet?") },
-      quiz: { question: L("Wie hieß the Friedensvertrag nach 1918?"), choices: [L("Versailler Vertrag"), L("Wiener Kongress"), L("Maastricht"), L("Westfälischer Friede")], answer: L("Versailler Vertrag") }
+      quiz: { question: L("Wie hieß der Friedensvertrag nach 1918?"), choices: [L("Versailler Vertrag"), L("Wiener Kongress"), L("Maastricht"), L("Westfälischer Friede")], answer: L("Versailler Vertrag") }
     },
     {
       id: "reparationen",
@@ -328,7 +328,7 @@ const I2: IslandSpec = {
       hint1: L("Erster Reichspräsident."),
       hint2: L("Ein Sozialdemokrat."),
       svg: { type: "word-display", word: "Präsident", color: "#1e3a8a" },
-      interactive: { type: "sentence-build", words: [L("Ebert"), L("wahr"), L("ein"), L("Mann"), L("der"), L("Mitte")], instruction: L("Wer war er?") },
+      interactive: { type: "sentence-build", words: [L("Ebert"), L("war"), L("ein"), L("Mann"), L("der"), L("Mitte")], instruction: L("Wer war er?") },
       quiz: { question: L("Welcher Partei gehörte Ebert an?"), choices: [L("SPD"), L("NSDAP"), L("Zentrum"), L("KPD")], answer: L("SPD") }
     },
     {
@@ -371,7 +371,7 @@ const I2: IslandSpec = {
       id: "dolchstosz_weimar",
       title: L("Belastung"),
       hint1: L("Rechte Propaganda gegen Demokraten."),
-      hint2: L("Novemberverbrecher' als Schimpfwort."),
+      hint2: L("'Novemberverbrecher' als Schimpfwort."),
       svg: { type: "text-bubbles", items: [{ text: "Hass", color: "#fff", bg: "#991b1b" }, { text: "Wut", color: "#fff", bg: "#dc2626" }] },
       interactive: { type: "block-drag", blocks: [{ label: L("Gegner"), items: [L("Nationalisten"), L("Monarchisten")] }] },
       quiz: { question: L("Wie nannten Feinde die Demokraten?"), choices: [L("Novemberverbrecher"), L("Helden"), L("Könige"), L("Sportler")], answer: L("Novemberverbrecher") }
@@ -423,7 +423,7 @@ const I3: IslandSpec = {
     {
       id: "ermaechtigungsgesetz",
       title: L("Ermächtigungsgesetz"),
-      hint1: L("Selbstentachtung des Parlaments."),
+      hint1: L("Selbstentmachtung des Parlaments."),
       hint2: L("Hitler konnte nun ohne Parlament Gesetze erlassen."),
       svg: { type: "text-bubbles", items: [{ text: "Gesetz → Hitler", color: "#fff", bg: "#3b82f6" }, { text: "Kontrolle → Keine", color: "#fff", bg: "#6366f1" }] },
       interactive: { type: "word-order", words: [L("Ende"), L("der"), L("Demokratie")], instruction: L("Was bedeutete das Gesetz?") },
@@ -472,7 +472,7 @@ const I3: IslandSpec = {
       hint2: L("Erziehung zu Gehorsam und Krieg."),
       svg: { type: "icon-grid", items: [{ emoji: "👦", label: "HJ" }, { emoji: "👧", label: "BDM" }] },
       interactive: { type: "gap-fill", text: L("Jugend sollte dem __ folgen."), gaps: [{ index: 0, options: [L("Führer"), L("Vater")], correct: 0 }] },
-      quiz: { question: L("Wie hieß the Organisation für Jungen?"), choices: [L("Hitlerjugend"), L("Pfadfinder"), L("Sportclub"), L("Nichts")], answer: L("Hitlerjugend") }
+      quiz: { question: L("Wie hieß die Organisation für Jungen?"), choices: [L("Hitlerjugend"), L("Pfadfinder"), L("Sportclub"), L("Nichts")], answer: L("Hitlerjugend") }
     },
     {
       id: "nuernbergergesetze",
@@ -1177,7 +1177,7 @@ const I8: IslandSpec = {
       hint1: L("Sozialismus, Nationalismus, Liberalismus."),
       hint2: L("Ideen, die die Welt bewegten."),
       svg: { type: "word-display", word: "Ideen", color: "#1e3a8a" },
-      interactive: { type: "lang-mcq", question: L("Was will the Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur")], answer: L("Freiheit") },
+      interactive: { type: "lang-mcq", question: L("Was will der Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur")], answer: L("Freiheit") },
       quiz: { question: L("Was will der Liberalismus?"), choices: [L("Freiheit"), L("Gleichschaltung"), L("Diktatur"), L("Monarchie")], answer: L("Freiheit") }
     },
     {

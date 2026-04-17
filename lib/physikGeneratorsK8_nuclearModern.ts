@@ -2,7 +2,7 @@
 // Kernphysik + Moderne Physik (Magfizika + Modern fizika) — 8. osztályos szint
 // 
 // 9 subtopic × (25-30 MCQ + 8-10 Typing) = ~270+ kérdés
-// Atomszerkezet, radioaktivitás, magreakaciók, fotonok, relativitás, E=mc²
+// Atomszerkezet, radioaktivitás, magreakciók, fotonok, relativitás, E=mc²
 
 import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
 
@@ -55,9 +55,9 @@ function generateAtomicStructureMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     questions.push(createMCQ("nuclear_modern", "atomic_structure",
       q4("Atom szerkezete (Bohr modell)?", "Atom structure (Bohr model)?", "Atom szerkezete (Bohr modell)?", "Structură atom (model Bohr)?", lang),
       q4("Központ: mag (proton + neutron); körül: elektronpályák (Bohr pályák, diszkrét energia-szintek)", "Center: nucleus (protons + neutrons); around: electron orbits (discrete energy levels)", "Központ: mag; körül: elektron pályák (diszkrét energia szintek)", "Centru: nucleu; în jurul: orbite electroni (niveluri energie discrete)", lang),
-      [q4("Csak elektronok", "Only electrons", "Csak elektronok", "Doar electroni", lang),
+       [q4("Csak elektronok", "Only electrons", "Csak elektronok", "Doar electroni", lang),
        q4("Nincs mag", "No nucleus", "Nincs mag", "Fără nucleu", lang),
-       q4("Folyamatos felhô", "Continuous cloud", "Folyamatos felhô", "Nor continuu", lang)], rng));
+       q4("Folyamatos felhő", "Continuous cloud", "Folyamatos felhő", "Nor continuu", lang)], rng));
   }
 
   for (let i = 0; i < 7; i++) {
@@ -71,7 +71,7 @@ function generateAtomicStructureMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   for (let i = 0; i < 8; i++) {
     questions.push(createMCQ("nuclear_modern", "atomic_structure",
-      q4("Maszszámzám (A) és Atomszám (Z)?", "Mass number (A) and atomic number (Z)?", "Tömegszám (A) és rendszám (Z)?", "Numărul de masă (A) și numărul atomic (Z)?", lang),
+      q4("Massenzahl (A) und Ordnungszahl (Z)?", "Mass number (A) and atomic number (Z)?", "Tömegszám (A) és rendszám (Z)?", "Numărul de masă (A) și numărul atomic (Z)?", lang),
       q4("Z = protonok száma (atomszám, sorszám); A = protonok + neutronok száma; N = neutronok = A - Z", "Z = number of protons (atomic number); A = protons + neutrons; N = neutrons = A - Z", "Z = protonok száma; A = protonok + neutronok; N = neutronok = A - Z", "Z = numărul de protoni; A = protoni + neutroni; N = neutroni = A - Z", lang),
       [q4("Fordított", "Reversed", "Fordított", "Invers", lang),
        q4("Elektronok száma", "Number of electrons", "Elektronok száma", "Numărul de electroni", lang),
@@ -81,10 +81,10 @@ function generateAtomicStructureMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   for (let i = 0; i < 7; i++) {
     questions.push(createMCQ("nuclear_modern", "atomic_structure",
       q4("Izonótópok (Isotopes)?", "Isotopes?", "Izotópok?", "Izotopi?", lang),
-      q4("Azonos Z (protonok) de különböző A (neutronok száma); olyan elemek ezek, de eltérô tömeg", "Same Z (protons) but different A (neutrons); same element, different mass", "Azonos Z de különböző A (neutronok); azonos elem, eltérô tömeg", "Aceleași Z dar diferit A (neutroni); același element, masă diferită", lang),
-      [q4("Eltérô Z, azonos A", "Different Z, same A", "Eltérô Z, azonos A", "Diferit Z, aceeași A", lang),
-       q4("Teljesen más elem", "Completely different element", "Teljesen más elem", "Element complet diferit", lang),
-       q4("Nincs neutron", "No neutron", "Nincs neutron", "Fără neutron", lang)], rng));
+      q4("Azonos Z (protonok) de különböző A (neutronok száma); azonos elem, eltérő tömeg", "Same Z (protons) but different A (neutrons); same element, different mass", "Azonos Z de különböző A (neutronok); azonos elem, eltérő tömeg", "Aceleași Z dar diferit A (neutroni); același element, masă diferită", lang),
+      [q4("Eltérő Z, azonos A", "Different Z, same A", "Eltérő Z, azonos A", "Diferit Z, aceeași A", lang),
+        q4("Teljesen más elem", "Completely different element", "Teljesen más elem", "Element complet diferit", lang),
+        q4("Nincs neutron", "No neutron", "Nincs neutron", "Fără neutron", lang)], rng));
   }
 
   return questions;
@@ -97,16 +97,16 @@ function generateAtomicStructureTyping(lang = "en", seed = 0): CurriculumTyping[
     createTyping("nuclear_modern", "atomic_structure", q4("Bohr Modell: Energia szintek?", "Bohr model: energy levels?", "Bohr modell: energia szintek?", "Model Bohr: niveluri energie?", lang),
       [q4("n=1,2,3... (K,L,M,...); E_n = -13,6 eV / n² (hidrogens); alapállapot n=1 a legstabilabb", "n=1,2,3... (K,L,M,...); E_n = -13.6 eV / n² (hydrogen); ground state n=1 most stable", "n=1,2,3... (K,L,M); E_n = -13,6 eV / n² (hidrogén); alapállapot n=1", "n=1,2,3... (K,L,M); E_n = -13,6 eV / n² (hidrogen); stare de bază n=1", lang)]),
     createTyping("nuclear_modern", "atomic_structure", q4("Proton-Neutron arány?", "Proton-neutron ratio?", "Proton-Neutron arány?", "Raport proton-neutron?", lang),
-      [q4("Könnyû atomok (H, He, C, N, O): N ≈ Z vagy kicsit nagyobb; Nehéz atomok (U): N >> Z (pl. ²³⁸U: Z=92, N=146)", "Light atoms (H, He, C): N ≈ Z; Heavy atoms (U): N >> Z", "Könnyû: N ≈ Z; Nehéz: N >> Z; pl. ²³⁸U: Z=92, N=146", "Ușoare: N ≈ Z; Grele: N >> Z; ex. ²³⁸U: Z=92, N=146", lang)]),
+      [q4("Könnyű atomok (H, He, C, N, O): N ≈ Z vagy kicsit nagyobb; Nehéz atomok (U): N >> Z (pl. ²³⁸U: Z=92, N=146)", "Light atoms (H, He, C): N ≈ Z; Heavy atoms (U): N >> Z", "Könnyű: N ≈ Z; Nehéz: N >> Z; pl. ²³⁸U: Z=92, N=146", "Ușoare: N ≈ Z; Grele: N >> Z; ex. ²³⁸U: Z=92, N=146", lang)]),
     createTyping("nuclear_modern", "atomic_structure", q4("Elektronkonfigurációs jelölés?", "Electron configuration notation?", "Elektron konfigurációs jelölés?", "Notație configurație electron?", lang),
-      [q4("1s² 2s² 2p⁶ 3s² 3p³ ... (oder [Noble gas] ... z.B. [Ne]3s²3p³ Foszfor); n=főkvantumszám, l=mellékkvantumszám", "1s² 2s² 2p⁶ 3s² ... or [noble gas] notation; n=principal, l=angular momentum", "1s² 2s² 2p⁶ 3s² ... vagy [nemes gáz] jelölés; n=főkvantumszám, l=mellékkvantumszám", "1s² 2s² 2p⁶ 3s² ... sau notație [gaz nobil]; n=principal, l=moment angular", lang)]),
+      [q4("1s² 2s² 2p⁶ 3s² 3p³ ... (oder [Edelgas] ... z.B. [Ne]3s²3p³ Phosphor); n=főkvantumszám, l=mellékkvantumszám", "1s² 2s² 2p⁶ 3s² ... or [noble gas] notation; n=principal, l=angular momentum", "1s² 2s² 2p⁶ 3s² ... vagy [nemes gáz] jelölés; n=főkvantumszám, l=mellékkvantumszám", "1s² 2s² 2p⁶ 3s² ... sau notație [gaz nobil]; n=principal, l=moment angular", lang)]),
     createTyping("nuclear_modern", "atomic_structure", q4("Radioaktív Bomlás Oka?", "Radioactivity cause?", "Radioaktív bomlás oka?", "Cauza radioactivitate?", lang),
       [q4("Instabil magok → proton/neutron arány nem optimális → energia kibocsátás (sugárzás) → stabil állapotba", "Unstable nuclei → N/Z ratio not optimal → energy release (radiation) → stable state", "Instabil magok → N/Z arány nem optimális → energia kibocsátás → stabil állapot", "Nuclee instabile → raport N/Z neoptimal → eliberare energie (radiație) → stare stabilă", lang)]),
-    createTyping("nuclear_modern", "atomic_structure", q4("Mag erôhatások (Nuclear forces)?", "Nuclear forces?", "Mageroök?", "Forțe nucleare?", lang),
-      [q4("Erôs magero (strong force): csak 1-3 fm távolságban hat, proton-neutron és p-p, n-n között; Coulomb taszítás: p-p között", "Strong force: ~1-3 fm range, p-n, p-p, n-n; Coulomb repulsion: p-p only; electromagnetic ~137 times weaker", "Erôs magero: 1-3 fm távolságban; Coulomb taszítás: csak p-p között", "Forță puternică: ~1-3 fm; respingere Coulomb: doar p-p; electromagnetic ~137× slăbior", lang)]),
+    createTyping("nuclear_modern", "atomic_structure", q4("Kernkräfte (nukleare Kräfte)?", "Nuclear forces?", "Magerők?", "Forțe nucleare?", lang),
+      [q4("Starke Kernkraft: wirkt nur auf sehr kurze Distanz (~1-3 fm) zwischen Nukleonen; Coulomb-Abstoßung zwischen Protonen", "Strong force: very short range (~1-3 fm) between nucleons; Coulomb repulsion between protons", "Erős magerő: csak ~1-3 fm távolságban hat nukleonok között; Coulomb-taszítás protonok között", "Forța tare: rază scurtă (~1-3 fm) între nucleoni; respingere Coulomb între protoni", lang)]),
     createTyping("nuclear_modern", "atomic_structure", q4("Magkötési energia (Binding energy)?", "Nuclear binding energy?", "Magkötési energia?", "Energie de legare nucleară?", lang),
       [q4("E_kötés = (Σm_proton + Σm_neutron - m_mag) × c² = tömeghiány × c²; > energia → stabilabb mag", "E_binding = (Σm_p + Σm_n - m_nucleus) × c²; greater binding = more stable nucleus", "E_kötés = (Σm_p + Σm_n - m_mag) × c²; nagyobb kötés = stabilabb", "E_legare = (Σm_p + Σm_n - m_nucleus) × c²; legare mai mare = nucleu mai stabil", lang)]),
-    createTyping("nuclear_modern", "atomic_structure", q4("Quantum Mekanika Alapok: Heisenberg?", "Quantum mechanics: Heisenberg?", "Kvantummechanika alapok: Heisenberg?", "Mecanică cuantică: Heisenberg?", lang),
+    createTyping("nuclear_modern", "atomic_structure", q4("Quantenmechanik: Heisenberg?", "Quantum mechanics: Heisenberg?", "Kvantummechanika alapok: Heisenberg?", "Mecanică cuantică: Heisenberg?", lang),
       [q4("Határozatlansági reláció: Δx × Δp ≥ ℏ/2; nem tudjuk egyszerre pontosan ismerni helyzetét és impulzusát", "Uncertainty principle: Δx × Δp ≥ ℏ/2; cannot know position and momentum simultaneously", "Δx × Δp ≥ ℏ/2; nem tudjuk egyszerre pontosan ismerni helyzetét és lendületét", "Δx × Δp ≥ ℏ/2; nu putem cunoaște simultan exact poziția și impulsul", lang)]),
   ];
 }
@@ -144,9 +144,9 @@ function generateRadioactivityMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     qs.push(createMCQ("nuclear_modern", "radioactivity",
       q4("Radioaktivitás, A törvénye?", "Radioactivity law?", "Radioaktivitás törvénye?", "Legea radioactivitate?", lang),
       q4("N(t) = N₀ × e^(-λt); λ = bomlási konstans; dN/dt = -λN (exponenciális csökkenés)", "N(t) = N₀ × e^(-λt); λ = decay constant; dN/dt = -λN", "N(t) = N₀ × e^(-λt); λ = bomlási konstans; exponenciális csökkenés", "N(t) = N₀ × e^(-λt); λ = constantă descompunere; scădere exponențial", lang),
-      [q4("Lineáris csökkenés", "Linear decrease", "Lineáris csökkenés", "Scădere liniară", lang),
-       q4("Véges idô után 0", "Zero after finite time", "Véges idô után 0", "Zero după timp finit", lang),
-       q4("Konstans N", "Constant N", "Konstans N", "N constant", lang)], rng));
+       [q4("Lineáris csökkenés", "Linear decrease", "Lineáris csökkenés", "Scădere liniară", lang),
+        q4("Véges idő után 0", "Zero after finite time", "Véges idő után 0", "Zero după timp finit", lang),
+        q4("Konstans N", "Constant N", "Konstans N", "N constant", lang)], rng));
   }
 
   return qs;
@@ -157,17 +157,17 @@ function generateRadioactivityTyping(lang = "en", seed = 0): CurriculumTyping[] 
     createTyping("nuclear_modern", "radioactivity", q4("Alfa-bomlás Egyenlete?", "Alpha decay equation?", "Alfa-bomlás egyenlete?", "Ecuație dezintegrare alfa?", lang),
       [q4("²³⁸U₉₂ → ²³⁴Th₉₀ + ⁴He₂ (vagy ⁴α); vagy általánosabban ᴬX_Z → ^(A-4)Y_(Z-2) + ⁴He₂", "²³⁸U₉₂ → ²³⁴Th₉₀ + ⁴He₂; generally ᴬX_Z → ^(A-4)Y_(Z-2) + ⁴He₂", "²³⁸U → ²³⁴Th + ⁴He; általánosabban ᴬX_Z → ^(A-4)Y_(Z-2) + ⁴He", "²³⁸U → ²³⁴Th + ⁴He; general ᴬX_Z → ^(A-4)Y_(Z-2) + ⁴He", lang)]),
     createTyping("nuclear_modern", "radioactivity", q4("Béta-bomlás Egyenlete?", "Beta decay equation?", "Béta-bomlás egyenlete?", "Ecuație dezintegrare beta?", lang),
-      [q4("¹⁴C₆ → ¹⁴N₇ + e⁻ + νe (antineutrino); vagy ᴬX_Z → ^A Y_(Z+1) + e⁻ + νe", "¹⁴C₆ → ¹⁴N₇ + e⁻ + νe; generally ᴬX_Z → ^A Y_(Z+1) + e⁻ + νe", "¹⁴C → ¹⁴N + e⁻ + νe; általánosabban ᴬX_Z → ^A Y_(Z+1) + e⁻ + νe", "¹⁴C → ¹⁴N + e⁻ + νe; general ᴬX_Z → ^A Y_(Z+1) + e⁻ + νe", lang)]),
-    createTyping("nuclear_modern", "radioactivity", q4("Felezési idô (Half-life) Képlet?", "Half-life formula?", "Felezési idô (half-life) képlet?", "Formula timp de înjumătăție?", lang),
+      [q4("¹⁴C₆ → ¹⁴N₇ + e⁻ + ν̅e (antineutrino); vagy ᴬX_Z → ^A Y_(Z+1) + e⁻ + ν̅e", "¹⁴C₆ → ¹⁴N₇ + e⁻ + ν̅e; generally ᴬX_Z → ^A Y_(Z+1) + e⁻ + ν̅e", "¹⁴C → ¹⁴N + e⁻ + ν̅e; általánosabban ᴬX_Z → ^A Y_(Z+1) + e⁻ + ν̅e", "¹⁴C → ¹⁴N + e⁻ + ν̅e; general ᴬX_Z → ^A Y_(Z+1) + e⁻ + ν̅e", lang)]),
+    createTyping("nuclear_modern", "radioactivity", q4("Felezési idő (Half-life) Képlet?", "Half-life formula?", "Felezési idő (half-life) képlet?", "Formula timp de înjumătăție?", lang),
       [q4("t_1/2 = ln(2) / λ ≈ 0,693 / λ; a maradék részecskék száma az eredeti 50%-ára csökken", "t_1/2 = ln(2) / λ ≈ 0.693 / λ; remaining amount = 50% original", "t_1/2 = ln(2) / λ ≈ 0,693 / λ; maradék 50% az eredetiből", "t_1/2 = ln(2) / λ ≈ 0,693 / λ; ramas 50% din original", lang)]),
     createTyping("nuclear_modern", "radioactivity", q4("Aktivitás (Activity)?", "Activity?", "Aktivitás?", "Activitate?", lang),
       [q4("A(t) = λ × N(t) = A₀ × e^(-λt) [Bq vagy Ci]; 1 Bq = 1 bomlás/s; 1 Ci (Curie) = 3,7×10¹⁰ Bq", "A(t) = λ × N(t) [Bq]; 1 Bq = 1 decay/s; 1 Ci = 3.7×10¹⁰ Bq", "A(t) = λ × N(t) [Bq]; 1 Bq = 1 bomlás/s; 1 Ci = 3,7×10¹⁰ Bq", "A(t) = λ × N(t) [Bq]; 1 Bq = 1 dezintegrare/s; 1 Ci = 3,7×10¹⁰ Bq", lang)]),
     createTyping("nuclear_modern", "radioactivity", q4("Rádioszénéletkor meghatározás (Carbon-14 dating)?", "Carbon-14 dating?", "Rádió-szén korhatározás?", "Datare carbon-14?", lang),
-      [q4("¹⁴C (t_1/2 = 5730 év) van minden élô szervezetben; halálkor lecsökken; így kiszámítható az életkor", "¹⁴C (t_1/2=5730 years) in all living organisms; decays after death; age = (ln(N₀/N) × t_1/2) / ln(2)", "¹⁴C van minden élô szervezetben, halálkor csökken; így kiszámítható az életkor", "¹⁴C (t_1/2=5730 ani) în toate organisme vii; scade după moarte; vârsta calculabilă", lang)]),
+      [q4("¹⁴C (t_1/2 = 5730 év) van minden élő szervezetben; halálkor lecsökken; így kiszámítható az életkor", "¹⁴C (t_1/2=5730 years) in all living organisms; decays after death; age = (ln(N₀/N) × t_1/2) / ln(2)", "¹⁴C van minden élő szervezetben, halálkor csökken; így kiszámítható az életkor", "¹⁴C (t_1/2=5730 ani) în toate organisme vii; scade după moarte; vârsta calculabilă", lang)]),
     createTyping("nuclear_modern", "radioactivity", q4("Sugárzás fajtái: α, β, γ Energiák?", "Radiation types: α, β, γ energies?", "Sugárzás fajtái: α, β, γ energiák?", "Tipuri radiație: energii α, β, γ?", lang),
       [q4("Alpha (⁴He): 4-9 MeV, sztopp: papír; Beta (e⁻): 0-3 MeV, sztopp: Al; Gamma (foton): 0,1-10 MeV, sztopp: Pb/beton", "Alpha: 4-9 MeV, stops in paper; Beta: 0-3 MeV, stops in aluminum; Gamma: 0.1-10 MeV, stops in lead", "Alpha: 4-9 MeV, papír; Beta: 0-3 MeV, alumínium; Gamma: 0,1-10 MeV, ólom/beton", "Alpha: 4-9 MeV, hârtie; Beta: 0-3 MeV, aluminiu; Gamma: 0,1-10 MeV, plumb/beton", lang)]),
     createTyping("nuclear_modern", "radioactivity", q4("Sugárvédelem (Radiation protection)?", "Radiation protection?", "Sugárvédelem?", "Protecție radiație?", lang),
-      [q4("ALARA: As Low As Reasonably Achievable; 3 szabály: Idô (csökkent expozíció), távolság (vissza a forrástól), árnyékolás (elnyel sugárzást)", "ALARA principle; 3 rules: Time (limit exposure), Distance (away from source), Shielding (absorb radiation)", "ALARA: lehető legkisebb expozíció; Idô (csökkent), távolság (vissza a forrástól), árnyékolás", "ALARA: expunere cât mai mică; Timp (redus), Distanță (departe de sursă), Ecran (absorbție)", lang)]),
+      [q4("ALARA: As Low As Reasonably Achievable; 3 szabály: Idő (csökkent expozíció), távolság (vissza a forrástól), árnyékolás (elnyel sugárzást)", "ALARA principle; 3 rules: Time (limit exposure), Distance (away from source), Shielding (absorb radiation)", "ALARA: lehető legkisebb expozíció; Idő (csökkent), távolság (vissza a forrástól), árnyékolás", "ALARA: expunere cât mai mică; Timp (redus), Distanță (departe de sursă), Ecran (absorbție)", lang)]),
   ];
 }
 
@@ -186,15 +186,15 @@ function generateNuclearReactionsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   for (let i = 0; i < 6; i++) {
     qs.push(createMCQ("nuclear_modern", "nuclear_reactions",
       q4("Magfissió (Nuclear fission)?", "Nuclear fission?", "Magfissió?", "Fisiune nucleară?", lang),
-      q4("Nehéz mag (U-235, Pu-239) felhasad két könnyû magra + 2-3 neutron + sok energia (200 MeV)", "Heavy nucleus (U-235, Pu-239) splits into 2 lighter nuclei + 2-3 neutrons + ~200 MeV", "Nehéz mag felhasad két könnyû magra + neutronok + sok energia", "Nucleu greu se desparte în 2 nuclee ușoare + neutroni + ~200 MeV", lang),
-      [q4("Könnyû magok egyesülnek", "Light nuclei fuse", "Könnyû magok egyesülnek", "Nuclee ușoare se unesc", lang),
-       q4("Gamma kibocsátás", "Gamma emission", "Gamma kibocsátás", "Emisie gama", lang),
-       q4("Nincs energia", "No energy", "Nincs energia", "Fără energie", lang)], rng));
+      q4("Nehéz mag (U-235, Pu-239) felhasad két könnyű magra + 2-3 neutron + sok energia (200 MeV)", "Heavy nucleus (U-235, Pu-239) splits into 2 lighter nuclei + 2-3 neutrons + ~200 MeV", "Nehéz mag felhasad két könnyű magra + neutronok + sok energia", "Nucleu greu se desparte în 2 nuclee ușoare + neutroni + ~200 MeV", lang),
+      [q4("Könnyű magok egyesülnek", "Light nuclei fuse", "Könnyű magok egyesülnek", "Nuclee ușoare se unesc", lang),
+        q4("Gamma kibocsátás", "Gamma emission", "Gamma kibocsátás", "Emisie gama", lang),
+        q4("Nincs energia", "No energy", "Nincs energia", "Fără energie", lang)], rng));
   }
   for (let i = 0; i < 6; i++) {
     qs.push(createMCQ("nuclear_modern", "nuclear_reactions",
       q4("Magfúzió (Nuclear fusion)?", "Nuclear fusion?", "Magfúzió?", "Fuziune nucleară?", lang),
-      q4("Két könnyû mag egyesül egy nehézebb magot képezve + neutronok + energia; D + T → ⁴He + n + 17,6 MeV", "Two light nuclei fuse into heavier nucleus + neutrons + energy; D + T → ⁴He + n + 17.6 MeV", "Két könnyû mag egyesül nagyobá + energia; D + T → ⁴He + n + 17,6 MeV", "Două nuclee ușoare se unesc în nucleu mai greu + energie; D + T → ⁴He + n", lang),
+      q4("Két könnyű mag egyesül egy nehézebb magot képezve + neutronok + energia; D + T → ⁴He + n + 17,6 MeV", "Two light nuclei fuse into heavier nucleus + neutrons + energy; D + T → ⁴He + n + 17.6 MeV", "Két könnyű mag egyesül nagyobbá + energia; D + T → ⁴He + n + 17,6 MeV", "Două nuclee ușoare se unesc în nucleu mai greu + energie; D + T → ⁴He + n", lang),
       [q4("Maghasadás", "Fission", "Maghasadás", "Fisiune", lang),
        q4("Alfa kibocsátás", "Alpha emission", "Alfa kibocsátás", "Emisie alfa", lang),
        q4("Semmi energia", "No energy", "Semmi energia", "Fără energie", lang)], rng));
@@ -210,12 +210,12 @@ function generateNuclearReactionsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   }
   for (let i = 0; i < 7; i++) {
     qs.push(createMCQ("nuclear_modern", "nuclear_reactions",
-      q4("Atomerômû: Energia termelés?", "Nuclear power plant: energy?", "Atomerômû: energia termelés?", "Centrală nucleară: energie?", lang),
-      q4("Urán-235 fissió hôt termel → gôz → turbina → elektromos generátor; ~33% hatásfok (többit hûtésbe megy)", "U-235 fission produces heat → steam → turbine → electrical generator; ~33% efficiency", "U-235 fissió hôt termel → gôz → turbina → elektromos generátor; ~33% hatásfok",
+      q4("Atomkraftwerk: Energieerzeugung?", "Nuclear power plant: energy?", "Atomerőmű: energia termelés?", "Centrală nucleară: energie?", lang),
+      q4("Urán-235 fissió hőt termel → gőz → turbina → elektromos generátor; ~33% hatásfok (többi hűtésbe megy)", "U-235 fission produces heat → steam → turbine → electrical generator; ~33% efficiency", "U-235 fissió hőt termel → gőz → turbina → elektromos generátor; ~33% hatásfok",
        "Fisiune U-235 produce căldură → aburi → turbină → generator electric; ~33% eficiență", lang),
       [q4("Hidrogén égés", "Hydrogen burning", "Hidrogén égés", "Ardere hidrogen", lang),
-       q4("Kôzégetés", "Coal burning", "Kôzégetés", "Ardere cărbune", lang),
-       q4("Napergia közvetlenül", "Solar energy direct", "Napenergia közvetlenül", "Energie solară directă", lang)], rng));
+       q4("Kohleverbrennung", "Coal burning", "Szénégetés", "Ardere cărbune", lang),
+       q4("Napenergia közvetlenül", "Solar energy direct", "Napenergia közvetlenül", "Energie solară directă", lang)], rng));
   }
 
   return qs;
@@ -229,12 +229,12 @@ function generateNuclearReactionsTyping(lang = "en", seed = 0): CurriculumTyping
       [q4("²H + ³H → ⁴He + n + 17,6 MeV; deutérium + trícium → hélium-4 + neutron + energia", "²H + ³H → ⁴He + n + 17.6 MeV; deuterium + tritium → helium-4 + neutron + energy", "²H + ³H → ⁴He + n + 17,6 MeV; deutérium + trícium → hélium + neutron", "²H + ³H → ⁴He + n + 17,6 MeV; deuteriu + tritiu → heliu-4 + neutron", lang)]),
     createTyping("nuclear_modern", "nuclear_reactions", q4("Lánc-reakció Feltételei?", "Chain reaction conditions?", "Lánc-reakció feltételei?", "Condiții reacție în lanț?", lang),
       [q4("Kritikus tömeg szükséges; k=1: stacionárius (reaktor); k>1: szuperkritikus (bomba); k<1: szubkritikus (leállás)", "Critical mass needed; k=1: steady (reactor); k>1: supercritical (bomb); k<1: subcritical (shutdown)", "Kritikus tömeg kell; k=1: stacionárius; k>1: szuperkritikus; k<1: szubkritikus", "Masă critică necesară; k=1: staționar; k>1: supercritic; k<1: subcritic", lang)]),
-    createTyping("nuclear_modern", "nuclear_reactions", q4("Atomerômû Biztonsági Rendszerei?", "Nuclear power plant safety systems?", "Atomerômû biztonsági rendszerei?", "Sisteme siguranță centrală nucleară?", lang),
-      [q4("Szabályozó rudak (kadmium/bór): neutron-elnyelés → k szabályozás; hûtôrendszer: hô elvezetés; containment: hermetikus burkolat", "Control rods (cadmium/boron): absorb neutrons → regulate k; cooling system: remove heat; containment: hermetic shell", "Szabályozó rudak: neutron-elnyelés; hûtôrendszer: hô elvezetés; containment: hermetikus burkolat", "Bare control (cadmiu/bor): absorbție neutroni; sistem răcire: evacuare căldură; containment: înveliș ermetic", lang)]),
+    createTyping("nuclear_modern", "nuclear_reactions", q4("Atomkraftwerk: Sicherheitssysteme?", "Nuclear power plant safety systems?", "Atomerőmű biztonsági rendszerei?", "Sisteme siguranță centrală nucleară?", lang),
+      [q4("Szabályozó rudak (kadmium/bór): neutron-elnyelés → k szabályozás; hűtőrendszer: hő elvezetés; containment: hermetikus burkolat", "Control rods (cadmium/boron): absorb neutrons → regulate k; cooling system: remove heat; containment: hermetic shell", "Szabályozó rudak: neutron-elnyelés; hűtőrendszer: hő elvezetés; containment: hermetikus burkolat", "Bare control (cadmiu/bor): absorbție neutroni; sistem răcire: evacuare căldură; containment: înveliș ermetic", lang)]),
     createTyping("nuclear_modern", "nuclear_reactions", q4("Maghasadás vs. Magfúzió Összehasonlítás?", "Fission vs. Fusion comparison?", "Maghasadás vs. Magfúzió összehasonlítás?", "Fisiune vs. Fuziune comparație?", lang),
-      [q4("Fissió: nehéz → könnyû magok, reaktorban, radioaktív hulladék; Fúzió: könnyû → nehezebb mag, csillagokban, kevés hulladék, de ~100 millió °C kell", "Fission: heavy → light nuclei, in reactors, radioactive waste; Fusion: light → heavier, in stars, less waste, but ~100M °C needed", "Fissió: nehéz → könnyû, reaktorban, hulladék; Fúzió: könnyû → nehezebb, csillagokban, ~100M °C kell", "Fisiune: greu → ușor, în reactoare, deșeuri; Fuziune: ușor → greu, în stele, ~100M °C necesar", lang)]),
+      [q4("Fissió: nehéz → könnyű magok, reaktorban, radioaktív hulladék; Fúzió: könnyű → nehezebb mag, csillagokban, kevés hulladék, de ~100 millió °C kell", "Fission: heavy → light nuclei, in reactors, radioactive waste; Fusion: light → heavier, in stars, less waste, but ~100M °C needed", "Fissió: nehéz → könnyű, reaktorban, hulladék; Fúzió: könnyű → nehezebb, csillagokban, ~100M °C kell", "Fisiune: greu → ușor, în reactoare, deșeuri; Fuziune: ușor → greu, în stele, ~100M °C necesar", lang)]),
     createTyping("nuclear_modern", "nuclear_reactions", q4("Nukleáris hulladék kezelése?", "Nuclear waste management?", "Nukleáris hulladék kezelése?", "Gestionare deșeuri nucleare?", lang),
-      [q4("Alacsony/közepes: betonba öntve; Magas szintû (használt üzemanyag): üvegezés + mély geológiai tároló; felezési idô akár 10⁵ év", "Low/medium: concrete encased; High-level (spent fuel): vitrification + deep geological repository; half-life up to 10⁵ years", "Alacsony: betonba; Magas: üvegezés + mély geológiai tároló; felezési idô akár 10⁵ év", "Scăzut: ciment; Înalt: vitrificare + depozit geologic adânc; timp de înjumătățire ~10⁵ ani", lang)]),
+      [q4("Alacsony/közepes: betonba öntve; Magas szintű (használt üzemanyag): üvegezés + mély geológiai tároló; felezési idő akár 10⁵ év", "Low/medium: concrete encased; High-level (spent fuel): vitrification + deep geological repository; half-life up to 10⁵ years", "Alacsony: betonba; Magas: üvegezés + mély geológiai tároló; felezési idő akár 10⁵ év", "Scăzut: ciment; Înalt: vitrificare + depozit geologic adânc; timp de înjumătățire ~10⁵ ani", lang)]),
   ];
 }
 
@@ -260,11 +260,11 @@ function generateModernPhysicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   }
   for (let i = 0; i < 5; i++) {
     qs.push(createMCQ("nuclear_modern", "modern_physics",
-      q4("Speciális relativitás: c konstans?", "Special relativity: c constant?", "Speciális relativitás: c konstans?", "Relativitate specială: c constant?", lang),
-      q4("c ≈ 3×10⁸ m/s: az osztály sebesség minden inerciarendszerben azonos; vákuumban nincs gyorsabb", "c ≈ 3×10⁸ m/s: light speed same in all frames; nothing faster in vacuum", "c ≈ 3×10⁸ m/s: a fény sebessége minden inerciarendszerben azonos; nincs gyorsabb", "c ≈ 3×10⁸ m/s: viteză lumină aceeași în toate sistemele; nimic mai rapid", lang),
-      [q4("Egyéb érték különbözô keretek", "Different values in frames", "Egyéb érték különbözzô keretek", "Alte valori în sisteme", lang),
-       q4("Nem konstans", "Not constant", "Nem konstans", "Nu e constant", lang),
-       q4("Gravitáció függõ", "Gravity dependent", "Gravitáció függô", "Dependent de gravitație", lang)], rng));
+      q4("Spezielle Relativität: c konstant?", "Special relativity: c constant?", "Speciális relativitás: c konstans?", "Relativitate specială: c constant?", lang),
+      q4("c ≈ 3×10⁸ m/s: Lichtgeschwindigkeit ist in allen Inertialsystemen gleich; nichts ist schneller im Vakuum", "c ≈ 3×10⁸ m/s: speed of light is the same in all inertial frames; nothing faster in vacuum", "c ≈ 3×10⁸ m/s: a fény sebessége minden inerciarendszerben azonos; vákuumban nincs gyorsabb", "c ≈ 3×10⁸ m/s: viteza luminii este aceeași în toate sistemele inerțiale; nimic mai rapid în vid", lang),
+      [q4("Unterschiedliche Werte in Bezugssystemen", "Different values in frames", "Eltérő érték különböző rendszerekben", "Valori diferite în sisteme", lang),
+        q4("Nem konstans", "Not constant", "Nem konstans", "Nu e constant", lang),
+        q4("Gravitáció függő", "Gravity dependent", "Gravitáció függő", "Dependent de gravitație", lang)], rng));
   }
   for (let i = 0; i < 7; i++) {
     qs.push(createMCQ("nuclear_modern", "modern_physics",
@@ -281,7 +281,7 @@ function generateModernPhysicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
 function generateModernPhysicsTyping(lang = "en", seed = 0): CurriculumTyping[] {
   return [
-    createTyping("nuclear_modern", "modern_physics", q4("Fotoeffektus külsô munka függvény?", "Photoeffect work function?", "Fotoeffektus munka-függvény?", "Efect fotoelectric funcție lucru?", lang),
+    createTyping("nuclear_modern", "modern_physics", q4("Photoeffekt: Austrittsarbeit (Work function)?", "Photoeffect work function?", "Fotoeffektus: kilépési munka (munkafüggvény)?", "Efect fotoelectric funcție lucru?", lang),
       [q4("W = munka-függvény [J]; kibocsátott elektron max kinetikus energiája: E_kin = hf - W", "W = work function [J]; max kinetic energy: E_kin = hf - W", "W = munka-függvény [J]; max kinetikus energia: E_kin = hf - W", "W = funcție lucru [J]; energie cinetică max: E_cin = hf - W", lang)]),
     createTyping("nuclear_modern", "modern_physics", q4("Relatívisztikus energia formula?", "Relativistic energy formula?", "Relativisztikus energia képlet?", "Formula energie relativistă?", lang),
       [q4("E² = (pc)² + (mc²)²; ha v<<c → E ≈ mc² + ½mv²; fotonnál m=0 → E = pc", "E² = (pc)² + (mc²)²; if v<<c → E ≈ mc² + ½mv²; photon m=0 → E = pc", "E² = (pc)² + (mc²)²; ha v<<c → E ≈ mc² + ½mv²; fotonnal E = pc", "E² = (pc)² + (mc²)²; dacă v<<c → E ≈ mc² + ½mv²; foton m=0 → E = pc", lang)]),

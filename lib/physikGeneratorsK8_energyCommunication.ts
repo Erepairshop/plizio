@@ -96,7 +96,7 @@ function generateEnergyEfficiencyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   for (let i = 0; i < 6; i++) {
     qs.push(createMCQ("energy_comm", "energy_efficiency",
-      q4("Energia Hatásfok: Definíció?", "Energy efficiency: definition?", "Energia hatásfok: definíció?", "Eficiență energie: definiție?", lang),
+      q4("Energia Hatásfok: Definíció?", "Energy efficiency: definition?", "Energia hatásfok: definíció?", "Eficiență energetică: definiție?", lang),
       q4("η = hasznos output / teljes input × 100%; magasabb = kevesebb pazarlás", "η = useful output / total input × 100%; higher = less waste", "η = hasznos kimenet / teljes bemenet × 100%; magasabb = kevesebb pazarlás", "η = ieșire utilă / intrare totală × 100%; mai mare = mai puțin risipă", lang),
       [q4("Nem definiálható", "Undefined", "Nem definiálható", "Nedefinit", lang),
        q4("Mindig 100%", "Always 100%", "Mindig 100%", "Mereu 100%", lang),
@@ -109,7 +109,7 @@ function generateEnergyEfficiencyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       q4("Legtöbb eszköz hőt termel; motor: ~35% munka, ~65% hő; LED: ~85% fény, ~15% hő", "Most devices produce heat; motors: ~35% work, ~65% heat; LED: ~85% light, ~15% heat", "Legtöbb eszköz hőt termel; motor: ~35% munka, ~65% hő; LED: ~85% fény", "Majoritatea dispozitivelor produc căldură; motor: ~35% lucru, ~65% căldură; LED: ~85% lumină", lang),
       [q4("Nincs hőleadás ideális motorban", "No heat loss ideal motor", "Nincs hőleadás", "Fără pierdere căldură", lang),
        q4("Összes munka hő", "All work is heat", "Összes munka hő", "Tot lucrul este căldură", lang),
-       q4("Nincsen hasznosítható", "Nothing useful", "Nincs hasznos", "Nimic util", lang)], rng));
+       q4("Nincs hasznosítható energia", "No usable energy", "Nincs hasznos", "Nimic util", lang)], rng));
   }
 
   for (let i = 0; i < 6; i++) {
@@ -124,7 +124,7 @@ function generateEnergyEfficiencyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   for (let i = 0; i < 7; i++) {
     qs.push(createMCQ("energy_comm", "energy_efficiency",
       q4("Termodinamika 2. törvénye: Entrópia?", "2nd Law Thermodynamics: entropy?", "Termodinamika 2. törvénye: entrópia?", "2. Legea Termodinamicii: entropie?", lang),
-      q4("Entrópia S: nem spontán csökkenhet zárt rendszerben; mindig nô vagy konstans; derfor nem lehet 100% hatékonysság", "Entropy S: never decreases spontaneously; always increases; therefore max efficiency < 100%", "Entrópia: nem csökkenhet spontán; mindig nô; ezért max hatásfok < 100%", "Entropie: nu scade spontan; mereu crește; deci eficiență max < 100%", lang),
+      q4("Entrópia S: nem spontán csökkenhet zárt rendszerben; mindig nő vagy konstans; ezért nem lehet 100% hatékonyság", "Entropy S: never decreases spontaneously; always increases; therefore max efficiency < 100%", "Entrópia: nem csökkenhet spontán; mindig nő; ezért max hatásfok < 100%", "Entropie: nu scade spontan; mereu crește; deci eficiență max < 100%", lang),
       [q4("Entrópia csökken", "Entropy decreases", "Entrópia csökken", "Entropie scade", lang),
        q4("Nincsen korlát", "No limit", "Nincsen korlát", "Fără limită", lang),
        q4("100% lehetséges", "100% possible", "100% lehetséges", "100% posibil", lang)], rng));
@@ -256,7 +256,7 @@ function generateDigitalCommunicationMCQ(lang = "en", seed = 0): CurriculumMCQ[]
     qs.push(createMCQ("energy_comm", "digital_communication",
       q4("Digitális jel vs Analóg?", "Digital signal vs analog?", "Digitális jel vs analóg?", "Semnal digital vs analog?", lang),
       q4("Digitális: diszkrét szintek (0,1), binális kód, zaj-ellenálló; Analóg: folyamatos, nagyobb zavar érzékeny", "Digital: discrete levels (0,1), binary code, noise-resistant; Analog: continuous, noise-sensitive", "Digitális: diszkrét szintek, binális, zaj-ellenálló; Analóg: folyamatos, zaj-érzékeny", "Digital: niveluri discrete (0,1), cod binar, rezistent zgomot; Analog: continuu, sensibil zgomot", lang),
-      [q4("Azonos jel", "Same signal", "Azonos jel", "Aceeași semnal", lang),
+      [q4("Azonos jel", "Same signal", "Azonos jel", "Același semnal", lang),
        q4("Analóg jobban", "Analog better", "Analóg jobban", "Analog mai bun", lang),
        q4("Nincs digitális", "No digital", "Nincs digitális", "Fără digital", lang)], rng));
   }
@@ -264,7 +264,7 @@ function generateDigitalCommunicationMCQ(lang = "en", seed = 0): CurriculumMCQ[]
   for (let i = 0; i < 5; i++) {
     qs.push(createMCQ("energy_comm", "digital_communication",
       q4("Bit vs Byte vs Kilobit?", "Bit vs byte vs kilobit?", "Bit vs byte vs kilobit?", "Bit vs byte vs kilobit?", lang),
-      q4("1 bit = 1 szimbólum (0 vagy 1); 1 byte = 8 bit; 1 kb = 1000 bit (vagy 1024 kibibit)", "1 bit = 1 symbol (0 or 1); 1 byte = 8 bits; 1 kb = 1000 bits (or 1024 KiBits)", "1 bit = 1 szimbólum; 1 byte = 8 bit; 1 kb = 1000 bit", "1 bit = 1 simbol (0 sau 1); 1 byte = 8 biți; 1 kb = 1000 biți", lang),
+      q4("1 bit = 1 szimbólum (0 vagy 1); 1 byte = 8 bit; 1 kb = 1000 bit (vagy 1024 kibibit)", "1 bit = 1 symbol (0 or 1); 1 byte = 8 bits; 1 kb = 1000 bits (or 1024 kibibits, Kibit)", "1 bit = 1 szimbólum; 1 byte = 8 bit; 1 kb = 1000 bit", "1 bit = 1 simbol (0 sau 1); 1 byte = 8 biți; 1 kb = 1000 biți", lang),
       [q4("Mindegyik ugyanaz", "All same", "Mindegyik ugyanaz", "Toate la fel", lang),
        q4("Bit nagyobb", "Bit larger", "Bit nagyobb", "Bit mai mare", lang),
        q4("Kilobit mint byte", "Kilobit like byte", "Kilobit mint byte", "Kilobit ca byte", lang)], rng));
@@ -275,7 +275,7 @@ function generateDigitalCommunicationMCQ(lang = "en", seed = 0): CurriculumMCQ[]
       q4("Bővítettség (Bandwidth) Adatátviteli Sebesség?", "Bandwidth vs data rate?", "Sávszélesség vs adatátviteli sebesség?", "Lărgime bandă vs viteză transfer date?", lang),
       q4("Sávszélesség (Hz) = max frekvencia tartomány; adatátvitel (bps) = bitek/sec; magasabb BW = magasabb vételi sebesség lehetséges", "Bandwidth (Hz) = max frequency range; data rate (bps) = bits/sec; higher BW = higher speed possible", "Sávszélesség = frekvencia tartomány; adatátvitel = bitek/sec; magasabb BW = gyorsabb",
        "Lărgime bandă (Hz) = domeniu frecvență max; viteză date (bps) = biți/sec; BW mai mare = viteză mai mare posibilă", lang),
-      [q4("Ugyanaz a dolog", "Same thing", "Ugyanaz a dolog", "Aceeași chestie", lang),
+      [q4("Ugyanaz a dolog", "Same thing", "Ugyanaz a dolog", "Același lucru", lang),
        q4("Adatátvitel nagyobb", "Data rate larger", "Adatátvitel nagyobb", "Viteză date mai mare", lang),
        q4("Sávszélesség csak", "Bandwidth only", "Sávszélesség csak", "Doar lărgime bandă", lang)], rng));
   }

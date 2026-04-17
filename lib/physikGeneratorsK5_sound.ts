@@ -542,9 +542,9 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
       subtopic,
       q4(
         `Lautstärke wird in ___ gemessen.`,
-        `Loudness is measured in ___ .`,
-        `A hangerő ___ -ben mérődik.`,
-        `Volumul se măsoară în ___ .`
+        `Loudness is measured in ___.`,
+        `A hangerő ___-ben mérődik.`,
+        `Volumul se măsoară în ___.`
       ),
       ["Dezibel", "decibels", "decibel", "decibeli"]
     )
@@ -558,7 +558,7 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
         `Eine Piccolo hat eine ___ Tonhöhe als eine Tuba.`,
         `A piccolo has a ___ pitch than a tuba.`,
         `A piccolo ___ hangmagasságú, mint a tuba.`,
-        `Un piccolo are o înălțime ___ decât un tuba.`
+        `Un piccolo are o înălțime ___ decât o tubă.`
       ),
       ["höhere", "higher", "magasabb", "mai înaltă"]
     )
@@ -572,7 +572,7 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
         `Eine größere Amplitude bedeutet eine ___ Lautstärke.`,
         `A larger amplitude means a ___ loudness.`,
         `Egy nagyobb amplitúdó ___ hangerőt jelent.`,
-        `O amplitudine mai mare înseamnă o zgomot ___ .`
+        `O amplitudine mai mare înseamnă un sunet ___.`
       ),
       ["lautere", "louder", "hangosabb", "mai puternic"]
     )
@@ -586,7 +586,7 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
         `Ein Flüstern hat etwa ___ Dezibel.`,
         `A whisper has about ___ decibels.`,
         `Egy suttogás körülbelül ___ decibel.`,
-        `Un șoapte are aproximativ ___ decibeli.`
+        `O șoaptă are aproximativ ___ decibeli.`
       ),
       ["30", "trenta", "harminc", "treizeci"]
     )
@@ -614,7 +614,7 @@ function generatePitchVolumeTyping(seed?: number): CurriculumTyping[] {
         `Die ___ einer Schallwelle bestimmt die Tonhöhe.`,
         `The ___ of a sound wave determines the pitch.`,
         `A hanghullám ___ -a határozza meg a hangmagasságot.`,
-        `___ unei unde sonore determină frecvența.`
+        `___ unei unde sonore determină înălțimea.`
       ),
       ["Frequenz", "frequency", "frekvencia", "frecvență"]
     )

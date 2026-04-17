@@ -4,7 +4,7 @@
 //
 // Generates 32-35 MCQ + 10 Typing questions per subtopic using seeded PRNG
 // Magnetic field: B measured in Tesla (T)
-// Electromagnet: F = N × I × A / (2π r)
+// Magnetic field around a long straight wire: B = μ0 × I / (2πr)
 // Faraday's law: ε = -N × dΦ/dt (voltage = rate of flux change)
 
 import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
@@ -82,9 +82,9 @@ function generateBasicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   // Template 1: Magnetic field definition (6 questions)
   for (let i = 0; i < 6; i++) {
     const property = pick([
-      q4("Magnetfeld ist Raum um Magnet mit Magnetkraft", "Magnetic field is space around magnet with force", "Mágneses tér a mágnes körüli tér mágneses erővel", "Câmp magnetic este spațiu în jurul magnetului cu forță", lang),
-      q4("Feldlinien fließen von Nord zu Südpol", "Field lines flow from North to South pole", "Erővonalak az Északi-tól a Dél-pólus felé folynak", "Liniile câmpului curg de la polul Nord la Sud", lang),
-      q4("Magnetfeld kann durch ferromagnetische Stoffe dringen", "Magnetic field can penetrate ferromagnetic materials", "Mágneses tér áthatol ferromágneses anyagokon", "Câmp magnetic poate penetra materiale feromagnetice", lang),
+      q4("Magnetfeld ist der Raum um einen Magneten, in dem magnetische Kräfte wirken", "Magnetic field is the region around a magnet where magnetic forces act", "A mágneses tér a mágnes körüli tartomány, ahol mágneses erők hatnak", "Câmpul magnetic este regiunea din jurul magnetului unde acționează forțe magnetice", lang),
+      q4("Außerhalb des Magneten verlaufen Feldlinien vom Nord- zum Südpol", "Outside the magnet, field lines go from the north pole to the south pole", "A mágnesen kívül az erővonalak az északi pólustól a déli felé haladnak", "În afara magnetului, liniile câmpului merg de la polul Nord la polul Sud", lang),
+      q4("In ferromagnetischen Stoffen wird das Magnetfeld gebündelt/verstärkt", "Magnetic fields are concentrated/strengthened in ferromagnetic materials", "Ferromágneses anyagokban a mágneses tér összegyűlik/erősebb", "În materiale feromagnetice, câmpul magnetic este concentrat/întărit", lang),
     ], rng);
 
     questions.push(
@@ -110,8 +110,8 @@ function generateBasicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
 
   // Template 2: Magnetic poles (6 questions)
   const poles = [
-    { de: "Nordpol", en: "North pole", hu: "Északi pólus", ro: "Pol Nord", attraction: "zieht Südpole an" },
-    { de: "Südpol", en: "South pole", hu: "Déli pólus", ro: "Pol Sud", attraction: "zieht Nordpole an" },
+    { de: "Nordpol", en: "North pole", hu: "Északi pólus", ro: "Pol Nord", attraction: { de: "zieht Südpole an", en: "attracts south poles", hu: "a déli pólusokat vonzza", ro: "atrage polii sud" } },
+    { de: "Südpol", en: "South pole", hu: "Déli pólus", ro: "Pol Sud", attraction: { de: "zieht Nordpole an", en: "attracts north poles", hu: "az északi pólusokat vonzza", ro: "atrage polii nord" } },
   ];
 
   for (const pole of poles) {
@@ -126,7 +126,7 @@ function generateBasicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
           `${q4(pole.de, pole.en, pole.hu, pole.ro, lang)}: Ce face?`,
           lang
         ),
-        q4(pole.attraction, pole.attraction, pole.attraction, pole.attraction, lang),
+        q4(pole.attraction.de, pole.attraction.en, pole.attraction.hu, pole.attraction.ro, lang),
         [
           q4("Stößt alle Pole ab", "Repels all poles", "Taszítja az összes pólust", "Respinge toți polii", lang),
           q4("Hat keine Kraft", "Has no force", "Nincs ereje", "Nu are putere", lang),
@@ -141,7 +141,7 @@ function generateBasicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     const magnitude = pick([
       { de: "Erdmagnetfeld", en: "Earth's magnetic field", hu: "Föld mágneses tere", ro: "Câmpul magnetic al Pământului", value: "~30-50 μT" },
       { de: "Stabmagnet", en: "Bar magnet", hu: "Rúdmágnes", ro: "Magnet de bară", value: "~1-10 mT" },
-      { de: "Starker Labormag", en: "Strong lab magnet", hu: "Erős labormágnes", ro: "Magnet lab puternic", value: "~1-5 T" },
+      { de: "Starker Labormagnet", en: "Strong lab magnet", hu: "Erős labormágnes", ro: "Magnet de laborator puternic", value: "~1-5 T" },
       { de: "MRI Scanner", en: "MRI scanner", hu: "MRI szkenner", ro: "Scanner RMN", value: "~1.5-3 T" },
     ], rng);
 
@@ -150,10 +150,10 @@ function generateBasicsMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         "magnetism",
         "basics",
         q4(
-          `${q4(magnitude.de, magnitude.en, magnitude.hu, magnitude.ro, lang)}: Feldstärke?`,
-          `${magnitude.en}: Field strength?`,
-          `${q4(magnitude.de, magnitude.en, magnitude.hu, magnitude.ro, lang)}: Térerősség?`,
-          `${q4(magnitude.de, magnitude.en, magnitude.hu, magnitude.ro, lang)}: Putere câmp?`,
+          `${q4(magnitude.de, magnitude.en, magnitude.hu, magnitude.ro, lang)}: Magnetische Flussdichte (B)?`,
+          `${magnitude.en}: Magnetic flux density (B)?`,
+          `${q4(magnitude.de, magnitude.en, magnitude.hu, magnitude.ro, lang)}: Mágneses indukció (B)?`,
+          `${q4(magnitude.de, magnitude.en, magnitude.hu, magnitude.ro, lang)}: Inducția magnetică (B)?`,
           lang
         ),
         q4(magnitude.value, magnitude.value, magnitude.value, magnitude.value, lang),

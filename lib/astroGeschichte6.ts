@@ -96,7 +96,7 @@ export const K6_ISLANDS: IslandDef[] = [
   },
   {
     id: "i7",
-    name: { en: "Late MA Crisis", hu: "Késő középkori válság", de: "Reformation", ro: "Criza Evului Mediu" },
+    name: { en: "Late MA Crisis", hu: "Késő középkori válság", de: "Krise des Spätmittelalters", ro: "Criza Evului Mediu" },
     icon: "☣️", color: "#14B8A6", sortRange: [1, 10],
     topicKeys: ["schwarzer_tod"],
     missions: [
@@ -108,7 +108,7 @@ export const K6_ISLANDS: IslandDef[] = [
   },
   {
     id: "i8",
-    name: { en: "Empir & Papacy", hu: "Császár és pápa", de: "Investiturstreit", ro: "Imperiul și Papalitatea" },
+    name: { en: "Emperor & Papacy", hu: "Császár és pápa", de: "Investiturstreit", ro: "Imperiul și Papalitatea" },
     icon: "⛪", color: "#A855F7", sortRange: [1, 10],
     topicKeys: ["investiturstreit", "barbarossa", "goldene_bulle"],
     missions: [

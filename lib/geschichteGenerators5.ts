@@ -331,7 +331,7 @@ function generateGriechenland(): CurriculumMCQ[] {
     ["Perikles", "Sokrates", "Alexander der Große"],
     rng));
   qs.push(createMCQ(T, S, "Wer durfte in der athenischen Demokratie abstimmen?",
-    "Nur männliche Bürger Athensbürger – Frauen, Sklaven und Fremde nicht",
+    "Nur männliche Bürger Athens – Frauen, Sklaven und Fremde nicht",
     ["Alle Menschen in Athen", "Nur Priester und Soldaten", "Nur Reiche und Adlige"],
     rng));
   qs.push(createMCQ(T, S, "Wer war Perikles?",
@@ -339,7 +339,7 @@ function generateGriechenland(): CurriculumMCQ[] {
     ["Ein Philosoph, der Sokrates unterrichtete", "Ein Feldherr Spartas", "Der erste König Griechenlands"],
     rng));
   qs.push(createMCQ(T, S, "Was war die 'Volksversammlung' (Ekklesia) in Athen?",
-    "Das Versammlungsort wo Bürger über Gesetze und politische Fragen abstimmten",
+    "Der Versammlungsort, an dem Bürger über Gesetze und politische Fragen abstimmten",
     ["Das Gericht, das über Verbrecher urteilte", "Die Schule für Philosophen", "Der Marktplatz für Händler"],
     rng));
 
@@ -382,7 +382,7 @@ function generateGriechenland(): CurriculumMCQ[] {
     "Einen Olivenkranz",
     ["Eine Goldmedaille", "Einen Lorbeerkranz", "Eine silberne Schale"],
     rng));
-  qs.push(createMCQ(T, S, "Was war besonderes an den Olympischen Spielen der Antike?",
+  qs.push(createMCQ(T, S, "Was war Besonderes an den Olympischen Spielen der Antike?",
     "Während der Spiele herrschte ein allgemeiner Waffenstillstand zwischen den Poleis",
     ["Frauen und Männer kämpften gemeinsam", "Nur Göttersöhne durften teilnehmen", "Die Sieger wurden König"],
     rng));
@@ -452,7 +452,7 @@ function generateGriechenland(): CurriculumMCQ[] {
     rng));
   qs.push(createMCQ(T, S, "Was sind 'Komödien' im griechischen Theater?",
     "Lustige Theaterstücke, die oft über Menschen und ihre Schwächen lachten",
-    ["Traurige Stücke über den Tod", "Religöse Zeremonien mit Musik", "Sportvorführungen im Theater"],
+    ["Traurige Stücke über den Tod", "Religiöse Zeremonien mit Musik", "Sportvorführungen im Theater"],
     rng));
   qs.push(createMCQ(T, S, "Welche Form hatte ein typisches griechisches Theater?",
     "Ein halbrunder Zuschauerraum an einem Hang mit einer Bühne unten",
@@ -510,7 +510,7 @@ const PHARAONEN = [
 const AEGYPTEN_GOETTER = [
   { name: "Ra", bereich: "Sonnengott", aussehen: "Menschenkörper mit Falkenkopf und Sonnenscheibe" },
   { name: "Osiris", bereich: "Gott der Unterwelt und des Todes", aussehen: "grünhäutige Mumie mit Krone" },
-  { name: "Isis", bereich: "Göttin der Magie und Mutterschaft", aussehen: "Frau mit Kuhgehörnter Krone" },
+  { name: "Isis", bereich: "Göttin der Magie und Mutterschaft", aussehen: "Frau mit kuhgehörnter Krone" },
   { name: "Anubis", bereich: "Gott der Totenriten", aussehen: "Menschenkörper mit Schakalkopf" },
   { name: "Horus", bereich: "Himmelsgott und Schutz des Pharaos", aussehen: "Menschenkörper mit Falkenkopf" },
 ];
@@ -1013,7 +1013,7 @@ function generateRomKaiserreich(): CurriculumMCQ[] {
     ["Kaiser Augustus", "Kaiser Nero", "Kaiser Trajan"],
     rng));
   qs.push(createMCQ(T, S, "Was ist das Mailänder Edikt (313 n. Chr.)?",
-    "Ein Erlass, der Religionsfreiheit im Reich garantierte und Christen nicht mehr verfolgt wurden",
+    "Ein Erlass, der Religionsfreiheit im Reich garantierte und die Verfolgung der Christen beendete",
     ["Ein Gesetz, das das Christentum zur Staatsreligion machte", "Ein Vertrag zwischen Rom und den Germanen", "Ein Befehl, alle heidnischen Tempel zu zerstören"],
     rng));
   qs.push(createMCQ(T, S, "Wer machte das Christentum offiziell zur Staatsreligion des Römischen Reiches?",
@@ -1038,7 +1038,7 @@ function generateRomKaiserreich(): CurriculumMCQ[] {
     "Die neue Hauptstadt des Oströmischen Reiches, gegründet von Kaiser Konstantin",
     ["Ein Legionslager an der Donau", "Eine Handelsstadt in Nordafrika", "Ein Hafen in Griechenland"],
     rng));
-  qs.push(createMCQ(T, S, "Was war eine Aquädukt?",
+  qs.push(createMCQ(T, S, "Was war ein Aquädukt?",
     "Ein Wasserleitungsbrückensystem der Römer zum Transport von frischem Wasser in die Städte",
     ["Eine Brücke für Legionen über breite Flüsse", "Ein Kanalsystem zur Entwässerung von Sümpfen", "Ein unterirdischer Speicher für Getreide"],
     rng));

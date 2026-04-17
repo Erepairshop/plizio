@@ -10,7 +10,7 @@ export function setG8GeschichteGeneratorMap(map: any) {
 export const G8_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   {
     id: "imperialismus_them",
-    name: "Imperialismus és Erster Weltkrieg",
+    name: "Imperialismus und Erster Weltkrieg",
     subtopics: [
       { id: "imperialismus", name: "Imperialismus", questions: [], hasGenerator: true },
       { id: "erster_weltkrieg_beginn", name: "Kriegsausbruch 1914", questions: [], hasGenerator: true },
@@ -36,7 +36,7 @@ export const G8_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   },
   {
     id: "holocaust_widerstand_them",
-    name: "Holocaust és Widerstand",
+    name: "Holocaust und Widerstand",
     subtopics: [
       { id: "holocaust", name: "Judenverfolgung", questions: [], hasGenerator: true },
       { id: "widerstand_ns", name: "Widerstand", questions: [], hasGenerator: true },
@@ -51,7 +51,7 @@ export const G8_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   },
   {
     id: "nachkrieg_teilung_them",
-    name: "Nachkriegszeit és Teilung",
+    name: "Nachkriegszeit und Teilung",
     subtopics: [
       { id: "nachkriegszeit", name: "Besatzung 1945-49", questions: [], hasGenerator: true },
       { id: "teilung_deutschlands", name: "BRD und DDR", questions: [], hasGenerator: true },
@@ -67,7 +67,7 @@ export const G8_GESCHICHTE_CURRICULUM: CurriculumTheme[] = [
   },
   {
     id: "wende_einheit_them",
-    name: "Mauerfall és Einheit",
+    name: "Mauerfall und Einheit",
     subtopics: [
       { id: "wiedervereinigung", name: "Wiedervereinigung", questions: [], hasGenerator: true },
     ]

@@ -649,7 +649,7 @@ export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0)
       q4("Was ist elektrischer Strom?", "What is electric current?", "Mi az elektromos áram?", "Ce este curentul electric?", lang),
       q4("Die Bewegung von Ladungsträgern (Elektronen) durch einen Leiter", "The movement of charge carriers (electrons) through a conductor", "Töltéshordozók (elektronok) mozgása egy vezetőn keresztül", "Mișcarea purtătorilor de sarcină (electroni) printr-un conductor", lang),
       [
-        q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Elektromosságot tárolo anyag", "Un material care depozitează electricitate", lang),
+        q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Elektromosságot tároló anyag", "Un material care depozitează electricitate", lang),
         q4("Eine Kraft, die Objekte anzieht", "A force that attracts objects", "Egy erő, amely tárgyakat vonz", "O forță care atrage obiecte", lang),
         q4("Ein Werkzeug zum Messen von Spannung", "A tool for measuring voltage", "Az feszültség mérésére szolgáló eszköz", "Un instrument pentru măsurarea tensiunii", lang),
       ],
@@ -732,7 +732,7 @@ export function generateCurrentVoltageMCQ(lang: string = "en", seed: number = 0)
       [
         q4("Ein Gerät, das Strom verbraucht", "A device that consumes current", "Az áramot fogyasztó eszköz", "Un dispozitiv care consumă curent", lang),
         q4("Ein Werkzeug zum Messen von Strom", "A tool for measuring current", "Az áram mérésére szolgáló eszköz", "Un instrument pentru măsurarea curentului", lang),
-        q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Az elektromosságot tárolo anyag", "Un material care depozitează electricitate", lang),
+        q4("Ein Material, das Elektrizität speichert", "A material that stores electricity", "Az elektromosságot tároló anyag", "Un material care depozitează electricitate", lang),
       ],
       rng
     ));

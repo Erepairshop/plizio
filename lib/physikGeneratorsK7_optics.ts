@@ -94,7 +94,7 @@ function generateConvexLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         ),
         q4("Nach außen gewölbt", "Bulging outward", "Kifelé domborodó", "Bombată spre exterior", lang),
         [
-          q4("Nach innen gewölbt", "Caved inward", "Befelé domborodó", "Concavă", lang),
+          q4("Nach innen gewölbt", "Curved inward", "Befelé homorodó", "Concavă", lang),
           q4("Flach", "Flat", "Lapos", "Plană", lang),
           q4("Unregelmäßig", "Irregular", "Szabálytalan", "Neregulată", lang),
         ],
@@ -105,17 +105,17 @@ function generateConvexLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
       qs.push(createMCQ(
         "optics", "lenses_convex",
         q4(
-          `Eine Sammellinse hat Brennweite f = ${f} cm. Wo entsteht ein reelles Bild?`,
-          `A converging lens has focal length f = ${f} cm. Where is a real image formed?`,
-          `Egy gyűjtőlencse gyújtótávolsága f = ${f} cm. Hol képződik valódi kép?`,
-          `O lentilă convergentă are lungimea focală f = ${f} cm. Unde se formează imaginea reală?`,
+          `Eine Sammellinse hat Brennweite f = ${f} cm. Wenn der Gegenstand zwischen f und 2f steht: Wo entsteht das reelle Bild?`,
+          `A converging lens has focal length f = ${f} cm. If the object is between f and 2f: where is the real image formed?`,
+          `Egy gyűjtőlencse gyújtótávolsága f = ${f} cm. Ha a tárgy f és 2f között van: hol képződik a valódi kép?`,
+          `O lentilă convergentă are lungimea focală f = ${f} cm. Dacă obiectul este între f și 2f: unde se formează imaginea reală?`,
           lang
         ),
-        q4("Túl a 2f pontnak", "Beyond 2f point", "A 2f pont túloldalán", "Dincolo de punctul 2f", lang),
+        q4("Jenseits von 2f", "Beyond 2f point", "A 2f pont túloldalán", "Dincolo de punctul 2f", lang),
         [
-          q4("Az f és 2f között", "Between f and 2f", "Az f és 2f között", "Între f și 2f", lang),
-          q4("Az f ponton", "At f point", "Az f pontban", "La punctul f", lang),
-          q4("Az objektív előtt", "In front of lens", "A lencse előtt", "În fața lentilei", lang),
+          q4("Zwischen f und 2f", "Between f and 2f", "Az f és 2f között", "Între f și 2f", lang),
+          q4("Am Brennpunkt f", "At f point", "Az f pontban", "La punctul f", lang),
+          q4("Vor der Linse", "In front of lens", "A lencse előtt", "În fața lentilei", lang),
         ],
         rng
       ));
@@ -223,11 +223,11 @@ function generateConcaveLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         q4(
           "Welche Linsenform ist konkav (Zerstreuungslinse)?",
           "Which lens shape is concave (diverging lens)?",
-          "Melyik lencseforma konkáv (szórólencsе)?",
+          "Melyik lencseforma konkáv (szórólencse)?",
           "Care formă de lentilă este concavă (lentilă divergentă)?",
           lang
         ),
-        q4("Nach innen gewölbt", "Caved inward", "Befelé domborodó", "Concavă spre interior", lang),
+        q4("Nach innen gewölbt", "Curved inward", "Befelé homorodó", "Concavă spre interior", lang),
         [
           q4("Nach außen gewölbt", "Bulging outward", "Kifelé domborodó", "Bombată spre exterior", lang),
           q4("Flach", "Flat", "Lapos", "Plană", lang),
@@ -241,7 +241,7 @@ function generateConcaveLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         q4(
           "Eine Zerstreuungslinse erzeugt immer welche Art von Bild?",
           "A diverging lens always produces what type of image?",
-          "Egy szórólencsе mindig milyen képet hoz létre?",
+          "Egy szórólencse mindig milyen képet hoz létre?",
           "O lentilă divergentă produce întotdeauna ce tip de imagine?",
           lang
         ),
@@ -259,7 +259,7 @@ function generateConcaveLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         q4(
           "Wie ist das Vorzeichen der Brennweite einer Zerstreuungslinse?",
           "What is the sign of focal length for a diverging lens?",
-          "Mi a szórólencsе gyújtótávolságának előjele?",
+          "Mi a szórólencse gyújtótávolságának előjele?",
           "Care este semnul lungimii focale a unei lentile divergente?",
           lang
         ),
@@ -285,7 +285,7 @@ function generateConcaveLensMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
         [
           q4("Sie verstärken die Augenmuskulatur", "They strengthen eye muscles", "Erősítik a szem izmait", "Ele întăresc mușchii ochilor", lang),
           q4("Sie heilen Astigmatismus vollständig", "They completely cure astigmatism", "Teljesen gyógyítják az astigmatizmust", "Vindecă complet astigmatismul", lang),
-          q4("Sie vergrößern die Pupillen", "They enlarge pupils", "Megverőítik a pupillákat", "Ele măresc pupilele", lang),
+          q4("Sie vergrößern die Pupillen", "They enlarge pupils", "Megnövelik a pupillákat", "Ele măresc pupilele", lang),
         ],
         rng
       ));

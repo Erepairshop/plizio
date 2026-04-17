@@ -84,44 +84,44 @@ function q4(de: string, en: string, hu: string, ro: string, lang: string): strin
 
 // ENERGIEFORMEN
 const ENERGY_FORMS = [
-  { form: "kinetic", de: "Kinetische Energie", en: "Kinetic Energy", hu: "Mozgasi energia", ro: "Energie cinetica", example: "moving car" },
-  { form: "potential", de: "Potenzielle Energie", en: "Potential Energy", hu: "Helyzeti energia", ro: "Energie potentiala", example: "object at height" },
-  { form: "thermal", de: "Warmeenergie", en: "Thermal Energy", hu: "Hoenergia", ro: "Energie termica", example: "hot water" },
-  { form: "chemical", de: "Chemische Energie", en: "Chemical Energy", hu: "Kemiai energia", ro: "Energie chimica", example: "food" },
-  { form: "electrical", de: "Elektrische Energie", en: "Electrical Energy", hu: "Elektromos energia", ro: "Energie electrica", example: "battery" },
-  { form: "light", de: "Lichtenergie", en: "Light Energy", hu: "Fenyenergia", ro: "Energie luminoasa", example: "sun" },
-  { form: "sound", de: "Schallenergie", en: "Sound Energy", hu: "Hangenergia", ro: "Energie sonora", example: "loudspeaker" },
-  { form: "nuclear", de: "Kernenergie", en: "Nuclear Energy", hu: "Atomenergia", ro: "Energie nucleara", example: "nuclear reactor" },
-  { form: "elastic", de: "Elastische Energie", en: "Elastic Energy", hu: "Rugalmassagi energia", ro: "Energie elastica", example: "stretched spring" },
+  { form: "kinetic", de: "Kinetische Energie", en: "Kinetic Energy", hu: "Mozgási energia", ro: "Energie cinetică", example: "moving car" },
+  { form: "potential", de: "Potenzielle Energie", en: "Potential Energy", hu: "Helyzeti energia", ro: "Energie potențială", example: "object at height" },
+  { form: "thermal", de: "Wärmeenergie", en: "Thermal Energy", hu: "Hőenergia", ro: "Energie termică", example: "hot water" },
+  { form: "chemical", de: "Chemische Energie", en: "Chemical Energy", hu: "Kémiai energia", ro: "Energie chimică", example: "food" },
+  { form: "electrical", de: "Elektrische Energie", en: "Electrical Energy", hu: "Elektromos energia", ro: "Energie electrică", example: "battery" },
+  { form: "light", de: "Lichtenergie", en: "Light Energy", hu: "Fényenergia", ro: "Energie luminoasă", example: "sun" },
+  { form: "sound", de: "Schallenergie", en: "Sound Energy", hu: "Hangenergia", ro: "Energie sonoră", example: "loudspeaker" },
+  { form: "nuclear", de: "Kernenergie", en: "Nuclear Energy", hu: "Atomenergia", ro: "Energie nucleară", example: "nuclear reactor" },
+  { form: "elastic", de: "Elastische Energie", en: "Elastic Energy", hu: "Rugalmassági energia", ro: "Energie elastică", example: "stretched spring" },
 ];
 
 const MOVING_OBJECTS = [
-  { object: "car", de: "Auto", en: "car", hu: "auto", ro: "masina", speed: "fast" },
-  { object: "bicycle", de: "Fahrrad", en: "bicycle", hu: "kerekpar", ro: "bicicleta", speed: "slow" },
-  { object: "truck", de: "Lastwagen", en: "truck", hu: "teherauto", ro: "camion", speed: "fast" },
-  { object: "person", de: "Person", en: "person", hu: "ember", ro: "persoana", speed: "slow" },
+  { object: "car", de: "Auto", en: "car", hu: "autó", ro: "mașină", speed: "fast" },
+  { object: "bicycle", de: "Fahrrad", en: "bicycle", hu: "kerékpár", ro: "bicicletă", speed: "slow" },
+  { object: "truck", de: "Lastwagen", en: "truck", hu: "teherautó", ro: "camion", speed: "fast" },
+  { object: "person", de: "Person", en: "person", hu: "ember", ro: "persoană", speed: "slow" },
   { object: "ball", de: "Ball", en: "ball", hu: "labda", ro: "minge", speed: "medium" },
-  { object: "bullet", de: "Kugel", en: "bullet", hu: "lovedek", ro: "glont", speed: "very fast" },
+  { object: "bullet", de: "Kugel", en: "bullet", hu: "lövedék", ro: "glonț", speed: "very fast" },
 ];
 
 const HEIGHT_OBJECTS = [
-  { object: "book", height: "shelf", de: "Buch auf einem Regal", en: "book on a shelf", hu: "konyv a polcon", ro: "carte pe raft" },
-  { object: "water", height: "dam", de: "Wasser hinter einem Damm", en: "water behind a dam", hu: "viz a gat mogott", ro: "apa in spatele unui baraj" },
-  { object: "ball", height: "cliff", de: "Ball auf einer Klippe", en: "ball on a cliff", hu: "labda a sziklafel tetején", ro: "minge pe o stanca" },
-  { object: "roller coaster", height: "top", de: "Achterbahn an der Spitze", en: "roller coaster at top", hu: "hullamvasut csucsán", ro: "roller coaster la virf" },
-  { object: "apple", height: "tree", de: "Apfel in einem Baum", en: "apple in a tree", hu: "alma a fan", ro: "mar in pom" },
-  { object: "stone", height: "bridge", de: "Stein auf einer Brucke", en: "stone on a bridge", hu: "ko a hidon", ro: "piatra pe un pod" },
+  { object: "book", height: "shelf", de: "Buch auf einem Regal", en: "book on a shelf", hu: "könyv a polcon", ro: "carte pe raft" },
+  { object: "water", height: "dam", de: "Wasser hinter einem Damm", en: "water behind a dam", hu: "víz a gát mögött", ro: "apă în spatele unui baraj" },
+  { object: "ball", height: "cliff", de: "Ball auf einer Klippe", en: "ball on a cliff", hu: "labda a sziklafal tetején", ro: "minge pe o stâncă" },
+  { object: "roller coaster", height: "top", de: "Achterbahn an der Spitze", en: "roller coaster at top", hu: "hullámvasút csúcsán", ro: "roller coaster la vârf" },
+  { object: "apple", height: "tree", de: "Apfel in einem Baum", en: "apple in a tree", hu: "alma a fán", ro: "măr în pom" },
+  { object: "stone", height: "bridge", de: "Stein auf einer Brücke", en: "stone on a bridge", hu: "kő a hídon", ro: "piatră pe un pod" },
 ];
 
 const ENERGY_CONVERSION_DEVICES = [
-  { device: "light bulb", de: "Gluhbirne", en: "light bulb", hu: "izzó", ro: "bec", input: "electrical", output: "light+heat" },
-  { device: "car engine", de: "Automotor", en: "car engine", hu: "automofor", ro: "motor de masina", input: "chemical", output: "kinetic+heat" },
-  { device: "solar panel", de: "Solarpanel", en: "solar panel", hu: "napelemek", ro: "panou solar", input: "light", output: "electrical" },
-  { device: "hydropower plant", de: "Wasserkraftwerk", en: "hydropower plant", hu: "vizierőmu", ro: "hidrocentrala", input: "potential", output: "electrical" },
-  { device: "toaster", de: "Toaster", en: "toaster", hu: "kenyerpirító", ro: "toaster", input: "electrical", output: "heat" },
+  { device: "light bulb", de: "Glühbirne", en: "light bulb", hu: "izzó", ro: "bec", input: "electrical", output: "light+heat" },
+  { device: "car engine", de: "Automotor", en: "car engine", hu: "autómotor", ro: "motor de mașină", input: "chemical", output: "kinetic+heat" },
+  { device: "solar panel", de: "Solarpanel", en: "solar panel", hu: "napelem", ro: "panou solar", input: "light", output: "electrical" },
+  { device: "hydropower plant", de: "Wasserkraftwerk", en: "hydropower plant", hu: "vízierőmű", ro: "hidrocentrală", input: "potential", output: "electrical" },
+  { device: "toaster", de: "Toaster", en: "toaster", hu: "kenyérpirító", ro: "toaster", input: "electrical", output: "heat" },
   { device: "microphone", de: "Mikrofon", en: "microphone", hu: "mikrofon", ro: "microfon", input: "sound", output: "electrical" },
-  { device: "speaker", de: "Lautsprecher", en: "speaker", hu: "hangszoró", ro: "difuzor", input: "electrical", output: "sound" },
-  { device: "wind turbine", de: "Windkraftanlage", en: "wind turbine", hu: "szélturbina", ro: "turbina eoliene", input: "kinetic", output: "electrical" },
+  { device: "speaker", de: "Lautsprecher", en: "speaker", hu: "hangszóró", ro: "difuzor", input: "electrical", output: "sound" },
+  { device: "wind turbine", de: "Windkraftanlage", en: "wind turbine", hu: "szélturbina", ro: "turbină eoliană", input: "kinetic", output: "electrical" },
 ];
 
 // --- GENERATORS ---
@@ -135,8 +135,8 @@ export function generateEnergyForms(lang: string, seed = Math.random()): Curricu
     const q = q4(
       "Welche Energieform hat ein bewegtes " + obj.de.toLowerCase() + "?",
       "What form of energy does a moving " + obj.en + " have?",
-      "Milyen energiaformaja van egy mozgo " + obj.hu + "-nak?",
-      "Ce forma de energie are un " + obj.ro + " in miscare?",
+      "Milyen energiaformája van egy mozgó " + obj.hu + "-nak?",
+      "Ce formă de energie are un " + obj.ro + " în mișcare?",
       lang
     );
     const wrongForms = shuffle(
@@ -201,7 +201,7 @@ export function generateEnergyForms(lang: string, seed = Math.random()): Curricu
     };
     const example = examples[ef.form as keyof typeof examples] || ef.example;
     const q = q4(
-      "Welches ist ein Beispiel fur " + ef.de + "?",
+      "Welches ist ein Beispiel für " + ef.de + "?",
       "Which is an example of " + ef.en + "?",
       "Melyik példa a " + ef.hu + "-ra?",
       "Care este un exemplu de " + ef.ro + "?",
@@ -233,7 +233,7 @@ export function generateEnergyForms(lang: string, seed = Math.random()): Curricu
     "Welche Energieform hat ein Schallwelle?",
     "What energy does a sound wave carry?",
     "Milyen energia van a hanghullamban?",
-    "Ce energie are o unda sonora?",
+    "Ce energie are o undă sonoră?",
     lang
   );
   const soundForm = ENERGY_FORMS.find(f => f.form === "sound");
@@ -264,64 +264,69 @@ export function generateEnergyFormsTyping(lang: string, seed = Math.random()): C
   const q1 = q4(
     "Nenne 3 verschiedene Energieformen",
     "Name 3 different forms of energy",
-    "Nevez meg 3 kulonbozo energiaformát",
-    "Numiti 3 forme diferite de energie",
+    "Nevezz meg 3 különböző energiaformát",
+    "Numiți 3 forme diferite de energie",
     lang
   );
   questions.push(createTyping("energy", "energy_forms", q1, [
     "kinetic, potential, thermal",
     "mozgasi, helyzeti, hő",
-    "kinetische, potenzielle, warme",
+    "mozgási, helyzeti, hő",
+    "kinetische, potenzielle, Wärmeenergie",
+    "cinetică, potențială, termică",
     "cinetica, potentiala, termica"
   ]));
 
   const q2 = q4(
     "Welche Energieform haben bewegte Objekte?",
     "What energy do moving objects have?",
-    "Milyen energia van a mozgo objektumoknak?",
-    "Ce energie au obiectele in miscare?",
+    "Milyen energiája van a mozgó objektumoknak?",
+    "Ce energie au obiectele în mișcare?",
     lang
   );
   questions.push(createTyping("energy", "energy_forms", q2, [
     "kinetic",
     "kinetische",
     "mozgasi",
+    "mozgási",
     "cinetica"
   ]));
 
   const q3 = q4(
     "Wie heißt die Energie in Lebensmitteln?",
     "What is the energy in food called?",
-    "Hogyan hivjak az elelmiszerekben levo energiat?",
-    "Cum se numeste energia din alimente?",
+    "Hogyan hívják az élelmiszerekben lévő energiát?",
+    "Cum se numește energia din alimente?",
     lang
   );
   questions.push(createTyping("energy", "energy_forms", q3, [
     "chemical",
     "chemische",
     "kemiai",
+    "kémiai",
     "chimica"
   ]));
 
   const q4Text = q4(
     "Nenne zwei Formen von erneuerbaren Energien",
     "Name two forms of renewable energy",
-    "Nevezz meg ket megujulo energia formát",
-    "Numiti doua forme de energie regenerabila",
+    "Nevezz meg két megújuló energiaformát",
+    "Numiți două forme de energie regenerabilă",
     lang
   );
   questions.push(createTyping("energy", "energy_forms", q4Text, [
     "light, wind",
     "solar, wind",
     "light and heat",
-    "feny es szel"
+    "feny es szel",
+    "fény és szél"
   ]));
 
   const q5Text = q4(
     "Welche Energieform ist in einer Batterie gespeichert?",
     "What energy is stored in a battery?",
-    "Milyen energia van eltarolva egy elemben?",
-    "Ce energia este stocata intr-o baterie?",
+    "Milyen energia van eltárolva egy elemben?",
+    "Ce energie este stocată într-o baterie?",
     lang
   );
   questions.push(createTyping("energy", "energy_forms", q5Text, [
@@ -340,10 +345,10 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
 
   // Template 1: "Which has more kinetic energy?"
   const comparisons = [
-    { a: "truck", b: "bicycle", answer: "truck", de_a: "Lastwagen", de_b: "Fahrrad", hu_a: "teherauto", hu_b: "kerekpar", ro_a: "camion", ro_b: "bicicleta" },
-    { a: "bullet", b: "ball", answer: "bullet", de_a: "Kugel", de_b: "Ball", hu_a: "lovedek", hu_b: "labda", ro_a: "glont", ro_b: "minge" },
-    { a: "fast car", b: "slow car", answer: "fast car", de_a: "schnelles Auto", de_b: "langsames Auto", hu_a: "gyors auto", hu_b: "lassu auto", ro_a: "masina rapida", ro_b: "masina lenta" },
-    { a: "heavy truck", b: "light car", answer: "heavy truck", de_a: "schwerer Lastwagen", de_b: "leichtes Auto", hu_a: "nehez teherauto", hu_b: "konnyü auto", ro_a: "camion greu", ro_b: "masina usoara" },
+    { a: "truck", b: "bicycle", answer: "truck", de_a: "Lastwagen", de_b: "Fahrrad", hu_a: "teherautó", hu_b: "kerékpár", ro_a: "camion", ro_b: "bicicletă" },
+    { a: "bullet", b: "ball", answer: "bullet", de_a: "Kugel", de_b: "Ball", hu_a: "lövedék", hu_b: "labda", ro_a: "glonț", ro_b: "minge" },
+    { a: "fast car", b: "slow car", answer: "fast car", de_a: "schnelles Auto", de_b: "langsames Auto", hu_a: "gyors autó", hu_b: "lassú autó", ro_a: "mașină rapidă", ro_b: "mașină lentă" },
+    { a: "heavy truck", b: "light car", answer: "heavy truck", de_a: "schwerer Lastwagen", de_b: "leichtes Auto", hu_a: "nehéz teherautó", hu_b: "könnyű autó", ro_a: "camion greu", ro_b: "mașină ușoară" },
   ];
 
   for (const comp of comparisons) {
@@ -351,7 +356,7 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
       "Welches hat mehr kinetische Energie: " + comp.de_a + " oder " + comp.de_b + "?",
       "Which has more kinetic energy: " + comp.a + " or " + comp.b + "?",
       "Melyiknek van több mozgási energiája: " + comp.hu_a + " vagy " + comp.hu_b + "?",
-      "Care are mai multa energie cinetica: " + comp.ro_a + " sau " + comp.ro_b + "?",
+      "Care are mai multă energie cinetică: " + comp.ro_a + " sau " + comp.ro_b + "?",
       lang
     );
     const wrong = comp.answer === "truck" ? "bicycle" : comp.answer === "bullet" ? "ball" : comp.b;
@@ -359,38 +364,38 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
   }
 
   // Template 2: "What happens to KE when speed doubles?"
-  const q_speed = q4(
-    "Was passiert mit der kinetischen Energie, wenn sich die Geschwindigkeit verdoppelt?",
-    "What happens to KE when speed doubles?",
-    "Mi tortenik a mozgasi energiával, ha a sebesség megduplazodik?",
-    "Ce se intampl cu energia cinetica cand viteza se dubleaza?",
-    lang
-  );
+    const q_speed = q4(
+      "Was passiert mit der kinetischen Energie, wenn sich die Geschwindigkeit verdoppelt?",
+      "What happens to KE when speed doubles?",
+      "Mi történik a mozgási energiával, ha a sebesség megduplázódik?",
+      "Ce se întâmplă cu energia cinetică când viteza se dublează?",
+      lang
+    );
   questions.push(createMCQ("energy", "kinetic_energy", q_speed, "It increases by 4 times", ["It increases by 2 times", "It stays the same", "It decreases"], rng));
 
   // Template 3: "KE depends on..."
-  const q_depends = q4(
-    "Die kinetische Energie hängt von ab...",
-    "Kinetic energy depends on...",
-    "A mozgasi energia függ...",
-    "Energia cinetica depinde de...",
-    lang
-  );
+    const q_depends = q4(
+      "Die kinetische Energie hängt von ab...",
+      "Kinetic energy depends on...",
+      "A mozgási energia függ...",
+      "Energia cinetică depinde de...",
+      lang
+    );
   questions.push(createMCQ("energy", "kinetic_energy", q_depends, "mass and velocity", ["only mass", "only velocity", "only temperature"], rng));
 
   // Template 4: Practical examples with KE
   const practicalKE = [
-    { scenario: "car crash", de: "Autounfall", en: "car crash", hu: "autobaleset", ro: "accident de masina", reason: "high velocity" },
-    { scenario: "falling object", de: "fallender Gegenstand", en: "falling object", hu: "eso targy", ro: "obiect cazand", reason: "acceleration" },
-    { scenario: "thrown ball", de: "geworfener Ball", en: "thrown ball", hu: "dobott labda", ro: "minge aruncata", reason: "force and velocity" },
+    { scenario: "car crash", de: "Autounfall", en: "car crash", hu: "autóbaleset", ro: "accident de mașină", reason: "high velocity" },
+    { scenario: "falling object", de: "fallender Gegenstand", en: "falling object", hu: "leeső tárgy", ro: "obiect căzând", reason: "acceleration" },
+    { scenario: "thrown ball", de: "geworfener Ball", en: "thrown ball", hu: "dobott labda", ro: "minge aruncată", reason: "force and velocity" },
   ];
 
   for (const pKE of practicalKE) {
     const q = q4(
       pKE.de + " hat viel kinetische Energie wegen...",
       "A " + pKE.scenario + " has a lot of kinetic energy because...",
-      "Egy " + pKE.hu + " sok mozgasi energiával rendelkezik, mert...",
-      "Un " + pKE.ro + " are multa energie cinetica din cauza...",
+      "Egy " + pKE.hu + " sok mozgási energiával rendelkezik, mert...",
+      "Un " + pKE.ro + " are multă energie cinetică din cauza...",
       lang
     );
     questions.push(createMCQ("energy", "kinetic_energy", q, pKE.reason, ["lack of force", "low mass", "stationary position"], rng));
@@ -400,8 +405,8 @@ export function generateKineticEnergy(lang: string, seed = Math.random()): Curri
   const q_stop = q4(
     "Ein Auto mit hoherer Geschwindigkeit braucht zum Bremsen...",
     "A car with higher speed needs to brake...",
-    "Egy nagyobb sebessegu auto fezéshez szükséges...",
-    "O masina cu viteza mai mare are nevoie de franare...",
+    "Egy nagyobb sebességű autó fékezéshez szükséges...",
+    "O mașină cu viteză mai mare are nevoie de frânare...",
     lang
   );
   questions.push(createMCQ("energy", "kinetic_energy", q_stop, "a longer distance", ["a shorter distance", "the same distance", "no distance"], rng));
@@ -445,22 +450,22 @@ export function generateKineticEnergyTyping(lang: string, seed = Math.random()):
   const q1 = q4(
     "Kinetische Energie hängt von ___ und ___ ab",
     "Kinetic energy depends on ___ and ___",
-    "A mozgasi energia függ ___ és ___ függvénye",
-    "Energia cinetica depinde de ___ și ___",
+    "A mozgási energia ___ és ___ függvénye",
+    "Energia cinetică depinde de ___ și ___",
     lang
   );
   questions.push(createTyping("energy", "kinetic_energy", q1, [
     "mass and velocity",
     "Masse und Geschwindigkeit",
-    "tomeg és sebesség",
+    "tömeg és sebesség",
     "masa și viteza"
   ]));
 
   const q2 = q4(
-    "Die Formel fur kinetische Energie ist: KE = ___",
+    "Die Formel für kinetische Energie ist: KE = ___",
     "The formula for kinetic energy is: KE = ___",
-    "A mozgasi energia képlete: KE = ___",
-    "Formula pentru energia cinetica este: KE = ___",
+    "A mozgási energia képlete: KE = ___",
+    "Formula pentru energia cinetică este: KE = ___",
     lang
   );
   questions.push(createTyping("energy", "kinetic_energy", q2, [
@@ -471,8 +476,8 @@ export function generateKineticEnergyTyping(lang: string, seed = Math.random()):
   const q3 = q4(
     "Wenn die Geschwindigkeit verdoppelt wird, vervielfacht sich die KE um ___",
     "When speed is doubled, KE increases by ___",
-    "Ha a sebesség megduplazodik, a KE ___ -szeresére no",
-    "Cand viteza se dubleaza, KE creste de ___ ori",
+    "Ha a sebesség megduplázódik, a KE ___-szeresére nő",
+    "Când viteza se dublează, KE crește de ___ ori",
     lang
   );
   questions.push(createTyping("energy", "kinetic_energy", q3, [
@@ -483,8 +488,8 @@ export function generateKineticEnergyTyping(lang: string, seed = Math.random()):
   const q4Text = q4(
     "Ein Objekt in Bewegung hat ___ Energie",
     "An object in motion has ___ energy",
-    "A mozgásban levo objektum ___ energiával rendelkezik",
-    "Un obiect in miscare are energie ___",
+    "A mozgásban lévő objektum ___ energiával rendelkezik",
+    "Un obiect în mișcare are energie ___",
     lang
   );
   questions.push(createTyping("energy", "kinetic_energy", q4Text, [
@@ -495,16 +500,18 @@ export function generateKineticEnergyTyping(lang: string, seed = Math.random()):
   ]));
 
   const q5Text = q4(
-    "Nenne zwei Beispiele fur Objekte mit hoher kinetischer Energie",
+    "Nenne zwei Beispiele für Objekte mit hoher kinetischer Energie",
     "Name two examples of objects with high kinetic energy",
-    "Nevezz meg ket példát magas mozgasi energiáju objektumokra",
-    "Numiti doua exemple de obiecte cu energie cinetica mare",
+    "Nevezz meg két példát magas mozgási energiájú objektumokra",
+    "Numiți două exemple de obiecte cu energie cinetică mare",
     lang
   );
   questions.push(createTyping("energy", "kinetic_energy", q5Text, [
     "fast car, bullet",
     "schnelles Auto, Kugel",
+    "gyors autó, lövedék",
     "gyors auto, lovedek",
+    "mașină rapidă, glonț",
     "masina rapida, glont"
   ]));
 
@@ -519,7 +526,7 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
   const peLocations = [
     { object: "ball", low: "on ground", mid: "on table", high: "on shelf", de_high: "auf Regal", hu_high: "a polcon", ro_high: "pe raft" },
     { object: "water", low: "in pool", mid: "in pipe", high: "in tower", de_high: "im Turm", hu_high: "a toronyban", ro_high: "în turn" },
-    { object: "roller coaster", low: "at bottom", mid: "halfway", high: "at top", de_high: "an der Spitze", hu_high: "csucsán", ro_high: "la virf" },
+    { object: "roller coaster", low: "at bottom", mid: "halfway", high: "at top", de_high: "an der Spitze", hu_high: "csúcsán", ro_high: "la vârf" },
   ];
 
   for (const loc of peLocations) {
@@ -527,7 +534,7 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
       "Wo hat ein " + loc.object.toLowerCase() + " die meiste potenzielle Energie?",
       "Where does a " + loc.object + " have the most potential energy?",
       "Hol van egy " + loc.object + "-nak a legtöbb helyzeti energiája?",
-      "Unde are un " + loc.object + " cea mai multa energie potentiala?",
+      "Unde are un " + loc.object + " cea mai multă energie potențială?",
       lang
     );
     questions.push(createMCQ("energy", "potential_energy", q, loc.high, [loc.low, loc.mid, "nowhere"], rng));
@@ -535,9 +542,9 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
 
   // Template 2: "What type of PE does X have?"
   const peTypes = [
-    { object: "water behind dam", de: "Wasser hinter Damm", en: "water behind dam", hu: "vizz a gat mogott", ro: "apa in spatele barajului", type: "gravitational PE" },
-    { object: "stretched spring", de: "gedehnte Feder", en: "stretched spring", hu: "kifeszitett rugo", ro: "arc intins", type: "elastic PE" },
-    { object: "ball on cliff", de: "Ball auf Klippe", en: "ball on cliff", hu: "labda a sziklan", ro: "minge pe stanca", type: "gravitational PE" },
+    { object: "water behind dam", de: "Wasser hinter Damm", en: "water behind dam", hu: "víz a gát mögött", ro: "apă în spatele barajului", type: "gravitational PE" },
+    { object: "stretched spring", de: "gedehnte Feder", en: "stretched spring", hu: "kifeszített rugó", ro: "arc întins", type: "elastic PE" },
+    { object: "ball on cliff", de: "Ball auf Klippe", en: "ball on cliff", hu: "labda a sziklán", ro: "minge pe stâncă", type: "gravitational PE" },
   ];
 
   for (const pType of peTypes) {
@@ -545,7 +552,7 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
       "Welche Art von potenzieller Energie hat " + pType.de + "?",
       "What type of PE does " + pType.en + " have?",
       "Milyen típusú helyzeti energiája van a " + pType.hu + "-nak?",
-      "Ce tip de energie potentiala are " + pType.ro + "?",
+      "Ce tip de energie potențială are " + pType.ro + "?",
       lang
     );
     questions.push(createMCQ("energy", "potential_energy", q, pType.type, ["kinetic", "thermal", "sound"], rng));
@@ -555,8 +562,8 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
   const q_grav = q4(
     "Gravitations-PE hängt von ab...",
     "Gravitational PE depends on...",
-    "A gravitacios PE függ...",
-    "PE gravitationala depinde de...",
+    "A gravitációs PE függ...",
+    "PE gravitațională depinde de...",
     lang
   );
   questions.push(createMCQ("energy", "potential_energy", q_grav, "mass and height", ["only height", "only mass", "velocity"], rng));
@@ -566,7 +573,7 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
     "Wenn ein Objekt fallt, wandelt sich PE in... um",
     "When an object falls, PE converts to...",
     "Amikor egy objektum esik, a PE átváltozik...",
-    "Cand un obiect cade, PE se converteste in...",
+    "Când un obiect cade, PE se convertește în...",
     lang
   );
   questions.push(createMCQ("energy", "potential_energy", q_conv, "kinetic energy", ["heat energy", "sound energy", "chemical energy"], rng));
@@ -575,8 +582,8 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
   const q_height = q4(
     "Eine Person auf einem Stuhl hat mehr PE als eine Person auf dem Boden?",
     "Does a person on a chair have more PE than on the ground?",
-    "Van-e több PE-je egy szemely a szék tetején, mint a föld szintjén?",
-    "Are o persoana mai multa PE pe o scaun decat pe pamant?",
+    "Van-e több PE-je egy személynek egy széken, mint a földön?",
+    "Are o persoană mai multă PE pe un scaun decât pe pământ?",
     lang
   );
   questions.push(createMCQ("energy", "potential_energy", q_height, "Yes", ["No", "Same amount", "Cannot determine"], rng));
@@ -586,7 +593,7 @@ export function generatePotentialEnergy(lang: string, seed = Math.random()): Cur
     "Ein schwereres Objekt in der gleichen Höhe hat... PE als ein leichteres",
     "A heavier object at the same height has... PE than a lighter one",
     "Egy nehezebb objektumnak több PE-je van, mint egy könnyebbnek azonos magasságban?",
-    "Un obiect mai greu la aceasi inăltime are mai... PE decat unul mai usoara?",
+    "Un obiect mai greu la aceeași înălțime are mai... PE decât unul mai ușor?",
     lang
   );
   questions.push(createMCQ("energy", "potential_energy", q_mass, "more", ["less", "same", "no"], rng));
@@ -611,8 +618,8 @@ export function generatePotentialEnergyTyping(lang: string, seed = Math.random()
   const q1 = q4(
     "Was verleiht einem Objekt gravitationale PE?",
     "What gives an object gravitational potential energy?",
-    "Mi ad helyzeti energiat egy objektumnak?",
-    "Ce da unei carari energie potentiala gravitationala?",
+    "Mi ad helyzeti energiát egy objektumnak?",
+    "Ce dă unui obiect energie potențială gravitațională?",
     lang
   );
   questions.push(createTyping("energy", "potential_energy", q1, [
@@ -621,10 +628,10 @@ export function generatePotentialEnergyTyping(lang: string, seed = Math.random()
   ]));
 
   const q2 = q4(
-    "Die Formel fur gravitationale PE ist: PE = ___",
+    "Die Formel für gravitationale PE ist: PE = ___",
     "The formula for gravitational PE is: PE = ___",
-    "A gravitacios PE képlete: PE = ___",
-    "Formula pentru PE gravitationala este: PE = ___",
+    "A gravitációs PE képlete: PE = ___",
+    "Formula pentru PE gravitațională este: PE = ___",
     lang
   );
   questions.push(createTyping("energy", "potential_energy", q2, [
@@ -635,22 +642,23 @@ export function generatePotentialEnergyTyping(lang: string, seed = Math.random()
   const q3 = q4(
     "Eine Feder mit ___ Energie ist zusammengepresst oder gedehnt",
     "A spring with ___ energy is compressed or stretched",
-    "Egy rugo ___ energiával össze van nyomva vagy kinyújtva",
-    "Un arc cu energie ___ este comprimat sau intins",
+    "Egy rugó ___ energiával össze van nyomva vagy kinyújtva",
+    "Un arc cu energie ___ este comprimat sau întins",
     lang
   );
   questions.push(createTyping("energy", "potential_energy", q3, [
     "elastic",
     "elastische",
     "rugalmassagi",
+    "rugalmassági",
     "elastica"
   ]));
 
   const q4Text = q4(
     "Wenn ein Stein von einer Klippe fallt, hat er oben die meiste ___",
     "When a stone falls from a cliff, it has the most ___ at the top",
-    "Amikor egy ko lehullik a sziklairول, a legtöbb ___ van a tetején",
-    "Cand o piatra cade de pe o stanca, are cea mai multa ___ la virf",
+    "Amikor egy kő lehullik a szikláról, a legtöbb ___ van a tetején",
+    "Când o piatră cade de pe o stâncă, are cea mai multă ___ la vârf",
     lang
   );
   questions.push(createTyping("energy", "potential_energy", q4Text, [
@@ -659,17 +667,19 @@ export function generatePotentialEnergyTyping(lang: string, seed = Math.random()
   ]));
 
   const q5Text = q4(
-    "Nenne zwei Beispiele fur Objekte mit PE",
+    "Nenne zwei Beispiele für Objekte mit PE",
     "Name two examples of objects with PE",
-    "Nevezz meg ket példát PE-vel rendelkezo objektumokra",
-    "Numiti doua exemple de obiecte cu PE",
+    "Nevezz meg két példát PE-vel rendelkező objektumokra",
+    "Numiți două exemple de obiecte cu PE",
     lang
   );
   questions.push(createTyping("energy", "potential_energy", q5Text, [
     "book on shelf, water in tower",
     "Buch auf Regal, Wasser im Turm",
     "konyv a polcon, viz a toronyban",
-    "carte pe raft, apa în turn"
+    "könyv a polcon, víz a toronyban",
+    "carte pe raft, apa în turn",
+    "carte pe raft, apă în turn"
   ]));
 
   return shuffle(questions, rng).slice(0, 10);
@@ -697,8 +707,8 @@ export function generateEnergyConversion(lang: string, seed = Math.random()): Cu
   const q_toaster = q4(
     "Ein Toaster wandelt ___ zu ___ um",
     "A toaster converts ___ to ___",
-    "Egy kenyerpirító ___ -t ___ -vá alakít",
-    "Un toaster converteste ___ in ___",
+    "Egy kenyérpirító ___-t ___-vá alakít",
+    "Un toaster convertește ___ în ___",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_toaster, "electrical to heat", ["light to heat", "heat to electrical", "chemical to electrical"], rng));
@@ -707,18 +717,18 @@ export function generateEnergyConversion(lang: string, seed = Math.random()): Cu
   const q_solar = q4(
     "Ein Solarpanel wandelt Licht zu... um",
     "A solar panel converts light to...",
-    "Egy napelem fenyt alakit at...",
-    "Un panou solar converteste lumina in...",
+    "Egy napelem fényt alakít át...",
+    "Un panou solar convertește lumina în...",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_solar, "electrical energy", ["heat", "sound", "chemical"], rng));
 
   // Template 4: Wind turbine
   const q_wind = q4(
-    "Eine Windkraftanlage wandelt ___ in Elektrizitat um",
+    "Eine Windkraftanlage wandelt ___ in Elektrizität um",
     "A wind turbine converts ___ to electricity",
-    "Egy szélturbina ___ -t alakit aramot",
-    "O turbina eoliene converteste ___ in electricitate",
+    "Egy szélturbina ___-t alakít árammá",
+    "O turbină eoliană convertește ___ în electricitate",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_wind, "kinetic energy", ["heat", "light", "sound"], rng));
@@ -727,8 +737,8 @@ export function generateEnergyConversion(lang: string, seed = Math.random()): Cu
   const q_car = q4(
     "Ein Automotor wandelt chemische Energie um... in",
     "A car engine converts chemical energy to...",
-    "Egy automofor kemiai energiat alakit at...",
-    "Un motor de masina converteste energia chimica in...",
+    "Egy autómotor kémiai energiát alakít át...",
+    "Un motor de mașină convertește energia chimică în...",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_car, "kinetic energy and heat", ["light and sound", "electrical energy", "potential energy"], rng));
@@ -737,18 +747,18 @@ export function generateEnergyConversion(lang: string, seed = Math.random()): Cu
   const q_hydro = q4(
     "Eine Wasserkraftanlage wandelt potenzielle Energie um... in",
     "A hydropower plant converts potential energy to...",
-    "Egy vizieromü helyzeti energiat alakit at...",
-    "O hidrocentrala converteste energia potentiala in...",
+    "Egy vízierőmű helyzeti energiát alakít át...",
+    "O hidrocentrală convertește energia potențială în...",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_hydro, "electrical energy", ["heat", "sound", "light"], rng));
 
   // Template 7: Light bulb
   const q_bulb = q4(
-    "Eine Gluhbirne wandelt... zu Licht um",
+    "Eine Glühbirne wandelt... zu Licht um",
     "A light bulb converts... to light",
-    "Egy izzó... -t alakit vilagosságta",
-    "Un bec converteste... in lumina",
+    "Egy izzó ...-t alakít fénnyé",
+    "Un bec convertește... în lumină",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_bulb, "electrical energy", ["heat", "kinetic", "chemical"], rng));
@@ -758,7 +768,7 @@ export function generateEnergyConversion(lang: string, seed = Math.random()): Cu
     "Ein Mikrofon wandelt Schallenergie um... in",
     "A microphone converts sound energy to...",
     "Egy mikrofon hangenergiát alakít at...",
-    "Un microfon converteste energia sonora in...",
+    "Un microfon convertește energia sonoră în...",
     lang
   );
   questions.push(createMCQ("energy", "energy_conversion", q_mic, "electrical energy", ["heat", "light", "kinetic"], rng));
@@ -783,8 +793,8 @@ export function generateEnergyConversionTyping(lang: string, seed = Math.random(
   const q1 = q4(
     "Ein Solarpanel wandelt ___ Energie zu ___ Energie um",
     "A solar panel converts ___ energy to ___ energy",
-    "Egy napelem ___ energiát alakit at ___ energiává",
-    "Un panou solar converteste energia ___ in energia ___",
+    "Egy napelem ___ energiát alakít át ___ energiává",
+    "Un panou solar convertește energia ___ în energia ___",
     lang
   );
   questions.push(createTyping("energy", "energy_conversion", q1, [
@@ -795,8 +805,8 @@ export function generateEnergyConversionTyping(lang: string, seed = Math.random(
   const q2 = q4(
     "Ein Automotor wandelt... Energie zu Bewegung um",
     "A car engine converts... energy to motion",
-    "Egy automofor... energiat alakit mozgássá",
-    "Un motor de masina converteste... energia in miscare",
+    "Egy autómotor ... energiát alakít mozgássá",
+    "Un motor de mașină convertește... energia în mișcare",
     lang
   );
   questions.push(createTyping("energy", "energy_conversion", q2, [
@@ -805,10 +815,10 @@ export function generateEnergyConversionTyping(lang: string, seed = Math.random(
   ]));
 
   const q3 = q4(
-    "Ein Stromgenerator wandelt... Energie zu Elektrizitat um",
+    "Ein Stromgenerator wandelt... Energie zu Elektrizität um",
     "A generator converts... energy to electricity",
-    "Egy generátor... energiat alakit aramta",
-    "Un generator converteste... energia in electricitate",
+    "Egy generátor ... energiát alakít árammá",
+    "Un generator convertește... energia în electricitate",
     lang
   );
   questions.push(createTyping("energy", "energy_conversion", q3, [
@@ -819,8 +829,8 @@ export function generateEnergyConversionTyping(lang: string, seed = Math.random(
   const q4Text = q4(
     "Ein Toaster wandelt... Energie zu Hitze um",
     "A toaster converts... energy to heat",
-    "Egy kenyerpirító... energiat alakit höve",
-    "Un toaster converteste... energia in caldura",
+    "Egy kenyérpirító ... energiát alakít hővé",
+    "Un toaster convertește... energia în căldură",
     lang
   );
   questions.push(createTyping("energy", "energy_conversion", q4Text, [
@@ -829,15 +839,15 @@ export function generateEnergyConversionTyping(lang: string, seed = Math.random(
   ]));
 
   const q5Text = q4(
-    "Nenne ein Beispiel fur eine Energieumwandlung im Alltag",
+    "Nenne ein Beispiel für eine Energieumwandlung im Alltag",
     "Name one example of energy conversion in daily life",
-    "Nevezz meg egy energiaatalakitási példát a mindennapi életből",
-    "Numiti un exemplu de conversie energetica in viata de zi cu zi",
+    "Nevezz meg egy energiaátalakítási példát a mindennapi életből",
+    "Numiți un exemplu de conversie energetică în viața de zi cu zi",
     lang
   );
   questions.push(createTyping("energy", "energy_conversion", q5Text, [
     "light bulb converts electrical to light",
-    "Gluhbirne konvertiert Strom zu Licht"
+    "Glühbirne konvertiert Strom zu Licht"
   ]));
 
   return shuffle(questions, rng).slice(0, 10);
@@ -882,7 +892,7 @@ export function generateEnergyConservation(lang: string, seed = Math.random()): 
     "In einem Pendel wandelt sich PE um... in KE",
     "In a pendulum, PE converts to...",
     "Egy ingaban a PE átváltozik... KE-vé",
-    "Intr-un pendul, PE se converteste in...",
+    "Într-un pendul, PE se convertește în...",
     lang
   );
   questions.push(createMCQ("energy", "energy_conservation", q_pend, "kinetic energy", ["potential energy", "heat", "light"], rng));
@@ -892,7 +902,7 @@ export function generateEnergyConservation(lang: string, seed = Math.random()): 
     "Auf einer Achterbahn wird die maximale PE oben in maximale KE unten umgewandelt",
     "On a roller coaster, maximum PE at top converts to maximum KE at bottom",
     "Egy hullamvasúton a max PE fent max KE-vé változik lent",
-    "Pe o roller coaster, max PE la virf se converteste la max KE la bază",
+    "Pe un roller coaster, max PE la vârf se convertește la max KE la bază",
     lang
   );
   questions.push(createMCQ("energy", "energy_conservation", q_roller, "True", ["False", "Sometimes", "Depends on mass"], rng));
@@ -984,7 +994,7 @@ export function generateEnergyConservationTyping(lang: string, seed = Math.rando
     "Nenne die Energieform eines fallenden Objektes an der Spitze und unten",
     "Name the energy forms of a falling object at top and bottom",
     "Nevezd meg a leesett objektum energiaformáit a tetején és alul",
-    "Numiti formele de energie ale unui obiect cazand la virf și jos",
+    "Numiți formele de energie ale unui obiect căzând la vârf și jos",
     lang
   );
   questions.push(createTyping("energy", "energy_conservation", q4Text, [

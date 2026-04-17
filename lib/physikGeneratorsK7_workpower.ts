@@ -88,7 +88,7 @@ function generateWorkMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
   for (let i = 0; i < 7; i++) {
     questions.push(createMCQ("work_power", "work", q4("Positive vs Negative Arbeit?", "Positive vs Negative work?", "Pozitív vs Negatív munka?", "Muncă pozitivă vs negativă?", lang),
       q4("Positiv: Kraft & Bewegung gleiche Richtung (θ<90°); Negativ: Kraft gegen Bewegung (θ>90°)", "Positive: force & motion same direction (θ<90°); Negative: force against motion (θ>90°)", "Pozitív: erő & mozgás ugyanaz irány (θ<90°); Negatív: erő ellen mozgás (θ>90°)", "Pozitivă: forță & mișcare aceeași direcție (θ<90°); Negativă: forță contra mișcării (θ>90°)", lang),
-      [q4("Gleich vorzeichen", "Same sign always", "Mindig ugyanaz a jel", "Întotdeauna același semn", lang), q4("Nur bei Reibung", "Only friction", "Csak súrlódás", "Doar frecare", lang), q4("Winkel nicht wichtig", "Angle doesn't matter", "Szög nem fontos", "Unghiul nu conteaza", lang)], rng));
+      [q4("Immer gleiches Vorzeichen", "Same sign always", "Mindig ugyanaz a jel", "Întotdeauna același semn", lang), q4("Nur bei Reibung", "Only friction", "Csak súrlódás", "Doar frecare", lang), q4("Winkel nicht wichtig", "Angle doesn't matter", "Szög nem fontos", "Unghiul nu contează", lang)], rng));
   }
 
   for (let i = 0; i < 7; i++) {
@@ -116,7 +116,7 @@ function generateWorkTyping(lang = "en", seed = 0): CurriculumTyping[] {
     createTyping("work_power", "work", q4("Arbeit gegen Reibung?", "Work against friction?", "Munka súrlódás ellen?", "Lucru contra fricțiunei?", lang),
       [q4("W_friction = -μ × N × d; negativ (Energie geht verloren als Wärme)", "W_friction = -μ × N × d; negative (energy lost as heat)", "W_friction = -μ × N × d; negatív (energia hővé alakul)", "W_friction = -μ × N × d; negativ (energie pierdută ca căldură)", lang)]),
     createTyping("work_power", "work", q4("Konservative vs Nicht-konservativ?", "Conservative vs non-conservative force?", "Konzervatív vs nem-konzervatív erő?", "Forță conservativă vs neconservativă?", lang),
-      [q4("Konservativ (Gravitatie, Feder): nur Position wichtig, Weg egal; Nicht-konservativ (Reibung): Weg wichtig, Energieverlust", "Conservative (gravity, spring): only position matters, path independent; Non-conservative (friction): path matters, energy loss", "Konzervatív (gravitáció, rugó): csak pozíció fontos, út független; Nem-konzervatív (súrlódás): út fontos, energiaveszteség", "Conservativă (gravitație, arc): doar poziția importantă, cale independentă; Neconservativă (frecare): cale importantă, pierdere energie", lang)]),
+      [q4("Konservativ (Gravitation, Feder): nur Position wichtig, Weg egal; Nicht-konservativ (Reibung): Weg wichtig, Energieverlust", "Conservative (gravity, spring): only position matters, path independent; Non-conservative (friction): path matters, energy loss", "Konzervatív (gravitáció, rugó): csak pozíció fontos, út független; Nem-konzervatív (súrlódás): út fontos, energiaveszteség", "Conservativă (gravitație, arc): doar poziția importantă, cale independentă; Neconservativă (frecare): cale importantă, pierdere energie", lang)]),
     createTyping("work_power", "work", q4("Arbeit durch konstante Kraft?", "Work with constant force?", "Munka állandó erővel?", "Lucru cu forță constantă?", lang),
       [q4("W = F·Δs·cos(θ); wenn θ=0° → W = F·Δs; wenn θ=180° → W = -F·Δs", "W = F·Δs·cos(θ); if θ=0° → W = F·Δs; if θ=180° → W = -F·Δs", "W = F·Δs·cos(θ); ha θ=0° → W = F·Δs; ha θ=180° → W = -F·Δs", "W = F·Δs·cos(θ); dacă θ=0° → W = F·Δs; dacă θ=180° → W = -F·Δs", lang)]),
   ];
