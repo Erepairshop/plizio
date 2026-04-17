@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowLeft, ArrowRight, Crown, Lock, RefreshCw, Sparkles, Star, Trophy } from "lucide-react";
+import { ArrowLeft, ArrowRight, Crown, Lock, RefreshCw, Sparkles, Star, Trophy, Zap } from "lucide-react";
 import MathNinjaGame from "./MathNinjaGame";
 import MathDefenderGame from "./MathDefenderGame";
 import FractionReactorGame from "./FractionReactorGame";
@@ -12,16 +12,7 @@ import StarMapperGame from "./StarMapperGame";
 import MeteorScaleGame from "./MeteorScaleGame";
 
 type Lang = "de" | "hu" | "ro" | "en";
-
-type StageId =
-  | "orbit-forge"
-  | "shield-grid"
-  | "fraction-core"
-  | "angle-lab"
-  | "time-gate"
-  | "star-map"
-  | "balance-finale";
-
+type StageId = "orbit-forge" | "shield-grid" | "fraction-core" | "angle-lab" | "time-gate" | "star-map" | "balance-finale";
 type StageKind = "arcade" | "precision" | "puzzle";
 
 interface StageDef {
@@ -35,309 +26,108 @@ interface StageDef {
   baseScore: number;
 }
 
-interface StageResult {
-  bestScore: number;
-  stars: number;
-  plays: number;
-  completed: boolean;
-  lastScore: number;
-}
-
-interface SaveData {
-  stages: Partial<Record<StageId, StageResult>>;
-}
-
-interface Props {
-  grade: number;
-  lang: Lang;
-  onDone?: (score: number) => void;
-}
+interface StageResult { bestScore: number; stars: number; plays: number; completed: boolean; lastScore: number; }
+interface SaveData { stages: Partial<Record<StageId, StageResult>>; }
+interface Props { grade: number; lang: Lang; onDone?: (score: number) => void; }
 
 const T: Record<Lang, Record<string, string>> = {
   de: {
-    title: "Math Odyssey",
-    subtitle: "Ein Kampagnen-Modus aus mehreren Mathe-Missionen.",
-    start: "Kampagne starten",
-    resume: "Weiter spielen",
-    replay: "Mission wiederholen",
-    back: "Zurück zum Hub",
-    continue: "Nächste Mission",
-    unlocked: "Freigeschaltet",
-    locked: "Gesperrt",
-    completed: "Abgeschlossen",
-    best: "Bestwert",
-    stars: "Sterne",
-    totalStars: "Gesamtsterne",
-    totalCompleted: "Abgeschlossene Missionen",
-    goal: "Sammle Sterne, schalte neue Sektoren frei und verbessere deine Flotte.",
-    noProgress: "Kein Fortschritt gespeichert.",
-    done: "Kampagne abgeschlossen",
-    nextHint: "Die nächste Mission ist bereits freigeschaltet.",
+    title: "Math Odyssey", start: "Starten", resume: "Weiter", replay: "Wiederholen",
+    back: "Hub", next: "Nächste", unlocked: "Frei", locked: "Gesperrt",
+    completed: "Fertig", best: "Bestpunktzahl", stars: "⭐", totalStars: "Sterne gesamt",
+    done: "Kampagne abgeschlossen", noProgress: "Noch kein Fortschritt.",
+    progress: "Fortschritt", missions: "Missionen", rank: "Rang",
+    route: "Missionsroute", reset: "Reset", score: "Punkte",
+    nextHint: "Nächste Mission freigeschaltet.",
   },
   hu: {
-    title: "Math Odyssey",
-    subtitle: "Több, egymásra épülő matek-küldetés egyetlen kampányban.",
-    start: "Kampány indítása",
-    resume: "Folytatás",
-    replay: "Küldetés újrajátszása",
-    back: "Vissza a központba",
-    continue: "Következő küldetés",
-    unlocked: "Feloldva",
-    locked: "Zárolva",
-    completed: "Teljesítve",
-    best: "Legjobb",
-    stars: "Csillag",
-    totalStars: "Összes csillag",
-    totalCompleted: "Teljesített küldetés",
-    goal: "Gyűjts csillagokat, oldj fel új zónákat, és fejleszd a flottádat.",
-    noProgress: "Nincs még mentett előrehaladás.",
-    done: "A kampány kész",
-    nextHint: "A következő küldetés már fel van oldva.",
+    title: "Math Odyssey", start: "Indítás", resume: "Folytatás", replay: "Újra",
+    back: "Hub", next: "Következő", unlocked: "Nyitott", locked: "Zárolva",
+    completed: "Kész", best: "Legjobb", stars: "⭐", totalStars: "Összes csillag",
+    done: "Kampány kész", noProgress: "Még nincs előrehaladás.",
+    progress: "Haladás", missions: "Küldetések", rank: "Rang",
+    route: "Küldetésútvonal", reset: "Reset", score: "Pont",
+    nextHint: "A következő küldetés feloldva.",
   },
   ro: {
-    title: "Math Odyssey",
-    subtitle: "O campanie cu misiuni matematice conectate.",
-    start: "Pornește campania",
-    resume: "Continuă",
-    replay: "Repetă misiunea",
-    back: "Înapoi la hub",
-    continue: "Misiunea următoare",
-    unlocked: "Deblocat",
-    locked: "Blocat",
-    completed: "Finalizat",
-    best: "Record",
-    stars: "Stele",
-    totalStars: "Stele totale",
-    totalCompleted: "Misiuni finalizate",
-    goal: "Câștigă stele, deblochează sectoare noi și îți îmbunătățești flota.",
-    noProgress: "Niciun progres salvat.",
-    done: "Campanie finalizată",
-    nextHint: "Misiunea următoare este deja deblocată.",
+    title: "Math Odyssey", start: "Start", resume: "Continuă", replay: "Repetă",
+    back: "Hub", next: "Următor", unlocked: "Deblocat", locked: "Blocat",
+    completed: "Gata", best: "Record", stars: "⭐", totalStars: "Stele totale",
+    done: "Campanie finalizată", noProgress: "Niciun progres salvat.",
+    progress: "Progres", missions: "Misiuni", rank: "Rang",
+    route: "Rută misiuni", reset: "Reset", score: "Scor",
+    nextHint: "Misiunea următoare deblocată.",
   },
   en: {
-    title: "Math Odyssey",
-    subtitle: "A campaign mode made from multiple math missions.",
-    start: "Start campaign",
-    resume: "Continue",
-    replay: "Replay mission",
-    back: "Back to hub",
-    continue: "Next mission",
-    unlocked: "Unlocked",
-    locked: "Locked",
-    completed: "Completed",
-    best: "Best",
-    stars: "Stars",
-    totalStars: "Total stars",
-    totalCompleted: "Completed missions",
-    goal: "Earn stars, unlock new sectors, and upgrade your fleet.",
-    noProgress: "No saved progress yet.",
-    done: "Campaign complete",
-    nextHint: "The next mission is already unlocked.",
+    title: "Math Odyssey", start: "Start", resume: "Continue", replay: "Replay",
+    back: "Hub", next: "Next", unlocked: "Open", locked: "Locked",
+    completed: "Done", best: "Best", stars: "⭐", totalStars: "Total stars",
+    done: "Campaign complete", noProgress: "No progress yet.",
+    progress: "Progress", missions: "Missions", rank: "Rank",
+    route: "Mission route", reset: "Reset", score: "Score",
+    nextHint: "Next mission unlocked.",
   },
 };
 
 const STORAGE_PREFIX = "plizio:math-odyssey:v1";
 
 const STAGES: StageDef[] = [
-  {
-    id: "orbit-forge",
-    gameId: "math-ninja",
-    kind: "arcade",
-    title: { de: "Orbit Forge", hu: "Pályakovács", ro: "Forja Orbitală", en: "Orbit Forge" },
-    subtitle: { de: "Schneide die richtigen Zahlen", hu: "Vágd ki a helyes számokat", ro: "Taie numerele corecte", en: "Slice the right numbers" },
-    accent: "#38bdf8",
-    glow: "#0ea5e9",
-    baseScore: 25,
-  },
-  {
-    id: "shield-grid",
-    gameId: "math-defender",
-    kind: "arcade",
-    title: { de: "Shield Grid", hu: "Pajzsmező", ro: "Grilă de Scut", en: "Shield Grid" },
-    subtitle: { de: "Verteidige die Basis", hu: "Védd meg az állomást", ro: "Apără baza", en: "Defend the base" },
-    accent: "#a78bfa",
-    glow: "#8b5cf6",
-    baseScore: 35,
-  },
-  {
-    id: "fraction-core",
-    gameId: "fraction-reactor",
-    kind: "puzzle",
-    title: { de: "Fraction Core", hu: "Törzsmag", ro: "Nucleu de fracții", en: "Fraction Core" },
-    subtitle: { de: "Stabile Brüche laden", hu: "Tölts fel stabil törteket", ro: "Încarcă fracții stabile", en: "Load stable fractions" },
-    accent: "#34d399",
-    glow: "#10b981",
-    baseScore: 20,
-  },
-  {
-    id: "angle-lab",
-    gameId: "angle-laser",
-    kind: "precision",
-    title: { de: "Angle Lab", hu: "Szöglabor", ro: "Laborator de unghiuri", en: "Angle Lab" },
-    subtitle: { de: "Treffe den exakten Winkel", hu: "Találd el a pontos szöget", ro: "Lovește unghiul exact", en: "Hit the exact angle" },
-    accent: "#fbbf24",
-    glow: "#f59e0b",
-    baseScore: 4,
-  },
-  {
-    id: "time-gate",
-    gameId: "time-warp",
-    kind: "puzzle",
-    title: { de: "Time Gate", hu: "Időkapu", ro: "Poarta timpului", en: "Time Gate" },
-    subtitle: { de: "Ordne die Zeitfenster", hu: "Állítsd be az időpontokat", ro: "Potrivește momentele", en: "Match the right moments" },
-    accent: "#22d3ee",
-    glow: "#06b6d4",
-    baseScore: 25,
-  },
-  {
-    id: "star-map",
-    gameId: "star-mapper",
-    kind: "precision",
-    title: { de: "Star Map", hu: "Csillagtérkép", ro: "Harta stelelor", en: "Star Map" },
-    subtitle: { de: "Ziele präzise koordinieren", hu: "Pontos koordináták", ro: "Coordonate precise", en: "Lock coordinates precisely" },
-    accent: "#f472b6",
-    glow: "#ec4899",
-    baseScore: 30,
-  },
-  {
-    id: "balance-finale",
-    gameId: "meteor-scale",
-    kind: "arcade",
-    title: { de: "Balance Finale", hu: "Mérleg-finálé", ro: "Final de balanță", en: "Balance Finale" },
-    subtitle: { de: "Bringe das System ins Gleichgewicht", hu: "Tedd egyensúlyba a rendszert", ro: "Adaugă echilibru sistemului", en: "Bring the system into balance" },
-    accent: "#f97316",
-    glow: "#fb923c",
-    baseScore: 25,
-  },
+  { id: "orbit-forge", gameId: "math-ninja", kind: "arcade", title: { de: "Orbit Forge", hu: "Pályakovács", ro: "Forja Orbitală", en: "Orbit Forge" }, subtitle: { de: "Schneide die richtigen Zahlen", hu: "Vágd ki a helyes számokat", ro: "Taie numerele corecte", en: "Slice the right numbers" }, accent: "#38bdf8", glow: "#0ea5e9", baseScore: 25 },
+  { id: "shield-grid", gameId: "math-defender", kind: "arcade", title: { de: "Shield Grid", hu: "Pajzsmező", ro: "Grilă de Scut", en: "Shield Grid" }, subtitle: { de: "Verteidige die Basis", hu: "Védd meg az állomást", ro: "Apără baza", en: "Defend the base" }, accent: "#a78bfa", glow: "#8b5cf6", baseScore: 35 },
+  { id: "fraction-core", gameId: "fraction-reactor", kind: "puzzle", title: { de: "Fraction Core", hu: "Törzsmag", ro: "Nucleu Fracții", en: "Fraction Core" }, subtitle: { de: "Stabile Brüche laden", hu: "Tölts fel stabil törteket", ro: "Fracții stabile", en: "Load stable fractions" }, accent: "#34d399", glow: "#10b981", baseScore: 20 },
+  { id: "angle-lab", gameId: "angle-laser", kind: "precision", title: { de: "Angle Lab", hu: "Szöglabor", ro: "Lab Unghiuri", en: "Angle Lab" }, subtitle: { de: "Treffe den exakten Winkel", hu: "Találd el a pontos szöget", ro: "Unghiul exact", en: "Hit the exact angle" }, accent: "#fbbf24", glow: "#f59e0b", baseScore: 4 },
+  { id: "time-gate", gameId: "time-warp", kind: "puzzle", title: { de: "Time Gate", hu: "Időkapu", ro: "Poarta Timpului", en: "Time Gate" }, subtitle: { de: "Ordne die Zeitfenster", hu: "Állítsd be az időpontokat", ro: "Potrivește momentele", en: "Match the right moments" }, accent: "#22d3ee", glow: "#06b6d4", baseScore: 25 },
+  { id: "star-map", gameId: "star-mapper", kind: "precision", title: { de: "Star Map", hu: "Csillagtérkép", ro: "Harta Stelelor", en: "Star Map" }, subtitle: { de: "Koordinaten präzise setzen", hu: "Pontos koordináták", ro: "Coordonate precise", en: "Lock coordinates" }, accent: "#f472b6", glow: "#ec4899", baseScore: 30 },
+  { id: "balance-finale", gameId: "meteor-scale", kind: "arcade", title: { de: "Balance Finale", hu: "Mérleg-finálé", ro: "Final Balanță", en: "Balance Finale" }, subtitle: { de: "System ins Gleichgewicht bringen", hu: "Tedd egyensúlyba a rendszert", ro: "Echilibrează sistemul", en: "Bring the system to balance" }, accent: "#f97316", glow: "#fb923c", baseScore: 25 },
 ];
 
-function storageKey(grade: number) {
-  return `${STORAGE_PREFIX}:g${grade}`;
-}
-
-function emptySave(): SaveData {
-  return { stages: {} };
+const RANK_ICONS = ["🌑", "🌒", "🌓", "🌔", "🌕", "⭐", "🏆", "👑"];
+function rankIcon(totalStars: number) {
+  const idx = Math.min(Math.floor(totalStars / 3), RANK_ICONS.length - 1);
+  return RANK_ICONS[idx];
 }
 
 function loadSave(grade: number): SaveData {
-  if (typeof window === "undefined") return emptySave();
-  try {
-    const raw = window.localStorage.getItem(storageKey(grade));
-    if (!raw) return emptySave();
-    const parsed = JSON.parse(raw) as SaveData;
-    return { stages: parsed.stages ?? {} };
-  } catch {
-    return emptySave();
-  }
+  if (typeof window === "undefined") return { stages: {} };
+  try { const r = window.localStorage.getItem(`${STORAGE_PREFIX}:g${grade}`); return r ? JSON.parse(r) : { stages: {} }; } catch { return { stages: {} }; }
 }
-
-function saveData(grade: number, data: SaveData) {
-  if (typeof window === "undefined") return;
-  window.localStorage.setItem(storageKey(grade), JSON.stringify(data));
+function savePersist(grade: number, data: SaveData) {
+  if (typeof window !== "undefined") window.localStorage.setItem(`${STORAGE_PREFIX}:g${grade}`, JSON.stringify(data));
 }
-
-function stageLabel(stage: StageDef, lang: Lang) {
-  return stage.title[lang] ?? stage.title.en;
-}
-
-function stageSubtitle(stage: StageDef, lang: Lang) {
-  return stage.subtitle[lang] ?? stage.subtitle.en;
-}
-
 function computeStars(stage: StageDef, grade: number, score: number) {
   if (score <= 0) return 0;
-  const base = stage.kind === "precision"
-    ? Math.max(2, Math.min(6, Math.ceil(grade / 2)))
-    : stage.baseScore + grade * 4;
-  const silver = Math.max(1, Math.floor(base * 1.2));
-  const gold = Math.max(silver + 1, Math.floor(base * 1.6));
-  if (score >= gold) return 3;
-  if (score >= silver) return 2;
+  const base = stage.kind === "precision" ? Math.max(2, Math.min(6, Math.ceil(grade / 2))) : stage.baseScore + grade * 4;
+  if (score >= Math.floor(base * 1.6)) return 3;
+  if (score >= Math.floor(base * 1.2)) return 2;
   return 1;
 }
 
-function starsForSummary(totalStars: number) {
-  if (totalStars >= 18) return "Crown";
-  if (totalStars >= 12) return "Trophy";
-  if (totalStars >= 6) return "Spark";
-  return "Pulse";
-}
-
-function StageButton({
-  stage,
-  lang,
-  result,
-  unlocked,
-  active,
-  onStart,
-}: {
-  stage: StageDef;
-  lang: Lang;
-  result?: StageResult;
-  unlocked: boolean;
-  active: boolean;
-  onStart: () => void;
-}) {
-  const statusText = result?.completed
-    ? `${result.stars} ${result.stars === 1 ? "star" : "stars"}`
-    : unlocked
-    ? "open"
-    : "locked";
-
+function StageRow({ stage, lang, result, unlocked, onStart }: { stage: StageDef; lang: Lang; result?: StageResult; unlocked: boolean; onStart: () => void; }) {
   return (
     <button
       onClick={onStart}
       disabled={!unlocked}
-      className={`group relative w-full overflow-hidden rounded-[26px] border p-4 text-left transition duration-300 ${
-        active
-          ? "border-white/30 shadow-[0_0_0_1px_rgba(255,255,255,0.08)]"
-          : unlocked
-          ? "border-white/10 hover:border-white/20"
-          : "border-white/5 opacity-60"
-      }`}
+      className="w-full rounded-2xl border p-3 text-left transition active:scale-[0.98]"
       style={{
-        background: unlocked
-          ? `linear-gradient(135deg, ${stage.glow}25 0%, rgba(2,6,23,0.95) 55%)`
-          : "rgba(255,255,255,0.02)",
+        background: unlocked ? `linear-gradient(135deg, ${stage.glow}20 0%, rgba(2,6,23,0.9) 60%)` : "rgba(255,255,255,0.02)",
+        borderColor: unlocked ? `${stage.accent}40` : "rgba(255,255,255,0.06)",
+        opacity: unlocked ? 1 : 0.5,
       }}
     >
-      <div className="absolute inset-0 opacity-0 transition-opacity duration-300 group-hover:opacity-100" style={{ background: `radial-gradient(circle at 0% 0%, ${stage.accent}18, transparent 55%)` }} />
-      <div className="relative flex items-start gap-3">
-        <div
-          className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl border"
-          style={{
-            borderColor: unlocked ? `${stage.accent}55` : "rgba(255,255,255,0.08)",
-            background: unlocked ? `${stage.accent}15` : "rgba(255,255,255,0.03)",
-            boxShadow: unlocked ? `0 0 28px ${stage.glow}25` : "none",
-          }}
-        >
-          {unlocked ? <Sparkles size={20} className="text-white" /> : <Lock size={18} className="text-white/40" />}
+      <div className="flex items-center gap-3">
+        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border" style={{ borderColor: unlocked ? `${stage.accent}50` : "rgba(255,255,255,0.08)", background: unlocked ? `${stage.accent}18` : "rgba(255,255,255,0.03)" }}>
+          {result?.completed ? <Crown size={16} className="text-amber-300" /> : unlocked ? <Sparkles size={15} className="text-white/80" /> : <Lock size={14} className="text-white/30" />}
         </div>
         <div className="min-w-0 flex-1">
-          <div className="flex items-center justify-between gap-3">
-            <div>
-              <p className="text-[10px] font-black uppercase tracking-[0.3em] text-white/35">
-                {unlocked ? "Mission" : "Locked sector"}
-              </p>
-              <h3 className="mt-1 truncate text-lg font-black text-white/95">{stageLabel(stage, lang)}</h3>
-            </div>
-            <div className="rounded-full border border-white/10 bg-black/30 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.2em] text-white/70">
-              {statusText}
-            </div>
-          </div>
-          <p className="mt-2 text-sm text-white/65">{stageSubtitle(stage, lang)}</p>
-          <div className="mt-3 flex items-center justify-between gap-3">
-            <div className="flex items-center gap-1 text-white/75">
-              {result?.completed ? (
-                Array.from({ length: result.stars }).map((_, i) => <Star key={i} size={13} className="fill-amber-300 text-amber-300" />)
-              ) : (
-                <span className="text-xs uppercase tracking-[0.25em] text-white/35">{unlocked ? "Ready" : "Locked"}</span>
-              )}
-            </div>
-            <div className="text-xs font-semibold text-white/45">
-              {result?.completed ? `Best ${result.bestScore}` : unlocked ? "Tap to enter" : "Complete previous sector"}
-            </div>
-          </div>
+          <p className="truncate text-sm font-black text-white/90">{stage.title[lang] ?? stage.title.en}</p>
+          <p className="truncate text-xs text-white/50">{stage.subtitle[lang] ?? stage.subtitle.en}</p>
+        </div>
+        <div className="flex shrink-0 items-center gap-1">
+          {result?.completed
+            ? Array.from({ length: 3 }).map((_, i) => <Star key={i} size={11} className={i < result.stars ? "fill-amber-300 text-amber-300" : "text-white/15"} />)
+            : unlocked
+            ? <ArrowRight size={14} className="text-white/40" />
+            : <Lock size={12} className="text-white/25" />}
         </div>
       </div>
     </button>
@@ -351,423 +141,211 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
   const [activeStageId, setActiveStageId] = useState<StageId | null>(null);
   const [runId, setRunId] = useState(0);
   const [stageScore, setStageScore] = useState(0);
-  const handledDoneRef = useRef(false);
+  const handledRef = useRef(false);
 
-  useEffect(() => {
-    setSave(loadSave(grade));
-    setView("hub");
-    setActiveStageId(null);
-  }, [grade]);
+  useEffect(() => { setSave(loadSave(grade)); setView("hub"); setActiveStageId(null); }, [grade]);
 
   const stageResults = save.stages;
-  const completedStages = useMemo(
-    () => STAGES.filter((stage) => stageResults[stage.id]?.completed),
-    [stageResults]
-  );
-  const totalStars = useMemo(
-    () => STAGES.reduce((sum, stage) => sum + (stageResults[stage.id]?.stars ?? 0), 0),
-    [stageResults]
-  );
+  const completedCount = useMemo(() => STAGES.filter(s => stageResults[s.id]?.completed).length, [stageResults]);
+  const totalStars = useMemo(() => STAGES.reduce((sum, s) => sum + (stageResults[s.id]?.stars ?? 0), 0), [stageResults]);
+  const overallPct = Math.round((completedCount / STAGES.length) * 100);
 
-  const unlockedStageIds = useMemo(() => {
-    const unlocked = new Set<StageId>([STAGES[0].id]);
-    for (let i = 0; i < STAGES.length - 1; i++) {
-      if (stageResults[STAGES[i].id]?.completed) unlocked.add(STAGES[i + 1].id);
-    }
-    for (const stage of STAGES) {
-      if (stageResults[stage.id]?.completed) unlocked.add(stage.id);
-    }
-    return unlocked;
+  const unlockedIds = useMemo(() => {
+    const s = new Set<StageId>([STAGES[0].id]);
+    for (let i = 0; i < STAGES.length - 1; i++) if (stageResults[STAGES[i].id]?.completed) s.add(STAGES[i + 1].id);
+    for (const st of STAGES) if (stageResults[st.id]?.completed) s.add(st.id);
+    return s;
   }, [stageResults]);
 
-  const currentStage = activeStageId ? STAGES.find((stage) => stage.id === activeStageId) ?? null : null;
-  const nextStage = useMemo(() => {
-    if (!activeStageId) return null;
-    const idx = STAGES.findIndex((stage) => stage.id === activeStageId);
-    if (idx < 0 || idx >= STAGES.length - 1) return null;
-    return STAGES[idx + 1];
-  }, [activeStageId]);
+  const currentStage = activeStageId ? STAGES.find(s => s.id === activeStageId) ?? null : null;
+  const nextStage = useMemo(() => { if (!activeStageId) return null; const idx = STAGES.findIndex(s => s.id === activeStageId); return idx >= 0 && idx < STAGES.length - 1 ? STAGES[idx + 1] : null; }, [activeStageId]);
 
-  const activeStageIndex = activeStageId ? STAGES.findIndex((stage) => stage.id === activeStageId) : -1;
-  const overallProgress = Math.round((completedStages.length / STAGES.length) * 100);
+  const openStage = useCallback((id: StageId) => {
+    if (!unlockedIds.has(id)) return;
+    setActiveStageId(id); setStageScore(0); handledRef.current = false; setRunId(r => r + 1); setView("stage");
+  }, [unlockedIds]);
 
-  const openStage = useCallback((stageId: StageId) => {
-    if (!unlockedStageIds.has(stageId)) return;
-    setActiveStageId(stageId);
-    setStageScore(0);
-    handledDoneRef.current = false;
-    setRunId((r) => r + 1);
-    setView("stage");
-  }, [unlockedStageIds]);
-
-  const persist = useCallback((next: SaveData) => {
-    setSave(next);
-    saveData(grade, next);
-  }, [grade]);
+  const persist = useCallback((next: SaveData) => { setSave(next); savePersist(grade, next); }, [grade]);
 
   const handleStageDone = useCallback((score: number) => {
-    if (!currentStage || handledDoneRef.current) return;
-    handledDoneRef.current = true;
-
+    if (!currentStage || handledRef.current) return;
+    handledRef.current = true;
     const stars = computeStars(currentStage, grade, score);
-    const previous = save.stages[currentStage.id];
-    const nextStageResults: StageResult = {
-      bestScore: Math.max(previous?.bestScore ?? 0, score),
-      stars: Math.max(previous?.stars ?? 0, stars),
-      plays: (previous?.plays ?? 0) + 1,
-      completed: stars > 0,
-      lastScore: score,
-    };
+    const prev = stageResults[currentStage.id];
+    const next: SaveData = { stages: { ...stageResults, [currentStage.id]: { bestScore: Math.max(prev?.bestScore ?? 0, score), stars: Math.max(prev?.stars ?? 0, stars), plays: (prev?.plays ?? 0) + 1, completed: stars > 0, lastScore: score } } };
+    persist(next); setStageScore(score); setView("result"); onDone?.(score);
+  }, [currentStage, grade, onDone, persist, stageResults]);
 
-    const nextSave: SaveData = {
-      stages: {
-        ...save.stages,
-        [currentStage.id]: nextStageResults,
-      },
-    };
-
-    persist(nextSave);
-    setStageScore(score);
-    setView("result");
-    onDone?.(score);
-  }, [currentStage, grade, onDone, persist, save.stages]);
-
-  const closeStage = useCallback(() => {
-    setActiveStageId(null);
-    setView("hub");
-  }, []);
+  const closeStage = useCallback(() => { setActiveStageId(null); setView("hub"); }, []);
 
   const playNext = useCallback(() => {
     if (!currentStage) return;
-    const currentStars = stageResults[currentStage.id]?.stars ?? 0;
-    if (currentStars <= 0) {
-      openStage(currentStage.id);
-      return;
-    }
-    const idx = STAGES.findIndex((stage) => stage.id === currentStage.id);
-    const candidate = STAGES[idx + 1];
-    if (candidate && unlockedStageIds.has(candidate.id)) {
-      openStage(candidate.id);
-      return;
-    }
+    if ((stageResults[currentStage.id]?.stars ?? 0) <= 0) { openStage(currentStage.id); return; }
+    const idx = STAGES.findIndex(s => s.id === currentStage.id);
+    const cand = STAGES[idx + 1];
+    if (cand && unlockedIds.has(cand.id)) { openStage(cand.id); return; }
     closeStage();
-  }, [closeStage, currentStage, openStage, stageResults, unlockedStageIds]);
+  }, [closeStage, currentStage, openStage, stageResults, unlockedIds]);
 
-  const resetProgress = useCallback(() => {
-    const next = emptySave();
-    persist(next);
-    setView("hub");
-    setActiveStageId(null);
-  }, [persist]);
+  const resetProgress = useCallback(() => { persist({ stages: {} }); setView("hub"); setActiveStageId(null); }, [persist]);
 
-  const renderStageGame = () => {
+  const renderGame = () => {
     if (!currentStage) return null;
-    const common = { key: `${currentStage.id}:${runId}`, grade, lang, onDone: handleStageDone };
+    const p = { key: `${currentStage.id}:${runId}`, grade, lang, onDone: handleStageDone };
     switch (currentStage.gameId) {
-      case "math-ninja":
-        return <MathNinjaGame {...common} />;
-      case "math-defender":
-        return <MathDefenderGame {...common} />;
-      case "fraction-reactor":
-        return <FractionReactorGame {...common} />;
-      case "angle-laser":
-        return <AngleLaserGame {...common} />;
-      case "time-warp":
-        return <TimeWarpGame {...common} />;
-      case "star-mapper":
-        return <StarMapperGame {...common} />;
-      case "meteor-scale":
-        return <MeteorScaleGame {...common} />;
-      default:
-        return null;
+      case "math-ninja": return <MathNinjaGame {...p} />;
+      case "math-defender": return <MathDefenderGame {...p} />;
+      case "fraction-reactor": return <FractionReactorGame {...p} />;
+      case "angle-laser": return <AngleLaserGame {...p} />;
+      case "time-warp": return <TimeWarpGame {...p} />;
+      case "star-mapper": return <StarMapperGame {...p} />;
+      case "meteor-scale": return <MeteorScaleGame {...p} />;
+      default: return null;
     }
   };
 
-  const summaryIcon = starsForSummary(totalStars);
-
+  /* ── STAGE VIEW ── */
   if (view === "stage" && currentStage) {
     return (
-      <div className="mx-auto max-w-6xl rounded-[34px] border border-white/10 bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.08),_rgba(2,6,23,0.95)_45%)] p-4 shadow-[0_0_80px_rgba(0,0,0,0.5)]">
-        <div className="mb-4 flex items-center justify-between gap-3">
-          <button
-            onClick={closeStage}
-            className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 py-2 text-sm font-semibold text-white/75 transition hover:bg-white/[0.08]"
-          >
-            <ArrowLeft size={16} /> {t.back}
+      <div className="rounded-[28px] border border-white/10 bg-[#060614] p-3 text-white">
+        <div className="mb-3 flex items-center justify-between gap-2">
+          <button onClick={closeStage} className="flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-bold text-white/70">
+            <ArrowLeft size={13} /> {t.back}
           </button>
-          <div className="flex items-center gap-2 rounded-full border border-white/10 bg-black/30 px-4 py-2 text-sm text-white/70">
-            <Crown size={16} className="text-amber-300" />
-            <span>{t.totalStars}: {totalStars}</span>
+          <div className="flex items-center gap-1.5 rounded-full border border-white/10 bg-black/30 px-3 py-1.5 text-xs text-white/60">
+            <Star size={12} className="fill-amber-300 text-amber-300" />
+            <span>{totalStars}</span>
+            <span className="text-white/30">·</span>
+            <span className="font-black" style={{ color: currentStage.accent }}>{currentStage.title[lang]}</span>
           </div>
         </div>
-
-        <div className="mb-4 rounded-[28px] border border-white/10 bg-white/[0.02] p-4">
-          <div className="flex flex-wrap items-end justify-between gap-3">
-            <div>
-              <p className="text-[10px] font-black uppercase tracking-[0.35em] text-white/40">Mission sector</p>
-              <h2 className="mt-1 text-2xl font-black text-white">{stageLabel(currentStage, lang)}</h2>
-              <p className="mt-1 text-sm text-white/60">{stageSubtitle(currentStage, lang)}</p>
-            </div>
-            <div className="rounded-2xl border border-white/10 bg-black/30 px-4 py-3 text-right">
-              <p className="text-[10px] font-black uppercase tracking-[0.3em] text-white/35">{t.best}</p>
-              <p className="text-xl font-black text-white">{stageResults[currentStage.id]?.bestScore ?? 0}</p>
-            </div>
-          </div>
-        </div>
-
         <AnimatePresence mode="wait">
-          <motion.div
-            key={`${currentStage.id}:${runId}`}
-            initial={{ opacity: 0, y: 18, scale: 0.98 }}
-            animate={{ opacity: 1, y: 0, scale: 1 }}
-            exit={{ opacity: 0, y: -10 }}
-            transition={{ duration: 0.25 }}
-          >
-            {renderStageGame()}
+          <motion.div key={`${currentStage.id}:${runId}`} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.2 }}>
+            {renderGame()}
           </motion.div>
         </AnimatePresence>
       </div>
     );
   }
 
+  /* ── RESULT VIEW ── */
   if (view === "result" && currentStage) {
     const result = stageResults[currentStage.id];
     const stars = result?.stars ?? 0;
     return (
-      <div className="mx-auto max-w-4xl rounded-[34px] border border-white/10 bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.08),_rgba(2,6,23,0.96)_48%)] p-5 text-white shadow-[0_0_90px_rgba(0,0,0,0.45)]">
-        <div className="flex items-center justify-between gap-3">
-          <button
-            onClick={closeStage}
-            className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 py-2 text-sm font-semibold text-white/75 transition hover:bg-white/[0.08]"
-          >
-            <ArrowLeft size={16} /> {t.back}
+      <div className="rounded-[28px] border border-white/10 bg-[#060614] p-4 text-white">
+        <div className="mb-4 flex items-center justify-between">
+          <button onClick={closeStage} className="flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs font-bold text-white/70">
+            <ArrowLeft size={13} /> {t.back}
           </button>
-          <button
-            onClick={resetProgress}
-            className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 py-2 text-sm font-semibold text-white/60 transition hover:bg-white/[0.08]"
-          >
-            <RefreshCw size={16} /> Reset
+          <button onClick={resetProgress} className="flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-white/50">
+            <RefreshCw size={12} /> {t.reset}
           </button>
         </div>
 
-        <div className="mt-6 grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
-          <div className="rounded-[28px] border border-white/10 bg-white/[0.03] p-6">
-            <p className="text-[10px] font-black uppercase tracking-[0.35em] text-white/35">
-              {stars > 0 ? t.completed : t.locked}
-            </p>
-            <h2 className="mt-2 text-3xl font-black text-white">{stageLabel(currentStage, lang)}</h2>
-            <p className="mt-2 text-white/65">{stageSubtitle(currentStage, lang)}</p>
-
-            <div className="mt-6 flex items-center gap-2">
+        <div className="rounded-2xl border p-4 mb-3" style={{ borderColor: `${currentStage.accent}30`, background: `${currentStage.glow}10` }}>
+          <p className="text-xs text-white/40 uppercase tracking-widest mb-1">{currentStage.title[lang]}</p>
+          <div className="flex items-center justify-between">
+            <div className="flex gap-1.5">
               {Array.from({ length: 3 }).map((_, i) => (
-                <Star
-                  key={i}
-                  size={28}
-                  className={i < stars ? "fill-amber-300 text-amber-300 drop-shadow-[0_0_12px_rgba(251,191,36,0.45)]" : "text-white/15"}
-                />
+                <Star key={i} size={24} className={i < stars ? "fill-amber-300 text-amber-300 drop-shadow-[0_0_8px_rgba(251,191,36,0.5)]" : "text-white/15"} />
               ))}
             </div>
-
-            <div className="mt-6 grid gap-3 sm:grid-cols-3">
-              <div className="rounded-2xl border border-white/10 bg-black/25 p-3">
-                <p className="text-[10px] font-black uppercase tracking-[0.25em] text-white/35">{t.best}</p>
-                <p className="mt-1 text-xl font-black text-white">{result?.bestScore ?? 0}</p>
-              </div>
-              <div className="rounded-2xl border border-white/10 bg-black/25 p-3">
-                <p className="text-[10px] font-black uppercase tracking-[0.25em] text-white/35">{t.stars}</p>
-                <p className="mt-1 text-xl font-black text-white">{stars}</p>
-              </div>
-              <div className="rounded-2xl border border-white/10 bg-black/25 p-3">
-                <p className="text-[10px] font-black uppercase tracking-[0.25em] text-white/35">Score</p>
-                <p className="mt-1 text-xl font-black text-white">{stageScore}</p>
-              </div>
+            <div className="text-right">
+              <p className="text-xs text-white/40">{t.score}</p>
+              <p className="text-2xl font-black text-white">{stageScore}</p>
             </div>
           </div>
-
-          <div className="flex flex-col gap-3 rounded-[28px] border border-white/10 bg-white/[0.03] p-6">
-            <div className="rounded-3xl border border-white/10 bg-gradient-to-br from-cyan-400/10 via-fuchsia-400/10 to-amber-300/10 p-5">
-              <div className="flex items-center gap-3">
-                <div className="flex h-14 w-14 items-center justify-center rounded-2xl border border-white/10 bg-black/30">
-                  <Trophy size={24} className="text-amber-300" />
-                </div>
-                <div>
-                  <p className="text-[10px] font-black uppercase tracking-[0.35em] text-white/40">{t.totalCompleted}</p>
-                  <p className="text-2xl font-black text-white">{completedStages.length}/{STAGES.length}</p>
-                </div>
-              </div>
-              <p className="mt-4 text-sm text-white/70">{t.nextHint}</p>
+          <div className="mt-3 grid grid-cols-2 gap-2 text-center">
+            <div className="rounded-xl bg-black/25 p-2">
+              <Trophy size={14} className="mx-auto text-amber-300 mb-1" />
+              <p className="text-sm font-black text-white">{result?.bestScore ?? 0}</p>
+              <p className="text-[10px] text-white/40">{t.best}</p>
             </div>
-
-            <button
-              onClick={playNext}
-              className="inline-flex items-center justify-between gap-3 rounded-2xl border border-cyan-400/20 bg-cyan-400/10 px-4 py-3 text-left font-semibold text-cyan-50 transition hover:bg-cyan-400/15"
-            >
-              <span>{(result?.stars ?? 0) > 0 ? (nextStage ? t.continue : t.resume) : t.replay}</span>
-              <ArrowRight size={18} />
-            </button>
-
-            <button
-              onClick={closeStage}
-              className="rounded-2xl border border-white/10 bg-white/[0.03] px-4 py-3 text-left font-semibold text-white/80 transition hover:bg-white/[0.08]"
-            >
-              {t.back}
-            </button>
+            <div className="rounded-xl bg-black/25 p-2">
+              <Zap size={14} className="mx-auto text-cyan-300 mb-1" />
+              <p className="text-sm font-black text-white">{completedCount}/{STAGES.length}</p>
+              <p className="text-[10px] text-white/40">{t.missions}</p>
+            </div>
           </div>
+        </div>
+
+        <div className="flex flex-col gap-2">
+          <button onClick={playNext} className="flex items-center justify-between rounded-2xl border border-cyan-400/20 bg-cyan-400/10 px-4 py-3 font-bold text-cyan-50 active:scale-[0.98] transition">
+            <span className="text-sm">{(result?.stars ?? 0) > 0 ? (nextStage ? t.next : t.resume) : t.replay}</span>
+            <ArrowRight size={16} />
+          </button>
+          <button onClick={closeStage} className="rounded-2xl border border-white/10 bg-white/5 px-4 py-2.5 text-sm font-semibold text-white/70 active:scale-[0.98] transition">
+            {t.back}
+          </button>
         </div>
       </div>
     );
   }
 
-  const continueStage = STAGES.find((stage) => !stageResults[stage.id]?.completed && unlockedStageIds.has(stage.id)) ?? STAGES[0];
+  /* ── HUB VIEW ── */
+  const continueStage = STAGES.find(s => !stageResults[s.id]?.completed && unlockedIds.has(s.id)) ?? STAGES[0];
 
   return (
-    <div className="mx-auto max-w-6xl overflow-hidden rounded-[36px] border border-white/10 bg-[radial-gradient(circle_at_top,_rgba(99,102,241,0.18),_rgba(2,6,23,0.97)_40%)] p-5 text-white shadow-[0_0_100px_rgba(0,0,0,0.45)]">
-      <div className="grid gap-5 lg:grid-cols-[1.05fr_0.95fr]">
-        <div className="rounded-[30px] border border-white/10 bg-white/[0.03] p-6">
-          <div className="flex items-center justify-between gap-3">
-            <div>
-              <p className="text-[10px] font-black uppercase tracking-[0.4em] text-white/35">Visual Lab / Astromath</p>
-              <h2 className="mt-2 text-3xl font-black text-white">{t.title}</h2>
-              <p className="mt-2 max-w-xl text-sm leading-6 text-white/70">{t.subtitle}</p>
-            </div>
-            <div className="flex h-16 w-16 items-center justify-center rounded-[22px] border border-white/10 bg-black/25">
-              <Star size={28} className="fill-amber-300 text-amber-300" />
-            </div>
-          </div>
-
-          <div className="mt-6 rounded-[26px] border border-white/10 bg-black/25 p-5">
-            <div className="flex items-center justify-between gap-3">
-              <div>
-                <p className="text-[10px] font-black uppercase tracking-[0.3em] text-white/35">Fleet status</p>
-                <p className="mt-2 text-2xl font-black text-white">{overallProgress}%</p>
-              </div>
-              <div className="text-right">
-                <p className="text-[10px] font-black uppercase tracking-[0.3em] text-white/35">{t.totalStars}</p>
-                <p className="mt-2 text-2xl font-black text-white">{totalStars}</p>
-              </div>
-            </div>
-            <div className="mt-4 h-2 overflow-hidden rounded-full bg-white/10">
-              <motion.div
-                className="h-full rounded-full"
-                style={{ background: "linear-gradient(90deg, #38bdf8, #a78bfa, #f59e0b)" }}
-                initial={{ width: 0 }}
-                animate={{ width: `${overallProgress}%` }}
-                transition={{ duration: 0.6 }}
-              />
-            </div>
-            <p className="mt-4 text-sm text-white/65">{t.goal}</p>
-          </div>
-
-          <div className="mt-6 grid gap-3 sm:grid-cols-3">
-            <div className="rounded-[22px] border border-white/10 bg-black/25 p-4">
-              <p className="text-[10px] font-black uppercase tracking-[0.25em] text-white/35">{t.totalCompleted}</p>
-              <p className="mt-2 text-2xl font-black text-white">{completedStages.length}</p>
-            </div>
-            <div className="rounded-[22px] border border-white/10 bg-black/25 p-4">
-              <p className="text-[10px] font-black uppercase tracking-[0.25em] text-white/35">{t.totalStars}</p>
-              <p className="mt-2 text-2xl font-black text-white">{totalStars}</p>
-            </div>
-            <div className="rounded-[22px] border border-white/10 bg-black/25 p-4">
-              <p className="text-[10px] font-black uppercase tracking-[0.25em] text-white/35">Rank</p>
-              <p className="mt-2 text-2xl font-black text-white">{summaryIcon}</p>
-            </div>
-          </div>
-
-          <div className="mt-6 flex flex-wrap gap-3">
-            <button
-              onClick={() => openStage(continueStage.id)}
-              className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-black uppercase tracking-[0.16em] text-slate-950 transition hover:scale-[1.01]"
-            >
-              <Sparkles size={16} /> {completedStages.length > 0 ? t.resume : t.start}
-            </button>
-            <button
-              onClick={resetProgress}
-              className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-5 py-3 text-sm font-semibold text-white/70 transition hover:bg-white/[0.08]"
-            >
-              <RefreshCw size={16} /> Reset
-            </button>
-          </div>
+    <div className="rounded-[28px] border border-white/10 bg-[#060614] p-4 text-white">
+      {/* Header */}
+      <div className="mb-4 flex items-center justify-between gap-3">
+        <div>
+          <p className="text-[10px] uppercase tracking-[0.3em] text-white/35">Visual Lab</p>
+          <h2 className="text-2xl font-black text-white">{t.title}</h2>
         </div>
-
-        <div className="rounded-[30px] border border-white/10 bg-white/[0.03] p-4">
-          <div className="relative overflow-hidden rounded-[28px] border border-white/10 bg-[linear-gradient(180deg,rgba(15,23,42,0.95),rgba(2,6,23,0.9))] p-4">
-            <div className="absolute inset-0 opacity-40">
-              <div className="absolute left-6 top-8 h-28 w-28 rounded-full bg-cyan-400/20 blur-3xl" />
-              <div className="absolute right-8 top-24 h-32 w-32 rounded-full bg-fuchsia-400/20 blur-3xl" />
-              <div className="absolute bottom-12 left-20 h-24 w-24 rounded-full bg-amber-300/10 blur-2xl" />
-            </div>
-
-            <div className="relative flex items-center justify-between">
-              <div>
-                <p className="text-[10px] font-black uppercase tracking-[0.35em] text-white/35">Campaign route</p>
-                <h3 className="mt-1 text-xl font-black text-white">Mission sectors</h3>
-              </div>
-              <div className="rounded-full border border-white/10 bg-black/30 px-3 py-1 text-xs font-bold uppercase tracking-[0.2em] text-white/65">
-                {t.unlocked}: {unlockedStageIds.size}/{STAGES.length}
-              </div>
-            </div>
-
-            <div className="relative mt-5">
-              <div className="absolute left-[27px] top-5 bottom-5 w-px bg-gradient-to-b from-cyan-400/60 via-white/10 to-amber-300/40" />
-              <div className="space-y-3">
-                {STAGES.map((stage, index) => {
-                  const unlocked = unlockedStageIds.has(stage.id);
-                  const result = stageResults[stage.id];
-                  const active = activeStageId === stage.id;
-                  return (
-                    <motion.div
-                      key={stage.id}
-                      initial={{ opacity: 0, y: 12 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      transition={{ delay: index * 0.04 }}
-                    >
-                      <div className="flex items-start gap-3">
-                        <div
-                          className="relative z-10 mt-2 flex h-14 w-14 items-center justify-center rounded-2xl border"
-                          style={{
-                            borderColor: unlocked ? `${stage.accent}70` : "rgba(255,255,255,0.08)",
-                            background: unlocked ? `${stage.accent}14` : "rgba(255,255,255,0.03)",
-                            boxShadow: unlocked ? `0 0 24px ${stage.glow}25` : "none",
-                          }}
-                        >
-                          {result?.completed ? (
-                            <Crown size={20} className="text-amber-300" />
-                          ) : unlocked ? (
-                            <Sparkles size={18} className="text-white" />
-                          ) : (
-                            <Lock size={18} className="text-white/35" />
-                          )}
-                        </div>
-                        <div className="flex-1">
-                          <StageButton
-                            stage={stage}
-                            lang={lang}
-                            result={result}
-                            unlocked={unlocked}
-                            active={active}
-                            onStart={() => openStage(stage.id)}
-                          />
-                        </div>
-                      </div>
-                    </motion.div>
-                  );
-                })}
-              </div>
-            </div>
-          </div>
+        <div className="flex h-12 w-12 items-center justify-center rounded-2xl border border-white/10 bg-black/30 text-2xl">
+          {rankIcon(totalStars)}
         </div>
       </div>
 
-      {!stageResults[continueStage.id]?.completed && (
-        <div className="mt-5 rounded-[24px] border border-cyan-400/15 bg-cyan-400/5 px-4 py-3 text-sm text-cyan-50/80">
-          {stageResults[continueStage.id] ? t.resume : t.start}
+      {/* Stats bar */}
+      <div className="mb-4 rounded-2xl border border-white/10 bg-white/[0.03] p-3">
+        <div className="flex items-center justify-between gap-3 mb-2">
+          <div className="flex items-center gap-2 text-xs text-white/50">
+            <Star size={12} className="fill-amber-300 text-amber-300" />
+            <span className="font-bold text-white">{totalStars}</span>
+            <span>{t.totalStars}</span>
+          </div>
+          <div className="flex items-center gap-2 text-xs text-white/50">
+            <Trophy size={12} className="text-cyan-400" />
+            <span className="font-bold text-white">{completedCount}/{STAGES.length}</span>
+            <span>{t.missions}</span>
+          </div>
+          <span className="text-xs font-bold text-white/70">{overallPct}%</span>
         </div>
-      )}
+        <div className="h-1.5 overflow-hidden rounded-full bg-white/10">
+          <motion.div className="h-full rounded-full" style={{ background: "linear-gradient(90deg,#38bdf8,#a78bfa,#f59e0b)" }} initial={{ width: 0 }} animate={{ width: `${overallPct}%` }} transition={{ duration: 0.6 }} />
+        </div>
+      </div>
 
-      {completedStages.length === 0 && (
-        <div className="mt-4 rounded-[24px] border border-white/10 bg-white/[0.03] px-4 py-3 text-sm text-white/60">
-          {t.noProgress}
+      {/* Action buttons */}
+      <div className="mb-4 flex gap-2">
+        <button onClick={() => openStage(continueStage.id)} className="flex flex-1 items-center justify-center gap-2 rounded-full bg-white px-4 py-2.5 text-sm font-black uppercase tracking-wide text-slate-950 transition active:scale-95">
+          <Sparkles size={14} /> {completedCount > 0 ? t.resume : t.start}
+        </button>
+        <button onClick={resetProgress} className="flex items-center justify-center rounded-full border border-white/10 bg-white/5 px-3 py-2.5 text-white/50 transition active:scale-95" title={t.reset}>
+          <RefreshCw size={15} />
+        </button>
+      </div>
+
+      {/* Stage list */}
+      <div className="rounded-2xl border border-white/10 bg-white/[0.02] p-3">
+        <div className="mb-2 flex items-center justify-between">
+          <p className="text-xs font-black uppercase tracking-widest text-white/35">{t.route}</p>
+          <p className="text-xs text-white/30">{unlockedIds.size}/{STAGES.length}</p>
         </div>
+        <div className="space-y-2">
+          {STAGES.map((stage, idx) => (
+            <motion.div key={stage.id} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: idx * 0.03 }}>
+              <StageRow stage={stage} lang={lang} result={stageResults[stage.id]} unlocked={unlockedIds.has(stage.id)} onStart={() => openStage(stage.id)} />
+            </motion.div>
+          ))}
+        </div>
+      </div>
+
+      {completedCount === 0 && (
+        <p className="mt-3 text-center text-xs text-white/40">{t.noProgress}</p>
       )}
     </div>
   );
