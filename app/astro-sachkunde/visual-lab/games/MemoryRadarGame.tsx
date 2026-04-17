@@ -46,6 +46,61 @@ export default function MemoryRadarGame({ round, onDone }: Props) {
     onDone?.(score, round.targetItems.length);
   }, [completed, onDone, phase, round.selectionLimit, round.targetItems, selected]);
 
+  const score =
+    phase === "done"
+      ? selected.filter((id) => round.targetItems.some((item) => item.id === id)).length
+      : 0;
+
+  if (phase === "done") {
+    return (
+      <div
+        className="rounded-[30px] border p-6 text-white shadow-2xl flex flex-col items-center gap-5"
+        style={{
+          background: `radial-gradient(circle at top, ${round.theme.radar}22 0%, ${round.theme.bg} 70%, #040816 100%)`,
+          borderColor: "rgba(255,255,255,0.12)",
+        }}
+      >
+        <p className="text-xs uppercase tracking-[0.22em] text-white/45">Memory Radar</p>
+        <div className="text-5xl font-black" style={{ color: round.theme.accent }}>
+          {score}/{round.targetItems.length}
+        </div>
+        <p className="text-white/70 text-sm text-center">
+          {score === round.targetItems.length ? "🎯 Perfekt!" : score > 0 ? "👍 Gut gemacht!" : "❌ Versuch es nochmal!"}
+        </p>
+        <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 w-full">
+          {grid.map((item) => {
+            const isTarget = round.targetItems.some((e) => e.id === item.id);
+            const wasSelected = selected.includes(item.id);
+            const isCorrect = isTarget && wasSelected;
+            const isMissed = isTarget && !wasSelected;
+            const isFalseAlarm = !isTarget && wasSelected;
+            return (
+              <div
+                key={item.id}
+                className="aspect-square rounded-[20px] border p-2 flex flex-col items-center justify-center text-center"
+                style={{
+                  background: isCorrect ? "rgba(34,197,94,0.2)" : isMissed ? "rgba(234,179,8,0.15)" : isFalseAlarm ? "rgba(239,68,68,0.15)" : "rgba(255,255,255,0.04)",
+                  borderColor: isCorrect ? "rgba(34,197,94,0.6)" : isMissed ? "rgba(234,179,8,0.5)" : isFalseAlarm ? "rgba(239,68,68,0.5)" : "rgba(255,255,255,0.08)",
+                }}
+              >
+                <p className="text-2xl">{item.emoji ?? "◉"}</p>
+                <p className="text-xs font-semibold mt-1 text-white/80">{item.label}</p>
+                <p className="text-xs mt-0.5">{isCorrect ? "✓" : isMissed ? "○" : isFalseAlarm ? "✗" : ""}</p>
+              </div>
+            );
+          })}
+        </div>
+        <button
+          onClick={() => { setPhase("flash"); setSelected([]); setCompleted(false); onDone?.(score, round.targetItems.length); }}
+          className="mt-2 px-8 py-3 rounded-2xl font-bold text-white text-base active:scale-95 transition"
+          style={{ background: round.theme.accent }}
+        >
+          Weiter →
+        </button>
+      </div>
+    );
+  }
+
   return (
     <div
       className="rounded-[30px] border p-4 text-white shadow-2xl"
@@ -63,7 +118,6 @@ export default function MemoryRadarGame({ round, onDone }: Props) {
       <div className="mb-4 rounded-[24px] border border-white/10 bg-white/5 px-4 py-3 text-sm text-white/80">
         {phase === "flash" && "Merke dir die leuchtenden Ziele."}
         {phase === "select" && `Wähle genau ${round.selectionLimit} Elemente aus.`}
-        {phase === "done" && "Auswahl abgeschlossen."}
       </div>
 
       <div className="grid grid-cols-3 gap-3 sm:grid-cols-4">
