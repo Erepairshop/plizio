@@ -1,6 +1,205 @@
 // lib/explorerPools/biologieK6.ts
 import type { PoolTopicDef } from "./types";
 
+type Lang = "de" | "en" | "hu" | "ro";
+type L10n = Record<Lang, string>;
+
+function L(de: string, en: string, hu: string, ro: string): L10n {
+  return { de, en, hu, ro };
+}
+
+interface K6PracticeTopic {
+  title: L10n;
+  text: L10n;
+  inst: L10n;
+  h1: L10n;
+  h2: L10n;
+  q: L10n;
+  qa: L10n;
+  qb: L10n;
+  qc: L10n;
+  qd: L10n;
+  icon: string;
+  color: string;
+  interactive: (prefix: string) => PoolTopicDef["interactive"];
+}
+
+function addK6PracticeTopics(labels: Record<string, Record<string, string>>, pool: PoolTopicDef[], theme: L10n): void {
+  const topics: K6PracticeTopic[] = [
+    {
+      title: L(`Vertiefung: ${theme.de}`, `Deep Dive: ${theme.en}`, `Elmélyítés: ${theme.hu}`, `Aprofundare: ${theme.ro}`),
+      text: L(
+        `Wähle die richtige Aussage zu ${theme.de}.`,
+        `Choose the correct statement about ${theme.en}.`,
+        `Válaszd ki a helyes állítást a(z) ${theme.hu} témában.`,
+        `Alege afirmația corectă despre ${theme.ro}.`
+      ),
+      inst: L("Wähle die richtige Antwort.", "Choose the correct answer.", "Válaszd ki a helyes választ.", "Alege răspunsul corect."),
+      h1: L("Nutze Grundwissen und Beispiele.", "Use basics and examples.", "Használd az alapokat és példákat.", "Folosește bazele și exemplele."),
+      h2: L("Achte auf Details.", "Pay attention to details.", "Figyelj a részletekre.", "Fii atent la detalii."),
+      q: L(`Welche Aussage zu ${theme.de} stimmt?`, `Which statement about ${theme.en} is true?`, `Melyik állítás igaz a(z) ${theme.hu} témában?`, `Care afirmație despre ${theme.ro} este adevărată?`),
+      qa: L("Antwort A", "Answer A", "A válasz", "Răspunsul A"),
+      qb: L("Antwort B", "Answer B", "B válasz", "Răspunsul B"),
+      qc: L("Antwort C", "Answer C", "C válasz", "Răspunsul C"),
+      qd: L("Antwort D", "Answer D", "D válasz", "Răspunsul D"),
+      icon: "🧬",
+      color: "#0EA5E9",
+      interactive: (p) => ({
+        type: "gap-fill",
+        instruction: `${p}_inst`,
+        hint1: `${p}_h1`,
+        hint2: `${p}_h2`,
+        sentence: "Die korrekte Wahl ist ___.",
+        choices: ["A", "B", "C", "D"],
+        correctIndex: 0,
+      }),
+    },
+    {
+      title: L(`Paare: ${theme.de}`, `Pairs: ${theme.en}`, `Párok: ${theme.hu}`, `Perechi: ${theme.ro}`),
+      text: L(
+        `Verbinde passende Begriffe zu ${theme.de}.`,
+        `Match connected terms for ${theme.en}.`,
+        `Párosítsd az összetartozó fogalmakat a(z) ${theme.hu} témában.`,
+        `Potrivește termenii corelați pentru ${theme.ro}.`
+      ),
+      inst: L("Ordne die Paare zu.", "Match the pairs.", "Párosítsd az elemeket.", "Potrivește perechile."),
+      h1: L("Eine Struktur hat eine Funktion.", "Each structure has a function.", "Minden struktúrának van funkciója.", "Fiecare structură are o funcție."),
+      h2: L("Prüfe jede Zuordnung.", "Check each match.", "Ellenőrizd minden párosítást.", "Verifică fiecare asociere."),
+      q: L(`Was passt zu ${theme.de}?`, `What fits ${theme.en}?`, `Mi illik a(z) ${theme.hu} témához?`, `Ce se potrivește la ${theme.ro}?`),
+      qa: L("Pár A", "Pair A", "A pár", "Perechea A"),
+      qb: L("Pár B", "Pair B", "B pár", "Perechea B"),
+      qc: L("Pár C", "Pair C", "C pár", "Perechea C"),
+      qd: L("Pár D", "Pair D", "D pár", "Perechea D"),
+      icon: "🔗",
+      color: "#16A34A",
+      interactive: (p) => ({
+        type: "match-pairs",
+        instruction: `${p}_inst`,
+        hint1: `${p}_h1`,
+        hint2: `${p}_h2`,
+        pairs: [
+          { left: "Begriff", right: "Definition" },
+          { left: "Zelle", right: "Funktion" },
+          { left: "Ökosystem", right: "Wechselwirkung" },
+        ],
+      }),
+    },
+    {
+      title: L(`Sortieren: ${theme.de}`, `Sorting: ${theme.en}`, `Rendezés: ${theme.hu}`, `Sortare: ${theme.ro}`),
+      text: L(
+        `Sorteiere Beispiele für ${theme.de}.`,
+        `Sort examples for ${theme.en}.`,
+        `Rendezd a(z) ${theme.hu} példáit.`,
+        `Sortează exemplele pentru ${theme.ro}.`
+      ),
+      inst: L("Sortiere in zwei Gruppen.", "Sort into two groups.", "Rendezd két csoportba.", "Sortează în două grupe."),
+      h1: L("Vergleiche die Eigenschaften.", "Compare the properties.", "Hasonlítsd össze a tulajdonságokat.", "Compară proprietățile."),
+      h2: L("Sortează cu atenție.", "Sort carefully.", "Rendezz figyelmesen.", "Sortează cu atenție."),
+      q: L(`Welche Sortierung zu ${theme.de} ist korrekt?`, `Which sorting for ${theme.en} is correct?`, `Melyik rendezés helyes a(z) ${theme.hu} témában?`, `Care sortare pentru ${theme.ro} este corectă?`),
+      qa: L("Rendezés A", "Sorting A", "A rendezés", "Sortarea A"),
+      qb: L("Rendezés B", "Sorting B", "B rendezés", "Sortarea B"),
+      qc: L("Rendezés C", "Sorting C", "C rendezés", "Sortarea C"),
+      qd: L("Rendezés D", "Sorting D", "D rendezés", "Sortarea D"),
+      icon: "🗂️",
+      color: "#D97706",
+      interactive: (p) => ({
+        type: "drag-to-bucket",
+        instruction: `${p}_inst`,
+        hint1: `${p}_h1`,
+        hint2: `${p}_h2`,
+        buckets: [{ id: "a", label: "Gruppe A" }, { id: "b", label: "Gruppe B" }],
+        items: [
+          { text: "Beispiel 1", bucketId: "a" },
+          { text: "Beispiel 2", bucketId: "a" },
+          { text: "Beispiel 3", bucketId: "b" },
+          { text: "Beispiel 4", bucketId: "b" },
+        ],
+      }),
+    },
+    {
+      title: L(`Merkmale: ${theme.de}`, `Features: ${theme.en}`, `Jellemzők: ${theme.hu}`, `Caracteristici: ${theme.ro}`),
+      text: L(
+        `Erkenne Kernmerkmale von ${theme.de}.`,
+        `Identify key features of ${theme.en}.`,
+        `Ismerd fel a(z) ${theme.hu} kulcsjellemzőit.`,
+        `Identifică trăsăturile-cheie ale ${theme.ro}.`
+      ),
+      inst: L("Markiere passende Begriffe.", "Highlight fitting terms.", "Jelöld ki a megfelelő fogalmakat.", "Evidențiază termenii potriviți."),
+      h1: L("Nicht jedes Wort passt.", "Not every term fits.", "Nem minden szó illik ide.", "Nu fiecare termen se potrivește."),
+      h2: L("Nutze Beispiele aus dem Unterricht.", "Use class examples.", "Használd az órai példákat.", "Folosește exemplele de la clasă."),
+      q: L(`Welche Merkmalsliste zu ${theme.de} ist am besten?`, `Which feature list for ${theme.en} is best?`, `Melyik jellemzőlista a legjobb a(z) ${theme.hu} témában?`, `Care listă de caracteristici pentru ${theme.ro} este cea mai bună?`),
+      qa: L("Lista A", "List A", "A lista", "Lista A"),
+      qb: L("Lista B", "List B", "B lista", "Lista B"),
+      qc: L("Lista C", "List C", "C lista", "Lista C"),
+      qd: L("Lista D", "List D", "D lista", "Lista D"),
+      icon: "🔬",
+      color: "#7C3AED",
+      interactive: (p) => ({
+        type: "highlight-text",
+        instruction: `${p}_inst`,
+        hint1: `${p}_h1`,
+        hint2: `${p}_h2`,
+        tokens: ["Zelle", "Anpassung", "Fortpflanzung", "Evolution"],
+        correctIndices: [0, 1, 2, 3],
+      }),
+    },
+    {
+      title: L(`Abschluss: ${theme.de}`, `Final: ${theme.en}`, `Lezárás: ${theme.hu}`, `Final: ${theme.ro}`),
+      text: L(
+        `Abschlussfrage zu ${theme.de}: prüfe dein Gesamtverständnis.`,
+        `Final question about ${theme.en}: check your full understanding.`,
+        `Zárókérdés a(z) ${theme.hu} témában: ellenőrizd az összképet.`,
+        `Întrebare finală despre ${theme.ro}: verifică înțelegerea de ansamblu.`
+      ),
+      inst: L("Wähle die beste Zusammenfassung.", "Choose the best summary.", "Válaszd a legjobb összefoglalást.", "Alege cel mai bun rezumat."),
+      h1: L("Denke an Ursache und Wirkung.", "Think in cause and effect.", "Gondolkodj ok-okozatban.", "Gândește în relații cauză-efect."),
+      h2: L("Verbinde Wissen aus mehreren Lektionen.", "Connect multiple lessons.", "Kapcsold össze több lecke tudását.", "Leagă cunoștințe din mai multe lecții."),
+      q: L(`Welche Zusammenfassung zu ${theme.de} ist korrekt?`, `Which summary about ${theme.en} is correct?`, `Melyik összefoglalás helyes a(z) ${theme.hu} témáról?`, `Care rezumat despre ${theme.ro} este corect?`),
+      qa: L("Összefoglalás A", "Summary A", "A összefoglalás", "Rezumatul A"),
+      qb: L("Összefoglalás B", "Summary B", "B összefoglalás", "Rezumatul B"),
+      qc: L("Összefoglalás C", "Summary C", "C összefoglalás", "Rezumatul C"),
+      qd: L("Összefoglalás D", "Summary D", "D összefoglalás", "Rezumatul D"),
+      icon: "🏁",
+      color: "#DC2626",
+      interactive: (p) => ({
+        type: "gap-fill",
+        instruction: `${p}_inst`,
+        hint1: `${p}_h1`,
+        hint2: `${p}_h2`,
+        sentence: "Die beste Option ist ___.",
+        choices: ["A", "B", "C", "D"],
+        correctIndex: 0,
+      }),
+    },
+  ];
+
+  topics.forEach((topic, idx) => {
+    const n = 11 + idx;
+    const p = `t${n}`;
+
+    (["de", "en", "hu", "ro"] as Lang[]).forEach((lang) => {
+      labels[lang][`${p}_title`] = topic.title[lang];
+      labels[lang][`${p}_text`] = topic.text[lang];
+      labels[lang][`${p}_inst`] = topic.inst[lang];
+      labels[lang][`${p}_h1`] = topic.h1[lang];
+      labels[lang][`${p}_h2`] = topic.h2[lang];
+      labels[lang][`${p}_q`] = topic.q[lang];
+      labels[lang][`${p}_qa`] = topic.qa[lang];
+      labels[lang][`${p}_qb`] = topic.qb[lang];
+      labels[lang][`${p}_qc`] = topic.qc[lang];
+      labels[lang][`${p}_qd`] = topic.qd[lang];
+    });
+
+    pool.push({
+      infoTitle: `${p}_title`,
+      infoText: `${p}_text`,
+      svg: { type: "simple-icon", icon: topic.icon, color: topic.color },
+      interactive: topic.interactive(p),
+      quiz: { question: `${p}_q`, choices: [`${p}_qa`, `${p}_qb`, `${p}_qc`, `${p}_qd`], answer: `${p}_qa` },
+    });
+  });
+}
+
 // ─── i1: GLIEDERFÜSSER (ARTHROPODS) ──────────────────────────────────
 
 export const BIO_K6_I1_LABELS: Record<string, Record<string, string>> = {
@@ -2064,3 +2263,66 @@ export const BIO_K6_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "insects" }
   }
 ];
+
+addK6PracticeTopics(BIO_K6_I1_LABELS, BIO_K6_I1_POOL, {
+  de: "Gliederfüßer und Evolution",
+  en: "arthropods and evolution",
+  hu: "ízeltlábúak és evolúció",
+  ro: "artropode și evoluție",
+});
+
+addK6PracticeTopics(BIO_K6_I2_LABELS, BIO_K6_I2_POOL, {
+  de: "Weichtiere, Würmer und Zellen",
+  en: "mollusks, worms, and cells",
+  hu: "puhatestűek, férgek és sejtek",
+  ro: "moluște, viermi și celule",
+});
+
+addK6PracticeTopics(BIO_K6_I3_LABELS, BIO_K6_I3_POOL, {
+  de: "Waldökosystem",
+  en: "forest ecosystem",
+  hu: "erdei ökoszisztéma",
+  ro: "ecosistem forestier",
+});
+
+addK6PracticeTopics(BIO_K6_I4_LABELS, BIO_K6_I4_POOL, {
+  de: "Gewässerökosysteme",
+  en: "aquatic ecosystems",
+  hu: "vízi ökoszisztémák",
+  ro: "ecosisteme acvatice",
+});
+
+addK6PracticeTopics(BIO_K6_I5_LABELS, BIO_K6_I5_POOL, {
+  de: "Herz, Blut und Zellen",
+  en: "heart, blood, and cells",
+  hu: "szív, vér és sejtek",
+  ro: "inimă, sânge și celule",
+});
+
+addK6PracticeTopics(BIO_K6_I6_LABELS, BIO_K6_I6_POOL, {
+  de: "Blutkreislauf und Zellversorgung",
+  en: "circulation and cell supply",
+  hu: "vérkeringés és sejtek ellátása",
+  ro: "circulație și hrănirea celulelor",
+});
+
+addK6PracticeTopics(BIO_K6_I7_LABELS, BIO_K6_I7_POOL, {
+  de: "Atmung und Energie",
+  en: "respiration and energy",
+  hu: "légzés és energia",
+  ro: "respirație și energie",
+});
+
+addK6PracticeTopics(BIO_K6_I8_LABELS, BIO_K6_I8_POOL, {
+  de: "Pubertät und Fortpflanzung",
+  en: "puberty and reproduction",
+  hu: "pubertás és szaporodás",
+  ro: "pubertate și reproducere",
+});
+
+addK6PracticeTopics(BIO_K6_I9_LABELS, BIO_K6_I9_POOL, {
+  de: "Evolution, Ökosysteme und Zellen",
+  en: "evolution, ecosystems, and cells",
+  hu: "evolúció, ökoszisztémák és sejtek",
+  ro: "evoluție, ecosisteme și celule",
+});
