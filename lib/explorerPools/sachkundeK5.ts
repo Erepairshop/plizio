@@ -1090,3 +1090,213 @@ export const FINALE_K5_POOL: PoolTopicDef[] = [
   }
 ];
 
+type K5Lang = "de" | "en" | "hu" | "ro";
+type K5L10n = Record<K5Lang, string>;
+
+interface K5PracticeConfig {
+  topic: K5L10n;
+  focus: K5L10n;
+  hint1: K5L10n;
+  hint2: K5L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const K5_PRACTICE_INSTRUCTIONS: Record<K5Lang, string[]> = {
+  de: [
+    "Wähle passende Beispiele.",
+    "Sortiere die Aussagen nach Funktion.",
+    "Nutze Begriffe und ordne sie zu.",
+    "Verbinde Ursache und Wirkung.",
+    "Prüfe die Zusammenhänge.",
+    "Finde die richtige Reihenfolge.",
+    "Wähle die beste Aussage."
+  ],
+  en: [
+    "Choose fitting examples.",
+    "Sort the statements by function.",
+    "Use terms and classify them.",
+    "Link cause and effect.",
+    "Check the connections.",
+    "Find the correct order.",
+    "Choose the best statement."
+  ],
+  hu: [
+    "Válaszd ki a helyes példákat.",
+    "Rendezd a kijelentéseket funkció szerint.",
+    "Használd a fogalmakat, és párosítsd őket.",
+    "Kösd össze az okot és a következményt.",
+    "Ellenőrizd az összefüggéseket.",
+    "Találd meg a helyes sorrendet.",
+    "Válaszd a legjobb állítást."
+  ],
+  ro: [
+    "Sortează exemplele potrivite.",
+    "Sortează afirmațiile după funcție.",
+    "Folosește termenii și clasifică-i.",
+    "Leagă cauza de efect.",
+    "Verifică legăturile.",
+    "Găsește ordinea corectă.",
+    "Alege afirmația corectă."
+  ],
+};
+
+function ensureK5Lang(labels: Record<string, Record<string, string>>, lang: K5Lang): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Sachkunde Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addSachkundeK5PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: K5PracticeConfig
+): void {
+  const langs: K5Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "easy", "medium", "medium", "hard", "hard", "hard"];
+  const counts = [2, 3, 4, 2, 3, 4, 5];
+
+  for (let i = 0; i < 7; i += 1) {
+    const n = i + 9;
+    const key = `t${n}`;
+    for (const lang of langs) {
+      const bucket = ensureK5Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit kurzen Beispielen und Zusammenhängen.` :
+        lang === "en" ? `${cfg.focus.en} through short examples and clear links.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákon és összefüggéseken keresztül.` :
+        `${cfg.focus.ro} prin exemple scurte și legături clare.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = K5_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const SACHKUNDE_K5_PRACTICE_CONFIGS: K5PracticeConfig[] = [
+  {
+    topic: { de: "Skelett & Muskeln", en: "Skeleton & Muscles", hu: "Csontváz és izmok", ro: "Schelet și mușchi" },
+    focus: { de: "Bewegungsapparat", en: "Locomotor system", hu: "Mozgatórendszer", ro: "Sistemul locomotor" },
+    hint1: { de: "Knochen", en: "Bones", hu: "Csontok", ro: "Oase" },
+    hint2: { de: "Gelenke", en: "Joints", hu: "Ízületek", ro: "Articulații" },
+    quiz: "skeleton_muscles",
+    icon: "🦴",
+    color: "#3B82F6",
+    emoji: "💪",
+  },
+  {
+    topic: { de: "Zellen", en: "Cells", hu: "Sejtek", ro: "Celule" },
+    focus: { de: "Zellbiologie", en: "Cell biology", hu: "Sejtbiológia", ro: "Biologie celulară" },
+    hint1: { de: "Mikroskop", en: "Microscope", hu: "Mikroszkóp", ro: "Microscop" },
+    hint2: { de: "Bausteine", en: "Building blocks", hu: "Építőkövek", ro: "Cărămizi" },
+    quiz: "cell_biology",
+    icon: "🔬",
+    color: "#10B981",
+    emoji: "🦠",
+  },
+  {
+    topic: { de: "Tiere im Winter", en: "Animals in Winter", hu: "Állatok télen", ro: "Animale iarna" },
+    focus: { de: "Überlebensstrategien", en: "Survival strategies", hu: "Túlélési stratégiák", ro: "Strategii de supraviețuire" },
+    hint1: { de: "Winterschlaf", en: "Hibernation", hu: "Téli álom", ro: "Hibernare" },
+    hint2: { de: "Winterruhe", en: "Winter rest", hu: "Téli pihenő", ro: "Odihnă de iarnă" },
+    quiz: "animals_winter",
+    icon: "❄️",
+    color: "#0EA5E9",
+    emoji: "🦔",
+  },
+  {
+    topic: { de: "Steinzeit", en: "Stone Age", hu: "Kőkorszak", ro: "Epoca de piatră" },
+    focus: { de: "Leben früher", en: "Life in the past", hu: "Élet a múltban", ro: "Viața în trecut" },
+    hint1: { de: "Werkzeuge", en: "Tools", hu: "Eszközök", ro: "Unelte" },
+    hint2: { de: "Feuer", en: "Fire", hu: "Tűz", ro: "Foc" },
+    quiz: "stone_age",
+    icon: "🪨",
+    color: "#7C3AED",
+    emoji: "🔥",
+  },
+  {
+    topic: { de: "Europa", en: "Europe", hu: "Európa", ro: "Europa" },
+    focus: { de: "Geografie", en: "Geography", hu: "Földrajz", ro: "Geografie" },
+    hint1: { de: "Länder", en: "Countries", hu: "Országok", ro: "Țări" },
+    hint2: { de: "Hauptstädte", en: "Capitals", hu: "Fővárosok", ro: "Capitale" },
+    quiz: "europe_geography",
+    icon: "🌍",
+    color: "#F59E0B",
+    emoji: "🗺️",
+  },
+  {
+    topic: { de: "Physik", en: "Physics", hu: "Fizika", ro: "Fizică" },
+    focus: { de: "Strom & Magnete", en: "Electricity & Magnets", hu: "Áram és mágnesek", ro: "Electricitate și magneți" },
+    hint1: { de: "Stromkreis", en: "Circuit", hu: "Áramkör", ro: "Circuit" },
+    hint2: { de: "Pole", en: "Poles", hu: "Pólusok", ro: "Poli" },
+    quiz: "physics_basics",
+    icon: "⚡",
+    color: "#EF4444",
+    emoji: "🧲",
+  },
+  {
+    topic: { de: "Wetter & Wasser", en: "Weather & Water", hu: "Időjárás és víz", ro: "Vreme și apă" },
+    focus: { de: "Wasserkreislauf", en: "Water cycle", hu: "Víz körforgása", ro: "Ciclul apei" },
+    hint1: { de: "Regen", en: "Rain", hu: "Eső", ro: "Ploaie" },
+    hint2: { de: "Wolken", en: "Clouds", hu: "Felhők", ro: "Nori" },
+    quiz: "weather_water",
+    icon: "🌧️",
+    color: "#3B82F6",
+    emoji: "💧",
+  },
+  {
+    topic: { de: "Pflanzen", en: "Plants", hu: "Növények", ro: "Plante" },
+    focus: { de: "Aufbau & Wachstum", en: "Structure & growth", hu: "Felépítés és növekedés", ro: "Structură și creștere" },
+    hint1: { de: "Blüte", en: "Flower", hu: "Virág", ro: "Floare" },
+    hint2: { de: "Wurzel", en: "Root", hu: "Gyökér", ro: "Rădăcină" },
+    quiz: "plants_basics",
+    icon: "🌱",
+    color: "#10B981",
+    emoji: "🌻",
+  },
+  {
+    topic: { de: "K5 Finale", en: "K5 Finale", hu: "K5 Finálé", ro: "Finala K5" },
+    focus: { de: "Wiederholung", en: "Review", hu: "Ismétlés", ro: "Recapitulare" },
+    hint1: { de: "Wissen", en: "Knowledge", hu: "Tudás", ro: "Cunoștințe" },
+    hint2: { de: "Test", en: "Test", hu: "Teszt", ro: "Test" },
+    quiz: "k5_review",
+    icon: "🎓",
+    color: "#8B5CF6",
+    emoji: "⭐",
+  },
+];
+
+addSachkundeK5PracticeTopics(SKELETT_K5_LABELS, SKELETT_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[0]);
+addSachkundeK5PracticeTopics(ZELLE_K5_LABELS, ZELLE_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[1]);
+addSachkundeK5PracticeTopics(TIERE_WINTER_K5_LABELS, TIERE_WINTER_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[2]);
+addSachkundeK5PracticeTopics(STEINZEIT_K5_LABELS, STEINZEIT_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[3]);
+addSachkundeK5PracticeTopics(EUROPA_GEO_K5_LABELS, EUROPA_GEO_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[4]);
+addSachkundeK5PracticeTopics(PHYSIK_K5_LABELS, PHYSIK_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[5]);
+addSachkundeK5PracticeTopics(WASSER_WETTER_K5_LABELS, WASSER_WETTER_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[6]);
+addSachkundeK5PracticeTopics(PFLANZEN_K5_LABELS, PFLANZEN_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[7]);
+addSachkundeK5PracticeTopics(FINALE_K5_LABELS, FINALE_K5_POOL, SACHKUNDE_K5_PRACTICE_CONFIGS[8]);
+

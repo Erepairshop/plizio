@@ -1090,3 +1090,213 @@ export const FINALE_K6_POOL: PoolTopicDef[] = [
   }
 ];
 
+type K6Lang = "de" | "en" | "hu" | "ro";
+type K6L10n = Record<K6Lang, string>;
+
+interface K6PracticeConfig {
+  topic: K6L10n;
+  focus: K6L10n;
+  hint1: K6L10n;
+  hint2: K6L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const K6_PRACTICE_INSTRUCTIONS: Record<K6Lang, string[]> = {
+  de: [
+    "Wähle passende Beispiele.",
+    "Sortiere die Aussagen nach Funktion.",
+    "Nutze Begriffe und ordne sie zu.",
+    "Verbinde Ursache und Wirkung.",
+    "Prüfe die Zusammenhänge.",
+    "Finde die richtige Reihenfolge.",
+    "Wähle die beste Aussage."
+  ],
+  en: [
+    "Choose fitting examples.",
+    "Sort the statements by function.",
+    "Use terms and classify them.",
+    "Link cause and effect.",
+    "Check the connections.",
+    "Find the correct order.",
+    "Choose the best statement."
+  ],
+  hu: [
+    "Válaszd ki a helyes példákat.",
+    "Rendezd a kijelentéseket funkció szerint.",
+    "Használd a fogalmakat, és párosítsd őket.",
+    "Kösd össze az okot és a következményt.",
+    "Ellenőrizd az összefüggéseket.",
+    "Találd meg a helyes sorrendet.",
+    "Válaszd a legjobb állítást."
+  ],
+  ro: [
+    "Sortează exemplele potrivite.",
+    "Sortează afirmațiile după funcție.",
+    "Folosește termenii și clasifică-i.",
+    "Leagă cauza de efect.",
+    "Verifică legăturile.",
+    "Găsește ordinea corectă.",
+    "Alege afirmația corectă."
+  ],
+};
+
+function ensureK6Lang(labels: Record<string, Record<string, string>>, lang: K6Lang): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Sachkunde Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addSachkundeK6PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: K6PracticeConfig
+): void {
+  const langs: K6Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "easy", "medium", "medium", "hard", "hard", "hard"];
+  const counts = [2, 3, 4, 2, 3, 4, 5];
+
+  for (let i = 0; i < 7; i += 1) {
+    const n = i + 9;
+    const key = `t${n}`;
+    for (const lang of langs) {
+      const bucket = ensureK6Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit kurzen Beispielen und Zusammenhängen.` :
+        lang === "en" ? `${cfg.focus.en} through short examples and clear links.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákon és összefüggéseken keresztül.` :
+        `${cfg.focus.ro} prin exemple scurte și legături clare.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = K6_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const SACHKUNDE_K6_PRACTICE_CONFIGS: K6PracticeConfig[] = [
+  {
+    topic: { de: "Pubertät", en: "Puberty", hu: "Pubertás", ro: "Pubertate" },
+    focus: { de: "Körperliche Veränderungen", en: "Physical changes", hu: "Testi változások", ro: "Schimbări fizice" },
+    hint1: { de: "Hormone", en: "Hormones", hu: "Hormonok", ro: "Hormoni" },
+    hint2: { de: "Gefühle", en: "Feelings", hu: "Érzések", ro: "Sentimente" },
+    quiz: "puberty_body",
+    icon: "🧑",
+    color: "#3B82F6",
+    emoji: "🧠",
+  },
+  {
+    topic: { de: "Demokratie", en: "Democracy", hu: "Demokrácia", ro: "Democrație" },
+    focus: { de: "Wahlen & Rechte", en: "Elections & rights", hu: "Választások és jogok", ro: "Alegeri și drepturi" },
+    hint1: { de: "Grundgesetz", en: "Constitution", hu: "Alaptörvény", ro: "Constituție" },
+    hint2: { de: "Parteien", en: "Parties", hu: "Pártok", ro: "Partide" },
+    quiz: "democracy_elections",
+    icon: "🗳️",
+    color: "#10B981",
+    emoji: "⚖️",
+  },
+  {
+    topic: { de: "Medien", en: "Media", hu: "Média", ro: "Media" },
+    focus: { de: "Internet & Sicherheit", en: "Internet & security", hu: "Internet és biztonság", ro: "Internet și securitate" },
+    hint1: { de: "Datenschutz", en: "Data protection", hu: "Adatvédelem", ro: "Protecția datelor" },
+    hint2: { de: "Fake News", en: "Fake news", hu: "Álhírek", ro: "Știri false" },
+    quiz: "media_internet",
+    icon: "📱",
+    color: "#0EA5E9",
+    emoji: "🔒",
+  },
+  {
+    topic: { de: "Klima", en: "Climate", hu: "Klíma", ro: "Climă" },
+    focus: { de: "Erderwärmung", en: "Global warming", hu: "Globális felmelegedés", ro: "Încălzirea globală" },
+    hint1: { de: "Treibhauseffekt", en: "Greenhouse effect", hu: "Üvegházhatás", ro: "Efect de seră" },
+    hint2: { de: "CO2", en: "CO2", hu: "CO2", ro: "CO2" },
+    quiz: "climate_change",
+    icon: "🌡️",
+    color: "#EF4444",
+    emoji: "🌍",
+  },
+  {
+    topic: { de: "Erde & Welt", en: "Earth & World", hu: "Föld és világ", ro: "Pământ și lume" },
+    focus: { de: "Kontinente", en: "Continents", hu: "Kontinensek", ro: "Continente" },
+    hint1: { de: "Ozeane", en: "Oceans", hu: "Óceánok", ro: "Oceane" },
+    hint2: { de: "Länder", en: "Countries", hu: "Országok", ro: "Țări" },
+    quiz: "earth_continents",
+    icon: "🗺️",
+    color: "#F59E0B",
+    emoji: "🧭",
+  },
+  {
+    topic: { de: "Optik", en: "Optics", hu: "Optika", ro: "Optică" },
+    focus: { de: "Licht & Schatten", en: "Light & shadow", hu: "Fény és árnyék", ro: "Lumină și umbră" },
+    hint1: { de: "Reflexion", en: "Reflection", hu: "Visszaverődés", ro: "Reflexie" },
+    hint2: { de: "Brechung", en: "Refraction", hu: "Fénytörés", ro: "Refracție" },
+    quiz: "optics_light",
+    icon: "💡",
+    color: "#FACC15",
+    emoji: "👁️",
+  },
+  {
+    topic: { de: "Schall", en: "Sound", hu: "Hang", ro: "Sunet" },
+    focus: { de: "Töne & Hören", en: "Tones & hearing", hu: "Hangok és hallás", ro: "Tonuri și auz" },
+    hint1: { de: "Schwingung", en: "Vibration", hu: "Rezgés", ro: "Vibrație" },
+    hint2: { de: "Ohr", en: "Ear", hu: "Fül", ro: "Ureche" },
+    quiz: "sound_waves",
+    icon: "🔊",
+    color: "#8B5CF6",
+    emoji: "👂",
+  },
+  {
+    topic: { de: "Ökosystem Teich", en: "Pond Ecosystem", hu: "Tó ökoszisztéma", ro: "Ecosistemul iazului" },
+    focus: { de: "Tiere & Pflanzen", en: "Animals & plants", hu: "Állatok és növények", ro: "Animale și plante" },
+    hint1: { de: "Nahrungskette", en: "Food chain", hu: "Tápláléklánc", ro: "Lanț trofic" },
+    hint2: { de: "Zonen", en: "Zones", hu: "Zónák", ro: "Zone" },
+    quiz: "pond_ecosystem",
+    icon: "🐸",
+    color: "#10B981",
+    emoji: "🦆",
+  },
+  {
+    topic: { de: "K6 Finale", en: "K6 Finale", hu: "K6 Finálé", ro: "Finala K6" },
+    focus: { de: "Wiederholung", en: "Review", hu: "Ismétlés", ro: "Recapitulare" },
+    hint1: { de: "Wissen", en: "Knowledge", hu: "Tudás", ro: "Cunoștințe" },
+    hint2: { de: "Test", en: "Test", hu: "Teszt", ro: "Test" },
+    quiz: "k6_review",
+    icon: "🎓",
+    color: "#8B5CF6",
+    emoji: "⭐",
+  },
+];
+
+addSachkundeK6PracticeTopics(PUBERTAET_K6_LABELS, PUBERTAET_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[0]);
+addSachkundeK6PracticeTopics(DEMOKRATIE_K6_LABELS, DEMOKRATIE_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[1]);
+addSachkundeK6PracticeTopics(MEDIEN_K6_LABELS, MEDIEN_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[2]);
+addSachkundeK6PracticeTopics(KLIMA_GLOB_K6_LABELS, KLIMA_GLOB_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[3]);
+addSachkundeK6PracticeTopics(ERDE_WELT_K6_LABELS, ERDE_WELT_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[4]);
+addSachkundeK6PracticeTopics(OPTIK_K6_LABELS, OPTIK_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[5]);
+addSachkundeK6PracticeTopics(SCHALL_K6_LABELS, SCHALL_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[6]);
+addSachkundeK6PracticeTopics(OEKOSYSTEM_TEICH_K6_LABELS, OEKOSYSTEM_TEICH_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[7]);
+addSachkundeK6PracticeTopics(FINALE_K6_LABELS, FINALE_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[8]);
+
