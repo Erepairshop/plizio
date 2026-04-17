@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i4.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I4_LABELS: Record<string, Record<string, string>> = {
@@ -30,16 +29,16 @@ export const INFO_K6_I4_LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Informatika Felfedező K6-4",
-    t1_title: "Felhőtárhely", t1_text: "A felhőtárhely lehetővé teszi fájlok internetes tárolását, bárhonnan elérhető.", t1_inst: "Párosítsd össze:", t1_h1: "Felhő = internetes tárolás!", t1_h2: "Mindenhonnan elérhető.", t1_q: "Mi a felhőtárhely?", t1_qa: "Fájlok tárolása az interneten", t1_qb: "Tárolás USB-n", t1_qc: "Helyi merevlemez", t1_qd: "Nyomtató",
+    t1_title: "Felhőtárhely", t1_text: "A felhőtárhely lehetővé teszi fájlok internetes tárolását, így bárhonnan elérhetők.", t1_inst: "Párosítsd össze:", t1_h1: "Felhő = internetes tárolás!", t1_h2: "Mindenhonnan elérhető.", t1_q: "Mi a felhőtárhely?", t1_qa: "Fájlok tárolása az interneten", t1_qb: "Tárolás USB-n", t1_qc: "Helyi merevlemez", t1_qd: "Nyomtató",
     t1_l1: "Felhő", t1_r1: "Internetes tárolás", t1_l2: "Helyi", t1_r2: "Saját merevlemez", t1_l3: "Backup", t1_r3: "Biztonsági másolat",
     t2_title: "Google Drive", t2_text: "A Google Drive dokumentumok, fotók és videók felhőszolgáltatása.", t2_inst: "Töltsd ki a hiányt:", t2_h1: "A Google Drive a Google-höz tartozik.", t2_h2: "Ingyenes 15 GB-ig!", t2_q: "Melyik céghez tartozik a Google Drive?", t2_qa: "Google", t2_qb: "Microsoft", t2_qc: "Apple", t2_qd: "Amazon",
     t2_sent: "A Google Drive a ___ céghez tartozik.", t2_qa2: "Google", t2_qb2: "Microsoft", t2_qc2: "Apple", t2_qd2: "Facebook",
-    t3_title: "Fájlok megosztása", t3_text: "A felhőben fájlokat oszthatunk meg másokkal és együtt szerkeszthetjük.", t3_inst: "Válogasd szét:", t3_h1: "Mit lehet a felhőben megosztani?", t3_h2: "Dokumentumok, fotók, videók!", t3_q: "Mit oszthatunk meg másokkal a felhőben?", t3_qa: "Dokumentumokat és fájlokat", t3_qb: "Csak jelszavakat", t3_qc: "Csak hardvert", t3_qd: "Csak operációs rendszereket",
+    t3_title: "Fájlok megosztása", t3_text: "A felhőben fájlokat oszthatunk meg másokkal, és együtt szerkeszthetjük őket.", t3_inst: "Válogasd szét:", t3_h1: "Mit lehet a felhőben megosztani?", t3_h2: "Dokumentumok, fotók, videók!", t3_q: "Mit oszthatunk meg másokkal a felhőben?", t3_qa: "Dokumentumokat és fájlokat", t3_qb: "Csak jelszavakat", t3_qc: "Csak hardvert", t3_qd: "Csak operációs rendszereket",
     t3_bl1: "Felhő-képes", t3_bl2: "Nem felhő", t3_i1: "Szöveges dokumentum", t3_i2: "Fizikai USB stick", t3_i3: "Fotó", t3_i4: "Papíros nyomtatvány",
     t4_title: "Szinkronizálás", t4_text: "A szinkronizálás azt jelenti, hogy a fájlok mindig naprakészek minden eszközön.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "Szinkron = mindenhol naprakész.", t4_h2: "PC, tablet, telefon!", t4_q: "Mit jelent a szinkronizálás?", t4_qa: "Fájlokat naprakészen tart minden eszközön", t4_qb: "Fájlokat töröl", t4_qc: "Fájlokat nyomtat", t4_qd: "Internetet kikapcsol",
     t4_w1: "A szinkronizálás", t4_w2: "minden eszközön", t4_w3: "naprakészen", t4_w4: "tartja", t4_w5: "a fájlokat.", t4_w6: "", t4_w7: "",
-    t5_title: "OneDrive", t5_text: "A OneDrive a Microsoft felhőszolgáltatása, Windowsba integrálva.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "A OneDrive a Microsofthoz tartozik.", t5_h2: "Windowsba beépítve!", t5_q: "Melyik céghez tartozik a OneDrive?", t5_qa: "Microsoft", t5_qb: "Google", t5_qc: "Apple", t5_qd: "Amazon",
-    t5_tk1: "A OneDrive", t5_tk2: "a Microsoft", t5_tk3: "felhőszolgáltatása.", t5_tk4: "", t5_tk5: "", t5_tk6: "",
+    t5_title: "OneDrive", t5_text: "A OneDrive a Microsoft felhőszolgáltatása, amely a Windowsba van integrálva.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "A OneDrive a Microsofthoz tartozik.", t5_h2: "Windowsba beépítve!", t5_q: "Melyik céghez tartozik a OneDrive?", t5_qa: "Microsoft", t5_qb: "Google", t5_qc: "Apple", t5_qd: "Amazon",
+    t5_tk1: "A OneDrive", t5_tk2: "a", t5_tk3: "Microsoft", t5_tk4: "felhőszolgáltatása.", t5_tk5: "", t5_tk6: "",
   },
   ro: {
     explorer_title: "Explorator Informatică K6-4",
@@ -84,7 +83,7 @@ export const INFO_K6_I4_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t5_title", infoText: "t5_text",
     svg: { type: "simple-icon", icon: "🪟", color: "#0078D4" },
-    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3"], correctIndices: [0] },
+    interactive: { type: "highlight-text", instruction: "t5_inst", hint1: "t5_h1", hint2: "t5_h2", tokens: ["t5_tk1","t5_tk2","t5_tk3","t5_tk4"], correctIndices: [0] },
     quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" }
   }
 ];

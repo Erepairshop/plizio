@@ -212,7 +212,7 @@ export const INFO_K7_I9_POOL: PoolTopicDef[] = [
     infoTitle: "t11_title", infoText: "t11_text",
     svg: { type: "simple-icon", icon: "⚙️", bg: "#EFF6FF", color: "#2563EB" },
     interactive: { type: "gap-fill", instruction: "t11_inst", hint1: "t11_h1", hint2: "t11_h2", sentence: "t11_sent", choices: ["t11_c1", "t11_c2", "t11_c3", "t11_c4"], correctIndex: 0 },
-    quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qa"], answer: "t11_qa" }
+    quiz: { question: "t11_q", choices: ["t11_qa", "t11_qb", "t11_qc", "t11_qd"], answer: "t11_qa" }
   },
   {
     difficulty: "easy",

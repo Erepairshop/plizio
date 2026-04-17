@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i6.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
@@ -11,9 +10,9 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Head und Body", t3_text: "<head> enthält Metadaten, <body> den sichtbaren Inhalt.", t3_inst: "Sortiere in die Eimer:", t3_h1: "Metadaten oder Inhalt?", t3_h2: "Head = Infos, Body = Inhalt.", t3_q: "Was gehört in den <head>-Bereich?", t3_qa: "Titel und Metadaten", t3_qb: "Text und Bilder", t3_qc: "Buttons und Links", t3_qd: "Videos und Audio",
     t3_bl1: "<head>", t3_bl2: "<body>", t3_i1: "<title>", t3_i2: "<p>Text</p>", t3_i3: "<meta>", t3_i4: "<img>",
     t4_title: "Absatz-Tag", t4_text: "Der <p>-Tag erstellt einen neuen Textabsatz in HTML.", t4_inst: "Bringe die Wörter in Ordnung:", t4_h1: "<p> = Absatz.", t4_h2: "Paragraphen strukturieren!", t4_q: "Welcher Tag erstellt einen Absatz in HTML?", t4_qa: "<p>", t4_qb: "<h1>", t4_qc: "<div>", t4_qd: "<span>",
-    t4_w1: "Der", t4_w2: "<p>-Tag", t4_w3: "erstellt", t4_w4: "einen", t4_w5: "Textabsatz.", t4_w6: "", t4_w7: "",
+    t4_w1: "Der <p>-Tag", t4_w2: "erstellt", t4_w3: "einen", t4_w4: "Textabsatz.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Überschriften in HTML", t5_text: "<h1> ist die größte Überschrift, <h6> die kleinste in HTML.", t5_inst: "Markiere das richtige Wort:", t5_h1: "h1 = größte Überschrift.", t5_h2: "h6 = kleinste Überschrift!", t5_q: "Welcher Tag ist die größte Überschrift?", t5_qa: "<h1>", t5_qb: "<h6>", t5_qc: "<p>", t5_qd: "<div>",
-    t5_tk1: "<h1>", t5_tk2: "ist", t5_tk3: "die größte", t5_tk4: "Überschrift", t5_tk5: "in HTML.", t5_tk6: "",
+    t5_tk1: "<h1>", t5_tk2: "ist die größte", t5_tk3: "Überschrift", t5_tk4: "in HTML.", t5_tk5: "", t5_tk6: "",
   },
   en: {
     explorer_title: "Informatics Explorer K6-6",
@@ -24,13 +23,13 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Head and Body", t3_text: "<head> contains metadata, <body> contains the visible content.", t3_inst: "Sort into buckets:", t3_h1: "Metadata or content?", t3_h2: "Head = info, Body = content.", t3_q: "What belongs in the <head> section?", t3_qa: "Title and metadata", t3_qb: "Text and images", t3_qc: "Buttons and links", t3_qd: "Videos and audio",
     t3_bl1: "<head>", t3_bl2: "<body>", t3_i1: "<title>", t3_i2: "<p>text</p>", t3_i3: "<meta>", t3_i4: "<img>",
     t4_title: "Paragraph Tag", t4_text: "The <p> tag creates a new text paragraph in HTML.", t4_inst: "Put the words in order:", t4_h1: "<p> = paragraph.", t4_h2: "Structure paragraphs!", t4_q: "Which tag creates a paragraph in HTML?", t4_qa: "<p>", t4_qb: "<h1>", t4_qc: "<div>", t4_qd: "<span>",
-    t4_w1: "The", t4_w2: "<p> tag", t4_w3: "creates", t4_w4: "a text", t4_w5: "paragraph.", t4_w6: "", t4_w7: "",
+    t4_w1: "The <p> tag", t4_w2: "creates", t4_w3: "a text", t4_w4: "paragraph.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Headings in HTML", t5_text: "<h1> is the largest heading, <h6> the smallest in HTML.", t5_inst: "Highlight the correct word:", t5_h1: "h1 = largest heading.", t5_h2: "h6 = smallest heading!", t5_q: "Which tag is the largest heading?", t5_qa: "<h1>", t5_qb: "<h6>", t5_qc: "<p>", t5_qd: "<div>",
-    t5_tk1: "<h1>", t5_tk2: "is", t5_tk3: "the largest", t5_tk4: "heading", t5_tk5: "in HTML.", t5_tk6: "",
+    t5_tk1: "<h1>", t5_tk2: "is the largest", t5_tk3: "heading", t5_tk4: "in HTML.", t5_tk5: "", t5_tk6: "",
   },
   hu: {
     explorer_title: "Informatika Felfedező K6-6",
-    t1_title: "HTML tag-ek", t1_text: "A HTML tag-ek csúcsos zárójelben lévő parancsok, amelyek struktúrálják a weboldalakat.", t1_inst: "Párosítsd össze:", t1_h1: "Tag megnyitása és bezárása!", t1_h2: "<tag>...</tag>", t1_q: "Hogyan néz ki egy HTML tag?", t1_qa: "<tag>tartalom</tag>", t1_qb: "[tag]tartalom[/tag]", t1_qc: "{tag}tartalom{/tag}", t1_qd: "(tag)tartalom(/tag)",
+    t1_title: "HTML tag-ek", t1_text: "A HTML tag-ek csúcsos zárójelben lévő parancsok, amelyek strukturálják a weboldalakat.", t1_inst: "Párosítsd össze:", t1_h1: "Tag megnyitása és bezárása!", t1_h2: "<tag>...</tag>", t1_q: "Hogyan néz ki egy HTML tag?", t1_qa: "<tag>tartalom</tag>", t1_qb: "[tag]tartalom[/tag]", t1_qc: "{tag}tartalom{/tag}", t1_qd: "(tag)tartalom(/tag)",
     t1_l1: "<h1>", t1_r1: "Nagy fejléc", t1_l2: "<p>", t1_r2: "Bekezdés", t1_l3: "<img>", t1_r3: "Kép",
     t2_title: "HTML alapstruktúra", t2_text: "Minden HTML oldal alapstruktúrája: <html>, <head> és <body>.", t2_inst: "Töltsd ki a hiányt:", t2_h1: "HTML > head + body", t2_h2: "A weboldal vázlata.", t2_q: "Mit tartalmaz a <body> tag?", t2_qa: "Az oldal látható tartalmát", t2_qb: "A böngészőfül nevét", t2_qc: "A CSS stílusokat", t2_qd: "A jelszót",
     t2_sent: "A ___ tartalmazza a weboldal látható tartalmát.", t2_qa2: "<body>", t2_qb2: "<head>", t2_qc2: "<html>", t2_qd2: "<style>",

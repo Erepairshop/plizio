@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i3.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I3_LABELS: Record<string, Record<string, string>> = {
@@ -11,7 +10,7 @@ export const INFO_K6_I3_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Webbrowser", t3_text: "Ein Browser ist das Programm, mit dem wir Webseiten besuchen (Chrome, Firefox).", t3_inst: "Sortiere in die Eimer:", t3_h1: "Browser oder Suchmaschine?", t3_h2: "Unterschied beachten!", t3_q: "Was ist ein Webbrowser?", t3_qa: "Ein Programm zum Besuchen von Webseiten", t3_qb: "Eine Suchmaschine", t3_qc: "Ein Betriebssystem", t3_qd: "Ein Antivirenprogramm",
     t3_bl1: "Browser", t3_bl2: "Suchmaschine", t3_i1: "Chrome", t3_i2: "Google", t3_i3: "Firefox", t3_i4: "Bing",
     t4_title: "Cookies", t4_text: "Cookies sind kleine Datenpakete, die Webseiten auf deinem Computer speichern.", t4_inst: "Bringe die Wörter in Ordnung:", t4_h1: "Cookies merken sich Infos.", t4_h2: "Angemeldet bleiben!", t4_q: "Wozu dienen Cookies?", t4_qa: "Webseiten speichern Einstellungen", t4_qb: "Bilder anzeigen", t4_qc: "Videos abspielen", t4_qd: "E-Mails senden",
-    t4_w1: "Cookies", t4_w2: "speichern", t4_w3: "Daten", t4_w4: "auf", t4_w5: "dem Computer.", t4_w6: "", t4_w7: "",
+    t4_w1: "Cookies", t4_w2: "speichern", t4_w3: "Daten", t4_w4: "auf dem Computer.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Cache (Zwischenspeicher)", t5_text: "Der Cache speichert Webseiteninhalte, damit sie beim nächsten Besuch schneller laden.", t5_inst: "Markiere das richtige Wort:", t5_h1: "Cache = schnelleres Laden.", t5_h2: "Gespeicherte Daten helfen!", t5_q: "Was macht der Browser-Cache?", t5_qa: "Beschleunigt das Laden von Seiten", t5_qb: "Löscht Dateien", t5_qc: "Schreibt E-Mails", t5_qd: "Druckt Seiten",
     t5_tk1: "Der Cache", t5_tk2: "beschleunigt", t5_tk3: "das Laden", t5_tk4: "von Webseiten.", t5_tk5: "", t5_tk6: "",
   },
@@ -24,7 +23,7 @@ export const INFO_K6_I3_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Web Browser", t3_text: "A browser is the program we use to visit websites (Chrome, Firefox).", t3_inst: "Sort into buckets:", t3_h1: "Browser or search engine?", t3_h2: "Notice the difference!", t3_q: "What is a web browser?", t3_qa: "A program for visiting websites", t3_qb: "A search engine", t3_qc: "An operating system", t3_qd: "An antivirus program",
     t3_bl1: "Browser", t3_bl2: "Search engine", t3_i1: "Chrome", t3_i2: "Google", t3_i3: "Firefox", t3_i4: "Bing",
     t4_title: "Cookies", t4_text: "Cookies are small data packages that websites store on your computer.", t4_inst: "Put the words in order:", t4_h1: "Cookies remember info.", t4_h2: "Stay logged in!", t4_q: "What are cookies for?", t4_qa: "Websites store settings", t4_qb: "Display images", t4_qc: "Play videos", t4_qd: "Send emails",
-    t4_w1: "Cookies", t4_w2: "store", t4_w3: "data", t4_w4: "on", t4_w5: "your computer.", t4_w6: "", t4_w7: "",
+    t4_w1: "Cookies", t4_w2: "store", t4_w3: "data", t4_w4: "on your computer.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Cache", t5_text: "The cache stores webpage content so it loads faster next time.", t5_inst: "Highlight the correct word:", t5_h1: "Cache = faster loading.", t5_h2: "Stored data helps!", t5_q: "What does the browser cache do?", t5_qa: "Speeds up loading of pages", t5_qb: "Deletes files", t5_qc: "Writes emails", t5_qd: "Prints pages",
     t5_tk1: "The cache", t5_tk2: "speeds up", t5_tk3: "loading", t5_tk4: "of webpages.", t5_tk5: "", t5_tk6: "",
   },
@@ -36,9 +35,9 @@ export const INFO_K6_I3_LABELS: Record<string, Record<string, string>> = {
     t2_sent: "A Google egy ismert ___.", t2_qa2: "keresőmotor", t2_qb2: "merevlemez", t2_qc2: "billentyűzet", t2_qd2: "kamera",
     t3_title: "Webböngésző", t3_text: "A böngésző az a program, amivel weboldalakat látogatunk (Chrome, Firefox).", t3_inst: "Válogasd szét:", t3_h1: "Böngésző vagy keresőmotor?", t3_h2: "Figyelj a különbségre!", t3_q: "Mi a webböngésző?", t3_qa: "Program weboldalak látogatásához", t3_qb: "Keresőmotor", t3_qc: "Operációs rendszer", t3_qd: "Vírusirtó program",
     t3_bl1: "Böngésző", t3_bl2: "Keresőmotor", t3_i1: "Chrome", t3_i2: "Google", t3_i3: "Firefox", t3_i4: "Bing",
-    t4_title: "Cookie-k", t4_text: "A cookie-k kis adatcsomagok, amelyeket a weboldalak tárolnak a számítógépeden.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "A cookie-k megjegyeznek infókat.", t4_h2: "Bejelentkezve maradni!", t4_q: "Mire valók a cookie-k?", t4_qa: "Weboldalak tárolják a beállításokat", t4_qb: "Képeket jelenítnek meg", t4_qc: "Videókat játszanak le", t4_qd: "E-maileket küldenek",
+    t4_title: "Cookie-k (sütik)", t4_text: "A cookie-k kis adatcsomagok, amelyeket a weboldalak tárolnak a számítógépeden.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "A cookie-k megjegyeznek infókat.", t4_h2: "Bejelentkezve maradni!", t4_q: "Mire valók a cookie-k?", t4_qa: "Weboldalak tárolják a beállításokat", t4_qb: "Képeket jelenítnek meg", t4_qc: "Videókat játszanak le", t4_qd: "E-maileket küldenek",
     t4_w1: "A cookie-k", t4_w2: "adatokat", t4_w3: "tárolnak", t4_w4: "a számítógépen.", t4_w5: "", t4_w6: "", t4_w7: "",
-    t5_title: "Gyorsítótár (cache)", t5_text: "A gyorsítótár tárolja a weboldalak tartalmát, hogy legközelebb gyorsabban töltődjön.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Cache = gyorsabb töltés.", t5_h2: "A tárolt adatok segítenek!", t5_q: "Mit csinál a böngésző gyorsítótára?", t5_qa: "Gyorsítja az oldalak betöltését", t5_qb: "Törli a fájlokat", t5_qc: "E-maileket ír", t5_qd: "Oldalakat nyomtat",
+    t5_title: "Gyorsítótár (cache)", t5_text: "A gyorsítótár tárolja a weboldalak tartalmát, hogy legközelebb gyorsabban betöltődjön.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Cache = gyorsabb töltés.", t5_h2: "A tárolt adatok segítenek!", t5_q: "Mit csinál a böngésző gyorsítótára?", t5_qa: "Gyorsítja az oldalak betöltését", t5_qb: "Törli a fájlokat", t5_qc: "E-maileket ír", t5_qd: "Oldalakat nyomtat",
     t5_tk1: "A gyorsítótár", t5_tk2: "gyorsítja", t5_tk3: "a weboldalak", t5_tk4: "betöltését.", t5_tk5: "", t5_tk6: "",
   },
   ro: {

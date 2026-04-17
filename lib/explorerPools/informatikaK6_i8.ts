@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i8.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I8_LABELS: Record<string, Record<string, string>> = {

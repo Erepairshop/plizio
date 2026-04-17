@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i9.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I9_LABELS: Record<string, Record<string, string>> = {
@@ -11,7 +10,7 @@ export const INFO_K6_I9_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Soziale Medien", t3_text: "Soziale Medien wie Instagram oder TikTok verbinden Menschen, aber hinterlassen Daten.", t3_inst: "Sortiere in die Eimer:", t3_h1: "Soziale Medien oder nicht?", t3_h2: "Instagram, TikTok, Facebook!", t3_q: "Was sind soziale Medien?", t3_qa: "Plattformen zum Teilen und Kommunizieren", t3_qb: "Textverarbeitungsprogramme", t3_qc: "Antivirenprogramme", t3_qd: "Betriebssysteme",
     t3_bl1: "Soziale Medien", t3_bl2: "Kein soziales Medium", t3_i1: "Instagram", t3_i2: "Word", t3_i3: "TikTok", t3_i4: "Excel",
     t4_title: "Löschbarkeit von Daten", t4_text: "Einmal ins Internet gestellte Daten sind fast nie wirklich weg – auch wenn du sie löschst.", t4_inst: "Bringe die Wörter in Ordnung:", t4_h1: "Gelöscht heißt nicht verschwunden!", t4_h2: "Denk nach, bevor du postest!", t4_q: "Was passiert mit Daten, die du online gelöscht hast?", t4_qa: "Sie können oft noch gefunden werden", t4_qb: "Sie sind sofort weg", t4_qc: "Sie werden automatisch gespeichert", t4_qd: "Sie werden gedruckt",
-    t4_w1: "Einmal", t4_w2: "online", t4_w3: "gestellte", t4_w4: "Daten", t4_w5: "bleiben oft erhalten.", t4_w6: "", t4_w7: "",
+    t4_w1: "Einmal online", t4_w2: "gestellte", t4_w3: "Daten", t4_w4: "bleiben erhalten.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Netiquette", t5_text: "Netiquette sind die Regeln des respektvollen Umgangs im Internet.", t5_inst: "Markiere das richtige Wort:", t5_h1: "Respekt auch online!", t5_h2: "Wie im echten Leben!", t5_q: "Was bedeutet Netiquette?", t5_qa: "Regeln für respektvolles Verhalten im Internet", t5_qb: "Eine neue Internettechnologie", t5_qc: "Ein Antivirenprogramm", t5_qd: "Eine Art Programmiercode",
     t5_tk1: "Netiquette", t5_tk2: "bedeutet", t5_tk3: "respektvolles", t5_tk4: "Verhalten im Netz.", t5_tk5: "", t5_tk6: "",
   },
@@ -24,7 +23,7 @@ export const INFO_K6_I9_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Social Media", t3_text: "Social media like Instagram or TikTok connects people, but leaves data.", t3_inst: "Sort into buckets:", t3_h1: "Social media or not?", t3_h2: "Instagram, TikTok, Facebook!", t3_q: "What is social media?", t3_qa: "Platforms for sharing and communicating", t3_qb: "Word processing programs", t3_qc: "Antivirus programs", t3_qd: "Operating systems",
     t3_bl1: "Social media", t3_bl2: "Not social media", t3_i1: "Instagram", t3_i2: "Word", t3_i3: "TikTok", t3_i4: "Excel",
     t4_title: "Data Deletion", t4_text: "Once posted online, data is almost never truly gone – even if you delete it.", t4_inst: "Put the words in order:", t4_h1: "Deleted doesn't mean gone!", t4_h2: "Think before you post!", t4_q: "What happens to data you delete online?", t4_qa: "It can often still be found", t4_qb: "It is immediately gone", t4_qc: "It is automatically saved", t4_qd: "It is printed",
-    t4_w1: "Once", t4_w2: "posted", t4_w3: "online,", t4_w4: "data", t4_w5: "often stays.", t4_w6: "", t4_w7: "",
+    t4_w1: "Once posted", t4_w2: "online,", t4_w3: "data", t4_w4: "often stays.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Netiquette", t5_text: "Netiquette are the rules of respectful behavior on the internet.", t5_inst: "Highlight the correct word:", t5_h1: "Respect online too!", t5_h2: "Like in real life!", t5_q: "What does netiquette mean?", t5_qa: "Rules for respectful behavior online", t5_qb: "A new internet technology", t5_qc: "An antivirus program", t5_qd: "A type of programming code",
     t5_tk1: "Netiquette", t5_tk2: "means", t5_tk3: "respectful", t5_tk4: "behavior online.", t5_tk5: "", t5_tk6: "",
   },
@@ -39,7 +38,7 @@ export const INFO_K6_I9_LABELS: Record<string, Record<string, string>> = {
     t4_title: "Adatok törölhetősége", t4_text: "Az egyszer internetre kerülő adatok szinte sosem tűnnek el teljesen – még ha töröljük is.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "Törölve nem jelent eltűnve!", t4_h2: "Gondolkodj, mielőtt posztolsz!", t4_q: "Mi történik az általad online törölt adatokkal?", t4_qa: "Sokszor még megtalálhatók", t4_qb: "Azonnal eltűnnek", t4_qc: "Automatikusan mentődnek", t4_qd: "Kinyomtatódnak",
     t4_w1: "Az egyszer", t4_w2: "internetre", t4_w3: "kerülő adatok", t4_w4: "sokszor megmaradnak.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Netiquette", t5_text: "A netiquette az internetes tisztelettudó viselkedés szabályai.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Online is tisztelet!", t5_h2: "Mint a valóságban!", t5_q: "Mit jelent a netiquette?", t5_qa: "Az online tisztelettudó viselkedés szabályai", t5_qb: "Egy új internetes technológia", t5_qc: "Vírusirtó program", t5_qd: "Egy programozási kód típusa",
-    t5_tk1: "A netiquette", t5_tk2: "a tisztelettudó", t5_tk3: "online viselkedés", t5_tk4: "szabályait jelenti.", t5_tk5: "", t5_tk6: "",
+    t5_tk1: "A netiquette", t5_tk2: "az online", t5_tk3: "tisztelettudó", t5_tk4: "viselkedést jelenti.", t5_tk5: "", t5_tk6: "",
   },
   ro: {
     explorer_title: "Explorator Informatică K6-9",
@@ -52,7 +51,7 @@ export const INFO_K6_I9_LABELS: Record<string, Record<string, string>> = {
     t4_title: "Posibilitatea de ștergere a datelor", t4_text: "Datele postate online nu dispar aproape niciodată complet – chiar dacă le ștergi.", t4_inst: "Pune cuvintele în ordine:", t4_h1: "Șters nu înseamnă dispărut!", t4_h2: "Gândește înainte de a posta!", t4_q: "Ce se întâmplă cu datele pe care le ștergi online?", t4_qa: "Pot fi adesea găsite în continuare", t4_qb: "Dispar imediat", t4_qc: "Se salvează automat", t4_qd: "Se tipăresc",
     t4_w1: "Odată postate", t4_w2: "online,", t4_w3: "datele", t4_w4: "rămân adesea.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Netiquette", t5_text: "Netiquette sunt regulile comportamentului respectuos pe internet.", t5_inst: "Evidențiază cuvântul corect:", t5_h1: "Respect și online!", t5_h2: "Ca în viața reală!", t5_q: "Ce înseamnă netiquette?", t5_qa: "Reguli pentru comportament respectuos online", t5_qb: "O nouă tehnologie internet", t5_qc: "Un program antivirus", t5_qd: "Un tip de cod de programare",
-    t5_tk1: "Netiquette", t5_tk2: "înseamnă", t5_tk3: "comportament", t5_tk4: "respectuos online.", t5_tk5: "", t5_tk6: "",
+    t5_tk1: "Netiquette", t5_tk2: "înseamnă", t5_tk3: "comportament respectuos", t5_tk4: "online.", t5_tk5: "", t5_tk6: "",
   }
 };
 

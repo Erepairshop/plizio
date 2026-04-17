@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i5.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I5_LABELS: Record<string, Record<string, string>> = {
@@ -11,9 +10,9 @@ export const INFO_K6_I5_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Anhänge", t3_text: "An eine E-Mail können wir Dateien als Anhang anfügen (Bilder, Dokumente).", t3_inst: "Sortiere in die Eimer:", t3_h1: "Was kann man anhängen?", t3_h2: "Dateien als Anhang!", t3_q: "Was ist ein E-Mail-Anhang?", t3_qa: "Eine Datei, die mitgeschickt wird", t3_qb: "Der Betreff", t3_qc: "Das Passwort", t3_qd: "Die Webseite",
     t3_bl1: "Kann als Anhang", t3_bl2: "Kein Anhang", t3_i1: "Foto", t3_i2: "Der Betreff-Text", t3_i3: "Dokument", t3_i4: "Absenderadresse",
     t4_title: "SPAM-Filter", t4_text: "SPAM-Filter sortieren unerwünschte E-Mails automatisch aus.", t4_inst: "Bringe die Wörter in Ordnung:", t4_h1: "Filter = sortieren.", t4_h2: "Spam geht in den Spam-Ordner!", t4_q: "Was macht ein SPAM-Filter?", t4_qa: "Sortiert unerwünschte E-Mails aus", t4_qb: "Schreibt E-Mails automatisch", t4_qc: "Löscht alle E-Mails", t4_qd: "Druckt E-Mails",
-    t4_w1: "Ein Spam-Filter", t4_w2: "sortiert", t4_w3: "unerwünschte", t4_w4: "E-Mails", t4_w5: "heraus.", t4_w6: "", t4_w7: "",
+    t4_w1: "Ein Spam-Filter", t4_w2: "sortiert", t4_w3: "unerwünschte E-Mails", t4_w4: "heraus.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Sicherer E-Mail-Umgang", t5_text: "Öffne keine Links oder Anhänge von unbekannten Absendern.", t5_inst: "Markiere das richtige Wort:", t5_h1: "Vorsicht bei Unbekannten!", t5_h2: "Nicht klicken, nicht öffnen!", t5_q: "Was sollte man bei E-Mails von Unbekannten tun?", t5_qa: "Nicht öffnen oder löschen", t5_qb: "Sofort antworten", t5_qc: "Den Anhang herunterladen", t5_qd: "Weiterleiten an alle",
-    t5_tk1: "Öffne", t5_tk2: "keine Anhänge", t5_tk3: "von", t5_tk4: "unbekannten", t5_tk5: "Absendern.", t5_tk6: "",
+    t5_tk1: "Öffne", t5_tk2: "keine Anhänge", t5_tk3: "von unbekannten", t5_tk4: "Absendern.", t5_tk5: "", t5_tk6: "",
   },
   en: {
     explorer_title: "Informatics Explorer K6-5",
@@ -26,7 +25,7 @@ export const INFO_K6_I5_LABELS: Record<string, Record<string, string>> = {
     t4_title: "SPAM Filter", t4_text: "SPAM filters automatically sort out unwanted emails.", t4_inst: "Put the words in order:", t4_h1: "Filter = sort.", t4_h2: "Spam goes to spam folder!", t4_q: "What does a SPAM filter do?", t4_qa: "Sorts out unwanted emails", t4_qb: "Writes emails automatically", t4_qc: "Deletes all emails", t4_qd: "Prints emails",
     t4_w1: "A spam filter", t4_w2: "sorts out", t4_w3: "unwanted", t4_w4: "emails.", t4_w5: "", t4_w6: "", t4_w7: "",
     t5_title: "Safe Email Use", t5_text: "Don't open links or attachments from unknown senders.", t5_inst: "Highlight the correct word:", t5_h1: "Be careful with unknowns!", t5_h2: "Don't click, don't open!", t5_q: "What should you do with emails from unknown senders?", t5_qa: "Don't open them or delete them", t5_qb: "Reply immediately", t5_qc: "Download the attachment", t5_qd: "Forward to everyone",
-    t5_tk1: "Don't open", t5_tk2: "attachments", t5_tk3: "from", t5_tk4: "unknown", t5_tk5: "senders.", t5_tk6: "",
+    t5_tk1: "Don't open", t5_tk2: "attachments", t5_tk3: "from unknown", t5_tk4: "senders.", t5_tk5: "", t5_tk6: "",
   },
   hu: {
     explorer_title: "Informatika Felfedező K6-5",

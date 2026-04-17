@@ -182,7 +182,7 @@ export const INFO_K8_I8_LABELS: Record<string, Record<string, string>> = {
     t11_inst: "Potrivește:", t11_l1: "Intrare", t11_r1: "Date", t11_l2: "Pondere", t11_r2: "Importanță", t11_l3: "Activare", t11_r3: "Rezultat",
     t11_q: "Ce simulează neuronii artificiali?", t11_qa: "Celule nervoase biologice", t11_qb: "Monitoare de calculator", t11_qc: "Baze de date", t11_qd: "Tastaturi",
     t12_title: "Epoci și Iterații", t12_text: "O epocă este o trecere completă prin toate datele. O iterație procesează doar un lot mic de date.",
-    t12_inst: "Evidențiază:", t12_tk1: "O epocă", t12_tk2: "folosește", t12_tk3: "toate", t12_tk4: "datele de", t12_tk5: "antrenament.",
+    t12_inst: "Evidențiază:", t12_tk1: "O", t12_tk2: "epocă", t12_tk3: "folosește", t12_tk4: "toate", t12_tk5: "datele.",
     t12_q: "Ce este o epocă în antrenament?", t12_qa: "O trecere completă prin datele de antrenament", t12_qb: "Un singur punct de date", t12_qc: "Un mesaj de eroare", t12_qd: "Un nou model",
     t13_title: "Gradient Descent", t13_text: "Un algoritm de optimizare care încearcă să minimizeze eroarea modelului ajustând ponderile pas cu pas.",
     t13_inst: "Construiește fraza:", t13_f1: "Gradient", t13_f2: "descent", t13_f3: "minimizează", t13_f4: "eroarea.",

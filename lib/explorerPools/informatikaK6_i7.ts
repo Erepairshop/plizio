@@ -1,4 +1,3 @@
-// lib/explorerPools/informatikaK6_i7.ts
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I7_LABELS: Record<string, Record<string, string>> = {
@@ -30,7 +29,7 @@ export const INFO_K6_I7_LABELS: Record<string, Record<string, string>> = {
   },
   hu: {
     explorer_title: "Informatika Felfedező K6-7",
-    t1_title: "SZUM és ÁTLAG", t1_text: "A =SZUM()-mal összeadunk, a =ÁTLAG()-gal átlagot számolunk.", t1_inst: "Párosítsd össze:", t1_h1: "Melyik képlet mit csinál?", t1_h2: "SZUM vagy ÁTLAG?", t1_q: "Mit számol az =ÁTLAG(A1:A5)?", t1_qa: "A számok átlagát", t1_qb: "A számok összegét", t1_qc: "A legnagyobb számot", t1_qd: "A legkisebb számot",
+    t1_title: "SZUM és ÁTLAG", t1_text: "A =SZUM()-mal összeadunk, az =ÁTLAG()-gal átlagot számolunk.", t1_inst: "Párosítsd össze:", t1_h1: "Melyik képlet mit csinál?", t1_h2: "SZUM vagy ÁTLAG?", t1_q: "Mit számol az =ÁTLAG(A1:A5)?", t1_qa: "A számok átlagát", t1_qb: "A számok összegét", t1_qc: "A legnagyobb számot", t1_qd: "A legkisebb számot",
     t1_l1: "=SZUM()", t1_r1: "Összeadás", t1_l2: "=ÁTLAG()", t1_r2: "Átlagérték", t1_l3: "=MAX()", t1_r3: "Legnagyobb érték",
     t2_title: "Feltételes formázás", t2_text: "A feltételes formázás automatikusan színezi a cellákat az értékük alapján.", t2_inst: "Töltsd ki a hiányt:", t2_h1: "Piros cella = rossz érték?", t2_h2: "Automatikus színezés!", t2_q: "Mit csinál a feltételes formázás?", t2_qa: "Az értékük alapján színezi a cellákat", t2_qb: "Összeadja a számokat", t2_qc: "Törli a szövegeket", t2_qd: "Fájlokat ment",
     t2_sent: "A feltételes formázás ___ a cellákat az értékük alapján.", t2_qa2: "színezi", t2_qb2: "törli", t2_qc2: "másolja", t2_qd2: "nyomtatja",
@@ -39,7 +38,7 @@ export const INFO_K6_I7_LABELS: Record<string, Record<string, string>> = {
     t4_title: "Adatok szűrése", t4_text: "A szűrők csak bizonyos feltételnek megfelelő sorokat jelenítenek meg.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "Szűrő = kiválasztás.", t4_h2: "Csak a fontosat látni!", t4_q: "Mit csinál a szűrő az Excelben?", t4_qa: "Csak a feltételnek megfelelő sorokat mutatja", t4_qb: "Törli az összes adatot", t4_qc: "Betűtípust változtat", t4_qd: "Kinyomtatja a táblázatot",
     t4_w1: "A szűrő", t4_w2: "csak", t4_w3: "bizonyos", t4_w4: "adatokat", t4_w5: "mutat.", t4_w6: "", t4_w7: "",
     t5_title: "Diagramtípusok", t5_text: "Az oszlopdiagramok értékeket hasonlítanak, a kördiagramok arányokat, a vonaldiagramok tendenciákat mutatnak.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Melyik diagramtípus mire?", t5_h2: "Oszlop, kör vagy vonal!", t5_q: "Melyik diagram mutatja legjobban az arányokat?", t5_qa: "Kördiagram", t5_qb: "Oszlopdiagram", t5_qc: "Vonaldiagram", t5_qd: "Pontdiagram",
-    t5_tk1: "A kördiagram", t5_tk2: "mutatja", t5_tk3: "legjobban", t5_tk4: "az arányokat.", t5_tk5: "", t5_tk6: "",
+    t5_tk1: "A", t5_tk2: "kördiagram", t5_tk3: "mutatja", t5_tk4: "legjobban", t5_tk5: "az arányokat.", t5_tk6: "",
   },
   ro: {
     explorer_title: "Explorator Informatică K6-7",
@@ -50,8 +49,8 @@ export const INFO_K6_I7_LABELS: Record<string, Record<string, string>> = {
     t3_title: "Sortarea datelor", t3_text: "În Excel putem sorta datele în ordine crescătoare sau descrescătoare.", t3_inst: "Sortează în găleți:", t3_h1: "Crescător sau descrescător?", t3_h2: "A-Z sau Z-A!", t3_q: "Ce înseamnă sortare crescătoare?", t3_qa: "De la mic la mare (A la Z)", t3_qb: "De la mare la mic (Z la A)", t3_qc: "Ordine aleatorie", t3_qd: "Sortare după culoare",
     t3_bl1: "Crescător", t3_bl2: "Descrescător", t3_i1: "A, B, C", t3_i2: "Z, Y, X", t3_i3: "1, 2, 3", t3_i4: "9, 8, 7",
     t4_title: "Filtrarea datelor", t4_text: "Filtrele afișează doar rândurile care îndeplinesc o condiție.", t4_inst: "Pune cuvintele în ordine:", t4_h1: "Filtru = selecție.", t4_h2: "Vede doar ce contează!", t4_q: "Ce face un filtru în Excel?", t4_qa: "Afișează doar rândurile care îndeplinesc o condiție", t4_qb: "Șterge toate datele", t4_qc: "Schimbă fontul", t4_qd: "Tipărește tabelul",
-    t4_w1: "Un filtru", t4_w2: "afișează", t4_w3: "doar", t4_w4: "datele selectate.", t4_w5: "", t4_w6: "", t4_w7: "",
-    t5_title: "Tipuri de diagrame", t5_text: "Diagramele cu bare compară valori, cele circulare arată proporții, cele liniare arată tendințe.", t5_inst: "Evidențiază cuvântul corect:", t5_h1: "Ce tip de diagramă pentru ce?", t5_h2: "Bară, cerc sau linie!", t5_q: "Care diagramă arată cel mai bine proporțiile?", t5_qa: "Diagrama circulară", t5_qb: "Diagrama cu bare", t5_qc: "Diagrama liniară", t5_qd: "Diagrama de dispersie",
+    t4_w1: "Un filtru", t4_w2: "afișează", t4_w3: "doar", t4_w4: "anumite", t4_w5: "date.", t4_w6: "", t4_w7: "",
+    t5_title: "Tipuri de diagrame", t5_text: "Diagramele cu bare compară valori, cele circulare arată proporții, cele liniare arată tendințele.", t5_inst: "Evidențiază cuvântul corect:", t5_h1: "Ce tip de diagramă pentru ce?", t5_h2: "Bară, cerc sau linie!", t5_q: "Care diagramă arată cel mai bine proporțiile?", t5_qa: "Diagrama circulară", t5_qb: "Diagrama cu bare", t5_qc: "Diagrama liniară", t5_qd: "Diagrama de dispersie",
     t5_tk1: "Diagrama", t5_tk2: "circulară", t5_tk3: "arată", t5_tk4: "proporțiile", t5_tk5: "cel mai bine.", t5_tk6: "",
   }
 };
