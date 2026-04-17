@@ -188,6 +188,151 @@ function sentenceSvg(words: string[], highlightIndices: number[], color: string)
   return { type: "sentence-display", words, highlightIndices, color };
 }
 
+interface PracticeTopicConfig {
+  themeDe: string;
+  themeEn: string;
+  themeHu: string;
+  themeRo: string;
+  svgName: string;
+  quizPrefix: string;
+  profile?: "default" | "acid";
+}
+
+type PracticeKind = "gap" | "magnet" | "bucket" | "stacker" | "slingshot";
+
+function buildPracticeTopics(config: PracticeTopicConfig): ChemTopicSpec[] {
+  const defaultPlan: Array<[ChemTopicSpec["difficulty"], PracticeKind]> = [
+    ["easy", "gap"],
+    ["easy", "magnet"],
+    ["easy", "bucket"],
+    ["medium", "stacker"],
+    ["medium", "gap"],
+    ["medium", "magnet"],
+    ["hard", "slingshot"],
+    ["hard", "stacker"],
+    ["hard", "gap"],
+    ["hard", "slingshot"],
+  ];
+  const acidPlan: Array<[ChemTopicSpec["difficulty"], PracticeKind]> = [
+    ["easy", "gap"],
+    ["easy", "magnet"],
+    ["medium", "bucket"],
+    ["medium", "stacker"],
+    ["medium", "gap"],
+    ["medium", "magnet"],
+    ["hard", "slingshot"],
+    ["hard", "stacker"],
+    ["hard", "gap"],
+    ["hard", "slingshot"],
+  ];
+
+  const plan = config.profile === "acid" ? acidPlan : defaultPlan;
+
+  return plan.map(([difficulty, kind], idx) => {
+    const n = idx + 6;
+    const common = {
+      difficulty,
+      title: L(
+        `${config.themeDe} – Übung ${n}`,
+        `${config.themeEn} - Practice ${n}`,
+        `${config.themeHu} – Gyakorlat ${n}`,
+        `${config.themeRo} – Exercițiul ${n}`
+      ),
+      text: L(
+        `Diese Aufgabe vertieft ${config.themeDe} mit kurzen Beispielen.`,
+        `This task deepens ${config.themeEn} with short examples.`,
+        `Ez a feladat rövid példákkal mélyíti a(z) ${config.themeHu} témát.`,
+        `Acest exercițiu aprofundează ${config.themeRo} cu exemple scurte.`
+      ),
+      svg: { type: "kemia-diagram", name: config.svgName } as SvgConfig,
+      quiz: `${config.quizPrefix}_${n}_mcq`,
+    };
+
+    if (kind === "gap") {
+      return {
+        ...common,
+        inst: L("Wähle die richtigen Beispiele.", "Choose the correct examples.", "Válaszd ki a helyes példákat.", "Alege exemplele corecte."),
+        h1: HINT_A,
+        h2: HINT_D,
+        extras: {
+          q: L(`Was passt zu ${config.themeDe}?`, `What fits ${config.themeEn}?`, `Mi illik a(z) ${config.themeHu} témához?`, `Ce se potrivește la ${config.themeRo}?`),
+          c1: L("richtige Aussage", "correct statement", "helyes állítás", "afirmație corectă"),
+          c2: L("falsches Beispiel", "wrong example", "hibás példa", "exemplu greșit"),
+          c3: L("anderes Thema", "another topic", "másik téma", "altă temă"),
+          c4: L("ohne Bezug", "without link", "nem kapcsolódik", "fără legătură"),
+        },
+        interactive: (p: string) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
+      } as ChemTopicSpec;
+    }
+
+    if (kind === "magnet") {
+      return {
+        ...common,
+        inst: L("Ordne die passenden Paare zu.", "Match the correct pairs.", "Párosítsd a helyes párokat.", "Potrivește perechile corecte."),
+        h1: HINT_B,
+        h2: HINT_C,
+        extras: {
+          l1: L("Begriff", "term", "fogalom", "termen"),
+          r1: L("Definition", "definition", "meghatározás", "definiție"),
+          l2: L("Beispiel", "example", "példa", "exemplu"),
+          r2: L("Eigenschaft", "property", "tulajdonság", "proprietate"),
+          l3: L("Regel", "rule", "szabály", "regulă"),
+          r3: L("Anwendung", "application", "alkalmazás", "aplicare"),
+        },
+        interactive: (p: string) => magnetInteractive(p, [["l1", "r1"], ["l2", "r2"], ["l3", "r3"]]),
+      } as ChemTopicSpec;
+    }
+
+    if (kind === "bucket") {
+      return {
+        ...common,
+        inst: L("Sortiere die Beispiele in zwei Gruppen.", "Sort the examples into two groups.", "Rendezd a példákat két csoportba.", "Sortează exemplele în două grupe."),
+        h1: HINT_B,
+        h2: HINT_D,
+        extras: {
+          a: L("passt", "fits", "illeszkedik", "se potrivește"),
+          b: L("passt nicht", "does not fit", "nem illeszkedik", "nu se potrivește"),
+          i1: L("Kernidee", "core idea", "fő ötlet", "idee principală"),
+          i2: L("richtiges Beispiel", "good example", "helyes példa", "exemplu corect"),
+          i3: L("Fehlbeispiel", "wrong example", "hibás példa", "exemplu greșit"),
+          i4: L("Nebensache", "side note", "mellékes dolog", "idee secundară"),
+        },
+        interactive: (p: string) => bucketInteractive(p, `${p}_a`, `${p}_b`, [["i1", "a"], ["i2", "a"], ["i3", "b"], ["i4", "b"]]),
+      } as ChemTopicSpec;
+    }
+
+    if (kind === "stacker") {
+      return {
+        ...common,
+        inst: L("Bringe die Schritte in eine sinnvolle Reihenfolge.", "Put the steps in a sensible order.", "Tedd a lépéseket logikus sorrendbe.", "Pune pașii într-o ordine logică."),
+        h1: HINT_A,
+        h2: HINT_D,
+        extras: {
+          w1: L("Beobachten", "observe", "megfigyelés", "observă"),
+          w2: L("Einordnen", "classify", "besorolás", "clasifică"),
+          w3: L("Prüfen", "check", "ellenőrzés", "verifică"),
+        },
+        interactive: (p: string) => stackerInteractive(p, ["w1", "w2", "w3"]),
+      } as ChemTopicSpec;
+    }
+
+    return {
+      ...common,
+      inst: L("Wähle die richtigen Beispiele.", "Choose the correct examples.", "Válaszd ki a helyes példákat.", "Alege exemplele corecte."),
+      h1: HINT_C,
+      h2: HINT_D,
+      extras: {
+        q: L(`Welche Aussage zu ${config.themeDe} ist richtig?`, `Which statement about ${config.themeEn} is correct?`, `Melyik állítás helyes a(z) ${config.themeHu} témában?`, `Care afirmație despre ${config.themeRo} este corectă?`),
+        t1: L("passt vollständig", "fully fits", "teljesen illik", "se potrivește complet"),
+        t2: L("teilweise richtig", "partly true", "részben igaz", "parțial adevărat"),
+        t3: L("falscher Schluss", "wrong conclusion", "hibás következtetés", "concluzie greșită"),
+        t4: L("passt nicht", "does not fit", "nem illik", "nu se potrivește"),
+      },
+      interactive: (p: string) => slingshotInteractive(p, "q", [["t1", true], ["t2", false], ["t3", false], ["t4", false]]),
+    } as ChemTopicSpec;
+  });
+}
+
 const I1_TOPICS: ChemTopicSpec[] = [
   {
     difficulty: "easy",
@@ -309,6 +454,15 @@ const I1_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
+  ...buildPracticeTopics({
+    themeDe: "Atombau",
+    themeEn: "Atom structure",
+    themeHu: "atomszerkezet",
+    themeRo: "structură atomică",
+    svgName: "AtomSvg",
+    quizPrefix: "atom_practice",
+  }),
+
 ];
 
 const I2_TOPICS: ChemTopicSpec[] = [
@@ -426,6 +580,15 @@ const I2_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => stackerInteractive(p, ["w1", "w2", "w3"]),
   },
+  ...buildPracticeTopics({
+    themeDe: "Periodensystem",
+    themeEn: "periodic table",
+    themeHu: "periódusos rendszer",
+    themeRo: "tabel periodic",
+    svgName: "AtomSvg",
+    quizPrefix: "periodic_practice",
+  }),
+
 ];
 
 const I3_TOPICS: ChemTopicSpec[] = [
@@ -542,6 +705,15 @@ const I3_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => stackerInteractive(p, ["w1", "w2", "w3"]),
   },
+  ...buildPracticeTopics({
+    themeDe: "Bindungen",
+    themeEn: "chemical bonds",
+    themeHu: "kémiai kötések",
+    themeRo: "legături chimice",
+    svgName: "MoleculeSvg",
+    quizPrefix: "bonding_practice",
+  }),
+
 ];
 
 const I4_TOPICS: ChemTopicSpec[] = [
@@ -656,6 +828,15 @@ const I4_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
+  ...buildPracticeTopics({
+    themeDe: "Reaktionen",
+    themeEn: "reactions",
+    themeHu: "reakciók",
+    themeRo: "reacții",
+    svgName: "ReactionSvg",
+    quizPrefix: "reaction_practice",
+  }),
+
 ];
 
 const I5_TOPICS: ChemTopicSpec[] = [
@@ -771,6 +952,16 @@ const I5_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => bucketInteractive(p, `${p}_a`, `${p}_b`, [["a", "a"], ["b", "b"], ["c", "b"], ["d", "a"]]),
   },
+  ...buildPracticeTopics({
+    themeDe: "Säuren und Basen",
+    themeEn: "acids and bases",
+    themeHu: "savak és bázisok",
+    themeRo: "acizi și baze",
+    svgName: "PhScaleSvg",
+    quizPrefix: "acid_base_practice",
+    profile: "acid",
+  }),
+
 ];
 
 const I6_TOPICS: ChemTopicSpec[] = [
@@ -885,6 +1076,15 @@ const I6_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
+  ...buildPracticeTopics({
+    themeDe: "Metalle",
+    themeEn: "metals",
+    themeHu: "fémek",
+    themeRo: "metale",
+    svgName: "AtomSvg",
+    quizPrefix: "metal_practice",
+  }),
+
 ];
 
 const I7_TOPICS: ChemTopicSpec[] = [
@@ -974,6 +1174,15 @@ const I7_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 2),
   },
+  ...buildPracticeTopics({
+    themeDe: "Wiederholung I",
+    themeEn: "review I",
+    themeHu: "ismétlés I",
+    themeRo: "recapitulare I",
+    svgName: "AtomSvg",
+    quizPrefix: "review1_practice",
+  }),
+
 ];
 
 const I8_TOPICS: ChemTopicSpec[] = [
@@ -1063,6 +1272,15 @@ const I8_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
+  ...buildPracticeTopics({
+    themeDe: "Wiederholung II",
+    themeEn: "review II",
+    themeHu: "ismétlés II",
+    themeRo: "recapitulare II",
+    svgName: "ReactionSvg",
+    quizPrefix: "review2_practice",
+  }),
+
 ];
 
 const I9_TOPICS: ChemTopicSpec[] = [
@@ -1157,6 +1375,15 @@ const I9_TOPICS: ChemTopicSpec[] = [
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
+  ...buildPracticeTopics({
+    themeDe: "Finale",
+    themeEn: "final review",
+    themeHu: "finálé",
+    themeRo: "final",
+    svgName: "PhScaleSvg",
+    quizPrefix: "final_practice",
+  }),
+
 ];
 
 const BUNDLES = [
