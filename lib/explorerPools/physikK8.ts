@@ -5776,3 +5776,275 @@ export const PHYSIK_K8_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "environment_mcq" },
   },
 ];
+
+type PhysikK8Lang = "de" | "en" | "hu" | "ro";
+type PhysikK8L10n = Record<PhysikK8Lang, string>;
+
+interface PhysikK8PracticeConfig {
+  topic: PhysikK8L10n;
+  focus: PhysikK8L10n;
+  hint1: PhysikK8L10n;
+  hint2: PhysikK8L10n;
+  coreTerm: PhysikK8L10n;
+  quiz: string;
+}
+
+const PHYSIK_K8_PRACTICE_INSTRUCTIONS: Record<PhysikK8Lang, string[]> = {
+  de: [
+    "Wähle den passenden Kernbegriff.",
+    "Prüfe die Zusammenhänge und entscheide korrekt.",
+    "Nutze die Hinweise und ergänze den Satz.",
+    "Ordne die Idee dem richtigen Fachbegriff zu.",
+    "Wähle die fachlich beste Ergänzung.",
+  ],
+  en: [
+    "Choose the fitting core concept.",
+    "Check the relationships and decide correctly.",
+    "Use the hints and complete the sentence.",
+    "Match the idea to the right technical term.",
+    "Select the most accurate completion.",
+  ],
+  hu: [
+    "Válaszd ki a megfelelő központi fogalmat.",
+    "Ellenőrizd az összefüggéseket, majd dönts helyesen.",
+    "Használd a tippeket, és egészítsd ki a mondatot.",
+    "Rendeld az ötletet a helyes szakkifejezéshez.",
+    "Válaszd ki a szakmailag legjobb kiegészítést.",
+  ],
+  ro: [
+    "Alege conceptul central potrivit.",
+    "Verifică relațiile și decide corect.",
+    "Folosește indiciile și completează propoziția.",
+    "Leagă ideea de termenul tehnic corect.",
+    "Alege completarea cea mai precisă.",
+  ],
+};
+
+const PHYSIK_K8_PRACTICE_DISTRACTORS: Record<PhysikK8Lang, [string, string, string][]> = {
+  de: [
+    ["Temperatur", "Lautstärke", "Länge"],
+    ["Masse", "Lichtfarbe", "Volumen"],
+    ["Schall", "Frequenz", "Dichte"],
+    ["Geschwindigkeit", "Druck", "Zeit"],
+    ["Kraft", "Fläche", "Weg"],
+  ],
+  en: [
+    ["temperature", "loudness", "length"],
+    ["mass", "light color", "volume"],
+    ["sound", "frequency", "density"],
+    ["speed", "pressure", "time"],
+    ["force", "area", "distance"],
+  ],
+  hu: [
+    ["hőmérséklet", "hangerő", "hosszúság"],
+    ["tömeg", "fényszín", "térfogat"],
+    ["hang", "frekvencia", "sűrűség"],
+    ["sebesség", "nyomás", "idő"],
+    ["erő", "felület", "út"],
+  ],
+  ro: [
+    ["temperatură", "volum sonor", "lungime"],
+    ["masă", "culoarea luminii", "volum"],
+    ["sunet", "frecvență", "densitate"],
+    ["viteză", "presiune", "timp"],
+    ["forță", "suprafață", "distanță"],
+  ],
+};
+
+function ensurePhysikK8Lang(
+  labels: Record<string, Record<string, string>>,
+  lang: PhysikK8Lang
+): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Physik Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addPhysikK8PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: PhysikK8PracticeConfig
+): void {
+  const langs: PhysikK8Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+    for (const lang of langs) {
+      const bucket = ensurePhysikK8Lang(labels, lang);
+      const [d2, d3, d4] = PHYSIK_K8_PRACTICE_DISTRACTORS[lang][i];
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit alltagsnahen Beispielen und klaren Ursache-Wirkung-Bezügen.` :
+        lang === "en" ? `${cfg.focus.en} through practical examples and clear cause-effect links.` :
+        lang === "hu" ? `${cfg.focus.hu} gyakorlati példákkal és világos ok-okozati kapcsolatokkal.` :
+        `${cfg.focus.ro} prin exemple practice și legături clare cauză-efect.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = PHYSIK_K8_PRACTICE_INSTRUCTIONS[lang][i];
+      bucket[`${key}_sent`] =
+        lang === "de" ? `Im Thema ${cfg.topic.de} ist ___ ein zentraler Begriff.` :
+        lang === "en" ? `In ${cfg.topic.en}, ___ is a central concept.` :
+        lang === "hu" ? `A(z) ${cfg.topic.hu} témában a(z) ___ központi fogalom.` :
+        `În tema ${cfg.topic.ro}, ___ este un concept central.`;
+      bucket[`${key}_c1`] = cfg.coreTerm[lang];
+      bucket[`${key}_c2`] = d2;
+      bucket[`${key}_c3`] = d3;
+      bucket[`${key}_c4`] = d4;
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "physik-diagram", name: "EnergySvg" },
+      interactive: {
+        type: "gap-fill",
+        sentence: `${key}_sent`,
+        choices: [`${key}_c1`, `${key}_c2`, `${key}_c3`, `${key}_c4`],
+        correctIndex: 0,
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const PHYSIK_K8_PRACTICE_CONFIGS: PhysikK8PracticeConfig[] = [
+  {
+    topic: { de: "Ohm-Gesetz", en: "Ohm's Law", hu: "Ohm-törvény", ro: "Legea lui Ohm" },
+    focus: {
+      de: "Zusammenhang von Spannung, Stromstärke und Widerstand",
+      en: "Connection between voltage, current, and resistance",
+      hu: "A feszültség, áramerősség és ellenállás kapcsolata",
+      ro: "Legătura dintre tensiune, curent și rezistență",
+    },
+    hint1: { de: "Formel U = R · I", en: "Formula U = R · I", hu: "Képlet: U = R · I", ro: "Formula U = R · I" },
+    hint2: { de: "Einheiten prüfen", en: "Check units", hu: "Mértékegységek ellenőrzése", ro: "Verifică unitățile" },
+    coreTerm: { de: "Widerstand", en: "resistance", hu: "ellenállás", ro: "rezistență" },
+    quiz: "ohms_law_mcq",
+  },
+  {
+    topic: { de: "Elektrische Leistung", en: "Electric Power", hu: "Elektromos teljesítmény", ro: "Putere electrică" },
+    focus: {
+      de: "Leistung, Energie und Zeit in elektrischen Geräten",
+      en: "Power, energy, and time in electric devices",
+      hu: "Teljesítmény, energia és idő az elektromos eszközökben",
+      ro: "Putere, energie și timp în dispozitive electrice",
+    },
+    hint1: { de: "P = U · I", en: "P = U · I", hu: "P = U · I", ro: "P = U · I" },
+    hint2: { de: "Watt ist die Einheit", en: "Watt is the unit", hu: "A watt a mértékegység", ro: "Watt este unitatea" },
+    coreTerm: { de: "Leistung", en: "power", hu: "teljesítmény", ro: "putere" },
+    quiz: "electric_power_mcq",
+  },
+  {
+    topic: { de: "Halbleiter", en: "Semiconductors", hu: "Félvezetők", ro: "Semiconductoare" },
+    focus: {
+      de: "Dioden, LEDs und Schaltverhalten in Stromkreisen",
+      en: "Diodes, LEDs, and switching behavior in circuits",
+      hu: "Diódák, LED-ek és kapcsolási viselkedés áramkörökben",
+      ro: "Diode, LED-uri și comportament de comutare în circuite",
+    },
+    hint1: { de: "Leitfähigkeit steuern", en: "Control conductivity", hu: "Vezetőképesség szabályozása", ro: "Controlează conductivitatea" },
+    hint2: { de: "Richtung beachten", en: "Mind the direction", hu: "Figyelj az irányra", ro: "Ține cont de direcție" },
+    coreTerm: { de: "Diode", en: "diode", hu: "dióda", ro: "diodă" },
+    quiz: "semiconductor_mcq",
+  },
+  {
+    topic: { de: "Elektromagnetismus", en: "Electromagnetism", hu: "Elektromágnesesség", ro: "Electromagnetism" },
+    focus: {
+      de: "Magnetfelder, Spulen und elektrische Ströme",
+      en: "Magnetic fields, coils, and electric currents",
+      hu: "Mágneses tér, tekercsek és elektromos áram",
+      ro: "Câmpuri magnetice, bobine și curenți electrici",
+    },
+    hint1: { de: "Strom erzeugt Magnetfeld", en: "Current creates magnetic field", hu: "Az áram mágneses teret kelt", ro: "Curentul creează câmp magnetic" },
+    hint2: { de: "Spule verstärkt Wirkung", en: "Coil amplifies effect", hu: "A tekercs erősíti a hatást", ro: "Bobina amplifică efectul" },
+    coreTerm: { de: "Magnetfeld", en: "magnetic field", hu: "mágneses tér", ro: "câmp magnetic" },
+    quiz: "electromagnetism_mcq",
+  },
+  {
+    topic: { de: "Generatoren", en: "Generators", hu: "Generátorok", ro: "Generatoare" },
+    focus: {
+      de: "Umwandlung von mechanischer in elektrische Energie",
+      en: "Conversion of mechanical energy into electrical energy",
+      hu: "Mechanikai energia átalakítása elektromos energiává",
+      ro: "Transformarea energiei mecanice în energie electrică",
+    },
+    hint1: { de: "Induktion im Leiter", en: "Induction in the conductor", hu: "Indukció a vezetőben", ro: "Inducție în conductor" },
+    hint2: { de: "Bewegung ist entscheidend", en: "Motion is essential", hu: "A mozgás döntő", ro: "Mișcarea este esențială" },
+    coreTerm: { de: "Induktion", en: "induction", hu: "indukció", ro: "inducție" },
+    quiz: "generator_mcq",
+  },
+  {
+    topic: { de: "Atomphysik", en: "Atomic Physics", hu: "Atomfizika", ro: "Fizică atomică" },
+    focus: {
+      de: "Atombau, Elektronenhüllen und Energieniveaus",
+      en: "Atomic structure, electron shells, and energy levels",
+      hu: "Atomszerkezet, elektronhéjak és energiaszintek",
+      ro: "Structura atomului, straturi electronice și niveluri energetice",
+    },
+    hint1: { de: "Kern und Hülle", en: "Nucleus and shell", hu: "Atommag és elektronhéj", ro: "Nucleu și înveliș electronic" },
+    hint2: { de: "Energiezustände vergleichen", en: "Compare energy states", hu: "Energiaszintek összehasonlítása", ro: "Compară stările energetice" },
+    coreTerm: { de: "Elektron", en: "electron", hu: "elektron", ro: "electron" },
+    quiz: "atomic_physics_mcq",
+  },
+  {
+    topic: { de: "Nuklearphysik", en: "Nuclear Physics", hu: "Nukleáris fizika", ro: "Fizică nucleară" },
+    focus: {
+      de: "Kernspaltung, Strahlung und Sicherheit",
+      en: "Fission, radiation, and safety",
+      hu: "Maghasadás, sugárzás és biztonság",
+      ro: "Fisiune, radiație și siguranță",
+    },
+    hint1: { de: "Strahlungsarten kennen", en: "Know radiation types", hu: "Sugárzástípusok ismerete", ro: "Cunoaște tipurile de radiație" },
+    hint2: { de: "Schutzmaßnahmen beachten", en: "Apply protection measures", hu: "Védelmi szabályok alkalmazása", ro: "Aplică măsuri de protecție" },
+    coreTerm: { de: "Strahlung", en: "radiation", hu: "sugárzás", ro: "radiație" },
+    quiz: "nuclear_energy_mcq",
+  },
+  {
+    topic: { de: "Moderne Physik", en: "Modern Physics", hu: "Modern fizika", ro: "Fizică modernă" },
+    focus: {
+      de: "Lichtquanten, Modelle und neue Messmethoden",
+      en: "Light quanta, models, and modern measurements",
+      hu: "Fénykvantumok, modellek és modern mérések",
+      ro: "Cuante de lumină, modele și măsurări moderne",
+    },
+    hint1: { de: "Modellgrenzen erkennen", en: "Recognize model limits", hu: "Modellek határainak felismerése", ro: "Recunoaște limitele modelelor" },
+    hint2: { de: "Mikro- und Makrowelt trennen", en: "Separate micro and macro worlds", hu: "Mikro- és makrovilág elkülönítése", ro: "Separă lumea micro de macro" },
+    coreTerm: { de: "Quant", en: "quantum", hu: "kvantum", ro: "cuantă" },
+    quiz: "modern_physics_mcq",
+  },
+  {
+    topic: { de: "Umwelt und Energie", en: "Environment and Energy", hu: "Környezet és energia", ro: "Mediu și energie" },
+    focus: {
+      de: "Erneuerbare Quellen, Wirkungsgrad und Klimaschutz",
+      en: "Renewables, efficiency, and climate protection",
+      hu: "Megújulók, hatásfok és klímavédelem",
+      ro: "Surse regenerabile, eficiență și protecția climei",
+    },
+    hint1: { de: "CO₂ reduzieren", en: "Reduce CO₂", hu: "CO₂-csökkentés", ro: "Reducerea CO₂" },
+    hint2: { de: "Nachhaltig planen", en: "Plan sustainably", hu: "Fenntartható tervezés", ro: "Planifică sustenabil" },
+    coreTerm: { de: "Wirkungsgrad", en: "efficiency", hu: "hatásfok", ro: "eficiență" },
+    quiz: "environment_mcq",
+  },
+];
+
+addPhysikK8PracticeTopics(PHYSIK_K8_I1_LABELS, PHYSIK_K8_I1_POOL, PHYSIK_K8_PRACTICE_CONFIGS[0]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I2_LABELS, PHYSIK_K8_I2_POOL, PHYSIK_K8_PRACTICE_CONFIGS[1]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I3_LABELS, PHYSIK_K8_I3_POOL, PHYSIK_K8_PRACTICE_CONFIGS[2]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I4_LABELS, PHYSIK_K8_I4_POOL, PHYSIK_K8_PRACTICE_CONFIGS[3]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I5_LABELS, PHYSIK_K8_I5_POOL, PHYSIK_K8_PRACTICE_CONFIGS[4]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I6_LABELS, PHYSIK_K8_I6_POOL, PHYSIK_K8_PRACTICE_CONFIGS[5]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I7_LABELS, PHYSIK_K8_I7_POOL, PHYSIK_K8_PRACTICE_CONFIGS[6]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I8_LABELS, PHYSIK_K8_I8_POOL, PHYSIK_K8_PRACTICE_CONFIGS[7]);
+addPhysikK8PracticeTopics(PHYSIK_K8_I9_LABELS, PHYSIK_K8_I9_POOL, PHYSIK_K8_PRACTICE_CONFIGS[8]);
