@@ -4387,3 +4387,209 @@ export const PHYSIK_K6_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "density_basics_mcq" },
   },
 ];
+
+type PhysikK6Lang = "de" | "en" | "hu" | "ro";
+type PhysikK6L10n = Record<PhysikK6Lang, string>;
+
+interface PhysikK6PracticeConfig {
+  topic: PhysikK6L10n;
+  focus: PhysikK6L10n;
+  hint1: PhysikK6L10n;
+  hint2: PhysikK6L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const PHYSIK_K6_PRACTICE_INSTRUCTIONS: Record<PhysikK6Lang, string[]> = {
+  de: [
+    "Wähle die passenden Beispiele.",
+    "Sortiere die Aussagen nach Funktion.",
+    "Nutze Begriffe wie Spannung, Dichte und Druck.",
+    "Verbinde Ursache und Wirkung im Experiment.",
+    "Prüfe die Zusammenhänge und wähle die beste Aussage.",
+  ],
+  en: [
+    "Choose fitting examples.",
+    "Sort the statements by function.",
+    "Use key terms like voltage, density, and pressure.",
+    "Link cause and effect in experiments.",
+    "Check the connections and choose the best statement.",
+  ],
+  hu: [
+    "Válaszd ki a megfelelő példákat.",
+    "Rendezd a kijelentéseket működés szerint.",
+    "Használd az erő, tömeg és nyomás fogalmát.",
+    "Kösd össze az okot és a következményt példákon.",
+    "Ellenőrizd a kapcsolatokat, és válaszd a legjobb állítást.",
+  ],
+  ro: [
+    "Sortează exemplele potrivite.",
+    "Sortează afirmațiile după funcție.",
+    "Folosește termenii forță, mișcare și presiune corect.",
+    "Leagă cauza de efect în experimente simple.",
+    "Verifică legăturile și alege afirmația corectă.",
+  ],
+};
+
+function ensurePhysikK6Lang(
+  labels: Record<string, Record<string, string>>,
+  lang: PhysikK6Lang
+): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Physik K6 Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addPhysikK6PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: PhysikK6PracticeConfig
+): void {
+  const langs: PhysikK6Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+
+    for (const lang of langs) {
+      const bucket = ensurePhysikK6Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit klaren Beispielen zu Wirkung, Messung und Modell.` :
+        lang === "en" ? `${cfg.focus.en} through short examples and clear model links.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákkal: erő, tömeg, mérés és kapcsolatok.` :
+        `${cfg.focus.ro} prin exemple scurte: forță, mișcare, măsurare și relații.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = PHYSIK_K6_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const PHYSIK_K6_PRACTICE_CONFIGS: PhysikK6PracticeConfig[] = [
+  {
+    topic: { de: "Elektrischer Strom", en: "Electric Current", hu: "Elektromos áram", ro: "Curent electric" },
+    focus: { de: "Stromfluss und Spannung", en: "Current flow and voltage", hu: "Áramlás és feszültség", ro: "Flux de curent și tensiune" },
+    hint1: { de: "Leiter", en: "Conductors", hu: "Vezetők", ro: "Conductori" },
+    hint2: { de: "Spannungsquelle", en: "Voltage source", hu: "Feszültségforrás", ro: "Sursă de tensiune" },
+    quiz: "current_voltage_mcq",
+    icon: "🔌",
+    color: "#2563EB",
+    emoji: "⚡",
+  },
+  {
+    topic: { de: "Stromkreise", en: "Circuits", hu: "Áramkörök", ro: "Circuite" },
+    focus: { de: "Reihenschaltung und Parallelzweig", en: "Series and parallel circuits", hu: "Soros és párhuzamos körök", ro: "Circuite serie și paralel" },
+    hint1: { de: "Geschlossener Kreis", en: "Closed loop", hu: "Zárt kör", ro: "Circuit închis" },
+    hint2: { de: "Schalter", en: "Switch", hu: "Kapcsoló", ro: "Întrerupător" },
+    quiz: "series_circuits_mcq",
+    icon: "💡",
+    color: "#F59E0B",
+    emoji: "💡",
+  },
+  {
+    topic: { de: "Dichte", en: "Density", hu: "Sűrűség", ro: "Densitate" },
+    focus: { de: "Masse pro Volumen", en: "Mass per volume", hu: "Tömeg térfogatra", ro: "Masă pe volum" },
+    hint1: { de: "Vergleichen", en: "Compare", hu: "Összehasonlítás", ro: "Compară" },
+    hint2: { de: "Einheiten", en: "Units", hu: "Mértékegységek", ro: "Unități" },
+    quiz: "density_basics_mcq",
+    icon: "🧪",
+    color: "#06B6D4",
+    emoji: "⚖️",
+  },
+  {
+    topic: { de: "Wellen", en: "Waves", hu: "Hullámok", ro: "Unde" },
+    focus: { de: "Wellenarten und Eigenschaften", en: "Wave types and properties", hu: "Hullámtípusok és tulajdonságok", ro: "Tipuri și proprietăți de unde" },
+    hint1: { de: "Amplitude", en: "Amplitude", hu: "Amplitúdó", ro: "Amplitudine" },
+    hint2: { de: "Frequenz", en: "Frequency", hu: "Frekvencia", ro: "Frecvență" },
+    quiz: "wave_properties_mcq",
+    icon: "🌊",
+    color: "#0EA5E9",
+    emoji: "〰️",
+  },
+  {
+    topic: { de: "Maschinen", en: "Machines", hu: "Gépek", ro: "Mașini" },
+    focus: { de: "Einfache Maschinen", en: "Simple machines", hu: "Egyszerű gépek", ro: "Mașini simple" },
+    hint1: { de: "Kraft sparen", en: "Save force", hu: "Erőmegtakarítás", ro: "Economisire de forță" },
+    hint2: { de: "Wirkung vergrößern", en: "Increase effect", hu: "Hatás növelése", ro: "Efect mărit" },
+    quiz: "inclined_plane_mcq",
+    icon: "⚙️",
+    color: "#64748B",
+    emoji: "🛠️",
+  },
+  {
+    topic: { de: "Hebel", en: "Levers", hu: "Emelők", ro: "Pârghii" },
+    focus: { de: "Drehpunkt und Kraftarm", en: "Pivot and effort arm", hu: "Forgáspont és erőkar", ro: "Punct de sprijin și braț de forță" },
+    hint1: { de: "Last", en: "Load", hu: "Teher", ro: "Sarcină" },
+    hint2: { de: "Abstand", en: "Distance", hu: "Távolság", ro: "Distanță" },
+    quiz: "lever_mcq",
+    icon: "🪝",
+    color: "#8B5CF6",
+    emoji: "📐",
+  },
+  {
+    topic: { de: "Hydraulik", en: "Hydraulics", hu: "Hidraulika", ro: "Hidraulică" },
+    focus: { de: "Druckübertragung in Flüssigkeiten", en: "Pressure transfer in liquids", hu: "Nyomásátadás folyadékban", ro: "Transfer de presiune în lichide" },
+    hint1: { de: "Flüssigkeit", en: "Liquid", hu: "Folyadék", ro: "Lichid" },
+    hint2: { de: "Kolben", en: "Piston", hu: "Dugattyú", ro: "Piston" },
+    quiz: "hydraulics_mcq",
+    icon: "🚰",
+    color: "#14B8A6",
+    emoji: "💧",
+  },
+  {
+    topic: { de: "Druck", en: "Pressure", hu: "Nyomás", ro: "Presiune" },
+    focus: { de: "Druck auf Flächen", en: "Pressure on surfaces", hu: "Felületi nyomás", ro: "Presiune pe suprafețe" },
+    hint1: { de: "Kraft pro Fläche", en: "Force per area", hu: "Erő per felület", ro: "Forță pe suprafață" },
+    hint2: { de: "Tiefe und Druck", en: "Depth and pressure", hu: "Mélység és nyomás", ro: "Adâncime și presiune" },
+    quiz: "pressure_basics_mcq",
+    icon: "📊",
+    color: "#EF4444",
+    emoji: "⬇️",
+  },
+  {
+    topic: { de: "Verknüpfte Konzepte", en: "Linked Concepts", hu: "Kapcsolt fogalmak", ro: "Concepte legate" },
+    focus: { de: "Strom, Dichte, Wellen und Druck gemeinsam", en: "Current, density, waves, and pressure together", hu: "Áram, sűrűség, hullámok és nyomás együtt", ro: "Curent, densitate, unde și presiune împreună" },
+    hint1: { de: "Modell denken", en: "Think in models", hu: "Gondolkodj modellben", ro: "Gândește în modele" },
+    hint2: { de: "Daten vergleichen", en: "Compare data", hu: "Hasonlíts adatokat", ro: "Compară date" },
+    quiz: "electrical_safety_mcq",
+    icon: "🧩",
+    color: "#334155",
+    emoji: "✅",
+  },
+];
+
+addPhysikK6PracticeTopics(PHYSIK_K6_I1_LABELS, PHYSIK_K6_I1_POOL, PHYSIK_K6_PRACTICE_CONFIGS[0]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I2_LABELS, PHYSIK_K6_I2_POOL, PHYSIK_K6_PRACTICE_CONFIGS[1]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I3_LABELS, PHYSIK_K6_I3_POOL, PHYSIK_K6_PRACTICE_CONFIGS[2]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I4_LABELS, PHYSIK_K6_I4_POOL, PHYSIK_K6_PRACTICE_CONFIGS[3]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I5_LABELS, PHYSIK_K6_I5_POOL, PHYSIK_K6_PRACTICE_CONFIGS[4]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I6_LABELS, PHYSIK_K6_I6_POOL, PHYSIK_K6_PRACTICE_CONFIGS[5]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I7_LABELS, PHYSIK_K6_I7_POOL, PHYSIK_K6_PRACTICE_CONFIGS[6]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I8_LABELS, PHYSIK_K6_I8_POOL, PHYSIK_K6_PRACTICE_CONFIGS[7]);
+addPhysikK6PracticeTopics(PHYSIK_K6_I9_LABELS, PHYSIK_K6_I9_POOL, PHYSIK_K6_PRACTICE_CONFIGS[8]);

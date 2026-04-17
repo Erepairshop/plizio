@@ -3878,3 +3878,209 @@ export const PHYSIK_K5_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "simple_circuits_mcq" },
   },
 ];
+
+type PhysikK5Lang = "de" | "en" | "hu" | "ro";
+type PhysikK5L10n = Record<PhysikK5Lang, string>;
+
+interface PhysikK5PracticeConfig {
+  topic: PhysikK5L10n;
+  focus: PhysikK5L10n;
+  hint1: PhysikK5L10n;
+  hint2: PhysikK5L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const PHYSIK_K5_PRACTICE_INSTRUCTIONS: Record<PhysikK5Lang, string[]> = {
+  de: [
+    "Wähle die passenden Beispiele.",
+    "Sortiere die Aussagen nach Wirkung.",
+    "Nutze Begriffe wie Wärme, Größe und Kraft.",
+    "Verbinde Ursache und Wirkung im Körper und im Alltag.",
+    "Prüfe die Zusammenhänge und wähle die beste Aussage.",
+  ],
+  en: [
+    "Choose the matching examples.",
+    "Sort the statements by effect.",
+    "Use the key terms correctly.",
+    "Link cause and effect in daily situations.",
+    "Check the connections and choose the best statement.",
+  ],
+  hu: [
+    "Válaszd ki a megfelelő példákat.",
+    "Rendezd a kijelentéseket hatás szerint.",
+    "Használd az erő és tömeg fogalmát.",
+    "Kösd össze az okot és a következményt példákon.",
+    "Ellenőrizd a kapcsolatokat, és válaszd a legjobb állítást.",
+  ],
+  ro: [
+    "Sortează exemplele potrivite.",
+    "Sortează afirmațiile după efect.",
+    "Folosește termenii forță și mișcare corect.",
+    "Leagă cauza de efect în situații simple.",
+    "Verifică legăturile și alege afirmația corectă.",
+  ],
+};
+
+function ensurePhysikK5Lang(
+  labels: Record<string, Record<string, string>>,
+  lang: PhysikK5Lang
+): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Physik K5 Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addPhysikK5PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: PhysikK5PracticeConfig
+): void {
+  const langs: PhysikK5Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+
+    for (const lang of langs) {
+      const bucket = ensurePhysikK5Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit klaren Beispielen zu Wirkung, Richtung, Größe und Wärme.` :
+        lang === "en" ? `${cfg.focus.en} with short examples and clear effect links.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákkal: erő, tömeg, hatás és kapcsolatok.` :
+        `${cfg.focus.ro} prin exemple scurte: forță, mișcare, efect și relații.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = PHYSIK_K5_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const PHYSIK_K5_PRACTICE_CONFIGS: PhysikK5PracticeConfig[] = [
+  {
+    topic: { de: "Kraft", en: "Force", hu: "Erő", ro: "Forță" },
+    focus: { de: "Kraftwirkungen", en: "Force effects", hu: "Erőhatások", ro: "Efectele forței" },
+    hint1: { de: "Drücken und Ziehen", en: "Push and pull", hu: "Nyomás és húzás", ro: "Împingere și tragere" },
+    hint2: { de: "Richtung der Kraft", en: "Direction of force", hu: "Az erő iránya", ro: "Direcția forței" },
+    quiz: "push_pull_mcq",
+    icon: "💪",
+    color: "#2563EB",
+    emoji: "⚙️",
+  },
+  {
+    topic: { de: "Bewegung", en: "Motion", hu: "Mozgás", ro: "Mișcare" },
+    focus: { de: "Bewegung und Tempo", en: "Motion and speed", hu: "Mozgás és sebesség", ro: "Mișcare și viteză" },
+    hint1: { de: "Beschleunigen", en: "Acceleration", hu: "Gyorsulás", ro: "Accelerație" },
+    hint2: { de: "Bremsen", en: "Braking", hu: "Lassítás", ro: "Frânare" },
+    quiz: "air_resistance_mcq",
+    icon: "🏃",
+    color: "#0EA5E9",
+    emoji: "🏁",
+  },
+  {
+    topic: { de: "Energie", en: "Energy", hu: "Energia", ro: "Energie" },
+    focus: { de: "Energieformen", en: "Energy forms", hu: "Energiaformák", ro: "Forme de energie" },
+    hint1: { de: "Bewegungsenergie", en: "Kinetic energy", hu: "Mozgási energia", ro: "Energie cinetică" },
+    hint2: { de: "Lageenergie", en: "Potential energy", hu: "Helyzeti energia", ro: "Energie potențială" },
+    quiz: "energy_forms_mcq",
+    icon: "⚡",
+    color: "#F59E0B",
+    emoji: "🔋",
+  },
+  {
+    topic: { de: "Wärme", en: "Heat", hu: "Hő", ro: "Căldură" },
+    focus: { de: "Wärmeleitung und Temperatur", en: "Heat transfer and temperature", hu: "Hőátadás és hőmérséklet", ro: "Transfer de căldură și temperatură" },
+    hint1: { de: "Leitung", en: "Conduction", hu: "Vezetés", ro: "Conducție" },
+    hint2: { de: "Isolierung", en: "Insulation", hu: "Szigetelés", ro: "Izolație" },
+    quiz: "heat_transfer_mcq",
+    icon: "🔥",
+    color: "#EF4444",
+    emoji: "🌡️",
+  },
+  {
+    topic: { de: "Licht", en: "Light", hu: "Fény", ro: "Lumină" },
+    focus: { de: "Reflexion und Schatten", en: "Reflection and shadows", hu: "Visszaverődés és árnyék", ro: "Reflexie și umbre" },
+    hint1: { de: "Lichtquelle", en: "Light source", hu: "Fényforrás", ro: "Sursă de lumină" },
+    hint2: { de: "Spiegelung", en: "Reflection", hu: "Tükröződés", ro: "Reflexie" },
+    quiz: "reflection_mcq",
+    icon: "💡",
+    color: "#FACC15",
+    emoji: "✨",
+  },
+  {
+    topic: { de: "Schall", en: "Sound", hu: "Hang", ro: "Sunet" },
+    focus: { de: "Schallwellen im Alltag", en: "Sound waves in daily life", hu: "Hanghullámok a hétköznapokban", ro: "Unde sonore în viața de zi cu zi" },
+    hint1: { de: "Tonhöhe", en: "Pitch", hu: "Hangmagasság", ro: "Înălțime" },
+    hint2: { de: "Lautstärke", en: "Volume", hu: "Hangerő", ro: "Volum" },
+    quiz: "sound_waves_mcq",
+    icon: "🔊",
+    color: "#8B5CF6",
+    emoji: "🎵",
+  },
+  {
+    topic: { de: "Magnetismus", en: "Magnetism", hu: "Mágnesesség", ro: "Magnetism" },
+    focus: { de: "Magnetische Kräfte", en: "Magnetic forces", hu: "Mágneses erők", ro: "Forțe magnetice" },
+    hint1: { de: "Nord und Süd", en: "North and south", hu: "Északi és déli pólus", ro: "Pol nord și sud" },
+    hint2: { de: "Anziehen und Abstoßen", en: "Attract and repel", hu: "Vonzás és taszítás", ro: "Atracție și respingere" },
+    quiz: "magnetic_field_mcq",
+    icon: "🧲",
+    color: "#10B981",
+    emoji: "🧲",
+  },
+  {
+    topic: { de: "Messung", en: "Measurement", hu: "Mérés", ro: "Măsurare" },
+    focus: { de: "Messen von Kraft und Größe", en: "Measuring force and size", hu: "Erő és méret mérése", ro: "Măsurarea forței și mărimii" },
+    hint1: { de: "Einheiten", en: "Units", hu: "Mértékegységek", ro: "Unități" },
+    hint2: { de: "Messgenauigkeit", en: "Accuracy", hu: "Mérési pontosság", ro: "Precizie" },
+    quiz: "force_measurement_mcq",
+    icon: "📏",
+    color: "#14B8A6",
+    emoji: "📐",
+  },
+  {
+    topic: { de: "Gravitation", en: "Gravity", hu: "Gravitáció", ro: "Gravitație" },
+    focus: { de: "Gewichtskraft und Fall", en: "Weight and falling", hu: "Súlyerő és esés", ro: "Greutate și cădere" },
+    hint1: { de: "Masse und Gewicht", en: "Mass and weight", hu: "Tömeg és súly", ro: "Masă și greutate" },
+    hint2: { de: "Freier Fall", en: "Free fall", hu: "Szabadesés", ro: "Cădere liberă" },
+    quiz: "gravity_mcq",
+    icon: "🌍",
+    color: "#334155",
+    emoji: "⬇️",
+  },
+];
+
+addPhysikK5PracticeTopics(PHYSIK_K5_I1_LABELS, PHYSIK_K5_I1_POOL, PHYSIK_K5_PRACTICE_CONFIGS[0]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I2_LABELS, PHYSIK_K5_I2_POOL, PHYSIK_K5_PRACTICE_CONFIGS[1]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I3_LABELS, PHYSIK_K5_I3_POOL, PHYSIK_K5_PRACTICE_CONFIGS[2]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I4_LABELS, PHYSIK_K5_I4_POOL, PHYSIK_K5_PRACTICE_CONFIGS[3]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I5_LABELS, PHYSIK_K5_I5_POOL, PHYSIK_K5_PRACTICE_CONFIGS[4]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I6_LABELS, PHYSIK_K5_I6_POOL, PHYSIK_K5_PRACTICE_CONFIGS[5]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I7_LABELS, PHYSIK_K5_I7_POOL, PHYSIK_K5_PRACTICE_CONFIGS[6]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I8_LABELS, PHYSIK_K5_I8_POOL, PHYSIK_K5_PRACTICE_CONFIGS[7]);
+addPhysikK5PracticeTopics(PHYSIK_K5_I9_LABELS, PHYSIK_K5_I9_POOL, PHYSIK_K5_PRACTICE_CONFIGS[8]);
