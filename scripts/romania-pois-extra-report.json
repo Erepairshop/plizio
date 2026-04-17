@@ -1,0 +1,317 @@
+[
+  {
+    "id": "river-dunarea",
+    "status": "ok",
+    "reason": "View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg"
+  },
+  {
+    "id": "river-mures",
+    "status": "ok",
+    "reason": "MuresRiver.750pix.jpg"
+  },
+  {
+    "id": "river-olt",
+    "status": "ok",
+    "reason": "Olt_East_Karpatien.jpg"
+  },
+  {
+    "id": "river-siret",
+    "status": "ok",
+    "reason": "Siretul_la_Mircesti.jpg"
+  },
+  {
+    "id": "river-prut",
+    "status": "ok",
+    "reason": "Prut_near_Hoverla.jpg"
+  },
+  {
+    "id": "river-somes",
+    "status": "ok",
+    "reason": "RO_SJ_Raul_Somes_la_Letca_%282%29.JPG"
+  },
+  {
+    "id": "river-arges",
+    "status": "ok",
+    "reason": "Arges.Mihailesti-Cornetu.jpg"
+  },
+  {
+    "id": "river-dambovita",
+    "status": "ok",
+    "reason": "Dambovita_near_Ciurel_Bridge_in_Bucharest.jpg"
+  },
+  {
+    "id": "river-jiu",
+    "status": "ok",
+    "reason": "Jiu_River_in_Craiova.jpg"
+  },
+  {
+    "id": "river-ialomita",
+    "status": "ok",
+    "reason": "Ialomita_River_crossing_DN_2A.jpg"
+  },
+  {
+    "id": "river-tarnava",
+    "status": "miss",
+    "reason": "no image in wiki"
+  },
+  {
+    "id": "river-crisul",
+    "status": "miss",
+    "reason": "no image in wiki"
+  },
+  {
+    "id": "mountain-carpati",
+    "status": "ok",
+    "reason": "Morskie_Oko_in_2020.jpg"
+  },
+  {
+    "id": "mountain-fagaras",
+    "status": "ok",
+    "reason": "Muntii_Fagarasului%2C_harta_turistica_si_a_reliefului.jpg"
+  },
+  {
+    "id": "mountain-moldoveanu",
+    "status": "ok",
+    "reason": "Moldoveanu_Peak_%28Romania%29.jpg"
+  },
+  {
+    "id": "mountain-negoiu",
+    "status": "ok",
+    "reason": "Negoiu.jpg"
+  },
+  {
+    "id": "mountain-bucegi",
+    "status": "ok",
+    "reason": "Muntii_Bucegi_vazuti_de_pe_Postavaru.jpg"
+  },
+  {
+    "id": "mountain-retezat",
+    "status": "ok",
+    "reason": "Modelare_3D_pentru_Muntii_Retezat%2C_Romania.gif"
+  },
+  {
+    "id": "mountain-piatra-craiului",
+    "status": "ok",
+    "reason": "Abrupt_-_panoramio.jpg"
+  },
+  {
+    "id": "mountain-apuseni",
+    "status": "ok",
+    "reason": "Trascaucasa.jpg"
+  },
+  {
+    "id": "mountain-rodnei",
+    "status": "ok",
+    "reason": "Romania%2C_Rodna_Mountains_National_Park.jpg"
+  },
+  {
+    "id": "mountain-ceahlau",
+    "status": "ok",
+    "reason": "Ceahlau_2.jpg"
+  },
+  {
+    "id": "mountain-maramures",
+    "status": "ok",
+    "reason": "Pop_Ivan_Massif%2C_Maramures.jpg"
+  },
+  {
+    "id": "mountain-orientali",
+    "status": "ok",
+    "reason": "Mapcarpat2.png"
+  },
+  {
+    "id": "mountain-meridionali",
+    "status": "ok",
+    "reason": "Negoiu.jpg"
+  },
+  {
+    "id": "mountain-occidentali",
+    "status": "ok",
+    "reason": "MunteleVulcan_2.jpg"
+  },
+  {
+    "id": "lake-sfanta-ana",
+    "status": "ok",
+    "reason": "Szent_Anna-t%C3%B3-1.jpg"
+  },
+  {
+    "id": "lake-bicaz",
+    "status": "ok",
+    "reason": "Viaduct_Poiana_Largului%2C_Neam%C8%9B_County.jpg"
+  },
+  {
+    "id": "lake-vidraru",
+    "status": "ok",
+    "reason": "Vidraru_lake.jpg"
+  },
+  {
+    "id": "lake-razim",
+    "status": "ok",
+    "reason": "Razim.jpg"
+  },
+  {
+    "id": "lake-balea",
+    "status": "ok",
+    "reason": "Bileato.jpg"
+  },
+  {
+    "id": "lake-rosu",
+    "status": "ok",
+    "reason": "Lacul_Rosu_092.jpg"
+  },
+  {
+    "id": "lake-iezer",
+    "status": "miss",
+    "reason": "no image in wiki"
+  },
+  {
+    "id": "lake-sovata",
+    "status": "miss",
+    "reason": "no image in wiki"
+  },
+  {
+    "id": "sea-marea-neagra",
+    "status": "ok",
+    "reason": "Black_Sea_map.png"
+  },
+  {
+    "id": "hist-sarmizegetusa-regia",
+    "status": "ok",
+    "reason": "Sarmisegetusa_Regia_-_Templele_patrulatere_mici_-_Zona_sacra_%E2%80%93_Gradistea_Muntelui%2C_Muntii_Sureanu%2C_Hunedoara%2C_Romania_19.JPG"
+  },
+  {
+    "id": "hist-ulpia-traiana",
+    "status": "ok",
+    "reason": "Aerial_photographs_of_Ulpia_Traiana_Sarmizegetusa-0170.jpg"
+  },
+  {
+    "id": "hist-histria",
+    "status": "ok",
+    "reason": "Histria_city_walls.jpg"
+  },
+  {
+    "id": "hist-alba-carolina",
+    "status": "ok",
+    "reason": "Cetatea_Alba_Iulia_din_aer_toamna.jpg"
+  },
+  {
+    "id": "hist-bran-castle",
+    "status": "ok",
+    "reason": "Castelul_Bran2.jpg"
+  },
+  {
+    "id": "hist-peles-castle",
+    "status": "ok",
+    "reason": "01_Chateau_Peles.jpg"
+  },
+  {
+    "id": "hist-corvin-castle",
+    "status": "ok",
+    "reason": "Hunedoara_castle.jpg"
+  },
+  {
+    "id": "hist-sighisoara-citadel",
+    "status": "ok",
+    "reason": "Casa_cu_cerbi.JPG"
+  },
+  {
+    "id": "hist-voronet",
+    "status": "ok",
+    "reason": "Voronet_Intrare.JPG"
+  },
+  {
+    "id": "hist-moldovita",
+    "status": "ok",
+    "reason": "Manastirea_Moldovita%2C_vedere_laterala.jpg"
+  },
+  {
+    "id": "hist-sucevita",
+    "status": "ok",
+    "reason": "Biserica_si_curtea_manastirii_Sucevita.jpg"
+  },
+  {
+    "id": "hist-horezu",
+    "status": "ok",
+    "reason": "Horezu_bis_man_SV.jpg"
+  },
+  {
+    "id": "hist-poenari",
+    "status": "ok",
+    "reason": "PoienariCastle1.jpg"
+  },
+  {
+    "id": "hist-curtea-veche",
+    "status": "ok",
+    "reason": "Curtea_Veche_1.jpg"
+  },
+  {
+    "id": "landmark-delta-dunarii",
+    "status": "ok",
+    "reason": "Danube_Delta_ESA23450088.jpeg"
+  },
+  {
+    "id": "landmark-retezat-np",
+    "status": "ok",
+    "reason": "Retezat_near_camp_Bucura.JPG"
+  },
+  {
+    "id": "landmark-transfagarasan",
+    "status": "ok",
+    "reason": "Romania-roads-DN7C.png"
+  },
+  {
+    "id": "landmark-transalpina",
+    "status": "miss",
+    "reason": "no image in wiki"
+  },
+  {
+    "id": "landmark-cheile-bicazului",
+    "status": "ok",
+    "reason": "Chei_Bicaz_047.jpg"
+  },
+  {
+    "id": "landmark-cheile-turzii",
+    "status": "ok",
+    "reason": "Looking_east_through_the_Turda_gorge%2C_Romania%2C_2017.jpg"
+  },
+  {
+    "id": "landmark-salina-turda",
+    "status": "ok",
+    "reason": "Salina_Turda_045.jpg"
+  },
+  {
+    "id": "landmark-salina-praid",
+    "status": "ok",
+    "reason": "Parajd2.jpg"
+  },
+  {
+    "id": "landmark-salina-slanic",
+    "status": "ok",
+    "reason": "Slanic_scenic_view.jpg"
+  },
+  {
+    "id": "landmark-mud-volcanoes",
+    "status": "ok",
+    "reason": "Volcanes_de_lodo%2C_Buzau%2C_Ruman%C3%ADa%2C_2016-05-29%2C_DD_33.jpg"
+  },
+  {
+    "id": "landmark-sphinx-bucegi",
+    "status": "miss",
+    "reason": "no image in wiki"
+  },
+  {
+    "id": "landmark-palace-parliament",
+    "status": "ok",
+    "reason": "Bucharest_-_Palace_of_the_Parliament_%282024%29_%282%29.jpg"
+  },
+  {
+    "id": "landmark-merry-cemetery",
+    "status": "ok",
+    "reason": "Cimitirul_Vesel%2C_S%C4%83p%C3%A2n%C8%9Ba%2C_Maramure%C8%99_-_%282023%29_-_IMG_18.jpg"
+  },
+  {
+    "id": "landmark-ateneul-roman",
+    "status": "ok",
+    "reason": "Ateneo_Rumano%2C_Bucarest%2C_Ruman%C3%ADa%2C_2016-05-29%2C_DD_73.jpg"
+  }
+]
