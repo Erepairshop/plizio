@@ -226,7 +226,7 @@ function poolFor(grade: number, seed: number): RoundPool {
     grade <= 4 ? 780 :
     620;
   const durationMs = 45_000;
-  const goal = Math.max(1, grade); // K1=1 helyes vágás, K8=8
+  const goal = grade <= 5 ? 3 : 3 + (grade - 5); // K1-5=3, K6=4, K7=5, K8=6
   return { rule, range, spawnIntervalMs, durationMs, goal, maxLives: 3 };
 }
 
@@ -249,8 +249,8 @@ const PALETTE = ["#22D3EE", "#F472B6", "#A78BFA", "#FBBF24", "#34D399", "#F97316
 
 export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
-  const [phase, setPhase] = useState<"intro" | "reveal" | "playing" | "won" | "lost">("intro");
-  const [pool, setPool] = useState<RoundPool>(() => poolFor(grade, 0));
+  const [phase, setPhase] = useState<"reveal" | "playing" | "won" | "lost">("reveal");
+  const [pool, setPool] = useState<RoundPool>(() => poolFor(grade, Math.floor(Math.random() * 1000)));
   const [revealLeft, setRevealLeft] = useState(3);
 
   const [blades, setBlades] = useState<Blade[]>([]);
@@ -814,30 +814,6 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
             />
           )}
         </svg>
-
-        {/* ── Intro overlay ── */}
-        {phase === "intro" && (
-          <div className="absolute inset-0 z-40 flex flex-col items-center justify-center bg-black/72 backdrop-blur-sm p-6 text-center">
-            <p
-              className="text-4xl sm:text-5xl font-black bg-gradient-to-r from-cyan-300 to-fuchsia-400 bg-clip-text text-transparent mb-2"
-              style={{ textShadow: "0 4px 18px rgba(34,211,238,0.25)" }}
-            >
-              {t.title}
-            </p>
-            <p className="text-white/65 mb-6 text-sm max-w-xs">{t.subtitle}</p>
-            <button
-              onClick={start}
-              className="
-                px-7 py-3 rounded-full text-white text-base font-bold
-                bg-gradient-to-r from-cyan-500 to-fuchsia-500
-                shadow-[0_8px_28px_rgba(34,211,238,0.40)]
-                hover:scale-[1.05] active:scale-[0.97] transition
-              "
-            >
-              ⚔️ {t.start}
-            </button>
-          </div>
-        )}
 
         {/* ── Reveal overlay: show task + countdown ── */}
         {phase === "reveal" && (
