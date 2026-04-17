@@ -117,7 +117,7 @@ const K6_I1: IslandSpec = {
       text: L(
         "Ein Atom besteht aus Kern und Hülle.",
         "An atom has a nucleus and an electron shell.",
-        "Az atom magból és elektrongyökből áll.",
+        "Az atom magból és elektronburokból áll.",
         "Un atom are nucleu și înveliș electronic."
       ),
       hint: L("Kern und Elektronen helfen beim Erkennen.", "Nucleus and electrons help you identify it.", "A mag és az elektronok segítenek felismerni.", "Nucleul și electronii te ajută să-l recunoști."),
@@ -183,7 +183,7 @@ const K6_I1: IslandSpec = {
         "A fémek jól vezetik az áramot. A nemfémek többnyire nem.",
         "Metalele conduc bine electricitatea. Nemetalele, de obicei, nu."
       ),
-      hint: L("Vergleiche Leitfähigkeit und Aussehen.", "Compare conductivity and appearance.", "Hasonlítsd össze a vezetést és a külalakot.", "Compară conductivitatea și aspectul."),
+      hint: L("Vergleiche Leitfähigkeit und Aussehen.", "Compare conductivity and appearance.", "Hasonlítsd össze a vezetőképességet és a megjelenést.", "Compară conductivitatea și aspectul."),
       bullet1: L("leitfähig", "conductive", "vezető", "conductiv"),
       bullet2: L("nicht leitfähig", "nonconductive", "nem vezető", "neconductiv"),
       labels: {
@@ -257,7 +257,7 @@ const K6_I1: IslandSpec = {
       labels: {
         row: L("Zeile", "row", "sor", "rând"),
         col: L("Spalte", "column", "oszlop", "coloană"),
-        order: L("Ordnung", "order", "rendszer", "ordine"),
+        order: L("Ordnung", "order", "rend", "ordine"),
       },
       svg: topicSvg("🗂️", "Periodic", "#8B5CF6"),
       interactive: (k) => ({
@@ -295,7 +295,7 @@ const K6_I1: IslandSpec = {
     },
     {
       title: L("Elektronen", "Electrons", "Elektronok", "Electronii"),
-      text: L("Elektronen kreisen in der Hülle um den Kern.", "Electrons orbit the nucleus in the shell.", "Az elektronok a mag körül keringenek a burokban.", "Electronii orbitează nucleul în înveliș."),
+      text: L("Elektronen kreisen in der Hülle um den Kern.", "Electrons orbit the nucleus in the shell.", "Az elektronok a mag körül keringenek az elektronburokban.", "Electronii orbitează nucleul în înveliș."),
       hint: L("Sie sind negativ geladen.", "They are negatively charged.", "Negatív töltésűek.", "Sunt încărcați negativ."),
       labels: {
         electron: L("Elektron", "Electron", "Elektron", "Electron"),
@@ -394,9 +394,9 @@ const K6_I2: IslandSpec = {
         "A vegyületekben az elemek kémiailag kapcsolódnak.",
         "În compuși, elementele sunt unite chimic."
       ),
-      hint: L("Verbunden heißt nicht gemischt.", "Joined does not mean mixed.", "A kapcsolódás nem keverék.", "Unit nu înseamnă amestec."),
+      hint: L("Verbunden heißt nicht gemischt.", "Joined does not mean mixed.", "Az összekapcsolódás nem összekeveredést jelent.", "Unit nu înseamnă amestec."),
       labels: {
-        joined: L("verbunden", "joined", "kapcsolódott", "unit"),
+        joined: L("verbunden", "joined", "összekapcsolódott", "unit"),
         mixed: L("gemischt", "mixed", "kevert", "amestecat"),
         compound: L("Verbindung", "compound", "vegyület", "compus"),
       },
@@ -506,7 +506,7 @@ const K6_I2: IslandSpec = {
         "A keverékeket gyakran szét lehet választani. A vegyületek kémiailag kötöttek.",
         "Amestecurile pot fi separate. Compușii sunt uniți chimic."
       ),
-      hint: L("Trennbar oder chemisch verbunden?", "Separatable or chemically joined?", "Szétválasztható vagy kémiailag kapcsolt?", "Separabil sau unit chimic?"),
+      hint: L("Trennbar oder chemisch verbunden?", "Separable or chemically joined?", "Szétválasztható vagy kémiailag kötött?", "Separabil sau unit chimic?"),
       labels: {
         mixture: L("Gemisch", "mixture", "keverék", "amestec"),
         compound: L("Verbindung", "compound", "vegyület", "compus"),
@@ -534,7 +534,7 @@ const K6_I2: IslandSpec = {
     },
 
     {
-      title: L("Ionen", "Ions", "Ionos", "Ioni"),
+      title: L("Ionen", "Ions", "Ionok", "Ioni"),
       text: L("Ionen sind geladene Teilchen.", "Ions are charged particles.", "Az ionok töltött részecskék.", "Ionii sunt particule încărcate."),
       hint: L("Sie haben Elektronen verloren oder gewonnen.", "They have lost or gained electrons.", "Elektronokat vesztettek vagy nyertek.", "Au pierdut sau au câștigat electroni."),
       labels: {
@@ -747,7 +747,7 @@ const K6_I3: IslandSpec = {
       labels: {
         one: L("ein Stoff", "one substance", "egy anyag", "o substanță"),
         many: L("mehrere Stoffe", "several substances", "több anyag", "mai multe substanțe"),
-        split: L("zerlegt", "breaks apart", "szétbomlik", "se descompune"),
+        split: L("zerlegt", "breaks apart", "bomlik", "se descompune"),
       },
       svg: { type: "kemia-diagram", name: "ReactionSvg" },
       interactive: (k) => ({
@@ -809,7 +809,7 @@ const K6_I3: IslandSpec = {
     {
       title: L("Endotherm", "Endothermic", "Endoterm", "Endoterm"),
       text: L("Endotherme Reaktionen brauchen ständig Energie.", "Endothermic reactions need constant energy.", "Az endoterm reakciók folyamatos energiát igényelnek.", "Reacțiile endoterme au nevoie constantă de energie."),
-      hint: L("Es wird kalt oder braucht Feuer.", "It gets cold or needs fire.", "Lehűl vagy tüzet igényel.", "Se răcește sau are nevoie de foc."),
+      hint: L("Es wird kalt oder braucht Wärme.", "It gets cold or needs heat.", "Lehűl vagy hőt igényel.", "Se răcește sau are nevoie de căldură."),
       labels: {
         endo: L("endotherm", "endothermic", "endoterm", "endoterm"),
         need: L("brauchen", "need", "igényel", "necesită"),
@@ -910,7 +910,7 @@ const K6_I4: IslandSpec = {
         "A savak ételekben és tisztítószerekben is előfordulnak.",
         "Acizii apar în alimente și produse de curățare."
       ),
-      hint: L("Zitrone und Essig sind bekannte Beispiele.", "Lemon and vinegar are well-known examples.", "A citrom és az ecet ismert példa.", "Lămâia și oțetul sunt exemple cunoscute."),
+      hint: L("Zitrone und Essig sind bekannte Beispiele.", "Lemon and vinegar are well-known examples.", "A citrom és az ecet ismert példák.", "Lămâia și oțetul sunt exemple cunoscute."),
       labels: {
         lemon: L("Zitrone", "lemon", "citrom", "lămâie"),
         vinegar: L("Essig", "vinegar", "ecet", "oțet"),
@@ -1132,7 +1132,7 @@ const K6_I4: IslandSpec = {
     },
     {
       title: L("Salze aus Neutralisation", "Salts from Neutralization", "Sók semlegesítésből", "Săruri din neutralizare"),
-      text: L("Säure und Base reagieren zu Salz und Wasser.", "Acid and base react to form salt and water.", "A sav és a bázis sóvá és vízzé reagál.", "Acidul și baza reacționează pentru a forma sare și apă."),
+      text: L("Säure und Base reagieren zu Salz und Wasser.", "Acid and base react to form salt and water.", "A sav és a bázis reakciójából só és víz keletkezik.", "Acidul și baza reacționează pentru a forma sare și apă."),
       hint: L("Das ist die Neutralisation.", "This is neutralization.", "Ez a semlegesítés.", "Aceasta este neutralizarea."),
       labels: {
         salt: L("Salz", "salt", "só", "sare"),
@@ -1512,7 +1512,7 @@ const K6_I6: IslandSpec = {
         "Az energiaforrás lehet fosszilis vagy megújuló.",
         "Sursele de energie pot fi fosile sau regenerabile."
       ),
-      hint: L("Sonne und Wind sind erneuerbar.", "Sun and wind are renewable.", "A nap és a szél megújuló.", "Soarele și vântul sunt regenerabile."),
+      hint: L("Sonne und Wind sind erneuerbar.", "Sun and wind are renewable.", "A Nap és a szél megújuló.", "Soarele și vântul sunt regenerabile."),
       labels: {
         fossil: L("fossil", "fossil", "fosszilis", "fosil"),
         renewable: L("erneuerbar", "renewable", "megújuló", "regenerabil"),
@@ -2184,7 +2184,7 @@ const K6_I9: IslandSpec = {
         "Összefoglaljuk a legfontosabb K6 fogalmakat.",
         "Rezumatul termenilor cheie K6."
       ),
-      hint: L("Denk an Atome, Verbindungen és Reaktionen.", "Think of atoms, compounds and reactions.", "Gondolj az atomokra, vegyületekre és reakciókra.", "Gândește-te la atomi, compuși și reacții."),
+      hint: L("Denk an Atome, Verbindungen und Reaktionen.", "Think of atoms, compounds and reactions.", "Gondolj az atomokra, vegyületekre és reakciókra.", "Gândește-te la atomi, compuși și reacții."),
       labels: {
         atom: L("Atom", "atom", "atom", "atom"),
         reaction: L("Reaktion", "reaction", "reakció", "reacție"),
@@ -2216,7 +2216,7 @@ const K6_I9: IslandSpec = {
         "Ismételj át mindent a savas és bázikus oldatokról.",
         "Recapitulează totul despre soluțiile acide și bazice."
       ),
-      hint: L("Nutze die pH-Skala és Indikatoren.", "Use the pH scale and indicators.", "Használd a pH-skálát és az indikátorokat.", "Folosește scara pH și indicatorii."),
+      hint: L("Nutze die pH-Skala und Indikatoren.", "Use the pH scale and indicators.", "Használd a pH-skálát és az indikátorokat.", "Folosește scara pH și indicatorii."),
       labels: {
         indicator: L("Indikator", "indicator", "indikátor", "indicator"),
         color: L("Farbe", "color", "szín", "culoare"),
@@ -2235,12 +2235,12 @@ const K6_I9: IslandSpec = {
     {
       title: L("Trennung im Alltag", "Separation in Daily Life", "Elválasztás a mindennapokban", "Separarea în viața de zi cu zi"),
       text: L(
-        "Wir trennen Gemische auch zu Hause vagy in der Industrie.",
+        "Wir trennen Gemische auch zu Hause oder in der Industrie.",
         "We separate mixtures at home or in industry too.",
         "Otthon vagy az iparban is választunk szét keverékeket.",
         "Separăm amestecurile acasă sau în industrie."
       ),
-      hint: L("Denk an Filter vagy Destillation.", "Think of filters or distillation.", "Gondolj a szűrőre vagy a desztillációra.", "Gândește-te la filtre sau distilare."),
+      hint: L("Denk an Filter oder Destillation.", "Think of filters or distillation.", "Gondolj a szűrőre vagy a desztillációra.", "Gândește-te la filtre sau distilare."),
       labels: {
         filter: L("Filter", "filter", "szűrő", "filtru"),
         industry: L("Industrie", "industry", "ipar", "industrie"),
@@ -2267,7 +2267,7 @@ const K6_I9: IslandSpec = {
         "A kémia segít a környezetvédelemben és az újrahasznosításban.",
         "Chimia ajută la protecția mediului și reciclare."
       ),
-      hint: L("Abgase és Recycling sind wichtige Themen.", "Exhaust gases and recycling are key topics.", "A kipufogógázok és az újrahasznosítás fontos témák.", "Gazele de eșapament și reciclarea sunt teme cheie."),
+      hint: L("Abgase und Recycling sind wichtige Themen.", "Exhaust gases and recycling are key topics.", "A kipufogógázok és az újrahasznosítás fontos témák.", "Gazele de eșapament și reciclarea sunt teme cheie."),
       labels: {
         environment: L("Umwelt", "environment", "környezet", "mediu"),
         protection: L("Schutz", "protection", "védelem", "protecție"),

@@ -528,7 +528,7 @@ const I2: ChemTopic[] = [
       c1: L("slower", "langsamer", "lassabbá", "mai lente"),
       c2: L("louder", "lauter", "hangosabbá", "mai zgomotoase"),
       c3: L("heavier", "schwerer", "nehezebbé", "mai grele"),
-      c4: L("heller", "heller", "világosabbá", "mai luminoase"),
+      c4: L("brighter", "heller", "világosabbá", "mai luminoase"),
     },
     svg: { type: "kemia-diagram", name: "StatesSvg" },
     interactive: {
@@ -1977,7 +1977,7 @@ const I7: ChemTopic[] = [
     difficulty: "medium",
     labels: {
       title: L("Review: Water & Air", "Wiederholung: Wasser & Luft", "Ismétlés: víz és levegő", "Recapitulare: apă și aer"),
-      text: L("Water and air are everyday mixtures and materials we know well.", "Wasser und Luft sind alltägliche Gemische und Stoffe, die wir gut kennen.", "A víz és a levegő hétköznapi keverékek és anyagok.", "Apa és aerul sunt amestecuri și materiale cotidiene pe care le cunoaștem bine."),
+      text: L("Water and air are everyday mixtures and materials we know well.", "Wasser und Luft sind alltägliche Gemische und Stoffe, die wir gut kennen.", "A víz és a levegő hétköznapi keverékek és anyagok.", "Apa și aerul sunt amestecuri și materiale cotidiene pe care le cunoaștem bine."),
       inst: MATCH_INST,
       h1: L("Think of gases and dissolving.", "Denk an Gase und Lösen.", "Gondolj a gázokra és oldódásra.", "Gândește-te la gaze și dizolvare."),
       h2: L("Match the review facts.", "Ordne die Wiederholungsfakten zu.", "Párosítsd az ismétlő tényeket.", "Potrivește faptele de recapitulare."),
@@ -2446,7 +2446,7 @@ const I9: ChemTopic[] = [
       h1: L("Pick safe actions.", "Wähle sichere Handlungen.", "Válaszd a biztonságos cselekvéseket.", "Alege acțiunile sigure."),
       h2: L("Stay careful.", "Bleib vorsichtig.", "Maradj óvatos.", "Rămâi atent."),
       w1: L("goggles", "Schutzbrille", "védőszemüveg", "ochelari de protecție"),
-      w2: L("taste", "kosten", "megkóstolni", "a gusta"),
+      w2: L("taste", "kosten", "megkóstolni", "gusta"),
       w3: L("ask first", "zuerst fragen", "előbb megkérdezni", "întreabă întâi"),
       w4: L("run", "rennen", "futni", "alergă"),
     },

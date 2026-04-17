@@ -354,7 +354,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
     svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "protons_neutrons_electrons_mcq",
     extras: {
-      a: L("Kernteilchen", "Core particles", "Mag-részecskék", "Particule din nucleu"),
+      a: L("Kernteilchen", "Core particles", "Magrészecskék", "Particule din nucleu"),
       b: L("Hülle", "Shell", "Héj", "Strat"),
       i1: L("Proton", "Proton", "Proton", "Proton"),
       i2: L("Neutron", "Neutron", "Neutron", "Neutron"),
@@ -381,7 +381,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
       r1: L("Protonenzahl", "number of protons", "protonok száma", "numărul de protoni"),
       l2: L("Element", "element", "elem", "element"),
       r2: L("Stoffart", "type of substance", "anyagfajta", "tip de substanță"),
-      l3: L("Tabelle", "table", "tábla", "tabel"),
+      l3: L("Tabelle", "table", "táblázat", "tabel"),
       r3: L("Reihenfolge", "order", "sorrend", "ordine"),
     },
     interactive: (p) => magnetInteractive(p, [["l1", "r1"], ["l2", "r2"], ["l3", "r3"]]),
@@ -395,7 +395,7 @@ const I1_TOPICS: ChemTopicSpec[] = [
       "A tömegszám a protonok és neutronok összege.",
       "Numărul de masă este suma protonilor și neutronilor."
     ),
-    inst: L("Bringe die Rechen-Schritte in die richtige Reihenfolge.", "Put the calculation steps in order.", "Tedd sorrendbe a számítás lépéseit.", "Pune pașii de calcul în ordine."),
+    inst: L("Bringe die Rechenschritte in die richtige Reihenfolge.", "Put the calculation steps in order.", "Tedd sorrendbe a számítás lépéseit.", "Pune pașii de calcul în ordine."),
     h1: HINT_A,
     h2: HINT_D,
     svg: { type: "kemia-diagram", name: "AtomSvg" },
@@ -481,7 +481,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "groups_periods_mcq",
     extras: {
-      a: L("Gruppe", "group", "csoport", "grup"),
+      a: L("Gruppe", "group", "csoport", "grupă"),
       b: L("Periode", "period", "periódus", "perioadă"),
       i1: L("Spalte", "column", "oszlop", "coloană"),
       i2: L("Reihe", "row", "sor", "rând"),
@@ -507,7 +507,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     extras: {
       l1: L("weich", "soft", "puha", "moale"),
       r1: L("reaktiv", "reactive", "reakcióképes", "reactiv"),
-      l2: L("mit Wasser", "with water", "vízzel", "cu apa"),
+      l2: L("mit Wasser", "with water", "vízzel", "cu apă"),
       r2: L("schnell", "quickly", "gyorsan", "repede"),
       l3: L("Gruppe 1", "group 1", "1. csoport", "grupa 1"),
       r3: L("außen ein Elektron", "one outer electron", "egy külső elektron", "un electron exterior"),
@@ -551,7 +551,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
     quiz: "noble_gases_mcq",
     extras: {
       a: L("reaktiv?", "reactive?", "reakcióképes?", "reactiv?"),
-      b: L("ruhig", "calm", "nyugodt", "stabile"),
+      b: L("ruhig", "calm", "nyugodt", "stabil"),
       i1: L("Helium", "helium", "hélium", "heliu"),
       i2: L("Neon", "neon", "neon", "neon"),
       i3: L("Argon", "argon", "argon", "argon"),
@@ -561,7 +561,7 @@ const I2_TOPICS: ChemTopicSpec[] = [
   },
   {
     difficulty: "hard",
-    title: L("Perioden-Trends", "Periodic Trends", "Periódikus trendek", "Tendințe periodice"),
+    title: L("Perioden-Trends", "Periodic Trends", "Periodikus trendek", "Tendințe periodice"),
     text: L(
       "Im Periodensystem ändern sich Größe und Reaktivität von Elementen regelmäßig.",
       "In the periodic table, size and reactivity change in patterns.",
@@ -743,7 +743,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
   },
   {
     difficulty: "medium",
-    title: L("Ausgleichen", "Balancing", "Egyenlítés", "Echilibrare"),
+    title: L("Ausgleichen", "Balancing", "Egyenletrendezés", "Echilibrare"),
     text: L(
       "Gleiche Atome müssen auf beiden Seiten stehen.",
       "The same number of atoms must appear on both sides.",
@@ -756,9 +756,9 @@ const I4_TOPICS: ChemTopicSpec[] = [
     svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "balancing_intro_mcq",
     extras: {
-      w1: L("Atome zählen", "count atoms", "atomokat számolni", "numără atomii"),
+      w1: L("Atome zählen", "count atoms", "atomok számolása", "numără atomii"),
       w2: L("Koeffizient", "coefficient", "együttható", "coeficient"),
-      w3: L("prüfen", "check", "ellenőrizni", "verifică"),
+      w3: L("prüfen", "check", "ellenőrzés", "verifică"),
     },
     interactive: (p) => stackerInteractive(p, ["w1", "w2", "w3"]),
   },
@@ -777,7 +777,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
     svg: { type: "kemia-diagram", name: "ReactionSvg" },
     quiz: "conservation_mass_mcq",
     extras: {
-      l1: L("vor der Reaktion", "before reaction", "reakció előtt", "înainte de reakție"),
+      l1: L("vor der Reaktion", "before reaction", "reakció előtt", "înainte de reacție"),
       r1: L("gleich schwer", "same mass", "ugyanannyi tömeg", "aceeași masă"),
       l2: L("keine Masse weg", "no mass disappears", "nem tűnik el tömeg", "nu dispare masa"),
       r2: L("alles bleibt", "everything stays", "minden megmarad", "totul rămâne"),
@@ -842,7 +842,7 @@ const I4_TOPICS: ChemTopicSpec[] = [
 const I5_TOPICS: ChemTopicSpec[] = [
   {
     difficulty: "easy",
-    title: L("Säuren", "Acids", "SAVAK", "Acizi"),
+    title: L("Säuren", "Acids", "Savak", "Acizi"),
     text: L(
       "Säuren schmecken sauer und können Indikatoren verändern.",
       "Acids taste sour and can change indicators.",
@@ -888,7 +888,7 @@ const I5_TOPICS: ChemTopicSpec[] = [
   },
   {
     difficulty: "medium",
-    title: L("Salze", "Salts", "Só", "Săruri"),
+    title: L("Salze", "Salts", "Sók", "Săruri"),
     text: L(
       "Salze entstehen oft aus einer Reaktion von Säure und Base.",
       "Salts often form from a reaction between acid and base.",
@@ -945,12 +945,14 @@ const I5_TOPICS: ChemTopicSpec[] = [
     svg: { type: "kemia-diagram", name: "PhScaleSvg" },
     quiz: "indicator_colors_mcq",
     extras: {
-      a: L("rot", "red", "piros", "roșu"),
-      b: L("blau", "blue", "kék", "albastru"),
-      c: L("grün", "green", "zöld", "verde"),
-      d: L("neutral", "neutral", "semleges", "neutru"),
+      a: L("sauer", "acidic", "savas", "acid"),
+      b: L("basisch", "basic", "lúgos", "bazic"),
+      i1: L("rot", "red", "piros", "roșu"),
+      i2: L("gelb", "yellow", "sárga", "galben"),
+      i3: L("blau", "blue", "kék", "albastru"),
+      i4: L("violett", "purple", "lila", "violet"),
     },
-    interactive: (p) => bucketInteractive(p, `${p}_a`, `${p}_b`, [["a", "a"], ["b", "b"], ["c", "b"], ["d", "a"]]),
+    interactive: (p) => bucketInteractive(p, `${p}_a`, `${p}_b`, [["i1", "a"], ["i2", "a"], ["i3", "b"], ["i4", "b"]]),
   },
   ...buildPracticeTopics({
     themeDe: "Säuren und Basen",
@@ -1057,7 +1059,7 @@ const I6_TOPICS: ChemTopicSpec[] = [
     difficulty: "hard",
     title: L("Legierungen", "Alloys", "Ötvözetek", "Aliaje"),
     text: L(
-      "Legierungen sind Mischungen aus Metalle.",
+      "Legierungen sind Mischungen aus Metallen.",
       "Alloys are mixtures of metals.",
       "Az ötvözetek fémek keverékei.",
       "Aliajele sunt amestecuri de metale."
@@ -1117,7 +1119,7 @@ const I7_TOPICS: ChemTopicSpec[] = [
     svg: { type: "kemia-diagram", name: "AtomSvg" },
     quiz: "groups_periods_mcq",
     extras: {
-      w1: L("Gruppe", "group", "csoport", "grup"),
+      w1: L("Gruppe", "group", "csoport", "grupă"),
       w2: L("Periode", "period", "periódus", "perioadă"),
       w3: L("Trend", "trend", "trend", "tendință"),
     },
@@ -1152,13 +1154,13 @@ const I7_TOPICS: ChemTopicSpec[] = [
     extras: {
       w1: L("Kern", "nucleus", "mag", "nucleu"),
       w2: L("Hülle", "shell", "héj", "strat"),
-      w3: L("Gruppe", "group", "csoport", "grup"),
+      w3: L("Gruppe", "group", "csoport", "grupă"),
     },
     interactive: (p) => stackerInteractive(p, ["w1", "w2", "w3"]),
   },
   {
     difficulty: "hard",
-    title: L("Finaler Perioden-Check", "Final Periodic Review", "Végső periódus-ellenőrzés", "Recapitulare periodică finală"),
+    title: L("Finaler Perioden-Check", "Final Periodic Review", "Végső periodikus ellenőrzés", "Recapitulare periodică finală"),
     text: L("Kannst du die wichtigsten Periodensystem-Ideen sicher anwenden?", "Can you apply the key periodic-table ideas?", "Biztosan tudod alkalmazni a legfontosabb periódusos rendszer ötleteket?", "Poți aplica ideile principale din tabelul periodic?"),
     inst: L("Wähle die stärkste Aussage.", "Choose the strongest statement.", "Válaszd a legerősebb állítást.", "Alege afirmația cea mai bună."),
     h1: HINT_D,
@@ -1223,7 +1225,7 @@ const I8_TOPICS: ChemTopicSpec[] = [
   },
   {
     difficulty: "medium",
-    title: L("Gleichungen ausgleichen", "Balance Equations", "Egyenletek rendezése", "Echilibrați ecuațiile"),
+    title: L("Gleichungen ausgleichen", "Balance Equations", "Egyenletek rendezése", "Echilibrarea ecuațiilor"),
     text: L("Beim Ausgleichen bleiben links und rechts gleich viele Atome.", "When balancing, both sides keep the same number of atoms.", "Az egyenlítésnél bal és jobb oldalon is ugyanannyi atom marad.", "La echilibrare, ambele părți păstrează același număr de atomi."),
     inst: L("Ordne die Schritte.", "Order the steps.", "Rendezd a lépéseket.", "Ordonează pașii."),
     h1: HINT_A,
@@ -1241,7 +1243,7 @@ const I8_TOPICS: ChemTopicSpec[] = [
     difficulty: "easy",
     title: L("Masse bleibt", "Mass Stays", "A tömeg marad", "Masa rămâne"),
     text: L("Bei Reaktionen verschwindet keine Masse.", "In reactions, no mass disappears.", "Reakcióknál nem tűnik el tömeg.", "În reacții, masa nu dispare."),
-    inst: L("Paaren die Aussagen.", "Pair the statements.", "Párosítsd az állításokat.", "Potrivește afirmațiile."),
+    inst: L("Paare die Aussagen.", "Pair the statements.", "Párosítsd az állításokat.", "Potrivește afirmațiile."),
     h1: HINT_C,
     h2: HINT_D,
     svg: { type: "kemia-diagram", name: "ReactionSvg" },
@@ -1371,7 +1373,7 @@ const I9_TOPICS: ChemTopicSpec[] = [
       c1: L("Säure + Base = Salz", "acid + base = salt", "sav + bázis = só", "acid + bază = sare"),
       c2: L("Metall + Luft = immer neu", "metal + air = always new", "fém + levegő = mindig új", "metal + aer = mereu nou"),
       c3: L("Alles ist gleich", "everything is the same", "minden ugyanaz", "totul este la fel"),
-      c4: L("Keine Reaktionen", "no reactions", "nincs reakció", "fără reakții"),
+      c4: L("Keine Reaktionen", "no reactions", "nincs reakció", "fără reacții"),
     },
     interactive: (p) => gapFillInteractive(p, "q", ["c1", "c2", "c3", "c4"], 0),
   },
