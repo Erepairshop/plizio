@@ -653,7 +653,7 @@ const PHYSIK_K5_I2_BASE = {
   t5_c4: "warmer",
 
   t6_title: "Gravity on the Moon",
-  t6_text: "The Moon is smaller than Earth, so its gravity is weaker. You would feel much lighter there.",
+  t6_text: "The Moon is smaller than Earth, só its gravity is weaker. You would feel much lighter there.",
   t6_inst: "Sort objects into Earth weight or Moon weight.",
   t6_h1: "Earth has strong pull.",
   t6_h2: "Moon has 1/6th of Earth's pull.",
