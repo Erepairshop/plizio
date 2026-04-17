@@ -566,28 +566,34 @@ function DeutschGameSwitch({
   // Round-szintű fallback: ha az adott pool-ban üres az array, de+1-ből vesszük
   const dePool = ASTRO_LANGUAGE_POOLS['de']?.[1];
 
+  function pickRound<T>(arr: T[] | undefined, fallback: T[] | undefined): T | undefined {
+    const src = (arr && arr.length > 0) ? arr : (fallback && fallback.length > 0 ? fallback : undefined);
+    if (!src || src.length === 0) return undefined;
+    return src[Math.floor(Math.random() * src.length)];
+  }
+
   if (gameId === "tipp-sturm") {
-    const round = pool?.tippSturm?.[0] ?? dePool?.tippSturm?.[0];
+    const round = pickRound(pool?.tippSturm, dePool?.tippSturm);
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <TippSturmGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "wort-waechter") {
-    const round = pool?.wortWaechter?.[0] ?? dePool?.wortWaechter?.[0];
+    const round = pickRound(pool?.wortWaechter, dePool?.wortWaechter);
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <WortWaechterGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "artikel-asteroids") {
-    const round = pool?.artikelAsteroids?.[0] ?? dePool?.artikelAsteroids?.[0];
+    const round = pickRound(pool?.artikelAsteroids, dePool?.artikelAsteroids);
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <ArtikelAsteroidsGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "satzbau-sniper") {
-    const round = pool?.satzbauSniper?.[0] ?? dePool?.satzbauSniper?.[0];
+    const round = pickRound(pool?.satzbauSniper, dePool?.satzbauSniper);
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <SatzbauSniperGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }
   if (gameId === "silben-slicer") {
-    const round = pool?.silbenSlicer?.[0] ?? dePool?.silbenSlicer?.[0];
+    const round = pickRound(pool?.silbenSlicer, dePool?.silbenSlicer);
     if (!round) return <FallbackBox title={gameId} info={tSoon} />;
     return <SilbenSlicerGame grade={grade} lang={lang} round={round} onDone={onDone} />;
   }

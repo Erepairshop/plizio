@@ -290,6 +290,11 @@ export const K8_ENERGY_COMMUNICATION_GENERATORS: Record<string, (lang?: string, 
   renewable_energy: (lang = "en", seed = 0) => [...generateRenewableEnergyMCQ(lang, seed)],
   renewable_energy_mcq: (lang = "en", seed = 0) => generateRenewableEnergyMCQ(lang, seed),
 
+  // Curriculum aliases (physikCurriculum8.ts)
+  renewable_sources: (lang = "en", seed = 0) => [...generateRenewableEnergyMCQ(lang, seed)],
+  solar_energy: (lang = "en", seed = 0) => [...generateRenewableEnergyMCQ(lang, seed)],
+  wind_energy: (lang = "en", seed = 0) => [...generateRenewableEnergyMCQ(lang, seed)],
+
   energy_efficiency: (lang = "en", seed = 0) => [...generateEnergyEfficiencyMCQ(lang, seed)],
   energy_efficiency_mcq: (lang = "en", seed = 0) => generateEnergyEfficiencyMCQ(lang, seed),
 
@@ -303,6 +308,11 @@ export const K8_ENERGY_COMMUNICATION_GENERATORS: Record<string, (lang?: string, 
   radio_tv_wireless: (lang = "en", seed = 0) => [...generateRadioTVWirelessMCQ(lang, seed)],
   radio_tv_wireless_mcq: (lang = "en", seed = 0) => generateRadioTVWirelessMCQ(lang, seed),
 
+  radio_tv: (lang = "en", seed = 0) => [...generateRadioTVWirelessMCQ(lang, seed)],
+  fiber_optics: (lang = "en", seed = 0) => [...generateElectromagneticWavesMCQ(lang, seed)],
+
   digital_communication: (lang = "en", seed = 0) => [...generateDigitalCommunicationMCQ(lang, seed)],
   digital_communication_mcq: (lang = "en", seed = 0) => generateDigitalCommunicationMCQ(lang, seed),
+
+  digital_signals: (lang = "en", seed = 0) => [...generateDigitalCommunicationMCQ(lang, seed)],
 };

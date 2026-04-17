@@ -139,30 +139,30 @@ export function getK7Questions(
   // Generator-alapú
   for (const theme of themes) {
     for (const sub of theme.subtopics) {
-      if (selectedSubtopicIds.includes(sub.id)) {
-        // MCQ generátor
-        let generatorFn: ((seed?: number) => PhysikQuestion[]) | undefined;
-        for (const themeGens of Object.values(generators)) {
-          if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
-        }
-        if (generatorFn) {
-          pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
-        } else {
-          pool.push(...sub.questions);
-        }
+        if (selectedSubtopicIds.includes(sub.id)) {
+          // MCQ generátor
+          let generatorFn: ((lang?: string, seed?: number) => PhysikQuestion[]) | undefined;
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
+          }
+          if (generatorFn) {
+            pool.push(...generatorFn("en", Math.floor(Math.random() * 1000000)));
+          } else {
+            pool.push(...sub.questions);
+          }
 
-        // Typing generátor
-        const typingKey = sub.id + "_typing";
-        let typingFn: ((seed?: number) => PhysikQuestion[]) | undefined;
-        for (const themeGens of Object.values(generators)) {
-          if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
-        }
-        if (typingFn) {
-          pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
+          // Typing generátor
+          const typingKey = sub.id + "_typing";
+          let typingFn: ((lang?: string, seed?: number) => PhysikQuestion[]) | undefined;
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
+          }
+          if (typingFn) {
+            pool.push(...typingFn("en", Math.floor(Math.random() * 1000000)));
+          }
         }
       }
     }
-  }
 
   // Deduplicate by question text
   const seenQ = new Set<string>();

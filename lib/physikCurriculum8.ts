@@ -48,7 +48,7 @@ const K8: PhysikTheme[] = [
       { id: "electromagnetic_induction", name: { de: "Induktion", en: "Induction", hu: "Indukció", ro: "Inducție" }, questions: [], hasGenerator: true },
       { id: "generators", name: { de: "Generatoren", en: "Generators", hu: "Generátorok", ro: "Generatoare" }, questions: [], hasGenerator: true },
       { id: "transformers", name: { de: "Transformatoren", en: "Transformers", hu: "Transzformátorok", ro: "Transformatoare" }, questions: [], hasGenerator: true },
-      { id: "electric_motors", name: { de: "Elektromotoren", en: "Electric Motors", hu: "Villanymotor", ro: "Motoare electrice" }, questions: [], hasGenerator: true },
+      { id: "electric_motors", name: { de: "Elektromotoren", en: "Electric Motors", hu: "Villanymotorok", ro: "Motoare electrice" }, questions: [], hasGenerator: true },
     ],
   },
   {
@@ -139,30 +139,30 @@ export function getK8Questions(
   // Generator-alapú
   for (const theme of themes) {
     for (const sub of theme.subtopics) {
-      if (selectedSubtopicIds.includes(sub.id)) {
-        // MCQ generátor
-        let generatorFn: ((seed?: number) => PhysikQuestion[]) | undefined;
-        for (const themeGens of Object.values(generators)) {
-          if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
-        }
-        if (generatorFn) {
-          pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
-        } else {
-          pool.push(...sub.questions);
-        }
+        if (selectedSubtopicIds.includes(sub.id)) {
+          // MCQ generátor
+          let generatorFn: ((lang?: string, seed?: number) => PhysikQuestion[]) | undefined;
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
+          }
+          if (generatorFn) {
+            pool.push(...generatorFn("en", Math.floor(Math.random() * 1000000)));
+          } else {
+            pool.push(...sub.questions);
+          }
 
-        // Typing generátor
-        const typingKey = sub.id + "_typing";
-        let typingFn: ((seed?: number) => PhysikQuestion[]) | undefined;
-        for (const themeGens of Object.values(generators)) {
-          if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
-        }
-        if (typingFn) {
-          pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
+          // Typing generátor
+          const typingKey = sub.id + "_typing";
+          let typingFn: ((lang?: string, seed?: number) => PhysikQuestion[]) | undefined;
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
+          }
+          if (typingFn) {
+            pool.push(...typingFn("en", Math.floor(Math.random() * 1000000)));
+          }
         }
       }
     }
-  }
 
   // Deduplicate by question text
   const seenQ = new Set<string>();

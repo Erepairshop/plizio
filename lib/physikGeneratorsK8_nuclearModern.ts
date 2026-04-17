@@ -312,12 +312,33 @@ export const K8_NUCLEAR_MODERN_GENERATORS: Record<string, (lang?: string, seed?:
   radioactivity_mcq: (lang = "en", seed = 0) => generateRadioactivityMCQ(lang, seed),
   radioactivity_typing: (lang = "en", seed = 0) => generateRadioactivityTyping(lang, seed),
 
+  // Curriculum aliases (physikCurriculum8.ts)
+  radiation_types: (lang = "en", seed = 0) => [...generateRadioactivityMCQ(lang, seed), ...generateRadioactivityTyping(lang, seed)],
+  radiation_types_typing: (lang = "en", seed = 0) => generateRadioactivityTyping(lang, seed),
+
+  half_life: (lang = "en", seed = 0) => [...generateRadioactivityMCQ(lang, seed), ...generateRadioactivityTyping(lang, seed)],
+  half_life_typing: (lang = "en", seed = 0) => generateRadioactivityTyping(lang, seed),
+
   nuclear_reactions: (lang = "en", seed = 0) => [...generateNuclearReactionsMCQ(lang, seed), ...generateNuclearReactionsTyping(lang, seed)],
   nuclear_reactions_mcq: (lang = "en", seed = 0) => generateNuclearReactionsMCQ(lang, seed),
   nuclear_reactions_typing: (lang = "en", seed = 0) => generateNuclearReactionsTyping(lang, seed),
+
+  nuclear_energy: (lang = "en", seed = 0) => [...generateNuclearReactionsMCQ(lang, seed), ...generateNuclearReactionsTyping(lang, seed)],
+  nuclear_energy_typing: (lang = "en", seed = 0) => generateNuclearReactionsTyping(lang, seed),
+  nuclear_power: (lang = "en", seed = 0) => [...generateNuclearReactionsMCQ(lang, seed), ...generateNuclearReactionsTyping(lang, seed)],
+  nuclear_power_typing: (lang = "en", seed = 0) => generateNuclearReactionsTyping(lang, seed),
 
   // MODERN (6-9)
   modern_physics: (lang = "en", seed = 0) => [...generateModernPhysicsMCQ(lang, seed), ...generateModernPhysicsTyping(lang, seed)],
   modern_physics_mcq: (lang = "en", seed = 0) => generateModernPhysicsMCQ(lang, seed),
   modern_physics_typing: (lang = "en", seed = 0) => generateModernPhysicsTyping(lang, seed),
+
+  special_relativity: (lang = "en", seed = 0) => [...generateModernPhysicsMCQ(lang, seed), ...generateModernPhysicsTyping(lang, seed)],
+  special_relativity_typing: (lang = "en", seed = 0) => generateModernPhysicsTyping(lang, seed),
+  photoelectric_effect: (lang = "en", seed = 0) => [...generateModernPhysicsMCQ(lang, seed), ...generateModernPhysicsTyping(lang, seed)],
+  photoelectric_effect_typing: (lang = "en", seed = 0) => generateModernPhysicsTyping(lang, seed),
+  wave_particle: (lang = "en", seed = 0) => [...generateModernPhysicsMCQ(lang, seed), ...generateModernPhysicsTyping(lang, seed)],
+  wave_particle_typing: (lang = "en", seed = 0) => generateModernPhysicsTyping(lang, seed),
+  quantum_basics: (lang = "en", seed = 0) => [...generateModernPhysicsMCQ(lang, seed), ...generateModernPhysicsTyping(lang, seed)],
+  quantum_basics_typing: (lang = "en", seed = 0) => generateModernPhysicsTyping(lang, seed),
 };
