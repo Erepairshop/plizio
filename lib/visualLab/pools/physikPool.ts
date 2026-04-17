@@ -477,9 +477,8 @@ export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
         ]
       }
     ]
-  }
-};
-7: {
+  },
+  7: {
     grade: 7,
     meteorCatch: [
       {
@@ -951,4 +950,5 @@ export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
         ]
       }
     ]
-  }
+  },
+};
