@@ -1,6 +1,6 @@
-import type { SachkundeVisualLabGradePool } from "@/lib/visualLab/types";
+import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 
-export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
+export const PHYSIK_POOLS: Record<number, GeographieVisualLabGradePool> = {
   5: {
     grade: 5,
     meteorCatch: [
@@ -130,114 +130,342 @@ export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
     signalRunner: [
       {
         id: "ph-5-sr-1",
-        title: "Kräfte-Sprint",
-        questions: [
-          { id: "q1", text: "Was misst ein Kraftmesser?", correct: "Kraft", wrong: ["Masse", "Temperatur", "Volumen"] },
-          { id: "q2", text: "In welcher Einheit wird die Kraft angegeben?", correct: "Newton (N)", wrong: ["Kilogramm (kg)", "Joule (J)", "Watt (W)"] },
-          { id: "q3", text: "Welche Kraft zieht Gegenstände zur Erde?", correct: "Schwerkraft", wrong: ["Reibung", "Magnetismus", "Auftrieb"] },
-          { id: "q4", text: "Was bremst einen rollenden Ball?", correct: "Reibungskraft", wrong: ["Schwerkraft", "Zentrifugalkraft", "Elektrische Kraft"] },
-          { id: "q5", text: "Womit kann man Kraft darstellen?", correct: "Mit einem Pfeil", wrong: ["Mit einem Kreis", "Mit einer Waage", "Mit einem Thermometer"] }
+        title: "Physik-Sprint K5 - Kräfte",
+        instruction: "Wähle die richtige Antwort.",
+        scenes: [
+          {
+            id: "ph-5-sr-1-s1",
+            title: "Kraftmesser",
+            prompt: "Womit misst man die Kraft?",
+            sceneType: "community",
+            visual: { icon: "📏", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Waage" },
+              { id: "b", label: "Thermometer" },
+              { id: "c", label: "Kraftmesser" },
+              { id: "d", label: "Maßband" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Richtig! Der Kraftmesser (mit Spiralfeder) misst die Kraft.",
+            failFeedback: "Falsch! Die Kraft wird mit einem Kraftmesser gemessen."
+          },
+          {
+            id: "ph-5-sr-1-s2",
+            title: "Schwerkraft",
+            prompt: "Welche Kraft zieht uns zur Erde?",
+            sceneType: "nature",
+            visual: { icon: "🌍", bg: "#064e3b", accent: "#10b981" },
+            choices: [
+              { id: "a", label: "Reibungskraft" },
+              { id: "b", label: "Magnetkraft" },
+              { id: "c", label: "Gewichtskraft" },
+              { id: "d", label: "Spannkraft" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Korrekt! Die Gewichtskraft (Schwerkraft) zieht Massen an.",
+            failFeedback: "Nicht ganz. Es ist die Gewichtskraft."
+          },
+          {
+            id: "ph-5-sr-1-s3",
+            title: "Einheit",
+            prompt: "In welcher Einheit wird die Kraft angegeben?",
+            sceneType: "community",
+            visual: { icon: "🍎", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Kilogramm (kg)" },
+              { id: "b", label: "Newton (N)" },
+              { id: "c", label: "Joule (J)" },
+              { id: "d", label: "Meter (m)" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Stimmt! 1 Newton entspricht der Gewichtskraft von ca. 100g.",
+            failFeedback: "Leider falsch. Die Einheit der Kraft ist Newton (N)."
+          },
+          {
+            id: "ph-5-sr-1-s4",
+            title: "Bremsen",
+            prompt: "Was bremst einen rollenden Ball auf dem Rasen?",
+            sceneType: "nature",
+            visual: { icon: "⚽", bg: "#78350f", accent: "#f59e0b" },
+            choices: [
+              { id: "a", label: "Luftdruck" },
+              { id: "b", label: "Gewichtskraft" },
+              { id: "c", label: "Reibungskraft" },
+              { id: "d", label: "Magnetkraft" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Perfekt! Die Reibungskraft wirkt der Bewegung entgegen.",
+            failFeedback: "Falsch. Die Reibung bremst den Ball."
+          }
         ]
       },
       {
         id: "ph-5-sr-2",
-        title: "Energie-Sprint",
-        questions: [
-          { id: "q1", text: "Welche Energieform hat ein gespannter Bogen?", correct: "Spannenergie", wrong: ["Kinetische Energie", "Wärmeenergie", "Lichtenergie"] },
-          { id: "q2", text: "Welche Energie hat ein fahrendes Auto?", correct: "Kinetische Energie", wrong: ["Lageenergie", "Spannenergie", "Chemische Energie"] },
-          { id: "q3", text: "Was besagt der Energieerhaltungssatz?", correct: "Energie geht nicht verloren", wrong: ["Energie kann verbraucht werden", "Energie wird zerstört", "Energie entsteht aus dem Nichts"] },
-          { id: "q4", text: "In welcher Einheit wird Energie gemessen?", correct: "Joule (J)", wrong: ["Newton (N)", "Volt (V)", "Ampere (A)"] },
-          { id: "q5", text: "Welche Energie steckt in unserer Nahrung?", correct: "Chemische Energie", wrong: ["Wärmeenergie", "Elektrische Energie", "Kinetische Energie"] }
+        title: "Physik-Sprint K5 - Energie",
+        instruction: "Wähle die richtige Antwort zur Energie.",
+        scenes: [
+          {
+            id: "ph-5-sr-2-s1",
+            title: "Fahrrad",
+            prompt: "Welche Energie hat ein fahrendes Fahrrad?",
+            sceneType: "community",
+            visual: { icon: "🚲", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Lageenergie" },
+              { id: "b", label: "Kinetische Energie" },
+              { id: "c", label: "Wärmeenergie" },
+              { id: "d", label: "Spannenergie" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Kinetische Energie ist die Bewegungsenergie.",
+            failFeedback: "Nicht ganz. Bewegung bedeutet Kinetische Energie."
+          },
+          {
+            id: "ph-5-sr-2-s2",
+            title: "Feder",
+            prompt: "Welche Energie speichert eine zusammengedrückte Feder?",
+            sceneType: "community",
+            visual: { icon: "🌀", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Spannenergie" },
+              { id: "b", label: "Lichtenergie" },
+              { id: "c", label: "Chemische Energie" },
+              { id: "d", label: "Lageenergie" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Korrekt! Die Feder speichert Spannenergie.",
+            failFeedback: "Falsch, es ist die Spannenergie."
+          },
+          {
+            id: "ph-5-sr-2-s3",
+            title: "Erhaltung",
+            prompt: "Was besagt der Energieerhaltungssatz?",
+            sceneType: "nature",
+            visual: { icon: "♻️", bg: "#064e3b", accent: "#10b981" },
+            choices: [
+              { id: "a", label: "Energie wird verbraucht." },
+              { id: "b", label: "Energie entsteht aus dem Nichts." },
+              { id: "c", label: "Energie wird nur umgewandelt." },
+              { id: "d", label: "Energie verschwindet." }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Genau! Energie geht nie verloren.",
+            failFeedback: "Leider falsch. Energie kann nur umgewandelt werden."
+          },
+          {
+            id: "ph-5-sr-2-s4",
+            title: "Einheit",
+            prompt: "In welcher Einheit wird Energie gemessen?",
+            sceneType: "community",
+            visual: { icon: "⚡", bg: "#78350f", accent: "#f59e0b" },
+            choices: [
+              { id: "a", label: "Volt" },
+              { id: "b", label: "Newton" },
+              { id: "c", label: "Pascal" },
+              { id: "d", label: "Joule" }
+            ],
+            correctChoiceId: "d",
+            successFeedback: "Stimmt! Energie = Joule (J).",
+            failFeedback: "Falsch, die Einheit ist Joule (J)."
+          }
         ]
       },
       {
         id: "ph-5-sr-3",
-        title: "Wärme-Sprint",
-        questions: [
-          { id: "q1", text: "Was misst ein Thermometer?", correct: "Temperatur", wrong: ["Druck", "Masse", "Volumen"] },
-          { id: "q2", text: "Bei welcher Temperatur schmilzt Eis (Celsius)?", correct: "0°C", wrong: ["100°C", "-10°C", "50°C"] },
-          { id: "q3", text: "Bei welcher Temperatur kocht Wasser (Celsius)?", correct: "100°C", wrong: ["0°C", "50°C", "200°C"] },
-          { id: "q4", text: "Was passiert mit Stoffen, wenn sie erwärmt werden?", correct: "Sie dehnen sich aus", wrong: ["Sie ziehen sich zusammen", "Sie werden schwerer", "Sie verschwinden"] },
-          { id: "q5", text: "Wie nennt man den Übergang von flüssig zu gasförmig?", correct: "Verdampfen", wrong: ["Schmelzen", "Kondensieren", "Erstarren"] }
+        title: "Physik-Sprint K5 - Wärme & Maschinen",
+        instruction: "Beantworte Fragen zu Wärme und Maschinen.",
+        scenes: [
+          {
+            id: "ph-5-sr-3-s1",
+            title: "Wippe",
+            prompt: "Eine Wippe auf dem Spielplatz ist ein Beispiel für einen...",
+            sceneType: "community",
+            visual: { icon: "⚖️", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Flaschenzug" },
+              { id: "b", label: "Zweiseitigen Hebel" },
+              { id: "c", label: "Einseitigen Hebel" },
+              { id: "d", label: "Keil" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Der Drehpunkt liegt zwischen den Kräften.",
+            failFeedback: "Nicht ganz, es ist ein zweiseitiger Hebel."
+          },
+          {
+            id: "ph-5-sr-3-s2",
+            title: "Eis",
+            prompt: "Bei welcher Temperatur schmilzt Eis (Celsius)?",
+            sceneType: "nature",
+            visual: { icon: "🧊", bg: "#0891b2", accent: "#22d3ee" },
+            choices: [
+              { id: "a", label: "100°C" },
+              { id: "b", label: "-10°C" },
+              { id: "c", label: "0°C" },
+              { id: "d", label: "50°C" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Korrekt! 0°C ist der Schmelzpunkt von Wasser.",
+            failFeedback: "Falsch. Eis schmilzt bei 0°C."
+          },
+          {
+            id: "ph-5-sr-3-s3",
+            title: "Ausdehnung",
+            prompt: "Was passiert mit den meisten Stoffen, wenn man sie erhitzt?",
+            sceneType: "community",
+            visual: { icon: "🔥", bg: "#991b1b", accent: "#f87171" },
+            choices: [
+              { id: "a", label: "Sie dehnen sich aus." },
+              { id: "b", label: "Sie ziehen sich zusammen." },
+              { id: "c", label: "Sie werden schwerer." },
+              { id: "d", label: "Sie werden unsichtbar." }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Genau! Teilchen bewegen sich schneller und brauchen mehr Platz.",
+            failFeedback: "Leider falsch. Sie dehnen sich aus."
+          },
+          {
+            id: "ph-5-sr-3-s4",
+            title: "Rolle",
+            prompt: "Was ändert eine feste Rolle?",
+            sceneType: "community",
+            visual: { icon: "🏗️", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Die Größe der Kraft" },
+              { id: "b", label: "Die Richtung der Kraft" },
+              { id: "c", label: "Das Gewicht der Last" },
+              { id: "d", label: "Die Masse" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Stimmt! Sie macht die Arbeit leichter (z.B. nach unten ziehen).",
+            failFeedback: "Falsch, sie ändert nur die Zugrichtung."
+          }
         ]
       }
     ],
     constellationBuilder: [
       {
         id: "ph-5-cb-1",
-        title: "Größen & Einheiten",
-        instruction: "Verbinde jede physikalische Größe mit ihrer Einheit.",
-        pairs: [
-          { id: "p1", left: "Kraft", right: "Newton (N)" },
-          { id: "p2", left: "Energie", right: "Joule (J)" },
-          { id: "p3", left: "Masse", right: "Kilogramm (kg)" },
-          { id: "p4", left: "Temperatur", right: "Grad Celsius (°C)" },
-          { id: "p5", left: "Länge", right: "Meter (m)" }
-        ]
+        title: "Kräfte der Natur",
+        instruction: "Ordne die Kräfte von der schwächsten zur stärksten (Beispielwerte).",
+        hint: "Reibung beim Schieben ist meist kleiner als das volle Gewicht.",
+        theme: { bg: "#0f172a", accent: "#f59e0b", card: "#1c1917" },
+        parts: [
+          { id: "reib-p", label: "Reibungskraft (Heft auf Tisch)", emoji: "🤝" },
+          { id: "gewicht-p", label: "Gewichtskraft (Auto)", emoji: "⬇️" },
+          { id: "feder-p", label: "Federkraft (Kugelschreiber)", emoji: "🌀" },
+          { id: "magnet-p", label: "Magnetkraft (Kühlschrank)", emoji: "🧲" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Schwächste" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Stärkste" }
+        ],
+        solution: ["feder-p", "reib-p", "magnet-p", "gewicht-p"]
       },
       {
         id: "ph-5-cb-2",
-        title: "Maschinen & Werkzeuge",
-        instruction: "Verbinde das Werkzeug mit der einfachen Maschine.",
-        pairs: [
-          { id: "p1", left: "Wippe", right: "Hebel" },
-          { id: "p2", left: "Axt", right: "Keil" },
-          { id: "p3", left: "Kran", right: "Flaschenzug" },
-          { id: "p4", left: "Rollstuhlrampe", right: "Schiefe Ebene" },
-          { id: "p5", left: "Lenkrad", right: "Rad und Achse" }
-        ]
+        title: "Temperaturen",
+        instruction: "Ordne von kalt nach heiß.",
+        hint: "Wasser kocht bei 100°C.",
+        theme: { bg: "#0f172a", accent: "#ef4444", card: "#1c1917" },
+        parts: [
+          { id: "eis", label: "Schmelzendes Eis (0°C)", emoji: "🧊" },
+          { id: "zimmer", label: "Zimmertemperatur (20°C)", emoji: "🛋️" },
+          { id: "sonne", label: "Sonnenoberfläche (5500°C)", emoji: "☀️" },
+          { id: "kochen", label: "Kochendes Wasser (100°C)", emoji: "♨️" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Kalt" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Heiß" }
+        ],
+        solution: ["eis", "zimmer", "kochen", "sonne"]
       },
       {
         id: "ph-5-cb-3",
-        title: "Aggregatzustände",
-        instruction: "Verbinde den Vorgang mit der richtigen Bezeichnung.",
-        pairs: [
-          { id: "p1", left: "fest zu flüssig", right: "Schmelzen" },
-          { id: "p2", left: "flüssig zu gasförmig", right: "Verdampfen" },
-          { id: "p3", left: "gasförmig zu flüssig", right: "Kondensieren" },
-          { id: "p4", left: "flüssig zu fest", right: "Erstarren" },
-          { id: "p5", left: "fest zu gasförmig", right: "Sublimieren" }
-        ]
+        title: "Geschwindigkeiten",
+        instruction: "Ordne die Fortbewegungsmittel von langsam nach schnell.",
+        hint: "Ein Flugzeug ist schneller als ein Auto.",
+        theme: { bg: "#0f172a", accent: "#3b82f6", card: "#1c1917" },
+        parts: [
+          { id: "auto", label: "Auto auf Autobahn", emoji: "🚗" },
+          { id: "fuss", label: "Fußgänger", emoji: "🚶" },
+          { id: "flug", label: "Verkehrsflugzeug", emoji: "✈️" },
+          { id: "rad", label: "Fahrrad", emoji: "🚲" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Langsamste" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Schnellste" }
+        ],
+        solution: ["fuss", "rad", "auto", "flug"]
       }
     ],
     memoryRadar: [
       {
         id: "ph-5-mr-1",
-        title: "Kräfte-Radar",
-        instruction: "Finde die passenden Paare zur Kraft!",
-        pairs: [
-          { id: "pr1", termA: "Schwerkraft", termB: "zieht Massen an" },
-          { id: "pr2", termA: "Reibung", termB: "bremst Bewegung" },
-          { id: "pr3", termA: "Kraftmesser", termB: "hat eine Spiralfeder" },
-          { id: "pr4", termA: "Pfeillänge", termB: "zeigt die Stärke der Kraft" },
-          { id: "pr5", termA: "Isaac Newton", termB: "Entdecker der Schwerkraft" },
-          { id: "pr6", termA: "Verformung", termB: "Wirkung einer Kraft" }
+        title: "Physik-Begriffe merken",
+        instruction: "Merke dir die Energieformen – wähle sie danach aus!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#f59e0b", radar: "#78350f" },
+        targetItems: [
+          { id: "kin2", label: "Kinetische Energie", emoji: "⚡" },
+          { id: "pot2", label: "Potenzielle Energie", emoji: "🧗" },
+          { id: "waerme2", label: "Wärmeenergie", emoji: "🔥" },
+          { id: "elek2", label: "Elektrische Energie", emoji: "💡" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Dichte", emoji: "🧱" },
+          { id: "dec2", label: "Volumen", emoji: "📦" },
+          { id: "dec3", label: "Masse", emoji: "⚖️" },
+          { id: "dec4", label: "Druck", emoji: "🔩" },
+          { id: "dec5", label: "Temperatur", emoji: "🌡️" }
         ]
       },
       {
         id: "ph-5-mr-2",
-        title: "Energie-Radar",
-        instruction: "Welche Form passt zu welcher Situation?",
-        pairs: [
-          { id: "pr1", termA: "Fahrendes Auto", termB: "Kinetische Energie" },
-          { id: "pr2", termA: "Buch im Regal", termB: "Lageenergie" },
-          { id: "pr3", termA: "Gespannte Feder", termB: "Spannenergie" },
-          { id: "pr4", termA: "Lagerfeuer", termB: "Wärmeenergie" },
-          { id: "pr5", termA: "Batterie", termB: "Chemische Energie" },
-          { id: "pr6", termA: "Glühlampe leuchtet", termB: "Lichtenergie" }
+        title: "Maschinen-Radar",
+        instruction: "Merke dir die einfachen Maschinen – wähle sie danach aus!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#3b82f6", radar: "#1e3a5f" },
+        targetItems: [
+          { id: "hebel", label: "Hebel", emoji: "🕹️" },
+          { id: "rolle", label: "Feste Rolle", emoji: "🏗️" },
+          { id: "schief", label: "Schiefe Ebene", emoji: "📐" },
+          { id: "keil", label: "Keil", emoji: "🪓" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Magnet", emoji: "🧲" },
+          { id: "dec2", label: "Batterie", emoji: "🔋" },
+          { id: "dec3", label: "Thermometer", emoji: "🌡️" },
+          { id: "dec4", label: "Kompass", emoji: "🧭" },
+          { id: "dec5", label: "Linse", emoji: "🔍" }
         ]
       },
       {
         id: "ph-5-mr-3",
-        title: "Maschinen-Radar",
-        instruction: "Finde die passenden Paare zu den Maschinen!",
-        pairs: [
-          { id: "pr1", termA: "Goldene Regel", termB: "Was man an Kraft spart, muss man an Weg zusetzen" },
-          { id: "pr2", termA: "Feste Rolle", termB: "Ändert nur die Kraftrichtung" },
-          { id: "pr3", termA: "Lose Rolle", termB: "Halbiert die benötigte Kraft" },
-          { id: "pr4", termA: "Hebelgesetz", termB: "Kraft mal Kraftarm gleich Last mal Lastarm" },
-          { id: "pr5", termA: "Zweiseitiger Hebel", termB: "Beispiel: Schere" },
-          { id: "pr6", termA: "Einseitiger Hebel", termB: "Beispiel: Schubkarre" }
+        title: "Wärmequellen merken",
+        instruction: "Merke dir Dinge, die Wärme abgeben!",
+        flashDurationMs: 3500,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#ef4444", radar: "#7f1d1d" },
+        targetItems: [
+          { id: "sonne", label: "Sonne", emoji: "☀️" },
+          { id: "feuer", label: "Lagerfeuer", emoji: "🔥" },
+          { id: "heizung", label: "Heizkörper", emoji: "♨️" },
+          { id: "reibung", label: "Reibung", emoji: "👏" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Eiswürfel", emoji: "🧊" },
+          { id: "dec2", label: "Spiegel", emoji: "🪞" },
+          { id: "dec3", label: "Schatten", emoji: "👤" },
+          { id: "dec4", label: "Schnee", emoji: "❄️" },
+          { id: "dec5", label: "Wind", emoji: "🌬️" }
         ]
       }
     ]
@@ -366,114 +594,341 @@ export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
     signalRunner: [
       {
         id: "ph-6-sr-1",
-        title: "Druck-Sprint",
-        questions: [
-          { id: "q1", text: "In welcher Einheit wird Druck gemessen?", correct: "Pascal (Pa)", wrong: ["Newton (N)", "Joule (J)", "Watt (W)"] },
-          { id: "q2", text: "Wie berechnet man den Druck?", correct: "Kraft geteilt durch Fläche", wrong: ["Kraft mal Fläche", "Masse geteilt durch Fläche", "Kraft plus Fläche"] },
-          { id: "q3", text: "Was passiert mit dem Luftdruck, wenn man auf einen Berg steigt?", correct: "Er sinkt", wrong: ["Er steigt", "Er bleibt gleich", "Er verdoppelt sich"] },
-          { id: "q4", text: "Wieso sinkt man mit Schneeschuhen nicht ein?", correct: "Die Fläche ist größer", wrong: ["Das Gewicht ist geringer", "Schneeschuhe sind magisch", "Der Schnee wird härter"] },
-          { id: "q5", text: "Welcher Druck herrscht unter Wasser?", correct: "Schweredruck", wrong: ["Luftdruck", "Reibungsdruck", "Elektrischer Druck"] }
+        title: "Physik-Sprint K6 - Druck",
+        instruction: "Beantworte Fragen zum Thema Druck.",
+        scenes: [
+          {
+            id: "ph-6-sr-1-s1",
+            title: "Druck berechnen",
+            prompt: "Wie lautet die Formel für den Druck (p)?",
+            sceneType: "community",
+            visual: { icon: "📐", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "p = F * A" },
+              { id: "b", label: "p = m / V" },
+              { id: "c", label: "p = F / A" },
+              { id: "d", label: "p = m * g" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Richtig! Druck = Kraft geteilt durch Fläche.",
+            failFeedback: "Nicht ganz. p = F / A."
+          },
+          {
+            id: "ph-6-sr-1-s2",
+            title: "Schneeschuhe",
+            prompt: "Warum sinkt man mit Schneeschuhen im Schnee nicht ein?",
+            sceneType: "nature",
+            visual: { icon: "🥾", bg: "#0f766e", accent: "#2dd4bf" },
+            choices: [
+              { id: "a", label: "Weil die Masse kleiner wird." },
+              { id: "b", label: "Weil die Fläche größer und der Druck kleiner ist." },
+              { id: "c", label: "Weil die Schuhe warm sind." },
+              { id: "d", label: "Weil die Kraft größer wird." }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Korrekt! Größere Fläche = kleinerer Druck.",
+            failFeedback: "Falsch. Die größere Fläche verringert den Druck."
+          },
+          {
+            id: "ph-6-sr-1-s3",
+            title: "Luftdruck",
+            prompt: "Was misst ein Barometer?",
+            sceneType: "nature",
+            visual: { icon: "🌤️", bg: "#0369a1", accent: "#38bdf8" },
+            choices: [
+              { id: "a", label: "Temperatur" },
+              { id: "b", label: "Luftdruck" },
+              { id: "c", label: "Schweredruck" },
+              { id: "d", label: "Windgeschwindigkeit" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Genau! Es misst den atmosphärischen Druck.",
+            failFeedback: "Leider falsch. Ein Barometer misst den Luftdruck."
+          },
+          {
+            id: "ph-6-sr-1-s4",
+            title: "Auftrieb",
+            prompt: "Wann schwimmt ein Körper im Wasser?",
+            sceneType: "nature",
+            visual: { icon: "🚢", bg: "#1e40af", accent: "#60a5fa" },
+            choices: [
+              { id: "a", label: "Wenn Auftrieb = Gewichtskraft" },
+              { id: "b", label: "Wenn Auftrieb < Gewichtskraft" },
+              { id: "c", label: "Wenn er keine Masse hat" },
+              { id: "d", label: "Wenn das Wasser kalt ist" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Stimmt! Kräftegleichgewicht lässt den Körper schwimmen.",
+            failFeedback: "Falsch. Er schwimmt, wenn beide Kräfte gleich groß sind."
+          }
         ]
       },
       {
         id: "ph-6-sr-2",
-        title: "Elektro-Sprint",
-        questions: [
-          { id: "q1", text: "Aus welchen Teilen besteht ein einfacher Stromkreis?", correct: "Quelle, Leiter, Verbraucher", wrong: ["Magnet, Kabel, Schalter", "Batterie, Wasser, Lampe", "Holz, Eisen, Plastik"] },
-          { id: "q2", text: "Welche Ladungen stoßen sich ab?", correct: "Gleiche Ladungen", wrong: ["Ungleiche Ladungen", "Positive und Negative", "Neutrale Ladungen"] },
-          { id: "q3", text: "Was misst man in Ampere (A)?", correct: "Stromstärke", wrong: ["Spannung", "Widerstand", "Leistung"] },
-          { id: "q4", text: "Was misst man in Volt (V)?", correct: "Spannung", wrong: ["Stromstärke", "Widerstand", "Kraft"] },
-          { id: "q5", text: "Was schützt einen Stromkreis vor Überlastung?", correct: "Eine Sicherung", wrong: ["Ein Schalter", "Ein Motor", "Ein Transformator"] }
+        title: "Physik-Sprint K6 - Elektrizität",
+        instruction: "Beantworte Fragen zur Elektrizitätslehre.",
+        scenes: [
+          {
+            id: "ph-6-sr-2-s1",
+            title: "Stromkreis",
+            prompt: "Aus welchen 3 Dingen besteht ein einfacher Stromkreis?",
+            sceneType: "community",
+            visual: { icon: "🔋", bg: "#854d0e", accent: "#facc15" },
+            choices: [
+              { id: "a", label: "Batterie, Wasser, Schalter" },
+              { id: "b", label: "Spule, Magnet, Kabel" },
+              { id: "c", label: "Stromquelle, Leiter, Verbraucher" },
+              { id: "d", label: "Lampe, Motor, Heizung" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Richtig! Ohne diese drei gibt es keinen Stromfluss.",
+            failFeedback: "Falsch. Quelle, Leiter und Verbraucher (Lampe) sind nötig."
+          },
+          {
+            id: "ph-6-sr-2-s2",
+            title: "Spannung",
+            prompt: "Was gibt die elektrische Spannung an und in welcher Einheit?",
+            sceneType: "community",
+            visual: { icon: "⚡", bg: "#991b1b", accent: "#f87171" },
+            choices: [
+              { id: "a", label: "Den Antrieb des Stroms in Volt (V)" },
+              { id: "b", label: "Die Menge der Elektronen in Ampere (A)" },
+              { id: "c", label: "Den Widerstand in Ohm (Ω)" },
+              { id: "d", label: "Die Leistung in Watt (W)" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Korrekt! Volt ist die Einheit der Spannung.",
+            failFeedback: "Nicht ganz. Spannung wird in Volt gemessen."
+          },
+          {
+            id: "ph-6-sr-2-s3",
+            title: "Leiter",
+            prompt: "Welches Material leitet elektrischen Strom besonders gut?",
+            sceneType: "community",
+            visual: { icon: "🥉", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Holz" },
+              { id: "b", label: "Kupfer" },
+              { id: "c", label: "Glas" },
+              { id: "d", label: "Plastik" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Genau! Metalle wie Kupfer sind exzellente Leiter.",
+            failFeedback: "Leider falsch. Kupfer ist der gute Leiter."
+          },
+          {
+            id: "ph-6-sr-2-s4",
+            title: "Schaltung",
+            prompt: "Was passiert in einer Reihenschaltung, wenn eine Lampe kaputt geht?",
+            sceneType: "community",
+            visual: { icon: "💡", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Die anderen leuchten heller." },
+              { id: "b", label: "Nichts, sie leuchten weiter." },
+              { id: "c", label: "Alle Lampen gehen aus." },
+              { id: "d", label: "Sie beginnen zu blinken." }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Stimmt! Der Stromkreis ist dann unterbrochen.",
+            failFeedback: "Falsch. Der Stromkreis ist unterbrochen, alle gehen aus."
+          }
         ]
       },
       {
         id: "ph-6-sr-3",
-        title: "Magnetismus-Sprint",
-        questions: [
-          { id: "q1", text: "Wo ist die Magnetkraft am stärksten?", correct: "An den Polen", wrong: ["In der Mitte", "Überall gleich", "Nur am Nordpol"] },
-          { id: "q2", text: "Welches Material ist magnetisch?", correct: "Eisen", wrong: ["Kupfer", "Aluminium", "Holz"] },
-          { id: "q3", text: "Was passiert, wenn man einen Magneten zerbricht?", correct: "Es entstehen zwei neue Magnete", wrong: ["Er verliert seine Kraft", "Er wird nur noch ein Nordpol", "Er schmilzt"] },
-          { id: "q4", text: "Welcher Pol einer Kompassnadel zeigt nach Norden?", correct: "Der Nordpol der Nadel", wrong: ["Der Südpol der Nadel", "Die Mitte der Nadel", "Das Gehäuse"] },
-          { id: "q5", text: "Wie nennt man den Raum um einen Magneten, in dem Kräfte wirken?", correct: "Magnetfeld", wrong: ["Elektrisches Feld", "Schwerefeld", "Kraftraum"] }
+        title: "Physik-Sprint K6 - Magnetismus",
+        instruction: "Beantworte Fragen zu Magneten.",
+        scenes: [
+          {
+            id: "ph-6-sr-3-s1",
+            title: "Pole",
+            prompt: "Was passiert, wenn sich zwei Nordpole nähern?",
+            sceneType: "community",
+            visual: { icon: "🧲", bg: "#991b1b", accent: "#f87171" },
+            choices: [
+              { id: "a", label: "Sie ziehen sich an." },
+              { id: "b", label: "Sie stoßen sich ab." },
+              { id: "c", label: "Sie werden entmagnetisiert." },
+              { id: "d", label: "Nichts passiert." }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Gleichnamige Pole stoßen sich ab.",
+            failFeedback: "Falsch. Sie stoßen sich ab."
+          },
+          {
+            id: "ph-6-sr-3-s2",
+            title: "Material",
+            prompt: "Welches der folgenden Metalle ist magnetisch?",
+            sceneType: "community",
+            visual: { icon: "🔩", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Aluminium" },
+              { id: "b", label: "Kupfer" },
+              { id: "c", label: "Eisen" },
+              { id: "d", label: "Silber" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Korrekt! Eisen, Nickel und Kobalt sind ferromagnetisch.",
+            failFeedback: "Nicht ganz. Eisen ist das magnetische Metall."
+          },
+          {
+            id: "ph-6-sr-3-s3",
+            title: "Teilen",
+            prompt: "Was passiert, wenn man einen Stabmagneten in der Mitte zerbricht?",
+            sceneType: "community",
+            visual: { icon: "⚡", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Man erhält einen Nordpol und einen Südpol." },
+              { id: "b", label: "Der Magnet verliert seine Kraft." },
+              { id: "c", label: "Man erhält zwei neue, vollständige Magnete." },
+              { id: "d", label: "Er wird heiß." }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Genau! Jeder Teil hat wieder einen Nord- und Südpol.",
+            failFeedback: "Leider falsch. Es entstehen zwei komplette neue Magnete."
+          },
+          {
+            id: "ph-6-sr-3-s4",
+            title: "Erde",
+            prompt: "Wo befindet sich der magnetische Südpol der Erde?",
+            sceneType: "nature",
+            visual: { icon: "🌍", bg: "#064e3b", accent: "#10b981" },
+            choices: [
+              { id: "a", label: "Am Äquator" },
+              { id: "b", label: "In der Nähe des geografischen Nordpols" },
+              { id: "c", label: "In der Nähe des geografischen Südpols" },
+              { id: "d", label: "Im Erdkern" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Stimmt! Deshalb zeigt die Nord-Nadel des Kompasses dorthin.",
+            failFeedback: "Falsch. Er ist nahe dem geografischen Nordpol."
+          }
         ]
       }
     ],
     constellationBuilder: [
       {
         id: "ph-6-cb-1",
-        title: "Größen & Einheiten",
-        instruction: "Verbinde die elektrische oder mechanische Größe mit ihrer Einheit.",
-        pairs: [
-          { id: "p1", left: "Spannung", right: "Volt (V)" },
-          { id: "p2", left: "Stromstärke", right: "Ampere (A)" },
-          { id: "p3", left: "Widerstand", right: "Ohm (Ω)" },
-          { id: "p4", left: "Druck", right: "Pascal (Pa)" },
-          { id: "p5", left: "Fläche", right: "Quadratmeter (m²)" }
-        ]
+        title: "Dichte von Stoffen",
+        instruction: "Ordne von der geringsten zur höchsten Dichte.",
+        hint: "Gold ist extrem schwer für sein Volumen.",
+        theme: { bg: "#0f172a", accent: "#f59e0b", card: "#1c1917" },
+        parts: [
+          { id: "wasser", label: "Wasser (1 g/cm³)", emoji: "💧" },
+          { id: "gold", label: "Gold (19,3 g/cm³)", emoji: "🪙" },
+          { id: "holz", label: "Holz (ca. 0,6 g/cm³)", emoji: "🪵" },
+          { id: "eisen", label: "Eisen (7,9 g/cm³)", emoji: "🔩" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Geringste Dichte" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Höchste Dichte" }
+        ],
+        solution: ["holz", "wasser", "eisen", "gold"]
       },
       {
         id: "ph-6-cb-2",
-        title: "Schaltzeichen",
-        instruction: "Verbinde das Bauteil mit seiner Funktion im Stromkreis.",
-        pairs: [
-          { id: "p1", left: "Schalter", right: "Öffnet oder schließt den Kreis" },
-          { id: "p2", left: "Glühlampe", right: "Wandelt Strom in Licht um" },
-          { id: "p3", left: "Batterie", right: "Liefert die elektrische Spannung" },
-          { id: "p4", left: "Kabel", right: "Leitet den elektrischen Strom" },
-          { id: "p5", left: "Sicherung", right: "Unterbricht bei zu hohem Strom" }
-        ]
+        title: "Leitfähigkeit",
+        instruction: "Ordne vom schlechtesten zum besten elektrischen Leiter.",
+        hint: "Metalle leiten am besten, Gummi isoliert.",
+        theme: { bg: "#0f172a", accent: "#8b5cf6", card: "#1c1917" },
+        parts: [
+          { id: "salz", label: "Salzwasser (mäßiger Leiter)", emoji: "🌊" },
+          { id: "gummi", label: "Gummi (Isolator)", emoji: "🛞" },
+          { id: "eisen", label: "Eisen (guter Leiter)", emoji: "🏗️" },
+          { id: "kupfer", label: "Kupfer (sehr guter Leiter)", emoji: "🥉" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Schlecht (Isolator)" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Bester Leiter" }
+        ],
+        solution: ["gummi", "salz", "eisen", "kupfer"]
       },
       {
         id: "ph-6-cb-3",
-        title: "Auftrieb & Dichte",
-        instruction: "Verbinde das Phänomen mit der richtigen Bedingung.",
-        pairs: [
-          { id: "p1", left: "Körper schwimmt", right: "Auftrieb = Gewichtskraft" },
-          { id: "p2", left: "Körper sinkt", right: "Auftrieb < Gewichtskraft" },
-          { id: "p3", left: "Körper steigt auf", right: "Auftrieb > Gewichtskraft" },
-          { id: "p4", left: "Dichte", right: "Masse geteilt durch Volumen" },
-          { id: "p5", left: "Archimedisches Prinzip", right: "Auftrieb = Gewicht der verdrängten Flüssigkeit" }
-        ]
+        title: "Druck im Alltag",
+        instruction: "Ordne von geringem Druck auf den Boden zu hohem Druck.",
+        hint: "Je spitzer, desto höher der Druck.",
+        theme: { bg: "#0f172a", accent: "#ef4444", card: "#1c1917" },
+        parts: [
+          { id: "nadel", label: "Stecknadelspitze", emoji: "📌" },
+          { id: "schnee", label: "Schneeschuhe", emoji: "🥾" },
+          { id: "absatz", label: "Stöckelschuh", emoji: "👠" },
+          { id: "turn", label: "Turnschuh", emoji: "👟" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Geringster Druck" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Höchster Druck" }
+        ],
+        solution: ["schnee", "turn", "absatz", "nadel"]
       }
     ],
     memoryRadar: [
       {
         id: "ph-6-mr-1",
-        title: "Druck-Radar",
-        instruction: "Finde die passenden Paare zum Thema Druck!",
-        pairs: [
-          { id: "pr1", termA: "Druck Definition", termB: "Kraft pro Fläche" },
-          { id: "pr2", termA: "Große Fläche", termB: "Geringer Druck" },
-          { id: "pr3", termA: "Kleine Fläche", termB: "Hoher Druck" },
-          { id: "pr4", termA: "Barometer", termB: "Misst den Luftdruck" },
-          { id: "pr5", termA: "Vakuum", termB: "Luftleerer Raum" },
-          { id: "pr6", termA: "Kolbendruck", termB: "Druck in einer Flüssigkeit" }
+        title: "Magnetische Metalle",
+        instruction: "Merke dir die ferromagnetischen Stoffe!",
+        flashDurationMs: 4000,
+        selectionLimit: 3,
+        theme: { bg: "#0f172a", accent: "#8b5cf6", radar: "#4c1d95" },
+        targetItems: [
+          { id: "eisen", label: "Eisen", emoji: "🔩" },
+          { id: "nickel", label: "Nickel", emoji: "🪙" },
+          { id: "kobalt", label: "Kobalt", emoji: "🪨" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Kupfer", emoji: "🥉" },
+          { id: "dec2", label: "Aluminium", emoji: "🥫" },
+          { id: "dec3", label: "Gold", emoji: "🥇" },
+          { id: "dec4", label: "Silber", emoji: "🥈" },
+          { id: "dec5", label: "Holz", emoji: "🪵" }
         ]
       },
       {
         id: "ph-6-mr-2",
-        title: "Elektro-Radar",
-        instruction: "Ordne die Begriffe aus der Elektrizitätslehre zu!",
-        pairs: [
-          { id: "pr1", termA: "Reihenschaltung", termB: "Lampen leuchten schwächer" },
-          { id: "pr2", termA: "Parallelschaltung", termB: "Lampen leuchten gleich hell" },
-          { id: "pr3", termA: "Kurzschluss", termB: "Strom fließt ohne Widerstand" },
-          { id: "pr4", termA: "Elektronen", termB: "Träger der negativen Ladung" },
-          { id: "pr5", termA: "Protonen", termB: "Träger der positiven Ladung" },
-          { id: "pr6", termA: "Isolator", termB: "Verhindert Stromfluss" }
+        title: "Gute Leiter",
+        instruction: "Merke dir die guten elektrischen Leiter!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#facc15", radar: "#854d0e" },
+        targetItems: [
+          { id: "kupfer", label: "Kupfer", emoji: "🥉" },
+          { id: "alu", label: "Aluminium", emoji: "🥫" },
+          { id: "silber", label: "Silber", emoji: "🥈" },
+          { id: "salz", label: "Salzwasser", emoji: "🌊" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Plastik", emoji: "🧴" },
+          { id: "dec2", label: "Gummi", emoji: "🛞" },
+          { id: "dec3", label: "Glas", emoji: "🪟" },
+          { id: "dec4", label: "Holz", emoji: "🪵" },
+          { id: "dec5", label: "Papier", emoji: "📄" }
         ]
       },
       {
         id: "ph-6-mr-3",
-        title: "Magnet-Radar",
-        instruction: "Finde die passenden Paare zum Magnetismus!",
-        pairs: [
-          { id: "pr1", termA: "Magnetfeldlinien", termB: "Verlaufen von Nord nach Süd" },
-          { id: "pr2", termA: "Erdmagnetfeld", termB: "Schützt vor Sonnenwinden" },
-          { id: "pr3", termA: "Geografischer Nordpol", termB: "Magnetischer Südpol" },
-          { id: "pr4", termA: "Missweisung (Deklination)", termB: "Abweichung der Kompassnadel" },
-          { id: "pr5", termA: "Magnetisieren", termB: "Elementarmagnete ausrichten" },
-          { id: "pr6", termA: "Entmagnetisieren", termB: "Durch Erschütterung oder Hitze" }
+        title: "Hoher Druck",
+        instruction: "Merke dir Gegenstände, die viel Druck auf den Boden ausüben!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#ef4444", radar: "#7f1d1d" },
+        targetItems: [
+          { id: "nadel", label: "Stecknadel", emoji: "📌" },
+          { id: "messer", label: "Scharfes Messer", emoji: "🔪" },
+          { id: "nagel", label: "Eisennagel", emoji: "🔨" },
+          { id: "absatz", label: "Stöckelschuh", emoji: "👠" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Schneeschuh", emoji: "🥾" },
+          { id: "dec2", label: "Traktorreifen", emoji: "🚜" },
+          { id: "dec3", label: "Skier", emoji: "🎿" },
+          { id: "dec4", label: "Luftballon", emoji: "🎈" },
+          { id: "dec5", label: "Kissen", emoji: "🛌" }
         ]
       }
     ]
@@ -602,114 +1057,342 @@ export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
     signalRunner: [
       {
         id: "ph-7-sr-1",
-        title: "Optik-Sprint",
-        questions: [
-          { id: "q1", text: "Wie breitet sich Licht aus?", correct: "Geradlinig", wrong: ["In Kurven", "Im Zickzack", "Gar nicht"] },
-          { id: "q2", text: "Was passiert, wenn Licht auf einen Spiegel trifft?", correct: "Es wird reflektiert", wrong: ["Es wird absorbiert", "Es wird gebrochen", "Es verschwindet"] },
-          { id: "q3", text: "Was entsteht hinter einem lichtundurchlässigen Körper?", correct: "Ein Schatten", wrong: ["Ein Regenbogen", "Ein Prisma", "Ein Vakuum"] },
-          { id: "q4", text: "Wie nennt man die Ablenkung von Licht an einer Grenzfläche (z.B. Luft zu Wasser)?", correct: "Brechung", wrong: ["Reflexion", "Streuung", "Beugung"] },
-          { id: "q5", text: "Welche Linse bündelt das Licht?", correct: "Sammellinse (Konvex)", wrong: ["Zerstreuungslinse (Konkav)", "Flache Glasscheibe", "Milchglas"] }
+        title: "Physik-Sprint K7 - Optik",
+        instruction: "Löse Aufgaben zum Licht.",
+        scenes: [
+          {
+            id: "ph-7-sr-1-s1",
+            title: "Ausbreitung",
+            prompt: "Wie breitet sich Licht im Vakuum aus?",
+            sceneType: "nature",
+            visual: { icon: "🔦", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "In Kurven" },
+              { id: "b", label: "Geradlinig" },
+              { id: "c", label: "Gar nicht" },
+              { id: "d", label: "Zickzack" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Lichtstrahlen verlaufen geradlinig.",
+            failFeedback: "Falsch. Licht breitet sich geradlinig aus."
+          },
+          {
+            id: "ph-7-sr-1-s2",
+            title: "Reflexion",
+            prompt: "Wie lautet das Reflexionsgesetz am ebenen Spiegel?",
+            sceneType: "community",
+            visual: { icon: "🪞", bg: "#0891b2", accent: "#22d3ee" },
+            choices: [
+              { id: "a", label: "Einfallswinkel = Ausfallswinkel" },
+              { id: "b", label: "Einfallswinkel > Ausfallswinkel" },
+              { id: "c", label: "Einfallswinkel < Ausfallswinkel" },
+              { id: "d", label: "Es gibt keinen Ausfallswinkel" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Korrekt! α = α'",
+            failFeedback: "Nicht ganz. Beide Winkel sind exakt gleich groß."
+          },
+          {
+            id: "ph-7-sr-1-s3",
+            title: "Linsen",
+            prompt: "Was macht eine Sammellinse (konvexe Linse)?",
+            sceneType: "community",
+            visual: { icon: "🔍", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Sie streut das Licht." },
+              { id: "b", label: "Sie bündelt das Licht in einem Brennpunkt." },
+              { id: "c", label: "Sie verschluckt das Licht." },
+              { id: "d", label: "Sie ändert die Farbe des Lichts." }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Genau! Parallele Strahlen treffen sich im Brennpunkt.",
+            failFeedback: "Leider falsch. Sie bündelt das Licht."
+          },
+          {
+            id: "ph-7-sr-1-s4",
+            title: "Brechung",
+            prompt: "Warum sieht ein Strohhalm im Wasserglas 'geknickt' aus?",
+            sceneType: "community",
+            visual: { icon: "🥤", bg: "#0369a1", accent: "#38bdf8" },
+            choices: [
+              { id: "a", label: "Wegen der Lichtbrechung am Übergang Luft/Wasser" },
+              { id: "b", label: "Wegen der Lichtreflexion" },
+              { id: "c", label: "Das Wasser verbiegt ihn" },
+              { id: "d", label: "Wegen der Streuung" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Stimmt! Licht ändert beim Medium-Wechsel die Richtung.",
+            failFeedback: "Falsch. Das Phänomen nennt sich Lichtbrechung."
+          }
         ]
       },
       {
         id: "ph-7-sr-2",
-        title: "Akustik-Sprint",
-        questions: [
-          { id: "q1", text: "Was ist Schall physikalisch gesehen?", correct: "Eine Schwingung", wrong: ["Ein Strahl", "Ein Magnetfeld", "Ein Teilchen"] },
-          { id: "q2", text: "In welcher Einheit wird die Frequenz gemessen?", correct: "Hertz (Hz)", wrong: ["Dezibel (dB)", "Joule (J)", "Watt (W)"] },
-          { id: "q3", text: "In welcher Einheit misst man die Lautstärke?", correct: "Dezibel (dB)", wrong: ["Hertz (Hz)", "Pascal (Pa)", "Newton (N)"] },
-          { id: "q4", text: "Wo kann sich Schall NICHT ausbreiten?", correct: "Im Vakuum", wrong: ["Im Wasser", "In der Luft", "In Metall"] },
-          { id: "q5", text: "Was bestimmt die Tonhöhe?", correct: "Die Frequenz", wrong: ["Die Amplitude", "Die Temperatur", "Die Lautstärke"] }
+        title: "Physik-Sprint K7 - Akustik",
+        instruction: "Beantworte Fragen zu Schall.",
+        scenes: [
+          {
+            id: "ph-7-sr-2-s1",
+            title: "Schall",
+            prompt: "Was ist Schall physikalisch gesehen?",
+            sceneType: "community",
+            visual: { icon: "🔊", bg: "#854d0e", accent: "#facc15" },
+            choices: [
+              { id: "a", label: "Ein Magnetfeld" },
+              { id: "b", label: "Eine mechanische Schwingung (Welle)" },
+              { id: "c", label: "Ein Lichtstrahl" },
+              { id: "d", label: "Radioaktivität" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Teilchen stoßen sich gegenseitig an.",
+            failFeedback: "Falsch. Schall ist eine mechanische Welle."
+          },
+          {
+            id: "ph-7-sr-2-s2",
+            title: "Vakuum",
+            prompt: "Warum hört man im Weltraum (Vakuum) keine Explosionen?",
+            sceneType: "nature",
+            visual: { icon: "🌌", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Weil es zu kalt ist." },
+              { id: "b", label: "Weil Schall ein Medium (z.B. Luft) zur Ausbreitung braucht." },
+              { id: "c", label: "Weil die Sterne den Schall absorbieren." },
+              { id: "d", label: "Weil der Druck zu hoch ist." }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Korrekt! Ohne Teilchen keine Schallwellen.",
+            failFeedback: "Nicht ganz. Schall benötigt ein Trägermedium."
+          },
+          {
+            id: "ph-7-sr-2-s3",
+            title: "Frequenz",
+            prompt: "Was bestimmt, ob ein Ton hoch oder tief klingt?",
+            sceneType: "community",
+            visual: { icon: "📈", bg: "#991b1b", accent: "#f87171" },
+            choices: [
+              { id: "a", label: "Die Frequenz (Schwingungen pro Sekunde)" },
+              { id: "b", label: "Die Amplitude (Auslenkung)" },
+              { id: "c", label: "Die Temperatur" },
+              { id: "d", label: "Das Gewicht" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Genau! Hohe Frequenz = hoher Ton.",
+            failFeedback: "Leider falsch. Die Frequenz bestimmt die Tonhöhe."
+          },
+          {
+            id: "ph-7-sr-2-s4",
+            title: "Einheit",
+            prompt: "In welcher Einheit wird die Lautstärke (Schallpegel) gemessen?",
+            sceneType: "community",
+            visual: { icon: "🎧", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Hertz (Hz)" },
+              { id: "b", label: "Pascal (Pa)" },
+              { id: "c", label: "Dezibel (dB)" },
+              { id: "d", label: "Watt (W)" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Stimmt! dB ist die Einheit für den Schallpegel.",
+            failFeedback: "Falsch. Lautstärke wird in Dezibel (dB) angegeben."
+          }
         ]
       },
       {
         id: "ph-7-sr-3",
-        title: "Mechanik-Sprint",
-        questions: [
-          { id: "q1", text: "Wie lautet die Formel für mechanische Arbeit?", correct: "W = F * s", wrong: ["W = m * a", "W = F / s", "W = P * t"] },
-          { id: "q2", text: "Was berechnet man mit P = W / t ?", correct: "Die Leistung", wrong: ["Die Arbeit", "Die Kraft", "Die Geschwindigkeit"] },
-          { id: "q3", text: "Welche Arbeit verrichtest du, wenn du eine Kiste anhebst?", correct: "Hubarbeit", wrong: ["Reibungsarbeit", "Beschleunigungsarbeit", "Spannarbeit"] },
-          { id: "q4", text: "Ein Motor leistet viel Arbeit in kurzer Zeit. Seine Leistung ist...", correct: "Hoch", wrong: ["Gering", "Null", "Negativ"] },
-          { id: "q5", text: "1000 Watt entsprechen...", correct: "1 Kilowatt (kW)", wrong: ["1 Megawatt (MW)", "1 Joule (J)", "1 Newton (N)"] }
+        title: "Physik-Sprint K7 - Arbeit & Leistung",
+        instruction: "Rechne mit Arbeit und Leistung.",
+        scenes: [
+          {
+            id: "ph-7-sr-3-s1",
+            title: "Arbeit",
+            prompt: "Wie berechnet man die mechanische Arbeit (W)?",
+            sceneType: "community",
+            visual: { icon: "🏗️", bg: "#0f766e", accent: "#2dd4bf" },
+            choices: [
+              { id: "a", label: "W = m * v" },
+              { id: "b", label: "W = F * s (Kraft mal Weg)" },
+              { id: "c", label: "W = F / A" },
+              { id: "d", label: "W = P / t" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Arbeit ist Kraft entlang eines Weges.",
+            failFeedback: "Falsch. Die Formel ist W = F * s."
+          },
+          {
+            id: "ph-7-sr-3-s2",
+            title: "Leistung",
+            prompt: "Was gibt die mechanische Leistung (P) an?",
+            sceneType: "community",
+            visual: { icon: "⏱️", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Wie viel Arbeit in einer bestimmten Zeit verrichtet wird" },
+              { id: "b", label: "Wie schwer ein Gegenstand ist" },
+              { id: "c", label: "Wie heiß ein Motor wird" },
+              { id: "d", label: "Wie stark die Reibung ist" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Korrekt! P = W / t.",
+            failFeedback: "Nicht ganz. Leistung ist Arbeit pro Zeit."
+          },
+          {
+            id: "ph-7-sr-3-s3",
+            title: "Einheit",
+            prompt: "Welche Einheit hat die Leistung?",
+            sceneType: "community",
+            visual: { icon: "💡", bg: "#78350f", accent: "#f59e0b" },
+            choices: [
+              { id: "a", label: "Newton (N)" },
+              { id: "b", label: "Joule (J)" },
+              { id: "c", label: "Watt (W)" },
+              { id: "d", label: "Meter pro Sekunde (m/s)" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Genau! 1 Watt = 1 Joule pro Sekunde.",
+            failFeedback: "Leider falsch. Die Einheit ist Watt (W)."
+          },
+          {
+            id: "ph-7-sr-3-s4",
+            title: "Hubarbeit",
+            prompt: "Welche Arbeit verrichtest du, wenn du eine Kiste anhebst?",
+            sceneType: "community",
+            visual: { icon: "📦", bg: "#064e3b", accent: "#10b981" },
+            choices: [
+              { id: "a", label: "Reibungsarbeit" },
+              { id: "b", label: "Beschleunigungsarbeit" },
+              { id: "c", label: "Spannarbeit" },
+              { id: "d", label: "Hubarbeit" }
+            ],
+            correctChoiceId: "d",
+            successFeedback: "Stimmt! Du überwindest die Gewichtskraft.",
+            failFeedback: "Falsch. Beim Anheben verrichtet man Hubarbeit."
+          }
         ]
       }
     ],
     constellationBuilder: [
       {
         id: "ph-7-cb-1",
-        title: "Optische Instrumente",
-        instruction: "Verbinde das optische Bauteil mit seiner Funktion.",
-        pairs: [
-          { id: "p1", left: "Sammellinse", right: "Bündelt Lichtstrahlen (Brennpunkt)" },
-          { id: "p2", left: "Zerstreuungslinse", right: "Fächert Lichtstrahlen auf" },
-          { id: "p3", left: "Prisma", right: "Zerlegt weißes Licht in Spektralfarben" },
-          { id: "p4", left: "Ebener Spiegel", right: "Reflektiert das Licht gerichtet" },
-          { id: "p5", left: "Lochblende", right: "Erzeugt ein umgekehrtes Bild (Camera Obscura)" }
-        ]
+        title: "Schallfrequenzen",
+        instruction: "Ordne die Frequenzen von tief (niedrig) nach hoch.",
+        hint: "Ultraschall ist höher als das, was wir hören können.",
+        theme: { bg: "#0f172a", accent: "#3b82f6", card: "#1c1917" },
+        parts: [
+          { id: "hoch", label: "Menschlicher hoher Ton (z.B. 10.000 Hz)", emoji: "🎵" },
+          { id: "infra", label: "Infraschall (< 20 Hz)", emoji: "🐘" },
+          { id: "ultra", label: "Ultraschall (> 20.000 Hz)", emoji: "🦇" },
+          { id: "tief", label: "Menschlicher tiefer Ton (z.B. 100 Hz)", emoji: "🔈" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Tiefste Frequenz" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Höchste Frequenz" }
+        ],
+        solution: ["infra", "tief", "hoch", "ultra"]
       },
       {
         id: "ph-7-cb-2",
-        title: "Schall & Gehör",
-        instruction: "Verbinde den akustischen Begriff mit seiner Bedeutung.",
-        pairs: [
-          { id: "p1", left: "Frequenz", right: "Schwingungen pro Sekunde" },
-          { id: "p2", left: "Amplitude", right: "Maximale Auslenkung (Lautstärke)" },
-          { id: "p3", left: "Ultraschall", right: "Töne über 20.000 Hz (Menschen hören es nicht)" },
-          { id: "p4", left: "Schallgeschwindigkeit", right: "Ca. 340 m/s in der Luft" },
-          { id: "p5", left: "Echo", right: "Reflektierter Schall" }
-        ]
+        title: "Lichtdurchlässigkeit",
+        instruction: "Ordne von lichtundurchlässig zu komplett transparent.",
+        hint: "Durch ein Milchglas sieht man nur verschwommen.",
+        theme: { bg: "#0f172a", accent: "#fbbf24", card: "#1c1917" },
+        parts: [
+          { id: "klares", label: "Fensterglas", emoji: "🪟" },
+          { id: "stein", label: "Ziegelstein", emoji: "🧱" },
+          { id: "vakuum", label: "Leerer Raum (Vakuum)", emoji: "🌌" },
+          { id: "milch", label: "Milchglas / Nebel", emoji: "🌫️" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Undurchlässig" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Perfekt transparent" }
+        ],
+        solution: ["stein", "milch", "klares", "vakuum"]
       },
       {
         id: "ph-7-cb-3",
-        title: "Formeln der Mechanik",
-        instruction: "Verbinde die Formel mit der gesuchten Größe.",
-        pairs: [
-          { id: "p1", left: "W = F · s", right: "Mechanische Arbeit" },
-          { id: "p2", left: "P = W / t", right: "Leistung" },
-          { id: "p3", left: "F = m · g", right: "Gewichtskraft" },
-          { id: "p4", left: "v = s / t", right: "Geschwindigkeit" },
-          { id: "p5", left: "p = F / A", right: "Druck" }
-        ]
+        title: "Leistung (Watt)",
+        instruction: "Ordne nach mechanischer/elektrischer Leistung aufsteigend.",
+        hint: "Ein Kraftwerk liefert Millionen von Watt.",
+        theme: { bg: "#0f172a", accent: "#10b981", card: "#1c1917" },
+        parts: [
+          { id: "auto", label: "Automotor (ca. 100 kW)", emoji: "🚗" },
+          { id: "mensch", label: "Gehender Mensch (ca. 100 W)", emoji: "🚶" },
+          { id: "kraftwerk", label: "Atomkraftwerk (ca. 1000 MW)", emoji: "🏭" },
+          { id: "wind", label: "Große Windkraftanlage (ca. 3 MW)", emoji: "🌬️" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Wenig Leistung" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Viel Leistung" }
+        ],
+        solution: ["mensch", "auto", "wind", "kraftwerk"]
       }
     ],
     memoryRadar: [
       {
         id: "ph-7-mr-1",
-        title: "Licht-Radar",
-        instruction: "Finde die Paare zum Thema Optik!",
-        pairs: [
-          { id: "pr1", termA: "Reflexionsgesetz", termB: "Einfallswinkel = Ausfallswinkel" },
-          { id: "pr2", termA: "Lichtgeschwindigkeit", termB: "Ca. 300.000 km/s im Vakuum" },
-          { id: "pr3", termA: "Absorption", termB: "Verschlucken von Licht" },
-          { id: "pr4", termA: "Weißes Licht", termB: "Gemisch aller Spektralfarben" },
-          { id: "pr5", termA: "Konvexe Linse", termB: "In der Mitte dicker als am Rand" },
-          { id: "pr6", termA: "Konkave Linse", termB: "In der Mitte dünner als am Rand" }
+        title: "Optische Instrumente",
+        instruction: "Merke dir die optischen Bauteile!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#22d3ee", radar: "#083344" },
+        targetItems: [
+          { id: "linse", label: "Sammellinse", emoji: "🔍" },
+          { id: "prisma", label: "Prisma", emoji: "🔺" },
+          { id: "spiegel", label: "Ebenerspiegel", emoji: "🪞" },
+          { id: "loch", label: "Lochblende", emoji: "🕳️" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Stimmgabel", emoji: "🪚" },
+          { id: "dec2", label: "Gitarre", emoji: "🎸" },
+          { id: "dec3", label: "Waage", emoji: "⚖️" },
+          { id: "dec4", label: "Thermometer", emoji: "🌡️" },
+          { id: "dec5", label: "Kompass", emoji: "🧭" }
         ]
       },
       {
         id: "ph-7-mr-2",
-        title: "Schall-Radar",
-        instruction: "Ordne die akustischen Paare zu!",
-        pairs: [
-          { id: "pr1", termA: "Hoher Ton", termB: "Hohe Frequenz" },
-          { id: "pr2", termA: "Lauter Ton", termB: "Große Amplitude" },
-          { id: "pr3", termA: "Hertz (Hz)", termB: "Einheit der Frequenz" },
-          { id: "pr4", termA: "Dezibel (dB)", termB: "Einheit des Schallpegels" },
-          { id: "pr5", termA: "Schallausbreitung", termB: "Braucht ein Medium (z.B. Luft, Wasser)" },
-          { id: "pr6", termA: "Gehörschutz", termB: "Verhindert Gehörschäden bei Lärm" }
+        title: "Schallerzeuger",
+        instruction: "Merke dir die Dinge, die Schall erzeugen!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#f59e0b", radar: "#78350f" },
+        targetItems: [
+          { id: "stimm", label: "Stimmgabel", emoji: "🪚" },
+          { id: "laut", label: "Lautsprecher", emoji: "🔊" },
+          { id: "trommel", label: "Trommel", emoji: "🥁" },
+          { id: "stimme", label: "Menschliche Stimme", emoji: "🗣️" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Vakuum", emoji: "🌌" },
+          { id: "dec2", label: "Lichtstrahl", emoji: "🔦" },
+          { id: "dec3", label: "Schatten", emoji: "👤" },
+          { id: "dec4", label: "Spiegel", emoji: "🪞" },
+          { id: "dec5", label: "Linse", emoji: "🔍" }
         ]
       },
       {
         id: "ph-7-mr-3",
-        title: "Arbeits-Radar",
-        instruction: "Finde die Paare zur mechanischen Arbeit!",
-        pairs: [
-          { id: "pr1", termA: "Hubarbeit", termB: "Einen Gegenstand hochheben" },
-          { id: "pr2", termA: "Reibungsarbeit", termB: "Eine Kiste über den Boden schieben" },
-          { id: "pr3", termA: "Beschleunigungsarbeit", termB: "Ein Auto anfahren lassen" },
-          { id: "pr4", termA: "1 Joule (J)", termB: "Entspricht 1 Newtonmeter (Nm)" },
-          { id: "pr5", termA: "Leistung", termB: "Gibt an, wie schnell Arbeit verrichtet wird" },
-          { id: "pr6", termA: "James Watt", termB: "Namensgeber der Leistungseinheit" }
+        title: "Mechanische Einheiten",
+        instruction: "Merke dir die Einheiten der Mechanik und Akustik!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#10b981", radar: "#064e3b" },
+        targetItems: [
+          { id: "joule", label: "Joule (Arbeit)", emoji: "⚡" },
+          { id: "watt", label: "Watt (Leistung)", emoji: "💡" },
+          { id: "newton", label: "Newton (Kraft)", emoji: "🍎" },
+          { id: "hertz", label: "Hertz (Frequenz)", emoji: "📈" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Ampere", emoji: "🌊" },
+          { id: "dec2", label: "Volt", emoji: "🔋" },
+          { id: "dec3", label: "Ohm", emoji: "🔌" },
+          { id: "dec4", label: "Coulomb", emoji: "⚛️" },
+          { id: "dec5", label: "Lumen", emoji: "☀️" }
         ]
       }
     ]
@@ -839,114 +1522,341 @@ export const PHYSIK_POOLS: Record<number, SachkundeVisualLabGradePool> = {
     signalRunner: [
       {
         id: "ph-8-sr-1",
-        title: "Atom-Sprint",
-        questions: [
-          { id: "q1", text: "Welche Ladung hat ein Proton?", correct: "Positiv", wrong: ["Negativ", "Neutral", "Es hat keine Ladung"] },
-          { id: "q2", text: "Welche Ladung hat ein Elektron?", correct: "Negativ", wrong: ["Positiv", "Neutral", "Wechselnd"] },
-          { id: "q3", text: "Wo befindet sich das Elektron?", correct: "In der Atomhülle", wrong: ["Im Atomkern", "Zwischen Protonen", "Außerhalb des Atoms"] },
-          { id: "q4", text: "Was gibt die Ordnungszahl im Periodensystem an?", correct: "Die Anzahl der Protonen", wrong: ["Die Anzahl der Neutronen", "Das Gewicht", "Die Größe der Hülle"] },
-          { id: "q5", text: "Wie nennt man Atome desselben Elements mit unterschiedlicher Neutronenzahl?", correct: "Isotope", wrong: ["Ionen", "Moleküle", "Quarks"] }
+        title: "Physik-Sprint K8 - Atomphysik",
+        instruction: "Wähle die Fakten über Atome.",
+        scenes: [
+          {
+            id: "ph-8-sr-1-s1",
+            title: "Ladung",
+            prompt: "Welche elektrische Ladung hat ein Proton?",
+            sceneType: "nature",
+            visual: { icon: "➕", bg: "#991b1b", accent: "#f87171" },
+            choices: [
+              { id: "a", label: "Negativ" },
+              { id: "b", label: "Neutral" },
+              { id: "c", label: "Positiv" },
+              { id: "d", label: "Wechselnd" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Richtig! Protonen sind positiv, Elektronen negativ.",
+            failFeedback: "Falsch. Ein Proton ist positiv geladen."
+          },
+          {
+            id: "ph-8-sr-1-s2",
+            title: "Kern",
+            prompt: "Woraus besteht der Atomkern?",
+            sceneType: "nature",
+            visual: { icon: "⚛️", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Nur aus Elektronen" },
+              { id: "b", label: "Aus Protonen und Neutronen" },
+              { id: "c", label: "Aus Quarks und Photonen" },
+              { id: "d", label: "Aus Protonen und Elektronen" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Korrekt! Sie bilden zusammen die Nukleonen im Kern.",
+            failFeedback: "Nicht ganz. Der Kern enthält Protonen und Neutronen."
+          },
+          {
+            id: "ph-8-sr-1-s3",
+            title: "Masse",
+            prompt: "Wo befindet sich fast die gesamte Masse eines Atoms?",
+            sceneType: "nature",
+            visual: { icon: "⚖️", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "In der Atomhülle" },
+              { id: "b", label: "Im Atomkern" },
+              { id: "c", label: "Gleichmäßig verteilt" },
+              { id: "d", label: "Außerhalb des Atoms" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Genau! Elektronen wiegen fast nichts.",
+            failFeedback: "Leider falsch. Der winzige Kern enthält über 99% der Masse."
+          },
+          {
+            id: "ph-8-sr-1-s4",
+            title: "Ordnungszahl",
+            prompt: "Was gibt die Ordnungszahl im Periodensystem an?",
+            sceneType: "community",
+            visual: { icon: "📋", bg: "#0891b2", accent: "#22d3ee" },
+            choices: [
+              { id: "a", label: "Anzahl der Neutronen" },
+              { id: "b", label: "Das Gewicht des Atoms" },
+              { id: "c", label: "Anzahl der Protonen" },
+              { id: "d", label: "Anzahl der Schalen" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Stimmt! Sie bestimmt das chemische Element.",
+            failFeedback: "Falsch. Die Ordnungszahl ist gleich der Protonenzahl."
+          }
         ]
       },
       {
         id: "ph-8-sr-2",
-        title: "Induktions-Sprint",
-        questions: [
-          { id: "q1", text: "Was passiert, wenn sich ein Magnet in einer Spule bewegt?", correct: "Es entsteht Spannung (Induktion)", wrong: ["Der Magnet schmilzt", "Die Spule wird magnetisch isoliert", "Nichts"] },
-          { id: "q2", text: "Ein Generator wandelt mechanische Energie um in...", correct: "Elektrische Energie", wrong: ["Wärmeenergie", "Chemische Energie", "Lichtenergie"] },
-          { id: "q3", text: "Ein Elektromotor wandelt elektrische Energie um in...", correct: "Mechanische Energie", wrong: ["Spannenergie", "Kernenergie", "Schallenergie"] },
-          { id: "q4", text: "Wofür braucht man einen Transformator?", correct: "Spannung hoch- oder runterregeln", wrong: ["Strom speichern", "Gleichstrom erzeugen", "Widerstand messen"] },
-          { id: "q5", text: "Welche Spannung kommt im Haushalt aus der Steckdose?", correct: "230 Volt", wrong: ["12 Volt", "1000 Volt", "5 Volt"] }
+        title: "Physik-Sprint K8 - Elektromagnetismus",
+        instruction: "Beantworte Fragen zu Spulen und Induktion.",
+        scenes: [
+          {
+            id: "ph-8-sr-2-s1",
+            title: "Induktion",
+            prompt: "Was passiert, wenn sich ein Magnet in einer Spule bewegt?",
+            sceneType: "community",
+            visual: { icon: "⚡", bg: "#854d0e", accent: "#facc15" },
+            choices: [
+              { id: "a", label: "Die Spule schmilzt" },
+              { id: "b", label: "Es wird eine elektrische Spannung induziert" },
+              { id: "c", label: "Der Magnet wird schwerer" },
+              { id: "d", label: "Es entsteht Licht" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Richtig! Das ist das Prinzip der elektromagnetischen Induktion.",
+            failFeedback: "Falsch. Es entsteht durch Induktion eine Spannung."
+          },
+          {
+            id: "ph-8-sr-2-s2",
+            title: "Generator",
+            prompt: "Welche Energieumwandlung findet in einem Generator statt?",
+            sceneType: "community",
+            visual: { icon: "🏗️", bg: "#0f766e", accent: "#2dd4bf" },
+            choices: [
+              { id: "a", label: "Elektrische in Mechanische Energie" },
+              { id: "b", label: "Wärmeenergie in Lichtenergie" },
+              { id: "c", label: "Mechanische in Elektrische Energie" },
+              { id: "d", label: "Chemische in Elektrische Energie" }
+            ],
+            correctChoiceId: "c",
+            successFeedback: "Korrekt! Bewegung wird zu Strom (z.B. Windrad).",
+            failFeedback: "Nicht ganz. Er wandelt Bewegung in Strom um."
+          },
+          {
+            id: "ph-8-sr-2-s3",
+            title: "Transformator",
+            prompt: "Wofür nutzt man einen Transformator?",
+            sceneType: "community",
+            visual: { icon: "🔌", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Um Gleichstrom zu erzeugen" },
+              { id: "b", label: "Um Wechselspannung hoch oder runter zu transformieren" },
+              { id: "c", label: "Um Strom zu speichern" },
+              { id: "d", label: "Um Widerstand zu messen" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Genau! Er hat eine Primär- und eine Sekundärspule.",
+            failFeedback: "Leider falsch. Er ändert die Spannungshöhe."
+          },
+          {
+            id: "ph-8-sr-2-s4",
+            title: "Motor",
+            prompt: "Ein Elektromotor ist vom Prinzip her die Umkehrung von...",
+            sceneType: "community",
+            visual: { icon: "⚙️", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "Einem Generator" },
+              { id: "b", label: "Einem Akku" },
+              { id: "c", label: "Einer Glühlampe" },
+              { id: "d", label: "Einem Thermometer" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Stimmt! Motor: Strom -> Bewegung. Generator: Bewegung -> Strom.",
+            failFeedback: "Falsch. Er ist die Umkehrung des Generators."
+          }
         ]
       },
       {
         id: "ph-8-sr-3",
-        title: "Umwelt-Sprint",
-        questions: [
-          { id: "q1", text: "Welches Gas gilt als Hauptverursacher des Klimawandels?", correct: "Kohlenstoffdioxid (CO2)", wrong: ["Sauerstoff (O2)", "Stickstoff (N2)", "Helium (He)"] },
-          { id: "q2", text: "Was beschreibt der Treibhauseffekt?", correct: "Wärme wird in der Atmosphäre gehalten", wrong: ["Die Sonne kühlt ab", "Pflanzen wachsen schneller", "Ozon wird abgebaut"] },
-          { id: "q3", text: "Welches Kraftwerk nutzt Kernspaltung?", correct: "Atomkraftwerk", wrong: ["Kohlekraftwerk", "Wasserkraftwerk", "Geothermie-Kraftwerk"] },
-          { id: "q4", text: "Was ist ein großer Nachteil von Kernkraft?", correct: "Radioaktiver Abfall", wrong: ["Viel CO2-Ausstoß", "Sehr teurer Brennstoff", "Braucht viel Wind"] },
-          { id: "q5", text: "Wie nennt man Energie aus Sonnenlicht?", correct: "Photovoltaik", wrong: ["Geothermie", "Wasserkraft", "Biomasse"] }
+        title: "Physik-Sprint K8 - Moderne Physik",
+        instruction: "Teste dein Wissen zur Kernphysik.",
+        scenes: [
+          {
+            id: "ph-8-sr-3-s1",
+            title: "Strahlung",
+            prompt: "Welche Strahlung besteht aus Heliumkernen?",
+            sceneType: "nature",
+            visual: { icon: "☢️", bg: "#991b1b", accent: "#f87171" },
+            choices: [
+              { id: "a", label: "Röntgenstrahlung" },
+              { id: "b", label: "Gammastrahlung" },
+              { id: "c", label: "Betastrahlung" },
+              { id: "d", label: "Alphastrahlung" }
+            ],
+            correctChoiceId: "d",
+            successFeedback: "Richtig! Alphateilchen sind positiv geladene Heliumkerne.",
+            failFeedback: "Falsch. Es ist die Alphastrahlung."
+          },
+          {
+            id: "ph-8-sr-3-s2",
+            title: "Abschirmung",
+            prompt: "Womit kann man Alphastrahlung bereits stoppen?",
+            sceneType: "community",
+            visual: { icon: "🛡️", bg: "#1e3a5f", accent: "#fbbf24" },
+            choices: [
+              { id: "a", label: "Nur mit dickem Blei" },
+              { id: "b", label: "Mit einem Blatt Papier" },
+              { id: "c", label: "Mit 10 cm Beton" },
+              { id: "d", label: "Gar nicht" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Korrekt! Sie hat eine sehr geringe Durchdringungskraft.",
+            failFeedback: "Nicht ganz. Ein Blatt Papier reicht oft schon aus."
+          },
+          {
+            id: "ph-8-sr-3-s3",
+            title: "Halbwertszeit",
+            prompt: "Was beschreibt die Halbwertszeit?",
+            sceneType: "nature",
+            visual: { icon: "⏱️", bg: "#064e3b", accent: "#10b981" },
+            choices: [
+              { id: "a", label: "Die Zeit, bis die Hälfte der Atomkerne zerfallen ist" },
+              { id: "b", label: "Die Hälfte des Alters der Erde" },
+              { id: "c", label: "Die Zeit, bis die Strahlung doppelt so stark ist" },
+              { id: "d", label: "Die Zeit, bis ein Elektron halbiert wird" }
+            ],
+            correctChoiceId: "a",
+            successFeedback: "Genau! Nach einer Halbwertszeit ist noch 50% des Materials da.",
+            failFeedback: "Leider falsch. Sie gibt an, wann die Hälfte zerfallen ist."
+          },
+          {
+            id: "ph-8-sr-3-s4",
+            title: "Einstein",
+            prompt: "Welche berühmte Formel beschreibt die Äquivalenz von Masse und Energie?",
+            sceneType: "community",
+            visual: { icon: "🧠", bg: "#4c1d95", accent: "#8b5cf6" },
+            choices: [
+              { id: "a", label: "F = m * a" },
+              { id: "b", label: "E = m * c²" },
+              { id: "c", label: "W = F * s" },
+              { id: "d", label: "v = s / t" }
+            ],
+            correctChoiceId: "b",
+            successFeedback: "Stimmt! Von Albert Einstein.",
+            failFeedback: "Falsch. Es ist E = m * c²."
+          }
         ]
       }
     ],
     constellationBuilder: [
       {
         id: "ph-8-cb-1",
-        title: "Bausteine des Atoms",
-        instruction: "Verbinde das Elementarteilchen mit seiner Ladung.",
-        pairs: [
-          { id: "p1", left: "Proton", right: "Positiv geladen (+)" },
-          { id: "p2", left: "Elektron", right: "Negativ geladen (-)" },
-          { id: "p3", left: "Neutron", right: "Elektrisch neutral (0)" },
-          { id: "p4", left: "Atomkern", right: "Gesamtladung positiv" },
-          { id: "p5", left: "Gesamtes Atom", right: "Nach außen neutral" }
-        ]
+        title: "Atomare Größen",
+        instruction: "Ordne die Strukturen nach ihrer Größe (klein zu groß).",
+        hint: "Ein Elektron ist viel kleiner als ein ganzes Atom.",
+        theme: { bg: "#0f172a", accent: "#f59e0b", card: "#1c1917" },
+        parts: [
+          { id: "atom", label: "Ganzes Atom", emoji: "⚛️" },
+          { id: "kern", label: "Atomkern", emoji: "🔴" },
+          { id: "elektron", label: "Elektron", emoji: "➖" },
+          { id: "molekuel", label: "Molekül (z.B. Wasser)", emoji: "💧" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Am kleinsten" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Am größten" }
+        ],
+        solution: ["elektron", "kern", "atom", "molekuel"]
       },
       {
         id: "ph-8-cb-2",
-        title: "Elektromagnetische Anwendungen",
-        instruction: "Verbinde die Maschine mit ihrem Prinzip.",
-        pairs: [
-          { id: "p1", left: "Generator", right: "Bewegung → Strom" },
-          { id: "p2", left: "Elektromotor", right: "Strom → Bewegung" },
-          { id: "p3", left: "Transformator", right: "Ändert die Wechselspannung" },
-          { id: "p4", left: "Elektromagnet", right: "Ist nur magnetisch, wenn Strom fließt" },
-          { id: "p5", left: "Lautsprecher", right: "Stromschwankungen → Schall" }
-        ]
+        title: "Elektromagnetisches Spektrum",
+        instruction: "Ordne nach Energie der Strahlung (niedrig nach hoch).",
+        hint: "Radiowellen sind harmlos, Gammastrahlung sehr energiereich.",
+        theme: { bg: "#0f172a", accent: "#8b5cf6", card: "#1c1917" },
+        parts: [
+          { id: "licht", label: "Sichtbares Licht", emoji: "💡" },
+          { id: "radio", label: "Radiowellen", emoji: "📻" },
+          { id: "gamma", label: "Gammastrahlung", emoji: "☢️" },
+          { id: "roentgen", label: "Röntgenstrahlung", emoji: "🩻" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Niedrigste Energie" },
+          { id: "slot-2", label: "2." },
+          { id: "slot-3", label: "3." },
+          { id: "slot-4", label: "4. Höchste Energie" }
+        ],
+        solution: ["radio", "licht", "roentgen", "gamma"]
       },
       {
         id: "ph-8-cb-3",
-        title: "Kraftwerke & Energie",
-        instruction: "Welches Kraftwerk nutzt welche Energiequelle?",
-        pairs: [
-          { id: "p1", left: "Wasserkraftwerk", right: "Lageenergie von aufgestautem Wasser" },
-          { id: "p2", left: "Windkraftanlage", right: "Kinetische Energie der Luft" },
-          { id: "p3", left: "Kohlekraftwerk", right: "Chemische Energie von Fossilien" },
-          { id: "p4", left: "Kernkraftwerk", right: "Bindungsenergie von Atomkernen" },
-          { id: "p5", left: "Photovoltaikanlage", right: "Strahlungsenergie der Sonne" }
-        ]
+        title: "Durchdringungskraft",
+        instruction: "Ordne, welches Material welche Strahlung stoppen kann.",
+        hint: "Alpha wird von Papier gestoppt, Gamma braucht Blei/Beton.",
+        theme: { bg: "#0f172a", accent: "#ef4444", card: "#1c1917" },
+        parts: [
+          { id: "blei", label: "Dicker Bleiblock (stoppt Gamma)", emoji: "🧱" },
+          { id: "papier", label: "Papier (stoppt Alpha)", emoji: "📄" },
+          { id: "alu", label: "Aluminiumblech (stoppt Beta)", emoji: "🥫" },
+          { id: "nichts", label: "Kein Hindernis", emoji: "💨" }
+        ],
+        slots: [
+          { id: "slot-1", label: "1. Hält nichts auf" },
+          { id: "slot-2", label: "2. Stoppt schwache Strahlung" },
+          { id: "slot-3", label: "3. Stoppt mittlere Strahlung" },
+          { id: "slot-4", label: "4. Stoppt stärkste Strahlung" }
+        ],
+        solution: ["nichts", "papier", "alu", "blei"]
       }
     ],
     memoryRadar: [
       {
         id: "ph-8-mr-1",
-        title: "Atom-Radar",
-        instruction: "Finde die passenden Paare zur Atomphysik!",
-        pairs: [
-          { id: "pr1", termA: "Rutherford-Versuch", termB: "Entdeckung des kleinen Atomkerns" },
-          { id: "pr2", termA: "Bohrsches Atommodell", termB: "Elektronen auf festen Schalen" },
-          { id: "pr3", termA: "Isotope", termB: "Gleiche Protonen, verschiedene Neutronen" },
-          { id: "pr4", termA: "Ionen", termB: "Elektrisch geladene Atome" },
-          { id: "pr5", termA: "Ordnungszahl", termB: "Anzahl der Protonen" },
-          { id: "pr6", termA: "Massenzahl", termB: "Protonen + Neutronen" }
+        title: "Atombausteine",
+        instruction: "Merke dir die Teile des Atoms!",
+        flashDurationMs: 4000,
+        selectionLimit: 3,
+        theme: { bg: "#0f172a", accent: "#a855f7", radar: "#4c1d95" },
+        targetItems: [
+          { id: "proton", label: "Proton", emoji: "➕" },
+          { id: "neutron", label: "Neutron", emoji: "⚪" },
+          { id: "elektron", label: "Elektron", emoji: "➖" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Bakterium", emoji: "🦠" },
+          { id: "dec2", label: "Zelle", emoji: "🧬" },
+          { id: "dec3", label: "Molekül", emoji: "💧" },
+          { id: "dec4", label: "Lichtjahr", emoji: "🌌" },
+          { id: "dec5", label: "Planet", emoji: "🪐" }
         ]
       },
       {
         id: "ph-8-mr-2",
-        title: "Induktions-Radar",
-        instruction: "Ordne die Begriffe des Elektromagnetismus zu!",
-        pairs: [
-          { id: "pr1", termA: "Induktion", termB: "Spannung durch Magnetfeldänderung" },
-          { id: "pr2", termA: "Lenzsche Regel", termB: "Induktionsstrom hemmt seine Ursache" },
-          { id: "pr3", termA: "Primärspule", termB: "Eingangsseite am Transformator" },
-          { id: "pr4", termA: "Sekundärspule", termB: "Ausgangsseite am Transformator" },
-          { id: "pr5", termA: "Wechselstrom", termB: "Notwendig für einen Transformator" },
-          { id: "pr6", termA: "Lorentzkraft", termB: "Kraft auf bewegte Ladungen im Magnetfeld" }
+        title: "Kraftwerke",
+        instruction: "Merke dir Energiequellen für Kraftwerke!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#34d399", radar: "#064e3b" },
+        targetItems: [
+          { id: "wasser", label: "Wasserkraft", emoji: "🌊" },
+          { id: "wind", label: "Windkraft", emoji: "🌬️" },
+          { id: "kohle", label: "Kohle", emoji: "🪨" },
+          { id: "kern", label: "Kernkraft (Uran)", emoji: "☢️" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Batterie", emoji: "🔋" },
+          { id: "dec2", label: "Transformator", emoji: "🏗️" },
+          { id: "dec3", label: "Elektromotor", emoji: "⚙️" },
+          { id: "dec4", label: "Glühlampe", emoji: "💡" },
+          { id: "dec5", label: "Prisma", emoji: "🔺" }
         ]
       },
       {
         id: "ph-8-mr-3",
-        title: "Radioaktivitäts-Radar",
-        instruction: "Finde die Paare zur Radioaktivität und Strahlung!",
-        pairs: [
-          { id: "pr1", termA: "Alphastrahlung", termB: "Heliumkerne" },
-          { id: "pr2", termA: "Betastrahlung", termB: "Schnelle Elektronen" },
-          { id: "pr3", termA: "Gammastrahlung", termB: "Hochenergetische elektromagnetische Wellen" },
-          { id: "pr4", termA: "Halbwertszeit", termB: "Zeit, bis die Hälfte zerfallen ist" },
-          { id: "pr5", termA: "Geiger-Müller-Zählrohr", termB: "Gerät zum Messen von Radioaktivität" },
-          { id: "pr6", termA: "Kernspaltung", termB: "Urankern wird durch ein Neutron geteilt" }
+        title: "Strahlungsarten",
+        instruction: "Merke dir die energiereichen Strahlungen!",
+        flashDurationMs: 4000,
+        selectionLimit: 4,
+        theme: { bg: "#0f172a", accent: "#f87171", radar: "#7f1d1d" },
+        targetItems: [
+          { id: "alpha", label: "Alphastrahlung", emoji: "☢️" },
+          { id: "beta", label: "Betastrahlung", emoji: "⚡" },
+          { id: "gamma", label: "Gammastrahlung", emoji: "🌊" },
+          { id: "roent", label: "Röntgenstrahlung", emoji: "🩻" }
+        ],
+        decoyItems: [
+          { id: "dec1", label: "Infraschall", emoji: "🐘" },
+          { id: "dec2", label: "Ultraschall", emoji: "🦇" },
+          { id: "dec3", label: "Wärmeleitung", emoji: "♨️" },
+          { id: "dec4", label: "Reibung", emoji: "🤝" },
+          { id: "dec5", label: "Schwerkraft", emoji: "🌍" }
         ]
       }
     ]
