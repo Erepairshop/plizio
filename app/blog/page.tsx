@@ -7,6 +7,7 @@ export const metadata: Metadata = {
 };
 
 const ARTICLES = [
+  { slug: "interaktive-karte-geographie-geschichte", title: "Interaktive Deutschlandkarte: Geographie, Geschichte & Sachkunde spielerisch lernen", date: "2026-04-17", tag: "Geographie" },
   { slug: "deutsch-grammatik-ueben",   title: "Deutsch Grammatik üben: Die besten Methoden für Klasse 1-8", date: "2026-04-04", tag: "Deutsch" },
   { slug: "rechtschreibung-verbessern", title: "Rechtschreibung verbessern: 7 Tipps für Kinder", date: "2026-04-04", tag: "Deutsch" },
   { slug: "biologie-klasse-5-lernen",  title: "Biologie Klasse 5: Was lernt man und wie übt man richtig?", date: "2026-04-04", tag: "Biologie" },
