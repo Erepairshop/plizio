@@ -10,10 +10,10 @@ interface MeteorScaleGameProps {
 }
 
 const DICTIONARY = {
-  en: { title: "Meteor Scale", score: "Score", gameOver: "Game Over", next: "Next" },
-  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Spiel vorbei", next: "Weiter" },
-  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Játék vége", next: "Tovább" },
-  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Joc Terminat", next: "Următorul" }
+  en: { title: "Meteor Scale", score: "Score", gameOver: "Game Over", next: "Next", playAgain: "Play Again" },
+  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Spiel vorbei", next: "Weiter", playAgain: "Nochmal spielen" },
+  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Játék vége", next: "Tovább", playAgain: "Újra" },
+  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Joc Terminat", next: "Următorul", playAgain: "Joacă din nou" }
 };
 
 interface Problem {
@@ -101,18 +101,13 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
   const maxRounds = grade <= 5 ? 3 : 3 + (grade - 5);
   const fallDuration = grade <= 2 ? 12 : grade <= 4 ? 9 : grade <= 6 ? 7 : 6;
 
-  const initNextRound = useCallback(() => {
-    if (rounds >= maxRounds) {
-      if (onDone) onDone(score);
-      return;
-    }
+  const startRound = useCallback((currentRounds: number) => {
+    if (currentRounds >= maxRounds) return;
     const newProb = generateProblem(grade);
     setProblem(newProb);
     setScaleStatus('left-heavy');
     setCaughtMeteor(null);
-
     const positions = [20, 40, 60, 80].sort(() => Math.random() - 0.5);
-    
     setMeteors(newProb.meteors.map((val, i) => ({
       id: Math.random().toString(),
       value: val,
@@ -120,12 +115,22 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
       delay: Math.random() * 1.5,
       status: 'falling'
     })));
-  }, [grade, rounds, score, onDone]); // maxRounds is constant
+  }, [grade, maxRounds]);
+
+  const restart = useCallback(() => {
+    setScore(0);
+    setRounds(0);
+    setProblem(null);
+    setMeteors([]);
+    setScaleStatus('left-heavy');
+    setCaughtMeteor(null);
+    setTimeout(() => startRound(0), 0);
+  }, [startRound]);
 
   useEffect(() => {
-    initNextRound();
+    startRound(0);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []); // Only on mount
+  }, []);
 
   const handleMeteorClick = (id: string, value: number) => {
     if (scaleStatus === 'balanced' || rounds >= maxRounds) return;
@@ -135,10 +140,11 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
       setScaleStatus('balanced');
       setCaughtMeteor(value);
       setScore(s => s + 10);
-      setRounds(r => r + 1);
-      setTimeout(() => {
-        initNextRound();
-      }, 2000);
+      setRounds(r => {
+        const next = r + 1;
+        setTimeout(() => startRound(next), 2000);
+        return next;
+      });
     } else {
       setMeteors(m => m.map(met => met.id === id ? { ...met, status: 'wrong' } : met));
     }
@@ -163,10 +169,28 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
         <div className="absolute inset-0 opacity-20" style={{ backgroundImage: 'radial-gradient(circle, #67e8f9 1px, transparent 1px)', backgroundSize: '60px 60px', backgroundPosition: '20px 20px' }} />
 
         {rounds >= maxRounds && (
-          <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-slate-950/80 backdrop-blur-sm">
-            <h1 className="text-5xl font-bold text-white mb-6 drop-shadow-[0_0_10px_#f97316]">{t.gameOver}</h1>
-            <p className="text-3xl text-orange-400 font-bold">{t.score}: {score}</p>
-          </div>
+          <motion.div
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-slate-950/85 backdrop-blur-sm"
+          >
+            <h1 className="text-5xl font-bold text-white mb-3 drop-shadow-[0_0_10px_#f97316]">{t.gameOver}</h1>
+            <p className="text-3xl text-orange-400 font-bold mb-8">{t.score}: {score}</p>
+            <button
+              onClick={restart}
+              className="px-10 py-4 bg-gradient-to-r from-orange-600 to-yellow-500 hover:from-orange-500 hover:to-yellow-400 text-white font-black rounded-full text-xl uppercase tracking-wider transition-all hover:scale-105 active:scale-95 shadow-[0_0_20px_rgba(249,115,22,0.5)] mb-3"
+            >
+              {t.playAgain}
+            </button>
+            {onDone && (
+              <button
+                onClick={() => onDone(score)}
+                className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold transition-colors"
+              >
+                {t.next}
+              </button>
+            )}
+          </motion.div>
         )}
 
         {/* Falling Meteors */}
