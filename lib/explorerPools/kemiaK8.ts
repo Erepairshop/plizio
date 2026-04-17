@@ -192,6 +192,164 @@ function buildIsland(explorerTitle: LangText, topics: TopicSpec[]) {
   };
 }
 
+interface PracticeTopicConfig {
+  themeDe: string;
+  themeEn: string;
+  themeHu: string;
+  themeRo: string;
+  focusDe: string;
+  focusEn: string;
+  focusHu: string;
+  focusRo: string;
+  svg: SvgConfig;
+  quizPrefix: string;
+}
+
+type PracticeKind = "gap" | "magnet" | "bucket" | "stacker" | "slingshot";
+
+function buildPracticeTopics(config: PracticeTopicConfig): TopicSpec[] {
+  const plan: Array<[TopicSpec["difficulty"], PracticeKind]> = [
+    ["easy", "gap"],
+    ["easy", "magnet"],
+    ["easy", "bucket"],
+    ["medium", "stacker"],
+    ["medium", "gap"],
+    ["medium", "magnet"],
+    ["hard", "slingshot"],
+    ["hard", "stacker"],
+    ["hard", "gap"],
+    ["hard", "slingshot"],
+  ];
+
+  return plan.map(([difficulty, kind], idx) => {
+    const n = idx + 6;
+    const title = L(
+      `${config.themeDe} – Übung ${n}`,
+      `${config.themeEn} - Practice ${n}`,
+      `${config.themeHu} – Gyakorlat ${n}`,
+      `${config.themeRo} – Exercițiul ${n}`
+    );
+    const text = L(
+      `Diese Aufgabe vertieft ${config.themeDe} mit kurzen Alltagsbeispielen.`,
+      `This task deepens ${config.themeEn} with short everyday examples.`,
+      `Ez a feladat rövid hétköznapi példákkal mélyíti a(z) ${config.themeHu} témát.`,
+      `Acest exercițiu aprofundează ${config.themeRo} cu exemple scurte din viața de zi cu zi.`
+    );
+    const common = {
+      difficulty,
+      title,
+      text,
+      svg: config.svg,
+      quiz: `${config.quizPrefix}_${n}_${kind}`,
+    };
+
+    if (kind === "gap") {
+      return {
+        ...common,
+        inst: L("Wähle die beste Ergänzung.", "Choose the best completion.", "Válaszd a legjobb kiegészítést.", "Alege completarea cea mai bună."),
+        h1: L(`Achte auf ${config.focusDe}.`, `Focus on ${config.focusEn}.`, `Figyelj a(z) ${config.focusHu} részre.`, `Fii atent la ${config.focusRo}.`),
+        h2: L("Nutze die gelernte Regel.", "Use the learned rule.", "Használd a tanult szabályt.", "Folosește regula învățată."),
+        interactive: {
+          type: "gap-fill",
+          sentence: L(
+            `${config.themeDe}: Entscheidend ist hier ___.`,
+            `In ${config.themeEn}, the key idea is ___.`,
+            `A(z) ${config.themeHu} témában a kulcsfogalom a ___.`,
+            `În ${config.themeRo}, ideea-cheie este ___.`
+          ),
+          choices: [
+            L(config.focusDe, config.focusEn, config.focusHu, config.focusRo),
+            L("falsche Zuordnung", "wrong classification", "hibás besorolás", "clasificare greșită"),
+            L("unpassendes Beispiel", "unrelated example", "nem kapcsolódó példa", "exemplu fără legătură"),
+            L("zufällige Antwort", "random answer", "véletlen válasz", "răspuns aleator"),
+          ],
+          correctIndex: 0,
+        },
+      };
+    }
+
+    if (kind === "magnet") {
+      return {
+        ...common,
+        inst: L("Verbinde die passenden Paare.", "Match the correct pairs.", "Párosítsd a helyes párokat.", "Potrivește perechile corecte."),
+        h1: L(`Ordne Begriffe aus ${config.themeDe}.`, `Match terms from ${config.themeEn}.`, `Párosítsd a(z) ${config.themeHu} fogalmait.`, `Asociază termenii din ${config.themeRo}.`),
+        h2: L("Definition und Beispiel gehören zusammen.", "Definition and example belong together.", "A meghatározás és a példa összetartozik.", "Definiția și exemplul merg împreună."),
+        interactive: {
+          type: "physics-magnet",
+          pairs: [
+            { left: L("Fachbegriff", "term", "szakfogalom", "termen"), right: L("Definition", "definition", "meghatározás", "definiție") },
+            { left: L("Eigenschaft", "property", "tulajdonság", "proprietate"), right: L("Beschreibung", "description", "leírás", "descriere") },
+            { left: L("Reaktion", "reaction", "reakció", "reacție"), right: L("Bedingung", "condition", "feltétel", "condiție") },
+            { left: L("Alltagsbeispiel", "everyday example", "hétköznapi példa", "exemplu cotidian"), right: L("Anwendung", "application", "alkalmazás", "aplicare") },
+          ],
+        },
+      };
+    }
+
+    if (kind === "bucket") {
+      return {
+        ...common,
+        inst: L("Sortiere in passende Gruppen.", "Sort into matching groups.", "Rendezd megfelelő csoportokba.", "Sortează în grupe potrivite."),
+        h1: L("Achte auf Gemeinsamkeiten.", "Look for shared features.", "Figyeld a közös jellemzőket.", "Observă trăsăturile comune."),
+        h2: L("Trenne Kernidee und Nebensache.", "Separate core idea from side note.", "Válaszd szét a lényeget és a mellékest.", "Separă ideea principală de detalii."),
+        interactive: {
+          type: "physics-bucket",
+          buckets: [
+            { id: "a", label: L("passt", "fits", "illeszkedik", "se potrivește") },
+            { id: "b", label: L("passt nicht", "does not fit", "nem illeszkedik", "nu se potrivește") },
+          ],
+          items: [
+            { text: L(config.focusDe, config.focusEn, config.focusHu, config.focusRo), bucketId: "a" },
+            { text: L("korrekte Aussage", "correct statement", "helyes állítás", "afirmație corectă"), bucketId: "a" },
+            { text: L("falsches Beispiel", "wrong example", "hibás példa", "exemplu greșit"), bucketId: "b" },
+            { text: L("anderes Thema", "different topic", "másik téma", "altă temă"), bucketId: "b" },
+          ],
+        },
+      };
+    }
+
+    if (kind === "stacker") {
+      return {
+        ...common,
+        inst: L("Bringe die Schritte in eine sinnvolle Reihenfolge.", "Put the steps in a logical order.", "Tedd a lépéseket logikus sorrendbe.", "Pune pașii într-o ordine logică."),
+        h1: L("Vom Begriff zur Anwendung.", "From concept to application.", "A fogalomtól az alkalmazásig.", "De la concept la aplicare."),
+        h2: L("Prüfen gehört immer zum Schluss.", "Checking always comes last.", "Az ellenőrzés mindig a végén van.", "Verificarea vine mereu la final."),
+        interactive: {
+          type: "physics-stacker",
+          words: [
+            L("Begriff erkennen", "identify the concept", "fogalom felismerése", "identifică noțiunea"),
+            L("Regel anwenden", "apply the rule", "szabály alkalmazása", "aplică regula"),
+            L("Ergebnis prüfen", "check the result", "eredmény ellenőrzése", "verifică rezultatul"),
+          ],
+          correctOrder: [0, 1, 2],
+        },
+      };
+    }
+
+    return {
+      ...common,
+      inst: L("Triff alle richtigen Aussagen.", "Hit all correct statements.", "Találd el az összes helyes állítást.", "Nimerește toate afirmațiile corecte."),
+      h1: L("Mehr als eine Antwort kann stimmen.", "More than one answer may be correct.", "Több válasz is lehet helyes.", "Mai multe răspunsuri pot fi corecte."),
+      h2: L("Prüfe jede Aussage einzeln.", "Check each statement separately.", "Minden állítást külön ellenőrizz.", "Verifică fiecare afirmație separat."),
+      interactive: {
+        type: "physics-slingshot",
+        question: L(
+          `Welche Aussagen zu ${config.themeDe} sind korrekt?`,
+          `Which statements about ${config.themeEn} are correct?`,
+          `Mely állítások helyesek a(z) ${config.themeHu} témában?`,
+          `Care afirmații despre ${config.themeRo} sunt corecte?`
+        ),
+        targets: [
+          { id: "1", text: L(config.focusDe, config.focusEn, config.focusHu, config.focusRo), isCorrect: true },
+          { id: "2", text: L("Die Regel gilt im passenden Kontext.", "The rule works in the proper context.", "A szabály megfelelő helyzetben érvényes.", "Regula este valabilă în contextul potrivit."), isCorrect: true },
+          { id: "3", text: L("Alle Stoffe verhalten sich immer gleich.", "All substances always behave the same.", "Minden anyag mindig ugyanúgy viselkedik.", "Toate substanțele se comportă mereu la fel."), isCorrect: false },
+          { id: "4", text: L("Rechnen ersetzt das Verständnis.", "Calculations replace understanding.", "A számolás helyettesíti a megértést.", "Calculele înlocuiesc înțelegerea."), isCorrect: false },
+        ],
+      },
+    };
+  });
+}
+
 const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
   {
     difficulty: "easy",
@@ -321,6 +479,18 @@ const KEMIA_K8_I1_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Organische Grundlagen",
+    themeEn: "organic basics",
+    themeHu: "szerves alapok",
+    themeRo: "bazele chimiei organice",
+    focusDe: "Kohlenstoff-Verbindungen erkennen",
+    focusEn: "identify carbon compounds",
+    focusHu: "szénvegyületek felismerése",
+    focusRo: "recunoașterea compușilor carbonului",
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
+    quizPrefix: "i1_organic_practice",
+  }),
 ];
 
 const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
@@ -452,6 +622,18 @@ const KEMIA_K8_I2_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Funktionelle Gruppen",
+    themeEn: "functional groups",
+    themeHu: "funkciós csoportok",
+    themeRo: "grupe funcționale",
+    focusDe: "OH-, CHO- und COOH-Gruppen",
+    focusEn: "OH, CHO, and COOH groups",
+    focusHu: "OH-, CHO- és COOH-csoportok",
+    focusRo: "grupele OH, CHO și COOH",
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
+    quizPrefix: "i2_functional_practice",
+  }),
 ];
 
 const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
@@ -583,6 +765,18 @@ const KEMIA_K8_I3_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Reaktionsmechanismen",
+    themeEn: "reaction mechanisms",
+    themeHu: "reakciómechanizmusok",
+    themeRo: "mecanisme de reacție",
+    focusDe: "Aktivierungsenergie und Katalysator",
+    focusEn: "activation energy and catalyst",
+    focusHu: "aktiválási energia és katalizátor",
+    focusRo: "energia de activare și catalizator",
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
+    quizPrefix: "i3_mechanism_practice",
+  }),
 ];
 
 const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
@@ -714,6 +908,18 @@ const KEMIA_K8_I4_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Elektrochemie",
+    themeEn: "electrochemistry",
+    themeHu: "elektrokémia",
+    themeRo: "electrochimie",
+    focusDe: "Anode, Kathode und Ionentransport",
+    focusEn: "anode, cathode, and ion transport",
+    focusHu: "anód, katód és ionvándorlás",
+    focusRo: "anod, catod și transport ionic",
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
+    quizPrefix: "i4_electro_practice",
+  }),
 ];
 
 const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
@@ -841,6 +1047,18 @@ const KEMIA_K8_I5_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Chemische Berechnungen",
+    themeEn: "chemical calculations",
+    themeHu: "kémiai számítások",
+    themeRo: "calcule chimice",
+    focusDe: "Mol, Masse und Konzentration",
+    focusEn: "mole, mass, and concentration",
+    focusHu: "mol, tömeg és koncentráció",
+    focusRo: "mol, masă și concentrație",
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
+    quizPrefix: "i5_calculation_practice",
+  }),
 ];
 
 const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
@@ -980,6 +1198,18 @@ const KEMIA_K8_I6_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Umwelt- und Energiethemen",
+    themeEn: "environment and energy topics",
+    themeHu: "környezet és energia témák",
+    themeRo: "teme de mediu și energie",
+    focusDe: "Ressourcen sparen und sauber arbeiten",
+    focusEn: "save resources and work cleanly",
+    focusHu: "erőforrások takarékos használata és tiszta működés",
+    focusRo: "economisirea resurselor și procese curate",
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
+    quizPrefix: "i6_environment_practice",
+  }),
 ];
 
 const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
@@ -1111,6 +1341,18 @@ const KEMIA_K8_I7_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Kohlenwasserstoffe im Überblick",
+    themeEn: "hydrocarbons overview",
+    themeHu: "szénhidrogének áttekintése",
+    themeRo: "privire de ansamblu asupra hidrocarburilor",
+    focusDe: "gesättigt vs. ungesättigt",
+    focusEn: "saturated vs unsaturated",
+    focusHu: "telített és telítetlen",
+    focusRo: "saturat vs nesaturat",
+    svg: { type: "kemia-diagram", name: "OrganicSvg" },
+    quizPrefix: "i7_hydrocarbon_practice",
+  }),
 ];
 
 const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
@@ -1242,6 +1484,18 @@ const KEMIA_K8_I8_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Kinetik und Gleichgewicht",
+    themeEn: "kinetics and equilibrium",
+    themeHu: "kinetika és egyensúly",
+    themeRo: "cinetică și echilibru",
+    focusDe: "Temperatur, Konzentration und Gleichgewicht",
+    focusEn: "temperature, concentration, and equilibrium",
+    focusHu: "hőmérséklet, koncentráció és egyensúly",
+    focusRo: "temperatură, concentrație și echilibru",
+    svg: { type: "kemia-diagram", name: "ReactionSvg" },
+    quizPrefix: "i8_kinetics_practice",
+  }),
 ];
 
 const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
@@ -1373,6 +1627,18 @@ const KEMIA_K8_I9_TOPICS: TopicSpec[] = [
       correctIndex: 0,
     },
   },
+  ...buildPracticeTopics({
+    themeDe: "Großes Chemie-Finale",
+    themeEn: "grand chemistry finale",
+    themeHu: "nagy kémia finálé",
+    themeRo: "marea finală de chimie",
+    focusDe: "Regeln sicher anwenden",
+    focusEn: "apply rules confidently",
+    focusHu: "szabályok biztos alkalmazása",
+    focusRo: "aplicarea sigură a regulilor",
+    svg: { type: "kemia-diagram", name: "BeakerSvg" },
+    quizPrefix: "i9_final_practice",
+  }),
 ];
 
 const I1 = buildIsland(L("Organische Grundlagen", "Organic Basics", "Szerves alapok", "Bazele organice"), KEMIA_K8_I1_TOPICS);
