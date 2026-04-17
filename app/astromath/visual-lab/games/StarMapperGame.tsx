@@ -75,7 +75,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(60);
   const [correctCount, setCorrectCount] = useState(0);
-  const maxCorrect = Math.max(1, grade); // K1=1, K8=8
+  const maxCorrect = grade <= 5 ? 3 : 3 + (grade - 5); // K1-5=3, K6=4, K7=5, K8=6
   const [target, setTarget] = useState({ x: 0, y: 0 });
   const [inputX, setInputX] = useState('');
   const [inputY, setInputY] = useState('');
@@ -252,47 +252,45 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                 <text key={`ty-${y}`} x={mapX(yAxisX) - 10} y={mapY(y) + 5} fill="#94a3b8" fontSize="14" textAnchor="end" fontWeight={y === 0 ? "bold" : "normal"}>{y}</text>
               ))}
 
-              {/* Target */}
+              {/* Target — position in plain <g>, animate inside */}
               <AnimatePresence>
                 {!feedback && (
-                  <motion.g
-                    key={`target-${target.x}-${target.y}`}
-                    initial={{ scale: 0, opacity: 0 }}
-                    animate={{ scale: 1, opacity: 1 }}
-                    exit={{ scale: 2, opacity: 0 }}
-                    transition={{ type: 'spring', bounce: 0.5, duration: 0.6 }}
-                    transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}
-                  >
+                  <g key={`target-${target.x}-${target.y}`} transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
                     <motion.g
-                      animate={{ rotate: 360 }}
-                      transition={{ duration: 4, repeat: Infinity, ease: "linear" }}
+                      initial={{ scale: 0, opacity: 0 }}
+                      animate={{ scale: 1, opacity: 1 }}
+                      exit={{ scale: 2, opacity: 0 }}
+                      transition={{ type: 'spring', bounce: 0.5, duration: 0.6 }}
+                      style={{ originX: '0px', originY: '0px' }}
                     >
-                      <circle cx={0} cy={0} r={12} fill="rgba(255, 255, 0, 0.2)" className="animate-ping" />
-                      <polygon points="0,-12 4,-4 12,-4 5,2 8,10 0,6 -8,10 -5,2 -12,-4 -4,-4" fill="#fbbf24" filter="drop-shadow(0 0 5px #fbbf24)" />
+                      <circle cx={0} cy={0} r={16} fill="rgba(251,191,36,0.15)" />
+                      <circle cx={0} cy={0} r={10} fill="none" stroke="#fbbf24" strokeWidth="1.5" strokeDasharray="3 2" />
+                      <polygon points="0,-10 3,-3 10,-3 4,2 7,9 0,5 -7,9 -4,2 -10,-3 -3,-3" fill="#fbbf24" style={{ filter: 'drop-shadow(0 0 6px #fbbf24)' }} />
                     </motion.g>
-                  </motion.g>
+                  </g>
                 )}
                 {feedback === 'correct' && (
-                  <motion.g
-                    key="explosion"
-                    initial={{ scale: 0.5, opacity: 1 }}
-                    animate={{ scale: 3, opacity: 0 }}
-                    transition={{ duration: 0.5 }}
-                    transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}
-                  >
-                    <circle cx={0} cy={0} r={15} fill="#34d399" filter="drop-shadow(0 0 10px #34d399)" />
-                  </motion.g>
+                  <g key="explosion" transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
+                    <motion.g
+                      initial={{ scale: 0.5, opacity: 1 }}
+                      animate={{ scale: 3, opacity: 0 }}
+                      transition={{ duration: 0.5 }}
+                      style={{ originX: '0px', originY: '0px' }}
+                    >
+                      <circle cx={0} cy={0} r={15} fill="#34d399" style={{ filter: 'drop-shadow(0 0 10px #34d399)' }} />
+                    </motion.g>
+                  </g>
                 )}
                 {feedback === 'wrong' && (
-                  <motion.g
-                    key="miss"
-                    initial={{ x: -5 }}
-                    animate={{ x: [5, -5, 5, -5, 0] }}
-                    transition={{ duration: 0.4 }}
-                    transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}
-                  >
-                    <path d="M-10,-10 L10,10 M10,-10 L-10,10" stroke="#ef4444" strokeWidth="4" />
-                  </motion.g>
+                  <g key="miss" transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
+                    <motion.g
+                      initial={{ x: -5 }}
+                      animate={{ x: [5, -5, 5, -5, 0] }}
+                      transition={{ duration: 0.4 }}
+                    >
+                      <path d="M-10,-10 L10,10 M10,-10 L-10,10" stroke="#ef4444" strokeWidth="4" />
+                    </motion.g>
+                  </g>
                 )}
               </AnimatePresence>
             </svg>
