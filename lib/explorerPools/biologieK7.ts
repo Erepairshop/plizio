@@ -1710,3 +1710,205 @@ export const BIO_K7_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "natural_selection" }
   }
 ];
+
+type K7Lang = "de" | "en" | "hu" | "ro";
+type K7L10n = Record<K7Lang, string>;
+
+interface K7PracticeConfig {
+  topic: K7L10n;
+  focus: K7L10n;
+  hint1: K7L10n;
+  hint2: K7L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const K7_PRACTICE_INSTRUCTIONS: Record<K7Lang, string[]> = {
+  de: [
+    "Wähle passende Beispiele.",
+    "Sortiere die Aussagen nach Funktion.",
+    "Nutze Begriffe aus dem Körper und ordne sie zu.",
+    "Verbinde Ursache und Wirkung.",
+    "Prüfe die Zusammenhänge und wähle die beste Aussage.",
+  ],
+  en: [
+    "Choose fitting examples.",
+    "Sort the statements by function.",
+    "Use body-related terms and classify them.",
+    "Link cause and effect.",
+    "Check the connections and choose the best statement.",
+  ],
+  hu: [
+    "Válaszd ki a helyes példákat.",
+    "Rendezd a kijelentéseket funkció szerint.",
+    "Használd a fogalmakat, és párosítsd őket.",
+    "Kösd össze az okot és a következményt.",
+    "Ellenőrizd az összefüggéseket, válaszd a legjobb állítást.",
+  ],
+  ro: [
+    "Sortează exemplele potrivite.",
+    "Sortează afirmațiile după funcție.",
+    "Folosește termenii corecți și clasifică-i.",
+    "Leagă cauza de efect.",
+    "Verifică legăturile și alege afirmația corectă.",
+  ],
+};
+
+function ensureK7Lang(labels: Record<string, Record<string, string>>, lang: K7Lang): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Biologie Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addK7PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: K7PracticeConfig
+): void {
+  const langs: K7Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+    for (const lang of langs) {
+      const bucket = ensureK7Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit kurzen Beispielen, Wärme, Größe und Funktion im Körper.` :
+        lang === "en" ? `${cfg.focus.en} through short examples and clear function links.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákon: erő, tömeg, működés és kapcsolatok.` :
+        `${cfg.focus.ro} prin exemple scurte: forță, mișcare, funcție și relații.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = K7_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const K7_PRACTICE_CONFIGS: K7PracticeConfig[] = [
+  {
+    topic: { de: "Sejt-anyagcsere", en: "Cell Metabolism", hu: "Sejt-anyagcsere", ro: "Metabolism celular" },
+    focus: { de: "Sejtanyagcsere", en: "Cell metabolism", hu: "Sejt-anyagcsere", ro: "Metabolism celular" },
+    hint1: { de: "Zellfunktionen", en: "Cell functions", hu: "Sejtműködések", ro: "Funcții celulare" },
+    hint2: { de: "Energiefluss", en: "Energy flow", hu: "Energiaáramlás", ro: "Flux de energie" },
+    quiz: "cell_structure",
+    icon: "🔬",
+    color: "#3B82F6",
+    emoji: "🧪",
+  },
+  {
+    topic: { de: "Genetika alapjai", en: "Genetics Basics", hu: "Genetika alapjai", ro: "Bazele geneticii" },
+    focus: { de: "Grundlagen der Genetik", en: "Genetics basics", hu: "A genetika alapjai", ro: "Bazele geneticii" },
+    hint1: { de: "DNA & Gene", en: "DNA & genes", hu: "DNS és gének", ro: "ADN și gene" },
+    hint2: { de: "Vererbung", en: "Inheritance", hu: "Öröklődés", ro: "Ereditate" },
+    quiz: "cell_cycle",
+    icon: "🧬",
+    color: "#7C3AED",
+    emoji: "🧬",
+  },
+  {
+    topic: { de: "Fotoszintézis & anyagcsere", en: "Photosynthesis & Metabolism", hu: "Fotoszintézis és anyagcsere", ro: "Fotosinteză și metabolism" },
+    focus: { de: "Fotosynthese und Stoffwechsel", en: "Photosynthesis and metabolism", hu: "Fotoszintézis és anyagcsere", ro: "Fotosinteză și metabolism" },
+    hint1: { de: "Licht & Zucker", en: "Light & sugar", hu: "Fény és cukor", ro: "Lumină și zahăr" },
+    hint2: { de: "Pflanzenzelle", en: "Plant cell", hu: "Növényi sejt", ro: "Celulă vegetală" },
+    quiz: "photosynthesis_detail",
+    icon: "🌿",
+    color: "#10B981",
+    emoji: "☀️",
+  },
+  {
+    topic: { de: "Sejtlégzés", en: "Cellular Respiration", hu: "Sejtlégzés", ro: "Respirație celulară" },
+    focus: { de: "Zellatmung", en: "Cellular respiration", hu: "Sejtlégzés", ro: "Respirație celulară" },
+    hint1: { de: "ATP-Bildung", en: "ATP formation", hu: "ATP-képzés", ro: "Formare ATP" },
+    hint2: { de: "Mitochondrium", en: "Mitochondrion", hu: "Mitokondrium", ro: "Mitocondrie" },
+    quiz: "cellular_respiration",
+    icon: "⚡",
+    color: "#F59E0B",
+    emoji: "⚡",
+  },
+  {
+    topic: { de: "Menschliche Organsysteme", en: "Human Organ Systems", hu: "Emberi szervrendszerek", ro: "Sisteme de organe umane" },
+    focus: { de: "Organsysteme des Menschen", en: "Human organ systems", hu: "Az emberi szervrendszerek", ro: "Sistemele de organe umane" },
+    hint1: { de: "Körper und Funktion", en: "Body and function", hu: "Test és funkció", ro: "Corp și funcție" },
+    hint2: { de: "Regelung", en: "Regulation", hu: "Szabályozás", ro: "Reglare" },
+    quiz: "ecological_niche",
+    icon: "🫁",
+    color: "#EF4444",
+    emoji: "🫀",
+  },
+  {
+    topic: { de: "Organsysteme & Umwelt", en: "Organ Systems & Environment", hu: "Szervrendszerek és környezet", ro: "Sisteme de organe și mediu" },
+    focus: { de: "Zusammenhang von Körper und Umwelt", en: "Body-environment interactions", hu: "Test és környezet kapcsolata", ro: "Legătura corp-mediu" },
+    hint1: { de: "Stoffkreislauf", en: "Cycles", hu: "Anyagkörforgás", ro: "Cicluri" },
+    hint2: { de: "Anpassung", en: "Adaptation", hu: "Alkalmazkodás", ro: "Adaptare" },
+    quiz: "biogeochemical_cycles",
+    icon: "🌍",
+    color: "#0EA5E9",
+    emoji: "🌱",
+  },
+  {
+    topic: { de: "Immunsystem", en: "Immune System", hu: "Immunrendszer", ro: "Sistem imunitar" },
+    focus: { de: "Abwehrprozesse", en: "Defense processes", hu: "Védekezési folyamatok", ro: "Procese de apărare" },
+    hint1: { de: "Körperabwehr", en: "Defense", hu: "Védekezés", ro: "Apărare" },
+    hint2: { de: "Gedächtniszellen", en: "Memory cells", hu: "Memóriasejtek", ro: "Celule de memorie" },
+    quiz: "immune_response",
+    icon: "🛡️",
+    color: "#8B5CF6",
+    emoji: "🦠",
+  },
+  {
+    topic: { de: "Nervensystem", en: "Nervous System", hu: "Idegrendszer", ro: "Sistem nervos" },
+    focus: { de: "Signalverarbeitung", en: "Signal processing", hu: "Jelfeldolgozás", ro: "Procesarea semnalelor" },
+    hint1: { de: "Reizleitung", en: "Signal conduction", hu: "Ingerületvezetés", ro: "Conducerea impulsului" },
+    hint2: { de: "Reflexe", en: "Reflexes", hu: "Reflexek", ro: "Reflexe" },
+    quiz: "neuron",
+    icon: "🧠",
+    color: "#EC4899",
+    emoji: "⚡",
+  },
+  {
+    topic: { de: "Szaporodás & genetika", en: "Reproduction & Genetics", hu: "Szaporodás és genetika", ro: "Reproducere și genetică" },
+    focus: { de: "Fortpflanzung und genetische Vielfalt", en: "Reproduction and genetic diversity", hu: "Szaporodás és genetikai változatosság", ro: "Reproducere și diversitate genetică" },
+    hint1: { de: "Variabilität", en: "Variability", hu: "Változatosság", ro: "Variabilitate" },
+    hint2: { de: "Auslese", en: "Selection", hu: "Szelekció", ro: "Selecție" },
+    quiz: "natural_selection",
+    icon: "🧬",
+    color: "#D97706",
+    emoji: "🌱",
+  },
+];
+
+addK7PracticeTopics(BIO_K7_I1_LABELS, BIO_K7_I1_POOL, K7_PRACTICE_CONFIGS[0]);
+addK7PracticeTopics(BIO_K7_I2_LABELS, BIO_K7_I2_POOL, K7_PRACTICE_CONFIGS[1]);
+addK7PracticeTopics(BIO_K7_I3_LABELS, BIO_K7_I3_POOL, K7_PRACTICE_CONFIGS[2]);
+addK7PracticeTopics(BIO_K7_I4_LABELS, BIO_K7_I4_POOL, K7_PRACTICE_CONFIGS[3]);
+addK7PracticeTopics(BIO_K7_I5_LABELS, BIO_K7_I5_POOL, K7_PRACTICE_CONFIGS[4]);
+addK7PracticeTopics(BIO_K7_I6_LABELS, BIO_K7_I6_POOL, K7_PRACTICE_CONFIGS[5]);
+addK7PracticeTopics(BIO_K7_I7_LABELS, BIO_K7_I7_POOL, K7_PRACTICE_CONFIGS[6]);
+addK7PracticeTopics(BIO_K7_I8_LABELS, BIO_K7_I8_POOL, K7_PRACTICE_CONFIGS[7]);
+addK7PracticeTopics(BIO_K7_I9_LABELS, BIO_K7_I9_POOL, K7_PRACTICE_CONFIGS[8]);

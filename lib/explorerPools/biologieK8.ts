@@ -2328,3 +2328,205 @@ export const BIO_K8_I9_POOL: PoolTopicDef[] = [
     quiz: { generate: "conservation_biology" }
   }
 ];
+
+type K8Lang = "de" | "en" | "hu" | "ro";
+type K8L10n = Record<K8Lang, string>;
+
+interface K8PracticeConfig {
+  topic: K8L10n;
+  focus: K8L10n;
+  hint1: K8L10n;
+  hint2: K8L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const K8_PRACTICE_INSTRUCTIONS: Record<K8Lang, string[]> = {
+  de: [
+    "Wähle passende Beispiele.",
+    "Sortiere die Aussagen nach Funktion.",
+    "Nutze Fachbegriffe und ordne sie zu.",
+    "Verbinde Ursache und Wirkung.",
+    "Prüfe die Zusammenhänge und wähle die beste Aussage.",
+  ],
+  en: [
+    "Choose fitting examples.",
+    "Sort the statements by function.",
+    "Use key terms and classify them.",
+    "Connect cause and effect.",
+    "Check the links and choose the best statement.",
+  ],
+  hu: [
+    "Válaszd ki a helyes példákat.",
+    "Rendezd a kijelentéseket funkció szerint.",
+    "Használd a fogalmakat, és párosítsd őket.",
+    "Kösd össze az okot és a következményt.",
+    "Ellenőrizd az összefüggéseket, válaszd a legjobb állítást.",
+  ],
+  ro: [
+    "Sortează exemplele potrivite.",
+    "Sortează afirmațiile după funcție.",
+    "Folosește termenii corecți și clasifică-i.",
+    "Leagă cauza de efect.",
+    "Verifică legăturile și alege afirmația corectă.",
+  ],
+};
+
+function ensureK8Lang(labels: Record<string, Record<string, string>>, lang: K8Lang): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Biologie Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addK8PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: K8PracticeConfig
+): void {
+  const langs: K8Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "medium", "medium", "hard", "hard"];
+  const counts = [2, 3, 4, 3, 4];
+
+  for (let i = 0; i < 5; i += 1) {
+    const n = i + 11;
+    const key = `t${n}`;
+    for (const lang of langs) {
+      const bucket = ensureK8Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit kurzen Beispielen zu Wärme, Größe und Veränderung.` :
+        lang === "en" ? `${cfg.focus.en} through short examples and clear process links.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákon: erő, tömeg, működés és kapcsolatok.` :
+        `${cfg.focus.ro} prin exemple scurte: forță, mișcare, funcție și relații.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = K8_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const K8_PRACTICE_CONFIGS: K8PracticeConfig[] = [
+  {
+    topic: { de: "Genetik & Evolution", en: "Genetics & Evolution", hu: "Genetika és evolúció", ro: "Genetică și evoluție" },
+    focus: { de: "Genetik und Evolution", en: "Genetics and evolution", hu: "Genetika és evolúció", ro: "Genetică și evoluție" },
+    hint1: { de: "DNA-Muster", en: "DNA patterns", hu: "DNS-mintázat", ro: "Modele ADN" },
+    hint2: { de: "Variation", en: "Variation", hu: "Variáció", ro: "Variație" },
+    quiz: "dna_struktur",
+    icon: "🧬",
+    color: "#7C3AED",
+    emoji: "🧬",
+  },
+  {
+    topic: { de: "Biotechnologie", en: "Biotechnology", hu: "Biotechnológia", ro: "Biotehnologie" },
+    focus: { de: "biotechnologische Verfahren", en: "biotechnology methods", hu: "biotechnológiai eljárások", ro: "metode de biotehnologie" },
+    hint1: { de: "PCR & CRISPR", en: "PCR & CRISPR", hu: "PCR és CRISPR", ro: "PCR și CRISPR" },
+    hint2: { de: "Anwendung", en: "Application", hu: "Alkalmazás", ro: "Aplicare" },
+    quiz: "genetische_technik",
+    icon: "🧫",
+    color: "#10B981",
+    emoji: "🧪",
+  },
+  {
+    topic: { de: "Humánbiologie: Hormone", en: "Human Biology: Hormones", hu: "Humánbiológia: hormonok", ro: "Biologie umană: hormoni" },
+    focus: { de: "hormonelle Steuerung", en: "hormonal regulation", hu: "hormonális szabályozás", ro: "reglare hormonală" },
+    hint1: { de: "Regelkreis", en: "Feedback loop", hu: "Szabályozó kör", ro: "Buclă de reglare" },
+    hint2: { de: "Homöostase", en: "Homeostasis", hu: "Homeosztázis", ro: "Homeostazie" },
+    quiz: "endokrine_druesen",
+    icon: "🧠",
+    color: "#EC4899",
+    emoji: "⚖️",
+  },
+  {
+    topic: { de: "Humánbiologie: Fortpflanzung", en: "Human Biology: Reproduction", hu: "Humánbiológia: szaporodás", ro: "Biologie umană: reproducere" },
+    focus: { de: "Fortpflanzung und Entwicklung", en: "reproduction and development", hu: "szaporodás és fejlődés", ro: "reproducere și dezvoltare" },
+    hint1: { de: "Meiose", en: "Meiosis", hu: "Meiózis", ro: "Meioză" },
+    hint2: { de: "Embryo", en: "Embryo", hu: "Embrió", ro: "Embrion" },
+    quiz: "befruchtung",
+    icon: "👶",
+    color: "#F59E0B",
+    emoji: "🧫",
+  },
+  {
+    topic: { de: "Humánbiologie & Verantwortung", en: "Human Biology & Responsibility", hu: "Humánbiológia és felelősség", ro: "Biologie umană și responsabilitate" },
+    focus: { de: "Gesundheit, Prävention und Verantwortung", en: "health, prevention, and responsibility", hu: "egészség, megelőzés és felelősség", ro: "sănătate, prevenție și responsabilitate" },
+    hint1: { de: "Schutz", en: "Protection", hu: "Védelem", ro: "Protecție" },
+    hint2: { de: "Entscheidung", en: "Decision", hu: "Döntés", ro: "Decizie" },
+    quiz: "contraception",
+    icon: "🩺",
+    color: "#EF4444",
+    emoji: "🛡️",
+  },
+  {
+    topic: { de: "Biotechnologie & Zellprozesse", en: "Biotechnology & Cell Processes", hu: "Biotechnológia és sejtfolyamatok", ro: "Biotehnologie și procese celulare" },
+    focus: { de: "enzymatische und zelluläre Prozesse", en: "enzymatic and cellular processes", hu: "enzimatikus és sejtes folyamatok", ro: "procese enzimatice și celulare" },
+    hint1: { de: "Enzym", en: "Enzyme", hu: "Enzim", ro: "Enzimă" },
+    hint2: { de: "Stammzelle", en: "Stem cell", hu: "Őssejt", ro: "Celulă stem" },
+    quiz: "enzyme",
+    icon: "⚗️",
+    color: "#6366F1",
+    emoji: "🧪",
+  },
+  {
+    topic: { de: "Humánbiologie: Integration", en: "Human Biology: Integration", hu: "Humánbiológia: integráció", ro: "Biologie umană: integrare" },
+    focus: { de: "Zusammenspiel der Systeme", en: "system integration", hu: "rendszerek együttműködése", ro: "integrarea sistemelor" },
+    hint1: { de: "Nerven & Hormone", en: "Nerves & hormones", hu: "Idegek és hormonok", ro: "Nervi și hormoni" },
+    hint2: { de: "Regulation", en: "Regulation", hu: "Szabályozás", ro: "Reglare" },
+    quiz: "integration",
+    icon: "🔄",
+    color: "#0EA5E9",
+    emoji: "🧠",
+  },
+  {
+    topic: { de: "Evolution & Ökologie", en: "Evolution & Ecology", hu: "Evolúció és ökológia", ro: "Evoluție și ecologie" },
+    focus: { de: "Population, Selektion und Umwelt", en: "population, selection, and environment", hu: "populáció, szelekció és környezet", ro: "populație, selecție și mediu" },
+    hint1: { de: "Selektionsdruck", en: "Selection pressure", hu: "Szelekciós nyomás", ro: "Presiune de selecție" },
+    hint2: { de: "Anpassung", en: "Adaptation", hu: "Alkalmazkodás", ro: "Adaptare" },
+    quiz: "populationsgenetik",
+    icon: "🦎",
+    color: "#16A34A",
+    emoji: "🌿",
+  },
+  {
+    topic: { de: "Evolution, Ökologie & Naturschutz", en: "Evolution, Ecology & Conservation", hu: "Evolúció, ökológia és természetvédelem", ro: "Evoluție, ecologie și conservare" },
+    focus: { de: "Verwandtschaft, Biodiversität und Schutz", en: "phylogeny, biodiversity, and conservation", hu: "rokonság, biodiverzitás és védelem", ro: "filogenie, biodiversitate și protecție" },
+    hint1: { de: "Biodiversität", en: "Biodiversity", hu: "Biodiverzitás", ro: "Biodiversitate" },
+    hint2: { de: "Nachhaltigkeit", en: "Sustainability", hu: "Fenntarthatóság", ro: "Sustenabilitate" },
+    quiz: "conservation_biology",
+    icon: "🌍",
+    color: "#059669",
+    emoji: "♻️",
+  },
+];
+
+addK8PracticeTopics(BIO_K8_I1_LABELS, BIO_K8_I1_POOL, K8_PRACTICE_CONFIGS[0]);
+addK8PracticeTopics(BIO_K8_I2_LABELS, BIO_K8_I2_POOL, K8_PRACTICE_CONFIGS[1]);
+addK8PracticeTopics(BIO_K8_I3_LABELS, BIO_K8_I3_POOL, K8_PRACTICE_CONFIGS[2]);
+addK8PracticeTopics(BIO_K8_I4_LABELS, BIO_K8_I4_POOL, K8_PRACTICE_CONFIGS[3]);
+addK8PracticeTopics(BIO_K8_I5_LABELS, BIO_K8_I5_POOL, K8_PRACTICE_CONFIGS[4]);
+addK8PracticeTopics(BIO_K8_I6_LABELS, BIO_K8_I6_POOL, K8_PRACTICE_CONFIGS[5]);
+addK8PracticeTopics(BIO_K8_I7_LABELS, BIO_K8_I7_POOL, K8_PRACTICE_CONFIGS[6]);
+addK8PracticeTopics(BIO_K8_I8_LABELS, BIO_K8_I8_POOL, K8_PRACTICE_CONFIGS[7]);
+addK8PracticeTopics(BIO_K8_I9_LABELS, BIO_K8_I9_POOL, K8_PRACTICE_CONFIGS[8]);
