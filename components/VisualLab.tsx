@@ -3,7 +3,7 @@
 import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Map, Globe2, Landmark } from "lucide-react";
+import { X, Map, Globe2, Landmark, Star } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
 import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
@@ -15,6 +15,7 @@ import SequenceSortGame from "@/app/astro-sachkunde/visual-lab/games/SequenceSor
 import FactSwipeGame from "@/app/astro-sachkunde/visual-lab/games/FactSwipeGame";
 
 // Astromath — single flagship game (for now)
+import MathCampaignGame from "@/app/astromath/visual-lab/games/MathCampaignGame";
 import MathNinjaGame from "@/app/astromath/visual-lab/games/MathNinjaGame";
 import MathDefenderGame from "@/app/astromath/visual-lab/games/MathDefenderGame";
 import FractionReactorGame from "@/app/astromath/visual-lab/games/FractionReactorGame";
@@ -64,7 +65,7 @@ const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
 export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika";
 export type Lang = "de" | "hu" | "ro" | "en";
 
-export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline";
+export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline" | "campaign";
 
 export interface VisualLabGame {
   id: string;
@@ -203,6 +204,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
   ],
   astromath: [
+    { id: "math-campaign", type: "campaign", labelKey: "mathCampaign", available: true },
     { id: "math-ninja", type: "spotter", labelKey: "mathNinja", available: true },
     { id: "math-defender", type: "spotter", labelKey: "mathDefender", available: true },
     { id: "fraction-reactor", type: "puzzle", labelKey: "fractionReactor", available: true },
@@ -232,6 +234,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
 const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
   de: {
     mathNinja: "Math Ninja",
+    mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
     fractionReactor: "Bruchreaktor",
     angleLaser: "Winkellaser",
@@ -253,6 +256,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
   },
   hu: {
     mathNinja: "Math Ninja",
+    mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
     fractionReactor: "Tört Reaktor",
     angleLaser: "Szöglézer",
@@ -274,6 +278,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
   },
   ro: {
     mathNinja: "Math Ninja",
+    mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
     fractionReactor: "Reactor de Fracții",
     angleLaser: "Laser de Unghiuri",
@@ -295,6 +300,7 @@ const ADVANCED_LABELS: Record<Lang, Record<string, string>> = {
   },
   en: {
     mathNinja: "Math Ninja",
+    mathCampaign: "Math Odyssey",
     mathDefender: "Astro Defender",
     fractionReactor: "Fraction Reactor",
     angleLaser: "Angle Laser",
@@ -434,6 +440,8 @@ function gameIcon(type: VisualLabGameType, available: boolean) {
       return <Globe2 size={22} className={cls} />;
     case "timeline":
       return <Landmark size={22} className={cls} />;
+    case "campaign":
+      return <Star size={22} className={cls} />;
     default:
       return <Map size={22} className={cls} />;
   }
@@ -542,15 +550,18 @@ function AstromathGameSwitch({
   grade,
   lang,
   tSoon,
-}: {
-  gameId: string;
-  grade: number;
-  lang: Lang;
-  tSoon: string;
-}) {
-  if (gameId === "math-ninja") {
-    return <MathNinjaGame grade={grade} lang={lang} />;
-  }
+  }: {
+    gameId: string;
+    grade: number;
+    lang: Lang;
+    tSoon: string;
+  }) {
+    if (gameId === "math-campaign") {
+      return <MathCampaignGame grade={grade} lang={lang} />;
+    }
+    if (gameId === "math-ninja") {
+      return <MathNinjaGame grade={grade} lang={lang} />;
+    }
   if (gameId === "math-defender") {
     return <MathDefenderGame grade={grade} lang={lang} />;
   }
@@ -706,8 +717,8 @@ function SachkundeGameSwitch({
       return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
-      const round = pool.memoryRadar[0];
-      return round ? <MemoryRadarGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      const rounds = pool.memoryRadar.slice(0, 3);
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "sequence-sort": {
       const round = pool.sequenceSort?.[0];
@@ -750,8 +761,8 @@ function GeographieGameSwitch({
       return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
-      const round = pickRound(pool.memoryRadar, undefined);
-      return round ? <MemoryRadarGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      const rounds = pool.memoryRadar.slice(0, 3);
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
