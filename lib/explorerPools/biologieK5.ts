@@ -87,7 +87,7 @@ function addK5PracticeTopics(labels: Record<string, Record<string, string>>, poo
     {
       title: L(`Sortieren: ${theme.de}`, `Sorting: ${theme.en}`, `Rendezés: ${theme.hu}`, `Sortare: ${theme.ro}`),
       text: L(
-        `Sorteiere Beispiele zu ${theme.de} in die richtigen Gruppen.`,
+        `Sortiere Beispiele zu ${theme.de} in die richtigen Gruppen.`,
         `Sort examples of ${theme.en} into the correct groups.`,
         `Rendezd a(z) ${theme.hu} példáit a megfelelő csoportokba.`,
         `Sortează exemplele despre ${theme.ro} în grupele corecte.`
@@ -245,7 +245,7 @@ export const BIO_I1_LABELS: Record<string, Record<string, string>> = {
   ro: {
     explorer_title: "Pești și amfibieni",
     t1_title: "Respirația branhială", t1_text: "Peștii extrag oxigenul direct din apă cu ajutorul branhiilor.", t1_h1: "Oxigen din apă", t1_h2: "Branhii în loc de plămâni", t1_inst: "Unde respiră peștele?", t1_q: "Cum respiră peștii?", t1_qa: "Cu branhii", t1_qb: "Cu plămâni", t1_qc: "Prin piele", t1_qd: "Prin gură",
-    t2_title: "Solzi și mucus", t2_text: "Pielea peștilor este acoperită cu solzi și un layer de mucus pentru a reduce rezistența apei.", t2_h1: "Strat alunecos", t2_h2: "Protecție contra paraziților", t2_inst: "Ce protejează peștele?", t2_q: "La ce servește stratul de mucus?", t2_qa: "Alunecare în apă", t2_qb: "Protecție contra frigului", t2_qc: "Hrănire", t2_qd: "Camuflaj",
+    t2_title: "Solzi și mucus", t2_text: "Pielea peștilor este acoperită cu solzi și un strat de mucus pentru a reduce rezistența apei.", t2_h1: "Strat alunecos", t2_h2: "Protecție contra paraziților", t2_inst: "Ce protejează peștele?", t2_q: "La ce servește stratul de mucus?", t2_qa: "Alunecare în apă", t2_qb: "Protecție contra frigului", t2_qc: "Hrănire", t2_qd: "Camuflaj",
     t3_title: "Înotătoarele", t3_text: "Peștii folosesc diverse înotătoare pentru direcție, frânare și propulsie.", t3_h1: "Propulsie în apă", t3_h2: "Înotătoarele dorsală și codală", t3_inst: "Mișcă peștele!", t3_q: "Care înotătoare este motorul?", t3_qa: "Codală", t3_qb: "Pectorală", t3_qc: "Dorsală", t3_qd: "Abdominală",
     t4_title: "Pielea amfibienilor", t4_text: "Amfibienii au o piele subțire și umedă prin care pot respira (respirație cutanată).", t4_h1: "Umedă și goală", t4_h2: "Protecție contra uscării", t4_inst: "Respirație cutanată!", t4_q: "De ce trebuie pielea broaștelor să fie umedă?", t4_qa: "Pentru respirație", t4_qb: "Pentru înot", t4_qc: "Contra inamicilor", t4_qd: "Pentru răcire",
     t5_title: "Metamorfoza", t5_text: "De la ou la mormoloc și apoi broască adultă – această transformare se numește metamorfoză.", t5_h1: "Transformare în apă", t5_h2: "De la pește la animal terestru", t5_inst: "Ordonează stadiile!", t5_w1: "Ou", t5_w2: "Mormoloc", t5_w3: "Broască cu coadă", t5_w4: "Broască tânără",

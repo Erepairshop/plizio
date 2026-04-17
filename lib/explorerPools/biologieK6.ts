@@ -87,7 +87,7 @@ function addK6PracticeTopics(labels: Record<string, Record<string, string>>, poo
     {
       title: L(`Sortieren: ${theme.de}`, `Sorting: ${theme.en}`, `Rendezés: ${theme.hu}`, `Sortare: ${theme.ro}`),
       text: L(
-        `Sorteiere Beispiele für ${theme.de}.`,
+        `Sortiere Beispiele für ${theme.de}.`,
         `Sort examples for ${theme.en}.`,
         `Rendezd a(z) ${theme.hu} példáit.`,
         `Sortează exemplele pentru ${theme.ro}.`
@@ -2119,7 +2119,7 @@ export const BIO_K6_I9_LABELS: Record<string, Record<string, string>> = {
     t4_text: "Gewässerökosysteme wie Seen und Flüsse sind lebenswichtige Habitate, die durch abiotische Faktoren wie Licht und Sauerstoff geprägt sind.",
     t5_title: "Herz-Check",
     t5_text: "Das Herz ist der zentrale Hohlmuskel, der als Pumpe fungiert und das Blut kontinuierlich durch das Gefäßsystem treibt.",
-    t6_title: "Keringés-Review",
+    t6_title: "Kreislauf-Review",
     t6_text: "Der Blutkreislauf verbindet alle Organe des Körpers und sorgt für den Transport von Gasen, Nährstoffen und Hormonen.",
     t7_title: "Atmungs-Review",
     t7_text: "Die Atmung ermöglicht den Gasaustausch in der Lunge, wobei Sauerstoff aufgenommen und Kohlendioxid abgegeben wird.",
