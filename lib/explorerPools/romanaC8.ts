@@ -341,7 +341,7 @@ export const COMP8_POOL = COMP8.pool;
 export const RECAP8_LABELS = RECAP8.labels;
 export const RECAP8_POOL = RECAP8.pool;
 
-// Kompatibilitás a meglévő C8 importokhoz.
+// Compatibilitate cu importurile C8 existente.
 export const TEXT8L_LABELS = FIG8_LABELS;
 export const TEXT8L_POOL = FIG8_POOL;
 export const TEXT8N_LABELS = ARG8_LABELS;
