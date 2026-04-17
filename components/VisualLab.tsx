@@ -26,6 +26,9 @@ import MeteorScaleGame from "@/app/astromath/visual-lab/games/MeteorScaleGame";
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
+// Astro-Physik Visual Lab játékok
+import FormulaBlitzGame from "@/app/astro-physik/visual-lab/games/FormulaBlitzGame";
+
 // Astrinformatika Visual Lab játékok
 import BinaryBitStreamGame from "@/app/astrinformatika/visual-lab/games/BinaryBitStreamGame";
 import CodeCommanderGame from "@/app/astrinformatika/visual-lab/games/CodeCommanderGame";
@@ -93,6 +96,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Visuelle Lernspiele & Karten",
     pickGame: "Spiel wählen",
     deutschlandMap: "Deutschland Karte",
+    formulaBlitz: "Formel Blitz ⚡",
     meteorCatch: "Sternenfang",
     orbitSort: "Orbit Sortieren",
     signalRunner: "Signalläufer",
@@ -121,6 +125,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Vizuális tanulójátékok és térképek",
     pickGame: "Válassz játékot",
     deutschlandMap: "Németország térkép",
+    formulaBlitz: "Képlet Blitz ⚡",
     meteorCatch: "Csillagfogó",
     orbitSort: "Pálya-rendező",
     signalRunner: "Jelzés-futó",
@@ -137,6 +142,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Jocuri vizuale & hărți",
     pickGame: "Alege jocul",
     deutschlandMap: "Harta Germaniei",
+    formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Prinde meteorii",
     orbitSort: "Sortare orbitală",
     signalRunner: "Alergător de semnale",
@@ -165,6 +171,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Visual learning games & maps",
     pickGame: "Pick a game",
     deutschlandMap: "Germany Map",
+    formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Meteor Catch",
     orbitSort: "Orbit Sort",
     signalRunner: "Signal Runner",
@@ -231,6 +238,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "virus-vault", type: "spotter", labelKey: "virusVault", available: true },
   ],
   physik: [
+    { id: "formula-blitz", type: "spotter", labelKey: "formulaBlitz", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -785,6 +793,9 @@ function PhysikGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
+  if (gameId === "formula-blitz") {
+    return <FormulaBlitzGame grade={grade} lang={lang} />;
+  }
   const pool = PHYSIK_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
