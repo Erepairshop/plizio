@@ -1090,3 +1090,187 @@ export const FINALE_K7_POOL: PoolTopicDef[] = [
   }
 ];
 
+
+
+type SachkundeK7Lang = "de" | "en" | "hu" | "ro";
+type SachkundeK7L10n = Record<SachkundeK7Lang, string>;
+
+interface SachkundeK7PracticeConfig {
+  topic: SachkundeK7L10n;
+  focus: SachkundeK7L10n;
+  hint1: SachkundeK7L10n;
+  hint2: SachkundeK7L10n;
+  quiz: string;
+  icon: string;
+  color: string;
+  emoji: string;
+}
+
+const SACHKUNDE_K7_PRACTICE_INSTRUCTIONS: Record<SachkundeK7Lang, string[]> = {
+  de: [
+    "Wähle passende Beispiele.",
+    "Sortiere die Aussagen nach Funktion.",
+    "Nutze Begriffe und ordne sie zu.",
+    "Verbinde Ursache und Wirkung.",
+    "Prüfe die Zusammenhänge.",
+    "Finde die richtige Reihenfolge.",
+    "Ordne die Eigenschaften zu."
+  ],
+  en: [
+    "Choose fitting examples.",
+    "Sort the statements by function.",
+    "Use terms and classify them.",
+    "Link cause and effect.",
+    "Check the connections.",
+    "Find the correct order.",
+    "Match the properties."
+  ],
+  hu: [
+    "Válaszd ki a helyes példákat.",
+    "Rendezd a kijelentéseket funkció szerint.",
+    "Használd a fogalmakat, és párosítsd őket.",
+    "Kösd össze az okot és a következményt.",
+    "Ellenőrizd az összefüggéseket.",
+    "Találd meg a helyes sorrendet.",
+    "Párosítsd a tulajdonságokat."
+  ],
+  ro: [
+    "Alege exemplele potrivite.",
+    "Sortează afirmațiile după funcție.",
+    "Folosește termenii și clasifică-i.",
+    "Leagă cauza de efect.",
+    "Verifică legăturile.",
+    "Găsește ordinea corectă.",
+    "Potrivește proprietățile."
+  ],
+};
+
+function ensureSachkundeK7Lang(labels: Record<string, Record<string, string>>, lang: SachkundeK7Lang): Record<string, string> {
+  if (!labels[lang]) {
+    const baseTitle = labels.de?.explorer_title ?? labels.en?.explorer_title ?? "Sachkunde Explorer";
+    labels[lang] = { explorer_title: baseTitle };
+  }
+  return labels[lang];
+}
+
+function addSachkundeK7PracticeTopics(
+  labels: Record<string, Record<string, string>>,
+  pool: PoolTopicDef[],
+  cfg: SachkundeK7PracticeConfig
+): void {
+  const langs: SachkundeK7Lang[] = ["de", "en", "hu", "ro"];
+  const difficulties: Array<"easy" | "medium" | "hard"> = ["easy", "easy", "medium", "medium", "hard", "hard", "hard"];
+  const counts = [2, 3, 3, 4, 4, 5, 5];
+
+  for (let i = 0; i < 7; i += 1) {
+    const n = i + 9;
+    const key = `t${n}`;
+    for (const lang of langs) {
+      const bucket = ensureSachkundeK7Lang(labels, lang);
+      bucket[`${key}_title`] =
+        lang === "de" ? `${cfg.topic.de} – Übung ${n}` :
+        lang === "en" ? `${cfg.topic.en} - Practice ${n}` :
+        lang === "hu" ? `${cfg.topic.hu} – Gyakorlat ${n}` :
+        `${cfg.topic.ro} – Exercițiul ${n}`;
+      bucket[`${key}_text`] =
+        lang === "de" ? `${cfg.focus.de} mit kurzen Beispielen und Zusammenhängen.` :
+        lang === "en" ? `${cfg.focus.en} through short examples and connections.` :
+        lang === "hu" ? `${cfg.focus.hu} rövid példákon és összefüggéseken keresztül.` :
+        `${cfg.focus.ro} prin exemple scurte și conexiuni.`;
+      bucket[`${key}_h1`] = cfg.hint1[lang];
+      bucket[`${key}_h2`] = cfg.hint2[lang];
+      bucket[`${key}_inst`] = SACHKUNDE_K7_PRACTICE_INSTRUCTIONS[lang][i];
+    }
+
+    pool.push({
+      difficulty: difficulties[i],
+      infoTitle: `${key}_title`,
+      infoText: `${key}_text`,
+      svg: { type: "simple-icon", icon: cfg.icon, color: cfg.color, bg: "#F8FAFC" },
+      interactive: {
+        type: "tap-count",
+        tapCount: { emoji: cfg.emoji, count: counts[i] },
+        instruction: `${key}_inst`,
+        hint1: `${key}_h1`,
+        hint2: `${key}_h2`,
+      },
+      quiz: { generate: cfg.quiz },
+    });
+  }
+}
+
+const SACHKUNDE_K7_PRACTICE_CONFIGS: SachkundeK7PracticeConfig[] = [
+  {
+    topic: { de: "Atombau", en: "Atomic Structure", hu: "Atomszerkezet", ro: "Structura atomică" },
+    focus: { de: "Teilchen", en: "Particles", hu: "Részecskék", ro: "Particule" },
+    hint1: { de: "Kern", en: "Nucleus", hu: "Mag", ro: "Nucleu" },
+    hint2: { de: "Hülle", en: "Shell", hu: "Burok", ro: "Înveliș" },
+    quiz: "atom_structure", icon: "⚛️", color: "#3B82F6", emoji: "⚛️"
+  },
+  {
+    topic: { de: "Tektonik", en: "Tectonics", hu: "Tektonika", ro: "Tectonică" },
+    focus: { de: "Erdplatten", en: "Plates", hu: "Kőzetlemezek", ro: "Plăci" },
+    hint1: { de: "Bewegung", en: "Movement", hu: "Mozgás", ro: "Mișcare" },
+    hint2: { de: "Beben", en: "Quake", hu: "Rengés", ro: "Cutremur" },
+    quiz: "tectonics", icon: "🌋", color: "#EF4444", emoji: "🌍"
+  },
+  {
+    topic: { de: "Mittelalter", en: "Middle Ages", hu: "Középkor", ro: "Evul Mediu" },
+    focus: { de: "Gesellschaft", en: "Society", hu: "Társadalom", ro: "Societate" },
+    hint1: { de: "Stände", en: "Estates", hu: "Rendek", ro: "Stări" },
+    hint2: { de: "Ritter", en: "Knights", hu: "Lovagok", ro: "Cavaleri" },
+    quiz: "middle_ages", icon: "🏰", color: "#8B5CF6", emoji: "⚔️"
+  },
+  {
+    topic: { de: "Genetik", en: "Genetics", hu: "Genetika", ro: "Genetică" },
+    focus: { de: "Vererbung", en: "Inheritance", hu: "Öröklődés", ro: "Ereditate" },
+    hint1: { de: "DNA", en: "DNA", hu: "DNS", ro: "ADN" },
+    hint2: { de: "Gene", en: "Genes", hu: "Gének", ro: "Gene" },
+    quiz: "genetics", icon: "🧬", color: "#10B981", emoji: "🧬"
+  },
+  {
+    topic: { de: "Energie", en: "Energy", hu: "Energia", ro: "Energie" },
+    focus: { de: "Formen", en: "Forms", hu: "Formák", ro: "Forme" },
+    hint1: { de: "Kraft", en: "Power", hu: "Erő", ro: "Putere" },
+    hint2: { de: "Strom", en: "Electricity", hu: "Áram", ro: "Curent" },
+    quiz: "energy", icon: "⚡", color: "#F59E0B", emoji: "⚡"
+  },
+  {
+    topic: { de: "Rechtsstaat", en: "Rule of Law", hu: "Jogállam", ro: "Stat de drept" },
+    focus: { de: "Gesetze", en: "Laws", hu: "Törvények", ro: "Legi" },
+    hint1: { de: "Recht", en: "Right", hu: "Jog", ro: "Drept" },
+    hint2: { de: "Pflicht", en: "Duty", hu: "Kötelesség", ro: "Datorie" },
+    quiz: "law", icon: "⚖️", color: "#64748B", emoji: "📜"
+  },
+  {
+    topic: { de: "Wirtschaft", en: "Economy", hu: "Gazdaság", ro: "Economie" },
+    focus: { de: "Handel", en: "Trade", hu: "Kereskedelem", ro: "Comerț" },
+    hint1: { de: "Geld", en: "Money", hu: "Pénz", ro: "Bani" },
+    hint2: { de: "Markt", en: "Market", hu: "Piac", ro: "Piață" },
+    quiz: "economy", icon: "💶", color: "#10B981", emoji: "💰"
+  },
+  {
+    topic: { de: "Sucht", en: "Addiction", hu: "Függőség", ro: "Dependență" },
+    focus: { de: "Prävention", en: "Prevention", hu: "Megelőzés", ro: "Prevenire" },
+    hint1: { de: "Gefahr", en: "Danger", hu: "Veszély", ro: "Pericol" },
+    hint2: { de: "Hilfe", en: "Help", hu: "Segítség", ro: "Ajutor" },
+    quiz: "addiction", icon: "🚫", color: "#EF4444", emoji: "🛑"
+  },
+  {
+    topic: { de: "Finale", en: "Finale", hu: "Döntő", ro: "Finală" },
+    focus: { de: "Wissen", en: "Knowledge", hu: "Tudás", ro: "Cunoștințe" },
+    hint1: { de: "Test", en: "Test", hu: "Teszt", ro: "Test" },
+    hint2: { de: "Erfolg", en: "Success", hu: "Siker", ro: "Succes" },
+    quiz: "finale", icon: "🎓", color: "#F59E0B", emoji: "🏆"
+  }
+];
+
+addSachkundeK7PracticeTopics(ATOMBAU_K7_LABELS, ATOMBAU_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[0]);
+addSachkundeK7PracticeTopics(TEKTONIK_K7_LABELS, TEKTONIK_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[1]);
+addSachkundeK7PracticeTopics(MITTELALTER_K7_LABELS, MITTELALTER_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[2]);
+addSachkundeK7PracticeTopics(GENETIK_BASICS_K7_LABELS, GENETIK_BASICS_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[3]);
+addSachkundeK7PracticeTopics(ENERGIE_K7_LABELS, ENERGIE_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[4]);
+addSachkundeK7PracticeTopics(RECHTSSTAAT_K7_LABELS, RECHTSSTAAT_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[5]);
+addSachkundeK7PracticeTopics(GLOBAL_ECON_K7_LABELS, GLOBAL_ECON_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[6]);
+addSachkundeK7PracticeTopics(SUCHT_K7_LABELS, SUCHT_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[7]);
+addSachkundeK7PracticeTopics(FINALE_K7_LABELS, FINALE_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[8]);
