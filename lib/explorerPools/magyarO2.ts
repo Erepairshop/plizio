@@ -140,7 +140,7 @@ export const MAGYAR_O2_I1_LABELS: Record<string, Record<string, string>> = {
     t9_b1: "Tudod a kérdéseiket.",
     t9_b2: "Ismered a névutókat és a névelőket is.",
     t9_inst: "Kapj el 6 aranytallért a győzelemhez!",
-    t9_q: "Hány nevelő van ebben a mondatban: 'A kutya és egy cica játszik.'",
+    t9_q: "Hány névelő van ebben a mondatban: 'A kutya és egy cica játszik.'",
     t9_q_a: "2",
     t9_q_b: "1",
     t9_q_c: "3",
@@ -767,8 +767,8 @@ export const MAGYAR_O2_I3_LABELS: Record<string, Record<string, string>> = {
     t2_r2: "alló",
     t2_l3: "telesen",
     t2_r3: "teljesen",
-    t2_l4: "loga",
-    t2_r4: "logga",
+    t2_l4: "var",
+    t2_r4: "varr",
 
     // T3: Ékezethasználat
     t3_title: "Ékezetek",
@@ -779,7 +779,7 @@ export const MAGYAR_O2_I3_LABELS: Record<string, Record<string, string>> = {
     t3_b1: "Rövid",
     t3_b2: "Hosszú",
     t3_i1: "könyv",
-    t3_i2: "kőművés",
+    t3_i2: "kőműves",
     t3_i3: "utca",
     t3_i4: "úti",
 
@@ -801,7 +801,7 @@ export const MAGYAR_O2_I3_LABELS: Record<string, Record<string, string>> = {
     t5_h2: "A komponensek egyértelmű",
     t5_sent: "A ___ házban lakunk.",
     t5_c1: "könyvtár",
-    t5_c2: "könyv tar",
+    t5_c2: "könyv tár",
     t5_c3: "könyv-tár",
     t5_c4: "konyvtar",
 
@@ -853,7 +853,7 @@ export const MAGYAR_O2_I3_LABELS: Record<string, Record<string, string>> = {
     t9_t1: "szép",
     t9_t2: "szep",
     t9_t3: "szépp",
-    t9_t4: "szip",
+    t9_t4: "szép",
 
     // T10: Helyesírás-szakértő
     t10_title: "Helyesírás-szakértő!",
@@ -863,7 +863,7 @@ export const MAGYAR_O2_I3_LABELS: Record<string, Record<string, string>> = {
     t10_h2: "Összetett szavak helyesen",
     t10_sent: "A macska az udvaron ___ a labdával.",
     t10_c1: "játszik",
-    t10_c2: "játsz",
+    t10_c2: "játszik",
     t10_c3: "játszik",
     t10_c4: "játszott",
   }
@@ -1435,7 +1435,7 @@ export const MAGYAR_O2_I5_LABELS: Record<string, Record<string, string>> = {
     t5_c1: "kert + kapu",
     t5_c2: "ker + tkapu",
     t5_c3: "kerti + apu",
-    t5_c4: "kerté + tapu",
+    t5_c4: "kerti + kapu",
 
     // T6: Összetételek értelmezése
     t6_title: "Értelmezés",
@@ -1497,7 +1497,7 @@ export const MAGYAR_O2_I5_LABELS: Record<string, Record<string, string>> = {
     t10_c1: "nagylány",
     t10_c2: "nagyság",
     t10_c3: "nagyot",
-    t10_c4: "nagyobbacska",
+    t10_c4: "nagykabát",
   }
 };
 
@@ -1512,9 +1512,9 @@ export const MAGYAR_O2_I5_POOL: PoolTopicDef[] = [
       buckets: [{ id: "osszetett", label: "t1_b1" }, { id: "egyszerv", label: "t1_b2" }],
       items: [
         { text: "t1_i1", bucketId: "osszetett" },
-        { text: "t1_i2", bucketId: "egyszerv" },
+        { text: "t1_i2", bucketId: "egyszeru" },
         { text: "t1_i3", bucketId: "osszetett" },
-        { text: "t1_i4", bucketId: "egyszerv" },
+        { text: "t1_i4", bucketId: "egyszeru" },
       ],
       instruction: "t1_inst",
       hint1: "t1_h1",
@@ -1762,9 +1762,9 @@ export const MAGYAR_O2_I6_LABELS: Record<string, Record<string, string>> = {
     t6_b1: "Helyes",
     t6_b2: "Hibás",
     t6_i1: "játszok",
-    t6_i2: "játszim",
+    t6_i2: "játszom",
     t6_i3: "játszol",
-    t6_i4: "játszal",
+    t6_i4: "játszol",
 
     // T7: Igekötős igék
     t7_title: "Igekötős igék",
@@ -1776,7 +1776,7 @@ export const MAGYAR_O2_I6_LABELS: Record<string, Record<string, string>> = {
     t7_r1: "el-",
     t7_l2: "bemegy",
     t7_r2: "be-",
-    t7_l3: "megmegy",
+    t7_l3: "megnéz",
     t7_r3: "meg-",
     t7_l4: "kijön",
     t7_r4: "ki-",
@@ -1813,7 +1813,7 @@ export const MAGYAR_O2_I6_LABELS: Record<string, Record<string, string>> = {
     t10_c1: "játszik",
     t10_c2: "játszottam",
     t10_c3: "játszottunk",
-    t10_c4: "játszattak",
+    t10_c4: "játszottak",
   }
 };
 

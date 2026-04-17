@@ -173,7 +173,7 @@ export const MAGYAR_O4_I4_LABELS: Record<string, Record<string, string>> = {
     t3_inst: "Melyik a helyes írásmód?",
     t4_title: "Elválasztás",
     t4_text: "A szavakat szótagolva választjuk el a sor végén.",
-    t4_sent: "asz-___-tal", t4_c1: "tal", t4_c2: "al", t4_c3: "zt",
+    t4_sent: "asz-___", t4_c1: "tal", t4_c2: "al", t4_c3: "zt",
     t4_inst: "Pótold a hiányzó szótagot!",
     t5_title: "Magánhangzók hosszúsága",
     t5_text: "Az ékezet megváltoztatja a szó értelmét (pl. kor - kór).",
@@ -198,7 +198,7 @@ export const MAGYAR_O4_I4_LABELS: Record<string, Record<string, string>> = {
     t9_inst: "Párosítsd a tövet a raggal!",
     t10_title: "Helyesírás mestere",
     t10_q: "Hogy hívjuk a 'j' hang másik jelét?",
-    t10_t1: "pontos j", t10_t2: "elipszilonos ly", t10_t3: "dupla j",
+    t10_t1: "pontos j", t10_t2: "elipszilonos j", t10_t3: "dupla j",
     t10_inst: "Válaszd a jót!",
   }
 };
@@ -403,7 +403,7 @@ export const MAGYAR_O4_I9_LABELS: Record<string, Record<string, string>> = {
     t3_t1: "melléknév", t3_t2: "főnév", t3_t3: "számnév",
     t3_inst: "Válaszd a szófajt!",
     t4_title: "Minden a helyesírásról",
-    t4_tok1: "golyó", t4_tok2: "lyuk", t4_tok3: "játék", t4_tok4: "hajó", t4_tok5: "muszály",
+    t4_tok1: "golyó", t4_tok2: "lyuk", t4_tok3: "játék", t4_tok4: "hajó", t4_tok5: "muszáj",
     t4_inst: "Keresd a hibát!",
     t5_title: "Minden a szóalkotásról",
     t5_sent: "A 'hal' szóból '___' lesz a kis hal.", t5_c1: "halacska", t5_c2: "halak", t5_c3: "halban",

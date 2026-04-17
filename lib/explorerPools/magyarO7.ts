@@ -316,7 +316,7 @@ export const MAGYAR_O7_I7_LABELS: Record<string, Record<string, string>> = {
     t1_title: "Nyelvjárások",
     t1_text: "A magyar nyelv területi változatai (pl. alföldi, dunántúli, székely).",
     t1_b1: "Tájnyelv", t1_b2: "Köznyelv",
-    t1_i1: "hömös", t1_i2: "mancsi", t1_i3: "homokos", t1_i4: "macska", t1_i5: "krumpli",
+    t1_i1: "hömbölödik", t1_i2: "mácsik", t1_i3: "homokos", t1_i4: "macska", t1_i5: "krumpli",
     t1_inst: "Válogasd szét a szavakat!",
     t2_title: "Nyelvi regiszterek",
     t2_text: "A beszédstílus alkalmazkodása a helyzethez (pl. baráti, hivatalos).",
