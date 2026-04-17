@@ -173,8 +173,8 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       id: nextId.current++,
       h: time.h,
       m: time.m,
-      startY: Math.random() * 70 + 10, // 10% to 80% height
-      duration: Math.random() * 6 + 6, // 6 to 12 seconds crossing time
+      startY: Math.random() * 50 + 10, // 10% to 60% — stays within game area
+      duration: Math.random() * 8 + 12, // 12 to 20 seconds crossing time
     };
 
     setClocks(prev => [...prev, clock]);
@@ -296,12 +296,12 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
           {clocks.map(clock => (
             <motion.div
               key={clock.id}
-              initial={{ x: -150, y: `${clock.startY}vh` }}
+              initial={{ x: -150 }}
               animate={{ x: '120vw' }}
               exit={{ opacity: 0, scale: 0.5 }}
               transition={{ duration: clock.duration, ease: 'linear' }}
               onAnimationComplete={() => handleClockEscape(clock)}
-              className="absolute top-0 left-0"
+              className="absolute left-0"
               style={{ top: `${clock.startY}%` }}
             >
               <div className="transform hover:scale-110 active:scale-95 transition-transform duration-150">
