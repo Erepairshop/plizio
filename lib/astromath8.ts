@@ -3,18 +3,17 @@
 // Cosmara planet — pink/crystal theme (#E879F9)
 
 import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
-import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
+import type { GameType, SortRound, MatchPair } from "./astromath";
+import type { 
+  Lang, 
+  LocalizedString as L10n, 
+  MathMissionCategory as MissionCategory, 
+  MathMissionConfig as MissionDef, 
+  MathIslandConfig as IslandDef, 
+  MathProgress 
+} from "./astroMathConfigShared";
 
-export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair };
-
-// ─── Types ────────────────────────────────────────────────────────────────────
-
-export interface G8Progress {
-  completedMissions: string[];  // "i1_m1", "i1_m2", …
-  completedIslands: string[];   // "i1", "i2", …
-  completedTests: string[];     // "test1", "test2", "test3"
-  missionStars: Record<string, number>; // "i1_m1" → 1|2|3 (best result)
-}
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair, MathProgress as G8Progress };
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
@@ -43,8 +42,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_sqrt_basic", "g8_sqrt_expr", "g8_sqrt_estimate", "g8_sqrt_simplify"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sqrt-explorer",  icon: "🔍", label: { en: "Discover Roots",      hu: "Gyökök felfedezése",     de: "Wurzeln entdecken",       ro: "Descoperă rădăcinile"   } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",   icon: "🌪️", label: { en: "Sort Roots",           hu: "Gyökök rendezése",       de: "Wurzeln sortieren",       ro: "Sortează rădăcinile"    } },
-      { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { en: "Speed Round",          hu: "Gyors kör",              de: "Speedrunde",              ro: "Rundă rapidă"           } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",   icon: "🌪️", label: { en: "Sort Roots",           hu: "Gyökök rendezése",       de: "Wurzeln sortieren",       ro: "Sortează rădăcinile"    } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider",    icon: "⚡", label: { en: "Speed Round",          hu: "Gyors kör",              de: "Speedrunde",              ro: "Rundă rapidă"           } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -55,8 +54,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_quad_simple", "g8_quad_shifted", "g8_quad_eval", "g8_quad_diff"],
     missions: [
       { id: "m1", category: "explore",   gameType: "quadratic-explorer", icon: "🔍", label: { en: "Explore Quadratics",  hu: "Másodfokú egyenletek felfedezése", de: "Quadratische Gleichungen entdecken", ro: "Descoperă ecuațiile pătratice" } },
-      { id: "m2", category: "build",     gameType: "equation-drill",     icon: "🧮", label: { en: "Equation Drill",      hu: "Egyenlet drill",          de: "Gleichungs-Drill",        ro: "Ecuații"                } },
-      { id: "m3", category: "challenge", gameType: "star-match",         icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",            ro: "Perechi stele"          } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match",     icon: "🧮", label: { en: "Equation Drill",      hu: "Egyenlet drill",          de: "Gleichungs-Drill",        ro: "Ecuații"                } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank",         icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",            ro: "Perechi stele"          } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -67,8 +66,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_eq_twoside", "g8_eq_simple", "g8_eq_frac", "g8_ineq_basic"],
     missions: [
       { id: "m1", category: "explore",   gameType: "equation-explorer",  icon: "🔍", label: { en: "Discover Equations",  hu: "Egyenletek felfedezése",  de: "Gleichungen entdecken",   ro: "Descoperă ecuațiile"    } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",         icon: "🚀", label: { en: "Equation Quiz",       hu: "Egyenlet kvíz",           de: "Gleichungsquiz",          ro: "Quiz ecuații"           } },
-      { id: "m3", category: "challenge", gameType: "speed-round",        icon: "⚡", label: { en: "Speed Round",          hu: "Gyors kör",               de: "Speedrunde",              ro: "Rundă rapidă"           } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz",         icon: "🚀", label: { en: "Equation Quiz",       hu: "Egyenlet kvíz",           de: "Gleichungsquiz",          ro: "Quiz ecuații"           } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation",        icon: "⚡", label: { en: "Speed Round",          hu: "Gyors kör",               de: "Speedrunde",              ro: "Rundă rapidă"           } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -79,8 +78,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_sys_add", "g8_sys_coeffs", "g8_sys_word"],
     missions: [
       { id: "m1", category: "explore",   gameType: "system-explorer",   icon: "🔍", label: { en: "Discover Systems",    hu: "Rendszerek felfedezése",   de: "Systeme entdecken",       ro: "Descoperă sistemele"    } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",        icon: "🚀", label: { en: "System Quiz",          hu: "Rendszer kvíz",            de: "Systemquiz",              ro: "Quiz sisteme"           } },
-      { id: "m3", category: "challenge", gameType: "black-hole",        icon: "🕳️", label: { en: "Black Hole",           hu: "Fekete lyuk",              de: "Schwarzes Loch",          ro: "Gaura neagră"           } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain",        icon: "🚀", label: { en: "System Quiz",          hu: "Rendszer kvíz",            de: "Systemquiz",              ro: "Quiz sisteme"           } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle",        icon: "🕳️", label: { en: "Black Hole",           hu: "Fekete lyuk",              de: "Schwarzes Loch",          ro: "Gaura neagră"           } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -91,8 +90,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_func_value", "g8_func_neg", "g8_func_slope", "g8_func_intercept", "g8_func_eq"],
     missions: [
       { id: "m1", category: "explore",   gameType: "function-explorer", icon: "🔍", label: { en: "Discover Functions",  hu: "Függvények felfedezése",  de: "Funktionen entdecken",    ro: "Descoperă funcțiile"    } },
-      { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Function Drill",      hu: "Függvény drill",          de: "Funktions-Drill",         ro: "Exerciții cu funcții"    } },
-      { id: "m3", category: "challenge", gameType: "star-match",        icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",            ro: "Perechi stele"          } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",    icon: "🧮", label: { en: "Function Drill",      hu: "Függvény drill",          de: "Funktions-Drill",         ro: "Exerciții cu funcții"    } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "gap-fill-story",        icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",            ro: "Perechi stele"          } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -103,8 +102,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_prob_basic", "g8_prob_comp", "g8_prob_two", "g8_prob_freq"],
     missions: [
       { id: "m1", category: "explore",   gameType: "probability-explorer", icon: "🔍", label: { en: "Discover Probability", hu: "Valószínűség felfedezése", de: "Wahrscheinlichkeit entdecken", ro: "Descoperă probabilitatea" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",           icon: "🚀", label: { en: "Probability Quiz",     hu: "Valószínűség kvíz",        de: "Wahrscheinlichkeitsquiz",     ro: "Quiz probabilitate"       } },
-      { id: "m3", category: "challenge", gameType: "true-false-blitz",     icon: "🎯", label: { en: "True or False?",       hu: "Igaz vagy Hamis?",         de: "Wahr oder Falsch?",           ro: "Adevărat sau Fals?"       } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match",           icon: "🚀", label: { en: "Probability Quiz",     hu: "Valószínűség kvíz",        de: "Wahrscheinlichkeitsquiz",     ro: "Quiz probabilitate"       } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider",     icon: "🎯", label: { en: "True or False?",       hu: "Igaz vagy Hamis?",         de: "Wahr oder Falsch?",           ro: "Adevărat sau Fals?"       } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -115,8 +114,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_stat_mean", "g8_stat_median", "g8_stat_mode", "g8_stat_range"],
     missions: [
       { id: "m1", category: "explore",   gameType: "stat-explorer",         icon: "🔍", label: { en: "Discover Statistics",  hu: "Statisztika felfedezése", de: "Statistik entdecken",         ro: "Descoperă statistica"     } },
-      { id: "m2", category: "build",     gameType: "visual-challenge",    icon: "🥫", label: { en: "Cylinder Surface",     hu: "Henger felszín",          de: "Zylinderoberfläche",          ro: "Suprafața cilindrului"    }, visualType: "cylinder-surface" },
-      { id: "m3", category: "challenge", gameType: "speed-round",         icon: "⚡", label: { en: "Speed Round",           hu: "Gyors kör",               de: "Speedrunde",                  ro: "Rundă rapidă"             } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz",    icon: "🥫", label: { en: "Cylinder Surface",     hu: "Henger felszín",          de: "Zylinderoberfläche",          ro: "Suprafața cilindrului"    }, visualType: "cylinder-surface" },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank",         icon: "⚡", label: { en: "Speed Round",           hu: "Gyors kör",               de: "Speedrunde",                  ro: "Rundă rapidă"             } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -127,8 +126,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_trans_translate", "g8_trans_reflectX", "g8_trans_reflectY", "g8_trans_rotate"],
     missions: [
       { id: "m1", category: "explore",   gameType: "transform-explorer",  icon: "🔍", label: { en: "Discover Transformations",  hu: "Transzformációk felfedezése", de: "Transformationen entdecken", ro: "Descoperă transformările" } },
-      { id: "m2", category: "build",     gameType: "visual-challenge",   icon: "🔄", label: { en: "Transform Practice",   hu: "Transzformáció gyakorlás",    de: "Transformation üben",        ro: "Practică transformări"    }, visualType: "transformation" },
-      { id: "m3", category: "challenge", gameType: "black-hole",         icon: "🕳️", label: { en: "Black Hole",            hu: "Fekete lyuk",                 de: "Schwarzes Loch",             ro: "Gaura neagră"             } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain",   icon: "🔄", label: { en: "Transform Practice",   hu: "Transzformáció gyakorlás",    de: "Transformation üben",        ro: "Practică transformări"    }, visualType: "transformation" },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation",         icon: "🕳️", label: { en: "Black Hole",            hu: "Fekete lyuk",                 de: "Schwarzes Loch",             ro: "Gaura neagră"             } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -139,8 +138,8 @@ export const G8_ISLANDS: IslandDef[] = [
     topicKeys: ["g8_quad_simple", "g8_func_value", "g8_prob_basic", "g8_stat_mean"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Final Quiz",    hu: "Záró kvíz",        de: "Finalquiz",       ro: "Quiz final"     } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",   hu: "Gyors kör",        de: "Speedrunde",      ro: "Rundă rapidă"   } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",  icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle", icon: "⚡", label: { en: "Speed Round",   hu: "Gyors kör",        de: "Speedrunde",      ro: "Rundă rapidă"   } },
     ],
     svgX: 190, svgY: -90,
   },
@@ -148,50 +147,50 @@ export const G8_ISLANDS: IslandDef[] = [
 
 // ─── Progress helpers ──────────────────────────────────────────────────────────
 
-export function loadG8Progress(): G8Progress {
+export function loadG8Progress(): MathProgress {
   try {
     const raw = localStorage.getItem(G8_SAVE_KEY);
-    if (raw) return JSON.parse(raw) as G8Progress;
+    if (raw) return JSON.parse(raw) as MathProgress;
   } catch {}
   return { completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} };
 }
 
-export function saveG8Progress(p: G8Progress): void {
+export function saveG8Progress(p: MathProgress): void {
   localStorage.setItem(G8_SAVE_KEY, JSON.stringify(p));
 }
 
-export function isMissionDoneG8(progress: G8Progress, islandId: string, missionId: string): boolean {
+export function isMissionDoneG8(progress: MathProgress, islandId: string, missionId: string): boolean {
   return progress.completedMissions.includes(`${islandId}_${missionId}`);
 }
 
-export function isIslandDoneG8(progress: G8Progress, islandId: string): boolean {
+export function isIslandDoneG8(progress: MathProgress, islandId: string): boolean {
   return progress.completedIslands.includes(islandId);
 }
 
-export function isIslandUnlockedG8(progress: G8Progress, islandId: string): boolean {
+export function isIslandUnlockedG8(progress: MathProgress, islandId: string): boolean {
   const idx = G8_ISLANDS.findIndex((i) => i.id === islandId);
   if (idx === 0) return true;
   return progress.completedIslands.includes(G8_ISLANDS[idx - 1].id);
 }
 
-export function isCheckpointUnlockedG8(progress: G8Progress, testId: string): boolean {
+export function isCheckpointUnlockedG8(progress: MathProgress, testId: string): boolean {
   return G8_CHECKPOINT_MAP[testId].every((id) => progress.completedIslands.includes(id));
 }
 
-export function isCheckpointDoneG8(progress: G8Progress, testId: string): boolean {
+export function isCheckpointDoneG8(progress: MathProgress, testId: string): boolean {
   return progress.completedTests.includes(testId);
 }
 
 export function completeMissionG8(
-  progress: G8Progress,
+  progress: MathProgress,
   islandId: string,
   missionId: string,
   stars: number = 1,
-): G8Progress {
+): MathProgress {
   const key = `${islandId}_${missionId}`;
   const prev = progress.missionStars ?? {};
   const bestStars = Math.max(stars, prev[key] ?? 0);
-  const updated: G8Progress = {
+  const updated: MathProgress = {
     ...progress,
     completedMissions: progress.completedMissions.includes(key)
       ? progress.completedMissions
@@ -200,7 +199,7 @@ export function completeMissionG8(
   };
 
   const island = G8_ISLANDS.find((i) => i.id === islandId)!;
-  const allMissionsDone = island.missions.every((m) =>
+  const allMissionsDone = island.missions.every((m: MissionDef) =>
     updated.completedMissions.includes(`${islandId}_${m.id}`)
   );
   if (allMissionsDone && !updated.completedIslands.includes(islandId)) {
@@ -209,14 +208,14 @@ export function completeMissionG8(
   return updated;
 }
 
-export function islandTotalStarsG8(progress: G8Progress, islandId: string): number {
+export function islandTotalStarsG8(progress: MathProgress, islandId: string): number {
   const island = G8_ISLANDS.find((i) => i.id === islandId);
   if (!island) return 0;
   const stars = progress.missionStars ?? {};
-  return island.missions.reduce((sum, m) => sum + (stars[`${islandId}_${m.id}`] ?? 0), 0);
+  return island.missions.reduce((sum: number, m: MissionDef) => sum + (stars[`${islandId}_${m.id}`] ?? 0), 0);
 }
 
-export function completeTestG8(progress: G8Progress, testId: string): G8Progress {
+export function completeTestG8(progress: MathProgress, testId: string): MathProgress {
   if (progress.completedTests.includes(testId)) return progress;
   return { ...progress, completedTests: [...progress.completedTests, testId] };
 }
@@ -245,7 +244,7 @@ export function generateIslandQuestionsG8(island: IslandDef, lang: Lang, count =
   const cc = langToCC(lang);
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
-  const keys = shuffle([...island.topicKeys]);
+  const keys = shuffle([...(island.topicKeys ?? [])]);
 
   for (let attempt = 0; attempt < count * 10 && pool.length < count; attempt++) {
     const key = keys[attempt % keys.length];

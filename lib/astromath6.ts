@@ -1,19 +1,15 @@
-// lib/astromath6.ts
-// AstroMath — G6 island system definitions, progress management, question helpers
-
 import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
-import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
+import type { GameType, SortRound, MatchPair } from "./astromath";
+import type { 
+  Lang, 
+  LocalizedString as L10n, 
+  MathMissionCategory as MissionCategory, 
+  MathMissionConfig as MissionDef, 
+  MathIslandConfig as IslandDef, 
+  MathProgress 
+} from "./astroMathConfigShared";
 
-export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair };
-
-// ─── Types ────────────────────────────────────────────────────────────────────
-
-export interface G6Progress {
-  completedMissions: string[];  // "i1_m1", "i1_m2", …
-  completedIslands: string[];   // "i1", "i2", …
-  completedTests: string[];     // "test1", "test2", "test3"
-  missionStars: Record<string, number>; // "i1_m1" → 1|2|3 (best result)
-}
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair, MathProgress as G6Progress };
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
@@ -43,8 +39,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_neg_addsub", "g6_neg_compare", "g6_neg_abs", "g6_neg_word"],
     missions: [
       { id: "m1", category: "explore",   gameType: "negative-number-line", icon: "🔍", label: { en: "Explore Number Line",  hu: "Számegyenes felfedezése",  de: "Zahlenstrahl entdecken",    ro: "Descoperă axa numerelor" } },
-      { id: "m2", category: "build",     gameType: "gravity-sort",         icon: "🌪️", label: { en: "Sort Numbers",          hu: "Számrendezés",              de: "Zahlen sortieren",           ro: "Sortează numerele"        } },
-      { id: "m3", category: "challenge", gameType: "speed-round",          icon: "⚡", label: { en: "Speed Round",            hu: "Gyors kör",                de: "Speedrunde",                 ro: "Rundă rapidă"             } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush", icon: "🌪️", label: { en: "Sort Numbers",          hu: "Számrendezés",              de: "Zahlen sortieren",           ro: "Sortează numerele"        } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "⚡", label: { en: "Speed Round",            hu: "Gyors kör",                de: "Speedrunde",                 ro: "Rundă rapidă"             } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -55,8 +51,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_frac_mul", "g6_frac_div", "g6_frac_diff", "g6_frac_pct"],
     missions: [
       { id: "m1", category: "explore",   gameType: "fraction-pro-explorer",  icon: "🔍", label: { en: "Fraction Pro",    hu: "Törtek Profi",          de: "Bruchrechnung Profi",         ro: "Fracții Pro"    } },
-      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",      de: "Gleichungs-Drill",   ro: "Ecuații"          } },
-      { id: "m3", category: "challenge", gameType: "star-match",       icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",    de: "Sternenpaare",       ro: "Perechi stele"    } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match", icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",      de: "Gleichungs-Drill",   ro: "Ecuații"          } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",    de: "Sternenpaare",       ro: "Perechi stele"    } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -67,8 +63,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_ratio_concept", "g6_ratio_missing", "g6_ratio_split", "g6_ratio_3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "ratio-explorer", icon: "🔍", label: { en: "Discover Ratios",    hu: "Arányok felfedezése",   de: "Verhältnisse entdecken",  ro: "Descoperă proporțiile" } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",       icon: "🚀", label: { en: "Ratio Quiz",         hu: "Arány kvíz",            de: "Verhältnisquiz",          ro: "Quiz proporții"        } },
-      { id: "m3", category: "challenge", gameType: "speed-round",      icon: "⚡", label: { en: "Speed Round",        hu: "Gyors kör",             de: "Speedrunde",              ro: "Rundă rapidă"          } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz", icon: "🚀", label: { en: "Ratio Quiz",         hu: "Arány kvíz",            de: "Verhältnisquiz",          ro: "Quiz proporții"        } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation", icon: "⚡", label: { en: "Speed Round",        hu: "Gyors kör",             de: "Speedrunde",              ro: "Rundă rapidă"          } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -79,8 +75,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_pct_of", "g6_pct_base", "g6_pct_word", "g6_pct_change"],
     missions: [
       { id: "m1", category: "explore",   gameType: "percent-bar",      icon: "🔍", label: { en: "Percent Explorer",   hu: "Százalék felfedezés",    de: "Prozent entdecken",       ro: "Explorare procente"    } },
-      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",         de: "Gleichungs-Drill",        ro: "Ecuații"               } },
-      { id: "m3", category: "challenge", gameType: "star-match",       icon: "⭐", label: { en: "Star Match",        hu: "Csillagpárosítás",       de: "Sternenpaare",            ro: "Perechi stele"         } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain", icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",         de: "Gleichungs-Drill",        ro: "Ecuații"               } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle", icon: "⭐", label: { en: "Star Match",        hu: "Csillagpárosítás",       de: "Sternenpaare",            ro: "Perechi stele"         } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -91,8 +87,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_speed", "g6_ratio_inv", "g6_ratio_3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "word-problem-explorer", icon: "🔍", label: { en: "Speed Problems",     hu: "Sebesség feladatok",     de: "Geschwindigkeitsaufgaben", ro: "Probleme viteză"       } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",            icon: "🚀", label: { en: "Motion Quiz",        hu: "Mozgás kvíz",            de: "Bewegungsquiz",            ro: "Quiz mișcare"          } },
-      { id: "m3", category: "challenge", gameType: "speed-round",           icon: "⚡", label: { en: "Speed Round",        hu: "Gyors kör",              de: "Speedrunde",               ro: "Rundă rapidă"          } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush", icon: "🚀", label: { en: "Motion Quiz",        hu: "Mozgás kvíz",            de: "Bewegungsquiz",            ro: "Quiz mișcare"          } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "gap-fill-story", icon: "⚡", label: { en: "Speed Round",        hu: "Gyors kör",              de: "Speedrunde",               ro: "Rundă rapidă"          } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -103,8 +99,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_alg_eval", "g6_alg_eq1", "g6_alg_eq2"],
     missions: [
       { id: "m1", category: "explore",   gameType: "algebra-explorer", icon: "🔍", label: { en: "Discover Algebra",   hu: "Algebra felfedezése",    de: "Algebra entdecken",       ro: "Descoperă algebra"     } },
-      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",         de: "Gleichungs-Drill",        ro: "Ecuații"               } },
-      { id: "m3", category: "challenge", gameType: "black-hole",       icon: "🕳️", label: { en: "Black Hole",        hu: "Fekete lyuk",            de: "Schwarzes Loch",          ro: "Gaura neagră"          } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match", icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",         de: "Gleichungs-Drill",        ro: "Ecuații"               } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "🕳️", label: { en: "Black Hole",        hu: "Fekete lyuk",            de: "Schwarzes Loch",          ro: "Gaura neagră"          } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -115,8 +111,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_area_tri", "g6_area_para", "g6_area_trap", "g6_volume"],
     missions: [
       { id: "m1", category: "explore",   gameType: "area-explorer",      icon: "🔍", label: { en: "Discover Areas",     hu: "Területek felfedezése", de: "Flächen entdecken",       ro: "Descoperă ariile"      } },
-      { id: "m2", category: "build",     gameType: "visual-challenge",   icon: "📐", label: { en: "Trapezoid Area",     hu: "Trapéz terület",        de: "Trapezfläche",            ro: "Aria trapezului"       }, visualType: "trapezoid-area" },
-      { id: "m3", category: "challenge", gameType: "star-match",         icon: "⭐", label: { en: "Star Match",         hu: "Csillagpárosítás",      de: "Sternenpaare",            ro: "Perechi stele"         } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz",   icon: "📐", label: { en: "Trapezoid Area",     hu: "Trapéz terület",        de: "Trapezfläche",            ro: "Aria trapezului"       }, visualType: "trapezoid-area" },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "⭐", label: { en: "Star Match",         hu: "Csillagpárosítás",      de: "Sternenpaare",            ro: "Perechi stele"         } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -127,8 +123,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_stat_mean", "g6_stat_median", "g6_stat_mode", "g6_stat_range"],
     missions: [
       { id: "m1", category: "explore",   gameType: "stat-explorer",     icon: "🔍", label: { en: "Discover Statistics", hu: "Statisztika felfedezése", de: "Statistik entdecken",     ro: "Descoperă statistica"  } },
-      { id: "m2", category: "build",     gameType: "visual-challenge",  icon: "🥧", label: { en: "Pie Charts",          hu: "Kördiagramok",            de: "Kreisdiagramme",          ro: "Diagrame circulare"    }, visualType: "pie-chart" },
-      { id: "m3", category: "challenge", gameType: "true-false-blitz",  icon: "🎯", label: { en: "True or False?",      hu: "Igaz vagy Hamis?",        de: "Wahr oder Falsch?",       ro: "Adevărat sau Fals?"    } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain",  icon: "🥧", label: { en: "Pie Charts",          hu: "Kördiagramok",            de: "Kreisdiagramme",          ro: "Diagrame circulare"    }, visualType: "pie-chart" },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation",  icon: "🎯", label: { en: "True or False?",      hu: "Igaz vagy Hamis?",        de: "Wahr oder Falsch?",       ro: "Adevărat sau Fals?"    } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -139,8 +135,8 @@ export const G6_ISLANDS: IslandDef[] = [
     topicKeys: ["g6_pct_of", "g6_frac_mul", "g6_alg_eq1", "g6_area_tri"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Final Quiz",    hu: "Záró kvíz",        de: "Finalquiz",       ro: "Quiz final"     } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",   hu: "Gyors kör",        de: "Speedrunde",      ro: "Rundă rapidă"   } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",  icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle", icon: "⚡", label: { en: "Speed Round",   hu: "Gyors kör",        de: "Speedrunde",      ro: "Rundă rapidă"   } },
     ],
     svgX: 190, svgY: -90,
   },
@@ -148,50 +144,50 @@ export const G6_ISLANDS: IslandDef[] = [
 
 // ─── Progress helpers ──────────────────────────────────────────────────────────
 
-export function loadG6Progress(): G6Progress {
+export function loadG6Progress(): MathProgress {
   try {
     const raw = localStorage.getItem(G6_SAVE_KEY);
-    if (raw) return JSON.parse(raw) as G6Progress;
+    if (raw) return JSON.parse(raw) as MathProgress;
   } catch {}
   return { completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} };
 }
 
-export function saveG6Progress(p: G6Progress): void {
+export function saveG6Progress(p: MathProgress): void {
   localStorage.setItem(G6_SAVE_KEY, JSON.stringify(p));
 }
 
-export function isMissionDoneG6(progress: G6Progress, islandId: string, missionId: string): boolean {
+export function isMissionDoneG6(progress: MathProgress, islandId: string, missionId: string): boolean {
   return progress.completedMissions.includes(`${islandId}_${missionId}`);
 }
 
-export function isIslandDoneG6(progress: G6Progress, islandId: string): boolean {
+export function isIslandDoneG6(progress: MathProgress, islandId: string): boolean {
   return progress.completedIslands.includes(islandId);
 }
 
-export function isIslandUnlockedG6(progress: G6Progress, islandId: string): boolean {
+export function isIslandUnlockedG6(progress: MathProgress, islandId: string): boolean {
   const idx = G6_ISLANDS.findIndex((i) => i.id === islandId);
   if (idx === 0) return true;
   return progress.completedIslands.includes(G6_ISLANDS[idx - 1].id);
 }
 
-export function isCheckpointUnlockedG6(progress: G6Progress, testId: string): boolean {
+export function isCheckpointUnlockedG6(progress: MathProgress, testId: string): boolean {
   return G6_CHECKPOINT_MAP[testId].every((id) => progress.completedIslands.includes(id));
 }
 
-export function isCheckpointDoneG6(progress: G6Progress, testId: string): boolean {
+export function isCheckpointDoneG6(progress: MathProgress, testId: string): boolean {
   return progress.completedTests.includes(testId);
 }
 
 export function completeMissionG6(
-  progress: G6Progress,
+  progress: MathProgress,
   islandId: string,
   missionId: string,
   stars: number = 1,
-): G6Progress {
+): MathProgress {
   const key = `${islandId}_${missionId}`;
   const prev = progress.missionStars ?? {};
   const bestStars = Math.max(stars, prev[key] ?? 0);
-  const updated: G6Progress = {
+  const updated: MathProgress = {
     ...progress,
     completedMissions: progress.completedMissions.includes(key)
       ? progress.completedMissions
@@ -200,7 +196,7 @@ export function completeMissionG6(
   };
 
   const island = G6_ISLANDS.find((i) => i.id === islandId)!;
-  const allMissionsDone = island.missions.every((m) =>
+  const allMissionsDone = island.missions.every((m: MissionDef) =>
     updated.completedMissions.includes(`${islandId}_${m.id}`)
   );
   if (allMissionsDone && !updated.completedIslands.includes(islandId)) {
@@ -209,14 +205,14 @@ export function completeMissionG6(
   return updated;
 }
 
-export function islandTotalStarsG6(progress: G6Progress, islandId: string): number {
+export function islandTotalStarsG6(progress: MathProgress, islandId: string): number {
   const island = G6_ISLANDS.find((i) => i.id === islandId);
   if (!island) return 0;
   const stars = progress.missionStars ?? {};
-  return island.missions.reduce((sum, m) => sum + (stars[`${islandId}_${m.id}`] ?? 0), 0);
+  return island.missions.reduce((sum: number, m: MissionDef) => sum + (stars[`${islandId}_${m.id}`] ?? 0), 0);
 }
 
-export function completeTestG6(progress: G6Progress, testId: string): G6Progress {
+export function completeTestG6(progress: MathProgress, testId: string): MathProgress {
   if (progress.completedTests.includes(testId)) return progress;
   return { ...progress, completedTests: [...progress.completedTests, testId] };
 }
@@ -245,7 +241,7 @@ export function generateIslandQuestionsG6(island: IslandDef, lang: Lang, count =
   const cc = langToCC(lang);
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
-  const keys = shuffle([...island.topicKeys]);
+  const keys = shuffle([...(island.topicKeys ?? [])]);
 
   for (let attempt = 0; attempt < count * 10 && pool.length < count; attempt++) {
     const key = keys[attempt % keys.length];
