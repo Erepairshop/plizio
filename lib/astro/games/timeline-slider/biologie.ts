@@ -1,6 +1,6 @@
 import { TimelineSliderRound } from "../../../../components/astro-games/views/m3/TimelineSliderView";
 
-export const getTimelineSliderBiologiePool = (): TimelineSliderRound[] => [
+export const rounds: TimelineSliderRound[] = [
   {
     id: "bio-ts-1",
     axes: {

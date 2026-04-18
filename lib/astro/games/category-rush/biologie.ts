@@ -1,6 +1,6 @@
 import { CategoryRushRound } from "../../../../components/astro-games/views/m2/CategoryRushView";
 
-export const getCategoryRushBiologiePool = (): CategoryRushRound[] => [
+export const rounds: CategoryRushRound[] = [
   {
     id: "bio-cr-1",
     durationMs: 30000,

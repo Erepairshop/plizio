@@ -27,6 +27,9 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { BIOLOGIE_M2_POOLS, BIOLOGIE_M3_POOLS } from "@/lib/astro/biologieGameRegistry";
 import BioK6Explorer from "@/app/astro-biologie/games/k6/BioK6Explorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
@@ -101,6 +104,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "m2"
+  | "m3"
   | "bio-explore"
   | "island-transition"
   | "island-complete-anim"
@@ -494,15 +499,25 @@ export default function AstroBiologieK6Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K6_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
 
-    const isExplorer = mission.gameType === "bio-explore";
+    const isNoQuestion = mission.gameType === "bio-explore" || mission.gameType === "m2" || mission.gameType === "m3";
 
-    if (isExplorer) {
+    if (isNoQuestion) {
       setQuestions([]);
     } else {
       const qCount = mission.gameType === "star-match" ? 20 : 10;
@@ -830,6 +845,12 @@ export default function AstroBiologieK6Page() {
         {screen === "bio-explore" && activeIsland && (
           <BioK6Explorer islandId={activeIsland.id} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "m2" && activeMission?.gameKey && BIOLOGIE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={BIOLOGIE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && BIOLOGIE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={BIOLOGIE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
       </div>
     </div>
   );
@@ -837,7 +858,7 @@ export default function AstroBiologieK6Page() {
   const explorerScreens = [
     "bio-explore",
   ];
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "m2", "m3", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

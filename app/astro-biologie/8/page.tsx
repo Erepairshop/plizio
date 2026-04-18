@@ -25,6 +25,9 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { BIOLOGIE_M2_POOLS, BIOLOGIE_M3_POOLS } from "@/lib/astro/biologieGameRegistry";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import BioK8Explorer from "@/app/astro-biologie/games/k8/BioK8Explorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
@@ -101,6 +104,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "m2"
+  | "m3"
   | "bio-explore"
   | "island-transition"
   | "island-complete-anim"
@@ -494,15 +499,25 @@ export default function AstroBiologieK8Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K8_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const isExplorer = mission.gameType === "bio-explore";
-    if (isExplorer) {
+    const isNoQuestion = mission.gameType === "bio-explore" || mission.gameType === "m2" || mission.gameType === "m3";
+    if (isNoQuestion) {
       setQuestions([]);
-      setScreen("bio-explore");
+      setScreen(mission.gameType as Screen);
       return;
     }
     const qCount = mission.gameType === "star-match" ? 15 : 10;
@@ -827,6 +842,12 @@ export default function AstroBiologieK8Page() {
         )}
         {screen === "bio-explore" && activeIsland && (
           <BioK8Explorer islandId={activeIsland.id} color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "m2" && activeMission?.gameKey && BIOLOGIE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={BIOLOGIE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && BIOLOGIE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={BIOLOGIE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
         )}
 
       </div>

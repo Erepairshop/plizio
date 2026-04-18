@@ -29,8 +29,7 @@ import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
-import { getCategoryRushBiologiePool } from "@/lib/astro/games/category-rush/biologie";
-import { getTimelineSliderBiologiePool } from "@/lib/astro/games/timeline-slider/biologie";
+import { BIOLOGIE_M2_POOLS, BIOLOGIE_M3_POOLS } from "@/lib/astro/biologieGameRegistry";
 import BioK5Explorer from "@/app/astro-biologie/games/k5/BioK5Explorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
@@ -499,13 +498,23 @@ export default function AstroBiologieK5Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K5_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
 
-    if (mission.gameType === "m2" || mission.gameType === "m3") {
+    if (mission.gameType === "bio-explore" || mission.gameType === "m2" || mission.gameType === "m3") {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -834,12 +843,13 @@ export default function AstroBiologieK5Page() {
         {screen === "bio-explore" && activeIsland && (
           <BioK5Explorer islandId={activeIsland.id} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
-        {screen === "m2" && activeMission?.gameKey === "category-rush" && (
-          <M2Engine gameKey="category-rush" rounds={getCategoryRushBiologiePool()} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        {screen === "m2" && activeMission?.gameKey && BIOLOGIE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={BIOLOGIE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "m3" && activeMission?.gameKey === "timeline-slider" && (
-          <M3Engine gameKey="timeline-slider" rounds={getTimelineSliderBiologiePool()} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        {screen === "m3" && activeMission?.gameKey && BIOLOGIE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={BIOLOGIE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
         )}
+
         </div>
 
     </div>
