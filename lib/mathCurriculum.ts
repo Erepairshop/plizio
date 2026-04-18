@@ -2214,7 +2214,7 @@ const G5: Record<string, Generator> = {
     const n = randInt(1000, 9999);
     const rounded = Math.round(n / 100) * 100;
     const roundedTo1000 = Math.round(n / 1000) * 1000;
-    return qd(qMissingInEquation(`${n} ≈ ?`, cc).replace("?", "? (nearest 100)"), rounded, t("rounding", cc), [rounded + 100, rounded - 100, roundedTo1000]);
+    return qd(qRoundTo100(n, cc), rounded, t("rounding", cc), [rounded + 100, rounded - 100, roundedTo1000]);
   },
   orderOfOps: (cc) => { const a = randInt(2, 8), b = randInt(2, 5), c = randInt(1, 10); return q(`${a} × ${b} + ${c} = ?`, a * b + c, t("orderOfOps", cc)); },
   orderOfOpsB: (cc) => { const a = randInt(10, 30), b = randInt(2, 5), c = randInt(1, 5); return q(`${a} - ${b} × ${c} = ?`, a - b * c, t("orderOfOps", cc), -50); },
