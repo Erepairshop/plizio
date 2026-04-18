@@ -26,6 +26,9 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { SACHKUNDE_M2_POOLS, SACHKUNDE_M3_POOLS } from "@/lib/astro/sachkundeGameRegistry";
 import HumanBodyExplorer from "@/app/astro-sachkunde/games/k4/HumanBodyExplorer";
 import MammalsBirdsExplorer from "@/app/astro-sachkunde/games/k4/MammalsBirdsExplorer";
 import ReptilesInsectsExplorer from "@/app/astro-sachkunde/games/k4/ReptilesInsectsExplorer";
@@ -129,6 +132,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
+  | "m2"
+  | "m3"
   | "k4-human-body-explorer"
   | "k4-mammals-birds-explorer"
   | "k4-reptiles-insects-explorer"
@@ -523,7 +528,7 @@ export default function AstroSachkundeG4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "m2", "m3"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -842,6 +847,12 @@ export default function AstroSachkundeG4Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
+        {screen === "m2" && activeMission?.gameKey && SACHKUNDE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && SACHKUNDE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "k4-human-body-explorer" && (
           <HumanBodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -876,7 +887,7 @@ export default function AstroSachkundeG4Page() {
   const explorerScreens = ["k4-human-body-explorer", "k4-mammals-birds-explorer", "k4-reptiles-insects-explorer",
     "k4-ecosystem-explorer", "k4-weather-climate-explorer", "k4-earth-water-explorer", "k4-energy-explorer",
     "k4-maps-explorer", "k4-grand-finale-explorer"];
-  if ([...explorerScreens, "orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz"].includes(screen)) return (
+  if ([...explorerScreens, "orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", "m2", "m3"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

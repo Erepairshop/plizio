@@ -26,6 +26,9 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { SACHKUNDE_M2_POOLS, SACHKUNDE_M3_POOLS } from "@/lib/astro/sachkundeGameRegistry";
 import BodySystemsExplorer from "@/app/astro-sachkunde/games/k3/BodySystemsExplorer";
 import AnimalKingdomExplorer from "@/app/astro-sachkunde/games/k3/AnimalKingdomExplorer";
 import ForestLifeExplorer from "@/app/astro-sachkunde/games/k3/ForestLifeExplorer";
@@ -129,6 +132,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
+  | "m2"
+  | "m3"
   | "k3-body-systems-explorer"
   | "k3-animal-kingdom-explorer"
   | "k3-forest-life-explorer"
@@ -523,7 +528,7 @@ export default function AstroSachkundeG3Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "m2", "m3"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -842,6 +847,12 @@ export default function AstroSachkundeG3Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
+        {screen === "m2" && activeMission?.gameKey && SACHKUNDE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && SACHKUNDE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "k3-body-systems-explorer" && (
           <BodySystemsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -885,7 +896,7 @@ export default function AstroSachkundeG3Page() {
     "k3-environment-explorer",
   ];
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", "m2", "m3", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

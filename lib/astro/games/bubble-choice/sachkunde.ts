@@ -1,6 +1,6 @@
 import { BubbleChoiceRound } from "../../../../components/astro-games/views/m2/BubbleChoiceView";
 
-export const getBubbleChoiceSachkundePool = (): BubbleChoiceRound[] => [
+export const rounds: BubbleChoiceRound[] = [
   {
     id: "sk-bc-1",
     taskDescription: {

@@ -26,6 +26,9 @@ import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { SACHKUNDE_M2_POOLS, SACHKUNDE_M3_POOLS } from "@/lib/astro/sachkundeGameRegistry";
 import HealthyBodyExplorer from "@/app/astro-sachkunde/games/k2/HealthyBodyExplorer";
 import HabitatExplorer from "@/app/astro-sachkunde/games/k2/HabitatsExplorer";
 import WildAnimalExplorer from "@/app/astro-sachkunde/games/k2/WildAnimalsExplorer";
@@ -129,6 +132,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "true-false-blitz"
+  | "m2"
+  | "m3"
   | "k2-healthy-body-explorer"
   | "k2-habitat-explorer"
   | "k2-wild-animal-explorer"
@@ -523,7 +528,7 @@ export default function AstroSachkundeG2Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "k2-healthy-body-explorer", "k2-habitat-explorer", "k2-wild-animal-explorer", "k2-plant-explorer", "k2-water-explorer", "k2-jobs-explorer", "k2-safety-explorer", "k2-science-explorer", "k2-grand-review-explorer"];
+    const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "m2", "m3", "k2-healthy-body-explorer", "k2-habitat-explorer", "k2-wild-animal-explorer", "k2-plant-explorer", "k2-water-explorer", "k2-jobs-explorer", "k2-safety-explorer", "k2-science-explorer", "k2-grand-review-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -842,6 +847,12 @@ export default function AstroSachkundeG2Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
+        {screen === "m2" && activeMission?.gameKey && SACHKUNDE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && SACHKUNDE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "k2-healthy-body-explorer" && (
           <HealthyBodyExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -874,7 +885,7 @@ export default function AstroSachkundeG2Page() {
   );
 
   const explorerScreens = ["k2-healthy-body-explorer", "k2-habitat-explorer", "k2-wild-animal-explorer", "k2-plant-explorer", "k2-water-explorer", "k2-jobs-explorer", "k2-safety-explorer", "k2-science-explorer", "k2-grand-review-explorer"];
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", "m2", "m3", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

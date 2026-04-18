@@ -1,6 +1,6 @@
 import { DragSortRound } from "../../../../components/astro-games/views/m3/DragSortView";
 
-export const getDragSortSachkundePool = (): DragSortRound[] => [
+export const rounds: DragSortRound[] = [
   {
     id: "sk-ds-1",
     requireFullCorrect: true,

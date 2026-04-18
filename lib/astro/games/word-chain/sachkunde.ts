@@ -1,6 +1,6 @@
 import { WordChainRound } from "../../../../components/astro-games/views/m2/WordChainView";
 
-export const wordChainSachkunde: WordChainRound[] = [
+export const rounds: WordChainRound[] = [
   {
     id: "wc-sachkunde-1",
     taskDescription: {

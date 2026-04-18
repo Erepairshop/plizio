@@ -28,8 +28,7 @@ import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
-import { getTapMatchSachkundePool } from "@/lib/astro/games/tap-match/sachkunde";
-import { getDragSortSachkundePool } from "@/lib/astro/games/drag-sort/sachkunde";
+import { SACHKUNDE_M2_POOLS, SACHKUNDE_M3_POOLS } from "@/lib/astro/sachkundeGameRegistry";
 import BodyExplorer from "@/app/astro-sachkunde/games/BodyExplorer";
 import AnimalExplorer from "@/app/astro-sachkunde/games/AnimalExplorer";
 import NatureExplorer from "@/app/astro-sachkunde/games/NatureExplorer";
@@ -848,11 +847,11 @@ export default function AstroSachkundeG1Page() {
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} timerSeconds={0} lang={lang} />
         )}
-        {screen === "m2" && activeMission?.gameKey === "tap-match" && (
-          <M2Engine gameKey="tap-match" rounds={getTapMatchSachkundePool()} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        {screen === "m2" && activeMission?.gameKey && SACHKUNDE_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "m3" && activeMission?.gameKey === "drag-sort" && (
-          <M3Engine gameKey="drag-sort" rounds={getDragSortSachkundePool()} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        {screen === "m3" && activeMission?.gameKey && SACHKUNDE_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={SACHKUNDE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
         )}
       </div>
     </div>

@@ -1,6 +1,6 @@
 import { MemoryPairsRound } from "../../../../components/astro-games/views/m2/MemoryPairsView";
 
-export const getMemoryPairsSachkundePool = (): MemoryPairsRound[] => [
+export const rounds: MemoryPairsRound[] = [
   {
     id: "sk-mp-1",
     taskDescription: {

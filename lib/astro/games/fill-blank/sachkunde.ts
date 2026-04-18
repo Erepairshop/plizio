@@ -1,6 +1,6 @@
 import { FillBlankRound } from "../../../../components/astro-games/views/m3/FillBlankView";
 
-export const fillBlankSachkunde: FillBlankRound[] = [
+export const rounds: FillBlankRound[] = [
   {
     id: "fb-env-1",
     taskDescription: {

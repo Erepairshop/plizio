@@ -227,7 +227,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "black-hole",
+        gameType: "m2",
+        gameKey: "tap-match",
         icon: "🕳️",
         category: "build",
         label: {
@@ -239,7 +240,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "black-hole",
+        gameType: "m3",
+        gameKey: "drag-sort",
         icon: "⚡",
         category: "challenge",
         label: {
@@ -280,7 +282,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "orbit-quiz",
+        gameType: "m2",
+        gameKey: "memory-pairs",
         icon: "🔭",
         category: "build",
         label: {
@@ -292,7 +295,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "black-hole",
+        gameType: "m3",
+        gameKey: "pattern-finish",
         icon: "⚡",
         category: "challenge",
         label: {
@@ -333,7 +337,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "star-match",
+        gameType: "m2",
+        gameKey: "shape-spotter",
         icon: "⭐",
         category: "build",
         label: {
@@ -345,7 +350,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "orbit-quiz",
+        gameType: "m3",
+        gameKey: "count-catch",
         icon: "🔭",
         category: "challenge",
         label: {
@@ -386,7 +392,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "black-hole",
+        gameType: "m2",
+        gameKey: "quick-tap",
         icon: "⚡",
         category: "build",
         label: {
@@ -398,7 +405,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "star-match",
+        gameType: "m3",
+        gameKey: "sound-match",
         icon: "⭐",
         category: "challenge",
         label: {
@@ -439,7 +447,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "orbit-quiz",
+        gameType: "m2",
+        gameKey: "bubble-choice",
         icon: "🔭",
         category: "build",
         label: {
@@ -451,7 +460,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "star-match",
+        gameType: "m3",
+        gameKey: "drag-sort",
         icon: "⭐",
         category: "challenge",
         label: {
@@ -492,7 +502,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "black-hole",
+        gameType: "m2",
+        gameKey: "tap-match",
         icon: "⚡",
         category: "build",
         label: {
@@ -504,7 +515,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "orbit-quiz",
+        gameType: "m3",
+        gameKey: "pattern-finish",
         icon: "🔭",
         category: "challenge",
         label: {
@@ -545,7 +557,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "black-hole",
+        gameType: "m2",
+        gameKey: "memory-pairs",
         icon: "⚡",
         category: "build",
         label: {
@@ -557,7 +570,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "star-match",
+        gameType: "m3",
+        gameKey: "count-catch",
         icon: "⭐",
         category: "challenge",
         label: {
@@ -598,7 +612,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "orbit-quiz",
+        gameType: "m2",
+        gameKey: "shape-spotter",
         icon: "🔭",
         category: "build",
         label: {
@@ -610,7 +625,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "star-match",
+        gameType: "m3",
+        gameKey: "sound-match",
         icon: "⭐",
         category: "challenge",
         label: {
@@ -651,7 +667,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "black-hole",
+        gameType: "m2",
+        gameKey: "quick-tap",
         icon: "⚡",
         category: "build",
         label: {
@@ -663,7 +680,8 @@ export const SK_G4_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "black-hole",
+        gameType: "m3",
+        gameKey: "drag-sort",
         icon: "🕳️",
         category: "challenge",
         label: {

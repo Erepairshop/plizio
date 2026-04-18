@@ -1,6 +1,6 @@
 import { PatternFinishRound } from "../../../../components/astro-games/views/m3/PatternFinishView";
 
-export const patternFinishSachkunde: PatternFinishRound[] = [
+export const rounds: PatternFinishRound[] = [
   {
     id: "sk-pf-1",
     taskDescription: {

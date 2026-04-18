@@ -1,6 +1,6 @@
 import { ShapeSpotterRound, ShapeItem } from "../../../../components/astro-games/views/m2/ShapeSpotterView";
 
-export const getShapeSpotterSachkundePool = (): ShapeSpotterRound[] => [
+export const rounds: ShapeSpotterRound[] = [
   {
     id: "sk-ss-1",
     taskDescription: {

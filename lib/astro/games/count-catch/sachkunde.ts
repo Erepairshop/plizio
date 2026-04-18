@@ -1,6 +1,6 @@
 import { CountCatchRound } from "../../../../components/astro-games/views/m3/CountCatchView";
 
-export const countCatchSachkunde: CountCatchRound[] = [
+export const rounds: CountCatchRound[] = [
   {
     id: "sk-cc-1",
     taskDescription: {

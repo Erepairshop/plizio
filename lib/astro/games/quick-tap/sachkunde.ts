@@ -1,6 +1,6 @@
 import { QuickTapRound } from "../../../../components/astro-games/views/m2/QuickTapView";
 
-export const getQuickTapSachkundePool = (): QuickTapRound[] => [
+export const rounds: QuickTapRound[] = [
   {
     id: "sk-qt-1",
     taskDescription: {

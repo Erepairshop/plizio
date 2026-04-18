@@ -1,6 +1,6 @@
 import { TapMatchRound } from "../../../../components/astro-games/views/m2/TapMatchView";
 
-export const getTapMatchSachkundePool = (): TapMatchRound[] => [
+export const rounds: TapMatchRound[] = [
   {
     id: "sk-tm-1",
     timeLimitMs: 60000,
