@@ -1,3 +1,5 @@
+"use client";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { ArrowLeft, Calculator } from "lucide-react";
@@ -12,7 +14,12 @@ interface CountrySelectProps {
 }
 
 export function CountrySelect({ onSelect, avatarProps }: CountrySelectProps) {
-  const l = getLanguage();
+  const [mounted, setMounted] = useState(false);
+  const [l, setL] = useState<string>("de");
+  useEffect(() => {
+    setL(getLanguage());
+    setMounted(true);
+  }, []);
   const href = l === "hu" ? "/blog/matek-teszt-online/" : l === "ro" ? "/blog/test-matematica-online/" : l === "de" ? "/blog/mathe-test-vorbereitung/" : "/blog/free-math-games-kids/";
   const label = l === "hu" ? "📖 Hogyan segít a matek teszt?" : l === "ro" ? "📖 Cum te ajută testul?" : l === "de" ? "📖 Tipps zur Vorbereitung" : "📖 How to use Math Test";
 
@@ -93,8 +100,10 @@ export function CountrySelect({ onSelect, avatarProps }: CountrySelectProps) {
             ))}
           </motion.div>
 
-          {/* Blog link */}
-          <a href={href} className="text-white/30 text-xs font-medium hover:text-white/60 transition-colors mt-2">{label}</a>
+          {/* Blog link — only render after mount to avoid hydration mismatch */}
+          {mounted && (
+            <a href={href} className="text-white/30 text-xs font-medium hover:text-white/60 transition-colors mt-2">{label}</a>
+          )}
         </div>
       </main>
       <AvatarCompanion {...avatarProps} />
