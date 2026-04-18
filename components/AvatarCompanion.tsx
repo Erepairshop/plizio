@@ -675,9 +675,12 @@ export default function AvatarCompanion({
   const glowCol = (activeSkin && activeSkin.id !== 'default') ? activeSkin.emissive : '#88aaff';
   const glowFilter = `drop-shadow(0 0 5px ${glowCol}60) drop-shadow(0 0 14px ${glowCol}28) drop-shadow(0 0 28px ${glowCol}10)`;
 
+  const shouldClipClicks = fixed && !passThrough;
+  const clickClip = 'ellipse(38% 45% at 50% 58%)';
+
   return (
     <div
-      className={`${positionClass} ${passThrough ? 'pointer-events-none' : 'pointer-events-auto cursor-pointer'} ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''}`}
+      className={`${positionClass} ${fixed ? 'pointer-events-none w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : (passThrough ? 'pointer-events-none' : 'pointer-events-auto cursor-pointer')}`}
       style={fixed ? {
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
@@ -687,13 +690,13 @@ export default function AvatarCompanion({
       } : {
         filter: glowFilter,
       }}
-      onClick={passThrough ? undefined : handleClick}
+      onClick={(fixed || passThrough) ? undefined : handleClick}
     >
       <Canvas
         camera={{ position: [0, 1.2, 4.0], fov: 50 }}
         frameloop="always"
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
-        style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
+        style={{ background: 'transparent', pointerEvents: (fixed || passThrough) ? 'none' as const : undefined }}
       >
         {/* ── LIGHTING (same as before) ─────────────────────── */}
         <hemisphereLight color="#f8f0e8" groundColor="#c0b0a0" intensity={1.1} />
@@ -739,6 +742,20 @@ export default function AvatarCompanion({
         />
         </Suspense>
       </Canvas>
+      {shouldClipClicks && (
+        <div
+          onClick={handleClick}
+          style={{
+            position: 'absolute',
+            inset: 0,
+            clipPath: clickClip,
+            WebkitClipPath: clickClip,
+            pointerEvents: 'auto',
+            cursor: 'pointer',
+          }}
+          aria-label="Avatar interakció"
+        />
+      )}
     </div>
   );
 }
