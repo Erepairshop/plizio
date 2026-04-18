@@ -1770,6 +1770,53 @@ export default function MathTestPage() {
     );
   }
 
+  // ─── GRADE SELECT SCREEN (fallback after country auto-set) ─────────────────────────────
+
+  if (gameState === "grade-select" && country) {
+    const grades = country.grades ?? [1, 2, 3, 4, 5, 6, 7, 8];
+    return (
+      <>
+        <main className="min-h-screen bg-bg text-white px-4 py-8 flex flex-col items-center">
+          <button onClick={() => router.push("/")} className="absolute top-4 left-4 text-white/60 hover:text-white flex items-center gap-2">
+            <ArrowLeft size={18} /> <span className="text-sm">Back</span>
+          </button>
+          <div className="mt-20 mb-8 text-center">
+            <div className="inline-flex items-center gap-3 mb-3">
+              <Calculator size={32} className="text-gold" />
+              <h1 className="text-2xl sm:text-3xl font-black tracking-wider">MATH TEST</h1>
+            </div>
+            <p className="text-white/70 text-sm sm:text-base">
+              {country.ui?.gradeQuestion ?? "Select your grade"}
+            </p>
+            <p className="text-white/40 text-xs mt-2">
+              {country.flag} {country.name}
+            </p>
+          </div>
+          <div className="grid grid-cols-4 gap-3 w-full max-w-md">
+            {grades.map((g) => (
+              <button
+                key={g}
+                onClick={() => {
+                  setSelectedGrade(g);
+                  saveMathGrade(g);
+                  setGameState("theme-select");
+                }}
+                className={`py-4 rounded-2xl font-black text-2xl border transition-all active:scale-95 ${
+                  previousGrade === g
+                    ? "bg-gradient-to-br from-yellow-500/30 to-amber-500/20 border-gold/60 text-gold shadow-[0_0_20px_rgba(255,215,0,0.35)]"
+                    : "bg-white/5 border-white/10 hover:bg-white/10 text-white"
+                }`}
+              >
+                {g}
+              </button>
+            ))}
+          </div>
+        </main>
+        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
+      </>
+    );
+  }
+
   // ─── REWARD SCREEN ─────────────────────────────
 
   if (gameState === "reward" && cardRarity && gradeResult) {
