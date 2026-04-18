@@ -1799,6 +1799,7 @@ export default function MathTestPage() {
                 onClick={() => {
                   setSelectedGrade(g);
                   saveMathGrade(g);
+                  setTestType("klassenarbeit");
                   setGameState("theme-select");
                 }}
                 className={`py-4 rounded-2xl font-black text-2xl border transition-all active:scale-95 ${
