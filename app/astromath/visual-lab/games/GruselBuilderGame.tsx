@@ -48,12 +48,19 @@ const SETTINGS: Setting[] = [
   { id: "haus", emoji: "🏚️", label: "Verlassenes Haus", ort: "im verlassenen Haus" },
   { id: "friedhof", emoji: "⛪", label: "Nebliger Friedhof", ort: "auf dem nebligen Friedhof" },
   { id: "keller", emoji: "🕯️", label: "Alter Keller", ort: "im alten Keller" },
+  { id: "dachboden", emoji: "🪜", label: "Staubiger Dachboden", ort: "auf dem staubigen Dachboden" },
+  { id: "schloss", emoji: "🏰", label: "Verlassenes Schloss", ort: "im verlassenen Schloss" },
+  { id: "hoehle", emoji: "🕳️", label: "Tiefe Höhle", ort: "in der tiefen Höhle" },
+  { id: "spiegelsaal", emoji: "🪞", label: "Spiegelsaal", ort: "im Spiegelsaal" },
 ];
 
 const CHARACTERS: Character[] = [
   { id: "emma", name: "Emma", emoji: "👧", label: "Ein kleines Mädchen" },
   { id: "leon", name: "Leon", emoji: "👦", label: "Ein mutiger Junge" },
   { id: "geschwister", name: "Lena und Tim", emoji: "👫", label: "Zwei Geschwister" },
+  { id: "mia", name: "Mia", emoji: "🧒", label: "Eine neugierige Forscherin" },
+  { id: "max", name: "Max", emoji: "👨‍🦱", label: "Ein schlauer Detektiv" },
+  { id: "gruppe", name: "Die Freunde", emoji: "👥", label: "Drei Freunde auf Expedition" },
 ];
 
 // {name} and {ort} are replaced at render time
@@ -62,29 +69,43 @@ const SENTENCES: Record<string, string[]> = {
     "Es war eine dunkle und stürmische Nacht, als {name} allein {ort} schlich.",
     "Niemand hatte {name} gewarnt, wie unheimlich es {ort} in der Nacht sein konnte.",
     "Der Weg {ort} sah tagsüber harmlos aus – aber an diesem Abend war alles anders.",
+    "Seit Tagen kreisten die Gerüchte {ort} um seltsame Geräusche – heute wollte {name} endlich nachsehen.",
+    "Der Mond verschwand hinter einer Wolke, genau in dem Moment, als {name} {ort} ankam.",
+    "Normalerweise mied jeder diesen Ort – doch {name} kannte keine Furcht… oder fast keine.",
   ],
   aufbau: [
     "Plötzlich hörte {name} ein seltsames Knacken direkt hinter sich.",
     "Mit zitternden Knien blieb {name} stehen – irgendetwas bewegte sich da vorne.",
     "Das Herz schlug wie verrückt, als ein langer Schatten an der Wand entlangglitt.",
+    "Ein eiskalter Luftzug strich über {name}'s Nacken, obwohl kein Fenster offen stand.",
+    "In der Ferne erklang ein leises Flüstern – doch weit und breit war niemand zu sehen.",
+    "Die Taschenlampe flackerte zweimal kurz auf und erlosch dann ganz.",
   ],
   hoehepunkt: [
     "Urplötzlich sprang etwas aus der Dunkelheit – direkt auf {name} zu!",
     "Ein lauter Schrei zerriss die Stille, und {name} erstarrte vor Schreck.",
     "Im nächsten Moment stand {name} Auge in Auge mit dem Unbekannten.",
+    "Etwas Kaltes legte sich auf {name}'s Schulter – doch {name} wagte nicht, sich umzudrehen.",
+    "Die Tür knallte mit voller Wucht zu, und {name} war in der Falle!",
+    "Zwei funkelnde Augen starrten {name} aus dem Dunkel an – regungslos, lauernd.",
   ],
   aufloesung: [
     "Doch dann lachte {name} erleichtert auf – es war nur die Katze der Nachbarin!",
     "Zum Glück stellte sich heraus: kein Monster, sondern nur der Wind im Kamin.",
     "Mit einem tiefen Atemzug erkannte {name}: Gänsehaut für nichts – alles war harmlos!",
+    "Als {name} das Licht anknipste, war der Spuk vorbei – es war nur ein alter Mantel am Haken.",
+    "Später, zu Hause bei einer heißen Schokolade, konnte {name} über das Abenteuer lachen.",
+    "Seitdem weiß {name}: Manchmal spielen uns unsere eigenen Augen den größten Streich.",
   ],
 };
 
 const WORTSPEICHER = {
-  "🎨 Adjektive": ["unheimlich", "gruselig", "finster", "schaurig", "eisig", "gespenstisch", "nebelig"],
-  "🔊 Geräusche": ["knarren", "rascheln", "heulen", "knacken", "flüstern", "zischen"],
-  "💓 Gefühle": ["Herzklopfen", "Gänsehaut", "zitternde Knie", "kalter Schweiß", "Schauer"],
-  "⏱️ Zeitwörter": ["plötzlich", "urplötzlich", "auf einmal", "im nächsten Moment", "mit einem Mal"],
+  "🎨 Adjektive": ["unheimlich", "gruselig", "finster", "schaurig", "eisig", "gespenstisch", "nebelig", "morsch", "verlassen", "staubig", "knorrig", "dämmrig"],
+  "🔊 Geräusche": ["knarren", "rascheln", "heulen", "knacken", "flüstern", "zischen", "dröhnen", "klirren", "seufzen", "stöhnen", "tropfen", "kratzen"],
+  "💓 Gefühle": ["Herzklopfen", "Gänsehaut", "zitternde Knie", "kalter Schweiß", "Schauer", "Beklemmung", "Angstschweiß", "Entsetzen", "eiskaltes Grauen"],
+  "⚡ Starke Verben": ["schleichen", "erstarren", "aufspringen", "zusammenzucken", "verstummen", "kriechen", "flüchten", "verharren", "erzittern"],
+  "⏱️ Satzanfänge": ["Plötzlich", "Urplötzlich", "Auf einmal", "Im nächsten Moment", "Mit einem Mal", "Kaum hatte... als", "In dem Augenblick", "Ohne Vorwarnung"],
+  "🌫️ Metaphern": ["wie Finger in die Nacht", "ein eisiger Hauch", "wie ein Schatten aus dem Nichts", "wie flüsternde Stimmen", "wie ein Mantel aus Dunkelheit"],
 };
 
 const PHASE_LABELS: Record<Phase, string> = {
@@ -449,6 +470,40 @@ export default function GruselBuilderGame({ grade: _grade, lang: _lang, onDone }
               )}
             </div>
 
+            {/* Rubrik-Checkliste — Klassenarbeit Bewertungskriterien */}
+            <div className="rounded-xl border border-emerald-500/25 bg-emerald-500/5 p-4 mb-4">
+              <p className="text-emerald-300/90 text-[10px] uppercase tracking-widest font-bold mb-2">
+                ✅ Selbst-Check für die Klassenarbeit
+              </p>
+              <ul className="text-emerald-100/85 text-xs leading-relaxed space-y-1">
+                <li>• Macht die Einleitung neugierig auf die Geschichte?</li>
+                <li>• Habe ich mindestens 3 starke Adjektive verwendet?</li>
+                <li>• Beschreibe ich, was die Figur fühlt (z.B. Herzklopfen)?</li>
+                <li>• Ist der Höhepunkt wirklich spannend?</li>
+                <li>• Gibt es eine überraschende Auflösung am Schluss?</li>
+                <li>• Wechsle ich zwischen kurzen und langen Sätzen?</li>
+                <li>• Habe ich schwache Verben (ging, sah, machte) durch starke ersetzt?</li>
+              </ul>
+            </div>
+
+            {/* Schwache-Verben Warnung */}
+            {(() => {
+              const weakVerbs = ["ging", "sah", "machte", "sagte", "war", "hatte"];
+              const found = weakVerbs.filter((v) => new RegExp(`\\b${v}\\b`, "i").test(assembledStory));
+              if (found.length === 0) return null;
+              return (
+                <div className="rounded-xl border border-amber-500/25 bg-amber-500/5 p-4 mb-4">
+                  <p className="text-amber-300/90 text-[10px] uppercase tracking-widest font-bold mb-2">
+                    ⚠️ Entdeckt: schwache Verben
+                  </p>
+                  <p className="text-amber-100/85 text-xs leading-relaxed">
+                    In deiner Geschichte kommen vor: <strong>{found.join(", ")}</strong>.
+                    Ersetze sie durch stärkere Verben aus dem Wortspeicher (schleichen, erstarren, flüstern…) — das macht die Geschichte viel spannender!
+                  </p>
+                </div>
+              );
+            })()}
+
             {/* Tip box */}
             <div className="rounded-xl border border-amber-500/20 bg-amber-500/5 p-4 mb-5">
               <p className="text-amber-200/80 text-xs leading-relaxed">
@@ -465,6 +520,21 @@ export default function GruselBuilderGame({ grade: _grade, lang: _lang, onDone }
                 className="flex-1 rounded-full border border-purple-400/40 bg-purple-600/15 px-4 py-2.5 text-sm font-semibold text-purple-200 hover:bg-purple-600/25 transition"
               >
                 🖨️ Drucken
+              </button>
+              <button
+                onClick={() => {
+                  const content = `Meine Gruselgeschichte\n\nOrt: ${setting?.label}\nFigur: ${character?.name}\n\n${assembledStory}\n\n${wordsCopied.length ? `Meine Lieblingswörter: ${wordsCopied.join(", ")}` : ""}`;
+                  const blob = new Blob([content], { type: "text/plain;charset=utf-8" });
+                  const url = URL.createObjectURL(blob);
+                  const a = document.createElement("a");
+                  a.href = url;
+                  a.download = `gruselgeschichte-${character?.name || "meine"}.txt`;
+                  a.click();
+                  URL.revokeObjectURL(url);
+                }}
+                className="flex-1 rounded-full border border-blue-400/40 bg-blue-600/15 px-4 py-2.5 text-sm font-semibold text-blue-200 hover:bg-blue-600/25 transition"
+              >
+                💾 Speichern
               </button>
               <button
                 onClick={() => {
