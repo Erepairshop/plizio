@@ -24,6 +24,9 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { ENGLISH_M2_POOLS, ENGLISH_M3_POOLS } from "@/lib/astro/englishGameRegistry";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
@@ -125,6 +128,8 @@ type Screen =
   | "memory-pair"
   | "pronunciation"
   | "english-k5-explore"
+  | "m2"
+  | "m3"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -824,6 +829,16 @@ export default function AstroEnglishK5Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K5_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
@@ -1194,6 +1209,12 @@ export default function AstroEnglishK5Page() {
         {screen === "pronunciation" && activeIsland && (
           <PronunciationExplorer rounds={getExplorerContentK5(activeIsland.id, "pronunciation")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "m2" && activeMission?.gameKey && ENGLISH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && ENGLISH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "english-k5-explore" && activeIsland && (
           <K5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -1201,7 +1222,7 @@ export default function AstroEnglishK5Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k5-explore"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "m2", "m3", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "memory-pair", "pronunciation", "english-k5-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
