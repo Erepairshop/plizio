@@ -22,7 +22,7 @@ import {
   stateSlugFor,
 } from "@/lib/seo/slugs";
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) =>

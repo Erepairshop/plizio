@@ -182,8 +182,12 @@ export default function SubjectPicker() {
 
   const go = (subject: SubjectDef, mode: Mode) => {
     if (grade == null) return;
-    const base = mode === "astro" ? subject.astroRoute : subject.testRoute;
-    router.push(`${base}/${grade}`);
+    if (mode === "astro") {
+      router.push(`${subject.astroRoute}/${grade}`);
+    } else {
+      // Test routes don't have grade path — use query string
+      router.push(`${subject.testRoute}?grade=${grade}`);
+    }
   };
 
   const visibleSubjects = grade == null

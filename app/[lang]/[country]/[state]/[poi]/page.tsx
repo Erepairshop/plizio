@@ -18,7 +18,7 @@ import {
 } from "@/lib/seo/routes";
 import { SUPPORTED_LANGS, buildCountryPath, buildPoiPath, buildStatePath, countrySlugFor, type Lang } from "@/lib/seo/slugs";
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 type Params = { lang: string; country: string; state: string; poi: string };
 
