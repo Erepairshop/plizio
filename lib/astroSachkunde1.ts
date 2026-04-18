@@ -48,8 +48,8 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     topicKeys: ["körperteile", "sinnesorgane", "gesundheit_hygiene"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Discover Body Parts",  hu: "Testrészek felfedezése",  de: "Körperteile entdecken",      ro: "Descoperă părți corpului"   } },
-      { id: "m2", category: "build",     gameType: "star-match",   icon: "⭐", label: { en: "Sense Quiz",          hu: "Érzékek kvíz",             de: "Sinnesquiz",                ro: "Quiz simțuri"              } },
-      { id: "m3", category: "challenge", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Health Challenge",   hu: "Egészség kihívás",         de: "Gesundheits-Herausforderung", ro: "Provocare sănătate"         } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "tap-match",   icon: "⭐", label: { en: "Sense Quiz",          hu: "Érzékek kvíz",             de: "Sinnesquiz",                ro: "Quiz simțuri"              } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "drag-sort",   icon: "🚀", label: { en: "Health Challenge",   hu: "Egészség kihívás",         de: "Gesundheits-Herausforderung", ro: "Provocare sănătate"         } },
     ],
     svgX: 160, svgY: 530,
   },

@@ -27,6 +27,10 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { getCategoryRushBiologiePool } from "@/lib/astro/games/category-rush/biologie";
+import { getTimelineSliderBiologiePool } from "@/lib/astro/games/timeline-slider/biologie";
 import BioK5Explorer from "@/app/astro-biologie/games/k5/BioK5Explorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
@@ -100,6 +104,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "m2"
+  | "m3"
   | "bio-explore"
   | "island-transition"
   | "island-complete-anim"
@@ -499,6 +505,12 @@ export default function AstroBiologieK5Page() {
     setActiveMission(mission);
     setAvatarMood("focused");
 
+    if (mission.gameType === "m2" || mission.gameType === "m3") {
+      setQuestions([]);
+      setScreen(mission.gameType as Screen);
+      return;
+    }
+
     const qCount = mission.gameType === "star-match" ? 20 : 10;
     const qs = generateIslandQuestionsK5(activeIsland, qCount);
     setQuestions(qs);
@@ -822,6 +834,12 @@ export default function AstroBiologieK5Page() {
         {screen === "bio-explore" && activeIsland && (
           <BioK5Explorer islandId={activeIsland.id} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "m2" && activeMission?.gameKey === "category-rush" && (
+          <M2Engine gameKey="category-rush" rounds={getCategoryRushBiologiePool()} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey === "timeline-slider" && (
+          <M3Engine gameKey="timeline-slider" rounds={getTimelineSliderBiologiePool()} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         </div>
 
     </div>
@@ -830,7 +848,7 @@ export default function AstroBiologieK5Page() {
   const explorerScreens = [
     "bio-explore",
   ];
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "m2", "m3", ...explorerScreens].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

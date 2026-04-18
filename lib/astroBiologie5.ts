@@ -46,8 +46,8 @@ export const BIO_K5_ISLANDS: IslandDef[] = [
     topicKeys: ["fish", "amphibian"],
     missions: [
       { id: "m1", category: "explore",   gameType: "bio-explore", icon: "🔭", label: { en: "Discover", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "orbit-quiz", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush", icon: "⭐", label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "🚀", label: { en: "Challenge", hu: "Kihívás", de: "Herausforderung", ro: "Provocare" } },
     ],
     svgX: 160, svgY: 530,
   },
