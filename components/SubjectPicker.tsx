@@ -16,6 +16,8 @@ import {
   PenLine,
   Calculator,
   ScrollText,
+  Sparkles,
+  ClipboardCheck,
   type LucideIcon,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
@@ -248,15 +250,17 @@ export default function SubjectPicker() {
                 <div className="grid grid-cols-2 gap-px bg-white/5">
                   <button
                     onClick={() => go(s, "astro")}
-                    className="py-2.5 sm:py-3 bg-white/[0.02] hover:bg-white/10 transition text-white font-bold text-sm active:scale-95"
+                    className="py-2.5 sm:py-3 bg-white/[0.02] hover:bg-white/10 transition text-white font-bold text-sm active:scale-95 flex items-center justify-center gap-1.5"
                   >
-                    🚀 {t.astro}
+                    <Sparkles size={16} className="text-cyan-300" />
+                    <span>{t.astro}</span>
                   </button>
                   <button
                     onClick={() => go(s, "test")}
-                    className="py-2.5 sm:py-3 bg-white/[0.02] hover:bg-white/10 transition text-white font-bold text-sm active:scale-95"
+                    className="py-2.5 sm:py-3 bg-white/[0.02] hover:bg-white/10 transition text-white font-bold text-sm active:scale-95 flex items-center justify-center gap-1.5"
                   >
-                    📝 {t.test}
+                    <ClipboardCheck size={16} className="text-amber-300" />
+                    <span>{t.test}</span>
                   </button>
                 </div>
               </motion.div>
