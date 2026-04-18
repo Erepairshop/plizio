@@ -5,6 +5,7 @@ import { Canvas, useFrame, useLoader } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+import { clone as skeletonClone } from 'three/examples/jsm/utils/SkeletonUtils.js';
 import type { SkinDef } from '@/lib/skins';
 import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
@@ -444,9 +445,12 @@ function RobotCharacter({
   const reactionDurationRef = useRef(0.6);
   const ambientTimerRef = useRef(4 + Math.random() * 5);
 
-  // Clone scene so multiple instances don't conflict
+  // Clone scene so multiple instances don't conflict.
+  // Must use SkeletonUtils.clone — plain Object3D.clone() does NOT rebind
+  // SkinnedMesh skeletons, so animations animate the source scene and the
+  // cloned mesh stays in T-pose.
   const scene = useMemo(() => {
-    const clone = gltf.scene.clone(true);
+    const clone = skeletonClone(gltf.scene);
     // Apply skin colors to all meshes
     clone.traverse((child) => {
       if ((child as THREE.Mesh).isMesh) {
