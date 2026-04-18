@@ -31,6 +31,10 @@ import G2MeasurementExplorer from "@/app/astromath/games/G2MeasurementExplorer";
 import { Lang, MathIslandConfig, MathMissionConfig, MathProgress } from "@/lib/astroMathConfigShared";
 import { MathQuestion } from "@/lib/mathCurriculum";
 
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MATH_M2_POOLS, MATH_M3_POOLS } from "@/lib/astro/mathGameRegistry";
+
 export default function AstroMathG2Page() {
   const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
@@ -68,6 +72,28 @@ export default function AstroMathG2Page() {
       case "division-intro": return <DivisionIntroExplorer color={color} lang={activeLang} onDone={onDone} />;
       case "g2-measurement": return <G2MeasurementExplorer color={color} lang={activeLang} onDone={onDone} />;
       case "rocket-launch": return <RocketLaunch questions={questions} color="#FF9500" onDone={() => onDone(0,0)} />;
+      case "m2": return (
+        <M2Engine
+          gameKey={mission?.gameKey || "tap-match"}
+          rounds={MATH_M2_POOLS[mission?.gameKey || "tap-match"]}
+          color={color}
+          lang={activeLang as any}
+          onDone={onDone}
+          onCorrect={onCorrect}
+          onWrong={onWrong}
+        />
+      );
+      case "m3": return (
+        <M3Engine
+          gameKey={mission?.gameKey || "drag-sort"}
+          rounds={MATH_M3_POOLS[mission?.gameKey || "drag-sort"]}
+          color={color}
+          lang={activeLang as any}
+          onDone={onDone}
+          onCorrect={onCorrect}
+          onWrong={onWrong}
+        />
+      );
       default: return <div>Unknown Game Type: {gameType}</div>;
     }
   };

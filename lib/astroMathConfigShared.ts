@@ -25,6 +25,7 @@ export interface MathMissionConfig {
   label: LocalizedString;
   icon: string;
   gameType: string; // matches the screen state
+  gameKey?: string; // used for M2 and M3 games
   category: MathMissionCategory;
   visualType?: string; // used for VisualChallenge
 }

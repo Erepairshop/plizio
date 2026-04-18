@@ -149,11 +149,21 @@ export default function AstroMathExplorerHybrid(props: AstroMathHybridProps) {
     activeHat: props.progress ? getActiveHat() ? getHatDef(getActiveHat()!) : null : null,
   };
 
-  const handleIslandSelect = (island: MathIslandConfig) => {
+  const handleIslandSelect = useCallback((island: MathIslandConfig) => {
     setActiveIsland(island);
     setAvatarIslandId(island.id);
     setScreen("island-transition");
-  };
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = props.islands.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect, props.islands]);
 
   const startMission = (mission: MathMissionConfig) => {
     if (!activeIsland) return;
