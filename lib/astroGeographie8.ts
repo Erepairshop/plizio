@@ -24,48 +24,48 @@ export const K8_CHECKPOINT_TOPICS: Record<string, string[]> = {
 export const K8_ISLANDS: IslandDef[] = [
   { id: "i1", name: { en: "Island 1", hu: "Sziget 1", de: "Insel 1", ro: "Insula 1" }, icon: "🗺️", color: "#F59E0B", sortRange: [1, 10], topicKeys: ["exogenic_surface"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "category-rush", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 160, svgY: 530 },
   { id: "i2", name: { en: "Island 2", hu: "Sziget 2", de: "Insel 2", ro: "Insula 2" }, icon: "🌍", color: "#EF4444", sortRange: [1, 10], topicKeys: ["world_economy_sectors"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "speed-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 80, svgY: 440 },
   { id: "i3", name: { en: "Island 3", hu: "Sziget 3", de: "Insel 3", ro: "Insula 3" }, icon: "🧭", color: "#10B981", sortRange: [1, 10], topicKeys: ["latin_america_dynamics"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "true-false-blitz", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 240, svgY: 360 },
   { id: "i4", name: { en: "Island 4", hu: "Sziget 4", de: "Insel 4", ro: "Insula 4" }, icon: "🌋", color: "#F59E0B", sortRange: [1, 10], topicKeys: ["africa_challenges"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "word-chain", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 90, svgY: 270 },
   { id: "i5", name: { en: "Island 5", hu: "Sziget 5", de: "Insel 5", ro: "Insula 5" }, icon: "🏜️", color: "#6366F1", sortRange: [1, 10], topicKeys: ["australia_oceania_focus"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "category-rush", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "gap-fill-story", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 220, svgY: 195 },
   { id: "i6", name: { en: "Island 6", hu: "Sziget 6", de: "Insel 6", ro: "Insula 6" }, icon: "🏞️", color: "#EC4899", sortRange: [1, 10], topicKeys: ["global_challenges_future"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "speed-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 100, svgY: 125 },
   { id: "i7", name: { en: "Island 7", hu: "Sziget 7", de: "Insel 7", ro: "Insula 7" }, icon: "🏔️", color: "#14B8A6", sortRange: [1, 10], topicKeys: ["world_economy_sectors"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "true-false-blitz", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 230, svgY: 55 },
   { id: "i8", name: { en: "Island 8", hu: "Sziget 8", de: "Insel 8", ro: "Insula 8" }, icon: "🏙️", color: "#A855F7", sortRange: [1, 10], topicKeys: ["africa_challenges"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Entdecken", en: "Explore", hu: "Felfedezés", ro: "Explorare" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "word-chain", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 80, svgY: -20 },
   { id: "i9", name: { en: "Review", hu: "Ismétlés", de: "Wiederholung", ro: "Recapitulare" }, icon: "🌟", color: "#4ECDC4", sortRange: [1, 10], topicKeys: ["global_challenges_future"], missions: [
       { id: "m1", category: "explore", gameType: "geographie-explore", icon: "🪐", label: { de: "Final-Quiz", en: "Final Quiz", hu: "Záró kvíz", ro: "Quiz final" } },
-      { id: "m2", category: "build", gameType: "star-match", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
+      { id: "m2", category: "build", gameType: "m2", gameKey: "category-rush", icon: "⭐", label: { de: "Üben", en: "Practice", hu: "Gyakorlás", ro: "Practică" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle", icon: "🕳️", label: { de: "Challenge", en: "Challenge", hu: "Kihívás", ro: "Provocare" } }
     ], svgX: 190, svgY: -90 },
 ];
 

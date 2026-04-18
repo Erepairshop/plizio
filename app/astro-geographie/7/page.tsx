@@ -24,6 +24,9 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { GEOGRAPHIE_M2_POOLS, GEOGRAPHIE_M3_POOLS } from "@/lib/astro/geographieGameRegistry";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, GeographieProgress } from "@/lib/astroGeographie";
 import {
@@ -96,7 +99,7 @@ const GRADE_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
-  | "geographie-explore"
+  | "m2" | "m3" | "geographie-explore"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -262,6 +265,16 @@ export default function AstroGeographieK7Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K7_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
@@ -411,7 +424,7 @@ export default function AstroGeographieK7Page() {
     );
   }
 
-  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "geographie-explore") {
+  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "m2" || screen === "m3" || screen === "geographie-explore") {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
         <Starfield />
@@ -421,6 +434,12 @@ export default function AstroGeographieK7Page() {
           {screen === "black-hole" && <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
           {screen === "star-match" && <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />}
           {screen === "speed-round" && <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
+          {screen === "m2" && activeMission?.gameKey && GEOGRAPHIE_M2_POOLS[activeMission.gameKey] && (
+            <M2Engine gameKey={activeMission.gameKey} rounds={GEOGRAPHIE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+          )}
+          {screen === "m3" && activeMission?.gameKey && GEOGRAPHIE_M3_POOLS[activeMission.gameKey] && (
+            <M3Engine gameKey={activeMission.gameKey} rounds={GEOGRAPHIE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+          )}
           {screen === "geographie-explore" && activeIsland && <GeographieK7Explorer island={activeIsland} grade={7} color={bgColor} lang={lang} onDone={handleMissionDone} />}
         </div>
         <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
