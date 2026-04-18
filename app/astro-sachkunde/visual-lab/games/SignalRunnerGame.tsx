@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { SignalRunnerRound } from "@/lib/visualLab/types";
 
 interface Props {
@@ -14,6 +14,17 @@ export default function SignalRunnerGame({ round, onDone }: Props) {
   const [lockedChoice, setLockedChoice] = useState<string | null>(null);
   const [completed, setCompleted] = useState(false);
   const scene = round.scenes[index];
+
+  // Shuffle choices per scene so the correct one isn't always in the same position
+  const shuffledChoices = useMemo(() => {
+    if (!scene?.choices) return [];
+    const arr = [...scene.choices];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [scene]);
 
   useEffect(() => {
     setIndex(0);
@@ -85,7 +96,7 @@ export default function SignalRunnerGame({ round, onDone }: Props) {
         </div>
 
         <div className="grid gap-3">
-          {scene.choices.map((choice) => {
+          {shuffledChoices.map((choice) => {
             const state = choiceState(choice.id);
             return (
               <button

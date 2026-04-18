@@ -29,9 +29,19 @@ export default function OrbitSortGame({ round, onDone }: Props) {
     onDone?.(score, round.items.length);
   }, [completed, onDone, placed, round.items.length, score]);
 
+  // Shuffle items once per round so order isn't predictable
+  const shuffledItems = useMemo(() => {
+    const arr = [...round.items];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [round]);
+
   const remaining = useMemo(
-    () => round.items.filter((item) => !placed[item.id]),
-    [placed, round.items],
+    () => shuffledItems.filter((item) => !placed[item.id]),
+    [placed, shuffledItems],
   );
 
   return (

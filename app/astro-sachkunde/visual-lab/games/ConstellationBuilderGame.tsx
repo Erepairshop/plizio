@@ -21,9 +21,19 @@ export default function ConstellationBuilderGame({ round, onDone }: Props) {
     setCompleted(false);
   }, [round]);
 
+  // Shuffle parts once per round so the order isn't predictable
+  const shuffledParts = useMemo(() => {
+    const arr = [...round.parts];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [round]);
+
   const remaining = useMemo(
-    () => round.parts.filter((part) => !Object.values(placed).includes(part.id)),
-    [placed, round.parts],
+    () => shuffledParts.filter((part) => !Object.values(placed).includes(part.id)),
+    [placed, shuffledParts],
   );
 
   useEffect(() => {
