@@ -64,6 +64,23 @@ export default function AvatarTestPage() {
     console.log("[AvatarTest] Clips in GLB:", clips);
   };
 
+  const [frameStatus, setFrameStatus] = useState<string>("—");
+  useEffect(() => {
+    if (!mounted) return;
+    let lastCount = 0;
+    const iv = setInterval(() => {
+      const w = window as any;
+      const count = w.__AVATAR_FRAME_COUNT__ || 0;
+      const fps = count - lastCount;
+      lastCount = count;
+      const cur = w.__AVATAR_CURRENT__;
+      setFrameStatus(cur
+        ? `FPS:${fps} clip:${cur.clip} time:${cur.time} weight:${cur.weight} enabled:${cur.enabled} mixerTime:${cur.mixerTime}`
+        : `FPS:${fps} (nincs active action)`);
+    }, 1000);
+    return () => clearInterval(iv);
+  }, [mounted]);
+
   const avatarProps = {
     gender, activeSkin, activeFace,
     activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves,
@@ -123,6 +140,7 @@ export default function AvatarTestPage() {
             <button onClick={refreshClipList} className="px-2 py-1 rounded text-xs bg-yellow-500/30">GLB clip lista frissítés</button>
           </div>
           <p className="text-white/60 text-xs mb-1">mood={mood} | jumpTrigger.reaction={jump.reaction ?? "—"} | timestamp={jump.timestamp}</p>
+          <p className="text-white/60 text-[10px] mb-1 font-mono break-all">Frame: {frameStatus}</p>
           {clipList ? (
             <div className="text-white/50 text-[10px] mt-1 max-h-32 overflow-y-auto">
               GLB clip-ek ({clipList.length}): {clipList.join(", ")}

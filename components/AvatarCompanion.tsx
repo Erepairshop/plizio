@@ -594,6 +594,20 @@ function RobotCharacter({
     // Update mixer
     mixerRef.current.update(delta);
 
+    if (typeof window !== 'undefined' && (window as any).__AVATAR_DEBUG__) {
+      (window as any).__AVATAR_FRAME_COUNT__ = ((window as any).__AVATAR_FRAME_COUNT__ || 0) + 1;
+      const action = actionsRef.current[currentActionRef.current];
+      if (action) {
+        (window as any).__AVATAR_CURRENT__ = {
+          clip: currentActionRef.current,
+          time: action.time.toFixed(3),
+          weight: action.weight.toFixed(3),
+          enabled: action.enabled,
+          mixerTime: mixerRef.current.time.toFixed(3),
+        };
+      }
+    }
+
     // Jump reaction timer
     if (jumpTimerRef.current >= 0) {
       jumpTimerRef.current += delta / reactionDurationRef.current;
