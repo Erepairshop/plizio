@@ -30,7 +30,10 @@ import type { PoolTopicDef } from "./types";
 //      text-bubbles (der→den, die→die, das→das)
 // Quiz: { generate: "nominativ" } oder { generate: "akkusativ" }
 
-// export const KASUS_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const KASUS_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const KASUS_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i2 — Dativinsel ──────────────────────────────────────────────────────────
@@ -38,7 +41,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: text-bubbles (dem/der/dem), sentence-display, icon-grid (Präpositionen)
 // Quiz: { generate: "dativ" }
 
-// export const DATIV_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const DATIV_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const DATIV_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i3 — Zeitformeninsel ─────────────────────────────────────────────────────
@@ -46,7 +52,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: two-groups (hat/ist Perfekt), sentence-display, text-bubbles (Futur: wird spielen)
 // Quiz: { generate: "praeteritum" } oder { generate: "perfekt" }
 
-// export const ZEITFORM4_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const ZEITFORM4_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const ZEITFORM4_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i4 — Wortarteninsel ──────────────────────────────────────────────────────
@@ -54,7 +63,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: icon-grid (Wortarten), two-groups (Nomen/Verb/Adjektiv), drag-to-bucket
 // Quiz: { generate: "nomen_k2" } oder { generate: "verben_k3" }
 
-// export const WORTART_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const WORTART_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const WORTART_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i5 — Satzgliederinsel ────────────────────────────────────────────────────
@@ -62,7 +74,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: sentence-display (farbig markiert), two-groups (Satzglied / kein Satzglied)
 // Quiz: kézi (nincs direkt generátor)
 
-// export const SATZGLIED4_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const SATZGLIED4_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const SATZGLIED4_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i6 — Satzarteninsel ──────────────────────────────────────────────────────
@@ -70,7 +85,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: sentence-display (Nebensatz hervorgehoben), compound-word (HS + NS)
 // Quiz: kézi (Konjunktionen + Satzbau)
 
-// export const SATZART4_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const SATZART4_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const SATZART4_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i7 — Verbeninsel (Trennbare Verben & Futur) ──────────────────────────────
@@ -78,7 +96,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: compound-word (auf+machen), sentence-display (Er macht die Tür auf.)
 // Quiz: { generate: "verben_k3" }
 
-// export const VERB4_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const VERB4_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const VERB4_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i8 — Rechtschreibungsinsel ───────────────────────────────────────────────
@@ -86,7 +107,10 @@ import type { PoolTopicDef } from "./types";
 // SVG: word-display (das vs dass), letter-pairs, sentence-display (Komma markiert)
 // Quiz: { generate: "satzzeichen_k1" } oder kézi (das/dass)
 
-// export const RECHT4_LABELS: Record<string, Record<string, string>> = { de: { ... } };
+// export const RECHT4_LABELS: Record<string, Record<string, string>> = { de: { ... },
+//   en: { ... },
+//   hu: { ... },
+//   ro: { ... } };
 // export const RECHT4_POOL: PoolTopicDef[] = [ ... ];
 
 // ── i9 — Große Prüfung K4 ───────────────────────────────────────────────────
