@@ -27,7 +27,10 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import K1Explorer from "@/app/astroenglish/games/k1/K1Explorer";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
+import { ENGLISH_M2_POOLS, ENGLISH_M3_POOLS } from "@/lib/astro/englishGameRegistry";
 
 import {
   K1_ISLANDS, K1_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -61,6 +64,8 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "m2"
+  | "m3"
   | "english-k1-explore"
   | "mission-done"
   | "island-done"
@@ -435,6 +440,16 @@ export default function AstroEnglishK1Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K1_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
@@ -740,6 +755,12 @@ export default function AstroEnglishK1Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "m2" && activeMission?.gameKey && ENGLISH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && ENGLISH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "english-k1-explore" && activeIsland && (
           <K1Explorer island={activeIsland} grade={1} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -747,7 +768,7 @@ export default function AstroEnglishK1Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation", "english-k1-explore"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "m2", "m3", "word-sort", "sentence-builder", "fill-gap", "spell-race", "category-rush", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "memory-pair", "pronunciation", "english-k1-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

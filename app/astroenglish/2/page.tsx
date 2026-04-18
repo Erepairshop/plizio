@@ -26,6 +26,8 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
 import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
 import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
 import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
@@ -41,6 +43,7 @@ import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import K2Explorer from "@/app/astroenglish/games/k2/K2Explorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
+import { ENGLISH_M2_POOLS, ENGLISH_M3_POOLS } from "@/lib/astro/englishGameRegistry";
 import {
   K2_ISLANDS, K2_CHECKPOINT_MAP, K2_CHECKPOINT_TOPICS,
   type IslandDef, type MissionDef, type Lang, type MissionCategory, type EnglishProgress,
@@ -74,6 +77,8 @@ type Screen =
   | "gravity-sort"
   | "star-match"
   | "speed-round"
+  | "m2"
+  | "m3"
   | "word-sort"
   | "sentence-builder"
   | "fill-gap"
@@ -460,6 +465,16 @@ export default function AstroEnglishK2Page() {
     setAvatarMood("idle");
     setScreen("island-transition");
   }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K2_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
 
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
@@ -1035,6 +1050,12 @@ export default function AstroEnglishK2Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "m2" && activeMission?.gameKey && ENGLISH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && ENGLISH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "word-sort" && activeIsland && (
           <WordSortExplorer rounds={getExplorerContentK2(activeIsland.id, "word-sort")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
@@ -1081,7 +1102,7 @@ export default function AstroEnglishK2Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "word-sort", "fill-gap", "category-rush", "sentence-builder", "spell-race", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "memory-pair", "pronunciation", "english-k2-explore"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "m2", "m3", "word-sort", "fill-gap", "category-rush", "sentence-builder", "spell-race", "grammar-match", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "memory-pair", "pronunciation", "english-k2-explore"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

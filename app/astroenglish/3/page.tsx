@@ -26,6 +26,8 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
 import WordSortExplorer from "@/app/astroenglish/games/WordSortExplorer";
 import SentenceBuilderExplorer from "@/app/astroenglish/games/SentenceBuilderExplorer";
 import FillGapExplorer from "@/app/astroenglish/games/FillGapExplorer";
@@ -42,6 +44,7 @@ import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import K3Explorer from "@/app/astroenglish/games/k3/K3Explorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
+import { ENGLISH_M2_POOLS, ENGLISH_M3_POOLS } from "@/lib/astro/englishGameRegistry";
 import { K3_ISLAND_SVGS } from "@/app/astroenglish/islands-k3";
 import {
   K3_ISLANDS, K3_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -110,6 +113,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "speed-round"
+  | "m2"
+  | "m3"
   | "word-sort"
   | "sentence-builder"
   | "fill-gap"
@@ -789,6 +794,16 @@ export default function AstroEnglishK3Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K3_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
@@ -802,7 +817,7 @@ export default function AstroEnglishK3Page() {
       // Explorers don't need questions, content is generated per game
       setQuestions([]);
     } else {
-      const noQuestionsTypes: string[] = ["gravity-sort"];
+      const noQuestionsTypes: string[] = ["gravity-sort", "m2", "m3"];
       if (noQuestionsTypes.includes(mission.gameType)) {
         setQuestions([]);
       } else {
@@ -1127,6 +1142,12 @@ export default function AstroEnglishK3Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "m2" && activeMission?.gameKey && ENGLISH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && ENGLISH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={ENGLISH_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "fill-gap" && activeIsland && (
           <FillGapExplorer rounds={getExplorerContentK3(activeIsland.id, "fill-gap")} color={bgColor} onDone={handleMissionDone} lang={lang} />
         )}
@@ -1176,7 +1197,7 @@ export default function AstroEnglishK3Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "en3-plural-explorer", "en3-tense-explorer", "en3-adverb-explorer", "en3-subject-explorer", "en3-quotation-explorer", "en3-prefix-k3-explorer", "en3-word-family-explorer", "en3-vocab-explorer", "en3-big-test-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "m2", "m3", "fill-gap", "category-rush", "grammar-match", "word-sort", "sentence-builder", "spell-race", "phonics", "picture-vocab", "rhyme-match", "word-build", "reading-comp", "tense-explorer", "en3-plural-explorer", "en3-tense-explorer", "en3-adverb-explorer", "en3-subject-explorer", "en3-quotation-explorer", "en3-prefix-k3-explorer", "en3-word-family-explorer", "en3-vocab-explorer", "en3-big-test-explorer", "memory-pair", "pronunciation"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
