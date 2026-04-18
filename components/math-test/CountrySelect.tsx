@@ -25,16 +25,8 @@ export function CountrySelect({ onSelect, avatarProps }: CountrySelectProps) {
   const href = l === "hu" ? "/blog/matek-teszt-online/" : l === "ro" ? "/blog/test-matematica-online/" : l === "de" ? "/blog/mathe-test-vorbereitung/" : "/blog/free-math-games-kids/";
   const label = l === "hu" ? "📖 Hogyan segít a matek teszt?" : l === "ro" ? "📖 Cum te ajută testul?" : l === "de" ? "📖 Tipps zur Vorbereitung" : "📖 How to use Math Test";
 
-  if (typeof window !== "undefined") {
-    console.log("[CountrySelect DEBUG] render", { mounted, l, COUNTRIES_len: COUNTRIES?.length, href });
-  }
-
   return (
     <>
-      {/* DEBUG banner — bright red, top-left */}
-      <div style={{ position: "fixed", top: 0, left: 0, zIndex: 9999, background: "red", color: "white", padding: "8px 12px", fontSize: "14px", fontFamily: "monospace" }}>
-        DEBUG: CountrySelect OK | mounted={String(mounted)} | l={l} | countries={COUNTRIES?.length ?? 0}
-      </div>
       <main className="min-h-screen relative overflow-hidden bg-bg">
         <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">

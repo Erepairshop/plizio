@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo, useRef } from "react";
+import { useState, useEffect, useMemo, useRef, Suspense } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
@@ -99,6 +99,14 @@ import ModernPaperTest from "@/components/ModernPaperTest";
 import { DraftProvider } from "@/components/draft";
 
 export default function MathTestPage() {
+  return (
+    <Suspense fallback={null}>
+      <MathTestPageInner />
+    </Suspense>
+  );
+}
+
+function MathTestPageInner() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [gameState, setGameState] = useState<GameState>("country-select");
@@ -952,18 +960,9 @@ export default function MathTestPage() {
 
   // ─── COUNTRY SELECT SCREEN ─────────────────────────────
 
-  if (typeof window !== "undefined") {
-    console.log("[MathTestPage DEBUG] render", { gameState, country, selectedGrade, testType });
-  }
-
   if (gameState === "country-select") {
     return (
-      <>
-        <div style={{ position: "fixed", top: 40, left: 0, zIndex: 9999, background: "blue", color: "white", padding: "8px 12px", fontSize: "14px", fontFamily: "monospace" }}>
-          DEBUG MathTestPage: gameState={gameState} | country={country?.code ?? "null"}
-        </div>
-        <CountrySelect onSelect={handleCountrySelect} avatarProps={{ mood: avatarMood, gender: avatarGender, activeSkin: avatarSkin, activeFace: avatarFace, activeTop: avatarTop, activeBottom: avatarBottom, activeShoe: avatarShoe, activeCape: avatarCape, activeGlasses: avatarGlasses, activeGloves: avatarGloves, activeHat: avatarHat, activeTrail: avatarTrail }} />
-      </>
+      <CountrySelect onSelect={handleCountrySelect} avatarProps={{ mood: avatarMood, gender: avatarGender, activeSkin: avatarSkin, activeFace: avatarFace, activeTop: avatarTop, activeBottom: avatarBottom, activeShoe: avatarShoe, activeCape: avatarCape, activeGlasses: avatarGlasses, activeGloves: avatarGloves, activeHat: avatarHat, activeTrail: avatarTrail }} />
     );
   }
 

@@ -992,7 +992,7 @@ function SubRegionView({
               </defs>
 
               <g transform={`translate(${pz.view.x} ${pz.view.y}) scale(${pz.view.scale})`}>
-                {detail.children.map((c) => {
+                {detail.children.map((c: any) => {
                   const isHover = hovered === c.id;
                   const isSelected = selected === c.id;
                   return (
@@ -1013,7 +1013,7 @@ function SubRegionView({
                 })}
 
                 <g pointerEvents="none">
-                  {detail.children.map((c) => (
+                  {detail.children.map((c: any) => (
                     <text
                       key={`lbl-${c.id}`}
                       x={c.labelX}
