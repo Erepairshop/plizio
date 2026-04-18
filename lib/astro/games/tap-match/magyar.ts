@@ -1,67 +1,89 @@
 import { TapMatchRound } from "../../../../components/astro-games/views/m2/TapMatchView";
 
+// Magyar tantárgy: magyar szókincs + állathangok + gyümölcsök/kategória + évszakok
 export const rounds: TapMatchRound[] = [
   {
     id: "hu-tm-1",
     timeLimitMs: 60000,
+    taskDescription: {
+      en: "Match each animal with its sound",
+      de: "Ordne jedes Tier seinem Laut zu",
+      hu: "Párosítsd az állatot a hangjával",
+      ro: "Potrivește animalul cu sunetul său",
+    },
     left: [
-      { id: "L1", label: { en: "Hund", de: "Hund", hu: "kutya (de)", ro: "caine (de)" }, emoji: "🐶" },
-      { id: "L2", label: { en: "Katze", de: "Katze", hu: "macska (de)", ro: "pisica (de)" }, emoji: "🐱" },
-      { id: "L3", label: { en: "Haus", de: "Haus", hu: "haz (de)", ro: "casa (de)" }, emoji: "🏠" },
-      { id: "L4", label: { en: "Buch", de: "Buch", hu: "konyv (de)", ro: "carte (de)" }, emoji: "📘" }
+      { id: "L1", label: { en: "Cat", de: "Katze", hu: "Macska", ro: "Pisică" }, emoji: "🐱" },
+      { id: "L2", label: { en: "Dog", de: "Hund", hu: "Kutya", ro: "Câine" }, emoji: "🐶" },
+      { id: "L3", label: { en: "Horse", de: "Pferd", hu: "Ló", ro: "Cal" }, emoji: "🐎" },
+      { id: "L4", label: { en: "Cow", de: "Kuh", hu: "Tehén", ro: "Vacă" }, emoji: "🐄" },
     ],
     right: [
-      { id: "R1", label: { en: "Dog", de: "Hund", hu: "kutya", ro: "caine" }, emoji: "🐶" },
-      { id: "R2", label: { en: "Cat", de: "Katze", hu: "macska", ro: "pisica" }, emoji: "🐱" },
-      { id: "R3", label: { en: "House", de: "Haus", hu: "haz", ro: "casa" }, emoji: "🏠" },
-      { id: "R4", label: { en: "Book", de: "Buch", hu: "konyv", ro: "carte" }, emoji: "📘" }
+      { id: "R1", label: { en: "Miaow", de: "Miau", hu: "Miau", ro: "Miau" }, emoji: "😺" },
+      { id: "R2", label: { en: "Bark", de: "Wau", hu: "Vau-vau", ro: "Ham-ham" }, emoji: "🦴" },
+      { id: "R3", label: { en: "Neigh", de: "Wiehern", hu: "Nyihaha", ro: "Nechezat" }, emoji: "🌾" },
+      { id: "R4", label: { en: "Moo", de: "Muh", hu: "Bú", ro: "Muuu" }, emoji: "🥛" },
     ],
     correctPairs: [
       { leftId: "L1", rightId: "R1" },
       { leftId: "L2", rightId: "R2" },
       { leftId: "L3", rightId: "R3" },
-      { leftId: "L4", rightId: "R4" }
-    ]
+      { leftId: "L4", rightId: "R4" },
+    ],
   },
   {
     id: "hu-tm-2",
     timeLimitMs: 60000,
+    taskDescription: {
+      en: "Match fruits with the category 'Fruit'",
+      de: "Ordne Früchte der Kategorie 'Obst' zu",
+      hu: "Párosítsd a gyümölcsöket a kategóriával",
+      ro: "Potrivește fructele cu categoria",
+    },
     left: [
-      { id: "L1", label: { en: "A", de: "A", hu: "A", ro: "A" }, emoji: "🔤" },
-      { id: "L2", label: { en: "B", de: "B", hu: "B", ro: "B" }, emoji: "🔤" },
-      { id: "L3", label: { en: "K", de: "K", hu: "K", ro: "K" }, emoji: "🔤" },
-      { id: "L4", label: { en: "T", de: "T", hu: "T", ro: "T" }, emoji: "🔤" }
+      { id: "L1", label: { en: "Apple", de: "Apfel", hu: "Alma", ro: "Măr" }, emoji: "🍎" },
+      { id: "L2", label: { en: "Banana", de: "Banane", hu: "Banán", ro: "Banană" }, emoji: "🍌" },
+      { id: "L3", label: { en: "Strawberry", de: "Erdbeere", hu: "Eper", ro: "Căpșună" }, emoji: "🍓" },
+      { id: "L4", label: { en: "Grape", de: "Traube", hu: "Szőlő", ro: "Strugure" }, emoji: "🍇" },
     ],
     right: [
-      { id: "R1", label: { en: "Apfel", de: "Apfel", hu: "alma", ro: "mar" }, emoji: "🍎" },
-      { id: "R2", label: { en: "Banane", de: "Banane", hu: "banan", ro: "banana" }, emoji: "🍌" },
-      { id: "R3", label: { en: "Katze", de: "Katze", hu: "macska", ro: "pisica" }, emoji: "🐱" },
-      { id: "R4", label: { en: "Tisch", de: "Tisch", hu: "asztal", ro: "masa" }, emoji: "🪑" }
+      { id: "R1", label: { en: "Red fruit", de: "Rote Frucht", hu: "Piros gyümölcs", ro: "Fruct roșu" }, emoji: "🍎" },
+      { id: "R2", label: { en: "Yellow fruit", de: "Gelbe Frucht", hu: "Sárga gyümölcs", ro: "Fruct galben" }, emoji: "🍌" },
+      { id: "R3", label: { en: "Small red fruit", de: "Kleine rote Frucht", hu: "Kis piros gyümölcs", ro: "Fruct mic roșu" }, emoji: "🍓" },
+      { id: "R4", label: { en: "Purple cluster", de: "Lila Trauben", hu: "Lila fürt", ro: "Ciorchine mov" }, emoji: "🍇" },
     ],
     correctPairs: [
       { leftId: "L1", rightId: "R1" },
       { leftId: "L2", rightId: "R2" },
       { leftId: "L3", rightId: "R3" },
-      { leftId: "L4", rightId: "R4" }
-    ]
+      { leftId: "L4", rightId: "R4" },
+    ],
   },
   {
     id: "hu-tm-3",
     timeLimitMs: 60000,
+    taskDescription: {
+      en: "Match the season with its weather",
+      de: "Ordne die Jahreszeit dem Wetter zu",
+      hu: "Párosítsd az évszakot az időjárással",
+      ro: "Potrivește anotimpul cu vremea",
+    },
     left: [
-      { id: "L1", label: { en: "der", de: "der", hu: "der", ro: "der" }, emoji: "🟦" },
-      { id: "L2", label: { en: "die", de: "die", hu: "die", ro: "die" }, emoji: "🟥" },
-      { id: "L3", label: { en: "das", de: "das", hu: "das", ro: "das" }, emoji: "🟩" }
+      { id: "L1", label: { en: "Summer", de: "Sommer", hu: "Nyár", ro: "Vară" }, emoji: "☀️" },
+      { id: "L2", label: { en: "Winter", de: "Winter", hu: "Tél", ro: "Iarnă" }, emoji: "❄️" },
+      { id: "L3", label: { en: "Spring", de: "Frühling", hu: "Tavasz", ro: "Primăvară" }, emoji: "🌸" },
+      { id: "L4", label: { en: "Autumn", de: "Herbst", hu: "Ősz", ro: "Toamnă" }, emoji: "🍂" },
     ],
     right: [
-      { id: "R1", label: { en: "Hund", de: "Hund", hu: "kutya", ro: "caine" }, emoji: "🐶" },
-      { id: "R2", label: { en: "Lampe", de: "Lampe", hu: "lampa", ro: "lampa" }, emoji: "💡" },
-      { id: "R3", label: { en: "Buch", de: "Buch", hu: "konyv", ro: "carte" }, emoji: "📘" }
+      { id: "R1", label: { en: "Hot", de: "Heiß", hu: "Meleg", ro: "Cald" }, emoji: "🥵" },
+      { id: "R2", label: { en: "Cold, snow", de: "Kalt, Schnee", hu: "Hideg, hó", ro: "Rece, zăpadă" }, emoji: "🥶" },
+      { id: "R3", label: { en: "Blooming flowers", de: "Blüten", hu: "Virágzás", ro: "Flori" }, emoji: "🌷" },
+      { id: "R4", label: { en: "Yellow leaves", de: "Gelbe Blätter", hu: "Sárga levelek", ro: "Frunze galbene" }, emoji: "🍁" },
     ],
     correctPairs: [
       { leftId: "L1", rightId: "R1" },
       { leftId: "L2", rightId: "R2" },
-      { leftId: "L3", rightId: "R3" }
-    ]
-  }
+      { leftId: "L3", rightId: "R3" },
+      { leftId: "L4", rightId: "R4" },
+    ],
+  },
 ];

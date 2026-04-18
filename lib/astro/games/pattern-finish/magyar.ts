@@ -1,64 +1,87 @@
 import { PatternFinishRound } from "../../../../components/astro-games/views/m3/PatternFinishView";
 
+// Magyar pattern-finish: magyar ragozás, sorrendek, mondat-minták
 export const rounds: PatternFinishRound[] = [
   {
     id: "hu-pf-1",
     taskDescription: {
-      en: "Complete the pattern: ich bin, du bist, er ?",
-      de: "Vervollstandige: ich bin, du bist, er ?",
-      hu: "Folytasd a mintat: ich bin, du bist, er ?",
-      ro: "Completeaza modelul: ich bin, du bist, er ?"
+      en: "Complete the pattern (personal pronoun + to be in Hungarian)",
+      de: "Vervollständige das Muster (Ungarisch: Personalpronomen + sein)",
+      hu: "Folytasd a mintát: én vagyok, te vagy, ő ?",
+      ro: "Completează modelul: eu sunt, tu ești, el ?",
     },
     pattern: [
-      { en: "ich bin", de: "ich bin", hu: "ich bin", ro: "ich bin" },
-      { en: "du bist", de: "du bist", hu: "du bist", ro: "du bist" },
-      { en: "er ?", de: "er ?", hu: "er ?", ro: "er ?" }
+      { en: "én vagyok", de: "én vagyok", hu: "én vagyok", ro: "én vagyok" },
+      { en: "te vagy", de: "te vagy", hu: "te vagy", ro: "te vagy" },
+      { en: "ő ?", de: "ő ?", hu: "ő ?", ro: "ő ?" },
     ],
     options: [
-      { id: "o1", text: { en: "ist", de: "ist", hu: "ist", ro: "ist" }, isCorrect: true },
-      { id: "o2", text: { en: "bin", de: "bin", hu: "bin", ro: "bin" }, isCorrect: false },
-      { id: "o3", text: { en: "bist", de: "bist", hu: "bist", ro: "bist" }, isCorrect: false },
-      { id: "o4", text: { en: "seid", de: "seid", hu: "seid", ro: "seid" }, isCorrect: false }
-    ]
+      { id: "o1", text: { en: "van", de: "van", hu: "van", ro: "van" }, isCorrect: true },
+      { id: "o2", text: { en: "vagyok", de: "vagyok", hu: "vagyok", ro: "vagyok" }, isCorrect: false },
+      { id: "o3", text: { en: "vagy", de: "vagy", hu: "vagy", ro: "vagy" }, isCorrect: false },
+      { id: "o4", text: { en: "vannak", de: "vannak", hu: "vannak", ro: "vannak" }, isCorrect: false },
+    ],
   },
   {
     id: "hu-pf-2",
     taskDescription: {
-      en: "Finish: ich habe, du hast, wir ?",
-      de: "Vervollstandige: ich habe, du hast, wir ?",
-      hu: "Folytasd: ich habe, du hast, wir ?",
-      ro: "Completeaza: ich habe, du hast, wir ?"
+      en: "Number pattern — continue counting by 2",
+      de: "Zahlenmuster — zähle in Zweiern",
+      hu: "Folytasd a számsort: 2, 4, 6, ?",
+      ro: "Continuă șirul: 2, 4, 6, ?",
     },
     pattern: [
-      { en: "ich habe", de: "ich habe", hu: "ich habe", ro: "ich habe" },
-      { en: "du hast", de: "du hast", hu: "du hast", ro: "du hast" },
-      { en: "wir ?", de: "wir ?", hu: "wir ?", ro: "wir ?" }
+      { en: "2", de: "2", hu: "2", ro: "2" },
+      { en: "4", de: "4", hu: "4", ro: "4" },
+      { en: "6", de: "6", hu: "6", ro: "6" },
+      { en: "?", de: "?", hu: "?", ro: "?" },
     ],
     options: [
-      { id: "o1", text: { en: "haben", de: "haben", hu: "haben", ro: "haben" }, isCorrect: true },
-      { id: "o2", text: { en: "habt", de: "habt", hu: "habt", ro: "habt" }, isCorrect: false },
-      { id: "o3", text: { en: "hat", de: "hat", hu: "hat", ro: "hat" }, isCorrect: false },
-      { id: "o4", text: { en: "habe", de: "habe", hu: "habe", ro: "habe" }, isCorrect: false }
-    ]
+      { id: "o1", text: { en: "8", de: "8", hu: "8", ro: "8" }, isCorrect: true },
+      { id: "o2", text: { en: "7", de: "7", hu: "7", ro: "7" }, isCorrect: false },
+      { id: "o3", text: { en: "10", de: "10", hu: "10", ro: "10" }, isCorrect: false },
+      { id: "o4", text: { en: "5", de: "5", hu: "5", ro: "5" }, isCorrect: false },
+    ],
   },
   {
     id: "hu-pf-3",
     taskDescription: {
-      en: "Finish: ich gehe, du gehst, er ?",
-      de: "Vervollstandige: ich gehe, du gehst, er ?",
-      hu: "Folytasd: ich gehe, du gehst, er ?",
-      ro: "Completeaza: ich gehe, du gehst, er ?"
+      en: "Complete Hungarian plural pattern",
+      de: "Ungarische Pluralbildung — vervollständige",
+      hu: "Folytasd a többes számot: kutya — kutyák, ló — lovak, macska — ?",
+      ro: "Continuă pluralul maghiar: kutya — kutyák, ló — lovak, macska — ?",
     },
     pattern: [
-      { en: "ich gehe", de: "ich gehe", hu: "ich gehe", ro: "ich gehe" },
-      { en: "du gehst", de: "du gehst", hu: "du gehst", ro: "du gehst" },
-      { en: "er ?", de: "er ?", hu: "er ?", ro: "er ?" }
+      { en: "kutya → kutyák", de: "kutya → kutyák", hu: "kutya → kutyák", ro: "kutya → kutyák" },
+      { en: "ló → lovak", de: "ló → lovak", hu: "ló → lovak", ro: "ló → lovak" },
+      { en: "macska → ?", de: "macska → ?", hu: "macska → ?", ro: "macska → ?" },
     ],
     options: [
-      { id: "o1", text: { en: "geht", de: "geht", hu: "geht", ro: "geht" }, isCorrect: true },
-      { id: "o2", text: { en: "gehst", de: "gehst", hu: "gehst", ro: "gehst" }, isCorrect: false },
-      { id: "o3", text: { en: "gehe", de: "gehe", hu: "gehe", ro: "gehe" }, isCorrect: false },
-      { id: "o4", text: { en: "gehen", de: "gehen", hu: "gehen", ro: "gehen" }, isCorrect: false }
-    ]
-  }
+      { id: "o1", text: { en: "macskák", de: "macskák", hu: "macskák", ro: "macskák" }, isCorrect: true },
+      { id: "o2", text: { en: "macskám", de: "macskám", hu: "macskám", ro: "macskám" }, isCorrect: false },
+      { id: "o3", text: { en: "macskás", de: "macskás", hu: "macskás", ro: "macskás" }, isCorrect: false },
+      { id: "o4", text: { en: "macska", de: "macska", hu: "macska", ro: "macska" }, isCorrect: false },
+    ],
+  },
+  {
+    id: "hu-pf-4",
+    taskDescription: {
+      en: "Days of the week — which one comes after Wednesday?",
+      de: "Wochentage — was kommt nach Mittwoch?",
+      hu: "Folytasd a napokat: hétfő, kedd, szerda, ?",
+      ro: "Continuă zilele săptămânii: luni, marți, miercuri, ?",
+    },
+    pattern: [
+      { en: "hétfő", de: "hétfő", hu: "hétfő", ro: "hétfő" },
+      { en: "kedd", de: "kedd", hu: "kedd", ro: "kedd" },
+      { en: "szerda", de: "szerda", hu: "szerda", ro: "szerda" },
+      { en: "?", de: "?", hu: "?", ro: "?" },
+    ],
+    options: [
+      { id: "o1", text: { en: "csütörtök", de: "csütörtök", hu: "csütörtök", ro: "csütörtök" }, isCorrect: true },
+      { id: "o2", text: { en: "péntek", de: "péntek", hu: "péntek", ro: "péntek" }, isCorrect: false },
+      { id: "o3", text: { en: "szombat", de: "szombat", hu: "szombat", ro: "szombat" }, isCorrect: false },
+      { id: "o4", text: { en: "vasárnap", de: "vasárnap", hu: "vasárnap", ro: "vasárnap" }, isCorrect: false },
+    ],
+  },
 ];
