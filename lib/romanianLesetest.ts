@@ -712,7 +712,115 @@ const PASSAGES_CLASA_6: ReadingPassage[] = [
   },
 ];
 
-// ─── CLASA 7–8: TODO Texte vor fi adăugate mai târziu
+// ─── CLASA 7 ─── (400-600 cuvinte · structuri complexe, teme diverse)
+const PASSAGES_CLASA_7: ReadingPassage[] = [
+  {
+    title: "Max, prietenul meu cel mai bun",
+    text: "Max nu este doar un simplu animal de companie, ci un membru cu drepturi depline al familiei noastre de mai bine de șase ani. Este un Ciobănesc German impunător, cu o blană deasă în nuanțe de negru și cafeniu, care îi oferă un aspect nobil și protector. L-am primit când era doar un ghemotoc de blană speriat, dar cu timpul a crescut și a devenit paznicul neobosit al curții noastre. Inteligența lui Max mă uimește în fiecare zi; pare să înțeleagă nu doar comenzile vocale, ci și cele mai subtile stări sufletești ale celor din jur. Când sunt trist sau îngrijorat din cauza examenelor, vine tiptil lângă mine și își așază capul greu pe genunchii mei, privindu-mă cu ochii lui căprui plini de o compasiune mută, dar profundă. Diminețile noastre încep mereu cu o repriză de joacă în grădină, unde Max aleargă cu o viteză incredibilă după discul de plastic sau după mingea de tenis. Deși este un câine de talie mare, este extrem de blând cu copiii mici din cartier, lăsându-i să-l mângâie fără nicio reținere, demonstrând un calm olimpian. Într-o vară, în timpul unei drumeții solicitante la munte, Max ne-a avertizat de prezența unui animal sălbatic în apropiere, lătrând într-un mod specific, scurt și autoritar, pe care nu-l mai auzisem până atunci. Datorită vigilenței sale, am reușit să ne îndepărtăm în siguranță înainte ca situația să devină periculoasă. Această legătură specială dintre om și câine mi-a arătat ce înseamnă loialitatea fără limite și responsabilitatea imensă de a îngriji o altă ființă vie. Max m-a învățat că prietenia nu are nevoie de cuvinte pentru a fi exprimată, ci de gesturi simple, prezență constantă și o devotare care trece dincolo de barierele speciilor. În fiecare seară, când se așază la picioarele patului meu, simt o liniște profundă, știind că am alături cel mai fidel tovarăș de drum.",
+    questions: [
+      { type: "mcq", question: "Ce rasă este câinele Max?", options: ["Labrador", "Ciobănesc German", "Golden Retriever", "Rotweiler"], correct: 1 },
+      { type: "mcq", question: "Cum reacționează Max când naratorul este trist?", options: ["Începe să latre", "Fuge în grădină", "Își așază capul pe genunchii lui", "Doarme"], correct: 2 },
+      { type: "mcq", question: "Ce s-a întâmplat în timpul drumeției la munte?", options: ["Max s-a pierdut", "Max a găsit o comoară", "Max a avertizat familia de un animal sălbatic", "Max a înotat într-un lac"], correct: 2 },
+      { type: "mcq", question: "De cât timp face Max parte din familie?", options: ["De un an", "De trei ani", "De mai bine de șase ani", "De zece ani"], correct: 2 },
+      { type: "mcq", question: "Care este trăsătura principală a lui Max în relația cu copiii?", options: ["Agresivitatea", "Indiferența", "Blândețea extremă", "Frica"], correct: 2 },
+      { type: "typing", question: "Ce obiect urmărește Max în timpul jocului din grădină?", answer: "discul de plastic" },
+      { type: "typing", question: "Ce culoare au ochii lui Max?", answer: "căprui" },
+    ],
+  },
+  {
+    title: "O zi de explorare în inima pădurii",
+    text: "Pădurea seculară de la marginea satului bunicilor a reprezentat întotdeauna pentru mine un tărâm plin de mister, un sanctuar al liniștii unde timpul pare să curgă după alte legi. Într-o dimineață răcoroasă de sâmbătă, echipat cu un rucsac bine dotat, o busolă veche moștenită de la bunicul și un carnețel de observații, am decis să explorez potecile mai puțin umblate ale acestui univers verde. Pe măsură ce înaintam, lumina soarelui se strecura cu greu prin coroanele gigantice ale stejarilor și fagilor seculari, creând jocuri de umbre și lumini pe covorul de mușchi moale și reavăn. Aerul era saturat de mirosul proaspăt de rășină, de pământ umed și de parfumul discret al florilor sălbatice de umbră, un amestec olfactiv pe care nicio metropolă modernă nu-l poate reproduce. La un moment dat, am ajuns într-o poiană ascunsă, unde un pârâu cristalin susura vesel printre pietrele șlefuite de milenii. M-am așezat pe un trunchi de copac căzut, acoperit de licheni, și am rămas nemișcat, transformându-mă într-un simplu observator al simfoniei naturii. Am ascultat cu atenție ciocănitul ritmic al unei ciocănitoare negre, foșnetul discret al unei șopârle prin frunzișul uscat și cântecul cristalin al privighetorilor ce răsuna din desișuri. Momentul culminant a fost când am observat o familie de căprioare care a ieșit la adăpat, fără să bănuiască prezența mea tăcută. Erau atât de grațioase în mișcări încât mi-am ținut respirația minute în șir, temându-mă că cel mai mic zgomot ar putea rupe vraja. Această experiență mi-a reamintit cât de fragil este echilibrul ecosistemelor noastre și cât de important este să fim vizitatori respectuoși în acest regat al sălbăticiei. Pădurea nu este doar o resursă naturală, ci un organism viu, complex, care respiră și ne oferă liniștea și oxigenul necesar supraviețuirii noastre fizice și spirituale.",
+    questions: [
+      { type: "mcq", question: "Cu ce era echipat naratorul pentru explorare?", options: ["Cu o hartă digitală", "Cu un rucsac, o busolă veche și un carnețel", "Cu o bicicletă de munte", "Cu o undiță"], correct: 1 },
+      { type: "mcq", question: "Ce tip de copaci sunt menționați ca fiind seculari?", options: ["Brazi și pini", "Stejari și fagi", "Salcii și plopi", "Meri și peri"], correct: 1 },
+      { type: "mcq", question: "Ce animale a observat naratorul în poiană?", options: ["O familie de urși", "O familie de căprioare", "O vulpe solitară", "Un mistreț"], correct: 1 },
+      { type: "mcq", question: "Unde s-a așezat naratorul pentru a observa natura?", options: ["Pe o stâncă înaltă", "Pe un trunchi de copac căzut", "Direct pe iarbă", "Lângă pârâu"], correct: 1 },
+      { type: "mcq", question: "Care este sentimentul principal transmis de text?", options: ["Frica de necunoscut", "Respectul și admirația față de natură", "Plictiseala", "Dorința de a vâna"], correct: 1 },
+      { type: "typing", question: "Ce pasăre scotea un sunet ritmic în pădure?", answer: "ciocănitoarea" },
+      { type: "typing", question: "Cum se numește instrumentul folosit pentru orientare?", answer: "busola" },
+    ],
+  },
+  {
+    title: "Vacanța în satul bunicilor",
+    text: "Nimic nu se compară cu sentimentul de libertate absolută pe care îl trăiesc în fiecare vară la casa bunicilor mei, situată într-un sat pitoresc, cuibărit la poalele dealurilor subcarpatice. Acolo, viața se desfășoară după un alt ritm, unul ancestral, dictat de răsăritul soarelui și de nevoile stringente ale animalelor din ogradă. Bunicul meu, un om cu palmele bătătorite de decenii de muncă cinstită, dar cu o înțelepciune blândă ce i se citește în privire, mă trezește în fiecare dimineață, înainte ca arșița să pună stăpânire pe ulițe, pentru a merge împreună la cosit. Deși munca fizică este solicitantă, satisfacția de a vedea căpițele de fân ridicându-se mândre sub soarele amiezii este imensă, oferindu-mi o lecție despre valoarea trudei. Între timp, bunica, sufletul neobosit al casei, pregătește în bucătăria de vară cele mai gustoase bucate tradiționale: plăcinte cu brânză sărată, mămăligă aburindă și lapte proaspăt, muls chiar în acea dimineață. După-amiezile sunt rezervate explorării livezii imense, pline de meri, pruni și peri încărcați de rod, sau scăldatului în râul răcoros ce traversează marginea satului. Seara, când răcoarea începe să se lase, ne adunăm cu toții pe prispă, sub un cer înstelat cum rar poți vedea la oraș. Bunicul ne deapănă amintiri din tinerețea lui, povești despre strămoși și despre cum s-a transformat comunitatea de-a lungul deceniilor. Aceste momente petrecute la țară mă învață să prețuiesc simplitatea, respectul față de pământ și legăturile profunde de familie. Este locul unde îmi regăsesc echilibrul interior și unde înțeleg că fericirea nu depinde de tehnologie, ci de conexiunea autentică cu natura și cu cei dragi. Fiecare plecare spre oraș este însoțită de o ușoară melancolie, dar și de promisiunea că mă voi întoarce mereu la rădăcinile mele.",
+    questions: [
+      { type: "mcq", question: "Unde este situată casa bunicilor?", options: ["La munte, la mare altitudine", "La mare", "Într-un sat la poalele dealurilor", "În centrul unei metropole"], correct: 2 },
+      { type: "mcq", question: "Ce activitate face naratorul împreună cu bunicul dimineața?", options: ["Merg la pescuit pe lac", "Merg la cosit fânul", "Repară gardul grădinii", "Culeg fructe din livadă"], correct: 1 },
+      { type: "mcq", question: "Ce pregătește bunica în bucătăria de vară?", options: ["Pizza și paste italienești", "Plăcinte cu brânză și mămăligă", "Hamburgeri", "Supă de fructe de mare"], correct: 1 },
+      { type: "mcq", question: "Unde se adună familia seara pentru a povesti?", options: ["În fața televizorului", "Pe prispă, sub cerul înstelat", "În grădina de legume", "La râul din marginea satului"], correct: 1 },
+      { type: "mcq", question: "Ce învață naratorul din experiența la țară?", options: ["Să folosească tehnologia mai bine", "Să prețuiască simplitatea și munca", "Să devină un sportiv mai bun", "Să gătească mâncare modernă"], correct: 1 },
+      { type: "typing", question: "Ce fructe se găsesc în livada bunicilor?", answer: "meri, pruni și peri" },
+      { type: "typing", question: "Cum se numește locul unde stau bunicii seara să povestească?", answer: "prispa" },
+    ],
+  },
+  {
+    title: "Noi orizonturi în clasa a șaptea",
+    text: "Trecerea în clasa a șaptea a reprezentat pentru mine un prag psihologic important, marcând mijlocul perioadei de gimnaziu și aducând cu sine o maturizare vizibilă a responsabilităților școlare. Prima zi de școală nu a mai fost doar o simplă reîntâlnire festivă, ci începutul unui an decisiv, în care materiile devin mai complexe și cerințele profesorilor mai ridicate. Curtea școlii era inundată de o mare de elevi, dar noi, cei de clasa a șaptea, ne simțeam deja veterani ai coridoarelor, privindu-i cu o ușoară nostalgie pe bobocii de clasa a cincea. Reîntâlnirea cu colegii a fost plină de efervescență; am observat cu uimire cât de mult s-au schimbat unii dintre noi peste vară, nu doar fizic, ci și în interese și preocupări. Dirigintele nostru, un profesor de matematică riguros dar corect, ne-a întâmpinat cu un discurs pragmatic despre importanța constanței în învățare, avertizându-ne că acest an pune bazele pentru examenele viitoare. Am primit cu un amestec de curiozitate și teamă noul orar, care includea discipline noi și provocatoare, precum fizica și chimia, materii care promiteau să ne dezvăluie legile fundamentale ale universului. Laboratoarele școlii, cu eprubetele și instrumentele lor misterioase, au devenit brusc puncte de atracție majoră. Deși volumul de muncă se anunța a fi unul considerabil, simțeam o dorință reală de a explora aceste noi domenii ale cunoașterii. Prima zi de școală mi-a oferit nu doar manuale noi, cu mirosul lor inconfundabil de tipar, ci și încrederea că, prin organizare și perseverență, voi reuși să fac față tuturor provocărilor academice și să leg prietenii și mai strânse cu cei din jurul meu.",
+    questions: [
+      { type: "mcq", question: "În ce clasă a trecut naratorul?", options: ["Clasa a VI-a", "Clasa a VII-a", "Clasa a VIII-a", "Clasa a V-a"], correct: 1 },
+      { type: "mcq", question: "Ce materie predă dirigintele clasei?", options: ["Limba română", "Istorie", "Matematică", "Geografie"], correct: 2 },
+      { type: "mcq", question: "Care sunt materiile noi menționate în text?", options: ["Muzica și desenul", "Fizica și chimia", "Informatica și biologia", "Limba engleză și franceză"], correct: 1 },
+      { type: "mcq", question: "Cum se simțeau elevii de clasa a șaptea față de cei de a cincea?", options: ["Speriați", "Indiferenți", "Ca niște veterani, cu nostalgie", "Invidioși"], correct: 2 },
+      { type: "mcq", question: "Ce locuri din școală au devenit puncte de atracție?", options: ["Sala de sport", "Cantina", "Laboratoarele", "Biblioteca"], correct: 2 },
+      { type: "typing", question: "Cum se numesc elevii care încep clasa a cincea?", answer: "boboci" },
+      { type: "typing", question: "Ce document conține programul zilnic al lecțiilor?", answer: "orarul" },
+    ],
+  },
+  {
+    title: "Crăciunul în Maramureș",
+    text: "Dintre toate sărbătorile anului, Crăciunul petrecut în Maramureș rămâne pentru mine experiența supremă a spiritualității și a tradiției românești autentice. Acolo, iarna nu este doar un anotimp, ci un decor de basm, cu troiene înalte și păduri de brazi îmbrăcate în mantii grele de zăpadă. Pregătirile încep cu mult timp înainte, dar atmosfera devine cu adevărat magică în Ajun. Mirosul de cetină proaspătă se împletește în casele de lemn cu aroma inconfundabilă a cozonacilor pufoși, a sarmalelor ce fierb încet în oale de lut și a fripturii condimentate. Momentul cel mai așteptat este colindatul. Grupuri de tineri îmbrăcați în costume populare superbe, cu sumane groase și căciuli de astrahan, pornesc prin zăpada scârțâitoare pentru a vesti Nașterea Domnului. Sunetul clopoțeilor și vocile lor puternice, ce interpretează colinde vechi de secole, creează o vibrație ce pare să unească pământul cu cerul. Gazdele îi primesc cu brațele deschise, oferindu-le colaci împletiți, mere roșii și nuci, într-un ritual al ospitalității ce nu s-a schimbat de generații. În interiorul caselor, bradul împodobit cu globuri și beteală strălucește lângă icoanele vechi, iar familia se adună în jurul mesei festive, mulțumind pentru anul ce a trecut. Dincolo de cadourile materiale, Crăciunul în Maramureș este despre bunătate, despre iertare și despre păstrarea nealterată a identității noastre culturale. Este o lecție vie despre cum tradiția poate oferi sens și căldură într-o lume tot mai grăbită. Această sărbătoare mă încarcă mereu cu o energie pozitivă și îmi reamintește că cele mai prețioase lucruri în viață sunt cele care nu pot fi cumpărate: dragostea celor dragi și pacea sufletească.",
+    questions: [
+      { type: "mcq", question: "În ce regiune a României este plasată acțiunea?", options: ["Banat", "Moldova", "Maramureș", "Dobrogea"], correct: 2 },
+      { type: "mcq", question: "Ce arome sunt menționate ca făcând parte din atmosfera casei?", options: ["Miros de brad și flori de primăvară", "Miros de cetină, cozonaci și sarmale", "Miros de ciocolată și vanilie", "Miros de mare și sare"], correct: 1 },
+      { type: "mcq", question: "Cum sunt îmbrăcați colindătorii?", options: ["În haine moderne de iarnă", "În costume populare cu sumane și căciuli de astrahan", "În costume de carnaval", "În uniforme școlare"], correct: 1 },
+      { type: "mcq", question: "Ce primesc colindătorii de la gazde?", options: ["Bani și dulciuri moderne", "Colaci, mere și nuci", "Jucării", "Cărți de povești"], correct: 1 },
+      { type: "mcq", question: "Care este semnificația profundă a Crăciunului conform textului?", options: ["Doar primirea cadourilor scumpe", "Bunătatea, iertarea și păstrarea tradițiilor", "Mâncarea din abundență", "Vacanța de la școală"], correct: 1 },
+      { type: "typing", question: "Cum se numește seara de dinaintea Crăciunului?", answer: "Ajunul" },
+      { type: "typing", question: "În ce fel de vase fierb sarmalele pentru a fi mai gustoase?", answer: "oale de lut" },
+    ],
+  },
+  {
+    title: "Ion Creangă și amintirile copilăriei",
+    text: "Ion Creangă rămâne, fără îndoială, cel mai mare povestitor al literaturii române, un maestru al limbajului popular care a reușit să transforme experiențele sale de viață în literatură universală. Capodopera sa, 'Amintiri din copilărie', nu este doar o simplă relatare a anilor petrecuți în satul natal, Humulești, ci o evocare magistrală a vârstei de aur a omului. Prin personajul Nică, Creangă ne introduce într-o lume plină de farmec, unde peripețiile se succed cu o viteză uimitoare: de la furatul cireșelor de la mătușa Mărioara, până la pățania cu pupăza din tei sau scăldatul în râul Ozana. Stilul său este inconfundabil, presărat cu zicători, proverbe și regionalisme moldovenești care dau textului o savoare unică. Creangă nu doar povestește, ci creează un univers în care natura și omul trăiesc într-o armonie perfectă, iar umorul este instrumentul principal prin care sunt depășite micile drame ale copilăriei. Dincolo de aspectul ludic, opera sa reflectă valorile morale ale satului românesc tradițional: respectul față de părinți, importanța învățăturii și legătura indisolubilă cu locurile natale. Nică reprezintă copilul universal, cu toate năzbâtiile, temerile și bucuriile sale, făcând ca lectura 'Amintirilor' să fie o experiență fascinantă pentru cititorii de toate vârstele. Ion Creangă a reușit performanța de a scrie o operă care, deși profund ancorată în realitatea locală a Moldovei de secol XIX, vorbește despre teme general umane, rămânând la fel de actuală și astăzi. Studiul operei sale în clasa a șaptea ne ajută să înțelegem bogăția limbii române și să prețuim moștenirea culturală lăsată de acest 'Homer al nostru', așa cum a fost numit de criticii literari.",
+    questions: [
+      { type: "mcq", question: "Care este satul natal al lui Ion Creangă?", options: ["Ipotești", "Humulești", "Mircești", "Lancrăm"], correct: 1 },
+      { type: "mcq", question: "Cum se numește personajul principal din 'Amintiri din copilărie'?", options: ["Ionel", "Nică", "Goe", "Dănilă Prepeleac"], correct: 1 },
+      { type: "mcq", question: "Ce râu trece prin apropierea satului Humulești?", options: ["Siret", "Prut", "Ozana", "Mureș"], correct: 2 },
+      { type: "mcq", question: "Care este trăsătura principală a stilului lui Creangă?", options: ["Limbajul academic și rece", "Umorul și folosirea proverbelor populare", "Tristețea profundă", "Absența dialogului"], correct: 1 },
+      { type: "mcq", question: "Ce pasăre apare într-una dintre cele mai faimoase pățanii ale lui Nică?", options: ["O rândunică", "O barză", "O pupăză", "Un vultur"], correct: 2 },
+      { type: "typing", question: "Cum se numește mătușa de la care Nică a furat cireșe?", answer: "Mărioara" },
+      { type: "typing", question: "În ce secol a trăit și a scris Ion Creangă?", answer: "secolul XIX" },
+    ],
+  },
+  {
+    title: "Expresul de munte: O călătorie spre Brașov",
+    text: "Călătoria cu trenul pe ruta București-Brașov reprezintă pentru mine una dintre cele mai fascinante experiențe de transport, oferind un spectacol vizual de neegalat asupra diversității reliefului românesc. Totul începe în forfota Gării de Nord, un loc încărcat de istorie și de emoția plecărilor, unde sute de călători se grăbesc spre peroane. Odată urcat în vagonul modern, simt cum agitația metropolei se estompează, lăsând loc unei stări de anticipare plăcută. Imediat ce trenul părăsește câmpia și începe ascensiunea spre Valea Prahovei, peisajul se transformă radical sub ochii mei. Privind prin fereastra largă, pot observa cum râul Prahova șerpuiește nervos printre stânci, însoțind calea ferată în efortul său de a cuceri muntele. Munții Bucegi se înalță impunători de o parte, cu vârfurile lor adesea învăluite în nori misterioși, în timp ce Munții Baiului strălucesc sub razele soarelui de cealaltă parte. Trenul trece prin tuneluri întunecate și peste viaducte înalte, oferind perspective amețitoare asupra prăpăstiilor și a pădurilor de conifere care par nesfârșite. Unul dintre momentele mele preferate este oprirea în gara din Sinaia, o bijuterie arhitecturală care amintește de eleganța perioadei regale. De aici, se poate zări pentru o clipă silueta maiestuoasă a Castelului Peleș, strălucind printre brazi ca într-o ilustrație de basm. Pe măsură ce înaintăm spre Predeal, cel mai înalt punct al traseului feroviar, aerul devine mai rece și mai proaspăt, iar zgomotul ritmic al roților pe șine capătă o rezonanță aparte în liniștea înălțimilor. Călătoria cu trenul este mult mai relaxantă decât cea cu mașina, oferindu-ți libertatea de a admira natura în toată splendoarea ei, fără stresul traficului, și rămâne un mod ecologic și plin de farmec de a descoperi frumusețile țării.",
+    questions: [
+      { type: "mcq", question: "De unde începe călătoria cu trenul descrisă în text?", options: ["Gara de Est", "Gara de Nord", "Gara Centrală", "Aeroport"], correct: 1 },
+      { type: "mcq", question: "Ce râu însoțește calea ferată pe Valea Prahovei?", options: ["Oltul", "Prahova", "Mureșul", "Siretul"], correct: 1 },
+      { type: "mcq", question: "Care este cel mai înalt punct al traseului feroviar menționat?", options: ["Sinaia", "Predeal", "Bușteni", "Azuga"], correct: 1 },
+      { type: "mcq", question: "Ce castel poate fi zărit din tren la Sinaia?", options: ["Castelul Bran", "Castelul Peleș", "Castelul Corvinilor", "Cetatea Neamțului"], correct: 1 },
+      { type: "mcq", question: "De ce preferă naratorul trenul în locul mașinii?", options: ["Este mai rapid", "Este mai ieftin", "Este mai relaxant și ecologic", "Are mâncare mai bună"], correct: 2 },
+      { type: "typing", question: "Cum se numește muntele care domină orașul Brașov?", answer: "Tâmpa" },
+      { type: "typing", question: "Ce tip de păduri predomină în zona montană înaltă?", answer: "conifere" },
+    ],
+  },
+  {
+    title: "Simfonia toamnei în natură",
+    text: "Toamna este, fără îndoială, cel mai melancolic dar și cel mai colorat anotimp, transformând natura într-o veritabilă galerie de artă în aer liber. Totul începe cu o schimbare subtilă a temperaturii și cu scurtarea vizibilă a zilelor, semn că vara și-a luat rămas bun. Frunzele copacilor, care până mai ieri erau de un verde crud, încep să îmbrace nuanțe incredibile de galben pai, portocaliu aprins și roșu purpuriu, creând un contrast spectaculos cu cerul adesea plumburiu. În pădure, covorul de frunze uscate foșnește sub picioare la fiecare pas, eliberând un miros specific de pământ reavăn și ciuperci, un parfum inconfundabil al acestui anotimp. Este perioada recoltei, când livezile sunt pline de fructe coapte: mere parfumate, pere zemoase și struguri dulci care așteaptă să fie culeși pentru a fi transformați în must. Păsările călătoare se adună în stoluri mari, desenând forme geometrice pe cerul vast, pregătindu-se pentru lunga și dificila călătorie spre țările calde. Deși ploile devin mai dese și vântul mai tăios, toamna are o frumusețe aparte, invitându-ne la introspecție și la aprecierea bogăției pământului. Este un timp al pregătirii pentru somnul lung al iernii, un ciclu natural necesar pentru regenerarea vieții în anul ce va veni. Toamna ne învață că fiecare sfârșit poartă în sine sămânța unui nou început și că schimbarea, deși uneori tristă, poate fi extrem de frumoasă și necesară. Lumina soarelui, mai palidă și mai blândă, mângâie peisajul arămiu, oferind momente de o liniște profundă înainte de instalarea primului îngheț. Pentru mine, toamna rămâne anotimpul reflecției, al culorilor calde și al recunoștinței pentru darurile generoase ale naturii.",
+    questions: [
+      { type: "mcq", question: "Ce culori îmbracă frunzele copacilor toamna?", options: ["Verde și albastru", "Galben, portocaliu și roșu purpuriu", "Alb și gri", "Negru și mov"], correct: 1 },
+      { type: "mcq", question: "Ce fructe sunt menționate ca fiind specifice recoltei de toamnă?", options: ["Căpșuni și cireșe", "Mere, pere și struguri", "Portocale și lămâi", "Pepeni verzi"], correct: 1 },
+      { type: "mcq", question: "Ce fac păsările călătoare în acest anotimp?", options: ["Își construiesc cuiburi noi", "Se pregătesc de plecare spre țările calde", "Încep să cânte mai tare", "Dorm pe tot parcursul zilei"], correct: 1 },
+      { type: "mcq", question: "Care este atmosfera generală a toamnei conform textului?", options: ["Veselă și agitată", "Melancolică dar colorată și plină de bogăție", "Plictisitoare și monotonă", "Friguroasă și lipsită de viață"], correct: 1 },
+      { type: "mcq", question: "Ce ne învață toamna conform autorului?", options: ["Că trebuie să stăm doar în casă", "Că schimbarea poate fi frumoasă și necesară", "Că natura moare definitiv", "Că nu mai există speranță"], correct: 1 },
+      { type: "typing", question: "Cum se numește perioada când se adună fructele și legumele?", answer: "recolta" },
+      { type: "typing", question: "Ce băutură dulce se face din struguri proaspăt storși?", answer: "must" },
+    ],
+  },
+];
+
+// ─── CLASA 8: TODO Texte vor fi adăugate mai târziu
 
 const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
   1: PASSAGES_CLASA_1,
@@ -721,7 +829,7 @@ const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
   4: PASSAGES_CLASA_4,
   5: PASSAGES_CLASA_5,
   6: PASSAGES_CLASA_6,
-  7: [],
+  7: PASSAGES_CLASA_7,
   8: [],
 };
 
