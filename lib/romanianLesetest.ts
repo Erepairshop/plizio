@@ -420,13 +420,105 @@ const PASSAGES_CLASA_3: ReadingPassage[] = [
   },
 ];
 
-// ─── CLASA 4–8: TODO Texte vor fi adăugate mai târziu
+// ─── CLASA 4 ─── (200-300 cuvinte · structuri complexe, teme diverse)
+const PASSAGES_CLASA_4: ReadingPassage[] = [
+  {
+    title: "Max, prietenul meu cel mai bun",
+    text: "Max nu este doar un simplu câine, ci un membru cu drepturi depline al familiei noastre. L-am primit cadou când am împlinit opt ani și de atunci suntem nedespărțiți. Este un Golden Retriever cu o blană aurie și mătăsoasă, care strălucește în lumina soarelui. Ochii lui căprui par să înțeleagă tot ce îi spun, iar coada lui nu se oprește niciodată din dat atunci când mă vede intrând pe poartă. În fiecare după-amiază, după ce îmi termin temele, mergem împreună în parcul din apropiere. Max adoră să alerge după mingea de tenis pe care i-o arunc cât pot de departe. Uneori, se întâlnește cu alți câini și se joacă împreună, dar mereu stă cu ochii pe mine, asigurându-se că nu m-am îndepărtat prea tare. Într-o zi, Max a dat dovadă de o inteligență uimitoare. Eram la bunici, lângă un râu, și mi-am scăpat șapca preferată în apă. Fără să stea pe gânduri, Max a sărit în râu, a înotat contra curentului și a recuperat șapca, aducând-o mândru la mal. Toată lumea l-a lăudat, iar eu i-am oferit o recompensă specială. Seara, Max doarme pe un covoraș lângă patul meu, iar prezența lui mă face să mă simt în siguranță. Este uimitor cum un animal poate oferi atâta iubire necondiționată și loialitate.",
+    questions: [
+      { type: "mcq", question: "Ce rasă este câinele Max?", options: ["Ciobănesc German", "Golden Retriever", "Labrador", "Beagle"], correct: 1 },
+      { type: "mcq", question: "Când l-a primit naratorul pe Max?", options: ["La Crăciun", "Când a împlinit opt ani", "În prima zi de școală", "În vacanța de vară"], correct: 1 },
+      { type: "mcq", question: "Ce obiect a recuperat Max din râu?", options: ["O minge", "O șapcă", "Un băț", "O jucărie"], correct: 1 },
+      { type: "mcq", question: "Unde doarme Max noaptea?", options: ["În curte", "În bucătărie", "Pe un covoraș lângă patul naratorului", "Pe canapea"], correct: 2 },
+      { type: "typing", question: "Cum se numește câinele din poveste?", answer: "Max" },
+    ],
+  },
+  {
+    title: "O zi de neuitat în pădurea de munte",
+    text: "Sâmbăta trecută, am plecat împreună cu părinții mei într-o drumeție în pădurea de la poalele Munților Făgăraș. Aerul era proaspăt și răcoros, purtând cu el mirosul inconfundabil de rășină și pământ reavăn. Pe măsură ce urcam pe poteca îngustă, foșnetul frunzelor sub picioarele noastre crea o melodie relaxantă. Tata ne-a explicat că pădurea este plină de viață, chiar dacă nu vedem mereu animalele. Ne-am oprit lângă un izvor cu apă cristalină pentru a ne odihni. Apa era atât de rece încât ne-au înghețat degetele când am încercat să bem. În liniștea pădurii, am auzit dintr-odată un ciocănit ritmic. Era o ciocănitoare harnică, care căuta insecte în scoarța unui bătrân stejar. Mai târziu, am avut norocul să zărim o căprioară grațioasă care traversa o poieniță plină de flori sălbatice. S-a oprit pentru o secundă, ne-a privit cu ochii ei mari și negri, apoi a dispărut rapid printre copaci. Mama a făcut multe fotografii pentru a păstra aceste amintiri. La prânz, am mâncat sandvișuri pe o stâncă mare, admirând panorama văii de jos. Această zi în natură m-a învățat cât de important este să protejăm mediul înconjurător și să respectăm liniștea pădurii.",
+    questions: [
+      { type: "mcq", question: "Unde au mers în drumeție?", options: ["La mare", "În Munții Făgăraș", "În Delta Dunării", "La bunici"], correct: 1 },
+      { type: "mcq", question: "Ce sunet au auzit în liniștea pădurii?", options: ["Un lup urlând", "O ciocănitoare", "Un râu curgând", "Vântul puternic"], correct: 1 },
+      { type: "mcq", question: "Ce animal au zărit în poieniță?", options: ["Un urs", "O căprioară", "Un iepure", "O vulpe"], correct: 1 },
+      { type: "mcq", question: "Unde au mâncat prânzul?", options: ["La un restaurant", "Pe o stâncă mare", "În mașină", "Lângă izvor"], correct: 1 },
+      { type: "typing", question: "Ce pasăre căuta insecte în scoarța copacului?", answer: "ciocănitoarea" },
+    ],
+  },
+  {
+    title: "Vacanța la bunicii din Maramureș",
+    text: "În fiecare vară, abia aștept să merg în vacanță la bunicii mei care locuiesc într-un sat pitoresc din Maramureș. Acolo, timpul pare să curgă mai lent, iar tradițiile sunt păstrate cu sfințenie. Casa bunicilor este veche, construită din lemn, cu o poartă imensă sculptată manual, specifică zonei. Bunicul este un meșter priceput și petrece mult timp în atelierul său, unde transformă bucățile de lemn în obiecte de artă. Bunica, pe de altă parte, este regina bucătăriei. Nimic nu se compară cu mirosul plăcintelor cu brânză proaspăt scoase din cuptor sau cu gustul laptelui proaspăt muls. Diminețile încep devreme la țară. Îl ajut pe bunicul să dea mâncare la găini și să aducă apă pentru văcuța noastră, Florica. După-amiezile sunt dedicate explorării dealurilor din împrejurimi, unde culeg fragi și mure împreună cu copiii din sat. Duminica, toată lumea se îmbracă în costume populare și merge la biserica de lemn din centrul satului. Este un spectacol de culori și broderii lucrate manual. Bunica mi-a promis că anul acesta mă va învăța și pe mine să cos câteva modele tradiționale pe o pânză albă. Această vacanță mă încarcă mereu cu energie și mă face să prețuiesc rădăcinile familiei mele.",
+    questions: [
+      { type: "mcq", question: "În ce zonă a României locuiesc bunicii?", options: ["Moldova", "Maramureș", "Banat", "Dobrogea"], correct: 1 },
+      { type: "mcq", question: "Din ce material este construită casa bunicilor?", options: ["Cărămidă", "Lemn", "Piatră", "Beton"], correct: 1 },
+      { type: "mcq", question: "Cum se numește văcuța bunicilor?", options: ["Joiana", "Florica", "Steluța", "Bălana"], correct: 1 },
+      { type: "mcq", question: "Ce fac oamenii duminica în sat?", options: ["Merg la târg", "Se îmbracă în costume populare și merg la biserică", "Lucrează la câmp", "Stau acasă"], correct: 1 },
+      { type: "typing", question: "Ce fructe culege naratorul de pe dealuri?", answer: "fragi și mure" },
+    ],
+  },
+  {
+    title: "Emoțiile primei zile de școală",
+    text: "Prima zi de școală a sosit cu un amestec de entuziasm și emoții puternice. Deși sunt deja în clasa a patra, inima îmi bătea cu putere în timp ce îmi pregăteam ghiozdanul nou. Mi-am ales cu grijă hainele, dorind să arăt cât mai bine pentru reîntâlnirea cu colegii și doamna învățătoare. Curtea școlii era plină de copii veseli, părinți emoționați și buchete imense de flori colorate. Muzica răsuna în difuzoare, creând o atmosferă de sărbătoare. Când am văzut-o pe cea mai bună prietenă a mea, Maria, am alergat spre ea și ne-am îmbrățișat cu drag, povestindu-ne pe scurt aventurile din vacanța de vară. Doamna învățătoare ne-a întâmpinat cu un zâmbet cald la intrarea în clasă. Pe bănci ne așteptau manualele noi, cu miros proaspăt de tipar, și câte o mică surpriză dulce. Am vorbit despre planurile noastre pentru acest an școlar și despre cât de important este să fim uniți și să ne ajutăm reciproc. Deși vacanța s-a terminat, sunt fericit să mă întorc la școală, unde mă așteaptă noi provocări și lecții interesante. Știu că acest an va fi unul special, plin de descoperiri și prietenii consolidate.",
+    questions: [
+      { type: "mcq", question: "În ce clasă este naratorul?", options: ["Clasa a II-a", "Clasa a IV-a", "Clasa a III-a", "Clasa I"], correct: 1 },
+      { type: "mcq", question: "Cum se numește cea mai bună prietenă a naratorului?", options: ["Elena", "Maria", "Ioana", "Andreea"], correct: 1 },
+      { type: "mcq", question: "Ce se afla pe bănci în prima zi?", options: ["Doar caiete", "Manualele noi și o surpriză dulce", "Jucării", "Nimic"], correct: 1 },
+      { type: "mcq", question: "Care era atmosfera în curtea școlii?", options: ["Tristă", "De sărbătoare", "Liniștită", "Agitată"], correct: 1 },
+      { type: "typing", question: "Cine i-a întâmpinat pe copii cu un zâmbet la intrarea în clasă?", answer: "doamna învățătoare" },
+    ],
+  },
+  {
+    title: "Tradiții de Paște în familia noastră",
+    text: "Sărbătoarea Paștelui este una dintre cele mai frumoase perioade din an, plină de lumină și bucurie. Pregătirile încep cu mult timp înainte, dar săptămâna mare este cea mai aglomerată. Mama și bunica se ocupă de curățenia generală, în timp ce eu și tata le ajutăm cu ce putem. Joia Mare este ziua dedicată înroșirii ouălor. Îmi place la nebunie să folosesc coji de ceapă și frunze de leuștean pentru a crea modele naturale pe ouăle fierbinți. Mirosul de cozonac proaspăt copt umple întreaga casă, vestind apropierea sărbătorii. În noaptea de Înviere, mergem cu toții la biserică pentru a lua Lumină. Este un moment solemn, când sute de lumânări se aprind în întuneric, iar oamenii își spun 'Hristos a înviat!'. Duminică dimineața, ne adunăm cu toții în jurul mesei festive. Începem masa prin ciocnirea ouălor roșii, un concurs pe care îl iau foarte în serios. Cel al cărui ou nu se sparge este declarat câștigător. Mâncăm drob, friptură de miel și pască cu brânză dulce. Dincolo de mâncarea delicioasă, Paștele este despre timpul petrecut cu cei dragi și despre recunoștință. Este o tradiție care ne unește și ne amintește de valorile importante ale vieții.",
+    questions: [
+      { type: "mcq", question: "În ce zi se înroșesc de obicei ouăle?", options: ["Luni", "Joia Mare", "Sâmbătă", "Vineri"], correct: 1 },
+      { type: "mcq", question: "Ce folosește naratorul pentru a decora ouăle?", options: ["Vopsea chimică", "Coji de ceapă și frunze de leuștean", "Autocolante", "Markere"], correct: 1 },
+      { type: "mcq", question: "Ce spun oamenii în noaptea de Înviere?", options: ["Bună seara!", "Hristos a înviat!", "La mulți ani!", "Sărbători fericite!"], correct: 1 },
+      { type: "mcq", question: "Care este desertul tradițional menționat?", options: ["Tort de ciocolată", "Pască cu brânză dulce", "Înghețată", "Clătite"], correct: 1 },
+      { type: "typing", question: "Ce activitate distractivă fac membrii familiei la începutul mesei de duminică?", answer: "ciocnitul ouălor" },
+    ],
+  },
+  {
+    title: "Ștefan cel Mare, apărătorul Moldovei",
+    text: "Ștefan cel Mare a fost unul dintre cei mai importanți și iubiți domnitori ai Moldovei, conducând țara timp de 47 de ani, între 1457 și 1504. Este cunoscut în istorie pentru curajul său incredibil și pentru numeroasele bătălii purtate împotriva Imperiului Otoman, a polonezilor și a maghiarilor, pentru a păstra independența țării sale. Se spune că după fiecare victorie importantă, Ștefan ridica o biserică sau o mănăstire, lăsând în urmă o moștenire culturală și spirituală impresionantă. Printre cele mai faimoase ctitorii ale sale se numără Mănăstirea Putna, unde se află și mormântul său. Ștefan nu era doar un mare războinic, ci și un bun gospodar. El a întărit cetățile Moldovei, precum Cetatea Neamțului sau Cetatea Albă, și a încurajat comerțul și agricultura. Poporul l-a numit 'cel Mare' pentru faptele sale de vitejie și 'Sfânt' pentru evlavia sa. Chiar și marii săi dușmani îi recunoșteau calitățile de lider și strateg. Astăzi, statuile sale pot fi găsite în multe orașe din România și Republica Moldova, amintindu-ne de o perioadă de glorie a istoriei noastre. Povestea lui Ștefan cel Mare ne învață despre dragostea de țară, demnitate și perseverență în fața greutăților.",
+    questions: [
+      { type: "mcq", question: "Câți ani a condus Ștefan cel Mare Moldova?", options: ["20 de ani", "47 de ani", "10 ani", "35 de ani"], correct: 1 },
+      { type: "mcq", question: "Ce obișnuia să facă Ștefan după o victorie?", options: ["Organiza o petrecere", "Ridica o biserică sau o mănăstire", "Pleca în vacanță", "Mărea taxele"], correct: 1 },
+      { type: "mcq", question: "Unde se află mormântul lui Ștefan cel Mare?", options: ["La București", "La Mănăstirea Putna", "La Iași", "La Cetatea Neamțului"], correct: 1 },
+      { type: "mcq", question: "Ce cetăți a întărit domnitorul?", options: ["Cetatea Neamțului și Cetatea Albă", "Castelul Bran", "Cetatea de Scaun a Sucevei", "Toate cele de mai sus"], correct: 0 },
+      { type: "typing", question: "Cum l-a numit poporul pe Ștefan pentru faptele sale de vitejie?", answer: "cel Mare" },
+    ],
+  },
+  {
+    title: "O călătorie memorabilă cu trenul spre mare",
+    text: "Vacanța de vară a început cu o aventură pe care o așteptam de luni de zile: prima mea călătorie lungă cu trenul spre litoralul Mării Negre. Ne-am trezit dis-de-dimineață, când soarele abia începea să mijească, și am plecat spre Gara de Nord. Gara era un furnicar de oameni cu geamantane mari, toți grăbiți să prindă trenul spre destinațiile lor. Când trenul nostru, 'Săgeata Albastră', a tras la peron, am simțit un fior de emoție. Ne-am ocupat locurile în compartimentul curat și spațios. Imediat ce trenul a pornit, am început să privesc pe fereastră. Peisajul se schimba rapid: de la blocurile înalte ale orașului, la câmpuri nesfârșite de floarea-soarelui care păreau să ne salute cu pălăriile lor galbene. Tata mi-a cumpărat o revistă și câteva gustări de la vagonul restaurant, dar eu eram prea captivat de drum. Am trecut peste podurile impunătoare de la Cernavodă, admirând Dunărea care curgea liniștită dedesubt. După câteva ore, aerul a început să miroasă a sare și a libertate. Când am zărit prima fâșie de albastru la orizont, am știut că am ajuns. Călătoria cu trenul a fost relaxantă și mi-a oferit ocazia să văd frumusețea țării mele într-un mod diferit.",
+    questions: [
+      { type: "mcq", question: "De unde a plecat trenul?", options: ["Gara de Est", "Gara de Nord", "Gara Centrală", "Aeroport"], correct: 1 },
+      { type: "mcq", question: "Cum se numea trenul menționat?", options: ["Orient Express", "Săgeata Albastră", "Trenul Regal", "InterCity"], correct: 1 },
+      { type: "mcq", question: "Ce peisaj a admirat naratorul pe fereastră?", options: ["Munți înalți", "Câmpuri de floarea-soarelui", "Păduri dese", "Deșert"], correct: 1 },
+      { type: "mcq", question: "Peste ce râu au trecut pe podurile de la Cernavodă?", options: ["Olt", "Dunărea", "Mureș", "Prut"], correct: 1 },
+      { type: "typing", question: "Ce a zărit naratorul la orizont, semn că au ajuns la destinație?", answer: "marea" },
+    ],
+  },
+  {
+    title: "Spectacolul toamnei în parcul orașului",
+    text: "Toamna s-a instalat pe nesimțite în orașul nostru, transformând parcul într-un tablou viu, pictat în nuanțe de arămiu, auriu și roșu aprins. Aerul a devenit mai tăios, iar zilele s-au scurtat, dar frumusețea acestui anotimp este de neegalat. Într-o după-amiază de duminică, am ieșit la plimbare împreună cu sora mea mai mică. Aleile parcului erau acoperite de un covor gros de frunze uscate care foșneau plăcut la fiecare pas. Copiii se jucau veseli, aruncând frunzele în aer și râzând cu gura până la urechi. Am găsit câteva castane lucioase și ghinde pe care le-am adunat într-o punguță pentru proiectul de la școală. Veverițele grăbite alergau de pe un ram pe altul, făcându-și provizii pentru iarna ce va veni. Pe lacul din mijlocul parcului, câteva rațe sălbatice înotau liniștite, ignorând răcoarea apei. Oamenii se plimbau agale, înfofoliți în fulare colorate, bucurându-se de ultimele raze călduțe ale soarelui de octombrie. Deși toamna aduce cu ea ploi și vânt, momentele petrecute în parc ne amintesc de magia schimbării și de bogăția naturii. Este un timp al reflecției și al pregătirii pentru un nou ciclu al vieții.",
+    questions: [
+      { type: "mcq", question: "Ce culori predomină în parcul toamna?", options: ["Verde și albastru", "Arămiu, auriu și roșu", "Alb și gri", "Negru și mov"], correct: 1 },
+      { type: "mcq", question: "Ce au adunat copiii pentru proiectul de la școală?", options: ["Flori uscate", "Castane și ghinde", "Pietre colorate", "Bețe"], correct: 1 },
+      { type: "mcq", question: "Ce animale își făceau provizii pentru iarnă?", options: ["Câinii", "Veverițele", "Pisicile", "Păsările"], correct: 1 },
+      { type: "mcq", question: "Unde înotau rațele sălbatice?", options: ["În râu", "Pe lacul din mijlocul parcului", "Într-o piscină", "Pe mare"], correct: 1 },
+      { type: "typing", question: "Ce lună este menționată în text?", answer: "octombrie" },
+    ],
+  },
+];
+
+// ─── CLASA 5–8: TODO Texte vor fi adăugate mai târziu
 
 const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
   1: PASSAGES_CLASA_1,
   2: PASSAGES_CLASA_2,
   3: PASSAGES_CLASA_3,
-  4: [],
+  4: PASSAGES_CLASA_4,
   5: [],
   6: [],
   7: [],
