@@ -61,7 +61,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Discover Animals",    hu: "Állatok felfedezése",      de: "Tiere entdecken",            ro: "Descoperă animale"         } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { en: "Animal Sorting",     hu: "Állatok rendezése",        de: "Tiere sortieren",            ro: "Sortează animale"          } },
-      { id: "m3", category: "challenge", gameType: "true-false-blitz", icon: "⚡", label: { en: "Sound Challenge",    hu: "Hangok kihívása",          de: "Tierlaut-Herausforderung",   ro: "Provocare sunete"          } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "⚡", label: { en: "Sound Challenge",    hu: "Hangok kihívása",          de: "Tierlaut-Herausforderung",   ro: "Provocare sunete"          } },
     ],
     svgX: 90, svgY: 440,
   },
@@ -84,7 +84,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     topicKeys: ["wetter", "jahreszeiten_detail", "monate_tage"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore", icon: "🔍", label: { en: "Weather Explorer",   hu: "Időjárás feltáró",         de: "Wetter-Erkunder",            ro: "Explorator vreme"          } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { en: "Calendar Quiz",      hu: "Naptár kvíz",              de: "Kalenderquiz",              ro: "Quiz calendar"             } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "⚡", label: { en: "Calendar Quiz",      hu: "Naptár kvíz",              de: "Kalenderquiz",              ro: "Quiz calendar"             } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Weather Battle",    hu: "Időjárás csata",           de: "Wetter-Kampf",              ro: "Bătălie vreme"             } },
     ],
     svgX: 100, svgY: 280,
@@ -121,7 +121,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Material Explorer",   hu: "Anyagok feltárása",        de: "Materialien entdecken",      ro: "Descoperă materiale"       } },
       { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🌪️", label: { en: "Waste Sorting",      hu: "Hulladékrendezés",         de: "Müll sortieren",            ro: "Sortare gunoi"             } },
-      { id: "m3", category: "challenge", gameType: "true-false-blitz", icon: "⚡", label: { en: "Recycling Quest",   hu: "Újrahasznosítás küldetés",  de: "Recycling-Quest",           ro: "Misiune reciclare"         } },
+      { id: "m3", category: "challenge", gameType: "black-hole", icon: "⚡", label: { en: "Recycling Quest",   hu: "Újrahasznosítás küldetés",  de: "Recycling-Quest",           ro: "Misiune reciclare"         } },
     ],
     svgX: 210, svgY: 40,
   },
@@ -144,7 +144,7 @@ export const SK_G1_ISLANDS: IslandDef[] = [
     topicKeys: ["körperteile", "haustiere", "wetter", "verkehrsmittel"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sachkunde-k1-explore",   icon: "🔍", label: { en: "Grand Quiz",        hu: "Nagy kvíz",                de: "Großes Quiz",               ro: "Quiz Mare"                 } },
-      { id: "m2", category: "build",     gameType: "true-false-blitz", icon: "⚡", label: { en: "Master Challenge",  hu: "Mester kihívás",           de: "Meister-Herausforderung",   ro: "Provocare maestru"         } },
+      { id: "m2", category: "build",     gameType: "black-hole", icon: "⚡", label: { en: "Master Challenge",  hu: "Mester kihívás",           de: "Meister-Herausforderung",   ro: "Provocare maestru"         } },
       { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Final Match",       hu: "Végső párosítás",          de: "Abschluss-Paarung",          ro: "Pereche finală"            } },
     ],
     svgX: 190, svgY: -100,

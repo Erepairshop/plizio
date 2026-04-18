@@ -333,7 +333,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "true-false-blitz",
+        gameType: "black-hole",
         icon: "⚡",
         category: "build",
         label: {
@@ -398,7 +398,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "true-false-blitz",
+        gameType: "black-hole",
         icon: "⚡",
         category: "challenge",
         label: {
@@ -492,7 +492,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "true-false-blitz",
+        gameType: "black-hole",
         icon: "⚡",
         category: "build",
         label: {
@@ -557,7 +557,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
       },
       {
         id: "m3",
-        gameType: "true-false-blitz",
+        gameType: "black-hole",
         icon: "⚡",
         category: "challenge",
         label: {
@@ -651,7 +651,7 @@ export const SK_G3_ISLANDS: IslandDef[] = [
       },
       {
         id: "m2",
-        gameType: "true-false-blitz",
+        gameType: "black-hole",
         icon: "⚡",
         category: "build",
         label: {
