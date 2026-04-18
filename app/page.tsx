@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, GraduationCap, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
+import HamburgerMenu from "@/components/HamburgerMenu";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
@@ -1050,12 +1051,19 @@ export default function Home() {
 
       {/* Top bar — nav buttons right, language switcher left */}
       <div className="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-3 py-2.5 pointer-events-none">
-        {/* Language switcher — left */}
+        {/* Language switcher + menu — left */}
         <div className="flex items-center gap-2 pointer-events-auto">
           <motion.div
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.4 }}
+          >
+            <HamburgerMenu />
+          </motion.div>
+          <motion.div
+            initial={{ opacity: 0, x: -20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.45 }}
           >
             <LanguageSwitcher />
           </motion.div>
