@@ -77,3 +77,46 @@ Codex három batch-et futtatott és tartalmi hibákat hagyott (rossz subject-kev
 **Komplexitás**: **közepes-nagy** (~1-2 óra, 17 route + type + games map bővítés + possible lang refactor). Nem kritikus, de UX hiba.
 
 **Érintettség**: english/magyar/romana órákon Visual Lab-ot nyitó gyerek német tartalmat kap — zavaró.
+
+---
+
+### B. Visual Lab pool bővítés 10 round/grade-re (2026-04-18)
+
+**Probléma**: A Visual Lab pool-ok vékonyak. Gyerek hamar újra-újra ugyanazokat a round-okat látja.
+
+**Jelenlegi méret**:
+| Pool fájl | Sorok | Round-ok |
+|---|---|---|
+| `lib/visualLab/pools/englishPool.ts` | 128 | ~2-3 meteorCatch (4-lang kész) |
+| `lib/visualLab/pools/magyarPool.ts` | 47 | 1 meteorCatch (4-lang kész) |
+| `lib/visualLab/pools/romanianPool.ts` | 31 | 1 meteorCatch (4-lang kész) |
+| `lib/visualLab/pools/astrodeutschPool.ts` | 48 | 2 round (vokale, artikel) — NEM fordított |
+| `lib/visualLab/pools/astroLanguagePools.ts` | 1000+ | deutsch K1-K8 tipp/wort/artikel/satz/silben/verben (~1-3 round/grade, GERMAN-ONLY `instruction: string`) |
+| `lib/visualLab/pools/biologiePool.ts` | ? | |
+| `lib/visualLab/pools/chemistryPool.ts` | ? | |
+| `lib/visualLab/pools/geographyPool.ts` | ? | |
+| `lib/visualLab/pools/geschichtePool.ts` | ? | |
+| `lib/visualLab/pools/informatikaPool.ts` | ? | |
+| `lib/visualLab/pools/physicsPool.ts` | ? | |
+| `lib/visualLab/pools/sachkundeK1-K4.ts` | ? | |
+
+**Cél**: **10 round / grade minden pool-ban**. 4-lang helyesen fordítva.
+
+**Scope becslés**:
+- `astrodeutschPool` style (subject-generic, 5 játék): 5 játék × 8 grade (ha per-grade) × 10 round = 400 round / subject
+- `astroLanguagePools` style (language-specifikus, 6 játék): 6 × 8 × 10 = 480 round / subject
+- 4 nyelv subject + content subject-ek (bio/kemia/physik/stb) = **több ezer round**
+
+**Batch-stratégia**:
+1. Fázis 1 (english/magyar/romana generic pool): ~400 round — 1 Gemini batch
+2. Fázis 2 (astroLanguagePools fordítás + bővítés 10/grade): 6 játék × 8 grade × 10 round × 4 lang — 3-4 batch
+3. Fázis 3 (content subject pool-ok bővítése 10/grade-re): bio/chem/phys/geo/gesch/math/inf/sachkunde = 8 subject × 5 játék × 8 grade × 10 round = 3200 round — **több batch**
+
+**Összes**: 5-8 Gemini Flash batch, ~1-2 nap aktív munka.
+
+**Bővítési prioritás**:
+- P1: english/magyar/romana generic pool (gyereknek a "saját anyanyelv órája" fontos)
+- P2: astroLanguagePools deutsch content expansion (tipp-sturm K1: 1→10 round/grade)
+- P3: astroLanguagePools 4-lang-ra átalakítás + english/magyar/romana ekvivalens language-games
+- P4: content subject pool-ok (biologie/kemia/physik/stb.)
+- [ ] folyamatban: **P1 megkezdése**
