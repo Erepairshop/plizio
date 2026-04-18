@@ -1,5 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import AstroMathExplorerHybrid from "@/components/AstroMathExplorerHybrid";
 import { useLang } from "@/components/LanguageProvider";
 import {
@@ -31,6 +32,7 @@ import { Lang, MathIslandConfig, MathMissionConfig, MathProgress } from "@/lib/a
 import { MathQuestion } from "@/lib/mathCurriculum";
 
 export default function AstroMathG2Page() {
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
   const [progress, setProgress] = useState<MathProgress | null>(null);
 
@@ -78,7 +80,8 @@ export default function AstroMathG2Page() {
   };
 
   return (
-    <AstroMathExplorerHybrid
+    <>
+      <AstroMathExplorerHybrid
       grade={2}
       gradeLabel={{ en: "Grade 2 · Space Adventure", hu: "2. osztály · Űrkaland", de: "Klasse 2 · Weltraumabenteuer", ro: "Clasa 2 · Aventură spațială" }}
       islands={G2_ISLANDS as any}
@@ -100,5 +103,8 @@ export default function AstroMathG2Page() {
       generateCheckpointQuestions={(testId, lang) => generateCheckpointQuestionsG2(testId, lang as Lang)}
       renderGame={renderGame}
     />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="astromath" grade={2} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+    </>
   );
 }

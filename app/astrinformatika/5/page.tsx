@@ -1,6 +1,8 @@
 "use client";
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
+import { useState } from "react";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import K5Explorer from "@/app/astrinformatika/games/k5/K5Explorer";
 import { useLang } from "@/components/LanguageProvider";
 import {
@@ -20,6 +22,7 @@ import {
 } from "@/lib/astroInformatika5";
 
 export default function AstroInformatikaGrade5Page() {
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
   const subtitle =
     lang === "hu" ? "Számítógép és internet alapjai"
@@ -28,7 +31,8 @@ export default function AstroInformatikaGrade5Page() {
     : "Computer & Internet Grundlagen";
 
   return (
-    <AstroKemiaGradeGame
+    <>
+      <AstroKemiaGradeGame
       grade={5}
       title="AstroInformatika"
       subtitle={subtitle}
@@ -51,5 +55,8 @@ export default function AstroInformatikaGrade5Page() {
       Explorer={K5Explorer}
       visualLabSubject="informatika"
     />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="informatika" grade={5} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+    </>
   );
 }

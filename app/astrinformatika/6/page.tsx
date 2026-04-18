@@ -1,6 +1,8 @@
 "use client";
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
+import { useState } from "react";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import K6Explorer from "@/app/astrinformatika/games/k6/K6Explorer";
 import { useLang } from "@/components/LanguageProvider";
 import {
@@ -20,6 +22,7 @@ import {
 } from "@/lib/astroInformatika6";
 
 export default function AstroInformatikaGrade6Page() {
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
   const subtitle =
     lang === "hu" ? "Hálózatok és prezentáció"
@@ -28,7 +31,8 @@ export default function AstroInformatikaGrade6Page() {
     : "Netzwerke & Präsentationen";
 
   return (
-    <AstroKemiaGradeGame
+    <>
+      <AstroKemiaGradeGame
       grade={6}
       title="AstroInformatika"
       subtitle={subtitle}
@@ -51,5 +55,8 @@ export default function AstroInformatikaGrade6Page() {
       Explorer={K6Explorer}
       visualLabSubject="informatika"
     />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="informatika" grade={6} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+    </>
   );
 }

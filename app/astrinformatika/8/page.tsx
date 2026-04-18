@@ -1,6 +1,8 @@
 "use client";
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
+import { useState } from "react";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import K8Explorer from "@/app/astrinformatika/games/k8/K8Explorer";
 import { useLang } from "@/components/LanguageProvider";
 import {
@@ -20,6 +22,7 @@ import {
 } from "@/lib/astroInformatika8";
 
 export default function AstroInformatikaGrade8Page() {
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
   const subtitle =
     lang === "hu" ? "Hálózatok és kiberbiztonság"
@@ -28,7 +31,8 @@ export default function AstroInformatikaGrade8Page() {
     : "Netzwerke & Cybersicherheit";
 
   return (
-    <AstroKemiaGradeGame
+    <>
+      <AstroKemiaGradeGame
       grade={8}
       title="AstroInformatika"
       subtitle={subtitle}
@@ -51,5 +55,8 @@ export default function AstroInformatikaGrade8Page() {
       Explorer={K8Explorer}
       visualLabSubject="informatika"
     />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="informatika" grade={8} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+    </>
   );
 }

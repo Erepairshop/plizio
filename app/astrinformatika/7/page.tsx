@@ -1,6 +1,8 @@
 "use client";
 
 import AstroKemiaGradeGame from "@/components/AstroKemiaGradeGame";
+import { useState } from "react";
+import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import K7Explorer from "@/app/astrinformatika/games/k7/K7Explorer";
 import { useLang } from "@/components/LanguageProvider";
 import {
@@ -20,6 +22,7 @@ import {
 } from "@/lib/astroInformatika7";
 
 export default function AstroInformatikaGrade7Page() {
+  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
   const subtitle =
     lang === "hu" ? "Programozás és adatbázisok"
@@ -28,7 +31,8 @@ export default function AstroInformatikaGrade7Page() {
     : "Programmierung & Datenbanken";
 
   return (
-    <AstroKemiaGradeGame
+    <>
+      <AstroKemiaGradeGame
       grade={7}
       title="AstroInformatika"
       subtitle={subtitle}
@@ -51,5 +55,8 @@ export default function AstroInformatikaGrade7Page() {
       Explorer={K7Explorer}
       visualLabSubject="informatika"
     />
+      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
+      <VisualLab subject="informatika" grade={7} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+    </>
   );
 }
