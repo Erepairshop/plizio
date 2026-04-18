@@ -21,7 +21,7 @@ import {
   type Lang,
 } from "@/lib/seo/slugs";
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export function generateStaticParams() {
   return SUPPORTED_LANGS.map((lang) => ({
