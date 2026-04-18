@@ -83,6 +83,8 @@ const DE_CHARS = ["A","B","C","Ä","Ö","Ü","ß","!","?",",",".",";","Z","W","R
 const DE_COLORS = ["#FFD700","#FF4444","#00D4FF","#FFFFFF","#B44DFF"];
 
 function LanguageBackground({ chars = DE_CHARS, colors = DE_COLORS }: { chars?: string[]; colors?: string[] }) {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => { setMounted(true); }, []);
   const items = useMemo(() => Array.from({ length: 28 }, (_, i) => ({
     char: chars[i % chars.length],
     x: Math.random() * 100,
@@ -93,6 +95,7 @@ function LanguageBackground({ chars = DE_CHARS, colors = DE_COLORS }: { chars?: 
     color: colors[Math.floor(Math.random() * colors.length)],
     opacity: 0.04 + Math.random() * 0.10,
   })), [chars, colors]);
+  if (!mounted) return null;
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
       {items.map((it, i) => (
