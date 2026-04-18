@@ -512,14 +512,114 @@ const PASSAGES_CLASA_4: ReadingPassage[] = [
   },
 ];
 
-// ─── CLASA 5–8: TODO Texte vor fi adăugate mai târziu
+// ─── CLASA 5 ─── (250-400 cuvinte · structuri complexe, teme diverse)
+const PASSAGES_CLASA_5: ReadingPassage[] = [
+  {
+    title: "Rex, prietenul meu necuvântător",
+    text: "Rex nu este doar un simplu animal de companie, ci un membru loial al familiei noastre de mai bine de cinci ani. Este un Ciobănesc German impunător, cu o blană deasă în nuanțe de negru și cafeniu, care îi oferă un aspect nobil. L-am primit când era doar un ghemotoc de blană speriat, dar cu timpul a crescut și a devenit protectorul curții noastre. Inteligența lui Rex mă uimește în fiecare zi; pare să înțeleagă nu doar comenzile vocale, ci și stările mele sufletești. Când sunt trist, vine tiptil lângă mine și își așază capul greu pe genunchii mei, privindu-mă cu ochii lui căprui plini de compasiune. Diminețile noastre încep mereu cu o repriză de joacă în grădină, unde Rex aleargă cu o viteză incredibilă după discul de plastic. Deși este un câine de talie mare, este extrem de blând cu copiii mici din cartier, lăsându-i să-l mângâie fără nicio reținere. Într-o vară, în timpul unei drumeții la munte, Rex ne-a avertizat de prezența unui animal sălbatic în apropiere, lătrând într-un mod specific pe care nu-l mai auzisem până atunci. Datorită vigilenței sale, am reușit să ne îndepărtăm în siguranță. Această legătură specială dintre om și câine mi-a arătat ce înseamnă loialitatea fără limite și responsabilitatea de a îngriji o altă ființă vie.",
+    questions: [
+      { type: "mcq", question: "Ce rasă este câinele Rex?", options: ["Labrador", "Ciobănesc German", "Golden Retriever", "Rotweiler"], correct: 1 },
+      { type: "mcq", question: "Cum reacționează Rex când naratorul este trist?", options: ["Începe să latre", "Fuge în grădină", "Își așază capul pe genunchii lui", "Doarme"], correct: 2 },
+      { type: "mcq", question: "Ce s-a întâmplat în timpul drumeției la munte?", options: ["Rex s-a pierdut", "Rex a găsit o comoară", "Rex a avertizat familia de un animal sălbatic", "Rex a înotat într-un lac"], correct: 2 },
+      { type: "mcq", question: "De cât timp face Rex parte din familie?", options: ["De un an", "De trei ani", "De mai bine de cinci ani", "De zece ani"], correct: 2 },
+      { type: "typing", question: "Ce obiect urmărește Rex în timpul jocului din grădină?", answer: "discul de plastic" },
+      { type: "typing", question: "Ce culoare au ochii lui Rex?", answer: "căprui" },
+    ],
+  },
+  {
+    title: "O zi de explorare în inima pădurii",
+    text: "Pădurea de la marginea satului bunicilor a fost întotdeauna pentru mine un tărâm plin de mister și aventură. Într-o dimineață de sâmbătă, echipat cu un rucsac mic și o busolă veche, am decis să explorez potecile mai puțin umblate. Pe măsură ce înaintam, lumina soarelui se strecura cu greu prin coroanele dese ale stejarilor seculari, creând jocuri de umbre pe covorul de mușchi moale. Aerul era saturat de mirosul proaspăt de rășină și de pământ umed, un parfum pe care nicio metropolă nu-l poate reproduce. La un moment dat, am ajuns într-o poiană ascunsă, unde un pârâu susura vesel printre pietrele șlefuite de timp. M-am așezat pe un trunchi de copac căzut și am rămas nemișcat, ascultând simfonia naturii: ciocănitul ritmic al unei ciocănitori, foșnetul discret al unei șopârle prin frunziș și cântecul cristalin al privighetorilor. Am observat cu uimire o familie de căprioare care a ieșit la adăpat, fără să bănuiască prezența mea. Erau atât de grațioase încât mi-am ținut respirația pentru a nu le speria. Această experiență mi-a reamintit cât de fragil este echilibrul naturii și cât de important este să fim simpli observatori respectuoși în acest univers verde. Pădurea nu este doar o adunare de copaci, ci un organism viu care respiră și ne oferă liniștea de care avem atâta nevoie.",
+    questions: [
+      { type: "mcq", question: "Cu ce era echipat naratorul pentru explorare?", options: ["Cu o hartă și un GPS", "Cu un rucsac și o busolă veche", "Cu o bicicletă", "Cu o undiță"], correct: 1 },
+      { type: "mcq", question: "Ce miros predomina în pădure?", options: ["Miros de flori de câmp", "Miros de rășină și pământ umed", "Miros de fum", "Miros de mare"], correct: 1 },
+      { type: "mcq", question: "Ce animale a observat naratorul în poiană?", options: ["O familie de urși", "O familie de căprioare", "O vulpe", "Un mistreț"], correct: 1 },
+      { type: "mcq", question: "Unde s-a așezat naratorul pentru a asculta natura?", options: ["Pe o stâncă", "Pe un trunchi de copac căzut", "În iarbă", "Lângă pârâu"], correct: 1 },
+      { type: "typing", question: "Ce pasăre scotea un sunet ritmic în pădure?", answer: "ciocănitoarea" },
+      { type: "typing", question: "Cum se numea instrumentul folosit pentru orientare?", answer: "busola" },
+    ],
+  },
+  {
+    title: "Vacanța la bunicii de la țară",
+    text: "Nimic nu se compară cu sentimentul de libertate pe care îl trăiesc în fiecare vară la casa bunicilor mei, situată într-un sat liniștit de la poalele dealurilor. Acolo, viața se desfășoară după un alt ritm, dictat de răsăritul soarelui și de nevoile animalelor din ogradă. Bunicul meu, un om cu palmele bătătorite de muncă dar cu o inimă de aur, mă trezește în fiecare dimineață pentru a merge împreună la cosit. Deși munca este grea, satisfacția de a vedea căpițele de fân ridicându-se mândre sub soarele amiezii este imensă. Între timp, bunica pregătește în bucătăria de vară cele mai gustoase bucate pe care le-am gustat vreodată: plăcinte cu brânză sărată, mămăligă caldă și lapte proaspăt de la văcuța noastră. După-amiezile sunt rezervate scăldatului în râul din apropiere sau explorării livezii pline de meri și pruni. Seara, ne adunăm cu toții pe prispă, sub cerul înstelat, iar bunicul ne povestește întâmplări de demult, din vremea când satul era mult mai populat. Aceste momente petrecute la țară mă învață să prețuiesc simplitatea, munca cinstită și legătura profundă cu pământul. Este locul unde îmi încarc bateriile pentru un nou an școlar și unde mă simt cu adevărat acasă, înconjurat de dragostea necondiționată a bunicilor.",
+    questions: [
+      { type: "mcq", question: "Unde este situată casa bunicilor?", options: ["La munte", "La mare", "Într-un sat la poalele dealurilor", "În centrul orașului"], correct: 2 },
+      { type: "mcq", question: "Ce activitate face naratorul împreună cu bunicul dimineața?", options: ["Merg la pescuit", "Merg la cosit", "Repară gardul", "Culeg fructe"], correct: 1 },
+      { type: "mcq", question: "Ce pregătește bunica în bucătăria de vară?", options: ["Pizza", "Plăcinte cu brânză și mămăligă", "Paste", "Supă de pui"], correct: 1 },
+      { type: "mcq", question: "Unde se adună familia seara?", options: ["În fața televizorului", "Pe prispă", "În grădină", "La râu"], correct: 1 },
+      { type: "typing", question: "Ce fructe se găsesc în livada bunicilor?", answer: "meri și pruni" },
+      { type: "typing", question: "Cum se numește locul unde stau bunicii seara să povestească?", answer: "prispa" },
+    ],
+  },
+  {
+    title: "Emoțiile primei zile de gimnaziu",
+    text: "Trecerea în clasa a cincea a reprezentat pentru mine un prag important, plin de întrebări și o ușoară neliniște. Prima zi de școală nu mai era doar o simplă reîntoarcere, ci începutul unei noi etape: gimnaziul. Curtea școlii părea mai mare, iar noi, bobocii de clasa a cincea, ne priveam cu curiozitate noii profesori. Nu mai aveam o singură învățătoare care să ne ghideze la toate materiile, ci o întreagă echipă de dascăli, fiecare cu stilul său propriu. Dirigintele nostru, un profesor de istorie pasionat, ne-a întâmpinat cu un discurs încurajator, explicându-ne că această etapă ne va ajuta să devenim mai responsabili și mai independenți. Am primit cu entuziasm noul orar, care includea materii noi precum biologia și geografia, discipline care mă fascinau încă din clasele primare. Reîntâlnirea cu vechii colegi a fost plină de bucurie; ne-am împărtășit aventurile din vacanță și am făcut planuri pentru proiectele de grup. Deși volumul de muncă părea mai mare, eram hotărât să demonstrez că pot face față provocărilor. Această primă zi de gimnaziu mi-a oferit încrederea că, prin perseverență și curiozitate, voi reuși să descopăr tainele fiecărei materii și să leg prietenii și mai strânse.",
+    questions: [
+      { type: "mcq", question: "În ce clasă a trecut naratorul?", options: ["Clasa a IV-a", "Clasa a V-a", "Clasa a VI-a", "Clasa a I-a"], correct: 1 },
+      { type: "mcq", question: "Ce materie predă noul diriginte?", options: ["Matematică", "Română", "Istorie", "Biologie"], correct: 2 },
+      { type: "mcq", question: "Care sunt materiile noi menționate în text?", options: ["Muzica și desenul", "Biologia și geografia", "Informatica", "Limba engleză"], correct: 1 },
+      { type: "mcq", question: "Cum s-a simțit naratorul în prima zi de gimnaziu?", options: ["Plictisit", "Speriat", "Entuziasmat și puțin neliniștit", "Indiferent"], correct: 2 },
+      { type: "typing", question: "Cum se numesc elevii care încep o nouă etapă școlară?", answer: "boboci" },
+      { type: "typing", question: "Ce document conține programul lecțiilor?", answer: "orarul" },
+    ],
+  },
+  {
+    title: "Magia Crăciunului în familie",
+    text: "Dintre toate sărbătorile anului, Crăciunul ocupă un loc special în inima mea datorită atmosferei de poveste pe care o creează. Pregătirile încep încă de la începutul lunii decembrie, când orașul se îmbracă în haine de sărbătoare, cu mii de luminițe colorate. În casa noastră, tradiția împodobirii bradului este momentul cel mai așteptat. Ne adunăm cu toții în sufragerie, ascultăm colinde vechi și scoatem cutiile cu globuri de sticlă moștenite de la bunici. Mirosul de cetină proaspătă se împletește cu aroma de scorțișoară și portocale, creând o ambianță caldă și primitoare. Mama petrece ore întregi în bucătărie pregătind sarmale, friptură și cozonaci pufoși, în timp ce eu și tata ne ocupăm de decorarea exteriorului casei. În seara de Ajun, mergem la biserică, iar apoi ne așezăm cu emoție la masă, așteptând sunetul clopoțelului care vestește sosirea Moșului. Dincolo de cadourile frumos ambalate sub brad, Crăciunul este despre bunătate, iertare și recunoștință. Este momentul când ne amintim să fim mai buni unii cu alții și să prețuim timpul petrecut împreună. Această sărbătoare ne unește și ne oferă speranța unui nou început, plin de lumină și bucurie.",
+    questions: [
+      { type: "mcq", question: "Când încep pregătirile pentru Crăciun?", options: ["În noiembrie", "La începutul lunii decembrie", "În seara de Ajun", "După Revelion"], correct: 1 },
+      { type: "mcq", question: "Ce arome sunt menționate ca făcând parte din atmosfera casei?", options: ["Miros de brad și flori", "Miros de cetină, scorțișoară și portocale", "Miros de ciocolată", "Miros de vanilie"], correct: 1 },
+      { type: "mcq", question: "Ce mâncăruri tradiționale pregătește mama?", options: ["Pizza și paste", "Sarmale, friptură și cozonaci", "Salate", "Pește"], correct: 1 },
+      { type: "mcq", question: "Care este semnificația profundă a Crăciunului conform textului?", options: ["Doar primirea cadourilor", "Bunătatea, iertarea și timpul cu cei dragi", "Mâncarea multă", "Vacanța de iarnă"], correct: 1 },
+      { type: "typing", question: "Ce obiecte de sticlă sunt folosite pentru împodobirea bradului?", answer: "globuri" },
+      { type: "typing", question: "Cum se numește seara de dinaintea Crăciunului?", answer: "Ajunul" },
+    ],
+  },
+  {
+    title: "Decebal, ultimul rege al Daciei",
+    text: "Decebal a fost unul dintre cei mai remarcabili conducători din istoria antică a poporului nostru, domnind peste Dacia între anii 87 și 106 d.Hr. El a reușit să unească triburile dacice și să transforme regatul într-o putere militară și economică respectată chiar și de marele Imperiu Roman. Decebal nu a fost doar un strateg militar iscusit, ci și un diplomat abil, reușind pentru o perioadă să mențină pacea prin tratate avantajoase. Totuși, dorința Romei de a stăpâni bogățiile Daciei, în special minele de aur din Munții Apuseni, a dus la două războaie sângeroase împotriva împăratului Traian. Decebal a luptat cu o dârzenie legendară pentru libertatea poporului său, apărând cu prețul vieții cetățile din Munții Orăștiei, inclusiv capitala Sarmizegetusa Regia. Deși în final Dacia a fost cucerită, figura lui Decebal a rămas un simbol al rezistenței și al demnității naționale. Portretul său sculptat în stâncă la Cazanele Dunării este astăzi cea mai înaltă sculptură în piatră din Europa, amintindu-ne de curajul acestui rege care a preferat moartea în locul sclaviei. Povestea lui ne învață despre sacrificiul suprem pentru patrie și despre mândria de a aparține unui neam de luptători.",
+    questions: [
+      { type: "mcq", question: "Între ce ani a domnit Decebal?", options: ["50-100 d.Hr.", "87-106 d.Hr.", "100-150 d.Hr.", "10-50 d.Hr."], correct: 1 },
+      { type: "mcq", question: "Cine a fost împăratul roman care a cucerit Dacia?", options: ["Iulius Cezar", "Augustus", "Traian", "Nero"], correct: 2 },
+      { type: "mcq", question: "Ce bogății ale Daciei doreau romanii să stăpânească?", options: ["Grâul", "Sarea", "Minele de aur din Munții Apuseni", "Pădurile"], correct: 2 },
+      { type: "mcq", question: "Unde se află cea mai înaltă sculptură în piatră a lui Decebal?", options: ["La București", "La Sarmizegetusa", "La Cazanele Dunării", "În Munții Orăștiei"], correct: 2 },
+      { type: "typing", question: "Cum se numea capitala regatului dac?", answer: "Sarmizegetusa Regia" },
+      { type: "typing", question: "Ce popor conducea regele Decebal?", answer: "dacii" },
+    ],
+  },
+  {
+    title: "O călătorie fascinantă cu trenul prin munți",
+    text: "Călătoria cu trenul pe ruta București-Brașov rămâne una dintre experiențele mele preferate, oferind peisaje care îți taie respirația. Imediat ce trenul părăsește câmpia și începe să urce spre Valea Prahovei, atmosfera se schimbă radical. Privind pe fereastra mare a compartimentului, poți observa cum râul Prahova șerpuiește nervos printre stânci, însoțind calea ferată în ascensiunea sa. Munții Bucegi se înalță impunători de o parte, cu vârfurile lor adesea ascunse în nori, în timp ce Munții Baiului strălucesc în soare de cealaltă parte. Trenul trece prin tuneluri întunecate și peste viaducte înalte, oferind perspective spectaculoase asupra stațiunilor montane precum Sinaia sau Bușteni. Îmi place să ascult zgomotul ritmic al roților pe șine, care are un efect aproape hipnotic, permițându-mi să visez cu ochii deschiși la aventurile ce mă așteaptă. La Sinaia, am putut zări pentru o clipă silueta elegantă a Castelului Peleș, strălucind printre brazi. Călătoria cu trenul este mult mai relaxantă decât cea cu mașina, oferindu-ți libertatea de a te mișca și de a admira natura în toată splendoarea ei, fără stresul traficului. Este un mod ecologic și plin de farmec de a descoperi frumusețile României.",
+    questions: [
+      { type: "mcq", question: "Pe ce rută călătorește naratorul cu trenul?", options: ["București-Constanța", "București-Brașov", "Iași-Cluj", "Timișoara-Arad"], correct: 1 },
+      { type: "mcq", question: "Ce râu însoțește calea ferată în ascensiunea spre munte?", options: ["Oltul", "Mureșul", "Prahova", "Siretul"], correct: 2 },
+      { type: "mcq", question: "Ce castel celebru poate fi zărit la Sinaia?", options: ["Castelul Bran", "Castelul Peleș", "Castelul Corvinilor", "Cetatea Neamțului"], correct: 1 },
+      { type: "mcq", question: "De ce preferă naratorul trenul în locul mașinii?", options: ["Este mai rapid", "Este mai ieftin", "Este mai relaxant și oferă peisaje mai frumoase", "Are mâncare mai bună"], correct: 2 },
+      { type: "typing", question: "Cum se numește valea prin care trece trenul spre Brașov?", answer: "Valea Prahovei" },
+      { type: "typing", question: "Ce munți se află de o parte a căii ferate, cu vârfurile în nori?", answer: "Bucegi" },
+    ],
+  },
+  {
+    title: "Spectacolul toamnei în natură",
+    text: "Toamna este, fără îndoială, cel mai melancolic dar și cel mai colorat anotimp, transformând natura într-o veritabilă galerie de artă. Totul începe cu o schimbare subtilă a temperaturii și cu scurtarea vizibilă a zilelor, semn că vara și-a luat rămas bun. Frunzele copacilor, care până mai ieri erau de un verde crud, încep să îmbrace nuanțe incredibile de galben pai, portocaliu aprins și roșu purpuriu. În pădure, covorul de frunze uscate foșnește sub picioare, eliberând un miros specific de pământ reavăn și ciuperci. Este perioada recoltei, când livezile sunt pline de fructe coapte: mere parfumate, pere zemoase și struguri dulci care așteaptă să fie culeși. Păsările călătoare se adună în stoluri mari, pregătindu-se pentru lunga călătorie spre țările calde, umplând cerul cu strigătele lor de adio. Deși ploile devin mai dese și vântul mai tăios, toamna are o frumusețe aparte, invitându-ne la introspecție și la aprecierea bogăției pământului. Este un timp al pregătirii pentru somnul lung al iernii, un ciclu natural necesar pentru regenerarea vieții. Toamna ne învață că fiecare sfârșit poartă în sine sămânța unui nou început și că schimbarea poate fi extrem de frumoasă.",
+    questions: [
+      { type: "mcq", question: "Ce culori îmbracă frunzele toamna?", options: ["Verde și albastru", "Galben, portocaliu și roșu", "Alb și gri", "Negru"], correct: 1 },
+      { type: "mcq", question: "Ce fructe sunt menționate ca fiind specifice recoltei de toamnă?", options: ["Căpșuni și cireșe", "Mere, pere și struguri", "Portocale și banane", "Pepeni"], correct: 1 },
+      { type: "mcq", question: "Ce fac păsările călătoare în acest anotimp?", options: ["Își construiesc cuiburi", "Se pregătesc de plecare spre țările calde", "Încep să cânte mai tare", "Dorm"], correct: 1 },
+      { type: "mcq", question: "Care este atmosfera generală a toamnei conform textului?", options: ["Veselă și agitată", "Melancolică dar colorată", "Plictisitoare", "Friguroasă și tristă"], correct: 1 },
+      { type: "typing", question: "Ce fenomen natural determină scurtarea zilelor?", answer: "toamna" },
+      { type: "typing", question: "Cum se numește perioada când se adună fructele și legumele?", answer: "recolta" },
+    ],
+  },
+];
+
+// ─── CLASA 6–8: TODO Texte vor fi adăugate mai târziu
 
 const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
   1: PASSAGES_CLASA_1,
   2: PASSAGES_CLASA_2,
   3: PASSAGES_CLASA_3,
   4: PASSAGES_CLASA_4,
-  5: [],
+  5: PASSAGES_CLASA_5,
   6: [],
   7: [],
   8: [],
