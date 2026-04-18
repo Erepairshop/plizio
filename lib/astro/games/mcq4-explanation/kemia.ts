@@ -56,5 +56,61 @@ export const rounds: MCQ4ExplanationRound[] = [
       hu: "A növények szén-dioxidot (CO2) nyelnek el, hogy glükózt és oxigént termeljenek.",
       ro: "Plantele absorb dioxidul de carbon (CO2) pentru a produce glucoză și oxigen."
     }
+  },
+  {
+    id: "kem-mcq-3",
+    taskDescription: {
+      en: "Choose the correct chemical formula.",
+      de: "Wähle die richtige chemische Formel.",
+      hu: "Válaszd ki a helyes kémiai képletet.",
+      ro: "Alege formula chimică corectă."
+    },
+    question: {
+      en: "What is the chemical formula for water?",
+      de: "Was ist die chemische Formel für Wasser?",
+      hu: "Mi a víz kémiai képlete?",
+      ro: "Care este formula chimică a apei?"
+    },
+    options: [
+      { en: "HO2", de: "HO2", hu: "HO2", ro: "HO2" },
+      { en: "H2O", de: "H2O", hu: "H2O", ro: "H2O" },
+      { en: "O2H", de: "O2H", hu: "O2H", ro: "O2H" },
+      { en: "H2O2", de: "H2O2", hu: "H2O2", ro: "H2O2" }
+    ],
+    correctIndex: 1,
+    explanation: {
+      en: "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+      de: "Ein Wassermolekül besteht aus zwei Wasserstoffatomen und einem Sauerstoffatom.",
+      hu: "Egy vízmolekula két hidrogénatomból és egy oxigénatomból áll.",
+      ro: "O moleculă de apă este formată din doi atomi de hidrogen și un atom de oxigen."
+    }
+  },
+  {
+    id: "kem-mcq-4",
+    taskDescription: {
+      en: "Identify the state of matter change.",
+      de: "Bestimme die Änderung des Aggregatzustands.",
+      hu: "Határozd meg a halmazállapot-változást.",
+      ro: "Identifică schimbarea stării de agregare."
+    },
+    question: {
+      en: "What is the process called when a liquid turns into a gas?",
+      de: "Wie nennt man den Vorgang, bei dem eine Flüssigkeit zu Gas wird?",
+      hu: "Hogy hívják azt a folyamatot, amikor egy folyadék gázzá alakul?",
+      ro: "Cum se numește procesul prin care un lichid se transformă în gaz?"
+    },
+    options: [
+      { en: "Melting", de: "Schmelzen", hu: "Olvadás", ro: "Topire" },
+      { en: "Freezing", de: "Gefrieren", hu: "Fagyás", ro: "Înghețare" },
+      { en: "Evaporation", de: "Verdampfung", hu: "Párolgás", ro: "Evaporare" },
+      { en: "Condensation", de: "Kondensation", hu: "Lecsapódás", ro: "Condensare" }
+    ],
+    correctIndex: 2,
+    explanation: {
+      en: "Evaporation is the process of a substance in a liquid state changing to a gaseous state.",
+      de: "Verdampfung ist der Prozess, bei dem ein Stoff vom flüssigen in den gasförmigen Zustand übergeht.",
+      hu: "A párolgás az a folyamat, amely során egy folyékony állapotú anyag gázneművé válik.",
+      ro: "Evaporarea este procesul prin care o substanță aflată în stare lichidă trece în stare gazoasă."
+    }
   }
 ];
