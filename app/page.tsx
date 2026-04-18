@@ -804,6 +804,8 @@ function categoriesToIslands(categories: CategoryDef[]): Island[] {
         name: g.name,
         color: g.color,
       })) as IslandGame[],
+      // Brain/learn island → direct navigation to SubjectPicker
+      href: cat.id === "brain" ? "/learn" : undefined,
     };
   });
 }

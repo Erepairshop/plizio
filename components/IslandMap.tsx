@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
+import { useRouter } from "next/navigation";
 import { motion, AnimatePresence, useMotionValue, useTransform } from "framer-motion";
 import Link from "next/link";
 import { ChevronLeft, type LucideIcon } from "lucide-react";
@@ -27,6 +28,7 @@ export interface Island {
   cx: number;
   cy: number;
   games: IslandGame[];
+  href?: string; // if set, clicking navigates directly here instead of showing game panel
 }
 
 interface IslandMapProps {
@@ -656,6 +658,7 @@ function useCardFlash() {
 /* Main — Fullscreen Island Map                                        */
 /* ------------------------------------------------------------------ */
 export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory, avatarProps }: IslandMapProps) {
+  const router = useRouter();
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
   const svgRef = useRef<SVGSVGElement | null>(null);
@@ -811,7 +814,13 @@ export default function IslandMap({ islands, username, streak, specialCount, car
               <Planet
                 island={island}
                 selected={selectedId === island.id}
-                onClick={() => setSelectedId(selectedId === island.id ? null : island.id)}
+                onClick={() => {
+                  if (island.href) {
+                    router.push(island.href);
+                  } else {
+                    setSelectedId(selectedId === island.id ? null : island.id);
+                  }
+                }}
                 floatOffset={floatOffsets[idx] ?? 0}
               />
             </g>
