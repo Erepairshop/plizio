@@ -16,6 +16,22 @@ import { getRandomTopicsWithHistory } from "@/lib/explorerUtils";
 import { GENERATORS as DEUTSCH_GENERATORS } from "@/lib/deutschGenerators";
 import { K5_Generators } from "@/lib/biologieGenerators";
 import { K6_Generators } from "@/lib/biologieGenerators6";
+import { G1_Generators_Hungarian } from "@/lib/hungarianGenerators";
+import { G2_Generators_Hungarian } from "@/lib/hungarianGenerators2";
+import { G3_Generators_Hungarian } from "@/lib/hungarianGenerators3";
+import { G4_Generators_Hungarian } from "@/lib/hungarianGenerators4";
+import { G5_Generators_Hungarian } from "@/lib/hungarianGenerators5";
+import { G6_Generators_Hungarian } from "@/lib/hungarianGenerators6";
+import { G7_Generators_Hungarian } from "@/lib/hungarianGenerators7";
+import { G8_Generators_Hungarian } from "@/lib/hungarianGenerators8";
+import { G1_Generators_Sachkunde } from "@/lib/sachkundeGenerators1";
+import { G2_Generators_Sachkunde } from "@/lib/sachkundeGenerators2";
+import { G3_Generators_Sachkunde } from "@/lib/sachkundeGenerators3";
+import { G4_Generators_Sachkunde } from "@/lib/sachkundeGenerators4";
+import { G5_Generators_Geschichte } from "@/lib/geschichteGenerators5";
+import { G6_Generators_Geschichte } from "@/lib/geschichteGenerators6";
+import { G7_Generators_Geschichte } from "@/lib/geschichteGenerators7";
+import { G8_Generators_Geschichte } from "@/lib/geschichteGenerators8";
 import "@/lib/physikRegistration";
 import "@/lib/kemiaRegistration";
 import { K5_GENERATOR_MAP } from "@/lib/physikCurriculum5";
@@ -39,6 +55,28 @@ const BIO_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const PHYSIK_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const CHEMIE_GENERATORS: Record<string, (...args: any[]) => any> = {};
 const GEO_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const MAGYAR_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const SACHKUNDE_GENERATORS: Record<string, (...args: any[]) => any> = {};
+const GESCHICHTE_GENERATORS: Record<string, (...args: any[]) => any> = {};
+// Magyar/Hungarian — G1-G8 flat registration
+[G1_Generators_Hungarian, G2_Generators_Hungarian, G3_Generators_Hungarian, G4_Generators_Hungarian,
+ G5_Generators_Hungarian, G6_Generators_Hungarian, G7_Generators_Hungarian, G8_Generators_Hungarian].forEach((gradeMap) => {
+  Object.entries(gradeMap as Record<string, (...args: any[]) => any>).forEach(([key, gen]) => {
+    MAGYAR_GENERATORS[key] = gen;
+  });
+});
+// Sachkunde — G1-G4 flat registration
+[G1_Generators_Sachkunde, G2_Generators_Sachkunde, G3_Generators_Sachkunde, G4_Generators_Sachkunde].forEach((gradeMap) => {
+  Object.entries(gradeMap as Record<string, (...args: any[]) => any>).forEach(([key, gen]) => {
+    SACHKUNDE_GENERATORS[key] = gen;
+  });
+});
+// Geschichte — G5-G8 flat registration
+[G5_Generators_Geschichte, G6_Generators_Geschichte, G7_Generators_Geschichte, G8_Generators_Geschichte].forEach((gradeMap) => {
+  Object.entries(gradeMap as Record<string, (...args: any[]) => any>).forEach(([key, gen]) => {
+    GESCHICHTE_GENERATORS[key] = gen;
+  });
+});
 const PHYSIK_SEED_ONLY_KEYS = new Set([
   "sound_waves",
   "sound_waves_typing",
@@ -138,13 +176,18 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
     const physikGen = PHYSIK_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
     const chemieGen = CHEMIE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
     const geoGen = GEO_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
-    const gen = deutschGen || bioGen || physikGen || chemieGen || geoGen;
+    const magyarGen = MAGYAR_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const sachkundeGen = SACHKUNDE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const geschichteGen = GESCHICHTE_GENERATORS[q.generate] as ((...args: any[]) => any) | undefined;
+    const gen = deutschGen || bioGen || physikGen || chemieGen || geoGen || magyarGen || sachkundeGen || geschichteGen;
     if (gen) {
       const seed = Math.floor(Math.random() * 1000000);
       const result = chemieGen || geoGen
         ? geoGen
           ? gen(lang, seed)
           : gen(seed)
+        : (magyarGen || sachkundeGen || geschichteGen)
+        ? gen(seed)
         : PHYSIK_SEED_ONLY_KEYS.has(q.generate)
         ? gen(seed)
         : gen(lang, seed);
@@ -161,7 +204,7 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
     }
     // fallback if generator key unknown — log for dev + show key in UI
     if (typeof console !== "undefined") {
-      console.warn(`[DynamicExplorer] Missing generator for key: "${q.generate}" — add to deutsch/bio/physik/chemie/geo generators`);
+      console.warn(`[DynamicExplorer] Missing generator for key: "${q.generate}" — add to deutsch/bio/physik/chemie/geo/magyar/sachkunde/geschichte generators`);
     }
     return {
       question: `⚠️ Missing generator: ${q.generate}`,
