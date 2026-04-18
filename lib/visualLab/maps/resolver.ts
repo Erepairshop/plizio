@@ -3,6 +3,8 @@
 
 import { deutschlandMap, deutschlandViewBox, projectCoords as projectCoordsDE, type BundeslandPath } from "./deutschland.svg";
 import { romaniaMap, romaniaViewBox, projectCoordsRO } from "./romania.svg";
+import { bundeslandSubregions } from "./bundeslandSubregions";
+import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
 import { pois as deutschlandPois } from "../data/poi";
 import { romaniaAllPois } from "../data/romaniaPoi";
 import type { POI } from "../data/poi";
@@ -16,6 +18,7 @@ export interface CountryMapData {
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
   pois: POI[];
+  subregions: Record<string, any>; // structurally compatible with bundeslandSubregions
 }
 
 export function getCountryMap(lang: Lang): CountryMapData {
@@ -27,6 +30,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: romaniaViewBox,
         projectCoords: projectCoordsRO,
         pois: romaniaAllPois,
+        subregions: romaniaJudetSubregions,
       };
     case "de":
     case "hu":
@@ -38,6 +42,7 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: deutschlandViewBox,
         projectCoords: projectCoordsDE,
         pois: deutschlandPois,
+        subregions: bundeslandSubregions,
       };
   }
 }

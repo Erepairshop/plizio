@@ -8,7 +8,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star } from "lucide-react";
 import { type BundeslandPath } from "../maps/deutschland.svg";
-import { bundeslandSubregions, projectInState } from "../maps/bundeslandSubregions";
+import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap } from "../maps/resolver";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
@@ -891,6 +891,7 @@ export const InteractiveMap = ({
             stateName={deutschlandMap.find((b) => b.id === detailFor)?.name[lang as Lang] ?? ""}
             lang={lang as Lang}
             pois={pois}
+            subregions={countryData.subregions}
             onClose={() => setDetailFor(null)}
           />
         )}
@@ -910,15 +911,17 @@ function SubRegionView({
   stateName,
   lang,
   pois,
+  subregions,
   onClose,
 }: {
   stateId: string;
   stateName: string;
   lang: Lang;
   pois: POI[];
+  subregions: Record<string, any>;
   onClose: () => void;
 }) {
-  const detail = bundeslandSubregions[stateId];
+  const detail = subregions[stateId];
   const [hovered, setHovered] = useState<string | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
   const [selectedPoiId, setSelectedPoiId] = useState<string | null>(null);

@@ -144,7 +144,7 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Laborator Vizual",
     subtitle: "Jocuri vizuale & hărți",
     pickGame: "Alege jocul",
-    deutschlandMap: "Harta Germaniei",
+    deutschlandMap: "Harta României",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Prinde meteorii",
     orbitSort: "Sortare orbitală",
