@@ -172,6 +172,513 @@ export const PLURAL_LABELS: Record<string, Record<string, string>> = {
     t15_h2: "Welche Regel passt zu welchem Wort?",
     t15_sent6: "In der Schule lernen viele ___.",
     t15_c6_1: "Schüler", t15_c6_2: "Schüle", t15_c6_3: "Schülers", t15_c6_4: "Schülerin",
+  },
+  en: {
+
+    explorer_title: "[EN] Pluralinsel",
+
+    // T1: Einzahl oder Mehrzahl?
+    t1_title: "[EN] Einzahl oder Mehrzahl?",
+    t1_text: "[EN] Gibt es ein Ding nur einmal, ist es die Einzahl (Singular). Gibt es viele davon, ist es die Mehrzahl (Plural). der Hund ➔ die Hunde.",
+    t1_b1: "[EN] Einzahl = Singular (1 Ding).",
+    t1_b2: "[EN] Mehrzahl = Plural (viele Dinge).",
+    t1_inst: "[EN] Sortiere die Wörter: Einzahl oder Mehrzahl?",
+    t1_h1: "[EN] Ist es nur ein Ding oder sind es viele?",
+    t1_h2: "[EN] Baum ist Einzahl, Bäume ist Mehrzahl.",
+    t1_be: "[EN] Einzahl 🍎", t1_bm: "[EN] Mehrzahl 🍎🍎",
+    t1_i1: "[EN] Baum", t1_i2: "[EN] Hunde", t1_i3: "[EN] Autos", t1_i4: "[EN] Katze",
+
+    // T2: Plural mit -e
+    t2_title: "[EN] Plural mit -e",
+    t2_text: "[EN] Viele Nomen bekommen in der Mehrzahl einfach ein '-e' ans Ende gehängt. Aus 'der Tisch' wird 'die Tische', aus 'der Hund' wird 'die Hunde'.",
+    t2_b1: "[EN] Oft hängen wir ein -e an.",
+    t2_inst: "[EN] Verbinde die Einzahl mit der Mehrzahl!",
+    t2_h1: "[EN] Suche das Wort mit dem -e am Ende.",
+    t2_h2: "[EN] Hund -> Hunde, Tisch -> Tische.",
+    t2_l1: "[EN] Hund", t2_r1: "[EN] Hunde",
+    t2_l2: "[EN] Tisch", t2_r2: "[EN] Tische",
+    t2_l3: "[EN] Schuh", t2_r3: "[EN] Schuhe",
+    t2_l4: "[EN] Stift", t2_r4: "[EN] Stifte",
+
+    // T3: Plural mit -er (und Umlaut)
+    t3_title: "[EN] Plural mit -er (und Umlaut)",
+    t3_text: "[EN] Einige Wörter verändern sich stark! Sie bekommen ein '-er' am Ende und aus a, o, u wird oft ä, ö, ü (Umlaut). Das Buch ➔ die Bücher.",
+    t3_b1: "[EN] Endung: -er.",
+    t3_b2: "[EN] a, o, u werden oft zu ä, ö, ü.",
+    t3_inst: "[EN] Welches Wort passt in die Lücke?",
+    t3_h1: "[EN] Denk an den Umlaut (ä/ö/ü) und das '-er'.",
+    t3_h2: "[EN] Buch wird zu Bücher.",
+    t3_sent: "[EN] Ich lese gerne spannende ___.",
+    t3_c1: "[EN] Bücher", t3_c2: "[EN] Bucher", t3_c3: "[EN] Buchen", t3_c4: "[EN] Büche",
+
+    // T4: Plural mit -n oder -en
+    t4_title: "[EN] Plural mit -n oder -en",
+    t4_text: "[EN] Viele Nomen, die auf -e enden, bekommen in der Mehrzahl nur ein '-n'. Andere bekommen ein '-en'. die Blume ➔ die Blumen, die Frau ➔ die Frauen.",
+    t4_b1: "[EN] Wörter auf -e bekommen oft ein -n.",
+    t4_b2: "[EN] Andere bekommen -en.",
+    t4_inst: "[EN] Finde das Plural-Wort im Satz!",
+    t4_h1: "[EN] Suche das Nomen, das viele Menschen beschreibt.",
+    t4_h2: "[EN] Das Wort 'Frauen' steht in der Mehrzahl.",
+    t4_w1: "[EN] Die", t4_w2: "[EN] Frauen", t4_w3: "[EN] trinken", t4_w4: "[EN] Tee", t4_w5: "[EN] .",
+
+    // T5: Plural mit -s
+    t5_title: "[EN] Plural mit -s",
+    t5_text: "[EN] Wörter, die aus anderen Sprachen zu uns gekommen sind, bekommen oft ein '-s' im Plural. das Auto ➔ die Autos, das Baby ➔ die Babys.",
+    t5_b1: "[EN] Fremdwörter bekommen oft ein -s.",
+    t5_inst: "[EN] Baue den Satz richtig zusammen!",
+    t5_h1: "[EN] Wer macht was? 'Die Autos fahren...'",
+    t5_h2: "[EN] Die Autos fahren schnell.",
+    t5_f1: "[EN] Die", t5_f2: "[EN] Autos", t5_f3: "[EN] fahren", t5_f4: "[EN] schnell.",
+
+    // T6: Plural ohne Endung
+    t6_title: "[EN] Plural ohne Veränderung",
+    t6_text: "[EN] Manche Wörter verändern sich gar nicht! Sie sehen im Plural genauso aus wie im Singular. der Lehrer ➔ die Lehrer, das Mädchen ➔ die Mädchen.",
+    t6_b1: "[EN] Wort bleibt gleich.",
+    t6_b2: "[EN] Nur der Artikel (die) ändert sich.",
+    t6_inst: "[EN] Bringe die Wörter in die richtige Reihenfolge!",
+    t6_h1: "[EN] Der Artikel (Die) steht ganz vorne.",
+    t6_h2: "[EN] Die Mädchen spielen.",
+    t6_o1: "[EN] Die", t6_o2: "[EN] Mädchen", t6_o3: "[EN] spielen.",
+
+    // T7: Der Plural-Meister
+    t7_title: "[EN] Der Plural-Meister",
+    t7_text: "[EN] Jetzt kennst du alle Pluralformen (-e, -er, -en, -s und ohne Endung). Zeit für den Meister-Test!",
+    t7_b1: "[EN] Achte auf die richtige Endung.",
+    t7_inst: "[EN] Welches ist die richtige Pluralform von 'Apfel'?",
+    t7_h1: "[EN] Der Apfel bekommt einen Umlaut, aber keine neue Endung.",
+    t7_h2: "[EN] Der Plural ist 'Äpfel'.",
+    t7_sent2: "[EN] Im Korb liegen viele ___.",
+    t7_c2_1: "[EN] Äpfel", t7_c2_2: "[EN] Apfeln", t7_c2_3: "[EN] Äpfeln", t7_c2_4: "[EN] Apfels",
+
+    // T8: Spezial: -nen Endung
+    t8_title: "[EN] Plural mit -nen",
+    t8_text: "[EN] Einige Wörter, die auf einen Konsonant enden, bekommen im Plural die Endung '-nen'. Diese Pluralform ist eher selten. Beispiel: die Freundin ➔ die Freundinnen.",
+    t8_b1: "[EN] Seltene Endung: -nen",
+    t8_b2: "[EN] Meist bei Wörtern auf -in",
+    t8_inst: "[EN] Wähle die richtige Pluralform!",
+    t8_h1: "[EN] Achte auf die Endung -nen.",
+    t8_h2: "[EN] Die Freundin wird zu Freundinnen.",
+    t8_sent: "[EN] Die ___ spielen zusammen.",
+    t8_c1: "[EN] Freundinnen", t8_c2: "[EN] Freundin", t8_c3: "[EN] Freundinen", t8_c4: "[EN] Freundinn",
+
+    // T9: Umlaut + Endung
+    t9_title: "[EN] Umlaut und Endung kombiniert",
+    t9_text: "[EN] Manche Wörter bekommen nicht nur eine Endung, sondern auch einen Umlaut! Aus a wird ä, aus o wird ö, aus u wird ü. der Sohn ➔ die Söhne.",
+    t9_b1: "[EN] Umlaut + Endung zusammen",
+    t9_b2: "[EN] Mehrere Veränderungen gleichzeitig",
+    t9_inst: "[EN] Ordne die Wörter korrekt!",
+    t9_h1: "[EN] Der Vokal ändert sich (ä/ö/ü) UND eine Endung kommt dazu.",
+    t9_h2: "[EN] Sohn ➔ Söhne, Mutter ➔ Mütter",
+    t9_l1: "[EN] der Sohn", t9_r1: "[EN] die Söhne",
+    t9_l2: "[EN] die Mutter", t9_r2: "[EN] die Mütter",
+    t9_l3: "[EN] das Loch", t9_r3: "[EN] die Löcher",
+    t9_l4: "[EN] der Garten", t9_r4: "[EN] die Gärten",
+
+    // T10: Plural-Regeln Zusammenfassung
+    t10_title: "[EN] Alle Pluralregeln",
+    t10_text: "[EN] Lass uns zusammenfassen: Pluralendungen sind -e, -er, -en, -n, -s oder keine. Die Regel hängt vom Wort ab! Lernen statt auswendig lernen.",
+    t10_b1: "[EN] Achte auf das einzelne Wort.",
+    t10_b2: "[EN] Es gibt viele Regeln!",
+    t10_inst: "[EN] Welcher Plural passt zu 'Straße'?",
+    t10_h1: "[EN] Das Wort endet auf -e, also...",
+    t10_h2: "[EN] Straße ➔ Straßen",
+    t10_sent3: "[EN] Auf dieser ___ sind viele Autos.",
+    t10_c3_1: "[EN] Straßen", t10_c3_2: "[EN] Straße", t10_c3_3: "[EN] Straßes", t10_c3_4: "[EN] Straßer",
+
+    // T11: Unregelmäßige Plurale
+    t11_title: "[EN] Besondere Plurale",
+    t11_text: "[EN] Einige Wörter folgen gar nicht den Regeln! Das Kind ➔ die Kinder (ä!), der Mann ➔ die Männer. Diese musst du einfach lernen!",
+    t11_b1: "[EN] Unregelmäßige Plurale existieren.",
+    t11_b2: "[EN] Auswendig lernen hilft.",
+    t11_inst: "[EN] Finde das falsche Plural-Wort!",
+    t11_h1: "[EN] Das Kind ➔ die Kinder (nicht Kinds!)",
+    t11_h2: "[EN] Der Mann ➔ die Männer (mit Umlaut)",
+    t11_sent4: "[EN] Die ___ spielen im Park.",
+    t11_c4_1: "[EN] Kinder", t11_c4_2: "[EN] Kinds", t11_c4_3: "[EN] Kinde", t11_c4_4: "[EN] Kindren",
+
+    // T12: Plural und Artikel
+    t12_title: "[EN] Plural und Artikel",
+    t12_text: "[EN] Im Plural ist der Artikel immer 'die'! Ganz egal ob männlich, weiblich oder sächlich. der Hund ➔ die Hunde, die Katze ➔ die Katzen, das Auto ➔ die Autos!",
+    t12_b1: "[EN] Plural-Artikel ist immer 'die'.",
+    t12_b2: "[EN] Egal welches Geschlecht vorher.",
+    t12_inst: "[EN] Wähle den richtigen Plural-Artikel!",
+    t12_h1: "[EN] Der Plural nutzt immer 'die'.",
+    t12_h2: "[EN] 'die' mit jeder Pluralform!",
+    t12_bn: "[EN] Singular-Artikel", t12_ba: "[EN] Plural-Artikel",
+    t12_i1: "[EN] der", t12_i2: "[EN] die", t12_i3: "[EN] das", t12_i4: "[EN] die",
+
+    // T13: Schreib-Übung Plural
+    t13_title: "[EN] Schreib den Plural!",
+    t13_text: "[EN] Jetzt darfst du selber schreiben! Nimm ein Nomen aus dem Singular und schreibe den Plural auf. Du kannst die Regeln nutzen, um es zu versuchen!",
+    t13_b1: "[EN] Plural-Regeln anwenden.",
+    t13_inst: "[EN] Vervollständige den Satz mit der Pluralform!",
+    t13_h1: "[EN] Denk an die Endung und den Artikel.",
+    t13_h2: "[EN] Der Tisch ➔ Die Tische",
+    t13_sent5: "[EN] Im Klassenzimmer sind viele ___.",
+    t13_c5_1: "[EN] Tische", t13_c5_2: "[EN] Tisch", t13_c5_3: "[EN] Tischen", t13_c5_4: "[EN] Tische",
+
+    // T14: Fremdwörter im Plural
+    t14_title: "[EN] Fremdwörter und Plural",
+    t14_text: "[EN] Wörter aus anderen Sprachen bekommen meist ein '-s' im Plural. das Computer ➔ die Computers? Nein! das Komputersystem ➔ die Komputersysteme. Bei Fremdwörtern ist oft -s die Endung.",
+    t14_b1: "[EN] Fremdwörter ➔ oft -s",
+    t14_b2: "[EN] Computer ➔ Computer oder Computers.",
+    t14_inst: "[EN] Finde den richtigen Plural!",
+    t14_h1: "[EN] Fremdwörter bekommen oft -s",
+    t14_h2: "[EN] Auto ➔ Autos, Pizza ➔ Pizzas",
+    t14_l1: "[EN] das Auto", t14_r1: "[EN] die Autos",
+    t14_l2: "[EN] die Pizza", t14_r2: "[EN] die Pizzas",
+    t14_l3: "[EN] das Photo", t14_r3: "[EN] die Photos",
+    t14_l4: "[EN] der Chef", t14_r4: "[EN] die Chefs",
+
+    // T15: Plural-Meister-Abschluss
+    t15_title: "[EN] Du bist ein Plural-Profi!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du kennst jetzt ALLE Pluralregeln. -e, -er, -en, -s, keine Endung, Umlaute und sogar besondere Plurale! Du schaffst es!",
+    t15_b1: "[EN] Alle Pluralregeln gelernt.",
+    t15_b2: "[EN] Du bist bereit für jeden Plural!",
+    t15_inst: "[EN] Wähle den korrekten Plural!",
+    t15_h1: "[EN] Denk an alles, was du gelernt hast.",
+    t15_h2: "[EN] Welche Regel passt zu welchem Wort?",
+    t15_sent6: "[EN] In der Schule lernen viele ___.",
+    t15_c6_1: "[EN] Schüler", t15_c6_2: "[EN] Schüle", t15_c6_3: "[EN] Schülers", t15_c6_4: "[EN] Schülerin",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Pluralinsel",
+
+    // T1: Einzahl oder Mehrzahl?
+    t1_title: "[HU] Einzahl oder Mehrzahl?",
+    t1_text: "[HU] Gibt es ein Ding nur einmal, ist es die Einzahl (Singular). Gibt es viele davon, ist es die Mehrzahl (Plural). der Hund ➔ die Hunde.",
+    t1_b1: "[HU] Einzahl = Singular (1 Ding).",
+    t1_b2: "[HU] Mehrzahl = Plural (viele Dinge).",
+    t1_inst: "[HU] Sortiere die Wörter: Einzahl oder Mehrzahl?",
+    t1_h1: "[HU] Ist es nur ein Ding oder sind es viele?",
+    t1_h2: "[HU] Baum ist Einzahl, Bäume ist Mehrzahl.",
+    t1_be: "[HU] Einzahl 🍎", t1_bm: "[HU] Mehrzahl 🍎🍎",
+    t1_i1: "[HU] Baum", t1_i2: "[HU] Hunde", t1_i3: "[HU] Autos", t1_i4: "[HU] Katze",
+
+    // T2: Plural mit -e
+    t2_title: "[HU] Plural mit -e",
+    t2_text: "[HU] Viele Nomen bekommen in der Mehrzahl einfach ein '-e' ans Ende gehängt. Aus 'der Tisch' wird 'die Tische', aus 'der Hund' wird 'die Hunde'.",
+    t2_b1: "[HU] Oft hängen wir ein -e an.",
+    t2_inst: "[HU] Verbinde die Einzahl mit der Mehrzahl!",
+    t2_h1: "[HU] Suche das Wort mit dem -e am Ende.",
+    t2_h2: "[HU] Hund -> Hunde, Tisch -> Tische.",
+    t2_l1: "[HU] Hund", t2_r1: "[HU] Hunde",
+    t2_l2: "[HU] Tisch", t2_r2: "[HU] Tische",
+    t2_l3: "[HU] Schuh", t2_r3: "[HU] Schuhe",
+    t2_l4: "[HU] Stift", t2_r4: "[HU] Stifte",
+
+    // T3: Plural mit -er (und Umlaut)
+    t3_title: "[HU] Plural mit -er (und Umlaut)",
+    t3_text: "[HU] Einige Wörter verändern sich stark! Sie bekommen ein '-er' am Ende und aus a, o, u wird oft ä, ö, ü (Umlaut). Das Buch ➔ die Bücher.",
+    t3_b1: "[HU] Endung: -er.",
+    t3_b2: "[HU] a, o, u werden oft zu ä, ö, ü.",
+    t3_inst: "[HU] Welches Wort passt in die Lücke?",
+    t3_h1: "[HU] Denk an den Umlaut (ä/ö/ü) und das '-er'.",
+    t3_h2: "[HU] Buch wird zu Bücher.",
+    t3_sent: "[HU] Ich lese gerne spannende ___.",
+    t3_c1: "[HU] Bücher", t3_c2: "[HU] Bucher", t3_c3: "[HU] Buchen", t3_c4: "[HU] Büche",
+
+    // T4: Plural mit -n oder -en
+    t4_title: "[HU] Plural mit -n oder -en",
+    t4_text: "[HU] Viele Nomen, die auf -e enden, bekommen in der Mehrzahl nur ein '-n'. Andere bekommen ein '-en'. die Blume ➔ die Blumen, die Frau ➔ die Frauen.",
+    t4_b1: "[HU] Wörter auf -e bekommen oft ein -n.",
+    t4_b2: "[HU] Andere bekommen -en.",
+    t4_inst: "[HU] Finde das Plural-Wort im Satz!",
+    t4_h1: "[HU] Suche das Nomen, das viele Menschen beschreibt.",
+    t4_h2: "[HU] Das Wort 'Frauen' steht in der Mehrzahl.",
+    t4_w1: "[HU] Die", t4_w2: "[HU] Frauen", t4_w3: "[HU] trinken", t4_w4: "[HU] Tee", t4_w5: "[HU] .",
+
+    // T5: Plural mit -s
+    t5_title: "[HU] Plural mit -s",
+    t5_text: "[HU] Wörter, die aus anderen Sprachen zu uns gekommen sind, bekommen oft ein '-s' im Plural. das Auto ➔ die Autos, das Baby ➔ die Babys.",
+    t5_b1: "[HU] Fremdwörter bekommen oft ein -s.",
+    t5_inst: "[HU] Baue den Satz richtig zusammen!",
+    t5_h1: "[HU] Wer macht was? 'Die Autos fahren...'",
+    t5_h2: "[HU] Die Autos fahren schnell.",
+    t5_f1: "[HU] Die", t5_f2: "[HU] Autos", t5_f3: "[HU] fahren", t5_f4: "[HU] schnell.",
+
+    // T6: Plural ohne Endung
+    t6_title: "[HU] Plural ohne Veränderung",
+    t6_text: "[HU] Manche Wörter verändern sich gar nicht! Sie sehen im Plural genauso aus wie im Singular. der Lehrer ➔ die Lehrer, das Mädchen ➔ die Mädchen.",
+    t6_b1: "[HU] Wort bleibt gleich.",
+    t6_b2: "[HU] Nur der Artikel (die) ändert sich.",
+    t6_inst: "[HU] Bringe die Wörter in die richtige Reihenfolge!",
+    t6_h1: "[HU] Der Artikel (Die) steht ganz vorne.",
+    t6_h2: "[HU] Die Mädchen spielen.",
+    t6_o1: "[HU] Die", t6_o2: "[HU] Mädchen", t6_o3: "[HU] spielen.",
+
+    // T7: Der Plural-Meister
+    t7_title: "[HU] Der Plural-Meister",
+    t7_text: "[HU] Jetzt kennst du alle Pluralformen (-e, -er, -en, -s und ohne Endung). Zeit für den Meister-Test!",
+    t7_b1: "[HU] Achte auf die richtige Endung.",
+    t7_inst: "[HU] Welches ist die richtige Pluralform von 'Apfel'?",
+    t7_h1: "[HU] Der Apfel bekommt einen Umlaut, aber keine neue Endung.",
+    t7_h2: "[HU] Der Plural ist 'Äpfel'.",
+    t7_sent2: "[HU] Im Korb liegen viele ___.",
+    t7_c2_1: "[HU] Äpfel", t7_c2_2: "[HU] Apfeln", t7_c2_3: "[HU] Äpfeln", t7_c2_4: "[HU] Apfels",
+
+    // T8: Spezial: -nen Endung
+    t8_title: "[HU] Plural mit -nen",
+    t8_text: "[HU] Einige Wörter, die auf einen Konsonant enden, bekommen im Plural die Endung '-nen'. Diese Pluralform ist eher selten. Beispiel: die Freundin ➔ die Freundinnen.",
+    t8_b1: "[HU] Seltene Endung: -nen",
+    t8_b2: "[HU] Meist bei Wörtern auf -in",
+    t8_inst: "[HU] Wähle die richtige Pluralform!",
+    t8_h1: "[HU] Achte auf die Endung -nen.",
+    t8_h2: "[HU] Die Freundin wird zu Freundinnen.",
+    t8_sent: "[HU] Die ___ spielen zusammen.",
+    t8_c1: "[HU] Freundinnen", t8_c2: "[HU] Freundin", t8_c3: "[HU] Freundinen", t8_c4: "[HU] Freundinn",
+
+    // T9: Umlaut + Endung
+    t9_title: "[HU] Umlaut und Endung kombiniert",
+    t9_text: "[HU] Manche Wörter bekommen nicht nur eine Endung, sondern auch einen Umlaut! Aus a wird ä, aus o wird ö, aus u wird ü. der Sohn ➔ die Söhne.",
+    t9_b1: "[HU] Umlaut + Endung zusammen",
+    t9_b2: "[HU] Mehrere Veränderungen gleichzeitig",
+    t9_inst: "[HU] Ordne die Wörter korrekt!",
+    t9_h1: "[HU] Der Vokal ändert sich (ä/ö/ü) UND eine Endung kommt dazu.",
+    t9_h2: "[HU] Sohn ➔ Söhne, Mutter ➔ Mütter",
+    t9_l1: "[HU] der Sohn", t9_r1: "[HU] die Söhne",
+    t9_l2: "[HU] die Mutter", t9_r2: "[HU] die Mütter",
+    t9_l3: "[HU] das Loch", t9_r3: "[HU] die Löcher",
+    t9_l4: "[HU] der Garten", t9_r4: "[HU] die Gärten",
+
+    // T10: Plural-Regeln Zusammenfassung
+    t10_title: "[HU] Alle Pluralregeln",
+    t10_text: "[HU] Lass uns zusammenfassen: Pluralendungen sind -e, -er, -en, -n, -s oder keine. Die Regel hängt vom Wort ab! Lernen statt auswendig lernen.",
+    t10_b1: "[HU] Achte auf das einzelne Wort.",
+    t10_b2: "[HU] Es gibt viele Regeln!",
+    t10_inst: "[HU] Welcher Plural passt zu 'Straße'?",
+    t10_h1: "[HU] Das Wort endet auf -e, also...",
+    t10_h2: "[HU] Straße ➔ Straßen",
+    t10_sent3: "[HU] Auf dieser ___ sind viele Autos.",
+    t10_c3_1: "[HU] Straßen", t10_c3_2: "[HU] Straße", t10_c3_3: "[HU] Straßes", t10_c3_4: "[HU] Straßer",
+
+    // T11: Unregelmäßige Plurale
+    t11_title: "[HU] Besondere Plurale",
+    t11_text: "[HU] Einige Wörter folgen gar nicht den Regeln! Das Kind ➔ die Kinder (ä!), der Mann ➔ die Männer. Diese musst du einfach lernen!",
+    t11_b1: "[HU] Unregelmäßige Plurale existieren.",
+    t11_b2: "[HU] Auswendig lernen hilft.",
+    t11_inst: "[HU] Finde das falsche Plural-Wort!",
+    t11_h1: "[HU] Das Kind ➔ die Kinder (nicht Kinds!)",
+    t11_h2: "[HU] Der Mann ➔ die Männer (mit Umlaut)",
+    t11_sent4: "[HU] Die ___ spielen im Park.",
+    t11_c4_1: "[HU] Kinder", t11_c4_2: "[HU] Kinds", t11_c4_3: "[HU] Kinde", t11_c4_4: "[HU] Kindren",
+
+    // T12: Plural und Artikel
+    t12_title: "[HU] Plural und Artikel",
+    t12_text: "[HU] Im Plural ist der Artikel immer 'die'! Ganz egal ob männlich, weiblich oder sächlich. der Hund ➔ die Hunde, die Katze ➔ die Katzen, das Auto ➔ die Autos!",
+    t12_b1: "[HU] Plural-Artikel ist immer 'die'.",
+    t12_b2: "[HU] Egal welches Geschlecht vorher.",
+    t12_inst: "[HU] Wähle den richtigen Plural-Artikel!",
+    t12_h1: "[HU] Der Plural nutzt immer 'die'.",
+    t12_h2: "[HU] 'die' mit jeder Pluralform!",
+    t12_bn: "[HU] Singular-Artikel", t12_ba: "[HU] Plural-Artikel",
+    t12_i1: "[HU] der", t12_i2: "[HU] die", t12_i3: "[HU] das", t12_i4: "[HU] die",
+
+    // T13: Schreib-Übung Plural
+    t13_title: "[HU] Schreib den Plural!",
+    t13_text: "[HU] Jetzt darfst du selber schreiben! Nimm ein Nomen aus dem Singular und schreibe den Plural auf. Du kannst die Regeln nutzen, um es zu versuchen!",
+    t13_b1: "[HU] Plural-Regeln anwenden.",
+    t13_inst: "[HU] Vervollständige den Satz mit der Pluralform!",
+    t13_h1: "[HU] Denk an die Endung und den Artikel.",
+    t13_h2: "[HU] Der Tisch ➔ Die Tische",
+    t13_sent5: "[HU] Im Klassenzimmer sind viele ___.",
+    t13_c5_1: "[HU] Tische", t13_c5_2: "[HU] Tisch", t13_c5_3: "[HU] Tischen", t13_c5_4: "[HU] Tische",
+
+    // T14: Fremdwörter im Plural
+    t14_title: "[HU] Fremdwörter und Plural",
+    t14_text: "[HU] Wörter aus anderen Sprachen bekommen meist ein '-s' im Plural. das Computer ➔ die Computers? Nein! das Komputersystem ➔ die Komputersysteme. Bei Fremdwörtern ist oft -s die Endung.",
+    t14_b1: "[HU] Fremdwörter ➔ oft -s",
+    t14_b2: "[HU] Computer ➔ Computer oder Computers.",
+    t14_inst: "[HU] Finde den richtigen Plural!",
+    t14_h1: "[HU] Fremdwörter bekommen oft -s",
+    t14_h2: "[HU] Auto ➔ Autos, Pizza ➔ Pizzas",
+    t14_l1: "[HU] das Auto", t14_r1: "[HU] die Autos",
+    t14_l2: "[HU] die Pizza", t14_r2: "[HU] die Pizzas",
+    t14_l3: "[HU] das Photo", t14_r3: "[HU] die Photos",
+    t14_l4: "[HU] der Chef", t14_r4: "[HU] die Chefs",
+
+    // T15: Plural-Meister-Abschluss
+    t15_title: "[HU] Du bist ein Plural-Profi!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du kennst jetzt ALLE Pluralregeln. -e, -er, -en, -s, keine Endung, Umlaute und sogar besondere Plurale! Du schaffst es!",
+    t15_b1: "[HU] Alle Pluralregeln gelernt.",
+    t15_b2: "[HU] Du bist bereit für jeden Plural!",
+    t15_inst: "[HU] Wähle den korrekten Plural!",
+    t15_h1: "[HU] Denk an alles, was du gelernt hast.",
+    t15_h2: "[HU] Welche Regel passt zu welchem Wort?",
+    t15_sent6: "[HU] In der Schule lernen viele ___.",
+    t15_c6_1: "[HU] Schüler", t15_c6_2: "[HU] Schüle", t15_c6_3: "[HU] Schülers", t15_c6_4: "[HU] Schülerin",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Pluralinsel",
+
+    // T1: Einzahl oder Mehrzahl?
+    t1_title: "[RO] Einzahl oder Mehrzahl?",
+    t1_text: "[RO] Gibt es ein Ding nur einmal, ist es die Einzahl (Singular). Gibt es viele davon, ist es die Mehrzahl (Plural). der Hund ➔ die Hunde.",
+    t1_b1: "[RO] Einzahl = Singular (1 Ding).",
+    t1_b2: "[RO] Mehrzahl = Plural (viele Dinge).",
+    t1_inst: "[RO] Sortiere die Wörter: Einzahl oder Mehrzahl?",
+    t1_h1: "[RO] Ist es nur ein Ding oder sind es viele?",
+    t1_h2: "[RO] Baum ist Einzahl, Bäume ist Mehrzahl.",
+    t1_be: "[RO] Einzahl 🍎", t1_bm: "[RO] Mehrzahl 🍎🍎",
+    t1_i1: "[RO] Baum", t1_i2: "[RO] Hunde", t1_i3: "[RO] Autos", t1_i4: "[RO] Katze",
+
+    // T2: Plural mit -e
+    t2_title: "[RO] Plural mit -e",
+    t2_text: "[RO] Viele Nomen bekommen in der Mehrzahl einfach ein '-e' ans Ende gehängt. Aus 'der Tisch' wird 'die Tische', aus 'der Hund' wird 'die Hunde'.",
+    t2_b1: "[RO] Oft hängen wir ein -e an.",
+    t2_inst: "[RO] Verbinde die Einzahl mit der Mehrzahl!",
+    t2_h1: "[RO] Suche das Wort mit dem -e am Ende.",
+    t2_h2: "[RO] Hund -> Hunde, Tisch -> Tische.",
+    t2_l1: "[RO] Hund", t2_r1: "[RO] Hunde",
+    t2_l2: "[RO] Tisch", t2_r2: "[RO] Tische",
+    t2_l3: "[RO] Schuh", t2_r3: "[RO] Schuhe",
+    t2_l4: "[RO] Stift", t2_r4: "[RO] Stifte",
+
+    // T3: Plural mit -er (und Umlaut)
+    t3_title: "[RO] Plural mit -er (und Umlaut)",
+    t3_text: "[RO] Einige Wörter verändern sich stark! Sie bekommen ein '-er' am Ende und aus a, o, u wird oft ä, ö, ü (Umlaut). Das Buch ➔ die Bücher.",
+    t3_b1: "[RO] Endung: -er.",
+    t3_b2: "[RO] a, o, u werden oft zu ä, ö, ü.",
+    t3_inst: "[RO] Welches Wort passt in die Lücke?",
+    t3_h1: "[RO] Denk an den Umlaut (ä/ö/ü) und das '-er'.",
+    t3_h2: "[RO] Buch wird zu Bücher.",
+    t3_sent: "[RO] Ich lese gerne spannende ___.",
+    t3_c1: "[RO] Bücher", t3_c2: "[RO] Bucher", t3_c3: "[RO] Buchen", t3_c4: "[RO] Büche",
+
+    // T4: Plural mit -n oder -en
+    t4_title: "[RO] Plural mit -n oder -en",
+    t4_text: "[RO] Viele Nomen, die auf -e enden, bekommen in der Mehrzahl nur ein '-n'. Andere bekommen ein '-en'. die Blume ➔ die Blumen, die Frau ➔ die Frauen.",
+    t4_b1: "[RO] Wörter auf -e bekommen oft ein -n.",
+    t4_b2: "[RO] Andere bekommen -en.",
+    t4_inst: "[RO] Finde das Plural-Wort im Satz!",
+    t4_h1: "[RO] Suche das Nomen, das viele Menschen beschreibt.",
+    t4_h2: "[RO] Das Wort 'Frauen' steht in der Mehrzahl.",
+    t4_w1: "[RO] Die", t4_w2: "[RO] Frauen", t4_w3: "[RO] trinken", t4_w4: "[RO] Tee", t4_w5: "[RO] .",
+
+    // T5: Plural mit -s
+    t5_title: "[RO] Plural mit -s",
+    t5_text: "[RO] Wörter, die aus anderen Sprachen zu uns gekommen sind, bekommen oft ein '-s' im Plural. das Auto ➔ die Autos, das Baby ➔ die Babys.",
+    t5_b1: "[RO] Fremdwörter bekommen oft ein -s.",
+    t5_inst: "[RO] Baue den Satz richtig zusammen!",
+    t5_h1: "[RO] Wer macht was? 'Die Autos fahren...'",
+    t5_h2: "[RO] Die Autos fahren schnell.",
+    t5_f1: "[RO] Die", t5_f2: "[RO] Autos", t5_f3: "[RO] fahren", t5_f4: "[RO] schnell.",
+
+    // T6: Plural ohne Endung
+    t6_title: "[RO] Plural ohne Veränderung",
+    t6_text: "[RO] Manche Wörter verändern sich gar nicht! Sie sehen im Plural genauso aus wie im Singular. der Lehrer ➔ die Lehrer, das Mädchen ➔ die Mädchen.",
+    t6_b1: "[RO] Wort bleibt gleich.",
+    t6_b2: "[RO] Nur der Artikel (die) ändert sich.",
+    t6_inst: "[RO] Bringe die Wörter in die richtige Reihenfolge!",
+    t6_h1: "[RO] Der Artikel (Die) steht ganz vorne.",
+    t6_h2: "[RO] Die Mädchen spielen.",
+    t6_o1: "[RO] Die", t6_o2: "[RO] Mädchen", t6_o3: "[RO] spielen.",
+
+    // T7: Der Plural-Meister
+    t7_title: "[RO] Der Plural-Meister",
+    t7_text: "[RO] Jetzt kennst du alle Pluralformen (-e, -er, -en, -s und ohne Endung). Zeit für den Meister-Test!",
+    t7_b1: "[RO] Achte auf die richtige Endung.",
+    t7_inst: "[RO] Welches ist die richtige Pluralform von 'Apfel'?",
+    t7_h1: "[RO] Der Apfel bekommt einen Umlaut, aber keine neue Endung.",
+    t7_h2: "[RO] Der Plural ist 'Äpfel'.",
+    t7_sent2: "[RO] Im Korb liegen viele ___.",
+    t7_c2_1: "[RO] Äpfel", t7_c2_2: "[RO] Apfeln", t7_c2_3: "[RO] Äpfeln", t7_c2_4: "[RO] Apfels",
+
+    // T8: Spezial: -nen Endung
+    t8_title: "[RO] Plural mit -nen",
+    t8_text: "[RO] Einige Wörter, die auf einen Konsonant enden, bekommen im Plural die Endung '-nen'. Diese Pluralform ist eher selten. Beispiel: die Freundin ➔ die Freundinnen.",
+    t8_b1: "[RO] Seltene Endung: -nen",
+    t8_b2: "[RO] Meist bei Wörtern auf -in",
+    t8_inst: "[RO] Wähle die richtige Pluralform!",
+    t8_h1: "[RO] Achte auf die Endung -nen.",
+    t8_h2: "[RO] Die Freundin wird zu Freundinnen.",
+    t8_sent: "[RO] Die ___ spielen zusammen.",
+    t8_c1: "[RO] Freundinnen", t8_c2: "[RO] Freundin", t8_c3: "[RO] Freundinen", t8_c4: "[RO] Freundinn",
+
+    // T9: Umlaut + Endung
+    t9_title: "[RO] Umlaut und Endung kombiniert",
+    t9_text: "[RO] Manche Wörter bekommen nicht nur eine Endung, sondern auch einen Umlaut! Aus a wird ä, aus o wird ö, aus u wird ü. der Sohn ➔ die Söhne.",
+    t9_b1: "[RO] Umlaut + Endung zusammen",
+    t9_b2: "[RO] Mehrere Veränderungen gleichzeitig",
+    t9_inst: "[RO] Ordne die Wörter korrekt!",
+    t9_h1: "[RO] Der Vokal ändert sich (ä/ö/ü) UND eine Endung kommt dazu.",
+    t9_h2: "[RO] Sohn ➔ Söhne, Mutter ➔ Mütter",
+    t9_l1: "[RO] der Sohn", t9_r1: "[RO] die Söhne",
+    t9_l2: "[RO] die Mutter", t9_r2: "[RO] die Mütter",
+    t9_l3: "[RO] das Loch", t9_r3: "[RO] die Löcher",
+    t9_l4: "[RO] der Garten", t9_r4: "[RO] die Gärten",
+
+    // T10: Plural-Regeln Zusammenfassung
+    t10_title: "[RO] Alle Pluralregeln",
+    t10_text: "[RO] Lass uns zusammenfassen: Pluralendungen sind -e, -er, -en, -n, -s oder keine. Die Regel hängt vom Wort ab! Lernen statt auswendig lernen.",
+    t10_b1: "[RO] Achte auf das einzelne Wort.",
+    t10_b2: "[RO] Es gibt viele Regeln!",
+    t10_inst: "[RO] Welcher Plural passt zu 'Straße'?",
+    t10_h1: "[RO] Das Wort endet auf -e, also...",
+    t10_h2: "[RO] Straße ➔ Straßen",
+    t10_sent3: "[RO] Auf dieser ___ sind viele Autos.",
+    t10_c3_1: "[RO] Straßen", t10_c3_2: "[RO] Straße", t10_c3_3: "[RO] Straßes", t10_c3_4: "[RO] Straßer",
+
+    // T11: Unregelmäßige Plurale
+    t11_title: "[RO] Besondere Plurale",
+    t11_text: "[RO] Einige Wörter folgen gar nicht den Regeln! Das Kind ➔ die Kinder (ä!), der Mann ➔ die Männer. Diese musst du einfach lernen!",
+    t11_b1: "[RO] Unregelmäßige Plurale existieren.",
+    t11_b2: "[RO] Auswendig lernen hilft.",
+    t11_inst: "[RO] Finde das falsche Plural-Wort!",
+    t11_h1: "[RO] Das Kind ➔ die Kinder (nicht Kinds!)",
+    t11_h2: "[RO] Der Mann ➔ die Männer (mit Umlaut)",
+    t11_sent4: "[RO] Die ___ spielen im Park.",
+    t11_c4_1: "[RO] Kinder", t11_c4_2: "[RO] Kinds", t11_c4_3: "[RO] Kinde", t11_c4_4: "[RO] Kindren",
+
+    // T12: Plural und Artikel
+    t12_title: "[RO] Plural und Artikel",
+    t12_text: "[RO] Im Plural ist der Artikel immer 'die'! Ganz egal ob männlich, weiblich oder sächlich. der Hund ➔ die Hunde, die Katze ➔ die Katzen, das Auto ➔ die Autos!",
+    t12_b1: "[RO] Plural-Artikel ist immer 'die'.",
+    t12_b2: "[RO] Egal welches Geschlecht vorher.",
+    t12_inst: "[RO] Wähle den richtigen Plural-Artikel!",
+    t12_h1: "[RO] Der Plural nutzt immer 'die'.",
+    t12_h2: "[RO] 'die' mit jeder Pluralform!",
+    t12_bn: "[RO] Singular-Artikel", t12_ba: "[RO] Plural-Artikel",
+    t12_i1: "[RO] der", t12_i2: "[RO] die", t12_i3: "[RO] das", t12_i4: "[RO] die",
+
+    // T13: Schreib-Übung Plural
+    t13_title: "[RO] Schreib den Plural!",
+    t13_text: "[RO] Jetzt darfst du selber schreiben! Nimm ein Nomen aus dem Singular und schreibe den Plural auf. Du kannst die Regeln nutzen, um es zu versuchen!",
+    t13_b1: "[RO] Plural-Regeln anwenden.",
+    t13_inst: "[RO] Vervollständige den Satz mit der Pluralform!",
+    t13_h1: "[RO] Denk an die Endung und den Artikel.",
+    t13_h2: "[RO] Der Tisch ➔ Die Tische",
+    t13_sent5: "[RO] Im Klassenzimmer sind viele ___.",
+    t13_c5_1: "[RO] Tische", t13_c5_2: "[RO] Tisch", t13_c5_3: "[RO] Tischen", t13_c5_4: "[RO] Tische",
+
+    // T14: Fremdwörter im Plural
+    t14_title: "[RO] Fremdwörter und Plural",
+    t14_text: "[RO] Wörter aus anderen Sprachen bekommen meist ein '-s' im Plural. das Computer ➔ die Computers? Nein! das Komputersystem ➔ die Komputersysteme. Bei Fremdwörtern ist oft -s die Endung.",
+    t14_b1: "[RO] Fremdwörter ➔ oft -s",
+    t14_b2: "[RO] Computer ➔ Computer oder Computers.",
+    t14_inst: "[RO] Finde den richtigen Plural!",
+    t14_h1: "[RO] Fremdwörter bekommen oft -s",
+    t14_h2: "[RO] Auto ➔ Autos, Pizza ➔ Pizzas",
+    t14_l1: "[RO] das Auto", t14_r1: "[RO] die Autos",
+    t14_l2: "[RO] die Pizza", t14_r2: "[RO] die Pizzas",
+    t14_l3: "[RO] das Photo", t14_r3: "[RO] die Photos",
+    t14_l4: "[RO] der Chef", t14_r4: "[RO] die Chefs",
+
+    // T15: Plural-Meister-Abschluss
+    t15_title: "[RO] Du bist ein Plural-Profi!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du kennst jetzt ALLE Pluralregeln. -e, -er, -en, -s, keine Endung, Umlaute und sogar besondere Plurale! Du schaffst es!",
+    t15_b1: "[RO] Alle Pluralregeln gelernt.",
+    t15_b2: "[RO] Du bist bereit für jeden Plural!",
+    t15_inst: "[RO] Wähle den korrekten Plural!",
+    t15_h1: "[RO] Denk an alles, was du gelernt hast.",
+    t15_h2: "[RO] Welche Regel passt zu welchem Wort?",
+    t15_sent6: "[RO] In der Schule lernen viele ___.",
+    t15_c6_1: "[RO] Schüler", t15_c6_2: "[RO] Schüle", t15_c6_3: "[RO] Schülers", t15_c6_4: "[RO] Schülerin",
+  
   }
 };
 
@@ -611,6 +1118,498 @@ export const VERB3_LABELS: Record<string, Record<string, string>> = {
     t15_h2: "Welche Person? Welche Endung?",
     t15_sent3: "Wir ___ gerade Deutsch.",
     t15_c3_1: "lernen", t15_c3_2: "lernest", t15_c3_3: "lernst", t15_c3_4: "lerne",
+  },
+  en: {
+
+    explorer_title: "[EN] Verben-Meister",
+
+    // T1: Was macht das Verb?
+    t1_title: "[EN] Was macht das Verb?",
+    t1_text: "[EN] Verben sind Tunwörter. Sie verraten uns, was jemand macht oder was in einem Satz passiert. In der Grundform enden sie meist auf '-en' (spielen, rennen).",
+    t1_b1: "[EN] Verben sagen, was passiert.",
+    t1_b2: "[EN] Grundform endet auf -en.",
+    t1_inst: "[EN] Finde das Verb im Satz!",
+    t1_h1: "[EN] Was tun die Kinder?",
+    t1_h2: "[EN] Das Wort 'spielen' ist das Verb.",
+    t1_w1: "[EN] Die", t1_w2: "[EN] Kinder", t1_w3: "[EN] spielen", t1_w4: "[EN] im", t1_w5: "[EN] Garten.",
+    // Quiz: GENERATOR (verben_k3)
+
+    // T2: Der Wortstamm
+    t2_title: "[EN] Der Wortstamm",
+    t2_text: "[EN] Wenn wir bei der Grundform das '-en' am Ende weglassen, bleibt der Wortstamm übrig! Aus 'lern-en' wird 'lern'. Daran hängen wir später die Endungen.",
+    t2_b1: "[EN] Grundform minus -en = Wortstamm.",
+    t2_inst: "[EN] Welcher Wortteil ist der Stamm von 'lernen'?",
+    t2_h1: "[EN] Lass das '-en' am Ende weg.",
+    t2_h2: "[EN] Der Stamm ist 'lern'.",
+    t2_sent: "[EN] Der Wortstamm von lernen ist ___.",
+    t2_c1: "[EN] lern", t2_c2: "[EN] lernen", t2_c3: "[EN] ler", t2_c4: "[EN] nen",
+
+    // T3: Ich und Du
+    t3_title: "[EN] Ich und Du",
+    t3_text: "[EN] Jetzt hängen wir Endungen an den Stamm! Bei 'ich' hängen wir ein '-e' an (ich spiel-e). Bei 'du' hängen wir ein '-st' an (du spiel-st).",
+    t3_b1: "[EN] ich ➔ -e (ich lache)",
+    t3_b2: "[EN] du ➔ -st (du lachst)",
+    t3_inst: "[EN] Sortiere die Verben: Passen sie zu 'ich' oder 'du'?",
+    t3_h1: "[EN] Schau auf die Endung: -e oder -st?",
+    t3_h2: "[EN] spiele -> ich. lernst -> du.",
+    t3_bi: "[EN] ich 🧍", t3_bd: "[EN] du 👉",
+    t3_i1: "[EN] spiele", t3_i2: "[EN] lernst", t3_i3: "[EN] lachst", t3_i4: "[EN] renne",
+
+    // T4: Er, sie, es
+    t4_title: "[EN] Er, sie, es",
+    t4_text: "[EN] Wenn wir über jemand anderen sprechen (er, sie, es), bekommt das Verb die Endung '-t'. Zum Beispiel: er mach-t, sie tanz-t, es bell-t.",
+    t4_b1: "[EN] er, sie, es ➔ -t",
+    t4_inst: "[EN] Baue den Satz richtig zusammen!",
+    t4_h1: "[EN] Wer macht was? (Er liest...)",
+    t4_h2: "[EN] Er liest ein Buch.",
+    t4_f1: "[EN] Er", t4_f2: "[EN] liest", t4_f3: "[EN] ein", t4_f4: "[EN] Buch.",
+
+    // T5: Wir, ihr, sie (Plural)
+    t5_title: "[EN] Wir, ihr, sie (Plural)",
+    t5_text: "[EN] Jetzt sind wir viele! Bei 'wir' und 'sie' nehmen wir einfach wieder die Grundform mit '-en'. Bei 'ihr' hängen wir ein '-t' an.",
+    t5_b1: "[EN] wir / sie ➔ -en (wir laufen)",
+    t5_b2: "[EN] ihr ➔ -t (ihr lauft)",
+    t5_inst: "[EN] Bringe die Wörter in die richtige Reihenfolge!",
+    t5_h1: "[EN] Der Satzanfang ist groß (Wir).",
+    t5_h2: "[EN] Wir lernen Deutsch.",
+    t5_o1: "[EN] Wir", t5_o2: "[EN] lernen", t5_o3: "[EN] Deutsch.",
+
+    // T6: Starke Verben (Achtung!)
+    t6_title: "[EN] Starke Verben",
+    t6_text: "[EN] Manche Verben sind stark und verändern sich bei 'du' und 'er/sie/es'. Aus 'a' wird 'ä' (ich fahre ➔ du fährst). Aus 'e' wird 'i' oder 'ie' (ich sehe ➔ du siehst).",
+    t6_b1: "[EN] a ➔ ä (schlafen ➔ du schläfst)",
+    t6_b2: "[EN] e ➔ i/ie (geben ➔ er gibt)",
+    t6_inst: "[EN] Verbinde die 'ich'-Form mit der 'du'-Form!",
+    t6_h1: "[EN] Denk an den Vokalwechsel! Aus a wird ä.",
+    t6_h2: "[EN] ich fahre -> du fährst.",
+    t6_l1: "[EN] ich fahre", t6_r1: "[EN] du fährst",
+    t6_l2: "[EN] ich sehe",  t6_r2: "[EN] du siehst",
+    t6_l3: "[EN] ich spreche", t6_r3: "[EN] du sprichst",
+    t6_l4: "[EN] ich schlafe", t6_r4: "[EN] du schläfst",
+
+    // T7: Verb an zweiter Stelle
+    t7_title: "[EN] Der feste Platz",
+    t7_text: "[EN] Egal wie du den Satz umbaust, im normalen Aussagesatz steht das Verb immer fest an der 2. Stelle! 'Heute scheint die Sonne.' oder 'Die Sonne scheint heute.'",
+    t7_b1: "[EN] Verb ist immer auf Platz 2.",
+    t7_inst: "[EN] Finde das Verb im Satz!",
+    t7_h1: "[EN] Welches Wort steht an der zweiten Stelle und ist ein Tunwort?",
+    t7_h2: "[EN] Das Wort 'scheint' ist das Verb.",
+    t7_w1: "[EN] Heute", t7_w2: "[EN] scheint", t7_w3: "[EN] die", t7_w4: "[EN] Sonne", t7_w5: "[EN] .",
+
+    // T8: Modalverben (mögen, können, müssen, dürfen)
+    t8_title: "[EN] Modalverben",
+    t8_text: "[EN] Neben normalen Verben gibt es auch Modalverben: mögen, können, müssen, dürfen, sollen, wollen. Sie beschreiben eine Möglichkeit oder Notwendigkeit. Ich kann schwimmen. Du musst lernen.",
+    t8_b1: "[EN] Modalverben beschreiben Möglichkeit.",
+    t8_b2: "[EN] können, müssen, dürfen, mögen...",
+    t8_inst: "[EN] Finde das Modalverb im Satz!",
+    t8_h1: "[EN] Welches Wort beschreibt, dass etwas möglich ist?",
+    t8_h2: "[EN] 'Kann' ist ein Modalverb.",
+    t8_w1: "[EN] Ich", t8_w2: "[EN] kann", t8_w3: "[EN] sehr", t8_w4: "[EN] gut", t8_w5: "[EN] schwimmen.",
+
+    // T9: Präsens und sein
+    t9_title: "[EN] Das Verb 'sein'",
+    t9_text: "[EN] Das Verb 'sein' ist unregelmäßig und sehr wichtig! ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind. Es ist ANDERS als andere Verben!",
+    t9_b1: "[EN] Sein ist unregelmäßig.",
+    t9_b2: "[EN] du BIST (nicht: du seist!)",
+    t9_inst: "[EN] Wähle die richtige Form von 'sein'!",
+    t9_h1: "[EN] Denk dran: 'du bist' ist anders!",
+    t9_h2: "[EN] Er ist Lehrer. Sie ist Freundlich.",
+    t9_sent: "[EN] Die Kinder ___ im Garten.",
+    t9_c1: "[EN] sind", t9_c2: "[EN] seien", t9_c3: "[EN] sein", t9_c4: "[EN] seid",
+
+    // T10: Präsens und haben
+    t10_title: "[EN] Das Verb 'haben'",
+    t10_text: "[EN] Auch 'haben' ist unregelmäßig! ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben. Das brauchst du für das Perfekt!",
+    t10_b1: "[EN] Haben ist auch unregelmäßig.",
+    t10_b2: "[EN] du HAST (nicht: du habst!)",
+    t10_inst: "[EN] Bringe die Worte in die richtige Reihenfolge!",
+    t10_h1: "[EN] Wer (Der Junge) hat was (einen Ball)?",
+    t10_h2: "[EN] Der Junge hat einen Ball.",
+    t10_o1: "[EN] Der Junge", t10_o2: "[EN] hat", t10_o3: "[EN] einen", t10_o4: "[EN] Ball.",
+
+    // T11: Reflexive Verben
+    t11_title: "[EN] Reflexive Verben",
+    t11_text: "[EN] Manche Verben brauchen das Reflexivpronomen 'sich'. sich waschen, sich anziehen, sich kämmen. Das Pronomen ändert sich je nach Person!",
+    t11_b1: "[EN] Sich ist das Reflexivpronomen.",
+    t11_b2: "[EN] Ich wasche mich, du wäschst dich.",
+    t11_inst: "[EN] Finde das reflexive Verb!",
+    t11_h1: "[EN] Welches Verb hat 'sich' dabei?",
+    t11_h2: "[EN] 'sich anziehen' ist reflexiv.",
+    t11_w1: "[EN] Der Junge", t11_w2: "[EN] zieht", t11_w3: "[EN] sich", t11_w4: "[EN] an.",
+
+    // T12: Trennbare Verben (Einführung)
+    t12_title: "[EN] Trennbare Verben",
+    t12_text: "[EN] Einige Verben trennen sich! aufstehen → ich stehe auf, einkaufen → du kaufst ein. Das Präfix (auf-, ein-) geht ans Ende des Satzes!",
+    t12_b1: "[EN] Präfix trennt sich vom Verb.",
+    t12_b2: "[EN] aufstehen → ich stehe auf.",
+    t12_inst: "[EN] Welches Wort passt in die Lücke?",
+    t12_h1: "[EN] Das Präfix steht am Ende.",
+    t12_h2: "[EN] Die Familie steht um 6 Uhr ___.",
+    t12_sent2: "[EN] Die Familie steht um 6 Uhr ___.",
+    t12_c2_1: "[EN] auf", t12_c2_2: "[EN] auf-stehe", t12_c2_3: "[EN] stehe", t12_c2_4: "[EN] stehe-auf",
+
+    // T13: Verb-Konjugation Zusammenfassung
+    t13_title: "[EN] Verbformen üben",
+    t13_text: "[EN] Jetzt kennst du normale Verben, Modalverben, unregelmäßige Verben, reflexive und trennbare Verben! Alle zusammen ergeben eine vollständige Verbkonjugation.",
+    t13_b1: "[EN] Es gibt viele Verb-Typen.",
+    t13_b2: "[EN] Jeder Typ hat eigene Regeln.",
+    t13_inst: "[EN] Verbinde die Person mit der richtigen Verbform!",
+    t13_h1: "[EN] Denk an die Endungen für jede Person.",
+    t13_h2: "[EN] Ich lerne, du lernst, er lernt.",
+    t13_l1: "[EN] ich (spielen)", t13_r1: "[EN] spielen",
+    t13_l2: "[EN] du (sehen)", t13_r2: "[EN] siehst",
+    t13_l3: "[EN] er (sprechen)", t13_r3: "[EN] spricht",
+    t13_l4: "[EN] wir (tanzen)", t13_r4: "[EN] tanzen",
+
+    // T14: Verb-Stellung im Satz
+    t14_title: "[EN] Verb-Position",
+    t14_text: "[EN] Das Verb steht immer an Platz 2 im Aussagesatz, aber in Fragen und Nebensätzen nicht! 'Ich spiele gerne.' (Platz 2), 'Spielst du gerne?' (Platz 1), 'Wenn ich spiele...' (am Ende).",
+    t14_b1: "[EN] Aussagesatz: Verb auf Platz 2.",
+    t14_b2: "[EN] Frage: Verb auf Platz 1.",
+    t14_inst: "[EN] Finde das Verb an der richtigen Stelle!",
+    t14_h1: "[EN] Schau auf die Position des Verbs.",
+    t14_h2: "[EN] Im Aussagesatz ist Platz 2 normal.",
+    t14_w1: "[EN] Gerne", t14_w2: "[EN] spielen", t14_w3: "[EN] Kinder", t14_w4: "[EN] .",
+
+    // T15: Verben-Meister Finale
+    t15_title: "[EN] Du bist ein Verben-Profi!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du kennst normale Verben, Modalverben, sein, haben, reflexive und trennbare Verben! Du beherrschst die Verbkonjugation komplett!",
+    t15_b1: "[EN] Du beherrschst jetzt Verben!",
+    t15_b2: "[EN] Alle Typen und Formen.",
+    t15_inst: "[EN] Wähle die richtige Verbform!",
+    t15_h1: "[EN] Denk an alles, was du gelernt hast.",
+    t15_h2: "[EN] Welche Person? Welche Endung?",
+    t15_sent3: "[EN] Wir ___ gerade Deutsch.",
+    t15_c3_1: "[EN] lernen", t15_c3_2: "[EN] lernest", t15_c3_3: "[EN] lernst", t15_c3_4: "[EN] lerne",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Verben-Meister",
+
+    // T1: Was macht das Verb?
+    t1_title: "[HU] Was macht das Verb?",
+    t1_text: "[HU] Verben sind Tunwörter. Sie verraten uns, was jemand macht oder was in einem Satz passiert. In der Grundform enden sie meist auf '-en' (spielen, rennen).",
+    t1_b1: "[HU] Verben sagen, was passiert.",
+    t1_b2: "[HU] Grundform endet auf -en.",
+    t1_inst: "[HU] Finde das Verb im Satz!",
+    t1_h1: "[HU] Was tun die Kinder?",
+    t1_h2: "[HU] Das Wort 'spielen' ist das Verb.",
+    t1_w1: "[HU] Die", t1_w2: "[HU] Kinder", t1_w3: "[HU] spielen", t1_w4: "[HU] im", t1_w5: "[HU] Garten.",
+    // Quiz: GENERATOR (verben_k3)
+
+    // T2: Der Wortstamm
+    t2_title: "[HU] Der Wortstamm",
+    t2_text: "[HU] Wenn wir bei der Grundform das '-en' am Ende weglassen, bleibt der Wortstamm übrig! Aus 'lern-en' wird 'lern'. Daran hängen wir später die Endungen.",
+    t2_b1: "[HU] Grundform minus -en = Wortstamm.",
+    t2_inst: "[HU] Welcher Wortteil ist der Stamm von 'lernen'?",
+    t2_h1: "[HU] Lass das '-en' am Ende weg.",
+    t2_h2: "[HU] Der Stamm ist 'lern'.",
+    t2_sent: "[HU] Der Wortstamm von lernen ist ___.",
+    t2_c1: "[HU] lern", t2_c2: "[HU] lernen", t2_c3: "[HU] ler", t2_c4: "[HU] nen",
+
+    // T3: Ich und Du
+    t3_title: "[HU] Ich und Du",
+    t3_text: "[HU] Jetzt hängen wir Endungen an den Stamm! Bei 'ich' hängen wir ein '-e' an (ich spiel-e). Bei 'du' hängen wir ein '-st' an (du spiel-st).",
+    t3_b1: "[HU] ich ➔ -e (ich lache)",
+    t3_b2: "[HU] du ➔ -st (du lachst)",
+    t3_inst: "[HU] Sortiere die Verben: Passen sie zu 'ich' oder 'du'?",
+    t3_h1: "[HU] Schau auf die Endung: -e oder -st?",
+    t3_h2: "[HU] spiele -> ich. lernst -> du.",
+    t3_bi: "[HU] ich 🧍", t3_bd: "[HU] du 👉",
+    t3_i1: "[HU] spiele", t3_i2: "[HU] lernst", t3_i3: "[HU] lachst", t3_i4: "[HU] renne",
+
+    // T4: Er, sie, es
+    t4_title: "[HU] Er, sie, es",
+    t4_text: "[HU] Wenn wir über jemand anderen sprechen (er, sie, es), bekommt das Verb die Endung '-t'. Zum Beispiel: er mach-t, sie tanz-t, es bell-t.",
+    t4_b1: "[HU] er, sie, es ➔ -t",
+    t4_inst: "[HU] Baue den Satz richtig zusammen!",
+    t4_h1: "[HU] Wer macht was? (Er liest...)",
+    t4_h2: "[HU] Er liest ein Buch.",
+    t4_f1: "[HU] Er", t4_f2: "[HU] liest", t4_f3: "[HU] ein", t4_f4: "[HU] Buch.",
+
+    // T5: Wir, ihr, sie (Plural)
+    t5_title: "[HU] Wir, ihr, sie (Plural)",
+    t5_text: "[HU] Jetzt sind wir viele! Bei 'wir' und 'sie' nehmen wir einfach wieder die Grundform mit '-en'. Bei 'ihr' hängen wir ein '-t' an.",
+    t5_b1: "[HU] wir / sie ➔ -en (wir laufen)",
+    t5_b2: "[HU] ihr ➔ -t (ihr lauft)",
+    t5_inst: "[HU] Bringe die Wörter in die richtige Reihenfolge!",
+    t5_h1: "[HU] Der Satzanfang ist groß (Wir).",
+    t5_h2: "[HU] Wir lernen Deutsch.",
+    t5_o1: "[HU] Wir", t5_o2: "[HU] lernen", t5_o3: "[HU] Deutsch.",
+
+    // T6: Starke Verben (Achtung!)
+    t6_title: "[HU] Starke Verben",
+    t6_text: "[HU] Manche Verben sind stark und verändern sich bei 'du' und 'er/sie/es'. Aus 'a' wird 'ä' (ich fahre ➔ du fährst). Aus 'e' wird 'i' oder 'ie' (ich sehe ➔ du siehst).",
+    t6_b1: "[HU] a ➔ ä (schlafen ➔ du schläfst)",
+    t6_b2: "[HU] e ➔ i/ie (geben ➔ er gibt)",
+    t6_inst: "[HU] Verbinde die 'ich'-Form mit der 'du'-Form!",
+    t6_h1: "[HU] Denk an den Vokalwechsel! Aus a wird ä.",
+    t6_h2: "[HU] ich fahre -> du fährst.",
+    t6_l1: "[HU] ich fahre", t6_r1: "[HU] du fährst",
+    t6_l2: "[HU] ich sehe",  t6_r2: "[HU] du siehst",
+    t6_l3: "[HU] ich spreche", t6_r3: "[HU] du sprichst",
+    t6_l4: "[HU] ich schlafe", t6_r4: "[HU] du schläfst",
+
+    // T7: Verb an zweiter Stelle
+    t7_title: "[HU] Der feste Platz",
+    t7_text: "[HU] Egal wie du den Satz umbaust, im normalen Aussagesatz steht das Verb immer fest an der 2. Stelle! 'Heute scheint die Sonne.' oder 'Die Sonne scheint heute.'",
+    t7_b1: "[HU] Verb ist immer auf Platz 2.",
+    t7_inst: "[HU] Finde das Verb im Satz!",
+    t7_h1: "[HU] Welches Wort steht an der zweiten Stelle und ist ein Tunwort?",
+    t7_h2: "[HU] Das Wort 'scheint' ist das Verb.",
+    t7_w1: "[HU] Heute", t7_w2: "[HU] scheint", t7_w3: "[HU] die", t7_w4: "[HU] Sonne", t7_w5: "[HU] .",
+
+    // T8: Modalverben (mögen, können, müssen, dürfen)
+    t8_title: "[HU] Modalverben",
+    t8_text: "[HU] Neben normalen Verben gibt es auch Modalverben: mögen, können, müssen, dürfen, sollen, wollen. Sie beschreiben eine Möglichkeit oder Notwendigkeit. Ich kann schwimmen. Du musst lernen.",
+    t8_b1: "[HU] Modalverben beschreiben Möglichkeit.",
+    t8_b2: "[HU] können, müssen, dürfen, mögen...",
+    t8_inst: "[HU] Finde das Modalverb im Satz!",
+    t8_h1: "[HU] Welches Wort beschreibt, dass etwas möglich ist?",
+    t8_h2: "[HU] 'Kann' ist ein Modalverb.",
+    t8_w1: "[HU] Ich", t8_w2: "[HU] kann", t8_w3: "[HU] sehr", t8_w4: "[HU] gut", t8_w5: "[HU] schwimmen.",
+
+    // T9: Präsens und sein
+    t9_title: "[HU] Das Verb 'sein'",
+    t9_text: "[HU] Das Verb 'sein' ist unregelmäßig und sehr wichtig! ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind. Es ist ANDERS als andere Verben!",
+    t9_b1: "[HU] Sein ist unregelmäßig.",
+    t9_b2: "[HU] du BIST (nicht: du seist!)",
+    t9_inst: "[HU] Wähle die richtige Form von 'sein'!",
+    t9_h1: "[HU] Denk dran: 'du bist' ist anders!",
+    t9_h2: "[HU] Er ist Lehrer. Sie ist Freundlich.",
+    t9_sent: "[HU] Die Kinder ___ im Garten.",
+    t9_c1: "[HU] sind", t9_c2: "[HU] seien", t9_c3: "[HU] sein", t9_c4: "[HU] seid",
+
+    // T10: Präsens und haben
+    t10_title: "[HU] Das Verb 'haben'",
+    t10_text: "[HU] Auch 'haben' ist unregelmäßig! ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben. Das brauchst du für das Perfekt!",
+    t10_b1: "[HU] Haben ist auch unregelmäßig.",
+    t10_b2: "[HU] du HAST (nicht: du habst!)",
+    t10_inst: "[HU] Bringe die Worte in die richtige Reihenfolge!",
+    t10_h1: "[HU] Wer (Der Junge) hat was (einen Ball)?",
+    t10_h2: "[HU] Der Junge hat einen Ball.",
+    t10_o1: "[HU] Der Junge", t10_o2: "[HU] hat", t10_o3: "[HU] einen", t10_o4: "[HU] Ball.",
+
+    // T11: Reflexive Verben
+    t11_title: "[HU] Reflexive Verben",
+    t11_text: "[HU] Manche Verben brauchen das Reflexivpronomen 'sich'. sich waschen, sich anziehen, sich kämmen. Das Pronomen ändert sich je nach Person!",
+    t11_b1: "[HU] Sich ist das Reflexivpronomen.",
+    t11_b2: "[HU] Ich wasche mich, du wäschst dich.",
+    t11_inst: "[HU] Finde das reflexive Verb!",
+    t11_h1: "[HU] Welches Verb hat 'sich' dabei?",
+    t11_h2: "[HU] 'sich anziehen' ist reflexiv.",
+    t11_w1: "[HU] Der Junge", t11_w2: "[HU] zieht", t11_w3: "[HU] sich", t11_w4: "[HU] an.",
+
+    // T12: Trennbare Verben (Einführung)
+    t12_title: "[HU] Trennbare Verben",
+    t12_text: "[HU] Einige Verben trennen sich! aufstehen → ich stehe auf, einkaufen → du kaufst ein. Das Präfix (auf-, ein-) geht ans Ende des Satzes!",
+    t12_b1: "[HU] Präfix trennt sich vom Verb.",
+    t12_b2: "[HU] aufstehen → ich stehe auf.",
+    t12_inst: "[HU] Welches Wort passt in die Lücke?",
+    t12_h1: "[HU] Das Präfix steht am Ende.",
+    t12_h2: "[HU] Die Familie steht um 6 Uhr ___.",
+    t12_sent2: "[HU] Die Familie steht um 6 Uhr ___.",
+    t12_c2_1: "[HU] auf", t12_c2_2: "[HU] auf-stehe", t12_c2_3: "[HU] stehe", t12_c2_4: "[HU] stehe-auf",
+
+    // T13: Verb-Konjugation Zusammenfassung
+    t13_title: "[HU] Verbformen üben",
+    t13_text: "[HU] Jetzt kennst du normale Verben, Modalverben, unregelmäßige Verben, reflexive und trennbare Verben! Alle zusammen ergeben eine vollständige Verbkonjugation.",
+    t13_b1: "[HU] Es gibt viele Verb-Typen.",
+    t13_b2: "[HU] Jeder Typ hat eigene Regeln.",
+    t13_inst: "[HU] Verbinde die Person mit der richtigen Verbform!",
+    t13_h1: "[HU] Denk an die Endungen für jede Person.",
+    t13_h2: "[HU] Ich lerne, du lernst, er lernt.",
+    t13_l1: "[HU] ich (spielen)", t13_r1: "[HU] spielen",
+    t13_l2: "[HU] du (sehen)", t13_r2: "[HU] siehst",
+    t13_l3: "[HU] er (sprechen)", t13_r3: "[HU] spricht",
+    t13_l4: "[HU] wir (tanzen)", t13_r4: "[HU] tanzen",
+
+    // T14: Verb-Stellung im Satz
+    t14_title: "[HU] Verb-Position",
+    t14_text: "[HU] Das Verb steht immer an Platz 2 im Aussagesatz, aber in Fragen und Nebensätzen nicht! 'Ich spiele gerne.' (Platz 2), 'Spielst du gerne?' (Platz 1), 'Wenn ich spiele...' (am Ende).",
+    t14_b1: "[HU] Aussagesatz: Verb auf Platz 2.",
+    t14_b2: "[HU] Frage: Verb auf Platz 1.",
+    t14_inst: "[HU] Finde das Verb an der richtigen Stelle!",
+    t14_h1: "[HU] Schau auf die Position des Verbs.",
+    t14_h2: "[HU] Im Aussagesatz ist Platz 2 normal.",
+    t14_w1: "[HU] Gerne", t14_w2: "[HU] spielen", t14_w3: "[HU] Kinder", t14_w4: "[HU] .",
+
+    // T15: Verben-Meister Finale
+    t15_title: "[HU] Du bist ein Verben-Profi!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du kennst normale Verben, Modalverben, sein, haben, reflexive und trennbare Verben! Du beherrschst die Verbkonjugation komplett!",
+    t15_b1: "[HU] Du beherrschst jetzt Verben!",
+    t15_b2: "[HU] Alle Typen und Formen.",
+    t15_inst: "[HU] Wähle die richtige Verbform!",
+    t15_h1: "[HU] Denk an alles, was du gelernt hast.",
+    t15_h2: "[HU] Welche Person? Welche Endung?",
+    t15_sent3: "[HU] Wir ___ gerade Deutsch.",
+    t15_c3_1: "[HU] lernen", t15_c3_2: "[HU] lernest", t15_c3_3: "[HU] lernst", t15_c3_4: "[HU] lerne",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Verben-Meister",
+
+    // T1: Was macht das Verb?
+    t1_title: "[RO] Was macht das Verb?",
+    t1_text: "[RO] Verben sind Tunwörter. Sie verraten uns, was jemand macht oder was in einem Satz passiert. In der Grundform enden sie meist auf '-en' (spielen, rennen).",
+    t1_b1: "[RO] Verben sagen, was passiert.",
+    t1_b2: "[RO] Grundform endet auf -en.",
+    t1_inst: "[RO] Finde das Verb im Satz!",
+    t1_h1: "[RO] Was tun die Kinder?",
+    t1_h2: "[RO] Das Wort 'spielen' ist das Verb.",
+    t1_w1: "[RO] Die", t1_w2: "[RO] Kinder", t1_w3: "[RO] spielen", t1_w4: "[RO] im", t1_w5: "[RO] Garten.",
+    // Quiz: GENERATOR (verben_k3)
+
+    // T2: Der Wortstamm
+    t2_title: "[RO] Der Wortstamm",
+    t2_text: "[RO] Wenn wir bei der Grundform das '-en' am Ende weglassen, bleibt der Wortstamm übrig! Aus 'lern-en' wird 'lern'. Daran hängen wir später die Endungen.",
+    t2_b1: "[RO] Grundform minus -en = Wortstamm.",
+    t2_inst: "[RO] Welcher Wortteil ist der Stamm von 'lernen'?",
+    t2_h1: "[RO] Lass das '-en' am Ende weg.",
+    t2_h2: "[RO] Der Stamm ist 'lern'.",
+    t2_sent: "[RO] Der Wortstamm von lernen ist ___.",
+    t2_c1: "[RO] lern", t2_c2: "[RO] lernen", t2_c3: "[RO] ler", t2_c4: "[RO] nen",
+
+    // T3: Ich und Du
+    t3_title: "[RO] Ich und Du",
+    t3_text: "[RO] Jetzt hängen wir Endungen an den Stamm! Bei 'ich' hängen wir ein '-e' an (ich spiel-e). Bei 'du' hängen wir ein '-st' an (du spiel-st).",
+    t3_b1: "[RO] ich ➔ -e (ich lache)",
+    t3_b2: "[RO] du ➔ -st (du lachst)",
+    t3_inst: "[RO] Sortiere die Verben: Passen sie zu 'ich' oder 'du'?",
+    t3_h1: "[RO] Schau auf die Endung: -e oder -st?",
+    t3_h2: "[RO] spiele -> ich. lernst -> du.",
+    t3_bi: "[RO] ich 🧍", t3_bd: "[RO] du 👉",
+    t3_i1: "[RO] spiele", t3_i2: "[RO] lernst", t3_i3: "[RO] lachst", t3_i4: "[RO] renne",
+
+    // T4: Er, sie, es
+    t4_title: "[RO] Er, sie, es",
+    t4_text: "[RO] Wenn wir über jemand anderen sprechen (er, sie, es), bekommt das Verb die Endung '-t'. Zum Beispiel: er mach-t, sie tanz-t, es bell-t.",
+    t4_b1: "[RO] er, sie, es ➔ -t",
+    t4_inst: "[RO] Baue den Satz richtig zusammen!",
+    t4_h1: "[RO] Wer macht was? (Er liest...)",
+    t4_h2: "[RO] Er liest ein Buch.",
+    t4_f1: "[RO] Er", t4_f2: "[RO] liest", t4_f3: "[RO] ein", t4_f4: "[RO] Buch.",
+
+    // T5: Wir, ihr, sie (Plural)
+    t5_title: "[RO] Wir, ihr, sie (Plural)",
+    t5_text: "[RO] Jetzt sind wir viele! Bei 'wir' und 'sie' nehmen wir einfach wieder die Grundform mit '-en'. Bei 'ihr' hängen wir ein '-t' an.",
+    t5_b1: "[RO] wir / sie ➔ -en (wir laufen)",
+    t5_b2: "[RO] ihr ➔ -t (ihr lauft)",
+    t5_inst: "[RO] Bringe die Wörter in die richtige Reihenfolge!",
+    t5_h1: "[RO] Der Satzanfang ist groß (Wir).",
+    t5_h2: "[RO] Wir lernen Deutsch.",
+    t5_o1: "[RO] Wir", t5_o2: "[RO] lernen", t5_o3: "[RO] Deutsch.",
+
+    // T6: Starke Verben (Achtung!)
+    t6_title: "[RO] Starke Verben",
+    t6_text: "[RO] Manche Verben sind stark und verändern sich bei 'du' und 'er/sie/es'. Aus 'a' wird 'ä' (ich fahre ➔ du fährst). Aus 'e' wird 'i' oder 'ie' (ich sehe ➔ du siehst).",
+    t6_b1: "[RO] a ➔ ä (schlafen ➔ du schläfst)",
+    t6_b2: "[RO] e ➔ i/ie (geben ➔ er gibt)",
+    t6_inst: "[RO] Verbinde die 'ich'-Form mit der 'du'-Form!",
+    t6_h1: "[RO] Denk an den Vokalwechsel! Aus a wird ä.",
+    t6_h2: "[RO] ich fahre -> du fährst.",
+    t6_l1: "[RO] ich fahre", t6_r1: "[RO] du fährst",
+    t6_l2: "[RO] ich sehe",  t6_r2: "[RO] du siehst",
+    t6_l3: "[RO] ich spreche", t6_r3: "[RO] du sprichst",
+    t6_l4: "[RO] ich schlafe", t6_r4: "[RO] du schläfst",
+
+    // T7: Verb an zweiter Stelle
+    t7_title: "[RO] Der feste Platz",
+    t7_text: "[RO] Egal wie du den Satz umbaust, im normalen Aussagesatz steht das Verb immer fest an der 2. Stelle! 'Heute scheint die Sonne.' oder 'Die Sonne scheint heute.'",
+    t7_b1: "[RO] Verb ist immer auf Platz 2.",
+    t7_inst: "[RO] Finde das Verb im Satz!",
+    t7_h1: "[RO] Welches Wort steht an der zweiten Stelle und ist ein Tunwort?",
+    t7_h2: "[RO] Das Wort 'scheint' ist das Verb.",
+    t7_w1: "[RO] Heute", t7_w2: "[RO] scheint", t7_w3: "[RO] die", t7_w4: "[RO] Sonne", t7_w5: "[RO] .",
+
+    // T8: Modalverben (mögen, können, müssen, dürfen)
+    t8_title: "[RO] Modalverben",
+    t8_text: "[RO] Neben normalen Verben gibt es auch Modalverben: mögen, können, müssen, dürfen, sollen, wollen. Sie beschreiben eine Möglichkeit oder Notwendigkeit. Ich kann schwimmen. Du musst lernen.",
+    t8_b1: "[RO] Modalverben beschreiben Möglichkeit.",
+    t8_b2: "[RO] können, müssen, dürfen, mögen...",
+    t8_inst: "[RO] Finde das Modalverb im Satz!",
+    t8_h1: "[RO] Welches Wort beschreibt, dass etwas möglich ist?",
+    t8_h2: "[RO] 'Kann' ist ein Modalverb.",
+    t8_w1: "[RO] Ich", t8_w2: "[RO] kann", t8_w3: "[RO] sehr", t8_w4: "[RO] gut", t8_w5: "[RO] schwimmen.",
+
+    // T9: Präsens und sein
+    t9_title: "[RO] Das Verb 'sein'",
+    t9_text: "[RO] Das Verb 'sein' ist unregelmäßig und sehr wichtig! ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind. Es ist ANDERS als andere Verben!",
+    t9_b1: "[RO] Sein ist unregelmäßig.",
+    t9_b2: "[RO] du BIST (nicht: du seist!)",
+    t9_inst: "[RO] Wähle die richtige Form von 'sein'!",
+    t9_h1: "[RO] Denk dran: 'du bist' ist anders!",
+    t9_h2: "[RO] Er ist Lehrer. Sie ist Freundlich.",
+    t9_sent: "[RO] Die Kinder ___ im Garten.",
+    t9_c1: "[RO] sind", t9_c2: "[RO] seien", t9_c3: "[RO] sein", t9_c4: "[RO] seid",
+
+    // T10: Präsens und haben
+    t10_title: "[RO] Das Verb 'haben'",
+    t10_text: "[RO] Auch 'haben' ist unregelmäßig! ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben. Das brauchst du für das Perfekt!",
+    t10_b1: "[RO] Haben ist auch unregelmäßig.",
+    t10_b2: "[RO] du HAST (nicht: du habst!)",
+    t10_inst: "[RO] Bringe die Worte in die richtige Reihenfolge!",
+    t10_h1: "[RO] Wer (Der Junge) hat was (einen Ball)?",
+    t10_h2: "[RO] Der Junge hat einen Ball.",
+    t10_o1: "[RO] Der Junge", t10_o2: "[RO] hat", t10_o3: "[RO] einen", t10_o4: "[RO] Ball.",
+
+    // T11: Reflexive Verben
+    t11_title: "[RO] Reflexive Verben",
+    t11_text: "[RO] Manche Verben brauchen das Reflexivpronomen 'sich'. sich waschen, sich anziehen, sich kämmen. Das Pronomen ändert sich je nach Person!",
+    t11_b1: "[RO] Sich ist das Reflexivpronomen.",
+    t11_b2: "[RO] Ich wasche mich, du wäschst dich.",
+    t11_inst: "[RO] Finde das reflexive Verb!",
+    t11_h1: "[RO] Welches Verb hat 'sich' dabei?",
+    t11_h2: "[RO] 'sich anziehen' ist reflexiv.",
+    t11_w1: "[RO] Der Junge", t11_w2: "[RO] zieht", t11_w3: "[RO] sich", t11_w4: "[RO] an.",
+
+    // T12: Trennbare Verben (Einführung)
+    t12_title: "[RO] Trennbare Verben",
+    t12_text: "[RO] Einige Verben trennen sich! aufstehen → ich stehe auf, einkaufen → du kaufst ein. Das Präfix (auf-, ein-) geht ans Ende des Satzes!",
+    t12_b1: "[RO] Präfix trennt sich vom Verb.",
+    t12_b2: "[RO] aufstehen → ich stehe auf.",
+    t12_inst: "[RO] Welches Wort passt in die Lücke?",
+    t12_h1: "[RO] Das Präfix steht am Ende.",
+    t12_h2: "[RO] Die Familie steht um 6 Uhr ___.",
+    t12_sent2: "[RO] Die Familie steht um 6 Uhr ___.",
+    t12_c2_1: "[RO] auf", t12_c2_2: "[RO] auf-stehe", t12_c2_3: "[RO] stehe", t12_c2_4: "[RO] stehe-auf",
+
+    // T13: Verb-Konjugation Zusammenfassung
+    t13_title: "[RO] Verbformen üben",
+    t13_text: "[RO] Jetzt kennst du normale Verben, Modalverben, unregelmäßige Verben, reflexive und trennbare Verben! Alle zusammen ergeben eine vollständige Verbkonjugation.",
+    t13_b1: "[RO] Es gibt viele Verb-Typen.",
+    t13_b2: "[RO] Jeder Typ hat eigene Regeln.",
+    t13_inst: "[RO] Verbinde die Person mit der richtigen Verbform!",
+    t13_h1: "[RO] Denk an die Endungen für jede Person.",
+    t13_h2: "[RO] Ich lerne, du lernst, er lernt.",
+    t13_l1: "[RO] ich (spielen)", t13_r1: "[RO] spielen",
+    t13_l2: "[RO] du (sehen)", t13_r2: "[RO] siehst",
+    t13_l3: "[RO] er (sprechen)", t13_r3: "[RO] spricht",
+    t13_l4: "[RO] wir (tanzen)", t13_r4: "[RO] tanzen",
+
+    // T14: Verb-Stellung im Satz
+    t14_title: "[RO] Verb-Position",
+    t14_text: "[RO] Das Verb steht immer an Platz 2 im Aussagesatz, aber in Fragen und Nebensätzen nicht! 'Ich spiele gerne.' (Platz 2), 'Spielst du gerne?' (Platz 1), 'Wenn ich spiele...' (am Ende).",
+    t14_b1: "[RO] Aussagesatz: Verb auf Platz 2.",
+    t14_b2: "[RO] Frage: Verb auf Platz 1.",
+    t14_inst: "[RO] Finde das Verb an der richtigen Stelle!",
+    t14_h1: "[RO] Schau auf die Position des Verbs.",
+    t14_h2: "[RO] Im Aussagesatz ist Platz 2 normal.",
+    t14_w1: "[RO] Gerne", t14_w2: "[RO] spielen", t14_w3: "[RO] Kinder", t14_w4: "[RO] .",
+
+    // T15: Verben-Meister Finale
+    t15_title: "[RO] Du bist ein Verben-Profi!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du kennst normale Verben, Modalverben, sein, haben, reflexive und trennbare Verben! Du beherrschst die Verbkonjugation komplett!",
+    t15_b1: "[RO] Du beherrschst jetzt Verben!",
+    t15_b2: "[RO] Alle Typen und Formen.",
+    t15_inst: "[RO] Wähle die richtige Verbform!",
+    t15_h1: "[RO] Denk an alles, was du gelernt hast.",
+    t15_h2: "[RO] Welche Person? Welche Endung?",
+    t15_sent3: "[RO] Wir ___ gerade Deutsch.",
+    t15_c3_1: "[RO] lernen", t15_c3_2: "[RO] lernest", t15_c3_3: "[RO] lernst", t15_c3_4: "[RO] lerne",
+  
   }
 };
 
@@ -1049,6 +2048,528 @@ export const STEIGER_LABELS: Record<string, Record<string, string>> = {
     t15_h2: "schön, schöner, am schönsten",
     t15_sent15: "Das ist das ___ Bild im Museum.",
     t15_c15_1: "am schönsten", t15_c15_2: "schöner", t15_c15_3: "schönsten", t15_c15_4: "schön",
+  },
+  en: {
+
+    explorer_title: "[EN] Steigerungsinsel",
+
+    // T1: Was ist Steigerung?
+    t1_title: "[EN] Was ist Steigerung?",
+    t1_text: "[EN] Mit Adjektiven können wir Dinge vergleichen. Es gibt drei Stufen: Die Grundform (schnell), die 1. Stufe (schneller) und die höchste Stufe (am schnellsten).",
+    t1_b1: "[EN] 1. schnell (Grundform)",
+    t1_b2: "[EN] 2. schneller (+ er)",
+    t1_b3: "[EN] 3. am schnellsten (am ... + sten)",
+    t1_inst: "[EN] Bringe die Wörter in die richtige Reihenfolge!",
+    t1_h1: "[EN] Fange mit dem normalen Wort an, dann das mit '-er', dann 'am ...'.",
+    t1_h2: "[EN] klein -> kleiner -> am kleinsten.",
+    t1_o1: "[EN] klein", t1_o2: "[EN] kleiner", t1_o3: "[EN] am kleinsten",
+    // Quiz: GENERATOR (adjektive_gegenteil)
+
+    // T2: Die 1. Stufe (Komparativ) + "als"
+    t2_title: "[EN] Die 1. Stufe (-er)",
+    t2_text: "[EN] Wenn etwas MEHR ist als das andere, hängen wir ein '-er' an das Wort. Wir benutzen dann das kleine Wort 'als'. Der Gepard ist schneller ALS der Hund.",
+    t2_b1: "[EN] Endung: -er.",
+    t2_b2: "[EN] Wir vergleichen mit 'als'.",
+    t2_inst: "[EN] Welches Wort passt in die Lücke?",
+    t2_h1: "[EN] Der Zug ist nicht nur schnell, er ist 'mehr' schnell.",
+    t2_h2: "[EN] Er ist 'schneller'.",
+    t2_sent: "[EN] Der Zug ist ___ als das Auto.",
+    t2_c1: "[EN] schneller", t2_c2: "[EN] schnell", t2_c3: "[EN] schnellsten", t2_c4: "[EN] schnelle",
+
+    // T3: Die höchste Stufe (Superlativ)
+    t3_title: "[EN] Die höchste Stufe",
+    t3_text: "[EN] Wenn etwas nicht mehr zu übertreffen ist, nutzen wir die 3. Stufe. Sie beginnt immer mit 'am' und endet auf '-sten'. Der Gepard ist AM schnellSTEN.",
+    t3_b1: "[EN] am ... -sten",
+    t3_b2: "[EN] Niemand ist mehr oder besser!",
+    t3_inst: "[EN] Finde die höchste Stufe im Satz!",
+    t3_h1: "[EN] Suche das Wort, das mit 'am' beginnt und auf '-sten' endet.",
+    t3_h2: "[EN] 'am lautesten' ist die höchste Stufe.",
+    t3_w1: "[EN] Der", t3_w2: "[EN] Löwe", t3_w3: "[EN] brüllt", t3_w4: "[EN] am", t3_w5: "[EN] lautesten", t3_w6: "[EN] .",
+
+    // T4: Achtung, Umlaut!
+    t4_title: "[EN] Achtung, Umlaut!",
+    t4_text: "[EN] Manche kurze Adjektive bekommen in der Steigerung einen Umlaut (ä, ö, ü). Aus a wird ä (alt -> älter). Aus o wird ö (groß -> größer).",
+    t4_b1: "[EN] alt ➔ älter",
+    t4_b2: "[EN] groß ➔ größer",
+    t4_inst: "[EN] Verbinde die Grundform mit der 1. Stufe!",
+    t4_h1: "[EN] Denk an den Umlaut! a -> ä, o -> ö, u -> ü.",
+    t4_h2: "[EN] kalt -> kälter, jung -> jünger.",
+    t4_l1: "[EN] alt", t4_r1: "[EN] älter",
+    t4_l2: "[EN] groß", t4_r2: "[EN] größer",
+    t4_l3: "[EN] jung", t4_r3: "[EN] jünger",
+    t4_l4: "[EN] kalt", t4_r4: "[EN] kälter",
+
+    // T5: "wie" oder "als"?
+    t5_title: "[EN] Genauso 'wie' oder mehr 'als'?",
+    t5_text: "[EN] Das ist ein berühmter Fehler! Sind zwei Dinge GLEICH, sagen wir 'wie' (so groß wie). Ist eines MEHR, sagen wir 'als' (größer als).",
+    t5_b1: "[EN] Gleich = wie (genauso schnell wie).",
+    t5_b2: "[EN] Anders = als (schneller als).",
+    t5_inst: "[EN] Sortiere: Kommt 'wie' oder 'als'?",
+    t5_h1: "[EN] Steht das Wort in der Grundform (schnell) oder 1. Stufe (schneller)?",
+    t5_h2: "[EN] so groß -> wie. älter -> als.",
+    t5_bw: "[EN] wie (gleich) ⚖️", t5_ba: "[EN] als (mehr) 📈",
+    t5_i1: "[EN] so stark", t5_i2: "[EN] stärker", t5_i3: "[EN] kleiner", t5_i4: "[EN] genauso alt",
+
+    // T6: Die Ausnahmen (gut, viel, gern)
+    t6_title: "[EN] Die Ausnahmen",
+    t6_text: "[EN] Drei Adjektive halten sich an keine Regeln! Sie verändern sich komplett: gut ➔ besser ➔ am besten. viel ➔ mehr ➔ am meisten. gern ➔ lieber ➔ am liebsten.",
+    t6_b1: "[EN] gut ➔ besser ➔ am besten",
+    t6_b2: "[EN] viel ➔ mehr ➔ am meisten",
+    t6_inst: "[EN] Welches Wort ist die Steigerung von 'gut'?",
+    t6_h1: "[EN] Es heißt nicht 'guter'!",
+    t6_h2: "[EN] gut -> besser.",
+    t6_sent_ex: "[EN] Ich bin gut, aber du bist ___.",
+    t6_ce1: "[EN] besser", t6_ce2: "[EN] guter", t6_ce3: "[EN] mehr", t6_ce4: "[EN] am besten",
+
+    // T7: Der Steigerungs-Meister
+    t7_title: "[EN] Der Steigerungs-Meister",
+    t7_text: "[EN] Beweise, dass du ein Meister im Vergleichen bist! Baue diesen Satz über den höchsten Berg richtig zusammen.",
+    t7_b1: "[EN] Nutze die 3. Stufe für das Größte!",
+    t7_inst: "[EN] Baue den Satz zusammen!",
+    t7_h1: "[EN] Der Satzanfang (Der) ist groß.",
+    t7_h2: "[EN] Der Berg ist am höchsten.",
+    t7_f1: "[EN] Der", t7_f2: "[EN] Berg", t7_f3: "[EN] ist", t7_f4: "[EN] am höchsten.",
+
+    // T8: Adjektive vergleichen
+    t8_title: "[EN] Adjektive vergleichen",
+    t8_text: "[EN] Mit Steigerung kannst du Dinge vergleichen! Der Berg ist höher als das Haus. Das Flugzeug ist schneller als das Auto.",
+    t8_b1: "[EN] Vergleiche zwei Dinge.",
+    t8_b2: "[EN] Nutze die 1. Stufe + 'als'.",
+    t8_inst: "[EN] Wähle das Adjektiv für den Vergleich!",
+    t8_h1: "[EN] Das Haus ist... Was ist größer?",
+    t8_h2: "[EN] Das Haus ist größer als die Hütte.",
+    t8_sent8: "[EN] Die Stadt ist ___ als das Dorf.",
+    t8_c8_1: "[EN] älter", t8_c8_2: "[EN] alt", t8_c8_3: "[EN] am ältesten", t8_c8_4: "[EN] ältern",
+
+    // T9: Umlaute in der Steigerung
+    t9_title: "[EN] Umlaute bei Steigerung",
+    t9_text: "[EN] Viele Adjektive bekommen Umlaute! alt ➔ älter, groß ➔ größer, warm ➔ wärmer.",
+    t9_b1: "[EN] Umlaut bei kurzen Adjektiven.",
+    t9_b2: "[EN] a→ä, o→ö, u→ü",
+    t9_inst: "[EN] Verbinde die Formen!",
+    t9_h1: "[EN] Denk an den Umlaut!",
+    t9_h2: "[EN] alt -> älter -> am ältesten",
+    t9_l1: "[EN] alt", t9_r1: "[EN] älter",
+    t9_l2: "[EN] groß", t9_r2: "[EN] größer",
+    t9_l3: "[EN] warm", t9_r3: "[EN] wärmer",
+    t9_l4: "[EN] jung", t9_r4: "[EN] jünger",
+
+    // T10: Superlativ-Formen
+    t10_title: "[EN] Die höchste Stufe",
+    t10_text: "[EN] Die 2. Stufe heißt Superlativ. Sie beginnt mit 'am': am schnellsten, am größten, am höchsten!",
+    t10_b1: "[EN] Superlativ = höchste Stufe.",
+    t10_b2: "[EN] Mit 'am' oder Artikel: der/die/das...",
+    t10_inst: "[EN] Wähle die Superlativ-Form!",
+    t10_h1: "[EN] Die höchste Stufe beginnt mit 'am'.",
+    t10_h2: "[EN] schnell -> am schnellsten",
+    t10_sent10: "[EN] Das Flugzeug ist ___.",
+    t10_c10_1: "[EN] am schnellsten", t10_c10_2: "[EN] schneller", t10_c10_3: "[EN] schnell", t10_c10_4: "[EN] schnellest",
+
+    // T11: Endungen richtig
+    t11_title: "[EN] Endungen der Steigerung",
+    t11_text: "[EN] 1. Stufe: '-er' (schnell ➔ schneller). 2. Stufe: '-st' oder '-est' (schnell ➔ am schnellsten).",
+    t11_b1: "[EN] 1. Stufe bekommt -er.",
+    t11_b2: "[EN] 2. Stufe bekommt -st/-est.",
+    t11_inst: "[EN] Ordne die Formen!",
+    t11_h1: "[EN] Welche Endung gehört zu welcher Stufe?",
+    t11_h2: "[EN] klein, kleiner, am kleinsten",
+    t11_l1: "[EN] lang", t11_r1: "[EN] länger",
+    t11_l2: "[EN] laut", t11_r2: "[EN] lauter",
+    t11_l3: "[EN] scharf", t11_r3: "[EN] schärfer",
+    t11_l4: "[EN] blöd", t11_r4: "[EN] blöder",
+
+    // T12: Besondere Adjektive
+    t12_title: "[EN] Spezial-Adjektive",
+    t12_text: "[EN] hoch (nicht hocher!), nah (näher, am nächsten), dunkel, teuer haben Besonderheiten in der Steigerung!",
+    t12_b1: "[EN] Manche sind speziell.",
+    t12_b2: "[EN] hoch ➔ höher (nicht hocher!)",
+    t12_inst: "[EN] Wähle die richtige Form!",
+    t12_h1: "[EN] hoch wird zu... höher!",
+    t12_h2: "[EN] Der Berg ist hoch, die Kirche ist höher.",
+    t12_sent12: "[EN] Der Turm ist ___.",
+    t12_c12_1: "[EN] höher", t12_c12_2: "[EN] hoher", t12_c12_3: "[EN] höchst", t12_c12_4: "[EN] am hochsten",
+
+    // T13: Negative Steigerung
+    t13_title: "[EN] Weniger große",
+    t13_text: "[EN] Es gibt auch 'negative' Steigerungen: weniger groß, am wenigsten groß. Das ist auch Steigerung!",
+    t13_b1: "[EN] weniger ist auch Steigerung.",
+    t13_b2: "[EN] weniger... am wenigsten",
+    t13_inst: "[EN] Wähle den richtigen Vergleich!",
+    t13_h1: "[EN] Denk an 'weniger'!",
+    t13_h2: "[EN] Mein Zimmer ist weniger groß.",
+    t13_sent13: "[EN] Sein Zimmer ist ___ als meins.",
+    t13_c13_1: "[EN] weniger groß", t13_c13_2: "[EN] größer", t13_c13_3: "[EN] am größten", t13_c13_4: "[EN] groß",
+
+    // T14: Steigerung in Sätzen
+    t14_title: "[EN] Je... desto Sätze",
+    t14_text: "[EN] Eine spezielle Regel: 'Je höher du gehst, desto kälter wird es.' Je mit Steigerung, desto mit Steigerung!",
+    t14_b1: "[EN] Je ... desto ist eine Regel!",
+    t14_b2: "[EN] Beide Teile gesteigert.",
+    t14_inst: "[EN] Vervollständige den Satz!",
+    t14_h1: "[EN] Je (Steigerung), desto (Steigerung).",
+    t14_h2: "[EN] Je wärmer, desto schneller.",
+    t14_sent14: "[EN] Je größer der Berg, desto ___ die Luft.",
+    t14_c14_1: "[EN] kälter", t14_c14_2: "[EN] kalt", t14_c14_3: "[EN] am kältesten", t14_c14_4: "[EN] kältest",
+
+    // T15: Steigerungs-Profi
+    t15_title: "[EN] Du bist ein Steigerungs-Profi!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du kennst die 1. Stufe, die 2. Stufe, Umlaute, Ausnahmen und sogar 'je...desto' Sätze!",
+    t15_b1: "[EN] Du beherrschst Steigerung!",
+    t15_b2: "[EN] Alle Formen und Regeln!",
+    t15_inst: "[EN] Wähle die richtige Steigerung!",
+    t15_h1: "[EN] Denk an alles, was du gelernt hast.",
+    t15_h2: "[EN] schön, schöner, am schönsten",
+    t15_sent15: "[EN] Das ist das ___ Bild im Museum.",
+    t15_c15_1: "[EN] am schönsten", t15_c15_2: "[EN] schöner", t15_c15_3: "[EN] schönsten", t15_c15_4: "[EN] schön",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Steigerungsinsel",
+
+    // T1: Was ist Steigerung?
+    t1_title: "[HU] Was ist Steigerung?",
+    t1_text: "[HU] Mit Adjektiven können wir Dinge vergleichen. Es gibt drei Stufen: Die Grundform (schnell), die 1. Stufe (schneller) und die höchste Stufe (am schnellsten).",
+    t1_b1: "[HU] 1. schnell (Grundform)",
+    t1_b2: "[HU] 2. schneller (+ er)",
+    t1_b3: "[HU] 3. am schnellsten (am ... + sten)",
+    t1_inst: "[HU] Bringe die Wörter in die richtige Reihenfolge!",
+    t1_h1: "[HU] Fange mit dem normalen Wort an, dann das mit '-er', dann 'am ...'.",
+    t1_h2: "[HU] klein -> kleiner -> am kleinsten.",
+    t1_o1: "[HU] klein", t1_o2: "[HU] kleiner", t1_o3: "[HU] am kleinsten",
+    // Quiz: GENERATOR (adjektive_gegenteil)
+
+    // T2: Die 1. Stufe (Komparativ) + "als"
+    t2_title: "[HU] Die 1. Stufe (-er)",
+    t2_text: "[HU] Wenn etwas MEHR ist als das andere, hängen wir ein '-er' an das Wort. Wir benutzen dann das kleine Wort 'als'. Der Gepard ist schneller ALS der Hund.",
+    t2_b1: "[HU] Endung: -er.",
+    t2_b2: "[HU] Wir vergleichen mit 'als'.",
+    t2_inst: "[HU] Welches Wort passt in die Lücke?",
+    t2_h1: "[HU] Der Zug ist nicht nur schnell, er ist 'mehr' schnell.",
+    t2_h2: "[HU] Er ist 'schneller'.",
+    t2_sent: "[HU] Der Zug ist ___ als das Auto.",
+    t2_c1: "[HU] schneller", t2_c2: "[HU] schnell", t2_c3: "[HU] schnellsten", t2_c4: "[HU] schnelle",
+
+    // T3: Die höchste Stufe (Superlativ)
+    t3_title: "[HU] Die höchste Stufe",
+    t3_text: "[HU] Wenn etwas nicht mehr zu übertreffen ist, nutzen wir die 3. Stufe. Sie beginnt immer mit 'am' und endet auf '-sten'. Der Gepard ist AM schnellSTEN.",
+    t3_b1: "[HU] am ... -sten",
+    t3_b2: "[HU] Niemand ist mehr oder besser!",
+    t3_inst: "[HU] Finde die höchste Stufe im Satz!",
+    t3_h1: "[HU] Suche das Wort, das mit 'am' beginnt und auf '-sten' endet.",
+    t3_h2: "[HU] 'am lautesten' ist die höchste Stufe.",
+    t3_w1: "[HU] Der", t3_w2: "[HU] Löwe", t3_w3: "[HU] brüllt", t3_w4: "[HU] am", t3_w5: "[HU] lautesten", t3_w6: "[HU] .",
+
+    // T4: Achtung, Umlaut!
+    t4_title: "[HU] Achtung, Umlaut!",
+    t4_text: "[HU] Manche kurze Adjektive bekommen in der Steigerung einen Umlaut (ä, ö, ü). Aus a wird ä (alt -> älter). Aus o wird ö (groß -> größer).",
+    t4_b1: "[HU] alt ➔ älter",
+    t4_b2: "[HU] groß ➔ größer",
+    t4_inst: "[HU] Verbinde die Grundform mit der 1. Stufe!",
+    t4_h1: "[HU] Denk an den Umlaut! a -> ä, o -> ö, u -> ü.",
+    t4_h2: "[HU] kalt -> kälter, jung -> jünger.",
+    t4_l1: "[HU] alt", t4_r1: "[HU] älter",
+    t4_l2: "[HU] groß", t4_r2: "[HU] größer",
+    t4_l3: "[HU] jung", t4_r3: "[HU] jünger",
+    t4_l4: "[HU] kalt", t4_r4: "[HU] kälter",
+
+    // T5: "wie" oder "als"?
+    t5_title: "[HU] Genauso 'wie' oder mehr 'als'?",
+    t5_text: "[HU] Das ist ein berühmter Fehler! Sind zwei Dinge GLEICH, sagen wir 'wie' (so groß wie). Ist eines MEHR, sagen wir 'als' (größer als).",
+    t5_b1: "[HU] Gleich = wie (genauso schnell wie).",
+    t5_b2: "[HU] Anders = als (schneller als).",
+    t5_inst: "[HU] Sortiere: Kommt 'wie' oder 'als'?",
+    t5_h1: "[HU] Steht das Wort in der Grundform (schnell) oder 1. Stufe (schneller)?",
+    t5_h2: "[HU] so groß -> wie. älter -> als.",
+    t5_bw: "[HU] wie (gleich) ⚖️", t5_ba: "[HU] als (mehr) 📈",
+    t5_i1: "[HU] so stark", t5_i2: "[HU] stärker", t5_i3: "[HU] kleiner", t5_i4: "[HU] genauso alt",
+
+    // T6: Die Ausnahmen (gut, viel, gern)
+    t6_title: "[HU] Die Ausnahmen",
+    t6_text: "[HU] Drei Adjektive halten sich an keine Regeln! Sie verändern sich komplett: gut ➔ besser ➔ am besten. viel ➔ mehr ➔ am meisten. gern ➔ lieber ➔ am liebsten.",
+    t6_b1: "[HU] gut ➔ besser ➔ am besten",
+    t6_b2: "[HU] viel ➔ mehr ➔ am meisten",
+    t6_inst: "[HU] Welches Wort ist die Steigerung von 'gut'?",
+    t6_h1: "[HU] Es heißt nicht 'guter'!",
+    t6_h2: "[HU] gut -> besser.",
+    t6_sent_ex: "[HU] Ich bin gut, aber du bist ___.",
+    t6_ce1: "[HU] besser", t6_ce2: "[HU] guter", t6_ce3: "[HU] mehr", t6_ce4: "[HU] am besten",
+
+    // T7: Der Steigerungs-Meister
+    t7_title: "[HU] Der Steigerungs-Meister",
+    t7_text: "[HU] Beweise, dass du ein Meister im Vergleichen bist! Baue diesen Satz über den höchsten Berg richtig zusammen.",
+    t7_b1: "[HU] Nutze die 3. Stufe für das Größte!",
+    t7_inst: "[HU] Baue den Satz zusammen!",
+    t7_h1: "[HU] Der Satzanfang (Der) ist groß.",
+    t7_h2: "[HU] Der Berg ist am höchsten.",
+    t7_f1: "[HU] Der", t7_f2: "[HU] Berg", t7_f3: "[HU] ist", t7_f4: "[HU] am höchsten.",
+
+    // T8: Adjektive vergleichen
+    t8_title: "[HU] Adjektive vergleichen",
+    t8_text: "[HU] Mit Steigerung kannst du Dinge vergleichen! Der Berg ist höher als das Haus. Das Flugzeug ist schneller als das Auto.",
+    t8_b1: "[HU] Vergleiche zwei Dinge.",
+    t8_b2: "[HU] Nutze die 1. Stufe + 'als'.",
+    t8_inst: "[HU] Wähle das Adjektiv für den Vergleich!",
+    t8_h1: "[HU] Das Haus ist... Was ist größer?",
+    t8_h2: "[HU] Das Haus ist größer als die Hütte.",
+    t8_sent8: "[HU] Die Stadt ist ___ als das Dorf.",
+    t8_c8_1: "[HU] älter", t8_c8_2: "[HU] alt", t8_c8_3: "[HU] am ältesten", t8_c8_4: "[HU] ältern",
+
+    // T9: Umlaute in der Steigerung
+    t9_title: "[HU] Umlaute bei Steigerung",
+    t9_text: "[HU] Viele Adjektive bekommen Umlaute! alt ➔ älter, groß ➔ größer, warm ➔ wärmer.",
+    t9_b1: "[HU] Umlaut bei kurzen Adjektiven.",
+    t9_b2: "[HU] a→ä, o→ö, u→ü",
+    t9_inst: "[HU] Verbinde die Formen!",
+    t9_h1: "[HU] Denk an den Umlaut!",
+    t9_h2: "[HU] alt -> älter -> am ältesten",
+    t9_l1: "[HU] alt", t9_r1: "[HU] älter",
+    t9_l2: "[HU] groß", t9_r2: "[HU] größer",
+    t9_l3: "[HU] warm", t9_r3: "[HU] wärmer",
+    t9_l4: "[HU] jung", t9_r4: "[HU] jünger",
+
+    // T10: Superlativ-Formen
+    t10_title: "[HU] Die höchste Stufe",
+    t10_text: "[HU] Die 2. Stufe heißt Superlativ. Sie beginnt mit 'am': am schnellsten, am größten, am höchsten!",
+    t10_b1: "[HU] Superlativ = höchste Stufe.",
+    t10_b2: "[HU] Mit 'am' oder Artikel: der/die/das...",
+    t10_inst: "[HU] Wähle die Superlativ-Form!",
+    t10_h1: "[HU] Die höchste Stufe beginnt mit 'am'.",
+    t10_h2: "[HU] schnell -> am schnellsten",
+    t10_sent10: "[HU] Das Flugzeug ist ___.",
+    t10_c10_1: "[HU] am schnellsten", t10_c10_2: "[HU] schneller", t10_c10_3: "[HU] schnell", t10_c10_4: "[HU] schnellest",
+
+    // T11: Endungen richtig
+    t11_title: "[HU] Endungen der Steigerung",
+    t11_text: "[HU] 1. Stufe: '-er' (schnell ➔ schneller). 2. Stufe: '-st' oder '-est' (schnell ➔ am schnellsten).",
+    t11_b1: "[HU] 1. Stufe bekommt -er.",
+    t11_b2: "[HU] 2. Stufe bekommt -st/-est.",
+    t11_inst: "[HU] Ordne die Formen!",
+    t11_h1: "[HU] Welche Endung gehört zu welcher Stufe?",
+    t11_h2: "[HU] klein, kleiner, am kleinsten",
+    t11_l1: "[HU] lang", t11_r1: "[HU] länger",
+    t11_l2: "[HU] laut", t11_r2: "[HU] lauter",
+    t11_l3: "[HU] scharf", t11_r3: "[HU] schärfer",
+    t11_l4: "[HU] blöd", t11_r4: "[HU] blöder",
+
+    // T12: Besondere Adjektive
+    t12_title: "[HU] Spezial-Adjektive",
+    t12_text: "[HU] hoch (nicht hocher!), nah (näher, am nächsten), dunkel, teuer haben Besonderheiten in der Steigerung!",
+    t12_b1: "[HU] Manche sind speziell.",
+    t12_b2: "[HU] hoch ➔ höher (nicht hocher!)",
+    t12_inst: "[HU] Wähle die richtige Form!",
+    t12_h1: "[HU] hoch wird zu... höher!",
+    t12_h2: "[HU] Der Berg ist hoch, die Kirche ist höher.",
+    t12_sent12: "[HU] Der Turm ist ___.",
+    t12_c12_1: "[HU] höher", t12_c12_2: "[HU] hoher", t12_c12_3: "[HU] höchst", t12_c12_4: "[HU] am hochsten",
+
+    // T13: Negative Steigerung
+    t13_title: "[HU] Weniger große",
+    t13_text: "[HU] Es gibt auch 'negative' Steigerungen: weniger groß, am wenigsten groß. Das ist auch Steigerung!",
+    t13_b1: "[HU] weniger ist auch Steigerung.",
+    t13_b2: "[HU] weniger... am wenigsten",
+    t13_inst: "[HU] Wähle den richtigen Vergleich!",
+    t13_h1: "[HU] Denk an 'weniger'!",
+    t13_h2: "[HU] Mein Zimmer ist weniger groß.",
+    t13_sent13: "[HU] Sein Zimmer ist ___ als meins.",
+    t13_c13_1: "[HU] weniger groß", t13_c13_2: "[HU] größer", t13_c13_3: "[HU] am größten", t13_c13_4: "[HU] groß",
+
+    // T14: Steigerung in Sätzen
+    t14_title: "[HU] Je... desto Sätze",
+    t14_text: "[HU] Eine spezielle Regel: 'Je höher du gehst, desto kälter wird es.' Je mit Steigerung, desto mit Steigerung!",
+    t14_b1: "[HU] Je ... desto ist eine Regel!",
+    t14_b2: "[HU] Beide Teile gesteigert.",
+    t14_inst: "[HU] Vervollständige den Satz!",
+    t14_h1: "[HU] Je (Steigerung), desto (Steigerung).",
+    t14_h2: "[HU] Je wärmer, desto schneller.",
+    t14_sent14: "[HU] Je größer der Berg, desto ___ die Luft.",
+    t14_c14_1: "[HU] kälter", t14_c14_2: "[HU] kalt", t14_c14_3: "[HU] am kältesten", t14_c14_4: "[HU] kältest",
+
+    // T15: Steigerungs-Profi
+    t15_title: "[HU] Du bist ein Steigerungs-Profi!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du kennst die 1. Stufe, die 2. Stufe, Umlaute, Ausnahmen und sogar 'je...desto' Sätze!",
+    t15_b1: "[HU] Du beherrschst Steigerung!",
+    t15_b2: "[HU] Alle Formen und Regeln!",
+    t15_inst: "[HU] Wähle die richtige Steigerung!",
+    t15_h1: "[HU] Denk an alles, was du gelernt hast.",
+    t15_h2: "[HU] schön, schöner, am schönsten",
+    t15_sent15: "[HU] Das ist das ___ Bild im Museum.",
+    t15_c15_1: "[HU] am schönsten", t15_c15_2: "[HU] schöner", t15_c15_3: "[HU] schönsten", t15_c15_4: "[HU] schön",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Steigerungsinsel",
+
+    // T1: Was ist Steigerung?
+    t1_title: "[RO] Was ist Steigerung?",
+    t1_text: "[RO] Mit Adjektiven können wir Dinge vergleichen. Es gibt drei Stufen: Die Grundform (schnell), die 1. Stufe (schneller) und die höchste Stufe (am schnellsten).",
+    t1_b1: "[RO] 1. schnell (Grundform)",
+    t1_b2: "[RO] 2. schneller (+ er)",
+    t1_b3: "[RO] 3. am schnellsten (am ... + sten)",
+    t1_inst: "[RO] Bringe die Wörter in die richtige Reihenfolge!",
+    t1_h1: "[RO] Fange mit dem normalen Wort an, dann das mit '-er', dann 'am ...'.",
+    t1_h2: "[RO] klein -> kleiner -> am kleinsten.",
+    t1_o1: "[RO] klein", t1_o2: "[RO] kleiner", t1_o3: "[RO] am kleinsten",
+    // Quiz: GENERATOR (adjektive_gegenteil)
+
+    // T2: Die 1. Stufe (Komparativ) + "als"
+    t2_title: "[RO] Die 1. Stufe (-er)",
+    t2_text: "[RO] Wenn etwas MEHR ist als das andere, hängen wir ein '-er' an das Wort. Wir benutzen dann das kleine Wort 'als'. Der Gepard ist schneller ALS der Hund.",
+    t2_b1: "[RO] Endung: -er.",
+    t2_b2: "[RO] Wir vergleichen mit 'als'.",
+    t2_inst: "[RO] Welches Wort passt in die Lücke?",
+    t2_h1: "[RO] Der Zug ist nicht nur schnell, er ist 'mehr' schnell.",
+    t2_h2: "[RO] Er ist 'schneller'.",
+    t2_sent: "[RO] Der Zug ist ___ als das Auto.",
+    t2_c1: "[RO] schneller", t2_c2: "[RO] schnell", t2_c3: "[RO] schnellsten", t2_c4: "[RO] schnelle",
+
+    // T3: Die höchste Stufe (Superlativ)
+    t3_title: "[RO] Die höchste Stufe",
+    t3_text: "[RO] Wenn etwas nicht mehr zu übertreffen ist, nutzen wir die 3. Stufe. Sie beginnt immer mit 'am' und endet auf '-sten'. Der Gepard ist AM schnellSTEN.",
+    t3_b1: "[RO] am ... -sten",
+    t3_b2: "[RO] Niemand ist mehr oder besser!",
+    t3_inst: "[RO] Finde die höchste Stufe im Satz!",
+    t3_h1: "[RO] Suche das Wort, das mit 'am' beginnt und auf '-sten' endet.",
+    t3_h2: "[RO] 'am lautesten' ist die höchste Stufe.",
+    t3_w1: "[RO] Der", t3_w2: "[RO] Löwe", t3_w3: "[RO] brüllt", t3_w4: "[RO] am", t3_w5: "[RO] lautesten", t3_w6: "[RO] .",
+
+    // T4: Achtung, Umlaut!
+    t4_title: "[RO] Achtung, Umlaut!",
+    t4_text: "[RO] Manche kurze Adjektive bekommen in der Steigerung einen Umlaut (ä, ö, ü). Aus a wird ä (alt -> älter). Aus o wird ö (groß -> größer).",
+    t4_b1: "[RO] alt ➔ älter",
+    t4_b2: "[RO] groß ➔ größer",
+    t4_inst: "[RO] Verbinde die Grundform mit der 1. Stufe!",
+    t4_h1: "[RO] Denk an den Umlaut! a -> ä, o -> ö, u -> ü.",
+    t4_h2: "[RO] kalt -> kälter, jung -> jünger.",
+    t4_l1: "[RO] alt", t4_r1: "[RO] älter",
+    t4_l2: "[RO] groß", t4_r2: "[RO] größer",
+    t4_l3: "[RO] jung", t4_r3: "[RO] jünger",
+    t4_l4: "[RO] kalt", t4_r4: "[RO] kälter",
+
+    // T5: "wie" oder "als"?
+    t5_title: "[RO] Genauso 'wie' oder mehr 'als'?",
+    t5_text: "[RO] Das ist ein berühmter Fehler! Sind zwei Dinge GLEICH, sagen wir 'wie' (so groß wie). Ist eines MEHR, sagen wir 'als' (größer als).",
+    t5_b1: "[RO] Gleich = wie (genauso schnell wie).",
+    t5_b2: "[RO] Anders = als (schneller als).",
+    t5_inst: "[RO] Sortiere: Kommt 'wie' oder 'als'?",
+    t5_h1: "[RO] Steht das Wort in der Grundform (schnell) oder 1. Stufe (schneller)?",
+    t5_h2: "[RO] so groß -> wie. älter -> als.",
+    t5_bw: "[RO] wie (gleich) ⚖️", t5_ba: "[RO] als (mehr) 📈",
+    t5_i1: "[RO] so stark", t5_i2: "[RO] stärker", t5_i3: "[RO] kleiner", t5_i4: "[RO] genauso alt",
+
+    // T6: Die Ausnahmen (gut, viel, gern)
+    t6_title: "[RO] Die Ausnahmen",
+    t6_text: "[RO] Drei Adjektive halten sich an keine Regeln! Sie verändern sich komplett: gut ➔ besser ➔ am besten. viel ➔ mehr ➔ am meisten. gern ➔ lieber ➔ am liebsten.",
+    t6_b1: "[RO] gut ➔ besser ➔ am besten",
+    t6_b2: "[RO] viel ➔ mehr ➔ am meisten",
+    t6_inst: "[RO] Welches Wort ist die Steigerung von 'gut'?",
+    t6_h1: "[RO] Es heißt nicht 'guter'!",
+    t6_h2: "[RO] gut -> besser.",
+    t6_sent_ex: "[RO] Ich bin gut, aber du bist ___.",
+    t6_ce1: "[RO] besser", t6_ce2: "[RO] guter", t6_ce3: "[RO] mehr", t6_ce4: "[RO] am besten",
+
+    // T7: Der Steigerungs-Meister
+    t7_title: "[RO] Der Steigerungs-Meister",
+    t7_text: "[RO] Beweise, dass du ein Meister im Vergleichen bist! Baue diesen Satz über den höchsten Berg richtig zusammen.",
+    t7_b1: "[RO] Nutze die 3. Stufe für das Größte!",
+    t7_inst: "[RO] Baue den Satz zusammen!",
+    t7_h1: "[RO] Der Satzanfang (Der) ist groß.",
+    t7_h2: "[RO] Der Berg ist am höchsten.",
+    t7_f1: "[RO] Der", t7_f2: "[RO] Berg", t7_f3: "[RO] ist", t7_f4: "[RO] am höchsten.",
+
+    // T8: Adjektive vergleichen
+    t8_title: "[RO] Adjektive vergleichen",
+    t8_text: "[RO] Mit Steigerung kannst du Dinge vergleichen! Der Berg ist höher als das Haus. Das Flugzeug ist schneller als das Auto.",
+    t8_b1: "[RO] Vergleiche zwei Dinge.",
+    t8_b2: "[RO] Nutze die 1. Stufe + 'als'.",
+    t8_inst: "[RO] Wähle das Adjektiv für den Vergleich!",
+    t8_h1: "[RO] Das Haus ist... Was ist größer?",
+    t8_h2: "[RO] Das Haus ist größer als die Hütte.",
+    t8_sent8: "[RO] Die Stadt ist ___ als das Dorf.",
+    t8_c8_1: "[RO] älter", t8_c8_2: "[RO] alt", t8_c8_3: "[RO] am ältesten", t8_c8_4: "[RO] ältern",
+
+    // T9: Umlaute in der Steigerung
+    t9_title: "[RO] Umlaute bei Steigerung",
+    t9_text: "[RO] Viele Adjektive bekommen Umlaute! alt ➔ älter, groß ➔ größer, warm ➔ wärmer.",
+    t9_b1: "[RO] Umlaut bei kurzen Adjektiven.",
+    t9_b2: "[RO] a→ä, o→ö, u→ü",
+    t9_inst: "[RO] Verbinde die Formen!",
+    t9_h1: "[RO] Denk an den Umlaut!",
+    t9_h2: "[RO] alt -> älter -> am ältesten",
+    t9_l1: "[RO] alt", t9_r1: "[RO] älter",
+    t9_l2: "[RO] groß", t9_r2: "[RO] größer",
+    t9_l3: "[RO] warm", t9_r3: "[RO] wärmer",
+    t9_l4: "[RO] jung", t9_r4: "[RO] jünger",
+
+    // T10: Superlativ-Formen
+    t10_title: "[RO] Die höchste Stufe",
+    t10_text: "[RO] Die 2. Stufe heißt Superlativ. Sie beginnt mit 'am': am schnellsten, am größten, am höchsten!",
+    t10_b1: "[RO] Superlativ = höchste Stufe.",
+    t10_b2: "[RO] Mit 'am' oder Artikel: der/die/das...",
+    t10_inst: "[RO] Wähle die Superlativ-Form!",
+    t10_h1: "[RO] Die höchste Stufe beginnt mit 'am'.",
+    t10_h2: "[RO] schnell -> am schnellsten",
+    t10_sent10: "[RO] Das Flugzeug ist ___.",
+    t10_c10_1: "[RO] am schnellsten", t10_c10_2: "[RO] schneller", t10_c10_3: "[RO] schnell", t10_c10_4: "[RO] schnellest",
+
+    // T11: Endungen richtig
+    t11_title: "[RO] Endungen der Steigerung",
+    t11_text: "[RO] 1. Stufe: '-er' (schnell ➔ schneller). 2. Stufe: '-st' oder '-est' (schnell ➔ am schnellsten).",
+    t11_b1: "[RO] 1. Stufe bekommt -er.",
+    t11_b2: "[RO] 2. Stufe bekommt -st/-est.",
+    t11_inst: "[RO] Ordne die Formen!",
+    t11_h1: "[RO] Welche Endung gehört zu welcher Stufe?",
+    t11_h2: "[RO] klein, kleiner, am kleinsten",
+    t11_l1: "[RO] lang", t11_r1: "[RO] länger",
+    t11_l2: "[RO] laut", t11_r2: "[RO] lauter",
+    t11_l3: "[RO] scharf", t11_r3: "[RO] schärfer",
+    t11_l4: "[RO] blöd", t11_r4: "[RO] blöder",
+
+    // T12: Besondere Adjektive
+    t12_title: "[RO] Spezial-Adjektive",
+    t12_text: "[RO] hoch (nicht hocher!), nah (näher, am nächsten), dunkel, teuer haben Besonderheiten in der Steigerung!",
+    t12_b1: "[RO] Manche sind speziell.",
+    t12_b2: "[RO] hoch ➔ höher (nicht hocher!)",
+    t12_inst: "[RO] Wähle die richtige Form!",
+    t12_h1: "[RO] hoch wird zu... höher!",
+    t12_h2: "[RO] Der Berg ist hoch, die Kirche ist höher.",
+    t12_sent12: "[RO] Der Turm ist ___.",
+    t12_c12_1: "[RO] höher", t12_c12_2: "[RO] hoher", t12_c12_3: "[RO] höchst", t12_c12_4: "[RO] am hochsten",
+
+    // T13: Negative Steigerung
+    t13_title: "[RO] Weniger große",
+    t13_text: "[RO] Es gibt auch 'negative' Steigerungen: weniger groß, am wenigsten groß. Das ist auch Steigerung!",
+    t13_b1: "[RO] weniger ist auch Steigerung.",
+    t13_b2: "[RO] weniger... am wenigsten",
+    t13_inst: "[RO] Wähle den richtigen Vergleich!",
+    t13_h1: "[RO] Denk an 'weniger'!",
+    t13_h2: "[RO] Mein Zimmer ist weniger groß.",
+    t13_sent13: "[RO] Sein Zimmer ist ___ als meins.",
+    t13_c13_1: "[RO] weniger groß", t13_c13_2: "[RO] größer", t13_c13_3: "[RO] am größten", t13_c13_4: "[RO] groß",
+
+    // T14: Steigerung in Sätzen
+    t14_title: "[RO] Je... desto Sätze",
+    t14_text: "[RO] Eine spezielle Regel: 'Je höher du gehst, desto kälter wird es.' Je mit Steigerung, desto mit Steigerung!",
+    t14_b1: "[RO] Je ... desto ist eine Regel!",
+    t14_b2: "[RO] Beide Teile gesteigert.",
+    t14_inst: "[RO] Vervollständige den Satz!",
+    t14_h1: "[RO] Je (Steigerung), desto (Steigerung).",
+    t14_h2: "[RO] Je wärmer, desto schneller.",
+    t14_sent14: "[RO] Je größer der Berg, desto ___ die Luft.",
+    t14_c14_1: "[RO] kälter", t14_c14_2: "[RO] kalt", t14_c14_3: "[RO] am kältesten", t14_c14_4: "[RO] kältest",
+
+    // T15: Steigerungs-Profi
+    t15_title: "[RO] Du bist ein Steigerungs-Profi!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du kennst die 1. Stufe, die 2. Stufe, Umlaute, Ausnahmen und sogar 'je...desto' Sätze!",
+    t15_b1: "[RO] Du beherrschst Steigerung!",
+    t15_b2: "[RO] Alle Formen und Regeln!",
+    t15_inst: "[RO] Wähle die richtige Steigerung!",
+    t15_h1: "[RO] Denk an alles, was du gelernt hast.",
+    t15_h2: "[RO] schön, schöner, am schönsten",
+    t15_sent15: "[RO] Das ist das ___ Bild im Museum.",
+    t15_c15_1: "[RO] am schönsten", t15_c15_2: "[RO] schöner", t15_c15_3: "[RO] schönsten", t15_c15_4: "[RO] schön",
+  
   }
 };
 
@@ -1510,6 +3031,576 @@ export const SATZGLIED_LABELS: Record<string, Record<string, string>> = {
     t15_c1: "ein schönes Bild", t15_c2: "Mädchen", t15_c3: "im Klassenzimmer", t15_c4: "malt",
     t15_q: "Wie heißt der Prozess, Satzglieder zu erkennen?",
     t15_qa: "Satzglieder-Analyse", t15_qb: "Wort-Analyse", t15_qc: "Satz-Analyse", t15_qd: "Grammatik-Spiel",
+  },
+  en: {
+
+    explorer_title: "[EN] Satzgliederinsel",
+
+    // T1: Was ist ein Satzglied?
+    t1_title: "[EN] Was ist ein Satzglied?",
+    t1_text: "[EN] Ein Satz besteht aus Bausteinen. Manchmal ist ein Baustein nur ein Wort (Tim), manchmal sind es mehrere Wörter zusammen (Der kleine Hund). Diese Bausteine heißen Satzglieder.",
+    t1_b1: "[EN] Ein Satzglied = ein Baustein.",
+    t1_b2: "[EN] Es kann aus mehreren Wörtern bestehen.",
+    t1_inst: "[EN] Finde das erste Satzglied!",
+    t1_h1: "[EN] Wer oder was steht ganz vorne?",
+    t1_h2: "[EN] 'Der kleine Hund' gehört zusammen.",
+    t1_w1: "[EN] Der kleine Hund", t1_w2: "[EN] bellt", t1_w3: "[EN] laut", t1_w4: "[EN] .",
+    t1_q: "[EN] Aus wie vielen Wörtern kann ein Satzglied bestehen?",
+    t1_qa: "[EN] Aus einem oder mehreren Wörtern", t1_qb: "[EN] Immer nur aus einem Wort", t1_qc: "[EN] Immer aus drei Wörtern", t1_qd: "[EN] Gar keinen",
+
+    // T2: Das Prädikat (Der Motor)
+    t2_title: "[EN] Das Prädikat (Der Motor)",
+    t2_text: "[EN] Das Prädikat ist der Motor des Satzes! Es ist immer ein Verb (Tunwort) und sagt uns, was passiert. Ohne Prädikat funktioniert kein Satz!",
+    t2_b1: "[EN] Das Prädikat = was passiert?",
+    t2_b2: "[EN] Es ist immer ein Verb.",
+    t2_inst: "[EN] Finde das Prädikat (den Motor) im Satz!",
+    t2_h1: "[EN] Suche das Tunwort.",
+    t2_h2: "[EN] Das Wort 'schläft' sagt, was passiert.",
+    t2_w2_1: "[EN] Die", t2_w2_2: "[EN] Katze", t2_w2_3: "[EN] schläft", t2_w2_4: "[EN] tief", t2_w2_5: "[EN] .",
+    t2_q: "[EN] Welche Wortart ist das Prädikat immer?",
+    t2_qa: "[EN] Ein Verb (Tunwort)", t2_qb: "[EN] Ein Nomen (Namenwort)", t2_qc: "[EN] Ein Adjektiv (Wiewort)", t2_qd: "[EN] Ein Artikel (Begleiter)",
+
+    // T3: Das Subjekt (Der König)
+    t3_title: "[EN] Das Subjekt (Der König)",
+    t3_text: "[EN] Das Subjekt ist der König im Satz! Es sagt uns, WER oder WAS etwas tut. Wir fragen: Wer oder was schläft? Die Katze!",
+    t3_b1: "[EN] Frage: Wer oder was?",
+    t3_b2: "[EN] Das Subjekt tut etwas.",
+    t3_inst: "[EN] Wer ist der König (Subjekt) in diesem Satz?",
+    t3_h1: "[EN] Frage: Wer oder was liest ein Buch?",
+    t3_h2: "[EN] Tim liest ein Buch.",
+    t3_sent: "[EN] ___ liest ein spannendes Buch.",
+    t3_c1: "[EN] Tim", t3_c2: "[EN] liest", t3_c3: "[EN] spannendes", t3_c4: "[EN] Buch",
+    t3_q: "[EN] Mit welcher Frage finden wir das Subjekt?",
+    t3_qa: "[EN] Wer oder was?", t3_qb: "[EN] Wie oder wo?", t3_qc: "[EN] Wann oder warum?", t3_qd: "[EN] Wen oder wem?",
+
+    // T4: Subjekt oder Prädikat?
+    t4_title: "[EN] Subjekt oder Prädikat?",
+    t4_text: "[EN] Jeder vollständige Satz braucht mindestens ein Subjekt (König) und ein Prädikat (Motor). 'Der Hund' (Subjekt) + 'bellt' (Prädikat).",
+    t4_b1: "[EN] Subjekt = Wer/Was?",
+    t4_b2: "[EN] Prädikat = Was tut das Subjekt?",
+    t4_inst: "[EN] Sortiere: Ist es Subjekt oder Prädikat?",
+    t4_h1: "[EN] Wer/Was ist Subjekt. Tunwort ist Prädikat.",
+    t4_h2: "[EN] Der Junge (Subjekt), lacht (Prädikat).",
+    t4_bs: "[EN] Subjekt 👑", t4_bp: "[EN] Prädikat 🚂",
+    t4_i1: "[EN] Der Junge", t4_i2: "[EN] lacht", t4_i3: "[EN] spielt", t4_i4: "[EN] Das Mädchen",
+    t4_q: "[EN] Was fehlt hier: 'Die Sonne.'?",
+    t4_qa: "[EN] Das Prädikat (Motor)", t4_qb: "[EN] Das Subjekt (König)", t4_qc: "[EN] Ein Punkt", t4_qd: "[EN] Nichts",
+
+    // T5: Das Objekt (Das Ziel)
+    t5_title: "[EN] Das Objekt",
+    t5_text: "[EN] Viele Sätze haben noch ein Objekt. Es ist das Ziel der Aktion. Ich esse (was esse ich?) -> einen Apfel! 'einen Apfel' ist das Objekt.",
+    t5_b1: "[EN] Objekt = Wen oder was?",
+    t5_inst: "[EN] Finde das Objekt im Satz!",
+    t5_h1: "[EN] Frage: Wen oder was trinkt das Kind?",
+    t5_h2: "[EN] Das Kind trinkt 'die Milch'.",
+    t5_w5_1: "[EN] Das Kind", t5_w5_2: "[EN] trinkt", t5_w5_3: "[EN] die Milch", t5_w5_4: "[EN] .",
+    t5_q: "[EN] Was ist das Objekt im Satz: 'Leo fängt den Ball.'?",
+    t5_qa: "[EN] den Ball", t5_qb: "[EN] Leo", t5_qc: "[EN] fängt", t5_qd: "[EN] Es gibt kein Objekt",
+
+    // T6: Die Umstellprobe
+    t6_title: "[EN] Die Umstellprobe",
+    t6_text: "[EN] Satzglieder bleiben immer zusammen, wenn wir einen Satz umbauen! Aus 'Tim spielt heute Ball' kann 'Heute spielt Tim Ball' werden.",
+    t6_b1: "[EN] Satzglieder bleiben als Baustein zusammen.",
+    t6_inst: "[EN] Baue den Satz um! (Beginne mit 'Heute')",
+    t6_h1: "[EN] Das Prädikat (Verb) bleibt auf Platz 2!",
+    t6_h2: "[EN] Heute spielt Tim.",
+    t6_o1: "[EN] Heute", t6_o2: "[EN] spielt", t6_o3: "[EN] Tim.",
+    t6_q: "[EN] Was bleibt bei der Umstellprobe immer auf Platz 2 (im Aussagesatz)?",
+    t6_qa: "[EN] Das Prädikat (Verb)", t6_qb: "[EN] Das Subjekt (König)", t6_qc: "[EN] Das Objekt", t6_qd: "[EN] Das letzte Wort",
+
+    // T7: Satzglieder-Meister
+    t7_title: "[EN] Satzglieder-Meister",
+    t7_text: "[EN] Zeig uns, dass du ein echter Baumeister bist! Baue einen vollständigen Satz aus Subjekt, Prädikat und Objekt.",
+    t7_b1: "[EN] Subjekt ➔ Prädikat ➔ Objekt.",
+    t7_inst: "[EN] Bringe die Bausteine in die richtige Reihenfolge!",
+    t7_h1: "[EN] Wer macht was mit wem?",
+    t7_h2: "[EN] Der Hund jagt die Katze.",
+    t7_f1: "[EN] Der Hund", t7_f2: "[EN] jagt", t7_f3: "[EN] die Katze.",
+    t7_q: "[EN] Welches Satzglied ist 'Der Hund' in diesem Satz?",
+    t7_qa: "[EN] Das Subjekt", t7_qb: "[EN] Das Prädikat", t7_qc: "[EN] Das Objekt", t7_qd: "[EN] Ein Verb",
+
+    // T8: Akkusativ-Objekt
+    t8_title: "[EN] Das Akkusativ-Objekt (Wen oder was?)",
+    t8_text: "[EN] Viele Verben brauchen ein Objekt in der vierten Fall (Akkusativ). Wir fragen: Wen oder was? Die Mutter sieht 'die Katze' (Akkusativ).",
+    t8_b1: "[EN] Akkusativ = Wen oder was?",
+    t8_b2: "[EN] Oft nach Verben wie sehen, kennen, essen.",
+    t8_inst: "[EN] Finde das Akkusativ-Objekt (Wen/was?)!",
+    t8_h1: "[EN] Frage: Wen oder WAS sieht die Mutter?",
+    t8_h2: "[EN] Die Katze ist das Objekt.",
+    t8_sent: "[EN] Der Freund trägt ___.",
+    t8_c1: "[EN] den Rucksack", t8_c2: "[EN] der Rucksack", t8_c3: "[EN] des Rucksacks", t8_c4: "[EN] dem Rucksack",
+    t8_q: "[EN] Welcher Fall ist das Akkusativ-Objekt?",
+    t8_qa: "[EN] Der vierte Fall (Akkusativ)", t8_qb: "[EN] Der erste Fall (Nominativ)", t8_qc: "[EN] Der dritte Fall (Dativ)", t8_qd: "[EN] Der zweite Fall (Genitiv)",
+
+    // T9: Dativ-Objekt
+    t9_title: "[EN] Das Dativ-Objekt (Wem?)",
+    t9_text: "[EN] Einige Verben brauchen ein Objekt im dritten Fall (Dativ). Wir fragen: Wem? Der Lehrer gibt 'dem Schüler' (Dativ) ein Buch.",
+    t9_b1: "[EN] Dativ = Wem?",
+    t9_b2: "[EN] Verben wie geben, zeigen, helfen, danken.",
+    t9_inst: "[EN] Wem wird etwas gegeben? Finde das Dativ-Objekt!",
+    t9_h1: "[EN] Frage: Wem hilft Anna?",
+    t9_h2: "[EN] Anna hilft dem Bruder.",
+    t9_sent2: "[EN] Der Junge hilft ___.",
+    t9_c1: "[EN] dem Mädchen", t9_c2: "[EN] das Mädchen", t9_c3: "[EN] den Mädchen", t9_c4: "[EN] der Mädchen",
+    t9_q: "[EN] Was ist die richtige Frage für das Dativ-Objekt?",
+    t9_qa: "[EN] Wem?", t9_qb: "[EN] Wen?", t9_qc: "[EN] Was?", t9_qd: "[EN] Wessen?",
+
+    // T10: Adverbiale Bestimmung (Wo/Wann/Warum?)
+    t10_title: "[EN] Adverbiale Bestimmung",
+    t10_text: "[EN] Nicht alle Satzglieder sind Subjekt, Prädikat oder Objekt. Es gibt auch Bestimmungen, die sagen: Wo? Wann? Warum? Die Katze schläft 'im Garten' (Wo?).",
+    t10_b1: "[EN] Bestimmungen: Wo? Wann? Warum?",
+    t10_b2: "[EN] Sie sind auch Satzglieder.",
+    t10_inst: "[EN] Finde die Ortsbestimmung (Wo?)!",
+    t10_h1: "[EN] Frage: Wo sitzt der Vogel?",
+    t10_h2: "[EN] Der Vogel sitzt AUF DEM BAUM.",
+    t10_w1: "[EN] Der Vogel", t10_w2: "[EN] sitzt", t10_w3: "[EN] auf dem Baum", t10_w4: "[EN] .",
+    t10_q: "[EN] Welche Frage passt zu 'im Wald'?",
+    t10_qa: "[EN] Wo?", t10_qb: "[EN] Wann?", t10_qc: "[EN] Warum?", t10_qd: "[EN] Wen?",
+
+    // T11: Zeitbestimmung (Wann?)
+    t11_title: "[EN] Wann passiert es? (Zeitbestimmung)",
+    t11_text: "[EN] Zeitbestimmungen sagen uns, WANN etwas passiert. 'Morgens' gehen wir zur Schule. 'Morgens' ist die Zeitbestimmung.",
+    t11_b1: "[EN] Zeitbestimmung = Wann?",
+    t11_b2: "[EN] Beispiele: morgens, übermorgen, jeden Tag.",
+    t11_inst: "[EN] Sortiere: Ortsbestimmung oder Zeitbestimmung?",
+    t11_h1: "[EN] Wann = Zeit. Wo = Ort.",
+    t11_h2: "[EN] Im Garten = Wo. Morgen = Wann.",
+    t11_bw: "[EN] Zeitbestimmung 🕐", t11_bo: "[EN] Ortsbestimmung 📍",
+    t11_i1: "[EN] morgens", t11_i2: "[EN] in der Schule", t11_i3: "[EN] jeden Tag", t11_i4: "[EN] im Park",
+    t11_q: "[EN] Welches ist eine Zeitbestimmung?",
+    t11_qa: "[EN] montags", t11_qb: "[EN] unter der Brücke", t11_qc: "[EN] neben der Tür", t11_qd: "[EN] zwischen den Häusern",
+
+    // T12: Grund/Grund-Bestimmung (Warum/Weshalb?)
+    t12_title: "[EN] Grund-Bestimmungen (Warum?)",
+    t12_text: "[EN] Grund-Bestimmungen sagen, WARUM oder WESHALB etwas passiert. 'Wegen des Regens' bleibt Anna zu Hause. 'Wegen des Regens' ist die Grund-Bestimmung.",
+    t12_b1: "[EN] Grund-Bestimmung = Warum/Weshalb?",
+    t12_b2: "[EN] Wir fragen: Weshalb bleibt Anna zu Hause?",
+    t12_inst: "[EN] Was ist der Grund? Finde die Grund-Bestimmung!",
+    t12_h1: "[EN] Frage: Weshalb weint das Baby?",
+    t12_h2: "[EN] Das Baby weint aus Hunger.",
+    t12_sent3: "[EN] Tim bleibt zu Hause ___.",
+    t12_c1: "[EN] weil er krank ist", t12_c2: "[EN] neben dem Haus", t12_c3: "[EN] mit dem Freund", t12_c4: "[EN] morgens um 7 Uhr",
+    t12_q: "[EN] Was ist die Grund-Bestimmung in: 'Sie kommt zu spät wegen des Staus.'?",
+    t12_qa: "[EN] wegen des Staus", t12_qb: "[EN] zu spät", t12_qc: "[EN] Sie", t12_qd: "[EN] kommt",
+
+    // T13: Mehrere Satzglieder kombinieren
+    t13_title: "[EN] Sätze mit mehreren Bestimmungen",
+    t13_text: "[EN] In einem Satz können mehrere Satzglieder zusammen vorkommen. Subjekt + Prädikat + Objekt + Ortsbestimmung + Zeitbestimmung = vollständiger Satz!",
+    t13_b1: "[EN] Ein Satz kann viele Satzglieder haben.",
+    t13_b2: "[EN] Sie ergeben alle zusammen den Sinn.",
+    t13_inst: "[EN] Baue den Satz mit allen Teilen zusammen!",
+    t13_h1: "[EN] Wer + tut was + wo + wann?",
+    t13_h2: "[EN] Die Kinder spielen im Park morgens.",
+    t13_f1: "[EN] Die Kinder", t13_f2: "[EN] spielen", t13_f3: "[EN] im Park", t13_f4: "[EN] morgens.",
+    t13_q: "[EN] Wie viele Satzglieder hat dieser Satz: 'Der Junge liest ein Buch im Bett.'?",
+    t13_qa: "[EN] 4 (Subjekt, Prädikat, Objekt, Ort)", t13_qb: "[EN] 2 (Subjekt, Prädikat)", t13_qc: "[EN] 3 (Subjekt, Prädikat, Objekt)", t13_qd: "[EN] 5",
+
+    // T14: Satzglieder in Fragen
+    t14_title: "[EN] Satzglieder in Fragen erkennen",
+    t14_text: "[EN] Auch in Fragen gibt es Satzglieder! In 'Wann kommt dein Freund?' ist 'dein Freund' das Subjekt und 'Wann' ist eine Zeitbestimmung.",
+    t14_b1: "[EN] Satzglieder auch in Fragen erkennbar.",
+    t14_b2: "[EN] Das Fragezeichen markiert die Frage.",
+    t14_inst: "[EN] Was ist das Objekt in dieser Frage?",
+    t14_h1: "[EN] Frage: Wen oder was siehst du?",
+    t14_h2: "[EN] Das Objekt ist 'einen Vogel'.",
+    t14_sent4: "[EN] Siehst du ___?",
+    t14_c1: "[EN] einen Vogel", t14_c2: "[EN] du", t14_c3: "[EN] siehst", t14_c4: "[EN] Fragezeichen",
+    t14_q: "[EN] Welches Satzglied ist 'mein Freund' in der Frage: 'Kennst du meinen Freund?'?",
+    t14_qa: "[EN] Das Objekt", t14_qb: "[EN] Das Subjekt", t14_qc: "[EN] Das Prädikat", t14_qd: "[EN] Eine Bestimmung",
+
+    // T15: Satzglieder-Meister-Finale
+    t15_title: "[EN] Du bist ein Satzglieder-Profi!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du kennst jetzt alle wichtigen Satzglieder: Subjekt, Prädikat, Objekt und Bestimmungen. Du bist bereit, Sätze zu analysieren!",
+    t15_b1: "[EN] Alle Satzglieder gelernt.",
+    t15_b2: "[EN] Du schaffst jeden Satz!",
+    t15_inst: "[EN] Erkenne alle Satzglieder in diesem Satz!",
+    t15_h1: "[EN] Wer + tut was + wen/was + wo + wann?",
+    t15_h2: "[EN] Das Mädchen malt ein Bild im Zimmer heute Nachmittag.",
+    t15_sent5: "[EN] Das Mädchen malt ___ im Klassenzimmer.",
+    t15_c1: "[EN] ein schönes Bild", t15_c2: "[EN] Mädchen", t15_c3: "[EN] im Klassenzimmer", t15_c4: "[EN] malt",
+    t15_q: "[EN] Wie heißt der Prozess, Satzglieder zu erkennen?",
+    t15_qa: "[EN] Satzglieder-Analyse", t15_qb: "[EN] Wort-Analyse", t15_qc: "[EN] Satz-Analyse", t15_qd: "[EN] Grammatik-Spiel",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Satzgliederinsel",
+
+    // T1: Was ist ein Satzglied?
+    t1_title: "[HU] Was ist ein Satzglied?",
+    t1_text: "[HU] Ein Satz besteht aus Bausteinen. Manchmal ist ein Baustein nur ein Wort (Tim), manchmal sind es mehrere Wörter zusammen (Der kleine Hund). Diese Bausteine heißen Satzglieder.",
+    t1_b1: "[HU] Ein Satzglied = ein Baustein.",
+    t1_b2: "[HU] Es kann aus mehreren Wörtern bestehen.",
+    t1_inst: "[HU] Finde das erste Satzglied!",
+    t1_h1: "[HU] Wer oder was steht ganz vorne?",
+    t1_h2: "[HU] 'Der kleine Hund' gehört zusammen.",
+    t1_w1: "[HU] Der kleine Hund", t1_w2: "[HU] bellt", t1_w3: "[HU] laut", t1_w4: "[HU] .",
+    t1_q: "[HU] Aus wie vielen Wörtern kann ein Satzglied bestehen?",
+    t1_qa: "[HU] Aus einem oder mehreren Wörtern", t1_qb: "[HU] Immer nur aus einem Wort", t1_qc: "[HU] Immer aus drei Wörtern", t1_qd: "[HU] Gar keinen",
+
+    // T2: Das Prädikat (Der Motor)
+    t2_title: "[HU] Das Prädikat (Der Motor)",
+    t2_text: "[HU] Das Prädikat ist der Motor des Satzes! Es ist immer ein Verb (Tunwort) und sagt uns, was passiert. Ohne Prädikat funktioniert kein Satz!",
+    t2_b1: "[HU] Das Prädikat = was passiert?",
+    t2_b2: "[HU] Es ist immer ein Verb.",
+    t2_inst: "[HU] Finde das Prädikat (den Motor) im Satz!",
+    t2_h1: "[HU] Suche das Tunwort.",
+    t2_h2: "[HU] Das Wort 'schläft' sagt, was passiert.",
+    t2_w2_1: "[HU] Die", t2_w2_2: "[HU] Katze", t2_w2_3: "[HU] schläft", t2_w2_4: "[HU] tief", t2_w2_5: "[HU] .",
+    t2_q: "[HU] Welche Wortart ist das Prädikat immer?",
+    t2_qa: "[HU] Ein Verb (Tunwort)", t2_qb: "[HU] Ein Nomen (Namenwort)", t2_qc: "[HU] Ein Adjektiv (Wiewort)", t2_qd: "[HU] Ein Artikel (Begleiter)",
+
+    // T3: Das Subjekt (Der König)
+    t3_title: "[HU] Das Subjekt (Der König)",
+    t3_text: "[HU] Das Subjekt ist der König im Satz! Es sagt uns, WER oder WAS etwas tut. Wir fragen: Wer oder was schläft? Die Katze!",
+    t3_b1: "[HU] Frage: Wer oder was?",
+    t3_b2: "[HU] Das Subjekt tut etwas.",
+    t3_inst: "[HU] Wer ist der König (Subjekt) in diesem Satz?",
+    t3_h1: "[HU] Frage: Wer oder was liest ein Buch?",
+    t3_h2: "[HU] Tim liest ein Buch.",
+    t3_sent: "[HU] ___ liest ein spannendes Buch.",
+    t3_c1: "[HU] Tim", t3_c2: "[HU] liest", t3_c3: "[HU] spannendes", t3_c4: "[HU] Buch",
+    t3_q: "[HU] Mit welcher Frage finden wir das Subjekt?",
+    t3_qa: "[HU] Wer oder was?", t3_qb: "[HU] Wie oder wo?", t3_qc: "[HU] Wann oder warum?", t3_qd: "[HU] Wen oder wem?",
+
+    // T4: Subjekt oder Prädikat?
+    t4_title: "[HU] Subjekt oder Prädikat?",
+    t4_text: "[HU] Jeder vollständige Satz braucht mindestens ein Subjekt (König) und ein Prädikat (Motor). 'Der Hund' (Subjekt) + 'bellt' (Prädikat).",
+    t4_b1: "[HU] Subjekt = Wer/Was?",
+    t4_b2: "[HU] Prädikat = Was tut das Subjekt?",
+    t4_inst: "[HU] Sortiere: Ist es Subjekt oder Prädikat?",
+    t4_h1: "[HU] Wer/Was ist Subjekt. Tunwort ist Prädikat.",
+    t4_h2: "[HU] Der Junge (Subjekt), lacht (Prädikat).",
+    t4_bs: "[HU] Subjekt 👑", t4_bp: "[HU] Prädikat 🚂",
+    t4_i1: "[HU] Der Junge", t4_i2: "[HU] lacht", t4_i3: "[HU] spielt", t4_i4: "[HU] Das Mädchen",
+    t4_q: "[HU] Was fehlt hier: 'Die Sonne.'?",
+    t4_qa: "[HU] Das Prädikat (Motor)", t4_qb: "[HU] Das Subjekt (König)", t4_qc: "[HU] Ein Punkt", t4_qd: "[HU] Nichts",
+
+    // T5: Das Objekt (Das Ziel)
+    t5_title: "[HU] Das Objekt",
+    t5_text: "[HU] Viele Sätze haben noch ein Objekt. Es ist das Ziel der Aktion. Ich esse (was esse ich?) -> einen Apfel! 'einen Apfel' ist das Objekt.",
+    t5_b1: "[HU] Objekt = Wen oder was?",
+    t5_inst: "[HU] Finde das Objekt im Satz!",
+    t5_h1: "[HU] Frage: Wen oder was trinkt das Kind?",
+    t5_h2: "[HU] Das Kind trinkt 'die Milch'.",
+    t5_w5_1: "[HU] Das Kind", t5_w5_2: "[HU] trinkt", t5_w5_3: "[HU] die Milch", t5_w5_4: "[HU] .",
+    t5_q: "[HU] Was ist das Objekt im Satz: 'Leo fängt den Ball.'?",
+    t5_qa: "[HU] den Ball", t5_qb: "[HU] Leo", t5_qc: "[HU] fängt", t5_qd: "[HU] Es gibt kein Objekt",
+
+    // T6: Die Umstellprobe
+    t6_title: "[HU] Die Umstellprobe",
+    t6_text: "[HU] Satzglieder bleiben immer zusammen, wenn wir einen Satz umbauen! Aus 'Tim spielt heute Ball' kann 'Heute spielt Tim Ball' werden.",
+    t6_b1: "[HU] Satzglieder bleiben als Baustein zusammen.",
+    t6_inst: "[HU] Baue den Satz um! (Beginne mit 'Heute')",
+    t6_h1: "[HU] Das Prädikat (Verb) bleibt auf Platz 2!",
+    t6_h2: "[HU] Heute spielt Tim.",
+    t6_o1: "[HU] Heute", t6_o2: "[HU] spielt", t6_o3: "[HU] Tim.",
+    t6_q: "[HU] Was bleibt bei der Umstellprobe immer auf Platz 2 (im Aussagesatz)?",
+    t6_qa: "[HU] Das Prädikat (Verb)", t6_qb: "[HU] Das Subjekt (König)", t6_qc: "[HU] Das Objekt", t6_qd: "[HU] Das letzte Wort",
+
+    // T7: Satzglieder-Meister
+    t7_title: "[HU] Satzglieder-Meister",
+    t7_text: "[HU] Zeig uns, dass du ein echter Baumeister bist! Baue einen vollständigen Satz aus Subjekt, Prädikat und Objekt.",
+    t7_b1: "[HU] Subjekt ➔ Prädikat ➔ Objekt.",
+    t7_inst: "[HU] Bringe die Bausteine in die richtige Reihenfolge!",
+    t7_h1: "[HU] Wer macht was mit wem?",
+    t7_h2: "[HU] Der Hund jagt die Katze.",
+    t7_f1: "[HU] Der Hund", t7_f2: "[HU] jagt", t7_f3: "[HU] die Katze.",
+    t7_q: "[HU] Welches Satzglied ist 'Der Hund' in diesem Satz?",
+    t7_qa: "[HU] Das Subjekt", t7_qb: "[HU] Das Prädikat", t7_qc: "[HU] Das Objekt", t7_qd: "[HU] Ein Verb",
+
+    // T8: Akkusativ-Objekt
+    t8_title: "[HU] Das Akkusativ-Objekt (Wen oder was?)",
+    t8_text: "[HU] Viele Verben brauchen ein Objekt in der vierten Fall (Akkusativ). Wir fragen: Wen oder was? Die Mutter sieht 'die Katze' (Akkusativ).",
+    t8_b1: "[HU] Akkusativ = Wen oder was?",
+    t8_b2: "[HU] Oft nach Verben wie sehen, kennen, essen.",
+    t8_inst: "[HU] Finde das Akkusativ-Objekt (Wen/was?)!",
+    t8_h1: "[HU] Frage: Wen oder WAS sieht die Mutter?",
+    t8_h2: "[HU] Die Katze ist das Objekt.",
+    t8_sent: "[HU] Der Freund trägt ___.",
+    t8_c1: "[HU] den Rucksack", t8_c2: "[HU] der Rucksack", t8_c3: "[HU] des Rucksacks", t8_c4: "[HU] dem Rucksack",
+    t8_q: "[HU] Welcher Fall ist das Akkusativ-Objekt?",
+    t8_qa: "[HU] Der vierte Fall (Akkusativ)", t8_qb: "[HU] Der erste Fall (Nominativ)", t8_qc: "[HU] Der dritte Fall (Dativ)", t8_qd: "[HU] Der zweite Fall (Genitiv)",
+
+    // T9: Dativ-Objekt
+    t9_title: "[HU] Das Dativ-Objekt (Wem?)",
+    t9_text: "[HU] Einige Verben brauchen ein Objekt im dritten Fall (Dativ). Wir fragen: Wem? Der Lehrer gibt 'dem Schüler' (Dativ) ein Buch.",
+    t9_b1: "[HU] Dativ = Wem?",
+    t9_b2: "[HU] Verben wie geben, zeigen, helfen, danken.",
+    t9_inst: "[HU] Wem wird etwas gegeben? Finde das Dativ-Objekt!",
+    t9_h1: "[HU] Frage: Wem hilft Anna?",
+    t9_h2: "[HU] Anna hilft dem Bruder.",
+    t9_sent2: "[HU] Der Junge hilft ___.",
+    t9_c1: "[HU] dem Mädchen", t9_c2: "[HU] das Mädchen", t9_c3: "[HU] den Mädchen", t9_c4: "[HU] der Mädchen",
+    t9_q: "[HU] Was ist die richtige Frage für das Dativ-Objekt?",
+    t9_qa: "[HU] Wem?", t9_qb: "[HU] Wen?", t9_qc: "[HU] Was?", t9_qd: "[HU] Wessen?",
+
+    // T10: Adverbiale Bestimmung (Wo/Wann/Warum?)
+    t10_title: "[HU] Adverbiale Bestimmung",
+    t10_text: "[HU] Nicht alle Satzglieder sind Subjekt, Prädikat oder Objekt. Es gibt auch Bestimmungen, die sagen: Wo? Wann? Warum? Die Katze schläft 'im Garten' (Wo?).",
+    t10_b1: "[HU] Bestimmungen: Wo? Wann? Warum?",
+    t10_b2: "[HU] Sie sind auch Satzglieder.",
+    t10_inst: "[HU] Finde die Ortsbestimmung (Wo?)!",
+    t10_h1: "[HU] Frage: Wo sitzt der Vogel?",
+    t10_h2: "[HU] Der Vogel sitzt AUF DEM BAUM.",
+    t10_w1: "[HU] Der Vogel", t10_w2: "[HU] sitzt", t10_w3: "[HU] auf dem Baum", t10_w4: "[HU] .",
+    t10_q: "[HU] Welche Frage passt zu 'im Wald'?",
+    t10_qa: "[HU] Wo?", t10_qb: "[HU] Wann?", t10_qc: "[HU] Warum?", t10_qd: "[HU] Wen?",
+
+    // T11: Zeitbestimmung (Wann?)
+    t11_title: "[HU] Wann passiert es? (Zeitbestimmung)",
+    t11_text: "[HU] Zeitbestimmungen sagen uns, WANN etwas passiert. 'Morgens' gehen wir zur Schule. 'Morgens' ist die Zeitbestimmung.",
+    t11_b1: "[HU] Zeitbestimmung = Wann?",
+    t11_b2: "[HU] Beispiele: morgens, übermorgen, jeden Tag.",
+    t11_inst: "[HU] Sortiere: Ortsbestimmung oder Zeitbestimmung?",
+    t11_h1: "[HU] Wann = Zeit. Wo = Ort.",
+    t11_h2: "[HU] Im Garten = Wo. Morgen = Wann.",
+    t11_bw: "[HU] Zeitbestimmung 🕐", t11_bo: "[HU] Ortsbestimmung 📍",
+    t11_i1: "[HU] morgens", t11_i2: "[HU] in der Schule", t11_i3: "[HU] jeden Tag", t11_i4: "[HU] im Park",
+    t11_q: "[HU] Welches ist eine Zeitbestimmung?",
+    t11_qa: "[HU] montags", t11_qb: "[HU] unter der Brücke", t11_qc: "[HU] neben der Tür", t11_qd: "[HU] zwischen den Häusern",
+
+    // T12: Grund/Grund-Bestimmung (Warum/Weshalb?)
+    t12_title: "[HU] Grund-Bestimmungen (Warum?)",
+    t12_text: "[HU] Grund-Bestimmungen sagen, WARUM oder WESHALB etwas passiert. 'Wegen des Regens' bleibt Anna zu Hause. 'Wegen des Regens' ist die Grund-Bestimmung.",
+    t12_b1: "[HU] Grund-Bestimmung = Warum/Weshalb?",
+    t12_b2: "[HU] Wir fragen: Weshalb bleibt Anna zu Hause?",
+    t12_inst: "[HU] Was ist der Grund? Finde die Grund-Bestimmung!",
+    t12_h1: "[HU] Frage: Weshalb weint das Baby?",
+    t12_h2: "[HU] Das Baby weint aus Hunger.",
+    t12_sent3: "[HU] Tim bleibt zu Hause ___.",
+    t12_c1: "[HU] weil er krank ist", t12_c2: "[HU] neben dem Haus", t12_c3: "[HU] mit dem Freund", t12_c4: "[HU] morgens um 7 Uhr",
+    t12_q: "[HU] Was ist die Grund-Bestimmung in: 'Sie kommt zu spät wegen des Staus.'?",
+    t12_qa: "[HU] wegen des Staus", t12_qb: "[HU] zu spät", t12_qc: "[HU] Sie", t12_qd: "[HU] kommt",
+
+    // T13: Mehrere Satzglieder kombinieren
+    t13_title: "[HU] Sätze mit mehreren Bestimmungen",
+    t13_text: "[HU] In einem Satz können mehrere Satzglieder zusammen vorkommen. Subjekt + Prädikat + Objekt + Ortsbestimmung + Zeitbestimmung = vollständiger Satz!",
+    t13_b1: "[HU] Ein Satz kann viele Satzglieder haben.",
+    t13_b2: "[HU] Sie ergeben alle zusammen den Sinn.",
+    t13_inst: "[HU] Baue den Satz mit allen Teilen zusammen!",
+    t13_h1: "[HU] Wer + tut was + wo + wann?",
+    t13_h2: "[HU] Die Kinder spielen im Park morgens.",
+    t13_f1: "[HU] Die Kinder", t13_f2: "[HU] spielen", t13_f3: "[HU] im Park", t13_f4: "[HU] morgens.",
+    t13_q: "[HU] Wie viele Satzglieder hat dieser Satz: 'Der Junge liest ein Buch im Bett.'?",
+    t13_qa: "[HU] 4 (Subjekt, Prädikat, Objekt, Ort)", t13_qb: "[HU] 2 (Subjekt, Prädikat)", t13_qc: "[HU] 3 (Subjekt, Prädikat, Objekt)", t13_qd: "[HU] 5",
+
+    // T14: Satzglieder in Fragen
+    t14_title: "[HU] Satzglieder in Fragen erkennen",
+    t14_text: "[HU] Auch in Fragen gibt es Satzglieder! In 'Wann kommt dein Freund?' ist 'dein Freund' das Subjekt und 'Wann' ist eine Zeitbestimmung.",
+    t14_b1: "[HU] Satzglieder auch in Fragen erkennbar.",
+    t14_b2: "[HU] Das Fragezeichen markiert die Frage.",
+    t14_inst: "[HU] Was ist das Objekt in dieser Frage?",
+    t14_h1: "[HU] Frage: Wen oder was siehst du?",
+    t14_h2: "[HU] Das Objekt ist 'einen Vogel'.",
+    t14_sent4: "[HU] Siehst du ___?",
+    t14_c1: "[HU] einen Vogel", t14_c2: "[HU] du", t14_c3: "[HU] siehst", t14_c4: "[HU] Fragezeichen",
+    t14_q: "[HU] Welches Satzglied ist 'mein Freund' in der Frage: 'Kennst du meinen Freund?'?",
+    t14_qa: "[HU] Das Objekt", t14_qb: "[HU] Das Subjekt", t14_qc: "[HU] Das Prädikat", t14_qd: "[HU] Eine Bestimmung",
+
+    // T15: Satzglieder-Meister-Finale
+    t15_title: "[HU] Du bist ein Satzglieder-Profi!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du kennst jetzt alle wichtigen Satzglieder: Subjekt, Prädikat, Objekt und Bestimmungen. Du bist bereit, Sätze zu analysieren!",
+    t15_b1: "[HU] Alle Satzglieder gelernt.",
+    t15_b2: "[HU] Du schaffst jeden Satz!",
+    t15_inst: "[HU] Erkenne alle Satzglieder in diesem Satz!",
+    t15_h1: "[HU] Wer + tut was + wen/was + wo + wann?",
+    t15_h2: "[HU] Das Mädchen malt ein Bild im Zimmer heute Nachmittag.",
+    t15_sent5: "[HU] Das Mädchen malt ___ im Klassenzimmer.",
+    t15_c1: "[HU] ein schönes Bild", t15_c2: "[HU] Mädchen", t15_c3: "[HU] im Klassenzimmer", t15_c4: "[HU] malt",
+    t15_q: "[HU] Wie heißt der Prozess, Satzglieder zu erkennen?",
+    t15_qa: "[HU] Satzglieder-Analyse", t15_qb: "[HU] Wort-Analyse", t15_qc: "[HU] Satz-Analyse", t15_qd: "[HU] Grammatik-Spiel",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Satzgliederinsel",
+
+    // T1: Was ist ein Satzglied?
+    t1_title: "[RO] Was ist ein Satzglied?",
+    t1_text: "[RO] Ein Satz besteht aus Bausteinen. Manchmal ist ein Baustein nur ein Wort (Tim), manchmal sind es mehrere Wörter zusammen (Der kleine Hund). Diese Bausteine heißen Satzglieder.",
+    t1_b1: "[RO] Ein Satzglied = ein Baustein.",
+    t1_b2: "[RO] Es kann aus mehreren Wörtern bestehen.",
+    t1_inst: "[RO] Finde das erste Satzglied!",
+    t1_h1: "[RO] Wer oder was steht ganz vorne?",
+    t1_h2: "[RO] 'Der kleine Hund' gehört zusammen.",
+    t1_w1: "[RO] Der kleine Hund", t1_w2: "[RO] bellt", t1_w3: "[RO] laut", t1_w4: "[RO] .",
+    t1_q: "[RO] Aus wie vielen Wörtern kann ein Satzglied bestehen?",
+    t1_qa: "[RO] Aus einem oder mehreren Wörtern", t1_qb: "[RO] Immer nur aus einem Wort", t1_qc: "[RO] Immer aus drei Wörtern", t1_qd: "[RO] Gar keinen",
+
+    // T2: Das Prädikat (Der Motor)
+    t2_title: "[RO] Das Prädikat (Der Motor)",
+    t2_text: "[RO] Das Prädikat ist der Motor des Satzes! Es ist immer ein Verb (Tunwort) und sagt uns, was passiert. Ohne Prädikat funktioniert kein Satz!",
+    t2_b1: "[RO] Das Prädikat = was passiert?",
+    t2_b2: "[RO] Es ist immer ein Verb.",
+    t2_inst: "[RO] Finde das Prädikat (den Motor) im Satz!",
+    t2_h1: "[RO] Suche das Tunwort.",
+    t2_h2: "[RO] Das Wort 'schläft' sagt, was passiert.",
+    t2_w2_1: "[RO] Die", t2_w2_2: "[RO] Katze", t2_w2_3: "[RO] schläft", t2_w2_4: "[RO] tief", t2_w2_5: "[RO] .",
+    t2_q: "[RO] Welche Wortart ist das Prädikat immer?",
+    t2_qa: "[RO] Ein Verb (Tunwort)", t2_qb: "[RO] Ein Nomen (Namenwort)", t2_qc: "[RO] Ein Adjektiv (Wiewort)", t2_qd: "[RO] Ein Artikel (Begleiter)",
+
+    // T3: Das Subjekt (Der König)
+    t3_title: "[RO] Das Subjekt (Der König)",
+    t3_text: "[RO] Das Subjekt ist der König im Satz! Es sagt uns, WER oder WAS etwas tut. Wir fragen: Wer oder was schläft? Die Katze!",
+    t3_b1: "[RO] Frage: Wer oder was?",
+    t3_b2: "[RO] Das Subjekt tut etwas.",
+    t3_inst: "[RO] Wer ist der König (Subjekt) in diesem Satz?",
+    t3_h1: "[RO] Frage: Wer oder was liest ein Buch?",
+    t3_h2: "[RO] Tim liest ein Buch.",
+    t3_sent: "[RO] ___ liest ein spannendes Buch.",
+    t3_c1: "[RO] Tim", t3_c2: "[RO] liest", t3_c3: "[RO] spannendes", t3_c4: "[RO] Buch",
+    t3_q: "[RO] Mit welcher Frage finden wir das Subjekt?",
+    t3_qa: "[RO] Wer oder was?", t3_qb: "[RO] Wie oder wo?", t3_qc: "[RO] Wann oder warum?", t3_qd: "[RO] Wen oder wem?",
+
+    // T4: Subjekt oder Prädikat?
+    t4_title: "[RO] Subjekt oder Prädikat?",
+    t4_text: "[RO] Jeder vollständige Satz braucht mindestens ein Subjekt (König) und ein Prädikat (Motor). 'Der Hund' (Subjekt) + 'bellt' (Prädikat).",
+    t4_b1: "[RO] Subjekt = Wer/Was?",
+    t4_b2: "[RO] Prädikat = Was tut das Subjekt?",
+    t4_inst: "[RO] Sortiere: Ist es Subjekt oder Prädikat?",
+    t4_h1: "[RO] Wer/Was ist Subjekt. Tunwort ist Prädikat.",
+    t4_h2: "[RO] Der Junge (Subjekt), lacht (Prädikat).",
+    t4_bs: "[RO] Subjekt 👑", t4_bp: "[RO] Prädikat 🚂",
+    t4_i1: "[RO] Der Junge", t4_i2: "[RO] lacht", t4_i3: "[RO] spielt", t4_i4: "[RO] Das Mädchen",
+    t4_q: "[RO] Was fehlt hier: 'Die Sonne.'?",
+    t4_qa: "[RO] Das Prädikat (Motor)", t4_qb: "[RO] Das Subjekt (König)", t4_qc: "[RO] Ein Punkt", t4_qd: "[RO] Nichts",
+
+    // T5: Das Objekt (Das Ziel)
+    t5_title: "[RO] Das Objekt",
+    t5_text: "[RO] Viele Sätze haben noch ein Objekt. Es ist das Ziel der Aktion. Ich esse (was esse ich?) -> einen Apfel! 'einen Apfel' ist das Objekt.",
+    t5_b1: "[RO] Objekt = Wen oder was?",
+    t5_inst: "[RO] Finde das Objekt im Satz!",
+    t5_h1: "[RO] Frage: Wen oder was trinkt das Kind?",
+    t5_h2: "[RO] Das Kind trinkt 'die Milch'.",
+    t5_w5_1: "[RO] Das Kind", t5_w5_2: "[RO] trinkt", t5_w5_3: "[RO] die Milch", t5_w5_4: "[RO] .",
+    t5_q: "[RO] Was ist das Objekt im Satz: 'Leo fängt den Ball.'?",
+    t5_qa: "[RO] den Ball", t5_qb: "[RO] Leo", t5_qc: "[RO] fängt", t5_qd: "[RO] Es gibt kein Objekt",
+
+    // T6: Die Umstellprobe
+    t6_title: "[RO] Die Umstellprobe",
+    t6_text: "[RO] Satzglieder bleiben immer zusammen, wenn wir einen Satz umbauen! Aus 'Tim spielt heute Ball' kann 'Heute spielt Tim Ball' werden.",
+    t6_b1: "[RO] Satzglieder bleiben als Baustein zusammen.",
+    t6_inst: "[RO] Baue den Satz um! (Beginne mit 'Heute')",
+    t6_h1: "[RO] Das Prädikat (Verb) bleibt auf Platz 2!",
+    t6_h2: "[RO] Heute spielt Tim.",
+    t6_o1: "[RO] Heute", t6_o2: "[RO] spielt", t6_o3: "[RO] Tim.",
+    t6_q: "[RO] Was bleibt bei der Umstellprobe immer auf Platz 2 (im Aussagesatz)?",
+    t6_qa: "[RO] Das Prädikat (Verb)", t6_qb: "[RO] Das Subjekt (König)", t6_qc: "[RO] Das Objekt", t6_qd: "[RO] Das letzte Wort",
+
+    // T7: Satzglieder-Meister
+    t7_title: "[RO] Satzglieder-Meister",
+    t7_text: "[RO] Zeig uns, dass du ein echter Baumeister bist! Baue einen vollständigen Satz aus Subjekt, Prädikat und Objekt.",
+    t7_b1: "[RO] Subjekt ➔ Prädikat ➔ Objekt.",
+    t7_inst: "[RO] Bringe die Bausteine in die richtige Reihenfolge!",
+    t7_h1: "[RO] Wer macht was mit wem?",
+    t7_h2: "[RO] Der Hund jagt die Katze.",
+    t7_f1: "[RO] Der Hund", t7_f2: "[RO] jagt", t7_f3: "[RO] die Katze.",
+    t7_q: "[RO] Welches Satzglied ist 'Der Hund' in diesem Satz?",
+    t7_qa: "[RO] Das Subjekt", t7_qb: "[RO] Das Prädikat", t7_qc: "[RO] Das Objekt", t7_qd: "[RO] Ein Verb",
+
+    // T8: Akkusativ-Objekt
+    t8_title: "[RO] Das Akkusativ-Objekt (Wen oder was?)",
+    t8_text: "[RO] Viele Verben brauchen ein Objekt in der vierten Fall (Akkusativ). Wir fragen: Wen oder was? Die Mutter sieht 'die Katze' (Akkusativ).",
+    t8_b1: "[RO] Akkusativ = Wen oder was?",
+    t8_b2: "[RO] Oft nach Verben wie sehen, kennen, essen.",
+    t8_inst: "[RO] Finde das Akkusativ-Objekt (Wen/was?)!",
+    t8_h1: "[RO] Frage: Wen oder WAS sieht die Mutter?",
+    t8_h2: "[RO] Die Katze ist das Objekt.",
+    t8_sent: "[RO] Der Freund trägt ___.",
+    t8_c1: "[RO] den Rucksack", t8_c2: "[RO] der Rucksack", t8_c3: "[RO] des Rucksacks", t8_c4: "[RO] dem Rucksack",
+    t8_q: "[RO] Welcher Fall ist das Akkusativ-Objekt?",
+    t8_qa: "[RO] Der vierte Fall (Akkusativ)", t8_qb: "[RO] Der erste Fall (Nominativ)", t8_qc: "[RO] Der dritte Fall (Dativ)", t8_qd: "[RO] Der zweite Fall (Genitiv)",
+
+    // T9: Dativ-Objekt
+    t9_title: "[RO] Das Dativ-Objekt (Wem?)",
+    t9_text: "[RO] Einige Verben brauchen ein Objekt im dritten Fall (Dativ). Wir fragen: Wem? Der Lehrer gibt 'dem Schüler' (Dativ) ein Buch.",
+    t9_b1: "[RO] Dativ = Wem?",
+    t9_b2: "[RO] Verben wie geben, zeigen, helfen, danken.",
+    t9_inst: "[RO] Wem wird etwas gegeben? Finde das Dativ-Objekt!",
+    t9_h1: "[RO] Frage: Wem hilft Anna?",
+    t9_h2: "[RO] Anna hilft dem Bruder.",
+    t9_sent2: "[RO] Der Junge hilft ___.",
+    t9_c1: "[RO] dem Mädchen", t9_c2: "[RO] das Mädchen", t9_c3: "[RO] den Mädchen", t9_c4: "[RO] der Mädchen",
+    t9_q: "[RO] Was ist die richtige Frage für das Dativ-Objekt?",
+    t9_qa: "[RO] Wem?", t9_qb: "[RO] Wen?", t9_qc: "[RO] Was?", t9_qd: "[RO] Wessen?",
+
+    // T10: Adverbiale Bestimmung (Wo/Wann/Warum?)
+    t10_title: "[RO] Adverbiale Bestimmung",
+    t10_text: "[RO] Nicht alle Satzglieder sind Subjekt, Prädikat oder Objekt. Es gibt auch Bestimmungen, die sagen: Wo? Wann? Warum? Die Katze schläft 'im Garten' (Wo?).",
+    t10_b1: "[RO] Bestimmungen: Wo? Wann? Warum?",
+    t10_b2: "[RO] Sie sind auch Satzglieder.",
+    t10_inst: "[RO] Finde die Ortsbestimmung (Wo?)!",
+    t10_h1: "[RO] Frage: Wo sitzt der Vogel?",
+    t10_h2: "[RO] Der Vogel sitzt AUF DEM BAUM.",
+    t10_w1: "[RO] Der Vogel", t10_w2: "[RO] sitzt", t10_w3: "[RO] auf dem Baum", t10_w4: "[RO] .",
+    t10_q: "[RO] Welche Frage passt zu 'im Wald'?",
+    t10_qa: "[RO] Wo?", t10_qb: "[RO] Wann?", t10_qc: "[RO] Warum?", t10_qd: "[RO] Wen?",
+
+    // T11: Zeitbestimmung (Wann?)
+    t11_title: "[RO] Wann passiert es? (Zeitbestimmung)",
+    t11_text: "[RO] Zeitbestimmungen sagen uns, WANN etwas passiert. 'Morgens' gehen wir zur Schule. 'Morgens' ist die Zeitbestimmung.",
+    t11_b1: "[RO] Zeitbestimmung = Wann?",
+    t11_b2: "[RO] Beispiele: morgens, übermorgen, jeden Tag.",
+    t11_inst: "[RO] Sortiere: Ortsbestimmung oder Zeitbestimmung?",
+    t11_h1: "[RO] Wann = Zeit. Wo = Ort.",
+    t11_h2: "[RO] Im Garten = Wo. Morgen = Wann.",
+    t11_bw: "[RO] Zeitbestimmung 🕐", t11_bo: "[RO] Ortsbestimmung 📍",
+    t11_i1: "[RO] morgens", t11_i2: "[RO] in der Schule", t11_i3: "[RO] jeden Tag", t11_i4: "[RO] im Park",
+    t11_q: "[RO] Welches ist eine Zeitbestimmung?",
+    t11_qa: "[RO] montags", t11_qb: "[RO] unter der Brücke", t11_qc: "[RO] neben der Tür", t11_qd: "[RO] zwischen den Häusern",
+
+    // T12: Grund/Grund-Bestimmung (Warum/Weshalb?)
+    t12_title: "[RO] Grund-Bestimmungen (Warum?)",
+    t12_text: "[RO] Grund-Bestimmungen sagen, WARUM oder WESHALB etwas passiert. 'Wegen des Regens' bleibt Anna zu Hause. 'Wegen des Regens' ist die Grund-Bestimmung.",
+    t12_b1: "[RO] Grund-Bestimmung = Warum/Weshalb?",
+    t12_b2: "[RO] Wir fragen: Weshalb bleibt Anna zu Hause?",
+    t12_inst: "[RO] Was ist der Grund? Finde die Grund-Bestimmung!",
+    t12_h1: "[RO] Frage: Weshalb weint das Baby?",
+    t12_h2: "[RO] Das Baby weint aus Hunger.",
+    t12_sent3: "[RO] Tim bleibt zu Hause ___.",
+    t12_c1: "[RO] weil er krank ist", t12_c2: "[RO] neben dem Haus", t12_c3: "[RO] mit dem Freund", t12_c4: "[RO] morgens um 7 Uhr",
+    t12_q: "[RO] Was ist die Grund-Bestimmung in: 'Sie kommt zu spät wegen des Staus.'?",
+    t12_qa: "[RO] wegen des Staus", t12_qb: "[RO] zu spät", t12_qc: "[RO] Sie", t12_qd: "[RO] kommt",
+
+    // T13: Mehrere Satzglieder kombinieren
+    t13_title: "[RO] Sätze mit mehreren Bestimmungen",
+    t13_text: "[RO] In einem Satz können mehrere Satzglieder zusammen vorkommen. Subjekt + Prädikat + Objekt + Ortsbestimmung + Zeitbestimmung = vollständiger Satz!",
+    t13_b1: "[RO] Ein Satz kann viele Satzglieder haben.",
+    t13_b2: "[RO] Sie ergeben alle zusammen den Sinn.",
+    t13_inst: "[RO] Baue den Satz mit allen Teilen zusammen!",
+    t13_h1: "[RO] Wer + tut was + wo + wann?",
+    t13_h2: "[RO] Die Kinder spielen im Park morgens.",
+    t13_f1: "[RO] Die Kinder", t13_f2: "[RO] spielen", t13_f3: "[RO] im Park", t13_f4: "[RO] morgens.",
+    t13_q: "[RO] Wie viele Satzglieder hat dieser Satz: 'Der Junge liest ein Buch im Bett.'?",
+    t13_qa: "[RO] 4 (Subjekt, Prädikat, Objekt, Ort)", t13_qb: "[RO] 2 (Subjekt, Prädikat)", t13_qc: "[RO] 3 (Subjekt, Prädikat, Objekt)", t13_qd: "[RO] 5",
+
+    // T14: Satzglieder in Fragen
+    t14_title: "[RO] Satzglieder in Fragen erkennen",
+    t14_text: "[RO] Auch in Fragen gibt es Satzglieder! In 'Wann kommt dein Freund?' ist 'dein Freund' das Subjekt und 'Wann' ist eine Zeitbestimmung.",
+    t14_b1: "[RO] Satzglieder auch in Fragen erkennbar.",
+    t14_b2: "[RO] Das Fragezeichen markiert die Frage.",
+    t14_inst: "[RO] Was ist das Objekt in dieser Frage?",
+    t14_h1: "[RO] Frage: Wen oder was siehst du?",
+    t14_h2: "[RO] Das Objekt ist 'einen Vogel'.",
+    t14_sent4: "[RO] Siehst du ___?",
+    t14_c1: "[RO] einen Vogel", t14_c2: "[RO] du", t14_c3: "[RO] siehst", t14_c4: "[RO] Fragezeichen",
+    t14_q: "[RO] Welches Satzglied ist 'mein Freund' in der Frage: 'Kennst du meinen Freund?'?",
+    t14_qa: "[RO] Das Objekt", t14_qb: "[RO] Das Subjekt", t14_qc: "[RO] Das Prädikat", t14_qd: "[RO] Eine Bestimmung",
+
+    // T15: Satzglieder-Meister-Finale
+    t15_title: "[RO] Du bist ein Satzglieder-Profi!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du kennst jetzt alle wichtigen Satzglieder: Subjekt, Prädikat, Objekt und Bestimmungen. Du bist bereit, Sätze zu analysieren!",
+    t15_b1: "[RO] Alle Satzglieder gelernt.",
+    t15_b2: "[RO] Du schaffst jeden Satz!",
+    t15_inst: "[RO] Erkenne alle Satzglieder in diesem Satz!",
+    t15_h1: "[RO] Wer + tut was + wen/was + wo + wann?",
+    t15_h2: "[RO] Das Mädchen malt ein Bild im Zimmer heute Nachmittag.",
+    t15_sent5: "[RO] Das Mädchen malt ___ im Klassenzimmer.",
+    t15_c1: "[RO] ein schönes Bild", t15_c2: "[RO] Mädchen", t15_c3: "[RO] im Klassenzimmer", t15_c4: "[RO] malt",
+    t15_q: "[RO] Wie heißt der Prozess, Satzglieder zu erkennen?",
+    t15_qa: "[RO] Satzglieder-Analyse", t15_qb: "[RO] Wort-Analyse", t15_qc: "[RO] Satz-Analyse", t15_qd: "[RO] Grammatik-Spiel",
+  
   }
 };
 
@@ -1961,6 +4052,576 @@ export const ZEITFORM_LABELS: Record<string, Record<string, string>> = {
     t15_c1: "werde", t15_c2: "bin", t15_c3: "war", t15_c4: "habe",
     t15_q: "Wie heißt die älteste Vergangenheit?",
     t15_qa: "Plusquamperfekt", t15_qb: "Präteritum", t15_qc: "Perfekt", t15_qd: "Präsens",
+  },
+  en: {
+
+    explorer_title: "[EN] Zeit-Reisende",
+
+    // T1: Was sind Zeitformen?
+    t1_title: "[EN] Was sind Zeitformen?",
+    t1_text: "[EN] Zeitformen sagen uns, WANN etwas passiert. Passiert es gerade jetzt (Präsens) oder ist es schon vorbei (Vergangenheit)?",
+    t1_b1: "[EN] Präsens = Jetzt.",
+    t1_b2: "[EN] Vergangenheit = Vorbei.",
+    t1_inst: "[EN] Welches Wort passt zur Gegenwart (Präsens)?",
+    t1_h1: "[EN] Suche das Wort, das 'jetzt' bedeutet.",
+    t1_h2: "[EN] Das Wort 'heute' passt zum Präsens.",
+    t1_w1: "[EN] heute", t1_w2: "[EN] gestern", t1_w3: "[EN] früher", t1_w4: "[EN] damals",
+    // Quiz: GENERATOR (verben_k3)
+
+    // T2: Das Präsens (Gegenwart)
+    t2_title: "[EN] Das Präsens",
+    t2_text: "[EN] Das Präsens nutzen wir für alles, was jetzt gerade passiert oder immer gilt. 'Ich lerne Deutsch.'",
+    t2_b1: "[EN] Passiert jetzt gerade.",
+    t2_b2: "[EN] Regelmäßige Handlungen.",
+    t2_inst: "[EN] Welches Verb steht im Präsens?",
+    t2_h1: "[EN] Suche die normale Form: ich ...",
+    t2_h2: "[EN] 'ich spiele' ist Präsens.",
+    t2_w2_1: "[EN] ich spiele", t2_w2_2: "[EN] ich spielte", t2_w2_3: "[EN] ich habe gespielt",
+    // Quiz: MANUAL
+    t2_q: "[EN] Wann benutzen wir das Präsens?",
+    t2_qa: "[EN] Wenn etwas jetzt passiert", t2_qb: "[EN] Wenn etwas gestern war", t2_qc: "[EN] Wenn etwas morgen kommt", t2_qd: "[EN] Nur in Märchen",
+
+    // T3: Das Präteritum (Vergangenheit 1)
+    t3_title: "[EN] Das Präteritum",
+    t3_text: "[EN] Das Präteritum ist die 'Erzähl-Vergangenheit'. Wir nutzen es vor allem in Büchern und Märchen. 'Es war einmal...'",
+    t3_b1: "[EN] Wird oft geschrieben.",
+    t3_b2: "[EN] war, hatte, ging, sagte.",
+    t3_inst: "[EN] Welches Wort gehört zum Präteritum?",
+    t3_h1: "[EN] Wie fängt ein Märchen oft an?",
+    t3_h2: "[EN] Das Wort 'war' ist Präteritum.",
+    t3_w3_1: "[EN] bin", t3_w3_2: "[EN] war", t3_w3_3: "[EN] werde", t3_w3_4: "[EN] ist",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T4: Das Perfekt (Vergangenheit 2)
+    t4_title: "[EN] Das Perfekt",
+    t4_text: "[EN] Das Perfekt ist die 'Sprech-Vergangenheit'. Wenn wir jemandem erzählen, was wir gemacht haben, nutzen wir meistens das Perfekt: 'Ich habe gespielt.'",
+    t4_b1: "[EN] Wird oft gesprochen.",
+    t4_b2: "[EN] Zwei Teile: Hilfsverb (habe/bin) + Partizip (gespielt).",
+    t4_inst: "[EN] Finde das Perfekt im Satz!",
+    t4_h1: "[EN] Suche nach dem Satz mit 'habe' und 'ge...'.",
+    t4_h2: "[EN] Ich habe gelacht.",
+    t4_sent: "[EN] Gestern ___ ich viel ___.",
+    t4_c1: "[EN] habe / gelacht", t4_c2: "[EN] bin / gelacht", t4_c3: "[EN] habe / lache", t4_c4: "[EN] war / gelacht",
+    // Quiz: GENERATOR (perfekt)
+
+    // T5: Zeit-Sortiermaschine
+    t5_title: "[EN] Zeit-Sortierer",
+    t5_text: "[EN] Kannst du Präsens und Präteritum unterscheiden? Präsens ist HEUTE, Präteritum war GESTERN.",
+    t5_b1: "[EN] ich lerne (Präsens).",
+    t5_b2: "[EN] ich lernte (Präteritum).",
+    t5_inst: "[EN] Sortiere die Verben in die richtige Zeitform!",
+    t5_h1: "[EN] Passiert es jetzt oder war es früher?",
+    t5_h2: "[EN] ich singe -> Präsens. ich sang -> Präteritum.",
+    t5_bpr: "[EN] Präsens (Jetzt) ☀️", t5_bpa: "[EN] Präteritum (Früher) 🌙",
+    t5_i1: "[EN] ich singe", t5_i2: "[EN] ich sang", t5_i3: "[EN] du lachst", t5_i4: "[EN] du lachtest",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T6: Perfekt bauen
+    t6_title: "[EN] Sätze im Perfekt",
+    t6_text: "[EN] Im Perfekt brauchen wir immer zwei Wörter für das Verb. Ein Helfer-Verb (haben oder sein) und das Hauptwort am Ende.",
+    t6_b1: "[EN] Hilfsverb + Partizip.",
+    t6_inst: "[EN] Baue den Satz im Perfekt zusammen!",
+    t6_h1: "[EN] Beginne mit 'Ich', dann der Helfer 'habe'.",
+    t6_h2: "[EN] Ich habe Fußball gespielt.",
+    t6_f1: "[EN] Ich", t6_f2: "[EN] habe", t6_f3: "[EN] Fußball", t6_f4: "[EN] gespielt.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T7: Der Zeit-Meister
+    t7_title: "[EN] Der Zeit-Meister",
+    t7_text: "[EN] Du bist nun ein Zeit-Reisender! Kannst du erkennen, in welcher Zeit dieser Satz steht?",
+    t7_b1: "[EN] Achte auf die Verbform.",
+    t7_inst: "[EN] Welche Zeitform ist das: 'Er rannte schnell.'?",
+    t7_h1: "[EN] Ist es Präsens, Präteritum oder Perfekt?",
+    t7_h2: "[EN] Es ist Präteritum (Erzähl-Vergangenheit).",
+    t7_w7_1: "[EN] Präsens", t7_w7_2: "[EN] Präteritum", t7_w7_3: "[EN] Perfekt",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T8: Futur I - Zukunftsform
+    t8_title: "[EN] Futur I - Die Zukunft",
+    t8_text: "[EN] Futur I ist die Zukunftsform. Wir bauen sie mit 'werden' + Infinitiv. 'Ich WERDE spielen.' Das ist ganz einfach!",
+    t8_b1: "[EN] Futur I = werden + Infinitiv",
+    t8_b2: "[EN] Ich werde, du wirst, er wird.",
+    t8_inst: "[EN] Finde das Futur I!",
+    t8_h1: "[EN] Suche das Wort 'werden' + Verb.",
+    t8_h2: "[EN] Ich werde morgen spielen.",
+    t8_sent: "[EN] Wir ___ nächste Woche fahren.",
+    t8_c1: "[EN] werden", t8_c2: "[EN] werden fahren", t8_c3: "[EN] fahren werden", t8_c4: "[EN] werde fahren",
+    t8_q: "[EN] Was ist Futur I?",
+    t8_qa: "[EN] werden + Infinitiv", t8_qb: "[EN] haben + Partizip", t8_qc: "[EN] bin + Partizip", t8_qd: "[EN] werden + Partizip",
+
+    // T9: Konjunktiv II - Der 'Wunsch-Modus'
+    t9_title: "[EN] Konjunktiv II - Wünsche und Träume",
+    t9_text: "[EN] Konjunktiv II zeigt, was nicht real ist. Wenn ich könnte, würde ich fliegen! 'wäre', 'hätte', 'würde' sind die wichtigsten Formen.",
+    t9_b1: "[EN] Konjunktiv II = würde + Infinitiv",
+    t9_b2: "[EN] Auch: wäre, hätte, könnte, möchte",
+    t9_inst: "[EN] Verbinde die Formen!",
+    t9_h1: "[EN] Das ist nicht real, sondern ein Wunsch.",
+    t9_h2: "[EN] Ich würde fliegen (wenn ich könnte).",
+    t9_l1: "[EN] ich bin", t9_r1: "[EN] ich wäre",
+    t9_l2: "[EN] ich habe", t9_r2: "[EN] ich hätte",
+    t9_l3: "[EN] ich spiele", t9_r3: "[EN] ich würde spielen",
+    t9_l4: "[EN] ich kann", t9_r4: "[EN] ich könnte",
+    t9_q: "[EN] Was zeigt Konjunktiv II?",
+    t9_qa: "[EN] Wünsche und Vorstellungen", t9_qb: "[EN] Was gerade passiert", t9_qc: "[EN] Was gestern war", t9_qd: "[EN] Was morgen kommt",
+
+    // T10: Plusquamperfekt - Die 'Vor-Vergangenheit'
+    t10_title: "[EN] Plusquamperfekt - Die älteste Vergangenheit",
+    t10_text: "[EN] Plusquamperfekt zeigt, welche Handlung ZUERST in der Vergangenheit passiert ist. Ich hatte gegessen, BEVOR ich ging. 'hatte' oder 'war' + Partizip.",
+    t10_b1: "[EN] hatte/war + Partizip II",
+    t10_b2: "[EN] Das älteste in der Geschichte.",
+    t10_inst: "[EN] Was passierte zuerst?",
+    t10_h1: "[EN] Die Vor-Vergangenheit ist noch älter!",
+    t10_h2: "[EN] Sie hatte gegessen (zuerst), dann verließ sie (später).",
+    t10_sent: "[EN] Bevor ich kam, ___ er bereits angekommen.",
+    t10_c1: "[EN] war", t10_c2: "[EN] ist", t10_c3: "[EN] wird", t10_c4: "[EN] wäre",
+    t10_q: "[EN] Was zeigt Plusquamperfekt?",
+    t10_qa: "[EN] Was zuerst passiert ist", t10_qb: "[EN] Was jetzt passiert", t10_qc: "[EN] Was später passiert", t10_qd: "[EN] Was immer passiert",
+
+    // T11: Passiv Präsens - Wer tut es?
+    t11_title: "[EN] Passiv Präsens",
+    t11_text: "[EN] Im Passiv ist nicht wichtig, WER etwas tut, sondern WAS getan wird. 'Der Brief wird geschrieben' (Passiv) vs 'Ich schreibe einen Brief' (Aktiv).",
+    t11_b1: "[EN] werden + Partizip II",
+    t11_b2: "[EN] Fokus auf die Handlung, nicht die Person.",
+    t11_inst: "[EN] Sortiere: Aktiv oder Passiv?",
+    t11_h1: "[EN] Wird etwas GETAN oder TUST du es?",
+    t11_h2: "[EN] Passiv: Das Essen wird gekocht. Aktiv: Mama kocht das Essen.",
+    t11_ba: "[EN] Aktiv (wer tut)", t11_bp: "[EN] Passiv (wird getan)",
+    t11_i1: "[EN] Der Film wird gezeigt", t11_i2: "[EN] Ich zeige den Film", t11_i3: "[EN] Die Stadt wird gebaut", t11_i4: "[EN] Der Lehrer erklart das",
+    t11_q: "[EN] Was ist ein Passivsatz?",
+    t11_qa: "[EN] werden + Partizip", t11_qb: "[EN] sein + Partizip", t11_qc: "[EN] haben + Partizip", t11_qd: "[EN] nur mit Verben",
+
+    // T12: Zeitformen-Durcheinander
+    t12_title: "[EN] Alle Zeitformen mischen",
+    t12_text: "[EN] Jetzt wird es knifflig! Findest du alle Zeitformen durcheinander? Präsens, Präteritum, Perfekt, Futur, Konjunktiv - alles gemischt!",
+    t12_b1: "[EN] 6 Zeitformen total.",
+    t12_b2: "[EN] Achte auf die Verb-Struktur!",
+    t12_inst: "[EN] Welche Zeitform ist das?",
+    t12_h1: "[EN] Denke an die Hilfsverben und Strukturen.",
+    t12_h2: "[EN] haben/sein + Partizip = Perfekt. werden + Infinitiv = Futur.",
+    t12_sent: "[EN] Der Hund ___ das ganze Tag gegeben.",
+    t12_c1: "[EN] hat", t12_c2: "[EN] hatte", t12_c3: "[EN] ist", t12_c4: "[EN] wird",
+    t12_q: "[EN] Was ist 'Ich werde spielen'?",
+    t12_qa: "[EN] Futur I", t12_qb: "[EN] Präteritum", t12_qc: "[EN] Konjunktiv", t12_qd: "[EN] Perfekt",
+
+    // T13: Tempus-Wechsel in Sätzen
+    t13_title: "[EN] Wechsel der Zeitformen",
+    t13_text: "[EN] Manchmal wechselt die Zeit im Satz! 'Wenn ich könnte, würde ich fliegen.' Oder: 'Bevor ich kam, war er da.' Der Zeitwechsel hat eine Grund!",
+    t13_b1: "[EN] Zwei Zeitformen in einem Satz.",
+    t13_b2: "[EN] Grund: zeitliche Reihenfolge oder Bedingung.",
+    t13_inst: "[EN] Finde den Zeitwechsel!",
+    t13_h1: "[EN] Was passiert zuerst, was danach?",
+    t13_h2: "[EN] Er ist schon weg, bevor sie kommt.",
+    t13_sent2: "[EN] Wenn ich Geld hätte, ___ ich reisen.",
+    t13_c1: "[EN] würde", t13_c2: "[EN] werde", t13_c3: "[EN] bin", t13_c4: "[EN] habe",
+    t13_q: "[EN] Warum wechseln die Zeitformen in einem Satz?",
+    t13_qa: "[EN] Zu zeigen, was zuerst/später ist", t13_qb: "[EN] Zufällig", t13_qc: "[EN] Um zu verwirren", t13_qd: "[EN] Es ist ein Fehler",
+
+    // T14: Erzählzeit vs. Berichtszeit
+    t14_title: "[EN] Erzählung vs. Bericht",
+    t14_text: "[EN] Im Märchen nutzt man Präteritum (Erzählzeit). Im Bericht nutzt man Präsens oder Perfekt (Berichtszeit). 'Es war einmal...' vs 'Heute ist...'",
+    t14_b1: "[EN] Erzählung: Präteritum",
+    t14_b2: "[EN] Bericht: Präsens / Perfekt",
+    t14_inst: "[EN] Ist das eine Erzählung oder ein Bericht?",
+    t14_h1: "[EN] Märchen = Präteritum. Nachrichten = Präsens.",
+    t14_h2: "[EN] Es war einmal = Erzählung. Der Fußball ist rund = Bericht.",
+    t14_be: "[EN] Erzahlung", t14_bb: "[EN] Bericht",
+    t14_i1: "[EN] Es war einmal ein Prinz.", t14_i2: "[EN] Der Baum hat gruene Blatter.", t14_i3: "[EN] Die Sonne scheint hell.", t14_i4: "[EN] Der Konig rief seinen Sohn.",
+    t14_q: "[EN] Welche Zeit nutzen Märchen?",
+    t14_qa: "[EN] Präteritum", t14_qb: "[EN] Präsens", t14_qc: "[EN] Perfekt", t14_qd: "[EN] Futur",
+
+    // T15: Der Zeit-Champion!
+    t15_title: "[EN] Der Zeit-Champion!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du hast alle Zeitformen gelernt. Du kannst jetzt in jede Zeit reisen und jede Geschichte erzählen!",
+    t15_b1: "[EN] Alle 6 Zeitformen perfekt!",
+    t15_b2: "[EN] Du schaffst jede Zeitaufgabe!",
+    t15_inst: "[EN] Welche Form zeigt die Zukunft?",
+    t15_h1: "[EN] Morgen, nächste Woche, später...",
+    t15_h2: "[EN] Futur I: werden + Infinitiv",
+    t15_sent3: "[EN] Ich ___ dich besuchen, wenn ich Zeit habe.",
+    t15_c1: "[EN] werde", t15_c2: "[EN] bin", t15_c3: "[EN] war", t15_c4: "[EN] habe",
+    t15_q: "[EN] Wie heißt die älteste Vergangenheit?",
+    t15_qa: "[EN] Plusquamperfekt", t15_qb: "[EN] Präteritum", t15_qc: "[EN] Perfekt", t15_qd: "[EN] Präsens",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Zeit-Reisende",
+
+    // T1: Was sind Zeitformen?
+    t1_title: "[HU] Was sind Zeitformen?",
+    t1_text: "[HU] Zeitformen sagen uns, WANN etwas passiert. Passiert es gerade jetzt (Präsens) oder ist es schon vorbei (Vergangenheit)?",
+    t1_b1: "[HU] Präsens = Jetzt.",
+    t1_b2: "[HU] Vergangenheit = Vorbei.",
+    t1_inst: "[HU] Welches Wort passt zur Gegenwart (Präsens)?",
+    t1_h1: "[HU] Suche das Wort, das 'jetzt' bedeutet.",
+    t1_h2: "[HU] Das Wort 'heute' passt zum Präsens.",
+    t1_w1: "[HU] heute", t1_w2: "[HU] gestern", t1_w3: "[HU] früher", t1_w4: "[HU] damals",
+    // Quiz: GENERATOR (verben_k3)
+
+    // T2: Das Präsens (Gegenwart)
+    t2_title: "[HU] Das Präsens",
+    t2_text: "[HU] Das Präsens nutzen wir für alles, was jetzt gerade passiert oder immer gilt. 'Ich lerne Deutsch.'",
+    t2_b1: "[HU] Passiert jetzt gerade.",
+    t2_b2: "[HU] Regelmäßige Handlungen.",
+    t2_inst: "[HU] Welches Verb steht im Präsens?",
+    t2_h1: "[HU] Suche die normale Form: ich ...",
+    t2_h2: "[HU] 'ich spiele' ist Präsens.",
+    t2_w2_1: "[HU] ich spiele", t2_w2_2: "[HU] ich spielte", t2_w2_3: "[HU] ich habe gespielt",
+    // Quiz: MANUAL
+    t2_q: "[HU] Wann benutzen wir das Präsens?",
+    t2_qa: "[HU] Wenn etwas jetzt passiert", t2_qb: "[HU] Wenn etwas gestern war", t2_qc: "[HU] Wenn etwas morgen kommt", t2_qd: "[HU] Nur in Märchen",
+
+    // T3: Das Präteritum (Vergangenheit 1)
+    t3_title: "[HU] Das Präteritum",
+    t3_text: "[HU] Das Präteritum ist die 'Erzähl-Vergangenheit'. Wir nutzen es vor allem in Büchern und Märchen. 'Es war einmal...'",
+    t3_b1: "[HU] Wird oft geschrieben.",
+    t3_b2: "[HU] war, hatte, ging, sagte.",
+    t3_inst: "[HU] Welches Wort gehört zum Präteritum?",
+    t3_h1: "[HU] Wie fängt ein Märchen oft an?",
+    t3_h2: "[HU] Das Wort 'war' ist Präteritum.",
+    t3_w3_1: "[HU] bin", t3_w3_2: "[HU] war", t3_w3_3: "[HU] werde", t3_w3_4: "[HU] ist",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T4: Das Perfekt (Vergangenheit 2)
+    t4_title: "[HU] Das Perfekt",
+    t4_text: "[HU] Das Perfekt ist die 'Sprech-Vergangenheit'. Wenn wir jemandem erzählen, was wir gemacht haben, nutzen wir meistens das Perfekt: 'Ich habe gespielt.'",
+    t4_b1: "[HU] Wird oft gesprochen.",
+    t4_b2: "[HU] Zwei Teile: Hilfsverb (habe/bin) + Partizip (gespielt).",
+    t4_inst: "[HU] Finde das Perfekt im Satz!",
+    t4_h1: "[HU] Suche nach dem Satz mit 'habe' und 'ge...'.",
+    t4_h2: "[HU] Ich habe gelacht.",
+    t4_sent: "[HU] Gestern ___ ich viel ___.",
+    t4_c1: "[HU] habe / gelacht", t4_c2: "[HU] bin / gelacht", t4_c3: "[HU] habe / lache", t4_c4: "[HU] war / gelacht",
+    // Quiz: GENERATOR (perfekt)
+
+    // T5: Zeit-Sortiermaschine
+    t5_title: "[HU] Zeit-Sortierer",
+    t5_text: "[HU] Kannst du Präsens und Präteritum unterscheiden? Präsens ist HEUTE, Präteritum war GESTERN.",
+    t5_b1: "[HU] ich lerne (Präsens).",
+    t5_b2: "[HU] ich lernte (Präteritum).",
+    t5_inst: "[HU] Sortiere die Verben in die richtige Zeitform!",
+    t5_h1: "[HU] Passiert es jetzt oder war es früher?",
+    t5_h2: "[HU] ich singe -> Präsens. ich sang -> Präteritum.",
+    t5_bpr: "[HU] Präsens (Jetzt) ☀️", t5_bpa: "[HU] Präteritum (Früher) 🌙",
+    t5_i1: "[HU] ich singe", t5_i2: "[HU] ich sang", t5_i3: "[HU] du lachst", t5_i4: "[HU] du lachtest",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T6: Perfekt bauen
+    t6_title: "[HU] Sätze im Perfekt",
+    t6_text: "[HU] Im Perfekt brauchen wir immer zwei Wörter für das Verb. Ein Helfer-Verb (haben oder sein) und das Hauptwort am Ende.",
+    t6_b1: "[HU] Hilfsverb + Partizip.",
+    t6_inst: "[HU] Baue den Satz im Perfekt zusammen!",
+    t6_h1: "[HU] Beginne mit 'Ich', dann der Helfer 'habe'.",
+    t6_h2: "[HU] Ich habe Fußball gespielt.",
+    t6_f1: "[HU] Ich", t6_f2: "[HU] habe", t6_f3: "[HU] Fußball", t6_f4: "[HU] gespielt.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T7: Der Zeit-Meister
+    t7_title: "[HU] Der Zeit-Meister",
+    t7_text: "[HU] Du bist nun ein Zeit-Reisender! Kannst du erkennen, in welcher Zeit dieser Satz steht?",
+    t7_b1: "[HU] Achte auf die Verbform.",
+    t7_inst: "[HU] Welche Zeitform ist das: 'Er rannte schnell.'?",
+    t7_h1: "[HU] Ist es Präsens, Präteritum oder Perfekt?",
+    t7_h2: "[HU] Es ist Präteritum (Erzähl-Vergangenheit).",
+    t7_w7_1: "[HU] Präsens", t7_w7_2: "[HU] Präteritum", t7_w7_3: "[HU] Perfekt",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T8: Futur I - Zukunftsform
+    t8_title: "[HU] Futur I - Die Zukunft",
+    t8_text: "[HU] Futur I ist die Zukunftsform. Wir bauen sie mit 'werden' + Infinitiv. 'Ich WERDE spielen.' Das ist ganz einfach!",
+    t8_b1: "[HU] Futur I = werden + Infinitiv",
+    t8_b2: "[HU] Ich werde, du wirst, er wird.",
+    t8_inst: "[HU] Finde das Futur I!",
+    t8_h1: "[HU] Suche das Wort 'werden' + Verb.",
+    t8_h2: "[HU] Ich werde morgen spielen.",
+    t8_sent: "[HU] Wir ___ nächste Woche fahren.",
+    t8_c1: "[HU] werden", t8_c2: "[HU] werden fahren", t8_c3: "[HU] fahren werden", t8_c4: "[HU] werde fahren",
+    t8_q: "[HU] Was ist Futur I?",
+    t8_qa: "[HU] werden + Infinitiv", t8_qb: "[HU] haben + Partizip", t8_qc: "[HU] bin + Partizip", t8_qd: "[HU] werden + Partizip",
+
+    // T9: Konjunktiv II - Der 'Wunsch-Modus'
+    t9_title: "[HU] Konjunktiv II - Wünsche und Träume",
+    t9_text: "[HU] Konjunktiv II zeigt, was nicht real ist. Wenn ich könnte, würde ich fliegen! 'wäre', 'hätte', 'würde' sind die wichtigsten Formen.",
+    t9_b1: "[HU] Konjunktiv II = würde + Infinitiv",
+    t9_b2: "[HU] Auch: wäre, hätte, könnte, möchte",
+    t9_inst: "[HU] Verbinde die Formen!",
+    t9_h1: "[HU] Das ist nicht real, sondern ein Wunsch.",
+    t9_h2: "[HU] Ich würde fliegen (wenn ich könnte).",
+    t9_l1: "[HU] ich bin", t9_r1: "[HU] ich wäre",
+    t9_l2: "[HU] ich habe", t9_r2: "[HU] ich hätte",
+    t9_l3: "[HU] ich spiele", t9_r3: "[HU] ich würde spielen",
+    t9_l4: "[HU] ich kann", t9_r4: "[HU] ich könnte",
+    t9_q: "[HU] Was zeigt Konjunktiv II?",
+    t9_qa: "[HU] Wünsche und Vorstellungen", t9_qb: "[HU] Was gerade passiert", t9_qc: "[HU] Was gestern war", t9_qd: "[HU] Was morgen kommt",
+
+    // T10: Plusquamperfekt - Die 'Vor-Vergangenheit'
+    t10_title: "[HU] Plusquamperfekt - Die älteste Vergangenheit",
+    t10_text: "[HU] Plusquamperfekt zeigt, welche Handlung ZUERST in der Vergangenheit passiert ist. Ich hatte gegessen, BEVOR ich ging. 'hatte' oder 'war' + Partizip.",
+    t10_b1: "[HU] hatte/war + Partizip II",
+    t10_b2: "[HU] Das älteste in der Geschichte.",
+    t10_inst: "[HU] Was passierte zuerst?",
+    t10_h1: "[HU] Die Vor-Vergangenheit ist noch älter!",
+    t10_h2: "[HU] Sie hatte gegessen (zuerst), dann verließ sie (später).",
+    t10_sent: "[HU] Bevor ich kam, ___ er bereits angekommen.",
+    t10_c1: "[HU] war", t10_c2: "[HU] ist", t10_c3: "[HU] wird", t10_c4: "[HU] wäre",
+    t10_q: "[HU] Was zeigt Plusquamperfekt?",
+    t10_qa: "[HU] Was zuerst passiert ist", t10_qb: "[HU] Was jetzt passiert", t10_qc: "[HU] Was später passiert", t10_qd: "[HU] Was immer passiert",
+
+    // T11: Passiv Präsens - Wer tut es?
+    t11_title: "[HU] Passiv Präsens",
+    t11_text: "[HU] Im Passiv ist nicht wichtig, WER etwas tut, sondern WAS getan wird. 'Der Brief wird geschrieben' (Passiv) vs 'Ich schreibe einen Brief' (Aktiv).",
+    t11_b1: "[HU] werden + Partizip II",
+    t11_b2: "[HU] Fokus auf die Handlung, nicht die Person.",
+    t11_inst: "[HU] Sortiere: Aktiv oder Passiv?",
+    t11_h1: "[HU] Wird etwas GETAN oder TUST du es?",
+    t11_h2: "[HU] Passiv: Das Essen wird gekocht. Aktiv: Mama kocht das Essen.",
+    t11_ba: "[HU] Aktiv (wer tut)", t11_bp: "[HU] Passiv (wird getan)",
+    t11_i1: "[HU] Der Film wird gezeigt", t11_i2: "[HU] Ich zeige den Film", t11_i3: "[HU] Die Stadt wird gebaut", t11_i4: "[HU] Der Lehrer erklart das",
+    t11_q: "[HU] Was ist ein Passivsatz?",
+    t11_qa: "[HU] werden + Partizip", t11_qb: "[HU] sein + Partizip", t11_qc: "[HU] haben + Partizip", t11_qd: "[HU] nur mit Verben",
+
+    // T12: Zeitformen-Durcheinander
+    t12_title: "[HU] Alle Zeitformen mischen",
+    t12_text: "[HU] Jetzt wird es knifflig! Findest du alle Zeitformen durcheinander? Präsens, Präteritum, Perfekt, Futur, Konjunktiv - alles gemischt!",
+    t12_b1: "[HU] 6 Zeitformen total.",
+    t12_b2: "[HU] Achte auf die Verb-Struktur!",
+    t12_inst: "[HU] Welche Zeitform ist das?",
+    t12_h1: "[HU] Denke an die Hilfsverben und Strukturen.",
+    t12_h2: "[HU] haben/sein + Partizip = Perfekt. werden + Infinitiv = Futur.",
+    t12_sent: "[HU] Der Hund ___ das ganze Tag gegeben.",
+    t12_c1: "[HU] hat", t12_c2: "[HU] hatte", t12_c3: "[HU] ist", t12_c4: "[HU] wird",
+    t12_q: "[HU] Was ist 'Ich werde spielen'?",
+    t12_qa: "[HU] Futur I", t12_qb: "[HU] Präteritum", t12_qc: "[HU] Konjunktiv", t12_qd: "[HU] Perfekt",
+
+    // T13: Tempus-Wechsel in Sätzen
+    t13_title: "[HU] Wechsel der Zeitformen",
+    t13_text: "[HU] Manchmal wechselt die Zeit im Satz! 'Wenn ich könnte, würde ich fliegen.' Oder: 'Bevor ich kam, war er da.' Der Zeitwechsel hat eine Grund!",
+    t13_b1: "[HU] Zwei Zeitformen in einem Satz.",
+    t13_b2: "[HU] Grund: zeitliche Reihenfolge oder Bedingung.",
+    t13_inst: "[HU] Finde den Zeitwechsel!",
+    t13_h1: "[HU] Was passiert zuerst, was danach?",
+    t13_h2: "[HU] Er ist schon weg, bevor sie kommt.",
+    t13_sent2: "[HU] Wenn ich Geld hätte, ___ ich reisen.",
+    t13_c1: "[HU] würde", t13_c2: "[HU] werde", t13_c3: "[HU] bin", t13_c4: "[HU] habe",
+    t13_q: "[HU] Warum wechseln die Zeitformen in einem Satz?",
+    t13_qa: "[HU] Zu zeigen, was zuerst/später ist", t13_qb: "[HU] Zufällig", t13_qc: "[HU] Um zu verwirren", t13_qd: "[HU] Es ist ein Fehler",
+
+    // T14: Erzählzeit vs. Berichtszeit
+    t14_title: "[HU] Erzählung vs. Bericht",
+    t14_text: "[HU] Im Märchen nutzt man Präteritum (Erzählzeit). Im Bericht nutzt man Präsens oder Perfekt (Berichtszeit). 'Es war einmal...' vs 'Heute ist...'",
+    t14_b1: "[HU] Erzählung: Präteritum",
+    t14_b2: "[HU] Bericht: Präsens / Perfekt",
+    t14_inst: "[HU] Ist das eine Erzählung oder ein Bericht?",
+    t14_h1: "[HU] Märchen = Präteritum. Nachrichten = Präsens.",
+    t14_h2: "[HU] Es war einmal = Erzählung. Der Fußball ist rund = Bericht.",
+    t14_be: "[HU] Erzahlung", t14_bb: "[HU] Bericht",
+    t14_i1: "[HU] Es war einmal ein Prinz.", t14_i2: "[HU] Der Baum hat gruene Blatter.", t14_i3: "[HU] Die Sonne scheint hell.", t14_i4: "[HU] Der Konig rief seinen Sohn.",
+    t14_q: "[HU] Welche Zeit nutzen Märchen?",
+    t14_qa: "[HU] Präteritum", t14_qb: "[HU] Präsens", t14_qc: "[HU] Perfekt", t14_qd: "[HU] Futur",
+
+    // T15: Der Zeit-Champion!
+    t15_title: "[HU] Der Zeit-Champion!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du hast alle Zeitformen gelernt. Du kannst jetzt in jede Zeit reisen und jede Geschichte erzählen!",
+    t15_b1: "[HU] Alle 6 Zeitformen perfekt!",
+    t15_b2: "[HU] Du schaffst jede Zeitaufgabe!",
+    t15_inst: "[HU] Welche Form zeigt die Zukunft?",
+    t15_h1: "[HU] Morgen, nächste Woche, später...",
+    t15_h2: "[HU] Futur I: werden + Infinitiv",
+    t15_sent3: "[HU] Ich ___ dich besuchen, wenn ich Zeit habe.",
+    t15_c1: "[HU] werde", t15_c2: "[HU] bin", t15_c3: "[HU] war", t15_c4: "[HU] habe",
+    t15_q: "[HU] Wie heißt die älteste Vergangenheit?",
+    t15_qa: "[HU] Plusquamperfekt", t15_qb: "[HU] Präteritum", t15_qc: "[HU] Perfekt", t15_qd: "[HU] Präsens",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Zeit-Reisende",
+
+    // T1: Was sind Zeitformen?
+    t1_title: "[RO] Was sind Zeitformen?",
+    t1_text: "[RO] Zeitformen sagen uns, WANN etwas passiert. Passiert es gerade jetzt (Präsens) oder ist es schon vorbei (Vergangenheit)?",
+    t1_b1: "[RO] Präsens = Jetzt.",
+    t1_b2: "[RO] Vergangenheit = Vorbei.",
+    t1_inst: "[RO] Welches Wort passt zur Gegenwart (Präsens)?",
+    t1_h1: "[RO] Suche das Wort, das 'jetzt' bedeutet.",
+    t1_h2: "[RO] Das Wort 'heute' passt zum Präsens.",
+    t1_w1: "[RO] heute", t1_w2: "[RO] gestern", t1_w3: "[RO] früher", t1_w4: "[RO] damals",
+    // Quiz: GENERATOR (verben_k3)
+
+    // T2: Das Präsens (Gegenwart)
+    t2_title: "[RO] Das Präsens",
+    t2_text: "[RO] Das Präsens nutzen wir für alles, was jetzt gerade passiert oder immer gilt. 'Ich lerne Deutsch.'",
+    t2_b1: "[RO] Passiert jetzt gerade.",
+    t2_b2: "[RO] Regelmäßige Handlungen.",
+    t2_inst: "[RO] Welches Verb steht im Präsens?",
+    t2_h1: "[RO] Suche die normale Form: ich ...",
+    t2_h2: "[RO] 'ich spiele' ist Präsens.",
+    t2_w2_1: "[RO] ich spiele", t2_w2_2: "[RO] ich spielte", t2_w2_3: "[RO] ich habe gespielt",
+    // Quiz: MANUAL
+    t2_q: "[RO] Wann benutzen wir das Präsens?",
+    t2_qa: "[RO] Wenn etwas jetzt passiert", t2_qb: "[RO] Wenn etwas gestern war", t2_qc: "[RO] Wenn etwas morgen kommt", t2_qd: "[RO] Nur in Märchen",
+
+    // T3: Das Präteritum (Vergangenheit 1)
+    t3_title: "[RO] Das Präteritum",
+    t3_text: "[RO] Das Präteritum ist die 'Erzähl-Vergangenheit'. Wir nutzen es vor allem in Büchern und Märchen. 'Es war einmal...'",
+    t3_b1: "[RO] Wird oft geschrieben.",
+    t3_b2: "[RO] war, hatte, ging, sagte.",
+    t3_inst: "[RO] Welches Wort gehört zum Präteritum?",
+    t3_h1: "[RO] Wie fängt ein Märchen oft an?",
+    t3_h2: "[RO] Das Wort 'war' ist Präteritum.",
+    t3_w3_1: "[RO] bin", t3_w3_2: "[RO] war", t3_w3_3: "[RO] werde", t3_w3_4: "[RO] ist",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T4: Das Perfekt (Vergangenheit 2)
+    t4_title: "[RO] Das Perfekt",
+    t4_text: "[RO] Das Perfekt ist die 'Sprech-Vergangenheit'. Wenn wir jemandem erzählen, was wir gemacht haben, nutzen wir meistens das Perfekt: 'Ich habe gespielt.'",
+    t4_b1: "[RO] Wird oft gesprochen.",
+    t4_b2: "[RO] Zwei Teile: Hilfsverb (habe/bin) + Partizip (gespielt).",
+    t4_inst: "[RO] Finde das Perfekt im Satz!",
+    t4_h1: "[RO] Suche nach dem Satz mit 'habe' und 'ge...'.",
+    t4_h2: "[RO] Ich habe gelacht.",
+    t4_sent: "[RO] Gestern ___ ich viel ___.",
+    t4_c1: "[RO] habe / gelacht", t4_c2: "[RO] bin / gelacht", t4_c3: "[RO] habe / lache", t4_c4: "[RO] war / gelacht",
+    // Quiz: GENERATOR (perfekt)
+
+    // T5: Zeit-Sortiermaschine
+    t5_title: "[RO] Zeit-Sortierer",
+    t5_text: "[RO] Kannst du Präsens und Präteritum unterscheiden? Präsens ist HEUTE, Präteritum war GESTERN.",
+    t5_b1: "[RO] ich lerne (Präsens).",
+    t5_b2: "[RO] ich lernte (Präteritum).",
+    t5_inst: "[RO] Sortiere die Verben in die richtige Zeitform!",
+    t5_h1: "[RO] Passiert es jetzt oder war es früher?",
+    t5_h2: "[RO] ich singe -> Präsens. ich sang -> Präteritum.",
+    t5_bpr: "[RO] Präsens (Jetzt) ☀️", t5_bpa: "[RO] Präteritum (Früher) 🌙",
+    t5_i1: "[RO] ich singe", t5_i2: "[RO] ich sang", t5_i3: "[RO] du lachst", t5_i4: "[RO] du lachtest",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T6: Perfekt bauen
+    t6_title: "[RO] Sätze im Perfekt",
+    t6_text: "[RO] Im Perfekt brauchen wir immer zwei Wörter für das Verb. Ein Helfer-Verb (haben oder sein) und das Hauptwort am Ende.",
+    t6_b1: "[RO] Hilfsverb + Partizip.",
+    t6_inst: "[RO] Baue den Satz im Perfekt zusammen!",
+    t6_h1: "[RO] Beginne mit 'Ich', dann der Helfer 'habe'.",
+    t6_h2: "[RO] Ich habe Fußball gespielt.",
+    t6_f1: "[RO] Ich", t6_f2: "[RO] habe", t6_f3: "[RO] Fußball", t6_f4: "[RO] gespielt.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T7: Der Zeit-Meister
+    t7_title: "[RO] Der Zeit-Meister",
+    t7_text: "[RO] Du bist nun ein Zeit-Reisender! Kannst du erkennen, in welcher Zeit dieser Satz steht?",
+    t7_b1: "[RO] Achte auf die Verbform.",
+    t7_inst: "[RO] Welche Zeitform ist das: 'Er rannte schnell.'?",
+    t7_h1: "[RO] Ist es Präsens, Präteritum oder Perfekt?",
+    t7_h2: "[RO] Es ist Präteritum (Erzähl-Vergangenheit).",
+    t7_w7_1: "[RO] Präsens", t7_w7_2: "[RO] Präteritum", t7_w7_3: "[RO] Perfekt",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T8: Futur I - Zukunftsform
+    t8_title: "[RO] Futur I - Die Zukunft",
+    t8_text: "[RO] Futur I ist die Zukunftsform. Wir bauen sie mit 'werden' + Infinitiv. 'Ich WERDE spielen.' Das ist ganz einfach!",
+    t8_b1: "[RO] Futur I = werden + Infinitiv",
+    t8_b2: "[RO] Ich werde, du wirst, er wird.",
+    t8_inst: "[RO] Finde das Futur I!",
+    t8_h1: "[RO] Suche das Wort 'werden' + Verb.",
+    t8_h2: "[RO] Ich werde morgen spielen.",
+    t8_sent: "[RO] Wir ___ nächste Woche fahren.",
+    t8_c1: "[RO] werden", t8_c2: "[RO] werden fahren", t8_c3: "[RO] fahren werden", t8_c4: "[RO] werde fahren",
+    t8_q: "[RO] Was ist Futur I?",
+    t8_qa: "[RO] werden + Infinitiv", t8_qb: "[RO] haben + Partizip", t8_qc: "[RO] bin + Partizip", t8_qd: "[RO] werden + Partizip",
+
+    // T9: Konjunktiv II - Der 'Wunsch-Modus'
+    t9_title: "[RO] Konjunktiv II - Wünsche und Träume",
+    t9_text: "[RO] Konjunktiv II zeigt, was nicht real ist. Wenn ich könnte, würde ich fliegen! 'wäre', 'hätte', 'würde' sind die wichtigsten Formen.",
+    t9_b1: "[RO] Konjunktiv II = würde + Infinitiv",
+    t9_b2: "[RO] Auch: wäre, hätte, könnte, möchte",
+    t9_inst: "[RO] Verbinde die Formen!",
+    t9_h1: "[RO] Das ist nicht real, sondern ein Wunsch.",
+    t9_h2: "[RO] Ich würde fliegen (wenn ich könnte).",
+    t9_l1: "[RO] ich bin", t9_r1: "[RO] ich wäre",
+    t9_l2: "[RO] ich habe", t9_r2: "[RO] ich hätte",
+    t9_l3: "[RO] ich spiele", t9_r3: "[RO] ich würde spielen",
+    t9_l4: "[RO] ich kann", t9_r4: "[RO] ich könnte",
+    t9_q: "[RO] Was zeigt Konjunktiv II?",
+    t9_qa: "[RO] Wünsche und Vorstellungen", t9_qb: "[RO] Was gerade passiert", t9_qc: "[RO] Was gestern war", t9_qd: "[RO] Was morgen kommt",
+
+    // T10: Plusquamperfekt - Die 'Vor-Vergangenheit'
+    t10_title: "[RO] Plusquamperfekt - Die älteste Vergangenheit",
+    t10_text: "[RO] Plusquamperfekt zeigt, welche Handlung ZUERST in der Vergangenheit passiert ist. Ich hatte gegessen, BEVOR ich ging. 'hatte' oder 'war' + Partizip.",
+    t10_b1: "[RO] hatte/war + Partizip II",
+    t10_b2: "[RO] Das älteste in der Geschichte.",
+    t10_inst: "[RO] Was passierte zuerst?",
+    t10_h1: "[RO] Die Vor-Vergangenheit ist noch älter!",
+    t10_h2: "[RO] Sie hatte gegessen (zuerst), dann verließ sie (später).",
+    t10_sent: "[RO] Bevor ich kam, ___ er bereits angekommen.",
+    t10_c1: "[RO] war", t10_c2: "[RO] ist", t10_c3: "[RO] wird", t10_c4: "[RO] wäre",
+    t10_q: "[RO] Was zeigt Plusquamperfekt?",
+    t10_qa: "[RO] Was zuerst passiert ist", t10_qb: "[RO] Was jetzt passiert", t10_qc: "[RO] Was später passiert", t10_qd: "[RO] Was immer passiert",
+
+    // T11: Passiv Präsens - Wer tut es?
+    t11_title: "[RO] Passiv Präsens",
+    t11_text: "[RO] Im Passiv ist nicht wichtig, WER etwas tut, sondern WAS getan wird. 'Der Brief wird geschrieben' (Passiv) vs 'Ich schreibe einen Brief' (Aktiv).",
+    t11_b1: "[RO] werden + Partizip II",
+    t11_b2: "[RO] Fokus auf die Handlung, nicht die Person.",
+    t11_inst: "[RO] Sortiere: Aktiv oder Passiv?",
+    t11_h1: "[RO] Wird etwas GETAN oder TUST du es?",
+    t11_h2: "[RO] Passiv: Das Essen wird gekocht. Aktiv: Mama kocht das Essen.",
+    t11_ba: "[RO] Aktiv (wer tut)", t11_bp: "[RO] Passiv (wird getan)",
+    t11_i1: "[RO] Der Film wird gezeigt", t11_i2: "[RO] Ich zeige den Film", t11_i3: "[RO] Die Stadt wird gebaut", t11_i4: "[RO] Der Lehrer erklart das",
+    t11_q: "[RO] Was ist ein Passivsatz?",
+    t11_qa: "[RO] werden + Partizip", t11_qb: "[RO] sein + Partizip", t11_qc: "[RO] haben + Partizip", t11_qd: "[RO] nur mit Verben",
+
+    // T12: Zeitformen-Durcheinander
+    t12_title: "[RO] Alle Zeitformen mischen",
+    t12_text: "[RO] Jetzt wird es knifflig! Findest du alle Zeitformen durcheinander? Präsens, Präteritum, Perfekt, Futur, Konjunktiv - alles gemischt!",
+    t12_b1: "[RO] 6 Zeitformen total.",
+    t12_b2: "[RO] Achte auf die Verb-Struktur!",
+    t12_inst: "[RO] Welche Zeitform ist das?",
+    t12_h1: "[RO] Denke an die Hilfsverben und Strukturen.",
+    t12_h2: "[RO] haben/sein + Partizip = Perfekt. werden + Infinitiv = Futur.",
+    t12_sent: "[RO] Der Hund ___ das ganze Tag gegeben.",
+    t12_c1: "[RO] hat", t12_c2: "[RO] hatte", t12_c3: "[RO] ist", t12_c4: "[RO] wird",
+    t12_q: "[RO] Was ist 'Ich werde spielen'?",
+    t12_qa: "[RO] Futur I", t12_qb: "[RO] Präteritum", t12_qc: "[RO] Konjunktiv", t12_qd: "[RO] Perfekt",
+
+    // T13: Tempus-Wechsel in Sätzen
+    t13_title: "[RO] Wechsel der Zeitformen",
+    t13_text: "[RO] Manchmal wechselt die Zeit im Satz! 'Wenn ich könnte, würde ich fliegen.' Oder: 'Bevor ich kam, war er da.' Der Zeitwechsel hat eine Grund!",
+    t13_b1: "[RO] Zwei Zeitformen in einem Satz.",
+    t13_b2: "[RO] Grund: zeitliche Reihenfolge oder Bedingung.",
+    t13_inst: "[RO] Finde den Zeitwechsel!",
+    t13_h1: "[RO] Was passiert zuerst, was danach?",
+    t13_h2: "[RO] Er ist schon weg, bevor sie kommt.",
+    t13_sent2: "[RO] Wenn ich Geld hätte, ___ ich reisen.",
+    t13_c1: "[RO] würde", t13_c2: "[RO] werde", t13_c3: "[RO] bin", t13_c4: "[RO] habe",
+    t13_q: "[RO] Warum wechseln die Zeitformen in einem Satz?",
+    t13_qa: "[RO] Zu zeigen, was zuerst/später ist", t13_qb: "[RO] Zufällig", t13_qc: "[RO] Um zu verwirren", t13_qd: "[RO] Es ist ein Fehler",
+
+    // T14: Erzählzeit vs. Berichtszeit
+    t14_title: "[RO] Erzählung vs. Bericht",
+    t14_text: "[RO] Im Märchen nutzt man Präteritum (Erzählzeit). Im Bericht nutzt man Präsens oder Perfekt (Berichtszeit). 'Es war einmal...' vs 'Heute ist...'",
+    t14_b1: "[RO] Erzählung: Präteritum",
+    t14_b2: "[RO] Bericht: Präsens / Perfekt",
+    t14_inst: "[RO] Ist das eine Erzählung oder ein Bericht?",
+    t14_h1: "[RO] Märchen = Präteritum. Nachrichten = Präsens.",
+    t14_h2: "[RO] Es war einmal = Erzählung. Der Fußball ist rund = Bericht.",
+    t14_be: "[RO] Erzahlung", t14_bb: "[RO] Bericht",
+    t14_i1: "[RO] Es war einmal ein Prinz.", t14_i2: "[RO] Der Baum hat gruene Blatter.", t14_i3: "[RO] Die Sonne scheint hell.", t14_i4: "[RO] Der Konig rief seinen Sohn.",
+    t14_q: "[RO] Welche Zeit nutzen Märchen?",
+    t14_qa: "[RO] Präteritum", t14_qb: "[RO] Präsens", t14_qc: "[RO] Perfekt", t14_qd: "[RO] Futur",
+
+    // T15: Der Zeit-Champion!
+    t15_title: "[RO] Der Zeit-Champion!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du hast alle Zeitformen gelernt. Du kannst jetzt in jede Zeit reisen und jede Geschichte erzählen!",
+    t15_b1: "[RO] Alle 6 Zeitformen perfekt!",
+    t15_b2: "[RO] Du schaffst jede Zeitaufgabe!",
+    t15_inst: "[RO] Welche Form zeigt die Zukunft?",
+    t15_h1: "[RO] Morgen, nächste Woche, später...",
+    t15_h2: "[RO] Futur I: werden + Infinitiv",
+    t15_sent3: "[RO] Ich ___ dich besuchen, wenn ich Zeit habe.",
+    t15_c1: "[RO] werde", t15_c2: "[RO] bin", t15_c3: "[RO] war", t15_c4: "[RO] habe",
+    t15_q: "[RO] Wie heißt die älteste Vergangenheit?",
+    t15_qa: "[RO] Plusquamperfekt", t15_qb: "[RO] Präteritum", t15_qc: "[RO] Perfekt", t15_qd: "[RO] Präsens",
+  
   }
 };
 
@@ -2425,6 +5086,582 @@ export const VERGANGEN_LABELS: Record<string, Record<string, string>> = {
     t15_c1: "haben", t15_c2: "sind", t15_c3: "waren", t15_c4: "würden",
     t15_q: "Was ist das Thema der Vergangenheit?",
     t15_qa: "Wenn etwas vorbei ist", t15_qb: "Wenn etwas jetzt passiert", t15_qc: "Wenn etwas morgen kommt", t15_qd: "Wenn etwas selten passiert",
+  },
+  en: {
+
+    explorer_title: "[EN] Meister der Vergangenheit",
+
+    // T1: War und Hatte (Präteritum)
+    t1_title: "[EN] War und Hatte",
+    t1_text: "[EN] Die zwei wichtigsten Wörter im Präteritum sind 'war' (von sein) und 'hatte' (von haben). Wir brauchen sie ständig, um zu erzählen, wie es früher war.",
+    t1_b1: "[EN] ich war, du warst, er war.",
+    t1_b2: "[EN] ich hatte, du hattest, er hatte.",
+    t1_inst: "[EN] Welches Wort passt in die Lücke?",
+    t1_h1: "[EN] Früher besaß ich einen Hund.",
+    t1_h2: "[EN] Ich 'hatte' einen Hund.",
+    t1_sent: "[EN] Früher ___ ich einen kleinen Hund.",
+    t1_c1: "[EN] hatte", t1_c2: "[EN] habe", t1_c3: "[EN] war", t1_c4: "[EN] bin",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T2: Starke Präteritum-Formen
+    t2_title: "[EN] Singen ➔ Sang",
+    t2_text: "[EN] Einige Verben verändern im Präteritum ihren Stammvokal. Das klingt oft ganz anders! gehen ➔ ging, singen ➔ sang, laufen ➔ lief.",
+    t2_b1: "[EN] Vokalwechsel im Stamm.",
+    t2_b2: "[EN] Keine Endung bei 'ich' und 'er/sie/es'.",
+    t2_inst: "[EN] Verbinde das Präsens mit dem Präteritum!",
+    t2_h1: "[EN] Was ist die Vergangenheitsform von 'gehen'?",
+    t2_h2: "[EN] gehen -> ging, laufen -> lief.",
+    t2_l1: "[EN] ich gehe", t2_r1: "[EN] ich ging",
+    t2_l2: "[EN] ich laufe", t2_r2: "[EN] ich lief",
+    t2_l3: "[EN] ich singe", t2_r3: "[EN] ich sang",
+    t2_l4: "[EN] ich schwimme", t2_r4: "[EN] ich schwamm",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T3: Perfekt mit 'haben'
+    t3_title: "[EN] Perfekt mit 'haben'",
+    t3_text: "[EN] Die meisten Verben bilden das Perfekt mit 'haben'. Ich habe gelacht, du hast gespielt, wir haben gegessen.",
+    t3_b1: "[EN] haben + Partizip (ge...).",
+    t3_inst: "[EN] Baue den Perfekt-Satz zusammen!",
+    t3_h1: "[EN] Zuerst wer (Ich), dann der Helfer (habe), dann was (Pizza), dann das Ende (gegessen).",
+    t3_h2: "[EN] Ich habe Pizza gegessen.",
+    t3_f1: "[EN] Ich", t3_f2: "[EN] habe", t3_f3: "[EN] Pizza", t3_f4: "[EN] gegessen.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T4: Perfekt mit 'sein'
+    t4_title: "[EN] Perfekt mit 'sein'",
+    t4_text: "[EN] Verben der Bewegung (laufen, fliegen) oder eine Zustandsänderung (aufwachen) nutzen 'sein' als Helfer. 'Ich BIN gelaufen.'",
+    t4_b1: "[EN] Bewegung ➔ sein (bin/bist/ist).",
+    t4_inst: "[EN] Welches Hilfsverb passt hier?",
+    t4_h1: "[EN] Fliegen ist eine Bewegung von A nach B.",
+    t4_h2: "[EN] Wir brauchen 'sind'.",
+    t4_sent_s: "[EN] Wir ___ nach Spanien geflogen.",
+    t4_cs1: "[EN] sind", t4_cs2: "[EN] haben", t4_cs3: "[EN] waren", t4_cs4: "[EN] hatten",
+    // Quiz: GENERATOR (perfekt)
+
+    // T5: Haben oder Sein? (Sortieren)
+    t5_title: "[EN] Haben oder Sein?",
+    t5_text: "[EN] Das ist die große Frage! Kannst du entscheiden, welcher Helfer zu welchem Verb passt?",
+    t5_b1: "[EN] Bewegung/Veränderung ➔ sein.",
+    t5_b2: "[EN] Alles andere ➔ haben.",
+    t5_inst: "[EN] Sortiere die Verben nach ihrem Helfer!",
+    t5_h1: "[EN] Bewegt man sich dabei von einem Ort zum anderen?",
+    t5_h2: "[EN] gelaufen -> sein. geschlafen (keine Bewegung) -> haben.",
+    t5_bh: "[EN] haben 🤝", t5_bs: "[EN] sein 🏃",
+    t5_i1: "[EN] gelacht", t5_i2: "[EN] gerannt", t5_i3: "[EN] geschlafen", t5_i4: "[EN] geflogen",
+    // Quiz: GENERATOR (perfekt)
+
+    // T6: Das Partizip II (ge-Form)
+    t6_title: "[EN] Das Partizip II",
+    t6_text: "[EN] Das zweite Wort im Perfekt fängt fast immer mit 'ge-' an. Aber Achtung, am Ende kann ein '-t' (gespielt) oder ein '-en' (gesehen) stehen.",
+    t6_b1: "[EN] ge + Stamm + t (regelmäßig).",
+    t6_b2: "[EN] ge + Stamm + en (unregelmäßig).",
+    t6_inst: "[EN] Welches Wort ist ein richtiges Partizip?",
+    t6_h1: "[EN] Suche das Wort, das mit 'ge-' anfängt.",
+    t6_h2: "[EN] 'gesungen' ist ein Partizip.",
+    t6_w1: "[EN] singen", t6_w2: "[EN] gesungen", t6_w3: "[EN] sangen", t6_w4: "[EN] singt",
+    // Quiz: MANUAL
+    t6_q: "[EN] Wie bilden wir meistens das Partizip von 'spielen'?",
+    t6_qa: "[EN] ge-spiel-t", t6_qb: "[EN] ge-spiel-en", t6_qc: "[EN] be-spiel-t", t6_qd: "[EN] spiel-te",
+
+    // T7: Vergangenheit-Profi
+    t7_title: "[EN] Vergangenheit-Profi",
+    t7_text: "[EN] Du kannst jetzt Sätze in der Vergangenheit bauen! Ob Märchen (Präteritum) oder Gespräch (Perfekt) - du bist bereit.",
+    t7_b1: "[EN] Präteritum vs. Perfekt.",
+    t7_inst: "[EN] Bringe den Satz in die richtige Reihenfolge!",
+    t7_h1: "[EN] Der Satz steht im Perfekt. 'Ich habe...'",
+    t7_h2: "[EN] Ich habe viel gelernt.",
+    t7_o1: "[EN] Ich", t7_o2: "[EN] habe", t7_o3: "[EN] viel", t7_o4: "[EN] gelernt.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T8: Schwache Präteritum-Formen
+    t8_title: "[EN] Schwache Präteritum-Formen",
+    t8_text: "[EN] Schwache (regelmäßige) Verben sind leicht! Sie bekommen einfach ein '-te' oder '-ete'. spielen -> spielte, arbeiten -> arbeitete.",
+    t8_b1: "[EN] Präteritum mit -te/-ete",
+    t8_b2: "[EN] machen -> machte, öffnen -> öffnete",
+    t8_inst: "[EN] Wähle das richtige Präteritum!",
+    t8_h1: "[EN] Denk an die -te Endung.",
+    t8_h2: "[EN] spielen -> spielte, ich spielte.",
+    t8_sent: "[EN] Das Kind ___ die ganze Zeit.",
+    t8_c1: "[EN] spielte", t8_c2: "[EN] spieltete", t8_c3: "[EN] spielt", t8_c4: "[EN] gespielt",
+    t8_q: "[EN] Was ist das Präteritum von 'arbeiten'?",
+    t8_qa: "[EN] arbeitete", t8_qb: "[EN] arbeitet", t8_qc: "[EN] arbeiti", t8_qd: "[EN] gearbeitet",
+
+    // T9: Starke Verben mit Vokalwechsel
+    t9_title: "[EN] Starke Verben im Präteritum",
+    t9_text: "[EN] Starke (unregelmäßige) Verben sind tricky! Der Vokal wechselt. geben ➔ gab, sprechen ➔ sprach, helfen ➔ half.",
+    t9_b1: "[EN] Vokalwechsel (Ablaut).",
+    t9_b2: "[EN] Keine zusätzliche Endung bei 'ich'.",
+    t9_inst: "[EN] Verbinde Präsens mit Präteritum!",
+    t9_h1: "[EN] Der Vokal ändert sich.",
+    t9_h2: "[EN] helfen -> half, sprechen -> sprach.",
+    t9_l1: "[EN] ich helfe", t9_r1: "[EN] ich half",
+    t9_l2: "[EN] ich spreche", t9_r2: "[EN] ich sprach",
+    t9_l3: "[EN] ich trinke", t9_r3: "[EN] ich trank",
+    t9_l4: "[EN] ich sitze", t9_r4: "[EN] ich saß",
+    t9_q: "[EN] Was ist das Präteritum von 'geben'?",
+    t9_qa: "[EN] gab", t9_qb: "[EN] gebte", t9_qc: "[EN] gebe", t9_qd: "[EN] gegeben",
+
+    // T10: Das Präteritum von 'haben'
+    t10_title: "[EN] 'haben' im Präteritum",
+    t10_text: "[EN] 'Haben' ist wichtig! Im Präteritum: ich/du/wir/sie hattest, du hattest, er/sie/es hatte, wir/ihr/sie hatten.",
+    t10_b1: "[EN] Präteritum: hatte, hattest, hatte.",
+    t10_b2: "[EN] Starkes Verb mit '-tt-' in der Mitte.",
+    t10_inst: "[EN] Wähle die richtige Form!",
+    t10_h1: "[EN] Das Präteritum von haben: hatte",
+    t10_h2: "[EN] Ich hatte einen Bruder.",
+    t10_sent2: "[EN] Sie ___ Angst vor dem Sturm.",
+    t10_c1: "[EN] hatten", t10_c2: "[EN] haben", t10_c3: "[EN] hätten", t10_c4: "[EN] hättest",
+    t10_q: "[EN] Was ist das Präteritum von 'du hast'?",
+    t10_qa: "[EN] du hattest", t10_qb: "[EN] du hast", t10_qc: "[EN] du hätte", t10_qd: "[EN] du habest",
+
+    // T11: Perfekt mit Bewegungsverben
+    t11_title: "[EN] Perfekt mit 'sein' (Bewegung)",
+    t11_text: "[EN] Bewegungsverben brauchen 'sein' im Perfekt. laufen, springen, fahren, fliegen. Das Kind ist gelaufen.",
+    t11_b1: "[EN] Bewegung ➔ 'sein' im Perfekt.",
+    t11_b2: "[EN] Die Veränderung des Ortes ist das Merkmal.",
+    t11_inst: "[EN] Sortiere: haben oder sein im Perfekt?",
+    t11_h1: "[EN] Gibt es eine Ortsbewegung?",
+    t11_h2: "[EN] laufen (Bewegung) -> sein. essen (Bewegung) -> haben.",
+    t11_bh: "[EN] haben", t11_bs: "[EN] sein",
+    t11_i1: "[EN] gelaufen", t11_i2: "[EN] gelacht", t11_i3: "[EN] geflogen", t11_i4: "[EN] gegessen",
+    t11_q: "[EN] Welcher Satz ist korrekt?",
+    t11_qa: "[EN] Ich bin gerannt.", t11_qb: "[EN] Ich habe gerannt.", t11_qc: "[EN] Ich bin gelacht.", t11_qd: "[EN] Ich haben geflogen.",
+
+    // T12: Das Perfekt mit 'haben' und 'sein'
+    t12_title: "[EN] Haben ODER Sein im Perfekt",
+    t12_text: "[EN] Die Regel: 'Sein' für Bewegung und Zustandsänderung. 'Haben' für alles andere. Das ist die wichtigste Regel im Perfekt!",
+    t12_b1: "[EN] Bewegung/Veränderung ➔ sein.",
+    t12_b2: "[EN] Alles andere ➔ haben.",
+    t12_inst: "[EN] Wähle das richtige Hilfsverb!",
+    t12_h1: "[EN] Bewegung = sein. Action ohne Bewegung = haben.",
+    t12_h2: "[EN] Ich bin zu Hause gelaufen. Ich habe ein Buch gelesen.",
+    t12_sent3: "[EN] Der Junge ___ in die Schule gelaufen.",
+    t12_c1: "[EN] ist", t12_c2: "[EN] hat", t12_c3: "[EN] war", t12_c4: "[EN] würde",
+    t12_q: "[EN] Welcher Satz ist richtig?",
+    t12_qa: "[EN] Sie sind gegangen.", t12_qb: "[EN] Sie haben gegangen.", t12_qc: "[EN] Sie haben gehen.", t12_qd: "[EN] Sie sind gehen.",
+
+    // T13: Partizipien schwacher und starker Verben
+    t13_title: "[EN] Partizip II: schwach vs. stark",
+    t13_text: "[EN] Schwache Verben: ge- + Stamm + -t (gemacht). Starke Verben: ge- + Stamm + -en (gegeben). Der Unterschied ist wichtig!",
+    t13_b1: "[EN] Schwach: ge...t (spielen -> gespielt).",
+    t13_b2: "[EN] Stark: ge...en (schreiben -> geschrieben).",
+    t13_inst: "[EN] Sortiere die Partizipien!",
+    t13_h1: "[EN] Endet es auf -t oder -en?",
+    t13_h2: "[EN] gemacht (schwach -t), gesprochen (stark -en).",
+    t13_bsw: "[EN] Schwache -t", t13_bst: "[EN] Starke -en",
+    t13_i1: "[EN] gemacht", t13_i2: "[EN] geschrieben", t13_i3: "[EN] gespielt", t13_i4: "[EN] gesungen",
+    t13_q: "[EN] Welches ist das Partizip von 'nehmen'?",
+    t13_qa: "[EN] genommen", t13_qb: "[EN] genommt", t13_qc: "[EN] nahm", t13_qd: "[EN] nehmte",
+
+    // T14: Komplexe Perfekt-Sätze bauen
+    t14_title: "[EN] Perfekt-Sätze bauen",
+    t14_text: "[EN] Im Perfekt steht das Partizip ganz am Ende des Satzes! 'Ich habe heute einen guten Film gesehen.' Das ist wichtig für die Wort-Ordnung!",
+    t14_b1: "[EN] Hilfsverb (Platz 2) + Partizip am Ende.",
+    t14_b2: "[EN] Das Partizip steht immer zuletzt!",
+    t14_inst: "[EN] Baue den Perfekt-Satz richtig zusammen!",
+    t14_h1: "[EN] Wer -> Hilfsverb -> Rest -> Partizip",
+    t14_h2: "[EN] Ich habe eine Pizza gegessen.",
+    t14_f1: "[EN] Ich", t14_f2: "[EN] habe", t14_f3: "[EN] ein Lied", t14_f4: "[EN] gesungen.",
+    t14_q: "[EN] Was passiert mit dem Partizip im Perfekt-Satz?",
+    t14_qa: "[EN] Es steht am Satzende.", t14_qb: "[EN] Es steht immer auf Platz 2.", t14_qc: "[EN] Es steht nach dem Hilfsverb.", t14_qd: "[EN] Es steht am Satzanfang.",
+
+    // T15: Vergangenheit-Meister-Finale
+    t15_title: "[EN] Du bist ein Vergangenheits-Meister!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du kennst jetzt Präteritum, Perfekt und alle Regeln dazu. Du kannst über deine Vergangenheit erzählen!",
+    t15_b1: "[EN] Alle Vergangenheits-Regeln gelernt.",
+    t15_b2: "[EN] Du schaffst jede Vergangenheitsform!",
+    t15_inst: "[EN] Welches Hilfsverb passt? 'Sie ___ schnell gelaufen.'",
+    t15_h1: "[EN] Laufen ist eine Bewegung.",
+    t15_h2: "[EN] Bewegung = sein. Also: Sie sind schnell gelaufen.",
+    t15_sent4: "[EN] Wir ___ zu Hause gegessen.",
+    t15_c1: "[EN] haben", t15_c2: "[EN] sind", t15_c3: "[EN] waren", t15_c4: "[EN] würden",
+    t15_q: "[EN] Was ist das Thema der Vergangenheit?",
+    t15_qa: "[EN] Wenn etwas vorbei ist", t15_qb: "[EN] Wenn etwas jetzt passiert", t15_qc: "[EN] Wenn etwas morgen kommt", t15_qd: "[EN] Wenn etwas selten passiert",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Meister der Vergangenheit",
+
+    // T1: War und Hatte (Präteritum)
+    t1_title: "[HU] War und Hatte",
+    t1_text: "[HU] Die zwei wichtigsten Wörter im Präteritum sind 'war' (von sein) und 'hatte' (von haben). Wir brauchen sie ständig, um zu erzählen, wie es früher war.",
+    t1_b1: "[HU] ich war, du warst, er war.",
+    t1_b2: "[HU] ich hatte, du hattest, er hatte.",
+    t1_inst: "[HU] Welches Wort passt in die Lücke?",
+    t1_h1: "[HU] Früher besaß ich einen Hund.",
+    t1_h2: "[HU] Ich 'hatte' einen Hund.",
+    t1_sent: "[HU] Früher ___ ich einen kleinen Hund.",
+    t1_c1: "[HU] hatte", t1_c2: "[HU] habe", t1_c3: "[HU] war", t1_c4: "[HU] bin",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T2: Starke Präteritum-Formen
+    t2_title: "[HU] Singen ➔ Sang",
+    t2_text: "[HU] Einige Verben verändern im Präteritum ihren Stammvokal. Das klingt oft ganz anders! gehen ➔ ging, singen ➔ sang, laufen ➔ lief.",
+    t2_b1: "[HU] Vokalwechsel im Stamm.",
+    t2_b2: "[HU] Keine Endung bei 'ich' und 'er/sie/es'.",
+    t2_inst: "[HU] Verbinde das Präsens mit dem Präteritum!",
+    t2_h1: "[HU] Was ist die Vergangenheitsform von 'gehen'?",
+    t2_h2: "[HU] gehen -> ging, laufen -> lief.",
+    t2_l1: "[HU] ich gehe", t2_r1: "[HU] ich ging",
+    t2_l2: "[HU] ich laufe", t2_r2: "[HU] ich lief",
+    t2_l3: "[HU] ich singe", t2_r3: "[HU] ich sang",
+    t2_l4: "[HU] ich schwimme", t2_r4: "[HU] ich schwamm",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T3: Perfekt mit 'haben'
+    t3_title: "[HU] Perfekt mit 'haben'",
+    t3_text: "[HU] Die meisten Verben bilden das Perfekt mit 'haben'. Ich habe gelacht, du hast gespielt, wir haben gegessen.",
+    t3_b1: "[HU] haben + Partizip (ge...).",
+    t3_inst: "[HU] Baue den Perfekt-Satz zusammen!",
+    t3_h1: "[HU] Zuerst wer (Ich), dann der Helfer (habe), dann was (Pizza), dann das Ende (gegessen).",
+    t3_h2: "[HU] Ich habe Pizza gegessen.",
+    t3_f1: "[HU] Ich", t3_f2: "[HU] habe", t3_f3: "[HU] Pizza", t3_f4: "[HU] gegessen.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T4: Perfekt mit 'sein'
+    t4_title: "[HU] Perfekt mit 'sein'",
+    t4_text: "[HU] Verben der Bewegung (laufen, fliegen) oder eine Zustandsänderung (aufwachen) nutzen 'sein' als Helfer. 'Ich BIN gelaufen.'",
+    t4_b1: "[HU] Bewegung ➔ sein (bin/bist/ist).",
+    t4_inst: "[HU] Welches Hilfsverb passt hier?",
+    t4_h1: "[HU] Fliegen ist eine Bewegung von A nach B.",
+    t4_h2: "[HU] Wir brauchen 'sind'.",
+    t4_sent_s: "[HU] Wir ___ nach Spanien geflogen.",
+    t4_cs1: "[HU] sind", t4_cs2: "[HU] haben", t4_cs3: "[HU] waren", t4_cs4: "[HU] hatten",
+    // Quiz: GENERATOR (perfekt)
+
+    // T5: Haben oder Sein? (Sortieren)
+    t5_title: "[HU] Haben oder Sein?",
+    t5_text: "[HU] Das ist die große Frage! Kannst du entscheiden, welcher Helfer zu welchem Verb passt?",
+    t5_b1: "[HU] Bewegung/Veränderung ➔ sein.",
+    t5_b2: "[HU] Alles andere ➔ haben.",
+    t5_inst: "[HU] Sortiere die Verben nach ihrem Helfer!",
+    t5_h1: "[HU] Bewegt man sich dabei von einem Ort zum anderen?",
+    t5_h2: "[HU] gelaufen -> sein. geschlafen (keine Bewegung) -> haben.",
+    t5_bh: "[HU] haben 🤝", t5_bs: "[HU] sein 🏃",
+    t5_i1: "[HU] gelacht", t5_i2: "[HU] gerannt", t5_i3: "[HU] geschlafen", t5_i4: "[HU] geflogen",
+    // Quiz: GENERATOR (perfekt)
+
+    // T6: Das Partizip II (ge-Form)
+    t6_title: "[HU] Das Partizip II",
+    t6_text: "[HU] Das zweite Wort im Perfekt fängt fast immer mit 'ge-' an. Aber Achtung, am Ende kann ein '-t' (gespielt) oder ein '-en' (gesehen) stehen.",
+    t6_b1: "[HU] ge + Stamm + t (regelmäßig).",
+    t6_b2: "[HU] ge + Stamm + en (unregelmäßig).",
+    t6_inst: "[HU] Welches Wort ist ein richtiges Partizip?",
+    t6_h1: "[HU] Suche das Wort, das mit 'ge-' anfängt.",
+    t6_h2: "[HU] 'gesungen' ist ein Partizip.",
+    t6_w1: "[HU] singen", t6_w2: "[HU] gesungen", t6_w3: "[HU] sangen", t6_w4: "[HU] singt",
+    // Quiz: MANUAL
+    t6_q: "[HU] Wie bilden wir meistens das Partizip von 'spielen'?",
+    t6_qa: "[HU] ge-spiel-t", t6_qb: "[HU] ge-spiel-en", t6_qc: "[HU] be-spiel-t", t6_qd: "[HU] spiel-te",
+
+    // T7: Vergangenheit-Profi
+    t7_title: "[HU] Vergangenheit-Profi",
+    t7_text: "[HU] Du kannst jetzt Sätze in der Vergangenheit bauen! Ob Märchen (Präteritum) oder Gespräch (Perfekt) - du bist bereit.",
+    t7_b1: "[HU] Präteritum vs. Perfekt.",
+    t7_inst: "[HU] Bringe den Satz in die richtige Reihenfolge!",
+    t7_h1: "[HU] Der Satz steht im Perfekt. 'Ich habe...'",
+    t7_h2: "[HU] Ich habe viel gelernt.",
+    t7_o1: "[HU] Ich", t7_o2: "[HU] habe", t7_o3: "[HU] viel", t7_o4: "[HU] gelernt.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T8: Schwache Präteritum-Formen
+    t8_title: "[HU] Schwache Präteritum-Formen",
+    t8_text: "[HU] Schwache (regelmäßige) Verben sind leicht! Sie bekommen einfach ein '-te' oder '-ete'. spielen -> spielte, arbeiten -> arbeitete.",
+    t8_b1: "[HU] Präteritum mit -te/-ete",
+    t8_b2: "[HU] machen -> machte, öffnen -> öffnete",
+    t8_inst: "[HU] Wähle das richtige Präteritum!",
+    t8_h1: "[HU] Denk an die -te Endung.",
+    t8_h2: "[HU] spielen -> spielte, ich spielte.",
+    t8_sent: "[HU] Das Kind ___ die ganze Zeit.",
+    t8_c1: "[HU] spielte", t8_c2: "[HU] spieltete", t8_c3: "[HU] spielt", t8_c4: "[HU] gespielt",
+    t8_q: "[HU] Was ist das Präteritum von 'arbeiten'?",
+    t8_qa: "[HU] arbeitete", t8_qb: "[HU] arbeitet", t8_qc: "[HU] arbeiti", t8_qd: "[HU] gearbeitet",
+
+    // T9: Starke Verben mit Vokalwechsel
+    t9_title: "[HU] Starke Verben im Präteritum",
+    t9_text: "[HU] Starke (unregelmäßige) Verben sind tricky! Der Vokal wechselt. geben ➔ gab, sprechen ➔ sprach, helfen ➔ half.",
+    t9_b1: "[HU] Vokalwechsel (Ablaut).",
+    t9_b2: "[HU] Keine zusätzliche Endung bei 'ich'.",
+    t9_inst: "[HU] Verbinde Präsens mit Präteritum!",
+    t9_h1: "[HU] Der Vokal ändert sich.",
+    t9_h2: "[HU] helfen -> half, sprechen -> sprach.",
+    t9_l1: "[HU] ich helfe", t9_r1: "[HU] ich half",
+    t9_l2: "[HU] ich spreche", t9_r2: "[HU] ich sprach",
+    t9_l3: "[HU] ich trinke", t9_r3: "[HU] ich trank",
+    t9_l4: "[HU] ich sitze", t9_r4: "[HU] ich saß",
+    t9_q: "[HU] Was ist das Präteritum von 'geben'?",
+    t9_qa: "[HU] gab", t9_qb: "[HU] gebte", t9_qc: "[HU] gebe", t9_qd: "[HU] gegeben",
+
+    // T10: Das Präteritum von 'haben'
+    t10_title: "[HU] 'haben' im Präteritum",
+    t10_text: "[HU] 'Haben' ist wichtig! Im Präteritum: ich/du/wir/sie hattest, du hattest, er/sie/es hatte, wir/ihr/sie hatten.",
+    t10_b1: "[HU] Präteritum: hatte, hattest, hatte.",
+    t10_b2: "[HU] Starkes Verb mit '-tt-' in der Mitte.",
+    t10_inst: "[HU] Wähle die richtige Form!",
+    t10_h1: "[HU] Das Präteritum von haben: hatte",
+    t10_h2: "[HU] Ich hatte einen Bruder.",
+    t10_sent2: "[HU] Sie ___ Angst vor dem Sturm.",
+    t10_c1: "[HU] hatten", t10_c2: "[HU] haben", t10_c3: "[HU] hätten", t10_c4: "[HU] hättest",
+    t10_q: "[HU] Was ist das Präteritum von 'du hast'?",
+    t10_qa: "[HU] du hattest", t10_qb: "[HU] du hast", t10_qc: "[HU] du hätte", t10_qd: "[HU] du habest",
+
+    // T11: Perfekt mit Bewegungsverben
+    t11_title: "[HU] Perfekt mit 'sein' (Bewegung)",
+    t11_text: "[HU] Bewegungsverben brauchen 'sein' im Perfekt. laufen, springen, fahren, fliegen. Das Kind ist gelaufen.",
+    t11_b1: "[HU] Bewegung ➔ 'sein' im Perfekt.",
+    t11_b2: "[HU] Die Veränderung des Ortes ist das Merkmal.",
+    t11_inst: "[HU] Sortiere: haben oder sein im Perfekt?",
+    t11_h1: "[HU] Gibt es eine Ortsbewegung?",
+    t11_h2: "[HU] laufen (Bewegung) -> sein. essen (Bewegung) -> haben.",
+    t11_bh: "[HU] haben", t11_bs: "[HU] sein",
+    t11_i1: "[HU] gelaufen", t11_i2: "[HU] gelacht", t11_i3: "[HU] geflogen", t11_i4: "[HU] gegessen",
+    t11_q: "[HU] Welcher Satz ist korrekt?",
+    t11_qa: "[HU] Ich bin gerannt.", t11_qb: "[HU] Ich habe gerannt.", t11_qc: "[HU] Ich bin gelacht.", t11_qd: "[HU] Ich haben geflogen.",
+
+    // T12: Das Perfekt mit 'haben' und 'sein'
+    t12_title: "[HU] Haben ODER Sein im Perfekt",
+    t12_text: "[HU] Die Regel: 'Sein' für Bewegung und Zustandsänderung. 'Haben' für alles andere. Das ist die wichtigste Regel im Perfekt!",
+    t12_b1: "[HU] Bewegung/Veränderung ➔ sein.",
+    t12_b2: "[HU] Alles andere ➔ haben.",
+    t12_inst: "[HU] Wähle das richtige Hilfsverb!",
+    t12_h1: "[HU] Bewegung = sein. Action ohne Bewegung = haben.",
+    t12_h2: "[HU] Ich bin zu Hause gelaufen. Ich habe ein Buch gelesen.",
+    t12_sent3: "[HU] Der Junge ___ in die Schule gelaufen.",
+    t12_c1: "[HU] ist", t12_c2: "[HU] hat", t12_c3: "[HU] war", t12_c4: "[HU] würde",
+    t12_q: "[HU] Welcher Satz ist richtig?",
+    t12_qa: "[HU] Sie sind gegangen.", t12_qb: "[HU] Sie haben gegangen.", t12_qc: "[HU] Sie haben gehen.", t12_qd: "[HU] Sie sind gehen.",
+
+    // T13: Partizipien schwacher und starker Verben
+    t13_title: "[HU] Partizip II: schwach vs. stark",
+    t13_text: "[HU] Schwache Verben: ge- + Stamm + -t (gemacht). Starke Verben: ge- + Stamm + -en (gegeben). Der Unterschied ist wichtig!",
+    t13_b1: "[HU] Schwach: ge...t (spielen -> gespielt).",
+    t13_b2: "[HU] Stark: ge...en (schreiben -> geschrieben).",
+    t13_inst: "[HU] Sortiere die Partizipien!",
+    t13_h1: "[HU] Endet es auf -t oder -en?",
+    t13_h2: "[HU] gemacht (schwach -t), gesprochen (stark -en).",
+    t13_bsw: "[HU] Schwache -t", t13_bst: "[HU] Starke -en",
+    t13_i1: "[HU] gemacht", t13_i2: "[HU] geschrieben", t13_i3: "[HU] gespielt", t13_i4: "[HU] gesungen",
+    t13_q: "[HU] Welches ist das Partizip von 'nehmen'?",
+    t13_qa: "[HU] genommen", t13_qb: "[HU] genommt", t13_qc: "[HU] nahm", t13_qd: "[HU] nehmte",
+
+    // T14: Komplexe Perfekt-Sätze bauen
+    t14_title: "[HU] Perfekt-Sätze bauen",
+    t14_text: "[HU] Im Perfekt steht das Partizip ganz am Ende des Satzes! 'Ich habe heute einen guten Film gesehen.' Das ist wichtig für die Wort-Ordnung!",
+    t14_b1: "[HU] Hilfsverb (Platz 2) + Partizip am Ende.",
+    t14_b2: "[HU] Das Partizip steht immer zuletzt!",
+    t14_inst: "[HU] Baue den Perfekt-Satz richtig zusammen!",
+    t14_h1: "[HU] Wer -> Hilfsverb -> Rest -> Partizip",
+    t14_h2: "[HU] Ich habe eine Pizza gegessen.",
+    t14_f1: "[HU] Ich", t14_f2: "[HU] habe", t14_f3: "[HU] ein Lied", t14_f4: "[HU] gesungen.",
+    t14_q: "[HU] Was passiert mit dem Partizip im Perfekt-Satz?",
+    t14_qa: "[HU] Es steht am Satzende.", t14_qb: "[HU] Es steht immer auf Platz 2.", t14_qc: "[HU] Es steht nach dem Hilfsverb.", t14_qd: "[HU] Es steht am Satzanfang.",
+
+    // T15: Vergangenheit-Meister-Finale
+    t15_title: "[HU] Du bist ein Vergangenheits-Meister!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du kennst jetzt Präteritum, Perfekt und alle Regeln dazu. Du kannst über deine Vergangenheit erzählen!",
+    t15_b1: "[HU] Alle Vergangenheits-Regeln gelernt.",
+    t15_b2: "[HU] Du schaffst jede Vergangenheitsform!",
+    t15_inst: "[HU] Welches Hilfsverb passt? 'Sie ___ schnell gelaufen.'",
+    t15_h1: "[HU] Laufen ist eine Bewegung.",
+    t15_h2: "[HU] Bewegung = sein. Also: Sie sind schnell gelaufen.",
+    t15_sent4: "[HU] Wir ___ zu Hause gegessen.",
+    t15_c1: "[HU] haben", t15_c2: "[HU] sind", t15_c3: "[HU] waren", t15_c4: "[HU] würden",
+    t15_q: "[HU] Was ist das Thema der Vergangenheit?",
+    t15_qa: "[HU] Wenn etwas vorbei ist", t15_qb: "[HU] Wenn etwas jetzt passiert", t15_qc: "[HU] Wenn etwas morgen kommt", t15_qd: "[HU] Wenn etwas selten passiert",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Meister der Vergangenheit",
+
+    // T1: War und Hatte (Präteritum)
+    t1_title: "[RO] War und Hatte",
+    t1_text: "[RO] Die zwei wichtigsten Wörter im Präteritum sind 'war' (von sein) und 'hatte' (von haben). Wir brauchen sie ständig, um zu erzählen, wie es früher war.",
+    t1_b1: "[RO] ich war, du warst, er war.",
+    t1_b2: "[RO] ich hatte, du hattest, er hatte.",
+    t1_inst: "[RO] Welches Wort passt in die Lücke?",
+    t1_h1: "[RO] Früher besaß ich einen Hund.",
+    t1_h2: "[RO] Ich 'hatte' einen Hund.",
+    t1_sent: "[RO] Früher ___ ich einen kleinen Hund.",
+    t1_c1: "[RO] hatte", t1_c2: "[RO] habe", t1_c3: "[RO] war", t1_c4: "[RO] bin",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T2: Starke Präteritum-Formen
+    t2_title: "[RO] Singen ➔ Sang",
+    t2_text: "[RO] Einige Verben verändern im Präteritum ihren Stammvokal. Das klingt oft ganz anders! gehen ➔ ging, singen ➔ sang, laufen ➔ lief.",
+    t2_b1: "[RO] Vokalwechsel im Stamm.",
+    t2_b2: "[RO] Keine Endung bei 'ich' und 'er/sie/es'.",
+    t2_inst: "[RO] Verbinde das Präsens mit dem Präteritum!",
+    t2_h1: "[RO] Was ist die Vergangenheitsform von 'gehen'?",
+    t2_h2: "[RO] gehen -> ging, laufen -> lief.",
+    t2_l1: "[RO] ich gehe", t2_r1: "[RO] ich ging",
+    t2_l2: "[RO] ich laufe", t2_r2: "[RO] ich lief",
+    t2_l3: "[RO] ich singe", t2_r3: "[RO] ich sang",
+    t2_l4: "[RO] ich schwimme", t2_r4: "[RO] ich schwamm",
+    // Quiz: GENERATOR (praeteritum)
+
+    // T3: Perfekt mit 'haben'
+    t3_title: "[RO] Perfekt mit 'haben'",
+    t3_text: "[RO] Die meisten Verben bilden das Perfekt mit 'haben'. Ich habe gelacht, du hast gespielt, wir haben gegessen.",
+    t3_b1: "[RO] haben + Partizip (ge...).",
+    t3_inst: "[RO] Baue den Perfekt-Satz zusammen!",
+    t3_h1: "[RO] Zuerst wer (Ich), dann der Helfer (habe), dann was (Pizza), dann das Ende (gegessen).",
+    t3_h2: "[RO] Ich habe Pizza gegessen.",
+    t3_f1: "[RO] Ich", t3_f2: "[RO] habe", t3_f3: "[RO] Pizza", t3_f4: "[RO] gegessen.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T4: Perfekt mit 'sein'
+    t4_title: "[RO] Perfekt mit 'sein'",
+    t4_text: "[RO] Verben der Bewegung (laufen, fliegen) oder eine Zustandsänderung (aufwachen) nutzen 'sein' als Helfer. 'Ich BIN gelaufen.'",
+    t4_b1: "[RO] Bewegung ➔ sein (bin/bist/ist).",
+    t4_inst: "[RO] Welches Hilfsverb passt hier?",
+    t4_h1: "[RO] Fliegen ist eine Bewegung von A nach B.",
+    t4_h2: "[RO] Wir brauchen 'sind'.",
+    t4_sent_s: "[RO] Wir ___ nach Spanien geflogen.",
+    t4_cs1: "[RO] sind", t4_cs2: "[RO] haben", t4_cs3: "[RO] waren", t4_cs4: "[RO] hatten",
+    // Quiz: GENERATOR (perfekt)
+
+    // T5: Haben oder Sein? (Sortieren)
+    t5_title: "[RO] Haben oder Sein?",
+    t5_text: "[RO] Das ist die große Frage! Kannst du entscheiden, welcher Helfer zu welchem Verb passt?",
+    t5_b1: "[RO] Bewegung/Veränderung ➔ sein.",
+    t5_b2: "[RO] Alles andere ➔ haben.",
+    t5_inst: "[RO] Sortiere die Verben nach ihrem Helfer!",
+    t5_h1: "[RO] Bewegt man sich dabei von einem Ort zum anderen?",
+    t5_h2: "[RO] gelaufen -> sein. geschlafen (keine Bewegung) -> haben.",
+    t5_bh: "[RO] haben 🤝", t5_bs: "[RO] sein 🏃",
+    t5_i1: "[RO] gelacht", t5_i2: "[RO] gerannt", t5_i3: "[RO] geschlafen", t5_i4: "[RO] geflogen",
+    // Quiz: GENERATOR (perfekt)
+
+    // T6: Das Partizip II (ge-Form)
+    t6_title: "[RO] Das Partizip II",
+    t6_text: "[RO] Das zweite Wort im Perfekt fängt fast immer mit 'ge-' an. Aber Achtung, am Ende kann ein '-t' (gespielt) oder ein '-en' (gesehen) stehen.",
+    t6_b1: "[RO] ge + Stamm + t (regelmäßig).",
+    t6_b2: "[RO] ge + Stamm + en (unregelmäßig).",
+    t6_inst: "[RO] Welches Wort ist ein richtiges Partizip?",
+    t6_h1: "[RO] Suche das Wort, das mit 'ge-' anfängt.",
+    t6_h2: "[RO] 'gesungen' ist ein Partizip.",
+    t6_w1: "[RO] singen", t6_w2: "[RO] gesungen", t6_w3: "[RO] sangen", t6_w4: "[RO] singt",
+    // Quiz: MANUAL
+    t6_q: "[RO] Wie bilden wir meistens das Partizip von 'spielen'?",
+    t6_qa: "[RO] ge-spiel-t", t6_qb: "[RO] ge-spiel-en", t6_qc: "[RO] be-spiel-t", t6_qd: "[RO] spiel-te",
+
+    // T7: Vergangenheit-Profi
+    t7_title: "[RO] Vergangenheit-Profi",
+    t7_text: "[RO] Du kannst jetzt Sätze in der Vergangenheit bauen! Ob Märchen (Präteritum) oder Gespräch (Perfekt) - du bist bereit.",
+    t7_b1: "[RO] Präteritum vs. Perfekt.",
+    t7_inst: "[RO] Bringe den Satz in die richtige Reihenfolge!",
+    t7_h1: "[RO] Der Satz steht im Perfekt. 'Ich habe...'",
+    t7_h2: "[RO] Ich habe viel gelernt.",
+    t7_o1: "[RO] Ich", t7_o2: "[RO] habe", t7_o3: "[RO] viel", t7_o4: "[RO] gelernt.",
+    // Quiz: GENERATOR (perfekt)
+
+    // T8: Schwache Präteritum-Formen
+    t8_title: "[RO] Schwache Präteritum-Formen",
+    t8_text: "[RO] Schwache (regelmäßige) Verben sind leicht! Sie bekommen einfach ein '-te' oder '-ete'. spielen -> spielte, arbeiten -> arbeitete.",
+    t8_b1: "[RO] Präteritum mit -te/-ete",
+    t8_b2: "[RO] machen -> machte, öffnen -> öffnete",
+    t8_inst: "[RO] Wähle das richtige Präteritum!",
+    t8_h1: "[RO] Denk an die -te Endung.",
+    t8_h2: "[RO] spielen -> spielte, ich spielte.",
+    t8_sent: "[RO] Das Kind ___ die ganze Zeit.",
+    t8_c1: "[RO] spielte", t8_c2: "[RO] spieltete", t8_c3: "[RO] spielt", t8_c4: "[RO] gespielt",
+    t8_q: "[RO] Was ist das Präteritum von 'arbeiten'?",
+    t8_qa: "[RO] arbeitete", t8_qb: "[RO] arbeitet", t8_qc: "[RO] arbeiti", t8_qd: "[RO] gearbeitet",
+
+    // T9: Starke Verben mit Vokalwechsel
+    t9_title: "[RO] Starke Verben im Präteritum",
+    t9_text: "[RO] Starke (unregelmäßige) Verben sind tricky! Der Vokal wechselt. geben ➔ gab, sprechen ➔ sprach, helfen ➔ half.",
+    t9_b1: "[RO] Vokalwechsel (Ablaut).",
+    t9_b2: "[RO] Keine zusätzliche Endung bei 'ich'.",
+    t9_inst: "[RO] Verbinde Präsens mit Präteritum!",
+    t9_h1: "[RO] Der Vokal ändert sich.",
+    t9_h2: "[RO] helfen -> half, sprechen -> sprach.",
+    t9_l1: "[RO] ich helfe", t9_r1: "[RO] ich half",
+    t9_l2: "[RO] ich spreche", t9_r2: "[RO] ich sprach",
+    t9_l3: "[RO] ich trinke", t9_r3: "[RO] ich trank",
+    t9_l4: "[RO] ich sitze", t9_r4: "[RO] ich saß",
+    t9_q: "[RO] Was ist das Präteritum von 'geben'?",
+    t9_qa: "[RO] gab", t9_qb: "[RO] gebte", t9_qc: "[RO] gebe", t9_qd: "[RO] gegeben",
+
+    // T10: Das Präteritum von 'haben'
+    t10_title: "[RO] 'haben' im Präteritum",
+    t10_text: "[RO] 'Haben' ist wichtig! Im Präteritum: ich/du/wir/sie hattest, du hattest, er/sie/es hatte, wir/ihr/sie hatten.",
+    t10_b1: "[RO] Präteritum: hatte, hattest, hatte.",
+    t10_b2: "[RO] Starkes Verb mit '-tt-' in der Mitte.",
+    t10_inst: "[RO] Wähle die richtige Form!",
+    t10_h1: "[RO] Das Präteritum von haben: hatte",
+    t10_h2: "[RO] Ich hatte einen Bruder.",
+    t10_sent2: "[RO] Sie ___ Angst vor dem Sturm.",
+    t10_c1: "[RO] hatten", t10_c2: "[RO] haben", t10_c3: "[RO] hätten", t10_c4: "[RO] hättest",
+    t10_q: "[RO] Was ist das Präteritum von 'du hast'?",
+    t10_qa: "[RO] du hattest", t10_qb: "[RO] du hast", t10_qc: "[RO] du hätte", t10_qd: "[RO] du habest",
+
+    // T11: Perfekt mit Bewegungsverben
+    t11_title: "[RO] Perfekt mit 'sein' (Bewegung)",
+    t11_text: "[RO] Bewegungsverben brauchen 'sein' im Perfekt. laufen, springen, fahren, fliegen. Das Kind ist gelaufen.",
+    t11_b1: "[RO] Bewegung ➔ 'sein' im Perfekt.",
+    t11_b2: "[RO] Die Veränderung des Ortes ist das Merkmal.",
+    t11_inst: "[RO] Sortiere: haben oder sein im Perfekt?",
+    t11_h1: "[RO] Gibt es eine Ortsbewegung?",
+    t11_h2: "[RO] laufen (Bewegung) -> sein. essen (Bewegung) -> haben.",
+    t11_bh: "[RO] haben", t11_bs: "[RO] sein",
+    t11_i1: "[RO] gelaufen", t11_i2: "[RO] gelacht", t11_i3: "[RO] geflogen", t11_i4: "[RO] gegessen",
+    t11_q: "[RO] Welcher Satz ist korrekt?",
+    t11_qa: "[RO] Ich bin gerannt.", t11_qb: "[RO] Ich habe gerannt.", t11_qc: "[RO] Ich bin gelacht.", t11_qd: "[RO] Ich haben geflogen.",
+
+    // T12: Das Perfekt mit 'haben' und 'sein'
+    t12_title: "[RO] Haben ODER Sein im Perfekt",
+    t12_text: "[RO] Die Regel: 'Sein' für Bewegung und Zustandsänderung. 'Haben' für alles andere. Das ist die wichtigste Regel im Perfekt!",
+    t12_b1: "[RO] Bewegung/Veränderung ➔ sein.",
+    t12_b2: "[RO] Alles andere ➔ haben.",
+    t12_inst: "[RO] Wähle das richtige Hilfsverb!",
+    t12_h1: "[RO] Bewegung = sein. Action ohne Bewegung = haben.",
+    t12_h2: "[RO] Ich bin zu Hause gelaufen. Ich habe ein Buch gelesen.",
+    t12_sent3: "[RO] Der Junge ___ in die Schule gelaufen.",
+    t12_c1: "[RO] ist", t12_c2: "[RO] hat", t12_c3: "[RO] war", t12_c4: "[RO] würde",
+    t12_q: "[RO] Welcher Satz ist richtig?",
+    t12_qa: "[RO] Sie sind gegangen.", t12_qb: "[RO] Sie haben gegangen.", t12_qc: "[RO] Sie haben gehen.", t12_qd: "[RO] Sie sind gehen.",
+
+    // T13: Partizipien schwacher und starker Verben
+    t13_title: "[RO] Partizip II: schwach vs. stark",
+    t13_text: "[RO] Schwache Verben: ge- + Stamm + -t (gemacht). Starke Verben: ge- + Stamm + -en (gegeben). Der Unterschied ist wichtig!",
+    t13_b1: "[RO] Schwach: ge...t (spielen -> gespielt).",
+    t13_b2: "[RO] Stark: ge...en (schreiben -> geschrieben).",
+    t13_inst: "[RO] Sortiere die Partizipien!",
+    t13_h1: "[RO] Endet es auf -t oder -en?",
+    t13_h2: "[RO] gemacht (schwach -t), gesprochen (stark -en).",
+    t13_bsw: "[RO] Schwache -t", t13_bst: "[RO] Starke -en",
+    t13_i1: "[RO] gemacht", t13_i2: "[RO] geschrieben", t13_i3: "[RO] gespielt", t13_i4: "[RO] gesungen",
+    t13_q: "[RO] Welches ist das Partizip von 'nehmen'?",
+    t13_qa: "[RO] genommen", t13_qb: "[RO] genommt", t13_qc: "[RO] nahm", t13_qd: "[RO] nehmte",
+
+    // T14: Komplexe Perfekt-Sätze bauen
+    t14_title: "[RO] Perfekt-Sätze bauen",
+    t14_text: "[RO] Im Perfekt steht das Partizip ganz am Ende des Satzes! 'Ich habe heute einen guten Film gesehen.' Das ist wichtig für die Wort-Ordnung!",
+    t14_b1: "[RO] Hilfsverb (Platz 2) + Partizip am Ende.",
+    t14_b2: "[RO] Das Partizip steht immer zuletzt!",
+    t14_inst: "[RO] Baue den Perfekt-Satz richtig zusammen!",
+    t14_h1: "[RO] Wer -> Hilfsverb -> Rest -> Partizip",
+    t14_h2: "[RO] Ich habe eine Pizza gegessen.",
+    t14_f1: "[RO] Ich", t14_f2: "[RO] habe", t14_f3: "[RO] ein Lied", t14_f4: "[RO] gesungen.",
+    t14_q: "[RO] Was passiert mit dem Partizip im Perfekt-Satz?",
+    t14_qa: "[RO] Es steht am Satzende.", t14_qb: "[RO] Es steht immer auf Platz 2.", t14_qc: "[RO] Es steht nach dem Hilfsverb.", t14_qd: "[RO] Es steht am Satzanfang.",
+
+    // T15: Vergangenheit-Meister-Finale
+    t15_title: "[RO] Du bist ein Vergangenheits-Meister!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du kennst jetzt Präteritum, Perfekt und alle Regeln dazu. Du kannst über deine Vergangenheit erzählen!",
+    t15_b1: "[RO] Alle Vergangenheits-Regeln gelernt.",
+    t15_b2: "[RO] Du schaffst jede Vergangenheitsform!",
+    t15_inst: "[RO] Welches Hilfsverb passt? 'Sie ___ schnell gelaufen.'",
+    t15_h1: "[RO] Laufen ist eine Bewegung.",
+    t15_h2: "[RO] Bewegung = sein. Also: Sie sind schnell gelaufen.",
+    t15_sent4: "[RO] Wir ___ zu Hause gegessen.",
+    t15_c1: "[RO] haben", t15_c2: "[RO] sind", t15_c3: "[RO] waren", t15_c4: "[RO] würden",
+    t15_q: "[RO] Was ist das Thema der Vergangenheit?",
+    t15_qa: "[RO] Wenn etwas vorbei ist", t15_qb: "[RO] Wenn etwas jetzt passiert", t15_qc: "[RO] Wenn etwas morgen kommt", t15_qd: "[RO] Wenn etwas selten passiert",
+  
   },
 };
 
@@ -2895,6 +6132,591 @@ export const SCHREIB_LABELS: Record<string, Record<string, string>> = {
     t15_c1: "Vater", t15_c2: "Fater", t15_c3: "Vather", t15_c4: "Fether",
     t15_q: "Wie heißt dieser Lernprozess?",
     t15_qa: "Rechtschreib-Regeln lernen", t15_qb: "Lesen lernen", t15_qc: "Sätze bilden", t15_qd: "Grammatik",
+  },
+  en: {
+
+    explorer_title: "[EN] Rechtschreib-Profi",
+
+    // T1: ie oder ei?
+    t1_title: "[EN] ie oder ei?",
+    t1_text: "[EN] Das kennen wir schon, aber es bleibt wichtig! Das lange 'i' schreiben wir fast immer als 'ie' (Biene). Das 'ei' klingt wie 'ai' (Eis).",
+    t1_b1: "[EN] ie ➔ langes i (Lied, Knie).",
+    t1_b2: "[EN] ei ➔ klingt wie ai (Seite, Reise).",
+    t1_inst: "[EN] Verbinde die Wörter mit dem richtigen Laut!",
+    t1_h1: "[EN] Hör genau hin: Hörst du ein langes I oder ein AI?",
+    t1_h2: "[EN] Biene -> ie, Eis -> ei.",
+    t1_l1: "[EN] B__ne", t1_r1: "[EN] ie",
+    t1_l2: "[EN] S__te", t1_r2: "[EN] ei",
+    t1_l3: "[EN] Kn__",  t1_r3: "[EN] ie",
+    t1_l4: "[EN] R__se", t1_r4: "[EN] ei",
+    t1_q: "[EN] Wie schreiben wir das lange I in 'Spiegel'?",
+    t1_qa: "[EN] ie", t1_qb: "[EN] i", t1_qc: "[EN] ei", t1_qd: "[EN] ih",
+
+    // T2: Das stumme h (Dehnungs-h)
+    t2_title: "[EN] Das stumme h",
+    t2_text: "[EN] Manche Wörter haben ein 'h', das man gar nicht hört! Es macht den Vokal davor aber ganz lang. Wir nennen es Dehnungs-h. Beispiele: fahren, Uhr, Zahn.",
+    t2_b1: "[EN] Man hört es nicht, aber es macht lang.",
+    t2_b2: "[EN] Steht oft vor l, m, n, r.",
+    t2_inst: "[EN] Finde das Wort mit dem stummen h!",
+    t2_h1: "[EN] Suche ein Wort, bei dem man den Vokal lang zieht, aber kein h hört.",
+    t2_h2: "[EN] In 'Zahn' ist ein stummes h.",
+    t2_w1: "[EN] Zahn", t2_w2: "[EN] Hand", t2_w3: "[EN] Sonne", t2_w4: "[EN] Mund",
+    t2_q: "[EN] Welches Wort hat ein Dehnungs-h?",
+    t2_qa: "[EN] fahren", t2_qb: "[EN] fallen", t2_qc: "[EN] fangen", t2_qd: "[EN] finden",
+
+    // T3: Doppelkonsonanten (Check)
+    t3_title: "[EN] Doppelt hält besser",
+    t3_text: "[EN] Erinnerst du dich? Nach einem kurzen Vokal verdoppeln wir oft den Mitlaut (Konsonant). rennen, schwimmen, kommen.",
+    t3_b1: "[EN] Kurzer Vokal ➔ doppelte Buchstaben.",
+    t3_inst: "[EN] Welches Wort ist richtig geschrieben?",
+    t3_h1: "[EN] Das 'e' in 'rennen' ist kurz.",
+    t3_h2: "[EN] Wir brauchen zwei 'n'.",
+    t3_w2_1: "[EN] renen", t3_w2_2: "[EN] rennen", t3_w2_3: "[EN] rennen", t3_w2_4: "[EN] reneen",
+    t3_q: "[EN] Was kommt nach einem kurzen Vokal?",
+    t3_qa: "[EN] Zwei gleiche Konsonanten", t3_qb: "[EN] Ein großer Buchstabe", t3_qc: "[EN] Ein stummes h", t3_qd: "[EN] Gar nichts",
+
+    // T4: v oder f?
+    t4_title: "[EN] v oder f?",
+    t4_text: "[EN] Das 'v' und das 'f' klingen oft genau gleich! Viele Wörter mit 'v' muss man sich einfach merken, wie: Vater, Vogel, viel, von.",
+    t4_b1: "[EN] v klingt oft wie f.",
+    t4_b2: "[EN] Merkwörter: Vater, Vogel, viel.",
+    t4_inst: "[EN] Welches Wort wird mit 'v' geschrieben?",
+    t4_h1: "[EN] Es ist ein Tier, das fliegen kann.",
+    t4_h2: "[EN] Der 'Vogel' wird mit v geschrieben.",
+    t4_sent: "[EN] Der ___ fliegt hoch am Himmel.",
+    t4_c1: "[EN] Vogel", t4_c2: "[EN] Fogel", t4_c3: "[EN] Wogel", t4_c4: "[EN] Bogel",
+    t4_q: "[EN] Wie schreiben wir 'Vater'?",
+    t4_qa: "[EN] mit v", t4_qb: "[EN] mit f", t4_qc: "[EN] mit w", t4_qd: "[EN] mit ph",
+
+    // T5: Wörter mit qu
+    t5_title: "[EN] Wörter mit qu",
+    t5_text: "[EN] Das 'qu' ist ein seltener Gast. Wir sprechen es wie 'kw' aus (Qualle, Quark). Nach dem q kommt immer ein u!",
+    t5_b1: "[EN] qu wird wie kw gesprochen.",
+    t5_b2: "[EN] Nach q folgt immer u.",
+    t5_inst: "[EN] Finde das Wort, das mit 'qu' anfängt!",
+    t5_h1: "[EN] Es ist glibberig und lebt im Meer.",
+    t5_h2: "[EN] Die 'Qualle' fängt mit qu an.",
+    t5_w3_1: "[EN] Qualle", t5_w3_2: "[EN] Kwalle", t5_w3_3: "[EN] Kwalle", t5_w3_4: "[EN] Kualle",
+    t5_q: "[EN] Was kommt immer nach dem Buchstaben 'q'?",
+    t5_qa: "[EN] u", t5_qb: "[EN] w", t5_qc: "[EN] a", t5_qd: "[EN] e",
+
+    // T6: ng oder nk?
+    t6_title: "[EN] ng oder nk?",
+    t6_text: "[EN] Hörst du den Unterschied am Ende? Bei 'ng' (singen, lang) ist es weich. Bei 'nk' (trinken, Bank) hörst du ein kleines 'k' am Ende.",
+    t6_b1: "[EN] ng ➔ weich (Ring, Schlange).",
+    t6_b2: "[EN] nk ➔ mit k-Laut (Geschenk, Dank).",
+    t6_inst: "[EN] Sortiere die Wörter: ng oder nk?",
+    t6_h1: "[EN] Hörst du ein weiches 'n' oder ein hartes 'k'?",
+    t6_h2: "[EN] Ring -> ng, Bank -> nk.",
+    t6_bng: "[EN] Endung ng", t6_bnk: "[EN] Endung nk",
+    t6_i1: "[EN] Ring", t6_i2: "[EN] Bank", t6_i3: "[EN] jung", t6_i4: "[EN] Dank",
+    t6_q: "[EN] Wie schreiben wir 'Geschenk' am Ende?",
+    t6_qa: "[EN] nk", t6_qb: "[EN] ng", t6_qc: "[EN] nck", t6_qd: "[EN] ngk",
+
+    // T7: Rechtschreib-Meister
+    t7_title: "[EN] Rechtschreib-Meister",
+    t7_text: "[EN] Jetzt bist du bereit für das große Diktat! v, f, h oder ck? Du kennst nun die wichtigsten Tricks.",
+    t7_b1: "[EN] Denk an die Merkwörter!",
+    t7_inst: "[EN] Bringe die Wörter in die richtige Reihenfolge!",
+    t7_h1: "[EN] Der Satzanfang (Mein) ist groß.",
+    t7_h2: "[EN] Mein Vater fährt viel.",
+    t7_o1: "[EN] Mein", t7_o2: "[EN] Vater", t7_o3: "[EN] fährt", t7_o4: "[EN] viel.",
+    t7_q: "[EN] Welches Wort in 'Mein Vater fährt viel.' hat ein stummes h?",
+    t7_qa: "[EN] fährt", t7_qb: "[EN] Vater", t7_qc: "[EN] viel", t7_qd: "[EN] Mein",
+
+    // T8: ck oder k?
+    t8_title: "[EN] ck oder k?",
+    t8_text: "[EN] Nach einem kurzen Vokal steht fast immer 'ck'. Wir schreiben 'Glück' und 'Lücke', nicht 'Glük' oder 'Lüke'.",
+    t8_b1: "[EN] Kurzer Vokal ➔ ck",
+    t8_b2: "[EN] Langer Vokal ➔ einfaches k",
+    t8_inst: "[EN] Ergänze ck oder k!",
+    t8_h1: "[EN] Das 'u' in Glück ist kurz, also brauchen wir 'ck'.",
+    t8_h2: "[EN] Glück, Stück, Glücks",
+    t8_sent: "[EN] Ich wünsche dir viel Glü__.",
+    t8_c1: "[EN] ck", t8_c2: "[EN] k", t8_c3: "[EN] kk", t8_c4: "[EN] cck",
+    t8_q: "[EN] Wie schreiben wir 'Stück'?",
+    t8_qa: "[EN] mit ck", t8_qb: "[EN] mit k", t8_qc: "[EN] mit kk", t8_qd: "[EN] mit ck-e",
+
+    // T9: Großschreibung: Nomen
+    t9_title: "[EN] Großschreibung",
+    t9_text: "[EN] ALLE Nomen (Namenwörter) schreiben wir GROSS! Nicht nur am Satzanfang, sondern überall: Buch, Tisch, Fenster, Freund.",
+    t9_b1: "[EN] Nomen = Großbuchstaben",
+    t9_b2: "[EN] Artikel (der, die, das) auch groß!",
+    t9_inst: "[EN] Welches Wort muss großgeschrieben werden?",
+    t9_h1: "[EN] Es ist ein Namenwort - also groß!",
+    t9_h2: "[EN] Fenster, Tür, Tisch",
+    t9_sent2: "[EN] Der ___ ist grün.",
+    t9_c1: "[EN] Baum", t9_c2: "[EN] baum", t9_c3: "[EN] BAUM", t9_c4: "[EN] BauM",
+    t9_q: "[EN] Welches Wort ist ein Nomen?",
+    t9_qa: "[EN] Katze", t9_qb: "[EN] springt", t9_qc: "[EN] schnell", t9_qd: "[EN] und",
+
+    // T10: Adverben klein geschrieben
+    t10_title: "[EN] Verben und Adjektive klein geschrieben",
+    t10_text: "[EN] Verben (Tunwörter) und Adjektive (Wiewörter) schreiben wir klein! Nur Nomen werden groß! spielen, schön, leise, schnell.",
+    t10_b1: "[EN] Verb ➔ klein: spielen, lachen",
+    t10_b2: "[EN] Adjektiv ➔ klein: schön, alt, groß",
+    t10_inst: "[EN] Sortiere: Großschreibung oder Kleinschreibung?",
+    t10_h1: "[EN] Nomen groß, Verben und Adjektive klein.",
+    t10_h2: "[EN] Der schöne Garten, ich spiele",
+    t10_bg: "[EN] GROSS (Nomen)", t10_bk: "[EN] klein (Verb/Adjektiv)",
+    t10_i1: "[EN] Hund", t10_i2: "[EN] laufen", t10_i3: "[EN] schnell", t10_i4: "[EN] Buch",
+    t10_q: "[EN] Welches Wort schreiben wir groß?",
+    t10_qa: "[EN] Freund", t10_qb: "[EN] spielt", t10_qc: "[EN] alt", t10_qd: "[EN] leise",
+
+    // T11: Doppel-Konsonanten richtig nutzen
+    t11_title: "[EN] Doppelkonsonanten und Dehnung",
+    t11_text: "[EN] Das ist die Regel: kurzer Vokal ➔ Doppelkonsonant, langer Vokal oder Dehnungs-h ➔ einfach. Rennen hat 'rr' (kurzes e), Fahren hat einfaches 'h'.",
+    t11_b1: "[EN] Kurz ➔ doppelt. Lang ➔ einfach.",
+    t11_b2: "[EN] rennen (rr), fahren (h)",
+    t11_inst: "[EN] Ergänze richtig!",
+    t11_h1: "[EN] Das 'e' ist kurz, also doppelt!",
+    t11_h2: "[EN] re-nn-en, fa-h-ren",
+    t11_sent3: "[EN] Wir ___ schnell nach Hause.",
+    t11_c1: "[EN] rennen", t11_c2: "[EN] renen", t11_c3: "[EN] rennen", t11_c4: "[EN] reenen",
+    t11_q: "[EN] Welches Wort ist richtig geschrieben?",
+    t11_qa: "[EN] Straße", t11_qb: "[EN] Strasse", t11_qc: "[EN] Strasse", t11_qd: "[EN] Strase",
+
+    // T12: Wörter mit -tsch-
+    t12_title: "[EN] Das -tsch- in der Mitte",
+    t12_text: "[EN] Wörter wie 'putsch', 'umschwung' oder 'rutsch' haben das Laut-Kombination -tsch-. Das ist ein deutscher Trick!",
+    t12_b1: "[EN] tsch = Laut-Kombination",
+    t12_b2: "[EN] Deutsch, Putsch, Rutsch",
+    t12_inst: "[EN] Welches Wort hat ein -tsch-?",
+    t12_h1: "[EN] Es klingt wie 'tsch'.",
+    t12_h2: "[EN] 'Deutsch' hat ein tsch",
+    t12_sent4: "[EN] Ich spreche ___.",
+    t12_c1: "[EN] Deutsch", t12_c2: "[EN] Deutch", t12_c3: "[EN] Deustch", t12_c4: "[EN] Deusch",
+    t12_q: "[EN] Wie schreiben wir 'Deutsch'?",
+    t12_qa: "[EN] Deutsch", t12_qb: "[EN] Deutch", t12_qc: "[EN] Teutsch", t12_qd: "[EN] Deustch",
+
+    // T13: Regel-Trainer Rechtschreibung
+    t13_title: "[EN] Regeltrainer",
+    t13_text: "[EN] Alle Regeln auf einmal! ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu. Das ist die große Rechtschreib-Party!",
+    t13_b1: "[EN] Alle Regeln zusammen",
+    t13_b2: "[EN] Denk an Merkwörter!",
+    t13_inst: "[EN] Bringe die Wörter in die richtige Reihenfolge!",
+    t13_h1: "[EN] Nomen groß, Verben klein.",
+    t13_h2: "[EN] Der Vogel fliegt über die Wiese.",
+    t13_f1: "[EN] Der Vogel", t13_f2: "[EN] fliegt", t13_f3: "[EN] über", t13_f4: "[EN] die Wiese.",
+    t13_q: "[EN] Welche Regel brauchst du für 'Vogel'?",
+    t13_qa: "[EN] Großschreibung (Nomen)", t13_qb: "[EN] ie/ei", t13_qc: "[EN] Doppelkonsonant", t13_qd: "[EN] qu-Regel",
+
+    // T14: Diktat-Vorbereitung
+    t14_title: "[EN] Diktat vorbereiten",
+    t14_text: "[EN] Jetzt geht's ums ganze: Kannst du hören und richtig schreiben? ie, ei, Doppelkonsonanten, Groß-Klein, Sonderzeichen - alles!",
+    t14_b1: "[EN] Aktiv hören ist wichtig.",
+    t14_b2: "[EN] Regeln immer vor Augen!",
+    t14_inst: "[EN] Welches Wort ist richtig geschrieben?",
+    t14_h1: "[EN] Höre auf die Vokale.",
+    t14_h2: "[EN] Biene (langes i = ie), Eis (Diphthong = ei)",
+    t14_sent5: "[EN] Die Biene sitzt auf der___.",
+    t14_c1: "[EN] Blume", t14_c2: "[EN] Blueme", t14_c3: "[EN] Blieme", t14_c4: "[EN] Bloeme",
+    t14_q: "[EN] Was ist bei Diktaten wichtig?",
+    t14_qa: "[EN] Aufmerksamkeit und Regeln", t14_qb: "[EN] Schnell schreiben", t14_qc: "[EN] Viel raten", t14_qd: "[EN] Fragen stellen",
+
+    // T15: Rechtschreib-Meister-Finale
+    t15_title: "[EN] Du bist ein Rechtschreib-Meister!",
+    t15_text: "[EN] Herzlichen Glückwunsch! Du kennst jetzt ALLE wichtigen Rechtschreib-Regeln. ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu, ng/nk. Du schaffst jeden Fehler!",
+    t15_b1: "[EN] Alle Regeln gelernt!",
+    t15_b2: "[EN] Du bist bereit für das Diktat!",
+    t15_inst: "[EN] Welches Wort ist falsch geschrieben?",
+    t15_h1: "[EN] Suche den Fehler nach den Regeln.",
+    t15_h2: "[EN] Vater hat 'v', nicht 'f'!",
+    t15_sent6: "[EN] Mein ___ fährt viel Auto.",
+    t15_c1: "[EN] Vater", t15_c2: "[EN] Fater", t15_c3: "[EN] Vather", t15_c4: "[EN] Fether",
+    t15_q: "[EN] Wie heißt dieser Lernprozess?",
+    t15_qa: "[EN] Rechtschreib-Regeln lernen", t15_qb: "[EN] Lesen lernen", t15_qc: "[EN] Sätze bilden", t15_qd: "[EN] Grammatik",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Rechtschreib-Profi",
+
+    // T1: ie oder ei?
+    t1_title: "[HU] ie oder ei?",
+    t1_text: "[HU] Das kennen wir schon, aber es bleibt wichtig! Das lange 'i' schreiben wir fast immer als 'ie' (Biene). Das 'ei' klingt wie 'ai' (Eis).",
+    t1_b1: "[HU] ie ➔ langes i (Lied, Knie).",
+    t1_b2: "[HU] ei ➔ klingt wie ai (Seite, Reise).",
+    t1_inst: "[HU] Verbinde die Wörter mit dem richtigen Laut!",
+    t1_h1: "[HU] Hör genau hin: Hörst du ein langes I oder ein AI?",
+    t1_h2: "[HU] Biene -> ie, Eis -> ei.",
+    t1_l1: "[HU] B__ne", t1_r1: "[HU] ie",
+    t1_l2: "[HU] S__te", t1_r2: "[HU] ei",
+    t1_l3: "[HU] Kn__",  t1_r3: "[HU] ie",
+    t1_l4: "[HU] R__se", t1_r4: "[HU] ei",
+    t1_q: "[HU] Wie schreiben wir das lange I in 'Spiegel'?",
+    t1_qa: "[HU] ie", t1_qb: "[HU] i", t1_qc: "[HU] ei", t1_qd: "[HU] ih",
+
+    // T2: Das stumme h (Dehnungs-h)
+    t2_title: "[HU] Das stumme h",
+    t2_text: "[HU] Manche Wörter haben ein 'h', das man gar nicht hört! Es macht den Vokal davor aber ganz lang. Wir nennen es Dehnungs-h. Beispiele: fahren, Uhr, Zahn.",
+    t2_b1: "[HU] Man hört es nicht, aber es macht lang.",
+    t2_b2: "[HU] Steht oft vor l, m, n, r.",
+    t2_inst: "[HU] Finde das Wort mit dem stummen h!",
+    t2_h1: "[HU] Suche ein Wort, bei dem man den Vokal lang zieht, aber kein h hört.",
+    t2_h2: "[HU] In 'Zahn' ist ein stummes h.",
+    t2_w1: "[HU] Zahn", t2_w2: "[HU] Hand", t2_w3: "[HU] Sonne", t2_w4: "[HU] Mund",
+    t2_q: "[HU] Welches Wort hat ein Dehnungs-h?",
+    t2_qa: "[HU] fahren", t2_qb: "[HU] fallen", t2_qc: "[HU] fangen", t2_qd: "[HU] finden",
+
+    // T3: Doppelkonsonanten (Check)
+    t3_title: "[HU] Doppelt hält besser",
+    t3_text: "[HU] Erinnerst du dich? Nach einem kurzen Vokal verdoppeln wir oft den Mitlaut (Konsonant). rennen, schwimmen, kommen.",
+    t3_b1: "[HU] Kurzer Vokal ➔ doppelte Buchstaben.",
+    t3_inst: "[HU] Welches Wort ist richtig geschrieben?",
+    t3_h1: "[HU] Das 'e' in 'rennen' ist kurz.",
+    t3_h2: "[HU] Wir brauchen zwei 'n'.",
+    t3_w2_1: "[HU] renen", t3_w2_2: "[HU] rennen", t3_w2_3: "[HU] rennen", t3_w2_4: "[HU] reneen",
+    t3_q: "[HU] Was kommt nach einem kurzen Vokal?",
+    t3_qa: "[HU] Zwei gleiche Konsonanten", t3_qb: "[HU] Ein großer Buchstabe", t3_qc: "[HU] Ein stummes h", t3_qd: "[HU] Gar nichts",
+
+    // T4: v oder f?
+    t4_title: "[HU] v oder f?",
+    t4_text: "[HU] Das 'v' und das 'f' klingen oft genau gleich! Viele Wörter mit 'v' muss man sich einfach merken, wie: Vater, Vogel, viel, von.",
+    t4_b1: "[HU] v klingt oft wie f.",
+    t4_b2: "[HU] Merkwörter: Vater, Vogel, viel.",
+    t4_inst: "[HU] Welches Wort wird mit 'v' geschrieben?",
+    t4_h1: "[HU] Es ist ein Tier, das fliegen kann.",
+    t4_h2: "[HU] Der 'Vogel' wird mit v geschrieben.",
+    t4_sent: "[HU] Der ___ fliegt hoch am Himmel.",
+    t4_c1: "[HU] Vogel", t4_c2: "[HU] Fogel", t4_c3: "[HU] Wogel", t4_c4: "[HU] Bogel",
+    t4_q: "[HU] Wie schreiben wir 'Vater'?",
+    t4_qa: "[HU] mit v", t4_qb: "[HU] mit f", t4_qc: "[HU] mit w", t4_qd: "[HU] mit ph",
+
+    // T5: Wörter mit qu
+    t5_title: "[HU] Wörter mit qu",
+    t5_text: "[HU] Das 'qu' ist ein seltener Gast. Wir sprechen es wie 'kw' aus (Qualle, Quark). Nach dem q kommt immer ein u!",
+    t5_b1: "[HU] qu wird wie kw gesprochen.",
+    t5_b2: "[HU] Nach q folgt immer u.",
+    t5_inst: "[HU] Finde das Wort, das mit 'qu' anfängt!",
+    t5_h1: "[HU] Es ist glibberig und lebt im Meer.",
+    t5_h2: "[HU] Die 'Qualle' fängt mit qu an.",
+    t5_w3_1: "[HU] Qualle", t5_w3_2: "[HU] Kwalle", t5_w3_3: "[HU] Kwalle", t5_w3_4: "[HU] Kualle",
+    t5_q: "[HU] Was kommt immer nach dem Buchstaben 'q'?",
+    t5_qa: "[HU] u", t5_qb: "[HU] w", t5_qc: "[HU] a", t5_qd: "[HU] e",
+
+    // T6: ng oder nk?
+    t6_title: "[HU] ng oder nk?",
+    t6_text: "[HU] Hörst du den Unterschied am Ende? Bei 'ng' (singen, lang) ist es weich. Bei 'nk' (trinken, Bank) hörst du ein kleines 'k' am Ende.",
+    t6_b1: "[HU] ng ➔ weich (Ring, Schlange).",
+    t6_b2: "[HU] nk ➔ mit k-Laut (Geschenk, Dank).",
+    t6_inst: "[HU] Sortiere die Wörter: ng oder nk?",
+    t6_h1: "[HU] Hörst du ein weiches 'n' oder ein hartes 'k'?",
+    t6_h2: "[HU] Ring -> ng, Bank -> nk.",
+    t6_bng: "[HU] Endung ng", t6_bnk: "[HU] Endung nk",
+    t6_i1: "[HU] Ring", t6_i2: "[HU] Bank", t6_i3: "[HU] jung", t6_i4: "[HU] Dank",
+    t6_q: "[HU] Wie schreiben wir 'Geschenk' am Ende?",
+    t6_qa: "[HU] nk", t6_qb: "[HU] ng", t6_qc: "[HU] nck", t6_qd: "[HU] ngk",
+
+    // T7: Rechtschreib-Meister
+    t7_title: "[HU] Rechtschreib-Meister",
+    t7_text: "[HU] Jetzt bist du bereit für das große Diktat! v, f, h oder ck? Du kennst nun die wichtigsten Tricks.",
+    t7_b1: "[HU] Denk an die Merkwörter!",
+    t7_inst: "[HU] Bringe die Wörter in die richtige Reihenfolge!",
+    t7_h1: "[HU] Der Satzanfang (Mein) ist groß.",
+    t7_h2: "[HU] Mein Vater fährt viel.",
+    t7_o1: "[HU] Mein", t7_o2: "[HU] Vater", t7_o3: "[HU] fährt", t7_o4: "[HU] viel.",
+    t7_q: "[HU] Welches Wort in 'Mein Vater fährt viel.' hat ein stummes h?",
+    t7_qa: "[HU] fährt", t7_qb: "[HU] Vater", t7_qc: "[HU] viel", t7_qd: "[HU] Mein",
+
+    // T8: ck oder k?
+    t8_title: "[HU] ck oder k?",
+    t8_text: "[HU] Nach einem kurzen Vokal steht fast immer 'ck'. Wir schreiben 'Glück' und 'Lücke', nicht 'Glük' oder 'Lüke'.",
+    t8_b1: "[HU] Kurzer Vokal ➔ ck",
+    t8_b2: "[HU] Langer Vokal ➔ einfaches k",
+    t8_inst: "[HU] Ergänze ck oder k!",
+    t8_h1: "[HU] Das 'u' in Glück ist kurz, also brauchen wir 'ck'.",
+    t8_h2: "[HU] Glück, Stück, Glücks",
+    t8_sent: "[HU] Ich wünsche dir viel Glü__.",
+    t8_c1: "[HU] ck", t8_c2: "[HU] k", t8_c3: "[HU] kk", t8_c4: "[HU] cck",
+    t8_q: "[HU] Wie schreiben wir 'Stück'?",
+    t8_qa: "[HU] mit ck", t8_qb: "[HU] mit k", t8_qc: "[HU] mit kk", t8_qd: "[HU] mit ck-e",
+
+    // T9: Großschreibung: Nomen
+    t9_title: "[HU] Großschreibung",
+    t9_text: "[HU] ALLE Nomen (Namenwörter) schreiben wir GROSS! Nicht nur am Satzanfang, sondern überall: Buch, Tisch, Fenster, Freund.",
+    t9_b1: "[HU] Nomen = Großbuchstaben",
+    t9_b2: "[HU] Artikel (der, die, das) auch groß!",
+    t9_inst: "[HU] Welches Wort muss großgeschrieben werden?",
+    t9_h1: "[HU] Es ist ein Namenwort - also groß!",
+    t9_h2: "[HU] Fenster, Tür, Tisch",
+    t9_sent2: "[HU] Der ___ ist grün.",
+    t9_c1: "[HU] Baum", t9_c2: "[HU] baum", t9_c3: "[HU] BAUM", t9_c4: "[HU] BauM",
+    t9_q: "[HU] Welches Wort ist ein Nomen?",
+    t9_qa: "[HU] Katze", t9_qb: "[HU] springt", t9_qc: "[HU] schnell", t9_qd: "[HU] und",
+
+    // T10: Adverben klein geschrieben
+    t10_title: "[HU] Verben und Adjektive klein geschrieben",
+    t10_text: "[HU] Verben (Tunwörter) und Adjektive (Wiewörter) schreiben wir klein! Nur Nomen werden groß! spielen, schön, leise, schnell.",
+    t10_b1: "[HU] Verb ➔ klein: spielen, lachen",
+    t10_b2: "[HU] Adjektiv ➔ klein: schön, alt, groß",
+    t10_inst: "[HU] Sortiere: Großschreibung oder Kleinschreibung?",
+    t10_h1: "[HU] Nomen groß, Verben und Adjektive klein.",
+    t10_h2: "[HU] Der schöne Garten, ich spiele",
+    t10_bg: "[HU] GROSS (Nomen)", t10_bk: "[HU] klein (Verb/Adjektiv)",
+    t10_i1: "[HU] Hund", t10_i2: "[HU] laufen", t10_i3: "[HU] schnell", t10_i4: "[HU] Buch",
+    t10_q: "[HU] Welches Wort schreiben wir groß?",
+    t10_qa: "[HU] Freund", t10_qb: "[HU] spielt", t10_qc: "[HU] alt", t10_qd: "[HU] leise",
+
+    // T11: Doppel-Konsonanten richtig nutzen
+    t11_title: "[HU] Doppelkonsonanten und Dehnung",
+    t11_text: "[HU] Das ist die Regel: kurzer Vokal ➔ Doppelkonsonant, langer Vokal oder Dehnungs-h ➔ einfach. Rennen hat 'rr' (kurzes e), Fahren hat einfaches 'h'.",
+    t11_b1: "[HU] Kurz ➔ doppelt. Lang ➔ einfach.",
+    t11_b2: "[HU] rennen (rr), fahren (h)",
+    t11_inst: "[HU] Ergänze richtig!",
+    t11_h1: "[HU] Das 'e' ist kurz, also doppelt!",
+    t11_h2: "[HU] re-nn-en, fa-h-ren",
+    t11_sent3: "[HU] Wir ___ schnell nach Hause.",
+    t11_c1: "[HU] rennen", t11_c2: "[HU] renen", t11_c3: "[HU] rennen", t11_c4: "[HU] reenen",
+    t11_q: "[HU] Welches Wort ist richtig geschrieben?",
+    t11_qa: "[HU] Straße", t11_qb: "[HU] Strasse", t11_qc: "[HU] Strasse", t11_qd: "[HU] Strase",
+
+    // T12: Wörter mit -tsch-
+    t12_title: "[HU] Das -tsch- in der Mitte",
+    t12_text: "[HU] Wörter wie 'putsch', 'umschwung' oder 'rutsch' haben das Laut-Kombination -tsch-. Das ist ein deutscher Trick!",
+    t12_b1: "[HU] tsch = Laut-Kombination",
+    t12_b2: "[HU] Deutsch, Putsch, Rutsch",
+    t12_inst: "[HU] Welches Wort hat ein -tsch-?",
+    t12_h1: "[HU] Es klingt wie 'tsch'.",
+    t12_h2: "[HU] 'Deutsch' hat ein tsch",
+    t12_sent4: "[HU] Ich spreche ___.",
+    t12_c1: "[HU] Deutsch", t12_c2: "[HU] Deutch", t12_c3: "[HU] Deustch", t12_c4: "[HU] Deusch",
+    t12_q: "[HU] Wie schreiben wir 'Deutsch'?",
+    t12_qa: "[HU] Deutsch", t12_qb: "[HU] Deutch", t12_qc: "[HU] Teutsch", t12_qd: "[HU] Deustch",
+
+    // T13: Regel-Trainer Rechtschreibung
+    t13_title: "[HU] Regeltrainer",
+    t13_text: "[HU] Alle Regeln auf einmal! ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu. Das ist die große Rechtschreib-Party!",
+    t13_b1: "[HU] Alle Regeln zusammen",
+    t13_b2: "[HU] Denk an Merkwörter!",
+    t13_inst: "[HU] Bringe die Wörter in die richtige Reihenfolge!",
+    t13_h1: "[HU] Nomen groß, Verben klein.",
+    t13_h2: "[HU] Der Vogel fliegt über die Wiese.",
+    t13_f1: "[HU] Der Vogel", t13_f2: "[HU] fliegt", t13_f3: "[HU] über", t13_f4: "[HU] die Wiese.",
+    t13_q: "[HU] Welche Regel brauchst du für 'Vogel'?",
+    t13_qa: "[HU] Großschreibung (Nomen)", t13_qb: "[HU] ie/ei", t13_qc: "[HU] Doppelkonsonant", t13_qd: "[HU] qu-Regel",
+
+    // T14: Diktat-Vorbereitung
+    t14_title: "[HU] Diktat vorbereiten",
+    t14_text: "[HU] Jetzt geht's ums ganze: Kannst du hören und richtig schreiben? ie, ei, Doppelkonsonanten, Groß-Klein, Sonderzeichen - alles!",
+    t14_b1: "[HU] Aktiv hören ist wichtig.",
+    t14_b2: "[HU] Regeln immer vor Augen!",
+    t14_inst: "[HU] Welches Wort ist richtig geschrieben?",
+    t14_h1: "[HU] Höre auf die Vokale.",
+    t14_h2: "[HU] Biene (langes i = ie), Eis (Diphthong = ei)",
+    t14_sent5: "[HU] Die Biene sitzt auf der___.",
+    t14_c1: "[HU] Blume", t14_c2: "[HU] Blueme", t14_c3: "[HU] Blieme", t14_c4: "[HU] Bloeme",
+    t14_q: "[HU] Was ist bei Diktaten wichtig?",
+    t14_qa: "[HU] Aufmerksamkeit und Regeln", t14_qb: "[HU] Schnell schreiben", t14_qc: "[HU] Viel raten", t14_qd: "[HU] Fragen stellen",
+
+    // T15: Rechtschreib-Meister-Finale
+    t15_title: "[HU] Du bist ein Rechtschreib-Meister!",
+    t15_text: "[HU] Herzlichen Glückwunsch! Du kennst jetzt ALLE wichtigen Rechtschreib-Regeln. ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu, ng/nk. Du schaffst jeden Fehler!",
+    t15_b1: "[HU] Alle Regeln gelernt!",
+    t15_b2: "[HU] Du bist bereit für das Diktat!",
+    t15_inst: "[HU] Welches Wort ist falsch geschrieben?",
+    t15_h1: "[HU] Suche den Fehler nach den Regeln.",
+    t15_h2: "[HU] Vater hat 'v', nicht 'f'!",
+    t15_sent6: "[HU] Mein ___ fährt viel Auto.",
+    t15_c1: "[HU] Vater", t15_c2: "[HU] Fater", t15_c3: "[HU] Vather", t15_c4: "[HU] Fether",
+    t15_q: "[HU] Wie heißt dieser Lernprozess?",
+    t15_qa: "[HU] Rechtschreib-Regeln lernen", t15_qb: "[HU] Lesen lernen", t15_qc: "[HU] Sätze bilden", t15_qd: "[HU] Grammatik",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Rechtschreib-Profi",
+
+    // T1: ie oder ei?
+    t1_title: "[RO] ie oder ei?",
+    t1_text: "[RO] Das kennen wir schon, aber es bleibt wichtig! Das lange 'i' schreiben wir fast immer als 'ie' (Biene). Das 'ei' klingt wie 'ai' (Eis).",
+    t1_b1: "[RO] ie ➔ langes i (Lied, Knie).",
+    t1_b2: "[RO] ei ➔ klingt wie ai (Seite, Reise).",
+    t1_inst: "[RO] Verbinde die Wörter mit dem richtigen Laut!",
+    t1_h1: "[RO] Hör genau hin: Hörst du ein langes I oder ein AI?",
+    t1_h2: "[RO] Biene -> ie, Eis -> ei.",
+    t1_l1: "[RO] B__ne", t1_r1: "[RO] ie",
+    t1_l2: "[RO] S__te", t1_r2: "[RO] ei",
+    t1_l3: "[RO] Kn__",  t1_r3: "[RO] ie",
+    t1_l4: "[RO] R__se", t1_r4: "[RO] ei",
+    t1_q: "[RO] Wie schreiben wir das lange I in 'Spiegel'?",
+    t1_qa: "[RO] ie", t1_qb: "[RO] i", t1_qc: "[RO] ei", t1_qd: "[RO] ih",
+
+    // T2: Das stumme h (Dehnungs-h)
+    t2_title: "[RO] Das stumme h",
+    t2_text: "[RO] Manche Wörter haben ein 'h', das man gar nicht hört! Es macht den Vokal davor aber ganz lang. Wir nennen es Dehnungs-h. Beispiele: fahren, Uhr, Zahn.",
+    t2_b1: "[RO] Man hört es nicht, aber es macht lang.",
+    t2_b2: "[RO] Steht oft vor l, m, n, r.",
+    t2_inst: "[RO] Finde das Wort mit dem stummen h!",
+    t2_h1: "[RO] Suche ein Wort, bei dem man den Vokal lang zieht, aber kein h hört.",
+    t2_h2: "[RO] In 'Zahn' ist ein stummes h.",
+    t2_w1: "[RO] Zahn", t2_w2: "[RO] Hand", t2_w3: "[RO] Sonne", t2_w4: "[RO] Mund",
+    t2_q: "[RO] Welches Wort hat ein Dehnungs-h?",
+    t2_qa: "[RO] fahren", t2_qb: "[RO] fallen", t2_qc: "[RO] fangen", t2_qd: "[RO] finden",
+
+    // T3: Doppelkonsonanten (Check)
+    t3_title: "[RO] Doppelt hält besser",
+    t3_text: "[RO] Erinnerst du dich? Nach einem kurzen Vokal verdoppeln wir oft den Mitlaut (Konsonant). rennen, schwimmen, kommen.",
+    t3_b1: "[RO] Kurzer Vokal ➔ doppelte Buchstaben.",
+    t3_inst: "[RO] Welches Wort ist richtig geschrieben?",
+    t3_h1: "[RO] Das 'e' in 'rennen' ist kurz.",
+    t3_h2: "[RO] Wir brauchen zwei 'n'.",
+    t3_w2_1: "[RO] renen", t3_w2_2: "[RO] rennen", t3_w2_3: "[RO] rennen", t3_w2_4: "[RO] reneen",
+    t3_q: "[RO] Was kommt nach einem kurzen Vokal?",
+    t3_qa: "[RO] Zwei gleiche Konsonanten", t3_qb: "[RO] Ein großer Buchstabe", t3_qc: "[RO] Ein stummes h", t3_qd: "[RO] Gar nichts",
+
+    // T4: v oder f?
+    t4_title: "[RO] v oder f?",
+    t4_text: "[RO] Das 'v' und das 'f' klingen oft genau gleich! Viele Wörter mit 'v' muss man sich einfach merken, wie: Vater, Vogel, viel, von.",
+    t4_b1: "[RO] v klingt oft wie f.",
+    t4_b2: "[RO] Merkwörter: Vater, Vogel, viel.",
+    t4_inst: "[RO] Welches Wort wird mit 'v' geschrieben?",
+    t4_h1: "[RO] Es ist ein Tier, das fliegen kann.",
+    t4_h2: "[RO] Der 'Vogel' wird mit v geschrieben.",
+    t4_sent: "[RO] Der ___ fliegt hoch am Himmel.",
+    t4_c1: "[RO] Vogel", t4_c2: "[RO] Fogel", t4_c3: "[RO] Wogel", t4_c4: "[RO] Bogel",
+    t4_q: "[RO] Wie schreiben wir 'Vater'?",
+    t4_qa: "[RO] mit v", t4_qb: "[RO] mit f", t4_qc: "[RO] mit w", t4_qd: "[RO] mit ph",
+
+    // T5: Wörter mit qu
+    t5_title: "[RO] Wörter mit qu",
+    t5_text: "[RO] Das 'qu' ist ein seltener Gast. Wir sprechen es wie 'kw' aus (Qualle, Quark). Nach dem q kommt immer ein u!",
+    t5_b1: "[RO] qu wird wie kw gesprochen.",
+    t5_b2: "[RO] Nach q folgt immer u.",
+    t5_inst: "[RO] Finde das Wort, das mit 'qu' anfängt!",
+    t5_h1: "[RO] Es ist glibberig und lebt im Meer.",
+    t5_h2: "[RO] Die 'Qualle' fängt mit qu an.",
+    t5_w3_1: "[RO] Qualle", t5_w3_2: "[RO] Kwalle", t5_w3_3: "[RO] Kwalle", t5_w3_4: "[RO] Kualle",
+    t5_q: "[RO] Was kommt immer nach dem Buchstaben 'q'?",
+    t5_qa: "[RO] u", t5_qb: "[RO] w", t5_qc: "[RO] a", t5_qd: "[RO] e",
+
+    // T6: ng oder nk?
+    t6_title: "[RO] ng oder nk?",
+    t6_text: "[RO] Hörst du den Unterschied am Ende? Bei 'ng' (singen, lang) ist es weich. Bei 'nk' (trinken, Bank) hörst du ein kleines 'k' am Ende.",
+    t6_b1: "[RO] ng ➔ weich (Ring, Schlange).",
+    t6_b2: "[RO] nk ➔ mit k-Laut (Geschenk, Dank).",
+    t6_inst: "[RO] Sortiere die Wörter: ng oder nk?",
+    t6_h1: "[RO] Hörst du ein weiches 'n' oder ein hartes 'k'?",
+    t6_h2: "[RO] Ring -> ng, Bank -> nk.",
+    t6_bng: "[RO] Endung ng", t6_bnk: "[RO] Endung nk",
+    t6_i1: "[RO] Ring", t6_i2: "[RO] Bank", t6_i3: "[RO] jung", t6_i4: "[RO] Dank",
+    t6_q: "[RO] Wie schreiben wir 'Geschenk' am Ende?",
+    t6_qa: "[RO] nk", t6_qb: "[RO] ng", t6_qc: "[RO] nck", t6_qd: "[RO] ngk",
+
+    // T7: Rechtschreib-Meister
+    t7_title: "[RO] Rechtschreib-Meister",
+    t7_text: "[RO] Jetzt bist du bereit für das große Diktat! v, f, h oder ck? Du kennst nun die wichtigsten Tricks.",
+    t7_b1: "[RO] Denk an die Merkwörter!",
+    t7_inst: "[RO] Bringe die Wörter in die richtige Reihenfolge!",
+    t7_h1: "[RO] Der Satzanfang (Mein) ist groß.",
+    t7_h2: "[RO] Mein Vater fährt viel.",
+    t7_o1: "[RO] Mein", t7_o2: "[RO] Vater", t7_o3: "[RO] fährt", t7_o4: "[RO] viel.",
+    t7_q: "[RO] Welches Wort in 'Mein Vater fährt viel.' hat ein stummes h?",
+    t7_qa: "[RO] fährt", t7_qb: "[RO] Vater", t7_qc: "[RO] viel", t7_qd: "[RO] Mein",
+
+    // T8: ck oder k?
+    t8_title: "[RO] ck oder k?",
+    t8_text: "[RO] Nach einem kurzen Vokal steht fast immer 'ck'. Wir schreiben 'Glück' und 'Lücke', nicht 'Glük' oder 'Lüke'.",
+    t8_b1: "[RO] Kurzer Vokal ➔ ck",
+    t8_b2: "[RO] Langer Vokal ➔ einfaches k",
+    t8_inst: "[RO] Ergänze ck oder k!",
+    t8_h1: "[RO] Das 'u' in Glück ist kurz, also brauchen wir 'ck'.",
+    t8_h2: "[RO] Glück, Stück, Glücks",
+    t8_sent: "[RO] Ich wünsche dir viel Glü__.",
+    t8_c1: "[RO] ck", t8_c2: "[RO] k", t8_c3: "[RO] kk", t8_c4: "[RO] cck",
+    t8_q: "[RO] Wie schreiben wir 'Stück'?",
+    t8_qa: "[RO] mit ck", t8_qb: "[RO] mit k", t8_qc: "[RO] mit kk", t8_qd: "[RO] mit ck-e",
+
+    // T9: Großschreibung: Nomen
+    t9_title: "[RO] Großschreibung",
+    t9_text: "[RO] ALLE Nomen (Namenwörter) schreiben wir GROSS! Nicht nur am Satzanfang, sondern überall: Buch, Tisch, Fenster, Freund.",
+    t9_b1: "[RO] Nomen = Großbuchstaben",
+    t9_b2: "[RO] Artikel (der, die, das) auch groß!",
+    t9_inst: "[RO] Welches Wort muss großgeschrieben werden?",
+    t9_h1: "[RO] Es ist ein Namenwort - also groß!",
+    t9_h2: "[RO] Fenster, Tür, Tisch",
+    t9_sent2: "[RO] Der ___ ist grün.",
+    t9_c1: "[RO] Baum", t9_c2: "[RO] baum", t9_c3: "[RO] BAUM", t9_c4: "[RO] BauM",
+    t9_q: "[RO] Welches Wort ist ein Nomen?",
+    t9_qa: "[RO] Katze", t9_qb: "[RO] springt", t9_qc: "[RO] schnell", t9_qd: "[RO] und",
+
+    // T10: Adverben klein geschrieben
+    t10_title: "[RO] Verben und Adjektive klein geschrieben",
+    t10_text: "[RO] Verben (Tunwörter) und Adjektive (Wiewörter) schreiben wir klein! Nur Nomen werden groß! spielen, schön, leise, schnell.",
+    t10_b1: "[RO] Verb ➔ klein: spielen, lachen",
+    t10_b2: "[RO] Adjektiv ➔ klein: schön, alt, groß",
+    t10_inst: "[RO] Sortiere: Großschreibung oder Kleinschreibung?",
+    t10_h1: "[RO] Nomen groß, Verben und Adjektive klein.",
+    t10_h2: "[RO] Der schöne Garten, ich spiele",
+    t10_bg: "[RO] GROSS (Nomen)", t10_bk: "[RO] klein (Verb/Adjektiv)",
+    t10_i1: "[RO] Hund", t10_i2: "[RO] laufen", t10_i3: "[RO] schnell", t10_i4: "[RO] Buch",
+    t10_q: "[RO] Welches Wort schreiben wir groß?",
+    t10_qa: "[RO] Freund", t10_qb: "[RO] spielt", t10_qc: "[RO] alt", t10_qd: "[RO] leise",
+
+    // T11: Doppel-Konsonanten richtig nutzen
+    t11_title: "[RO] Doppelkonsonanten und Dehnung",
+    t11_text: "[RO] Das ist die Regel: kurzer Vokal ➔ Doppelkonsonant, langer Vokal oder Dehnungs-h ➔ einfach. Rennen hat 'rr' (kurzes e), Fahren hat einfaches 'h'.",
+    t11_b1: "[RO] Kurz ➔ doppelt. Lang ➔ einfach.",
+    t11_b2: "[RO] rennen (rr), fahren (h)",
+    t11_inst: "[RO] Ergänze richtig!",
+    t11_h1: "[RO] Das 'e' ist kurz, also doppelt!",
+    t11_h2: "[RO] re-nn-en, fa-h-ren",
+    t11_sent3: "[RO] Wir ___ schnell nach Hause.",
+    t11_c1: "[RO] rennen", t11_c2: "[RO] renen", t11_c3: "[RO] rennen", t11_c4: "[RO] reenen",
+    t11_q: "[RO] Welches Wort ist richtig geschrieben?",
+    t11_qa: "[RO] Straße", t11_qb: "[RO] Strasse", t11_qc: "[RO] Strasse", t11_qd: "[RO] Strase",
+
+    // T12: Wörter mit -tsch-
+    t12_title: "[RO] Das -tsch- in der Mitte",
+    t12_text: "[RO] Wörter wie 'putsch', 'umschwung' oder 'rutsch' haben das Laut-Kombination -tsch-. Das ist ein deutscher Trick!",
+    t12_b1: "[RO] tsch = Laut-Kombination",
+    t12_b2: "[RO] Deutsch, Putsch, Rutsch",
+    t12_inst: "[RO] Welches Wort hat ein -tsch-?",
+    t12_h1: "[RO] Es klingt wie 'tsch'.",
+    t12_h2: "[RO] 'Deutsch' hat ein tsch",
+    t12_sent4: "[RO] Ich spreche ___.",
+    t12_c1: "[RO] Deutsch", t12_c2: "[RO] Deutch", t12_c3: "[RO] Deustch", t12_c4: "[RO] Deusch",
+    t12_q: "[RO] Wie schreiben wir 'Deutsch'?",
+    t12_qa: "[RO] Deutsch", t12_qb: "[RO] Deutch", t12_qc: "[RO] Teutsch", t12_qd: "[RO] Deustch",
+
+    // T13: Regel-Trainer Rechtschreibung
+    t13_title: "[RO] Regeltrainer",
+    t13_text: "[RO] Alle Regeln auf einmal! ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu. Das ist die große Rechtschreib-Party!",
+    t13_b1: "[RO] Alle Regeln zusammen",
+    t13_b2: "[RO] Denk an Merkwörter!",
+    t13_inst: "[RO] Bringe die Wörter in die richtige Reihenfolge!",
+    t13_h1: "[RO] Nomen groß, Verben klein.",
+    t13_h2: "[RO] Der Vogel fliegt über die Wiese.",
+    t13_f1: "[RO] Der Vogel", t13_f2: "[RO] fliegt", t13_f3: "[RO] über", t13_f4: "[RO] die Wiese.",
+    t13_q: "[RO] Welche Regel brauchst du für 'Vogel'?",
+    t13_qa: "[RO] Großschreibung (Nomen)", t13_qb: "[RO] ie/ei", t13_qc: "[RO] Doppelkonsonant", t13_qd: "[RO] qu-Regel",
+
+    // T14: Diktat-Vorbereitung
+    t14_title: "[RO] Diktat vorbereiten",
+    t14_text: "[RO] Jetzt geht's ums ganze: Kannst du hören und richtig schreiben? ie, ei, Doppelkonsonanten, Groß-Klein, Sonderzeichen - alles!",
+    t14_b1: "[RO] Aktiv hören ist wichtig.",
+    t14_b2: "[RO] Regeln immer vor Augen!",
+    t14_inst: "[RO] Welches Wort ist richtig geschrieben?",
+    t14_h1: "[RO] Höre auf die Vokale.",
+    t14_h2: "[RO] Biene (langes i = ie), Eis (Diphthong = ei)",
+    t14_sent5: "[RO] Die Biene sitzt auf der___.",
+    t14_c1: "[RO] Blume", t14_c2: "[RO] Blueme", t14_c3: "[RO] Blieme", t14_c4: "[RO] Bloeme",
+    t14_q: "[RO] Was ist bei Diktaten wichtig?",
+    t14_qa: "[RO] Aufmerksamkeit und Regeln", t14_qb: "[RO] Schnell schreiben", t14_qc: "[RO] Viel raten", t14_qd: "[RO] Fragen stellen",
+
+    // T15: Rechtschreib-Meister-Finale
+    t15_title: "[RO] Du bist ein Rechtschreib-Meister!",
+    t15_text: "[RO] Herzlichen Glückwunsch! Du kennst jetzt ALLE wichtigen Rechtschreib-Regeln. ie/ei, Doppelkonsonanten, Großschreibung, v/f, qu, ng/nk. Du schaffst jeden Fehler!",
+    t15_b1: "[RO] Alle Regeln gelernt!",
+    t15_b2: "[RO] Du bist bereit für das Diktat!",
+    t15_inst: "[RO] Welches Wort ist falsch geschrieben?",
+    t15_h1: "[RO] Suche den Fehler nach den Regeln.",
+    t15_h2: "[RO] Vater hat 'v', nicht 'f'!",
+    t15_sent6: "[RO] Mein ___ fährt viel Auto.",
+    t15_c1: "[RO] Vater", t15_c2: "[RO] Fater", t15_c3: "[RO] Vather", t15_c4: "[RO] Fether",
+    t15_q: "[RO] Wie heißt dieser Lernprozess?",
+    t15_qa: "[RO] Rechtschreib-Regeln lernen", t15_qb: "[RO] Lesen lernen", t15_qc: "[RO] Sätze bilden", t15_qd: "[RO] Grammatik",
+  
   }
 };
 
@@ -3265,6 +7087,312 @@ export const ZEICHEN_LABELS: Record<string, Record<string, string>> = {
     t13_title: "Komma bei Nebensätzen", t13_text: "Hauptsatz, Nebensatz - Komma dazwischen!", t13_inst: "Setze das Komma!", t13_h1: "Weil/wenn/dass = Komma davor", t13_h2: "Ich lese, weil ich mag es", t13_sent6: "Das Kind weint___ weil es müde ist.", t13_c1: ",", t13_c2: ".", t13_c3: "?", t13_c4: "!", t13_q: "Haupt + Nebensatz?", t13_qa: "Komma trennt", t13_qb: "Punkt trennt", t13_qc: "? trennt", t13_qd: "Gar nicht",
     t14_title: "Der Apostroph", t14_text: "Apostroph zeigt fehlende Buchstaben: Könnt' (Könntet)", t14_inst: "Wo ist der Apostroph?", t14_h1: "Ein Buchstabe fehlt", t14_h2: "Apostroph markiert das", t14_sent7: "Mama___ Auto ist schön.", t14_c1: "'s", t14_c2: "s'", t14_c3: "'", t14_c4: "s", t14_q: "Apostroph zeigt?", t14_qa: "Fehlende Buchstaben", t14_qb: "Fragen", t14_qc: "Gefühle", t14_qd: "Listen",
     t15_title: "Satzzeichen-Meister!", t15_text: "Punkt, ?, !, Komma, Anführungszeichen - du kennst alle!", t15_inst: "Setze die Satzzeichen!", t15_h1: "Denk an alle Regeln", t15_h2: "Aussage (.), Frage (?), Gefühl (!)", t15_sent8: "Wie geht es___ Mir geht es gut___ Das freut mich___", t15_c1: "? . !", t15_c2: ". . .", t15_c3: "! ! !", t15_c4: ", , ,", t15_q: "Satzzeichen geben?", t15_qa: "Struktur und Klarheit", t15_qb: "Länge", t15_qc: "Farbe", t15_qd: "Ton",
+  },
+  en: {
+
+    explorer_title: "[EN] Satzzeichen-Experte",
+
+    // T1: Komma bei Aufzählungen
+    t1_title: "[EN] Das Komma bei Aufzählungen",
+    t1_text: "[EN] Wenn wir viele Dinge nacheinander aufzählen, trennen wir sie mit einem Komma. Nur vor dem letzten Wort steht ein 'und' statt eines Kommas.",
+    t1_b1: "[EN] Komma trennt Wörter in einer Liste.",
+    t1_b2: "[EN] Vor dem 'und' steht kein Komma.",
+    t1_inst: "[EN] Wo müssen die Kommas hin?",
+    t1_h1: "[EN] Setze ein Komma zwischen die Früchte.",
+    t1_h2: "[EN] Apfel, Birne, Melone und Banane.",
+    t1_sent: "[EN] Ich mag Äpfel ___ Birnen ___ Melonen und Bananen.",
+    t1_c1: "[EN] , / ,", t1_c2: "[EN] , / und", t1_c3: "[EN] und / ,", t1_c4: "[EN] . / .",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T2: Die wörtliche Rede (Anführungszeichen)
+    t2_title: "[EN] Die wörtliche Rede",
+    t2_text: 'Wenn jemand etwas sagt, benutzen wir Anführungszeichen. Sie umschließen das, was gesprochen wird: "[EN] Ich spiele gerne Fußball", sagt Tim.',
+    t2_b1: 'Unten fangen sie an: "',
+    t2_b2: 'Oben hören sie auf: "',
+    t2_inst: "[EN] Finde die Redezeichen im Satz!",
+    t2_h1: "[EN] Suche die Gänsefüßchen am Anfang und Ende des Gesagten.",
+    t2_h2: '"Hallo" ist die wörtliche Rede.',
+    t2_w1: '"Hallo"', t2_w2: "[EN] ruft", t2_w3: "[EN] die", t2_w4: "[EN] Mutter", t2_w5: "[EN] .",
+    // Quiz: MANUAL
+    t2_q: "[EN] Wo stehen die ersten Anführungszeichen bei der wörtlichen Rede?",
+    t2_qa: "[EN] Unten vor dem ersten Wort", t2_qb: "[EN] Oben nach dem letzten Wort", t2_qc: "[EN] Mitten im Wort", t2_qd: "[EN] Hinter dem Punkt",
+
+    // T3: Der Begleitsatz (Doppelpunkt)
+    t3_title: "[EN] Der Doppelpunkt",
+    t3_text: "[EN] Wenn der Begleitsatz am Anfang steht, brauchen wir einen Doppelpunkt (:). Er kündigt an: Jetzt sagt jemand etwas!",
+    t3_b1: "[EN] Begleitsatz + Doppelpunkt + Rede.",
+    t3_b2: 'Beispiel: Tim sagt: "[EN] Hallo!"',
+    t3_inst: "[EN] Verbinde den Begleitsatz mit der passenden Rede!",
+    t3_h1: "[EN] Wer sagt was? Achte auf den Doppelpunkt.",
+    t3_h2: 'Mama sagt: -> "Essen ist fertig!"',
+    t3_l1: "[EN] Mama sagt:", t3_r1: "[EN] \"Essen ist fertig!\"",
+    t3_l2: "[EN] Der Lehrer fragt:", t3_r2: "[EN] \"Seid ihr bereit?\"",
+    t3_l3: "[EN] Leo ruft:", t3_r3: "[EN] \"Tor für uns!\"",
+    t3_l4: "[EN] Papa flüstert:", t3_r4: "[EN] \"Schlaf gut.\"",
+    // Quiz: MANUAL
+    t3_q: "[EN] Welches Zeichen steht nach dem Begleitsatz 'Er sagt'?",
+    t3_qa: "[EN] Doppelpunkt (:)", t3_qb: "[EN] Komma (,)", t3_qc: "[EN] Punkt (.)", t3_qd: "[EN] Fragezeichen (?)",
+
+    // T4: Satzzeichen-Mix
+    t4_title: "[EN] Satzzeichen-Mix",
+    t4_text: "[EN] Kannst du alle Zeichen richtig zuordnen? Punkt, Komma, Fragezeichen und Ausrufezeichen haben alle einen Job!",
+    t4_b1: "[EN] . = Erzählen",
+    t4_b2: "[EN] , = Trennen",
+    t4_b3: "[EN] ? = Fragen",
+    t4_inst: "[EN] Sortiere die Zeichen in die richtigen Töpfe!",
+    t4_h1: "[EN] Was beendet einen Satz und was steht in der Mitte?",
+    t4_h2: "[EN] Punkt/Fragezeichen sind am Ende. Komma ist in der Mitte.",
+    t4_bm: "[EN] Satzmitte ↔️", t4_be: "[EN] Satzende 🛑",
+    t4_i1: "[EN] Komma", t4_i2: "[EN] Punkt", t4_i3: "[EN] Fragezeichen", t4_i4: "[EN] Ausrufezeichen",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T5: Redezeichen-Check
+    t5_title: "[EN] Redezeichen-Check",
+    t5_text: "[EN] Achtung! Bei der wörtlichen Rede müssen die Zeichen an der richtigen Stelle stehen. Erst der Doppelpunkt, dann die Gänsefüßchen unten.",
+    t5_b1: 'Reihenfolge: : ➔ " ➔ "',
+    t5_inst: "[EN] Welches Satzzeichen fehlt hier?",
+    t5_h1: "[EN] Nach 'Er sagt' fehlt der Doppelpunkt.",
+    t5_h2: "[EN] Wähle den Doppelpunkt (:).",
+    t5_sent_r: "[EN] Sie antwortet ___ \"Ja, gerne.\"",
+    t5_cr1: "[EN] :", t5_cr2: "[EN] ,", t5_cr3: "[EN] .", t5_cr4: "[EN] !",
+    // Quiz: MANUAL
+    t5_q: "[EN] Was umschließt das, was jemand sagt?",
+    t5_qa: "[EN] Anführungszeichen", t5_qb: "[EN] Klammern", t5_qc: "[EN] Kommas", t5_qd: "[EN] Doppelpunkte",
+
+    // T6: Die Aufzählung bauen
+    t6_title: "[EN] Die Aufzählung bauen",
+    t6_text: "[EN] Bringe die Wörter und Satzzeichen in die richtige Reihenfolge für eine perfekte Aufzählung.",
+    t6_b1: "[EN] Komma, Komma, und.",
+    t6_inst: "[EN] Ordne die Bausteine!",
+    t6_h1: "[EN] Nenne die Farben nacheinander mit Komma dazwischen.",
+    t6_h2: "[EN] Rot, Blau, Gelb und Grün.",
+    t6_o1: "[EN] Rot,", t6_o2: "[EN] Blau,", t6_o3: "[EN] Gelb", t6_o4: "[EN] und Grün.",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T7: Satzzeichen-Meister
+    t7_title: "[EN] Satzzeichen-Meister",
+    t7_text: "[EN] Du bist nun ein Meister der Zeichen! Ob Aufzählung oder Rede - du weißt, wo der Punkt, das Komma und die Anführungszeichen hingehören.",
+    t7_b1: "[EN] Satzzeichen geben dem Satz Struktur.",
+    t7_inst: "[EN] Baue diesen Satz mit wörtlicher Rede richtig zusammen!",
+    t7_h1: "[EN] Begleitsatz zuerst: Tim sagt:",
+    t7_h2: 'Tim sagt: "[EN] Ich komme."',
+    t7_f1: "[EN] Tim sagt:", t7_f2: '"Ich', t7_f3: "[EN] komme", t7_f4: 'baldt."',
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T8-T15: Manual quiz (no generators) to vary sentences each time
+    t8_title: "[EN] Der Punkt", t8_text: "[EN] Aussagesätze enden mit Punkt.", t8_inst: "[EN] Wo ist der Punkt?", t8_h1: "[EN] Am Ende", t8_h2: "[EN] Punkt.", t8_sent: "[EN] Das Kind spielt___", t8_c1: "[EN] .", t8_c2: "[EN] ?", t8_c3: "[EN] !", t8_c4: "[EN] ,", t8_q: "[EN] Satzende?", t8_qa: "[EN] .", t8_qb: "[EN] ?", t8_qc: "[EN] !", t8_qd: "[EN] ,",
+    t9_title: "[EN] Das Fragezeichen", t9_text: "[EN] Fragen enden mit ?", t9_inst: "[EN] Finde die Frage!", t9_h1: "[EN] Ist es eine Frage?", t9_h2: "[EN] Fragezeichen", t9_sent2: "[EN] Wo wohnst du___", t9_c1: "[EN] ?", t9_c2: "[EN] .", t9_c3: "[EN] !", t9_c4: "[EN] ,", t9_q: "[EN] Frage-Zeichen?", t9_qa: "[EN] ?", t9_qb: "[EN] .", t9_qc: "[EN] !", t9_qd: "[EN] ,",
+    t10_title: "[EN] Das Ausrufezeichen", t10_text: "[EN] Gefühle und Befehle enden mit !", t10_inst: "[EN] Was ist emotional?", t10_h1: "[EN] Starke Gefühle", t10_h2: "[EN] Hilfe!", t10_sent3: "[EN] Das ist wunderbar___", t10_c1: "[EN] !", t10_c2: "[EN] .", t10_c3: "[EN] ?", t10_c4: "[EN] ,", t10_q: "[EN] Gefühl-Zeichen?", t10_qa: "[EN] !", t10_qb: "[EN] .", t10_qc: "[EN] ?", t10_qd: "[EN] ,",
+    t11_title: "[EN] Komma in Aufzählungen", t11_text: "[EN] Wörter in Listen: A, B, C und D", t11_inst: "[EN] Wo sind die Kommas?", t11_h1: "[EN] Zwischen Wörtern", t11_h2: "[EN] Rot, Blau, Gelb", t11_sent4: "[EN] Katzen___ Hunde___ Vögel", t11_c1: "[EN] , ,", t11_c2: "[EN] . .", t11_c3: "[EN] ? ?", t11_c4: "[EN] ! !", t11_q: "[EN] Aufzählung trennen?", t11_qa: "[EN] Mit Kommas", t11_qb: "[EN] Mit Punkten", t11_qc: "[EN] Mit ?", t11_qd: "[EN] Gar nicht",
+    t12_title: "[EN] Wörtliche Rede", t12_text: 'Direkte Rede: "[EN] Hallo!" in Anführungszeichen', t12_inst: "[EN] Wo sind die Anführungszeichen?", t12_h1: "[EN] Um die Worte herum", t12_h2: 'Anna: "[EN] Hallo!"', t12_sent5: "[EN] Tim sagt___ Komm mit___", t12_c1: ': " ... "', t12_c2: "[EN] ( ... )", t12_c3: "[EN] - ... -", t12_c4: "[EN] * ... *", t12_q: "[EN] Direkte Rede nutzt?", t12_qa: "[EN] Anführungszeichen", t12_qb: "[EN] Nur Kommas", t12_qc: "[EN] Klammern", t12_qd: "[EN] Striche",
+    t13_title: "[EN] Komma bei Nebensätzen", t13_text: "[EN] Hauptsatz, Nebensatz - Komma dazwischen!", t13_inst: "[EN] Setze das Komma!", t13_h1: "[EN] Weil/wenn/dass = Komma davor", t13_h2: "[EN] Ich lese, weil ich mag es", t13_sent6: "[EN] Das Kind weint___ weil es müde ist.", t13_c1: "[EN] ,", t13_c2: "[EN] .", t13_c3: "[EN] ?", t13_c4: "[EN] !", t13_q: "[EN] Haupt + Nebensatz?", t13_qa: "[EN] Komma trennt", t13_qb: "[EN] Punkt trennt", t13_qc: "[EN] ? trennt", t13_qd: "[EN] Gar nicht",
+    t14_title: "[EN] Der Apostroph", t14_text: "[EN] Apostroph zeigt fehlende Buchstaben: Könnt' (Könntet)", t14_inst: "[EN] Wo ist der Apostroph?", t14_h1: "[EN] Ein Buchstabe fehlt", t14_h2: "[EN] Apostroph markiert das", t14_sent7: "[EN] Mama___ Auto ist schön.", t14_c1: "[EN] 's", t14_c2: "[EN] s'", t14_c3: "[EN] '", t14_c4: "[EN] s", t14_q: "[EN] Apostroph zeigt?", t14_qa: "[EN] Fehlende Buchstaben", t14_qb: "[EN] Fragen", t14_qc: "[EN] Gefühle", t14_qd: "[EN] Listen",
+    t15_title: "[EN] Satzzeichen-Meister!", t15_text: "[EN] Punkt, ?, !, Komma, Anführungszeichen - du kennst alle!", t15_inst: "[EN] Setze die Satzzeichen!", t15_h1: "[EN] Denk an alle Regeln", t15_h2: "[EN] Aussage (.), Frage (?), Gefühl (!)", t15_sent8: "[EN] Wie geht es___ Mir geht es gut___ Das freut mich___", t15_c1: "[EN] ? . !", t15_c2: "[EN] . . .", t15_c3: "[EN] ! ! !", t15_c4: "[EN] , , ,", t15_q: "[EN] Satzzeichen geben?", t15_qa: "[EN] Struktur und Klarheit", t15_qb: "[EN] Länge", t15_qc: "[EN] Farbe", t15_qd: "[EN] Ton",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Satzzeichen-Experte",
+
+    // T1: Komma bei Aufzählungen
+    t1_title: "[HU] Das Komma bei Aufzählungen",
+    t1_text: "[HU] Wenn wir viele Dinge nacheinander aufzählen, trennen wir sie mit einem Komma. Nur vor dem letzten Wort steht ein 'und' statt eines Kommas.",
+    t1_b1: "[HU] Komma trennt Wörter in einer Liste.",
+    t1_b2: "[HU] Vor dem 'und' steht kein Komma.",
+    t1_inst: "[HU] Wo müssen die Kommas hin?",
+    t1_h1: "[HU] Setze ein Komma zwischen die Früchte.",
+    t1_h2: "[HU] Apfel, Birne, Melone und Banane.",
+    t1_sent: "[HU] Ich mag Äpfel ___ Birnen ___ Melonen und Bananen.",
+    t1_c1: "[HU] , / ,", t1_c2: "[HU] , / und", t1_c3: "[HU] und / ,", t1_c4: "[HU] . / .",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T2: Die wörtliche Rede (Anführungszeichen)
+    t2_title: "[HU] Die wörtliche Rede",
+    t2_text: 'Wenn jemand etwas sagt, benutzen wir Anführungszeichen. Sie umschließen das, was gesprochen wird: "[HU] Ich spiele gerne Fußball", sagt Tim.',
+    t2_b1: 'Unten fangen sie an: "',
+    t2_b2: 'Oben hören sie auf: "',
+    t2_inst: "[HU] Finde die Redezeichen im Satz!",
+    t2_h1: "[HU] Suche die Gänsefüßchen am Anfang und Ende des Gesagten.",
+    t2_h2: '"Hallo" ist die wörtliche Rede.',
+    t2_w1: '"Hallo"', t2_w2: "[HU] ruft", t2_w3: "[HU] die", t2_w4: "[HU] Mutter", t2_w5: "[HU] .",
+    // Quiz: MANUAL
+    t2_q: "[HU] Wo stehen die ersten Anführungszeichen bei der wörtlichen Rede?",
+    t2_qa: "[HU] Unten vor dem ersten Wort", t2_qb: "[HU] Oben nach dem letzten Wort", t2_qc: "[HU] Mitten im Wort", t2_qd: "[HU] Hinter dem Punkt",
+
+    // T3: Der Begleitsatz (Doppelpunkt)
+    t3_title: "[HU] Der Doppelpunkt",
+    t3_text: "[HU] Wenn der Begleitsatz am Anfang steht, brauchen wir einen Doppelpunkt (:). Er kündigt an: Jetzt sagt jemand etwas!",
+    t3_b1: "[HU] Begleitsatz + Doppelpunkt + Rede.",
+    t3_b2: 'Beispiel: Tim sagt: "[HU] Hallo!"',
+    t3_inst: "[HU] Verbinde den Begleitsatz mit der passenden Rede!",
+    t3_h1: "[HU] Wer sagt was? Achte auf den Doppelpunkt.",
+    t3_h2: 'Mama sagt: -> "Essen ist fertig!"',
+    t3_l1: "[HU] Mama sagt:", t3_r1: "[HU] \"Essen ist fertig!\"",
+    t3_l2: "[HU] Der Lehrer fragt:", t3_r2: "[HU] \"Seid ihr bereit?\"",
+    t3_l3: "[HU] Leo ruft:", t3_r3: "[HU] \"Tor für uns!\"",
+    t3_l4: "[HU] Papa flüstert:", t3_r4: "[HU] \"Schlaf gut.\"",
+    // Quiz: MANUAL
+    t3_q: "[HU] Welches Zeichen steht nach dem Begleitsatz 'Er sagt'?",
+    t3_qa: "[HU] Doppelpunkt (:)", t3_qb: "[HU] Komma (,)", t3_qc: "[HU] Punkt (.)", t3_qd: "[HU] Fragezeichen (?)",
+
+    // T4: Satzzeichen-Mix
+    t4_title: "[HU] Satzzeichen-Mix",
+    t4_text: "[HU] Kannst du alle Zeichen richtig zuordnen? Punkt, Komma, Fragezeichen und Ausrufezeichen haben alle einen Job!",
+    t4_b1: "[HU] . = Erzählen",
+    t4_b2: "[HU] , = Trennen",
+    t4_b3: "[HU] ? = Fragen",
+    t4_inst: "[HU] Sortiere die Zeichen in die richtigen Töpfe!",
+    t4_h1: "[HU] Was beendet einen Satz und was steht in der Mitte?",
+    t4_h2: "[HU] Punkt/Fragezeichen sind am Ende. Komma ist in der Mitte.",
+    t4_bm: "[HU] Satzmitte ↔️", t4_be: "[HU] Satzende 🛑",
+    t4_i1: "[HU] Komma", t4_i2: "[HU] Punkt", t4_i3: "[HU] Fragezeichen", t4_i4: "[HU] Ausrufezeichen",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T5: Redezeichen-Check
+    t5_title: "[HU] Redezeichen-Check",
+    t5_text: "[HU] Achtung! Bei der wörtlichen Rede müssen die Zeichen an der richtigen Stelle stehen. Erst der Doppelpunkt, dann die Gänsefüßchen unten.",
+    t5_b1: 'Reihenfolge: : ➔ " ➔ "',
+    t5_inst: "[HU] Welches Satzzeichen fehlt hier?",
+    t5_h1: "[HU] Nach 'Er sagt' fehlt der Doppelpunkt.",
+    t5_h2: "[HU] Wähle den Doppelpunkt (:).",
+    t5_sent_r: "[HU] Sie antwortet ___ \"Ja, gerne.\"",
+    t5_cr1: "[HU] :", t5_cr2: "[HU] ,", t5_cr3: "[HU] .", t5_cr4: "[HU] !",
+    // Quiz: MANUAL
+    t5_q: "[HU] Was umschließt das, was jemand sagt?",
+    t5_qa: "[HU] Anführungszeichen", t5_qb: "[HU] Klammern", t5_qc: "[HU] Kommas", t5_qd: "[HU] Doppelpunkte",
+
+    // T6: Die Aufzählung bauen
+    t6_title: "[HU] Die Aufzählung bauen",
+    t6_text: "[HU] Bringe die Wörter und Satzzeichen in die richtige Reihenfolge für eine perfekte Aufzählung.",
+    t6_b1: "[HU] Komma, Komma, und.",
+    t6_inst: "[HU] Ordne die Bausteine!",
+    t6_h1: "[HU] Nenne die Farben nacheinander mit Komma dazwischen.",
+    t6_h2: "[HU] Rot, Blau, Gelb und Grün.",
+    t6_o1: "[HU] Rot,", t6_o2: "[HU] Blau,", t6_o3: "[HU] Gelb", t6_o4: "[HU] und Grün.",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T7: Satzzeichen-Meister
+    t7_title: "[HU] Satzzeichen-Meister",
+    t7_text: "[HU] Du bist nun ein Meister der Zeichen! Ob Aufzählung oder Rede - du weißt, wo der Punkt, das Komma und die Anführungszeichen hingehören.",
+    t7_b1: "[HU] Satzzeichen geben dem Satz Struktur.",
+    t7_inst: "[HU] Baue diesen Satz mit wörtlicher Rede richtig zusammen!",
+    t7_h1: "[HU] Begleitsatz zuerst: Tim sagt:",
+    t7_h2: 'Tim sagt: "[HU] Ich komme."',
+    t7_f1: "[HU] Tim sagt:", t7_f2: '"Ich', t7_f3: "[HU] komme", t7_f4: 'baldt."',
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T8-T15: Manual quiz (no generators) to vary sentences each time
+    t8_title: "[HU] Der Punkt", t8_text: "[HU] Aussagesätze enden mit Punkt.", t8_inst: "[HU] Wo ist der Punkt?", t8_h1: "[HU] Am Ende", t8_h2: "[HU] Punkt.", t8_sent: "[HU] Das Kind spielt___", t8_c1: "[HU] .", t8_c2: "[HU] ?", t8_c3: "[HU] !", t8_c4: "[HU] ,", t8_q: "[HU] Satzende?", t8_qa: "[HU] .", t8_qb: "[HU] ?", t8_qc: "[HU] !", t8_qd: "[HU] ,",
+    t9_title: "[HU] Das Fragezeichen", t9_text: "[HU] Fragen enden mit ?", t9_inst: "[HU] Finde die Frage!", t9_h1: "[HU] Ist es eine Frage?", t9_h2: "[HU] Fragezeichen", t9_sent2: "[HU] Wo wohnst du___", t9_c1: "[HU] ?", t9_c2: "[HU] .", t9_c3: "[HU] !", t9_c4: "[HU] ,", t9_q: "[HU] Frage-Zeichen?", t9_qa: "[HU] ?", t9_qb: "[HU] .", t9_qc: "[HU] !", t9_qd: "[HU] ,",
+    t10_title: "[HU] Das Ausrufezeichen", t10_text: "[HU] Gefühle und Befehle enden mit !", t10_inst: "[HU] Was ist emotional?", t10_h1: "[HU] Starke Gefühle", t10_h2: "[HU] Hilfe!", t10_sent3: "[HU] Das ist wunderbar___", t10_c1: "[HU] !", t10_c2: "[HU] .", t10_c3: "[HU] ?", t10_c4: "[HU] ,", t10_q: "[HU] Gefühl-Zeichen?", t10_qa: "[HU] !", t10_qb: "[HU] .", t10_qc: "[HU] ?", t10_qd: "[HU] ,",
+    t11_title: "[HU] Komma in Aufzählungen", t11_text: "[HU] Wörter in Listen: A, B, C und D", t11_inst: "[HU] Wo sind die Kommas?", t11_h1: "[HU] Zwischen Wörtern", t11_h2: "[HU] Rot, Blau, Gelb", t11_sent4: "[HU] Katzen___ Hunde___ Vögel", t11_c1: "[HU] , ,", t11_c2: "[HU] . .", t11_c3: "[HU] ? ?", t11_c4: "[HU] ! !", t11_q: "[HU] Aufzählung trennen?", t11_qa: "[HU] Mit Kommas", t11_qb: "[HU] Mit Punkten", t11_qc: "[HU] Mit ?", t11_qd: "[HU] Gar nicht",
+    t12_title: "[HU] Wörtliche Rede", t12_text: 'Direkte Rede: "[HU] Hallo!" in Anführungszeichen', t12_inst: "[HU] Wo sind die Anführungszeichen?", t12_h1: "[HU] Um die Worte herum", t12_h2: 'Anna: "[HU] Hallo!"', t12_sent5: "[HU] Tim sagt___ Komm mit___", t12_c1: ': " ... "', t12_c2: "[HU] ( ... )", t12_c3: "[HU] - ... -", t12_c4: "[HU] * ... *", t12_q: "[HU] Direkte Rede nutzt?", t12_qa: "[HU] Anführungszeichen", t12_qb: "[HU] Nur Kommas", t12_qc: "[HU] Klammern", t12_qd: "[HU] Striche",
+    t13_title: "[HU] Komma bei Nebensätzen", t13_text: "[HU] Hauptsatz, Nebensatz - Komma dazwischen!", t13_inst: "[HU] Setze das Komma!", t13_h1: "[HU] Weil/wenn/dass = Komma davor", t13_h2: "[HU] Ich lese, weil ich mag es", t13_sent6: "[HU] Das Kind weint___ weil es müde ist.", t13_c1: "[HU] ,", t13_c2: "[HU] .", t13_c3: "[HU] ?", t13_c4: "[HU] !", t13_q: "[HU] Haupt + Nebensatz?", t13_qa: "[HU] Komma trennt", t13_qb: "[HU] Punkt trennt", t13_qc: "[HU] ? trennt", t13_qd: "[HU] Gar nicht",
+    t14_title: "[HU] Der Apostroph", t14_text: "[HU] Apostroph zeigt fehlende Buchstaben: Könnt' (Könntet)", t14_inst: "[HU] Wo ist der Apostroph?", t14_h1: "[HU] Ein Buchstabe fehlt", t14_h2: "[HU] Apostroph markiert das", t14_sent7: "[HU] Mama___ Auto ist schön.", t14_c1: "[HU] 's", t14_c2: "[HU] s'", t14_c3: "[HU] '", t14_c4: "[HU] s", t14_q: "[HU] Apostroph zeigt?", t14_qa: "[HU] Fehlende Buchstaben", t14_qb: "[HU] Fragen", t14_qc: "[HU] Gefühle", t14_qd: "[HU] Listen",
+    t15_title: "[HU] Satzzeichen-Meister!", t15_text: "[HU] Punkt, ?, !, Komma, Anführungszeichen - du kennst alle!", t15_inst: "[HU] Setze die Satzzeichen!", t15_h1: "[HU] Denk an alle Regeln", t15_h2: "[HU] Aussage (.), Frage (?), Gefühl (!)", t15_sent8: "[HU] Wie geht es___ Mir geht es gut___ Das freut mich___", t15_c1: "[HU] ? . !", t15_c2: "[HU] . . .", t15_c3: "[HU] ! ! !", t15_c4: "[HU] , , ,", t15_q: "[HU] Satzzeichen geben?", t15_qa: "[HU] Struktur und Klarheit", t15_qb: "[HU] Länge", t15_qc: "[HU] Farbe", t15_qd: "[HU] Ton",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Satzzeichen-Experte",
+
+    // T1: Komma bei Aufzählungen
+    t1_title: "[RO] Das Komma bei Aufzählungen",
+    t1_text: "[RO] Wenn wir viele Dinge nacheinander aufzählen, trennen wir sie mit einem Komma. Nur vor dem letzten Wort steht ein 'und' statt eines Kommas.",
+    t1_b1: "[RO] Komma trennt Wörter in einer Liste.",
+    t1_b2: "[RO] Vor dem 'und' steht kein Komma.",
+    t1_inst: "[RO] Wo müssen die Kommas hin?",
+    t1_h1: "[RO] Setze ein Komma zwischen die Früchte.",
+    t1_h2: "[RO] Apfel, Birne, Melone und Banane.",
+    t1_sent: "[RO] Ich mag Äpfel ___ Birnen ___ Melonen und Bananen.",
+    t1_c1: "[RO] , / ,", t1_c2: "[RO] , / und", t1_c3: "[RO] und / ,", t1_c4: "[RO] . / .",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T2: Die wörtliche Rede (Anführungszeichen)
+    t2_title: "[RO] Die wörtliche Rede",
+    t2_text: 'Wenn jemand etwas sagt, benutzen wir Anführungszeichen. Sie umschließen das, was gesprochen wird: "[RO] Ich spiele gerne Fußball", sagt Tim.',
+    t2_b1: 'Unten fangen sie an: "',
+    t2_b2: 'Oben hören sie auf: "',
+    t2_inst: "[RO] Finde die Redezeichen im Satz!",
+    t2_h1: "[RO] Suche die Gänsefüßchen am Anfang und Ende des Gesagten.",
+    t2_h2: '"Hallo" ist die wörtliche Rede.',
+    t2_w1: '"Hallo"', t2_w2: "[RO] ruft", t2_w3: "[RO] die", t2_w4: "[RO] Mutter", t2_w5: "[RO] .",
+    // Quiz: MANUAL
+    t2_q: "[RO] Wo stehen die ersten Anführungszeichen bei der wörtlichen Rede?",
+    t2_qa: "[RO] Unten vor dem ersten Wort", t2_qb: "[RO] Oben nach dem letzten Wort", t2_qc: "[RO] Mitten im Wort", t2_qd: "[RO] Hinter dem Punkt",
+
+    // T3: Der Begleitsatz (Doppelpunkt)
+    t3_title: "[RO] Der Doppelpunkt",
+    t3_text: "[RO] Wenn der Begleitsatz am Anfang steht, brauchen wir einen Doppelpunkt (:). Er kündigt an: Jetzt sagt jemand etwas!",
+    t3_b1: "[RO] Begleitsatz + Doppelpunkt + Rede.",
+    t3_b2: 'Beispiel: Tim sagt: "[RO] Hallo!"',
+    t3_inst: "[RO] Verbinde den Begleitsatz mit der passenden Rede!",
+    t3_h1: "[RO] Wer sagt was? Achte auf den Doppelpunkt.",
+    t3_h2: 'Mama sagt: -> "Essen ist fertig!"',
+    t3_l1: "[RO] Mama sagt:", t3_r1: "[RO] \"Essen ist fertig!\"",
+    t3_l2: "[RO] Der Lehrer fragt:", t3_r2: "[RO] \"Seid ihr bereit?\"",
+    t3_l3: "[RO] Leo ruft:", t3_r3: "[RO] \"Tor für uns!\"",
+    t3_l4: "[RO] Papa flüstert:", t3_r4: "[RO] \"Schlaf gut.\"",
+    // Quiz: MANUAL
+    t3_q: "[RO] Welches Zeichen steht nach dem Begleitsatz 'Er sagt'?",
+    t3_qa: "[RO] Doppelpunkt (:)", t3_qb: "[RO] Komma (,)", t3_qc: "[RO] Punkt (.)", t3_qd: "[RO] Fragezeichen (?)",
+
+    // T4: Satzzeichen-Mix
+    t4_title: "[RO] Satzzeichen-Mix",
+    t4_text: "[RO] Kannst du alle Zeichen richtig zuordnen? Punkt, Komma, Fragezeichen und Ausrufezeichen haben alle einen Job!",
+    t4_b1: "[RO] . = Erzählen",
+    t4_b2: "[RO] , = Trennen",
+    t4_b3: "[RO] ? = Fragen",
+    t4_inst: "[RO] Sortiere die Zeichen in die richtigen Töpfe!",
+    t4_h1: "[RO] Was beendet einen Satz und was steht in der Mitte?",
+    t4_h2: "[RO] Punkt/Fragezeichen sind am Ende. Komma ist in der Mitte.",
+    t4_bm: "[RO] Satzmitte ↔️", t4_be: "[RO] Satzende 🛑",
+    t4_i1: "[RO] Komma", t4_i2: "[RO] Punkt", t4_i3: "[RO] Fragezeichen", t4_i4: "[RO] Ausrufezeichen",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T5: Redezeichen-Check
+    t5_title: "[RO] Redezeichen-Check",
+    t5_text: "[RO] Achtung! Bei der wörtlichen Rede müssen die Zeichen an der richtigen Stelle stehen. Erst der Doppelpunkt, dann die Gänsefüßchen unten.",
+    t5_b1: 'Reihenfolge: : ➔ " ➔ "',
+    t5_inst: "[RO] Welches Satzzeichen fehlt hier?",
+    t5_h1: "[RO] Nach 'Er sagt' fehlt der Doppelpunkt.",
+    t5_h2: "[RO] Wähle den Doppelpunkt (:).",
+    t5_sent_r: "[RO] Sie antwortet ___ \"Ja, gerne.\"",
+    t5_cr1: "[RO] :", t5_cr2: "[RO] ,", t5_cr3: "[RO] .", t5_cr4: "[RO] !",
+    // Quiz: MANUAL
+    t5_q: "[RO] Was umschließt das, was jemand sagt?",
+    t5_qa: "[RO] Anführungszeichen", t5_qb: "[RO] Klammern", t5_qc: "[RO] Kommas", t5_qd: "[RO] Doppelpunkte",
+
+    // T6: Die Aufzählung bauen
+    t6_title: "[RO] Die Aufzählung bauen",
+    t6_text: "[RO] Bringe die Wörter und Satzzeichen in die richtige Reihenfolge für eine perfekte Aufzählung.",
+    t6_b1: "[RO] Komma, Komma, und.",
+    t6_inst: "[RO] Ordne die Bausteine!",
+    t6_h1: "[RO] Nenne die Farben nacheinander mit Komma dazwischen.",
+    t6_h2: "[RO] Rot, Blau, Gelb und Grün.",
+    t6_o1: "[RO] Rot,", t6_o2: "[RO] Blau,", t6_o3: "[RO] Gelb", t6_o4: "[RO] und Grün.",
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T7: Satzzeichen-Meister
+    t7_title: "[RO] Satzzeichen-Meister",
+    t7_text: "[RO] Du bist nun ein Meister der Zeichen! Ob Aufzählung oder Rede - du weißt, wo der Punkt, das Komma und die Anführungszeichen hingehören.",
+    t7_b1: "[RO] Satzzeichen geben dem Satz Struktur.",
+    t7_inst: "[RO] Baue diesen Satz mit wörtlicher Rede richtig zusammen!",
+    t7_h1: "[RO] Begleitsatz zuerst: Tim sagt:",
+    t7_h2: 'Tim sagt: "[RO] Ich komme."',
+    t7_f1: "[RO] Tim sagt:", t7_f2: '"Ich', t7_f3: "[RO] komme", t7_f4: 'baldt."',
+    // Quiz: GENERATOR (satzzeichen_k1)
+
+    // T8-T15: Manual quiz (no generators) to vary sentences each time
+    t8_title: "[RO] Der Punkt", t8_text: "[RO] Aussagesätze enden mit Punkt.", t8_inst: "[RO] Wo ist der Punkt?", t8_h1: "[RO] Am Ende", t8_h2: "[RO] Punkt.", t8_sent: "[RO] Das Kind spielt___", t8_c1: "[RO] .", t8_c2: "[RO] ?", t8_c3: "[RO] !", t8_c4: "[RO] ,", t8_q: "[RO] Satzende?", t8_qa: "[RO] .", t8_qb: "[RO] ?", t8_qc: "[RO] !", t8_qd: "[RO] ,",
+    t9_title: "[RO] Das Fragezeichen", t9_text: "[RO] Fragen enden mit ?", t9_inst: "[RO] Finde die Frage!", t9_h1: "[RO] Ist es eine Frage?", t9_h2: "[RO] Fragezeichen", t9_sent2: "[RO] Wo wohnst du___", t9_c1: "[RO] ?", t9_c2: "[RO] .", t9_c3: "[RO] !", t9_c4: "[RO] ,", t9_q: "[RO] Frage-Zeichen?", t9_qa: "[RO] ?", t9_qb: "[RO] .", t9_qc: "[RO] !", t9_qd: "[RO] ,",
+    t10_title: "[RO] Das Ausrufezeichen", t10_text: "[RO] Gefühle und Befehle enden mit !", t10_inst: "[RO] Was ist emotional?", t10_h1: "[RO] Starke Gefühle", t10_h2: "[RO] Hilfe!", t10_sent3: "[RO] Das ist wunderbar___", t10_c1: "[RO] !", t10_c2: "[RO] .", t10_c3: "[RO] ?", t10_c4: "[RO] ,", t10_q: "[RO] Gefühl-Zeichen?", t10_qa: "[RO] !", t10_qb: "[RO] .", t10_qc: "[RO] ?", t10_qd: "[RO] ,",
+    t11_title: "[RO] Komma in Aufzählungen", t11_text: "[RO] Wörter in Listen: A, B, C und D", t11_inst: "[RO] Wo sind die Kommas?", t11_h1: "[RO] Zwischen Wörtern", t11_h2: "[RO] Rot, Blau, Gelb", t11_sent4: "[RO] Katzen___ Hunde___ Vögel", t11_c1: "[RO] , ,", t11_c2: "[RO] . .", t11_c3: "[RO] ? ?", t11_c4: "[RO] ! !", t11_q: "[RO] Aufzählung trennen?", t11_qa: "[RO] Mit Kommas", t11_qb: "[RO] Mit Punkten", t11_qc: "[RO] Mit ?", t11_qd: "[RO] Gar nicht",
+    t12_title: "[RO] Wörtliche Rede", t12_text: 'Direkte Rede: "[RO] Hallo!" in Anführungszeichen', t12_inst: "[RO] Wo sind die Anführungszeichen?", t12_h1: "[RO] Um die Worte herum", t12_h2: 'Anna: "[RO] Hallo!"', t12_sent5: "[RO] Tim sagt___ Komm mit___", t12_c1: ': " ... "', t12_c2: "[RO] ( ... )", t12_c3: "[RO] - ... -", t12_c4: "[RO] * ... *", t12_q: "[RO] Direkte Rede nutzt?", t12_qa: "[RO] Anführungszeichen", t12_qb: "[RO] Nur Kommas", t12_qc: "[RO] Klammern", t12_qd: "[RO] Striche",
+    t13_title: "[RO] Komma bei Nebensätzen", t13_text: "[RO] Hauptsatz, Nebensatz - Komma dazwischen!", t13_inst: "[RO] Setze das Komma!", t13_h1: "[RO] Weil/wenn/dass = Komma davor", t13_h2: "[RO] Ich lese, weil ich mag es", t13_sent6: "[RO] Das Kind weint___ weil es müde ist.", t13_c1: "[RO] ,", t13_c2: "[RO] .", t13_c3: "[RO] ?", t13_c4: "[RO] !", t13_q: "[RO] Haupt + Nebensatz?", t13_qa: "[RO] Komma trennt", t13_qb: "[RO] Punkt trennt", t13_qc: "[RO] ? trennt", t13_qd: "[RO] Gar nicht",
+    t14_title: "[RO] Der Apostroph", t14_text: "[RO] Apostroph zeigt fehlende Buchstaben: Könnt' (Könntet)", t14_inst: "[RO] Wo ist der Apostroph?", t14_h1: "[RO] Ein Buchstabe fehlt", t14_h2: "[RO] Apostroph markiert das", t14_sent7: "[RO] Mama___ Auto ist schön.", t14_c1: "[RO] 's", t14_c2: "[RO] s'", t14_c3: "[RO] '", t14_c4: "[RO] s", t14_q: "[RO] Apostroph zeigt?", t14_qa: "[RO] Fehlende Buchstaben", t14_qb: "[RO] Fragen", t14_qc: "[RO] Gefühle", t14_qd: "[RO] Listen",
+    t15_title: "[RO] Satzzeichen-Meister!", t15_text: "[RO] Punkt, ?, !, Komma, Anführungszeichen - du kennst alle!", t15_inst: "[RO] Setze die Satzzeichen!", t15_h1: "[RO] Denk an alle Regeln", t15_h2: "[RO] Aussage (.), Frage (?), Gefühl (!)", t15_sent8: "[RO] Wie geht es___ Mir geht es gut___ Das freut mich___", t15_c1: "[RO] ? . !", t15_c2: "[RO] . . .", t15_c3: "[RO] ! ! !", t15_c4: "[RO] , , ,", t15_q: "[RO] Satzzeichen geben?", t15_qa: "[RO] Struktur und Klarheit", t15_qb: "[RO] Länge", t15_qc: "[RO] Farbe", t15_qd: "[RO] Ton",
+  
   }
 };
 
@@ -3568,6 +7696,261 @@ export const EXAM3_LABELS: Record<string, Record<string, string>> = {
     t13_title: "Doppelkonsonanten", t13_text: "Kurzer Vokal ➔ doppelt! rennen, Tonne", t13_inst: "Ergänze richtig!", t13_h1: "Kurz = doppelt", t13_h2: "re-nn-en", t13_sent13: "Die Schüler ___ zur Schule.", t13_c13_1: "rennen", t13_c13_2: "renen", t13_c13_3: "rennen", t13_c13_4: "reenen",
     t14_title: "Großschreibung", t14_text: "Nomen sind GROSS! Alle anderen klein.", t14_inst: "Was ist großgeschrieben?", t14_h1: "Nur Nomen groß!", t14_h2: "Der Hund schläft.", t14_sent14: "Die ___ spielen im Park.", t14_c14_1: "Kinder", t14_c14_2: "kinder", t14_c14_3: "KINDER", t14_c14_4: "KinDer",
     t15_title: "K3-Finale: Alles zusammen!", t15_text: "Du kennst Plural, Verben, Steigerung, Satzglieder, Rechtschreibung und Zeichensetzung!", t15_inst: "Welches Wort ist richtig?", t15_h1: "Denk an alle Regeln.", t15_h2: "Keine einfache Antwort!", t15_sent15: "Die ___ sind ___ und ___.", t15_c15_1: "Kinder / schnell / glücklich", t15_c15_2: "kinder / schneller / glücklich", t15_c15_3: "Kinder / schneller / glücklich", t15_c15_4: "KINDER / Schnell / Glücklich",
+  },
+  en: {
+
+    explorer_title: "[EN] Große Prüfung K3",
+
+    // T1: Plural-Check (Alle Endungen)
+    t1_title: "[EN] Plural-Check",
+    t1_text: "[EN] Weißt du noch alle Plural-Endungen? -e, -er, -en, -s oder gar keine Endung. Teste dein Wissen!",
+    t1_b1: "[EN] Achte auf Umlaute (a ➔ ä).",
+    t1_inst: "[EN] Verbinde die Einzahl mit der richtigen Mehrzahl!",
+    t1_h1: "[EN] Überlege genau, wie das Wort als Gruppe heißt.",
+    t1_h2: "[EN] Hand ➔ Hände, Kind ➔ Kinder.",
+    t1_l1: "[EN] Hand", t1_r1: "[EN] Hände",
+    t1_l2: "[EN] Kind", t1_r2: "[EN] Kinder",
+    t1_l3: "[EN] Auto", t1_r3: "[EN] Autos",
+    t1_l4: "[EN] Blume", t1_r4: "[EN] Blumen",
+
+    // T2: Verb-Konjugation
+    t2_title: "[EN] Verb-Check",
+    t2_text: "[EN] ich, du, er, sie, es... Verben verändern ihre Endung je nachdem, wer etwas tut.",
+    t2_b1: "[EN] ich -e, du -st, er -t.",
+    t2_inst: "[EN] Welches Verb passt perfekt in die Lücke?",
+    t2_h1: "[EN] Schau dir das Pronomen am Anfang an.",
+    t2_h2: "[EN] Bei 'wir' brauchen wir die Grundform (-en).",
+    t2_sent: "[EN] Wir ___ heute zusammen Musik.",
+    t2_c1: "[EN] hören", t2_c2: "[EN] hörst", t2_c3: "[EN] hört", t2_c4: "[EN] höre",
+
+    // T3: Steigerung (Alles höher?)
+    t3_title: "[EN] Alles höher?",
+    t3_text: "[EN] Vergleichen macht Spaß! Schnell, schneller, am schnellsten. Kannst du die Stufen ordnen?",
+    t3_b1: "[EN] Grundform ➔ Komparativ ➔ Superlativ.",
+    t3_inst: "[EN] Bringe die Adjektive in die richtige Reihenfolge!",
+    t3_h1: "[EN] Fange klein an und werde immer mehr.",
+    t3_h2: "[EN] gut -> besser -> am besten.",
+    t3_o1: "[EN] gut", t3_o2: "[EN] besser", t3_o3: "[EN] am besten",
+
+    // T4: Satzglieder (Subjekt & Prädikat)
+    t4_title: "[EN] Satz-Baumeister",
+    t4_text: "[EN] Ein Satz braucht einen König (Subjekt) und einen Motor (Prädikat). Findest du sie?",
+    t4_b1: "[EN] Subjekt = Wer oder was?",
+    t4_b2: "[EN] Prädikat = Was passiert?",
+    t4_inst: "[EN] Finde das Subjekt (den König) im Satz!",
+    t4_h1: "[EN] Frage dich: WER kocht die Suppe?",
+    t4_h2: "[EN] Die Antwort ist 'Die Oma'.",
+    t4_w1: "[EN] Die Oma", t4_w2: "[EN] kocht", t4_w3: "[EN] eine", t4_w4: "[EN] Suppe", t4_w5: "[EN] .",
+
+    // T5: Präteritum (Märchenzeit)
+    t5_title: "[EN] Gestern war...",
+    t5_text: "[EN] Das Präteritum brauchen wir zum Erzählen. war, hatte, ging, lief.",
+    t5_b1: "[EN] Erzähl-Vergangenheit.",
+    t5_inst: "[EN] Welche Form steht im Präteritum?",
+    t5_h1: "[EN] Suche das Wort, das 'früher' bedeutet.",
+    t5_h2: "[EN] 'er rannte' ist Präteritum.",
+    t5_sent_p: "[EN] Er ___ schnell nach Hause.",
+    t5_cp1: "[EN] rannte", t5_cp2: "[EN] rennt", t5_cp3: "[EN] ist gerannt", t5_cp4: "[EN] rennen",
+
+    // T6: Perfekt (Was ist passiert?)
+    t6_title: "[EN] Was ist passiert?",
+    t6_text: "[EN] Das Perfekt bauen wir mit haben oder sein. Ich habe gespielt. Er ist gelaufen.",
+    t6_b1: "[EN] Hilfsverb + Partizip.",
+    t6_inst: "[EN] Baue den Satz im Perfekt zusammen!",
+    t6_h1: "[EN] Wer (Lisa), dann der Helfer (hat), dann was (ein Bild), dann das Ende (gemalt).",
+    t6_h2: "[EN] Lisa hat ein Bild gemalt.",
+    t6_f1: "[EN] Lisa", t6_f2: "[EN] hat", t6_f3: "[EN] ein Bild", t6_f4: "[EN] gemalt.",
+
+    // T7: Satzzeichen (Punkt und Komma)
+    t7_title: "[EN] Punkt und Komma",
+    t7_text: "[EN] Satzzeichen sind wichtig für die Ordnung. Vergiss das Komma bei Aufzählungen nicht!",
+    t7_b1: '. ? ! , : " "',
+    t7_inst: "[EN] Welches Satzzeichen fehlt hier?",
+    t7_h1: "[EN] Es ist eine Frage. Was kommt ans Ende?",
+    t7_h2: "[EN] Ein Fragezeichen (?) ist richtig.",
+    t7_sent_z: "[EN] Kommst du heute zu mir ___",
+    t7_cz1: "[EN] ?", t7_cz2: "[EN] .", t7_cz3: "[EN] !", t7_cz4: "[EN] ,",
+
+    // T8-T15: Review topics
+    t8_title: "[EN] Adjektive-Steigerung", t8_text: "[EN] klein ➔ kleiner ➔ am kleinsten", t8_inst: "[EN] Bilde die Steigerung!", t8_h1: "[EN] er und am ...sten", t8_h2: "[EN] gut -> besser -> am besten", t8_sent8: "[EN] Dieser Baum ist ___.", t8_c8_1: "[EN] am größten", t8_c8_2: "[EN] größer", t8_c8_3: "[EN] großest", t8_c8_4: "[EN] großes",
+    t9_title: "[EN] Verben Präteritum", t9_text: "[EN] spielen -> spielte, gehen -> ging", t9_inst: "[EN] Wähle Präteritum!", t9_h1: "[EN] Vergangenheit erzählt", t9_h2: "[EN] ich spielte", t9_sent9: "[EN] Der Junge ___ schnell.", t9_c9_1: "[EN] rannte", t9_c9_2: "[EN] rennt", t9_c9_3: "[EN] gerannt", t9_c9_4: "[EN] rennen",
+    t10_title: "[EN] Satzglieder", t10_text: "[EN] Subjekt, Prädikat, Objekt", t10_inst: "[EN] Was ist das Subjekt?", t10_h1: "[EN] Wer oder was tut es?", t10_h2: "[EN] Der Hund (Subjekt) bellt.", t10_sent10: "[EN] Die Katze schläft im Garten.", t10_c10_1: "[EN] Die Katze", t10_c10_2: "[EN] schläft", t10_c10_3: "[EN] im Garten", t10_c10_4: "[EN] .",
+    t11_title: "[EN] Rechtschreibung ie/ei", t11_text: "[EN] ie = langes i, ei = ai-Laut", t11_inst: "[EN] ie oder ei?", t11_h1: "[EN] Hör hin: ist es lang oder kurz?", t11_h2: "[EN] Biene (lang) = ie", t11_sent11: "[EN] D_se B___ne ist schön.", t11_c11_1: "[EN] ie / ie", t11_c11_2: "[EN] ei / ei", t11_c11_3: "[EN] ie / ei", t11_c11_4: "[EN] ei / ie",
+    t12_title: "[EN] Perfekt-Sätze", t12_text: "[EN] Ich habe gespielt. Sie sind gelaufen.", t12_inst: "[EN] Baue den Perfekt-Satz!", t12_h1: "[EN] Hilfsverb + Partizip am Ende", t12_h2: "[EN] Ich habe ein Buch gelesen.", t12_sent12: "[EN] Wir ___ zu Hause ___.", t12_c12_1: "[EN] sind / gekommen", t12_c12_2: "[EN] haben / gekommen", t12_c12_3: "[EN] haben / gehen", t12_c12_4: "[EN] bin / gemacht",
+    t13_title: "[EN] Doppelkonsonanten", t13_text: "[EN] Kurzer Vokal ➔ doppelt! rennen, Tonne", t13_inst: "[EN] Ergänze richtig!", t13_h1: "[EN] Kurz = doppelt", t13_h2: "[EN] re-nn-en", t13_sent13: "[EN] Die Schüler ___ zur Schule.", t13_c13_1: "[EN] rennen", t13_c13_2: "[EN] renen", t13_c13_3: "[EN] rennen", t13_c13_4: "[EN] reenen",
+    t14_title: "[EN] Großschreibung", t14_text: "[EN] Nomen sind GROSS! Alle anderen klein.", t14_inst: "[EN] Was ist großgeschrieben?", t14_h1: "[EN] Nur Nomen groß!", t14_h2: "[EN] Der Hund schläft.", t14_sent14: "[EN] Die ___ spielen im Park.", t14_c14_1: "[EN] Kinder", t14_c14_2: "[EN] kinder", t14_c14_3: "[EN] KINDER", t14_c14_4: "[EN] KinDer",
+    t15_title: "[EN] K3-Finale: Alles zusammen!", t15_text: "[EN] Du kennst Plural, Verben, Steigerung, Satzglieder, Rechtschreibung und Zeichensetzung!", t15_inst: "[EN] Welches Wort ist richtig?", t15_h1: "[EN] Denk an alle Regeln.", t15_h2: "[EN] Keine einfache Antwort!", t15_sent15: "[EN] Die ___ sind ___ und ___.", t15_c15_1: "[EN] Kinder / schnell / glücklich", t15_c15_2: "[EN] kinder / schneller / glücklich", t15_c15_3: "[EN] Kinder / schneller / glücklich", t15_c15_4: "[EN] KINDER / Schnell / Glücklich",
+  
+  },
+  hu: {
+
+    explorer_title: "[HU] Große Prüfung K3",
+
+    // T1: Plural-Check (Alle Endungen)
+    t1_title: "[HU] Plural-Check",
+    t1_text: "[HU] Weißt du noch alle Plural-Endungen? -e, -er, -en, -s oder gar keine Endung. Teste dein Wissen!",
+    t1_b1: "[HU] Achte auf Umlaute (a ➔ ä).",
+    t1_inst: "[HU] Verbinde die Einzahl mit der richtigen Mehrzahl!",
+    t1_h1: "[HU] Überlege genau, wie das Wort als Gruppe heißt.",
+    t1_h2: "[HU] Hand ➔ Hände, Kind ➔ Kinder.",
+    t1_l1: "[HU] Hand", t1_r1: "[HU] Hände",
+    t1_l2: "[HU] Kind", t1_r2: "[HU] Kinder",
+    t1_l3: "[HU] Auto", t1_r3: "[HU] Autos",
+    t1_l4: "[HU] Blume", t1_r4: "[HU] Blumen",
+
+    // T2: Verb-Konjugation
+    t2_title: "[HU] Verb-Check",
+    t2_text: "[HU] ich, du, er, sie, es... Verben verändern ihre Endung je nachdem, wer etwas tut.",
+    t2_b1: "[HU] ich -e, du -st, er -t.",
+    t2_inst: "[HU] Welches Verb passt perfekt in die Lücke?",
+    t2_h1: "[HU] Schau dir das Pronomen am Anfang an.",
+    t2_h2: "[HU] Bei 'wir' brauchen wir die Grundform (-en).",
+    t2_sent: "[HU] Wir ___ heute zusammen Musik.",
+    t2_c1: "[HU] hören", t2_c2: "[HU] hörst", t2_c3: "[HU] hört", t2_c4: "[HU] höre",
+
+    // T3: Steigerung (Alles höher?)
+    t3_title: "[HU] Alles höher?",
+    t3_text: "[HU] Vergleichen macht Spaß! Schnell, schneller, am schnellsten. Kannst du die Stufen ordnen?",
+    t3_b1: "[HU] Grundform ➔ Komparativ ➔ Superlativ.",
+    t3_inst: "[HU] Bringe die Adjektive in die richtige Reihenfolge!",
+    t3_h1: "[HU] Fange klein an und werde immer mehr.",
+    t3_h2: "[HU] gut -> besser -> am besten.",
+    t3_o1: "[HU] gut", t3_o2: "[HU] besser", t3_o3: "[HU] am besten",
+
+    // T4: Satzglieder (Subjekt & Prädikat)
+    t4_title: "[HU] Satz-Baumeister",
+    t4_text: "[HU] Ein Satz braucht einen König (Subjekt) und einen Motor (Prädikat). Findest du sie?",
+    t4_b1: "[HU] Subjekt = Wer oder was?",
+    t4_b2: "[HU] Prädikat = Was passiert?",
+    t4_inst: "[HU] Finde das Subjekt (den König) im Satz!",
+    t4_h1: "[HU] Frage dich: WER kocht die Suppe?",
+    t4_h2: "[HU] Die Antwort ist 'Die Oma'.",
+    t4_w1: "[HU] Die Oma", t4_w2: "[HU] kocht", t4_w3: "[HU] eine", t4_w4: "[HU] Suppe", t4_w5: "[HU] .",
+
+    // T5: Präteritum (Märchenzeit)
+    t5_title: "[HU] Gestern war...",
+    t5_text: "[HU] Das Präteritum brauchen wir zum Erzählen. war, hatte, ging, lief.",
+    t5_b1: "[HU] Erzähl-Vergangenheit.",
+    t5_inst: "[HU] Welche Form steht im Präteritum?",
+    t5_h1: "[HU] Suche das Wort, das 'früher' bedeutet.",
+    t5_h2: "[HU] 'er rannte' ist Präteritum.",
+    t5_sent_p: "[HU] Er ___ schnell nach Hause.",
+    t5_cp1: "[HU] rannte", t5_cp2: "[HU] rennt", t5_cp3: "[HU] ist gerannt", t5_cp4: "[HU] rennen",
+
+    // T6: Perfekt (Was ist passiert?)
+    t6_title: "[HU] Was ist passiert?",
+    t6_text: "[HU] Das Perfekt bauen wir mit haben oder sein. Ich habe gespielt. Er ist gelaufen.",
+    t6_b1: "[HU] Hilfsverb + Partizip.",
+    t6_inst: "[HU] Baue den Satz im Perfekt zusammen!",
+    t6_h1: "[HU] Wer (Lisa), dann der Helfer (hat), dann was (ein Bild), dann das Ende (gemalt).",
+    t6_h2: "[HU] Lisa hat ein Bild gemalt.",
+    t6_f1: "[HU] Lisa", t6_f2: "[HU] hat", t6_f3: "[HU] ein Bild", t6_f4: "[HU] gemalt.",
+
+    // T7: Satzzeichen (Punkt und Komma)
+    t7_title: "[HU] Punkt und Komma",
+    t7_text: "[HU] Satzzeichen sind wichtig für die Ordnung. Vergiss das Komma bei Aufzählungen nicht!",
+    t7_b1: '. ? ! , : " "',
+    t7_inst: "[HU] Welches Satzzeichen fehlt hier?",
+    t7_h1: "[HU] Es ist eine Frage. Was kommt ans Ende?",
+    t7_h2: "[HU] Ein Fragezeichen (?) ist richtig.",
+    t7_sent_z: "[HU] Kommst du heute zu mir ___",
+    t7_cz1: "[HU] ?", t7_cz2: "[HU] .", t7_cz3: "[HU] !", t7_cz4: "[HU] ,",
+
+    // T8-T15: Review topics
+    t8_title: "[HU] Adjektive-Steigerung", t8_text: "[HU] klein ➔ kleiner ➔ am kleinsten", t8_inst: "[HU] Bilde die Steigerung!", t8_h1: "[HU] er und am ...sten", t8_h2: "[HU] gut -> besser -> am besten", t8_sent8: "[HU] Dieser Baum ist ___.", t8_c8_1: "[HU] am größten", t8_c8_2: "[HU] größer", t8_c8_3: "[HU] großest", t8_c8_4: "[HU] großes",
+    t9_title: "[HU] Verben Präteritum", t9_text: "[HU] spielen -> spielte, gehen -> ging", t9_inst: "[HU] Wähle Präteritum!", t9_h1: "[HU] Vergangenheit erzählt", t9_h2: "[HU] ich spielte", t9_sent9: "[HU] Der Junge ___ schnell.", t9_c9_1: "[HU] rannte", t9_c9_2: "[HU] rennt", t9_c9_3: "[HU] gerannt", t9_c9_4: "[HU] rennen",
+    t10_title: "[HU] Satzglieder", t10_text: "[HU] Subjekt, Prädikat, Objekt", t10_inst: "[HU] Was ist das Subjekt?", t10_h1: "[HU] Wer oder was tut es?", t10_h2: "[HU] Der Hund (Subjekt) bellt.", t10_sent10: "[HU] Die Katze schläft im Garten.", t10_c10_1: "[HU] Die Katze", t10_c10_2: "[HU] schläft", t10_c10_3: "[HU] im Garten", t10_c10_4: "[HU] .",
+    t11_title: "[HU] Rechtschreibung ie/ei", t11_text: "[HU] ie = langes i, ei = ai-Laut", t11_inst: "[HU] ie oder ei?", t11_h1: "[HU] Hör hin: ist es lang oder kurz?", t11_h2: "[HU] Biene (lang) = ie", t11_sent11: "[HU] D_se B___ne ist schön.", t11_c11_1: "[HU] ie / ie", t11_c11_2: "[HU] ei / ei", t11_c11_3: "[HU] ie / ei", t11_c11_4: "[HU] ei / ie",
+    t12_title: "[HU] Perfekt-Sätze", t12_text: "[HU] Ich habe gespielt. Sie sind gelaufen.", t12_inst: "[HU] Baue den Perfekt-Satz!", t12_h1: "[HU] Hilfsverb + Partizip am Ende", t12_h2: "[HU] Ich habe ein Buch gelesen.", t12_sent12: "[HU] Wir ___ zu Hause ___.", t12_c12_1: "[HU] sind / gekommen", t12_c12_2: "[HU] haben / gekommen", t12_c12_3: "[HU] haben / gehen", t12_c12_4: "[HU] bin / gemacht",
+    t13_title: "[HU] Doppelkonsonanten", t13_text: "[HU] Kurzer Vokal ➔ doppelt! rennen, Tonne", t13_inst: "[HU] Ergänze richtig!", t13_h1: "[HU] Kurz = doppelt", t13_h2: "[HU] re-nn-en", t13_sent13: "[HU] Die Schüler ___ zur Schule.", t13_c13_1: "[HU] rennen", t13_c13_2: "[HU] renen", t13_c13_3: "[HU] rennen", t13_c13_4: "[HU] reenen",
+    t14_title: "[HU] Großschreibung", t14_text: "[HU] Nomen sind GROSS! Alle anderen klein.", t14_inst: "[HU] Was ist großgeschrieben?", t14_h1: "[HU] Nur Nomen groß!", t14_h2: "[HU] Der Hund schläft.", t14_sent14: "[HU] Die ___ spielen im Park.", t14_c14_1: "[HU] Kinder", t14_c14_2: "[HU] kinder", t14_c14_3: "[HU] KINDER", t14_c14_4: "[HU] KinDer",
+    t15_title: "[HU] K3-Finale: Alles zusammen!", t15_text: "[HU] Du kennst Plural, Verben, Steigerung, Satzglieder, Rechtschreibung und Zeichensetzung!", t15_inst: "[HU] Welches Wort ist richtig?", t15_h1: "[HU] Denk an alle Regeln.", t15_h2: "[HU] Keine einfache Antwort!", t15_sent15: "[HU] Die ___ sind ___ und ___.", t15_c15_1: "[HU] Kinder / schnell / glücklich", t15_c15_2: "[HU] kinder / schneller / glücklich", t15_c15_3: "[HU] Kinder / schneller / glücklich", t15_c15_4: "[HU] KINDER / Schnell / Glücklich",
+  
+  },
+  ro: {
+
+    explorer_title: "[RO] Große Prüfung K3",
+
+    // T1: Plural-Check (Alle Endungen)
+    t1_title: "[RO] Plural-Check",
+    t1_text: "[RO] Weißt du noch alle Plural-Endungen? -e, -er, -en, -s oder gar keine Endung. Teste dein Wissen!",
+    t1_b1: "[RO] Achte auf Umlaute (a ➔ ä).",
+    t1_inst: "[RO] Verbinde die Einzahl mit der richtigen Mehrzahl!",
+    t1_h1: "[RO] Überlege genau, wie das Wort als Gruppe heißt.",
+    t1_h2: "[RO] Hand ➔ Hände, Kind ➔ Kinder.",
+    t1_l1: "[RO] Hand", t1_r1: "[RO] Hände",
+    t1_l2: "[RO] Kind", t1_r2: "[RO] Kinder",
+    t1_l3: "[RO] Auto", t1_r3: "[RO] Autos",
+    t1_l4: "[RO] Blume", t1_r4: "[RO] Blumen",
+
+    // T2: Verb-Konjugation
+    t2_title: "[RO] Verb-Check",
+    t2_text: "[RO] ich, du, er, sie, es... Verben verändern ihre Endung je nachdem, wer etwas tut.",
+    t2_b1: "[RO] ich -e, du -st, er -t.",
+    t2_inst: "[RO] Welches Verb passt perfekt in die Lücke?",
+    t2_h1: "[RO] Schau dir das Pronomen am Anfang an.",
+    t2_h2: "[RO] Bei 'wir' brauchen wir die Grundform (-en).",
+    t2_sent: "[RO] Wir ___ heute zusammen Musik.",
+    t2_c1: "[RO] hören", t2_c2: "[RO] hörst", t2_c3: "[RO] hört", t2_c4: "[RO] höre",
+
+    // T3: Steigerung (Alles höher?)
+    t3_title: "[RO] Alles höher?",
+    t3_text: "[RO] Vergleichen macht Spaß! Schnell, schneller, am schnellsten. Kannst du die Stufen ordnen?",
+    t3_b1: "[RO] Grundform ➔ Komparativ ➔ Superlativ.",
+    t3_inst: "[RO] Bringe die Adjektive in die richtige Reihenfolge!",
+    t3_h1: "[RO] Fange klein an und werde immer mehr.",
+    t3_h2: "[RO] gut -> besser -> am besten.",
+    t3_o1: "[RO] gut", t3_o2: "[RO] besser", t3_o3: "[RO] am besten",
+
+    // T4: Satzglieder (Subjekt & Prädikat)
+    t4_title: "[RO] Satz-Baumeister",
+    t4_text: "[RO] Ein Satz braucht einen König (Subjekt) und einen Motor (Prädikat). Findest du sie?",
+    t4_b1: "[RO] Subjekt = Wer oder was?",
+    t4_b2: "[RO] Prädikat = Was passiert?",
+    t4_inst: "[RO] Finde das Subjekt (den König) im Satz!",
+    t4_h1: "[RO] Frage dich: WER kocht die Suppe?",
+    t4_h2: "[RO] Die Antwort ist 'Die Oma'.",
+    t4_w1: "[RO] Die Oma", t4_w2: "[RO] kocht", t4_w3: "[RO] eine", t4_w4: "[RO] Suppe", t4_w5: "[RO] .",
+
+    // T5: Präteritum (Märchenzeit)
+    t5_title: "[RO] Gestern war...",
+    t5_text: "[RO] Das Präteritum brauchen wir zum Erzählen. war, hatte, ging, lief.",
+    t5_b1: "[RO] Erzähl-Vergangenheit.",
+    t5_inst: "[RO] Welche Form steht im Präteritum?",
+    t5_h1: "[RO] Suche das Wort, das 'früher' bedeutet.",
+    t5_h2: "[RO] 'er rannte' ist Präteritum.",
+    t5_sent_p: "[RO] Er ___ schnell nach Hause.",
+    t5_cp1: "[RO] rannte", t5_cp2: "[RO] rennt", t5_cp3: "[RO] ist gerannt", t5_cp4: "[RO] rennen",
+
+    // T6: Perfekt (Was ist passiert?)
+    t6_title: "[RO] Was ist passiert?",
+    t6_text: "[RO] Das Perfekt bauen wir mit haben oder sein. Ich habe gespielt. Er ist gelaufen.",
+    t6_b1: "[RO] Hilfsverb + Partizip.",
+    t6_inst: "[RO] Baue den Satz im Perfekt zusammen!",
+    t6_h1: "[RO] Wer (Lisa), dann der Helfer (hat), dann was (ein Bild), dann das Ende (gemalt).",
+    t6_h2: "[RO] Lisa hat ein Bild gemalt.",
+    t6_f1: "[RO] Lisa", t6_f2: "[RO] hat", t6_f3: "[RO] ein Bild", t6_f4: "[RO] gemalt.",
+
+    // T7: Satzzeichen (Punkt und Komma)
+    t7_title: "[RO] Punkt und Komma",
+    t7_text: "[RO] Satzzeichen sind wichtig für die Ordnung. Vergiss das Komma bei Aufzählungen nicht!",
+    t7_b1: '. ? ! , : " "',
+    t7_inst: "[RO] Welches Satzzeichen fehlt hier?",
+    t7_h1: "[RO] Es ist eine Frage. Was kommt ans Ende?",
+    t7_h2: "[RO] Ein Fragezeichen (?) ist richtig.",
+    t7_sent_z: "[RO] Kommst du heute zu mir ___",
+    t7_cz1: "[RO] ?", t7_cz2: "[RO] .", t7_cz3: "[RO] !", t7_cz4: "[RO] ,",
+
+    // T8-T15: Review topics
+    t8_title: "[RO] Adjektive-Steigerung", t8_text: "[RO] klein ➔ kleiner ➔ am kleinsten", t8_inst: "[RO] Bilde die Steigerung!", t8_h1: "[RO] er und am ...sten", t8_h2: "[RO] gut -> besser -> am besten", t8_sent8: "[RO] Dieser Baum ist ___.", t8_c8_1: "[RO] am größten", t8_c8_2: "[RO] größer", t8_c8_3: "[RO] großest", t8_c8_4: "[RO] großes",
+    t9_title: "[RO] Verben Präteritum", t9_text: "[RO] spielen -> spielte, gehen -> ging", t9_inst: "[RO] Wähle Präteritum!", t9_h1: "[RO] Vergangenheit erzählt", t9_h2: "[RO] ich spielte", t9_sent9: "[RO] Der Junge ___ schnell.", t9_c9_1: "[RO] rannte", t9_c9_2: "[RO] rennt", t9_c9_3: "[RO] gerannt", t9_c9_4: "[RO] rennen",
+    t10_title: "[RO] Satzglieder", t10_text: "[RO] Subjekt, Prädikat, Objekt", t10_inst: "[RO] Was ist das Subjekt?", t10_h1: "[RO] Wer oder was tut es?", t10_h2: "[RO] Der Hund (Subjekt) bellt.", t10_sent10: "[RO] Die Katze schläft im Garten.", t10_c10_1: "[RO] Die Katze", t10_c10_2: "[RO] schläft", t10_c10_3: "[RO] im Garten", t10_c10_4: "[RO] .",
+    t11_title: "[RO] Rechtschreibung ie/ei", t11_text: "[RO] ie = langes i, ei = ai-Laut", t11_inst: "[RO] ie oder ei?", t11_h1: "[RO] Hör hin: ist es lang oder kurz?", t11_h2: "[RO] Biene (lang) = ie", t11_sent11: "[RO] D_se B___ne ist schön.", t11_c11_1: "[RO] ie / ie", t11_c11_2: "[RO] ei / ei", t11_c11_3: "[RO] ie / ei", t11_c11_4: "[RO] ei / ie",
+    t12_title: "[RO] Perfekt-Sätze", t12_text: "[RO] Ich habe gespielt. Sie sind gelaufen.", t12_inst: "[RO] Baue den Perfekt-Satz!", t12_h1: "[RO] Hilfsverb + Partizip am Ende", t12_h2: "[RO] Ich habe ein Buch gelesen.", t12_sent12: "[RO] Wir ___ zu Hause ___.", t12_c12_1: "[RO] sind / gekommen", t12_c12_2: "[RO] haben / gekommen", t12_c12_3: "[RO] haben / gehen", t12_c12_4: "[RO] bin / gemacht",
+    t13_title: "[RO] Doppelkonsonanten", t13_text: "[RO] Kurzer Vokal ➔ doppelt! rennen, Tonne", t13_inst: "[RO] Ergänze richtig!", t13_h1: "[RO] Kurz = doppelt", t13_h2: "[RO] re-nn-en", t13_sent13: "[RO] Die Schüler ___ zur Schule.", t13_c13_1: "[RO] rennen", t13_c13_2: "[RO] renen", t13_c13_3: "[RO] rennen", t13_c13_4: "[RO] reenen",
+    t14_title: "[RO] Großschreibung", t14_text: "[RO] Nomen sind GROSS! Alle anderen klein.", t14_inst: "[RO] Was ist großgeschrieben?", t14_h1: "[RO] Nur Nomen groß!", t14_h2: "[RO] Der Hund schläft.", t14_sent14: "[RO] Die ___ spielen im Park.", t14_c14_1: "[RO] Kinder", t14_c14_2: "[RO] kinder", t14_c14_3: "[RO] KINDER", t14_c14_4: "[RO] KinDer",
+    t15_title: "[RO] K3-Finale: Alles zusammen!", t15_text: "[RO] Du kennst Plural, Verben, Steigerung, Satzglieder, Rechtschreibung und Zeichensetzung!", t15_inst: "[RO] Welches Wort ist richtig?", t15_h1: "[RO] Denk an alle Regeln.", t15_h2: "[RO] Keine einfache Antwort!", t15_sent15: "[RO] Die ___ sind ___ und ___.", t15_c15_1: "[RO] Kinder / schnell / glücklich", t15_c15_2: "[RO] kinder / schneller / glücklich", t15_c15_3: "[RO] Kinder / schneller / glücklich", t15_c15_4: "[RO] KINDER / Schnell / Glücklich",
+  
   }
 };
 
