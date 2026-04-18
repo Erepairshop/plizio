@@ -26,6 +26,9 @@ import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, GeschichteProgress } from "@/lib/astroGeschichte";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { GESCHICHTE_M2_POOLS, GESCHICHTE_M3_POOLS } from "@/lib/astro/geschichteGameRegistry";
 import {
   K8_ISLANDS, K8_CHECKPOINT_MAP, K8_CHECKPOINT_TOPICS,
   loadK8Progress, saveK8Progress,
@@ -90,7 +93,8 @@ type Screen =
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
-  | "rocket-launch";
+  | "rocket-launch"
+  | "m2" | "m3";
 
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -252,6 +256,17 @@ export default function AstroGeschichteK8Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K8_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
@@ -397,12 +412,19 @@ export default function AstroGeschichteK8Page() {
     );
   }
 
-  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "geschichte-explore") {
+  if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "geschichte-explore" || screen === "m2" || screen === "m3") {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
         <Starfield />
         <div className="relative z-10 p-4"><button onClick={() => setScreen("mission-select")} className="text-white/50"><X /></button></div>
         <div className="relative z-10 flex-1">
+          
+          {screen === "m2" && activeMission?.gameKey && GESCHICHTE_M2_POOLS[activeMission.gameKey] && (
+            <M2Engine gameKey={activeMission.gameKey} rounds={GESCHICHTE_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+          )}
+          {screen === "m3" && activeMission?.gameKey && GESCHICHTE_M3_POOLS[activeMission.gameKey] && (
+            <M3Engine gameKey={activeMission.gameKey} rounds={GESCHICHTE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+          )}
           {screen === "orbit-quiz" && <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
           {screen === "black-hole" && <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />}
           {screen === "star-match" && <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />}
