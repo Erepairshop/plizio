@@ -2,152 +2,140 @@ import { GapFillStoryRound } from "../../../../components/astro-games/views/m3/G
 
 export const rounds: GapFillStoryRound[] = [
   {
-    id: "photosynthesis",
+    id: "gfs-env-1",
+    taskDescription: {
+      en: "Fill in the blanks to complete the story about plants.",
+      de: "Fülle die Lücken aus, um die Geschichte über Pflanzen zu vervollständigen.",
+      hu: "Egészítsd ki a hiányzó szavakat a növényekről szóló történetben.",
+      ro: "Completează spațiile libere pentru a termina povestea despre plante."
+    },
     story: {
-      en: "Plants use {{0}}, water, and {{1}} to make their own food through {{2}}.",
-      hu: "A növények a {{0}}, a víz és a {{1}} segítségével állítják elő saját táplálékukat a {{2}} során.",
-      de: "Pflanzen nutzen {{0}}, Wasser und {{1}}, um durch {{2}} ihre eigene Nahrung herzustellen.",
-      ro: "Plantele folosesc {{0}}, apa și {{1}} pentru a-și produce propria hrană prin {{2}}."
+      en: "Plants are amazing living things. They use energy from the {{0}} to make their own food. This process is called {{1}}. They take in {{2}} from the air and release {{3}} for us to breathe.",
+      de: "Pflanzen sind erstaunliche Lebewesen. Sie nutzen Energie von der {{0}}, um ihre eigene Nahrung herzustellen. Dieser Prozess wird {{1}} genannt. Sie nehmen {{2}} aus der Luft auf und geben {{3}} ab, die wir zum Atmen brauchen.",
+      hu: "A növények csodálatos élőlények. A {{0}} energiáját használják fel saját táplálékuk előállítására. Ezt a folyamatot {{1}} nevezzük. Felszívják a levegőből a {{2}}, és {{3}} bocsátanak ki, hogy lélegezni tudjunk.",
+      ro: "Plantele sunt ființe uimitoare. Ele folosesc energia de la {{0}} pentru a-și face propria hrană. Acest proces se numește {{1}}. Ele iau {{2}} din aer și eliberează {{3}} pentru a respira noi."
     },
     blanks: [
       {
         index: 0,
-        correctOptionId: "opt_sunlight",
+        correctOptionId: "sun",
         options: [
-          { id: "opt_sunlight", label: { en: "sunlight", hu: "napfény", de: "Sonnenlicht", ro: "lumina soarelui" } },
-          { id: "opt_soil", label: { en: "soil", hu: "talaj", de: "Boden", ro: "sol" } }
+          { id: "moon", label: { en: "moon", de: "Mond", hu: "Hold", ro: "lună" } },
+          { id: "sun", label: { en: "sun", de: "Sonne", hu: "Nap", ro: "soare" } }
         ]
       },
       {
         index: 1,
-        correctOptionId: "opt_co2",
+        correctOptionId: "photo",
         options: [
-          { id: "opt_co2", label: { en: "carbon dioxide", hu: "szén-dioxid", de: "Kohlendioxid", ro: "dioxid de carbon" } },
-          { id: "opt_o2", label: { en: "oxygen", hu: "oxigén", de: "Sauerstoff", ro: "oxigen" } }
+          { id: "photo", label: { en: "photosynthesis", de: "Photosynthese", hu: "fotoszintézisnek", ro: "fotosinteză" } },
+          { id: "breath", label: { en: "respiration", de: "Atmung", hu: "légzésnek", ro: "respirație" } }
         ]
       },
       {
         index: 2,
-        correctOptionId: "opt_photo",
+        correctOptionId: "co2",
         options: [
-          { id: "opt_photo", label: { en: "photosynthesis", hu: "fotoszintézis", de: "Photosynthese", ro: "fotosinteză" } },
-          { id: "opt_resp", label: { en: "respiration", hu: "légzés", de: "Atmung", ro: "respirație" } }
+          { id: "o2", label: { en: "oxygen", de: "Sauerstoff", hu: "oxigént", ro: "oxigen" } },
+          { id: "co2", label: { en: "carbon dioxide", de: "Kohlendioxid", hu: "szén-dioxidot", ro: "dioxid de carbon" } }
+        ]
+      },
+      {
+        index: 3,
+        correctOptionId: "o2out",
+        options: [
+          { id: "o2out", label: { en: "oxygen", de: "Sauerstoff", hu: "oxigént", ro: "oxigen" } },
+          { id: "co2out", label: { en: "carbon dioxide", de: "Kohlendioxid", hu: "szén-dioxidot", ro: "dioxid de carbon" } }
         ]
       }
     ]
   },
   {
-    id: "water_cycle",
+    id: "gfs-env-2",
+    taskDescription: {
+      en: "Fill in the blanks about recycling.",
+      de: "Fülle die Lücken über Recycling aus.",
+      hu: "Egészítsd ki a hiányzó szavakat az újrahasznosításról.",
+      ro: "Completează spațiile libere despre reciclare."
+    },
     story: {
-      en: "The sun heats the water, causing it to {{0}} and rise as water vapor. High in the air, it cools down and {{1}} to form clouds.",
-      hu: "A nap felmelegíti a vizet, amely ezáltal {{0}} és vízgőzként felemelkedik. A levegőben lehűl, és felhőkké {{1}}.",
-      de: "Die Sonne erwärmt das Wasser, woraufhin es {{0}} und als Wasserdampf aufsteigt. In der Höhe kühlt es ab und {{1}} zu Wolken.",
-      ro: "Soarele încălzește apa, determinând-o să se {{0}} și să se ridice ca vapori de apă. Sus în aer, ea se răcește și se {{1}} formând nori."
+      en: "To protect our planet, we should reduce, reuse, and {{0}}. Instead of throwing away a plastic bottle, we can put it in a {{1}} bin. Old paper can be turned into {{2}} paper, saving many {{3}} in the forest.",
+      de: "Um unseren Planeten zu schützen, sollten wir reduzieren, wiederverwenden und {{0}}. Anstatt eine Plastikflasche wegzuwerfen, können wir sie in eine {{1}}tonne geben. Altes Papier kann in {{2}}papier verwandelt werden, was viele {{3}} im Wald rettet.",
+      hu: "Bolygónk védelme érdekében csökkenteni, újrahasználni és {{0}} kell. Ahelyett, hogy kidobnánk egy műanyag palackot, egy {{1}} kukába tehetjük. A régi papírból {{2}} papírt lehet készíteni, ami sok {{3}} megment az erdőben.",
+      ro: "Pentru a ne proteja planeta, ar trebui să reducem, să refolosim și să {{0}}. În loc să aruncăm o sticlă de plastic, o putem pune într-un coș de {{1}}. Hârtia veche poate fi transformată în hârtie {{2}}, salvând mulți {{3}} în pădure."
     },
     blanks: [
       {
         index: 0,
-        correctOptionId: "opt_evaporate",
+        correctOptionId: "recycle",
         options: [
-          { id: "opt_freeze", label: { en: "freeze", hu: "megfagy", de: "gefriert", ro: "înghețe" } },
-          { id: "opt_evaporate", label: { en: "evaporate", hu: "elpárolog", de: "verdunstet", ro: "evapore" } }
+          { id: "burn", label: { en: "burn", de: "verbrennen", hu: "elégetni", ro: "ardem" } },
+          { id: "recycle", label: { en: "recycle", de: "recyceln", hu: "újrahasznosítani", ro: "reciclăm" } }
         ]
       },
       {
         index: 1,
-        correctOptionId: "opt_condenses",
+        correctOptionId: "recycling",
         options: [
-          { id: "opt_condenses", label: { en: "condenses", hu: "lecsapódik", de: "kondensiert", ro: "condensează" } },
-          { id: "opt_melts", label: { en: "melts", hu: "elolvad", de: "schmilzt", ro: "topește" } }
-        ]
-      }
-    ]
-  },
-  {
-    id: "planets",
-    story: {
-      en: "The {{0}} is the third planet from the {{1}} and the only place we know of that has {{2}}.",
-      hu: "A {{0}} a harmadik bolygó a {{1}}tól számítva, és az egyetlen hely, amiről tudjuk, hogy van rajta {{2}}.",
-      de: "Die {{0}} ist der dritte Planet von der {{1}} aus gesehen und der einzige Ort, von dem wir wissen, dass er {{2}} beherbergt.",
-      ro: "{{0}} este a treia planetă de la {{1}} și singurul loc pe care îl cunoaștem care are {{2}}."
-    },
-    blanks: [
-      {
-        index: 0,
-        correctOptionId: "opt_earth",
-        options: [
-          { id: "opt_venus", label: { en: "Venus", hu: "Vénusz", de: "Venus", ro: "Venus" } },
-          { id: "opt_earth", label: { en: "Earth", hu: "Föld", de: "Erde", ro: "Pământul" } }
-        ]
-      },
-      {
-        index: 1,
-        correctOptionId: "opt_sun",
-        options: [
-          { id: "opt_sun", label: { en: "Sun", hu: "Nap", de: "Sonne", ro: "Soarele" } },
-          { id: "opt_moon", label: { en: "Moon", hu: "Hold", de: "Mond", ro: "Luna" } }
+          { id: "trash", label: { en: "trash", de: "Müll", hu: "szemetes", ro: "gunoi" } },
+          { id: "recycling", label: { en: "recycling", de: "Recycling", hu: "szelektív", ro: "reciclare" } }
         ]
       },
       {
         index: 2,
-        correctOptionId: "opt_life",
+        correctOptionId: "new",
         options: [
-          { id: "opt_rings", label: { en: "rings", hu: "gyűrűk", de: "Ringe", ro: "inele" } },
-          { id: "opt_life", label: { en: "life", hu: "élet", de: "Leben", ro: "viață" } }
+          { id: "new", label: { en: "new", de: "neues", hu: "új", ro: "nouă" } },
+          { id: "dirty", label: { en: "dirty", de: "schmutziges", hu: "piszkos", ro: "murdară" } }
+        ]
+      },
+      {
+        index: 3,
+        correctOptionId: "trees",
+        options: [
+          { id: "trees", label: { en: "trees", de: "Bäume", hu: "fát", ro: "copaci" } },
+          { id: "animals", label: { en: "animals", de: "Tiere", hu: "állatot", ro: "animale" } }
         ]
       }
     ]
   },
   {
-    id: "mammals",
+    id: "gfs-env-3",
+    taskDescription: {
+      en: "Fill in the blanks about the water cycle.",
+      de: "Fülle die Lücken über den Wasserkreislauf aus.",
+      hu: "Egészítsd ki a hiányzó szavakat a vízkörforgásról.",
+      ro: "Completează spațiile libere despre ciclul apei."
+    },
     story: {
-      en: "Mammals are animals that give birth to live young and feed them with {{0}}. Most mammals have {{1}} on their bodies.",
-      hu: "Az emlősök olyan állatok, amelyek elevenszülők, és kicsinyeiket {{0}} táplálják. A legtöbb emlős testét {{1}} borítja.",
-      de: "Säugetiere sind Tiere, die lebende Junge gebären und sie mit {{0}} füttern. Die meisten Säugetiere haben {{1}} auf ihrem Körper.",
-      ro: "Mamiferele sunt animale care nasc pui vii și îi hrănesc cu {{0}}. Majoritatea mamiferelor au {{1}} pe corp."
+      en: "The sun's heat causes water to {{0}} from the oceans. The water vapor rises and cools to form {{1}}. When they become too heavy, water falls back to Earth as {{2}}.",
+      de: "Die Hitze der Sonne lässt Wasser aus den Ozeanen {{0}}. Der Wasserdampf steigt auf und kühlt ab, um {{1}} zu bilden. Wenn sie zu schwer werden, fällt das Wasser als {{2}} auf die Erde zurück.",
+      hu: "A nap melege miatt a víz {{0}} az óceánokból. A vízgőz felszáll és lehűl, így {{1}} képződnek. Amikor túl nehézzé válnak, a víz {{2}} formájában hullik vissza a Földre.",
+      ro: "Căldura soarelui face ca apa să se {{0}} din oceane. Vaporii de apă se ridică și se răcesc formând {{1}}. Când devin prea grei, apa cade înapoi pe Pământ sub formă de {{2}}."
     },
     blanks: [
       {
         index: 0,
-        correctOptionId: "opt_milk",
+        correctOptionId: "evaporate",
         options: [
-          { id: "opt_milk", label: { en: "milk", hu: "tejjel", de: "Milch", ro: "lapte" } },
-          { id: "opt_insects", label: { en: "insects", hu: "rovarokkal", de: "Insekten", ro: "insecte" } }
+          { id: "freeze", label: { en: "freeze", de: "gefrieren", hu: "megfagy", ro: "înghețe" } },
+          { id: "evaporate", label: { en: "evaporate", de: "verdunsten", hu: "elpárolog", ro: "evapore" } }
         ]
       },
       {
         index: 1,
-        correctOptionId: "opt_hair",
+        correctOptionId: "clouds",
         options: [
-          { id: "opt_scales", label: { en: "scales", hu: "pikkely", de: "Schuppen", ro: "solzi" } },
-          { id: "opt_hair", label: { en: "hair or fur", hu: "szőr vagy haj", de: "Haare oder Fell", ro: "păr sau blană" } }
-        ]
-      }
-    ]
-  },
-  {
-    id: "seasons",
-    story: {
-      en: "The seasons occur because the Earth's axis is {{0}}. When a hemisphere is tilted towards the sun, we have {{1}}.",
-      hu: "Az évszakok azért alakulnak ki, mert a Föld tengelye {{0}}. Amikor az egyik félteke a nap felé dől, akkor {{1}} van.",
-      de: "Die Jahreszeiten entstehen, weil die Erdachse {{0}} ist. Wenn eine Halbkugel der Sonne zugeneigt ist, haben wir {{1}}.",
-      ro: "Anotimpurile apar deoarece axa Pământului este {{0}}. Când o emisferă este înclinată spre soare, avem {{1}}."
-    },
-    blanks: [
-      {
-        index: 0,
-        correctOptionId: "opt_tilted",
-        options: [
-          { id: "opt_straight", label: { en: "straight", hu: "egyenes", de: "gerade", ro: "dreaptă" } },
-          { id: "opt_tilted", label: { en: "tilted", hu: "megdöntött", de: "geneigt", ro: "înclinată" } }
+          { id: "clouds", label: { en: "clouds", de: "Wolken", hu: "felhők", ro: "nori" } },
+          { id: "rocks", label: { en: "rocks", de: "Steine", hu: "sziklák", ro: "pietre" } }
         ]
       },
       {
-        index: 1,
-        correctOptionId: "opt_summer",
+        index: 2,
+        correctOptionId: "rain",
         options: [
-          { id: "opt_summer", label: { en: "summer", hu: "nyár", de: "Sommer", ro: "vară" } },
-          { id: "opt_winter", label: { en: "winter", hu: "tél", de: "Winter", ro: "iarnă" } }
+          { id: "rain", label: { en: "rain", de: "Regen", hu: "eső", ro: "ploaie" } },
+          { id: "wind", label: { en: "wind", de: "Wind", hu: "Szél", ro: "vânt" } }
         ]
       }
     ]

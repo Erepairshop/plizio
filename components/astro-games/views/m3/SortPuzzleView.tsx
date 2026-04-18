@@ -10,7 +10,7 @@ export type SortPuzzleRound = {
     id: string;
     label: LocalizedText;
   }[];
-  correctOrder: string[]; // array of item ids in the correct order
+  correctOrder: string[];
 };
 
 export default function SortPuzzleView({
@@ -24,102 +24,84 @@ export default function SortPuzzleView({
 }: AstroGameProps<SortPuzzleRound>) {
   const [roundIdx, setRoundIdx] = useState(0);
   const [score, setScore] = useState(0);
-  
-  const currentRound = rounds[roundIdx];
-  
-  const [items, setItems] = useState(currentRound?.items || []);
+  const [items, setItems] = useState<{id: string, label: LocalizedText}[]>([]);
   const [isChecking, setIsChecking] = useState(false);
-  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
+  const [correctFlags, setCorrectFlags] = useState<Record<string, boolean>>({});
+
+  if (!rounds || rounds.length === 0) return null;
+  const currentRound = rounds[roundIdx];
+  const totalRounds = rounds.length;
 
   useEffect(() => {
     if (currentRound) {
-      const shuffled = [...currentRound.items].sort((a, b) => {
-        const aIndex = currentRound.correctOrder.indexOf(a.id);
-        const bIndex = currentRound.correctOrder.indexOf(b.id);
-        return aIndex % 2 === 0 ? 1 : -1;
-      });
+      // Create a safely shuffled copy
+      const shuffled = [...currentRound.items].sort(() => Math.random() - 0.5);
+      // Ensure it's not already correct by chance
       if (shuffled.map(i => i.id).join(",") === currentRound.correctOrder.join(",")) {
-        if (shuffled.length >= 2) {
-          const temp = shuffled[0];
-          shuffled[0] = shuffled[1];
-          shuffled[1] = temp;
-        }
+        shuffled.reverse();
       }
       setItems(shuffled);
       setIsChecking(false);
-      setIsCorrect(null);
+      setCorrectFlags({});
     }
   }, [currentRound]);
 
-  if (!currentRound) return null;
-
-  const moveItem = (index: number, direction: "up" | "down") => {
-    const newItems = [...items];
-    if (direction === "up" && index > 0) {
-      const temp = newItems[index - 1];
-      newItems[index - 1] = newItems[index];
-      newItems[index] = temp;
-    } else if (direction === "down" && index < newItems.length - 1) {
-      const temp = newItems[index + 1];
-      newItems[index + 1] = newItems[index];
-      newItems[index] = temp;
-    }
-    setItems(newItems);
-  };
-
   const handleCheck = () => {
     setIsChecking(true);
-    const currentOrder = items.map((i) => i.id);
-    const correct = currentOrder.join(",") === currentRound.correctOrder.join(",");
-    
-    setIsCorrect(correct);
+    let allCorrect = true;
+    const flags: Record<string, boolean> = {};
 
-    if (correct) {
-      setScore((s) => s + 10);
+    items.forEach((item, index) => {
+      const isItemCorrect = currentRound.correctOrder[index] === item.id;
+      flags[item.id] = isItemCorrect;
+      if (!isItemCorrect) allCorrect = false;
+    });
+
+    setCorrectFlags(flags);
+
+    if (allCorrect) {
+      setScore(s => s + 10);
       onCorrect?.();
       setTimeout(() => {
-        if (roundIdx + 1 < rounds.length) {
-          setRoundIdx(roundIdx + 1);
+        if (roundIdx + 1 < totalRounds) {
+          setRoundIdx(r => r + 1);
         } else {
-          onDone(score + 10, rounds.length * 10);
+          onDone(score + 10, totalRounds * 10);
         }
       }, 1500);
     } else {
       onWrong?.();
       setTimeout(() => {
         setIsChecking(false);
-        setIsCorrect(null);
+        setCorrectFlags({});
       }, 1500);
     }
   };
 
+  const taskText = currentRound.taskDescription[lang] || currentRound.taskDescription.en;
+  const progressText = `${roundIdx + 1} / ${totalRounds}`;
+  const progressPercent = ((roundIdx + 1) / totalRounds) * 100;
+
   return (
-    <div className="flex flex-col items-center justify-start w-full max-w-md mx-auto p-4 min-h-[80vh]">
-      {/* Header */}
-      <div className="w-full flex justify-between font-bold text-white/50 text-sm px-2 mb-2">
-        <span>Score: {score}</span>
-        <span>Round {roundIdx + 1} / {rounds.length}</span>
-      </div>
-      
-      {/* Progress Bar */}
-      <div className="w-full h-2 bg-white/10 rounded-full mb-4 overflow-hidden">
-        <motion.div
-          className="h-full rounded-full"
-          style={{ backgroundColor: color }}
-          initial={{ width: `${(roundIdx / rounds.length) * 100}%` }}
-          animate={{ width: `${((roundIdx + 1) / rounds.length) * 100}%` }}
-          transition={{ duration: 0.3 }}
-        />
+    <div className="flex flex-col items-center w-full max-w-md mx-auto p-4 font-sans min-h-[80vh]">
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10 flex flex-col gap-2">
+        <h2 className="text-xl font-black text-white">{taskText}</h2>
+        <div className="text-white/70 font-bold">{progressText}</div>
+        <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
+          <motion.div
+            className="h-full"
+            style={{ backgroundColor: color }}
+            initial={{ width: `${(roundIdx / totalRounds) * 100}%` }}
+            animate={{ width: `${progressPercent}%` }}
+            transition={{ duration: 0.4 }}
+          />
+        </div>
       </div>
 
-      {/* Task Description */}
-      <div className="w-full bg-black/40 p-4 rounded-xl mb-6 text-center border-2 border-white/10 shadow-lg">
-        <h2 className="text-xl font-black text-white" tabIndex={0} aria-label={currentRound.taskDescription[lang] || currentRound.taskDescription.en}>
-          {currentRound.taskDescription[lang] || currentRound.taskDescription.en}
-        </h2>
+      <div className="w-full flex justify-center mb-6 text-white/50 font-bold text-sm">
+        Score: {score}
       </div>
 
-      {/* Reorderable List */}
       <div className="w-full flex-1 flex flex-col gap-3">
         <Reorder.Group 
           axis="y" 
@@ -127,75 +109,45 @@ export default function SortPuzzleView({
           onReorder={setItems} 
           className="w-full flex flex-col gap-3"
         >
-          {items.map((item, index) => {
-            let borderColor = "border-white/20";
-            if (isChecking && isCorrect !== null) {
-              const isItemInCorrectPos = currentRound.correctOrder[index] === item.id;
-              if (isCorrect) {
-                borderColor = "border-green-500 shadow-[0_0_15px_rgba(34,197,94,0.4)] bg-green-500/10";
-              } else {
-                borderColor = isItemInCorrectPos ? "border-green-500 bg-green-500/10" : "border-red-500 bg-red-500/10";
-              }
+          {items.map((item) => {
+            const isFlagged = item.id in correctFlags;
+            const isItemCorrect = correctFlags[item.id];
+            
+            let itemClass = "w-full border-2 rounded-xl p-4 flex items-center justify-between transition-colors bg-white/10 text-white font-bold text-lg select-none ";
+            if (isFlagged) {
+              itemClass += isItemCorrect ? "border-green-500 bg-green-500/20" : "border-red-500 bg-red-500/20";
             } else {
-              borderColor = "border-white/20 hover:border-white/40 bg-white/5";
+              itemClass += "border-white/20";
             }
 
             return (
               <Reorder.Item
                 key={item.id}
                 value={item}
-                className={`w-full border-2 rounded-xl p-3 flex items-center justify-between touch-none transition-colors ${borderColor}`}
-                whileDrag={{ scale: 1.02, backgroundColor: "rgba(255,255,255,0.1)", zIndex: 10 }}
+                dragListener={!isChecking}
+                className={itemClass}
+                whileDrag={{ scale: 1.05, boxShadow: "0px 10px 20px rgba(0,0,0,0.3)" }}
               >
-                <div className="flex flex-col gap-2">
-                  <button 
-                    onClick={() => moveItem(index, "up")}
-                    disabled={index === 0 || isChecking}
-                    aria-label="Move up"
-                    tabIndex={0}
-                    className="p-2 bg-white/10 rounded-lg disabled:opacity-30 disabled:cursor-not-allowed hover:bg-white/20 min-w-[44px] min-h-[44px] flex items-center justify-center transition-colors"
-                  >
-                    ▲
-                  </button>
-                  <button 
-                    onClick={() => moveItem(index, "down")}
-                    disabled={index === items.length - 1 || isChecking}
-                    aria-label="Move down"
-                    tabIndex={0}
-                    className="p-2 bg-white/10 rounded-lg disabled:opacity-30 disabled:cursor-not-allowed hover:bg-white/20 min-w-[44px] min-h-[44px] flex items-center justify-center transition-colors"
-                  >
-                    ▼
-                  </button>
-                </div>
-                <div className="flex-1 text-center text-lg font-bold text-white px-4" tabIndex={0}>
-                  {item.label[lang] || item.label.en}
-                </div>
-                <div className="w-[44px] h-[44px] flex items-center justify-center opacity-50 cursor-grab active:cursor-grabbing text-white">
-                  ☰
-                </div>
+                <span>{item.label[lang] || item.label.en}</span>
+                <span className="opacity-50 text-2xl px-2">☰</span>
               </Reorder.Item>
             );
           })}
         </Reorder.Group>
       </div>
 
-      {/* Action Button */}
       <AnimatePresence>
-        {!isCorrect && (
+        {!isChecking && (
           <motion.button
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 20 }}
+            transition={{ duration: 0.3 }}
             onClick={handleCheck}
-            disabled={isChecking}
-            aria-label={isChecking ? "Checking" : "Check answers"}
-            tabIndex={0}
-            className="mt-6 w-full p-4 rounded-xl font-black text-xl text-white shadow-lg disabled:opacity-50 min-h-[60px]"
             style={{ backgroundColor: color }}
-            whileTap={{ scale: 0.95 }}
-            whileHover={{ scale: 1.02 }}
+            className="mt-8 w-full py-4 rounded-xl text-white font-black text-xl shadow-lg active:scale-95 transition-transform"
           >
-            {isChecking && !isCorrect ? "..." : "Check"}
+            Check
           </motion.button>
         )}
       </AnimatePresence>

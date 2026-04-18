@@ -2,68 +2,52 @@ import { SortPuzzleRound } from "../../../../components/astro-games/views/m3/Sor
 
 export const rounds: SortPuzzleRound[] = [
   {
-    id: "sp-1",
+    id: "sp-env-1",
     taskDescription: {
-      en: "Sort the animals by size, from smallest to largest.",
-      hu: "Rendezd az állatokat méret szerint, a legkisebbtől a legnagyobbig.",
-      de: "Sortiere die Tiere nach Größe, vom kleinsten zum größten.",
-      ro: "Sortează animalele după mărime, de la cel mai mic la cel mai mare."
+      en: "Sort the layers of the Earth from outermost to innermost.",
+      de: "Sortiere die Schichten der Erde von außen nach innen.",
+      hu: "Rendezd a Föld rétegeit kívülről befelé.",
+      ro: "Sortează straturile Pământului de la cel mai exterior la cel mai interior."
     },
     items: [
-      { id: "i1", label: { en: "Mouse", hu: "Egér", de: "Maus", ro: "Șoarece" } },
-      { id: "i2", label: { en: "Cat", hu: "Macska", de: "Katze", ro: "Pisică" } },
-      { id: "i3", label: { en: "Dog", hu: "Kutya", de: "Hund", ro: "Câine" } },
-      { id: "i4", label: { en: "Horse", hu: "Ló", de: "Pferd", ro: "Cal" } },
-      { id: "i5", label: { en: "Elephant", hu: "Elefánt", de: "Elefant", ro: "Elefant" } }
+      { id: "c1", label: { en: "Crust", de: "Erdkruste", hu: "Földkéreg", ro: "Crustă" } },
+      { id: "c2", label: { en: "Mantle", de: "Erdmantel", hu: "Köpeny", ro: "Manta" } },
+      { id: "c3", label: { en: "Outer Core", de: "Äußerer Erdkern", hu: "Külső mag", ro: "Miez exterior" } },
+      { id: "c4", label: { en: "Inner Core", de: "Innerer Erdkern", hu: "Belső mag", ro: "Miez interior" } }
     ],
-    correctOrder: ["i1", "i2", "i3", "i4", "i5"]
+    correctOrder: ["c1", "c2", "c3", "c4"]
   },
   {
-    id: "sp-2",
+    id: "sp-env-2",
     taskDescription: {
-      en: "Arrange the planets in order from the Sun.",
-      hu: "Állítsd sorba a bolygókat a Naptól távolodva.",
-      de: "Ordne die Planeten in der Reihenfolge von der Sonne an.",
-      ro: "Aranjează planetele în ordine de la Soare."
+      en: "Sort these animals by their place in a food chain, starting with the producer.",
+      de: "Sortiere diese Tiere nach ihrem Platz in einer Nahrungskette, beginnend mit dem Produzenten.",
+      hu: "Rendezd ezeket az állatokat a táplálékláncban elfoglalt helyük szerint, a termelővel kezdve.",
+      ro: "Sortează aceste animale după locul lor într-un lanț trofic, începând cu producătorul."
     },
     items: [
-      { id: "p1", label: { en: "Mercury", hu: "Merkúr", de: "Merkur", ro: "Mercur" } },
-      { id: "p2", label: { en: "Venus", hu: "Vénusz", de: "Venus", ro: "Venus" } },
-      { id: "p3", label: { en: "Earth", hu: "Föld", de: "Erde", ro: "Pământ" } },
-      { id: "p4", label: { en: "Mars", hu: "Mars", de: "Mars", ro: "Marte" } }
+      { id: "f1", label: { en: "Grass", de: "Gras", hu: "Fű", ro: "Iarbă" } },
+      { id: "f2", label: { en: "Grasshopper", de: "Heuschrecke", hu: "Szöcske", ro: "Lăcustă" } },
+      { id: "f3", label: { en: "Frog", de: "Frosch", hu: "Béka", ro: "Broască" } },
+      { id: "f4", label: { en: "Snake", de: "Schlange", hu: "Kígyó", ro: "Șarpe" } },
+      { id: "f5", label: { en: "Eagle", de: "Adler", hu: "Sas", ro: "Vultur" } }
     ],
-    correctOrder: ["p1", "p2", "p3", "p4"]
+    correctOrder: ["f1", "f2", "f3", "f4", "f5"]
   },
   {
-    id: "sp-3",
+    id: "sp-env-3",
     taskDescription: {
-      en: "Put the historical eras in chronological order.",
-      hu: "Tedd időrendi sorrendbe a történelmi korszakokat.",
-      de: "Bringe die historischen Epochen in chronologische Reihenfolge.",
-      ro: "Pune epocile istorice în ordine cronologică."
+      en: "Sort the steps of the water cycle, starting from evaporation.",
+      de: "Sortiere die Schritte des Wasserkreislaufs, beginnend mit der Verdunstung.",
+      hu: "Rendezd a vízkörforgás lépéseit, a párolgástól kezdve.",
+      ro: "Sortează pașii ciclului apei, începând de la evaporare."
     },
     items: [
-      { id: "e1", label: { en: "Stone Age", hu: "Kőkorszak", de: "Steinzeit", ro: "Epoca de Piatră" } },
-      { id: "e2", label: { en: "Bronze Age", hu: "Bronzkor", de: "Bronzezeit", ro: "Epoca de Bronz" } },
-      { id: "e3", label: { en: "Iron Age", hu: "Vaskor", de: "Eisenzeit", ro: "Epoca de Fier" } },
-      { id: "e4", label: { en: "Middle Ages", hu: "Középkor", de: "Mittelalter", ro: "Evul Mediu" } }
+      { id: "w1", label: { en: "Evaporation", de: "Verdunstung", hu: "Párolgás", ro: "Evaporare" } },
+      { id: "w2", label: { en: "Condensation", de: "Kondensation", hu: "Lecsapódás", ro: "Condensare" } },
+      { id: "w3", label: { en: "Precipitation", de: "Niederschlag", hu: "Csapadék", ro: "Precipitații" } },
+      { id: "w4", label: { en: "Collection", de: "Sammlung", hu: "Összegyűlés", ro: "Colectare" } }
     ],
-    correctOrder: ["e1", "e2", "e3", "e4"]
-  },
-  {
-    id: "sp-4",
-    taskDescription: {
-      en: "Sort the modes of transport from slowest to fastest.",
-      hu: "Rendezd a közlekedési eszközöket a leglassabbtól a leggyorsabbig.",
-      de: "Sortiere die Verkehrsmittel vom langsamsten zum schnellsten.",
-      ro: "Sortează mijloacele de transport de la cel mai lent la cel mai rapid."
-    },
-    items: [
-      { id: "t1", label: { en: "Walking", hu: "Gyaloglás", de: "Zufußgehen", ro: "Mers pe jos" } },
-      { id: "t2", label: { en: "Bicycle", hu: "Bicikli", de: "Fahrrad", ro: "Bicicletă" } },
-      { id: "t3", label: { en: "Car", hu: "Autó", de: "Auto", ro: "Mașină" } },
-      { id: "t4", label: { en: "Airplane", hu: "Repülőgép", de: "Flugzeug", ro: "Avion" } }
-    ],
-    correctOrder: ["t1", "t2", "t3", "t4"]
+    correctOrder: ["w1", "w2", "w3", "w4"]
   }
 ];

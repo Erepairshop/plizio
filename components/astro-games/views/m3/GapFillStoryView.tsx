@@ -28,30 +28,20 @@ export default function GapFillStoryView({
 }: AstroGameProps<GapFillStoryRound>) {
   const [roundIdx, setRoundIdx] = useState(0);
   const [score, setScore] = useState(0);
-  const currentRound = rounds[roundIdx];
-
-  const [filledBlanks, setFilledBlanks] = useState<Record<number, string | null>>({});
+  const [filledBlanks, setFilledBlanks] = useState<Record<number, string>>({});
   const [selectedBlankIndex, setSelectedBlankIndex] = useState<number | null>(null);
   const [isChecking, setIsChecking] = useState(false);
-  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [errors, setErrors] = useState<Record<number, boolean>>({});
+
+  if (!rounds || rounds.length === 0) return null;
+  const currentRound = rounds[roundIdx];
+  const totalRounds = rounds.length;
 
   useEffect(() => {
     if (currentRound) {
-      const initialBlanks: Record<number, null> = {};
-      currentRound.blanks.forEach((b) => {
-        initialBlanks[b.index] = null;
-      });
-      setFilledBlanks(initialBlanks);
-      
-      if (currentRound.blanks.length > 0) {
-        setSelectedBlankIndex(currentRound.blanks[0].index);
-      } else {
-        setSelectedBlankIndex(null);
-      }
-      
+      setFilledBlanks({});
+      setSelectedBlankIndex(currentRound.blanks[0]?.index ?? null);
       setIsChecking(false);
-      setIsCorrect(null);
       setErrors({});
     }
   }, [currentRound]);
@@ -76,24 +66,24 @@ export default function GapFillStoryView({
     return parts;
   }, [currentRound, lang]);
 
-  if (!currentRound) return null;
-
-  const handleBlankTap = (index: number) => {
-    if (isChecking || isCorrect) return;
-    setSelectedBlankIndex(index);
+  const handleBlankClick = (idx: number) => {
+    if (isChecking) return;
+    setSelectedBlankIndex(idx);
+    setErrors(prev => {
+      const newErr = { ...prev };
+      delete newErr[idx];
+      return newErr;
+    });
   };
 
-  const handleOptionTap = (optionId: string) => {
-    if (selectedBlankIndex === null || isChecking || isCorrect) return;
-
-    setFilledBlanks((prev) => ({ ...prev, [selectedBlankIndex]: optionId }));
+  const handleOptionSelect = (optId: string) => {
+    if (selectedBlankIndex === null || isChecking) return;
+    setFilledBlanks(prev => ({ ...prev, [selectedBlankIndex]: optId }));
     
-    const emptyBlanks = currentRound.blanks.filter(b => b.index !== selectedBlankIndex && !filledBlanks[b.index]);
-    if (emptyBlanks.length > 0) {
-      setSelectedBlankIndex(emptyBlanks[0].index);
-    } else {
-      setSelectedBlankIndex(null);
-    }
+    const nextBlank = currentRound.blanks.find(b => b.index !== selectedBlankIndex && !filledBlanks[b.index] && b.index > selectedBlankIndex);
+    const anyNext = currentRound.blanks.find(b => b.index !== selectedBlankIndex && !filledBlanks[b.index]);
+    
+    setSelectedBlankIndex(nextBlank?.index ?? anyNext?.index ?? null);
   };
 
   const handleCheck = () => {
@@ -101,7 +91,7 @@ export default function GapFillStoryView({
     let allCorrect = true;
     const newErrors: Record<number, boolean> = {};
 
-    currentRound.blanks.forEach((b) => {
+    currentRound.blanks.forEach(b => {
       if (filledBlanks[b.index] !== b.correctOptionId) {
         allCorrect = false;
         newErrors[b.index] = true;
@@ -109,14 +99,13 @@ export default function GapFillStoryView({
     });
 
     if (allCorrect) {
-      setIsCorrect(true);
-      setScore((s) => s + 10);
+      setScore(s => s + 10);
       onCorrect?.();
       setTimeout(() => {
-        if (roundIdx + 1 < rounds.length) {
-          setRoundIdx(roundIdx + 1);
+        if (roundIdx + 1 < totalRounds) {
+          setRoundIdx(r => r + 1);
         } else {
-          onDone(score + 10, rounds.length * 10);
+          onDone(score + 10, totalRounds * 10);
         }
       }, 1500);
     } else {
@@ -124,92 +113,81 @@ export default function GapFillStoryView({
       onWrong?.();
       setTimeout(() => {
         setIsChecking(false);
-        setErrors({});
-        setFilledBlanks((prev) => {
+        const firstErr = Object.keys(newErrors)[0];
+        if (firstErr) setSelectedBlankIndex(parseInt(firstErr, 10));
+        
+        // clear wrong answers
+        setFilledBlanks(prev => {
           const next = { ...prev };
-          Object.keys(newErrors).forEach((k) => {
-            next[parseInt(k, 10)] = null;
-          });
+          Object.keys(newErrors).forEach(k => delete next[parseInt(k, 10)]);
           return next;
         });
-        
-        const firstErrorKey = Object.keys(newErrors)[0];
-        if (firstErrorKey !== undefined) {
-          setSelectedBlankIndex(parseInt(firstErrorKey, 10));
-        }
       }, 1500);
     }
   };
 
-  const isAllFilled = Object.values(filledBlanks).every((val) => val !== null);
+  const taskText = currentRound.taskDescription[lang] || currentRound.taskDescription.en;
+  const progressText = `${roundIdx + 1} / ${totalRounds}`;
+  const progressPercent = ((roundIdx + 1) / totalRounds) * 100;
+  const allFilled = currentRound.blanks.every(b => filledBlanks[b.index]);
   const activeBlankDef = currentRound.blanks.find(b => b.index === selectedBlankIndex);
 
   return (
-    <div className="flex flex-col items-center justify-start w-full max-w-md mx-auto p-4 min-h-[80vh]">
-      {/* Header */}
-      <div className="w-full flex justify-between font-bold text-white/50 text-sm px-2 mb-2">
-        <span>Score: {score}</span>
-        <span>Round {roundIdx + 1} / {rounds.length}</span>
+    <div className="flex flex-col items-center w-full max-w-md mx-auto p-4 font-sans min-h-[80vh]">
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10 flex flex-col gap-2">
+        <h2 className="text-xl font-black text-white">{taskText}</h2>
+        <div className="text-white/70 font-bold">{progressText}</div>
+        <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
+          <motion.div
+            className="h-full"
+            style={{ backgroundColor: color }}
+            initial={{ width: `${(roundIdx / totalRounds) * 100}%` }}
+            animate={{ width: `${progressPercent}%` }}
+            transition={{ duration: 0.4 }}
+          />
+        </div>
       </div>
 
-      {/* Progress Bar */}
-      <div className="w-full h-2 bg-white/10 rounded-full mb-4 overflow-hidden">
-        <motion.div
-          className="h-full rounded-full"
-          style={{ backgroundColor: color }}
-          initial={{ width: `${(roundIdx / rounds.length) * 100}%` }}
-          animate={{ width: `${((roundIdx + 1) / rounds.length) * 100}%` }}
-          transition={{ duration: 0.3 }}
-        />
+      <div className="w-full flex justify-center mb-6 text-white/50 font-bold text-sm">
+        Score: {score}
       </div>
 
-      {/* Task Description */}
-      <div className="w-full bg-black/40 p-4 rounded-xl mb-6 text-center border-2 border-white/10 shadow-lg">
-        <h2 className="text-xl font-black text-white" tabIndex={0} aria-label={currentRound.taskDescription[lang] || currentRound.taskDescription.en}>
-          {currentRound.taskDescription[lang] || currentRound.taskDescription.en}
-        </h2>
-      </div>
-
-      {/* Story Area */}
-      <div className="w-full bg-white/5 p-6 rounded-2xl mb-6 text-xl leading-loose font-medium text-white shadow-inner border border-white/10" tabIndex={0}>
+      <div className="w-full bg-white/5 p-6 rounded-2xl mb-6 text-xl leading-loose font-medium text-white shadow-inner border border-white/10">
         {parsedStory.map((part, i) => {
           if (part.type === "text") {
             return <span key={i}>{part.content}</span>;
           } else if (part.type === "blank" && part.index !== undefined) {
             const blankIdx = part.index;
-            const filledOptionId = filledBlanks[blankIdx];
+            const bDef = currentRound.blanks.find(b => b.index === blankIdx);
+            const filledOptId = filledBlanks[blankIdx];
+            const opt = bDef?.options.find(o => o.id === filledOptId);
+            const display = opt ? (opt.label[lang] || opt.label.en) : "______";
+            
             const isSelected = selectedBlankIndex === blankIdx;
-            const isError = errors[blankIdx];
-            const isSuccess = isChecking && !isError;
-            
-            const blankDef = currentRound.blanks.find(b => b.index === blankIdx);
-            const filledOption = blankDef?.options.find(o => o.id === filledOptionId);
-            const displayWord = filledOption ? (filledOption.label[lang] || filledOption.label.en) : "___";
+            const isErr = errors[blankIdx];
+            const isSuccess = isChecking && !isErr;
 
-            let blankClass = "inline-flex items-center justify-center min-w-[80px] min-h-[44px] px-3 mx-1 rounded-lg border-b-4 cursor-pointer transition-colors active:scale-95";
-            
-            if (isError) {
-              blankClass += " bg-red-500/20 border-red-500 text-red-100";
+            let bClass = "inline-flex px-3 mx-1 rounded-lg border-b-4 cursor-pointer transition-colors duration-300 font-bold ";
+            if (isErr) {
+              bClass += "bg-red-500/20 border-red-500 text-red-300";
             } else if (isSuccess) {
-              blankClass += " bg-green-500/20 border-green-500 text-green-100";
+              bClass += "bg-green-500/20 border-green-500 text-green-300";
             } else if (isSelected) {
-              blankClass += " bg-white/20 border-white text-white shadow-[0_0_10px_rgba(255,255,255,0.5)]";
-            } else if (filledOptionId) {
-              blankClass += " bg-white/10 border-white/50 text-white hover:bg-white/20";
+              bClass += "bg-white/20 border-white text-white shadow-[0_0_10px_rgba(255,255,255,0.3)]";
+            } else if (filledOptId) {
+              bClass += "bg-white/10 border-white/50 text-white/90 hover:bg-white/20";
             } else {
-              blankClass += " bg-black/20 border-white/20 hover:border-white/40";
+              bClass += "bg-black/20 border-white/20 text-white/30 hover:border-white/40";
             }
 
             return (
               <motion.span
                 key={i}
-                className={blankClass}
-                onClick={() => handleBlankTap(blankIdx)}
+                className={bClass}
+                onClick={() => handleBlankClick(blankIdx)}
                 whileTap={{ scale: 0.95 }}
-                tabIndex={0}
-                aria-label={`Blank ${blankIdx + 1}, currently ${displayWord}`}
               >
-                {displayWord}
+                {display}
               </motion.span>
             );
           }
@@ -217,85 +195,42 @@ export default function GapFillStoryView({
         })}
       </div>
 
-      {/* Word Bank for selected blank */}
-      <div className="w-full min-h-[120px]">
+      <div className="w-full min-h-[140px] flex flex-col justify-center">
         <AnimatePresence mode="wait">
-          {activeBlankDef && !isChecking && !isCorrect && (
+          {activeBlankDef && !isChecking && (
             <motion.div
               key={`options-${activeBlankDef.index}`}
-              initial={{ opacity: 0, y: 10 }}
+              initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -10 }}
-              className="w-full flex flex-col gap-3"
+              exit={{ opacity: 0, y: -20 }}
+              className="flex flex-wrap justify-center gap-3 w-full"
             >
-              <div className="text-center text-white/50 text-sm font-bold uppercase tracking-wider mb-2">
-                {lang === 'en' ? 'Choose a word' : lang === 'de' ? 'Wähle ein Wort' : lang === 'hu' ? 'Válassz egy szót' : 'Alege un cuvânt'}
-              </div>
-              <div className="flex flex-wrap justify-center gap-3">
-                {activeBlankDef.options.map((opt) => {
-                  const isSelected = filledBlanks[activeBlankDef.index] === opt.id;
-                  
-                  let btnClass = "px-6 py-3 min-h-[56px] rounded-xl font-bold text-lg border-2 cursor-pointer transition-colors active:scale-95 flex-1 min-w-[140px] ";
-                  if (isSelected) {
-                    btnClass += "bg-white text-black border-white shadow-[0_0_15px_rgba(255,255,255,0.6)]";
-                  } else {
-                    btnClass += "bg-black/40 text-white border-white/20 hover:border-white/40 hover:bg-black/60";
-                  }
-
-                  return (
-                    <motion.button
-                      key={opt.id}
-                      className={btnClass}
-                      onClick={() => handleOptionTap(opt.id)}
-                      whileTap={{ scale: 0.9 }}
-                      tabIndex={0}
-                      aria-label={opt.label[lang] || opt.label.en}
-                    >
-                      {opt.label[lang] || opt.label.en}
-                    </motion.button>
-                  );
-                })}
-              </div>
+              {activeBlankDef.options.map(opt => (
+                <motion.button
+                  key={opt.id}
+                  onClick={() => handleOptionSelect(opt.id)}
+                  whileTap={{ scale: 0.95 }}
+                  className="px-6 py-4 rounded-xl border-2 font-bold text-lg bg-black/40 text-white border-white/20 hover:border-white/50 active:bg-white/20 flex-grow text-center shadow-lg"
+                >
+                  {opt.label[lang] || opt.label.en}
+                </motion.button>
+              ))}
             </motion.div>
           )}
         </AnimatePresence>
       </div>
 
-      {/* Action Button */}
       <AnimatePresence>
-        {isAllFilled && !isCorrect && selectedBlankIndex === null && (
+        {allFilled && !isChecking && selectedBlankIndex === null && (
           <motion.button
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 0, scale: 0.8 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.8 }}
             onClick={handleCheck}
-            disabled={isChecking}
-            aria-label={isChecking ? "Checking" : "Check answers"}
-            tabIndex={0}
-            className="w-full p-4 rounded-xl font-black text-xl text-white shadow-lg disabled:opacity-50 min-h-[60px] mt-4"
             style={{ backgroundColor: color }}
-            whileTap={{ scale: 0.95 }}
-            whileHover={{ scale: 1.02 }}
+            className="mt-6 w-full py-4 rounded-xl text-white font-black text-xl shadow-lg active:scale-95 transition-transform"
           >
-            {isChecking && !isCorrect ? "..." : "Check"}
-          </motion.button>
-        )}
-      </AnimatePresence>
-      
-      {/* If all filled but blank still selected, show a "Done" button to dismiss options */}
-      <AnimatePresence>
-        {isAllFilled && !isCorrect && selectedBlankIndex !== null && (
-          <motion.button
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: 20 }}
-            onClick={() => setSelectedBlankIndex(null)}
-            tabIndex={0}
-            className="w-full p-4 rounded-xl font-black text-xl text-white shadow-lg bg-white/20 border-2 border-white/40 min-h-[60px] mt-4"
-            whileTap={{ scale: 0.95 }}
-            whileHover={{ scale: 1.02 }}
-          >
-            Ok
+            Check Answers
           </motion.button>
         )}
       </AnimatePresence>

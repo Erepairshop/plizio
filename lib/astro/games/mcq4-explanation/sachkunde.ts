@@ -2,115 +2,87 @@ import { MCQ4ExplanationRound } from "../../../../components/astro-games/views/m
 
 export const rounds: MCQ4ExplanationRound[] = [
   {
-    id: "mcq-1",
+    id: "mcq-env-1",
     taskDescription: {
       en: "Choose the correct answer.",
       de: "Wähle die richtige Antwort.",
       hu: "Válaszd ki a helyes választ.",
       ro: "Alege răspunsul corect."
     },
-    prompt: {
-      en: "What do plants need to produce oxygen through photosynthesis?",
-      de: "Was brauchen Pflanzen, um durch Photosynthese Sauerstoff zu produzieren?",
-      hu: "Mire van szükségük a növényeknek az oxigéntermeléshez a fotoszintézis során?",
-      ro: "De ce au nevoie plantele pentru a produce oxigen prin fotosinteză?"
+    question: {
+      en: "Which of these materials takes the longest time to decompose in nature?",
+      de: "Welches dieser Materialien braucht am längsten, um in der Natur abgebaut zu werden?",
+      hu: "Melyik anyag lebomlása tart a legtovább a természetben?",
+      ro: "Care dintre aceste materiale durează cel mai mult timp să se descompună în natură?"
     },
-    answerOptions: [
-      { id: "a", label: { en: "Sunlight, Water, Carbon dioxide", de: "Sonnenlicht, Wasser, Kohlendioxid", hu: "Napfény, Víz, Szén-dioxid", ro: "Lumina soarelui, Apă, Dioxid de carbon" } },
-      { id: "b", label: { en: "Soil, Wind, Oxygen", de: "Erde, Wind, Sauerstoff", hu: "Talaj, Szél, Oxigén", ro: "Sol, Vânt, Oxigen" } },
-      { id: "c", label: { en: "Fire, Water, Nitrogen", de: "Feuer, Wasser, Stickstoff", hu: "Tűz, Víz, Nitrogén", ro: "Foc, Apă, Azot" } },
-      { id: "d", label: { en: "Moonlight, Soil, Sugar", de: "Mondlicht, Erde, Zucker", hu: "Holdfény, Talaj, Cukor", ro: "Lumina lunii, Sol, Zahăr" } }
+    options: [
+      { en: "Apple core", de: "Apfelgriebs", hu: "Alma csutka", ro: "Cotor de măr" },
+      { en: "Paper bag", de: "Papiertüte", hu: "Papírzacskó", ro: "Pungă de hârtie" },
+      { en: "Glass bottle", de: "Glasflasche", hu: "Üvegpalack", ro: "Sticlă" },
+      { en: "Cotton shirt", de: "Baumwollhemd", hu: "Pamut póló", ro: "Cămașă de bumbac" }
     ],
-    correctAnswerId: "a",
+    correctIndex: 2,
     explanation: {
-      en: "Plants use the energy from sunlight to turn water and carbon dioxide into glucose and oxygen.",
-      de: "Pflanzen nutzen die Energie des Sonnenlichts, um Wasser und Kohlendioxid in Glukose und Sauerstoff umzuwandeln.",
-      hu: "A növények a napfény energiáját használják fel arra, hogy a vizet és a szén-dioxidot glükózzá és oxigénné alakítsák.",
-      ro: "Plantele folosesc energia de la lumina soarelui pentru a transforma apa și dioxidul de carbon în glucoză și oxigen."
+      en: "A glass bottle can take up to 1 million years to decompose in nature, while organic matter like an apple core takes only a few weeks.",
+      de: "Eine Glasflasche kann bis zu 1 Million Jahre brauchen, um sich in der Natur zu zersetzen, während organisches Material wie ein Apfelgriebs nur wenige Wochen braucht.",
+      hu: "Egy üvegpalack lebomlása akár 1 millió évig is eltarthat a természetben, míg a szerves anyagok, mint az alma csutka, csak néhány hétig.",
+      ro: "O sticlă poate dura până la 1 milion de ani pentru a se descompune în natură, în timp ce materia organică precum cotorul de măr durează doar câteva săptămâni."
     }
   },
   {
-    id: "mcq-2",
+    id: "mcq-env-2",
     taskDescription: {
       en: "Choose the correct answer.",
       de: "Wähle die richtige Antwort.",
       hu: "Válaszd ki a helyes választ.",
       ro: "Alege răspunsul corect."
     },
-    prompt: {
-      en: "Which part of a plant is primarily responsible for absorbing water?",
-      de: "Welcher Teil einer Pflanze ist hauptsächlich für die Wasseraufnahme verantwortlich?",
-      hu: "A növény melyik része felelős elsősorban a víz felszívásáért?",
-      ro: "Care parte a unei plante este în principal responsabilă pentru absorbția apei?"
+    question: {
+      en: "What is the primary cause of global warming?",
+      de: "Was ist die Hauptursache der globalen Erwärmung?",
+      hu: "Mi a globális felmelegedés elsődleges oka?",
+      ro: "Care este cauza principală a încălzirii globale?"
     },
-    answerOptions: [
-      { id: "a", label: { en: "Leaves", de: "Blätter", hu: "Levelek", ro: "Frunze" } },
-      { id: "b", label: { en: "Stem", de: "Stamm", hu: "Szár", ro: "Tulpina" } },
-      { id: "c", label: { en: "Roots", de: "Wurzeln", hu: "Gyökerek", ro: "Rădăcini" } },
-      { id: "d", label: { en: "Flowers", de: "Blüten", hu: "Virágok", ro: "Flori" } }
+    options: [
+      { en: "Too many trees", de: "Zu viele Bäume", hu: "Túl sok fa", ro: "Prea mulți copaci" },
+      { en: "Volcanic eruptions", de: "Vulkanausbrüche", hu: "Vulkánkitörések", ro: "Erupții vulcanice" },
+      { en: "Greenhouse gases", de: "Treibhausgase", hu: "Üvegházhatású gázok", ro: "Gaze cu efect de seră" },
+      { en: "Ocean currents", de: "Meeresströmungen", hu: "Óceáni áramlatok", ro: "Curenții oceanici" }
     ],
-    correctAnswerId: "c",
+    correctIndex: 2,
     explanation: {
-      en: "The roots anchor the plant in the soil and absorb water and nutrients necessary for growth.",
-      de: "Die Wurzeln verankern die Pflanze im Boden und nehmen Wasser und Nährstoffe auf, die für das Wachstum notwendig sind.",
-      hu: "A gyökerek rögzítik a növényt a talajban, és felszívják a növekedéshez szükséges vizet és tápanyagokat.",
-      ro: "Rădăcinile ancorează planta în sol și absorb apa și nutrienții necesari pentru creștere."
+      en: "Greenhouse gases, like carbon dioxide from burning fossil fuels, trap heat in the Earth's atmosphere, leading to a rise in global temperatures.",
+      de: "Treibhausgase wie Kohlendioxid aus der Verbrennung fossiler Brennstoffe fangen Wärme in der Erdatmosphäre ein und führen so zu einem Anstieg der globalen Temperaturen.",
+      hu: "Az üvegházhatású gázok, mint a fosszilis tüzelőanyagok elégetéséből származó szén-dioxid, csapdába ejtik a hőt a Föld légkörében, ami a globális hőmérséklet emelkedéséhez vezet.",
+      ro: "Gazele cu efect de seră, precum dioxidul de carbon provenit din arderea combustibililor fosili, captează căldura în atmosfera Pământului, ducând la o creștere a temperaturilor globale."
     }
   },
   {
-    id: "mcq-3",
+    id: "mcq-env-3",
     taskDescription: {
       en: "Choose the correct answer.",
       de: "Wähle die richtige Antwort.",
       hu: "Válaszd ki a helyes választ.",
       ro: "Alege răspunsul corect."
     },
-    prompt: {
-      en: "What happens to water when it boils?",
-      de: "Was passiert mit Wasser, wenn es kocht?",
-      hu: "Mi történik a vízzel, amikor felforr?",
-      ro: "Ce se întâmplă cu apa când fierbe?"
+    question: {
+      en: "Which of the following is a renewable energy source?",
+      de: "Welche der folgenden ist eine erneuerbare Energiequelle?",
+      hu: "Az alábbiak közül melyik megújuló energiaforrás?",
+      ro: "Care dintre următoarele este o sursă de energie regenerabilă?"
     },
-    answerOptions: [
-      { id: "a", label: { en: "It turns into ice.", de: "Es wird zu Eis.", hu: "Jéggé válik.", ro: "Se transformă în gheață." } },
-      { id: "b", label: { en: "It turns into water vapor (gas).", de: "Es wird zu Wasserdampf (Gas).", hu: "Vízgőzzé (gázzá) alakul.", ro: "Se transformă în vapori de apă (gaz)." } },
-      { id: "c", label: { en: "It becomes heavier.", de: "Es wird schwerer.", hu: "Nehezebb lesz.", ro: "Devine mai grea." } },
-      { id: "d", label: { en: "It turns into salt.", de: "Es wird zu Salz.", hu: "Sóvá változik.", ro: "Se transformă în sare." } }
+    options: [
+      { en: "Coal", de: "Kohle", hu: "Szén", ro: "Cărbune" },
+      { en: "Wind", de: "Wind", hu: "Szél", ro: "Vânt" },
+      { en: "Natural Gas", de: "Erdgas", hu: "Földgáz", ro: "Gaze naturale" },
+      { en: "Oil", de: "Öl", hu: "Olaj", ro: "Petrol" }
     ],
-    correctAnswerId: "b",
+    correctIndex: 1,
     explanation: {
-      en: "Boiling causes liquid water to evaporate and change its state into a gas called water vapor.",
-      de: "Durch das Kochen verdampft flüssiges Wasser und ändert seinen Aggregatzustand in ein Gas namens Wasserdampf.",
-      hu: "A forrás hatására a folyékony víz elpárolog, és halmazállapotát gázra, úgynevezett vízgőzre változtatja.",
-      ro: "Fierberea face ca apa lichidă să se evapore și să-și schimbe starea într-un gaz numit vapori de apă."
-    }
-  },
-  {
-    id: "mcq-4",
-    taskDescription: {
-      en: "Choose the correct answer.",
-      de: "Wähle die richtige Antwort.",
-      hu: "Válaszd ki a helyes választ.",
-      ro: "Alege răspunsul corect."
-    },
-    prompt: {
-      en: "Which animal is a mammal?",
-      de: "Welches Tier ist ein Säugetier?",
-      hu: "Melyik állat emlős?",
-      ro: "Care animal este un mamifer?"
-    },
-    answerOptions: [
-      { id: "a", label: { en: "Shark", de: "Hai", hu: "Cápa", ro: "Rechin" } },
-      { id: "b", label: { en: "Frog", de: "Frosch", hu: "Béka", ro: "Broască" } },
-      { id: "c", label: { en: "Dolphin", de: "Delfin", hu: "Delfin", ro: "Delfin" } },
-      { id: "d", label: { en: "Penguin", de: "Pinguin", hu: "Pingvin", ro: "Pinguin" } }
-    ],
-    correctAnswerId: "c",
-    explanation: {
-      en: "Even though dolphins live in the ocean, they are mammals because they breathe air, have hair (at birth), and produce milk for their young.",
-      de: "Obwohl Delfine im Ozean leben, sind sie Säugetiere, weil sie Luft atmen, (bei der Geburt) Haare haben und Milch für ihre Jungen produzieren.",
-      hu: "Bár a delfinek az óceánban élnek, emlősök, mert levegőt lélegeznek be, szőrzetük van (születéskor), és tejjel táplálják kicsinyeiket.",
-      ro: "Chiar dacă delfinii trăiesc în ocean, ei sunt mamifere pentru că respiră aer, au păr (la naștere) și produc lapte pentru puii lor."
+      en: "Wind is a renewable resource because it is naturally replenished and will never run out, unlike fossil fuels such as coal and oil.",
+      de: "Wind ist eine erneuerbare Ressource, da er auf natürliche Weise erneuert wird und im Gegensatz zu fossilen Brennstoffen wie Kohle und Öl nie ausgeht.",
+      hu: "A szél megújuló erőforrás, mert természetes módon újratermelődik és sosem fogy el, ellentétben a fosszilis tüzelőanyagokkal, mint a szén és az olaj.",
+      ro: "Vântul este o resursă regenerabilă deoarece este completată natural și nu se va epuiza niciodată, spre deosebire de combustibilii fosili cum ar fi cărbunele și petrolul."
     }
   }
 ];

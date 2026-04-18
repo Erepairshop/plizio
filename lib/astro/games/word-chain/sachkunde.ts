@@ -10,35 +10,35 @@ export const wordChainSachkunde: WordChainRound[] = [
       ro: "Găsește cuvântul care începe cu ultima literă a cuvântului dat."
     },
     startWord: {
-      en: "SUN",
-      de: "SONNE",
-      hu: "NAP",
-      ro: "SOARE"
+      en: "ANIMAL",
+      de: "TIER",
+      hu: "ÁLLAT",
+      ro: "ANIMAL"
     },
     options: [
       {
-        en: "NEBULA",
-        de: "ERDE",
-        hu: "PLUTÓ",
-        ro: "ECLIPSA"
+        en: "LION",
+        de: "RATTE",
+        hu: "TEVE",
+        ro: "LEU"
       },
       {
-        en: "STAR",
-        de: "STERN",
-        hu: "CSILLAG",
-        ro: "STEAUA"
+        en: "DOG",
+        de: "HUND",
+        hu: "KUTYA",
+        ro: "CÂINE"
       },
       {
-        en: "MOON",
-        de: "MOND",
-        hu: "HOLD",
-        ro: "LUNA"
+        en: "CAT",
+        de: "KATZE",
+        hu: "MACSKA",
+        ro: "PISICĂ"
       },
       {
-        en: "COMET",
-        de: "KOMET",
-        hu: "ÜSTÖKÖS",
-        ro: "COMETĂ"
+        en: "BIRD",
+        de: "VOGEL",
+        hu: "MADÁR",
+        ro: "PASĂRE"
       }
     ],
     correctIndex: 0
@@ -52,38 +52,38 @@ export const wordChainSachkunde: WordChainRound[] = [
       ro: "Găsește cuvântul care începe cu ultima literă a cuvântului dat."
     },
     startWord: {
-      en: "METEOR",
-      de: "METEOR",
-      hu: "METEOR",
-      ro: "METEOR"
+      en: "RAIN",
+      de: "REGEN",
+      hu: "ESŐ",
+      ro: "PLOAIE"
     },
     options: [
       {
-        en: "PLANET",
-        de: "PLANET",
-        hu: "BOLYGÓ",
-        ro: "PLANETĂ"
+        en: "SUN",
+        de: "SONNE",
+        hu: "NAP",
+        ro: "SOARE"
       },
       {
-        en: "ROCKET",
-        de: "RAKETE",
-        hu: "RAKÉTA",
-        ro: "RACHETĂ"
+        en: "WIND",
+        de: "WIND",
+        hu: "SZÉL",
+        ro: "VÂNT"
       },
       {
-        en: "GALAXY",
-        de: "GALAXIE",
-        hu: "GALAXIS",
-        ro: "GALAXIE"
+        en: "NATURE",
+        de: "NATUR",
+        hu: "ŐSZ",
+        ro: "ECOSISTEM"
       },
       {
-        en: "ORBIT",
-        de: "ORBIT",
-        hu: "KERINGÉS",
-        ro: "ORBITĂ"
+        en: "CLOUD",
+        de: "WOLKE",
+        hu: "FELHŐ",
+        ro: "NOR"
       }
     ],
-    correctIndex: 1
+    correctIndex: 2
   },
   {
     id: "wc-sachkunde-3",
@@ -94,35 +94,35 @@ export const wordChainSachkunde: WordChainRound[] = [
       ro: "Găsește cuvântul care începe cu ultima literă a cuvântului dat."
     },
     startWord: {
-      en: "STAR",
-      de: "STERN",
-      hu: "CSILLAG",
-      ro: "STEA"
+      en: "WOOD",
+      de: "HOLZ",
+      hu: "FA",
+      ro: "LEMN"
     },
     options: [
       {
-        en: "DUST",
-        de: "STAUB",
-        hu: "POR",
-        ro: "PRAF"
+        en: "FOREST",
+        de: "WALD",
+        hu: "ERDŐ",
+        ro: "PĂDURE"
       },
       {
-        en: "LIGHT",
-        de: "LICHT",
-        hu: "FÉNY",
-        ro: "LUMINĂ"
+        en: "LEAF",
+        de: "BLATT",
+        hu: "LEVÉL",
+        ro: "FRUNZĂ"
       },
       {
-        en: "HEAT",
-        de: "HITZE",
-        hu: "HŐ",
-        ro: "CĂLDURĂ"
+        en: "FLOWER",
+        de: "BLUME",
+        hu: "VIRÁG",
+        ro: "FLOARE"
       },
       {
-        en: "RADIATION",
-        de: "NEBEL",
-        hu: "GÁZ",
-        ro: "ATMOSFERĂ"
+        en: "DESERT",
+        de: "ZWEIG",
+        hu: "ALMA",
+        ro: "NATURĂ"
       }
     ],
     correctIndex: 3

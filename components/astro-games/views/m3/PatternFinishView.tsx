@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -22,22 +22,25 @@ export default function PatternFinishView({
   const [currentIdx, setCurrentIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [isRevealing, setIsRevealing] = useState(false);
 
   const round = rounds[currentIdx];
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
-    if (selectedId) return;
+    if (isRevealing) return;
     setSelectedId(optionId);
+    setIsRevealing(true);
 
     if (isCorrect) {
-      if (onCorrect) onCorrect();
+      onCorrect?.();
       setScore((s) => s + 1);
     } else {
-      if (onWrong) onWrong();
+      onWrong?.();
     }
 
     setTimeout(() => {
       setSelectedId(null);
+      setIsRevealing(false);
       if (currentIdx + 1 < rounds.length) {
         setCurrentIdx((i) => i + 1);
       } else {
@@ -51,134 +54,122 @@ export default function PatternFinishView({
   const progress = (currentIdx / rounds.length) * 100;
 
   return (
-    <div 
-      className="flex flex-col w-full h-full p-4 overflow-hidden relative max-w-4xl mx-auto"
-      role="region"
-      aria-label="Pattern Finish Game"
-    >
-      {/* Progress */}
-      <div className="flex flex-col items-center mb-6 z-10 w-full" aria-live="polite">
-        <span className="text-sm font-bold mb-2 text-slate-700" aria-label={`Round ${currentIdx + 1} of ${rounds.length}`}>
-          {currentIdx + 1} / {rounds.length}
-        </span>
-        <div 
-          className="w-full bg-slate-200 h-3 rounded-full overflow-hidden"
-          role="progressbar"
-          aria-valuenow={Math.round(progress)}
-          aria-valuemin={0}
-          aria-valuemax={100}
-        >
-          <motion.div
-            className="h-full"
-            style={{ backgroundColor: color }}
-            initial={{ width: `${((currentIdx - 1) / rounds.length) * 100}%` }}
-            animate={{ width: `${progress}%` }}
-            transition={{ duration: 0.4, ease: "easeInOut" }}
-          />
+    <div className="flex flex-col items-center w-full max-w-lg mx-auto p-4 min-h-[80vh]">
+      {/* Progress Header */}
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-6 text-center border-2 border-white/10 shadow-lg">
+        <h2 className="text-xl md:text-2xl font-black text-white mb-3">
+          {round.taskDescription[lang as keyof LocalizedText] || round.taskDescription.en}
+        </h2>
+        <div className="flex flex-col items-center gap-2">
+          <div className="text-white/80 font-bold text-sm">
+            {currentIdx + 1} / {rounds.length}
+          </div>
+          <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
+            <motion.div 
+              className="h-full rounded-full"
+              style={{ backgroundColor: color }}
+              initial={{ width: `${((currentIdx) / rounds.length) * 100}%` }}
+              animate={{ width: `${progress}%` }}
+              transition={{ duration: 0.5, ease: "easeInOut" }}
+            />
+          </div>
         </div>
       </div>
 
-      {/* Task Description */}
-      <div className="text-center mb-8 z-10 px-2">
-        <h2 
-          className="text-2xl md:text-3xl font-extrabold text-slate-800 leading-tight"
-          tabIndex={0}
-        >
-          {round.taskDescription[lang]}
-        </h2>
-      </div>
-
       {/* Pattern Display */}
-      <div 
-        className="flex flex-row flex-wrap justify-center items-center gap-2 md:gap-4 mb-10 z-10"
-        role="group"
-        aria-label="Pattern to complete"
-      >
-        <AnimatePresence mode="popLayout">
-          {round.pattern.map((item, idx) => {
-            const isMissing = item[lang] === "?";
+      <div className="flex-1 w-full flex flex-col justify-center items-center py-8">
+        <div className="flex flex-wrap justify-center gap-3 mb-8 w-full">
+          <AnimatePresence mode="popLayout">
+            {round.pattern.map((item, idx) => {
+              const text = item[lang as keyof LocalizedText] || item.en;
+              const isMissing = text === "?";
+              
+              let displayText = text;
+              if (isMissing && selectedId) {
+                const correctOpt = round.options.find(o => o.isCorrect);
+                if (correctOpt) {
+                  displayText = correctOpt.text[lang as keyof LocalizedText] || correctOpt.text.en;
+                }
+              }
+
+              return (
+                <motion.div
+                  key={`pattern-${currentIdx}-${idx}`}
+                  initial={{ opacity: 0, scale: 0.5, y: 20 }}
+                  animate={{ opacity: 1, scale: 1, y: 0 }}
+                  exit={{ opacity: 0, scale: 0.5, y: -20 }}
+                  transition={{ duration: 0.4, delay: idx * 0.1, type: "spring", bounce: 0.4 }}
+                  className={`
+                    flex items-center justify-center 
+                    w-24 h-24 md:w-32 md:h-32 rounded-2xl shadow-xl
+                    text-lg md:text-2xl font-bold p-2 text-center break-words
+                    ${isMissing && !selectedId ? "bg-black/30 border-4 border-dashed border-white/40 text-white/50" : "bg-white text-slate-800"}
+                    ${isMissing && selectedId ? "bg-green-100 text-green-800 border-4 border-green-500" : ""}
+                  `}
+                  style={{
+                    borderColor: (!isMissing && !selectedId) ? color : undefined,
+                    borderWidth: (!isMissing && !selectedId) ? '4px' : undefined
+                  }}
+                >
+                  <motion.span
+                    initial={false}
+                    animate={isMissing && selectedId ? { scale: [1, 1.2, 1] } : {}}
+                    transition={{ duration: 0.5 }}
+                  >
+                    {displayText}
+                  </motion.span>
+                </motion.div>
+              );
+            })}
+          </AnimatePresence>
+        </div>
+
+        {/* Options */}
+        <div className="grid grid-cols-2 gap-4 w-full max-w-md">
+          {round.options.map((opt, idx) => {
+            const isSelected = selectedId === opt.id;
+            const isCorrect = opt.isCorrect;
             
-            let revealedText = item[lang];
-            if (isMissing && selectedId) {
-              const correctOpt = round.options.find(o => o.isCorrect);
-              if (correctOpt) {
-                revealedText = correctOpt.text[lang];
+            let bgStyle = "bg-black/40 hover:bg-black/60";
+            let borderColor = "rgba(255,255,255,0.2)";
+            let opacity = 1;
+
+            if (selectedId) {
+              if (isSelected) {
+                bgStyle = isCorrect ? "bg-green-500" : "bg-red-500";
+                borderColor = isCorrect ? "#22c55e" : "#ef4444";
+              } else {
+                opacity = 0.5;
+                if (isCorrect) {
+                  bgStyle = "bg-green-500";
+                  borderColor = "#22c55e";
+                  opacity = 1;
+                }
               }
             }
 
             return (
-              <motion.div
-                key={`pat-${currentIdx}-${idx}`}
-                initial={{ opacity: 0, scale: 0.8 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 0.8 }}
-                transition={{ duration: 0.3, delay: idx * 0.1 }}
+              <motion.button
+                key={`opt-${currentIdx}-${opt.id}`}
+                onClick={() => handleSelect(opt.id, opt.isCorrect)}
+                disabled={isRevealing}
+                initial={{ opacity: 0, y: 30 }}
+                animate={{ opacity, y: 0 }}
+                transition={{ duration: 0.4, delay: 0.2 + idx * 0.1, type: "spring" }}
+                whileTap={{ scale: isRevealing ? 1 : 0.95 }}
                 className={`
-                  flex items-center justify-center 
-                  min-w-[4.5rem] min-h-[4.5rem] w-20 h-20 md:w-32 md:h-32 rounded-2xl shadow-sm md:shadow-md 
-                  text-base md:text-2xl font-bold p-2 text-center break-words
-                  ${isMissing && !selectedId ? "bg-slate-100 border-4 border-dashed border-slate-300 text-slate-400" : "bg-white text-slate-800"}
-                  ${isMissing && selectedId ? "bg-green-100 text-green-800 border-4 border-green-500 shadow-lg" : ""}
+                  p-4 rounded-2xl border-2 font-extrabold min-h-[80px]
+                  text-lg md:text-xl text-white shadow-lg transition-colors
+                  flex items-center justify-center text-center
+                  ${bgStyle}
                 `}
-                style={{
-                  borderColor: (!isMissing && !selectedId) ? color : undefined,
-                  borderWidth: (!isMissing && !selectedId) ? '3px' : undefined
-                }}
-                tabIndex={0}
-                aria-label={isMissing ? "Missing pattern item" : revealedText}
+                style={{ borderColor }}
               >
-                {revealedText}
-              </motion.div>
+                {opt.text[lang as keyof LocalizedText] || opt.text.en}
+              </motion.button>
             );
           })}
-        </AnimatePresence>
-      </div>
-
-      {/* Options */}
-      <div 
-        className="flex flex-col sm:flex-row flex-wrap justify-center items-stretch gap-3 md:gap-6 z-10 w-full px-2"
-        role="group"
-        aria-label="Pattern options"
-      >
-        {round.options.map((opt, idx) => {
-          const isSelected = selectedId === opt.id;
-          const isWrongSelected = isSelected && !opt.isCorrect;
-          const isCorrectRevealed = selectedId && opt.isCorrect;
-          
-          let bgColor = "bg-white text-slate-800";
-          if (isWrongSelected) bgColor = "bg-red-500 text-white border-red-600";
-          if (isCorrectRevealed) bgColor = "bg-green-500 text-white border-green-600";
-
-          return (
-            <motion.button
-              key={`opt-${currentIdx}-${opt.id}`}
-              onClick={() => handleSelect(opt.id, opt.isCorrect)}
-              disabled={!!selectedId}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.3, delay: 0.2 + idx * 0.1 }}
-              whileHover={{ scale: selectedId ? 1 : 1.03 }}
-              whileTap={{ scale: selectedId ? 1 : 0.97 }}
-              className={`
-                flex-1 min-w-[120px] max-w-full sm:max-w-[200px] min-h-[60px] md:min-h-[80px]
-                rounded-xl shadow-md flex items-center justify-center
-                text-lg md:text-xl font-bold border-4 cursor-pointer p-3 text-center transition-colors
-                focus:outline-none focus:ring-4 focus:ring-opacity-50
-                ${bgColor}
-                ${!selectedId ? "hover:shadow-lg hover:bg-slate-50 border-transparent" : ""}
-              `}
-              style={{
-                borderColor: (!selectedId && !isWrongSelected && !isCorrectRevealed) ? color : undefined,
-                boxShadow: (!selectedId && !isWrongSelected && !isCorrectRevealed) ? `0 4px 0 ${color}40` : undefined
-              }}
-              aria-label={opt.text[lang]}
-              aria-disabled={!!selectedId}
-              tabIndex={0}
-            >
-              {opt.text[lang]}
-            </motion.button>
-          );
-        })}
+        </div>
       </div>
     </div>
   );

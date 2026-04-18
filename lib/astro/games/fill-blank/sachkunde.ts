@@ -2,153 +2,90 @@ import { FillBlankRound } from "../../../../components/astro-games/views/m3/Fill
 
 export const fillBlankSachkunde: FillBlankRound[] = [
   {
-    id: "fb-sachkunde-1",
+    id: "fb-env-1",
     taskDescription: {
-      en: "Fill in the blank with the correct word.",
-      de: "Fülle die Lücke mit dem richtigen Wort aus.",
-      hu: "Egészítsd ki a mondatot a helyes szóval.",
-      ro: "Completează spațiul liber cu cuvântul corect."
+      en: "Fill in the blank with the correct environmental term.",
+      de: "Fülle die Lücke mit dem richtigen Umweltbegriff aus.",
+      hu: "Egészítsd ki a mondatot a megfelelő környezetvédelmi kifejezéssel.",
+      ro: "Completează spațiul liber cu termenul de mediu corect."
     },
     sentenceParts: {
       before: {
-        en: "The Earth revolves around the ",
-        de: "Die Erde dreht sich um die ",
-        hu: "A Föld a ",
-        ro: "Pământul se rotește în jurul "
+        en: "Plants release ",
+        de: "Pflanzen geben ",
+        hu: "A növények ",
+        ro: "Plantele eliberează "
+      },
+      after: {
+        en: " into the air, which we need to breathe.",
+        de: " in die Luft ab, den wir zum Atmen brauchen.",
+        hu: " bocsátanak a levegőbe, amire szükségünk van a légzéshez.",
+        ro: " în aer, de care avem nevoie pentru a respira."
+      }
+    },
+    options: [
+      { en: "carbon dioxide", de: "Kohlendioxid", hu: "szén-dioxidot", ro: "dioxid de carbon" },
+      { en: "oxygen", de: "Sauerstoff", hu: "oxigént", ro: "oxigen" },
+      { en: "nitrogen", de: "Stickstoff", hu: "nitrogént", ro: "azot" }
+    ],
+    correctIndex: 1
+  },
+  {
+    id: "fb-env-2",
+    taskDescription: {
+      en: "Complete the sentence.",
+      de: "Vervollständige den Satz.",
+      hu: "Egészítsd ki a mondatot.",
+      ro: "Completează propoziția."
+    },
+    sentenceParts: {
+      before: {
+        en: "Using energy from the sun to create electricity is called ",
+        de: "Die Nutzung der Sonnenenergie zur Stromerzeugung nennt man ",
+        hu: "A napenergia villamos energia előállítására történő felhasználását ",
+        ro: "Folosirea energiei de la soare pentru a crea electricitate se numește "
+      },
+      after: {
+        en: " power.",
+        de: "energie.",
+        hu: "nevezzük.",
+        ro: " solară."
+      }
+    },
+    options: [
+      { en: "nuclear", de: "Kern", hu: "atomenergiának", ro: "energie" },
+      { en: "solar", de: "Solar", hu: "napenergiának", ro: "energie" },
+      { en: "wind", de: "Wind", hu: "szélenergiának", ro: "energie eoliană" }
+    ],
+    correctIndex: 1
+  },
+  {
+    id: "fb-env-3",
+    taskDescription: {
+      en: "Find the missing word.",
+      de: "Finde das fehlende Wort.",
+      hu: "Keresd meg a hiányzó szót.",
+      ro: "Găsește cuvântul lipsă."
+    },
+    sentenceParts: {
+      before: {
+        en: "When we separate paper, plastic, and glass to use them again, it is called ",
+        de: "Wenn wir Papier, Plastik und Glas trennen, um sie wiederzuverwenden, nennt man das ",
+        hu: "Amikor a papírt, műanyagot és üveget szétválogatjuk az újrahasználat céljából, azt ",
+        ro: "Când separăm hârtia, plasticul și sticla pentru a le refolosi, se numește "
       },
       after: {
         en: ".",
         de: ".",
-        hu: " körül kering.",
+        hu: " hívják.",
         ro: "."
       }
     },
     options: [
-      {
-        en: "moon",
-        de: "Mond",
-        hu: "Hold",
-        ro: "Lunii" // Genitive since "în jurul Lunii"
-      },
-      {
-        en: "sun",
-        de: "Sonne",
-        hu: "Nap",
-        ro: "Soarelui" // Genitive
-      },
-      {
-        en: "stars",
-        de: "Sterne",
-        hu: "csillagok",
-        ro: "stelelor"
-      },
-      {
-        en: "Mars",
-        de: "Mars",
-        hu: "Mars",
-        ro: "planetei Marte"
-      }
-    ],
-    correctIndex: 1
-  },
-  {
-    id: "fb-sachkunde-2",
-    taskDescription: {
-      en: "Fill in the blank with the correct word.",
-      de: "Fülle die Lücke mit dem richtigen Wort aus.",
-      hu: "Egészítsd ki a mondatot a helyes szóval.",
-      ro: "Completează spațiul liber cu cuvântul corect."
-    },
-    sentenceParts: {
-      before: {
-        en: "A ",
-        de: "Ein ",
-        hu: "A ",
-        ro: "Un "
-      },
-      after: {
-        en: " is used to observe distant stars.",
-        de: " wird verwendet, um weit entfernte Sterne zu beobachten.",
-        hu: " segítségével figyelhetjük meg a távoli csillagokat.",
-        ro: " este folosit pentru a observa stelele îndepărtate."
-      }
-    },
-    options: [
-      {
-        en: "microscope",
-        de: "Mikroskop",
-        hu: "mikroszkóp",
-        ro: "microscop"
-      },
-      {
-        en: "thermometer",
-        de: "Thermometer",
-        hu: "hőmérő",
-        ro: "termometru"
-      },
-      {
-        en: "telescope",
-        de: "Teleskop",
-        hu: "távcső",
-        ro: "telescop"
-      },
-      {
-        en: "compass",
-        de: "Kompass",
-        hu: "iránytű",
-        ro: "compas"
-      }
+      { en: "littering", de: "Vermüllen", hu: "szemetelésnek", ro: "aruncarea gunoaielor" },
+      { en: "composting", de: "Kompostieren", hu: "komposztálásnak", ro: "compostare" },
+      { en: "recycling", de: "Recycling", hu: "újrahasznosításnak", ro: "reciclare" }
     ],
     correctIndex: 2
-  },
-  {
-    id: "fb-sachkunde-3",
-    taskDescription: {
-      en: "Fill in the blank with the correct word.",
-      de: "Fülle die Lücke mit dem richtigen Wort aus.",
-      hu: "Egészítsd ki a mondatot a helyes szóval.",
-      ro: "Completează spațiul liber cu cuvântul corect."
-    },
-    sentenceParts: {
-      before: {
-        en: "The ",
-        de: "Die ",
-        hu: "A ",
-        ro: ""
-      },
-      after: {
-        en: " pulls objects towards the center of the Earth.",
-        de: " zieht Objekte zum Erdmittelpunkt.",
-        hu: " a Föld középpontja felé húzza a tárgyakat.",
-        ro: " atrage obiectele spre centrul Pământului."
-      }
-    },
-    options: [
-      {
-        en: "magnetism",
-        de: "Magnetismus",
-        hu: "mágnesesség",
-        ro: "Magnetismul"
-      },
-      {
-        en: "gravity",
-        de: "Schwerkraft",
-        hu: "gravitáció",
-        ro: "Gravitația"
-      },
-      {
-        en: "wind",
-        de: "Wind",
-        hu: "szél",
-        ro: "Vântul"
-      },
-      {
-        en: "light",
-        de: "Licht",
-        hu: "fény",
-        ro: "Lumina"
-      }
-    ],
-    correctIndex: 1
   }
 ];

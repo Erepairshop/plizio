@@ -22,22 +22,25 @@ export default function CountCatchView({
   const [currentIdx, setCurrentIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [isRevealing, setIsRevealing] = useState(false);
 
   const round = rounds[currentIdx];
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
-    if (selectedId) return;
+    if (isRevealing) return;
     setSelectedId(optionId);
+    setIsRevealing(true);
 
     if (isCorrect) {
-      if (onCorrect) onCorrect();
+      onCorrect?.();
       setScore((s) => s + 1);
     } else {
-      if (onWrong) onWrong();
+      onWrong?.();
     }
 
     setTimeout(() => {
       setSelectedId(null);
+      setIsRevealing(false);
       if (currentIdx + 1 < rounds.length) {
         setCurrentIdx((i) => i + 1);
       } else {
@@ -51,124 +54,109 @@ export default function CountCatchView({
   const progress = (currentIdx / rounds.length) * 100;
 
   return (
-    <div 
-      className="flex flex-col w-full h-full p-4 overflow-hidden relative max-w-4xl mx-auto"
-      role="region"
-      aria-label="Count and Catch Game"
-    >
-      {/* Progress */}
-      <div className="flex flex-col items-center mb-4 z-10 w-full" aria-live="polite">
-        <span className="text-sm font-bold mb-2 text-slate-700" aria-label={`Round ${currentIdx + 1} of ${rounds.length}`}>
-          {currentIdx + 1} / {rounds.length}
-        </span>
-        <div 
-          className="w-full bg-slate-200 h-3 rounded-full overflow-hidden"
-          role="progressbar"
-          aria-valuenow={Math.round(progress)}
-          aria-valuemin={0}
-          aria-valuemax={100}
-        >
-          <motion.div
-            className="h-full"
-            style={{ backgroundColor: color }}
-            initial={{ width: `${((currentIdx - 1) / rounds.length) * 100}%` }}
-            animate={{ width: `${progress}%` }}
-            transition={{ duration: 0.4, ease: "easeInOut" }}
-          />
+    <div className="flex flex-col items-center w-full max-w-lg mx-auto p-4 min-h-[80vh]">
+      {/* Progress Header */}
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-6 text-center border-2 border-white/10 shadow-lg">
+        <h2 className="text-xl md:text-2xl font-black text-white mb-3">
+          {round.taskDescription[lang as keyof LocalizedText] || round.taskDescription.en}
+        </h2>
+        <div className="flex flex-col items-center gap-2">
+          <div className="text-white/80 font-bold text-sm">
+            {currentIdx + 1} / {rounds.length}
+          </div>
+          <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
+            <motion.div 
+              className="h-full rounded-full"
+              style={{ backgroundColor: color }}
+              initial={{ width: `${((currentIdx) / rounds.length) * 100}%` }}
+              animate={{ width: `${progress}%` }}
+              transition={{ duration: 0.5, ease: "easeInOut" }}
+            />
+          </div>
         </div>
       </div>
 
-      {/* Task Description */}
-      <div className="text-center mb-4 z-10 px-2">
-        <h2 
-          className="text-2xl md:text-3xl font-extrabold text-slate-800 leading-tight"
-          tabIndex={0}
-        >
-          {round.taskDescription[lang]}
-        </h2>
-      </div>
-
       {/* Catch / Count Area */}
-      <div 
-        className="flex-1 relative w-full max-w-2xl mx-auto rounded-3xl border-4 border-dashed mb-6 overflow-hidden z-10 shadow-inner"
-        style={{ backgroundColor: "rgba(255,255,255,0.7)", borderColor: color }}
-        role="img"
-        aria-label="Area with items to count"
-      >
-        <AnimatePresence mode="popLayout">
-          {round.itemsToCount.map((item, idx) => (
-            <motion.div
-              key={`${round.id}-${item.id}`}
-              initial={{ opacity: 0, scale: 0, rotate: -30 }}
-              animate={{ 
-                opacity: 1, 
-                scale: 1,
-                rotate: 0,
-                y: [0, -10, 0, 10, 0],
-                x: [0, 5, 0, -5, 0]
-              }}
-              exit={{ opacity: 0, scale: 0, rotate: 30 }}
-              transition={{
-                scale: { duration: 0.4, delay: idx * 0.05 },
-                opacity: { duration: 0.4, delay: idx * 0.05 },
-                rotate: { duration: 0.4, delay: idx * 0.05 },
-                y: { duration: 3 + Math.random() * 2, repeat: Infinity, ease: "easeInOut" },
-                x: { duration: 4 + Math.random() * 2, repeat: Infinity, ease: "easeInOut" }
-              }}
-              className="absolute text-5xl md:text-7xl drop-shadow-md select-none pointer-events-none"
-              style={{
-                left: `${item.x}%`,
-                top: `${item.y}%`,
-                transform: `translate(-50%, -50%)`
-              }}
-              aria-hidden="true"
-            >
-              {item.emoji}
-            </motion.div>
-          ))}
+      <div className="flex-1 w-full relative mb-8 rounded-2xl bg-black/20 border-2 border-white/10 overflow-hidden shadow-inner min-h-[250px]">
+        <AnimatePresence mode="wait">
+          <motion.div 
+            key={round.id}
+            className="absolute inset-0"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.5 }}
+          >
+            {round.itemsToCount.map((item, idx) => (
+              <motion.div
+                key={`${round.id}-${item.id}`}
+                className="absolute text-5xl md:text-6xl drop-shadow-lg"
+                style={{
+                  left: `${item.x}%`,
+                  top: `${item.y}%`,
+                  transform: `translate(-50%, -50%)`
+                }}
+                initial={{ opacity: 0, scale: 0 }}
+                animate={{ 
+                  opacity: 1, 
+                  scale: 1,
+                  y: [0, -15, 0],
+                  rotate: [-5, 5, -5]
+                }}
+                transition={{
+                  scale: { duration: 0.4, delay: idx * 0.1, type: "spring", bounce: 0.5 },
+                  opacity: { duration: 0.4, delay: idx * 0.1 },
+                  y: { duration: 2 + Math.random(), repeat: Infinity, ease: "easeInOut", delay: Math.random() },
+                  rotate: { duration: 3 + Math.random(), repeat: Infinity, ease: "easeInOut", delay: Math.random() }
+                }}
+              >
+                {item.emoji}
+              </motion.div>
+            ))}
+          </motion.div>
         </AnimatePresence>
       </div>
 
       {/* Options */}
-      <div 
-        className="flex flex-wrap justify-center gap-3 md:gap-6 mb-4 z-10 w-full"
-        role="group"
-        aria-label="Number options"
-      >
+      <div className="flex flex-wrap justify-center gap-4 w-full">
         {round.options.map((opt, idx) => {
           const isSelected = selectedId === opt.id;
-          const isWrongSelected = isSelected && !opt.isCorrect;
-          const isCorrectRevealed = selectedId && opt.isCorrect;
+          const isCorrect = opt.isCorrect;
           
-          let bgColor = "bg-white text-slate-800";
-          if (isWrongSelected) bgColor = "bg-red-500 text-white border-red-600";
-          if (isCorrectRevealed) bgColor = "bg-green-500 text-white border-green-600";
+          let bgStyle = "bg-black/40 hover:bg-black/60";
+          let borderColor = "rgba(255,255,255,0.2)";
+          let opacity = 1;
+
+          if (selectedId) {
+            if (isSelected) {
+              bgStyle = isCorrect ? "bg-green-500" : "bg-red-500";
+              borderColor = isCorrect ? "#22c55e" : "#ef4444";
+            } else {
+              opacity = 0.5;
+              if (isCorrect) {
+                bgStyle = "bg-green-500";
+                borderColor = "#22c55e";
+                opacity = 1;
+              }
+            }
+          }
 
           return (
             <motion.button
               key={`opt-${currentIdx}-${opt.id}`}
               onClick={() => handleSelect(opt.id, opt.isCorrect)}
-              disabled={!!selectedId}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.3, delay: 0.2 + idx * 0.1 }}
-              whileHover={{ scale: selectedId ? 1 : 1.05 }}
-              whileTap={{ scale: selectedId ? 1 : 0.95 }}
+              disabled={isRevealing}
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity, y: 0 }}
+              transition={{ duration: 0.4, delay: 0.2 + idx * 0.1, type: "spring" }}
+              whileTap={{ scale: isRevealing ? 1 : 0.9 }}
               className={`
-                min-w-[4.5rem] min-h-[4.5rem] w-20 h-20 md:w-28 md:h-28 
-                rounded-full shadow-md flex items-center justify-center
-                text-3xl md:text-5xl font-extrabold border-4 cursor-pointer transition-colors
-                focus:outline-none focus:ring-4 focus:ring-opacity-50
-                ${bgColor}
-                ${!selectedId ? "hover:shadow-lg hover:bg-slate-50 border-transparent" : ""}
+                w-20 h-20 md:w-24 md:h-24 rounded-2xl border-2 font-black
+                text-3xl md:text-4xl text-white shadow-lg transition-colors
+                flex items-center justify-center
+                ${bgStyle}
               `}
-              style={{
-                borderColor: (!selectedId && !isWrongSelected && !isCorrectRevealed) ? color : undefined,
-                boxShadow: (!selectedId && !isWrongSelected && !isCorrectRevealed) ? `0 6px 0 ${color}40` : undefined
-              }}
-              aria-label={opt.number.toString()}
-              aria-disabled={!!selectedId}
-              tabIndex={0}
+              style={{ borderColor }}
             >
               {opt.number}
             </motion.button>

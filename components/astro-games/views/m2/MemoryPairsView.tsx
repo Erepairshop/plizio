@@ -1,13 +1,22 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
 export type MemoryPairsRound = {
   id: string;
-  taskDescription: LocalizedText;
-  pairs: { id: string; content: string }[];
+  taskDescription?: LocalizedText;
+  pairs: { id: string; content: LocalizedText; emoji?: string }[];
+};
+
+type CardState = {
+  uniqueId: string;
+  pairId: string;
+  content: LocalizedText;
+  emoji?: string;
+  isFlipped: boolean;
+  isMatched: boolean;
 };
 
 export default function MemoryPairsView({
@@ -18,137 +27,215 @@ export default function MemoryPairsView({
   onCorrect,
   onWrong,
 }: AstroGameProps<MemoryPairsRound>) {
-  const [currentRoundIdx, setCurrentRoundIdx] = useState(0);
-  const [cards, setCards] = useState<{ id: string; pairId: string; content: string; isFlipped: boolean; isMatched: boolean }[]>([]);
-  const [flippedIndices, setFlippedIndices] = useState<number[]>([]);
+  const [roundIdx, setRoundIdx] = useState(0);
+  const [cards, setCards] = useState<CardState[]>([]);
+  const [flippedIds, setFlippedIds] = useState<string[]>([]);
+  const [matchedPairs, setMatchedPairs] = useState<Set<string>>(new Set());
   const [score, setScore] = useState(0);
+  const [isProcessing, setIsProcessing] = useState(false);
 
-  const currentRound = rounds[currentRoundIdx];
+  const currentRound = rounds[roundIdx];
 
   useEffect(() => {
     if (!currentRound) return;
 
-    const newCards: { id: string; pairId: string; content: string; isFlipped: boolean; isMatched: boolean }[] = [];
-    currentRound.pairs.forEach((pair: any, idx: number) => {
-      newCards.push({ id: `card-${idx}-A`, pairId: pair.id, content: pair.content, isFlipped: false, isMatched: false });
-      newCards.push({ id: `card-${idx}-B`, pairId: pair.id, content: pair.content, isFlipped: false, isMatched: false });
+    // Generate pairs (duplicate each item)
+    const newCards: CardState[] = [];
+    currentRound.pairs.forEach((pair) => {
+      newCards.push({
+        uniqueId: `${pair.id}-A`,
+        pairId: pair.id,
+        content: pair.content,
+        emoji: pair.emoji,
+        isFlipped: false,
+        isMatched: false,
+      });
+      newCards.push({
+        uniqueId: `${pair.id}-B`,
+        pairId: pair.id,
+        content: pair.content,
+        emoji: pair.emoji,
+        isFlipped: false,
+        isMatched: false,
+      });
     });
 
+    // Shuffle
     for (let i = newCards.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [newCards[i], newCards[j]] = [newCards[j], newCards[i]];
     }
 
     setCards(newCards);
-    setFlippedIndices([]);
+    setFlippedIds([]);
+    setMatchedPairs(new Set());
+    setIsProcessing(false);
   }, [currentRound]);
 
-  if (!currentRound) return null;
-
-  const handleCardClick = (index: number) => {
-    if (cards[index].isMatched || cards[index].isFlipped || flippedIndices.length === 2) {
-      return;
+  const handleNextRound = () => {
+    if (roundIdx + 1 < rounds.length) {
+      setRoundIdx(roundIdx + 1);
+    } else {
+      const totalPairs = rounds.reduce((acc, r) => acc + r.pairs.length, 0);
+      onDone(score, totalPairs * 10);
     }
+  };
 
-    const newFlippedIndices = [...flippedIndices, index];
-    setFlippedIndices(newFlippedIndices);
+  const handleCardClick = (uniqueId: string) => {
+    if (isProcessing) return;
 
+    const card = cards.find((c) => c.uniqueId === uniqueId);
+    if (!card || card.isFlipped || card.isMatched || flippedIds.includes(uniqueId)) return;
+
+    const newFlipped = [...flippedIds, uniqueId];
+    setFlippedIds(newFlipped);
+
+    // Update state to show flip immediately
     setCards((prev) =>
-      prev.map((card, i) => (i === index ? { ...card, isFlipped: true } : card))
+      prev.map((c) => (c.uniqueId === uniqueId ? { ...c, isFlipped: true } : c))
     );
 
-    if (newFlippedIndices.length === 2) {
-      const [firstIdx] = newFlippedIndices;
-      const firstCard = cards[firstIdx];
-      const secondCard = cards[index];
+    if (newFlipped.length === 2) {
+      setIsProcessing(true);
+      const [firstId, secondId] = newFlipped;
+      const firstCard = cards.find((c) => c.uniqueId === firstId);
+      const secondCard = cards.find((c) => c.uniqueId === secondId);
 
-      if (firstCard.pairId === secondCard.pairId) {
+      if (firstCard && secondCard && firstCard.pairId === secondCard.pairId) {
+        // Match
         setTimeout(() => {
           setCards((prev) =>
-            prev.map((card, i) =>
-              i === firstIdx || i === index ? { ...card, isMatched: true } : card
+            prev.map((c) =>
+              c.uniqueId === firstId || c.uniqueId === secondId
+                ? { ...c, isMatched: true, isFlipped: false }
+                : c
             )
           );
-          setFlippedIndices([]);
-          setScore((s) => s + 1);
-          if (onCorrect) onCorrect();
+          setMatchedPairs((prev) => new Set(prev).add(firstCard.pairId));
+          setScore((s) => s + 10);
+          setFlippedIds([]);
+          setIsProcessing(false);
+          onCorrect?.();
 
-          const matchedCount = cards.filter((c) => c.isMatched).length;
-          if (matchedCount + 2 === cards.length) {
-            setTimeout(() => {
-              if (currentRoundIdx < rounds.length - 1) {
-                setCurrentRoundIdx((prev) => prev + 1);
-              } else {
-                onDone(score + 1, rounds.length * (cards.length / 2));
-              }
-            }, 800);
+          // Check round completion
+          const currentMatches = matchedPairs.size + 1;
+          if (currentMatches === currentRound.pairs.length) {
+            setTimeout(handleNextRound, 800);
           }
         }, 500);
       } else {
-        if (onWrong) onWrong();
+        // No match
         setTimeout(() => {
           setCards((prev) =>
-            prev.map((card, i) =>
-              i === firstIdx || i === index ? { ...card, isFlipped: false } : card
+            prev.map((c) =>
+              c.uniqueId === firstId || c.uniqueId === secondId
+                ? { ...c, isFlipped: false }
+                : c
             )
           );
-          setFlippedIndices([]);
+          setScore((s) => Math.max(0, s - 2));
+          setFlippedIds([]);
+          setIsProcessing(false);
+          onWrong?.();
         }, 1000);
       }
     }
   };
 
-  const progress = (currentRoundIdx / rounds.length) * 100;
+  if (!currentRound) return null;
+
+  const defaultTasks: Record<string, string> = {
+    en: "Find the matching pairs!",
+    hu: "Keresd meg a párokat!",
+    de: "Finde die passenden Paare!",
+    ro: "Găsește perechile potrivite!"
+  };
+  const taskText = currentRound.taskDescription 
+    ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
+    : (defaultTasks[lang] || defaultTasks.en);
+
+  const totalPairs = currentRound.pairs.length;
+  const currentPairProgress = matchedPairs.size;
+
   const gridColsClass = cards.length <= 12 ? "grid-cols-3 md:grid-cols-4" : "grid-cols-4";
 
   return (
-    <div className="flex flex-col items-center w-full max-w-2xl mx-auto p-4 space-y-6">
-      <div className="w-full space-y-2">
-        <div className="flex justify-between items-center text-sm font-semibold text-gray-600">
-          <span>{`Round ${currentRoundIdx + 1} / ${rounds.length}`}</span>
+    <div className="flex flex-col items-center w-full max-w-2xl mx-auto p-4">
+      {/* Header */}
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10">
+        <div className="text-xl font-black text-white mb-2">🎯 {taskText}</div>
+        <div className="text-white/70 font-bold mb-2">
+          {currentPairProgress} / {totalPairs}
         </div>
-        <div className="w-full h-2 bg-gray-200 rounded-full overflow-hidden">
+        <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
           <motion.div
             className="h-full rounded-full"
-            style={{ backgroundColor: color }}
-            initial={{ width: `${(currentRoundIdx / rounds.length) * 100}%` }}
-            animate={{ width: `${progress}%` }}
+            style={{ backgroundColor: color || "#4ade80" }}
+            initial={{ width: 0 }}
+            animate={{ width: `${(currentPairProgress / totalPairs) * 100}%` }}
             transition={{ duration: 0.3 }}
           />
         </div>
       </div>
 
-      <h2 className="text-xl md:text-2xl font-bold text-center text-gray-800 min-h-[60px] flex items-center justify-center">
-        {currentRound.taskDescription[lang]}
-      </h2>
+      <div className="w-full flex justify-between mb-4 font-bold text-white/50 text-sm px-2">
+        <span>Score: {score}</span>
+        <span>Round: {roundIdx + 1} / {rounds.length}</span>
+      </div>
 
-      <div className={`grid ${gridColsClass} gap-3 md:gap-4 w-full aspect-square max-w-md`}>
-        {cards.map((card, index) => (
-          <motion.button
-            key={card.id}
-            onClick={() => handleCardClick(index)}
-            className="relative w-full h-full rounded-xl flex items-center justify-center text-3xl md:text-5xl shadow-sm focus:outline-none focus:ring-4 focus:ring-offset-2"
-            style={{
-              backgroundColor: card.isMatched ? "transparent" : card.isFlipped ? "white" : color,
-              border: card.isMatched ? `2px dashed ${color}` : "none",
-              color: card.isFlipped ? color : "transparent",
-              minHeight: "44px",
-              minWidth: "44px",
-              cursor: card.isMatched ? "default" : "pointer"
-            }}
-            whileHover={!card.isMatched && !card.isFlipped ? { scale: 1.05 } : {}}
-            whileTap={!card.isMatched && !card.isFlipped ? { scale: 0.95 } : {}}
-            animate={{ rotateY: card.isFlipped ? 180 : 0, opacity: card.isMatched ? 0.3 : 1 }}
-            transition={{ duration: 0.4 }}
-            disabled={card.isMatched || card.isFlipped}
-            aria-label={card.isFlipped || card.isMatched ? card.content : "Hidden card"}
-            tabIndex={0}
-          >
-            <div style={{ transform: card.isFlipped ? "rotateY(180deg)" : "none" }}>
-              {(card.isFlipped || card.isMatched) ? card.content : "?"}
-            </div>
-          </motion.button>
-        ))}
+      {/* Grid */}
+      <div className={`grid ${gridColsClass} gap-3 md:gap-4 w-full max-w-md aspect-square`}>
+        <AnimatePresence>
+          {cards.map((card) => {
+            const isVisible = card.isFlipped || card.isMatched;
+
+            return (
+              <motion.button
+                key={card.uniqueId}
+                onClick={() => handleCardClick(card.uniqueId)}
+                disabled={card.isMatched || isProcessing && !flippedIds.includes(card.uniqueId)}
+                className="relative w-full h-full rounded-xl flex flex-col items-center justify-center p-2 text-center shadow-md focus:outline-none focus:ring-4 focus:ring-offset-2 overflow-hidden"
+                style={{
+                  background: card.isMatched 
+                    ? 'rgba(255,255,255,0.1)' 
+                    : card.isFlipped 
+                      ? 'rgba(255,255,255,0.9)' 
+                      : 'rgba(0,0,0,0.5)',
+                  borderColor: card.isMatched 
+                    ? color || '#4ade80'
+                    : 'rgba(255,255,255,0.2)',
+                  borderWidth: '2px',
+                  borderStyle: card.isMatched ? 'dashed' : 'solid',
+                  opacity: card.isMatched ? 0.6 : 1,
+                  minHeight: "64px",
+                }}
+                whileHover={!isVisible ? { scale: 1.05 } : {}}
+                whileTap={!isVisible ? { scale: 0.95 } : {}}
+                animate={{ rotateY: isVisible ? 180 : 0 }}
+                transition={{ duration: 0.4 }}
+                aria-label={isVisible ? card.content[lang as keyof LocalizedText] || card.content.en : "Hidden card"}
+              >
+                <div 
+                  className="flex flex-col items-center justify-center w-full h-full"
+                  style={{ 
+                    transform: isVisible ? "rotateY(180deg)" : "none",
+                    opacity: isVisible ? 1 : 0
+                  }}
+                >
+                  {card.emoji && <span className="text-2xl md:text-3xl mb-1">{card.emoji}</span>}
+                  <span className="text-xs md:text-sm font-bold text-slate-800 break-words line-clamp-2 leading-tight">
+                    {card.content[lang as keyof LocalizedText] || card.content.en}
+                  </span>
+                </div>
+                {!isVisible && (
+                  <div className="absolute inset-0 flex items-center justify-center text-white/50 text-2xl font-bold">
+                    ?
+                  </div>
+                )}
+              </motion.button>
+            );
+          })}
+        </AnimatePresence>
       </div>
     </div>
   );

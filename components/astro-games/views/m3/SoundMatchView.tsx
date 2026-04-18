@@ -25,38 +25,32 @@ export default function SoundMatchView({
   const [roundIdx, setRoundIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [isRevealing, setIsRevealing] = useState(false);
 
   const currentRound = rounds[roundIdx];
-  const maxScore = rounds.length;
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
-    if (selectedId) return;
+    if (isRevealing) return;
     setSelectedId(optionId);
+    setIsRevealing(true);
 
     if (isCorrect) {
       const newScore = score + 1;
       setScore(newScore);
       onCorrect?.();
-      
-      setTimeout(() => {
-        setSelectedId(null);
-        if (roundIdx + 1 < rounds.length) {
-          setRoundIdx(roundIdx + 1);
-        } else {
-          onDone(newScore, maxScore);
-        }
-      }, 1500);
     } else {
       onWrong?.();
-      setTimeout(() => {
-        setSelectedId(null);
-        if (roundIdx + 1 < rounds.length) {
-          setRoundIdx(roundIdx + 1);
-        } else {
-          onDone(score, maxScore);
-        }
-      }, 1500);
     }
+
+    setTimeout(() => {
+      setSelectedId(null);
+      setIsRevealing(false);
+      if (roundIdx + 1 < rounds.length) {
+        setRoundIdx(roundIdx + 1);
+      } else {
+        onDone(score + (isCorrect ? 1 : 0), rounds.length);
+      }
+    }, 1500);
   };
 
   if (!currentRound) return null;
@@ -64,115 +58,120 @@ export default function SoundMatchView({
   const progress = (roundIdx / rounds.length) * 100;
 
   return (
-    <div 
-      className="flex flex-col w-full h-full p-4 overflow-hidden relative max-w-4xl mx-auto"
-      role="region"
-      aria-label="Sound Match Game"
-    >
-      {/* Progress */}
-      <div className="flex flex-col items-center mb-6 z-10 w-full" aria-live="polite">
-        <span className="text-sm font-bold mb-2 text-slate-700" aria-label={`Round ${roundIdx + 1} of ${rounds.length}`}>
-          {roundIdx + 1} / {rounds.length}
-        </span>
-        <div 
-          className="w-full bg-slate-200 h-3 rounded-full overflow-hidden"
-          role="progressbar"
-          aria-valuenow={Math.round(progress)}
-          aria-valuemin={0}
-          aria-valuemax={100}
-        >
-          <motion.div
-            className="h-full"
-            style={{ backgroundColor: color }}
-            initial={{ width: `${((roundIdx - 1) / rounds.length) * 100}%` }}
-            animate={{ width: `${progress}%` }}
-            transition={{ duration: 0.4, ease: "easeInOut" }}
-          />
+    <div className="flex flex-col items-center w-full max-w-lg mx-auto p-4 min-h-[80vh]">
+      {/* Progress Header */}
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-6 text-center border-2 border-white/10 shadow-lg">
+        <h2 className="text-xl md:text-2xl font-black text-white mb-3">
+          {currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en}
+        </h2>
+        <div className="flex flex-col items-center gap-2">
+          <div className="text-white/80 font-bold text-sm">
+            {roundIdx + 1} / {rounds.length}
+          </div>
+          <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
+            <motion.div 
+              className="h-full rounded-full"
+              style={{ backgroundColor: color }}
+              initial={{ width: `${((roundIdx) / rounds.length) * 100}%` }}
+              animate={{ width: `${progress}%` }}
+              transition={{ duration: 0.5, ease: "easeInOut" }}
+            />
+          </div>
         </div>
       </div>
 
-      {/* Task Description */}
-      <div className="text-center mb-8 z-10 px-2">
-        <h2 
-          className="text-2xl md:text-3xl font-extrabold text-slate-800 leading-tight"
-          tabIndex={0}
-        >
-          {currentRound.taskDescription[lang]}
-        </h2>
-      </div>
-
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={currentRound.id}
-          initial={{ opacity: 0, x: 20 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -20 }}
-          transition={{ duration: 0.3 }}
-          className="w-full flex flex-col items-center gap-8 z-10"
-        >
-          {/* Audio Emoji Display (Simulating sound source) */}
+      <div className="flex-1 w-full flex flex-col justify-center items-center py-4">
+        <AnimatePresence mode="wait">
           <motion.div
-            className="w-32 h-32 md:w-40 md:h-40 rounded-full border-4 flex items-center justify-center text-7xl md:text-8xl shadow-lg relative bg-white"
-            style={{ borderColor: color, boxShadow: `0 8px 0 ${color}40` }}
-            animate={{ 
-              scale: selectedId ? 1 : [1, 1.05, 1],
-              rotate: selectedId ? 0 : [-2, 2, -2]
-            }}
-            transition={{ repeat: selectedId ? 0 : Infinity, duration: 1.5, ease: "easeInOut" }}
-            tabIndex={0}
-            aria-label={`Sound source icon: ${currentRound.audioEmoji}`}
+            key={currentRound.id}
+            initial={{ opacity: 0, x: 50 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: -50 }}
+            transition={{ duration: 0.4, type: "spring" }}
+            className="w-full flex flex-col items-center gap-10"
           >
-            {currentRound.audioEmoji}
-            <div className="absolute -right-3 -top-3 text-4xl bg-white rounded-full p-1 shadow-md">🔊</div>
-          </motion.div>
-
-          {/* Options Grid */}
-          <div 
-            className="flex flex-col sm:grid sm:grid-cols-2 gap-3 md:gap-4 w-full mt-4 px-2"
-            role="group"
-            aria-label="Matching options"
-          >
-            {currentRound.options.map((opt, idx) => {
-              const isSelected = selectedId === opt.id;
-              const isWrongSelected = isSelected && !opt.isCorrect;
-              const isCorrectRevealed = selectedId && opt.isCorrect;
+            {/* Audio Emoji Display (Simulating sound source) */}
+            <motion.div
+              className="w-40 h-40 md:w-48 md:h-48 rounded-full border-4 flex items-center justify-center text-7xl md:text-8xl shadow-2xl relative bg-black/30 backdrop-blur-sm"
+              style={{ borderColor: color, boxShadow: `0 0 40px ${color}60` }}
+              animate={{ 
+                scale: selectedId ? 1 : [1, 1.1, 1],
+                rotate: selectedId ? 0 : [-5, 5, -5]
+              }}
+              transition={{ repeat: selectedId ? 0 : Infinity, duration: 2, ease: "easeInOut" }}
+            >
+              {currentRound.audioEmoji}
               
-              let bgColor = "bg-white text-slate-800";
-              if (isWrongSelected) bgColor = "bg-red-500 text-white border-red-600";
-              if (isCorrectRevealed) bgColor = "bg-green-500 text-white border-green-600";
+              {/* Pulsing sound waves */}
+              {!selectedId && (
+                <>
+                  <motion.div 
+                    className="absolute inset-0 rounded-full border-4 opacity-0"
+                    style={{ borderColor: color }}
+                    animate={{ scale: [1, 1.5], opacity: [0.8, 0] }}
+                    transition={{ repeat: Infinity, duration: 1.5, ease: "easeOut" }}
+                  />
+                  <motion.div 
+                    className="absolute inset-0 rounded-full border-4 opacity-0"
+                    style={{ borderColor: color }}
+                    animate={{ scale: [1, 1.5], opacity: [0.8, 0] }}
+                    transition={{ repeat: Infinity, duration: 1.5, ease: "easeOut", delay: 0.75 }}
+                  />
+                </>
+              )}
+              
+              <div className="absolute -right-2 -top-2 text-3xl bg-black/60 rounded-full p-2 shadow-lg border-2 border-white/20">🔊</div>
+            </motion.div>
 
-              return (
-                <motion.button
-                  key={`opt-${roundIdx}-${opt.id}`}
-                  onClick={() => handleSelect(opt.id, opt.isCorrect)}
-                  disabled={!!selectedId}
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.3, delay: 0.1 + idx * 0.1 }}
-                  whileHover={{ scale: selectedId ? 1 : 1.02 }}
-                  whileTap={{ scale: selectedId ? 1 : 0.98 }}
-                  className={`
-                    p-4 rounded-xl border-4 font-bold min-h-[70px] flex items-center justify-center 
-                    text-xl md:text-2xl cursor-pointer shadow-md transition-colors
-                    focus:outline-none focus:ring-4 focus:ring-opacity-50
-                    ${bgColor}
-                    ${!selectedId ? "hover:shadow-lg hover:bg-slate-50 border-transparent" : ""}
-                  `}
-                  style={{ 
-                    borderColor: (!selectedId && !isWrongSelected && !isCorrectRevealed) ? color : undefined,
-                    boxShadow: (!selectedId && !isWrongSelected && !isCorrectRevealed) ? `0 4px 0 ${color}40` : undefined
-                  }}
-                  aria-label={opt.label[lang]}
-                  aria-disabled={!!selectedId}
-                  tabIndex={0}
-                >
-                  {opt.label[lang]}
-                </motion.button>
-              );
-            })}
-          </div>
-        </motion.div>
-      </AnimatePresence>
+            {/* Options Grid */}
+            <div className="grid grid-cols-2 gap-4 w-full">
+              {currentRound.options.map((opt, idx) => {
+                const isSelected = selectedId === opt.id;
+                const isCorrect = opt.isCorrect;
+                
+                let bgStyle = "bg-black/40 hover:bg-black/60";
+                let borderColor = "rgba(255,255,255,0.2)";
+                let opacity = 1;
+
+                if (selectedId) {
+                  if (isSelected) {
+                    bgStyle = isCorrect ? "bg-green-500" : "bg-red-500";
+                    borderColor = isCorrect ? "#22c55e" : "#ef4444";
+                  } else {
+                    opacity = 0.5;
+                    if (isCorrect) {
+                      bgStyle = "bg-green-500";
+                      borderColor = "#22c55e";
+                      opacity = 1;
+                    }
+                  }
+                }
+
+                return (
+                  <motion.button
+                    key={`opt-${roundIdx}-${opt.id}`}
+                    onClick={() => handleSelect(opt.id, opt.isCorrect)}
+                    disabled={isRevealing}
+                    initial={{ opacity: 0, y: 30 }}
+                    animate={{ opacity, y: 0 }}
+                    transition={{ duration: 0.4, delay: 0.2 + idx * 0.1, type: "spring" }}
+                    whileTap={{ scale: isRevealing ? 1 : 0.95 }}
+                    className={`
+                      p-4 rounded-2xl border-2 font-extrabold min-h-[80px]
+                      text-lg md:text-xl text-white shadow-lg transition-colors
+                      flex items-center justify-center text-center
+                      ${bgStyle}
+                    `}
+                    style={{ borderColor }}
+                  >
+                    {opt.label[lang as keyof LocalizedText] || opt.label.en}
+                  </motion.button>
+                );
+              })}
+            </div>
+          </motion.div>
+        </AnimatePresence>
+      </div>
     </div>
   );
 }

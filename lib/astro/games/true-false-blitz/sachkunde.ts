@@ -3,99 +3,161 @@ import { TrueFalseBlitzRound } from "../../../../components/astro-games/views/m2
 export const rounds: TrueFalseBlitzRound[] = [
   {
     id: "round1",
+    taskDescription: {
+      en: "Plants & Environment",
+      de: "Pflanzen & Umwelt",
+      hu: "Növények és Környezet",
+      ro: "Plante și Mediu"
+    },
     statements: [
       {
-        id: "r1-s1",
+        id: "r1-1",
         text: {
-          en: "Water boils at 100 degrees Celsius at sea level.",
-          hu: "A víz tengerszinten 100 Celsius fokon forr.",
-          de: "Wasser kocht auf Meereshöhe bei 100 Grad Celsius.",
-          ro: "Apa fierbe la 100 de grade Celsius la nivelul mării."
+          en: "Plants need sunlight to grow.",
+          de: "Pflanzen brauchen Sonnenlicht zum Wachsen.",
+          hu: "A növényeknek napfényre van szükségük a növekedéshez.",
+          ro: "Plantele au nevoie de lumina soarelui pentru a crește."
         },
         isTrue: true,
         explanation: {
-          en: "This is a basic physical property of water.",
-          hu: "Ez a víz egy alapvető fizikai tulajdonsága.",
-          de: "Dies ist eine grundlegende physikalische Eigenschaft von Wasser.",
-          ro: "Aceasta este o proprietate fizică de bază a apei."
+          en: "Plants use sunlight for photosynthesis.",
+          de: "Pflanzen nutzen Sonnenlicht für die Photosynthese.",
+          hu: "A növények a napfényt fotoszintézisre használják.",
+          ro: "Plantele folosesc lumina soarelui pentru fotosinteză."
         }
       },
       {
-        id: "r1-s2",
+        id: "r1-2",
         text: {
-          en: "The Earth is the largest planet in our solar system.",
-          hu: "A Föld a legnagyobb bolygó a Naprendszerünkben.",
-          de: "Die Erde ist der größte Planet in unserem Sonnensystem.",
-          ro: "Pământul este cea mai mare planetă din sistemul nostru solar."
+          en: "All trees keep their leaves in winter.",
+          de: "Alle Bäume behalten im Winter ihre Blätter.",
+          hu: "Minden fa megtartja a leveleit télen.",
+          ro: "Toți copacii își păstrează frunzele iarna."
         },
         isTrue: false,
         explanation: {
-          en: "Jupiter is the largest planet in our solar system.",
-          hu: "A Jupiter a legnagyobb bolygó a Naprendszerünkben.",
-          de: "Jupiter ist der größte Planet in unserem Sonnensystem.",
-          ro: "Jupiter este cea mai mare planetă din sistemul nostru solar."
+          en: "Deciduous trees lose their leaves in winter.",
+          de: "Laubbäume verlieren im Winter ihre Blätter.",
+          hu: "A lombhullató fák télen elveszítik leveleiket.",
+          ro: "Copacii foioși își pierd frunzele iarna."
+        }
+      },
+      {
+        id: "r1-3",
+        text: {
+          en: "Mushrooms are a type of plant.",
+          de: "Pilze sind eine Art von Pflanze.",
+          hu: "A gombák egyfajta növények.",
+          ro: "Ciupercile sunt un tip de plantă."
+        },
+        isTrue: false,
+        explanation: {
+          en: "Mushrooms belong to their own kingdom called Fungi.",
+          de: "Pilze gehören zu einem eigenen Reich namens Fungi.",
+          hu: "A gombák egy külön országba (Fungi) tartoznak.",
+          ro: "Ciupercile aparțin propriului lor regn numit Fungi."
         }
       }
     ]
   },
   {
     id: "round2",
+    taskDescription: {
+      en: "Human Body",
+      de: "Der menschliche Körper",
+      hu: "Az emberi test",
+      ro: "Corpul Uman"
+    },
     statements: [
       {
-        id: "r2-s1",
+        id: "r2-1",
         text: {
-          en: "Dolphins are fish.",
-          hu: "A delfinek halak.",
-          de: "Delfine sind Fische.",
-          ro: "Delfinii sunt pești."
+          en: "The heart pumps blood through the body.",
+          de: "Das Herz pumpt Blut durch den Körper.",
+          hu: "A szív vért pumpál a testen keresztül.",
+          ro: "Inima pompează sângele prin corp."
         },
-        isTrue: false,
+        isTrue: true,
         explanation: {
-          en: "Dolphins are mammals, not fish. They breathe air and nurse their young.",
-          hu: "A delfinek emlősök, nem halak. Levegőt lélegeznek be és utódaikat szoptatják.",
-          de: "Delfine sind Säugetiere, keine Fische. Sie atmen Luft und säugen ihre Jungen.",
-          ro: "Delfinii sunt mamifere, nu pești. Ei respiră aer și își alăptează puii."
+          en: "The heart acts as a pump for the circulatory system.",
+          de: "Das Herz fungiert als Pumpe für den Kreislauf.",
+          hu: "A szív az érrendszer pumpájaként működik.",
+          ro: "Inima acționează ca o pompă pentru sistemul circulator."
         }
       },
       {
-        id: "r2-s2",
+        id: "r2-2",
         text: {
-          en: "Photosynthesis is the process by which plants make their food.",
-          hu: "A fotoszintézis az a folyamat, amellyel a növények előállítják táplálékukat.",
-          de: "Fotosynthese ist der Prozess, durch den Pflanzen ihre Nahrung herstellen.",
-          ro: "Fotosinteza este procesul prin care plantele își produc hrana."
+          en: "Humans have three lungs.",
+          de: "Menschen haben drei Lungen.",
+          hu: "Az embereknek három tüdejük van.",
+          ro: "Oamenii au trei plămâni."
         },
-        isTrue: true
+        isTrue: false,
+        explanation: {
+          en: "Humans naturally have two lungs.",
+          de: "Menschen haben von Natur aus zwei Lungen.",
+          hu: "Az embereknek természetesen két tüdejük van.",
+          ro: "Oamenii au în mod natural doi plămâni."
+        }
+      },
+      {
+        id: "r2-3",
+        text: {
+          en: "The skeleton gives our body its shape.",
+          de: "Das Skelett gibt unserem Körper seine Form.",
+          hu: "A csontváz adja a testünk formáját.",
+          ro: "Scheletul dă formă corpului nostru."
+        },
+        isTrue: true,
+        explanation: {
+          en: "Bones provide structure, support, and protection.",
+          de: "Knochen bieten Struktur, Halt und Schutz.",
+          hu: "A csontok szerkezetet, tartást és védelmet nyújtanak.",
+          ro: "Oasele oferă structură, sprijin și protecție."
+        }
       }
     ]
   },
   {
     id: "round3",
+    taskDescription: {
+      en: "Weather and Seasons",
+      de: "Wetter und Jahreszeiten",
+      hu: "Időjárás és Évszakok",
+      ro: "Vreme și Anotimpuri"
+    },
     statements: [
       {
-        id: "r3-s1",
+        id: "r3-1",
         text: {
-          en: "Lightning is five times hotter than the surface of the sun.",
-          hu: "A villám ötször forróbb, mint a Nap felszíne.",
-          de: "Ein Blitz ist fünfmal heißer als die Oberfläche der Sonne.",
-          ro: "Fulgerul este de cinci ori mai fierbinte decât suprafața soarelui."
+          en: "Snow is made of frozen water droplets.",
+          de: "Schnee besteht aus gefrorenen Wassertropfen.",
+          hu: "A hó megfagyott vízcseppekből áll.",
+          ro: "Zăpada este făcută din picături de apă înghețate."
         },
-        isTrue: true
+        isTrue: true,
+        explanation: {
+          en: "Snowflakes form when water vapor turns directly into ice.",
+          de: "Schneeflocken entstehen, wenn Wasserdampf direkt zu Eis wird.",
+          hu: "A hópelyhek akkor képződnek, amikor a vízgőz jéggé alakul.",
+          ro: "Fulgii de zăpadă se formează când vaporii de apă se transformă în gheață."
+        }
       },
       {
-        id: "r3-s2",
+        id: "r3-2",
         text: {
-          en: "Sound travels faster in air than in water.",
-          hu: "A hang gyorsabban terjed a levegőben, mint a vízben.",
-          de: "Schall breitet sich in der Luft schneller aus als im Wasser.",
-          ro: "Sunetul se propagă mai repede în aer decât în apă."
+          en: "Summer is the coldest season.",
+          de: "Der Sommer ist die kälteste Jahreszeit.",
+          hu: "A nyár a leghidegebb évszak.",
+          ro: "Vara este cel mai rece anotimp."
         },
         isTrue: false,
         explanation: {
-          en: "Sound travels about 4 times faster in water than in air.",
-          hu: "A hang körülbelül négyszer gyorsabban terjed a vízben, mint a levegőben.",
-          de: "Schall breitet sich im Wasser etwa viermal schneller aus als in der Luft.",
-          ro: "Sunetul se propagă de aproximativ 4 ori mai repede în apă decât în aer."
+          en: "Winter is the coldest season in most parts of the world.",
+          de: "Der Winter ist in den meisten Teilen der Welt die kälteste Jahreszeit.",
+          hu: "A tél a világ legtöbb részén a leghidegebb évszak.",
+          ro: "Iarna este cel mai rece anotimp în majoritatea părților lumii."
         }
       }
     ]

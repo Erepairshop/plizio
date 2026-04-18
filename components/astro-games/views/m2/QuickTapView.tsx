@@ -6,7 +6,8 @@ import { AstroGameProps, LocalizedText } from "../../types";
 
 export type QuickTapItem = {
   id: string;
-  content: string;
+  content: LocalizedText;
+  emoji?: string;
   isTarget: boolean;
 };
 
@@ -24,54 +25,51 @@ export default function QuickTapView({
   onCorrect,
   onWrong,
 }: AstroGameProps<QuickTapRound>) {
-  const [currentRoundIdx, setCurrentRoundIdx] = useState(0);
+  const [roundIdx, setRoundIdx] = useState(0);
   const [tappedIds, setTappedIds] = useState<Set<string>>(new Set());
   const [errorIds, setErrorIds] = useState<Set<string>>(new Set());
   const [score, setScore] = useState(0);
 
-  const currentRound = rounds[currentRoundIdx];
+  const currentRound = rounds[roundIdx];
 
-  // Number of targets in the current round
   const targetCount = useMemo(() => {
     if (!currentRound) return 0;
-    return currentRound.items.filter((item: QuickTapItem) => item.isTarget).length;
+    return currentRound.items.filter((item) => item.isTarget).length;
   }, [currentRound]);
 
-  // Handle resetting states when round changes
   useEffect(() => {
     setTappedIds(new Set());
     setErrorIds(new Set());
-  }, [currentRoundIdx]);
+  }, [roundIdx]);
 
   if (!currentRound) return null;
 
+  const handleNextRound = () => {
+    if (roundIdx + 1 < rounds.length) {
+      setRoundIdx(roundIdx + 1);
+    } else {
+      const maxScore = rounds.reduce((acc, r) => acc + r.items.filter(i => i.isTarget).length * 10, 0);
+      onDone(score, maxScore);
+    }
+  };
+
   const handleItemTap = (item: QuickTapItem) => {
-    if (tappedIds.has(item.id)) return;
+    if (tappedIds.has(item.id) || errorIds.has(item.id)) return;
 
     if (item.isTarget) {
-      if (onCorrect) onCorrect();
-      const newTapped = new Set(tappedIds);
-      newTapped.add(item.id);
+      onCorrect?.();
+      const newTapped = new Set(tappedIds).add(item.id);
       setTappedIds(newTapped);
-      setScore((s) => s + 1);
+      setScore((s) => s + 10);
 
       if (newTapped.size === targetCount) {
-        // Round complete
-        setTimeout(() => {
-          if (currentRoundIdx < rounds.length - 1) {
-            setCurrentRoundIdx((prev) => prev + 1);
-          } else {
-            // Count total possible targets for max score
-            const maxScore = rounds.reduce((acc: number, r: QuickTapRound) => acc + r.items.filter((i: QuickTapItem) => i.isTarget).length, 0);
-            onDone(score + 1, maxScore);
-          }
-        }, 800);
+        setTimeout(handleNextRound, 800);
       }
     } else {
-      if (onWrong) onWrong();
-      const newError = new Set(errorIds);
-      newError.add(item.id);
-      setErrorIds(newError);
+      onWrong?.();
+      setErrorIds((prev) => new Set(prev).add(item.id));
+      setScore((s) => Math.max(0, s - 2));
+
       setTimeout(() => {
         setErrorIds((prev) => {
           const updated = new Set(prev);
@@ -82,9 +80,16 @@ export default function QuickTapView({
     }
   };
 
-  const progress = (currentRoundIdx / rounds.length) * 100;
-  
-  // Choose grid size depending on items count
+  const defaultTasks: Record<string, string> = {
+    en: "Tap the correct items!",
+    hu: "Érintsd meg a helyes elemeket!",
+    de: "Tippe auf die richtigen Elemente!",
+    ro: "Atinge elementele corecte!"
+  };
+  const taskText = currentRound.taskDescription 
+    ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
+    : (defaultTasks[lang] || defaultTasks.en);
+
   const gridColsClass = currentRound.items.length > 12 
     ? "grid-cols-4 md:grid-cols-5" 
     : currentRound.items.length > 8 
@@ -92,26 +97,28 @@ export default function QuickTapView({
       : "grid-cols-3";
 
   return (
-    <div className="flex flex-col items-center w-full max-w-2xl mx-auto p-4 space-y-8">
-      <div className="w-full space-y-2">
-        <div className="flex justify-between items-center text-sm font-semibold text-gray-600">
-          <span>{`Round ${currentRoundIdx + 1} / ${rounds.length}`}</span>
-          <span>{`${tappedIds.size} / ${targetCount} found`}</span>
+    <div className="flex flex-col items-center w-full max-w-2xl mx-auto p-4">
+      {/* Header */}
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10">
+        <div className="text-xl font-black text-white mb-2">🎯 {taskText}</div>
+        <div className="text-white/70 font-bold mb-2">
+          {tappedIds.size} / {targetCount} found
         </div>
-        <div className="w-full h-2 bg-gray-200 rounded-full overflow-hidden">
+        <div className="w-full h-2 bg-white/20 rounded-full overflow-hidden">
           <motion.div
             className="h-full rounded-full"
-            style={{ backgroundColor: color }}
-            initial={{ width: `${(currentRoundIdx / rounds.length) * 100}%` }}
-            animate={{ width: `${progress}%` }}
+            style={{ backgroundColor: color || "#4ade80" }}
+            initial={{ width: 0 }}
+            animate={{ width: `${(tappedIds.size / targetCount) * 100}%` }}
             transition={{ duration: 0.3 }}
           />
         </div>
       </div>
 
-      <h2 className="text-xl md:text-2xl font-bold text-center text-gray-800 min-h-[60px] flex items-center justify-center">
-        {currentRound.taskDescription[lang]}
-      </h2>
+      <div className="w-full flex justify-between mb-4 font-bold text-white/50 text-sm px-2">
+        <span>Score: {score}</span>
+        <span>Round: {roundIdx + 1} / {rounds.length}</span>
+      </div>
 
       <AnimatePresence mode="wait">
         <motion.div
@@ -120,9 +127,9 @@ export default function QuickTapView({
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -20 }}
           transition={{ duration: 0.3 }}
-          className={`grid ${gridColsClass} gap-3 md:gap-4 w-full max-w-md`}
+          className={`grid ${gridColsClass} gap-3 md:gap-4 w-full max-w-md aspect-square`}
         >
-          {currentRound.items.map((item: QuickTapItem) => {
+          {currentRound.items.map((item) => {
             const isTapped = tappedIds.has(item.id);
             const isError = errorIds.has(item.id);
 
@@ -130,36 +137,47 @@ export default function QuickTapView({
               <motion.button
                 key={item.id}
                 onClick={() => handleItemTap(item)}
-                className={`relative w-full aspect-square flex items-center justify-center rounded-xl text-3xl md:text-5xl font-bold shadow-sm focus:outline-none focus:ring-4 focus:ring-offset-2 ${
-                  isTapped ? "opacity-50" : "bg-white hover:bg-gray-50"
-                }`}
+                disabled={isTapped}
+                className="relative w-full h-full flex flex-col items-center justify-center rounded-xl font-bold shadow-md focus:outline-none focus:ring-4 focus:ring-offset-2 overflow-hidden"
                 style={{
-                  minWidth: "64px",
+                  background: isTapped 
+                    ? 'rgba(255,255,255,0.1)' 
+                    : isError 
+                      ? '#fee2e2' 
+                      : 'rgba(255,255,255,0.95)',
+                  borderWidth: '2px',
+                  borderColor: isTapped 
+                    ? color || '#4ade80' 
+                    : isError 
+                      ? '#ef4444' 
+                      : 'transparent',
+                  color: isTapped ? color || '#4ade80' : isError ? '#ef4444' : '#1f2937',
                   minHeight: "64px",
-                  border: isTapped ? `4px solid ${color}` : "2px solid #e5e7eb",
-                  color: isTapped ? color : "#1f2937",
                 }}
                 whileHover={!isTapped ? { scale: 1.05 } : {}}
                 whileTap={!isTapped ? { scale: 0.95 } : {}}
                 animate={
                   isError
-                    ? { x: [-5, 5, -5, 5, 0], backgroundColor: "#fee2e2", borderColor: "#ef4444" }
+                    ? { x: [-5, 5, -5, 5, 0] }
                     : isTapped
-                    ? { scale: [1, 1.1, 1], backgroundColor: "#f3f4f6" }
-                    : { backgroundColor: "#ffffff", borderColor: "#e5e7eb" }
+                    ? { scale: [1, 1.1, 1], opacity: 0.7 }
+                    : {}
                 }
                 transition={{ duration: 0.3 }}
-                disabled={isTapped}
-                aria-label={item.content}
+                aria-label={item.content[lang as keyof LocalizedText] || item.content.en}
                 tabIndex={0}
               >
-                {item.content}
+                {item.emoji && <span className="text-2xl md:text-3xl mb-1">{item.emoji}</span>}
+                <span className="text-xs md:text-sm text-center px-1 break-words line-clamp-2 leading-tight">
+                  {item.content[lang as keyof LocalizedText] || item.content.en}
+                </span>
+
                 {isTapped && (
                   <motion.div
                     initial={{ scale: 0 }}
                     animate={{ scale: 1 }}
-                    className="absolute -top-2 -right-2 w-6 h-6 rounded-full flex items-center justify-center text-white text-sm"
-                    style={{ backgroundColor: color }}
+                    className="absolute top-1 right-1 w-5 h-5 rounded-full flex items-center justify-center text-white text-xs font-bold"
+                    style={{ backgroundColor: color || "#4ade80" }}
                   >
                     ✓
                   </motion.div>

@@ -1,40 +1,55 @@
 import { MemoryPairsRound } from "../../../../components/astro-games/views/m2/MemoryPairsView";
 
-export const rounds: MemoryPairsRound[] = [
+export const getMemoryPairsSachkundePool = (): MemoryPairsRound[] => [
   {
-    id: "r1",
-    gridSize: 3,
+    id: "sk-mp-1",
+    taskDescription: {
+      en: "Match the animals with their pairs!",
+      de: "Finde die passenden Tierpaare!",
+      hu: "Keresd meg az állatok párjait!",
+      ro: "Găsește perechile de animale!"
+    },
     pairs: [
-      { id: "p1", a: { label: { en: "🐶", hu: "🐶", de: "🐶", ro: "🐶" } }, b: { label: { en: "Dog", hu: "Kutya", de: "Hund", ro: "Câine" } } },
-      { id: "p2", a: { label: { en: "🐱", hu: "🐱", de: "🐱", ro: "🐱" } }, b: { label: { en: "Cat", hu: "Macska", de: "Katze", ro: "Pisică" } } },
-      { id: "p3", a: { label: { en: "🐄", hu: "🐄", de: "🐄", ro: "🐄" } }, b: { label: { en: "Cow", hu: "Tehén", de: "Kuh", ro: "Vacă" } } },
-      { id: "p4", a: { label: { en: "🐖", hu: "🐖", de: "🐖", ro: "🐖" } }, b: { label: { en: "Pig", hu: "Malac", de: "Schwein", ro: "Porc" } } },
-      { id: "p5", a: { label: { en: "🐑", hu: "🐑", de: "🐑", ro: "🐑" } }, b: { label: { en: "Sheep", hu: "Bárány", de: "Schaf", ro: "Oaie" } } },
-      { id: "p6", a: { label: { en: "🐎", hu: "🐎", de: "🐎", ro: "🐎" } }, b: { label: { en: "Horse", hu: "Ló", de: "Pferd", ro: "Cal" } } }
+      { id: "p1", content: { en: "Dog", de: "Hund", hu: "Kutya", ro: "Câine" }, emoji: "🐶" },
+      { id: "p2", content: { en: "Cat", de: "Katze", hu: "Macska", ro: "Pisică" }, emoji: "🐱" },
+      { id: "p3", content: { en: "Bird", de: "Vogel", hu: "Madár", ro: "Pasăre" }, emoji: "🐦" },
+      { id: "p4", content: { en: "Fish", de: "Fisch", hu: "Hal", ro: "Pește" }, emoji: "🐟" },
+      { id: "p5", content: { en: "Rabbit", de: "Hase", hu: "Nyúl", ro: "Iepure" }, emoji: "🐰" },
+      { id: "p6", content: { en: "Turtle", de: "Schildkröte", hu: "Teknős", ro: "Broască țestoasă" }, emoji: "🐢" }
     ]
   },
   {
-    id: "r2",
-    gridSize: 3,
+    id: "sk-mp-2",
+    taskDescription: {
+      en: "Match the natural elements!",
+      de: "Finde die passenden Naturelemente!",
+      hu: "Keresd meg a természeti elemek párjait!",
+      ro: "Găsește perechile de elemente din natură!"
+    },
     pairs: [
-      { id: "p1", a: { label: { en: "☀️", hu: "☀️", de: "☀️", ro: "☀️" } }, b: { label: { en: "Sun", hu: "Nap", de: "Sonne", ro: "Soare" } } },
-      { id: "p2", a: { label: { en: "🌧️", hu: "🌧️", de: "🌧️", ro: "🌧️" } }, b: { label: { en: "Rain", hu: "Eső", de: "Regen", ro: "Ploaie" } } },
-      { id: "p3", a: { label: { en: "❄️", hu: "❄️", de: "❄️", ro: "❄️" } }, b: { label: { en: "Snow", hu: "Hó", de: "Schnee", ro: "Zăpadă" } } },
-      { id: "p4", a: { label: { en: "⚡", hu: "⚡", de: "⚡", ro: "⚡" } }, b: { label: { en: "Lightning", hu: "Villám", de: "Blitz", ro: "Fulger" } } },
-      { id: "p5", a: { label: { en: "🌈", hu: "🌈", de: "🌈", ro: "🌈" } }, b: { label: { en: "Rainbow", hu: "Szivárvány", de: "Regenbogen", ro: "Curcubeu" } } },
-      { id: "p6", a: { label: { en: "🌪️", hu: "🌪️", de: "🌪️", ro: "🌪️" } }, b: { label: { en: "Tornado", hu: "Tornádó", de: "Tornado", ro: "Tornadă" } } }
+      { id: "p1", content: { en: "Sun", de: "Sonne", hu: "Nap", ro: "Soare" }, emoji: "☀️" },
+      { id: "p2", content: { en: "Moon", de: "Mond", hu: "Hold", ro: "Lună" }, emoji: "🌙" },
+      { id: "p3", content: { en: "Tree", de: "Baum", hu: "Fa", ro: "Copac" }, emoji: "🌳" },
+      { id: "p4", content: { en: "Flower", de: "Blume", hu: "Virág", ro: "Floare" }, emoji: "🌸" },
+      { id: "p5", content: { en: "Water", de: "Wasser", hu: "Víz", ro: "Apă" }, emoji: "💧" },
+      { id: "p6", content: { en: "Fire", de: "Feuer", hu: "Tűz", ro: "Foc" }, emoji: "🔥" }
     ]
   },
   {
-    id: "r3",
-    gridSize: 3,
+    id: "sk-mp-3",
+    taskDescription: {
+      en: "Match the body parts!",
+      de: "Finde die passenden Körperteile!",
+      hu: "Keresd meg a testrészek párjait!",
+      ro: "Găsește perechile de părți ale corpului!"
+    },
     pairs: [
-      { id: "p1", a: { label: { en: "🚒", hu: "🚒", de: "🚒", ro: "🚒" } }, b: { label: { en: "Fire truck", hu: "Tűzoltó", de: "Feuerwehr", ro: "Pompieri" } } },
-      { id: "p2", a: { label: { en: "🚓", hu: "🚓", de: "🚓", ro: "🚓" } }, b: { label: { en: "Police", hu: "Rendőrség", de: "Polizei", ro: "Poliție" } } },
-      { id: "p3", a: { label: { en: "🚑", hu: "🚑", de: "🚑", ro: "🚑" } }, b: { label: { en: "Ambulance", hu: "Mentő", de: "Krankenwagen", ro: "Ambulanță" } } },
-      { id: "p4", a: { label: { en: "🚜", hu: "🚜", de: "🚜", ro: "🚜" } }, b: { label: { en: "Tractor", hu: "Traktor", de: "Traktor", ro: "Tractor" } } },
-      { id: "p5", a: { label: { en: "🚲", hu: "🚲", de: "🚲", ro: "🚲" } }, b: { label: { en: "Bicycle", hu: "Bicikli", de: "Fahrrad", ro: "Bicicletă" } } },
-      { id: "p6", a: { label: { en: "🚁", hu: "🚁", de: "🚁", ro: "🚁" } }, b: { label: { en: "Helicopter", hu: "Helikopter", de: "Hubschrauber", ro: "Elicopter" } } }
+      { id: "p1", content: { en: "Eye", de: "Auge", hu: "Szem", ro: "Ochi" }, emoji: "👁️" },
+      { id: "p2", content: { en: "Ear", de: "Ohr", hu: "Fül", ro: "Ureche" }, emoji: "👂" },
+      { id: "p3", content: { en: "Nose", de: "Nase", hu: "Orr", ro: "Nas" }, emoji: "👃" },
+      { id: "p4", content: { en: "Mouth", de: "Mund", hu: "Száj", ro: "Gură" }, emoji: "👄" },
+      { id: "p5", content: { en: "Hand", de: "Hand", hu: "Kéz", ro: "Mână" }, emoji: "🖐️" },
+      { id: "p6", content: { en: "Foot", de: "Fuß", hu: "Láb", ro: "Picior" }, emoji: "🦶" }
     ]
   }
 ];

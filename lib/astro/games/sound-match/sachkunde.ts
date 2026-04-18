@@ -2,83 +2,83 @@ import { SoundMatchRound } from "../../../../components/astro-games/views/m3/Sou
 
 export const rounds: SoundMatchRound[] = [
   {
-    id: "sm-1",
+    id: "sk-sm-1",
     taskDescription: {
-      en: "What makes this sound? Match the image to the word!",
-      de: "Was macht dieses Geräusch? Ordne das Bild dem Wort zu!",
-      hu: "Mi adja ezt a hangot? Párosítsd a képet a szóval!",
-      ro: "Ce face acest sunet? Potrivește imaginea cu cuvântul!"
+      en: "Which natural element makes this sound?",
+      de: "Welches Element der Natur macht dieses Geräusch?",
+      hu: "Melyik természeti elem adja ezt a hangot?",
+      ro: "Ce element al naturii face acest sunet?"
     },
-    audioEmoji: "🦁",
+    audioEmoji: "🌬️",
     options: [
-      { id: "o1", label: { en: "Lion", de: "Löwe", hu: "Oroszlán", ro: "Leu" }, isCorrect: true },
-      { id: "o2", label: { en: "Tiger", de: "Tiger", hu: "Tigris", ro: "Tigru" }, isCorrect: false },
-      { id: "o3", label: { en: "Bear", de: "Bär", hu: "Medve", ro: "Urs" }, isCorrect: false },
-      { id: "o4", label: { en: "Wolf", de: "Wolf", hu: "Farkas", ro: "Lup" }, isCorrect: false }
+      { id: "o1", label: { en: "Wind", de: "Wind", hu: "Szél", ro: "Vânt" }, isCorrect: true },
+      { id: "o2", label: { en: "Rain", de: "Regen", hu: "Eső", ro: "Ploaie" }, isCorrect: false },
+      { id: "o3", label: { en: "Fire", de: "Feuer", hu: "Tűz", ro: "Foc" }, isCorrect: false },
+      { id: "o4", label: { en: "Stone", de: "Stein", hu: "Kő", ro: "Piatră" }, isCorrect: false }
     ]
   },
   {
-    id: "sm-2",
+    id: "sk-sm-2",
     taskDescription: {
-      en: "Which instrument do you hear?",
-      de: "Welches Instrument hörst du?",
-      hu: "Milyen hangszert hallasz?",
-      ro: "Ce instrument auzi?"
+      en: "Which farm animal clucks like this?",
+      de: "Welches Bauernhoftier gackert so?",
+      hu: "Melyik haszonállat kotkodácsol így?",
+      ro: "Ce animal de la fermă cotcodăcește așa?"
     },
-    audioEmoji: "🎸",
+    audioEmoji: "🐔",
     options: [
-      { id: "o1", label: { en: "Piano", de: "Klavier", hu: "Zongora", ro: "Pian" }, isCorrect: false },
-      { id: "o2", label: { en: "Guitar", de: "Gitarre", hu: "Gitár", ro: "Chitară" }, isCorrect: true },
-      { id: "o3", label: { en: "Drums", de: "Schlagzeug", hu: "Dob", ro: "Tobe" }, isCorrect: false },
-      { id: "o4", label: { en: "Violin", de: "Geige", hu: "Hegedű", ro: "Vioară" }, isCorrect: false }
+      { id: "o1", label: { en: "Cow", de: "Kuh", hu: "Tehén", ro: "Vac" }, isCorrect: false },
+      { id: "o2", label: { en: "Chicken", de: "Huhn", hu: "Tyúk", ro: "Găină" }, isCorrect: true },
+      { id: "o3", label: { en: "Pig", de: "Schwein", hu: "Disznó", ro: "Porc" }, isCorrect: false },
+      { id: "o4", label: { en: "Horse", de: "Pferd", hu: "Ló", ro: "Cal" }, isCorrect: false }
     ]
   },
   {
-    id: "sm-3",
+    id: "sk-sm-3",
     taskDescription: {
-      en: "Which vehicle makes this sound?",
-      de: "Welches Fahrzeug macht dieses Geräusch?",
-      hu: "Melyik jármű adja ezt a hangot?",
-      ro: "Ce vehicul face acest sunet?"
+      en: "What weather phenomenon produces this loud sound?",
+      de: "Welches Wetterphänomen erzeugt dieses laute Geräusch?",
+      hu: "Melyik időjárási jelenség adja ezt a hangos hangot?",
+      ro: "Ce fenomen meteorologic produce acest sunet puternic?"
     },
-    audioEmoji: "🚑",
+    audioEmoji: "⚡",
     options: [
-      { id: "o1", label: { en: "Ambulance", de: "Krankenwagen", hu: "Mentőautó", ro: "Ambulanță" }, isCorrect: true },
-      { id: "o2", label: { en: "Police", de: "Polizei", hu: "Rendőrség", ro: "Poliție" }, isCorrect: false },
-      { id: "o3", label: { en: "Firetruck", de: "Feuerwehr", hu: "Tűzoltó", ro: "Mașină de pompieri" }, isCorrect: false },
-      { id: "o4", label: { en: "Train", de: "Zug", hu: "Vonat", ro: "Tren" }, isCorrect: false }
+      { id: "o1", label: { en: "Snow", de: "Schnee", hu: "Hó", ro: "Zăpadă" }, isCorrect: false },
+      { id: "o2", label: { en: "Fog", de: "Nebel", hu: "Köd", ro: "Ceață" }, isCorrect: false },
+      { id: "o3", label: { en: "Thunder", de: "Donner", hu: "Mennydörgés", ro: "Tunet" }, isCorrect: true },
+      { id: "o4", label: { en: "Sun", de: "Sonne", hu: "Nap", ro: "Soare" }, isCorrect: false }
     ]
   },
   {
-    id: "sm-4",
+    id: "sk-sm-4",
     taskDescription: {
-      en: "Which animal is croaking here?",
-      de: "Welches Tier quakt hier?",
-      hu: "Melyik állat brekeg itt?",
-      ro: "Ce animal orăcăie aici?"
+      en: "Which insect makes a buzzing sound like this?",
+      de: "Welches Insekt summt so?",
+      hu: "Melyik rovar zümmög így?",
+      ro: "Ce insectă bâzâie așa?"
     },
-    audioEmoji: "🐸",
+    audioEmoji: "🐝",
     options: [
-      { id: "o1", label: { en: "Snake", de: "Schlange", hu: "Kígyó", ro: "Șarpe" }, isCorrect: false },
-      { id: "o2", label: { en: "Bird", de: "Vogel", hu: "Madár", ro: "Pasăre" }, isCorrect: false },
-      { id: "o3", label: { en: "Frog", de: "Frosch", hu: "Béka", ro: "Broască" }, isCorrect: true },
-      { id: "o4", label: { en: "Dog", de: "Hund", hu: "Kutya", ro: "Câine" }, isCorrect: false }
+      { id: "o1", label: { en: "Spider", de: "Spinne", hu: "Pók", ro: "Păianjen" }, isCorrect: false },
+      { id: "o2", label: { en: "Bee", de: "Biene", hu: "Méh", ro: "Albină" }, isCorrect: true },
+      { id: "o3", label: { en: "Butterfly", de: "Schmetterling", hu: "Pillangó", ro: "Fluture" }, isCorrect: false },
+      { id: "o4", label: { en: "Ant", de: "Ameise", hu: "Hangya", ro: "Furnică" }, isCorrect: false }
     ]
   },
   {
-    id: "sm-5",
+    id: "sk-sm-5",
     taskDescription: {
-      en: "What kind of weather makes this noise?",
-      de: "Welches Wetter macht dieses Geräusch?",
-      hu: "Milyen időjárás adja ezt a hangot?",
-      ro: "Ce fel de vreme face acest zgomot?"
+      en: "Listen to the forest. Who is howling?",
+      de: "Hör in den Wald. Wer heult da?",
+      hu: "Hallgasd az erdőt. Ki üvölt?",
+      ro: "Ascultă pădurea. Cine urlă?"
     },
-    audioEmoji: "⛈️",
+    audioEmoji: "🐺",
     options: [
-      { id: "o1", label: { en: "Sunshine", de: "Sonnenschein", hu: "Napsütés", ro: "Soare" }, isCorrect: false },
-      { id: "o2", label: { en: "Snow", de: "Schnee", hu: "Hó", ro: "Zăpadă" }, isCorrect: false },
-      { id: "o3", label: { en: "Thunderstorm", de: "Gewitter", hu: "Vihar", ro: "Furtună" }, isCorrect: true },
-      { id: "o4", label: { en: "Fog", de: "Nebel", hu: "Köd", ro: "Ceață" }, isCorrect: false }
+      { id: "o1", label: { en: "Bear", de: "Bär", hu: "Medve", ro: "Urs" }, isCorrect: false },
+      { id: "o2", label: { en: "Rabbit", de: "Hase", hu: "Nyúl", ro: "Iepure" }, isCorrect: false },
+      { id: "o3", label: { en: "Owl", de: "Eule", hu: "Bagoly", ro: "Bufniță" }, isCorrect: false },
+      { id: "o4", label: { en: "Wolf", de: "Wolf", hu: "Farkas", ro: "Lup" }, isCorrect: true }
     ]
   }
 ];

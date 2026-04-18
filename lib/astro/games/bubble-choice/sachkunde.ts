@@ -1,64 +1,64 @@
 import { BubbleChoiceRound } from "../../../../components/astro-games/views/m2/BubbleChoiceView";
 
-export const rounds: BubbleChoiceRound[] = [
+export const getBubbleChoiceSachkundePool = (): BubbleChoiceRound[] => [
   {
-    id: "bc-sachkunde-1",
+    id: "sk-bc-1",
     taskDescription: {
-      en: "Which animal is an amphibian?",
-      hu: "Melyik állat kétéltű?",
-      de: "Welches Tier ist eine Amphibie?",
-      ro: "Care animal este un amfibian?"
+      en: "Which of these is a mammal?",
+      de: "Welches davon ist ein Säugetier?",
+      hu: "Melyik ezek közül egy emlős?",
+      ro: "Care dintre acestea este un mamifer?"
     },
     bubbles: [
-      { id: "b1", text: { en: "Frog", hu: "Béka", de: "Frosch", ro: "Broască" }, isCorrect: true },
-      { id: "b2", text: { en: "Dog", hu: "Kutya", de: "Hund", ro: "Câine" }, isCorrect: false },
-      { id: "b3", text: { en: "Eagle", hu: "Sas", de: "Adler", ro: "Vultur" }, isCorrect: false },
-      { id: "b4", text: { en: "Snake", hu: "Kígyó", de: "Schlange", ro: "Șarpe" }, isCorrect: false }
+      { id: "b1", text: { en: "Shark", de: "Hai", hu: "Cápa", ro: "Rechin" }, emoji: "🦈", isCorrect: false },
+      { id: "b2", text: { en: "Eagle", de: "Adler", hu: "Sas", ro: "Vultur" }, emoji: "🦅", isCorrect: false },
+      { id: "b3", text: { en: "Dolphin", de: "Delfin", hu: "Delfin", ro: "Delfin" }, emoji: "🐬", isCorrect: true },
+      { id: "b4", text: { en: "Snake", de: "Schlange", hu: "Kígyó", ro: "Șarpe" }, emoji: "🐍", isCorrect: false }
     ]
   },
   {
-    id: "bc-sachkunde-2",
+    id: "sk-bc-2",
     taskDescription: {
-      en: "What do plants need for photosynthesis?",
-      hu: "Mire van szüksége a növényeknek a fotoszintézishez?",
-      de: "Was brauchen Pflanzen für die Fotosynthese?",
-      ro: "De ce au nevoie plantele pentru fotosinteză?"
+      en: "Which planet is closest to the Sun?",
+      de: "Welcher Planet ist der Sonne am nächsten?",
+      hu: "Melyik bolygó van legközelebb a Naphoz?",
+      ro: "Care planetă este cea mai apropiată de Soare?"
     },
     bubbles: [
-      { id: "b1", text: { en: "Sunlight", hu: "Napfény", de: "Sonnenlicht", ro: "Lumina soarelui" }, isCorrect: true },
-      { id: "b2", text: { en: "Moonlight", hu: "Holdfény", de: "Mondlicht", ro: "Lumina lunii" }, isCorrect: false },
-      { id: "b3", text: { en: "Salt", hu: "Só", de: "Salz", ro: "Sare" }, isCorrect: false },
-      { id: "b4", text: { en: "Sugar", hu: "Cukor", de: "Zucker", ro: "Zahăr" }, isCorrect: false }
+      { id: "b1", text: { en: "Venus", de: "Venus", hu: "Vénusz", ro: "Venus" }, emoji: "🪐", isCorrect: false },
+      { id: "b2", text: { en: "Mercury", de: "Merkur", hu: "Merkúr", ro: "Mercur" }, emoji: "🌍", isCorrect: true },
+      { id: "b3", text: { en: "Earth", de: "Erde", hu: "Föld", ro: "Pământ" }, emoji: "🌎", isCorrect: false },
+      { id: "b4", text: { en: "Mars", de: "Mars", hu: "Mars", ro: "Marte" }, emoji: "🔴", isCorrect: false }
     ]
   },
   {
-    id: "bc-sachkunde-3",
+    id: "sk-bc-3",
     taskDescription: {
-      en: "Which of these is a magnetic metal?",
-      hu: "Melyik ezek közül mágneses fém?",
-      de: "Welches davon ist ein magnetisches Metall?",
-      ro: "Care dintre acestea este un metal magnetic?"
+      en: "What is a source of renewable energy?",
+      de: "Was ist eine erneuerbare Energiequelle?",
+      hu: "Mi a megújuló energiaforrás?",
+      ro: "Ce este o sursă de energie regenerabilă?"
     },
     bubbles: [
-      { id: "b1", text: { en: "Gold", hu: "Arany", de: "Gold", ro: "Aur" }, isCorrect: false },
-      { id: "b2", text: { en: "Silver", hu: "Ezüst", de: "Silber", ro: "Argint" }, isCorrect: false },
-      { id: "b3", text: { en: "Iron", hu: "Vas", de: "Eisen", ro: "Fier" }, isCorrect: true },
-      { id: "b4", text: { en: "Copper", hu: "Réz", de: "Kupfer", ro: "Cupru" }, isCorrect: false }
+      { id: "b1", text: { en: "Coal", de: "Kohle", hu: "Szén", ro: "Cărbune" }, emoji: "🪨", isCorrect: false },
+      { id: "b2", text: { en: "Oil", de: "Erdöl", hu: "Olaj", ro: "Petrol" }, emoji: "🛢️", isCorrect: false },
+      { id: "b3", text: { en: "Wind", de: "Wind", hu: "Szél", ro: "Vânt" }, emoji: "💨", isCorrect: true },
+      { id: "b4", text: { en: "Natural Gas", de: "Erdgas", hu: "Földgáz", ro: "Gaz Natural" }, emoji: "🔥", isCorrect: false }
     ]
   },
   {
-    id: "bc-sachkunde-4",
+    id: "sk-bc-4",
     taskDescription: {
-      en: "Which planet is known as the Red Planet?",
-      hu: "Melyik bolygót hívják Vörös Bolygónak?",
-      de: "Welcher Planet ist als der Rote Planet bekannt?",
-      ro: "Care planetă este cunoscută ca Planeta Roșie?"
+      en: "Which part of the plant absorbs sunlight?",
+      de: "Welcher Teil der Pflanze nimmt Sonnenlicht auf?",
+      hu: "A növény melyik része szívja magába a napfényt?",
+      ro: "Care parte a plantei absoarbe lumina soarelui?"
     },
     bubbles: [
-      { id: "b1", text: { en: "Mars", hu: "Mars", de: "Mars", ro: "Marte" }, isCorrect: true },
-      { id: "b2", text: { en: "Venus", hu: "Vénusz", de: "Venus", ro: "Venus" }, isCorrect: false },
-      { id: "b3", text: { en: "Jupiter", hu: "Jupiter", de: "Jupiter", ro: "Jupiter" }, isCorrect: false },
-      { id: "b4", text: { en: "Saturn", hu: "Szaturnusz", de: "Saturn", ro: "Saturn" }, isCorrect: false }
+      { id: "b1", text: { en: "Root", de: "Wurzel", hu: "Gyökér", ro: "Rădăcină" }, emoji: "🌱", isCorrect: false },
+      { id: "b2", text: { en: "Leaf", de: "Blatt", hu: "Levél", ro: "Frunză" }, emoji: "🍃", isCorrect: true },
+      { id: "b3", text: { en: "Stem", de: "Stängel", hu: "Szár", ro: "Tulpina" }, emoji: "🎋", isCorrect: false },
+      { id: "b4", text: { en: "Flower", de: "Blume", hu: "Virág", ro: "Floare" }, emoji: "🌸", isCorrect: false }
     ]
   }
 ];
