@@ -612,7 +612,107 @@ const PASSAGES_CLASA_5: ReadingPassage[] = [
   },
 ];
 
-// ─── CLASA 6–8: TODO Texte vor fi adăugate mai târziu
+// ─── CLASA 6 ─── (300-450 cuvinte · structuri complexe, teme diverse)
+const PASSAGES_CLASA_6: ReadingPassage[] = [
+  {
+    title: "Bruno, tovarășul meu de nădejde",
+    text: "Bruno nu este doar un câine, ci un membru cu drepturi depline al familiei noastre, un suflet nobil care ne-a schimbat viața din momentul în care a pășit pragul casei noastre. Este un Golden Retriever cu o blană aurie, densă și mătăsoasă, care strălucește spectaculos sub razele soarelui de amiază. L-am primit cadou când am împlinit zece ani, iar de atunci am devenit de nedespărțit, împărțind împreună nenumărate aventuri și momente de bucurie pură. Ceea ce mă impresionează cel mai mult la Bruno este inteligența sa emoțională ieșită din comun. Pare să posede un al șaselea simț care îi permite să detecteze imediat starea mea de spirit. Dacă mă vede abătut sau obosit după o zi lungă la școală, vine tiptil lângă mine, își așază capul greu pe genunchii mei și mă privește cu ochii lui căprui, mari și plini de o înțelegere mută. În acele momente, simt cum toată tensiunea se risipește, înlocuită de o liniște profundă pe care doar prezența unui prieten loial o poate oferi. Activitățile noastre zilnice sunt variate, dar preferata lui Bruno rămâne, fără îndoială, plimbarea de după-amiază în parcul central. Acolo, el se transformă dintr-un câine calm și ascultător într-un ghem de energie inepuizabilă. Adoră să alerge după discul de plastic pe care i-l arunc, executând uneori sărituri acrobatice impresionante pentru a-l prinde în aer. De asemenea, este extrem de sociabil, interacționând cu entuziasm cu ceilalți câini, dar rămânând mereu vigilent și cu un ochi ațintit asupra mea, asigurându-se că sunt în siguranță. Într-o vară, în timpul unei excursii la munte, Bruno ne-a demonstrat încă o dată devotamentul său. Ne rătăcisem ușor pe o potecă nemarcată, iar ceața începuse să coboare rapid peste versanți. Bruno, simțind neliniștea noastră, a preluat inițiativa și ne-a ghidat cu siguranță înapoi spre drumul principal, folosindu-și simțul olfactiv extrem de dezvoltat. Această experiență mi-a întărit convingerea că legătura dintre un om și câinele său este una sacră, bazată pe încredere reciprocă și iubire necondiționată. Bruno mă învață în fiecare zi ce înseamnă responsabilitatea, răbdarea și, mai presus de toate, prietenia adevărată.",
+    questions: [
+      { type: "mcq", question: "Ce rasă este câinele Bruno?", options: ["Ciobănesc German", "Golden Retriever", "Labrador", "Beagle"], correct: 1 },
+      { type: "mcq", question: "Când l-a primit naratorul pe Bruno?", options: ["La Crăciun", "Când a împlinit zece ani", "În prima zi de școală", "În vacanța de vară"], correct: 1 },
+      { type: "mcq", question: "Care este activitatea preferată a lui Bruno în parc?", options: ["Alergatul după minge", "Alergatul după discul de plastic", "Înotul în lac", "Dormitul pe iarbă"], correct: 1 },
+      { type: "mcq", question: "Cum a ajutat Bruno familia în timpul excursiei la munte?", options: ["A găsit mâncare", "A alungat un urs", "I-a ghidat înapoi spre drumul principal prin ceață", "A găsit o peșteră"], correct: 2 },
+      { type: "typing", question: "Ce culoare are blana lui Bruno?", answer: "aurie" },
+      { type: "typing", question: "Ce simț a folosit Bruno pentru a găsi drumul înapoi?", answer: "olfactiv" },
+    ],
+  },
+  {
+    title: "Tainele pădurii de smarald",
+    text: "Pădurea seculară de la poalele munților a reprezentat întotdeauna pentru mine un sanctuar al liniștii și un laborator viu al biodiversității. Într-o dimineață răcoroasă de sâmbătă, am decis să pornesc într-o expediție solitară pentru a observa mai îndeaproape ritmul vieții sălbatice. Echipat cu un binoclu, un aparat foto și un carnețel de observații, am pășit pe poteca acoperită de un strat gros de mușchi, care amortiza fiecare pas, făcându-mă să mă simt ca un intrus tăcut într-un regat străvechi. Pe măsură ce înaintam spre inima pădurii, lumina soarelui se filtra printre coroanele gigantice ale fagilor și stejarilor, creând coloane de lumină aurie în care dansau particule fine de praf. Aerul era saturat de un amestec amețitor de mirosuri: rășină proaspătă, pământ reavăn și parfumul discret al florilor de umbră. Liniștea nu era una absolută, ci mai degrabă o simfonie complexă de sunete discrete. Am auzit ciocănitul ritmic al unei ciocănitoare negre, care căuta cu perseverență insecte sub scoarța unui copac bătrân, și foșnetul rapid al unei veverițe roșcate care aduna provizii pentru iarnă. M-am oprit lângă un pârâu cristalin care șerpuia printre bolovanii acoperiți de licheni verzi. Acolo, am avut norocul să zăresc o căprioară grațioasă care venise să se adape. Mi-am ținut respirația, admirându-i mișcările elegante și urechile ciulite la cel mai mic zgomot. A fost un moment de conexiune profundă cu natura, o lecție mută despre fragilitatea și frumusețea vieții. Mai târziu, am descoperit o varietate impresionantă de ciuperci colorate și plante rare, pe care le-am documentat cu grijă în carnețelul meu. Explorarea pădurii m-a făcut să înțeleg că acest ecosistem nu este doar o resursă, ci un organism complex care respiră și ne oferă echilibrul necesar supraviețuirii. Fiecare arbore, fiecare insectă și fiecare fir de iarbă are un rol bine definit în marea rețea a vieții.",
+    questions: [
+      { type: "mcq", question: "Cu ce era echipat naratorul pentru expediție?", options: ["Cu o bicicletă", "Cu binoclu, aparat foto și carnețel", "Cu o undiță", "Cu un cort"], correct: 1 },
+      { type: "mcq", question: "Ce tip de copaci sunt menționați în text?", options: ["Brazi și pini", "Fagi și stejari", "Salcii și plopi", "Meri și peri"], correct: 1 },
+      { type: "mcq", question: "Ce animal a observat naratorul lângă pârâu?", options: ["Un urs", "O căprioară", "Un lup", "Un mistreț"], correct: 1 },
+      { type: "mcq", question: "Care este mesajul principal al textului?", options: ["Pădurea este periculoasă", "Importanța protejării ecosistemului forestier", "Cum să vânezi animale", "Cum să tai lemne"], correct: 1 },
+      { type: "typing", question: "Ce pasăre scotea un sunet ritmic în pădure?", answer: "ciocănitoarea" },
+      { type: "typing", question: "Ce acoperea bolovanii de lângă pârâu?", answer: "licheni" },
+    ],
+  },
+  {
+    title: "Vacanța în ograda bunicilor",
+    text: "Pentru mine, vacanța de vară nu este completă fără cele câteva săptămâni petrecute în satul bunicilor mei, un loc unde timpul pare să fi încremenit într-o epocă a simplității și a bunei rânduieli. Casa lor, cu pereți albi și acoperiș de șindrilă, este înconjurată de o grădină imensă, plină de flori multicolore și pomi fructiferi care se apleacă sub greutatea roadelor. Încă de la poartă, sunt întâmpinat de mirosul inconfundabil de fân proaspăt cosit și de aroma plăcintelor cu brânză pe care bunica le pregătește cu atâta dragoste. Bunicul meu este un om al pământului, cu palmele bătătorite de muncă, dar cu o înțelepciune blândă care se citește în ochii săi albaștri. Diminețile încep devreme, odată cu primul cântat al cocoșului. Îl însoțesc adesea la câmp sau în livadă, unde mă învață tainele agriculturii tradiționale. El îmi explică cum să îngrijesc plantele, cum să recunosc semnele vremii și cât de important este să respecți ritmul naturii. Munca este solicitantă, dar satisfacția de a vedea rezultatele efortului tău este imensă, oferindu-mi o perspectivă diferită asupra valorii lucrurilor obținute prin trudă proprie. Bunica, pe de altă parte, este sufletul casei și păstrătoarea tradițiilor culinare. Bucătăria ei este un loc magic unde ingredientele simple din grădină se transformă în adevărate festinuri. Nimic nu se compară cu gustul laptelui proaspăt muls sau cu aroma roșiilor zemoase, culese direct de pe vrej. Seara, ne adunăm cu toții pe prispă, sub cerul înstelat, iar bunicii ne deapănă amintiri din tinerețea lor, povești despre strămoși și despre cum s-a schimbat satul de-a lungul deceniilor. Aceste experiențe la țară mă ajută să mă deconectez de agitația orașului și de ecranele dispozitivelor electronice, permițându-mi să redescopăr bucuria lucrurilor mărunte.",
+    questions: [
+      { type: "mcq", question: "Cum este acoperișul casei bunicilor?", options: ["De țiglă", "De șindrilă", "De tablă", "De paie"], correct: 1 },
+      { type: "mcq", question: "Ce activitate face naratorul împreună cu bunicul dimineața?", options: ["Merg la pescuit", "Îl însoțește la câmp sau în livadă", "Repară mașina", "Dorm până târziu"], correct: 1 },
+      { type: "mcq", question: "Cine este considerat sufletul casei în text?", options: ["Bunicul", "Bunica", "Naratorul", "Vecinul"], correct: 1 },
+      { type: "mcq", question: "Ce fac bunicii seara pe prispă?", options: ["Se uită la televizor", "Deapănă amintiri și povești despre strămoși", "Citesc ziarul", "Dorm"], correct: 1 },
+      { type: "typing", question: "Ce pregătește bunica cu dragoste?", answer: "plăcinte" },
+      { type: "typing", question: "Ce culoare au ochii bunicului?", answer: "albaștri" },
+    ],
+  },
+  {
+    title: "Emoțiile primei zile de școală",
+    text: "Prima zi de școală a sosit cu un amestec intens de nerăbdare și o ușoară neliniște, marcând începutul unui nou capitol în parcursul meu educațional: clasa a șasea. Deși nu mai sunt un „boboc” în gimnaziu, trecerea într-un nou an școlar aduce mereu cu sine provocări inedite și oportunități de dezvoltare. Curtea școlii era inundată de o mare de elevi veseli, părinți emoționați și buchete de flori multicolore, totul desfășurându-se sub acordurile imnului școlii care răsuna festiv în difuzoare. Reîntâlnirea cu colegii a fost momentul cel mai așteptat. Ne-am împărtășit cu entuziasm aventurile din vacanța de vară, am observat cât de mult am crescut unii dintre noi și am făcut planuri pentru proiectele de grup ce vor urma. Atmosfera era una de camaraderie și optimism, semn că legăturile formate în anii precedenți sunt solide. Doamna dirigintă ne-a întâmpinat în sala de clasă cu un zâmbet cald și cu un discurs motivațional despre importanța perseverenței și a curiozității intelectuale în acest an care se anunță a fi unul solicitant. Clasa a șasea aduce cu sine materii noi și profesori diferiți, ceea ce necesită o capacitate de adaptare sporită. Am primit cu interes noul orar, analizând cu atenție disciplinele care mă pasionează, precum istoria și biologia, dar și pe cele care reprezintă o adevărată provocare, cum este matematica. Manualele noi, cu mirosul lor specific de tipar proaspăt, așteptau cuminți pe bănci, promițând să ne dezvăluie taine noi despre lume și univers. Am înțeles că succesul școlar nu depinde doar de inteligență, ci mai ales de organizare, disciplină și dorința constantă de a învăța.",
+    questions: [
+      { type: "mcq", question: "În ce clasă a trecut naratorul?", options: ["Clasa a cincea", "Clasa a șasea", "Clasa a șaptea", "Clasa a patra"], correct: 1 },
+      { type: "mcq", question: "Care a fost momentul cel mai așteptat al primei zile?", options: ["Masa de prânz", "Reîntâlnirea cu colegii", "Primirea manualelor", "Discursul directorului"], correct: 1 },
+      { type: "mcq", question: "Ce calități sunt menționate ca fiind necesare pentru succesul școlar?", options: ["Doar norocul", "Organizare, disciplină și dorința de a învăța", "Banii", "Viteza de scriere"], correct: 1 },
+      { type: "mcq", question: "Ce materii pasionează în mod deosebit pe narator?", options: ["Sportul și muzica", "Istoria și biologia", "Matematica și fizica", "Desenul"], correct: 1 },
+      { type: "typing", question: "Ce răsuna festiv în difuzoarele școlii?", answer: "imnul" },
+      { type: "typing", question: "Ce document conține programul zilnic al materiilor?", answer: "orarul" },
+    ],
+  },
+  {
+    title: "Datini și obiceiuri de Crăciun",
+    text: "Sărbătorile de iarnă reprezintă în România o perioadă magică, în care tradițiile străvechi se împletesc armonios cu bucuria prezentului, creând o atmosferă de poveste ce dăinuie în sufletele noastre mult timp după trecerea gerului. Crăciunul, în special, este marcat de o bogăție de datini care variază de la o regiune la alta, dar care au în comun spiritul generozității și al comuniunii familiale. Pregătirile încep cu mult timp înainte, prin curățenia generală a gospodăriei și prepararea bucatelor tradiționale care vor trona pe masa festivă. Unul dintre cele mai frumoase și așteptate momente este colindatul. În seara de Ajun, grupuri de copii și tineri, îmbrăcați adesea în costume populare autentice, pornesc din casă în casă pentru a vesti Nașterea Domnului. Sunetul clopoțeilor, al buhaiului și vocile cristaline care interpretează colinde vechi, precum „Steaua sus răsare” sau „O, ce veste minunată”, umplu ulițele satelor și holurile blocurilor de o vibrație spirituală aparte. Gazdele îi întâmpină pe colindători cu mere, nuci, colaci proaspeți și, uneori, cu mici sume de bani, în semn de mulțumire pentru urările de sănătate și belșug. În interiorul caselor, bradul de Crăciun, împodobit cu globuri strălucitoare, beteală și luminițe colorate, devine centrul universului familial. Mirosul de cetină se amestecă cu aroma inconfundabilă a cozonacilor proaspăt scoși din cuptor, a sarmalelor care fierb încet în oale de lut și a fripturii de porc condimentate. Masa de Crăciun este un prilej de reîntregire a familiei, unde generații diferite stau împreună, depănând amintiri și bucurându-se de prezența celor dragi.",
+    questions: [
+      { type: "mcq", question: "Ce vestesc colindătorii în seara de Ajun?", options: ["Venirea iernii", "Nașterea Domnului", "Sfârșitul anului", "Începutul școlii"], correct: 1 },
+      { type: "mcq", question: "Cu ce sunt întâmpinați colindătorii de către gazde?", options: ["Cu bomboane și suc", "Cu mere, nuci și colaci", "Cu flori", "Cu jucării"], correct: 1 },
+      { type: "mcq", question: "Ce tip de mâncare tradițională este menționată în text?", options: ["Pizza", "Sarmale și cozonaci", "Paste", "Hamburgeri"], correct: 1 },
+      { type: "mcq", question: "Care este atmosfera generală a sărbătorilor descrisă în text?", options: ["Agitată și stresantă", "Magică, de poveste și comuniune familială", "Plictisitoare", "Tristă"], correct: 1 },
+      { type: "typing", question: "Cum se numește seara de dinaintea Crăciunului?", answer: "Ajunul" },
+      { type: "typing", question: "Ce obiecte strălucitoare se pun în brad?", answer: "globuri" },
+    ],
+  },
+  {
+    title: "Ștefan cel Mare și Sfânt, apărătorul creștinătății",
+    text: "Ștefan cel Mare, domnitorul Moldovei între anii 1457 și 1504, rămâne una dintre cele mai emblematice și respectate figuri din istoria medievală a României. Domnia sa de aproape o jumătate de secol a reprezentat o perioadă de maximă înflorire politică, militară și culturală pentru țară, Ștefan reușind să mențină independența Moldovei într-un context geopolitic extrem de dificil, marcat de expansiunea Imperiului Otoman și de presiunile regatelor vecine, Polonia și Ungaria. Cunoscut ca un strateg militar de excepție, Ștefan a purtat numeroase bătălii, majoritatea victorioase, împotriva unor armate mult mai numeroase. Cea mai faimoasă victorie a sa rămâne cea de la Vaslui (Podul Înalt) din 1475, unde a reușit să înfrângă o armată otomană imensă, fapt ce i-a adus recunoașterea internațională și titlul de „atlet al lui Hristos” acordat de Papa Sixtus al IV-lea. Dincolo de calitățile sale de războinic, Ștefan a fost un mare ctitor de cultură și spiritualitate. Tradiția spune că după fiecare victorie importantă, el ridica o biserică sau o mănăstire, lăsând în urmă o moștenire arhitecturală impresionantă, cunoscută astăzi sub numele de stilul moldovenesc. Mănăstirea Putna, unde se află și mormântul său, rămâne un simbol al evlaviei sale și un loc de pelerinaj pentru românii de pretutindeni. De asemenea, el a întărit sistemul de cetăți al Moldovei, precum Cetatea Neamțului sau Cetatea de Scaun a Sucevei, asigurând protecția populației în fața invaziilor.",
+    questions: [
+      { type: "mcq", question: "Între ce ani a domnit Ștefan cel Mare?", options: ["1400-1450", "1457-1504", "1500-1550", "1350-1400"], correct: 1 },
+      { type: "mcq", question: "Ce titlu i-a acordat Papa Sixtus al IV-lea după victoria de la Vaslui?", options: ["Rege al Moldovei", "Atlet al lui Hristos", "Împărat al Estului", "Cavaler al Ordinului"], correct: 1 },
+      { type: "mcq", question: "Unde se află mormântul lui Ștefan cel Mare?", options: ["La București", "La Mănăstirea Putna", "La Iași", "La Suceava"], correct: 1 },
+      { type: "mcq", question: "Ce cetăți a întărit domnitorul pentru apărarea țării?", options: ["Cetatea Neamțului și Cetatea de Scaun a Sucevei", "Castelul Bran", "Cetatea Alba Iulia", "Cetatea Devei"], correct: 0 },
+      { type: "typing", question: "Cum se numește stilul arhitectural creat în timpul domniei sale?", answer: "moldovenesc" },
+      { type: "typing", question: "În ce an a fost canonizat Ștefan cel Mare?", answer: "1992" },
+    ],
+  },
+  {
+    title: "Aventura pe șine spre inima munților",
+    text: "Călătoria cu trenul pe ruta București-Brașov reprezintă pentru mine una dintre cele mai fascinante experiențe de transport, oferind un spectacol vizual de neegalat și o perspectivă unică asupra diversității reliefului românesc. Totul începe în forfota Gării de Nord, un loc încărcat de istorie și de emoția plecărilor, unde sute de călători se grăbesc spre peroane cu geamantane și speranțe. Odată urcat în vagonul modern și confortabil, simt cum agitația orașului se estompează, lăsând loc unei stări de anticipare plăcută. Imediat ce trenul părăsește câmpia și începe ascensiunea spre Valea Prahovei, peisajul se transformă radical. Privind prin fereastra largă, pot observa cum râul Prahova șerpuiește nervos printre stânci, însoțind calea ferată în efortul său de a cuceri muntele. Munții Bucegi se înalță impunători de o parte, cu vârfurile lor adesea învăluite în nori misterioși, în timp ce Munții Baiului strălucesc sub razele soarelui de cealaltă parte. Trenul trece prin tuneluri întunecate și peste viaducte înalte, oferind perspective amețitoare asupra prăpăstiilor și a pădurilor de conifere care par nesfârșite. Unul dintre momentele mele preferate este oprirea în gara din Sinaia, o bijuterie arhitecturală care amintește de eleganța perioadei regale. De aici, se poate zări pentru o clipă silueta maiestuoasă a Castelului Peleș, strălucind printre brazi ca într-o ilustrație de basm. Pe măsură ce înaintăm spre Predeal, cel mai înalt punct al traseului feroviar, aerul devine mai rece și mai proaspăt, iar zgomotul ritmic al roților pe șine capătă o rezonanță aparte în liniștea înălțimilor.",
+    questions: [
+      { type: "mcq", question: "De unde începe călătoria cu trenul descrisă în text?", options: ["Gara de Est", "Gara de Nord", "Gara Centrală", "Aeroport"], correct: 1 },
+      { type: "mcq", question: "Ce râu însoțește calea ferată pe Valea Prahovei?", options: ["Oltul", "Prahova", "Mureșul", "Siretul"], correct: 1 },
+      { type: "mcq", question: "Care este cel mai înalt punct al traseului feroviar menționat?", options: ["Sinaia", "Predeal", "Bușteni", "Azuga"], correct: 1 },
+      { type: "mcq", question: "Ce castel poate fi zărit pentru o clipă din tren la Sinaia?", options: ["Castelul Bran", "Castelul Peleș", "Castelul Corvinilor", "Cetatea Neamțului"], correct: 1 },
+      { type: "typing", question: "Cum se numește muntele care domină orașul Brașov?", answer: "Tâmpa" },
+      { type: "typing", question: "Ce tip de păduri predomină în zona montană?", answer: "conifere" },
+    ],
+  },
+  {
+    title: "Metamorfoza naturii de-a lungul anului",
+    text: "Succesiunea celor patru anotimpuri reprezintă în România un spectacol grandios al transformării, o simfonie a culorilor și a stărilor sufletești care ne modelează existența și ne conectează profund la ritmul universului. Primăvara este momentul renașterii, când natura se trezește dintr-un somn adânc sub mângâierea razelor calde ale soarelui. Ghioceii străpung stratul subțire de zăpadă, iar copacii înfloresc, umplând aerul de un parfum delicat și de zumzetul albinelor harnice. Vara, în schimb, este anotimpul plenitudinii și al luminii intense. Zilele lungi și călduroase ne invită la explorare, fie că alegem răcoarea pădurilor de munte sau briza sărată a Mării Negre. Câmpurile de grâu auriu ondulează sub adierea vântului, iar livezile sunt pline de fructe zemoase care așteaptă să fie culeși. Toamna aduce cu sine o schimbare de registru, transformând peisajul într-o veritabilă galerie de artă pictată în nuanțe de arămiu, auriu și roșu purpuriu. Aerul devine mai tăios, iar zilele încep să se scurteze, invitându-ne la introspecție și melancolie. Este anotimpul recoltei, când hambarele se umplu de provizii pentru iarnă, iar mirosul de must și de frunze uscate plutește în aer. Iarna instalează peste lume o liniște solemnă, acoperind totul cu o mantie albă și sclipitoare de zăpadă. Natura pare să fi încremenit într-un somn adânc, dar sub stratul de gheață viața continuă să pulseze discret. Este timpul poveștilor la gura sobei, al sărbătorilor pline de lumină și al bucuriei jocurilor în zăpadă. Această succesiune ciclică ne reamintește că viața este o transformare continuă și că fiecare anotimp are rolul său esențial în menținerea echilibrului planetar.",
+    questions: [
+      { type: "mcq", question: "Ce floare este menționată ca simbol al renașterii primăvara?", options: ["Trandafirul", "Ghiocelul", "Laleaua", "Floarea-soarelui"], correct: 1 },
+      { type: "mcq", question: "Care este atmosfera specifică verii conform textului?", options: ["Tristă și rece", "Plenitudine, lumină intensă și vitalitate", "Melancolică", "Întunecată"], correct: 1 },
+      { type: "mcq", question: "Ce culori predomină în peisajul de toamnă?", options: ["Verde și albastru", "Arămiu, auriu și roșu purpuriu", "Alb și gri", "Negru"], correct: 1 },
+      { type: "mcq", question: "Ce activitate este specifică iernii în viziunea naratorului?", options: ["Mersul la plajă", "Poveștile la gura sobei și jocurile în zăpadă", "Culesul fructelor", "Plantatul florilor"], correct: 1 },
+      { type: "typing", question: "Ce insecte zumzăie printre florile de primăvară?", answer: "albinele" },
+      { type: "typing", question: "Ce fenomen desenează „flori” pe ferestre în timpul iernii?", answer: "gerul" },
+    ],
+  },
+];
+
+// ─── CLASA 7–8: TODO Texte vor fi adăugate mai târziu
 
 const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
   1: PASSAGES_CLASA_1,
@@ -620,7 +720,7 @@ const ROMANIAN_PASSAGES_BY_CLASA: Record<number, ReadingPassage[]> = {
   3: PASSAGES_CLASA_3,
   4: PASSAGES_CLASA_4,
   5: PASSAGES_CLASA_5,
-  6: [],
+  6: PASSAGES_CLASA_6,
   7: [],
   8: [],
 };
