@@ -1652,8 +1652,8 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                 );
               })}
 
-              {/* Lesetest */}
-              {!config.hideLesetest && <motion.button
+              {/* Lesetest — auto-hide ha grade üres (nincs passage) */}
+              {!config.hideLesetest && (!config.getReadingPassage || config.getReadingPassage(grade) !== null) && <motion.button
                 onClick={() => setIncludeLesetest((v) => !v)}
                 whileHover={{ scale: 1.01 }} whileTap={{ scale: 0.98 }}
                 className="flex items-center gap-3 px-4 py-3.5 rounded-2xl text-left transition-all border"
