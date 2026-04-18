@@ -1,12 +1,14 @@
 "use client";
 import { useState, useEffect } from "react";
+import dynamic from "next/dynamic";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { ArrowLeft, Calculator } from "lucide-react";
 import { COUNTRIES, type CountryConfig } from "@/lib/mathLocale";
 import { getLanguage } from "@/lib/language";
 import AvatarCompanion from "@/components/AvatarCompanion";
-import { Scene3D } from "@/components/math-test/Scene3D";
+
+const Scene3D = dynamic(() => import("@/components/math-test/Scene3D").then(m => ({ default: m.Scene3D })), { ssr: false });
 
 interface CountrySelectProps {
   onSelect: (country: CountryConfig) => void;
