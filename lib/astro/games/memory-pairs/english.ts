@@ -1,56 +1,56 @@
 import { MemoryPairsRound } from "../../../../components/astro-games/views/m2/MemoryPairsView";
 
+// English subject: kids learning English.
 export const rounds: MemoryPairsRound[] = [
   {
     id: "en-mp-1",
     taskDescription: {
-      en: "Find matching German words with emoji clues.",
-      de: "Finde passende deutsche Wörter mit Emoji-Hinweisen.",
-      hu: "Találd meg az egyező német szavakat emoji segítséggel.",
-      ro: "Găsește cuvintele germane pereche cu indicii emoji."
+      en: "Match English words with their translations.",
+      de: "Ordne englische Wörter ihren Übersetzungen zu.",
+      hu: "Párosítsd az angol szavakat a fordításukkal.",
+      ro: "Potrivește cuvintele englezești cu traducerile lor."
     },
     pairs: [
-      { id: "p1", content: { en: "der Hund", de: "der Hund", hu: "der Hund", ro: "der Hund" }, emoji: "🐶" },
-      { id: "p2", content: { en: "die Katze", de: "die Katze", hu: "die Katze", ro: "die Katze" }, emoji: "🐱" },
-      { id: "p3", content: { en: "das Buch", de: "das Buch", hu: "das Buch", ro: "das Buch" }, emoji: "📘" },
-      { id: "p4", content: { en: "das Auto", de: "das Auto", hu: "das Auto", ro: "das Auto" }, emoji: "🚗" },
-      { id: "p5", content: { en: "die Schule", de: "die Schule", hu: "die Schule", ro: "die Schule" }, emoji: "🏫" },
-      { id: "p6", content: { en: "der Apfel", de: "der Apfel", hu: "der Apfel", ro: "der Apfel" }, emoji: "🍎" }
+      { id: "p1", content: { en: "dog", de: "Hund", hu: "kutya", ro: "câine" }, emoji: "🐶" },
+      { id: "p2", content: { en: "cat", de: "Katze", hu: "macska", ro: "pisică" }, emoji: "🐱" },
+      { id: "p3", content: { en: "book", de: "Buch", hu: "könyv", ro: "carte" }, emoji: "📘" },
+      { id: "p4", content: { en: "car", de: "Auto", hu: "autó", ro: "mașină" }, emoji: "🚗" },
+      { id: "p5", content: { en: "school", de: "Schule", hu: "iskola", ro: "școală" }, emoji: "🏫" },
+      { id: "p6", content: { en: "apple", de: "Apfel", hu: "alma", ro: "măr" }, emoji: "🍎" }
     ]
   },
   {
     id: "en-mp-2",
     taskDescription: {
-      en: "Train singular/plural forms in German.",
-      de: "Übe Singular- und Pluralformen auf Deutsch.",
-      hu: "Gyakorold a német egyes és többes számot.",
-      ro: "Exersează formele de singular/plural în germană."
+      en: "Match colors with objects.",
+      de: "Ordne Farben den Objekten zu.",
+      hu: "Párosítsd a színeket tárgyakkal.",
+      ro: "Potrivește culorile cu obiectele."
     },
     pairs: [
-      { id: "p1", content: { en: "ein Hund / Hunde", de: "ein Hund / Hunde", hu: "ein Hund / Hunde", ro: "ein Hund / Hunde" }, emoji: "🐕" },
-      { id: "p2", content: { en: "eine Katze / Katzen", de: "eine Katze / Katzen", hu: "eine Katze / Katzen", ro: "eine Katze / Katzen" }, emoji: "🐈" },
-      { id: "p3", content: { en: "ein Buch / Bücher", de: "ein Buch / Bücher", hu: "ein Buch / Bücher", ro: "ein Buch / Bücher" }, emoji: "📚" },
-      { id: "p4", content: { en: "ein Kind / Kinder", de: "ein Kind / Kinder", hu: "ein Kind / Kinder", ro: "ein Kind / Kinder" }, emoji: "🧒" },
-      { id: "p5", content: { en: "eine Stadt / Städte", de: "eine Stadt / Städte", hu: "eine Stadt / Städte", ro: "eine Stadt / Städte" }, emoji: "🏙️" },
-      { id: "p6", content: { en: "ein Haus / Häuser", de: "ein Haus / Häuser", hu: "ein Haus / Häuser", ro: "ein Haus / Häuser" }, emoji: "🏘️" }
+      { id: "p1", content: { en: "red", de: "Red (apple)", hu: "piros (alma)", ro: "roșu (măr)" }, emoji: "🍎" },
+      { id: "p2", content: { en: "yellow", de: "Yellow (sun)", hu: "sárga (nap)", ro: "galben (soare)" }, emoji: "☀️" },
+      { id: "p3", content: { en: "green", de: "Green (leaf)", hu: "zöld (levél)", ro: "verde (frunză)" }, emoji: "🍃" },
+      { id: "p4", content: { en: "blue", de: "Blue (sky)", hu: "kék (ég)", ro: "albastru (cer)" }, emoji: "☁️" },
+      { id: "p5", content: { en: "black", de: "Black (cat)", hu: "fekete (macska)", ro: "negru (pisică)" }, emoji: "🐈‍⬛" },
+      { id: "p6", content: { en: "white", de: "White (cloud)", hu: "fehér (felhő)", ro: "alb (nor)" }, emoji: "☁️" }
     ]
   },
   {
     id: "en-mp-3",
     taskDescription: {
-      en: "Match useful beginner phrases.",
-      de: "Finde die passenden Anfänger-Phrasen.",
-      hu: "Találd meg a hasznos kezdő kifejezések párjait.",
-      ro: "Potrivește expresiile utile pentru începători."
+      en: "Match greetings.",
+      de: "Finde die passenden Grüße.",
+      hu: "Találd meg a köszönéseket.",
+      ro: "Potrivește saluturile."
     },
     pairs: [
-      { id: "p1", content: { en: "Guten Morgen", de: "Guten Morgen", hu: "Guten Morgen", ro: "Guten Morgen" }, emoji: "🌅" },
-      { id: "p2", content: { en: "Gute Nacht", de: "Gute Nacht", hu: "Gute Nacht", ro: "Gute Nacht" }, emoji: "🌙" },
-      { id: "p3", content: { en: "Wie geht's?", de: "Wie geht's?", hu: "Wie geht's?", ro: "Wie geht's?" }, emoji: "🙂" },
-      { id: "p4", content: { en: "Danke", de: "Danke", hu: "Danke", ro: "Danke" }, emoji: "🙏" },
-      { id: "p5", content: { en: "Bitte", de: "Bitte", hu: "Bitte", ro: "Bitte" }, emoji: "🤝" },
-      { id: "p6", content: { en: "Entschuldigung", de: "Entschuldigung", hu: "Entschuldigung", ro: "Entschuldigung" }, emoji: "🙋" }
+      { id: "p1", content: { en: "Hello", de: "Hallo", hu: "Szia", ro: "Salut" }, emoji: "👋" },
+      { id: "p2", content: { en: "Good morning", de: "Guten Morgen", hu: "Jó reggelt", ro: "Bună dimineața" }, emoji: "🌅" },
+      { id: "p3", content: { en: "Good night", de: "Gute Nacht", hu: "Jó éjt", ro: "Noapte bună" }, emoji: "🌙" },
+      { id: "p4", content: { en: "Thank you", de: "Danke", hu: "Köszönöm", ro: "Mulțumesc" }, emoji: "🙏" },
+      { id: "p5", content: { en: "Please", de: "Bitte", hu: "Kérlek / Szívesen", ro: "Te rog / Cu plăcere" }, emoji: "🤝" },
+      { id: "p6", content: { en: "Goodbye", de: "Auf Wiedersehen", hu: "Viszontlátásra", ro: "La revedere" }, emoji: "🚶" }
     ]
   }
 ];
-

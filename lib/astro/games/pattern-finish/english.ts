@@ -1,68 +1,68 @@
 import { PatternFinishRound } from "../../../../components/astro-games/views/m3/PatternFinishView";
 
+// English subject: kids learning English.
 export const rounds: PatternFinishRound[] = [
   {
     id: "en-pf-1",
     taskDescription: {
-      en: "Complete the conjugation pattern of 'sein'.",
-      de: "Vervollständige das Konjugationsmuster von 'sein'.",
-      hu: "Egészítsd ki a 'sein' ragozási mintáját.",
-      ro: "Completează modelul de conjugare al verbului 'sein'."
+      en: "Complete the conjugation pattern of 'to be'.",
+      de: "Vervollständige das Konjugationsmuster von 'to be'.",
+      hu: "Egészítsd ki a 'to be' ragozási mintáját.",
+      ro: "Completează modelul de conjugare al verbului 'to be'."
     },
     pattern: [
-      { en: "ich bin", de: "ich bin", hu: "ich bin", ro: "ich bin" },
-      { en: "du bist", de: "du bist", hu: "du bist", ro: "du bist" },
-      { en: "er ...", de: "er ...", hu: "er ...", ro: "er ..." },
+      { en: "I am", de: "I am", hu: "I am", ro: "I am" },
+      { en: "you are", de: "you are", hu: "you are", ro: "you are" },
+      { en: "he/she/it ...", de: "he/she/it ...", hu: "he/she/it ...", ro: "he/she/it ..." },
       { en: "?", de: "?", hu: "?", ro: "?" }
     ],
     options: [
-      { id: "o1", text: { en: "ist", de: "ist", hu: "ist", ro: "ist" }, isCorrect: true },
-      { id: "o2", text: { en: "bin", de: "bin", hu: "bin", ro: "bin" }, isCorrect: false },
-      { id: "o3", text: { en: "seid", de: "seid", hu: "seid", ro: "seid" }, isCorrect: false },
-      { id: "o4", text: { en: "sind", de: "sind", hu: "sind", ro: "sind" }, isCorrect: false }
+      { id: "o1", text: { en: "is", de: "is", hu: "is", ro: "is" }, isCorrect: true },
+      { id: "o2", text: { en: "am", de: "am", hu: "am", ro: "am" }, isCorrect: false },
+      { id: "o3", text: { en: "are", de: "are", hu: "are", ro: "are" }, isCorrect: false },
+      { id: "o4", text: { en: "be", de: "be", hu: "be", ro: "be" }, isCorrect: false }
     ]
   },
   {
     id: "en-pf-2",
     taskDescription: {
-      en: "Finish the 'haben' pattern.",
-      de: "Vervollständige das Muster von 'haben'.",
-      hu: "Egészítsd ki a 'haben' mintát.",
-      ro: "Completează modelul pentru 'haben'."
+      en: "Finish the 'to have' pattern.",
+      de: "Vervollständige das Muster von 'to have'.",
+      hu: "Egészítsd ki a 'to have' mintát.",
+      ro: "Completează modelul pentru 'to have'."
     },
     pattern: [
-      { en: "ich habe", de: "ich habe", hu: "ich habe", ro: "ich habe" },
-      { en: "du hast", de: "du hast", hu: "du hast", ro: "du hast" },
-      { en: "er hat", de: "er hat", hu: "er hat", ro: "er hat" },
-      { en: "wir ...", de: "wir ...", hu: "wir ...", ro: "wir ..." }
+      { en: "I have", de: "I have", hu: "I have", ro: "I have" },
+      { en: "you have", de: "you have", hu: "you have", ro: "you have" },
+      { en: "he/she/it has", de: "he/she/it has", hu: "he/she/it has", ro: "he/she/it has" },
+      { en: "we ...", de: "we ...", hu: "we ...", ro: "we ..." }
     ],
     options: [
-      { id: "o1", text: { en: "habt", de: "habt", hu: "habt", ro: "habt" }, isCorrect: false },
-      { id: "o2", text: { en: "haben", de: "haben", hu: "haben", ro: "haben" }, isCorrect: true },
-      { id: "o3", text: { en: "hat", de: "hat", hu: "hat", ro: "hat" }, isCorrect: false },
-      { id: "o4", text: { en: "habe", de: "habe", hu: "habe", ro: "habe" }, isCorrect: false }
+      { id: "o1", text: { en: "has", de: "has", hu: "has", ro: "has" }, isCorrect: false },
+      { id: "o2", text: { en: "have", de: "have", hu: "have", ro: "have" }, isCorrect: true },
+      { id: "o3", text: { en: "having", de: "having", hu: "having", ro: "having" }, isCorrect: false },
+      { id: "o4", text: { en: "had", de: "had", hu: "had", ro: "had" }, isCorrect: false }
     ]
   },
   {
     id: "en-pf-3",
     taskDescription: {
-      en: "Complete the personal pronoun pattern.",
-      de: "Vervollständige das Muster der Personalpronomen.",
-      hu: "Egészítsd ki a személyes névmások mintáját.",
-      ro: "Completează modelul pronumelor personale."
+      en: "Complete the pronoun pattern.",
+      de: "Vervollständige das Muster der Pronomen.",
+      hu: "Egészítsd ki a névmások mintáját.",
+      ro: "Completează modelul pronumelor."
     },
     pattern: [
-      { en: "ich", de: "ich", hu: "ich", ro: "ich" },
-      { en: "du", de: "du", hu: "du", ro: "du" },
-      { en: "er/sie/es", de: "er/sie/es", hu: "er/sie/es", ro: "er/sie/es" },
+      { en: "I", de: "I", hu: "I", ro: "I" },
+      { en: "you", de: "you", hu: "you", ro: "you" },
+      { en: "he/she/it", de: "he/she/it", hu: "he/she/it", ro: "he/she/it" },
       { en: "?", de: "?", hu: "?", ro: "?" }
     ],
     options: [
-      { id: "o1", text: { en: "wir", de: "wir", hu: "wir", ro: "wir" }, isCorrect: true },
-      { id: "o2", text: { en: "mich", de: "mich", hu: "mich", ro: "mich" }, isCorrect: false },
-      { id: "o3", text: { en: "euch", de: "euch", hu: "euch", ro: "euch" }, isCorrect: false },
-      { id: "o4", text: { en: "ihn", de: "ihn", hu: "ihn", ro: "ihn" }, isCorrect: false }
+      { id: "o1", text: { en: "we", de: "we", hu: "we", ro: "we" }, isCorrect: true },
+      { id: "o2", text: { en: "me", de: "me", hu: "me", ro: "me" }, isCorrect: false },
+      { id: "o3", text: { en: "your", de: "your", hu: "your", ro: "your" }, isCorrect: false },
+      { id: "o4", text: { en: "us", de: "us", hu: "us", ro: "us" }, isCorrect: false }
     ]
   }
 ];
-
