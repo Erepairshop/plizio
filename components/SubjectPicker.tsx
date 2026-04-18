@@ -185,8 +185,9 @@ export default function SubjectPicker() {
     if (mode === "astro") {
       router.push(`${subject.astroRoute}/${grade}`);
     } else {
-      // Test routes don't have grade path — use query string
-      router.push(`${subject.testRoute}?grade=${grade}`);
+      // Test routes don't have grade sub-folder yet — navigate to base
+      // Page can read lastGrade from localStorage (plizio:subject-picker:grade)
+      router.push(subject.testRoute);
     }
   };
 
