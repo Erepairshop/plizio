@@ -4,10 +4,10 @@ export const rounds: CountCatchRound[] = [
   {
     id: "hu-cc-1",
     taskDescription: {
-      en: "How many words are in: Ich lese ein Buch.",
-      de: "Wie viele Worter sind in: Ich lese ein Buch.",
-      hu: "Hany szo van ebben: Ich lese ein Buch.",
-      ro: "Cate cuvinte sunt in: Ich lese ein Buch."
+      en: "How many words are in: Én olvasok egy könyvet.",
+      de: "Wie viele Wörter sind in: Én olvasok egy könyvet.",
+      hu: "Hány szó van ebben: Én olvasok egy könyvet.",
+      ro: "Câte cuvinte sunt în: Én olvasok egy könyvet."
     },
     itemsToCount: [
       { id: "i1", emoji: "🟦", x: 18, y: 35 },
@@ -25,10 +25,10 @@ export const rounds: CountCatchRound[] = [
   {
     id: "hu-cc-2",
     taskDescription: {
-      en: "Count words: Die rote Katze schlaft jetzt.",
-      de: "Zahle Worter: Die rote Katze schlaft jetzt.",
-      hu: "Szamold meg a szavakat: Die rote Katze schlaft jetzt.",
-      ro: "Numara cuvintele: Die rote Katze schlaft jetzt."
+      en: "Count words: A piros macska most alszik.",
+      de: "Zähle Wörter: A piros macska most alszik.",
+      hu: "Számold meg a szavakat: A piros macska most alszik.",
+      ro: "Numără cuvintele: A piros macska most alszik."
     },
     itemsToCount: [
       { id: "i1", emoji: "🟩", x: 14, y: 30 },
@@ -47,22 +47,23 @@ export const rounds: CountCatchRound[] = [
   {
     id: "hu-cc-3",
     taskDescription: {
-      en: "Count words: Wir spielen heute im Park.",
-      de: "Zahle Worter: Wir spielen heute im Park.",
-      hu: "Szamold meg a szavakat: Wir spielen heute im Park.",
-      ro: "Numara cuvintele: Wir spielen heute im Park."
+      en: "Count words: Mi ma a nagy parkban játszunk.",
+      de: "Zähle Wörter: Mi ma a nagy parkban játszunk.",
+      hu: "Számold meg a szavakat: Mi ma a nagy parkban játszunk.",
+      ro: "Numără cuvintele: Mi ma a nagy parkban játszunk."
     },
     itemsToCount: [
       { id: "i1", emoji: "🟨", x: 10, y: 30 },
       { id: "i2", emoji: "🟨", x: 24, y: 52 },
       { id: "i3", emoji: "🟨", x: 38, y: 30 },
       { id: "i4", emoji: "🟨", x: 52, y: 52 },
-      { id: "i5", emoji: "🟨", x: 66, y: 30 }
+      { id: "i5", emoji: "🟨", x: 66, y: 30 },
+      { id: "i6", emoji: "🟨", x: 80, y: 52 }
     ],
     options: [
       { id: "o1", number: 4, isCorrect: false },
-      { id: "o2", number: 5, isCorrect: true },
-      { id: "o3", number: 6, isCorrect: false },
+      { id: "o2", number: 5, isCorrect: false },
+      { id: "o3", number: 6, isCorrect: true },
       { id: "o4", number: 7, isCorrect: false }
     ]
   }

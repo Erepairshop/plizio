@@ -1,18 +1,18 @@
-﻿import { MCQ4ExplanationRound } from "../../../../components/astro-games/views/m3/MCQ4ExplanationView";
+import { MCQ4ExplanationRound } from "../../../../components/astro-games/views/m3/MCQ4ExplanationView";
 
 export const rounds: MCQ4ExplanationRound[] = [
   {
     id: "geo-mcq-1",
-    taskDescription: { en: "Choose the correct answer.", de: "Waehle die richtige Antwort.", hu: "Valaszd ki a helyes valaszt.", ro: "Alege raspunsul corect." },
+    taskDescription: { en: "Choose the correct answer.", de: "Wähle die richtige Antwort.", hu: "Válaszd ki a helyes választ.", ro: "Alege răspunsul corect." },
     question: {
       en: "Which mountain range separates Europe and Asia in many school maps?",
       de: "Welches Gebirge trennt in vielen Schulkarten Europa und Asien?",
-      hu: "Melyik hegylanc valasztja el Europat es Azsiat sok iskolai terkepen?",
-      ro: "Ce lant muntos separa Europa si Asia pe multe harti scolare?"
+      hu: "Melyik hegylánc választja el Európát és Ázsiát sok iskolai térképen?",
+      ro: "Ce lanț muntos separă Europa și Asia pe multe hărți școlare?"
     },
     options: [
       { en: "Andes", de: "Anden", hu: "Andok", ro: "Anzi" },
-      { en: "Ural", de: "Ural", hu: "Ural", ro: "Ural" },
+      { en: "Ural", de: "Ural", hu: "Urál", ro: "Ural" },
       { en: "Alps", de: "Alpen", hu: "Alpok", ro: "Alpi" },
       { en: "Atlas", de: "Atlas", hu: "Atlasz", ro: "Atlas" }
     ],
@@ -20,43 +20,43 @@ export const rounds: MCQ4ExplanationRound[] = [
     explanation: {
       en: "The Ural Mountains are commonly used as part of the Europe-Asia boundary.",
       de: "Das Uralgebirge wird oft als Teil der Grenze zwischen Europa und Asien genutzt.",
-      hu: "Az Ural-hegyseg gyakran szerepel Europa es Azsia hatarakent.",
-      ro: "Muntii Ural sunt folositi frecvent ca parte a granitei Europa-Asia."
+      hu: "Az Urál hegység gyakran szerepel Európa és Ázsia határaként.",
+      ro: "Munții Ural sunt folosiți frecvent ca parte a graniței Europa-Asia."
     }
   },
   {
     id: "geo-mcq-2",
-    taskDescription: { en: "Choose the correct answer.", de: "Waehle die richtige Antwort.", hu: "Valaszd ki a helyes valaszt.", ro: "Alege raspunsul corect." },
-    question: { en: "What does a map scale show?", de: "Was zeigt der Massstab einer Karte?", hu: "Mit mutat a terkep meretaranya?", ro: "Ce arata scara unei harti?" },
+    taskDescription: { en: "Choose the correct answer.", de: "Wähle die richtige Antwort.", hu: "Válaszd ki a helyes választ.", ro: "Alege răspunsul corect." },
+    question: { en: "What does a map scale show?", de: "Was zeigt der Maßstab einer Karte?", hu: "Mit mutat a térkép méretaránya?", ro: "Ce arată scara unei hărți?" },
     options: [
-      { en: "Population growth", de: "Bevoelkerungswachstum", hu: "nepesseg novekedes", ro: "cresterea populatiei" },
-      { en: "Weather forecast", de: "Wettervorhersage", hu: "idojaras elorejelzes", ro: "prognoza meteo" },
-      { en: "Distance relation", de: "Entfernungsverhaeltnis", hu: "tavolsag arany", ro: "raportul distantelor" },
-      { en: "River speed", de: "Flussgeschwindigkeit", hu: "folyo sebesseg", ro: "viteza raului" }
+      { en: "Population growth", de: "Bevölkerungswachstum", hu: "népességnövekedés", ro: "creșterea populației" },
+      { en: "Weather forecast", de: "Wettervorhersage", hu: "időjárás-előrejelzés", ro: "prognoza meteo" },
+      { en: "Distance relation", de: "Entfernungsverhältnis", hu: "távolságarány", ro: "raportul distanțelor" },
+      { en: "River speed", de: "Flussgeschwindigkeit", hu: "folyó sebessége", ro: "viteza râului" }
     ],
     correctIndex: 2,
     explanation: {
       en: "Scale connects map distance and real-world distance.",
-      de: "Der Massstab verbindet Kartenentfernung und reale Entfernung.",
-      hu: "A meretarany a terkepi es a valos tavolsag kozotti kapcsolat.",
-      ro: "Scara leaga distanta de pe harta de distanta reala."
+      de: "Der Maßstab verbindet Kartenentfernung und reale Entfernung.",
+      hu: "A méretarány a térképi és a valós távolság közötti kapcsolat.",
+      ro: "Scara leagă distanța de pe hartă de distanța reală."
     }
   },
   {
     id: "geo-mcq-3",
-    taskDescription: { en: "Choose the correct answer.", de: "Waehle die richtige Antwort.", hu: "Valaszd ki a helyes valaszt.", ro: "Alege raspunsul corect." },
-    question: { en: "Which climate is typical near the Equator?", de: "Welches Klima ist typisch in Aequatornaehe?", hu: "Melyik eghajlat jellemzo az Egyenlito kozeleben?", ro: "Ce clima este tipica in apropierea Ecuatorului?" },
+    taskDescription: { en: "Choose the correct answer.", de: "Wähle die richtige Antwort.", hu: "Válaszd ki a helyes választ.", ro: "Alege răspunsul corect." },
+    question: { en: "Which climate is typical near the Equator?", de: "Welches Klima ist typisch in Äquatornähe?", hu: "Melyik éghajlat jellemző az Egyenlítő közelében?", ro: "Ce climă este tipică în apropierea Ecuatorului?" },
     options: [
-      { en: "Polar", de: "Polar", hu: "polaris", ro: "polar" },
-      { en: "Tropical", de: "Tropisch", hu: "tropusi", ro: "tropical" },
+      { en: "Polar", de: "Polar", hu: "poláris", ro: "polar" },
+      { en: "Tropical", de: "Tropisch", hu: "trópusi", ro: "tropical" },
       { en: "Subarctic", de: "Subarktisch", hu: "szubarktikus", ro: "subarctic" },
-      { en: "Mediterranean", de: "Mittelmeer", hu: "mediterran", ro: "mediteranean" }
+      { en: "Mediterranean", de: "Mittelmeer", hu: "mediterrán", ro: "mediteranean" }
     ],
     correctIndex: 1,
     explanation: {
       en: "Equatorial areas are warm all year with frequent rain.",
-      de: "Aequatornahe Gebiete sind ganzjaehrig warm und oft niederschlagsreich.",
-      hu: "Az Egyenlito kornyeken egesz evben meleg van, sok csapadekkal.",
+      de: "Äquatornahe Gebiete sind ganzjährig warm und oft niederschlagsreich.",
+      hu: "Az Egyenlítő környékén egész évben meleg van, sok csapadék.",
       ro: "Zonele ecuatoriale sunt calde tot anul, cu ploi dese."
     }
   }

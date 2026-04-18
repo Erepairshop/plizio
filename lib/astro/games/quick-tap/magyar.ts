@@ -6,18 +6,18 @@ export const rounds: QuickTapRound[] = [
     taskDescription: {
       en: "Tap all nouns.",
       de: "Tippe auf alle Nomen.",
-      hu: "Erintsd meg az osszes fonevet.",
+      hu: "Érintsd meg az összes főnevet.",
       ro: "Atinge toate substantivele."
     },
     items: [
-      { id: "i1", content: { en: "Haus", de: "Haus", hu: "haz", ro: "casa" }, emoji: "🏠", isTarget: true },
-      { id: "i2", content: { en: "laufen", de: "laufen", hu: "futni", ro: "a alerga" }, emoji: "🏃", isTarget: false },
-      { id: "i3", content: { en: "Schule", de: "Schule", hu: "iskola", ro: "scoala" }, emoji: "🏫", isTarget: true },
-      { id: "i4", content: { en: "ist", de: "ist", hu: "van", ro: "este" }, emoji: "🔤", isTarget: false },
-      { id: "i5", content: { en: "Katze", de: "Katze", hu: "macska", ro: "pisica" }, emoji: "🐱", isTarget: true },
-      { id: "i6", content: { en: "spielen", de: "spielen", hu: "jatszani", ro: "a juca" }, emoji: "⚽", isTarget: false },
-      { id: "i7", content: { en: "Buch", de: "Buch", hu: "konyv", ro: "carte" }, emoji: "📘", isTarget: true },
-      { id: "i8", content: { en: "trinken", de: "trinken", hu: "inni", ro: "a bea" }, emoji: "🥤", isTarget: false }
+      { id: "i1", content: { en: "House", de: "Haus", hu: "ház", ro: "casă" }, emoji: "🏠", isTarget: true },
+      { id: "i2", content: { en: "to run", de: "laufen", hu: "fut", ro: "a alerga" }, emoji: "🏃", isTarget: false },
+      { id: "i3", content: { en: "School", de: "Schule", hu: "iskola", ro: "școală" }, emoji: "🏫", isTarget: true },
+      { id: "i4", content: { en: "is", de: "ist", hu: "van", ro: "este" }, emoji: "🔤", isTarget: false },
+      { id: "i5", content: { en: "Cat", de: "Katze", hu: "macska", ro: "pisică" }, emoji: "🐱", isTarget: true },
+      { id: "i6", content: { en: "to play", de: "spielen", hu: "játszik", ro: "a juca" }, emoji: "⚽", isTarget: false },
+      { id: "i7", content: { en: "Book", de: "Buch", hu: "könyv", ro: "carte" }, emoji: "📘", isTarget: true },
+      { id: "i8", content: { en: "to drink", de: "trinken", hu: "iszik", ro: "a bea" }, emoji: "🥤", isTarget: false }
     ]
   },
   {
@@ -25,37 +25,37 @@ export const rounds: QuickTapRound[] = [
     taskDescription: {
       en: "Tap all verbs.",
       de: "Tippe auf alle Verben.",
-      hu: "Erintsd meg az osszes iget.",
+      hu: "Érintsd meg az összes igét.",
       ro: "Atinge toate verbele."
     },
     items: [
-      { id: "i1", content: { en: "gehen", de: "gehen", hu: "menni", ro: "a merge" }, emoji: "🚶", isTarget: true },
-      { id: "i2", content: { en: "Freund", de: "Freund", hu: "barat", ro: "prieten" }, emoji: "🧑", isTarget: false },
-      { id: "i3", content: { en: "lernen", de: "lernen", hu: "tanulni", ro: "a invata" }, emoji: "📚", isTarget: true },
-      { id: "i4", content: { en: "Fenster", de: "Fenster", hu: "ablak", ro: "fereastra" }, emoji: "🪟", isTarget: false },
-      { id: "i5", content: { en: "wohnen", de: "wohnen", hu: "lakni", ro: "a locui" }, emoji: "🏡", isTarget: true },
-      { id: "i6", content: { en: "Lampe", de: "Lampe", hu: "lampa", ro: "lampa" }, emoji: "💡", isTarget: false },
-      { id: "i7", content: { en: "schreiben", de: "schreiben", hu: "irni", ro: "a scrie" }, emoji: "✍️", isTarget: true },
-      { id: "i8", content: { en: "Apfel", de: "Apfel", hu: "alma", ro: "mar" }, emoji: "🍎", isTarget: false }
+      { id: "i1", content: { en: "to go", de: "gehen", hu: "megy", ro: "a merge" }, emoji: "🚶", isTarget: true },
+      { id: "i2", content: { en: "Friend", de: "Freund", hu: "barát", ro: "prieten" }, emoji: "🧑", isTarget: false },
+      { id: "i3", content: { en: "to learn", de: "lernen", hu: "tanul", ro: "a învăța" }, emoji: "📚", isTarget: true },
+      { id: "i4", content: { en: "Window", de: "Fenster", hu: "ablak", ro: "fereastră" }, emoji: "🪟", isTarget: false },
+      { id: "i5", content: { en: "to live", de: "wohnen", hu: "lakik", ro: "a locui" }, emoji: "🏡", isTarget: true },
+      { id: "i6", content: { en: "Lamp", de: "Lampe", hu: "lámpa", ro: "lampă" }, emoji: "💡", isTarget: false },
+      { id: "i7", content: { en: "to write", de: "schreiben", hu: "ír", ro: "a scrie" }, emoji: "✍️", isTarget: true },
+      { id: "i8", content: { en: "Apple", de: "Apfel", hu: "alma", ro: "măr" }, emoji: "🍎", isTarget: false }
     ]
   },
   {
     id: "hu-qt-3",
     taskDescription: {
-      en: "Tap all definite articles.",
-      de: "Tippe auf alle bestimmten Artikel.",
-      hu: "Erintsd meg az osszes hatarozott nevelot.",
-      ro: "Atinge toate articolele hotarate."
+      en: "Tap all adjectives.",
+      de: "Tippe auf alle Adjektive.",
+      hu: "Érintsd meg az összes melléknevet.",
+      ro: "Atinge toate adjectivele."
     },
     items: [
-      { id: "i1", content: { en: "der", de: "der", hu: "der", ro: "der" }, emoji: "🟦", isTarget: true },
-      { id: "i2", content: { en: "ein", de: "ein", hu: "ein", ro: "ein" }, emoji: "⬜", isTarget: false },
-      { id: "i3", content: { en: "die", de: "die", hu: "die", ro: "die" }, emoji: "🟥", isTarget: true },
-      { id: "i4", content: { en: "eine", de: "eine", hu: "eine", ro: "eine" }, emoji: "⬜", isTarget: false },
-      { id: "i5", content: { en: "das", de: "das", hu: "das", ro: "das" }, emoji: "🟩", isTarget: true },
-      { id: "i6", content: { en: "kein", de: "kein", hu: "kein", ro: "kein" }, emoji: "🚫", isTarget: false },
-      { id: "i7", content: { en: "den", de: "den", hu: "den", ro: "den" }, emoji: "🟨", isTarget: true },
-      { id: "i8", content: { en: "mein", de: "mein", hu: "mein", ro: "mein" }, emoji: "👤", isTarget: false }
+      { id: "i1", content: { en: "red", de: "rot", hu: "piros", ro: "roșu" }, emoji: "🔴", isTarget: true },
+      { id: "i2", content: { en: "dog", de: "Hund", hu: "kutya", ro: "câine" }, emoji: "🐶", isTarget: false },
+      { id: "i3", content: { en: "big", de: "groß", hu: "nagy", ro: "mare" }, emoji: "🐘", isTarget: true },
+      { id: "i4", content: { en: "tree", de: "Baum", hu: "fa", ro: "copac" }, emoji: "🌳", isTarget: false },
+      { id: "i5", content: { en: "beautiful", de: "schön", hu: "szép", ro: "frumos" }, emoji: "✨", isTarget: true },
+      { id: "i6", content: { en: "to sleep", de: "schlafen", hu: "alszik", ro: "a dormi" }, emoji: "😴", isTarget: false },
+      { id: "i7", content: { en: "fast", de: "schnell", hu: "gyors", ro: "rapid" }, emoji: "⚡", isTarget: true },
+      { id: "i8", content: { en: "boy", de: "Junge", hu: "fiú", ro: "băiat" }, emoji: "👦", isTarget: false }
     ]
   }
 ];

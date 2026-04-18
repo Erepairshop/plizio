@@ -4,10 +4,10 @@ export const rounds: ShapeSpotterRound[] = [
   {
     id: "hu-ss-1",
     taskDescription: {
-      en: "Find all circles (words with article DER).",
-      de: "Finde alle Kreise (Worter mit Artikel DER).",
-      hu: "Keresd meg a koroket (DER nevelos szavak).",
-      ro: "Gaseste cercurile (cuvinte cu articolul DER)."
+      en: "Find all circles (Foods).",
+      de: "Finde alle Kreise (Essen).",
+      hu: "Keresd meg a köröket (Ételek).",
+      ro: "Găsește cercurile (Mâncare)."
     },
     shapes: [
       { id: "s1", type: "circle", colorHex: "#3b82f6", isTarget: true },
@@ -24,10 +24,10 @@ export const rounds: ShapeSpotterRound[] = [
   {
     id: "hu-ss-2",
     taskDescription: {
-      en: "Find all stars (words with article DIE).",
-      de: "Finde alle Sterne (Worter mit Artikel DIE).",
-      hu: "Keresd meg a csillagokat (DIE nevelos szavak).",
-      ro: "Gaseste stelele (cuvinte cu articolul DIE)."
+      en: "Find all stars (Animals).",
+      de: "Finde alle Sterne (Tiere).",
+      hu: "Keresd meg a csillagokat (Állatok).",
+      ro: "Găsește stelele (Animale)."
     },
     shapes: [
       { id: "s1", type: "star", colorHex: "#eab308", isTarget: true },
@@ -45,10 +45,10 @@ export const rounds: ShapeSpotterRound[] = [
   {
     id: "hu-ss-3",
     taskDescription: {
-      en: "Find all triangles (words with article DAS).",
-      de: "Finde alle Dreiecke (Worter mit Artikel DAS).",
-      hu: "Keresd meg a haromszogeket (DAS nevelos szavak).",
-      ro: "Gaseste triunghiurile (cuvinte cu articolul DAS)."
+      en: "Find all triangles (Colors).",
+      de: "Finde alle Dreiecke (Farben).",
+      hu: "Keresd meg a háromszögeket (Színek).",
+      ro: "Găsește triunghiurile (Culori)."
     },
     shapes: [
       { id: "s1", type: "triangle", colorHex: "#22c55e", isTarget: true },

@@ -5,42 +5,42 @@ export const rounds: DragSortRound[] = [
     id: "hu-ds-1",
     requireFullCorrect: true,
     bins: [
-      { id: "b-am", label: { en: "A-M", de: "A-M", hu: "A-M", ro: "A-M" }, icon: "🔤", color: "#4CAF50" },
-      { id: "b-nz", label: { en: "N-Z", de: "N-Z", hu: "N-Z", ro: "N-Z" }, icon: "🔠", color: "#2196F3" }
+      { id: "b-animals", label: { en: "Animals", de: "Tiere", hu: "Állatok", ro: "Animale" }, icon: "🐶", color: "#4CAF50" },
+      { id: "b-fruits", label: { en: "Fruits", de: "Früchte", hu: "Gyümölcsök", ro: "Fructe" }, icon: "🍎", color: "#2196F3" }
     ],
     items: [
-      { id: "i1", label: { en: "Apfel", de: "Apfel", hu: "alma", ro: "mar" }, correctBinId: "b-am" },
-      { id: "i2", label: { en: "Buch", de: "Buch", hu: "konyv", ro: "carte" }, correctBinId: "b-am" },
-      { id: "i3", label: { en: "Tisch", de: "Tisch", hu: "asztal", ro: "masa" }, correctBinId: "b-nz" },
-      { id: "i4", label: { en: "Zug", de: "Zug", hu: "vonat", ro: "tren" }, correctBinId: "b-nz" }
+      { id: "i1", label: { en: "Apple", de: "Apfel", hu: "alma", ro: "măr" }, correctBinId: "b-fruits" },
+      { id: "i2", label: { en: "Strawberry", de: "Erdbeere", hu: "eper", ro: "căpșună" }, correctBinId: "b-fruits" },
+      { id: "i3", label: { en: "Dog", de: "Hund", hu: "kutya", ro: "câine" }, correctBinId: "b-animals" },
+      { id: "i4", label: { en: "Cat", de: "Katze", hu: "macska", ro: "pisică" }, correctBinId: "b-animals" }
     ]
   },
   {
     id: "hu-ds-2",
     requireFullCorrect: true,
     bins: [
-      { id: "b-vowel", label: { en: "Starts with vowel", de: "Beginnt mit Vokal", hu: "Maganhangzoval kezdodik", ro: "Incepe cu vocala" }, icon: "🟢", color: "#16A34A" },
-      { id: "b-cons", label: { en: "Starts with consonant", de: "Beginnt mit Konsonant", hu: "Massalhangzoval kezdodik", ro: "Incepe cu consoana" }, icon: "🔵", color: "#2563EB" }
+      { id: "b-vowel", label: { en: "Starts with vowel", de: "Beginnt mit Vokal", hu: "Magánhangzóval kezdődik", ro: "Începe cu vocală" }, icon: "🟢", color: "#16A34A" },
+      { id: "b-cons", label: { en: "Starts with consonant", de: "Beginnt mit Konsonant", hu: "Mássalhangzóval kezdődik", ro: "Începe cu consoană" }, icon: "🔵", color: "#2563EB" }
     ],
     items: [
-      { id: "i1", label: { en: "Apfel", de: "Apfel", hu: "alma", ro: "mar" }, correctBinId: "b-vowel" },
-      { id: "i2", label: { en: "Orange", de: "Orange", hu: "narancs", ro: "portocala" }, correctBinId: "b-vowel" },
-      { id: "i3", label: { en: "Katze", de: "Katze", hu: "macska", ro: "pisica" }, correctBinId: "b-cons" },
-      { id: "i4", label: { en: "Brot", de: "Brot", hu: "kenyer", ro: "paine" }, correctBinId: "b-cons" }
+      { id: "i1", label: { en: "Apple", de: "Apfel", hu: "alma", ro: "măr" }, correctBinId: "b-vowel" },
+      { id: "i2", label: { en: "Mouse", de: "Maus", hu: "egér", ro: "șoarece" }, correctBinId: "b-vowel" },
+      { id: "i3", label: { en: "Dog", de: "Hund", hu: "kutya", ro: "câine" }, correctBinId: "b-cons" },
+      { id: "i4", label: { en: "Bird", de: "Vogel", hu: "madár", ro: "pasăre" }, correctBinId: "b-cons" }
     ]
   },
   {
     id: "hu-ds-3",
     requireFullCorrect: true,
     bins: [
-      { id: "b-start", label: { en: "Sentence start", de: "Satzanfang", hu: "Mondat eleje", ro: "Inceput propozitie" }, icon: "1️⃣", color: "#F59E0B" },
-      { id: "b-end", label: { en: "Sentence end", de: "Satzende", hu: "Mondat vege", ro: "Sfarsit propozitie" }, icon: "2️⃣", color: "#8B5CF6" }
+      { id: "b-food", label: { en: "Food", de: "Essen", hu: "Étel", ro: "Mâncare" }, icon: "🍔", color: "#F59E0B" },
+      { id: "b-drink", label: { en: "Drink", de: "Getränk", hu: "Ital", ro: "Băutură" }, icon: "🥤", color: "#8B5CF6" }
     ],
     items: [
-      { id: "i1", label: { en: "Ich", de: "Ich", hu: "en", ro: "eu" }, correctBinId: "b-start" },
-      { id: "i2", label: { en: "Die Katze", de: "Die Katze", hu: "a macska", ro: "pisica" }, correctBinId: "b-start" },
-      { id: "i3", label: { en: "lerne.", de: "lerne.", hu: "tanulok.", ro: "invat." }, correctBinId: "b-end" },
-      { id: "i4", label: { en: "schlaft.", de: "schlaft.", hu: "alszik.", ro: "doarme." }, correctBinId: "b-end" }
+      { id: "i1", label: { en: "Bread", de: "Brot", hu: "kenyér", ro: "pâine" }, correctBinId: "b-food" },
+      { id: "i2", label: { en: "Cheese", de: "Käse", hu: "sajt", ro: "brânză" }, correctBinId: "b-food" },
+      { id: "i3", label: { en: "Water", de: "Wasser", hu: "víz", ro: "apă" }, correctBinId: "b-drink" },
+      { id: "i4", label: { en: "Milk", de: "Milch", hu: "tej", ro: "lapte" }, correctBinId: "b-drink" }
     ]
   }
 ];
