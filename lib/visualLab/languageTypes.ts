@@ -1,9 +1,16 @@
 export type Language = "de" | "hu" | "ro" | "en";
 
+export type LocalizedText = {
+  de: string;
+  en: string;
+  hu: string;
+  ro: string;
+};
+
 export interface WortWaechterRound {
   id: string;
-  title: string;
-  instruction: string;
+  title: LocalizedText;
+  instruction: LocalizedText;
   targetWord: string;
   wrongWords: string[];
   theme: { bg: string; accent: string };
@@ -11,34 +18,34 @@ export interface WortWaechterRound {
 
 export interface ArtikelAsteroidsRound {
   id: string;
-  title: string;
-  instruction: string;
+  title: LocalizedText;
+  instruction: LocalizedText;
   words: { word: string; article: string }[];
-  categories: string[]; // e.g. ["der", "die", "das"]
+  categories: string[];
   theme: { bg: string; accent: string };
 }
 
 export interface SatzbauSniperRound {
   id: string;
-  title: string;
-  instruction: string;
-  words: string[]; // words in scrambled order
+  title: LocalizedText;
+  instruction: LocalizedText;
+  words: string[];
   correctOrder: string[];
   theme: { bg: string; accent: string };
 }
 
 export interface SilbenSlicerRound {
   id: string;
-  title: string;
-  instruction: string;
+  title: LocalizedText;
+  instruction: LocalizedText;
   words: { word: string; syllables: string[] }[];
   theme: { bg: string; accent: string };
 }
 
 export interface VerbenVortexRound {
   id: string;
-  title: string;
-  instruction: string;
+  title: LocalizedText;
+  instruction: LocalizedText;
   pronoun: string;
   correctVerb: string;
   wrongVerbs: string[];
@@ -47,10 +54,10 @@ export interface VerbenVortexRound {
 
 export interface TippSturmRound {
   id: string;
-  title: string;
-  instruction: string;
+  title: LocalizedText;
+  instruction: LocalizedText;
   words: string[];
-  flashDuration: number; // ms to show the word before hiding
+  flashDuration: number;
   theme: { bg: string; accent: string };
 }
 
