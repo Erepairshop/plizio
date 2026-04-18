@@ -1,5 +1,6 @@
 // lib/astroRomana7.ts — AstroRomână C7 island definitions & progress
 import type { IslandDef, Lang, MathQuestion, RomanaProgress } from "./astroRomana";
+export type { IslandDef, Lang, MathQuestion, RomanaProgress, MissionDef, MissionCategory } from "./astroRomana";
 import {
   loadRomanaProgress, saveRomanaProgress, isMissionDone, isIslandDone,
   isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
@@ -38,8 +39,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["adjectiv_c7/adjectiv_clasificare", "adjectiv_c7/adjectiv_grade", "adjectiv_c7/adjectiv_functii"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare adjectiv",   en: "Adjective Explore",  hu: "Melléknév felfedező",  de: "Adjektiv erkunden"   } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",         hu: "Csillag párosítás",  de: "Sterne zuordnen"     } },
-      { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",         en: "Speed Round",        hu: "Gyors kör",            de: "Schnellrunde"        } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",  icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",         hu: "Csillag párosítás",  de: "Sterne zuordnen"     } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider",icon: "⚡", label: { ro: "Rundă rapidă",         en: "Speed Round",        hu: "Gyors kör",            de: "Schnellrunde"        } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -50,8 +51,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["numeral_c7/numeral_cardinal", "numeral_c7/numeral_ordinal", "verb_c7/verb_indicativ"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare numeral",   en: "Numeral Explore",   hu: "Számnév felfedező",   de: "Numeral erkunden"   } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire numerale", en: "Numeral Match",     hu: "Számnév párosítás",   de: "Numeral paaren"     } },
-      { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",       en: "Black Hole",        hu: "Fekete lyuk",         de: "Schwarzes Loch"     } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match",     icon: "⭐", label: { ro: "Potrivire numerale", en: "Numeral Match",     hu: "Számnév párosítás",   de: "Numeral paaren"     } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank",     icon: "🕳️", label: { ro: "Gaură neagră",       en: "Black Hole",        hu: "Fekete lyuk",         de: "Schwarzes Loch"     } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -62,8 +63,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["verb_c7/verb_conjunctiv", "verb_c7/verb_conditional_imperativ", "verb_c7/verb_moduri_nepers_c7", "verb_c7/verb_diateze_c7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare verb",    en: "Verb Explore",     hu: "Ige felfedező",   de: "Verb erkunden"    } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele", en: "Star Match",       hu: "Csillag párosítás", de: "Sterne zuordnen" } },
-      { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",     en: "Speed Round",      hu: "Gyors kör",       de: "Schnellrunde"     } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz",icon: "⭐", label: { ro: "Potrivire stele", en: "Star Match",       hu: "Csillag párosítás", de: "Sterne zuordnen" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation",icon: "⚡", label: { ro: "Rundă rapidă",     en: "Speed Round",      hu: "Gyors kör",       de: "Schnellrunde"     } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -74,8 +75,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["fraza_subord_c7/subord_subiectiva", "fraza_subord_c7/subord_completiva_directa", "fraza_subord_c7/subord_completiva_indirecta"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare fraze subord.",  en: "Subordinate Explore", hu: "Alárendelés felfedező", de: "Nebensätze erkunden" } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire propoziții",    en: "Clause Match",        hu: "Mondat párosítás",      de: "Satzpaare"           } },
-      { id: "m3", category: "challenge", gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",            en: "Orbit Quiz",          hu: "Bolygó kvíz",           de: "Planeten-Quiz"       } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain",     icon: "⭐", label: { ro: "Potrivire propoziții",    en: "Clause Match",        hu: "Mondat párosítás",      de: "Satzpaare"           } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle",    icon: "🚀", label: { ro: "Quiz orbital",            en: "Orbit Quiz",          hu: "Bolygó kvíz",           de: "Planeten-Quiz"       } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -86,8 +87,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["fraza_subord_c7/subord_loc", "fraza_subord_c7/subord_timp", "fraza_subord_c7/subord_mod"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare circumstanțiale", en: "Adverbial Explore",  hu: "Határozói alárendelés", de: "Adverbialsätze erkunden" } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",         en: "Star Match",         hu: "Csillag párosítás",  de: "Sterne zuordnen"        } },
-      { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",             en: "Speed Round",        hu: "Gyors kör",             de: "Schnellrunde"            } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",  icon: "⭐", label: { ro: "Potrivire stele",         en: "Star Match",         hu: "Csillag párosítás",  de: "Sterne zuordnen"        } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "gap-fill-story", icon: "⚡", label: { ro: "Rundă rapidă",             en: "Speed Round",        hu: "Gyors kör",             de: "Schnellrunde"            } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -98,8 +99,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["vocabular_c7/vocabular_familie_lexicala", "vocabular_c7/vocabular_mijloace"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare vocabular",  en: "Vocab Explore",    hu: "Szókincs felfedező",  de: "Wortschatz erkunden"  } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",       hu: "Csillag párosítás", de: "Sterne zuordnen"     } },
-      { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră",         en: "Black Hole",       hu: "Fekete lyuk",         de: "Schwarzes Loch"       } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "speed-match",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",       hu: "Csillag párosítás", de: "Sterne zuordnen"     } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "timeline-slider",icon: "🕳️", label: { ro: "Gaură neagră",     en: "Black Hole",       hu: "Fekete lyuk",         de: "Schwarzes Loch"       } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -110,8 +111,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["text_c7/text_roman_nuvela", "text_c7/text_dramatic_c7"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare text epic",    en: "Epic Explore",     hu: "Epika felfedező",    de: "Epik erkunden"       } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire genuri",      en: "Genre Match",      hu: "Műfaj párosítás",    de: "Genre-Paare"         } },
-      { id: "m3", category: "challenge", gameType: "orbit-quiz",     icon: "🚀", label: { ro: "Quiz orbital",          en: "Orbit Quiz",       hu: "Bolygó kvíz",        de: "Planeten-Quiz"       } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "true-false-blitz",icon: "⭐", label: { ro: "Potrivire genuri",      en: "Genre Match",      hu: "Műfaj párosítás",    de: "Genre-Paare"         } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "fill-blank",     icon: "🚀", label: { ro: "Quiz orbital",          en: "Orbit Quiz",       hu: "Bolygó kvíz",        de: "Planeten-Quiz"       } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -122,8 +123,8 @@ export const C7_ISLANDS: IslandDef[] = [
     topicKeys: ["text_c7/text_liric_c7", "text_c7/text_roman_nuvela"],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Explorare text liric", en: "Lyric Explore",   hu: "Líra felfedező",   de: "Lyrik erkunden"    } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",      hu: "Csillag párosítás", de: "Sterne zuordnen"  } },
-      { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { ro: "Rundă rapidă",         en: "Speed Round",     hu: "Gyors kör",        de: "Schnellrunde"      } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "word-chain",     icon: "⭐", label: { ro: "Potrivire stele",     en: "Star Match",      hu: "Csillag párosítás", de: "Sterne zuordnen"  } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "mcq4-explanation",icon: "⚡", label: { ro: "Rundă rapidă",         en: "Speed Round",     hu: "Gyors kör",        de: "Schnellrunde"      } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -138,8 +139,8 @@ export const C7_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "romana-explore", icon: "🪐", label: { ro: "Quiz final",     en: "Final Explore",  hu: "Záró felfedező", de: "Finale erkunden" } },
-      { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { ro: "Potrivire stele", en: "Star Match",     hu: "Csillag párosítás", de: "Sterne zuordnen" } },
-      { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { ro: "Gaură neagră", en: "Black Hole",     hu: "Fekete lyuk",    de: "Schwarzes Loch"  } },
+      { id: "m2", category: "build",     gameType: "m2", gameKey: "category-rush",  icon: "⭐", label: { ro: "Potrivire stele", en: "Star Match",     hu: "Csillag párosítás", de: "Sterne zuordnen" } },
+      { id: "m3", category: "challenge", gameType: "m3", gameKey: "sort-puzzle",    icon: "🕳️", label: { ro: "Gaură neagră", en: "Black Hole",     hu: "Fekete lyuk",    de: "Schwarzes Loch"  } },
     ],
     svgX: 190, svgY: -90,
   },
