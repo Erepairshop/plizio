@@ -124,7 +124,9 @@ type Screen =
   | "checkpoint-intro"
   | "checkpoint-quiz"
   | "checkpoint-done"
-  | "rocket-launch";
+  | "rocket-launch"
+  | "m2"
+  | "m3";
 
 type ExplorerProps = {
   island: IslandDef;
@@ -501,7 +503,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
 
   const avatarIsland = config.islands.find((i) => i.id === avatarIslandId) ?? config.islands[0];
   const avatarProps = { gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves, activeHat, activeTrail };
-  const noQuestionsTypes = new Set<RomanaGameScreen>(config.noQuestionsTypes ?? ["romana-explore", "gravity-sort"]);
+  const noQuestionsTypes = new Set<RomanaGameScreen>(config.noQuestionsTypes ?? ["romana-explore", "gravity-sort", "m2", "m3"] as RomanaGameScreen[]);
   const bgColor = activeIsland?.color ?? config.defaultBgColor ?? "#FF2D78";
 
   useEffect(() => {
@@ -530,6 +532,16 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
     setAvatarMood("idle");
     setScreen("island-transition");
   }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = config.islands.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [config.islands, handleIslandSelect]);
 
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
