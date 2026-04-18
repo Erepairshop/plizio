@@ -9,7 +9,7 @@ import {
   RotateCcw, Home, BookOpen, Sparkles, Clock, Download,
 } from "lucide-react";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
@@ -100,6 +100,7 @@ import { DraftProvider } from "@/components/draft";
 
 export default function MathTestPage() {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const [gameState, setGameState] = useState<GameState>("country-select");
   const [country, setCountry] = useState<CountryConfig | null>(null);
   const [selectedGrade, setSelectedGrade] = useState<number | null>(null);
@@ -186,6 +187,19 @@ export default function MathTestPage() {
     const savedCode = langCode;
     setCountry(getCountryByCode(savedCode));
     saveCountry(savedCode);
+
+    // Check for ?grade=N query param — if present, skip grade-select and go to theme-select
+    const gradeParam = searchParams?.get("grade");
+    const parsedGrade = gradeParam ? parseInt(gradeParam, 10) : NaN;
+    if (Number.isFinite(parsedGrade) && parsedGrade >= 1 && parsedGrade <= 8) {
+      setSelectedGrade(parsedGrade);
+      saveMathGrade(parsedGrade);
+      setPreviousGrade(parsedGrade);
+      setTestType("klassenarbeit");
+      setGameState("theme-select");
+      return;
+    }
+
     setGameState("grade-select");
     const prev = getMathGrade();
     if (prev) setPreviousGrade(prev);
