@@ -29,6 +29,9 @@ const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExp
 const K6Explorer = dynamic(() => import("@/app/astrodeutsch/games/k6/K6Explorer"), { ssr: false });
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { DEUTSCH_M2_POOLS, DEUTSCH_M3_POOLS } from "@/lib/astro/deutschGameRegistry";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -91,6 +94,7 @@ type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
   | "word-blitz"
+  | "m2" | "m3"
   | "deutsch-explore"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
@@ -431,7 +435,17 @@ export default function AstroDeutschK6Page() {
     setScreen("island-transition");
   }, []);
 
-  const noQuestionsTypes = new Set(["word-blitz", "deutsch-explore"]);
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K6_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
+  const noQuestionsTypes = new Set(["word-blitz", "deutsch-explore", "m2", "m3"]);
 
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
@@ -712,6 +726,34 @@ export default function AstroDeutschK6Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "m2" && activeMission?.gameKey && DEUTSCH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine
+            gameKey={activeMission.gameKey}
+            rounds={DEUTSCH_M2_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionDone}
+            onCorrect={() => {
+              setAvatarMood("happy");
+              setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
+            }}
+            onWrong={() => setAvatarMood("disappointed")}
+          />
+        )}
+        {screen === "m3" && activeMission?.gameKey && DEUTSCH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine
+            gameKey={activeMission.gameKey}
+            rounds={DEUTSCH_M3_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionDone}
+            onCorrect={() => {
+              setAvatarMood("happy");
+              setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
+            }}
+            onWrong={() => setAvatarMood("disappointed")}
+          />
+        )}
         {screen === "black-hole" && questions.length > 0 && (
           <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone}
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
@@ -735,7 +777,7 @@ export default function AstroDeutschK6Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "word-blitz", "deutsch-explore"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "word-blitz", "deutsch-explore", "m2", "m3"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

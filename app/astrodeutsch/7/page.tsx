@@ -27,6 +27,9 @@ import GravitySort from "@/app/astrodeutsch/games/GravitySort";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { DEUTSCH_M2_POOLS, DEUTSCH_M3_POOLS } from "@/lib/astro/deutschGameRegistry";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 const K7Explorer = dynamic(() => import("@/app/astrodeutsch/games/k7/K7Explorer"), { ssr: false });
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -90,6 +93,7 @@ const K7_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "gravity-sort"
+  | "m2" | "m3"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -430,20 +434,32 @@ export default function AstroDeutschK7Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const ISLANDS_CONST = K7_ISLANDS;
+      const target = ISLANDS_CONST.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
 
-    if (mission.gameType === "deutsch-explore") {
-      setQuestions([]);
-      setScreen("deutsch-explore");
-      return;
+    const noQuestionsTypes = new Set([
+      "deutsch-explore", "m2", "m3"
+    ]);
+
+    if (!noQuestionsTypes.has(mission.gameType)) {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK7(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
     }
 
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK7(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -732,6 +748,12 @@ export default function AstroDeutschK7Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "m2" && activeMission?.gameKey && DEUTSCH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={DEUTSCH_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && DEUTSCH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={DEUTSCH_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "deutsch-explore" && activeIsland && (
           <K7Explorer island={activeIsland} grade={7} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
@@ -739,7 +761,7 @@ export default function AstroDeutschK7Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "gravity-sort", "deutsch-explore"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "gravity-sort", "deutsch-explore", "m2", "m3"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

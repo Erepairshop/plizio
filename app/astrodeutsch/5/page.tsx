@@ -27,6 +27,9 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import SpellRace from "@/app/astrodeutsch/games/SpellRace";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { DEUTSCH_M2_POOLS, DEUTSCH_M3_POOLS } from "@/lib/astro/deutschGameRegistry";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -92,6 +95,7 @@ type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
   | "spell-race"
+  | "m2" | "m3"
   | "deutsch-explore"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
@@ -432,9 +436,21 @@ export default function AstroDeutschK5Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K5_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   const noQuestionsTypes = new Set([
     "spell-race",
     "deutsch-explore",
+    "m2",
+    "m3",
   ]);
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -716,6 +732,34 @@ export default function AstroDeutschK5Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "m2" && activeMission?.gameKey && DEUTSCH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine
+            gameKey={activeMission.gameKey}
+            rounds={DEUTSCH_M2_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionDone}
+            onCorrect={() => {
+              setAvatarMood("happy");
+              setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
+            }}
+            onWrong={() => setAvatarMood("disappointed")}
+          />
+        )}
+        {screen === "m3" && activeMission?.gameKey && DEUTSCH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine
+            gameKey={activeMission.gameKey}
+            rounds={DEUTSCH_M3_POOLS[activeMission.gameKey]}
+            color={bgColor}
+            lang={lang as any}
+            onDone={handleMissionDone}
+            onCorrect={() => {
+              setAvatarMood("happy");
+              setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
+            }}
+            onWrong={() => setAvatarMood("disappointed")}
+          />
+        )}
         {screen === "black-hole" && questions.length > 0 && (
           <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone}
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
@@ -740,7 +784,7 @@ export default function AstroDeutschK5Page() {
   );
 
   if ([
-    "orbit-quiz", "black-hole", "star-match", "speed-round", "spell-race", "deutsch-explore",
+    "orbit-quiz", "black-hole", "star-match", "speed-round", "spell-race", "deutsch-explore", "m2", "m3",
   ].includes(screen)) return (
     <>
       {gameScreen}
