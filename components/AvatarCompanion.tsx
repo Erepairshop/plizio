@@ -519,7 +519,15 @@ function RobotCharacter({
   // Crossfade to a new animation clip
   const fadeToAction = (clipName: string, loop = true) => {
     const actions = actionsRef.current;
-    if (!actions[clipName] || currentActionRef.current === clipName) return;
+    const debug = typeof window !== 'undefined' && (window as any).__AVATAR_DEBUG__;
+    if (!actions[clipName]) {
+      if (debug) console.log('[AvatarDebug] fadeToAction SKIP: no action for', clipName);
+      return;
+    }
+    if (currentActionRef.current === clipName) {
+      if (debug) console.log('[AvatarDebug] fadeToAction SKIP: already playing', clipName);
+      return;
+    }
 
     const prev = actions[currentActionRef.current];
     const next = actions[clipName];
@@ -531,6 +539,10 @@ function RobotCharacter({
     next.play();
 
     if (prev) prev.fadeOut(FADE_DURATION);
+
+    if (debug) {
+      console.log('[AvatarDebug] fadeToAction PLAY:', { from: currentActionRef.current || '<none>', to: clipName, loop, actionDuration: next.getClip().duration, actionEnabled: next.enabled, actionWeight: next.weight, mixerTimeScale: mixerRef.current?.timeScale });
+    }
 
     currentActionRef.current = clipName;
   };
