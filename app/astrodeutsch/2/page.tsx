@@ -27,6 +27,9 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { DEUTSCH_M2_POOLS, DEUTSCH_M3_POOLS } from "@/lib/astro/deutschGameRegistry";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
 const DeutschExplore = dynamic(() => import("@/app/astrodeutsch/games/DeutschExplore"), { ssr: false });
 const K2Explorer = dynamic(() => import("@/app/astrodeutsch/games/k2/K2Explorer"), { ssr: false });
@@ -94,6 +97,7 @@ type Screen =
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
   | "deutsch-explore"
   | "category-rush"
+  | "m2" | "m3"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -433,10 +437,21 @@ export default function AstroDeutschK2Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = K2_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   const noQuestionsTypes = new Set([
     "deutsch-visual",
     "deutsch-explore",
     "category-rush",
+    "m2", "m3",
   ]);
 
   const startMission = useCallback((mission: MissionDef) => {
@@ -740,11 +755,21 @@ export default function AstroDeutschK2Page() {
         {screen === "category-rush" && (
           <CategoryRush color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "m2" && activeMission?.gameKey && DEUTSCH_M2_POOLS[activeMission.gameKey] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={DEUTSCH_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && DEUTSCH_M3_POOLS[activeMission.gameKey] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={DEUTSCH_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "category-rush", "deutsch-explore"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "category-rush", "deutsch-explore", "m2", "m3"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
