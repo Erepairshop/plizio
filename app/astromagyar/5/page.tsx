@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useCallback } from "react";
+import React, { useState, useCallback, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
@@ -23,6 +23,9 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import O5Explorer from "@/app/astromagyar/games/o5/O5Explorer";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -60,6 +63,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -326,11 +331,30 @@ export default function AstroMagyarO5Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const grade = 5;
+      const islands = {
+        5: O5_ISLANDS, 6: O5_ISLANDS, 7: O5_ISLANDS, 8: O5_ISLANDS
+      }[grade] || O5_ISLANDS; 
+      const target = islands.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // Handle mission select
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
     const gameType = mission.gameType;
     setActiveGameType(gameType);
+
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
+      return;
+    }
 
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
@@ -596,6 +620,19 @@ export default function AstroMagyarO5Page() {
             onDone={(s, t) => handleMissionSuccess(s, t)}
             lang={lang}
           />
+        </div>
+      )}
+
+      {screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M2Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionSuccess} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
+        </div>
+      )}
+      {screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M3Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionSuccess} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
         </div>
       )}
 

@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useCallback, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
@@ -24,6 +24,9 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import O8Explorer from "@/app/astromagyar/games/o8/O8Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
@@ -61,6 +64,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -68,6 +73,14 @@ type Screen =
   | "checkpoint-quiz"
   | "checkpoint-done"
   | "rocket-launch";
+
+function ExitButton({ onExit }: { onExit: () => void }) {
+  return (
+    <button onClick={onExit} className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors">
+      <X size={14} />
+    </button>
+  );
+}
 
 // ─── Starfield ─────────────────────────────────────────────────────────────────
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
@@ -176,12 +189,27 @@ export default function AstroMagyar8Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const islands = O8_ISLANDS;
+      const target = islands.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
     const gameType = mission.gameType;
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
+      return;
+    }
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
       return;
     }
     const qCount = gameType === "star-match" ? 20 : 10;
@@ -528,6 +556,24 @@ export default function AstroMagyar8Page() {
         onDone={(s, t) => handleMissionComplete(s, t)}
         lang={lang}
       />
+    );
+  }
+
+  if (screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey]) {
+    return (
+      <div className="relative">
+        <ExitButton onExit={() => setScreen("mission-select")} />
+        <M2Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionComplete} onCorrect={() => {}} onWrong={() => {}} />
+      </div>
+    );
+  }
+
+  if (screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey]) {
+    return (
+      <div className="relative">
+        <ExitButton onExit={() => setScreen("mission-select")} />
+        <M3Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionComplete} onCorrect={() => {}} onWrong={() => {}} />
+      </div>
     );
   }
 

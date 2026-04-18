@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useCallback, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
@@ -25,6 +25,9 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import O6Explorer from "@/app/astromagyar/games/o6/O6Explorer";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import {
@@ -62,6 +65,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -86,6 +91,18 @@ function Starfield() {
           transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }} />
       ))}
     </div>
+  );
+}
+
+// ─── Exit Button ───────────────────────────────────────────────────────────────
+function ExitButton({ onExit }: { onExit: () => void }) {
+  return (
+    <button
+      onClick={onExit}
+      className="absolute top-4 left-4 z-50 w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"
+    >
+      <X size={14} />
+    </button>
   );
 }
 
@@ -269,11 +286,34 @@ export default function O6Page() {
     }
   }, [screen]);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const grade = 6;
+      const islands = {
+        5: O6_ISLANDS, 6: O6_ISLANDS, 7: O6_ISLANDS, 8: O6_ISLANDS
+      }[grade] || O6_ISLANDS; 
+      const target = islands.find(i => i.id === id);
+      if (target) {
+        setActiveIsland(target);
+        setScreen("island-transition");
+      }
+    }
+  }, []);
+
   // Handle mission select
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     const gameType = mission.gameType;
+
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
+      return;
+    }
+
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
@@ -287,11 +327,12 @@ export default function O6Page() {
   }, [activeIsland, lang]);
 
   // Handle mission complete
-  const handleAfterMission = useCallback((finalScore: number) => {
+  const handleAfterMission = useCallback((finalScore: number, finalTotal?: number) => {
     if (!activeIsland || !activeMission) return;
 
-    const stars = finalScore === total ? 3 : finalScore >= total * 0.6 ? 2 : 1;
-    const rarity = calculateRarity(finalScore, total, 0, false);
+    const t = finalTotal ?? total;
+    const stars = finalScore === t ? 3 : finalScore >= t * 0.6 ? 2 : 1;
+    const rarity = calculateRarity(finalScore, t, 0, false);
 
     // Save card
     saveCard({
@@ -299,7 +340,7 @@ export default function O6Page() {
       game: "astromagyar",
       rarity,
       score: finalScore,
-      total,
+      total: t,
       date: new Date().toISOString(),
     });
     window.dispatchEvent(new Event("plizio-cards-changed"));
@@ -317,11 +358,11 @@ export default function O6Page() {
     const islandDone = updated.completedIslands.includes(activeIsland.id);
     if (islandDone) {
       setEarnedCard(rarity);
-      setRewardScore({ score: finalScore, total });
+      setRewardScore({ score: finalScore, total: t });
       setScreen("island-complete-anim");
     } else {
       setEarnedCard(rarity);
-      setRewardScore({ score: finalScore, total });
+      setRewardScore({ score: finalScore, total: t });
       setScreen("reward");
     }
   }, [activeIsland, activeMission, progress, total]);
