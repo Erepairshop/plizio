@@ -159,8 +159,15 @@ function resolveQuiz(p: PoolTopicDef, lang: string): { question: string; choices
         };
       }
     }
-    // fallback if generator key unknown
-    return { question: `? (${q.generate})`, choices: ["?", "?", "?", "?"], answer: "?" };
+    // fallback if generator key unknown — log for dev + show key in UI
+    if (typeof console !== "undefined") {
+      console.warn(`[DynamicExplorer] Missing generator for key: "${q.generate}" — add to deutsch/bio/physik/chemie/geo generators`);
+    }
+    return {
+      question: `⚠️ Missing generator: ${q.generate}`,
+      choices: [`opt-1 (${q.generate})`, `opt-2 (${q.generate})`, `opt-3`, `opt-4`],
+      answer: `opt-1 (${q.generate})`,
+    };
   }
   return q;
 }
