@@ -538,6 +538,17 @@ export default function AstroSachkundeG4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
+    const K4_EXPLORER_MAP: Record<string, string> = {
+      i1: "k4-human-body-explorer", i2: "k4-mammals-birds-explorer", i3: "k4-reptiles-insects-explorer",
+      i4: "k4-ecosystem-explorer", i5: "k4-weather-climate-explorer", i6: "k4-earth-water-explorer",
+      i7: "k4-energy-explorer", i8: "k4-maps-explorer", i9: "k4-grand-finale-explorer",
+    };
+    if (mission.gameType === "sachkunde-k4-explore") {
+      const explorerScreen = K4_EXPLORER_MAP[activeIsland.id] ?? "k4-human-body-explorer";
+      setQuestions([]);
+      setScreen(explorerScreen as Screen);
+      return;
+    }
     const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "m2", "m3"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);

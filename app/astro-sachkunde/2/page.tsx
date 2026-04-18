@@ -538,6 +538,17 @@ export default function AstroSachkundeG2Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
+    const K2_EXPLORER_MAP: Record<string, string> = {
+      i1: "k2-healthy-body-explorer", i2: "k2-habitat-explorer", i3: "k2-wild-animal-explorer",
+      i4: "k2-plant-explorer", i5: "k2-water-explorer", i6: "k2-jobs-explorer",
+      i7: "k2-safety-explorer", i8: "k2-science-explorer", i9: "k2-grand-review-explorer",
+    };
+    if (mission.gameType === "sachkunde-k2-explore") {
+      const explorerScreen = K2_EXPLORER_MAP[activeIsland.id] ?? "k2-healthy-body-explorer";
+      setQuestions([]);
+      setScreen(explorerScreen as Screen);
+      return;
+    }
     const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "m2", "m3", "k2-healthy-body-explorer", "k2-habitat-explorer", "k2-wild-animal-explorer", "k2-plant-explorer", "k2-water-explorer", "k2-jobs-explorer", "k2-safety-explorer", "k2-science-explorer", "k2-grand-review-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);

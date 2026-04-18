@@ -538,6 +538,18 @@ export default function AstroSachkundeG1Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
+    // Explorer gameType → island-specific screen
+    const K1_EXPLORER_MAP: Record<string, string> = {
+      i1: "body-explorer", i2: "animal-explorer", i3: "nature-explorer",
+      i4: "weather-explorer", i5: "family-explorer", i6: "traffic-explorer",
+      i7: "recycling-explorer", i8: "nature-review-explorer", i9: "sachkunde-review-explorer",
+    };
+    if (mission.gameType === "sachkunde-k1-explore") {
+      const explorerScreen = K1_EXPLORER_MAP[activeIsland.id] ?? "body-explorer";
+      setQuestions([]);
+      setScreen(explorerScreen as Screen);
+      return;
+    }
     const noQuestionsTypes: string[] = ["gravity-sort", "true-false-blitz", "m2", "m3"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
