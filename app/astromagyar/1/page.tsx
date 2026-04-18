@@ -27,6 +27,9 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import O1Explorer from "@/app/astromagyar/games/O1Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import {
   O1_ISLANDS, O1_CHECKPOINT_MAP, O1_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO1Progress, saveO1Progress, type MagyarProgress,
@@ -61,6 +64,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -305,6 +310,16 @@ export default function AstroMagyarO1Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = O1_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // Handle mission select
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
@@ -313,6 +328,10 @@ export default function AstroMagyarO1Page() {
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
+      return;
+    }
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
       return;
     }
     // Standard quiz games
@@ -591,6 +610,20 @@ export default function AstroMagyarO1Page() {
           <ExitButton onExit={() => setScreen("mission-select")} />
           <GravitySort sortRange={activeIsland.sortRange} color={color}
             onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M2Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionSuccess as any} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
+        </div>
+      )}
+
+      {screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M3Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionSuccess as any} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
         </div>
       )}
 

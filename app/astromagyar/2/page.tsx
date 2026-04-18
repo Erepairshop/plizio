@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useCallback } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
@@ -25,6 +25,9 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import O2Explorer from "@/app/astromagyar/games/o2/O2Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import { O2_ISLAND_SVGS } from "@/app/astromagyar/islands-o2";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
@@ -59,6 +62,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "fill-gap"
   | "spell-race"
   | "word-sort"
@@ -311,12 +316,26 @@ export default function AstroMagyar2() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = O2_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
     const gameType = mission.gameType;
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
+      return;
+    }
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
       return;
     }
     const qs = generateIslandQuestionsO2(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
@@ -563,6 +582,20 @@ export default function AstroMagyar2() {
         </div>
       )}
 
+      {screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M2Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionComplete as any} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
+        </div>
+      )}
+
+      {screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M3Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionComplete as any} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
+        </div>
+      )}
+
       {screen === "lang-explore" && activeIsland && (
         <div className="relative">
           <ExitButton onExit={() => setScreen("mission-select")} />
@@ -618,12 +651,14 @@ export default function AstroMagyar2() {
       )}
 
       {/* Avatar Companion */}
+      {["orbit-quiz", "black-hole", "gravity-sort", "star-match", "speed-round", "lang-explore", "m2", "m3"].includes(screen) && (
       <div className="fixed bottom-20 right-6 z-10">
         <AvatarCompanion fixed gender={gender} activeSkin={activeSkin} activeFace={activeFace}
           activeTop={activeTop} activeBottom={activeBottom} activeShoe={activeShoe} activeCape={activeCape}
           activeGlasses={activeGlasses} activeGloves={activeGloves} activeHat={activeHat} activeTrail={activeTrail}
           mood={avatarMood} />
       </div>
+      )}
       <VisualLabFab onClick={() => setVisualLabOpen(true)} />
       <VisualLab subject="deutsch" grade={2} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>

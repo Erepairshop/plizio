@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useCallback } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
@@ -23,6 +23,9 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import O4Explorer from "@/app/astromagyar/games/o4/O4Explorer";
 import {
   O4_ISLANDS, O4_CHECKPOINT_MAP, O4_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -57,6 +60,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
@@ -319,6 +324,16 @@ export default function AstroMagyarO4Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = O4_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // Handle mission select
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
@@ -326,6 +341,10 @@ export default function AstroMagyarO4Page() {
     // lang-explore: self-contained
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
+      return;
+    }
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
       return;
     }
     // Standard quiz games
@@ -571,6 +590,20 @@ export default function AstroMagyarO4Page() {
           <ExitButton onExit={() => setScreen("mission-select")} />
           <SpeedRound questions={questions} color={color}
             lang={lang} onDone={(s, t) => handleMissionSuccess(s, t)} />
+        </div>
+      )}
+
+      {screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M2Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionSuccess as any} onCorrect={() => {}} onWrong={() => {}} />
+        </div>
+      )}
+
+      {screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey] && (
+        <div className="relative">
+          <ExitButton onExit={() => setScreen("mission-select")} />
+          <M3Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionSuccess as any} onCorrect={() => {}} onWrong={() => {}} />
         </div>
       )}
 

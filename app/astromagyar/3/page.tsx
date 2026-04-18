@@ -27,6 +27,9 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import O3Explorer from "@/app/astromagyar/games/o3/O3Explorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import {
   O3_ISLANDS, O3_CHECKPOINT_MAP, O3_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO3Progress, saveO3Progress, type MagyarProgress,
@@ -61,6 +64,8 @@ type Screen =
   | "star-match"
   | "speed-round"
   | "lang-explore"
+  | "m2"
+  | "m3"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -291,6 +296,16 @@ export default function AstroMagyarO3Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = O3_ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // Handle mission select
   const handleMissionSelect = useCallback((mission: MissionDef) => {
     setActiveMission(mission);
@@ -299,6 +314,10 @@ export default function AstroMagyarO3Page() {
     // lang-explore doesn't need questions generation, component uses own generator
     if (gameType === "lang-explore") {
       setScreen("lang-explore");
+      return;
+    }
+    if (gameType === "m2" || gameType === "m3") {
+      setScreen(gameType as Screen);
       return;
     }
     const qs = generateIslandQuestionsO3(activeIsland!, lang as Lang, gameType === "star-match" ? 20 : 10);
@@ -629,6 +648,12 @@ export default function AstroMagyarO3Page() {
       {screen === "speed-round" && questions.length > 0 && (
         <SpeedRound questions={questions} color="#4ECDC4"
           onDone={(s, t) => handleMissionComplete(s, t)} />
+      )}
+      {screen === "m2" && activeMission?.gameKey && MAGYAR_M2_POOLS[activeMission.gameKey] && (
+        <M2Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionComplete as any} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
+      )}
+      {screen === "m3" && activeMission?.gameKey && MAGYAR_M3_POOLS[activeMission.gameKey] && (
+        <M3Engine gameKey={activeMission.gameKey} rounds={MAGYAR_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionComplete as any} onCorrect={() => setAvatarMood("happy")} onWrong={() => setAvatarMood("disappointed")} />
       )}
       {screen === "lang-explore" && activeIsland && (
         <O3Explorer
