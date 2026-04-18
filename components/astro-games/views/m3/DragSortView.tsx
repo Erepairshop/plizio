@@ -5,6 +5,7 @@ import { AstroGameProps, LocalizedText } from "../../types";
 
 export type DragSortRound = {
   id: string;
+  taskDescription?: LocalizedText;
   bins: { id: string; label: LocalizedText; icon?: string; color?: string }[];
   items: { id: string; label: LocalizedText; img?: string; correctBinId: string }[];
   requireFullCorrect: true;
@@ -53,11 +54,29 @@ export default function DragSortView({ rounds, color, lang, mode, onDone, onCorr
 
    if (!currentRound || !currentItem) return null;
 
+   const defaultTasks: Record<string, string> = {
+    en: "Drag the items to the correct bin!",
+    hu: "Húzd az elemeket a megfelelő helyre!",
+    de: "Ziehe die Elemente in den richtigen Behälter!",
+    ro: "Trage elementele în coșul corect!"
+   };
+   const taskText = currentRound.taskDescription 
+    ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
+    : (defaultTasks[lang] || defaultTasks.en);
+
    return (
       <div className="flex flex-col items-center justify-center w-full max-w-md mx-auto p-4">
-         <div className="text-white/50 text-sm mb-4">
-            {itemIdx + 1} / {currentRound.items.length} (Round {roundIdx + 1}/{rounds.length})
+         <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10">
+            <div className="text-xl font-black text-white mb-2">🎯 {taskText}</div>
+            <div className="text-white/70 font-bold">
+               {itemIdx + 1} / {currentRound.items.length}
+            </div>
          </div>
+         <div className="w-full flex justify-between font-bold text-white/50 text-sm px-2 mb-4">
+            <span>Score: {score}</span>
+            <span>Round: {roundIdx + 1} / {rounds.length}</span>
+         </div>
+         
          <motion.div 
             key={currentItem.id}
             initial={{ y: -50, opacity: 0 }}
@@ -65,7 +84,7 @@ export default function DragSortView({ rounds, color, lang, mode, onDone, onCorr
             className="p-8 bg-white text-black font-black text-2xl rounded-3xl shadow-xl mb-10 text-center"
          >
             {currentItem.img && <img src={currentItem.img} alt="" className="w-16 h-16 mx-auto mb-2" />}
-            {currentItem.label[lang] || currentItem.label.en}
+            {currentItem.label[lang as keyof LocalizedText] || currentItem.label.en}
          </motion.div>
          <div className="flex flex-wrap justify-center gap-4 w-full">
             {currentRound.bins.map(bin => (
@@ -77,7 +96,7 @@ export default function DragSortView({ rounds, color, lang, mode, onDone, onCorr
                   whileTap={{ scale: 0.95 }}
                >
                   {bin.icon && <div className="text-2xl mb-1">{bin.icon}</div>}
-                  {bin.label[lang] || bin.label.en}
+                  {bin.label[lang as keyof LocalizedText] || bin.label.en}
                </motion.button>
             ))}
          </div>

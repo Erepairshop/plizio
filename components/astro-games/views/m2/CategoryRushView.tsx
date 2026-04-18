@@ -1,42 +1,27 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
 export type CategoryRushRound = {
   id: string;
+  taskDescription?: LocalizedText;
   categories: { id: string; label: LocalizedText; edge: "top"|"bottom"|"left"|"right"; color?: string }[];
   items: { id: string; label: LocalizedText; correctCategoryId: string }[];
-  durationMs: number;
+  durationMs?: number;
 };
 
 export default function CategoryRushView({ rounds, color, lang, mode, onDone, onCorrect, onWrong }: AstroGameProps<CategoryRushRound>) {
    const [roundIdx, setRoundIdx] = useState(0);
    const [score, setScore] = useState(0);
-   const [timeLeft, setTimeLeft] = useState(rounds[0]?.durationMs / 1000 || 30);
    const [itemIdx, setItemIdx] = useState(0);
 
    const currentRound = rounds[roundIdx];
    const currentItem = currentRound?.items[itemIdx];
 
-   useEffect(() => {
-     if (!currentRound) return;
-     const timer = setInterval(() => {
-       setTimeLeft(t => Math.max(0, t - 1));
-     }, 1000);
-     return () => clearInterval(timer);
-   }, [currentRound, roundIdx]);
- 
-   useEffect(() => {
-     if (timeLeft === 0 && currentRound) {
-        handleNextRound();
-     }
-   }, [timeLeft, currentRound]);
-
    const handleNextRound = () => {
       if (roundIdx + 1 < rounds.length) {
          setRoundIdx(roundIdx + 1);
-         setTimeLeft(rounds[roundIdx + 1].durationMs / 1000);
          setItemIdx(0);
       } else {
          onDone(score, rounds.reduce((acc, r) => acc + r.items.length * 6, 0));
@@ -62,23 +47,42 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
 
    if (!currentRound || !currentItem) return null;
 
+   const defaultTasks: Record<string, string> = {
+    en: "Sort the items into the correct categories!",
+    hu: "Válogasd az elemeket a megfelelő kategóriákba!",
+    de: "Ordne die Elemente den richtigen Kategorien zu!",
+    ro: "Sortează elementele în categoriile corecte!"
+   };
+   const taskText = currentRound.taskDescription 
+    ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
+    : (defaultTasks[lang] || defaultTasks.en);
+
    return (
       <div className="flex flex-col items-center justify-center w-full max-w-md mx-auto p-4 min-h-[400px] relative">
-         <div className="absolute top-0 w-full flex justify-between font-bold text-white z-10">
-            <span>Score: {score}</span>
-            <span>Time: {timeLeft}s</span>
+         <div className="absolute top-0 w-full flex flex-col z-10 gap-2">
+            <div className="w-full bg-black/40 p-4 rounded-xl text-center border-2 border-white/10">
+               <div className="text-xl font-black text-white mb-2">🎯 {taskText}</div>
+               <div className="text-white/70 font-bold">
+                  {itemIdx + 1} / {currentRound.items.length}
+               </div>
+            </div>
+            <div className="flex justify-between font-bold text-white/50 text-sm px-2">
+               <span>Score: {score}</span>
+               <span>Round: {roundIdx + 1} / {rounds.length}</span>
+            </div>
          </div>
-         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+         
+         <div className="absolute inset-0 flex items-center justify-center pointer-events-none mt-20">
             <motion.div 
                key={currentItem.id}
                initial={{ scale: 0 }}
                animate={{ scale: 1 }}
                className="p-6 bg-white text-black font-black text-xl rounded-2xl shadow-xl z-20 pointer-events-auto"
             >
-               {currentItem.label[lang] || currentItem.label.en}
+               {currentItem.label[lang as keyof LocalizedText] || currentItem.label.en}
             </motion.div>
          </div>
-         <div className="grid grid-cols-2 gap-4 w-full h-full mt-10 z-10 pointer-events-none">
+         <div className="grid grid-cols-2 gap-4 w-full h-full mt-32 z-10 pointer-events-none">
             {currentRound.categories.map(cat => (
                <motion.button
                   key={cat.id}
@@ -87,7 +91,7 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
                   style={{ borderColor: cat.color || color }}
                   whileTap={{ scale: 0.95 }}
                >
-                  {cat.label[lang] || cat.label.en}
+                  {cat.label[lang as keyof LocalizedText] || cat.label.en}
                </motion.button>
             ))}
          </div>

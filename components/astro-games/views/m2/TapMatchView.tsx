@@ -1,43 +1,28 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
 export type TapMatchRound = {
   id: string;
+  taskDescription?: LocalizedText;
   left: { id: string; label: LocalizedText; emoji?: string; img?: string }[];
   right: { id: string; label: LocalizedText; emoji?: string; img?: string }[];
   correctPairs: { leftId: string; rightId: string }[];
-  timeLimitMs: number;
+  timeLimitMs?: number;
 };
 
 export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorrect, onWrong }: AstroGameProps<TapMatchRound>) {
   const [roundIdx, setRoundIdx] = useState(0);
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(rounds[0]?.timeLimitMs / 1000 || 60);
   const [selectedLeft, setSelectedLeft] = useState<string | null>(null);
   const [matchedPairs, setMatchedPairs] = useState<Set<string>>(new Set());
 
   const currentRound = rounds[roundIdx];
 
-  useEffect(() => {
-    if (!currentRound) return;
-    const timer = setInterval(() => {
-      setTimeLeft(t => Math.max(0, t - 1));
-    }, 1000);
-    return () => clearInterval(timer);
-  }, [currentRound, roundIdx]);
-
-  useEffect(() => {
-    if (timeLeft === 0 && currentRound) {
-       handleNextRound();
-    }
-  }, [timeLeft, currentRound]);
-
   const handleNextRound = () => {
      if (roundIdx + 1 < rounds.length) {
         setRoundIdx(roundIdx + 1);
-        setTimeLeft(rounds[roundIdx + 1].timeLimitMs / 1000);
         setMatchedPairs(new Set());
         setSelectedLeft(null);
      } else {
@@ -65,12 +50,33 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
 
   if (!currentRound) return null;
 
+  const defaultTasks: Record<string, string> = {
+    en: "Find the matching pairs!",
+    hu: "Keresd meg a párokat!",
+    de: "Finde die passenden Paare!",
+    ro: "Găsește perechile potrivite!"
+  };
+  const taskText = currentRound.taskDescription 
+    ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
+    : (defaultTasks[lang] || defaultTasks.en);
+
+  const totalPairs = currentRound.correctPairs.length;
+  const currentPairProgress = matchedPairs.size / 2;
+
   return (
     <div className="flex flex-col items-center w-full max-w-md mx-auto p-4">
-      <div className="w-full flex justify-between mb-4 font-bold text-white">
-         <span>Score: {score}</span>
-         <span>Time: {timeLeft}s</span>
+      <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10">
+        <div className="text-xl font-black text-white mb-2">🎯 {taskText}</div>
+        <div className="text-white/70 font-bold">
+          {currentPairProgress} / {totalPairs}
+        </div>
       </div>
+
+      <div className="w-full flex justify-between mb-4 font-bold text-white/50 text-sm px-2">
+         <span>Score: {score}</span>
+         <span>Round: {roundIdx + 1} / {rounds.length}</span>
+      </div>
+
       <div className="flex w-full gap-4">
          <div className="flex flex-col gap-2 w-1/2">
             {currentRound.left.map(item => {
@@ -89,7 +95,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
                      }}
                      whileTap={{ scale: 0.95 }}
                   >
-                     {item.emoji} {item.label[lang] || item.label.en}
+                     {item.emoji} {item.label[lang as keyof LocalizedText] || item.label.en}
                   </motion.button>
                )
             })}
@@ -110,7 +116,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
                      }}
                      whileTap={{ scale: 0.95 }}
                   >
-                     {item.emoji} {item.label[lang] || item.label.en}
+                     {item.emoji} {item.label[lang as keyof LocalizedText] || item.label.en}
                   </motion.button>
                )
             })}
