@@ -94,7 +94,18 @@ export function buildAstroKemiaIslands(grade: 5 | 6 | 7 | 8, themes: KemiaTheme[
         },
         {
           id: "m2",
-          gameType: "orbit-quiz",
+          gameType: "m2",
+          gameKey: [
+            "category-rush",
+            "speed-match",
+            "true-false-blitz",
+            "word-chain",
+            "category-rush",
+            "speed-match",
+            "true-false-blitz",
+            "word-chain",
+            "category-rush",
+          ][index % 9],
           category: "build",
           icon: "🧪",
           label: {
@@ -106,7 +117,18 @@ export function buildAstroKemiaIslands(grade: 5 | 6 | 7 | 8, themes: KemiaTheme[
         },
         {
           id: "m3",
-          gameType: "black-hole",
+          gameType: "m3",
+          gameKey: [
+            "timeline-slider",
+            "fill-blank",
+            "mcq4-explanation",
+            "sort-puzzle",
+            "gap-fill-story",
+            "timeline-slider",
+            "fill-blank",
+            "mcq4-explanation",
+            "sort-puzzle",
+          ][index % 9],
           category: "challenge",
           icon: "⚡",
           label: {

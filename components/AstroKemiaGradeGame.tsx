@@ -16,11 +16,14 @@ import type { AstroKemiaProgress } from "@/lib/astroKemiaShared";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { KEMIA_M2_POOLS, KEMIA_M3_POOLS } from "@/lib/astro/kemiaGameRegistry";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 
 type Lang = "en" | "hu" | "de" | "ro";
-type Screen = "island-map" | "transition" | "island-intro" | "mission-select" | "explorer" | "practice" | "challenge" | "checkpoint";
+type Screen = "island-map" | "transition" | "island-intro" | "mission-select" | "explorer" | "practice" | "challenge" | "checkpoint" | "m2" | "m3";
 
 // ─── Category card config ─────────────────────────────────────────────────────
 const CATEGORY_CONFIG: Record<string, {
@@ -471,10 +474,24 @@ export default function AstroKemiaGradeGame({
     setScreen("transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = islands.find(i => i.id === id);
+      if (target) openIsland(target);
+    }
+  }, [islands, openIsland]);
+
   const startMission = useCallback(
     (mission: MissionDef) => {
       if (!activeIsland) return;
       setActiveMission(mission);
+      if (mission.gameType === "m2" || mission.gameType === "m3") {
+        setScreen(mission.gameType as Screen);
+        return;
+      }
       if (mission.id === "m1") {
         setScreen("explorer");
         return;
@@ -809,6 +826,34 @@ export default function AstroKemiaGradeGame({
 
   if (screen === "checkpoint") {
     return <OrbitQuiz questions={questions} color={accentColor} onDone={finishCheckpoint} />;
+  }
+
+  if (screen === "m2" && activeMission?.gameKey && KEMIA_M2_POOLS[activeMission.gameKey]) {
+    return (
+      <M2Engine
+        gameKey={activeMission.gameKey}
+        rounds={KEMIA_M2_POOLS[activeMission.gameKey]}
+        color={accentColor}
+        lang={langCode as any}
+        onDone={finishMission}
+        onCorrect={() => {}}
+        onWrong={() => {}}
+      />
+    );
+  }
+
+  if (screen === "m3" && activeMission?.gameKey && KEMIA_M3_POOLS[activeMission.gameKey]) {
+    return (
+      <M3Engine
+        gameKey={activeMission.gameKey}
+        rounds={KEMIA_M3_POOLS[activeMission.gameKey]}
+        color={accentColor}
+        lang={langCode as any}
+        onDone={finishMission}
+        onCorrect={() => {}}
+        onWrong={() => {}}
+      />
+    );
   }
 
   return null;
