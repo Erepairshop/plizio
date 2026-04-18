@@ -1,4 +1,5 @@
-import type { IslandDef, GameType } from "./astromath";
+import type { IslandDef, GameType, MissionDef, Lang, MissionCategory } from "./astromath";
+export type { IslandDef, GameType, MissionDef, Lang, MissionCategory };
 import type { KemiaTheme } from "./kemiaCurriculumShared";
 
 // Re-export all shared utilities from astroKemiaShared so consumers only need one import
@@ -56,10 +57,10 @@ const ISLAND_COLORS = [
 ];
 
 const GRADE_TO_EXPLORER: Record<5 | 6 | 7 | 8, GameType> = {
-  5: "ik5-explorer",
-  6: "ik6-explorer",
-  7: "ik7-explorer",
-  8: "ik8-explorer",
+  5: "info-explore",
+  6: "info-explore",
+  7: "info-explore",
+  8: "info-explore",
 };
 
 const ISLAND_NAME = {
@@ -86,6 +87,17 @@ const ISLAND_NAME = {
 };
 
 const ISLAND_ICONS = ["💻", "🌐", "📁", "📝", "📊", "🛡️", "⚙️", "🤖", "🎯"];
+
+const M2_ROTATION: GameType[] = [
+  "category-rush", "speed-match", "true-false-blitz", "word-chain",
+  "category-rush", "speed-match", "true-false-blitz", "word-chain",
+  "category-rush"
+];
+const M3_ROTATION: GameType[] = [
+  "timeline-slider", "fill-blank", "mcq4-explanation", "sort-puzzle",
+  "gap-fill-story", "timeline-slider", "fill-blank", "mcq4-explanation",
+  "sort-puzzle"
+];
 
 export function buildAstroInformatikaIslands(grade: 5 | 6 | 7 | 8, themes: KemiaTheme[]): IslandDef[] {
   const orderedSubtopics = themes.flatMap((theme) =>
@@ -132,7 +144,8 @@ export function buildAstroInformatikaIslands(grade: 5 | 6 | 7 | 8, themes: Kemia
         },
         {
           id: "m2",
-          gameType: "orbit-quiz",
+          gameType: "m2",
+          gameKey: M2_ROTATION[index],
           category: "build" as const,
           icon: "📝",
           label: {
@@ -144,7 +157,8 @@ export function buildAstroInformatikaIslands(grade: 5 | 6 | 7 | 8, themes: Kemia
         },
         {
           id: "m3",
-          gameType: "black-hole",
+          gameType: "m3",
+          gameKey: M3_ROTATION[index],
           category: "challenge" as const,
           icon: "⚡",
           label: {

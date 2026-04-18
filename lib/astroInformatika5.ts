@@ -1,6 +1,6 @@
-import type { IslandDef } from "./astromath";
 import { INFO_K5_CURRICULUM, getInfoK5Questions } from "./informatikaCurriculum5";
 import { buildAstroInformatikaIslands, buildInformatikaCheckpointMap } from "./astroInformatikaShared";
+export type { IslandDef, MissionDef, Lang, MissionCategory } from "./astroInformatikaShared";
 import {
   type AstroKemiaProgress,
   buildCheckpointTopics,
@@ -12,7 +12,9 @@ import {
   islandTotalStars,
   isCheckpointDone,
   isCheckpointUnlocked,
+  isIslandDone,
   isIslandUnlocked,
+  isMissionDone,
   loadAstroKemiaProgress,
   saveAstroKemiaProgress,
 } from "./astroKemiaShared";
@@ -32,6 +34,14 @@ export function loadInfoK5Progress(): InformatikaProgress {
 
 export function saveInfoK5Progress(progress: InformatikaProgress): void {
   saveAstroKemiaProgress(SAVE_KEY, progress);
+}
+
+export function isMissionDoneInfoK5(progress: InformatikaProgress, islandId: string, missionId: string): boolean {
+  return isMissionDone(progress, islandId, missionId);
+}
+
+export function isIslandDoneInfoK5(progress: InformatikaProgress, islandId: string): boolean {
+  return isIslandDone(progress, islandId);
 }
 
 export function isIslandUnlockedInfoK5(progress: InformatikaProgress, islandId: string): boolean {
