@@ -497,6 +497,11 @@ function RobotCharacter({
     });
     actionsRef.current = actions;
 
+    if (typeof window !== 'undefined' && (window as any).__AVATAR_DEBUG__) {
+      console.log('[AvatarDebug] GLB clips loaded:', Object.keys(actions));
+      (window as any).__AVATAR_CLIPS__ = Object.keys(actions);
+    }
+
     // Start idle animation
     const idleClip = pickFirstExistingClip(actions, ANIM_CANDIDATES.idle);
     if (actions[idleClip]) {
@@ -532,6 +537,9 @@ function RobotCharacter({
 
   const playMoodClip = (animKey: AvatarAnimKey, loop = true) => {
     const clipName = pickFirstExistingClip(actionsRef.current, ANIM_CANDIDATES[animKey]);
+    if (typeof window !== 'undefined' && (window as any).__AVATAR_DEBUG__) {
+      console.log('[AvatarDebug] playMoodClip:', { animKey, picked: clipName || '<none>', candidates: ANIM_CANDIDATES[animKey], hasAction: !!actionsRef.current[clipName] });
+    }
     if (clipName) fadeToAction(clipName, loop);
   };
 

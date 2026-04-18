@@ -20,6 +20,7 @@ export default function AvatarTestPage() {
   const [jump, setJump] = useState<{ reaction: Reaction | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [mode, setMode] = useState<"embedded"|"fixed">("embedded");
 
+  const [clipList, setClipList] = useState<string[] | null>(null);
   const [gender, setGender] = useState<AvatarGender>('boy');
   const [activeSkin, setActiveSkin] = useState<any>(null);
   const [activeFace, setActiveFace] = useState<any>(null);
@@ -33,6 +34,10 @@ export default function AvatarTestPage() {
   const [activeTrail, setActiveTrail] = useState<any>(null);
 
   useEffect(() => {
+    if (typeof window !== "undefined") {
+      (window as any).__AVATAR_DEBUG__ = true;
+      console.log("[AvatarTest] Debug mode ON. Watch console for [AvatarDebug] logs.");
+    }
     setMounted(true);
     setGender(getGender());
     setActiveSkin(getSkinDef(getActiveSkin()));
@@ -48,7 +53,15 @@ export default function AvatarTestPage() {
   }, []);
 
   const triggerReaction = (r: Reaction) => {
-    setJump({ reaction: r, timestamp: Date.now() });
+    const ts = Date.now();
+    setJump({ reaction: r, timestamp: ts });
+    console.log("[AvatarTest] triggerReaction:", r, "timestamp:", ts);
+  };
+
+  const refreshClipList = () => {
+    const clips = typeof window !== "undefined" ? (window as any).__AVATAR_CLIPS__ : null;
+    setClipList(clips || null);
+    console.log("[AvatarTest] Clips in GLB:", clips);
   };
 
   const avatarProps = {
@@ -102,6 +115,22 @@ export default function AvatarTestPage() {
             ))}
           </div>
           {jump.reaction && <p className="text-white/50 text-xs mt-2">Utolsó reakció: <span className="text-green-300">{jump.reaction}</span> ({new Date(jump.timestamp).toLocaleTimeString()})</p>}
+        </div>
+
+        <div className="mb-6 p-3 bg-yellow-500/10 border border-yellow-500/30 rounded-xl">
+          <div className="flex items-center gap-2 mb-2">
+            <p className="text-yellow-300 font-bold text-sm">🐛 Debug</p>
+            <button onClick={refreshClipList} className="px-2 py-1 rounded text-xs bg-yellow-500/30">GLB clip lista frissítés</button>
+          </div>
+          <p className="text-white/60 text-xs mb-1">mood={mood} | jumpTrigger.reaction={jump.reaction ?? "—"} | timestamp={jump.timestamp}</p>
+          {clipList ? (
+            <div className="text-white/50 text-[10px] mt-1 max-h-32 overflow-y-auto">
+              GLB clip-ek ({clipList.length}): {clipList.join(", ")}
+            </div>
+          ) : (
+            <p className="text-white/40 text-[10px]">Kattints "GLB clip lista frissítés" avatar-render után, hogy lásd milyen animációk vannak a .glb-ben.</p>
+          )}
+          <p className="text-white/40 text-[10px] mt-1">Console (F12) is mutat logokat: [AvatarDebug] és [AvatarTest].</p>
         </div>
 
         <div className="mb-6">
