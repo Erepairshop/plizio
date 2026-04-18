@@ -1,64 +1,114 @@
 "use client";
-import React, { useState } from "react";
-import { motion } from "framer-motion";
+import React, { useState, useMemo } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
-export type SpeedMatchRound = { id: string; pairs: { id: string; a: LocalizedText; b: LocalizedText }[]; durationMs: number; shuffleEveryMs?: number; };
+export type SpeedMatchRound = {
+  id: string;
+  pairs: {
+    id: string;
+    a: LocalizedText;
+    b: LocalizedText;
+    isMatch: boolean;
+  }[];
+};
 
-export default function SpeedMatchView({ rounds, color, lang, mode, onDone, onCorrect, onWrong }: AstroGameProps<SpeedMatchRound>) {
-  const [roundIdx, setRoundIdx] = useState(0);
+const TASK_DESC = {
+  en: "Do these two match?",
+  hu: "Egyeznek?",
+  de: "Passen diese beiden zusammen?",
+  ro: "Se potrivesc acestea două?",
+};
+
+const BTN_YES = { en: "Yes", hu: "Igen", de: "Ja", ro: "Da" };
+const BTN_NO = { en: "No", hu: "Nem", de: "Nein", ro: "Nu" };
+
+export default function SpeedMatchView({ rounds, color, lang = "en", mode, onDone, onCorrect, onWrong }: AstroGameProps<SpeedMatchRound>) {
+  const allQuestions = useMemo(() => {
+    return rounds.flatMap(r => r.pairs);
+  }, [rounds]);
+
+  const [globalIdx, setGlobalIdx] = useState(0);
   const [score, setScore] = useState(0);
 
-  const currentRound = rounds[roundIdx];
+  const currentQ = allQuestions[globalIdx];
 
-  const handleNextRound = () => {
-    if (roundIdx + 1 < rounds.length) {
-      setRoundIdx(roundIdx + 1);
+  const handleAnswer = (userSaysMatch: boolean) => {
+    if (!currentQ) return;
+
+    if (userSaysMatch === currentQ.isMatch) {
+      setScore(s => s + 10);
+      onCorrect?.();
     } else {
-      onDone(score + 10, rounds.length * 10);
+      onWrong?.();
+    }
+
+    if (globalIdx + 1 < allQuestions.length) {
+      setGlobalIdx(globalIdx + 1);
+    } else {
+      const maxScore = allQuestions.length * 10;
+      onDone(score + (userSaysMatch === currentQ.isMatch ? 10 : 0), maxScore);
     }
   };
 
-  const handleCorrect = () => {
-    setScore(s => s + 10);
-    onCorrect?.();
-    handleNextRound();
-  };
-
-  const handleWrong = () => {
-    onWrong?.();
-  };
-
-  if (!currentRound) return null;
+  if (!currentQ) return null;
 
   return (
-    <div className="flex flex-col items-center justify-center w-full max-w-md mx-auto p-4">
-      <div className="w-full bg-black/40 p-4 rounded-xl mb-4 text-center border-2 border-white/10">
-        <div className="text-xl font-black text-white mb-2">🎯 SpeedMatchView Task</div>
-        <div className="text-white/70 font-bold">
-          {roundIdx + 1} / {rounds.length}
+    <div className="flex flex-col items-center justify-start w-full max-w-md mx-auto p-4 h-full min-h-[400px]">
+      <div className="w-full bg-black/20 p-4 rounded-xl mb-6 text-center shadow-sm">
+        <h2 className="text-lg font-bold text-white mb-1">
+          {TASK_DESC[lang as keyof typeof TASK_DESC] || TASK_DESC.en}
+        </h2>
+        <div className="text-white/80 font-medium text-sm">
+          {globalIdx + 1} / {allQuestions.length}
         </div>
       </div>
-      <div className="w-full flex justify-between font-bold text-white/50 text-sm px-2 mb-4">
-        <span>Score: {score}</span>
-        <span>Round: {roundIdx + 1} / {rounds.length}</span>
+
+      <div className="flex-1 w-full flex flex-col items-center justify-center relative min-h-[250px] mb-8">
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={currentQ.id}
+            initial={{ opacity: 0, x: 50 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: -50 }}
+            transition={{ duration: 0.3 }}
+            className="w-full flex flex-col items-center gap-6"
+          >
+            <div className="w-full bg-white/10 rounded-2xl p-6 text-center border-2 border-white/20 shadow-lg">
+              <div className="text-2xl font-black text-white">
+                {currentQ.a[lang as keyof typeof currentQ.a] || currentQ.a.en}
+              </div>
+            </div>
+            
+            <div className="text-white/50 font-black text-xl">
+              =
+            </div>
+
+            <div className="w-full bg-white/10 rounded-2xl p-6 text-center border-2 border-white/20 shadow-lg">
+              <div className="text-2xl font-black text-white">
+                {currentQ.b[lang as keyof typeof currentQ.b] || currentQ.b.en}
+              </div>
+            </div>
+          </motion.div>
+        </AnimatePresence>
       </div>
-      <div className="flex flex-col gap-4 w-full">
+
+      <div className="flex w-full gap-4 mt-auto">
         <motion.button
-          onClick={handleCorrect}
-          className="p-4 rounded-xl border-2 font-bold bg-green-500/20 text-white min-h-[44px]"
-          style={{ borderColor: color }}
+          onClick={() => handleAnswer(false)}
+          className="flex-1 p-4 rounded-2xl font-black text-white text-lg bg-red-500 hover:bg-red-600 shadow-md min-h-[60px] flex items-center justify-center"
           whileTap={{ scale: 0.95 }}
+          transition={{ duration: 0.3 }}
         >
-          Simulate Correct
+          {BTN_NO[lang as keyof typeof BTN_NO] || BTN_NO.en}
         </motion.button>
         <motion.button
-          onClick={handleWrong}
-          className="p-4 rounded-xl border-2 font-bold bg-red-500/20 text-white min-h-[44px]"
-          style={{ borderColor: "red" }}
+          onClick={() => handleAnswer(true)}
+          className="flex-1 p-4 rounded-2xl font-black text-white text-lg bg-green-500 hover:bg-green-600 shadow-md min-h-[60px] flex items-center justify-center"
           whileTap={{ scale: 0.95 }}
+          transition={{ duration: 0.3 }}
         >
-          Simulate Wrong
+          {BTN_YES[lang as keyof typeof BTN_YES] || BTN_YES.en}
         </motion.button>
       </div>
     </div>
