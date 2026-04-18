@@ -133,6 +133,273 @@ export const PASSIV6_LABELS: Record<string, Record<string, string>> = {
     t14_q: "Infinitiv Passiv Form?", t14_c1: "zu + Partizip", t14_c2: "werden + Infinitiv",
     t15_title: "Aktiv statt Passiv", t15_text: "Aktiv ist oft klarer.", t15_inst: "Besser?", t15_h1: "Aktiv: Ich erkläre.", t15_h2: "Passiv: Es wird erklärt.", t15_b1: "Aktiv", t15_b2: "Passiv", t15_i1: "Der Lehrer erklärt.", t15_i2: "Der Stoff wird erklärt.",
     t15_q: "Was ist oft klarer?", t15_c1: "Aktiv", t15_c2: "Passiv",
+  },
+  en: {
+    explorer_title: "Active-passive center",
+
+    // T1: Aktiv vs Passiv (Unterschied)
+    t1_title: "Who is the star?",
+    t1_text: "In ACTIVE the subject is the perpetrator (Who does it?). In the PASSIVE, the action is the star (What is happening?).",
+    t1_inst: "Is this sentence active or passive?",
+    t1_h1: "Question: Does the subject itself do something?",
+    t1_h2: "Active: The chef is cooking. Passive: The soup is being cooked.",
+    t1_b1: "Active 🏃", t1_b2: "Passive 📦",
+    t1_i1: "Luke is reading a book.", t1_i2: "The book is read.",
+
+    // T2: Bildung Präsens Passiv
+    t2_title: "Passive blueprint",
+    t2_text: "We build passive voice with 'will' (inflected) and the participle II at the end.",
+    t2_inst: "Which form of 'will' fits here?",
+    t2_h1: "The subject is 'The Letters' (plural).",
+    t2_h2: "Plural needs 'to become'.",
+    t2_sent: "The letters ___ written today.",
+    t2_c1: "become", t2_c2: "will", t2_c3: "will", t2_c4: "will",
+
+    // T3: Von-Ergänzung
+    t3_title: "Who did it?",
+    t3_text: "We can also name the perpetrator in the passive voice - with the preposition 'of' + dative.",
+    t3_inst: "Find the 'from' complement in the sentence!",
+    t3_h1: "Search for 'von' and the dative.",
+    t3_h2: "'from the teacher' is the complement.",
+    t3_w3_1: "The test", t3_w3_2: "will", t3_w3_3: "from the teacher", t3_w3_4: "corrected", t3_w3_5: ".",
+
+    // T4: Präteritum Passiv
+    t4_title: "Passive in the past",
+    t4_text: "For the past tense passive we use 'was' instead of 'will'.",
+    t4_inst: "Choose the correct past-passive form!",
+    t4_h1: "It was yesterday (singular).",
+    t4_h2: "The car 'was' repaired.",
+    t4_sent_p: "Yesterday ___ the gate closed.",
+    t4_cp1: "became", t4_cp2: "will", t4_cp3: "was", t4_cp4: "been",
+
+    // T5: Slingshot: Passiv-Check
+    t5_title: "Passive Slingshot",
+    t5_text: "Only shoot at sentences that are in the PASSIVE voice (will + participle II).",
+    t5_inst: "Hit the passive targets!",
+    t5_h1: "Search for 'will' or 'become'.",
+    t5_h2: "The room is being cleaned. The flowers are watered.",
+    t5_q: "Which sentences are passive?",
+    t5_t1: "The film is watched.", t5_t2: "The apple is eaten.", t5_t3: "I eat an apple.", t5_t4: "She is watching the film.",
+
+    // T6: Umformung (Aktiv -> Passiv)
+    t6_title: "Sentence transformer",
+    t6_text: "The accusative object of the active sentence becomes the subject of the passive sentence.",
+    t6_inst: "Put the passive sentence in the correct order!",
+    t6_h1: "Active: The boy (S) kicks the ball (O).",
+    t6_h2: "Passive: The ball (S) is kicked (P).",
+    t6_o1: "The ball", t6_o2: "will", t6_o3: "kicked.",
+
+    // T7: Magnet: Aktiv/Passiv Paare
+    t7_title: "Couple magnet",
+    t7_text: "Find the right active-passive pair!",
+    t7_inst: "Bring the pairs together!",
+    t7_h1: "He is cooking -> It is being cooked.",
+    t7_ml1: "He is building a house.", t7_mr1: "A house is being built.",
+    t7_ml2: "She paints a picture.", t7_mr2: "A picture is painted.",
+    t7_ml3: "We listen to music.", t7_mr3: "Music is heard.",
+
+    // T8: Partizip II im Passiv
+    t8_title: "The correct participle",
+    t8_text: "In the passive we always need the participle II at the end.",
+    t8_inst: "Which participle fits?",
+    t8_h1: "What is the participle II of 'see'?",
+    t8_h2: "It says 'seen'.",
+    t8_sent_part: "You will be on TV today ___.",
+    t8_cpart1: "seen", t8_cpart2: "seen", t8_cpart3: "seen", t8_cpart4: "see",
+
+    // T9: Stacker: Passiv-Struktur
+    t9_title: "Passive architect",
+    t9_text: "Build the perfect passive structure!",
+    t9_inst: "Stack the building blocks correctly!",
+    t9_h1: "Subject -> become -> participle II.",
+    t9_sw1: "The window", t9_sw2: "will", t9_sw3: "cleaned.",
+    t10_title: "Passive perfect", t10_text: "be + participle II + become.", t10_inst: "Correct?", t10_h1: "has become.", t10_h2: "The car has been repaired.", t10_q: "Perfect passive?", t10_c1: "yes", t10_c2: "no",
+    t11_title: "Passive + modal verb", t11_text: "Modal verb + participle II + will.", t11_inst: "Modal verb?", t11_h1: "must, can, may.", t11_h2: "This has to be done.", t11_q: "Which?", t11_c1: "must", t11_c2: "is",
+    t12_title: "Process vs Condition", t12_text: "will = action, is = state.", t12_inst: "What kind?", t12_h1: "The table is set (action).", t12_h2: "The table is set (state).", t12_b1: "Action", t12_b2: "Condition", t12_i1: "will", t12_i2: "is",
+    t12_q: "What does process passive show?", t12_c1: "Action", t12_c2: "Condition",
+    t13_title: "Agent information", t13_text: "The 'from' indication shows the perpetrator.", t13_inst: "With or without?", t13_h1: "The car is being repaired (without).", t13_h2: "The car is repaired by the mechanic (with).", t13_q: "Better?", t13_c1: "without", t13_c2: "with",
+    t14_title: "Infinitive passive", t14_text: "to + participle II + become.", t14_inst: "Arrange!",  t14_h1: "The house needs to be renovated.", t14_h2: "to + participle.", t14_o1: "This", t14_o2: "house", t14_o3: "is", t14_o4: "to",
+    t14_q: "Infinitive passive form?", t14_c1: "to + participle", t14_c2: "become + infinitive",
+    t15_title: "Active instead of passive", t15_text: "Active is often clearer.", t15_inst: "Better?", t15_h1: "Active: I declare.", t15_h2: "Passive: It is explained.", t15_b1: "Active", t15_b2: "Passive", t15_i1: "The teacher explains.", t15_i2: "The material is explained.",
+    t15_q: "What is often clearer?", t15_c1: "Active", t15_c2: "Passive",
+  },
+  hu: {
+    explorer_title: "Aktív-passzív központ",
+
+    // T1: Aktiv vs Passiv (Unterschied)
+    t1_title: "Ki a sztár?",
+    t1_text: "Az AKTÍV-ban az alany az elkövető (Ki csinálja?). A PASSZÍV-ban az akció a sztár (Mi történik?).",
+    t1_inst: "Ez a mondat aktív vagy passzív?",
+    t1_h1: "Kérdés: Maga az alany csinál valamit?",
+    t1_h2: "Aktív: A séf főz. Passzív: Főzik a leves.",
+    t1_b1: "Aktív 🏃", t1_b2: "Passzív 📦",
+    t1_i1: "Luke egy könyvet olvas.", t1_i2: "A könyv elolvasva.",
+
+    // T2: Bildung Präsens Passiv
+    t2_title: "Passzív tervrajz",
+    t2_text: "A passzív hangot 'akarat' (ragozott) és a végén a II.",
+    t2_inst: "Az „akarat” melyik formája illik ide?",
+    t2_h1: "A tárgy a „The Letters” (többes szám).",
+    t2_h2: "A többes számnak szüksége van arra, hogy „vá váljon”.",
+    t2_sent: "A ___ ma írt levelek.",
+    t2_c1: "válni", t2_c2: "lesz", t2_c3: "lesz", t2_c4: "lesz",
+
+    // T3: Von-Ergänzung
+    t3_title: "Ki csinálta?",
+    t3_text: "Az elkövetőt passzív hangon is megnevezhetjük - 'of' + datívus előszóval.",
+    t3_inst: "Keresse meg a mondatban a \"tól\" kiegészítést!",
+    t3_h1: "Keress rá a „von” szóra és a dativusra.",
+    t3_h2: "A „tanártól” a kiegészítés.",
+    t3_w3_1: "A teszt", t3_w3_2: "lesz", t3_w3_3: "a tanártól", t3_w3_4: "javítva", t3_w3_5: ".",
+
+    // T4: Präteritum Passiv
+    t4_title: "Passzív a múltban",
+    t4_text: "A múlt idejű passzív szóhoz a „volt” szót használjuk a „will” helyett.",
+    t4_inst: "Válassza ki a megfelelő múlt-passzív formát!",
+    t4_h1: "Tegnap volt (egyes számban).",
+    t4_h2: "Az autót \"megjavították\".",
+    t4_sent_p: "Tegnap ___ a kapu bezárult.",
+    t4_cp1: "lett", t4_cp2: "lesz", t4_cp3: "volt", t4_cp4: "volt",
+
+    // T5: Slingshot: Passiv-Check
+    t5_title: "Passzív Slingshot",
+    t5_text: "Csak olyan mondatokra lőj, amelyek PASSZÍV hangon vannak (akarat + II. részes).",
+    t5_inst: "Érje el a passzív célokat!",
+    t5_h1: "Keressen rá a „lesz” vagy a „become” kifejezésre.",
+    t5_h2: "A szoba takarítása folyamatban van. A virágokat öntözzük.",
+    t5_q: "Mely mondatok passzívak?",
+    t5_t1: "A filmet nézik.", t5_t2: "Az almát megeszik.", t5_t3: "eszek egy almát.", t5_t4: "Ő nézi a filmet.",
+
+    // T6: Umformung (Aktiv -> Passiv)
+    t6_title: "Mondattranszformátor",
+    t6_text: "Az aktív mondat akuzatív tárgya a passzív mondat alanyává válik.",
+    t6_inst: "Tedd a passzív mondatot a megfelelő sorrendbe!",
+    t6_h1: "Aktív: A fiú (S) elrúgja a labdát (O).",
+    t6_h2: "Passzív: A labdát (S) elrúgják (P).",
+    t6_o1: "A labdát", t6_o2: "lesz", t6_o3: "rúgott.",
+
+    // T7: Magnet: Aktiv/Passiv Paare
+    t7_title: "Páros mágnes",
+    t7_text: "Találd meg a megfelelő aktív-passzív párt!",
+    t7_inst: "Hozd össze a párokat!",
+    t7_h1: "Ő főz -> Főzik.",
+    t7_ml1: "Házat épít.", t7_mr1: "Ház épül.",
+    t7_ml2: "Képet fest.", t7_mr2: "Képet festenek.",
+    t7_ml3: "Zenét hallgatunk.", t7_mr3: "Zene hallatszik.",
+
+    // T8: Partizip II im Passiv
+    t8_title: "A helyes melléknév",
+    t8_text: "A passzívban mindig szükségünk van a végére a II.",
+    t8_inst: "Melyik igenév illik?",
+    t8_h1: "Mi a 'látni' II.",
+    t8_h2: "Azt írja, hogy „láttam”.",
+    t8_sent_part: "Ma leszel a TV-ben ___.",
+    t8_cpart1: "látott", t8_cpart2: "látott", t8_cpart3: "látott", t8_cpart4: "lásd",
+
+    // T9: Stacker: Passiv-Struktur
+    t9_title: "Passzív építész",
+    t9_text: "Építsd meg a tökéletes passzív szerkezetet!",
+    t9_inst: "Helyezze egymásra az építőkockákat megfelelően!",
+    t9_h1: "Tárgy -> válás -> tagnév II.",
+    t9_sw1: "Az ablak", t9_sw2: "lesz", t9_sw3: "tisztítani.",
+    t10_title: "Passzív tökéletes", t10_text: "lenni + igenév II + válni.", t10_inst: "Helyes?", t10_h1: "lett.", t10_h2: "Az autót megjavították.", t10_q: "Tökéletes passzív?", t10_c1: "igen", t10_c2: "nem",
+    t11_title: "Passzív + modális ige", t11_text: "Modális ige + igenév II + akarat.", t11_inst: "Modális ige?", t11_h1: "kell, lehet, lehet.", t11_h2: "Ezt meg kell tenni.", t11_q: "Melyik?", t11_c1: "kell", t11_c2: "van",
+    t12_title: "Folyamat vs állapot", t12_text: "akarat = cselekvés, van = állapot.", t12_inst: "milyen?", t12_h1: "Az asztal meg van terítve (akció).", t12_h2: "Az asztal meg van terítve (állapot).", t12_b1: "Akció", t12_b2: "Állapot", t12_i1: "lesz", t12_i2: "van",
+    t12_q: "Mit mutat a passzív folyamat?", t12_c1: "Akció", t12_c2: "Állapot",
+    t13_title: "Ügynök információ", t13_text: "A „feladó” jelzés az elkövetőt mutatja.", t13_inst: "Vele vagy anélkül?", t13_h1: "Az autó javítás alatt áll (anélkül).", t13_h2: "Az autót a szerelő javítja (val).", t13_q: "Jobb?", t13_c1: "anélkül", t13_c2: "-val",
+    t14_title: "Infinitivus passzív", t14_text: "hogy + igenév II + váljon.", t14_inst: "Rendezzen!",  t14_h1: "A ház felújításra szorul.", t14_h2: "hogy + igenév.", t14_o1: "Ezt", t14_o2: "házat", t14_o3: "van", t14_o4: "hogy",
+    t14_q: "Infinitív passzív forma?", t14_c1: "hogy + igenév", t14_c2: "infinitivvé válik",
+    t15_title: "Passzív helyett aktív", t15_text: "Az aktív gyakran világosabb.", t15_inst: "Jobb?", t15_h1: "Aktív: kijelentem.", t15_h2: "Passzív: Meg van magyarázva.", t15_b1: "Aktív", t15_b2: "Passzív", t15_i1: "A tanár elmagyarázza.", t15_i2: "Az anyagot elmagyarázzák.",
+    t15_q: "Mi az, ami gyakran világosabb?", t15_c1: "Aktív", t15_c2: "Passzív",
+  },
+  ro: {
+    explorer_title: "Centru activ-pasiv",
+
+    // T1: Aktiv vs Passiv (Unterschied)
+    t1_title: "Cine este vedeta?",
+    t1_text: "În ACTIV subiectul este făptuitorul (Cine o face?). În PASIV, acțiunea este vedeta (Ce se întâmplă?).",
+    t1_inst: "Această propoziție este activă sau pasivă?",
+    t1_h1: "Întrebare: Subiectul în sine face ceva?",
+    t1_h2: "Activ: Bucătarul bucătar gătește. Pasiv: Supa este gătită.",
+    t1_b1: "Activ 🏃", t1_b2: "Pasiv 📦",
+    t1_i1: "Luke citește o carte.", t1_i2: "Cartea este citită.",
+
+    // T2: Bildung Präsens Passiv
+    t2_title: "Plan pasiv",
+    t2_text: "Construim voce pasivă cu „voință” (flexiune) și participiul II la sfârșit.",
+    t2_inst: "Ce formă de „voință” se potrivește aici?",
+    t2_h1: "Subiectul este „Scrisorile” (plural).",
+    t2_h2: "Pluralul trebuie să „devină”.",
+    t2_sent: "Literele ___ scrise astăzi.",
+    t2_c1: "deveni", t2_c2: "va", t2_c3: "va", t2_c4: "va",
+
+    // T3: Von-Ergänzung
+    t3_title: "Cine a făcut-o?",
+    t3_text: "Putem numi făptuitorul și la voce pasivă - cu prepoziția „de” + dativ.",
+    t3_inst: "Găsiți complementul „de la” în propoziție!",
+    t3_h1: "Căutați „von” și dativul.",
+    t3_h2: "„de la profesor” este complementul.",
+    t3_w3_1: "Testul", t3_w3_2: "va", t3_w3_3: "de la profesor", t3_w3_4: "corectat", t3_w3_5: ".",
+
+    // T4: Präteritum Passiv
+    t4_title: "Pasiv în trecut",
+    t4_text: "Pentru pasivul trecut, folosim „era” în loc de „voința”.",
+    t4_inst: "Alegeți forma corectă a trecut-pasiv!",
+    t4_h1: "A fost ieri (singular).",
+    t4_h2: "Mașina „a fost” reparată.",
+    t4_sent_p: "Ieri ___ poarta s-a închis.",
+    t4_cp1: "devenit", t4_cp2: "va", t4_cp3: "a fost", t4_cp4: "fost",
+
+    // T5: Slingshot: Passiv-Check
+    t5_title: "Slingshot pasiv",
+    t5_text: "Trage doar la propozițiile care sunt la voce PASIVĂ (voință + participiu II).",
+    t5_inst: "Loviți țintele pasive!",
+    t5_h1: "Căutați „voință” sau „deveni”.",
+    t5_h2: "Camera este în curs de curățare. Florile sunt udate.",
+    t5_q: "Ce propoziții sunt pasive?",
+    t5_t1: "Filmul este vizionat.", t5_t2: "Mărul se mănâncă.", t5_t3: "Mănânc un măr.", t5_t4: "Ea se uită la film.",
+
+    // T6: Umformung (Aktiv -> Passiv)
+    t6_title: "Transformator de propoziție",
+    t6_text: "Obiectul acuzativ al propoziției active devine subiect al propoziției pasive.",
+    t6_inst: "Pune propoziția pasivă în ordinea corectă!",
+    t6_h1: "Activ: Băiatul (S) lovește mingea (O).",
+    t6_h2: "Pasiv: mingea (S) este lovită (P).",
+    t6_o1: "Mingea", t6_o2: "va", t6_o3: "lovit cu piciorul.",
+
+    // T7: Magnet: Aktiv/Passiv Paare
+    t7_title: "Cuplu magnet",
+    t7_text: "Găsiți perechea activ-pasivă potrivită!",
+    t7_inst: "Aduceți perechile împreună!",
+    t7_h1: "El gătește -> Se gătește.",
+    t7_ml1: "Își construiește o casă.", t7_mr1: "Se construiește o casă.",
+    t7_ml2: "Ea pictează un tablou.", t7_mr2: "O poză este pictată.",
+    t7_ml3: "Ascultăm muzică.", t7_mr3: "Se aude muzica.",
+
+    // T8: Partizip II im Passiv
+    t8_title: "Participiul corect",
+    t8_text: "La pasiv avem întotdeauna nevoie de participiul II la sfârșit.",
+    t8_inst: "Care participiu se potrivește?",
+    t8_h1: "Care este participiul II al lui „vezi”?",
+    t8_h2: "Scrie „văzut”.",
+    t8_sent_part: "Astăzi vei fi la televizor ___.",
+    t8_cpart1: "văzut", t8_cpart2: "văzut", t8_cpart3: "văzut", t8_cpart4: "vezi",
+
+    // T9: Stacker: Passiv-Struktur
+    t9_title: "Arhitect pasiv",
+    t9_text: "Construiește structura pasivă perfectă!",
+    t9_inst: "Stivuiți corect blocurile de construcție!",
+    t9_h1: "Subiect -> deveni -> participiu II.",
+    t9_sw1: "Fereastra", t9_sw2: "va", t9_sw3: "curatat.",
+    t10_title: "Pasiv perfect", t10_text: "fi + participiu II + deveni.", t10_inst: "Corecta?", t10_h1: "a devenit.", t10_h2: "Mașina a fost reparată.", t10_q: "Pasiv perfect?", t10_c1: "da", t10_c2: "nu",
+    t11_title: "Pasiv + verb modal", t11_text: "Verb modal + participiu II + will.", t11_inst: "Verbe modale?", t11_h1: "trebuie, poate, poate.", t11_h2: "Acest lucru trebuie făcut.", t11_q: "Care?", t11_c1: "trebuie", t11_c2: "este",
+    t12_title: "Proces vs Condiție", t12_text: "vointa = actiune, este = stare.", t12_inst: "Ce fel?", t12_h1: "Masa este pusă (acțiune).", t12_h2: "Masa este pusă (stare).", t12_b1: "Acțiune", t12_b2: "Stare", t12_i1: "va", t12_i2: "este",
+    t12_q: "Ce arată pasiv proces?", t12_c1: "Acțiune", t12_c2: "Stare",
+    t13_title: "Informații despre agent", t13_text: "Indicația „de la” arată făptuitorul.", t13_inst: "Cu sau fara?", t13_h1: "Masina este in reparatie (fara).", t13_h2: "Mașina este reparată de mecanic (cu).", t13_q: "Mai bine?", t13_c1: "fara", t13_c2: "cu",
+    t14_title: "Infinitiv pasiv", t14_text: "to + participiu II + deveni.", t14_inst: "Aranja!",  t14_h1: "Casa trebuie renovata.", t14_h2: "to + participiu.", t14_o1: "Aceasta", t14_o2: "casa", t14_o3: "este", t14_o4: "la",
+    t14_q: "Forma pasivă la infinit?", t14_c1: "to + participiu", t14_c2: "devenit + infinitiv",
+    t15_title: "Activ în loc de pasiv", t15_text: "Activ este adesea mai clar.", t15_inst: "Mai bine?", t15_h1: "Activ: declar.", t15_h2: "Pasiv: este explicat.", t15_b1: "Activ", t15_b2: "Pasiv", t15_i1: "Profesorul explică.", t15_i2: "Materialul este explicat.",
+    t15_q: "Ce este adesea mai clar?", t15_c1: "Activ", t15_c2: "Pasiv",
   }
 };
 
@@ -322,6 +589,270 @@ export const KONJ2_LABELS: Record<string, Record<string, string>> = {
     t14_title: "Irreale Gegenwart", t14_text: "würde + Infinitiv = jetzt nicht möglich.", t14_inst: "Richtig?", t14_h1: "Ich würde gern schlafen.", t14_h2: "würde = nicht möglich.", t14_q: "Korrekt?", t14_c1: "ja", t14_c2: "nein",
     t15_title: "Konjunktiv Perfekt", t15_text: "hätte / wäre + Partizip II.", t15_inst: "Ordne!", t15_h1: "Wenn ich das gewusst hätte.", t15_h2: "hätte + Partizip.", t15_o1: "Hätte", t15_o2: "ich", t15_o3: "das", t15_o4: "gewusst",
     t15_q: "Konjunktiv Perfekt mit was?", t15_c1: "hätte/wäre", t15_c2: "wurde",
+  },
+  en: {
+    explorer_title: "Dream center (Subjunctive II)",
+
+    // T1: Bedeutung (Wünsche)
+    t1_title: "Dreams and wishes",
+    t1_text: "We use the subjunctive II for things that are not real but we wish they were.",
+    t1_inst: "What is a wish (Subjunctive II)?",
+    t1_h1: "Search for 'would' or 'would have'.",
+    t1_h2: "I would like to have a vacation.",
+    t1_w1: "I'm here.", t1_w2: "I would like some ice cream.",
+
+    // T2: Bildung mit 'würde'
+    t2_title: "The 'would' form",
+    t2_text: "Most verbs form the subjunctive II with 'would' + infinitive.",
+    t2_inst: "Build the desired sentence!",
+    t2_h1: "would + fly.",
+    t2_h2: "I would like to fly.",
+    t2_f2_1: "I", t2_f2_2: "would", t2_f2_3: "gladly", t2_f2_4: "fly.",
+
+    // T3: hätte und wäre
+    t3_title: "would have and would be",
+    t3_text: "Having and being have their own forms: would have (of having) and would (of being).",
+    t3_inst: "Which word fits?",
+    t3_h1: "If you are (be) a bird.",
+    t3_h2: "If I 'were' a bird...",
+    t3_sent_hw: "When I ___ rich, I bought a castle.",
+    t3_chw1: "would be", t3_chw2: "am", t3_chw3: "would have", t3_chw4: "was",
+
+    // T4: Höflichkeit
+    t4_title: "Please be very polite!",
+    t4_text: "Subjunctive II makes requests much friendlier. 'Give me that!' -> 'Could you give me this?'",
+    t4_inst: "Make the sentence more polite!",
+    t4_h1: "Use 'could'.",
+    t4_h2: "Could you help me?",
+    t4_sent_h: "___ can you please help me?",
+    t4_chh1: "Could", t4_chh2: "Can", t4_chh3: "Will", t4_chh4: "Must",
+
+    // T5: Irreale Bedingungen
+    t5_title: "What if...?",
+    t5_text: "We use 'if' sentences for unreal situations.",
+    t5_inst: "Which subjunctive form is missing here?",
+    t5_h1: "The auxiliary verb 'have' in the subjunctive II.",
+    t5_h2: "If I 'had' time...",
+    t5_sent_wenn: "If I have time ___, I would come over.",
+    t5_cw1: "would have", t5_cw2: "have", t5_cw3: "would have had", t5_cw4: "has",
+
+    // T6: Stacker: Wunsch-Satz
+    t6_title: "Wish stacker",
+    t6_text: "Build a complete dream set!",
+    t6_inst: "Stack the words correctly!",
+    t6_h1: "If I... were... then...",
+    t6_sw6_1: "If I", t6_sw6_2: "a bird", t6_sw6_3: "were.",
+
+    // T7: Slingshot: Konjunktiv jagen
+    t7_title: "Subjunctive hunter",
+    t7_text: "Shoot only for subjunctive II forms (had, would, would, could).",
+    t7_inst: "Meet the dreams!",
+    t7_h1: "Pay attention to umlauts (ä).",
+    t7_h2: "would have, would, should, would.",
+    t7_q: "Where is the subjunctive II?",
+    t7_t1: "would have", t7_t2: "would be", t7_t3: "has", t7_t4: "is",
+
+    // T8: Realität vs. Wunsch
+    t8_title: "Reality or dream?",
+    t8_text: "Distinguish between real facts (indicative) and dreams (subjunctive II).",
+    t8_inst: "Sort the sentences!",
+    t8_h1: "Dreams use 'would' or 'would have'.",
+    t8_h2: "I'm sick (Real). I would like to be healthy (dream).",
+    t8_b8_1: "Reality 🏠", t8_b8_2: "Dream 🌀",
+    t8_i8_1: "I have a car.", t8_i8_2: "I would like a car.",
+
+    // T9: Modalverben im Konjunktiv II
+    t9_title: "Could, should, should",
+    t9_text: "Modal verbs also have subjunctive II forms: could, should, should, might.",
+    t9_inst: "Which modal verb fits here (possibility)?",
+    t9_h1: "It is possible (can).",
+    t9_h2: "We 'could' win.",
+    t9_sent_mod: "We ___ win when we train.",
+    t9_cm1: "could", t9_cm2: "can", t9_cm3: "could", t9_cm4: "have to",
+    t10_title: "Conditionals", t10_text: "if...would...then.", t10_inst: "Complete!",  t10_h1: "would = subjunctive II.", t10_h2: "If I had time, I would travel.", t10_q: "Which form?", t10_c1: "would", t10_c2: "will",
+    t11_title: "Polite request", t11_text: "Subjunctive II = more polite.", t11_inst: "Make it more polite!", t11_h1: "Could you...?", t11_h2: "would / could.", t11_q: "Which?", t11_c1: "could", t11_c2: "can",
+    t12_title: "Oh if...", t12_text: "Wishes with subjunctive II.", t12_inst: "Which is desire?", t12_h1: "Oh, if I could fly!", t12_h2: "Wish = would have, would, would.", t12_b1: "desire", t12_b2: "Reality", t12_i1: "Oh if...", t12_i2: "I am.",
+    t12_q: "What is a subjunctive II wish?", t12_c1: "would have", t12_c2: "has",
+    t13_title: "make suggestion", t13_text: "would = suggestion.", t13_inst: "Which suggestion?", t13_h1: "I would suggest.", t13_h2: "would + infinitive.", t13_q: "Which?", t13_c1: "would", t13_c2: "wants",
+    t14_title: "Unreal present", t14_text: "would + infinitive = not possible now.", t14_inst: "Correct?", t14_h1: "I would like to sleep.", t14_h2: "would = not possible.", t14_q: "Correctly?", t14_c1: "yes", t14_c2: "no",
+    t15_title: "Subjunctive perfect", t15_text: "would have / would + participle II.", t15_inst: "Arrange!", t15_h1: "If I had known that.", t15_h2: "would have + participle.", t15_o1: "would have", t15_o2: "I", t15_o3: "that", t15_o4: "knew",
+    t15_q: "Subjunctive perfect with what?", t15_c1: "would/would have", t15_c2: "became",
+  },
+  hu: {
+    explorer_title: "Álomközpont (II. szubjunktív)",
+
+    // T1: Bedeutung (Wünsche)
+    t1_title: "Álmok és kívánságok",
+    t1_text: "A II szubjunktívet olyan dolgokra használjuk, amelyek nem valódiak, de szeretnénk, ha azok lennének.",
+    t1_inst: "Mi az a kívánság (II. aláíró)?",
+    t1_h1: "Keressen rá a „volna” vagy „volna” kifejezésre.",
+    t1_h2: "Szeretnék nyaralni.",
+    t1_w1: "itt vagyok.", t1_w2: "Kérek egy kis fagyit.",
+
+    // T2: Bildung mit 'würde'
+    t2_title: "A „volna” forma",
+    t2_text: "A legtöbb ige a II. kötőszót a „would” + infinitivussal alkotja.",
+    t2_inst: "Építsd fel a kívánt mondatot!",
+    t2_h1: "repülne +.",
+    t2_h2: "szeretnék repülni.",
+    t2_f2_1: "I", t2_f2_2: "lenne", t2_f2_3: "szívesen", t2_f2_4: "repül.",
+
+    // T3: hätte und wäre
+    t3_title: "volna és lenne",
+    t3_text: "A létezésnek és a létnek megvannak a maga formái: volna (a birtoklásnak) és lenne (a létezésnek).",
+    t3_inst: "Melyik szó illik?",
+    t3_h1: "Ha madár vagy.",
+    t3_h2: "Ha madár lennék...",
+    t3_sent_hw: "Amikor ___ gazdag lettem, vettem egy kastélyt.",
+    t3_chw1: "lenne", t3_chw2: "am", t3_chw3: "volna", t3_chw4: "volt",
+
+    // T4: Höflichkeit
+    t4_title: "Kérlek legyél nagyon udvarias!",
+    t4_text: "A Subjunctive II sokkal barátságosabbá teszi a kéréseket. – Add ide! -> 'Meg tudnád ezt adni?'",
+    t4_inst: "Tedd udvariasabbá a mondatot!",
+    t4_h1: "Használja a „lehet” szót.",
+    t4_h2: "Tudna nekem segíteni?",
+    t4_sent_h: "___ tudnál nekem segíteni?",
+    t4_chh1: "Lehetne", t4_chh2: "Lehet", t4_chh3: "Will", t4_chh4: "Kötelező",
+
+    // T5: Irreale Bedingungen
+    t5_title: "Mi van ha...?",
+    t5_text: "Az „if” mondatokat irreális helyzetekre használjuk.",
+    t5_inst: "Melyik kötőszó hiányzik innen?",
+    t5_h1: "A 'van' segédige a kötőszóban II.",
+    t5_h2: "Ha \"lenne\" időm...",
+    t5_sent_wenn: "Ha lesz időm ___, átjönnék.",
+    t5_cw1: "volna", t5_cw2: "van", t5_cw3: "volna", t5_cw4: "rendelkezik",
+
+    // T6: Stacker: Wunsch-Satz
+    t6_title: "Kívánságfelrakó",
+    t6_text: "Készíts egy teljes álomkészletet!",
+    t6_inst: "Helyezze egymásra a szavakat!",
+    t6_h1: "Ha én... lennék... akkor...",
+    t6_sw6_1: "Ha én", t6_sw6_2: "egy madár", t6_sw6_3: "voltak.",
+
+    // T7: Slingshot: Konjunktiv jagen
+    t7_title: "Szubjektív vadász",
+    t7_text: "Csak a szubjunktív II formákra lőjön (volna, lenne, lenne, lehetne).",
+    t7_inst: "Találkozz az álmokkal!",
+    t7_h1: "Ügyeljen az umlautokra (ä).",
+    t7_h2: "volna, lenne, kellene, lenne.",
+    t7_q: "Hol van a II.",
+    t7_t1: "volna", t7_t2: "lenne", t7_t3: "rendelkezik", t7_t4: "van",
+
+    // T8: Realität vs. Wunsch
+    t8_title: "Valóság vagy álom?",
+    t8_text: "Tegyen különbséget a valós tények (indikatív) és az álmok (II. szubjunktív) között.",
+    t8_inst: "Rendezd a mondatokat!",
+    t8_h1: "Az álmok a „volna” vagy a „volna” kifejezést használják.",
+    t8_h2: "Beteg vagyok (Real). Szeretnék egészséges lenni (álom).",
+    t8_b8_1: "Valóság 🏠", t8_b8_2: "Álom 🌀",
+    t8_i8_1: "van egy autóm.", t8_i8_2: "autót szeretnék.",
+
+    // T9: Modalverben im Konjunktiv II
+    t9_title: "Lehetne, kellene, kéne",
+    t9_text: "A modális igéknek is vannak aláíró II alakjai: could, should, should, might.",
+    t9_inst: "Melyik modális ige illik ide (lehetőség)?",
+    t9_h1: "Lehetséges (lehet).",
+    t9_h2: "Nyerhetnénk.",
+    t9_sent_mod: "___ nyerünk, ha edzünk.",
+    t9_cm1: "lehetne", t9_cm2: "lehet", t9_cm3: "lehetne", t9_cm4: "muszáj",
+    t10_title: "Feltételek", t10_text: "ha...lenne...akkor.", t10_inst: "Teljes!",  t10_h1: "lenne = kötőszó II.", t10_h2: "Ha lenne időm, utaznék.", t10_q: "Melyik forma?", t10_c1: "lenne", t10_c2: "lesz",
+    t11_title: "Udvarias kérés", t11_text: "II. aláíró = udvariasabb.", t11_inst: "Legyen udvariasabb!", t11_h1: "Tudna...?", t11_h2: "lenne/tudna.", t11_q: "Melyik?", t11_c1: "lehetne", t11_c2: "lehet",
+    t12_title: "Ó, ha...", t12_text: "Kívánság a kötőszóval II.", t12_inst: "Melyik a vágy?", t12_h1: "Ó, ha tudnék repülni!", t12_h2: "Wish = volna, lenne, lenne.", t12_b1: "vágy", t12_b2: "Valóság", t12_i1: "Ó, ha...", t12_i2: "én vagyok.",
+    t12_q: "Mi az a szubjunktív II kívánság?", t12_c1: "volna", t12_c2: "rendelkezik",
+    t13_title: "javaslatot tenni", t13_text: "lenne = javaslat.", t13_inst: "Melyik javaslat?", t13_h1: "én azt javasolnám.", t13_h2: "lenne + infinitivus.", t13_q: "Melyik?", t13_c1: "lenne", t13_c2: "akar",
+    t14_title: "Irreális jelen", t14_text: "lenne + infinitív = most nem lehetséges.", t14_inst: "Helyes?", t14_h1: "Szeretnék aludni.", t14_h2: "lenne = nem lehetséges.", t14_q: "Helyesen?", t14_c1: "igen", t14_c2: "nem",
+    t15_title: "Szubjektív tökéletes", t15_text: "volna / lenne + igenév II.", t15_inst: "Rendezzen!", t15_h1: "Ha ezt tudtam volna.", t15_h2: "lenne + melléknév.", t15_o1: "volna", t15_o2: "I", t15_o3: "hogy", t15_o4: "tudta",
+    t15_q: "Tökéletes szubjunktív mivel?", t15_c1: "volna/volna", t15_c2: "lett",
+  },
+  ro: {
+    explorer_title: "Centrul de vis (Conjunctiv II)",
+
+    // T1: Bedeutung (Wünsche)
+    t1_title: "Vise și dorințe",
+    t1_text: "Folosim conjunctivul II pentru lucruri care nu sunt reale, dar ne-am dori să fie.",
+    t1_inst: "Ce este o dorință (Conjunctiv II)?",
+    t1_h1: "Căutați „would” sau „would have”.",
+    t1_h2: "As vrea sa am o vacanta.",
+    t1_w1: "Sunt aici.", t1_w2: "As dori niste inghetata.",
+
+    // T2: Bildung mit 'würde'
+    t2_title: "Forma „ar”.",
+    t2_text: "Majoritatea verbelor formează conjunctivul II cu „ar” + infinitiv.",
+    t2_inst: "Construiește propoziția dorită!",
+    t2_h1: "ar + zbura.",
+    t2_h2: "Mi-ar plăcea să zbor.",
+    t2_f2_1: "eu", t2_f2_2: "ar", t2_f2_3: "cu bucurie", t2_f2_4: "zbura.",
+
+    // T3: hätte und wäre
+    t3_title: "ar fi si ar fi",
+    t3_text: "A avea și a fi au formele lor: ar avea (de a avea) și ar (de a fi).",
+    t3_inst: "Care cuvânt se potrivește?",
+    t3_h1: "Dacă ești (fii) o pasăre.",
+    t3_h2: "Dacă „aș fi” o pasăre...",
+    t3_sent_hw: "Când am ___ bogat, mi-am cumpărat un castel.",
+    t3_chw1: "ar fi", t3_chw2: "am", t3_chw3: "ar fi avut", t3_chw4: "a fost",
+
+    // T4: Höflichkeit
+    t4_title: "Te rog să fii foarte politicos!",
+    t4_text: "Conjunctivul II face cererile mult mai prietenoase. — Dă-mi asta! -> 'Poți să-mi dai asta?'",
+    t4_inst: "Faceți propoziția mai politicoasă!",
+    t4_h1: "Folosiți „ar putea”.",
+    t4_h2: "M-ai putea ajuta?",
+    t4_sent_h: "___ mă poți ajuta te rog?",
+    t4_chh1: "Ar putea", t4_chh2: "Can", t4_chh3: "Will", t4_chh4: "trebuie",
+
+    // T5: Irreale Bedingungen
+    t5_title: "Și dacă...?",
+    t5_text: "Folosim propoziții „dacă” pentru situații ireale.",
+    t5_inst: "Ce formă de conjunctiv lipsește aici?",
+    t5_h1: "Verbul auxiliar „a avea” la conjunctiv II.",
+    t5_h2: "Dacă aș avea timp...",
+    t5_sent_wenn: "Dacă am timp ___, aș veni.",
+    t5_cw1: "ar fi avut", t5_cw2: "au", t5_cw3: "ar fi avut", t5_cw4: "are",
+
+    // T6: Stacker: Wunsch-Satz
+    t6_title: "Stivuitor de dorințe",
+    t6_text: "Construiește un set complet de vis!",
+    t6_inst: "Stivuiți corect cuvintele!",
+    t6_h1: "Dacă eu... aș fi... atunci...",
+    t6_sw6_1: "Daca eu", t6_sw6_2: "o pasăre", t6_sw6_3: "au fost.",
+
+    // T7: Slingshot: Konjunktiv jagen
+    t7_title: "Vânător de conjunctiv",
+    t7_text: "Trage numai pentru formele de conjunctiv II (had, would, would, would).",
+    t7_inst: "Faceți cunoștință cu visele!",
+    t7_h1: "Fiți atenți la umlaut (ä).",
+    t7_h2: "ar fi, ar fi, ar trebui, ar fi.",
+    t7_q: "Unde este conjunctivul II?",
+    t7_t1: "ar fi avut", t7_t2: "ar fi", t7_t3: "are", t7_t4: "este",
+
+    // T8: Realität vs. Wunsch
+    t8_title: "Realitate sau vis?",
+    t8_text: "Distingeți faptele reale (indicativ) și vise (subjunctiv II).",
+    t8_inst: "Sortează propozițiile!",
+    t8_h1: "Visele folosesc „ar” sau „ar fi”.",
+    t8_h2: "Sunt bolnav (Real). Aș vrea să fiu sănătos (vis).",
+    t8_b8_1: "Realitatea 🏠", t8_b8_2: "Vis 🌀",
+    t8_i8_1: "Am o mașină.", t8_i8_2: "Aș dori o mașină.",
+
+    // T9: Modalverben im Konjunktiv II
+    t9_title: "Ar putea, ar trebui, ar trebui",
+    t9_text: "Verbele modale au și forme de conjunctiv II: ar putea, ar trebui, ar trebui, ar putea.",
+    t9_inst: "Care verb modal se potrivește aici (posibilitate)?",
+    t9_h1: "Este posibil (poate).",
+    t9_h2: "„Am putea” să câștigăm.",
+    t9_sent_mod: "Noi ___ câștigăm când ne antrenăm.",
+    t9_cm1: "putea", t9_cm2: "poate", t9_cm3: "putea", t9_cm4: "trebuie",
+    t10_title: "Condiționale", t10_text: "dacă...ar...atunci.", t10_inst: "Complet!",  t10_h1: "ar = conjunctiv II.", t10_h2: "Dacă aș avea timp, aș călători.", t10_q: "Care formă?", t10_c1: "ar", t10_c2: "va",
+    t11_title: "Cerere politicoasă", t11_text: "Conjunctiv II = mai politicos.", t11_inst: "Fă-l mai politicos!", t11_h1: "Ai putea...?", t11_h2: "ar/ar putea.", t11_q: "Care?", t11_c1: "putea", t11_c2: "poate",
+    t12_title: "Oh, dacă...", t12_text: "Urări cu conjunctiv II.", t12_inst: "Care este dorința?", t12_h1: "Oh, dacă aș putea zbura!", t12_h2: "Wish = ar fi, ar fi, ar fi.", t12_b1: "dorinta", t12_b2: "Realitatea", t12_i1: "Oh, dacă...", t12_i2: "Eu sunt.",
+    t12_q: "Ce este o dorință de conjunctiv II?", t12_c1: "ar fi avut", t12_c2: "are",
+    t13_title: "face sugestie", t13_text: "ar = sugestie.", t13_inst: "Care sugestie?", t13_h1: "aș sugera.", t13_h2: "ar + infinitiv.", t13_q: "Care?", t13_c1: "ar", t13_c2: "vrea",
+    t14_title: "Prezent ireal", t14_text: "ar + infinitiv = nu este posibil acum.", t14_inst: "Corecta?", t14_h1: "aș vrea să dorm.", t14_h2: "ar = nu este posibil.", t14_q: "Corect?", t14_c1: "da", t14_c2: "nu",
+    t15_title: "Conjunctiv perfect", t15_text: "ar avea / ar fi + participiu II.", t15_inst: "Aranja!", t15_h1: "Dacă aș fi știut asta.", t15_h2: "ar avea + participiu.", t15_o1: "ar fi avut", t15_o2: "eu", t15_o3: "că", t15_o4: "știa",
+    t15_q: "Conjunctiv perfect cu ce?", t15_c1: "ar fi/ar fi avut", t15_c2: "devenit",
   }
 };
 
@@ -514,6 +1045,273 @@ export const INFINITIV6_LABELS: Record<string, Record<string, string>> = {
     t14_q: "'Das ist zu lesen' bedeutet?", t14_c1: "kann gelesen werden", t14_c2: "wird gelesen",
     t15_title: "Präposition + zu + Infinitiv", t15_text: "'beim Lesen', 'zum Spielen'.", t15_inst: "Richtig?", t15_h1: "beim Lesen, zum Schreiben.", t15_h2: "Präposition + zu + Infinitiv.", t15_b1: "mit zu", t15_b2: "ohne zu", t15_i1: "beim laufen", t15_i2: "laufen",
     t15_q: "Welche Form ist korrekt?", t15_c1: "beim Laufen", t15_c2: "beim laufen",
+  },
+  en: {
+    explorer_title: "Infinitive island (to + ∞)",
+
+    // T1: Basis (Lust haben)
+    t1_title: "Want an infinitive?",
+    t1_text: "We often use the infinitive with 'to' after expressions like 'have fun' or 'it's important'.",
+    t1_inst: "Put the 'to' in the right place!",
+    t1_h1: "The 'zu' is right before the infinitive at the end.",
+    t1_h2: "I feel like 'eating' ice cream.",
+    t1_sent: "I don't feel like ___ ___ today.",
+    t1_c1: "to learn", t1_c2: "learn to", t1_c3: "learn", t1_c4: "too learned",
+
+    // T2: Trennbare Verben (aufzustehen)
+    t2_title: "The Separables (to stand up)",
+    t2_text: "With separable verbs, the 'to' sneaks in between the prefix and the verb.",
+    t2_inst: "Which form is correct?",
+    t2_h1: "Prefix + to + verb.",
+    t2_h2: "to + to + stand = to get up.",
+    t2_w2_1: "to shop", t2_w2_2: "to buy", t2_w2_3: "shopping too", t2_w2_4: "purchased",
+
+    // T3: Um ... zu (Absicht)
+    t3_title: "For what reason? (To...to)",
+    t3_text: "We use 'in order to' when we express an intention or goal.",
+    t3_inst: "Assemble the target sentence!",
+    t3_h1: "I study a lot (main clause) to get good grades.",
+    t3_h2: "at + ... + to + infinitive.",
+    t3_f3_1: "I'm learning", t3_f3_2: "around", t3_f3_3: "good grades", t3_f3_4: "to get.",
+
+    // T4: Ohne ... zu
+    t4_title: "Without... too",
+    t4_text: "When you do something without doing anything else.",
+    t4_inst: "Which word is missing here?",
+    t4_h1: "He walks away 'without' saying goodbye.",
+    t4_h2: "Choose 'without'.",
+    t4_sent_ohne: "He went to say ___ a word ___.",
+    t4_co1: "without/to", t4_co2: "around / to", t4_co3: "instead of / to", t4_co4: "without / -",
+
+    // T5: Anstatt ... zu
+    t5_title: "Instead of...to",
+    t5_text: "When you do one thing instead of doing another (actually planned).",
+    t5_inst: "Use the conjunction correctly!",
+    t5_h1: "Instead of studying, he plays.",
+    t5_h2: "Instead of...to.",
+    t5_sent_statt: "___ to sleep, ___ he far away.",
+    t5_cs1: "Instead of / sees", t5_cs2: "Around / sees", t5_cs3: "Without / sees", t5_cs4: "Because / sees",
+
+    // T6: Slingshot: Infinitiv-Check
+    t6_title: "Infinitive hunter",
+    t6_text: "Only shoot for sentences that contain a correct infinitive with 'to'!",
+    t6_inst: "Make the right sentences!",
+    t6_h1: "Pay attention to the 'to' before the verb at the end.",
+    t6_h2: "... to sing, ... to stop.",
+    t6_q: "Which sentences have an infinitive with zu?",
+    t6_t1: "I hope to see you.", t6_t2: "It's time to go.", t6_t3: "I want to go.", t6_t4: "You have to learn.",
+
+    // T7: Magnet: Phrasen-Match
+    t7_title: "Phrase magnet",
+    t7_text: "Connect the main clause with the appropriate infinitive complement!",
+    t7_inst: "Húzd össze a parokat!",
+    t7_h1: "Feel like doing something.",
+    t7_ml1: "I feel like", t7_mr1: "to play football.",
+    t7_ml2: "It's healthy", t7_mr2: "to eat fruit.",
+    t7_ml3: "Don't forget,", t7_mr3: "to call me.",
+
+    // T8: Stacker: Satzbau
+    t8_title: "Infinitive stacker",
+    t8_text: "Build a sentence with 'to ... to'!",
+    t8_inst: "Stack the words in the correct order!",
+    t8_h1: "I go to the park (HS) to play soccer.",
+    t8_sw8_1: "I'm going,", t8_sw8_2: "about sports", t8_sw8_3: "to drive.",
+
+    // T9: Kein 'zu' bei Modalverben
+    t9_title: "Be careful: the exceptions!",
+    t9_text: "After modal verbs (can, must, want...) the infinitive is written WITHOUT 'to'!",
+    t9_inst: "Can there be a 'to' here?",
+    t9_h1: "Check the verb: 'can' is a modal verb.",
+    t9_h2: "There is NO 'to' after modal verbs.",
+    t9_sent_mod: "I can ___ very quickly.",
+    t9_cm1: "run", t9_cm2: "to run", t9_cm3: "ran", t9_cm4: "ran",
+    t10_title: "go to + infinitive", t10_text: "'going to' = near future.", t10_inst: "Tense?", t10_h1: "go to do.", t10_h2: "That means: soon.", t10_q: "Tense?", t10_c1: "future", t10_c2: "past",
+    t11_title: "have/be too", t11_text: "'to have/to be' = necessity.", t11_inst: "Meaning?", t11_h1: "This is to eat.", t11_h2: "Must / may / can.", t11_q: "What?", t11_c1: "necessary", t11_c2: "impossible",
+    t12_title: "instead of/instead of", t12_text: "'Instead of' = instead of.", t12_inst: "Which?", t12_h1: "Instead of sleeping he played.", t12_h2: "instead of to = not to.", t12_b1: "instead", t12_b2: "normal", t12_i1: "playing instead of learning", t12_i2: "learn",
+    t12_q: "What does 'instead of' mean?", t12_c1: "instead of", t12_c2: "additionally",
+    t13_title: "threaten/care for", t13_text: "'threaten to' = danger; 'maintain to' = usual.", t13_inst: "What sense?", t13_h1: "The house is in danger of collapsing.", t13_h2: "Danger / common.", t13_q: "Which?", t13_c1: "threatens", t13_c2: "maintains",
+    t14_title: "Participle + to", t14_text: "'That can be seen' = can be seen.", t14_inst: "Arrange!", t14_h1: "The book is to be read.", t14_h2: "be + participle + to.", t14_o1: "This", t14_o2: "is", t14_o3: "to", t14_o4: "read",
+    t14_q: "'This is to be read' means?", t14_c1: "can be read", t14_c2: "is read",
+    t15_title: "Preposition + to + infinitive", t15_text: "'while reading', 'playing'.", t15_inst: "Correct?", t15_h1: "when reading, for writing.", t15_h2: "Preposition + to + infinitive.", t15_b1: "with to", t15_b2: "without too", t15_i1: "while running", t15_i2: "run",
+    t15_q: "Which form is correct?", t15_c1: "while running", t15_c2: "while running",
+  },
+  hu: {
+    explorer_title: "Infinitív sziget (+ ∞-ig)",
+
+    // T1: Basis (Lust haben)
+    t1_title: "Infinitivusra vágysz?",
+    t1_text: "Gyakran használjuk a főnévi igenévet a „to”-val az olyan kifejezések után, mint a „jó szórakozást” vagy „ez fontos”.",
+    t1_inst: "Tedd a 'to'-t a megfelelő helyre!",
+    t1_h1: "A „zu” közvetlenül az infinitivus előtt van a végén.",
+    t1_h2: "Van kedvem fagylaltot enni.",
+    t1_sent: "Ma nincs kedvem ___ ___.",
+    t1_c1: "tanulni", t1_c2: "tanulni", t1_c3: "tanulni", t1_c4: "túl tanult",
+
+    // T2: Trennbare Verben (aufzustehen)
+    t2_title: "Az elválaszthatóak (felállni)",
+    t2_text: "Az elválasztható igéknél a „to” besurran az előtag és az ige közé.",
+    t2_inst: "Melyik forma a helyes?",
+    t2_h1: "Előtag + + ige.",
+    t2_h2: "+ to + állni = felkelni.",
+    t2_w2_1: "vásárolni", t2_w2_2: "vásárolni", t2_w2_3: "vásárolni is", t2_w2_4: "vásárolt",
+
+    // T3: Um ... zu (Absicht)
+    t3_title: "Milyen okból? (To...hoz)",
+    t3_text: "Amikor szándékot vagy célt fejezünk ki, akkor használjuk a „hogyan” szót.",
+    t3_inst: "Állítsd össze a célmondatot!",
+    t3_h1: "Sokat tanulok (főmondat), hogy jó jegyeket kapjak.",
+    t3_h2: "a + ... + -ból + infinitivusba.",
+    t3_f3_1: "tanulok", t3_f3_2: "körül", t3_f3_3: "jó jegyek", t3_f3_4: "kapni.",
+
+    // T4: Ohne ... zu
+    t4_title: "Anélkül... is",
+    t4_text: "Amikor csinálsz valamit anélkül, hogy bármi mást tennél.",
+    t4_inst: "Melyik szó hiányzik innen?",
+    t4_h1: "Búcsú nélkül elmegy.",
+    t4_h2: "Válassza a „nélkül” lehetőséget.",
+    t4_sent_ohne: "Elment, hogy mondjon ___ egy szót ___.",
+    t4_co1: "nélkül/hoz", t4_co2: "körül / hozzá", t4_co3: "a / helyett", t4_co4: "nélkül / -",
+
+    // T5: Anstatt ... zu
+    t5_title: "Ahelyett...hogy",
+    t5_text: "Amikor egy dolgot csinálsz ahelyett, hogy egy másikat tennél (valójában eltervezett).",
+    t5_inst: "Használd helyesen a kötőszót!",
+    t5_h1: "Tanulás helyett játszik.",
+    t5_h2: "Ahelyett...hogy.",
+    t5_sent_statt: "___ aludni, ___ ő messze.",
+    t5_cs1: "Ahelyett / látja", t5_cs2: "Körülbelül / lát", t5_cs3: "Nélkül / lát", t5_cs4: "Mert / látja",
+
+    // T6: Slingshot: Infinitiv-Check
+    t6_title: "Infinitív vadász",
+    t6_text: "Csak azokra a mondatokra lőjön, amelyek helyes infinitivitást tartalmaznak a „to”-val!",
+    t6_inst: "Alkoss megfelelő mondatokat!",
+    t6_h1: "Ügyeljen a \"to\"-ra az ige előtt a végén.",
+    t6_h2: "... énekelni, ... abbahagyni.",
+    t6_q: "Mely mondatoknak van infinititusa a zu-val?",
+    t6_t1: "remélem találkozunk.", t6_t2: "Ideje indulni.", t6_t3: "menni akarok.", t6_t4: "Meg kell tanulnod.",
+
+    // T7: Magnet: Phrasen-Match
+    t7_title: "Kifejezés mágnes",
+    t7_text: "Kösd össze a főmondatot a megfelelő infinitív kiegészítéssel!",
+    t7_inst: "Húzd össze a parokat!",
+    t7_h1: "Van kedved csinálni valamit.",
+    t7_ml1: "úgy érzem", t7_mr1: "focizni.",
+    t7_ml2: "Ez egészséges", t7_mr2: "gyümölcsöt enni.",
+    t7_ml3: "Ne felejtsd el,", t7_mr3: "hogy felhívjam.",
+
+    // T8: Stacker: Satzbau
+    t8_title: "Infinitive targonca",
+    t8_text: "Alkoss mondatot a „to... to” szóval!",
+    t8_inst: "Rakd egymásra a szavakat a megfelelő sorrendbe!",
+    t8_h1: "A parkba (HS) megyek focizni.",
+    t8_sw8_1: "megyek,", t8_sw8_2: "a sportról", t8_sw8_3: "vezetni.",
+
+    // T9: Kein 'zu' bei Modalverben
+    t9_title: "Vigyázat: a kivételek!",
+    t9_text: "A modális igék (can, must, want...) után az infinitivus 'to' NÉLKÜL íródik!",
+    t9_inst: "Lehet itt egy \"to\"?",
+    t9_h1: "Ellenőrizze az igét: a „can” modális ige.",
+    t9_h2: "A modális igék után NINCS 'to'.",
+    t9_sent_mod: "Nagyon gyorsan tudok ___.",
+    t9_cm1: "futni", t9_cm2: "futni", t9_cm3: "futott", t9_cm4: "futott",
+    t10_title: "ugorj a + infinitívre", t10_text: "'megyek' = közeljövő.", t10_inst: "Feszült?", t10_h1: "menj csinálni.", t10_h2: "Ez azt jelenti: hamarosan.", t10_q: "Feszült?", t10_c1: "jövő", t10_c2: "múlt",
+    t11_title: "van/legyen is", t11_text: "'kellni/lenni' = szükségszerűség.", t11_inst: "Jelentése?", t11_h1: "Ez enni való.", t11_h2: "Kell / lehet / lehet.", t11_q: "Mi?", t11_c1: "szükséges", t11_c2: "lehetetlen",
+    t12_title: "helyett/helyett", t12_text: "'Helyett' = helyett.", t12_inst: "Melyik?", t12_h1: "Alvás helyett játszott.", t12_h2: "helyett to = nem.", t12_b1: "helyette", t12_b2: "normális", t12_i1: "tanulás helyett játszani", t12_i2: "tanulni",
+    t12_q: "Mit jelent a „helyett”?", t12_c1: "helyett", t12_c2: "ezen felül",
+    t13_title: "fenyeget/gondoskodik", t13_text: "'fenyegető' = veszély; 'fenntartani' = szokásos.", t13_inst: "Mi értelme?", t13_h1: "A házat összeomlás fenyegeti.", t13_h2: "Veszély / gyakori.", t13_q: "Melyik?", t13_c1: "fenyeget", t13_c2: "fenntartja",
+    t14_title: "Participle + to", t14_text: "'Ez látható' = látható.", t14_inst: "Rendezzen!", t14_h1: "A könyvet el kell olvasni.", t14_h2: "lenni + igenév + ahhoz.", t14_o1: "Ezt", t14_o2: "van", t14_o3: "hogy", t14_o4: "olvasni",
+    t14_q: "\"Ezt el kell olvasni\" azt jelenti?", t14_c1: "lehet olvasni", t14_c2: "olvasva van",
+    t15_title: "Elöljárószó + - + infinitivus", t15_text: "'olvasás közben', 'játék'.", t15_inst: "Helyes?", t15_h1: "olvasáskor, íráshoz.", t15_h2: "Elöljárószó + - + infinitivus.", t15_b1: "-val", t15_b2: "anélkül is", t15_i1: "futás közben", t15_i2: "futni",
+    t15_q: "Melyik forma a helyes?", t15_c1: "futás közben", t15_c2: "futás közben",
+  },
+  ro: {
+    explorer_title: "Insula infinitiv (la + ∞)",
+
+    // T1: Basis (Lust haben)
+    t1_title: "Vrei un infinitiv?",
+    t1_text: "Folosim adesea infinitivul cu „to” după expresii precum „distrează-te” sau „este important”.",
+    t1_inst: "Pune „la” la locul potrivit!",
+    t1_h1: "„Zu” este chiar înaintea infinitivului de la sfârșit.",
+    t1_h2: "Îmi vine să „mănânc” înghețată.",
+    t1_sent: "Nu am chef de ___ ___ azi.",
+    t1_c1: "a invata", t1_c2: "invata sa", t1_c3: "invata", t1_c4: "prea învăţat",
+
+    // T2: Trennbare Verben (aufzustehen)
+    t2_title: "The Separables (a se ridica)",
+    t2_text: "Cu verbe separabile, „to” se strecoară între prefix și verb.",
+    t2_inst: "Care formă este corectă?",
+    t2_h1: "Prefix + la + verb.",
+    t2_h2: "to + to + stand = a se ridica.",
+    t2_w2_1: "a face cumpărături", t2_w2_2: "să cumpere", t2_w2_3: "cumpărături de asemenea", t2_w2_4: "cumparat",
+
+    // T3: Um ... zu (Absicht)
+    t3_title: "Din ce motiv? (Pentru...la)",
+    t3_text: "Folosim „pentru a” atunci când exprimăm o intenție sau un scop.",
+    t3_inst: "Asamblați propoziția țintă!",
+    t3_h1: "Studiez mult (propoziție principală) pentru a obține note bune.",
+    t3_h2: "la + ... + la + infinitiv.",
+    t3_f3_1: "eu invat", t3_f3_2: "în jur", t3_f3_3: "note bune", t3_f3_4: "a obține.",
+
+    // T4: Ohne ... zu
+    t4_title: "Fără... de asemenea",
+    t4_text: "Când faci ceva fără să faci altceva.",
+    t4_inst: "Ce cuvânt lipsește aici?",
+    t4_h1: "Pleacă „fără” să-și ia rămas bun.",
+    t4_h2: "Alegeți „fără”.",
+    t4_sent_ohne: "S-a dus să spună ___ un cuvânt ___.",
+    t4_co1: "fara/la", t4_co2: "în jurul / spre", t4_co3: "în loc de / to", t4_co4: "fara / -",
+
+    // T5: Anstatt ... zu
+    t5_title: "În loc de... să",
+    t5_text: "Când faci un lucru în loc să faci altul (de fapt planificat).",
+    t5_inst: "Folosește corect conjuncția!",
+    t5_h1: "În loc să învețe, joacă.",
+    t5_h2: "În loc de... să.",
+    t5_sent_statt: "___ să doarmă, ___ el departe.",
+    t5_cs1: "În loc de / vede", t5_cs2: "În jur / vede", t5_cs3: "Fără / vede", t5_cs4: "Pentru că / văd",
+
+    // T6: Slingshot: Infinitiv-Check
+    t6_title: "Vânător de infinitiv",
+    t6_text: "Trage doar pentru propoziții care conțin infinitiv corect cu „to”!",
+    t6_inst: "Faceți propozițiile potrivite!",
+    t6_h1: "Fiți atenți la „to” dinaintea verbului de la sfârșit.",
+    t6_h2: "... a cânta, ... a opri.",
+    t6_q: "Ce propoziții au infinitiv cu zu?",
+    t6_t1: "Sper să te văd.", t6_t2: "E timpul să plecăm.", t6_t3: "Vreau să merg.", t6_t4: "Trebuie să înveți.",
+
+    // T7: Magnet: Phrasen-Match
+    t7_title: "Magnet expresie",
+    t7_text: "Conectați propoziția principală cu complementul infinitiv adecvat!",
+    t7_inst: "Húzd össze a parokat!",
+    t7_h1: "Simți că faci ceva.",
+    t7_ml1: "simt ca", t7_mr1: "a juca fotbal.",
+    t7_ml2: "Este sănătos", t7_mr2: "să mănânce fructe.",
+    t7_ml3: "nu uita,", t7_mr3: "să mă suni.",
+
+    // T8: Stacker: Satzbau
+    t8_title: "Stivuitor la infinit",
+    t8_text: "Construiește o propoziție cu „to... to”!",
+    t8_inst: "Stivuiți cuvintele în ordinea corectă!",
+    t8_h1: "Mă duc în parc (HS) să joc fotbal.",
+    t8_sw8_1: "eu merg,", t8_sw8_2: "despre sport", t8_sw8_3: "a conduce.",
+
+    // T9: Kein 'zu' bei Modalverben
+    t9_title: "Atenție: excepțiile!",
+    t9_text: "După verbele modale (can, must, want...) infinitivul se scrie FĂRĂ „to”!",
+    t9_inst: "Poate exista un „pentru” aici?",
+    t9_h1: "Verificați verbul: „poate” este un verb modal.",
+    t9_h2: "Nu există „to” după verbele modale.",
+    t9_sent_mod: "Pot ___ foarte repede.",
+    t9_cm1: "alerga", t9_cm2: "a alerga", t9_cm3: "a alergat", t9_cm4: "a alergat",
+    t10_title: "merge la + infinitiv", t10_text: "'going to' = viitor apropiat.", t10_inst: "tensionat?", t10_h1: "mergi sa faci.", t10_h2: "Asta înseamnă: în curând.", t10_q: "tensionat?", t10_c1: "viitor", t10_c2: "trecut",
+    t11_title: "au/fi si", t11_text: "'a avea/a fi' = necesitate.", t11_inst: "Sens?", t11_h1: "Asta e să mănânci.", t11_h2: "Trebuie / poate / poate.", t11_q: "Ce?", t11_c1: "necesar", t11_c2: "imposibil",
+    t12_title: "în loc de/în loc de", t12_text: "„În loc de” = în loc de.", t12_inst: "Care?", t12_h1: "În loc să doarmă, s-a jucat.", t12_h2: "in loc de to = not to.", t12_b1: "în schimb", t12_b2: "normal", t12_i1: "joaca in loc sa inveti", t12_i2: "invata",
+    t12_q: "Ce înseamnă „în loc de”?", t12_c1: "în loc de", t12_c2: "în plus",
+    t13_title: "amenința/îngrijește", t13_text: "'amenințat cu' = pericol; 'maintain to' = uzual.", t13_inst: "Ce sens?", t13_h1: "Casa este în pericol de a se prăbuși.", t13_h2: "Pericol / comun.", t13_q: "Care?", t13_c1: "ameninta", t13_c2: "mentine",
+    t14_title: "Participiu + to", t14_text: "„Asta poate fi văzut” = poate fi văzut.", t14_inst: "Aranja!", t14_h1: "Cartea este de citit.", t14_h2: "fi + participiu + to.", t14_o1: "Aceasta", t14_o2: "este", t14_o3: "la", t14_o4: "citeste",
+    t14_q: "„Acesta este de citit” înseamnă?", t14_c1: "poate fi citit", t14_c2: "este citit",
+    t15_title: "Prepoziție + la + infinitiv", t15_text: "„în timp ce citești”, „te joci”.", t15_inst: "Corecta?", t15_h1: "la citit, pentru scris.", t15_h2: "Prepoziție + la + infinitiv.", t15_b1: "cu to", t15_b2: "fara prea", t15_i1: "în timp ce alerga", t15_i2: "alerga",
+    t15_q: "Care formă este corectă?", t15_c1: "în timp ce alerga", t15_c2: "în timp ce alerga",
   }
 };
 
@@ -708,6 +1506,285 @@ export const SYN_ANT_LABELS: Record<string, Record<string, string>> = {
     t14_q: "Welche Wörter sind verwandt?", t14_c1: "lachen/lächeln", t14_c2: "laufen/sitzen",
     t15_title: "Kontrastive Analyse", t15_text: "Unterschiede klar.", t15_inst: "Unterschied?", t15_h1: "alt: Mensch vs Zeit.", t15_h2: "Kontext.", t15_b1: "Mensch", t15_b2: "Zeit", t15_i1: "alt", t15_i2: "antik",
     t15_q: "Was passt eher für einen alten Menschen?", t15_c1: "alt", t15_c2: "antik",
+  },
+  en: {
+    explorer_title: "Word change (synonyms & antonyms)",
+
+    // T1: Synonyme (Gleiche Bedeutung)
+    t1_title: "Word twins",
+    t1_text: "Synonyms are words that mean almost the same thing, like 'run' and 'run'.",
+    t1_inst: "Connect the appropriate synonyms!",
+    t1_h1: "say -> speak, big -> huge.",
+    t1_h2: "Find the word partners.",
+    t1_l1: "run", t1_r1: "run",
+    t1_l2: "clever", t1_r2: "intelligent",
+    t1_l3: "start", t1_r3: "begin",
+
+    // T2: Antonyme (Gegenteile)
+    t2_title: "Word opponent",
+    t2_text: "Antonyms are words with the opposite meaning, such as 'light' and 'dark'.",
+    t2_inst: "Which word is the opposite of 'strong'?",
+    t2_h1: "The opposite of having strength.",
+    t2_h2: "It's 'weak'.",
+    t2_sent_ant: "He is not strong, but ___.",
+    t2_ca1: "weak", t2_ca2: "thick", t2_ca3: "big", t2_ca4: "quickly",
+
+    // T3: Magnet: Synonym-Paare
+    t3_title: "Synonym magnet",
+    t3_text: "Match the matching word pairs!",
+    t3_inst: "Create synonym pairs!",
+    t3_h1: "delicious -> tasty.",
+    t3_h2: "sad -> sad.",
+    t3_ml3_1: "delicious", t3_mr3_1: "tasty",
+    t3_ml3_2: "sad", t3_mr3_2: "saddened",
+    t3_ml3_3: "glad", t3_mr3_3: "happy",
+
+    // T4: Bucket: Sortiere Syn/Ant
+    t4_title: "Word sorter",
+    t4_text: "Decide whether the word pair synonyms are vague antonyms.",
+    t4_inst: "Sort the pairs!",
+    t4_h1: "cold/hot = antonym. cold/cool = synonym.",
+    t4_b1: "Synonyms ♊", t4_b2: "Antonyms ↔️",
+    t4_i1: "cold / hot", t4_i2: "walk / run", t4_i3: "big / small", t4_i4: "clever / smart",
+
+    // T5: Nuancen (warm -> heiß)
+    t5_title: "Word Stairs",
+    t5_text: "Some synonyms are stronger vague weaker. Rank them according to their intensity!",
+    t5_inst: "Stack the words from 'warm' to 'boiling'!",
+    t5_h1: "Warm is the weakest, boiling is the strongest.",
+    t5_h2: "warm -> hot -> boiling.",
+    t5_sw5_1: "warm", t5_sw5_2: "hot", t5_sw5_3: "boiling",
+
+    // T6: Contextual Gap-fill
+    t6_title: "The right word",
+    t6_text: "Choose the synonym that best fits the sentence.",
+    t6_inst: "Which word sounds best here?",
+    t6_h1: "He 'runs' up the mountain (very fast).",
+    t6_h2: "Select 'run'.",
+    t6_sent_ctx: "The athlete ___ as fast as he can.",
+    t6_ctx1: "runs", t6_ctx2: "goes", t6_ctx3: "sneaks", t6_ctx4: "wanders",
+
+    // T7: Slingshot: Finde das Synonym
+    t7_title: "Szinonima-vadász",
+    t7_text: "Shoot for the right synonym for 'pretty'!",
+    t7_inst: "Meet the synonym!",
+    t7_h1: "pretty -> beautiful.",
+    t7_h2: "Search for 'beautiful'.",
+    t7_q_syn: "What is a synonym for 'pretty'?",
+    t7_t1: "beautiful", t7_t2: "ugly", t7_t3: "big", t7_t4: "old",
+
+    // T8: Antonym-Highlight
+    t8_title: "Opposite search",
+    t8_text: "Can you find the antonym for 'quiet' in this sentence?",
+    t8_inst: "Mark the antonym!",
+    t8_h1: "What is the opposite of quiet?",
+    t8_h2: "The word is 'loud'.",
+    t8_w8_1: "The", t8_w8_2: "Music", t8_w8_3: "is", t8_w8_4: "very", t8_w8_5: "loud",
+
+    // T9: Comparison Table SVG
+    t9_title: "Word comparison",
+    t9_text: "Here you can see how synonyms and antonyms work in comparison.",
+    t9_inst: "Connect the matching opposites!",
+    t9_h1: "new -> old, light -> dark.",
+    t9_h2: "Find the opponents.",
+    t9_ml9_1: "new", t9_mr9_1: "old",
+    t9_ml9_2: "bright", t9_mr9_2: "dark",
+    t9_ml9_3: "hard", t9_mr9_3: "soft",
+    t10_title: "Metaphors", t10_text: "Pictorial words.", t10_inst: "Picture?", t10_h1: "Without 'how'.", t10_h2: "The heart of the forest.", t10_q: "Metaphor?", t10_c1: "yes", t10_c2: "no",
+    t11_title: "Syn. in context", t11_text: "Nuances.", t11_inst: "Better?", t11_h1: "big / huge.", t11_h2: "Context.", t11_q: "Fits?", t11_c1: "huge", t11_c2: "big",
+    t12_title: "Ans. expanded", t12_text: "More opposites.", t12_inst: "Opposite?", t12_h1: "Day - night.", t12_h2: "Contrast.", t12_b1: "Opposite", t12_b2: "Normal", t12_i1: "Light", t12_i2: "Bright",
+    t12_q: "What is the opposite of 'light'?", t12_c1: "Dark", t12_c2: "Bright",
+    t13_title: "Nuances of meaning", t13_text: "Emotional differences.", t13_inst: "Feeling?", t13_h1: "cheap vs cheap.", t13_h2: "Shadow.", t13_q: "Feeling?", t13_c1: "negative", t13_c2: "positive",
+    t14_title: "Word family comparison", t14_text: "Related synonyms.", t14_inst: "Arrange!", t14_h1: "laugh - smile.", t14_h2: "Family.", t14_o1: "laugh", t14_o2: "smile", t14_o3: "grin", t14_o4: "",
+    t14_q: "Which words are related?", t14_c1: "laugh/smile", t14_c2: "walk/sit",
+    t15_title: "Contrastive analysis", t15_text: "Differences clear.", t15_inst: "Difference?", t15_h1: "old: man vs time.", t15_h2: "Context.", t15_b1: "Human", t15_b2: "time", t15_i1: "old", t15_i2: "antique",
+    t15_q: "What is more suitable for an old person?", t15_c1: "old", t15_c2: "antique",
+  },
+  hu: {
+    explorer_title: "Szóváltás (szinonimák és antonimák)",
+
+    // T1: Synonyme (Gleiche Bedeutung)
+    t1_title: "Szó ikrek",
+    t1_text: "A szinonimák olyan szavak, amelyek szinte ugyanazt jelentik, például „fut” és „fut”.",
+    t1_inst: "Kösd össze a megfelelő szinonimákat!",
+    t1_h1: "mondd -> beszélj, nagy -> hatalmas.",
+    t1_h2: "Keresse meg a partner szót.",
+    t1_l1: "futni", t1_r1: "futni",
+    t1_l2: "ügyes", t1_r2: "intelligens",
+    t1_l3: "kezdeni", t1_r3: "kezdődik",
+
+    // T2: Antonyme (Gegenteile)
+    t2_title: "Szó ellenfél",
+    t2_text: "Az antonimák ellentétes jelentésű szavak, például „világos” és „sötét”.",
+    t2_inst: "Melyik szó az „erős” ellentéte?",
+    t2_h1: "Az erő meglétének az ellenkezője.",
+    t2_h2: "Ez \"gyenge\".",
+    t2_sent_ant: "Nem erős, de ___.",
+    t2_ca1: "gyenge", t2_ca2: "vastag", t2_ca3: "nagy", t2_ca4: "gyorsan",
+
+    // T3: Magnet: Synonym-Paare
+    t3_title: "Szinonim mágnes",
+    t3_text: "Párosítsd a megfelelő szópárokat!",
+    t3_inst: "Hozz létre szinonimapárokat!",
+    t3_h1: "finom -> finom.",
+    t3_h2: "szomorú -> szomorú.",
+    t3_ml3_1: "finom", t3_mr3_1: "ízletes",
+    t3_ml3_2: "szomorú", t3_mr3_2: "elszomorodott",
+    t3_ml3_3: "örülök", t3_mr3_3: "boldog",
+
+    // T4: Bucket: Sortiere Syn/Ant
+    t4_title: "Szórendező",
+    t4_text: "Döntse el, hogy a szópár szinonimái homályos antonimák-e.",
+    t4_inst: "Válogasd szét a párokat!",
+    t4_h1: "hideg/meleg = antonim. hideg/hideg = szinonimája.",
+    t4_b1: "Szinonimák ♊", t4_b2: "Antonímák ↔️",
+    t4_i1: "hideg / meleg", t4_i2: "sétálni / futni", t4_i3: "nagy / kicsi", t4_i4: "okos / okos",
+
+    // T5: Nuancen (warm -> heiß)
+    t5_title: "Word lépcsők",
+    t5_text: "Egyes szinonimák erősebbek homályos gyengébbek. Rangsorold őket intenzitásuk szerint!",
+    t5_inst: "Rakd egymásra a szavakat „meleg”-től „forr”-ig!",
+    t5_h1: "A meleg a leggyengébb, a forrás a legerősebb.",
+    t5_h2: "meleg -> forró -> forrás.",
+    t5_sw5_1: "meleg", t5_sw5_2: "forró", t5_sw5_3: "forr",
+
+    // T6: Contextual Gap-fill
+    t6_title: "A megfelelő szó",
+    t6_text: "Válassza ki a mondathoz leginkább illő szinonimát.",
+    t6_inst: "Melyik szó hangzik itt a legjobban?",
+    t6_h1: "Felfut a hegyre (nagyon gyorsan).",
+    t6_h2: "Válassza a „Futtatás” lehetőséget.",
+    t6_sent_ctx: "A sportoló ___ amilyen gyorsan csak tud.",
+    t6_ctx1: "fut", t6_ctx2: "megy", t6_ctx3: "settenkedik", t6_ctx4: "vándorol",
+
+    // T7: Slingshot: Finde das Synonym
+    t7_title: "Szinonima-vadász",
+    t7_text: "Lődd le a „szép” megfelelő szinonimáját!",
+    t7_inst: "Ismerje meg a szinonimát!",
+    t7_h1: "szép -> szép.",
+    t7_h2: "Keresd a \"szép\" kifejezést.",
+    t7_q_syn: "Mi a \"szép\" szinonimája?",
+    t7_t1: "gyönyörű", t7_t2: "csúnya", t7_t3: "nagy", t7_t4: "régi",
+
+    // T8: Antonym-Highlight
+    t8_title: "Ellenkező keresés",
+    t8_text: "Megtalálod ebben a mondatban a „csendes” antonimáját?",
+    t8_inst: "Jelöld be az antonimát!",
+    t8_h1: "Mi a csend ellentéte?",
+    t8_h2: "A szó „hangos”.",
+    t8_w8_1: "A", t8_w8_2: "Zene", t8_w8_3: "van", t8_w8_4: "nagyon", t8_w8_5: "hangos",
+
+    // T9: Comparison Table SVG
+    t9_title: "Szóösszehasonlítás",
+    t9_text: "Itt láthatja, hogyan működnek a szinonimák és az antonimák összehasonlítva.",
+    t9_inst: "Kösd össze a megfelelő ellentéteket!",
+    t9_h1: "új -> régi, világos -> sötét.",
+    t9_h2: "Találd meg az ellenfeleket.",
+    t9_ml9_1: "új", t9_mr9_1: "régi",
+    t9_ml9_2: "fényes", t9_mr9_2: "sötét",
+    t9_ml9_3: "kemény", t9_mr9_3: "puha",
+    t10_title: "Metaforák", t10_text: "Képes szavak.", t10_inst: "Kép?", t10_h1: "„hogyan” nélkül.", t10_h2: "Az erdő szíve.", t10_q: "Metafora?", t10_c1: "igen", t10_c2: "nem",
+    t11_title: "Syn. összefüggésben", t11_text: "Árnyalatok.", t11_inst: "Jobb?", t11_h1: "nagy / hatalmas.", t11_h2: "Kontextus.", t11_q: "Illik?", t11_c1: "hatalmas", t11_c2: "nagy",
+    t12_title: "Ans. bővült", t12_text: "Még több ellentét.", t12_inst: "Szemben?", t12_h1: "Nappal - éjszaka.", t12_h2: "Kontraszt.", t12_b1: "Szemben", t12_b2: "Normális", t12_i1: "Fény", t12_i2: "Világos",
+    t12_q: "Mi a „fény” ellentéte?", t12_c1: "Sötét", t12_c2: "Világos",
+    t13_title: "A jelentés árnyalatai", t13_text: "Érzelmi különbségek.", t13_inst: "Érzés?", t13_h1: "olcsó vs olcsó.", t13_h2: "Árnyék.", t13_q: "Érzés?", t13_c1: "negatív", t13_c2: "pozitív",
+    t14_title: "Szócsalád összehasonlítás", t14_text: "Kapcsolódó szinonimák.", t14_inst: "Rendezzen!", t14_h1: "nevetni - mosolyogni.", t14_h2: "Család.", t14_o1: "nevetni", t14_o2: "mosolyogni", t14_o3: "vigyorog", t14_o4: "",
+    t14_q: "Mely szavak kapcsolódnak egymáshoz?", t14_c1: "nevetni/mosolyogni", t14_c2: "sétálni/ülni",
+    t15_title: "Kontrasztív elemzés", t15_text: "A különbségek egyértelműek.", t15_inst: "Különbség?", t15_h1: "öreg: ember vs idő.", t15_h2: "Kontextus.", t15_b1: "Ember", t15_b2: "idő", t15_i1: "régi", t15_i2: "antik",
+    t15_q: "Mi illik jobban egy idős emberhez?", t15_c1: "régi", t15_c2: "antik",
+  },
+  ro: {
+    explorer_title: "Schimbarea cuvintelor (sinonime și antonime)",
+
+    // T1: Synonyme (Gleiche Bedeutung)
+    t1_title: "Cuvinte gemene",
+    t1_text: "Sinonimele sunt cuvinte care înseamnă aproape același lucru, cum ar fi „a alerga” și „a alerga”.",
+    t1_inst: "Conectați sinonimele potrivite!",
+    t1_h1: "spune -> vorbește, mare -> imens.",
+    t1_h2: "Găsiți cuvântul parteneri.",
+    t1_l1: "alerga", t1_r1: "alerga",
+    t1_l2: "deștept", t1_r2: "inteligent",
+    t1_l3: "începe", t1_r3: "începe",
+
+    // T2: Antonyme (Gegenteile)
+    t2_title: "Cuvânt adversar",
+    t2_text: "Antonimele sunt cuvinte cu sens opus, cum ar fi „luminoasă” și „întunecată”.",
+    t2_inst: "Care cuvânt este opusul „puternic”?",
+    t2_h1: "Opusul de a avea putere.",
+    t2_h2: "Este „slab”.",
+    t2_sent_ant: "El nu este puternic, dar ___.",
+    t2_ca1: "slab", t2_ca2: "gros", t2_ca3: "mare", t2_ca4: "repede",
+
+    // T3: Magnet: Synonym-Paare
+    t3_title: "Sinonim magnet",
+    t3_text: "Potriviți perechile de cuvinte potrivite!",
+    t3_inst: "Creați perechi de sinonime!",
+    t3_h1: "delicios -> gustos.",
+    t3_h2: "trist -> trist.",
+    t3_ml3_1: "delicios", t3_mr3_1: "gustos",
+    t3_ml3_2: "trist", t3_mr3_2: "întristat",
+    t3_ml3_3: "bucuros", t3_mr3_3: "fericit",
+
+    // T4: Bucket: Sortiere Syn/Ant
+    t4_title: "Sortator de cuvinte",
+    t4_text: "Decideți dacă sinonimele perechilor de cuvinte sunt antonime vagi.",
+    t4_inst: "Sortați perechile!",
+    t4_h1: "rece/fierbinte = antonim. rece/rece = sinonim.",
+    t4_b1: "Sinonime ♊", t4_b2: "Antonime ↔️",
+    t4_i1: "rece/cald", t4_i2: "mers / alerga", t4_i3: "mare / mic", t4_i4: "isteț / inteligent",
+
+    // T5: Nuancen (warm -> heiß)
+    t5_title: "Cuvântul Scări",
+    t5_text: "Unele sinonime sunt mai puternice vag mai slabe. Clasează-le în funcție de intensitatea lor!",
+    t5_inst: "Stivuiți cuvintele de la „cald” la „fierbe”!",
+    t5_h1: "Caldura este cea mai slaba, fierberea este cea mai puternica.",
+    t5_h2: "cald -> fierbinte -> fierbinte.",
+    t5_sw5_1: "cald", t5_sw5_2: "fierbinte", t5_sw5_3: "fierbinte",
+
+    // T6: Contextual Gap-fill
+    t6_title: "Cuvântul potrivit",
+    t6_text: "Alegeți sinonimul care se potrivește cel mai bine propoziției.",
+    t6_inst: "Care cuvânt sună cel mai bine aici?",
+    t6_h1: "El „aleargă” pe munte (foarte repede).",
+    t6_h2: "Selectați „run”.",
+    t6_sent_ctx: "Sportivul ___ cât de repede poate.",
+    t6_ctx1: "aleargă", t6_ctx2: "merge", t6_ctx3: "se furișează", t6_ctx4: "rătăcește",
+
+    // T7: Slingshot: Finde das Synonym
+    t7_title: "Szinonima-vadász",
+    t7_text: "Căutați sinonimul potrivit pentru „drăguță”!",
+    t7_inst: "Faceți cunoștință cu sinonimul!",
+    t7_h1: "frumos -> frumos.",
+    t7_h2: "Căutați „frumos”.",
+    t7_q_syn: "Care este sinonimul pentru „frumoasa”?",
+    t7_t1: "frumos", t7_t2: "urât", t7_t3: "mare", t7_t4: "vechi",
+
+    // T8: Antonym-Highlight
+    t8_title: "Căutare opusă",
+    t8_text: "Puteți găsi antonimul pentru „liniștit” în această propoziție?",
+    t8_inst: "Marcați antonimul!",
+    t8_h1: "Care este opusul liniștii?",
+    t8_h2: "Cuvântul este „tare”.",
+    t8_w8_1: "The", t8_w8_2: "Muzica", t8_w8_3: "este", t8_w8_4: "foarte", t8_w8_5: "tare",
+
+    // T9: Comparison Table SVG
+    t9_title: "Comparație de cuvinte",
+    t9_text: "Aici puteți vedea cum funcționează sinonimele și antonimele în comparație.",
+    t9_inst: "Conectați contrariile potrivite!",
+    t9_h1: "nou -> vechi, lumină -> întuneric.",
+    t9_h2: "Găsiți adversarii.",
+    t9_ml9_1: "nou", t9_mr9_1: "vechi",
+    t9_ml9_2: "luminos", t9_mr9_2: "întuneric",
+    t9_ml9_3: "greu", t9_mr9_3: "moale",
+    t10_title: "Metafore", t10_text: "Cuvinte picturale.", t10_inst: "Imagine?", t10_h1: "Fără „cum”.", t10_h2: "Inima pădurii.", t10_q: "Metaforă?", t10_c1: "da", t10_c2: "nu",
+    t11_title: "Sin. în context", t11_text: "Nuanțe.", t11_inst: "Mai bine?", t11_h1: "mare / imens.", t11_h2: "Context.", t11_q: "Se potrivește?", t11_c1: "imens", t11_c2: "mare",
+    t12_title: "Ans. extins", t12_text: "Mai multe opuse.", t12_inst: "Opus?", t12_h1: "Zi - noapte.", t12_h2: "Contrast.", t12_b1: "Opus", t12_b2: "Normal", t12_i1: "Lumină", t12_i2: "Luminos",
+    t12_q: "Care este opusul „luminii”?", t12_c1: "Întuneric", t12_c2: "Luminos",
+    t13_title: "Nuanțe de sens", t13_text: "Diferențele emoționale.", t13_inst: "Sentiment?", t13_h1: "ieftin vs ieftin.", t13_h2: "Umbră.", t13_q: "Sentiment?", t13_c1: "negativ", t13_c2: "pozitiv",
+    t14_title: "Comparația familiei de cuvinte", t14_text: "Sinonime înrudite.", t14_inst: "Aranja!", t14_h1: "râde - zâmbește.", t14_h2: "Familial.", t14_o1: "râde", t14_o2: "zâmbește", t14_o3: "rânjet", t14_o4: "",
+    t14_q: "Ce cuvinte sunt legate?", t14_c1: "râde/zâmbește", t14_c2: "plimbare/stau",
+    t15_title: "Analiza contrastiva", t15_text: "Diferențele clare.", t15_inst: "Diferenţă?", t15_h1: "vechi: om vs timp.", t15_h2: "Context.", t15_b1: "uman", t15_b2: "timp", t15_i1: "vechi", t15_i2: "antic",
+    t15_q: "Ce este mai potrivit pentru o persoană în vârstă?", t15_c1: "vechi", t15_c2: "antic",
   }
 };
 
@@ -859,6 +1936,246 @@ export const FREMD5_LABELS: Record<string, Record<string, string>> = {
     t14_q: "Was ist Assimilation bei Fremdwörtern?", t14_c1: "Anpassung", t14_c2: "Übersetzung",
     t15_title: "Stil-Register", t15_text: "Formal vs informal.", t15_inst: "Register?", t15_h1: "Fremdwörter = formal.", t15_h2: "Context matters.", t15_b1: "Formal", t15_b2: "Informal", t15_i1: "Automobile", t15_i2: "Auto",
     t15_q: "Welches ist formaler?", t15_c1: "Automobile", t15_c2: "Auto",
+  },
+  en: {
+    explorer_title: "World of foreign words",
+
+    // T1: ph-Schreibung (Griechisch)
+    t1_title: "The Greek 'ph'",
+    t1_text: "We write many words from Greek with 'ph' instead of 'f'.",
+    t1_inst: "Which word is spelled correctly?",
+    t1_h1: "Think of the 'ph' in philosophy.", t1_h2: "The alphabet is written with ph.",
+    t1_w1: "Alphabet", t1_w2: "Alphabet", t1_w3: "Alphabet", t1_w4: "Alphabeth",
+
+    // T2: th-Schreibung
+    t2_title: "The silent 'h' in 't'",
+    t2_text: "In foreign words there is often an 'h' after the 't' that you don't hear (e.g. theater).",
+    t2_inst: "Find the correctly spelled word!",
+    t2_h1: "A topic always has an h.", t2_h2: "Theme.",
+    t2_w2_1: "Theme", t2_w2_2: "topic", t2_w2_3: "Topic h", t2_w2_4: "Teema",
+
+    // T3: rh-Schreibung
+    t3_title: "Rhythm check",
+    t3_text: "Words like 'rhythm' or 'rhinoceros' have an 'h' after the 'r'.",
+    t3_inst: "Mark the word with 'rh'!",
+    t3_h1: "Rhythm is particularly difficult.", t3_h2: "Rh at the beginning, th in the middle.",
+    t3_w3_1: "rhythm", t3_w3_2: "rhythm", t3_w3_3: "rithm", t3_w3_4: "rhythm",
+
+    // T4: ch als k (Orchester)
+    t4_title: "The hard 'ch'",
+    t4_text: "Sometimes 'ch' is pronounced like a 'k', especially in Greek words.",
+    t4_inst: "Which word is spelled with 'ch' (like k)?",
+    t4_h1: "Think about the orchestra or the choir.", t4_h2: "Character.",
+    t4_w4_1: "Character", t4_w4_2: "Character", t4_w4_3: "Karackter", t4_w4_4: "Character",
+
+    // T5: Magnet: Wortbedeutung
+    t5_title: "Meaning magnet",
+    t5_text: "Foreign words often have a German equivalent. Can you find her?",
+    t5_inst: "Connect the foreign word with the German word!",
+    t5_h1: "Correct means correct.", t5_h2: "Center means middle.",
+    t5_ml1: "correct", t5_mr1: "correct",
+    t5_ml2: "Center", t5_mr2: "middle",
+    t5_ml3: "step by step", t5_mr3: "gradually",
+
+    // T6: Slingshot: Wortschatz-Profi
+    t6_title: "Foreign word hunter",
+    t6_text: "Only meet the words that are foreign words (i.e. come from another language)!",
+    t6_inst: "Shoot the foreign words!",
+    t6_h1: "Search words like telephone, computer, microscope.", t6_h2: "Library, telephone, microphone.",
+    t6_q: "Which words are foreign words?",
+    t6_t1: "Library", t6_t2: "Telephone", t6_t3: "tree", t6_t4: "house",
+
+    // T7: Bucket: Herkunft
+    t7_title: "Origin sorter",
+    t7_text: "Do these words come from Latin or Greek? (Hint: ph/th/rh is often Greek).",
+    t7_inst: "Sort the words!",
+    t7_h1: "Philosophy (ph) -> Greek. Video (v) -> Latin.",
+    t7_b1: "Greek (ph, th, rh)", t7_b2: "Latin (v, c, t)",
+    t7_i1: "Theory", t7_i2: "rhythm", t7_i3: "Activity", t7_i4: "Video",
+
+    // T8: Stacker: Komplexität
+    t8_title: "Word tower",
+    t8_text: "Stack the foreign words according to their number of syllables (from short to long)!",
+    t8_inst: "Építs tornyot a szótagok szerint!",
+    t8_h1: "Text -> Topic -> Phone.", t8_h2: "1 -> 2 -> 3 syllables.",
+    t8_sw1: "Text", t8_sw2: "topic", t8_sw3: "Telephone",
+
+    // T9: Gap-fill: Kontext
+    t9_title: "Foreign words in use",
+    t9_text: "Insert the appropriate foreign word into the sentence.",
+    t9_inst: "Which word fits?",
+    t9_h1: "This is playing in a concert...?", t9_h2: "Orchestra.",
+    t9_sent: "The ___ plays a beautiful symphony.",
+    t9_c1: "Orchestra", t9_c2: "Orchestra", t9_c3: "Orchestra h", t9_c4: "Orkestar",
+    t10_title: "Lat. Prefixes", t10_text: "Latin prefixes.", t10_inst: "Prefix?", t10_h1: "pre-, post-, super-.", t10_h2: "Before, after, above.", t10_q: "Meaning?", t10_c1: "before", t10_c2: "after",
+    t11_title: "Gr. Suffixes", t11_text: "Greek suffixes.", t11_inst: "Suffix?", t11_h1: "-log, -phon, -scope.", t11_h2: "Word, sound, view.", t11_q: "What?", t11_c1: "sound", t11_c2: "view",
+    t12_title: "Acronyms", t12_text: "Abbreviated words.", t12_inst: "Acronym?", t12_h1: "NATO, RADAR.", t12_h2: "Short forms.", t12_b1: "Acronym", t12_b2: "Normal", t12_i1: "NATO", t12_i2: "Organization",
+    t12_q: "What is an acronym?", t12_c1: "Abbreviation", t12_c2: "foreign word",
+    t13_title: "Foreign word origin", t13_text: "Word origins.", t13_inst: "From where?", t13_h1: "From Latin/Greek.", t13_h2: "Origins matter.", t13_q: "Origin?", t13_c1: "latin", t13_c2: "Greek",
+    t14_title: "Assimilation", t14_text: "Words change in new language.", t14_inst: "Order!", t14_h1: "English, Latin, French.", t14_h2: "Language change.", t14_o1: "Foreign", t14_o2: "word", t14_o3: "Adaptation", t14_o4: "",
+    t14_q: "What is assimilation of foreign words?", t14_c1: "Adaptation", t14_c2: "Translation",
+    t15_title: "Style register", t15_text: "Formal vs informal.", t15_inst: "Register?", t15_h1: "Foreign words = formal.", t15_h2: "Context matters.", t15_b1: "Formal", t15_b2: "Informal", t15_i1: "Automobiles", t15_i2: "car",
+    t15_q: "Which is more formal?", t15_c1: "Automobiles", t15_c2: "car",
+  },
+  hu: {
+    explorer_title: "Idegen szavak világa",
+
+    // T1: ph-Schreibung (Griechisch)
+    t1_title: "A görög \"ph\"",
+    t1_text: "Sok görög szót „f” helyett „ph”-val írunk.",
+    t1_inst: "Melyik szó van helyesen írva?",
+    t1_h1: "Gondolj a „ph”-ra a filozófiában.", t1_h2: "Az ábécé ph-val van írva.",
+    t1_w1: "Ábécé", t1_w2: "Ábécé", t1_w3: "Ábécé", t1_w4: "Ábécé",
+
+    // T2: th-Schreibung
+    t2_title: "A néma \"h\" a \"t\"-ben",
+    t2_text: "Az idegen szavakban gyakran van egy „h” a „t” után, amit nem hallasz (pl. színház).",
+    t2_inst: "Keresse meg a helyesen írt szót!",
+    t2_h1: "Egy témának mindig van h.", t2_h2: "Téma.",
+    t2_w2_1: "téma", t2_w2_2: "témakörben", t2_w2_3: "Téma h", t2_w2_4: "Teema",
+
+    // T3: rh-Schreibung
+    t3_title: "Ritmus ellenőrzés",
+    t3_text: "Az olyan szavakban, mint a „ritmus” vagy az „orrszarvú”, egy „h” van az „r” után.",
+    t3_inst: "Jelölje a szót \"rh\"-vel!",
+    t3_h1: "A ritmus különösen nehéz.", t3_h2: "Rh az elején, th a közepén.",
+    t3_w3_1: "ritmus", t3_w3_2: "ritmus", t3_w3_3: "ritmus", t3_w3_4: "ritmus",
+
+    // T4: ch als k (Orchester)
+    t4_title: "A kemény \"ch\"",
+    t4_text: "Néha a „ch”-t „k”-ként ejtik, különösen a görög szavakban.",
+    t4_inst: "Melyik szót írják \"ch\"-vel (mint a k)?",
+    t4_h1: "Gondolj a zenekarra vagy a kórusra.", t4_h2: "Karakter.",
+    t4_w4_1: "Karakter", t4_w4_2: "Karakter", t4_w4_3: "Karackter", t4_w4_4: "Karakter",
+
+    // T5: Magnet: Wortbedeutung
+    t5_title: "Jelentése: mágnes",
+    t5_text: "Az idegen szavaknak gyakran van német megfelelője. Meg tudod találni?",
+    t5_inst: "Kösd össze az idegen szót a német szóval!",
+    t5_h1: "A helyes azt jelenti, hogy helyes.", t5_h2: "A középső jelentése középső.",
+    t5_ml1: "helyes", t5_mr1: "helyes",
+    t5_ml2: "Központ", t5_mr2: "közepén",
+    t5_ml3: "lépésről lépésre", t5_mr3: "fokozatosan",
+
+    // T6: Slingshot: Wortschatz-Profi
+    t6_title: "Idegen szó vadász",
+    t6_text: "Csak azokkal a szavakkal találkozzon, amelyek idegen szavak (azaz más nyelvből származnak)!",
+    t6_inst: "Lődd le az idegen szavakat!",
+    t6_h1: "Keressen olyan szavakat, mint telefon, számítógép, mikroszkóp.", t6_h2: "Könyvtár, telefon, mikrofon.",
+    t6_q: "Mely szavak idegen szavak?",
+    t6_t1: "Könyvtár", t6_t2: "Telefon", t6_t3: "fa", t6_t4: "házat",
+
+    // T7: Bucket: Herkunft
+    t7_title: "Származási osztályozó",
+    t7_text: "Ezek a szavak latinból vagy görögből származnak? (Tipp: ph/th/rh gyakran görög).",
+    t7_inst: "Rendezd a szavakat!",
+    t7_h1: "Filozófia (ph) -> görög. Videó (v) -> latin.",
+    t7_b1: "görög (ph, th, rh)", t7_b2: "latin (v, c, t)",
+    t7_i1: "elmélet", t7_i2: "ritmus", t7_i3: "Tevékenység", t7_i4: "Videó",
+
+    // T8: Stacker: Komplexität
+    t8_title: "Szótorony",
+    t8_text: "Rakd egymásra az idegen szavakat szótagszámuk szerint (rövidtől hosszúig)!",
+    t8_inst: "Építs tornyot a szótagok szerint!",
+    t8_h1: "Szöveg -> Téma -> Telefon.", t8_h2: "1 -> 2 -> 3 szótag.",
+    t8_sw1: "Szöveg", t8_sw2: "témakörben", t8_sw3: "Telefon",
+
+    // T9: Gap-fill: Kontext
+    t9_title: "Idegen szavak használatban",
+    t9_text: "Illessze be a megfelelő idegen szót a mondatba!",
+    t9_inst: "Melyik szó illik?",
+    t9_h1: "Ez egy koncerten szól...?", t9_h2: "Zenekar.",
+    t9_sent: "A ___ egy gyönyörű szimfóniát játszik.",
+    t9_c1: "Zenekar", t9_c2: "Zenekar", t9_c3: "Zenekar h", t9_c4: "Orkestar",
+    t10_title: "Lat. Előtagok", t10_text: "Latin előtagok.", t10_inst: "Előtag?", t10_h1: "elő-, utó-, szuper-.", t10_h2: "Előtte, utána, fent.", t10_q: "Jelentése?", t10_c1: "előtt", t10_c2: "után",
+    t11_title: "Gr. Utótagok", t11_text: "Görög toldalékok.", t11_inst: "Utótag?", t11_h1: "-log, -phon, -cope.", t11_h2: "Szó, hang, nézet.", t11_q: "Mi?", t11_c1: "hangot", t11_c2: "nézet",
+    t12_title: "Rövidítések", t12_text: "Rövidített szavak.", t12_inst: "Betűszó?", t12_h1: "NATO, RADAR.", t12_h2: "Rövid formák.", t12_b1: "Betűszó", t12_b2: "Normális", t12_i1: "NATO", t12_i2: "Szervezet",
+    t12_q: "Mi az a mozaikszó?", t12_c1: "Rövidítés", t12_c2: "idegen szó",
+    t13_title: "Idegen szó eredete", t13_text: "A szó eredete.", t13_inst: "Ahonnan?", t13_h1: "Latinból/görögből.", t13_h2: "Az eredet számít.", t13_q: "Származás?", t13_c1: "latin", t13_c2: "görög",
+    t14_title: "Az asszimiláció", t14_text: "A szavak megváltoznak az új nyelvben.", t14_inst: "Rendelés!", t14_h1: "Angol, latin, francia.", t14_h2: "Nyelvváltás.", t14_o1: "Külföldi", t14_o2: "szót", t14_o3: "Alkalmazkodás", t14_o4: "",
+    t14_q: "Mi az idegen szavak asszimilációja?", t14_c1: "Alkalmazkodás", t14_c2: "Fordítás",
+    t15_title: "Stílusregiszter", t15_text: "Formális vs informális.", t15_inst: "Nyilvántartás?", t15_h1: "Idegen szavak = formális.", t15_h2: "A kontextus számít.", t15_b1: "Formális", t15_b2: "Informális", t15_i1: "Gépkocsik", t15_i2: "autó",
+    t15_q: "Melyik formálisabb?", t15_c1: "Gépkocsik", t15_c2: "autó",
+  },
+  ro: {
+    explorer_title: "Lumea cuvintelor străine",
+
+    // T1: ph-Schreibung (Griechisch)
+    t1_title: "„ph” grecesc",
+    t1_text: "Scriem multe cuvinte din greacă cu „ph” în loc de „f”.",
+    t1_inst: "Care cuvânt este scris corect?",
+    t1_h1: "Think of the 'ph' in philosophy.", t1_h2: "The alphabet is written with ph.",
+    t1_w1: "Alfabetul", t1_w2: "Alfabetul", t1_w3: "Alfabetul", t1_w4: "Alfabetul",
+
+    // T2: th-Schreibung
+    t2_title: "„h” tăcut în „t”",
+    t2_text: "În cuvintele străine există adesea un „h” după „t” pe care nu îl auzi (de exemplu, teatru).",
+    t2_inst: "Find the correctly spelled word!",
+    t2_h1: "Un subiect are întotdeauna un h.", t2_h2: "Temă.",
+    t2_w2_1: "Temă", t2_w2_2: "subiect", t2_w2_3: "Subiectul h", t2_w2_4: "Teema",
+
+    // T3: rh-Schreibung
+    t3_title: "Verificarea ritmului",
+    t3_text: "Cuvinte precum „ritm” sau „rinocer” au un „h” după „r”.",
+    t3_inst: "Marcați cuvântul cu „rh”!",
+    t3_h1: "Ritmul este deosebit de dificil.", t3_h2: "Rh at the beginning, th in the middle.",
+    t3_w3_1: "ritmul", t3_w3_2: "ritmul", t3_w3_3: "ritmul", t3_w3_4: "ritmul",
+
+    // T4: ch als k (Orchester)
+    t4_title: "„Ch” dur",
+    t4_text: "Uneori, „ch” este pronunțat ca un „k”, mai ales în cuvintele grecești.",
+    t4_inst: "Which word is spelled with 'ch' (like k)?",
+    t4_h1: "Think about the orchestra or the choir.", t4_h2: "Caracter.",
+    t4_w4_1: "Caracter", t4_w4_2: "Caracter", t4_w4_3: "Karackter", t4_w4_4: "Caracter",
+
+    // T5: Magnet: Wortbedeutung
+    t5_title: "Adică magnet",
+    t5_text: "Foreign words often have a German equivalent. O poți găsi?",
+    t5_inst: "Conectați cuvântul străin cu cuvântul german!",
+    t5_h1: "Corect înseamnă corect.", t5_h2: "Centru înseamnă mijloc.",
+    t5_ml1: "corect", t5_mr1: "corect",
+    t5_ml2: "Centru", t5_mr2: "mijloc",
+    t5_ml3: "pas cu pas", t5_mr3: "treptat",
+
+    // T6: Slingshot: Wortschatz-Profi
+    t6_title: "Vânător de cuvinte străine",
+    t6_text: "Întâlnește doar cuvintele care sunt cuvinte străine (adică provin dintr-o altă limbă)!",
+    t6_inst: "Trage cuvintele străine!",
+    t6_h1: "Căutați cuvinte precum telefon, computer, microscop.", t6_h2: "Library, telephone, microphone.",
+    t6_q: "Care cuvinte sunt cuvinte străine?",
+    t6_t1: "Biblioteca", t6_t2: "Telefon", t6_t3: "copac", t6_t4: "casa",
+
+    // T7: Bucket: Herkunft
+    t7_title: "Origin sorter",
+    t7_text: "Do these words come from Latin or Greek? (Hint: ph/th/rh is often Greek).",
+    t7_inst: "Sortează cuvintele!",
+    t7_h1: "Filosofie (ph) -> greacă. Video (v) -> latină.",
+    t7_b1: "Greacă (ph, th, rh)", t7_b2: "latină (v, c, t)",
+    t7_i1: "Teorie", t7_i2: "ritmul", t7_i3: "Activitate", t7_i4: "Video",
+
+    // T8: Stacker: Komplexität
+    t8_title: "Turnul de cuvinte",
+    t8_text: "Stivuiți cuvintele străine în funcție de numărul lor de silabe (de la scurt la lung)!",
+    t8_inst: "Építs tornyot a szótagok szerint!",
+    t8_h1: "Text -> Subiect -> Telefon.", t8_h2: "1 -> 2 -> 3 silabe.",
+    t8_sw1: "Text", t8_sw2: "subiect", t8_sw3: "Telefon",
+
+    // T9: Gap-fill: Kontext
+    t9_title: "Cuvinte străine în uz",
+    t9_text: "Introduceți cuvântul străin potrivit în propoziție.",
+    t9_inst: "Care cuvânt se potrivește?",
+    t9_h1: "Asta cântă într-un concert...?", t9_h2: "Orchestră.",
+    t9_sent: "___ cântă o simfonie frumoasă.",
+    t9_c1: "orchestra", t9_c2: "orchestra", t9_c3: "Orchestra h", t9_c4: "Orkestar",
+    t10_title: "lat. Prefixes", t10_text: "prefixe latine.", t10_inst: "Prefix?", t10_h1: "pre-, post-, super-.", t10_h2: "Înainte, după, deasupra.", t10_q: "Sens?", t10_c1: "înainte", t10_c2: "după",
+    t11_title: "Gr. Sufixe", t11_text: "sufixe grecești.", t11_inst: "Sufix?", t11_h1: "-log, -phon, -scope.", t11_h2: "Cuvânt, sunet, vedere.", t11_q: "Ce?", t11_c1: "sunet", t11_c2: "vedere",
+    t12_title: "Acronime", t12_text: "Abbreviated words.", t12_inst: "Acronim?", t12_h1: "NATO, RADAR.", t12_h2: "Forme scurte.", t12_b1: "Acronym", t12_b2: "Normal", t12_i1: "NATO", t12_i2: "Organizare",
+    t12_q: "What is an acronym?", t12_c1: "Abreviere", t12_c2: "foreign word",
+    t13_title: "Foreign word origin", t13_text: "Originile cuvintelor.", t13_inst: "De unde?", t13_h1: "From Latin/Greek.", t13_h2: "Origins matter.", t13_q: "Origine?", t13_c1: "latină", t13_c2: "greacă",
+    t14_title: "Assimilation", t14_text: "Cuvintele se schimbă într-o limbă nouă.", t14_inst: "Comanda!", t14_h1: "English, Latin, French.", t14_h2: "Language change.", t14_o1: "Străină", t14_o2: "cuvânt", t14_o3: "Adaptare", t14_o4: "",
+    t14_q: "Ce este asimilarea cuvintelor străine?", t14_c1: "Adaptare", t14_c2: "Traducere",
+    t15_title: "Registrul de stil", t15_text: "Formal vs informal.", t15_inst: "Registru?", t15_h1: "Foreign words = formal.", t15_h2: "Context matters.", t15_b1: "Formal", t15_b2: "Informale", t15_i1: "Automobile", t15_i2: "masina",
+    t15_q: "Which is more formal?", t15_c1: "Automobile", t15_c2: "masina",
   }
 };
 
@@ -1008,6 +2325,240 @@ export const SATZ6_LABELS: Record<string, Record<string, string>> = {
     t13_title: "Relativsatz-Übung", t13_text: "Komplexere Relativsätze.", t13_inst: "Richtig?", t13_h1: "Der Mann, dem du hilfst.", t13_h2: "Kasus muss passen.", t13_q: "Kasus?", t13_c1: "dativ", t13_c2: "nominativ",
     t14_title: "Satz-Bindung", t14_text: "Mehrere Sätze verbinden.", t14_inst: "Ordne!", t14_h1: "Hauptsatz + Relativsatz.", t14_h2: "Struktur.", t14_o1: "Hauptsatz", t14_o2: "Bindewort", t14_o3: "Relativsatz", t14_o4: "",
     t15_title: "Satz-Stil", t15_text: "Kurz vs lang Sätze.", t15_inst: "Besser?", t15_h1: "Kurze Sätze = klar.", t15_h2: "Stil.", t15_b1: "Kurz", t15_b2: "Lang", t15_i1: "Das Buch ist gut.", t15_i2: "Das Buch, welches ich las, war wirklich sehr gut.",
+  },
+  en: {
+    explorer_title: "Set bridges (K6)",
+
+    // T1: Relativpronomen maskulin (der)
+    t1_title: "The relative clause (the)",
+    t1_text: "A relative clause describes a noun more precisely. It is usually introduced with the, which or that.",
+    t1_inst: "Which relative pronoun fits?",
+    t1_h1: "The man (masculine)...", t1_h2: "The man WHO is standing there.",
+    t1_sent_r: "The man I know is standing there.",
+    t1_cr1: "the", t1_cr2: "the", t1_cr3: "dem", t1_cr4: "that",
+
+    // T2: Relativpronomen feminin (die)
+    t2_title: "The relative bridge (the)",
+    t2_text: "Female nouns also need a relative clause: 'The woman WHO laughs.'",
+    t2_inst: "Use the correct pronoun!",
+    t2_h1: "The cat (female)...", t2_h2: "The cat WHO sleeps.",
+    t2_sent_f: "This is the woman ___ is helping me.",
+    t2_cf1: "the", t2_cf2: "the", t2_cf3: "the", t2_cf4: "which one",
+
+    // T3: Relativpronomen neutral (das)
+    t3_title: "The relative word (that)",
+    t3_text: "For neuter nouns we use 'that'. Caution: It's not an article, but a pronoun!",
+    t3_inst: "Find the right pronoun!",
+    t3_h1: "The child (neuter)...", t3_h2: "The child THAT is playing.",
+    t3_sent_n: "This is the child ___ I like.",
+    t3_cn1: "that", t3_cn2: "that", t3_cn3: "what", t3_cn4: "the",
+
+    // T4: Plural (die / denen)
+    t4_title: "Relative clause in the plural",
+    t4_text: "In the plural we use 'die' (nom/acc) or 'denen' (dative).",
+    t4_inst: "Which word fits here (dative plural)?",
+    t4_h1: "The children (plural) ... I help WHOM?", t4_h2: "those.",
+    t4_sent_p: "These are the children, ___ I help.",
+    t4_cp1: "those", t4_cp2: "the", t4_cp3: "the", t4_cp4: "which ones",
+
+    // T5: Kausalsatz mit 'weil' (Verbende)
+    t5_title: "reason with 'because'",
+    t5_text: "A causal proposition states the reason. After 'because' the verb comes at the end.",
+    t5_inst: "Put the sentence in the correct order!",
+    t5_h1: "Verb 'rains' has to go to the end.", t5_h2: "because it's raining.",
+    t5_o1: "because", t5_o2: "it", t5_o3: "today", t5_o4: "raining.",
+
+    // T6: Kausalsatz mit 'da'
+    t6_title: "Reason with 'da'",
+    t6_text: "The word 'da' means the same as 'because' and also sends the verb to the end.",
+    t6_inst: "Which verb is at the end?",
+    t6_h1: "Because he's tired...", t6_h2: "is.",
+    t6_sent_da: "Since he is tired ___, he goes to sleep.",
+    t6_cda1: "is", t6_cda2: "was", t6_cda3: "will", t6_cda4: "am",
+
+    // T7: Kausalsatz mit 'denn' (Pos. 0)
+    t7_title: "Reason with 'because'",
+    t7_text: "Danger! After 'because' the verb is NOT at the end, but in position 2.",
+    t7_inst: "Put the sentence together correctly!",
+    t7_h1: "because + subject + verb (pos. 2).", t7_h2: "because I'm hungry.",
+    t7_f7_1: "I eat,", t7_f7_2: "because", t7_f7_3: "I", t7_f7_4: "am hungry.",
+
+    // T8: Slingshot: Relativpronomen
+    t8_title: "Relative hunter",
+    t8_text: "Shoot all the words that can start a relative clause!",
+    t8_inst: "Meet the relative pronouns!",
+    t8_h1: "Search for the, the, the, which, which.", t8_h2: "the, those, which.",
+    t8_q_r: "Which words are relative pronouns?",
+    t8_t1: "the", t8_t2: "those", t8_t3: "because", t8_t4: "because",
+
+    // T9: Komma-Check
+    t9_title: "Vessző-mester (K6)",
+    t9_text: "Relative and causal clauses must always be separated with a comma.",
+    t9_inst: "Where is the comma missing?",
+    t9_h1: "Find the place before the relative pronoun 'that'.", t9_h2: "The book that...",
+    t9_w9_1: "The book", t9_w9_2: "that I read", t9_w9_3: "is", t9_w9_4: "good", t9_w9_5: ".",
+    t10_title: "Indefinite pronouns", t10_text: "Who, what, which.", t10_inst: "Correct?", t10_h1: "which = which.", t10_h2: "Gender has to fit.", t10_q: "Pronoun?", t10_c1: "which one", t10_c2: "what",
+    t11_title: "Relative clause gender", t11_text: "Article determines gender.", t11_inst: "Which?", t11_h1: "The girl who...", t11_h2: "that = neutral.", t11_q: "Genus?", t11_c1: "neutral", t11_c2: "female",
+    t12_title: "Causal proposition expanded", t12_text: "because/there/then distinguish.", t12_inst: "Difference?", t12_h1: "because = verb ends, because = Pos 2.", t12_h2: "Word order matters.", t12_b1: "because/there", t12_b2: "because", t12_i1: "Sentence with because.", t12_i2: "Sentence with then",
+    t13_title: "Relative clause exercise", t13_text: "More complex relative clauses.", t13_inst: "Correct?", t13_h1: "The man you help.", t13_h2: "The case must be correct.", t13_q: "Case?", t13_c1: "dative", t13_c2: "nominative",
+    t14_title: "Sentence binding", t14_text: "Connect several sentences.", t14_inst: "Arrange!", t14_h1: "Main clause + relative clause.", t14_h2: "Structure.", t14_o1: "Main clause", t14_o2: "Connective word", t14_o3: "relative clause", t14_o4: "",
+    t15_title: "Sentence style", t15_text: "Short vs long sentences.", t15_inst: "Better?", t15_h1: "Short sentences = clear.", t15_h2: "Style.", t15_b1: "Short", t15_b2: "Long", t15_i1: "The book is good.", t15_i2: "The book I read was really very good.",
+  },
+  hu: {
+    explorer_title: "Hidak beállítása (K6)",
+
+    // T1: Relativpronomen maskulin (der)
+    t1_title: "A relatív záradék (a)",
+    t1_text: "A relatív záradék pontosabban írja le a főnevet. Általában bevezetik a, melyik vagy az.",
+    t1_inst: "Melyik relatív névmás illik hozzá?",
+    t1_h1: "A férfi (férfias)...", t1_h2: "A férfi, aki ott áll.",
+    t1_sent_r: "A férfi, akit ismerek, ott áll.",
+    t1_cr1: "a", t1_cr2: "a", t1_cr3: "dem", t1_cr4: "hogy",
+
+    // T2: Relativpronomen feminin (die)
+    t2_title: "A relatív híd (a)",
+    t2_text: "A női főnevekhez is szükség van egy relatív záradékra: „A nő, aki nevet”.",
+    t2_inst: "Használd a megfelelő névmást!",
+    t2_h1: "A macska (nőstény)...", t2_h2: "A macska, WHO alszik.",
+    t2_sent_f: "Ez az a nő, aki ___ segít nekem.",
+    t2_cf1: "a", t2_cf2: "a", t2_cf3: "a", t2_cf4: "melyik",
+
+    // T3: Relativpronomen neutral (das)
+    t3_title: "A relatív szó (az)",
+    t3_text: "A semleges főneveknél a „that” szót használjuk. Vigyázat: Ez nem szócikk, hanem névmás!",
+    t3_inst: "Találd meg a megfelelő névmást!",
+    t3_h1: "A gyerek (ivartalan)...", t3_h2: "A gyerek, AKI játszik.",
+    t3_sent_n: "Ez a gyerek ___ tetszik.",
+    t3_cn1: "hogy", t3_cn2: "hogy", t3_cn3: "mit", t3_cn4: "a",
+
+    // T4: Plural (die / denen)
+    t4_title: "Relatív tagmondat többes számban",
+    t4_text: "A többes számban a „die” (nom/acc) vagy a „denen” (datívusz) szót használjuk.",
+    t4_inst: "Melyik szó illik ide (dativus többes szám)?",
+    t4_h1: "A gyerekek (többes szám) ... KINEK segítek?", t4_h2: "azok.",
+    t4_sent_p: "Ezek a gyerekek, ___ segítek.",
+    t4_cp1: "azokat", t4_cp2: "a", t4_cp3: "a", t4_cp4: "melyek azok",
+
+    // T5: Kausalsatz mit 'weil' (Verbende)
+    t5_title: "ok a \"mert\" szóval",
+    t5_text: "Az ok-okozati tétel kimondja az okot. A „mert” után az ige a végére kerül.",
+    t5_inst: "Tedd a mondatot helyes sorrendbe!",
+    t5_h1: "Az „esik” igének a végéig kell mennie.", t5_h2: "mert esik az eső.",
+    t5_o1: "mert", t5_o2: "azt", t5_o3: "ma", t5_o4: "esik az eső.",
+
+    // T6: Kausalsatz mit 'da'
+    t6_title: "ok a \"da\" szóval",
+    t6_text: "A „da” szó ugyanazt jelenti, mint a „mert”, és az igét is a végére küldi.",
+    t6_inst: "Melyik ige van a végén?",
+    t6_h1: "Mert fáradt...", t6_h2: "van.",
+    t6_sent_da: "Mivel fáradt ___, elmegy aludni.",
+    t6_cda1: "van", t6_cda2: "volt", t6_cda3: "lesz", t6_cda4: "am",
+
+    // T7: Kausalsatz mit 'denn' (Pos. 0)
+    t7_title: "ok a \"mert\" szóval",
+    t7_text: "Veszély! A 'mert' után az ige NEM a végén van, hanem a 2. helyen.",
+    t7_inst: "Rakd össze helyesen a mondatot!",
+    t7_h1: "mert + alany + ige (2. poz.).", t7_h2: "mert éhes vagyok.",
+    t7_f7_1: "eszek,", t7_f7_2: "mert", t7_f7_3: "I", t7_f7_4: "éhes vagyok.",
+
+    // T8: Slingshot: Relativpronomen
+    t8_title: "Rokon vadász",
+    t8_text: "Lődd le az összes szót, amely relatív záradékot indíthat!",
+    t8_inst: "Ismerje meg a relatív névmásokat!",
+    t8_h1: "Keresse meg a, the, the, which, which.", t8_h2: "az, azok, melyek.",
+    t8_q_r: "Mely szavak relatív névmások?",
+    t8_t1: "a", t8_t2: "azokat", t8_t3: "mert", t8_t4: "mert",
+
+    // T9: Komma-Check
+    t9_title: "Vessző-mester (K6)",
+    t9_text: "A relatív és oksági tagmondatokat mindig vesszővel kell elválasztani.",
+    t9_inst: "Hol hiányzik a vessző?",
+    t9_h1: "Keresse meg a relatív „az” névmás előtti helyet.", t9_h2: "A könyv, ami...",
+    t9_w9_1: "A könyv", t9_w9_2: "hogy olvastam", t9_w9_3: "van", t9_w9_4: "jó", t9_w9_5: ".",
+    t10_title: "Határozatlan névmások", t10_text: "Ki, mit, melyik.", t10_inst: "Helyes?", t10_h1: "melyik = melyik.", t10_h2: "A nemnek illeszkednie kell.", t10_q: "Névmás?", t10_c1: "melyik", t10_c2: "mit",
+    t11_title: "Relatív záradék neme", t11_text: "A cikk határozza meg a nemet.", t11_inst: "Melyik?", t11_h1: "A lány, aki...", t11_h2: "hogy = semleges.", t11_q: "Nemzetség?", t11_c1: "semleges", t11_c2: "nőstény",
+    t12_title: "Az ok-okozati tétel kibővült", t12_text: "mert/ott/akkor megkülönböztetni.", t12_inst: "Különbség?", t12_h1: "mert = ige végződik, mert = Pos 2.", t12_h2: "A szórend számít.", t12_b1: "mert/ott", t12_b2: "mert", t12_i1: "Mondat mivel.", t12_i2: "Mondat akkor",
+    t13_title: "Relatív tagmondat gyakorlat", t13_text: "Bonyolultabb relatív záradékok.", t13_inst: "Helyes?", t13_h1: "A férfi, akit segítesz.", t13_h2: "Az esetnek helyesnek kell lennie.", t13_q: "Ügy?", t13_c1: "datuvus", t13_c2: "névelő",
+    t14_title: "Mondatkötés", t14_text: "Köss össze több mondatot!", t14_inst: "Rendezzen!", t14_h1: "Főmondat + relatív mellékmondat.", t14_h2: "Szerkezet.", t14_o1: "Fő záradék", t14_o2: "Összekötő szó", t14_o3: "relatív záradék", t14_o4: "",
+    t15_title: "Mondatstílus", t15_text: "Rövid vs hosszú mondatok.", t15_inst: "Jobb?", t15_h1: "Rövid mondatok = világos.", t15_h2: "Stílus.", t15_b1: "Rövid", t15_b2: "Hosszú", t15_i1: "A könyv jó.", t15_i2: "A könyv, amit olvastam, tényleg nagyon jó volt.",
+  },
+  ro: {
+    explorer_title: "Set bridges (K6)",
+
+    // T1: Relativpronomen maskulin (der)
+    t1_title: "Propoziţia relativă (the)",
+    t1_text: "O propoziție relativă descrie un substantiv mai precis. De obicei este introdus cu, care sau aceea.",
+    t1_inst: "Care pronume relativ se potrivește?",
+    t1_h1: "Bărbatul (masculin)...", t1_h2: "Omul CARE stă acolo.",
+    t1_sent_r: "Omul pe care îl cunosc stă acolo.",
+    t1_cr1: "cel", t1_cr2: "cel", t1_cr3: "dem", t1_cr4: "că",
+
+    // T2: Relativpronomen feminin (die)
+    t2_title: "Podul relativ (cel)",
+    t2_text: "Substantivele feminine au nevoie și de o propoziție relativă: „Femeia care râde”.",
+    t2_inst: "Use the correct pronoun!",
+    t2_h1: "The cat (female)...", t2_h2: "The cat WHO sleeps.",
+    t2_sent_f: "Aceasta este femeia ___ mă ajută.",
+    t2_cf1: "cel", t2_cf2: "cel", t2_cf3: "cel", t2_cf4: "care unul",
+
+    // T3: Relativpronomen neutral (das)
+    t3_title: "The relative word (that)",
+    t3_text: "Pentru substantivele neutre folosim „acela”. Atenție: nu este un articol, ci un pronume!",
+    t3_inst: "Find the right pronoun!",
+    t3_h1: "The child (neuter)...", t3_h2: "Copilul CARE se joacă.",
+    t3_sent_n: "Acesta este copilul ___ îmi place.",
+    t3_cn1: "că", t3_cn2: "că", t3_cn3: "ce", t3_cn4: "cel",
+
+    // T4: Plural (die / denen)
+    t4_title: "Propoziție relativă la plural",
+    t4_text: "La plural folosim „die” (nom/acc) sau „denen” (dativ).",
+    t4_inst: "Care cuvânt se potrivește aici (dativ plural)?",
+    t4_h1: "Copiii (plural) ... Ajut pe CINE?", t4_h2: "aceste.",
+    t4_sent_p: "Aceștia sunt copiii, ___ ajut.",
+    t4_cp1: "acelea", t4_cp2: "cel", t4_cp3: "cel", t4_cp4: "care dintre ele",
+
+    // T5: Kausalsatz mit 'weil' (Verbende)
+    t5_title: "reason with 'because'",
+    t5_text: "O propoziție cauzală precizează motivul. După „pentru că” verbul vine la sfârșit.",
+    t5_inst: "Pune propoziția în ordinea corectă!",
+    t5_h1: "Verbul „plouă” trebuie să meargă până la capăt.", t5_h2: "because it's raining.",
+    t5_o1: "pentru că", t5_o2: "ea", t5_o3: "azi", t5_o4: "ploua.",
+
+    // T6: Kausalsatz mit 'da'
+    t6_title: "Reason with 'da'",
+    t6_text: "Cuvântul „da” înseamnă la fel ca „pentru că” și trimite, de asemenea, verbul la sfârșit.",
+    t6_inst: "Care verb este la sfârșit?",
+    t6_h1: "Because he's tired...", t6_h2: "este.",
+    t6_sent_da: "Din moment ce este obosit ___, se duce la culcare.",
+    t6_cda1: "este", t6_cda2: "a fost", t6_cda3: "va", t6_cda4: "am",
+
+    // T7: Kausalsatz mit 'denn' (Pos. 0)
+    t7_title: "Reason with 'because'",
+    t7_text: "Pericol! După „pentru că” verbul NU este la sfârșit, ci în poziția 2.",
+    t7_inst: "Pune propoziția corect!",
+    t7_h1: "deoarece + subiect + verb (poz. 2).", t7_h2: "pentru că mi-e foame.",
+    t7_f7_1: "eu mananc,", t7_f7_2: "pentru că", t7_f7_3: "eu", t7_f7_4: "mi-e foame.",
+
+    // T8: Slingshot: Relativpronomen
+    t8_title: "Relative hunter",
+    t8_text: "Trage toate cuvintele care pot începe o propoziție relativă!",
+    t8_inst: "Faceți cunoștință cu pronumele relative!",
+    t8_h1: "Căutați, cel, cel, care, care.", t8_h2: "the, those, which.",
+    t8_q_r: "Care cuvinte sunt pronume relative?",
+    t8_t1: "cel", t8_t2: "acelea", t8_t3: "pentru că", t8_t4: "pentru că",
+
+    // T9: Komma-Check
+    t9_title: "Vessző-mester (K6)",
+    t9_text: "Propozițiile relative și cauzale trebuie întotdeauna separate prin virgulă.",
+    t9_inst: "Unde lipsește virgula?",
+    t9_h1: "Găsiți locul înaintea pronumelui relativ „că”.", t9_h2: "Cartea care...",
+    t9_w9_1: "Cartea", t9_w9_2: "that I read", t9_w9_3: "este", t9_w9_4: "bine", t9_w9_5: ".",
+    t10_title: "Pronume nedefinite", t10_text: "Cine, ce, care.", t10_inst: "Corecta?", t10_h1: "which = which.", t10_h2: "Gender has to fit.", t10_q: "Pronume?", t10_c1: "care unul", t10_c2: "ce",
+    t11_title: "Propoziție relativă de gen", t11_text: "Articolul determină sexul.", t11_inst: "Care?", t11_h1: "Fata care...", t11_h2: "that = neutru.", t11_q: "Gen?", t11_c1: "neutru", t11_c2: "femela",
+    t12_title: "Propoziţia cauzală s-a extins", t12_text: "pentru că/acolo/apoi distinge.", t12_inst: "Diferenţă?", t12_h1: "deoarece = se termină verbul, deoarece = Poz. 2.", t12_h2: "Ordinea cuvintelor contează.", t12_b1: "pentru că/acolo", t12_b2: "pentru că", t12_i1: "Propoziție cu pentru că.", t12_i2: "Sentence with then",
+    t13_title: "Relative clause exercise", t13_text: "Propoziții relative mai complexe.", t13_inst: "Corecta?", t13_h1: "The man you help.", t13_h2: "Cazul trebuie să fie corect.", t13_q: "Caz?", t13_c1: "dativ", t13_c2: "nominativ",
+    t14_title: "Sentence binding", t14_text: "Conectați mai multe propoziții.", t14_inst: "Aranja!", t14_h1: "Propoziție principală + propoziție relativă.", t14_h2: "Structura.", t14_o1: "Clauza principală", t14_o2: "Connective word", t14_o3: "relative clause", t14_o4: "",
+    t15_title: "Stilul propoziției", t15_text: "Short vs long sentences.", t15_inst: "Mai bine?", t15_h1: "Short sentences = clear.", t15_h2: "Stil.", t15_b1: "Scurt", t15_b2: "Lung", t15_i1: "The book is good.", t15_i2: "Cartea pe care am citit-o a fost într-adevăr foarte bună.",
   }
 };
 
@@ -1159,6 +2710,246 @@ export const WORT6_LABELS: Record<string, Record<string, string>> = {
     t13_title: "Zusammengesetzte", t13_text: "Compound words.", t13_inst: "Compound?", t13_h1: "Tisch + Tuch = Tischtuch.", t13_h2: "Two words into one.", t13_q: "Correct?", t13_c1: "ja", t13_c2: "nein",
     t14_title: "Wort-Aussprache", t14_text: "How to pronounce.", t14_inst: "Order!", t14_h1: "Betonung matters.", t14_h2: "Accent.", t14_o1: "Über", t14_o2: "Set", t14_o3: "Ung", t14_o4: "",
     t15_title: "Wort-Varianten", t15_text: "Same word, different forms.", t15_inst: "Variant?", t15_h1: "laufen - läuft.", t15_h2: "Change.", t15_b1: "Stamm", t15_b2: "Variation", t15_i1: "lauf-", t15_i2: "lauf-en",
+  },
+  en: {
+    explorer_title: "Word construction kit",
+
+    // T1: Vorsilben (un-, miss-)
+    t1_title: "Build the opposite",
+    t1_text: "With prefixes like 'un-' or 'miss-' you can easily form the opposite of a word.",
+    t1_inst: "Do the opposite through pairs!",
+    t1_h1: "happy -> unhappy.", t1_h2: "Success -> Failure.",
+    t1_l1: "happy", t1_r1: "unhappy",
+    t1_l2: "faithful", t1_r2: "unfaithful",
+    t1_l3: "Success", t1_r3: "Failure",
+
+    // T2: Nachsilben -heit / -keit
+    t2_title: "Nouns from adjectives",
+    t2_text: "Adjectives become nouns when we add '-heit' or '-keit'. Attention: Then we write them in CAPITALS!",
+    t2_inst: "Which suffix fits here?",
+    t2_h1: "free -> freedom.", t2_h2: "lonely -> loneliness.",
+    t2_sent: "Free becomes the ___.",
+    t2_c1: "Freedom", t2_c2: "Freedom", t2_c3: "Release", t2_c4: "Free hit",
+
+    // T3: Adjektiv-Endungen (-bar, -lich)
+    t3_title: "Making adjectives",
+    t3_text: "With '-bar' or '-lich' we turn nouns or verbs into new adjectives.",
+    t3_inst: "Sort the adjectives into the correct bucket!",
+    t3_h1: "edible, drinkable -> you can do it.", t3_h2: "friendly, warm -> what someone is like.",
+    t3_b1: "-bar (feasible) 🍕", t3_b2: "-lich (characteristic) ❤️",
+    t3_i1: "edible", t3_i2: "drinkable", t3_i3: "warmly", t3_i4: "friendly",
+
+    // T4: Verben zu Nomen (Magnet)
+    t4_title: "From action to name",
+    t4_text: "Often the vowel changes when a verb becomes a noun.",
+    t4_inst: "Find the noun that matches the verb!",
+    t4_h1: "drive -> the ride.", t4_h2: "fly -> the flight.",
+    t4_ml1: "drive", t4_mr1: "the ride",
+    t4_ml2: "fly", t4_mr2: "the flight",
+    t4_ml3: "spray", t4_mr3: "the jump",
+
+    // T5: Komposita mit Fugen-s
+    t5_title: "Word connection (fugues)",
+    t5_text: "Sometimes two nouns need an 's' in the middle to stick together.",
+    t5_inst: "Build the compound word!",
+    t5_h1: "Birthday + child.", t5_h2: "Birthday child.",
+    t5_o1: "birthday", t5_o2: "s", t5_o3: "child",
+
+    // T6: Zer- vs Ver- (Slingshot)
+    t6_title: "Prefix power",
+    t6_text: "Prefixes change the meaning a lot. 'zer-' usually means 'broken'.",
+    t6_inst: "What words mean 'to destroy'?",
+    t6_h1: "Search for words with 'zer-'.", t6_h2: "break, tear apart.",
+    t6_q: "Which words mean destruction?",
+    t6_t1: "break", t6_t2: "tear up", t6_t3: "run", t6_t4: "cultivate",
+
+    // T7: Wortfamilien (Bucket)
+    t7_title: "The word family",
+    t7_text: "Words with the same root belong to a family.",
+    t7_inst: "Sort the words by their stem!",
+    t7_h1: "Dream, dream -> stem DREAM.", t7_h2: "Game, play -> trunk GAME.",
+    t7_b7_1: "Tribe: game- ⚽", t7_b7_2: "Tribe: dream- 💤",
+    t7_i7_1: "Player", t7_i7_2: "playing field", t7_i7_3: "dreamer", t7_i7_4: "fantastic",
+
+    // T8: Nominalisierung (Highlight)
+    t8_title: "Verbs become nouns",
+    t8_text: "If we put 'at', 'to' or 'that' in front of a verb, it becomes a noun.",
+    t8_inst: "Mark the capitalized noun-verb!",
+    t8_h1: "Search for the word directly after 'at'.", t8_h2: "while running.",
+    t8_w8_1: "I", t8_w8_2: "am", t8_w8_3: "at", t8_w8_4: "Run", t8_w8_5: "quickly",
+
+    // T9: Wort-Länge (Stacker)
+    t9_title: "Syllable stacker",
+    t9_text: "Arrange the words according to the number of building blocks they contain!",
+    t9_inst: "Stack from short to long!",
+    t9_h1: "House -> Front door -> Front door key.",
+    t9_sw1: "house", t9_sw2: "Front door", t9_sw3: "Front door key",
+    t10_title: "Be/de prefixes", t10_text: "More prefixes.", t10_inst: "Prefix?", t10_h1: "be-, de-.", t10_h2: "Making words.", t10_q: "Function?", t10_c1: "prefix", t10_c2: "suffix",
+    t11_title: "-ung, -nis suffixes", t11_text: "More suffixes.", t11_inst: "Suffix?", t11_h1: "-ung, -nis.", t11_h2: "Making nouns.", t11_q: "Type?", t11_c1: "suffix", t11_c2: "prefix",
+    t12_title: "Separate spelling", t12_text: "Space between words.", t12_inst: "Together or separate?", t12_h1: "Sometimes two words.", t12_h2: "Rules.", t12_b1: "Together", t12_b2: "Separate", t12_i1: "run in", t12_i2: "run there",
+    t13_title: "Compounds", t13_text: "Compound words.", t13_inst: "Compound?", t13_h1: "Table + cloth = tablecloth.", t13_h2: "Two words into one.", t13_q: "Correct?", t13_c1: "yes", t13_c2: "no",
+    t14_title: "Word pronunciation", t14_text: "How to pronounce.", t14_inst: "Order!", t14_h1: "Emphasis matters.", t14_h2: "Accent.", t14_o1: "About", t14_o2: "Set", t14_o3: "Ung", t14_o4: "",
+    t15_title: "Word variants", t15_text: "Same word, different forms.", t15_inst: "Variant?", t15_h1: "run - runs.", t15_h2: "Change.", t15_b1: "tribe", t15_b2: "Variation", t15_i1: "running", t15_i2: "run",
+  },
+  hu: {
+    explorer_title: "Szóépítő készlet",
+
+    // T1: Vorsilben (un-, miss-)
+    t1_title: "Építsd meg az ellenkezőjét",
+    t1_text: "Az olyan előtagokkal, mint az „un-” vagy a „miss-”, könnyen létrehozhatja a szó ellentétét.",
+    t1_inst: "Tedd az ellenkezőjét páron keresztül!",
+    t1_h1: "boldog -> boldogtalan.", t1_h2: "Siker -> Sikertelenség.",
+    t1_l1: "boldog", t1_r1: "boldogtalan",
+    t1_l2: "hűséges", t1_r2: "hűtlen",
+    t1_l3: "Siker", t1_r3: "Kudarc",
+
+    // T2: Nachsilben -heit / -keit
+    t2_title: "Főnevek melléknevekből",
+    t2_text: "A melléknevek főnevekké válnak, ha hozzáadjuk a „-heit” vagy „-keit” szót. Figyelem: Akkor NAGYBETŰVEL írjuk őket!",
+    t2_inst: "Melyik utótag illik ide?",
+    t2_h1: "szabad -> szabadság.", t2_h2: "magányos -> magány.",
+    t2_sent: "Az ingyenes ___ lesz.",
+    t2_c1: "Szabadság", t2_c2: "Szabadság", t2_c3: "Kiadás", t2_c4: "Ingyenes találat",
+
+    // T3: Adjektiv-Endungen (-bar, -lich)
+    t3_title: "Melléknevek készítése",
+    t3_text: "A „-bar” vagy „-lich” segítségével a főneveket vagy igéket új melléknevekké alakítjuk.",
+    t3_inst: "Rendezd a mellékneveket a megfelelő vödörbe!",
+    t3_h1: "ehető, iható -> meg tudod csinálni.", t3_h2: "barátságos, meleg -> milyen valaki.",
+    t3_b1: "-bár (megvalósítható) 🍕", t3_b2: "-lich (jellemző) ❤️",
+    t3_i1: "ehető", t3_i2: "iható", t3_i3: "melegen", t3_i4: "barátságos",
+
+    // T4: Verben zu Nomen (Magnet)
+    t4_title: "A cselekvéstől a névig",
+    t4_text: "A magánhangzó gyakran megváltozik, amikor egy ige főnévvé válik.",
+    t4_inst: "Keresd meg az igének megfelelő főnevet!",
+    t4_h1: "meghajtó -> az utazás.", t4_h2: "repül -> a repülés.",
+    t4_ml1: "meghajtó", t4_mr1: "az utazást",
+    t4_ml2: "légy", t4_mr2: "a repülés",
+    t4_ml3: "spray", t4_mr3: "az ugrás",
+
+    // T5: Komposita mit Fugen-s
+    t5_title: "Szókapcsolat (fúgák)",
+    t5_text: "Néha két főnévnek szüksége van egy „s”-re a közepén, hogy összetapadjon.",
+    t5_inst: "Építsd össze az összetett szót!",
+    t5_h1: "Születésnap + gyerek.", t5_h2: "Születésnapi gyerek.",
+    t5_o1: "születésnapját", t5_o2: "s", t5_o3: "gyerek",
+
+    // T6: Zer- vs Ver- (Slingshot)
+    t6_title: "Előtag teljesítménye",
+    t6_text: "Az előtagok nagyon megváltoztatják a jelentést. A „zer-” általában azt jelenti, hogy „törött”.",
+    t6_inst: "Milyen szavakat jelentenek „elpusztítani”?",
+    t6_h1: "Keressen szavakra a „zer-” karakterekkel.", t6_h2: "összetörni, szétszedni.",
+    t6_q: "Mely szavak jelentenek pusztulást?",
+    t6_t1: "szünet", t6_t2: "tépje fel", t6_t3: "futni", t6_t4: "művelni",
+
+    // T7: Wortfamilien (Bucket)
+    t7_title: "A család szó",
+    t7_text: "Az azonos gyökerű szavak egy családhoz tartoznak.",
+    t7_inst: "Rendezd a szavakat törzsük szerint!",
+    t7_h1: "Álom, álom -> sztem ÁLOM.", t7_h2: "Játék, játék -> trunk JÁTÉK.",
+    t7_b7_1: "Törzs: játék- ⚽", t7_b7_2: "Törzs: álom- 💤",
+    t7_i7_1: "Játékos", t7_i7_2: "játékteret", t7_i7_3: "álmodozó", t7_i7_4: "fantasztikus",
+
+    // T8: Nominalisierung (Highlight)
+    t8_title: "Az igék főnevekké válnak",
+    t8_text: "Ha egy ige elé tesszük az „at”, „to” vagy „that” szót, főnévvé válik.",
+    t8_inst: "Jelölje be a nagybetűs főnév-igét!",
+    t8_h1: "Keresse meg a szót közvetlenül az „at” után.", t8_h2: "futás közben.",
+    t8_w8_1: "I", t8_w8_2: "am", t8_w8_3: "at", t8_w8_4: "Fuss", t8_w8_5: "gyorsan",
+
+    // T9: Wort-Länge (Stacker)
+    t9_title: "Szótag rakodó",
+    t9_text: "Rendezd a szavakat a bennük lévő építőelemek száma szerint!",
+    t9_inst: "Halmozás rövidről hosszúra!",
+    t9_h1: "Ház -> Bejárati ajtó -> Bejárati ajtó kulcs.",
+    t9_sw1: "házat", t9_sw2: "Bejárati ajtó", t9_sw3: "Bejárati ajtó kulcs",
+    t10_title: "Be/de előtagok", t10_text: "További előtagok.", t10_inst: "Előtag?", t10_h1: "be-, de-.", t10_h2: "Szavak alkotása.", t10_q: "Funkció?", t10_c1: "előtag", t10_c2: "utótag",
+    t11_title: "-ung, -nis toldalékok", t11_text: "További utótagok.", t11_inst: "Utótag?", t11_h1: "-ung, -nis.", t11_h2: "Főnevek készítése.", t11_q: "típus?", t11_c1: "utótag", t11_c2: "előtag",
+    t12_title: "Külön helyesírás", t12_text: "Tér a szavak között.", t12_inst: "Együtt vagy külön?", t12_h1: "Néha két szó.", t12_h2: "Szabályok.", t12_b1: "Együtt", t12_b2: "Külön", t12_i1: "befutni", t12_i2: "fuss oda",
+    t13_title: "Vegyületek", t13_text: "Összetett szavak.", t13_inst: "Összetett?", t13_h1: "Asztal + kendő = terítő.", t13_h2: "Két szó egyben.", t13_q: "Helyes?", t13_c1: "igen", t13_c2: "nem",
+    t14_title: "Szó kiejtése", t14_text: "Hogyan kell kiejteni.", t14_inst: "Rendelés!", t14_h1: "A hangsúly számít.", t14_h2: "Hangsúly.", t14_o1: "Körülbelül", t14_o2: "Állítsa be", t14_o3: "Ung", t14_o4: "",
+    t15_title: "Szóváltozatok", t15_text: "Ugyanaz a szó, különböző formák.", t15_inst: "Változat?", t15_h1: "fut – fut.", t15_h2: "Változás.", t15_b1: "törzs", t15_b2: "Variáció", t15_i1: "futás", t15_i2: "fut",
+  },
+  ro: {
+    explorer_title: "Kit de construcție a cuvintelor",
+
+    // T1: Vorsilben (un-, miss-)
+    t1_title: "Construiește opusul",
+    t1_text: "Cu prefixe precum „un-” sau „miss-” puteți forma cu ușurință opusul unui cuvânt.",
+    t1_inst: "Faceți invers prin perechi!",
+    t1_h1: "fericit -> nefericit.", t1_h2: "Succes -> Eșec.",
+    t1_l1: "fericit", t1_r1: "nefericit",
+    t1_l2: "credincios", t1_r2: "infidel",
+    t1_l3: "Succes", t1_r3: "Eșec",
+
+    // T2: Nachsilben -heit / -keit
+    t2_title: "Substantive din adjective",
+    t2_text: "Adjectivele devin substantive atunci când adăugăm „-heit” sau „-keit”. Atentie: Atunci le scriem cu MAJUSCULE!",
+    t2_inst: "Care sufix se potrivește aici?",
+    t2_h1: "liber -> libertate.", t2_h2: "singuratic -> singurătate.",
+    t2_sent: "Liberul devine ___.",
+    t2_c1: "Libertatea", t2_c2: "Libertatea", t2_c3: "Eliberare", t2_c4: "Lovitură gratuită",
+
+    // T3: Adjektiv-Endungen (-bar, -lich)
+    t3_title: "Realizarea adjectivelor",
+    t3_text: "Cu „-bar” sau „-lich” transformăm substantivele sau verbele în adjective noi.",
+    t3_inst: "Sortați adjectivele în găleata corectă!",
+    t3_h1: "comestibil, potabil -> o poți face.", t3_h2: "prietenos, cald -> cum este cineva.",
+    t3_b1: "-bar (fezabil) 🍕", t3_b2: "-lich (caracteristic) ❤️",
+    t3_i1: "comestibil", t3_i2: "potabil", t3_i3: "cu căldură", t3_i4: "prietenos",
+
+    // T4: Verben zu Nomen (Magnet)
+    t4_title: "De la acțiune la nume",
+    t4_text: "Adesea, vocala se schimbă atunci când un verb devine substantiv.",
+    t4_inst: "Găsiți substantivul care se potrivește cu verbul!",
+    t4_h1: "conduce -> plimbare.", t4_h2: "zborul -> zborul.",
+    t4_ml1: "conduce", t4_mr1: "plimbarea",
+    t4_ml2: "zboară", t4_mr2: "zborul",
+    t4_ml3: "spray", t4_mr3: "saltul",
+
+    // T5: Komposita mit Fugen-s
+    t5_title: "Conexiune cu cuvinte (fugi)",
+    t5_text: "Uneori, două substantive au nevoie de un „s” în mijloc pentru a rămâne împreună.",
+    t5_inst: "Construiește cuvântul compus!",
+    t5_h1: "Ziua de nastere + copil.", t5_h2: "Copil de naștere.",
+    t5_o1: "ziua de nastere", t5_o2: "s", t5_o3: "copil",
+
+    // T6: Zer- vs Ver- (Slingshot)
+    t6_title: "Prefix putere",
+    t6_text: "Prefixele schimbă mult sensul. „zer-” înseamnă de obicei „rupt”.",
+    t6_inst: "Ce cuvinte înseamnă „a distruge”?",
+    t6_h1: "Căutați cuvinte cu „zer-”.", t6_h2: "rupe, rupe.",
+    t6_q: "Ce cuvinte înseamnă distrugere?",
+    t6_t1: "pauză", t6_t2: "lacrima", t6_t3: "alerga", t6_t4: "cultiva",
+
+    // T7: Wortfamilien (Bucket)
+    t7_title: "Cuvântul familie",
+    t7_text: "Cuvintele cu aceeași rădăcină aparțin unei familii.",
+    t7_inst: "Sortați cuvintele după tulpina lor!",
+    t7_h1: "Vis, vis -> stem DREAM.", t7_h2: "Joc, joacă -> portbagaj JOC.",
+    t7_b7_1: "Trib: joc- ⚽", t7_b7_2: "Trib: vis- 💤",
+    t7_i7_1: "Jucător", t7_i7_2: "teren de joc", t7_i7_3: "visător", t7_i7_4: "fantastic",
+
+    // T8: Nominalisierung (Highlight)
+    t8_title: "Verbele devin substantive",
+    t8_text: "Dacă punem „la”, „la” sau „că” în fața unui verb, acesta devine substantiv.",
+    t8_inst: "Marcați substantivul-verbul cu majuscule!",
+    t8_h1: "Căutați cuvântul direct după „la”.", t8_h2: "în timp ce alerga.",
+    t8_w8_1: "eu", t8_w8_2: "am", t8_w8_3: "la", t8_w8_4: "Fugi", t8_w8_5: "repede",
+
+    // T9: Wort-Länge (Stacker)
+    t9_title: "Stivuitor de silabe",
+    t9_text: "Aranjați cuvintele în funcție de numărul de blocuri pe care le conțin!",
+    t9_inst: "Stivuiți de la scurt la lung!",
+    t9_h1: "Casa -> Ușa din față -> Cheia ușii din față.",
+    t9_sw1: "casa", t9_sw2: "Ușa din față", t9_sw3: "Cheia ușii din față",
+    t10_title: "Be/de prefixe", t10_text: "Mai multe prefixe.", t10_inst: "Prefix?", t10_h1: "fi-, de-.", t10_h2: "Făcând cuvinte.", t10_q: "Funcţie?", t10_c1: "prefix", t10_c2: "sufix",
+    t11_title: "-ung, -nis sufixe", t11_text: "Mai multe sufixe.", t11_inst: "Sufix?", t11_h1: "-ung, -nis.", t11_h2: "Realizarea substantivelor.", t11_q: "Tip?", t11_c1: "sufix", t11_c2: "prefix",
+    t12_title: "Ortografie separată", t12_text: "Spațiul dintre cuvinte.", t12_inst: "Împreună sau separată?", t12_h1: "Uneori două cuvinte.", t12_h2: "Reguli.", t12_b1: "Împreună", t12_b2: "Separați", t12_i1: "alerga înăuntru", t12_i2: "alerga acolo",
+    t13_title: "Compuși", t13_text: "Cuvinte compuse.", t13_inst: "Compus?", t13_h1: "Masa + carpa = fata de masa.", t13_h2: "Două cuvinte într-una.", t13_q: "Corecta?", t13_c1: "da", t13_c2: "nu",
+    t14_title: "Pronunția cuvântului", t14_text: "Cum se pronunță.", t14_inst: "Comanda!", t14_h1: "Accentul contează.", t14_h2: "Accent.", t14_o1: "Despre", t14_o2: "Setați", t14_o3: "Ung", t14_o4: "",
+    t15_title: "Variante de cuvinte", t15_text: "Același cuvânt, forme diferite.", t15_inst: "Variantă?", t15_h1: "aleargă - aleargă.", t15_h2: "Schimba.", t15_b1: "trib", t15_b2: "Variatie", t15_i1: "alergând", t15_i2: "alerga",
   }
 };
 
@@ -1308,6 +3099,240 @@ export const ZEICHEN6_LABELS: Record<string, Record<string, string>> = {
     t13_title: "Klammer ()", t13_text: "Parentheses.", t13_inst: "Where?", t13_h1: "Extra info.", t13_h2: "(info).", t13_q: "Use?", t13_c1: "ja", t13_c2: "nein",
     t14_title: "Ausrufezeichen!", t14_text: "Exclamation.", t14_inst: "Order!", t14_h1: "Strong.", t14_h2: "!.", t14_o1: "Hurra", t14_o2: "!", t14_o3: "Ja", t14_o4: "",
     t15_title: "Semikolon Einsatz", t15_text: "Semicolon.", t15_inst: "Use?", t15_h1: "Between.", t15_h2: ";.", t15_b1: "Semikolon", t15_b2: "Komma", t15_i1: "A; B.", t15_i2: "A, B.",
+  },
+  en: {
+    explorer_title: "Period & comma professional",
+
+    // T1: Relativsatz-Komma
+    t1_title: "The relative clause check",
+    t1_text: "Relative clauses must be separated from the main clause by commas. They are often in the middle of a sentence!",
+    t1_inst: "Put the two commas correctly!",
+    t1_h1: "The sentence within the sentence: 'who plays there,'.", t1_h2: "Include two commas.",
+    t1_w1: "The dog", t1_w2: "who barks there", t1_w3: "is", t1_w4: "very sweet", t1_w5: ".",
+
+    // T2: Infinitivgruppen (um... zu)
+    t2_title: "Infinitive with comma",
+    t2_text: "Infinitive groups with 'um', 'without' vague 'instead of' usually need a comma.",
+    t2_inst: "Where does the comma go?",
+    t2_h1: "Find the place before 'at'.", t2_h2: "I'm learning to...",
+    t2_sent: "He trains hard ___ to win.",
+    t2_c1: ",", t2_c2: ";", t2_c3: ":", t2_c4: "!",
+
+    // T3: Appositionen (Beifügungen)
+    t3_title: "Additional information (apposition)",
+    t3_text: "An apposition is a more detailed explanation of a noun. It is enclosed in commas.",
+    t3_inst: "Mark the apposition (the additional information)!",
+    t3_h1: "Who is Mr. Müller?", t3_h2: "our math teacher.",
+    t3_w3_1: "Mr. Müller", t3_w3_2: "our math teacher", t3_w3_3: "is", t3_w3_4: "today", t3_w3_5: "sick",
+
+    // T4: Anrede & Ausrufe
+    t4_title: "Salutation-Vessző",
+    t4_text: "When we address someone directly, we use a comma.",
+    t4_inst: "Where does the comma have to be in the salutation?",
+    t4_h1: "After the name 'Luke'.", t4_h2: "Luke, are you coming?",
+    t4_sent_a: "Lukas ___ help me please!",
+    t4_ca1: ",", t4_ca2: "!", t4_ca3: "?", t4_ca4: ".",
+
+    // T5: Eingeschobener Begleitsatz
+    t5_title: "Speech interrupted",
+    t5_text: "If the accompanying sentence is in the middle of the speech, we need a lot of commas.",
+    t5_inst: "Reassemble the interrupted speech!",
+    t5_h1: "“I’m coming,” he said, “immediately.”", t5_h2: "Don't forget the quotation marks.",
+    t5_f5_1: "“I’m coming,”", t5_f5_2: "he said,", t5_f5_3: "\"immediately.\"",
+
+    // T6: Slingshot: Komma-Profi
+    t6_title: "Vessző-Vadasz",
+    t6_text: "Only make sentences in which all the commas are correctly placed!",
+    t6_inst: "Shoot for the right sentences!",
+    t6_h1: "Pay attention to appositions and relative clauses.", t6_h2: "Vessző przed 'because' és 'that'.",
+    t6_q: "Which sentence is correct?",
+    t6_t1: "Leo, my friend, is coming.", t6_t2: "I'm leaving because I'm tired.", t6_t3: "I'm glad you're here.", t6_t4: "He comes because he has time. (wrong)",
+
+    // T7: Bucket: Wo ist das Komma?
+    t7_title: "Comma reasons",
+    t7_text: "Why do we put a comma here? Enumeration vague subordinate clause?",
+    t7_inst: "Sort the sentences according to the comma reason!",
+    t7_h1: "A, B, C = list. I know that... = subordinate clause.",
+    t7_b1: "Enumeration 🍎", t7_b2: "Subordinate clause 🔗",
+    t7_i1: "Ice cream, fruit and tea", t7_i2: "I hope that...", t7_i3: "Dogs, cats, mice", t7_i4: "He laughs because...",
+
+    // T8: Semikolon vs. Komma
+    t8_title: "Semicolon vague comma?",
+    t8_text: "The semicolon connects two completed sentences more closely than a period.",
+    t8_inst: "Connect the sentences with the correct symbol!",
+    t8_h1: "Semicolon in two main clauses.", t8_h2: "It's raining outside; we stay inside.",
+    t8_l1: "It's raining", t8_r1: "; we stay inside.",
+    t8_l2: "I like apples", t8_r2: ", pears and bananas.",
+    t8_l3: "He says", t8_r3: ": \"Hello!\"",
+
+    // T9: Satzzeichen-Power (Stacker)
+    t9_title: "Strength Torony",
+    t9_text: "Stack the punctuation marks according to their separating power (from weak to strong)!",
+    t9_inst: "Stack the characters!",
+    t9_h1: "Comma -> semicolon -> period.",
+    t9_sw1: "comma (,)", t9_sw2: "semicolon (;)", t9_sw3: "point (.)",
+    t10_title: "Hyphen rules", t10_text: "Hyphae usage.", t10_inst: "Hyphae here?", t10_h1: "Hyphen.", t10_h2: "Compound.", t10_q: "Use?", t10_c1: "yes", t10_c2: "no",
+    t11_title: "Indent", t11_text: "Em dash.", t11_inst: "Where?", t11_h1: "Break.", t11_h2: "Pause.", t11_q: "Use?", t11_c1: "break", t11_c2: "list",
+    t12_title: "Ellipse...rules", t12_text: "Three dots.", t12_inst: "Ellipse?", t12_h1: "Unfinished.", t12_h2: "...", t12_b1: "Ellipse", t12_b2: "period", t12_i1: "And then...", t12_i2: "Then.",
+    t13_title: "bracket ()", t13_text: "Parentheses.", t13_inst: "Where?", t13_h1: "Extra info.", t13_h2: "(info).", t13_q: "Use?", t13_c1: "yes", t13_c2: "no",
+    t14_title: "Exclamation mark!", t14_text: "Exclamation.", t14_inst: "Order!", t14_h1: "Strong.", t14_h2: "!.", t14_o1: "Hurrah", t14_o2: "!", t14_o3: "Yes", t14_o4: "",
+    t15_title: "Semicolon insert", t15_text: "Semicolon.", t15_inst: "Use?", t15_h1: "Between.", t15_h2: ";.", t15_b1: "Semicolon", t15_b2: "Comma", t15_i1: "A; b.", t15_i2: "AWAY.",
+  },
+  hu: {
+    explorer_title: "Pont és vessző szakmai",
+
+    // T1: Relativsatz-Komma
+    t1_title: "A relatív záradék ellenőrzése",
+    t1_text: "A relatív tagmondatokat vesszővel kell elválasztani a főmondattól. Gyakran egy mondat közepén vannak!",
+    t1_inst: "Tedd helyesen a két vesszőt!",
+    t1_h1: "A mondat a mondaton belül: 'ki játszik ott,'.", t1_h2: "Tegyen bele két vesszőt.",
+    t1_w1: "A kutya", t1_w2: "aki ott ugat", t1_w3: "van", t1_w4: "nagyon édes", t1_w5: ".",
+
+    // T2: Infinitivgruppen (um... zu)
+    t2_title: "Infinitivus vesszővel",
+    t2_text: "Az 'um'-t, 'nélkül' homályos 'helyett'-t tartalmazó infinitív csoportokhoz általában vessző kell.",
+    t2_inst: "Hova kerül a vessző?",
+    t2_h1: "Keresse meg az „at” előtti helyet.", t2_h2: "tanulok, hogy...",
+    t2_sent: "Keményen edz ___, hogy nyerjen.",
+    t2_c1: ",", t2_c2: ";", t2_c3: ":", t2_c4: "!",
+
+    // T3: Appositionen (Beifügungen)
+    t3_title: "További információ (felszólalás)",
+    t3_text: "Az appozíció egy főnév részletesebb magyarázata. Vesszőbe van zárva.",
+    t3_inst: "Jelölje be a hozzászólást (a kiegészítő információkat)!",
+    t3_h1: "Ki az a Müller úr?", t3_h2: "matektanárunk.",
+    t3_w3_1: "Müller úr", t3_w3_2: "matektanárunk", t3_w3_3: "van", t3_w3_4: "ma", t3_w3_5: "beteg",
+
+    // T4: Anrede & Ausrufe
+    t4_title: "Üdvözlet-Vessző",
+    t4_text: "Amikor közvetlenül megszólítunk valakit, vesszőt használunk.",
+    t4_inst: "Hol kell a vesszőnek lennie a köszöntésben?",
+    t4_h1: "A „Luke” név után.", t4_h2: "Luke, jössz?",
+    t4_sent_a: "Lukas ___ segíts kérlek!",
+    t4_ca1: ",", t4_ca2: "!", t4_ca3: "?", t4_ca4: ".",
+
+    // T5: Eingeschobener Begleitsatz
+    t5_title: "A beszéd megszakadt",
+    t5_text: "Ha a kísérő mondat a beszéd közepén van, akkor sok vessző kell.",
+    t5_inst: "Állítsd össze újra a megszakított beszédet!",
+    t5_h1: "– Azonnal jövök – mondta.", t5_h2: "Ne felejtsd el az idézőjeleket.",
+    t5_f5_1: "\"Jövök,\"", t5_f5_2: "azt mondta,", t5_f5_3: "\"azonnal.\"",
+
+    // T6: Slingshot: Komma-Profi
+    t6_title: "Vessző-Vadasz",
+    t6_text: "Csak olyan mondatokat alkosson, amelyekben minden vessző helyesen van elhelyezve!",
+    t6_inst: "Lődd le a megfelelő mondatokat!",
+    t6_h1: "Ügyeljen az appozíciókra és a relatív kitételekre.", t6_h2: "Vessző przed 'mert' és 'hat'.",
+    t6_q: "Melyik mondat a helyes?",
+    t6_t1: "Leo, barátom, jön.", t6_t2: "Elmegyek, mert fáradt vagyok.", t6_t3: "Örülök, hogy itt vagy.", t6_t4: "Azért jön, mert van ideje. (rossz)",
+
+    // T7: Bucket: Wo ist das Komma?
+    t7_title: "Vessző okok",
+    t7_text: "Miért teszünk ide vesszőt? Felsorolás homályos alárendelő mondat?",
+    t7_inst: "Rendezd a mondatokat vesszős ok szerint!",
+    t7_h1: "A, B, C = lista. Tudom, hogy... = alárendelő mondat.",
+    t7_b1: "Felsorolás 🍎", t7_b2: "Alárendelt kitétel 🔗",
+    t7_i1: "Fagylalt, gyümölcs és tea", t7_i2: "Remélem, hogy...", t7_i3: "Kutyák, macskák, egerek", t7_i4: "Nevet, mert...",
+
+    // T8: Semikolon vs. Komma
+    t8_title: "Pontosvessző homályos vessző?",
+    t8_text: "A pontosvessző szorosabban köt össze két befejezett mondatot, mint egy pont.",
+    t8_inst: "Kösd össze a mondatokat a megfelelő jellel!",
+    t8_h1: "Pontosvessző két fő tagmondatban.", t8_h2: "Kint esik az eső; bent maradunk.",
+    t8_l1: "Esik az eső", t8_r1: "; bent maradunk.",
+    t8_l2: "szeretem az almát", t8_r2: ", körte és banán.",
+    t8_l3: "Azt mondja", t8_r3: ": \"Sziasztok!\"",
+
+    // T9: Satzzeichen-Power (Stacker)
+    t9_title: "Erő Torony",
+    t9_text: "Rakd egymásra az írásjeleket elválasztó erejük szerint (gyengetől erősig)!",
+    t9_inst: "Rakd össze a karaktereket!",
+    t9_h1: "Vessző -> pontosvessző -> pont.",
+    t9_sw1: "vessző (,)", t9_sw2: "pontosvessző (;)", t9_sw3: "pont (.)",
+    t10_title: "Kötőjel szabályok", t10_text: "Hifák használata.", t10_inst: "Hyphae itt?", t10_h1: "Kötőjel.", t10_h2: "Összetett.", t10_q: "Használat?", t10_c1: "igen", t10_c2: "nem",
+    t11_title: "Behúzás", t11_text: "Em kötőjel.", t11_inst: "Ahol?", t11_h1: "Szünet.", t11_h2: "Szünet.", t11_q: "Használat?", t11_c1: "szünet", t11_c2: "listát",
+    t12_title: "Ellipszis...szabályok", t12_text: "Három pont.", t12_inst: "Ellipszis?", t12_h1: "Befejezetlen.", t12_h2: "...", t12_b1: "Ellipszis", t12_b2: "időszak", t12_i1: "És akkor...", t12_i2: "Majd.",
+    t13_title: "zárójel ()", t13_text: "Zárójelek.", t13_inst: "Ahol?", t13_h1: "Extra info.", t13_h2: "(infó).", t13_q: "Használat?", t13_c1: "igen", t13_c2: "nem",
+    t14_title: "Felkiáltójel!", t14_text: "Felkiáltás.", t14_inst: "Rendelés!", t14_h1: "Erős.", t14_h2: "!", t14_o1: "Hurrá", t14_o2: "!", t14_o3: "Igen", t14_o4: "",
+    t15_title: "Pontosvessző betét", t15_text: "Pontosvessző.", t15_inst: "Használat?", t15_h1: "Között.", t15_h2: ";.", t15_b1: "Pontosvessző", t15_b2: "Vessző", t15_i1: "A; b.", t15_i2: "EL.",
+  },
+  ro: {
+    explorer_title: "Profesionist punct și virgulă",
+
+    // T1: Relativsatz-Komma
+    t1_title: "Verificarea clauzei relative",
+    t1_text: "Propozițiile relative trebuie separate de propoziția principală prin virgule. Sunt adesea la mijlocul unei propoziții!",
+    t1_inst: "Pune corect cele două virgule!",
+    t1_h1: "Propoziția din propoziție: „cine joacă acolo,”.", t1_h2: "Includeți două virgule.",
+    t1_w1: "Câinele", t1_w2: "care latră acolo", t1_w3: "este", t1_w4: "foarte dulce", t1_w5: ".",
+
+    // T2: Infinitivgruppen (um... zu)
+    t2_title: "Infinitiv cu virgulă",
+    t2_text: "Grupurile infinitive cu „um”, „fără” vag „în loc de” au nevoie de obicei de o virgulă.",
+    t2_inst: "Unde se duce virgula?",
+    t2_h1: "Găsiți locul înainte de „la”.", t2_h2: "eu invat sa...",
+    t2_sent: "Se antrenează din greu ___ pentru a câștiga.",
+    t2_c1: ",", t2_c2: ";", t2_c3: ":", t2_c4: "!",
+
+    // T3: Appositionen (Beifügungen)
+    t3_title: "Informații suplimentare (apoziție)",
+    t3_text: "O apoziție este o explicație mai detaliată a unui substantiv. Este cuprins între virgule.",
+    t3_inst: "Marcați apoziția (informațiile suplimentare)!",
+    t3_h1: "Cine este domnul Müller?", t3_h2: "profesorul nostru de matematică.",
+    t3_w3_1: "domnule Müller", t3_w3_2: "profesorul nostru de matematică", t3_w3_3: "este", t3_w3_4: "azi", t3_w3_5: "bolnavi",
+
+    // T4: Anrede & Ausrufe
+    t4_title: "Salutare-Vessző",
+    t4_text: "Când ne adresăm direct cuiva, folosim virgulă.",
+    t4_inst: "Unde trebuie să fie virgula în salut?",
+    t4_h1: "După numele „Luke”.", t4_h2: "Luke, vii?",
+    t4_sent_a: "Lukas ___ ajuta-ma te rog!",
+    t4_ca1: ",", t4_ca2: "!", t4_ca3: "?", t4_ca4: ".",
+
+    // T5: Eingeschobener Begleitsatz
+    t5_title: "Discurs întrerupt",
+    t5_text: "Dacă propoziția însoțitoare este în mijlocul discursului, avem nevoie de multe virgule.",
+    t5_inst: "Reasamblați discursul întrerupt!",
+    t5_h1: "„Vin,” a spus el, „imediat”.", t5_h2: "Nu uitați de ghilimele.",
+    t5_f5_1: "„Vin,”", t5_f5_2: "el a spus,", t5_f5_3: "\"imediat.\"",
+
+    // T6: Slingshot: Komma-Profi
+    t6_title: "Vessző-Vadasz",
+    t6_text: "Faceți doar propoziții în care toate virgulele sunt corect plasate!",
+    t6_inst: "Trage pentru propozițiile potrivite!",
+    t6_h1: "Acordați atenție apozițiilor și propozițiilor relative.", t6_h2: "Vessző przed „pentru că” este „că”.",
+    t6_q: "Care propoziție este corectă?",
+    t6_t1: "Leo, prietenul meu, vine.", t6_t2: "Plec pentru că sunt obosit.", t6_t3: "Mă bucur că ești aici.", t6_t4: "Vine pentru că are timp. (gresit)",
+
+    // T7: Bucket: Wo ist das Komma?
+    t7_title: "Motive prin virgulă",
+    t7_text: "De ce punem virgulă aici? Propoziție subordonată vagă de enumerare?",
+    t7_inst: "Sortați propozițiile după motivul virgulei!",
+    t7_h1: "A, B, C = lista. Știu că... = propoziție subordonată.",
+    t7_b1: "Enumerare 🍎", t7_b2: "Propoziție subordonată 🔗",
+    t7_i1: "Înghețată, fructe și ceai", t7_i2: "sper ca...", t7_i3: "Câini, pisici, șoareci", t7_i4: "El râde pentru că...",
+
+    // T8: Semikolon vs. Komma
+    t8_title: "Punct virgulă virgulă vagă?",
+    t8_text: "Punctul și virgulă leagă două propoziții completate mai strâns decât un punct.",
+    t8_inst: "Conectați propozițiile cu simbolul corect!",
+    t8_h1: "Punct virgulă în două propoziții principale.", t8_h2: "Afară plouă; stăm înăuntru.",
+    t8_l1: "Plouă", t8_r1: "; stăm înăuntru.",
+    t8_l2: "Îmi plac merele", t8_r2: ", pere și banane.",
+    t8_l3: "spune el", t8_r3: ": \"Buna ziua!\"",
+
+    // T9: Satzzeichen-Power (Stacker)
+    t9_title: "Puterea Torony",
+    t9_text: "Stivuiți semnele de punctuație în funcție de puterea lor de separare (de la slab la puternic)!",
+    t9_inst: "Stivuiți personajele!",
+    t9_h1: "Virgulă -> punct și virgulă -> punct.",
+    t9_sw1: "virgula (,)", t9_sw2: "punct și virgulă (;)", t9_sw3: "punctul (.)",
+    t10_title: "Reguli pentru cratime", t10_text: "Utilizarea hifelor.", t10_inst: "Hife aici?", t10_h1: "Cratimă.", t10_h2: "Compus.", t10_q: "Utilizare?", t10_c1: "da", t10_c2: "nu",
+    t11_title: "indentare", t11_text: "Em liniuță.", t11_inst: "Unde?", t11_h1: "Pauză.", t11_h2: "Pauză.", t11_q: "Utilizare?", t11_c1: "pauză", t11_c2: "lista",
+    t12_title: "Elipsa...reguli", t12_text: "Trei puncte.", t12_inst: "Elipsă?", t12_h1: "Neterminat.", t12_h2: "...", t12_b1: "Elipsa", t12_b2: "perioada", t12_i1: "Și apoi...", t12_i2: "Apoi.",
+    t13_title: "paranteză ()", t13_text: "Paranteze.", t13_inst: "Unde?", t13_h1: "Informații suplimentare.", t13_h2: "(informații).", t13_q: "Utilizare?", t13_c1: "da", t13_c2: "nu",
+    t14_title: "Semnul exclamării!", t14_text: "Exclamare.", t14_inst: "Comanda!", t14_h1: "Puternic.", t14_h2: "!.", t14_o1: "Ura", t14_o2: "!", t14_o3: "Da", t14_o4: "",
+    t15_title: "Inserare punct și virgulă", t15_text: "Punct şi virgulă.", t15_inst: "Utilizare?", t15_h1: "Între.", t15_h2: ";.", t15_b1: "punct și virgulă", t15_b2: "virgulă", t15_i1: "O; b.", t15_i2: "DEPARTE.",
   }
 };
 
@@ -1478,6 +3503,303 @@ export const EXAM6_LABELS: Record<string, Record<string, string>> = {
     t15_sent: "Das ist die Erde, ___ sich dreht.",
     t15_cr1: "der", t15_cr2: "die", t15_cr3: "das", t15_cr4: "den",
     t15_q: "Welches Relativpronomen passt zu 'die Erde'?", t15_c1: "der", t15_c2: "das", t15_c3: "den", t15_c4: "die",
+  },
+  en: {
+    explorer_title: "Big K6 final exam",
+
+    // T1: Aktiv vs Passiv (Two Groups)
+    t1_title: "Active-passive finale",
+    t1_text: "Can you distinguish the perpetrator (active) from the action (passive)?",
+    t1_inst: "Sort the sentences according to their form!",
+    t1_h1: "Active: He does. Passive: It will be done.",
+    t1_h2: "Pay attention to 'will' or 'is' + participle II.",
+    t1_b1: "Active 🏃", t1_b2: "Passive 📦",
+    t1_i1: "The cook prepares the food.", t1_i2: "The food is being prepared.",
+
+    // T2: Konjunktiv II (Slingshot)
+    t2_title: "Wish Slingshot",
+    t2_text: "Dreams and wishes: Recognize the subjunctive II forms (had, would, would).",
+    t2_inst: "Just shoot for the dreams!",
+    t2_h1: "Search for umlauts (ä) or 'would'.",
+    t2_h2: "would have, would, could, would.",
+    t2_q: "Which words are in the subjunctive II?",
+    t2_t1: "would have", t2_t2: "would be", t2_t3: "has", t2_t4: "is",
+
+    // T3: Infinitiv mit zu (Sentence Build)
+    t3_title: "Infinitive master",
+    t3_text: "Connect the sentences with 'to... to' correctly.",
+    t3_inst: "Assemble the target sentence!",
+    t3_h1: "I study (HS) to get good grades.",
+    t3_h2: "at + ... + to + infinitive.",
+    t3_f3_1: "He trains,", t3_f3_2: "around", t3_f3_3: "the final", t3_f3_4: "to win.",
+
+    // T4: Synonym-Intensität (Stacker)
+    t4_title: "Word Stairs K6",
+    t4_text: "Arrange the synonyms according to their strength (from weak to strong).",
+    t4_inst: "Stack the words correctly!",
+    t4_h1: "smile -> laugh -> shout.",
+    t4_sw1: "smile", t4_sw2: "laugh", t4_sw3: "roar",
+
+    // T5: Fremdwörter ph/th (Highlight)
+    t5_title: "Foreign word detective",
+    t5_text: "Recognize the correctly spelled Greek foreign words.",
+    t5_inst: "Mark the word with ph!",
+    t5_h1: "Philosophy is written with ph.",
+    t5_h2: "Open your eyes to Ph/Th/Rh.",
+    t5_w5_1: "This", t5_w5_2: "Alphabet", t5_w5_3: "is", t5_w5_4: "very", t5_w5_5: "long",
+
+    // T6: Relativsatz (Article Noun SVG)
+    t6_title: "Relative bridge professional",
+    t6_text: "Choose the appropriate relative pronoun for the noun.",
+    t6_inst: "Which word begins the relative clause?",
+    t6_h1: "The child (neuter) -> that.",
+    t6_h2: "Caution: that (pronoun), not that (connective).",
+    t6_sent_r: "This is the child ___ I saw yesterday.",
+    t6_cr1: "that", t6_cr2: "that", t6_cr3: "the", t6_cr4: "the",
+
+    // T7: Wortbildung heit/keit (Bucket)
+    t7_title: "Ending bucket",
+    t7_text: "Which noun ending goes with which adjective?",
+    t7_inst: "Sort the words into the buckets!",
+    t7_h1: "Freedom, nausea.",
+    t7_b7_1: "-ness 🏗️", t7_b7_2: "-ness 🏗️",
+    t7_i7_1: "Free", t7_i7_2: "Dark", t7_i7_3: "Lonely", t7_i7_4: "Polite",
+
+    // T8: Zeichensetzung Apposition (Sentence Flow)
+    t8_title: "Additional info comma",
+    t8_text: "Appositions (explanations) need insertion commas.",
+    t8_inst: "Which punctuation marks are missing here?",
+    t8_h1: "Luke (comma) my friend (comma) is coming.",
+    t8_sent_f: "Lukas ___ my best friend ___ helps me.",
+    t8_cf1: ",", t8_cf2: "-", t8_cf3: ":", t8_cf4: ";",
+
+    // T9: Antonyme (Magnet)
+    t9_title: "Opposite finale",
+    t9_text: "Find the perfect counterparts (antonyms)!",
+    t9_inst: "Put the opposites together!",
+    t9_h1: "Predecessor -> Successor.",
+    t9_ml9: "predecessor", t9_mr9: "successor",
+    t9_ml10: "Active", t9_mr10: "Passive",
+    t9_ml11: "Reality", t9_mr11: "desire",
+    t10_title: "Active-passive repetition", t10_text: "Sort the sentences into active and passive.", t10_inst: "Draw into the correct bucket!", t10_h1: "Active: Someone is doing something.", t10_h2: "Passive: Something is happening (will...).",
+    t10_b1: "Active 🏃", t10_b2: "Passive 📦",
+    t10_i1: "The student solves the task.", t10_i2: "The task is solved.",
+    t10_q: "What is passive voice?", t10_c1: "will + participle II", t10_c2: "Subject + verb", t10_c3: "only infinitive", t10_c4: "have + participle II",
+    t11_title: "Subjunctive II Recognize", t11_text: "Meet the subjunctive II forms!", t11_inst: "Shoot the subjunctive II words!", t11_h1: "Wishes and unreal: would be, would have, would.", t11_h2: "Indicative: has, is – subjunctive: would have, would.",
+    t11_q: "Which words are in the subjunctive II?",
+    t11_t1: "would", t11_t2: "could", t11_t3: "has", t11_t4: "makes",
+    t11_c1: "would", t11_c2: "could", t11_c3: "has", t11_c4: "makes",
+    t12_title: "Final sentence with so", t12_text: "Connect the main sentence and goal with 'so'.", t12_inst: "Put the parts of the sentence in the correct order!", t12_h1: "I study so I can get good grades.", t12_h2: "'so' introduces the final sentence.",
+    t12_f1: "I practice", t12_f2: "with that", t12_f3: "I better", t12_f4: "become.",
+    t12_q: "What introduces a final sentence?", t12_c1: "with that", t12_c2: "because", t12_c3: "although", t12_c4: "if",
+    t13_title: "Synonyms by strength", t13_text: "Order the words from weak to strong.", t13_inst: "Stack the synonyms in the correct order!", t13_h1: "smile → laugh → roar.", t13_h2: "Pay attention to the intensity.",
+    t13_w1: "smile", t13_w2: "laugh", t13_w3: "roar",
+    t13_q: "Which word is the most intense?", t13_c1: "smile", t13_c2: "laugh", t13_c3: "roar", t13_c4: "silent",
+    t14_title: "Foreign words with qu", t14_text: "Recognize the word with the Latin spelling.", t14_inst: "Mark the foreign word with 'qu'!", t14_h1: "Quality is written with qu.", t14_h2: "Search for qu, not kw.",
+    t14_w1: "This", t14_w2: "Result", t14_w3: "has", t14_w4: "high", t14_w5: "Quality.",
+    t14_q: "Which spelling is correct?", t14_c1: "Quality", t14_c2: "Quality", t14_c3: "Qualityet", t14_c4: "Quality",
+    t15_title: "Relative clause with the", t15_text: "Choose the appropriate relative pronoun for a feminine noun.", t15_inst: "Complete the relative pronoun!", t15_h1: "The earth (feminine) → the.", t15_h2: "'die' as a relative pronoun comes after feminine nouns.",
+    t15_sent: "This is the earth ___ rotating.",
+    t15_cr1: "the", t15_cr2: "the", t15_cr3: "that", t15_cr4: "the",
+    t15_q: "Which relative pronoun goes with 'the earth'?", t15_c1: "the", t15_c2: "that", t15_c3: "the", t15_c4: "the",
+  },
+  hu: {
+    explorer_title: "Nagy K6 záróvizsga",
+
+    // T1: Aktiv vs Passiv (Two Groups)
+    t1_title: "Aktív-passzív finálé",
+    t1_text: "Meg tudja különböztetni az elkövetőt (aktív) a cselekvőtől (passzív)?",
+    t1_inst: "Rendezd a mondatokat formájuk szerint!",
+    t1_h1: "Aktív: Igen. Passzív: Meglesz.",
+    t1_h2: "Ügyeljen a 'akarat' vagy 'van' + igenév II.",
+    t1_b1: "Aktív 🏃", t1_b2: "Passzív 📦",
+    t1_i1: "A szakács elkészíti az ételt.", t1_i2: "Az étel készül.",
+
+    // T2: Konjunktiv II (Slingshot)
+    t2_title: "Wish Slingshot",
+    t2_text: "Álmok és kívánságok: Ismerje fel a II. szubjunktív formákat (volna, lenne, lenne).",
+    t2_inst: "Csak lőj az álmokért!",
+    t2_h1: "Keressen rá az umlautokra (ä) vagy a „would” kifejezésre.",
+    t2_h2: "volna, lenne, lenne, lenne.",
+    t2_q: "Mely szavak vannak a II. kötőszóban?",
+    t2_t1: "volna", t2_t2: "lenne", t2_t3: "rendelkezik", t2_t4: "van",
+
+    // T3: Infinitiv mit zu (Sentence Build)
+    t3_title: "Infinitív mester",
+    t3_text: "Kösd helyesen a mondatokat a 'to... to'-val.",
+    t3_inst: "Állítsd össze a célmondatot!",
+    t3_h1: "Azért tanulok (HS), hogy jó jegyeket kapjak.",
+    t3_h2: "a + ... + -ból + infinitivusba.",
+    t3_f3_1: "Ő edz,", t3_f3_2: "körül", t3_f3_3: "a döntő", t3_f3_4: "nyerni.",
+
+    // T4: Synonym-Intensität (Stacker)
+    t4_title: "Word Stairs K6",
+    t4_text: "Rendezd a szinonimákat erősségük szerint (gyengetől erősig).",
+    t4_inst: "Helyezze egymásra a szavakat!",
+    t4_h1: "mosolyog -> nevet -> kiabál.",
+    t4_sw1: "mosolyogni", t4_sw2: "nevetni", t4_sw3: "ordít",
+
+    // T5: Fremdwörter ph/th (Highlight)
+    t5_title: "Idegen szó detektív",
+    t5_text: "Ismerje fel a helyesen írt görög idegen szavakat.",
+    t5_inst: "Jelölje a szót ph-val!",
+    t5_h1: "A filozófia ph-val van írva.",
+    t5_h2: "Nyissa ki a szemét a Ph/Th/Rh felé.",
+    t5_w5_1: "Ezt", t5_w5_2: "Ábécé", t5_w5_3: "van", t5_w5_4: "nagyon", t5_w5_5: "hosszú",
+
+    // T6: Relativsatz (Article Noun SVG)
+    t6_title: "Relatív bridzs szakember",
+    t6_text: "Válassza ki a megfelelő relatív névmást a főnévhez.",
+    t6_inst: "Melyik szó kezdődik a relatív záradékkal?",
+    t6_h1: "A gyerek (ivartalan) -> az.",
+    t6_h2: "Vigyázat: az (névmás), nem az (összekötő).",
+    t6_sent_r: "Ez a gyerek ___, akit tegnap láttam.",
+    t6_cr1: "hogy", t6_cr2: "hogy", t6_cr3: "a", t6_cr4: "a",
+
+    // T7: Wortbildung heit/keit (Bucket)
+    t7_title: "Befejező vödör",
+    t7_text: "Melyik főnévvég melyik melléknévvel illik?",
+    t7_inst: "Rendezd a szavakat vödörbe!",
+    t7_h1: "Szabadság, hányinger.",
+    t7_b7_1: "-ness 🏗️", t7_b7_2: "-ness 🏗️",
+    t7_i7_1: "Ingyenes", t7_i7_2: "Sötét", t7_i7_3: "Magányos", t7_i7_4: "Udvarias",
+
+    // T8: Zeichensetzung Apposition (Sentence Flow)
+    t8_title: "További információ vessző",
+    t8_text: "Az állításokhoz (magyarázatokhoz) vessző szükséges.",
+    t8_inst: "Mely írásjelek hiányoznak innen?",
+    t8_h1: "Luke (vessző) jön a barátom (vessző).",
+    t8_sent_f: "Lukas ___ a legjobb barátom ___ segít nekem.",
+    t8_cf1: ",", t8_cf2: "-", t8_cf3: ":", t8_cf4: ";",
+
+    // T9: Antonyme (Magnet)
+    t9_title: "Ellentétes finálé",
+    t9_text: "Találd meg a tökéletes megfelelőket (antonimákat)!",
+    t9_inst: "Rakd össze az ellentéteket!",
+    t9_h1: "Előd -> Utód.",
+    t9_ml9: "elődje", t9_mr9: "utódja",
+    t9_ml10: "Aktív", t9_mr10: "Passzív",
+    t9_ml11: "Valóság", t9_mr11: "vágy",
+    t10_title: "Aktív-passzív ismétlés", t10_text: "Rendezze a mondatokat aktívra és passzívra!", t10_inst: "Rajzolj a megfelelő vödörbe!", t10_h1: "Aktív: Valaki csinál valamit.", t10_h2: "Passzív: Valami történik (lesz...).",
+    t10_b1: "Aktív 🏃", t10_b2: "Passzív 📦",
+    t10_i1: "A tanuló megoldja a feladatot.", t10_i2: "A feladat megoldva.",
+    t10_q: "Mi az a passzív hang?", t10_c1: "akarat + igenév II", t10_c2: "Tárgy + ige", t10_c3: "csak infinitivus", t10_c4: "van + igenév II",
+    t11_title: "Szubjunktív II Felismerni", t11_text: "Ismerje meg a kötőszó II formákat!", t11_inst: "Lődd le a kötőszót II!", t11_h1: "Kívánságok és valótlan: lenne, volna, lenne.", t11_h2: "Jelző: rendelkezik, van – kötőszó: volna, lenne.",
+    t11_q: "Mely szavak vannak a II. kötőszóban?",
+    t11_t1: "lenne", t11_t2: "lehetne", t11_t3: "rendelkezik", t11_t4: "teszi",
+    t11_c1: "lenne", t11_c2: "lehetne", t11_c3: "rendelkezik", t11_c4: "teszi",
+    t12_title: "Utolsó mondat így", t12_text: "Kösd össze a főmondatot és a célt az „úgy” szóval.", t12_inst: "Tedd megfelelő sorrendbe a mondatrészeket!", t12_h1: "Azért tanulok, hogy jó jegyeket kapjak.", t12_h2: "Az „így” bevezeti az utolsó mondatot.",
+    t12_f1: "gyakorlom", t12_f2: "azzal", t12_f3: "én jobban", t12_f4: "válik.",
+    t12_q: "Mi vezet be egy utolsó mondatot?", t12_c1: "azzal", t12_c2: "mert", t12_c3: "bár", t12_c4: "ha",
+    t13_title: "Szinonimák erősség szerint", t13_text: "Rendezze a szavakat a gyengetől az erősig.", t13_inst: "Rakd egymásra a szinonimákat a megfelelő sorrendbe!", t13_h1: "mosoly → nevetés → üvöltés.", t13_h2: "Ügyeljen az intenzitásra.",
+    t13_w1: "mosolyogni", t13_w2: "nevetni", t13_w3: "ordít",
+    t13_q: "Melyik szó a legintenzívebb?", t13_c1: "mosolyogni", t13_c2: "nevetni", t13_c3: "ordít", t13_c4: "néma",
+    t14_title: "Idegen szavak qu-val", t14_text: "Ismerje fel a szót latin írásmóddal.", t14_inst: "Az idegen szót 'qu'-val jelöld!", t14_h1: "A minőség a qu-val van írva.", t14_h2: "Keresd a qu-ra, ne a kw-ra.",
+    t14_w1: "Ezt", t14_w2: "Eredmény", t14_w3: "rendelkezik", t14_w4: "magas", t14_w5: "Minőség.",
+    t14_q: "Melyik a helyes írásmód?", t14_c1: "Minőség", t14_c2: "Minőség", t14_c3: "Qualityet", t14_c4: "Minőség",
+    t15_title: "Relatív záradék a", t15_text: "Válassza ki a megfelelő relatív névmást egy nőnemű főnévhez.", t15_inst: "Egészítse ki a relatív névmást!", t15_h1: "A föld (női) → a.", t15_h2: "A „die” relatív névmás a nőnemű főnevek után következik.",
+    t15_sent: "Ez a Föld ___ forog.",
+    t15_cr1: "a", t15_cr2: "a", t15_cr3: "hogy", t15_cr4: "a",
+    t15_q: "Melyik relatív névmás illik a „föld” szóhoz?", t15_c1: "a", t15_c2: "hogy", t15_c3: "a", t15_c4: "a",
+  },
+  ro: {
+    explorer_title: "Big K6 examen final",
+
+    // T1: Aktiv vs Passiv (Two Groups)
+    t1_title: "Final activ-pasiv",
+    t1_text: "Puteți deosebi făptuitorul (activ) de acțiune (pasivă)?",
+    t1_inst: "Sortați propozițiile după forma lor!",
+    t1_h1: "Activ: Da. Pasiv: Se va face.",
+    t1_h2: "Fiți atenți la „voință” sau „este” + participiul II.",
+    t1_b1: "Activ 🏃", t1_b2: "Pasiv 📦",
+    t1_i1: "Bucătarul pregătește mâncarea.", t1_i2: "Mâncarea este în curs de pregătire.",
+
+    // T2: Konjunktiv II (Slingshot)
+    t2_title: "Dorință Slingshot",
+    t2_text: "Vise și dorințe: Recunoașteți formele de conjunctiv II (had, would, would).",
+    t2_inst: "Doar trage pentru vise!",
+    t2_h1: "Căutați umlauts (ä) sau „would”.",
+    t2_h2: "ar fi, ar fi, ar putea, ar fi.",
+    t2_q: "Ce cuvinte sunt la conjunctiv II?",
+    t2_t1: "ar fi avut", t2_t2: "ar fi", t2_t3: "are", t2_t4: "este",
+
+    // T3: Infinitiv mit zu (Sentence Build)
+    t3_title: "Infinitiv maestru",
+    t3_text: "Conectați corect propozițiile cu „to... to”.",
+    t3_inst: "Asamblați propoziția țintă!",
+    t3_h1: "Studiez (HS) pentru a obține note bune.",
+    t3_h2: "la + ... + la + infinitiv.",
+    t3_f3_1: "El se antrenează,", t3_f3_2: "în jur", t3_f3_3: "finala", t3_f3_4: "a castiga.",
+
+    // T4: Synonym-Intensität (Stacker)
+    t4_title: "Scări de cuvinte K6",
+    t4_text: "Aranjați sinonimele în funcție de puterea lor (de la slab la puternic).",
+    t4_inst: "Stivuiți corect cuvintele!",
+    t4_h1: "zâmbet -> râde -> strigă.",
+    t4_sw1: "zâmbește", t4_sw2: "râde", t4_sw3: "vuiet",
+
+    // T5: Fremdwörter ph/th (Highlight)
+    t5_title: "Detectiv de cuvinte străine",
+    t5_text: "Recunoașteți cuvintele străine grecești scrise corect.",
+    t5_inst: "Marcați cuvântul cu ph!",
+    t5_h1: "Filosofia se scrie cu ph.",
+    t5_h2: "Deschide-ți ochii la Ph/Th/Rh.",
+    t5_w5_1: "Aceasta", t5_w5_2: "Alfabetul", t5_w5_3: "este", t5_w5_4: "foarte", t5_w5_5: "lung",
+
+    // T6: Relativsatz (Article Noun SVG)
+    t6_title: "Relativ profesionist de bridge",
+    t6_text: "Alegeți pronumele relativ potrivit pentru substantiv.",
+    t6_inst: "Care cuvânt începe propoziția relativă?",
+    t6_h1: "Copilul (neutru) -> că.",
+    t6_h2: "Atenție: acela (pronume), nu acela (conjunctiv).",
+    t6_sent_r: "Acesta este copilul ___ pe care l-am văzut ieri.",
+    t6_cr1: "că", t6_cr2: "că", t6_cr3: "cel", t6_cr4: "cel",
+
+    // T7: Wortbildung heit/keit (Bucket)
+    t7_title: "Găleată de sfârșit",
+    t7_text: "Care terminație substantivului se însoțește cu ce adjectiv?",
+    t7_inst: "Sortați cuvintele în găleți!",
+    t7_h1: "Libertate, greață.",
+    t7_b7_1: "-ness 🏗️", t7_b7_2: "-ness 🏗️",
+    t7_i7_1: "Gratuit", t7_i7_2: "Întuneric", t7_i7_3: "Singuratic", t7_i7_4: "Politicos",
+
+    // T8: Zeichensetzung Apposition (Sentence Flow)
+    t8_title: "Informații suplimentare virgulă",
+    t8_text: "Apozițiile (explicațiile) necesită virgule de inserare.",
+    t8_inst: "Ce semne de punctuație lipsesc aici?",
+    t8_h1: "Luke (virgulă) vine prietenul meu (virgulă).",
+    t8_sent_f: "Lukas ___ cel mai bun prieten al meu ___ mă ajută.",
+    t8_cf1: ",", t8_cf2: "-", t8_cf3: ":", t8_cf4: ";",
+
+    // T9: Antonyme (Magnet)
+    t9_title: "Finalul opus",
+    t9_text: "Găsiți omologii (antonimele) perfecte!",
+    t9_inst: "Pune contrariile împreună!",
+    t9_h1: "Predecesor -> Succesor.",
+    t9_ml9: "predecesor", t9_mr9: "succesor",
+    t9_ml10: "Activ", t9_mr10: "Pasiv",
+    t9_ml11: "Realitatea", t9_mr11: "dorinta",
+    t10_title: "Repetarea activ-pasivă", t10_text: "Sortați propozițiile în active și pasive.", t10_inst: "Atrageți în găleata corectă!", t10_h1: "Activ: Cineva face ceva.", t10_h2: "Pasiv: Se întâmplă ceva (se va...).",
+    t10_b1: "Activ 🏃", t10_b2: "Pasiv 📦",
+    t10_i1: "Elevul rezolvă sarcina.", t10_i2: "Sarcina este rezolvată.",
+    t10_q: "Ce este vocea pasivă?", t10_c1: "voință + participiu II", t10_c2: "Subiect + verb", t10_c3: "numai infinitiv", t10_c4: "au + participiu II",
+    t11_title: "Conjunctiv II Recunoaște", t11_text: "Faceți cunoștință cu formele conjunctivului II!", t11_inst: "Trage cuvintele conjunctiv II!", t11_h1: "Dorințe și ireal: ar fi, ar fi, ar fi.", t11_h2: "Indicativ: are, is – conjunctiv: ar avea, ar fi.",
+    t11_q: "Ce cuvinte sunt la conjunctiv II?",
+    t11_t1: "ar", t11_t2: "putea", t11_t3: "are", t11_t4: "face",
+    t11_c1: "ar", t11_c2: "putea", t11_c3: "are", t11_c4: "face",
+    t12_title: "Propoziție finală cu așa", t12_text: "Conectați propoziția principală și scopul cu „așa”.", t12_inst: "Pune părțile de propoziție în ordinea corectă!", t12_h1: "Studiez ca să pot lua note bune.", t12_h2: "„deci” introduce propoziția finală.",
+    t12_f1: "exersez", t12_f2: "cu asta", t12_f3: "mai bine", t12_f4: "deveni.",
+    t12_q: "Ce introduce o propoziție finală?", t12_c1: "cu asta", t12_c2: "pentru că", t12_c3: "deși", t12_c4: "dacă",
+    t13_title: "Sinonime după putere", t13_text: "Ordonați cuvintele de la slab la puternic.", t13_inst: "Stivuiți sinonimele în ordinea corectă!", t13_h1: "zâmbet → râs → hohot.", t13_h2: "Acordați atenție intensității.",
+    t13_w1: "zâmbește", t13_w2: "râde", t13_w3: "vuiet",
+    t13_q: "Care cuvânt este cel mai intens?", t13_c1: "zâmbește", t13_c2: "râde", t13_c3: "vuiet", t13_c4: "tăcut",
+    t14_title: "Cuvinte străine cu qu", t14_text: "Recunoașteți cuvântul cu ortografia latină.", t14_inst: "Marcați cuvântul străin cu „qu”!", t14_h1: "Calitatea se scrie cu qu.", t14_h2: "Caută qu, nu kw.",
+    t14_w1: "Aceasta", t14_w2: "Rezultat", t14_w3: "are", t14_w4: "înalt", t14_w5: "Calitate.",
+    t14_q: "Care ortografie este corectă?", t14_c1: "Calitate", t14_c2: "Calitate", t14_c3: "Calitate", t14_c4: "Calitate",
+    t15_title: "Propoziție relativă cu", t15_text: "Alegeți pronumele relativ potrivit pentru un substantiv feminin.", t15_inst: "Completează pronumele relativ!", t15_h1: "Pământul (feminin) → the.", t15_h2: "„mor” ca pronume relativ vine după substantivele feminine.",
+    t15_sent: "Acesta este pământul ___ care se rotește.",
+    t15_cr1: "cel", t15_cr2: "cel", t15_cr3: "că", t15_cr4: "cel",
+    t15_q: "Care pronume relativ merge cu „pământul”?", t15_c1: "cel", t15_c2: "că", t15_c3: "cel", t15_c4: "cel",
   }
 };
 
