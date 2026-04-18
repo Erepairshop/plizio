@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="jupiterG" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3d9b0"/>
+      <stop offset="50%" stop-color="#d99c68"/>
+      <stop offset="100%" stop-color="#a55b2c"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="72" fill="url(#jupiterG)" stroke="#1a0d3a" stroke-width="3"/>
+  <path d="M 30 75 Q 100 70 170 78" stroke="#8a4a1f" stroke-width="6" fill="none" opacity="0.6"/>
+  <path d="M 28 92 Q 100 88 172 95" stroke="#f6e3c0" stroke-width="7" fill="none" opacity="0.7"/>
+  <path d="M 30 115 Q 100 110 170 118" stroke="#8a4a1f" stroke-width="5" fill="none" opacity="0.55"/>
+  <path d="M 35 135 Q 100 132 165 138" stroke="#f6e3c0" stroke-width="6" fill="none" opacity="0.6"/>
+  <path d="M 45 152 Q 100 150 155 155" stroke="#8a4a1f" stroke-width="4" fill="none" opacity="0.5"/>
+  <ellipse cx="125" cy="115" rx="12" ry="7" fill="#c0392b" stroke="#1a0d3a" stroke-width="2"/>
+  <g fill="#1a0d3a">
+    <ellipse cx="73.5" cy="98" rx="2.72" ry="3.57"/>
+    <ellipse cx="90.5" cy="98" rx="2.72" ry="3.57"/>
+  </g>
+  <path d="M 76.9 103.1 Q 82 107.4 87.1 103.1" stroke="#1a0d3a" stroke-width="1.87" stroke-linecap="round" fill="none"/>
+</svg>

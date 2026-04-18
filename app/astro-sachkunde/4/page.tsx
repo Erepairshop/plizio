@@ -10,6 +10,7 @@ import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
+import { awardStickerOnIslandComplete } from "@/lib/plizioStickerProgress";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -597,6 +598,13 @@ export default function AstroSachkundeG4Page() {
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
+    // Sziget-complete: huzzunk egy uj matricat a score-abol szarmazo csillagokkal.
+    const stars = rarity === "legendary" || rarity === "gold" ? 3 : rarity === "silver" ? 2 : 1;
+    try {
+      awardStickerOnIslandComplete(stars);
+    } catch {
+      // swallow — a sticker-award opcionalis, nem blokkolja a reward flow-t
+    }
     setEarnedCard(rarity);
     setRewardScore({ score: missionScore.score, total: missionScore.total });
     setScreen("reward");
