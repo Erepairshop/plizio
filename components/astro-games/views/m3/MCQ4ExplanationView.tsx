@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -29,6 +29,16 @@ export default function MCQ4ExplanationView({
   if (!rounds || rounds.length === 0) return null;
   const currentRound = rounds[roundIdx];
   const totalRounds = rounds.length;
+
+  const shuffledIndices = useMemo(() => {
+    if (!currentRound) return [];
+    const arr = Array.from({ length: currentRound.options.length }, (_, i) => i);
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [currentRound]);
 
   const handleSelect = (idx: number) => {
     if (hasAnswered) return;
@@ -91,9 +101,11 @@ export default function MCQ4ExplanationView({
           </div>
 
           <div className="grid grid-cols-1 gap-3 w-full">
-            {currentRound.options.map((opt, idx) => {
-              const isSelected = selectedOpt === idx;
-              const isCorrect = idx === currentRound.correctIndex;
+            {shuffledIndices.map((origIdx) => {
+              const opt = currentRound.options[origIdx];
+              const isSelected = selectedOpt === origIdx;
+              const isCorrect = origIdx === currentRound.correctIndex;
+              const idx = origIdx;
               let btnClass = "w-full p-4 rounded-xl border-2 font-bold text-lg transition-all duration-300 min-h-[64px] ";
 
               if (!hasAnswered) {

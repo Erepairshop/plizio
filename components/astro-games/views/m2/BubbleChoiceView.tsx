@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -30,6 +30,16 @@ export default function BubbleChoiceView({
   const [selectedId, setSelectedId] = useState<string | null>(null);
 
   const currentRound = rounds[roundIdx];
+
+  const shuffledBubbles = useMemo(() => {
+    if (!currentRound) return [];
+    const arr = [...currentRound.bubbles];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [currentRound]);
 
   if (!currentRound) return null;
 
@@ -93,7 +103,7 @@ export default function BubbleChoiceView({
       <div className="flex-1 w-full relative flex items-center justify-center py-8 min-h-[300px]">
         <div className="flex flex-wrap gap-4 md:gap-8 justify-center items-center w-full max-w-xl">
           <AnimatePresence mode="wait">
-            {currentRound.bubbles.map((bubble, index) => {
+            {shuffledBubbles.map((bubble, index) => {
               const isSelected = selectedId === bubble.id;
               const isWrongSelected = isSelected && !bubble.isCorrect;
               const isCorrectRevealed = selectedId && bubble.isCorrect;

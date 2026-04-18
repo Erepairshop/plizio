@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -28,6 +28,16 @@ export default function SoundMatchView({
   const [isRevealing, setIsRevealing] = useState(false);
 
   const currentRound = rounds[roundIdx];
+
+  const shuffledOptions = useMemo(() => {
+    if (!currentRound) return [];
+    const arr = [...currentRound.options];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [currentRound]);
 
   const handleSelect = (optionId: string, isCorrect: boolean) => {
     if (isRevealing) return;
@@ -125,7 +135,7 @@ export default function SoundMatchView({
 
             {/* Options Grid */}
             <div className="grid grid-cols-2 gap-4 w-full">
-              {currentRound.options.map((opt, idx) => {
+              {shuffledOptions.map((opt, idx) => {
                 const isSelected = selectedId === opt.id;
                 const isCorrect = opt.isCorrect;
                 

@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -47,6 +47,17 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
         onWrong?.();
      }
   };
+
+  // Shuffle right-side items per round so the answer isn't always next to its left counterpart
+  const shuffledRight = useMemo(() => {
+    if (!currentRound) return [];
+    const arr = [...currentRound.right];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [currentRound]);
 
   if (!currentRound) return null;
 
@@ -101,7 +112,7 @@ export default function TapMatchView({ rounds, color, lang, mode, onDone, onCorr
             })}
          </div>
          <div className="flex flex-col gap-2 w-1/2">
-            {currentRound.right.map(item => {
+            {shuffledRight.map(item => {
                const isMatched = matchedPairs.has(item.id);
                return (
                   <motion.button

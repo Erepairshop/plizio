@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { AstroGameProps, LocalizedText } from "../../types";
 
@@ -30,6 +30,16 @@ export default function WordChainView({
   const currentRound = rounds[currentRoundIndex];
   const isLastRound = currentRoundIndex === rounds.length - 1;
   const progressPercent = ((currentRoundIndex) / rounds.length) * 100;
+
+  const shuffledIndices = useMemo(() => {
+    if (!currentRound) return [];
+    const arr = Array.from({ length: currentRound.options.length }, (_, i) => i);
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }, [currentRound]);
 
   const handleOptionClick = (index: number) => {
     if (hasAnswered) return;
@@ -96,9 +106,11 @@ export default function WordChainView({
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
-              {currentRound.options.map((opt, idx) => {
-                const isSelected = selectedOption === idx;
-                const isCorrect = idx === currentRound.correctIndex;
+              {shuffledIndices.map((origIdx) => {
+                const opt = currentRound.options[origIdx];
+                const isSelected = selectedOption === origIdx;
+                const isCorrect = origIdx === currentRound.correctIndex;
+                const idx = origIdx;
                 
                 let bgColor = "bg-white/10";
                 let borderColor = "border-white/20";
