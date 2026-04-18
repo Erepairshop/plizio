@@ -53,3 +53,27 @@ Codex három batch-et futtatott és tartalmi hibákat hagyott (rossz subject-kev
 **Manuális**: gyors fix a látható/tesztelt pool-okra (2 kész, 25 hátra)
 **Gemini batch**: ha 429 elmúlik, egy nagy batch az összes 25 pool-ra újraíráshoz (subject-pontos tartalommal)
 **Audit módszer**: minden pool legalább 1 round-jának megnyitása dev-ben, tartalmi check.
+
+---
+
+# Egyéb beépített hibák listája (nem Codex)
+
+### A. Visual Lab subject hiányzik english/magyar/romana-nak (2026-04-18)
+
+**Probléma**: `components/VisualLab.tsx` `VisualLabSubject` type csak sachkunde/geographie/geschichte/astromath/deutsch/informatika/physik/kemia/biologie. NINCS `english | magyar | romana`. Ezért 17 route (astromagyar 1-8, astroenglish 1-8, astroromana) hardcoded `subject="deutsch"`-öt passzol — emiatt német Visual Lab-ot tölt be magyar/angol/román órán.
+
+**Érintett fájlok**:
+- `app/astromagyar/{1,2,3,4,5,6,7,8}/page.tsx` — `<VisualLab subject="deutsch" ...>`
+- `app/astroenglish/{1,2,3,4,5,6,7,8}/page.tsx` — ugyanaz
+- `app/astroromana/AstroRomanaGradePage.tsx` — ugyanaz
+
+**Javítási terv**:
+1. `VisualLabSubject` type kiegészítése: `| "english" | "magyar" | "romana"`
+2. `SUBJECT_GAMES` map-ben `english`, `magyar`, `romana` entry — mindegyikhez saját játéklista (esetleg kezdetben a deutsch-ból örökölt + subject-specifikus labels)
+3. Subject-specifikus label-ek `getVisualLabLabel()` / i18n-ben
+4. 17 route `subject="deutsch"` → megfelelő subject név
+5. Játékok tartalmának lang-respektálása — ellenőrizni hogy kiírt szöveg (pl. WortWaechter, SatzbauSniper) nyelv-érzékenyen renderel-e vagy német-fix
+
+**Komplexitás**: **közepes-nagy** (~1-2 óra, 17 route + type + games map bővítés + possible lang refactor). Nem kritikus, de UX hiba.
+
+**Érintettség**: english/magyar/romana órákon Visual Lab-ot nyitó gyerek német tartalmat kap — zavaró.
