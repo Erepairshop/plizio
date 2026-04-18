@@ -19,6 +19,10 @@ import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import { T } from "@/app/astromath/games/translations";
+import M2Engine from "@/components/astro-games/M2Engine";
+import M3Engine from "@/components/astro-games/M3Engine";
+import { PHYSIK_M2_POOLS, PHYSIK_M3_POOLS } from "@/lib/astro/physikGameRegistry";
+
 import "@/lib/physikRegistration";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
@@ -115,6 +119,8 @@ const SK_G2_LABEL: Record<string, Record<string, string | Record<string, string>
 
 // ─── Screen types ──────────────────────────────────────────────────────────────
 type Screen =
+  | "m2"
+  | "m3"
   | "island-map"
   | "island-intro"
   | "island-transition"
@@ -499,6 +505,16 @@ export default function AstroPhysikK8Page() {
     setScreen("island-transition");
   }, []);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const p = new URLSearchParams(window.location.search);
+    const id = p.get("island");
+    if (id) {
+      const target = ISLANDS.find(i => i.id === id);
+      if (target) handleIslandSelect(target);
+    }
+  }, [handleIslandSelect]);
+
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
@@ -796,6 +812,12 @@ export default function AstroPhysikK8Page() {
         </div>
       </div>
       <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+        {screen === "m2" && activeMission?.gameKey && PHYSIK_M2_POOLS[activeMission.gameKey as keyof typeof PHYSIK_M2_POOLS] && (
+          <M2Engine gameKey={activeMission.gameKey} rounds={PHYSIK_M2_POOLS[activeMission.gameKey as keyof typeof PHYSIK_M2_POOLS]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "m3" && activeMission?.gameKey && PHYSIK_M3_POOLS[activeMission.gameKey as keyof typeof PHYSIK_M3_POOLS] && (
+          <M3Engine gameKey={activeMission.gameKey} rounds={PHYSIK_M3_POOLS[activeMission.gameKey as keyof typeof PHYSIK_M3_POOLS]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
+        )}
         {screen === "orbit-quiz" && questions.length > 0 && (
           <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone}
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
@@ -824,7 +846,7 @@ export default function AstroPhysikK8Page() {
   );
 
   const explorerScreens = ["pk8-explorer"];
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "true-false-blitz", ...explorerScreens, "m2", "m3"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
