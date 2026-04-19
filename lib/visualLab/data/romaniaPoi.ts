@@ -1378,6 +1378,458 @@ export const romaniaFolk: POI[] = [
 // ---------------------------------------------------------------------------
 // 12) ÖSSZES POI EGYBEFŰZVE
 // ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// EXTRA POIS FOR MISSING COUNTIES
+// ---------------------------------------------------------------------------
+export const romaniaExtraPois: POI[] = [
+  // ARAD (RO-AR)
+  {
+    id: "ro-poi-moneasa", type: "nature", parent: "RO-AR", coords: [46.4583, 22.2583],
+    name: { de: "Moneasa", hu: "Menyháza", ro: "Stațiunea Moneasa", en: "Moneasa Resort" },
+    description: { de: "Bekannter Kurort.", hu: "Híres gyógyüdülőhely.", ro: "Stațiune balneoclimaterică cunoscută.", en: "Well-known spa resort." },
+    image: ""
+  },
+  {
+    id: "ro-poi-cetatea-siria", type: "historical", parent: "RO-AR", coords: [46.2667, 21.6333],
+    name: { de: "Burg Șiria", hu: "Világosvári vár", ro: "Cetatea Șiria", en: "Șiria Fortress" },
+    description: { de: "Ruinen einer mittelalterlichen Burg.", hu: "Egy középkori vár romjai.", ro: "Ruinele unei cetăți medievale.", en: "Ruins of a medieval fortress." },
+    image: ""
+  },
+
+  // BACĂU (RO-BC)
+  {
+    id: "ro-poi-salina-targu-ocna", type: "landmark", parent: "RO-BC", coords: [46.2731, 26.5986],
+    name: { de: "Salzbergwerk Târgu Ocna", hu: "Aknavásár fémbánya", ro: "Salina Târgu Ocna", en: "Târgu Ocna Salt Mine" },
+    description: { de: "Touristisches Salzbergwerk.", hu: "Turisztikai sóbánya.", ro: "Salină turistică.", en: "Tourist salt mine." },
+    image: ""
+  },
+  {
+    id: "ro-poi-slanic-moldova", type: "nature", parent: "RO-BC", coords: [46.2069, 26.4386],
+    name: { de: "Slănic Moldova", hu: "Szlanikfürdő", ro: "Slănic Moldova", en: "Slănic Moldova" },
+    description: { de: "Kurort mit Mineralquellen.", hu: "Gyógyüdülőhely ásványvízforrásokkal.", ro: "Stațiune cu izvoare minerale.", en: "Resort with mineral springs." },
+    image: ""
+  },
+
+  // BIHOR (RO-BH)
+  {
+    id: "ro-poi-pestera-ursilor", type: "nature", parent: "RO-BH", coords: [46.5531, 22.5683],
+    name: { de: "Bärenhöhle", hu: "Medve-barlang", ro: "Peștera Urșilor", en: "Bears' Cave" },
+    description: { de: "Höhle mit Höhlenbärenfossilien.", hu: "Barlang barlangi medve fosszíliákkal.", ro: "Peșteră cu fosile de urși de peșteră.", en: "Cave with cave bear fossils." },
+    image: ""
+  },
+  {
+    id: "ro-poi-baile-felix", type: "nature", parent: "RO-BH", coords: [46.9833, 21.9833],
+    name: { de: "Thermalbad Felix", hu: "Félixfürdő", ro: "Băile Felix", en: "Băile Felix" },
+    description: { de: "Größtes Thermalbad in Rumänien.", hu: "Románia legnagyobb termálfürdője.", ro: "Cea mai mare stațiune balneară din România.", en: "Largest thermal spa in Romania." },
+    image: ""
+  },
+
+  // BISTRIȚA-NĂSĂUD (RO-BN)
+  {
+    id: "ro-poi-bistrita", type: "city", parent: "RO-BN", coords: [47.1333, 24.5],
+    name: { de: "Bistritz", hu: "Beszterce", ro: "Bistrița", en: "Bistrița" },
+    description: { de: "Historische Stadt in Siebenbürgen.", hu: "Történelmi város Erdélyben.", ro: "Oraș istoric în Transilvania.", en: "Historic city in Transylvania." },
+    image: ""
+  },
+  {
+    id: "ro-poi-parcul-rodnei", type: "nature", parent: "RO-BN", coords: [47.5333, 24.8],
+    name: { de: "Nationalpark Rodna-Gebirge", hu: "Radnai-havasok Nemzeti Park", ro: "Parcul Național Munții Rodnei", en: "Rodna Mountains National Park" },
+    description: { de: "Höchstes Gebirge der Ostkarpaten.", hu: "A Keleti-Kárpátok legmagasabb hegysége.", ro: "Cei mai înalți munți din Carpații Orientali.", en: "Highest mountains of the Eastern Carpathians." },
+    image: ""
+  },
+  {
+    id: "ro-poi-lacul-colibita", type: "lake", parent: "RO-BN", coords: [47.1667, 24.8833],
+    name: { de: "Colibița-See", hu: "Kolibica-tó", ro: "Lacul Colibița", en: "Colibița Lake" },
+    description: { de: "Stausee mit sauberer Bergluft.", hu: "Víztározó tiszta hegyi levegővel.", ro: "Lac de acumulare cu aer montan curat.", en: "Reservoir with clean mountain air." },
+    image: ""
+  },
+
+  // BOTOȘANI (RO-BT)
+  {
+    id: "ro-poi-botosani", type: "city", parent: "RO-BT", coords: [47.7408, 26.6664],
+    name: { de: "Botoschan", hu: "Botosán", ro: "Botoșani", en: "Botoșani" },
+    description: { de: "Kulturstadt im Norden der Moldau.", hu: "Kulturális város Észak-Moldvában.", ro: "Oraș cultural din nordul Moldovei.", en: "Cultural city in northern Moldavia." },
+    image: ""
+  },
+  {
+    id: "ro-poi-casa-eminescu", type: "historical", parent: "RO-BT", coords: [47.7667, 26.55],
+    name: { de: "Eminescu Gedenkhaus", hu: "Eminescu Emlékház", ro: "Casa Memorială Mihai Eminescu", en: "Mihai Eminescu Memorial House" },
+    description: { de: "Geburtshaus des Nationaldichters.", hu: "A nemzeti költő szülőháza.", ro: "Casa unde s-a născut poetul național.", en: "Birthplace of the national poet." },
+    image: ""
+  },
+  {
+    id: "ro-poi-lacul-stanca", type: "lake", parent: "RO-BT", coords: [47.8167, 27.2167],
+    name: { de: "Stânca-Costești See", hu: "Stânca-Costești-tó", ro: "Lacul Stânca-Costești", en: "Stânca-Costești Lake" },
+    description: { de: "Großer Stausee am Fluss Prut.", hu: "Nagy víztározó a Prut folyón.", ro: "Mare lac de acumulare pe râul Prut.", en: "Large reservoir on the Prut river." },
+    image: ""
+  },
+
+  // BRĂILA (RO-BR)
+  {
+    id: "ro-poi-braila", type: "city", parent: "RO-BR", coords: [45.2667, 27.9667],
+    name: { de: "Mühlbach", hu: "Brăila", ro: "Brăila", en: "Brăila" },
+    description: { de: "Wichtige Hafenstadt an der Donau.", hu: "Fontos dunai kikötőváros.", ro: "Important port la Dunăre.", en: "Important Danube port city." },
+    image: ""
+  },
+  {
+    id: "ro-poi-insula-mica", type: "nature", parent: "RO-BR", coords: [44.8833, 27.95],
+    name: { de: "Naturpark Kleine Brăila-Insel", hu: "Kis-Brăila Sziget Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Small Brăila Island Natural Park" },
+    description: { de: "Feuchtgebiet und Naturschutzgebiet.", hu: "Vizes élőhely és természetvédelmi terület.", ro: "Zonă umedă și rezervație naturală.", en: "Wetland and nature reserve." },
+    image: ""
+  },
+  {
+    id: "ro-poi-teatrul-filotti", type: "landmark", parent: "RO-BR", coords: [45.2719, 27.9731],
+    name: { de: "Maria Filotti Theater", hu: "Maria Filotti Színház", ro: "Teatrul Maria Filotti", en: "Maria Filotti Theatre" },
+    description: { de: "Historisches Theatergebäude.", hu: "Történelmi színházépület.", ro: "Clădire istorică a teatrului.", en: "Historical theater building." },
+    image: ""
+  },
+
+  // BUZĂU (RO-BZ)
+  {
+    id: "ro-poi-focul-viu", type: "nature", parent: "RO-BZ", coords: [45.5417, 26.5444],
+    name: { de: "Lebendiges Feuer", hu: "Élő tűz", ro: "Focul Viu", en: "Living Fire" },
+    description: { de: "Erdgasflammen aus dem Boden.", hu: "Földgázlángok a talajból.", ro: "Flăcări de gaze naturale din pământ.", en: "Natural gas flames coming from the ground." },
+    image: ""
+  },
+  {
+    id: "ro-poi-lacul-vulturilor", type: "lake", parent: "RO-BZ", coords: [45.5033, 26.0969],
+    name: { de: "Adlersee", hu: "Sasok tava", ro: "Lacul Vulturilor", en: "Eagles' Lake" },
+    description: { de: "Periglazialer See im Siriu-Gebirge.", hu: "Periglaciális tó a Sziryu-hegységben.", ro: "Lac periglaciar în Munții Siriu.", en: "Periglacial lake in the Siriu Mountains." },
+    image: ""
+  },
+
+  // CĂLĂRAȘI (RO-CL)
+  {
+    id: "ro-poi-calarasi", type: "city", parent: "RO-CL", coords: [44.2, 27.3333],
+    name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași" },
+    description: { de: "Stadt an der Donau (Borcea-Arm).", hu: "Város a Duna (Borcea-ág) partján.", ro: "Oraș pe malul brațului Borcea al Dunării.", en: "City on the Borcea branch of the Danube." },
+    image: ""
+  },
+  {
+    id: "ro-poi-bratul-borcea", type: "river", parent: "RO-CL", coords: [44.25, 27.75],
+    name: { de: "Borcea-Arm", hu: "Borcea-ág", ro: "Brațul Borcea", en: "Borcea Branch" },
+    description: { de: "Nebenarm der Donau.", hu: "A Duna mellékága.", ro: "Braț secundar al Dunării.", en: "Secondary branch of the Danube." },
+    image: ""
+  },
+  {
+    id: "ro-poi-muzeul-dunarii", type: "cultural", parent: "RO-CL", coords: [44.195, 27.33],
+    name: { de: "Museum der Unteren Donau", hu: "Alsó-Duna Múzeum", ro: "Muzeul Dunării de Jos", en: "Lower Danube Museum" },
+    description: { de: "Museum für Archäologie und Geschichte.", hu: "Régészeti és történelmi múzeum.", ro: "Muzeu de arheologie și istorie.", en: "Museum of archeology and history." },
+    image: ""
+  },
+
+  // CARAȘ-SEVERIN (RO-CS)
+  {
+    id: "ro-poi-cheile-nerei", type: "nature", parent: "RO-CS", coords: [44.9333, 21.8333],
+    name: { de: "Nera-Klamm Nationalpark", hu: "Néra-szurdok Nemzeti Park", ro: "Parcul Național Cheile Nerei-Beușnița", en: "Cheile Nerei-Beușnița National Park" },
+    description: { de: "Schluchten, Wasserfälle und blaue Seen.", hu: "Szurdokok, vízesések és kék tavak.", ro: "Chei, cascade și lacuri albastre.", en: "Gorges, waterfalls, and blue lakes." },
+    image: ""
+  },
+  {
+    id: "ro-poi-baile-herculane", type: "city", parent: "RO-CS", coords: [44.88, 22.4131],
+    name: { de: "Herkulesbad", hu: "Herkulesfürdő", ro: "Băile Herculane", en: "Băile Herculane" },
+    description: { de: "Historischer Thermal-Kurort.", hu: "Történelmi hőforrásos gyógyüdülő.", ro: "Stațiune balneară istorică.", en: "Historical thermal spa resort." },
+    image: ""
+  },
+  {
+    id: "ro-poi-cascada-bigar", type: "nature", parent: "RO-CS", coords: [45.0033, 21.9594],
+    name: { de: "Bigăr-Wasserfall", hu: "Bigér-vízesés", ro: "Cascada Bigăr", en: "Bigăr Waterfall" },
+    description: { de: "Einzigartiger moosbedeckter Wasserfall.", hu: "Egyedülálló mohos vízesés.", ro: "Cascadă unică acoperită de mușchi.", en: "Unique moss-covered waterfall." },
+    image: ""
+  },
+
+  // CONSTANȚA (RO-CT)
+  {
+    id: "ro-poi-acvariul-constanta", type: "landmark", parent: "RO-CT", coords: [44.1714, 28.6622],
+    name: { de: "Aquarium Constanța", hu: "Konstancai Akvárium", ro: "Acvariul Constanța", en: "Constanța Aquarium" },
+    description: { de: "Aquarium am Schwarzen Meer.", hu: "Fekete-tengeri akvárium.", ro: "Acvariu pe litoralul Mării Negre.", en: "Aquarium on the Black Sea coast." },
+    image: ""
+  },
+
+  // COVASNA (RO-CV)
+  {
+    id: "ro-poi-sfantu-gheorghe", type: "city", parent: "RO-CV", coords: [45.8667, 25.7833],
+    name: { de: "Sankt Georgen", hu: "Sepsiszentgyörgy", ro: "Sfântu Gheorghe", en: "Sfântu Gheorghe" },
+    description: { de: "Wichtiges Zentrum des Szeklerlandes.", hu: "A Székelyföld fontos központja.", ro: "Centru important al Ținutului Secuiesc.", en: "Important center of Szeklerland." },
+    image: ""
+  },
+  {
+    id: "ro-poi-statiunea-covasna", type: "nature", parent: "RO-CV", coords: [45.85, 26.1667],
+    name: { de: "Kurort Covasna", hu: "Kovásznafürdő", ro: "Stațiunea Covasna", en: "Covasna Resort" },
+    description: { de: "Bekannt für Mineralwasser und Mofetten.", hu: "Ásványvizeiről és mofettáiról ismert.", ro: "Cunoscută pentru ape minerale și mofete.", en: "Known for mineral waters and mofettas." },
+    image: ""
+  },
+  {
+    id: "ro-poi-balta-dracului", type: "nature", parent: "RO-CV", coords: [45.845, 26.175],
+    name: { de: "Teufelsteich", hu: "Pokolsár", ro: "Balta Dracului", en: "Devil's Pond" },
+    description: { de: "Eine vulkanische Schlammemission.", hu: "Egy vulkáni iszapkitörés.", ro: "O emanație de noroi vulcanic.", en: "A volcanic mud emission." },
+    image: ""
+  },
+
+  // DÂMBOVIȚA (RO-DB)
+  {
+    id: "ro-poi-pestera-ialomitei", type: "nature", parent: "RO-DB", coords: [45.3933, 25.4383],
+    name: { de: "Ialomița-Höhle", hu: "Ialomița-barlang", ro: "Peștera Ialomiței", en: "Ialomița Cave" },
+    description: { de: "Höhle im Bucegi-Gebirge mit Kloster.", hu: "Barlang a Bucsecs-hegységben kolostorral.", ro: "Peșteră în Munții Bucegi cu o mănăstire.", en: "Cave in the Bucegi Mountains with a monastery." },
+    image: ""
+  },
+
+  // DOLJ (RO-DJ)
+  {
+    id: "ro-poi-parcul-romanescu", type: "landmark", parent: "RO-DJ", coords: [44.2969, 23.8],
+    name: { de: "Nicolae-Romanescu-Park", hu: "Nicolae Romanescu Park", ro: "Parcul Nicolae Romanescu", en: "Nicolae Romanescu Park" },
+    description: { de: "Einer der größten Naturparks in Europa.", hu: "Európa egyik legnagyobb természetes parkja.", ro: "Unul dintre cele mai mari parcuri naturale din Europa.", en: "One of the largest natural parks in Europe." },
+    image: ""
+  },
+  {
+    id: "ro-poi-muzeul-arta-craiova", type: "cultural", parent: "RO-DJ", coords: [44.3183, 23.795],
+    name: { de: "Kunstmuseum Craiova", hu: "Craiova Művészeti Múzeum", ro: "Muzeul de Artă Craiova", en: "Craiova Art Museum" },
+    description: { de: "Beherbergt Werke von Constantin Brâncuși.", hu: "Constantin Brâncuși műveinek ad otthont.", ro: "Găzduiește opere de Constantin Brâncuși.", en: "Houses works by Constantin Brâncuși." },
+    image: ""
+  },
+
+  // GALAȚI (RO-GL)
+  {
+    id: "ro-poi-faleza-dunarii", type: "landmark", parent: "RO-GL", coords: [45.4214, 28.0514],
+    name: { de: "Donauuferpromenade", hu: "Dunai sétány", ro: "Faleza Dunării Galați", en: "Danube Promenade" },
+    description: { de: "Die längste Uferpromenade in Rumänien.", hu: "A leghosszabb folyóparti sétány Romániában.", ro: "Cea mai lungă faleză pe malul apei din România.", en: "The longest river promenade in Romania." },
+    image: ""
+  },
+  {
+    id: "ro-poi-turnul-tv-galati", type: "landmark", parent: "RO-GL", coords: [45.4258, 28.0289],
+    name: { de: "Galați Fernsehturm", hu: "Galați TV Torony", ro: "Turnul de Televiziune Galați", en: "Galați TV Tower" },
+    description: { de: "Turm mit Restaurant auf der Spitze.", hu: "Torony étteremmel a tetején.", ro: "Turn cu restaurant în vârf.", en: "Tower with a restaurant at the top." },
+    image: ""
+  },
+
+  // GIURGIU (RO-GR)
+  {
+    id: "ro-poi-giurgiu", type: "city", parent: "RO-GR", coords: [43.9, 25.9667],
+    name: { de: "Giurgiu", hu: "Gyurgyevó", ro: "Giurgiu", en: "Giurgiu" },
+    description: { de: "Donauhafen und Grenzstadt zu Bulgarien.", hu: "Dunai kikötő és határváros Bulgária felé.", ro: "Port la Dunăre și oraș de graniță cu Bulgaria.", en: "Danube port and border city with Bulgaria." },
+    image: ""
+  },
+  {
+    id: "ro-poi-podul-prieteniei", type: "landmark", parent: "RO-GR", coords: [43.8864, 26.0078],
+    name: { de: "Freundschaftsbrücke", hu: "Barátság híd", ro: "Podul Prieteniei", en: "Friendship Bridge" },
+    description: { de: "Brücke über die Donau nach Ruse.", hu: "Híd a Dunán Ruse felé.", ro: "Pod peste Dunăre către Ruse.", en: "Bridge over the Danube to Ruse." },
+    image: ""
+  },
+  {
+    id: "ro-poi-parcul-comana", type: "nature", parent: "RO-GR", coords: [44.175, 26.1433],
+    name: { de: "Naturpark Comana", hu: "Comana Natúrpark", ro: "Parcul Natural Comana", en: "Comana Natural Park" },
+    description: { de: "Feuchtgebiet und Waldgebiet.", hu: "Vizes élőhely és erdő.", ro: "Zonă umedă și forestieră.", en: "Wetland and forest area." },
+    image: ""
+  },
+
+  // GORJ (RO-GJ)
+  {
+    id: "ro-poi-manastirea-tismana", type: "historical", parent: "RO-GJ", coords: [45.0583, 22.9472],
+    name: { de: "Kloster Tismana", hu: "Tismana-kolostor", ro: "Mănăstirea Tismana", en: "Tismana Monastery" },
+    description: { de: "Ältestes aktives Kloster in Rumänien.", hu: "Románia legrégebbi működő kolostora.", ro: "Cea mai veche mănăstire activă din România.", en: "Oldest active monastery in Romania." },
+    image: ""
+  },
+  {
+    id: "ro-poi-cheile-oltetului", type: "nature", parent: "RO-GJ", coords: [45.195, 23.7667],
+    name: { de: "Olteț-Klamm", hu: "Oltész-szurdok", ro: "Cheile Oltețului", en: "Olteț Gorges" },
+    description: { de: "Sehr enge Karstschlucht.", hu: "Nagyon szűk karszt-szurdok.", ro: "Chei carstice foarte înguste.", en: "Very narrow karst gorge." },
+    image: ""
+  },
+
+  // IALOMIȚA (RO-IL)
+  {
+    id: "ro-poi-slobozia", type: "city", parent: "RO-IL", coords: [44.5667, 27.3667],
+    name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia" },
+    description: { de: "Hauptstadt des Kreises Ialomița.", hu: "Ialomița megye székhelye.", ro: "Reședința județului Ialomița.", en: "Capital of Ialomița county." },
+    image: ""
+  },
+  {
+    id: "ro-poi-lacul-amara", type: "lake", parent: "RO-IL", coords: [44.6056, 27.3222],
+    name: { de: "Amara-See", hu: "Amara-tó", ro: "Lacul Amara", en: "Amara Lake" },
+    description: { de: "Salzsee, bekannt für Heilschlamm.", hu: "Sóstó, amely gyógyiszapjáról ismert.", ro: "Lac sărat cunoscut pentru nămolul terapeutic.", en: "Salt lake known for therapeutic mud." },
+    image: ""
+  },
+  {
+    id: "ro-poi-biserica-poiana", type: "historical", parent: "RO-IL", coords: [44.566, 27.350],
+    name: { de: "Holzkirche von Poiana", hu: "Poiana-i fatemplom", ro: "Biserica de lemn din Poiana", en: "Wooden Church of Poiana" },
+    description: { de: "Historische Holzkirche.", hu: "Történelmi fatemplom.", ro: "Biserică istorică din lemn.", en: "Historical wooden church." },
+    image: ""
+  },
+
+  // IAȘI (RO-IS)
+  {
+    id: "ro-poi-parcul-copou", type: "landmark", parent: "RO-IS", coords: [47.1786, 27.5664],
+    name: { de: "Copou-Park", hu: "Copou Park", ro: "Parcul Copou", en: "Copou Park" },
+    description: { de: "Ältester öffentlicher Park in Iași mit der Eminescu-Linde.", hu: "Iași legrégebbi közparkja az Eminescu-hárssal.", ro: "Cel mai vechi parc public din Iași, cu Teiul lui Eminescu.", en: "Oldest public park in Iași, with Eminescu's Linden Tree." },
+    image: ""
+  },
+
+  // ILFOV (RO-IF)
+  {
+    id: "ro-poi-palatul-mogosoaia", type: "historical", parent: "RO-IF", coords: [44.5275, 25.9922],
+    name: { de: "Schloss Mogoșoaia", hu: "Mogoșoaia-palota", ro: "Palatul Mogoșoaia", en: "Mogoșoaia Palace" },
+    description: { de: "Historischer Palast im Brâncovenesc-Stil.", hu: "Történelmi palota Brâncovenesc-stílusban.", ro: "Palat istoric în stil brâncovenesc.", en: "Historical palace in Brâncovenesc style." },
+    image: ""
+  },
+  {
+    id: "ro-poi-manastirea-snagov", type: "historical", parent: "RO-IF", coords: [44.7303, 26.175],
+    name: { de: "Kloster Snagov", hu: "Snagov-kolostor", ro: "Mănăstirea Snagov", en: "Snagov Monastery" },
+    description: { de: "Kloster auf einer Insel, angebliches Grab von Vlad III.", hu: "Szigeti kolostor, Vlad Tepes feltételezett sírja.", ro: "Mănăstire pe o insulă, presupusul mormânt al lui Vlad Țepeș.", en: "Island monastery, alleged tomb of Vlad the Impaler." },
+    image: ""
+  },
+  {
+    id: "ro-poi-padurea-cernica", type: "nature", parent: "RO-IF", coords: [44.4333, 26.25],
+    name: { de: "Cernica-Wald", hu: "Cernica-erdő", ro: "Pădurea Cernica", en: "Cernica Forest" },
+    description: { de: "Erholungsgebiet nahe Bukarest.", hu: "Pihenőövezet Bukarest közelében.", ro: "Zonă de recreere lângă București.", en: "Recreation area near Bucharest." },
+    image: ""
+  },
+
+  // MEHEDINȚI (RO-MH)
+  {
+    id: "ro-poi-portile-de-fier", type: "landmark", parent: "RO-MH", coords: [44.6667, 22.5333],
+    name: { de: "Eisernes Tor", hu: "Vaskapu-szoros", ro: "Porțile de Fier", en: "Iron Gates" },
+    description: { de: "Schlucht und Wasserkraftwerk an der Donau.", hu: "Szurdok és vízerőmű a Dunán.", ro: "Defileu și hidrocentrală pe Dunăre.", en: "Gorge and hydroelectric dam on the Danube." },
+    image: ""
+  },
+  {
+    id: "ro-poi-chipul-decebal", type: "landmark", parent: "RO-MH", coords: [44.6417, 22.2889],
+    name: { de: "Felsskulptur des Decebalus", hu: "Decebal arcmása", ro: "Chipul lui Decebal", en: "Rock Sculpture of Decebalus" },
+    description: { de: "Riesige Skulptur in der Donau-Schlucht.", hu: "Hatalmas szobor a Duna-szorosban.", ro: "Sculptură uriașă în defileul Dunării.", en: "Huge sculpture in the Danube gorge." },
+    image: ""
+  },
+
+  // OLT (RO-OT)
+  {
+    id: "ro-poi-slatina", type: "city", parent: "RO-OT", coords: [44.4333, 24.3667],
+    name: { de: "Slatina", hu: "Slatina", ro: "Slatina", en: "Slatina" },
+    description: { de: "Industriestadt am Fluss Olt.", hu: "Ipari város az Olt folyó partján.", ro: "Oraș industrial pe râul Olt.", en: "Industrial city on the Olt River." },
+    image: ""
+  },
+  {
+    id: "ro-poi-manastirea-brancoveni", type: "historical", parent: "RO-OT", coords: [44.3125, 24.3164],
+    name: { de: "Kloster Brâncoveni", hu: "Brâncoveni-kolostor", ro: "Mănăstirea Brâncoveni", en: "Brâncoveni Monastery" },
+    description: { de: "Bedeutendes Kloster- und Architekturdenkmal.", hu: "Jelentős kolostor és építészeti műemlék.", ro: "Important monument arhitectural și mănăstiresc.", en: "Important monastic and architectural monument." },
+    image: ""
+  },
+
+  // SĂLAJ (RO-SJ)
+  {
+    id: "ro-poi-zalau", type: "city", parent: "RO-SJ", coords: [47.1917, 23.0567],
+    name: { de: "Zillenmarkt", hu: "Zilah", ro: "Zalău", en: "Zalău" },
+    description: { de: "Kreishauptstadt von Sălaj.", hu: "Szilágy megye székhelye.", ro: "Reședința județului Sălaj.", en: "Capital of Sălaj county." },
+    image: ""
+  },
+  {
+    id: "ro-poi-porolissum", type: "historical", parent: "RO-SJ", coords: [47.1803, 23.1583],
+    name: { de: "Porolissum", hu: "Porolissum", ro: "Castrul Roman Porolissum", en: "Porolissum Roman Camp" },
+    description: { de: "Ehemaliges römisches Militärlager.", hu: "Egykori római katonai tábor.", ro: "Fost castru militar roman.", en: "Former Roman military camp." },
+    image: ""
+  },
+  {
+    id: "ro-poi-gradina-zmeilor", type: "nature", parent: "RO-SJ", coords: [47.2, 23.3],
+    name: { de: "Drachengarten", hu: "Sárkányok kertje", ro: "Grădina Zmeilor", en: "Dragons' Garden" },
+    description: { de: "Spektakuläres Naturschutzgebiet mit Felsformationen.", hu: "Látványos természetvédelmi terület sziklaképződményekkel.", ro: "Rezervație naturală spectaculoasă cu formațiuni stâncoase.", en: "Spectacular nature reserve with rock formations." },
+    image: ""
+  },
+
+  // SATU MARE (RO-SM)
+  {
+    id: "ro-poi-castelul-karolyi", type: "historical", parent: "RO-SM", coords: [47.6833, 22.4667],
+    name: { de: "Schloss Károlyi", hu: "Károlyi-kastély", ro: "Castelul Károlyi", en: "Károlyi Castle" },
+    description: { de: "Historisches Schloss in Carei.", hu: "Történelmi kastély Nagykárolyban.", ro: "Castel istoric în Carei.", en: "Historical castle in Carei." },
+    image: ""
+  },
+  {
+    id: "ro-poi-turnul-pompierilor", type: "landmark", parent: "RO-SM", coords: [47.7958, 22.875],
+    name: { de: "Feuerwehrturm", hu: "Tűzoltótorony", ro: "Turnul Pompierilor", en: "Firemen's Tower" },
+    description: { de: "Wahrzeichen der Stadt Satu Mare.", hu: "Szatmárnémeti jelképe.", ro: "Simbol al orașului Satu Mare.", en: "Landmark of the city of Satu Mare." },
+    image: ""
+  },
+
+  // TELEORMAN (RO-TR)
+  {
+    id: "ro-poi-alexandria", type: "city", parent: "RO-TR", coords: [43.9667, 25.3333],
+    name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria" },
+    description: { de: "Kreishauptstadt am Fluss Vedea.", hu: "Megyeszékhely a Vedea folyó partján.", ro: "Reședința județului pe râul Vedea.", en: "County capital on the Vedea river." },
+    image: ""
+  },
+  {
+    id: "ro-poi-cetatea-turnu", type: "historical", parent: "RO-TR", coords: [43.7433, 24.8711],
+    name: { de: "Festung Turnu", hu: "Turnu erőd", ro: "Ruinele Cetății Turnu", en: "Turnu Fortress Ruins" },
+    description: { de: "Ruinen einer alten römischen und mittelalterlichen Festung.", hu: "Egy ősi római és középkori erőd romjai.", ro: "Ruinele unei vechi cetăți romane și medievale.", en: "Ruins of an ancient Roman and medieval fortress." },
+    image: ""
+  },
+  {
+    id: "ro-poi-padurea-troianu", type: "nature", parent: "RO-TR", coords: [44.025, 24.9833],
+    name: { de: "Troianu-Wald", hu: "Troianu-erdő", ro: "Pădurea Troianu", en: "Troianu Forest" },
+    description: { de: "Naturschutzgebiet für wilde Pfingstrosen.", hu: "Vadon termő pünkösdi rózsák természetvédelmi területe.", ro: "Rezervație naturală pentru bujori sălbatici.", en: "Nature reserve for wild peonies." },
+    image: ""
+  },
+
+  // TIMIȘ (RO-TM)
+  {
+    id: "ro-poi-catedrala-mitropolitana", type: "landmark", parent: "RO-TM", coords: [45.7505, 21.2241],
+    name: { de: "Orthodoxe Kathedrale", hu: "Ortodox Katedrális", ro: "Catedrala Mitropolitană", en: "Metropolitan Cathedral" },
+    description: { de: "Orthodoxe Kathedrale in Timișoara.", hu: "Ortodox katedrális Temesváron.", ro: "Catedrală ortodoxă din Timișoara.", en: "Orthodox cathedral in Timișoara." },
+    image: ""
+  },
+
+  // VASLUI (RO-VS)
+  {
+    id: "ro-poi-vaslui", type: "city", parent: "RO-VS", coords: [46.6333, 27.7333],
+    name: { de: "Vaslui", hu: "Vászló", ro: "Vaslui", en: "Vaslui" },
+    description: { de: "Kreishauptstadt von Vaslui.", hu: "Vaslui megye székhelye.", ro: "Reședința județului Vaslui.", en: "Capital of Vaslui county." },
+    image: ""
+  },
+  {
+    id: "ro-poi-curtea-domneasca-vaslui", type: "historical", parent: "RO-VS", coords: [46.6358, 27.7289],
+    name: { de: "Fürstenhof Vaslui", hu: "Vászlói Fejedelmi Udvar", ro: "Curtea Domnească din Vaslui", en: "Princely Court of Vaslui" },
+    description: { de: "Ehemalige Residenz der moldauischen Herrscher.", hu: "A moldvai uralkodók egykori rezidenciája.", ro: "Fosta reședință a domnitorilor moldoveni.", en: "Former residence of the Moldavian rulers." },
+    image: ""
+  },
+  {
+    id: "ro-poi-muzeul-stefan", type: "cultural", parent: "RO-VS", coords: [46.636, 27.73],
+    name: { de: "Kreismuseum Stefan der Große", hu: "Nagy István Megyei Múzeum", ro: "Muzeul Județean Ștefan cel Mare", en: "Stephen the Great County Museum" },
+    description: { de: "Museum für Geschichte und Archäologie.", hu: "Történelmi és régészeti múzeum.", ro: "Muzeu de istorie și arheologie.", en: "Museum of history and archeology." },
+    image: ""
+  },
+
+  // VÂLCEA (RO-VL)
+  {
+    id: "ro-poi-manastirea-cozia", type: "historical", parent: "RO-VL", coords: [45.2731, 24.3164],
+    name: { de: "Kloster Cozia", hu: "Cozia-kolostor", ro: "Mănăstirea Cozia", en: "Cozia Monastery" },
+    description: { de: "Mittelalterliches Kloster am Fluss Olt.", hu: "Középkori kolostor az Olt folyó partján.", ro: "Mănăstire medievală pe malul Oltului.", en: "Medieval monastery on the Olt river." },
+    image: ""
+  },
+  {
+    id: "ro-poi-salina-ocnele-mari", type: "landmark", parent: "RO-VL", coords: [45.0833, 24.3167],
+    name: { de: "Salzbergwerk Ocnele Mari", hu: "Ocnele Mari Sóbánya", ro: "Salina Ocnele Mari", en: "Ocnele Mari Salt Mine" },
+    description: { de: "Großes touristisches Salzbergwerk.", hu: "Nagy turisztikai sóbánya.", ro: "Mare salină turistică.", en: "Large tourist salt mine." },
+    image: ""
+  },
+
+  // VRANCEA (RO-VN)
+  {
+    id: "ro-poi-focsani", type: "city", parent: "RO-VN", coords: [45.7, 27.1833],
+    name: { de: "Fokschan", hu: "Foksány", ro: "Focșani", en: "Focșani" },
+    description: { de: "Kreishauptstadt in der historischen Region Moldau.", hu: "Megyeszékhely a történelmi Moldva régióban.", ro: "Oraș reședință în regiunea istorică Moldova.", en: "County capital in the historical region of Moldavia." },
+    image: ""
+  },
+  {
+    id: "ro-poi-mausoleul-marasesti", type: "historical", parent: "RO-VN", coords: [45.8833, 27.2333],
+    name: { de: "Mausoleum Mărășești", hu: "Mărășești-i mauzóleum", ro: "Mausoleul de la Mărășești", en: "Mărășești Mausoleum" },
+    description: { de: "Denkmal für die Gefallenen des Ersten Weltkriegs.", hu: "Az első világháború hőseinek emlékműve.", ro: "Monument dedicat eroilor din Primul Război Mondial.", en: "Monument dedicated to the heroes of World War I." },
+    image: ""
+  },
+  {
+    id: "ro-poi-rezervatia-putna", type: "nature", parent: "RO-VN", coords: [45.9167, 26.5667],
+    name: { de: "Naturpark Putna-Vrancea", hu: "Putna-Vrancea Natúrpark", ro: "Parcul Natural Putna-Vrancea", en: "Putna-Vrancea Natural Park" },
+    description: { de: "Schutzgebiet mit Wasserfällen und Wäldern.", hu: "Védett terület vízesésekkel és erdőkkel.", ro: "Arie protejată cu cascade și păduri.", en: "Protected area with waterfalls and forests." },
+    image: ""
+  }
+];
+
 export const romaniaAllPois: POI[] = [
   ...romaniaCountry,
   ...romaniaRegions,
@@ -1389,4 +1841,5 @@ export const romaniaAllPois: POI[] = [
   ...romaniaTraditions,
   ...romaniaWildlife,
   ...romaniaFolk,
+  ...romaniaExtraPois,
 ];
