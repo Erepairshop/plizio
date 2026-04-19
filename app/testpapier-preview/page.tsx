@@ -11,10 +11,11 @@ import {
   StromkreisSvg as ProStromkreis,
 } from "@/components/testpapier-visual/svg/ProbeSvgsPro";
 import { WinterSvg, VogelSvg, FruehlingSvg } from "@/components/testpapier-visual/svg/K1K2SvgsA";
+import { BlumeSvg, SkelettSvg, FischAnatomieSvg } from "@/components/testpapier-visual/svg/K5K6SvgsA";
 
 const MODELS = [
-  { id: "flash", label: "Gemini 3 Flash (Chromebook)", Sun: FlashSun, Thermometer: FlashThermometer, Stromkreis: FlashStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg },
-  { id: "pro", label: "Gemini 3.1 Pro (Windows)", Sun: ProSun, Thermometer: ProThermometer, Stromkreis: ProStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg },
+  { id: "flash", label: "Gemini 3 Flash (Chromebook)", Sun: FlashSun, Thermometer: FlashThermometer, Stromkreis: FlashStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg, Blume: BlumeSvg, Skelett: SkelettSvg, Fisch: FischAnatomieSvg },
+  { id: "pro", label: "Gemini 3.1 Pro (Windows)", Sun: ProSun, Thermometer: ProThermometer, Stromkreis: ProStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg, Blume: BlumeSvg, Skelett: SkelettSvg, Fisch: FischAnatomieSvg },
 ];
 
 const SCENARIOS = [
@@ -53,6 +54,24 @@ const SCENARIOS = [
     hint: "Was passiert im Frühling?",
     choices: ["Schnee fällt", "Blumen blühen", "Blätter fallen", "Es ist sehr heiß"],
     key: "Fruehling",
+  },
+  {
+    name: "BlumeSvg — K5-K6 Biologie (Növénytan)",
+    hint: "Welcher Teil der Pflanze ist hier bunt?",
+    choices: ["Wurzel", "Stängel", "Blüte", "Blatt"],
+    key: "Blume",
+  },
+  {
+    name: "SkelettSvg — K5-K6 Biologie (Emberi test)",
+    hint: "Welches Organ wird durch den Brustkorb geschützt?",
+    choices: ["Gehirn", "Herz und Lunge", "Magen", "Darm"],
+    key: "Skelett",
+  },
+  {
+    name: "FischAnatomieSvg — K5-K6 Biologie (Állatok)",
+    hint: "Womit atmen Fische unter Wasser?",
+    choices: ["Lunge", "Kiemen", "Flossen", "Schuppen"],
+    key: "Fisch",
   },
 ] as const;
 
