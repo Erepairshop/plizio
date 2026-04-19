@@ -29,6 +29,13 @@ const EUROPA_LABEL: Record<Lang, string> = {
   en: "Europe Map",
 };
 
+const GLOBE_LABEL: Record<Lang, string> = {
+  de: "3D Globus",
+  hu: "3D Glóbusz",
+  ro: "Glob 3D",
+  en: "3D Globe",
+};
+
 export default function LearnPage() {
   const router = useRouter();
   const { lang } = useLang();
@@ -68,14 +75,24 @@ export default function LearnPage() {
             <h1 className="text-xl font-black text-white leading-tight">{TITLE[l]}</h1>
             <p className="text-white/50 text-xs">{SUBTITLE[l]}</p>
           </div>
-          <button
-            onClick={() => router.push("/europe-map")}
-            aria-label={EUROPA_LABEL[l]}
-            className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-cyan-500/30 to-blue-500/30 hover:from-cyan-500/45 hover:to-blue-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-          >
-            <Map size={14} className="text-cyan-300" />
-            {EUROPA_LABEL[l]}
-          </button>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => router.push("/world-globe")}
+              aria-label={GLOBE_LABEL[l]}
+              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-indigo-500/30 to-purple-500/30 hover:from-indigo-500/45 hover:to-purple-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            >
+              <Map size={14} className="text-indigo-300" />
+              {GLOBE_LABEL[l]}
+            </button>
+            <button
+              onClick={() => router.push("/europe-map")}
+              aria-label={EUROPA_LABEL[l]}
+              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-cyan-500/30 to-blue-500/30 hover:from-cyan-500/45 hover:to-blue-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            >
+              <Map size={14} className="text-cyan-300" />
+              {EUROPA_LABEL[l]}
+            </button>
+          </div>
         </header>
 
         <SubjectPicker />
