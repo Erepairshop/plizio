@@ -325,11 +325,11 @@ export default function HierarchicalThemeSelector({
         </motion.button>
       </div>
 
-      {/* Floating Start-Test FAB (bottom-right) */}
+      {/* Floating Start-Test FAB (bottom-center) */}
       <motion.button
         onClick={onStartTest}
         disabled={selectedSubtopics.length === 0 || loading}
-        className="fixed bottom-5 right-5 z-30 flex items-center gap-2 px-5 py-3 rounded-full
+        className="fixed bottom-5 left-1/2 -translate-x-1/2 z-30 flex items-center gap-2 px-5 py-3 rounded-full
                    font-black text-sm text-white shadow-xl disabled:opacity-30 disabled:cursor-not-allowed transition-all"
         style={{
           background: "linear-gradient(135deg, #3b82f6, #2563eb)",

@@ -1959,13 +1959,13 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               </motion.button>}
             </div>
 
-            {/* Start Button — compact floating FAB (bottom-right) */}
+            {/* Start Button — compact floating FAB (bottom-center) */}
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={startTest}
               disabled={selectedIds.length === 0 && !includeLesetest}
-              className="fixed bottom-5 right-5 z-30 flex items-center gap-2 px-5 py-3 rounded-full
+              className="fixed bottom-5 left-1/2 -translate-x-1/2 z-30 flex items-center gap-2 px-5 py-3 rounded-full
                          font-black text-sm text-black shadow-xl disabled:opacity-30 disabled:cursor-not-allowed transition-all"
               style={{
                 background: "linear-gradient(135deg, #00D4FF, #0099CC)",
