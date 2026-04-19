@@ -2,36 +2,31 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { DragAndDropContainer, DragItem, DropZone } from '@/components/interactive/DragAndDropContainer';
+import LocalizedText, { LocalizedTextObject, Language } from '@/components/i18n/LocalizedText';
+
+const DICTIONARY = {
+  en: { title: "Meteor Scale", score: "Score", gameOver: "Game Over", next: "Next", playAgain: "Play Again", tryAgain: "Try Again!" },
+  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Spiel vorbei", next: "Weiter", playAgain: "Nochmal spielen", tryAgain: "Versuch's nochmal!" },
+  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Játék vége", next: "Tovább", playAgain: "Újra", tryAgain: "Próbáld újra!" },
+  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Joc Terminat", next: "Următorul", playAgain: "Joacă din nou", tryAgain: "Încearcă din nou!" }
+};
 
 interface MeteorScaleGameProps {
   grade: number;
-  lang: 'de' | 'hu' | 'ro' | 'en';
+  lang: Language;
   onDone?: (score: number) => void;
 }
-
-const DICTIONARY = {
-  en: { title: "Meteor Scale", score: "Score", gameOver: "Game Over", next: "Next", playAgain: "Play Again" },
-  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Spiel vorbei", next: "Weiter", playAgain: "Nochmal spielen" },
-  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Játék vége", next: "Tovább", playAgain: "Újra" },
-  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Joc Terminat", next: "Următorul", playAgain: "Joacă din nou" }
-};
 
 interface Problem {
   leftDisplay: string;
   rightPrefix: string;
   rightSuffix: string;
   targetValue: number;
-  meteors: number[];
+  meteorValues: number[];
 }
 
-interface MeteorState {
-  id: string;
-  value: number;
-  xPercent: number;
-  delay: number;
-  status: 'falling' | 'wrong' | 'caught';
-}
-
+// This helper function can be kept as is.
 function generateProblem(grade: number): Problem {
   let leftDisplay = "";
   let rightPrefix = "";
@@ -39,7 +34,7 @@ function generateProblem(grade: number): Problem {
   let targetValue = 0;
 
   if (grade <= 2) {
-    targetValue = Math.floor(Math.random() * 9) + 1; // 1 to 9
+    targetValue = Math.floor(Math.random() * 9) + 1;
     const rightBase = Math.floor(Math.random() * (10 - targetValue));
     const leftValue = rightBase + targetValue;
     leftDisplay = leftValue.toString();
@@ -62,7 +57,7 @@ function generateProblem(grade: number): Problem {
   } else {
     const isMult = Math.random() > 0.5;
     if (isMult) {
-      const a = Math.floor(Math.random() * 8) + 2; // 2 to 9
+      const a = Math.floor(Math.random() * 8) + 2;
       targetValue = Math.floor(Math.random() * 8) + 2;
       const leftValue = a * targetValue;
       leftDisplay = leftValue.toString();
@@ -76,81 +71,90 @@ function generateProblem(grade: number): Problem {
     }
   }
 
-  const meteors = [targetValue];
+  const meteorValues = [targetValue];
   const numOptions = 4;
-  while (meteors.length < numOptions) {
+  while (meteorValues.length < numOptions) {
     const wrong = targetValue + Math.floor(Math.random() * 10) - 5;
-    if (wrong !== targetValue && wrong >= 0 && !meteors.includes(wrong)) {
-      meteors.push(wrong);
+    if (wrong !== targetValue && wrong >= 0 && !meteorValues.includes(wrong)) {
+      meteorValues.push(wrong);
     }
   }
-  meteors.sort(() => Math.random() - 0.5);
+  meteorValues.sort(() => Math.random() - 0.5);
 
-  return { leftDisplay, rightPrefix, rightSuffix, targetValue, meteors };
+  return { leftDisplay, rightPrefix, rightSuffix, targetValue, meteorValues };
 }
+
 
 export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGameProps) {
   const t = DICTIONARY[lang] || DICTIONARY.en;
-  
-  const [problem, setProblem] = useState<Problem | null>(null);
-  const [meteors, setMeteors] = useState<MeteorState[]>([]);
-  const [score, setScore] = useState(0);
-  const [scaleStatus, setScaleStatus] = useState<'left-heavy' | 'balanced'>('left-heavy');
-  const [caughtMeteor, setCaughtMeteor] = useState<number | null>(null);
-  const [rounds, setRounds] = useState(0);
-  const maxRounds = grade <= 5 ? 3 : 3 + (grade - 5);
-  const fallDuration = grade <= 2 ? 12 : grade <= 4 ? 9 : grade <= 6 ? 7 : 6;
 
-  const startRound = useCallback((currentRounds: number) => {
-    if (currentRounds >= maxRounds) return;
+  const [problem, setProblem] = useState<Problem | null>(null);
+  const [score, setScore] = useState(0);
+  const [scaleStatus, setScaleStatus] = useState<'left-heavy' | 'balanced' | 'incorrect'>('left-heavy');
+  const [caughtMeteorValue, setCaughtMeteorValue] = useState<number | null>(null);
+  const [rounds, setRounds] = useState(0);
+  const [gamePhase, setGamePhase] = useState<'playing' | 'gameOver'>('playing');
+  const [feedback, setFeedback] = useState<string | null>(null);
+
+  const maxRounds = grade <= 5 ? 3 : 3 + (grade - 5);
+
+  const startRound = useCallback(() => {
+    if (rounds >= maxRounds) {
+      setGamePhase('gameOver');
+      return;
+    }
     const newProb = generateProblem(grade);
     setProblem(newProb);
     setScaleStatus('left-heavy');
-    setCaughtMeteor(null);
-    const positions = [20, 40, 60, 80].sort(() => Math.random() - 0.5);
-    setMeteors(newProb.meteors.map((val, i) => ({
-      id: Math.random().toString(),
-      value: val,
-      xPercent: positions[i],
-      delay: Math.random() * 1.5,
-      status: 'falling'
-    })));
-  }, [grade, maxRounds]);
+    setCaughtMeteorValue(null);
+    setFeedback(null);
+  }, [grade, rounds, maxRounds]);
 
   const restart = useCallback(() => {
     setScore(0);
     setRounds(0);
     setProblem(null);
-    setMeteors([]);
-    setScaleStatus('left-heavy');
-    setCaughtMeteor(null);
-    setTimeout(() => startRound(0), 0);
+    setGamePhase('playing');
+    setTimeout(() => startRound(), 0);
   }, [startRound]);
 
   useEffect(() => {
-    startRound(0);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+    startRound();
+  }, [startRound]);
 
-  const handleMeteorClick = (id: string, value: number) => {
-    if (scaleStatus === 'balanced' || rounds >= maxRounds) return;
+  const handleDrop = (item: DragItem<{ value: number }>, zone: DropZone) => {
+    if (scaleStatus === 'balanced' || !problem) return;
 
-    if (value === problem?.targetValue) {
-      setMeteors(m => m.map(met => met.id === id ? { ...met, status: 'caught' } : met));
-      setScaleStatus('balanced');
-      setCaughtMeteor(value);
+    if (item.data?.value === problem.targetValue) {
       setScore(s => s + 10);
-      setRounds(r => {
-        const next = r + 1;
-        setTimeout(() => startRound(next), 2000);
-        return next;
-      });
+      setScaleStatus('balanced');
+      setCaughtMeteorValue(item.data.value);
+      setRounds(r => r + 1);
+      setTimeout(() => startRound(), 2500);
     } else {
-      setMeteors(m => m.map(met => met.id === id ? { ...met, status: 'wrong' } : met));
+      setScaleStatus('incorrect');
+      setFeedback(t.tryAgain);
+      // Revert back to left-heavy after a brief moment
+      setTimeout(() => {
+        setScaleStatus('left-heavy');
+        setFeedback(null);
+      }, 1500);
     }
   };
 
-  const scaleRotation = scaleStatus === 'balanced' ? 0 : -10;
+  const scaleRotation = scaleStatus === 'balanced' ? 0 : scaleStatus === 'incorrect' ? 10 : -10;
+  
+  const meteorItems: DragItem<{ value: number }>[] = problem ? problem.meteorValues.map(v => ({
+    id: `meteor-${v}-${rounds}`, // Make ID unique per round
+    label: `${v}`,
+    data: { value: v }
+  })) : [];
+
+  const dropZones: DropZone[] = [{
+      id: 'scale-pan-right',
+      label: 'Right Scale Pan'
+  }];
+
 
   return (
     <div className="flex flex-col items-center w-full max-w-4xl mx-auto p-4 bg-slate-900 rounded-2xl shadow-2xl border border-slate-700 font-sans">
@@ -163,13 +167,12 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
         </div>
       </div>
 
-      <div className="relative w-full h-[500px] sm:h-[600px] bg-slate-950 overflow-hidden rounded-xl border-2 border-slate-800 select-none">
-        {/* Starry background */}
+       <div className="relative w-full h-[500px] sm:h-[600px] bg-slate-950 overflow-hidden rounded-xl border-2 border-slate-800 select-none">
         <div className="absolute inset-0 opacity-40" style={{ backgroundImage: 'radial-gradient(circle, #fff 1.5px, transparent 1.5px)', backgroundSize: '40px 40px' }} />
         <div className="absolute inset-0 opacity-20" style={{ backgroundImage: 'radial-gradient(circle, #67e8f9 1px, transparent 1px)', backgroundSize: '60px 60px', backgroundPosition: '20px 20px' }} />
 
-        {rounds >= maxRounds && (
-          <motion.div
+        {gamePhase === 'gameOver' && (
+           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-slate-950/85 backdrop-blur-sm"
@@ -182,51 +185,60 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
             >
               {t.playAgain}
             </button>
-            {onDone && (
-              <button
-                onClick={() => onDone(score)}
-                className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold transition-colors"
-              >
-                {t.next}
-              </button>
-            )}
+            {onDone && <button onClick={() => onDone(score)} className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold transition-colors">{t.next}</button>}
           </motion.div>
         )}
+        
+        <DragAndDropContainer
+            items={caughtMeteorValue ? [] : meteorItems}
+            zones={dropZones}
+            onDrop={handleDrop}
+            className="w-full h-full"
+            renderItem={(item) => (
+                <motion.div 
+                    initial={{ opacity: 0, y: -100, scale: 0.5 }}
+                    animate={{ opacity: 1, y: 0, scale: 1, transition: { delay: Math.random() * 1 } }}
+                    exit={{ opacity: 0, scale: 0, transition: { duration: 0.3 } }}
+                    className="cursor-grab active:cursor-grabbing w-16 h-16 rounded-full flex items-center justify-center text-white text-2xl font-black shadow-[0_0_20px_#f97316] border-2 bg-orange-900 border-orange-400"
+                    whileDrag={{ zIndex: 50, scale: 1.2, boxShadow: '0 0 30px #f97316' }}
+                >
+                    {item.label}
+                </motion.div>
+            )}
+            renderZone={(zone, droppedItems, isHovering) => {
+                const panColor = scaleStatus === 'balanced' ? 'border-green-400' : scaleStatus === 'incorrect' ? 'border-red-500' : 'border-cyan-400';
+                const panShadow = scaleStatus === 'balanced' ? 'shadow-[0_15px_30px_rgba(74,222,128,0.4)]' : scaleStatus === 'incorrect' ? 'shadow-[0_15px_30px_rgba(239,68,68,0.4)]' : 'shadow-[0_15px_30px_rgba(34,211,238,0.3)]';
 
-        {/* Falling Meteors */}
-        <AnimatePresence>
-          {meteors.map(meteor => {
-            if (meteor.status === 'caught') return null; // Remove from falling view
-            return (
-              <motion.div
-                key={meteor.id}
-                initial={{ y: -100, x: `${meteor.xPercent}%`, opacity: 0 }}
-                animate={
-                  meteor.status === 'wrong' 
-                    ? { y: 800, scale: 0.5, opacity: 0, rotate: 180 } 
-                    : { y: 800, opacity: 1, rotate: 90 }
-                }
-                transition={{ 
-                  duration: meteor.status === 'wrong' ? 1 : fallDuration,
-                  delay: meteor.status === 'wrong' ? 0 : meteor.delay, 
-                  ease: "linear",
-                  repeat: meteor.status === 'falling' ? Infinity : 0
-                }}
-                onMouseDown={() => handleMeteorClick(meteor.id, meteor.value)}
-                onTouchStart={() => handleMeteorClick(meteor.id, meteor.value)}
-                className="absolute cursor-pointer z-20 top-0"
-                style={{ left: `${meteor.xPercent}%`, marginLeft: '-2rem' }}
-              >
-                <div className={`w-16 h-16 rounded-full flex items-center justify-center text-white text-2xl font-black shadow-[0_0_20px_#f97316] border-2 ${meteor.status === 'wrong' ? 'bg-red-900 border-red-500 shadow-red-500' : 'bg-orange-900 border-orange-400'}`}>
-                   {meteor.value}
-                </div>
-              </motion.div>
-            );
-          })}
-        </AnimatePresence>
+                return (
+                    <div className={`w-24 sm:w-32 h-16 sm:h-20 rounded-b-full border-b-[6px] flex items-center justify-center bg-cyan-950/80 transition-all duration-300 ${panColor} ${panShadow} ${isHovering && 'bg-cyan-900 scale-105'}`}>
+                         <span className="text-white text-xl sm:text-2xl font-black flex items-center">
+                            {problem?.rightPrefix}
+                            {caughtMeteorValue !== null ? (
+                                <motion.span 
+                                    initial={{ scale: 3, opacity: 0 }} 
+                                    animate={{ scale: 1, opacity: 1 }} 
+                                    className="text-green-400 mx-1"
+                                >
+                                    {caughtMeteorValue}
+                                </motion.span>
+                            ) : (
+                                <span className="text-cyan-600/50 mx-1">?</span>
+                            )}
+                            {problem?.rightSuffix}
+                        </span>
+                        <AnimatePresence>
+                        {feedback && (
+                            <motion.div initial={{y: 20, opacity: 0}} animate={{y: 0, opacity: 1}} exit={{y: -20, opacity: 0}} className="absolute -bottom-10 text-red-500 font-bold text-lg">
+                                {feedback}
+                            </motion.div>
+                        )}
+                        </AnimatePresence>
+                    </div>
+                );
+            }}
+        />
 
-        {/* The Scale */}
-        <div className="absolute bottom-32 left-1/2 -translate-x-1/2 flex flex-col items-center z-10 pointer-events-none">
+        <div className="absolute bottom-32 left-1/2 -translate-x-1/2 flex flex-col items-center z-0 pointer-events-none">
           <motion.div 
             animate={{ rotate: scaleRotation }} 
             className="w-72 sm:w-96 h-3 sm:h-4 bg-cyan-400 rounded-full relative shadow-[0_0_15px_#22d3ee]"
@@ -239,28 +251,12 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
                 <span className="text-white text-2xl sm:text-3xl font-black">{problem?.leftDisplay}</span>
               </div>
             </div>
-
-            {/* Right Pan */}
-            <div className="absolute -right-12 sm:-right-16 top-1 sm:top-2 flex flex-col items-center" style={{ width: '100px' }}>
-              <div className="w-1 h-20 sm:h-24 bg-cyan-400/80" />
-              <div className="w-24 sm:w-32 h-16 sm:h-20 rounded-b-full border-b-[6px] border-cyan-400 flex items-center justify-center bg-cyan-950/80 shadow-[0_15px_30px_rgba(34,211,238,0.3)] whitespace-nowrap px-2">
-                <span className="text-white text-xl sm:text-2xl font-black flex items-center">
-                  {problem?.rightPrefix}
-                  {caughtMeteor !== null ? (
-                    <motion.span 
-                      initial={{ scale: 3, opacity: 0 }} 
-                      animate={{ scale: 1, opacity: 1 }} 
-                      className="text-orange-400 mx-1"
-                    >
-                      {caughtMeteor}
-                    </motion.span>
-                  ) : (
-                    <span className="text-cyan-600/50 mx-1">?</span>
-                  )}
-                  {problem?.rightSuffix}
-                </span>
-              </div>
-            </div>
+            
+            {/* Right Pan - The actual DropZone is rendered by DragAndDropContainer, this is just a placeholder in the structure */}
+             <div className="absolute -right-12 sm:-right-16 top-1 sm:top-2 flex flex-col items-center" style={{ width: '100px' }}>
+                <div className="w-1 h-20 sm:h-24 bg-cyan-400/80" />
+                {/* The visual pan is rendered via renderZone */}
+             </div>
           </motion.div>
 
           {/* Scale Base */}
