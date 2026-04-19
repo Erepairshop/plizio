@@ -84,14 +84,6 @@ export default function LearnPage() {
           </div>
           <div className="flex items-center gap-2">
             <button
-              onClick={() => router.push("/codekids")}
-              aria-label={CODEKIDS_LABEL[l]}
-              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-pink-500/30 to-orange-500/30 hover:from-pink-500/45 hover:to-orange-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
-            >
-              <Code2 size={14} className="text-pink-300" />
-              {CODEKIDS_LABEL[l]}
-            </button>
-            <button
               onClick={() => router.push("/world-globe")}
               aria-label={GLOBE_LABEL[l]}
               className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-indigo-500/30 to-purple-500/30 hover:from-indigo-500/45 hover:to-purple-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
