@@ -1,5 +1,8 @@
 'use client';
 
+import React from 'react';
+import * as K5K6 from "@/components/testpapier-visual/svg/K5K6SvgsA";
+
 /**
  * OrganDiagram — Identify organ by emoji icon + location hint
  * Unique biology component: visual organ identification with MCQ
@@ -9,6 +12,7 @@ interface Props {
   organEmoji: string;    // e.g. "❤️"
   bodyRegion: string;    // e.g. "Brust links"
   organHint: string;     // e.g. "Pumpt das Blut durch den Körper"
+  svgName?: string;
   options: string[];     // shuffled answer options
   correctIndex: number;
   userAnswer: string;
@@ -18,7 +22,7 @@ interface Props {
 
 const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899'];
 
-export default function OrganDiagram({ organEmoji, bodyRegion, organHint, options, correctIndex, userAnswer, submitted, onAnswer }: Props) {
+export default function OrganDiagram({ organEmoji, bodyRegion, organHint, svgName, options, correctIndex, userAnswer, submitted, onAnswer }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
 
@@ -31,9 +35,15 @@ export default function OrganDiagram({ organEmoji, bodyRegion, organHint, option
 
       {/* Organ hint card */}
       <div className="flex items-center gap-2 mb-1.5 pl-6">
-        <div className="w-10 h-10 rounded-xl bg-red-50 border-2 border-red-100 flex items-center justify-center text-xl shrink-0">
-          {organEmoji}
-        </div>
+        {svgName && (K5K6 as any)[svgName] ? (
+          <div className="mx-auto my-2 w-full max-w-[120px]">
+            {React.createElement((K5K6 as any)[svgName], { className: "w-full h-auto max-h-20" })}
+          </div>
+        ) : (
+          <div className="w-10 h-10 rounded-xl bg-red-50 border-2 border-red-100 flex items-center justify-center text-xl shrink-0">
+            {organEmoji}
+          </div>
+        )}
         <div>
           <div className="text-xs text-slate-400">Lage: <span className="font-semibold text-slate-600">{bodyRegion}</span></div>
           <div className="text-xs text-slate-500 italic">{organHint}</div>

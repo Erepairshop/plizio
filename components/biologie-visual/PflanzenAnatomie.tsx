@@ -1,5 +1,8 @@
 'use client';
 
+import React from 'react';
+import * as K5K6 from "@/components/testpapier-visual/svg/K5K6SvgsA";
+
 /**
  * PflanzenAnatomie — Identify plant part by emoji + hint
  * Unique biology component: plant anatomy MCQ
@@ -8,6 +11,7 @@
 interface Props {
   partEmoji: string;    // e.g. "🌸"
   partHint: string;     // e.g. "Dient der Fortpflanzung, oft bunt gefärbt"
+  svgName?: string;
   options: string[];    // shuffled plant part names
   correctIndex: number;
   userAnswer: string;
@@ -17,7 +21,7 @@ interface Props {
 
 const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6'];
 
-export default function PflanzenAnatomie({ partEmoji, partHint, options, correctIndex, userAnswer, submitted, onAnswer }: Props) {
+export default function PflanzenAnatomie({ partEmoji, partHint, svgName, options, correctIndex, userAnswer, submitted, onAnswer }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
 
@@ -30,9 +34,15 @@ export default function PflanzenAnatomie({ partEmoji, partHint, options, correct
 
       {/* Plant part hint */}
       <div className="flex items-center gap-2 mb-1.5 pl-6">
-        <div className="w-10 h-10 rounded-xl bg-green-50 border-2 border-green-100 flex items-center justify-center text-xl shrink-0">
-          {partEmoji}
-        </div>
+        {svgName && (K5K6 as any)[svgName] ? (
+          <div className="mx-auto my-2 w-full max-w-[120px]">
+            {React.createElement((K5K6 as any)[svgName], { className: "w-full h-auto max-h-20" })}
+          </div>
+        ) : (
+          <div className="w-10 h-10 rounded-xl bg-green-50 border-2 border-green-100 flex items-center justify-center text-xl shrink-0">
+            {partEmoji}
+          </div>
+        )}
         <div className="text-xs text-slate-500 italic max-w-[200px]">{partHint}</div>
       </div>
 

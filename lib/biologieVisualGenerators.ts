@@ -103,8 +103,8 @@ const FOOD_CHAINS = [
 ];
 
 const ORGANS_DIAGRAM = [
-  { organEmoji: "❤️",  bodyRegion: "Brust links",          organHint: "Pumpt das Blut durch den Körper",     correct: "Herz" },
-  { organEmoji: "🫁",  bodyRegion: "Brusthöhle (2×)",       organHint: "Aufnahme von Sauerstoff aus der Luft", correct: "Lunge" },
+  { organEmoji: "❤️",  bodyRegion: "Brust links",          organHint: "Pumpt das Blut durch den Körper",     correct: "Herz", svgName: "HerzSvg" },
+  { organEmoji: "🫁",  bodyRegion: "Brusthöhle (2×)",       organHint: "Aufnahme von Sauerstoff aus der Luft", correct: "Lunge", svgName: "LungeSvg" },
   { organEmoji: "🧠",  bodyRegion: "Schädel/Kopf",           organHint: "Steuerzentrale des Nervensystems",    correct: "Gehirn" },
   { organEmoji: "🟤",  bodyRegion: "Bauch Mitte",            organHint: "Zerkleinert und verdaut die Nahrung", correct: "Magen" },
   { organEmoji: "🟫",  bodyRegion: "Bauch rechts oben",      organHint: "Reinigt das Blut, produziert Galle",  correct: "Leber" },
@@ -115,10 +115,10 @@ const ORGANS_DIAGRAM = [
 const ALL_ORGANS_DIAGRAM = ["Herz", "Lunge", "Gehirn", "Magen", "Leber", "Niere", "Zähne", "Auge", "Ohr", "Nase"];
 
 const PLANT_PARTS = [
-  { partEmoji: "🌸", partHint: "Dient der Fortpflanzung, oft bunt gefärbt, zieht Insekten an",   correct: "Blüte" },
-  { partEmoji: "🍃", partHint: "Betreibt Photosynthese, nimmt Kohlendioxid auf",                  correct: "Blatt" },
-  { partEmoji: "🌿", partHint: "Verbindet Wurzel und Blätter, leitet Wasser nach oben",            correct: "Stängel" },
-  { partEmoji: "🌱", partHint: "Verankert die Pflanze im Boden, saugt Wasser und Nährstoffe",     correct: "Wurzel" },
+  { partEmoji: "🌸", partHint: "Dient der Fortpflanzung, oft bunt gefärbt, zieht Insekten an",   correct: "Blüte", svgName: "BlumeSvg" },
+  { partEmoji: "🍃", partHint: "Betreibt Photosynthese, nimmt Kohlendioxid auf",                  correct: "Blatt", svgName: "BlattSvg" },
+  { partEmoji: "🌿", partHint: "Verbindet Wurzel und Blätter, leitet Wasser nach oben",            correct: "Stängel", svgName: "BlattSvg" },
+  { partEmoji: "🌱", partHint: "Verankert die Pflanze im Boden, saugt Wasser und Nährstoffe",     correct: "Wurzel", svgName: "WurzelSvg" },
   { partEmoji: "🍎", partHint: "Enthält die Samen, entsteht nach der Bestäubung",                 correct: "Frucht" },
   { partEmoji: "🌰", partHint: "Daraus entsteht eine neue Pflanze, enthält den Keimling",         correct: "Samen" },
   { partEmoji: "🌺", partHint: "Äußere Blätter der Blüte, schützen die Blütenknospe",             correct: "Kelchblatt" },
@@ -308,6 +308,7 @@ const ORGAN_DIAGRAM: VisualQuestionType = {
         organEmoji: organ.organEmoji,
         bodyRegion: organ.bodyRegion,
         organHint: organ.organHint,
+        svgName: organ.svgName,
         options,
         correctIndex: options.indexOf(organ.correct),
         question: organ.correct,
@@ -322,6 +323,7 @@ const ORGAN_DIAGRAM: VisualQuestionType = {
     organEmoji: q.organEmoji,
     bodyRegion: q.bodyRegion,
     organHint: q.organHint,
+    svgName: q.svgName,
     options: q.options,
     correctIndex: q.correctIndex,
     userAnswer,
@@ -346,6 +348,7 @@ const PFLANZEN_ANATOMIE: VisualQuestionType = {
       return {
         partEmoji: part.partEmoji,
         partHint: part.partHint,
+        svgName: part.svgName,
         options,
         correctIndex: options.indexOf(part.correct),
         question: part.correct,
@@ -359,6 +362,7 @@ const PFLANZEN_ANATOMIE: VisualQuestionType = {
   mapProps: (q, userAnswer, submitted, onAnswer) => ({
     partEmoji: q.partEmoji,
     partHint: q.partHint,
+    svgName: q.svgName,
     options: q.options,
     correctIndex: q.correctIndex,
     userAnswer,
