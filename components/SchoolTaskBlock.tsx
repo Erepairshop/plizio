@@ -148,12 +148,10 @@ interface Props {
   speakLang?: string;
 }
 
+import { speak as centralSpeak } from "@/lib/astromath-tts";
+
 function speakText(text: string, bcp47: string) {
-  if (typeof window === "undefined" || !window.speechSynthesis) return;
-  window.speechSynthesis.cancel();
-  const utt = new SpeechSynthesisUtterance(text);
-  utt.lang = bcp47; utt.rate = 0.88; utt.pitch = 1.1;
-  window.speechSynthesis.speak(utt);
+  centralSpeak(text, bcp47.split("-")[0].toLowerCase());
 }
 
 // Circle numbers ①②③…

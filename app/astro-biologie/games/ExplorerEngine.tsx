@@ -6,6 +6,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 import { memo, useState, useCallback, useMemo, useRef, useEffect } from "react";
+import { speak as centralSpeak } from "@/lib/astromath-tts";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, Volume2, Mic, MicOff, Loader2 } from "lucide-react";
 import { askAITutor } from "@/lib/aiChat";
@@ -670,31 +671,10 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   // Label lookup helper
   const L = (key: string) => t[key] || tFallback[key] || key;
 
-  // TTS speak helper — tries to pick the best available voice
+  // TTS speak helper — delegates to central strict-voice implementation
+  // (skips silently if no native voice for langCode — no wrong-accent fallback)
   const speak = useCallback((text: string) => {
-    if (typeof window === "undefined") return;
-    window.speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    const targetLang = langCode === "hu" ? "hu" : langCode === "de" ? "de" : langCode === "ro" ? "ro" : "en";
-    u.lang = langCode === "hu" ? "hu-HU" : langCode === "de" ? "de-DE" : langCode === "ro" ? "ro-RO" : "en-US";
-
-    // Try to find a better voice (prefer Google/Microsoft voices over default)
-    const voices = window.speechSynthesis.getVoices();
-    const langVoices = voices.filter(v => v.lang.startsWith(targetLang));
-    const preferred = langVoices.find(v => /google|microsoft|online|natural|neural/i.test(v.name))
-      || langVoices.find(v => !v.localService) // cloud voices are usually better
-      || langVoices[0];
-    if (preferred) u.voice = preferred;
-
-    // Hungarian: slower + higher pitch = less robotic
-    if (langCode === "hu") {
-      u.rate = 0.82;
-      u.pitch = 1.1;
-    } else {
-      u.rate = 0.9;
-      u.pitch = 1.0;
-    }
-    window.speechSynthesis.speak(u);
+    centralSpeak(text, langCode);
   }, [langCode]);
 
   // ── Welcome screen TTS — auto-read greeting + topics on mount ───────────

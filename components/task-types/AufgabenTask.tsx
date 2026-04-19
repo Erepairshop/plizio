@@ -2,6 +2,7 @@
 
 import React, { useRef } from 'react';
 import type { AufgabenData, SchoolTaskAnswers } from '@/lib/schoolTaskGenerator';
+import { speak as centralSpeak } from '@/lib/astromath-tts';
 
 interface Props {
   blockId: string;
@@ -15,13 +16,7 @@ interface Props {
 }
 
 function speakText(text: string, bcp47: string) {
-  if (typeof window === 'undefined' || !window.speechSynthesis) return;
-  window.speechSynthesis.cancel();
-  // Strip emoji and extra whitespace before speaking
-  const clean = text.replace(/[\u{1F300}-\u{1FFFF}]/gu, '').replace(/\s+/g, ' ').trim();
-  const utt = new SpeechSynthesisUtterance(clean);
-  utt.lang = bcp47; utt.rate = 0.88; utt.pitch = 1.1;
-  window.speechSynthesis.speak(utt);
+  centralSpeak(text, bcp47.split('-')[0].toLowerCase());
 }
 
 export default function AufgabenTask({

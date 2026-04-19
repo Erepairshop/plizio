@@ -49,34 +49,14 @@ import EpochenZeitstrahl from "@/components/deutsch-visual/EpochenZeitstrahl";
 import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genLueckenText, genSatzgefuge, genEpochenZeitstrahl } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 import { generateDeutschTestPdf } from "@/lib/generateDeutschTestPdf";
+import { speak as centralSpeak } from "@/lib/astromath-tts";
 import type { LanguageTestEngineConfig, VisualQuestionType } from "@/lib/languageTestTypes";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
-function speakText(text: string, ttsLang = "de-DE", ttsRate = 0.88, ttsPitch = 1.1) {
-  if (typeof window === "undefined" || !window.speechSynthesis) return;
-  window.speechSynthesis.cancel();
-
-  const doSpeak = () => {
-    const utt = new SpeechSynthesisUtterance(text);
-    utt.lang = ttsLang;
-    utt.rate = ttsRate;
-    utt.pitch = ttsPitch;
-    // Explicit voice selection — Chrome desktop needs this
-    const voices = window.speechSynthesis.getVoices();
-    const langPrefix = ttsLang.split("-")[0];
-    const deVoice = voices.find(v => v.lang.startsWith(langPrefix)) ?? voices[0];
-    if (deVoice) utt.voice = deVoice;
-    window.speechSynthesis.speak(utt);
-  };
-
-  // Chrome desktop bug: cancel() needs a small delay before speak()
-  // Also wait for voices to load if not ready yet
-  const voices = window.speechSynthesis.getVoices();
-  if (voices.length > 0) {
-    setTimeout(doSpeak, 50);
-  } else {
-    window.speechSynthesis.addEventListener("voiceschanged", () => setTimeout(doSpeak, 50), { once: true });
-  }
+// Delegates to central strict-voice helper — skips silently if no native voice
+// (e.g. if mobile Android has no Hungarian/Romanian voice, better silent than wrong-accent English/Italian fallback)
+function speakText(text: string, ttsLang = "de-DE", _ttsRate?: number, _ttsPitch?: number) {
+  centralSpeak(text, ttsLang.split("-")[0].toLowerCase());
 }
 
 // ─── FLOATING BACKGROUND ─────────────────────────────────────────────────────

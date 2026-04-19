@@ -13,6 +13,7 @@ import { memo, useState, useCallback, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Loader2, Volume2, Sparkles, X } from "lucide-react";
 import { askWhyCorrect } from "@/lib/aiChat";
+import { speak as centralSpeak } from "@/lib/astromath-tts";
 
 // ─── UI Labels ───────────────────────────────────────────────────────────────
 
@@ -26,20 +27,7 @@ const UI: Record<string, Record<string, string>> = {
 // ─── TTS helper ──────────────────────────────────────────────────────────────
 
 function speakText(text: string, lang: string) {
-  if (typeof window === "undefined") return;
-  window.speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(text);
-  const targetLang = lang === "hu" ? "hu" : lang === "de" ? "de" : lang === "ro" ? "ro" : "en";
-  u.lang = lang === "hu" ? "hu-HU" : lang === "de" ? "de-DE" : lang === "ro" ? "ro-RO" : "en-US";
-  const voices = window.speechSynthesis.getVoices();
-  const langVoices = voices.filter(v => v.lang.startsWith(targetLang));
-  const preferred = langVoices.find(v => /google|microsoft|online|natural|neural/i.test(v.name))
-    || langVoices.find(v => !v.localService)
-    || langVoices[0];
-  if (preferred) u.voice = preferred;
-  if (lang === "hu") { u.rate = 0.82; u.pitch = 1.1; }
-  else { u.rate = 0.9; u.pitch = 1.0; }
-  window.speechSynthesis.speak(u);
+  centralSpeak(text, lang);
 }
 
 // ─── Event detail type ───────────────────────────────────────────────────────
