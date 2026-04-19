@@ -43,6 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/italy-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/spain-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/unitedkingdom-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/netherlands-map`, lastModified, priority: 0.9 },
   ];
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>

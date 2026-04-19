@@ -20,6 +20,7 @@ const COUNTRY_BINDINGS: Record<string, string> = {
   IT: "/italy-map",
   ES: "/spain-map",
   GB: "/unitedkingdom-map",
+  NL: "/netherlands-map",
 };
 
 const COMING_SOON: Record<Lang, string> = {
