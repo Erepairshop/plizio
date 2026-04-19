@@ -1959,28 +1959,27 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
               </motion.button>}
             </div>
 
-            {/* Start Button */}
-            <div className="fixed bottom-0 left-0 right-0 p-4 z-20" style={{ background: "linear-gradient(to top, #0A0A1A 60%, transparent)" }}>
-              <motion.button
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.97 }}
-                onClick={startTest}
-                disabled={selectedIds.length === 0 && !includeLesetest}
-                className="w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg text-black
-                           disabled:opacity-30 disabled:cursor-not-allowed transition-all"
-                style={{
-                  background: "linear-gradient(135deg, #00D4FF, #0099CC)",
-                  boxShadow: selectedIds.length > 0 || includeLesetest ? "0 0 24px rgba(0,212,255,0.45)" : "none",
-                }}
-              >
-                {labels.startTest}
-                {(selectedIds.length > 0 || includeLesetest) && (
-                  <span className="font-normal text-sm ml-2 opacity-70">
-                    ({selectedIds.length + (includeLesetest ? 1 : 0)} {labels.areas})
-                  </span>
-                )}
-              </motion.button>
-            </div>
+            {/* Start Button — compact floating FAB (bottom-right) */}
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={startTest}
+              disabled={selectedIds.length === 0 && !includeLesetest}
+              className="fixed bottom-5 right-5 z-30 flex items-center gap-2 px-5 py-3 rounded-full
+                         font-black text-sm text-black shadow-xl disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+              style={{
+                background: "linear-gradient(135deg, #00D4FF, #0099CC)",
+                boxShadow: selectedIds.length > 0 || includeLesetest ? "0 0 24px rgba(0,212,255,0.55)" : "0 4px 12px rgba(0,0,0,0.3)",
+              }}
+            >
+              <span>🚀</span>
+              <span>{labels.startTest}</span>
+              {(selectedIds.length > 0 || includeLesetest) && (
+                <span className="font-bold text-xs bg-black/20 px-2 py-0.5 rounded-full">
+                  {selectedIds.length + (includeLesetest ? 1 : 0)}
+                </span>
+              )}
+            </motion.button>
           </motion.div>
         )}
 
