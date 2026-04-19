@@ -1,0 +1,331 @@
+{
+  "id": "info-c4-hu-t04",
+  "title": "Utasítássorozat",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 1)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 2)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 3)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 4)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 5)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 6)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 7)",
+      "options": [
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz B",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 8)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 9)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 10)",
+      "options": [
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz B",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 11)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 12)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 13)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 14)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 15)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 16)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 17)",
+      "options": [
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz B",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 18)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 19)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 20)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 21)",
+      "options": [
+        "Helytelen válasz A",
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 22)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 23)",
+      "options": [
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz B",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 24)",
+      "options": [
+        "Helyes válasz ehhez: Utasítássorozat",
+        "Helytelen válasz B",
+        "Helytelen válasz C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: Utasítássorozat? (Kérdés 25)",
+      "options": [
+        "Helytelen válasz A",
+        "Helytelen válasz B",
+        "Helyes válasz ehhez: Utasítássorozat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 1."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 2."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 3."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 4."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 5."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 6."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 7."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 8."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 9."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "Ez egy szöveg erről: Utasítássorozat szám 10."
+    }
+  ]
+}

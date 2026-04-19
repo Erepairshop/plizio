@@ -1,0 +1,331 @@
+{
+  "id": "info-c4-de-t19",
+  "title": "Sicherheit: starkes Passwort",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 1)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 2)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 3)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 4)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 5)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 6)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 7)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 8)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 9)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 10)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 11)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 12)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 13)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 14)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 15)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 16)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 17)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 18)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 19)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 20)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 21)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 22)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 23)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 24)",
+      "options": [
+        "Richtige Antwort zu Sicherheit: starkes Passwort",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Sicherheit: starkes Passwort? (Frage 25)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Sicherheit: starkes Passwort"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 1."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 2."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 3."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 4."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 5."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 6."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 7."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 8."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 9."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "Das ist ein Text über Sicherheit: starkes Passwort Nummer 10."
+    }
+  ]
+}
