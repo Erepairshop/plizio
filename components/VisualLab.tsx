@@ -397,6 +397,12 @@ for (const lg of ["de", "hu", "ro", "en"] as Lang[]) {
 /* Component                                                           */
 /* ------------------------------------------------------------------ */
 
+function isActiveMap(subject: VisualLabSubject, gameId: string | null): boolean {
+  if (!gameId) return false;
+  if (subject !== "geographie") return false;
+  return gameId === "deutschland-map" || gameId === "europe-map" || gameId === "magyarorszag-map" || gameId === "romania-map";
+}
+
 function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -470,7 +476,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
           </header>
 
           {/* Body */}
-          <div className="flex-1 overflow-y-auto px-4 py-6">
+          <div className={`flex-1 min-h-0 ${isActiveMap(subject, activeGame) ? "overflow-hidden" : "overflow-y-auto px-4 py-6"}`}>
             {!activeGame ? (
               <GamePicker games={games} t={t} onPick={(id) => setActiveGame(id)} />
             ) : (
