@@ -16,6 +16,10 @@ const COUNTRY_BINDINGS: Record<string, string> = {
   DE: "/deutschland-map",
   HU: "/magyarorszag-map",
   RO: "/romania-map",
+  FR: "/france-map",
+  IT: "/italy-map",
+  ES: "/spain-map",
+  GB: "/unitedkingdom-map",
 };
 
 const COMING_SOON: Record<Lang, string> = {

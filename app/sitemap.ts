@@ -39,6 +39,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/deutschland-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/magyarorszag-map`, lastModified, priority: 0.9 },
     { url: `${SITE_URL}/romania-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/france-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/italy-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/spain-map`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/unitedkingdom-map`, lastModified, priority: 0.9 },
   ];
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
