@@ -6,6 +6,7 @@ export const unitedkingdomCountry: POI = {
   parent: "EUROPE",
   coords: [-2.0, 54.0],
   name: { de: "Vereinigtes Königreich", hu: "Egyesült Királyság", ro: "Regatul Unit", en: "United Kingdom" },
+  image: "/geo-images/united-kingdom/united-kingdom.webp",
   description: {
     de: "Ein Inselstaat im Nordwesten Europas. Es besteht aus vier Landesteilen: England, Schottland, Wales und Nordirland.",
     hu: "Szigetország Északnyugat-Európában. Négy országrészből áll: Anglia, Skócia, Wales és Észak-Írország.",
@@ -27,6 +28,7 @@ export const unitedkingdomRegions: POI[] = [
     parent: "GB",
     coords: [-1.5, 52.5],
     name: { de: "England", hu: "Anglia", ro: "Anglia", en: "England" },
+    image: "/geo-images/united-kingdom/england.webp",
     description: {
       de: "Der größte und bevölkerungsreichste Teil des Vereinigten Königreichs. Bekannt für seine Geschichte und Kultur.",
       hu: "Az Egyesült Királyság legnagyobb és legnépesebb része. Történelméről és kultúrájáról ismert.",
@@ -46,6 +48,7 @@ export const unitedkingdomRegions: POI[] = [
     parent: "GB",
     coords: [-4.0, 56.5],
     name: { de: "Schottland", hu: "Skócia", ro: "Scoția", en: "Scotland" },
+    image: "/geo-images/united-kingdom/scotland.webp",
     description: {
       de: "Liegt im Norden der Insel. Berühmt für seine Highlands, Lochs und Burgen.",
       hu: "A sziget északi részén fekszik. Híres a Felföldről, a tavairól (loch) és a kastélyairól.",
@@ -65,6 +68,7 @@ export const unitedkingdomRegions: POI[] = [
     parent: "GB",
     coords: [-3.5, 52.3],
     name: { de: "Wales", hu: "Wales", ro: "Țara Galilor", en: "Wales" },
+    image: "/geo-images/united-kingdom/wales.webp",
     description: {
       de: "Liegt im Westen Großbritanniens. Ein Land mit rauer Küste und bergigen Nationalparks.",
       hu: "Nagy-Britannia nyugati részén fekszik. Zord tengerpartjairól és hegyvidéki nemzeti parkjairól ismert.",
@@ -84,6 +88,7 @@ export const unitedkingdomRegions: POI[] = [
     parent: "GB",
     coords: [-6.5, 54.6],
     name: { de: "Nordirland", hu: "Észak-Írország", ro: "Irlanda de Nord", en: "Northern Ireland" },
+    image: "/geo-images/united-kingdom/northern-ireland.webp",
     description: {
       de: "Liegt auf der Insel Irland. Bekannt für seine Landschaften und komplexe Geschichte.",
       hu: "Az Ír-szigeten található. Tájairól és összetett történelméről ismert.",
@@ -106,6 +111,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-0.1276, 51.5074],
     name: { de: "London", hu: "London", ro: "Londra", en: "London" },
+    image: "/geo-images/united-kingdom/london.webp",
     description: {
       de: "Hauptstadt des Vereinigten Königreichs. Eine Weltmetropole an der Themse.",
       hu: "Az Egyesült Királyság fővárosa. Világváros a Temze partján.",
@@ -125,6 +131,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-2.2426, 53.4808],
     name: { de: "Manchester", hu: "Manchester", ro: "Manchester", en: "Manchester" },
+    image: "/geo-images/united-kingdom/manchester.webp",
     description: {
       de: "Eine bedeutende Stadt im Nordwesten Englands. Historisches Zentrum der industriellen Revolution.",
       hu: "Jelentős város Északnyugat-Angliában. Az ipari forradalom történelmi központja.",
@@ -144,6 +151,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-1.8904, 52.4862],
     name: { de: "Birmingham", hu: "Birmingham", ro: "Birmingham", en: "Birmingham" },
+    image: "/geo-images/united-kingdom/birmingham.webp",
     description: {
       de: "Die zweitgrößte Stadt in Großbritannien. Befindet sich in den West Midlands.",
       hu: "Nagy-Britannia második legnagyobb városa. A West Midlands régióban található.",
@@ -163,6 +171,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-2.9916, 53.4084],
     name: { de: "Liverpool", hu: "Liverpool", ro: "Liverpool", en: "Liverpool" },
+    image: "/geo-images/united-kingdom/liverpool.webp",
     description: {
       de: "Eine Hafenstadt im Nordwesten Englands. Heimat der Beatles.",
       hu: "Kikötőváros Északnyugat-Angliában. A Beatles szülővárosa.",
@@ -182,6 +191,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-SCT",
     coords: [-3.1883, 55.9533],
     name: { de: "Edinburgh", hu: "Edinburgh", ro: "Edinburgh", en: "Edinburgh" },
+    image: "/geo-images/united-kingdom/edinburgh.webp",
     description: {
       de: "Die hügelige Hauptstadt Schottlands. Bekannt für ihre historische Burg.",
       hu: "Skócia dombos fővárosa. Híres történelmi váráról.",
@@ -201,6 +211,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-SCT",
     coords: [-4.2518, 55.8642],
     name: { de: "Glasgow", hu: "Glasgow", ro: "Glasgow", en: "Glasgow" },
+    image: "/geo-images/united-kingdom/glasgow.webp",
     description: {
       de: "Die größte Stadt Schottlands. Bekannt für Architektur und Kultur.",
       hu: "Skócia legnagyobb városa. Építészetéről és kultúrájáról ismert.",
@@ -220,6 +231,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-WLS",
     coords: [-3.1791, 51.4816],
     name: { de: "Cardiff", hu: "Cardiff", ro: "Cardiff", en: "Cardiff" },
+    image: "/geo-images/united-kingdom/cardiff.webp",
     description: {
       de: "Die Hauptstadt von Wales. Eine Hafenstadt im Süden.",
       hu: "Wales fővárosa. Kikötőváros a déli részen.",
@@ -239,6 +251,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-NIR",
     coords: [-5.9301, 54.5973],
     name: { de: "Belfast", hu: "Belfast", ro: "Belfast", en: "Belfast" },
+    image: "/geo-images/united-kingdom/belfast.webp",
     description: {
       de: "Die Hauptstadt Nordirlands. Geburtsort der Titanic.",
       hu: "Észak-Írország fővárosa. A Titanic szülőhelye.",
@@ -258,6 +271,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-1.2577, 51.7520],
     name: { de: "Oxford", hu: "Oxford", ro: "Oxford", en: "Oxford" },
+    image: "/geo-images/united-kingdom/oxford.webp",
     description: {
       de: "Bekannt für ihre renommierte Universität, die älteste im englischsprachigen Raum.",
       hu: "Híres tekintélyes egyeteméről, amely a legrégebbi az angol nyelvterületen.",
@@ -277,6 +291,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [0.1218, 52.2053],
     name: { de: "Cambridge", hu: "Cambridge", ro: "Cambridge", en: "Cambridge" },
+    image: "/geo-images/united-kingdom/cambridge.webp",
     description: {
       de: "Heimat der berühmten University of Cambridge. Liegt am Fluss Cam.",
       hu: "A híres Cambridge-i Egyetem otthona. A Cam folyó mentén fekszik.",
@@ -296,6 +311,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-1.5491, 53.7997],
     name: { de: "Leeds", hu: "Leeds", ro: "Leeds", en: "Leeds" },
+    image: "/geo-images/united-kingdom/leeds.webp",
     description: {
       de: "Eine große Stadt in Yorkshire. Ein wichtiges Finanzzentrum.",
       hu: "Nagyváros Yorkshire-ben. Fontos pénzügyi központ.",
@@ -315,6 +331,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-2.3590, 51.3758],
     name: { de: "Bath", hu: "Bath", ro: "Bath", en: "Bath" },
+    image: "/geo-images/united-kingdom/bath.webp",
     description: {
       de: "Bekannt für seine römischen Bäder und georgianische Architektur.",
       hu: "Római kori fürdőiről és György-kori építészetéről ismert.",
@@ -334,6 +351,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-1.0803, 53.9590],
     name: { de: "York", hu: "York", ro: "York", en: "York" },
+    image: "/geo-images/united-kingdom/york.webp",
     description: {
       de: "Eine historische ummauerte Stadt in Nordengland, gegründet von den Römern.",
       hu: "Észak-Anglia történelmi fallal körülvett városa, amelyet a rómaiak alapítottak.",
@@ -353,6 +371,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [1.0789, 51.2802],
     name: { de: "Canterbury", hu: "Canterbury", ro: "Canterbury", en: "Canterbury" },
+    image: "/geo-images/united-kingdom/canterbury.webp",
     description: {
       de: "Historische Kathedralenstadt in Kent und das Zentrum der Church of England.",
       hu: "Történelmi katedrálisváros Kentben, az anglikán egyház központja.",
@@ -372,6 +391,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-1.7073, 52.1920],
     name: { de: "Stratford-upon-Avon", hu: "Stratford-upon-Avon", ro: "Stratford-upon-Avon", en: "Stratford-upon-Avon" },
+    image: "/geo-images/united-kingdom/stratford-upon-avon.webp",
     description: {
       de: "Geburtsort des berühmten englischen Dramatikers William Shakespeare.",
       hu: "A híres angol drámaíró, William Shakespeare szülőhelye.",
@@ -391,6 +411,7 @@ export const unitedkingdomCities: POI[] = [
     parent: "GB-ENG",
     coords: [-0.1372, 50.8225],
     name: { de: "Brighton", hu: "Brighton", ro: "Brighton", en: "Brighton" },
+    image: "/geo-images/united-kingdom/brighton.webp",
     description: {
       de: "Bekanntes Seebad an der Südküste Englands.",
       hu: "Népszerű tengerparti üdülőhely Anglia déli partján.",
@@ -413,6 +434,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-ENG",
     coords: [-1.8262, 51.1789],
     name: { de: "Stonehenge", hu: "Stonehenge", ro: "Stonehenge", en: "Stonehenge" },
+    image: "/geo-images/united-kingdom/stonehenge.webp",
     description: {
       de: "Ein prähistorisches Monument, bestehend aus riesigen, im Kreis aufgestellten Steinen.",
       hu: "Őskori műemlék, amely hatalmas, körben felállított kövekből áll.",
@@ -432,6 +454,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "city-london",
     coords: [-0.1419, 51.5014],
     name: { de: "Buckingham Palace", hu: "Buckingham-palota", ro: "Palatul Buckingham", en: "Buckingham Palace" },
+    image: "/geo-images/united-kingdom/buckingham-palace.webp",
     description: {
       de: "Die offizielle Residenz des britischen Monarchen in London.",
       hu: "A brit uralkodó hivatalos rezidenciája Londonban.",
@@ -451,6 +474,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "city-london",
     coords: [-0.1246, 51.5007],
     name: { de: "Big Ben", hu: "Big Ben", ro: "Big Ben", en: "Big Ben" },
+    image: "/geo-images/united-kingdom/big-ben.webp",
     description: {
       de: "Der Spitzname der großen Glocke des Uhrenturms im Palace of Westminster.",
       hu: "A Westminster-palota óratornyában lévő nagy harang beceneve.",
@@ -470,6 +494,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "city-london",
     coords: [-0.0763, 51.5081],
     name: { de: "Tower of London", hu: "Londoni Tower", ro: "Turnul Londrei", en: "Tower of London" },
+    image: "/geo-images/united-kingdom/tower-of-london.webp",
     description: {
       de: "Eine historische Burg an der Themse im Zentrum von London.",
       hu: "Történelmi vár a Temze partján, London központjában.",
@@ -489,6 +514,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-ENG",
     coords: [-0.6044, 51.4838],
     name: { de: "Windsor Castle", hu: "Windsori kastély", ro: "Castelul Windsor", en: "Windsor Castle" },
+    image: "/geo-images/united-kingdom/windsor-castle.webp",
     description: {
       de: "Das älteste und größte durchgängig bewohnte Schloss der Welt.",
       hu: "A világ legrégebbi és legnagyobb folyamatosan lakott kastélya.",
@@ -508,6 +534,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-ENG",
     coords: [-3.0886, 54.4609],
     name: { de: "Lake District", hu: "Tóvidék", ro: "Lake District", en: "Lake District" },
+    image: "/geo-images/united-kingdom/lake-district.webp",
     description: {
       de: "Ein Nationalpark im Nordwesten Englands, bekannt für seine Seen und Berge.",
       hu: "Nemzeti park Északnyugat-Angliában, tavairól és hegyeiről ismert.",
@@ -527,6 +554,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-WLS",
     coords: [-3.9782, 53.0685],
     name: { de: "Snowdonia", hu: "Snowdonia", ro: "Snowdonia", en: "Snowdonia" },
+    image: "/geo-images/united-kingdom/snowdonia.webp",
     description: {
       de: "Ein Nationalpark in Wales mit dem höchsten Berg in England und Wales, Mount Snowdon.",
       hu: "Nemzeti park Walesben, itt található Anglia és Wales legmagasabb hegye, a Snowdon.",
@@ -546,6 +574,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-SCT",
     coords: [-4.4537, 57.3229],
     name: { de: "Loch Ness", hu: "Loch Ness", ro: "Loch Ness", en: "Loch Ness" },
+    image: "/geo-images/united-kingdom/loch-ness.webp",
     description: {
       de: "Ein tiefer Süßwassersee in den schottischen Highlands, weltbekannt durch das angebliche Seeungeheuer.",
       hu: "Mély édesvizű tó a skót Felföldön, világhírű az állítólagos tavi szörnyről.",
@@ -565,6 +594,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-NIR",
     coords: [-6.5116, 55.2408],
     name: { de: "Giant's Causeway", hu: "Óriások útja", ro: "Giant's Causeway", en: "Giant's Causeway" },
+    image: "/geo-images/united-kingdom/giant-s-causeway.webp",
     description: {
       de: "Ein Gebiet mit etwa 40.000 ineinandergreifenden Basaltsäulen in Nordirland.",
       hu: "Körülbelül 40 000 egymásba fonódó bazaltoszlopból álló terület Észak-Írországban.",
@@ -584,6 +614,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-ENG",
     coords: [1.3411, 51.1351],
     name: { de: "Weiße Klippen von Dover", hu: "Doveri fehér sziklák", ro: "Stâncile Albe din Dover", en: "White Cliffs of Dover" },
+    image: "/geo-images/united-kingdom/white-cliffs-of-dover.webp",
     description: {
       de: "Teil der britischen Küstenlinie gegenüber von Frankreich, bekannt für ihre weiße Kreide.",
       hu: "A brit partvidék Franciaországgal szembeni része, fehér krétaszikláiról ismert.",
@@ -603,6 +634,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-ENG",
     coords: [-2.2858, 55.0118],
     name: { de: "Hadrianswall", hu: "Hadrianus fala", ro: "Zidul lui Hadrian", en: "Hadrian's Wall" },
+    image: "/geo-images/united-kingdom/hadrian-s-wall.webp",
     description: {
       de: "Ehemalige römische Befestigungsanlage in Nordengland nahe der schottischen Grenze.",
       hu: "Egykori római erődítmény Észak-Angliában, a skót határ közelében.",
@@ -622,6 +654,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-ENG",
     coords: [-0.1000, 51.5000],
     name: { de: "Themse", hu: "Temze", ro: "Tamisa", en: "Thames" },
+    image: "/geo-images/united-kingdom/thames.webp",
     description: {
       de: "Der längste Fluss, der vollständig in England liegt, und fließt durch London.",
       hu: "A leghosszabb folyó, amely teljes egészében Angliában található, és átszeli Londont.",
@@ -641,6 +674,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "city-london",
     coords: [-0.1269, 51.5194],
     name: { de: "British Museum", hu: "British Múzeum", ro: "British Museum", en: "British Museum" },
+    image: "/geo-images/united-kingdom/british-museum.webp",
     description: {
       de: "Ein weltbekanntes Museum für menschliche Geschichte, Kunst und Kultur in London.",
       hu: "Világhírű múzeum, amely az emberiség történelmét, művészetét és kultúráját mutatja be Londonban.",
