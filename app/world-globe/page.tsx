@@ -50,12 +50,12 @@ export default function WorldGlobePage() {
           polygonsData={CONTINENTS_GEOJSON.features}
           polygonGeoJsonGeometry={(d: any) => d.geometry}
           polygonCapColor={(d: any) => d.properties.color + "40"}
-          polygonSideColor={() => "rgba(34, 211, 238, 0.1)"}
-          polygonStrokeColor={(d: any) => d.properties.color}
+          polygonSideColor={() => "rgba(0, 0, 0, 0.4)"}
+          polygonStrokeColor={() => "#fff"}
           polygonLabel={(d: any) => d.properties.name}
           onPolygonClick={(d: any) => { if (d.properties.route) router.push(d.properties.route); }}
           polygonsTransitionDuration={300}
-          polygonAltitude={0.005}
+          polygonAltitude={0.01}
 
           pointsData={CAPITALS}
           pointLat={(d: any) => d.lat}
