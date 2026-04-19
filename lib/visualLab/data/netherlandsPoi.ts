@@ -318,7 +318,7 @@ export const netherlandsCities: POI[] = [
   {
     id: "nl-delft-full", type: "city", parent: "NL-ZH", coords: [4.3571, 52.0116],
     name: { de: "Delft", hu: "Delft", ro: "Delft", en: "Delft" },
-    image: "/geo-images/netherlands/delft-full.webp",
+    image: "/geo-images/netherlands/delft.webp",
     description: {
       de: "Delft ist eine malerische Stadt, weltbekannt für ihr blau-weißes Porzellan, das 'Delfter Blau'. Sie bietet eine gut erhaltene historische Altstadt mit wunderschönen Grachten und traditioneller Architektur. Delft ist eng mit dem niederländischen Königshaus und dem berühmten Maler Johannes Vermeer verbunden.",
       hu: "Delft festői város, amely világszerte ismert kék-fehér porcelánjáról, a 'Delfti kékről'. Jól megőrzött történelmi óvárosával, gyönyörű csatornáiról és hagyományos építészetével büszkélkedhet. Delft szorosan kötődik a holland királyi családhoz és a híres festőhöz, Johannes Vermeerhez.",
@@ -420,7 +420,7 @@ export const netherlandsCities: POI[] = [
   {
     id: "nl-maastricht-full", type: "city", parent: "NL-LI", coords: [5.6889, 50.8514],
     name: { de: "Maastricht", hu: "Maastricht", ro: "Maastricht", en: "Maastricht" },
-    image: "/geo-images/netherlands/maastricht-full.webp",
+    image: "/geo-images/netherlands/maastricht.webp",
     description: {
       de: "Maastricht liegt im äußersten Süden der Niederlande und gehört zu den ältesten Städten des Landes. Die Stadt hat eine fast südeuropäische Atmosphäre und ist historisch bedeutend durch den Vertrag von Maastricht, der die Europäische Union begründete. Maastricht ist berühmt für seine charmanten Plätze, Höhlen und Basiliken.",
       hu: "Maastricht Hollandia legdélibb részén fekszik, és az ország egyik legrégebbi városa. A város szinte dél-európai hangulatot áraszt, és történelmileg jelentős a maastrichti szerződés révén, amely az Európai Uniót megalapította. Maastricht híres bájos tereiről, barlangjairól és bazilikáiról.",

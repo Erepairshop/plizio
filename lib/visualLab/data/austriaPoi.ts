@@ -315,7 +315,7 @@ export const austriaCities: POI[] = [
   {
     id: "AT-HallstaetterSee", type: "lake", parent: "AT-4", coords: [13.6631, 47.5786],
     name: { de: "Hallstätter See", hu: "Hallstatti-tó", ro: "Lacul Hallstätter", en: "Lake Hallstatt" },
-    image: "/geo-images/austria/hallstatt-lake.webp",
+    image: "/geo-images/austria/hallstatt.webp",
     description: { de: "Ein Gebirgssee im Salzkammergut, an dessen Ufer der berühmte Ort Hallstatt liegt.", hu: "Hegyi tó a Salzkammergut régióban, partján a híres Hallstatt városával.", ro: "Un lac montan în Salzkammergut, pe malul căruia se află celebrul oraș Hallstatt.", en: "A mountain lake in the Salzkammergut region, with the famous town of Hallstatt on its shore." },
     facts: { de: ["Bis zu 125 Meter tief.", "Ein beliebtes Ziel für Taucher."], hu: ["Akár 125 méter mély is lehet.", "A búvárok kedvelt célpontja."], ro: ["Până la 125 de metri adâncime.", "O destinație populară pentru scafandri."], en: ["Up to 125 meters deep.", "A popular destination for divers."] }
   },
@@ -336,7 +336,7 @@ export const austriaCities: POI[] = [
   {
     id: "AT-Staatsoper", type: "landmark", parent: "AT-9", coords: [16.3691, 48.2031],
     name: { de: "Wiener Staatsoper", hu: "Bécsi Állami Operaház", ro: "Opera de Stat din Viena", en: "Vienna State Opera" },
-    image: "/geo-images/austria/state-opera.webp",
+    image: "/geo-images/austria/vienna.webp",
     description: { de: "Eines der bedeutendsten Opernhäuser der Welt, bekannt für seine erstklassigen Aufführungen.", hu: "A világ egyik legjelentősebb operaháza, amely világszínvonalú előadásairól ismert.", ro: "Una dintre cele mai importante opere din lume, cunoscută pentru spectacolele sale de primă clasă.", en: "One of the most important opera houses in the world, known for its world-class performances." },
     facts: { de: ["Austragungsort des Wiener Opernballs.", "Wurde 1869 mit Mozarts 'Don Giovanni' eröffnet."], hu: ["A Bécsi Operabál helyszíne.", "1869-ben Mozart 'Don Giovanni'-jával nyílt meg."], ro: ["Gazda Balului Operei din Viena.", "Inaugurată în 1869 cu 'Don Giovanni' de Mozart."], en: ["Host of the Vienna Opera Ball.", "Opened in 1869 with Mozart's 'Don Giovanni'."] }
   },

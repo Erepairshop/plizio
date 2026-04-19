@@ -1243,7 +1243,7 @@ export const polandCities: POI[] = [
       ro: ["Găzduiește peste 500 de specii de animale.", "Vila directorilor grădinii este acum un memorial."],
       en: ["Home to more than 500 species of animals.", "The zoo director's villa is now a memorial site."],
     },
-    image: "/geo-images/poland/warsaw-zoo.webp",
+    image: "/geo-images/poland/warsaw.webp",
     },
     {
     id: "rynek-wroclaw",
@@ -1543,7 +1543,7 @@ export const polandCities: POI[] = [
       ro: ["Cel mai mare castel de cărămidă din lume.", "Fostul sediu al Ordinului Teutonic.", "Patrimoniu Mondial UNESCO din 1997.", "Exemplu clasic de fortificații medievale.", "Constă din trei castele separate.", "Unul dintre cele mai importante monumente din Polonia."],
       en: ["Largest brick castle in the world.", "Former seat of the Teutonic Order.", "UNESCO World Heritage Site since 1997.", "Classic example of medieval fortifications.", "Consists of three separate castles.", "One of the most important monuments in Poland."]
     },
-    image: "/geo-images/poland/malbork-castle.webp"
+    image: "/geo-images/poland/malbork.webp"
   },
   {
     id: "pl-wawel-castle",
@@ -1663,7 +1663,7 @@ export const polandCities: POI[] = [
       ro: ["Reconstruit aproape în întregime după 1945.", "Sit unic al Patrimoniului Mondial UNESCO pentru reconstrucție.", "Castelul Regal domină piața principală.", "Deține faimoasa statuie a sirenei (Syrenka).", "Centrul istoriei și culturii din Varșovia.", "Astăzi strălucește în vechea sa glorie."],
       en: ["Almost entirely reconstructed after 1945.", "Unique UNESCO World Heritage site of reconstruction.", "The Royal Castle dominates the main square.", "Features the famous Mermaid statue (Syrenka).", "Center of Warsaw's history and culture.", "Shines today in its former glory."]
     },
-    image: "/geo-images/poland/warsaw-old-town.webp"
+    image: "/geo-images/poland/warsaw.webp"
   },
   {
     id: "pl-jasna-gora",
@@ -1743,7 +1743,7 @@ export const polandCities: POI[] = [
       ro: ["Protejează ultima pădure virgină de șes din Europa.", "Găzduiește cea mai mare populație de zimbri în libertate.", "Împărțit între Polonia și Belarus.", "Sit unic al Patrimoniului Mondial Natural UNESCO.", "Biodiversitate foarte mare de plante și ciuperci.", "Rezervație strictă accesibilă doar cu ghid."],
       en: ["Protects Europe's last lowland primeval forest.", "Home to the largest free-roaming bison population.", "Shared between Poland and Belarus.", "Unique UNESCO World Natural Heritage site.", "Very high biodiversity of plants and fungi.", "Strict reserve accessible only with a guide."]
     },
-    image: "/geo-images/poland/bialowieza-np.webp"
+    image: "/geo-images/poland/bialowieza.webp"
   },
   {
     id: "pl-tatra-np",

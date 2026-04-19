@@ -3677,7 +3677,7 @@ export const pois: POI[] = [
       ro: ["Atracțiile principale sunt fântâna de ciocolată și sera tropicală.", "Inaugurat în 1993 de Hans Imhoff."],
       en: ["Highlights include the chocolate fountain and the tropic house.", "Opened in 1993 by Hans Imhoff."]
     },
-    image: "/geo-images/germany/schokoladenmuseum-koeln.webp",
+    image: "/geo-images/germany/schokoladenmuseum.webp",
   },
   {
     id: "landmark-frauenkirche-dresden",

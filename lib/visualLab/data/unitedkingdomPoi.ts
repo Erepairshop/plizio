@@ -1234,7 +1234,7 @@ export const unitedkingdomLandmarks: POI[] = [
     parent: "GB-WLS",
     coords: [-3.9064, 52.8675],
     name: { de: "Cader Idris", hu: "Cader Idris", ro: "Cader Idris", en: "Cader Idris" },
-    image: "/geo-images/united-kingdom/snowdonia-cader.webp",
+    image: "/geo-images/united-kingdom/snowdonia.webp",
     description: {
       de: "Ein markanter Berg in Snowdonia, Wales.",
       hu: "Kiemelkedő hegy Snowdonia területén, Walesben.",

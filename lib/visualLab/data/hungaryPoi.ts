@@ -2306,7 +2306,7 @@ export const hungaryCities: POI[] = [
     parent: "visegrad",
     coords: [18.98, 47.79],
     name: {"de": "Zitadelle von Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea din Visegrád", "en": "Visegrád Citadel"},
-    image: "/geo-images/hungary/visegradi-fellegvar.webp",
+    image: "/geo-images/hungary/visegrad.webp",
     description: {"de": "Die Fellegvár in Visegrád thront majestätisch über dem Donauknie und bietet atemberaubende Blicke.", "hu": "A visegrádi Fellegvár fenségesen magasodik a Dunakanyar fölé, lenyűgöző panorámát nyújtva.", "ro": "Cetatea din Visegrád domină maiestuos Cotul Dunării, oferind vederi panoramice uluitoare.", "en": "The Visegrád Citadel towers majestically over the Danube Bend, offering breathtaking views."},
     facts: {"de": ["Diente im Mittelalter als Aufbewahrungsort der heiligen ungarischen Krönungsinsignien.", "Die Burg ist ein wichtiges Zeugnis der glanzvollen Ära der Anjou-Könige."], "hu": ["A középkorban itt őrizték a magyar koronázási jelvényeket és a Szent Koronát.", "A vár az Anjou-királyok fénykorának egyik legfontosabb történelmi emléke."], "ro": ["A servit în Evul Mediu ca loc de păstrare a însemnelor coroanei maghiare.", "Cetatea este o dovadă importantă a epocii strălucite a regilor Anjou."], "en": ["Served as the storage place for the holy Hungarian coronation regalia in the Middle Ages.", "The castle is an important testament to the brilliant era of the Anjou kings."]},
     },
@@ -2606,7 +2606,7 @@ export const hungaryCities: POI[] = [
     parent: "visegrad",
     coords: [18.98, 47.79],
     name: {"de": "Zitadelle Visegrád", "hu": "Visegrádi Fellegvár", "ro": "Cetatea Visegrád", "en": "Visegrád Citadel"},
-    image: "/geo-images/hungary/visegradi-fellegvar.webp",
+    image: "/geo-images/hungary/visegrad.webp",
     description: {"de": "Eine mittelalterliche Festung mit atemberaubendem Blick auf das Donauknie.", "hu": "Középkori erődítmény, lenyűgöző kilátással a Dunakanyarra.", "ro": "O cetate medievală cu o vedere uluitoare asupra Cotului Dunării.", "en": "A medieval fortress with a breathtaking view of the Danube Bend."},
     facts: {"de": ["Wurde im 13. Jahrhundert erbaut.", "Bewahrte einst die Heilige Krone Ungarns auf."], "hu": ["A 13. században épült.", "Egykor itt őrizték a Szent Koronát."], "ro": ["A fost construită în secolul al XIII-lea.", "A păstrat odată Sfânta Coroană a Ungariei."], "en": ["Built in the 13th century.", "Once kept the Holy Crown of Hungary."]}
   },
@@ -2976,7 +2976,7 @@ export const hungaryCities: POI[] = [
     parent: "hajdu-bihar",
     coords: [21.638, 47.552],
     name: {"de": "Zoo Debrecen", "hu": "Debreceni Állatkert", "ro": "Grădina Zoologică Debrețin", "en": "Debrecen Zoo"},
-    image: "/geo-images/hungary/debrecen-zoo.webp",
+    image: "/geo-images/hungary/debrecen.webp",
     description: {"de": "Ungarns erster Zoo außerhalb von Budapest, im Großen Wald gelegen.", "hu": "Az ország első vidéki állatkertje a Nagyerdő szívében.", "ro": "Prima grădină zoologică provincială din Ungaria, în Pădurea Mare.", "en": "Hungary's first provincial zoo, located in the Great Forest."},
     facts: {"de": ["Verbunden mit einem Vergnügungspark.", "Spezialisiert auf exotische Vögel."], "hu": ["Vidámparkkal van összekapcsolva.", "Különleges madárfajokat is bemutat."], "ro": ["Conectată cu un parc de distracții.", "Specializată în păsări exotice."], "en": ["Connected with an amusement park.", "Specializes in exotic bird species."]}
   },
@@ -3016,7 +3016,7 @@ export const hungaryCities: POI[] = [
     parent: "baranya",
     coords: [18.683, 45.991],
     name: {"de": "Busójárás-Ort", "hu": "Mohácsi Busójárás helye", "ro": "Locul Busójárás", "en": "Mohács Busójárás Site"},
-    image: "/geo-images/hungary/mohacs-busojaras.webp",
+    image: "/geo-images/hungary/mohacs.webp",
     description: {"de": "Ort der berühmten Winteraustreibung mit gruseligen Masken.", "hu": "A télűző Busójárás helyszíne, UNESCO világörökség.", "ro": "Locul faimosului ritual de alungare a iernii cu măști.", "en": "Site of the famous winter expulsion ritual with scary masks."},
     facts: {"de": ["UNESCO-Weltkulturerbe.", "Findet jährlich im Februar statt."], "hu": ["Az UNESCO szellemi örökség része.", "Évente februárban rendezik meg."], "ro": ["Patrimoniu cultural UNESCO.", "Are loc anual în februarie."], "en": ["UNESCO Cultural Heritage.", "Takes place annually in February."]}
   },
@@ -3036,7 +3036,7 @@ export const hungaryCities: POI[] = [
     parent: "csongrad-csanad",
     coords: [20.148, 46.248],
     name: {"de": "Votivkirche Szeged", "hu": "Szegedi Dóm", "ro": "Catedrala din Seghedin", "en": "Votive Church of Szeged"},
-    image: "/geo-images/hungary/szeged-dom.webp",
+    image: "/geo-images/hungary/szeged.webp",
     description: {"de": "Monumentale neoromanische Kathedrale am Domplatz von Szeged.", "hu": "Monumentális neoromán dóm a Napfény városának szívében.", "ro": "Catedrală neoromanică monumentală în Piața Domului.", "en": "Monumental Neo-Romanesque cathedral on Szeged's Dome Square."},
     facts: {"de": ["Nach dem großen Hochwasser erbaut.", "Besitzt eine der größten Orgeln."], "hu": ["A nagy árvíz utáni fogadalomból épült.", "Az ország egyik legnagyobb orgonája van itt."], "ro": ["Construită după marea inundație.", "Are una dintre cele mai mari orgi."], "en": ["Built after the great flood.", "Houses one of the largest organs."]}
   },
@@ -3046,7 +3046,7 @@ export const hungaryCities: POI[] = [
     parent: "gyor-moson-sopron",
     coords: [17.761, 47.554],
     name: {"de": "Archiv Pannonhalma", "hu": "Pannonhalmi Apátsági Levéltár", "ro": "Arhiva Pannonhalma", "en": "Pannonhalma Abbey Archives"},
-    image: "/geo-images/hungary/pannonhalma-archives.webp",
+    image: "/geo-images/hungary/pannonhalma.webp",
     description: {"de": "Bedeutendes Archiv mit dem ältesten ungarischen Schriftstück.", "hu": "Történelmi levéltár a legősibb magyar nyelvemlékkel.", "ro": "Arhivă importantă cu cel mai vechi document scris maghiar.", "en": "Significant archive with the oldest Hungarian written record."},
     facts: {"de": ["Teil der Benediktinerabtei.", "Bewahrt die Tihanyer Stiftungsurkunde."], "hu": ["A bencés főapátság része.", "Itt őrzik a tihanyi alapítólevelet."], "ro": ["Parte a abației benedictine.", "Păstrează documentul de fondare din Tihany."], "en": ["Part of the Benedictine Abbey.", "Preserves the Tihany founding charter."]}
   },
