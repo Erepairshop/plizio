@@ -579,8 +579,8 @@ export const InteractiveMap = ({
                 const isFav = favorites.has(p.id);
                 const baseR = isSimplified ? 14 : 11;
                 const r = (isSel ? baseR + 3 : baseR) / view.scale;
-                // Touch-target: min 48px tap-area mobilra
-                const touchR = Math.max(r * 4, 26 / view.scale);
+                // Touch-target: kompromisszum — elég nagy kattintani, de nem fed át szomszéd POI-val
+                const touchR = Math.max(r * 2.2, 14 / view.scale);
                 const color = poiColor(p.type);
                 const showLabel = (p.type === "state-capital" || p.type === "city" || isSel);
                 const baseFont = isSimplified
