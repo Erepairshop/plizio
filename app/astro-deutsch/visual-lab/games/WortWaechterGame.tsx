@@ -95,7 +95,7 @@ export default function WortWaechterGame({
         </div>
         <div className="bg-black/50 px-3 py-1 rounded-full border text-xs font-bold"
           style={{ borderColor: `${round.theme.accent}50`, color: round.theme.accent }}>
-          {round.instruction}
+          {round.instruction.de}
         </div>
       </div>
 

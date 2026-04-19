@@ -44,13 +44,21 @@ export interface VisualQuestionType {
 export interface ReadingPassage {
   title: string;
   text: string;
-  questions: Array<{
-    type: "mcq";
-    question: string;
-    options: string[];
-    correct: number;
-    subtopic?: string;
-  }>;
+  questions: Array<
+    | {
+        type: "mcq";
+        question: string;
+        options: string[];
+        correct: number;
+        subtopic?: string;
+      }
+    | {
+        type: "typing";
+        question: string;
+        answer: string;
+        subtopic?: string;
+      }
+  >;
 }
 
 // ─── Country & Grading ─────────────────────────────────────────────────────

@@ -104,7 +104,7 @@ export default function ArtikelAsteroidsGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-white/40 text-xs uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction}
+        {round.instruction.de}
       </p>
 
       {/* Fall zone */}

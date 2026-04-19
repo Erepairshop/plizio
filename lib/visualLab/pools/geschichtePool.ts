@@ -538,7 +538,7 @@ export const GESCHICHTE_POOLS: Record<number, GeographieVisualLabGradePool> = {
             id: "ge-5-sr-7-s1",
             title: ml("Papier", "Paper", "Papír", "Hârtie"),
             prompt: ml("Worauf schrieben die Ägypter?", "What did Egyptians write on?", "Mire írtak az egyiptomiak?", "Pe ce scriau egiptenii?"),
-            sceneType: "science",
+            sceneType: "community",
             visual: { icon: "📜", bg: "#422006", accent: "#f59e0b" },
             choices: [
               { id: "a", label: ml("Papyrus", "Papyrus", "Papirusz", "Papirus") },
@@ -584,7 +584,7 @@ export const GESCHICHTE_POOLS: Record<number, GeographieVisualLabGradePool> = {
             id: "ge-5-sr-9-s1",
             title: ml("Wissen", "Knowledge", "Tudás", "Cunoaștere"),
             prompt: ml("Wie hießen griechische Denker?", "Greek thinkers?", "Hogy hívták a gondolkodókat?", "Gânditori greci?"),
-            sceneType: "science",
+            sceneType: "community",
             visual: { icon: "🤔", bg: "#1e3a8a", accent: "#3b82f6" },
             choices: [
               { id: "a", label: ml("Gladiatoren", "Gladiators", "Gladiátorok", "Gladiatori") },

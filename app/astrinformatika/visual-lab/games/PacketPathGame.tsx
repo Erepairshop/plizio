@@ -97,7 +97,7 @@ export default function PacketPathGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-cyan-300/40 text-xs font-mono uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction}
+        {round.instruction.hu}
       </p>
 
       {/* Center packet display */}
