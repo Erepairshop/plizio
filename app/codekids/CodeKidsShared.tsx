@@ -388,12 +388,12 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
   if (!validGrade) return <div className="p-10 text-center">Invalid grade</div>;
 
   const bgColor = activeIsland?.color ?? "#60A5FA";
-  const bgPastel = "#F0FDF4";
+  const bgPastel = "#060614";
 
   if (screen === "island-map") {
     const totalDone = progress.completedIslands.length;
     return (
-      <div className="min-h-screen bg-[#F0FDF4] flex flex-col relative overflow-hidden text-gray-800">
+      <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden text-white">
         <BubbleBackground />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
           <button onClick={() => router.push("/codekids")}
@@ -434,7 +434,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
 
   if (screen === "island-intro" && activeIsland) {
     return (
-      <div className="min-h-screen flex flex-col relative overflow-hidden bg-white text-gray-800">
+      <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614] text-white">
         <div className="absolute inset-0 opacity-10" style={{ background: bgColor }} />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
           <button onClick={goToMap} className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100"><X size={20} /></button>
@@ -461,7 +461,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
   if (screen === "mission-select" && activeIsland) {
     const totalStars = api.getStars(progress, activeIsland.id);
     return (
-      <div className="min-h-screen flex flex-col relative overflow-hidden bg-white text-gray-800">
+      <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614] text-white">
         <div className="absolute inset-0 opacity-5" style={{ background: bgColor }} />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
           <button onClick={goToMap} className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100"><X size={20} /></button>
@@ -538,7 +538,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
     const pct = Math.round((missionScore.score / missionScore.total) * 100);
     const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center bg-white text-gray-800 px-5">
+      <div className="min-h-screen flex flex-col items-center justify-center bg-[#060614] text-white px-5">
         <div className="absolute inset-0 opacity-10" style={{ background: bgColor }} />
         <div className="relative z-10 w-full max-w-sm flex flex-col items-center gap-6 text-center">
           <motion.div className="w-28 h-28 rounded-3xl flex items-center justify-center text-5xl bg-white shadow-xl border-4" style={{ borderColor: bgColor }} animate={{ scale: [1, 1.05, 1] }} transition={{ duration: 2, repeat: Infinity }}>{activeMission.icon}</motion.div>
@@ -557,7 +557,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
 
   if (screen === "island-done" && activeIsland) {
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center bg-white text-gray-800 px-5">
+      <div className="min-h-screen flex flex-col items-center justify-center bg-[#060614] text-white px-5">
         <div className="absolute inset-0 opacity-10" style={{ background: bgColor }} />
         <div className="relative z-10 w-full max-w-sm flex flex-col items-center gap-6 text-center">
           <motion.div className="text-8xl" animate={{ rotate: [0, -10, 10, 0] }} transition={{ duration: 0.5, delay: 0.2 }}>{activeIsland.icon}</motion.div>
@@ -589,7 +589,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
   );
 
   if (screen === "checkpoint-intro" && activeTestId) return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-white text-gray-800 px-5">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-[#060614] text-white px-5">
       <div className="relative z-10 w-full max-w-sm flex flex-col items-center gap-6 text-center">
         <motion.div className="text-8xl">🎓</motion.div>
         <h2 className="text-3xl font-black text-[#F59E0B]">Teszt!</h2>
@@ -614,7 +614,7 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
   );
 
   if (screen === "checkpoint-done" && activeTestId) return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-white text-gray-800 px-5">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-[#060614] text-white px-5">
       <div className="relative z-10 w-full max-w-sm flex flex-col items-center gap-6 text-center">
         <motion.div className="text-8xl">🏆</motion.div>
         <h2 className="text-3xl font-black text-[#F59E0B]">{checkpointScore.score}/{checkpointScore.total}</h2>

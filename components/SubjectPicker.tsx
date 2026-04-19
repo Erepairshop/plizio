@@ -236,7 +236,8 @@ export default function SubjectPicker() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-3">
           {visibleSubjects.map((s, i) => {
             const Icon = s.icon;
-            const localName = s.name[l] ?? s.name.de;
+            const isCodeKids = s.id === "informatika" && grade != null && grade <= 4;
+            const localName = isCodeKids ? "Code Kids" : (s.name[l] ?? s.name.de);
             return (
               <motion.div
                 key={s.id}
