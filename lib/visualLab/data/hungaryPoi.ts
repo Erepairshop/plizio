@@ -28,7 +28,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Budapest", "hu": "Budapest", "ro": "Budapesta", "en": "Budapest"},
     description: {"de": "Die Hauptstadt und bevölkerungsreichste Stadt Ungarns.", "hu": "Magyarország fővárosa és legnépesebb városa.", "ro": "Capitala și cel mai populat oraș al Ungariei.", "en": "The capital and most populous city of Hungary."},
     facts: {"de": ["Wird durch die Donau in Buda und Pest geteilt.", "Hat über 1,7 Millionen Einwohner."], "hu": ["A Duna osztja ketté Budára és Pestre.", "Több mint 1,7 millió lakosa van."], "ro": ["Este împărțită de Dunăre în Buda și Pesta.", "Are peste 1,7 milioane de locuitori."], "en": ["Divided by the Danube into Buda and Pest.", "Has over 1.7 million inhabitants."]},
-    image: "",
+    image: "geo-images/hungary/HU.webp",
   },
   {
     id: "baranya",
@@ -38,7 +38,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Branau", "hu": "Baranya", "ro": "Baranya", "en": "Baranya"},
     description: {"de": "Komitat im Süden Ungarns, bekannt für mediterranes Klima.", "hu": "Dél-magyarországi megye, mediterrán éghajlatáról ismert.", "ro": "Județ în sudul Ungariei, cunoscut pentru clima mediteraneană.", "en": "County in southern Hungary, known for its Mediterranean climate."},
     facts: {"de": ["Sitz: Pécs.", "Bekannt für die Weinregion Villány."], "hu": ["Székhelye: Pécs.", "Híres a villányi borvidékről."], "ro": ["Reședința: Pécs.", "Cunoscut pentru regiunea viticolă Villány."], "en": ["Seat: Pécs.", "Known for the Villány wine region."]},
-    image: "",
+    image: "geo-images/hungary/baranya.webp",
   },
   {
     id: "bacs-kiskun",
@@ -48,7 +48,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Bács-Kiskun", "hu": "Bács-Kiskun", "ro": "Bács-Kiskun", "en": "Bács-Kiskun"},
     description: {"de": "Das flächenmäßig größte Komitat Ungarns.", "hu": "Magyarország legnagyobb területű megyéje.", "ro": "Cel mai mare județ din Ungaria ca suprafață.", "en": "The largest county in Hungary by area."},
     facts: {"de": ["Sitz: Kecskemét.", "Liegt in der Großen Ungarischen Tiefebene."], "hu": ["Székhelye: Kecskemét.", "Az Alföldön található."], "ro": ["Reședința: Kecskemét.", "Situat în Marea Câmpie Maghiară."], "en": ["Seat: Kecskemét.", "Located in the Great Hungarian Plain."]},
-    image: "",
+    image: "geo-images/hungary/bacs-kiskun.webp",
   },
   {
     id: "bekes",
@@ -58,7 +58,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Békés", "hu": "Békés", "ro": "Békés", "en": "Békés"},
     description: {"de": "Komitat im Südosten Ungarns, an der Grenze zu Rumänien.", "hu": "Délkelet-magyarországi megye, a román határon.", "ro": "Județ în sud-estul Ungariei, la granița cu România.", "en": "County in southeastern Hungary, on the border with Romania."},
     facts: {"de": ["Sitz: Békéscsaba.", "Bekannt für seine Landwirtschaft."], "hu": ["Székhelye: Békéscsaba.", "Mezőgazdaságáról ismert."], "ro": ["Reședința: Békéscsaba.", "Cunoscut pentru agricultura sa."], "en": ["Seat: Békéscsaba.", "Known for its agriculture."]},
-    image: "",
+    image: "geo-images/hungary/bekes.webp",
   },
   {
     id: "borsod-abauj-zemplen",
@@ -68,7 +68,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Borsod-Abaúj-Zemplén", "hu": "Borsod-Abaúj-Zemplén", "ro": "Borsod-Abaúj-Zemplén", "en": "Borsod-Abaúj-Zemplén"},
     description: {"de": "Komitat im Nordosten Ungarns mit vielfältiger Landschaft.", "hu": "Északkelet-magyarországi megye változatos tájjal.", "ro": "Județ în nord-estul Ungariei cu un peisaj divers.", "en": "County in northeastern Hungary with diverse landscape."},
     facts: {"de": ["Sitz: Miskolc.", "Beinhaltet die Weinregion Tokaj."], "hu": ["Székhelye: Miskolc.", "Itt található a Tokaji borvidék."], "ro": ["Reședința: Miskolc.", "Include regiunea viticolă Tokaj."], "en": ["Seat: Miskolc.", "Includes the Tokaj wine region."]},
-    image: "",
+    image: "geo-images/hungary/HU.webp",
   },
   {
     id: "csongrad-csanad",
@@ -78,7 +78,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Csongrád-Csanád", "hu": "Csongrád-Csanád", "ro": "Csongrád-Csanád", "en": "Csongrád-Csanád"},
     description: {"de": "Komitat im Süden Ungarns, geteilt durch die Theiß.", "hu": "Dél-magyarországi megye, melyet a Tisza szel ketté.", "ro": "Județ în sudul Ungariei, împărțit de râul Tisa.", "en": "County in southern Hungary, divided by the river Tisza."},
     facts: {"de": ["Sitz: Szeged.", "Der tiefste Punkt Ungarns liegt hier."], "hu": ["Székhelye: Szeged.", "Itt található Magyarország legmélyebb pontja."], "ro": ["Reședința: Szeged.", "Cel mai jos punct din Ungaria se află aici."], "en": ["Seat: Szeged.", "The lowest point of Hungary is located here."]},
-    image: "",
+    image: "geo-images/hungary/csongrad-csanad.webp",
   },
   {
     id: "fejer",
@@ -88,7 +88,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Weißenburg", "hu": "Fejér", "ro": "Fejér", "en": "Fejér"},
     description: {"de": "Komitat in Mitteltransdanubien mit reicher Geschichte.", "hu": "Közép-dunántúli megye gazdag történelemmel.", "ro": "Județ în Transdanubia Centrală cu o istorie bogată.", "en": "County in Central Transdanubia with rich history."},
     facts: {"de": ["Sitz: Székesfehérvár.", "Beinhaltet den Velencer See."], "hu": ["Székhelye: Székesfehérvár.", "Itt található a Velencei-tó."], "ro": ["Reședința: Székesfehérvár.", "Include Lacul Velence."], "en": ["Seat: Székesfehérvár.", "Includes Lake Velence."]},
-    image: "",
+    image: "geo-images/hungary/fejer.webp",
   },
   {
     id: "gyor-moson-sopron",
@@ -98,7 +98,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Raab-Wieselburg-Ödenburg", "hu": "Győr-Moson-Sopron", "ro": "Győr-Moson-Sopron", "en": "Győr-Moson-Sopron"},
     description: {"de": "Komitat im Nordwesten Ungarns, an der Grenze zu Österreich und der Slowakei.", "hu": "Északnyugat-magyarországi megye, az osztrák és szlovák határon.", "ro": "Județ în nord-vestul Ungariei, la granița cu Austria și Slovacia.", "en": "County in northwestern Hungary, on the border with Austria and Slovakia."},
     facts: {"de": ["Sitz: Győr.", "Wichtige Industrieregion."], "hu": ["Székhelye: Győr.", "Fontos ipari régió."], "ro": ["Reședința: Győr.", "Regiune industrială importantă."], "en": ["Seat: Győr.", "Important industrial region."]},
-    image: "",
+    image: "geo-images/hungary/gyor-moson-sopron.webp",
   },
   {
     id: "hajdu-bihar",
@@ -108,7 +108,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Hajdú-Bihar", "hu": "Hajdú-Bihar", "ro": "Hajdú-Bihar", "en": "Hajdú-Bihar"},
     description: {"de": "Komitat im Osten Ungarns, bekannt für die Puszta.", "hu": "Kelet-magyarországi megye, a pusztáról ismert.", "ro": "Județ în estul Ungariei, cunoscut pentru Puszta.", "en": "County in eastern Hungary, known for the Puszta."},
     facts: {"de": ["Sitz: Debrecen.", "Beinhaltet den Nationalpark Hortobágy."], "hu": ["Székhelye: Debrecen.", "Itt található a Hortobágyi Nemzeti Park."], "ro": ["Reședința: Debrecen.", "Include Parcul Național Hortobágy."], "en": ["Seat: Debrecen.", "Includes the Hortobágy National Park."]},
-    image: "",
+    image: "geo-images/hungary/hajdu-bihar.webp",
   },
   {
     id: "heves",
@@ -118,7 +118,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Heves", "hu": "Heves", "ro": "Heves", "en": "Heves"},
     description: {"de": "Komitat in Nordungarn, Heimat des Mátra-Gebirges.", "hu": "Észak-magyarországi megye, a Mátra otthona.", "ro": "Județ în nordul Ungariei, casa munților Mátra.", "en": "County in northern Hungary, home to the Mátra mountains."},
     facts: {"de": ["Sitz: Eger.", "Der höchste Punkt Ungarns (Kékes) liegt hier."], "hu": ["Székhelye: Eger.", "Itt található Magyarország legmagasabb pontja (Kékes)."], "ro": ["Reședința: Eger.", "Cel mai înalt punct din Ungaria (Kékes) se află aici."], "en": ["Seat: Eger.", "The highest point of Hungary (Kékes) is located here."]},
-    image: "",
+    image: "geo-images/hungary/heves.webp",
   },
   {
     id: "jasz-nagykun-szolnok",
@@ -128,7 +128,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Jász-Nagykun-Szolnok", "hu": "Jász-Nagykun-Szolnok", "ro": "Jász-Nagykun-Szolnok", "en": "Jász-Nagykun-Szolnok"},
     description: {"de": "Komitat im Zentrum der Großen Ungarischen Tiefebene.", "hu": "Megye az Alföld szívében.", "ro": "Județ în centrul Marii Câmpii Maghiare.", "en": "County in the center of the Great Hungarian Plain."},
     facts: {"de": ["Sitz: Szolnok.", "Wird von der Theiß durchquert."], "hu": ["Székhelye: Szolnok.", "A Tisza folyik át rajta."], "ro": ["Reședința: Szolnok.", "Este traversat de râul Tisa."], "en": ["Seat: Szolnok.", "Crossed by the river Tisza."]},
-    image: "",
+    image: "geo-images/hungary/hajdu-bihar.webp",
   },
   {
     id: "komarom-esztergom",
@@ -138,7 +138,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Komárom-Esztergom", "hu": "Komárom-Esztergom", "ro": "Komárom-Esztergom", "en": "Komárom-Esztergom"},
     description: {"de": "Das flächenmäßig kleinste Komitat Ungarns.", "hu": "Magyarország legkisebb területű megyéje.", "ro": "Cel mai mic județ din Ungaria ca suprafață.", "en": "The smallest county in Hungary by area."},
     facts: {"de": ["Sitz: Tatabánya.", "Esztergom war die erste Hauptstadt Ungarns."], "hu": ["Székhelye: Tatabánya.", "Esztergom volt Magyarország első fővárosa."], "ro": ["Reședința: Tatabánya.", "Esztergom a fost prima capitală a Ungariei."], "en": ["Seat: Tatabánya.", "Esztergom was the first capital of Hungary."]},
-    image: "",
+    image: "geo-images/hungary/komarom-esztergom.webp",
   },
   {
     id: "nograd",
@@ -148,7 +148,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Neograd", "hu": "Nógrád", "ro": "Nógrád", "en": "Nógrád"},
     description: {"de": "Komitat in Nordungarn, bekannt für seine Burgen.", "hu": "Észak-magyarországi megye, várairól ismert.", "ro": "Județ în nordul Ungariei, cunoscut pentru castelele sale.", "en": "County in northern Hungary, known for its castles."},
     facts: {"de": ["Sitz: Salgótarján.", "Das Dorf Hollókő ist UNESCO-Welterbe."], "hu": ["Székhelye: Salgótarján.", "Hollókő faluja UNESCO világörökség."], "ro": ["Reședința: Salgótarján.", "Satul Hollókő este în patrimoniul UNESCO."], "en": ["Seat: Salgótarján.", "The village of Hollókő is a UNESCO World Heritage site."]},
-    image: "",
+    image: "geo-images/hungary/nograd.webp",
   },
   {
     id: "pest",
@@ -158,7 +158,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Pest", "hu": "Pest", "ro": "Pest", "en": "Pest"},
     description: {"de": "Komitat, das die Hauptstadt Budapest umschließt.", "hu": "A fővárost, Budapestet körülölelő megye.", "ro": "Județ care înconjoară capitala Budapesta.", "en": "County surrounding the capital city of Budapest."},
     facts: {"de": ["Sitz: Budapest.", "Das bevölkerungsreichste Komitat Ungarns."], "hu": ["Székhelye: Budapest.", "Magyarország legnépesebb megyéje."], "ro": ["Reședința: Budapesta.", "Cel mai populat județ din Ungaria."], "en": ["Seat: Budapest.", "The most populous county in Hungary."]},
-    image: "",
+    image: "geo-images/hungary/pest.webp",
   },
   {
     id: "somogy",
@@ -168,7 +168,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Schomodei", "hu": "Somogy", "ro": "Somogy", "en": "Somogy"},
     description: {"de": "Komitat im Südwesten Ungarns, südlich des Plattensees.", "hu": "Délnyugat-magyarországi megye, a Balatontól délre.", "ro": "Județ în sud-vestul Ungariei, la sud de Lacul Balaton.", "en": "County in southwestern Hungary, south of Lake Balaton."},
     facts: {"de": ["Sitz: Kaposvár.", "Hat eine lange Küstenlinie am Plattensee."], "hu": ["Székhelye: Kaposvár.", "Hosszú partszakasza van a Balatonnál."], "ro": ["Reședința: Kaposvár.", "Are o coastă lungă la Lacul Balaton."], "en": ["Seat: Kaposvár.", "Has a long coastline on Lake Balaton."]},
-    image: "",
+    image: "geo-images/hungary/somogy.webp",
   },
   {
     id: "szabolcs-szatmar-bereg",
@@ -178,7 +178,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Szabolcs-Szatmár-Bereg", "hu": "Szabolcs-Szatmár-Bereg", "ro": "Szabolcs-Szatmár-Bereg", "en": "Szabolcs-Szatmár-Bereg"},
     description: {"de": "Komitat im äußersten Nordosten Ungarns.", "hu": "Magyarország legészakkeletibb megyéje.", "ro": "Județ în extremitatea nord-estică a Ungariei.", "en": "County in the extreme northeast of Hungary."},
     facts: {"de": ["Sitz: Nyíregyháza.", "Grenzt an drei Länder: Slowakei, Ukraine, Rumänien."], "hu": ["Székhelye: Nyíregyháza.", "Három országgal határos: Szlovákia, Ukrajna, Románia."], "ro": ["Reședința: Nyíregyháza.", "Se învecinează cu trei țări: Slovacia, Ucraina, România."], "en": ["Seat: Nyíregyháza.", "Borders three countries: Slovakia, Ukraine, Romania."]},
-    image: "",
+    image: "geo-images/hungary/szabolcs-szatmar-bereg.webp",
   },
   {
     id: "tolna",
@@ -188,7 +188,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Tolnau", "hu": "Tolna", "ro": "Tolna", "en": "Tolna"},
     description: {"de": "Komitat in Südtransdanubien, am rechten Donauufer.", "hu": "Dél-dunántúli megye, a Duna jobb partján.", "ro": "Județ în Transdanubia de Sud, pe malul drept al Dunării.", "en": "County in Southern Transdanubia, on the right bank of the Danube."},
     facts: {"de": ["Sitz: Szekszárd.", "Bekannt für die Weinregion Szekszárd."], "hu": ["Székhelye: Szekszárd.", "Híres a szekszárdi borvidékről."], "ro": ["Reședința: Szekszárd.", "Cunoscut pentru regiunea viticolă Szekszárd."], "en": ["Seat: Szekszárd.", "Known for the Szekszárd wine region."]},
-    image: "",
+    image: "geo-images/hungary/somogy.webp",
   },
   {
     id: "vas",
@@ -198,7 +198,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Eisenburg", "hu": "Vas", "ro": "Vas", "en": "Vas"},
     description: {"de": "Komitat im Westen Ungarns, an der Grenze zu Österreich.", "hu": "Nyugat-magyarországi megye, az osztrák határon.", "ro": "Județ în vestul Ungariei, la granița cu Austria.", "en": "County in western Hungary, on the border with Austria."},
     facts: {"de": ["Sitz: Szombathely.", "Reich an Thermalbädern."], "hu": ["Székhelye: Szombathely.", "Gazdag termálfürdőkben."], "ro": ["Reședința: Szombathely.", "Bogat în băi termale."], "en": ["Seat: Szombathely.", "Rich in thermal baths."]},
-    image: "",
+    image: "geo-images/hungary/vas.webp",
   },
   {
     id: "veszprem",
@@ -208,7 +208,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Wesprim", "hu": "Veszprém", "ro": "Veszprém", "en": "Veszprém"},
     description: {"de": "Komitat in Mitteltransdanubien, nördlich des Plattensees.", "hu": "Közép-dunántúli megye, a Balatontól északra.", "ro": "Județ în Transdanubia Centrală, la nord de Lacul Balaton.", "en": "County in Central Transdanubia, north of Lake Balaton."},
     facts: {"de": ["Sitz: Veszprém.", "Beinhaltet die Halbinsel Tihany."], "hu": ["Székhelye: Veszprém.", "Itt található a Tihanyi-félsziget."], "ro": ["Reședința: Veszprém.", "Include Peninsula Tihany."], "en": ["Seat: Veszprém.", "Includes the Tihany Peninsula."]},
-    image: "",
+    image: "geo-images/hungary/veszprem.webp",
   },
   {
     id: "zala",
@@ -218,7 +218,7 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Zala", "hu": "Zala", "ro": "Zala", "en": "Zala"},
     description: {"de": "Komitat im Südwesten Ungarns, bekannt für seine Hügellandschaft.", "hu": "Délnyugat-magyarországi megye, dombvidékéről ismert.", "ro": "Județ în sud-vestul Ungariei, cunoscut pentru peisajul său deluros.", "en": "County in southwestern Hungary, known for its hilly landscape."},
     facts: {"de": ["Sitz: Zalaegerszeg.", "Beinhaltet den Thermalsee von Hévíz."], "hu": ["Székhelye: Zalaegerszeg.", "Itt található a Hévízi-tó."], "ro": ["Reședința: Zalaegerszeg.", "Include Lacul Termal Hévíz."], "en": ["Seat: Zalaegerszeg.", "Includes the thermal lake of Hévíz."]},
-    image: "",
+    image: "geo-images/hungary/zala.webp",
   },
 ];
 
@@ -231,7 +231,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Budapest", "hu": "Budapest", "ro": "Budapesta", "en": "Budapest"},
     description: {"de": "Die Hauptstadt Ungarns, berühmt für ihre Architektur und Thermalbäder.", "hu": "Magyarország fővárosa, híres építészetéről és termálfürdőiről.", "ro": "Capitala Ungariei, faimoasă pentru arhitectura și băile sale termale.", "en": "The capital of Hungary, famous for its architecture and thermal baths."},
     facts: {"de": ["Entstand 1873 aus Buda, Pest und Óbuda.", "Wird oft 'Perle der Donau' genannt."], "hu": ["1873-ban jött létre Buda, Pest és Óbuda egyesítésével.", "Gyakran a 'Duna gyöngyének' nevezik."], "ro": ["Formată în 1873 din Buda, Pesta și Óbuda.", "Adesea numită 'Perla Dunării'."], "en": ["Formed in 1873 from Buda, Pest, and Óbuda.", "Often called the 'Pearl of the Danube'."]},
-    image: "",
+    image: "geo-images/hungary/budapest-city.webp",
   },
   {
     id: "budai-var",
@@ -241,7 +241,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Budaer Burg", "hu": "Budai Vár", "ro": "Castelul Buda", "en": "Buda Castle"},
     description: {"de": "Historisches Schloss und Palastkomplex der ungarischen Könige in Budapest.", "hu": "A magyar királyok történelmi kastély- és palotaegyüttese Budapesten.", "ro": "Castel istoric și complex de palate al regilor maghiari din Budapesta.", "en": "Historical castle and palace complex of the Hungarian kings in Budapest."},
     facts: {"de": ["Teil des UNESCO-Welterbes.", "Beherbergt die Ungarische Nationalgalerie."], "hu": ["Az UNESCO világörökség része.", "Itt található a Magyar Nemzeti Galéria."], "ro": ["Parte a Patrimoniului Mondial UNESCO.", "Găzduiește Galeria Națională Maghiară."], "en": ["Part of the UNESCO World Heritage site.", "Houses the Hungarian National Gallery."]},
-    image: "",
+    image: "geo-images/hungary/budapest-city.webp",
   },
   {
     id: "orszaghaz",
@@ -251,7 +251,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Parlamentsgebäude", "hu": "Országház", "ro": "Parlamentul", "en": "Parliament Building"},
     description: {"de": "Sitz der ungarischen Nationalversammlung am Ufer der Donau.", "hu": "A magyar Országgyűlés székhelye a Duna partján.", "ro": "Sediul Adunării Naționale Maghiare pe malul Dunării.", "en": "Seat of the National Assembly of Hungary on the banks of the Danube."},
     facts: {"de": ["Eines der größten Parlamentsgebäude der Welt.", "Im neugotischen Stil erbaut."], "hu": ["A világ egyik legnagyobb parlamenti épülete.", "Neogótikus stílusban épült."], "ro": ["Una dintre cele mai mari clădiri parlamentare din lume.", "Construită în stil neogotic."], "en": ["One of the largest parliament buildings in the world.", "Built in the Gothic Revival style."]},
-    image: "",
+    image: "geo-images/hungary/orszaghaz.webp",
   },
   {
     id: "hosok-tere",
@@ -261,7 +261,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Heldenplatz", "hu": "Hősök tere", "ro": "Piața Eroilor", "en": "Heroes' Square"},
     description: {"de": "Einer der wichtigsten Plätze in Budapest, bekannt für sein ikonisches Statuenkomplex.", "hu": "Budapest egyik legfontosabb tere, ikonikus szoborcsoportjáról ismert.", "ro": "Una dintre cele mai importante piețe din Budapesta, cunoscută pentru complexul său iconic de statui.", "en": "One of the major squares in Budapest, noted for its iconic statue complex."},
     facts: {"de": ["Zeigt die Führer der sieben Stämme der Magyaren.", "Liegt am Ende der Andrássy-Straße."], "hu": ["A hét magyar törzs vezéreit ábrázolja.", "Az Andrássy út végén található."], "ro": ["Prezintă liderii celor șapte triburi ale maghiarilor.", "Situată la capătul Bulevardului Andrássy."], "en": ["Features the leaders of the seven tribes of the Magyars.", "Located at the end of Andrássy Avenue."]},
-    image: "",
+    image: "geo-images/hungary/orszaghaz.webp",
   },
   {
     id: "dunapart",
@@ -271,7 +271,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Donauufer", "hu": "Dunapart", "ro": "Malul Dunării", "en": "Danube Promenade"},
     description: {"de": "Promenade entlang der Donau in Budapest mit herrlichem Blick auf die Stadt.", "hu": "Sétány a Duna mentén Budapesten, csodálatos kilátással a városra.", "ro": "Promenadă de-a lungul Dunării în Budapesta, cu vederi magnifice asupra orașului.", "en": "Promenade along the Danube in Budapest cu magnificent views of the city."},
     facts: {"de": ["Hier befindet sich das Denkmal 'Schuhe am Donauufer'.", "Beliebter Ort für Spaziergänge."], "hu": ["Itt található a 'Cipők a Duna-parton' emlékmű.", "Népszerű sétahely."], "ro": ["Aici se află memorialul 'Pantofi pe malul Dunării'.", "Loc popular pentru plimbări."], "en": ["Home to the 'Shoes on the Danube Bank' memorial.", "Popular spot for walks."]},
-    image: "",
+    image: "geo-images/hungary/dunapart.webp",
   },
   {
     id: "margitsziget",
@@ -281,7 +281,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Margareteninsel", "hu": "Margitsziget", "ro": "Insula Margareta", "en": "Margaret Island"},
     description: {"de": "Eine ruhige Insel mitten in der Donau in Budapest, die als Erholungsgebiet dient.", "hu": "Csendes sziget a Duna közepén Budapesten, amely rekreációs területként szolgál.", "ro": "O insulă liniștită în mijlocul Dunării în Budapesta, care servește ca zonă de recreere.", "en": "A quiet island in the middle of the Danube in Budapest, serving as a recreational area."},
     facts: {"de": ["Autofreie Zone.", "Beherbergt einen Wasserturm und japanischen Garten."], "hu": ["Autómentes övezet.", "Víztorony és japánkert is található itt."], "ro": ["Zonă fără mașini.", "Găzduiește un turn de apă și o grădină japoneză."], "en": ["Car-free zone.", "Houses a water tower and Japanese garden."]},
-    image: "",
+    image: "geo-images/hungary/dunapart.webp",
   },
   {
     id: "varosliget",
@@ -291,7 +291,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Stadtwäldchen", "hu": "Városliget", "ro": "Parcul Orașului", "en": "City Park"},
     description: {"de": "Ein großer öffentlicher Park in Budapest mit vielen Attraktionen.", "hu": "Nagy közpark Budapesten, számos látványossággal.", "ro": "Un mare parc public în Budapesta cu multe atracții.", "en": "A large public park in Budapest with many attractions."},
     facts: {"de": ["Beherbergt das Széchenyi-Heilbad.", "Hier befindet sich die Burg Vajdahunyad."], "hu": ["Itt található a Széchenyi gyógyfürdő.", "Itt áll a Vajdahunyad vára."], "ro": ["Găzduiește Băile Termale Széchenyi.", "Aici se află Castelul Vajdahunyad."], "en": ["Home to the Széchenyi Thermal Bath.", "Location of the Vajdahunyad Castle."]},
-    image: "",
+    image: "geo-images/hungary/varosliget.webp",
   },
   {
     id: "andrassy-ut",
@@ -301,7 +301,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Andrássy-Straße", "hu": "Andrássy út", "ro": "Bulevardul Andrássy", "en": "Andrássy Avenue"},
     description: {"de": "Ein eleganter Boulevard in Budapest, der zum UNESCO-Welterbe gehört.", "hu": "Elegáns sugárút Budapesten, amely az UNESCO világörökség része.", "ro": "Un bulevard elegant din Budapesta, parte a Patrimoniului Mondial UNESCO.", "en": "An elegant boulevard in Budapest, part of the UNESCO World Heritage site."},
     facts: {"de": ["Verbindet das Stadtzentrum mit dem Heldenplatz.", "Darunter verläuft die älteste U-Bahn Kontinentaleuropas."], "hu": ["A városközpontot köti össze a Hősök terével.", "Alatta fut a kontinens legrégebbi földalattija."], "ro": ["Conectează centrul orașului cu Piața Eroilor.", "Sub el circulă cel mai vechi metrou din Europa continentală."], "en": ["Connects the city center with Heroes' Square.", "Underneath runs the oldest subway in continental Europe."]},
-    image: "",
+    image: "geo-images/hungary/andrassy-ut.webp",
   },
   {
     id: "nyugati-palyaudvar",
@@ -311,7 +311,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Westbahnhof", "hu": "Nyugati pályaudvar", "ro": "Gara de Vest", "en": "Nyugati Railway Station"},
     description: {"de": "Einer der wichtigsten Bahnhöfe in Budapest, entworfen von der Firma Eiffel.", "hu": "Budapest egyik legfontosabb pályaudvara, az Eiffel cég tervezte.", "ro": "Una dintre cele mai importante gări din Budapesta, proiectată de compania Eiffel.", "en": "One of the main railway stations in Budapest, designed by the Eiffel Company."},
     facts: {"de": ["Eröffnet im Jahr 1877.", "Wichtiger Verkehrsknotenpunkt."], "hu": ["1877-ben nyitották meg.", "Fontos közlekedési csomópont."], "ro": ["Deschisă în 1877.", "Nod de transport important."], "en": ["Opened in 1877.", "Important transport hub."]},
-    image: "",
+    image: "geo-images/hungary/andrassy-ut.webp",
   },
   {
     id: "lanchid",
@@ -321,7 +321,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kettenbrücke", "hu": "Lánchíd", "ro": "Podul cu Lanțuri", "en": "Chain Bridge"},
     description: {"de": "Die erste dauerhafte Brücke über die Donau in Budapest.", "hu": "Az első állandó híd a Dunán Budapesten.", "ro": "Primul pod permanent peste Dunăre în Budapesta.", "en": "The first permanent bridge across the Danube in Budapest."},
     facts: {"de": ["Eröffnet 1849.", "Wurde von William Tierney Clark entworfen."], "hu": ["1849-ben adták át.", "William Tierney Clark tervezte."], "ro": ["Deschis în 1849.", "A fost proiectat de William Tierney Clark."], "en": ["Opened in 1849.", "Designed by William Tierney Clark."]},
-    image: "",
+    image: "geo-images/hungary/lanchid.webp",
   },
   {
     id: "pecs",
@@ -331,7 +331,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Fünfkirchen", "hu": "Pécs", "ro": "Pécs", "en": "Pécs"},
     description: {"de": "Stadt im Süden Ungarns, bekannt für ihre frühchristlichen Grabkammern.", "hu": "Dél-magyarországi város, ókeresztény sírkamráiról ismert.", "ro": "Oraș în sudul Ungariei, cunoscut pentru mormintele sale paleocreștine.", "en": "City in southern Hungary, known for its early Christian burial chambers."},
     facts: {"de": ["Kulturhauptstadt Europas 2010.", "Heimat der Zsolnay-Porzellanmanufaktur."], "hu": ["Európa Kulturális Fővárosa volt 2010-ben.", "A Zsolnay porcelángyár otthona."], "ro": ["Capitală Europeană a Culturii în 2010.", "Casa fabricii de porțelan Zsolnay."], "en": ["European Capital of Culture in 2010.", "Home to the Zsolnay porcelain factory."]},
-    image: "",
+    image: "geo-images/hungary/pecs.webp",
   },
   {
     id: "siklos",
@@ -341,7 +341,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Siklós", "hu": "Siklós", "ro": "Siklós", "en": "Siklós"},
     description: {"de": "Stadt in Südungarn, berühmt für ihre gut erhaltene Burg.", "hu": "Dél-magyarországi város, jól karbantartott váráról híres.", "ro": "Oraș în sudul Ungariei, faimos pentru castelul său bine conservat.", "en": "City in southern Hungary, famous for its well-preserved castle."},
     facts: {"de": ["Die Burg Siklós wurde im 13. Jahrhundert erbaut.", "Liegt in der Nähe der Weinregion Villány."], "hu": ["A siklósi vár a 13. században épült.", "A villányi borvidék közelében fekszik."], "ro": ["Castelul Siklós a fost construit în secolul al XIII-lea.", "Situat în apropierea regiunii viticole Villány."], "en": ["Siklós Castle was built in the 13th century.", "Located near the Villány wine region."]},
-    image: "",
+    image: "geo-images/hungary/siklos.webp",
   },
   {
     id: "mohacs",
@@ -351,7 +351,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Mohatsch", "hu": "Mohács", "ro": "Mohács", "en": "Mohács"},
     description: {"de": "Stadt an der Donau, bekannt für die Schlacht von Mohács und das Busójárás-Festival.", "hu": "Duna-parti város, a mohácsi vészről és a busójárásról ismert.", "ro": "Oraș pe Dunăre, cunoscut pentru Bătălia de la Mohács și festivalul Busójárás.", "en": "City on the Danube, known for the Battle of Mohács and the Busójárás festival."},
     facts: {"de": ["Schauplatz der Schlacht von Mohács 1526.", "Das Busójárás ist UNESCO-Kulturerbe."], "hu": ["Az 1526-os mohácsi csata helyszíne.", "A busójárás UNESCO szellemi kulturális örökség."], "ro": ["Locul Bătăliei de la Mohács din 1526.", "Busójárás este patrimoniu cultural UNESCO."], "en": ["Site of the Battle of Mohács in 1526.", "The Busójárás is UNESCO cultural heritage."]},
-    image: "",
+    image: "geo-images/hungary/mohacs.webp",
   },
   {
     id: "villany",
@@ -361,7 +361,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Wieland", "hu": "Villány", "ro": "Villány", "en": "Villány"},
     description: {"de": "Zentrum einer der berühmtesten Rotweinregionen Ungarns.", "hu": "Magyarország egyik leghíresebb vörösborvidékének központja.", "ro": "Centrul uneia dintre cele mai faimoase regiuni de vin roșu din Ungaria.", "en": "Center of one of Hungary's most famous red wine regions."},
     facts: {"de": ["Bekannt für vollmundige Rotweine.", "Beliebtes Ziel für Weintourismus."], "hu": ["Testes vörösborairól ismert.", "Népszerű borturisztikai célpont."], "ro": ["Cunoscut pentru vinurile roșii corpolente.", "Destinație populară pentru turismul viticol."], "en": ["Known for full-bodied red wines.", "Popular destination for wine tourism."]},
-    image: "",
+    image: "geo-images/hungary/mohacs.webp",
   },
   {
     id: "kecskemet",
@@ -371,7 +371,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kecskemét", "hu": "Kecskemét", "ro": "Kecskemét", "en": "Kecskemét"},
     description: {"de": "Stadt in Zentralungarn, bekannt für Jugendstilarchitektur.", "hu": "Közép-magyarországi város, szecessziós építészetéről ismert.", "ro": "Oraș în centrul Ungariei, cunoscut pentru arhitectura Art Nouveau.", "en": "City in central Hungary, known for Art Nouveau architecture."},
     facts: {"de": ["Geburtsort des Komponisten Zoltán Kodály.", "Berühmt für Aprikosenschnaps (Barackpálinka)."], "hu": ["Kodály Zoltán zeneszerző szülővárosa.", "Híres a barackpálinkájáról."], "ro": ["Locul de naștere al compozitorului Zoltán Kodály.", "Faimos pentru rachiul de caise (Barackpálinka)."], "en": ["Birthplace of composer Zoltán Kodály.", "Famous for apricot brandy (Barackpálinka)."]},
-    image: "",
+    image: "geo-images/hungary/kecskemet.webp",
   },
   {
     id: "kalocsa",
@@ -381,7 +381,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kollotschau", "hu": "Kalocsa", "ro": "Kalocsa", "en": "Kalocsa"},
     description: {"de": "Eine der ältesten Städte Ungarns, berühmt für Paprika und Volkskunst.", "hu": "Magyarország egyik legrégebbi városa, híres a paprikáról és a népművészetről.", "ro": "Unul dintre cele mai vechi orașe din Ungaria, faimos pentru boia și arta populară.", "en": "One of the oldest cities in Hungary, famous for paprika and folk art."},
     facts: {"de": ["Zentrum des ungarischen Paprikaanbaus.", "Sitz eines Erzbistums."], "hu": ["A magyar paprikatermesztés központja.", "Érseki székhely."], "ro": ["Centrul cultivării boielei maghiare.", "Sediul unei arhiepiscopii."], "en": ["Center of Hungarian paprika cultivation.", "Seat of an archbishopric."]},
-    image: "",
+    image: "geo-images/hungary/kalocsa.webp",
   },
   {
     id: "kiskunmajsa",
@@ -391,7 +391,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kiskunmajsa", "hu": "Kiskunmajsa", "ro": "Kiskunmajsa", "en": "Kiskunmajsa"},
     description: {"de": "Kleinstadt in der Großen Tiefebene, bekannt für ihr Thermalbad.", "hu": "Alföldi kisváros, termálfürdőjéről ismert.", "ro": "Mic oraș în Marea Câmpie, cunoscut pentru baia sa termală.", "en": "Small town in the Great Plain, known for its thermal bath."},
     facts: {"de": ["Beliebtes Ziel für Kururlauber.", "Liegt in der Region Kiskunság."], "hu": ["Népszerű célpont a gyógyulni vágyók körében.", "A Kiskunság régióban fekszik."], "ro": ["Destinație populară pentru turiștii de spa.", "Situat în regiunea Kiskunság."], "en": ["Popular destination for spa tourists.", "Located in the Kiskunság region."]},
-    image: "",
+    image: "geo-images/hungary/kiskunmajsa.webp",
   },
   {
     id: "bekescsaba",
@@ -401,7 +401,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Tschaba", "hu": "Békéscsaba", "ro": "Bichișciaba", "en": "Békéscsaba"},
     description: {"de": "Stadt im Südosten Ungarns, berühmt für ihre Wurstspezialitäten.", "hu": "Délkelet-magyarországi város, híres kolbászspecialitásairól.", "ro": "Oraș în sud-estul Ungariei, faimos pentru specialitățile sale de cârnați.", "en": "City in southeastern Hungary, famous for its sausage specialties."},
     facts: {"de": ["Heimat der Csabai-Wurst.", "Veranstaltet jährlich ein großes Wurstfestival."], "hu": ["A csabai kolbász hazája.", "Évente nagy kolbászfesztivált rendeznek."], "ro": ["Casa cârnatului Csabai.", "Găzduiește anual un mare festival al cârnaților."], "en": ["Home of the Csabai sausage.", "Hosts a large sausage festival annually."]},
-    image: "",
+    image: "geo-images/hungary/bekescsaba.webp",
   },
   {
     id: "gyula",
@@ -411,7 +411,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Jula", "hu": "Gyula", "ro": "Jula", "en": "Gyula"},
     description: {"de": "Historische Kurstadt nahe der rumänischen Grenze.", "hu": "Történelmi fürdőváros a román határ közelében.", "ro": "Oraș balnear istoric aproape de granița cu România.", "en": "Historic spa town near the Romanian border."},
     facts: {"de": ["Bekannt für das Burgbad.", "Die Burg Gyula ist die einzige intakte Ziegelburg Mitteleuropas."], "hu": ["A Várfürdőről ismert.", "A gyulai vár Közép-Európa egyetlen épen maradt téglavára."], "ro": ["Cunoscut pentru Baia Cetății.", "Cetatea Gyula este singura cetate de cărămidă intactă din Europa Centrală."], "en": ["Known for the Castle Bath.", "Gyula Castle is the only intact brick castle in Central Europe."]},
-    image: "",
+    image: "geo-images/hungary/gyula.webp",
   },
   {
     id: "szarvas",
@@ -421,7 +421,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Szarvas", "hu": "Szarvas", "ro": "Szarvas", "en": "Szarvas"},
     description: {"de": "Stadt am Fluss Körös, bekannt für ihr Arboretum.", "hu": "Körös-parti város, arborétumáról ismert.", "ro": "Oraș pe râul Körös, cunoscut pentru arboretul său.", "en": "City on the Körös river, known for its arboretum."},
     facts: {"de": ["Das Arboretum Szarvas ist das größte in Ungarn.", "Hier befindet sich das geografische Zentrum des historischen Ungarns."], "hu": ["A Szarvasi Arborétum a legnagyobb Magyarországon.", "Itt található a történelmi Magyarország földrajzi középpontja."], "ro": ["Arboretul Szarvas este cel mai mare din Ungaria.", "Aici se află centrul geografic al Ungariei istorice."], "en": ["The Szarvas Arboretum is the largest in Hungary.", "The geographical center of historical Hungary is located here."]},
-    image: "",
+    image: "geo-images/hungary/szarvas.webp",
   },
   {
     id: "miskolc",
@@ -431,7 +431,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Mischkolz", "hu": "Miskolc", "ro": "Miskolc", "en": "Miskolc"},
     description: {"de": "Die viertgrößte Stadt Ungarns, gelegen am Fuße des Bükk-Gebirges.", "hu": "Magyarország negyedik legnagyobb városa, a Bükk lábánál.", "ro": "Al patrulea oraș ca mărime din Ungaria, situat la poalele munților Bükk.", "en": "The fourth largest city in Hungary, located at the foot of the Bükk Mountains."},
     facts: {"de": ["Bekannt für das Höhlenbad in Miskolctapolca.", "Wichtiges Industriezentrum."], "hu": ["A miskolctapolcai Barlangfürdőről ismert.", "Fontos ipari központ."], "ro": ["Cunoscut pentru Baia în Peșteră din Miskolctapolca.", "Centru industrial important."], "en": ["Known for the Cave Bath in Miskolctapolca.", "Important industrial center."]},
-    image: "",
+    image: "geo-images/hungary/miskolc.webp",
   },
   {
     id: "szerencs",
@@ -441,7 +441,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Szerencs", "hu": "Szerencs", "ro": "Szerencs", "en": "Szerencs"},
     description: {"de": "Das 'Tor zu Tokaj', bekannt für seine Schokoladenfabrik.", "hu": "A 'Tokaji kapu', csokoládégyáráról ismert.", "ro": "'Poarta către Tokaj', cunoscut pentru fabrica sa de ciocolată.", "en": "The 'Gateway to Tokaj', known for its chocolate factory."},
     facts: {"de": ["Hat eine Burg aus der Renaissancezeit.", "Traditionelle Zucker- und Schokoladenproduktion."], "hu": ["Reneszánsz kori várral rendelkezik.", "Hagyományos cukor- és csokoládégyártás."], "ro": ["Are un castel din perioada Renașterii.", "Producție tradițională de zahăr și ciocolată."], "en": ["Has a Renaissance-era castle.", "Traditional sugar and chocolate production."]},
-    image: "",
+    image: "geo-images/hungary/miskolc.webp",
   },
   {
     id: "tokaj",
@@ -451,7 +451,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Tokaj", "hu": "Tokaj", "ro": "Tokaj", "en": "Tokaj"},
     description: {"de": "Zentrum der historischen Weinregion Tokaj, berühmt für Süßweine.", "hu": "A történelmi Tokaji borvidék központja, édes borairól híres.", "ro": "Centrul regiunii viticole istorice Tokaj, faimos pentru vinurile dulci.", "en": "Center of the historic Tokaj wine region, famous for sweet wines."},
     facts: {"de": ["Die Weinregion ist UNESCO-Welterbe.", "Heimat des Tokaji Aszú."], "hu": ["A borvidék UNESCO világörökség.", "A Tokaji Aszú hazája."], "ro": ["Regiunea viticolă este în Patrimoniul Mondial UNESCO.", "Casa vinului Tokaji Aszú."], "en": ["The wine region is a UNESCO World Heritage site.", "Home of the Tokaji Aszú."]},
-    image: "",
+    image: "geo-images/hungary/tokaj.webp",
   },
   {
     id: "aggtelek",
@@ -461,7 +461,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Aggtelek", "hu": "Aggtelek", "ro": "Aggtelek", "en": "Aggtelek"},
     description: {"de": "Nationalpark, berühmt für sein ausgedehntes Tropfsteinhöhlensystem.", "hu": "Nemzeti park, kiterjedt cseppkőbarlang-rendszeréről híres.", "ro": "Parc național, faimos pentru sistemul său extins de peșteri cu stalactite.", "en": "National park, famous for its extensive stalactite cave system."},
     facts: {"de": ["Die Baradla-Höhle ist Teil des UNESCO-Welterbes.", "Erstreckt sich über die Grenze zur Slowakei."], "hu": ["A Baradla-barlang az UNESCO világörökség része.", "Átnyúlik a szlovák határon."], "ro": ["Peștera Baradla este parte a Patrimoniului Mondial UNESCO.", "Se extinde peste granița cu Slovacia."], "en": ["The Baradla Cave is part of the UNESCO World Heritage site.", "Extends across the border into Slovakia."]},
-    image: "",
+    image: "geo-images/hungary/tokaj.webp",
   },
   {
     id: "szeged",
@@ -471,7 +471,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Szegedin", "hu": "Szeged", "ro": "Seghedin", "en": "Szeged"},
     description: {"de": "Die 'Stadt des Sonnenscheins' an der Theiß, bekannt für ihre Universität.", "hu": "A 'Napfény városa' a Tisza partján, egyeteméről ismert.", "ro": "'Orașul Soarelui' pe râul Tisa, cunoscut pentru universitatea sa.", "en": "The 'City of Sunshine' on the Tisza river, known for its university."},
     facts: {"de": ["Wurde nach dem Hochwasser 1879 neu aufgebaut.", "Berühmt für Pick-Salami und Paprika."], "hu": ["Az 1879-es árvíz után újjáépítették.", "Híres a Pick szalámiról és a paprikáról."], "ro": ["A fost reconstruit după inundația din 1879.", "Faimos pentru salamul Pick și boia."], "en": ["Was rebuilt after the 1879 flood.", "Famous for Pick salami and paprika."]},
-    image: "",
+    image: "geo-images/hungary/szeged.webp",
   },
   {
     id: "hodmezovasarhely",
@@ -481,7 +481,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Neumarkt an der Theiß", "hu": "Hódmezővásárhely", "ro": "Hódmezővásárhely", "en": "Hódmezővásárhely"},
     description: {"de": "Stadt in Südungarn mit einer reichen landwirtschaftlichen Tradition.", "hu": "Dél-magyarországi város gazdag mezőgazdasági hagyományokkal.", "ro": "Oraș în sudul Ungariei cu o bogată tradiție agricolă.", "en": "City in southern Hungary with a rich agricultural tradition."},
     facts: {"de": ["Zweitgrößte Stadt Ungarns nach Fläche.", "Bekannt für ihre Töpferkunst."], "hu": ["Magyarország második legnagyobb területű városa.", "Fazekasságáról ismert."], "ro": ["Al doilea oraș ca mărime din Ungaria după suprafață.", "Cunoscut pentru olăritul său."], "en": ["Second largest city in Hungary by area.", "Known for its pottery."]},
-    image: "",
+    image: "geo-images/hungary/hodmezovasarhely.webp",
   },
   {
     id: "mako",
@@ -491,7 +491,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Makó", "hu": "Makó", "ro": "Macău", "en": "Makó"},
     description: {"de": "Stadt nahe der rumänischen Grenze, berühmt für ihre Zwiebeln.", "hu": "Város a román határ közelében, hagymájáról híres.", "ro": "Oraș aproape de granița cu România, faimos pentru ceapa sa.", "en": "City near the Romanian border, famous for its onions."},
     facts: {"de": ["Die Makó-Zwiebel ist ein geschütztes Agrarprodukt.", "Das Thermalbad Hagymatikum wurde von Imre Makovecz entworfen."], "hu": ["A makói hagyma védett mezőgazdasági termék.", "A Hagymatikum termálfürdőt Makovecz Imre tervezte."], "ro": ["Ceapa de Makó este un produs agricol protejat.", "Baia termală Hagymatikum a fost proiectată de Imre Makovecz."], "en": ["The Makó onion is a protected agricultural product.", "The Hagymatikum thermal bath was designed by Imre Makovecz."]},
-    image: "",
+    image: "geo-images/hungary/mako.webp",
   },
   {
     id: "szekesfehervar",
@@ -501,7 +501,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Stuhlweißenburg", "hu": "Székesfehérvár", "ro": "Székesfehérvár", "en": "Székesfehérvár"},
     description: {"de": "Eine der ältesten Städte Ungarns, ehemalige Krönungsstadt der Könige.", "hu": "Magyarország egyik legrégebbi városa, a királyok egykori koronázóvárosa.", "ro": "Unul dintre cele mai vechi orașe din Ungaria, fost oraș de încoronare a regilor.", "en": "One of the oldest cities in Hungary, former coronation city of kings."},
     facts: {"de": ["War im Mittelalter die Hauptstadt Ungarns.", "Hier wurden 37 ungarische Könige gekrönt."], "hu": ["A középkorban Magyarország fővárosa volt.", "Itt 37 magyar királyt koronáztak meg."], "ro": ["A fost capitala Ungariei în Evul Mediu.", "Aici au fost încoronați 37 de regi maghiari."], "en": ["Was the capital of Hungary in the Middle Ages.", "37 Hungarian kings were crowned here."]},
-    image: "",
+    image: "geo-images/hungary/szekesfehervar.webp",
   },
   {
     id: "dunaujvaros",
@@ -511,7 +511,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Neustadt an der Donau", "hu": "Dunaújváros", "ro": "Dunaújváros", "en": "Dunaújváros"},
     description: {"de": "Industriestadt an der Donau, erbaut in den 1950er Jahren.", "hu": "Ipari város a Duna partján, az 1950-es években épült.", "ro": "Oraș industrial pe Dunăre, construit în anii 1950.", "en": "Industrial city on the Danube, built in the 1950s."},
     facts: {"de": ["Hieß früher Sztálinváros (Stalinstadt).", "Zentrum der ungarischen Stahlindustrie."], "hu": ["Korábban Sztálinvárosnak hívták.", "A magyar acélipar központja."], "ro": ["Se numea anterior Sztálinváros (Orașul lui Stalin).", "Centrul industriei siderurgice maghiare."], "en": ["Formerly called Sztálinváros (Stalin City).", "Center of the Hungarian steel industry."]},
-    image: "",
+    image: "geo-images/hungary/szekesfehervar.webp",
   },
   {
     id: "gardony",
@@ -521,7 +521,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Gárdony", "hu": "Gárdony", "ro": "Gárdony", "en": "Gárdony"},
     description: {"de": "Stadt am Ufer des Velencer Sees, ein beliebtes Urlaubsziel.", "hu": "Város a Velencei-tó partján, népszerű nyaralóhely.", "ro": "Oraș pe malul Lacului Velence, o destinație populară de vacanță.", "en": "City on the shores of Lake Velence, a popular holiday destination."},
     facts: {"de": ["Geburtsort des Schriftstellers Géza Gárdonyi.", "Beliebt für Wassersport."], "hu": ["Gárdonyi Géza író szülővárosa.", "Népszerű a vízisportok kedvelői körében."], "ro": ["Locul de naștere al scriitorului Géza Gárdonyi.", "Popular pentru sporturi nautice."], "en": ["Birthplace of writer Géza Gárdonyi.", "Popular for water sports."]},
-    image: "",
+    image: "geo-images/hungary/gardony.webp",
   },
   {
     id: "gyor",
@@ -531,7 +531,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Raab", "hu": "Győr", "ro": "Győr", "en": "Győr"},
     description: {"de": "Die 'Stadt der Flüsse' im Nordwesten Ungarns, ein wichtiges Wirtschaftszentrum.", "hu": "A 'Folyók városa' Északnyugat-Magyarországon, fontos gazdasági központ.", "ro": "'Orașul râurilor' în nord-vestul Ungariei, un important centru economic.", "en": "The 'City of Rivers' in northwestern Hungary, an important economic center."},
     facts: {"de": ["Liegt am Zusammenfluss von Raab, Rabnitz und Donau.", "Heimat eines großen Audi-Werks."], "hu": ["A Rába, a Rábca és a Duna találkozásánál fekszik.", "Egy nagy Audi gyár otthona."], "ro": ["Situat la confluența râurilor Rába, Rábca și Dunărea.", "Casa unei mari fabrici Audi."], "en": ["Located at the confluence of the Rába, Rábca, and Danube rivers.", "Home to a large Audi factory."]},
-    image: "",
+    image: "geo-images/hungary/gyor.webp",
   },
   {
     id: "sopron",
@@ -541,7 +541,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Ödenburg", "hu": "Sopron", "ro": "Sopron", "en": "Sopron"},
     description: {"de": "Die 'treueste Stadt' nahe der österreichischen Grenze, bekannt für Wein und Geschichte.", "hu": "A 'Leghűségesebb város' az osztrák határ közelében, boráról és történelméről ismert.", "ro": "'Cel mai fidel oraș' aproape de granița cu Austria, cunoscut pentru vin și istorie.", "en": "The 'Most Loyal City' near the Austrian border, known for wine and history."},
     facts: {"de": ["Stimmte 1921 für den Verbleib bei Ungarn.", "Hat eine gut erhaltene mittelalterliche Altstadt."], "hu": ["1921-ben a Magyarországhoz tartozás mellett szavazott.", "Jól megőrzött középkori óvárosa van."], "ro": ["A votat în 1921 pentru a rămâne în Ungaria.", "Are un oraș vechi medieval bine conservat."], "en": ["Voted in 1921 to remain part of Hungary.", "Has a well-preserved medieval old town."]},
-    image: "",
+    image: "geo-images/hungary/sopron.webp",
   },
   {
     id: "pannonhalma",
@@ -551,7 +551,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Martinsberg", "hu": "Pannonhalma", "ro": "Pannonhalma", "en": "Pannonhalma"},
     description: {"de": "Historische Benediktinerabtei auf einem Hügel, eines der ältesten Denkmäler Ungarns.", "hu": "Történelmi bencés apátság egy dombon, Magyarország egyik legrégebbi műemléke.", "ro": "Abație benedictină istorică pe un deal, unul dintre cele mai vechi monumente din Ungaria.", "en": "Historic Benedictine abbey on a hill, one of the oldest monuments in Hungary."},
     facts: {"de": ["Gegründet im Jahr 996.", "Teil des UNESCO-Welterbes."], "hu": ["996-ban alapították.", "Az UNESCO világörökség része."], "ro": ["Fondată în anul 996.", "Parte a Patrimoniului Mondial UNESCO."], "en": ["Founded in 996.", "Part of the UNESCO World Heritage site."]},
-    image: "",
+    image: "geo-images/hungary/pannonhalma.webp",
   },
   {
     id: "debrecen",
@@ -561,7 +561,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Debrezin", "hu": "Debrecen", "ro": "Debrețin", "en": "Debrecen"},
     description: {"de": "Die zweitgrößte Stadt Ungarns, das kulturelle Zentrum der Großen Tiefebene.", "hu": "Magyarország második legnagyobb városa, az Alföld kulturális központja.", "ro": "Al doilea oraș ca mărime din Ungaria, centrul cultural al Marii Câmpii.", "en": "The second largest city in Hungary, the cultural center of the Great Plain."},
     facts: {"de": ["Bekannt als das 'kalvinistische Rom'.", "War zweimal kurzzeitig die Hauptstadt Ungarns."], "hu": ["A 'kálvinista Róma' néven is ismert.", "Kétszer is volt rövid ideig Magyarország fővárosa."], "ro": ["Cunoscut ca 'Roma calvinistă'.", "A fost de două ori capitala Ungariei pentru scurt timp."], "en": ["Known as the 'Calvinist Rome'.", "Was briefly the capital of Hungary twice."]},
-    image: "",
+    image: "geo-images/hungary/debrecen.webp",
   },
   {
     id: "hortobagy",
@@ -571,7 +571,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Hortobágy", "hu": "Hortobágy", "ro": "Hortobágy", "en": "Hortobágy"},
     description: {"de": "Der größte Nationalpark Ungarns, der die traditionelle Puszta-Landschaft schützt.", "hu": "Magyarország legnagyobb nemzeti parkja, amely a hagyományos pusztai tájat védi.", "ro": "Cel mai mare parc național din Ungaria, protejând peisajul tradițional Puszta.", "en": "Hungary's largest national park, protecting the traditional Puszta landscape."},
     facts: {"de": ["UNESCO-Welterbe.", "Bekannt für die Neunbögige Brücke und traditionelle Hirtenkultur."], "hu": ["UNESCO világörökség.", "A Kilenclyukú hídról és a hagyományos pásztorkultúráról ismert."], "ro": ["Patrimoniu Mondial UNESCO.", "Cunoscut pentru Podul cu Nouă Arcuri și cultura pastorală tradițională."], "en": ["UNESCO World Heritage site.", "Known for the Nine-holed Bridge and traditional pastoral culture."]},
-    image: "",
+    image: "geo-images/hungary/hortobagy.webp",
   },
   {
     id: "hajduszoboszlo",
@@ -581,7 +581,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Hajdúszoboszló", "hu": "Hajdúszoboszló", "ro": "Hajdúszoboszló", "en": "Hajdúszoboszló"},
     description: {"de": "Berühmter Kurort mit dem größten Bäderkomplex Europas.", "hu": "Híres fürdőváros Európa legnagyobb fürdőkomplexumával.", "ro": "Faimoasă stațiune balneară cu cel mai mare complex de băi din Europa.", "en": "Famous spa town with the largest bath complex in Europe."},
     facts: {"de": ["Das Thermalwasser wurde 1925 entdeckt.", "Beliebtes Ziel für Gesundheitstourismus."], "hu": ["A termálvizet 1925-ben fedezték fel.", "Népszerű egészségturisztikai célpont."], "ro": ["Apa termală a fost descoperită în 1925.", "Destinație populară pentru turismul de sănătate."], "en": ["The thermal water was discovered in 1925.", "Popular destination for health tourism."]},
-    image: "",
+    image: "geo-images/hungary/hortobagy.webp",
   },
   {
     id: "eger",
@@ -591,7 +591,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Erlau", "hu": "Eger", "ro": "Eger", "en": "Eger"},
     description: {"de": "Historische Stadt in Nordungarn, berühmt für ihre Burg, Thermalbäder und Weine.", "hu": "Történelmi város Észak-Magyarországon, híres váráról, termálfürdőiről és borairól.", "ro": "Oraș istoric în nordul Ungariei, faimos pentru castelul său, băile termale și vinuri.", "en": "Historic city in northern Hungary, famous for its castle, thermal baths, and wines."},
     facts: {"de": ["Heimat des Rotweins 'Erlauer Stierblut' (Egri Bikavér).", "Die Burg Eger widerstand 1552 einer osmanischen Belagerung."], "hu": ["Az 'Egri Bikavér' vörösbor hazája.", "Az egri vár 1552-ben ellenállt az oszmán ostromnak."], "ro": ["Casa vinului roșu 'Sânge de Taur de Eger' (Egri Bikavér).", "Castelul Eger a rezistat unui asediu otoman în 1552."], "en": ["Home of the 'Bull's Blood of Eger' (Egri Bikavér) red wine.", "Eger Castle resisted an Ottoman siege in 1552."]},
-    image: "",
+    image: "geo-images/hungary/eger.webp",
   },
   {
     id: "gyongyos",
@@ -601,7 +601,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Gyöngyös", "hu": "Gyöngyös", "ro": "Gyöngyös", "en": "Gyöngyös"},
     description: {"de": "Stadt am Fuße des Mátra-Gebirges, das 'Tor zur Mátra'.", "hu": "Város a Mátra lábánál, a 'Mátra kapuja'.", "ro": "Oraș la poalele munților Mátra, 'Poarta către Mátra'.", "en": "City at the foot of the Mátra mountains, the 'Gateway to the Mátra'."},
     facts: {"de": ["Zentrum der Weinregion Mátra.", "Ausgangspunkt für Ausflüge zum Kékes."], "hu": ["A Mátrai borvidék központja.", "Kiindulópont a Kékesre tett kirándulásokhoz."], "ro": ["Centrul regiunii viticole Mátra.", "Punct de plecare pentru excursii la Kékes."], "en": ["Center of the Mátra wine region.", "Starting point for excursions to Kékes."]},
-    image: "",
+    image: "geo-images/hungary/gyongyos.webp",
   },
   {
     id: "matra",
@@ -611,7 +611,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Mátra", "hu": "Mátra", "ro": "Mátra", "en": "Mátra"},
     description: {"de": "Gebirgszug in Nordungarn, der den höchsten Gipfel des Landes beherbergt.", "hu": "Hegység Észak-Magyarországon, itt található az ország legmagasabb csúcsa.", "ro": "Lanț muntos în nordul Ungariei, care găzduiește cel mai înalt vârf din țară.", "en": "Mountain range in northern Hungary, home to the country's highest peak."},
     facts: {"de": ["Der Kékes ist mit 1014 Metern der höchste Berg Ungarns.", "Beliebtes Gebiet zum Wandern und Skifahren."], "hu": ["A Kékes 1014 méterével Magyarország legmagasabb hegye.", "Népszerű túrázó- és síterep."], "ro": ["Kékes este cel mai înalt munte din Ungaria, cu 1014 metri.", "Zonă populară pentru drumeții și schi."], "en": ["Kékes is the highest mountain in Hungary at 1014 meters.", "Popular area for hiking and skiing."]},
-    image: "",
+    image: "geo-images/hungary/matra.webp",
   },
   {
     id: "szolnok",
@@ -621,7 +621,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Sollnock", "hu": "Szolnok", "ro": "Szolnok", "en": "Szolnok"},
     description: {"de": "Stadt an der Mündung der Zagyva in die Theiß, ein wichtiger Verkehrsknotenpunkt.", "hu": "Város a Zagyva tiszai torkolatánál, fontos közlekedési csomópont.", "ro": "Oraș la confluența râurilor Zagyva și Tisa, un important nod de transport.", "en": "City at the confluence of the Zagyva and Tisza rivers, an important transport hub."},
     facts: {"de": ["Bekannt für die Tiszavirág-Brücke (Eintagsfliegen-Brücke).", "Hat ein bedeutendes Luftfahrtmuseum."], "hu": ["A Tiszavirág hídról ismert.", "Jelentős repülőmúzeummal rendelkezik."], "ro": ["Cunoscut pentru Podul Tiszavirág (Podul Efemeridelor).", "Are un important muzeu al aviației."], "en": ["Known for the Tiszavirág Bridge (Mayfly Bridge).", "Has a significant aviation museum."]},
-    image: "",
+    image: "geo-images/hungary/matra.webp",
   },
   {
     id: "jaszbereny",
@@ -631,7 +631,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Jászberény", "hu": "Jászberény", "ro": "Jászberény", "en": "Jászberény"},
     description: {"de": "Das kulturelle und wirtschaftliche Zentrum der Region Jászság.", "hu": "A Jászság kulturális és gazdasági központja.", "ro": "Centrul cultural și economic al regiunii Jászság.", "en": "The cultural and economic center of the Jászság region."},
     facts: {"de": ["Bewahrt das Horn des Lehel, ein nationales Relikt.", "Veranstaltet jährlich das Jász-Festival."], "hu": ["Itt őrzik Lehel kürtjét, egy nemzeti ereklyét.", "Évente megrendezik a Jász Világtalálkozót."], "ro": ["Păstrează Cornul lui Lehel, o relicvă națională.", "Găzduiește anual Festivalul Jász."], "en": ["Preserves the Horn of Lehel, a national relic.", "Hosts the annual Jász Festival."]},
-    image: "",
+    image: "geo-images/hungary/jaszbereny.webp",
   },
   {
     id: "kisujszallas",
@@ -641,7 +641,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kisújszállás", "hu": "Kisújszállás", "ro": "Kisújszállás", "en": "Kisújszállás"},
     description: {"de": "Stadt in der Region Nagykunság mit landwirtschaftlicher Prägung.", "hu": "Nagykunsági város mezőgazdasági jelleggel.", "ro": "Oraș în regiunea Nagykunság cu caracter agricol.", "en": "City in the Nagykunság region with an agricultural character."},
     facts: {"de": ["Bekannt für sein Thermalbad.", "Geburtsort des Biologen István Györffy."], "hu": ["Termálfürdőjéről ismert.", "Györffy István biológus szülővárosa."], "ro": ["Cunoscut pentru baia sa termală.", "Locul de naștere al biologului István Györffy."], "en": ["Known for its thermal bath.", "Birthplace of biologist István Györffy."]},
-    image: "",
+    image: "geo-images/hungary/kisujszallas.webp",
   },
   {
     id: "tatabanya",
@@ -651,7 +651,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Totiserkolonie", "hu": "Tatabánya", "ro": "Tatabánya", "en": "Tatabánya"},
     description: {"de": "Ehemalige Bergbaustadt, heute ein modernes Industriezentrum.", "hu": "Egykori bányászváros, ma modern ipari központ.", "ro": "Fost oraș minier, astăzi un centru industrial modern.", "en": "Former mining town, today a modern industrial center."},
     facts: {"de": ["Überragt vom Turul-Denkmal, dem größten Vogeldenkmal Europas.", "Entstand 1947 durch den Zusammenschluss von vier Dörfern."], "hu": ["A Turul-emlékmű, Európa legnagyobb madárszobra magasodik fölé.", "1947-ben jött létre négy falu egyesítésével."], "ro": ["Dominat de Monumentul Turul, cel mai mare monument al unei păsări din Europa.", "Format în 1947 prin unirea a patru sate."], "en": ["Overlooked by the Turul Monument, Europe's largest bird monument.", "Formed in 1947 by the merger of four villages."]},
-    image: "",
+    image: "geo-images/hungary/tatabanya.webp",
   },
   {
     id: "esztergom",
@@ -661,7 +661,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Gran", "hu": "Esztergom", "ro": "Esztergom", "en": "Esztergom"},
     description: {"de": "Historische Stadt an der Donau, das Zentrum der katholischen Kirche in Ungarn.", "hu": "Történelmi város a Dunakanyarban, a magyar katolikus egyház központja.", "ro": "Oraș istoric pe Dunăre, centrul Bisericii Catolice din Ungaria.", "en": "Historic city on the Danube, the center of the Catholic Church in Hungary."},
     facts: {"de": ["Die Basilika von Esztergom ist die größte Kirche Ungarns.", "Geburtsort des ersten ungarischen Königs, Stephan I."], "hu": ["Az esztergomi bazilika Magyarország legnagyobb temploma.", "Az első magyar király, I. István szülőhelye."], "ro": ["Bazilica din Esztergom este cea mai mare biserică din Ungaria.", "Locul de naștere al primului rege maghiar, Ștefan I."], "en": ["The Esztergom Basilica is the largest church in Hungary.", "Birthplace of the first Hungarian king, Stephen I."]},
-    image: "",
+    image: "geo-images/hungary/esztergom.webp",
   },
   {
     id: "tata",
@@ -671,7 +671,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Totis", "hu": "Tata", "ro": "Tata", "en": "Tata"},
     description: {"de": "Die 'Stadt der Gewässer', bekannt für ihre Lakes und die Burg.", "hu": "A 'Vizek városa', tavairól és váráról ismert.", "ro": "'Orașul apelor', cunoscut pentru lacurile și castelul său.", "en": "The 'City of Waters', known for its lakes and castle."},
     facts: {"de": ["Die Burg Tata liegt malerisch am Ufer des Öreg-Sees.", "Beliebter Ort für Vogelbeobachtungen."], "hu": ["A tatai vár festői környezetben, az Öreg-tó partján fekszik.", "Népszerű madármegfigyelő hely."], "ro": ["Castelul Tata este situat pitoresc pe malul Lacului Öreg.", "Loc popular pentru observarea păsărilor."], "en": ["Tata Castle is picturesquely situated on the shores of Lake Öreg.", "Popular spot for bird watching."]},
-    image: "",
+    image: "geo-images/hungary/tata.webp",
   },
   {
     id: "salgotarjan",
@@ -681,7 +681,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Salgótarján", "hu": "Salgótarján", "ro": "Salgótarján", "en": "Salgótarján"},
     description: {"de": "Stadt in einem Tal umgeben von Bergen, ehemalige Bergbaustadt.", "hu": "Hegyekkel körülvett völgyben fekvő város, egykori bányászváros.", "ro": "Oraș într-o vale înconjurată de munți, fost oraș minier.", "en": "City in a valley surrounded by mountains, former mining town."},
     facts: {"de": ["In der Nähe befinden sich die Burgruinen Salgó und Somoskő.", "Hat ein unterirdisches Bergbaumuseum."], "hu": ["A közelben található Salgó és Somoskő vára.", "Földalatti bányamúzeummal rendelkezik."], "ro": ["În apropiere se află ruinele castelelor Salgó și Somoskő.", "Are un muzeu minier subteran."], "en": ["Nearby are the castle ruins of Salgó and Somoskő.", "Has an underground mining museum."]},
-    image: "",
+    image: "geo-images/hungary/salgotarjan.webp",
   },
   {
     id: "balassagyarmat",
@@ -691,7 +691,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Jahrmarkt", "hu": "Balassagyarmat", "ro": "Balassagyarmat", "en": "Balassagyarmat"},
     description: {"de": "Grenzstadt zur Slowakei, bekannt als die 'mutigste Stadt'.", "hu": "Határváros Szlovákiával, a 'Legbátrabb város' néven ismert.", "ro": "Oraș de graniță cu Slovacia, cunoscut ca 'cel mai curajos oraș'.", "en": "Border town with Slovakia, known as the 'Bravest City'."},
     facts: {"de": ["Wehrte 1919 tschechoslowakische Truppen ab.", "Ehemaliger Sitz des Komitats Nógrád."], "hu": ["1919-ben visszaverte a csehszlovák csapatokat.", "Nógrád vármegye egykori székhelye."], "ro": ["A respins trupele cehoslovace în 1919.", "Fostul sediu al comitatului Nógrád."], "en": ["Repelled Czechoslovak troops in 1919.", "Former seat of Nógrád county."]},
-    image: "",
+    image: "geo-images/hungary/balassagyarmat.webp",
   },
   {
     id: "holloko",
@@ -701,7 +701,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Hollókő", "hu": "Hollókő", "ro": "Hollókő", "en": "Hollókő"},
     description: {"de": "Ein traditionelles Paloczen-Dorf, das als lebendiges Museum erhalten ist.", "hu": "Hagyományos palóc falu, amelyet élő múzeumként őriztek meg.", "ro": "Un sat tradițional Palóc, conservat ca un muzeu viu.", "en": "A traditional Palóc village preserved as a living museum."},
     facts: {"de": ["Das erste Dorf weltweit, das UNESCO-Welterbe wurde.", "Überragt von einer Burgruine aus dem 13. Jahrhundert."], "hu": ["A világ első faluja, amely UNESCO világörökség lett.", "Egy 13. századi várrom magasodik fölé."], "ro": ["Primul sat din lume care a devenit Patrimoniu Mondial UNESCO.", "Dominat de ruinele unui castel din secolul al XIII-lea."], "en": ["The first village in the world to become a UNESCO World Heritage site.", "Overlooked by a 13th-century castle ruin."]},
-    image: "",
+    image: "geo-images/hungary/holloko.webp",
   },
   {
     id: "szentendre",
@@ -711,7 +711,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Sankt Andrä", "hu": "Szentendre", "ro": "Szentendre", "en": "Szentendre"},
     description: {"de": "Malerische Künstlerstadt an der Donau, nördlich von Budapest.", "hu": "Festői művészváros a Duna partján, Budapesttől északra.", "ro": "Oraș pitoresc al artiștilor pe Dunăre, la nord de Budapesta.", "en": "Picturesque artists' town on the Danube, north of Budapest."},
     facts: {"de": ["Bekannt für seine Museen, Galerien und serbische Architektur.", "Beherbergt das Freilichtmuseum Skanzen."], "hu": ["Múzeumairól, galériáiról és szerb építészetéről ismert.", "Itt található a Skanzen Szabadtéri Néprajzi Múzeum."], "ro": ["Cunoscut pentru muzeele, galeriile și arhitectura sa sârbă.", "Găzduiește Muzeul în Aer Liber Skanzen."], "en": ["Known for its museums, galleries, and Serbian architecture.", "Houses the Skanzen Open-Air Museum."]},
-    image: "",
+    image: "geo-images/hungary/szentendre.webp",
   },
   {
     id: "godollo",
@@ -721,7 +721,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Gödöllő", "hu": "Gödöllő", "ro": "Gödöllő", "en": "Gödöllő"},
     description: {"de": "Stadt nahe Budapest, berühmt für ihr königliches Schloss.", "hu": "Budapest közeli város, híres királyi kastélyáról.", "ro": "Oraș lângă Budapesta, faimos pentru palatul său regal.", "en": "City near Budapest, famous for its royal palace."},
     facts: {"de": ["Das Schloss Gödöllő war die Sommerresidenz von Kaiserin Sisi.", "Sitz der Szent-István-Universität."], "hu": ["A Gödöllői Királyi Kastély Sisi császárné nyári rezidenciája volt.", "A Szent István Egyetem székhelye."], "ro": ["Palatul Gödöllő a fost reședința de vară a Împărătesei Sisi.", "Sediul Universității Szent István."], "en": ["The Royal Palace of Gödöllő was the summer residence of Empress Sisi.", "Seat of Szent István University."]},
-    image: "",
+    image: "geo-images/hungary/godollo.webp",
   },
   {
     id: "vac",
@@ -731,7 +731,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Waitzen", "hu": "Vác", "ro": "Vác", "en": "Vác"},
     description: {"de": "Historische Stadt am Donauknie mit barocker Architektur.", "hu": "Történelmi város a Dunakanyarban, barokk építészettel.", "ro": "Oraș istoric la Cotul Dunării cu arhitectură barocă.", "en": "Historic city at the Danube Bend with Baroque architecture."},
     facts: {"de": ["Hat den einzigen Triumphbogen Ungarns.", "Sitz eines katholischen Bistums."], "hu": ["Itt található Magyarország egyetlen diadalíve.", "Katolikus püspöki székhely."], "ro": ["Are singurul arc de triumf din Ungaria.", "Sediul unei episcopii catolice."], "en": ["Has the only triumphal arch in Hungary.", "Seat of a Catholic bishopric."]},
-    image: "",
+    image: "geo-images/hungary/vac.webp",
   },
   {
     id: "visegrad",
@@ -741,7 +741,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Plintenburg", "hu": "Visegrád", "ro": "Visegrád", "en": "Visegrád"},
     description: {"de": "Kleine Stadt am Donauknie, berühmt für ihre mittelalterliche Zitadelle.", "hu": "Kisváros a Dunakanyarban, híres középkori fellegváráról.", "ro": "Mic oraș la Cotul Dunării, faimos pentru cetatea sa medievală.", "en": "Small town at the Danube Bend, famous for its medieval citadel."},
     facts: {"de": ["Ehemalige königliche Residenz.", "Namensgeber der Visegrád-Gruppe (V4)."], "hu": ["Egykori királyi székhely.", "A Visegrádi Együttműködés (V4) névadója."], "ro": ["Fostă reședință regală.", "A dat numele Grupului de la Visegrád (V4)."], "en": ["Former royal residence.", "Namesake of the Visegrád Group (V4)."]},
-    image: "",
+    image: "geo-images/hungary/visegrad.webp",
   },
   {
     id: "kaposvar",
@@ -751,7 +751,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kopisch", "hu": "Kaposvár", "ro": "Kaposvár", "en": "Kaposvár"},
     description: {"de": "Stadt der Blumen und Maler im Südwesten Ungarns.", "hu": "A virágok és festők városa Délnyugat-Magyarországon.", "ro": "Orașul florilor și al pictorilor în sud-vestul Ungariei.", "en": "City of flowers and painters in southwestern Hungary."},
     facts: {"de": ["Geburtsort des Malers József Rippl-Rónai.", "Hat eine Universität und ein lebendiges Kulturleben."], "hu": ["Rippl-Rónai József festőművész szülővárosa.", "Egyetemmel és élénk kulturális élettel rendelkezik."], "ro": ["Locul de naștere al pictorului József Rippl-Rónai.", "Are o universitate și o viață culturală vibrantă."], "en": ["Birthplace of painter József Rippl-Rónai.", "Has a university and a vibrant cultural life."]},
-    image: "",
+    image: "geo-images/hungary/kaposvar.webp",
   },
   {
     id: "siofok",
@@ -761,7 +761,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Siófok", "hu": "Siófok", "ro": "Siófok", "en": "Siófok"},
     description: {"de": "Die 'Hauptstadt des Plattensees', bekannt für ihr reges Nachtleben und Strände.", "hu": "A 'Balaton fővárosa', pezsgő éjszakai életéről és strandjairól ismert.", "ro": "'Capitala Lacului Balaton', cunoscută pentru viața de noapte vibrantă și plaje.", "en": "The 'Capital of Lake Balaton', known for its vibrant nightlife and beaches."},
     facts: {"de": ["Geburtsort des Komponisten Emmerich Kálmán.", "Wahrzeichen ist der Wasserturm im Zentrum."], "hu": ["Kálmán Imre zeneszerző szülővárosa.", "Jelképe a központban álló Víztorony."], "ro": ["Locul de naștere al compozitorului Emmerich Kálmán.", "Simbolul său este Turnul de Apă din centru."], "en": ["Birthplace of composer Emmerich Kálmán.", "Its landmark is the Water Tower in the center."]},
-    image: "",
+    image: "geo-images/hungary/siofok.webp",
   },
   {
     id: "balatonfoldvar",
@@ -771,7 +771,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Balatonföldvár", "hu": "Balatonföldvár", "ro": "Balatonföldvár", "en": "Balatonföldvár"},
     description: {"de": "Beliebter Ferienort am Südufer des Plattensees.", "hu": "Népszerű üdülőhely a Balaton déli partján.", "ro": "Stațiune populară pe malul sudic al Lacului Balaton.", "en": "Popular resort town on the southern shore of Lake Balaton."},
     facts: {"de": ["Bekannt für seinen großen Yachthafen.", "Hat eine schöne platanengesäumte Promenade."], "hu": ["Nagy vitorláskikötőjéről ismert.", "Gyönyörű platánsoros sétánya van."], "ro": ["Cunoscut pentru portul său mare de iahturi.", "Are o frumoasă promenadă mărginită de platani."], "en": ["Known for its large marina.", "Has a beautiful plane tree-lined promenade."]},
-    image: "",
+    image: "geo-images/hungary/balatonfoldvar.webp",
   },
   {
     id: "nyiregyhaza",
@@ -781,7 +781,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Nyíregyháza", "hu": "Nyíregyháza", "ro": "Nyíregyháza", "en": "Nyíregyháza"},
     description: {"de": "Die siebtgrößte Stadt Ungarns, das Zentrum der Region Nyírség.", "hu": "Magyarország hetedik legnagyobb városa, a Nyírség központja.", "ro": "Al șaptelea oraș ca mărime din Ungaria, centrul regiunii Nyírség.", "en": "The seventh largest city in Hungary, the center of the Nyírség region."},
     facts: {"de": ["Bekannt für den Tierpark Sóstó, einen der besten in Europa.", "Hat ein beliebtes Thermalbad."], "hu": ["A Sóstó Zoo-ról ismert, amely Európa egyik legjobb állatkertje.", "Népszerű termálfürdővel rendelkezik."], "ro": ["Cunoscut pentru Grădina Zoologică Sóstó, una dintre cele mai bune din Europa.", "Are o baie termală populară."], "en": ["Known for the Sóstó Zoo, one of the best in Europe.", "Has a popular thermal bath."]},
-    image: "",
+    image: "geo-images/hungary/nyiregyhaza.webp",
   },
   {
     id: "mateszalka",
@@ -791,7 +791,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Mátészalka", "hu": "Mátészalka", "ro": "Mátészalka", "en": "Mátészalka"},
     description: {"de": "Stadt im Osten Ungarns, bekannt als die 'Stadt des Lichts'.", "hu": "Kelet-magyarországi város, a 'Fény városa' néven ismert.", "ro": "Oraș în estul Ungariei, cunoscut ca 'Orașul Luminii'.", "en": "City in eastern Hungary, known as the 'City of Light'."},
     facts: {"de": ["Hier wurde 1888 die erste elektrische Straßenbeleuchtung Ungarns installiert.", "Wichtiges Zentrum der Region Szatmár."], "hu": ["Itt telepítették Magyarország első elektromos közvilágítását 1888-ban.", "A Szatmár régió fontos központja."], "ro": ["Aici a fost instalat primul iluminat stradal electric din Ungaria în 1888.", "Centru important al regiunii Szatmár."], "en": ["The first electric street lighting in Hungary was installed here in 1888.", "Important center of the Szatmár region."]},
-    image: "",
+    image: "geo-images/hungary/mateszalka.webp",
   },
   {
     id: "vasarosnameny",
@@ -801,7 +801,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Vásárosnamény", "hu": "Vásárosnamény", "ro": "Vásárosnamény", "en": "Vásárosnamény"},
     description: {"de": "Das 'Herz von Bereg', eine Stadt an der Theiß.", "hu": "A 'Bereg szíve', város a Tisza partján.", "ro": "'Inima Beregului', un oraș pe râul Tisa.", "en": "The 'Heart of Bereg', a city on the Tisza river."},
     facts: {"de": ["Beliebtes Ziel für Wassertourismus.", "Hat ein Thermalbad und einen Aquapark."], "hu": ["A víziturisztika népszerű célpontja.", "Termálfürdővel és aquaparkkal rendelkezik."], "ro": ["Destinație populară pentru turismul nautic.", "Are o baie termală și un aquaparc."], "en": ["Popular destination for water tourism.", "Has a thermal bath and an aquapark."]},
-    image: "",
+    image: "geo-images/hungary/vasarosnameny.webp",
   },
   {
     id: "szekszard",
@@ -811,7 +811,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Sechshard", "hu": "Szekszárd", "ro": "Szekszárd", "en": "Szekszárd"},
     description: {"de": "Die kleinste Komitatshauptstadt Ungarns, berühmt für ihre Rotweine.", "hu": "Magyarország legkisebb megyeszékhelye, vörösborairól híres.", "ro": "Cea mai mică reședință de județ din Ungaria, faimoasă pentru vinurile sale roșii.", "en": "The smallest county capital in Hungary, famous for its red wines."},
     facts: {"de": ["Zentrum der Weinregion Szekszárd.", "Geburtsort des Dichters Mihály Babits."], "hu": ["A Szekszárdi borvidék központja.", "Babits Mihály költő szülővárosa."], "ro": ["Centrul regiunii viticole Szekszárd.", "Locul de naștere al poetului Mihály Babits."], "en": ["Center of the Szekszárd wine region.", "Birthplace of poet Mihály Babits."]},
-    image: "",
+    image: "geo-images/hungary/szekszard.webp",
   },
   {
     id: "paks",
@@ -821,7 +821,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Paks", "hu": "Paks", "ro": "Paks", "en": "Paks"},
     description: {"de": "Stadt an der Donau, bekannt für das einzige Kernkraftwerk Ungarns.", "hu": "Duna-parti város, Magyarország egyetlen atomerőművéről ismert.", "ro": "Oraș pe Dunăre, cunoscut pentru singura centrală nucleară din Ungaria.", "en": "City on the Danube, known for Hungary's only nuclear power plant."},
     facts: {"de": ["Das Kernkraftwerk Paks liefert etwa die Hälfte des ungarischen Stroms.", "Hat eine lange Tradition in der Fischerei."], "hu": ["A Paksi Atomerőmű adja a magyar áramtermelés mintegy felét.", "Nagy hagyománya van a halászatnak."], "ro": ["Centrala nucleară Paks furnizează aproximativ jumătate din energia electrică a Ungariei.", "Are o lungă tradiție în pescuit."], "en": ["The Paks Nuclear Power Plant provides about half of Hungary's electricity.", "Has a long tradition of fishing."]},
-    image: "",
+    image: "geo-images/hungary/paks.webp",
   },
   {
     id: "bonyhad",
@@ -831,7 +831,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Bonnhard", "hu": "Bonyhád", "ro": "Bonyhád", "en": "Bonyhád"},
     description: {"de": "Das Zentrum der Region Völgység, bekannt für seine Emaillefabrik.", "hu": "A Völgység központja, zománcgyáráról ismert.", "ro": "Centrul regiunii Völgység, cunoscut pentru fabrica sa de email.", "en": "The center of the Völgység region, known for its enamel factory."},
     facts: {"de": ["Historisch ein Zentrum der Ungarndeutschen.", "Bekannt für die Bonyháder Schuhe."], "hu": ["Történelmileg a magyarországi németek egyik központja.", "A bonyhádi cipőkről is ismert."], "ro": ["Istoric un centru al germanilor din Ungaria.", "Cunoscut pentru pantofii Bonyhád."], "en": ["Historically a center of the Hungarian Germans.", "Known for Bonyhád shoes."]},
-    image: "",
+    image: "geo-images/hungary/bonyhad.webp",
   },
   {
     id: "szombathely",
@@ -841,7 +841,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Steinamanger", "hu": "Szombathely", "ro": "Szombathely", "en": "Szombathely"},
     description: {"de": "Die älteste Stadt Ungarns, gegründet von den Römern als Savaria.", "hu": "Magyarország legrégebbi városa, a rómaiak alapították Savaria néven.", "ro": "Cel mai vechi oraș din Ungaria, fondat de romani sub numele de Savaria.", "en": "The oldest city in Hungary, founded by the Romans as Savaria."},
     facts: {"de": ["Geburtsort des Heiligen Martin von Tours.", "Veranstaltet jährlich den Savaria Historischen Karneval."], "hu": ["Tours-i Szent Márton szülőhelye.", "Évente megrendezik a Savaria Történelmi Karnevált."], "ro": ["Locul de naștere al Sfântului Martin de Tours.", "Găzduiește anual Carnavalul Istoric Savaria."], "en": ["Birthplace of Saint Martin of Tours.", "Hosts the annual Savaria Historical Carnival."]},
-    image: "",
+    image: "geo-images/hungary/szombathely.webp",
   },
   {
     id: "koszeg",
@@ -851,7 +851,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Güns", "hu": "Kőszeg", "ro": "Kőszeg", "en": "Kőszeg"},
     description: {"de": "Historische Stadt an der österreichischen Grenze, bekannt für ihre Burg.", "hu": "Történelmi város az osztrák határon, váráról ismert.", "ro": "Oraș istoric la granița cu Austria, cunoscut pentru castelul său.", "en": "Historic city on the Austrian border, known for its castle."},
     facts: {"de": ["Die Burg Jurisics hielt 1532 einer osmanischen Belagerung stand.", "Hat einen der schönsten mittelalterlichen Hauptplätze Ungarns."], "hu": ["A Jurisics-vár 1532-ben ellenállt az oszmán ostromnak.", "Magyarország egyik legszebb középkori főterével rendelkezik."], "ro": ["Castelul Jurisics a rezistat unui asediu otoman în 1532.", "Are una dintre cele mai frumoase piețe principale medievale din Ungaria."], "en": ["Jurisics Castle withstood an Ottoman siege in 1532.", "Has one of the most beautiful medieval main squares in Hungary."]},
-    image: "",
+    image: "geo-images/hungary/koszeg.webp",
   },
   {
     id: "sarvar",
@@ -861,7 +861,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kotenburg", "hu": "Sárvár", "ro": "Sárvár", "en": "Sárvár"},
     description: {"de": "Beliebter Kurort mit einem berühmten Thermalbad und einer Renaissanceburg.", "hu": "Népszerű fürdőváros híres termálfürdővel és reneszánsz várral.", "ro": "Stațiune balneară populară cu o faimoasă baie termală și un castel renascentist.", "en": "Popular spa town with a famous thermal bath and a Renaissance castle."},
     facts: {"de": ["Die Burg Nádasdy ist ein wichtiges historisches Denkmal.", "Das Heilwasser ist hervorragend für rheumatische Beschwerden."], "hu": ["A Nádasdy-vár fontos történelmi műemlék.", "Gyógyvize kiváló reumatikus panaszokra."], "ro": ["Castelul Nádasdy este un important monument istoric.", "Apa termală este excelentă pentru afecțiuni reumatice."], "en": ["Nádasdy Castle is an important historical monument.", "The healing water is excellent for rheumatic complaints."]},
-    image: "",
+    image: "geo-images/hungary/sarvar.webp",
   },
   {
     id: "veszprem-city",
@@ -871,7 +871,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Wesprim", "hu": "Veszprém", "ro": "Veszprém", "en": "Veszprém"},
     description: {"de": "Die 'Stadt der Königinnen', erbaut auf sieben Hügeln.", "hu": "A 'Királynék városa', hét dombra épült.", "ro": "'Orașul Reginelor', construit pe șapte coline.", "en": "The 'City of Queens', built on seven hills."},
     facts: {"de": ["Kulturhauptstadt Europas 2023.", "Hat eine gut erhaltene Burgviertel."], "hu": ["Európa Kulturális Fővárosa 2023-ban.", "Jól megőrzött várnegyeddel rendelkezik."], "ro": ["Capitală Europeană a Culturii în 2023.", "Are un cartier al castelului bine conservat."], "en": ["European Capital of Culture in 2023.", "Has a well-preserved castle district."]},
-    image: "",
+    image: "geo-images/hungary/veszprem-city.webp",
   },
   {
     id: "balatonfured",
@@ -881,7 +881,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Balatonfüred", "hu": "Balatonfüred", "ro": "Balatonfüred", "en": "Balatonfüred"},
     description: {"de": "Der älteste Kurort am Plattensee, bekannt für seine Heilquellen.", "hu": "A Balaton legrégebbi üdülőhelye, gyógyforrásairól ismert.", "ro": "Cea mai veche stațiune de pe Lacul Balaton, cunoscută pentru izvoarele sale vindecătoare.", "en": "The oldest resort on Lake Balaton, known for its healing springs."},
     facts: {"de": ["Zentrum des Segelsports am Plattensee.", "Veranstaltet jährlich den Anna-Ball."], "hu": ["A balatoni vitorlázás központja.", "Évente megrendezik az Anna-bált."], "ro": ["Centrul navigației pe Lacul Balaton.", "Găzduiește anual Balul Anna."], "en": ["Center of sailing on Lake Balaton.", "Hosts the annual Anna Ball."]},
-    image: "",
+    image: "geo-images/hungary/balatonfured.webp",
   },
   {
     id: "tihany",
@@ -891,7 +891,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Tihany", "hu": "Tihany", "ro": "Tihany", "en": "Tihany"},
     description: {"de": "Halbinsel im Plattensee, berühmt für ihre Benediktinerabtei und Lavendelfelder.", "hu": "Félsziget a Balatonban, híres bencés apátságáról és levendulamezőiről.", "ro": "Peninsulă în Lacul Balaton, faimoasă pentru abația benedictină și câmpurile de lavandă.", "en": "Peninsula in Lake Balaton, famous for its Benedictine abbey and lavender fields."},
     facts: {"de": ["Die Gründungsurkunde der Abtei (1055) enthält die ältesten ungarischen Wörter.", "Bietet einen atemberaubenden Blick auf den See."], "hu": ["Az apátság alapítólevele (1055) tartalmazza a legrégebbi magyar szavakat.", "Lélegzetelállító kilátást nyújt a tóra."], "ro": ["Actul de fondare al abației (1055) conține cele mai vechi cuvinte maghiare.", "Oferă o vedere uluitoare asupra lacului."], "en": ["The abbey's founding charter (1055) contains the oldest Hungarian words.", "Offers a breathtaking view of the lake."]},
-    image: "",
+    image: "geo-images/hungary/tihany.webp",
   },
   {
     id: "zalaegerszeg",
@@ -901,7 +901,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Egersee", "hu": "Zalaegerszeg", "ro": "Zalaegerszeg", "en": "Zalaegerszeg"},
     description: {"de": "Stadt im Westen Ungarns, umgeben von Wäldern und Hügeln.", "hu": "Nyugat-magyarországi város, erdőkkel és dombokkal övezve.", "ro": "Oraș în vestul Ungariei, înconjurat de păduri și dealuri.", "en": "City in western Hungary, surrounded by forests and hills."},
     facts: {"de": ["Hat ein großes Freilichtmuseum (Skanzen).", "Zentrum der ungarischen Ölindustrie in der Vergangenheit."], "hu": ["Nagy szabadtéri néprajzi múzeummal (Skanzen) rendelkezik.", "A múltban a magyar olajipar központja volt."], "ro": ["Are un mare muzeu în aer liber (Skanzen).", "Centrul industriei petroliere maghiare în trecut."], "en": ["Has a large open-air museum (Skanzen).", "Center of the Hungarian oil industry in the past."]},
-    image: "",
+    image: "geo-images/hungary/zalaegerszeg.webp",
   },
   {
     id: "nagykanizsa",
@@ -911,7 +911,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Großkirchen", "hu": "Nagykanizsa", "ro": "Nagykanizsa", "en": "Nagykanizsa"},
     description: {"de": "Wichtiger Verkehrsknotenpunkt im Südwesten Ungarns.", "hu": "Fontos közlekedési csomópont Délnyugat-Magyarországon.", "ro": "Important nod de transport în sud-vestul Ungariei.", "en": "Important transport hub in southwestern Hungary."},
     facts: {"de": ["War historisch eine wichtige Festungsstadt.", "Bekannt für ihre Parks und Grünflächen."], "hu": ["Történelmileg fontos végvár volt.", "Parkjairól és zöldövezeteiről ismert."], "ro": ["A fost istoric un important oraș fortăreață.", "Cunoscut pentru parcurile și spațiile sale verzi."], "en": ["Was historically an important fortress town.", "Known for its parks and green spaces."]},
-    image: "",
+    image: "geo-images/hungary/nagykanizsa.webp",
   },
   {
     id: "keszthely",
@@ -921,7 +921,7 @@ export const hungaryCities: POI[] = [
     name: {"de": "Kesthell", "hu": "Keszthely", "ro": "Keszthely", "en": "Keszthely"},
     description: {"de": "Die größte Stadt am Plattensee, bekannt für das Schloss Festetics.", "hu": "A Balaton legnagyobb városa, a Festetics-kastélyról ismert.", "ro": "Cel mai mare oraș de pe Lacul Balaton, cunoscut pentru Castelul Festetics.", "en": "The largest city on Lake Balaton, known for the Festetics Palace."},
     facts: {"de": ["Das Schloss Festetics ist eines der größten in Ungarn.", "Heimat des Georgikon, der ersten landwirtschaftlichen Hochschule Europas."], "hu": ["A Festetics-kastély az egyik legnagyobb Magyarországon.", "A Georgikon, Európa első mezőgazdasági főiskolájának otthona."], "ro": ["Castelul Festetics este unul dintre cele mai mari din Ungaria.", "Casa Georgikon, primul colegiu agricol din Europa."], "en": ["The Festetics Palace is one of the largest in Hungary.", "Home to the Georgikon, Europe's first agricultural college."]},
-    image: "",
+    image: "geo-images/hungary/keszthely.webp",
   },
 ];
 

@@ -1,5 +1,23 @@
 export const magyarorszagViewBox = "0 0 600 400";
 
+export const HUNGARY_PROJECTION = {
+  minLon: 16.11,
+  maxLon: 22.90,
+  minLat: 45.74,
+  maxLat: 48.58,
+  latStretch: 0.68,
+  scale: 130,
+  offX: 0,
+  offY: 0,
+};
+
+export function projectCoordsHU(lon: number, lat: number): [number, number] {
+  const p = HUNGARY_PROJECTION;
+  const x = p.offX + (lon - p.minLon) * p.latStretch * p.scale;
+  const y = p.offY + (p.maxLat - lat) * p.scale;
+  return [Math.round(x * 100) / 100, Math.round(y * 100) / 100];
+}
+
 export const magyarorszagMap = [
   { id: "HU-BU", name: "Budapest", path: "M 245,155 L 255,155 L 255,165 L 245,165 Z" },
   { id: "HU-PE", name: "Pest", path: "M 220,100 L 280,100 L 320,200 L 260,250 L 200,200 Z" },

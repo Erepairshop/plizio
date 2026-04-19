@@ -3,10 +3,13 @@
 
 import { deutschlandMap, deutschlandViewBox, projectCoords as projectCoordsDE, type BundeslandPath } from "./deutschland.svg";
 import { romaniaMap, romaniaViewBox, projectCoordsRO } from "./romania.svg";
+import { magyarorszagMap, magyarorszagViewBox, projectCoordsHU } from "./magyarorszag.svg";
 import { bundeslandSubregions } from "./bundeslandSubregions";
 import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
+import { hungarySubregions } from "./hungarySubregions";
 import { pois as deutschlandPois } from "../data/poi";
 import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
+import { hungaryAllPoi } from "../data/hungaryPoi";
 import type { POI } from "../data/poi";
 
 export type Lang = "de" | "hu" | "ro" | "en";
@@ -18,7 +21,7 @@ export interface CountryMapData {
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
   pois: POI[];
-  subregions: Record<string, any>; // structurally compatible with bundeslandSubregions
+  subregions: Record<string, any> | any[]; // structurally compatible with bundeslandSubregions
 }
 
 export function getCountryMap(lang: Lang): CountryMapData {
@@ -32,8 +35,16 @@ export function getCountryMap(lang: Lang): CountryMapData {
         pois: romaniaAllPois,
         subregions: romaniaJudetSubregions,
       };
-    case "de":
     case "hu":
+      return {
+        countryId: "HU",
+        map: magyarorszagMap as unknown as BundeslandPath[],
+        viewBox: magyarorszagViewBox,
+        projectCoords: projectCoordsHU,
+        pois: hungaryAllPoi,
+        subregions: hungarySubregions,
+      };
+    case "de":
     case "en":
     default:
       return {
