@@ -69,7 +69,7 @@ const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
 /* Types                                                               */
 /* ------------------------------------------------------------------ */
 
-export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik" | "kemia" | "biologie";
+export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik" | "kemia" | "biologie" | "english" | "magyar" | "romana";
 export type Lang = "de" | "hu" | "ro" | "en";
 
 export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline" | "campaign";
@@ -237,6 +237,27 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
     { id: "grusel-builder", type: "puzzle", labelKey: "gruselBuilder", available: true },
     { id: "grusel-bild", type: "puzzle", labelKey: "gruselBild", available: true },
+  ],
+  english: [
+    { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
+    { id: "wort-waechter", type: "spotter", labelKey: "wortWaechter", available: true },
+    { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
+    { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
+    { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
+  ],
+  magyar: [
+    { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
+    { id: "wort-waechter", type: "spotter", labelKey: "wortWaechter", available: true },
+    { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
+    { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
+    { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
+  ],
+  romana: [
+    { id: "tipp-sturm", type: "spotter", labelKey: "tippSturm", available: true },
+    { id: "wort-waechter", type: "spotter", labelKey: "wortWaechter", available: true },
+    { id: "artikel-asteroids", type: "puzzle", labelKey: "artikelAsteroids", available: true },
+    { id: "satzbau-sniper", type: "spotter", labelKey: "satzbauSniper", available: true },
+    { id: "silben-slicer", type: "puzzle", labelKey: "silbenSlicer", available: true },
   ],
   informatika: [
     { id: "binary-bit-stream", type: "spotter", labelKey: "binaryBitStream", available: true },
@@ -565,7 +586,7 @@ function GameHost({
 
       {subject === "astromath" ? (
         <AstromathGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
-      ) : subject === "deutsch" ? (
+      ) : ["deutsch", "english", "magyar", "romana"].includes(subject) ? (
         <DeutschGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
       ) : subject === "informatika" ? (
         <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />

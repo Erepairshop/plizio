@@ -607,7 +607,7 @@ export default function AstroEnglishK1Page() {
           </div>
         </div>
         <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="deutsch" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+        <VisualLab subject="english" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }
