@@ -23,6 +23,10 @@ const COMING_SOON: Record<Lang, string> = {
   hu: "Hamarosan",
   ro: "În curând",
   en: "Coming soon",
+  fr: "Bientôt disponible",
+  it: "Prossimamente",
+  es: "Próximamente",
+  gb: "Coming soon",
 };
 
 const MIN_SCALE = 1;
@@ -146,7 +150,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
       router.push(bind);
     } else {
       setToast({
-        title: country.names[lang] || country.names.en,
+        title: country.names[lang as keyof typeof country.names] || country.names.en,
         info: COMING_SOON[lang] || COMING_SOON.en,
       });
       setTimeout(() => setToast(null), 2500);
@@ -233,7 +237,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
                 onMouseLeave={() => setHovered(null)}
                 onClick={() => handleCountryClick(country)}
               >
-                <title>{country.names[lang] || country.names.en}</title>
+                <title>{country.names[lang as keyof typeof country.names] || country.names.en}</title>
               </path>
             );
           })}
@@ -243,7 +247,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
             {europaMap.map((country) => {
               if (!country.capital || !country.capital.coords) return null;
               const [cx, cy] = country.capital.coords;
-              const countryLabel = country.names[lang] || country.names.en;
+              const countryLabel = country.names[lang as keyof typeof country.names] || country.names.en;
               const dotR = 4 / view.scale;
               const countryFont = 26 / view.scale;
               const capitalFont = 19 / view.scale;

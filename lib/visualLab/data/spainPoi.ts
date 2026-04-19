@@ -266,27 +266,27 @@ export const spainCities: POI[] = [
     description: {"de": "Kanarische Insel, bekannt für ihre vielfältigen Landschaften.", "hu": "Kanári-sziget, változatos tájairól ismert.", "ro": "Insula Canară, cunoscută pentru peisajele sale diverse.", "en": "Canary Island known for its diverse landscapes."}
   },
   {
-    id: "es-pyrenees", type: "nature", parent: "ES-AR", coords: [-0.0763, 42.6687],
+    id: "es-pyrenees", type: "landmark", parent: "ES-AR", coords: [-0.0763, 42.6687],
     name: {"de": "Pyrenäen", "hu": "Pireneusok", "ro": "Pirinei", "en": "Pyrenees"},
     description: {"de": "Die Bergkette, die die natürliche Grenze zwischen Spanien und Frankreich bildet.", "hu": "A Spanyolország és Franciaország közötti természetes határt alkotó hegység.", "ro": "Lanțul muntos care formează granița naturală dintre Spania și Franța.", "en": "The mountain range that forms the natural border between Spain and France."}
   },
   {
-    id: "es-sierra-nevada", type: "nature", parent: "ES-AN", coords: [-3.3000, 37.0500],
+    id: "es-sierra-nevada", type: "landmark", parent: "ES-AN", coords: [-3.3000, 37.0500],
     name: {"de": "Sierra Nevada", "hu": "Sierra Nevada", "ro": "Sierra Nevada", "en": "Sierra Nevada"},
     description: {"de": "Gebirgszug in Andalusien mit dem höchsten Gipfel des spanischen Festlands.", "hu": "Hegység Andalúziában, a kontinentális Spanyolország legmagasabb csúcsával.", "ro": "Lanț muntos din Andaluzia cu cel mai înalt vârf din Spania continentală.", "en": "Mountain range in Andalusia containing the highest point of continental Spain."}
   },
   {
-    id: "es-picos-europa", type: "nature", parent: "ES-AS", coords: [-4.8458, 43.1979],
+    id: "es-picos-europa", type: "landmark", parent: "ES-AS", coords: [-4.8458, 43.1979],
     name: {"de": "Picos de Europa", "hu": "Picos de Europa", "ro": "Picos de Europa", "en": "Picos de Europa"},
     description: {"de": "Ein markantes Bergmassiv an der Nordküste Spaniens.", "hu": "Jellegzetes hegymasszívum Spanyolország északi partján.", "ro": "Un masiv muntos uimitor pe coasta de nord a Spaniei.", "en": "A striking mountain massif on the northern coast of Spain."}
   },
   {
-    id: "es-costa-brava", type: "nature", parent: "ES-CT", coords: [3.1235, 41.9750],
+    id: "es-costa-brava", type: "landmark", parent: "ES-CT", coords: [3.1235, 41.9750],
     name: {"de": "Costa Brava", "hu": "Costa Brava", "ro": "Costa Brava", "en": "Costa Brava"},
     description: {"de": "Wilde Küstenregion im Nordosten von Katalonien.", "hu": "Vad tengerparti régió Katalónia északkeleti részén.", "ro": "Regiune de coastă sălbatică în nord-estul Cataloniei.", "en": "Wild coastal region in northeastern Catalonia."}
   },
   {
-    id: "es-costa-del-sol", type: "nature", parent: "ES-AN", coords: [-4.6318, 36.5360],
+    id: "es-costa-del-sol", type: "landmark", parent: "ES-AN", coords: [-4.6318, 36.5360],
     name: {"de": "Costa del Sol", "hu": "Costa del Sol", "ro": "Costa del Sol", "en": "Costa del Sol"},
     description: {"de": "Sonnenverwöhnte Küste in Südspanien, ein beliebtes Touristenziel.", "hu": "Napsütötte tengerpart Dél-Spanyolországban, népszerű turisztikai célpont.", "ro": "Coastă însorită din sudul Spaniei, o destinație turistică populară.", "en": "Sun-drenched coast in southern Spain, a popular tourist destination."}
   }
