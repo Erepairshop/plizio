@@ -770,11 +770,25 @@ function MathTestPageInner() {
       }
 
       // ─── Generate school test (all grades) ────────────────────────────────
-      const tasks = generateSchoolTest(
+      let tasks = generateSchoolTest(
         selectedGrade!,
         country?.code || 'DE',
         topicBlocks.length > 0 ? topicBlocks : undefined
       );
+
+      // Interleave: 1 text Aufgabe, 1 visual Aufgabe alternálva
+      const regularGroups = tasks.filter(t => !t.type.startsWith('visual_'));
+      const visualGroups = tasks.filter(t => t.type.startsWith('visual_'));
+      
+      if (regularGroups.length > 0 && visualGroups.length > 0) {
+        const interleaved: typeof tasks = [];
+        const maxLen = Math.max(regularGroups.length, visualGroups.length);
+        for (let i = 0; i < maxLen; i++) {
+          if (i < regularGroups.length) interleaved.push(regularGroups[i]);
+          if (i < visualGroups.length) interleaved.push(visualGroups[i]);
+        }
+        tasks = interleaved;
+      }
       // Dynamic timer: 40 min base + 3 min per extra block beyond 10
       const extraBlocks = Math.max(0, tasks.length - 10);
       const dynamicMaxTime = 40 * 60 + extraBlocks * 3 * 60;
