@@ -1,4 +1,5 @@
 'use client';
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
 
 interface Props {
   prompt: string;
@@ -9,6 +10,7 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  svgName?: string;
 }
 
 export default function ReaktionOderNicht({
@@ -20,6 +22,7 @@ export default function ReaktionOderNicht({
   userAnswer,
   submitted,
   onAnswer,
+  svgName,
 }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
@@ -35,9 +38,18 @@ export default function ReaktionOderNicht({
         <div className="rounded-2xl border border-slate-200 bg-slate-50 px-3 py-3 mb-2">
           <div className="flex items-center justify-between gap-3">
             <div className="text-sm font-semibold text-slate-700">{scenario}</div>
-            <div className="w-14 h-14 rounded-2xl bg-white border border-slate-200 flex items-center justify-center text-3xl shadow-sm">
-              {sceneEmoji}
-            </div>
+            {svgName && K7[svgName as keyof typeof K7] ? (
+              <div className="rounded-2xl bg-white border border-slate-200 flex items-center justify-center shadow-sm p-2 min-w-[100px]">
+                {(() => {
+                  const SvgComponent = K7[svgName as keyof typeof K7];
+                  return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
+                })()}
+              </div>
+            ) : (
+              <div className="w-14 h-14 rounded-2xl bg-white border border-slate-200 flex items-center justify-center text-3xl shadow-sm">
+                {sceneEmoji}
+              </div>
+            )}
           </div>
         </div>
 

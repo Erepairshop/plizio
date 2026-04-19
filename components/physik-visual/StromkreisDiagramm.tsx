@@ -1,4 +1,5 @@
 'use client';
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
 
 interface Props {
   prompt: string;
@@ -7,6 +8,7 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  svgName?: string;
 }
 
 export default function StromkreisDiagramm({
@@ -16,6 +18,7 @@ export default function StromkreisDiagramm({
   userAnswer,
   submitted,
   onAnswer,
+  svgName,
 }: Props) {
   const correctAnswer = diagrams[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
@@ -26,6 +29,17 @@ export default function StromkreisDiagramm({
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
         <span className="text-sm font-bold text-slate-800">{prompt}</span>
       </div>
+
+      {svgName && K7[svgName as keyof typeof K7] && (
+        <div className="pl-6 mb-4 flex justify-start">
+          <div className="rounded-2xl bg-white border border-slate-200 p-3 shadow-sm inline-flex">
+            {(() => {
+              const SvgComponent = K7[svgName as keyof typeof K7];
+              return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
+            })()}
+          </div>
+        </div>
+      )}
 
       <div className="pl-6 grid grid-cols-2 gap-2">
         {diagrams.map((diagram, idx) => {

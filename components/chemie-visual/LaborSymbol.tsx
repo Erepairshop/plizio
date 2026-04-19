@@ -1,4 +1,5 @@
 'use client';
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
 
 interface Props {
   prompt: string;
@@ -9,6 +10,7 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  svgName?: string;
 }
 
 export default function LaborSymbol({
@@ -20,6 +22,7 @@ export default function LaborSymbol({
   userAnswer,
   submitted,
   onAnswer,
+  svgName,
 }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
@@ -37,9 +40,18 @@ export default function LaborSymbol({
             Symbol
           </div>
           <div className="flex items-center gap-3">
-            <div className="w-16 h-16 rounded-2xl border border-rose-200 bg-rose-50 flex items-center justify-center text-4xl">
-              {symbol}
-            </div>
+            {svgName && K7[svgName as keyof typeof K7] ? (
+              <div className="flex items-center justify-center border border-rose-200 bg-rose-50 rounded-2xl p-2 min-w-[100px]">
+                {(() => {
+                  const SvgComponent = K7[svgName as keyof typeof K7];
+                  return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
+                })()}
+              </div>
+            ) : (
+              <div className="w-16 h-16 rounded-2xl border border-rose-200 bg-rose-50 flex items-center justify-center text-4xl">
+                {symbol}
+              </div>
+            )}
             <div className="text-sm font-bold text-slate-700">{title}</div>
           </div>
         </div>

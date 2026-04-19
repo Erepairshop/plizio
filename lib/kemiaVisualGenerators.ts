@@ -27,6 +27,7 @@ const PARTICLE_ITEMS = [
       { x: 24, y: 70 }, { x: 38, y: 70 }, { x: 52, y: 70 }, { x: 66, y: 70 },
     ],
     answer: "fest",
+    svgName: "AtomSvg",
   },
   {
     prompt: "Wie sind die Teilchen hier angeordnet?",
@@ -37,6 +38,7 @@ const PARTICLE_ITEMS = [
       { x: 38, y: 76 }, { x: 52, y: 72 }, { x: 66, y: 76 },
     ],
     answer: "flüssig",
+    svgName: "MolekulaH2OSvg",
   },
   {
     prompt: "Welcher Aggregatzustand passt zu diesem Teilchenbild?",
@@ -46,6 +48,7 @@ const PARTICLE_ITEMS = [
       { x: 64, y: 48 }, { x: 18, y: 78 }, { x: 48, y: 70 }, { x: 78, y: 76 },
     ],
     answer: "gasförmig",
+    svgName: "AtomSvg",
   },
 ];
 
@@ -82,24 +85,28 @@ const LAB_SYMBOL_ITEMS = [
     symbol: "🔥",
     title: "Gefahrensymbol",
     answer: "entzündlich",
+    svgName: "LombikSvg",
   },
   {
     prompt: "Was bedeutet dieses Symbol im Labor?",
     symbol: "☠️",
     title: "Gefahrensymbol",
     answer: "giftig",
+    svgName: "ReagenzglasSvg",
   },
   {
     prompt: "Wie heißt die Gefahr bei diesem Symbol?",
     symbol: "🧪",
     title: "ätzende Stoffe",
     answer: "ätzend",
+    svgName: "ReagenzglasSvg",
   },
   {
     prompt: "Welche Bedeutung passt zu diesem Symbol?",
     symbol: "⚠️",
     title: "Warnsymbol",
     answer: "reizend",
+    svgName: "LombikSvg",
   },
 ];
 
@@ -109,24 +116,28 @@ const CHANGE_ITEMS = [
     scenario: "Ein Eiswürfel schmilzt in der Sonne.",
     sceneEmoji: "🧊",
     answer: "physikalische Veränderung",
+    svgName: "MolekulaH2OSvg",
   },
   {
     prompt: "Was passiert hier aus chemischer Sicht?",
     scenario: "Ein Stück Eisen rostet.",
     sceneEmoji: "🔩",
     answer: "chemische Reaktion",
+    svgName: "ReaktionsSvg",
   },
   {
     prompt: "Wie ordnest du den Vorgang ein?",
     scenario: "Zucker löst sich in Wasser.",
     sceneEmoji: "🥤",
     answer: "physikalische Veränderung",
+    svgName: "MolekulaH2OSvg",
   },
   {
     prompt: "Ist das ein Hinweis auf eine neue Stoffbildung?",
     scenario: "Holz brennt und es entsteht Asche.",
     sceneEmoji: "🔥",
     answer: "chemische Reaktion",
+    svgName: "ReaktionsSvg",
   },
 ];
 
@@ -156,6 +167,7 @@ const TEILCHENBILD: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    svgName: q.svgName,
   }),
   renderPrint: (q) => `${q.prompt} → ${q.options[q.correctIndex]}`,
 };
@@ -216,6 +228,7 @@ const LABORSYMBOL: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    svgName: q.svgName,
   }),
   renderPrint: (q) => `${q.title} → ${q.options[q.correctIndex]}`,
 };
@@ -246,6 +259,7 @@ const REAKTION_ODER_NICHT: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    svgName: q.svgName,
   }),
   renderPrint: (q) => `${q.scenario} → ${q.options[q.correctIndex]}`,
 };

@@ -18,12 +18,12 @@ function pick<T>(arr: T[]): T {
 }
 
 const FORCE_DIRECTION_ITEMS = [
-  { scenario: "Ein Apfel fällt vom Baum.", objectEmoji: "🍎", answer: "↓" },
-  { scenario: "Du schiebst einen Einkaufswagen nach vorne.", objectEmoji: "🛒", answer: "→" },
-  { scenario: "Du ziehst einen Schlitten zu dir.", objectEmoji: "🛷", answer: "←" },
-  { scenario: "Ein Ball springt nach oben zurück.", objectEmoji: "🏀", answer: "↑" },
-  { scenario: "Luftwiderstand wirkt gegen die Bewegung nach links.", objectEmoji: "🏎️", answer: "→" },
-  { scenario: "Die Gewichtskraft zieht die Hantel nach unten.", objectEmoji: "🏋️", answer: "↓" },
+  { scenario: "Ein Apfel fällt vom Baum.", objectEmoji: "🍎", answer: "↓", svgName: "KraftVektorSvg" },
+  { scenario: "Du schiebst einen Einkaufswagen nach vorne.", objectEmoji: "🛒", answer: "→", svgName: "KraftVektorSvg" },
+  { scenario: "Du ziehst einen Schlitten zu dir.", objectEmoji: "🛷", answer: "←", svgName: "KraftVektorSvg" },
+  { scenario: "Ein Ball springt nach oben zurück.", objectEmoji: "🏀", answer: "↑", svgName: "KraftVektorSvg" },
+  { scenario: "Luftwiderstand wirkt gegen die Bewegung nach links.", objectEmoji: "🏎️", answer: "→", svgName: "KraftVektorSvg" },
+  { scenario: "Die Gewichtskraft zieht die Hantel nach unten.", objectEmoji: "🏋️", answer: "↓", svgName: "KraftVektorSvg" },
 ];
 
 const TEMPERATURE_ITEMS = [
@@ -39,21 +39,25 @@ const CIRCUIT_ITEMS = [
     prompt: "Welches Schema zeigt einen geschlossenen einfachen Stromkreis?",
     diagrams: ["🔋──💡", "🔋  💡", "🔋──/ ─💡", "💡──🔋  "],
     correctIndex: 0,
+    svgName: "StromkreisV2Svg",
   },
   {
     prompt: "Welches Schema zeigt eine Reihenschaltung mit zwei Lampen?",
     diagrams: ["🔋──💡──💡", "🔋─┬💡\n  └💡", "🔋  💡  💡", "💡──🔋──💡"],
     correctIndex: 0,
+    svgName: "StromkreisV2Svg",
   },
   {
     prompt: "Welches Schema zeigt eine Parallelschaltung?",
     diagrams: ["🔋─┬💡\n  └💡", "🔋──💡──💡", "🔋  💡  💡", "💡──🔋──/"],
     correctIndex: 0,
+    svgName: "StromkreisV2Svg",
   },
   {
     prompt: "In welchem Schema ist der Schalter offen?",
     diagrams: ["🔋──💡", "🔋──/ ─💡", "🔋─┬💡\n  └💡", "🔋──💡──💡"],
     correctIndex: 1,
+    svgName: "StromkreisV2Svg",
   },
 ];
 
@@ -83,6 +87,7 @@ const KRAFT_RICHTUNG: VisualQuestionType = {
       options,
       correctIndex: options.indexOf(item.answer),
       question: item.scenario,
+      svgName: item.svgName,
     };
   }),
   gradeAnswer: (q, given) => ({ correct: given === q.options[q.correctIndex], expected: q.options[q.correctIndex] }),
@@ -95,6 +100,7 @@ const KRAFT_RICHTUNG: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    svgName: q.svgName,
   }),
   renderPrint: (q) => `${q.scenario} → ${q.options[q.correctIndex]}`,
 };
@@ -162,6 +168,7 @@ const STROMKREIS_DIAGRAMM: VisualQuestionType = {
     userAnswer,
     submitted,
     onAnswer,
+    svgName: q.svgName,
   }),
   renderPrint: (q) => `${q.prompt} → Schema ${String.fromCharCode(65 + q.correctIndex)}`,
 };

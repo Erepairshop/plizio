@@ -1,4 +1,5 @@
 'use client';
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
 
 interface Props {
   prompt: string;
@@ -9,6 +10,7 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  svgName?: string;
 }
 
 export default function TeilchenBild({
@@ -20,6 +22,7 @@ export default function TeilchenBild({
   userAnswer,
   submitted,
   onAnswer,
+  svgName,
 }: Props) {
   const correctAnswer = options[correctIndex];
   const isCorrect = userAnswer === correctAnswer;
@@ -36,19 +39,28 @@ export default function TeilchenBild({
           <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-slate-400 mb-2">
             Teilchenbild
           </div>
-          <div className="relative w-40 h-28 rounded-2xl border border-slate-200 bg-white overflow-hidden">
-            <div
-              className={`absolute inset-x-0 bottom-0 ${
-                mode === "solid" ? "h-20 bg-sky-100" : mode === "liquid" ? "h-14 bg-cyan-100" : "h-6 bg-violet-50"
-              }`}
-            />
-            {particles.map((particle, idx) => (
-              <div
-                key={`${particle.x}-${particle.y}-${idx}`}
-                className="absolute w-3.5 h-3.5 rounded-full bg-gradient-to-br from-emerald-400 to-teal-500 border border-white/70 shadow-sm"
-                style={{ left: `${particle.x}%`, top: `${particle.y}%`, transform: "translate(-50%, -50%)" }}
-              />
-            ))}
+          <div className="relative w-40 h-28 rounded-2xl border border-slate-200 bg-white overflow-hidden flex items-center justify-center">
+            {svgName && K7[svgName as keyof typeof K7] ? (
+              (() => {
+                const SvgComponent = K7[svgName as keyof typeof K7];
+                return <SvgComponent className="w-full max-w-[120px] h-auto max-h-20" />;
+              })()
+            ) : (
+              <>
+                <div
+                  className={`absolute inset-x-0 bottom-0 ${
+                    mode === "solid" ? "h-20 bg-sky-100" : mode === "liquid" ? "h-14 bg-cyan-100" : "h-6 bg-violet-50"
+                  }`}
+                />
+                {particles.map((particle, idx) => (
+                  <div
+                    key={`${particle.x}-${particle.y}-${idx}`}
+                    className="absolute w-3.5 h-3.5 rounded-full bg-gradient-to-br from-emerald-400 to-teal-500 border border-white/70 shadow-sm"
+                    style={{ left: `${particle.x}%`, top: `${particle.y}%`, transform: "translate(-50%, -50%)" }}
+                  />
+                ))}
+              </>
+            )}
           </div>
         </div>
 
