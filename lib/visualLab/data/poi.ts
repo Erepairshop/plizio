@@ -6,7 +6,7 @@ export type POI = {
   name: { de: string; hu: string; ro: string; en: string };
   description: { de: string; hu: string; ro: string; en: string };
   descriptionAdvanced?: { de: string; hu: string; ro: string; en: string };
-  facts: { de: string[]; hu: string[]; ro: string[]; en: string[] };
+  facts?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
   factsAdvanced?: { de: string[]; hu: string[]; ro: string[]; en: string[] };
   subjects?: ("sachkunde" | "geographie" | "geschichte")[];
   grades?: number[];

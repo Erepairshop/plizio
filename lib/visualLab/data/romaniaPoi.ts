@@ -59,7 +59,7 @@ export const romaniaCountry: POI[] = [
     subjects: ["sachkunde", "geographie", "geschichte"],
     grades: [3, 4, 5, 6, 7, 8],
     image: "/geo-images/romania/RO.webp",
-    coa: "/geo-images/romania/coa_RO.svg",
+    
   },
 ];
 
@@ -72,294 +72,294 @@ export const romaniaRegions: POI[] = [
     name: { de: "Alba", hu: "Fehér", ro: "Alba", en: "Alba" },
     description: { de: "Kreis in Siebenbürgen rund um Alba Iulia.", hu: "Erdélyi megye Gyulafehérvár központtal.", ro: "Județ în Transilvania, centrul Alba Iulia.", en: "County in Transylvania, centered on Alba Iulia." },
     facts: { de: ["Krönungsstadt Alba Iulia.", "Weinbau im Târnave-Tal.", "Apuseni-Gebirge."], hu: ["Gyulafehérvár koronázóvárosa.", "Küküllő-menti szőlőtermelés.", "Erdélyi-szigethegység."], ro: ["Alba Iulia, oraș al încoronării.", "Viticultură pe Târnave.", "Munții Apuseni."], en: ["Coronation city Alba Iulia.", "Viticulture along the Târnave.", "Apuseni Mountains."] },
-    image: "/geo-images/romania/RO-AB.webp", coa: "/geo-images/romania/coa_RO-AB.svg",
+    image: "/geo-images/romania/RO-AB.webp",
   },
   {
     id: "RO-AG", type: "region", parent: "RO", coords: [24.8733, 44.8563],
     name: { de: "Argeș", hu: "Argeș", ro: "Argeș", en: "Argeș" },
     description: { de: "Kreis in Muntenien mit Sitz in Pitești.", hu: "Munténiai megye Pitești székhellyel.", ro: "Județ în Muntenia, reședința Pitești.", en: "County in Muntenia with seat in Pitești." },
     facts: { de: ["Dacia-Autos aus Mioveni.", "Burg Poenari (Drăculești).", "Transfăgărășan-Straße."], hu: ["Dacia-autók Mioveniben.", "Poenari vára (Drăculești).", "Transzfogarasi út."], ro: ["Automobile Dacia la Mioveni.", "Cetatea Poenari.", "Transfăgărășan."], en: ["Dacia cars from Mioveni.", "Poenari Citadel (Drăculești).", "Transfăgărășan road."] },
-    image: "/geo-images/romania/RO-AG.webp", coa: "/geo-images/romania/coa_RO-AG.svg",
+    image: "/geo-images/romania/RO-AG.webp",
   },
   {
     id: "RO-AR", type: "region", parent: "RO", coords: [21.5, 46.2],
     name: { de: "Arad", hu: "Arad", ro: "Arad", en: "Arad" },
     description: { de: "Westrumänischer Kreis an der ungarischen Grenze.", hu: "Nyugat-romániai megye a magyar határon.", ro: "Județ din vestul României, la granița cu Ungaria.", en: "Western Romanian county on the Hungarian border." },
     facts: { de: ["Stadt der 13 Märtyrer von 1849.", "Zitadelle von Arad.", "Mureș-Tal."], hu: ["Az 1849-es 13 vértanú városa.", "Aradi vár.", "Maros völgye."], ro: ["Orașul celor 13 martiri din 1849.", "Cetatea Aradului.", "Valea Mureșului."], en: ["City of the 13 Martyrs of 1849.", "Arad Citadel.", "Mureș Valley."] },
-    image: "/geo-images/romania/RO-AR.webp", coa: "/geo-images/romania/coa_RO-AR.svg",
+    image: "/geo-images/romania/RO-AR.webp",
   },
   {
     id: "RO-B", type: "region", parent: "RO", coords: [26.1025, 44.4268],
     name: { de: "Bukarest", hu: "Bukarest", ro: "București", en: "Bucharest" },
     description: { de: "Hauptstadt Rumäniens – die größte Stadt des Landes.", hu: "Románia fővárosa – az ország legnagyobb városa.", ro: "Capitala României – cel mai mare oraș al țării.", en: "Capital of Romania – the country's largest city." },
     facts: { de: ["Rund 1,9 Mio. Einwohner.", "Parlamentspalast: zweitgrößtes Gebäude der Welt.", "Triumphbogen (Arcul de Triumf)."], hu: ["Kb. 1,9 millió lakos.", "Parlament Palotája: a világ második legnagyobb épülete.", "Diadalív."], ro: ["Aproximativ 1,9 milioane de locuitori.", "Palatul Parlamentului – al doilea cel mai mare clădire din lume.", "Arcul de Triumf."], en: ["About 1.9 million inhabitants.", "Palace of the Parliament – world's second-largest building.", "Arch of Triumph."] },
-    image: "/geo-images/romania/RO-B.webp", coa: "/geo-images/romania/coa_RO-B.svg",
+    image: "/geo-images/romania/RO-B.webp",
   },
   {
     id: "RO-BC", type: "region", parent: "RO", coords: [26.917, 46.57],
     name: { de: "Bacău", hu: "Bákó", ro: "Bacău", en: "Bacău" },
     description: { de: "Moldauischer Kreis am Siret.", hu: "Moldvai megye a Szeret mentén.", ro: "Județ moldovean pe râul Siret.", en: "Moldavian county along the Siret river." },
     facts: { de: ["Industriezentrum Bacău.", "Lacul Bicaz in der Nähe.", "Ceahlău-Gebirge im Westen."], hu: ["Bákó ipari központ.", "A közeli Bicaz-tó.", "Csalhó-hegység nyugaton."], ro: ["Centru industrial Bacău.", "Lacul Bicaz în apropiere.", "Munții Ceahlău la vest."], en: ["Industrial hub Bacău.", "Nearby Lake Bicaz.", "Ceahlău Mountains to the west."] },
-    image: "/geo-images/romania/RO-BC.webp", coa: "/geo-images/romania/coa_RO-BC.svg",
+    image: "/geo-images/romania/RO-BC.webp",
   },
   {
     id: "RO-BH", type: "region", parent: "RO", coords: [22.1, 46.9667],
     name: { de: "Bihor", hu: "Bihar", ro: "Bihor", en: "Bihor" },
     description: { de: "Kreis in West-Siebenbürgen mit Sitz Oradea.", hu: "Nyugat-erdélyi megye Nagyvárad székhellyel.", ro: "Județ în vestul Transilvaniei, reședința Oradea.", en: "Western Transylvanian county, seat Oradea." },
     facts: { de: ["Jugendstil-Stadt Oradea.", "Apuseni-Höhlen (Scărișoara).", "Thermalbäder Băile Felix."], hu: ["Nagyvárad szecessziós városa.", "Bihari-barlangok (Scărișoara).", "Félixfürdő termálvizei."], ro: ["Oradea, oraș Art Nouveau.", "Peșteri în Apuseni (Scărișoara).", "Băile Felix."], en: ["Art Nouveau Oradea.", "Apuseni caves (Scărișoara).", "Băile Felix thermal baths."] },
-    image: "/geo-images/romania/RO-BH.webp", coa: "/geo-images/romania/coa_RO-BH.svg",
+    image: "/geo-images/romania/RO-BH.webp",
   },
   {
     id: "RO-BN", type: "region", parent: "RO", coords: [24.5, 47.15],
     name: { de: "Bistritz-Nassod", hu: "Beszterce-Naszód", ro: "Bistrița-Năsăud", en: "Bistrița-Năsăud" },
     description: { de: "Nordsiebenbürgischer Kreis am Rande der Ostkarpaten.", hu: "Észak-erdélyi megye a Keleti-Kárpátok szélén.", ro: "Județ în nordul Transilvaniei, la marginea Carpaților Orientali.", en: "Northern Transylvanian county at the edge of the Eastern Carpathians." },
     facts: { de: ["Sächsische Stadt Bistritz.", "Rodna-Gebirge.", "Borgopass (Bram Stokers Dracula)."], hu: ["Beszterce szász város.", "Radnai-havasok.", "Borgói-hágó (Bram Stoker Draculája)."], ro: ["Orașul săsesc Bistrița.", "Munții Rodnei.", "Pasul Tihuța (Dracula de Bram Stoker)."], en: ["Saxon town of Bistritz.", "Rodna Mountains.", "Tihuța Pass (Bram Stoker's Dracula)."] },
-    image: "/geo-images/romania/RO-BN.webp", coa: "/geo-images/romania/coa_RO-BN.svg",
+    image: "/geo-images/romania/RO-BN.webp",
   },
   {
     id: "RO-BR", type: "region", parent: "RO", coords: [27.9667, 45.2667],
     name: { de: "Brăila", hu: "Brăila", ro: "Brăila", en: "Brăila" },
     description: { de: "Kreis in der Walachei an der Donau.", hu: "Havasalföldi megye a Duna mentén.", ro: "Județ în Muntenia, pe Dunăre.", en: "County in Wallachia, on the Danube." },
     facts: { de: ["Donauhafen Brăila.", "Kleine Brăila-Insel (Balta).", "Kornkammer."], hu: ["Brăila dunai kikötő.", "Kis Brăila-sziget (Balta).", "Gabonatermő vidék."], ro: ["Port dunărean Brăila.", "Balta Brăilei.", "Zonă agricolă (grâu)."], en: ["Danube port Brăila.", "Small Brăila Wetland (Balta).", "Grain-producing region."] },
-    image: "/geo-images/romania/RO-BR.webp", coa: "/geo-images/romania/coa_RO-BR.svg",
+    image: "/geo-images/romania/RO-BR.webp",
   },
   {
     id: "RO-BT", type: "region", parent: "RO", coords: [26.65, 47.75],
     name: { de: "Botoșani", hu: "Botosán", ro: "Botoșani", en: "Botoșani" },
     description: { de: "Nordostkreis an der Grenze zur Ukraine.", hu: "Északkeleti megye az ukrán határon.", ro: "Județ în nord-estul României, la granița cu Ucraina.", en: "Northeastern county on the Ukrainian border." },
     facts: { de: ["Heimat des Dichters Mihai Eminescu.", "Putna-Kloster in der Nähe.", "Agrarregion."], hu: ["Mihai Eminescu költő szülőföldje.", "A közeli Putna kolostor.", "Mezőgazdasági vidék."], ro: ["Locul natal al lui Mihai Eminescu.", "Mănăstirea Putna în apropiere.", "Zonă agricolă."], en: ["Birthplace of poet Mihai Eminescu.", "Nearby Putna Monastery.", "Agrarian region."] },
-    image: "/geo-images/romania/RO-BT.webp", coa: "/geo-images/romania/coa_RO-BT.svg",
+    image: "/geo-images/romania/RO-BT.webp",
   },
   {
     id: "RO-BV", type: "region", parent: "RO", coords: [25.5, 45.75],
     name: { de: "Kronstadt", hu: "Brassó", ro: "Brașov", en: "Brașov" },
     description: { de: "Siebenbürgischer Kreis im Herzen der Karpaten.", hu: "Erdélyi megye a Kárpátok szívében.", ro: "Județ transilvănean în inima Carpaților.", en: "Transylvanian county in the heart of the Carpathians." },
     facts: { de: ["Schloss Bran (Dracula).", "Schwarze Kirche in Kronstadt.", "Skigebiet Poiana Brașov."], hu: ["Bran vára (Drakula).", "Brassói Fekete templom.", "Poiana Brașov síterep."], ro: ["Castelul Bran.", "Biserica Neagră din Brașov.", "Stațiunea Poiana Brașov."], en: ["Bran Castle (Dracula).", "Black Church in Brașov.", "Poiana Brașov ski resort."] },
-    image: "/geo-images/romania/RO-BV.webp", coa: "/geo-images/romania/coa_RO-BV.svg",
+    image: "/geo-images/romania/RO-BV.webp",
   },
   {
     id: "RO-BZ", type: "region", parent: "RO", coords: [26.8167, 45.15],
     name: { de: "Buzău", hu: "Buzău", ro: "Buzău", en: "Buzău" },
     description: { de: "Kreis am Übergang zwischen Karpaten und Tiefebene.", hu: "Megye a Kárpátok és az alföld határán.", ro: "Județ între Carpați și câmpie.", en: "County between the Carpathians and the plain." },
     facts: { de: ["Schlammvulkane (Vulcanii Noroioși).", "Felsenkapellen von Bozioru.", "Weinbau von Pietroasa."], hu: ["Iszapvulkánok (Vulcanii Noroioși).", "Bozioru sziklatemplomai.", "Pietroasai borvidék."], ro: ["Vulcanii Noroioși.", "Așezările rupestre din Bozioru.", "Podgoria Pietroasa."], en: ["Mud Volcanoes (Vulcanii Noroioși).", "Rock-hewn chapels of Bozioru.", "Pietroasa wine region."] },
-    image: "/geo-images/romania/RO-BZ.webp", coa: "/geo-images/romania/coa_RO-BZ.svg",
+    image: "/geo-images/romania/RO-BZ.webp",
   },
   {
     id: "RO-CJ", type: "region", parent: "RO", coords: [23.6236, 46.7712],
     name: { de: "Klausenburg", hu: "Kolozs", ro: "Cluj", en: "Cluj" },
     description: { de: "Herz Siebenbürgens mit Sitz Cluj-Napoca.", hu: "Erdély szíve, székhelye Kolozsvár.", ro: "Inima Transilvaniei, reședința Cluj-Napoca.", en: "Heart of Transylvania, seat Cluj-Napoca." },
     facts: { de: ["Universitätsstadt Cluj-Napoca.", "Salzbergwerk Turda.", "Apuseni-Gebirge."], hu: ["Kolozsvár egyetemváros.", "Tordai sóbánya.", "Erdélyi-szigethegység."], ro: ["Cluj-Napoca, oraș universitar.", "Salina Turda.", "Munții Apuseni."], en: ["University city Cluj-Napoca.", "Turda Salt Mine.", "Apuseni Mountains."] },
-    image: "/geo-images/romania/RO-CJ.webp", coa: "/geo-images/romania/coa_RO-CJ.svg",
+    image: "/geo-images/romania/RO-CJ.webp",
   },
   {
     id: "RO-CL", type: "region", parent: "RO", coords: [27.0, 44.2],
     name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași" },
     description: { de: "Südlicher Donaukreis nahe Bulgarien.", hu: "Déli dunai megye Bulgária közelében.", ro: "Județ sudic pe Dunăre, aproape de Bulgaria.", en: "Southern Danube county near Bulgaria." },
     facts: { de: ["Donauhafen.", "Ackerbau (Weizen, Mais).", "Brücke bei Silistra."], hu: ["Dunai kikötő.", "Szántóföldi gazdálkodás (búza, kukorica).", "Szilisztrai hídfő."], ro: ["Port dunărean.", "Cereale (grâu, porumb).", "Punct de trecere Silistra."], en: ["Danube port.", "Cereal farming (wheat, maize).", "Silistra crossing."] },
-    image: "/geo-images/romania/RO-CL.webp", coa: "/geo-images/romania/coa_RO-CL.svg",
+    image: "/geo-images/romania/RO-CL.webp",
   },
   {
     id: "RO-CS", type: "region", parent: "RO", coords: [21.9, 45.3],
     name: { de: "Karasch-Severin", hu: "Krassó-Szörény", ro: "Caraș-Severin", en: "Caraș-Severin" },
     description: { de: "Kreis im Banater Bergland mit Sitz in Reșița.", hu: "Megye a Bánsági hegyvidéken, székhely Resicabánya.", ro: "Județ în Munții Banatului, reședința Reșița.", en: "County in the Banat Mountains, seat in Reșița." },
     facts: { de: ["Semenic-Nationalpark.", "Donau-Klissura bei Orșova.", "Eisenindustrie in Reșița."], hu: ["Szemenik Nemzeti Park.", "Dunai-szoros Ószova (Orșova) közelében.", "Vasipar Resicabányán."], ro: ["Parcul Național Semenic.", "Defileul Dunării la Orșova.", "Siderurgie la Reșița."], en: ["Semenic National Park.", "Danube gorge near Orșova.", "Iron industry in Reșița."] },
-    image: "/geo-images/romania/RO-CS.webp", coa: "/geo-images/romania/coa_RO-CS.svg",
+    image: "/geo-images/romania/RO-CS.webp",
   },
   {
     id: "RO-CT", type: "region", parent: "RO", coords: [28.6, 44.18],
     name: { de: "Konstanza", hu: "Konstanca", ro: "Constanța", en: "Constanța" },
     description: { de: "Küstenkreis am Schwarzen Meer.", hu: "Tengerparti megye a Fekete-tengernél.", ro: "Județ la Marea Neagră.", en: "Coastal county on the Black Sea." },
     facts: { de: ["Wichtigster Seehafen Rumäniens.", "Badeort Mamaia.", "Antike Stadt Histria."], hu: ["Románia legfontosabb tengeri kikötője.", "Mamaia üdülőhely.", "Histria ókori városa."], ro: ["Cel mai mare port maritim al României.", "Stațiunea Mamaia.", "Cetatea antică Histria."], en: ["Romania's biggest sea port.", "Mamaia beach resort.", "Ancient city of Histria."] },
-    image: "/geo-images/romania/RO-CT.webp", coa: "/geo-images/romania/coa_RO-CT.svg",
+    image: "/geo-images/romania/RO-CT.webp",
   },
   {
     id: "RO-CV", type: "region", parent: "RO", coords: [25.8, 45.85],
     name: { de: "Kovasna", hu: "Kovászna", ro: "Covasna", en: "Covasna" },
     description: { de: "Szeklerkreis im Südosten Siebenbürgens.", hu: "Székely megye Délkelet-Erdélyben.", ro: "Județ secuiesc în sud-estul Transilvaniei.", en: "Székely county in southeastern Transylvania." },
     facts: { de: ["Mofetten (CO₂-Gaskuren).", "Szeklerburgen.", "Ursulberg (Bálványosfürdő)."], hu: ["Mofetták (gyógygázfürdők).", "Székely várak.", "Bálványos-fürdő."], ro: ["Mofete (cure cu CO₂).", "Cetăți secuiești.", "Stațiunea Băile Balvanyos."], en: ["Mofette CO₂ spas.", "Székely fortresses.", "Băile Balvanyos resort."] },
-    image: "/geo-images/romania/RO-CV.webp", coa: "/geo-images/romania/coa_RO-CV.svg",
+    image: "/geo-images/romania/RO-CV.webp",
   },
   {
     id: "RO-DB", type: "region", parent: "RO", coords: [25.4667, 44.9333],
     name: { de: "Dâmbovița", hu: "Dâmbovița", ro: "Dâmbovița", en: "Dâmbovița" },
     description: { de: "Muntenischer Kreis mit historischer Hauptstadt Târgoviște.", hu: "Munténiai megye, történelmi fővárosa Târgoviște.", ro: "Județ în Muntenia, fostă capitală Târgoviște.", en: "Muntenian county with historical capital Târgoviște." },
     facts: { de: ["Fürstenhof Târgoviște.", "Chindia-Turm (Vlad Țepeș).", "Bucegi-Gebirge nördlich."], hu: ["Târgoviștei fejedelmi udvar.", "Chindia-torony (Vlad Tepes).", "Bucsecs-hegység északon."], ro: ["Curtea Domnească Târgoviște.", "Turnul Chindia (Vlad Țepeș).", "Munții Bucegi la nord."], en: ["Princely Court Târgoviște.", "Chindia Tower (Vlad the Impaler).", "Bucegi Mountains to the north."] },
-    image: "/geo-images/romania/RO-DB.webp", coa: "/geo-images/romania/coa_RO-DB.svg",
+    image: "/geo-images/romania/RO-DB.webp",
   },
   {
     id: "RO-DJ", type: "region", parent: "RO", coords: [23.8, 44.33],
     name: { de: "Dolj", hu: "Dolj", ro: "Dolj", en: "Dolj" },
     description: { de: "Kreis im Südwesten der Walachei mit Sitz Craiova.", hu: "Délnyugat-havasalföldi megye Craiova központtal.", ro: "Județ în sud-vestul Munteniei, reședința Craiova.", en: "Southwestern Wallachian county, seat Craiova." },
     facts: { de: ["Universitätsstadt Craiova.", "Brâncuși-Museum.", "Donauufer im Süden."], hu: ["Craiova egyetemváros.", "Brâncuși Múzeum.", "Dunai partok délen."], ro: ["Craiova, oraș universitar.", "Muzeul Brâncuși.", "Malul Dunării la sud."], en: ["University city Craiova.", "Brâncuși Museum.", "Danube bank to the south."] },
-    image: "/geo-images/romania/RO-DJ.webp", coa: "/geo-images/romania/coa_RO-DJ.svg",
+    image: "/geo-images/romania/RO-DJ.webp",
   },
   {
     id: "RO-GJ", type: "region", parent: "RO", coords: [23.3, 45.0333],
     name: { de: "Gorj", hu: "Gorzs", ro: "Gorj", en: "Gorj" },
     description: { de: "Oltenischer Kreis mit Sitz Târgu Jiu.", hu: "Olténiai megye Târgu Jiu székhellyel.", ro: "Județ oltenean, reședința Târgu Jiu.", en: "Oltenian county with seat Târgu Jiu." },
     facts: { de: ["Heimat von Constantin Brâncuși.", "Skulpturenensemble Târgu Jiu.", "Braunkohlerevier."], hu: ["Constantin Brâncuși szülőföldje.", "A Târgu Jiui szoboregyüttes.", "Lignitbányászat."], ro: ["Locul natal al lui Brâncuși.", "Ansamblul sculptural de la Târgu Jiu.", "Bazin carbonifer."], en: ["Birthplace of Brâncuși.", "Târgu Jiu sculptural ensemble.", "Lignite basin."] },
-    image: "/geo-images/romania/RO-GJ.webp", coa: "/geo-images/romania/coa_RO-GJ.svg",
+    image: "/geo-images/romania/RO-GJ.webp",
   },
   {
     id: "RO-GL", type: "region", parent: "RO", coords: [27.95, 45.75],
     name: { de: "Galați", hu: "Galac", ro: "Galați", en: "Galați" },
     description: { de: "Ostrumänischer Kreis an Donau und Prut.", hu: "Kelet-romániai megye a Duna és Prut mentén.", ro: "Județ estic, pe Dunăre și Prut.", en: "Eastern county along the Danube and Prut." },
     facts: { de: ["Größter Donauhafen Rumäniens.", "Stahlwerk Galați.", "Naturreservat Prutul de Jos."], hu: ["Románia legnagyobb dunai kikötője.", "Galaci acélmű.", "Alsó-Prut természetvédelmi terület."], ro: ["Cel mai mare port dunărean al României.", "Combinatul siderurgic Galați.", "Rezervația Prutul de Jos."], en: ["Romania's largest Danube port.", "Galați steel mill.", "Lower Prut reserve."] },
-    image: "/geo-images/romania/RO-GL.webp", coa: "/geo-images/romania/coa_RO-GL.svg",
+    image: "/geo-images/romania/RO-GL.webp",
   },
   {
     id: "RO-GR", type: "region", parent: "RO", coords: [25.9667, 43.9],
     name: { de: "Giurgiu", hu: "Gyurgyevó", ro: "Giurgiu", en: "Giurgiu" },
     description: { de: "Südlicher Kreis mit Donaugrenze zu Bulgarien.", hu: "Déli megye a Duna bulgáriai határánál.", ro: "Județ sudic, la granița dunăreană cu Bulgaria.", en: "Southern county on the Danube border with Bulgaria." },
     facts: { de: ["Grenzbrücke Ruse–Giurgiu.", "Nahe bei Bukarest.", "Ackerbauregion."], hu: ["Ruse–Giurgiu közötti határhíd.", "Közel Bukaresthez.", "Szántóföldi vidék."], ro: ["Podul Giurgiu–Ruse.", "Aproape de București.", "Zonă agricolă."], en: ["Giurgiu–Ruse border bridge.", "Near Bucharest.", "Farming area."] },
-    image: "/geo-images/romania/RO-GR.webp", coa: "/geo-images/romania/coa_RO-GR.svg",
+    image: "/geo-images/romania/RO-GR.webp",
   },
   {
     id: "RO-HD", type: "region", parent: "RO", coords: [22.9, 45.75],
     name: { de: "Hunedoara", hu: "Hunyad", ro: "Hunedoara", en: "Hunedoara" },
     description: { de: "Westsiebenbürgischer Bergkreis.", hu: "Nyugat-erdélyi hegyvidéki megye.", ro: "Județ transilvănean muntos.", en: "Mountainous Transylvanian county." },
     facts: { de: ["Corvin-Burg in Hunedoara.", "Retezat-Nationalpark.", "Dakische Hauptstadt Sarmizegetusa."], hu: ["Vajdahunyad vára.", "Retyezát Nemzeti Park.", "Dák főváros: Sarmizegetusa."], ro: ["Castelul Corvinilor.", "Parcul Național Retezat.", "Capitala dacică Sarmizegetusa."], en: ["Corvin Castle.", "Retezat National Park.", "Dacian capital Sarmizegetusa."] },
-    image: "/geo-images/romania/RO-HD.webp", coa: "/geo-images/romania/coa_RO-HD.svg",
+    image: "/geo-images/romania/RO-HD.webp",
   },
   {
     id: "RO-HR", type: "region", parent: "RO", coords: [25.8, 46.55],
     name: { de: "Harghita", hu: "Hargita", ro: "Harghita", en: "Harghita" },
     description: { de: "Szeklerkreis im Osten Siebenbürgens.", hu: "Székely megye Kelet-Erdélyben.", ro: "Județ secuiesc în estul Transilvaniei.", en: "Székely county in eastern Transylvania." },
     facts: { de: ["St.-Anna-See (Vulkankrater).", "Heilbäder Tușnad, Borsec.", "Hargita-Gebirge."], hu: ["Szent Anna-tó (vulkáni kráter).", "Tusnád, Borszék gyógyfürdők.", "Hargita-hegység."], ro: ["Lacul Sfânta Ana (crater vulcanic).", "Stațiuni: Tușnad, Borsec.", "Munții Harghita."], en: ["Lake Saint Ana (volcanic crater).", "Tușnad, Borsec spas.", "Harghita Mountains."] },
-    image: "/geo-images/romania/RO-HR.webp", coa: "/geo-images/romania/coa_RO-HR.svg",
+    image: "/geo-images/romania/RO-HR.webp",
   },
   {
     id: "RO-IF", type: "region", parent: "RO", coords: [26.15, 44.55],
     name: { de: "Ilfov", hu: "Ilfov", ro: "Ilfov", en: "Ilfov" },
     description: { de: "Kreis rund um Bukarest.", hu: "Bukarestet körülölelő megye.", ro: "Județ care înconjoară Bucureștiul.", en: "County surrounding Bucharest." },
     facts: { de: ["Snagov-See und -Kloster.", "Flughafen Otopeni.", "Waldgebiet Băneasa."], hu: ["Snagovi tó és kolostor.", "Otopeni repülőtér.", "Băneasa erdő."], ro: ["Lacul și Mănăstirea Snagov.", "Aeroportul Otopeni.", "Pădurea Băneasa."], en: ["Snagov Lake and Monastery.", "Otopeni Airport.", "Băneasa Forest."] },
-    image: "/geo-images/romania/RO-IF.webp", coa: "/geo-images/romania/coa_RO-IF.svg",
+    image: "/geo-images/romania/RO-IF.webp",
   },
   {
     id: "RO-IL", type: "region", parent: "RO", coords: [27.2, 44.55],
     name: { de: "Ialomița", hu: "Ialomița", ro: "Ialomița", en: "Ialomița" },
     description: { de: "Kreis in der Walachischen Tiefebene.", hu: "Megye a Havasalföldi-alföldön.", ro: "Județ în Câmpia Bărăganului.", en: "County in the Bărăgan Plain." },
     facts: { de: ["Getreideanbau in der Bărăgan-Steppe.", "Fluss Ialomița.", "Thermalbäder in Amara."], hu: ["Gabonatermesztés a Bărăgan-pusztán.", "Ialomița folyó.", "Amarai termálfürdők."], ro: ["Cereale în Bărăgan.", "Râul Ialomița.", "Stațiunea Amara."], en: ["Cereals in the Bărăgan steppe.", "Ialomița river.", "Amara thermal spa."] },
-    image: "/geo-images/romania/RO-IL.webp", coa: "/geo-images/romania/coa_RO-IL.svg",
+    image: "/geo-images/romania/RO-IL.webp",
   },
   {
     id: "RO-IS", type: "region", parent: "RO", coords: [27.58, 47.16],
     name: { de: "Jassy", hu: "Jászvásár", ro: "Iași", en: "Iași" },
     description: { de: "Kultureller Mittelpunkt der Moldau.", hu: "Moldva kulturális központja.", ro: "Centrul cultural al Moldovei.", en: "Cultural center of Moldavia." },
     facts: { de: ["Älteste Universität Rumäniens (1860).", "Kulturpalast.", "Kloster Golia."], hu: ["Románia legrégebbi egyeteme (1860).", "Kultúrpalota.", "Golia kolostor."], ro: ["Prima universitate românească (1860).", "Palatul Culturii.", "Mănăstirea Golia."], en: ["Romania's oldest university (1860).", "Palace of Culture.", "Golia Monastery."] },
-    image: "/geo-images/romania/RO-IS.webp", coa: "/geo-images/romania/coa_RO-IS.svg",
+    image: "/geo-images/romania/RO-IS.webp",
   },
   {
     id: "RO-MH", type: "region", parent: "RO", coords: [22.7, 44.7],
     name: { de: "Mehedinți", hu: "Mehedinți", ro: "Mehedinți", en: "Mehedinți" },
     description: { de: "Südwestlicher Donaukreis mit Drobeta-Turnu Severin.", hu: "Délnyugati megye a Dunánál, központ Drobeta-Turnu Severin.", ro: "Județ sud-vestic pe Dunăre, Drobeta-Turnu Severin.", en: "Southwestern Danube county with Drobeta-Turnu Severin." },
     facts: { de: ["Eisernes Tor I und II.", "Reste der Trajansbrücke.", "Mraconia-Schlucht."], hu: ["Vaskapu I és II.", "Traianus hídjának maradványai.", "Mraconia-szurdok."], ro: ["Porțile de Fier I și II.", "Rămășițele Podului lui Traian.", "Cazanele Dunării."], en: ["Iron Gates I and II.", "Remains of Trajan's Bridge.", "Danube gorges (Cazane)."] },
-    image: "/geo-images/romania/RO-MH.webp", coa: "/geo-images/romania/coa_RO-MH.svg",
+    image: "/geo-images/romania/RO-MH.webp",
   },
   {
     id: "RO-MM", type: "region", parent: "RO", coords: [23.95, 47.6667],
     name: { de: "Maramureș", hu: "Máramaros", ro: "Maramureș", en: "Maramureș" },
     description: { de: "Nordkreis mit Holzkirchen und Bergwelt.", hu: "Északi megye fatemplomokkal és hegyekkel.", ro: "Județ nordic cu biserici de lemn și munți.", en: "Northern county with wooden churches and mountains." },
     facts: { de: ["UNESCO-Holzkirchen.", "Fröhlicher Friedhof von Săpânța.", "Rodna-Massiv."], hu: ["UNESCO-fatemplomok.", "Vidám temető (Szaplonca).", "Radnai-havasok."], ro: ["Biserici de lemn UNESCO.", "Cimitirul Vesel din Săpânța.", "Masivul Rodnei."], en: ["UNESCO wooden churches.", "Merry Cemetery of Săpânța.", "Rodna massif."] },
-    image: "/geo-images/romania/RO-MM.webp", coa: "/geo-images/romania/coa_RO-MM.svg",
+    image: "/geo-images/romania/RO-MM.webp",
   },
   {
     id: "RO-MS", type: "region", parent: "RO", coords: [24.55, 46.55],
     name: { de: "Mureș", hu: "Maros", ro: "Mureș", en: "Mureș" },
     description: { de: "Zentralsiebenbürgischer Kreis am Fluss Mureș.", hu: "Közép-erdélyi megye a Maros folyónál.", ro: "Județ în centrul Transilvaniei, pe râul Mureș.", en: "Central Transylvanian county on the Mureș river." },
     facts: { de: ["Târgu Mureș (Neumarkt) – Kulturpalast.", "Medieval Sighișoara.", "Sovata-See (Bärensee)."], hu: ["Marosvásárhely – Kultúrpalota.", "Segesvár középkori vára.", "Szováta – Medve-tó."], ro: ["Târgu Mureș – Palatul Culturii.", "Sighișoara medievală.", "Lacul Ursu la Sovata."], en: ["Târgu Mureș – Palace of Culture.", "Medieval Sighișoara.", "Bear Lake at Sovata."] },
-    image: "/geo-images/romania/RO-MS.webp", coa: "/geo-images/romania/coa_RO-MS.svg",
+    image: "/geo-images/romania/RO-MS.webp",
   },
   {
     id: "RO-NT", type: "region", parent: "RO", coords: [26.4, 46.9],
     name: { de: "Neamț", hu: "Neamț", ro: "Neamț", en: "Neamț" },
     description: { de: "Moldauischer Kreis mit Klöstern und dem Ceahlău.", hu: "Moldvai megye kolostorokkal és a Csalhó-hegységgel.", ro: "Județ moldovean, cu mănăstiri și Ceahlău.", en: "Moldavian county with monasteries and Ceahlău Mountain." },
     facts: { de: ["Kloster Neamț.", "Lacul Bicaz.", "Ceahlău-Massiv."], hu: ["Neamț kolostor.", "Bicaz-tó.", "Csalhó hegytömbje."], ro: ["Mănăstirea Neamț.", "Lacul Bicaz.", "Masivul Ceahlău."], en: ["Neamț Monastery.", "Lake Bicaz.", "Ceahlău massif."] },
-    image: "/geo-images/romania/RO-NT.webp", coa: "/geo-images/romania/coa_RO-NT.svg",
+    image: "/geo-images/romania/RO-NT.webp",
   },
   {
     id: "RO-OT", type: "region", parent: "RO", coords: [24.3667, 44.43],
     name: { de: "Olt", hu: "Olt", ro: "Olt", en: "Olt" },
     description: { de: "Kreis am Fluss Olt in Oltenien.", hu: "Olt folyó menti megye Olténiában.", ro: "Județ pe râul Olt, în Oltenia.", en: "Olt River county in Oltenia." },
     facts: { de: ["Fluss Olt.", "Ackerbau und Obstbau.", "Kloster Brâncoveni."], hu: ["Olt folyó.", "Szántóföldi és gyümölcstermelés.", "Brâncoveni kolostor."], ro: ["Râul Olt.", "Agricultură, pomicultură.", "Mănăstirea Brâncoveni."], en: ["Olt river.", "Farming and orchards.", "Brâncoveni Monastery."] },
-    image: "/geo-images/romania/RO-OT.webp", coa: "/geo-images/romania/coa_RO-OT.svg",
+    image: "/geo-images/romania/RO-OT.webp",
   },
   {
     id: "RO-PH", type: "region", parent: "RO", coords: [26.0, 45.0],
     name: { de: "Prahova", hu: "Prahova", ro: "Prahova", en: "Prahova" },
     description: { de: "Muntenischer Kreis mit Sitz Ploiești und Prahova-Tal.", hu: "Munténiai megye Ploiești székhellyel és Prahova-völggyel.", ro: "Județ muntean, reședința Ploiești, Valea Prahovei.", en: "Muntenian county with seat Ploiești and the Prahova Valley." },
     facts: { de: ["Erdölzentrum Ploiești.", "Schloss Peleș in Sinaia.", "Bergresort Bușteni."], hu: ["Ploiești kőolajközpont.", "Peleș-kastély Sinaián.", "Bușteni-i hegyvidéki üdülő."], ro: ["Centrul petrolier Ploiești.", "Castelul Peleș la Sinaia.", "Stațiunea Bușteni."], en: ["Ploiești oil hub.", "Peleș Castle in Sinaia.", "Bușteni mountain resort."] },
-    image: "/geo-images/romania/RO-PH.webp", coa: "/geo-images/romania/coa_RO-PH.svg",
+    image: "/geo-images/romania/RO-PH.webp",
   },
   {
     id: "RO-SB", type: "region", parent: "RO", coords: [24.15, 45.8],
     name: { de: "Hermannstadt", hu: "Szeben", ro: "Sibiu", en: "Sibiu" },
     description: { de: "Siebenbürgischer Kreis mit sächsischem Erbe.", hu: "Erdélyi megye szász örökséggel.", ro: "Județ transilvănean cu moștenire săsească.", en: "Transylvanian county with Saxon heritage." },
     facts: { de: ["Kulturhauptstadt 2007.", "Freilichtmuseum ASTRA.", "Fogaraser Gebirge (Transfăgărășan)."], hu: ["2007 Európa kulturális fővárosa.", "ASTRA szabadtéri múzeum.", "Fogarasi-havasok (Transzfogarasi út)."], ro: ["Capitală Culturală 2007.", "Muzeul ASTRA.", "Munții Făgăraș (Transfăgărășan)."], en: ["European Capital of Culture 2007.", "ASTRA open-air museum.", "Făgăraș Mountains (Transfăgărășan)."] },
-    image: "/geo-images/romania/RO-SB.webp", coa: "/geo-images/romania/coa_RO-SB.svg",
+    image: "/geo-images/romania/RO-SB.webp",
   },
   {
     id: "RO-SJ", type: "region", parent: "RO", coords: [23.05, 47.2],
     name: { de: "Sălaj", hu: "Szilágy", ro: "Sălaj", en: "Sălaj" },
     description: { de: "Kreis in Nordwest-Siebenbürgen.", hu: "Északnyugat-erdélyi megye.", ro: "Județ în nord-vestul Transilvaniei.", en: "County in northwestern Transylvania." },
     facts: { de: ["Sitz Zalău.", "Römerlimes Porolissum.", "Hügelland."], hu: ["Zilahi székhely.", "Porolissum római limes.", "Dombvidék."], ro: ["Reședința Zalău.", "Limesul roman Porolissum.", "Zonă deluroasă."], en: ["Seat Zalău.", "Roman Porolissum limes.", "Hill country."] },
-    image: "/geo-images/romania/RO-SJ.webp", coa: "/geo-images/romania/coa_RO-SJ.svg",
+    image: "/geo-images/romania/RO-SJ.webp",
   },
   {
     id: "RO-SM", type: "region", parent: "RO", coords: [22.8667, 47.8],
     name: { de: "Sathmar", hu: "Szatmár", ro: "Satu Mare", en: "Satu Mare" },
     description: { de: "Nordwestkreis an der ungarischen Grenze.", hu: "Északnyugati megye a magyar határon.", ro: "Județ nord-vestic, la granița cu Ungaria.", en: "Northwestern county on the Hungarian border." },
     facts: { de: ["Multikultureller Raum.", "Holzkirchen der Region Codru.", "Thermalbäder Tășnad."], hu: ["Multikulturális térség.", "Kodrui fatemplomok.", "Tășnad termálfürdő."], ro: ["Spațiu multicultural.", "Biserici de lemn Codru.", "Băile Tășnad."], en: ["Multicultural region.", "Codru wooden churches.", "Tășnad thermal baths."] },
-    image: "/geo-images/romania/RO-SM.webp", coa: "/geo-images/romania/coa_RO-SM.svg",
+    image: "/geo-images/romania/RO-SM.webp",
   },
   {
     id: "RO-SV", type: "region", parent: "RO", coords: [25.85, 47.45],
     name: { de: "Suczawa", hu: "Szucsáva", ro: "Suceava", en: "Suceava" },
     description: { de: "Nordmoldauischer Kreis mit den bemalten Klöstern der Bukowina.", hu: "Észak-moldvai megye a bukovinai festett kolostorokkal.", ro: "Județ în nordul Moldovei, cu mănăstirile pictate din Bucovina.", en: "Northern Moldavian county with Bukovina's painted monasteries." },
     facts: { de: ["UNESCO-Klöster Voroneț, Moldovița, Sucevița.", "Festung Suceava.", "Obcinele Bucovinei."], hu: ["UNESCO kolostorok: Voroneț, Moldovița, Sucevița.", "Szucsáva vára.", "Bukovinai dombok."], ro: ["Mănăstiri UNESCO (Voroneț, Moldovița, Sucevița).", "Cetatea Sucevei.", "Obcinele Bucovinei."], en: ["UNESCO monasteries (Voroneț, Moldovița, Sucevița).", "Suceava Citadel.", "Bukovina highlands."] },
-    image: "/geo-images/romania/RO-SV.webp", coa: "/geo-images/romania/coa_RO-SV.svg",
+    image: "/geo-images/romania/RO-SV.webp",
   },
   {
     id: "RO-TL", type: "region", parent: "RO", coords: [28.8, 45.17],
     name: { de: "Tulcea", hu: "Tulcea", ro: "Tulcea", en: "Tulcea" },
     description: { de: "Kreis mit dem Donaudelta.", hu: "A Duna-delta megyéje.", ro: "Județul Deltei Dunării.", en: "County of the Danube Delta." },
     facts: { de: ["UNESCO-Biosphärenreservat Donaudelta.", "Vogelparadies.", "Hafenstadt Tulcea."], hu: ["UNESCO Duna-delta bioszféra-rezervátum.", "Madárparadicsom.", "Tulcea kikötőváros."], ro: ["Rezervația Biosferei Delta Dunării (UNESCO).", "Paradisul păsărilor.", "Port Tulcea."], en: ["UNESCO Danube Delta Biosphere Reserve.", "Bird paradise.", "Port town Tulcea."] },
-    image: "/geo-images/romania/RO-TL.webp", coa: "/geo-images/romania/coa_RO-TL.svg",
+    image: "/geo-images/romania/RO-TL.webp",
   },
   {
     id: "RO-TM", type: "region", parent: "RO", coords: [21.23, 45.76],
     name: { de: "Temesch", hu: "Temes", ro: "Timiș", en: "Timiș" },
     description: { de: "Größter Kreis Rumäniens im Banat.", hu: "Románia legnagyobb megyéje a Bánságban.", ro: "Cel mai mare județ al României, în Banat.", en: "Romania's largest county, in Banat." },
     facts: { de: ["Timișoara (Temeswar) – Stadt der Revolution 1989.", "Kulturhauptstadt 2023.", "Banater Tiefebene."], hu: ["Temesvár – az 1989-es forradalom városa.", "2023 Európa kulturális fővárosa.", "Bánsági-alföld."], ro: ["Timișoara – orașul Revoluției 1989.", "Capitală Culturală 2023.", "Câmpia Banatului."], en: ["Timișoara – city of the 1989 Revolution.", "European Capital of Culture 2023.", "Banat Plain."] },
-    image: "/geo-images/romania/RO-TM.webp", coa: "/geo-images/romania/coa_RO-TM.svg",
+    image: "/geo-images/romania/RO-TM.webp",
   },
   {
     id: "RO-TR", type: "region", parent: "RO", coords: [25.33, 44.0],
     name: { de: "Teleorman", hu: "Teleorman", ro: "Teleorman", en: "Teleorman" },
     description: { de: "Südlicher Donaukreis in der Walachei.", hu: "Déli dunai megye Havasalföldön.", ro: "Județ sudic pe Dunăre, în Muntenia.", en: "Southern Danube county in Wallachia." },
     facts: { de: ["Ackerbau in der Burnas-Ebene.", "Fluss Vedea.", "Sitz Alexandria."], hu: ["Szántóföldi gazdálkodás a Burnas-síkságon.", "Vedea folyó.", "Székhely: Alexandria."], ro: ["Cereale în Câmpia Burnazului.", "Râul Vedea.", "Reședința Alexandria."], en: ["Cereals in the Burnas Plain.", "Vedea river.", "Seat: Alexandria."] },
-    image: "/geo-images/romania/RO-TR.webp", coa: "/geo-images/romania/coa_RO-TR.svg",
+    image: "/geo-images/romania/RO-TR.webp",
   },
   {
     id: "RO-VL", type: "region", parent: "RO", coords: [24.3667, 45.1],
     name: { de: "Vâlcea", hu: "Vâlcea", ro: "Vâlcea", en: "Vâlcea" },
     description: { de: "Oltenischer Kreis im Tal des Olt.", hu: "Olténiai megye az Olt völgyében.", ro: "Județ oltenesc pe Valea Oltului.", en: "Oltenian county in the Olt valley." },
     facts: { de: ["Heilbäder Călimănești-Căciulata.", "Kloster Horezu (UNESCO).", "Cozia-Gebirge."], hu: ["Călimănești-Căciulata gyógyfürdők.", "Horezu kolostor (UNESCO).", "Cozia-hegység."], ro: ["Stațiuni Călimănești-Căciulata.", "Mănăstirea Horezu (UNESCO).", "Munții Cozia."], en: ["Călimănești-Căciulata spas.", "Horezu Monastery (UNESCO).", "Cozia Mountains."] },
-    image: "/geo-images/romania/RO-VL.webp", coa: "/geo-images/romania/coa_RO-VL.svg",
+    image: "/geo-images/romania/RO-VL.webp",
   },
   {
     id: "RO-VN", type: "region", parent: "RO", coords: [27.18, 45.75],
     name: { de: "Vrancea", hu: "Vráncea", ro: "Vrancea", en: "Vrancea" },
     description: { de: "Kreis am Karpatenbogen, seismisches Gebiet.", hu: "A Kárpát-kanyar megyéje, szeizmikus terület.", ro: "Județ la curbura Carpaților, zonă seismică.", en: "County at the Carpathian bend, a seismic region." },
     facts: { de: ["Erdbebenzone Vrancea.", "Weinbau Panciu, Odobești.", "Lebendes Feuer (Focul Viu)."], hu: ["Vrancea földrengésövezet.", "Panciu, Odobești borvidék.", "Élő tűz (Focul Viu)."], ro: ["Zonă seismică Vrancea.", "Podgorii Panciu, Odobești.", "Focul Viu."], en: ["Vrancea seismic zone.", "Panciu, Odobești wine regions.", "Living Fire (Focul Viu)."] },
-    image: "/geo-images/romania/RO-VN.webp", coa: "/geo-images/romania/coa_RO-VN.svg",
+    image: "/geo-images/romania/RO-VN.webp",
   },
   {
     id: "RO-VS", type: "region", parent: "RO", coords: [27.73, 46.63],
     name: { de: "Vaslui", hu: "Vaslui", ro: "Vaslui", en: "Vaslui" },
     description: { de: "Moldauischer Kreis an der Grenze zur Republik Moldau.", hu: "Moldvai megye a Moldovai Köztársaság határán.", ro: "Județ moldovean, la granița cu Republica Moldova.", en: "Moldavian county on the border with the Republic of Moldova." },
     facts: { de: ["Schlacht von Vaslui 1475 (Stefan der Große).", "Fluss Prut.", "Weinbau Huși."], hu: ["Vaslui-i csata, 1475 (Nagy István).", "Prut folyó.", "Huși borvidék."], ro: ["Bătălia de la Vaslui, 1475 (Ștefan cel Mare).", "Râul Prut.", "Podgoria Huși."], en: ["Battle of Vaslui, 1475 (Stephen the Great).", "Prut river.", "Huși wine region."] },
-    image: "/geo-images/romania/RO-VS.webp", coa: "/geo-images/romania/coa_RO-VS.svg",
+    image: "/geo-images/romania/RO-VS.webp",
   },
 ];
 
@@ -378,7 +378,7 @@ export const romaniaCities: POI[] = [
     },
     facts: { de: ["~1,9 Mio. Einwohner.", "Parlamentspalast: 3.930.000 m³.", "\"Kleines Paris des Ostens\".", "Flughafen Otopeni."], hu: ["~1,9 millió lakos.", "Parlament Palotája: 3 930 000 m³.", "\"Kelet kis Párizsa\".", "Otopeni repülőtér."], ro: ["Aproximativ 1,9 milioane locuitori.", "Palatul Parlamentului – 3.930.000 m³.", "\"Micul Paris\".", "Aeroportul Otopeni."], en: ["About 1.9 million inhabitants.", "Palace of the Parliament: 3.93 million m³.", "\"Little Paris of the East\".", "Otopeni Airport."] },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
-    image: "/geo-images/romania/city-bucuresti.webp", coa: "/geo-images/romania/coa_city-bucuresti.svg",
+    image: "/geo-images/romania/city-bucuresti.webp",
   },
   {
     id: "city-cluj-napoca", type: "state-capital", parent: "RO-CJ", coords: [23.6236, 46.7712],
@@ -386,7 +386,7 @@ export const romaniaCities: POI[] = [
     description: { de: "Historische Hauptstadt Siebenbürgens und bedeutende Universitätsstadt.", hu: "Erdély történelmi fővárosa és kiemelkedő egyetemváros.", ro: "Capitala istorică a Transilvaniei, oraș universitar important.", en: "Historical capital of Transylvania and a major university city." },
     facts: { de: ["Babeș-Bolyai-Universität.", "Michaelskirche am Zentralplatz.", "Matthias-Corvinus-Haus."], hu: ["Babeș-Bolyai Tudományegyetem.", "Szent Mihály-templom a Főtéren.", "Mátyás király szülőháza."], ro: ["Universitatea Babeș-Bolyai.", "Biserica Sf. Mihail.", "Casa Matei Corvin."], en: ["Babeș-Bolyai University.", "St. Michael's Church on the main square.", "Matthias Corvinus's birthplace."] },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
-    image: "/geo-images/romania/city-cluj-napoca.webp", coa: "/geo-images/romania/coa_city-cluj-napoca.svg",
+    image: "/geo-images/romania/city-cluj-napoca.webp",
   },
   {
     id: "city-timisoara", type: "state-capital", parent: "RO-TM", coords: [21.2087, 45.7489],
@@ -395,7 +395,7 @@ export const romaniaCities: POI[] = [
     facts: { de: ["Erste gasbeleuchtete Stadt Europas (1884).", "Europäische Kulturhauptstadt 2023.", "Opernplatz & Siegesplatz."], hu: ["Európa első gázvilágítású városa (1884).", "2023 Európa kulturális fővárosa.", "Operatér és Győzelem tér."], ro: ["Primul oraș european cu iluminat public cu gaz (1884).", "Capitală Culturală Europeană 2023.", "Piața Operei și Piața Victoriei."], en: ["First European city with gas street lighting (1884).", "European Capital of Culture 2023.", "Opera Square and Victory Square."] },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
     historyYear: 1989, historyPeriod: "modern",
-    image: "/geo-images/romania/city-timisoara.webp", coa: "/geo-images/romania/coa_city-timisoara.svg",
+    image: "/geo-images/romania/city-timisoara.webp",
   },
   {
     id: "city-iasi", type: "state-capital", parent: "RO-IS", coords: [27.5848, 47.1585],
@@ -403,7 +403,7 @@ export const romaniaCities: POI[] = [
     description: { de: "Kulturelle Hauptstadt der Moldau mit reicher Universitätstradition.", hu: "Moldva kulturális fővárosa gazdag egyetemi hagyományokkal.", ro: "Capitala culturală a Moldovei, cu tradiție universitară bogată.", en: "Cultural capital of Moldavia with rich university tradition." },
     facts: { de: ["Kulturpalast.", "Alexandru-Ioan-Cuza-Universität (1860).", "Metropolitankathedrale."], hu: ["Kultúrpalota.", "Alexandru Ioan Cuza Egyetem (1860).", "Metropolita-székesegyház."], ro: ["Palatul Culturii.", "Universitatea Alexandru Ioan Cuza (1860).", "Mitropolia Moldovei."], en: ["Palace of Culture.", "Alexandru Ioan Cuza University (1860).", "Metropolitan Cathedral."] },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
-    image: "/geo-images/romania/city-iasi.webp", coa: "/geo-images/romania/coa_city-iasi.svg",
+    image: "/geo-images/romania/city-iasi.webp",
   },
   {
     id: "city-constanta", type: "state-capital", parent: "RO-CT", coords: [28.6348, 44.1598],
@@ -411,7 +411,7 @@ export const romaniaCities: POI[] = [
     description: { de: "Größter Seehafen Rumäniens am Schwarzen Meer, antikes Tomis.", hu: "Románia legnagyobb tengeri kikötője a Fekete-tengeren, az ókori Tomis.", ro: "Cel mai mare port maritim al României, anticul Tomis.", en: "Romania's largest sea port on the Black Sea, ancient Tomis." },
     facts: { de: ["Exil Ovids (ab 8 n. Chr.).", "Casino am Meer.", "Römisches Mosaik."], hu: ["Ovidius száműzetésének helye (Kr. u. 8-tól).", "Tengerparti kaszinó.", "Római mozaik."], ro: ["Locul exilului lui Ovidiu (din 8 d.Hr.).", "Cazinoul de la mare.", "Edificiul roman cu mozaic."], en: ["Ovid's exile (from 8 AD).", "Seaside Casino.", "Roman mosaic edifice."] },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
-    image: "/geo-images/romania/city-constanta.webp", coa: "/geo-images/romania/coa_city-constanta.svg",
+    image: "/geo-images/romania/city-constanta.webp",
   },
   {
     id: "city-brasov", type: "state-capital", parent: "RO-BV", coords: [25.6104, 45.6427],
@@ -419,28 +419,28 @@ export const romaniaCities: POI[] = [
     description: { de: "Siebenbürgische Stadt mit gotischer Altstadt am Fuß des Tâmpa.", hu: "Erdélyi város gótikus óvárossal a Cenk-hegy lábánál.", ro: "Oraș transilvănean, cu centru gotic la poalele Tâmpei.", en: "Transylvanian city with a Gothic old town at the foot of Mount Tâmpa." },
     facts: { de: ["Schwarze Kirche (14.–15. Jh.).", "Ratsplatz.", "Nähe zu Bran und Poiana Brașov."], hu: ["Fekete templom (14–15. század).", "Tanácstér.", "Közel Branhoz és Poiana Brașovhoz."], ro: ["Biserica Neagră (sec. XIV–XV).", "Piața Sfatului.", "Aproape de Bran și Poiana Brașov."], en: ["Black Church (14th–15th c.).", "Council Square.", "Close to Bran and Poiana Brașov."] },
     subjects: ["sachkunde", "geographie", "geschichte"], grades: [3, 4, 5, 6, 7, 8],
-    image: "/geo-images/romania/city-brasov.webp", coa: "/geo-images/romania/coa_city-brasov.svg",
+    image: "/geo-images/romania/city-brasov.webp",
   },
   {
     id: "city-craiova", type: "state-capital", parent: "RO-DJ", coords: [23.7949, 44.3302],
     name: { de: "Craiova", hu: "Craiova", ro: "Craiova", en: "Craiova" },
     description: { de: "Hauptstadt Olteniens, Wirtschafts- und Universitätszentrum.", hu: "Olténia fővárosa, gazdasági és egyetemi központ.", ro: "Capitala Olteniei, centru economic și universitar.", en: "Capital of Oltenia, an economic and university hub." },
     facts: { de: ["Oltenien-Museum.", "Madonna Dudu-Kirche.", "Ford-Werk."], hu: ["Olténia Múzeum.", "Madonna Dudu templom.", "Ford-gyár."], ro: ["Muzeul Olteniei.", "Biserica Madona Dudu.", "Uzinele Ford."], en: ["Museum of Oltenia.", "Madonna Dudu Church.", "Ford plant."] },
-    image: "/geo-images/romania/city-craiova.webp", coa: "/geo-images/romania/coa_city-craiova.svg",
+    image: "/geo-images/romania/city-craiova.webp",
   },
   {
     id: "city-galati", type: "state-capital", parent: "RO-GL", coords: [28.0323, 45.4353],
     name: { de: "Galați", hu: "Galac", ro: "Galați", en: "Galați" },
     description: { de: "Größter Donauhafen Rumäniens und Werftstadt.", hu: "Románia legnagyobb dunai kikötője és hajógyártó városa.", ro: "Cel mai mare port dunărean și oraș de șantier naval.", en: "Romania's largest Danube port and shipbuilding city." },
     facts: { de: ["Größtes Stahlwerk Rumäniens (Liberty).", "Donauuferpromenade.", "Nähe Prut-Mündung."], hu: ["Románia legnagyobb acélműve (Liberty).", "Dunai sétány.", "Közel a Prut torkolatához."], ro: ["Cel mai mare combinat siderurgic (Liberty).", "Faleza Dunării.", "Aproape de vărsarea Prutului."], en: ["Largest steel mill (Liberty).", "Danube waterfront.", "Near the Prut mouth."] },
-    image: "/geo-images/romania/city-galati.webp", coa: "/geo-images/romania/coa_city-galati.svg",
+    image: "/geo-images/romania/city-galati.webp",
   },
   {
     id: "city-oradea", type: "state-capital", parent: "RO-BH", coords: [21.9189, 47.0722],
     name: { de: "Großwardein", hu: "Nagyvárad", ro: "Oradea", en: "Oradea" },
     description: { de: "Jugendstil-Juwel im Nordwesten an der Körösch.", hu: "Szecessziós ékszerdoboz északnyugaton a Körös partján.", ro: "Bijuterie Art Nouveau din nord-vest, pe Criș.", en: "Art Nouveau gem in the northwest, on the Criș." },
     facts: { de: ["Festung Oradea.", "Schwarzer-Adler-Passage.", "Thermalbäder Felix."], hu: ["Nagyváradi vár.", "Fekete Sas passzázs.", "Félixfürdő."], ro: ["Cetatea Oradea.", "Palatul Vulturul Negru.", "Băile Felix."], en: ["Oradea Fortress.", "Black Eagle Palace.", "Băile Felix."] },
-    image: "/geo-images/romania/city-oradea.webp", coa: "/geo-images/romania/coa_city-oradea.svg",
+    image: "/geo-images/romania/city-oradea.webp",
   },
   {
     id: "city-ploiesti", type: "state-capital", parent: "RO-PH", coords: [26.0127, 44.9369],
@@ -448,14 +448,14 @@ export const romaniaCities: POI[] = [
     description: { de: "Erdölzentrum Rumäniens nördlich von Bukarest.", hu: "Románia kőolajközpontja Bukaresttől északra.", ro: "Centrul petrolier al României, la nord de București.", en: "Romania's oil hub north of Bucharest." },
     facts: { de: ["Erste Raffinerie der Welt 1857.", "Uhrenmuseum.", "Schwere Bombardierungen 1943/44."], hu: ["A világ első kőolajfinomítója, 1857.", "Óramúzeum.", "Súlyos bombázások 1943–44-ben."], ro: ["Prima rafinărie din lume (1857).", "Muzeul Ceasului.", "Bombardamente grele 1943/44."], en: ["World's first refinery (1857).", "Clock Museum.", "Heavy bombings in 1943/44."] },
     historyPeriod: "ww2", historyYear: [1943, 1944],
-    image: "/geo-images/romania/city-ploiesti.webp", coa: "/geo-images/romania/coa_city-ploiesti.svg",
+    image: "/geo-images/romania/city-ploiesti.webp",
   },
   {
     id: "city-pitesti", type: "state-capital", parent: "RO-AG", coords: [24.8697, 44.8563],
     name: { de: "Pitești", hu: "Pitești", ro: "Pitești", en: "Pitești" },
     description: { de: "Wirtschaftszentrum Muntenas, Standort Dacia-Renault.", hu: "Munténia gazdasági központja, a Dacia-Renault telephelye.", ro: "Centru economic al Munteniei, sediu Dacia-Renault.", en: "Economic center of Muntenia, home of Dacia-Renault." },
     facts: { de: ["Dacia-Werk Mioveni.", "Schlosspark Trivale.", "Obstbau (Argeș)."], hu: ["Dacia-gyár Mioveniben.", "Trivale-park.", "Gyümölcstermelés (Argeș)."], ro: ["Uzina Dacia de la Mioveni.", "Parcul Trivale.", "Pomicultură pe Argeș."], en: ["Dacia plant at Mioveni.", "Trivale Park.", "Fruit orchards (Argeș)."] },
-    image: "/geo-images/romania/city-pitesti.webp", coa: "/geo-images/romania/coa_city-pitesti.svg",
+    image: "/geo-images/romania/city-pitesti.webp",
   },
   {
     id: "city-arad", type: "state-capital", parent: "RO-AR", coords: [21.3123, 46.1866],
@@ -463,35 +463,35 @@ export const romaniaCities: POI[] = [
     description: { de: "Stadt an der Mureș, geprägt von habsburgischer Architektur.", hu: "A Maros menti város habsburg építészettel.", ro: "Oraș pe Mureș, cu arhitectură habsburgică.", en: "City on the Mureș with Habsburg architecture." },
     facts: { de: ["Zitadelle von Arad (1763).", "13 Märtyrer von 1849.", "Rumäniens größtes Theater."], hu: ["Aradi vár (1763).", "1849-es 13 aradi vértanú.", "Románia legnagyobb színháza."], ro: ["Cetatea Aradului (1763).", "Cei 13 martiri din 1849.", "Teatrul cel mai mare al României."], en: ["Arad Citadel (1763).", "13 Martyrs of 1849.", "Romania's largest theatre."] },
     historyPeriod: "empire", historyYear: 1849,
-    image: "/geo-images/romania/city-arad.webp", coa: "/geo-images/romania/coa_city-arad.svg",
+    image: "/geo-images/romania/city-arad.webp",
   },
   {
     id: "city-sibiu", type: "state-capital", parent: "RO-SB", coords: [24.1524, 45.7983],
     name: { de: "Hermannstadt", hu: "Nagyszeben", ro: "Sibiu", en: "Sibiu" },
     description: { de: "Siebenbürgisches Kulturjuwel mit sächsischem Erbe.", hu: "Erdélyi kulturális ékszerdoboz szász örökséggel.", ro: "Bijuterie culturală transilvăneană cu moștenire săsească.", en: "Transylvanian cultural gem with Saxon heritage." },
     facts: { de: ["Kulturhauptstadt 2007.", "Die \"Augen der Stadt\" (Dachluken).", "Brukenthal-Museum."], hu: ["2007 Európa kulturális fővárosa.", "A város \"szemei\" (padlás­ablakok).", "Brukenthal Múzeum."], ro: ["Capitală Culturală 2007.", "\"Ochii orașului\".", "Muzeul Brukenthal."], en: ["European Capital of Culture 2007.", "The \"Eyes of the City\".", "Brukenthal Museum."] },
-    image: "/geo-images/romania/city-sibiu.webp", coa: "/geo-images/romania/coa_city-sibiu.svg",
+    image: "/geo-images/romania/city-sibiu.webp",
   },
   {
     id: "city-targu-mures", type: "state-capital", parent: "RO-MS", coords: [24.5635, 46.5425],
     name: { de: "Neumarkt am Mieresch", hu: "Marosvásárhely", ro: "Târgu Mureș", en: "Târgu Mureș" },
     description: { de: "Kreishauptstadt am Mureș, bekannt für den Kulturpalast.", hu: "Megyei jogú város a Maros partján, híres a Kultúrpalotáról.", ro: "Reședință de județ pe Mureș, cunoscută pentru Palatul Culturii.", en: "County seat on the Mureș, famed for its Palace of Culture." },
     facts: { de: ["Kulturpalast (1913) mit Jugendstilsälen.", "Teleki-Bolyai-Bibliothek.", "Medizinische Universität."], hu: ["Kultúrpalota (1913) szecessziós termekkel.", "Teleki-Bolyai Könyvtár.", "Orvosi egyetem."], ro: ["Palatul Culturii (1913) cu săli Art Nouveau.", "Biblioteca Teleki-Bolyai.", "Universitate de Medicină."], en: ["Palace of Culture (1913) with Art Nouveau halls.", "Teleki-Bolyai Library.", "Medical University."] },
-    image: "/geo-images/romania/city-targu-mures.webp", coa: "/geo-images/romania/coa_city-targu-mures.svg",
+    image: "/geo-images/romania/city-targu-mures.webp",
   },
   {
     id: "city-baia-mare", type: "state-capital", parent: "RO-MM", coords: [23.5802, 47.6578],
     name: { de: "Frauenbach", hu: "Nagybánya", ro: "Baia Mare", en: "Baia Mare" },
     description: { de: "Bergbaustadt im Maramureș, Zentrum der Nagybánya-Malerschule.", hu: "Bányászváros Máramarosban, a Nagybányai festőiskola központja.", ro: "Oraș minier în Maramureș, centru al Școlii de pictură Baia Mare.", en: "Mining town in Maramureș, home of the Baia Mare Painters' School." },
     facts: { de: ["Stefansturm (15. Jh.).", "Künstlerkolonie ab 1896.", "Nationales Dorfmuseum Maramureș in der Nähe."], hu: ["István-torony (15. század).", "Művésztelep 1896-tól.", "Máramarosi falumúzeum közelben."], ro: ["Turnul Ștefan (sec. XV).", "Colonia de pictori din 1896.", "Muzeul Satului Maramureșean."], en: ["Stephen's Tower (15th c.).", "Artist colony from 1896.", "Maramureș Village Museum nearby."] },
-    image: "/geo-images/romania/city-baia-mare.webp", coa: "/geo-images/romania/coa_city-baia-mare.svg",
+    image: "/geo-images/romania/city-baia-mare.webp",
   },
   {
     id: "city-bacau", type: "state-capital", parent: "RO-BC", coords: [26.9175, 46.5671],
     name: { de: "Bacău", hu: "Bákó", ro: "Bacău", en: "Bacău" },
     description: { de: "Industriestadt in der Moldau am Fluss Bistrița.", hu: "Moldvai ipari város a Beszterce folyó partján.", ro: "Oraș industrial moldovean, pe Bistrița.", en: "Moldavian industrial city on the Bistrița river." },
     facts: { de: ["Luftfahrt- und Maschinenbauindustrie.", "Fürstenhaus Ștefan cel Mare.", "Nähe zum Nemira-Gebirge."], hu: ["Repülőgép- és gépgyártás.", "Nagy István fejedelmi háza.", "Közeli Nemira-hegység."], ro: ["Industrie aeronautică și de utilaj.", "Curtea Domnească a lui Ștefan cel Mare.", "Munții Nemira aproape."], en: ["Aerospace and machinery industry.", "Princely Court of Stephen the Great.", "Near the Nemira Mountains."] },
-    image: "/geo-images/romania/city-bacau.webp", coa: "/geo-images/romania/coa_city-bacau.svg",
+    image: "/geo-images/romania/city-bacau.webp",
   },
   {
     id: "city-alba-iulia", type: "state-capital", parent: "RO-AB", coords: [23.5805, 46.0667],
@@ -499,7 +499,7 @@ export const romaniaCities: POI[] = [
     description: { de: "Krönungsstadt und Symbol der rumänischen Einheit von 1918.", hu: "Koronázó város és az 1918-as román egyesülés jelképe.", ro: "Orașul încoronării și simbol al Marii Uniri de la 1918.", en: "Coronation city and symbol of the 1918 Great Union." },
     facts: { de: ["Alba-Carolina-Zitadelle (18. Jh.).", "Krönungskathedrale.", "Michael-Kathedrale (Katholisch)."], hu: ["Alba-Carolina vár (18. század).", "Koronázó székesegyház.", "Szent Mihály-székesegyház (katolikus)."], ro: ["Cetatea Alba Carolina (sec. XVIII).", "Catedrala Încoronării.", "Catedrala Sf. Mihail."], en: ["Alba Carolina Citadel (18th c.).", "Coronation Cathedral.", "St. Michael's Cathedral."] },
     historyPeriod: "ww1", historyYear: 1918,
-    image: "/geo-images/romania/city-alba-iulia.webp", coa: "/geo-images/romania/coa_city-alba-iulia.svg",
+    image: "/geo-images/romania/city-alba-iulia.webp",
   },
   {
     id: "city-suceava", type: "state-capital", parent: "RO-SV", coords: [26.2556, 47.6514],
@@ -507,7 +507,7 @@ export const romaniaCities: POI[] = [
     description: { de: "Ehemalige Hauptstadt des Fürstentums Moldau.", hu: "A Moldvai Fejedelemség egykori fővárosa.", ro: "Fosta capitală a Moldovei medievale.", en: "Former capital of medieval Moldavia." },
     facts: { de: ["Festung von Suceava.", "Tor zur Bukowina (Klöster).", "Stefan der Große regierte hier."], hu: ["Szucsávai vár.", "Bukovina kapuja (kolostorok).", "Nagy István innen uralkodott."], ro: ["Cetatea de Scaun a Sucevei.", "Poarta Bucovinei (mănăstiri).", "Ștefan cel Mare a domnit aici."], en: ["Citadel of Suceava.", "Gateway to Bukovina (monasteries).", "Stephen the Great ruled from here."] },
     historyPeriod: "middle-ages",
-    image: "/geo-images/romania/city-suceava.webp", coa: "/geo-images/romania/coa_city-suceava.svg",
+    image: "/geo-images/romania/city-suceava.webp",
   },
   {
     id: "city-targoviste", type: "city", parent: "RO-DB", coords: [25.4572, 44.9254],
@@ -538,14 +538,14 @@ export const romaniaCities: POI[] = [
     name: { de: "Szeklerburg", hu: "Csíkszereda", ro: "Miercurea Ciuc", en: "Miercurea Ciuc" },
     description: { de: "Szeklerstadt am Oberlauf des Olt.", hu: "Székely város az Olt felső folyásánál.", ro: "Oraș secuiesc, pe cursul superior al Oltului.", en: "Székely town on the upper Olt." },
     facts: { de: ["Miko-Burg (17. Jh.).", "Wallfahrt Șumuleu Ciuc / Csíksomlyó.", "Ciuc-Bier."], hu: ["Mikó-vár (17. század).", "Csíksomlyói búcsú.", "Csíki sör."], ro: ["Cetatea Mikó (sec. XVII).", "Pelerinajul Șumuleu Ciuc.", "Berea Ciuc."], en: ["Mikó Castle (17th c.).", "Șumuleu Ciuc pilgrimage.", "Ciuc beer."] },
-    image: "/geo-images/romania/city-miercurea-ciuc.webp", coa: "/geo-images/romania/coa_city-miercurea-ciuc.svg",
+    image: "/geo-images/romania/city-miercurea-ciuc.webp",
   },
   {
     id: "city-tulcea", type: "state-capital", parent: "RO-TL", coords: [28.8, 45.175],
     name: { de: "Tulcea", hu: "Tulcea", ro: "Tulcea", en: "Tulcea" },
     description: { de: "Tor zum Donaudelta.", hu: "A Duna-delta kapuja.", ro: "Poarta Deltei Dunării.", en: "Gateway to the Danube Delta." },
     facts: { de: ["Ausgangspunkt ins Delta.", "Denkmal der Unabhängigkeit (1878).", "Seehafen."], hu: ["Kiindulópont a deltába.", "Függetlenségi emlékmű (1878).", "Folyami kikötő."], ro: ["Punct de plecare în Deltă.", "Monumentul Independenței (1878).", "Port fluvial."], en: ["Starting point into the Delta.", "Independence Monument (1878).", "River port."] },
-    image: "/geo-images/romania/city-tulcea.webp", coa: "/geo-images/romania/coa_city-tulcea.svg",
+    image: "/geo-images/romania/city-tulcea.webp",
   },
 ];
 
@@ -1087,7 +1087,7 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Teatrul Național București", en: "National Theatre Bucharest", hu: "Bukaresti Nemzeti Színház", de: "Nationaltheater Bukarest" },
     description: { ro: "Cel mai mare teatru din România.", en: "The largest theatre in Romania.", hu: "Románia legnagyobb színháza.", de: "Das größte Theater in Rumänien." },
     facts: { ro: ["Clădirea actuală a fost refăcută recent."], en: ["Current building was recently renovated."], hu: ["A jelenlegi épületet nemrég újították fel."], de: ["Das aktuelle Gebäude wurde kürzlich renoviert."] },
-    image: ""
+    image: "/geo-images/romania/cultura-teatrul-national.webp"
   },
   {
     id: "cultura-muzeul-taranului", type: "landmark", parent: "RO-B", coords: [26.0836, 44.4544],
@@ -1101,7 +1101,7 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Opera Națională Română Cluj-Napoca", en: "Romanian National Opera, Cluj-Napoca", hu: "Kolozsvári Román Nemzeti Opera", de: "Rumänische Nationaloper Cluj-Napoca" },
     description: { ro: "Prima instituție lirică a țării.", en: "The country's first lyrical institution.", hu: "Az ország első lírai intézménye.", de: "Die erste lyrische Einrichtung des Landes." },
     facts: { ro: ["Inaugurată în 1919."], en: ["Inaugurated in 1919."], hu: ["1919-ben nyílt meg."], de: ["1919 eingeweiht."] },
-    image: ""
+    image: "/geo-images/romania/cultura-opera-cluj.webp"
   },
   {
     id: "cultura-festivalul-enab", type: "landmark", parent: "RO-SB", coords: [24.15, 45.8],
@@ -1115,28 +1115,28 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Muzeul Național Brukenthal", en: "Brukenthal National Museum", hu: "Brukenthal Nemzeti Múzeum", de: "Brukenthal-Nationalmuseum" },
     description: { ro: "Cel mai vechi muzeu din România.", en: "The oldest museum in Romania.", hu: "Románia legrégebbi múzeuma.", de: "Das älteste Museum in Rumänien." },
     facts: { ro: ["Fondat de Samuel von Brukenthal."], en: ["Founded by Samuel von Brukenthal."], hu: ["Samuel von Brukenthal alapította."], de: ["Gegründet von Samuel von Brukenthal."] },
-    image: ""
+    image: "/geo-images/romania/cultura-muzeul-brukenthal.webp"
   },
   {
     id: "cultura-palatul-culturii", type: "landmark", parent: "RO-IS", coords: [27.585, 47.157],
     name: { ro: "Palatul Culturii Iași", en: "Palace of Culture Iași", hu: "Jászvásári Kultúrpalota", de: "Kulturpalast Iași" },
     description: { ro: "Edificiu emblematic în stil neogotic.", en: "Iconic neo-Gothic building.", hu: "Emblematikus neogótikus épület.", de: "Ikonisches neugotisches Gebäude." },
     facts: { ro: ["Găzduiește patru muzee mari."], en: ["Houses four major museums."], hu: ["Négy nagy múzeumnak ad otthont."], de: ["Beherbergt vier große Museen."] },
-    image: ""
+    image: "/geo-images/romania/cultura-palatul-culturii.webp"
   },
   {
     id: "cultura-untold", type: "landmark", parent: "RO-CJ", coords: [23.572, 46.768],
     name: { ro: "UNTOLD Festival", en: "UNTOLD Festival", hu: "UNTOLD Fesztivál", de: "UNTOLD Festival" },
     description: { ro: "Cel mai mare festival de muzică din România.", en: "The largest music festival in Romania.", hu: "Románia legnagyobb zenei fesztiválja.", de: "Das größte Musikfestival in Rumänien." },
     facts: { ro: ["Atrage sute de mii de participanți anual."], en: ["Attracts hundreds of thousands of attendees annually."], hu: ["Évente több százezer résztvevőt vonz."], de: ["Zieht jährlich Hunderttausende von Besuchern an."] },
-    image: ""
+    image: "/geo-images/romania/cultura-untold.webp"
   },
   {
     id: "cultura-saga-festival", type: "landmark", parent: "RO-B", coords: [26.08, 44.47],
     name: { ro: "SAGA Festival", en: "SAGA Festival", hu: "SAGA Fesztivál", de: "SAGA Festival" },
     description: { ro: "Festival de muzică electronică din București.", en: "Electronic music festival in Bucharest.", hu: "Elektronikus zenei fesztivál Bukarestben.", de: "Elektronisches Musikfestival in Bukarest." },
     facts: { ro: ["Se desfășoară în București."], en: ["Takes place in Bucharest."], hu: ["Bukarestben rendezik."], de: ["Findet in Bukarest statt."] },
-    image: ""
+    image: "/geo-images/romania/cultura-saga-festival.webp"
   },
   {
     id: "cultura-muzeul-antipa", type: "landmark", parent: "RO-B", coords: [26.085, 44.453],
@@ -1150,7 +1150,7 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Opera Națională Română Timișoara", en: "Romanian National Opera Timișoara", hu: "Temesvári Román Nemzeti Opera", de: "Rumänische Nationaloper Timișoara" },
     description: { ro: "Instituție culturală de prestigiu în Banat.", en: "Prestigious cultural institution in Banat.", hu: "Rangos kulturális intézmény a Bánságban.", de: "Renommierte kulturelle Einrichtung im Banat." },
     facts: { ro: ["Situată în Piața Victoriei."], en: ["Located in Victory Square."], hu: ["A Győzelem téren található."], de: ["Am Siegesplatz gelegen."] },
-    image: ""
+    image: "/geo-images/romania/cultura-opera-timisoara.webp"
   }
 ];
 
@@ -1163,28 +1163,28 @@ export const romaniaTraditions: POI[] = [
     name: { ro: "Mărțișorul", en: "Mărțișor (March Amulet)", hu: "Mărțișor", de: "Mărțișor" },
     description: { ro: "Sărbătoarea venirii primăverii la 1 martie.", en: "Celebration of the arrival of spring on March 1st.", hu: "A tavasz eljövetelének ünnepe március 1-jén.", de: "Feier der Ankunft des Frühlings am 1. März." },
     facts: { ro: ["Inclus în patrimoniul imaterial UNESCO."], en: ["Included in UNESCO intangible heritage."], hu: ["Az UNESCO szellemi kulturális örökség része."], de: ["In das immaterielle UNESCO-Kulturerbe aufgenommen."] },
-    image: ""
+    image: "/geo-images/romania/trad-martisor.webp"
   },
   {
     id: "trad-calusari", type: "historical", parent: "RO-OT", coords: [24.36, 44.43],
     name: { ro: "Dansul Călușarilor", en: "Călușari Dance", hu: "Călușari tánc", de: "Călușari-Tanz" },
     description: { ro: "Dans tradițional românesc cu funcție rituală.", en: "Traditional Romanian dance with a ritual function.", hu: "Hagyományos román rituális tánc.", de: "Traditioneller rumänischer Ritualtanz." },
     facts: { ro: ["Inclus în patrimoniul UNESCO din 2005."], en: ["Included in UNESCO heritage since 2005."], hu: ["2005 óta az UNESCO örökség része."], de: ["Seit 2005 im UNESCO-Kulturerbe."] },
-    image: ""
+    image: "/geo-images/romania/trad-calusari.webp"
   },
   {
     id: "trad-mucenici", type: "historical", parent: "RO", coords: [26.0, 44.5],
     name: { ro: "Sărbătoarea Mucenicilor", en: "Martyrs' Day (Mucenici)", hu: "Mucenici ünnepe", de: "Tag der Märtyrer (Mucenici)" },
     description: { ro: "Tradiție culinară și religioasă pe 9 martie.", en: "Culinary and religious tradition on March 9th.", hu: "Kulináris és vallási hagyomány március 9-én.", de: "Kulinarische und religiöse Tradition am 9. März." },
     facts: { ro: ["Se prepară colaci în formă de 8."], en: ["Figure-8 shaped pastries are made."], hu: ["8-as alakú kalácsokat készítenek."], de: ["Es werden Gebäcke in Form einer 8 gebacken."] },
-    image: ""
+    image: "/geo-images/romania/trad-mucenici.webp"
   },
   {
     id: "trad-paste", type: "historical", parent: "RO", coords: [25.5, 46.0],
     name: { ro: "Tradiții de Paște", en: "Easter Traditions", hu: "Húsvéti hagyományok", de: "Ostertraditionen" },
     description: { ro: "Încondeierea ouălor și slujba de Înviere.", en: "Egg painting and the Resurrection service.", hu: "Tojásírás és a feltámadási mise.", de: "Eier bemalen und der Auferstehungsgottesdienst." },
     facts: { ro: ["Ouăle roșii sunt un simbol principal."], en: ["Red eggs are a main symbol."], hu: ["A piros tojások a fő szimbólumok."], de: ["Rote Eier sind ein Hauptsymbol."] },
-    image: ""
+    image: "/geo-images/romania/trad-paste.webp"
   },
   {
     id: "trad-sanzaiene", type: "historical", parent: "RO", coords: [24.0, 46.5],
@@ -1226,7 +1226,7 @@ export const romaniaTraditions: POI[] = [
     name: { ro: "Paparudele", en: "Paparuda", hu: "Paparuda (Esőtánc)", de: "Paparuda (Regentanz)" },
     description: { ro: "Ritual arhaic pentru invocarea ploii.", en: "Archaic ritual for invoking rain.", hu: "Archaikus rituálé az eső hívására.", de: "Archaisches Ritual zur Beschwörung von Regen." },
     facts: { ro: ["Practicat în perioade de secetă."], en: ["Practiced during periods of drought."], hu: ["Aszály idején gyakorolják."], de: ["Wird während Dürreperioden praktiziert."] },
-    image: ""
+    image: "/geo-images/romania/trad-paparudele.webp"
   }
 ];
 
@@ -1239,21 +1239,21 @@ export const romaniaWildlife: POI[] = [
     name: { ro: "Ursul Brun", en: "Brown Bear", hu: "Barna medve", de: "Braunbär" },
     description: { ro: "Cea mai mare populație din Europa.", en: "Largest population in Europe.", hu: "A legnagyobb populáció Európában.", de: "Größte Population in Europa." },
     facts: { ro: ["Peste 6000 de exemplare în Carpați."], en: ["Over 6000 individuals in the Carpathians."], hu: ["Több mint 6000 példány a Kárpátokban."], de: ["Über 6000 Exemplare in den Karpaten."] },
-    image: ""
+    image: "/geo-images/romania/wild-ursul-brun.webp"
   },
   {
     id: "wild-rasul", type: "animal-habitat", parent: "RO-NT", coords: [26.0, 47.0],
     name: { ro: "Râsul (Lynx)", en: "Carpathian Lynx", hu: "Kárpáti hiúz", de: "Karpatenluchs" },
     description: { ro: "Cea mai mare felină sălbatică din Europa.", en: "The largest wild feline in Europe.", hu: "Európa legnagyobb vadmacskája.", de: "Die größte Wildkatze in Europa." },
     facts: { ro: ["Trăiește în păduri dese."], en: ["Lives in dense forests."], hu: ["Sűrű erdőkben él."], de: ["Lebt in dichten Wäldern."] },
-    image: ""
+    image: "/geo-images/romania/wild-rasul.webp"
   },
   {
     id: "wild-zimbrul", type: "animal-habitat", parent: "RO-NT", coords: [26.2, 47.2],
     name: { ro: "Zimbrul European", en: "European Bison", hu: "Európai bölény", de: "Wisent" },
     description: { ro: "Cel mai mare mamifer terestru din Europa, reintrodus în natură.", en: "The largest land mammal in Europe, reintroduced.", hu: "Európa legnagyobb szárazföldi emlőse, visszatelepítve.", de: "Das größte Landsäugetier Europas, wieder eingeführt." },
     facts: { ro: ["Prezent în rezervații precum Vânători-Neamț."], en: ["Present in reserves like Vânători-Neamț."], hu: ["Vânători-Neamț rezervátumában él."], de: ["Präsent im Reservat Vânători-Neamț."] },
-    image: ""
+    image: "/geo-images/romania/wild-zimbrul.webp"
   },
   {
     id: "wild-vidra", type: "animal-habitat", parent: "RO-TL", coords: [29.0, 45.0],
@@ -1274,7 +1274,7 @@ export const romaniaWildlife: POI[] = [
     name: { ro: "Capra Neagră", en: "Chamois", hu: "Zerge", de: "Gämse" },
     description: { ro: "Se găsește pe crestele stâncoase ale Carpaților.", en: "Found on the rocky ridges of the Carpathians.", hu: "A Kárpátok sziklás gerincein található.", de: "Zu finden auf den felsigen Kämmen der Karpaten." },
     facts: { ro: ["Adaptat la mediul alpin."], en: ["Adapted to the alpine environment."], hu: ["Alpesi környezethez alkalmazkodott."], de: ["An die alpine Umgebung angepasst."] },
-    image: ""
+    image: "/geo-images/romania/wild-capra-neagra.webp"
   },
   {
     id: "wild-sturionul", type: "animal-habitat", parent: "RO-TL", coords: [29.6, 45.1],
@@ -1288,7 +1288,7 @@ export const romaniaWildlife: POI[] = [
     name: { ro: "Marmota", en: "Marmot", hu: "Marmota", de: "Murmeltier" },
     description: { ro: "Rozător specific zonelor alpine din Făgăraș și Retezat.", en: "Rodent specific to the alpine areas of Făgăraș and Retezat.", hu: "A Fogarasi-havasok és a Retyezát alpesi övezetének jellemző rágcsálója.", de: "Nagetier der alpinen Zonen von Făgăraș und Retezat." },
     facts: { ro: ["Hibernează în timpul iernii."], en: ["Hibernates during winter."], hu: ["Télen téli álmot alszik."], de: ["Hält Winterschlaf."] },
-    image: ""
+    image: "/geo-images/romania/wild-marmota.webp"
   },
   {
     id: "wild-cocosul-de-munte", type: "animal-habitat", parent: "RO-SV", coords: [25.5, 47.4],
@@ -1343,14 +1343,14 @@ export const romaniaFolk: POI[] = [
     name: { ro: "Țara Oașului", en: "Oaș Country", hu: "Avasság (Avas)", de: "Oascher Land" },
     description: { ro: "Regiune faimoasă pentru portul colorat și muzica tradițională.", en: "Region famous for colorful costumes and traditional music.", hu: "A színes viseletről és a hagyományos zenéről híres vidék.", de: "Region berühmt für bunte Trachten und traditionelle Musik." },
     facts: { ro: ["Nuntile oșenești sunt spectaculoase."], en: ["Oaș weddings are spectacular."], hu: ["Az avasi esküvők látványosak."], de: ["Oascher Hochzeiten sind spektakulär."] },
-    image: ""
+    image: "/geo-images/romania/folk-tara-oasului.webp"
   },
   {
     id: "folk-dobrogea", type: "region", parent: "RO-TL", coords: [28.5, 44.8],
     name: { ro: "Tradiții Dobrogene", en: "Dobruja Traditions", hu: "Dobrudzsai hagyományok", de: "Dobrudscha Traditionen" },
     description: { ro: "Mix cultural unic între români, turci, tătari și lipoveni.", en: "Unique cultural mix between Romanians, Turks, Tatars, and Lipovans.", hu: "Egyedülálló kulturális keverék románok, törökök, tatárok és lipovánok között.", de: "Einzigartige kulturelle Mischung aus Rumänen, Türken, Tataren und Lippowanern." },
     facts: { ro: ["Gastronomia include pește și plăcinte."], en: ["Gastronomy includes fish and pies."], hu: ["A gasztronómia halat és lepényt tartalmaz."], de: ["Gastronomie umfasst Fisch und Pasteten."] },
-    image: ""
+    image: "/geo-images/romania/folk-dobrogea.webp"
   },
   {
     id: "folk-transilvania-saseasca", type: "region", parent: "RO-SB", coords: [24.5, 46.0],
@@ -1378,6 +1378,523 @@ export const romaniaFolk: POI[] = [
 // ---------------------------------------------------------------------------
 // 12) ÖSSZES POI EGYBEFŰZVE
 // ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// EXTRA POIS FOR MISSING COUNTIES
+// ---------------------------------------------------------------------------
+export const romaniaExtraPois: POI[] = [
+  // ARAD (RO-AR)
+  {
+    id: "ro-poi-moneasa", type: "landmark", parent: "RO-AR", coords: [22.2583, 46.4583],
+    name: { de: "Moneasa", hu: "Menyháza", ro: "Stațiunea Moneasa", en: "Moneasa Resort" },
+    description: { de: "Bekannter Kurort.", hu: "Híres gyógyüdülőhely.", ro: "Stațiune balneoclimaterică cunoscută.", en: "Well-known spa resort." },
+    facts: { de: [], hu: [], ro: ["Moneasa (în maghiară Menyháza) este satul de reședință al comunei cu același nume din județul Arad, Crișana, România."], en: ["Moneasa (Hungarian: Menyháza) is a commune in Arad County, Romania.", "Its administrative surface stretches over 6,824 hectares (16,860 acres) and it is composed of two villages, Moneasa and Rănușa (Kisróna)."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-cetatea-siria", type: "historical", parent: "RO-AR", coords: [21.6333, 46.2667],
+    name: { de: "Burg Șiria", hu: "Világosvári vár", ro: "Cetatea Șiria", en: "Șiria Fortress" },
+    description: { de: "Ruinen einer mittelalterlichen Burg.", hu: "Egy középkori vár romjai.", ro: "Ruinele unei cetăți medievale.", en: "Ruins of a medieval fortress." },
+    facts: { de: ["Diese Liste führt (noch unvollständig) Burgen, Festungen, Kirchenburgen, Schlösser und Wehrklöster in Rumänien auf.", "Marienburg, Feldioara (Marienberg), Kreis Brașov Zitadelle Alba Carolina, Alba Iulia (Karlsburg), Kreis Alba Alexandru-Ghica-Palast, Moara Vlăsiei-Căciulați, Kreis Ilfov Festung Arad, Arad, Kreis Arad Schloss Bánffy, Bonțida (Bruck), Kreis Cluj Burg Bethlen-Haller, Cetatea de Baltă Schloss Bran, Bran (Törzburg), Kreis Brașov Brukenthal’sche Sommerresidenz, Avrig (Freck), Kreis Sibiu Schloss Csernovics, Macea (Matscha), Kreis Arad Cetatea Tricule, Svinița, Kreis Mehedinți am Ufer der Donau Chindia-Turm, Târgoviște, Kreis Dâmbovița Burgruine Colț, Râu de Mori (Mühlendorf), Kreis Hunedoara Schloss Cotroceni, Bukarest Burgruine Deva, Deva, Kreis Hunedoara Burg Făgăraș, Făgăraș (Fogarasch), Kreis Brașov Fürstenhof Târgoviște (Curtea Domnească), Târgoviște, Kreis Dâmbovița Schloss Gilău, Gilău (Gela), Kreis Cluj Burg Hunedoara, Hunedoara (Eisenmarkt), Kreis Hunedoara Schloss Hunyadi, Timișoara (Temeswar), Kreis Timiș Burg Kelling (Festung Câlnic), Câlnic (dt.", "Kelling) Schloss Kendeffy, Sântămăria-Orlea (Liebfrauen), Kreis Hunedoara Burg Lazar (Castelul Lazar), Lăzarea, Kreis Harghita Burg Mălăieşti (auch Burg Saracinesti, rumänisch Cetatea Mălăieşti (Saracinesti)), Sălașu de Sus-Mălăieşti Burg Mikó (Castelul Mikó), Miercurea Ciuc, Kreis Harghita Schloss Mogoșoaia, Bukarest Burg Neamț, Târgu Neamț, Kreis Neamț Schloss Peleș, Sinaia, Kreis Prahova Schloss Pelișor, Sinaia, Kreis Prahova Burg Poenari, Arefu, Kreis Argeș Bauernburg Râșnov, Râșnov (Rosenau), Kreis Brașov Burg Rupea, Rupea (Reps), Kreis Brașov Burgruine Saschiz, Saschiz (Keisd), Kreis Mureș Schloss Săvârșin, Săvârșin (Soborschin), Kreis Arad Burgruine Schwarzburg (Cetatea Neagra; auch: castrum Feketewholum), Codlea (Zeiden), auf dem Zeidner Berg Burg Suceava, Suceava (Suczawa), Kreis Suceava Burg Sighișoara (lat."], hu: ["Szucsáva, régi magyar nevén Szőcsvásár(románul Suceava, lengyelül Suczawa, ukránul Сучава, jiddisül שאָץ) nagyváros Romániában, Suceava megye központja.", "1388 és 1565 között Szucsáva volt az első központosított moldvai állam fővárosa."], ro: ["Cetatea Șiria este o cetate monumente istoric (cod LMI AR-II-a-A-00650), datând din secolul al XIII-lea, zidită pe Dealul Cetății (496 m), de unde domină regiunea din jurul localității Șiria."], en: ["This is a list of castles and fortresses declared historic monuments by Romania's Ministry of Culture."] },
+    image: ""
+  },
+
+  // BACĂU (RO-BC)
+  {
+    id: "ro-poi-salina-targu-ocna", type: "landmark", parent: "RO-BC", coords: [26.5986, 46.2731],
+    name: { de: "Salzbergwerk Târgu Ocna", hu: "Aknavásár fémbánya", ro: "Salina Târgu Ocna", en: "Târgu Ocna Salt Mine" },
+    description: { de: "Touristisches Salzbergwerk.", hu: "Turisztikai sóbánya.", ro: "Salină turistică.", en: "Tourist salt mine." },
+    facts: { de: ["Târgu Ocna (deutsch veraltet Stadt Okna, ungarisch Aknavásár) ist eine Stadt im Kreis Bacău in Rumänien."], hu: ["Azoknál az országoknál, ahol két oszlopban vannak a latin nevek, az első oszlop a középkori és újkori latin nevet tartalmazza.", "A második oszlopban az ókori latin név látható, amennyiben az eltér az újkoritól, illetve ha a település csak az ókorban létezett."], ro: ["Salina Târgu Ocna este o exploatare minieră a sării aflată în stațiunea balneoclimaterică Târgu Ocna din Județul Bacău, Moldova, România.", "Este a treia cea mai mare salină și una din cele mai vechi din România, ce aparține Societății Naționale a Sării „Salrom“ S.A.", "Societatea deține și cea mai mare bază de tratament din țară, amplasată în mina Trotuș la 240 m adâncime, ce oferă condiții pentru relaxare, mișcare și tratarea afecțiunilor respiratorii."], en: ["Târgu Ocna (Romanian pronunciation: [ˌtɨrɡu ˈokna]; Hungarian: Aknavásár) is a town in Bacău County, Romania.", "It administers two villages, Poieni and Vâlcele.", "The town is situated on the left bank of the Trotuș River, an affluent of the Siret, and on a branch railway which crosses the Ghimeș Pass from Moldavia into Transylvania."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-slanic-moldova", type: "landmark", parent: "RO-BC", coords: [26.4386, 46.2069],
+    name: { de: "Slănic Moldova", hu: "Szlanikfürdő", ro: "Slănic Moldova", en: "Slănic Moldova" },
+    description: { de: "Kurort mit Mineralquellen.", hu: "Gyógyüdülőhely ásványvízforrásokkal.", ro: "Stațiune cu izvoare minerale.", en: "Resort with mineral springs." },
+    facts: { de: ["Slănic-Moldova (deutsch Moldenmarkt, ungarisch Szlanikfürdő) ist eine Kleinstadt im Kreis Bacău in der Region Westmoldau in Rumänien.", "Die Kleinstadt ist auch als Kurort mit kräftigen salinischen Heilquellen bei Târgu Ocna bekannt.", "Slănic ist auch der Name einer ehemals bedeutenden Staatssaline in der Walachei."], hu: ["Szlanikfürdő (románul Slănic-Moldova) város Romániában, Moldvában, Bákó megyében.", "A települést „Moldova gyöngyének” is nevezik.", "A lakosságban a moldvai csángók vannak többségben, de mára már nagyon kevesen beszélnek magyarul."], ro: [], en: [] },
+    image: ""
+  },
+
+  // BIHOR (RO-BH)
+  {
+    id: "ro-poi-pestera-ursilor", type: "landmark", parent: "RO-BH", coords: [22.5683, 46.5531],
+    name: { de: "Bärenhöhle", hu: "Medve-barlang", ro: "Peștera Urșilor", en: "Bears' Cave" },
+    description: { de: "Höhle mit Höhlenbärenfossilien.", hu: "Barlang barlangi medve fosszíliákkal.", ro: "Peșteră cu fosile de urși de peșteră.", en: "Cave with cave bear fossils." },
+    facts: { de: ["Peștera Urșilor (deutsch Bärenhöhle) ist eine der bekanntesten Höhlen in Rumänien und liegt im Kreischgebiet, im Westen von Siebenbürgen, ungefähr 75 Kilometer südöstlich der Kreisstadt Oradea im Kreis Bihor in der Nähe der Gemeinde Pietroasa, Ortsteil Chișcău."], hu: ["Magyarország Medve-barlang, bátonyterenyei barlang Medve-barlang, nagybörzsönyi barlang Medve-barlang, váci barlang Románia Medve-barlang, homoródalmási barlang Medve-barlang (Peştera Urşilor), kiskohi barlang Medve-barlang (Grota Urșilor), menyházi barlang Szlovákia Medve-barlang, (Medvedia jaskyňa), a Magas-Tátrában, a Jávor-völgyben Hasonló néven Medvehagymás-barlang Balatonedericsen Medvekoponyás-barlang a Parasznyán található Kő-lyuk másik elnevezése Medve-kői-sziklaüreg Bakonyszücsön Medvetorok-barlang Boldogkőújfalun Medvetükrös-barlang Szilvásváradon Nagymedve-barlang Miskolcon"], ro: ["Peștera Urșilor a fost descoperită în 1975, cu ocazia unei dinamitări executate la cariera de marmură din zonă.", "Este unul dintre principalele obiective turistice ale Munților Apuseni, ea aflându-se în județul Bihor, în imediata apropiere a localității Chișcău, comuna Pietroasa, la o altitudine de 482 m."], en: [] },
+    image: ""
+  },
+  {
+    id: "ro-poi-baile-felix", type: "landmark", parent: "RO-BH", coords: [21.9833, 46.9833],
+    name: { de: "Thermalbad Felix", hu: "Félixfürdő", ro: "Băile Felix", en: "Băile Felix" },
+    description: { de: "Größtes Thermalbad in Rumänien.", hu: "Románia legnagyobb termálfürdője.", ro: "Cea mai mare stațiune balneară din România.", en: "Largest thermal spa in Romania." },
+    facts: { de: ["Băile Felix (deutsch Bad Felix, ungarisch Félixfürdő) ist ein Kurort mit Thermalquellen von internationalem Ruf im Kreis Bihor im westlichen Rumänien.", "Die Heilquellen werden seit etwa tausend Jahren genutzt.", "Die Wassertemperatur beträgt 20 bis 49 °C."], hu: [], ro: ["Băile Felix (în maghiară Félixfürdő) este un sat în comuna Sânmartin din județul Bihor, Crișana, România.", "Băile Felix se află la ca.", "10 km sud de municipiul Oradea."], en: ["Băile Felix (Hungarian: Félixfürdő) is a thermal spa resort near the commune of Sânmartin in Bihor County, Transylvania, Romania.", "Băile Felix is at a close distance to Oradea, a major city in western Romania."] },
+    image: ""
+  },
+
+  // BISTRIȚA-NĂSĂUD (RO-BN)
+  {
+    id: "ro-poi-bistrita", type: "city", parent: "RO-BN", coords: [24.5, 47.1333],
+    name: { de: "Bistritz", hu: "Beszterce", ro: "Bistrița", en: "Bistrița" },
+    description: { de: "Historische Stadt in Siebenbürgen.", hu: "Történelmi város Erdélyben.", ro: "Oraș istoric în Transilvania.", en: "Historic city in Transylvania." },
+    facts: { de: ["Bistrița (, deutsch Bistritz, siebenbürgisch-sächsisch Nīzn [Nösen] oder Bistriz, ungarisch Beszterce [ˈbɛstɛrt͜sɛ]) ist eine Stadt im Nordosten von Siebenbürgen im Kreis Bistrița-Năsăud in Rumänien.", "Bistrița ist Zentrum des Nösnerlandes.", "Durch die Stadt fließt der gleichnamige Fluss Bistrița."], hu: [], ro: ["Bistrița (în germană Bistritz, formă arhaică Nösen; în maghiară Beszterce; în dialectul săsesc Nîsner-Bistritz, Nîzn, Bästerts, Bîsterts, Bistriz) este municipiul de reședință al județului Bistrița-Năsăud, Transilvania, România, format din localitățile componente Bistrița (reședința), Ghinda, Sărata, Sigmir, Slătinița, Unirea și Viișoara.", "Este și cel mai mare oraș din acest județ și al 25-lea din țară, cu o populație de 78,877 locuitori (2021).", "Ocupă o suprafață de 14.547 ha."], en: ["Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.", "It is situated on the Bistrița River.", "The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő)."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-parcul-rodnei", type: "landmark", parent: "RO-BN", coords: [24.8, 47.5333],
+    name: { de: "Nationalpark Rodna-Gebirge", hu: "Radnai-havasok Nemzeti Park", ro: "Parcul Național Munții Rodnei", en: "Rodna Mountains National Park" },
+    description: { de: "Höchstes Gebirge der Ostkarpaten.", hu: "A Keleti-Kárpátok legmagasabb hegysége.", ro: "Cei mai înalți munți din Carpații Orientali.", en: "Highest mountains of the Eastern Carpathians." },
+    facts: { de: ["i4i6 Der Nationalpark Rodna-Gebirge (rumänisch Parcul Național Munții Rodnei) liegt im Rodna-Gebirge im Norden Rumäniens.", "Er erstreckt sich auf einem Areal von 46.399 Hektar in den Kreisen Maramureș und Bistrița-Năsăud.", "Der 1990 ausgewiesenen Park umfasst eine Fläche von 472 km² und hat die WDPA ID 11171."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: ["Parcul Național Rodna este o arie protejată de interes național ce corespunde categoriei a II-a IUCN (parc național) situată în nordul României, pe teritoriile județelor Bistrița-Năsăud și Maramureș, în zona centrală a Munților Rodnei.", "Parcul Național Munții Rodnei este desemnat internațional ca Rezervație a biosferei de către Comitetul UNESCO, în cadrul programului \"Omul și Biosfera\"."], en: ["The Rodna Mountains National Park (Romanian: Parcul Național Munții Rodnei) is a protected area (national park category II IUCN) situated in Romania, in the administrative territory of counties Bistrița-Năsăud, Maramureș, and Suceava."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-lacul-colibita", type: "lake", parent: "RO-BN", coords: [24.8833, 47.1667],
+    name: { de: "Colibița-See", hu: "Kolibica-tó", ro: "Lacul Colibița", en: "Colibița Lake" },
+    description: { de: "Stausee mit sauberer Bergluft.", hu: "Víztározó tiszta hegyi levegővel.", ro: "Lac de acumulare cu aer montan curat.", en: "Reservoir with clean mountain air." },
+    facts: { de: [], hu: [], ro: ["Lacul Colibița este un lac artificial de acumulare din Munții Călimani, județul Bistrița-Năsăud.", "Lacul a fost creat prin construirea barajului Colibița pe cursul râului Bistrița, baraj amenajat în perioada 1977 - 1991 cu scop hidroenergetic, de alimentarea cu apă a localităților din aval, a industriei, irigații și regularizare a debitului apelor râului Bistrița.", "Lacul Colibița are suprafața de 270 ha, lungimea de 13 km și volumul de 65 mil m3 fiind situat la o altitudine de 900 m."], en: ["Bistrița (Romanian pronunciation: [ˈbistritsa] ; German: Bistritz, archaic Nösen; Transylvanian Saxon: Bästerts; Hungarian: Beszterce) is the capital city of Bistrița-Năsăud County, in northern Transylvania, Romania.", "It is situated on the Bistrița River.", "The city has a population of 78,877 inhabitants as of 2021 and administers six villages: Ghinda (Windau; Vinda), Sărata (Salz; Sófalva), Sigmir (Schönbirk; Szépnyír), Slătinița (Pintak; Pinták), Unirea (until 1950 Aldorf; Wallendorf; Aldorf) and Viișoara (Heidendorf; Besenyő)."] },
+    image: ""
+  },
+
+  // BOTOȘANI (RO-BT)
+  {
+    id: "ro-poi-botosani", type: "city", parent: "RO-BT", coords: [26.6664, 47.7408],
+    name: { de: "Botoschan", hu: "Botosán", ro: "Botoșani", en: "Botoșani" },
+    description: { de: "Kulturstadt im Norden der Moldau.", hu: "Kulturális város Észak-Moldvában.", ro: "Oraș cultural din nordul Moldovei.", en: "Cultural city in northern Moldavia." },
+    facts: { de: ["Botoșani ([] deutsch Botoschan oder auch Bottuschan) ist eine Stadt im Nordosten von Rumänien und liegt im gleichnamigen Kreis Botoșani.", "Die Stadt ist umgeben von den Ostkarpaten, der Republik Moldau und der Ukraine."], hu: [], ro: ["Botoșani este municipiul de reședință al județului cu același nume, Moldova, România.", "Se află în Câmpia Jijiei, la o altitudine de 170 m deasupra nivelului mării.", "Are o suprafață de 41,36 km²."], en: ["Botoșani (Romanian pronunciation: [botoˈʃanʲ] ) is the capital city of Botoșani County, in the northern part of Moldavia, Romania.", "Today, it is best known as the birthplace of many celebrated Romanians, including Mihai Eminescu, Nicolae Iorga and Grigore Antipa."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-casa-eminescu", type: "historical", parent: "RO-BT", coords: [26.55, 47.7667],
+    name: { de: "Eminescu Gedenkhaus", hu: "Eminescu Emlékház", ro: "Casa Memorială Mihai Eminescu", en: "Mihai Eminescu Memorial House" },
+    description: { de: "Geburtshaus des Nationaldichters.", hu: "A nemzeti költő szülőháza.", ro: "Casa unde s-a născut poetul național.", en: "Birthplace of the national poet." },
+    facts: { de: ["Dies ist eine Liste von Literaturmuseen und literarischen Gedenkstätten, sortiert nach Ländern und Regionen.", "Siehe auch: Liste von Schriftstellermuseen, sortiert nach den Nachnamen der Schriftsteller."], hu: ["Veronica Micle, eredeti nevén Ana Câmpeanu (Naszód, 1850.", "április 22.", "– Văratec, 1889."], ro: ["Casa memorială Mihai Eminescu de la Ipotești este un muzeu memorial amenajat în casa în care a trăit poetul Mihai Eminescu (1850-1889) în satul Ipotești din județul Botoșani.", "Memorialul Ipotești - Centrul Național de Studii „Mihai Eminescu” se află pe Lista Monumentelor Istorice din județul Botoșani din anul 2004, având codul BT-IV-a-B-02047, fiind format din două obiective: Casa memorială \"Mihai Eminescu\" - datând din sec.", "al XIX-lea și având codul BT-IV-m-B-02047.01 Mormintele familiei Eminescu - datând din sec."], en: ["Mihai Eminescu (Romanian pronunciation: [miˈhaj emiˈnesku] ; born Mihail Eminovici; 15 January [O.S.", "3 January] 1850 – 15 June [O.S.", "3 June] 1889) was a Romanian Romantic poet, novelist, and journalist from Moldavia, generally regarded as the most famous and influential Romanian poet."] },
+    image: "/geo-images/romania/ro-poi-casa-eminescu.webp"
+  },
+  {
+    id: "ro-poi-lacul-stanca", type: "lake", parent: "RO-BT", coords: [27.2167, 47.8167],
+    name: { de: "Stânca-Costești See", hu: "Stânca-Costești-tó", ro: "Lacul Stânca-Costești", en: "Stânca-Costești Lake" },
+    description: { de: "Großer Stausee am Fluss Prut.", hu: "Nagy víztározó a Prut folyón.", ro: "Mare lac de acumulare pe râul Prut.", en: "Large reservoir on the Prut river." },
+    facts: { de: ["Der Drum național 24C (rumänisch für „Nationalstraße 24C“, kurz DN24C) ist eine Hauptstraße in Rumänien."], hu: [], ro: ["Lacul Stânca Costești este o arie protejată (arie de protecție specială avifaunistică — SPA) din România întinsă pe o suprafață de 2.192,8 ha, integral pe uscat."], en: ["The Stânca–Costești Dam (Romanian: Barajul Stânca–Costești) is a dam on the Prut River and a checkpoint between Moldova and Romania.", "The dam is located between Costești (Moldova) and Stânca (Romania)."] },
+    image: ""
+  },
+
+  // BRĂILA (RO-BR)
+  {
+    id: "ro-poi-braila", type: "city", parent: "RO-BR", coords: [27.9667, 45.2667],
+    name: { de: "Mühlbach", hu: "Brăila", ro: "Brăila", en: "Brăila" },
+    description: { de: "Wichtige Hafenstadt an der Donau.", hu: "Fontos dunai kikötőváros.", ro: "Important port la Dunăre.", en: "Important Danube port city." },
+    facts: { de: ["Brăila ([brəˈila]; ) ist die Kreishauptstadt des gleichnamigen Kreises und Sitz der Planungsregion Südost in Rumänien."], hu: ["Brăila (magyarul: Brajla, régi nevén: Ibrail) város Románia délkeleti részén, a Duna bal partján, Brăila megye székhelye.", "Lakossága 154 686 fő (2021."], ro: ["Brăila (în bulgară Браила, în turcă Ibrail) este municipiul de reședință al județului cu același nume, Muntenia, România.", "Conform recensământului din 2021, publicat de Institutul Național de Statistică, populația orașului era de 154.686 de locuitori, orașul fiind al 11-lea cel mai mare centru urban din țară după numărul de locuitori.", "În Brăila se află sediul Agenției de Dezvoltare Regională Sud-Est."], en: ["Brăila (, also US: , Romanian: [brəˈila] ) is a city in Muntenia, eastern Romania, a port on the Danube and the capital of Brăila County.", "The Sud-Est Regional Development Agency is headquartered in the city.", "According to the 2021 Romanian census, Brăila had a population of 154,686 inhabitants, making it the 11th most populous city in Romania and the 9th largest on the Danube."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-insula-mica", type: "landmark", parent: "RO-BR", coords: [27.95, 44.8833],
+    name: { de: "Naturpark Kleine Brăila-Insel", hu: "Kis-Brăila Sziget Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Small Brăila Island Natural Park" },
+    description: { de: "Feuchtgebiet und Naturschutzgebiet.", hu: "Vizes élőhely és természetvédelmi terület.", ro: "Zonă umedă și rezervație naturală.", en: "Wetland and nature reserve." },
+    facts: { de: ["Die Große Brăila-Insel (rumänisch Insula Mare a Brăilei oder Balta Brăilei) ist eine rund 710 km² große und 60 km lange Donauinsel in Rumänien."], hu: ["A Brăilai Kissziget Natúrpark (románul Parcul Natural Balta Mică a Brăilei) IUCN V-ös besorolású védett terület Romániában a Duna alsó szakaszán, a Brăilai Nagysziget térségében, Brăila megye területén."], ro: ["Parcul Natural Balta Mică a Brăilei este o arie protejată (zonă umedă) de interes internațional ce corespunde categoriei a V-a (parc natural), situată în Muntenia, pe teritoriul județului Brăila."], en: ["The Great Brăila Island (Romanian: Insula Mare a Brăilei) is an island on the Danube river in the Brăila County, Romania.", "It has on average 57.9 km (36.0 mi) length and 18.6 km (11.6 mi) width, with a total area of 710 km2 (270 sq mi).", "The two river branches which separate it from the mainland are Măcin Branch and Vâlciu Branch."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-teatrul-filotti", type: "landmark", parent: "RO-BR", coords: [27.9731, 45.2719],
+    name: { de: "Maria Filotti Theater", hu: "Maria Filotti Színház", ro: "Teatrul Maria Filotti", en: "Maria Filotti Theatre" },
+    description: { de: "Historisches Theatergebäude.", hu: "Történelmi színházépület.", ro: "Clădire istorică a teatrului.", en: "Historical theater building." },
+    facts: { de: [], hu: ["István (Zsibó, 1977.", "–) Jászai Mari-díjas romániai magyar rendező, színházigazgató, művészeti vezető."], ro: ["Teatrul „Maria Filotti”, cunoscut și sub numele vechi ca Teatrul Rally, este o instituție de cultură inaugurată la 1864 în Brăila, România."], en: ["The Maria Filotti is a theatre in Brăila, Romania."] },
+    image: ""
+  },
+
+  // BUZĂU (RO-BZ)
+  {
+    id: "ro-poi-focul-viu", type: "landmark", parent: "RO-BZ", coords: [26.5444, 45.5417],
+    name: { de: "Lebendiges Feuer", hu: "Élő tűz", ro: "Focul Viu", en: "Living Fire" },
+    description: { de: "Erdgasflammen aus dem Boden.", hu: "Földgázlángok a talajból.", ro: "Flăcări de gaze naturale din pământ.", en: "Natural gas flames coming from the ground." },
+    facts: { de: ["Negură Bunget ist eine Metal-Band aus Rumänien."], hu: ["Andreiașu de Jos település Romániában, Moldvában, Vrancea megyében."], ro: ["Focul Viu se poate referi la: Focul Viu din Satul Terca Comuna Lopătari, Buzău Focul Viu din Satul Andreiașu de Jos Comuna Andreiașu de Jos, Vrancea Focul Viu de pe Vârful Răiuți din Satul Răiuți Comuna Reghiu, Vrancea Focul Viu din estul dealului Ciolanu situat pe interfluviul de pe dreapta văii Ojasca.", "Peștera Ghețarul de la Focul Viu, una dintre peșterile aflate în Munții Bihorului.", "Focul viu (film) (Firestarter 2: Rekindled)"], en: ["Living Fire is a Brazilian Christian hardcore band, hailing from São Paulo, Brazil, formed in 2006.", "Their first studio album, Jesus Rules, was released in 2012 by Thumper Punk Records.", "The subsequent album, Dead to Sin, was also released by Thumper Punk Records, in 2014."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-lacul-vulturilor", type: "lake", parent: "RO-BZ", coords: [26.0969, 45.5033],
+    name: { de: "Adlersee", hu: "Sasok tava", ro: "Lacul Vulturilor", en: "Eagles' Lake" },
+    description: { de: "Periglazialer See im Siriu-Gebirge.", hu: "Periglaciális tó a Sziryu-hegységben.", ro: "Lac periglaciar în Munții Siriu.", en: "Periglacial lake in the Siriu Mountains." },
+    facts: { de: ["Sita Buzăului [ˈsita buˈsəului] (veraltet Sita Buzău ungarisch Szitabodza) ist eine Gemeinde im Kreis Covasna in der Region Siebenbürgen in Rumänien."], hu: ["A Szilon-havas (románul: Masivul Siriu) a Kárpátkanyar, s ezen belül a Keleti-Kárpátok csoportjába tartozó középmagas hegység.", "A hegység a Kárpátok főgerincének alkotórésze, amely délnyugat felé a Tatárhavasban, majd a Csukás-hegységben folytatódik, észak felé pedig a Háromszéki-havasokban, közeli szomszédja a Lóhavas és a főgerincen kívül a Moldva felé eső Pintyillő, mely a legközelebbi nálánál magasabb hegység a maga 1772 méteres csúcsával.", "A hegység területén jelenleg kisebb részben Háromszék ill."], ro: ["Lacul Vulturilor (denumit și Lacul Fără Fund) este un lac periglaciar aflat în Munții Siriului, la o altitudine de 1.420 m, în apropierea localității Gura Siriului din comuna Siriu, județul Buzău, România și se află pe suprafața comunei Chiojdu.", "Adâncimea sa maximă este de 2,5 m."], en: [] },
+    image: ""
+  },
+
+  // CĂLĂRAȘI (RO-CL)
+  {
+    id: "ro-poi-calarasi", type: "city", parent: "RO-CL", coords: [27.3333, 44.2],
+    name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași" },
+    description: { de: "Stadt an der Donau (Borcea-Arm).", hu: "Város a Duna (Borcea-ág) partján.", ro: "Oraș pe malul brațului Borcea al Dunării.", en: "City on the Borcea branch of the Danube." },
+    facts: { de: ["Călărași ([kələˈraʃʲ]; ) ist eine Stadt in Rumänien, die Hauptstadt des Kreises Călărași und Sitz der Planungsregion Südrumänien-Mutenia."], hu: ["Călărași délkelet-romániai város a Borceai-Duna-ág partján, Călărași megye székhelye.", "Bulgáriától 12 km-re, Bukaresttől 125 km-re található.", "Lakossága 71 042 fő."], ro: ["Călărași (în trecut, Lichirești și, temporar, Știrbeiu) este municipiul de reședință al județului cu același nume, Muntenia, România.", "Este cel mai mare oraș al județului și unul din cele mai importante municipii din regiunea de dezvoltare Sud.", "Situat în sud-estul României, pe partea stângă a cursului brațului Borcea al Dunării, Călărașiul este cunoscut pentru industria alimentară, industria de PAL melaminat, industria siderurgică, industria de hârtie și industria de prefabricate."], en: ["Călărași (Romanian pronunciation: [kələˈraʃʲ] ; Bulgarian: Кълъраш, romanized: Kŭlŭrash), the capital of Călărași County in the Muntenia region, is situated in south-east Romania, on the banks of the Danube's Borcea branch, at about 12 kilometres (7 miles) from the Bulgarian border and 125 kilometres (78 miles) from Bucharest.", "It is one of six Romanian county seats lying on the river Danube.", "The city is an industrial centre for lumber and paper, food processing, glass manufacturing, textiles, medical equipment production, and heavy industry, the last one represented by the Călărași steel works."] },
+    image: "/geo-images/romania/ro-poi-calarasi.webp"
+  },
+  {
+    id: "ro-poi-bratul-borcea", type: "river", parent: "RO-CL", coords: [27.75, 44.25],
+    name: { de: "Borcea-Arm", hu: "Borcea-ág", ro: "Brațul Borcea", en: "Borcea Branch" },
+    description: { de: "Nebenarm der Donau.", hu: "A Duna mellékága.", ro: "Braț secundar al Dunării.", en: "Secondary branch of the Danube." },
+    facts: { de: ["Die Donau ist mit einem mittleren jährlichen Abfluss (MQ) von rund 6855 m³/s und einer Gesamtlänge von 2857 Kilometern nach der Wolga der zweitgrößte und zweitlängste Fluss in Europa.", "Der Strom entwässert weite Teile Mittel- und Südosteuropas.", "Er durchfließt bzw."], hu: ["A Borceai-Duna-ág (románul: Brațul Borcea) a Duna folyam egy mellékága a folyó alsó szakaszán, Romániában, Călărași megye és Ialomița megye közigazgatási területén.", "Călărași felett (mintegy 9 km-re Ostrov felé) ágazik ki bal kéz felé a főágból, ahová mintegy 99 km után, Giurgeninél tér vissza.", "Nevét a partján fekvő Borcea településről kapta."], ro: [], en: ["Borcea is a commune situated in the eastern part of Călărași County, Muntenia, Romania.", "It is one of the most populous communes in the county and it is situated on the west bank of the Borcea branch (a section of the Danube).", "The commune was formed as a result of the administrative reform of 1968 by joining two neighboring villages, Cocargeaua and Pietroiu."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-muzeul-dunarii", type: "landmark", parent: "RO-CL", coords: [27.33, 44.195],
+    name: { de: "Museum der Unteren Donau", hu: "Alsó-Duna Múzeum", ro: "Muzeul Dunării de Jos", en: "Lower Danube Museum" },
+    description: { de: "Museum für Archäologie und Geschichte.", hu: "Régészeti és történelmi múzeum.", ro: "Muzeu de arheologie și istorie.", en: "Museum of archeology and history." },
+    facts: { de: ["i3i6 Das Donaudelta (rumänisch Delta Dunării, ukrainisch Дельта Дунаю) befindet sich im Mündungsgebiet der Donau in das Schwarze Meer.", "Das Donaudelta stellt nach dem Wolgadelta das zweitgrößte Delta Europas dar und umfasst ein Gebiet von 5800 km², wovon 72 % mit einer Fläche von 4178 km² unter Naturschutz stehen.", "Diese Fläche liegt zu 82,5 % im rumänischen Teil der Landschaft Dobrudscha sowie zu 17,5 % in der Ukraine."], hu: [], ro: ["Muzeul Istoriei, Culturii și Spiritualității Creștine de la Dunărea de Jos este un muzeu din municipiul Galați găzduit în Palatul Episcopal al Dunării de Jos, deschis publicului în această nouă locație în anul 2014, în urma recâștigării dreptului de proprietate asupra clădirii.", "Clădirea muzeului este declarată monument istoric, având codul GL-II-m-B-03036.", "Anterior, ea a adăpostit Muzeul de Artă Vizuală."], en: ["The Danube Swabians (German: Donauschwaben [ˈdoːnaʊʃvaːbm̩] ) is the ethnic German-speaking population, today largely extinct through emigration, which lived in the Kingdom of Hungary in east-central Europe, especially in the Danube River valley, first in the 12th century, and in greater numbers in the 17th and 18th centuries.", "Most were descended from earlier 18th-century Swabian settlers from Upper Swabia, the Swabian Jura, northern Lake Constance, the upper Danube, the Swabian-Franconian Forest, the Southern Black Forest and the Principality of Fürstenberg, followed by Hessians, Bavarians, Franconians and Lorrainers recruited by Austria to repopulate the area and restore agriculture after the expulsion of the Ottoman Empire.", "They were able to keep their language and religion and initially developed strongly German communities in the region which retained the German language, customs, and folklore."] },
+    image: ""
+  },
+
+  // CARAȘ-SEVERIN (RO-CS)
+  {
+    id: "ro-poi-cheile-nerei", type: "landmark", parent: "RO-CS", coords: [21.8333, 44.9333],
+    name: { de: "Nera-Klamm Nationalpark", hu: "Néra-szurdok Nemzeti Park", ro: "Parcul Național Cheile Nerei-Beușnița", en: "Cheile Nerei-Beușnița National Park" },
+    description: { de: "Schluchten, Wasserfälle und blaue Seen.", hu: "Szurdokok, vízesések és kék tavak.", ro: "Chei, cascade și lacuri albastre.", en: "Gorges, waterfalls, and blue lakes." },
+    facts: { de: ["i3i5 Der Nationalpark Cheile Nerei - Beușnița (auch Nationalpark Nera-Klamm - Beușnița, rumänisch Parcul Național Cheile Nerei - Beușnița) ist ein Nationalpark im Anina-Gebirge, Kreis Caraș-Severin, im Südwesten Rumäniens.", "Er erstreckt sich auf einem Areal von 76.062 Hektar und besteht aus einer Karstlandschaft aus Kalkstein auf einer Länge von 22 Kilometern entlang des Neratals mit einer Lagenhöhe zwischen 200 und 1116 Meter an der höchsten Bergspitze, dem Leordis Gipfel."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: [], en: [] },
+    image: ""
+  },
+  {
+    id: "ro-poi-baile-herculane", type: "city", parent: "RO-CS", coords: [22.4131, 44.88],
+    name: { de: "Herkulesbad", hu: "Herkulesfürdő", ro: "Băile Herculane", en: "Băile Herculane" },
+    description: { de: "Historischer Thermal-Kurort.", hu: "Történelmi hőforrásos gyógyüdülő.", ro: "Stațiune balneară istorică.", en: "Historical thermal spa resort." },
+    facts: { de: ["Băile Herculane (deutsch Herkulesbad, ungarisch Herkulesfürdő) ist eine Kleinstadt und ein Kurort im Kreis Caraș-Severin in der Region Banat in Rumänien."], hu: [], ro: ["Băile Herculane (în latină Aqua Herculis, în germană Herkulesbad, în maghiară Herkulesfürdő) este un oraș în județul Caraș-Severin, Banat, România, format din localitățile componente Băile Herculane (reședința) și Pecinișca.", "Are o populație de 5.008 locuitori.", "Orașul este situat pe Valea Cernei, fiind accesibil la 5 km de DN 6 (E70), principala arteră rutieră ce leagă capitala țării de Timișoara."], en: ["Băile Herculane (Latin: Aqua Herculis; German: Herkulesbad; Hungarian: Herkulesfürdő; Czech: Herkulovy Lázně, Turkish: Lazarethane, English: Herculean Baths) is a spa town in Romanian Banat, in Caraș-Severin County, situated in the valley of the Cerna River, between the Mehedinți Mountains to the east and the Cerna Mountains to the west, elevation 168 m (551 ft).", "Its current population is 3,787.", "The town administers one village, Pecinișca (Hungarian: Pecsenyeska; from 1912 to 1918 Csernabesenyő)."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-cascada-bigar", type: "landmark", parent: "RO-CS", coords: [21.9594, 45.0033],
+    name: { de: "Bigăr-Wasserfall", hu: "Bigér-vízesés", ro: "Cascada Bigăr", en: "Bigăr Waterfall" },
+    description: { de: "Einzigartiger moosbedeckter Wasserfall.", hu: "Egyedülálló mohos vízesés.", ro: "Cascadă unică acoperită de mușchi.", en: "Unique moss-covered waterfall." },
+    facts: { de: ["Der Bigăr-Wasserfall (rumänisch Cascada Bigăr) ist ein Wasserfall des etwa 200 Meter langen Baches Bigăr auf dem Gebiet der Gemeinde Bozovici im Kreis Caraș-Severin in Rumänien.", "Die Umgebung des Baches einschließlich Wasserfall und Quelle ist unter der Bezeichnung Izvorul Bigăr (deutsch Bigăr-Quelle; auch bekannt als Izbucul Bigăr) ein Naturschutzgebiet der IUCN-Kategorie IV.", "Der Bach mündet über die Miniș in die Nera und schließlich in die Donau."], hu: ["A Bigéri-vízesés (románul: Izvorul Bigăr) Románia egyik leghíresebb vízesése, amely Bozovics közigazgatási területén, Krassó-Szörény megyében található.", "A travertínó vízesés jelentős része 2021.", "június 7-én leszakadt, így különleges látványa már a múlté."], ro: [], en: [] },
+    image: ""
+  },
+
+  // CONSTANȚA (RO-CT)
+  {
+    id: "ro-poi-acvariul-constanta", type: "landmark", parent: "RO-CT", coords: [28.6622, 44.1714],
+    name: { de: "Aquarium Constanța", hu: "Konstancai Akvárium", ro: "Acvariul Constanța", en: "Constanța Aquarium" },
+    description: { de: "Aquarium am Schwarzen Meer.", hu: "Fekete-tengeri akvárium.", ro: "Acvariu pe litoralul Mării Negre.", en: "Aquarium on the Black Sea coast." },
+    facts: { de: [], hu: [], ro: [], en: ["The Constanța Aquarium is located along the Black Sea in Constanța, Romania.", "The building that hosts the aquarium dates to the early 20th century.", "It served as a restaurant for the adjacent Constanța Casino until the aquarium opened in 1958."] },
+    image: ""
+  },
+
+  // COVASNA (RO-CV)
+  {
+    id: "ro-poi-sfantu-gheorghe", type: "city", parent: "RO-CV", coords: [25.7833, 45.8667],
+    name: { de: "Sankt Georgen", hu: "Sepsiszentgyörgy", ro: "Sfântu Gheorghe", en: "Sfântu Gheorghe" },
+    description: { de: "Wichtiges Zentrum des Szeklerlandes.", hu: "A Székelyföld fontos központja.", ro: "Centru important al Ținutului Secuiesc.", en: "Important center of Szeklerland." },
+    facts: { de: ["Sfântu Gheorghe ([ˈsfɨntu ˈ⁠ɟeor⁠ɟe]; bis 1993 Sfîntu Gheorghe, deutsch Sankt Georgen, ungarisch Sepsiszentgyörgy [ˈʃɛpʃisɛɲɟørɟ]) ist die Hauptstadt des Kreises Covasna in Rumänien.", "Sie liegt am Fluss Olt in einem Tal zwischen dem Baraolt- und dem Bodoc-Gebirge.", "Im Jahr 2003 hatte sie etwa 61.500 Einwohner."], hu: [], ro: ["Sfântu Gheorghe (în maghiară Sepsiszentgyörgy sau Szentgyörgy, în germană Sankt Georgen) este municipiul de reședință al județului Covasna, Transilvania, România, format din localitatea componentă Sfântu Gheorghe (reședința), și din satele Chilieni și Coșeni.", "Are o suprafață de 7.292 ha."], en: ["Sfântu Gheorghe (pronounced [ˈsfɨntu ˈɡe̯orɡe] ; Hungarian: Sepsiszentgyörgy [ˈʃɛpʃisɛɲɟørɟ] , or Szentgyörgy; Yiddish: סנט דזשארדזש; English lit.: Saint George) is a city that serves as the seat of Covasna County in Transylvania, Romania.", "Located in the central part of the country, it lies on the Olt River in a valley between the Baraolt Mountains and the Bodoc Mountains.", "The town administers two villages, Chilieni (Hungarian: Kilyén) and Coșeni (Hungarian: Szotyor)."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-statiunea-covasna", type: "landmark", parent: "RO-CV", coords: [26.1667, 45.85],
+    name: { de: "Kurort Covasna", hu: "Kovásznafürdő", ro: "Stațiunea Covasna", en: "Covasna Resort" },
+    description: { de: "Bekannt für Mineralwasser und Mofetten.", hu: "Ásványvizeiről és mofettáiról ismert.", ro: "Cunoscută pentru ape minerale și mofete.", en: "Known for mineral waters and mofettas." },
+    facts: { de: [], hu: [], ro: ["Covasna (maghiară Kovászna, în germană Kovasna) este un oraș în județul Covasna, Transilvania, România, format din localitățile componente Chiuruș și Covasna (reședința).", "Numele vine de la cuvântul slavon „kvasny”, ceea ce înseamnă „dospit, fermentat” (cu referire la apele gazoase de aici, care sunt gazoase ca băuturile fermentate - berea, de exemplu).", "Datorită faptului că este situată într-o zonă cu activitate vulcanică (în trecut), localitatea este renumită pentru apele sale minerale și mofetele (emanații gazoase post-vulcanice, predominant dioxid de carbon)."], en: ["Covasna (Romanian pronunciation: [koˈvasna] , Hungarian: Kovászna, Hungarian pronunciation: [ˈkovaːsnɒ] , German: Kowasna) is a town in Covasna County, Transylvania, Romania, at an altitude of 550–600 m (1,800–1,970 ft).", "It is known for its natural mineral waters and mofettas.", "The town administers one village, Chiuruș (Hungarian: Csomakőrös)."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-balta-dracului", type: "landmark", parent: "RO-CV", coords: [26.175, 45.845],
+    name: { de: "Teufelsteich", hu: "Pokolsár", ro: "Balta Dracului", en: "Devil's Pond" },
+    description: { de: "Eine vulkanische Schlammemission.", hu: "Egy vulkáni iszapkitörés.", ro: "O emanație de noroi vulcanic.", en: "A volcanic mud emission." },
+    facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: ["Pokolsár (románul Balta Dracului) egy meleg iszapvulkán Kovászna belvárosában, a Főtér keleti peremén.", "Iszapját kezdetben fürdőkúrára használtak."], ro: ["Piperul de baltă, sau dintele-dracului, iarba iute, piparca sălbatică, troscot piperat, trestie mirositoare (Persicaria hydropiper, sin.", "Polygonum hydropiper) este o specie de plante din familia Polygonaceae.", "Crește în locuri umede și apă mică; este nativă zonei temperate din emisfera nordică."], en: ["A devil is the mythical personification of evil as it is conceived in various cultures and religious traditions.", "It is seen as the objectification of a hostile and destructive force.", "Jeffrey Burton Russell states that the different conceptions of the devil can be summed up as 1) a principle of evil independent from God, 2) an aspect of God, 3) a created being turning evil (a fallen angel) or 4) a symbol of human evil."] },
+    image: ""
+  },
+
+  // DÂMBOVIȚA (RO-DB)
+  {
+    id: "ro-poi-pestera-ialomitei", type: "landmark", parent: "RO-DB", coords: [25.4383, 45.3933],
+    name: { de: "Ialomița-Höhle", hu: "Ialomița-barlang", ro: "Peștera Ialomiței", en: "Ialomița Cave" },
+    description: { de: "Höhle im Bucegi-Gebirge mit Kloster.", hu: "Barlang a Bucsecs-hegységben kolostorral.", ro: "Peșteră în Munții Bucegi cu o mănăstire.", en: "Cave in the Bucegi Mountains with a monastery." },
+    facts: { de: ["Die folgende Liste enthält alle 435 Fauna-Flora-Habitat-Gebiete in Rumänien.", "Die Gebiete sind Bestandteil des europäischen Schutzgebietsnetzes Natura 2000.", "Das flächenmäßig größte FFH-Gebiet in Rumänien ist mit 4.536,5 km² das Donaudelta."], hu: ["Rasova község Constanța megyében, Dobrudzsában, Romániában.", "A hozzá tartozó település Cochirleni."], ro: ["Peștera Ialomiței, știută și drept Peștera Schitul Ialomiței, Peștera Schitului, sau Peștera Ialomicioarei, este o peșteră din Munții Bucegi, una din cele mai cunoscute din România."], en: ["This is one of a series of comprehensive lists of continents, countries, and first level administrative country subdivisions such as states, provinces, and territories, as well as certain political and geographic features of substantial area.", "References for the information provided in this table may be found in the individual articles on each body listed herein.", "Some divisions are listed twice, with one listing including territory that is excluded in the other for various reasons, including territorial disputes."] },
+    image: "/geo-images/romania/ro-poi-pestera-ialomitei.webp"
+  },
+
+  // DOLJ (RO-DJ)
+  {
+    id: "ro-poi-parcul-romanescu", type: "landmark", parent: "RO-DJ", coords: [23.8, 44.2969],
+    name: { de: "Nicolae-Romanescu-Park", hu: "Nicolae Romanescu Park", ro: "Parcul Nicolae Romanescu", en: "Nicolae Romanescu Park" },
+    description: { de: "Einer der größten Naturparks in Europa.", hu: "Európa egyik legnagyobb természetes parkja.", ro: "Unul dintre cele mai mari parcuri naturale din Europa.", en: "One of the largest natural parks in Europe." },
+    facts: { de: [], hu: [], ro: ["Parcul Nicolae Romanescu din Craiova este cel mai mare și mai cunoscut parc al orașului, fiind declarat monument istoric cu codul DJ-II-a-A-07924.", "La inițiativa lui Nicolae P.", "Romanescu, primarul Craiovei de la acea vreme, parcul a fost proiectat de arhitectul francez Édouard Redont."], en: ["Nicolae Romanescu Park (Romanian: Parcul Nicolae Romanescu), known over time as the Bibescu Park, the Independence Park or the People's Park, is a park in Craiova, Romania.", "Located on the site of the mid-19th century estate and gardens of the Bibescu family, it was designed by the French architect Édouard Redont and constructed between 1897 and 1903.", "It is wrongly considered in pop culture as the largest natural park in Eastern Europe."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-muzeul-arta-craiova", type: "landmark", parent: "RO-DJ", coords: [23.795, 44.3183],
+    name: { de: "Kunstmuseum Craiova", hu: "Craiova Művészeti Múzeum", ro: "Muzeul de Artă Craiova", en: "Craiova Art Museum" },
+    description: { de: "Beherbergt Werke von Constantin Brâncuși.", hu: "Constantin Brâncuși műveinek ad otthont.", ro: "Găzduiește opere de Constantin Brâncuși.", en: "Houses works by Constantin Brâncuși." },
+    facts: { de: ["Constantin Brâncuși, Aussprache: rumänisch [konstanˈtin brɨŋˈkuʃʲ] , französisch [kɔ̃stɑ̃ˈtɛ̃ bʁɑ̃kyˈzi] (* 19.", "Februar 1876 in Hobița; † 16.", "März 1957 in Paris) war ein rumänisch-französischer Bildhauer der Moderne und Fotograf seiner Werke im Umfeld seines Ateliers."], hu: [], ro: ["Muzeul de Artă din Craiova este un muzeu județean din Craiova, amplasat în Calea Unirii nr.", "Înființat în anul 1908 sub numele de Pinacoteca Alexandru și Aristia Aman, va deveni în 1954 Muzeul de Artă Craiova.", "Muzeul este adăpostit în Palatul Constantin Mihail, monument de arhitectură, cunoscut și ca Palatul Jean Mihail, construit în 1900 - 1907 în stilul eclectic (cu influențe puternice de neobaroc), după planurile arhitectului francez Paul Gottereau, inaugurat în 1909."], en: ["The Craiova Art Museum (Romanian: Muzeul de Artă din Craiova) is an art museum in the city of Craiova, Oltenia, Romania.", "The museum is housed in the Constantin Mihail Palace, built from 1898 to 1907 according to the plans of French architect Paul Gottereau.", "The palace once belonged to Michael Constantine (1837—1908), a member of one of the richest families in Romania and is known as Jean Mihail Palace."] },
+    image: ""
+  },
+
+  // GALAȚI (RO-GL)
+  {
+    id: "ro-poi-faleza-dunarii", type: "landmark", parent: "RO-GL", coords: [28.0514, 45.4214],
+    name: { de: "Donauuferpromenade", hu: "Dunai sétány", ro: "Faleza Dunării Galați", en: "Danube Promenade" },
+    description: { de: "Die längste Uferpromenade in Rumänien.", hu: "A leghosszabb folyóparti sétány Romániában.", ro: "Cea mai lungă faleză pe malul apei din România.", en: "The longest river promenade in Romania." },
+    facts: { de: [], hu: [], ro: ["Galați este municipiul de reședință al județului cu același nume, Moldova, România.", "Se află în apropiere de frontiera triplă sudică cu Republica Moldova și Ucraina.", "Conform ultimului recensământ, municipiul numără 217.851 de locuitori stabili, respectiv 311.000 după domiciliu."], en: ["The Danube Promenade (Hungarian: Dunakorzó) is located on the Pest side of Budapest, Hungary.", "The promenade itself lies on the left bank of the Danube, extending from the Széchenyi Chain Bridge to the Erzsébet Bridge."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-turnul-tv-galati", type: "landmark", parent: "RO-GL", coords: [28.0289, 45.4258],
+    name: { de: "Galați Fernsehturm", hu: "Galați TV Torony", ro: "Turnul de Televiziune Galați", en: "Galați TV Tower" },
+    description: { de: "Turm mit Restaurant auf der Spitze.", hu: "Torony étteremmel a tetején.", ro: "Turn cu restaurant în vârf.", en: "Tower with a restaurant at the top." },
+    facts: { de: [], hu: [], ro: ["Turnul de Televiziune Galați este un turn de 110 m înălțime din beton armat din Galați, România."], en: ["Galați TV Tower (Romanian: Turnul de televiziune Galaţi) is a 110-metre (360 ft) tall concrete tower used for FM and TV broadcasting in Galați, Romania.", "The tower, completed in 1978, is equipped with a tower restaurant, perhaps the only of this kind in Romania."] },
+    image: ""
+  },
+
+  // GIURGIU (RO-GR)
+  {
+    id: "ro-poi-giurgiu", type: "city", parent: "RO-GR", coords: [25.9667, 43.9],
+    name: { de: "Giurgiu", hu: "Gyurgyevó", ro: "Giurgiu", en: "Giurgiu" },
+    description: { de: "Donauhafen und Grenzstadt zu Bulgarien.", hu: "Dunai kikötő és határváros Bulgária felé.", ro: "Port la Dunăre și oraș de graniță cu Bulgaria.", en: "Danube port and border city with Bulgaria." },
+    facts: { de: ["Giurgiu (; deutsch veraltet Zurz) ist eine Stadt in Rumänien, Hauptstadt des gleichnamigen Kreises."], hu: [], ro: ["Giurgiu (în bulgară Гюргево, transliterat: Ghiurghevo, în turcă Yergöğü) este municipiul de reședință al județului cu același nume, Muntenia, România.", "Este un port fluvial important și un punct de frontieră cu Bulgaria.", "Are o suprafață de 5.388 ha."], en: ["Giurgiu (Romanian pronunciation: [ˈdʒjurdʒju] ; Bulgarian: Гюргево, romanized: Gyurgevo; Turkish: Yergöğü) is a city in southern Romania.", "The seat of Giurgiu County, it lies in the historical region of Muntenia.", "It is situated amongst mud-flats and marshes on the left bank of the Danube facing the Bulgarian city of Ruse on the opposite bank."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-podul-prieteniei", type: "landmark", parent: "RO-GR", coords: [26.0078, 43.8864],
+    name: { de: "Freundschaftsbrücke", hu: "Barátság híd", ro: "Podul Prieteniei", en: "Friendship Bridge" },
+    description: { de: "Brücke über die Donau nach Ruse.", hu: "Híd a Dunán Ruse felé.", ro: "Pod peste Dunăre către Ruse.", en: "Bridge over the Danube to Ruse." },
+    facts: { de: ["Die Giurgiu-Russe-Freundschaftsbrücke oder Brücke der Freundschaft (bulgarisch Мост на дружбата Most na druschbata; rumänisch Podul prieteniei) ist eine Straßen- und Eisenbahnbrücke über die Donau zwischen den Städten Giurgiu in Rumänien und Russe in Bulgarien."], hu: ["A nyelvészetben is használt deixis (< ógörög δεῖξις (deixisz) „rámutatás”) terminus eredetileg a formális logika szakszava.", "Nyelvi eszközzel való közvetlen utalást nevez meg a beszédhelyzettel kapcsolatos egyik vagy másik nyelven kívüli entitásra, amelyet sajátos módon aktualizál.", "A deiktikus elemnek nevezett nyelvi eszköz személyre, tárgyra, helyre, időre, cselekvési módra, minőségre vagy szociális viszonyra utal."], ro: ["Podul Prieteniei este numele mai multor poduri care leagă țări separate de râuri sau strâmtori.", "Podul Prieteniei (Paraguay–Brazilia) - leagă Paraguayul de Brazilia Podul Prieteniei sino-coreană - leagă Republica Populară Chineză de Coreea de Nord Podul Prieteniei sino-nepaleză - leagă Republica Populară Chineză de Nepal (Photograph 1, Photo 2 Arhivat în 29 septembrie 2007, la Wayback Machine.) Podul Prieteniei (China–Pakistan) - leagă Republica Populară Chineză de Pakistan Podul Prieteniei thailandezo–laoțiană - leagă Thailanda de Laos Podul Prieteniei Qatar–Bahrain - leagă Qatarul de Bahrain (în stadiul de planificare în 2005) Podul Prieteniei Afghanistan–Uzbekistan - leagă Afghanistanul de Uzbekistan Podul Prieteniei Giurgiu-Ruse - leagă Bulgaria și România peste Dunăre Podul Prieteniei este de asemenea numele unui pod care leagă două părți ale Macaului, Peninsula Macau și Ilha da Taipa, separate de apă - Podul Prieteniei sino-portugheze (Ponte de Amizade) Un alt Pod al Prieteniei se află în Bangkok - Podul Prieteniei thailandezo-japoneză."], en: ["Friendship Bridge may refer to:"] },
+    image: ""
+  },
+  {
+    id: "ro-poi-parcul-comana", type: "landmark", parent: "RO-GR", coords: [26.1433, 44.175],
+    name: { de: "Naturpark Comana", hu: "Comana Natúrpark", ro: "Parcul Natural Comana", en: "Comana Natural Park" },
+    description: { de: "Feuchtgebiet und Waldgebiet.", hu: "Vizes élőhely és erdő.", ro: "Zonă umedă și forestieră.", en: "Wetland and forest area." },
+    facts: { de: ["i3i6 Der Naturpark Comana (rumänisch Parcul Natural Comana) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Comana Natúrpark (románul Parcul Natural Comana) IUCN V-ös besorolású védett terület Románia déli részén, Giurgiu megye területén, Bukarest és Giurgiu városok között félúton."], ro: ["Parcul Natural Comana este o arie protejată de interes național ce corespunde categoriei a V-a IUCN (parc natural), situat în Muntenia, pe teritoriul județului Giurgiu."], en: ["The Comana Natural Park (Romanian: Parcul Natural Comana) is a protected area (natural park category V IUCN) situated in Romania, in the administrative territory of Giurgiu County.", "The park is roughly a 45-minute drive from the Romanian capital of Bucharest.", "The park was established in 2004 and has recreational activities such as kayaking,"] },
+    image: ""
+  },
+
+  // GORJ (RO-GJ)
+  {
+    id: "ro-poi-manastirea-tismana", type: "historical", parent: "RO-GJ", coords: [22.9472, 45.0583],
+    name: { de: "Kloster Tismana", hu: "Tismana-kolostor", ro: "Mănăstirea Tismana", en: "Tismana Monastery" },
+    description: { de: "Ältestes aktives Kloster in Rumänien.", hu: "Románia legrégebbi működő kolostora.", ro: "Cea mai veche mănăstire activă din România.", en: "Oldest active monastery in Romania." },
+    facts: { de: ["Tismana ist eine Kleinstadt in der rumänischen Walachei im Kreis Gorj.", "Besonders bekannt ist der in den Transsilvanischen Alpen gelegene Ort durch das rumänisch-orthodoxe Kloster Tismana.", "Dieses ist das älteste noch vorhandene Kloster in der Walachei."], hu: ["A Curtea de Argeș-i kolostor (románul: Mănăstirea Curtea de Argeș) ortodox kolostor, épületegyüttes Romániában, Curtea de Argeș (egyes forrásokban Argyasudvarhely) városában.", "1512 és 1517 között, V.", "Basarab havasalföldi fejedelem (Neagoe Basarab) uralkodása alatt épült."], ro: ["Mănăstirea Tismana este cel mai vechi așezământ monahal din Țara Românească (Oltenia), aflat pe teritoriul orașului Tismana din județul Gorj, la 36 km de orașul Târgu-Jiu."], en: ["Nikodim Tismanski, also known as Nicodemus the Sanctified, Nikodim Osvećeni, Nikodim Vratnenski, Nikodim Grčić, and in Romanian, Nicodim de la Tismana, (Prilep, today in North Macedonia, then Byzantine Empire, c.", "1320 – Tismana, Walachia, now Romania, 26 December 1406), was a Christian monk scribe and translator who was the founder of monasteries, one in Serbia and two in Romania.", "In Serbian medieval history he is remembered for conveying hesychastic monastic traditions and as a member of a diplomatic and ecclesiastical mission to Constantinople in 1375."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-cheile-oltetului", type: "landmark", parent: "RO-GJ", coords: [23.7667, 45.195],
+    name: { de: "Olteț-Klamm", hu: "Oltész-szurdok", ro: "Cheile Oltețului", en: "Olteț Gorges" },
+    description: { de: "Sehr enge Karstschlucht.", hu: "Nagyon szűk karszt-szurdok.", ro: "Chei carstice foarte înguste.", en: "Very narrow karst gorge." },
+    facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: [], ro: [], en: ["Polovragi is a commune in Gorj County, Oltenia, Romania.", "It is composed of two villages, Polovragi and Racovița.", "The commune is located in the northeastern part of Gorj County, 54 km (34 mi) from the county seat, Târgu Jiu, on the border with Vâlcea County."] },
+    image: ""
+  },
+
+  // IALOMIȚA (RO-IL)
+  {
+    id: "ro-poi-slobozia", type: "city", parent: "RO-IL", coords: [27.3667, 44.5667],
+    name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia" },
+    description: { de: "Hauptstadt des Kreises Ialomița.", hu: "Ialomița megye székhelye.", ro: "Reședința județului Ialomița.", en: "Capital of Ialomița county." },
+    facts: { de: ["Slobozia [sloboˈzja] (deutsch veraltet: Freistadt) ist eine Stadt in Rumänien und die Kreishauptstadt von Ialomița.", "Sie hatte im Jahr 2003 ungefähr 52.600 Einwohner und liegt in der Bărăgan-Ebene, einer der klimatisch wärmsten Gegenden Rumäniens."], hu: [], ro: ["Slobozia este municipiul de reședință al județului Ialomița, Muntenia, România, format din localitățile componente Bora, Slobozia (reședința) și Slobozia Nouă.", "Orașul a fost construit pe rămășițele vechii cetăți romane Netindava.", "Slobozia este cel mai mare municipiu al județului Ialomița, România."], en: ["Slobozia (Romanian pronunciation: [sloboˈzi.a]) is the capital city of Ialomița County, Muntenia, Romania, with a population of 41,550 in 2021."] },
+    image: "/geo-images/romania/ro-poi-slobozia.webp"
+  },
+  {
+    id: "ro-poi-lacul-amara", type: "lake", parent: "RO-IL", coords: [27.3222, 44.6056],
+    name: { de: "Amara-See", hu: "Amara-tó", ro: "Lacul Amara", en: "Amara Lake" },
+    description: { de: "Salzsee, bekannt für Heilschlamm.", hu: "Sóstó, amely gyógyiszapjáról ismert.", ro: "Lac sărat cunoscut pentru nămolul terapeutic.", en: "Salt lake known for therapeutic mud." },
+    facts: { de: [], hu: ["Az Amara-tó (románul: Lacul Amara) sós vizű limán tó, amely a romániai Ialomița megyében fekvő Amara városának közelében található.", "Gyógyhatású iszapja és ásványi anyagokban gazdag vize népszerű gyógyüdülőhellyé tette."], ro: ["Lacul Amara se poate referi la două întinderi de apă din România: Lacul Amara din județul Ialomița Lacul Amara din județul Buzău"], en: ["Lake Amara (Romanian: Lacul Amara) is a saltwater fluvial liman lake located on the Slobozia - Buzău road near Amara in Ialomița County, Romania.", "The lake has a surface area of 132 ha (0.51 mi2), a water volume of 2,600,000 m3 (0.00062 cu mi), a length of 4 km (2.5 mi) and a width between 200 m (660 ft) and 800 m (2,600 ft) while the maximum depth reaches 3 m (9.8 ft).", "The lake is situated in a depression having no links to the Ialomița River."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-biserica-poiana", type: "historical", parent: "RO-IL", coords: [27.350, 44.566],
+    name: { de: "Holzkirche von Poiana", hu: "Poiana-i fatemplom", ro: "Biserica de lemn din Poiana", en: "Wooden Church of Poiana" },
+    description: { de: "Historische Holzkirche.", hu: "Történelmi fatemplom.", ro: "Biserică istorică din lemn.", en: "Historical wooden church." },
+    facts: { de: [], hu: ["Az élesdi Istenszülő elszenderedése fatemplom műemlékké nyilvánított épület Romániában, Bihar megyében.", "A romániai műemlékek jegyzékében a BH-II-m-B-01096 sorszámon szerepel."], ro: ["Biserica de lemn din Poiana se poate referi la: Biserica de lemn din Poiana, comuna Vârfurile, județul Arad, România Biserica de lemn din Poiana, comuna Deleni, județul Iași, România Biserica de lemn din Poiana, comuna Ciulnița, județul Ialomița, România – transferată la Muzeul Național al Agriculturii, Slobozia Biserica de lemn din Poiana Botizii, județul Maramureș, România Biserica de lemn din Poiana Cobâlea, regiunea Transcarpatia, Ucraina Biserica de lemn din Poiana Horea, județul Cluj, România Biserica de lemn din Poiana Ilvei, județul Bistrița-Năsăud, România Biserica de lemn din Poiana Onții, județul Sălaj, România Biserica de lemn din Poiana Sibiului, județul Sibiu, România Biserica de lemn din Poiana Stampei, județul Suceava, România"], en: ["The wooden churches of Maramureș in the Maramureș region of northern Transylvania are a group of almost one hundred Orthodox churches, and occasionally Greek-Catholic ones, of different architectural solutions from different periods and areas.", "The Maramureș churches are high timber constructions with characteristic tall, slim bell towers at the western end of the building.", "They are a particular vernacular expression of the cultural landscape of this mountainous area of northern Romania."] },
+    image: ""
+  },
+
+  // IAȘI (RO-IS)
+  {
+    id: "ro-poi-parcul-copou", type: "landmark", parent: "RO-IS", coords: [27.5664, 47.1786],
+    name: { de: "Copou-Park", hu: "Copou Park", ro: "Parcul Copou", en: "Copou Park" },
+    description: { de: "Ältester öffentlicher Park in Iași mit der Eminescu-Linde.", hu: "Iași legrégebbi közparkja az Eminescu-hárssal.", ro: "Cel mai vechi parc public din Iași, cu Teiul lui Eminescu.", en: "Oldest public park in Iași, with Eminescu's Linden Tree." },
+    facts: { de: [], hu: [], ro: ["Parcul Copou (sau Grădina Copou) este cel mai vechi parc din Iași, situat pe dealul Copoului, fiind cel mai mare parc urban din zona centrală și de nord a orașului.", "Contribuind semnificativ la calitatea aerului și la menținerea biodiversității locale, vegetația sa este majoritar arboricolă, cu o compoziție peisagistică apreciată pentru frumusețe, echilibru și valoare ecoprotectivă.", "Fondul principal este compus din tei, frasin și arțar, complementat de prezența a trei tipuri de arbuști: forsiția, iasomia și liliacul."], en: ["The Copou Park or Copou Gardens is the oldest public park in Iași, Romania.", "Its development started in 1834 under the reign of Mihail Sturdza, making the park one of the first public gardens in Romania and a Iași landmark.", "In its centre lies the Lions' Obelisk (1834), a 13.5 m (44 ft) tall obelisk dedicated to Regulamentul Organic, the first law on political, administrative and juridical organization in the Romanian Principalities."] },
+    image: ""
+  },
+
+  // ILFOV (RO-IF)
+  {
+    id: "ro-poi-palatul-mogosoaia", type: "historical", parent: "RO-IF", coords: [25.9922, 44.5275],
+    name: { de: "Schloss Mogoșoaia", hu: "Mogoșoaia-palota", ro: "Palatul Mogoșoaia", en: "Mogoșoaia Palace" },
+    description: { de: "Historischer Palast im Brâncovenesc-Stil.", hu: "Történelmi palota Brâncovenesc-stílusban.", ro: "Palat istoric în stil brâncovenesc.", en: "Historical palace in Brâncovenesc style." },
+    facts: { de: ["Das Schloss Mogoșoaia befindet sich in Rumänien.", "Es liegt rund 15 Kilometer nordwestlich der Landeshauptstadt Bukarest in einem Park am Ufer des Mogoșoaia-Sees in der Gemeinde Mogoșoaia im Kreis Ilfov.", "Schloss Mogoșoaia gehört zu den bekanntesten Kulturdenkmalen Rumäniens."], hu: ["Bukarest (románul: București) Románia fővárosa, politikai, ipari, kereskedelmi és kulturális központja, valamint legnagyobb városa.", "Valamivel több mint 1,8 millió lakosával és 2,2 millió lakosú városi agglomerációval, az Európai Unió 7.", "legnagyobb városa."], ro: ["Palatul Mogoșoaia este o clădire istorică din localitatea Mogoșoaia, județul Ilfov, România, aflată la circa 15 km de centrul orașului București.", "Complexul conține clădirea propriu-zisă, curtea acestuia cu turnul de veghe, cuhnia (bucătăria), casa de oaspeți (Vila D'Elchingen), ghețăria și cavoul familiei Bibescu, precum și biserica „Sfântul Gheorghe” aflată lângă zidurile curții.", "Palatul Mogoșoaia a fost în posesia familiei Brâncoveanu timp de aproximativ 119 de ani, trecând apoi în proprietatea familiei Bibescu."], en: ["Mogoșoaia Palace (Romanian: Palatul Mogoșoaia, pronounced [paˈlatul moɡoˈʃo̯aja]) is situated about 10 kilometres (6.2 mi) from Bucharest, Romania.", "It was built between 1698 and 1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance style or Brâncovenesc style.", "The palace bears the name of the widow of the Romanian boyar Mogoș, who owned the land it was built on."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-manastirea-snagov", type: "historical", parent: "RO-IF", coords: [26.175, 44.7303],
+    name: { de: "Kloster Snagov", hu: "Snagov-kolostor", ro: "Mănăstirea Snagov", en: "Snagov Monastery" },
+    description: { de: "Kloster auf einer Insel, angebliches Grab von Vlad III.", hu: "Szigeti kolostor, Vlad Tepes feltételezett sírja.", ro: "Mănăstire pe o insulă, presupusul mormânt al lui Vlad Țepeș.", en: "Island monastery, alleged tomb of Vlad the Impaler." },
+    facts: { de: ["Das Kloster Snagov (rumänisch Mănăstirea Snagov) ist ein mittelalterliches Kloster und ein bedeutendes historisches Denkmal, das sich im südrumänischen Kreis Ilfov, ca.", "40 km nördlich von Bukarest, auf einer Insel im nördlichen Teil des Snagov-Sees befindet.", "Das Klostergelände gehört verwaltungstechnisch zur Gemeinde Snagov, untersteht aber direkt der Erzdiözese Bukarest."], hu: ["Copăceni község és falu Ilfov megyében, Munténiában, Romániában."], ro: ["Mănăstirea Snagov este un important monument istoric și de artă feudală din Țara Românească, care se găsește pe insula situată în partea nordică a lacului Snagov, în localitatea Snagov și în apropierea satului Siliștea Snagovului (din comuna Gruiu).", "Mănăstirea este probabil una din ctitoriile domniei târzii a lui Mircea cel Bătrân, fiind prima dată atestată documentar în 1408.", "A fost refăcută de mai multe ori de alți domnitori, printre care se pot menționa Vlad Țepeș, Mircea Ciobanul, Neagoe Basarab."], en: ["The Snagov Monastery (Romanian: Mănăstirea Snagov), also known as the Vlad Țepeș Monastery (Romanian: Mănăstirea Vlad Țepeș) is a medieval monastery and important historical monument located in southern Romania in the county of Ilfov, on an island in the northern reaches of Lake Snagov, belonging to the commune of Snagov, and in geographical proximity to the village of Siliștea Snagovului, in the Gruiu commune.", "An old center of Orthodox spirituality and culture, it stands on the foundations of an old Thracian settlement.", "The monastery is probably one of the late foundations of Mircea the Elder, being first documented in 1408."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-padurea-cernica", type: "landmark", parent: "RO-IF", coords: [26.25, 44.4333],
+    name: { de: "Cernica-Wald", hu: "Cernica-erdő", ro: "Pădurea Cernica", en: "Cernica Forest" },
+    description: { de: "Erholungsgebiet nahe Bukarest.", hu: "Pihenőövezet Bukarest közelében.", ro: "Zonă de recreere lângă București.", en: "Recreation area near Bucharest." },
+    facts: { de: ["Die folgende Liste enthält alle 171 Europäischen Vogelschutzgebiete nach Art.", "4 (1) der Europäischen Vogelschutzrichtlinie in Rumänien.", "Die Gebiete umfassen eine Gesamtfläche von 38.753 km²."], hu: [], ro: ["Lacul și Pădurea Cernica alcătuiesc o zonă naturală (arie de protecție specială avifaunistică - sit SPA) situată în partea sudică a României, pe teritoriile județelor Călărași și Ilfov."], en: ["Cernica is a commune in the southeast part of Ilfov County, Muntenia, Romania, with a population of 11,871 as of 2021.", "It is composed of five villages: Bălăceanca, Căldăraru, Cernica, Poșta, and Tânganu.", "The commune is situated in the Wallachian Plain, on the banks of the Dâmbovița River and its left tributary, the Colentina River."] },
+    image: ""
+  },
+
+  // MEHEDINȚI (RO-MH)
+  {
+    id: "ro-poi-portile-de-fier", type: "landmark", parent: "RO-MH", coords: [22.5333, 44.6667],
+    name: { de: "Eisernes Tor", hu: "Vaskapu-szoros", ro: "Porțile de Fier", en: "Iron Gates" },
+    description: { de: "Schlucht und Wasserkraftwerk an der Donau.", hu: "Szurdok és vízerőmű a Dunán.", ro: "Defileu și hidrocentrală pe Dunăre.", en: "Gorge and hydroelectric dam on the Danube." },
+    facts: { de: ["Das Eiserne Tor (rumänisch Porțile de Fier; serbisch Ђердап, Đerdap) ist ein Durchbruchstal der Donau.", "Es liegt in den südlichen Karpaten, genauer zwischen den Serbischen Karpaten und dem Banater Gebirge, an der Grenze von Serbien und Rumänien.", "Bis zu seiner Entschärfung 1972 im Zusammenhang mit dem Kraftwerk Eisernes Tor 1 galt es als der für die Schifffahrt gefährlichste Flussabschnitt der Donau, der nicht ohne ortskundige Lotsen passiert werden konnte."], hu: ["A magyar tulipán vagy al-dunai tulipán (Tulipa hungarica) endemikus tulipánfaj a Vaskapu-szorosban és környékén.", "Borbás Vince írta le először 1882-ben, – Rapaics Raymund a növény felfedezőjeként „Rochel Antal”-t nevezi meg 1835-ben, – mikor ez a vidék az Osztrák–Magyar Monarchia területét képezte.", "Jelenleg védett növény a romániai Mehedinți megyében, Szörényvárhoz (románul Drobeta-Turnu Severin) közel eső vidéken, a Kazán-szorosban (románul Cazanele Dunării) és a Vaskapu-szorosban (románul Porțile de Fier 1)."], ro: ["Porțile de Fier (limba sârbă: Гвоздена врата / Gvozdena vrata, croată: Željezna vrata, maghiară: Vaskapu, turcă: Demirkapi, germană: Eisernes Tor, bulgară: Железни врата) este numele unui defileu pe fluviul Dunăre.", "Face parte din granița dintre Serbia și România.", "În sensul larg, reprezintă 134 km din cursul Dunării, în sensul mai îngust doar barajul hidroelectric din apropierea orașului românesc Orșova."], en: ["The Iron Gates (Romanian: Porțile de Fier; Serbian: Ђердапска клисура, Đerdapska klisura) is a gorge on the river Danube.", "It forms part of the boundary between Serbia to the south and Romania to the north.", "In the broad sense it encompasses a route of 134 km (83 mi); in the narrow sense it only encompasses the last barrier on this route, just beyond the Romanian city of Orșova, that contains two hydroelectric dams, with two power stations, Iron Gate I Hydroelectric Power Station and Iron Gate II Hydroelectric Power Station."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-chipul-decebal", type: "landmark", parent: "RO-MH", coords: [22.2889, 44.6417],
+    name: { de: "Felsskulptur des Decebalus", hu: "Decebal arcmása", ro: "Chipul lui Decebal", en: "Rock Sculpture of Decebalus" },
+    description: { de: "Riesige Skulptur in der Donau-Schlucht.", hu: "Hatalmas szobor a Duna-szorosban.", ro: "Sculptură uriașă în defileul Dunării.", en: "Huge sculpture in the Danube gorge." },
+    facts: { de: [], hu: [], ro: ["Chipul regelui dac Decebal este un basorelief înalt de 55 m, aflat pe malul stâncos al Dunării, între localitățile Eșelnița și Dubova, în apropiere de orașul Orșova,Mehedinți, România.", "Basorelieful îl reprezintă pe Decebal, ultimul rege al Daciei, fiind sculptat într-o stâncă de către sculptorul Florin Cotarcea, din orașul Orșova.", "Sculptorul a lucrat timp de zece ani, perioadă în care a fost ajutat de 11 alpiniști."], en: ["The rock sculpture of Decebalus (Romanian: Chipul regelui dac Decebal) is a colossal carving of the face of Decebalus (r.", "AD 87–106), the last king of Dacia, who fought against the Roman emperors Domitian and Trajan.", "The sculpture is located near the city of Orșova, in Mehedinți County."] },
+    image: ""
+  },
+
+  // OLT (RO-OT)
+  {
+    id: "ro-poi-slatina", type: "city", parent: "RO-OT", coords: [24.3667, 44.4333],
+    name: { de: "Slatina", hu: "Slatina", ro: "Slatina", en: "Slatina" },
+    description: { de: "Industriestadt am Fluss Olt.", hu: "Ipari város az Olt folyó partján.", ro: "Oraș industrial pe râul Olt.", en: "Industrial city on the Olt River." },
+    facts: { de: ["Slatina ist der Familienname von: Klaus Slatina (1941–2022), deutscher Fußballspieler Slatina ist der Name folgender geografischer Objekte: Städte, Gemeinden: Slatina (Laktaši), Kurort in der Republik Srpska, Bosnien und Herzegowina Bjala Slatina, Stadt in Bulgarien Slatina (Kroatien), Stadt (früher Podravska Slatina), Kroatien Slatina (Rumänien), Stadt im südlichen Rumänien, Rumänien Slatina (Suceava), Gemeinde im Kreis Suceava, Rumänien Slatina-Timiș, Gemeinde im Kreis Caraș-Severin, Rumänien Slatina (Levice), Gemeinde in der südlichen Slowakei, mit Mineralwasserquellen Zvolenská Slatina, Gemeinde in der Mittelslowakei Rogaška Slatina (deutsch: Rohitsch-Sauerbrunn), Gemeinde in der Region Spodnja Štajerska, Slowenien Slatina pod Hazmburkem, Gemeinde im Okres Litoměřice, Tschechien Slatina u Velvar, Gemeinde im Okres Kladno, Tschechien Slatina u Horažďovic, Gemeinde im Okres Klatovy, Tschechien Slatina nad Úpou, Gemeinde (deutsch Moorgrund an der Aupa) im Okres Náchod, Tschechien Slatina u Bílovce, Gemeinde (deutsch Schlatten) im Okres Nový Jičín, Tschechien Slatina u Chříče, Gemeinde im Okres Plzeň-sever, Tschechien Slatina nad Zdobnicí, Gemeinde (deutsch Moorwies) im Okres Rychnov nad Kněžnou, Tschechien Slatina (Bezirk Svitavy) (deutsch Schlettau), früher auch Slatina u Moravské Třebové oder Slatina u Jevíčka, Gemeinde im Okres Svitavy, Tschechien Slatina u Vysokého Mýta, Gemeinde im Okres Ústí nad Orlicí, Tschechien Slatina u Jevišovic, Gemeinde (deutsch Latein) im Okres Znojmo, Tschechien Horní Slatina, Gemeinde (deutsch Oberlatein) im Okres Jindřichův Hradec, Tschechien Solotwyno, Stadt in der Oblast Transkarpatien, Ukraine (rumänischer Name) Orte und Ortsteile: Slatina (Teslić), Dorf in der Gemeinde Teslić in Bosnien und Herzegowina Slatina (Sofia), einer der 24 Bezirke in Sofia, Bulgarien Slatina (Oblast Lowetsch), Dorf in der Oblast Lowetsch, Bulgarien Slatina (Oblast Montana), Dorf in der Oblast Montana, Bulgarien Slatina (Oblast Plowdiw), Dorf in der Oblast Plowdiw, Bulgarien Slatina (Oblast Silistra), Dorf in der Oblast Silistra, Bulgarien Sllatina (Vushtrria), Kosovo Slatina (Andrijevica), Dorf in der Gemeinde Andrijevica, Montenegro Slatina (Danilovgrad), Dorf in der Gemeinde Danilovgrad, Montenegro Slatina (Pljevlja), Dorf in der Gemeinde Pljevlja, Montenegro Slatina (Šavnik), Dorf in der Gemeinde Šavnik, Montenegro Slatina (Argeș), Dorf im Kreis Argeș, Rumänien Slatina de Criș, Dorf im Kreis Arad, Rumänien Slatina de Mureș, Dorf im Kreis Arad, Rumänien Slatina-Nera, Dorf im Kreis Caraș-Severin, Rumänien Slatina (Negotin), Dorf in der Opština Negotin, Serbien Slatina (Knjaževac), Dorf in der Opština Knjaževac, Serbien Slatina (Bor), Dorf in der Opština Bor, Serbien Slatina (Lúky), Ort in der nordwestlichen Slowakei bei Lúky, Slowakei Slatina (Dohňany), Ort in der nordwestlichen Slowakei bei Dohňany, Slowakei Slatina nad Bebravou, Ort in der westlichen Slowakei bei Krásna Ves, Slowakei Slatina (Kungota), Ortsteil der Gemeinde Kungota, Podravska, Slowenien (dt.", "Sulz) Slatina (Brno), Stadtteil von Brno, Tschechien Slatina (Františkovy Lázně), Ort in der Gemeinde Franzensbad, Tschechien Slatina (Hradec Králové), Ortsteil von Hradec Králové, Tschechien Slatina (Přešťovice), Ortschaft der Gemeinde Přešťovice, Tschechien historisch: Slatina (Stará Voda), aufgegebener Ort, der zu Stará Voda u Mariánských Lázní gehörte, Tschechien Baulichkeiten: Kloster Slatina (Mănăstirea Slatina), rumänisch-orthodoxes Kloster im Kreis Suceava in der Region Bukowina in Rumänien Gewässer: Slatina (Hron), Fluss in der Mittelslowakei Slatina (Bach), Bach im Okres Bánovce nad Bebravou"], hu: [], ro: [], en: ["Slatina may refer to:"] },
+    image: ""
+  },
+  {
+    id: "ro-poi-manastirea-brancoveni", type: "historical", parent: "RO-OT", coords: [24.3164, 44.3125],
+    name: { de: "Kloster Brâncoveni", hu: "Brâncoveni-kolostor", ro: "Mănăstirea Brâncoveni", en: "Brâncoveni Monastery" },
+    description: { de: "Bedeutendes Kloster- und Architekturdenkmal.", hu: "Jelentős kolostor és építészeti műemlék.", ro: "Important monument arhitectural și mănăstiresc.", en: "Important monastic and architectural monument." },
+    facts: { de: [], hu: [], ro: ["Mănăstirea Brâncoveni este o mănăstire din România, situată în comuna Brâncoveni din județul Olt."], en: [] },
+    image: ""
+  },
+
+  // SĂLAJ (RO-SJ)
+  {
+    id: "ro-poi-zalau", type: "city", parent: "RO-SJ", coords: [23.0567, 47.1917],
+    name: { de: "Zillenmarkt", hu: "Zilah", ro: "Zalău", en: "Zalău" },
+    description: { de: "Kreishauptstadt von Sălaj.", hu: "Szilágy megye székhelye.", ro: "Reședința județului Sălaj.", en: "Capital of Sălaj county." },
+    facts: { de: ["Zalău ([zaˈlə̯u], veraltet Zălau oder Zălău; ungarisch Zilah [ˈzilɒx], deutsch Zillenmarkt oder auch Waltenberg) ist eine Stadt in Rumänien und liegt im Kreis Sălaj im Kreischgebiet.", "Die Kommune besteht aus zwei Ansiedlungen, der Stadt Zalău und Stâna und liegt am Oberlauf des Zalău – ein rechter Nebenfluss der Crasna – an den nordwestlichen Hängen der Meseș-Berge (Munții Meseș).", "Im Jahr 2007 hatte die Stadt ungefähr 63.600 Einwohner, 1992 zählte man noch 67.977 Einwohner."], hu: [], ro: ["Zalău (original și colocvial Zălau; în maghiară Zilah, în germană Zillenmarkt sau Waltenberg) este municipiul de reședință al județului Sălaj, Transilvania, România, format din localitățile componente Stâna și Zalău (reședința).", "Conform recensământului din anul 2011, Zalău are o populație de 56.205 locuitori."], en: ["Zalău (Romanian pronunciation: [zaˈləw], unofficial and former official name: Romanian: Zălau (Romanian pronunciation: [zalˈəw]; German: Zillenmarkt or Waltenberg, Hungarian: Zilah, Turkish: Zile) is the seat of Sălaj County, Romania.", "In 2021, its estimated population was 52,359."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-porolissum", type: "historical", parent: "RO-SJ", coords: [23.1583, 47.1803],
+    name: { de: "Porolissum", hu: "Porolissum", ro: "Castrul Roman Porolissum", en: "Porolissum Roman Camp" },
+    description: { de: "Ehemaliges römisches Militärlager.", hu: "Egykori római katonai tábor.", ro: "Fost castru militar roman.", en: "Former Roman military camp." },
+    facts: { de: ["Kastell Romita (antiker Name Certinae, Cersie oder Certie) war ein römisches Hilfstruppenlager auf dem Gebiet des zur Gemeinde Românași im Kreis Sălaj gehörenden Dorfes Romita in der rumänischen Region Siebenbürgen.", "In antiker Zeit lag es in der römischen Provinz Dacia Porolissensis und war Bestandteil des Limes Porolissensis."], hu: ["Apulum a római Dacia egyik legjelentősebb politikai, gazdasági és kulturális központja volt a 106 és 271 közötti időszakban a mai Gyulafehérvár területén.", "Az egykori dák település, Apulon közelében közvetlenül a római hódítást követően letelepedő XIII Gemina legio castruma körül a 2–3.", "században kettős település jött létre (Colonia Aurelia Apulensis és Municipium Septimium Apulense)."], ro: ["Porolissum a fost un oraș roman din Dacia.", "Stabilit ca tabără militară în anul 106 d.C., în timpul războaielor daco-romane ale lui Traian, orașul s-a dezvoltat repede prin intermediul comerțului cu băștinașii daci, și a devenit capitala provinciei romane Dacia Porolissensis în 124 d.C.", "Situl este unul dintre cele mai mari și mai bine păstrate din România."], en: ["Porolissum was an ancient Roman city in Dacia.", "Established as a military fort in 106 during Trajan's Dacian Wars, the city quickly grew through trade with the natives and became the capital of the province Dacia Porolissensis in 124.", "It is one of the largest and best-preserved archaeological sites in modern-day Romania from the Roman Era."] },
+    image: "/geo-images/romania/ro-poi-porolissum.webp"
+  },
+  {
+    id: "ro-poi-gradina-zmeilor", type: "landmark", parent: "RO-SJ", coords: [23.3, 47.2],
+    name: { de: "Drachengarten", hu: "Sárkányok kertje", ro: "Grădina Zmeilor", en: "Dragons' Garden" },
+    description: { de: "Spektakuläres Naturschutzgebiet mit Felsformationen.", hu: "Látványos természetvédelmi terület sziklaképződményekkel.", ro: "Rezervație naturală spectaculoasă cu formațiuni stâncoase.", en: "Spectacular nature reserve with rock formations." },
+    facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: ["A Sárkányok kertje (románul Grădina Zmeilor) egy felszíni erózióval létrejött sziklaképződmény Romániában, az erdélyi Szilágy megyében.", "A 32,5 hektáros terület védelem alatt áll."], ro: ["Grădina Zmeilor este o arie protejată de interes național ce corespunde categoriei a IV-a IUCN (rezervație naturală de tip geologic, floristic, faunistic și peisagistic), situată în județul Sălaj, pe teritoriul administrativ al comunei Bălan."], en: [] },
+    image: "/geo-images/romania/ro-poi-gradina-zmeilor.webp"
+  },
+
+  // SATU MARE (RO-SM)
+  {
+    id: "ro-poi-castelul-karolyi", type: "historical", parent: "RO-SM", coords: [22.4667, 47.6833],
+    name: { de: "Schloss Károlyi", hu: "Károlyi-kastély", ro: "Castelul Károlyi", en: "Károlyi Castle" },
+    description: { de: "Historisches Schloss in Carei.", hu: "Történelmi kastély Nagykárolyban.", ro: "Castel istoric în Carei.", en: "Historical castle in Carei." },
+    facts: { de: ["Das Schloss Károlyi (rumänisch Castelul Károlyi, ungarisch Károlyi-kastély) ist eine neogotisch-neobarocke Schlossanlage in Carei (deutsch Großkarol, ungarisch Nagykároly) im Nordwesten Rumäniens.", "Sie war einst Stammsitz der ungarischen Adelsfamilie Károlyi von Nagykároly."], hu: ["A Castel dell’Ovo (jelentése Tojásvár) egy nápolyi vár."], ro: ["Ansamblul castelului Károlyi din Carei este un ansamblu de monumente istorice aflat pe teritoriul orașului Carei, operă a arhitectului Arthur Meinig.", "În Repertoriul Arheologic Național, monumentul apare cu codul 136535.04.01.", "Monument de arhitectură, castelul Károly, a fost construit între anii 1892-1894."], en: ["Károlyi Castle refers to a number of castles and hunting lodges in Hungary and Romania which were owned by members of the Károlyi family"] },
+    image: ""
+  },
+  {
+    id: "ro-poi-turnul-pompierilor", type: "landmark", parent: "RO-SM", coords: [22.875, 47.7958],
+    name: { de: "Feuerwehrturm", hu: "Tűzoltótorony", ro: "Turnul Pompierilor", en: "Firemen's Tower" },
+    description: { de: "Wahrzeichen der Stadt Satu Mare.", hu: "Szatmárnémeti jelképe.", ro: "Simbol al orașului Satu Mare.", en: "Landmark of the city of Satu Mare." },
+    facts: { de: [], hu: ["A tűzoltótorony (románul: Turnul Pompierilor) tűztorony Szatmárnémetiben.", "A régi Pannónia szálló (ma Dacia hotel) mögötti téren áll.", "A kerek torony 45 méter magas, és a város egyik szimbólumának számít."], ro: ["Turnul Pompierilor, denumit pe vremuri Turnul Lăcătușilor, este situat pe strada Tipografiei din municipiul Cluj-Napoca."], en: [] },
+    image: ""
+  },
+
+  // TELEORMAN (RO-TR)
+  {
+    id: "ro-poi-alexandria", type: "city", parent: "RO-TR", coords: [25.3333, 43.9667],
+    name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria" },
+    description: { de: "Kreishauptstadt am Fluss Vedea.", hu: "Megyeszékhely a Vedea folyó partján.", ro: "Reședința județului pe râul Vedea.", en: "County capital on the Vedea river." },
+    facts: { de: ["Alexandria oder Alexandrien (altgriechisch Ἀλεξάνδρεια Alexándreia, nach Alexander dem Großen; arabisch الإسكندرية al-Iskandariyya; koptisch: Ⲣⲁⲕⲟϯ Rakoti bzw.", "ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ Aleksandria) ist mit über fünf Millionen Einwohnern (Stand 2023) und einer Ausdehnung von 32 Kilometern entlang der Mittelmeerküste nach Kairo die zweitgrößte Stadt Ägyptens und die größte ägyptische Stadt mit direktem Zugang zum Mittelmeer.", "Sie besitzt den größten Seehafen des Landes, an dem etwa 80 % des ägyptischen Außenhandels abgewickelt werden."], hu: [], ro: [], en: ["Alexandria is a major city in Egypt.", "Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi) along the country's northern coast.", "It is Egypt's principal seaport, the second largest city after Cairo, and the largest city on the Mediterranean coast."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-cetatea-turnu", type: "historical", parent: "RO-TR", coords: [24.8711, 43.7433],
+    name: { de: "Festung Turnu", hu: "Turnu erőd", ro: "Ruinele Cetății Turnu", en: "Turnu Fortress Ruins" },
+    description: { de: "Ruinen einer alten römischen und mittelalterlichen Festung.", hu: "Egy ősi római és középkori erőd romjai.", ro: "Ruinele unei vechi cetăți romane și medievale.", en: "Ruins of an ancient Roman and medieval fortress." },
+    facts: { de: ["Liste archäologischer Museen: Museen der Archäologie, einschließlich einiger bedeutender archäologischer Abteilungen und Sammlungen von allgemeineren Museen (natur-, kunst- und kulturhistorische Museen)."], hu: [], ro: ["Ruinele Cetății Severinului sunt un ansamblu de monumente istorice aflat pe teritoriul municipiului Drobeta Turnu Severin.", "În Repertoriul Arheologic Național, monumentul apare cu codul 109782.07.01.", "Cetatea are un plan dreptunghiular destul de regulat care o înconjoară și două ziduri de incintă."], en: ["The medieval fortress of Turnu (English: tower, Turkish: Kule, also known as Nicopolis minor, Holavnic) is located in the southern part of Turnu Măgurele at a distance of 3 km from the city and 1 km from the confluence of the Olt and Danube rivers in today's Romania.", "The fortress is documented during the reign of Mircea the Elder (1394) and was built on the Danube line for the defense of Wallachia against the Turkish peril.", "At the end of the reign of Mircea the Elder, under unclear circumstances, it came under Ottoman occupation to return to the possession of Wallachia only in 1829 when it was burned and demolished."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-padurea-troianu", type: "landmark", parent: "RO-TR", coords: [24.9833, 44.025],
+    name: { de: "Troianu-Wald", hu: "Troianu-erdő", ro: "Pădurea Troianu", en: "Troianu Forest" },
+    description: { de: "Naturschutzgebiet für wilde Pfingstrosen.", hu: "Vadon termő pünkösdi rózsák természetvédelmi területe.", ro: "Rezervație naturală pentru bujori sălbatici.", en: "Nature reserve for wild peonies." },
+    facts: { de: ["Die Liste der Naturschutzgebiete in Rumänien enthält die Naturschutzgebiete von nationaler Bedeutung, die erstmals durch das Gesetz Nummer 5 vom 6.", "März 2000 ausgewiesen und durch die Regierungsbeschlüsse Nummer 2151 vom 30.", "November 2004, Nummer 1581 vom 8."], hu: [], ro: ["Pădurea Troianu este o arie protejată (sit de importanță comunitară — SCI) din România, desemnată în scopul protejării biodiversității și menținerii într-o stare de conservare favorabilă a florei spontane și faunei sălbatice, precum și a habitatelor naturale de interes comunitar aflate în arealul zonei de protecție.", "Aceasta este întinsă pe o suprafață de 78,7 ha, integral pe uscat."], en: ["The spectacles in ancient Rome were numerous, open to all citizens and generally free of charge; some of them were distinguished by the grandeur of the stagings and cruelty.", "Romans preferred to attend gladiatorial fights, those with ferocious beasts (venationes), reproductions of naval battles (naumachia), chariot races, athletic contests, theatrical performances by mimes, and pantomimes.", "Forty years after the invective of Juvenal (n."] },
+    image: ""
+  },
+
+  // TIMIȘ (RO-TM)
+  {
+    id: "ro-poi-catedrala-mitropolitana", type: "landmark", parent: "RO-TM", coords: [21.2241, 45.7505],
+    name: { de: "Orthodoxe Kathedrale", hu: "Ortodox Katedrális", ro: "Catedrala Mitropolitană", en: "Metropolitan Cathedral" },
+    description: { de: "Orthodoxe Kathedrale in Timișoara.", hu: "Ortodox katedrális Temesváron.", ro: "Catedrală ortodoxă din Timișoara.", en: "Orthodox cathedral in Timișoara." },
+    facts: { de: ["Die Kathedrale der Heiligen drei Hierarchen (rumänisch: Catedrala Ortodoxă oder Catedrala Mitropolitană) ist eine denkmalgeschützte rumänisch-Orthodoxe Kirche am Bulevardul Regele Ferdinand I Nr.", "Bezirk Cetate der westrumänischen Stadt Timișoara an der Piața Victoriei, und eines ihrer Wahrzeichen.", "Sie ist den Heiligen drei Hierarchen Basilius dem Großen, Gregor von Nazianz und Johannes Chrysostomos geweiht."], hu: ["A balázsfalvi Szentháromság-székesegyház műemlék Romániában, Fehér megyében.", "A romániai műemlékek jegyzékében az AB-II-m-A-00187 sorszámon szerepel."], ro: ["Catedrala Mitropolitană din Iași, cu hramul Sfânta Parascheva, Întâmpinarea Domnului și Sfântul Mucenic Gheorghe, este biserica catedrală a Mitropoliei Moldovei și Bucovinei, una dintre cele șase catedrale mitropolitane ortodoxe din România.", "Catedrala Mitropolitană a fost inclusă pe Lista monumentelor istorice, având codul de clasificare cod LMI IS-II-m-A-04069.01."], en: [] },
+    image: ""
+  },
+
+  // VASLUI (RO-VS)
+  {
+    id: "ro-poi-vaslui", type: "city", parent: "RO-VS", coords: [27.7333, 46.6333],
+    name: { de: "Vaslui", hu: "Vászló", ro: "Vaslui", en: "Vaslui" },
+    description: { de: "Kreishauptstadt von Vaslui.", hu: "Vaslui megye székhelye.", ro: "Reședința județului Vaslui.", en: "Capital of Vaslui county." },
+    facts: { de: ["Vaslui [vasˈluj] (deutsch Wassluy) ist eine Stadt in Rumänien und ist Kreishauptstadt im gleichnamigen Kreis.", "Die Stadt hatte im Jahr 2021 ungefähr 63.000 Einwohner."], hu: [], ro: ["Vaslui este municipiul de reședință al județului cu același nume, Moldova, România, format din localitățile componente Bahnari, Brodoc, Moara Grecilor, Rediu, Vaslui (reședința) și Viișoara.", "Se află în estul României, aproape de frontiera cu Republica Moldova.", "Este atestat documentar în anul 1375."], en: ["Vaslui (Romanian pronunciation: [vasˈluj]), a city in eastern Romania, is the seat of Vaslui County, in the historical region of Western Moldavia.", "The city administers five villages: Bahnari, Brodoc, Moara Grecilor, Rediu, and Viișoara."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-curtea-domneasca-vaslui", type: "historical", parent: "RO-VS", coords: [27.7289, 46.6358],
+    name: { de: "Fürstenhof Vaslui", hu: "Vászlói Fejedelmi Udvar", ro: "Curtea Domnească din Vaslui", en: "Princely Court of Vaslui" },
+    description: { de: "Ehemalige Residenz der moldauischen Herrscher.", hu: "A moldvai uralkodók egykori rezidenciája.", ro: "Fosta reședință a domnitorilor moldoveni.", en: "Former residence of the Moldavian rulers." },
+    facts: { de: [], hu: [], ro: ["Curtea Domnească din Vaslui, cunoscută și sub denumirea colectivă Curțile Domnești din Vaslui, este o curte domnească ridicată în Vaslui de domnul Moldovei Ștefan al II-lea, fiul lui Alexandru cel Bun.", "Conform unei alte teorii, curtea ar fi fost clădită chiar de Alexandru cel Bun.", "În urma Bătăliei de la Vaslui, câștigata de Ștefan cel Mare, acesta a ctitorit Biserica „Tăierea Capului Sfântului Ioan Botezătorul” în apropierea curții domnești."], en: ["Vaslui (Romanian pronunciation: [vasˈluj]), a city in eastern Romania, is the seat of Vaslui County, in the historical region of Western Moldavia.", "The city administers five villages: Bahnari, Brodoc, Moara Grecilor, Rediu, and Viișoara."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-muzeul-stefan", type: "landmark", parent: "RO-VS", coords: [27.73, 46.636],
+    name: { de: "Kreismuseum Stefan der Große", hu: "Nagy István Megyei Múzeum", ro: "Muzeul Județean Ștefan cel Mare", en: "Stephen the Great County Museum" },
+    description: { de: "Museum für Geschichte und Archäologie.", hu: "Történelmi és régészeti múzeum.", ro: "Muzeu de istorie și arheologie.", en: "Museum of history and archeology." },
+    facts: { de: ["Liste archäologischer Museen: Museen der Archäologie, einschließlich einiger bedeutender archäologischer Abteilungen und Sammlungen von allgemeineren Museen (natur-, kunst- und kulturhistorische Museen)."], hu: ["Temesvár (németül: Temeswar, románul: Timișoara [timiˈʃo̯ara], horvátul: Temišvar, a bánsági bolgárok nyelvén: Timišvár, szerbül: Темишвар) város Romániában, a Bánságban.", "Az egykori Temes vármegye és a mai Temes megye székhelye.", "250 849 lakosával Románia harmadik legnépesebb városa."], ro: ["Muzeul Național al Bucovinei (cunoscut simplu ca Muzeul Bucovinei, în trecut Societatea Muzeul, Muzeul orășenesc Suceava, Muzeul Regional al Bucovinei, Muzeul Regional Suceava, Muzeul Județean Suceava, Complexul Muzeal Bucovina) este principala instituție muzeală din județul Suceava.", "Aceasta funcționează într-o clădire construită între anii 1902–1903, în stilurile neoclasic și baroc, situată pe strada Ștefan cel Mare nr.", "33, în centrul municipiului Suceava."], en: ["The Great Plains Transportation Museum (\"GPTM\") is a railroad museum in Wichita, Kansas, United States.", "Adjacent to an active railroad, and across a street from the city's former train station, downtown, the museum has several locomotives and other railroad cars, vintage and modern, and indoor exhibits and a gift shop.", "Visitors are allowed to board some of the cars, including locomotives, and manipulate controls."] },
+    image: ""
+  },
+
+  // VÂLCEA (RO-VL)
+  {
+    id: "ro-poi-manastirea-cozia", type: "historical", parent: "RO-VL", coords: [24.3164, 45.2731],
+    name: { de: "Kloster Cozia", hu: "Cozia-kolostor", ro: "Mănăstirea Cozia", en: "Cozia Monastery" },
+    description: { de: "Mittelalterliches Kloster am Fluss Olt.", hu: "Középkori kolostor az Olt folyó partján.", ro: "Mănăstire medievală pe malul Oltului.", en: "Medieval monastery on the Olt river." },
+    facts: { de: ["Das Kloster Cozia (rumänisch Mǎnǎstirea Cozia) liegt im Olt-Tal in Rumänien.", "Es wurde 1386 von Fürst Mircea dem Älteren gegründet.", "Erst als Nucet-Kloster benannt, bekam es den heutigen Namen vom nahe gelegenen Berg Cozia."], hu: ["A Cozia kolostor Romániában, Olténiában, Vâlcea megyében, Călimăneștiben, az Olt jobb partján helyezkedik el.", "Az ortodox vallási épületegyüttes a romániai műemlékek jegyzékében a VL-II-a-A-09697 sorszámon szerepel.", "Mircea cel Bătrân alapította 1388-ban, a történelem során pedig sokszor alakították és javították."], ro: ["Mănăstirea Cozia este un complex monahal medieval, situat în orașul Călimănești, pe malul râului Olt.", "Este o ctitorie a domnului Mircea cel Bătrân, extinsă și renovată de-a lungul istoriei sale multiseculare.", "Paul de Alep, în jurnalul călătoriei sale în Țara Românească între 21 august 1656 - 13 octombrie 1658 scria despre Cozia: „În limba lor înțelesul numelui acestei mănăstiri, Cozia este „fortăreață de pământ din pricina nenumăraților munți din această țară”."], en: ["Cozia Monastery (Romanian: Mănăstirea Cozia) is one of the most important medieval monastic complexes in Romania, located on the right bank of the Olt River near the town of Călimănești in Vâlcea County.", "Founded in the late 14th century by voivode Mircea the Elder, the monastery has played a pivotal role in the spiritual, cultural, and political history of the region for over six centuries.", "Its construction between 1387 and 1391 marked a defining moment in the development of Wallachian religious architecture and established Cozia as a prominent Orthodox monastic center."] },
+    image: "/geo-images/romania/ro-poi-manastirea-cozia.webp"
+  },
+  {
+    id: "ro-poi-salina-ocnele-mari", type: "landmark", parent: "RO-VL", coords: [24.3167, 45.0833],
+    name: { de: "Salzbergwerk Ocnele Mari", hu: "Ocnele Mari Sóbánya", ro: "Salina Ocnele Mari", en: "Ocnele Mari Salt Mine" },
+    description: { de: "Großes touristisches Salzbergwerk.", hu: "Nagy turisztikai sóbánya.", ro: "Mare salină turistică.", en: "Large tourist salt mine." },
+    facts: { de: [], hu: [], ro: ["Salina Ocnele Mari este o exploatare minieră a sării aflată în localitatea Ocnele Mari, Vâlcea, Oltenia, România.", "Este a doua cea mai mare salină și cea mai veche din România, ce aparține Societății Naționale a Sării „Salrom” S.A., având o suprafață de aproximativ 50.000 metri pătrați.", "Salina este situată la 7 km de Râmnicu Vâlcea, iar accesul se face exclusiv cu autobuze, pe un drum cu o lungime de aproximativ 2 km."], en: ["The Ocnele Mari mine is a large salt mine located in southern Romania in Vâlcea County, close to Ocnele Mari.", "Ocnele Mari represents one of the largest salt reserves in the country, having estimated reserves of 9 billion tonnes of sodium chloride."] },
+    image: ""
+  },
+
+  // VRANCEA (RO-VN)
+  {
+    id: "ro-poi-focsani", type: "city", parent: "RO-VN", coords: [27.1833, 45.7],
+    name: { de: "Fokschan", hu: "Foksány", ro: "Focșani", en: "Focșani" },
+    description: { de: "Kreishauptstadt in der historischen Region Moldau.", hu: "Megyeszékhely a történelmi Moldva régióban.", ro: "Oraș reședință în regiunea istorică Moldova.", en: "County capital in the historical region of Moldavia." },
+    facts: { de: ["Focșani (, deutsch Fokschan, ungarisch Foksány) ist eine Stadt im Osten Rumäniens."], hu: [], ro: ["Focșani este municipiul de reședință al județului Vrancea, la limita între regiunile istorice Moldova și Muntenia, România, format din localitățile componente Focșani (reședința), Mândrești-Moldova și Mândrești-Munteni.", "Potrivit recensământului din 2021, are o populație de 66.648 locuitori.", "O așezare a existat în acest loc încă din secolul al XIII-lea, aici fiind localizată Civitas Milcoviae, reședința Episcopiei de Milcov, catolică."], en: ["Focșani (Romanian: [fokˈʃanʲ] ; Yiddish: פֿאָקשאַן, romanized: Fokshan) is the capital city of Vrancea County in Romania on the banks the river Milcov, in the historical region of Moldavia.", "As of 2022, it has a population of 66,719."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-mausoleul-marasesti", type: "historical", parent: "RO-VN", coords: [27.2333, 45.8833],
+    name: { de: "Mausoleum Mărășești", hu: "Mărășești-i mauzóleum", ro: "Mausoleul de la Mărășești", en: "Mărășești Mausoleum" },
+    description: { de: "Denkmal für die Gefallenen des Ersten Weltkriegs.", hu: "Az első világháború hőseinek emlékműve.", ro: "Monument dedicat eroilor din Primul Război Mondial.", en: "Monument dedicated to the heroes of World War I." },
+    facts: { de: ["Die Liste von Kriegsgräberstätten in Rumänien führt Soldatenfriedhöfe und sonstige Kriegsgräberstätten in Rumänien auf."], hu: ["Károly király park (románul: Parcul Carol I) egy közpark Bukarest déli részén, a 4.", "kerületben, az úgynevezett Filaret-negyedben.", "1906-ban hozták létre egy kiállítás helyszíneként; később közparkká alakították át."], ro: ["Mausoleul de la Mărășești este un monument istoric dedicat eroilor Primului Război Mondial.", "Mausoleul a fost ridicat pe locul în care, în vara anului 1917, s-au desfășurat luptele de la Mărășești, soldate cu victoria trupelor române.", "În confruntările de la Mărășești au pierit 480 de ofițeri și 21.000 de soldați români."], en: ["The Mausoleum of Mărășești is a memorial site in Romania containing remains of 5,073 Romanian soldiers and officers killed in the First World War and dedicated to the commemoration of the Battle of Mărășești and Romanian Army members who were killed during World War I.", "The memorial took architects George Cristinel and Constantin Pomponiu 15 years to build and was unveiled on 18 September 1938 by King Carol II.", "The frieze in bas-relief surrounding the base of the dome was sculpted by Cornel Medrea and Ion Jalea."] },
+    image: ""
+  },
+  {
+    id: "ro-poi-rezervatia-putna", type: "landmark", parent: "RO-VN", coords: [26.5667, 45.9167],
+    name: { de: "Naturpark Putna-Vrancea", hu: "Putna-Vrancea Natúrpark", ro: "Parcul Natural Putna-Vrancea", en: "Putna-Vrancea Natural Park" },
+    description: { de: "Schutzgebiet mit Wasserfällen und Wäldern.", hu: "Védett terület vízesésekkel és erdőkkel.", ro: "Arie protejată cu cascade și păduri.", en: "Protected area with waterfalls and forests." },
+    facts: { de: ["i3i6 Der Naturpark Putna-Vrancea (rumänisch Parcul Natural Putna) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Putna–Vrancea Natúrpark (románul Parcul Natural Putna–Vrancea) IUCN V-ös besorolású védett terület Romániában Vrancea megye észak-nyugati részén, a Háromszéki-havasok vidékén."], ro: ["Parcul Natural Putna-Vrancea este o arie protejată de interes național, ce corespunde categoriei a V-a IUCN (parc natural), situată în sud-vestul Moldovei, pe teritoriul județului Vrancea."], en: ["The Putna-Vrancea Natural Park (Romanian: Parcul Natural Putna-Vrancea) is a protected area (natural park category V IUCN) situate in Romania, in administrative territory of Vrancea County."] },
+    image: ""
+  }
+];
+
 export const romaniaAllPois: POI[] = [
   ...romaniaCountry,
   ...romaniaRegions,
@@ -1389,4 +1906,5 @@ export const romaniaAllPois: POI[] = [
   ...romaniaTraditions,
   ...romaniaWildlife,
   ...romaniaFolk,
+  ...romaniaExtraPois,
 ];

@@ -97,7 +97,7 @@ export default async function PoiPage({
   const description = poi.description[resolved.lang] || poi.description.de;
   const advanced = poi.descriptionAdvanced?.[resolved.lang] || poi.descriptionAdvanced?.de;
   const facts = [
-    ...(poi.facts[resolved.lang] || poi.facts.de || []),
+    ...(poi.facts?.[resolved.lang] || poi.facts?.de || []),
     ...((poi.factsAdvanced?.[resolved.lang] || poi.factsAdvanced?.de || []) as string[]),
   ];
 
