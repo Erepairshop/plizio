@@ -72,7 +72,7 @@ async function downloadImage(url) {
 async function run() {
     let newlyDownloadedCount = 0;
     let totalProcessed = 0;
-    const MAX_BATCH = 300;
+    const MAX_BATCH = 1000;
     const COMMIT_BATCH_SIZE = 50;
     let uncommittedCount = 0;
     let toCommitPaths = new Set();
