@@ -1973,7 +1973,7 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Muzeul Țăranului Român", en: "Museum of the Romanian Peasant", hu: "Román Parasztmúzeum", de: "Museum des rumänischen Bauern" },
     description: { ro: "Muzeu dedicat artei și tradițiilor populare.", en: "Museum dedicated to folk art and traditions.", hu: "Népművészetnek és hagyományoknak szentelt múzeum.", de: "Museum für Volkskunst und Traditionen." },
     facts: { ro: ["Clădire în stil neoromânesc."], en: ["Neo-Romanian style building."], hu: ["Neoromán stílusú épület."], de: ["Gebäude im neo-rumänischen Stil."] },
-    image: ""
+    image: "/geo-images/romania/museum-of-the-romanian-peasant.webp"
   },
   {
     id: "cultura-opera-cluj", type: "landmark", parent: "RO-CJ", coords: [23.5969, 46.7704],
@@ -1987,7 +1987,7 @@ export const romaniaCulture: POI[] = [
     name: { ro: "FITS - Festivalul Internațional de Teatru de la Sibiu", en: "Sibiu International Theatre Festival", hu: "Nagyszebeni Nemzetközi Színházi Fesztivál", de: "Internationales Theaterfestival Sibiu" },
     description: { ro: "Unul dintre cele mai mari festivaluri de teatru din lume.", en: "One of the largest theatre festivals in the world.", hu: "A világ egyik legnagyobb színházi fesztiválja.", de: "Eines der größten Theaterfestivals der Welt." },
     facts: { ro: ["Are loc anual în Sibiu."], en: ["Takes place annually in Sibiu."], hu: ["Évente kerül megrendezésre Nagyszebenben."], de: ["Findet jährlich in Sibiu statt."] },
-    image: ""
+    image: "/geo-images/romania/sibiu-international-theatre-festival.webp"
   },
   {
     id: "cultura-muzeul-brukenthal", type: "landmark", parent: "RO-SB", coords: [24.151, 45.796],
@@ -2022,7 +2022,7 @@ export const romaniaCulture: POI[] = [
     name: { ro: "Muzeul Grigore Antipa", en: "Grigore Antipa Museum", hu: "Grigore Antipa Múzeum", de: "Grigore-Antipa-Museum" },
     description: { ro: "Muzeu național de istorie naturală.", en: "National museum of natural history.", hu: "Nemzeti természettudományi múzeum.", de: "Nationales naturhistorisches Museum." },
     facts: { ro: ["Una dintre cele mai mari colecții din Europa de Est."], en: ["One of the largest collections in Eastern Europe."], hu: ["Kelet-Európa egyik legnagyobb gyűjteménye."], de: ["Eine der größten Sammlungen in Osteuropa."] },
-    image: ""
+    image: "/geo-images/romania/grigore-antipa-museum.webp"
   },
   {
     id: "cultura-opera-timisoara", type: "landmark", parent: "RO-TM", coords: [21.226, 45.753],
@@ -2070,35 +2070,35 @@ export const romaniaTraditions: POI[] = [
     name: { ro: "Sânzienele", en: "Sânziene (Midsummer)", hu: "Sânziene (Szentivánéj)", de: "Sânziene (Mittsommer)" },
     description: { ro: "Sărbătoare de vară legată de recolte și dragoste.", en: "Summer festival related to harvest and love.", hu: "Nyári ünnep a terméshez és a szerelemhez kötődően.", de: "Sommerfest im Zusammenhang mit Ernte und Liebe." },
     facts: { ro: ["Se sărbătorește pe 24 iunie."], en: ["Celebrated on June 24th."], hu: ["Június 24-én ünneplik."], de: ["Wird am 24. Juni gefeiert."] },
-    image: ""
+    image: "/geo-images/romania/sanziene-midsummer.webp"
   },
   {
     id: "trad-colindat", type: "historical", parent: "RO", coords: [25.0, 47.0],
     name: { ro: "Colindatul de Crăciun", en: "Christmas Caroling", hu: "Karácsonyi kántálás", de: "Weihnachtssingen" },
     description: { ro: "Tradiție de iarnă în care grupuri merg din casă în casă.", en: "Winter tradition where groups go from house to house.", hu: "Téli hagyomány, amikor csoportok házról házra járnak.", de: "Wintertradition, bei der Gruppen von Haus zu Haus gehen." },
     facts: { ro: ["Colindatul de ceată bărbătească este în patrimoniul UNESCO."], en: ["Men's group caroling is in UNESCO heritage."], hu: ["A férficsoportos kántálás az UNESCO örökség része."], de: ["Das Singen in Männergruppen gehört zum UNESCO-Kulturerbe."] },
-    image: ""
+    image: "/geo-images/romania/christmas-caroling.webp"
   },
   {
     id: "trad-dragobete", type: "historical", parent: "RO", coords: [23.5, 45.5],
     name: { ro: "Dragobetele", en: "Dragobete (Lovers' Day)", hu: "Dragobete (Szerelmesek napja)", de: "Dragobete (Tag der Liebenden)" },
     description: { ro: "Sărbătoarea tradițională a iubirii la români.", en: "Traditional Romanian celebration of love.", hu: "A szerelem hagyományos román ünnepe.", de: "Traditionelles rumänisches Fest der Liebe." },
     facts: { ro: ["Sărbătorit pe 24 februarie."], en: ["Celebrated on February 24th."], hu: ["Február 24-én ünneplik."], de: ["Wird am 24. Februar gefeiert."] },
-    image: ""
+    image: "/geo-images/romania/dragobete-lovers.webp"
   },
   {
     id: "trad-ignatul", type: "historical", parent: "RO", coords: [24.5, 46.0],
     name: { ro: "Ignatul", en: "Ignat Day (Pig Slaughter)", hu: "Disznóvágás (Ignat)", de: "Ignattag (Schweineschlachten)" },
     description: { ro: "Tradiție pre-crăciun care implică tăierea porcului.", en: "Pre-Christmas tradition involving pig slaughtering.", hu: "Karácsony előtti disznóvágás hagyomanya.", de: "Vorweihnachtliche Tradition des Schweineschlachtens." },
     facts: { ro: ["Are loc pe 20 decembrie."], en: ["Takes place on December 20th."], hu: ["December 20-án zajlik."], de: ["Findet am 20. Dezember statt."] },
-    image: ""
+    image: "/geo-images/romania/ignat-day-pig-slaughter.webp"
   },
   {
     id: "trad-boboteaza", type: "historical", parent: "RO", coords: [26.0, 45.0],
     name: { ro: "Boboteaza", en: "Epiphany", hu: "Vízkereszt", de: "Dreikönigsfest" },
     description: { ro: "Sărbătoare de iarnă cu sfințirea apelor.", en: "Winter holiday with the blessing of the waters.", hu: "Téli ünnep a vizek megszentelésével.", de: "Winterfest mit der Segnung der Gewässer." },
     facts: { ro: ["Sărbătorită pe 6 ianuarie."], en: ["Celebrated on January 6th."], hu: ["Január 6-án ünneplik."], de: ["Wird am 6. Januar gefeiert."] },
-    image: ""
+    image: "/geo-images/romania/epiphany.webp"
   },
   {
     id: "trad-paparudele", type: "historical", parent: "RO", coords: [25.0, 44.0],
@@ -2139,7 +2139,7 @@ export const romaniaWildlife: POI[] = [
     name: { ro: "Vidra", en: "Eurasian Otter", hu: "Vidra", de: "Fischotter" },
     description: { ro: "Mamifer acvatic întâlnit în Delta Dunării și râuri.", en: "Aquatic mammal found in the Danube Delta and rivers.", hu: "A Duna-deltában és a folyókban élő vízi emlős.", de: "Wassersäugetier, das im Donaudelta und in Flüssen vorkommt." },
     facts: { ro: ["Este un indicator al calității apei."], en: ["It is an indicator of water quality."], hu: ["A vízminőség indikátora."], de: ["Es ist ein Indikator für die Wasserqualität."] },
-    image: ""
+    image: "/geo-images/romania/eurasian-otter.webp"
   },
   {
     id: "wild-pelicanul", type: "animal-habitat", parent: "RO-TL", coords: [29.4, 44.9],
