@@ -72,7 +72,7 @@ async function downloadImage(url) {
 async function run() {
     let newlyDownloadedCount = 0;
     let totalProcessed = 0;
-    const MAX_BATCH = 1000;
+    const MAX_BATCH = 5000;
     const COMMIT_BATCH_SIZE = 50;
     let uncommittedCount = 0;
     let toCommitPaths = new Set();
@@ -88,111 +88,89 @@ async function run() {
         let modified = false;
         const countryPath = countryConfig[filename];
 
-        const matches = [];
-        
-        // name followed by image (restricted to not cross { or })
-        const regex1 = /(name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\}[^{}]*?image:\s*["']([^"']*?)["'])/gs;
-        let match;
-        while ((match = regex1.exec(content)) !== null) {
-            matches.push({
-                fullMatch: match[1],
-                name: match[2],
-                imagePath: match[3],
-                index: match.index,
-                type: 1
-            });
-        }
+        // More flexible split
+        const blocks = content.split(/\n\s*\{/);
+        const newBlocks = [blocks[0]];
 
-        // image followed by name (restricted to not cross { or })
-        const regex2 = /(image:\s*["']([^"']*?)["'][^{}]*?name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\})/gs;
-        while ((match = regex2.exec(content)) !== null) {
-            if (!matches.find(m => m.index === match.index)) {
-                matches.push({
-                    fullMatch: match[1],
-                    name: match[3],
-                    imagePath: match[2],
-                    index: match.index,
-                    type: 2
-                });
-            }
-        }
+        console.log(`Processing ${blocks.length - 1} potential POI blocks in ${filename}`);
 
-        console.log(`Found ${matches.length} POIs in ${filename}`);
-
-        for (const poi of matches) {
-            if (totalProcessed >= MAX_BATCH) break;
-
-            let currentImagePath = poi.imagePath;
-            let currentName = poi.name;
-
-            if (currentImagePath === "") {
-                const kebabName = toKebabCase(currentName);
-                currentImagePath = countryPath 
-                    ? `/geo-images/${countryPath}/${kebabName}.webp`
-                    : `/geo-images/${kebabName}.webp`;
-                
-                const oldBlock = poi.fullMatch;
-                const newBlock = oldBlock.replace(/image:\s*["']["']/, `image: "${currentImagePath}"`);
-                content = content.replace(oldBlock, newBlock);
-                modified = true;
-                console.log(`[UPDATE] Generated path for ${currentName}: ${currentImagePath}`);
-            }
-
-            const targetAbsPath = path.join(rootDir, 'public', currentImagePath.replace(/^\//, ''));
+        for (let i = 1; i < blocks.length; i++) {
+            let block = blocks[i];
             
-            if (fs.existsSync(targetAbsPath)) {
-                continue;
-            }
+            // Extract name.en - handle both {"en": "..."} and { en: "..." }
+            const nameMatch = /name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["']/.exec(block);
+            // Extract image
+            const imageMatch = /image:\s*["']([^"']*?)["']/.exec(block);
 
-            totalProcessed++;
-            await delay(3000); // Increased delay to 3s
+            if (nameMatch && imageMatch) {
+                let currentName = nameMatch[1];
+                let currentImagePath = imageMatch[1];
 
-            console.log(`[INFO] Processing ${currentName}...`);
-            const thumbUrl = await getWikipediaThumbnail(currentName);
-            
-            if (!thumbUrl) {
-                console.log(`[SKIP] No Wikipedia thumbnail found for: ${currentName}`);
-                continue;
-            }
-
-            try {
-                const imgBuffer = await downloadImage(thumbUrl);
-                const targetDir = path.dirname(targetAbsPath);
-                if (!fs.existsSync(targetDir)) {
-                    fs.mkdirSync(targetDir, { recursive: true });
+                if (currentImagePath === "") {
+                    const kebabName = toKebabCase(currentName);
+                    currentImagePath = countryPath 
+                        ? `/geo-images/${countryPath}/${kebabName}.webp`
+                        : `/geo-images/${kebabName}.webp`;
+                    
+                    block = block.replace(/image:\s*["']["']/, `image: "${currentImagePath}"`);
+                    modified = true;
+                    console.log(`[UPDATE] Generated path for ${currentName}: ${currentImagePath}`);
                 }
 
-                await sharp(imgBuffer)
-                    .webp({ quality: 80 })
-                    .toFile(targetAbsPath);
-
-                console.log(`[DOWNLOADED] ${currentName} -> ${currentImagePath}`);
-                newlyDownloadedCount++;
-                uncommittedCount++;
+                const targetAbsPath = path.join(rootDir, 'public', currentImagePath.replace(/^\//, ''));
                 
-                const dirParts = currentImagePath.split('/').filter(Boolean);
-                if (dirParts.length >= 2 && dirParts[0] === 'geo-images') {
-                     // If it's a file in geo-images/ (like DE-BY.webp), add the file itself
-                     if (dirParts.length === 2) {
-                         toCommitPaths.add(`public/geo-images/${dirParts[1]}`);
-                     } else {
-                         toCommitPaths.add(`public/geo-images/${dirParts[1]}/`);
-                     }
-                }
+                if (!fs.existsSync(targetAbsPath) && totalProcessed < MAX_BATCH) {
+                    totalProcessed++;
+                    await delay(3000);
 
-                if (uncommittedCount >= COMMIT_BATCH_SIZE) {
-                    commitBatch(toCommitPaths);
-                    uncommittedCount = 0;
-                    toCommitPaths.clear();
-                }
+                    console.log(`[INFO] Processing ${currentName}...`);
+                    const thumbUrl = await getWikipediaThumbnail(currentName);
+                    
+                    if (thumbUrl) {
+                        try {
+                            const imgBuffer = await downloadImage(thumbUrl);
+                            const targetDir = path.dirname(targetAbsPath);
+                            if (!fs.existsSync(targetDir)) {
+                                fs.mkdirSync(targetDir, { recursive: true });
+                            }
 
-            } catch (err) {
-                console.error(`[FAILED] Failed to process ${currentName}: ${err.message}`);
+                            await sharp(imgBuffer)
+                                .webp({ quality: 80 })
+                                .toFile(targetAbsPath);
+
+                            console.log(`[DOWNLOADED] ${currentName} -> ${currentImagePath}`);
+                            newlyDownloadedCount++;
+                            uncommittedCount++;
+                            
+                            const dirParts = currentImagePath.split('/').filter(Boolean);
+                            if (dirParts.length >= 2 && dirParts[0] === 'geo-images') {
+                                 if (dirParts.length === 2) {
+                                     toCommitPaths.add(`public/geo-images/${dirParts[1]}`);
+                                 } else {
+                                     toCommitPaths.add(`public/geo-images/${dirParts[1]}/`);
+                                 }
+                            }
+
+                            if (uncommittedCount >= COMMIT_BATCH_SIZE) {
+                                commitBatch(toCommitPaths);
+                                uncommittedCount = 0;
+                                toCommitPaths.clear();
+                            }
+                        } catch (err) {
+                            console.error(`[FAILED] Failed to process ${currentName}: ${err.message}`);
+                        }
+                    } else {
+                        console.log(`[SKIP] No Wikipedia thumbnail found for: ${currentName}`);
+                    }
+                }
             }
+            newBlocks.push(block);
         }
 
         if (modified) {
-            fs.writeFileSync(filepath, content, 'utf-8');
+            // We need to restore the separator. Since we split by \n\s*{, we should ideally know what was matched.
+            // But usually it's \n  {
+            fs.writeFileSync(filepath, newBlocks.join('\n  {'), 'utf-8');
             console.log(`[SAVED] Updated ${filename} with new image paths.`);
             execSync(`git add ${filepath}`, { cwd: rootDir });
         }
