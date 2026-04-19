@@ -13,9 +13,9 @@ interface EuropeMapProps {
 }
 
 const COUNTRY_BINDINGS: Record<string, string> = {
-  DE: "deutschland-map",
-  HU: "magyarorszag-map",
-  RO: "romania-map",
+  DE: "/deutschland-map",
+  HU: "/magyarorszag-map",
+  RO: "/romania-map",
 };
 
 const COMING_SOON: Record<Lang, string> = {
@@ -143,7 +143,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
     if (dragged.current) return;
     const bind = COUNTRY_BINDINGS[country.id];
     if (bind) {
-      router.push(`/visual-lab?vlab=${bind}`);
+      router.push(bind);
     } else {
       setToast({
         title: country.names[lang] || country.names.en,
