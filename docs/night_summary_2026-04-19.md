@@ -1,11 +1,11 @@
 # Éjjeli automata ciklus összefoglaló (2026-04-18 → 2026-04-19)
 
-## Számok (04:25-i állapot)
+## Számok (05:25-i állapot — session teljes)
 
-- **28 commit** 22:00 → 04:25 között
-- **120 fájl** módosítva
-- **+76,330 sor hozzáadva**, −4,229 sor törölve
-- **Net: +72,101 sor**
+- **30 commit** 22:00 → 05:25 között
+- **123 fájl** módosítva
+- **+76,365 sor hozzáadva**, −4,256 sor törölve
+- **Net: +72,109 sor**
 
 ## Kategóriák
 
@@ -73,6 +73,10 @@
 ### 9. Romania POI bővítés (hajnal)
 
 - **+30-40 POI** (`b05beeb7ee`) — kultúra/hagyomány/állatvilág/népi kategóriák
+
+### 10. Content fix (5:23)
+
+- **Cross-language szennyezés javítás** (`5ded3e2980`) — pattern-finish/deutsch + magyar konzervatív javítás (44 sor változás, Pro csak a valódi hibákat fixelte, false positive-ekkel nem foglalkozott)
 
 ## Használt erőforrások
 
