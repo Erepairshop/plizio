@@ -3,6 +3,7 @@ import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { CONTINENTS_GEOJSON } from "@/lib/geojson/continents";
 
 const Globe = dynamic(() => import("react-globe.gl"), { ssr: false, loading: () => <div className="w-full h-full bg-black" /> });
 
@@ -13,16 +14,6 @@ const TITLE: Record<Lang, string> = {
   ro: "Harta Lumii (3D)",
   en: "World Map (3D)",
 };
-
-// Continent centroids (lon, lat, label, route)
-const CONTINENTS = [
-  { lat: 54, lng: 10, label: "Europe", route: "/europe-map" },
-  { lat: 40, lng: -100, label: "North America", route: "/na-map" },
-  { lat: -15, lng: -60, label: "South America", route: "/sa-map" },
-  { lat: 0, lng: 20, label: "Africa", route: "/africa-map" },
-  { lat: 30, lng: 90, label: "Asia", route: "/asia-map" },
-  { lat: -25, lng: 135, label: "Australia", route: "/oceania-map" },
-];
 
 const CAPITALS = [
   { lat: 52.52, lng: 13.40, label: "Berlin" },
@@ -55,17 +46,27 @@ export default function WorldGlobePage() {
           globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
           bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
           backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
-          labelsData={[...CONTINENTS, ...CAPITALS]}
-          labelLat={(d: any) => d.lat}
-          labelLng={(d: any) => d.lng}
-          labelText={(d: any) => d.label}
-          labelSize={(d: any) => d.route ? 1.5 : 0.8}
-          labelColor={(d: any) => d.route ? "#22d3ee" : "#FFD166"}
-          labelAltitude={0.01}
-          labelDotRadius={(d: any) => d.route ? 0.6 : 0.3}
-          onLabelClick={(d: any) => { if (d.route) router.push(d.route); }}
+          
+          polygonsData={CONTINENTS_GEOJSON.features}
+          polygonGeoJsonGeometry={(d: any) => d.geometry}
+          polygonCapColor={(d: any) => d.properties.color + "40"}
+          polygonSideColor={() => "rgba(34, 211, 238, 0.1)"}
+          polygonStrokeColor={(d: any) => d.properties.color}
+          polygonLabel={(d: any) => d.properties.name}
+          onPolygonClick={(d: any) => { if (d.properties.route) router.push(d.properties.route); }}
+          polygonsTransitionDuration={300}
+          polygonAltitude={0.005}
+
+          pointsData={CAPITALS}
+          pointLat={(d: any) => d.lat}
+          pointLng={(d: any) => d.lng}
+          pointLabel={(d: any) => d.label}
+          pointColor={() => "#FFD166"}
+          pointAltitude={0.01}
+          pointRadius={0.3}
         />
       </main>
     </div>
   );
 }
+
