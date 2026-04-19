@@ -3349,5 +3349,455 @@ export const pois: POI[] = [
     },
     image: "/geo-images/germany/hansa-park.webp",
   },
+  {
+    id: "landmark-burg-cochem",
+    type: "landmark",
+    parent: "DE-RP",
+    coords: [7.16, 50.14],
+    name: { de: "Reichsburg Cochem", hu: "Cochemi birodalmi vár", ro: "Castelul Reichsburg Cochem", en: "Cochem Imperial Castle" },
+    description: { de: "Majestätische Burg auf einem Hügel über der Mosel, ein Wahrzeichen der Region.", hu: "Fenséges vár a Mosel feletti dombon, a régió egyik legfontosabb jelképe.", ro: "Castel maiestuos pe un deal deasupra râului Mosela, un simbol al regiunii.", en: "Majestic castle on a hill above the Moselle, a landmark of the region." },
+    facts: {
+      de: ["Größte Höhenburg an der Mosel.", "Wurde im 19. Jahrhundert im neugotischen Stil restauriert."],
+      hu: ["A Mosel menti legnagyobb hegyi vár.", "A 19. században neogótikus stílusban restaurálták."],
+      ro: ["Cel mai mare castel de pe înălțimile Moselei.", "A fost restaurat în secolul al XIX-lea în stil neogotic."],
+      en: ["Largest hilltop castle on the Moselle.", "Restored in the 19th century in Neogothic style."]
+    },
+    image: "/geo-images/germany/burg-cochem.webp",
+  },
+  {
+    id: "landmark-festung-marienberg",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [9.92, 49.79],
+    name: { de: "Festung Marienberg", hu: "Marienberg erőd", ro: "Fortăreața Marienberg", en: "Marienberg Fortress" },
+    description: { de: "Eine markante Festungsanlage hoch über Würzburg mit Blick auf den Main und die Weinberge.", hu: "Markáns erődrendszer magasan Würzburg felett, kilátással a Mainra és a szőlőültetvényekre.", ro: "O fortăreață impresionantă deasupra orașului Würzburg, cu vedere la râul Main și podgorii.", en: "A prominent fortress high above Würzburg with views of the Main and the vineyards." },
+    facts: {
+      de: ["Sitz der Würzburger Fürstbischöfe für fast 500 Jahre.", "Beherbergt das Museum für Franken."],
+      hu: ["A würzburgi hercegérsekek székhelye volt közel 500 évig.", "Itt található a Frankföld Múzeum."],
+      ro: ["Sediul prinților-episcopi de Würzburg timp de aproape 500 de ani.", "Găzduiește Muzeul pentru Franconia."],
+      en: ["Seat of the Prince-Bishops of Würzburg for nearly 500 years.", "Home to the Museum for Franconia."]
+    },
+    image: "/geo-images/germany/festung-marienberg.webp",
+  },
+  {
+    id: "landmark-schloss-nordkirchen",
+    type: "landmark",
+    parent: "DE-NW",
+    coords: [7.73, 51.73],
+    name: { de: "Schloss Nordkirchen", hu: "Nordkircheni kastély", ro: "Castelul Nordkirchen", en: "Nordkirchen Castle" },
+    description: { de: "Bekannt als das 'Westfälische Versailles', ist es das größte Wasserschloss Westfalens.", hu: "A 'vesztfáliai Versailles'-ként ismert kastély Vesztfália legnagyobb vízi kastélya.", ro: "Cunoscut sub numele de 'Versailles-ul vestfalian', este cel mai mare castel pe apă din Westfalia.", en: "Known as the 'Westphalian Versailles', it is the largest moated castle in Westphalia." },
+    facts: {
+      de: ["UNESCO-Weltkulturerbe der Barockbaukunst.", "Umfangreiche Gartenanlagen im französischen Stil."],
+      hu: ["Barokk építőművészeti UNESCO világörökség.", "Kiterjedt francia stíulú kertekkel rendelkezik."],
+      ro: ["Patrimoniu mondial UNESCO al arhitecturii baroce.", "Grădini vaste în stil francez."],
+      en: ["UNESCO World Heritage of Baroque architecture.", "Extensive French-style gardens."]
+    },
+    image: "/geo-images/germany/schloss-nordkirchen.webp",
+  },
+  {
+    id: "landmark-schloss-pfaueninsel",
+    type: "landmark",
+    parent: "DE-BE",
+    coords: [13.13, 52.43],
+    name: { de: "Schloss Pfaueninsel", hu: "Páva-szigeti kastély", ro: "Castelul de pe Insula Păunilor", en: "Pfaueninsel Castle" },
+    description: { de: "Ein romantisches weißes Lustschloss auf einer Insel in der Havel bei Berlin.", hu: "Romantikus fehér kastély a Berlin közeli Havel folyó egyik szigetén.", ro: "Un castel alb romantic pe o insulă din râul Havel, lângă Berlin.", en: "A romantic white pleasure palace on an island in the Havel near Berlin." },
+    facts: {
+      de: ["Auf der Insel laufen heute noch Pfaue frei herum.", "Erbaut für König Friedrich Wilhelm II. und Wilhelmine Enke."],
+      hu: ["A szigeten ma is szabadon kószálnak pávák.", "II. Frigyes Vilmos király és Wilhelmine Enke számára épült."],
+      ro: ["Pe insulă, păunii încă umblă liberi astăzi.", "Construit pentru regele Frederic Wilhelm al II-lea și Wilhelmine Enke."],
+      en: ["Peacocks still roam free on the island today.", "Built for King Frederick William II and Wilhelmine Enke."]
+    },
+    image: "/geo-images/germany/schloss-pfaueninsel.webp",
+  },
+  {
+    id: "landmark-burg-frankenstein",
+    type: "landmark",
+    parent: "DE-HE",
+    coords: [8.67, 49.79],
+    name: { de: "Burg Frankenstein", hu: "Frankenstein vára", ro: "Castelul Frankenstein", en: "Frankenstein Castle" },
+    description: { de: "Mythenumwobene Burgruine im Odenwald, die Mary Shelley zu ihrem Roman inspiriert haben soll.", hu: "Mítoszokkal övezett várrom az Odenwald-ban, amely állítólag Mary Shelley-t ihlette regényéhez.", ro: "Ruina unui castel plin de mituri în Odenwald, care se spune că a inspirat-o pe Mary Shelley pentru romanul său.", en: "Myth-shrouded castle ruins in the Odenwald, said to have inspired Mary Shelley for her novel." },
+    facts: {
+      de: ["Bekannt für eines der größten Halloween-Events in Deutschland.", "Liegt auf einem Bergausläufer südlich von Darmstadt."],
+      hu: ["Németország egyik legnagyobb Halloween-eseményéről ismert.", "Darmstadttól délre, egy hegygerincen található."],
+      ro: ["Cunoscut pentru unul dintre cele mai mari evenimente de Halloween din Germania.", "Situat pe o prelungire muntoasă la sud de Darmstadt."],
+      en: ["Known for one of Germany's largest Halloween events.", "Located on a mountain spur south of Darmstadt."]
+    },
+    image: "/geo-images/germany/burg-frankenstein.webp",
+  },
+  {
+    id: "landmark-burg-rheinstein",
+    type: "landmark",
+    parent: "DE-RP",
+    coords: [7.85, 49.99],
+    name: { de: "Burg Rheinstein", hu: "Rheinstein vára", ro: "Castelul Rheinstein", en: "Rheinstein Castle" },
+    description: { de: "Eine malerische Ritterburg am Mittelrhein, bekannt als Inbegriff der Rheinromantik.", hu: "Festői lovagvár a Közép-Rajnánál, a rajnai romantika egyik megtestesítője.", ro: "Un castel medieval pitoresc pe Rinul Mijlociu, simbol al romantismului de pe Rin.", en: "A picturesque knight's castle on the Middle Rhine, known as the epitome of Rhine Romanticism." },
+    facts: {
+      de: ["Erbaut im 14. Jahrhundert und im 19. Jahrhundert wieder aufgebaut.", "Besitzt wunderschöne Wandfresken und historische Fenster."],
+      hu: ["A 14. században épült, majd a 19. században újjáépítették.", "Gyönyörű falfreskókkal és történelmi ablakokkal rendelkezik."],
+      ro: ["Construit în secolul al XIV-lea și reconstruit în secolul al XIX-lea.", "Are fresce murale superbe și ferestre istorice."],
+      en: ["Built in the 14th century and rebuilt in the 19th century.", "Features beautiful wall frescoes and historical windows."]
+    },
+    image: "/geo-images/germany/burg-rheinstein.webp",
+  },
+  {
+    id: "landmark-burg-katz",
+    type: "landmark",
+    parent: "DE-RP",
+    coords: [7.72, 50.15],
+    name: { de: "Burg Katz", hu: "Katz vára", ro: "Castelul Katz", en: "Katz Castle" },
+    description: { de: "Eine imposante Hangburg oberhalb von St. Goarshausen mit Blick auf die Loreley.", hu: "Impozáns vár St. Goarshausen felett, kilátással a Loreley-sziklára.", ro: "Un castel impunător deasupra orașului St. Goarshausen, cu vedere la Loreley.", en: "An imposing hillside castle above St. Goarshausen with a view of the Loreley." },
+    facts: {
+      de: ["Der eigentliche Name ist Burg Neukatzenelnbogen.", "Wurde im 14. Jahrhundert zur Kontrolle des Schiffsverkehrs erbaut."],
+      hu: ["Eredeti neve Neukatzenelnbogen vára.", "A 14. században épült a hajóforgalom ellenőrzésére."],
+      ro: ["Numele real este Castelul Neukatzenelnbogen.", "Construit în secolul al XIV-lea pentru controlul traficului naval."],
+      en: ["The actual name is Neukatzenelnbogen Castle.", "Built in the 14th century to control shipping traffic."]
+    },
+    image: "/geo-images/germany/burg-katz.webp",
+  },
+  {
+    id: "landmark-schloss-ludwigsburg",
+    type: "landmark",
+    parent: "DE-BW",
+    coords: [9.19, 48.89],
+    name: { de: "Residenzschloss Ludwigsburg", hu: "Ludwigsburgi lakókastély", ro: "Castelul Rezidențial Ludwigsburg", en: "Ludwigsburg Residential Palace" },
+    description: { de: "Eines der größten Barockschlösser Deutschlands, oft als 'Schwäbisches Versailles' bezeichnet.", hu: "Németország egyik legnagyobb barokk kastélya, gyakran 'sváb Versailles'-nak is hívják.", ro: "Unul dintre cele mai mari castele baroce din Germania, numit adesea 'Versailles-ul șvab'.", en: "One of Germany's largest Baroque palaces, often called the 'Swabian Versailles'." },
+    facts: {
+      de: ["Besitzt ein prächtiges Theater aus dem 18. Jahrhundert.", "Bekannt für die Gartenschau 'Blühendes Barock'."],
+      hu: ["Pompás 18. századi színházzal rendelkezik.", "Híres a 'Virágzó Barokk' kertkiállításáról."],
+      ro: ["Are un teatru magnific din secolul al XVIII-lea.", "Cunoscut pentru expoziția de grădini 'Baroc înflorit'."],
+      en: ["Features a magnificent theater from the 18th century.", "Famous for the 'Blooming Baroque' garden show."]
+    },
+    image: "/geo-images/germany/schloss-ludwigsburg.webp",
+  },
+  {
+    id: "landmark-burg-trausnitz",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [12.15, 48.53],
+    name: { de: "Burg Trausnitz", hu: "Trausnitz vára", ro: "Castelul Trausnitz", en: "Trausnitz Castle" },
+    description: { de: "Stammburg der Wittelsbacher in Landshut, eine beeindruckende mittelalterliche Festung.", hu: "A Wittelsbach-ház ősi vára Landshutban, lenyűgöző középkori erődítmény.", ro: "Castelul ancestral al familiei Wittelsbach din Landshut, o fortăreață medievală impresionantă.", en: "The ancestral castle of the Wittelsbachs in Landshut, an impressive medieval fortress." },
+    facts: {
+      de: ["Berühmt für den Rittersaal und die weite Aussicht über Landshut.", "War über Jahrhunderte bayerischer Herzogssitz."],
+      hu: ["Híres lovagterméről és a Landshutra nyíló pazar kilátásról.", "Évszázadokon át a bajor hercegek székhelye volt."],
+      ro: ["Faimos pentru sala cavalerilor și priveliștea largă peste Landshut.", "A fost reședința ducilor bavarezi timp de secole."],
+      en: ["Famous for the Knights' Hall and the wide view over Landshut.", "Was a Bavarian ducal seat for centuries."]
+    },
+    image: "/geo-images/germany/burg-trausnitz.webp",
+  },
+  {
+    id: "landmark-schloss-lichtenstein",
+    type: "landmark",
+    parent: "DE-BW",
+    coords: [9.25, 48.40],
+    name: { de: "Schloss Lichtenstein", hu: "Lichtenstein-kastély", ro: "Castelul Lichtenstein", en: "Lichtenstein Castle" },
+    description: { de: "Das 'Märchenschloss Württembergs', spektakulär auf einem Felsen am Albtrauf gelegen.", hu: "Württemberg mesebeli kastélya, amely látványosan egy sziklán fekszik az Albtrauf peremén.", ro: "Castelul de basm al Württembergului, situat spectaculos pe o stâncă la marginea Alpilor Șvabi.", en: "The 'fairytale castle of Württemberg', spectacularly situated on a rock at the edge of the Swabian Jura." },
+    facts: {
+      de: ["Inspiriert durch den Roman 'Lichtenstein' von Wilhelm Hauff.", "Erbaut im neugotischen Stil im 19. Jahrhundert."],
+      hu: ["Wilhelm Hauff 'Lichtenstein' című regénye ihlette.", "A 19. században épült neogótikus stílusban."],
+      ro: ["Inspirat de romanul 'Lichtenstein' de Wilhelm Hauff.", "Construit în stil neogotic în secolul al XIX-lea."],
+      en: ["Inspired by the novel 'Lichtenstein' by Wilhelm Hauff.", "Built in Neogothic style in the 19th century."]
+    },
+    image: "/geo-images/germany/schloss-lichtenstein.webp",
+  },
+  {
+    id: "landmark-lechfall",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [10.69, 47.56],
+    name: { de: "Lechfall Füssen", hu: "Füsseni Lech-vízesés", ro: "Cascada Lech din Füssen", en: "Lechfall Füssen" },
+    description: { de: "Ein sieben Meter hoher, künstlich angelegter Wasserfall am Lech bei Füssen.", hu: "Hét méter magas, mesterségesen kialakított vízesés a Lech folyón Füssen közelében.", ro: "O cascadă artificială de șapte metri pe râul Lech, lângă Füssen.", en: "A seven-meter-high man-made waterfall on the Lech river near Füssen." },
+    facts: {
+      de: ["Der Lech stürzt hier über eine enge Schlucht.", "Der 'Magnustritt' ist eine bekannte Felsformation am Wasserfall."],
+      hu: ["A Lech itt egy szűk szurdokon keresztül zúdul le.", "A 'Magnustritt' egy ismert sziklaalakzat a vízesésnél."],
+      ro: ["Râul Lech se revarsă aici peste un defileu îngust.", "'Magnustritt' este o formațiune stâncoasă cunoscută la cascadă."],
+      en: ["The Lech plunges over a narrow gorge here.", "The 'Magnustritt' is a well-known rock formation at the waterfall."]
+    },
+    image: "/geo-images/germany/lechfall.webp",
+  },
+  {
+    id: "landmark-triberger-wasserfaelle",
+    type: "landmark",
+    parent: "DE-BW",
+    coords: [8.15, 48.12],
+    name: { de: "Triberger Wasserfälle", hu: "Tribergi vízesések", ro: "Cascadele din Triberg", en: "Triberg Waterfalls" },
+    description: { de: "Eine der höchsten Wasserfälle Deutschlands, mitten im Schwarzwald gelegen.", hu: "Németország egyik legmagasabb vízesése a Fekete-erdő szívében.", ro: "Una dintre cele mai înalte cascade din Germania, situată în mijlocul Pădurii Negre.", en: "One of the highest waterfalls in Germany, located in the heart of the Black Forest." },
+    facts: {
+      de: ["Das Wasser stürzt in sieben Stufen insgesamt 163 Meter tief.", "Besonders beeindruckend nach Schneeschmelze oder Starkregen."],
+      hu: ["A víz hét lépcsőben összesen 163 métert zuhan.", "Hóolvadás vagy heves esőzés után különösen lenyűgöző."],
+      ro: ["Apa cade în șapte trepte, în total 163 de metri adâncime.", "Deosebit de impresionant după topirea zăpezii sau ploi abundente."],
+      en: ["The water plunges 163 meters deep in seven stages.", "Particularly impressive after snowmelt or heavy rain."]
+    },
+    image: "/geo-images/germany/triberger-wasserfaelle.webp",
+  },
+  {
+    id: "landmark-partnachklamm",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [11.11, 47.46],
+    name: { de: "Partnachklamm", hu: "Partnach-szurdok", ro: "Cheile Partnach", en: "Partnach Gorge" },
+    description: { de: "Eine dramatische, 700 Meter lange Schlucht bei Garmisch-Partenkirchen mit tosendem Wasser.", hu: "Drámai, 700 méter hosszú szurdok Garmisch-Partenkirchen mellett, dübörgő vízzel.", ro: "Un defileu dramatic, lung de 700 de metri, lângă Garmisch-Partenkirchen, cu apă vijelioasă.", en: "A dramatic, 700-meter-long gorge near Garmisch-Partenkirchen with thundering water." },
+    facts: {
+      de: ["Gilt seit 1912 als Nationales Naturmonument.", "Auch im Winter mit bizarren Eisformationen begehbar."],
+      hu: ["1912 óta nemzeti természeti emlékmű.", "Télen is látogatható a különleges jégalakzatok miatt."],
+      ro: ["Considerat monument natural național din 1912.", "Accesibil și iarna, cu formațiuni de gheață bizare."],
+      en: ["Considered a National Natural Monument since 1912.", "Accessible in winter with bizarre ice formations."]
+    },
+    image: "/geo-images/germany/partnachklamm.webp",
+  },
+  {
+    id: "mountain-zugspitzplatt",
+    type: "mountain",
+    parent: "DE-BY",
+    coords: [10.98, 47.41],
+    name: { de: "Zugspitzplatt", hu: "Zugspitzplatt", ro: "Zugspitzplatt", en: "Zugspitzplatt" },
+    description: { de: "Ein hochalpines Plateau unterhalb des Gipfels der Zugspitze, bekannt für Wintersport und Gletscher.", hu: "Magaslati alpesi fennsík a Zugspitze csúcsa alatt, sípályáiról és gleccseréről ismert.", ro: "Un platou alpin înalt sub vârful Zugspitze, cunoscut pentru sporturile de iarnă și ghețari.", en: "A high alpine plateau below the summit of the Zugspitze, known for winter sports and glaciers." },
+    facts: {
+      de: ["Beherbergt Deutschlands höchstgelegenes Skigebiet.", "Sitz der Forschungsstation Schneefernerhaus."],
+      hu: ["Itt található Németország legmagasabban fekvő síterülete.", "A Schneefernerhaus kutatóállomás székhelye."],
+      ro: ["Găzduiește cea mai înaltă zonă de schi din Germania.", "Sediul stației de cercetare Schneefernerhaus."],
+      en: ["Home to Germany's highest ski resort.", "Seat of the Schneefernerhaus research station."]
+    },
+    image: "/geo-images/germany/zugspitzplatt.webp",
+  },
+  {
+    id: "region-altmuehltal",
+    type: "region",
+    parent: "DE-BY",
+    coords: [11.3, 48.9],
+    name: { de: "Naturpark Altmühltal", hu: "Altmühltal Natúrpark", ro: "Parcul Natural Altmühltal", en: "Altmühltal Nature Park" },
+    description: { de: "Ein idyllischer Naturpark in Bayern, geprägt durch das gewundene Tal der Altmühl und Jurafelsen.", hu: "Idilli natúrpark Bajorországban, az Altmühl kanyargós völgye és jura sziklák jellemzik.", ro: "Un parc natural idilic în Bavaria, definit de valea șerpuitoare a râului Altmühl și stânci de calcar.", en: "An idyllic nature park in Bavaria, characterized by the winding valley of the Altmühl and Jura rocks." },
+    facts: {
+      de: ["Fundort des berühmten Urvogels Archaeopteryx.", "Beliebtes Revier für Kanufahrer und Radwanderer."],
+      hu: ["A híres Archaeopteryx ősmadár lelőhelye.", "Kenyusok és kerékpáros túrázók kedvelt célpontja."],
+      ro: ["Locul unde a fost găsit faimosul Archaeopteryx.", "Zonă populară pentru canoiști și cicloturiști."],
+      en: ["Finding site of the famous Archaeopteryx.", "Popular area for canoeists and cyclists."]
+    },
+    image: "/geo-images/germany/altmuehltal.webp",
+  },
+  {
+    id: "mountain-wilseder-berg",
+    type: "mountain",
+    parent: "DE-NI",
+    coords: [9.93, 53.16],
+    name: { de: "Wilseder Berg", hu: "Wilseder Berg", ro: "Wilseder Berg", en: "Wilseder Berg" },
+    description: { de: "Die höchste Erhebung der Lüneburger Heide mit weitem Blick über die Heidelandschaft.", hu: "A Lüneburger Heide legmagasabb pontja, pazar kilátással a hangafüves pusztára.", ro: "Cea mai înaltă cotă din Lüneburger Heide, cu o vedere largă asupra peisajului de landă.", en: "The highest elevation in the Lüneburg Heath with wide views over the heathland." },
+    facts: {
+      de: ["Mit 169 Metern der 'Gipfel' der norddeutschen Tiefebene.", "Nur zu Fuß, per Rad oder Kutsche erreichbar."],
+      hu: ["169 méterével az észak-német alföld 'csúcsa'.", "Csak gyalog, biciklivel vagy lovaskocsival érhető el."],
+      ro: ["Cu 169 de metri, este 'vârful' câmpiei nord-germane.", "Accesibil doar pe jos, cu bicicleta sau cu trăsura."],
+      en: ["At 169 meters, the 'summit' of the North German Plain.", "Accessible only on foot, by bike, or by horse-drawn carriage."]
+    },
+    image: "/geo-images/germany/wilseder-berg.webp",
+  },
+  {
+    id: "landmark-koenigsstuhl-ruegen",
+    type: "landmark",
+    parent: "DE-MV",
+    coords: [13.66, 54.57],
+    name: { de: "Königsstuhl (Rügen)", hu: "Königsstuhl (Rügen)", ro: "Königsstuhl (Rügen)", en: "Königsstuhl (Rügen)" },
+    description: { de: "Der berühmteste Kreidefelsen im Nationalpark Jasmund auf der Insel Rügen.", hu: "A leghíresebb krétafal a rügeni Jasmund Nemzeti Parkban.", ro: "Cea mai faimoasă stâncă de cretă din Parcul Național Jasmund de pe insula Rügen.", en: "The most famous chalk cliff in the Jasmund National Park on the island of Rügen." },
+    facts: {
+      de: ["Ragt 118 Meter fast senkrecht aus der Ostsee empor.", "Motiv des berühmten Malers Caspar David Friedrich."],
+      hu: ["118 méter magasan emelkedik szinte merőlegesen a Balti-tenger fölé.", "Caspar David Friedrich híres festő egyik motívuma."],
+      ro: ["Se ridică la 118 metri aproape vertical din Marea Baltică.", "Motiv al celebrului pictor Caspar David Friedrich."],
+      en: ["Rises 118 meters almost vertically from the Baltic Sea.", "A motif of the famous painter Caspar David Friedrich."]
+    },
+    image: "/geo-images/germany/koenigsstuhl-ruegen.webp",
+  },
+  {
+    id: "landmark-teufelsmauer",
+    type: "landmark",
+    parent: "DE-ST",
+    coords: [11.0, 51.7],
+    name: { de: "Teufelsmauer (Harz)", hu: "Teufelsmauer (Harz)", ro: "Teufelsmauer (Harz)", en: "Teufelsmauer (Harz)" },
+    description: { de: "Eine markante Felsformation aus Sandstein im nördlichen Harzvorland.", hu: "Markáns homokkő-sziklaalakzat a Harz északi előterében.", ro: "O formațiune stâncoasă proeminentă de gresie în nordul regiunii Harz.", en: "A prominent sandstone rock formation in the northern Harz foreland." },
+    facts: {
+      de: ["Erstreckt sich über ca. 20 km Länge.", "Gegenstand zahlreicher Sagen und Legenden."],
+      hu: ["Körülbelül 20 km hosszan nyúlik el.", "Számos monda és legenda témája."],
+      ro: ["Se întinde pe o lungime de aproximativ 20 km.", "Subiectul a numeroase mituri și legende."],
+      en: ["Stretches over approximately 20 km in length.", "The subject of numerous myths and legends."]
+    },
+    image: "/geo-images/germany/teufelsmauer.webp",
+  },
+  {
+    id: "landmark-saalfelder-feengrotten",
+    type: "landmark",
+    parent: "DE-TH",
+    coords: [11.34, 50.63],
+    name: { de: "Saalfelder Feengrotten", hu: "Saalfeldi tündérbarlangok", ro: "Grotele Zânelor din Saalfeld", en: "Saalfeld Fairy Grottoes" },
+    description: { de: "Ehemaliges Alaunschieferbergwerk in Thüringen, bekannt für seine farbenprächtigen Tropfsteine.", hu: "Egykori timsópala-bánya Türingiában, színes cseppköveiről híres.", ro: "Fostă mină de ardezie în Turingia, cunoscută pentru stalactitele sale colorate.", en: "Former alum slate mine in Thuringia, famous for its colorful stalactites." },
+    facts: {
+      de: ["Steht im Guinness-Buch der Rekorde als farbenreichste Schaugrotte.", "Die Tropfsteine sind erst in den letzten 300 Jahren entstanden."],
+      hu: ["A Guinness Rekordok Könyvében a világ legszínesebb barlangjaként szerepel.", "A cseppkövek csak az elmúlt 300 évben keletkeztek."],
+      ro: ["Inclusă în Guinness Book ca fiind cea mai colorată grotă din lume.", "Stalactitele s-au format abia în ultimii 300 de ani."],
+      en: ["Listed in the Guinness Book of Records as the most colorful show cave.", "The stalactites have formed only in the last 300 years."]
+    },
+    image: "/geo-images/germany/saalfelder-feengrotten.webp",
+  },
+  {
+    id: "landmark-donauversickerung",
+    type: "landmark",
+    parent: "DE-BW",
+    coords: [8.76, 47.93],
+    name: { de: "Donauversickerung", hu: "Duna-nyelő", ro: "Infiltrarea Dunării", en: "Danube Sinkhole" },
+    description: { de: "Ein Naturphänomen, bei dem die Donau an vielen Tagen im Jahr vollständig im Kalkstein versinkt.", hu: "Természeti jelenség, amely során a Duna az év sok napján teljesen elnyelődik a mészkőben.", ro: "Un fenomen natural în care Dunărea se infiltrează complet în calcar în multe zile din an.", en: "A natural phenomenon where the Danube sinks completely into the limestone on many days of the year." },
+    facts: {
+      de: ["Das Wasser tritt 12 km weiter südlich im Aachtopf wieder aus.", "Im Sommer fällt das Flussbett der Donau oft ganz trocken."],
+      hu: ["A víz 12 km-rel délebbre, az Aachtopfnál tör ismét felszínre.", "Nyáron a Duna medre gyakran teljesen kiszárad."],
+      ro: ["Apa reapare la 12 km spre sud, la Aachtopf.", "Vara, albia Dunării rămâne adesea complet uscată."],
+      en: ["The water re-emerges 12 km further south at the Aachtopf.", "In summer, the Danube riverbed often dries up completely."]
+    },
+    image: "/geo-images/germany/donauversickerung.webp",
+  },
+  {
+    id: "landmark-schokoladenmuseum-koeln",
+    type: "landmark",
+    parent: "DE-NW",
+    coords: [6.96, 50.93],
+    name: { de: "Schokoladenmuseum Köln", hu: "Kölni Csokoládémúzeum", ro: "Muzeul Ciocolatei din Köln", en: "Cologne Chocolate Museum" },
+    description: { de: "Ein beliebtes Museum direkt am Rhein, das die Geschichte und Herstellung von Schokolade zeigt.", hu: "Népszerű múzeum közvetlenül a Rajna partján, a csokoládé történetét és készítését mutatja be.", ro: "Un muzeu popular chiar pe malul Rinului, care prezintă istoria și fabricarea ciocolatei.", en: "A popular museum directly on the Rhine showing the history and production of chocolate." },
+    facts: {
+      de: ["Highlights sind der Schokoladenbrunnen und das Tropenhaus.", "Wurde 1993 von Hans Imhoff eröffnet."],
+      hu: ["Fő látványosságai a csokoládészökőkút és a trópusi ház.", "1993-ban nyitotta meg Hans Imhoff."],
+      ro: ["Atracțiile principale sunt fântâna de ciocolată și sera tropicală.", "Inaugurat în 1993 de Hans Imhoff."],
+      en: ["Highlights include the chocolate fountain and the tropic house.", "Opened in 1993 by Hans Imhoff."]
+    },
+    image: "/geo-images/germany/schokoladenmuseum-koeln.webp",
+  },
+  {
+    id: "landmark-frauenkirche-dresden",
+    type: "landmark",
+    parent: "DE-SN",
+    coords: [13.74, 51.05],
+    name: { de: "Dresdner Frauenkirche", hu: "Drezdai Frauenkirche", ro: "Biserica Frauenkirche din Dresda", en: "Dresden Frauenkirche" },
+    description: { de: "Eine barocke evangelisch-lutherische Kirche und das Wahrzeichen von Dresden.", hu: "Barokk evangélikus templom, Drezda egyik legfontosabb jelképe.", ro: "O biserică evanghelică-luterană barocă și simbolul orașului Dresda.", en: "A Baroque Lutheran church and the landmark of Dresden." },
+    facts: {
+      de: ["Verfügt über eine der größten Steinkuppeln nördlich der Alpen.", "Wurde nach der Zerstörung im Zweiten Weltkrieg prachtvoll wiederaufgebaut."],
+      hu: ["Az Alpoktól északra fekvő egyik legnagyobb kővel borított kupolával rendelkezik.", "A második világháborús pusztítás után pompásan újjáépítették."],
+      ro: ["Are una dintre cele mai mari cupole de piatră la nord de Alpi.", "A fost reconstruită magnific după distrugerea din al Doilea Război Mondial."],
+      en: ["Features one of the largest stone domes north of the Alps.", "Was magnificently rebuilt after its destruction in World War II."]
+    },
+    image: "/geo-images/germany/frauenkirche-dresden.webp",
+  },
+  {
+    id: "landmark-pergamonmuseum",
+    type: "landmark",
+    parent: "DE-BE",
+    coords: [13.39, 52.52],
+    name: { de: "Pergamonmuseum Berlin", hu: "Berlini Pergamon Múzeum", ro: "Muzeul Pergamon din Berlin", en: "Pergamon Museum Berlin" },
+    description: { de: "Eines der bedeutendsten Museen auf der Museumsinsel, bekannt für monumentale Antiken.", hu: "A Múzeum-sziget egyik legjelentősebb múzeuma, monumentális ókori építményeiről ismert.", ro: "Unul dintre cele mai importante muzee de pe Insula Muzeelor, cunoscut pentru monumentele antice.", en: "One of the most significant museums on Museum Island, known for monumental antiquities." },
+    facts: {
+      de: ["Beherbergt den Pergamonaltar und das Ischtar-Tor von Babylon.", "Wird derzeit umfassend saniert."],
+      hu: ["Itt található a Pergamon-oltár és a babiloni Istár-kapu.", "Jelenleg átfogó felújítás alatt áll."],
+      ro: ["Găzduiește Altarul Pergamon și Poarta Ishtar din Babilon.", "Se află în prezent sub o renovare majoră."],
+      en: ["Home to the Pergamon Altar and the Ishtar Gate of Babylon.", "Currently undergoing extensive renovation."]
+    },
+    image: "/geo-images/germany/pergamonmuseum.webp",
+  },
+  {
+    id: "landmark-east-side-gallery",
+    type: "landmark",
+    parent: "DE-BE",
+    coords: [13.43, 52.50],
+    name: { de: "East Side Gallery Berlin", hu: "Berlini East Side Gallery", ro: "East Side Gallery Berlin", en: "East Side Gallery Berlin" },
+    description: { de: "Ein 1,3 km langer Rest der Berliner Mauer, der von Künstlern aus aller Welt bemalt wurde.", hu: "A berlini fal 1,3 km hosszú szakasza, amelyet a világ minden tájáról érkező művészek festettek ki.", ro: "O secțiune de 1,3 km din Zidul Berlinului, pictată de artiști din întreaga lume.", en: "A 1.3 km long remnant of the Berlin Wall painted by artists from all over the world." },
+    facts: {
+      de: ["Gilt als die längste Open-Air-Galerie der Welt.", "Das berühmteste Motiv ist der 'Bruderkuss'."],
+      hu: ["A világ leghosszabb szabadtéri galériájának tartják.", "Leghíresebb motívuma a 'testvéri csók'."],
+      ro: ["Considerată cea mai lungă galerie în aer liber din lume.", "Cel mai faimos motiv este 'Sărutul frățesc'."],
+      en: ["Considered the longest open-air gallery in the world.", "The most famous motif is the 'Fraternal Kiss'."]
+    },
+    image: "/geo-images/germany/east-side-gallery.webp",
+  },
+  {
+    id: "landmark-beatles-museum",
+    type: "landmark",
+    parent: "DE-HH",
+    coords: [9.96, 53.55],
+    name: { de: "Beatles Museum Hamburg", hu: "Hamburgi Beatles Múzeum", ro: "Muzeul Beatles din Hamburg", en: "Beatles Museum Hamburg" },
+    description: { de: "Ein Museum, das der legendären Band gewidmet ist, die ihre Karriere in Hamburg startete.", hu: "A legendás együttesnek szentelt múzeum, akik pályafutásukat Hamburgban kezdték.", ro: "Un muzeu dedicat legendarei trupe care și-a început cariera în Hamburg.", en: "A museum dedicated to the legendary band that started their career in Hamburg." },
+    facts: {
+      de: ["Hamburg war der Ort, an dem die Beatles 'erwachsen wurden'.", "Befindet sich in der Nähe der Reeperbahn."],
+      hu: ["Hamburg volt az a hely, ahol a Beatles tagjai 'felnőtté váltak'.", "A Reeperbahn közelében található."],
+      ro: ["Hamburg a fost locul unde Beatles 's-au maturizat'.", "Situat în apropierea Reeperbahn."],
+      en: ["Hamburg was where the Beatles 'grew up'.", "Located near the Reeperbahn."]
+    },
+    image: "/geo-images/germany/beatles-museum.webp",
+  },
+  {
+    id: "kid-landmark-serengeti-park",
+    type: "kid-landmark",
+    parent: "DE-NI",
+    coords: [9.61, 52.75],
+    name: { de: "Serengeti-Park Hodenhagen", hu: "Hodenhageni Serengeti-Park", ro: "Serengeti-Park Hodenhagen", en: "Serengeti-Park Hodenhagen" },
+    description: { de: "Ein Safaripark in Niedersachsen, in dem man exotische Tiere aus dem Auto beobachten kann.", hu: "Szafaripark Alsó-Szászországban, ahol egzotikus állatokat figyelhetünk meg az autónkból.", ro: "Un parc safari în Saxonia Inferioară, unde poți observa animale exotice din mașină.", en: "A safari park in Lower Saxony where you can observe exotic animals from your car." },
+    facts: {
+      de: ["Größter Safaripark Europas mit über 1.500 Tieren.", "Bietet auch einen großen Freizeitpark-Teil."],
+      hu: ["Európa legnagyobb szafariparkja több mint 1500 állattal.", "Nagy vidámparki résszel is rendelkezik."],
+      ro: ["Cel mai mare parc safari din Europa, cu peste 1.500 de animale.", "Oferă, de asemenea, o secțiune mare de parc de distracții."],
+      en: ["Europe's largest safari park with over 1,500 animals.", "Also offers a large amusement park section."]
+    },
+    image: "/geo-images/germany/serengeti-park.webp",
+  },
+  {
+    id: "kid-landmark-ravensburger-spieleland",
+    type: "kid-landmark",
+    parent: "DE-BW",
+    coords: [9.67, 47.71],
+    name: { de: "Ravensburger Spieleland", hu: "Ravensburger Spieleland", ro: "Ravensburger Spieleland", en: "Ravensburger Spieleland" },
+    description: { de: "Ein Freizeitpark am Bodensee, der sich besonders an Familien mit kleineren Kindern richtet.", hu: "Vidámpark a Bódeni-tónál, amely kifejezetten a kisgyermekes családoknak szól.", ro: "Un parc de distracții la Lacul Constance, destinat în special familiilor cu copii mici.", en: "An amusement park at Lake Constance specifically aimed at families with small children." },
+    facts: {
+      de: ["Themenwelten rund um bekannte Ravensburger Spiele.", "Bietet Mitmach-Attraktionen und Spielstationen."],
+      hu: ["Ismert Ravensburger játékok köré épülő téma-világok.", "Interaktív attrakciókat és játékállomásokat kínál."],
+      ro: ["Lumi tematice bazate pe cunoscutele jocuri Ravensburger.", "Oferă atracții interactive și stații de joacă."],
+      en: ["Themed worlds around well-known Ravensburger games.", "Offers hands-on attractions and play stations."]
+    },
+    image: "/geo-images/germany/ravensburger-spieleland.webp",
+  },
+  {
+    id: "kid-landmark-belantis",
+    type: "kid-landmark",
+    parent: "DE-SN",
+    coords: [12.31, 51.25],
+    name: { de: "BELANTIS – Das AbenteuerReich", hu: "BELANTIS – Das AbenteuerReich", ro: "BELANTIS – Das AbenteuerReich", en: "BELANTIS – Das AbenteuerReich" },
+    description: { de: "Der größte Freizeitpark in Ostdeutschland, südlich von Leipzig gelegen.", hu: "Kelet-Németország legnagyobb vidámparkja Lipcsétől délre.", ro: "Cel mai mare parc de distracții din Germania de Est, situat la sud de Leipzig.", en: "The largest amusement park in East Germany, located south of Leipzig." },
+    facts: {
+      de: ["Unterteilt in acht verschiedene Themenwelten.", "Die 'Huracan' ist eine der steilsten Achterbahnen der Welt."],
+      hu: ["Nyolc különböző téma-világra oszlik.", "A 'Huracan' a világ egyik legmeredekebb hullámvasútja."],
+      ro: ["Împărțit în opt lumi tematice diferite.", "'Huracan' este unul dintre cele mai abrupte roller coastere din lume."],
+      en: ["Divided into eight different themed worlds.", "The 'Huracan' is one of the steepest roller coasters in the world."]
+    },
+    image: "/geo-images/germany/belantis.webp",
+  },
+  {
+    id: "landmark-gasometer-oberhausen",
+    type: "landmark",
+    parent: "DE-NW",
+    coords: [6.88, 51.49],
+    name: { de: "Gasometer Oberhausen", hu: "Oberhauseni Gáztartály", ro: "Gasometrul din Oberhausen", en: "Gasometer Oberhausen" },
+    description: { de: "Ein ehemaliger Gasspeicher, der heute als höchste Ausstellungs- und Veranstaltungshalle Europas dient.", hu: "Egykori gáztartály, amely ma Európa legmagasabb kiállító- és rendezvénycsarnoka.", ro: "Un fost rezervor de gaz, care servește astăzi drept cea mai înaltă sală de expoziții și evenimente din Europa.", en: "A former gas holder that now serves as Europe's highest exhibition and event hall." },
+    facts: {
+      de: ["Ein Wahrzeichen der Industriekultur im Ruhrgebiet.", "Bietet einen Panoramablick über das gesamte Ruhrrevier."],
+      hu: ["A Ruhr-vidék ipari kultúrájának egyik jelképe.", "Panorámás kilátást nyújt az egész Ruhr-vidékre."],
+      ro: ["Un simbol al culturii industriale din regiunea Ruhr.", "Oferă o vedere panoramică asupra întregii regiuni Ruhr."],
+      en: ["A landmark of industrial culture in the Ruhr area.", "Offers a panoramic view over the entire Ruhr district."]
+    },
+    image: "/geo-images/germany/gasometer-oberhausen.webp",
+  },
+  {
+    id: "landmark-hamburg-landungsbruecken",
+    type: "landmark",
+    parent: "DE-HH",
+    coords: [9.96, 53.54],
+    name: { de: "St. Pauli Landungsbrücken", hu: "St. Pauli Landungsbrücken", ro: "St. Pauli Landungsbrücken", en: "St. Pauli Landungsbrücken" },
+    description: { de: "Die markante Anlegestelle im Hamburger Hafen, Tor zur Welt und Ausgangspunkt für Hafenrundfahrten.", hu: "A hamburgi kikötő jellegzetes állomása, kapu a világra és a kikötői körutak kiindulópontja.", ro: "Debarcaderul proeminent din portul Hamburg, poarta către lume și punctul de plecare pentru tururile portului.", en: "The prominent landing stage in Hamburg harbor, gateway to the world and starting point for harbor tours." },
+    facts: {
+      de: ["Besteht aus einer schwimmenden Anlegestelle und dem markanten Abfertigungsgebäude.", "In der Nähe befindet sich der Eingang zum Alten Elbtunnel."],
+      hu: ["Egy úszó mólóból és a jellegzetes terminálépületből áll.", "Közelében található a régi Elbe-alagút bejárata."],
+      ro: ["Constă dintr-un ponton plutitor și clădirea terminalului proeminentă.", "În apropiere se află intrarea în vechiul tunel de sub Elba."],
+      en: ["Consists of a floating pier and the prominent terminal building.", "The entrance to the Old Elbe Tunnel is nearby."]
+    },
+    image: "/geo-images/germany/hamburg-landungsbruecken.webp",
+  },
 ];
 
