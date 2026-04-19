@@ -2899,4 +2899,455 @@ export const pois: POI[] = [
     historyPeriod: "ww1",
     historyYear: 1918,
   },
+  {
+    id: "hist-burg-eltz",
+    type: "historical",
+    parent: "DE-RP",
+    coords: [7.336, 50.205],
+    name: { de: "Burg Eltz", hu: "Eltz vára", ro: "Castelul Eltz", en: "Eltz Castle" },
+    description: { de: "Eine der am besten erhaltenen mittelalterlichen Burgen Deutschlands, die nie zerstört wurde.", hu: "Németország egyik legjobb állapotban fennmaradt középkori vára, amely sosem pusztult el.", ro: "Unul dintre cele mai bine conservate castele medievale din Germania, care nu a fost niciodată distrus.", en: "One of the best-preserved medieval castles in Germany, which was never destroyed." },
+    facts: {
+      de: ["Seit 800 Jahren im Besitz derselben Familie.", "Zierte früher den 500-D-Mark-Schein."],
+      hu: ["800 éve ugyanaz a család birtokolja.", "Korábban az 500 márkás bankjegyen szerepelt."],
+      ro: ["De 800 de ani este în posesia aceleiași familii.", "A apărut anterior pe bancnota de 500 de mărci."],
+      en: ["Owned by the same family for 800 years.", "Formerly featured on the 500 DM banknote."]
+    },
+    image: "/geo-images/germany/burg-eltz.webp",
+  },
+  {
+    id: "hist-schloss-heidelberg",
+    type: "historical",
+    parent: "DE-BW",
+    coords: [8.715, 49.410],
+    name: { de: "Heidelberger Schloss", hu: "Heidelbergi várkastély", ro: "Castelul Heidelberg", en: "Heidelberg Castle" },
+    description: { de: "Eine berühmte Schlossruine und das Wahrzeichen der Stadt Heidelberg über dem Neckartal.", hu: "Híres várkastély-rom és Heidelberg városának jelképe a Neckar folyó völgye felett.", ro: "O faimoasă ruină de castel și simbolul orașului Heidelberg, situat deasupra văii Neckar.", en: "A famous castle ruin and the landmark of the city of Heidelberg above the Neckar valley." },
+    facts: {
+      de: ["Beherbergt das größte Weinfass der Welt.", "Zentrum der deutschen Romantik im 19. Jahrhundert."],
+      hu: ["Itt található a világ legnagyobb boroshordója.", "A 19. századi német romantika központja volt."],
+      ro: ["Găzduiește cel mai mare butoi de vin din lume.", "Centrul romantismului german în secolul al XIX-lea."],
+      en: ["Houses the largest wine barrel in the world.", "Center of German Romanticism in the 19th century."]
+    },
+    image: "/geo-images/germany/schloss-heidelberg.webp",
+  },
+  {
+    id: "hist-burg-hohenzollern",
+    type: "historical",
+    parent: "DE-BW",
+    coords: [8.967, 48.322],
+    name: { de: "Burg Hohenzollern", hu: "Hohenzollern-vár", ro: "Castelul Hohenzollern", en: "Hohenzollern Castle" },
+    description: { de: "Der Stammsitz des preußischen Königshauses auf einem markanten Bergkegel der Schwäbischen Alb.", hu: "A porosz királyi ház ősi fészke a Sváb-Alb egyik jellegzetes hegycsúcsán.", ro: "Sediul ancestral al Casei Regale Prusace pe un vârf de munte proeminent din Jura Șvabă.", en: "The ancestral seat of the Prussian Royal House on a prominent mountain peak of the Swabian Jura." },
+    facts: {
+      de: ["Dritte Burg an dieser Stelle, 1867 fertiggestellt.", "Beherbergt die Krone von Wilhelm II."],
+      hu: ["A harmadik vár ezen a helyen, 1867-ben készült el.", "Itt őrzik II. Vilmos koronáját."],
+      ro: ["Al treilea castel în acest loc, finalizat în 1867.", "Găzduiește coroana lui Wilhelm al II-lea."],
+      en: ["Third castle on this site, completed in 1867.", "Houses the crown of Wilhelm II."]
+    },
+    image: "/geo-images/germany/burg-hohenzollern.webp",
+  },
+  {
+    id: "hist-schloss-linderhof",
+    type: "historical",
+    parent: "DE-BY",
+    coords: [10.960, 47.570],
+    name: { de: "Schloss Linderhof", hu: "Linderhof kastély", ro: "Castelul Linderhof", en: "Linderhof Palace" },
+    description: { de: "Das kleinste der Schlösser Ludwigs II. und das einzige, das zu seinen Lebzeiten fertig wurde.", hu: "II. Lajos kastélyai közül a legkisebb, és az egyetlen, amely még életében elkészült.", ro: "Cel mai mic dintre castelele lui Ludwig al II-lea și singurul finalizat în timpul vieții sale.", en: "The smallest of Ludwig II's palaces and the only one completed during his lifetime." },
+    facts: {
+      de: ["Berühmt für die künstliche Venusgrotte.", "Architektur im Stil des französischen Rokoko."],
+      hu: ["Híres a mesterséges Vénusz-barlangjáról.", "Építészete a francia rokokó stílusát követi."],
+      ro: ["Faimos pentru grota artificială a lui Venus.", "Arhitectură în stil rococo francez."],
+      en: ["Famous for the artificial Venus Grotto.", "Architecture in the style of French Rococo."]
+    },
+    image: "/geo-images/germany/schloss-linderhof.webp",
+  },
+  {
+    id: "hist-schloss-mespelbrunn",
+    type: "historical",
+    parent: "DE-BY",
+    coords: [9.307, 49.927],
+    name: { de: "Schloss Mespelbrunn", hu: "Mespelbrunn kastély", ro: "Castelul Mespelbrunn", en: "Mespelbrunn Castle" },
+    description: { de: "Ein verträumtes Wasserschloss im Spessart, bekannt als Drehort für 'Das Wirtshaus im Spessart'.", hu: "Egy álomszerű vízi kastély a Spessart-erdőben, a 'Kísértetkastély Spessartban' forgatási helyszíne.", ro: "Un castel pe apă de vis în Spessart, cunoscut ca loc de filmare pentru 'Hanul din Spessart'.", en: "A dreamy moated castle in the Spessart, known as a filming location for 'The Spessart Inn'." },
+    facts: {
+      de: ["Versteckte Lage in einem abgelegenen Tal.", "Kombination dörflicher und ritterlicher Architektur."],
+      hu: ["Rejtett elhelyezkedés egy félreeső völgyben.", "Falusi és lovagi építészet kombinációja."],
+      ro: ["Locație ascunsă într-o vale retrasă.", "Combinație de arhitectură rurală și cavalerească."],
+      en: ["Hidden location in a secluded valley.", "Combination of village and chivalric architecture."]
+    },
+    image: "/geo-images/germany/schloss-mespelbrunn.webp",
+  },
+  {
+    id: "hist-marksburg",
+    type: "historical",
+    parent: "DE-RP",
+    coords: [7.650, 50.271],
+    name: { de: "Marksburg", hu: "Marksburg vára", ro: "Castelul Marksburg", en: "Marksburg Castle" },
+    description: { de: "Die einzige nie zerstörte Höhenburg am Mittelrhein und Teil des UNESCO-Welterbes.", hu: "A Közép-Rajna egyetlen sosem pusztult hegyi vára, az UNESCO Világörökség része.", ro: "Singurul castel de pe deal de pe Rinul Mijlociu care nu a fost niciodată distrus, parte a patrimoniului UNESCO.", en: "The only hill castle on the Middle Rhine that was never destroyed, part of the UNESCO World Heritage." },
+    facts: {
+      de: ["Sitz der Deutschen Burgenvereinigung.", "Herausragendes Beispiel mittelalterlicher Verteidigungsanlagen."],
+      hu: ["A Német Várövetség székhelye.", "A középkori védelmi rendszerek kiváló példája."],
+      ro: ["Sediul Asociației Castelelor Germane.", "Exemplu remarcabil de fortificații medievale."],
+      en: ["Seat of the German Castles Association.", "Outstanding example of medieval fortifications."]
+    },
+    image: "/geo-images/germany/marksburg.webp",
+  },
+  {
+    id: "hist-hermannsdenkmal",
+    type: "historical",
+    parent: "DE-NW",
+    coords: [8.839, 51.911],
+    name: { de: "Hermannsdenkmal", hu: "Hermann-emlékmű", ro: "Monumentul lui Hermann", en: "Hermann Monument" },
+    description: { de: "Ein riesiges Denkmal zur Erinnerung an die Varusschlacht im Jahr 9 n. Chr. im Teutoburger Wald.", hu: "Hatalmas emlékmű a Kr. u. 9-ben vívott varusi csata emlékére a Teutoburg-erdőben.", ro: "Un monument uriaș care comemorează Bătălia de la Varus din anul 9 d.Hr. în Pădurea Teutoburg.", en: "A huge monument commemorating the Battle of the Teutoburg Forest in 9 AD." },
+    facts: {
+      de: ["War bis 1886 die höchste Statue der westlichen Welt.", "Erinnert an den Cheruskerfürsten Arminius."],
+      hu: ["1886-ig a nyugati világ legmagasabb szobra volt.", "Arminius keruszk fejedelemnek állít emléket."],
+      ro: ["A fost cea mai înaltă statuie din lumea occidentală până în 1886.", "Îl comemorează pe căpetenia cheruscă Arminius."],
+      en: ["Was the tallest statue in the Western world until 1886.", "Commemorates the Cheruscan chieftain Arminius."]
+    },
+    image: "/geo-images/germany/hermannsdenkmal.webp",
+  },
+  {
+    id: "hist-voelkerschlachtdenkmal",
+    type: "historical",
+    parent: "DE-SN",
+    coords: [12.413, 51.312],
+    name: { de: "Völkerschlachtdenkmal", hu: "Népek csatájának emlékműve", ro: "Monumentul Bătăliei Națiunilor", en: "Monument to the Battle of the Nations" },
+    description: { de: "Eines der größten Denkmäler Europas, errichtet zur Erinnerung an den Sieg über Napoleon bei Leipzig.", hu: "Európa egyik legnagyobb emlékműve, a Napóleon felett Lipcsénél aratott győzelem emlékére emelték.", ro: "Unul dintre cele mai mari monumente din Europa, ridicat în memoria victoriei împotriva lui Napoleon la Leipzig.", en: "One of the largest monuments in Europe, erected to commemorate the victory over Napoleon at Leipzig." },
+    facts: {
+      de: ["Eingeweiht 1913 zum 100. Jahrestag der Schlacht.", "91 Meter hoch mit beeindruckender Aussichtsplattform."],
+      hu: ["1913-ban, a csata 100. évfordulóján avatták fel.", "91 méter magas, lenyűgöző kilátóterasszal."],
+      ro: ["Inaugurat în 1913 la a 100-a aniversare a bătăliei.", "91 de metri înălțime cu o platformă de observare impresionantă."],
+      en: ["Dedicated in 1913 on the 100th anniversary of the battle.", "91 meters high with an impressive observation platform."]
+    },
+    image: "/geo-images/germany/voelkerschlachtdenkmal.webp",
+  },
+  {
+    id: "hist-schloss-sigmaringen",
+    type: "historical",
+    parent: "DE-BW",
+    coords: [9.216, 48.087],
+    name: { de: "Schloss Sigmaringen", hu: "Sigmaringen kastély", ro: "Castelul Sigmaringen", en: "Sigmaringen Castle" },
+    description: { de: "Das imposante Hohenzollernschloss thront majestätisch auf einem Kalkfelsen über der Donau.", hu: "Az impozáns Hohenzollern-kastély fenségesen magasodik egy mészkősziklán a Duna felett.", ro: "Impunătorul castel Hohenzollern tronează maiestuos pe o stâncă de calcar deasupra Dunării.", en: "The imposing Hohenzollern castle towers majestically on a limestone rock above the Danube." },
+    facts: {
+      de: ["Besitzt eine der größten privaten Waffensammlungen Europas.", "Stammsitz der schwäbischen Hohenzollern."],
+      hu: ["Európa egyik legnagyobb magán fegyvergyűjteményével rendelkezik.", "A sváb Hohenzollernek ősi székhelye."],
+      ro: ["Deține una dintre cele mai mari colecții private de arme din Europa.", "Sediul ancestral al Hohenzollernilor șvabi."],
+      en: ["Possesses one of the largest private weapon collections in Europe.", "Ancestral seat of the Swabian Hohenzollerns."]
+    },
+    image: "/geo-images/germany/schloss-sigmaringen.webp",
+  },
+  {
+    id: "hist-schloss-stolzenfels",
+    type: "historical",
+    parent: "DE-RP",
+    coords: [7.592, 50.303],
+    name: { de: "Schloss Stolzenfels", hu: "Stolzenfels kastély", ro: "Castelul Stolzenfels", en: "Stolzenfels Castle" },
+    description: { de: "Ein Juwel der preußischen Rheinromantik, erbaut als Sommerresidenz bei Koblenz.", hu: "A porosz rajnai romantika gyöngyszeme, nyári rezidenciaként épült Koblenz közelében.", ro: "O bijuterie a romantismului prusac de pe Rin, construită ca reședință de vară lângă Koblenz.", en: "A jewel of Prussian Rhine Romanticism, built as a summer residence near Koblenz." },
+    facts: {
+      de: ["Ursprünglich eine mittelalterliche Zollburg.", "Gilt als Inbegriff der Rheinromantik."],
+      hu: ["Eredetileg középkori vámszedő vár volt.", "A rajnai romantika megtestesítőjének tartják."],
+      ro: ["Inițial o vamă medievală fortificată.", "Considerat întruchiparea romantismului de pe Rin."],
+      en: ["Originally a medieval toll castle.", "Considered the epitome of Rhine Romanticism."]
+    },
+    image: "/geo-images/germany/schloss-stolzenfels.webp",
+  },
+  {
+    id: "lake-koenigssee",
+    type: "lake",
+    parent: "DE-BY",
+    coords: [12.988, 47.555],
+    name: { de: "Königssee", hu: "Königssee", ro: "Lacul Königssee", en: "Lake Königssee" },
+    description: { de: "Ein fjordartiger Gebirgssee im Nationalpark Berchtesgaden mit kristallklarem Wasser.", hu: "Fjordszerű hegyi tó a Berchtesgadeni Nemzeti Parkban, kristálytiszta vízzel.", ro: "Un lac de munte asemănător unui fiord în Parcul Național Berchtesgaden, cu apă cristalină.", en: "A fjord-like mountain lake in the Berchtesgaden National Park with crystal clear water." },
+    facts: {
+      de: ["Berühmt für das Echo an der Felswand.", "Schifffahrt erfolgt ausschließlich mit Elektrobooten."],
+      hu: ["Híres a sziklafalról visszaverődő visszhangról.", "A hajózás kizárólag elektromos hajókkal történik."],
+      ro: ["Faimos pentru ecoul de la peretele de stâncă.", "Navigația se face exclusiv cu barci electrice."],
+      en: ["Famous for the echo at the rock face.", "Shipping is done exclusively with electric boats."]
+    },
+    image: "/geo-images/germany/lake-koenigssee.webp",
+  },
+  {
+    id: "mnt-bastei-saechsische-schweiz",
+    type: "mountain",
+    parent: "DE-SN",
+    coords: [14.072, 50.962],
+    name: { de: "Bastei & Sächsische Schweiz", hu: "Bastei és Szász-Svájc", ro: "Bastei și Elveția Saxonă", en: "Bastei & Saxon Switzerland" },
+    description: { de: "Spektakuläre Sandsteinfelsen im Elbsandsteingebirge mit der berühmten Basteibrücke.", hu: "Látványos homokkő-sziklák az Elbai-homokkőhegységben a híres Bastei-híddal.", ro: "Stânci spectaculoase de gresie în Munții Elbei cu faimosul pod Bastei.", en: "Spectacular sandstone rocks in the Elbe Sandstone Mountains with the famous Bastei Bridge." },
+    facts: {
+      de: ["Beliebtestes Ausflugsziel der Sächsischen Schweiz.", "Die Basteibrücke wurde 1851 aus Stein erbaut."],
+      hu: ["Szász-Svájc legnépszerűbb kirándulóhelye.", "A Bastei-hidat 1851-ben építették kőből."],
+      ro: ["Cea mai populară destinație de excursie din Elveția Saxonă.", "Podul Bastei a fost construit din piatră în 1851."],
+      en: ["Most popular excursion destination in Saxon Switzerland.", "The Bastei Bridge was built of stone in 1851."]
+    },
+    image: "/geo-images/germany/mnt-bastei.webp",
+  },
+  {
+    id: "landmark-externsteine",
+    type: "landmark",
+    parent: "DE-NW",
+    coords: [8.917, 51.868],
+    name: { de: "Externsteine", hu: "Externsteine", ro: "Externsteine", en: "Externsteine" },
+    description: { de: "Markante Sandstein-Felsformation im Teutoburger Wald, ein bedeutendes Naturdenkmal.", hu: "Jellegzetes homokkő-sziklaformáció a Teutoburg-erdőben, jelentős természeti műemlék.", ro: "Formațiune remarcabilă de stânci de gresie în Pădurea Teutoburg, un monument natural important.", en: "Distinctive sandstone rock formation in the Teutoburg Forest, a significant natural monument." },
+    facts: {
+      de: ["Mittelalterliche Reliefs in den Fels gehauen.", "Umgeben von mystischen Sagen und Legenden."],
+      hu: ["Középkori domborműveket faragtak a sziklába.", "Misztikus mondák és legendák övezik."],
+      ro: ["Reliefuri medievale săpate în stâncă.", "Înconjurat de mituri și legende mistice."],
+      en: ["Medieval reliefs carved into the rock.", "Surrounded by mystical myths and legends."]
+    },
+    image: "/geo-images/germany/externsteine.webp",
+  },
+  {
+    id: "island-mainau",
+    type: "island",
+    parent: "DE-BW",
+    coords: [9.195, 47.705],
+    name: { de: "Insel Mainau", hu: "Mainau-sziget", ro: "Insula Mainau", en: "Mainau Island" },
+    description: { de: "Die 'Blumeninsel' im Bodensee, bekannt für ihre prächtigen Park- und Gartenanlagen.", hu: "A 'virágsziget' a Bódeni-tóban, híres pompás parkjairól és kertjeiről.", ro: "„Insula florilor” de pe lacul Constanța, renumită pentru parcurile și grădinile sale splendide.", en: "The 'Flower Island' in Lake Constance, known for its magnificent parks and gardens." },
+    facts: {
+      de: ["Mildes Klima begünstigt Palmen und Zitrusfrüchte.", "Ganzjährig wechselnde Blütenpracht."],
+      hu: ["Enyhe éghajlata kedvez a pálmáknak és citrusféléknek.", "Egész évben változó virágpompát kínál."],
+      ro: ["Clima blândă favorizează palmierii și citricele.", "Splendoare florală schimbătoare pe tot parcursul anului."],
+      en: ["Mild climate favors palms and citrus fruits.", "Changing floral splendor year-round."]
+    },
+    image: "/geo-images/germany/island-mainau.webp",
+  },
+  {
+    id: "landmark-teufelsmauer",
+    type: "landmark",
+    parent: "DE-ST",
+    coords: [11.080, 51.757],
+    name: { de: "Teufelsmauer", hu: "Teufelsmauer", ro: "Zidul Diavolului", en: "Devil's Wall" },
+    description: { de: "Eine skurrile Felsformation aus Sandstein im nördlichen Harzvorland.", hu: "Különös homokkő sziklaformáció az északi Harz-előhegységben.", ro: "O formațiune stâncoasă bizară din gresie în nordul regiunii Harz.", en: "A whimsical sandstone rock formation in the northern Harz foreland." },
+    facts: {
+      de: ["Erstreckt sich über ca. 20 Kilometer Länge.", "Sagenumwobene Steine wie 'Großvater' und 'Hamburger Wappen'."],
+      hu: ["Körülbelül 20 kilométer hosszan húzódik.", "Legendás kövek, mint a 'Nagyapa' és a 'Hamburgi címer'."],
+      ro: ["Se întinde pe o lungime de aproximativ 20 de kilometri.", "Pietre legendare precum „Bunicul” și „Blazonul Hamburgului”."],
+      en: ["Extends over approximately 20 kilometers in length.", "Legendary stones like 'Grandfather' and 'Hamburg Crest'."]
+    },
+    image: "/geo-images/germany/teufelsmauer.webp",
+  },
+  {
+    id: "landmark-partnachklamm",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [11.127, 47.469],
+    name: { de: "Partnachklamm", hu: "Partnach-szurdok", ro: "Cheile Partnach", en: "Partnach Gorge" },
+    description: { de: "Eine tief eingeschnittene, spektakuläre Felsschlucht bei Garmisch-Partenkirchen.", hu: "Mélyen bevágott, látványos sziklaszoros Garmisch-Partenkirchen közelében.", ro: "Un defileu stâncos spectaculos, adânc săpat, lângă Garmisch-Partenkirchen.", en: "A deeply cut, spectacular rock gorge near Garmisch-Partenkirchen." },
+    facts: {
+      de: ["700 Meter lang und bis zu 80 Meter tief.", "Auch im Winter bei bizarren Eisformationen begehbar."],
+      hu: ["700 méter hosszú és akár 80 méter mély.", "Télen is látogatható a bizarr jégformációk miatt."],
+      ro: ["700 de metri lungime și până la 80 de metri adâncime.", "Accesibil și iarna datorită formațiunilor bizare de gheață."],
+      en: ["700 meters long and up to 80 meters deep.", "Accessible even in winter with bizarre ice formations."]
+    },
+    image: "/geo-images/germany/partnachklamm.webp",
+  },
+  {
+    id: "landmark-donaudurchbruch",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [11.833, 48.891],
+    name: { de: "Donaudurchbruch", hu: "Duna-áttörés", ro: "Defileul Dunării la Weltenburg", en: "Danube Gorge" },
+    description: { de: "Ein spektakulärer Durchbruch der Donau durch die Kalkfelsen der Fränkischen Alb.", hu: "A Duna látványos áttörése a Frank-Alb mészkősziklái között.", ro: "O străpungere spectaculoasă a Dunării prin stâncile de calcar ale Jurei Francone.", en: "A spectacular breakthrough of the Danube through the limestone rocks of the Franconian Jura." },
+    facts: {
+      de: ["Liegt direkt beim berühmten Kloster Weltenburg.", "Steilwände ragen bis zu 80 Meter aus dem Wasser."],
+      hu: ["Közvetlenül a híres Weltenburgi apátság mellett fekszik.", "A sziklafalak akár 80 méter magasan emelkednek ki a vízből."],
+      ro: ["Situat chiar lângă faimoasa mănăstire Weltenburg.", "Pereții abrupți se ridică până la 80 de metri din apă."],
+      en: ["Located directly by the famous Weltenburg Abbey.", "Steep walls rise up to 80 meters out of the water."]
+    },
+    image: "/geo-images/germany/donaudurchbruch.webp",
+  },
+  {
+    id: "hist-kyffhaeuser-denkmal",
+    type: "historical",
+    parent: "DE-TH",
+    coords: [11.109, 51.413],
+    name: { de: "Kyffhäuser-Denkmal", hu: "Kyffhäuser-emlékmű", ro: "Monumentul Kyffhäuser", en: "Kyffhäuser Monument" },
+    description: { de: "Ein monumentales Reiterstandbild von Kaiser Wilhelm I. im Kyffhäusergebirge.", hu: "I. Vilmos császár monumentális lovasszobra a Kyffhäuser-hegységben.", ro: "O statuie ecvestră monumentală a împăratului Wilhelm I în munții Kyffhäuser.", en: "A monumental equestrian statue of Emperor Wilhelm I in the Kyffhäuser Mountains." },
+    facts: {
+      de: ["Drittgrößtes Denkmal Deutschlands.", "Erinnert an die Sage von Kaiser Barbarossa."],
+      hu: ["Németország harmadik legnagyobb emlékműve.", "Barbarossa császár legendájára emlékeztet."],
+      ro: ["Al treilea cel mai mare monument din Germania.", "Amintește de legenda împăratului Barbarossa."],
+      en: ["Third largest monument in Germany.", "Recalls the legend of Emperor Barbarossa."]
+    },
+    image: "/geo-images/germany/kyffhaeuser.webp",
+  },
+  {
+    id: "forest-nationalpark-eifel",
+    type: "forest",
+    parent: "DE-NW",
+    coords: [6.433, 50.617],
+    name: { de: "Nationalpark Eifel", hu: "Eifel Nemzeti Park", ro: "Parcul Național Eifel", en: "Eifel National Park" },
+    description: { de: "Ein weitläufiger Nationalpark mit Buchenwäldern, Flüssen und Stauseen in Nordrhein-Westfalen.", hu: "Kiterjedt nemzeti park bükkerdőkkel, folyókkal és víztározókkal Észak-Rajna-Vesztfáliában.", ro: "Un parc național întins cu păduri de fagi, râuri și lacuri de acumulare în Renania de Nord-Westfalia.", en: "An extensive national park with beech forests, rivers, and reservoirs in North Rhine-Westphalia." },
+    facts: {
+      de: ["Lebensraum für Wildkatzen und Schwarzstörche.", "Bekannt für den 'Wildnis-Trail'."],
+      hu: ["Vadmacskák és fekete gólyák élőhelye.", "A 'Vadon-ösvényről' (Wildnis-Trail) ismert."],
+      ro: ["Habitat pentru pisici sălbatice și berze negre.", "Cunoscut pentru traseul „Wildnis-Trail”."],
+      en: ["Habitat for wildcats and black storks.", "Known for the 'Wilderness Trail'."]
+    },
+    image: "/geo-images/germany/nationalpark-eifel.webp",
+  },
+  {
+    id: "forest-kellerwald-edersee",
+    type: "forest",
+    parent: "DE-HE",
+    coords: [8.967, 51.133],
+    name: { de: "Nationalpark Kellerwald-Edersee", hu: "Kellerwald-Edersee Nemzeti Park", ro: "Parcul Național Kellerwald-Edersee", en: "Kellerwald-Edersee National Park" },
+    description: { de: "Einer der letzten großen Rotbuchenwälder Mitteleuropas und UNESCO-Weltnaturerbe.", hu: "Közép-Európa egyik utolsó nagy bükkerdője és UNESCO természeti világörökség része.", ro: "Una dintre ultimele mari păduri de fagi din Europa Centrală și patrimoniu natural UNESCO.", en: "One of the last large beech forests in Central Europe and a UNESCO World Natural Heritage site." },
+    facts: {
+      de: ["Umfasst den malerischen Edersee.", "Alte Buchenbestände ohne forstliche Nutzung."],
+      hu: ["Magában foglalja a festői Edersee-t.", "Öreg bükkösök erdészeti hasznosítás nélkül."],
+      ro: ["Cuprinde lacul pitoresc Edersee.", "Păduri vechi de fagi fără exploatare forestieră."],
+      en: ["Includes the picturesque Edersee lake.", "Old beech stands without forestry use."]
+    },
+    image: "/geo-images/germany/kellerwald-edersee.webp",
+  },
+  {
+    id: "landmark-mercedes-benz-museum",
+    type: "landmark",
+    parent: "DE-BW",
+    coords: [9.234, 48.788],
+    name: { de: "Mercedes-Benz Museum", hu: "Mercedes-Benz Múzeum", ro: "Muzeul Mercedes-Benz", en: "Mercedes-Benz Museum" },
+    description: { de: "Ein architektonisch spektakuläres Automuseum in Stuttgart, das die Geschichte des Automobils zeigt.", hu: "Építészetileg látványos autómúzeum Stuttgartban, amely az automobil történetét mutatja be.", ro: "Un muzeu auto spectaculos din punct de vedere arhitectural în Stuttgart, care prezintă istoria automobilului.", en: "An architecturally spectacular automobile museum in Stuttgart showing the history of the automobile." },
+    facts: {
+      de: ["Über 160 Fahrzeuge auf 16.500 Quadratmetern.", "Ausstellung folgt einer Doppelhelix-Struktur."],
+      hu: ["Több mint 160 jármű 16 500 négyzetméteren.", "A kiállítás kettős hélix szerkezetet követ."],
+      ro: ["Peste 160 de vehicule pe 16.500 de metri pătrați.", "Expoziția urmează o structură de dublu helix."],
+      en: ["Over 160 vehicles on 16,500 square meters.", "The exhibition follows a double helix structure."]
+    },
+    image: "/geo-images/germany/mercedes-museum.webp",
+  },
+  {
+    id: "landmark-zeche-zollverein",
+    type: "landmark",
+    parent: "DE-NW",
+    coords: [7.043, 51.486],
+    name: { de: "Zeche Zollverein", hu: "Zollverein szénbánya", ro: "Mina de cărbune Zollverein", en: "Zollverein Coal Mine" },
+    description: { de: "Ehemalige Steinkohlezeche in Essen, heute ein bedeutendes Kulturdenkmal und UNESCO-Welterbe.", hu: "Egykori kőszénbánya Essenben, ma jelentős kulturális műemlék és UNESCO-világörökség.", ro: "Fostă mină de cărbune în Essen, astăzi un monument cultural important și patrimoniu UNESCO.", en: "Former coal mine in Essen, today a significant cultural monument and UNESCO World Heritage Site." },
+    facts: {
+      de: ["Gilt als die 'schönste Zeche der Welt'.", "Wahrzeichen der Industriekultur im Ruhrgebiet."],
+      hu: ["A 'világ legszebb bányájaként' emlegetik.", "A Ruhr-vidéki ipari kultúra jelképe."],
+      ro: ["Considerată „cea mai frumoasă mină din lume”.", "Simbol al culturii industriale din regiunea Ruhr."],
+      en: ["Considered the 'most beautiful coal mine in the world'.", "Landmark of industrial culture in the Ruhr area."]
+    },
+    image: "/geo-images/germany/zeche-zollverein.webp",
+  },
+  {
+    id: "landmark-museumsinsel-berlin",
+    type: "landmark",
+    parent: "DE-BE",
+    coords: [13.397, 52.520],
+    name: { de: "Museumsinsel", hu: "Múzeum-sziget", ro: "Insula Muzeelor", en: "Museum Island" },
+    description: { de: "Ein weltweit einzigartiges Ensemble von fünf Museen im Herzen Berlins, UNESCO-Welterbe.", hu: "Öt múzeumból álló, világszerte egyedülálló együttes Berlin szívében, UNESCO-világörökség.", ro: "Un ansamblu unic în lume de cinci muzee în inima Berlinului, patrimoniu UNESCO.", en: "A world-unique ensemble of five museums in the heart of Berlin, UNESCO World Heritage." },
+    facts: {
+      de: ["Beherbergt die berühmte Büste der Nofretete.", "Umfasst u.a. das Pergamonmuseum und das Alte Museum."],
+      hu: ["Itt őrzik Nofertiti híres mellszobrát.", "Magában foglalja többek között a Pergamon-múzeumot és az Altes Museumot."],
+      ro: ["Găzduiește faimosul bust al lui Nefertiti.", "Include, printre altele, Muzeul Pergamon și Muzeul Vechi."],
+      en: ["Houses the famous bust of Nefertiti.", "Includes the Pergamon Museum and the Altes Museum, among others."]
+    },
+    image: "/geo-images/germany/museumsinsel.webp",
+  },
+  {
+    id: "landmark-bmw-welt",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [11.556, 48.176],
+    name: { de: "BMW Welt & Museum", hu: "BMW Welt és Múzeum", ro: "BMW Welt și Muzeul", en: "BMW Welt & Museum" },
+    description: { de: "Ein futuristisches Erlebnis- und Auslieferungszentrum sowie Museum der Marke BMW in München.", hu: "Futurisztikus élmény- és átadóközpont, valamint a BMW márka múzeuma Münchenben.", ro: "Un centru futurist de experiență și livrare, precum și muzeul mărcii BMW din München.", en: "A futuristic experience and delivery center as well as a museum of the BMW brand in Munich." },
+    facts: {
+      de: ["Die Architektur der BMW Welt ist preisgekrönt.", "Museum zeigt die technische Entwicklung der Marke."],
+      hu: ["A BMW Welt építészete díjnyertes.", "A múzeum a márka technikai fejlődését mutatja be."],
+      ro: ["Arhitectura BMW Welt este premiată.", "Muzeul prezintă evoluția tehnică a mărcii."],
+      en: ["The architecture of BMW Welt is award-winning.", "The museum shows the technical development of the brand."]
+    },
+    image: "/geo-images/germany/bmw-welt.webp",
+  },
+  {
+    id: "landmark-nuerburgring",
+    type: "landmark",
+    parent: "DE-RP",
+    coords: [6.942, 50.334],
+    name: { de: "Nürburgring", hu: "Nürburgring", ro: "Nürburgring", en: "Nürburgring" },
+    description: { de: "Eine weltberühmte Rennstrecke in der Eifel, bekannt als die 'Grüne Hölle'.", hu: "Világhírű versenypálya az Eifel-hegységben, 'Zöld Pokol' néven is ismert.", ro: "Un circuit de curse renumit în lume, în Eifel, cunoscut sub numele de „Infernul Verde”.", en: "A world-famous race track in the Eifel, known as the 'Green Hell'." },
+    facts: {
+      de: ["Die Nordschleife gilt als schwierigste Rennstrecke der Welt.", "Austragungsort zahlreicher internationaler Autorennen."],
+      hu: ["A Nordschleife a világ legnehezebb versenypályájának számít.", "Számos nemzetközi autóverseny helyszíne."],
+      ro: ["Nordschleife este considerat cel mai dificil circuit de curse din lume.", "Locul de desfășurare a numeroase curse auto internaționale."],
+      en: ["The Nordschleife is considered the most difficult race track in the world.", "Venue for numerous international car races."]
+    },
+    image: "/geo-images/germany/nuerburgring.webp",
+  },
+  {
+    id: "landmark-olympiapark-muenchen",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [11.552, 48.175],
+    name: { de: "Olympiapark München", hu: "Müncheni Olimpiai Park", ro: "Parcul Olimpic din München", en: "Munich Olympic Park" },
+    description: { de: "Das Gelände der Olympischen Sommerspiele 1972 mit seiner markanten Zeltdachkonstruktion.", hu: "Az 1972-es nyári olimpiai játékok helyszíne a jellegzetes sátortetős szerkezetével.", ro: "Locul Jocurilor Olimpice de vară din 1972, cu construcția sa caracteristică de acoperiș tip cort.", en: "The site of the 1972 Summer Olympics with its distinctive tent-roof construction." },
+    facts: {
+      de: ["Wahrzeichen ist der 291 Meter hohe Olympiaturm.", "Heute ein wichtiges Zentrum für Sport- und Kulturveranstaltungen."],
+      hu: ["Jelképe a 291 méter magas Olimpiai torony.", "Ma fontos sport- és kulturális rendezvényközpont."],
+      ro: ["Simbolul este Turnul Olimpic de 291 de metri înălțime.", "Astăzi un centru important pentru evenimente sportive și culturale."],
+      en: ["The landmark is the 291-meter-high Olympic Tower.", "Today a major center for sporting and cultural events."]
+    },
+    image: "/geo-images/germany/olympiapark-muenchen.webp",
+  },
+  {
+    id: "landmark-allianz-arena",
+    type: "landmark",
+    parent: "DE-BY",
+    coords: [11.624, 48.218],
+    name: { de: "Allianz Arena", hu: "Allianz Arena", ro: "Allianz Arena", en: "Allianz Arena" },
+    description: { de: "Ein hochmodernes Fußballstadion in München, bekannt für seine leuchtende Außenhülle.", hu: "Ultramodern labdarúgó-stadion Münchenben, világító külső burkolatáról ismert.", ro: "Un stadion de fotbal ultramodern în München, renumit pentru fațada sa luminoasă.", en: "A state-of-the-art football stadium in Munich, famous for its glowing exterior shell." },
+    facts: {
+      de: ["Heimatstadion des FC Bayern München.", "Farbe der Außenhülle kann je nach Anlass gewechselt werden."],
+      hu: ["Az FC Bayern München hazai stadionja.", "A külső burkolat színe az alkalomtól függően változtatható."],
+      ro: ["Stadionul echipei FC Bayern München.", "Culoarea fațadei exterioare poate fi schimbată în funcție de ocazie."],
+      en: ["Home stadium of FC Bayern Munich.", "The color of the exterior shell can be changed depending on the occasion."]
+    },
+    image: "/geo-images/germany/allianz-arena.webp",
+  },
+  {
+    id: "hist-kaiserburg-nuernberg",
+    type: "historical",
+    parent: "DE-BY",
+    coords: [11.077, 49.458],
+    name: { de: "Kaiserburg Nürnberg", hu: "Nürnbergi császári vár", ro: "Castelul Imperial Nürnberg", en: "Nuremberg Imperial Castle" },
+    description: { de: "Eine der bedeutendsten Kaiserpfalzen des Mittelalters, die über der Nürnberger Altstadt thront.", hu: "A középkor egyik legjelentősebb császári palotája, amely a nürnbergi óváros felett trónol.", ro: "Unul dintre cele mai importante palate imperiale ale Evului Mediu, care domină orașul vechi din Nürnberg.", en: "One of the most significant imperial palaces of the Middle Ages, overlooking Nuremberg's old town." },
+    facts: {
+      de: ["War zeitweise Residenz aller Kaiser des Heiligen Römischen Reiches.", "Besteht aus Kaiserburg, Burggrafenburg und reichsstädtischen Bauten."],
+      hu: ["Egy időben a Német-római Birodalom összes császárának rezidenciája volt.", "A császári várból, a várgrófi várból és birodalmi városi épületekből áll."],
+      ro: ["A fost temporar reședința tuturor împăraților Sfântului Imperiu Roman.", "Constă din Castelul Imperial, Castelul Burggrafilor și clădiri municipale imperiale."],
+      en: ["Was at times the residence of all emperors of the Holy Roman Empire.", "Consists of the Imperial Castle, Burgraves' Castle, and imperial city buildings."]
+    },
+    image: "/geo-images/germany/kaiserburg-nuernberg.webp",
+  },
+  {
+    id: "landmark-schloss-drachenburg",
+    type: "landmark",
+    parent: "DE-NW",
+    coords: [7.210, 50.667],
+    name: { de: "Schloss Drachenburg", hu: "Drachenburg kastély", ro: "Castelul Drachenburg", en: "Drachenburg Castle" },
+    description: { de: "Ein märchenhaftes Schloss am Drachenfels im Siebengebirge mit Blick auf den Rhein.", hu: "Mesebeli kastély a Siebengebirge Drachenfels szikláján, kilátással a Rajnára.", ro: "Un castel de basm pe Drachenfels în Siebengebirge, cu vedere la Rin.", en: "A fairy-tale castle on the Drachenfels in the Siebengebirge overlooking the Rhine." },
+    facts: {
+      de: ["Erbaut im Stil des Historismus in Rekordzeit (1882–1884).", "Berühmtes Ziel für Ausflüge in die Rheinromantik."],
+      hu: ["Historizáló stílusban épült rekordidő alatt (1882–1884).", "A rajnai romantika kedvelt kirándulóhelye."],
+      ro: ["Construit în stil istoricist în timp record (1882–1884).", "Destinație celebră pentru excursii în romantismul de pe Rin."],
+      en: ["Built in the style of historicism in record time (1882–1884).", "Famous destination for excursions in Rhine Romanticism."]
+    },
+    image: "/geo-images/germany/schloss-drachenburg.webp",
+  },
+  {
+    id: "kidlm-hansa-park",
+    type: "kid-landmark",
+    parent: "DE-SH",
+    coords: [10.779, 54.075],
+    name: { de: "Hansa-Park", hu: "Hansa-Park", ro: "Hansa-Park", en: "Hansa-Park" },
+    description: { de: "Deutschlands einziger Erlebnispark am Meer, direkt an der Ostseeküste gelegen.", hu: "Németország egyetlen közvetlenül a tengerparton, a Balti-tengernél fekvő élményparkja.", ro: "Singurul parc de distracții din Germania situat pe malul mării, direct pe coasta Mării Baltice.", en: "Germany's only theme park by the sea, located directly on the Baltic coast." },
+    facts: {
+      de: ["Thematisiert die Geschichte der Hanse.", "Spektakuläre Achterbahnen mit Meerblick."],
+      hu: ["A Hanza-szövetség történetét dolgozza fel.", "Látványos hullámvasutak tengeri kilátással."],
+      ro: ["Are ca temă istoria Ligii Hanseatice.", "Roller coaster-uri spectaculoase cu vedere la mare."],
+      en: ["Thematizes the history of the Hanseatic League.", "Spectacular roller coasters with sea views."]
+    },
+    image: "/geo-images/germany/hansa-park.webp",
+  },
 ];
+
