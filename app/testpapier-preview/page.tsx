@@ -1,83 +1,59 @@
 "use client";
 
-import {
-  SunSvg as FlashSun,
-  ThermometerSvg as FlashThermometer,
-  StromkreisSvg as FlashStromkreis,
-} from "@/components/testpapier-visual/svg/ProbeSvgs";
-import {
-  SunSvg as ProSun,
-  ThermometerSvg as ProThermometer,
-  StromkreisSvg as ProStromkreis,
-} from "@/components/testpapier-visual/svg/ProbeSvgsPro";
-import { WinterSvg, VogelSvg, FruehlingSvg } from "@/components/testpapier-visual/svg/K1K2SvgsA";
-import { BlumeSvg, SkelettSvg, FischAnatomieSvg } from "@/components/testpapier-visual/svg/K5K6SvgsA";
+import React, { useState } from "react";
 
-const MODELS = [
-  { id: "flash", label: "Gemini 3 Flash (Chromebook)", Sun: FlashSun, Thermometer: FlashThermometer, Stromkreis: FlashStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg, Blume: BlumeSvg, Skelett: SkelettSvg, Fisch: FischAnatomieSvg },
-  { id: "pro", label: "Gemini 3.1 Pro (Windows)", Sun: ProSun, Thermometer: ProThermometer, Stromkreis: ProStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg, Blume: BlumeSvg, Skelett: SkelettSvg, Fisch: FischAnatomieSvg },
+// Import all SVGs
+import * as K1K2 from "@/components/testpapier-visual/svg/K1K2SvgsA";
+import * as K3K4 from "@/components/testpapier-visual/svg/K3K4SvgsA";
+import * as K5K6A from "@/components/testpapier-visual/svg/K5K6SvgsA";
+import * as K5K6B from "@/components/testpapier-visual/svg/K5K6SvgsB";
+import * as K7 from "@/components/testpapier-visual/svg/K7SvgsA";
+import * as K8 from "@/components/testpapier-visual/svg/K8SvgsA";
+
+// Import Question Types
+import JahreszeitenBild from "@/components/sachkunde-visual/JahreszeitenBild";
+import TierErkennen from "@/components/sachkunde-visual/TierErkennen";
+import WetterErkennen from "@/components/sachkunde-visual/WetterErkennen";
+import WasserkreislaufOrdnen from "@/components/sachkunde-visual/WasserkreislaufOrdnen";
+import PflanzenAnatomie from "@/components/biologie-visual/PflanzenAnatomie";
+import LaborSymbol from "@/components/chemie-visual/LaborSymbol";
+import StromkreisDiagramm from "@/components/physik-visual/StromkreisDiagramm";
+
+const SVG_GROUPS = [
+  {
+    title: "K1-K2 (Sachkunde)",
+    svgs: Object.entries(K1K2).filter(([name]) => name.endsWith("Svg")),
+  },
+  {
+    title: "K3-K4 (Sachkunde)",
+    svgs: Object.entries(K3K4).filter(([name]) => name.endsWith("Svg")),
+  },
+  {
+    title: "K5-K6 (Biologie)",
+    svgs: [
+      ...Object.entries(K5K6A).filter(([name]) => name.endsWith("Svg")),
+      ...Object.entries(K5K6B).filter(([name]) => name.endsWith("Svg")),
+    ],
+  },
+  {
+    title: "K7 (Chemie & Physik)",
+    svgs: Object.entries(K7).filter(([name]) => name.endsWith("Svg")),
+  },
+  {
+    title: "K8 (Biologie, Geographie, Math)",
+    svgs: Object.entries(K8).filter(([name]) => name.endsWith("Svg")),
+  },
 ];
 
-const SCENARIOS = [
-  {
-    name: "SunSvg — K1-K2 Sachkunde (évszak/időjárás)",
-    hint: "🌞 Welche Jahreszeit passt zum Bild?",
-    choices: ["Winter", "Frühling", "Sommer", "Herbst"],
-    key: "Sun",
-  },
-  {
-    name: "ThermometerSvg — K3-K4 Math (mértékegység)",
-    hint: "Wie viel Grad zeigt das Thermometer?",
-    choices: ["10°C", "15°C", "20°C", "25°C"],
-    key: "Thermometer",
-  },
-  {
-    name: "StromkreisSvg — K7 Physik (áramkör)",
-    hint: "Was fließt durch den Stromkreis, wenn die Lampe leuchtet?",
-    choices: ["Wasser", "Strom", "Wärme", "Licht"],
-    key: "Stromkreis",
-  },
-  {
-    name: "WinterSvg — K1-K2 Jahreszeiten",
-    hint: "Welche Jahreszeit ist hier dargestellt?",
-    choices: ["Frühling", "Sommer", "Herbst", "Winter"],
-    key: "Winter",
-  },
-  {
-    name: "VogelSvg — K1-K2 Tiere",
-    hint: "Welches Tier ist das?",
-    choices: ["Hund", "Katze", "Vogel", "Fisch"],
-    key: "Vogel",
-  },
-  {
-    name: "FruehlingSvg — K1-K2 Jahreszeiten",
-    hint: "Was passiert im Frühling?",
-    choices: ["Schnee fällt", "Blumen blühen", "Blätter fallen", "Es ist sehr heiß"],
-    key: "Fruehling",
-  },
-  {
-    name: "BlumeSvg — K5-K6 Biologie (Növénytan)",
-    hint: "Welcher Teil der Pflanze ist hier bunt?",
-    choices: ["Wurzel", "Stängel", "Blüte", "Blatt"],
-    key: "Blume",
-  },
-  {
-    name: "SkelettSvg — K5-K6 Biologie (Emberi test)",
-    hint: "Welches Organ wird durch den Brustkorb geschützt?",
-    choices: ["Gehirn", "Herz und Lunge", "Magen", "Darm"],
-    key: "Skelett",
-  },
-  {
-    name: "FischAnatomieSvg — K5-K6 Biologie (Állatok)",
-    hint: "Womit atmen Fische unter Wasser?",
-    choices: ["Lunge", "Kiemen", "Flossen", "Schuppen"],
-    key: "Fisch",
-  },
-] as const;
-
 export default function TestpapierPreviewPage() {
+  const [answers, setAnswers] = useState<Record<string, string>>({});
+
+  const handleAnswer = (key: string, ans: string) => {
+    setAnswers((prev) => ({ ...prev, [key]: ans }));
+  };
+
   return (
-    <main className="min-h-screen bg-white text-slate-900">
+    <main className="min-h-screen bg-white text-slate-900 pb-20">
       <style jsx global>{`
         body {
           background-image:
@@ -88,47 +64,135 @@ export default function TestpapierPreviewPage() {
       `}</style>
 
       <div className="mx-auto max-w-6xl px-3 py-6 sm:px-6 lg:px-8">
-        <header className="mb-6 border-b-2 border-slate-900 pb-3">
-          <h1 className="text-2xl font-black uppercase tracking-wider sm:text-3xl">Testpapier SVG — Style Benchmark</h1>
-          <p className="mt-1 text-sm text-slate-600">Flash vs Pro, 3 POC SVG összehasonlítás. A papír-grid háttér ugyanaz mint a test-route print-ben.</p>
+        <header className="mb-10 border-b-2 border-slate-900 pb-3">
+          <h1 className="text-2xl font-black uppercase tracking-wider sm:text-3xl">Testpapier SVG Library — 49 SVG, K1-K8</h1>
+          <p className="mt-1 text-sm text-slate-600">Teljes galéria grade-bucket-enként + új question-types demók.</p>
         </header>
 
-        {SCENARIOS.map((scenario) => (
-          <section key={scenario.key} className="mb-10 rounded-md bg-white/60 p-4 shadow-sm">
-            <h2 className="mb-3 text-sm font-bold uppercase tracking-wider text-indigo-700">{scenario.name}</h2>
-
-            <div className="grid gap-6 lg:grid-cols-2">
-              {MODELS.map((model) => {
-                const SvgComp = model[scenario.key as keyof typeof model] as React.ComponentType<{ className?: string }>;
-                return (
-                  <div key={model.id} className="rounded border-l-4 border-slate-300 bg-white/80 p-3">
-                    <div className="mb-2 text-xs font-bold uppercase tracking-wider text-slate-500">{model.label}</div>
-
-                    {/* SVG area (border-less, on paper-grid) */}
-                    <div className="mx-auto my-3 w-full max-w-sm">
-                      <SvgComp className="w-full h-auto max-h-36" />
-                    </div>
-
-                    {/* Hint + MCQ chips — simulate test-paper layout */}
-                    <div className="ml-7 mt-2 text-sm italic text-slate-500">{scenario.hint}</div>
-                    <div className="ml-7 mt-3 flex flex-wrap gap-2">
-                      {scenario.choices.map((c) => (
-                        <span key={c} className="inline-flex items-center gap-1 rounded border border-slate-300 bg-white px-2 py-0.5 text-xs">
-                          ☐ {c}
-                        </span>
-                      ))}
-                    </div>
+        {SVG_GROUPS.map((group) => (
+          <section key={group.title} className="mb-12">
+            <h2 className="mb-4 text-xl font-bold uppercase tracking-wider text-indigo-700 border-b border-indigo-200 pb-2">{group.title}</h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+              {group.svgs.map(([name, SvgComp]) => (
+                <div key={name} className="rounded-md border border-slate-300 bg-white/80 p-4 shadow-sm flex flex-col items-center justify-between">
+                  <div className="w-full h-32 flex items-center justify-center mb-3">
+                    {/* @ts-ignore */}
+                    <SvgComp className="w-full h-full max-h-28 object-contain" />
                   </div>
-                );
-              })}
+                  <div className="text-xs font-mono text-slate-500 bg-slate-100 px-2 py-1 rounded w-full text-center truncate">
+                    {name}
+                  </div>
+                </div>
+              ))}
             </div>
           </section>
         ))}
 
-        <footer className="mt-10 border-t border-slate-300 pt-4 text-xs text-slate-500">
-          <p><strong>Ha OK:</strong> döntés → az összes K1-K8 test-route-ra skálázzuk a nyertes stílusban.</p>
-          <p><strong>Mobil:</strong> reszponzív — nyisd meg telefonon hogy lásd tap-target méretet.</p>
-        </footer>
+        <section className="mt-16 mb-10">
+          <h2 className="mb-6 text-2xl font-black uppercase tracking-wider text-slate-900 border-b-2 border-slate-900 pb-3">Új question-típusok (Demo)</h2>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {/* K1-K2 */}
+            <div className="rounded-md border-l-4 border-indigo-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-indigo-600 mb-4">K1-K2: JahreszeitenBild</h3>
+              <JahreszeitenBild
+                svgName="WinterSvg"
+                options={["Frühling", "Sommer", "Herbst", "Winter"]}
+                correctIndex={3}
+                userAnswer={answers["q1"]}
+                submitted={!!answers["q1"]}
+                onAnswer={(a) => handleAnswer("q1", a)}
+              />
+            </div>
+
+            <div className="rounded-md border-l-4 border-indigo-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-indigo-600 mb-4">K1-K2: TierErkennen</h3>
+              <TierErkennen
+                svgName="KatzeSvg"
+                options={["Hund", "Katze", "Vogel", "Fisch"]}
+                correctIndex={1}
+                userAnswer={answers["q2"]}
+                submitted={!!answers["q2"]}
+                onAnswer={(a) => handleAnswer("q2", a)}
+              />
+            </div>
+
+            {/* K3-K4 */}
+            <div className="rounded-md border-l-4 border-emerald-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-emerald-600 mb-4">K3-K4: WetterErkennen</h3>
+              <WetterErkennen
+                svgName="GewitterSvg"
+                options={["Sonnig", "Regen", "Schnee", "Gewitter"]}
+                correctIndex={3}
+                userAnswer={answers["q3"] || ""}
+                submitted={!!answers["q3"]}
+                onAnswer={(a) => handleAnswer("q3", a)}
+              />
+            </div>
+
+            <div className="rounded-md border-l-4 border-emerald-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-emerald-600 mb-4">K3-K4: WasserkreislaufOrdnen</h3>
+              <WasserkreislaufOrdnen
+                stages={["Verdunstung", "Kondensation", "Niederschlag", "Fluss"]}
+                correctOrder={["Verdunstung", "Kondensation", "Niederschlag", "Fluss"]}
+                stageSvgs={{
+                  "Verdunstung": "VerdunstungSvg",
+                  "Kondensation": "KondensationSvg",
+                  "Niederschlag": "NiederschlagSvg",
+                  "Fluss": "FlussSvg"
+                }}
+                userAnswer={answers["q4"] || ""}
+                submitted={!!answers["q4"]}
+                onAnswer={(a) => handleAnswer("q4", a)}
+              />
+            </div>
+
+            {/* K5-K6 */}
+            <div className="rounded-md border-l-4 border-amber-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-amber-600 mb-4">K5-K6: PflanzenAnatomie</h3>
+              <PflanzenAnatomie
+                partEmoji="🌸"
+                partHint="Dient der Fortpflanzung, oft bunt gefärbt"
+                svgName="BlumeSvg"
+                options={["Wurzel", "Stängel", "Blüte", "Blatt"]}
+                correctIndex={2}
+                userAnswer={answers["q5"] || ""}
+                submitted={!!answers["q5"]}
+                onAnswer={(a) => handleAnswer("q5", a)}
+              />
+            </div>
+
+            {/* K7 */}
+            <div className="rounded-md border-l-4 border-rose-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-rose-600 mb-4">K7: LaborSymbol (Chemie)</h3>
+              <LaborSymbol
+                prompt="Was bedeutet dieses Symbol?"
+                symbol="🧪"
+                title="Reagenzglas"
+                svgName="ReagenzglasSvg"
+                options={["Erhitzen", "Mischen", "Messen", "Schützen"]}
+                correctIndex={1}
+                userAnswer={answers["q6"] || ""}
+                submitted={!!answers["q6"]}
+                onAnswer={(a) => handleAnswer("q6", a)}
+              />
+            </div>
+
+            <div className="rounded-md border-l-4 border-rose-500 bg-white/90 p-5 shadow-sm">
+              <h3 className="text-sm font-bold uppercase text-rose-600 mb-4">K7: StromkreisDiagramm (Physik)</h3>
+              <StromkreisDiagramm
+                prompt="Welcher Stromkreis ist geschlossen?"
+                diagrams={["Offen", "Geschlossen", "Kurzschluss"]}
+                svgName="StromkreisV2Svg"
+                correctIndex={1}
+                userAnswer={answers["q7"] || ""}
+                submitted={!!answers["q7"]}
+                onAnswer={(a) => handleAnswer("q7", a)}
+              />
+            </div>
+
+          </div>
+        </section>
       </div>
     </main>
   );
