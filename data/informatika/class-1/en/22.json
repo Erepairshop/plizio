@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "On/Off",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (22.1)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (22.2)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we eat near the computer? (22.3)",
+      "options": [
+        "Yes",
+        "No",
+        "Only snacks",
+        "Only drinks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (22.4)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (22.5)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (22.6)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (22.7)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How should we sit? (22.8)",
+      "options": [
+        "Straight back",
+        "Curved back",
+        "On the floor",
+        "Standing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we click with? (22.9)",
+      "options": [
+        "Screen",
+        "Keyboard",
+        "Mouse",
+        "Printer"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (22.10)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (22.11)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (22.12)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How should we sit? (22.13)",
+      "options": [
+        "Straight back",
+        "Curved back",
+        "On the floor",
+        "Standing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (22.14)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (22.15)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (22.16)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (22.17)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (22.18)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (22.19)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How long should we play? (22.20)",
+      "options": [
+        "All day",
+        "30 minutes",
+        "Never",
+        "5 hours"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do if eyes hurt? (22.21)",
+      "options": [
+        "Look away",
+        "Look closer",
+        "Turn up brightness",
+        "Keep playing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (22.22)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (22.23)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (22.24)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (22.25)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "music"
+    },
+    {
+      "type": "typing",
+      "text": "click"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "music"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "color"
+    },
+    {
+      "type": "typing",
+      "text": "color"
+    },
+    {
+      "type": "typing",
+      "text": "safe"
+    },
+    {
+      "type": "typing",
+      "text": "parent"
+    }
+  ]
+}

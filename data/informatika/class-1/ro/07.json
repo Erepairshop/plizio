@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Ieși dintr-un joc",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (7.1)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (7.2)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să mâncăm lângă calculator? (7.3)",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar gustări",
+        "Doar băuturi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (7.4)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (7.5)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este sigur să facem online? (7.6)",
+      "options": [
+        "Dăm parola",
+        "Vorbim cu străini",
+        "Întrebăm părinții",
+        "Dăm click pe reclame"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (7.7)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (7.8)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (7.9)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp ar trebui să ne jucăm? (7.10)",
+      "options": [
+        "Toată ziua",
+        "30 de minute",
+        "Niciodată",
+        "5 ore"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (7.11)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce dăm click? (7.12)",
+      "options": [
+        "Ecran",
+        "Tastatură",
+        "Mouse",
+        "Imprimantă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (7.13)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (7.14)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (7.15)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (7.16)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (7.17)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (7.18)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (7.19)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp ar trebui să ne jucăm? (7.20)",
+      "options": [
+        "Toată ziua",
+        "30 de minute",
+        "Niciodată",
+        "5 ore"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a asculta muzică? (7.21)",
+      "options": [
+        "Ecran",
+        "Mouse",
+        "Boxe",
+        "Tastatură"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (7.22)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (7.23)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (7.24)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (7.25)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "joc"
+    },
+    {
+      "type": "typing",
+      "text": "buton"
+    },
+    {
+      "type": "typing",
+      "text": "tastatura"
+    },
+    {
+      "type": "typing",
+      "text": "ecran"
+    },
+    {
+      "type": "typing",
+      "text": "joaca"
+    },
+    {
+      "type": "typing",
+      "text": "buton"
+    },
+    {
+      "type": "typing",
+      "text": "parinte"
+    },
+    {
+      "type": "typing",
+      "text": "desen"
+    },
+    {
+      "type": "typing",
+      "text": "ecran"
+    },
+    {
+      "type": "typing",
+      "text": "parinte"
+    }
+  ]
+}

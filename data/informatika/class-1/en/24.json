@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Favorite character",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (24.1)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do if eyes hurt? (24.2)",
+      "options": [
+        "Look away",
+        "Look closer",
+        "Turn up brightness",
+        "Keep playing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (24.3)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (24.4)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How should we sit? (24.5)",
+      "options": [
+        "Straight back",
+        "Curved back",
+        "On the floor",
+        "Standing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (24.6)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (24.7)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (24.8)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How long should we play? (24.9)",
+      "options": [
+        "All day",
+        "30 minutes",
+        "Never",
+        "5 hours"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (24.10)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (24.11)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (24.12)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How should we sit? (24.13)",
+      "options": [
+        "Straight back",
+        "Curved back",
+        "On the floor",
+        "Standing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (24.14)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (24.15)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we click with? (24.16)",
+      "options": [
+        "Screen",
+        "Keyboard",
+        "Mouse",
+        "Printer"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (24.17)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (24.18)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Should we eat near the computer? (24.19)",
+      "options": [
+        "Yes",
+        "No",
+        "Only snacks",
+        "Only drinks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (24.20)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (24.21)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (24.22)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (24.23)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (24.24)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (24.25)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "parent"
+    },
+    {
+      "type": "typing",
+      "text": "parent"
+    },
+    {
+      "type": "typing",
+      "text": "safe"
+    },
+    {
+      "type": "typing",
+      "text": "mouse"
+    },
+    {
+      "type": "typing",
+      "text": "button"
+    },
+    {
+      "type": "typing",
+      "text": "click"
+    },
+    {
+      "type": "typing",
+      "text": "keyboard"
+    },
+    {
+      "type": "typing",
+      "text": "play"
+    },
+    {
+      "type": "typing",
+      "text": "keyboard"
+    },
+    {
+      "type": "typing",
+      "text": "safe"
+    }
+  ]
+}

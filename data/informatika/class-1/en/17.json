@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Password is a secret",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (17.1)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (17.2)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (17.3)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (17.4)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (17.5)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (17.6)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (17.7)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (17.8)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (17.9)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (17.10)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do if eyes hurt? (17.11)",
+      "options": [
+        "Look away",
+        "Look closer",
+        "Turn up brightness",
+        "Keep playing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (17.12)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (17.13)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (17.14)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How should we sit? (17.15)",
+      "options": [
+        "Straight back",
+        "Curved back",
+        "On the floor",
+        "Standing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (17.16)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (17.17)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (17.18)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (17.19)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (17.20)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (17.21)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (17.22)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (17.23)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (17.24)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (17.25)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "click"
+    },
+    {
+      "type": "typing",
+      "text": "play"
+    },
+    {
+      "type": "typing",
+      "text": "music"
+    },
+    {
+      "type": "typing",
+      "text": "button"
+    },
+    {
+      "type": "typing",
+      "text": "color"
+    },
+    {
+      "type": "typing",
+      "text": "keyboard"
+    },
+    {
+      "type": "typing",
+      "text": "parent"
+    },
+    {
+      "type": "typing",
+      "text": "play"
+    },
+    {
+      "type": "typing",
+      "text": "button"
+    },
+    {
+      "type": "typing",
+      "text": "secret"
+    }
+  ]
+}

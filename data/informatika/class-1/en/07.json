@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Quit a game",
+  "language": "en",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (7.1)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is a password? (7.2)",
+      "options": [
+        "A secret",
+        "A game",
+        "A color",
+        "A song"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we close a game? (7.3)",
+      "options": [
+        "Click the X",
+        "Unplug computer",
+        "Hit the screen",
+        "Cry"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How do we turn on the computer? (7.4)",
+      "options": [
+        "Press the button",
+        "Yell at it",
+        "Clap hands",
+        "Jump"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (7.5)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (7.6)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (7.7)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (7.8)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to draw on the computer? (7.9)",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Cable",
+        "Printer"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (7.10)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Should we eat near the computer? (7.11)",
+      "options": [
+        "Yes",
+        "No",
+        "Only snacks",
+        "Only drinks"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How should we sit? (7.12)",
+      "options": [
+        "Straight back",
+        "Curved back",
+        "On the floor",
+        "Standing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (7.13)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do if eyes hurt? (7.14)",
+      "options": [
+        "Look away",
+        "Look closer",
+        "Turn up brightness",
+        "Keep playing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How long should we play? (7.15)",
+      "options": [
+        "All day",
+        "30 minutes",
+        "Never",
+        "5 hours"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a computer? (7.16)",
+      "options": [
+        "A machine",
+        "An animal",
+        "A plant",
+        "A food"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "How long should we play? (7.17)",
+      "options": [
+        "All day",
+        "30 minutes",
+        "Never",
+        "5 hours"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to type? (7.18)",
+      "options": [
+        "Mouse",
+        "Screen",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What is safe to do online? (7.19)",
+      "options": [
+        "Share password",
+        "Talk to strangers",
+        "Ask parents",
+        "Click all ads"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (7.20)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "How long should we play? (7.21)",
+      "options": [
+        "All day",
+        "30 minutes",
+        "Never",
+        "5 hours"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What do we do if eyes hurt? (7.22)",
+      "options": [
+        "Look away",
+        "Look closer",
+        "Turn up brightness",
+        "Keep playing"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "What do we use to listen to music? (7.23)",
+      "options": [
+        "Screen",
+        "Mouse",
+        "Speakers",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Who should we ask before downloading? (7.24)",
+      "options": [
+        "Friends",
+        "Strangers",
+        "Parents",
+        "Nobody"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "What shows the pictures? (7.25)",
+      "options": [
+        "Keyboard",
+        "Screen",
+        "Mouse",
+        "Cable"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "play"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "draw"
+    },
+    {
+      "type": "typing",
+      "text": "safe"
+    },
+    {
+      "type": "typing",
+      "text": "click"
+    },
+    {
+      "type": "typing",
+      "text": "keyboard"
+    },
+    {
+      "type": "typing",
+      "text": "game"
+    },
+    {
+      "type": "typing",
+      "text": "parent"
+    },
+    {
+      "type": "typing",
+      "text": "screen"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Pornit/Oprit",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (22.1)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să mâncăm lângă calculator? (22.2)",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar gustări",
+        "Doar băuturi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (22.3)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (22.4)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (22.5)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp ar trebui să ne jucăm? (22.6)",
+      "options": [
+        "Toată ziua",
+        "30 de minute",
+        "Niciodată",
+        "5 ore"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (22.7)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (22.8)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (22.9)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să mâncăm lângă calculator? (22.10)",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar gustări",
+        "Doar băuturi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce dăm click? (22.11)",
+      "options": [
+        "Ecran",
+        "Tastatură",
+        "Mouse",
+        "Imprimantă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a asculta muzică? (22.12)",
+      "options": [
+        "Ecran",
+        "Mouse",
+        "Boxe",
+        "Tastatură"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (22.13)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (22.14)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (22.15)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (22.16)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce dăm click? (22.17)",
+      "options": [
+        "Ecran",
+        "Tastatură",
+        "Mouse",
+        "Imprimantă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (22.18)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (22.19)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp ar trebui să ne jucăm? (22.20)",
+      "options": [
+        "Toată ziua",
+        "30 de minute",
+        "Niciodată",
+        "5 ore"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce dăm click? (22.21)",
+      "options": [
+        "Ecran",
+        "Tastatură",
+        "Mouse",
+        "Imprimantă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (22.22)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (22.23)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (22.24)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (22.25)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "secret"
+    },
+    {
+      "type": "typing",
+      "text": "sigur"
+    },
+    {
+      "type": "typing",
+      "text": "parinte"
+    },
+    {
+      "type": "typing",
+      "text": "muzica"
+    },
+    {
+      "type": "typing",
+      "text": "ecran"
+    },
+    {
+      "type": "typing",
+      "text": "mouse"
+    },
+    {
+      "type": "typing",
+      "text": "curat"
+    },
+    {
+      "type": "typing",
+      "text": "parinte"
+    },
+    {
+      "type": "typing",
+      "text": "parinte"
+    },
+    {
+      "type": "typing",
+      "text": "desen"
+    }
+  ]
+}

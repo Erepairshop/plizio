@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Ce este un calculator?",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ce este sigur să facem online? (1.1)",
+      "options": [
+        "Dăm parola",
+        "Vorbim cu străini",
+        "Întrebăm părinții",
+        "Dăm click pe reclame"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (1.2)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să mâncăm lângă calculator? (1.3)",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar gustări",
+        "Doar băuturi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (1.4)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (1.5)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (1.6)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este sigur să facem online? (1.7)",
+      "options": [
+        "Dăm parola",
+        "Vorbim cu străini",
+        "Întrebăm părinții",
+        "Dăm click pe reclame"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (1.8)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ar trebui să mâncăm lângă calculator? (1.9)",
+      "options": [
+        "Da",
+        "Nu",
+        "Doar gustări",
+        "Doar băuturi"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cum închidem un joc? (1.10)",
+      "options": [
+        "Dăm click pe X",
+        "Scoatem din priză",
+        "Lovim ecranul",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (1.11)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce ne arată imaginile? (1.12)",
+      "options": [
+        "Tastatura",
+        "Ecranul",
+        "Mouse-ul",
+        "Cablul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce dăm click? (1.13)",
+      "options": [
+        "Ecran",
+        "Tastatură",
+        "Mouse",
+        "Imprimantă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum închidem un joc? (1.14)",
+      "options": [
+        "Dăm click pe X",
+        "Scoatem din priză",
+        "Lovim ecranul",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (1.15)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este sigur să facem online? (1.16)",
+      "options": [
+        "Dăm parola",
+        "Vorbim cu străini",
+        "Întrebăm părinții",
+        "Dăm click pe reclame"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum închidem un joc? (1.17)",
+      "options": [
+        "Dăm click pe X",
+        "Scoatem din priză",
+        "Lovim ecranul",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (1.18)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a asculta muzică? (1.19)",
+      "options": [
+        "Ecran",
+        "Mouse",
+        "Boxe",
+        "Tastatură"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (1.20)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (1.21)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (1.22)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (1.23)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cu ce dăm click? (1.24)",
+      "options": [
+        "Ecran",
+        "Tastatură",
+        "Mouse",
+        "Imprimantă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este sigur să facem online? (1.25)",
+      "options": [
+        "Dăm parola",
+        "Vorbim cu străini",
+        "Întrebăm părinții",
+        "Dăm click pe reclame"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "mouse"
+    },
+    {
+      "type": "typing",
+      "text": "muzica"
+    },
+    {
+      "type": "typing",
+      "text": "culoare"
+    },
+    {
+      "type": "typing",
+      "text": "tastatura"
+    },
+    {
+      "type": "typing",
+      "text": "joaca"
+    },
+    {
+      "type": "typing",
+      "text": "buton"
+    },
+    {
+      "type": "typing",
+      "text": "buton"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "secret"
+    },
+    {
+      "type": "typing",
+      "text": "sigur"
+    }
+  ]
+}

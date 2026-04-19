@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Întreabă părinții",
+  "language": "ro",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (19.1)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (19.2)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (19.3)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum închidem un joc? (19.4)",
+      "options": [
+        "Dăm click pe X",
+        "Scoatem din priză",
+        "Lovim ecranul",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (19.5)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a asculta muzică? (19.6)",
+      "options": [
+        "Ecran",
+        "Mouse",
+        "Boxe",
+        "Tastatură"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a scrie? (19.7)",
+      "options": [
+        "Mouse",
+        "Ecran",
+        "Tastatură",
+        "Boxă"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (19.8)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (19.9)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Pe cine întrebăm înainte de a descărca? (19.10)",
+      "options": [
+        "Prieteni",
+        "Străini",
+        "Părinți",
+        "Nimeni"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum închidem un joc? (19.11)",
+      "options": [
+        "Dăm click pe X",
+        "Scoatem din priză",
+        "Lovim ecranul",
+        "Plângem"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este o parolă? (19.12)",
+      "options": [
+        "Un secret",
+        "Un joc",
+        "O culoare",
+        "O melodie"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (19.13)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (19.14)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este un calculator? (19.15)",
+      "options": [
+        "O mașinărie",
+        "Un animal",
+        "O plantă",
+        "O mâncare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce facem dacă ne dor ochii? (19.16)",
+      "options": [
+        "Privim în altă parte",
+        "Privim mai aproape",
+        "Creștem luminozitatea",
+        "Ne jucăm în continuare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a desena pe calculator? (19.17)",
+      "options": [
+        "Mouse",
+        "Boxă",
+        "Cablu",
+        "Imprimantă"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (19.18)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce este sigur să facem online? (19.19)",
+      "options": [
+        "Dăm parola",
+        "Vorbim cu străini",
+        "Întrebăm părinții",
+        "Dăm click pe reclame"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (19.20)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cât timp ar trebui să ne jucăm? (19.21)",
+      "options": [
+        "Toată ziua",
+        "30 de minute",
+        "Niciodată",
+        "5 ore"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ce folosim pentru a asculta muzică? (19.22)",
+      "options": [
+        "Ecran",
+        "Mouse",
+        "Boxe",
+        "Tastatură"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Cum ar trebui să stăm? (19.23)",
+      "options": [
+        "Spatele drept",
+        "Spatele curbat",
+        "Pe jos",
+        "În picioare"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Cum pornim calculatorul? (19.24)",
+      "options": [
+        "Apăsăm butonul",
+        "Strigăm la el",
+        "Batem din palme",
+        "Sărim"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ce ne arată imaginile? (19.25)",
+      "options": [
+        "Tastatura",
+        "Ecranul",
+        "Mouse-ul",
+        "Cablul"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "joc"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "secret"
+    },
+    {
+      "type": "typing",
+      "text": "ecran"
+    },
+    {
+      "type": "typing",
+      "text": "parinte"
+    },
+    {
+      "type": "typing",
+      "text": "tastatura"
+    },
+    {
+      "type": "typing",
+      "text": "video"
+    },
+    {
+      "type": "typing",
+      "text": "click"
+    },
+    {
+      "type": "typing",
+      "text": "buton"
+    },
+    {
+      "type": "typing",
+      "text": "joc"
+    }
+  ]
+}
