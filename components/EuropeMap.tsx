@@ -1,81 +1,233 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { europaMap, europaViewBox, EuropeCountry } from "@/lib/visualLab/maps/europa.svg";
-import { Lang } from "@/lib/visualLab/maps/resolver";
+import type { Lang } from "@/lib/visualLab/maps/resolver";
 import { motion, AnimatePresence } from "framer-motion";
+import { ZoomIn, ZoomOut, Maximize2 } from "lucide-react";
+import type { WheelEvent as RWheelEvent, PointerEvent as RPointerEvent } from "react";
 
 interface EuropeMapProps {
   lang: Lang;
 }
 
-// Basic mappings for known countries to their Visual Lab endpoints or parameters.
-// If it's not in the list, we show a placeholder "Coming soon".
 const COUNTRY_BINDINGS: Record<string, string> = {
   DE: "deutschland-map",
-  HU: "magyarorszag", // stub if not exists
-  RO: "romania",      // stub if not exists
+  HU: "magyarorszag-map",
+  RO: "romania-map",
 };
+
+const COMING_SOON: Record<Lang, string> = {
+  de: "Bald verfügbar",
+  hu: "Hamarosan",
+  ro: "În curând",
+  en: "Coming soon",
+};
+
+const MIN_SCALE = 1;
+const MAX_SCALE = 20;
 
 export default function EuropeMap({ lang }: EuropeMapProps) {
   const router = useRouter();
+  const svgRef = useRef<SVGSVGElement | null>(null);
+  const pointers = useRef<Map<number, { x: number; y: number }>>(new Map());
+  const lastPinch = useRef<{ dist: number; cx: number; cy: number } | null>(null);
+  const lastPan = useRef<{ x: number; y: number } | null>(null);
+  const dragged = useRef(false);
+
   const [hovered, setHovered] = useState<string | null>(null);
-  const [toastMessage, setToastMessage] = useState<{title: string, info: string} | null>(null);
+  const [view, setView] = useState({ x: 0, y: 0, scale: 1 });
+  const [toast, setToast] = useState<{ title: string; info: string } | null>(null);
+
+  const [vbX, vbY, vbW, vbH] = europaViewBox.split(" ").map(Number);
+
+  const clampView = (v: { x: number; y: number; scale: number }) => {
+    const scale = Math.max(MIN_SCALE, Math.min(MAX_SCALE, v.scale));
+    const maxX = Math.max(0, vbW * (scale - 1)) + vbW * 0.5;
+    const maxY = Math.max(0, vbH * (scale - 1)) + vbH * 0.5;
+    return {
+      scale,
+      x: Math.max(-maxX, Math.min(maxX, v.x)),
+      y: Math.max(-maxY, Math.min(maxY, v.y)),
+    };
+  };
+
+  const zoomAt = (factor: number, cx?: number, cy?: number) => {
+    setView((v) => {
+      const px = cx ?? vbW / 2;
+      const py = cy ?? vbH / 2;
+      const newScale = v.scale * factor;
+      const clamped = Math.max(MIN_SCALE, Math.min(MAX_SCALE, newScale));
+      const k = clamped / v.scale;
+      const nx = px - k * (px - v.x);
+      const ny = py - k * (py - v.y);
+      return clampView({ x: nx, y: ny, scale: clamped });
+    });
+  };
+
+  const toSvg = (clientX: number, clientY: number) => {
+    const svg = svgRef.current;
+    if (!svg) return [0, 0];
+    const rect = svg.getBoundingClientRect();
+    const sx = vbW / rect.width;
+    const sy = vbH / rect.height;
+    return [vbX + (clientX - rect.left) * sx, vbY + (clientY - rect.top) * sy];
+  };
+
+  const onWheel = (e: RWheelEvent<SVGSVGElement>) => {
+    e.preventDefault();
+    const [sx, sy] = toSvg(e.clientX, e.clientY);
+    zoomAt(e.deltaY < 0 ? 1.15 : 1 / 1.15, sx, sy);
+  };
+
+  const onPointerDown = (e: RPointerEvent<SVGSVGElement>) => {
+    (e.target as Element).setPointerCapture?.(e.pointerId);
+    pointers.current.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    dragged.current = false;
+    if (pointers.current.size === 1) {
+      lastPan.current = { x: e.clientX, y: e.clientY };
+    } else if (pointers.current.size === 2) {
+      const pts = Array.from(pointers.current.values());
+      const dx = pts[0].x - pts[1].x;
+      const dy = pts[0].y - pts[1].y;
+      lastPinch.current = {
+        dist: Math.hypot(dx, dy),
+        cx: (pts[0].x + pts[1].x) / 2,
+        cy: (pts[0].y + pts[1].y) / 2,
+      };
+      lastPan.current = null;
+    }
+  };
+
+  const onPointerMove = (e: RPointerEvent<SVGSVGElement>) => {
+    if (!pointers.current.has(e.pointerId)) return;
+    pointers.current.set(e.pointerId, { x: e.clientX, y: e.clientY });
+
+    if (pointers.current.size === 2 && lastPinch.current) {
+      const pts = Array.from(pointers.current.values());
+      const dx = pts[0].x - pts[1].x;
+      const dy = pts[0].y - pts[1].y;
+      const dist = Math.hypot(dx, dy);
+      const cx = (pts[0].x + pts[1].x) / 2;
+      const cy = (pts[0].y + pts[1].y) / 2;
+      const factor = dist / lastPinch.current.dist;
+      const [sx, sy] = toSvg(cx, cy);
+      zoomAt(factor, sx, sy);
+      lastPinch.current = { dist, cx, cy };
+      dragged.current = true;
+    } else if (pointers.current.size === 1 && lastPan.current) {
+      const dxPx = e.clientX - lastPan.current.x;
+      const dyPx = e.clientY - lastPan.current.y;
+      if (Math.abs(dxPx) + Math.abs(dyPx) > 2) dragged.current = true;
+      const svg = svgRef.current;
+      if (svg) {
+        const rect = svg.getBoundingClientRect();
+        const dvx = dxPx * (vbW / rect.width);
+        const dvy = dyPx * (vbH / rect.height);
+        setView((v) => (v.scale > 1.001 ? clampView({ ...v, x: v.x + dvx, y: v.y + dvy }) : v));
+      }
+      lastPan.current = { x: e.clientX, y: e.clientY };
+    }
+  };
+
+  const onPointerUp = (e: RPointerEvent<SVGSVGElement>) => {
+    pointers.current.delete(e.pointerId);
+    if (pointers.current.size < 2) lastPinch.current = null;
+    if (pointers.current.size === 0) lastPan.current = null;
+  };
+
+  const resetView = () => setView({ x: 0, y: 0, scale: 1 });
 
   const handleCountryClick = (country: EuropeCountry) => {
+    if (dragged.current) return;
     const bind = COUNTRY_BINDINGS[country.id];
-    if (bind === "deutschland-map") {
-      router.push(`/visual-lab?vlab=deutschland-map`);
-    } else if (bind === "magyarorszag" || bind === "romania") {
-      router.push(`/visual-lab?vlab=${country.id.toLowerCase()}-map`);
+    if (bind) {
+      router.push(`/visual-lab?vlab=${bind}`);
     } else {
-      const comingSoon: Record<Lang, string> = {
-        de: "Bald verfügbar",
-        hu: "Hamarosan",
-        ro: "În curând",
-        en: "Coming soon"
-      };
-      setToastMessage({
+      setToast({
         title: country.names[lang] || country.names.en,
-        info: comingSoon[lang] || comingSoon.en
+        info: COMING_SOON[lang] || COMING_SOON.en,
       });
-      setTimeout(() => setToastMessage(null), 3000);
+      setTimeout(() => setToast(null), 2500);
     }
   };
 
   return (
-    <div className="relative w-full max-w-4xl mx-auto rounded-2xl bg-slate-900 overflow-hidden shadow-2xl border border-white/10 p-4">
+    <div className="relative w-full max-w-5xl mx-auto rounded-2xl bg-slate-900 overflow-hidden shadow-2xl border border-white/10">
       <AnimatePresence>
-        {toastMessage && (
+        {toast && (
           <motion.div
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -20 }}
-            className="absolute top-6 left-1/2 -translate-x-1/2 z-50 bg-black/80 backdrop-blur-sm border border-cyan-500/30 text-white px-6 py-3 rounded-full flex flex-col items-center shadow-lg pointer-events-none"
+            className="absolute top-4 left-1/2 -translate-x-1/2 z-50 bg-black/80 backdrop-blur-sm border border-cyan-500/30 text-white px-5 py-2 rounded-full flex flex-col items-center shadow-lg pointer-events-none"
           >
-            <span className="font-bold text-cyan-300">{toastMessage.title}</span>
-            <span className="text-sm opacity-80">{toastMessage.info}</span>
+            <span className="font-bold text-cyan-300 text-sm">{toast.title}</span>
+            <span className="text-xs opacity-80">{toast.info}</span>
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Zoom controls */}
+      <div className="absolute right-3 top-3 z-40 flex flex-col gap-2">
+        <button
+          onClick={() => zoomAt(1.4)}
+          className="w-9 h-9 rounded-full bg-slate-800/80 backdrop-blur text-white/80 hover:text-white hover:bg-slate-700 border border-white/10 flex items-center justify-center transition"
+          aria-label="Zoom in"
+        >
+          <ZoomIn size={16} />
+        </button>
+        <button
+          onClick={() => zoomAt(1 / 1.4)}
+          className="w-9 h-9 rounded-full bg-slate-800/80 backdrop-blur text-white/80 hover:text-white hover:bg-slate-700 border border-white/10 flex items-center justify-center transition"
+          aria-label="Zoom out"
+        >
+          <ZoomOut size={16} />
+        </button>
+        <button
+          onClick={resetView}
+          className="w-9 h-9 rounded-full bg-slate-800/80 backdrop-blur text-white/80 hover:text-white hover:bg-slate-700 border border-white/10 flex items-center justify-center transition"
+          aria-label="Reset zoom"
+        >
+          <Maximize2 size={14} />
+        </button>
+      </div>
+
       <svg
+        ref={svgRef}
         viewBox={europaViewBox}
         className="w-full h-auto max-h-[80vh] select-none"
-        style={{ filter: "drop-shadow(0 0 20px rgba(0,255,255,0.1))" }}
+        style={{
+          touchAction: "none",
+          cursor: view.scale > 1 ? "grab" : "default",
+          filter: "drop-shadow(0 0 20px rgba(0,255,255,0.08))",
+        }}
+        onWheel={onWheel}
+        onPointerDown={onPointerDown}
+        onPointerMove={onPointerMove}
+        onPointerUp={onPointerUp}
+        onPointerCancel={onPointerUp}
       >
-        {/* Render paths */}
-        <g>
+        <g transform={`translate(${view.x} ${view.y}) scale(${view.scale})`}>
+          {/* Country paths */}
           {europaMap.map((country) => {
             const isHovered = hovered === country.id;
+            const isWired = Boolean(COUNTRY_BINDINGS[country.id]);
             return (
               <path
                 key={`path-${country.id}`}
                 d={country.path}
-                fill={isHovered ? "rgba(6, 182, 212, 0.4)" : "rgba(30, 41, 59, 0.8)"}
-                stroke={isHovered ? "rgba(34, 211, 238, 0.8)" : "rgba(148, 163, 184, 0.4)"}
-                strokeWidth={isHovered ? "1.5" : "0.5"}
-                className="transition-all duration-300 cursor-pointer hover:z-10"
+                fill={
+                  isHovered
+                    ? "rgba(6, 182, 212, 0.45)"
+                    : isWired
+                      ? "rgba(6, 182, 212, 0.18)"
+                      : "rgba(30, 41, 59, 0.8)"
+                }
+                stroke={isHovered ? "rgba(34, 211, 238, 0.9)" : "rgba(148, 163, 184, 0.5)"}
+                strokeWidth={(isHovered ? 1.5 : 0.6) / view.scale}
+                style={{ cursor: "pointer", transition: "fill 200ms" }}
                 onMouseEnter={() => setHovered(country.id)}
                 onMouseLeave={() => setHovered(null)}
                 onClick={() => handleCountryClick(country)}
@@ -84,40 +236,70 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
               </path>
             );
           })}
-        </g>
-        
-        {/* Render capitals */}
-        <g className="pointer-events-none">
-          {europaMap.map((country) => {
-            if (!country.capital || !country.capital.coords) return null;
-            const [cx, cy] = country.capital.coords;
-            const isHovered = hovered === country.id;
-            return (
-              <g key={`cap-${country.id}`}>
-                <circle
-                  cx={cx}
-                  cy={cy}
-                  r={isHovered ? 4 : 2}
-                  fill={isHovered ? "#fff" : "#22d3ee"}
-                  className="transition-all duration-300"
-                />
-                {isHovered && (
+
+          {/* Country name labels + capital dot + capital name — always visible */}
+          <g pointerEvents="none">
+            {europaMap.map((country) => {
+              if (!country.capital || !country.capital.coords) return null;
+              const [cx, cy] = country.capital.coords;
+              const countryLabel = country.names[lang] || country.names.en;
+              const dotR = 2.4 / view.scale;
+              const countryFont = 10 / view.scale;
+              const capitalFont = 8 / view.scale;
+              const strokeW = 2.5 / view.scale;
+              const dyCountry = -9 / view.scale;
+              const dyCapital = 10 / view.scale;
+              return (
+                <g key={`lbl-${country.id}`}>
+                  {/* Country name — above capital */}
                   <text
                     x={cx}
-                    y={cy - 8}
-                    fill="#fff"
-                    fontSize="12"
-                    fontWeight="bold"
+                    y={cy + dyCountry}
+                    fill="#ffffff"
+                    fontSize={countryFont}
+                    fontWeight={700}
                     textAnchor="middle"
-                    className="drop-shadow-md"
-                    style={{ textShadow: "0px 2px 4px rgba(0,0,0,0.8)" }}
+                    style={{
+                      userSelect: "none",
+                      paintOrder: "stroke",
+                      stroke: "#020408",
+                      strokeWidth: strokeW,
+                      strokeOpacity: 0.85,
+                    }}
+                  >
+                    {countryLabel}
+                  </text>
+                  {/* Capital dot */}
+                  <circle
+                    cx={cx}
+                    cy={cy}
+                    r={dotR}
+                    fill="#FFD166"
+                    stroke="#020408"
+                    strokeWidth={0.4 / view.scale}
+                  />
+                  {/* Capital name — below dot */}
+                  <text
+                    x={cx}
+                    y={cy + dyCapital}
+                    fill="#FFD166"
+                    fontSize={capitalFont}
+                    fontWeight={600}
+                    textAnchor="middle"
+                    style={{
+                      userSelect: "none",
+                      paintOrder: "stroke",
+                      stroke: "#020408",
+                      strokeWidth: strokeW,
+                      strokeOpacity: 0.85,
+                    }}
                   >
                     {country.capital.name}
                   </text>
-                )}
-              </g>
-            );
-          })}
+                </g>
+              );
+            })}
+          </g>
         </g>
       </svg>
     </div>
