@@ -1,77 +1,88 @@
-import type { Metadata } from "next";
+"use client";
 
-export const metadata: Metadata = {
-  title: "Impressum | Plizio",
-  description: "Impressum und rechtliche Angaben für Plizio.",
-  alternates: { canonical: "https://plizio.com/impressum/" },
-  robots: { index: false },
-};
+import { useLang } from "@/components/LanguageProvider";
+import SimplePageLayout from "@/components/SimplePageLayout";
+import type { Language } from "@/lib/language";
 
-const s = {
-  main: { background: "#0A0A1A", color: "white", minHeight: "100vh" } as React.CSSProperties,
-  wrap: { maxWidth: 680, margin: "0 auto", padding: "40px 20px 80px" } as React.CSSProperties,
-  h1: { fontSize: 28, fontWeight: 800, marginBottom: 32, color: "#00FF88" } as React.CSSProperties,
-  h2: { fontSize: 17, fontWeight: 700, marginTop: 28, marginBottom: 8, color: "#e0e0ff" } as React.CSSProperties,
-  p: { lineHeight: 1.75, color: "#b0b0cc", marginBottom: 8, fontSize: 15 } as React.CSSProperties,
-  back: { display: "inline-block", color: "#9999bb", textDecoration: "none", fontSize: 14, marginBottom: 32 } as React.CSSProperties,
-  divider: { borderColor: "#1a1a3a", marginTop: 32, marginBottom: 32 } as React.CSSProperties,
+const CONTENT: Record<Language, {
+  title: string;
+  subtitle: string;
+  provider: string;
+  providerDetails: string[];
+  disclaimerTitle: string;
+  disclaimerText: string;
+}> = {
+  hu: {
+    title: "Impresszum",
+    subtitle: "Jogi nyilatkozat és szolgáltatói adatok",
+    provider: "Szolgáltató adatai",
+    providerDetails: [
+      "Cégadatok frissítés alatt",
+      "E-mail: borota25@gmail.com"
+    ],
+    disclaimerTitle: "Felelősségkizárás",
+    disclaimerText: "A weboldalon található információkat a legnagyobb gondossággal állítottuk össze. Azonban a tartalom pontosságáért, teljességéért és aktualitásáért nem vállalunk felelősséget. Külső linkek esetén a hivatkozott oldalak tartalmáért kizárólag azok üzemeltetői felelnek."
+  },
+  de: {
+    title: "Impressum",
+    subtitle: "Rechtliche Hinweise und Anbieterkennzeichnung",
+    provider: "Angaben gemäß § 5 TMG",
+    providerDetails: [
+      "Unternehmensdaten werden aktualisiert",
+      "E-Mail: borota25@gmail.com"
+    ],
+    disclaimerTitle: "Haftungsausschluss",
+    disclaimerText: "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Bei externen Links sind ausschließlich deren Betreiber für den Inhalt verantwortlich."
+  },
+  ro: {
+    title: "Informații legale",
+    subtitle: "Impresum și datele furnizorului",
+    provider: "Datele furnizorului",
+    providerDetails: [
+      "Datele companiei sunt în curs de actualizare",
+      "E-mail: borota25@gmail.com"
+    ],
+    disclaimerTitle: "Declinarea responsabilității",
+    disclaimerText: "Informațiile de pe acest site au fost compilate cu cea mai mare grijă. Cu toate acestea, nu ne asumăm răspunderea pentru acuratețea, exhaustivitatea și actualitatea conținutului. Pentru linkurile externe, responsabilitatea conținutului revine exclusiv operatorilor acelor site-uri."
+  },
+  en: {
+    title: "Legal Notice",
+    subtitle: "Impressum and provider information",
+    provider: "Provider Information",
+    providerDetails: [
+      "Company details are being updated",
+      "Email: borota25@gmail.com"
+    ],
+    disclaimerTitle: "Disclaimer",
+    disclaimerText: "The information on this website has been compiled with the utmost care. However, we cannot accept any liability for the accuracy, completeness, or timeliness of the content. For external links, the operators of those linked pages are solely responsible for their content."
+  }
 };
 
 export default function ImpressumPage() {
+  const { lang } = useLang();
+  const c = CONTENT[lang ?? "de"];
+
   return (
-    <main style={s.main}>
-      <div style={s.wrap}>
-        <a href="/" style={s.back}>← Zurück zur Startseite</a>
-        <h1 style={s.h1}>Impressum</h1>
+    <SimplePageLayout title={c.title} subtitle={c.subtitle}>
+      <div className="space-y-8 mt-6 text-white/80">
+        
+        <section>
+          <h2 className="text-xl font-bold text-white mb-4">{c.provider}</h2>
+          <div className="bg-white/5 border border-white/10 rounded-xl p-5">
+            {c.providerDetails.map((line, i) => (
+              <p key={i} className="m-0 leading-relaxed mb-2 last:mb-0">{line}</p>
+            ))}
+          </div>
+        </section>
 
-        <h2 style={s.h2}>Angaben gemäß § 5 TMG</h2>
-        <p style={s.p}>
-          Erik Borota<br />
-          Siedlungsring 51<br />
-          89415 Lauingen<br />
-          Deutschland
-        </p>
+        <section>
+          <h2 className="text-xl font-bold text-white mb-4">{c.disclaimerTitle}</h2>
+          <p className="leading-relaxed">
+            {c.disclaimerText}
+          </p>
+        </section>
 
-        <h2 style={s.h2}>Umsatzsteuer-ID</h2>
-        <p style={s.p}>
-          USt.-IdNr.: DE308874569
-        </p>
-
-        <h2 style={s.h2}>Kontakt</h2>
-        <p style={s.p}>
-          E-Mail: <a href="mailto:info@plizio.com" style={{ color: "#00FF88" }}>info@plizio.com</a><br />
-          Website: <a href="https://plizio.com" style={{ color: "#00FF88" }}>www.plizio.com</a>
-        </p>
-
-        <h2 style={s.h2}>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
-        <p style={s.p}>Erik Borota</p>
-
-        <hr style={s.divider} />
-
-        <h2 style={s.h2}>Haftungsausschluss</h2>
-        <p style={s.p}>
-          Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit,
-          Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.
-          Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach
-          den allgemeinen Gesetzen verantwortlich.
-        </p>
-
-        <h2 style={s.h2}>Urheberrecht</h2>
-        <p style={s.p}>
-          Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem
-          deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der
-          Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des
-          jeweiligen Autors bzw. Erstellers.
-        </p>
-
-        <hr style={s.divider} />
-
-        <p style={{ ...s.p, fontSize: 13, color: "#666688" }}>
-          <a href="/privacy/" style={{ color: "#9999bb" }}>Datenschutzerklärung</a>
-          {" · "}
-          <a href="/" style={{ color: "#9999bb" }}>Plizio – Lernspiele</a>
-        </p>
       </div>
-    </main>
+    </SimplePageLayout>
   );
 }

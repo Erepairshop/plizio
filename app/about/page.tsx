@@ -2,60 +2,192 @@
 
 import { useLang } from "@/components/LanguageProvider";
 import SimplePageLayout from "@/components/SimplePageLayout";
+import { Heart, Rocket, Globe2, Sparkles } from "lucide-react";
+import type { Language } from "@/lib/language";
 
-type Lang = "de" | "hu" | "ro" | "en";
-
-const CONTENT: Record<Lang, { title: string; subtitle: string; body: string[] }> = {
-  de: {
-    title: "Über uns",
-    subtitle: "Plizio — Lernen durch Spiel",
-    body: [
-      "Plizio ist eine mehrsprachige Lernplattform für Kinder von 6 bis 14 Jahren.",
-      "Wir glauben, dass Lernen Spaß machen soll. Unsere Spiele und Tests decken alle Hauptfächer ab: Mathematik, Deutsch, Englisch, Ungarisch, Rumänisch, Sachkunde, Biologie, Chemie, Physik, Geographie, Geschichte und Informatik.",
-      "Jedes Kind kann in seiner eigenen Sprache lernen — und jederzeit wechseln.",
-      "Entwickelt von einer Familie, für Familien.",
-    ],
-  },
+const CONTENT: Record<Language, {
+  title: string;
+  subtitle: string;
+  sections: { icon: any; title: string; body: string[] }[];
+}> = {
   hu: {
     title: "Rólunk",
-    subtitle: "Plizio — Tanulás játékkal",
-    body: [
-      "A Plizio egy többnyelvű oktatási platform 6–14 éves gyerekek számára.",
-      "Hiszünk abban, hogy a tanulás szórakoztató is lehet. Játékaink és teszteink minden fő tantárgyat lefednek: matematika, német, angol, magyar, román, környezetismeret, biológia, kémia, fizika, földrajz, történelem és informatika.",
-      "Minden gyerek a saját anyanyelvén tanulhat — és bármikor válthat nyelvet.",
-      "Egy család fejleszti, családoknak.",
-    ],
+    subtitle: "A Plizio története és víziója",
+    sections: [
+      {
+        icon: Heart,
+        title: "Egy családi történet",
+        body: [
+          "A Plizio nem egy óriásvállalat terméke, hanem egy személyes, családi projektként indult. Erik Borota és családja álmodta meg, azzal a céllal, hogy a saját gyermekeiknek, és minden gyereknek egy jobb tanulási élményt biztosítsanak.",
+          "Szívből építjük minden nap, mert hiszünk abban, hogy a tanulás lehet olyan izgalmas, mint a legjobb játékok."
+        ]
+      },
+      {
+        icon: Sparkles,
+        title: "Miért építjük?",
+        body: [
+          "Szerettünk volna egy olyan platformot, ami a 6-14 éves korosztály nyelvén beszél. Ahol nem a büntetés, hanem a jutalmazás és a kíváncsiság hajtja előre a gyerekeket.",
+          "A gamifikáció és az űr-téma segít abban, hogy az unalmasnak tűnő feladatok is küldetéssé váljanak."
+        ]
+      },
+      {
+        icon: Globe2,
+        title: "Közös vízió",
+        body: [
+          "Célunk, hogy minden gyerek a saját anyanyelvén (legyen az magyar, német, román vagy angol) férjen hozzá minőségi oktatási tartalmakhoz. Ugyanakkor lehetőséget adunk arra is, hogy könnyedén elsajátítsanak más nyelveket is a platformon keresztül.",
+          "Több mint egy játéktér: egy univerzum, ahol a tudás a legnagyobb kincs."
+        ]
+      },
+      {
+        icon: Rocket,
+        title: "Csatlakozz az utazáshoz",
+        body: [
+          "Folyamatosan bővítjük a Plizio galaxisát új bolygókkal (tantárgyakkal) és kihívásokkal. Veletek együtt fedezzük fel a tudás univerzumát!"
+        ]
+      }
+    ]
+  },
+  de: {
+    title: "Über uns",
+    subtitle: "Die Geschichte und Vision von Plizio",
+    sections: [
+      {
+        icon: Heart,
+        title: "Eine Familiengeschichte",
+        body: [
+          "Plizio ist kein Produkt eines Großkonzerns, sondern begann als persönliches Familienprojekt. Erik Borota und seine Familie haben es ins Leben gerufen, um ihren eigenen und allen anderen Kindern ein besseres Lernerlebnis zu bieten.",
+          "Wir bauen es jeden Tag mit Herzblut auf, weil wir glauben, dass Lernen genauso spannend sein kann wie die besten Spiele."
+        ]
+      },
+      {
+        icon: Sparkles,
+        title: "Warum bauen wir das?",
+        body: [
+          "Wir wollten eine Plattform schaffen, die die Sprache der 6-14-Jährigen spricht. Wo nicht Strafe, sondern Belohnung und Neugier die Kinder antreiben.",
+          "Gamification und das Weltraumthema helfen dabei, scheinbar langweilige Aufgaben in spannende Missionen zu verwandeln."
+        ]
+      },
+      {
+        icon: Globe2,
+        title: "Unsere Vision",
+        body: [
+          "Unser Ziel ist es, dass jedes Kind in seiner Muttersprache (sei es Deutsch, Ungarisch, Rumänisch oder Englisch) Zugang zu hochwertigen Lerninhalten hat. Gleichzeitig bieten wir die Möglichkeit, über die Plattform leicht andere Sprachen zu lernen.",
+          "Mehr als nur ein Spielplatz: Ein Universum, in dem Wissen der größte Schatz ist."
+        ]
+      },
+      {
+        icon: Rocket,
+        title: "Begleite uns auf der Reise",
+        body: [
+          "Wir erweitern die Plizio-Galaxie ständig um neue Planeten (Fächer) und Herausforderungen. Gemeinsam mit euch entdecken wir das Universum des Wissens!"
+        ]
+      }
+    ]
   },
   ro: {
     title: "Despre noi",
-    subtitle: "Plizio — Învățare prin joc",
-    body: [
-      "Plizio este o platformă educațională multilingvă pentru copii de la 6 la 14 ani.",
-      "Credem că învățarea poate fi distractivă. Jocurile și testele noastre acoperă toate materiile principale: matematică, germană, engleză, maghiară, română, cunoașterea mediului, biologie, chimie, fizică, geografie, istorie și informatică.",
-      "Fiecare copil poate învăța în limba sa — și să schimbe oricând.",
-      "Dezvoltat de o familie, pentru familii.",
-    ],
+    subtitle: "Povestea și viziunea Plizio",
+    sections: [
+      {
+        icon: Heart,
+        title: "O poveste de familie",
+        body: [
+          "Plizio nu este produsul unei mari corporații, ci a început ca un proiect personal, de familie. Erik Borota și familia sa l-au imaginat cu scopul de a oferi copiilor lor, și tuturor copiilor, o experiență de învățare mai bună.",
+          "Îl construim cu pasiune în fiecare zi, pentru că noi credem că învățarea poate fi la fel de captivantă ca cele mai bune jocuri."
+        ]
+      },
+      {
+        icon: Sparkles,
+        title: "De ce construim asta?",
+        body: [
+          "Ne-am dorit o platformă care să vorbească pe limba copiilor de 6-14 ani. Unde nu pedeapsa, ci recompensa și curiozitatea îi motivează.",
+          "Gamificarea și tematica spațială ajută la transformarea sarcinilor aparent plictisitoare în misiuni."
+        ]
+      },
+      {
+        icon: Globe2,
+        title: "Viziunea noastră",
+        body: [
+          "Scopul nostru este ca fiecare copil să aibă acces la conținut educațional de calitate în limba maternă (fie ea română, maghiară, germană sau engleză). În același timp, oferim posibilitatea de a învăța cu ușurință și alte limbi prin intermediul platformei.",
+          "Mai mult decât un loc de joacă: un univers în care cunoașterea este cea mai mare comoară."
+        ]
+      },
+      {
+        icon: Rocket,
+        title: "Alătură-te călătoriei",
+        body: [
+          "Extindem constant galaxia Plizio cu noi planete (materii) și provocări. Împreună cu voi explorăm universul cunoașterii!"
+        ]
+      }
+    ]
   },
   en: {
-    title: "About",
-    subtitle: "Plizio — Learning through play",
-    body: [
-      "Plizio is a multilingual learning platform for children ages 6 to 14.",
-      "We believe learning can be fun. Our games and tests cover all core subjects: math, German, English, Hungarian, Romanian, general knowledge, biology, chemistry, physics, geography, history and informatics.",
-      "Every child can learn in their own language — and switch anytime.",
-      "Built by a family, for families.",
-    ],
-  },
+    title: "About Us",
+    subtitle: "The story and vision of Plizio",
+    sections: [
+      {
+        icon: Heart,
+        title: "A Family Story",
+        body: [
+          "Plizio isn't a product of a giant corporation; it started as a personal, family project. Erik Borota and his family envisioned it to provide a better learning experience for their own kids and all children.",
+          "We build it from the heart every day because we believe learning can be just as exciting as the best games."
+        ]
+      },
+      {
+        icon: Sparkles,
+        title: "Why are we building this?",
+        body: [
+          "We wanted a platform that speaks the language of 6-14 year olds. Where kids are driven not by punishment, but by rewards and curiosity.",
+          "Gamification and the space theme help turn seemingly boring tasks into exciting missions."
+        ]
+      },
+      {
+        icon: Globe2,
+        title: "Our Vision",
+        body: [
+          "Our goal is for every child to access high-quality educational content in their native language (whether English, German, Hungarian, or Romanian). At the same time, we provide an easy way to pick up other languages through the platform.",
+          "More than just a playground: it's a universe where knowledge is the greatest treasure."
+        ]
+      },
+      {
+        icon: Rocket,
+        title: "Join the Journey",
+        body: [
+          "We are constantly expanding the Plizio galaxy with new planets (subjects) and challenges. Together with you, we explore the universe of knowledge!"
+        ]
+      }
+    ]
+  }
 };
 
 export default function AboutPage() {
   const { lang } = useLang();
-  const c = CONTENT[(lang as Lang) ?? "de"];
+  const c = CONTENT[lang ?? "hu"];
+
   return (
     <SimplePageLayout title={c.title} subtitle={c.subtitle}>
-      {c.body.map((p, i) => (
-        <p key={i} className="mb-4 text-base">{p}</p>
-      ))}
+      <div className="space-y-10 mt-6">
+        {c.sections.map((section, idx) => {
+          const Icon = section.icon;
+          return (
+            <div key={idx} className="flex gap-4 sm:gap-6">
+              <div className="flex-shrink-0 mt-1">
+                <div className="w-10 h-10 rounded-full bg-indigo-500/20 flex items-center justify-center text-indigo-400">
+                  <Icon size={20} />
+                </div>
+              </div>
+              <div>
+                <h2 className="text-xl font-bold text-white mb-3 mt-0">{section.title}</h2>
+                <div className="space-y-3">
+                  {section.body.map((p, i) => (
+                    <p key={i} className="text-white/80 leading-relaxed m-0">{p}</p>
+                  ))}
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
     </SimplePageLayout>
   );
 }
