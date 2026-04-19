@@ -269,6 +269,7 @@ export default function DynamicExplorer({
     const topics: TopicDef[] = deduped.map(({ p, quiz }) => ({
       infoTitle:   p.infoTitle,
       infoText:    p.infoText,
+      labels:      p.labels,
       svg:         () => <TopicSvgRenderer config={p.svg} lang={lang} />,
       bulletKeys:  p.bulletKeys,
       hintKey:     p.hintKey,

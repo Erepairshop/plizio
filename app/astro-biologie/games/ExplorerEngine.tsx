@@ -128,6 +128,8 @@ export interface ExplorerDef {
 
 /** A single topic in the structured teach→interact→quiz flow */
 export interface TopicDef {
+  /** Optional per-topic labels (pool-topic scope) */
+  labels?: Record<string, Record<string, string>>;
   /** Label key for topic title */
   infoTitle: string;
   /** Label key for teaching text */
@@ -669,7 +671,16 @@ function ExplorerEngine({ def, color = "#3B82F6", onDone, onClose, lang = "en", 
   );
 
   // Label lookup helper
-  const L = (key: string) => t[key] || tFallback[key] || key;
+  const L = (key: string) => {
+    // Per-topic labels (pool-topic scope)
+    const topicLabels = currentTopic?.labels;
+    if (topicLabels && topicLabels[key]) {
+      const tl = topicLabels[key];
+      return tl[langCode as keyof typeof tl] || tl.en || key;
+    }
+    // Fallback: config.labels (UI-wide)
+    return t[key] || tFallback[key] || key;
+  };
 
   // TTS speak helper — delegates to central strict-voice implementation
   // (skips silently if no native voice for langCode — no wrong-accent fallback)
