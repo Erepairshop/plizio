@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Ein freundliches Bild",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein freundliches Bild?",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein freundliches Bild?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Nein.",
+        "Müde.",
+        "Langweilig.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Ein freundliches Bild?",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Nein.",
+        "Müde.",
+        "Ja!",
+        "Langweilig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
+      "options": [
+        "Müde.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein freundliches Bild?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Nein.",
+        "Müde.",
+        "Langweilig.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein freundliches Bild?",
+      "options": [
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Langweilig.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Ein freundliches Bild?",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Der Vogel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein freundliches Bild?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein freundliches Bild?",
+      "options": [
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Müde.",
+        "Nein.",
+        "Ja!",
+        "Langweilig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein freundliches Bild?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein freundliches Bild?",
+      "options": [
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
+      "options": [
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein freundliches Bild?",
+      "options": [
+        "Müde.",
+        "Traurig.",
+        "Kalt.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein freundliches Bild?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein freundliches Bild?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein freundliches Bild?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein freundliches Bild?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    }
+  ]
+}

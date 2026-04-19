@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Ceruza vs. Számítógép",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Ceruza vs. Számítógép?",
+      "options": [
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem.",
+        "Nem tudom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Ceruza vs. Számítógép?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Ceruza vs. Számítógép?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
+      "options": [
+        "A számítógépen.",
+        "Az ágyban.",
+        "A fán.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
+      "options": [
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban.",
+        "A fán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Ceruza vs. Számítógép?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Ceruza vs. Számítógép?",
+      "options": [
+        "Nem.",
+        "Fáradt.",
+        "Igen!",
+        "Unalmas."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Ceruza vs. Számítógép?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Ceruza vs. Számítógép?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Ceruza vs. Számítógép?",
+      "options": [
+        "Nem.",
+        "Igen!",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Ceruza vs. Számítógép?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Ceruza vs. Számítógép?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Idegenekkel beszélgetni az interneten? Nem!",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan.",
+        "Fázom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Fáradt.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Idegenekkel beszélgetni az interneten? Nem!?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    }
+  ]
+}

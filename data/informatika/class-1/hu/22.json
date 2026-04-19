@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Be/Ki",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Be/Ki?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Be/Ki?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Szomorúan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Be/Ki?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Be/Ki?",
+      "options": [
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben.",
+        "A fán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Nem.",
+        "Fáradt.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Be/Ki?",
+      "options": [
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Unalmas.",
+        "Fáradt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Be/Ki?",
+      "options": [
+        "Az ágyban.",
+        "A kertben.",
+        "A fán.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Be/Ki?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Be/Ki?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Fáradt.",
+        "Unalmas.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Be/Ki?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Be/Ki?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Be/Ki?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Be/Ki?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Be/Ki?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Fáradt.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Be/Ki?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Be/Ki?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Be/Ki?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Be/Ki?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Be/Ki?",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Be/Ki?",
+      "options": [
+        "Unalmas.",
+        "Igen!",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    }
+  ]
+}

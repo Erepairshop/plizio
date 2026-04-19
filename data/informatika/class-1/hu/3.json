@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Az egér (balklikk)",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Az egér (balklikk)?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Az egér (balklikk)?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Az egér (balklikk)?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Az egér (balklikk)?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "options": [
+        "Nem.",
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Az egér (balklikk)?",
+      "options": [
+        "Szomorúan.",
+        "Fázom.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Az egér (balklikk)?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Az egér (balklikk)?",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Az egér (balklikk)?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "options": [
+        "Anya vagy apa.",
+        "A kutya.",
+        "A madár.",
+        "A macska."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
+      "options": [
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban.",
+        "A fán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Az egér (balklikk)?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "options": [
+        "A kutya.",
+        "A macska.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Az egér (balklikk)?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Az egér (balklikk)?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
+      "options": [
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Az egér (balklikk)?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Az egér (balklikk)?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    }
+  ]
+}

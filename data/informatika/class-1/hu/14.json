@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Helyes ülés",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Helyes ülés?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Helyes ülés?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Helyes ülés?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Helyes ülés?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Helyes ülés?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Helyes ülés?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Helyes ülés?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fáradtan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Helyes ülés?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Helyes ülés?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Helyes ülés?",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Helyes ülés?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Helyes ülés?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Helyes ülés?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Helyes ülés?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Helyes ülés?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Fáradt.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Helyes ülés?",
+      "options": [
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Helyes ülés?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Helyes ülés?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Helyes ülés?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    }
+  ]
+}

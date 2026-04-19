@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Kedvenc figura",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kedvenc figura?",
+      "options": [
+        "Unalmas.",
+        "Igen!",
+        "Nem.",
+        "Fáradt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kedvenc figura?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan.",
+        "Fázom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "options": [
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kedvenc figura?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kedvenc figura?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kedvenc figura?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kedvenc figura?",
+      "options": [
+        "Igen!",
+        "Unalmas.",
+        "Nem.",
+        "Fáradt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "options": [
+        "A kutya.",
+        "A macska.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kedvenc figura?",
+      "options": [
+        "Szomorúan.",
+        "Fáradtan.",
+        "Fázom.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "options": [
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kedvenc figura?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kedvenc figura?",
+      "options": [
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kedvenc figura?",
+      "options": [
+        "A kutya.",
+        "A macska.",
+        "A madár.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kedvenc figura?",
+      "options": [
+        "Nem.",
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kedvenc figura?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    }
+  ]
+}

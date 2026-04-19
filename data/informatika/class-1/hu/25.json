@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Kreatív játék",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kreatív játék?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kreatív játék?",
+      "options": [
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kreatív játék?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kreatív játék?",
+      "options": [
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kreatív játék?",
+      "options": [
+        "Nem.",
+        "Unalmas.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kreatív játék?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "options": [
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kreatív játék?",
+      "options": [
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kreatív játék?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kreatív játék?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Igen!",
+        "Unalmas."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kreatív játék?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan.",
+        "Fáradtan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kreatív játék?",
+      "options": [
+        "A macska.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kreatív játék?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kreatív játék?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kreatív játék?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kreatív játék?",
+      "options": [
+        "Anya vagy apa.",
+        "A kutya.",
+        "A madár.",
+        "A macska."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kreatív játék?",
+      "options": [
+        "A macska.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kreatív játék?",
+      "options": [
+        "Nem.",
+        "Fáradt.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kreatív játék?",
+      "options": [
+        "A kertben.",
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kreatív játék?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kreatív játék?",
+      "options": [
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    }
+  ]
+}

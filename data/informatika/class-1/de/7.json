@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Das Spiel beenden",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Das Spiel beenden?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Langweilig.",
+        "Ja!",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Das Spiel beenden?",
+      "options": [
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Müde.",
+        "Ja!",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Das Spiel beenden?",
+      "options": [
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Das Spiel beenden?",
+      "options": [
+        "Vielleicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Das Spiel beenden?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Das Spiel beenden?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Das Spiel beenden?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Das Spiel beenden?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Das Spiel beenden?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Das Spiel beenden?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Das Spiel beenden?",
+      "options": [
+        "Langweilig.",
+        "Ja!",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Das Spiel beenden?",
+      "options": [
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Das Spiel beenden?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    }
+  ]
+}

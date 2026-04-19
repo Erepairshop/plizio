@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Einfaches Malen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einfaches Malen?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einfaches Malen?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einfaches Malen?",
+      "options": [
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Müde.",
+        "Ja!",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Nein.",
+        "Langweilig.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Langweilig.",
+        "Nein.",
+        "Müde.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einfaches Malen?",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einfaches Malen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Einfaches Malen?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einfaches Malen?",
+      "options": [
+        "Die Katze.",
+        "Der Vogel.",
+        "Der Hund.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Einfaches Malen?",
+      "options": [
+        "Nein.",
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einfaches Malen?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einfaches Malen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Einfaches Malen?",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einfaches Malen?",
+      "options": [
+        "Der Hund.",
+        "Die Katze.",
+        "Der Vogel.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Müde.",
+        "Nein.",
+        "Langweilig.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einfaches Malen?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Einfaches Malen?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einfaches Malen?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Langweilig.",
+        "Nein.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einfaches Malen?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einfaches Malen?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einfaches Malen?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einfaches Malen?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    }
+  ]
+}

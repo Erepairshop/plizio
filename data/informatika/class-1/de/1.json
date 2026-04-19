@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Was ist ein Computer?",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "options": [
+        "Traurig.",
+        "Gut und sicher.",
+        "Müde.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Was ist ein Computer??",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Was ist ein Computer??",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Was ist ein Computer??",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Vielleicht.",
+        "Weiß nicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Was ist ein Computer??",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Was ist ein Computer??",
+      "options": [
+        "Langweilig.",
+        "Ja!",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "options": [
+        "Gut und sicher.",
+        "Müde.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Was ist ein Computer??",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Der Vogel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Was ist ein Computer??",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Nein.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Was ist ein Computer??",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Was ist ein Computer??",
+      "options": [
+        "Kalt.",
+        "Müde.",
+        "Traurig.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Was ist ein Computer??",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Was ist ein Computer??",
+      "options": [
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Was ist ein Computer??",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Was ist ein Computer??",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Was ist ein Computer??",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Was ist ein Computer??",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Was ist ein Computer??",
+      "options": [
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Die Tastatur",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Die Tastatur?",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Tastatur?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Tastatur?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Tastatur?",
+      "options": [
+        "Die Katze.",
+        "Der Vogel.",
+        "Der Hund.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Tastatur?",
+      "options": [
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Tastatur?",
+      "options": [
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Tastatur?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Tastatur?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Tastatur?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Tastatur?",
+      "options": [
+        "Der Hund.",
+        "Die Katze.",
+        "Der Vogel.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Die Tastatur?",
+      "options": [
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Tastatur?",
+      "options": [
+        "Nein.",
+        "Müde.",
+        "Ja!",
+        "Langweilig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Tastatur?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Tastatur?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Nein.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Die Tastatur?",
+      "options": [
+        "Traurig.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Tastatur?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Tastatur?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Tastatur?",
+      "options": [
+        "Langweilig.",
+        "Nein.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Die Tastatur?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Nein.",
+        "Weiß nicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    }
+  ]
+}

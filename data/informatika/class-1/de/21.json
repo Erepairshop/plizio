@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Stift vs. Computer",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "options": [
+        "Müde.",
+        "Traurig.",
+        "Gut und sicher.",
+        "Kalt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Stift vs. Computer?",
+      "options": [
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Stift vs. Computer?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Stift vs. Computer?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Stift vs. Computer?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Nein.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Stift vs. Computer?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Stift vs. Computer?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "options": [
+        "Traurig.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Stift vs. Computer?",
+      "options": [
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "options": [
+        "Müde.",
+        "Traurig.",
+        "Gut und sicher.",
+        "Kalt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Stift vs. Computer?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Stift vs. Computer?",
+      "options": [
+        "Müde.",
+        "Ja!",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Stift vs. Computer?",
+      "options": [
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Stift vs. Computer?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Stift vs. Computer?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    }
+  ]
+}

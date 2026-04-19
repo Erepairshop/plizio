@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Computer sauber halten",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Computer sauber halten?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Computer sauber halten?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Computer sauber halten?",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "options": [
+        "Müde.",
+        "Kalt.",
+        "Traurig.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Computer sauber halten?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Computer sauber halten?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Computer sauber halten?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Computer sauber halten?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Computer sauber halten?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Nein.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Computer sauber halten?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Computer sauber halten?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Computer sauber halten?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Computer sauber halten?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Computer sauber halten?",
+      "options": [
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    }
+  ]
+}

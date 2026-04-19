@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Farben",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Farben?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Farben?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Farben?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Farben?",
+      "options": [
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Farben?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Farben?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Farben?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Farben?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Farben?",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Farben?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Farben?",
+      "options": [
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Vielleicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Farben?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Farben?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Die Katze."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Farben?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Farben?",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Farben?",
+      "options": [
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Farben?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Farben?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Farben?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    }
+  ]
+}

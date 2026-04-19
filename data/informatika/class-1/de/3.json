@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Die Maus (Linksklick)",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Maus (Linksklick)?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "options": [
+        "Nein.",
+        "Langweilig.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Maus (Linksklick)?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "options": [
+        "Der Vogel.",
+        "Der Hund.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Maus (Linksklick)?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Die Maus (Linksklick)?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Müde.",
+        "Kalt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Die Maus (Linksklick)?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
+      "options": [
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Die Maus (Linksklick)?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Die Maus (Linksklick)?",
+      "options": [
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Nein.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "options": [
+        "Der Vogel.",
+        "Der Hund.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "options": [
+        "Müde.",
+        "Ja!",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "options": [
+        "Müde.",
+        "Nein.",
+        "Ja!",
+        "Langweilig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Die Maus (Linksklick)?",
+      "options": [
+        "Nein.",
+        "Langweilig.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "options": [
+        "Der Vogel.",
+        "Der Hund.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Die Maus (Linksklick)?",
+      "options": [
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Vogel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Die Maus (Linksklick)?",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    }
+  ]
+}

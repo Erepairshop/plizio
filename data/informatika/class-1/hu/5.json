@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Bekapcsolás / Kikapcsolás",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban.",
+        "A fán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Nem tudom.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A kutya.",
+        "A macska.",
+        "A madár.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Nem.",
+        "Unalmas.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Anya vagy apa.",
+        "A kutya.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A macska.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A macska.",
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fáradtan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Unalmas.",
+        "Fáradt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Nem.",
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Bekapcsolás / Kikapcsolás?",
+      "options": [
+        "A számítógépen.",
+        "Az ágyban.",
+        "A fán.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    }
+  ]
+}

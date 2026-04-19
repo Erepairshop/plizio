@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Mi a számítógép?",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Mi a számítógép??",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Mi a számítógép??",
+      "options": [
+        "A számítógépen.",
+        "A kertben.",
+        "A fán.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "options": [
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Mi a számítógép??",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Mi a számítógép??",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "options": [
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem.",
+        "Nem tudom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "options": [
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Mi a számítógép??",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Mi a számítógép??",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fáradtan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "options": [
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Mi a számítógép??",
+      "options": [
+        "Igen!",
+        "Unalmas.",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Mi a számítógép??",
+      "options": [
+        "Szomorúan.",
+        "Fázom.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Mi a számítógép??",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    }
+  ]
+}

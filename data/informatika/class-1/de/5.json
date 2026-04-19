@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Einschalten / Ausschalten",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "options": [
+        "Der Vogel.",
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Die Katze."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "options": [
+        "Der Vogel.",
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Die Katze."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Traurig.",
+        "Müde.",
+        "Kalt.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einschalten / Ausschalten?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einschalten / Ausschalten?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Traurig.",
+        "Gut und sicher.",
+        "Müde.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Einschalten / Ausschalten?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Einschalten / Ausschalten?",
+      "options": [
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Müde.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einschalten / Ausschalten?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "options": [
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Einschalten / Ausschalten?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einschalten / Ausschalten?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einschalten / Ausschalten?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Einschalten / Ausschalten?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einschalten / Ausschalten?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Langweilig.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Einschalten / Ausschalten?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Einschalten / Ausschalten?",
+      "options": [
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einschalten / Ausschalten?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Einschalten / Ausschalten?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    }
+  ]
+}

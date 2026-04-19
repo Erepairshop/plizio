@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Hangerő",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Hangerő?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Hangerő?",
+      "options": [
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fázom.",
+        "Fáradtan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Hangerő?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Hangerő?",
+      "options": [
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "A macska.",
+        "Anya vagy apa.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Hangerő?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Hangerő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Hangerő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "A macska.",
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Hangerő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Hangerő?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Hangerő?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fáradtan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Hangerő?",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Hangerő?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Hangerő?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Hangerő?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Hangerő?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Unalmas.",
+        "Fáradt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Hangerő?",
+      "options": [
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Hangerő?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Hangerő?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Hangerő?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    }
+  ]
+}

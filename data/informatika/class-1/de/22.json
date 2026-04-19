@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Ein/Aus",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "options": [
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Vielleicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein/Aus?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Nein.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Ein/Aus?",
+      "options": [
+        "Die Katze.",
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Ein/Aus?",
+      "options": [
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Der Vogel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein/Aus?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein/Aus?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein/Aus?",
+      "options": [
+        "Traurig.",
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein/Aus?",
+      "options": [
+        "Traurig.",
+        "Gut und sicher.",
+        "Müde.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein/Aus?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein/Aus?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein/Aus?",
+      "options": [
+        "Ja!",
+        "Nein.",
+        "Langweilig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Ein/Aus?",
+      "options": [
+        "Müde.",
+        "Kalt.",
+        "Traurig.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein/Aus?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Ein Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein/Aus?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Ein/Aus?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein/Aus?",
+      "options": [
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "options": [
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein/Aus?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Im Garten.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Ein/Aus?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Ein/Aus?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Ein/Aus?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Ein/Aus?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Ein/Aus?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    }
+  ]
+}

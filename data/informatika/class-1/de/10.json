@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Video anschauen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Video anschauen?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Video anschauen?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Video anschauen?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "options": [
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Video anschauen?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Video anschauen?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Video anschauen?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Video anschauen?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Video anschauen?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Video anschauen?",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Video anschauen?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Video anschauen?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Video anschauen?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Video anschauen?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Video anschauen?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Video anschauen?",
+      "options": [
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "options": [
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Video anschauen?",
+      "options": [
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Video anschauen?",
+      "options": [
+        "Müde.",
+        "Nein.",
+        "Langweilig.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Video anschauen?",
+      "options": [
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Video anschauen?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Video anschauen?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Der Hund.",
+        "Die Katze."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    }
+  ]
+}

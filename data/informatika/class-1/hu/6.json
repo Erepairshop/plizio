@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Egy játék indítása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "options": [
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egy játék indítása?",
+      "options": [
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egy játék indítása?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Egy játék indítása?",
+      "options": [
+        "Szomorúan.",
+        "Fáradtan.",
+        "Fázom.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egy játék indítása?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egy játék indítása?",
+      "options": [
+        "Nem.",
+        "Igen!",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egy játék indítása?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egy játék indítása?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egy játék indítása?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egy játék indítása?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egy játék indítása?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egy játék indítása?",
+      "options": [
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egy játék indítása?",
+      "options": [
+        "Nem.",
+        "Fáradt.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egy játék indítása?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Egy játék indítása?",
+      "options": [
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    }
+  ]
+}

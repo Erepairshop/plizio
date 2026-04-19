@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Der Bildschirm",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Der Bildschirm?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Der Bildschirm?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Die Katze."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Der Bildschirm?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Der Bildschirm?",
+      "options": [
+        "Die Katze.",
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Der Bildschirm?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Die Katze.",
+        "Der Vogel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Der Bildschirm?",
+      "options": [
+        "Nein.",
+        "Langweilig.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Der Bildschirm?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Der Bildschirm?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Der Bildschirm?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Ja, genau.",
+        "Nein, ein Auto."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Der Bildschirm?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Der Bildschirm?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "options": [
+        "Traurig.",
+        "Gut und sicher.",
+        "Müde.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Der Bildschirm?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Der Bildschirm?",
+      "options": [
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Der Bildschirm?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Der Bildschirm?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Der Bildschirm?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "options": [
+        "Traurig.",
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Der Bildschirm?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Der Bildschirm?",
+      "options": [
+        "Müde.",
+        "Ja!",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Der Bildschirm?",
+      "options": [
+        "Vielleicht.",
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Der Bildschirm?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Der Bildschirm?",
+      "options": [
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    }
+  ]
+}

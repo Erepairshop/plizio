@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Zene hallgatása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Zene hallgatása?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Unalmas.",
+        "Igen!",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Zene hallgatása?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Unalmas.",
+        "Igen!",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Igen!",
+        "Unalmas.",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Zene hallgatása?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Fáradt.",
+        "Unalmas.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Zene hallgatása?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Zene hallgatása?",
+      "options": [
+        "A madár.",
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Zene hallgatása?",
+      "options": [
+        "A macska.",
+        "Anya vagy apa.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "options": [
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Fáradt.",
+        "Unalmas.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Szomorúan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Zene hallgatása?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Zene hallgatása?",
+      "options": [
+        "A számítógépen.",
+        "A kertben.",
+        "A fán.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Zene hallgatása?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Zene hallgatása?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Zene hallgatása?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Zene hallgatása?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Igen!",
+        "Unalmas."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    }
+  ]
+}

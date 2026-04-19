@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "A billentyűzet",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A billentyűzet?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Unalmas.",
+        "Igen!",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A billentyűzet?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Talán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A billentyűzet?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "options": [
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A billentyűzet?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A billentyűzet?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Nem.",
+        "Fáradt.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Szomorúan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A billentyűzet?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A billentyűzet?",
+      "options": [
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A billentyűzet?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A billentyűzet?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Igen!",
+        "Unalmas.",
+        "Nem.",
+        "Fáradt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A billentyűzet?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A billentyűzet?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "options": [
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A billentyűzet?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A billentyűzet?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A billentyűzet?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    }
+  ]
+}

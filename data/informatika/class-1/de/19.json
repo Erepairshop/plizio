@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Eltern fragen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Eltern fragen?",
+      "options": [
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Ja!",
+        "Nein.",
+        "Langweilig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Eltern fragen?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Eltern fragen?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Nein.",
+        "Müde.",
+        "Ja!",
+        "Langweilig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Eltern fragen?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Eltern fragen?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Eltern fragen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Eltern fragen?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Eltern fragen?",
+      "options": [
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Eltern fragen?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Eltern fragen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Eltern fragen?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Eltern fragen?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Eltern fragen?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Eltern fragen?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Eltern fragen?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Im Garten.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    }
+  ]
+}

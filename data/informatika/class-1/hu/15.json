@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Max 30 perc képernyőidő",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "options": [
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "options": [
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
+      "options": [
+        "Nem.",
+        "Igen!",
+        "Unalmas.",
+        "Fáradt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Max 30 perc képernyőidő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Max 30 perc képernyőidő?",
+      "options": [
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "options": [
+        "A macska.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Max 30 perc képernyőidő?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Max 30 perc képernyőidő?",
+      "options": [
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
+      "options": [
+        "Igen!",
+        "Unalmas.",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Max 30 perc képernyőidő?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Max 30 perc képernyőidő?",
+      "options": [
+        "A kutya.",
+        "A macska.",
+        "A madár.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Max 30 perc képernyőidő?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    }
+  ]
+}

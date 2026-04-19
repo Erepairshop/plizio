@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "A számítógép tisztán tartása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A számítógép tisztán tartása?",
+      "options": [
+        "Unalmas.",
+        "Igen!",
+        "Nem.",
+        "Fáradt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
+      "options": [
+        "A kertben.",
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A számítógép tisztán tartása?",
+      "options": [
+        "Nem.",
+        "Fáradt.",
+        "Unalmas.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "options": [
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A számítógép tisztán tartása?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A számítógép tisztán tartása?",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A számítógép tisztán tartása?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A számítógép tisztán tartása?",
+      "options": [
+        "Nem.",
+        "Unalmas.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan.",
+        "Fázom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
+      "options": [
+        "Anya vagy apa.",
+        "A madár.",
+        "A macska.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "options": [
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fázom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "options": [
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A számítógép tisztán tartása?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A számítógép tisztán tartása?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A számítógép tisztán tartása?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A számítógép tisztán tartása?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    }
+  ]
+}

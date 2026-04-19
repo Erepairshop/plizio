@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "A jelszó titkos",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A jelszó titkos?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A jelszó titkos?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "A macska.",
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A jelszó titkos?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A jelszó titkos?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A jelszó titkos?",
+      "options": [
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A jelszó titkos?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A jelszó titkos?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "A madár.",
+        "A macska.",
+        "A kutya.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A jelszó titkos?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A jelszó titkos?",
+      "options": [
+        "A számítógépen.",
+        "A fán.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A jelszó titkos?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A jelszó titkos?",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A jelszó titkos?",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A jelszó titkos?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fázom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "A macska.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A jelszó titkos?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A jelszó titkos?",
+      "options": [
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A jelszó titkos?",
+      "options": [
+        "Anya vagy apa.",
+        "A kutya.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A jelszó titkos?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    }
+  ]
+}

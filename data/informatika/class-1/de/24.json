@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Lieblingsfigur",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lieblingsfigur?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lieblingsfigur?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lieblingsfigur?",
+      "options": [
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lieblingsfigur?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Müde.",
+        "Kalt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lieblingsfigur?",
+      "options": [
+        "Langweilig.",
+        "Ja!",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lieblingsfigur?",
+      "options": [
+        "Ja!",
+        "Nein.",
+        "Langweilig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Lieblingsfigur?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lieblingsfigur?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lieblingsfigur?",
+      "options": [
+        "Müde.",
+        "Langweilig.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lieblingsfigur?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Lieblingsfigur?",
+      "options": [
+        "Vielleicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lieblingsfigur?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lieblingsfigur?",
+      "options": [
+        "Nein.",
+        "Langweilig.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Müde.",
+        "Traurig.",
+        "Gut und sicher.",
+        "Kalt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Lieblingsfigur?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lieblingsfigur?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lieblingsfigur?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lieblingsfigur?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Lieblingsfigur?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lieblingsfigur?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Im Garten.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    }
+  ]
+}

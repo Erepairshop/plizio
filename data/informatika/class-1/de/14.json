@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Richtig sitzen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Richtig sitzen?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "options": [
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Nein.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "options": [
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Richtig sitzen?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Richtig sitzen?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Im Garten.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Richtig sitzen?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Richtig sitzen?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Traurig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Richtig sitzen?",
+      "options": [
+        "Müde.",
+        "Nein.",
+        "Ja!",
+        "Langweilig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "options": [
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Richtig sitzen?",
+      "options": [
+        "Mama oder Papa.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Richtig sitzen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Richtig sitzen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Richtig sitzen?",
+      "options": [
+        "Müde.",
+        "Kalt.",
+        "Traurig.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Am Computer.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Im Bett.",
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Richtig sitzen?",
+      "options": [
+        "Langweilig.",
+        "Nein.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Richtig sitzen?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Richtig sitzen?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Richtig sitzen?",
+      "options": [
+        "Kalt.",
+        "Müde.",
+        "Traurig.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    }
+  ]
+}

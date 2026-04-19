@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Lautstärke",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lautstärke?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Lautstärke?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Lautstärke?",
+      "options": [
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Vielleicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lautstärke?",
+      "options": [
+        "Gut und sicher.",
+        "Kalt.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lautstärke?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lautstärke?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Lautstärke?",
+      "options": [
+        "Der Vogel.",
+        "Der Hund.",
+        "Mama oder Papa.",
+        "Die Katze."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lautstärke?",
+      "options": [
+        "Müde.",
+        "Traurig.",
+        "Kalt.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lautstärke?",
+      "options": [
+        "Nein.",
+        "Ja!",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Lautstärke?",
+      "options": [
+        "Müde.",
+        "Kalt.",
+        "Gut und sicher.",
+        "Traurig."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Lautstärke?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lautstärke?",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett.",
+        "Im Garten."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lautstärke?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Lautstärke?",
+      "options": [
+        "Vielleicht.",
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Lautstärke?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Müde.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lautstärke?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lautstärke?",
+      "options": [
+        "Im Garten.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Lautstärke?",
+      "options": [
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Lautstärke?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Maus"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    }
+  ]
+}

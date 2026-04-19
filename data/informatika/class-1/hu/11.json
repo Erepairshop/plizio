@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Kép megnyitása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kép megnyitása?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kép megnyitása?",
+      "options": [
+        "Szomorúan.",
+        "Fáradtan.",
+        "Fázom.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kép megnyitása?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kép megnyitása?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kép megnyitása?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kép megnyitása?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kép megnyitása?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Nem.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kép megnyitása?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kép megnyitása?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kép megnyitása?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fáradtan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kép megnyitása?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kép megnyitása?",
+      "options": [
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kép megnyitása?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kép megnyitása?",
+      "options": [
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kép megnyitása?",
+      "options": [
+        "A macska.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kép megnyitása?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kép megnyitása?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Kép megnyitása?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Kép megnyitása?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kép megnyitása?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Kép megnyitása?",
+      "options": [
+        "Nem.",
+        "Igen, nagyon fontos.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Kép megnyitása?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kép megnyitása?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Kép megnyitása?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Kép megnyitása?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    }
+  ]
+}

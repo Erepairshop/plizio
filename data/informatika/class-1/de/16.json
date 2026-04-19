@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Augenschutz",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Augenschutz?",
+      "options": [
+        "Ja, genau.",
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ein Apfel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Im Garten."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Augenschutz?",
+      "options": [
+        "Müde.",
+        "Ja!",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Augenschutz?",
+      "options": [
+        "Nein.",
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Augenschutz?",
+      "options": [
+        "Kalt.",
+        "Gut und sicher.",
+        "Müde.",
+        "Traurig."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Augenschutz?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Augenschutz?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Augenschutz?",
+      "options": [
+        "Nein.",
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Augenschutz?",
+      "options": [
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Augenschutz?",
+      "options": [
+        "Weiß nicht.",
+        "Ja, sehr wichtig.",
+        "Vielleicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Augenschutz?",
+      "options": [
+        "Vielleicht.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Nein."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Augenschutz?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Vogel.",
+        "Der Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Im Garten.",
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Augenschutz?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Augenschutz?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Augenschutz?",
+      "options": [
+        "Die Katze.",
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Augenschutz?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Im Bett.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Augenschutz?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ja, genau.",
+        "Ein Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Augenschutz?",
+      "options": [
+        "Auf dem Baum.",
+        "Im Bett.",
+        "Am Computer.",
+        "Im Garten."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Klick"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    }
+  ]
+}

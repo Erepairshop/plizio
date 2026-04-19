@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Egyszerű rajzolás",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "options": [
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fázom.",
+        "Fáradtan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egyszerű rajzolás?",
+      "options": [
+        "Nem.",
+        "Igen!",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "options": [
+        "Anya vagy apa.",
+        "A madár.",
+        "A kutya.",
+        "A macska."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Talán.",
+        "Nem tudom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egyszerű rajzolás?",
+      "options": [
+        "Fáradt.",
+        "Unalmas.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Egyszerű rajzolás?",
+      "options": [
+        "Igen!",
+        "Fáradt.",
+        "Unalmas.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egyszerű rajzolás?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egyszerű rajzolás?",
+      "options": [
+        "Az ágyban.",
+        "A számítógépen.",
+        "A fán.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: Egyszerű rajzolás?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "options": [
+        "Fázom.",
+        "Fáradtan.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Egyszerű rajzolás?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fáradtan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "options": [
+        "Nem.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem tudom."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Egyszerű rajzolás?",
+      "options": [
+        "Nem.",
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Talán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Egyszerű rajzolás?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Egyszerű rajzolás?",
+      "options": [
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa.",
+        "A kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Katt"
+    }
+  ]
+}

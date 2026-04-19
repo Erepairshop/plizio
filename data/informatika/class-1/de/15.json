@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Max 30 Minuten Bildschirmzeit",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten.",
+        "Im Bett."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Müde.",
+        "Nein.",
+        "Langweilig.",
+        "Ja!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Im Bett.",
+        "Am Computer.",
+        "Auf dem Baum.",
+        "Im Garten."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Die Katze.",
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Der Hund."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja!",
+        "Nein.",
+        "Langweilig.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Gut und sicher.",
+        "Müde.",
+        "Kalt.",
+        "Traurig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Langweilig.",
+        "Ja!",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Langweilig.",
+        "Nein.",
+        "Ja!",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Nein.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ein Hund."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja!",
+        "Nein.",
+        "Müde.",
+        "Langweilig."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ja!",
+        "Langweilig.",
+        "Nein.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Nein.",
+        "Ja, sehr wichtig.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Traurig.",
+        "Müde.",
+        "Gut und sicher.",
+        "Kalt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Max 30 Minuten Bildschirmzeit?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Farbe"
+    },
+    {
+      "type": "typing",
+      "text": "Sicher"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Ja"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    }
+  ]
+}

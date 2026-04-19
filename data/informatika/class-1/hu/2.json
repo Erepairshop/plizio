@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "A képernyő",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A képernyő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Nem tudom.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A képernyő?",
+      "options": [
+        "Az ágyban.",
+        "A kertben.",
+        "A számítógépen.",
+        "A fán."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A képernyő?",
+      "options": [
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan.",
+        "Fáradtan."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A képernyő?",
+      "options": [
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A képernyő?",
+      "options": [
+        "Az ágyban.",
+        "A fán.",
+        "A kertben.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A képernyő?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A képernyő?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A képernyő?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A képernyő?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Egy kutya.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A képernyő?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A képernyő?",
+      "options": [
+        "Szomorúan.",
+        "Fázom.",
+        "Fáradtan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A képernyő?",
+      "options": [
+        "Fáradt.",
+        "Nem.",
+        "Igen!",
+        "Unalmas."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A képernyő?",
+      "options": [
+        "A kertben.",
+        "Az ágyban.",
+        "A fán.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A képernyő?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A képernyő?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A képernyő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Nem tudom.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A képernyő?",
+      "options": [
+        "A madár.",
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A képernyő?",
+      "options": [
+        "Igen, nagyon fontos.",
+        "Nem tudom.",
+        "Nem.",
+        "Talán."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A képernyő?",
+      "options": [
+        "Nem.",
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A képernyő?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár.",
+        "A kutya."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A képernyő?",
+      "options": [
+        "Fázom.",
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Szomorúan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A képernyő?",
+      "options": [
+        "A számítógépen.",
+        "A kertben.",
+        "A fán.",
+        "Az ágyban."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A képernyő?",
+      "options": [
+        "A fán.",
+        "Az ágyban.",
+        "A számítógépen.",
+        "A kertben."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A képernyő?",
+      "options": [
+        "Fáradt.",
+        "Unalmas.",
+        "Nem.",
+        "Igen!"
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A képernyő?",
+      "options": [
+        "Egy alma.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Kép"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Monitor"
+    },
+    {
+      "type": "typing",
+      "text": "Jó"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Ceruza"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    }
+  ]
+}

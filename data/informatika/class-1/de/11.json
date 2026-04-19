@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Bild öffnen",
+  "language": "de",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Bild öffnen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Ein Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Bild öffnen?",
+      "options": [
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Bild öffnen?",
+      "options": [
+        "Im Bett.",
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Bild öffnen?",
+      "options": [
+        "Traurig.",
+        "Kalt.",
+        "Müde.",
+        "Gut und sicher."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Bild öffnen?",
+      "options": [
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt.",
+        "Müde."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Bild öffnen?",
+      "options": [
+        "Ja!",
+        "Müde.",
+        "Langweilig.",
+        "Nein."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Bild öffnen?",
+      "options": [
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Bild öffnen?",
+      "options": [
+        "Nein, ein Auto.",
+        "Ein Hund.",
+        "Ja, genau.",
+        "Ein Apfel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Bild öffnen?",
+      "options": [
+        "Vielleicht.",
+        "Weiß nicht.",
+        "Nein.",
+        "Ja, sehr wichtig."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund.",
+        "Der Vogel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Der Hund.",
+        "Die Katze.",
+        "Mama oder Papa.",
+        "Der Vogel."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Bild öffnen?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Ein Apfel.",
+        "Nein, ein Auto."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Macht das Spaß: Bild öffnen?",
+      "options": [
+        "Langweilig.",
+        "Müde.",
+        "Ja!",
+        "Nein."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Die Katze.",
+        "Der Hund."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Mama oder Papa.",
+        "Die Katze."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Der Vogel.",
+        "Die Katze.",
+        "Der Hund.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Bild öffnen?",
+      "options": [
+        "Müde.",
+        "Gut und sicher.",
+        "Traurig.",
+        "Kalt."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Bild öffnen?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wo machen wir das: Bild öffnen?",
+      "options": [
+        "Im Garten.",
+        "Auf dem Baum.",
+        "Am Computer.",
+        "Im Bett."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Bild öffnen?",
+      "options": [
+        "Ja, genau.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ein Apfel."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ist das wichtig für uns: Bild öffnen?",
+      "options": [
+        "Ja, sehr wichtig.",
+        "Nein.",
+        "Weiß nicht.",
+        "Vielleicht."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Wie fühlst du dich bei: Bild öffnen?",
+      "options": [
+        "Kalt.",
+        "Traurig.",
+        "Gut und sicher.",
+        "Müde."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Wer hilft dir bei: Bild öffnen?",
+      "options": [
+        "Der Hund.",
+        "Der Vogel.",
+        "Die Katze.",
+        "Mama oder Papa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Gehört das zum Thema: Bild öffnen?",
+      "options": [
+        "Ein Apfel.",
+        "Ein Hund.",
+        "Nein, ein Auto.",
+        "Ja, genau."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Spielen"
+    },
+    {
+      "type": "typing",
+      "text": "Hilfe"
+    },
+    {
+      "type": "typing",
+      "text": "Nein"
+    },
+    {
+      "type": "typing",
+      "text": "Gut"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Computer"
+    },
+    {
+      "type": "typing",
+      "text": "Tastatur"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    },
+    {
+      "type": "typing",
+      "text": "Bild"
+    }
+  ]
+}

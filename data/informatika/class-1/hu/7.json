@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "A játék bezárása",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A játék bezárása?",
+      "options": [
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya.",
+        "A madár."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A játék bezárása?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A játék bezárása?",
+      "options": [
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fáradtan.",
+        "Fázom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A játék bezárása?",
+      "options": [
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa.",
+        "A kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A játék bezárása?",
+      "options": [
+        "Nem.",
+        "Unalmas.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A játék bezárása?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A játék bezárása?",
+      "options": [
+        "Igen!",
+        "Unalmas.",
+        "Fáradt.",
+        "Nem."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A játék bezárása?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "options": [
+        "A fán.",
+        "A számítógépen.",
+        "A kertben.",
+        "Az ágyban."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A játék bezárása?",
+      "options": [
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A játék bezárása?",
+      "options": [
+        "Fáradt.",
+        "Igen!",
+        "Nem.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "options": [
+        "Az ágyban.",
+        "A számítógépen.",
+        "A fán.",
+        "A kertben."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A játék bezárása?",
+      "options": [
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fáradtan.",
+        "Fázom."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A játék bezárása?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A madár.",
+        "A macska."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A játék bezárása?",
+      "options": [
+        "A macska.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A kutya."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "options": [
+        "A kertben.",
+        "A számítógépen.",
+        "Az ágyban.",
+        "A fán."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: A játék bezárása?",
+      "options": [
+        "Fázom.",
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Szomorúan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: A játék bezárása?",
+      "options": [
+        "Egy kutya.",
+        "Nem, egy autó.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A játék bezárása?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Unalmas.",
+        "Fáradt."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: A játék bezárása?",
+      "options": [
+        "Nem.",
+        "Igen!",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "options": [
+        "A fán.",
+        "A kertben.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: A játék bezárása?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: A játék bezárása?",
+      "options": [
+        "Talán.",
+        "Nem.",
+        "Nem tudom.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hol csináljuk ezt: A játék bezárása?",
+      "options": [
+        "A kertben.",
+        "A fán.",
+        "Az ágyban.",
+        "A számítógépen."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Egér"
+    },
+    {
+      "type": "typing",
+      "text": "Apa"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "class": 1,
+  "theme": "Videó nézése",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Nem, egy autó.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Videó nézése?",
+      "options": [
+        "Nem.",
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Szomorúan.",
+        "Fázom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Videó nézése?",
+      "options": [
+        "A kutya.",
+        "A madár.",
+        "A macska.",
+        "Anya vagy apa."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Videó nézése?",
+      "options": [
+        "Unalmas.",
+        "Fáradt.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Igen, pontosan.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "options": [
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban.",
+        "Fáradtan."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Egy alma.",
+        "Igen, pontosan."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Videó nézése?",
+      "options": [
+        "Nem tudom.",
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Nem, egy autó.",
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Egy alma.",
+        "Nem, egy autó."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "options": [
+        "Fáradtan.",
+        "Fázom.",
+        "Szomorúan.",
+        "Jól és biztonságban."
+      ],
+      "correct": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Videó nézése?",
+      "options": [
+        "A kutya.",
+        "A macska.",
+        "Anya vagy apa.",
+        "A madár."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "options": [
+        "Fázom.",
+        "Jól és biztonságban.",
+        "Fáradtan.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Egy kutya.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy alma."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Videó nézése?",
+      "options": [
+        "Talán.",
+        "Igen, nagyon fontos.",
+        "Nem.",
+        "Nem tudom."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Videó nézése?",
+      "options": [
+        "Fáradt.",
+        "Unalmas.",
+        "Igen!",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Fontos ez nekünk: Videó nézése?",
+      "options": [
+        "Talán.",
+        "Nem tudom.",
+        "Igen, nagyon fontos.",
+        "Nem."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Videó nézése?",
+      "options": [
+        "Igen!",
+        "Nem.",
+        "Fáradt.",
+        "Unalmas."
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Videó nézése?",
+      "options": [
+        "A madár.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hogy érzed magad ennél: Videó nézése?",
+      "options": [
+        "Fáradtan.",
+        "Jól és biztonságban.",
+        "Fázom.",
+        "Szomorúan."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ki segít neked ebben: Videó nézése?",
+      "options": [
+        "A kutya.",
+        "Anya vagy apa.",
+        "A macska.",
+        "A madár."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Ide tartozik a témához: Videó nézése?",
+      "options": [
+        "Egy alma.",
+        "Igen, pontosan.",
+        "Nem, egy autó.",
+        "Egy kutya."
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Élvezetes ez: Videó nézése?",
+      "options": [
+        "Unalmas.",
+        "Nem.",
+        "Igen!",
+        "Fáradt."
+      ],
+      "correct": 2
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Nem"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    },
+    {
+      "type": "typing",
+      "text": "Játék"
+    },
+    {
+      "type": "typing",
+      "text": "Gép"
+    },
+    {
+      "type": "typing",
+      "text": "Anya"
+    },
+    {
+      "type": "typing",
+      "text": "Igen"
+    },
+    {
+      "type": "typing",
+      "text": "Szín"
+    }
+  ]
+}
