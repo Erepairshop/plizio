@@ -14,13 +14,15 @@ import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCult
 import { hungaryAllPoi } from "../data/hungaryPoi";
 import { franceAllPoi } from "../data/francePoi";
 import { italyAllPoi } from "../data/italyPoi";
+import { spainMap, spainViewBox, projectCoordsES } from "./spain.svg";
+import { spainAllPoi } from "../data/spainPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -47,6 +49,15 @@ export function getCountryMap(lang: Lang): CountryMapData {
         projectCoords: projectCoordsHU,
         pois: hungaryAllPoi,
         subregions: hungarySubregions,
+      };
+    case "es":
+      return {
+        countryId: "ES",
+        map: spainMap as unknown as BundeslandPath[],
+        viewBox: spainViewBox,
+        projectCoords: projectCoordsES,
+        pois: spainAllPoi,
+        subregions: {}, // No specific subregions map for now
       };
     case "fr":
       return {
