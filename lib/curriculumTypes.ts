@@ -9,6 +9,7 @@ export interface CurriculumMCQ {
   options: string[];
   correct: number;
   hint?: string;
+  svgRef?: { type: string; name: string; color?: string; bg?: string; [key: string]: any };
 }
 
 export interface CurriculumTyping {
@@ -18,6 +19,7 @@ export interface CurriculumTyping {
   question: string;
   answer: string | string[];
   hint?: string;
+  svgRef?: { type: string; name: string; color?: string; bg?: string; [key: string]: any };
 }
 
 export type CurriculumQuestion = CurriculumMCQ | CurriculumTyping;

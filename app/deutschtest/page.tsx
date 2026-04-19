@@ -11,6 +11,7 @@ import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from 
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import ModernPaperTest from "@/components/ModernPaperTest";
+import TopicSvgRenderer from "@/components/TopicSvgRenderer";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
 import { getActiveSkin, getSkinDef } from "@/lib/skins";
@@ -1802,6 +1803,13 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
                           <span className="flex-1 border-t border-slate-100" />
                         </div>
                       )
+                    )}
+
+                    {/* Optional Inline SVG Figure */}
+                    {(q as any).svgRef && (
+                      <div className="my-4 flex justify-center" style={{ maxHeight: 240 }}>
+                        <TopicSvgRenderer config={(q as any).svgRef} lang={config.gameId === "astromagyar" ? "hu" : (config.ttsLang?.split("-")[0] || "de")} />
+                      </div>
                     )}
 
                     {/* Question row — sits on a line, NO fractional padding */}

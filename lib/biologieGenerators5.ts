@@ -38,7 +38,8 @@ function createMCQ(
   question: string,
   correct: string,
   wrongOptions: string[],
-  rng?: () => number
+  rng?: () => number,
+  svgRef?: any
 ): CurriculumMCQ {
   const seen = new Set<string>();
   const unique: string[] = [];
@@ -55,7 +56,8 @@ function createMCQ(
     subtopic,
     question,
     options: opts,
-    correct: opts.indexOf(correct)
+    correct: opts.indexOf(correct),
+    ...(svgRef ? { svgRef } : {})
   };
 }
 
@@ -210,17 +212,20 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (f: typeof FISH_DATA[0]) => ({
         q: `Welches Organ benutzt ${f.name} zum Atmen?`,
         a: f.organ,
-        w: ["Lungen", "Tracheen", "Haut"]
+        w: ["Lungen", "Tracheen", "Haut"],
+        svgRef: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "transparent" }
       }),
       (f: typeof FISH_DATA[0]) => ({
         q: `In welchem Habitat lebt die ${f.name}?`,
         a: f.habitat,
-        w: ["Wald", "Wüste", "Berge"]
+        w: ["Wald", "Wüste", "Berge"],
+        svgRef: { type: "biologie-diagram", name: "FishAnatomySvg", bg: "transparent" }
       }),
       (f: typeof FISH_DATA[0]) => ({
         q: `In welchem Gewässer lebt ${f.name}?`,
         a: f.habitat,
-        w: ["Regenwald", "Wüste", "Bergsee"]
+        w: ["Regenwald", "Wüste", "Bergsee"],
+        svgRef: { type: "biologie-diagram", name: "FishScalesSvg", bg: "transparent" }
       }),
       (f: typeof FISH_DATA[0]) => ({
         q: `Welcher Fisch lebt in ${f.habitat}?`,
@@ -241,7 +246,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const t = template(fish);
       if (!seenQ.has(t.q)) {
         seenQ.add(t.q);
-        questions.push(createMCQ("wirbeltiere", "fish", t.q, t.a, t.w, rng));
+        questions.push(createMCQ("wirbeltiere", "fish", t.q, t.a, t.w, rng, (t as any).svgRef));
       }
     }
     return questions;
@@ -261,12 +266,14 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (a: typeof AMPHIBIAN_DATA[0]) => ({
         q: `Die ${a.name} durchläuft welche Metamorphose?`,
         a: a.transformation,
-        w: ["Keine", "Schnelle", "Rückwärts"]
+        w: ["Keine", "Schnelle", "Rückwärts"],
+        svgRef: { type: "biologie-diagram", name: "FrogLifeSvg", bg: "transparent" }
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({
         q: `${a.name} haben welches Merkmal?`,
         a: a.feature,
-        w: ["Panzer", "Schuppen", "Federn"]
+        w: ["Panzer", "Schuppen", "Federn"],
+        svgRef: { type: "biologie-diagram", name: "FrogLifeSvg", bg: "transparent" }
       }),
       (a: typeof AMPHIBIAN_DATA[0]) => ({
         q: `Welches Amphibium hat die Eigenschaft "${a.feature}"?`,
@@ -288,7 +295,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const amp = pick(AMPHIBIAN_DATA, rng);
       const template = templates[i % templates.length];
       const t = template(amp);
-      questions.push(createMCQ("wirbeltiere", "amphibian", t.q, t.a, t.w, rng));
+      questions.push(createMCQ("wirbeltiere", "amphibian", t.q, t.a, t.w, rng, (t as any).svgRef));
     }
     return questions;
   },
@@ -307,12 +314,14 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (r: typeof REPTILE_DATA[0]) => ({
         q: `Womit ist die Haut der ${r.name} bedeckt?`,
         a: r.feature,
-        w: ["Haare", "Federn", "Mucus"]
+        w: ["Haare", "Federn", "Mucus"],
+        svgRef: { type: "biologie-diagram", name: "ReptileAnatomySvg", bg: "transparent" }
       }),
       (r: typeof REPTILE_DATA[0]) => ({
         q: `${r.name} ist ein Fleischfresser: wahr oder falsch?`,
         a: r.diet === "Fleischfresser" ? "wahr" : "falsch",
-        w: [r.diet === "Fleischfresser" ? "falsch" : "wahr"]
+        w: [r.diet === "Fleischfresser" ? "falsch" : "wahr"],
+        svgRef: { type: "biologie-diagram", name: "ReptileVsBirdSvg", bg: "transparent" }
       }),
       (r: typeof REPTILE_DATA[0]) => ({
         q: `Welches ist ein bekanntes Reptil?`,
@@ -334,7 +343,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const rep = pick(REPTILE_DATA, rng);
       const template = templates[i % templates.length];
       const t = template(rep);
-      questions.push(createMCQ("wirbeltiere", "reptile", t.q, t.a, t.w, rng));
+      questions.push(createMCQ("wirbeltiere", "reptile", t.q, t.a, t.w, rng, (t as any).svgRef));
     }
     return questions;
   },
@@ -353,12 +362,14 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (b: typeof BIRD_DATA[0]) => ({
         q: `Welche Anpassung hilft ${b.name} zu fliegen?`,
         a: b.adaptation,
-        w: ["Dicke Federn", "Schwere Knochen", "Kurze Flügel"]
+        w: ["Dicke Federn", "Schwere Knochen", "Kurze Flügel"],
+        svgRef: { type: "biologie-diagram", name: "BirdAnatomySvg", bg: "transparent" }
       }),
       (b: typeof BIRD_DATA[0]) => ({
         q: `${b.name} hat das Merkmal: ${b.feature}`,
         a: "wahr",
-        w: ["falsch"]
+        w: ["falsch"],
+        svgRef: { type: "biologie-diagram", name: "ReptileVsBirdSvg", bg: "transparent" }
       }),
       (b: typeof BIRD_DATA[0]) => ({
         q: `Welcher Vogel ist bekannt für "${b.hunt || "Flugkünste"}"?`,
@@ -380,7 +391,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const bird = pick(BIRD_DATA, rng);
       const template = templates[i % templates.length];
       const t = template(bird);
-      questions.push(createMCQ("wirbeltiere", "bird", t.q, t.a, t.w, rng));
+      questions.push(createMCQ("wirbeltiere", "bird", t.q, t.a, t.w, rng, (t as any).svgRef));
     }
     return questions;
   },
@@ -399,12 +410,14 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (m: typeof MAMMAL_DATA[0]) => ({
         q: `${m.name} haben das Merkmal: ${m.feature}`,
         a: "wahr",
-        w: ["falsch"]
+        w: ["falsch"],
+        svgRef: { type: "biologie-diagram", name: "MammalAnatomySvg", bg: "transparent" }
       }),
       (m: typeof MAMMAL_DATA[0]) => ({
         q: `Was essen ${m.name}?`,
         a: m.diet,
-        w: ["Insekten", "Gras", "Plankton"]
+        w: ["Insekten", "Gras", "Plankton"],
+        svgRef: { type: "biologie-diagram", name: "FoodChainSvg", bg: "transparent" }
       }),
       (m: typeof MAMMAL_DATA[0]) => ({
         q: `Welches ist ein Säugetier?`,
@@ -426,7 +439,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const mam = pick(MAMMAL_DATA, rng);
       const template = templates[i % templates.length];
       const t = template(mam);
-      questions.push(createMCQ("wirbeltiere", "mammal", t.q, t.a, t.w, rng));
+      questions.push(createMCQ("wirbeltiere", "mammal", t.q, t.a, t.w, rng, (t as any).svgRef));
     }
     return questions;
   },
@@ -491,12 +504,14 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (o: typeof PLANT_ORGANS[0]) => ({
         q: `Welche Funktion hat das Pflanzenteil ${o.organ}?`,
         a: o.function,
-        w: ["Fortpflanzung", "Wasserspeicherung", "Verbreitung"]
+        w: ["Fortpflanzung", "Wasserspeicherung", "Verbreitung"],
+        svgRef: { type: "biologie-diagram", name: "PlantAnatomySvg", bg: "transparent" }
       }),
       (o: typeof PLANT_ORGANS[0]) => ({
         q: `${o.organ} ist in dieser Lage: ${o.location}`,
         a: "wahr",
-        w: ["falsch"]
+        w: ["falsch"],
+        svgRef: { type: "biologie-diagram", name: "PlantAnatomySvg", bg: "transparent" }
       }),
       (o: typeof PLANT_ORGANS[0]) => ({
         q: `Welches Organ ist verantwortlich für "${o.function}"?`,
@@ -518,7 +533,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const organ = pick(PLANT_ORGANS, rng);
       const template = templates[i % templates.length];
       const t = template(organ);
-      questions.push(createMCQ("pflanzen", "plant_parts", t.q, t.a, t.w, rng));
+      questions.push(createMCQ("pflanzen", "plant_parts", t.q, t.a, t.w, rng, (t as any).svgRef));
     }
     return questions;
   },
@@ -720,12 +735,14 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (b: typeof BONES[0]) => ({
         q: `Welcher Knochen schützt das ${b.protects}?`,
         a: b.bone,
-        w: ["Wirbelsäule", "Rippen", "Becken"]
+        w: ["Wirbelsäule", "Rippen", "Becken"],
+        svgRef: { type: "biologie-diagram", name: "SkeletonSvg", bg: "transparent" }
       }),
       (b: typeof BONES[0]) => ({
         q: `Der ${b.bone} befindet sich am ${b.location}.`,
         a: "wahr",
-        w: ["falsch"]
+        w: ["falsch"],
+        svgRef: { type: "biologie-diagram", name: "SkeletonSvg", bg: "transparent" }
       }),
       () => ({
         q: "Wie viele Knochen hat ein menschlicher Körper?",
@@ -747,7 +764,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
       const bone = pick(BONES, rng);
       const template = templates[i % templates.length];
       const t = template(bone);
-      questions.push(createMCQ("koerper", "skeleton", t.q, t.a, t.w, rng));
+      questions.push(createMCQ("koerper", "skeleton", t.q, t.a, t.w, rng, (t as any).svgRef));
     }
     return questions;
   },
