@@ -4,6 +4,7 @@ import Breadcrumb from "@/components/seo/Breadcrumb";
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
 import { deutschlandMap, deutschlandViewBox } from "@/lib/visualLab/maps/deutschland.svg";
 import { romaniaMap, romaniaViewBox } from "@/lib/visualLab/maps/romania.svg";
+import { magyarorszagMap, magyarorszagViewBox } from "@/lib/visualLab/maps/magyarorszag.svg";
 import {
   COUNTRY_COPY,
   SEO_COPY,
@@ -28,6 +29,7 @@ export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) => [
     { lang, country: countrySlugFor(lang, "germany") },
     { lang, country: countrySlugFor(lang, "romania") },
+    { lang, country: countrySlugFor(lang, "hungary") },
   ]);
 }
 
@@ -39,7 +41,10 @@ export async function generateMetadata({
   const { lang, country } = await params;
   if (!isLang(lang)) return {};
   
-  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  let countryId: string = "germany";
+  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
+  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
+
   if (country !== countrySlugFor(lang, countryId)) return {};
 
   return countryMetadata(lang, countryId);
@@ -53,19 +58,55 @@ export default async function CountryPage({
   const { lang, country } = await params;
   if (!isLang(lang)) notFound();
 
-  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  let countryId: string = "germany";
+  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
+  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
+
   if (country !== countrySlugFor(lang, countryId)) notFound();
 
   const copy = SEO_COPY[lang];
   const countryCopy = COUNTRY_COPY[countryId][lang];
   const alternates = getCountryAlternates(countryId);
   
-  const countryRegions = regions.filter(r => 
-    countryId === "romania" ? r.id.startsWith("RO-") : r.id.startsWith("DE-")
-  );
+  const countryRegions = regions.filter(r => {
+    if (countryId === "romania") return r.id.startsWith("RO-");
+    if (countryId === "hungary") return r.parent === "HU";
+    return r.id.startsWith("DE-");
+  });
 
-  const mapData = countryId === "romania" ? romaniaMap : deutschlandMap;
-  const viewBox = countryId === "romania" ? romaniaViewBox : deutschlandViewBox;
+  let mapData = deutschlandMap;
+  let viewBox = deutschlandViewBox;
+
+  if (countryId === "romania") {
+    mapData = romaniaMap;
+    viewBox = romaniaViewBox;
+  } else if (countryId === "hungary") {
+    // Map HU-XX IDs to descriptive IDs used in regions
+    const idMap: Record<string, string> = {
+      "HU-BU": "budapest",
+      "HU-BA": "baranya",
+      "HU-BK": "bacs-kiskun",
+      "HU-BE": "bekes",
+      "HU-BZ": "borsod-abauj-zemplen",
+      "HU-CS": "csongrad-csanad",
+      "HU-FE": "fejer",
+      "HU-GS": "gyor-moson-sopron",
+      "HU-HB": "hajdu-bihar",
+      "HU-HE": "heves",
+      "HU-KE": "komarom-esztergom",
+      "HU-NO": "nograd",
+      "HU-PE": "pest",
+      "HU-SO": "somogy",
+      "HU-SZ": "szabolcs-szatmar-bereg",
+      "HU-JN": "jasz-nagykun-szolnok",
+      "HU-TO": "tolna",
+      "HU-VA": "vas",
+      "HU-VE": "veszprem",
+      "HU-ZA": "zala"
+    };
+    mapData = magyarorszagMap.map(m => ({ ...m, id: idMap[m.id] || m.id }));
+    viewBox = magyarorszagViewBox;
+  }
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -132,7 +173,7 @@ export default async function CountryPage({
             name: countryCopy.title,
             url: `${SITE_URL}${buildCountryPath(lang, countryId)}`,
             inLanguage: lang,
-            image: absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : "/geo-images/germany-full.jpg"),
+            image: absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : countryId === "hungary" ? "/geo-images/hungary/HU.webp" : "/geo-images/germany-full.jpg"),
             hasPart: countryRegions.map((state) => ({
               "@type": "AdministrativeArea",
               name: state.name[lang] || state.name.de,

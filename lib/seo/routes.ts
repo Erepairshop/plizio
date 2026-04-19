@@ -38,6 +38,12 @@ export const COUNTRY_COPY: Record<string, Record<Lang, { title: string; descript
     ro: { title: "Harta interactivă a României", description: "Pagini statice de studiu despre județe, orașe, natură, istorie și obiective turistice din România.", name: "România" },
     en: { title: "Interactive Romania Map", description: "Static study pages about Romanian counties, cities, nature, history, and landmarks.", name: "Romania" },
   },
+  hungary: {
+    de: { title: "Interaktive Ungarnkarte", description: "Statische Lernseiten zu Komitaten, Städten, Natur, Geschichte und Sehenswürdigkeiten in Ungarn.", name: "Ungarn" },
+    hu: { title: "Magyarország interaktív térképe", description: "Statikus tanulóoldalak a magyar megyékről, városokról, természeti helyekről, történelemről és nevezetességekről.", name: "Magyarország" },
+    ro: { title: "Harta interactivă a Ungariei", description: "Pagini statice de studiu despre județe, orașe, natură, istorie și obiective turistice din Ungaria.", name: "Ungaria" },
+    en: { title: "Interactive Hungary Map", description: "Static study pages about Hungarian counties, cities, nature, history, and landmarks.", name: "Hungary" },
+  },
 };
 
 export const SEO_COPY = {
@@ -158,7 +164,10 @@ export function groupPoisForState(stateId: string) {
 }
 
 export function getPoiByRouteParams(lang: Lang, country: string, state: string, poiSlugValue: string) {
-  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  let countryId: string = "germany";
+  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
+  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
+
   if (country !== countrySlugFor(lang, countryId)) return null;
 
   const region = findRegionByStateSlug(lang, state);
@@ -170,7 +179,10 @@ export function getPoiByRouteParams(lang: Lang, country: string, state: string, 
 }
 
 export function getStateByRouteParams(lang: Lang, country: string, state: string) {
-  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  let countryId: string = "germany";
+  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
+  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
+
   if (country !== countrySlugFor(lang, countryId)) return null;
 
   const region = findRegionByStateSlug(lang, state);
@@ -196,6 +208,10 @@ export function stateDescription(stateId: string, lang: Lang) {
 
 export function countryMetadata(lang: Lang, countryId: string = "germany"): Metadata {
   const copy = COUNTRY_COPY[countryId][lang];
+  let imageUrl = "/geo-images/germany-full.jpg";
+  if (countryId === "romania") imageUrl = "/geo-images/romania/RO.webp";
+  else if (countryId === "hungary") imageUrl = "/geo-images/hungary/HU.webp";
+
   return {
     title: `${copy.title} | Plizio Visual Lab`,
     description: copy.description,
@@ -209,13 +225,13 @@ export function countryMetadata(lang: Lang, countryId: string = "germany"): Meta
       url: absoluteUrl(buildCountryPath(lang, countryId)),
       locale: SEO_LOCALES[lang],
       type: "website",
-      images: [{ url: absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : "/geo-images/germany-full.jpg") }],
+      images: [{ url: absoluteUrl(imageUrl) }],
     },
     twitter: {
       card: "summary_large_image",
       title: `${copy.title} | Plizio Visual Lab`,
       description: copy.description,
-      images: [absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : "/geo-images/germany-full.jpg")],
+      images: [absoluteUrl(imageUrl)],
     },
   };
 }

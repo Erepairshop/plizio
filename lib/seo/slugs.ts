@@ -1,13 +1,14 @@
 import { pois as dePois, regions as deRegions, type POI } from "@/lib/visualLab/data/poi";
 import { romaniaAllPois, romaniaRegions } from "@/lib/visualLab/data/romaniaPoi";
+import { hungaryAllPoi, hungaryRegions } from "@/lib/visualLab/data/hungaryPoi";
 import { slugify } from "@/lib/seo/slugify";
 
 export type Lang = "de" | "hu" | "ro" | "en";
 
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
 
-export const pois = [...dePois, ...romaniaAllPois];
-export const regions = [...deRegions, ...romaniaRegions];
+export const pois = [...dePois, ...romaniaAllPois, ...hungaryAllPoi];
+export const regions = [...deRegions, ...romaniaRegions, ...hungaryRegions];
 
 export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
   germany: {
@@ -21,6 +22,12 @@ export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
     hu: "romania",
     ro: "romania",
     en: "romania",
+  },
+  hungary: {
+    de: "ungarn",
+    hu: "magyarorszag",
+    ro: "ungaria",
+    en: "hungary",
   },
 };
 
@@ -85,6 +92,27 @@ export const STATE_SLUGS: Record<string, Record<Lang, string>> = {
   "RO-VL": { de: "ro-vl", hu: "ro-vl", ro: "ro-vl", en: "ro-vl" },
   "RO-VN": { de: "ro-vn", hu: "ro-vn", ro: "ro-vn", en: "ro-vn" },
   "RO-VS": { de: "ro-vs", hu: "ro-vs", ro: "ro-vs", en: "ro-vs" },
+  // Hungary
+  "budapest": { de: "budapest", hu: "budapest", ro: "budapest", en: "budapest" },
+  "baranya": { de: "baranya", hu: "baranya", ro: "baranya", en: "baranya" },
+  "bacs-kiskun": { de: "bacs-kiskun", hu: "bacs-kiskun", ro: "bacs-kiskun", en: "bacs-kiskun" },
+  "bekes": { de: "bekes", hu: "bekes", ro: "bekes", en: "bekes" },
+  "borsod-abauj-zemplen": { de: "borsod-abauj-zemplen", hu: "borsod-abauj-zemplen", ro: "borsod-abauj-zemplen", en: "borsod-abauj-zemplen" },
+  "csongrad-csanad": { de: "csongrad-csanad", hu: "csongrad-csanad", ro: "csongrad-csanad", en: "csongrad-csanad" },
+  "fejer": { de: "fejer", hu: "fejer", ro: "fejer", en: "fejer" },
+  "gyor-moson-sopron": { de: "gyor-moson-sopron", hu: "gyor-moson-sopron", ro: "gyor-moson-sopron", en: "gyor-moson-sopron" },
+  "hajdu-bihar": { de: "hajdu-bihar", hu: "hajdu-bihar", ro: "hajdu-bihar", en: "hajdu-bihar" },
+  "heves": { de: "heves", hu: "heves", ro: "heves", en: "heves" },
+  "jasz-nagykun-szolnok": { de: "jasz-nagykun-szolnok", hu: "jasz-nagykun-szolnok", ro: "jasz-nagykun-szolnok", en: "jasz-nagykun-szolnok" },
+  "komarom-esztergom": { de: "komarom-esztergom", hu: "komarom-esztergom", ro: "komarom-esztergom", en: "komarom-esztergom" },
+  "nograd": { de: "nograd", hu: "nograd", ro: "nograd", en: "nograd" },
+  "pest": { de: "pest", hu: "pest", ro: "pest", en: "pest" },
+  "somogy": { de: "somogy", hu: "somogy", ro: "somogy", en: "somogy" },
+  "szabolcs-szatmar-bereg": { de: "szabolcs-szatmar-bereg", hu: "szabolcs-szatmar-bereg", ro: "szabolcs-szatmar-bereg", en: "szabolcs-szatmar-bereg" },
+  "tolna": { de: "tolna", hu: "tolna", ro: "tolna", en: "tolna" },
+  "vas": { de: "vas", hu: "vas", ro: "vas", en: "vas" },
+  "veszprem": { de: "veszprem", hu: "veszprem", ro: "veszprem", en: "veszprem" },
+  "zala": { de: "zala", hu: "zala", ro: "zala", en: "zala" },
 };
 
 export const REGION_BY_ID = new Map(regions.map((region) => [region.id, region]));
@@ -138,6 +166,7 @@ export function findPoiBySlug(lang: Lang, poiSlugValue: string) {
 export function getCountryId(id: string) {
   if (id.startsWith("DE-") || id === "DE") return "germany";
   if (id.startsWith("RO-") || id === "RO") return "romania";
+  if (id === "HU" || regions.some(r => r.id === id && r.parent === "HU")) return "hungary";
   return "germany";
 }
 
