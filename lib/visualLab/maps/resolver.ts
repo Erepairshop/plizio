@@ -6,6 +6,7 @@ import { romaniaMap, romaniaViewBox, projectCoordsRO } from "./romania.svg";
 import { magyarorszagMap, magyarorszagViewBox, projectCoordsHU } from "./magyarorszag.svg";
 import { franceMap, franceViewBox, projectCoordsFR } from "./france.svg";
 import { italyMap, italyViewBox, projectCoordsIT } from "./italy.svg";
+import { polandMap, polandViewBox, projectCoordsPL } from "./poland.svg";
 import { bundeslandSubregions } from "./bundeslandSubregions";
 import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
 import { hungarySubregions } from "./hungarySubregions";
@@ -14,6 +15,7 @@ import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCult
 import { hungaryAllPoi } from "../data/hungaryPoi";
 import { franceAllPoi } from "../data/francePoi";
 import { italyAllPoi } from "../data/italyPoi";
+import { polandAllPoi } from "../data/polandPoi";
 import { spainMap, spainViewBox, projectCoordsES } from "./spain.svg";
 import { spainAllPoi } from "../data/spainPoi";
 import { unitedkingdomMap, unitedkingdomViewBox, projectCoordsUK } from "./unitedkingdom.svg";
@@ -22,11 +24,11 @@ import { netherlandsMap, netherlandsViewBox, projectCoordsNL } from "./netherlan
 import { netherlandsAllPoi } from "../data/netherlandsPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "gb" | "nl";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "GB" | "NL"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -53,6 +55,15 @@ export function getCountryMap(lang: Lang): CountryMapData {
         projectCoords: projectCoordsHU,
         pois: hungaryAllPoi,
         subregions: hungarySubregions,
+      };
+    case "pl":
+      return {
+        countryId: "PL",
+        map: polandMap as unknown as BundeslandPath[],
+        viewBox: polandViewBox,
+        projectCoords: projectCoordsPL,
+        pois: polandAllPoi,
+        subregions: [],
       };
     case "es":
       return {
