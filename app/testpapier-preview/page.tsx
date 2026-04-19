@@ -10,10 +10,11 @@ import {
   ThermometerSvg as ProThermometer,
   StromkreisSvg as ProStromkreis,
 } from "@/components/testpapier-visual/svg/ProbeSvgsPro";
+import { WinterSvg, VogelSvg, FruehlingSvg } from "@/components/testpapier-visual/svg/K1K2SvgsA";
 
 const MODELS = [
-  { id: "flash", label: "Gemini 3 Flash (Chromebook)", Sun: FlashSun, Thermometer: FlashThermometer, Stromkreis: FlashStromkreis },
-  { id: "pro", label: "Gemini 3.1 Pro (Windows)", Sun: ProSun, Thermometer: ProThermometer, Stromkreis: ProStromkreis },
+  { id: "flash", label: "Gemini 3 Flash (Chromebook)", Sun: FlashSun, Thermometer: FlashThermometer, Stromkreis: FlashStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg },
+  { id: "pro", label: "Gemini 3.1 Pro (Windows)", Sun: ProSun, Thermometer: ProThermometer, Stromkreis: ProStromkreis, Winter: WinterSvg, Vogel: VogelSvg, Fruehling: FruehlingSvg },
 ];
 
 const SCENARIOS = [
@@ -34,6 +35,24 @@ const SCENARIOS = [
     hint: "Was fließt durch den Stromkreis, wenn die Lampe leuchtet?",
     choices: ["Wasser", "Strom", "Wärme", "Licht"],
     key: "Stromkreis",
+  },
+  {
+    name: "WinterSvg — K1-K2 Jahreszeiten",
+    hint: "Welche Jahreszeit ist hier dargestellt?",
+    choices: ["Frühling", "Sommer", "Herbst", "Winter"],
+    key: "Winter",
+  },
+  {
+    name: "VogelSvg — K1-K2 Tiere",
+    hint: "Welches Tier ist das?",
+    choices: ["Hund", "Katze", "Vogel", "Fisch"],
+    key: "Vogel",
+  },
+  {
+    name: "FruehlingSvg — K1-K2 Jahreszeiten",
+    hint: "Was passiert im Frühling?",
+    choices: ["Schnee fällt", "Blumen blühen", "Blätter fallen", "Es ist sehr heiß"],
+    key: "Fruehling",
   },
 ] as const;
 
