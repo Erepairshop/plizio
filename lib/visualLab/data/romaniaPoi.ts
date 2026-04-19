@@ -1385,7 +1385,7 @@ export const romaniaFolk: POI[] = [
 export const romaniaExtraPois: POI[] = [
   // ARAD (RO-AR)
   {
-    id: "ro-poi-moneasa", type: "nature", parent: "RO-AR", coords: [46.4583, 22.2583],
+    id: "ro-poi-moneasa", type: "landmark", parent: "RO-AR", coords: [46.4583, 22.2583],
     name: { de: "Moneasa", hu: "Menyháza", ro: "Stațiunea Moneasa", en: "Moneasa Resort" },
     description: { de: "Bekannter Kurort.", hu: "Híres gyógyüdülőhely.", ro: "Stațiune balneoclimaterică cunoscută.", en: "Well-known spa resort." },
     image: ""
@@ -1405,7 +1405,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-slanic-moldova", type: "nature", parent: "RO-BC", coords: [46.2069, 26.4386],
+    id: "ro-poi-slanic-moldova", type: "landmark", parent: "RO-BC", coords: [46.2069, 26.4386],
     name: { de: "Slănic Moldova", hu: "Szlanikfürdő", ro: "Slănic Moldova", en: "Slănic Moldova" },
     description: { de: "Kurort mit Mineralquellen.", hu: "Gyógyüdülőhely ásványvízforrásokkal.", ro: "Stațiune cu izvoare minerale.", en: "Resort with mineral springs." },
     image: ""
@@ -1413,13 +1413,13 @@ export const romaniaExtraPois: POI[] = [
 
   // BIHOR (RO-BH)
   {
-    id: "ro-poi-pestera-ursilor", type: "nature", parent: "RO-BH", coords: [46.5531, 22.5683],
+    id: "ro-poi-pestera-ursilor", type: "landmark", parent: "RO-BH", coords: [46.5531, 22.5683],
     name: { de: "Bärenhöhle", hu: "Medve-barlang", ro: "Peștera Urșilor", en: "Bears' Cave" },
     description: { de: "Höhle mit Höhlenbärenfossilien.", hu: "Barlang barlangi medve fosszíliákkal.", ro: "Peșteră cu fosile de urși de peșteră.", en: "Cave with cave bear fossils." },
     image: ""
   },
   {
-    id: "ro-poi-baile-felix", type: "nature", parent: "RO-BH", coords: [46.9833, 21.9833],
+    id: "ro-poi-baile-felix", type: "landmark", parent: "RO-BH", coords: [46.9833, 21.9833],
     name: { de: "Thermalbad Felix", hu: "Félixfürdő", ro: "Băile Felix", en: "Băile Felix" },
     description: { de: "Größtes Thermalbad in Rumänien.", hu: "Románia legnagyobb termálfürdője.", ro: "Cea mai mare stațiune balneară din România.", en: "Largest thermal spa in Romania." },
     image: ""
@@ -1433,7 +1433,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-parcul-rodnei", type: "nature", parent: "RO-BN", coords: [47.5333, 24.8],
+    id: "ro-poi-parcul-rodnei", type: "landmark", parent: "RO-BN", coords: [47.5333, 24.8],
     name: { de: "Nationalpark Rodna-Gebirge", hu: "Radnai-havasok Nemzeti Park", ro: "Parcul Național Munții Rodnei", en: "Rodna Mountains National Park" },
     description: { de: "Höchstes Gebirge der Ostkarpaten.", hu: "A Keleti-Kárpátok legmagasabb hegysége.", ro: "Cei mai înalți munți din Carpații Orientali.", en: "Highest mountains of the Eastern Carpathians." },
     image: ""
@@ -1473,7 +1473,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-insula-mica", type: "nature", parent: "RO-BR", coords: [44.8833, 27.95],
+    id: "ro-poi-insula-mica", type: "landmark", parent: "RO-BR", coords: [44.8833, 27.95],
     name: { de: "Naturpark Kleine Brăila-Insel", hu: "Kis-Brăila Sziget Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Small Brăila Island Natural Park" },
     description: { de: "Feuchtgebiet und Naturschutzgebiet.", hu: "Vizes élőhely és természetvédelmi terület.", ro: "Zonă umedă și rezervație naturală.", en: "Wetland and nature reserve." },
     image: ""
@@ -1487,7 +1487,7 @@ export const romaniaExtraPois: POI[] = [
 
   // BUZĂU (RO-BZ)
   {
-    id: "ro-poi-focul-viu", type: "nature", parent: "RO-BZ", coords: [45.5417, 26.5444],
+    id: "ro-poi-focul-viu", type: "landmark", parent: "RO-BZ", coords: [45.5417, 26.5444],
     name: { de: "Lebendiges Feuer", hu: "Élő tűz", ro: "Focul Viu", en: "Living Fire" },
     description: { de: "Erdgasflammen aus dem Boden.", hu: "Földgázlángok a talajból.", ro: "Flăcări de gaze naturale din pământ.", en: "Natural gas flames coming from the ground." },
     image: ""
@@ -1513,7 +1513,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-muzeul-dunarii", type: "cultural", parent: "RO-CL", coords: [44.195, 27.33],
+    id: "ro-poi-muzeul-dunarii", type: "landmark", parent: "RO-CL", coords: [44.195, 27.33],
     name: { de: "Museum der Unteren Donau", hu: "Alsó-Duna Múzeum", ro: "Muzeul Dunării de Jos", en: "Lower Danube Museum" },
     description: { de: "Museum für Archäologie und Geschichte.", hu: "Régészeti és történelmi múzeum.", ro: "Muzeu de arheologie și istorie.", en: "Museum of archeology and history." },
     image: ""
@@ -1521,7 +1521,7 @@ export const romaniaExtraPois: POI[] = [
 
   // CARAȘ-SEVERIN (RO-CS)
   {
-    id: "ro-poi-cheile-nerei", type: "nature", parent: "RO-CS", coords: [44.9333, 21.8333],
+    id: "ro-poi-cheile-nerei", type: "landmark", parent: "RO-CS", coords: [44.9333, 21.8333],
     name: { de: "Nera-Klamm Nationalpark", hu: "Néra-szurdok Nemzeti Park", ro: "Parcul Național Cheile Nerei-Beușnița", en: "Cheile Nerei-Beușnița National Park" },
     description: { de: "Schluchten, Wasserfälle und blaue Seen.", hu: "Szurdokok, vízesések és kék tavak.", ro: "Chei, cascade și lacuri albastre.", en: "Gorges, waterfalls, and blue lakes." },
     image: ""
@@ -1533,7 +1533,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-cascada-bigar", type: "nature", parent: "RO-CS", coords: [45.0033, 21.9594],
+    id: "ro-poi-cascada-bigar", type: "landmark", parent: "RO-CS", coords: [45.0033, 21.9594],
     name: { de: "Bigăr-Wasserfall", hu: "Bigér-vízesés", ro: "Cascada Bigăr", en: "Bigăr Waterfall" },
     description: { de: "Einzigartiger moosbedeckter Wasserfall.", hu: "Egyedülálló mohos vízesés.", ro: "Cascadă unică acoperită de mușchi.", en: "Unique moss-covered waterfall." },
     image: ""
@@ -1555,13 +1555,13 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-statiunea-covasna", type: "nature", parent: "RO-CV", coords: [45.85, 26.1667],
+    id: "ro-poi-statiunea-covasna", type: "landmark", parent: "RO-CV", coords: [45.85, 26.1667],
     name: { de: "Kurort Covasna", hu: "Kovásznafürdő", ro: "Stațiunea Covasna", en: "Covasna Resort" },
     description: { de: "Bekannt für Mineralwasser und Mofetten.", hu: "Ásványvizeiről és mofettáiról ismert.", ro: "Cunoscută pentru ape minerale și mofete.", en: "Known for mineral waters and mofettas." },
     image: ""
   },
   {
-    id: "ro-poi-balta-dracului", type: "nature", parent: "RO-CV", coords: [45.845, 26.175],
+    id: "ro-poi-balta-dracului", type: "landmark", parent: "RO-CV", coords: [45.845, 26.175],
     name: { de: "Teufelsteich", hu: "Pokolsár", ro: "Balta Dracului", en: "Devil's Pond" },
     description: { de: "Eine vulkanische Schlammemission.", hu: "Egy vulkáni iszapkitörés.", ro: "O emanație de noroi vulcanic.", en: "A volcanic mud emission." },
     image: ""
@@ -1569,7 +1569,7 @@ export const romaniaExtraPois: POI[] = [
 
   // DÂMBOVIȚA (RO-DB)
   {
-    id: "ro-poi-pestera-ialomitei", type: "nature", parent: "RO-DB", coords: [45.3933, 25.4383],
+    id: "ro-poi-pestera-ialomitei", type: "landmark", parent: "RO-DB", coords: [45.3933, 25.4383],
     name: { de: "Ialomița-Höhle", hu: "Ialomița-barlang", ro: "Peștera Ialomiței", en: "Ialomița Cave" },
     description: { de: "Höhle im Bucegi-Gebirge mit Kloster.", hu: "Barlang a Bucsecs-hegységben kolostorral.", ro: "Peșteră în Munții Bucegi cu o mănăstire.", en: "Cave in the Bucegi Mountains with a monastery." },
     image: ""
@@ -1583,7 +1583,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-muzeul-arta-craiova", type: "cultural", parent: "RO-DJ", coords: [44.3183, 23.795],
+    id: "ro-poi-muzeul-arta-craiova", type: "landmark", parent: "RO-DJ", coords: [44.3183, 23.795],
     name: { de: "Kunstmuseum Craiova", hu: "Craiova Művészeti Múzeum", ro: "Muzeul de Artă Craiova", en: "Craiova Art Museum" },
     description: { de: "Beherbergt Werke von Constantin Brâncuși.", hu: "Constantin Brâncuși műveinek ad otthont.", ro: "Găzduiește opere de Constantin Brâncuși.", en: "Houses works by Constantin Brâncuși." },
     image: ""
@@ -1617,7 +1617,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-parcul-comana", type: "nature", parent: "RO-GR", coords: [44.175, 26.1433],
+    id: "ro-poi-parcul-comana", type: "landmark", parent: "RO-GR", coords: [44.175, 26.1433],
     name: { de: "Naturpark Comana", hu: "Comana Natúrpark", ro: "Parcul Natural Comana", en: "Comana Natural Park" },
     description: { de: "Feuchtgebiet und Waldgebiet.", hu: "Vizes élőhely és erdő.", ro: "Zonă umedă și forestieră.", en: "Wetland and forest area." },
     image: ""
@@ -1631,7 +1631,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-cheile-oltetului", type: "nature", parent: "RO-GJ", coords: [45.195, 23.7667],
+    id: "ro-poi-cheile-oltetului", type: "landmark", parent: "RO-GJ", coords: [45.195, 23.7667],
     name: { de: "Olteț-Klamm", hu: "Oltész-szurdok", ro: "Cheile Oltețului", en: "Olteț Gorges" },
     description: { de: "Sehr enge Karstschlucht.", hu: "Nagyon szűk karszt-szurdok.", ro: "Chei carstice foarte înguste.", en: "Very narrow karst gorge." },
     image: ""
@@ -1679,7 +1679,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-padurea-cernica", type: "nature", parent: "RO-IF", coords: [44.4333, 26.25],
+    id: "ro-poi-padurea-cernica", type: "landmark", parent: "RO-IF", coords: [44.4333, 26.25],
     name: { de: "Cernica-Wald", hu: "Cernica-erdő", ro: "Pădurea Cernica", en: "Cernica Forest" },
     description: { de: "Erholungsgebiet nahe Bukarest.", hu: "Pihenőövezet Bukarest közelében.", ro: "Zonă de recreere lângă București.", en: "Recreation area near Bucharest." },
     image: ""
@@ -1727,7 +1727,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-gradina-zmeilor", type: "nature", parent: "RO-SJ", coords: [47.2, 23.3],
+    id: "ro-poi-gradina-zmeilor", type: "landmark", parent: "RO-SJ", coords: [47.2, 23.3],
     name: { de: "Drachengarten", hu: "Sárkányok kertje", ro: "Grădina Zmeilor", en: "Dragons' Garden" },
     description: { de: "Spektakuläres Naturschutzgebiet mit Felsformationen.", hu: "Látványos természetvédelmi terület sziklaképződményekkel.", ro: "Rezervație naturală spectaculoasă cu formațiuni stâncoase.", en: "Spectacular nature reserve with rock formations." },
     image: ""
@@ -1761,7 +1761,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-padurea-troianu", type: "nature", parent: "RO-TR", coords: [44.025, 24.9833],
+    id: "ro-poi-padurea-troianu", type: "landmark", parent: "RO-TR", coords: [44.025, 24.9833],
     name: { de: "Troianu-Wald", hu: "Troianu-erdő", ro: "Pădurea Troianu", en: "Troianu Forest" },
     description: { de: "Naturschutzgebiet für wilde Pfingstrosen.", hu: "Vadon termő pünkösdi rózsák természetvédelmi területe.", ro: "Rezervație naturală pentru bujori sălbatici.", en: "Nature reserve for wild peonies." },
     image: ""
@@ -1789,7 +1789,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-muzeul-stefan", type: "cultural", parent: "RO-VS", coords: [46.636, 27.73],
+    id: "ro-poi-muzeul-stefan", type: "landmark", parent: "RO-VS", coords: [46.636, 27.73],
     name: { de: "Kreismuseum Stefan der Große", hu: "Nagy István Megyei Múzeum", ro: "Muzeul Județean Ștefan cel Mare", en: "Stephen the Great County Museum" },
     description: { de: "Museum für Geschichte und Archäologie.", hu: "Történelmi és régészeti múzeum.", ro: "Muzeu de istorie și arheologie.", en: "Museum of history and archeology." },
     image: ""
@@ -1823,7 +1823,7 @@ export const romaniaExtraPois: POI[] = [
     image: ""
   },
   {
-    id: "ro-poi-rezervatia-putna", type: "nature", parent: "RO-VN", coords: [45.9167, 26.5667],
+    id: "ro-poi-rezervatia-putna", type: "landmark", parent: "RO-VN", coords: [45.9167, 26.5667],
     name: { de: "Naturpark Putna-Vrancea", hu: "Putna-Vrancea Natúrpark", ro: "Parcul Natural Putna-Vrancea", en: "Putna-Vrancea Natural Park" },
     description: { de: "Schutzgebiet mit Wasserfällen und Wäldern.", hu: "Védett terület vízesésekkel és erdőkkel.", ro: "Arie protejată cu cascade și păduri.", en: "Protected area with waterfalls and forests." },
     image: ""
