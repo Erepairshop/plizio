@@ -47,6 +47,28 @@ POI_MAP = {
     "village-museum": ("ro", "Muzeul_Satului_„Dimitrie_Gusti”"),
     "palatul-culturii-iasi": ("ro", "Palatul_Culturii_(Iași)"),
     "biserica-neagra-brasov": ("ro", "Biserica_Neagră"),
+    # Batch 2
+    "cozia-kolostor":          ("ro", "Mănăstirea_Cozia"),
+    "putna-kolostor":           ("ro", "Mănăstirea_Putna"),
+    "moldovita-kolostor":       ("ro", "Mănăstirea_Moldovița"),
+    "voronet-kolostor":         ("ro", "Mănăstirea_Voroneț"),
+    "horezu-kolostor":          ("ro", "Mănăstirea_Hurezi"),
+    "suceava-var":              ("ro", "Cetatea_Sucevei"),
+    "poenari-var":              ("ro", "Cetatea_Poenari"),
+    "ceahlau-csucs":            ("ro", "Ceahlău"),
+    "detunatele":               ("ro", "Detunata"),
+    "cheile-turzii":            ("ro", "Cheile_Turzii"),
+    "sfanta-ana-to":            ("ro", "Lacul_Sfânta_Ana"),
+    "cascada-urlatoarea":       ("ro", "Cascada_Urlătoarea"),
+    "bigar-vizeses":            ("ro", "Cascada_Bigăr"),
+    "transalpina":              ("ro", "Transalpina"),
+    "therme-bucuresti":         ("ro", "Therme_București"),
+    "astra-museum":             ("ro", "Muzeul_ASTRA"),
+    "teatrul-national":         ("ro", "Teatrul_Național_„I._L._Caragiale”_(București)"),
+    "mogosoaia-palace":         ("ro", "Palatul_Mogoșoaia"),
+    "cluj-botanical":           ("ro", "Grădina_Botanică_„Alexandru_Borza”"),
+    "arad-fortress":            ("ro", "Cetatea_Aradului"),
+    "centrul-vechi-bucuresti":  ("ro", "Centrul_Istoric_al_Bucureștiului"),
 }
 
 
