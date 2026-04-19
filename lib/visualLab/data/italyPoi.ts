@@ -7,17 +7,17 @@ export const italyCountry: POI = {
   coords: [12.5674, 41.8719],
   name: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" },
   description: {
-    de: "Italien ist ein Land im Süden Europas, das für seine reiche Geschichte, Kunst und Küche bekannt ist.",
-    hu: "Olaszország dél-európai ország, amely gazdag történelméről, művészetéről és konyhájáról ismert.",
-    ro: "Italia este o țară din sudul Europei, cunoscută pentru istoria sa bogată, artă și bucătărie.",
-    en: "Italy is a country in southern Europe known for its rich history, art, and cuisine.",
-  },
+      en: "Italy is a country located in Southern Europe, renowned for its rich history, diverse culture, and influential art. The Italian Peninsula is shaped like a boot and extends into the central Mediterranean Sea. It was the heart of the Roman Empire and the birthplace of the Renaissance, leaving an indelible mark on Western civilization. Today, Italy is famous for its culinary excellence, fashion, beautiful landscapes, and historic cities like Rome, Venice, and Florence. It remains a major cultural and economic power in modern Europe.",
+      de: "Italien ist ein Land in Südeuropa, bekannt für seine reiche Geschichte, vielfältige Kultur und einflussreiche Kunst. Die italienische Halbinsel hat die Form eines Stiefels und erstreckt sich in das zentrale Mittelmeer. Es war das Herz des Römischen Reiches und die Geburtsstätte der Renaissance, was tiefe Spuren in der westlichen Zivilisation hinterließ. Heute ist Italien berühmt für seine kulinarische Exzellenz, Mode, wunderschöne Landschaften und historische Städte wie Rom, Venedig und Florenz. Es bleibt eine große kulturelle und wirtschaftliche Macht in Europa.",
+      hu: "Olaszország Dél-Európában található, és gazdag történelméről, változatos kultúrájáról, valamint nagy hatású művészetéről ismert. Az olasz félsziget csizma alakú, és a Földközi-tenger középső részébe nyúlik. A Római Birodalom központja és a reneszánsz szülőhazája volt, amely letörölhetetlen nyomot hagyott a nyugati civilizációban. Ma Olaszország kulináris kiválóságáról, divatjáról, gyönyörű tájairól és olyan történelmi városairól híres, mint Róma, Velence és Firenze. Továbbra is jelentős kulturális és gazdasági hatalom Európában.",
+      ro: "Italia este o țară situată în Europa de Sud, renumită pentru istoria sa bogată, cultura diversă și arta influentă. Peninsula Italică are forma unei cizme și se extinde în Marea Mediterană centrală. A fost inima Imperiului Roman și locul de naștere al Renașterii, lăsând o amprentă profundă asupra civilizației occidentale. Astăzi, Italia este faimoasă pentru excelența culinară, modă, peisaje frumoase și orașe istorice precum Roma, Veneția și Florența. Rămâne o putere culturală și economică majoră în Europa modernă."
+    },
   facts: {
-    de: ["Hauptstadt ist Rom.", "Heimat des Römischen Reiches.", "Bekannt für Pizza und Pasta.", "Besitzt die meisten UNESCO-Welterbestätten."],
-    hu: ["Fővárosa Róma.", "A Római Birodalom hazája.", "Híres a pizzáról és a tésztáról.", "Itt található a legtöbb UNESCO világörökségi helyszín."],
-    ro: ["Capitala este Roma.", "Patria Imperiului Roman.", "Cunoscută pentru pizza și paste.", "Deține cele mai multe situri din patrimoniul mondial UNESCO."],
-    en: ["Capital is Rome.", "Home of the Roman Empire.", "Famous for pizza and pasta.", "Has the most UNESCO World Heritage sites."],
-  },
+      en: ["Italy has the most UNESCO World Heritage Sites in the world.","The country surrounds two independent microstates: Vatican City and San Marino.","Rome, the capital, is nearly 3,000 years old.","Italy is the world's largest producer of wine.","The colors of the Italian flag represent hope (green), faith (white), and charity (red).","It features Europe's only active volcanoes: Vesuvius, Etna, and Stromboli.","Pizza was invented in Naples during the 18th century.","The oldest university in continuous operation is the University of Bologna, founded in 1088."],
+      de: ["Italien hat die meisten UNESCO-Welterbestätten der Welt.","Das Land umschließt zwei unabhängige Zwergstaaten: die Vatikanstadt und San Marino.","Rom, die Hauptstadt, ist fast 3.000 Jahre alt.","Italien ist der weltweit größte Weinproduzent.","Die Farben der italienischen Flagge stehen für Hoffnung (grün), Glaube (weiß) und Nächstenliebe (rot).","Es besitzt die einzigen aktiven Vulkane Europas: Vesuv, Ätna und Stromboli.","Die Pizza wurde im 18. Jahrhundert in Neapel erfunden.","Die älteste ununterbrochen betriebene Universität ist die 1088 gegründete Universität Bologna."],
+      hu: ["Olaszországban található a világon a legtöbb UNESCO Világörökségi helyszín.","Az ország két független törpeállamot vesz körül: a Vatikánt és San Marinót.","A főváros, Róma közel 3000 éves múlttal rendelkezik.","Olaszország a világ legnagyobb bortermelője.","Az olasz zászló színei a reményt (zöld), a hitet (fehér) és a jótékonyságot (piros) jelképezik.","Itt találhatók Európa egyetlen aktív vulkánjai: a Vezúv, az Etna és a Stromboli.","A pizzát Nápolyban találták fel a 18. században.","A legrégebbi folyamatosan működő egyetem az 1088-ban alapított Bolognai Egyetem."],
+      ro: ["Italia are cele mai multe situri din Patrimoniul Mondial UNESCO din lume.","Țara înconjoară două microstate independente: Cetatea Vaticanului și San Marino.","Roma, capitala, are o vechime de aproape 3.000 de ani.","Italia este cel mai mare producător de vin din lume.","Culorile steagului italian reprezintă speranța (verde), credința (alb) și caritatea (roșu).","Găzduiește singurii vulcani activi din Europa: Vezuviu, Etna și Stromboli.","Pizza a fost inventată în Napoli în secolul al XVIII-lea.","Cea mai veche universitate în funcționare continuă este Universitatea din Bologna, fondată în 1088."]
+    },
   image: "/geo-images/italy/italy-main.webp",
 };
 
@@ -29,16 +29,16 @@ export const italyRegions: POI[] = [
     coords: [9.19, 45.46],
     name: { de: "Lombardei", hu: "Lombardia", ro: "Lombardia", en: "Lombardy" },
     description: {
-      de: "Die Lombardei ist die bevölkerungsreichste und wohlhabendste Region Italiens.",
-      hu: "Lombardia Olaszország legnépesebb és leggazdagabb régiója.",
-      ro: "Lombardia este cea mai populată și bogată regiune a Italiei.",
-      en: "Lombardy is the most populous and wealthiest region of Italy.",
+      en: "Lombardy is a region in Northern Italy known for its economic power, fashion industry, and stunning alpine lakes. Its capital, Milan, is a global hub for design, finance, and high-end fashion, attracting visitors worldwide. The region's geography ranges from the Po Valley plains to the towering peaks of the Alps. It boasts famous lakes such as Lake Como, Lake Garda, and Lake Maggiore, which are popular tourist destinations. Lombardy also features a rich historical heritage, including Renaissance architecture and ancient Roman ruins.",
+      de: "Die Lombardei ist eine Region in Norditalien, die für ihre Wirtschaftskraft, Modeindustrie und atemberaubenden Alpenseen bekannt ist. Ihre Hauptstadt Mailand ist ein globales Zentrum für Design, Finanzen und Haute Couture und zieht Besucher aus aller Welt an. Die Geografie der Region reicht von den Ebenen der Poebene bis zu den hoch aufragenden Gipfeln der Alpen. Sie rühmt sich berühmter Seen wie dem Comer See, Gardasee und Lago Maggiore, die beliebte Touristenziele sind. Die Lombardei bietet auch ein reiches historisches Erbe, einschließlich Renaissance-Architektur und antiken römischen Ruinen.",
+      hu: "Lombardia egy észak-olaszországi régió, amely gazdasági erejéről, divatiparáról és lenyűgöző alpesi tavairól ismert. Fővárosa, Milánó, a design, a pénzügyek és a csúcsdivat globális központja, amely világszerte vonzza a látogatókat. A régió földrajza a Pó-síkságtól az Alpok magasba tornyosuló csúcsaiig terjed. Olyan híres tavakkal büszkélkedhet, mint a Comói-tó, a Garda-tó és a Maggiore-tó, amelyek népszerű turisztikai célpontok. Lombardia gazdag történelmi örökséggel is rendelkezik, beleértve a reneszánsz építészetet és az ókori római romokat.",
+      ro: "Lombardia este o regiune din nordul Italiei, cunoscută pentru puterea sa economică, industria modei și lacurile alpine uimitoare. Capitala sa, Milano, este un centru global pentru design, finanțe și modă de înaltă calitate, atrăgând vizitatori din întreaga lume. Geografia regiunii variază de la câmpiile Văii Po până la vârfurile falnice ale Alpilor. Se mândrește cu lacuri faimoase, cum ar fi Lacul Como, Lacul Garda și Lacul Maggiore, care sunt destinații turistice populare. Lombardia prezintă, de asemenea, o bogată moștenire istorică, incluzând arhitectura renascentistă și ruine romane antice."
     },
     facts: {
-      de: ["Hauptstadt ist Mailand.", "Wirtschaftliches Zentrum Italiens.", "Heimat der oberitalienischen Seen.", "Bekannt für Mode und Design."],
-      hu: ["Székhelye Milánó.", "Olaszország gazdasági központja.", "Itt találhatók az észak-olasz tavak.", "Híres a divatról és a dizájnról."],
-      ro: ["Capitala este Milano.", "Centrul economic al Italiei.", "Găzduiește lacurile din nordul Italiei.", "Cunoscută pentru modă și design."],
-      en: ["Capital is Milan.", "Economic center of Italy.", "Home to the northern Italian lakes.", "Famous for fashion and design."],
+      en: ["Lombardy is the most populous and richest region in Italy.","Milan, its capital, is known as one of the fashion capitals of the world.","Lake Garda, the largest lake in Italy, is partially located in Lombardy.","The region is named after the Lombards, a Germanic people who ruled the area in the Middle Ages.","Leonardo da Vinci's famous painting 'The Last Supper' is located in Milan.","Lombardy produces a significant portion of Italy's GDP.","The region is famous for culinary dishes like Risotto alla Milanese and Ossobuco.","It shares a border with Switzerland to the north."],
+      de: ["Die Lombardei ist die bevölkerungsreichste und reichste Region Italiens.","Mailand, die Hauptstadt, ist als eine der Modehauptstädte der Welt bekannt.","Der Gardasee, der größte See Italiens, liegt teilweise in der Lombardei.","Die Region ist nach den Langobarden benannt, einem germanischen Volk, das im Mittelalter herrschte.","Leonardo da Vincis berühmtes Gemälde 'Das Abendmahl' befindet sich in Mailand.","Die Lombardei erwirtschaftet einen erheblichen Teil des italienischen BIP.","Die Region ist berühmt für kulinarische Gerichte wie Risotto alla Milanese und Ossobuco.","Sie grenzt im Norden an die Schweiz."],
+      hu: ["Lombardia Olaszország legnépesebb és leggazdagabb régiója.","Fővárosa, Milánó, a világ egyik divatfővárosaként ismert.","A Garda-tó, Olaszország legnagyobb tava részben Lombardiában található.","A régió a longobárdokról, egy germán népről kapta a nevét, akik a középkorban uralkodtak a területen.","Leonardo da Vinci híres festménye, 'Az utolsó vacsora' Milánóban található.","Lombardia adja az olasz GDP jelentős részét.","A régió olyan kulináris ételekről híres, mint a milánói rizottó és az Ossobuco.","Északon Svájccal határos."],
+      ro: ["Lombardia este cea mai populată și mai bogată regiune din Italia.","Milano, capitala sa, este cunoscută ca una dintre capitalele modei din lume.","Lacul Garda, cel mai mare lac din Italia, se află parțial în Lombardia.","Regiunea este numită după lombarzi, un popor germanic care a condus zona în Evul Mediu.","Celebra pictură 'Cina cea de Taină' a lui Leonardo da Vinci se află la Milano.","Lombardia produce o parte semnificativă din PIB-ul Italiei.","Regiunea este faimoasă pentru preparate culinare precum Risotto alla Milanese și Ossobuco.","Se învecinează cu Elveția la nord."]
     },
     image: "/geo-images/italy/lombardia.webp",
   },
@@ -49,16 +49,16 @@ export const italyRegions: POI[] = [
     coords: [11.25, 43.77],
     name: { de: "Toskana", hu: "Toszkána", ro: "Toscana", en: "Tuscany" },
     description: {
-      de: "Die Toskana ist weltberühmt für ihre Landschaften, Kunstgeschichte und Weine.",
-      hu: "Toszkána világhírű tájairól, művészettörténetéről és borairól.",
-      ro: "Toscana este faimoasă în întreaga lume pentru peisajele sale, istoria artei și vinuri.",
-      en: "Tuscany is world-famous for its landscapes, art history, and wines.",
+      en: "Tuscany is a central Italian region famous for its picturesque landscapes, artistic heritage, and world-class wine production. The rolling hills, adorned with cypress trees and vineyards, create some of Italy's most iconic scenery. It is widely considered the birthplace of the Italian Renaissance, with Florence at its cultural heart. Visitors flock to see masterpieces by Michelangelo and Leonardo da Vinci, as well as historic towns like Siena and Pisa. The region's rich culinary tradition is complemented by its famous Chianti wines.",
+      de: "Die Toskana ist eine zentralitalienische Region, die für ihre malerischen Landschaften, ihr künstlerisches Erbe und ihre erstklassige Weinproduktion berühmt ist. Die sanften Hügel, geschmückt mit Zypressen und Weinbergen, bilden einige der ikonischsten Kulissen Italiens. Sie gilt weithin als Geburtsort der italienischen Renaissance, mit Florenz als ihrem kulturellen Zentrum. Besucher strömen herbei, um Meisterwerke von Michelangelo und Leonardo da Vinci sowie historische Städte wie Siena und Pisa zu sehen. Die reiche kulinarische Tradition der Region wird durch ihre berühmten Chianti-Weine ergänzt.",
+      hu: "Toszkána egy közép-olaszországi régió, amely festői tájairól, művészeti örökségéről és világszínvonalú bortermeléséről híres. A ciprusfákkal és szőlőültetvényekkel díszített dombok Olaszország legikonikusabb tájait alkotják. Széles körben az olasz reneszánsz szülőhelyének tartják, melynek kulturális központja Firenze. A látogatók özönlenek, hogy lássák Michelangelo és Leonardo da Vinci remekműveit, valamint olyan történelmi városokat, mint Siena és Pisa. A régió gazdag kulináris hagyományait híres Chianti borai egészítik ki.",
+      ro: "Toscana este o regiune centrală a Italiei faimoasă pentru peisajele sale pitorești, moștenirea artistică și producția de vin de clasă mondială. Dealurile ondulate, împodobite cu chiparoși și podgorii, creează unele dintre cele mai emblematice decoruri ale Italiei. Este considerată pe scară largă locul de naștere al Renașterii italiene, cu Florența ca centru său cultural. Vizitatorii se adună pentru a vedea capodopere de Michelangelo și Leonardo da Vinci, precum și orașe istorice precum Siena și Pisa. Bogata tradiție culinară a regiunii este completată de faimoasele sale vinuri Chianti."
     },
     facts: {
-      de: ["Hauptstadt ist Florenz.", "Geburtsort der Renaissance.", "Bekannt für den Chianti-Wein.", "Heimat des Schiefen Turms von Pisa."],
-      hu: ["Székhelye Firenze.", "A reneszánsz szülőhelye.", "Híres a Chianti borról.", "Itt található a pisai ferde torony."],
-      ro: ["Capitala este Florența.", "Locul de naștere al Renașterii.", "Cunoscută pentru vinul Chianti.", "Găzduiește Turnul Înclinat din Pisa."],
-      en: ["Capital is Florence.", "Birthplace of the Renaissance.", "Famous for Chianti wine.", "Home to the Leaning Tower of Pisa."],
+      en: ["Florence is the capital city of the Tuscany region.","Tuscany is home to the famous Leaning Tower of Pisa.","The region is renowned for its Chianti, Brunello di Montalcino, and Vino Nobile di Montepulciano wines.","Italian language is based on the Tuscan dialect, popularized by writers like Dante Alighieri.","It features seven UNESCO World Heritage Sites.","Tuscany has a long coastline on the Tyrrhenian Sea.","The Palio di Siena is a famous medieval horse race held twice a year.","Sunflowers are widely cultivated in the region, blooming beautifully in summer."],
+      de: ["Florenz ist die Hauptstadt der Region Toskana.","In der Toskana befindet sich der berühmte Schiefe Turm von Pisa.","Die Region ist bekannt für ihre Weine Chianti, Brunello di Montalcino und Vino Nobile di Montepulciano.","Die italienische Sprache basiert auf dem toskanischen Dialekt, der von Dante Alighieri populär gemacht wurde.","Sie verfügt über sieben UNESCO-Welterbestätten.","Die Toskana hat eine lange Küste am Tyrrhenischen Meer.","Der Palio di Siena ist ein berühmtes mittelalterliches Pferderennen, das zweimal im Jahr stattfindet.","Sonnenblumen werden in der Region weit verbreitet angebaut und blühen im Sommer wunderschön."],
+      hu: ["Firenze a Toszkána régió fővárosa.","Toszkánában található a híres pisai ferde torony.","A régió híres Chianti, Brunello di Montalcino és Vino Nobile di Montepulciano borairól.","Az olasz nyelv a toszkán dialektuson alapul, amelyet Dante Alighieri írói tettek népszerűvé.","Hét UNESCO Világörökségi helyszínnel rendelkezik.","Toszkánának hosszú partvonala van a Tirrén-tenger mentén.","A Palio di Siena egy híres középkori lóverseny, amelyet évente kétszer rendeznek meg.","A régióban széles körben termesztenek napraforgót, ami nyáron gyönyörűen virágzik."],
+      ro: ["Florența este capitala regiunii Toscana.","În Toscana se află faimosul Turn Înclinat din Pisa.","Regiunea este renumită pentru vinurile sale Chianti, Brunello di Montalcino și Vino Nobile di Montepulciano.","Limba italiană se bazează pe dialectul toscan, popularizat de scriitori precum Dante Alighieri.","Are șapte situri din Patrimoniul Mondial UNESCO.","Toscana are o coastă lungă la Marea Tireniană.","Palio di Siena este o celebră cursă medievală de cai desfășurată de două ori pe an.","Floarea-soarelui este cultivată pe scară largă în regiune, înflorind frumos vara."]
     },
     image: "/geo-images/italy/toscana.webp",
   },
@@ -69,16 +69,16 @@ export const italyRegions: POI[] = [
     coords: [14.0, 37.5],
     name: { de: "Sizilien", hu: "Szicília", ro: "Sicilia", en: "Sicily" },
     description: {
-      de: "Sizilien ist die größte Insel im Mittelmeer und reich an antiken Ruinen.",
-      hu: "Szicília a Földközi-tenger legnagyobb szigete, gazdag ókori romokban.",
-      ro: "Sicilia este cea mai mare insulă din Marea Mediterană și este bogată în ruine antice.",
-      en: "Sicily is the largest island in the Mediterranean and rich in ancient ruins.",
+      en: "Sicily is the largest island in the Mediterranean Sea and an autonomous region of Italy. It has a deeply complex history, having been ruled by Greeks, Romans, Arabs, Normans, and Spanish, all of whom left their cultural marks. The island's striking landscapes feature stunning coastlines, rugged mountains, and Europe's highest active volcano, Mount Etna. Sicily is famous for its distinct cuisine, vibrant markets, and well-preserved ancient ruins like the Valley of the Temples. It offers a unique blend of cultures that distinguishes it from mainland Italy.",
+      de: "Sizilien ist die größte Insel im Mittelmeer und eine autonome Region Italiens. Sie hat eine tief komplexe Geschichte, da sie von Griechen, Römern, Arabern, Normannen und Spaniern beherrscht wurde, die alle ihre kulturellen Spuren hinterlassen haben. Die markanten Landschaften der Insel umfassen atemberaubende Küsten, schroffe Berge und Europas höchsten aktiven Vulkan, den Ätna. Sizilien ist berühmt für seine einzigartige Küche, lebhaften Märkte und gut erhaltenen antiken Ruinen wie das Tal der Tempel. Es bietet eine einzigartige Mischung aus Kulturen, die es vom italienischen Festland unterscheidet.",
+      hu: "Szicília a Földközi-tenger legnagyobb szigete és Olaszország autonóm régiója. Mélyen összetett történelemmel rendelkezik, hiszen görögök, rómaiak, arabok, normannok és spanyolok is uralták, akik mind kulturális nyomot hagytak. A sziget lenyűgöző tájai között lenyűgöző tengerpartok, zord hegyek és Európa legmagasabb aktív vulkánja, az Etna is megtalálható. Szicília híres különleges konyhájáról, nyüzsgő piacairól és a jól megőrzött ókori romjairól, mint amilyen a Templomok Völgye. A kultúrák egyedi keverékét kínálja, amely megkülönbözteti a szárazföldi Olaszországtól.",
+      ro: "Sicilia este cea mai mare insulă din Marea Mediterană și o regiune autonomă a Italiei. Are o istorie profund complexă, fiind condusă de greci, romani, arabi, normanzi și spanioli, toți lăsându-și amprenta culturală. Peisajele uimitoare ale insulei prezintă coaste uimitoare, munți accidentați și cel mai înalt vulcan activ din Europa, Muntele Etna. Sicilia este faimoasă pentru bucătăria sa distinctă, piețele vibrante și ruinele antice bine conservate, cum ar fi Valea Templelor. Oferă un amestec unic de culturi care o distinge de Italia continentală."
     },
     facts: {
-      de: ["Hauptstadt ist Palermo.", "Heimat des Vulkans Ätna.", "Bekannt für Arancini und Cannoli.", "Besitzt beeindruckende griechische Tempel."],
-      hu: ["Székhelye Palermo.", "Az Etna vulkán hazája.", "Híres az aranciniről és a cannoliról.", "Lenyűgöző görög templomokkal rendelkezik."],
-      ro: ["Capitala este Palermo.", "Găzduiește vulcanul Etna.", "Cunoscută pentru arancini și cannoli.", "Deține temple grecești impresionante."],
-      en: ["Capital is Palermo.", "Home to Mount Etna.", "Famous for arancini and cannoli.", "Has impressive Greek temples."],
+      en: ["Sicily is separated from the Italian mainland by the narrow Strait of Messina.","Mount Etna in Sicily is one of the most active volcanoes in the world.","Palermo is the capital and largest city of the region.","The island has its own distinct language, Sicilian, though Italian is primarily spoken.","The Valley of the Temples in Agrigento is a prime example of Greater Greece architecture.","Cannoli, the famous pastry dessert, originated in Sicily.","Sicily is highly agricultural, known for producing lemons, oranges, and olives.","Archimedes, the famous mathematician and inventor, was born in Syracuse, Sicily."],
+      de: ["Sizilien ist durch die schmale Straße von Messina vom italienischen Festland getrennt.","Der Ätna auf Sizilien ist einer der aktivsten Vulkane der Welt.","Palermo ist die Hauptstadt und größte Stadt der Region.","Die Insel hat ihre eigene, eigenständige Sprache, Sizilianisch, obwohl hauptsächlich Italienisch gesprochen wird.","Das Tal der Tempel in Agrigento ist ein Paradebeispiel für die Architektur von Großgriechenland.","Cannoli, das berühmte Gebäckdessert, stammt aus Sizilien.","Sizilien ist stark landwirtschaftlich geprägt und bekannt für den Anbau von Zitronen, Orangen und Oliven.","Archimedes, der berühmte Mathematiker und Erfinder, wurde im sizilianischen Syrakus geboren."],
+      hu: ["Szicíliát a keskeny Messinai-szoros választja el az olasz szárazföldtől.","A szicíliai Etna a világ egyik legaktívabb vulkánja.","Palermo a régió fővárosa és legnagyobb városa.","A szigetnek saját, különálló nyelve van, a szicíliai, bár elsősorban olaszt beszélnek.","Az agrigentói Templomok Völgye a Magna Graecia építészetének kiváló példája.","A Cannoli, a híres tésztadesszert Szicíliából származik.","Szicília erősen mezőgazdasági jellegű, ismert citrom-, narancs- és olajbogyó-termesztéséről.","Arkhimédész, a híres matematikus és feltaláló a szicíliai Siracusában született."],
+      ro: ["Sicilia este separată de continentul italian de strâmtoarea îngustă Messina.","Muntele Etna din Sicilia este unul dintre cei mai activi vulcani din lume.","Palermo este capitala și cel mai mare oraș al regiunii.","Insula are propria limbă distinctă, siciliana, deși limba italiană este vorbită în principal.","Valea Templelor din Agrigento este un prim exemplu al arhitecturii Greciei Mari.","Cannoli, faimosul desert de patiserie, își are originea în Sicilia.","Sicilia este puternic agricolă, cunoscută pentru producerea de lămâi, portocale și măsline.","Arhimede, celebrul matematician și inventator, s-a născut la Siracuza, Sicilia."]
     },
     image: "/geo-images/italy/sicilia.webp",
   },
@@ -89,16 +89,16 @@ export const italyRegions: POI[] = [
     coords: [12.33, 45.43],
     name: { de: "Venetien", hu: "Veneto", ro: "Veneto", en: "Veneto" },
     description: {
-      de: "Venetien ist eine Region im Nordosten Italiens, die von den Dolomiten bis zur Adria reicht.",
-      hu: "Veneto északkelet-olaszországi régió, amely a Dolomitoktól az Adriai-tengerig terjed.",
-      ro: "Veneto este o regiune din nord-estul Italiei, care se întinde de la Dolomiți până la Marea Adriatică.",
-      en: "Veneto is a region in northeastern Italy, stretching from the Dolomites to the Adriatic Sea.",
+      en: "Veneto is an enchanting region in northeastern Italy, stretching from the Dolomite Mountains to the Adriatic Sea. Its most famous city is Venice, globally renowned for its canals, historic architecture, and romantic gondolas. The region was once the heart of the powerful Venetian Republic, which dominated Mediterranean trade for centuries. Veneto features diverse landscapes, including the Prosecco wine hills, Lake Garda's eastern shore, and vast agricultural plains. It is a vital cultural and economic hub, blending rich history with modern industry.",
+      de: "Venetien ist eine bezaubernde Region im Nordosten Italiens, die sich von den Dolomiten bis zur Adria erstreckt. Ihre berühmteste Stadt ist Venedig, weltweit bekannt für ihre Kanäle, historische Architektur und romantische Gondeln. Die Region war einst das Herz der mächtigen Republik Venedig, die den Mittelmeerhandel jahrhundertelang dominierte. Venetien bietet vielfältige Landschaften, darunter die Prosecco-Weinhügel, das Ostufer des Gardasees und weite landwirtschaftliche Ebenen. Es ist ein wichtiges kulturelles und wirtschaftliches Zentrum, das reiche Geschichte mit moderner Industrie verbindet.",
+      hu: "Veneto egy varázslatos régió Északkelet-Olaszországban, amely a Dolomitoktól az Adriai-tengerig húzódik. Leghíresebb városa Velence, amely világszerte ismert csatornáiról, történelmi építészetéről és romantikus gondoláiról. A régió egykor a hatalmas Velencei Köztársaság szíve volt, amely évszázadokon át uralta a mediterrán kereskedelmet. Veneto változatos tájakkal rendelkezik, beleértve a Prosecco borvidék dombjait, a Garda-tó keleti partját és hatalmas mezőgazdasági síkságokat. Létfontosságú kulturális és gazdasági központ, amely ötvözi a gazdag történelmet a modern iparral.",
+      ro: "Veneto este o regiune încântătoare din nord-estul Italiei, care se întinde de la Munții Dolomiți până la Marea Adriatică. Cel mai faimos oraș al său este Veneția, renumit la nivel global pentru canalele sale, arhitectura istorică și gondolele romantice. Regiunea a fost cândva inima puternicii Republici Venețiene, care a dominat comerțul mediteranean timp de secole. Veneto are peisaje diverse, inclusiv dealurile viticole Prosecco, malul estic al Lacului Garda și vaste câmpii agricole. Este un centru cultural și economic vital, care îmbină istoria bogată cu industria modernă."
     },
     facts: {
-      de: ["Hauptstadt ist Venedig.", "Bekannt für die Lagunenstadt.", "Heimat des Prosecco.", "Besitzt die Arena von Verona."],
-      hu: ["Székhelye Velence.", "A lagúnák városáról híres.", "A Prosecco hazája.", "Itt található a veronai Aréna."],
-      ro: ["Capitala este Veneția.", "Cunoscută pentru orașul lagunelor.", "Patria vinului Prosecco.", "Deține Arena din Verona."],
-      en: ["Capital is Venice.", "Famous for the city of lagoons.", "Home of Prosecco.", "Has the Verona Arena."],
+      en: ["Venice is the capital of the Veneto region.","Verona, the setting for Shakespeare's Romeo and Juliet, is located in Veneto.","The region is the birthplace of Prosecco, the popular Italian sparkling wine.","The Dolomite mountains in the north offer world-class skiing and hiking.","Veneto was an independent republic for over 1,000 years.","Padua is home to one of the oldest universities in the world, founded in 1222.","Tiramisu, the famous coffee-flavored dessert, originated in the Veneto region.","The region holds a major carnival in Venice, known for elaborate masks and costumes."],
+      de: ["Venedig ist die Hauptstadt der Region Venetien.","Verona, der Schauplatz von Shakespeares Romeo und Julia, liegt in Venetien.","Die Region ist der Geburtsort des Prosecco, des beliebten italienischen Schaumweins.","Die Dolomiten im Norden bieten Weltklasse-Skifahren und Wandern.","Venetien war über 1.000 Jahre lang eine unabhängige Republik.","In Padua befindet sich eine der ältesten Universitäten der Welt, die 1222 gegründet wurde.","Tiramisu, das berühmte nach Kaffee schmeckende Dessert, stammt aus Venetien.","Die Region veranstaltet einen großen Karneval in Venedig, der für seine aufwendigen Masken und Kostüme bekannt ist."],
+      hu: ["Velence a Veneto régió fővárosa.","Verona, Shakespeare Rómeó és Júliájának helyszíne Venetóban található.","A régió a népszerű olasz habzóbor, a Prosecco szülőhelye.","Az északi Dolomitok hegyei világszínvonalú síelést és túrázást kínálnak.","Veneto több mint 1000 évig független köztársaság volt.","Padova ad otthont a világ egyik legrégebbi egyetemének, amelyet 1222-ben alapítottak.","A Tiramisu, a híres kávé ízű desszert a Veneto régióból származik.","A régió nagy karnevált tart Velencében, amely a bonyolult maszkokról és jelmezekről ismert."],
+      ro: ["Veneția este capitala regiunii Veneto.","Verona, cadrul pentru Romeo și Julieta de Shakespeare, este situată în Veneto.","Regiunea este locul de naștere al Prosecco, popularul vin spumant italian.","Munții Dolomiți din nord oferă schi și drumeții de clasă mondială.","Veneto a fost o republică independentă timp de peste 1.000 de ani.","Padova găzduiește una dintre cele mai vechi universități din lume, fondată în 1222.","Tiramisu, faimosul desert cu aromă de cafea, își are originea în regiunea Veneto.","Regiunea organizează un carnaval major în Veneția, cunoscut pentru măștile și costumele elaborate."]
     },
     image: "/geo-images/italy/veneto.webp",
   },
@@ -109,16 +109,16 @@ export const italyRegions: POI[] = [
     coords: [12.49, 41.89],
     name: { de: "Latium", hu: "Lazio", ro: "Lazio", en: "Lazio" },
     description: {
-      de: "Latium ist die Region in Mittelitalien, in der sich die Hauptstadt Rom befindet.",
-      hu: "Lazio közép-olaszországi régió, ahol a főváros, Róma található.",
-      ro: "Lazio este regiunea din centrul Italiei unde se află capitala, Roma.",
-      en: "Lazio is the region in central Italy where the capital, Rome, is located.",
+      en: "Lazio is a central Italian region bordered by the Tyrrhenian Sea, celebrated for its rich history and profound cultural legacy. It serves as the home to Rome, Italy's capital, which is the heart of the region. Lazio features a diverse landscape that includes volcanic lakes, rugged mountains, and beautiful coastal stretches. It was the cradle of the ancient Roman Empire and the Papal States, leaving behind innumerable archaeological and architectural treasures. Today, it remains a vital political, historical, and touristic center in Italy.",
+      de: "Latium ist eine zentralitalienische Region am Tyrrhenischen Meer, berühmt für ihre reiche Geschichte und ihr tiefgreifendes kulturelles Erbe. Sie beheimatet Rom, die Hauptstadt Italiens, die das Herz der Region bildet. Latium bietet eine vielfältige Landschaft, die vulkanische Seen, schroffe Berge und wunderschöne Küstenstreifen umfasst. Es war die Wiege des antiken Römischen Reiches und des Kirchenstaates und hinterließ unzählige archäologische und architektonische Schätze. Heute bleibt es ein wichtiges politisches, historisches und touristisches Zentrum in Italien.",
+      hu: "Lazio egy közép-olaszországi régió a Tirrén-tenger partján, amelyet gazdag történelme és mély kulturális öröksége miatt ünnepelnek. Itt található Róma, Olaszország fővárosa, amely a régió szíve. Lazio változatos tájjal rendelkezik, amely vulkáni tavakat, zord hegyeket és gyönyörű tengerparti szakaszokat foglal magába. Az ókori Római Birodalom és a Pápai Állam bölcsője volt, és számtalan régészeti és építészeti kincset hagyott hátra. Ma is létfontosságú politikai, történelmi és turisztikai központ Olaszországban.",
+      ro: "Lazio este o regiune din centrul Italiei mărginita de Marea Tireniană, celebrată pentru istoria sa bogată și moștenirea culturală profundă. Găzduiește Roma, capitala Italiei, care este inima regiunii. Lazio prezintă un peisaj divers care include lacuri vulcanice, munți accidentați și întinderi de coastă frumoase. A fost leagănul anticului Imperiu Roman și al Statelor Papale, lăsând în urmă nenumărate comori arheologice și arhitecturale. Astăzi, rămâne un centru politic, istoric și turistic vital în Italia."
     },
     facts: {
-      de: ["Hauptstadt ist Rom.", "Zentrum des antiken Römischen Reiches.", "Beherbergt den Vatikanstadt.", "Bekannt für die Via Appia."],
-      hu: ["Székhelye Róma.", "Az ókori Római Birodalom központja.", "Itt található a Vatikán.", "Híres a Via Appiáról."],
-      ro: ["Capitala este Roma.", "Centrul anticului Imperiu Roman.", "Găzduiește Vaticanul.", "Cunoscută pentru Via Appia."],
-      en: ["Capital is Rome.", "Center of the ancient Roman Empire.", "Houses Vatican City.", "Famous for the Appian Way."],
+      en: ["Rome is both the capital of the Lazio region and of Italy.","Lazio is home to Vatican City, an independent country within Rome.","The region is known for its beautiful volcanic lakes, like Lake Bracciano and Lake Bolsena.","Tivoli in Lazio hosts the spectacular Villa d'Este and Hadrian's Villa.","The ancient port city of Ostia Antica is located in Lazio.","It is famous for classic Roman pasta dishes like Carbonara and Amatriciana.","The Appian Way, one of the earliest Roman roads, runs through Lazio.","The Etruscans lived in the northern part of Lazio before the rise of Rome."],
+      de: ["Rom ist sowohl die Hauptstadt der Region Latium als auch von Italien.","Latium beheimatet die Vatikanstadt, ein unabhängiges Land innerhalb Roms.","Die Region ist bekannt für ihre wunderschönen vulkanischen Seen wie den Braccianosee und den Bolsenasee.","Tivoli in Latium beherbergt die spektakuläre Villa d'Este und die Hadriansvilla.","Die antike Hafenstadt Ostia Antica befindet sich in Latium.","Es ist berühmt für klassische römische Nudelgerichte wie Carbonara und Amatriciana.","Die Via Appia, eine der ältesten Römerstraßen, verläuft durch Latium.","Die Etrusker lebten im nördlichen Teil von Latium vor dem Aufstieg Roms."],
+      hu: ["Róma egyaránt a Lazio régió és Olaszország fővárosa.","Lazio ad otthont a Vatikánnak, egy Rómán belüli független országnak.","A régió ismert gyönyörű vulkáni tavairól, mint a Bracciano-tó és a Bolsenai-tó.","A laziói Tivoliban található a látványos Villa d'Este és Hadrianus villája.","Ostia Antica ókori kikötővárosa Lazióban található.","Híres a klasszikus római tésztaételekről, mint a Carbonara és az Amatriciana.","A Via Appia, a legkorábbi római utak egyike, Lazión halad keresztül.","Az etruszkok Lazio északi részén éltek Róma felemelkedése előtt."],
+      ro: ["Roma este atât capitala regiunii Lazio, cât și a Italiei.","Lazio găzduiește Vaticanul, o țară independentă în interiorul Romei.","Regiunea este cunoscută pentru frumoasele sale lacuri vulcanice, cum ar fi Lacul Bracciano și Lacul Bolsena.","Tivoli din Lazio găzduiește spectaculoasa Villa d'Este și Vila lui Hadrian.","Vechiul oraș portuar Ostia Antica este situat în Lazio.","Este faimos pentru mâncărurile clasice de paste romane precum Carbonara și Amatriciana.","Via Appia, unul dintre primele drumuri romane, trece prin Lazio.","Etruscii au trăit în partea de nord a Lazio înainte de ascensiunea Romei."]
     },
     image: "/geo-images/italy/lazio.webp",
   },
@@ -132,16 +132,16 @@ export const italyCities: POI[] = [
     coords: [12.4964, 41.9028],
     name: { de: "Rom", hu: "Róma", ro: "Roma", en: "Rome" },
     description: {
-      de: "Rom, die 'Ewige Stadt', ist die Hauptstadt Italiens und reich an antiker Geschichte.",
-      hu: "Róma, az 'Örök Város', Olaszország fővárosa és gazdag az ókori történelemben.",
-      ro: "Roma, 'Orașul Etern', este capitala Italiei și este bogată în istorie antică.",
-      en: "Rome, the 'Eternal City', is the capital of Italy and rich in ancient history.",
+      en: "Rome, the capital city of Italy, is a sprawling, cosmopolitan metropolis with nearly 3,000 years of globally influential art, architecture, and culture on display. Ancient ruins such as the Forum and the Colosseum evoke the power of the former Roman Empire. Vatican City, headquarters of the Roman Catholic Church, has St. Peter's Basilica and the Vatican Museums, which house masterpieces such as Michelangelo's Sistine Chapel frescoes. Rome blends its historic monuments with a vibrant modern life, renowned cuisine, and bustling street culture.",
+      de: "Rom, die Hauptstadt Italiens, ist eine weitläufige, kosmopolitische Metropole, in der fast 3.000 Jahre weltweit einflussreicher Kunst, Architektur und Kultur ausgestellt sind. Antike Ruinen wie das Forum und das Kolosseum zeugen von der Macht des ehemaligen Römischen Reiches. Die Vatikanstadt, der Hauptsitz der römisch-katholischen Kirche, beherbergt den Petersdom und die Vatikanischen Museen mit Meisterwerken wie Michelangelos Fresken in der Sixtinischen Kapelle. Rom verbindet seine historischen Denkmäler mit einem pulsierenden modernen Leben, renommierter Küche und geschäftiger Straßenkultur.",
+      hu: "Róma, Olaszország fővárosa egy kiterjedt, kozmopolita metropolisz, ahol közel 3000 év globálisan is jelentős művészete, építészete és kultúrája tekinthető meg. Az ókori romok, mint a Forum és a Colosseum a hajdani Római Birodalom hatalmát idézik. A Vatikánban, a római katolikus egyház központjában található a Szent Péter-bazilika és a Vatikáni Múzeumok, amelyek olyan remekműveknek adnak otthont, mint Michelangelo Sixtus-kápolnai freskói. Róma történelmi emlékeit vibráló modern élettel, híres konyhával és nyüzsgő utcai kultúrával ötvözi.",
+      ro: "Roma, capitala Italiei, este o metropolă vastă și cosmopolită, cu o istorie de aproape 3.000 de ani de artă, arhitectură și cultură cu influență globală. Ruinele antice, cum ar fi Forumul și Colosseumul, evocă puterea fostului Imperiu Roman. Vaticanul, sediul Bisericii Catolice, are Bazilica Sfântul Petru și Muzeele Vaticanului, care adăpostesc capodopere precum frescele Capelei Sixtine ale lui Michelangelo. Roma își îmbină monumentele istorice cu o viață modernă vibrantă, bucătărie renumită și o cultură stradală plină de viață."
     },
     facts: {
-      de: ["Größte Stadt Italiens.", "Heimat des Kolosseums.", "Umschließt den Vatikan.", "Bekannt für den Trevi-Brunnen."],
-      hu: ["Olaszország legnagyobb városa.", "A Kolosszeum hazája.", "Körülöleli a Vatikánt.", "Híres a Trevi-kútról."],
-      ro: ["Cel mai mare oraș din Italia.", "Găzduiește Colosseumul.", "Înconjoară Vaticanul.", "Cunoscută pentru Fontana di Trevi."],
-      en: ["Largest city in Italy.", "Home to the Colosseum.", "Encloses the Vatican.", "Famous for the Trevi Fountain."],
+      en: ["Rome is often referred to as the 'Eternal City'.","It was founded in 753 BC, according to tradition by Romulus and Remus.","The Colosseum is the largest ancient amphitheater ever built.","Rome is the only city in the world to contain a whole state (Vatican City) within its interior.","The Trevi Fountain collects thousands of euros in coins every day, which are donated to charity.","Rome has a museum dedicated entirely to pasta.","The Pantheon in Rome is the most preserved and influential building of ancient Rome.","There are over 900 churches in Rome."],
+      de: ["Rom wird oft als die 'Ewige Stadt' bezeichnet.","Es wurde 753 v. Chr. der Tradition nach von Romulus und Remus gegründet.","Das Kolosseum ist das größte jemals erbaute antike Amphitheater.","Rom ist die einzige Stadt der Welt, die einen ganzen Staat (Vatikanstadt) in ihrem Inneren beherbergt.","Der Trevi-Brunnen sammelt jeden Tag Tausende von Euro in Münzen, die für wohltätige Zwecke gespendet werden.","Rom hat ein Museum, das ausschließlich der Pasta gewidmet ist.","Das Pantheon in Rom ist das am besten erhaltene und einflussreichste Gebäude des antiken Roms.","Es gibt über 900 Kirchen in Rom."],
+      hu: ["Rómát gyakran az 'Örök Városként' emlegetik.","Kr. e. 753-ban alapították, a hagyomány szerint Romulus és Remus.","A Colosseum a legnagyobb valaha épült ókori amfiteátrum.","Róma az egyetlen város a világon, amelynek belsejében egy egész állam (Vatikán) található.","A Trevi-kút naponta több ezer eurónyi érmét gyűjt össze, amelyet jótékonysági célokra adományoznak.","Rómában található egy múzeum, amelyet teljes egészében a tésztának szenteltek.","A római Pantheon az ókori Róma leginkább megőrzött és leghatásosabb épülete.","Rómában több mint 900 templom található."],
+      ro: ["Roma este adesea menționată ca 'Orașul Etern'.","A fost fondată în 753 î.Hr., conform tradiției de Romulus și Remus.","Colosseumul este cel mai mare amfiteatru antic construit vreodată.","Roma este singurul oraș din lume care conține un stat întreg (Vaticanul) în interiorul său.","Fântâna Trevi colectează mii de euro în monede în fiecare zi, care sunt donați în scopuri caritabile.","Roma are un muzeu dedicat în întregime pastelor.","Panteonul din Roma este cea mai conservată și influentă clădire a Romei antice.","Există peste 900 de biserici în Roma."]
     },
     image: "/geo-images/italy/rome.webp",
   },
@@ -152,16 +152,16 @@ export const italyCities: POI[] = [
     coords: [9.19, 45.4642],
     name: { de: "Mailand", hu: "Milánó", ro: "Milano", en: "Milan" },
     description: {
-      de: "Mailand ist eine Weltstadt der Mode und des Designs sowie ein wichtiges Finanzzentrum.",
-      hu: "Milánó a divat és a dizájn világvárosa, valamint fontos pénzügyi központ.",
-      ro: "Milano este o metropolă mondială a modei și designului, precum și un important centru financiar.",
-      en: "Milan is a global city of fashion and design, as well as an important financial center.",
+      en: "Milan, a metropolis in Italy's northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it is a financial hub known for its high-end restaurants and shops. The Gothic Duomo di Milano cathedral and the Santa Maria delle Grazie convent, housing Leonardo da Vinci's mural 'The Last Supper', testify to centuries of art and culture. Milan flawlessly blends historical grandeur with a fast-paced modern lifestyle, attracting business professionals, artists, and tourists alike.",
+      de: "Mailand, eine Metropole in der norditalienischen Region Lombardei, ist eine globale Hauptstadt der Mode und des Designs. Als Sitz der nationalen Börse ist es ein Finanzzentrum, das für seine gehobenen Restaurants und Geschäfte bekannt ist. Die gotische Kathedrale Duomo di Milano und das Kloster Santa Maria delle Grazie, das Leonardo da Vincis Wandgemälde 'Das Abendmahl' beherbergt, zeugen von jahrhundertelanger Kunst und Kultur. Mailand verbindet makellos historische Größe mit einem schnelllebigen modernen Lebensstil und zieht Geschäftsleute, Künstler und Touristen gleichermaßen an.",
+      hu: "Milánó, az észak-olaszországi Lombardia régió metropolisza, a divat és a design globális fővárosa. A nemzeti tőzsde otthona, és luxuséttermeiről, valamint üzleteiről ismert pénzügyi központ. A gótikus milánói dóm és a Santa Maria delle Grazie kolostor, amely Leonardo da Vinci 'Az utolsó vacsora' című freskójának ad otthont, az évszázados művészetről és kultúráról tanúskodik. Milánó hibátlanul ötvözi a történelmi nagyságot a felgyorsult modern életmóddal, egyaránt vonzva az üzletembereket, művészeket és turistákat.",
+      ro: "Milano, o metropolă în regiunea de nord a Lombardiei, este o capitală globală a modei și designului. Găzduind bursa națională, este un centru financiar cunoscut pentru restaurantele și magazinele sale de lux. Catedrala gotică Duomo di Milano și mănăstirea Santa Maria delle Grazie, care găzduiește pictura murală 'Cina cea de Taină' a lui Leonardo da Vinci, mărturisesc secole de artă și cultură. Milano îmbină impecabil grandoarea istorică cu un stil de viață modern alert, atrăgând deopotrivă oameni de afaceri, artiști și turiști."
     },
     facts: {
-      de: ["Berühmt für den Mailänder Dom.", "Heimat des Abendmahls von Da Vinci.", "Zentrum der italienischen Mode.", "Besitzt das Opernhaus La Scala."],
-      hu: ["Híres a milánói dómról.", "Itt található Da Vinci Az utolsó vacsora című műve.", "Az olasz divat központja.", "Itt található a La Scala operaház."],
-      ro: ["Faimos pentru Domul din Milano.", "Găzduiește 'Cina cea de Taină' a lui Da Vinci.", "Centrul modei italiene.", "Deține opera La Scala."],
-      en: ["Famous for the Milan Cathedral.", "Home to Da Vinci's Last Supper.", "Center of Italian fashion.", "Has the La Scala opera house."],
+      en: ["Milan is the second most populous city in Italy after Rome.","The Duomo di Milano took nearly six centuries to complete.","It hosts the Milan Fashion Week, one of the most important fashion events globally.","The Galleria Vittorio Emanuele II is Italy's oldest active shopping mall.","Milan is home to two major football clubs: AC Milan and Inter Milan.","The city has an extensive tram network dating back to 1881.","It was the capital of the Western Roman Empire from 286 to 402 AD.","Milan features the Navigli, a system of navigable and interconnected canals."],
+      de: ["Mailand ist nach Rom die zweitbevölkerungsreichste Stadt Italiens.","Der Bau des Mailänder Doms dauerte fast sechs Jahrhunderte.","Es ist Gastgeber der Milan Fashion Week, eines der wichtigsten Modeereignisse weltweit.","Die Galleria Vittorio Emanuele II ist Italiens ältestes aktives Einkaufszentrum.","Mailand beheimatet zwei große Fußballvereine: AC Mailand und Inter Mailand.","Die Stadt verfügt über ein ausgedehntes Straßenbahnnetz, das bis ins Jahr 1881 zurückreicht.","Sie war von 286 bis 402 n. Chr. die Hauptstadt des Weströmischen Reiches.","Mailand verfügt über die Navigli, ein System schiffbarer und miteinander verbundener Kanäle."],
+      hu: ["Róma után Milánó Olaszország második legnépesebb városa.","A milánói dóm építése közel hat évszázadig tartott.","Itt rendezik a milánói divathetet, amely globálisan a legfontosabb divatesemények egyike.","A Galleria Vittorio Emanuele II Olaszország legrégebbi aktív bevásárlóközpontja.","Milánó ad otthont két nagy futballklubnak: az AC Milannak és az Inter Milannak.","A város kiterjedt villamoshálózattal rendelkezik, amely 1881-ből származik.","Kr. u. 286 és 402 között a Nyugatrómai Birodalom fővárosa volt.","Milánóban található a Navigli, egy hajózható és egymáshoz kapcsolódó csatornarendszer."],
+      ro: ["Milano este al doilea cel mai populat oraș din Italia după Roma.","Finalizarea Domului din Milano a durat aproape șase secole.","Găzduiește Săptămâna Modei de la Milano, unul dintre cele mai importante evenimente de modă la nivel global.","Galleria Vittorio Emanuele II este cel mai vechi centru comercial activ din Italia.","Milano găzduiește două cluburi majore de fotbal: AC Milan și Inter Milan.","Orașul are o rețea extinsă de tramvaie care datează din 1881.","A fost capitala Imperiului Roman de Apus între 286 și 402 d.Hr.","Milano dispune de Navigli, un sistem de canale navigabile și interconectate."]
     },
     image: "/geo-images/italy/milan.webp",
   },
@@ -172,16 +172,16 @@ export const italyCities: POI[] = [
     coords: [12.3155, 45.4408],
     name: { de: "Venedig", hu: "Velence", ro: "Veneția", en: "Venice" },
     description: {
-      de: "Venedig ist eine einzigartige Stadt, die auf über 100 kleinen Inseln in einer Lagune erbaut wurde.",
-      hu: "Velence egyedülálló város, amely több mint 100 kis szigetre épült egy lagúnában.",
-      ro: "Veneția este un oraș unic, construit pe peste 100 de insule mici într-o lagună.",
-      en: "Venice is a unique city built on more than 100 small islands in a lagoon.",
+      en: "Venice, the capital of northern Italy's Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals, including the Grand Canal thoroughfare lined with Renaissance and Gothic palaces. The central square, Piazza San Marco, contains St. Mark's Basilica, which is tiled with Byzantine mosaics, and the Campanile bell tower offering views of the city's red roofs. The romantic atmosphere, narrow alleys, and historic bridges make it an incomparable destination for global travelers.",
+      de: "Venedig, die Hauptstadt der norditalienischen Region Venetien, ist auf über 100 kleinen Inseln in einer Lagune der Adria erbaut. Es hat keine Straßen, sondern nur Kanäle, darunter den Canal Grande, der von Palästen der Renaissance und Gotik gesäumt ist. Der zentrale Platz, die Piazza San Marco, beherbergt den Markusdom, der mit byzantinischen Mosaiken gefliest ist, und den Glockenturm Campanile, der einen Blick auf die roten Dächer der Stadt bietet. Die romantische Atmosphäre, die engen Gassen und die historischen Brücken machen es zu einem unvergleichlichen Reiseziel für Reisende aus aller Welt.",
+      hu: "Velence, Észak-Olaszország Veneto régiójának fővárosa több mint 100 kis szigetre épült egy adriai-tengeri lagúnában. Nincsenek útjai, csak csatornái, köztük a reneszánsz és gótikus palotákkal szegélyezett Canal Grande. A központi téren, a Piazza San Marcón található a bizánci mozaikokkal burkolt Szent Márk-bazilika és a Campanile harangtorony, ahonnan kilátás nyílik a város piros tetőire. Romantikus hangulata, szűk sikátorai és történelmi hídjai egyedülálló célponttá teszik a világutazók számára.",
+      ro: "Veneția, capitala regiunii Veneto din nordul Italiei, este construită pe mai mult de 100 de insule mici într-o lagună din Marea Adriatică. Nu are drumuri, doar canale, inclusiv Canal Grande mărginit de palate renascentiste și gotice. Piața centrală, Piazza San Marco, conține Bazilica Sfântul Marcu, pavată cu mozaicuri bizantine, și clopotnița Campanile oferind vederi ale acoperișurilor roșii ale orașului. Atmosfera romantică, aleile înguste și podurile istorice o fac o destinație incomparabilă pentru călătorii globali."
     },
     facts: {
-      de: ["Bekannt für seine Kanäle und Gondeln.", "Autofreie Stadt.", "Heimat des Markusplatzes.", "Berühmt für den Karneval."],
-      hu: ["Csatornáiról és gondoláiról ismert.", "Autómentes város.", "Itt található a Szent Márk tér.", "Híres a karneválról."],
-      ro: ["Cunoscută pentru canalele și gondolele sale.", "Oraș fără mașini.", "Găzduiește Piața San Marco.", "Faimoasă pentru carnaval."],
-      en: ["Known for its canals and gondolas.", "Car-free city.", "Home to St. Mark's Square.", "Famous for the Carnival."],
+      en: ["Venice is built on millions of petrified wooden piles driven into the marsh.","There are over 400 bridges connecting the city's islands.","The city is famous for its hand-blown Murano glass and intricate Burano lace.","Acqua Alta is the periodic flooding that affects Venice during high tides.","Gondolas are asymmetrical to counterbalance the weight of the gondolier.","The Venice Film Festival is the oldest film festival in the world.","Venice was once an independent maritime republic for over a millennium.","Motorized vehicles are strictly banned in the historic center."],
+      de: ["Venedig ist auf Millionen von versteinerten Holzpfählen erbaut, die in den Sumpf getrieben wurden.","Es gibt über 400 Brücken, die die Inseln der Stadt verbinden.","Die Stadt ist berühmt für ihr mundgeblasenes Muranoglas und die aufwendige Burano-Spitze.","Acqua Alta ist die periodische Überschwemmung, die Venedig bei Flut betrifft.","Gondeln sind asymmetrisch, um das Gewicht des Gondolieres auszugleichen.","Die Filmfestspiele von Venedig sind das älteste Filmfestival der Welt.","Venedig war einst über ein Jahrtausend lang eine unabhängige Seerepublik.","Motorisierte Fahrzeuge sind im historischen Zentrum strengstens verboten."],
+      hu: ["Velence milliónyi, a mocsárba vert megkövesedett facölöpre épült.","Több mint 400 híd köti össze a város szigeteit.","A város híres kézzel fújt muranói üvegéről és bonyolult buranói csipkéjéről.","Az Acqua Alta az az időszakos áradás, amely Velencét sújtja dagály idején.","A gondolák aszimmetrikusak, hogy ellensúlyozzák a gondoliér súlyát.","A Velencei Nemzetközi Filmfesztivál a világ legrégebbi filmfesztiválja.","Velence egykor független tengeri köztársaság volt több mint egy évezreden át.","A motoros járművek szigorúan tilosak a történelmi központban."],
+      ro: ["Veneția este construită pe milioane de piloți de lemn pietrificați înfipți în mlaștină.","Există peste 400 de poduri care conectează insulele orașului.","Orașul este faimos pentru sticla sa de Murano suflată manual și dantela de Burano.","Acqua Alta este inundația periodică care afectează Veneția la maree înaltă.","Gondolele sunt asimetrice pentru a contrabalansa greutatea gondolierului.","Festivalul de Film de la Veneția este cel mai vechi festival de film din lume.","Veneția a fost cândva o republică maritimă independentă timp de peste un mileniu.","Vehiculele motorizate sunt strict interzise în centrul istoric."]
     },
     image: "/geo-images/italy/venice.webp",
   },
@@ -192,16 +192,16 @@ export const italyCities: POI[] = [
     coords: [11.2558, 43.7696],
     name: { de: "Florenz", hu: "Firenze", ro: "Florența", en: "Florence" },
     description: {
-      de: "Florenz gilt als Wiege der Renaissance und beherbergt zahlreiche Kunstmeisterwerke.",
-      hu: "Firenze a reneszánsz bölcsőjeként ismert, és számos művészeti remekműnek ad otthont.",
-      ro: "Florența este considerată leagănul Renașterii și găzduiește numeroase capodopere de artă.",
-      en: "Florence is considered the cradle of the Renaissance and home to many art masterpieces.",
+      en: "Florence, capital of Italy's Tuscany region, is home to many masterpieces of Renaissance art and architecture. One of its most iconic sights is the Duomo, a cathedral with a terracotta-tiled dome engineered by Brunelleschi and a bell tower by Giotto. The Galleria dell'Accademia displays Michelangelo's 'David' sculpture. The Uffizi Gallery exhibits Botticelli's 'The Birth of Venus' and da Vinci's 'Annunciation'. Often called the 'Athens of the Middle Ages', Florence is celebrated globally for its massive contribution to literature, science, and the fine arts.",
+      de: "Florenz, Hauptstadt der italienischen Region Toskana, beherbergt viele Meisterwerke der Kunst und Architektur der Renaissance. Eine ihrer ikonischsten Sehenswürdigkeiten ist der Dom, eine Kathedrale mit einer terrakottagefliesten Kuppel, die von Brunelleschi entworfen wurde, und einem Glockenturm von Giotto. Die Galleria dell'Accademia zeigt Michelangelos Skulptur 'David'. Die Uffizien stellen Botticellis 'Geburt der Venus' und da Vincis 'Verkündigung' aus. Florenz wird oft das 'Athen des Mittelalters' genannt und weltweit für seinen massiven Beitrag zur Literatur, Wissenschaft und den bildenden Künsten gefeiert.",
+      hu: "Firenze, Olaszország Toszkána régiójának fővárosa, a reneszánsz művészet és építészet számos remekművének ad otthont. Egyik legikonikusabb látványossága a Dóm, a Brunelleschi által tervezett terrakotta csempés kupolájú katedrális, és a Giotto-féle harangtorony. A Galleria dell'Accademia mutatja be Michelangelo 'Dávid' szobrát. Az Uffizi Képtár Botticelli 'Vénusz születése' és da Vinci 'Angyali üdvözlet' című művét állítja ki. Gyakran a 'Középkor Athénjának' is nevezik, Firenzét világszerte ünneplik az irodalomhoz, a tudományhoz és a képzőművészethez való hatalmas hozzájárulásáért.",
+      ro: "Florența, capitala regiunii Toscana din Italia, găzduiește multe capodopere ale artei și arhitecturii renascentiste. Una dintre cele mai emblematice atracții este Domul, o catedrală cu un dom cu plăci de teracotă proiectat de Brunelleschi și un turn cu clopot de Giotto. Galleria dell'Accademia expune sculptura 'David' a lui Michelangelo. Galeria Uffizi expune 'Nașterea lui Venus' de Botticelli și 'Buna Vestire' de da Vinci. Adesea numită 'Atena Evului Mediu', Florența este celebrată global pentru contribuția sa masivă la literatură, știință și arte plastice."
     },
     facts: {
-      de: ["Heimat der Uffizien.", "Bekannt für den Dom von Florenz.", "Besitzt Michelangelos David.", "Wurde von der Familie Medici geprägt."],
-      hu: ["Az Uffizi képtár hazája.", "Híres a firenzei dómról.", "Itt található Michelangelo Dávid-szobra.", "A Medici család határozta meg a város képét."],
-      ro: ["Găzduiește Galeria Uffizi.", "Cunoscută pentru Domul din Florența.", "Deține statuia David a lui Michelangelo.", "A fost modelată de familia Medici."],
-      en: ["Home to the Uffizi Gallery.", "Famous for the Florence Cathedral.", "Has Michelangelo's David.", "Was shaped by the Medici family."],
+      en: ["Florence is considered the birthplace of the Italian Renaissance.","The city was governed for centuries by the powerful Medici family.","Ponte Vecchio is a famous medieval bridge over the Arno River known for its jewelry shops.","The Florence Cathedral (Il Duomo) took over 140 years to complete.","Dante Alighieri, the author of the Divine Comedy, was born in Florence.","Florence was briefly the capital of the Kingdom of Italy from 1865 to 1871.","The city suffered a devastating flood in 1966 that damaged many artworks.","The Uffizi Gallery is one of the most visited art museums in the world."],
+      de: ["Florenz gilt als der Geburtsort der italienischen Renaissance.","Die Stadt wurde jahrhundertelang von der mächtigen Medici-Familie regiert.","Ponte Vecchio ist eine berühmte mittelalterliche Brücke über den Arno, die für ihre Juweliergeschäfte bekannt ist.","Die Fertigstellung des Florentiner Doms (Il Duomo) dauerte über 140 Jahre.","Dante Alighieri, der Autor der Göttlichen Komödie, wurde in Florenz geboren.","Florenz war von 1865 bis 1871 kurzzeitig die Hauptstadt des Königreichs Italien.","Die Stadt erlitt 1966 eine verheerende Überschwemmung, die viele Kunstwerke beschädigte.","Die Uffizien sind eines der meistbesuchten Kunstmuseen der Welt."],
+      hu: ["Firenzét az olasz reneszánsz szülőhelyének tartják.","A várost évszázadokon át a hatalmas Medici család irányította.","A Ponte Vecchio egy híres középkori híd az Arno folyó felett, amely ékszerüzleteiről ismert.","A firenzei dóm (Il Duomo) építése több mint 140 évig tartott.","Dante Alighieri, az Isteni Színjáték szerzője Firenzében született.","Firenze rövid ideig, 1865 és 1871 között az Olasz Királyság fővárosa volt.","A város 1966-ban pusztító árvizet szenvedett, amely sok műalkotást megrongált.","Az Uffizi Képtár a világ egyik leglátogatottabb művészeti múzeuma."],
+      ro: ["Florența este considerată locul de naștere al Renașterii italiene.","Orașul a fost guvernat timp de secole de puternica familie Medici.","Ponte Vecchio este un pod medieval celebru peste râul Arno, cunoscut pentru magazinele de bijuterii.","Catedrala din Florența (Il Duomo) a necesitat peste 140 de ani pentru a fi finalizată.","Dante Alighieri, autorul Divinei Comedii, s-a născut la Florența.","Florența a fost pentru scurt timp capitala Regatului Italiei din 1865 până în 1871.","Orașul a suferit o inundație devastatoare în 1966 care a avariat multe opere de artă.","Galeria Uffizi este unul dintre cele mai vizitate muzee de artă din lume."]
     },
     image: "/geo-images/italy/florence.webp",
   },
@@ -211,17 +211,55 @@ export const italyCities: POI[] = [
     parent: "reg-campania",
     coords: [14.2681, 40.8518],
     name: { de: "Neapel", hu: "Nápoly", ro: "Napoli", en: "Naples" },
+    
+    
     description: {
-      de: "Neapel ist eine lebendige Stadt am Fuße des Vesuvs, bekannt für ihre Geschichte und Kulinarik.",
-      hu: "Nápoly egy élettel teli város a Vezúv lábánál, híres történelméről és gasztronómiájáról.",
-      ro: "Napoli este un oraș vibrant la poalele Vezuviului, cunoscut pentru istoria și gastronomia sa.",
-      en: "Naples is a vibrant city at the foot of Mount Vesuvius, known for its history and culinary scene.",
+          "en": "Naples is a vibrant and historic city in southern Italy, located on the picturesque Gulf of Naples. It is globally recognized as the birthplace of pizza and boasts a rich culinary tradition that influences kitchens worldwide. The city's historic center is a UNESCO World Heritage site, featuring ancient ruins, Baroque churches, and narrow, bustling streets. Looming over the city is Mount Vesuvius, the active volcano that famously destroyed nearby Pompeii. Naples is a city of intense energy, blending artistic masterpieces with raw, authentic Italian street life.",
+          "de": "Neapel ist eine pulsierende und historische Stadt in Süditalien, gelegen am malerischen Golf von Neapel. Sie ist weltweit als Geburtsort der Pizza anerkannt und verfügt über eine reiche kulinarische Tradition, die Küchen weltweit beeinflusst. Das historische Zentrum der Stadt ist ein UNESCO-Weltkulturerbe und bietet antike Ruinen, barocke Kirchen und enge, belebte Straßen. Über der Stadt thront der Vesuv, der aktive Vulkan, der das nahe gelegene Pompeji zerstörte. Neapel ist eine Stadt voller Energie, die künstlerische Meisterwerke mit dem authentischen italienischen Straßenleben verbindet.",
+          "hu": "Nápoly egy nyüzsgő és történelmi város Dél-Olaszországban, a festői Nápolyi-öböl partján. Világszerte a pizza szülőhelyeként tartják számon, és gazdag kulináris hagyományokkal büszkélkedhet, amely világszerte befolyásolja a konyhákat. A város történelmi központja UNESCO világörökségi helyszín, ahol ókori romok, barokk templomok és szűk, nyüzsgő utcák találhatók. A város fölé magasodik a Vezúv, a máig aktív vulkán, amely elpusztította a közeli Pompejit. Nápoly egy intenzív energiájú város, amely a művészeti remekműveket a nyers, autentikus olasz utcai élettel ötvözi.",
+          "ro": "Napoli este un oraș vibrant și istoric din sudul Italiei, situat pe pitorescul Golf Napoli. Este recunoscut la nivel mondial ca locul de naștere al pizzei și se mândrește cu o bogată tradiție culinară care influențează bucătăriile din întreaga lume. Centrul istoric al orașului este un sit al Patrimoniului Mondial UNESCO, prezentând ruine antice, biserici baroce și străzi înguste și pline de viață. Deasupra orașului se înalță Vezuviul, vulcanul activ care a distrus faimosul Pompei din apropiere. Napoli este un oraș cu o energie intensă, îmbinând capodoperele artistice cu viața stradală italiană autentică și crudă."
     },
     facts: {
-      de: ["Geburtsort der Pizza.", "Liegt in der Nähe von Pompeji.", "Besitzt eine riesige Altstadt.", "Bekannt für den Vesuv."],
-      hu: ["A pizza szülőhelye.", "Pompeji közelében fekszik.", "Hatalmas óvárossal rendelkezik.", "Híres a Vezúvról."],
-      ro: ["Locul de naștere al pizzei.", "Situat lângă Pompei.", "Deține un centru istoric uriaș.", "Cunoscut pentru Vezuviu."],
-      en: ["Birthplace of pizza.", "Located near Pompeii.", "Has a huge historic center.", "Known for Mount Vesuvius."],
+          "en": [
+                "Naples is the third-largest municipality in Italy after Rome and Milan.",
+                "It is considered the birthplace of the modern pizza, specifically the Margherita.",
+                "The historic center of Naples is the largest in Europe.",
+                "It is home to the National Archaeological Museum, containing extensive Roman artifacts.",
+                "Naples has a vast underground geothermal network of tunnels and catacombs.",
+                "The city was founded by Greeks in the first millennium BC.",
+                "It features three major castles: Castel dell'Ovo, Castel Nuovo, and Castel Sant'Elmo.",
+                "The traditional Neapolitan Nativity scenes (Presepe) are famous worldwide."
+          ],
+          "de": [
+                "Neapel ist nach Rom und Mailand die drittgrößte Gemeinde in Italien.",
+                "Es gilt als Geburtsort der modernen Pizza, insbesondere der Margherita.",
+                "Das historische Zentrum von Neapel ist das größte in Europa.",
+                "Es beherbergt das Archäologische Nationalmuseum mit umfangreichen römischen Artefakten.",
+                "Neapel verfügt über ein riesiges unterirdisches geothermisches Netzwerk von Tunneln und Katakomben.",
+                "Die Stadt wurde im ersten Jahrtausend v. Chr. von den Griechen gegründet.",
+                "Sie verfügt über drei große Burgen: Castel dell'Ovo, Castel Nuovo und Castel Sant'Elmo.",
+                "Die traditionellen neapolitanischen Krippen (Presepe) sind weltweit berühmt."
+          ],
+          "hu": [
+                "Róma és Milánó után Nápoly Olaszország harmadik legnagyobb települése.",
+                "A modern pizza, különösen a Margherita szülőhelyének tartják.",
+                "Nápoly történelmi központja a legnagyobb Európában.",
+                "Itt található a Nemzeti Régészeti Múzeum, amely kiterjedt római leleteket őriz.",
+                "Nápoly hatalmas földalatti geotermikus alagút- és katakombarendszerrel rendelkezik.",
+                "A várost a görögök alapították az i.e. első évezredben.",
+                "Három jelentős kastélya van: Castel dell'Ovo, Castel Nuovo és Castel Sant'Elmo.",
+                "A hagyományos nápolyi betlehemek (Presepe) világszerte híresek."
+          ],
+          "ro": [
+                "Napoli este a treia cea mai mare municipalitate din Italia, după Roma și Milano.",
+                "Este considerat locul de naștere al pizzei moderne, în special Margherita.",
+                "Centrul istoric din Napoli este cel mai mare din Europa.",
+                "Găzduiește Muzeul Național de Arheologie, care conține artefacte romane extinse.",
+                "Napoli are o vastă rețea geotermală subterană de tuneluri și catacombe.",
+                "Orașul a fost fondat de greci în primul mileniu î.Hr.",
+                "Are trei castele majore: Castel dell'Ovo, Castel Nuovo și Castel Sant'Elmo.",
+                "Scenetele tradiționale napolitane ale Nașterii Domnului (Presepe) sunt faimoase în întreaga lume."
+          ]
     },
     image: "/geo-images/italy/naples.webp",
   },
@@ -231,17 +269,55 @@ export const italyCities: POI[] = [
     parent: "rome",
     coords: [12.4922, 41.8902],
     name: { de: "Kolosseum", hu: "Kolosszeum", ro: "Colosseum", en: "Colosseum" },
+    
+    
     description: {
-      de: "Das Kolosseum ist das größte antike Amphitheater der Welt und ein Symbol Roms.",
-      hu: "A Kolosszeum a világ legnagyobb ókori amfiteátruma és Róma jelképe.",
-      ro: "Colosseumul este cel mai mare amfiteatru antic din lume și un simbol al Romei.",
-      en: "The Colosseum is the largest ancient amphitheater in the world and a symbol of Rome.",
+          "en": "The Colosseum is an iconic ancient amphitheater situated in the center of Rome, built during the Flavian dynasty. Completed in 80 AD, it remains the largest standing amphitheater in the world despite centuries of earthquakes and stone robbers. In its prime, it could hold an estimated 50,000 to 80,000 spectators who gathered to watch gladiatorial contests, animal hunts, and public executions. Today, it stands as a monumental symbol of the grandeur and engineering prowess of the Roman Empire. The Colosseum is one of Italy's most popular tourist attractions and a defining landmark of Rome.",
+          "de": "Das Kolosseum ist ein ikonisches antikes Amphitheater im Zentrum von Rom, das während der flavischen Dynastie erbaut wurde. Es wurde 80 n. Chr. fertiggestellt und ist trotz jahrhundertelanger Erdbeben und Steinraub das größte noch stehende Amphitheater der Welt. In seiner Blütezeit fasste es schätzungsweise 50.000 bis 80.000 Zuschauer, die sich versammelten, um Gladiatorenkämpfe, Tierjagden und öffentliche Hinrichtungen zu verfolgen. Heute steht es als monumentales Symbol für die Größe und Ingenieurskunst des Römischen Reiches. Das Kolosseum ist eine der beliebtesten Touristenattraktionen Italiens.",
+          "hu": "A Colosseum egy ikonikus ókori amfiteátrum Róma központjában, amely a Flavius-dinasztia idején épült. A Kr. u. 80-ban befejezett épület a világ legnagyobb ma is álló amfiteátruma maradt az évszázadok során pusztító földrengések és kőrablások ellenére. Fénykorában becslések szerint 50 000-80 000 néző befogadására volt alkalmas, akik gladiátorviadalokat, állatvadászatokat és nyilvános kivégzéseket néztek meg. Ma a Római Birodalom nagyságának és mérnöki tudásának monumentális szimbóluma. A Colosseum Olaszország egyik legnépszerűbb turisztikai látványossága.",
+          "ro": "Colosseumul este un amfiteatru antic emblematic situat în centrul Romei, construit în timpul dinastiei Flavienilor. Finalizat în 80 d.Hr., rămâne cel mai mare amfiteatru în picioare din lume, în ciuda secolelor de cutremure și a hoților de piatră. În perioada sa de glorie, putea găzdui aproximativ 50.000 până la 80.000 de spectatori care se adunau pentru a urmări lupte cu gladiatori, vânători de animale și execuții publice. Astăzi, reprezintă un simbol monumental al măreției și priceperii inginerești a Imperiului Roman. Colosseumul este una dintre cele mai populare atracții turistice din Italia."
     },
     facts: {
-      de: ["Erbaut im 1. Jahrhundert n. Chr.", "Platz für bis zu 80.000 Zuschauer.", "Ort für Gladiatorenkämpfe.", "Eines der neuen sieben Weltwunder."],
-      hu: ["Az 1. században épült.", "Akár 80 000 néző befogadására is alkalmas volt.", "Gladiátori játékok helyszíne.", "A világ hét új csodájának egyike."],
-      ro: ["Construit în secolul I d.Hr.", "Capacitate de până la 80.000 de spectatori.", "Loc pentru lupte de gladiatori.", "Una dintre cele șapte noi minuni ale lumii."],
-      en: ["Built in the 1st century AD.", "Capacity for up to 80,000 spectators.", "Site for gladiatorial contests.", "One of the New Seven Wonders of the World."],
+          "en": [
+                "The Colosseum is also officially known as the Flavian Amphitheater.",
+                "It was built primarily of travertine limestone, tuff, and brick-faced concrete.",
+                "The arena floor covered a massive underground labyrinth called the hypogeum.",
+                "Admission to the games at the Colosseum was free for all Roman citizens.",
+                "It features 80 entrances, allowing huge crowds to enter and exit quickly.",
+                "Naval battles (naumachiae) were occasionally staged by flooding the arena.",
+                "In 2007, it was recognized as one of the New Seven Wonders of the World.",
+                "Over 6 million people visit the Colosseum every year."
+          ],
+          "de": [
+                "Das Kolosseum ist offiziell auch als Flavisches Amphitheater bekannt.",
+                "Es wurde hauptsächlich aus Travertin-Kalkstein, Tuffstein und ziegelförmigem Beton erbaut.",
+                "Der Arenaboden bedeckte ein riesiges unterirdisches Labyrinth namens Hypogäum.",
+                "Der Eintritt zu den Spielen im Kolosseum war für alle römischen Bürger frei.",
+                "Es verfügt über 80 Eingänge, wodurch große Menschenmengen schnell ein- und aussteigen konnten.",
+                "Seeschlachten (Naumachien) wurden gelegentlich durch Überfluten der Arena inszeniert.",
+                "Im Jahr 2007 wurde es als eines der neuen sieben Weltwunder anerkannt.",
+                "Mehr als 6 Millionen Menschen besuchen jährlich das Kolosseum."
+          ],
+          "hu": [
+                "A Colosseum hivatalos nevén Flavius-amfiteátrumként is ismert.",
+                "Elsősorban travertin mészkőből, tufából és téglaburkolatú betonból épült.",
+                "Az aréna padlója egy hatalmas földalatti labirintust, a hypogeumot fedte be.",
+                "A Colosseumban tartott játékokra minden római állgampolgár számára ingyenes volt a belépés.",
+                "80 bejárattal rendelkezik, ami lehetővé tette a hatalmas tömeg gyors be- és kilépését.",
+                "Alkalmanként tengeri csatákat (naumachiae) is rendeztek az aréna elárasztásával.",
+                "2007-ben a világ hét új csodájának egyikeként ismerték el.",
+                "Évente több mint 6 millió ember látogatja meg a Colosseumot."
+          ],
+          "ro": [
+                "Colosseumul este, de asemenea, cunoscut oficial ca Amfiteatrul Flavian.",
+                "A fost construit în principal din calcar travertin, tuf și beton placat cu cărămidă.",
+                "Podeaua arenei acoperea un labirint subteran masiv numit hipogeu.",
+                "Intrarea la jocurile de la Colosseum era gratuită pentru toți cetățenii romani.",
+                "Are 80 de intrări, permițând mulțimilor uriașe să intre și să iasă rapid.",
+                "Bătălii navale (naumachiae) erau ocazional puse în scenă prin inundarea arenei.",
+                "În 2007, a fost recunoscut drept una dintre cele șapte noi minuni ale lumii.",
+                "Peste 6 milioane de oameni vizitează Colosseumul în fiecare an."
+          ]
     },
     image: "/geo-images/italy/colosseum.webp",
   },
@@ -251,17 +327,55 @@ export const italyCities: POI[] = [
     parent: "reg-toscana",
     coords: [10.3966, 43.723],
     name: { de: "Schiefer Turm von Pisa", hu: "Pisai ferde torony", ro: "Turnul Înclinat din Pisa", en: "Leaning Tower of Pisa" },
+    
+    
     description: {
-      de: "Der Schiefe Turm von Pisa ist der freistehende Glockenturm des Doms in Pisa.",
-      hu: "A pisai ferde torony a pisai dóm különálló harangtornya.",
-      ro: "Turnul Înclinat din Pisa este clopotnița de sine stătătoare a catedralei din Pisa.",
-      en: "The Leaning Tower of Pisa is the freestanding bell tower of the cathedral in Pisa.",
+          "en": "The Leaning Tower of Pisa is the freestanding bell tower of the cathedral of the Italian city of Pisa. It is known worldwide for its nearly four-degree lean, the result of an unstable foundation on soft ground. Construction began in 1173 and took almost 200 years to complete due to the onset of the tilt and numerous wars. Today, engineers have stabilized the structure, ensuring it will remain safe for future generations. The tower, alongside the cathedral and baptistery in the Piazza dei Miracoli, forms a stunning UNESCO World Heritage site.",
+          "de": "Der Schiefe Turm von Pisa ist der freistehende Glockenturm der Kathedrale der italienischen Stadt Pisa. Er ist weltweit bekannt für seine Neigung von fast vier Grad, die auf ein instabiles Fundament auf weichem Boden zurückzuführen ist. Der Bau begann 1173 und dauerte fast 200 Jahre, bedingt durch das Einsetzen der Neigung und zahlreiche Kriege. Heute haben Ingenieure die Struktur stabilisiert, um sicherzustellen, dass sie für zukünftige Generationen sicher bleibt. Der Turm bildet zusammen mit dem Dom und dem Baptisterium an der Piazza dei Miracoli ein atemberaubendes UNESCO-Weltkulturerbe.",
+          "hu": "A pisai ferde torony az olaszországi Pisa város katedrálisának különálló harangtornya. Világszerte ismert a közel négy fokos dőléséről, amely a puha talajon lévő instabil alapozás eredménye. Az építkezés 1173-ban kezdődött, és a dőlés megjelenése, valamint számos háború miatt közel 200 évig tartott a befejezése. Mára a mérnökök stabilizálták a szerkezetet, biztosítva, hogy a jövő generációi számára is biztonságos maradjon. A torony a Piazza dei Miracoli téren álló katedrálissal és a keresztelőkápolnával együtt egy lenyűgöző UNESCO világörökségi helyszínt alkot.",
+          "ro": "Turnul Înclinat din Pisa este clopotnița de sine stătătoare a catedralei din orașul italian Pisa. Este cunoscut în întreaga lume pentru înclinația sa de aproape patru grade, rezultatul unei fundații instabile pe un teren moale. Construcția a început în 1173 și a durat aproape 200 de ani pentru a fi finalizată din cauza apariției înclinației și a numeroaselor războaie. Astăzi, inginerii au stabilizat structura, asigurându-se că va rămâne sigură pentru generațiile viitoare. Turnul, alături de catedrală și baptisteriu din Piazza dei Miracoli, formează un uimitor sit al Patrimoniului Mondial UNESCO."
     },
     facts: {
-      de: ["Bekannt für seine unbeabsichtigte Neigung.", "Bau dauerte fast 200 Jahre.", "Besteht aus weißem Marmor.", "Weltkulturerbe der UNESCO."],
-      hu: ["Nem szándékos dőléséről híres.", "Az építése majdnem 200 évig tartott.", "Fehér márványból készült.", "Az UNESCO világörökség része."],
-      ro: ["Cunoscut pentru înclinația sa neintenționată.", "Construcția a durat aproape 200 de ani.", "Realizat din marmură albă.", "Patrimoniu mondial UNESCO."],
-      en: ["Known for its unintended tilt.", "Construction took nearly 200 years.", "Made of white marble.", "UNESCO World Heritage site."],
+          "en": [
+                "The tower leans because its foundations were laid on unstable subsoil.",
+                "It stands at roughly 56 meters (183 feet) tall on the high side.",
+                "Galileo Galilei allegedly dropped cannonballs of different masses from the tower to test the laws of gravity.",
+                "There are 251 steps to reach the top of the Leaning Tower.",
+                "The tower contains seven bells, one for each note of the musical major scale.",
+                "By 1990, the tilt had reached 5.5 degrees, prompting major stabilization efforts.",
+                "It survived World War II because an American sergeant refused to call in an artillery strike on it.",
+                "The complex it resides in is aptly named the 'Square of Miracles' (Piazza dei Miracoli)."
+          ],
+          "de": [
+                "Der Turm neigt sich, weil seine Fundamente auf instabilem Untergrund gelegt wurden.",
+                "Er ist auf der hohen Seite etwa 56 Meter hoch.",
+                "Galileo Galilei soll Kanonenkugeln unterschiedlicher Masse vom Turm fallen gelassen haben, um die Gesetze der Schwerkraft zu testen.",
+                "Es gibt 251 Stufen, um die Spitze des Schiefen Turms zu erreichen.",
+                "Der Turm enthält sieben Glocken, eine für jede Note der musikalischen Dur-Tonleiter.",
+                "Bis 1990 hatte die Neigung 5,5 Grad erreicht, was zu umfangreichen Stabilisierungsmaßnahmen führte.",
+                "Er überstand den Zweiten Weltkrieg, weil ein amerikanischer Sergeant sich weigerte, einen Artillerieangriff darauf anzufordern.",
+                "Der Komplex, in dem er sich befindet, heißt treffend 'Platz der Wunder' (Piazza dei Miracoli)."
+          ],
+          "hu": [
+                "A torony azért dől, mert az alapjait instabil altalajra fektették.",
+                "A magasabbik oldalán nagyjából 56 méter magas.",
+                "Galileo Galilei a legenda szerint különböző tömegű ágyúgolyókat dobott le a toronyból a gravitáció törvényeinek tesztelésére.",
+                "A ferde torony tetejére 251 lépcsőfok vezet.",
+                "A toronyban hét harang található, a zenei dúr skála minden hangjához egy.",
+                "1990-re a dőlés elérte az 5,5 fokot, ami jelentős stabilizációs erőfeszítéseket tett szükségessé.",
+                "Túlélte a második világháborút, mert egy amerikai őrmester nem volt hajlandó tüzérségi csapást kérni rá.",
+                "A komplexumot, amelyben található, találóan 'Csodák terének' (Piazza dei Miracoli) hívják."
+          ],
+          "ro": [
+                "Turnul se înclină deoarece fundațiile sale au fost așezate pe un subsol instabil.",
+                "Are o înălțime de aproximativ 56 de metri pe partea înaltă.",
+                "Se presupune că Galileo Galilei a aruncat ghiulele de tun de mase diferite din turn pentru a testa legile gravitației.",
+                "Există 251 de trepte pentru a ajunge în vârful Turnului Înclinat.",
+                "Turnul conține șapte clopote, câte unul pentru fiecare notă a gamei muzicale majore.",
+                "Până în 1990, înclinația a ajuns la 5,5 grade, determinând eforturi majore de stabilizare.",
+                "A supraviețuit celui de-al Doilea Război Mondial pentru că un sergent american a refuzat să ceară un atac de artilerie asupra sa.",
+                "Complexul în care se află este denumit în mod adecvat 'Piața Miracolelor' (Piazza dei Miracoli)."
+          ]
     },
     image: "/geo-images/italy/pisa-tower.webp",
   },
@@ -271,17 +385,55 @@ export const italyCities: POI[] = [
     parent: "reg-campania",
     coords: [14.4848, 40.7489],
     name: { de: "Pompeji", hu: "Pompeji", ro: "Pompei", en: "Pompeii" },
+    
+    
     description: {
-      de: "Pompeji war eine antike Stadt, die beim Ausbruch des Vesuvs unter Asche begraben wurde.",
-      hu: "Pompeji ókori város volt, amelyet a Vezúv kitörésekor hamu temetett el.",
-      ro: "Pompei a fost un oraș antic care a fost îngropat sub cenușă în timpul erupției Vezuviului.",
-      en: "Pompeii was an ancient city that was buried under ash during the eruption of Mount Vesuvius.",
+          "en": "Pompeii was a vast Roman city located near modern Naples that was buried under volcanic ash and pumice after the catastrophic eruption of Mount Vesuvius in 79 AD. The ash acted as a miraculous preservative, freezing the city in time and providing an incredibly detailed snapshot of everyday Roman life. Discovered in the 16th century, ongoing excavations have revealed houses, temples, amphitheaters, and poignant plaster casts of the victims. Walking through Pompeii allows visitors to experience the streets, bakeries, and homes exactly as they were two millennia ago. It is one of the most significant archaeological sites in the world.",
+          "de": "Pompeji war eine riesige römische Stadt in der Nähe des modernen Neapel, die nach dem katastrophalen Ausbruch des Vesuvs im Jahr 79 n. Chr. unter Vulkanasche und Bimsstein begraben wurde. Die Asche wirkte als wundersames Konservierungsmittel, das die Stadt in der Zeit einfror und einen unglaublich detaillierten Schnappschuss des römischen Alltags lieferte. Die im 16. Jahrhundert entdeckten und andauernden Ausgrabungen haben Häuser, Tempel, Amphitheater und ergreifende Gipsabgüsse der Opfer zutage gefördert. Bei einem Spaziergang durch Pompeji können Besucher die Straßen, Bäckereien und Häuser genau so erleben, wie sie vor zwei Jahrtausenden waren. Es ist eine der bedeutendsten archäologischen Stätten der Welt.",
+          "hu": "Pompeji egy hatalmas római város volt a mai Nápoly közelében, amelyet vulkáni hamu és habkő temetett maga alá a Vezúv Kr. u. 79-es katasztrofális kitörése után. A hamu csodálatos tartósítószerként hatott, megfagyasztva a várost az időben, és hihetetlenül részletes pillanatképet nyújtva a mindennapi római életről. A 16. században felfedezett folyamatos ásatások házakat, templomokat, amfiteátrumokat és az áldozatok megrendítő gipszmásolatait tárták fel. Pompejiben sétálva a látogatók pontosan olyannak tapasztalhatják meg az utcákat, pékségeket és otthonokat, amilyenek két évezreddel ezelőtt voltak. Ez az egyik legjelentősebb régészeti lelőhely a világon.",
+          "ro": "Pompei a fost un vast oraș roman situat lângă Napoliul modern, care a fost îngropat sub cenușă vulcanică și piatră ponce după erupția catastrofală a Vezuviului în 79 d.Hr. Cenușa a acționat ca un conservant miraculos, înghețând orașul în timp și oferind un instantaneu incredibil de detaliat al vieții romane de zi cu zi. Descoperite în secolul al XVI-lea, săpăturile continue au scos la iveală case, temple, amfiteatre și mulaje sfâșietoare din ipsos ale victimelor. Plimbarea prin Pompei permite vizitatorilor să experimenteze străzile, brutăriile și casele exact așa cum erau acum două milenii. Este unul dintre cele mai semnificative situri arheologice din lume."
     },
     facts: {
-      de: ["Wurde im Jahr 79 n. Chr. zerstört.", "Hervorragend erhaltene Ruinen.", "Bietet Einblick in das römische Leben.", "Große archäologische Ausgrabungsstätte."],
-      hu: ["Kr. u. 79-ben pusztult el.", "Kiválóan megőrzött romok.", "Betekintést nyújt a római életbe.", "Hatalmas régészeti lelőhely."],
-      ro: ["Distrus în anul 79 d.Hr.", "Ruine excelent conservate.", "Oferă o perspectivă asupra vieții romane.", "Situl unei mari excavări arheologice."],
-      en: ["Destroyed in 79 AD.", "Excellently preserved ruins.", "Provides insight into Roman life.", "Site of a large archaeological excavation."],
+          "en": [
+                "Pompeii was buried under 4 to 6 meters of volcanic ash and lapilli.",
+                "The eruption preserved stunning frescoes, mosaics, and everyday objects.",
+                "Plaster casts were created by pouring plaster into the voids left by decomposed bodies.",
+                "The city featured a complex water system, an amphitheater, and a gymnasium.",
+                "Graffiti on the walls of Pompeii offers insights into ancient Roman politics and humor.",
+                "It is estimated that around 2,000 people died in Pompeii during the eruption.",
+                "The site was initially rediscovered in 1599 but large-scale excavations didn't start until 1748.",
+                "Pompeii has been a UNESCO World Heritage Site since 1997."
+          ],
+          "de": [
+                "Pompeji wurde unter 4 bis 6 Metern Vulkanasche und Lapilli begraben.",
+                "Der Ausbruch bewahrte atemberaubende Fresken, Mosaike und Alltagsgegenstände.",
+                "Gipsabgüsse wurden hergestellt, indem Gips in die Hohlräume gegossen wurde, die von zersetzten Körpern hinterlassen wurden.",
+                "Die Stadt verfügte über ein komplexes Wassersystem, ein Amphitheater und eine Turnhalle.",
+                "Graffiti an den Wänden von Pompeji bieten Einblicke in die antike römische Politik und den Humor.",
+                "Es wird geschätzt, dass etwa 2.000 Menschen während des Ausbruchs in Pompeji starben.",
+                "Die Stätte wurde 1599 erstmals wiederentdeckt, aber groß angelegte Ausgrabungen begannen erst 1748.",
+                "Pompeji ist seit 1997 ein UNESCO-Weltkulturerbe."
+          ],
+          "hu": [
+                "Pompejit 4-6 méter vulkáni hamu és lapilli temette maga alá.",
+                "A kitörés megőrizte a lenyűgöző freskókat, mozaikokat és mindennapi tárgyakat.",
+                "Gipszmásolatokat készítettek úgy, hogy gipszet öntöttek a lebomlott testek által hagyott üregekbe.",
+                "A város komplex vízrendszerrel, amfiteátrummal és tornateremmel rendelkezett.",
+                "A pompeji falakon található falfirkák bepillantást engednek az ókori római politikába és humorba.",
+                "A becslések szerint mintegy 2000 ember halt meg Pompejiben a kitörés során.",
+                "A helyszínt 1599-ben fedezték fel újra, de a nagyarányú ásatások csak 1748-ban kezdődtek meg.",
+                "Pompeji 1997 óta az UNESCO világörökség része."
+          ],
+          "ro": [
+                "Pompei a fost îngropat sub 4 până la 6 metri de cenușă vulcanică și lapilli.",
+                "Erupția a păstrat fresce uimitoare, mozaicuri și obiecte de zi cu zi.",
+                "Mulajele din ipsos au fost create turnând ipsos în golurile lăsate de corpurile descompuse.",
+                "Orașul avea un sistem complex de apă, un amfiteatru și un gimnaziu.",
+                "Graffiti-urile de pe pereții din Pompei oferă perspective asupra politicii și umorului antic roman.",
+                "Se estimează că aproximativ 2.000 de persoane au murit în Pompei în timpul erupției.",
+                "Situl a fost redescoperit inițial în 1599, dar săpăturile la scară largă nu au început până în 1748.",
+                "Pompei este un sit al Patrimoniului Mondial UNESCO din 1997."
+          ]
     },
     image: "/geo-images/italy/pompeii.webp",
   },
@@ -291,17 +443,55 @@ export const italyCities: POI[] = [
     parent: "reg-sicilia",
     coords: [14.9969, 37.751],
     name: { de: "Ätna", hu: "Etna", ro: "Etna", en: "Mount Etna" },
+    
+    
     description: {
-      de: "Der Ätna ist einer der aktivsten Vulkane der Welt und der höchste in Europa.",
-      hu: "Az Etna a világ egyik legaktívabb vulkánja és a legmagasabb Európában.",
-      ro: "Etna este unul dintre cei mai activi vulcani din lume și cel mai înalt din Europa.",
-      en: "Mount Etna is one of the world's most active volcanoes and the highest in Europe.",
+          "en": "Mount Etna, situated on the east coast of Sicily, is the highest and most active volcano in Europe. Soaring to over 3,300 meters, its elevation changes frequently due to summit eruptions and subsequent collapses. The volcano's rich, fertile soils support extensive agriculture, including vineyards, orchards, and olive groves spread across its lower slopes. Mount Etna has been erupting for half a million years, with a documented history of historical eruptions that stretch back to ancient times. Recognized as a UNESCO World Heritage site, it remains a captivating destination for tourists and a living laboratory for volcanologists.",
+          "de": "Der Ätna, an der Ostküste Siziliens gelegen, ist der höchste und aktivste Vulkan Europas. Er erhebt sich auf über 3.300 Meter, wobei sich seine Höhe aufgrund von Gipfeleruptionen und anschließenden Einstürzen häufig ändert. Die reichen, fruchtbaren Böden des Vulkans unterstützen eine umfangreiche Landwirtschaft, darunter Weinberge, Obstgärten und Olivenhaine, die sich über seine unteren Hänge erstrecken. Der Ätna bricht seit einer halben Million Jahren aus, mit einer dokumentierten Geschichte historischer Eruptionen, die bis in die Antike zurückreicht. Er ist als UNESCO-Weltkulturerbe anerkannt und bleibt ein faszinierendes Reiseziel für Touristen und ein lebendes Labor für Vulkanologen.",
+          "hu": "A Szicília keleti partján fekvő Etna Európa legmagasabb és legaktívabb vulkánja. Több mint 3300 méter magasra emelkedik, magassága a csúcskitörések és az azt követő omlások miatt gyakran változik. A vulkán gazdag, termékeny talaja kiterjedt mezőgazdaságot támogat, beleértve a szőlőültetvényeket, gyümölcsösöket és olajfaligeteket, amelyek az alsó lejtőin terülnek el. Az Etna félmillió éve tör ki, történelmi kitöréseinek dokumentált története egészen az ókorig nyúlik vissza. Az UNESCO világörökség részeként elismert vulkán továbbra is a turisták lenyűgöző célpontja és a vulkanológusok élő laboratóriuma.",
+          "ro": "Muntele Etna, situat pe coasta de est a Siciliei, este cel mai înalt și cel mai activ vulcan din Europa. Ridicându-se la peste 3.300 de metri, elevația sa se schimbă frecvent din cauza erupțiilor de la vârf și a prăbușirilor ulterioare. Solurile bogate și fertile ale vulcanului susțin o agricultură extinsă, inclusiv podgorii, livezi și plantații de măslini răspândite pe versanții săi inferiori. Muntele Etna erupe de o jumătate de milion de ani, având o istorie documentată a erupțiilor care se întinde până în cele mai vechi timpuri. Recunoscut ca sit al Patrimoniului Mondial UNESCO, rămâne o destinație captivantă pentru turiști și un laborator viu pentru vulcanologi."
     },
     facts: {
-      de: ["Ständig aktiv.", "UNESCO-Weltnaturerbe.", "Bietet fruchtbaren Boden für Wein.", "Beliebtes Ziel für Wanderer."],
-      hu: ["Folyamatosan aktív.", "Az UNESCO világörökség része.", "Termékeny talajt biztosít a bortermeléshez.", "Népszerű túracélpont."],
-      ro: ["Activ în mod constant.", "Patrimoniu mondial natural UNESCO.", "Oferă sol fertil pentru vin.", "Destinație populară pentru drumeții."],
-      en: ["Constantly active.", "UNESCO World Natural Heritage site.", "Provides fertile soil for wine.", "Popular destination for hikers."],
+          "en": [
+                "Mount Etna is one of the most active volcanoes in the world.",
+                "In Greek mythology, the deadly monster Typhon was trapped under the mountain.",
+                "The circumetnea railway offers a scenic route around the volcano's base.",
+                "Etna's eruptions are generally classified as 'effusive' and not extremely explosive.",
+                "The mountain features several active craters at the summit.",
+                "During winter, Etna's slopes are covered in snow, allowing for skiing.",
+                "It was added to the UNESCO World Heritage list in 2013.",
+                "The volcanic soil produces unique and highly prized DOC wines."
+          ],
+          "de": [
+                "Der Ätna ist einer der aktivsten Vulkane der Welt.",
+                "In der griechischen Mythologie war das tödliche Monster Typhon unter dem Berg gefangen.",
+                "Die Circumetnea-Eisenbahn bietet eine malerische Route um die Basis des Vulkans.",
+                "Die Ausbrüche des Ätna werden im Allgemeinen als 'effusiv' und nicht extrem explosiv eingestuft.",
+                "Der Berg verfügt über mehrere aktive Krater am Gipfel.",
+                "Im Winter sind die Hänge des Ätna mit Schnee bedeckt, was das Skifahren ermöglicht.",
+                "Er wurde 2013 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+                "Der vulkanische Boden produziert einzigartige und hoch geschätzte DOC-Weine."
+          ],
+          "hu": [
+                "Az Etna a világ egyik legaktívabb vulkánja.",
+                "A görög mitológiában a halálos szörnyeteg, Tüphón a hegy alatt rekedt.",
+                "A circumetnea vasút festői útvonalat kínál a vulkán lába körül.",
+                "Az Etna kitöréseit általában 'effuzívnak', és nem rendkívül robbanásveszélyesnek minősítik.",
+                "A hegy csúcsán számos aktív kráter található.",
+                "Télen az Etna lejtőit hó borítja, ami lehetővé teszi a síelést.",
+                "2013-ban felvették az UNESCO világörökségi listájára.",
+                "A vulkáni talaj egyedi és nagyra értékelt DOC borokat hoz létre."
+          ],
+          "ro": [
+                "Muntele Etna este unul dintre cei mai activi vulcani din lume.",
+                "În mitologia greacă, monstrul mortal Typhon a fost prins sub munte.",
+                "Calea ferată circumetnea oferă un traseu pitoresc în jurul bazei vulcanului.",
+                "Erupțiile Etnei sunt în general clasificate ca 'efuzive' și nu extrem de explozive.",
+                "Muntele prezintă mai multe cratere active la vârf.",
+                "În timpul iernii, versanții Etnei sunt acoperiți de zăpadă, permițând schiatul.",
+                "A fost adăugat pe lista Patrimoniului Mondial UNESCO în 2013.",
+                "Solul vulcanic produce vinuri DOC unice și foarte apreciate."
+          ]
     },
     image: "/geo-images/italy/etna.webp",
   },
@@ -311,17 +501,55 @@ export const italyCities: POI[] = [
     parent: "rome",
     coords: [12.4534, 41.9029],
     name: { de: "Vatikanstadt", hu: "Vatikán", ro: "Vatican", en: "Vatican City" },
+    
+    
     description: {
-      de: "Der Vatikan ist der kleinste Staat der Welt und das Zentrum der katholischen Kirche.",
-      hu: "A Vatikán a világ legkisebb állama és a katolikus egyház központja.",
-      ro: "Vaticanul este cel mai mic stat din lume și centrul Bisericii Catolice.",
-      en: "Vatican City is the smallest state in the world and the center of the Catholic Church.",
+          "en": "Vatican City, entirely enclaved within Rome, is the smallest independent state in the world both by area and population. As the spiritual and administrative center of the Roman Catholic Church, it is the residence of the Pope. The city-state is a treasure trove of art and architecture, featuring iconic sites like St. Peter's Basilica, the immense St. Peter's Square, and the expansive Vatican Museums. Millions of pilgrims and tourists visit annually to witness the unparalleled beauty of the Sistine Chapel ceiling, painted by Michelangelo. Despite its size, Vatican City holds immense global religious and cultural significance.",
+          "de": "Die Vatikanstadt, die vollständig von Rom umschlossen ist, ist flächenmäßig und bevölkerungsmäßig der kleinste unabhängige Staat der Welt. Als spirituelles und administratives Zentrum der römisch-katholischen Kirche ist sie die Residenz des Papstes. Der Stadtstaat ist eine Fundgrube für Kunst und Architektur mit Wahrzeichen wie dem Petersdom, dem riesigen Petersplatz und den weitläufigen Vatikanischen Museen. Millionen von Pilgern und Touristen besuchen sie jährlich, um die unvergleichliche Schönheit der Decke der Sixtinischen Kapelle zu bewundern, die von Michelangelo gemalt wurde. Trotz ihrer Größe hat die Vatikanstadt eine immense weltweite religiöse und kulturelle Bedeutung.",
+          "hu": "A Vatikán, amely teljesen Róma területén belül fekszik, a világ legkisebb független állama terület és lakosság szerint is. A római katolikus egyház szellemi és adminisztratív központjaként a pápa rezidenciája. A városállam a művészet és az építészet kincsesbányája, ikonikus helyszínekkel, mint a Szent Péter-bazilika, a hatalmas Szent Péter tér és a kiterjedt Vatikáni Múzeumok. Zarándokok és turisták milliói látogatnak el évente, hogy megcsodálják a Sixtus-kápolna Michelangelo által festett mennyezetének páratlan szépségét. Mérete ellenére a Vatikán hatalmas globális vallási és kulturális jelentőséggel bír.",
+          "ro": "Cetatea Vaticanului, complet enclavată în interiorul Romei, este cel mai mic stat independent din lume, atât ca suprafață, cât și ca populație. Fiind centrul spiritual și administrativ al Bisericii Romano-Catolice, este reședința Papei. Orașul-stat este o comoară de artă și arhitectură, prezentând atracții emblematice precum Bazilica Sfântul Petru, imensa Piață Sfântul Petru și vastele Muzee ale Vaticanului. Milioane de pelerini și turiști o vizitează anual pentru a asista la frumusețea de neegalat a tavanului Capelei Sixtine, pictat de Michelangelo. În ciuda dimensiunii sale, Vaticanul are o semnificație religioasă și culturală globală imensă."
     },
     facts: {
-      de: ["Sitz des Papstes.", "Heimat des Petersdoms.", "Besitzt die Sixtinische Kapelle.", "Eigener Stadtstaat innerhalb Roms."],
-      hu: ["A pápa székhelye.", "Itt található a Szent Péter-bazilika.", "Itt található a Sixtus-kápolna.", "Önálló városállam Rómán belül."],
-      ro: ["Sediul Papei.", "Găzduiește Bazilica Sfântul Petru.", "Deține Capela Sixtină.", "Stat-oraș independent în interiorul Romei."],
-      en: ["Seat of the Pope.", "Home to St. Peter's Basilica.", "Has the Sistine Chapel.", "Independent city-state within Rome."],
+          "en": [
+                "Vatican City has an area of just 44 hectares (110 acres).",
+                "It mints its own euros, prints its own stamps, and issues passports.",
+                "The Swiss Guard has been responsible for the Pope's safety since 1506.",
+                "The Vatican Museums hold over 70,000 works of art.",
+                "St. Peter's Basilica is the largest Christian church in the world.",
+                "Vatican City has a population of around 800 citizens.",
+                "The Vatican Observatory is one of the oldest astronomical research institutions.",
+                "The entire state is a designated UNESCO World Heritage site."
+          ],
+          "de": [
+                "Die Vatikanstadt hat eine Fläche von nur 44 Hektar.",
+                "Sie prägt ihre eigenen Euros, druckt eigene Briefmarken und stellt Pässe aus.",
+                "Die Schweizergarde ist seit 1506 für die Sicherheit des Papstes verantwortlich.",
+                "Die Vatikanischen Museen beherbergen über 70.000 Kunstwerke.",
+                "Der Petersdom ist die größte christliche Kirche der Welt.",
+                "Die Vatikanstadt hat eine Bevölkerung von rund 800 Bürgern.",
+                "Die Vatikanische Sternwarte ist eine der ältesten astronomischen Forschungseinrichtungen.",
+                "Der gesamte Staat ist ein ausgewiesenes UNESCO-Weltkulturerbe."
+          ],
+          "hu": [
+                "A Vatikán területe mindössze 44 hektár.",
+                "Saját eurót ver, saját bélyegeket nyomtat, és útleveleket bocsát ki.",
+                "A Svájci Gárda 1506 óta felel a pápa biztonságáért.",
+                "A Vatikáni Múzeumok több mint 70 000 műalkotást őriznek.",
+                "A Szent Péter-bazilika a világ legnagyobb keresztény temploma.",
+                "A Vatikán lakossága körülbelül 800 fő.",
+                "A Vatikáni Obszervatórium az egyik legrégebbi csillagászati kutatóintézet.",
+                "Az egész állam az UNESCO világörökség része."
+          ],
+          "ro": [
+                "Cetatea Vaticanului are o suprafață de doar 44 de hectare.",
+                "Bate propriile monede euro, tipărește propriile timbre și emite pașapoarte.",
+                "Garda Elvețiană este responsabilă de siguranța Papei din 1506.",
+                "Muzeele Vaticanului dețin peste 70.000 de opere de artă.",
+                "Bazilica Sfântul Petru este cea mai mare biserică creștină din lume.",
+                "Vaticanul are o populație de aproximativ 800 de cetățeni.",
+                "Observatorul Vaticanului este una dintre cele mai vechi instituții de cercetare astronomică.",
+                "Întregul stat este desemnat sit al Patrimoniului Mondial UNESCO."
+          ]
     },
     image: "/geo-images/italy/vatican.webp",
   },
@@ -331,17 +559,55 @@ export const italyCities: POI[] = [
     parent: "IT-72",
     coords: [14.487, 40.749],
     name: { de: "Pompeji", hu: "Pompeji", ro: "Pompei", en: "Pompeii" },
+    
+    
     description: {
-      de: "Die antike römische Stadt Pompeji wurde beim Ausbruch des Vesuvs im Jahr 79 n. Chr. verschüttet und dabei außergewöhnlich gut konserviert. Sie bietet einen einzigartigen Einblick in das Leben der Antike. Heute ist sie eine der bedeutendsten archäologischen Stätten der Welt.",
-      hu: "Az ókori római várost, Pompejit a Vezúv kitörése temette maga alá Kr. u. 79-ben, kivételesen jól megőrizve azt. Egyedülálló betekintést nyújt az ókori életbe. Ma a világ egyik legfontosabb régészeti lelőhelye.",
-      ro: "Orașul roman antic Pompei a fost îngropat în timpul erupției Vezuviului în 79 d.Hr., fiind excepțional de bine conservat. Oferă o perspectivă unică asupra vieții din antichitate. Astăzi este unul dintre cele mai importante situri arheologice din lume.",
-      en: "The ancient Roman city of Pompeii was buried during the eruption of Mount Vesuvius in 79 AD, exceptionally well preserved. It provides a unique glimpse into ancient life. Today it is one of the most important archaeological sites in the world."
+          "en": "The ancient Roman city of Pompeii, famously buried during the devastating eruption of Mount Vesuvius in 79 AD, stands as an unparalleled archaeological treasure. Preserved under a thick layer of volcanic ash and pumice, the city was frozen in time, capturing the intricate details of a thriving urban center. Today, extensive excavations reveal remarkably intact homes, grand temples, bathhouses, and moving plaster casts of the victims. Pompeii provides an extraordinary window into the daily life, art, and architecture of the ancient Roman world. It remains one of the most vital and evocative archaeological sites globally.",
+          "de": "Die antike römische Stadt Pompeji, die 79 n. Chr. beim verheerenden Ausbruch des Vesuvs auf berühmte Weise verschüttet wurde, ist ein unvergleichlicher archäologischer Schatz. Unter einer dicken Schicht aus Vulkanasche und Bimsstein konserviert, fror die Stadt in der Zeit ein und hielt die komplizierten Details eines blühenden städtischen Zentrums fest. Heute offenbaren umfangreiche Ausgrabungen bemerkenswert intakte Häuser, große Tempel, Badehäuser und bewegende Gipsabgüsse der Opfer. Pompeji bietet ein außergewöhnliches Fenster in das tägliche Leben, die Kunst und die Architektur der antiken römischen Welt. Es bleibt eine der wichtigsten und eindrucksvollsten archäologischen Stätten weltweit.",
+          "hu": "Pompeji ókori római városa, amelyet a Vezúv Kr. u. 79-es pusztító kitörése temetett maga alá, páratlan régészeti kincs. A vastag vulkáni hamu- és habkőréteg alatt megőrződött város megfagyott az időben, megörökítve egy virágzó városi központ bonyolult részleteit. Ma kiterjedt ásatások tárják fel a figyelemre méltóan érintetlen otthonokat, nagyszerű templomokat, fürdőházakat és az áldozatok megindító gipszmásolatait. Pompeji rendkívüli ablakot nyit az ókori római világ mindennapi életére, művészetére és építészetére. Továbbra is az egyik legfontosabb és legkifejezőbb régészeti lelőhely a világon.",
+          "ro": "Anticul oraș roman Pompei, îngropat în mod faimos în timpul erupției devastatoare a Vezuviului în 79 d.Hr., reprezintă o comoară arheologică de neegalat. Conservat sub un strat gros de cenușă vulcanică și piatră ponce, orașul a fost înghețat în timp, surprinzând detaliile complicate ale unui centru urban înfloritor. Astăzi, săpăturile extinse scot la iveală case remarcabil de intacte, temple mărețe, băi publice și mulaje emoționante din ipsos ale victimelor. Pompei oferă o fereastră extraordinară către viața de zi cu zi, arta și arhitectura lumii romane antice. Rămâne unul dintre cele mai vitale și evocatoare situri arheologice la nivel global."
     },
     facts: {
-      de: ["Im Jahr 79 n. Chr. durch den Vesuv zerstört.", "Unter einer meterhohen Ascheschicht konserviert.", "Einblick in das Alltagsleben der Römer.", "Gehört zum UNESCO-Weltkulturerbe.", "Wurde im 16. Jahrhundert wiederentdeckt.", "Zieht jährlich Millionen von Besuchern an."],
-      hu: ["Kr. u. 79-ben a Vezúv pusztította el.", "Méteres hamuréteg alatt maradt fenn.", "Betekintést nyújt a rómaiak mindennapi életébe.", "Az UNESCO világörökség része.", "A 16. században fedezték fel újra.", "Évente látogatók millióit vonzza."],
-      ro: ["Distrus de Vezuviu în 79 d.Hr.", "Conservat sub un strat de cenușă de câțiva metri.", "O perspectivă asupra vieții de zi cu zi a romanilor.", "Aparține Patrimoniului Mondial UNESCO.", "A fost redescoperit în secolul al XVI-lea.", "Atrage milioane de vizitatori anual."],
-      en: ["Destroyed by Mount Vesuvius in 79 AD.", "Preserved under a meter-high layer of ash.", "Insight into the daily life of the Romans.", "Belongs to the UNESCO World Heritage.", "Was rediscovered in the 16th century.", "Attracts millions of visitors annually."]
+          "en": [
+                "Pompeii was a flourishing Roman commercial center before its destruction.",
+                "The city was buried under 4 to 6 meters of volcanic ash.",
+                "Excavations began in earnest under the Bourbon King Charles III in 1748.",
+                "The Forum was the economic, religious, and political center of the city.",
+                "Pompeii featured numerous 'thermopolia' (ancient fast-food stalls).",
+                "A complex aqueduct system supplied water to public fountains and private villas.",
+                "Vivid frescoes in Pompeii display a wide range of colors, including 'Pompeian red'.",
+                "It was recognized as a UNESCO World Heritage site in 1997."
+          ],
+          "de": [
+                "Pompeji war vor seiner Zerstörung ein blühendes römisches Handelszentrum.",
+                "Die Stadt wurde unter 4 bis 6 Metern Vulkanasche begraben.",
+                "Die Ausgrabungen begannen im Jahr 1748 unter dem Bourbonenkönig Karl III.",
+                "Das Forum war das wirtschaftliche, religiöse und politische Zentrum der Stadt.",
+                "Pompeji verfügte über zahlreiche 'Thermopolia' (antike Fast-Food-Stände).",
+                "Ein komplexes Aquäduktsystem versorgte öffentliche Brunnen und private Villen mit Wasser.",
+                "Lebhafte Fresken in Pompeji zeigen eine große Farbvielfalt, darunter 'Pompejanisches Rot'.",
+                "Es wurde 1997 als UNESCO-Weltkulturerbe anerkannt."
+          ],
+          "hu": [
+                "Pompeji pusztulása előtt virágzó római kereskedelmi központ volt.",
+                "A várost 4-6 méteres vulkáni hamu temette maga alá.",
+                "Az ásatások komolyan III. Károly Bourbon király uralkodása alatt, 1748-ban kezdődtek.",
+                "A Forum volt a város gazdasági, vallási és politikai központja.",
+                "Pompejiben számos 'thermopolia' (ókori gyorsétterem) működött.",
+                "Egy komplex vízvezetékrendszer látta el vízzel a nyilvános szökőkutakat és a magánvillákat.",
+                "A pompeji élénk freskók a színek széles skáláját mutatják be, beleértve a 'pompeji vöröset' is.",
+                "1997-ben az UNESCO világörökség részévé nyilvánították."
+          ],
+          "ro": [
+                "Pompei a fost un centru comercial roman înfloritor înainte de distrugerea sa.",
+                "Orașul a fost îngropat sub 4 până la 6 metri de cenușă vulcanică.",
+                "Săpăturile au început serios sub regele Bourbon Carol al III-lea în 1748.",
+                "Forumul a fost centrul economic, religios și politic al orașului.",
+                "Pompei avea numeroase 'thermopolia' (tarabe antice de fast-food).",
+                "Un sistem complex de apeducte furniza apă fântânilor publice și vilelor private.",
+                "Frescele vii din Pompei prezintă o gamă largă de culori, inclusiv 'roșu pompeian'.",
+                "A fost recunoscut ca sit al Patrimoniului Mondial UNESCO în 1997."
+          ]
     },
     image: "/geo-images/italy/it-pompei-full.webp"
   },
@@ -351,17 +617,55 @@ export const italyCities: POI[] = [
     parent: "IT-72",
     coords: [14.348, 40.806],
     name: { de: "Herculaneum", hu: "Herculaneum", ro: "Herculaneum", en: "Herculaneum" },
+    
+    
     description: {
-      de: "Herculaneum war eine antike Stadt, die wie Pompeji beim Ausbruch des Vesuvs verschüttet wurde. Sie war kleiner, aber wohlhabender als Pompeji und die Gebäude sind zum Teil besser erhalten. Holzelemente und Dächer blieben oft unversehrt.",
-      hu: "Herculaneum egy ókori város volt, amelyet Pompejihez hasonlóan a Vezúv kitörése temetett el. Kisebb, de gazdagabb volt Pompejinél, és az épületek részben jobban megőrződtek. A fa elemek és a tetők gyakran sértetlenek maradtak.",
-      ro: "Herculaneum a fost un oraș antic care, la fel ca Pompei, a fost îngropat în timpul erupției Vezuviului. Era mai mic, dar mai bogat decât Pompei, iar clădirile sunt parțial mai bine conservate. Elementele din lemn și acoperișurile au rămas adesea intacte.",
-      en: "Herculaneum was an ancient city that, like Pompeii, was buried during the eruption of Mount Vesuvius. It was smaller but wealthier than Pompeii, and the buildings are partly better preserved. Wooden elements and roofs often remained intact."
+          "en": "Herculaneum was an ancient Roman town of immense wealth that shared the tragic fate of Pompeii when Mount Vesuvius erupted in 79 AD. Unlike Pompeii, Herculaneum was buried deep beneath a massive flow of volcanic mud and pyroclastic surges, which preserved it in astonishing detail. This unique form of burial protected organic materials such as wooden roofs, beds, doors, and even food. The town was smaller and wealthier than Pompeii, featuring elaborate multistory houses with exquisite mosaics and frescoes. Exploring Herculaneum offers an intimate and stunningly preserved view of elite Roman lifestyle.",
+          "de": "Herculaneum war eine antike römische Stadt von immensem Reichtum, die das tragische Schicksal Pompejis teilte, als der Vesuv 79 n. Chr. ausbrach. Im Gegensatz zu Pompeji wurde Herculaneum tief unter einem massiven Strom aus vulkanischem Schlamm und pyroklastischen Strömen begraben, was es in erstaunlichem Detail bewahrte. Diese einzigartige Art der Bestattung schützte organische Materialien wie Holzdächer, Betten, Türen und sogar Lebensmittel. Die Stadt war kleiner und wohlhabender als Pompeji und verfügte über aufwendige mehrstöckige Häuser mit exquisiten Mosaiken und Fresken. Die Erkundung Herculaneums bietet einen intimen und erstaunlich gut erhaltenen Einblick in den elitären römischen Lebensstil.",
+          "hu": "Herculaneum hatalmas gazdagságú ókori római város volt, amely osztozott Pompeji tragikus sorsában a Vezúv Kr. u. 79-es kitörésekor. Pompejivel ellentétben Herculaneumot hatalmas vulkáni iszapáram és piroklasztikus ár temette mélyre, amely elképesztő részletességgel őrizte meg. Ez az egyedülálló betemetkezési forma megvédte a szerves anyagokat, például a fatetőket, ágyakat, ajtókat és még az ételeket is. A város kisebb és gazdagabb volt Pompejinél, kidolgozott többszintes házakkal, gyönyörű mozaikokkal és freskókkal rendelkezett. Herculaneum felfedezése bensőséges és lenyűgözően megőrzött bepillantást nyújt az elit római életmódba.",
+          "ro": "Herculaneum a fost un oraș roman antic de o bogăție imensă care a împărtășit soarta tragică a Pompeiului când Vezuviul a erupt în 79 d.Hr. Spre deosebire de Pompei, Herculaneum a fost îngropat adânc sub un flux masiv de noroi vulcanic și valuri piroclastice, care l-au păstrat în detalii uimitoare. Această formă unică de îngropare a protejat materialele organice, cum ar fi acoperișurile din lemn, paturile, ușile și chiar alimentele. Orașul era mai mic și mai bogat decât Pompei, prezentând case elaborate cu mai multe etaje, cu mozaicuri și fresce rafinate. Explorarea orașului Herculaneum oferă o vedere intimă și uimitor de bine conservată a stilului de viață de elită roman."
     },
     facts: {
-      de: ["Gleichzeitig mit Pompeji 79 n. Chr. zerstört.", "Von einem pyroklastischen Strom erfasst.", "Hervorragend erhaltene Holzstrukturen.", "War ein beliebter Urlaubsort für wohlhabende Römer.", "Gehört zum UNESCO-Weltkulturerbe.", "Entdeckt im Jahr 1709."],
-      hu: ["Pompejivel egy időben, 79-ben pusztult el.", "Piroklasztikus ár borította be.", "Kiválóan megőrzött faszerkezetek.", "A gazdag rómaiak kedvelt nyaralóhelye volt.", "Az UNESCO világörökség része.", "1709-ben fedezték fel."],
-      ro: ["Distrus în același timp cu Pompei în 79 d.Hr.", "Lovit de un flux piroclastic.", "Structuri din lemn excelent conservate.", "Era o destinație populară de vacanță pentru romanii bogați.", "Aparține Patrimoniului Mondial UNESCO.", "Descoperit în anul 1709."],
-      en: ["Destroyed at the same time as Pompeii in 79 AD.", "Hit by a pyroclastic flow.", "Excellently preserved wooden structures.", "Was a popular vacation spot for wealthy Romans.", "Belongs to the UNESCO World Heritage.", "Discovered in 1709."]
+          "en": [
+                "Herculaneum was buried under approximately 20 meters of volcanic material.",
+                "The town was discovered by accident in 1709 during the digging of a well.",
+                "The Villa of the Papyri in Herculaneum contained a vast library of ancient scrolls.",
+                "Skeletons found in the boat houses show how residents unsuccessfully tried to escape.",
+                "The town is named after the mythical hero Hercules.",
+                "Wooden elements, such as carbonized beams and furniture, survived intact.",
+                "Many houses retained their upper stories and elaborate balconies.",
+                "It forms part of the UNESCO World Heritage site alongside Pompeii and Torre Annunziata."
+          ],
+          "de": [
+                "Herculaneum wurde unter etwa 20 Metern vulkanischen Materials begraben.",
+                "Die Stadt wurde 1709 durch Zufall beim Graben eines Brunnens entdeckt.",
+                "Die Villa der Papyri in Herculaneum enthielt eine riesige Bibliothek antiker Schriftrollen.",
+                "In den Bootshäusern gefundene Skelette zeigen, wie Bewohner erfolglos versuchten zu entkommen.",
+                "Die Stadt ist nach dem mythischen Helden Herkules benannt.",
+                "Holzelemente wie verkohlte Balken und Möbel haben unversehrt überlebt.",
+                "Viele Häuser haben ihre oberen Stockwerke und kunstvollen Balkone behalten.",
+                "Sie ist zusammen mit Pompeji und Torre Annunziata Teil des UNESCO-Weltkulturerbes."
+          ],
+          "hu": [
+                "Herculaneumot körülbelül 20 méter vulkáni anyag temette maga alá.",
+                "A várost véletlenül fedezték fel 1709-ben kútásás közben.",
+                "A herculaneumi Papiruszok villája egy hatalmas ősi tekercskönyvtárat rejtett.",
+                "A csónakházakban talált csontvázak megmutatják, hogyan próbáltak a lakosok sikertelenül menekülni.",
+                "A város a mitikus hős, Herkules nevét viseli.",
+                "A faelemek, mint a szenesedett gerendák és bútorok, épen maradtak.",
+                "Sok ház megőrizte felső emeletét és díszes erkélyét.",
+                "Pompejivel és Torre Annunziatával együtt az UNESCO világörökség része."
+          ],
+          "ro": [
+                "Herculaneum a fost îngropat sub aproximativ 20 de metri de material vulcanic.",
+                "Orașul a fost descoperit din întâmplare în 1709 în timpul săpării unei fântâni.",
+                "Vila Papirusurilor din Herculaneum conținea o vastă bibliotecă de pergamente antice.",
+                "Scheletele găsite în casele pentru bărci arată cum locuitorii au încercat fără succes să evadeze.",
+                "Orașul este numit după eroul mitic Hercule.",
+                "Elementele din lemn, cum ar fi grinzile și mobilierul carbonizat, au supraviețuit intacte.",
+                "Multe case și-au păstrat etajele superioare și balcoanele elaborate.",
+                "Face parte din situl Patrimoniului Mondial UNESCO alături de Pompei și Torre Annunziata."
+          ]
     },
     image: "/geo-images/italy/it-herculaneum.webp"
   },
@@ -371,17 +675,55 @@ export const italyCities: POI[] = [
     parent: "IT-62",
     coords: [12.290, 41.755],
     name: { de: "Ostia Antica", hu: "Ostia Antica", ro: "Ostia Antica", en: "Ostia Antica" },
+    
+    
     description: {
-      de: "Ostia Antica war die bedeutende Hafenstadt des antiken Roms an der Mündung des Tiber. Die Ruinenstadt bietet faszinierende Einblicke in Handel und Logistik des römischen Reiches. Sie zeichnet sich durch gut erhaltene Mosaike und Mehrfamilienhäuser aus.",
-      hu: "Ostia Antica az ókori Róma fontos kikötővárosa volt a Tiberis torkolatánál. A romváros lenyűgöző betekintést nyújt a Római Birodalom kereskedelmébe és logisztikájába. Jól megőrzött mozaikok és bérházak jellemzik.",
-      ro: "Ostia Antica a fost importantul oraș-port al Romei antice la gura râului Tibru. Orașul ruinelor oferă o perspectivă fascinantă asupra comerțului și logisticii Imperiului Roman. Se caracterizează prin mozaicuri bine conservate și blocuri de apartamente.",
-      en: "Ostia Antica was the important port city of ancient Rome at the mouth of the Tiber. The ruined city offers fascinating insights into the trade and logistics of the Roman Empire. It is characterized by well-preserved mosaics and apartment blocks."
+          "en": "Ostia Antica was a vital harbor city of ancient Rome, situated at the mouth of the River Tiber on the Tyrrhenian coast. As Rome's main seaport, it was a bustling hub of commerce, trade, and cultural exchange throughout the Empire's height. Over centuries, changing river courses and the silting of the harbor led to its gradual decline and abandonment. Today, Ostia Antica boasts incredibly well-preserved ruins, including multi-story apartment blocks (insulae), a large theater, public baths, and exquisite mosaics. It provides an exceptional glimpse into the daily lives of Rome's working class and merchants.",
+          "de": "Ostia Antica war eine wichtige Hafenstadt des antiken Roms, gelegen an der Mündung des Tiber an der tyrrhenischen Küste. Als Haupthafen Roms war sie während des Höhepunkts des Imperiums ein geschäftiges Zentrum für Handel und kulturellen Austausch. Im Laufe der Jahrhunderte führten veränderte Flussläufe und die Verlandung des Hafens zu ihrem allmählichen Niedergang und ihrer Aufgabe. Heute verfügt Ostia Antica über unglaublich gut erhaltene Ruinen, darunter mehrstöckige Wohnblöcke (Insulae), ein großes Theater, öffentliche Bäder und exquisite Mosaike. Es bietet einen außergewöhnlichen Einblick in das tägliche Leben der römischen Arbeiterklasse und Kaufleute.",
+          "hu": "Ostia Antica az ókori Róma létfontosságú kikötővárosa volt, a Tiberis folyó torkolatánál, a Tirrén-tenger partján. Róma fő tengeri kikötőjeként a kereskedelem és a kulturális csere nyüzsgő központja volt a birodalom fénykorában. Az évszázadok során a folyómeder változása és a kikötő eliszaposodása a város fokozatos hanyatlásához és elhagyásához vezetett. Ma Ostia Antica hihetetlenül jól megőrzött romokkal büszkélkedhet, köztük többszintes bérházakkal (insulae), egy nagy színházzal, nyilvános fürdőkkel és gyönyörű mozaikokkal. Kivételes bepillantást nyújt Róma munkásosztályának és kereskedőinek mindennapi életébe.",
+          "ro": "Ostia Antica a fost un oraș-port vital al Romei antice, situat la gura râului Tibru, pe coasta Mării Tireniene. Ca principal port maritim al Romei, a fost un centru plin de viață al comerțului și schimbului cultural pe tot parcursul apogeului Imperiului. De-a lungul secolelor, schimbarea cursurilor râului și colmatarea portului au dus la declinul și abandonul său treptat. Astăzi, Ostia Antica se mândrește cu ruine incredibil de bine conservate, inclusiv blocuri de apartamente cu mai multe etaje (insulae), un teatru mare, băi publice și mozaicuri rafinate. Oferă o privire excepțională asupra vieții de zi cu zi a clasei muncitoare și a comercianților Romei."
     },
     facts: {
-      de: ["Ehemaliger Haupthafen Roms.", "Zentrum des antiken Seehandels.", "Berühmt für das Theater von Ostia.", "Besitzt beeindruckende Thermen und Mosaike.", "Zeigt das Leben in antiken Mietshäusern (Insulae).", "Wurde langsam wegen Versandung aufgegeben."],
-      hu: ["Róma egykori fő kikötője.", "Az ókori tengeri kereskedelem központja.", "Híres az ostiai színházról.", "Lenyűgöző fürdőkkel és mozaikokkal rendelkezik.", "Bemutatja az ókori bérházak (Insulae) életét.", "A homokosodás miatt lassan elhagyták."],
-      ro: ["Fostul port principal al Romei.", "Centrul comerțului maritim antic.", "Faimos pentru Teatrul din Ostia.", "Deține terme și mozaicuri impresionante.", "Arată viața în blocurile de locuințe antice (Insulae).", "A fost abandonat treptat din cauza înnisipării."],
-      en: ["Former main port of Rome.", "Center of ancient sea trade.", "Famous for the Theater of Ostia.", "Has impressive baths and mosaics.", "Shows life in ancient apartment blocks (Insulae).", "Was slowly abandoned due to silting."]
+          "en": [
+                "Ostia derives its name from 'os' or 'ostium', meaning 'mouth' in Latin.",
+                "It is believed to be the first Roman colony, possibly founded by King Ancus Marcius.",
+                "The Piazzale delle Corporazioni features mosaics denoting the trades of various merchants.",
+                "The city's ancient theater could seat up to 4,000 spectators and is still used today.",
+                "Ostia Antica showcases the development of early Roman brick and concrete architecture.",
+                "Due to silting, the ruins now lie about three kilometers inland from the sea.",
+                "The city was once home to a diverse population of up to 50,000 residents.",
+                "Unlike Pompeii, Ostia was abandoned slowly over centuries, not destroyed suddenly."
+          ],
+          "de": [
+                "Ostia leitet seinen Namen von 'os' oder 'ostium' ab, was auf Lateinisch 'Mund' bedeutet.",
+                "Es wird angenommen, dass es die erste römische Kolonie ist, möglicherweise gegründet von König Ancus Marcius.",
+                "Die Piazzale delle Corporazioni bietet Mosaike, die die Gewerbe verschiedener Kaufleute bezeichnen.",
+                "Das antike Theater der Stadt bot Platz für bis zu 4.000 Zuschauer und wird heute noch genutzt.",
+                "Ostia Antica zeigt die Entwicklung der frühen römischen Ziegel- und Betonarchitektur.",
+                "Aufgrund der Verlandung liegen die Ruinen heute etwa drei Kilometer landeinwärts vom Meer entfernt.",
+                "Die Stadt beheimatete einst eine vielfältige Bevölkerung von bis zu 50.000 Einwohnern.",
+                "Im Gegensatz zu Pompeji wurde Ostia im Laufe der Jahrhunderte langsam aufgegeben, nicht plötzlich zerstört."
+          ],
+          "hu": [
+                "Ostia neve az 'os' vagy 'ostium' szóból származik, ami latinul 'szájat' jelent.",
+                "Úgy tartják, hogy ez volt az első római gyarmat, amelyet valószínűleg Ancus Marcius király alapított.",
+                "A Piazzale delle Corporazioni téren mozaikok láthatók, amelyek a különböző kereskedők mesterségeit jelölik.",
+                "A város ókori színházában akár 4000 néző is helyet foglalhatott, és ma is használják.",
+                "Ostia Antica a korai római tégla- és betonépítészet fejlődését mutatja be.",
+                "Az eliszaposodás miatt a romok ma mintegy három kilométerre a szárazföld belsejében fekszenek.",
+                "A város egykor akár 50 000 lakosú, sokszínű népességnek is otthont adott.",
+                "Pompejivel ellentétben Ostiát az évszázadok során lassan hagyták el, nem hirtelen pusztult el."
+          ],
+          "ro": [
+                "Ostia își trage numele de la 'os' sau 'ostium', care înseamnă 'gură' în latină.",
+                "Se crede că este prima colonie romană, probabil fondată de regele Ancus Marcius.",
+                "Piazzale delle Corporazioni prezintă mozaicuri care denotă meseriile diverșilor negustori.",
+                "Teatrul antic al orașului putea găzdui până la 4.000 de spectatori și este folosit și astăzi.",
+                "Ostia Antica prezintă dezvoltarea arhitecturii romane timpurii din cărămidă și beton.",
+                "Din cauza colmatării, ruinele se află acum la aproximativ trei kilometri spre interior față de mare.",
+                "Orașul găzduia odată o populație diversă de până la 50.000 de locuitori.",
+                "Spre deosebire de Pompei, Ostia a fost abandonată lent de-a lungul secolelor, nu distrusă brusc."
+          ]
     },
     image: "/geo-images/italy/it-ostia-antica.webp"
   },
@@ -391,17 +733,55 @@ export const italyCities: POI[] = [
     parent: "IT-52",
     coords: [11.330, 43.318],
     name: { de: "Siena", hu: "Siena", ro: "Siena", en: "Siena" },
+    
+    
     description: {
-      de: "Siena ist eine mittelalterliche Stadt in der Toskana, die für ihre gotische Architektur berühmt ist. Der muschelförmige Hauptplatz, die Piazza del Campo, ist weltbekannt. Hier findet das traditionelle Pferderennen Palio statt.",
-      hu: "Siena egy toszkánai középkori város, amely gótikus építészetéről híres. A kagyló alakú főtér, a Piazza del Campo világszerte ismert. Itt rendezik meg a hagyományos Palio lóversenyt.",
-      ro: "Siena este un oraș medieval din Toscana, faimos pentru arhitectura sa gotică. Piața principală în formă de scoică, Piazza del Campo, este faimoasă în întreaga lume. Aici are loc cursa tradițională de cai Palio.",
-      en: "Siena is a medieval city in Tuscany, famous for its Gothic architecture. The shell-shaped main square, the Piazza del Campo, is world-famous. The traditional Palio horse race takes place here."
+          "en": "Siena is a stunning medieval city in the heart of Tuscany, distinguished by its medieval brick buildings and its fan-shaped central square, the Piazza del Campo. The city is world-famous for the Palio, a passionate and historic horse race held twice a year around the piazza. Siena's Gothic architecture is epitomized by the magnificent Siena Cathedral (Duomo), which features a striking black and white marble facade. Once a wealthy and powerful city-state that rivaled Florence, its historic center has been designated a UNESCO World Heritage site. It offers a perfect blend of artistic heritage and vibrant local traditions.",
+          "de": "Siena ist eine atemberaubende mittelalterliche Stadt im Herzen der Toskana, die sich durch ihre mittelalterlichen Backsteingebäude und den fächerförmigen zentralen Platz, die Piazza del Campo, auszeichnet. Die Stadt ist weltberühmt für den Palio, ein leidenschaftliches und historisches Pferderennen, das zweimal im Jahr rund um die Piazza ausgetragen wird. Sienas gotische Architektur wird durch den prächtigen Dom (Duomo) verkörpert, der eine auffällige Fassade aus schwarzem und weißem Marmor aufweist. Einst ein wohlhabender und mächtiger Stadtstaat, der mit Florenz wetteiferte, wurde das historische Zentrum zum UNESCO-Weltkulturerbe erklärt. Es bietet eine perfekte Mischung aus künstlerischem Erbe und lebendigen lokalen Traditionen.",
+          "hu": "Siena egy lenyűgöző középkori város Toszkána szívében, amelyet középkori téglaépületei és a legyező alakú központi tere, a Piazza del Campo tesz különlegessé. A város világhírű a Palio nevű történelmi és szenvedélyes lóversenyről, amelyet évente kétszer rendeznek a tér körül. Siena gótikus építészetének megtestesítője a csodálatos Sienai Dóm (Duomo), amelynek feltűnő fekete-fehér márványhomlokzata van. Egykor egy gazdag és hatalmas városállam volt, amely Firenzével versengett, történelmi központja ma UNESCO világörökségi helyszín. A művészeti örökség és az élénk helyi hagyományok tökéletes keverékét kínálja.",
+          "ro": "Siena este un oraș medieval uimitor din inima Toscanei, distins prin clădirile sale medievale din cărămidă și piața centrală în formă de evantai, Piazza del Campo. Orașul este faimos în întreaga lume pentru Palio, o cursă de cai pasionantă și istorică, desfășurată de două ori pe an în jurul pieței. Arhitectura gotică a Sienei este exemplificată de magnifica Catedrală din Siena (Duomo), care prezintă o fațadă izbitoare din marmură alb-negru. Odinioară un oraș-stat bogat și puternic, care a rivalizat cu Florența, centrul său istoric a fost desemnat sit al Patrimoniului Mondial UNESCO. Oferă un amestec perfect de moștenire artistică și tradiții locale vibrante."
     },
     facts: {
-      de: ["Heimat der historischen Piazza del Campo.", "Austragungsort des Palio di Siena.", "Das historische Zentrum ist UNESCO-Weltkulturerbe.", "Bekannt für den Siena-Dom aus schwarz-weißem Marmor.", "War im Mittelalter ein mächtiger Stadtstaat.", "Berühmt für die Sieneser Kunstschule."],
-      hu: ["A történelmi Piazza del Campo otthona.", "A Palio di Siena helyszíne.", "A történelmi központ az UNESCO világörökség része.", "Híres a fekete-fehér márványból épült sienai dómról.", "A középkorban hatalmas városállam volt.", "Híres a sienai művészeti iskoláról."],
-      ro: ["Găzduiește istorica Piazza del Campo.", "Locul de desfășurare al Palio di Siena.", "Centrul istoric este în Patrimoniul Mondial UNESCO.", "Cunoscut pentru Catedrala din Siena, din marmură alb-neagră.", "A fost un puternic oraș-stat în Evul Mediu.", "Faimos pentru școala de artă sieneză."],
-      en: ["Home of the historic Piazza del Campo.", "Venue of the Palio di Siena.", "The historic center is a UNESCO World Heritage site.", "Known for the Siena Cathedral made of black and white marble.", "Was a powerful city-state in the Middle Ages.", "Famous for the Sienese School of art."]
+          "en": [
+                "The historic center of Siena was declared a UNESCO World Heritage site in 1995.",
+                "The Palio horse race takes place on July 2 and August 16 every year.",
+                "The city's symbol is the she-wolf suckling Romulus and Remus.",
+                "The Siena Cathedral's mosaic floor is one of the most ornate in Italy.",
+                "The Mangia Tower (Torre del Mangia) stands 102 meters tall offering panoramic views.",
+                "Siena is divided into 17 historical wards known as 'Contrade'.",
+                "The city was a major banking center in the 13th and 14th centuries.",
+                "Sienese art heavily influenced the course of Italian painting during the Renaissance."
+          ],
+          "de": [
+                "Das historische Zentrum von Siena wurde 1995 zum UNESCO-Weltkulturerbe erklärt.",
+                "Das Palio-Pferderennen findet jedes Jahr am 2. Juli und 16. August statt.",
+                "Das Wahrzeichen der Stadt ist die Wölfin, die Romulus und Remus säugt.",
+                "Der Mosaikboden des Sieneser Doms ist einer der kunstvollsten Italiens.",
+                "Der Mangia-Turm (Torre del Mangia) ist 102 Meter hoch und bietet einen Panoramablick.",
+                "Siena ist in 17 historische Viertel unterteilt, die als 'Contrade' bekannt sind.",
+                "Die Stadt war im 13. und 14. Jahrhundert ein wichtiges Bankenzentrum.",
+                "Die sienesische Kunst beeinflusste den Verlauf der italienischen Malerei in der Renaissance stark."
+          ],
+          "hu": [
+                "Siena történelmi központját 1995-ben az UNESCO világörökség részévé nyilvánították.",
+                "A Palio lóversenyt minden évben július 2-án és augusztus 16-án rendezik.",
+                "A város jelképe a Romulust és Remust szoptató anyafarkas.",
+                "A sienai dóm mozaikpadlója Olaszország egyik legdíszesebbje.",
+                "A Mangia-torony (Torre del Mangia) 102 méter magas, és panorámás kilátást nyújt.",
+                "Sienát 17 történelmi negyedre, úgynevezett 'Contrade'-ra osztják.",
+                "A város a 13. és a 14. században jelentős bankközpont volt.",
+                "A sienai művészet erősen befolyásolta az olasz festészet alakulását a reneszánsz idején."
+          ],
+          "ro": [
+                "Centrul istoric din Siena a fost declarat sit al Patrimoniului Mondial UNESCO în 1995.",
+                "Cursa de cai Palio are loc pe 2 iulie și 16 august în fiecare an.",
+                "Simbolul orașului este lupoaica alăptându-i pe Romulus și Remus.",
+                "Podeaua de mozaic a Catedralei din Siena este una dintre cele mai ornamentate din Italia.",
+                "Turnul Mangia (Torre del Mangia) are o înălțime de 102 metri, oferind vederi panoramice.",
+                "Siena este împărțită în 17 cartiere istorice cunoscute sub numele de 'Contrade'.",
+                "Orașul a fost un important centru bancar în secolele al XIII-lea și al XIV-lea.",
+                "Arta sieneză a influențat masiv cursul picturii italiene în timpul Renașterii."
+          ]
     },
     image: "/geo-images/italy/it-siena.webp"
   },
@@ -411,17 +791,55 @@ export const italyCities: POI[] = [
     parent: "IT-52",
     coords: [11.043, 43.468],
     name: { de: "San Gimignano", hu: "San Gimignano", ro: "San Gimignano", en: "San Gimignano" },
+    
+    
     description: {
-      de: "San Gimignano ist eine malerische Hügelstadt in der Toskana, die als 'Manhattan des Mittelalters' bezeichnet wird. Sie ist berühmt für ihre markanten Geschlechtertürme, die einst Symbole für Reichtum und Macht waren. Das historische Zentrum hat seinen mittelalterlichen Charakter weitgehend bewahrt.",
-      hu: "San Gimignano egy festői toszkánai hegyvidéki város, amelyet a 'középkor Manhattanének' neveznek. Híres jellegzetes lakótornyairól, amelyek egykor a gazdagság és a hatalom szimbólumai voltak. A történelmi központ nagyrészt megőrizte középkori jellegét.",
-      ro: "San Gimignano este un oraș pitoresc pe deal în Toscana, denumit 'Manhattan-ul Evului Mediu'. Este faimos pentru turnurile sale distinctive care au fost cândva simboluri ale bogăției și puterii. Centrul istoric și-a păstrat în mare măsură caracterul medieval.",
-      en: "San Gimignano is a picturesque hill town in Tuscany, referred to as the 'Manhattan of the Middle Ages'. It is famous for its distinctive tower houses, which were once symbols of wealth and power. The historic center has largely preserved its medieval character."
+          "en": "San Gimignano is a highly distinctive small walled medieval hill town in the province of Siena, Tuscany. Known as the 'Town of Fine Towers', it is famous for its surviving medieval tower houses that create an unforgettable skyline, often compared to a medieval Manhattan. At its peak, the town had 72 towers built by patrician families to display their wealth and power. Fourteen of these towers have survived the centuries. The historic center, with its authentic medieval atmosphere, charming piazzas, and Romanesque and Gothic architecture, is a UNESCO World Heritage site.",
+          "de": "San Gimignano ist eine sehr markante, kleine, ummauerte mittelalterliche Hügelstadt in der Provinz Siena, Toskana. Bekannt als die 'Stadt der feinen Türme', ist sie berühmt für ihre erhaltenen mittelalterlichen Geschlechtertürme, die eine unvergessliche Skyline schaffen, die oft mit einem mittelalterlichen Manhattan verglichen wird. Auf ihrem Höhepunkt hatte die Stadt 72 Türme, die von Patrizierfamilien erbaut wurden, um ihren Reichtum und ihre Macht zu demonstrieren. Vierzehn dieser Türme haben die Jahrhunderte überlebt. Das historische Zentrum mit seiner authentischen mittelalterlichen Atmosphäre, bezaubernden Piazzas und romanischen sowie gotischen Architektur ist ein UNESCO-Weltkulturerbe.",
+          "hu": "San Gimignano egy rendkívül jellegzetes, fallal körülvett kis középkori hegyvidéki város Siena tartományban, Toszkánában. A 'Szép tornyok városaként' ismert, és híres fennmaradt középkori lakótornyairól, amelyek felejthetetlen sziluettet alkotnak, gyakran egy középkori Manhattanhez hasonlítják. Fénykorában a városnak 72 tornya volt, amelyeket a patrícius családok építettek gazdagságuk és hatalmuk fitogtatására. E tornyok közül tizennégy vészelte át az évszázadokat. A történelmi központ autentikus középkori hangulatával, hangulatos tereivel, valamint román és gótikus építészetével az UNESCO világörökség része.",
+          "ro": "San Gimignano este un mic oraș medieval pe deal, foarte distinctiv, cu ziduri, din provincia Siena, Toscana. Cunoscut drept 'Orașul Turnurilor Frumoase', este faimos pentru casele sale turn medievale supraviețuitoare care creează un orizont de neuitat, adesea comparat cu un Manhattan medieval. La apogeul său, orașul avea 72 de turnuri construite de familiile patriciene pentru a-și afișa bogăția și puterea. Paisprezece dintre aceste turnuri au supraviețuit secolelor. Centrul istoric, cu atmosfera sa medievală autentică, piețele fermecătoare și arhitectura romanică și gotică, este un sit al Patrimoniului Mondial UNESCO."
     },
     facts: {
-      de: ["Bekannt für seine mittelalterlichen Türme.", "UNESCO-Weltkulturerbe seit 1990.", "Produziert den berühmten Weißwein Vernaccia.", "Wichtige Station auf der Via Francigena.", "Einst gab es hier über 70 Türme, heute noch 14.", "Beliebtes Touristenziel in der Toskana."],
-      hu: ["Középkori tornyairól ismert.", "1990 óta az UNESCO világörökség része.", "Itt állítják elő a híres Vernaccia fehérbort.", "Fontos állomás a Via Francigena zarándokúton.", "Egykor több mint 70 tornya volt, ma már csak 14 áll.", "Népszerű turisztikai célpont Toszkánában."],
-      ro: ["Cunoscut pentru turnurile sale medievale.", "Patrimoniu Mondial UNESCO din 1990.", "Produce celebrul vin alb Vernaccia.", "Stație importantă pe Via Francigena.", "Odinioară existau peste 70 de turnuri, astăzi mai sunt 14.", "Destinație turistică populară în Toscana."],
-      en: ["Known for its medieval towers.", "UNESCO World Heritage site since 1990.", "Produces the famous white wine Vernaccia.", "Important stop on the Via Francigena.", "There were once over 70 towers, today 14 remain.", "Popular tourist destination in Tuscany."]
+          "en": [
+                "San Gimignano's historic center has been a UNESCO World Heritage site since 1990.",
+                "The town produces Vernaccia di San Gimignano, one of Italy's finest white wines.",
+                "The tallest surviving tower is the Torre Grossa, standing at 54 meters.",
+                "The town was an important relay point for pilgrims traveling to or from Rome on the Via Francigena.",
+                "San Gimignano suffered heavily from the Black Death in 1348, causing its decline.",
+                "The Collegiate Church contains stunning 14th-century frescoes depicting biblical scenes.",
+                "Saffron has been cultivated in the area since the Middle Ages.",
+                "Despite its small size, it draws millions of international visitors every year."
+          ],
+          "de": [
+                "Das historische Zentrum von San Gimignano ist seit 1990 UNESCO-Weltkulturerbe.",
+                "Die Stadt produziert Vernaccia di San Gimignano, einen der besten Weißweine Italiens.",
+                "Der höchste erhaltene Turm ist der Torre Grossa mit einer Höhe von 54 Metern.",
+                "Die Stadt war ein wichtiger Relais-Punkt für Pilger auf der Via Francigena nach oder von Rom.",
+                "San Gimignano litt 1348 stark unter dem Schwarzen Tod, was zu seinem Niedergang führte.",
+                "Die Stiftskirche enthält atemberaubende Fresken aus dem 14. Jahrhundert mit biblischen Szenen.",
+                "Safran wird in der Gegend seit dem Mittelalter angebaut.",
+                "Trotz ihrer geringen Größe zieht sie jedes Jahr Millionen internationaler Besucher an."
+          ],
+          "hu": [
+                "San Gimignano történelmi központja 1990 óta az UNESCO világörökség része.",
+                "A város a Vernaccia di San Gimignano nevű, Olaszország egyik legjobb fehérborát termeli.",
+                "A legmagasabb fennmaradt torony a Torre Grossa, amely 54 méter magas.",
+                "A város fontos pihenőhely volt a Rómába vagy onnan a Via Francigenán utazó zarándokok számára.",
+                "San Gimignano sokat szenvedett az 1348-as fekete halál idején, ami hanyatlását okozta.",
+                "Az apátsági templom lenyűgöző, 14. századi freskókat rejt, amelyek bibliai jeleneteket ábrázolnak.",
+                "A középkor óta termesztenek sáfrányt a környéken.",
+                "Kis mérete ellenére évente több millió nemzetközi látogatót vonz."
+          ],
+          "ro": [
+                "Centrul istoric din San Gimignano este sit al Patrimoniului Mondial UNESCO din 1990.",
+                "Orașul produce Vernaccia di San Gimignano, unul dintre cele mai bune vinuri albe din Italia.",
+                "Cel mai înalt turn care a supraviețuit este Torre Grossa, având 54 de metri.",
+                "Orașul a fost un punct de releu important pentru pelerinii care călătoreau spre sau dinspre Roma pe Via Francigena.",
+                "San Gimignano a suferit puternic din cauza Morții Negre în 1348, provocând declinul său.",
+                "Biserica Colegială conține fresce uimitoare din secolul al XIV-lea, care înfățișează scene biblice.",
+                "Șofranul este cultivat în zonă din Evul Mediu.",
+                "În ciuda dimensiunilor sale mici, atrage milioane de vizitatori internaționali în fiecare an."
+          ]
     },
     image: "/geo-images/italy/it-san-gimignano.webp"
   },
@@ -431,17 +849,55 @@ export const italyCities: POI[] = [
     parent: "IT-55",
     coords: [12.617, 43.070],
     name: { de: "Assisi", hu: "Assisi", ro: "Assisi", en: "Assisi" },
+    
+    
     description: {
-      de: "Assisi ist eine charmante Stadt in Umbrien, weltbekannt als Geburtsort des Heiligen Franziskus. Die Basilika San Francesco ist ein Meisterwerk der mittelalterlichen Kunst und Architektur. Die Stadt ist ein bedeutendes Ziel für Pilger und Kunstliebhaber.",
-      hu: "Assisi egy bájos umbriai város, világszerte ismert Assisi Szent Ferenc szülőhelyeként. A Szent Ferenc-bazilika a középkori művészet és építészet remekműve. A város fontos célpontja a zarándokoknak és a művészetkedvelőknek.",
-      ro: "Assisi este un oraș fermecător din Umbria, faimos la nivel mondial ca loc de naștere al Sfântului Francisc. Bazilica San Francesco este o capodoperă a artei și arhitecturii medievale. Orașul este o destinație majoră pentru pelerini și iubitorii de artă.",
-      en: "Assisi is a charming town in Umbria, world-famous as the birthplace of Saint Francis. The Basilica of San Francesco is a masterpiece of medieval art and architecture. The town is a major destination for pilgrims and art lovers."
+          "en": "Assisi is a serene and profoundly spiritual hill town in the Umbria region of central Italy. It is celebrated worldwide as the birthplace of St. Francis, one of Italy's patron saints and the founder of the Franciscan order. The focal point of the town is the Basilica of San Francesco, a massive, two-level church adorned with magnificent frescoes by Giotto and Cimabue that depict the saint's life. Assisi's cobblestone streets, well-preserved medieval houses, and ancient Roman remains create an atmosphere of timeless peace. It continues to be a major pilgrimage destination and a symbol of peace and reconciliation.",
+          "de": "Assisi ist eine ruhige und zutiefst spirituelle Hügelstadt in der Region Umbrien in Mittelitalien. Sie wird weltweit als Geburtsort des Heiligen Franziskus, eines der Schutzpatrone Italiens und Gründer des Franziskanerordens, gefeiert. Der Mittelpunkt der Stadt ist die Basilika San Francesco, eine gewaltige zweistöckige Kirche, die mit prächtigen Fresken von Giotto und Cimabue geschmückt ist, welche das Leben des Heiligen darstellen. Die kopfsteingepflasterten Straßen, gut erhaltenen mittelalterlichen Häuser und antiken römischen Überreste Assisis schaffen eine Atmosphäre zeitlosen Friedens. Es ist nach wie vor ein wichtiges Pilgerziel und ein Symbol für Frieden und Versöhnung.",
+          "hu": "Assisi egy nyugodt és mélyen spirituális hegyvidéki város a közép-olaszországi Umbria régióban. Világszerte Assisi Szent Ferenc, Olaszország egyik védőszentje és a ferences rend alapítója szülőhelyeként ünneplik. A város központja a Szent Ferenc-bazilika, egy hatalmas, kétszintes templom, amelyet Giotto és Cimabue csodálatos freskói díszítenek, amelyek a szent életét ábrázolják. Assisi macskaköves utcái, jól megőrzött középkori házai és ókori római maradványai az időtlen béke atmoszféráját teremtik meg. Továbbra is jelentős zarándokcélpont, valamint a béke és a megbékélés szimbóluma.",
+          "ro": "Assisi este un oraș liniștit și profund spiritual de pe deal, în regiunea Umbria din centrul Italiei. Este celebrat în întreaga lume ca locul de naștere al Sfântului Francisc, unul dintre sfinții patroni ai Italiei și fondatorul ordinului franciscan. Punctul focal al orașului este Bazilica San Francesco, o biserică masivă pe două niveluri, împodobită cu fresce magnifice de Giotto și Cimabue care înfățișează viața sfântului. Străzile pietruite din Assisi, casele medievale bine conservate și rămășițele romane antice creează o atmosferă de pace atemporală. Continuă să fie o destinație majoră de pelerinaj și un simbol al păcii și reconcilierii."
     },
     facts: {
-      de: ["Geburtsort des Heiligen Franziskus und der Heiligen Klara.", "Die Basilika beherbergt Fresken von Giotto.", "UNESCO-Weltkulturerbe.", "Erbaut an den Hängen des Monte Subasio.", "Wichtiger Wallfahrtsort für Christen.", "Symbol für Frieden und interreligiösen Dialog."],
-      hu: ["Szent Ferenc és Szent Klára szülőhelye.", "A bazilikában Giotto freskói találhatók.", "Az UNESCO világörökség része.", "A Monte Subasio lejtőin épült.", "Fontos zarándokhely a keresztények számára.", "A béke és a vallásközi párbeszéd szimbóluma."],
-      ro: ["Locul de naștere al Sfântului Francisc și al Sfintei Clara.", "Bazilica găzduiește fresce de Giotto.", "Patrimoniu Mondial UNESCO.", "Construit pe pantele Muntelui Subasio.", "Loc de pelerinaj important pentru creștini.", "Simbol al păcii și al dialogului interreligios."],
-      en: ["Birthplace of Saint Francis and Saint Clare.", "The Basilica houses frescoes by Giotto.", "UNESCO World Heritage site.", "Built on the slopes of Mount Subasio.", "Important pilgrimage site for Christians.", "Symbol of peace and interreligious dialogue."]
+          "en": [
+                "Assisi is also the birthplace of St. Clare, the founder of the Poor Clares.",
+                "The Basilica of San Francesco contains the sacred tomb of St. Francis.",
+                "In 2000, Assisi and its other Franciscan sites were designated a UNESCO World Heritage site.",
+                "The town was severely damaged by a powerful earthquake in 1997 but has been meticulously restored.",
+                "The Roman Temple of Minerva, located in the main square, is remarkably well-preserved.",
+                "The Rocca Maggiore is a medieval fortress that looms over the town, offering vast views.",
+                "Assisi hosts the 'Spirit of Assisi' interreligious prayer gatherings for peace.",
+                "The Porziuncola, a tiny church crucial to the Franciscan movement, is located inside the Basilica of Santa Maria degli Angeli."
+          ],
+          "de": [
+                "Assisi ist auch der Geburtsort der Heiligen Klara, der Gründerin der Klarissen.",
+                "Die Basilika San Francesco enthält das heilige Grab des Heiligen Franziskus.",
+                "Im Jahr 2000 wurden Assisi und seine anderen franziskanischen Stätten zum UNESCO-Weltkulturerbe erklärt.",
+                "Die Stadt wurde 1997 durch ein starkes Erdbeben schwer beschädigt, aber akribisch restauriert.",
+                "Der römische Minerva-Tempel auf dem Hauptplatz ist bemerkenswert gut erhalten.",
+                "Die Rocca Maggiore ist eine mittelalterliche Festung, die über der Stadt thront und weite Ausblicke bietet.",
+                "Assisi veranstaltet die interreligiösen Friedensgebete 'Geist von Assisi'.",
+                "Die Portiunkula, eine kleine Kirche, die für die franziskanische Bewegung entscheidend ist, befindet sich in der Basilika Santa Maria degli Angeli."
+          ],
+          "hu": [
+                "Assisi Szent Klára, a klarissza rend alapítójának szülőhelye is.",
+                "A Szent Ferenc-bazilika őrzi Szent Ferenc szent sírját.",
+                "2000-ben Assisi és más ferences helyszínei UNESCO világörökségi státuszt kaptak.",
+                "A várost 1997-ben egy erős földrengés súlyosan megrongálta, de aprólékosan helyreállították.",
+                "A főtéren található római Minerva-templom figyelemre méltóan jól megőrzött.",
+                "A Rocca Maggiore egy középkori erőd, amely a város fölé magasodik, és hatalmas kilátást nyújt.",
+                "Assisi ad otthont az 'Assisi Szelleme' vallásközi békeimádságoknak.",
+                "A Porziuncola, a ferences mozgalom számára kulcsfontosságú apró templom a Santa Maria degli Angeli bazilikában található."
+          ],
+          "ro": [
+                "Assisi este, de asemenea, locul de naștere al Sfintei Clara, fondatoarea Clarisei Sărace.",
+                "Bazilica San Francesco conține mormântul sacru al Sfântului Francisc.",
+                "În anul 2000, Assisi și celelalte situri franciscane ale sale au fost desemnate sit al Patrimoniului Mondial UNESCO.",
+                "Orașul a fost grav avariat de un cutremur puternic în 1997, dar a fost restaurat cu meticulozitate.",
+                "Templul roman al Minervei, situat în piața principală, este remarcabil de bine conservat.",
+                "Rocca Maggiore este o fortăreață medievală care domină orașul, oferind vederi vaste.",
+                "Assisi găzduiește întâlnirile de rugăciune interreligioase pentru pace 'Spiritul Assisi'.",
+                "Porziuncola, o biserică minusculă crucială pentru mișcarea franciscană, este situată în interiorul Bazilicii Santa Maria degli Angeli."
+          ]
     },
     image: "/geo-images/italy/it-assisi.webp"
   },
@@ -451,17 +907,55 @@ export const italyCities: POI[] = [
     parent: "IT-62",
     coords: [13.813, 41.489],
     name: { de: "Kloster Montecassino", hu: "Montecassinoi apátság", ro: "Abația Monte Cassino", en: "Monte Cassino Abbey" },
+    
+    
     description: {
-      de: "Die Abtei Montecassino ist das Stammkloster der Benediktiner und thront majestätisch auf einem Berg in der Region Latium. Sie wurde von Benedikt von Nursia gegründet und blickt auf eine bewegte Geschichte zurück. Im Zweiten Weltkrieg wurde sie zerstört und danach originalgetreu wieder aufgebaut.",
-      hu: "A Montecassinoi apátság a bencés rend anyakolostora, amely fenségesen magasodik egy hegyen Lazio régióban. Nursiai Szent Benedek alapította, és mozgalmas múltra tekint vissza. A második világháborúban elpusztult, majd az eredetihez hűen újjáépítették.",
-      ro: "Abația Monte Cassino este mănăstirea mamă a ordinului benedictin și se înalță maiestuos pe un munte din regiunea Lazio. A fost fondată de Benedict de Nursia și are o istorie zbuciumată. A fost distrusă în timpul celui de-al Doilea Război Mondial și ulterior reconstruită fidel.",
-      en: "Monte Cassino Abbey is the mother monastery of the Benedictine order and sits majestically on a mountain in the Lazio region. It was founded by Benedict of Nursia and looks back on an eventful history. It was destroyed in World War II and subsequently rebuilt faithfully."
+          "en": "Monte Cassino is a rocky hill situated about 130 kilometers southeast of Rome, famed as the site of the first house of the Benedictine Order. Founded by St. Benedict of Nursia in 529 AD, the Abbey of Monte Cassino stands as a monumental spiritual and cultural center. Throughout its history, it has been destroyed and rebuilt multiple times, most notoriously during a fierce World War II battle in 1944. Today's meticulously reconstructed abbey shines in resplendent Baroque style and continues to operate as an active monastery. It symbolizes resilience, faith, and the preservation of Western knowledge through the Dark Ages.",
+          "de": "Monte Cassino ist ein felsiger Hügel etwa 130 Kilometer südöstlich von Rom, berühmt als Standort des ersten Hauses des Benediktinerordens. Die 529 n. Chr. vom Heiligen Benedikt von Nursia gegründete Abtei Monte Cassino steht als monumentales spirituelles und kulturelles Zentrum. Im Laufe ihrer Geschichte wurde sie mehrmals zerstört und wieder aufgebaut, am berüchtigtsten während einer heftigen Schlacht im Zweiten Weltkrieg 1944. Die heute akribisch rekonstruierte Abtei erstrahlt in prächtigem Barockstil und fungiert weiterhin als aktives Kloster. Sie symbolisiert Widerstandsfähigkeit, Glauben und die Bewahrung westlichen Wissens im dunklen Zeitalter.",
+          "hu": "Monte Cassino egy sziklás hegy Rómától körülbelül 130 kilométerre délkeletre, híres arról, hogy itt található a bencés rend első háza. A Nursiai Szent Benedek által Kr. u. 529-ben alapított Monte Cassino apátság monumentális spirituális és kulturális központ. Története során többször is elpusztult és újjáépült, a leghírhedtebb módon a második világháború egy heves csatája során, 1944-ben. A ma aprólékosan újjáépített apátság ragyogó barokk stílusban tündököl, és továbbra is aktív kolostorként működik. A rugalmasság, a hit és a nyugati tudás sötét középkoron átívelő megőrzésének szimbóluma.",
+          "ro": "Monte Cassino este un deal stâncos situat la aproximativ 130 de kilometri sud-est de Roma, renumit ca situl primei case a Ordinului Benedictin. Fondată de Sfântul Benedict din Nursia în 529 d.Hr., Abația Monte Cassino se ridică ca un centru spiritual și cultural monumental. De-a lungul istoriei sale, a fost distrusă și reconstruită de mai multe ori, cel mai notoriu în timpul unei lupte acerbe din al Doilea Război Mondial în 1944. Abația de astăzi, reconstruită cu meticulozitate, strălucește într-un stil baroc splendid și continuă să funcționeze ca o mănăstire activă. Simbolizează rezistența, credința și conservarea cunoștințelor occidentale în timpul Epocii Întunecate."
     },
     facts: {
-      de: ["Gegründet um das Jahr 529 n. Chr.", "Wiege des Benediktinerordens.", "Mehrmals zerstört und wieder aufgebaut.", "Schauplatz einer blutigen Schlacht im Jahr 1944.", "Beherbergt wertvolle historische Manuskripte.", "Liegt etwa 130 km südöstlich von Rom."],
-      hu: ["Kr. u. 529 körül alapították.", "A bencés rend bölcsője.", "Többször lerombolták és újjáépítették.", "Véres csata helyszíne 1944-ben.", "Értékes történelmi kéziratokat őriz.", "Rómától mintegy 130 km-re délkeletre fekszik."],
-      ro: ["Fondată în jurul anului 529 d.Hr.", "Leagănul ordinului benedictin.", "Distrusă și reconstruită de mai multe ori.", "Locul unei bătălii sângeroase în 1944.", "Găzduiește manuscrise istorice valoroase.", "Situată la aproximativ 130 km sud-est de Roma."],
-      en: ["Founded around 529 AD.", "Cradle of the Benedictine order.", "Destroyed and rebuilt several times.", "Site of a bloody battle in 1944.", "Houses valuable historical manuscripts.", "Located about 130 km southeast of Rome."]
+          "en": [
+                "St. Benedict wrote his 'Rule' at Monte Cassino, which became the foundational guide for Western monasticism.",
+                "The abbey was completely destroyed by Allied bombing in February 1944.",
+                "Before the WW2 bombing, monks safely evacuated the abbey's invaluable archives to the Vatican.",
+                "It was rebuilt exactly 'where it was and as it was' after the war.",
+                "The abbey contains the tombs of St. Benedict and his twin sister, St. Scholastica.",
+                "Monte Cassino is perched at an elevation of 520 meters (1,706 feet).",
+                "The Polish War Cemetery nearby holds the graves of soldiers who captured the hill in 1944.",
+                "The monastery has a museum displaying ancient manuscripts, paintings, and artifacts."
+          ],
+          "de": [
+                "Der Heilige Benedikt schrieb seine 'Regel' auf Monte Cassino, die zum grundlegenden Leitfaden für das westliche Mönchtum wurde.",
+                "Die Abtei wurde im Februar 1944 durch alliierte Bombenangriffe vollständig zerstört.",
+                "Vor der Bombardierung im Zweiten Weltkrieg evakuierten die Mönche die unschätzbaren Archive der Abtei sicher in den Vatikan.",
+                "Sie wurde nach dem Krieg genau 'dort, wo sie war, und so, wie sie war' wieder aufgebaut.",
+                "Die Abtei beherbergt die Gräber des Heiligen Benedikt und seiner Zwillingsschwester, der Heiligen Scholastika.",
+                "Monte Cassino thront auf einer Höhe von 520 Metern.",
+                "Der nahegelegene Polnische Soldatenfriedhof birgt die Gräber von Soldaten, die den Hügel 1944 eroberten.",
+                "Das Kloster verfügt über ein Museum, das antike Manuskripte, Gemälde und Artefakte zeigt."
+          ],
+          "hu": [
+                "Szent Benedek Monte Cassinóban írta meg a 'Regulát', amely a nyugati szerzetesség alapvető útmutatójává vált.",
+                "Az apátságot 1944 februárjában a szövetségesek bombázása teljesen megsemmisítette.",
+                "A II. világháborús bombázás előtt a szerzetesek biztonságosan a Vatikánba menekítették az apátság felbecsülhetetlen értékű archívumát.",
+                "A háború után pontosan 'ott, ahol volt, és úgy, ahogy volt' építették újjá.",
+                "Az apátságban található Szent Benedek és ikertestvére, Szent Skolasztika sírja.",
+                "A Monte Cassino 520 méteres magasságban helyezkedik el.",
+                "A közeli lengyel katonai temetőben nyugszanak a dombot 1944-ben elfoglaló katonák.",
+                "A kolostorban múzeum működik, amely ősi kéziratokat, festményeket és műtárgyakat mutat be."
+          ],
+          "ro": [
+                "Sfântul Benedict și-a scris 'Regula' la Monte Cassino, care a devenit ghidul fundamental pentru monahismul occidental.",
+                "Abația a fost complet distrusă de bombardamentele Aliate în februarie 1944.",
+                "Înainte de bombardamentul din al Doilea Război Mondial, călugării au evacuat în siguranță arhivele inestimabile ale abației la Vatican.",
+                "A fost reconstruită exact 'acolo unde a fost și așa cum a fost' după război.",
+                "Abația conține mormintele Sfântului Benedict și ale surorii sale gemene, Sfânta Scolastica.",
+                "Monte Cassino este cocoțat la o altitudine de 520 de metri.",
+                "Cimitirul de Război Polonez din apropiere adăpostește mormintele soldaților care au capturat dealul în 1944.",
+                "Mănăstirea are un muzeu care expune manuscrise antice, picturi și artefacte."
+          ]
     },
     image: "/geo-images/italy/it-montecassino.webp"
   },
@@ -471,17 +965,55 @@ export const italyCities: POI[] = [
     parent: "IT-55",
     coords: [12.108, 42.717],
     name: { de: "Orvieto", hu: "Orvieto", ro: "Orvieto", en: "Orvieto" },
+    
+    
     description: {
-      de: "Orvieto ist eine beeindruckende Stadt in Umbrien, die auf einem steilen Tuffsteinfelsen thront. Der Dom von Orvieto gilt als eines der Meisterwerke der italienischen Gotik. Die Stadt ist auch für ihre faszinierende unterirdische Welt und den Orvieto Classico Wein bekannt.",
-      hu: "Orvieto egy lenyűgöző város Umbriában, amely egy meredek tufasziklán magasodik. Az orvietói dóm az olasz gótika egyik remekműve. A város lenyűgöző földalatti világáról és az Orvieto Classico borról is ismert.",
-      ro: "Orvieto este un oraș impresionant din Umbria, așezat pe o stâncă abruptă de tuf vulcanic. Domul din Orvieto este considerat una dintre capodoperele goticului italian. Orașul este cunoscut și pentru lumea sa subterană fascinantă și vinul Orvieto Classico.",
-      en: "Orvieto is an impressive city in Umbria, perched on a steep tuff cliff. The Orvieto Cathedral is considered one of the masterpieces of Italian Gothic. The city is also known for its fascinating underground world and Orvieto Classico wine."
+          "en": "Orvieto is a striking medieval city in Umbria, spectacularly perched atop a steep, flat-topped cliff of volcanic tuff. It has a rich history dating back to Etruscan times, offering visitors a unique blend of ancient and medieval architecture. The city's crown jewel is the magnificent Orvieto Cathedral (Duomo), renowned for its dazzling, golden Gothic facade and the profound frescoes inside by Luca Signorelli. Beneath the charming streets lies a vast underground labyrinth of caves, tunnels, and wells dug over millennia. Orvieto is also famous for its exceptional white wines, which have been celebrated since ancient times.",
+          "de": "Orvieto ist eine beeindruckende mittelalterliche Stadt in Umbrien, die spektakulär auf einer steilen, flachen Klippe aus vulkanischem Tuffstein thront. Sie hat eine reiche Geschichte, die bis in die etruskische Zeit zurückreicht, und bietet Besuchern eine einzigartige Mischung aus antiker und mittelalterlicher Architektur. Das Kronjuwel der Stadt ist der prächtige Dom von Orvieto (Duomo), der für seine schillernde, goldene gotische Fassade und die tiefgründigen Fresken von Luca Signorelli im Inneren bekannt ist. Unter den charmanten Straßen liegt ein riesiges unterirdisches Labyrinth aus Höhlen, Tunneln und Brunnen, das über Jahrtausende gegraben wurde. Orvieto ist auch berühmt für seine außergewöhnlichen Weißweine, die seit der Antike gefeiert werden.",
+          "hu": "Orvieto egy lenyűgöző középkori város Umbriában, amely látványosan egy vulkáni tufából álló, meredek, lapos tetejű sziklán magasodik. Gazdag története az etruszk időkig nyúlik vissza, és az ókori és középkori építészet egyedülálló keverékét kínálja a látogatóknak. A város koronaékszere a csodálatos orvietói dóm (Duomo), amely káprázatos, aranyszínű gótikus homlokzatáról és Luca Signorelli lenyűgöző belső freskóiról híres. A bájos utcák alatt barlangok, alagutak és kutak hatalmas földalatti labirintusa húzódik, amelyet évezredek alatt ástak ki. Orvieto híres a kiváló fehérborairól is, amelyeket az ókor óta ünnepelnek.",
+          "ro": "Orvieto este un oraș medieval izbitor din Umbria, așezat spectaculos în vârful unei stânci abrupte, cu vârf plat, din tuf vulcanic. Are o istorie bogată care datează din epoca etruscă, oferind vizitatorilor un amestec unic de arhitectură antică și medievală. Bijuteria coroanei orașului este magnifica Catedrală din Orvieto (Duomo), renumită pentru fațada sa gotică orbitoare, aurie și pentru frescele profunde din interior realizate de Luca Signorelli. Sub străzile fermecătoare se află un vast labirint subteran de peșteri, tuneluri și fântâni săpate de-a lungul mileniilor. Orvieto este de asemenea faimos pentru vinurile sale albe excepționale, care au fost celebrate încă din antichitate."
     },
     facts: {
-      de: ["Erbaut auf einem Plateau aus vulkanischem Tuffstein.", "Berühmt für die farbenprächtige Fassade des Doms.", "Besitzt den tiefen Brunnen Pozzo di San Patrizio.", "Ein bedeutendes Zentrum der etruskischen Kultur.", "Das unterirdische Höhlensystem ist begehbar.", "Produziert den berühmten Orvieto Weißwein."],
-      hu: ["Vulkanikus tufából álló fennsíkra épült.", "Híres a dóm színpompás homlokzatáról.", "Itt található a mély Pozzo di San Patrizio kút.", "Az etruszk kultúra egyik fontos központja.", "A földalatti barlangrendszer látogatható.", "Itt termelik a híres Orvieto fehérbort."],
-      ro: ["Construit pe un platou de tuf vulcanic.", "Faimos pentru fațada colorată a Domului.", "Deține fântâna adâncă Pozzo di San Patrizio.", "Un centru important al culturii etrusce.", "Sistemul de peșteri subterane este accesibil.", "Produce faimosul vin alb Orvieto."],
-      en: ["Built on a plateau of volcanic tuff.", "Famous for the colorful facade of the cathedral.", "Has the deep well Pozzo di San Patrizio.", "An important center of Etruscan culture.", "The underground cave system is accessible.", "Produces the famous Orvieto white wine."]
+          "en": [
+                "The city sits on a plug of volcanic tuff, giving it a natural defense.",
+                "The Duomo of Orvieto took over three centuries to complete.",
+                "Signorelli's frescoes in the San Brizio Chapel deeply influenced Michelangelo's Last Judgment.",
+                "St. Patrick's Well (Pozzo di San Patrizio) features a double helix staircase to prevent mules from crossing paths.",
+                "The Orvieto Underground tour explores the extensive network of over 1,200 caves.",
+                "Orvieto Classico is one of Italy's most famous and historic white wines.",
+                "The city was an important Etruscan center, likely the ancient city of Velzna.",
+                "Popes often used Orvieto as a refuge during times of conflict in Rome."
+          ],
+          "de": [
+                "Die Stadt liegt auf einem Pfropfen aus vulkanischem Tuffstein, der ihr eine natürliche Verteidigung verleiht.",
+                "Die Fertigstellung des Doms von Orvieto dauerte über drei Jahrhunderte.",
+                "Signorellis Fresken in der San-Brizio-Kapelle beeinflussten Michelangelos Jüngstes Gericht tiefgreifend.",
+                "Der St.-Patricks-Brunnen (Pozzo di San Patrizio) verfügt über eine Doppelhelix-Treppe, um zu verhindern, dass sich die Wege von Maultieren kreuzen.",
+                "Die Tour Orvieto Underground erkundet das ausgedehnte Netzwerk von über 1.200 Höhlen.",
+                "Orvieto Classico ist einer der berühmtesten und historischsten Weißweine Italiens.",
+                "Die Stadt war ein wichtiges etruskisches Zentrum, wahrscheinlich die antike Stadt Velzna.",
+                "Päpste nutzten Orvieto oft als Zufluchtsort in Zeiten von Konflikten in Rom."
+          ],
+          "hu": [
+                "A város egy vulkáni tufadugón fekszik, ami természetes védelmet biztosít számára.",
+                "Az orvietói dóm befejezése több mint három évszázadig tartott.",
+                "Signorelli freskói a San Brizio kápolnában mélyen befolyásolták Michelangelo Utolsó ítéletét.",
+                "Szent Patrik kútja (Pozzo di San Patrizio) kettős spirál alakú lépcsővel rendelkezik, hogy az öszvérek útjai ne keresztezzék egymást.",
+                "Az Orvieto Underground túra a több mint 1200 barlangból álló kiterjedt hálózatot fedezi fel.",
+                "Az Orvieto Classico Olaszország egyik leghíresebb és legtörténelmibb fehérbora.",
+                "A város fontos etruszk központ volt, valószínűleg Velzna ókori városa.",
+                "A pápák gyakran használták Orvietót menedékként a római konfliktusok idején."
+          ],
+          "ro": [
+                "Orașul se află pe un dop de tuf vulcanic, oferindu-i o apărare naturală.",
+                "Finalizarea Domului din Orvieto a durat mai bine de trei secole.",
+                "Frescele lui Signorelli din Capela San Brizio au influențat profund Judecata de Apoi a lui Michelangelo.",
+                "Fântâna Sfântului Patrick (Pozzo di San Patrizio) are o scară cu dublă elice pentru a preveni încrucișarea catârilor.",
+                "Turul Orvieto Underground explorează rețeaua extinsă de peste 1.200 de peșteri.",
+                "Orvieto Classico este unul dintre cele mai faimoase și istorice vinuri albe din Italia.",
+                "Orașul a fost un important centru etrusc, probabil orașul antic Velzna.",
+                "Papii au folosit adesea Orvieto ca refugiu în perioadele de conflict din Roma."
+          ]
     },
     image: "/geo-images/italy/it-orvieto.webp"
   },
@@ -491,17 +1023,55 @@ export const italyCities: POI[] = [
     parent: "IT-77",
     coords: [16.610, 40.666],
     name: { de: "Matera Sassi", hu: "Matera Sassi", ro: "Sassi di Matera", en: "Matera Sassi" },
+    
+    
     description: {
-      de: "Die Sassi di Matera sind historische Höhlensiedlungen in der Region Basilikata. Diese einzigartigen in den Kalkstein geschlagenen Wohnungen gehören zu den ältesten durchgehend bewohnten Siedlungen der Welt. Sie bieten ein faszinierendes und archaisches Stadtbild.",
-      hu: "A Sassi di Matera történelmi barlangtelepülések Basilicata régióban. Ezek az egyedülálló, mészkőbe vájt lakások a világ legrégebbi folyamatosan lakott települései közé tartoznak. Lenyűgöző és archaikus városképet nyújtanak.",
-      ro: "Sassi di Matera sunt așezări istorice în peșteri din regiunea Basilicata. Aceste locuințe unice săpate în calcar sunt printre cele mai vechi așezări locuite continuu din lume. Ele oferă un peisaj urban fascinant și arhaic.",
-      en: "The Sassi di Matera are historic cave settlements in the Basilicata region. These unique dwellings carved into the limestone are among the oldest continuously inhabited settlements in the world. They offer a fascinating and archaic cityscape."
+          "en": "The Sassi di Matera are ancient cave dwellings carved directly into the calcareous rock of the Gravina gorge in the Basilicata region. They represent one of the oldest continuously inhabited human settlements in the world, with evidence of life dating back to the Paleolithic era. The Sassi form a complex and stunning maze of houses, churches, and staircases that seem to grow out of the mountain itself. Once a symbol of profound poverty, the area was revitalized and designated a UNESCO World Heritage site in 1993. Today, it is a bustling cultural destination, offering a unique, almost cinematic journey back in time.",
+          "de": "Die Sassi di Matera sind alte Höhlenwohnungen, die direkt in den Kalkfelsen der Gravina-Schlucht in der Region Basilikata gehauen wurden. Sie stellen eine der ältesten kontinuierlich bewohnten menschlichen Siedlungen der Welt dar, mit Lebensspuren, die bis in die Altsteinzeit zurückreichen. Die Sassi bilden ein komplexes und atemberaubendes Labyrinth aus Häusern, Kirchen und Treppen, die aus dem Berg selbst herauszuwachsen scheinen. Einst ein Symbol tiefer Armut, wurde das Gebiet revitalisiert und 1993 zum UNESCO-Weltkulturerbe erklärt. Heute ist es ein lebhaftes kulturelles Reiseziel, das eine einzigartige, fast filmische Zeitreise bietet.",
+          "hu": "A Sassi di Matera ősi barlanglakások, amelyeket közvetlenül a Basilicata régió Gravina-szurdokának mészkövébe vájtak. Ezek a világ egyik legrégebbi, folyamatosan lakott emberi települését képviselik, az élet nyomai a paleolitikumig nyúlnak vissza. A Sassi házak, templomok és lépcsők összetett és lenyűgöző labirintusát alkotják, amelyek mintha magából a hegyből nőnének ki. Egykor a mély szegénység szimbóluma volt, de a területet újjáélesztették, és 1993-ban UNESCO világörökségi helyszínné nyilvánították. Ma pezsgő kulturális célpont, amely egyedülálló, szinte filmes időutazást kínál.",
+          "ro": "Sassi di Matera sunt locuințe antice în peșteri sculptate direct în stânca calcaroasă a defileului Gravina din regiunea Basilicata. Ele reprezintă una dintre cele mai vechi așezări umane locuite continuu din lume, cu dovezi de viață datând din era paleolitică. Sassi formează un labirint complex și uimitor de case, biserici și scări care par să crească din munte însuși. Odinioară simbol al sărăciei profunde, zona a fost revitalizată și desemnată sit al Patrimoniului Mondial UNESCO în 1993. Astăzi, este o destinație culturală plină de viață, oferind o călătorie unică, aproape cinematografică, înapoi în timp."
     },
     facts: {
-      de: ["Seit der Altsteinzeit bewohnt.", "UNESCO-Weltkulturerbe seit 1993.", "Europäische Kulturhauptstadt 2019.", "Beliebte Kulisse für biblische Filme.", "Besteht aus zwei Hauptvierteln: Sasso Caveoso und Sasso Barisano.", "Wurde einst als 'Schande Italiens' bezeichnet."],
-      hu: ["A paleolitikum óta lakott.", "1993 óta az UNESCO világörökség része.", "2019-ben Európa Kulturális Fővárosa volt.", "Bibliai filmek kedvelt forgatási helyszíne.", "Két fő negyedből áll: Sasso Caveoso és Sasso Barisano.", "Egykor 'Olaszország szégyenének' nevezték."],
-      ro: ["Locuit din paleolitic.", "Patrimoniu Mondial UNESCO din 1993.", "Capitală Europeană a Culturii în 2019.", "Decor popular pentru filme biblice.", "Este format din două cartiere principale: Sasso Caveoso și Sasso Barisano.", "A fost denumit cândva 'Rușinea Italiei'."],
-      en: ["Inhabited since the Paleolithic era.", "UNESCO World Heritage site since 1993.", "European Capital of Culture in 2019.", "Popular setting for biblical films.", "Consists of two main districts: Sasso Caveoso and Sasso Barisano.", "Was once called the 'Shame of Italy'."]
+          "en": [
+                "People have lived in the Sassi di Matera for at least 9,000 years.",
+                "In the 1950s, the Italian government relocated residents due to severe unsanitary conditions.",
+                "The Sassi include over a hundred Rupestrian churches carved into the rock.",
+                "It was named the European Capital of Culture in 2019.",
+                "Matera has been a filming location for movies like 'The Passion of the Christ' and 'No Time to Die'.",
+                "The architecture relies on a complex system of cisterns to collect rainwater.",
+                "Many ancient caves have been converted into luxury hotels and restaurants.",
+                "The area is divided into two main districts: Sasso Caveoso and Sasso Barisano."
+          ],
+          "de": [
+                "Menschen leben seit mindestens 9.000 Jahren in den Sassi di Matera.",
+                "In den 1950er Jahren siedelte die italienische Regierung die Bewohner aufgrund der katastrophalen hygienischen Bedingungen um.",
+                "Die Sassi umfassen über hundert in den Fels gehauene Felsenkirchen.",
+                "Sie wurde 2019 zur Kulturhauptstadt Europas ernannt.",
+                "Matera war Drehort für Filme wie 'Die Passion Christi' und 'Keine Zeit zu sterben'.",
+                "Die Architektur stützt sich auf ein komplexes Zisternensystem zum Sammeln von Regenwasser.",
+                "Viele alte Höhlen wurden in Luxushotels und Restaurants umgewandelt.",
+                "Das Gebiet ist in zwei Hauptbezirke unterteilt: Sasso Caveoso und Sasso Barisano."
+          ],
+          "hu": [
+                "A Sassi di Materában legalább 9000 éve élnek emberek.",
+                "Az 1950-es években az olasz kormány a súlyos egészségtelen körülmények miatt áttelepítette a lakosokat.",
+                "A Sassi több mint száz sziklába vájt sziklatemplomot foglal magába.",
+                "2019-ben Európa Kulturális Fővárosának választották.",
+                "Matera olyan filmek forgatási helyszíne volt, mint 'A passió' és a 'Nincs idő meghalni'.",
+                "Az építészet a csapadékvíz összegyűjtésére szolgáló komplex ciszternarendszerre támaszkodik.",
+                "Sok ősi barlangot luxusszállodává és étteremmé alakítottak át.",
+                "A terület két fő negyedre oszlik: Sasso Caveoso és Sasso Barisano."
+          ],
+          "ro": [
+                "Oamenii au trăit în Sassi di Matera de cel puțin 9.000 de ani.",
+                "În anii 1950, guvernul italian a relocat locuitorii din cauza condițiilor insalubre severe.",
+                "Sassi includ peste o sută de biserici rupestre sculptate în stâncă.",
+                "A fost numită Capitală Europeană a Culturii în 2019.",
+                "Matera a fost o locație de filmare pentru filme precum 'Patimile lui Hristos' și 'Nu e vreme de murit'.",
+                "Arhitectura se bazează pe un sistem complex de cisterne pentru a colecta apa de ploaie.",
+                "Multe peșteri antice au fost transformate în hoteluri și restaurante de lux.",
+                "Zona este împărțită în două cartiere principale: Sasso Caveoso și Sasso Barisano."
+          ]
     },
     image: "/geo-images/italy/it-matera-sassi.webp"
   },
@@ -511,17 +1081,55 @@ export const italyCities: POI[] = [
     parent: "IT-57",
     coords: [13.250, 43.220],
     name: { de: "Pietraperla", hu: "Pietraperla", ro: "Pietraperla", en: "Pietraperla" },
+    
+    
     description: {
-      de: "Pietraperla ist ein verstecktes landschaftliches Juwel in den Marken. Bekannt für seine idyllische Umgebung und historischen Steinbauten bietet der Ort eine authentische Atmosphäre abseits des Massentourismus. Hier kann man die traditionelle italienische Lebensart in vollen Zügen genießen.",
-      hu: "Pietraperla egy rejtett táji ékszerdoboz Marche régióban. Idilli környezetéről és történelmi kőépületeiről ismert, autentikus atmoszférát kínál a tömegturizmustól távol. Itt a hagyományos olasz életmódot lehet élvezni.",
-      ro: "Pietraperla este o bijuterie ascunsă a peisajului din Marche. Cunoscută pentru împrejurimile sale idilice și clădirile istorice din piatră, locul oferă o atmosferă autentică, departe de turismul de masă. Aici vă puteți bucura din plin de stilul de viață tradițional italian.",
-      en: "Pietraperla is a hidden scenic gem in the Marche region. Known for its idyllic surroundings and historic stone buildings, the place offers an authentic atmosphere away from mass tourism. Here you can fully enjoy the traditional Italian way of life."
+          "en": "Pietraperla is a serene, hidden gem nestled in the picturesque landscapes of the Marche region. Characterized by its idyllic, rolling hills and traditional stone architecture, it offers a deeply authentic Italian experience far removed from the bustling crowds of mass tourism. The village exudes a quiet charm, where life moves at a leisurely pace and the traditions of the countryside are still fiercely preserved. Visitors can explore ancient, winding alleyways, historic churches, and breathtaking panoramic views of the Apennine Mountains. Pietraperla is an ideal retreat for hikers, nature lovers, and anyone seeking the soul of rural Italy.",
+          "de": "Pietraperla ist ein ruhiges, verstecktes Juwel, eingebettet in die malerischen Landschaften der Region Marken. Geprägt von seinen idyllischen, sanften Hügeln und der traditionellen Steinarchitektur bietet es ein zutiefst authentisches italienisches Erlebnis fernab der geschäftigen Massen des Massentourismus. Das Dorf versprüht einen ruhigen Charme, wo das Leben in gemächlichem Tempo verläuft und die Traditionen des Landes noch immer leidenschaftlich bewahrt werden. Besucher können alte, verwinkelte Gassen, historische Kirchen und atemberaubende Panoramablicke auf den Apennin erkunden. Pietraperla ist ein idealer Rückzugsort für Wanderer, Naturliebhaber und alle, die die Seele des ländlichen Italiens suchen.",
+          "hu": "Pietraperla egy békés, rejtett gyöngyszem a Marche régió festői tájain. Az idilli, lankás dombok és a hagyományos kőépítészet jellemzi, és mélyen autentikus olasz élményt nyújt, messze a tömegturizmus nyüzsgésétől. A falu csendes bájt áraszt, ahol az élet kényelmes tempóban zajlik, és a vidék hagyományait ma is hevesen őrzik. A látogatók ősi, kanyargós sikátorokat, történelmi templomokat és az Appenninekre nyíló lélegzetelállító panorámát fedezhetnek fel. Pietraperla ideális menedék a túrázók, a természet szerelmesei és bárki számára, aki a vidéki Olaszország lelkét keresi.",
+          "ro": "Pietraperla este o bijuterie liniștită, ascunsă, cuibărită în peisajele pitorești ale regiunii Marche. Caracterizat prin dealurile sale idilice, ondulate și arhitectura tradițională din piatră, oferă o experiență italiană profund autentică, departe de mulțimile aglomerate ale turismului de masă. Satul emană un farmec liniștit, unde viața se desfășoară într-un ritm relaxat și tradițiile zonei rurale sunt încă păstrate cu sfințenie. Vizitatorii pot explora alei antice șerpuite, biserici istorice și vederi panoramice uluitoare ale Munților Apenini. Pietraperla este un refugiu ideal pentru drumeții, iubitorii de natură și oricine caută sufletul Italiei rurale."
     },
     facts: {
-      de: ["Charmantes Dorf in der Region Marken.", "Geprägt von traditioneller Steinarchitektur.", "Abseits der großen Touristenströme.", "Umgeben von sanften Hügeln und Natur.", "Ideal für Ruhesuchende und Wanderer.", "Lokale Gastronomie mit regionalen Spezialitäten."],
-      hu: ["Bájos falu Marche régióban.", "Hagyományos kőépítészet jellemzi.", "Távol a nagy turistahadaktól.", "Szelíd dombok és természet veszi körül.", "Ideális a nyugalmat keresőknek és túrázóknak.", "Helyi gasztronómia regionális specialitásokkal."],
-      ro: ["Sat fermecător în regiunea Marche.", "Caracterizat prin arhitectura tradițională din piatră.", "Departe de mulțimile mari de turiști.", "Înconjurat de dealuri blânde și natură.", "Ideal pentru cei care caută liniște și pentru drumeții.", "Gastronomie locală cu specialități regionale."],
-      en: ["Charming village in the Marche region.", "Characterized by traditional stone architecture.", "Away from the large tourist crowds.", "Surrounded by rolling hills and nature.", "Ideal for those seeking tranquility and hikers.", "Local gastronomy with regional specialties."]
+          "en": [
+                "Pietraperla remains largely undiscovered by international tourism.",
+                "Its architecture is primarily composed of local white and pink limestone.",
+                "The village is surrounded by lush vineyards, olive groves, and sunflower fields.",
+                "It serves as an excellent starting point for trekking and cycling in the Apennines.",
+                "Local gastronomy features robust Marche specialties like truffles and pecorino cheese.",
+                "Traditional festivals celebrating local harvests are a major part of community life.",
+                "Many historic buildings in Pietraperla date back to the Middle Ages.",
+                "It offers a completely tranquil environment, promoting a 'slow tourism' lifestyle."
+          ],
+          "de": [
+                "Pietraperla ist vom internationalen Tourismus noch weitgehend unentdeckt.",
+                "Seine Architektur besteht hauptsächlich aus lokalem weißem und rosa Kalkstein.",
+                "Das Dorf ist von üppigen Weinbergen, Olivenhainen und Sonnenblumenfeldern umgeben.",
+                "Es dient als hervorragender Ausgangspunkt für Trekking- und Radtouren im Apennin.",
+                "Die lokale Gastronomie bietet kräftige Spezialitäten der Marken wie Trüffel und Pecorino-Käse.",
+                "Traditionelle Feste zur Feier der lokalen Ernte sind ein wichtiger Bestandteil des Gemeindelebens.",
+                "Viele historische Gebäude in Pietraperla stammen aus dem Mittelalter.",
+                "Es bietet eine völlig ruhige Umgebung und fördert einen 'langsamen Tourismus'-Lebensstil."
+          ],
+          "hu": [
+                "Pietraperla a nemzetközi turizmus számára még nagyrészt felfedezetlen.",
+                "Építészete elsősorban helyi fehér és rózsaszín mészkőből áll.",
+                "A falut buja szőlőültetvények, olajfaligetek és napraforgómezők veszik körül.",
+                "Kiváló kiindulópontként szolgál az Appenninekben történő túrázáshoz és kerékpározáshoz.",
+                "A helyi gasztronómia olyan robusztus Marche-i specialitásokat kínál, mint a szarvasgomba és a pecorino sajt.",
+                "A helyi betakarítást ünneplő hagyományos fesztiválok a közösségi élet fontos részét képezik.",
+                "Pietraperla számos történelmi épülete a középkorból származik.",
+                "Teljesen nyugodt környezetet kínál, elősegítve a 'lassú turizmus' (slow tourism) életmódját."
+          ],
+          "ro": [
+                "Pietraperla rămâne în mare parte nedescoperită de turismul internațional.",
+                "Arhitectura sa este compusă în principal din calcar local alb și roz.",
+                "Satul este înconjurat de podgorii luxuriante, plantații de măslini și câmpuri de floarea-soarelui.",
+                "Servește ca un punct de plecare excelent pentru drumeții și ciclism în Apenini.",
+                "Gastronomia locală prezintă specialități robuste din Marche, cum ar fi trufele și brânza pecorino.",
+                "Festivalurile tradiționale care sărbătoresc recoltele locale sunt o parte majoră a vieții comunitare.",
+                "Multe clădiri istorice din Pietraperla datează din Evul Mediu.",
+                "Oferă un mediu complet liniștit, promovând un stil de viață 'turism lent'."
+          ]
     },
     image: "/geo-images/italy/it-pietraperla.webp"
   },
@@ -531,17 +1139,55 @@ export const italyCities: POI[] = [
     parent: "IT-23",
     coords: [7.267, 45.517],
     name: { de: "Nationalpark Gran Paradiso", hu: "Gran Paradiso Nemzeti Park", ro: "Parcul Național Gran Paradiso", en: "Gran Paradiso National Park" },
+    
+    
     description: {
-      de: "Der Nationalpark Gran Paradiso ist der älteste Nationalpark Italiens, gelegen in den Grajischen Alpen. Er wurde ursprünglich als königliches Jagdrevier zum Schutz der Alpensteinböcke gegründet. Die unberührte alpine Landschaft bietet majestätische Gipfel, Gletscher und dichte Wälder.",
-      hu: "A Gran Paradiso Nemzeti Park Olaszország legrégebbi nemzeti parkja, a Graji-Alpokban található. Eredetileg királyi vadászterületként hozták létre a kőszáli kecskék védelmére. Az érintetlen alpesi táj fenséges csúcsokat, gleccsereket és sűrű erdőket kínál.",
-      ro: "Parcul Național Gran Paradiso este cel mai vechi parc național din Italia, situat în Alpii Graici. A fost fondat inițial ca un teren regal de vânătoare pentru a proteja ibexul alpin. Peisajul alpin neatins oferă vârfuri maiestuoase, ghețari și păduri dese.",
-      en: "Gran Paradiso National Park is Italy's oldest national park, located in the Graian Alps. It was originally founded as a royal hunting ground to protect the Alpine ibex. The pristine alpine landscape offers majestic peaks, glaciers, and dense forests."
+          "en": "Gran Paradiso National Park is Italy's oldest and one of its most stunning national parks, situated in the Graian Alps between the Aosta Valley and Piedmont. Originally established in 1922 to protect the endangered Alpine ibex from extinction, it spans over 700 square kilometers of dramatic mountain terrain. The park's landscape is characterized by soaring, glacier-capped peaks, deep U-shaped valleys, and dense, ancient forests of larch and fir. The centerpiece is the Gran Paradiso mountain, the only peak over 4,000 meters entirely within Italian borders. It remains a premier destination for hiking, wildlife observation, and high-altitude mountaineering.",
+          "de": "Der Nationalpark Gran Paradiso ist Italiens ältester und einer seiner atemberaubendsten Nationalparks, gelegen in den Grajischen Alpen zwischen dem Aostatal und dem Piemont. Ursprünglich 1922 gegründet, um den gefährdeten Alpensteinbock vor dem Aussterben zu bewahren, erstreckt er sich über mehr als 700 Quadratkilometer dramatisches Gebirgsgelände. Die Landschaft des Parks ist geprägt von hoch aufragenden, gletscherbedeckten Gipfeln, tiefen U-förmigen Tälern und dichten, alten Lärchen- und Tannenwäldern. Das Herzstück ist der Berg Gran Paradiso, der einzige Gipfel über 4.000 Meter, der vollständig innerhalb der italienischen Grenzen liegt. Er bleibt ein erstklassiges Ziel für Wanderungen, Wildtierbeobachtungen und Hochgebirgsalpinismus.",
+          "hu": "A Gran Paradiso Nemzeti Park Olaszország legrégebbi és egyik leglenyűgözőbb nemzeti parkja, amely a Graji-Alpokban, Valle d'Aosta és Piemont között található. Eredetileg 1922-ben hozták létre a veszélyeztetett kőszáli kecske kihalástól való megmentésére, és több mint 700 négyzetkilométernyi drámai hegyvidéki terepet ölel fel. A park táját égbe nyúló, gleccserekkel borított csúcsok, mély U alakú völgyek és sűrű, ősi vörösfenyő- és jegenyefenyőerdők jellemzik. A központja a Gran Paradiso hegy, az egyetlen 4000 méter feletti csúcs, amely teljes egészében az olasz határokon belül található. Továbbra is a túrázás, a vadon élő állatok megfigyelése és a magashegyi hegymászás első számú célpontja.",
+          "ro": "Parcul Național Gran Paradiso este cel mai vechi și unul dintre cele mai uimitoare parcuri naționale din Italia, situat în Alpii Graici între Valea Aosta și Piemont. Fondat inițial în 1922 pentru a proteja ibexul alpin pe cale de dispariție, acesta se întinde pe o suprafață de peste 700 de kilometri pătrați de teren montan dramatic. Peisajul parcului este caracterizat de vârfuri înalte, acoperite de ghețari, văi adânci în formă de U și păduri dese și antice de zadă și brad. Piesa centrală este muntele Gran Paradiso, singurul vârf de peste 4.000 de metri aflat în întregime în granițele italiene. Rămâne o destinație principală pentru drumeții, observarea faunei sălbatice și alpinism la mare altitudine."
     },
     facts: {
-      de: ["Gegründet im Jahr 1922.", "Erster Nationalpark Italiens.", "Benannt nach dem Berg Gran Paradiso (4.061 m).", "Schutzgebiet für den seltenen Alpensteinbock.", "Liegt im Piemont und im Aostatal.", "Bietet Hunderte von Kilometern an Wanderwegen."],
-      hu: ["1922-ben alapították.", "Olaszország első nemzeti parkja.", "A Gran Paradiso hegyről (4061 m) kapta a nevét.", "A ritka kőszáli kecske védett területe.", "Piemontban és Valle d'Aosta-ban található.", "Több száz kilométernyi túraútvonalat kínál."],
-      ro: ["Fondat în anul 1922.", "Primul parc național din Italia.", "Numit după muntele Gran Paradiso (4.061 m).", "Zonă protejată pentru rarii ibecși alpini.", "Situat în Piemont și Valea Aosta.", "Oferă sute de kilometri de trasee montane."],
-      en: ["Founded in 1922.", "Italy's first national park.", "Named after the Gran Paradiso mountain (4,061 m).", "Protected area for the rare Alpine ibex.", "Located in Piedmont and the Aosta Valley.", "Offers hundreds of kilometers of hiking trails."]
+          "en": [
+                "The park was originally the private hunting reserve of King Victor Emmanuel II.",
+                "It succeeded in saving the Alpine ibex, which is now the symbol of the park.",
+                "The Gran Paradiso peak reaches an elevation of 4,061 meters (13,323 feet).",
+                "The park is home to golden eagles, chamois, marmots, and the bearded vulture.",
+                "It features over 500 kilometers of marked trails for visitors.",
+                "The park spans an area where both French and Italian are traditionally spoken.",
+                "Alpine botanical gardens within the park showcase rare, high-altitude flora.",
+                "The landscape was heavily shaped by glacial activity during the last Ice Age."
+          ],
+          "de": [
+                "Der Park war ursprünglich das private Jagdrevier von König Viktor Emanuel II.",
+                "Er war erfolgreich bei der Rettung des Alpensteinbocks, der heute das Symbol des Parks ist.",
+                "Der Gipfel des Gran Paradiso erreicht eine Höhe von 4.061 Metern.",
+                "Der Park beherbergt Steinadler, Gämsen, Murmeltiere und Bartgeier.",
+                "Er bietet über 500 Kilometer markierte Wanderwege für Besucher.",
+                "Der Park erstreckt sich über ein Gebiet, in dem traditionell sowohl Französisch als auch Italienisch gesprochen wird.",
+                "Alpine botanische Gärten im Park zeigen seltene Hochgebirgsflora.",
+                "Die Landschaft wurde stark von der Gletscheraktivität während der letzten Eiszeit geprägt."
+          ],
+          "hu": [
+                "A park eredetileg II. Viktor Emánuel király magán vadászterülete volt.",
+                "Sikeresen megmentette a kőszáli kecskét, amely ma a park szimbóluma.",
+                "A Gran Paradiso csúcsa 4061 méter magasságot ér el.",
+                "A park szirti sasok, zergék, mormoták és szakállas saskeselyűk otthona.",
+                "Több mint 500 kilométer jelzett ösvényt kínál a látogatóknak.",
+                "A park olyan területet ölel fel, ahol hagyományosan franciául és olaszul is beszélnek.",
+                "A parkon belüli alpesi botanikus kertek ritka, magashegyi növényvilágot mutatnak be.",
+                "A tájat erősen formálta a gleccsertevékenység a legutóbbi jégkorszak során."
+          ],
+          "ro": [
+                "Parcul a fost inițial rezervația privată de vânătoare a regelui Victor Emanuel al II-lea.",
+                "A reușit să salveze ibexul alpin, care este acum simbolul parcului.",
+                "Vârful Gran Paradiso atinge o altitudine de 4.061 de metri.",
+                "Parcul găzduiește vulturi aurii, capre negre, marmote și zăganul.",
+                "Dispune de peste 500 de kilometri de trasee marcate pentru vizitatori.",
+                "Parcul se întinde pe o zonă în care se vorbesc în mod tradițional atât franceza, cât și italiana.",
+                "Grădinile botanice alpine din cadrul parcului prezintă o floră rară de mare altitudine.",
+                "Peisajul a fost puternic modelat de activitatea glaciară din timpul ultimei ere glaciare."
+          ]
     },
     image: "/geo-images/italy/it-gran-paradiso.webp"
   },
@@ -551,17 +1197,55 @@ export const italyCities: POI[] = [
     parent: "IT-65",
     coords: [13.750, 41.883],
     name: { de: "Nationalpark Abruzzen", hu: "Abruzzo Nemzeti Park", ro: "Parcul Național Abruzzo", en: "Abruzzo National Park" },
+    
+    
     description: {
-      de: "Der Nationalpark Abruzzen, Latium und Molise ist eines der wichtigsten Naturschutzgebiete im Apennin. Er ist berühmt für den Schutz seltener heimischer Tierarten wie dem Marsischen Braunbären. Tiefe Wälder, weite Täler und malerische Dörfer prägen das Bild.",
-      hu: "Az Abruzzo, Lazio és Molise Nemzeti Park az Appenninek egyik legfontosabb természetvédelmi területe. Híres az olyan ritka őshonos állatfajok védelméről, mint a marsicai barnamedve. Mély erdők, széles völgyek és festői falvak jellemzik a tájat.",
-      ro: "Parcul Național Abruzzo, Lazio și Molise este una dintre cele mai importante rezervații naturale din Apenini. Este faimos pentru protejarea speciilor rare de animale autohtone, cum ar fi ursul brun marsican. Păduri adânci, văi largi și sate pitorești domină peisajul.",
-      en: "The Abruzzo, Lazio and Molise National Park is one of the most important nature reserves in the Apennines. It is famous for protecting rare native animal species such as the Marsican brown bear. Deep forests, wide valleys, and picturesque villages characterize the landscape."
+          "en": "The Abruzzo, Lazio and Molise National Park is one of Italy's most vital nature reserves, located in the heart of the Apennine Mountains. Spanning three regions, it is famous for its dense, ancient beech forests, rolling meadows, and pristine mountain lakes. The park plays a crucial global role in wildlife conservation, famously serving as the primary sanctuary for the endangered Marsican brown bear and the Apennine wolf. Its rugged, wild landscape is dotted with enchanting, well-preserved medieval villages that have lived in harmony with nature for centuries. It is a true paradise for ecotourism and hiking enthusiasts.",
+          "de": "Der Nationalpark Abruzzen, Latium und Molise ist eines der wichtigsten Naturschutzgebiete Italiens und liegt im Herzen des Apennin. Er erstreckt sich über drei Regionen und ist berühmt für seine dichten, alten Buchenwälder, sanften Wiesen und unberührten Bergseen. Der Park spielt weltweit eine entscheidende Rolle beim Schutz der Tierwelt und ist berühmt als wichtigstes Zufluchtsgebiet für den stark gefährdeten Marsischen Braunbären und den Apennin-Wolf. Seine raue, wilde Landschaft ist übersät mit bezaubernden, gut erhaltenen mittelalterlichen Dörfern, die seit Jahrhunderten in Harmonie mit der Natur leben. Es ist ein wahres Paradies für Ökotourismus und Wanderfreunde.",
+          "hu": "Az Abruzzo, Lazio és Molise Nemzeti Park Olaszország egyik legfontosabb természetvédelmi területe, amely az Appenninek szívében található. A három régiót átfogó park sűrű, ősi bükkerdőiről, lankás rétjeiről és érintetlen hegyi tavairól híres. A park kulcsfontosságú globális szerepet játszik a vadvilág megőrzésében, és híresen a veszélyeztetett marsicai barnamedve és az appennini farkas elsődleges menedékhelyeként szolgál. Zord, vad táját varázslatos, jól megőrzött középkori falvak tarkítják, amelyek évszázadok óta harmóniában élnek a természettel. Igazi paradicsom az ökoturizmus és a túrázás szerelmeseinek.",
+          "ro": "Parcul Național Abruzzo, Lazio și Molise este una dintre cele mai vitale rezervații naturale din Italia, situată în inima Munților Apenini. Întinzându-se pe trei regiuni, este faimos pentru pădurile sale dese și antice de fagi, pajiștile ondulate și lacurile de munte imaculate. Parcul joacă un rol global crucial în conservarea faunei sălbatice, servind în mod faimos ca sanctuar principal pentru ursul brun marsican pe cale de dispariție și lupul apenin. Peisajul său accidentat și sălbatic este presărat cu sate medievale fermecătoare și bine conservate, care au trăit în armonie cu natura timp de secole. Este un adevărat paradis pentru ecoturism și pasionații de drumeții."
     },
     facts: {
-      de: ["Gegründet im Jahr 1923.", "Wichtiges Refugium für den Apennin-Wolf und den Braunbären.", "Bedeckt über 500 Quadratkilometer.", "Landschaft aus Bergen, Seen und alten Wäldern.", "Pionier im italienischen Naturschutz.", "Ganzjährig beliebtes Ziel für Ökotourismus."],
-      hu: ["1923-ban alapították.", "Az appennini farkas és a barnamedve fontos menedéke.", "Több mint 500 négyzetkilométert fed le.", "Hegyekből, tavakból és öreg erdőkből álló táj.", "Az olasz természetvédelem úttörője.", "Egész évben népszerű ökoturisztikai célpont."],
-      ro: ["Fondat în anul 1923.", "Refugiu important pentru lupul apenin și ursul brun.", "Acoperă peste 500 de kilometri pătrați.", "Peisaj cu munți, lacuri și păduri seculare.", "Pionier în conservarea naturii din Italia.", "Destinație populară pe tot parcursul anului pentru ecoturism."],
-      en: ["Founded in 1923.", "Important refuge for the Apennine wolf and brown bear.", "Covers over 500 square kilometers.", "Landscape of mountains, lakes, and ancient forests.", "Pioneer in Italian nature conservation.", "Year-round popular destination for ecotourism."]
+          "en": [
+                "The park was officially established in 1923 to protect local wildlife.",
+                "It is the last stronghold of the critically endangered Marsican brown bear.",
+                "The ancient beech forests of the park are recognized as a UNESCO World Heritage site.",
+                "More than 60% of the park's territory is covered by forests.",
+                "The park successfully reestablished the population of the Apennine chamois.",
+                "Lake Barrea and Lake Vivo are picturesque artificial lakes within the park.",
+                "Pescasseroli is often considered the 'capital' and main visitor hub of the park.",
+                "It is one of the oldest national parks in Italy, pioneering conservation efforts."
+          ],
+          "de": [
+                "Der Park wurde 1923 offiziell gegründet, um die lokale Tierwelt zu schützen.",
+                "Er ist die letzte Hochburg des vom Aussterben bedrohten Marsischen Braunbären.",
+                "Die alten Buchenwälder des Parks sind als UNESCO-Weltkulturerbe anerkannt.",
+                "Mehr als 60 % der Parkfläche sind von Wäldern bedeckt.",
+                "Der Park hat die Population der Apennin-Gämse erfolgreich wiederhergestellt.",
+                "Der Barrea-See und der Vivo-See sind malerische künstliche Seen im Park.",
+                "Pescasseroli wird oft als 'Hauptstadt' und Hauptbesuchszentrum des Parks angesehen.",
+                "Er ist einer der ältesten Nationalparks in Italien und ein Pionier in Sachen Naturschutz."
+          ],
+          "hu": [
+                "A parkot hivatalosan 1923-ban hozták létre a helyi vadvilág védelme érdekében.",
+                "Ez a kritikusan veszélyeztetett marsicai barnamedve utolsó fellegvára.",
+                "A park ősi bükkerdői az UNESCO világörökség részeként ismertek el.",
+                "A park területének több mint 60%-át erdő borítja.",
+                "A park sikeresen helyreállította az appennini zerge populációját.",
+                "A Barrea-tó és a Vivo-tó festői mesterséges tavak a parkon belül.",
+                "Pescasserolit gyakran a park 'fővárosának' és fő látogatói központjának tekintik.",
+                "Olaszország egyik legrégebbi nemzeti parkja, amely úttörő szerepet játszott a természetvédelemben."
+          ],
+          "ro": [
+                "Parcul a fost înființat oficial în 1923 pentru a proteja fauna locală.",
+                "Este ultimul bastion al ursului brun marsican, aflat în pericol critic de dispariție.",
+                "Pădurile antice de fagi ale parcului sunt recunoscute ca sit al Patrimoniului Mondial UNESCO.",
+                "Peste 60% din teritoriul parcului este acoperit de păduri.",
+                "Parcul a restabilit cu succes populația caprei negre apenine.",
+                "Lacul Barrea și Lacul Vivo sunt lacuri artificiale pitorești în cadrul parcului.",
+                "Pescasseroli este adesea considerată 'capitala' și principalul centru de vizitatori al parcului.",
+                "Este unul dintre cele mai vechi parcuri naționale din Italia, pionierat în eforturile de conservare."
+          ]
     },
     image: "/geo-images/italy/it-abruzzo-np.webp"
   },
@@ -571,17 +1255,55 @@ export const italyCities: POI[] = [
     parent: "IT-78",
     coords: [16.100, 40.000],
     name: { de: "Nationalpark Pollino", hu: "Pollino Nemzeti Park", ro: "Parcul Național Pollino", en: "Pollino National Park" },
+    
+    
     description: {
-      de: "Der Nationalpark Pollino ist der größte Nationalpark Italiens und erstreckt sich über die Regionen Basilikata und Kalabrien. Seine raue und vielfältige Landschaft reicht von tiefen Schluchten bis zu hohen Berggipfeln. Das Symbol des Parks ist die seltene Panzerkiefer.",
-      hu: "A Pollino Nemzeti Park Olaszország legnagyobb nemzeti parkja, amely Basilicata és Calabria régiókon ível át. Zord és változatos tája a mély szurdokoktól a magas hegycsúcsokig terjed. A park szimbóluma a ritka páncélfenyő.",
-      ro: "Parcul Național Pollino este cel mai mare parc național din Italia și se întinde pe regiunile Basilicata și Calabria. Peisajul său accidentat și divers variază de la defileuri adânci la vârfuri înalte de munți. Simbolul parcului este rarul pin loricat.",
-      en: "Pollino National Park is the largest national park in Italy, stretching across the Basilicata and Calabria regions. Its rugged and diverse landscape ranges from deep gorges to high mountain peaks. The symbol of the park is the rare Bosnian pine."
+          "en": "Pollino National Park is the largest national park in Italy, sprawling across the southern regions of Basilikata and Calabria. Its rugged, mountainous landscape is defined by deep river gorges, sweeping plateaus, and impressive limestone peaks, including the towering Serra Dolcedorme. The park is renowned for being the last refuge of the rare Bosnian pine (Pinus heldreichii), an ancient and resilient tree that has become its emblem. The area is rich in biodiversity, hosting wolves, golden eagles, and the elusive roe deer. Pollino offers unparalleled opportunities for trekking, canyoning, and experiencing the untamed beauty of southern Italy.",
+          "de": "Der Nationalpark Pollino ist der größte Nationalpark Italiens und erstreckt sich über die südlichen Regionen Basilikata und Kalabrien. Seine raue, bergige Landschaft ist geprägt von tiefen Flussschluchten, weiten Hochebenen und beeindruckenden Kalksteingipfeln, darunter die hoch aufragende Serra Dolcedorme. Der Park ist bekannt als das letzte Zufluchtsgebiet der seltenen Panzerkiefer (Pinus heldreichii), eines uralten und widerstandsfähigen Baumes, der zu seinem Wahrzeichen geworden ist. Das Gebiet ist reich an biologischer Vielfalt und beherbergt Wölfe, Steinadler und die schwer zu fassenden Rehe. Pollino bietet unvergleichliche Möglichkeiten für Trekking, Canyoning und das Erleben der ungezähmten Schönheit Süditaliens.",
+          "hu": "A Pollino Nemzeti Park Olaszország legnagyobb nemzeti parkja, amely a déli Basilicata és Calabria régiókon ível át. Zord, hegyvidéki táját mély folyóvölgyek, kiterjedt fennsíkok és lenyűgöző mészkőcsúcsok, köztük a magasba törő Serra Dolcedorme határozzák meg. A park híres arról, hogy ez a ritka páncélfenyő (Pinus heldreichii) utolsó menedéke, egy ősi és ellenálló fáé, amely a park szimbólumává vált. A terület gazdag biológiai sokféleségben, farkasoknak, szirti sasoknak és a nehezen megfogható őzeknek ad otthont. A Pollino páratlan lehetőségeket kínál a túrázásra, canyoningra és Dél-Olaszország megszelídítetlen szépségének megtapasztalására.",
+          "ro": "Parcul Național Pollino este cel mai mare parc național din Italia, întinzându-se pe regiunile sudice Basilicata și Calabria. Peisajul său montan accidentat este definit de defileuri adânci de râuri, platouri vaste și vârfuri impresionante de calcar, inclusiv impunătorul Serra Dolcedorme. Parcul este renumit ca ultimul refugiu al rari pinului bosniac (Pinus heldreichii), un copac antic și rezistent care a devenit emblema sa. Zona este bogată în biodiversitate, găzduind lupi, vulturi de aur și căprioara evazivă. Pollino oferă oportunități de neegalat pentru drumeții, canyoning și experimentarea frumuseții neîmblânzite a sudului Italiei."
     },
     facts: {
-      de: ["Größter Nationalpark in Italien.", "Heimat der uralten Panzerkiefern (Pinus heldreichii).", "Bietet spektakuläre Flusstäler und Schluchten.", "Höchster Gipfel ist der Serra Dolcedorme (2.267 m).", "Gehört zum UNESCO-Geopark-Netzwerk.", "Ideal für Trekking, Rafting und Canyoning."],
-      hu: ["Olaszország legnagyobb nemzeti parkja.", "Az ősi páncélfenyők (Pinus heldreichii) otthona.", "Látványos folyóvölgyeket és szurdokokat kínál.", "Legmagasabb csúcsa a Serra Dolcedorme (2267 m).", "Az UNESCO Geopark Hálózat része.", "Ideális túrázáshoz, raftinghoz és canyoninghoz."],
-      ro: ["Cel mai mare parc național din Italia.", "Găzduiește pinii loricați antici (Pinus heldreichii).", "Oferă văi fluviale și defileuri spectaculoase.", "Cel mai înalt vârf este Serra Dolcedorme (2.267 m).", "Aparține Rețelei de Geoparcuri UNESCO.", "Ideal pentru drumeții, rafting și canyoning."],
-      en: ["Largest national park in Italy.", "Home of the ancient Bosnian pines (Pinus heldreichii).", "Offers spectacular river valleys and gorges.", "Highest peak is Serra Dolcedorme (2,267 m).", "Belongs to the UNESCO Geopark Network.", "Ideal for trekking, rafting, and canyoning."]
+          "en": [
+                "The park covers a massive area of almost 2,000 square kilometers.",
+                "The Bosnian pine trees here can live for over a thousand years.",
+                "The Raganello Gorge is a famous spot for dramatic canyoning adventures.",
+                "It was officially recognized as a UNESCO Global Geopark in 2015.",
+                "The park contains prehistoric sites, such as the Romito Cave with Paleolithic art.",
+                "Traditional Arbëreshë (Italo-Albanian) communities live within the park's boundaries.",
+                "Mount Pollino is the second highest peak in the park at 2,248 meters.",
+                "The diverse climate ranges from Mediterranean scrub to alpine environments."
+          ],
+          "de": [
+                "Der Park erstreckt sich über eine riesige Fläche von fast 2.000 Quadratkilometern.",
+                "Die Panzerkiefern können hier über tausend Jahre alt werden.",
+                "Die Raganello-Schlucht ist ein berühmter Ort für dramatische Canyoning-Abenteuer.",
+                "Er wurde 2015 offiziell als UNESCO Global Geopark anerkannt.",
+                "Der Park beherbergt prähistorische Stätten, wie die Romito-Höhle mit paläolithischer Kunst.",
+                "Traditionelle Arbëreshë-Gemeinschaften (Italo-Albaner) leben innerhalb der Parkgrenzen.",
+                "Der Monte Pollino ist mit 2.248 Metern der zweithöchste Gipfel des Parks.",
+                "Das vielfältige Klima reicht von mediterraner Macchia bis hin zu alpinen Umgebungen."
+          ],
+          "hu": [
+                "A park hatalmas, közel 2000 négyzetkilométeres területet fed le.",
+                "Az itteni páncélfenyők akár ezer évnél is tovább élhetnek.",
+                "A Raganello-szurdok egy híres helyszín drámai canyoning kalandokhoz.",
+                "2015-ben hivatalosan is elismerték UNESCO Globális Geoparkként.",
+                "A parkban őskori lelőhelyek találhatók, például a Romito-barlang paleolitikus művészettel.",
+                "Hagyományos arbëreshë (olasz-albán) közösségek élnek a park határain belül.",
+                "A Monte Pollino a park második legmagasabb csúcsa a maga 2248 méterével.",
+                "A változatos éghajlat a mediterrán cserjésektől az alpesi környezetig terjed."
+          ],
+          "ro": [
+                "Parcul acoperă o suprafață masivă de aproape 2.000 de kilometri pătrați.",
+                "Pinii bosniaci de aici pot trăi peste o mie de ani.",
+                "Defileul Raganello este un loc faimos pentru aventuri dramatice de canyoning.",
+                "A fost recunoscut oficial ca Geoparc Global UNESCO în 2015.",
+                "Parcul conține situri preistorice, precum Peștera Romito cu artă paleolitică.",
+                "Comunitățile tradiționale Arbëreshë (italo-albaneze) trăiesc în limitele parcului.",
+                "Muntele Pollino este al doilea cel mai înalt vârf din parc, la 2.248 de metri.",
+                "Clima diversă variază de la tufăriș mediteranean la medii alpine."
+          ]
     },
     image: "/geo-images/italy/it-pollino-np.webp"
   },
@@ -591,17 +1313,55 @@ export const italyCities: POI[] = [
     parent: "IT-34",
     coords: [10.717, 45.583],
     name: { de: "Gardasee", hu: "Garda-tó", ro: "Lacul Garda", en: "Lake Garda" },
+    
+    
     description: {
-      de: "Der Gardasee ist der größte und wohl bekannteste See Italiens. Er liegt zwischen den Alpen und der Poebene und bietet ein mildes, mediterranes Klima. Olivenhaine, Zitronengewächshäuser und charmante Uferstädtchen machen ihn zu einem Top-Reiseziel.",
-      hu: "A Garda-tó Olaszország legnagyobb és talán legismertebb tava. Az Alpok és a Pó-síkság között fekszik, és enyhe, mediterrán klímát kínál. Olajfaligetek, citromházak és bájos parti városkák teszik csúcs turisztikai célponttá.",
-      ro: "Lacul Garda este cel mai mare și, probabil, cel mai faimos lac din Italia. Este situat între Alpi și Valea Padului și oferă un climat blând, mediteranean. Livezile de măslini, serele de lămâi și micile orașe fermecătoare de pe mal îl fac o destinație de top.",
-      en: "Lake Garda is the largest and perhaps most famous lake in Italy. It is located between the Alps and the Po Valley and offers a mild, Mediterranean climate. Olive groves, lemon greenhouses, and charming shore towns make it a top destination."
+          "en": "Lake Garda is Italy's largest and most geographically diverse lake, situated gracefully between the Alps and the Po Valley. Its northern shores are narrowly wedged between dramatic cliffs, creating a fjord-like landscape favored by windsurfers and sailors. Moving south, the lake widens into a serene, Mediterranean-like basin lined with olive groves, vineyards, and vibrant citrus orchards. Charming historical towns such as Sirmione, with its thermal baths and ancient Roman ruins, dot the water's edge. Lake Garda's combination of majestic scenery, mild climate, and endless outdoor activities makes it a premier European holiday destination.",
+          "de": "Der Gardasee ist Italiens größter und geografisch vielfältigster See, der anmutig zwischen den Alpen und der Poebene liegt. Seine nördlichen Ufer sind eng zwischen dramatischen Klippen eingeklemmt und schaffen eine fjordähnliche Landschaft, die von Windsurfern und Seglern bevorzugt wird. Nach Süden hin weitet sich der See zu einem ruhigen, mediterran anmutenden Becken, das von Olivenhainen, Weinbergen und lebhaften Zitrushainen gesäumt ist. Charmante historische Städte wie Sirmione mit seinen Thermalbädern und antiken römischen Ruinen säumen das Ufer. Die Kombination aus majestätischer Landschaft, mildem Klima und endlosen Outdoor-Aktivitäten macht den Gardasee zu einem erstklassigen europäischen Urlaubsziel.",
+          "hu": "A Garda-tó Olaszország legnagyobb és földrajzilag legváltozatosabb tava, amely kecsesen fekszik az Alpok és a Pó-síkság között. Északi partjai drámai sziklák közé ékelődnek, egy fjordszerű tájat hozva létre, amelyet a szörfösök és a vitorlázók kedvelnek. Dél felé haladva a tó egy csendes, mediterrán jellegű medencévé szélesedik, amelyet olajfaligetek, szőlőültetvények és élénk citrusligetek szegélyeznek. A vízparton olyan bájos történelmi városok sorakoznak, mint Sirmione, a maga termálfürdőivel és ókori római romjaival. A fenséges táj, az enyhe éghajlat és a végtelen szabadtéri tevékenységek kombinációja Európa egyik legfontosabb nyaralóhelyévé teszi a Garda-tavat.",
+          "ro": "Lacul Garda este cel mai mare și mai divers din punct de vedere geografic lac din Italia, situat grațios între Alpi și Valea Padului. Țărmurile sale nordice sunt strâns prinse între stânci dramatice, creând un peisaj asemănător fiordurilor, preferat de windsurferi și marinari. Spre sud, lacul se lărgește într-un bazin senin, asemănător celui mediteranean, mărginit de plantații de măslini, podgorii și livezi vibrante de citrice. Orașe istorice fermecătoare, cum ar fi Sirmione, cu băile sale termale și ruinele romane antice, punctează malul apei. Combinația Lacului Garda de peisaje mărețe, climă blândă și activități infinite în aer liber îl face o destinație de vacanță europeană de prim rang."
     },
     facts: {
-      de: ["Größter See Italiens.", "Bekannt für seine starken Winde, ideal für Surfer.", "Berühmt für charmante Städte wie Sirmione und Riva.", "Beliebtes Ziel für Mountainbiker und Kletterer.", "Das Klima ermöglicht den Anbau von Zitronen und Oliven.", "Wurde von Gletschern in der letzten Eiszeit geformt."],
-      hu: ["Olaszország legnagyobb tava.", "Erős szelei miatt a szörfösök kedvelt helye.", "Híres olyan bájos városairól, mint Sirmione és Riva.", "Népszerű célpont a hegyikerékpárosok és sziklamászók körében.", "Klíma lehetővé teszi a citrom és az olívabogyó termesztését.", "A legutóbbi jégkorszak gleccserei alakították ki."],
-      ro: ["Cel mai mare lac din Italia.", "Cunoscut pentru vânturile sale puternice, ideal pentru surferi.", "Faimos pentru orașe fermecătoare precum Sirmione și Riva.", "Destinație populară pentru cicliștii montani și alpiniști.", "Clima permite cultivarea lămâilor și a măslinilor.", "A fost format de ghețari în ultima eră glaciară."],
-      en: ["Largest lake in Italy.", "Known for its strong winds, ideal for surfers.", "Famous for charming towns like Sirmione and Riva.", "Popular destination for mountain bikers and climbers.", "The climate allows for the cultivation of lemons and olives.", "Was formed by glaciers in the last ice age."]
+          "en": [
+                "Lake Garda covers an area of roughly 370 square kilometers.",
+                "The lake spans three Italian regions: Lombardy, Veneto, and Trentino-Alto Adige.",
+                "Riva del Garda in the north is globally renowned for its sailing and windsurfing conditions.",
+                "Sirmione features the stunning Scaligero Castle, a completely water-surrounded fortress.",
+                "The 'Grotte di Catullo' are the impressive ruins of an enormous Roman villa.",
+                "The eastern shore is often referred to as the 'Olive Riviera' (Riviera degli Olivi).",
+                "Gardaland, one of Europe's most popular theme parks, is located on its southeastern shore.",
+                "The lake was formed by glaciers at the end of the last Ice Age."
+          ],
+          "de": [
+                "Der Gardasee umfasst eine Fläche von rund 370 Quadratkilometern.",
+                "Der See erstreckt sich über drei italienische Regionen: Lombardei, Venetien und Trentino-Südtirol.",
+                "Riva del Garda im Norden ist weltweit bekannt für seine Segel- und Windsurfbedingungen.",
+                "Sirmione beherbergt das atemberaubende Castello Scaligero, eine vollständig von Wasser umgebene Festung.",
+                "Die 'Grotte di Catullo' sind die beeindruckenden Ruinen einer riesigen römischen Villa.",
+                "Das Ostufer wird oft als 'Olivenriviera' (Riviera degli Olivi) bezeichnet.",
+                "Gardaland, einer der beliebtesten Themenparks Europas, befindet sich am Südostufer.",
+                "Der See wurde am Ende der letzten Eiszeit durch Gletscher gebildet."
+          ],
+          "hu": [
+                "A Garda-tó területe nagyjából 370 négyzetkilométer.",
+                "A tó három olasz régióba nyúlik át: Lombardiába, Venetóba és Trentino-Alto Adigébe.",
+                "Az északi Riva del Garda világszerte ismert vitorlás- és szörfözési feltételeiről.",
+                "Sirmione a lenyűgöző Scaligero-kastéllyal büszkélkedhet, amely egy teljesen vízzel körülvett erődítmény.",
+                "A 'Grotte di Catullo' egy hatalmas római villa lenyűgöző romjai.",
+                "A keleti partot gyakran 'Olajfa-riviérának' (Riviera degli Olivi) nevezik.",
+                "A Gardaland, Európa egyik legnépszerűbb vidámparkja a délkeleti parton található.",
+                "A tavat gleccserek alakították ki a legutóbbi jégkorszak végén."
+          ],
+          "ro": [
+                "Lacul Garda acoperă o suprafață de aproximativ 370 de kilometri pătrați.",
+                "Lacul se întinde pe trei regiuni italiene: Lombardia, Veneto și Trentino-Alto Adige.",
+                "Riva del Garda din nord este renumită la nivel mondial pentru condițiile sale de navigație și windsurfing.",
+                "Sirmione prezintă uimitorul Castel Scaligero, o fortăreață înconjurată complet de apă.",
+                "'Grotte di Catullo' sunt ruinele impresionante ale unei vile romane enorme.",
+                "Țărmul estic este adesea denumit 'Riviera Măslinilor' (Riviera degli Olivi).",
+                "Gardaland, unul dintre cele mai populare parcuri tematice din Europa, este situat pe țărmul său de sud-est.",
+                "Lacul a fost format de ghețari la sfârșitul ultimei ere glaciare."
+          ]
     },
     image: "/geo-images/italy/it-lago-di-garda.webp"
   },
@@ -611,17 +1371,55 @@ export const italyCities: POI[] = [
     parent: "IT-25",
     coords: [9.267, 46.000],
     name: { de: "Comer See", hu: "Comói-tó", ro: "Lacul Como", en: "Lake Como" },
+    
+    
     description: {
-      de: "Der Comer See im Norden Italiens ist berühmt für seine markante Y-Form und die dramatische Alpenkulisse. Elegante Villen, prächtige Gärten und malerische Dörfer wie Bellagio säumen seine Ufer. Der See zieht seit Jahrhunderten Künstler und Prominente an.",
-      hu: "Az észak-olaszországi Comói-tó jellegzetes Y-alakjáról és drámai alpesi hátteréről híres. Elegáns villák, pompás kertek és festői falvak, mint például Bellagio szegélyezik partjait. A tó évszázadok óta vonzza a művészeket és a hírességeket.",
-      ro: "Lacul Como din nordul Italiei este faimos pentru forma sa distinctivă în Y și peisajul alpin dramatic. Vile elegante, grădini magnifice și sate pitorești precum Bellagio îi străjuiesc țărmurile. Lacul a atras artiști și celebrități de secole.",
-      en: "Lake Como in northern Italy is famous for its distinctive Y-shape and dramatic alpine backdrop. Elegant villas, magnificent gardens, and picturesque villages like Bellagio line its shores. The lake has attracted artists and celebrities for centuries."
+          "en": "Lake Como, located in the Lombardy region, is globally renowned for its spectacular, inverted Y-shape and breathtaking alpine scenery. Surrounded by steep, forested mountains, the lake has been a luxurious retreat for aristocrats and the wealthy since Roman times. Its shores are dotted with elegant, historic villas and magnificent botanical gardens, most notably Villa del Balbianello and Villa Carlotta. The charming town of Bellagio, known as the 'Pearl of the Lake', sits perfectly at the intersection of its three branches. Lake Como represents the absolute pinnacle of Italian lakeside elegance and tranquility.",
+          "de": "Der Comer See in der Region Lombardei ist weltweit bekannt für seine spektakuläre, umgekehrte Y-Form und seine atemberaubende alpine Landschaft. Umgeben von steilen, bewaldeten Bergen ist der See seit der Römerzeit ein luxuriöser Rückzugsort für Aristokraten und Wohlhabende. Seine Ufer sind gesäumt von eleganten, historischen Villen und prächtigen botanischen Gärten, allen voran die Villa del Balbianello und die Villa Carlotta. Die bezaubernde Stadt Bellagio, bekannt als die 'Perle des Sees', liegt perfekt an der Kreuzung seiner drei Arme. Der Comer See repräsentiert den absoluten Höhepunkt italienischer See-Eleganz und Ruhe.",
+          "hu": "A Lombardia régióban található Comói-tó világszerte ismert látványos, fordított Y-alakjáról és lélegzetelállító alpesi tájáról. A meredek, erdős hegyekkel körülvett tó a római kor óta az arisztokraták és a gazdagok luxus menedékhelye. Partjait elegáns, történelmi villák és csodálatos botanikus kertek tarkítják, amelyek közül a legjelentősebb a Villa del Balbianello és a Villa Carlotta. A 'tó gyöngyszemeként' is ismert bájos Bellagio város tökéletesen a tó három ágának találkozásánál fekszik. A Comói-tó az olasz tóparti elegancia és nyugalom abszolút csúcsa.",
+          "ro": "Lacul Como, situat în regiunea Lombardia, este renumit la nivel mondial pentru forma sa spectaculoasă în Y inversat și pentru peisajul alpin uluitor. Înconjurat de munți abrupți și împăduriți, lacul a fost un refugiu luxos pentru aristocrați și cei bogați încă din epoca romană. Țărmurile sale sunt presărate cu vile elegante, istorice și grădini botanice magnifice, în special Villa del Balbianello și Villa Carlotta. Fermecătorul oraș Bellagio, cunoscut sub numele de 'Perla Lacului', este așezat perfect la intersecția celor trei ramuri ale sale. Lacul Como reprezintă apogeul absolut al eleganței și liniștii pe malul lacului din Italia."
     },
     facts: {
-      de: ["Tiefster Binnensee Europas (ca. 410 Meter).", "Hat die markante Form eines umgekehrten Y.", "Bekannt für luxuriöse Villen wie die Villa del Balbianello.", "Schauplatz für viele Hollywood-Filme (z.B. James Bond, Star Wars).", "Zieht seit Jahrhunderten die internationale Elite an.", "Umgeben von beeindruckenden Bergpanoramen."],
-      hu: ["Európa legmélyebb tava (kb. 410 méter).", "Jellegzetes fordított Y alakja van.", "Olyan luxusvilláiról ismert, mint a Villa del Balbianello.", "Számos hollywoodi film helyszíne (pl. James Bond, Star Wars).", "Évszázadok óta vonzza a nemzetközi elitet.", "Lenyűgöző hegyi panorámák veszik körül."],
-      ro: ["Cel mai adânc lac din Europa (aprox. 410 metri).", "Are forma distinctivă a unui Y inversat.", "Cunoscut pentru vilele luxoase precum Villa del Balbianello.", "Decor pentru multe filme de la Hollywood (de ex. James Bond, Star Wars).", "Atrage elita internațională de secole.", "Înconjurat de panorame montane impresionante."],
-      en: ["Deepest lake in Europe (approx. 410 meters).", "Has the distinctive shape of an inverted Y.", "Known for luxurious villas like Villa del Balbianello.", "Setting for many Hollywood films (e.g., James Bond, Star Wars).", "Has attracted the international elite for centuries.", "Surrounded by impressive mountain panoramas."]
+          "en": [
+                "Lake Como is the deepest lake in Italy, reaching a depth of over 400 meters (1,300 feet).",
+                "The lake is of glacial origin, carved out over millions of years.",
+                "It has been a popular filming location for movies like 'Star Wars: Episode II' and 'Casino Royale'.",
+                "Como city, at the southern tip, was historically famous for its silk manufacturing industry.",
+                "George Clooney famously owns a villa on the lake's shore.",
+                "A traditional local wooden boat called 'Lucia' is widely used on the lake.",
+                "The climate is unusually mild for its Alpine location, supporting Mediterranean and subtropical plants.",
+                "The Funicular railway connects Como to the village of Brunate, offering spectacular views."
+          ],
+          "de": [
+                "Der Comer See ist der tiefste See Italiens und erreicht eine Tiefe von über 400 Metern.",
+                "Der See ist eiszeitlichen Ursprungs und wurde über Millionen von Jahren geformt.",
+                "Er war ein beliebter Drehort für Filme wie 'Star Wars: Episode II' und 'Casino Royale'.",
+                "Die Stadt Como an der Südspitze war historisch berühmt für ihre Seidenindustrie.",
+                "George Clooney besitzt bekanntermaßen eine Villa am Ufer des Sees.",
+                "Ein traditionelles lokales Holzboot namens 'Lucia' wird auf dem See häufig verwendet.",
+                "Das Klima ist für seine alpine Lage ungewöhnlich mild und unterstützt mediterrane und subtropische Pflanzen.",
+                "Die Standseilbahn verbindet Como mit dem Dorf Brunate und bietet spektakuläre Ausblicke."
+          ],
+          "hu": [
+                "A Comói-tó Olaszország legmélyebb tava, mélysége meghaladja a 400 métert.",
+                "A tó glaciális eredetű, évmilliók alatt vájódott ki.",
+                "Népszerű forgatási helyszín volt olyan filmek esetében, mint a 'Star Wars: II. epizód' és a 'Casino Royale'.",
+                "A déli csücsökben fekvő Como városa történelmileg híres volt selyemgyártó iparáról.",
+                "George Clooney híres arról, hogy villát birtokol a tó partján.",
+                "A 'Lucia' nevű hagyományos helyi fahajót széles körben használják a tavon.",
+                "Az éghajlat az alpesi elhelyezkedéshez képest szokatlanul enyhe, amely támogatja a mediterrán és szubtrópusi növényeket.",
+                "A sikló köti össze Comót Brunate falujával, látványos kilátást kínálva."
+          ],
+          "ro": [
+                "Lacul Como este cel mai adânc lac din Italia, atingând o adâncime de peste 400 de metri.",
+                "Lacul este de origine glaciară, sculptat de-a lungul a milioane de ani.",
+                "A fost o locație populară de filmare pentru filme precum 'Star Wars: Episodul II' și 'Casino Royale'.",
+                "Orașul Como, în extremitatea sudică, era faimos din punct de vedere istoric pentru industria de fabricare a mătăsii.",
+                "George Clooney deține în mod faimos o vilă pe malul lacului.",
+                "O barcă tradițională din lemn numită 'Lucia' este folosită pe scară largă pe lac.",
+                "Clima este neobișnuit de blândă pentru locația sa alpină, susținând plante mediteraneene și subtropicale.",
+                "Funicularul conectează Como cu satul Brunate, oferind vederi spectaculoase."
+          ]
     },
     image: "/geo-images/italy/it-lago-di-como.webp"
   },
@@ -631,17 +1429,55 @@ export const italyCities: POI[] = [
     parent: "IT-21",
     coords: [8.617, 45.983],
     name: { de: "Lago Maggiore", hu: "Lago Maggiore", ro: "Lacul Maggiore", en: "Lake Maggiore" },
+    
+    
     description: {
-      de: "Der Lago Maggiore ist ein großer oberitalienischer See, dessen nördlicher Teil in der Schweiz liegt. Er ist berühmt für die Borromäischen Inseln, die prachtvolle Paläste und exotische Gärten beherbergen. Ein elegantes und zugleich entspanntes Reiseziel.",
-      hu: "A Lago Maggiore egy nagy észak-olasz tó, melynek északi része Svájcban található. Híres a Borromeo-szigetekről, amelyek csodálatos palotáknak és egzotikus kerteknek adnak otthont. Elegáns és egyben pihentető turisztikai célpont.",
-      ro: "Lacul Maggiore este un mare lac din nordul Italiei, a cărui parte nordică se află în Elveția. Este faimos pentru Insulele Borromeo, care adăpostesc palate magnifice și grădini exotice. O destinație elegantă, dar relaxată.",
-      en: "Lake Maggiore is a large northern Italian lake, the northern part of which lies in Switzerland. It is famous for the Borromean Islands, which house magnificent palaces and exotic gardens. An elegant yet relaxed destination."
+          "en": "Lake Maggiore is a stunning pre-alpine lake that straddles the border between Italy and Switzerland. It is the second-largest lake in Italy and boasts an enchanting, romantic atmosphere characterized by grand Belle Époque hotels and lush waterfront promenades. The lake's absolute highlights are the Borromean Islands, a small archipelago featuring the spectacular Palazzo Borromeo with its terraced Baroque gardens and wandering white peacocks. Surrounded by majestic mountains, Lake Maggiore provides a sophisticated blend of natural beauty, mild climate, and aristocratic history, long favored by artists and writers.",
+          "de": "Der Lago Maggiore ist ein atemberaubender Voralpensee, der sich über die Grenze zwischen Italien und der Schweiz erstreckt. Er ist der zweitgrößte See Italiens und besticht durch eine bezaubernde, romantische Atmosphäre, die von großen Belle-Époque-Hotels und üppigen Uferpromenaden geprägt ist. Die absoluten Höhepunkte des Sees sind die Borromäischen Inseln, ein kleines Archipel mit dem spektakulären Palazzo Borromeo mit seinen terrassenförmigen Barockgärten und umherstreifenden weißen Pfauen. Umgeben von majestätischen Bergen bietet der Lago Maggiore eine anspruchsvolle Mischung aus natürlicher Schönheit, mildem Klima und aristokratischer Geschichte, die seit langem von Künstlern und Schriftstellern bevorzugt wird.",
+          "hu": "A Lago Maggiore egy lenyűgöző alpokalji tó, amely Olaszország és Svájc határán húzódik. Ez Olaszország második legnagyobb tava, és varázslatos, romantikus atmoszférával büszkélkedhet, amelyet nagy Belle Époque szállodák és buja vízparti sétányok jellemeznek. A tó abszolút fénypontjai a Borromeo-szigetek, egy kis szigetcsoport, ahol a látványos Palazzo Borromeo, annak teraszos barokk kertjei és kóborló fehér pávái találhatók. A fenséges hegyekkel körülvett Lago Maggiore a természeti szépség, az enyhe éghajlat és az arisztokratikus történelem kifinomult keverékét kínálja, amelyet a művészek és írók régóta kedvelnek.",
+          "ro": "Lacul Maggiore este un lac prealpin uimitor, care se întinde pe granița dintre Italia și Elveția. Este al doilea lac ca mărime din Italia și se mândrește cu o atmosferă romantică și încântătoare, caracterizată de marile hoteluri Belle Époque și promenade luxuriante pe malul apei. Atracțiile absolute ale lacului sunt Insulele Borromeo, un mic arhipelag care prezintă spectaculosul Palazzo Borromeo, cu grădinile sale baroce terasate și păuni albi rătăcitori. Înconjurat de munți maiestuoși, Lacul Maggiore oferă un amestec sofisticat de frumusețe naturală, climă blândă și istorie aristocratică, favorizat de mult de artiști și scriitori."
     },
     facts: {
-      de: ["Zweitgrößter See Italiens nach dem Gardasee.", "Gliedert sich zwischen Italien und der Schweiz auf.", "Heimat der wunderschönen Borromäischen Inseln.", "Bekannt für prachtvolle Botanische Gärten.", "Stresa ist ein berühmter Kur- und Urlaubsort am Seeufer.", "Beliebt für Segeln und Wassersport."],
-      hu: ["A Garda-tó után Olaszország második legnagyobb tava.", "Olaszország és Svájc között oszlik meg.", "A gyönyörű Borromeo-szigetek otthona.", "Csodálatos botanikus kertjeiről ismert.", "Stresa egy híres gyógy- és üdülőhely a tóparton.", "Népszerű a vitorlázók és a vízisportok kedvelői körében."],
-      ro: ["Al doilea lac ca mărime din Italia, după Lacul Garda.", "Este împărțit între Italia și Elveția.", "Găzduiește frumoasele Insule Borromeo.", "Cunoscut pentru grădinile botanice magnifice.", "Stresa este o faimoasă stațiune balneară și de vacanță pe malul lacului.", "Popular pentru navigație și sporturi nautice."],
-      en: ["Second largest lake in Italy after Lake Garda.", "Divided between Italy and Switzerland.", "Home to the beautiful Borromean Islands.", "Known for magnificent botanical gardens.", "Stresa is a famous spa and holiday resort on the lake shore.", "Popular for sailing and water sports."]
+          "en": [
+                "The northern tip of Lake Maggiore extends into the Ticino canton of Switzerland.",
+                "The Borromean Islands are named after the aristocratic Borromeo family, who acquired them in the 16th century.",
+                "Ernest Hemingway famously stayed in Stresa, a major resort town on the lake.",
+                "Isola Bella, one of the islands, features a garden built on ten overlapping terraces.",
+                "The lake contains Isola dei Pescatori, a charming island that remains a working fishing village.",
+                "It is the longest lake in Italy, stretching for nearly 65 kilometers.",
+                "The mild climate allows exotic plants like camelias, azaleas, and palm trees to thrive.",
+                "A colossal 35-meter copper statue, the Sancarlone, stands near the town of Arona."
+          ],
+          "de": [
+                "Die Nordspitze des Lago Maggiore erstreckt sich bis in den Schweizer Kanton Tessin.",
+                "Die Borromäischen Inseln sind nach der aristokratischen Familie Borromeo benannt, die sie im 16. Jahrhundert erwarb.",
+                "Ernest Hemingway hielt sich bekanntermaßen in Stresa auf, einem wichtigen Ferienort am See.",
+                "Isola Bella, eine der Inseln, verfügt über einen Garten, der auf zehn übereinanderliegenden Terrassen angelegt ist.",
+                "Im See befindet sich die Isola dei Pescatori, eine charmante Insel, die bis heute ein funktionierendes Fischerdorf ist.",
+                "Er ist der längste See Italiens und erstreckt sich über fast 65 Kilometer.",
+                "Das milde Klima lässt exotische Pflanzen wie Kamelien, Azaleen und Palmen gedeihen.",
+                "Eine kolossale, 35 Meter hohe Kupferstatue, der Sancarlone, steht nahe der Stadt Arona."
+          ],
+          "hu": [
+                "A Lago Maggiore északi csücske Svájc Ticino kantonjába nyúlik.",
+                "A Borromeo-szigeteket az arisztokrata Borromeo családról nevezték el, akik a 16. században szerezték meg őket.",
+                "Ernest Hemingway híresen Stresában, a tó egyik jelentős üdülővárosában szállt meg.",
+                "Az egyik szigeten, az Isola Bellán egy tíz egymást átfedő teraszra épült kert található.",
+                "A tavon fekszik az Isola dei Pescatori, egy bájos sziget, amely továbbra is egy működő halászfalu.",
+                "Ez Olaszország leghosszabb tava, közel 65 kilométeren húzódik.",
+                "Az enyhe éghajlat lehetővé teszi, hogy egzotikus növények, például kaméliák, azáleák és pálmafák virágozzanak.",
+                "Egy hatalmas, 35 méteres rézszobor, a Sancarlone áll Arona városa közelében."
+          ],
+          "ro": [
+                "Extremitatea nordică a Lacului Maggiore se extinde în cantonul Ticino din Elveția.",
+                "Insulele Borromeo sunt numite după familia aristocratică Borromeo, care le-a achiziționat în secolul al XVI-lea.",
+                "Ernest Hemingway a stat în mod faimos în Stresa, un oraș-stațiune major de pe lac.",
+                "Isola Bella, una dintre insule, prezintă o grădină construită pe zece terase suprapuse.",
+                "Lacul conține Isola dei Pescatori, o insulă fermecătoare care rămâne un sat de pescari funcțional.",
+                "Este cel mai lung lac din Italia, întinzându-se pe o distanță de aproape 65 de kilometri.",
+                "Clima blândă permite plantelor exotice, cum ar fi cameliile, azaleele și palmierii să prospere.",
+                "O statuie colosală de cupru de 35 de metri, Sancarlone, se află lângă orașul Arona."
+          ]
     },
     image: "/geo-images/italy/it-lago-maggiore.webp"
   },
@@ -651,17 +1487,55 @@ export const italyCities: POI[] = [
     parent: "IT-72",
     coords: [14.425, 40.822],
     name: { de: "Vesuv", hu: "Vezúv", ro: "Vezuviu", en: "Mount Vesuvius" },
+    
+    
     description: {
-      de: "Der Vesuv ist der berühmteste Vulkan Europas, gelegen am Golf von Neapel. Er ist weltweit bekannt für seinen verheerenden Ausbruch im Jahr 79 n. Chr., der Pompeji zerstörte. Heute ist der imposante Kegel ein beliebtes Ziel für Wanderer.",
-      hu: "A Vezúv Európa leghíresebb vulkánja, a Nápolyi-öböl partján. Világszerte ismert 79-ben történt pusztító kitöréséről, amely elpusztította Pompejit. Ma az impozáns vulkáni kúp a túrázók kedvelt célpontja.",
-      ro: "Vezuviu este cel mai faimos vulcan din Europa, situat pe Golful Napoli. Este cunoscut în întreaga lume pentru erupția sa devastatoare din anul 79 d.Hr., care a distrus Pompei. Astăzi, conul impunător este o destinație populară pentru drumeții.",
-      en: "Mount Vesuvius is Europe's most famous volcano, located on the Gulf of Naples. It is known worldwide for its devastating eruption in 79 AD, which destroyed Pompeii. Today, the imposing cone is a popular destination for hikers."
+          "en": "Mount Vesuvius is a looming stratovolcano located on the Gulf of Naples, holding a formidable place in history and geology. It is globally infamous for its catastrophic eruption in 79 AD, which buried the Roman cities of Pompeii, Herculaneum, and others under a deadly cloud of ash and pyroclastic flows. Today, it remains the only active volcano on the European mainland. Despite its inherent danger, the volcano is the centerpiece of the Vesuvius National Park, attracting millions of visitors who hike up its steep slopes to peer into its dramatic, smoking crater and admire the panoramic views over the Bay of Naples.",
+          "de": "Der Vesuv ist ein aufragender Stratovulkan am Golf von Neapel, der einen beeindruckenden Platz in der Geschichte und Geologie einnimmt. Er ist weltweit berüchtigt für seinen katastrophalen Ausbruch im Jahr 79 n. Chr., der die römischen Städte Pompeji, Herculaneum und andere unter einer tödlichen Wolke aus Asche und pyroklastischen Strömen begrub. Heute ist er der einzige aktive Vulkan auf dem europäischen Festland. Trotz seiner inhärenten Gefahr ist der Vulkan das Herzstück des Nationalparks Vesuv und zieht Millionen von Besuchern an, die seine steilen Hänge hinaufwandern, um in seinen dramatischen, rauchenden Krater zu blicken und den Panoramablick über die Bucht von Neapel zu bewundern.",
+          "hu": "A Vezúv egy fenyegetően magasodó rétegvulkán a Nápolyi-öböl partján, amely tekintélyes helyet foglal el a történelemben és a geológiában. Világszerte hírhedt Kr. u. 79-es katasztrofális kitöréséről, amely Pompejit, Herculaneumot és más római városokat temetett maga alá a hamu és a piroklasztikus árak halálos felhőjében. Ma is ez az egyetlen aktív vulkán az európai szárazföldön. A benne rejlő veszély ellenére a vulkán a Vezúv Nemzeti Park központja, amely látogatók millióit vonzza, akik felmásznak meredek lejtőin, hogy bepillantsanak drámai, füstölgő kráterébe, és megcsodálják a Nápolyi-öbölre nyíló panorámát.",
+          "ro": "Vezuviu este un stratovulcan impunător situat pe Golful Napoli, ocupând un loc formidabil în istorie și geologie. Este infam la nivel global pentru erupția sa catastrofală din 79 d.Hr., care a îngropat orașele romane Pompei, Herculaneum și altele sub un nor mortal de cenușă și fluxuri piroclastice. Astăzi, rămâne singurul vulcan activ de pe continentul european. În ciuda pericolului inerent, vulcanul este piesa centrală a Parcului Național Vezuviu, atrăgând milioane de vizitatori care urcă pe versanții săi abrupți pentru a privi în craterul său dramatic, fumegând, și pentru a admira vederile panoramice asupra Golfului Napoli."
     },
     facts: {
-      de: ["Einziger aktiver Vulkan auf dem europäischen Festland.", "Verursachte den Untergang von Pompeji und Herculaneum.", "Sein Nationalpark ist ein Biosphärenreservat.", "Stark überwacht aufgrund der Nähe zu Neapel.", "Ein Ausflug bis zum Kraterrand ist möglich.", "Prägt maßgeblich die Skyline von Neapel."],
-      hu: ["Az egyetlen aktív vulkán az európai szárazföldön.", "Pompeji és Herculaneum pusztulását okozta.", "Nemzeti parkja bioszféra-rezervátum.", "Szigorúan megfigyelik a Nápolyhoz való közelsége miatt.", "Lehetőség van kirándulásra egészen a kráter pereméig.", "Meghatározó eleme Nápoly látképének."],
-      ro: ["Singurul vulcan activ de pe continentul european.", "A cauzat distrugerea orașelor Pompei și Herculaneum.", "Parcul său național este o rezervație a biosferei.", "Monitorizat îndeaproape din cauza proximității față de Napoli.", "Este posibilă o excursie până la marginea craterului.", "Domină peisajul urban al orașului Napoli."],
-      en: ["Only active volcano on the European mainland.", "Caused the destruction of Pompeii and Herculaneum.", "Its national park is a biosphere reserve.", "Heavily monitored due to its proximity to Naples.", "An excursion to the crater rim is possible.", "Significantly shapes the skyline of Naples."]
+          "en": [
+                "Vesuvius is part of the Campanian volcanic arc, formed by the convergence of the African and Eurasian plates.",
+                "The 79 AD eruption is often considered the first documented volcanic eruption, described by Pliny the Younger.",
+                "The volcano's last major eruption occurred in 1944 during World War II.",
+                "Vesuvius is considered one of the most dangerous volcanoes in the world due to the dense population nearby.",
+                "The term 'Plinian eruption', describing highly explosive volcanic activity, comes from Pliny the Younger's account.",
+                "The mountain is currently about 1,281 meters high, though this changes with eruptions.",
+                "A funicular railway was built to the crater in 1880, inspiring the famous song 'Funiculì, Funiculà'.",
+                "The soil around Vesuvius is extremely fertile, famously producing Lacryma Christi wine."
+          ],
+          "de": [
+                "Der Vesuv ist Teil des kampanischen Vulkanbogens, der durch die Konvergenz der afrikanischen und eurasischen Platten gebildet wurde.",
+                "Der Ausbruch von 79 n. Chr. wird oft als der erste dokumentierte Vulkanausbruch angesehen, beschrieben von Plinius dem Jüngeren.",
+                "Der letzte große Ausbruch des Vulkans ereignete sich 1944 während des Zweiten Weltkriegs.",
+                "Der Vesuv gilt aufgrund der dichten Bevölkerung in der Nähe als einer der gefährlichsten Vulkane der Welt.",
+                "Der Begriff 'Plinianische Eruption', der hochgradig explosive vulkanische Aktivität beschreibt, stammt aus dem Bericht von Plinius dem Jüngeren.",
+                "Der Berg ist derzeit etwa 1.281 Meter hoch, obwohl sich dies mit Eruptionen ändert.",
+                "Im Jahr 1880 wurde eine Standseilbahn zum Krater gebaut, die das berühmte Lied 'Funiculì, Funiculà' inspirierte.",
+                "Der Boden um den Vesuv ist extrem fruchtbar und bringt den berühmten Wein Lacryma Christi hervor."
+          ],
+          "hu": [
+                "A Vezúv a campaniai vulkáni ív része, amelyet az afrikai és eurázsiai kőzetlemezek közeledése hozott létre.",
+                "A 79-es kitörést gyakran az első dokumentált vulkánkitörésnek tekintik, amelyet Ifjabb Plinius írt le.",
+                "A vulkán utolsó nagy kitörése 1944-ben, a második világháború alatt történt.",
+                "A Vezúvot a közeli sűrű lakosság miatt a világ egyik legveszélyesebb vulkánjának tartják.",
+                "A rendkívül robbanásveszélyes vulkáni tevékenységet leíró 'pliniusi kitörés' kifejezés Ifjabb Plinius beszámolójából származik.",
+                "A hegy jelenleg körülbelül 1281 méter magas, bár ez a kitörésekkel változik.",
+                "1880-ban siklót építettek a kráterhez, amely a híres 'Funiculì, Funiculà' című dalt ihlette.",
+                "A Vezúv körüli talaj rendkívül termékeny, híres terméke a Lacryma Christi bor."
+          ],
+          "ro": [
+                "Vezuviul face parte din arcul vulcanic Campanian, format prin convergența plăcilor africană și eurasiatică.",
+                "Erupția din 79 d.Hr. este adesea considerată prima erupție vulcanică documentată, descrisă de Pliniu cel Tânăr.",
+                "Ultima erupție majoră a vulcanului a avut loc în 1944, în timpul celui de-al Doilea Război Mondial.",
+                "Vezuviul este considerat unul dintre cei mai periculoși vulcani din lume din cauza populației dense din apropiere.",
+                "Termenul 'erupție pliniană', care descrie o activitate vulcanică extrem de explozivă, provine din relatarea lui Pliniu cel Tânăr.",
+                "Muntele are în prezent aproximativ 1.281 de metri înălțime, deși aceasta se schimbă o dată cu erupțiile.",
+                "Un funicular a fost construit până la crater în 1880, inspirând faimosul cântec 'Funiculì, Funiculà'.",
+                "Solul din jurul Vezuviului este extrem de fertil, producând faimosul vin Lacryma Christi."
+          ]
     },
     image: "/geo-images/italy/it-vesuvio.webp"
   },
@@ -671,17 +1545,55 @@ export const italyCities: POI[] = [
     parent: "IT-82",
     coords: [15.213, 38.793],
     name: { de: "Stromboli", hu: "Stromboli", ro: "Stromboli", en: "Stromboli" },
+    
+    
     description: {
-      de: "Stromboli ist eine Vulkaninsel der Liparischen Inseln im Tyrrhenischen Meer. Der Vulkan ist wegen seiner regelmäßigen kleinen Eruptionen als 'Leuchtturm des Mittelmeers' bekannt. Nachts bietet das rot glühende Lava-Schauspiel ein unvergessliches Erlebnis.",
-      hu: "Stromboli a Tirrén-tengerben található Lipari-szigetek egyik vulkáni szigete. A vulkánt rendszeres kis kitörései miatt a 'Földközi-tenger világítótornyaként' is ismerik. Éjszaka a vörösen izzó láva játéka felejthetetlen élményt nyújt.",
-      ro: "Stromboli este o insulă vulcanică din Insulele Eoliene din Marea Tireniană. Vulcanul este cunoscut sub numele de 'Farul Mediteranei' datorită erupțiilor sale mici și regulate. Noaptea, spectacolul lavei strălucitoare roșii oferă o experiență de neuitat.",
-      en: "Stromboli is a volcanic island of the Aeolian Islands in the Tyrrhenian Sea. The volcano is known as the 'Lighthouse of the Mediterranean' due to its regular small eruptions. At night, the red glowing lava spectacle offers an unforgettable experience."
+          "en": "Stromboli is a small volcanic island in the Tyrrhenian Sea off the north coast of Sicily, part of the Aeolian archipelago. It is home to one of the most active volcanoes on Earth, which has been in almost continuous eruption for the past 2,000 years. Because of its spectacular nighttime displays of glowing lava ejected high into the air, it is famously known as the 'Lighthouse of the Mediterranean'. Stromboli features a striking, conical shape with a steep, barren scar called the Sciara del Fuoco, where lava rolls directly into the sea. Despite its volatility, it supports small villages and attracts adventurous tourists and geologists.",
+          "de": "Stromboli ist eine kleine Vulkaninsel im Tyrrhenischen Meer vor der Nordküste Siziliens, Teil des Äolischen Archipels. Es beherbergt einen der aktivsten Vulkane der Erde, der seit 2.000 Jahren fast ununterbrochen ausbricht. Wegen seiner spektakulären nächtlichen Schauspiele, bei denen glühende Lava hoch in die Luft geschleudert wird, ist er berühmt als der 'Leuchtturm des Mittelmeers'. Stromboli zeichnet sich durch eine markante, konische Form mit einer steilen, kargen Narbe namens Sciara del Fuoco aus, wo Lava direkt ins Meer rollt. Trotz seiner Volatilität beherbergt es kleine Dörfer und zieht abenteuerlustige Touristen und Geologen an.",
+          "hu": "Stromboli egy kis vulkáni sziget a Tirrén-tengerben, Szicília északi partjainál, az Aeoli-szigetcsoport része. A Föld egyik legaktívabb vulkánjának ad otthont, amely az elmúlt 2000 évben szinte folyamatosan kitört. Az éjszakai, magasba lövellő, izzó láva látványos megnyilvánulásai miatt a 'Földközi-tenger világítótornyaként' is ismert. A Stromboli feltűnő, kúpos alakú, egy Sciara del Fuoco nevű meredek, kietlen hegyoldallal rendelkezik, ahol a láva közvetlenül a tengerbe gördül. Változékonysága ellenére kis falvakat tart el, és kalandvágyó turistákat és geológusokat vonz.",
+          "ro": "Stromboli este o mică insulă vulcanică din Marea Tireniană, în largul coastei de nord a Siciliei, parte a arhipelagului eolian. Găzduiește unul dintre cei mai activi vulcani de pe Pământ, care este în erupție aproape continuă de 2.000 de ani. Datorită spectacolelor sale nocturne spectaculoase cu lavă strălucitoare aruncată sus în aer, este cunoscut faimos ca 'Farul Mediteranei'. Stromboli prezintă o formă conică impresionantă, cu o cicatrice abruptă și pustie numită Sciara del Fuoco, unde lava se rostogolește direct în mare. În ciuda volatilității sale, susține mici sate și atrage turiști aventuroși și geologi."
     },
     facts: {
-      de: ["Kontinuierlich aktiv seit Tausenden von Jahren.", "Bietet das Phänomen der 'Strombolianischen Eruptionen'.", "Gehört zur Inselgruppe der Äolischen Inseln nördlich von Sizilien.", "Wurde durch den Rossellini-Film mit Ingrid Bergman berühmt.", "Ein Paradies für Vulkan-Tourismus.", "Die Eruptionen sind vor allem nachts gut sichtbar."],
-      hu: ["Több ezer éve folyamatosan aktív.", "A 'stromboli típusú kitörések' jelenségét mutatja be.", "A Szicíliától északra fekvő vizik szigetek csoportjába tartozik.", "Rossellini Ingrid Bergmannal készült filmje tette híressé.", "A vulkánturizmus paradicsoma.", "A kitörések főleg éjszaka láthatók jól."],
-      ro: ["Activ în mod continuu de mii de ani.", "Oferă fenomenul 'erupțiilor stromboliene'.", "Aparține grupului Insulelor Eoliene la nord de Sicilia.", "A devenit faimos prin filmul lui Rossellini cu Ingrid Bergman.", "Un paradis pentru turismul vulcanic.", "Erupțiile sunt vizibile în special noaptea."],
-      en: ["Continuously active for thousands of years.", "Offers the phenomenon of 'Strombolian eruptions'.", "Belongs to the Aeolian Islands group north of Sicily.", "Became famous through the Rossellini film starring Ingrid Bergman.", "A paradise for volcano tourism.", "The eruptions are best seen at night."]
+          "en": [
+                "Stromboli gives its name to the specific 'Strombolian' type of volcanic eruption.",
+                "The volcano stands about 924 meters above sea level, but its base is deep on the ocean floor.",
+                "Eruptions typically occur every 20 to 30 minutes in a continuous mild cycle.",
+                "Roberto Rossellini's 1950 film 'Stromboli' starring Ingrid Bergman brought global fame to the island.",
+                "The permanent population is only a few hundred residents.",
+                "There are no cars allowed in the island's main villages; transportation is mainly by ape car or scooter.",
+                "The Sciara del Fuoco ('Stream of Fire') is the primary channel for lava to flow down to the sea.",
+                "Guided night treks to the crater are a highly popular and thrilling tourist activity."
+          ],
+          "de": [
+                "Stromboli gibt der spezifischen 'strombolianischen' Art des Vulkanausbruchs ihren Namen.",
+                "Der Vulkan liegt etwa 924 Meter über dem Meeresspiegel, aber seine Basis befindet sich tief auf dem Meeresgrund.",
+                "Eruptionen treten typischerweise alle 20 bis 30 Minuten in einem kontinuierlichen, milden Zyklus auf.",
+                "Roberto Rossellinis Film 'Stromboli' von 1950 mit Ingrid Bergman in der Hauptrolle brachte der Insel weltweiten Ruhm.",
+                "Die ständige Bevölkerung besteht nur aus wenigen hundert Einwohnern.",
+                "In den Hauptdörfern der Insel sind keine Autos erlaubt; Der Transport erfolgt hauptsächlich mit Ape-Autos oder Rollern.",
+                "Die Sciara del Fuoco ('Feuerstrom') ist der Hauptkanal für die Lava, die ins Meer fließt.",
+                "Geführte Nachtwanderungen zum Krater sind eine sehr beliebte und aufregende Touristenaktivität."
+          ],
+          "hu": [
+                "A Stromboli adja a nevét a vulkánkitörések sajátos 'stromboli' típusának.",
+                "A vulkán körülbelül 924 méterrel a tengerszint felett emelkedik, de alapja mélyen az óceán fenekén van.",
+                "A kitörések általában 20-30 percenként következnek be egy folyamatos, enyhe ciklusban.",
+                "Roberto Rossellini 1950-es 'Stromboli' című filmje Ingrid Bergman főszereplésével globális hírnevet hozott a szigetnek.",
+                "Az állandó lakosság mindössze néhány száz lakosból áll.",
+                "A sziget fő falvaiban nem engedélyezettek az autók; a közlekedés főleg háromkerekű mopedekkel vagy robogókkal történik.",
+                "A Sciara del Fuoco ('Tűzfolyam') a láva fő csatornája a tenger felé.",
+                "A kráterhez vezető éjszakai túrák vezetett formában rendkívül népszerű és izgalmas turisztikai tevékenységek."
+          ],
+          "ro": [
+                "Stromboli dă numele tipului specific de erupție vulcanică 'stromboliană'.",
+                "Vulcanul se ridică la aproximativ 924 de metri deasupra nivelului mării, dar baza sa se află adânc pe fundul oceanului.",
+                "Erupțiile au loc de obicei la fiecare 20 până la 30 de minute într-un ciclu blând continuu.",
+                "Filmul lui Roberto Rossellini din 1950, 'Stromboli', cu Ingrid Bergman, a adus faimă globală insulei.",
+                "Populația permanentă este de doar câteva sute de locuitori.",
+                "Mașinile nu sunt permise în satele principale ale insulei; transportul se face în principal cu scutere sau vehicule utilitare mici cu trei roți.",
+                "Sciara del Fuoco ('Râul de Foc') este principalul canal prin care lava curge în mare.",
+                "Drumețiile de noapte cu ghid până la crater sunt o activitate turistică extrem de populară și palpitantă."
+          ]
     },
     image: "/geo-images/italy/it-stromboli.webp"
   },
@@ -691,17 +1603,55 @@ export const italyCities: POI[] = [
     parent: "IT-42",
     coords: [9.210, 44.301],
     name: { de: "Portofino", hu: "Portofino", ro: "Portofino", en: "Portofino" },
+    
+    
     description: {
-      de: "Portofino ist ein malerisches Fischerdorf an der italienischen Riviera. Die halbmondförmige Bucht, gesäumt von pastellfarbenen Häusern und Yachten, ist ein Inbegriff des 'Dolce Vita'. Es ist ein exklusiver Rückzugsort für den Jetset und Naturliebhaber.",
-      hu: "Portofino egy festői halászfalu az Olasz Riviérán. A félhold alakú öböl, amelyet pasztellszínű házak és jachtok szegélyeznek, a 'Dolce Vita' megtestesítője. Exkluzív menedékhely a jetset és a természet szerelmesei számára.",
-      ro: "Portofino este un sat de pescari pitoresc de pe Riviera Italiană. Golful în formă de semilună, mărginit de case în culori pastelate și iahturi, este simbolul 'Dolce Vita'. Este un refugiu exclusivist pentru jet set și iubitorii de natură.",
-      en: "Portofino is a picturesque fishing village on the Italian Riviera. The crescent-shaped bay, lined with pastel-colored houses and yachts, is the epitome of the 'Dolce Vita'. It is an exclusive retreat for the jet set and nature lovers."
+          "en": "Portofino is an iconic, impossibly picturesque fishing village on the Italian Riviera, renowned as a haven for the wealthy and the jet-set crowd since the 1950s. The village encircles a small, crescent-shaped harbor, where sleek mega-yachts share the water with traditional wooden fishing boats. Rising steeply from the water are rows of vibrant, pastel-colored houses framed by lush, green pine and olive trees. Beyond its glamorous boutiques and waterfront cafés, Portofino offers natural beauty through the surrounding Regional Natural Park and the imposing Castello Brown, which provides sweeping views of the Ligurian Sea.",
+          "de": "Portofino ist ein ikonisches, unglaublich malerisches Fischerdorf an der italienischen Riviera, das seit den 1950er Jahren als Zufluchtsort für die Reichen und das Jetset-Publikum bekannt ist. Das Dorf umschließt einen kleinen, halbmondförmigen Hafen, wo schlanke Mega-Yachten das Wasser mit traditionellen hölzernen Fischerbooten teilen. Steil aus dem Wasser erheben sich Reihen lebhafter, pastellfarbener Häuser, umrahmt von üppigen, grünen Kiefern und Olivenbäumen. Jenseits seiner glamourösen Boutiquen und Cafés am Wasser bietet Portofino natürliche Schönheit durch den umliegenden Regionalen Naturpark und das imposante Castello Brown, das weite Ausblicke auf das Ligurische Meer bietet.",
+          "hu": "Portofino egy ikonikus, hihetetlenül festői halászfalu az Olasz Riviérán, amely az 1950-es évek óta a gazdagok és a jet-set elit menedékhelyeként ismert. A falu egy kis, félhold alakú kikötőt vesz körül, ahol az elegáns mega-jachtok hagyományos fa halászhajókkal osztoznak a vízen. A vízből meredeken emelkednek ki a vibráló, pasztellszínű házsorok, amelyeket buja zöld fenyők és olajfák öveznek. A csillogó butikokon és vízparti kávézókon túl Portofino természeti szépséget is kínál a környező Regionális Természeti Park és az impozáns Castello Brown révén, amely elsöprő kilátást nyújt a Ligur-tengerre.",
+          "ro": "Portofino este un sat de pescari emblematic, incredibil de pitoresc de pe Riviera Italiană, renumit ca un refugiu pentru cei bogați și pentru mulțimea de jet-set încă din anii 1950. Satul înconjoară un mic port în formă de semilună, unde mega-iahturile elegante împart apa cu bărcile tradiționale de pescuit din lemn. Ridicându-se abrupt din apă sunt rânduri de case vibrante, în culori pastelate, încadrate de pini verzi luxurianți și măslini. Dincolo de buticurile sale fermecătoare și cafenelele de pe malul apei, Portofino oferă frumusețe naturală prin Parcul Natural Regional înconjurător și impunătorul Castello Brown, care oferă vederi ample asupra Mării Ligurice."
     },
     facts: {
-      de: ["Berühmt für seinen malerischen Hafen und die pastellfarbenen Häuser.", "Ein Symbol für italienischen Luxus und den Jetset.", "Eingebettet in einen Naturpark mit reicher Vegetation.", "Die Piazzetta ist das Herzstück des Dorfes.", "Castello Brown bietet einen Panoramablick auf die Bucht.", "Nur ca. 400 Einwohner, aber Millionen von Besuchern."],
-      hu: ["Híres festői kikötőjéről és pasztellszínű házairól.", "Az olasz luxus és a jetset szimbóluma.", "Gazdag növényzetű natúrparkban fekszik.", "A Piazzetta a falu szíve.", "A Castello Brown panorámás kilátást nyújt az öbölre.", "Mindössze kb. 400 lakosa van, de több millió látogatója."],
-      ro: ["Faimos pentru portul său pitoresc și casele în culori pastelate.", "Un simbol al luxului italian și al jet set-ului.", "Situat într-un parc natural cu vegetație bogată.", "Piazzetta este inima satului.", "Castello Brown oferă vederi panoramice ale golfului.", "Doar aprox. 400 de locuitori, dar milioane de vizitatori."],
-      en: ["Famous for its picturesque harbor and pastel-colored houses.", "A symbol of Italian luxury and the jet set.", "Nestled in a nature park with rich vegetation.", "The Piazzetta is the heart of the village.", "Castello Brown offers panoramic views of the bay.", "Only about 400 residents, but millions of visitors."]
+          "en": [
+                "Portofino became a symbol of 'La Dolce Vita' in the 1950s, attracting Hollywood stars and royals.",
+                "The name originates from 'Portus Delphini', meaning Port of the Dolphin, named by the Romans.",
+                "The entire Portofino promontory is a protected marine reserve ideal for scuba diving.",
+                "Castello Brown was a military fortress but is now used primarily for exhibitions and events.",
+                "The Piazzetta, the central cobbled square, is the heart of the village's social life.",
+                "The church of San Giorgio supposedly contains the relics of Saint George.",
+                "The village has a permanent population of fewer than 400 people.",
+                "To preserve its beauty, strict building codes forbid new construction in the village center."
+          ],
+          "de": [
+                "Portofino wurde in den 1950er Jahren zu einem Symbol für 'La Dolce Vita' und zog Hollywoodstars und Könige an.",
+                "Der Name stammt von 'Portus Delphini', was Delfinhafen bedeutet und von den Römern benannt wurde.",
+                "Das gesamte Vorgebirge von Portofino ist ein geschütztes Meeresschutzgebiet, ideal zum Gerätetauchen.",
+                "Castello Brown war eine militärische Festung, wird aber heute hauptsächlich für Ausstellungen und Veranstaltungen genutzt.",
+                "Die Piazzetta, der zentrale gepflasterte Platz, ist das Herzstück des gesellschaftlichen Lebens des Dorfes.",
+                "Die Kirche San Giorgio soll die Reliquien des Heiligen Georg enthalten.",
+                "Das Dorf hat eine ständige Bevölkerung von weniger als 400 Menschen.",
+                "Um seine Schönheit zu bewahren, verbieten strenge Bauvorschriften Neubauten im Dorfzentrum."
+          ],
+          "hu": [
+                "Portofino az 1950-es években a 'La Dolce Vita' szimbólumává vált, vonzva a hollywoodi sztárokat és az uralkodócsaládok tagjait.",
+                "A név a 'Portus Delphini'-ből származik, ami a Delfin kikötőjét jelenti, amelyet a rómaiak adtak neki.",
+                "A teljes portofinói hegyfok védett tengeri rezervátum, amely ideális a búvárkodáshoz.",
+                "A Castello Brown katonai erőd volt, de ma már elsősorban kiállításokra és rendezvényekre használják.",
+                "A Piazzetta, a központi macskaköves tér a falu társadalmi életének szíve.",
+                "A San Giorgio templom állítólag Szent György ereklyéit őrzi.",
+                "A falu állandó lakossága kevesebb mint 400 fő.",
+                "Szépségének megőrzése érdekében szigorú építési szabályzatok tiltják az új építkezéseket a falu központjában."
+          ],
+          "ro": [
+                "Portofino a devenit un simbol al 'La Dolce Vita' în anii 1950, atrăgând vedete de la Hollywood și familii regale.",
+                "Numele provine din 'Portus Delphini', însemnând Portul Delfinului, numit de romani.",
+                "Întregul promontoriu Portofino este o rezervație marină protejată, ideală pentru scufundări.",
+                "Castello Brown a fost o fortăreață militară, dar acum este folosit în principal pentru expoziții și evenimente.",
+                "Piazzetta, piața centrală pietruită, este inima vieții sociale a satului.",
+                "Biserica San Giorgio ar conține moaștele Sfântului Gheorghe.",
+                "Satul are o populație permanentă de mai puțin de 400 de locuitori.",
+                "Pentru a-și păstra frumusețea, codurile stricte de construcție interzic construcțiile noi în centrul satului."
+          ]
     },
     image: "/geo-images/italy/it-portofino.webp"
   },
@@ -711,17 +1661,55 @@ export const italyCities: POI[] = [
     parent: "IT-42",
     coords: [9.722, 44.125],
     name: { de: "Cinque Terre", hu: "Cinque Terre", ro: "Cinque Terre", en: "Cinque Terre" },
+    
+    
     description: {
-      de: "Cinque Terre bezeichnet einen zerklüfteten Küstenabschnitt der italienischen Riviera, an dem sich fünf bunte Fischerdörfer an die steilen Klippen klammern. Die terrassierten Weinberge und malerischen Wanderwege bieten ein spektakuläres Küstenpanorama.",
-      hu: "A Cinque Terre az Olasz Riviéra egy zord partszakaszát jelöli, ahol öt színes halászfalu kapaszkodik a meredek sziklákhoz. A teraszos szőlőültetvények és a festői túraútvonalak látványos tengerparti panorámát nyújtanak.",
-      ro: "Cinque Terre se referă la o secțiune accidentată de coastă de pe Riviera Italiană, unde cinci sate colorate de pescari se agață de stânci abrupte. Podgoriile terasate și traseele de drumeții pitorești oferă o panoramă de coastă spectaculoasă.",
-      en: "Cinque Terre refers to a rugged stretch of coast on the Italian Riviera, where five colorful fishing villages cling to steep cliffs. The terraced vineyards and picturesque hiking trails offer a spectacular coastal panorama."
+          "en": "Cinque Terre, meaning 'Five Lands', is a remarkably rugged portion of the Italian Riviera coastline in the Liguria region. It comprises five ancient, brightly colored fishing villages: Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore. The villages are perched precariously on steep, terraced cliffs that plunge into the Ligurian Sea. For centuries, they were isolated and accessible only by foot or sea, allowing them to retain a timeless, authentic charm. The intricately engineered terraces, supported by dry stone walls, produce renowned wines and olives. Today, it is a hugely popular UNESCO World Heritage site, famous for its breathtaking hiking trails.",
+          "de": "Cinque Terre, was 'Fünf Länder' bedeutet, ist ein bemerkenswert zerklüfteter Teil der Küste der italienischen Riviera in der Region Ligurien. Es umfasst fünf alte, farbenfrohe Fischerdörfer: Monterosso al Mare, Vernazza, Corniglia, Manarola und Riomaggiore. Die Dörfer thronen gefährlich auf steilen, terrassenförmig angelegten Klippen, die ins Ligurische Meer stürzen. Jahrhundertelang waren sie isoliert und nur zu Fuß oder auf dem Seeweg erreichbar, wodurch sie einen zeitlosen, authentischen Charme bewahren konnten. Die kunstvoll konstruierten Terrassen, gestützt von Trockenmauern, bringen renommierte Weine und Oliven hervor. Heute ist es ein sehr beliebtes UNESCO-Weltkulturerbe, berühmt für seine atemberaubenden Wanderwege.",
+          "hu": "A Cinque Terre, ami 'Öt Földet' jelent, az Olasz Riviéra egy rendkívül zord partszakasza a Liguria régióban. Öt ősi, élénk színű halászfaluból áll: Monterosso al Mare, Vernazza, Corniglia, Manarola és Riomaggiore. A falvak bizonytalanul egyensúlyoznak a Ligur-tengerbe szakadó meredek, teraszos sziklákon. Évszázadokig elszigeteltek voltak, és csak gyalog vagy tengeren lehetett megközelíteni őket, ami lehetővé tette számukra, hogy megőrizzék időtlen, autentikus bájukat. A száraz kőfalakkal megtámasztott, bonyolultan kialakított teraszokon híres borokat és olajbogyókat termelnek. Ma rendkívül népszerű UNESCO világörökségi helyszín, amely lélegzetelállító túraútvonalairól híres.",
+          "ro": "Cinque Terre, care înseamnă 'Cinci Pământuri', este o porțiune remarcabil de accidentată a coastei Rivierei Italiene din regiunea Liguria. Cuprinde cinci sate de pescari antice, viu colorate: Monterosso al Mare, Vernazza, Corniglia, Manarola și Riomaggiore. Satele sunt cocoțate precar pe stânci abrupte, terasate, care se scufundă în Marea Ligurică. Timp de secole, ele au fost izolate și accesibile doar pe jos sau pe mare, permițându-le să păstreze un farmec atemporal, autentic. Terasele cu inginerie complicată, susținute de pereți de piatră seacă, produc vinuri și măsline renumite. Astăzi, este un sit al Patrimoniului Mondial UNESCO extrem de popular, faimos pentru traseele sale uluitoare de drumeții."
     },
     facts: {
-      de: ["Besteht aus den Dörfern Monterosso, Vernazza, Corniglia, Manarola und Riomaggiore.", "UNESCO-Weltkulturerbe seit 1997.", "Berühmt für Wanderwege, insbesondere den 'Sentiero Azzurro'.", "Autoverkehr ist in den Dörfern stark eingeschränkt.", "Die Region ist für ihren Weißwein und das Pesto Genovese bekannt.", "Die Dörfer sind am besten per Zug oder Boot erreichbar."],
-      hu: ["Monterosso, Vernazza, Corniglia, Manarola és Riomaggiore falvakból áll.", "1997 óta az UNESCO világörökség része.", "Híres túraútvonalairól, különösen a 'Sentiero Azzurro'-ról.", "A falvakban az autóforgalom erősen korlátozott.", "A régió fehérboráról és a Pesto Genovese-ről ismert.", "A falvak legjobban vonattal vagy hajóval közelíthetők meg."],
-      ro: ["Este format din satele Monterosso, Vernazza, Corniglia, Manarola și Riomaggiore.", "Patrimoniu Mondial UNESCO din 1997.", "Faimos pentru traseele de drumeții, în special 'Sentiero Azzurro'.", "Traficul auto este strict restricționat în sate.", "Regiunea este cunoscută pentru vinul său alb și Pesto Genovese.", "Satele sunt cel mai bine accesate cu trenul sau cu barca."],
-      en: ["Consists of the villages Monterosso, Vernazza, Corniglia, Manarola and Riomaggiore.", "UNESCO World Heritage site since 1997.", "Famous for hiking trails, especially the 'Sentiero Azzurro'.", "Car traffic is strictly limited in the villages.", "The region is known for its white wine and Pesto Genovese.", "The villages are best accessed by train or boat."]
+          "en": [
+                "The region is connected by a scenic 19th-century railway line that tunnels through the cliffs.",
+                "Corniglia is the only village not situated directly on the water, sitting 100 meters above the sea.",
+                "The 'Via dell'Amore' (Path of Love) is a famous, romantic walkway between Riomaggiore and Manarola.",
+                "Cars are largely banned or restricted within the five villages.",
+                "The dry stone walls supporting the terraces measure over 6,000 kilometers in total length.",
+                "Cinque Terre produces Sciacchetrà, a sweet and highly prized dessert wine.",
+                "The area was designated a National Park in 1999 to protect its delicate ecosystem.",
+                "The houses are painted in bright colors so fishermen could see their homes from offshore."
+          ],
+          "de": [
+                "Die Region ist durch eine malerische Eisenbahnlinie aus dem 19. Jahrhundert verbunden, die durch die Klippen tunnelt.",
+                "Corniglia ist das einzige Dorf, das nicht direkt am Wasser liegt, sondern 100 Meter über dem Meer.",
+                "Die 'Via dell'Amore' (Weg der Liebe) ist ein berühmter, romantischer Gehweg zwischen Riomaggiore und Manarola.",
+                "Autos sind in den fünf Dörfern weitgehend verboten oder eingeschränkt.",
+                "Die Trockenmauern, die die Terrassen stützen, messen eine Gesamtlänge von über 6.000 Kilometern.",
+                "Cinque Terre produziert Sciacchetrà, einen süßen und hochgeschätzten Dessertwein.",
+                "Das Gebiet wurde 1999 zum Nationalpark erklärt, um sein empfindliches Ökosystem zu schützen.",
+                "Die Häuser sind in leuchtenden Farben gestrichen, damit die Fischer ihre Häuser von der Küste aus sehen konnten."
+          ],
+          "hu": [
+                "A régiót egy festői, 19. századi vasútvonal köti össze, amely a sziklákon keresztül halad.",
+                "Corniglia az egyetlen falu, amely nem közvetlenül a víznél található, hanem 100 méterrel a tenger felett.",
+                "A 'Via dell'Amore' (A Szerelem Útja) egy híres, romantikus sétány Riomaggiore és Manarola között.",
+                "A gépkocsiforgalom nagyrészt tiltott vagy korlátozott az öt faluban.",
+                "A teraszokat tartó száraz kőfalak teljes hossza meghaladja a 6000 kilométert.",
+                "A Cinque Terre-ben Sciacchetrà-t, egy édes és nagyra értékelt desszertbort termelnek.",
+                "A területet 1999-ben Nemzeti Parkká nyilvánították az érzékeny ökoszisztéma védelme érdekében.",
+                "A házakat élénk színekre festették, hogy a halászok a tenger felől is láthassák otthonukat."
+          ],
+          "ro": [
+                "Regiunea este conectată de o linie de cale ferată pitorească din secolul al XIX-lea, care trece prin stânci.",
+                "Corniglia este singurul sat care nu este situat direct pe apă, aflându-se la 100 de metri deasupra mării.",
+                "'Via dell'Amore' (Calea Dragostei) este o alee faimoasă și romantică între Riomaggiore și Manarola.",
+                "Mașinile sunt în mare parte interzise sau restricționate în interiorul celor cinci sate.",
+                "Pereții din piatră uscată care susțin terasele măsoară o lungime totală de peste 6.000 de kilometri.",
+                "Cinque Terre produce Sciacchetrà, un vin de desert dulce și foarte apreciat.",
+                "Zona a fost desemnată Parc Național în 1999 pentru a-și proteja ecosistemul delicat.",
+                "Casele sunt vopsite în culori strălucitoare, astfel încât pescarii să-și poată vedea casele din larg."
+          ]
     },
     image: "/geo-images/italy/it-cinque-terre.webp"
   },
@@ -731,17 +1719,55 @@ export const italyCities: POI[] = [
     parent: "IT-75",
     coords: [18.169, 40.353],
     name: { de: "Lecce", hu: "Lecce", ro: "Lecce", en: "Lecce" },
+    
+    
     description: {
-      de: "Lecce wird aufgrund seiner reichen Barockarchitektur oft als 'Florenz des Südens' bezeichnet. Die Stadt auf der Halbinsel Salento besticht durch Gebäude aus dem weichen, goldenen Lecce-Stein, der detaillierte Skulpturen und Verzierungen ermöglichte.",
-      hu: "Lecce-t gazdag barokk építészete miatt gyakran a 'Dél Firenzéjének' nevezik. A Salento-félszigeten fekvő város puha, aranyszínű Lecce-kőből épült házaival hódít, amely lehetővé tette a részletgazdag szobrokat és díszítéseket.",
-      ro: "Lecce este adesea denumită 'Florența Sudului' datorită arhitecturii sale baroce bogate. Orașul de pe peninsula Salento captivează cu clădirile sale realizate din piatră moale, aurie de Lecce, care a permis sculpturi și decorațiuni detaliate.",
-      en: "Lecce is often called the 'Florence of the South' due to its rich Baroque architecture. The city on the Salento peninsula captivates with buildings made of the soft, golden Lecce stone, which allowed for detailed sculptures and decorations."
+          "en": "Lecce, often dubbed the 'Florence of the South', is the principal city of the Salento peninsula in Apulia. The city is renowned for its exuberant, highly decorative Baroque architecture, a style uniquely its own known as 'Barocco Leccese'. This extravagant design is carved from the soft, honey-colored local limestone ('pietra leccese'), which allowed master stonemasons to create intricate facades of cherubs, monsters, flowers, and animals. Beyond its architectural splendor, Lecce has a profound ancient history, evidenced by a sunken Roman amphitheater located right in its central square. The city exudes an elegant, relaxed southern Italian charm.",
+          "de": "Lecce, oft als 'Florenz des Südens' bezeichnet, ist die wichtigste Stadt der Halbinsel Salento in Apulien. Die Stadt ist bekannt für ihre üppige, hochdekorative Barockarchitektur, ein ganz eigener Stil, der als 'Barocco Leccese' bekannt ist. Dieses extravagante Design ist aus dem weichen, honigfarbenen lokalen Kalkstein ('Pietra Leccese') geschnitzt, der es Meistersteinmetzen ermöglichte, kunstvolle Fassaden mit Cherubim, Monstern, Blumen und Tieren zu schaffen. Jenseits seiner architektonischen Pracht hat Lecce eine tiefgreifende antike Geschichte, was durch ein versunkenes römisches Amphitheater belegt wird, das sich direkt auf dem zentralen Platz befindet. Die Stadt versprüht einen eleganten, entspannten süditalienischen Charme.",
+          "hu": "Lecce-t, amelyet gyakran a 'Dél Firenzéjének' neveznek, a salentói félsziget fő városa Pugliában. A város híres a dús, rendkívül dekoratív barokk építészetéről, egy egyedi stílusról, amely 'Barocco Leccese' néven ismert. Ezt az extravagáns dizájnt a puha, mézszínű helyi mészkőből ('pietra leccese') faragták ki, amely lehetővé tette a kőfaragó mesterek számára, hogy kerubokból, szörnyekből, virágokból és állatokból álló bonyolult homlokzatokat hozzanak létre. Építészeti pompáján túl Lecce mély ókori történelemmel is rendelkezik, amit a központi terén található elsüllyedt római amfiteátrum bizonyít. A város elegáns, nyugodt dél-olasz bájt áraszt.",
+          "ro": "Lecce, numită adesea 'Florența Sudului', este principalul oraș al peninsulei Salento din Puglia. Orașul este renumit pentru arhitectura sa barocă exuberantă, extrem de decorativă, un stil unic cunoscut sub numele de 'Barocco Leccese'. Acest design extravagant este sculptat din calcarul local moale, de culoarea mierii ('pietra leccese'), care a permis maeștrilor pietrari să creeze fațade complicate cu heruvimi, monștri, flori și animale. Dincolo de splendoarea sa arhitecturală, Lecce are o istorie antică profundă, evidențiată de un amfiteatru roman scufundat situat chiar în piața sa centrală. Orașul emană un farmec elegant și relaxat, specific sudului Italiei."
     },
     facts: {
-      de: ["Berühmt für den Architekturstil 'Barocco Leccese'.", "Hauptstadt des Salento in Apulien.", "Die Basilika Santa Croce ist das Meisterwerk der Stadt.", "Hat ein gut erhaltenes römisches Amphitheater im Zentrum.", "Traditionelle Herstellung von Pappmaché-Kunstwerken.", "Bietet exzellente süditalienische Gastronomie."],
-      hu: ["A 'Barocco Leccese' építészeti stílusáról híres.", "Salento fővárosa Pugliában.", "A Santa Croce-bazilika a város remekműve.", "A központban egy jól megőrzött római amfiteátrum található.", "A papírmasé műalkotások hagyományos készítése.", "Kiváló dél-olasz gasztronómiát kínál."],
-      ro: ["Faimos pentru stilul arhitectural 'Barocco Leccese'.", "Capitala regiunii Salento din Puglia.", "Bazilica Santa Croce este capodopera orașului.", "Are un amfiteatru roman bine conservat în centru.", "Producția tradițională de opere de artă din papier-mâché.", "Oferă o excelentă gastronomie din sudul Italiei."],
-      en: ["Famous for the architectural style 'Barocco Leccese'.", "Capital of Salento in Apulia.", "The Basilica of Santa Croce is the city's masterpiece.", "Has a well-preserved Roman amphitheater in the center.", "Traditional production of papier-mâché artworks.", "Offers excellent southern Italian gastronomy."]
+          "en": [
+                "The Basilica of Santa Croce is the pinnacle of Lecce's Baroque architectural style.",
+                "The local 'pietra leccese' stone hardens over time but is soft when initially quarried.",
+                "A Roman amphitheater, excavated in the early 20th century, seats up to 25,000 spectators.",
+                "The city was once controlled by Greeks, Romans, Byzantines, Normans, and Spaniards.",
+                "Lecce has a strong tradition of papier-mâché (cartapesta) artistry, dating back centuries.",
+                "The Piazza del Duomo is considered one of the most beautiful closed squares in Italy.",
+                "The city's symbol is a she-wolf beneath a holm oak tree.",
+                "Lecce produces excellent olive oil and bold red wines, such as Primitivo and Negroamaro."
+          ],
+          "de": [
+                "Die Basilika Santa Croce ist der Höhepunkt des barocken Architekturstils von Lecce.",
+                "Der lokale Stein 'Pietra Leccese' härtet mit der Zeit aus, ist aber beim ersten Abbau weich.",
+                "Ein römisches Amphitheater, das im frühen 20. Jahrhundert ausgegraben wurde, bietet Platz für bis zu 25.000 Zuschauer.",
+                "Die Stadt wurde einst von Griechen, Römern, Byzantinern, Normannen und Spaniern kontrolliert.",
+                "Lecce hat eine starke Tradition in der Pappmaché-Kunst (Cartapesta), die Jahrhunderte zurückreicht.",
+                "Die Piazza del Duomo gilt als einer der schönsten geschlossenen Plätze Italiens.",
+                "Das Symbol der Stadt ist eine Wölfin unter einer Steineiche.",
+                "Lecce produziert exzellentes Olivenöl und kräftige Rotweine wie Primitivo und Negroamaro."
+          ],
+          "hu": [
+                "A Santa Croce-bazilika a leccei barokk építészeti stílus csúcsa.",
+                "A helyi 'pietra leccese' kő idővel megkeményedik, de a kezdeti bányászatkor még puha.",
+                "A 20. század elején feltárt római amfiteátrum akár 25 000 néző befogadására is alkalmas volt.",
+                "A várost egykor görögök, rómaiak, bizánciak, normannok és spanyolok irányították.",
+                "Lecce erős papírmasé (cartapesta) művészeti hagyományokkal rendelkezik, amely évszázadokra nyúlik vissza.",
+                "A Piazza del Duomo-t Olaszország egyik legszebb zárt terének tartják.",
+                "A város szimbóluma egy anyafarkas egy magyaltölgyfa alatt.",
+                "Lecce kiváló olívaolajat és testes vörösborokat termel, mint például a Primitivo és a Negroamaro."
+          ],
+          "ro": [
+                "Bazilica Santa Croce este punctul culminant al stilului arhitectural baroc din Lecce.",
+                "Piatra locală 'pietra leccese' se întărește în timp, dar este moale la prima extracție.",
+                "Un amfiteatru roman, excavat la începutul secolului XX, poate găzdui până la 25.000 de spectatori.",
+                "Orașul a fost cândva controlat de greci, romani, bizantini, normanzi și spanioli.",
+                "Lecce are o tradiție puternică în arta papier-mâché (cartapesta), datând de secole.",
+                "Piazza del Duomo este considerată una dintre cele mai frumoase piețe închise din Italia.",
+                "Simbolul orașului este o lupoaică sub un stejar de stâncă.",
+                "Lecce produce ulei de măsline excelent și vinuri roșii îndrăznețe, cum ar fi Primitivo și Negroamaro."
+          ]
     },
     image: "/geo-images/italy/it-lecce.webp"
   },
@@ -752,16 +1778,16 @@ export const italyCities: POI[] = [
     coords: [16.866, 41.117],
     name: { de: "Bari", hu: "Bari", ro: "Bari", en: "Bari" },
     description: {
-      de: "Bari ist die Hauptstadt Apuliens und eine lebhafte Hafenstadt an der Adria. Die Altstadt, Bari Vecchia, ist ein Labyrinth aus engen Gassen, in denen Frauen traditionell auf der Straße Orecchiette-Nudeln formen. Hier verschmelzen Geschichte und authentischer Alltag.",
-      hu: "Bari Puglia fővárosa és nyüzsgő kikötőváros az Adriai-tenger partján. Az óváros, Bari Vecchia szűk utcák útvesztője, ahol a nők hagyományosan az utcán készítik az orecchiette tésztát. Itt összefonódik a történelem és az autentikus mindennapok.",
-      ro: "Bari este capitala regiunii Puglia și un oraș portuar animat la Marea Adriatică. Orașul vechi, Bari Vecchia, este un labirint de străzi înguste, unde femeile modelează tradițional pastele orecchiette pe stradă. Aici se împletesc istoria și viața de zi cu zi autentică.",
-      en: "Bari is the capital of Apulia and a bustling port city on the Adriatic Sea. The old town, Bari Vecchia, is a maze of narrow streets where women traditionally shape orecchiette pasta on the street. History and authentic everyday life blend here."
+      en: "Bari is the capital city of the Apulia region, situated on the Adriatic Sea in southern Italy. It serves as a major economic center and a critical port for ferries connecting Italy to the Balkan Peninsula. The city is famous for its historic Old Town, known as Bari Vecchia, which features a maze of narrow streets and ancient churches. One of its most significant landmarks is the Basilica of Saint Nicholas, a major pilgrimage destination for both Catholic and Orthodox Christians. Bari perfectly combines a vibrant modern harbor with profound historical and religious traditions.",
+      de: "Bari ist die Hauptstadt der Region Apulien und liegt an der Adria in Süditalien. Sie dient als wichtiges Wirtschaftszentrum und bedeutender Hafen für Fähren, die Italien mit der Balkanhalbinsel verbinden. Die Stadt ist berühmt für ihre historische Altstadt, bekannt als Bari Vecchia, die ein Labyrinth aus engen Gassen und alten Kirchen aufweist. Eines ihrer bedeutendsten Wahrzeichen ist die Basilika San Nicola, ein wichtiges Pilgerziel für katholische und orthodoxe Christen. Bari verbindet auf perfekte Weise einen lebhaften modernen Hafen mit tiefen historischen und religiösen Traditionen.",
+      hu: "Bari Puglia régió fővárosa, amely az Adriai-tenger partján fekszik Dél-Olaszországban. Jelentős gazdasági központként és kritikus fontosságú kikötőként szolgál, amely Olaszországot a Balkán-félszigettel köti össze kompjáratokon keresztül. A város híres történelmi óvárosáról, a Bari Vecchiáról, amelyet szűk utcák és ősi templomok útvesztője jellemez. Egyik legjelentősebb nevezetessége a Szent Miklós-bazilika, amely a katolikus és ortodox keresztények fontos zarándokhelye. Bari tökéletesen ötvözi a nyüzsgő modern kikötőt a mély történelmi és vallási hagyományokkal.",
+      ro: "Bari este capitala regiunii Apulia, situată pe coasta Mării Adriatice, în sudul Italiei. Servește ca un centru economic major și un port critic pentru feriboturile care leagă Italia de Peninsula Balcanică. Orașul este faimos pentru Centrul său Vechi istoric, cunoscut sub numele de Bari Vecchia, care prezintă un labirint de străzi înguste și biserici antice. Unul dintre cele mai semnificative repere ale sale este Bazilica Sfântul Nicolae, o destinație majoră de pelerinaj atât pentru creștinii catolici, cât și pentru cei ortodocși. Bari combină perfect un port modern vibrant cu tradiții istorice și religioase profunde."
     },
     facts: {
-      de: ["Wichtiger Fährhafen nach Griechenland und zum Balkan.", "Die Basilika San Nicola beherbergt die Reliquien des Heiligen Nikolaus.", "Bari Vecchia ist für ihr authentisches Flair berühmt.", "Bekannt für Orecchiette (öhrchenförmige Nudeln).", "Besitzt eine beeindruckende Festung, das Castello Svevo.", "Kulturelles und wirtschaftliches Zentrum Süditaliens."],
-      hu: ["Fontos kompkikötő Görögország és a Balkán felé.", "A San Nicola-bazilikában őrzik Szent Miklós ereklyéit.", "A Bari Vecchia autentikus hangulatáról híres.", "Híres az Orecchiette-ről (fül alakú tészta).", "Lenyűgöző erőddel, a Castello Svevo-val rendelkezik.", "Dél-Olaszország kulturális és gazdasági központja."],
-      ro: ["Important port de feriboturi către Grecia și Balcani.", "Bazilica San Nicola găzduiește moaștele Sfântului Nicolae.", "Bari Vecchia este faimos pentru atmosfera sa autentică.", "Cunoscut pentru Orecchiette (paste în formă de ureche).", "Deține o fortăreață impresionantă, Castello Svevo.", "Centrul cultural și economic al sudului Italiei."],
-      en: ["Important ferry port to Greece and the Balkans.", "The Basilica of San Nicola houses the relics of Saint Nicholas.", "Bari Vecchia is famous for its authentic flair.", "Known for Orecchiette (ear-shaped pasta).", "Has an impressive fortress, the Castello Svevo.", "Cultural and economic center of southern Italy."]
+      en: ["Bari is the second most important economic center of mainland Southern Italy.","The Basilica of Saint Nicholas holds the relics of St. Nicholas (Santa Claus).","The city's ancient core, Bari Vecchia, was redeveloped and is now a vibrant nightlife hub.","Bari has a long promenade along the sea, one of the longest in Italy.","The port of Bari is the largest passenger port in the Adriatic Sea.","The local dialect (Barese) is distinct and influenced by Greek and Norman languages.","Orecchiette pasta is a traditional culinary specialty of the city.","The Swabian Castle (Castello Svevo) is a historic fortress built by King Roger II of Sicily."],
+      de: ["Bari ist nach Neapel das zweitwichtigste Wirtschaftszentrum des süditalienischen Festlandes.","Die Basilika San Nicola beherbergt die Reliquien des Heiligen Nikolaus.","Der historische Kern der Stadt, Bari Vecchia, wurde saniert und ist heute ein lebhaftes Zentrum des Nachtlebens.","Bari hat eine lange Uferpromenade am Meer, eine der längsten in Italien.","Der Hafen von Bari ist der größte Passagierhafen in der Adria.","Der lokale Dialekt (Barese) ist eigenständig und wurde von griechischen und normannischen Sprachen beeinflusst.","Orecchiette-Nudeln sind eine traditionelle kulinarische Spezialität der Stadt.","Das Schwäbische Schloss (Castello Svevo) ist eine historische Festung, die von König Roger II. von Sizilien erbaut wurde."],
+      hu: ["Bari a dél-olaszországi szárazföld második legfontosabb gazdasági központja Nápoly után.","A Szent Miklós-bazilika őrzi Szent Miklós (Mikulás) ereklyéit.","A város ősi magját, a Bari Vecchiát felújították, és ma az éjszakai élet nyüzsgő központja.","Bari hosszú tengerparti sétánnyal rendelkezik, amely az egyik leghosszabb Olaszországban.","Bari kikötője a legnagyobb személyforgalmi kikötő az Adriai-tengeren.","A helyi dialektus (barese) egyedi, és görög, valamint normann nyelvek befolyásolták.","Az Orecchiette tészta a város egyik hagyományos kulináris specialitása.","A sváb kastély (Castello Svevo) egy történelmi erődítmény, amelyet II. Roger szicíliai király építtetett."],
+      ro: ["Bari este al doilea cel mai important centru economic din sudul continental al Italiei.","Bazilica Sfântul Nicolae adăpostește moaștele Sfântului Nicolae (Moș Crăciun).","Nucleul antic al orașului, Bari Vecchia, a fost reamenajat și este acum un centru vibrant al vieții de noapte.","Bari are o lungă promenadă de-a lungul mării, una dintre cele mai lungi din Italia.","Portul Bari este cel mai mare port de pasageri din Marea Adriatică.","Dialectul local (Barese) este distinct și influențat de limbile greacă și normandă.","Pastele Orecchiette sunt o specialitate culinară tradițională a orașului.","Castelul Șvab (Castello Svevo) este o fortăreață istorică construită de regele Roger al II-lea al Siciliei."]
     },
     image: "/geo-images/italy/it-bari.webp"
   },
@@ -772,16 +1798,16 @@ export const italyCities: POI[] = [
     coords: [12.389, 43.111],
     name: { de: "Perugia", hu: "Perugia", ro: "Perugia", en: "Perugia" },
     description: {
-      de: "Perugia ist die Hauptstadt der Region Umbrien und thront hoch auf einem Hügel. Sie ist eine lebendige Universitätsstadt mit einer reichen etruskischen und mittelalterlichen Vergangenheit. Die Stadt ist weltbekannt für Schokolade und das Umbria Jazz Festival.",
-      hu: "Perugia Umbria régió fővárosa, amely magasan egy hegytetőn magasodik. Élénk egyetemváros gazdag etruszk és középkori múlttal. A város világszerte ismert a csokoládéról és az Umbria Jazz Fesztiválról.",
-      ro: "Perugia este capitala regiunii Umbria și se află la înălțime pe un deal. Este un oraș universitar vibrant, cu un bogat trecut etrusc și medieval. Orașul este cunoscut în întreaga lume pentru ciocolată și pentru Festivalul de Jazz Umbria.",
-      en: "Perugia is the capital of the Umbria region and sits high on a hill. It is a vibrant university city with a rich Etruscan and medieval past. The city is world-famous for chocolate and the Umbria Jazz Festival."
+      en: "Perugia is the vibrant capital city of the Umbria region, dramatically perched on a high hilltop in central Italy. It is a major Etruscan city with a history that spans over two millennia, reflected in its medieval palaces and ancient walls. The city is internationally renowned for hosting the annual Umbria Jazz Festival, one of the most important jazz events in the world. Perugia is also deeply associated with chocolate production, particularly the famous 'Baci' chocolates. Home to a large university and a prominent university for foreigners, it boasts a lively, youthful atmosphere.",
+      de: "Perugia ist die lebendige Hauptstadt der Region Umbrien, dramatisch auf einer hohen Hügelkuppe in Mittelitalien gelegen. Es ist eine bedeutende etruskische Stadt mit einer über zweitausendjährigen Geschichte, die sich in ihren mittelalterlichen Palästen und antiken Mauern widerspiegelt. Die Stadt ist international bekannt als Austragungsort des jährlichen Umbria Jazz Festivals, einem der wichtigsten Jazz-Events der Welt. Perugia ist auch eng mit der Schokoladenproduktion verbunden, insbesondere mit den berühmten 'Baci'-Pralinen. Als Sitz einer großen Universität und einer renommierten Ausländeruniversität herrscht hier eine lebhafte, jugendliche Atmosphäre.",
+      hu: "Perugia az umbriai régió nyüzsgő fővárosa, amely egy magas dombtetőn helyezkedik el Közép-Olaszországban. Ez egy jelentős etruszk város, amely több mint két évezredes múlttal rendelkezik, ami középkori palotáiban és ősi falaiban is tükröződik. A város nemzetközileg ismert arról, hogy itt rendezik meg az éves Umbria Jazz Fesztivált, a világ egyik legfontosabb jazz eseményét. Perugia szorosan kapcsolódik a csokoládégyártáshoz is, különösen a híres 'Baci' csokoládékhoz. Mivel egy nagy egyetemnek és egy neves külföldiek számára fenntartott egyetemnek ad otthont, élénk, fiatalos légkörrel büszkélkedhet.",
+      ro: "Perugia este capitala vibrantă a regiunii Umbria, cocoțată spectaculos pe un vârf de deal înalt în centrul Italiei. Este un important oraș etrusc cu o istorie care se întinde pe parcursul a peste două milenii, reflectată în palatele sale medievale și zidurile antice. Orașul este renumit pe plan internațional pentru găzduirea anuală a Festivalului de Jazz din Umbria, unul dintre cele mai importante evenimente de jazz din lume. Perugia este, de asemenea, profund asociată cu producția de ciocolată, în special faimoasele bomboane 'Baci'. Găzduind o mare universitate și o universitate proeminentă pentru străini, orașul se mândrește cu o atmosferă plină de viață și tinerețe."
     },
     facts: {
-      de: ["Gegründet von den Etruskern.", "Berühmt für die Schokoladenmarke 'Baci Perugina'.", "Veranstaltet das jährlich stattfindende 'Eurochocolate'-Festival.", "Gastgeber des weltbekannten 'Umbria Jazz' Festivals.", "Besitzt eines der ältesten Universitäten Italiens (1308).", "Die Rocca Paolina ist eine faszinierende unterirdische Festung."],
-      hu: ["Az etruszkok alapították.", "A 'Baci Perugina' csokoládémárkáról híres.", "Itt rendezik meg évente az 'Eurochocolate' fesztivált.", "A világhírű 'Umbria Jazz' fesztivál házigazdája.", "Olaszország egyik legrégebbi egyetemével rendelkezik (1308).", "A Rocca Paolina egy lenyűgöző földalatti erődítmény."],
-      ro: ["Fondat de etrusci.", "Faimos pentru brandul de ciocolată 'Baci Perugina'.", "Găzduiește festivalul anual 'Eurochocolate'.", "Gazda festivalului mondial 'Umbria Jazz'.", "Deține una dintre cele mai vechi universități din Italia (1308).", "Rocca Paolina este o fortăreață subterană fascinantă."],
-      en: ["Founded by the Etruscans.", "Famous for the 'Baci Perugina' chocolate brand.", "Hosts the annual 'Eurochocolate' festival.", "Host of the world-famous 'Umbria Jazz' festival.", "Has one of the oldest universities in Italy (1308).", "The Rocca Paolina is a fascinating underground fortress."]
+      en: ["Perugia is an ancient settlement that originally belonged to the Etruscan League.","The city is famous for its Eurochocolate festival held every October.","It features a unique underground city, the Rocca Paolina, a Renaissance fortress.","The Fontana Maggiore is a monumental medieval fountain located in the main square.","Perugia's historic center is largely pedestrianized and connected by a series of escalators.","The city is home to the National Gallery of Umbria, featuring significant Renaissance art.","Perugino, the famous Renaissance painter and teacher of Raphael, worked extensively here.","The University of Perugia, founded in 1308, is one of the oldest universities in Italy."],
+      de: ["Perugia ist eine alte Siedlung, die ursprünglich zum Etruskischen Bund gehörte.","Die Stadt ist berühmt für ihr Eurochocolate-Festival, das jeden Oktober stattfindet.","Sie verfügt über eine einzigartige unterirdische Stadt, die Rocca Paolina, eine Renaissance-Festung.","Die Fontana Maggiore ist ein monumentaler mittelalterlicher Brunnen auf dem Hauptplatz.","Das historische Zentrum von Perugia ist weitgehend Fußgängerzone und durch eine Reihe von Rolltreppen verbunden.","Die Stadt beherbergt die Nationalgalerie von Umbrien mit bedeutender Renaissance-Kunst.","Perugino, der berühmte Renaissance-Maler und Lehrer von Raffael, arbeitete hier intensiv.","Die 1308 gegründete Universität von Perugia ist eine der ältesten Universitäten Italiens."],
+      hu: ["Perugia egy ősi település, amely eredetileg az Etruszk Szövetséghez tartozott.","A város híres az Eurochocolate fesztiválról, amelyet minden októberben tartanak.","Egyedülálló földalatti várossal rendelkezik, a Rocca Paolinával, amely egy reneszánsz erődítmény.","A Fontana Maggiore egy monumentális középkori szökőkút a főtéren.","Perugia történelmi központja nagyrészt gyalogos övezet, amelyet mozgólépcsők sora köt össze.","A város ad otthont az Umbriai Nemzeti Galériának, amely jelentős reneszánsz művészeti alkotásokat mutat be.","Perugino, a híres reneszánsz festő és Raffaello tanára sokat dolgozott itt.","Az 1308-ban alapított Perugiai Egyetem az egyik legrégebbi egyetem Olaszországban."],
+      ro: ["Perugia este o așezare antică care a aparținut inițial Ligii Etrusce.","Orașul este faimos pentru festivalul său Eurochocolate, desfășurat în fiecare octombrie.","Prezintă un oraș subteran unic, Rocca Paolina, o fortăreață renascentistă.","Fontana Maggiore este o fântână monumentală medievală situată în piața principală.","Centrul istoric al Perugiei este în mare parte pietonal și conectat printr-o serie de scări rulante.","Orașul găzduiește Galeria Națională a Umbriei, prezentând artă renascentistă semnificativă.","Perugino, celebrul pictor renascentist și profesor al lui Rafael, a lucrat intens aici.","Universitatea din Perugia, fondată în 1308, este una dintre cele mai vechi universități din Italia."]
     },
     image: "/geo-images/italy/it-perugia.webp"
   },
@@ -792,16 +1818,16 @@ export const italyCities: POI[] = [
     coords: [12.202, 44.418],
     name: { de: "Ravenna", hu: "Ravenna", ro: "Ravenna", en: "Ravenna" },
     description: {
-      de: "Ravenna, einst die Hauptstadt des Weströmischen Reiches, ist weltberühmt für ihre atemberaubenden byzantinischen Mosaike. Keine andere Stadt in Europa bietet ein vergleichbares Ensemble frühchristlicher Kunst. Die ruhige Atmosphäre lädt zu einer Zeitreise ein.",
-      hu: "Ravenna, a Nyugatrómai Birodalom egykori fővárosa, világhírű lenyűgöző bizánci mozaikjairól. Európa egyetlen más városa sem nyújt hasonlóan gazdag ókeresztény művészeti együttest. Csendes atmoszférája időutazásra hív.",
-      ro: "Ravenna, fosta capitală a Imperiului Roman de Apus, este faimoasă în întreaga lume pentru mozaicurile sale bizantine uluitoare. Niciun alt oraș din Europa nu oferă un ansamblu comparabil de artă creștină timpurie. Atmosfera liniștită invită la o călătorie în timp.",
-      en: "Ravenna, once the capital of the Western Roman Empire, is world-famous for its breathtaking Byzantine mosaics. No other city in Europe offers a comparable ensemble of early Christian art. The quiet atmosphere invites you on a journey through time."
+      en: "Ravenna is a historic city in the Emilia-Romagna region, celebrated worldwide for its extraordinarily well-preserved late Roman and Byzantine mosaics. It uniquely served as the capital of the Western Roman Empire from 402 until its collapse in 476. The city's magnificent early Christian monuments, eight of which are UNESCO World Heritage sites, testify to its immense historical and artistic significance. Though it was once a bustling seaport on the Adriatic, today it is connected to the sea by a canal. Ravenna's tranquil atmosphere, rich history, and dazzling art make it a profound cultural destination.",
+      de: "Ravenna ist eine historische Stadt in der Region Emilia-Romagna, die weltweit für ihre außerordentlich gut erhaltenen spätantiken und byzantinischen Mosaike gefeiert wird. Sie diente von 402 bis zu ihrem Zusammenbruch im Jahr 476 einzigartigerweise als Hauptstadt des Weströmischen Reiches. Die prächtigen frühchristlichen Denkmäler der Stadt, von denen acht zum UNESCO-Weltkulturerbe gehören, zeugen von ihrer immensen historischen und künstlerischen Bedeutung. Obwohl sie einst ein geschäftiger Seehafen an der Adria war, ist sie heute durch einen Kanal mit dem Meer verbunden. Ravennas ruhige Atmosphäre, reiche Geschichte und blendende Kunst machen es zu einem tiefgründigen kulturellen Reiseziel.",
+      hu: "Ravenna egy történelmi város Emilia-Romagna régióban, amelyet világszerte ünnepelnek rendkívül jól megőrzött késő római és bizánci mozaikjai miatt. Egyedülálló módon a Nyugatrómai Birodalom fővárosaként szolgált 402-től annak 476-os bukásáig. A város csodálatos ókeresztény műemlékei, amelyek közül nyolc UNESCO világörökségi helyszín, hatalmas történelmi és művészeti jelentőségéről tanúskodnak. Bár egykor nyüzsgő tengeri kikötő volt az Adrián, ma már egy csatorna köti össze a tengerrel. Ravenna nyugodt légköre, gazdag történelme és káprázatos művészete mély kulturális célponttá teszi.",
+      ro: "Ravenna este un oraș istoric din regiunea Emilia-Romagna, celebrat în întreaga lume pentru mozaicurile sale romane și bizantine extrem de bine conservate. A servit în mod unic drept capitală a Imperiului Roman de Apus din 402 până la prăbușirea sa în 476. Magnificele monumente paleocreștine ale orașului, dintre care opt sunt situri ale Patrimoniului Mondial UNESCO, stau mărturie a imensei sale semnificații istorice și artistice. Deși a fost cândva un port maritim plin de viață la Marea Adriatică, astăzi este conectat la mare printr-un canal. Atmosfera liniștită, istoria bogată și arta uluitoare ale Ravennei o fac o destinație culturală profundă."
     },
     facts: {
-      de: ["War im 5. Jahrhundert Hauptstadt des Weströmischen Reiches.", "Weltweit bekannt für ihre byzantinischen Mosaike.", "Acht Bauwerke in Ravenna sind UNESCO-Weltkulturerbe.", "Hier befindet sich das Grab des Dichters Dante Alighieri.", "Die Basilica di San Vitale ist ein Meisterwerk frühchristlicher Kunst.", "Liegt in der Region Emilia-Romagna unweit der Adria."],
-      hu: ["Az 5. században a Nyugatrómai Birodalom fővárosa volt.", "Világszerte ismert bizánci mozaikjairól.", "Ravennában nyolc épület az UNESCO világörökség része.", "Itt található Dante Alighieri költő sírja.", "A Basilica di San Vitale az ókeresztény művészet remekműve.", "Emilia-Romagna régióban, az Adria közelében található."],
-      ro: ["A fost capitala Imperiului Roman de Apus în secolul al V-lea.", "Cunoscută în întreaga lume pentru mozaicurile sale bizantine.", "Opt clădiri din Ravenna sunt în Patrimoniul Mondial UNESCO.", "Mormântul poetului Dante Alighieri se află aici.", "Bazilica San Vitale este o capodoperă a artei creștine timpurii.", "Situată în regiunea Emilia-Romagna, aproape de Marea Adriatică."],
-      en: ["Was the capital of the Western Roman Empire in the 5th century.", "Known worldwide for its Byzantine mosaics.", "Eight buildings in Ravenna are UNESCO World Heritage sites.", "The tomb of the poet Dante Alighieri is located here.", "The Basilica of San Vitale is a masterpiece of early Christian art.", "Located in the Emilia-Romagna region near the Adriatic Sea."]
+      en: ["Ravenna was the capital of the Western Roman Empire during the 5th century.","The city is home to eight UNESCO World Heritage Sites due to its early Christian mosaics.","The poet Dante Alighieri died in Ravenna in 1321, and his tomb is located there.","The Basilica of San Vitale is considered a masterpiece of Byzantine architecture.","Ravenna was ruled by the Ostrogothic King Theodoric the Great in the 6th century.","The Mausoleum of Galla Placidia contains some of the oldest and most beautiful mosaics.","The city is situated slightly inland but remains an important commercial port via a canal.","Lord Byron and Oscar Wilde both spent significant time living in Ravenna."],
+      de: ["Ravenna war im 5. Jahrhundert die Hauptstadt des Weströmischen Reiches.","Die Stadt beherbergt aufgrund ihrer frühchristlichen Mosaike acht UNESCO-Welterbestätten.","Der Dichter Dante Alighieri starb 1321 in Ravenna, und sein Grab befindet sich dort.","Die Basilika San Vitale gilt als Meisterwerk der byzantinischen Architektur.","Ravenna wurde im 6. Jahrhundert vom ostgotischen König Theoderich dem Großen regiert.","Das Mausoleum der Galla Placidia enthält einige der ältesten und schönsten Mosaike.","Die Stadt liegt leicht im Landesinneren, ist aber über einen Kanal weiterhin ein wichtiger Handelshafen.","Lord Byron und Oscar Wilde verbrachten beide viel Zeit in Ravenna."],
+      hu: ["Ravenna az 5. században a Nyugatrómai Birodalom fővárosa volt.","A város nyolc UNESCO világörökségi helyszínnek ad otthont az ókeresztény mozaikjai miatt.","Dante Alighieri költő Ravennában halt meg 1321-ben, és a sírja is itt található.","A San Vitale bazilikát a bizánci építészet remekműveként tartják számon.","Ravennát a 6. században Nagy Theodorik keleti gót király uralta.","A Galla Placidia mauzóleum a legrégebbi és legszebb mozaikok némelyikét rejti.","A város kissé a szárazföld belsejében fekszik, de egy csatornán keresztül továbbra is fontos kereskedelmi kikötő.","Lord Byron és Oscar Wilde egyaránt jelentős időt töltött Ravennában."],
+      ro: ["Ravenna a fost capitala Imperiului Roman de Apus în secolul al V-lea.","Orașul găzduiește opt situri din Patrimoniul Mondial UNESCO datorită mozaicurilor sale paleocreștine.","Poetul Dante Alighieri a murit la Ravenna în 1321, iar mormântul său este situat acolo.","Bazilica San Vitale este considerată o capodoperă a arhitecturii bizantine.","Ravenna a fost condusă de regele ostrogot Teodoric cel Mare în secolul al VI-lea.","Mausoleul Gallei Placidia conține unele dintre cele mai vechi și mai frumoase mozaicuri.","Orașul este situat ușor în interior, dar rămâne un port comercial important printr-un canal.","Lordul Byron și Oscar Wilde au petrecut ambii mult timp trăind în Ravenna."]
     },
     image: "/geo-images/italy/it-ravenna.webp"
   },
@@ -812,16 +1838,16 @@ export const italyCities: POI[] = [
     coords: [13.776, 45.650],
     name: { de: "Triest", hu: "Trieszt", ro: "Trieste", en: "Trieste" },
     description: {
-      de: "Triest ist eine weltoffene Hafenstadt an der Grenze zu Slowenien mit einer ganz eigenen Atmosphäre. Geprägt von der langen Zugehörigkeit zu Österreich-Ungarn, findet man hier Wiener Kaffeehäuser neben römischen Ruinen und neoklassizistischer Architektur.",
-      hu: "Trieszt egy kozmopolita kikötőváros a szlovén határon, egészen sajátos atmoszférával. A hosszú osztrák-magyar fennhatóság miatt bécsi kávéházak találhatók itt a római romok és a neoklasszicista építészet mellett.",
-      ro: "Trieste este un oraș-port cosmopolit la granița cu Slovenia, cu o atmosferă cu totul unică. Influențat de lunga sa apartenență la Austro-Ungaria, aici veți găsi cafenele vieneze alături de ruine romane și arhitectură neoclasică.",
-      en: "Trieste is a cosmopolitan port city on the border with Slovenia with a very unique atmosphere. Influenced by its long affiliation with Austria-Hungary, you will find Viennese coffee houses alongside Roman ruins and neoclassical architecture."
+      en: "Trieste is a captivating seaport city in northeastern Italy, located on a narrow strip of land nestled between the Adriatic Sea and Slovenia. For centuries, it served as the vital principal port of the Austro-Hungarian Empire, an influence still visible in its grand Viennese architecture and vibrant coffeehouse culture. The city uniquely blends Italian, Slavic, and Germanic traditions, creating a deeply cosmopolitan and literary atmosphere. The beautiful Piazza dell'Unità d'Italia is one of the largest sea-facing squares in Europe. Trieste remains a bustling hub of scientific research and maritime commerce.",
+      de: "Triest ist eine faszinierende Hafenstadt im Nordosten Italiens, gelegen auf einem schmalen Landstreifen zwischen der Adria und Slowenien. Jahrhundertelang diente sie als wichtigster Hafen der Österreichisch-Ungarischen Monarchie, ein Einfluss, der in ihrer großartigen Wiener Architektur und der lebendigen Kaffeehauskultur noch immer sichtbar ist. Die Stadt verbindet auf einzigartige Weise italienische, slawische und germanische Traditionen und schafft so eine zutiefst weltoffene und literarische Atmosphäre. Die wunderschöne Piazza dell'Unità d'Italia ist einer der größten zum Meer ausgerichteten Plätze Europas. Triest bleibt ein geschäftiges Zentrum für wissenschaftliche Forschung und Seehandel.",
+      hu: "Trieszt egy lenyűgöző kikötőváros Északkelet-Olaszországban, amely egy keskeny földsávon fekszik az Adriai-tenger és Szlovénia között. Évszázadokon át az Osztrák-Magyar Monarchia létfontosságú fő kikötőjeként szolgált, és ez a hatás ma is látható nagyszerű bécsi építészetében és élénk kávéházi kultúrájában. A város egyedülálló módon ötvözi az olasz, szláv és germán hagyományokat, mélyen kozmopolita és irodalmi légkört teremtve. A gyönyörű Piazza dell'Unità d'Italia az egyik legnagyobb tengerre néző tér Európában. Trieszt továbbra is a tudományos kutatás és a tengeri kereskedelem nyüzsgő központja.",
+      ro: "Trieste este un oraș portuar captivant în nord-estul Italiei, situat pe o fâșie îngustă de pământ, cuibărită între Marea Adriatică și Slovenia. Timp de secole, a servit drept port principal vital al Imperiului Austro-Ungar, o influență încă vizibilă în măreața sa arhitectură vieneză și în cultura vibrantă a cafenelelor. Orașul îmbină în mod unic tradițiile italiene, slave și germanice, creând o atmosferă profund cosmopolită și literară. Frumoasa Piazza dell'Unità d'Italia este una dintre cele mai mari piețe cu deschidere la mare din Europa. Trieste rămâne un centru plin de viață al cercetării științifice și al comerțului maritim."
     },
     facts: {
-      de: ["War lange Zeit der wichtigste Seehafen der Habsburgermonarchie.", "Die Piazza dell'Unità d'Italia öffnet sich majestätisch zum Meer.", "Bekannt als die 'Kaffeehauptstadt' Italiens.", "Das weiße Schloss Miramare liegt malerisch an der Küste.", "Ein Schmelztiegel italienischer, slawischer und germanischer Kulturen.", "War Wohnort von James Joyce und Italo Svevo."],
-      hu: ["Sokáig a Habsburg Birodalom legfontosabb tengeri kikötője volt.", "A Piazza dell'Unità d'Italia fenségesen nyílik a tenger felé.", "Olaszország 'kávéfővárosaként' ismert.", "A fehér Miramare-kastély festőien fekszik a tengerparton.", "Olasz, szláv és germán kultúrák olvasztótégelye.", "James Joyce és Italo Svevo lakóhelye volt."],
-      ro: ["A fost mult timp cel mai important port maritim al Monarhiei Habsburgice.", "Piazza dell'Unità d'Italia se deschide maiestuos spre mare.", "Cunoscută sub numele de 'Capitala Cafelei' a Italiei.", "Castelul alb Miramare este situat pitoresc pe coastă.", "Un creuzet al culturilor italiană, slavă și germanică.", "A fost locul de reședință al lui James Joyce și Italo Svevo."],
-      en: ["Was for a long time the most important seaport of the Habsburg Monarchy.", "Piazza dell'Unità d'Italia opens majestically to the sea.", "Known as the 'Coffee Capital' of Italy.", "The white Miramare Castle is picturesquely situated on the coast.", "A melting pot of Italian, Slavic, and Germanic cultures.", "Was the home of James Joyce and Italo Svevo."]
+      en: ["Trieste was the main seaport of the Habsburg Monarchy from 1382 to 1918.","The writer James Joyce lived in Trieste for over a decade and wrote parts of 'Ulysses' there.","It is considered the coffee capital of Italy, home to the famous Illy brand.","Piazza dell'Unità d'Italia is the largest square in Europe directly facing the sea.","The Miramare Castle, built by Archduke Maximilian of Habsburg, overlooks the Gulf of Trieste.","Following WWII, the city was part of the 'Free Territory of Trieste' before returning to Italy in 1954.","The city is known for the Bora, a strong and cold katabatic wind.","Trieste has one of the highest concentrations of researchers in Europe."],
+      de: ["Triest war von 1382 bis 1918 der wichtigste Seehafen der Habsburgermonarchie.","Der Schriftsteller James Joyce lebte über ein Jahrzehnt in Triest und schrieb dort Teile von 'Ulysses'.","Es gilt als Kaffeehauptstadt Italiens, Heimat der berühmten Marke Illy.","Die Piazza dell'Unità d'Italia ist der größte Platz in Europa, der direkt dem Meer zugewandt ist.","Das von Erzherzog Maximilian von Habsburg erbaute Schloss Miramare überblickt den Golf von Triest.","Nach dem Zweiten Weltkrieg war die Stadt Teil des 'Freien Territoriums Triest', bevor sie 1954 an Italien zurückfiel.","Die Stadt ist bekannt für die Bora, einen starken und kalten Fallwind.","Triest hat eine der höchsten Dichten an Forschern in Europa."],
+      hu: ["Trieszt a Habsburg Monarchia fő tengeri kikötője volt 1382-től 1918-ig.","James Joyce író több mint egy évtizedig élt Triesztben, és itt írta az 'Ulysses' egyes részeit.","Olaszország kávéfővárosának tartják, itt található a híres Illy márka központja.","A Piazza dell'Unità d'Italia a legnagyobb olyan tér Európában, amely közvetlenül a tengerre néz.","A Habsburg Miksa főherceg által építtetett Miramare-kastély a Trieszti-öbölre néz.","A II. világháború után a város a 'Trieszti Szabad Terület' része volt, mielőtt 1954-ben visszatért Olaszországhoz.","A város a Boráról, egy erős és hideg bukószélről ismert.","Triesztben az egyik legmagasabb a kutatók koncentrációja Európában."],
+      ro: ["Trieste a fost principalul port maritim al Monarhiei Habsburgice din 1382 până în 1918.","Scriitorul James Joyce a locuit în Trieste peste un deceniu și a scris părți din 'Ulise' acolo.","Este considerată capitala cafelei din Italia, sediul faimosului brand Illy.","Piazza dell'Unità d'Italia este cea mai mare piață din Europa situată direct la mare.","Castelul Miramare, construit de Arhiducele Maximilian de Habsburg, are vedere la Golful Trieste.","După al Doilea Război Mondial, orașul a făcut parte din 'Teritoriul Liber Trieste' înainte de a reveni Italiei în 1954.","Orașul este cunoscut pentru Bora, un vânt catabatic puternic și rece.","Trieste are una dintre cele mai mari concentrații de cercetători din Europa."]
     },
     image: "/geo-images/italy/it-trieste.webp"
   },
@@ -832,16 +1858,16 @@ export const italyCities: POI[] = [
     coords: [11.878, 45.408],
     name: { de: "Padua", hu: "Padova", ro: "Padova", en: "Padova" },
     description: {
-      de: "Padua ist eine der ältesten Städte Norditaliens und eine bedeutende Universitätsstadt. Sie beherbergt die Basilika des Heiligen Antonius, ein wichtiges Pilgerziel, und Giottos Meisterwerke in der Scrovegni-Kapelle. Die eleganten Plätze verleihen ihr viel Charme.",
-      hu: "Padova Észak-Olaszország egyik legrégebbi városa és fontos egyetemváros. Itt található Páduai Szent Antal bazilikája, amely jelentős zarándokhely, valamint Giotto remekművei a Scrovegni-kápolnában. Elegáns terei nagy bájt kölcsönöznek neki.",
-      ro: "Padova este unul dintre cele mai vechi orașe din nordul Italiei și un important oraș universitar. Găzduiește Bazilica Sfântului Anton, o importantă destinație de pelerinaj, și capodoperele lui Giotto din Capela Scrovegni. Piețele sale elegante îi conferă mult farmec.",
-      en: "Padova is one of the oldest cities in northern Italy and a major university city. It is home to the Basilica of Saint Anthony, an important pilgrimage destination, and Giotto's masterpieces in the Scrovegni Chapel. Its elegant squares give it a lot of charm."
+      en: "Padua is an elegant and ancient city in the Veneto region, famous for its prestigious university and extraordinary art heritage. According to legend, it is the oldest city in northern Italy, founded by the Trojan prince Antenor. Padua is most celebrated for the Scrovegni Chapel, which houses a priceless cycle of frescoes by Giotto that revolutionized Western art. The sprawling Prato della Valle is one of the largest public squares in Europe, surrounded by a picturesque canal and statues. The city's lively academic environment and rich history make it a dynamic cultural hub.",
+      de: "Padua ist eine elegante und alte Stadt in der Region Venetien, berühmt für ihre prestigeträchtige Universität und ihr außergewöhnliches Kunsterbe. Der Legende nach ist sie die älteste Stadt Norditaliens, gegründet vom trojanischen Prinzen Antenor. Padua ist vor allem für die Scrovegni-Kapelle bekannt, die einen unschätzbaren Freskenzyklus von Giotto beherbergt, der die westliche Kunst revolutionierte. Der weitläufige Prato della Valle ist einer der größten öffentlichen Plätze in Europa, umgeben von einem malerischen Kanal und Statuen. Das lebhafte akademische Umfeld und die reiche Geschichte machen die Stadt zu einem dynamischen kulturellen Zentrum.",
+      hu: "Padova egy elegáns és ősi város Veneto régióban, amely híres tekintélyes egyeteméről és rendkívüli művészeti örökségéről. A legenda szerint ez Észak-Olaszország legrégebbi városa, amelyet Anténór trójai herceg alapított. Padovát leginkább a Scrovegni-kápolna teszi híressé, amely Giotto felbecsülhetetlen értékű freskóciklusának ad otthont, amely forradalmasította a nyugati művészetet. A kiterjedt Prato della Valle Európa egyik legnagyobb köztéri tere, amelyet egy festői csatorna és szobrok vesznek körül. A város élénk tudományos környezete és gazdag történelme dinamikus kulturális központtá teszi.",
+      ro: "Padova este un oraș elegant și antic din regiunea Veneto, faimos pentru universitatea sa prestigioasă și patrimoniul artistic extraordinar. Conform legendei, este cel mai vechi oraș din nordul Italiei, fondat de prințul troian Antenor. Padova este cel mai mult celebrată pentru Capela Scrovegni, care găzduiește un ciclu neprețuit de fresce realizate de Giotto, care a revoluționat arta occidentală. Vastul Prato della Valle este una dintre cele mai mari piețe publice din Europa, înconjurată de un canal pitoresc și statui. Mediul academic plin de viață și istoria bogată a orașului îl fac un centru cultural dinamic."
     },
     facts: {
-      de: ["Heimat der Universität Padua (gegründet 1222), wo Galileo lehrte.", "Die Scrovegni-Kapelle enthält weltberühmte Fresken von Giotto.", "Pilgerstätte für den Heiligen Antonius von Padua.", "Prato della Valle ist einer der größten Plätze Europas.", "Besitzt den ältesten botanischen Garten der Welt (UNESCO).", "Wichtiger Wirtschaftsstandort in der Region Venetien."],
-      hu: ["A Padovai Egyetem (alapítva 1222) otthona, ahol Galileo tanított.", "A Scrovegni-kápolna Giotto világhírű freskóit őrzi.", "Páduai Szent Antal zarándokhelye.", "A Prato della Valle Európa egyik legnagyobb tere.", "Itt található a világ legrégebbi botanikus kertje (UNESCO).", "Fontos gazdasági központ Veneto régióban."],
-      ro: ["Găzduiește Universitatea din Padova (fondată 1222), unde a predat Galileo.", "Capela Scrovegni conține fresce faimoase ale lui Giotto.", "Loc de pelerinaj pentru Sfântul Anton de Padova.", "Prato della Valle este una dintre cele mai mari piețe din Europa.", "Deține cea mai veche grădină botanică din lume (UNESCO).", "Locație economică importantă în regiunea Veneto."],
-      en: ["Home to the University of Padua (founded 1222), where Galileo taught.", "The Scrovegni Chapel contains world-famous frescoes by Giotto.", "Pilgrimage site for Saint Anthony of Padua.", "Prato della Valle is one of the largest squares in Europe.", "Has the oldest botanical garden in the world (UNESCO).", "Important economic center in the Veneto region."]
+      en: ["The University of Padua, founded in 1222, is one of the oldest in the world.","Galileo Galilei taught mathematics at the university for 18 years.","The Scrovegni Chapel contains frescoes by Giotto, a masterpiece of the early Renaissance.","Prato della Valle is the largest square in Italy and one of the largest in Europe.","St. Anthony of Padua, a highly venerated Catholic saint, is buried in the city's basilica.","The Botanical Garden of Padua, created in 1545, is the world's oldest academic botanical garden.","Padua is considered the oldest city in northern Italy, dating back to 1183 BC by legend.","William Shakespeare's play 'The Taming of the Shrew' is set in Padua."],
+      de: ["Die Universität Padua, gegründet 1222, ist eine der ältesten der Welt.","Galileo Galilei lehrte 18 Jahre lang Mathematik an der Universität.","Die Scrovegni-Kapelle enthält Fresken von Giotto, ein Meisterwerk der Frührenaissance.","Prato della Valle ist der größte Platz in Italien und einer der größten in Europa.","Der heilige Antonius von Padua, ein hoch verehrter katholischer Heiliger, ist in der Basilika der Stadt begraben.","Der Botanische Garten von Padua, der 1545 angelegt wurde, ist der älteste akademische botanische Garten der Welt.","Padua gilt als älteste Stadt Norditaliens, die der Legende nach auf 1183 v. Chr. zurückgeht.","William Shakespeares Stück 'Der Widerspenstigen Zähmung' spielt in Padua."],
+      hu: ["Az 1222-ben alapított Padovai Egyetem az egyik legrégebbi a világon.","Galileo Galilei 18 évig tanított matematikát az egyetemen.","A Scrovegni-kápolnában Giotto freskói találhatók, amelyek a kora reneszánsz remekművei.","A Prato della Valle a legnagyobb tér Olaszországban és az egyik legnagyobb Európában.","Páduai Szent Antal, a nagy tiszteletnek örvendő katolikus szent a város bazilikájában nyugszik.","A padovai botanikus kertet 1545-ben hozták létre, és ez a világ legrégebbi tudományos botanikus kertje.","Padovát Észak-Olaszország legrégebbi városának tartják, a legenda szerint i.e. 1183-ból származik.","William Shakespeare 'A makrancos hölgy' című darabja Padovában játszódik."],
+      ro: ["Universitatea din Padova, fondată în 1222, este una dintre cele mai vechi din lume.","Galileo Galilei a predat matematică la universitate timp de 18 ani.","Capela Scrovegni conține fresce de Giotto, o capodoperă a Renașterii timpurii.","Prato della Valle este cea mai mare piață din Italia și una dintre cele mai mari din Europa.","Sfântul Anton de Padova, un sfânt catolic foarte venerat, este înmormântat în bazilica orașului.","Grădina Botanică din Padova, creată în 1545, este cea mai veche grădină botanică academică din lume.","Padova este considerată cel mai vechi oraș din nordul Italiei, datând din 1183 î.Hr. conform legendei.","Piesa lui William Shakespeare, 'Îmblânzirea scorpiei', se desfășoară la Padova."]
     },
     image: "/geo-images/italy/it-padova.webp"
   },
@@ -852,16 +1878,16 @@ export const italyCities: POI[] = [
     coords: [10.023, 45.133],
     name: { de: "Cremona", hu: "Cremona", ro: "Cremona", en: "Cremona" },
     description: {
-      de: "Cremona in der Lombardei ist untrennbar mit der Kunst des Geigenbaus verbunden. Hier wirkten Meister wie Stradivari und Guarneri. Die wunderschöne Piazza del Comune mit dem Dom und dem Torrazzo bildet das elegante Zentrum der Musikstadt.",
-      hu: "A lombardiai Cremona elválaszthatatlanul összefonódik a hegedűkészítés művészetével. Itt dolgoztak olyan mesterek, mint Stradivari és Guarneri. A gyönyörű Piazza del Comune a dómmal és a Torrazzóval a zenei város elegáns központját alkotja.",
-      ro: "Cremona din Lombardia este indisolubil legată de arta construcției viorilor. Maeștri precum Stradivari și Guarneri au lucrat aici. Frumoasa Piazza del Comune, cu Domul și Torrazzo, formează centrul elegant al orașului muzical.",
-      en: "Cremona in Lombardy is inextricably linked to the art of violin making. Masters like Stradivari and Guarneri worked here. The beautiful Piazza del Comune with the Cathedral and the Torrazzo forms the elegant center of the musical city."
+      en: "Cremona is a beautiful city in the Lombardy region, universally celebrated as the historical capital of violin making. Situated along the Po River, the city maintains a well-preserved medieval center characterized by stunning brick architecture. It was the home of master luthiers like Antonio Stradivari, whose instruments remain the standard of perfection to this day. The city's impressive Cathedral square features the Torrazzo, the tallest brick bell tower in Europe, offering breathtaking views. Cremona's musical legacy and traditional sweets, like torrone, attract visitors from across the globe.",
+      de: "Cremona ist eine wunderschöne Stadt in der Region Lombardei, die allgemein als historische Hauptstadt des Geigenbaus gefeiert wird. Am Fluss Po gelegen, bewahrt die Stadt ein gut erhaltenes mittelalterliches Zentrum, das durch atemberaubende Backsteinarchitektur gekennzeichnet ist. Sie war die Heimat von Meister-Gitarrenbauern wie Antonio Stradivari, deren Instrumente bis heute der Inbegriff der Perfektion sind. Der beeindruckende Domplatz der Stadt beherbergt den Torrazzo, den höchsten Backsteinglockenturm Europas, der atemberaubende Ausblicke bietet. Cremonas musikalisches Erbe und traditionelle Süßigkeiten wie Torrone ziehen Besucher aus aller Welt an.",
+      hu: "Cremona egy gyönyörű város a Lombardia régióban, amelyet egyetemesen a hegedűkészítés történelmi fővárosaként ünnepelnek. A Pó folyó mentén fekvő város egy jól megőrzött középkori központot őriz, amelyet lenyűgöző téglaépítészet jellemez. Olyan mester lantosok otthona volt, mint Antonio Stradivari, akinek hangszerei mind a mai napig a tökéletesség mércéi. A város lenyűgöző dómterén található a Torrazzo, Európa legmagasabb tégla harangtornya, amely lélegzetelállító kilátást nyújt. Cremona zenei öröksége és olyan hagyományos édességei, mint a torrone, a világ minden tájáról vonzzák a látogatókat.",
+      ro: "Cremona este un oraș frumos din regiunea Lombardia, celebrat la nivel universal ca fiind capitala istorică a confecționării viorilor. Situat de-a lungul râului Po, orașul își păstrează un centru medieval bine conservat, caracterizat printr-o uimitoare arhitectură din cărămidă. A fost casa maeștrilor lutieri precum Antonio Stradivari, ale cărui instrumente rămân standardul perfecțiunii până în prezent. Impresionanta piață a Catedralei orașului prezintă Torrazzo, cel mai înalt turn cu clopot din cărămidă din Europa, oferind vederi care îți taie respirația. Moștenirea muzicală a Cremonei și dulciurile tradiționale, precum torrone, atrag vizitatori din întreaga lume."
     },
     facts: {
-      de: ["Weltberühmtes Zentrum des traditionellen Geigenbaus.", "Heimat von Antonio Stradivari und der Familie Amati.", "Der Torrazzo ist der höchste historische Glockenturm Italiens.", "Das Violinmuseum (Museo del Violino) zeigt unschätzbare Instrumente.", "Der Cremoneser Geigenbau ist immaterielles UNESCO-Kulturerbe.", "Bekannt für kulinarische Spezialitäten wie Torrone und Mostarda."],
-      hu: ["A hagyományos hegedűkészítés világhírű központja.", "Antonio Stradivari és az Amati család otthona.", "A Torrazzo Olaszország legmagasabb történelmi harangtornya.", "A Hegedűmúzeum (Museo del Violino) felbecsülhetetlen hangszereket mutat be.", "A cremonai hegedűkészítés szellemi UNESCO kulturális örökség.", "Olyan kulináris specialitásairól ismert, mint a Torrone és a Mostarda."],
-      ro: ["Centru faimos în întreaga lume al construcției tradiționale de viori.", "Casa lui Antonio Stradivari și a familiei Amati.", "Torrazzo este cel mai înalt clopotniță istorică din Italia.", "Muzeul Viorii (Museo del Violino) expune instrumente inestimabile.", "Construcția de viori din Cremona este patrimoniu cultural imaterial UNESCO.", "Cunoscut pentru specialități culinare precum Torrone și Mostarda."],
-      en: ["World-famous center of traditional violin making.", "Home of Antonio Stradivari and the Amati family.", "The Torrazzo is the highest historic bell tower in Italy.", "The Violin Museum (Museo del Violino) displays invaluable instruments.", "Cremonese violin making is an intangible UNESCO cultural heritage.", "Known for culinary specialties like Torrone and Mostarda."]
+      en: ["Cremona is famous worldwide for its long tradition of stringed instrument making.","Antonio Stradivari, the most renowned luthier in history, lived and worked here.","The city's Torrazzo is the highest brick bell tower in Europe, standing at 112 meters.","Cremona has a dedicated Violin Museum featuring masterpieces by Amati, Guarneri, and Stradivari.","The traditional nougat sweet called 'Torrone' originated in Cremona in the 15th century.","Traditional Cremonese violin craft is listed by UNESCO as Intangible Cultural Heritage.","The city was originally established by the Romans in 218 BC as a military outpost.","Claudio Monteverdi, a crucial figure in the transition to Baroque music, was born in Cremona."],
+      de: ["Cremona ist weltweit berühmt für seine lange Tradition im Bau von Saiteninstrumenten.","Antonio Stradivari, der berühmteste Geigenbauer der Geschichte, lebte und arbeitete hier.","Der Torrazzo der Stadt ist mit 112 Metern der höchste Backsteinglockenturm Europas.","Cremona hat ein spezielles Geigenmuseum mit Meisterwerken von Amati, Guarneri und Stradivari.","Die traditionelle Nougatsüßigkeit 'Torrone' stammt aus dem Cremona des 15. Jahrhunderts.","Das traditionelle Geigenbauhandwerk aus Cremona wird von der UNESCO als immaterielles Kulturerbe aufgeführt.","Die Stadt wurde ursprünglich 218 v. Chr. von den Römern als militärischer Außenposten gegründet.","Claudio Monteverdi, eine entscheidende Figur beim Übergang zur Barockmusik, wurde in Cremona geboren."],
+      hu: ["Cremona világszerte híres a vonós hangszerek készítésének hosszú hagyományáról.","Antonio Stradivari, a történelem leghíresebb lantkészítője itt élt és dolgozott.","A város Torrazzója Európa legmagasabb tégla harangtornya, 112 méter magas.","Cremonában működik egy dedikált Hegedűmúzeum, amelyben Amati, Guarneri és Stradivari remekművei találhatók.","A 'Torrone' nevű hagyományos nugátos édesség a 15. századi Cremonából származik.","A hagyományos cremonai hegedűkészítést az UNESCO a szellemi kulturális örökség részeként tartja nyilván.","A várost eredetileg a rómaiak alapították i.e. 218-ban katonai előőrsként.","Claudio Monteverdi, a barokk zenébe való átmenet kulcsfigurája Cremonában született."],
+      ro: ["Cremona este faimoasă în întreaga lume pentru lunga sa tradiție în fabricarea instrumentelor cu coarde.","Antonio Stradivari, cel mai renumit lutier din istorie, a trăit și a lucrat aici.","Torrazzo al orașului este cel mai înalt turn clopotniță din cărămidă din Europa, având 112 metri.","Cremona are un Muzeu al Viorii dedicat, prezentând capodopere de Amati, Guarneri și Stradivari.","Dulciul tradițional de nuga numit 'Torrone' își are originea în Cremona în secolul al XV-lea.","Mesteșugul tradițional al viorilor cremoneze este inclus de UNESCO ca Patrimoniu Cultural Imaterial.","Orașul a fost fondat inițial de romani în anul 218 î.Hr. ca un avanpost militar.","Claudio Monteverdi, o figură crucială în tranziția către muzica barocă, s-a născut la Cremona."]
     },
     image: "/geo-images/italy/it-cremona.webp"
   },
@@ -872,16 +1898,16 @@ export const italyCities: POI[] = [
     coords: [9.114, 39.216],
     name: { de: "Cagliari", hu: "Cagliari", ro: "Cagliari", en: "Cagliari" },
     description: {
-      de: "Cagliari ist die lebendige Hauptstadt Sardiniens, gelegen am idyllischen Golf der Engel. Mit einer langen, von Phöniziern, Römern und Spaniern geprägten Geschichte bietet die Altstadt Castello malerische Gassen und herrliche Ausblicke auf das Mittelmeer.",
-      hu: "Cagliari Szardínia nyüzsgő fővárosa, amely az idilli Angyalok öblében fekszik. A föníciaiak, rómaiak és spanyolok által formált hosszú történelemmel rendelkező Castello óváros festői sikátorokat és csodálatos kilátást nyújt a Földközi-tengerre.",
-      ro: "Cagliari este capitala vibrantă a Sardiniei, situată pe idilicul Golf al Îngerilor. Cu o istorie lungă, modelată de fenicieni, romani și spanioli, orașul vechi Castello oferă străzi pitorești și vederi magnifice la Marea Mediterană.",
-      en: "Cagliari is the vibrant capital of Sardinia, located on the idyllic Gulf of Angels. With a long history shaped by Phoenicians, Romans, and Spaniards, the old town of Castello offers picturesque streets and magnificent views of the Mediterranean Sea."
+      en: "Cagliari is the capital and largest city of Sardinia, located on the island's southern coast. Boasting a rich history that spans over 5,000 years, it was shaped by Phoenician, Carthaginian, Roman, and Spanish influences. The city's historic center, the Castello district, sits fortified on a hilltop offering panoramic views over the Gulf of Angels. Cagliari is also famous for the Molentargius-Saline Regional Park, a wetland where flocks of pink flamingos nest just outside the urban area. The city seamlessly combines archaeological wonders with a relaxed, coastal Mediterranean lifestyle.",
+      de: "Cagliari ist die Hauptstadt und größte Stadt Sardiniens und liegt an der Südküste der Insel. Mit einer über 5.000-jährigen Geschichte wurde sie durch phönizische, karthagische, römische und spanische Einflüsse geprägt. Das historische Zentrum der Stadt, das Viertel Castello, liegt befestigt auf einem Hügel und bietet einen Panoramablick über den Golf der Engel. Cagliari ist auch berühmt für den Regionalpark Molentargius-Saline, ein Feuchtgebiet, in dem Schwärme rosa Flamingos direkt vor den Toren der Stadt nisten. Die Stadt verbindet nahtlos archäologische Wunder mit einem entspannten mediterranen Küstenlebensstil.",
+      hu: "Cagliari Szardínia fővárosa és legnagyobb városa, amely a sziget déli partján található. Több mint 5000 éves gazdag történelemmel büszkélkedhet, amelyet föníciai, karthágói, római és spanyol hatások formáltak. A város történelmi központja, a Castello negyed erődítve helyezkedik el egy dombtetőn, ahonnan panorámás kilátás nyílik az Angyalok öblére. Cagliari híres a Molentargius-Saline Regionális Parkról is, egy vizes élőhelyről, ahol rózsaszín flamingórajok fészkelnek közvetlenül a város határában. A város zökkenőmentesen ötvözi a régészeti csodákat a nyugodt, tengerparti mediterrán életmóddal.",
+      ro: "Cagliari este capitala și cel mai mare oraș al Sardiniei, situat pe coasta de sud a insulei. Mândrindu-se cu o istorie bogată care se întinde pe peste 5.000 de ani, a fost modelat de influențe feniciene, cartagineze, romane și spaniole. Centrul istoric al orașului, cartierul Castello, se află fortificat pe un vârf de deal, oferind vederi panoramice asupra Golfului Îngerilor. Cagliari este faimos și pentru Parcul Regional Molentargius-Saline, o zonă umedă unde stoluri de flamingo roz cuibăresc chiar în afara zonei urbane. Orașul combină perfect minunile arheologice cu un stil de viață mediteranean de coastă, relaxat."
     },
     facts: {
-      de: ["Hauptstadt und größte Stadt der Insel Sardinien.", "Das historische Viertel 'Castello' thront auf einem Hügel.", "Der Strand Poetto erstreckt sich über 8 Kilometer.", "Salzlagunen in Stadtnähe ziehen rosa Flamingos an.", "Besitzt ein gut erhaltenes römisches Amphitheater.", "Wichtiger Hafen für Handel und Tourismus."],
-      hu: ["Szardínia szigetének fővárosa és legnagyobb városa.", "A 'Castello' történelmi negyed egy hegyen magasodik.", "A Poetto strand 8 kilométer hosszan terül el.", "A városközeli sós lagúnák rózsaszín flamingókat vonzanak.", "Jól megőrzött római amfiteátrummal rendelkezik.", "Fontos kereskedelmi és turisztikai kikötő."],
-      ro: ["Capitala și cel mai mare oraș al insulei Sardinia.", "Cartierul istoric 'Castello' este așezat pe un deal.", "Plaja Poetto se întinde pe 8 kilometri.", "Lagunele de sare din apropierea orașului atrag flamingo roz.", "Deține un amfiteatru roman bine conservat.", "Port important pentru comerț și turism."],
-      en: ["Capital and largest city of the island of Sardinia.", "The historic 'Castello' district perches on a hill.", "Poetto beach stretches over 8 kilometers.", "Salt lagoons near the city attract pink flamingos.", "Has a well-preserved Roman amphitheater.", "Important port for trade and tourism."]
+      en: ["Cagliari is the economic and political center of the autonomous region of Sardinia.","The historic Castello district is surrounded by massive walls built by the Pisans.","Just outside the city center, pink flamingos live year-round in the salt pans.","The Roman Amphitheater of Cagliari, carved into rock, once held 10,000 spectators.","It has one of the longest city beaches in Italy, the Poetto beach.","The city was heavily bombed during World War II but meticulously restored.","The National Archaeological Museum houses incredible artifacts of the Nuragic civilization.","Cagliari's port is one of the largest sea ports in the Mediterranean Sea."],
+      de: ["Cagliari ist das wirtschaftliche und politische Zentrum der autonomen Region Sardinien.","Das historische Viertel Castello ist von massiven, von den Pisanern erbauten Mauern umgeben.","Direkt vor den Toren des Stadtzentrums leben ganzjährig rosa Flamingos in den Salinen.","Das in den Fels gehauene römische Amphitheater von Cagliari fasste einst 10.000 Zuschauer.","Sie hat einen der längsten Stadtstrände Italiens, den Poetto-Strand.","Die Stadt wurde während des Zweiten Weltkriegs schwer bombardiert, aber sorgfältig restauriert.","Das Archäologische Nationalmuseum beherbergt unglaubliche Artefakte der Nuraghen-Kultur.","Der Hafen von Cagliari ist einer der größten Seehäfen im Mittelmeer."],
+      hu: ["Cagliari Szardínia autonóm régió gazdasági és politikai központja.","A történelmi Castello negyedet hatalmas, a pisaiak által épített falak veszik körül.","Közvetlenül a városközpont mellett egész évben rózsaszín flamingók élnek a sólepárlókban.","A sziklába vájt cagliari római amfiteátrum egykor 10 000 nézőt fogadott be.","Itt található Olaszország egyik leghosszabb városi strandja, a Poetto strand.","A várost a második világháború alatt hevesen bombázták, de aprólékosan helyreállították.","A Nemzeti Régészeti Múzeum a nurági civilizáció hihetetlen tárgyait őrzi.","Cagliari kikötője a Földközi-tenger egyik legnagyobb tengeri kikötője."],
+      ro: ["Cagliari este centrul economic și politic al regiunii autonome Sardinia.","Cartierul istoric Castello este înconjurat de ziduri masive construite de pisani.","Chiar lângă centrul orașului, păsările flamingo roz trăiesc pe tot parcursul anului în saline.","Amfiteatrul Roman din Cagliari, sculptat în stâncă, a găzduit odată 10.000 de spectatori.","Are una dintre cele mai lungi plaje orășenești din Italia, plaja Poetto.","Orașul a fost puternic bombardat în timpul celui de-al Doilea Război Mondial, dar a fost restaurat meticulos.","Muzeul Național de Arheologie găzduiește artefacte incredibile ale civilizației Nuragice.","Portul din Cagliari este unul dintre cele mai mari porturi maritime din Marea Mediterană."]
     },
     image: "/geo-images/italy/it-cagliari.webp"
   },
@@ -892,16 +1918,16 @@ export const italyCities: POI[] = [
     coords: [15.290, 37.852],
     name: { de: "Taormina", hu: "Taormina", ro: "Taormina", en: "Taormina" },
     description: {
-      de: "Taormina ist einer der glamourösesten Ferienorte Siziliens und thront auf Felsen hoch über dem Meer. Das antike griechisch-römische Theater mit dem Ätna als Kulisse ist weltberühmt. Elegante Boutiquen und historische Plätze prägen das mondäne Stadtbild.",
-      hu: "Taormina Szicília egyik legelbűvölőbb üdülőhelye, amely a tenger felett magasan a sziklákon magasodik. Az ókori görög-római színház az Etnával a háttérben világhírű. Elegáns butikok és történelmi terek jellemzik a divatos városképet.",
-      ro: "Taormina este una dintre cele mai pline de farmec stațiuni din Sicilia și se află pe stânci la mare înălțime deasupra mării. Teatrul antic greco-roman, cu vulcanul Etna ca fundal, este faimos în întreaga lume. Buticuri elegante și piețe istorice caracterizează peisajul urban monden.",
-      en: "Taormina is one of Sicily's most glamorous resorts and is perched on cliffs high above the sea. The ancient Greco-Roman theater with Mount Etna as a backdrop is world-famous. Elegant boutiques and historic squares characterize the chic cityscape."
+      en: "Taormina is a stunningly picturesque hilltop town on the east coast of Sicily, famous for its breathtaking views of the Ionian Sea and Mount Etna. It has been a highly favored tourist destination since the 19th century, attracting artists, writers, and celebrities. Its most famous monument is the Teatro Antico, an ancient Greco-Roman theater that is still used today for concerts and film festivals. The town features charming medieval streets, beautiful gardens, and elegant boutiques. Taormina perfectly captures the magical allure and complex history of Sicily in one compact, cliffside setting.",
+      de: "Taormina ist eine atemberaubend malerische Hügelstadt an der Ostküste Siziliens, berühmt für ihren atemberaubenden Blick auf das Ionische Meer und den Ätna. Seit dem 19. Jahrhundert ist sie ein sehr beliebtes Touristenziel, das Künstler, Schriftsteller und Prominente anzieht. Ihr berühmtestes Denkmal ist das Teatro Antico, ein antikes griechisch-römisches Theater, das noch heute für Konzerte und Filmfestivals genutzt wird. Die Stadt bietet charmante mittelalterliche Gassen, wunderschöne Gärten und elegante Boutiquen. Taormina fängt den magischen Reiz und die komplexe Geschichte Siziliens in einer kompakten Umgebung an den Klippen perfekt ein.",
+      hu: "Taormina egy lenyűgözően festői hegyvidéki kisváros Szicília keleti partján, amely híres a Jón-tengerre és az Etnára nyíló lélegzetelállító kilátásáról. A 19. század óta rendkívül kedvelt turisztikai célpont, amely művészeket, írókat és hírességeket vonz. Leghíresebb műemléke a Teatro Antico, egy ókori görög-római színház, amelyet ma is használnak koncertek és filmfesztiválok megrendezésére. A város hangulatos középkori utcákkal, gyönyörű kertekkel és elegáns butikokkal rendelkezik. Taormina tökéletesen megragadja Szicília varázslatos vonzerejét és összetett történelmét egyetlen kompakt, sziklafalon elhelyezkedő környezetben.",
+      ro: "Taormina este un oraș pitoresc situat pe un deal pe coasta de est a Siciliei, faimos pentru priveliștile sale care îți taie respirația asupra Mării Ionice și Muntelui Etna. A fost o destinație turistică extrem de favorizată încă din secolul al XIX-lea, atrăgând artiști, scriitori și celebrități. Cel mai faimos monument al său este Teatro Antico, un antic teatru greco-roman care este folosit și astăzi pentru concerte și festivaluri de film. Orașul are străzi medievale fermecătoare, grădini frumoase și buticuri elegante. Taormina surprinde perfect alura magică și istoria complexă a Siciliei într-un cadru compact, pe stâncă."
     },
     facts: {
-      de: ["Berühmt für das antike Theater von Taormina (Teatro Antico).", "Bietet spektakuläre Ausblicke auf den Ätna und das Meer.", "Ein beliebtes Reiseziel seit der Grand Tour im 18. Jahrhundert.", "Die kleine Insel Isola Bella liegt direkt vor der Küste.", "Austragungsort des Taormina Film Fests.", "Bekannt für Luxushotels und anspruchsvolle Gastronomie."],
-      hu: ["Híres az ókori színházáról (Teatro Antico).", "Látványos kilátást nyújt az Etnára és a tengerre.", "Népszerű úti cél a 18. századi Grand Tour óta.", "A kis Isola Bella sziget közvetlenül a partnál fekszik.", "A Taormina Film Fesztivál helyszíne.", "Luxusszállodáiról és igényes gasztronómiájáról ismert."],
-      ro: ["Faimos pentru teatrul antic din Taormina (Teatro Antico).", "Oferă vederi spectaculoase asupra vulcanului Etna și a mării.", "O destinație populară de la Marele Tur din secolul al XVIII-lea.", "Mica insulă Isola Bella este situată chiar în largul coastei.", "Locul de desfășurare al Taormina Film Fest.", "Cunoscut pentru hoteluri de lux și gastronomie sofisticată."],
-      en: ["Famous for the ancient theater of Taormina (Teatro Antico).", "Offers spectacular views of Mount Etna and the sea.", "A popular destination since the Grand Tour in the 18th century.", "The small island of Isola Bella is located just off the coast.", "Venue of the Taormina Film Fest.", "Known for luxury hotels and sophisticated gastronomy."]
+      en: ["The Teatro Antico in Taormina is the second largest ancient theater in Sicily.","It offers one of the most iconic panoramic views in Italy, featuring Mount Etna.","Taormina hosts an annual international film festival every summer.","The town sits approximately 250 meters above the beautiful Ionian Sea.","Isola Bella, a tiny picturesque island and nature reserve, lies just below the town.","Famous writers like Goethe, D.H. Lawrence, and Truman Capote spent time here.","It was founded by Greek colonists from Naxos around 400 BC.","The town's main street, Corso Umberto, is lined with medieval buildings and shops."],
+      de: ["Das Teatro Antico in Taormina ist das zweitgrößte antike Theater auf Sizilien.","Es bietet einen der berühmtesten Panoramablicke Italiens mit dem Ätna im Hintergrund.","Taormina veranstaltet jeden Sommer ein jährliches internationales Filmfestival.","Die Stadt liegt etwa 250 Meter über dem wunderschönen Ionischen Meer.","Isola Bella, eine malerische kleine Insel und Naturschutzgebiet, liegt direkt unterhalb der Stadt.","Berühmte Schriftsteller wie Goethe, D.H. Lawrence und Truman Capote verbrachten hier Zeit.","Sie wurde um 400 v. Chr. von griechischen Kolonisten aus Naxos gegründet.","Die Hauptstraße der Stadt, der Corso Umberto, ist von mittelalterlichen Gebäuden und Geschäften gesäumt."],
+      hu: ["A taorminai Teatro Antico a második legnagyobb ókori színház Szicíliában.","Olaszország egyik legikonikusabb panorámáját nyújtja az Etnával a háttérben.","Taormina minden nyáron ad otthont egy éves nemzetközi filmfesztiválnak.","A város körülbelül 250 méterrel a gyönyörű Jón-tenger felett fekszik.","Isola Bella, egy apró festői sziget és természetvédelmi terület közvetlenül a város alatt található.","Olyan híres írók töltöttek itt időt, mint Goethe, D.H. Lawrence és Truman Capote.","Naxoszból származó görög gyarmatosítók alapították i.e. 400 körül.","A város főutcáját, a Corso Umbertót középkori épületek és üzletek szegélyezik."],
+      ro: ["Teatro Antico din Taormina este al doilea cel mai mare teatru antic din Sicilia.","Oferă una dintre cele mai iconice vederi panoramice din Italia, prezentând Muntele Etna.","Taormina găzduiește anual un festival internațional de film în fiecare vară.","Orașul se află la aproximativ 250 de metri deasupra frumoasei Mări Ionice.","Isola Bella, o mică insulă pitorească și rezervație naturală, se află chiar sub oraș.","Scriitori celebri precum Goethe, D.H. Lawrence și Truman Capote au petrecut timp aici.","A fost fondat de coloniștii greci din Naxos în jurul anului 400 î.Hr.","Strada principală a orașului, Corso Umberto, este mărginită de clădiri medievale și magazine."]
     },
     image: "/geo-images/italy/it-taormina.webp"
   },
@@ -912,16 +1938,16 @@ export const italyCities: POI[] = [
     coords: [14.603, 40.634],
     name: { de: "Amalfi", hu: "Amalfi", ro: "Amalfi", en: "Amalfi" },
     description: {
-      de: "Amalfi ist der namensgebende Hauptort der weltberühmten Amalfiküste. Eingebettet zwischen steilen Klippen und dem tiefblauen Meer verzaubert die Stadt mit weißen Häusern und dem prächtigen Dom. Einst war Amalfi eine mächtige Seerepublik.",
-      hu: "Amalfi a világhírű Amalfi-part névadó fővárosa. A meredek sziklák és a mélykék tenger közé ékelt város fehér házaival és a csodálatos dómjával varázsolja el a látogatókat. Amalfi egykor hatalmas tengeri köztársaság volt.",
-      ro: "Amalfi este capitala eponimă a faimoasei Coaste Amalfitane. Cuibărit între stânci abrupte și marea de un albastru intens, orașul încântă prin casele sale albe și Domul magnific. Odinioară, Amalfi a fost o puternică republică maritimă.",
-      en: "Amalfi is the eponymous capital of the world-famous Amalfi Coast. Nestled between steep cliffs and the deep blue sea, the town enchants with its white houses and the magnificent cathedral. Amalfi was once a powerful maritime republic."
+      en: "Amalfi is a historically significant town set in a dramatic ravine on Italy's renowned Amalfi Coast in Campania. During the Middle Ages, it was a powerful maritime republic that rivaled Genoa, Venice, and Pisa for control of the Mediterranean. Today, it is a UNESCO World Heritage site known for its stunning cliffside setting, lemon terraces, and sparkling blue waters. The striking Cathedral of St. Andrew, with its colorful mosaic façade and steep monumental staircase, dominates the main square. Amalfi offers an enchanting mix of seaside charm, rich history, and exquisite Mediterranean flavors.",
+      de: "Amalfi ist eine historisch bedeutende Stadt in einer dramatischen Schlucht an Italiens berühmter Amalfiküste in Kampanien. Im Mittelalter war es eine mächtige Seerepublik, die mit Genua, Venedig und Pisa um die Kontrolle über das Mittelmeer wetteiferte. Heute ist es ein UNESCO-Weltkulturerbe, bekannt für seine atemberaubende Klippenlage, Zitronenterrassen und das glitzernde blaue Wasser. Die markante Kathedrale des Heiligen Andreas dominiert mit ihrer farbenfrohen Mosaikfassade und steilen monumentalen Treppe den Hauptplatz. Amalfi bietet eine bezaubernde Mischung aus maritimem Charme, reicher Geschichte und exquisiten mediterranen Aromen.",
+      hu: "Amalfi egy történelmi jelentőségű város, amely egy drámai szurdokban fekszik Olaszország híres Amalfi-partján, Campania régióban. A középkorban egy hatalmas tengeri köztársaság volt, amely Genovával, Velencével és Pisával versengett a Földközi-tenger feletti uralomért. Ma az UNESCO világörökség része, amely lenyűgöző sziklafalairól, citromteraszairól és csillogó kék vizéről ismert. A lenyűgöző Szent András-katedrális színes mozaik homlokzatával és meredek monumentális lépcsőjével uralja a főteret. Amalfi a tengerparti báj, a gazdag történelem és a kiváló mediterrán ízek varázslatos keverékét kínálja.",
+      ro: "Amalfi este un oraș cu o semnificație istorică importantă, așezat într-o râpă spectaculoasă pe renumita Coastă Amalfi din Italia, în regiunea Campania. În timpul Evului Mediu, a fost o republică maritimă puternică care a rivalizat cu Genova, Veneția și Pisa pentru controlul Mediteranei. Astăzi, este un sit al Patrimoniului Mondial UNESCO, cunoscut pentru așezarea sa uimitoare pe stânci, terasele cu lămâi și apele albastre strălucitoare. Impresionanta Catedrală a Sfântului Andrei, cu fațada sa mozaicată colorată și scara monumentală abruptă, domină piața principală. Amalfi oferă un amestec încântător de farmec litoral, istorie bogată și arome mediteraneene rafinate."
     },
     facts: {
-      de: ["War eine der vier großen Seerepubliken Italiens.", "Namensgeber der malerischen Amalfiküste (UNESCO-Erbe).", "Der Dom von Amalfi (Cattedrale di Sant'Andrea) ist das Wahrzeichen.", "Bekannt für Limoncello und die sfusato amalfitano Zitrone.", "Historisches Zentrum der Papierherstellung (Bambagina).", "Ein sehr beliebtes, oft überlaufenes Touristenziel."],
-      hu: ["Olaszország négy nagy tengeri köztársaságának egyike volt.", "A festői Amalfi-part (UNESCO-örökség) névadója.", "Az amalfi dóm (Cattedrale di Sant'Andrea) a város jelképe.", "Híres a limoncellóról és a sfusato amalfitano citromról.", "A papírgyártás (Bambagina) történelmi központja.", "Nagyon népszerű, gyakran zsúfolt turisztikai célpont."],
-      ro: ["A fost una dintre cele patru mari republici maritime ale Italiei.", "Dă numele pitoreștii Coaste Amalfitane (patrimoniu UNESCO).", "Domul din Amalfi (Cattedrale di Sant'Andrea) este reperul său.", "Cunoscut pentru limoncello și lămâia sfusato amalfitano.", "Centru istoric al producției de hârtie (bambagina).", "O destinație turistică foarte populară, adesea aglomerată."],
-      en: ["Was one of the four major maritime republics of Italy.", "Namesake of the picturesque Amalfi Coast (UNESCO heritage).", "The Amalfi Cathedral (Cattedrale di Sant'Andrea) is its landmark.", "Known for limoncello and the sfusato amalfitano lemon.", "Historic center of paper production (bambagina).", "A very popular, often crowded tourist destination."]
+      en: ["Amalfi was one of the four great Maritime Republics of Italy.","The Cathedral of St. Andrew supposedly contains the relics of the Apostle Andrew.","The town is famous for the production of Limoncello liqueur, made from local lemons.","The Amalfi maritime code (Tavole Amalfitane) influenced maritime law until the 16th century.","Much of the original ancient city slid into the sea during a devastating earthquake in 1343.","The entire Amalfi Coast was designated a UNESCO World Heritage site in 1997.","Handmade paper, called bambagina, is a traditional artisanal craft of the town.","The town's population peaks immensely during the summer due to heavy tourism."],
+      de: ["Amalfi war eine der vier großen Seerepubliken Italiens.","Die Kathedrale St. Andreas soll die Reliquien des Apostels Andreas enthalten.","Die Stadt ist berühmt für die Herstellung des Limoncello-Likörs aus lokalen Zitronen.","Das Seerecht von Amalfi (Tavole Amalfitane) beeinflusste das Seerecht bis ins 16. Jahrhundert.","Ein Großteil der ursprünglichen antiken Stadt rutschte bei einem verheerenden Erdbeben 1343 ins Meer.","Die gesamte Amalfiküste wurde 1997 zum UNESCO-Weltkulturerbe erklärt.","Handgeschöpftes Papier, genannt Bambagina, ist ein traditionelles Handwerk der Stadt.","Die Bevölkerungszahl der Stadt erreicht im Sommer aufgrund des starken Tourismus ihren Höhepunkt."],
+      hu: ["Amalfi Olaszország négy nagy tengeri köztársaságának egyike volt.","A Szent András-katedrális állítólag András apostol ereklyéit őrzi.","A város híres a helyi citromból készült Limoncello likőr gyártásáról.","Az amalfi tengerészeti kódex (Tavole Amalfitane) a 16. századig befolyásolta a tengeri jogot.","Az eredeti ókori város nagy része egy 1343-as pusztító földrengés során a tengerbe csúszott.","Az egész Amalfi-partot 1997-ben az UNESCO világörökség részévé nyilvánították.","A kézzel merített papír, a bambagina a város egyik hagyományos kézműves mestersége.","A város lakossága a nyár folyamán a nagy turizmus miatt hatalmasra duzzad."],
+      ro: ["Amalfi a fost una dintre cele patru mari Republici Maritime ale Italiei.","Catedrala Sfântul Andrei conține, se presupune, moaștele Apostolului Andrei.","Orașul este faimos pentru producția de lichior Limoncello, făcut din lămâi locale.","Codul maritim din Amalfi (Tavole Amalfitane) a influențat dreptul maritim până în secolul al XVI-lea.","O mare parte a orașului antic original a alunecat în mare în timpul unui cutremur devastator în 1343.","Întreaga Coastă Amalfi a fost desemnată sit al Patrimoniului Mondial UNESCO în 1997.","Hârtia manuală, numită bambagina, este un meșteșug artizanal tradițional al orașului.","Populația orașului atinge un vârf imens în timpul verii datorită turismului intens."]
     },
     image: "/geo-images/italy/it-amalfi.webp"
   }
