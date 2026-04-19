@@ -115,9 +115,11 @@ export const STATE_SLUGS: Record<string, Record<Lang, string>> = {
   "zala": { de: "zala", hu: "zala", ro: "zala", en: "zala" },
 };
 
-export const REGION_BY_ID = new Map(regions.map((region) => [region.id, region]));
+export const REGION_BY_ID = new Map(
+  regions.filter((r) => r && r.id).map((region) => [region.id, region])
+);
 
-const poisOnly = pois.filter((poi) => poi.type !== "region" && poi.type !== "country");
+const poisOnly = pois.filter((poi) => poi && poi.type !== "region" && poi.type !== "country");
 const poiIdByLangSlug = new Map<string, string>();
 
 function slugKey(lang: Lang, slug: string) {
