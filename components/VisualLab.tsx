@@ -802,6 +802,20 @@ function SachkundeGameSwitch({
   }
 }
 
+// Helper: LocalizedText {de,en,hu,ro} → user's lang string (recursive deep-clone)
+function localizeDeep(obj: any, lang: string): any {
+  if (obj && typeof obj === 'object' && 'de' in obj && 'en' in obj && 'hu' in obj && 'ro' in obj && typeof obj.de === 'string') {
+    return (obj as any)[lang] || obj.de || '';
+  }
+  if (Array.isArray(obj)) return obj.map(x => localizeDeep(x, lang));
+  if (obj && typeof obj === 'object') {
+    const out: any = {};
+    for (const k of Object.keys(obj)) out[k] = localizeDeep(obj[k], lang);
+    return out;
+  }
+  return obj;
+}
+
 function GeographieGameSwitch({
   gameId, grade, lang, initialPoiId, tSoon,
 }: {
@@ -815,23 +829,23 @@ function GeographieGameSwitch({
   switch (gameId) {
     case "meteor-catch": {
       const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={round as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <MeteorCatchGame round={localizeDeep(round, lang)} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "orbit-sort": {
       const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <OrbitSortGame round={localizeDeep(round, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "signal-runner": {
       const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <SignalRunnerGame round={localizeDeep(round, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "constellation-builder": {
       const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <ConstellationBuilderGame round={localizeDeep(round, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
       const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds as any} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return rounds.length > 0 ? <MemoryRadarGame rounds={localizeDeep(rounds, lang)} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
