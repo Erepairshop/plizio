@@ -1,0 +1,357 @@
+{
+  "class": 2,
+  "theme": "Clic dreapta",
+  "language": "ro",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "Întrebarea 1 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "Întrebarea 2 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "Întrebarea 3 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "Întrebarea 4 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "Întrebarea 5 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "Întrebarea 6 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "Întrebarea 7 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "Întrebarea 8 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "Întrebarea 9 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "Întrebarea 10 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "Întrebarea 11 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "Întrebarea 12 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "Întrebarea 13 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "Întrebarea 14 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "Întrebarea 15 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "Întrebarea 16 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "Întrebarea 17 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "Întrebarea 18 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "Întrebarea 19 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "Întrebarea 20 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "Întrebarea 21 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "Întrebarea 22 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "Întrebarea 23 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "Întrebarea 24 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "Întrebarea 25 despre Clic dreapta?",
+      "options": [
+        "Opțiunea A",
+        "Opțiunea B",
+        "Opțiunea C",
+        "Opțiunea D"
+      ],
+      "correctAnswer": "Opțiunea A"
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "Tastează acest text despre Clic dreapta."
+    }
+  ]
+}

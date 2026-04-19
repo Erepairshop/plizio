@@ -1,0 +1,357 @@
+{
+  "class": 2,
+  "theme": "Learning through play",
+  "language": "en",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "Question 1 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "Question 2 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "Question 3 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "Question 4 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "Question 5 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "Question 6 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "Question 7 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "Question 8 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "Question 9 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "Question 10 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "Question 11 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "Question 12 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "Question 13 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "Question 14 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "Question 15 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "Question 16 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "Question 17 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "Question 18 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "Question 19 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "Question 20 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "Question 21 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "Question 22 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "Question 23 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "Question 24 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "Question 25 about Learning through play?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": "Option A"
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "Type this text about Learning through play."
+    }
+  ]
+}
