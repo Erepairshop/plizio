@@ -78,13 +78,15 @@
 
 - **Cross-language szennyezés javítás** (`5ded3e2980`) — pattern-finish/deutsch + magyar konzervatív javítás (44 sor változás, Pro csak a valódi hibákat fixelte, false positive-ekkel nem foglalkozott)
 
-## TSC állapot (5:30 ellenőrzés)
+## TSC állapot
 
-Éjjeli commit-ok TSC-tisztán. **Preexisting hibák találhatók** (nem érinti az éjjeli munkát):
-- `lib/visualLab/pools/informatikaPool.ts` — ~120 string/LocalizedText type-mismatch (commit `0de7aedb65` óta, nem most)
-- `scripts/check-astromath.ts` — MathIslandConfig/IslandDef type eltérés
+**Teljes repo TSC-tiszta** (0 hiba) 5:45-re.
 
-Reggel javítandó. Build-et blokkolják.
+Preexisting hibák javítva (`5abd285727`):
+- `lib/visualLab/pools/informatikaPool.ts` — string → LocalizedText 4-lang átalakítás
+- `scripts/check-astromath.ts` — type cast fix
+
+**Build most futtatható** reggel deploy-ra.
 
 ## Használt erőforrások
 
