@@ -262,6 +262,146 @@ export const austriaCities: POI[] = [
     image: "/geo-images/austria/grossglockner-high-alpine-road.webp",
     description: { de: "Eine spektakuläre Panoramastraße, die mitten ins Herz des Nationalparks Hohe Tauern führt.", hu: "Látványos panorámaút, amely egyenesen a Hohe Tauern Nemzeti Park szívébe vezet.", ro: "Un drum panoramic spectaculos care duce direct în inima Parcului Național Hohe Tauern.", en: "A spectacular panoramic road leading right into the heart of the Hohe Tauern National Park." },
     facts: { de: ["Höchster befestigter Pass in Österreich.", "Bietet atemberaubende Ausblicke."], hu: ["Ausztria legmagasabb burkolt hágója.", "Lélegzetelállító kilátást nyújt."], ro: ["Cel mai înalt pas pavat din Austria.", "Oferă priveliști uluitoare."], en: ["Highest paved pass in Austria.", "Offers breathtaking views."] }
+  },
+  {
+    id: "AT-Hohensalzburg", type: "landmark", parent: "AT-5", coords: [13.0475, 47.7949],
+    name: { de: "Festung Hohensalzburg", hu: "Hohensalzburg vára", ro: "Cetatea Hohensalzburg", en: "Hohensalzburg Fortress" },
+    image: "/geo-images/austria/hohensalzburg.webp",
+    description: { de: "Eine der größten vollständig erhaltenen Burgen Mitteleuropas, hoch über Salzburg.", hu: "Közép-Európa egyik legnagyobb, teljesen épségben maradt vára Salzburg felett.", ro: "Una dintre cele mai mari cetăți complet conservate din Europa Centrală, deasupra Salzburgului.", en: "One of the largest fully preserved castles in Central Europe, high above Salzburg." },
+    facts: { de: ["Bau begann im Jahr 1077.", "Nie von fremden Truppen eingenommen."], hu: ["Építése 1077-ben kezdődött.", "Soha nem foglalták el idegen csapatok."], ro: ["Construcția a început în 1077.", "Nu a fost niciodată cucerită de trupe străine."], en: ["Construction began in 1077.", "Never captured by foreign troops."] }
+  },
+  {
+    id: "AT-Belvedere", type: "landmark", parent: "AT-9", coords: [16.3808, 48.1915],
+    name: { de: "Schloss Belvedere", hu: "Belvedere kastély", ro: "Palatul Belvedere", en: "Belvedere Palace" },
+    image: "/geo-images/austria/belvedere.webp",
+    description: { de: "Ein barockes Schlossensemble in Wien, das bedeutende Kunstsammlungen beherbergt.", hu: "Barokk kastélyegyüttes Bécsben, amely jelentős művészeti gyűjteményeknek ad otthont.", ro: "Un ansamblu de palate baroce din Viena, care găzduiește colecții importante de artă.", en: "A Baroque palace complex in Vienna, housing important art collections." },
+    facts: { de: ["Beherbergt Klimts berühmtes Gemälde 'Der Kuss'.", "Einst Sommerresidenz von Prinz Eugen von Savoyen."], hu: ["Itt látható Klimt híres 'A csók' című festménye.", "Egykor Savoyai Jenő herceg nyári rezidenciája volt."], ro: ["Găzduiește celebra pictură 'Sărutul' de Klimt.", "Fostă reședință de vară a prințului Eugen de Savoia."], en: ["Houses Klimt's famous painting 'The Kiss'.", "Once the summer residence of Prince Eugene of Savoy."] }
+  },
+  {
+    id: "AT-Hohenwerfen", type: "landmark", parent: "AT-5", coords: [13.1883, 47.4831],
+    name: { de: "Burg Hohenwerfen", hu: "Hohenwerfen vára", ro: "Castelul Hohenwerfen", en: "Hohenwerfen Castle" },
+    image: "/geo-images/austria/hohenwerfen.webp",
+    description: { de: "Eine beeindruckende mittelalterliche Felsenburg im Salzachtal.", hu: "Lenyűgöző középkori sziklavár a Salzach völgyében.", ro: "Un impresionant castel medieval pe stâncă în valea Salzach.", en: "An impressive medieval rock castle in the Salzach valley." },
+    facts: { de: ["Bekannt für die historische Greifvogelstation.", "Diente als Kulisse für viele Filme."], hu: ["Híres a történelmi ragadozómadár-központjáról.", "Számos film forgatási helyszínéül szolgált."], ro: ["Cunoscut pentru centrul istoric de șoimărit.", "A servit drept decor pentru multe filme."], en: ["Known for the historic falconry center.", "Served as a backdrop for many films."] }
+  },
+  {
+    id: "AT-Eggenberg", type: "landmark", parent: "AT-6", coords: [15.3908, 47.0736],
+    name: { de: "Schloss Eggenberg", hu: "Eggenberg-kastély", ro: "Castelul Eggenberg", en: "Eggenberg Palace" },
+    image: "/geo-images/austria/eggenberg.webp",
+    description: { de: "Das bedeutendste Schloss der Steiermark, bekannt für seine astronomische Symbolik.", hu: "Stájerország legjelentősebb kastélya, amely csillagászati szimbolikájáról ismert.", ro: "Cel mai important castel din Stiria, cunoscut pentru simbolistica sa astronomică.", en: "The most significant palace in Styria, known for its astronomical symbolism." },
+    facts: { de: ["Hat 365 Außenfenster (Tage im Jahr).", "UNESCO-Welterbe seit 2010."], hu: ["365 külső ablaka van (az év napjai).", "2010 óta UNESCO világörökség."], ro: ["Are 365 de ferestre exterioare (zilele anului).", "Patrimoniu UNESCO din 2010."], en: ["Has 365 exterior windows (days in a year).", "UNESCO World Heritage site since 2010."] }
+  },
+  {
+    id: "AT-Hochosterwitz", type: "landmark", parent: "AT-2", coords: [14.4522, 46.7567],
+    name: { de: "Burg Hochosterwitz", hu: "Hochosterwitz vára", ro: "Castelul Hochosterwitz", en: "Hochosterwitz Castle" },
+    image: "/geo-images/austria/hochosterwitz.webp",
+    description: { de: "Eine der spektakulärsten Burgen Österreichs, auf einem 160 Meter hohen Dolomitfelsen.", hu: "Ausztria egyik leglátványosabb vára egy 160 méter magas dolomitsziklán.", ro: "Unul dintre cele mai spectaculoase castele din Austria, pe o stâncă de dolomită de 160 de metri.", en: "One of Austria's most spectacular castles, on a 160-meter high dolomite rock." },
+    facts: { de: ["Hat 14 befestigte Burgtore.", "Gilt als Vorbild für Disneys Aschenputtel-Schloss."], hu: ["14 megerősített várkapuja van.", "Úgy tartják, ez volt a Disney Hamupipőke-kastélyának mintája."], ro: ["Are 14 porți fortificate.", "Considerat modelul pentru castelul Cenușăreesei al lui Disney."], en: ["Has 14 fortified castle gates.", "Considered the model for Disney's Cinderella Castle."] }
+  },
+  {
+    id: "AT-Ambras", type: "landmark", parent: "AT-7", coords: [11.4319, 47.2561],
+    name: { de: "Schloss Ambras", hu: "Ambras kastély", ro: "Castelul Ambras", en: "Ambras Castle" },
+    image: "/geo-images/austria/ambras.webp",
+    description: { de: "Ein Renaissanceschloss in Innsbruck mit bedeutenden Kunstsammlungen.", hu: "Reneszánsz kastély Innsbruckban, jelentős művészeti gyűjteményekkel.", ro: "Un castel renascentist în Innsbruck cu colecții de artă importante.", en: "A Renaissance castle in Innsbruck with significant art collections." },
+    facts: { de: ["Beherbergt eine berühmte Wunderkammer.", "Gilt als das älteste Museum der Welt."], hu: ["Híres 'csodakamrával' rendelkezik.", "A világ legrégebbi múzeumaként tartják számon."], ro: ["Găzduiește o faimoasă cameră de curiozități.", "Considerat cel mai vechi muzeu din lume."], en: ["Houses a famous cabinet of curiosities.", "Considered the oldest museum in the world."] }
+  },
+  {
+    id: "AT-Krimml", type: "landmark", parent: "AT-5", coords: [12.1694, 47.2100],
+    name: { de: "Krimmler Wasserfälle", hu: "Krimmli vízesés", ro: "Cascada Krimml", en: "Krimml Waterfalls" },
+    image: "/geo-images/austria/krimml.webp",
+    description: { de: "Mit einer Fallhöhe von 380 Metern die höchsten Wasserfälle Österreichs.", hu: "380 méteres magasságával Ausztria legmagasabb vízesése.", ro: "Cu o înălțime de 380 de metri, cea mai înaltă cascadă din Austria.", en: "With a drop of 380 meters, the highest waterfalls in Austria." },
+    facts: { de: ["Fünftgrößte Wasserfälle der Welt.", "Die Gischt soll heilende Wirkung haben."], hu: ["A világ ötödik legmagasabb vízesése.", "A vízpárának gyógyító hatást tulajdonítanak."], ro: ["A cincea cea mai înaltă cascadă din lume.", "Se spune că vaporii de apă au efecte curative."], en: ["Fifth highest waterfalls in the world.", "The spray is said to have healing properties."] }
+  },
+  {
+    id: "AT-HallstaetterSee", type: "lake", parent: "AT-4", coords: [13.6631, 47.5786],
+    name: { de: "Hallstätter See", hu: "Hallstatti-tó", ro: "Lacul Hallstätter", en: "Lake Hallstatt" },
+    image: "/geo-images/austria/hallstatt-lake.webp",
+    description: { de: "Ein Gebirgssee im Salzkammergut, an dessen Ufer der berühmte Ort Hallstatt liegt.", hu: "Hegyi tó a Salzkammergut régióban, partján a híres Hallstatt városával.", ro: "Un lac montan în Salzkammergut, pe malul căruia se află celebrul oraș Hallstatt.", en: "A mountain lake in the Salzkammergut region, with the famous town of Hallstatt on its shore." },
+    facts: { de: ["Bis zu 125 Meter tief.", "Ein beliebtes Ziel für Taucher."], hu: ["Akár 125 méter mély is lehet.", "A búvárok kedvelt célpontja."], ro: ["Până la 125 de metri adâncime.", "O destinație populară pentru scafandri."], en: ["Up to 125 meters deep.", "A popular destination for divers."] }
+  },
+  {
+    id: "AT-Dachstein", type: "mountain", parent: "AT-6", coords: [13.6108, 47.4675],
+    name: { de: "Dachstein", hu: "Dachstein", ro: "Dachstein", en: "Dachstein" },
+    image: "/geo-images/austria/dachstein.webp",
+    description: { de: "Ein markantes Bergmassiv und beliebtes Ziel für Alpinisten und Skifahrer.", hu: "Jellegzetes hegymasszívum, az alpinisták és síelők kedvelt célpontja.", ro: "Un masiv muntos distinctiv și o destinație populară pentru alpiniști și schiori.", en: "A prominent mountain massif and a popular destination for alpinists and skiers." },
+    facts: { de: ["Besitzt den 'Skywalk', eine Aussichtsplattform mit Glasboden.", "Beherbergt einen Eispalast im Gletscher."], hu: ["Itt található a 'Skywalk' üvegpadlós kilátó.", "A gleccserben egy jégpalota látogatható."], ro: ["Are un 'Skywalk', o platformă de observație cu podea de sticlă.", "Găzduiește un palat de gheață în ghețar."], en: ["Features the 'Skywalk', a glass-bottomed observation deck.", "Houses an ice palace inside the glacier."] }
+  },
+  {
+    id: "AT-HoheTauern", type: "region", parent: "AT", coords: [12.6667, 47.1167],
+    name: { de: "Nationalpark Hohe Tauern", hu: "Hohe Tauern Nemzeti Park", ro: "Parcul Național Hohe Tauern", en: "Hohe Tauern National Park" },
+    image: "/geo-images/austria/hohe-tauern.webp",
+    description: { de: "Das größte Naturschutzgebiet in den Alpen, das sich über drei Bundesländer erstreckt.", hu: "Az Alpok legnagyobb természetvédelmi területe, amely három tartományon ível át.", ro: "Cea mai mare rezervație naturală din Alpi, care se întinde pe trei state.", en: "The largest nature reserve in the Alps, spanning across three states." },
+    facts: { de: ["Beherbergt über 300 Dreitausender.", "Größter Nationalpark Mitteleuropas."], hu: ["Több mint 300 háromezer méter feletti csúcsnak ad otthont.", "Közép-Európa legnagyobb nemzeti parkja."], ro: ["Găzduiește peste 300 de vârfuri de peste 3000 de metri.", "Cel mai mare parc național din Europa Centrală."], en: ["Home to over 300 peaks above 3000 meters.", "Largest national park in Central Europe."] }
+  },
+  {
+    id: "AT-Staatsoper", type: "landmark", parent: "AT-9", coords: [16.3691, 48.2031],
+    name: { de: "Wiener Staatsoper", hu: "Bécsi Állami Operaház", ro: "Opera de Stat din Viena", en: "Vienna State Opera" },
+    image: "/geo-images/austria/state-opera.webp",
+    description: { de: "Eines der bedeutendsten Opernhäuser der Welt, bekannt für seine erstklassigen Aufführungen.", hu: "A világ egyik legjelentősebb operaháza, amely világszínvonalú előadásairól ismert.", ro: "Una dintre cele mai importante opere din lume, cunoscută pentru spectacolele sale de primă clasă.", en: "One of the most important opera houses in the world, known for its world-class performances." },
+    facts: { de: ["Austragungsort des Wiener Opernballs.", "Wurde 1869 mit Mozarts 'Don Giovanni' eröffnet."], hu: ["A Bécsi Operabál helyszíne.", "1869-ben Mozart 'Don Giovanni'-jával nyílt meg."], ro: ["Gazda Balului Operei din Viena.", "Inaugurată în 1869 cu 'Don Giovanni' de Mozart."], en: ["Host of the Vienna Opera Ball.", "Opened in 1869 with Mozart's 'Don Giovanni'."] }
+  },
+  {
+    id: "AT-Albertina", type: "landmark", parent: "AT-9", coords: [16.3683, 48.2047],
+    name: { de: "Albertina", hu: "Albertina", ro: "Albertina", en: "Albertina" },
+    image: "/geo-images/austria/albertina.webp",
+    description: { de: "Ein bedeutendes Kunstmuseum in Wien, das eine der größten grafischen Sammlungen besitzt.", hu: "Jelentős bécsi művészeti múzeum, amely a világ egyik legnagyobb grafikai gyűjteményével rendelkezik.", ro: "Un muzeu de artă important din Viena, care deține una dintre cele mai mari colecții grafice.", en: "A major art museum in Vienna, holding one of the world's largest graphic collections." },
+    facts: { de: ["Umfasst Werke von Dürer bis Picasso.", "Befindet sich in einem ehemaligen habsburgischen Palais."], hu: ["Dürertől Picassóig számos művész alkotásait őrzi.", "Egy egykori Habsburg-palotában található."], ro: ["Include lucrări de la Dürer la Picasso.", "Se află într-un fost palat habsburgic."], en: ["Includes works from Dürer to Picasso.", "Located in a former Habsburg palace."] }
+  },
+  {
+    id: "AT-KHM", type: "landmark", parent: "AT-9", coords: [16.3617, 48.2036],
+    name: { de: "Kunsthistorisches Museum", hu: "Szépművészeti Múzeum", ro: "Muzeul de Istorie a Artei", en: "Kunsthistorisches Museum" },
+    image: "/geo-images/austria/khm.webp",
+    description: { de: "Eines der bedeutendsten Kunstmuseen der Welt, erbaut für die kaiserlichen Sammlungen.", hu: "A világ egyik legjelentősebb művészeti múzeuma, a császári gyűjtemények számára épült.", ro: "Unul dintre cele mai importante muzee de artă din lume, construit pentru colecțiile imperiale.", en: "One of the world's foremost art museums, built to house the imperial collections." },
+    facts: { de: ["Besitzt die weltweit wichtigste Bruegel-Sammlung.", "Gegenstück zum Naturhistorischen Museum."], hu: ["Itt található a világ legfontosabb Bruegel-gyűjteménye.", "A Természettudományi Múzeum párja."], ro: ["Deține cea mai importantă colecție Bruegel din lume.", "Perechea Muzeului de Istorie Naturală."], en: ["Houses the world's most important Bruegel collection.", "Counterpart to the Natural History Museum."] }
+  },
+  {
+    id: "AT-Prater", type: "landmark", parent: "AT-9", coords: [16.3958, 48.2167],
+    name: { de: "Wiener Prater", hu: "Práter", ro: "Prater", en: "Prater" },
+    image: "/geo-images/austria/prater.webp",
+    description: { de: "Ein großer öffentlicher Park in Wien, bekannt für seinen traditionsreichen Vergnügungspark.", hu: "Hatalmas nyilvános park Bécsben, amely nagy múltú vidámparkjáról ismert.", ro: "Un parc public mare în Viena, cunoscut pentru parcul său de distracții tradițional.", en: "A large public park in Vienna, famous for its traditional amusement park." },
+    facts: { de: ["Das Riesenrad ist eines der Wahrzeichen Wiens.", "War einst kaiserliches Jagdrevier."], hu: ["Az Óriáskerék (Riesenrad) Bécs egyik jelképe.", "Egykor császári vadászterület volt."], ro: ["Roata Mare este unul dintre simbolurile Vienei.", "A fost odată un teren de vânătoare imperial."], en: ["The Ferris Wheel (Riesenrad) is a symbol of Vienna.", "Was once an imperial hunting ground."] }
+  },
+  {
+    id: "AT-SchoenbrunnZoo", type: "landmark", parent: "AT-9", coords: [16.3028, 48.1822],
+    name: { de: "Tiergarten Schönbrunn", hu: "Schönbrunni Állatkert", ro: "Grădina Zoologică Schönbrunn", en: "Schönbrunn Zoo" },
+    image: "/geo-images/austria/schoenbrunn-zoo.webp",
+    description: { de: "Der älteste Zoo der Welt, gelegen im Park von Schloss Schönbrunn.", hu: "A világ legrégebbi állatkertje, amely a Schönbrunni kastély parkjában található.", ro: "Cea mai veche grădină zoologică din lume, situată în parcul Palatului Schönbrunn.", en: "The world's oldest zoo, located in the park of Schönbrunn Palace." },
+    facts: { de: ["Mehrfach als bester Zoo Europas ausgezeichnet.", "Beheimatet Große Pandas."], hu: ["Többször választották Európa legjobb állatkertjének.", "Óriáspandák is élnek itt."], ro: ["Premiată de mai multe ori ca cea mai bună grădină zoologică din Europa.", "Găzduiește urși panda giganți."], en: ["Voted Europe's best zoo multiple times.", "Home to giant pandas."] }
+  },
+  {
+    id: "AT-Hundertwasser", type: "landmark", parent: "AT-9", coords: [16.3941, 48.2075],
+    name: { de: "Hundertwasserhaus", hu: "Hundertwasser-ház", ro: "Hundertwasserhaus", en: "Hundertwasser House" },
+    image: "/geo-images/austria/hundertwasser.webp",
+    description: { de: "Ein farbenfrohes Wohnhaus in Wien, entworfen vom Künstler Friedensreich Hundertwasser.", hu: "Színes lakóház Bécsben, amelyet Friedensreich Hundertwasser művész tervezett.", ro: "O casă de locuit colorată din Viena, proiectată de artistul Friedensreich Hundertwasser.", en: "A colorful apartment house in Vienna, designed by artist Friedensreich Hundertwasser." },
+    facts: { de: ["Hat keine geraden Linien.", "Bäume wachsen aus den Fenstern."], hu: ["Nincsenek benne egyenes vonalak.", "Fák nőnek ki az ablakaiból."], ro: ["Nu are linii drepte.", "Copaci cresc din ferestre."], en: ["Has no straight lines.", "Trees grow out of the windows."] }
+  },
+  {
+    id: "AT-Klosterneuburg", type: "landmark", parent: "AT-3", coords: [16.3267, 48.3075],
+    name: { de: "Stift Klosterneuburg", hu: "Klosterneuburgi apátság", ro: "Abația Klosterneuburg", en: "Klosterneuburg Monastery" },
+    image: "/geo-images/austria/klosterneuburg.webp",
+    description: { de: "Ein prächtiges Stift vor den Toren Wiens, bekannt für seine Kunstschätze und Weinbau.", hu: "Pompás apátság Bécs kapujában, amely műkincseiről és borászatáról ismert.", ro: "O magnifică abație la porțile Vienei, cunoscută pentru comorile sale de artă și viticultură.", en: "A magnificent monastery at the gates of Vienna, known for its art treasures and viticulture." },
+    facts: { de: ["Beherbergt den Verduner Altar.", "Besitzt eines der ältesten Weingüter Österreichs."], hu: ["Itt található a Verduni oltár.", "Ausztria egyik legrégebbi borászatával rendelkezik."], ro: ["Găzduiește Altarul de la Verdun.", "Deține una dintre cele mai vechi podgorii din Austria."], en: ["Houses the Verdun Altar.", "Owns one of Austria's oldest wineries."] }
+  },
+  {
+    id: "AT-Achensee", type: "lake", parent: "AT-7", coords: [11.7083, 47.4333],
+    name: { de: "Achensee", hu: "Achensee", ro: "Lacul Achen", en: "Achensee" },
+    image: "/geo-images/austria/achensee.webp",
+    description: { de: "Der größte See Tirols, oft als das 'Tiroler Meer' bezeichnet.", hu: "Tirol legnagyobb tava, amelyet gyakran 'Tiroli tengernek' is neveznek.", ro: "Cel mai mare lac din Tirol, adesea numit 'Marea tiroleză'.", en: "Tyrol's largest lake, often referred to as the 'Tyrolean Sea'." },
+    facts: { de: ["Bekannt für seine hervorragende Wasserqualität.", "Beliebt bei Seglern und Surfern."], hu: ["Kiváló vízminőségéről ismert.", "Vitorlázók és szörfösök kedvelt helye."], ro: ["Cunoscut pentru calitatea excelentă a apei.", "Popular printre navigatori și surferi."], en: ["Known for its excellent water quality.", "Popular with sailors and surfers."] }
+  },
+  {
+    id: "AT-Pyramidenkogel", type: "landmark", parent: "AT-2", coords: [14.1453, 46.6092],
+    name: { de: "Pyramidenkogel", hu: "Pyramidenkogel", ro: "Pyramidenkogel", en: "Pyramidenkogel" },
+    image: "/geo-images/austria/pyramidenkogel.webp",
+    description: { de: "Ein Aussichtsturm in Kärnten mit spektakulärem Blick über den Wörthersee.", hu: "Kilátótorony Karintiában, ahonnan látványos kilátás nyílik a Wörthi-tóra.", ro: "Un turn de observație în Carintia cu o vedere spectaculoasă asupra lacului Wörthersee.", en: "An observation tower in Carinthia with spectacular views over Lake Wörthersee." },
+    facts: { de: ["Höchster Holzaussichtsturm der Welt.", "Besitzt eine 120 Meter lange Tunnelrutsche."], hu: ["A világ legmagasabb fából készült kilátótornya.", "Itt található egy 120 méter hosszú csúszda."], ro: ["Cel mai înalt turn de observație din lemn din lume.", "Are un tobogan tip tunel de 120 de metri lungime."], en: ["World's tallest wooden observation tower.", "Features a 120-meter long tunnel slide."] }
+  },
+  {
+    id: "AT-Arlberg", type: "landmark", parent: "AT-7", coords: [10.2114, 47.1294],
+    name: { de: "Arlberg", hu: "Arlberg", ro: "Arlberg", en: "Arlberg" },
+    image: "/geo-images/austria/arlberg.webp",
+    description: { de: "Ein legendäres Skigebiet und Gebirgspass zwischen Tirol und Vorarlberg.", hu: "Legendás sírégió és hágó Tirol és Vorarlberg között.", ro: "O regiune legendară de schi și pas montan între Tirol și Vorarlberg.", en: "A legendary ski region and mountain pass between Tyrol and Vorarlberg." },
+    facts: { de: ["Gilt als 'Wiege des alpinen Skilaufs'.", "Eines der schneereichsten Gebiete Österreichs."], hu: ["Az 'alpesi sízés bölcsőjeként' emlegetik.", "Ausztria egyik leghavasabb területe."], ro: ["Considerat 'leagănul schiului alpin'.", "Una dintre cele mai înzăpezite zone din Austria."], en: ["Considered the 'cradle of Alpine skiing'.", "One of the snowiest regions in Austria."] }
   }
 ];
 
