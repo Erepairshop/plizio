@@ -1545,9 +1545,8 @@ export const hungaryCities: POI[] = [
     description: {"de": "Die Matthiaskirche im Burgviertel ist eine der prachtvollsten und geschichtsträchtigsten Kirchen des Landes.", "hu": "A budai várnegyedben álló Mátyás-templom az ország egyik legszebb és leggazdagabb múltú temploma.", "ro": "Biserica Mátyás din cartierul cetății este una dintre cele mai splendide și istorice biserici din țară.", "en": "The Matthias Church in the Castle District is one of the most magnificent and historic churches in the country."},
     facts: {"de": ["Diente über Jahrhunderte als Krönungskirche der ungarischen Könige.", "Das farbenfrohe Dach aus Zsolnay-Ziegeln ist ein weithin bekanntes Markenzeichen."], "hu": ["Évszázadokon keresztül a magyar királyok koronázási helyszíneként szolgált.", "A színes Zsolnay-cserepekből álló tetőzete a templom egyik legismertebb védjegye."], "ro": ["A servit timp de secole ca biserică de încoronare a regilor maghiari.", "Acoperișul colorat din țiglă Zsolnay este o emblemă cunoscută peste tot."], "en": ["Served as the coronation church for Hungarian kings for centuries.", "The colorful roof made of Zsolnay tiles is a widely recognized landmark."]},
     },
-    ,
   {
-    id: "balaton-to",
+    id: "balaton-to-second",
     type: "lake",
     parent: "veszprem",
     coords: [17.72, 46.84],
@@ -1588,7 +1587,7 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "baradla-barlang",
-    type: "nature",
+    type: "landmark",
     parent: "borsod-abauj-zemplen",
     coords: [20.49, 48.47],
     name: {"de": "Baradla-Höhle", "hu": "Baradla-barlang", "ro": "Peștera Baradla", "en": "Baradla Cave"},
@@ -1598,7 +1597,7 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "hortobagyi-nemzeti-park",
-    type: "nature",
+    type: "landmark",
     parent: "hajdu-bihar",
     coords: [21.09, 47.58],
     name: {"de": "Nationalpark Hortobágy", "hu": "Hortobágyi Nemzeti Park", "ro": "Parcul Național Hortobágy", "en": "Hortobágy National Park"},
@@ -1608,7 +1607,7 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "bukki-nemzeti-park",
-    type: "nature",
+    type: "landmark",
     parent: "borsod-abauj-zemplen",
     coords: [20.52, 48.05],
     name: {"de": "Nationalpark Bükk", "hu": "Bükki Nemzeti Park", "ro": "Parcul Național Bükk", "en": "Bükk National Park"},
@@ -1638,7 +1637,7 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "szalajka-volgy",
-    type: "nature",
+    type: "landmark",
     parent: "borsod-abauj-zemplen",
     coords: [20.39, 48.10],
     name: {"de": "Szalajka-Tal", "hu": "Szalajka-völgy", "ro": "Valea Szalajka", "en": "Szalajka Valley"},
@@ -1658,7 +1657,7 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "villanyi-borvidek",
-    type: "nature",
+    type: "landmark",
     parent: "baranya",
     coords: [18.45, 45.86],
     name: {"de": "Weinregion Villány", "hu": "Villányi borvidék", "ro": "Regiunea viticolă Villány", "en": "Villány Wine Region"},
@@ -1818,7 +1817,7 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "normafa",
-    type: "nature",
+    type: "landmark",
     parent: "budapest",
     coords: [18.96, 47.50],
     name: {"de": "Normafa", "hu": "Normafa", "ro": "Normafa", "en": "Normafa"},
