@@ -129,3 +129,24 @@ export const INFO_K3_CURRICULUM: KemiaTheme[] = [
     ],
   }
 ];
+
+// ─── Question getter ──────────────────────────────────────────────────────────
+
+export function getInfoK3Questions(subtopicIds: string[], count?: number): KemiaQuestion[] {
+  const pool: KemiaQuestion[] = [];
+  for (const theme of INFO_K3_CURRICULUM) {
+    for (const sub of theme.subtopics) {
+      if (subtopicIds.includes(sub.id)) {
+        pool.push(...sub.questions);
+      }
+    }
+  }
+  if (!count) return pool;
+  // Shuffle
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  return pool.slice(0, count);
+}
+

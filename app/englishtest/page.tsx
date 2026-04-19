@@ -9,6 +9,7 @@ import {
 } from "@/lib/englishCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 import { ENGLISH_VISUAL_TYPES } from "@/lib/englishVisualGenerators";
+import { getRandomEnglishPassage } from "@/lib/englishLesetest";
 
 const EN_CONFIG: LanguageTestEngineConfig = {
   gameId: "englishtest",
@@ -46,6 +47,8 @@ const EN_CONFIG: LanguageTestEngineConfig = {
   visualTypes: ENGLISH_VISUAL_TYPES,
   visualGrades: [1, 2, 3, 4, 5, 6, 7, 8],
 
+  getReadingPassage: getRandomEnglishPassage,
+
   labels: {
     selectCountry: "Select your country",
     selectGrade: "Select your grade level",
@@ -58,6 +61,8 @@ const EN_CONFIG: LanguageTestEngineConfig = {
     questionsShort: "Qs",
     startTest: "START TEST →",
     areas: "areas",
+    readingTest: "📖 Reading Test",
+    readingTestDesc: "Read the text & answer the questions · 3 Qs",
     task: "Question",
     interactiveTask: "Interactive task",
     readAloud: "Read aloud",

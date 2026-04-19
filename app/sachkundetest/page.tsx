@@ -46,6 +46,7 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
   subtopicHints: SACHKUNDE_SUBTOPIC_HINTS,
   visualTypes: SACHKUNDE_VISUAL_TYPES,
   visualGrades: [1, 2, 3, 4],
+  hideLesetest: true,
 
   labels: {
     selectCountry: "Wähle dein Land",
