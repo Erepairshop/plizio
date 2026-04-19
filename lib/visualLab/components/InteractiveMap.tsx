@@ -577,8 +577,10 @@ export const InteractiveMap = ({
                 const [cx, cy] = projectCoords(p.coords[0], p.coords[1]);
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
-                const baseR = isSimplified ? 8 : 5;
+                const baseR = isSimplified ? 10 : 7;
                 const r = (isSel ? baseR + 2 : baseR) / view.scale;
+                // Touch-target: legalább 44px tap-area mobil UX szempontjából
+                const touchR = Math.max(r * 4, 22 / view.scale);
                 const color = poiColor(p.type);
                 const showLabel = (p.type === "state-capital" || p.type === "city" || isSel);
                 const baseFont = isSimplified
@@ -592,7 +594,9 @@ export const InteractiveMap = ({
                     onClick={(e) => { e.stopPropagation(); if (!dragged.current) { setSelectedPoiId(p.id); setSelected(null); } }}
                     style={{ cursor: "pointer" }}
                   >
-                    <circle cx={cx} cy={cy} r={r * 2.2} fill={color} opacity={0.18} />
+                    {/* Láthatatlan click-catcher — nagyobb tap-area mobilon */}
+                    <circle cx={cx} cy={cy} r={touchR} fill="transparent" style={{ pointerEvents: "all" }} />
+                    <circle cx={cx} cy={cy} r={r * 2.2} fill={color} opacity={0.18} style={{ pointerEvents: "none" }} />
                     <circle
                       cx={cx} cy={cy} r={r}
                       fill={color} stroke="#020408" strokeWidth={1.2 / view.scale}
