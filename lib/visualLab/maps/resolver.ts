@@ -18,13 +18,15 @@ import { spainMap, spainViewBox, projectCoordsES } from "./spain.svg";
 import { spainAllPoi } from "../data/spainPoi";
 import { unitedkingdomMap, unitedkingdomViewBox, projectCoordsUK } from "./unitedkingdom.svg";
 import { unitedkingdomAllPoi } from "../data/unitedkingdomPoi";
+import { netherlandsMap, netherlandsViewBox, projectCoordsNL } from "./netherlands.svg";
+import { netherlandsAllPoi } from "../data/netherlandsPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "gb";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "gb" | "nl";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "GB"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "GB" | "NL"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -87,6 +89,15 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: unitedkingdomViewBox,
         projectCoords: projectCoordsUK,
         pois: unitedkingdomAllPoi,
+        subregions: {}, // No specific subregions map for now
+      };
+    case "nl":
+      return {
+        countryId: "NL",
+        map: netherlandsMap as unknown as BundeslandPath[],
+        viewBox: netherlandsViewBox,
+        projectCoords: projectCoordsNL,
+        pois: netherlandsAllPoi,
         subregions: {}, // No specific subregions map for now
       };
     case "de":
