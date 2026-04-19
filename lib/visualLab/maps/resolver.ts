@@ -5,6 +5,7 @@ import { deutschlandMap, deutschlandViewBox, projectCoords as projectCoordsDE, t
 import { romaniaMap, romaniaViewBox, projectCoordsRO } from "./romania.svg";
 import { magyarorszagMap, magyarorszagViewBox, projectCoordsHU } from "./magyarorszag.svg";
 import { franceMap, franceViewBox, projectCoordsFR } from "./france.svg";
+import { italyMap, italyViewBox, projectCoordsIT } from "./italy.svg";
 import { bundeslandSubregions } from "./bundeslandSubregions";
 import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
 import { hungarySubregions } from "./hungarySubregions";
@@ -12,13 +13,14 @@ import { pois as deutschlandPois } from "../data/poi";
 import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
 import { hungaryAllPoi } from "../data/hungaryPoi";
 import { franceAllPoi } from "../data/francePoi";
+import { italyAllPoi } from "../data/italyPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -47,7 +49,6 @@ export function getCountryMap(lang: Lang): CountryMapData {
         subregions: hungarySubregions,
       };
     case "fr":
-    case "en": // Oportunistic mapping of en to FR based on prompt request
       return {
         countryId: "FR",
         map: franceMap as unknown as BundeslandPath[],
@@ -56,7 +57,17 @@ export function getCountryMap(lang: Lang): CountryMapData {
         pois: franceAllPoi,
         subregions: {}, // No specific subregions map for now
       };
+    case "it":
+      return {
+        countryId: "IT",
+        map: italyMap as unknown as BundeslandPath[],
+        viewBox: italyViewBox,
+        projectCoords: projectCoordsIT,
+        pois: italyAllPoi,
+        subregions: [],
+      };
     case "de":
+    case "en":
     default:
       return {
         countryId: "DE",
