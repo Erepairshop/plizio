@@ -8,10 +8,20 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const rootDir = path.join(__dirname, '..');
 
-const targetCountries = [
-    'francePoi.ts', 'italyPoi.ts', 'spainPoi.ts',
-    'unitedkingdomPoi.ts', 'netherlandsPoi.ts', 'polandPoi.ts', 'austriaPoi.ts'
-];
+const countryConfig = {
+    'francePoi.ts': 'france',
+    'italyPoi.ts': 'italy',
+    'spainPoi.ts': 'spain',
+    'unitedkingdomPoi.ts': 'unitedkingdom',
+    'netherlandsPoi.ts': 'netherlands',
+    'polandPoi.ts': 'poland',
+    'austriaPoi.ts': 'austria',
+    'hungaryPoi.ts': 'hungary',
+    'poi.ts': '',
+    'romaniaPoi.ts': 'romania'
+};
+
+const targetCountries = Object.keys(countryConfig);
 
 let sharp;
 try {
@@ -22,6 +32,15 @@ try {
 }
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+function toKebabCase(str) {
+    return str
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+}
 
 async function getWikipediaThumbnail(name) {
     const url = `https://en.wikipedia.org/w/api.php?action=query&format=json&titles=${encodeURIComponent(name)}&prop=pageimages&pithumbsize=800`;
@@ -48,9 +67,13 @@ async function downloadImage(url) {
 }
 
 async function run() {
-    let toProcess = [];
+    let newlyDownloadedCount = 0;
+    let totalProcessed = 0;
+    const MAX_BATCH = 300;
+    const COMMIT_BATCH_SIZE = 50;
+    let uncommittedCount = 0;
+    let toCommitPaths = new Set();
 
-    // Parse files
     for (const filename of targetCountries) {
         const filepath = path.join(rootDir, 'lib', 'visualLab', 'data', filename);
         if (!fs.existsSync(filepath)) {
@@ -58,98 +81,112 @@ async function run() {
             continue;
         }
 
-        const content = fs.readFileSync(filepath, 'utf-8');
+        let content = fs.readFileSync(filepath, 'utf-8');
+        let modified = false;
+        const countryPath = countryConfig[filename];
+
+        const matches = [];
         
-        // Match block that has name.en and image
-        // It's safer to split by '{\n' or similar, but let's try a regex that captures both.
-        // A POI block usually looks like { id: ..., type: ..., name: {"en": "Paris"}, image: "/geo-images/france/paris.webp" }
-        // We'll search for 'name:' and 'image:' within a reasonable distance (e.g. 500 characters)
-        const regex = /name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*\}.*?image:\s*["']([^"']+?)["']/gs;
-        
+        // name followed by image
+        const regex1 = /(name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\}.*?image:\s*["']([^"']*?)["'])/gs;
         let match;
-        while ((match = regex.exec(content)) !== null) {
-            const name = match[1];
-            const imagePath = match[2];
-            
-            // We also need to be careful if image comes before name. Let's do a more robust search.
-            toProcess.push({ name, imagePath });
+        while ((match = regex1.exec(content)) !== null) {
+            matches.push({
+                fullMatch: match[1],
+                name: match[2],
+                imagePath: match[3],
+                index: match.index,
+                type: 1
+            });
         }
-        
-        // Let's also search for image before name just in case
-        const regex2 = /image:\s*["']([^"']+?)["'].*?name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*\}/gs;
+
+        // image followed by name
+        const regex2 = /(image:\s*["']([^"']*?)["'].*?name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\})/gs;
         while ((match = regex2.exec(content)) !== null) {
-            const imagePath = match[1];
-            const name = match[2];
-            if (!toProcess.find(p => p.imagePath === imagePath)) {
-                toProcess.push({ name, imagePath });
+            if (!matches.find(m => m.index === match.index)) {
+                matches.push({
+                    fullMatch: match[1],
+                    name: match[3],
+                    imagePath: match[2],
+                    index: match.index,
+                    type: 2
+                });
             }
         }
-    }
 
-    console.log(`Found ${toProcess.length} POIs with images across the specified files.`);
+        console.log(`Found ${matches.length} POIs in ${filename}`);
 
-    const MAX_BATCH = 150;
-    const COMMIT_BATCH_SIZE = 30;
-    let totalProcessed = 0;
-    let newlyDownloadedCount = 0;
-    let uncommittedCount = 0;
-    let toCommitPaths = new Set();
+        for (const poi of matches) {
+            if (totalProcessed >= MAX_BATCH) break;
 
-    for (const poi of toProcess) {
-        if (totalProcessed >= MAX_BATCH) {
-            console.log(`Reached max batch size of ${MAX_BATCH}. Stopping.`);
-            break;
-        }
+            let currentImagePath = poi.imagePath;
+            let currentName = poi.name;
 
-        const targetAbsPath = path.join(rootDir, 'public', poi.imagePath.replace(/^\//, ''));
-        
-        if (fs.existsSync(targetAbsPath)) {
-            console.log(`[SKIP] Already exists: ${poi.imagePath}`);
-            continue;
-        }
-
-        totalProcessed++; // Only count towards rate limit / max batch if we actually attempt to process
-
-        // 1 POI / 2 sec rate limit, apply it before requesting to space them out
-        await delay(2000);
-
-        console.log(`[INFO] Processing ${poi.name}...`);
-        const thumbUrl = await getWikipediaThumbnail(poi.name);
-        
-        if (!thumbUrl) {
-            console.log(`[SKIP] No Wikipedia thumbnail found for: ${poi.name}`);
-            continue;
-        }
-
-        try {
-            const imgBuffer = await downloadImage(thumbUrl);
-            const targetDir = path.dirname(targetAbsPath);
-            if (!fs.existsSync(targetDir)) {
-                fs.mkdirSync(targetDir, { recursive: true });
+            if (currentImagePath === "") {
+                const kebabName = toKebabCase(currentName);
+                currentImagePath = countryPath 
+                    ? `/geo-images/${countryPath}/${kebabName}.webp`
+                    : `/geo-images/${kebabName}.webp`;
+                
+                const oldBlock = poi.fullMatch;
+                const newBlock = oldBlock.replace(/image:\s*["']["']/, `image: "${currentImagePath}"`);
+                content = content.replace(oldBlock, newBlock);
+                modified = true;
+                console.log(`[UPDATE] Generated path for ${currentName}: ${currentImagePath}`);
             }
 
-            await sharp(imgBuffer)
-                .webp({ quality: 80 })
-                .toFile(targetAbsPath);
-
-            console.log(`[DOWNLOADED] ${poi.name} -> ${poi.imagePath}`);
-            newlyDownloadedCount++;
-            uncommittedCount++;
+            const targetAbsPath = path.join(rootDir, 'public', currentImagePath.replace(/^\//, ''));
             
-            // Keep track of parent directories to commit
-            const dirParts = poi.imagePath.split('/').filter(Boolean);
-            if (dirParts.length >= 2 && dirParts[0] === 'geo-images') {
-                 toCommitPaths.add(`public/geo-images/${dirParts[1]}/`);
+            if (fs.existsSync(targetAbsPath)) {
+                continue;
             }
 
-            if (uncommittedCount >= COMMIT_BATCH_SIZE) {
-                commitBatch(toCommitPaths);
-                uncommittedCount = 0;
-                toCommitPaths.clear();
+            totalProcessed++;
+            await delay(2000);
+
+            console.log(`[INFO] Processing ${currentName}...`);
+            const thumbUrl = await getWikipediaThumbnail(currentName);
+            
+            if (!thumbUrl) {
+                console.log(`[SKIP] No Wikipedia thumbnail found for: ${currentName}`);
+                continue;
             }
 
-        } catch (err) {
-            console.error(`[FAILED] Failed to process ${poi.name}: ${err.message}`);
+            try {
+                const imgBuffer = await downloadImage(thumbUrl);
+                const targetDir = path.dirname(targetAbsPath);
+                if (!fs.existsSync(targetDir)) {
+                    fs.mkdirSync(targetDir, { recursive: true });
+                }
+
+                await sharp(imgBuffer)
+                    .webp({ quality: 80 })
+                    .toFile(targetAbsPath);
+
+                console.log(`[DOWNLOADED] ${currentName} -> ${currentImagePath}`);
+                newlyDownloadedCount++;
+                uncommittedCount++;
+                
+                const dirParts = currentImagePath.split('/').filter(Boolean);
+                if (dirParts.length >= 2 && dirParts[0] === 'geo-images') {
+                     toCommitPaths.add(`public/geo-images/${dirParts[1]}/`);
+                }
+
+                if (uncommittedCount >= COMMIT_BATCH_SIZE) {
+                    commitBatch(toCommitPaths);
+                    uncommittedCount = 0;
+                    toCommitPaths.clear();
+                }
+
+            } catch (err) {
+                console.error(`[FAILED] Failed to process ${currentName}: ${err.message}`);
+            }
+        }
+
+        if (modified) {
+            fs.writeFileSync(filepath, content, 'utf-8');
+            console.log(`[SAVED] Updated ${filename} with new image paths.`);
+            execSync(`git add ${filepath}`, { cwd: rootDir });
         }
     }
 
@@ -166,7 +203,7 @@ function commitBatch(pathsSet) {
     console.log(`\n[GIT] Committing batch for paths: ${paths}`);
     try {
         execSync(`git add ${paths} scripts/download_poi_images.mjs`, { cwd: rootDir, stdio: 'inherit' });
-        execSync(`git commit -m "POI kepek letoltes + WebP konvert: FR/IT/ES/UK/NL/PL/AT Wikipedia API thumbnail 800px (batch)"`, { cwd: rootDir, stdio: 'inherit' });
+        execSync(`git commit -m "HU/DE/RO POI kepek letoltes: Wikipedia API thumbnail WebP (Flash kiterjesztett script)"`, { cwd: rootDir, stdio: 'inherit' });
         console.log(`[GIT] Commit successful.\n`);
     } catch (err) {
         console.error(`[GIT ERROR] Failed to commit: ${err.message}`);
