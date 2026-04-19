@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { ChevronLeft, Map } from "lucide-react";
+import { ChevronLeft, Map, Code2 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import SubjectPicker from "@/components/SubjectPicker";
 
@@ -34,6 +34,13 @@ const GLOBE_LABEL: Record<Lang, string> = {
   hu: "3D Glóbusz",
   ro: "Glob 3D",
   en: "3D Globe",
+};
+
+const CODEKIDS_LABEL: Record<Lang, string> = {
+  de: "Code Kids",
+  hu: "Code Kids",
+  ro: "Code Kids",
+  en: "Code Kids",
 };
 
 export default function LearnPage() {
@@ -76,6 +83,14 @@ export default function LearnPage() {
             <p className="text-white/50 text-xs">{SUBTITLE[l]}</p>
           </div>
           <div className="flex items-center gap-2">
+            <button
+              onClick={() => router.push("/codekids")}
+              aria-label={CODEKIDS_LABEL[l]}
+              className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-pink-500/30 to-orange-500/30 hover:from-pink-500/45 hover:to-orange-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            >
+              <Code2 size={14} className="text-pink-300" />
+              {CODEKIDS_LABEL[l]}
+            </button>
             <button
               onClick={() => router.push("/world-globe")}
               aria-label={GLOBE_LABEL[l]}
