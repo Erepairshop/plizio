@@ -606,6 +606,22 @@ export function renderVisualPrintHtml(
       return `<div style="font-size:14pt; font-weight:700; text-align:center; margin:6px 0;">${sq.lhs} ${sq.op} ${sq.rhs}</div><div style="text-align:center; font-size:10pt; color:#6b7280;">x = ?</div>${blankLine(cc)}`;
     }
 
+    case "object-add": {
+      return `<div style="font-size:14pt; margin:6px 0; text-align:center;">${(p.emoji || '')} ${p.groupA} + ${p.groupB} = ?</div>${blankLine(cc)}`;
+    }
+    case "object-sub": {
+      return `<div style="font-size:14pt; margin:6px 0; text-align:center;">${(p.emoji || '')} ${p.total} - ${p.removed} = ?</div>${blankLine(cc)}`;
+    }
+    case "object-array": {
+      return `<div style="font-size:14pt; margin:6px 0; text-align:center;">${(p.emoji || '')} ${p.rows} × ${p.cols} = ?</div>${blankLine(cc)}`;
+    }
+    case "object-share": {
+      return `<div style="font-size:14pt; margin:6px 0; text-align:center;">${(p.emoji || '')} ${p.total} ÷ ${p.groups} = ?</div>${blankLine(cc)}`;
+    }
+    case "shape-pattern": {
+      const shapes = p.shapes || [];
+      return `<div style="font-size:14pt; margin:6px 0; text-align:center; letter-spacing:4px;">${shapes.join(' ')}</div>${blankLine(cc)}`;
+    }
     default:
       return `<div style="font-size:11pt;">${question || ''}</div>${blankLine(cc)}`;
   }
