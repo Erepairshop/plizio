@@ -25,7 +25,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified,
       priority: 1,
     },
+    {
+      url: `${SITE_URL}${buildCountryPath(lang, "hungary")}`,
+      lastModified,
+      priority: 1,
+    },
   ]);
+
+  const rootUrls = [
+    { url: SITE_URL, lastModified, priority: 1 },
+    { url: `${SITE_URL}/learn`, lastModified, priority: 0.9 },
+    { url: `${SITE_URL}/europe-map`, lastModified, priority: 0.9 },
+  ];
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
     regions.map((state) => ({
@@ -45,5 +56,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       })),
   );
 
-  return [...countryUrls, ...stateUrls, ...poiUrls];
+  return [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];
 }
