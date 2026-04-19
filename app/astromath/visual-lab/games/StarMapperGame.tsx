@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence, useMotionValue, useTransform } from 'framer-motion';
+import { Language } from '@/components/i18n/LocalizedText';
 
 export interface StarMapperGameProps {
   grade: number;
-  lang: 'de' | 'hu' | 'ro' | 'en';
+  lang: Language;
   onDone?: (score: number) => void;
 }
 
@@ -15,11 +16,11 @@ const DICT = {
     lockOn: "LOCK ON",
     gameOver: "Game Over",
     playAgain: "Play Again",
-    enterX: "X",
-    enterY: "Y",
     correct: "Target Destroyed!",
     wrong: "Missed!",
-    start: "Start Mission"
+    start: "Start Mission",
+    currentPos: "Targeting",
+    next: "Next Mission"
   },
   de: {
     title: "Sternen-Mapper",
@@ -28,11 +29,11 @@ const DICT = {
     lockOn: "ZIELERFASSUNG",
     gameOver: "Spiel Beendet",
     playAgain: "Nochmal spielen",
-    enterX: "X",
-    enterY: "Y",
     correct: "Ziel zerstört!",
     wrong: "Verfehlt!",
-    start: "Mission starten"
+    start: "Mission starten",
+    currentPos: "Zielerfassung",
+    next: "Nächste Mission"
   },
   hu: {
     title: "Csillagtérképész",
@@ -41,11 +42,11 @@ const DICT = {
     lockOn: "CÉLZÁS",
     gameOver: "Játék Vége",
     playAgain: "Újra",
-    enterX: "X",
-    enterY: "Y",
     correct: "Találat!",
     wrong: "Mellé!",
-    start: "Küldetés indítása"
+    start: "Küldetés indítása",
+    currentPos: "Célzás",
+    next: "Tovább"
   },
   ro: {
     title: "Cartografic Stelar",
@@ -54,11 +55,11 @@ const DICT = {
     lockOn: "FIXARE ȚINTĂ",
     gameOver: "Joc Terminat",
     playAgain: "Joacă din nou",
-    enterX: "X",
-    enterY: "Y",
     correct: "Țintă distrusă!",
     wrong: "Ratare!",
-    start: "Start Misiune"
+    start: "Start Misiune",
+    currentPos: "Țintire",
+    next: "Următoarea Misiune"
   }
 };
 
@@ -66,8 +67,8 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const t = DICT[lang] || DICT.en;
 
   const config = useMemo(() => {
-    if (grade <= 2) return { minX: 0, maxX: 3, minY: 0, maxY: 3 };
-    if (grade <= 4) return { minX: 0, maxX: 5, minY: 0, maxY: 5 };
+    if (grade <= 2) return { minX: 0, maxX: 4, minY: 0, maxY: 4 };
+    if (grade <= 4) return { minX: 0, maxX: 8, minY: 0, maxY: 8 };
     return { minX: -5, maxX: 5, minY: -5, maxY: 5 };
   }, [grade]);
 
@@ -75,14 +76,31 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(60);
   const [correctCount, setCorrectCount] = useState(0);
-  const maxCorrect = grade <= 5 ? 3 : 3 + (grade - 5); // K1-5=3, K6=4, K7=5, K8=6
+  const maxCorrect = grade <= 5 ? 3 : 3 + (grade - 5);
   const [target, setTarget] = useState({ x: 0, y: 0 });
-  const [inputX, setInputX] = useState('');
-  const [inputY, setInputY] = useState('');
+  const [currentPos, setCurrentPos] = useState({ x: 0, y: 0 });
   const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
 
-  const xInputRef = useRef<HTMLInputElement>(null);
-  const yInputRef = useRef<HTMLInputElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  // SVG Mapping logic
+  const svgSize = 500;
+  const padding = 50;
+  const gridWidth = svgSize - padding * 2;
+  const gridHeight = svgSize - padding * 2;
+
+  const mapX = (x: number) => padding + ((x - config.minX) / (config.maxX - config.minX)) * gridWidth;
+  const mapY = (y: number) => (svgSize - padding) - ((y - config.minY) / (config.maxY - config.minY)) * gridHeight;
+
+  const unmapX = (svgX: number) => {
+    const rawX = ((svgX - padding) / gridWidth) * (config.maxX - config.minX) + config.minX;
+    return Math.max(config.minX, Math.min(config.maxX, Math.round(rawX)));
+  };
+
+  const unmapY = (svgY: number) => {
+    const rawY = ((svgSize - padding - svgY) / gridHeight) * (config.maxY - config.minY) + config.minY;
+    return Math.max(config.minY, Math.min(config.maxY, Math.round(rawY)));
+  };
 
   // Generate target
   const generateTarget = () => {
@@ -93,8 +111,8 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     } while (newX === target.x && newY === target.y);
     
     setTarget({ x: newX, y: newY });
-    setInputX('');
-    setInputY('');
+    // Reset cursor to a starting position away from target or center
+    setCurrentPos({ x: config.minX, y: config.minY });
     setFeedback(null);
   };
 
@@ -109,13 +127,6 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     }
   }, [timeLeft, gameState, score, onDone]);
 
-  // Auto-focus logic
-  useEffect(() => {
-    if (gameState === 'playing' && !feedback) {
-      xInputRef.current?.focus();
-    }
-  }, [target, gameState, feedback]);
-
   const startGame = () => {
     setScore(0);
     setTimeLeft(60);
@@ -124,16 +135,10 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     generateTarget();
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (gameState !== 'playing') return;
+  const handleSubmit = () => {
+    if (gameState !== 'playing' || feedback) return;
 
-    const x = parseInt(inputX, 10);
-    const y = parseInt(inputY, 10);
-
-    if (isNaN(x) || isNaN(y)) return;
-
-    if (x === target.x && y === target.y) {
+    if (currentPos.x === target.x && currentPos.y === target.y) {
       setScore(s => s + 10);
       setFeedback('correct');
       setCorrectCount(c => {
@@ -142,39 +147,17 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
           setTimeout(() => {
             setGameState('end');
             if (onDone) onDone(score + 10);
-          }, 700);
+          }, 1200);
         } else {
-          setTimeout(() => generateTarget(), 600);
+          setTimeout(() => generateTarget(), 1000);
         }
         return next;
       });
     } else {
       setFeedback('wrong');
-      setTimeout(() => {
-        setFeedback(null);
-        setInputX('');
-        setInputY('');
-        xInputRef.current?.focus();
-      }, 600);
+      setTimeout(() => setFeedback(null), 1000);
     }
   };
-
-  const handleXChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setInputX(e.target.value);
-    if (e.target.value !== '' && e.target.value !== '-') {
-      yInputRef.current?.focus();
-    }
-  };
-
-  const handleYChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setInputY(e.target.value);
-  };
-
-  // SVG Mapping logic
-  const svgSize = 500;
-  const padding = 50;
-  const mapX = (x: number) => padding + ((x - config.minX) / (config.maxX - config.minX)) * (svgSize - padding * 2);
-  const mapY = (y: number) => (svgSize - padding) - ((y - config.minY) / (config.maxY - config.minY)) * (svgSize - padding * 2);
 
   const xTicks = [];
   for (let i = config.minX; i <= config.maxX; i++) xTicks.push(i);
@@ -187,7 +170,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   return (
     <div className="flex flex-col items-center justify-center w-full max-w-2xl mx-auto min-h-[600px] bg-slate-900 rounded-2xl overflow-hidden shadow-2xl relative border border-slate-700 text-slate-100 font-sans p-6 select-none">
       
-      {/* Background Stars / Grid */}
+      {/* Background Effects */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden opacity-30">
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-blue-500 rounded-full mix-blend-screen filter blur-[100px] opacity-20 animate-pulse"></div>
         <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-purple-500 rounded-full mix-blend-screen filter blur-[100px] opacity-20 animate-pulse delay-1000"></div>
@@ -230,7 +213,10 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
 
       {gameState === 'playing' && (
         <div className="flex-1 w-full flex flex-col items-center z-10 gap-6">
-          <div className="relative w-full aspect-square max-w-[400px] bg-slate-800/50 rounded-xl border border-slate-600 shadow-inner overflow-hidden">
+          <div 
+            ref={containerRef}
+            className="relative w-full aspect-square max-w-[420px] bg-slate-800/50 rounded-xl border border-slate-600 shadow-inner overflow-hidden touch-none"
+          >
             <svg viewBox={`0 0 ${svgSize} ${svgSize}`} className="w-full h-full">
               {/* Grid Lines */}
               {xTicks.map(x => (
@@ -252,22 +238,21 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                 <text key={`ty-${y}`} x={mapX(yAxisX) - 10} y={mapY(y) + 5} fill="#94a3b8" fontSize="14" textAnchor="end" fontWeight={y === 0 ? "bold" : "normal"}>{y}</text>
               ))}
 
-              {/* Target — position in plain <g>, animate inside */}
+              {/* Target */}
               <AnimatePresence>
-                {!feedback && (
-                  <g key={`target-${target.x}-${target.y}`} transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
-                    <motion.g
-                      initial={{ scale: 0, opacity: 0 }}
-                      animate={{ scale: 1, opacity: 1 }}
-                      exit={{ scale: 2, opacity: 0 }}
-                      transition={{ type: 'spring', bounce: 0.5, duration: 0.6 }}
-                    >
-                      <circle cx={0} cy={0} r={16} fill="rgba(251,191,36,0.15)" />
-                      <circle cx={0} cy={0} r={10} fill="none" stroke="#fbbf24" strokeWidth="1.5" strokeDasharray="3 2" />
-                      <polygon points="0,-10 3,-3 10,-3 4,2 7,9 0,5 -7,9 -4,2 -10,-3 -3,-3" fill="#fbbf24" style={{ filter: 'drop-shadow(0 0 6px #fbbf24)' }} />
-                    </motion.g>
-                  </g>
-                )}
+                <g key={`target-${target.x}-${target.y}`} transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
+                  <motion.g
+                    initial={{ scale: 0, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    exit={{ scale: 2, opacity: 0 }}
+                    transition={{ type: 'spring', bounce: 0.5, duration: 0.6 }}
+                  >
+                    <circle cx={0} cy={0} r={16} fill="rgba(251,191,36,0.15)" />
+                    <circle cx={0} cy={0} r={10} fill="none" stroke="#fbbf24" strokeWidth="1.5" strokeDasharray="3 2" />
+                    <polygon points="0,-10 3,-3 10,-3 4,2 7,9 0,5 -7,9 -4,2 -10,-3 -3,-3" fill="#fbbf24" style={{ filter: 'drop-shadow(0 0 6px #fbbf24)' }} />
+                  </motion.g>
+                </g>
+
                 {feedback === 'correct' && (
                   <g key="explosion" transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
                     <motion.g
@@ -279,79 +264,87 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                     </motion.g>
                   </g>
                 )}
-                {feedback === 'wrong' && (
-                  <g key="miss" transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
-                    <motion.g
-                      initial={{ x: -5 }}
-                      animate={{ x: [5, -5, 5, -5, 0] }}
-                      transition={{ duration: 0.4 }}
-                    >
-                      <path d="M-10,-10 L10,10 M10,-10 L-10,10" stroke="#ef4444" strokeWidth="4" />
-                    </motion.g>
-                  </g>
-                )}
               </AnimatePresence>
+
+              {/* The Crosshair Selector - Inside SVG, but absolute positioned for Drag */}
+              <motion.g
+                drag
+                dragConstraints={containerRef}
+                dragElastic={0}
+                dragMomentum={false}
+                onDrag={(e, info) => {
+                  if (containerRef.current) {
+                    const rect = containerRef.current.getBoundingClientRect();
+                    const x = info.point.x - rect.left;
+                    const y = info.point.y - rect.top;
+                    // Scale local container px to SVG coordinates (420px container vs 500px SVG)
+                    const svgX = (x / rect.width) * svgSize;
+                    const svgY = (y / rect.height) * svgSize;
+                    const gridX = unmapX(svgX);
+                    const gridY = unmapY(svgY);
+                    if (gridX !== currentPos.x || gridY !== currentPos.y) {
+                      setCurrentPos({ x: gridX, y: gridY });
+                    }
+                  }
+                }}
+                onDragEnd={() => {
+                   // Ensure it snaps visually to the integer position
+                }}
+                animate={{
+                  x: mapX(currentPos.x),
+                  y: mapY(currentPos.y)
+                }}
+                transition={{ type: 'spring', stiffness: 500, damping: 30 }}
+                style={{ cursor: 'grab' }}
+                whileDrag={{ scale: 1.2, cursor: 'grabbing' }}
+              >
+                {/* Visual of the Crosshair */}
+                <circle r="20" fill="rgba(34, 211, 238, 0.1)" stroke="rgba(34, 211, 238, 0.5)" strokeWidth="1" />
+                <line x1="-15" y1="0" x2="15" y2="0" stroke="#22d3ee" strokeWidth="2" />
+                <line x1="0" y1="-15" x2="0" y2="15" stroke="#22d3ee" strokeWidth="2" />
+                <rect x="-2" y="-2" width="4" height="4" fill="#22d3ee" />
+                
+                {/* Current Coordinates Label above crosshair */}
+                <g transform="translate(0, -30)">
+                  <rect x="-25" y="-12" width="50" height="20" rx="4" fill="rgba(15, 23, 42, 0.8)" />
+                  <text textAnchor="middle" fill="#22d3ee" fontSize="12" fontWeight="bold" dy="2">
+                    {currentPos.x}, {currentPos.y}
+                  </text>
+                </g>
+              </motion.g>
             </svg>
           </div>
 
-          <form onSubmit={handleSubmit} className="w-full max-w-[400px] bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg flex items-end gap-4">
-            <div className="flex-1 flex gap-4">
-              <div className="flex-1 flex flex-col">
-                <label className="text-slate-400 text-sm mb-1 font-bold">{t.enterX}</label>
-                <input 
-                  ref={xInputRef}
-                  type="text"
-                  inputMode="numeric"
-                  pattern="[0-9\-]*"
-                  value={inputX}
-                  onChange={handleXChange}
-                  className={`w-full bg-slate-900 border-2 rounded-lg py-2 px-3 text-center text-xl font-mono focus:outline-none transition-colors
-                    ${feedback === 'wrong' ? 'border-red-500 text-red-400' : 'border-slate-600 focus:border-cyan-400 text-cyan-300'}
-                  `}
-                  disabled={!!feedback}
-                  autoComplete="off"
-                />
+          <div className="w-full max-w-[400px] flex flex-col gap-4">
+            <div className="flex justify-between items-center bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg">
+              <div className="flex flex-col">
+                <span className="text-slate-400 text-xs uppercase font-bold">{t.currentPos}</span>
+                <span className="text-2xl font-mono text-cyan-400">X: {currentPos.x} Y: {currentPos.y}</span>
               </div>
-              <div className="flex-1 flex flex-col">
-                <label className="text-slate-400 text-sm mb-1 font-bold">{t.enterY}</label>
-                <input 
-                  ref={yInputRef}
-                  type="text"
-                  inputMode="numeric"
-                  pattern="[0-9\-]*"
-                  value={inputY}
-                  onChange={handleYChange}
-                  className={`w-full bg-slate-900 border-2 rounded-lg py-2 px-3 text-center text-xl font-mono focus:outline-none transition-colors
-                    ${feedback === 'wrong' ? 'border-red-500 text-red-400' : 'border-slate-600 focus:border-cyan-400 text-cyan-300'}
-                  `}
-                  disabled={!!feedback}
-                  autoComplete="off"
-                />
-              </div>
+              <button 
+                onClick={handleSubmit}
+                disabled={!!feedback}
+                className="bg-cyan-600 hover:bg-cyan-500 disabled:bg-slate-700 disabled:text-slate-500 text-white font-bold py-3 px-8 rounded-lg transition-all shadow-lg hover:shadow-cyan-500/20 active:scale-95 h-[52px]"
+              >
+                {t.lockOn}
+              </button>
             </div>
-            <button 
-              type="submit"
-              disabled={!!feedback || !inputX || !inputY}
-              className="bg-cyan-600 hover:bg-cyan-500 disabled:bg-slate-700 disabled:text-slate-500 text-white font-bold py-3 px-6 rounded-lg transition-colors h-[52px]"
-            >
-              {t.lockOn}
-            </button>
-          </form>
 
-          {/* Feedback Text Overlay */}
-          <div className="h-8 flex items-center justify-center">
-            <AnimatePresence>
-              {feedback && (
-                <motion.div
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0 }}
-                  className={`text-xl font-bold tracking-widest ${feedback === 'correct' ? 'text-emerald-400' : 'text-red-400'}`}
-                >
-                  {feedback === 'correct' ? t.correct : t.wrong}
-                </motion.div>
-              )}
-            </AnimatePresence>
+            {/* Feedback Text Overlay */}
+            <div className="h-8 flex items-center justify-center">
+              <AnimatePresence>
+                {feedback && (
+                  <motion.div
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0 }}
+                    className={`text-xl font-bold tracking-widest ${feedback === 'correct' ? 'text-emerald-400' : 'text-red-400'}`}
+                  >
+                    {feedback === 'correct' ? t.correct : t.wrong}
+                  </motion.div>
+                )}
+              </AnimatePresence>
+            </div>
           </div>
         </div>
       )}
@@ -363,12 +356,22 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
             <div className="text-5xl font-mono text-cyan-400 mb-8 drop-shadow-[0_0_10px_rgba(34,211,238,0.5)]">
               {score} {t.score}
             </div>
-            <button 
-              onClick={startGame}
-              className="px-8 py-4 bg-cyan-600 hover:bg-cyan-500 text-white rounded-full font-bold text-lg shadow-[0_0_20px_rgba(8,145,178,0.3)] transition-all"
-            >
-              {t.playAgain}
-            </button>
+            <div className="flex flex-col gap-3">
+              <button 
+                onClick={startGame}
+                className="px-8 py-4 bg-cyan-600 hover:bg-cyan-500 text-white rounded-full font-bold text-lg shadow-[0_0_20px_rgba(8,145,178,0.3)] transition-all"
+              >
+                {t.playAgain}
+              </button>
+              {onDone && (
+                <button 
+                  onClick={() => onDone(score)}
+                  className="text-slate-400 hover:text-white uppercase text-sm font-bold tracking-widest mt-2 transition-colors"
+                >
+                  {t.next}
+                </button>
+              )}
+            </div>
           </motion.div>
         </div>
       )}
