@@ -145,7 +145,7 @@ const SUBJECTS: SubjectDef[] = [
     id: "informatika",
     icon: Cpu,
     color: "#3B82F6",
-    grades: [5, 6, 7, 8],
+    grades: [1, 2, 3, 4, 5, 6, 7, 8],
     astroRoute: "/astrinformatika",
     testRoute: "/informatikatest",
     name: { de: "Informatik", hu: "Informatika", ro: "Informatică", en: "Informatics" },
@@ -182,11 +182,20 @@ export default function SubjectPicker() {
 
   const go = (subject: SubjectDef, mode: Mode) => {
     if (grade == null) return;
+    // Code Kids (K1-K4 Informatika) uses separate routes
+    const isCodeKids = subject.id === "informatika" && grade <= 4;
     if (mode === "astro") {
-      router.push(`${subject.astroRoute}/${grade}`);
+      if (isCodeKids) {
+        router.push(`/codekids/${grade}`);
+      } else {
+        router.push(`${subject.astroRoute}/${grade}`);
+      }
     } else {
-      // Test routes use query string (?grade=N) — page skips grade-select
-      router.push(`${subject.testRoute}?grade=${grade}`);
+      if (isCodeKids) {
+        router.push(`/codekidstest?grade=${grade}`);
+      } else {
+        router.push(`${subject.testRoute}?grade=${grade}`);
+      }
     }
   };
 
