@@ -6,7 +6,7 @@ import { romaniaMap, romaniaViewBox, projectCoordsRO } from "./romania.svg";
 import { bundeslandSubregions } from "./bundeslandSubregions";
 import { romaniaJudetSubregions } from "./romaniaJudetSubregions";
 import { pois as deutschlandPois } from "../data/poi";
-import { romaniaAllPois } from "../data/romaniaPoi";
+import { romaniaAllPois } from "../data/romaniaPoi"; // Tartalmazza: romaniaCulture, romaniaTraditions, romaniaWildlife, romaniaFolk
 import type { POI } from "../data/poi";
 
 export type Lang = "de" | "hu" | "ro" | "en";
