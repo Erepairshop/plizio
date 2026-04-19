@@ -93,7 +93,7 @@ function poiColor(type: POI["type"]): string {
 }
 
 const MIN_SCALE = 1;
-const MAX_SCALE = 6;
+const MAX_SCALE = 15;
 
 // K1-K2 simplified mode: only these POI types are shown
 const SIMPLIFIED_TYPES = new Set<POI["type"]>(["state-capital", "river", "mountain", "sea", "animal-habitat", "kid-landmark"]);
