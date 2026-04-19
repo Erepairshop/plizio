@@ -45,6 +45,7 @@ const SACHKUNDE_CONFIG: LanguageTestEngineConfig = {
   getQuestions: getSachkundeQuestions as any,
   subtopicHints: SACHKUNDE_SUBTOPIC_HINTS,
   visualTypes: SACHKUNDE_VISUAL_TYPES,
+  visualGrades: [1, 2, 3, 4],
 
   labels: {
     selectCountry: "Wähle dein Land",

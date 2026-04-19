@@ -9,6 +9,8 @@ import SinneZuordnung from "@/components/sachkunde-visual/SinneZuordnung";
 import JahreszeitZuordnung from "@/components/sachkunde-visual/JahreszeitZuordnung";
 import MuellSortierung from "@/components/sachkunde-visual/MuellSortierung";
 import VerkehrszeichenQuiz from "@/components/sachkunde-visual/VerkehrszeichenQuiz";
+import JahreszeitenBild from "@/components/sachkunde-visual/JahreszeitenBild";
+import TierErkennen from "@/components/sachkunde-visual/TierErkennen";
 
 // ─── DATA POOLS ─────────────────────────────────────────────────────────────────
 
@@ -258,6 +260,97 @@ const VERKEHRSZEICHEN_QUIZ: VisualQuestionType = {
   renderPrint: (q) => `${q.sign} → ${q.options[q.correctIndex]}`,
 };
 
+// ─── JAHRESZEITEN BILD (K1-K2) ──────────────────────────────────────────────────
+
+const JAHRESZEITEN_BILD: VisualQuestionType = {
+  type: "jahreszeiten-bild",
+  label: "Jahreszeit erkennen 🌸",
+  printLabel: "Jahreszeit erkennen",
+  component: JahreszeitenBild,
+  subtopicIds: ["jahreszeiten", "jahreszeiten_natur"],
+  generate: (count) => {
+    const questions = [];
+    const seasons = [
+      { svgName: "WinterSvg", correct: "Winter" },
+      { svgName: "FruehlingSvg", correct: "Frühling" },
+      { svgName: "SommerSvg", correct: "Sommer" },
+      { svgName: "HerbstSvg", correct: "Herbst" },
+    ];
+    for (let i = 0; i < count; i++) {
+      const season = pick(seasons);
+      const options = shuffle(["Winter", "Frühling", "Sommer", "Herbst"]);
+      const correctIndex = options.indexOf(season.correct);
+      questions.push({
+        svgName: season.svgName,
+        correct: season.correct,
+        options,
+        correctIndex,
+        question: "Welche Jahreszeit ist hier?",
+      });
+    }
+    return questions;
+  },
+  gradeAnswer: (q, given) => {
+    const correct = given === q.options[q.correctIndex];
+    return { correct, expected: q.options[q.correctIndex] };
+  },
+  mapProps: (q, userAnswer, submitted, onAnswer) => ({
+    svgName: q.svgName,
+    options: q.options,
+    correctIndex: q.correctIndex,
+    userAnswer,
+    submitted,
+    onAnswer,
+  }),
+  renderPrint: (q) => `Welche Jahreszeit ist hier? → ${q.options[q.correctIndex]}`,
+};
+
+// ─── TIER ERKENNEN (K1-K2) ──────────────────────────────────────────────────────
+
+const TIER_ERKENNEN: VisualQuestionType = {
+  type: "tier-erkennen",
+  label: "Tier erkennen 🐾",
+  printLabel: "Tier erkennen",
+  component: TierErkennen,
+  subtopicIds: ["tiere", "haustiere", "wilde_tiere"],
+  generate: (count) => {
+    const questions = [];
+    const animals = [
+      { svgName: "KatzeSvg", correct: "Katze" },
+      { svgName: "HundSvg", correct: "Hund" },
+      { svgName: "VogelSvg", correct: "Vogel" },
+      { svgName: "FischSvg", correct: "Fisch" },
+      { svgName: "PferdSvg", correct: "Pferd" },
+    ];
+    for (let i = 0; i < count; i++) {
+      const animal = pick(animals);
+      const options = shuffle(["Katze", "Hund", "Vogel", "Fisch", "Pferd"]);
+      const correctIndex = options.indexOf(animal.correct);
+      questions.push({
+        svgName: animal.svgName,
+        correct: animal.correct,
+        options,
+        correctIndex,
+        question: "Welches Tier ist das?",
+      });
+    }
+    return questions;
+  },
+  gradeAnswer: (q, given) => {
+    const correct = given === q.options[q.correctIndex];
+    return { correct, expected: q.options[q.correctIndex] };
+  },
+  mapProps: (q, userAnswer, submitted, onAnswer) => ({
+    svgName: q.svgName,
+    options: q.options,
+    correctIndex: q.correctIndex,
+    userAnswer,
+    submitted,
+    onAnswer,
+  }),
+  renderPrint: (q) => `Welches Tier ist das? → ${q.options[q.correctIndex]}`,
+};
+
 // ─── EXPORT ─────────────────────────────────────────────────────────────────────
 
 export const SACHKUNDE_VISUAL_TYPES: VisualQuestionType[] = [
@@ -266,4 +359,6 @@ export const SACHKUNDE_VISUAL_TYPES: VisualQuestionType[] = [
   JAHRESZEIT_ZUORDNUNG,
   MUELL_SORTIERUNG,
   VERKEHRSZEICHEN_QUIZ,
+  JAHRESZEITEN_BILD,
+  TIER_ERKENNEN,
 ];
