@@ -67,11 +67,11 @@ type AvatarAnimKey =
 
 // Prefer semantically matching clips, but allow fallback selection if the GLB changes later.
 const ANIM_CANDIDATES: Record<AvatarAnimKey, string[]> = {
-  idle: ['Short_Breathe_and_Look_Around', 'Thoughtful_Walk', 'Talk_Passionately'],
+  idle: ['Cheer_with_Both_Hands', 'Motivational_Cheer', 'Happy_jump_f'],
   focused: ['Talk_Passionately', 'Short_Breathe_and_Look_Around', 'Thoughtful_Walk'],
   happy: ['Happy_jump_f', 'Motivational_Cheer', 'Cheer_with_Both_Hands'],
   disappointed: ['falling_down', 'Thoughtful_Walk', 'Short_Breathe_and_Look_Around'],
-  victory: ['Cheer_with_Both_Hands', 'Motivational_Cheer', 'Happy_jump_f'],
+  victory: ['Short_Breathe_and_Look_Around', 'Thoughtful_Walk', 'Talk_Passionately'],
   surprised: ['Dont_You_Dare', 'Wave_One_Hand', 'Short_Breathe_and_Look_Around'],
   confused: ['Thoughtful_Walk', 'Short_Breathe_and_Look_Around', 'Talk_Passionately'],
   laughing: ['Motivational_Cheer', 'Cheer_with_Both_Hands', 'Happy_jump_f'],
