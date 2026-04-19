@@ -386,7 +386,7 @@ export const InteractiveMap = ({
   const resetView = () => setView({ x: 0, y: 0, scale: 1 });
 
   return (
-    <div className="relative w-full select-none" style={{ overscrollBehavior: "contain" }}>
+    <div className="relative w-full flex-1 min-h-[70vh] select-none flex flex-col" style={{ overscrollBehavior: "contain" }}>
 
       {/* Top bar: Search + Favorites toggle */}
       <div className="flex items-center gap-2 mb-2 px-1">
@@ -502,13 +502,13 @@ export const InteractiveMap = ({
       )}
 
       <div
-        className="relative w-full mx-auto"
+        className="relative w-full flex-1 mx-auto"
         style={{ overscrollBehavior: "contain", touchAction: "none" }}
       >
         <svg
           ref={svgRef}
           viewBox={deutschlandViewBox}
-          className="w-full block"
+          className="w-full h-full block"
           style={{
             filter: "drop-shadow(0 0 24px rgba(34,211,238,0.18))",
             cursor: view.scale > 1 ? "grab" : "default",
