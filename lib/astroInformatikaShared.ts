@@ -56,7 +56,11 @@ const ISLAND_COLORS = [
   "#14B8A6",  // teal
 ];
 
-const GRADE_TO_EXPLORER: Record<5 | 6 | 7 | 8, GameType> = {
+const GRADE_TO_EXPLORER: Record<1 | 2 | 3 | 4 | 5 | 6 | 7 | 8, GameType> = {
+  1: "info-explore",
+  2: "info-explore",
+  3: "info-explore",
+  4: "info-explore",
   5: "info-explore",
   6: "info-explore",
   7: "info-explore",
@@ -99,7 +103,7 @@ const M3_ROTATION: GameType[] = [
   "sort-puzzle"
 ];
 
-export function buildAstroInformatikaIslands(grade: 5 | 6 | 7 | 8, themes: KemiaTheme[]): IslandDef[] {
+export function buildAstroInformatikaIslands(grade: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8, themes: KemiaTheme[]): IslandDef[] {
   const orderedSubtopics = themes.flatMap((theme) =>
     theme.subtopics.map((subtopic) => ({
       icon: theme.icon,
