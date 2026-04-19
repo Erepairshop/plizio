@@ -1845,8 +1845,307 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/csodak-palotaja.webp",
     description: {"de": "Ein interaktives Wissenschaftszentrum, das spielerisch Wissen vermittelt.", "hu": "Interaktív tudományos központ, amely játékosan adja át az ismereteket.", "ro": "Un centru științific interactiv care transmite cunoștințe în mod ludic.", "en": "An interactive science center that imparts knowledge playfully."},
     facts: {"de": ["Das erste seiner Art in Mitteleuropa.", "Bietet über 250 interaktive Spiele."], "hu": ["Az első ilyen jellegű intézmény Közép-Európában.", "Több mint 250 interaktív játékot kínál."], "ro": ["Primul de acest fel din Europa Centrală.", "Oferă peste 250 de jocuri interactive."], "en": ["The first of its kind in Central Europe.", "Offers over 250 interactive games."]}
+  },
+  {
+    id: "boldogko-var-b2",
+    type: "landmark",
+    parent: "borsod-abauj-zemplen",
+    coords: [21.23, 48.34],
+    name: {"de": "Burg Boldogkő", "hu": "Boldogkői vár", "ro": "Cetatea Boldogkő", "en": "Boldogkő Castle"},
+    image: "/geo-images/hungary/boldogko-var.webp",
+    description: {"de": "Mittelalterliche Burg auf einem markanten Felsen im Zemplén-Gebirge.", "hu": "Középkori vár a Zempléni-hegység egyik meredek szikláján.", "ro": "Cetate medievală situată pe o stâncă abruptă în munții Zemplén.", "en": "Medieval castle perched on a steep rock in the Zemplén Mountains."},
+    facts: {"de": ["Bekannt für den hölzernen Wehrgang.", "Beherbergt eine große Zinnfigurenausstellung."], "hu": ["Híres a sziklán futó fapadlós gyilokjáróról.", "Itt található az ország egyik legnagyobb ólomkatona-kiállítása."], "ro": ["Cunoscută pentru galeria sa de lemn pe stâncă.", "Găzduiește o mare expoziție de soldăței de plumb."], "en": ["Famous for its wooden walkway on the rock.", "Home to a large exhibition of tin soldiers."]}
+  },
+  {
+    id: "fuzer-var-b2",
+    type: "landmark",
+    parent: "borsod-abauj-zemplen",
+    coords: [21.46, 48.54],
+    name: {"de": "Burg Füzér", "hu": "Füzéri vár", "ro": "Cetatea Füzér", "en": "Füzér Castle"},
+    image: "/geo-images/hungary/fuzer-var.webp",
+    description: {"de": "Spektakulär restaurierte Höhenburg auf einem vulkanischen Gipfel.", "hu": "Látványosan felújított hegyi vár egy vulkáni kúpon.", "ro": "Cetate montană restaurată spectaculos pe un con vulcanic.", "en": "Spectacularly restored hilltop castle on a volcanic cone."},
+    facts: {"de": ["Eine der ersten Steinburgen des Landes.", "Bewahrte einst die ungarische Heilige Krone."], "hu": ["Az ország egyik legkorábbi kővára.", "Egykor itt őrizték a Szent Koronát."], "ro": ["Una dintre primele cetăți de piatră din țară.", "Aici a fost păstrată odată Sfânta Coroană."], "en": ["One of the country's earliest stone castles.", "The Holy Crown was once kept here."]}
+  },
+  {
+    id: "sirok-var",
+    type: "landmark",
+    parent: "heves",
+    coords: [20.19, 47.93],
+    name: {"de": "Burg Sirok", "hu": "Siroki vár", "ro": "Cetatea Sirok", "en": "Sirok Castle"},
+    image: "/geo-images/hungary/sirok-var.webp",
+    description: {"de": "Ungarns am besten erhaltene in den Fels gehauene Höhlenburg.", "hu": "Magyarország legjelentősebb barlang- és sziklavára a Mátra keleti részén.", "ro": "Cea mai bine conservată cetate săpată în stâncă din Ungaria.", "en": "Hungary's best-preserved cave and rock castle in the Mátra."},
+    facts: {"de": ["Verfügt über ein weitläufiges Tunnelsystem.", "Bietet Panoramablick auf die Mátra."], "hu": ["Kiterjedt földalatti kazamata-rendszerrel bír.", "Pazar kilátást nyújt a Mátrára."], "ro": ["Are un sistem extins de tuneluri subterane.", "Oferă vedere panoramică asupra munților Mátra."], "en": ["Features an extensive underground tunnel system.", "Offers panoramic views of the Mátra."]}
+  },
+  {
+    id: "sumeg-var-b2",
+    type: "landmark",
+    parent: "veszprem",
+    coords: [17.43, 46.98],
+    name: {"de": "Burg Sümeg", "hu": "Sümegi vár", "ro": "Cetatea Sümeg", "en": "Sümeg Castle"},
+    image: "/geo-images/hungary/sumeg-var.webp",
+    description: {"de": "Imposante Festung, die über der Stadt Sümeg auf einem Hügel thront.", "hu": "Impozáns erődítmény, amely a Balaton-felvidék kapujában magasodik.", "ro": "Fortăreață impunătoare care domină orașul Sümeg de pe un deal.", "en": "Imposing fortress towering over the town of Sümeg on a hill."},
+    facts: {"de": ["Berühmt für historische Ritterspiele.", "Widerstand erfolgreich osmanischen Belagerungen."], "hu": ["Híres a látványos lovagi tornáiról.", "Sikeresen ellenállt a török ostromoknak."], "ro": ["Faimoasă pentru jocurile cavalerești istorice.", "A rezistat cu succes asediilor otomane."], "en": ["Famous for historical knight tournaments.", "Successfully resisted Ottoman sieges."]}
+  },
+  {
+    id: "somlo-var",
+    type: "landmark",
+    parent: "veszprem",
+    coords: [17.37, 47.15],
+    name: {"de": "Burg Somló", "hu": "Somlói vár", "ro": "Cetatea Somló", "en": "Somló Castle"},
+    image: "/geo-images/hungary/somlo-var.webp",
+    description: {"de": "Malerische Burgruine auf dem vulkanischen Berg Somló.", "hu": "Regényes várrom a Somló vulkanikus tanúhegyének tetején.", "ro": "Ruine pitorești ale cetății pe muntele vulcanic Somló.", "en": "Picturesque castle ruins on the volcanic Somló mountain."},
+    facts: {"de": ["Umgeben von berühmten Weinbergen.", "Ein beliebtes Ziel für Wanderer."], "hu": ["Híres borvidék veszi körül.", "Kedvelt kirándulóhely a túrázók körében."], "ro": ["Înconjurată de podgorii faimoase.", "O destinație populară pentru drumeți."], "en": ["Surrounded by famous vineyards.", "A popular destination for hikers."]}
+  },
+  {
+    id: "nagyvazsony-kinizsi-var",
+    type: "landmark",
+    parent: "veszprem",
+    coords: [17.69, 46.98],
+    name: {"de": "Kinizsi-Burg", "hu": "Nagyvázsonyi Kinizsi-vár", "ro": "Cetatea Kinizsi", "en": "Kinizsi Castle"},
+    image: "/geo-images/hungary/nagyvazsony-var.webp",
+    description: {"de": "Historische Burg, die einst dem legendären Paul Kinizsi gehörte.", "hu": "A legendás verhetetlen hadvezér, Kinizsi Pál egykori vára.", "ro": "Cetate istorică care a aparținut legendarului Paul Kinizsi.", "en": "Historic castle once owned by the legendary Paul Kinizsi."},
+    facts: {"de": ["Besitzt einen markanten Wohnturm.", "Veranstaltet im Sommer Ritterspiele."], "hu": ["Jellegzetes, magas lakótoronnyal rendelkezik.", "Nyáron lovagi játékokat rendeznek a várudvaron."], "ro": ["Are un turn de locuință proeminent.", "Găzduiește jocuri cavalerești în timpul verii."], "en": ["Has a distinctive residential tower.", "Hosts knightly tournaments in the summer."]}
+  },
+  {
+    id: "szerencs-var",
+    type: "landmark",
+    parent: "borsod-abauj-zemplen",
+    coords: [21.20, 48.16],
+    name: {"de": "Burg Szerencs", "hu": "Szerencsi vár", "ro": "Cetatea Szerencs", "en": "Szerencs Castle"},
+    image: "/geo-images/hungary/szerencs-var.webp",
+    description: {"de": "Renaissanceschloss im Herzen der Schokoladenstadt Szerencs.", "hu": "Reneszánsz várkastély a csokoládé városának szívében.", "ro": "Castel renascentist în inima orașului ciocolatei, Szerencs.", "en": "Renaissance castle in the heart of the chocolate town, Szerencs."},
+    facts: {"de": ["Sitz des Zemplén-Museums.", "Verbunden mit dem Fürsten Bocskai."], "hu": ["A Zempléni Múzeumnak ad otthont.", "Bocskai István fejedelemmel fonódott össze a múltja."], "ro": ["Sediul Muzeului Zemplén.", "Legată de principele Bocskai."], "en": ["Home to the Zemplén Museum.", "Connected with Prince Bocskai."]}
+  },
+  {
+    id: "koszeg-jurisics-var",
+    type: "landmark",
+    parent: "vas",
+    coords: [16.54, 47.39],
+    name: {"de": "Jurisics-Burg", "hu": "Kőszegi Jurisics-vár", "ro": "Cetatea Jurisics", "en": "Jurisics Castle"},
+    image: "/geo-images/hungary/koszeg-var.webp",
+    description: {"de": "Geschichtsträchtige Burg, die 1532 den Vormarsch der Osmanen stoppte.", "hu": "Történelmi vár, mely 1532-ben megállította a török sereget.", "ro": "Cetate istorică ce a oprit avansul otomanilor în 1532.", "en": "Historic castle that stopped the Ottoman advance in 1532."},
+    facts: {"de": ["In Kőszeg läuten die Glocken um 11 Uhr.", "Wahrzeichen der Grenzstadt Kőszeg."], "hu": ["Kőszegen 11 órakor is szólnak a harangok.", "A határmenti kisváros jelképe."], "ro": ["În Kőszeg clopotele bat și la ora 11.", "Simbolul orașului de graniță Kőszeg."], "en": ["Bells ring at 11 AM in Kőszeg.", "Symbol of the border town Kőszeg."]}
+  },
+  {
+    id: "simontornya-var",
+    type: "landmark",
+    parent: "tolna",
+    coords: [18.55, 46.75],
+    name: {"de": "Burg Simontornya", "hu": "Simontornyai vár", "ro": "Cetatea Simontornya", "en": "Simontornya Castle"},
+    image: "/geo-images/hungary/simontornya-var.webp",
+    description: {"de": "Prächtiges Renaissanceschloss mit einer wechselvollen Geschichte.", "hu": "Pazar reneszánsz palotaszárnyakkal díszített alföldi vár.", "ro": "Castel renascentist splendid cu o istorie bogată.", "en": "Splendid Renaissance castle with a rich history."},
+    facts: {"de": ["Einst eine wichtige Festung an der Sió.", "Besitzt schöne Terrakotta-Verzierungen."], "hu": ["Valaha a Sió menti védelmi vonal része volt.", "Gyönyörű reneszánsz faragványok díszítik."], "ro": ["Odată o fortăreață importantă pe râul Sió.", "Are frumoase decorațiuni din teracotă."], "en": ["Once an important fortress along the Sió.", "Features beautiful terracotta decorations."]}
+  },
+  {
+    id: "varpalota-thury-var",
+    type: "landmark",
+    parent: "veszprem",
+    coords: [18.14, 47.20],
+    name: {"de": "Thury-Burg", "hu": "Várpalotai Thury-vár", "ro": "Cetatea Thury", "en": "Thury Castle"},
+    image: "/geo-images/hungary/varpalota-var.webp",
+    description: {"de": "Mittelalterliche Festung im Zentrum von Várpalota.", "hu": "Középkori erődítmény Várpalota városának szívében.", "ro": "Fortăreață medievală în centrul orașului Várpalota.", "en": "Medieval fortress in the center of Várpalota."},
+    facts: {"de": ["Benannt nach Kapitän György Thury.", "Beherbergt ein Chemie-Museum."], "hu": ["Thury György várkapitány nevét viseli.", "Itt található a Vegyészeti Múzeum."], "ro": ["Numită după căpitanul György Thury.", "Găzduiește un muzeu al chimiei."], "en": ["Named after Captain György Thury.", "Houses a chemistry museum."]}
+  },
+  {
+    id: "szelce-volgy",
+    type: "landmark",
+    parent: "nograd",
+    coords: [19.06, 48.15],
+    name: {"de": "Szelce-Tal", "hu": "Szelce-völgy", "ro": "Valea Szelce", "en": "Szelce Valley"},
+    image: "/geo-images/hungary/szelce-volgy.webp",
+    description: {"de": "Unberührtes Tal in Nordungarn mit dichter Waldlandschaft.", "hu": "Érintetlen északi völgy dús erdőkkel és friss levegővel.", "ro": "Vale neatinsă în nordul Ungariei cu păduri dese.", "en": "Pristine valley in North Hungary with dense forest landscape."},
+    facts: {"de": ["Einzigartige Gebirgsflora.", "Ideal für ruhige Naturwanderungen."], "hu": ["Különleges hegyi flórával rendelkezik.", "Tökéletes hely a csendes erdei túrákhoz."], "ro": ["Floră montană unică.", "Ideală pentru drumeții liniștite în natură."], "en": ["Unique mountain flora.", "Ideal for quiet nature hikes."]}
+  },
+  {
+    id: "palvolgyi-barlang",
+    type: "landmark",
+    parent: "budapest",
+    coords: [19.016, 47.532],
+    name: {"de": "Pálvölgyi-Höhle", "hu": "Pálvölgyi-barlang", "ro": "Peștera Pálvölgyi", "en": "Pálvölgyi Cave"},
+    image: "/geo-images/hungary/palvolgyi-barlang.webp",
+    description: {"de": "Die längste Höhle in den Budaer Bergen mit tollen Formationen.", "hu": "A Budai-hegység leghosszabb, látványos cseppköves barlangja.", "ro": "Cea mai lungă peșteră din munții Budapesta cu formațiuni superbe.", "en": "The longest cave in the Buda Hills with amazing formations."},
+    facts: {"de": ["Bekannt für bizarre Tropfsteine.", "Konstante Temperatur von 11 Grad."], "hu": ["Különleges cseppkőformációiról ismert.", "Hőmérséklete állandóan 11 fok."], "ro": ["Cunoscută pentru stalactite bizare.", "Temperatură constantă de 11 grade."], "en": ["Known for bizarre dripstones.", "Constant temperature of 11 degrees."]}
+  },
+  {
+    id: "mecsek-hegyseg",
+    type: "landmark",
+    parent: "baranya",
+    coords: [18.23, 46.10],
+    name: {"de": "Mecsek-Gebirge", "hu": "Mecsek hegység", "ro": "Munții Mecsek", "en": "Mecsek Mountains"},
+    image: "/geo-images/hungary/mecsek.webp",
+    description: {"de": "Mittelgebirge im Süden mit mediterranem Flair und Höhlen.", "hu": "Déli középhegység mediterrán hangulattal és barlangokkal.", "ro": "Munți de înălțime medie în sud cu aer mediteranean și peșteri.", "en": "Middle mountains in the south with Mediterranean flair and caves."},
+    facts: {"de": ["Höchster Gipfel ist der Zengő.", "Reich an seltenen Pflanzenarten."], "hu": ["Legmagasabb csúcsa a Zengő.", "Ritka növényfajokban rendkívül gazdag."], "ro": ["Cel mai înalt vârf este Zengő.", "Bogați în specii de plante rare."], "en": ["Highest peak is Zengő.", "Rich in rare plant species."]}
+  },
+  {
+    id: "balatonfelvideki-np",
+    type: "landmark",
+    parent: "veszprem",
+    coords: [17.80, 46.90],
+    name: {"de": "NP Balaton-Oberland", "hu": "Balaton-felvidéki Nemzeti Park", "ro": "PN Balatonul de Sus", "en": "Balaton Uplands NP"},
+    image: "/geo-images/hungary/balaton-felvidek.webp",
+    description: {"de": "Abwechslungsreiche Landschaft mit Vulkanbergen und Lavendel.", "hu": "Változatos táj tanúhegyekkel, barlangokkal és levendulával.", "ro": "Peisaj divers cu munți vulcanici și lavandă.", "en": "Diverse landscape with volcanic hills and lavender fields."},
+    facts: {"de": ["Beinhaltet das Káli-Becken.", "Berühmt für Basaltorgeln."], "hu": ["Magában foglalja a Káli-medencét.", "Híres a bazaltorgonáiról."], "ro": ["Include bazinul Káli.", "Faimos pentru coloanele de bazalt."], "en": ["Includes the Káli Basin.", "Famous for basalt organs."]}
+  },
+  {
+    id: "koros-maros-np",
+    type: "landmark",
+    parent: "bekes",
+    coords: [21.00, 46.50],
+    name: {"de": "NP Körös-Maros", "hu": "Körös-Maros Nemzeti Park", "ro": "PN Criș-Mureș", "en": "Körös-Maros NP"},
+    image: "/geo-images/hungary/koros-maros-np.webp",
+    description: {"de": "Schutzgebiet in der südlichen Tiefebene mit reicher Vogelwelt.", "hu": "Dél-alföldi védett terület gazdag madárvilággal és rétekkel.", "ro": "Zonă protejată în câmpia de sud cu o avifaună bogată.", "en": "Protected area in the southern plains with rich birdlife."},
+    facts: {"de": ["Wichtig für den Trappenschutz.", "Beheimatet alte Haustierrassen."], "hu": ["Fontos túzokvédelmi terület.", "Ősi magyar állatfajták otthona."], "ro": ["Important pentru protecția dropiilor.", "Găzduiește rase vechi de animale."], "en": ["Important for great bustard protection.", "Home to ancient domestic animal breeds."]}
+  },
+  {
+    id: "oreg-bakony",
+    type: "landmark",
+    parent: "veszprem",
+    coords: [17.75, 47.25],
+    name: {"de": "Alter Bakony", "hu": "Öreg-Bakony", "ro": "Bakonyul Vechi", "en": "Old Bakony"},
+    image: "/geo-images/hungary/bakony.webp",
+    description: {"de": "Der Kern des Bakony-Waldes mit dichten Buchenwäldern.", "hu": "A Bakony-erdő szíve dús bükkösökkel és szurdokokkal.", "ro": "Nucleul pădurii Bakony cu făgete dese.", "en": "The core of the Bakony forest with dense beech woods."},
+    facts: {"de": ["Höchster Punkt ist der Kőris-hegy.", "Bekannt für seine Karstphänomene."], "hu": ["Legmagasabb pontja a Kőris-hegy.", "Karsztjelenségeiről nevezetes."], "ro": ["Cel mai înalt punct este Kőris-hegy.", "Cunoscut pentru fenomenele carstice."], "en": ["Highest point is Kőris-hegy.", "Known for its karst phenomena."]}
+  },
+  {
+    id: "zempleni-hegyseg-b2",
+    type: "landmark",
+    parent: "borsod-abauj-zemplen",
+    coords: [21.40, 48.40],
+    name: {"de": "Zemplén-Gebirge", "hu": "Zempléni-hegység", "ro": "Munții Zemplén", "en": "Zemplén Mountains"},
+    image: "/geo-images/hungary/zemplen.webp",
+    description: {"de": "Abgelegenes, vulkanisches Gebirge mit vielen Burgen im Nordosten.", "hu": "Északkeleti vulkanikus hegység vadregényes várakkal.", "ro": "Munți vulcanici izolați cu multe cetăți în nord-est.", "en": "Remote volcanic mountains with many castles in the northeast."},
+    facts: {"de": ["Heimat der Tokajer Weine.", "Reich an vulkanischen Formen."], "hu": ["A tokaji borok hazája.", "Vulkanikus formákban gazdag."], "ro": ["Casa vinurilor de Tokaj.", "Bogați în forme vulcanice."], "en": ["Home of the Tokaj wines.", "Rich in volcanic formations."]}
+  },
+  {
+    id: "pilis-hegyseg",
+    type: "landmark",
+    parent: "pest",
+    coords: [18.90, 47.70],
+    name: {"de": "Pilis-Gebirge", "hu": "Pilis hegység", "ro": "Munții Pilis", "en": "Pilis Mountains"},
+    image: "/geo-images/hungary/pilis.webp",
+    description: {"de": "Wanderparadies nahe Budapest mit Aussichtstürmen und Höhlen.", "hu": "Budapest közeli hegység kilátókkal és barlangokkal.", "ro": "Paradis al drumețiilor lângă Budapesta cu turnuri și peșteri.", "en": "Hiking paradise near Budapest with lookout towers and caves."},
+    facts: {"de": ["Höchster Gipfel ist der Pilis-tető.", "Gilt als spirituelles Zentrum."], "hu": ["Legmagasabb pontja a Pilis-tető.", "Sokan spirituális központnak tartják."], "ro": ["Cel mai înalt vârf este Pilis-tető.", "Considerat un centru spiritual."], "en": ["Highest peak is Pilis-tető.", "Considered a spiritual center."]}
+  },
+  {
+    id: "vertes-hegyseg",
+    type: "landmark",
+    parent: "fejer",
+    coords: [18.40, 47.40],
+    name: {"de": "Vértes-Gebirge", "hu": "Vértes hegység", "ro": "Munții Vértes", "en": "Vértes Mountains"},
+    image: "/geo-images/hungary/vertes.webp",
+    description: {"de": "Karstgebirge in Transdanubien mit Ruinen und Wäldern.", "hu": "Dunántúli karszthegység várromokkal és sűrű erdőkkel.", "ro": "Munți carstici în Transdanubia cu ruine și păduri.", "en": "Karst mountains in Transdanubia with ruins and forests."},
+    facts: {"de": ["Wichtige historische Schlachtfelder.", "Reich an Bauxitvorkommen."], "hu": ["Fontos történelmi csaták helyszíne.", "Bauxitlelőhelyekben gazdag."], "ro": ["Locul unor importante bătălii istorice.", "Bogați în zăcăminte de bauxită."], "en": ["Site of important historical battles.", "Rich in bauxite deposits."]}
+  },
+  {
+    id: "gemenc-arter-b2",
+    type: "landmark",
+    parent: "tolna",
+    coords: [18.85, 46.25],
+    name: {"de": "Gemenc-Aue", "hu": "Gemenc ártér", "ro": "Lunca Gemenc", "en": "Gemenc Floodplain"},
+    image: "/geo-images/hungary/gemenc.webp",
+    description: {"de": "Einzigartiger Auenwald an der Donau mit reicher Fauna.", "hu": "Egyedülálló ártéri erdő a Duna mentén, vadon élő állatokkal.", "ro": "Pădure de luncă unică pe Dunăre cu o faună bogată.", "en": "Unique floodplain forest along the Danube with rich fauna."},
+    facts: {"de": ["Berühmt für Rotwildbestände.", "Besitzt eine Schmalspurbahn."], "hu": ["Híres a gímszarvas állományáról.", "Erdei kisvasút fut át rajta."], "ro": ["Faimoasă pentru cerbi.", "Are o cale ferată cu ecartament îngust."], "en": ["Famous for its red deer population.", "Has a narrow-gauge forest railway."]}
+  },
+  {
+    id: "debreceni-allatkert",
+    type: "landmark",
+    parent: "hajdu-bihar",
+    coords: [21.638, 47.552],
+    name: {"de": "Zoo Debrecen", "hu": "Debreceni Állatkert", "ro": "Grădina Zoologică Debrețin", "en": "Debrecen Zoo"},
+    image: "/geo-images/hungary/debrecen-zoo.webp",
+    description: {"de": "Ungarns erster Zoo außerhalb von Budapest, im Großen Wald gelegen.", "hu": "Az ország első vidéki állatkertje a Nagyerdő szívében.", "ro": "Prima grădină zoologică provincială din Ungaria, în Pădurea Mare.", "en": "Hungary's first provincial zoo, located in the Great Forest."},
+    facts: {"de": ["Verbunden mit einem Vergnügungspark.", "Spezialisiert auf exotische Vögel."], "hu": ["Vidámparkkal van összekapcsolva.", "Különleges madárfajokat is bemutat."], "ro": ["Conectată cu un parc de distracții.", "Specializată în păsări exotice."], "en": ["Connected with an amusement park.", "Specializes in exotic bird species."]}
+  },
+  {
+    id: "nyiregyhazi-allatkert",
+    type: "landmark",
+    parent: "szabolcs-szatmar-bereg",
+    coords: [21.724, 48.006],
+    name: {"de": "Sóstó Zoo", "hu": "Nyíregyházi Állatkert", "ro": "Grădina Zoologică Nyíregyháza", "en": "Nyíregyháza Zoo"},
+    image: "/geo-images/hungary/nyiregyhaza-zoo.webp",
+    description: {"de": "Preisgekrönter Tierpark mit naturnahen Gehegen und Ozeanarium.", "hu": "Világszínvonalú állatpark óceanáriummal a Sóstó partján.", "ro": "Parc zoologic premiat cu habitate naturale și oceanariu.", "en": "Award-winning zoo with natural habitats and an oceanarium."},
+    facts: {"de": ["Gilt als einer der besten Europas.", "Beherbergt seltene weiße Tiger."], "hu": ["Európa egyik legjobb állatkertje.", "Ritka fehér tigrisek is élnek itt."], "ro": ["Considerată una dintre cele mai bune din Europa.", "Găzduiește rari tigri albi."], "en": ["Considered one of the best in Europe.", "Home to rare white tigers."]}
+  },
+  {
+    id: "tropicarium-budapest",
+    type: "landmark",
+    parent: "budapest",
+    coords: [19.017, 47.410],
+    name: {"de": "Tropicarium", "hu": "Tropicarium Budapest", "ro": "Tropicarium Budapesta", "en": "Tropicarium Budapest"},
+    image: "/geo-images/hungary/tropicarium.webp",
+    description: {"de": "Das 'Haifisch-Zoo' in Budapest mit einem riesigen Glastunnel.", "hu": "A 'cápás állatkert' hatalmas víz alatti alagúttal.", "ro": "'Grădina zoologică cu rechini' din Budapesta cu un tunel de sticlă.", "en": "The 'shark zoo' in Budapest with a massive glass tunnel."},
+    facts: {"de": ["Hat ein echtes Regenwald-Erlebnis.", "Man kann Haifütterungen sehen."], "hu": ["Valódi esőerdő élményt nyújt.", "Látványos cápaetetések helyszíne."], "ro": ["Oferă o experiență de junglă tropicală.", "Se pot vedea hrăniri de rechini."], "en": ["Provides a real rainforest experience.", "Spectacular shark feedings can be viewed."]}
+  },
+  {
+    id: "miskolctapolca-barlangfurdo",
+    type: "landmark",
+    parent: "borsod-abauj-zemplen",
+    coords: [20.744, 48.061],
+    name: {"de": "Höhlenbad Miskolctapolca", "hu": "Miskolctapolca Barlangfürdő", "ro": "Baia în Peșteră Miskolctapolca", "en": "Miskolctapolca Cave Bath"},
+    image: "/geo-images/hungary/barlangfurdo.webp",
+    description: {"de": "Einzigartiges Thermalbad in einer natürlichen Höhle.", "hu": "Egyedülálló gyógyfürdő természetes barlangjáratokban.", "ro": "Baie termală unică într-o peșteră naturală.", "en": "Unique thermal bath located in a natural cave system."},
+    facts: {"de": ["Angenehme 30 Grad Wassertemperatur.", "Heilklimatische Wirkung der Luft."], "hu": ["Kellemes, 30 fokos termálvíz.", "A barlang levegője gyógyhatású."], "ro": ["Temperatură plăcută de 30 de grade.", "Efect curativ al aerului din peșteră."], "en": ["Pleasant 30-degree water temperature.", "Therapeutic effect of the cave air."]}
+  },
+  {
+    id: "mohacsi-busojaras-poi",
+    type: "landmark",
+    parent: "baranya",
+    coords: [18.683, 45.991],
+    name: {"de": "Busójárás-Ort", "hu": "Mohácsi Busójárás helye", "ro": "Locul Busójárás", "en": "Mohács Busójárás Site"},
+    image: "/geo-images/hungary/mohacs-busojaras.webp",
+    description: {"de": "Ort der berühmten Winteraustreibung mit gruseligen Masken.", "hu": "A télűző Busójárás helyszíne, UNESCO világörökség.", "ro": "Locul faimosului ritual de alungare a iernii cu măști.", "en": "Site of the famous winter expulsion ritual with scary masks."},
+    facts: {"de": ["UNESCO-Weltkulturerbe.", "Findet jährlich im Februar statt."], "hu": ["Az UNESCO szellemi örökség része.", "Évente februárban rendezik meg."], "ro": ["Patrimoniu cultural UNESCO.", "Are loc anual în februarie."], "en": ["UNESCO Cultural Heritage.", "Takes place annually in February."]}
+  },
+  {
+    id: "zsolnay-negyed",
+    type: "landmark",
+    parent: "baranya",
+    coords: [18.243, 46.084],
+    name: {"de": "Zsolnay-Viertel", "hu": "Zsolnay Kulturális Negyed", "ro": "Cartierul Zsolnay", "en": "Zsolnay Cultural Quarter"},
+    image: "/geo-images/hungary/zsolnay-negyed.webp",
+    description: {"de": "Wunderschön restauriertes Fabrikareal mit Porzellankunst.", "hu": "Pécs ékköve, a világhírű porcelángyár felújított területe.", "ro": "Zonă industrială restaurată superb cu artă din porțelan.", "en": "Beautifully restored factory area with world-famous ceramics."},
+    facts: {"de": ["Heimat der Eosin-Keramik.", "Beherbergt Museen und Ateliers."], "hu": ["Az eozin mázas kerámia hazája.", "Múzeumoknak és műhelyeknek ad otthont."], "ro": ["Casa ceramicii de tip eozină.", "Găzduiește muzee și ateliere."], "en": ["Home of the eosin-glazed ceramics.", "Houses museums and art studios."]}
+  },
+  {
+    id: "szegedi-dom",
+    type: "landmark",
+    parent: "csongrad-csanad",
+    coords: [20.148, 46.248],
+    name: {"de": "Votivkirche Szeged", "hu": "Szegedi Dóm", "ro": "Catedrala din Seghedin", "en": "Votive Church of Szeged"},
+    image: "/geo-images/hungary/szeged-dom.webp",
+    description: {"de": "Monumentale neoromanische Kathedrale am Domplatz von Szeged.", "hu": "Monumentális neoromán dóm a Napfény városának szívében.", "ro": "Catedrală neoromanică monumentală în Piața Domului.", "en": "Monumental Neo-Romanesque cathedral on Szeged's Dome Square."},
+    facts: {"de": ["Nach dem großen Hochwasser erbaut.", "Besitzt eine der größten Orgeln."], "hu": ["A nagy árvíz utáni fogadalomból épült.", "Az ország egyik legnagyobb orgonája van itt."], "ro": ["Construită după marea inundație.", "Are una dintre cele mai mari orgi."], "en": ["Built after the great flood.", "Houses one of the largest organs."]}
+  },
+  {
+    id: "pannonhalmi-leveltar",
+    type: "landmark",
+    parent: "gyor-moson-sopron",
+    coords: [17.761, 47.554],
+    name: {"de": "Archiv Pannonhalma", "hu": "Pannonhalmi Apátsági Levéltár", "ro": "Arhiva Pannonhalma", "en": "Pannonhalma Abbey Archives"},
+    image: "/geo-images/hungary/pannonhalma-archives.webp",
+    description: {"de": "Bedeutendes Archiv mit dem ältesten ungarischen Schriftstück.", "hu": "Történelmi levéltár a legősibb magyar nyelvemlékkel.", "ro": "Arhivă importantă cu cel mai vechi document scris maghiar.", "en": "Significant archive with the oldest Hungarian written record."},
+    facts: {"de": ["Teil der Benediktinerabtei.", "Bewahrt die Tihanyer Stiftungsurkunde."], "hu": ["A bencés főapátság része.", "Itt őrzik a tihanyi alapítólevelet."], "ro": ["Parte a abației benedictine.", "Păstrează documentul de fondare din Tihany."], "en": ["Part of the Benedictine Abbey.", "Preserves the Tihany founding charter."]}
+  },
+  {
+    id: "magyar-nemzeti-galeria-poi",
+    type: "landmark",
+    parent: "budapest",
+    coords: [19.039, 47.496],
+    name: {"de": "Nationalgalerie", "hu": "Magyar Nemzeti Galéria", "ro": "Galeria Națională", "en": "Hungarian National Gallery"},
+    image: "/geo-images/hungary/nemzeti-galeria.webp",
+    description: {"de": "Die größte Sammlung ungarischer bildender Kunst im Budaer Schloss.", "hu": "A legjelentősebb hazai képzőművészeti gyűjtemény a Várban.", "ro": "Cea mai mare colecție de artă maghiară în Castelul Buda.", "en": "The largest collection of Hungarian fine arts in Buda Castle."},
+    facts: {"de": ["Präsentiert Kunst vom Mittelalter.", "Befindet sich im ehemaligen Palast."], "hu": ["Középkortól napjainkig mutatja be a művészetet.", "A volt Királyi Palota épületében található."], "ro": ["Prezintă artă din Evul Mediu.", "Se află în fostul Palat Regal."], "en": ["Presents art from the Middle Ages.", "Located in the former Royal Palace."]}
+  },
+  {
+    id: "corvin-negyed-poi",
+    type: "landmark",
+    parent: "budapest",
+    coords: [19.073, 47.486],
+    name: {"de": "Corvin-Viertel", "hu": "Corvin Negyed", "ro": "Cartierul Corvin", "en": "Corvin Quarter"},
+    image: "/geo-images/hungary/corvin-negyed.webp",
+    description: {"de": "Modernes Stadtviertel mit historischem Erbe in Budapest.", "hu": "Budapest modern, megújult városrésze történelmi emlékekkel.", "ro": "Cartier urban modern cu moștenire istorică în Budapesta.", "en": "Modern urban district with historical heritage in Budapest."},
+    facts: {"de": ["Bekannt für die Corvin-Promenade.", "Stätte wichtiger 1956er Kämpfe."], "hu": ["Híres a Corvin-sétányról.", "Az 1956-os harcok egyik fontos helyszíne."], "ro": ["Cunoscut pentru promenada Corvin.", "Locul unor lupte importante din 1956."], "en": ["Known for the Corvin Promenade.", "Site of important 1956 battles."]}
   }
-
 ];
 
 export const hungaryAllPoi: POI[] = [
