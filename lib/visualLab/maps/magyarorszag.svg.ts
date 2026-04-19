@@ -1,23 +1,6 @@
 export const magyarorszagViewBox = "0 0 500 350";
 
-export const HUNGARY_PROJECTION = {
-  minLon: 16.0,
-  maxLon: 23.0,
-  minLat: 45.7,
-  maxLat: 48.6,
-  latStretch: 1.4,
-  scale: 51,
-  offX: 0,
-  offY: 100,
-};
-
-export function projectCoordsHU(lon: number, lat: number): [number, number] {
-  const p = HUNGARY_PROJECTION;
-  const x = p.offX + (lon - p.minLon) * p.latStretch * p.scale;
-  const y = p.offY + (p.maxLat - lat) * p.scale;
-  return [Math.round(x * 100) / 100, Math.round(y * 100) / 100];
-}
-
+// Projection params Wikipedia magyar-térkép alapján kalibrálva (Gemini batch b3550a6019)
 export const HUNGARY_PROJECTION = {
   minLon: 16.11,
   maxLon: 22.90,
