@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { X, Map, Globe2, Landmark, Star } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
 import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
+import { EuropeMap } from "./EuropeMap";
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
 import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame";
 import SignalRunnerGame from "@/app/astro-sachkunde/visual-lab/games/SignalRunnerGame";
@@ -98,6 +99,7 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Visual Lab",
     subtitle: "Visuelle Lernspiele & Karten",
     pickGame: "Spiel wählen",
+    europeMap: "Europa Karte",
     deutschlandMap: "Deutschland Karte",
     formulaBlitz: "Formel Blitz ⚡",
     meteorCatch: "Sternenfang",
@@ -127,6 +129,7 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Vizuális Labor",
     subtitle: "Vizuális tanulójátékok és térképek",
     pickGame: "Válassz játékot",
+    europeMap: "Európa térkép",
     deutschlandMap: "Németország térkép",
     formulaBlitz: "Képlet Blitz ⚡",
     meteorCatch: "Csillagfogó",
@@ -144,6 +147,7 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Laborator Vizual",
     subtitle: "Jocuri vizuale & hărți",
     pickGame: "Alege jocul",
+    europeMap: "Harta Europei",
     deutschlandMap: "Harta României",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Prinde meteorii",
@@ -173,6 +177,7 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Visual Lab",
     subtitle: "Visual learning games & maps",
     pickGame: "Pick a game",
+    europeMap: "Europe Map",
     deutschlandMap: "Germany Map",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Meteor Catch",
@@ -194,6 +199,7 @@ const T: Record<Lang, Record<string, string>> = {
 
 const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
   sachkunde: [
+    { id: "europe-map", type: "map", labelKey: "europeMap", available: true },
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
@@ -204,6 +210,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "fact-swipe", type: "spotter", labelKey: "factSwipe", available: true },
   ],
   geographie: [
+    { id: "europe-map", type: "map", labelKey: "europeMap", available: true },
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
@@ -212,6 +219,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   geschichte: [
+    { id: "europe-map", type: "map", labelKey: "europeMap", available: true },
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
@@ -282,6 +290,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   biologie: [
+    { id: "europe-map", type: "map", labelKey: "europeMap", available: true },
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
@@ -395,10 +404,12 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
   const router = useRouter();
   const searchParams = useSearchParams();
   const [activeGame, setActiveGame] = useState<string | null>(null);
+  const [forcedLang, setForcedLang] = useState<Lang | null>(null);
   const t = T[lang] ?? T.en;
   const games = SUBJECT_GAMES[subject] ?? [];
   const vlabPoiId = searchParams?.get("vlab");
-  const isForcedOpen = Boolean(vlabPoiId);
+  const gameParam = searchParams?.get("game");
+  const isForcedOpen = Boolean(vlabPoiId || gameParam);
   const isOpen = open || isForcedOpen;
 
   // Lock body scroll while open
@@ -413,15 +424,18 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
   }, [isOpen]);
 
   useEffect(() => {
-    if (vlabPoiId) {
+    if (gameParam) {
+      setActiveGame(gameParam);
+    } else if (vlabPoiId) {
       setActiveGame("deutschland-map");
     }
-  }, [vlabPoiId]);
+  }, [vlabPoiId, gameParam]);
 
   const handleClose = () => {
     if (isForcedOpen) {
       const params = new URLSearchParams(searchParams?.toString() ?? "");
       params.delete("vlab");
+      params.delete("game");
       const next = params.toString();
       router.replace(next ? `?${next}` : window.location.pathname, { scroll: false });
     }
@@ -469,9 +483,12 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
                 subject={subject}
                 grade={grade}
                 lang={lang}
+                forcedLang={forcedLang}
+                setForcedLang={setForcedLang}
                 t={t}
                 initialPoiId={vlabPoiId}
-                onBack={() => setActiveGame(null)}
+                onBack={() => { setActiveGame(null); setForcedLang(null); }}
+                onPickGame={(id) => setActiveGame(id)}
               />
             )}
           </div>
@@ -563,17 +580,23 @@ function GameHost({
   subject,
   grade,
   lang,
+  forcedLang,
+  setForcedLang,
   t,
   initialPoiId,
   onBack,
+  onPickGame,
 }: {
   gameId: string;
   subject: VisualLabSubject;
   grade: number;
   lang: Lang;
+  forcedLang: Lang | null;
+  setForcedLang: (l: Lang | null) => void;
   t: Record<string, string>;
   initialPoiId?: string | null;
   onBack: () => void;
+  onPickGame: (id: string) => void;
 }) {
   return (
     <div className="max-w-3xl mx-auto">
@@ -591,17 +614,17 @@ function GameHost({
       ) : subject === "informatika" ? (
         <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => setTimeout(onBack, 2500)} />
       ) : subject === "geographie" ? (
-        <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
+        <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} forcedLang={forcedLang} setForcedLang={setForcedLang} initialPoiId={initialPoiId} tSoon={t.soon} onPickGame={onPickGame} />
       ) : subject === "physik" ? (
         <PhysikGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "kemia" ? (
         <KemiaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "biologie" ? (
-        <BiologieGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
+        <BiologieGameSwitch gameId={gameId} grade={grade} lang={lang} forcedLang={forcedLang} setForcedLang={setForcedLang} tSoon={t.soon} onPickGame={onPickGame} />
       ) : subject === "geschichte" ? (
-        <GeschichteGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
+        <GeschichteGameSwitch gameId={gameId} grade={grade} lang={lang} forcedLang={forcedLang} setForcedLang={setForcedLang} tSoon={t.soon} onPickGame={onPickGame} />
       ) : (
-        <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
+        <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} forcedLang={forcedLang} setForcedLang={setForcedLang} initialPoiId={initialPoiId} tSoon={t.soon} onPickGame={onPickGame} />
       )}
     </div>
   );
@@ -752,17 +775,38 @@ function SachkundeGameSwitch({
   gameId,
   grade,
   lang,
+  forcedLang,
+  setForcedLang,
   initialPoiId,
   tSoon,
+  onPickGame,
 }: {
   gameId: string;
   grade: number;
   lang: Lang;
+  forcedLang: Lang | null;
+  setForcedLang: (l: Lang | null) => void;
   initialPoiId?: string | null;
   tSoon: string;
+  onPickGame: (id: string) => void;
 }) {
+  if (gameId === "europe-map") {
+    return (
+      <EuropeMap
+        lang={lang}
+        onCountryClick={(id) => {
+          if (["DE", "HU", "RO"].includes(id)) {
+            setForcedLang(id.toLowerCase() as Lang);
+            onPickGame("deutschland-map");
+          } else {
+            alert("Coming soon!");
+          }
+        }}
+      />
+    );
+  }
   if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="sachkunde" grade={grade} initialPoiId={initialPoiId} />;
+    return <InteractiveMap lang={forcedLang ?? lang} subject="sachkunde" grade={grade} initialPoiId={initialPoiId} />;
   }
   const pool = SACHKUNDE_POOLS[grade];
   if (!pool) {
@@ -817,12 +861,27 @@ function localizeDeep(obj: any, lang: string): any {
 }
 
 function GeographieGameSwitch({
-  gameId, grade, lang, initialPoiId, tSoon,
+  gameId, grade, lang, forcedLang, setForcedLang, initialPoiId, tSoon, onPickGame,
 }: {
-  gameId: string; grade: number; lang: Lang; initialPoiId?: string | null; tSoon: string;
+  gameId: string; grade: number; lang: Lang; forcedLang: Lang | null; setForcedLang: (l: Lang | null) => void; initialPoiId?: string | null; tSoon: string; onPickGame: (id: string) => void;
 }) {
+  if (gameId === "europe-map") {
+    return (
+      <EuropeMap
+        lang={lang}
+        onCountryClick={(id) => {
+          if (["DE", "HU", "RO"].includes(id)) {
+            setForcedLang(id.toLowerCase() as Lang);
+            onPickGame("deutschland-map");
+          } else {
+            alert("Coming soon!");
+          }
+        }}
+      />
+    );
+  }
   if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="geographie" grade={grade} initialPoiId={initialPoiId} />;
+    return <InteractiveMap lang={forcedLang ?? lang} subject="geographie" grade={grade} initialPoiId={initialPoiId} />;
   }
   const pool = GEOGRAPHY_POOLS;
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
@@ -922,12 +981,27 @@ function KemiaGameSwitch({
 }
 
 function BiologieGameSwitch({
-  gameId, grade, lang, tSoon,
+  gameId, grade, lang, forcedLang, setForcedLang, tSoon, onPickGame,
 }: {
-  gameId: string; grade: number; lang: Lang; tSoon: string;
+  gameId: string; grade: number; lang: Lang; forcedLang: Lang | null; setForcedLang: (l: Lang | null) => void; tSoon: string; onPickGame: (id: string) => void;
 }) {
+  if (gameId === "europe-map") {
+    return (
+      <EuropeMap
+        lang={lang}
+        onCountryClick={(id) => {
+          if (["DE", "HU", "RO"].includes(id)) {
+            setForcedLang(id.toLowerCase() as Lang);
+            onPickGame("deutschland-map");
+          } else {
+            alert("Coming soon!");
+          }
+        }}
+      />
+    );
+  }
   if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="geographie" grade={grade} />;
+    return <InteractiveMap lang={forcedLang ?? lang} subject="geographie" grade={grade} />;
   }
   const pool = BIOLOGIE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
@@ -958,12 +1032,27 @@ function BiologieGameSwitch({
 }
 
 function GeschichteGameSwitch({
-  gameId, grade, lang, tSoon,
+  gameId, grade, lang, forcedLang, setForcedLang, tSoon, onPickGame,
 }: {
-  gameId: string; grade: number; lang: Lang; tSoon: string;
+  gameId: string; grade: number; lang: Lang; forcedLang: Lang | null; setForcedLang: (l: Lang | null) => void; tSoon: string; onPickGame: (id: string) => void;
 }) {
+  if (gameId === "europe-map") {
+    return (
+      <EuropeMap
+        lang={lang}
+        onCountryClick={(id) => {
+          if (["DE", "HU", "RO"].includes(id)) {
+            setForcedLang(id.toLowerCase() as Lang);
+            onPickGame("deutschland-map");
+          } else {
+            alert("Coming soon!");
+          }
+        }}
+      />
+    );
+  }
   if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="geschichte" grade={grade} />;
+    return <InteractiveMap lang={forcedLang ?? lang} subject="geschichte" grade={grade} />;
   }
   const pool = GESCHICHTE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
