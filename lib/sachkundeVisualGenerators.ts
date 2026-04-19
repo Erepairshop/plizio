@@ -11,6 +11,8 @@ import MuellSortierung from "@/components/sachkunde-visual/MuellSortierung";
 import VerkehrszeichenQuiz from "@/components/sachkunde-visual/VerkehrszeichenQuiz";
 import JahreszeitenBild from "@/components/sachkunde-visual/JahreszeitenBild";
 import TierErkennen from "@/components/sachkunde-visual/TierErkennen";
+import WetterErkennen from "@/components/sachkunde-visual/WetterErkennen";
+import WasserkreislaufOrdnen from "@/components/sachkunde-visual/WasserkreislaufOrdnen";
 
 // ─── DATA POOLS ─────────────────────────────────────────────────────────────────
 
@@ -351,6 +353,97 @@ const TIER_ERKENNEN: VisualQuestionType = {
   renderPrint: (q) => `Welches Tier ist das? → ${q.options[q.correctIndex]}`,
 };
 
+// ─── WETTER ERKENNEN (K3-K4) ────────────────────────────────────────────────────
+
+const WETTER_ERKENNEN: VisualQuestionType = {
+  type: "wetter-erkennen",
+  label: "Wetter erkennen 🌤",
+  printLabel: "Wetter erkennen",
+  component: WetterErkennen,
+  subtopicIds: ["wetter", "klima", "wetter_k3", "wetter_k4"],
+  generate: (count) => {
+    const questions = [];
+    const weathers = [
+      { svgName: "WolkenSvg", correct: "Wolken" },
+      { svgName: "RegenSvg", correct: "Regen" },
+      { svgName: "SchneeSvg", correct: "Schnee" },
+      { svgName: "GewitterSvg", correct: "Gewitter" },
+      { svgName: "WindSvg", correct: "Wind" },
+      { svgName: "SonnenblumeSvg", correct: "Sonnenblume" },
+    ];
+    for (let i = 0; i < count; i++) {
+      const weather = pick(weathers);
+      const options = shuffle(["Wolken", "Regen", "Schnee", "Gewitter", "Wind", "Sonnenblume"]).slice(0, 4);
+      if (!options.includes(weather.correct)) {
+        options[0] = weather.correct;
+      }
+      const finalOptions = shuffle(options);
+      const correctIndex = finalOptions.indexOf(weather.correct);
+      questions.push({
+        svgName: weather.svgName,
+        correct: weather.correct,
+        options: finalOptions,
+        correctIndex,
+        question: "Welches Wetter ist hier?",
+      });
+    }
+    return questions;
+  },
+  gradeAnswer: (q, given) => {
+    const correct = given === q.options[q.correctIndex];
+    return { correct, expected: q.options[q.correctIndex] };
+  },
+  mapProps: (q, userAnswer, submitted, onAnswer) => ({
+    svgName: q.svgName,
+    options: q.options,
+    correctIndex: q.correctIndex,
+    userAnswer,
+    submitted,
+    onAnswer,
+  }),
+  renderPrint: (q) => `Welches Wetter ist hier? → ${q.options[q.correctIndex]}`,
+};
+
+// ─── WASSERKREISLAUF ORDNEN (K3-K4) ─────────────────────────────────────────────
+
+const WASSERKREISLAUF_ORDNEN: VisualQuestionType = {
+  type: "wasserkreislauf-ordnen",
+  label: "Wasserkreislauf 💧",
+  printLabel: "Wasserkreislauf ordnen",
+  component: WasserkreislaufOrdnen,
+  subtopicIds: ["wasserkreislauf", "wasser", "wasser_k3", "wasser_k4"],
+  generate: (count) => {
+    const questions = [];
+    for (let i = 0; i < count; i++) {
+      questions.push({
+        stages: ["Verdunstung", "Kondensation", "Niederschlag", "Fluss"],
+        correctOrder: ["Verdunstung", "Kondensation", "Niederschlag", "Fluss"],
+        stageSvgs: {
+          Verdunstung: "VerdunstungSvg",
+          Kondensation: "KondensationSvg",
+          Niederschlag: "NiederschlagSvg",
+          Fluss: "FlussSvg",
+        },
+        question: "Ordne die Phasen des Wasserkreislaufs.",
+      });
+    }
+    return questions;
+  },
+  gradeAnswer: (q, given) => {
+    const correct = given === q.correctOrder.join(",");
+    return { correct, expected: q.correctOrder.join(",") };
+  },
+  mapProps: (q, userAnswer, submitted, onAnswer) => ({
+    stages: q.stages,
+    correctOrder: q.correctOrder,
+    stageSvgs: q.stageSvgs,
+    userAnswer,
+    submitted,
+    onAnswer,
+  }),
+  renderPrint: (q) => `Ordne die Phasen des Wasserkreislaufs. → ${q.correctOrder.join(" → ")}`,
+};
+
 // ─── EXPORT ─────────────────────────────────────────────────────────────────────
 
 export const SACHKUNDE_VISUAL_TYPES: VisualQuestionType[] = [
@@ -361,4 +454,6 @@ export const SACHKUNDE_VISUAL_TYPES: VisualQuestionType[] = [
   VERKEHRSZEICHEN_QUIZ,
   JAHRESZEITEN_BILD,
   TIER_ERKENNEN,
+  WETTER_ERKENNEN,
+  WASSERKREISLAUF_ORDNEN,
 ];
