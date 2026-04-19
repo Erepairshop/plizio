@@ -1,5 +1,6 @@
 import { INFO_K5_CURRICULUM, getInfoK5Questions } from "./informatikaCurriculum5";
 import { buildAstroInformatikaIslands, buildInformatikaCheckpointMap } from "./astroInformatikaShared";
+import type { IslandDef } from "./astroInformatikaShared";
 export type { IslandDef, MissionDef, Lang, MissionCategory } from "./astroInformatikaShared";
 import {
   type AstroKemiaProgress,
