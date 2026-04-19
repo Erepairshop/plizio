@@ -109,7 +109,7 @@ def main():
         if not summary:
             fail += 1
             continue
-        img_url = (summary.get("originalimage") or summary.get("thumbnail") or {}).get("source")
+        img_url = (summary.get("thumbnail") or {}).get("source")
         if not img_url:
             print("  ! no image in summary")
             fail += 1
@@ -125,7 +125,7 @@ def main():
         except Exception as e:
             print(f"  ! webp save fail: {e}")
             fail += 1
-        time.sleep(2.0)  # be polite to Wikimedia
+        time.sleep(5.0)  # be polite to Wikimedia
     print(f"\nDONE. ok={ok} fail={fail} out={OUT_DIR}")
 
 
