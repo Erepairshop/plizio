@@ -657,20 +657,22 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     }
 
     // Build regular groups round-robin (non-visual only)
+    const regularGroups: TestQuestion[][] = [];
     for (let g2 = 0; g2 < groupCount; g2++) {
       const sid = ids[g2 % ids.length];
       const pool = regularPools[sid] ?? [];
       const start = ptr[sid] ?? 0;
+      const group: TestQuestion[] = [];
       for (let k = 0; k < 3; k++) {
         const idx = (start + k) % Math.max(pool.length, 1);
-        if (pool[idx]) allQs.push({ ...pool[idx] });
+        if (pool[idx]) group.push({ ...pool[idx] });
       }
       ptr[sid] = (start + 3) % Math.max(pool.length, 1);
+      if (group.length >= 3) regularGroups.push(group);
     }
 
-    // Append visual groups at end: group ALL visual questions by type, then batch 3-by-3
-    // This ensures each block of 3 sub-questions is homogeneous (same exercise type)
-    // Max 10 visual groups (30 questions) for a full visual-only test
+    // Build visual groups (max 10): group ALL visual questions by type, then batch 3-by-3
+    // Each block of 3 sub-questions is homogeneous (same exercise type)
     const visualByType: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
       for (const q of (visualPools[sid] ?? [])) {
@@ -678,10 +680,9 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
         visualByType[q.type].push(q);
       }
     }
-    let visualGroupsAdded = 0;
+    const visualGroups: TestQuestion[][] = [];
     for (const typeQs of Object.values(visualByType)) {
-      if (visualGroupsAdded >= 10) break;
-      // Shuffle, deduplicate by content
+      if (visualGroups.length >= 10) break;
       const shuffled = [...typeQs].sort(() => Math.random() - 0.5);
       const seen2 = new Set<string>();
       const unique = shuffled.filter(q => {
@@ -690,15 +691,19 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
         seen2.add(k);
         return true;
       });
-      // Split unique questions into groups of 3 (pad last group if needed)
-      for (let i = 0; i < unique.length && visualGroupsAdded < 10; i += 3) {
+      for (let i = 0; i < unique.length && visualGroups.length < 10; i += 3) {
         const group = unique.slice(i, i + 3);
         while (group.length < 3) group.push({ ...group[group.length - 1] });
-        if (group.length >= 3) {
-          allQs.push(...group);
-          visualGroupsAdded++;
-        }
+        if (group.length >= 3) visualGroups.push(group);
       }
+    }
+
+    // Interleave: 1 text Aufgabe, 1 visual Aufgabe, 1 text, 1 visual, ...
+    // If one list is longer, remainder appends at the end.
+    const maxLen = Math.max(regularGroups.length, visualGroups.length);
+    for (let i = 0; i < maxLen; i++) {
+      if (i < regularGroups.length) allQs.push(...regularGroups[i]);
+      if (i < visualGroups.length) allQs.push(...visualGroups[i]);
     }
 
     if (withLesetest) {
@@ -926,13 +931,13 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
       parts.push(`<div class="question-header"><span class="q-num">${qLabel}</span><span class="q-text">${isVisualBlock ? "" : q.question}</span></div>`);
 
       // Type-specific answer area
-      switch (q.type) {
+      switch (q.type as string) {
         case "mcq":
         case "bild-wort":
         case "anlaut-bild": {
-          const opts = q.options ?? [];
+          const opts = q.options ?? (q as any).words ?? [];
           parts.push(`<div class="options">`);
-          opts.forEach((opt, oi) => {
+          opts.forEach((opt: string, oi: number) => {
             const label = String.fromCharCode(65 + oi);
             parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
           });
@@ -943,45 +948,59 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           parts.push(`<div class="answer-line"></div>`);
           break;
         }
+        case "ro-genus-sortierung":
         case "genus-sort": {
           parts.push(`<div class="q-word">${q.word ?? ""}</div>`);
           parts.push(`<div class="options-inline">☐ der &nbsp;&nbsp;&nbsp; ☐ die &nbsp;&nbsp;&nbsp; ☐ das</div>`);
           break;
         }
+        case "en-sentence-order":
+        case "ro-satz-ordnen":
+        case "ro-satz-ordnen-avansat":
+        case "hu-mondat-rendezés":
+        case "hu-történet-rendezés":
         case "satz-ordnen": {
-          const chips = (q.shuffled ?? []).map(w => `<span class="word-chip">${w}</span>`).join(" ");
+          const chips = (q.shuffled ?? (q as any).shuffled ?? []).map((w: string) => `<span class="word-chip">${w}</span>`).join(" ");
           parts.push(`<div class="word-chips">${chips}</div>`);
           parts.push(`<div class="answer-line"></div>`);
           break;
         }
         case "bild-beschriften": {
-          const opts = q.options ?? [];
+          const opts = q.options ?? (q as any).words ?? [];
           parts.push(`<div class="q-word">${q.imageKey ?? ""}</div>`);
           parts.push(`<div class="options">`);
-          opts.forEach((opt, oi) => {
+          opts.forEach((opt: string, oi: number) => {
             const label = String.fromCharCode(65 + oi);
             parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
           });
           parts.push(`</div>`);
           break;
         }
+        case "en-find-error":
+        case "ro-fehler-finden":
+        case "ro-cratima-finden":
+        case "hu-hiba-keresés":
         case "fehler-finden": {
-          const words = q.words ?? [];
-          const numbered = words.map((w, wi) => `<span class="numbered-word">(${wi + 1}) ${w}</span>`).join(" ");
+          const words = q.words ?? (q as any).words ?? [];
+          const numbered = words.map((w: string, wi: number) => `<span class="numbered-word">(${wi + 1}) ${w}</span>`).join(" ");
           parts.push(`<div class="q-sentence">${numbered}</div>`);
           parts.push(`<div class="answer-line-short"><span class="answer-label">${labels.wrongWordNr ?? "Falsches Wort Nr.:"}</span> <span class="blank-line">______</span></div>`);
           break;
         }
+        case "en-word-families":
+        case "ro-wortfamilien-baum":
+        case "hu-szócsalád-fa":
         case "wortfamilien-baum": {
-          parts.push(`<div class="q-word">${labels.root ?? "Stamm:"} <strong>${q.stamm ?? ""}</strong></div>`);
-          const opts = q.options ?? [];
+          parts.push(`<div class="q-word">${labels.root ?? "Stamm:"} <strong>${q.stamm ?? (q as any).root ?? ""}</strong></div>`);
+          const opts = q.options ?? (q as any).words ?? [];
           parts.push(`<div class="options">`);
-          opts.forEach((opt) => {
+          opts.forEach((opt: string) => {
             parts.push(`<div class="option-row">☐ ${opt}</div>`);
           });
           parts.push(`</div>`);
           break;
         }
+        case "ro-geschichte-sortieren":
         case "geschichte-sortieren": {
           const sents = q.sentences ?? [];
           const shuffled = q.shuffledOrder ?? sents.map((_, i) => i);
@@ -993,22 +1012,24 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           parts.push(`</div>`);
           break;
         }
+        case "ro-wortarten-sortieren":
         case "wortarten-sortieren": {
-          const words = q.words ?? [];
-          const wordList = words.map(w => `<span class="word-chip">${w}</span>`).join(" ");
+          const words = q.words ?? (q as any).words ?? [];
+          const wordList = words.map((w: string) => `<span class="word-chip">${w}</span>`).join(" ");
           parts.push(`<div class="word-chips">${wordList}</div>`);
           parts.push(`<div class="hint-text">N = Nomen, V = Verb, A = Adjektiv</div>`);
           parts.push(`<div class="answer-line"></div>`);
           break;
         }
+        case "ro-zeitformen-zuordnen":
         case "zeitformen-zuordnen": {
           parts.push(`<div class="q-sentence">${q.sentence ?? q.question}</div>`);
           parts.push(`<div class="options-inline">☐ Präsens &nbsp;&nbsp;&nbsp; ☐ Präteritum &nbsp;&nbsp;&nbsp; ☐ Perfekt</div>`);
           break;
         }
         case "satzglied-markieren": {
-          const words = q.words ?? [];
-          const wordList = words.map(w => `<span class="word-chip">${w}</span>`).join(" ");
+          const words = q.words ?? (q as any).words ?? [];
+          const wordList = words.map((w: string) => `<span class="word-chip">${w}</span>`).join(" ");
           parts.push(`<div class="word-chips">${wordList}</div>`);
           parts.push(`<div class="hint-text">S = Subjekt, P = Prädikat, O = Objekt</div>`);
           parts.push(`<div class="answer-line"></div>`);
@@ -1029,12 +1050,14 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
           parts.push(`<div class="options-inline">☐ -e &nbsp;&nbsp;&nbsp; ☐ -er &nbsp;&nbsp;&nbsp; ☐ -es &nbsp;&nbsp;&nbsp; ☐ -en &nbsp;&nbsp;&nbsp; ☐ -em</div>`);
           break;
         }
+        case "ro-luecken-text":
+        case "hu-hiányos-szöveg":
         case "luecken-text": {
-          const lSentence = (q.lueckenSentence ?? "").replace("___", '<span class="blank-line">______</span>');
+          const lSentence = (q.lueckenSentence ?? (q as any).sentence ?? "").replace("___", '<span class="blank-line">______</span>');
           parts.push(`<div class="q-sentence">${lSentence}</div>`);
-          const lOpts = q.lueckenOptions ?? [];
+          const lOpts = q.lueckenOptions ?? (q as any).options ?? [];
           parts.push(`<div class="options">`);
-          lOpts.forEach((opt, oi) => {
+          lOpts.forEach((opt: string, oi: number) => {
             const label = String.fromCharCode(65 + oi);
             parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
           });
@@ -1063,6 +1086,128 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
             const label = String.fromCharCode(65 + oi);
             parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
           });
+          parts.push(`</div>`);
+          break;
+        }
+
+        case "pflanzen-anatomie":
+        case "organ-diagram":
+        case "zell-diagram":
+        case "kraft-richtung":
+        case "chemie-laborsymbol":
+        case "chemie-reaktion-oder-nicht":
+        case "chemie-trennmethode":
+        case "chemie-teilchenbild":
+        case "thermometer-ablesen":
+        case "verkehrszeichen-quiz":
+        case "hu-kép-felismerés": {
+          const emoji = (q as any).partEmoji ?? (q as any).organEmoji ?? (q as any).organelleEmoji ?? (q as any).objectEmoji ?? (q as any).sceneEmoji ?? (q as any).symbol ?? (q as any).imageKey ?? (q as any).sign ?? "🖼️";
+          const hint = (q as any).partHint ?? (q as any).organHint ?? (q as any).organelleHint ?? (q as any).prompt ?? (q as any).scenario ?? (q as any).label ?? "";
+          const opts = q.options ?? [];
+          parts.push(`<div class="visual-hint-box">`);
+          parts.push(`<div class="visual-emoji-box ${q.type.includes('organ') ? 'body' : q.type.includes('zell') ? 'cell' : q.type.includes('lebenszyklus') ? 'life' : q.type.includes('ernaehrung') ? 'nutrient' : ''}">${emoji}</div>`);
+          if (hint) parts.push(`<div class="visual-hint-text">${hint}</div>`);
+          parts.push(`</div>`);
+          if (opts.length > 0) {
+            parts.push(`<div class="visual-options-row">`);
+            opts.forEach((opt: string) => parts.push(`<span class="visual-option-chip">☐ ${opt}</span>`));
+            parts.push(`</div>`);
+          } else {
+             parts.push(`<div class="answer-line"></div>`);
+          }
+          break;
+        }
+
+        case "tier-klassifizierung-bio":
+        case "tier-klassifizierung": {
+          const animal = (q as any).animal ?? "";
+          parts.push(`<div class="q-word">${animal}</div>`);
+          parts.push(`<div class="visual-options-row">`);
+          if ((q as any).type === "tier-klassifizierung-bio") {
+             parts.push(`<span class="visual-option-chip">☐ Wirbeltier</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Wirbellos</span>`);
+          } else {
+             parts.push(`<span class="visual-option-chip">☐ Säugetier</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Vogel</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Fisch</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Reptil</span>`);
+             parts.push(`<span class="visual-option-chip">☐ Amphibie</span>`);
+          }
+          parts.push(`</div>`);
+          break;
+        }
+
+        case "organ-zuordnung":
+        case "sinne-zuordnung":
+        case "jahreszeit-zuordnung":
+        case "muell-sortierung":
+        case "ernaehrungs-sort": {
+          const item = (q as any).organ ?? (q as any).sense ?? (q as any).description ?? (q as any).item ?? "";
+          const opts = q.options ?? [];
+          parts.push(`<div class="q-word">${item}</div>`);
+          parts.push(`<div class="visual-options-row">`);
+          opts.forEach((opt: string) => parts.push(`<span class="visual-option-chip">☐ ${opt}</span>`));
+          parts.push(`</div>`);
+          break;
+        }
+
+        case "lebenszyklus-timeline":
+        case "nahrungskette-sort":
+        case "energie-kette": {
+          const title = (q as any).organism ?? (q as any).title ?? "";
+          const items = (q as any).stages ?? (q as any).organisms ?? [];
+          const emojis = (q as any).stageEmojis ?? {};
+          if (title) parts.push(`<div class="q-word">${title}</div>`);
+          parts.push(`<div class="hint-text">In die richtige Reihenfolge bringen:</div>`);
+          parts.push(`<div class="visual-order-row">`);
+          items.forEach((s: string) => parts.push(`<span class="visual-order-item"><span class="visual-order-num">___</span>${emojis[s] ?? ""} ${s}</span>`));
+          parts.push(`</div>`);
+          break;
+        }
+
+        case "stromkreis-diagramm": {
+          parts.push(`<div class="q-word">${(q as any).prompt ?? ""}</div>`);
+          const diagrams = (q as any).diagrams ?? [];
+          parts.push(`<div class="visual-options-row">`);
+          diagrams.forEach((d: any, i: number) => parts.push(`<span class="visual-option-chip">☐ Diagramm ${i+1}</span>`));
+          parts.push(`</div>`);
+          break;
+        }
+
+        case "hu-szófaj-sorter": {
+           parts.push(`<div class="q-word">${(q as any).word ?? ""}</div>`);
+           parts.push(`<div class="visual-options-row">`);
+           ((q as any).labels ?? []).forEach((l: string) => parts.push(`<span class="visual-option-chip">☐ ${l}</span>`));
+           parts.push(`</div>`);
+           break;
+        }
+
+        case "hu-mondatrész-jelölés": {
+           const chips = ((q as any).words ?? []).map((w: string) => `<span class="word-chip">${w}</span>`).join(" ");
+           parts.push(`<div class="word-chips">${chips}</div>`);
+           parts.push(`<div class="visual-options-row">`);
+           ((q as any).labels ?? []).forEach((l: string) => parts.push(`<span class="visual-option-chip">☐ ${l}</span>`));
+           parts.push(`</div>`);
+           break;
+        }
+
+        case "hu-toldalék-választó": {
+           parts.push(`<div class="q-word">${(q as any).root ?? ""}</div>`);
+           parts.push(`<div class="visual-options-row">`);
+           ((q as any).endings ?? []).forEach((l: string) => parts.push(`<span class="visual-option-chip">☐ -${l}</span>`));
+           parts.push(`</div>`);
+           break;
+        }
+
+        case "hu-eset-jelölés": {
+          const sentence = (q as any).sentence ?? "";
+          const highlight = (q as any).highlight ?? "";
+          const displaySent = highlight
+            ? sentence.replace(highlight, `<u><strong>${highlight}</strong></u>`)
+            : sentence;
+          parts.push(`<div class="q-sentence">${displaySent}</div>`);
+          parts.push(`<div class="visual-options-row">`);
+          ((q as any).labels ?? []).forEach((l: string) => parts.push(`<span class="visual-option-chip">☐ ${l}</span>`));
           parts.push(`</div>`);
           break;
         }
@@ -1270,6 +1415,38 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     @media print {
       body { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
     }
+
+    .visual-hint-box { display: flex; align-items: center; gap: 10px; margin: 4px 0 6px 28px; }
+    .visual-emoji-box {
+      width: 40px; height: 40px; border-radius: 8px;
+      background: rgba(16,185,129,0.08);
+      border: 2px solid rgba(16,185,129,0.22);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px; flex-shrink: 0;
+    }
+    .visual-emoji-box.body { background: rgba(239,68,68,0.08); border-color: rgba(239,68,68,0.22); }
+    .visual-emoji-box.cell { background: rgba(139,92,246,0.08); border-color: rgba(139,92,246,0.22); }
+    .visual-emoji-box.life { background: rgba(245,158,11,0.08); border-color: rgba(245,158,11,0.22); }
+    .visual-emoji-box.nutrient { background: rgba(219,39,119,0.08); border-color: rgba(219,39,119,0.22); }
+    .visual-hint-text { font-size: 10pt; color: #64748b; font-style: italic; line-height: 1.4; flex: 1; }
+    .visual-hint-label { font-size: 9pt; color: #475569; font-weight: 600; margin-bottom: 2px; }
+    .visual-options-row { margin-left: 28px; margin-top: 4px; display: flex; flex-wrap: wrap; gap: 6px; }
+    .visual-option-chip {
+      display: inline-flex; align-items: center; gap: 4px;
+      border: 1.5px solid #d1d5db; border-radius: 4px;
+      padding: 2px 8px; font-size: 10pt; background: rgba(255,255,255,0.9);
+    }
+    .visual-order-row { display: flex; gap: 8px; flex-wrap: wrap; margin: 6px 0 6px 28px; }
+    .visual-order-item {
+      display: inline-flex; align-items: center; gap: 4px;
+      border: 1.5px dashed #9ca3af; padding: 2px 8px; border-radius: 4px;
+      background: rgba(255,255,255,0.7); font-size: 10pt;
+    }
+    .visual-order-num {
+      border: 1.5px solid #9ca3af; border-radius: 3px;
+      min-width: 20px; text-align: center; font-size: 9pt; padding: 0 4px; background: white;
+    }
+
   </style>
 </head>
 <body>
