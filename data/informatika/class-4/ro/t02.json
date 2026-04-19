@@ -1,0 +1,331 @@
+{
+  "id": "info-c4-ro-t02",
+  "title": "Programare bazată pe blocuri",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 1)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 2)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 3)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 4)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 5)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 6)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 7)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 8)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 9)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 10)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 11)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 12)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 13)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 14)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 15)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 16)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 17)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 18)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 19)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 20)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 21)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 22)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 23)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 24)",
+      "options": [
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns greșit C (ex. închide fereastra)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "În Scratch, ce este important la: Programare bazată pe blocuri? (Întrebarea 25)",
+      "options": [
+        "Răspuns greșit A (ex. apasă semnul roșu pentru a începe)",
+        "Răspuns greșit B (ex. șterge personajul)",
+        "Răspuns corect pentru Programare bazată pe blocuri (ex. folosește steagul verde pentru a începe)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 1."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 2."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 3."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 4."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 5."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 6."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 7."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 8."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 9."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "În Scratch, folosim blocuri pentru a programa. Acesta este un text despre Programare bazată pe blocuri numărul 10."
+    }
+  ]
+}
