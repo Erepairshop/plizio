@@ -1,0 +1,297 @@
+{
+  "class": 2,
+  "theme": "Rajzprogram (Paint)",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 1)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 2)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 3)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 4)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 5)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 6)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 7)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 8)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 9)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 10)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 11)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 12)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 13)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 14)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 15)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 16)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 17)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 18)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 19)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 20)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 21)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 22)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 23)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 24)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Rajzprogram (Paint)? (Kérdés 25)",
+      "options": [
+        "A opció: Rajzprogram (Paint)",
+        "B opció: Rajzprogram (Paint)",
+        "C opció: Rajzprogram (Paint)"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 1"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 2"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 3"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 4"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 5"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 6"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 7"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 8"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 9"
+    },
+    {
+      "type": "typing",
+      "text": "Rajzprogram (Paint) nagyon jó 10"
+    }
+  ]
+}

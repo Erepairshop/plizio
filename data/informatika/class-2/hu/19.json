@@ -1,0 +1,297 @@
+{
+  "class": 2,
+  "theme": "Lomtár",
+  "language": "hu",
+  "tasks": [
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 1)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 2)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 3)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 4)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 5)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 6)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 7)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 8)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 9)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 10)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 11)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 12)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 13)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 14)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 15)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 16)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 17)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 18)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 19)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 20)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 21)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 22)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 23)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 24)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 0
+    },
+    {
+      "type": "mcq",
+      "question": "Mi a fontos itt: Lomtár? (Kérdés 25)",
+      "options": [
+        "A opció: Lomtár",
+        "B opció: Lomtár",
+        "C opció: Lomtár"
+      ],
+      "correct": 1
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 1"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 2"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 3"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 4"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 5"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 6"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 7"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 8"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 9"
+    },
+    {
+      "type": "typing",
+      "text": "Lomtár nagyon jó 10"
+    }
+  ]
+}
