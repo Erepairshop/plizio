@@ -8,6 +8,7 @@ import { K8_CURRICULUM, getK8Questions } from "@/lib/geographieCurriculum8";
 import { asCurriculumThemes } from "@/lib/geographieCurriculumShared";
 import "@/lib/geographieRegistration";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { GEOGRAPHIE_VISUAL_TYPES } from "@/lib/geographieVisualGenerators";
 import { useLang } from "@/components/LanguageProvider";
 
 const GEO_CHARS = ["🗺️", "🌍", "🧭", "⛰️", "🌊", "🌋", "🏞️", "🛰️", "🪨", "🧱", "🌦️", "🌴"];
@@ -34,6 +35,7 @@ function createGeoConfig(lang: string): LanguageTestEngineConfig {
   hideLesetest: true,
   bgChars: GEO_CHARS,
   bgColors: GEO_COLORS,
+  visualTypes: GEOGRAPHIE_VISUAL_TYPES,
   countries: [
     { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
     { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },

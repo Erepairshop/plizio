@@ -20,6 +20,7 @@ import OrganDiagram from "@/components/biologie-visual/OrganDiagram";
 import PflanzenAnatomie from "@/components/biologie-visual/PflanzenAnatomie";
 import ZellDiagram from "@/components/biologie-visual/ZellDiagram";
 import LebenszyklusTimeline from "@/components/biologie-visual/LebenszyklusTimeline";
+import DnaEvolutionErkennen from "@/components/biologie-visual/DnaEvolutionErkennen";
 
 // ─── HELPERS ────────────────────────────────────────────────────────────────
 
@@ -450,7 +451,49 @@ const LEBENSZYKLUS_TIMELINE: VisualQuestionType = {
   renderPrint: (q) => `${q.organism}: ${q.correctOrder.join(' → ')}`,
 };
 
+
+// ─── 9. DNA EVOLUTION ERKENNEN (K8) ──────────────────────────────────────────
+
+const DNA_EVOLUTION_DATA = [
+  { svgName: "DNAHelixSvg", correct: "DNA", options: ["DNA", "RNA", "Chromosom", "Zelle"] },
+  { svgName: "EvolutionSvg", correct: "Evolution", options: ["Evolution", "Wachstum", "Metamorphose", "Zellteilung"] },
+  { svgName: "PunnettQuadratSvg", correct: "Vererbung", options: ["Vererbung", "Fotosynthese", "Verdauung", "Zellatmung"] }
+];
+
+const DNA_EVOLUTION_ERKENNEN: VisualQuestionType = {
+  type: "dna-evolution-erkennen",
+  label: "Genetik & Evolution 🧬",
+  printLabel: "Genetik & Evolution erkennen",
+  component: DnaEvolutionErkennen,
+  subtopicIds: ["genetics", "evolution", "dna", "mendel", "genetics_mendel", "evolution_basics", "genetics_traits"],
+  generate: (count) => {
+    return shuffle(DNA_EVOLUTION_DATA).slice(0, count).map(item => {
+      const shuffledOptions = shuffle(item.options);
+      return {
+        svgName: item.svgName,
+        options: shuffledOptions,
+        correctIndex: shuffledOptions.indexOf(item.correct),
+        question: item.correct,
+      };
+    });
+  },
+  gradeAnswer: (q, given) => {
+    const correct = given === q.options[q.correctIndex];
+    return { correct, expected: q.options[q.correctIndex] };
+  },
+  mapProps: (q, userAnswer, submitted, onAnswer) => ({
+    svgName: q.svgName,
+    options: q.options,
+    correctIndex: q.correctIndex,
+    userAnswer,
+    submitted,
+    onAnswer,
+  }),
+  renderPrint: (q) => `Symbol: ${q.svgName} → ${q.options[q.correctIndex]}`,
+};
+
 // ─── EXPORT ──────────────────────────────────────────────────────────────────
+
 
 export const BIOLOGIE_VISUAL_TYPES: VisualQuestionType[] = [
   TIER_KLASSIFIZIERUNG_BIO,
@@ -461,4 +504,5 @@ export const BIOLOGIE_VISUAL_TYPES: VisualQuestionType[] = [
   PFLANZEN_ANATOMIE,
   ZELL_DIAGRAM,
   LEBENSZYKLUS_TIMELINE,
+  DNA_EVOLUTION_ERKENNEN,
 ];
