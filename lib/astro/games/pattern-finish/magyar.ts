@@ -11,15 +11,15 @@ export const rounds: PatternFinishRound[] = [
       ro: "Completează modelul: eu sunt, tu ești, el ?",
     },
     pattern: [
-      { en: "én vagyok", de: "én vagyok", hu: "én vagyok", ro: "én vagyok" },
-      { en: "te vagy", de: "te vagy", hu: "te vagy", ro: "te vagy" },
-      { en: "ő ?", de: "ő ?", hu: "ő ?", ro: "ő ?" },
+      { en: "I am", de: "ich bin", hu: "én vagyok", ro: "eu sunt" },
+      { en: "you are", de: "du bist", hu: "te vagy", ro: "tu ești" },
+      { en: "he ?", de: "er ?", hu: "ő ?", ro: "el ?" },
     ],
     options: [
-      { id: "o1", text: { en: "van", de: "van", hu: "van", ro: "van" }, isCorrect: true },
-      { id: "o2", text: { en: "vagyok", de: "vagyok", hu: "vagyok", ro: "vagyok" }, isCorrect: false },
-      { id: "o3", text: { en: "vagy", de: "vagy", hu: "vagy", ro: "vagy" }, isCorrect: false },
-      { id: "o4", text: { en: "vannak", de: "vannak", hu: "vannak", ro: "vannak" }, isCorrect: false },
+      { id: "o1", text: { en: "is", de: "ist", hu: "van", ro: "este" }, isCorrect: true },
+      { id: "o2", text: { en: "am", de: "bin", hu: "vagyok", ro: "sunt" }, isCorrect: false },
+      { id: "o3", text: { en: "are", de: "bist", hu: "vagy", ro: "ești" }, isCorrect: false },
+      { id: "o4", text: { en: "are (pl)", de: "sind", hu: "vannak", ro: "sunt" }, isCorrect: false },
     ],
   },
   {

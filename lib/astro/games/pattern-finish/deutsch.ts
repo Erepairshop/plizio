@@ -10,14 +10,14 @@ export const rounds: PatternFinishRound[] = [
       ro: "Completează: ich bin, du bist, ..."
     },
     pattern: [
-      { en: "ich bin", de: "ich bin", hu: "ich bin", ro: "ich bin" },
-      { en: "du bist", de: "du bist", hu: "du bist", ro: "du bist" },
+      { en: "I am", de: "ich bin", hu: "én vagyok", ro: "eu sunt" },
+      { en: "you are", de: "du bist", hu: "te vagy", ro: "tu ești" },
       { en: "?", de: "?", hu: "?", ro: "?" }
     ],
     options: [
-      { id: "o1", text: { en: "er ist", de: "er ist", hu: "er ist", ro: "er ist" }, isCorrect: true },
-      { id: "o2", text: { en: "wir sind", de: "wir sind", hu: "wir sind", ro: "wir sind" }, isCorrect: false },
-      { id: "o3", text: { en: "ihr seid", de: "ihr seid", hu: "ihr seid", ro: "ihr seid" }, isCorrect: false }
+      { id: "o1", text: { en: "he is", de: "er ist", hu: "ő van", ro: "el este" }, isCorrect: true },
+      { id: "o2", text: { en: "we are", de: "wir sind", hu: "mi vagyunk", ro: "noi suntem" }, isCorrect: false },
+      { id: "o3", text: { en: "you (pl) are", de: "ihr seid", hu: "ti vagytok", ro: "voi sunteți" }, isCorrect: false }
     ]
   },
   {
@@ -29,14 +29,14 @@ export const rounds: PatternFinishRound[] = [
       ro: "Completează: ich habe, du hast, ..."
     },
     pattern: [
-      { en: "ich habe", de: "ich habe", hu: "ich habe", ro: "ich habe" },
-      { en: "du hast", de: "du hast", hu: "du hast", ro: "du hast" },
+      { en: "I have", de: "ich habe", hu: "nekem van", ro: "eu am" },
+      { en: "you have", de: "du hast", hu: "neked van", ro: "tu ai" },
       { en: "?", de: "?", hu: "?", ro: "?" }
     ],
     options: [
-      { id: "o1", text: { en: "er hat", de: "er hat", hu: "er hat", ro: "er hat" }, isCorrect: true },
-      { id: "o2", text: { en: "wir haben", de: "wir haben", hu: "wir haben", ro: "wir haben" }, isCorrect: false },
-      { id: "o3", text: { en: "ihr habt", de: "ihr habt", hu: "ihr habt", ro: "ihr habt" }, isCorrect: false }
+      { id: "o1", text: { en: "he has", de: "er hat", hu: "neki van", ro: "el are" }, isCorrect: true },
+      { id: "o2", text: { en: "we have", de: "wir haben", hu: "nekünk van", ro: "noi avem" }, isCorrect: false },
+      { id: "o3", text: { en: "you (pl) have", de: "ihr habt", hu: "nektek van", ro: "voi aveți" }, isCorrect: false }
     ]
   },
   {
@@ -48,14 +48,14 @@ export const rounds: PatternFinishRound[] = [
       ro: "Completează: ich gehe, du gehst, ..."
     },
     pattern: [
-      { en: "ich gehe", de: "ich gehe", hu: "ich gehe", ro: "ich gehe" },
-      { en: "du gehst", de: "du gehst", hu: "du gehst", ro: "du gehst" },
+      { en: "I go", de: "ich gehe", hu: "én megyek", ro: "eu merg" },
+      { en: "you go", de: "du gehst", hu: "te mész", ro: "tu mergi" },
       { en: "?", de: "?", hu: "?", ro: "?" }
     ],
     options: [
-      { id: "o1", text: { en: "er geht", de: "er geht", hu: "er geht", ro: "er geht" }, isCorrect: true },
-      { id: "o2", text: { en: "wir gehen", de: "wir gehen", hu: "wir gehen", ro: "wir gehen" }, isCorrect: false },
-      { id: "o3", text: { en: "ihr geht", de: "ihr geht", hu: "ihr geht", ro: "ihr geht" }, isCorrect: false }
+      { id: "o1", text: { en: "he goes", de: "er geht", hu: "ő megy", ro: "el merge" }, isCorrect: true },
+      { id: "o2", text: { en: "we go", de: "wir gehen", hu: "mi megyünk", ro: "noi mergem" }, isCorrect: false },
+      { id: "o3", text: { en: "you (pl) go", de: "ihr geht", hu: "ti mentek", ro: "voi mergeți" }, isCorrect: false }
     ]
   }
 ];
