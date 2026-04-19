@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { ChevronLeft, Trophy } from "lucide-react";
+import { ChevronLeft, Map } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import SubjectPicker from "@/components/SubjectPicker";
 
@@ -22,11 +22,11 @@ const SUBTITLE: Record<Lang, string> = {
   en: "Pick grade and subject",
 };
 
-const ALBUM_LABEL: Record<Lang, string> = {
-  de: "Album",
-  hu: "Album",
-  ro: "Album",
-  en: "Album",
+const EUROPA_LABEL: Record<Lang, string> = {
+  de: "Europakarte",
+  hu: "Európa térkép",
+  ro: "Harta Europei",
+  en: "Europe Map",
 };
 
 export default function LearnPage() {
@@ -69,12 +69,12 @@ export default function LearnPage() {
             <p className="text-white/50 text-xs">{SUBTITLE[l]}</p>
           </div>
           <button
-            onClick={() => router.push("/stickers")}
-            aria-label={ALBUM_LABEL[l]}
-            className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-purple-500/30 to-blue-500/30 hover:from-purple-500/45 hover:to-blue-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
+            onClick={() => router.push("/europe-map")}
+            aria-label={EUROPA_LABEL[l]}
+            className="flex items-center gap-1.5 rounded-full bg-gradient-to-r from-cyan-500/30 to-blue-500/30 hover:from-cyan-500/45 hover:to-blue-500/45 border border-white/15 text-white/90 px-3 py-1.5 text-xs font-bold transition"
           >
-            <Trophy size={14} className="text-yellow-300" />
-            {ALBUM_LABEL[l]}
+            <Map size={14} className="text-cyan-300" />
+            {EUROPA_LABEL[l]}
           </button>
         </header>
 

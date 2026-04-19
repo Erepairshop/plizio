@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { X, Map, Globe2, Landmark, Star } from "lucide-react";
 import VisualLabIcon from "./VisualLabIcon";
 import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
+import EuropeMap from "./EuropeMap";
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
 import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame";
 import SignalRunnerGame from "@/app/astro-sachkunde/visual-lab/games/SignalRunnerGame";
@@ -99,6 +100,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Visuelle Lernspiele & Karten",
     pickGame: "Spiel wählen",
     deutschlandMap: "Deutschland Karte",
+    europeMap: "Europa Karte 🗺️",
     formulaBlitz: "Formel Blitz ⚡",
     meteorCatch: "Sternenfang",
     orbitSort: "Orbit Sortieren",
@@ -128,6 +130,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Vizuális tanulójátékok és térképek",
     pickGame: "Válassz játékot",
     deutschlandMap: "Németország térkép",
+    europeMap: "Európa térkép 🗺️",
     formulaBlitz: "Képlet Blitz ⚡",
     meteorCatch: "Csillagfogó",
     orbitSort: "Pálya-rendező",
@@ -145,6 +148,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Jocuri vizuale & hărți",
     pickGame: "Alege jocul",
     deutschlandMap: "Harta României",
+    europeMap: "Harta Europei 🗺️",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Prinde meteorii",
     orbitSort: "Sortare orbitală",
@@ -174,6 +178,7 @@ const T: Record<Lang, Record<string, string>> = {
     subtitle: "Visual learning games & maps",
     pickGame: "Pick a game",
     deutschlandMap: "Germany Map",
+    europeMap: "Europe Map 🗺️",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Meteor Catch",
     orbitSort: "Orbit Sort",
@@ -204,6 +209,7 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "fact-swipe", type: "spotter", labelKey: "factSwipe", available: true },
   ],
   geographie: [
+    { id: "europe-map", type: "map", labelKey: "europeMap", available: true },
     { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
@@ -414,7 +420,11 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
 
   useEffect(() => {
     if (vlabPoiId) {
-      setActiveGame("deutschland-map");
+      if (vlabPoiId === "europa" || vlabPoiId === "europe" || vlabPoiId === "europe-map") {
+        setActiveGame("europe-map");
+      } else {
+        setActiveGame("deutschland-map");
+      }
     }
   }, [vlabPoiId]);
 
@@ -821,6 +831,9 @@ function GeographieGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; initialPoiId?: string | null; tSoon: string;
 }) {
+  if (gameId === "europe-map") {
+    return <EuropeMap lang={lang} />;
+  }
   if (gameId === "deutschland-map") {
     return <InteractiveMap lang={lang} subject="geographie" grade={grade} initialPoiId={initialPoiId} />;
   }
