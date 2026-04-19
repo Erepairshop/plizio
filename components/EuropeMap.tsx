@@ -243,12 +243,12 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
               if (!country.capital || !country.capital.coords) return null;
               const [cx, cy] = country.capital.coords;
               const countryLabel = country.names[lang] || country.names.en;
-              const dotR = 2.4 / view.scale;
-              const countryFont = 10 / view.scale;
-              const capitalFont = 8 / view.scale;
-              const strokeW = 2.5 / view.scale;
-              const dyCountry = -12 / view.scale;
-              const dyCapital = 10 / view.scale;
+              const dotR = 3.5 / view.scale;
+              const countryFont = 18 / view.scale;
+              const capitalFont = 14 / view.scale;
+              const strokeW = 4 / view.scale;
+              const dyCountry = -16 / view.scale;
+              const dyCapital = 15 / view.scale;
               return (
                 <g key={`lbl-${country.id}`}>
                   {/* Country name — above capital */}
