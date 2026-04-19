@@ -577,10 +577,10 @@ export const InteractiveMap = ({
                 const [cx, cy] = projectCoords(p.coords[0], p.coords[1]);
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
-                const baseR = isSimplified ? 10 : 7;
-                const r = (isSel ? baseR + 2 : baseR) / view.scale;
-                // Touch-target: legalább 44px tap-area mobil UX szempontjából
-                const touchR = Math.max(r * 4, 22 / view.scale);
+                const baseR = isSimplified ? 14 : 11;
+                const r = (isSel ? baseR + 3 : baseR) / view.scale;
+                // Touch-target: min 48px tap-area mobilra
+                const touchR = Math.max(r * 4, 26 / view.scale);
                 const color = poiColor(p.type);
                 const showLabel = (p.type === "state-capital" || p.type === "city" || isSel);
                 const baseFont = isSimplified
