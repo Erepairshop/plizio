@@ -680,7 +680,7 @@ export default function AstroMagyarO1Page() {
       {/* Milestones */}
       <MilestonePopup />
       <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="deutsch" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      <VisualLab subject="magyar" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

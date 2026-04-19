@@ -708,7 +708,7 @@ export default function AstroMagyarO5Page() {
         </div>
       </div>
       <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="deutsch" grade={5} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      <VisualLab subject="magyar" grade={5} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

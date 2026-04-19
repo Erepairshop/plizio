@@ -660,7 +660,7 @@ export default function AstroMagyar2() {
       </div>
       )}
       <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="deutsch" grade={2} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      <VisualLab subject="magyar" grade={2} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

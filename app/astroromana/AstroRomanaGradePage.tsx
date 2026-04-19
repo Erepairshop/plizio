@@ -677,7 +677,7 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
         </div>
       </div>
       <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="deutsch" grade={config.grade} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      <VisualLab subject="romana" grade={config.grade} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

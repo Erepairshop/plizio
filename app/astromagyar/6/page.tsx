@@ -538,7 +538,7 @@ export default function O6Page() {
       {/* MILESTONES */}
       <MilestonePopup />
       <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="deutsch" grade={6} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
+      <VisualLab subject="magyar" grade={6} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }
