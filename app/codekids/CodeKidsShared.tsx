@@ -201,11 +201,11 @@ function IslandMapSVG({ gradeVal, islands, progress, onIsland, onCheckpoint, isU
   );
 }
 
-export default function CodeKidsGradePage() {
+export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) {
   const { lang } = useLang();
   const router = useRouter();
-  const params = useParams();
-  const gradeStr = params.grade as string;
+  const params: any = {};
+  const gradeStr = String(gradeProp);
   const gradeVal = parseInt(gradeStr, 10);
   const t = T[lang as keyof typeof T] ?? T.en;
 
