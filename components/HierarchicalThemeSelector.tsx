@@ -313,27 +313,39 @@ export default function HierarchicalThemeSelector({
         {selectedSubtopics.length}/{totalSubtopics} {labels.topicAreas} {labels.topicsSelected}
       </motion.div>
 
-      {/* Action Buttons */}
-      <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 pt-4">
+      {/* Action Buttons — Clear is inline, Start is floating FAB */}
+      <div className="flex justify-center pt-4">
         <motion.button
           onClick={onClearSelection}
-          className="px-4 sm:px-6 py-2 sm:py-3 rounded-lg sm:rounded-xl border-2 border-white/30 text-white font-bold hover:bg-white/5 transition-all text-sm sm:text-base"
+          className="px-4 sm:px-6 py-2 rounded-lg border-2 border-white/30 text-white font-bold hover:bg-white/5 transition-all text-sm"
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
         >
           {labels.clearSelection}
         </motion.button>
-
-        <motion.button
-          onClick={onStartTest}
-          disabled={selectedSubtopics.length === 0 || loading}
-          className="flex-1 px-4 sm:px-6 py-2 sm:py-3 rounded-lg sm:rounded-xl bg-gradient-to-r from-blue-500 to-blue-600 text-white font-bold hover:from-blue-600 hover:to-blue-700 transition-all disabled:opacity-50 disabled:cursor-not-allowed text-sm sm:text-base"
-          whileHover={selectedSubtopics.length > 0 ? { scale: 1.02 } : {}}
-          whileTap={selectedSubtopics.length > 0 ? { scale: 0.98 } : {}}
-        >
-          {loading ? labels.generating : labels.startTest}
-        </motion.button>
       </div>
+
+      {/* Floating Start-Test FAB (bottom-right) */}
+      <motion.button
+        onClick={onStartTest}
+        disabled={selectedSubtopics.length === 0 || loading}
+        className="fixed bottom-5 right-5 z-30 flex items-center gap-2 px-5 py-3 rounded-full
+                   font-black text-sm text-white shadow-xl disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+        style={{
+          background: "linear-gradient(135deg, #3b82f6, #2563eb)",
+          boxShadow: selectedSubtopics.length > 0 && !loading ? "0 0 24px rgba(59,130,246,0.55)" : "0 4px 12px rgba(0,0,0,0.3)",
+        }}
+        whileHover={selectedSubtopics.length > 0 && !loading ? { scale: 1.05 } : {}}
+        whileTap={selectedSubtopics.length > 0 && !loading ? { scale: 0.95 } : {}}
+      >
+        <span>🚀</span>
+        <span>{loading ? labels.generating : labels.startTest}</span>
+        {selectedSubtopics.length > 0 && !loading && (
+          <span className="font-bold text-xs bg-black/20 px-2 py-0.5 rounded-full">
+            {selectedSubtopics.length}
+          </span>
+        )}
+      </motion.button>
     </motion.div>
   );
 }
