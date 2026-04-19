@@ -46,7 +46,10 @@ async function getWikipediaThumbnail(name) {
     const url = `https://en.wikipedia.org/w/api.php?action=query&format=json&titles=${encodeURIComponent(name)}&prop=pageimages&pithumbsize=800`;
     try {
         const res = await fetch(url, { headers: { 'User-Agent': 'PlizioBot/1.0 (https://plizio.com/)' } });
-        if (!res.ok) return null;
+        if (!res.ok) {
+            if (res.status === 429) console.error("Rate limited by Wikipedia (429)");
+            return null;
+        }
         const data = await res.json();
         const pages = data.query?.pages;
         if (!pages) return null;
@@ -87,8 +90,8 @@ async function run() {
 
         const matches = [];
         
-        // name followed by image
-        const regex1 = /(name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\}.*?image:\s*["']([^"']*?)["'])/gs;
+        // name followed by image (restricted to not cross { or })
+        const regex1 = /(name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\}[^{}]*?image:\s*["']([^"']*?)["'])/gs;
         let match;
         while ((match = regex1.exec(content)) !== null) {
             matches.push({
@@ -100,8 +103,8 @@ async function run() {
             });
         }
 
-        // image followed by name
-        const regex2 = /(image:\s*["']([^"']*?)["'].*?name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\})/gs;
+        // image followed by name (restricted to not cross { or })
+        const regex2 = /(image:\s*["']([^"']*?)["'][^{}]*?name:\s*\{[^}]*?["']?en["']?\s*:\s*["']([^"']+?)["'][^}]*?\})/gs;
         while ((match = regex2.exec(content)) !== null) {
             if (!matches.find(m => m.index === match.index)) {
                 matches.push({
@@ -142,7 +145,7 @@ async function run() {
             }
 
             totalProcessed++;
-            await delay(2000);
+            await delay(3000); // Increased delay to 3s
 
             console.log(`[INFO] Processing ${currentName}...`);
             const thumbUrl = await getWikipediaThumbnail(currentName);
@@ -169,7 +172,12 @@ async function run() {
                 
                 const dirParts = currentImagePath.split('/').filter(Boolean);
                 if (dirParts.length >= 2 && dirParts[0] === 'geo-images') {
-                     toCommitPaths.add(`public/geo-images/${dirParts[1]}/`);
+                     // If it's a file in geo-images/ (like DE-BY.webp), add the file itself
+                     if (dirParts.length === 2) {
+                         toCommitPaths.add(`public/geo-images/${dirParts[1]}`);
+                     } else {
+                         toCommitPaths.add(`public/geo-images/${dirParts[1]}/`);
+                     }
                 }
 
                 if (uncommittedCount >= COMMIT_BATCH_SIZE) {
