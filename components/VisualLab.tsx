@@ -585,11 +585,12 @@ function GameHost({
   initialPoiId?: string | null;
   onBack: () => void;
 }) {
+  const isMap = subject === "geographie" && (gameId === "deutschland-map" || gameId === "europe-map" || gameId === "magyarorszag-map" || gameId === "romania-map");
   return (
-    <div className="max-w-3xl mx-auto">
+    <div className={isMap ? "w-full h-full flex flex-col" : "max-w-3xl mx-auto"}>
       <button
         onClick={onBack}
-        className="text-cyan-300 hover:text-cyan-200 text-sm mb-4"
+        className="text-cyan-300 hover:text-cyan-200 text-sm mb-4 shrink-0"
       >
         ← {t.pickGame}
       </button>

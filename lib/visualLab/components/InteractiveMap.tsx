@@ -502,7 +502,7 @@ export const InteractiveMap = ({
       )}
 
       <div
-        className="relative w-full max-w-[640px] mx-auto"
+        className="relative w-full mx-auto"
         style={{ overscrollBehavior: "contain", touchAction: "none" }}
       >
         <svg
