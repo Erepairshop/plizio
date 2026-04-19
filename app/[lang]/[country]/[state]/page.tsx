@@ -4,8 +4,8 @@ import Breadcrumb from "@/components/seo/Breadcrumb";
 import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
 import StructuredData, { createStateStructuredData } from "@/components/seo/StructuredData";
 import { bundeslandSubregions } from "@/lib/visualLab/maps/bundeslandSubregions";
-import { regions } from "@/lib/visualLab/data/poi";
 import {
+  COUNTRY_COPY,
   SEO_COPY,
   absoluteUrl,
   getStateAlternates,
@@ -19,6 +19,8 @@ import {
   buildStatePath,
   countrySlugFor,
   findRegionByStateSlug,
+  getCountryId,
+  regions,
   stateSlugFor,
 } from "@/lib/seo/slugs";
 
@@ -28,7 +30,7 @@ export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) =>
     regions.map((state) => ({
       lang,
-      country: countrySlugFor(lang),
+      country: countrySlugFor(lang, getCountryId(state.id)),
       state: stateSlugFor(state.id, lang),
     })),
   );
@@ -40,9 +42,12 @@ export async function generateMetadata({
   params: Promise<{ lang: string; country: string; state: string }>;
 }): Promise<Metadata> {
   const { lang, country, state } = await params;
-  if (!isLang(lang) || country !== countrySlugFor(lang)) return {};
+  if (!isLang(lang)) return {};
   const region = findRegionByStateSlug(lang, state);
   if (!region) return {};
+
+  const countryId = getCountryId(region.id);
+  if (country !== countrySlugFor(lang, countryId)) return {};
 
   const title = `${region.name[lang] || region.name.de} | Plizio Visual Lab`;
   const description = stateDescription(region.id, lang);
@@ -76,13 +81,17 @@ export default async function StatePage({
   params: Promise<{ lang: string; country: string; state: string }>;
 }) {
   const { lang, country, state } = await params;
-  if (!isLang(lang) || country !== countrySlugFor(lang)) notFound();
+  if (!isLang(lang)) notFound();
   const region = findRegionByStateSlug(lang, state);
   if (!region) notFound();
 
+  const countryId = getCountryId(region.id);
+  if (country !== countrySlugFor(lang, countryId)) notFound();
+
   const copy = SEO_COPY[lang];
+  const countryCopy = COUNTRY_COPY[countryId][lang];
   const groups = groupPoisForState(region.id);
-  const subregions = bundeslandSubregions[region.id];
+  const subregions = (bundeslandSubregions as any)[region.id];
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -90,7 +99,7 @@ export default async function StatePage({
         <Breadcrumb
           items={[
             { name: copy.home, href: "/" },
-            { name: copy.country, href: buildCountryPath(lang) },
+            { name: countryCopy.name, href: buildCountryPath(lang, countryId) },
             { name: region.name[lang] || region.name.de, href: buildStatePath(lang, region.id) },
           ]}
         />
@@ -117,7 +126,7 @@ export default async function StatePage({
             <div className="w-full max-w-md rounded-3xl border border-cyan-500/15 bg-[#07111b]/80 p-4">
               {subregions ? (
                 <svg viewBox={subregions.viewBox} className="h-auto w-full">
-                  {subregions.children.map((entry) => (
+                  {subregions.children.map((entry: any) => (
                     <path
                       key={entry.id}
                       d={entry.path}

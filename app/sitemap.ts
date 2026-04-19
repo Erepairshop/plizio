@@ -1,18 +1,31 @@
 import type { MetadataRoute } from "next";
-import { pois, regions } from "@/lib/visualLab/data/poi";
 import { SITE_URL } from "@/lib/seo/routes";
-import { SUPPORTED_LANGS, buildCountryPath, buildPoiPath, buildStatePath } from "@/lib/seo/slugs";
+import {
+  SUPPORTED_LANGS,
+  buildCountryPath,
+  buildPoiPath,
+  buildStatePath,
+  pois,
+  regions,
+} from "@/lib/seo/slugs";
 
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date();
 
-  const countryUrls = SUPPORTED_LANGS.map((lang) => ({
-    url: `${SITE_URL}${buildCountryPath(lang)}`,
-    lastModified,
-    priority: 1,
-  }));
+  const countryUrls = SUPPORTED_LANGS.flatMap((lang) => [
+    {
+      url: `${SITE_URL}${buildCountryPath(lang, "germany")}`,
+      lastModified,
+      priority: 1,
+    },
+    {
+      url: `${SITE_URL}${buildCountryPath(lang, "romania")}`,
+      lastModified,
+      priority: 1,
+    },
+  ]);
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
     regions.map((state) => ({
@@ -24,7 +37,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const poiUrls = SUPPORTED_LANGS.flatMap((lang) =>
     pois
-      .filter((poi) => poi.type !== "region")
+      .filter((poi) => poi.type !== "region" && poi.type !== "country")
       .map((poi) => ({
         url: `${SITE_URL}${buildPoiPath(lang, poi)}`,
         lastModified,

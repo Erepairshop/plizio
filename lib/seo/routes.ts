@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { pois, regions, type POI } from "@/lib/visualLab/data/poi";
 import {
   SUPPORTED_LANGS,
   buildCountryPath,
@@ -8,10 +7,14 @@ import {
   countrySlugFor,
   findPoiBySlug,
   findRegionByStateSlug,
+  getCountryId,
   getStateForPoi,
   localizedStateName,
+  pois,
+  regions,
   type Lang,
 } from "@/lib/seo/slugs";
+import type { POI } from "@/lib/visualLab/data/poi";
 
 export const SITE_URL = "https://plizio.com";
 
@@ -22,19 +25,31 @@ export const SEO_LOCALES: Record<Lang, string> = {
   en: "en_US",
 };
 
+export const COUNTRY_COPY: Record<string, Record<Lang, { title: string; description: string; name: string }>> = {
+  germany: {
+    de: { title: "Interaktive Deutschlandkarte", description: "Statische Lernseiten zu Bundesländern, Städten, Natur, Geschichte und Sehenswürdigkeiten in Deutschland.", name: "Deutschland" },
+    hu: { title: "Németország interaktív térképe", description: "Statikus tanulóoldalak a német tartományokról, városokról, természeti helyekről, történelemről és nevezetességekről.", name: "Németország" },
+    ro: { title: "Harta interactivă a Germaniei", description: "Pagini statice de studiu despre landuri, orașe, natură, istorie și obiective turistice din Germania.", name: "Germania" },
+    en: { title: "Interactive Germany Map", description: "Static study pages about German states, cities, nature, history, and landmarks.", name: "Germany" },
+  },
+  romania: {
+    de: { title: "Interaktive Rumänienkarte", description: "Statische Lernseiten zu Kreisen, Städten, Natur, Geschichte und Sehenswürdigkeiten in Rumänien.", name: "Rumänien" },
+    hu: { title: "Románia interaktív térképe", description: "Statikus tanulóoldalak a román megyékről, városokról, természeti helyekről, történelemről és nevezetességekről.", name: "Románia" },
+    ro: { title: "Harta interactivă a României", description: "Pagini statice de studiu despre județe, orașe, natură, istorie și obiective turistice din România.", name: "România" },
+    en: { title: "Interactive Romania Map", description: "Static study pages about Romanian counties, cities, nature, history, and landmarks.", name: "Romania" },
+  },
+};
+
 export const SEO_COPY = {
   de: {
-    countryTitle: "Interaktive Deutschlandkarte",
-    countryDescription: "Statische Lernseiten zu Bundesländern, Städten, Natur, Geschichte und Sehenswürdigkeiten in Deutschland.",
     home: "Start",
-    country: "Deutschland",
     related: "Verwandte Orte",
     facts: "Fakten",
     geography: "Geografische Daten",
     openMap: "Auf OpenStreetMap öffnen",
     backToMap: "Auf der Karte ansehen",
     more: "Mehr erfahren",
-    states: "Bundesländer",
+    states: "Regionen",
     cities: "Städte",
     nature: "Natur",
     history: "Geschichte",
@@ -42,17 +57,14 @@ export const SEO_COPY = {
     capital: "Hauptstadt",
   },
   hu: {
-    countryTitle: "Németország interaktív térképe",
-    countryDescription: "Statikus tanulóoldalak a német tartományokról, városokról, természeti helyekről, történelemről és nevezetességekről.",
     home: "Kezdőlap",
-    country: "Németország",
     related: "Kapcsolódó helyek",
     facts: "Tények",
     geography: "Földrajzi adatok",
     openMap: "Megnyitás OpenStreetMapen",
     backToMap: "Megnézem a térképen",
     more: "Bővebben",
-    states: "Tartományok",
+    states: "Régiók",
     cities: "Városok",
     nature: "Természet",
     history: "Történelem",
@@ -60,17 +72,14 @@ export const SEO_COPY = {
     capital: "Főváros",
   },
   ro: {
-    countryTitle: "Harta interactivă a Germaniei",
-    countryDescription: "Pagini statice de studiu despre landuri, orașe, natură, istorie și obiective turistice din Germania.",
     home: "Acasă",
-    country: "Germania",
     related: "Locuri similare",
     facts: "Informații",
     geography: "Date geografice",
     openMap: "Deschide în OpenStreetMap",
     backToMap: "Vezi pe hartă",
     more: "Detalii",
-    states: "Landuri",
+    states: "Regiuni",
     cities: "Orașe",
     nature: "Natură",
     history: "Istorie",
@@ -78,17 +87,14 @@ export const SEO_COPY = {
     capital: "Capitală",
   },
   en: {
-    countryTitle: "Interactive Germany Map",
-    countryDescription: "Static study pages about German states, cities, nature, history, and landmarks.",
     home: "Home",
-    country: "Germany",
     related: "Related places",
     facts: "Facts",
     geography: "Geographic data",
     openMap: "Open in OpenStreetMap",
     backToMap: "View on the map",
     more: "Read more",
-    states: "States",
+    states: "Regions",
     cities: "Cities",
     nature: "Nature",
     history: "History",
@@ -109,8 +115,8 @@ export function absoluteUrl(path: string) {
   return new URL(path, SITE_URL).toString();
 }
 
-export function getCountryAlternates() {
-  return Object.fromEntries(SUPPORTED_LANGS.map((lang) => [lang, absoluteUrl(buildCountryPath(lang))]));
+export function getCountryAlternates(countryId: string = "germany") {
+  return Object.fromEntries(SUPPORTED_LANGS.map((lang) => [lang, absoluteUrl(buildCountryPath(lang, countryId))]));
 }
 
 export function getStateAlternates(stateId: string) {
@@ -145,24 +151,31 @@ export function groupPoisForState(stateId: string) {
   const statePois = getPoisForState(stateId);
   return {
     cities: statePois.filter((poi) => poi.type === "state-capital" || poi.type === "city"),
-    nature: statePois.filter((poi) => ["river", "mountain", "lake", "island", "forest", "sea"].includes(poi.type)),
+    nature: statePois.filter((poi) => ["river", "mountain", "lake", "island", "forest", "sea", "nature"].includes(poi.type)),
     history: statePois.filter((poi) => poi.type === "historical"),
     landmarks: statePois.filter((poi) => poi.type === "landmark"),
   };
 }
 
 export function getPoiByRouteParams(lang: Lang, country: string, state: string, poiSlugValue: string) {
-  if (country !== countrySlugFor(lang)) return null;
+  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  if (country !== countrySlugFor(lang, countryId)) return null;
+
   const region = findRegionByStateSlug(lang, state);
-  if (!region) return null;
+  if (!region || getCountryId(region.id) !== countryId) return null;
+
   const poi = findPoiBySlug(lang, poiSlugValue);
   if (!poi || poi.parent !== region.id) return null;
   return { poi, region };
 }
 
 export function getStateByRouteParams(lang: Lang, country: string, state: string) {
-  if (country !== countrySlugFor(lang)) return null;
-  return findRegionByStateSlug(lang, state);
+  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  if (country !== countrySlugFor(lang, countryId)) return null;
+
+  const region = findRegionByStateSlug(lang, state);
+  if (!region || getCountryId(region.id) !== countryId) return null;
+  return region;
 }
 
 export function poiTitle(poi: POI, lang: Lang) {
@@ -177,31 +190,32 @@ export function poiDescription(poi: POI, lang: Lang) {
 
 export function stateDescription(stateId: string, lang: Lang) {
   const state = regions.find((entry) => entry.id === stateId);
-  return truncateDescription(state?.description[lang] || state?.description.de || SEO_COPY[lang].countryDescription);
+  const countryId = getCountryId(stateId);
+  return truncateDescription(state?.description[lang] || state?.description.de || COUNTRY_COPY[countryId][lang].description);
 }
 
-export function countryMetadata(lang: Lang): Metadata {
-  const copy = SEO_COPY[lang];
+export function countryMetadata(lang: Lang, countryId: string = "germany"): Metadata {
+  const copy = COUNTRY_COPY[countryId][lang];
   return {
-    title: `${copy.countryTitle} | Plizio Visual Lab`,
-    description: copy.countryDescription,
+    title: `${copy.title} | Plizio Visual Lab`,
+    description: copy.description,
     alternates: {
-      canonical: absoluteUrl(buildCountryPath(lang)),
-      languages: { ...getCountryAlternates(), "x-default": absoluteUrl(buildCountryPath("en")) },
+      canonical: absoluteUrl(buildCountryPath(lang, countryId)),
+      languages: { ...getCountryAlternates(countryId), "x-default": absoluteUrl(buildCountryPath("en", countryId)) },
     },
     openGraph: {
-      title: `${copy.countryTitle} | Plizio Visual Lab`,
-      description: copy.countryDescription,
-      url: absoluteUrl(buildCountryPath(lang)),
+      title: `${copy.title} | Plizio Visual Lab`,
+      description: copy.description,
+      url: absoluteUrl(buildCountryPath(lang, countryId)),
       locale: SEO_LOCALES[lang],
       type: "website",
-      images: [{ url: absoluteUrl("/geo-images/germany-full.jpg") }],
+      images: [{ url: absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : "/geo-images/germany-full.jpg") }],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${copy.countryTitle} | Plizio Visual Lab`,
-      description: copy.countryDescription,
-      images: [absoluteUrl("/geo-images/germany-full.jpg")],
+      title: `${copy.title} | Plizio Visual Lab`,
+      description: copy.description,
+      images: [absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : "/geo-images/germany-full.jpg")],
     },
   };
 }

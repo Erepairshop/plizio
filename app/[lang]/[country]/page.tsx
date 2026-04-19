@@ -3,8 +3,9 @@ import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
 import { deutschlandMap, deutschlandViewBox } from "@/lib/visualLab/maps/deutschland.svg";
-import { regions } from "@/lib/visualLab/data/poi";
+import { romaniaMap, romaniaViewBox } from "@/lib/visualLab/maps/romania.svg";
 import {
+  COUNTRY_COPY,
   SEO_COPY,
   countryMetadata,
   getCountryAlternates,
@@ -17,17 +18,17 @@ import {
   buildCountryPath,
   buildStatePath,
   countrySlugFor,
-  stateSlugFor,
+  regions,
   type Lang,
 } from "@/lib/seo/slugs";
 
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return SUPPORTED_LANGS.map((lang) => ({
-    lang,
-    country: countrySlugFor(lang),
-  }));
+  return SUPPORTED_LANGS.flatMap((lang) => [
+    { lang, country: countrySlugFor(lang, "germany") },
+    { lang, country: countrySlugFor(lang, "romania") },
+  ]);
 }
 
 export async function generateMetadata({
@@ -36,10 +37,12 @@ export async function generateMetadata({
   params: Promise<{ lang: string; country: string }>;
 }): Promise<Metadata> {
   const { lang, country } = await params;
-  if (!isLang(lang) || country !== countrySlugFor(lang)) {
-    return {};
-  }
-  return countryMetadata(lang);
+  if (!isLang(lang)) return {};
+  
+  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  if (country !== countrySlugFor(lang, countryId)) return {};
+
+  return countryMetadata(lang, countryId);
 }
 
 export default async function CountryPage({
@@ -48,12 +51,21 @@ export default async function CountryPage({
   params: Promise<{ lang: string; country: string }>;
 }) {
   const { lang, country } = await params;
-  if (!isLang(lang) || country !== countrySlugFor(lang)) {
-    notFound();
-  }
+  if (!isLang(lang)) notFound();
+
+  const countryId = country === countrySlugFor(lang, "romania") ? "romania" : "germany";
+  if (country !== countrySlugFor(lang, countryId)) notFound();
 
   const copy = SEO_COPY[lang];
-  const alternates = getCountryAlternates();
+  const countryCopy = COUNTRY_COPY[countryId][lang];
+  const alternates = getCountryAlternates(countryId);
+  
+  const countryRegions = regions.filter(r => 
+    countryId === "romania" ? r.id.startsWith("RO-") : r.id.startsWith("DE-")
+  );
+
+  const mapData = countryId === "romania" ? romaniaMap : deutschlandMap;
+  const viewBox = countryId === "romania" ? romaniaViewBox : deutschlandViewBox;
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -61,18 +73,18 @@ export default async function CountryPage({
         <Breadcrumb
           items={[
             { name: copy.home, href: "/" },
-            { name: copy.country, href: buildCountryPath(lang) },
+            { name: countryCopy.name, href: buildCountryPath(lang, countryId) },
           ]}
         />
 
         <div className="mt-6 grid gap-8 lg:grid-cols-[1.15fr_0.85fr]">
           <div className="rounded-[28px] border border-cyan-500/15 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.12),_transparent_55%),linear-gradient(180deg,rgba(7,17,27,0.98),rgba(2,4,8,0.98))] p-6">
             <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Visual Lab</p>
-            <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-5xl">{copy.countryTitle}</h1>
-            <p className="mt-4 max-w-2xl text-base leading-7 text-white/72">{copy.countryDescription}</p>
+            <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-5xl">{countryCopy.title}</h1>
+            <p className="mt-4 max-w-2xl text-base leading-7 text-white/72">{countryCopy.description}</p>
             <div className="mt-8 overflow-hidden rounded-3xl border border-cyan-500/15 bg-[#07111b]/90 p-4">
-              <svg viewBox={deutschlandViewBox} className="h-auto w-full">
-                {deutschlandMap.map((state) => (
+              <svg viewBox={viewBox} className="h-auto w-full">
+                {mapData.map((state) => (
                   <a key={state.id} href={buildStatePath(lang, state.id)}>
                     <path
                       d={state.path}
@@ -89,7 +101,7 @@ export default async function CountryPage({
           <div className="rounded-[28px] border border-cyan-500/15 bg-white/[0.03] p-6">
             <h2 className="text-lg font-semibold text-white">{copy.states}</h2>
             <div className="mt-4 grid gap-3 sm:grid-cols-2">
-              {regions.map((state) => (
+              {countryRegions.map((state) => (
                 <a
                   key={state.id}
                   href={buildStatePath(lang, state.id)}
@@ -110,18 +122,18 @@ export default async function CountryPage({
           </div>
         </div>
       </section>
-      <StructuredData data={createCountryStructuredData(lang as Lang, copy.country, copy.countryDescription)} />
+      <StructuredData data={createCountryStructuredData(lang as Lang, countryCopy.name, countryCopy.description)} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            name: copy.countryTitle,
-            url: `${SITE_URL}${buildCountryPath(lang)}`,
+            name: countryCopy.title,
+            url: `${SITE_URL}${buildCountryPath(lang, countryId)}`,
             inLanguage: lang,
-            image: absoluteUrl("/geo-images/germany-full.jpg"),
-            hasPart: regions.map((state) => ({
+            image: absoluteUrl(countryId === "romania" ? "/geo-images/romania/RO.webp" : "/geo-images/germany-full.jpg"),
+            hasPart: countryRegions.map((state) => ({
               "@type": "AdministrativeArea",
               name: state.name[lang] || state.name.de,
               url: `${SITE_URL}${buildStatePath(lang, state.id)}`,

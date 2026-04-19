@@ -3,8 +3,8 @@ import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
 import StructuredData, { createPoiStructuredData } from "@/components/seo/StructuredData";
-import { pois, type POI } from "@/lib/visualLab/data/poi";
 import {
+  COUNTRY_COPY,
   SEO_COPY,
   absoluteUrl,
   getPoiAlternates,
@@ -16,7 +16,17 @@ import {
   poiDescription,
   poiTitle,
 } from "@/lib/seo/routes";
-import { SUPPORTED_LANGS, buildCountryPath, buildPoiPath, buildStatePath, countrySlugFor, type Lang } from "@/lib/seo/slugs";
+import {
+  SUPPORTED_LANGS,
+  buildCountryPath,
+  buildPoiPath,
+  buildStatePath,
+  countrySlugFor,
+  getCountryId,
+  pois,
+  type Lang,
+} from "@/lib/seo/slugs";
+import type { POI } from "@/lib/visualLab/data/poi";
 
 export const dynamicParams = false;
 
@@ -33,10 +43,10 @@ function geographicFacts(poi: POI) {
 export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) =>
     pois
-      .filter((poi) => poi.type !== "region")
+      .filter((poi) => poi.type !== "region" && poi.type !== "country")
       .map((poi) => ({
         lang,
-        country: countrySlugFor(lang),
+        country: countrySlugFor(lang, getCountryId(poi.parent)),
         state: buildStatePath(lang, poi.parent).split("/").filter(Boolean)[2],
         poi: buildPoiPath(lang, poi).split("/").filter(Boolean)[3],
       })),
@@ -49,25 +59,25 @@ export async function generateMetadata({
   params: Promise<Params>;
 }): Promise<Metadata> {
   const resolved = await params;
-  if (!isLang(resolved.lang) || resolved.country !== countrySlugFor(resolved.lang)) return {};
+  if (!isLang(resolved.lang)) return {};
   const match = getPoiByRouteParams(resolved.lang, resolved.country, resolved.state, resolved.poi);
   if (!match) return {};
 
   const { poi } = match;
-  const title = poiTitle(poi, resolved.lang);
-  const description = poiDescription(poi, resolved.lang);
+  const title = poiTitle(poi, resolved.lang as Lang);
+  const description = poiDescription(poi, resolved.lang as Lang);
 
   return {
     title,
     description,
     alternates: {
-      canonical: absoluteUrl(buildPoiPath(resolved.lang, poi)),
+      canonical: absoluteUrl(buildPoiPath(resolved.lang as Lang, poi)),
       languages: { ...getPoiAlternates(poi), "x-default": absoluteUrl(buildPoiPath("en", poi)) },
     },
     openGraph: {
       title,
       description,
-      url: absoluteUrl(buildPoiPath(resolved.lang, poi)),
+      url: absoluteUrl(buildPoiPath(resolved.lang as Lang, poi)),
       type: "article",
       images: poi.image ? [{ url: absoluteUrl(poi.image) }] : undefined,
     },
@@ -86,19 +96,21 @@ export default async function PoiPage({
   params: Promise<Params>;
 }) {
   const resolved = await params;
-  if (!isLang(resolved.lang) || resolved.country !== countrySlugFor(resolved.lang)) notFound();
+  if (!isLang(resolved.lang)) notFound();
   const match = getPoiByRouteParams(resolved.lang, resolved.country, resolved.state, resolved.poi);
   if (!match) notFound();
 
   const { poi, region } = match;
-  const copy = SEO_COPY[resolved.lang];
+  const countryId = getCountryId(region.id);
+  const copy = SEO_COPY[resolved.lang as Lang];
+  const countryCopy = COUNTRY_COPY[countryId][resolved.lang as Lang];
   const related = getRelatedPois(poi);
   const geoFacts = geographicFacts(poi);
-  const description = poi.description[resolved.lang] || poi.description.de;
-  const advanced = poi.descriptionAdvanced?.[resolved.lang] || poi.descriptionAdvanced?.de;
+  const description = poi.description[resolved.lang as Lang] || poi.description.de;
+  const advanced = poi.descriptionAdvanced?.[resolved.lang as Lang] || poi.descriptionAdvanced?.de;
   const facts = [
-    ...(poi.facts?.[resolved.lang] || poi.facts?.de || []),
-    ...((poi.factsAdvanced?.[resolved.lang] || poi.factsAdvanced?.de || []) as string[]),
+    ...(poi.facts?.[resolved.lang as Lang] || poi.facts?.de || []),
+    ...((poi.factsAdvanced?.[resolved.lang as Lang] || poi.factsAdvanced?.de || []) as string[]),
   ];
 
   return (
@@ -107,9 +119,9 @@ export default async function PoiPage({
         <Breadcrumb
           items={[
             { name: copy.home, href: "/" },
-            { name: copy.country, href: buildCountryPath(resolved.lang) },
-            { name: region.name[resolved.lang] || region.name.de, href: buildStatePath(resolved.lang, region.id) },
-            { name: poi.name[resolved.lang] || poi.name.de, href: buildPoiPath(resolved.lang, poi) },
+            { name: countryCopy.name, href: buildCountryPath(resolved.lang as Lang, countryId) },
+            { name: region.name[resolved.lang as Lang] || region.name.de, href: buildStatePath(resolved.lang as Lang, region.id) },
+            { name: poi.name[resolved.lang as Lang] || poi.name.de, href: buildPoiPath(resolved.lang as Lang, poi) },
           ]}
         />
 
@@ -117,7 +129,7 @@ export default async function PoiPage({
           <div className="grid gap-0 lg:grid-cols-[1.05fr_0.95fr]">
             <div className="min-h-[320px] bg-[#07111b]">
               {poi.image ? (
-                <img src={poi.image} alt={poi.name[resolved.lang] || poi.name.de} loading="lazy" className="h-full w-full object-cover" />
+                <img src={poi.image} alt={poi.name[resolved.lang as Lang] || poi.name.de} loading="lazy" className="h-full w-full object-cover" />
               ) : (
                 <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
               )}
@@ -127,13 +139,13 @@ export default async function PoiPage({
                 {poi.coa ? <img src={poi.coa} alt="" loading="lazy" className="h-16 w-16 rounded-2xl border border-white/10 bg-white/5 object-contain p-2" /> : null}
                 <div className="min-w-0 flex-1">
                   <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Visual Lab</p>
-                  <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{poi.name[resolved.lang] || poi.name.de}</h1>
+                  <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{poi.name[resolved.lang as Lang] || poi.name.de}</h1>
                 </div>
               </div>
 
               <div className="mt-5 flex flex-wrap gap-3">
                 {poi.audio ? (
-                  <audio controls preload="none" aria-label={`${poi.name[resolved.lang] || poi.name.de} pronunciation`} className="max-w-full">
+                  <audio controls preload="none" aria-label={`${poi.name[resolved.lang as Lang] || poi.name.de} pronunciation`} className="max-w-full">
                     <source src={poi.audio} />
                   </audio>
                 ) : null}
