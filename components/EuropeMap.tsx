@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { europaMap, europaViewBox, EuropeCountry } from "@/lib/visualLab/maps/europa.svg";
 import type { Lang } from "@/lib/visualLab/maps/resolver";
 import { motion, AnimatePresence } from "framer-motion";
-import { ZoomIn, ZoomOut, Maximize2 } from "lucide-react";
+import { Plus, Minus, Maximize2 } from "lucide-react";
 import type { WheelEvent as RWheelEvent, PointerEvent as RPointerEvent } from "react";
 
 interface EuropeMapProps {
@@ -26,7 +26,7 @@ const COMING_SOON: Record<Lang, string> = {
 };
 
 const MIN_SCALE = 1;
-const MAX_SCALE = 20;
+const MAX_SCALE = 50;
 
 export default function EuropeMap({ lang }: EuropeMapProps) {
   const router = useRouter();
@@ -176,14 +176,14 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
           className="w-9 h-9 rounded-full bg-slate-800/80 backdrop-blur text-white/80 hover:text-white hover:bg-slate-700 border border-white/10 flex items-center justify-center transition"
           aria-label="Zoom in"
         >
-          <ZoomIn size={16} />
+          <Plus size={16} />
         </button>
         <button
           onClick={() => zoomAt(1 / 1.4)}
           className="w-9 h-9 rounded-full bg-slate-800/80 backdrop-blur text-white/80 hover:text-white hover:bg-slate-700 border border-white/10 flex items-center justify-center transition"
           aria-label="Zoom out"
         >
-          <ZoomOut size={16} />
+          <Minus size={16} />
         </button>
         <button
           onClick={resetView}
@@ -247,7 +247,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
               const countryFont = 10 / view.scale;
               const capitalFont = 8 / view.scale;
               const strokeW = 2.5 / view.scale;
-              const dyCountry = -9 / view.scale;
+              const dyCountry = -12 / view.scale;
               const dyCapital = 10 / view.scale;
               return (
                 <g key={`lbl-${country.id}`}>
@@ -265,6 +265,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
                       stroke: "#020408",
                       strokeWidth: strokeW,
                       strokeOpacity: 0.85,
+                      filter: "drop-shadow(0px 2px 2px rgba(0,0,0,0.8))",
                     }}
                   >
                     {countryLabel}
@@ -277,6 +278,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
                     fill="#FFD166"
                     stroke="#020408"
                     strokeWidth={0.4 / view.scale}
+                    style={{ filter: "drop-shadow(0px 1px 1px rgba(0,0,0,0.8))" }}
                   />
                   {/* Capital name — below dot */}
                   <text
@@ -292,6 +294,7 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
                       stroke: "#020408",
                       strokeWidth: strokeW,
                       strokeOpacity: 0.85,
+                      filter: "drop-shadow(0px 2px 2px rgba(0,0,0,0.8))",
                     }}
                   >
                     {country.capital.name}
@@ -305,3 +308,4 @@ export default function EuropeMap({ lang }: EuropeMapProps) {
     </div>
   );
 }
+
