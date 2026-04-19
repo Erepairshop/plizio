@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <radialGradient id="galG" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#fff5d0"/>
+      <stop offset="25%" stop-color="#ffcc2a"/>
+      <stop offset="60%" stop-color="#c77bff"/>
+      <stop offset="100%" stop-color="#1a0a4a"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="100" cy="100" rx="85" ry="85" fill="url(#galG)" opacity="0.9"/>
+  <path d="M 100 100 Q 60 90 40 60 Q 80 75 100 100" fill="none" stroke="#fff" stroke-width="3" opacity="0.6" stroke-linecap="round"/>
+  <path d="M 100 100 Q 140 110 160 140 Q 120 125 100 100" fill="none" stroke="#fff" stroke-width="3" opacity="0.6" stroke-linecap="round"/>
+  <path d="M 100 100 Q 70 130 55 155 Q 85 125 100 100" fill="none" stroke="#fff" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+  <path d="M 100 100 Q 130 70 145 45 Q 115 75 100 100" fill="none" stroke="#fff" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+  <circle cx="100" cy="100" r="14" fill="#fff5d0"/>
+  <circle cx="100" cy="100" r="14" fill="none" stroke="#1a0d3a" stroke-width="2" opacity="0.4"/>
+  <circle cx="50" cy="55" r="1.5" fill="#fff"/>
+  <circle cx="155" cy="70" r="1.5" fill="#fff"/>
+  <circle cx="160" cy="120" r="1.5" fill="#fff"/>
+  <circle cx="45" cy="130" r="1.5" fill="#fff"/>
+  <circle cx="80" cy="40" r="1.2" fill="#fff"/>
+  <g fill="#1a0d3a">
+    <ellipse cx="94.5" cy="100" rx="1.76" ry="2.31"/>
+    <ellipse cx="105.5" cy="100" rx="1.76" ry="2.31"/>
+  </g>
+  <path d="M 96.7 103.3 Q 100 106.05 103.3 103.3" stroke="#1a0d3a" stroke-width="1.21" stroke-linecap="round" fill="none"/>
+</svg>

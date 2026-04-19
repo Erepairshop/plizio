@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="72" fill="#e8e4f0" stroke="#1a0d3a" stroke-width="3"/>
+  <circle cx="100" cy="100" r="72" fill="#b8b4ce" opacity="0.25"/>
+  <circle cx="75" cy="75" r="10" fill="#9a93b8"/>
+  <circle cx="75" cy="75" r="10" fill="none" stroke="#1a0d3a" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="130" cy="85" r="6" fill="#9a93b8"/>
+  <circle cx="130" cy="85" r="6" fill="none" stroke="#1a0d3a" stroke-width="1.2" opacity="0.5"/>
+  <circle cx="135" cy="130" r="9" fill="#9a93b8"/>
+  <circle cx="135" cy="130" r="9" fill="none" stroke="#1a0d3a" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="70" cy="135" r="5" fill="#9a93b8"/>
+  <circle cx="95" cy="155" r="4" fill="#9a93b8"/>
+  <path d="M 87 110 q 5 -4 10 0" stroke="#1a0d3a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 103 110 q 5 -4 10 0" stroke="#1a0d3a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 96 117 q 4 3 8 0" stroke="#1a0d3a" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <path d="M 45 45 l 2 5 l 5 2 l -5 2 l -2 5 l -2 -5 l -5 -2 l 5 -2 z" fill="#fff" opacity="0.9"/>
+</svg>
