@@ -93,7 +93,7 @@ function poiColor(type: POI["type"]): string {
 }
 
 const MIN_SCALE = 1;
-const MAX_SCALE = 30;
+const MAX_SCALE = 50;
 
 // K1-K2 simplified mode: only these POI types are shown
 const SIMPLIFIED_TYPES = new Set<POI["type"]>(["state-capital", "river", "mountain", "sea", "animal-habitat", "kid-landmark"]);
@@ -586,7 +586,7 @@ export const InteractiveMap = ({
                 const baseFont = isSimplified
                   ? (p.type === "state-capital" ? 18 : 14)
                   : (p.type === "state-capital" ? 14 : 11);
-                const fontSize = baseFont / Math.max(1, Math.sqrt(view.scale));
+                const fontSize = baseFont / view.scale;  // konstans pixel-méret minden zoom szinten
                 const label = p.name[lang as Lang] ?? p.name.de;
                 return (
                   <g
@@ -1042,7 +1042,7 @@ function SubRegionView({
                       const color = poiColor(p.type);
                       const label = p.name[lang] ?? p.name.de;
                       const baseFont = p.type === "state-capital" ? 14 : 11;
-                      const fontSize = baseFont / Math.max(1, Math.sqrt(pz.view.scale));
+                      const fontSize = baseFont / pz.view.scale;  // konstans pixel-méret minden zoom szinten
                       const r = 5 / pz.view.scale;
                       const isSel = selectedPoiId === p.id;
                       return (
