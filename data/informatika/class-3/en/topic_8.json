@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-email-concept-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 1",
+      "Option C for Email (concept) 1",
+      "Option A for Email (concept) 1"
+    ],
+    "correctAnswer": "Option A for Email (concept) 1",
+    "explanation": "Explanation for Email (concept) 1"
+  },
+  {
+    "id": "k3-info-en-email-concept-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 2",
+      "Option C for Email (concept) 2",
+      "Option A for Email (concept) 2"
+    ],
+    "correctAnswer": "Option A for Email (concept) 2",
+    "explanation": "Explanation for Email (concept) 2"
+  },
+  {
+    "id": "k3-info-en-email-concept-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 3",
+      "Option C for Email (concept) 3",
+      "Option A for Email (concept) 3"
+    ],
+    "correctAnswer": "Option A for Email (concept) 3",
+    "explanation": "Explanation for Email (concept) 3"
+  },
+  {
+    "id": "k3-info-en-email-concept-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 4",
+      "Option B for Email (concept) 4",
+      "Option C for Email (concept) 4"
+    ],
+    "correctAnswer": "Option A for Email (concept) 4",
+    "explanation": "Explanation for Email (concept) 4"
+  },
+  {
+    "id": "k3-info-en-email-concept-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 5",
+      "Option B for Email (concept) 5",
+      "Option A for Email (concept) 5"
+    ],
+    "correctAnswer": "Option A for Email (concept) 5",
+    "explanation": "Explanation for Email (concept) 5"
+  },
+  {
+    "id": "k3-info-en-email-concept-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 6",
+      "Option B for Email (concept) 6",
+      "Option A for Email (concept) 6"
+    ],
+    "correctAnswer": "Option A for Email (concept) 6",
+    "explanation": "Explanation for Email (concept) 6"
+  },
+  {
+    "id": "k3-info-en-email-concept-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 7",
+      "Option B for Email (concept) 7",
+      "Option A for Email (concept) 7"
+    ],
+    "correctAnswer": "Option A for Email (concept) 7",
+    "explanation": "Explanation for Email (concept) 7"
+  },
+  {
+    "id": "k3-info-en-email-concept-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 8",
+      "Option C for Email (concept) 8",
+      "Option B for Email (concept) 8"
+    ],
+    "correctAnswer": "Option A for Email (concept) 8",
+    "explanation": "Explanation for Email (concept) 8"
+  },
+  {
+    "id": "k3-info-en-email-concept-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 9",
+      "Option C for Email (concept) 9",
+      "Option B for Email (concept) 9"
+    ],
+    "correctAnswer": "Option A for Email (concept) 9",
+    "explanation": "Explanation for Email (concept) 9"
+  },
+  {
+    "id": "k3-info-en-email-concept-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 10",
+      "Option A for Email (concept) 10",
+      "Option B for Email (concept) 10"
+    ],
+    "correctAnswer": "Option A for Email (concept) 10",
+    "explanation": "Explanation for Email (concept) 10"
+  },
+  {
+    "id": "k3-info-en-email-concept-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 11",
+      "Option B for Email (concept) 11",
+      "Option C for Email (concept) 11"
+    ],
+    "correctAnswer": "Option A for Email (concept) 11",
+    "explanation": "Explanation for Email (concept) 11"
+  },
+  {
+    "id": "k3-info-en-email-concept-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 12",
+      "Option A for Email (concept) 12",
+      "Option C for Email (concept) 12"
+    ],
+    "correctAnswer": "Option A for Email (concept) 12",
+    "explanation": "Explanation for Email (concept) 12"
+  },
+  {
+    "id": "k3-info-en-email-concept-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 13",
+      "Option B for Email (concept) 13",
+      "Option C for Email (concept) 13"
+    ],
+    "correctAnswer": "Option A for Email (concept) 13",
+    "explanation": "Explanation for Email (concept) 13"
+  },
+  {
+    "id": "k3-info-en-email-concept-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 14",
+      "Option B for Email (concept) 14",
+      "Option A for Email (concept) 14"
+    ],
+    "correctAnswer": "Option A for Email (concept) 14",
+    "explanation": "Explanation for Email (concept) 14"
+  },
+  {
+    "id": "k3-info-en-email-concept-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 15",
+      "Option B for Email (concept) 15",
+      "Option C for Email (concept) 15"
+    ],
+    "correctAnswer": "Option A for Email (concept) 15",
+    "explanation": "Explanation for Email (concept) 15"
+  },
+  {
+    "id": "k3-info-en-email-concept-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 16",
+      "Option A for Email (concept) 16",
+      "Option B for Email (concept) 16"
+    ],
+    "correctAnswer": "Option A for Email (concept) 16",
+    "explanation": "Explanation for Email (concept) 16"
+  },
+  {
+    "id": "k3-info-en-email-concept-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 17",
+      "Option C for Email (concept) 17",
+      "Option A for Email (concept) 17"
+    ],
+    "correctAnswer": "Option A for Email (concept) 17",
+    "explanation": "Explanation for Email (concept) 17"
+  },
+  {
+    "id": "k3-info-en-email-concept-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 18",
+      "Option B for Email (concept) 18",
+      "Option A for Email (concept) 18"
+    ],
+    "correctAnswer": "Option A for Email (concept) 18",
+    "explanation": "Explanation for Email (concept) 18"
+  },
+  {
+    "id": "k3-info-en-email-concept-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 19",
+      "Option A for Email (concept) 19",
+      "Option B for Email (concept) 19"
+    ],
+    "correctAnswer": "Option A for Email (concept) 19",
+    "explanation": "Explanation for Email (concept) 19"
+  },
+  {
+    "id": "k3-info-en-email-concept-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 20",
+      "Option B for Email (concept) 20",
+      "Option C for Email (concept) 20"
+    ],
+    "correctAnswer": "Option A for Email (concept) 20",
+    "explanation": "Explanation for Email (concept) 20"
+  },
+  {
+    "id": "k3-info-en-email-concept-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 21",
+      "Option A for Email (concept) 21",
+      "Option B for Email (concept) 21"
+    ],
+    "correctAnswer": "Option A for Email (concept) 21",
+    "explanation": "Explanation for Email (concept) 21"
+  },
+  {
+    "id": "k3-info-en-email-concept-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 22",
+      "Option C for Email (concept) 22",
+      "Option B for Email (concept) 22"
+    ],
+    "correctAnswer": "Option A for Email (concept) 22",
+    "explanation": "Explanation for Email (concept) 22"
+  },
+  {
+    "id": "k3-info-en-email-concept-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 23",
+      "Option C for Email (concept) 23",
+      "Option A for Email (concept) 23"
+    ],
+    "correctAnswer": "Option A for Email (concept) 23",
+    "explanation": "Explanation for Email (concept) 23"
+  },
+  {
+    "id": "k3-info-en-email-concept-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 24",
+      "Option C for Email (concept) 24",
+      "Option B for Email (concept) 24"
+    ],
+    "correctAnswer": "Option A for Email (concept) 24",
+    "explanation": "Explanation for Email (concept) 24"
+  },
+  {
+    "id": "k3-info-en-email-concept-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Email (concept)",
+    "options": [
+      "Option A for Email (concept) 25",
+      "Option B for Email (concept) 25",
+      "Option C for Email (concept) 25"
+    ],
+    "correctAnswer": "Option A for Email (concept) 25",
+    "explanation": "Explanation for Email (concept) 25"
+  },
+  {
+    "id": "k3-info-en-email-concept-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 26",
+      "Option B for Email (concept) 26",
+      "Option A for Email (concept) 26"
+    ],
+    "correctAnswer": "Option A for Email (concept) 26",
+    "explanation": "Explanation for Email (concept) 26"
+  },
+  {
+    "id": "k3-info-en-email-concept-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 27",
+      "Option A for Email (concept) 27",
+      "Option B for Email (concept) 27"
+    ],
+    "correctAnswer": "Option A for Email (concept) 27",
+    "explanation": "Explanation for Email (concept) 27"
+  },
+  {
+    "id": "k3-info-en-email-concept-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 28",
+      "Option A for Email (concept) 28",
+      "Option B for Email (concept) 28"
+    ],
+    "correctAnswer": "Option A for Email (concept) 28",
+    "explanation": "Explanation for Email (concept) 28"
+  },
+  {
+    "id": "k3-info-en-email-concept-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 29",
+      "Option A for Email (concept) 29",
+      "Option C for Email (concept) 29"
+    ],
+    "correctAnswer": "Option A for Email (concept) 29",
+    "explanation": "Explanation for Email (concept) 29"
+  },
+  {
+    "id": "k3-info-en-email-concept-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 30",
+      "Option A for Email (concept) 30",
+      "Option B for Email (concept) 30"
+    ],
+    "correctAnswer": "Option A for Email (concept) 30",
+    "explanation": "Explanation for Email (concept) 30"
+  },
+  {
+    "id": "k3-info-en-email-concept-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 31",
+      "Option B for Email (concept) 31",
+      "Option A for Email (concept) 31"
+    ],
+    "correctAnswer": "Option A for Email (concept) 31",
+    "explanation": "Explanation for Email (concept) 31"
+  },
+  {
+    "id": "k3-info-en-email-concept-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 32",
+      "Option A for Email (concept) 32",
+      "Option C for Email (concept) 32"
+    ],
+    "correctAnswer": "Option A for Email (concept) 32",
+    "explanation": "Explanation for Email (concept) 32"
+  },
+  {
+    "id": "k3-info-en-email-concept-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Email (concept)",
+    "options": [
+      "Option C for Email (concept) 33",
+      "Option A for Email (concept) 33",
+      "Option B for Email (concept) 33"
+    ],
+    "correctAnswer": "Option A for Email (concept) 33",
+    "explanation": "Explanation for Email (concept) 33"
+  },
+  {
+    "id": "k3-info-en-email-concept-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 34",
+      "Option C for Email (concept) 34",
+      "Option A for Email (concept) 34"
+    ],
+    "correctAnswer": "Option A for Email (concept) 34",
+    "explanation": "Explanation for Email (concept) 34"
+  },
+  {
+    "id": "k3-info-en-email-concept-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Email (concept)",
+    "options": [
+      "Option B for Email (concept) 35",
+      "Option C for Email (concept) 35",
+      "Option A for Email (concept) 35"
+    ],
+    "correctAnswer": "Option A for Email (concept) 35",
+    "explanation": "Explanation for Email (concept) 35"
+  }
+]

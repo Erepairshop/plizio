@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-screenshot-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Screenshot",
+    "options": [
+      "Option A for Screenshot 1",
+      "Option C for Screenshot 1",
+      "Option B for Screenshot 1"
+    ],
+    "correctAnswer": "Option A for Screenshot 1",
+    "explanation": "Explanation for Screenshot 1"
+  },
+  {
+    "id": "k3-info-en-screenshot-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Screenshot",
+    "options": [
+      "Option A for Screenshot 2",
+      "Option B for Screenshot 2",
+      "Option C for Screenshot 2"
+    ],
+    "correctAnswer": "Option A for Screenshot 2",
+    "explanation": "Explanation for Screenshot 2"
+  },
+  {
+    "id": "k3-info-en-screenshot-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Screenshot",
+    "options": [
+      "Option C for Screenshot 3",
+      "Option B for Screenshot 3",
+      "Option A for Screenshot 3"
+    ],
+    "correctAnswer": "Option A for Screenshot 3",
+    "explanation": "Explanation for Screenshot 3"
+  },
+  {
+    "id": "k3-info-en-screenshot-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Screenshot",
+    "options": [
+      "Option A for Screenshot 4",
+      "Option C for Screenshot 4",
+      "Option B for Screenshot 4"
+    ],
+    "correctAnswer": "Option A for Screenshot 4",
+    "explanation": "Explanation for Screenshot 4"
+  },
+  {
+    "id": "k3-info-en-screenshot-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Screenshot",
+    "options": [
+      "Option B for Screenshot 5",
+      "Option C for Screenshot 5",
+      "Option A for Screenshot 5"
+    ],
+    "correctAnswer": "Option A for Screenshot 5",
+    "explanation": "Explanation for Screenshot 5"
+  },
+  {
+    "id": "k3-info-en-screenshot-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Screenshot",
+    "options": [
+      "Option C for Screenshot 6",
+      "Option A for Screenshot 6",
+      "Option B for Screenshot 6"
+    ],
+    "correctAnswer": "Option A for Screenshot 6",
+    "explanation": "Explanation for Screenshot 6"
+  },
+  {
+    "id": "k3-info-en-screenshot-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Screenshot",
+    "options": [
+      "Option B for Screenshot 7",
+      "Option A for Screenshot 7",
+      "Option C for Screenshot 7"
+    ],
+    "correctAnswer": "Option A for Screenshot 7",
+    "explanation": "Explanation for Screenshot 7"
+  },
+  {
+    "id": "k3-info-en-screenshot-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Screenshot",
+    "options": [
+      "Option B for Screenshot 8",
+      "Option A for Screenshot 8",
+      "Option C for Screenshot 8"
+    ],
+    "correctAnswer": "Option A for Screenshot 8",
+    "explanation": "Explanation for Screenshot 8"
+  },
+  {
+    "id": "k3-info-en-screenshot-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Screenshot",
+    "options": [
+      "Option C for Screenshot 9",
+      "Option A for Screenshot 9",
+      "Option B for Screenshot 9"
+    ],
+    "correctAnswer": "Option A for Screenshot 9",
+    "explanation": "Explanation for Screenshot 9"
+  },
+  {
+    "id": "k3-info-en-screenshot-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Screenshot",
+    "options": [
+      "Option C for Screenshot 10",
+      "Option A for Screenshot 10",
+      "Option B for Screenshot 10"
+    ],
+    "correctAnswer": "Option A for Screenshot 10",
+    "explanation": "Explanation for Screenshot 10"
+  },
+  {
+    "id": "k3-info-en-screenshot-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Screenshot",
+    "options": [
+      "Option A for Screenshot 11",
+      "Option B for Screenshot 11",
+      "Option C for Screenshot 11"
+    ],
+    "correctAnswer": "Option A for Screenshot 11",
+    "explanation": "Explanation for Screenshot 11"
+  },
+  {
+    "id": "k3-info-en-screenshot-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Screenshot",
+    "options": [
+      "Option C for Screenshot 12",
+      "Option A for Screenshot 12",
+      "Option B for Screenshot 12"
+    ],
+    "correctAnswer": "Option A for Screenshot 12",
+    "explanation": "Explanation for Screenshot 12"
+  },
+  {
+    "id": "k3-info-en-screenshot-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Screenshot",
+    "options": [
+      "Option A for Screenshot 13",
+      "Option B for Screenshot 13",
+      "Option C for Screenshot 13"
+    ],
+    "correctAnswer": "Option A for Screenshot 13",
+    "explanation": "Explanation for Screenshot 13"
+  },
+  {
+    "id": "k3-info-en-screenshot-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Screenshot",
+    "options": [
+      "Option B for Screenshot 14",
+      "Option C for Screenshot 14",
+      "Option A for Screenshot 14"
+    ],
+    "correctAnswer": "Option A for Screenshot 14",
+    "explanation": "Explanation for Screenshot 14"
+  },
+  {
+    "id": "k3-info-en-screenshot-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Screenshot",
+    "options": [
+      "Option A for Screenshot 15",
+      "Option B for Screenshot 15",
+      "Option C for Screenshot 15"
+    ],
+    "correctAnswer": "Option A for Screenshot 15",
+    "explanation": "Explanation for Screenshot 15"
+  },
+  {
+    "id": "k3-info-en-screenshot-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Screenshot",
+    "options": [
+      "Option C for Screenshot 16",
+      "Option B for Screenshot 16",
+      "Option A for Screenshot 16"
+    ],
+    "correctAnswer": "Option A for Screenshot 16",
+    "explanation": "Explanation for Screenshot 16"
+  },
+  {
+    "id": "k3-info-en-screenshot-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Screenshot",
+    "options": [
+      "Option A for Screenshot 17",
+      "Option B for Screenshot 17",
+      "Option C for Screenshot 17"
+    ],
+    "correctAnswer": "Option A for Screenshot 17",
+    "explanation": "Explanation for Screenshot 17"
+  },
+  {
+    "id": "k3-info-en-screenshot-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Screenshot",
+    "options": [
+      "Option B for Screenshot 18",
+      "Option A for Screenshot 18",
+      "Option C for Screenshot 18"
+    ],
+    "correctAnswer": "Option A for Screenshot 18",
+    "explanation": "Explanation for Screenshot 18"
+  },
+  {
+    "id": "k3-info-en-screenshot-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Screenshot",
+    "options": [
+      "Option B for Screenshot 19",
+      "Option A for Screenshot 19",
+      "Option C for Screenshot 19"
+    ],
+    "correctAnswer": "Option A for Screenshot 19",
+    "explanation": "Explanation for Screenshot 19"
+  },
+  {
+    "id": "k3-info-en-screenshot-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Screenshot",
+    "options": [
+      "Option A for Screenshot 20",
+      "Option C for Screenshot 20",
+      "Option B for Screenshot 20"
+    ],
+    "correctAnswer": "Option A for Screenshot 20",
+    "explanation": "Explanation for Screenshot 20"
+  },
+  {
+    "id": "k3-info-en-screenshot-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Screenshot",
+    "options": [
+      "Option A for Screenshot 21",
+      "Option B for Screenshot 21",
+      "Option C for Screenshot 21"
+    ],
+    "correctAnswer": "Option A for Screenshot 21",
+    "explanation": "Explanation for Screenshot 21"
+  },
+  {
+    "id": "k3-info-en-screenshot-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Screenshot",
+    "options": [
+      "Option A for Screenshot 22",
+      "Option B for Screenshot 22",
+      "Option C for Screenshot 22"
+    ],
+    "correctAnswer": "Option A for Screenshot 22",
+    "explanation": "Explanation for Screenshot 22"
+  },
+  {
+    "id": "k3-info-en-screenshot-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Screenshot",
+    "options": [
+      "Option B for Screenshot 23",
+      "Option C for Screenshot 23",
+      "Option A for Screenshot 23"
+    ],
+    "correctAnswer": "Option A for Screenshot 23",
+    "explanation": "Explanation for Screenshot 23"
+  },
+  {
+    "id": "k3-info-en-screenshot-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Screenshot",
+    "options": [
+      "Option B for Screenshot 24",
+      "Option A for Screenshot 24",
+      "Option C for Screenshot 24"
+    ],
+    "correctAnswer": "Option A for Screenshot 24",
+    "explanation": "Explanation for Screenshot 24"
+  },
+  {
+    "id": "k3-info-en-screenshot-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Screenshot",
+    "options": [
+      "Option B for Screenshot 25",
+      "Option A for Screenshot 25",
+      "Option C for Screenshot 25"
+    ],
+    "correctAnswer": "Option A for Screenshot 25",
+    "explanation": "Explanation for Screenshot 25"
+  },
+  {
+    "id": "k3-info-en-screenshot-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Screenshot",
+    "options": [
+      "Option A for Screenshot 26",
+      "Option C for Screenshot 26",
+      "Option B for Screenshot 26"
+    ],
+    "correctAnswer": "Option A for Screenshot 26",
+    "explanation": "Explanation for Screenshot 26"
+  },
+  {
+    "id": "k3-info-en-screenshot-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Screenshot",
+    "options": [
+      "Option A for Screenshot 27",
+      "Option C for Screenshot 27",
+      "Option B for Screenshot 27"
+    ],
+    "correctAnswer": "Option A for Screenshot 27",
+    "explanation": "Explanation for Screenshot 27"
+  },
+  {
+    "id": "k3-info-en-screenshot-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Screenshot",
+    "options": [
+      "Option A for Screenshot 28",
+      "Option C for Screenshot 28",
+      "Option B for Screenshot 28"
+    ],
+    "correctAnswer": "Option A for Screenshot 28",
+    "explanation": "Explanation for Screenshot 28"
+  },
+  {
+    "id": "k3-info-en-screenshot-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Screenshot",
+    "options": [
+      "Option B for Screenshot 29",
+      "Option C for Screenshot 29",
+      "Option A for Screenshot 29"
+    ],
+    "correctAnswer": "Option A for Screenshot 29",
+    "explanation": "Explanation for Screenshot 29"
+  },
+  {
+    "id": "k3-info-en-screenshot-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Screenshot",
+    "options": [
+      "Option B for Screenshot 30",
+      "Option C for Screenshot 30",
+      "Option A for Screenshot 30"
+    ],
+    "correctAnswer": "Option A for Screenshot 30",
+    "explanation": "Explanation for Screenshot 30"
+  },
+  {
+    "id": "k3-info-en-screenshot-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Screenshot",
+    "options": [
+      "Option A for Screenshot 31",
+      "Option B for Screenshot 31",
+      "Option C for Screenshot 31"
+    ],
+    "correctAnswer": "Option A for Screenshot 31",
+    "explanation": "Explanation for Screenshot 31"
+  },
+  {
+    "id": "k3-info-en-screenshot-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Screenshot",
+    "options": [
+      "Option B for Screenshot 32",
+      "Option A for Screenshot 32",
+      "Option C for Screenshot 32"
+    ],
+    "correctAnswer": "Option A for Screenshot 32",
+    "explanation": "Explanation for Screenshot 32"
+  },
+  {
+    "id": "k3-info-en-screenshot-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Screenshot",
+    "options": [
+      "Option A for Screenshot 33",
+      "Option C for Screenshot 33",
+      "Option B for Screenshot 33"
+    ],
+    "correctAnswer": "Option A for Screenshot 33",
+    "explanation": "Explanation for Screenshot 33"
+  },
+  {
+    "id": "k3-info-en-screenshot-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Screenshot",
+    "options": [
+      "Option A for Screenshot 34",
+      "Option B for Screenshot 34",
+      "Option C for Screenshot 34"
+    ],
+    "correctAnswer": "Option A for Screenshot 34",
+    "explanation": "Explanation for Screenshot 34"
+  },
+  {
+    "id": "k3-info-en-screenshot-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Screenshot",
+    "options": [
+      "Option C for Screenshot 35",
+      "Option B for Screenshot 35",
+      "Option A for Screenshot 35"
+    ],
+    "correctAnswer": "Option A for Screenshot 35",
+    "explanation": "Explanation for Screenshot 35"
+  }
+]

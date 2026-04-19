@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-url-address-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about URL (address)",
+    "options": [
+      "Option B for URL (address) 1",
+      "Option C for URL (address) 1",
+      "Option A for URL (address) 1"
+    ],
+    "correctAnswer": "Option A for URL (address) 1",
+    "explanation": "Explanation for URL (address) 1"
+  },
+  {
+    "id": "k3-info-en-url-address-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about URL (address)",
+    "options": [
+      "Option C for URL (address) 2",
+      "Option B for URL (address) 2",
+      "Option A for URL (address) 2"
+    ],
+    "correctAnswer": "Option A for URL (address) 2",
+    "explanation": "Explanation for URL (address) 2"
+  },
+  {
+    "id": "k3-info-en-url-address-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about URL (address)",
+    "options": [
+      "Option C for URL (address) 3",
+      "Option B for URL (address) 3",
+      "Option A for URL (address) 3"
+    ],
+    "correctAnswer": "Option A for URL (address) 3",
+    "explanation": "Explanation for URL (address) 3"
+  },
+  {
+    "id": "k3-info-en-url-address-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about URL (address)",
+    "options": [
+      "Option A for URL (address) 4",
+      "Option C for URL (address) 4",
+      "Option B for URL (address) 4"
+    ],
+    "correctAnswer": "Option A for URL (address) 4",
+    "explanation": "Explanation for URL (address) 4"
+  },
+  {
+    "id": "k3-info-en-url-address-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about URL (address)",
+    "options": [
+      "Option B for URL (address) 5",
+      "Option A for URL (address) 5",
+      "Option C for URL (address) 5"
+    ],
+    "correctAnswer": "Option A for URL (address) 5",
+    "explanation": "Explanation for URL (address) 5"
+  },
+  {
+    "id": "k3-info-en-url-address-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about URL (address)",
+    "options": [
+      "Option A for URL (address) 6",
+      "Option C for URL (address) 6",
+      "Option B for URL (address) 6"
+    ],
+    "correctAnswer": "Option A for URL (address) 6",
+    "explanation": "Explanation for URL (address) 6"
+  },
+  {
+    "id": "k3-info-en-url-address-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about URL (address)",
+    "options": [
+      "Option A for URL (address) 7",
+      "Option B for URL (address) 7",
+      "Option C for URL (address) 7"
+    ],
+    "correctAnswer": "Option A for URL (address) 7",
+    "explanation": "Explanation for URL (address) 7"
+  },
+  {
+    "id": "k3-info-en-url-address-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about URL (address)",
+    "options": [
+      "Option C for URL (address) 8",
+      "Option A for URL (address) 8",
+      "Option B for URL (address) 8"
+    ],
+    "correctAnswer": "Option A for URL (address) 8",
+    "explanation": "Explanation for URL (address) 8"
+  },
+  {
+    "id": "k3-info-en-url-address-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about URL (address)",
+    "options": [
+      "Option A for URL (address) 9",
+      "Option B for URL (address) 9",
+      "Option C for URL (address) 9"
+    ],
+    "correctAnswer": "Option A for URL (address) 9",
+    "explanation": "Explanation for URL (address) 9"
+  },
+  {
+    "id": "k3-info-en-url-address-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about URL (address)",
+    "options": [
+      "Option B for URL (address) 10",
+      "Option A for URL (address) 10",
+      "Option C for URL (address) 10"
+    ],
+    "correctAnswer": "Option A for URL (address) 10",
+    "explanation": "Explanation for URL (address) 10"
+  },
+  {
+    "id": "k3-info-en-url-address-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about URL (address)",
+    "options": [
+      "Option A for URL (address) 11",
+      "Option B for URL (address) 11",
+      "Option C for URL (address) 11"
+    ],
+    "correctAnswer": "Option A for URL (address) 11",
+    "explanation": "Explanation for URL (address) 11"
+  },
+  {
+    "id": "k3-info-en-url-address-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about URL (address)",
+    "options": [
+      "Option C for URL (address) 12",
+      "Option A for URL (address) 12",
+      "Option B for URL (address) 12"
+    ],
+    "correctAnswer": "Option A for URL (address) 12",
+    "explanation": "Explanation for URL (address) 12"
+  },
+  {
+    "id": "k3-info-en-url-address-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about URL (address)",
+    "options": [
+      "Option C for URL (address) 13",
+      "Option B for URL (address) 13",
+      "Option A for URL (address) 13"
+    ],
+    "correctAnswer": "Option A for URL (address) 13",
+    "explanation": "Explanation for URL (address) 13"
+  },
+  {
+    "id": "k3-info-en-url-address-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about URL (address)",
+    "options": [
+      "Option C for URL (address) 14",
+      "Option A for URL (address) 14",
+      "Option B for URL (address) 14"
+    ],
+    "correctAnswer": "Option A for URL (address) 14",
+    "explanation": "Explanation for URL (address) 14"
+  },
+  {
+    "id": "k3-info-en-url-address-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about URL (address)",
+    "options": [
+      "Option A for URL (address) 15",
+      "Option B for URL (address) 15",
+      "Option C for URL (address) 15"
+    ],
+    "correctAnswer": "Option A for URL (address) 15",
+    "explanation": "Explanation for URL (address) 15"
+  },
+  {
+    "id": "k3-info-en-url-address-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about URL (address)",
+    "options": [
+      "Option A for URL (address) 16",
+      "Option B for URL (address) 16",
+      "Option C for URL (address) 16"
+    ],
+    "correctAnswer": "Option A for URL (address) 16",
+    "explanation": "Explanation for URL (address) 16"
+  },
+  {
+    "id": "k3-info-en-url-address-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about URL (address)",
+    "options": [
+      "Option B for URL (address) 17",
+      "Option C for URL (address) 17",
+      "Option A for URL (address) 17"
+    ],
+    "correctAnswer": "Option A for URL (address) 17",
+    "explanation": "Explanation for URL (address) 17"
+  },
+  {
+    "id": "k3-info-en-url-address-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about URL (address)",
+    "options": [
+      "Option A for URL (address) 18",
+      "Option B for URL (address) 18",
+      "Option C for URL (address) 18"
+    ],
+    "correctAnswer": "Option A for URL (address) 18",
+    "explanation": "Explanation for URL (address) 18"
+  },
+  {
+    "id": "k3-info-en-url-address-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about URL (address)",
+    "options": [
+      "Option B for URL (address) 19",
+      "Option A for URL (address) 19",
+      "Option C for URL (address) 19"
+    ],
+    "correctAnswer": "Option A for URL (address) 19",
+    "explanation": "Explanation for URL (address) 19"
+  },
+  {
+    "id": "k3-info-en-url-address-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about URL (address)",
+    "options": [
+      "Option C for URL (address) 20",
+      "Option A for URL (address) 20",
+      "Option B for URL (address) 20"
+    ],
+    "correctAnswer": "Option A for URL (address) 20",
+    "explanation": "Explanation for URL (address) 20"
+  },
+  {
+    "id": "k3-info-en-url-address-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about URL (address)",
+    "options": [
+      "Option A for URL (address) 21",
+      "Option C for URL (address) 21",
+      "Option B for URL (address) 21"
+    ],
+    "correctAnswer": "Option A for URL (address) 21",
+    "explanation": "Explanation for URL (address) 21"
+  },
+  {
+    "id": "k3-info-en-url-address-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about URL (address)",
+    "options": [
+      "Option A for URL (address) 22",
+      "Option B for URL (address) 22",
+      "Option C for URL (address) 22"
+    ],
+    "correctAnswer": "Option A for URL (address) 22",
+    "explanation": "Explanation for URL (address) 22"
+  },
+  {
+    "id": "k3-info-en-url-address-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about URL (address)",
+    "options": [
+      "Option C for URL (address) 23",
+      "Option B for URL (address) 23",
+      "Option A for URL (address) 23"
+    ],
+    "correctAnswer": "Option A for URL (address) 23",
+    "explanation": "Explanation for URL (address) 23"
+  },
+  {
+    "id": "k3-info-en-url-address-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about URL (address)",
+    "options": [
+      "Option A for URL (address) 24",
+      "Option B for URL (address) 24",
+      "Option C for URL (address) 24"
+    ],
+    "correctAnswer": "Option A for URL (address) 24",
+    "explanation": "Explanation for URL (address) 24"
+  },
+  {
+    "id": "k3-info-en-url-address-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about URL (address)",
+    "options": [
+      "Option A for URL (address) 25",
+      "Option C for URL (address) 25",
+      "Option B for URL (address) 25"
+    ],
+    "correctAnswer": "Option A for URL (address) 25",
+    "explanation": "Explanation for URL (address) 25"
+  },
+  {
+    "id": "k3-info-en-url-address-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about URL (address)",
+    "options": [
+      "Option C for URL (address) 26",
+      "Option B for URL (address) 26",
+      "Option A for URL (address) 26"
+    ],
+    "correctAnswer": "Option A for URL (address) 26",
+    "explanation": "Explanation for URL (address) 26"
+  },
+  {
+    "id": "k3-info-en-url-address-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about URL (address)",
+    "options": [
+      "Option B for URL (address) 27",
+      "Option C for URL (address) 27",
+      "Option A for URL (address) 27"
+    ],
+    "correctAnswer": "Option A for URL (address) 27",
+    "explanation": "Explanation for URL (address) 27"
+  },
+  {
+    "id": "k3-info-en-url-address-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about URL (address)",
+    "options": [
+      "Option B for URL (address) 28",
+      "Option C for URL (address) 28",
+      "Option A for URL (address) 28"
+    ],
+    "correctAnswer": "Option A for URL (address) 28",
+    "explanation": "Explanation for URL (address) 28"
+  },
+  {
+    "id": "k3-info-en-url-address-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about URL (address)",
+    "options": [
+      "Option B for URL (address) 29",
+      "Option C for URL (address) 29",
+      "Option A for URL (address) 29"
+    ],
+    "correctAnswer": "Option A for URL (address) 29",
+    "explanation": "Explanation for URL (address) 29"
+  },
+  {
+    "id": "k3-info-en-url-address-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about URL (address)",
+    "options": [
+      "Option C for URL (address) 30",
+      "Option A for URL (address) 30",
+      "Option B for URL (address) 30"
+    ],
+    "correctAnswer": "Option A for URL (address) 30",
+    "explanation": "Explanation for URL (address) 30"
+  },
+  {
+    "id": "k3-info-en-url-address-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about URL (address)",
+    "options": [
+      "Option C for URL (address) 31",
+      "Option A for URL (address) 31",
+      "Option B for URL (address) 31"
+    ],
+    "correctAnswer": "Option A for URL (address) 31",
+    "explanation": "Explanation for URL (address) 31"
+  },
+  {
+    "id": "k3-info-en-url-address-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about URL (address)",
+    "options": [
+      "Option C for URL (address) 32",
+      "Option A for URL (address) 32",
+      "Option B for URL (address) 32"
+    ],
+    "correctAnswer": "Option A for URL (address) 32",
+    "explanation": "Explanation for URL (address) 32"
+  },
+  {
+    "id": "k3-info-en-url-address-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about URL (address)",
+    "options": [
+      "Option B for URL (address) 33",
+      "Option C for URL (address) 33",
+      "Option A for URL (address) 33"
+    ],
+    "correctAnswer": "Option A for URL (address) 33",
+    "explanation": "Explanation for URL (address) 33"
+  },
+  {
+    "id": "k3-info-en-url-address-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about URL (address)",
+    "options": [
+      "Option A for URL (address) 34",
+      "Option C for URL (address) 34",
+      "Option B for URL (address) 34"
+    ],
+    "correctAnswer": "Option A for URL (address) 34",
+    "explanation": "Explanation for URL (address) 34"
+  },
+  {
+    "id": "k3-info-en-url-address-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about URL (address)",
+    "options": [
+      "Option B for URL (address) 35",
+      "Option C for URL (address) 35",
+      "Option A for URL (address) 35"
+    ],
+    "correctAnswer": "Option A for URL (address) 35",
+    "explanation": "Explanation for URL (address) 35"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-browser-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Browser",
+    "options": [
+      "Option A for Browser 1",
+      "Option B for Browser 1",
+      "Option C for Browser 1"
+    ],
+    "correctAnswer": "Option A for Browser 1",
+    "explanation": "Explanation for Browser 1"
+  },
+  {
+    "id": "k3-info-en-browser-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Browser",
+    "options": [
+      "Option B for Browser 2",
+      "Option C for Browser 2",
+      "Option A for Browser 2"
+    ],
+    "correctAnswer": "Option A for Browser 2",
+    "explanation": "Explanation for Browser 2"
+  },
+  {
+    "id": "k3-info-en-browser-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Browser",
+    "options": [
+      "Option B for Browser 3",
+      "Option C for Browser 3",
+      "Option A for Browser 3"
+    ],
+    "correctAnswer": "Option A for Browser 3",
+    "explanation": "Explanation for Browser 3"
+  },
+  {
+    "id": "k3-info-en-browser-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Browser",
+    "options": [
+      "Option A for Browser 4",
+      "Option C for Browser 4",
+      "Option B for Browser 4"
+    ],
+    "correctAnswer": "Option A for Browser 4",
+    "explanation": "Explanation for Browser 4"
+  },
+  {
+    "id": "k3-info-en-browser-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Browser",
+    "options": [
+      "Option B for Browser 5",
+      "Option A for Browser 5",
+      "Option C for Browser 5"
+    ],
+    "correctAnswer": "Option A for Browser 5",
+    "explanation": "Explanation for Browser 5"
+  },
+  {
+    "id": "k3-info-en-browser-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Browser",
+    "options": [
+      "Option B for Browser 6",
+      "Option A for Browser 6",
+      "Option C for Browser 6"
+    ],
+    "correctAnswer": "Option A for Browser 6",
+    "explanation": "Explanation for Browser 6"
+  },
+  {
+    "id": "k3-info-en-browser-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Browser",
+    "options": [
+      "Option A for Browser 7",
+      "Option B for Browser 7",
+      "Option C for Browser 7"
+    ],
+    "correctAnswer": "Option A for Browser 7",
+    "explanation": "Explanation for Browser 7"
+  },
+  {
+    "id": "k3-info-en-browser-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Browser",
+    "options": [
+      "Option B for Browser 8",
+      "Option C for Browser 8",
+      "Option A for Browser 8"
+    ],
+    "correctAnswer": "Option A for Browser 8",
+    "explanation": "Explanation for Browser 8"
+  },
+  {
+    "id": "k3-info-en-browser-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Browser",
+    "options": [
+      "Option C for Browser 9",
+      "Option B for Browser 9",
+      "Option A for Browser 9"
+    ],
+    "correctAnswer": "Option A for Browser 9",
+    "explanation": "Explanation for Browser 9"
+  },
+  {
+    "id": "k3-info-en-browser-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Browser",
+    "options": [
+      "Option C for Browser 10",
+      "Option A for Browser 10",
+      "Option B for Browser 10"
+    ],
+    "correctAnswer": "Option A for Browser 10",
+    "explanation": "Explanation for Browser 10"
+  },
+  {
+    "id": "k3-info-en-browser-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Browser",
+    "options": [
+      "Option B for Browser 11",
+      "Option C for Browser 11",
+      "Option A for Browser 11"
+    ],
+    "correctAnswer": "Option A for Browser 11",
+    "explanation": "Explanation for Browser 11"
+  },
+  {
+    "id": "k3-info-en-browser-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Browser",
+    "options": [
+      "Option B for Browser 12",
+      "Option C for Browser 12",
+      "Option A for Browser 12"
+    ],
+    "correctAnswer": "Option A for Browser 12",
+    "explanation": "Explanation for Browser 12"
+  },
+  {
+    "id": "k3-info-en-browser-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Browser",
+    "options": [
+      "Option C for Browser 13",
+      "Option B for Browser 13",
+      "Option A for Browser 13"
+    ],
+    "correctAnswer": "Option A for Browser 13",
+    "explanation": "Explanation for Browser 13"
+  },
+  {
+    "id": "k3-info-en-browser-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Browser",
+    "options": [
+      "Option B for Browser 14",
+      "Option C for Browser 14",
+      "Option A for Browser 14"
+    ],
+    "correctAnswer": "Option A for Browser 14",
+    "explanation": "Explanation for Browser 14"
+  },
+  {
+    "id": "k3-info-en-browser-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Browser",
+    "options": [
+      "Option A for Browser 15",
+      "Option C for Browser 15",
+      "Option B for Browser 15"
+    ],
+    "correctAnswer": "Option A for Browser 15",
+    "explanation": "Explanation for Browser 15"
+  },
+  {
+    "id": "k3-info-en-browser-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Browser",
+    "options": [
+      "Option A for Browser 16",
+      "Option B for Browser 16",
+      "Option C for Browser 16"
+    ],
+    "correctAnswer": "Option A for Browser 16",
+    "explanation": "Explanation for Browser 16"
+  },
+  {
+    "id": "k3-info-en-browser-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Browser",
+    "options": [
+      "Option C for Browser 17",
+      "Option B for Browser 17",
+      "Option A for Browser 17"
+    ],
+    "correctAnswer": "Option A for Browser 17",
+    "explanation": "Explanation for Browser 17"
+  },
+  {
+    "id": "k3-info-en-browser-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Browser",
+    "options": [
+      "Option B for Browser 18",
+      "Option C for Browser 18",
+      "Option A for Browser 18"
+    ],
+    "correctAnswer": "Option A for Browser 18",
+    "explanation": "Explanation for Browser 18"
+  },
+  {
+    "id": "k3-info-en-browser-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Browser",
+    "options": [
+      "Option C for Browser 19",
+      "Option B for Browser 19",
+      "Option A for Browser 19"
+    ],
+    "correctAnswer": "Option A for Browser 19",
+    "explanation": "Explanation for Browser 19"
+  },
+  {
+    "id": "k3-info-en-browser-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Browser",
+    "options": [
+      "Option A for Browser 20",
+      "Option C for Browser 20",
+      "Option B for Browser 20"
+    ],
+    "correctAnswer": "Option A for Browser 20",
+    "explanation": "Explanation for Browser 20"
+  },
+  {
+    "id": "k3-info-en-browser-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Browser",
+    "options": [
+      "Option A for Browser 21",
+      "Option C for Browser 21",
+      "Option B for Browser 21"
+    ],
+    "correctAnswer": "Option A for Browser 21",
+    "explanation": "Explanation for Browser 21"
+  },
+  {
+    "id": "k3-info-en-browser-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Browser",
+    "options": [
+      "Option C for Browser 22",
+      "Option B for Browser 22",
+      "Option A for Browser 22"
+    ],
+    "correctAnswer": "Option A for Browser 22",
+    "explanation": "Explanation for Browser 22"
+  },
+  {
+    "id": "k3-info-en-browser-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Browser",
+    "options": [
+      "Option B for Browser 23",
+      "Option C for Browser 23",
+      "Option A for Browser 23"
+    ],
+    "correctAnswer": "Option A for Browser 23",
+    "explanation": "Explanation for Browser 23"
+  },
+  {
+    "id": "k3-info-en-browser-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Browser",
+    "options": [
+      "Option B for Browser 24",
+      "Option A for Browser 24",
+      "Option C for Browser 24"
+    ],
+    "correctAnswer": "Option A for Browser 24",
+    "explanation": "Explanation for Browser 24"
+  },
+  {
+    "id": "k3-info-en-browser-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Browser",
+    "options": [
+      "Option A for Browser 25",
+      "Option C for Browser 25",
+      "Option B for Browser 25"
+    ],
+    "correctAnswer": "Option A for Browser 25",
+    "explanation": "Explanation for Browser 25"
+  },
+  {
+    "id": "k3-info-en-browser-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Browser",
+    "options": [
+      "Option B for Browser 26",
+      "Option C for Browser 26",
+      "Option A for Browser 26"
+    ],
+    "correctAnswer": "Option A for Browser 26",
+    "explanation": "Explanation for Browser 26"
+  },
+  {
+    "id": "k3-info-en-browser-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Browser",
+    "options": [
+      "Option A for Browser 27",
+      "Option C for Browser 27",
+      "Option B for Browser 27"
+    ],
+    "correctAnswer": "Option A for Browser 27",
+    "explanation": "Explanation for Browser 27"
+  },
+  {
+    "id": "k3-info-en-browser-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Browser",
+    "options": [
+      "Option B for Browser 28",
+      "Option C for Browser 28",
+      "Option A for Browser 28"
+    ],
+    "correctAnswer": "Option A for Browser 28",
+    "explanation": "Explanation for Browser 28"
+  },
+  {
+    "id": "k3-info-en-browser-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Browser",
+    "options": [
+      "Option C for Browser 29",
+      "Option B for Browser 29",
+      "Option A for Browser 29"
+    ],
+    "correctAnswer": "Option A for Browser 29",
+    "explanation": "Explanation for Browser 29"
+  },
+  {
+    "id": "k3-info-en-browser-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Browser",
+    "options": [
+      "Option C for Browser 30",
+      "Option A for Browser 30",
+      "Option B for Browser 30"
+    ],
+    "correctAnswer": "Option A for Browser 30",
+    "explanation": "Explanation for Browser 30"
+  },
+  {
+    "id": "k3-info-en-browser-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Browser",
+    "options": [
+      "Option A for Browser 31",
+      "Option C for Browser 31",
+      "Option B for Browser 31"
+    ],
+    "correctAnswer": "Option A for Browser 31",
+    "explanation": "Explanation for Browser 31"
+  },
+  {
+    "id": "k3-info-en-browser-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Browser",
+    "options": [
+      "Option B for Browser 32",
+      "Option A for Browser 32",
+      "Option C for Browser 32"
+    ],
+    "correctAnswer": "Option A for Browser 32",
+    "explanation": "Explanation for Browser 32"
+  },
+  {
+    "id": "k3-info-en-browser-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Browser",
+    "options": [
+      "Option A for Browser 33",
+      "Option B for Browser 33",
+      "Option C for Browser 33"
+    ],
+    "correctAnswer": "Option A for Browser 33",
+    "explanation": "Explanation for Browser 33"
+  },
+  {
+    "id": "k3-info-en-browser-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Browser",
+    "options": [
+      "Option B for Browser 34",
+      "Option C for Browser 34",
+      "Option A for Browser 34"
+    ],
+    "correctAnswer": "Option A for Browser 34",
+    "explanation": "Explanation for Browser 34"
+  },
+  {
+    "id": "k3-info-en-browser-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Browser",
+    "options": [
+      "Option A for Browser 35",
+      "Option B for Browser 35",
+      "Option C for Browser 35"
+    ],
+    "correctAnswer": "Option A for Browser 35",
+    "explanation": "Explanation for Browser 35"
+  }
+]

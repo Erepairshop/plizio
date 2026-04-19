@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-inserare-imagine-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 1",
+      "Opțiunea A pentru Inserare imagine 1",
+      "Opțiunea B pentru Inserare imagine 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 1",
+    "explanation": "Explicație pentru Inserare imagine 1"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 2",
+      "Opțiunea A pentru Inserare imagine 2",
+      "Opțiunea B pentru Inserare imagine 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 2",
+    "explanation": "Explicație pentru Inserare imagine 2"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 3",
+      "Opțiunea B pentru Inserare imagine 3",
+      "Opțiunea C pentru Inserare imagine 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 3",
+    "explanation": "Explicație pentru Inserare imagine 3"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 4",
+      "Opțiunea B pentru Inserare imagine 4",
+      "Opțiunea C pentru Inserare imagine 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 4",
+    "explanation": "Explicație pentru Inserare imagine 4"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 5",
+      "Opțiunea C pentru Inserare imagine 5",
+      "Opțiunea B pentru Inserare imagine 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 5",
+    "explanation": "Explicație pentru Inserare imagine 5"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 6",
+      "Opțiunea B pentru Inserare imagine 6",
+      "Opțiunea A pentru Inserare imagine 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 6",
+    "explanation": "Explicație pentru Inserare imagine 6"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 7",
+      "Opțiunea A pentru Inserare imagine 7",
+      "Opțiunea C pentru Inserare imagine 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 7",
+    "explanation": "Explicație pentru Inserare imagine 7"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 8",
+      "Opțiunea C pentru Inserare imagine 8",
+      "Opțiunea A pentru Inserare imagine 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 8",
+    "explanation": "Explicație pentru Inserare imagine 8"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 9",
+      "Opțiunea B pentru Inserare imagine 9",
+      "Opțiunea A pentru Inserare imagine 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 9",
+    "explanation": "Explicație pentru Inserare imagine 9"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 10",
+      "Opțiunea B pentru Inserare imagine 10",
+      "Opțiunea A pentru Inserare imagine 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 10",
+    "explanation": "Explicație pentru Inserare imagine 10"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 11",
+      "Opțiunea B pentru Inserare imagine 11",
+      "Opțiunea A pentru Inserare imagine 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 11",
+    "explanation": "Explicație pentru Inserare imagine 11"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 12",
+      "Opțiunea A pentru Inserare imagine 12",
+      "Opțiunea C pentru Inserare imagine 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 12",
+    "explanation": "Explicație pentru Inserare imagine 12"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 13",
+      "Opțiunea B pentru Inserare imagine 13",
+      "Opțiunea C pentru Inserare imagine 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 13",
+    "explanation": "Explicație pentru Inserare imagine 13"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 14",
+      "Opțiunea A pentru Inserare imagine 14",
+      "Opțiunea C pentru Inserare imagine 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 14",
+    "explanation": "Explicație pentru Inserare imagine 14"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 15",
+      "Opțiunea A pentru Inserare imagine 15",
+      "Opțiunea C pentru Inserare imagine 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 15",
+    "explanation": "Explicație pentru Inserare imagine 15"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 16",
+      "Opțiunea B pentru Inserare imagine 16",
+      "Opțiunea A pentru Inserare imagine 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 16",
+    "explanation": "Explicație pentru Inserare imagine 16"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 17",
+      "Opțiunea C pentru Inserare imagine 17",
+      "Opțiunea B pentru Inserare imagine 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 17",
+    "explanation": "Explicație pentru Inserare imagine 17"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 18",
+      "Opțiunea C pentru Inserare imagine 18",
+      "Opțiunea A pentru Inserare imagine 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 18",
+    "explanation": "Explicație pentru Inserare imagine 18"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 19",
+      "Opțiunea C pentru Inserare imagine 19",
+      "Opțiunea A pentru Inserare imagine 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 19",
+    "explanation": "Explicație pentru Inserare imagine 19"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 20",
+      "Opțiunea B pentru Inserare imagine 20",
+      "Opțiunea A pentru Inserare imagine 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 20",
+    "explanation": "Explicație pentru Inserare imagine 20"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 21",
+      "Opțiunea A pentru Inserare imagine 21",
+      "Opțiunea C pentru Inserare imagine 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 21",
+    "explanation": "Explicație pentru Inserare imagine 21"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 22",
+      "Opțiunea A pentru Inserare imagine 22",
+      "Opțiunea B pentru Inserare imagine 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 22",
+    "explanation": "Explicație pentru Inserare imagine 22"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 23",
+      "Opțiunea B pentru Inserare imagine 23",
+      "Opțiunea A pentru Inserare imagine 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 23",
+    "explanation": "Explicație pentru Inserare imagine 23"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 24",
+      "Opțiunea B pentru Inserare imagine 24",
+      "Opțiunea A pentru Inserare imagine 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 24",
+    "explanation": "Explicație pentru Inserare imagine 24"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 25",
+      "Opțiunea A pentru Inserare imagine 25",
+      "Opțiunea C pentru Inserare imagine 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 25",
+    "explanation": "Explicație pentru Inserare imagine 25"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 26",
+      "Opțiunea B pentru Inserare imagine 26",
+      "Opțiunea A pentru Inserare imagine 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 26",
+    "explanation": "Explicație pentru Inserare imagine 26"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 27",
+      "Opțiunea C pentru Inserare imagine 27",
+      "Opțiunea B pentru Inserare imagine 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 27",
+    "explanation": "Explicație pentru Inserare imagine 27"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 28",
+      "Opțiunea C pentru Inserare imagine 28",
+      "Opțiunea B pentru Inserare imagine 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 28",
+    "explanation": "Explicație pentru Inserare imagine 28"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 29",
+      "Opțiunea A pentru Inserare imagine 29",
+      "Opțiunea B pentru Inserare imagine 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 29",
+    "explanation": "Explicație pentru Inserare imagine 29"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 30",
+      "Opțiunea A pentru Inserare imagine 30",
+      "Opțiunea C pentru Inserare imagine 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 30",
+    "explanation": "Explicație pentru Inserare imagine 30"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 31",
+      "Opțiunea B pentru Inserare imagine 31",
+      "Opțiunea C pentru Inserare imagine 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 31",
+    "explanation": "Explicație pentru Inserare imagine 31"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Inserare imagine",
+    "options": [
+      "Opțiunea B pentru Inserare imagine 32",
+      "Opțiunea C pentru Inserare imagine 32",
+      "Opțiunea A pentru Inserare imagine 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 32",
+    "explanation": "Explicație pentru Inserare imagine 32"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Inserare imagine",
+    "options": [
+      "Opțiunea C pentru Inserare imagine 33",
+      "Opțiunea B pentru Inserare imagine 33",
+      "Opțiunea A pentru Inserare imagine 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 33",
+    "explanation": "Explicație pentru Inserare imagine 33"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 34",
+      "Opțiunea C pentru Inserare imagine 34",
+      "Opțiunea B pentru Inserare imagine 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 34",
+    "explanation": "Explicație pentru Inserare imagine 34"
+  },
+  {
+    "id": "k3-info-ro-inserare-imagine-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Inserare imagine",
+    "options": [
+      "Opțiunea A pentru Inserare imagine 35",
+      "Opțiunea C pentru Inserare imagine 35",
+      "Opțiunea B pentru Inserare imagine 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Inserare imagine 35",
+    "explanation": "Explicație pentru Inserare imagine 35"
+  }
+]

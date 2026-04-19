@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-font-size--style-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Font size / style",
+    "options": [
+      "Option B for Font size / style 1",
+      "Option C for Font size / style 1",
+      "Option A for Font size / style 1"
+    ],
+    "correctAnswer": "Option A for Font size / style 1",
+    "explanation": "Explanation for Font size / style 1"
+  },
+  {
+    "id": "k3-info-en-font-size--style-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Font size / style",
+    "options": [
+      "Option A for Font size / style 2",
+      "Option C for Font size / style 2",
+      "Option B for Font size / style 2"
+    ],
+    "correctAnswer": "Option A for Font size / style 2",
+    "explanation": "Explanation for Font size / style 2"
+  },
+  {
+    "id": "k3-info-en-font-size--style-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Font size / style",
+    "options": [
+      "Option C for Font size / style 3",
+      "Option B for Font size / style 3",
+      "Option A for Font size / style 3"
+    ],
+    "correctAnswer": "Option A for Font size / style 3",
+    "explanation": "Explanation for Font size / style 3"
+  },
+  {
+    "id": "k3-info-en-font-size--style-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Font size / style",
+    "options": [
+      "Option B for Font size / style 4",
+      "Option A for Font size / style 4",
+      "Option C for Font size / style 4"
+    ],
+    "correctAnswer": "Option A for Font size / style 4",
+    "explanation": "Explanation for Font size / style 4"
+  },
+  {
+    "id": "k3-info-en-font-size--style-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Font size / style",
+    "options": [
+      "Option A for Font size / style 5",
+      "Option C for Font size / style 5",
+      "Option B for Font size / style 5"
+    ],
+    "correctAnswer": "Option A for Font size / style 5",
+    "explanation": "Explanation for Font size / style 5"
+  },
+  {
+    "id": "k3-info-en-font-size--style-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Font size / style",
+    "options": [
+      "Option B for Font size / style 6",
+      "Option A for Font size / style 6",
+      "Option C for Font size / style 6"
+    ],
+    "correctAnswer": "Option A for Font size / style 6",
+    "explanation": "Explanation for Font size / style 6"
+  },
+  {
+    "id": "k3-info-en-font-size--style-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Font size / style",
+    "options": [
+      "Option A for Font size / style 7",
+      "Option B for Font size / style 7",
+      "Option C for Font size / style 7"
+    ],
+    "correctAnswer": "Option A for Font size / style 7",
+    "explanation": "Explanation for Font size / style 7"
+  },
+  {
+    "id": "k3-info-en-font-size--style-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Font size / style",
+    "options": [
+      "Option C for Font size / style 8",
+      "Option B for Font size / style 8",
+      "Option A for Font size / style 8"
+    ],
+    "correctAnswer": "Option A for Font size / style 8",
+    "explanation": "Explanation for Font size / style 8"
+  },
+  {
+    "id": "k3-info-en-font-size--style-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Font size / style",
+    "options": [
+      "Option B for Font size / style 9",
+      "Option A for Font size / style 9",
+      "Option C for Font size / style 9"
+    ],
+    "correctAnswer": "Option A for Font size / style 9",
+    "explanation": "Explanation for Font size / style 9"
+  },
+  {
+    "id": "k3-info-en-font-size--style-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Font size / style",
+    "options": [
+      "Option B for Font size / style 10",
+      "Option A for Font size / style 10",
+      "Option C for Font size / style 10"
+    ],
+    "correctAnswer": "Option A for Font size / style 10",
+    "explanation": "Explanation for Font size / style 10"
+  },
+  {
+    "id": "k3-info-en-font-size--style-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Font size / style",
+    "options": [
+      "Option B for Font size / style 11",
+      "Option C for Font size / style 11",
+      "Option A for Font size / style 11"
+    ],
+    "correctAnswer": "Option A for Font size / style 11",
+    "explanation": "Explanation for Font size / style 11"
+  },
+  {
+    "id": "k3-info-en-font-size--style-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Font size / style",
+    "options": [
+      "Option A for Font size / style 12",
+      "Option C for Font size / style 12",
+      "Option B for Font size / style 12"
+    ],
+    "correctAnswer": "Option A for Font size / style 12",
+    "explanation": "Explanation for Font size / style 12"
+  },
+  {
+    "id": "k3-info-en-font-size--style-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Font size / style",
+    "options": [
+      "Option B for Font size / style 13",
+      "Option C for Font size / style 13",
+      "Option A for Font size / style 13"
+    ],
+    "correctAnswer": "Option A for Font size / style 13",
+    "explanation": "Explanation for Font size / style 13"
+  },
+  {
+    "id": "k3-info-en-font-size--style-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Font size / style",
+    "options": [
+      "Option B for Font size / style 14",
+      "Option C for Font size / style 14",
+      "Option A for Font size / style 14"
+    ],
+    "correctAnswer": "Option A for Font size / style 14",
+    "explanation": "Explanation for Font size / style 14"
+  },
+  {
+    "id": "k3-info-en-font-size--style-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Font size / style",
+    "options": [
+      "Option A for Font size / style 15",
+      "Option B for Font size / style 15",
+      "Option C for Font size / style 15"
+    ],
+    "correctAnswer": "Option A for Font size / style 15",
+    "explanation": "Explanation for Font size / style 15"
+  },
+  {
+    "id": "k3-info-en-font-size--style-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Font size / style",
+    "options": [
+      "Option B for Font size / style 16",
+      "Option A for Font size / style 16",
+      "Option C for Font size / style 16"
+    ],
+    "correctAnswer": "Option A for Font size / style 16",
+    "explanation": "Explanation for Font size / style 16"
+  },
+  {
+    "id": "k3-info-en-font-size--style-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Font size / style",
+    "options": [
+      "Option A for Font size / style 17",
+      "Option C for Font size / style 17",
+      "Option B for Font size / style 17"
+    ],
+    "correctAnswer": "Option A for Font size / style 17",
+    "explanation": "Explanation for Font size / style 17"
+  },
+  {
+    "id": "k3-info-en-font-size--style-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Font size / style",
+    "options": [
+      "Option C for Font size / style 18",
+      "Option A for Font size / style 18",
+      "Option B for Font size / style 18"
+    ],
+    "correctAnswer": "Option A for Font size / style 18",
+    "explanation": "Explanation for Font size / style 18"
+  },
+  {
+    "id": "k3-info-en-font-size--style-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Font size / style",
+    "options": [
+      "Option A for Font size / style 19",
+      "Option B for Font size / style 19",
+      "Option C for Font size / style 19"
+    ],
+    "correctAnswer": "Option A for Font size / style 19",
+    "explanation": "Explanation for Font size / style 19"
+  },
+  {
+    "id": "k3-info-en-font-size--style-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Font size / style",
+    "options": [
+      "Option C for Font size / style 20",
+      "Option B for Font size / style 20",
+      "Option A for Font size / style 20"
+    ],
+    "correctAnswer": "Option A for Font size / style 20",
+    "explanation": "Explanation for Font size / style 20"
+  },
+  {
+    "id": "k3-info-en-font-size--style-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Font size / style",
+    "options": [
+      "Option C for Font size / style 21",
+      "Option A for Font size / style 21",
+      "Option B for Font size / style 21"
+    ],
+    "correctAnswer": "Option A for Font size / style 21",
+    "explanation": "Explanation for Font size / style 21"
+  },
+  {
+    "id": "k3-info-en-font-size--style-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Font size / style",
+    "options": [
+      "Option C for Font size / style 22",
+      "Option B for Font size / style 22",
+      "Option A for Font size / style 22"
+    ],
+    "correctAnswer": "Option A for Font size / style 22",
+    "explanation": "Explanation for Font size / style 22"
+  },
+  {
+    "id": "k3-info-en-font-size--style-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Font size / style",
+    "options": [
+      "Option A for Font size / style 23",
+      "Option C for Font size / style 23",
+      "Option B for Font size / style 23"
+    ],
+    "correctAnswer": "Option A for Font size / style 23",
+    "explanation": "Explanation for Font size / style 23"
+  },
+  {
+    "id": "k3-info-en-font-size--style-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Font size / style",
+    "options": [
+      "Option C for Font size / style 24",
+      "Option B for Font size / style 24",
+      "Option A for Font size / style 24"
+    ],
+    "correctAnswer": "Option A for Font size / style 24",
+    "explanation": "Explanation for Font size / style 24"
+  },
+  {
+    "id": "k3-info-en-font-size--style-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Font size / style",
+    "options": [
+      "Option A for Font size / style 25",
+      "Option C for Font size / style 25",
+      "Option B for Font size / style 25"
+    ],
+    "correctAnswer": "Option A for Font size / style 25",
+    "explanation": "Explanation for Font size / style 25"
+  },
+  {
+    "id": "k3-info-en-font-size--style-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Font size / style",
+    "options": [
+      "Option B for Font size / style 26",
+      "Option A for Font size / style 26",
+      "Option C for Font size / style 26"
+    ],
+    "correctAnswer": "Option A for Font size / style 26",
+    "explanation": "Explanation for Font size / style 26"
+  },
+  {
+    "id": "k3-info-en-font-size--style-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Font size / style",
+    "options": [
+      "Option B for Font size / style 27",
+      "Option C for Font size / style 27",
+      "Option A for Font size / style 27"
+    ],
+    "correctAnswer": "Option A for Font size / style 27",
+    "explanation": "Explanation for Font size / style 27"
+  },
+  {
+    "id": "k3-info-en-font-size--style-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Font size / style",
+    "options": [
+      "Option B for Font size / style 28",
+      "Option C for Font size / style 28",
+      "Option A for Font size / style 28"
+    ],
+    "correctAnswer": "Option A for Font size / style 28",
+    "explanation": "Explanation for Font size / style 28"
+  },
+  {
+    "id": "k3-info-en-font-size--style-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Font size / style",
+    "options": [
+      "Option C for Font size / style 29",
+      "Option B for Font size / style 29",
+      "Option A for Font size / style 29"
+    ],
+    "correctAnswer": "Option A for Font size / style 29",
+    "explanation": "Explanation for Font size / style 29"
+  },
+  {
+    "id": "k3-info-en-font-size--style-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Font size / style",
+    "options": [
+      "Option C for Font size / style 30",
+      "Option B for Font size / style 30",
+      "Option A for Font size / style 30"
+    ],
+    "correctAnswer": "Option A for Font size / style 30",
+    "explanation": "Explanation for Font size / style 30"
+  },
+  {
+    "id": "k3-info-en-font-size--style-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Font size / style",
+    "options": [
+      "Option A for Font size / style 31",
+      "Option C for Font size / style 31",
+      "Option B for Font size / style 31"
+    ],
+    "correctAnswer": "Option A for Font size / style 31",
+    "explanation": "Explanation for Font size / style 31"
+  },
+  {
+    "id": "k3-info-en-font-size--style-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Font size / style",
+    "options": [
+      "Option C for Font size / style 32",
+      "Option B for Font size / style 32",
+      "Option A for Font size / style 32"
+    ],
+    "correctAnswer": "Option A for Font size / style 32",
+    "explanation": "Explanation for Font size / style 32"
+  },
+  {
+    "id": "k3-info-en-font-size--style-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Font size / style",
+    "options": [
+      "Option A for Font size / style 33",
+      "Option B for Font size / style 33",
+      "Option C for Font size / style 33"
+    ],
+    "correctAnswer": "Option A for Font size / style 33",
+    "explanation": "Explanation for Font size / style 33"
+  },
+  {
+    "id": "k3-info-en-font-size--style-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Font size / style",
+    "options": [
+      "Option A for Font size / style 34",
+      "Option C for Font size / style 34",
+      "Option B for Font size / style 34"
+    ],
+    "correctAnswer": "Option A for Font size / style 34",
+    "explanation": "Explanation for Font size / style 34"
+  },
+  {
+    "id": "k3-info-en-font-size--style-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Font size / style",
+    "options": [
+      "Option B for Font size / style 35",
+      "Option C for Font size / style 35",
+      "Option A for Font size / style 35"
+    ],
+    "correctAnswer": "Option A for Font size / style 35",
+    "explanation": "Explanation for Font size / style 35"
+  }
+]

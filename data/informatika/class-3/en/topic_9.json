@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-chat-basics-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Chat basics",
+    "options": [
+      "Option C for Chat basics 1",
+      "Option B for Chat basics 1",
+      "Option A for Chat basics 1"
+    ],
+    "correctAnswer": "Option A for Chat basics 1",
+    "explanation": "Explanation for Chat basics 1"
+  },
+  {
+    "id": "k3-info-en-chat-basics-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Chat basics",
+    "options": [
+      "Option A for Chat basics 2",
+      "Option B for Chat basics 2",
+      "Option C for Chat basics 2"
+    ],
+    "correctAnswer": "Option A for Chat basics 2",
+    "explanation": "Explanation for Chat basics 2"
+  },
+  {
+    "id": "k3-info-en-chat-basics-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Chat basics",
+    "options": [
+      "Option B for Chat basics 3",
+      "Option A for Chat basics 3",
+      "Option C for Chat basics 3"
+    ],
+    "correctAnswer": "Option A for Chat basics 3",
+    "explanation": "Explanation for Chat basics 3"
+  },
+  {
+    "id": "k3-info-en-chat-basics-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Chat basics",
+    "options": [
+      "Option B for Chat basics 4",
+      "Option A for Chat basics 4",
+      "Option C for Chat basics 4"
+    ],
+    "correctAnswer": "Option A for Chat basics 4",
+    "explanation": "Explanation for Chat basics 4"
+  },
+  {
+    "id": "k3-info-en-chat-basics-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Chat basics",
+    "options": [
+      "Option B for Chat basics 5",
+      "Option A for Chat basics 5",
+      "Option C for Chat basics 5"
+    ],
+    "correctAnswer": "Option A for Chat basics 5",
+    "explanation": "Explanation for Chat basics 5"
+  },
+  {
+    "id": "k3-info-en-chat-basics-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Chat basics",
+    "options": [
+      "Option C for Chat basics 6",
+      "Option B for Chat basics 6",
+      "Option A for Chat basics 6"
+    ],
+    "correctAnswer": "Option A for Chat basics 6",
+    "explanation": "Explanation for Chat basics 6"
+  },
+  {
+    "id": "k3-info-en-chat-basics-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Chat basics",
+    "options": [
+      "Option C for Chat basics 7",
+      "Option B for Chat basics 7",
+      "Option A for Chat basics 7"
+    ],
+    "correctAnswer": "Option A for Chat basics 7",
+    "explanation": "Explanation for Chat basics 7"
+  },
+  {
+    "id": "k3-info-en-chat-basics-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Chat basics",
+    "options": [
+      "Option C for Chat basics 8",
+      "Option A for Chat basics 8",
+      "Option B for Chat basics 8"
+    ],
+    "correctAnswer": "Option A for Chat basics 8",
+    "explanation": "Explanation for Chat basics 8"
+  },
+  {
+    "id": "k3-info-en-chat-basics-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Chat basics",
+    "options": [
+      "Option C for Chat basics 9",
+      "Option B for Chat basics 9",
+      "Option A for Chat basics 9"
+    ],
+    "correctAnswer": "Option A for Chat basics 9",
+    "explanation": "Explanation for Chat basics 9"
+  },
+  {
+    "id": "k3-info-en-chat-basics-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Chat basics",
+    "options": [
+      "Option C for Chat basics 10",
+      "Option A for Chat basics 10",
+      "Option B for Chat basics 10"
+    ],
+    "correctAnswer": "Option A for Chat basics 10",
+    "explanation": "Explanation for Chat basics 10"
+  },
+  {
+    "id": "k3-info-en-chat-basics-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Chat basics",
+    "options": [
+      "Option A for Chat basics 11",
+      "Option B for Chat basics 11",
+      "Option C for Chat basics 11"
+    ],
+    "correctAnswer": "Option A for Chat basics 11",
+    "explanation": "Explanation for Chat basics 11"
+  },
+  {
+    "id": "k3-info-en-chat-basics-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Chat basics",
+    "options": [
+      "Option A for Chat basics 12",
+      "Option B for Chat basics 12",
+      "Option C for Chat basics 12"
+    ],
+    "correctAnswer": "Option A for Chat basics 12",
+    "explanation": "Explanation for Chat basics 12"
+  },
+  {
+    "id": "k3-info-en-chat-basics-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Chat basics",
+    "options": [
+      "Option C for Chat basics 13",
+      "Option B for Chat basics 13",
+      "Option A for Chat basics 13"
+    ],
+    "correctAnswer": "Option A for Chat basics 13",
+    "explanation": "Explanation for Chat basics 13"
+  },
+  {
+    "id": "k3-info-en-chat-basics-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Chat basics",
+    "options": [
+      "Option C for Chat basics 14",
+      "Option B for Chat basics 14",
+      "Option A for Chat basics 14"
+    ],
+    "correctAnswer": "Option A for Chat basics 14",
+    "explanation": "Explanation for Chat basics 14"
+  },
+  {
+    "id": "k3-info-en-chat-basics-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Chat basics",
+    "options": [
+      "Option C for Chat basics 15",
+      "Option A for Chat basics 15",
+      "Option B for Chat basics 15"
+    ],
+    "correctAnswer": "Option A for Chat basics 15",
+    "explanation": "Explanation for Chat basics 15"
+  },
+  {
+    "id": "k3-info-en-chat-basics-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Chat basics",
+    "options": [
+      "Option C for Chat basics 16",
+      "Option B for Chat basics 16",
+      "Option A for Chat basics 16"
+    ],
+    "correctAnswer": "Option A for Chat basics 16",
+    "explanation": "Explanation for Chat basics 16"
+  },
+  {
+    "id": "k3-info-en-chat-basics-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Chat basics",
+    "options": [
+      "Option C for Chat basics 17",
+      "Option A for Chat basics 17",
+      "Option B for Chat basics 17"
+    ],
+    "correctAnswer": "Option A for Chat basics 17",
+    "explanation": "Explanation for Chat basics 17"
+  },
+  {
+    "id": "k3-info-en-chat-basics-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Chat basics",
+    "options": [
+      "Option A for Chat basics 18",
+      "Option C for Chat basics 18",
+      "Option B for Chat basics 18"
+    ],
+    "correctAnswer": "Option A for Chat basics 18",
+    "explanation": "Explanation for Chat basics 18"
+  },
+  {
+    "id": "k3-info-en-chat-basics-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Chat basics",
+    "options": [
+      "Option A for Chat basics 19",
+      "Option C for Chat basics 19",
+      "Option B for Chat basics 19"
+    ],
+    "correctAnswer": "Option A for Chat basics 19",
+    "explanation": "Explanation for Chat basics 19"
+  },
+  {
+    "id": "k3-info-en-chat-basics-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Chat basics",
+    "options": [
+      "Option B for Chat basics 20",
+      "Option A for Chat basics 20",
+      "Option C for Chat basics 20"
+    ],
+    "correctAnswer": "Option A for Chat basics 20",
+    "explanation": "Explanation for Chat basics 20"
+  },
+  {
+    "id": "k3-info-en-chat-basics-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Chat basics",
+    "options": [
+      "Option A for Chat basics 21",
+      "Option B for Chat basics 21",
+      "Option C for Chat basics 21"
+    ],
+    "correctAnswer": "Option A for Chat basics 21",
+    "explanation": "Explanation for Chat basics 21"
+  },
+  {
+    "id": "k3-info-en-chat-basics-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Chat basics",
+    "options": [
+      "Option C for Chat basics 22",
+      "Option A for Chat basics 22",
+      "Option B for Chat basics 22"
+    ],
+    "correctAnswer": "Option A for Chat basics 22",
+    "explanation": "Explanation for Chat basics 22"
+  },
+  {
+    "id": "k3-info-en-chat-basics-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Chat basics",
+    "options": [
+      "Option C for Chat basics 23",
+      "Option B for Chat basics 23",
+      "Option A for Chat basics 23"
+    ],
+    "correctAnswer": "Option A for Chat basics 23",
+    "explanation": "Explanation for Chat basics 23"
+  },
+  {
+    "id": "k3-info-en-chat-basics-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Chat basics",
+    "options": [
+      "Option B for Chat basics 24",
+      "Option C for Chat basics 24",
+      "Option A for Chat basics 24"
+    ],
+    "correctAnswer": "Option A for Chat basics 24",
+    "explanation": "Explanation for Chat basics 24"
+  },
+  {
+    "id": "k3-info-en-chat-basics-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Chat basics",
+    "options": [
+      "Option A for Chat basics 25",
+      "Option B for Chat basics 25",
+      "Option C for Chat basics 25"
+    ],
+    "correctAnswer": "Option A for Chat basics 25",
+    "explanation": "Explanation for Chat basics 25"
+  },
+  {
+    "id": "k3-info-en-chat-basics-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Chat basics",
+    "options": [
+      "Option B for Chat basics 26",
+      "Option A for Chat basics 26",
+      "Option C for Chat basics 26"
+    ],
+    "correctAnswer": "Option A for Chat basics 26",
+    "explanation": "Explanation for Chat basics 26"
+  },
+  {
+    "id": "k3-info-en-chat-basics-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Chat basics",
+    "options": [
+      "Option C for Chat basics 27",
+      "Option A for Chat basics 27",
+      "Option B for Chat basics 27"
+    ],
+    "correctAnswer": "Option A for Chat basics 27",
+    "explanation": "Explanation for Chat basics 27"
+  },
+  {
+    "id": "k3-info-en-chat-basics-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Chat basics",
+    "options": [
+      "Option A for Chat basics 28",
+      "Option B for Chat basics 28",
+      "Option C for Chat basics 28"
+    ],
+    "correctAnswer": "Option A for Chat basics 28",
+    "explanation": "Explanation for Chat basics 28"
+  },
+  {
+    "id": "k3-info-en-chat-basics-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Chat basics",
+    "options": [
+      "Option C for Chat basics 29",
+      "Option B for Chat basics 29",
+      "Option A for Chat basics 29"
+    ],
+    "correctAnswer": "Option A for Chat basics 29",
+    "explanation": "Explanation for Chat basics 29"
+  },
+  {
+    "id": "k3-info-en-chat-basics-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Chat basics",
+    "options": [
+      "Option A for Chat basics 30",
+      "Option B for Chat basics 30",
+      "Option C for Chat basics 30"
+    ],
+    "correctAnswer": "Option A for Chat basics 30",
+    "explanation": "Explanation for Chat basics 30"
+  },
+  {
+    "id": "k3-info-en-chat-basics-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Chat basics",
+    "options": [
+      "Option B for Chat basics 31",
+      "Option C for Chat basics 31",
+      "Option A for Chat basics 31"
+    ],
+    "correctAnswer": "Option A for Chat basics 31",
+    "explanation": "Explanation for Chat basics 31"
+  },
+  {
+    "id": "k3-info-en-chat-basics-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Chat basics",
+    "options": [
+      "Option C for Chat basics 32",
+      "Option A for Chat basics 32",
+      "Option B for Chat basics 32"
+    ],
+    "correctAnswer": "Option A for Chat basics 32",
+    "explanation": "Explanation for Chat basics 32"
+  },
+  {
+    "id": "k3-info-en-chat-basics-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Chat basics",
+    "options": [
+      "Option C for Chat basics 33",
+      "Option B for Chat basics 33",
+      "Option A for Chat basics 33"
+    ],
+    "correctAnswer": "Option A for Chat basics 33",
+    "explanation": "Explanation for Chat basics 33"
+  },
+  {
+    "id": "k3-info-en-chat-basics-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Chat basics",
+    "options": [
+      "Option C for Chat basics 34",
+      "Option A for Chat basics 34",
+      "Option B for Chat basics 34"
+    ],
+    "correctAnswer": "Option A for Chat basics 34",
+    "explanation": "Explanation for Chat basics 34"
+  },
+  {
+    "id": "k3-info-en-chat-basics-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Chat basics",
+    "options": [
+      "Option B for Chat basics 35",
+      "Option C for Chat basics 35",
+      "Option A for Chat basics 35"
+    ],
+    "correctAnswer": "Option A for Chat basics 35",
+    "explanation": "Explanation for Chat basics 35"
+  }
+]

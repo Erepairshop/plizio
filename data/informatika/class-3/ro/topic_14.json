@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-bazele-tabelelor-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 1",
+      "Opțiunea B pentru Bazele tabelelor 1",
+      "Opțiunea A pentru Bazele tabelelor 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 1",
+    "explanation": "Explicație pentru Bazele tabelelor 1"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 2",
+      "Opțiunea B pentru Bazele tabelelor 2",
+      "Opțiunea A pentru Bazele tabelelor 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 2",
+    "explanation": "Explicație pentru Bazele tabelelor 2"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 3",
+      "Opțiunea C pentru Bazele tabelelor 3",
+      "Opțiunea A pentru Bazele tabelelor 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 3",
+    "explanation": "Explicație pentru Bazele tabelelor 3"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 4",
+      "Opțiunea A pentru Bazele tabelelor 4",
+      "Opțiunea C pentru Bazele tabelelor 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 4",
+    "explanation": "Explicație pentru Bazele tabelelor 4"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 5",
+      "Opțiunea A pentru Bazele tabelelor 5",
+      "Opțiunea C pentru Bazele tabelelor 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 5",
+    "explanation": "Explicație pentru Bazele tabelelor 5"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea A pentru Bazele tabelelor 6",
+      "Opțiunea C pentru Bazele tabelelor 6",
+      "Opțiunea B pentru Bazele tabelelor 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 6",
+    "explanation": "Explicație pentru Bazele tabelelor 6"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 7",
+      "Opțiunea C pentru Bazele tabelelor 7",
+      "Opțiunea A pentru Bazele tabelelor 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 7",
+    "explanation": "Explicație pentru Bazele tabelelor 7"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 8",
+      "Opțiunea A pentru Bazele tabelelor 8",
+      "Opțiunea C pentru Bazele tabelelor 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 8",
+    "explanation": "Explicație pentru Bazele tabelelor 8"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 9",
+      "Opțiunea A pentru Bazele tabelelor 9",
+      "Opțiunea C pentru Bazele tabelelor 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 9",
+    "explanation": "Explicație pentru Bazele tabelelor 9"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 10",
+      "Opțiunea B pentru Bazele tabelelor 10",
+      "Opțiunea A pentru Bazele tabelelor 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 10",
+    "explanation": "Explicație pentru Bazele tabelelor 10"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea A pentru Bazele tabelelor 11",
+      "Opțiunea B pentru Bazele tabelelor 11",
+      "Opțiunea C pentru Bazele tabelelor 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 11",
+    "explanation": "Explicație pentru Bazele tabelelor 11"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 12",
+      "Opțiunea B pentru Bazele tabelelor 12",
+      "Opțiunea A pentru Bazele tabelelor 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 12",
+    "explanation": "Explicație pentru Bazele tabelelor 12"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea A pentru Bazele tabelelor 13",
+      "Opțiunea C pentru Bazele tabelelor 13",
+      "Opțiunea B pentru Bazele tabelelor 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 13",
+    "explanation": "Explicație pentru Bazele tabelelor 13"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 14",
+      "Opțiunea C pentru Bazele tabelelor 14",
+      "Opțiunea A pentru Bazele tabelelor 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 14",
+    "explanation": "Explicație pentru Bazele tabelelor 14"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 15",
+      "Opțiunea B pentru Bazele tabelelor 15",
+      "Opțiunea A pentru Bazele tabelelor 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 15",
+    "explanation": "Explicație pentru Bazele tabelelor 15"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 16",
+      "Opțiunea B pentru Bazele tabelelor 16",
+      "Opțiunea A pentru Bazele tabelelor 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 16",
+    "explanation": "Explicație pentru Bazele tabelelor 16"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 17",
+      "Opțiunea C pentru Bazele tabelelor 17",
+      "Opțiunea A pentru Bazele tabelelor 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 17",
+    "explanation": "Explicație pentru Bazele tabelelor 17"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 18",
+      "Opțiunea B pentru Bazele tabelelor 18",
+      "Opțiunea A pentru Bazele tabelelor 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 18",
+    "explanation": "Explicație pentru Bazele tabelelor 18"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 19",
+      "Opțiunea A pentru Bazele tabelelor 19",
+      "Opțiunea B pentru Bazele tabelelor 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 19",
+    "explanation": "Explicație pentru Bazele tabelelor 19"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 20",
+      "Opțiunea A pentru Bazele tabelelor 20",
+      "Opțiunea B pentru Bazele tabelelor 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 20",
+    "explanation": "Explicație pentru Bazele tabelelor 20"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 21",
+      "Opțiunea C pentru Bazele tabelelor 21",
+      "Opțiunea A pentru Bazele tabelelor 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 21",
+    "explanation": "Explicație pentru Bazele tabelelor 21"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 22",
+      "Opțiunea A pentru Bazele tabelelor 22",
+      "Opțiunea C pentru Bazele tabelelor 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 22",
+    "explanation": "Explicație pentru Bazele tabelelor 22"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 23",
+      "Opțiunea C pentru Bazele tabelelor 23",
+      "Opțiunea A pentru Bazele tabelelor 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 23",
+    "explanation": "Explicație pentru Bazele tabelelor 23"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 24",
+      "Opțiunea A pentru Bazele tabelelor 24",
+      "Opțiunea B pentru Bazele tabelelor 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 24",
+    "explanation": "Explicație pentru Bazele tabelelor 24"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 25",
+      "Opțiunea A pentru Bazele tabelelor 25",
+      "Opțiunea B pentru Bazele tabelelor 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 25",
+    "explanation": "Explicație pentru Bazele tabelelor 25"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea A pentru Bazele tabelelor 26",
+      "Opțiunea B pentru Bazele tabelelor 26",
+      "Opțiunea C pentru Bazele tabelelor 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 26",
+    "explanation": "Explicație pentru Bazele tabelelor 26"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea A pentru Bazele tabelelor 27",
+      "Opțiunea B pentru Bazele tabelelor 27",
+      "Opțiunea C pentru Bazele tabelelor 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 27",
+    "explanation": "Explicație pentru Bazele tabelelor 27"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 28",
+      "Opțiunea C pentru Bazele tabelelor 28",
+      "Opțiunea A pentru Bazele tabelelor 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 28",
+    "explanation": "Explicație pentru Bazele tabelelor 28"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 29",
+      "Opțiunea A pentru Bazele tabelelor 29",
+      "Opțiunea C pentru Bazele tabelelor 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 29",
+    "explanation": "Explicație pentru Bazele tabelelor 29"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 30",
+      "Opțiunea B pentru Bazele tabelelor 30",
+      "Opțiunea A pentru Bazele tabelelor 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 30",
+    "explanation": "Explicație pentru Bazele tabelelor 30"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 31",
+      "Opțiunea A pentru Bazele tabelelor 31",
+      "Opțiunea C pentru Bazele tabelelor 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 31",
+    "explanation": "Explicație pentru Bazele tabelelor 31"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea C pentru Bazele tabelelor 32",
+      "Opțiunea B pentru Bazele tabelelor 32",
+      "Opțiunea A pentru Bazele tabelelor 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 32",
+    "explanation": "Explicație pentru Bazele tabelelor 32"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea A pentru Bazele tabelelor 33",
+      "Opțiunea C pentru Bazele tabelelor 33",
+      "Opțiunea B pentru Bazele tabelelor 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 33",
+    "explanation": "Explicație pentru Bazele tabelelor 33"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 34",
+      "Opțiunea A pentru Bazele tabelelor 34",
+      "Opțiunea C pentru Bazele tabelelor 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 34",
+    "explanation": "Explicație pentru Bazele tabelelor 34"
+  },
+  {
+    "id": "k3-info-ro-bazele-tabelelor-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Bazele tabelelor",
+    "options": [
+      "Opțiunea B pentru Bazele tabelelor 35",
+      "Opțiunea C pentru Bazele tabelelor 35",
+      "Opțiunea A pentru Bazele tabelelor 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele tabelelor 35",
+    "explanation": "Explicație pentru Bazele tabelelor 35"
+  }
+]

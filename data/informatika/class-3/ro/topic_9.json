@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-bazele-chat-ului-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 1",
+      "Opțiunea B pentru Bazele chat-ului 1",
+      "Opțiunea C pentru Bazele chat-ului 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 1",
+    "explanation": "Explicație pentru Bazele chat-ului 1"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 2",
+      "Opțiunea A pentru Bazele chat-ului 2",
+      "Opțiunea C pentru Bazele chat-ului 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 2",
+    "explanation": "Explicație pentru Bazele chat-ului 2"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 3",
+      "Opțiunea C pentru Bazele chat-ului 3",
+      "Opțiunea A pentru Bazele chat-ului 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 3",
+    "explanation": "Explicație pentru Bazele chat-ului 3"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 4",
+      "Opțiunea B pentru Bazele chat-ului 4",
+      "Opțiunea A pentru Bazele chat-ului 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 4",
+    "explanation": "Explicație pentru Bazele chat-ului 4"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 5",
+      "Opțiunea B pentru Bazele chat-ului 5",
+      "Opțiunea C pentru Bazele chat-ului 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 5",
+    "explanation": "Explicație pentru Bazele chat-ului 5"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 6",
+      "Opțiunea B pentru Bazele chat-ului 6",
+      "Opțiunea A pentru Bazele chat-ului 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 6",
+    "explanation": "Explicație pentru Bazele chat-ului 6"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 7",
+      "Opțiunea B pentru Bazele chat-ului 7",
+      "Opțiunea C pentru Bazele chat-ului 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 7",
+    "explanation": "Explicație pentru Bazele chat-ului 7"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 8",
+      "Opțiunea C pentru Bazele chat-ului 8",
+      "Opțiunea A pentru Bazele chat-ului 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 8",
+    "explanation": "Explicație pentru Bazele chat-ului 8"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 9",
+      "Opțiunea B pentru Bazele chat-ului 9",
+      "Opțiunea C pentru Bazele chat-ului 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 9",
+    "explanation": "Explicație pentru Bazele chat-ului 9"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 10",
+      "Opțiunea B pentru Bazele chat-ului 10",
+      "Opțiunea A pentru Bazele chat-ului 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 10",
+    "explanation": "Explicație pentru Bazele chat-ului 10"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 11",
+      "Opțiunea A pentru Bazele chat-ului 11",
+      "Opțiunea B pentru Bazele chat-ului 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 11",
+    "explanation": "Explicație pentru Bazele chat-ului 11"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 12",
+      "Opțiunea A pentru Bazele chat-ului 12",
+      "Opțiunea C pentru Bazele chat-ului 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 12",
+    "explanation": "Explicație pentru Bazele chat-ului 12"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 13",
+      "Opțiunea C pentru Bazele chat-ului 13",
+      "Opțiunea B pentru Bazele chat-ului 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 13",
+    "explanation": "Explicație pentru Bazele chat-ului 13"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 14",
+      "Opțiunea C pentru Bazele chat-ului 14",
+      "Opțiunea B pentru Bazele chat-ului 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 14",
+    "explanation": "Explicație pentru Bazele chat-ului 14"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 15",
+      "Opțiunea B pentru Bazele chat-ului 15",
+      "Opțiunea C pentru Bazele chat-ului 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 15",
+    "explanation": "Explicație pentru Bazele chat-ului 15"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 16",
+      "Opțiunea B pentru Bazele chat-ului 16",
+      "Opțiunea A pentru Bazele chat-ului 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 16",
+    "explanation": "Explicație pentru Bazele chat-ului 16"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 17",
+      "Opțiunea C pentru Bazele chat-ului 17",
+      "Opțiunea A pentru Bazele chat-ului 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 17",
+    "explanation": "Explicație pentru Bazele chat-ului 17"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 18",
+      "Opțiunea C pentru Bazele chat-ului 18",
+      "Opțiunea A pentru Bazele chat-ului 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 18",
+    "explanation": "Explicație pentru Bazele chat-ului 18"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 19",
+      "Opțiunea B pentru Bazele chat-ului 19",
+      "Opțiunea A pentru Bazele chat-ului 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 19",
+    "explanation": "Explicație pentru Bazele chat-ului 19"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 20",
+      "Opțiunea A pentru Bazele chat-ului 20",
+      "Opțiunea C pentru Bazele chat-ului 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 20",
+    "explanation": "Explicație pentru Bazele chat-ului 20"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 21",
+      "Opțiunea B pentru Bazele chat-ului 21",
+      "Opțiunea C pentru Bazele chat-ului 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 21",
+    "explanation": "Explicație pentru Bazele chat-ului 21"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 22",
+      "Opțiunea A pentru Bazele chat-ului 22",
+      "Opțiunea B pentru Bazele chat-ului 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 22",
+    "explanation": "Explicație pentru Bazele chat-ului 22"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 23",
+      "Opțiunea C pentru Bazele chat-ului 23",
+      "Opțiunea B pentru Bazele chat-ului 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 23",
+    "explanation": "Explicație pentru Bazele chat-ului 23"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 24",
+      "Opțiunea C pentru Bazele chat-ului 24",
+      "Opțiunea B pentru Bazele chat-ului 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 24",
+    "explanation": "Explicație pentru Bazele chat-ului 24"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 25",
+      "Opțiunea B pentru Bazele chat-ului 25",
+      "Opțiunea A pentru Bazele chat-ului 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 25",
+    "explanation": "Explicație pentru Bazele chat-ului 25"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 26",
+      "Opțiunea B pentru Bazele chat-ului 26",
+      "Opțiunea C pentru Bazele chat-ului 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 26",
+    "explanation": "Explicație pentru Bazele chat-ului 26"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 27",
+      "Opțiunea A pentru Bazele chat-ului 27",
+      "Opțiunea C pentru Bazele chat-ului 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 27",
+    "explanation": "Explicație pentru Bazele chat-ului 27"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 28",
+      "Opțiunea C pentru Bazele chat-ului 28",
+      "Opțiunea A pentru Bazele chat-ului 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 28",
+    "explanation": "Explicație pentru Bazele chat-ului 28"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 29",
+      "Opțiunea C pentru Bazele chat-ului 29",
+      "Opțiunea A pentru Bazele chat-ului 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 29",
+    "explanation": "Explicație pentru Bazele chat-ului 29"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 30",
+      "Opțiunea B pentru Bazele chat-ului 30",
+      "Opțiunea A pentru Bazele chat-ului 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 30",
+    "explanation": "Explicație pentru Bazele chat-ului 30"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 31",
+      "Opțiunea C pentru Bazele chat-ului 31",
+      "Opțiunea B pentru Bazele chat-ului 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 31",
+    "explanation": "Explicație pentru Bazele chat-ului 31"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea C pentru Bazele chat-ului 32",
+      "Opțiunea B pentru Bazele chat-ului 32",
+      "Opțiunea A pentru Bazele chat-ului 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 32",
+    "explanation": "Explicație pentru Bazele chat-ului 32"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 33",
+      "Opțiunea B pentru Bazele chat-ului 33",
+      "Opțiunea C pentru Bazele chat-ului 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 33",
+    "explanation": "Explicație pentru Bazele chat-ului 33"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea A pentru Bazele chat-ului 34",
+      "Opțiunea C pentru Bazele chat-ului 34",
+      "Opțiunea B pentru Bazele chat-ului 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 34",
+    "explanation": "Explicație pentru Bazele chat-ului 34"
+  },
+  {
+    "id": "k3-info-ro-bazele-chat-ului-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Bazele chat-ului",
+    "options": [
+      "Opțiunea B pentru Bazele chat-ului 35",
+      "Opțiunea A pentru Bazele chat-ului 35",
+      "Opțiunea C pentru Bazele chat-ului 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Bazele chat-ului 35",
+    "explanation": "Explicație pentru Bazele chat-ului 35"
+  }
+]

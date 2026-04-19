@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-simple-calculation-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 1",
+      "Option B for Simple calculation 1",
+      "Option A for Simple calculation 1"
+    ],
+    "correctAnswer": "Option A for Simple calculation 1",
+    "explanation": "Explanation for Simple calculation 1"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 2",
+      "Option C for Simple calculation 2",
+      "Option A for Simple calculation 2"
+    ],
+    "correctAnswer": "Option A for Simple calculation 2",
+    "explanation": "Explanation for Simple calculation 2"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 3",
+      "Option B for Simple calculation 3",
+      "Option A for Simple calculation 3"
+    ],
+    "correctAnswer": "Option A for Simple calculation 3",
+    "explanation": "Explanation for Simple calculation 3"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 4",
+      "Option C for Simple calculation 4",
+      "Option B for Simple calculation 4"
+    ],
+    "correctAnswer": "Option A for Simple calculation 4",
+    "explanation": "Explanation for Simple calculation 4"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 5",
+      "Option C for Simple calculation 5",
+      "Option B for Simple calculation 5"
+    ],
+    "correctAnswer": "Option A for Simple calculation 5",
+    "explanation": "Explanation for Simple calculation 5"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 6",
+      "Option A for Simple calculation 6",
+      "Option B for Simple calculation 6"
+    ],
+    "correctAnswer": "Option A for Simple calculation 6",
+    "explanation": "Explanation for Simple calculation 6"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 7",
+      "Option C for Simple calculation 7",
+      "Option B for Simple calculation 7"
+    ],
+    "correctAnswer": "Option A for Simple calculation 7",
+    "explanation": "Explanation for Simple calculation 7"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 8",
+      "Option A for Simple calculation 8",
+      "Option C for Simple calculation 8"
+    ],
+    "correctAnswer": "Option A for Simple calculation 8",
+    "explanation": "Explanation for Simple calculation 8"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 9",
+      "Option B for Simple calculation 9",
+      "Option A for Simple calculation 9"
+    ],
+    "correctAnswer": "Option A for Simple calculation 9",
+    "explanation": "Explanation for Simple calculation 9"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 10",
+      "Option C for Simple calculation 10",
+      "Option B for Simple calculation 10"
+    ],
+    "correctAnswer": "Option A for Simple calculation 10",
+    "explanation": "Explanation for Simple calculation 10"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 11",
+      "Option C for Simple calculation 11",
+      "Option A for Simple calculation 11"
+    ],
+    "correctAnswer": "Option A for Simple calculation 11",
+    "explanation": "Explanation for Simple calculation 11"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 12",
+      "Option C for Simple calculation 12",
+      "Option B for Simple calculation 12"
+    ],
+    "correctAnswer": "Option A for Simple calculation 12",
+    "explanation": "Explanation for Simple calculation 12"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 13",
+      "Option A for Simple calculation 13",
+      "Option C for Simple calculation 13"
+    ],
+    "correctAnswer": "Option A for Simple calculation 13",
+    "explanation": "Explanation for Simple calculation 13"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 14",
+      "Option A for Simple calculation 14",
+      "Option B for Simple calculation 14"
+    ],
+    "correctAnswer": "Option A for Simple calculation 14",
+    "explanation": "Explanation for Simple calculation 14"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 15",
+      "Option C for Simple calculation 15",
+      "Option B for Simple calculation 15"
+    ],
+    "correctAnswer": "Option A for Simple calculation 15",
+    "explanation": "Explanation for Simple calculation 15"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 16",
+      "Option A for Simple calculation 16",
+      "Option C for Simple calculation 16"
+    ],
+    "correctAnswer": "Option A for Simple calculation 16",
+    "explanation": "Explanation for Simple calculation 16"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 17",
+      "Option A for Simple calculation 17",
+      "Option C for Simple calculation 17"
+    ],
+    "correctAnswer": "Option A for Simple calculation 17",
+    "explanation": "Explanation for Simple calculation 17"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 18",
+      "Option B for Simple calculation 18",
+      "Option C for Simple calculation 18"
+    ],
+    "correctAnswer": "Option A for Simple calculation 18",
+    "explanation": "Explanation for Simple calculation 18"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 19",
+      "Option A for Simple calculation 19",
+      "Option C for Simple calculation 19"
+    ],
+    "correctAnswer": "Option A for Simple calculation 19",
+    "explanation": "Explanation for Simple calculation 19"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 20",
+      "Option A for Simple calculation 20",
+      "Option B for Simple calculation 20"
+    ],
+    "correctAnswer": "Option A for Simple calculation 20",
+    "explanation": "Explanation for Simple calculation 20"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 21",
+      "Option C for Simple calculation 21",
+      "Option A for Simple calculation 21"
+    ],
+    "correctAnswer": "Option A for Simple calculation 21",
+    "explanation": "Explanation for Simple calculation 21"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 22",
+      "Option C for Simple calculation 22",
+      "Option A for Simple calculation 22"
+    ],
+    "correctAnswer": "Option A for Simple calculation 22",
+    "explanation": "Explanation for Simple calculation 22"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 23",
+      "Option C for Simple calculation 23",
+      "Option A for Simple calculation 23"
+    ],
+    "correctAnswer": "Option A for Simple calculation 23",
+    "explanation": "Explanation for Simple calculation 23"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 24",
+      "Option A for Simple calculation 24",
+      "Option B for Simple calculation 24"
+    ],
+    "correctAnswer": "Option A for Simple calculation 24",
+    "explanation": "Explanation for Simple calculation 24"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 25",
+      "Option B for Simple calculation 25",
+      "Option C for Simple calculation 25"
+    ],
+    "correctAnswer": "Option A for Simple calculation 25",
+    "explanation": "Explanation for Simple calculation 25"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 26",
+      "Option A for Simple calculation 26",
+      "Option B for Simple calculation 26"
+    ],
+    "correctAnswer": "Option A for Simple calculation 26",
+    "explanation": "Explanation for Simple calculation 26"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 27",
+      "Option B for Simple calculation 27",
+      "Option A for Simple calculation 27"
+    ],
+    "correctAnswer": "Option A for Simple calculation 27",
+    "explanation": "Explanation for Simple calculation 27"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 28",
+      "Option B for Simple calculation 28",
+      "Option C for Simple calculation 28"
+    ],
+    "correctAnswer": "Option A for Simple calculation 28",
+    "explanation": "Explanation for Simple calculation 28"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 29",
+      "Option A for Simple calculation 29",
+      "Option B for Simple calculation 29"
+    ],
+    "correctAnswer": "Option A for Simple calculation 29",
+    "explanation": "Explanation for Simple calculation 29"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 30",
+      "Option B for Simple calculation 30",
+      "Option A for Simple calculation 30"
+    ],
+    "correctAnswer": "Option A for Simple calculation 30",
+    "explanation": "Explanation for Simple calculation 30"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 31",
+      "Option A for Simple calculation 31",
+      "Option B for Simple calculation 31"
+    ],
+    "correctAnswer": "Option A for Simple calculation 31",
+    "explanation": "Explanation for Simple calculation 31"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 32",
+      "Option C for Simple calculation 32",
+      "Option B for Simple calculation 32"
+    ],
+    "correctAnswer": "Option A for Simple calculation 32",
+    "explanation": "Explanation for Simple calculation 32"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Simple calculation",
+    "options": [
+      "Option A for Simple calculation 33",
+      "Option C for Simple calculation 33",
+      "Option B for Simple calculation 33"
+    ],
+    "correctAnswer": "Option A for Simple calculation 33",
+    "explanation": "Explanation for Simple calculation 33"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Simple calculation",
+    "options": [
+      "Option C for Simple calculation 34",
+      "Option A for Simple calculation 34",
+      "Option B for Simple calculation 34"
+    ],
+    "correctAnswer": "Option A for Simple calculation 34",
+    "explanation": "Explanation for Simple calculation 34"
+  },
+  {
+    "id": "k3-info-en-simple-calculation-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Simple calculation",
+    "options": [
+      "Option B for Simple calculation 35",
+      "Option C for Simple calculation 35",
+      "Option A for Simple calculation 35"
+    ],
+    "correctAnswer": "Option A for Simple calculation 35",
+    "explanation": "Explanation for Simple calculation 35"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-zip--compresie-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 1",
+      "Opțiunea C pentru Zip / compresie 1",
+      "Opțiunea A pentru Zip / compresie 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 1",
+    "explanation": "Explicație pentru Zip / compresie 1"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 2",
+      "Opțiunea A pentru Zip / compresie 2",
+      "Opțiunea B pentru Zip / compresie 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 2",
+    "explanation": "Explicație pentru Zip / compresie 2"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 3",
+      "Opțiunea B pentru Zip / compresie 3",
+      "Opțiunea A pentru Zip / compresie 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 3",
+    "explanation": "Explicație pentru Zip / compresie 3"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 4",
+      "Opțiunea A pentru Zip / compresie 4",
+      "Opțiunea B pentru Zip / compresie 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 4",
+    "explanation": "Explicație pentru Zip / compresie 4"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 5",
+      "Opțiunea A pentru Zip / compresie 5",
+      "Opțiunea B pentru Zip / compresie 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 5",
+    "explanation": "Explicație pentru Zip / compresie 5"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 6",
+      "Opțiunea A pentru Zip / compresie 6",
+      "Opțiunea B pentru Zip / compresie 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 6",
+    "explanation": "Explicație pentru Zip / compresie 6"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 7",
+      "Opțiunea C pentru Zip / compresie 7",
+      "Opțiunea A pentru Zip / compresie 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 7",
+    "explanation": "Explicație pentru Zip / compresie 7"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 8",
+      "Opțiunea C pentru Zip / compresie 8",
+      "Opțiunea B pentru Zip / compresie 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 8",
+    "explanation": "Explicație pentru Zip / compresie 8"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 9",
+      "Opțiunea B pentru Zip / compresie 9",
+      "Opțiunea C pentru Zip / compresie 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 9",
+    "explanation": "Explicație pentru Zip / compresie 9"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 10",
+      "Opțiunea C pentru Zip / compresie 10",
+      "Opțiunea B pentru Zip / compresie 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 10",
+    "explanation": "Explicație pentru Zip / compresie 10"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 11",
+      "Opțiunea C pentru Zip / compresie 11",
+      "Opțiunea B pentru Zip / compresie 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 11",
+    "explanation": "Explicație pentru Zip / compresie 11"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 12",
+      "Opțiunea C pentru Zip / compresie 12",
+      "Opțiunea A pentru Zip / compresie 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 12",
+    "explanation": "Explicație pentru Zip / compresie 12"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 13",
+      "Opțiunea B pentru Zip / compresie 13",
+      "Opțiunea C pentru Zip / compresie 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 13",
+    "explanation": "Explicație pentru Zip / compresie 13"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 14",
+      "Opțiunea C pentru Zip / compresie 14",
+      "Opțiunea B pentru Zip / compresie 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 14",
+    "explanation": "Explicație pentru Zip / compresie 14"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 15",
+      "Opțiunea C pentru Zip / compresie 15",
+      "Opțiunea B pentru Zip / compresie 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 15",
+    "explanation": "Explicație pentru Zip / compresie 15"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 16",
+      "Opțiunea C pentru Zip / compresie 16",
+      "Opțiunea B pentru Zip / compresie 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 16",
+    "explanation": "Explicație pentru Zip / compresie 16"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 17",
+      "Opțiunea A pentru Zip / compresie 17",
+      "Opțiunea C pentru Zip / compresie 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 17",
+    "explanation": "Explicație pentru Zip / compresie 17"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 18",
+      "Opțiunea B pentru Zip / compresie 18",
+      "Opțiunea A pentru Zip / compresie 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 18",
+    "explanation": "Explicație pentru Zip / compresie 18"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 19",
+      "Opțiunea B pentru Zip / compresie 19",
+      "Opțiunea A pentru Zip / compresie 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 19",
+    "explanation": "Explicație pentru Zip / compresie 19"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 20",
+      "Opțiunea B pentru Zip / compresie 20",
+      "Opțiunea C pentru Zip / compresie 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 20",
+    "explanation": "Explicație pentru Zip / compresie 20"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 21",
+      "Opțiunea B pentru Zip / compresie 21",
+      "Opțiunea C pentru Zip / compresie 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 21",
+    "explanation": "Explicație pentru Zip / compresie 21"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 22",
+      "Opțiunea A pentru Zip / compresie 22",
+      "Opțiunea C pentru Zip / compresie 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 22",
+    "explanation": "Explicație pentru Zip / compresie 22"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 23",
+      "Opțiunea C pentru Zip / compresie 23",
+      "Opțiunea A pentru Zip / compresie 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 23",
+    "explanation": "Explicație pentru Zip / compresie 23"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 24",
+      "Opțiunea C pentru Zip / compresie 24",
+      "Opțiunea A pentru Zip / compresie 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 24",
+    "explanation": "Explicație pentru Zip / compresie 24"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 25",
+      "Opțiunea B pentru Zip / compresie 25",
+      "Opțiunea C pentru Zip / compresie 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 25",
+    "explanation": "Explicație pentru Zip / compresie 25"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 26",
+      "Opțiunea B pentru Zip / compresie 26",
+      "Opțiunea A pentru Zip / compresie 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 26",
+    "explanation": "Explicație pentru Zip / compresie 26"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 27",
+      "Opțiunea B pentru Zip / compresie 27",
+      "Opțiunea A pentru Zip / compresie 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 27",
+    "explanation": "Explicație pentru Zip / compresie 27"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 28",
+      "Opțiunea B pentru Zip / compresie 28",
+      "Opțiunea A pentru Zip / compresie 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 28",
+    "explanation": "Explicație pentru Zip / compresie 28"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Zip / compresie",
+    "options": [
+      "Opțiunea C pentru Zip / compresie 29",
+      "Opțiunea B pentru Zip / compresie 29",
+      "Opțiunea A pentru Zip / compresie 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 29",
+    "explanation": "Explicație pentru Zip / compresie 29"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 30",
+      "Opțiunea A pentru Zip / compresie 30",
+      "Opțiunea C pentru Zip / compresie 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 30",
+    "explanation": "Explicație pentru Zip / compresie 30"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Zip / compresie",
+    "options": [
+      "Opțiunea A pentru Zip / compresie 31",
+      "Opțiunea C pentru Zip / compresie 31",
+      "Opțiunea B pentru Zip / compresie 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 31",
+    "explanation": "Explicație pentru Zip / compresie 31"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 32",
+      "Opțiunea C pentru Zip / compresie 32",
+      "Opțiunea A pentru Zip / compresie 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 32",
+    "explanation": "Explicație pentru Zip / compresie 32"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 33",
+      "Opțiunea A pentru Zip / compresie 33",
+      "Opțiunea C pentru Zip / compresie 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 33",
+    "explanation": "Explicație pentru Zip / compresie 33"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 34",
+      "Opțiunea A pentru Zip / compresie 34",
+      "Opțiunea C pentru Zip / compresie 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 34",
+    "explanation": "Explicație pentru Zip / compresie 34"
+  },
+  {
+    "id": "k3-info-ro-zip--compresie-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Zip / compresie",
+    "options": [
+      "Opțiunea B pentru Zip / compresie 35",
+      "Opțiunea A pentru Zip / compresie 35",
+      "Opțiunea C pentru Zip / compresie 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Zip / compresie 35",
+    "explanation": "Explicație pentru Zip / compresie 35"
+  }
+]

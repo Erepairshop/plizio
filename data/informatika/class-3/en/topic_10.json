@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-word-—-writing-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Word — writing",
+    "options": [
+      "Option B for Word — writing 1",
+      "Option C for Word — writing 1",
+      "Option A for Word — writing 1"
+    ],
+    "correctAnswer": "Option A for Word — writing 1",
+    "explanation": "Explanation for Word — writing 1"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Word — writing",
+    "options": [
+      "Option C for Word — writing 2",
+      "Option A for Word — writing 2",
+      "Option B for Word — writing 2"
+    ],
+    "correctAnswer": "Option A for Word — writing 2",
+    "explanation": "Explanation for Word — writing 2"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Word — writing",
+    "options": [
+      "Option A for Word — writing 3",
+      "Option B for Word — writing 3",
+      "Option C for Word — writing 3"
+    ],
+    "correctAnswer": "Option A for Word — writing 3",
+    "explanation": "Explanation for Word — writing 3"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Word — writing",
+    "options": [
+      "Option B for Word — writing 4",
+      "Option C for Word — writing 4",
+      "Option A for Word — writing 4"
+    ],
+    "correctAnswer": "Option A for Word — writing 4",
+    "explanation": "Explanation for Word — writing 4"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Word — writing",
+    "options": [
+      "Option C for Word — writing 5",
+      "Option B for Word — writing 5",
+      "Option A for Word — writing 5"
+    ],
+    "correctAnswer": "Option A for Word — writing 5",
+    "explanation": "Explanation for Word — writing 5"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Word — writing",
+    "options": [
+      "Option B for Word — writing 6",
+      "Option A for Word — writing 6",
+      "Option C for Word — writing 6"
+    ],
+    "correctAnswer": "Option A for Word — writing 6",
+    "explanation": "Explanation for Word — writing 6"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Word — writing",
+    "options": [
+      "Option C for Word — writing 7",
+      "Option A for Word — writing 7",
+      "Option B for Word — writing 7"
+    ],
+    "correctAnswer": "Option A for Word — writing 7",
+    "explanation": "Explanation for Word — writing 7"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Word — writing",
+    "options": [
+      "Option C for Word — writing 8",
+      "Option A for Word — writing 8",
+      "Option B for Word — writing 8"
+    ],
+    "correctAnswer": "Option A for Word — writing 8",
+    "explanation": "Explanation for Word — writing 8"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Word — writing",
+    "options": [
+      "Option A for Word — writing 9",
+      "Option B for Word — writing 9",
+      "Option C for Word — writing 9"
+    ],
+    "correctAnswer": "Option A for Word — writing 9",
+    "explanation": "Explanation for Word — writing 9"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Word — writing",
+    "options": [
+      "Option A for Word — writing 10",
+      "Option B for Word — writing 10",
+      "Option C for Word — writing 10"
+    ],
+    "correctAnswer": "Option A for Word — writing 10",
+    "explanation": "Explanation for Word — writing 10"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Word — writing",
+    "options": [
+      "Option A for Word — writing 11",
+      "Option B for Word — writing 11",
+      "Option C for Word — writing 11"
+    ],
+    "correctAnswer": "Option A for Word — writing 11",
+    "explanation": "Explanation for Word — writing 11"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Word — writing",
+    "options": [
+      "Option A for Word — writing 12",
+      "Option C for Word — writing 12",
+      "Option B for Word — writing 12"
+    ],
+    "correctAnswer": "Option A for Word — writing 12",
+    "explanation": "Explanation for Word — writing 12"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Word — writing",
+    "options": [
+      "Option A for Word — writing 13",
+      "Option C for Word — writing 13",
+      "Option B for Word — writing 13"
+    ],
+    "correctAnswer": "Option A for Word — writing 13",
+    "explanation": "Explanation for Word — writing 13"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Word — writing",
+    "options": [
+      "Option C for Word — writing 14",
+      "Option B for Word — writing 14",
+      "Option A for Word — writing 14"
+    ],
+    "correctAnswer": "Option A for Word — writing 14",
+    "explanation": "Explanation for Word — writing 14"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Word — writing",
+    "options": [
+      "Option A for Word — writing 15",
+      "Option C for Word — writing 15",
+      "Option B for Word — writing 15"
+    ],
+    "correctAnswer": "Option A for Word — writing 15",
+    "explanation": "Explanation for Word — writing 15"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Word — writing",
+    "options": [
+      "Option B for Word — writing 16",
+      "Option A for Word — writing 16",
+      "Option C for Word — writing 16"
+    ],
+    "correctAnswer": "Option A for Word — writing 16",
+    "explanation": "Explanation for Word — writing 16"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Word — writing",
+    "options": [
+      "Option A for Word — writing 17",
+      "Option C for Word — writing 17",
+      "Option B for Word — writing 17"
+    ],
+    "correctAnswer": "Option A for Word — writing 17",
+    "explanation": "Explanation for Word — writing 17"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Word — writing",
+    "options": [
+      "Option C for Word — writing 18",
+      "Option A for Word — writing 18",
+      "Option B for Word — writing 18"
+    ],
+    "correctAnswer": "Option A for Word — writing 18",
+    "explanation": "Explanation for Word — writing 18"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Word — writing",
+    "options": [
+      "Option C for Word — writing 19",
+      "Option A for Word — writing 19",
+      "Option B for Word — writing 19"
+    ],
+    "correctAnswer": "Option A for Word — writing 19",
+    "explanation": "Explanation for Word — writing 19"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Word — writing",
+    "options": [
+      "Option C for Word — writing 20",
+      "Option B for Word — writing 20",
+      "Option A for Word — writing 20"
+    ],
+    "correctAnswer": "Option A for Word — writing 20",
+    "explanation": "Explanation for Word — writing 20"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Word — writing",
+    "options": [
+      "Option B for Word — writing 21",
+      "Option C for Word — writing 21",
+      "Option A for Word — writing 21"
+    ],
+    "correctAnswer": "Option A for Word — writing 21",
+    "explanation": "Explanation for Word — writing 21"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Word — writing",
+    "options": [
+      "Option B for Word — writing 22",
+      "Option C for Word — writing 22",
+      "Option A for Word — writing 22"
+    ],
+    "correctAnswer": "Option A for Word — writing 22",
+    "explanation": "Explanation for Word — writing 22"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Word — writing",
+    "options": [
+      "Option A for Word — writing 23",
+      "Option C for Word — writing 23",
+      "Option B for Word — writing 23"
+    ],
+    "correctAnswer": "Option A for Word — writing 23",
+    "explanation": "Explanation for Word — writing 23"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Word — writing",
+    "options": [
+      "Option A for Word — writing 24",
+      "Option B for Word — writing 24",
+      "Option C for Word — writing 24"
+    ],
+    "correctAnswer": "Option A for Word — writing 24",
+    "explanation": "Explanation for Word — writing 24"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Word — writing",
+    "options": [
+      "Option A for Word — writing 25",
+      "Option B for Word — writing 25",
+      "Option C for Word — writing 25"
+    ],
+    "correctAnswer": "Option A for Word — writing 25",
+    "explanation": "Explanation for Word — writing 25"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Word — writing",
+    "options": [
+      "Option A for Word — writing 26",
+      "Option B for Word — writing 26",
+      "Option C for Word — writing 26"
+    ],
+    "correctAnswer": "Option A for Word — writing 26",
+    "explanation": "Explanation for Word — writing 26"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Word — writing",
+    "options": [
+      "Option B for Word — writing 27",
+      "Option A for Word — writing 27",
+      "Option C for Word — writing 27"
+    ],
+    "correctAnswer": "Option A for Word — writing 27",
+    "explanation": "Explanation for Word — writing 27"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Word — writing",
+    "options": [
+      "Option B for Word — writing 28",
+      "Option C for Word — writing 28",
+      "Option A for Word — writing 28"
+    ],
+    "correctAnswer": "Option A for Word — writing 28",
+    "explanation": "Explanation for Word — writing 28"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Word — writing",
+    "options": [
+      "Option C for Word — writing 29",
+      "Option A for Word — writing 29",
+      "Option B for Word — writing 29"
+    ],
+    "correctAnswer": "Option A for Word — writing 29",
+    "explanation": "Explanation for Word — writing 29"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Word — writing",
+    "options": [
+      "Option B for Word — writing 30",
+      "Option A for Word — writing 30",
+      "Option C for Word — writing 30"
+    ],
+    "correctAnswer": "Option A for Word — writing 30",
+    "explanation": "Explanation for Word — writing 30"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Word — writing",
+    "options": [
+      "Option C for Word — writing 31",
+      "Option A for Word — writing 31",
+      "Option B for Word — writing 31"
+    ],
+    "correctAnswer": "Option A for Word — writing 31",
+    "explanation": "Explanation for Word — writing 31"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Word — writing",
+    "options": [
+      "Option C for Word — writing 32",
+      "Option B for Word — writing 32",
+      "Option A for Word — writing 32"
+    ],
+    "correctAnswer": "Option A for Word — writing 32",
+    "explanation": "Explanation for Word — writing 32"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Word — writing",
+    "options": [
+      "Option A for Word — writing 33",
+      "Option B for Word — writing 33",
+      "Option C for Word — writing 33"
+    ],
+    "correctAnswer": "Option A for Word — writing 33",
+    "explanation": "Explanation for Word — writing 33"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Word — writing",
+    "options": [
+      "Option A for Word — writing 34",
+      "Option B for Word — writing 34",
+      "Option C for Word — writing 34"
+    ],
+    "correctAnswer": "Option A for Word — writing 34",
+    "explanation": "Explanation for Word — writing 34"
+  },
+  {
+    "id": "k3-info-en-word-—-writing-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Word — writing",
+    "options": [
+      "Option B for Word — writing 35",
+      "Option C for Word — writing 35",
+      "Option A for Word — writing 35"
+    ],
+    "correctAnswer": "Option A for Word — writing 35",
+    "explanation": "Explanation for Word — writing 35"
+  }
+]

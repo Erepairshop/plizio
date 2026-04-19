@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-title--paragraph-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 1",
+      "Option B for Title / paragraph 1",
+      "Option C for Title / paragraph 1"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 1",
+    "explanation": "Explanation for Title / paragraph 1"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 2",
+      "Option C for Title / paragraph 2",
+      "Option B for Title / paragraph 2"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 2",
+    "explanation": "Explanation for Title / paragraph 2"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 3",
+      "Option B for Title / paragraph 3",
+      "Option C for Title / paragraph 3"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 3",
+    "explanation": "Explanation for Title / paragraph 3"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 4",
+      "Option A for Title / paragraph 4",
+      "Option C for Title / paragraph 4"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 4",
+    "explanation": "Explanation for Title / paragraph 4"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 5",
+      "Option C for Title / paragraph 5",
+      "Option A for Title / paragraph 5"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 5",
+    "explanation": "Explanation for Title / paragraph 5"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 6",
+      "Option B for Title / paragraph 6",
+      "Option A for Title / paragraph 6"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 6",
+    "explanation": "Explanation for Title / paragraph 6"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 7",
+      "Option B for Title / paragraph 7",
+      "Option C for Title / paragraph 7"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 7",
+    "explanation": "Explanation for Title / paragraph 7"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 8",
+      "Option B for Title / paragraph 8",
+      "Option A for Title / paragraph 8"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 8",
+    "explanation": "Explanation for Title / paragraph 8"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 9",
+      "Option A for Title / paragraph 9",
+      "Option B for Title / paragraph 9"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 9",
+    "explanation": "Explanation for Title / paragraph 9"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 10",
+      "Option C for Title / paragraph 10",
+      "Option B for Title / paragraph 10"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 10",
+    "explanation": "Explanation for Title / paragraph 10"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 11",
+      "Option C for Title / paragraph 11",
+      "Option B for Title / paragraph 11"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 11",
+    "explanation": "Explanation for Title / paragraph 11"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 12",
+      "Option B for Title / paragraph 12",
+      "Option A for Title / paragraph 12"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 12",
+    "explanation": "Explanation for Title / paragraph 12"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 13",
+      "Option C for Title / paragraph 13",
+      "Option B for Title / paragraph 13"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 13",
+    "explanation": "Explanation for Title / paragraph 13"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 14",
+      "Option A for Title / paragraph 14",
+      "Option B for Title / paragraph 14"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 14",
+    "explanation": "Explanation for Title / paragraph 14"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 15",
+      "Option A for Title / paragraph 15",
+      "Option B for Title / paragraph 15"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 15",
+    "explanation": "Explanation for Title / paragraph 15"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 16",
+      "Option C for Title / paragraph 16",
+      "Option A for Title / paragraph 16"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 16",
+    "explanation": "Explanation for Title / paragraph 16"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 17",
+      "Option A for Title / paragraph 17",
+      "Option B for Title / paragraph 17"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 17",
+    "explanation": "Explanation for Title / paragraph 17"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 18",
+      "Option A for Title / paragraph 18",
+      "Option C for Title / paragraph 18"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 18",
+    "explanation": "Explanation for Title / paragraph 18"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 19",
+      "Option A for Title / paragraph 19",
+      "Option B for Title / paragraph 19"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 19",
+    "explanation": "Explanation for Title / paragraph 19"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 20",
+      "Option C for Title / paragraph 20",
+      "Option B for Title / paragraph 20"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 20",
+    "explanation": "Explanation for Title / paragraph 20"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 21",
+      "Option B for Title / paragraph 21",
+      "Option A for Title / paragraph 21"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 21",
+    "explanation": "Explanation for Title / paragraph 21"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 22",
+      "Option A for Title / paragraph 22",
+      "Option C for Title / paragraph 22"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 22",
+    "explanation": "Explanation for Title / paragraph 22"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 23",
+      "Option B for Title / paragraph 23",
+      "Option A for Title / paragraph 23"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 23",
+    "explanation": "Explanation for Title / paragraph 23"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 24",
+      "Option B for Title / paragraph 24",
+      "Option A for Title / paragraph 24"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 24",
+    "explanation": "Explanation for Title / paragraph 24"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 25",
+      "Option B for Title / paragraph 25",
+      "Option A for Title / paragraph 25"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 25",
+    "explanation": "Explanation for Title / paragraph 25"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 26",
+      "Option B for Title / paragraph 26",
+      "Option A for Title / paragraph 26"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 26",
+    "explanation": "Explanation for Title / paragraph 26"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 27",
+      "Option C for Title / paragraph 27",
+      "Option B for Title / paragraph 27"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 27",
+    "explanation": "Explanation for Title / paragraph 27"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 28",
+      "Option B for Title / paragraph 28",
+      "Option C for Title / paragraph 28"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 28",
+    "explanation": "Explanation for Title / paragraph 28"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 29",
+      "Option C for Title / paragraph 29",
+      "Option A for Title / paragraph 29"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 29",
+    "explanation": "Explanation for Title / paragraph 29"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Title / paragraph",
+    "options": [
+      "Option A for Title / paragraph 30",
+      "Option C for Title / paragraph 30",
+      "Option B for Title / paragraph 30"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 30",
+    "explanation": "Explanation for Title / paragraph 30"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 31",
+      "Option A for Title / paragraph 31",
+      "Option B for Title / paragraph 31"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 31",
+    "explanation": "Explanation for Title / paragraph 31"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 32",
+      "Option B for Title / paragraph 32",
+      "Option A for Title / paragraph 32"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 32",
+    "explanation": "Explanation for Title / paragraph 32"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 33",
+      "Option A for Title / paragraph 33",
+      "Option B for Title / paragraph 33"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 33",
+    "explanation": "Explanation for Title / paragraph 33"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Title / paragraph",
+    "options": [
+      "Option B for Title / paragraph 34",
+      "Option C for Title / paragraph 34",
+      "Option A for Title / paragraph 34"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 34",
+    "explanation": "Explanation for Title / paragraph 34"
+  },
+  {
+    "id": "k3-info-en-title--paragraph-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Title / paragraph",
+    "options": [
+      "Option C for Title / paragraph 35",
+      "Option A for Title / paragraph 35",
+      "Option B for Title / paragraph 35"
+    ],
+    "correctAnswer": "Option A for Title / paragraph 35",
+    "explanation": "Explanation for Title / paragraph 35"
+  }
+]

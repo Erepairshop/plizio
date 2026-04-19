@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-file-types-docx-jpg-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 1",
+      "Option B for File types (.docx .jpg) 1",
+      "Option C for File types (.docx .jpg) 1"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 1",
+    "explanation": "Explanation for File types (.docx .jpg) 1"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 2",
+      "Option C for File types (.docx .jpg) 2",
+      "Option B for File types (.docx .jpg) 2"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 2",
+    "explanation": "Explanation for File types (.docx .jpg) 2"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 3",
+      "Option B for File types (.docx .jpg) 3",
+      "Option A for File types (.docx .jpg) 3"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 3",
+    "explanation": "Explanation for File types (.docx .jpg) 3"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 4",
+      "Option A for File types (.docx .jpg) 4",
+      "Option C for File types (.docx .jpg) 4"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 4",
+    "explanation": "Explanation for File types (.docx .jpg) 4"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 5",
+      "Option A for File types (.docx .jpg) 5",
+      "Option B for File types (.docx .jpg) 5"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 5",
+    "explanation": "Explanation for File types (.docx .jpg) 5"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 6",
+      "Option B for File types (.docx .jpg) 6",
+      "Option C for File types (.docx .jpg) 6"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 6",
+    "explanation": "Explanation for File types (.docx .jpg) 6"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 7",
+      "Option A for File types (.docx .jpg) 7",
+      "Option B for File types (.docx .jpg) 7"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 7",
+    "explanation": "Explanation for File types (.docx .jpg) 7"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 8",
+      "Option B for File types (.docx .jpg) 8",
+      "Option A for File types (.docx .jpg) 8"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 8",
+    "explanation": "Explanation for File types (.docx .jpg) 8"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 9",
+      "Option C for File types (.docx .jpg) 9",
+      "Option A for File types (.docx .jpg) 9"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 9",
+    "explanation": "Explanation for File types (.docx .jpg) 9"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 10",
+      "Option B for File types (.docx .jpg) 10",
+      "Option A for File types (.docx .jpg) 10"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 10",
+    "explanation": "Explanation for File types (.docx .jpg) 10"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 11",
+      "Option B for File types (.docx .jpg) 11",
+      "Option C for File types (.docx .jpg) 11"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 11",
+    "explanation": "Explanation for File types (.docx .jpg) 11"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 12",
+      "Option B for File types (.docx .jpg) 12",
+      "Option A for File types (.docx .jpg) 12"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 12",
+    "explanation": "Explanation for File types (.docx .jpg) 12"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 13",
+      "Option B for File types (.docx .jpg) 13",
+      "Option C for File types (.docx .jpg) 13"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 13",
+    "explanation": "Explanation for File types (.docx .jpg) 13"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 14",
+      "Option C for File types (.docx .jpg) 14",
+      "Option A for File types (.docx .jpg) 14"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 14",
+    "explanation": "Explanation for File types (.docx .jpg) 14"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 15",
+      "Option B for File types (.docx .jpg) 15",
+      "Option C for File types (.docx .jpg) 15"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 15",
+    "explanation": "Explanation for File types (.docx .jpg) 15"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 16",
+      "Option B for File types (.docx .jpg) 16",
+      "Option C for File types (.docx .jpg) 16"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 16",
+    "explanation": "Explanation for File types (.docx .jpg) 16"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 17",
+      "Option A for File types (.docx .jpg) 17",
+      "Option B for File types (.docx .jpg) 17"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 17",
+    "explanation": "Explanation for File types (.docx .jpg) 17"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 18",
+      "Option B for File types (.docx .jpg) 18",
+      "Option C for File types (.docx .jpg) 18"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 18",
+    "explanation": "Explanation for File types (.docx .jpg) 18"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 19",
+      "Option A for File types (.docx .jpg) 19",
+      "Option B for File types (.docx .jpg) 19"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 19",
+    "explanation": "Explanation for File types (.docx .jpg) 19"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 20",
+      "Option A for File types (.docx .jpg) 20",
+      "Option B for File types (.docx .jpg) 20"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 20",
+    "explanation": "Explanation for File types (.docx .jpg) 20"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 21",
+      "Option C for File types (.docx .jpg) 21",
+      "Option A for File types (.docx .jpg) 21"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 21",
+    "explanation": "Explanation for File types (.docx .jpg) 21"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 22",
+      "Option C for File types (.docx .jpg) 22",
+      "Option A for File types (.docx .jpg) 22"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 22",
+    "explanation": "Explanation for File types (.docx .jpg) 22"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 23",
+      "Option B for File types (.docx .jpg) 23",
+      "Option C for File types (.docx .jpg) 23"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 23",
+    "explanation": "Explanation for File types (.docx .jpg) 23"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 24",
+      "Option B for File types (.docx .jpg) 24",
+      "Option A for File types (.docx .jpg) 24"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 24",
+    "explanation": "Explanation for File types (.docx .jpg) 24"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 25",
+      "Option C for File types (.docx .jpg) 25",
+      "Option A for File types (.docx .jpg) 25"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 25",
+    "explanation": "Explanation for File types (.docx .jpg) 25"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 26",
+      "Option B for File types (.docx .jpg) 26",
+      "Option A for File types (.docx .jpg) 26"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 26",
+    "explanation": "Explanation for File types (.docx .jpg) 26"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 27",
+      "Option A for File types (.docx .jpg) 27",
+      "Option B for File types (.docx .jpg) 27"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 27",
+    "explanation": "Explanation for File types (.docx .jpg) 27"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 28",
+      "Option B for File types (.docx .jpg) 28",
+      "Option C for File types (.docx .jpg) 28"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 28",
+    "explanation": "Explanation for File types (.docx .jpg) 28"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 29",
+      "Option B for File types (.docx .jpg) 29",
+      "Option A for File types (.docx .jpg) 29"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 29",
+    "explanation": "Explanation for File types (.docx .jpg) 29"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 30",
+      "Option C for File types (.docx .jpg) 30",
+      "Option A for File types (.docx .jpg) 30"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 30",
+    "explanation": "Explanation for File types (.docx .jpg) 30"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 31",
+      "Option B for File types (.docx .jpg) 31",
+      "Option C for File types (.docx .jpg) 31"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 31",
+    "explanation": "Explanation for File types (.docx .jpg) 31"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about File types (.docx .jpg)",
+    "options": [
+      "Option A for File types (.docx .jpg) 32",
+      "Option B for File types (.docx .jpg) 32",
+      "Option C for File types (.docx .jpg) 32"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 32",
+    "explanation": "Explanation for File types (.docx .jpg) 32"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 33",
+      "Option A for File types (.docx .jpg) 33",
+      "Option B for File types (.docx .jpg) 33"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 33",
+    "explanation": "Explanation for File types (.docx .jpg) 33"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about File types (.docx .jpg)",
+    "options": [
+      "Option B for File types (.docx .jpg) 34",
+      "Option C for File types (.docx .jpg) 34",
+      "Option A for File types (.docx .jpg) 34"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 34",
+    "explanation": "Explanation for File types (.docx .jpg) 34"
+  },
+  {
+    "id": "k3-info-en-file-types-docx-jpg-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about File types (.docx .jpg)",
+    "options": [
+      "Option C for File types (.docx .jpg) 35",
+      "Option B for File types (.docx .jpg) 35",
+      "Option A for File types (.docx .jpg) 35"
+    ],
+    "correctAnswer": "Option A for File types (.docx .jpg) 35",
+    "explanation": "Explanation for File types (.docx .jpg) 35"
+  }
+]

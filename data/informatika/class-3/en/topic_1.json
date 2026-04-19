@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-the-internet-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about The Internet",
+    "options": [
+      "Option A for The Internet 1",
+      "Option C for The Internet 1",
+      "Option B for The Internet 1"
+    ],
+    "correctAnswer": "Option A for The Internet 1",
+    "explanation": "Explanation for The Internet 1"
+  },
+  {
+    "id": "k3-info-en-the-internet-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about The Internet",
+    "options": [
+      "Option C for The Internet 2",
+      "Option B for The Internet 2",
+      "Option A for The Internet 2"
+    ],
+    "correctAnswer": "Option A for The Internet 2",
+    "explanation": "Explanation for The Internet 2"
+  },
+  {
+    "id": "k3-info-en-the-internet-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about The Internet",
+    "options": [
+      "Option C for The Internet 3",
+      "Option A for The Internet 3",
+      "Option B for The Internet 3"
+    ],
+    "correctAnswer": "Option A for The Internet 3",
+    "explanation": "Explanation for The Internet 3"
+  },
+  {
+    "id": "k3-info-en-the-internet-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about The Internet",
+    "options": [
+      "Option B for The Internet 4",
+      "Option C for The Internet 4",
+      "Option A for The Internet 4"
+    ],
+    "correctAnswer": "Option A for The Internet 4",
+    "explanation": "Explanation for The Internet 4"
+  },
+  {
+    "id": "k3-info-en-the-internet-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about The Internet",
+    "options": [
+      "Option B for The Internet 5",
+      "Option A for The Internet 5",
+      "Option C for The Internet 5"
+    ],
+    "correctAnswer": "Option A for The Internet 5",
+    "explanation": "Explanation for The Internet 5"
+  },
+  {
+    "id": "k3-info-en-the-internet-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about The Internet",
+    "options": [
+      "Option B for The Internet 6",
+      "Option A for The Internet 6",
+      "Option C for The Internet 6"
+    ],
+    "correctAnswer": "Option A for The Internet 6",
+    "explanation": "Explanation for The Internet 6"
+  },
+  {
+    "id": "k3-info-en-the-internet-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about The Internet",
+    "options": [
+      "Option C for The Internet 7",
+      "Option A for The Internet 7",
+      "Option B for The Internet 7"
+    ],
+    "correctAnswer": "Option A for The Internet 7",
+    "explanation": "Explanation for The Internet 7"
+  },
+  {
+    "id": "k3-info-en-the-internet-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about The Internet",
+    "options": [
+      "Option A for The Internet 8",
+      "Option C for The Internet 8",
+      "Option B for The Internet 8"
+    ],
+    "correctAnswer": "Option A for The Internet 8",
+    "explanation": "Explanation for The Internet 8"
+  },
+  {
+    "id": "k3-info-en-the-internet-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about The Internet",
+    "options": [
+      "Option C for The Internet 9",
+      "Option B for The Internet 9",
+      "Option A for The Internet 9"
+    ],
+    "correctAnswer": "Option A for The Internet 9",
+    "explanation": "Explanation for The Internet 9"
+  },
+  {
+    "id": "k3-info-en-the-internet-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about The Internet",
+    "options": [
+      "Option A for The Internet 10",
+      "Option C for The Internet 10",
+      "Option B for The Internet 10"
+    ],
+    "correctAnswer": "Option A for The Internet 10",
+    "explanation": "Explanation for The Internet 10"
+  },
+  {
+    "id": "k3-info-en-the-internet-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about The Internet",
+    "options": [
+      "Option C for The Internet 11",
+      "Option B for The Internet 11",
+      "Option A for The Internet 11"
+    ],
+    "correctAnswer": "Option A for The Internet 11",
+    "explanation": "Explanation for The Internet 11"
+  },
+  {
+    "id": "k3-info-en-the-internet-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about The Internet",
+    "options": [
+      "Option B for The Internet 12",
+      "Option A for The Internet 12",
+      "Option C for The Internet 12"
+    ],
+    "correctAnswer": "Option A for The Internet 12",
+    "explanation": "Explanation for The Internet 12"
+  },
+  {
+    "id": "k3-info-en-the-internet-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about The Internet",
+    "options": [
+      "Option A for The Internet 13",
+      "Option C for The Internet 13",
+      "Option B for The Internet 13"
+    ],
+    "correctAnswer": "Option A for The Internet 13",
+    "explanation": "Explanation for The Internet 13"
+  },
+  {
+    "id": "k3-info-en-the-internet-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about The Internet",
+    "options": [
+      "Option A for The Internet 14",
+      "Option C for The Internet 14",
+      "Option B for The Internet 14"
+    ],
+    "correctAnswer": "Option A for The Internet 14",
+    "explanation": "Explanation for The Internet 14"
+  },
+  {
+    "id": "k3-info-en-the-internet-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about The Internet",
+    "options": [
+      "Option A for The Internet 15",
+      "Option C for The Internet 15",
+      "Option B for The Internet 15"
+    ],
+    "correctAnswer": "Option A for The Internet 15",
+    "explanation": "Explanation for The Internet 15"
+  },
+  {
+    "id": "k3-info-en-the-internet-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about The Internet",
+    "options": [
+      "Option C for The Internet 16",
+      "Option B for The Internet 16",
+      "Option A for The Internet 16"
+    ],
+    "correctAnswer": "Option A for The Internet 16",
+    "explanation": "Explanation for The Internet 16"
+  },
+  {
+    "id": "k3-info-en-the-internet-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about The Internet",
+    "options": [
+      "Option B for The Internet 17",
+      "Option C for The Internet 17",
+      "Option A for The Internet 17"
+    ],
+    "correctAnswer": "Option A for The Internet 17",
+    "explanation": "Explanation for The Internet 17"
+  },
+  {
+    "id": "k3-info-en-the-internet-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about The Internet",
+    "options": [
+      "Option C for The Internet 18",
+      "Option B for The Internet 18",
+      "Option A for The Internet 18"
+    ],
+    "correctAnswer": "Option A for The Internet 18",
+    "explanation": "Explanation for The Internet 18"
+  },
+  {
+    "id": "k3-info-en-the-internet-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about The Internet",
+    "options": [
+      "Option B for The Internet 19",
+      "Option A for The Internet 19",
+      "Option C for The Internet 19"
+    ],
+    "correctAnswer": "Option A for The Internet 19",
+    "explanation": "Explanation for The Internet 19"
+  },
+  {
+    "id": "k3-info-en-the-internet-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about The Internet",
+    "options": [
+      "Option A for The Internet 20",
+      "Option B for The Internet 20",
+      "Option C for The Internet 20"
+    ],
+    "correctAnswer": "Option A for The Internet 20",
+    "explanation": "Explanation for The Internet 20"
+  },
+  {
+    "id": "k3-info-en-the-internet-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about The Internet",
+    "options": [
+      "Option B for The Internet 21",
+      "Option A for The Internet 21",
+      "Option C for The Internet 21"
+    ],
+    "correctAnswer": "Option A for The Internet 21",
+    "explanation": "Explanation for The Internet 21"
+  },
+  {
+    "id": "k3-info-en-the-internet-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about The Internet",
+    "options": [
+      "Option C for The Internet 22",
+      "Option B for The Internet 22",
+      "Option A for The Internet 22"
+    ],
+    "correctAnswer": "Option A for The Internet 22",
+    "explanation": "Explanation for The Internet 22"
+  },
+  {
+    "id": "k3-info-en-the-internet-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about The Internet",
+    "options": [
+      "Option A for The Internet 23",
+      "Option C for The Internet 23",
+      "Option B for The Internet 23"
+    ],
+    "correctAnswer": "Option A for The Internet 23",
+    "explanation": "Explanation for The Internet 23"
+  },
+  {
+    "id": "k3-info-en-the-internet-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about The Internet",
+    "options": [
+      "Option B for The Internet 24",
+      "Option A for The Internet 24",
+      "Option C for The Internet 24"
+    ],
+    "correctAnswer": "Option A for The Internet 24",
+    "explanation": "Explanation for The Internet 24"
+  },
+  {
+    "id": "k3-info-en-the-internet-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about The Internet",
+    "options": [
+      "Option A for The Internet 25",
+      "Option B for The Internet 25",
+      "Option C for The Internet 25"
+    ],
+    "correctAnswer": "Option A for The Internet 25",
+    "explanation": "Explanation for The Internet 25"
+  },
+  {
+    "id": "k3-info-en-the-internet-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about The Internet",
+    "options": [
+      "Option B for The Internet 26",
+      "Option A for The Internet 26",
+      "Option C for The Internet 26"
+    ],
+    "correctAnswer": "Option A for The Internet 26",
+    "explanation": "Explanation for The Internet 26"
+  },
+  {
+    "id": "k3-info-en-the-internet-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about The Internet",
+    "options": [
+      "Option B for The Internet 27",
+      "Option C for The Internet 27",
+      "Option A for The Internet 27"
+    ],
+    "correctAnswer": "Option A for The Internet 27",
+    "explanation": "Explanation for The Internet 27"
+  },
+  {
+    "id": "k3-info-en-the-internet-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about The Internet",
+    "options": [
+      "Option B for The Internet 28",
+      "Option C for The Internet 28",
+      "Option A for The Internet 28"
+    ],
+    "correctAnswer": "Option A for The Internet 28",
+    "explanation": "Explanation for The Internet 28"
+  },
+  {
+    "id": "k3-info-en-the-internet-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about The Internet",
+    "options": [
+      "Option A for The Internet 29",
+      "Option C for The Internet 29",
+      "Option B for The Internet 29"
+    ],
+    "correctAnswer": "Option A for The Internet 29",
+    "explanation": "Explanation for The Internet 29"
+  },
+  {
+    "id": "k3-info-en-the-internet-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about The Internet",
+    "options": [
+      "Option A for The Internet 30",
+      "Option B for The Internet 30",
+      "Option C for The Internet 30"
+    ],
+    "correctAnswer": "Option A for The Internet 30",
+    "explanation": "Explanation for The Internet 30"
+  },
+  {
+    "id": "k3-info-en-the-internet-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about The Internet",
+    "options": [
+      "Option A for The Internet 31",
+      "Option B for The Internet 31",
+      "Option C for The Internet 31"
+    ],
+    "correctAnswer": "Option A for The Internet 31",
+    "explanation": "Explanation for The Internet 31"
+  },
+  {
+    "id": "k3-info-en-the-internet-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about The Internet",
+    "options": [
+      "Option B for The Internet 32",
+      "Option A for The Internet 32",
+      "Option C for The Internet 32"
+    ],
+    "correctAnswer": "Option A for The Internet 32",
+    "explanation": "Explanation for The Internet 32"
+  },
+  {
+    "id": "k3-info-en-the-internet-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about The Internet",
+    "options": [
+      "Option C for The Internet 33",
+      "Option B for The Internet 33",
+      "Option A for The Internet 33"
+    ],
+    "correctAnswer": "Option A for The Internet 33",
+    "explanation": "Explanation for The Internet 33"
+  },
+  {
+    "id": "k3-info-en-the-internet-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about The Internet",
+    "options": [
+      "Option C for The Internet 34",
+      "Option B for The Internet 34",
+      "Option A for The Internet 34"
+    ],
+    "correctAnswer": "Option A for The Internet 34",
+    "explanation": "Explanation for The Internet 34"
+  },
+  {
+    "id": "k3-info-en-the-internet-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about The Internet",
+    "options": [
+      "Option B for The Internet 35",
+      "Option A for The Internet 35",
+      "Option C for The Internet 35"
+    ],
+    "correctAnswer": "Option A for The Internet 35",
+    "explanation": "Explanation for The Internet 35"
+  }
+]

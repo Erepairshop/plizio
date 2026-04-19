@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-calcul-simplu-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 1",
+      "Opțiunea B pentru Calcul simplu 1",
+      "Opțiunea C pentru Calcul simplu 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 1",
+    "explanation": "Explicație pentru Calcul simplu 1"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 2",
+      "Opțiunea C pentru Calcul simplu 2",
+      "Opțiunea B pentru Calcul simplu 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 2",
+    "explanation": "Explicație pentru Calcul simplu 2"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 3",
+      "Opțiunea B pentru Calcul simplu 3",
+      "Opțiunea C pentru Calcul simplu 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 3",
+    "explanation": "Explicație pentru Calcul simplu 3"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 4",
+      "Opțiunea C pentru Calcul simplu 4",
+      "Opțiunea B pentru Calcul simplu 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 4",
+    "explanation": "Explicație pentru Calcul simplu 4"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 5",
+      "Opțiunea A pentru Calcul simplu 5",
+      "Opțiunea B pentru Calcul simplu 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 5",
+    "explanation": "Explicație pentru Calcul simplu 5"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 6",
+      "Opțiunea C pentru Calcul simplu 6",
+      "Opțiunea A pentru Calcul simplu 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 6",
+    "explanation": "Explicație pentru Calcul simplu 6"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 7",
+      "Opțiunea A pentru Calcul simplu 7",
+      "Opțiunea B pentru Calcul simplu 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 7",
+    "explanation": "Explicație pentru Calcul simplu 7"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 8",
+      "Opțiunea A pentru Calcul simplu 8",
+      "Opțiunea C pentru Calcul simplu 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 8",
+    "explanation": "Explicație pentru Calcul simplu 8"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 9",
+      "Opțiunea A pentru Calcul simplu 9",
+      "Opțiunea B pentru Calcul simplu 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 9",
+    "explanation": "Explicație pentru Calcul simplu 9"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 10",
+      "Opțiunea B pentru Calcul simplu 10",
+      "Opțiunea A pentru Calcul simplu 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 10",
+    "explanation": "Explicație pentru Calcul simplu 10"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 11",
+      "Opțiunea A pentru Calcul simplu 11",
+      "Opțiunea C pentru Calcul simplu 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 11",
+    "explanation": "Explicație pentru Calcul simplu 11"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 12",
+      "Opțiunea B pentru Calcul simplu 12",
+      "Opțiunea C pentru Calcul simplu 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 12",
+    "explanation": "Explicație pentru Calcul simplu 12"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 13",
+      "Opțiunea A pentru Calcul simplu 13",
+      "Opțiunea C pentru Calcul simplu 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 13",
+    "explanation": "Explicație pentru Calcul simplu 13"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 14",
+      "Opțiunea C pentru Calcul simplu 14",
+      "Opțiunea B pentru Calcul simplu 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 14",
+    "explanation": "Explicație pentru Calcul simplu 14"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 15",
+      "Opțiunea C pentru Calcul simplu 15",
+      "Opțiunea A pentru Calcul simplu 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 15",
+    "explanation": "Explicație pentru Calcul simplu 15"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 16",
+      "Opțiunea C pentru Calcul simplu 16",
+      "Opțiunea B pentru Calcul simplu 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 16",
+    "explanation": "Explicație pentru Calcul simplu 16"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 17",
+      "Opțiunea B pentru Calcul simplu 17",
+      "Opțiunea A pentru Calcul simplu 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 17",
+    "explanation": "Explicație pentru Calcul simplu 17"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 18",
+      "Opțiunea C pentru Calcul simplu 18",
+      "Opțiunea A pentru Calcul simplu 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 18",
+    "explanation": "Explicație pentru Calcul simplu 18"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 19",
+      "Opțiunea C pentru Calcul simplu 19",
+      "Opțiunea B pentru Calcul simplu 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 19",
+    "explanation": "Explicație pentru Calcul simplu 19"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 20",
+      "Opțiunea B pentru Calcul simplu 20",
+      "Opțiunea A pentru Calcul simplu 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 20",
+    "explanation": "Explicație pentru Calcul simplu 20"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 21",
+      "Opțiunea B pentru Calcul simplu 21",
+      "Opțiunea C pentru Calcul simplu 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 21",
+    "explanation": "Explicație pentru Calcul simplu 21"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 22",
+      "Opțiunea C pentru Calcul simplu 22",
+      "Opțiunea A pentru Calcul simplu 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 22",
+    "explanation": "Explicație pentru Calcul simplu 22"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 23",
+      "Opțiunea B pentru Calcul simplu 23",
+      "Opțiunea A pentru Calcul simplu 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 23",
+    "explanation": "Explicație pentru Calcul simplu 23"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 24",
+      "Opțiunea C pentru Calcul simplu 24",
+      "Opțiunea A pentru Calcul simplu 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 24",
+    "explanation": "Explicație pentru Calcul simplu 24"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 25",
+      "Opțiunea C pentru Calcul simplu 25",
+      "Opțiunea A pentru Calcul simplu 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 25",
+    "explanation": "Explicație pentru Calcul simplu 25"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 26",
+      "Opțiunea C pentru Calcul simplu 26",
+      "Opțiunea B pentru Calcul simplu 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 26",
+    "explanation": "Explicație pentru Calcul simplu 26"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 27",
+      "Opțiunea C pentru Calcul simplu 27",
+      "Opțiunea B pentru Calcul simplu 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 27",
+    "explanation": "Explicație pentru Calcul simplu 27"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 28",
+      "Opțiunea A pentru Calcul simplu 28",
+      "Opțiunea C pentru Calcul simplu 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 28",
+    "explanation": "Explicație pentru Calcul simplu 28"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Calcul simplu",
+    "options": [
+      "Opțiunea C pentru Calcul simplu 29",
+      "Opțiunea A pentru Calcul simplu 29",
+      "Opțiunea B pentru Calcul simplu 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 29",
+    "explanation": "Explicație pentru Calcul simplu 29"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 30",
+      "Opțiunea B pentru Calcul simplu 30",
+      "Opțiunea C pentru Calcul simplu 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 30",
+    "explanation": "Explicație pentru Calcul simplu 30"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 31",
+      "Opțiunea C pentru Calcul simplu 31",
+      "Opțiunea A pentru Calcul simplu 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 31",
+    "explanation": "Explicație pentru Calcul simplu 31"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 32",
+      "Opțiunea B pentru Calcul simplu 32",
+      "Opțiunea C pentru Calcul simplu 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 32",
+    "explanation": "Explicație pentru Calcul simplu 32"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 33",
+      "Opțiunea A pentru Calcul simplu 33",
+      "Opțiunea C pentru Calcul simplu 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 33",
+    "explanation": "Explicație pentru Calcul simplu 33"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Calcul simplu",
+    "options": [
+      "Opțiunea A pentru Calcul simplu 34",
+      "Opțiunea C pentru Calcul simplu 34",
+      "Opțiunea B pentru Calcul simplu 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 34",
+    "explanation": "Explicație pentru Calcul simplu 34"
+  },
+  {
+    "id": "k3-info-ro-calcul-simplu-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Calcul simplu",
+    "options": [
+      "Opțiunea B pentru Calcul simplu 35",
+      "Opțiunea A pentru Calcul simplu 35",
+      "Opțiunea C pentru Calcul simplu 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Calcul simplu 35",
+    "explanation": "Explicație pentru Calcul simplu 35"
+  }
+]

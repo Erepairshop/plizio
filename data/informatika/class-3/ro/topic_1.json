@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-internetul-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 1",
+      "Opțiunea C pentru Internetul 1",
+      "Opțiunea A pentru Internetul 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 1",
+    "explanation": "Explicație pentru Internetul 1"
+  },
+  {
+    "id": "k3-info-ro-internetul-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 2",
+      "Opțiunea C pentru Internetul 2",
+      "Opțiunea A pentru Internetul 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 2",
+    "explanation": "Explicație pentru Internetul 2"
+  },
+  {
+    "id": "k3-info-ro-internetul-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 3",
+      "Opțiunea A pentru Internetul 3",
+      "Opțiunea B pentru Internetul 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 3",
+    "explanation": "Explicație pentru Internetul 3"
+  },
+  {
+    "id": "k3-info-ro-internetul-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 4",
+      "Opțiunea A pentru Internetul 4",
+      "Opțiunea C pentru Internetul 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 4",
+    "explanation": "Explicație pentru Internetul 4"
+  },
+  {
+    "id": "k3-info-ro-internetul-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 5",
+      "Opțiunea B pentru Internetul 5",
+      "Opțiunea C pentru Internetul 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 5",
+    "explanation": "Explicație pentru Internetul 5"
+  },
+  {
+    "id": "k3-info-ro-internetul-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 6",
+      "Opțiunea C pentru Internetul 6",
+      "Opțiunea B pentru Internetul 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 6",
+    "explanation": "Explicație pentru Internetul 6"
+  },
+  {
+    "id": "k3-info-ro-internetul-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 7",
+      "Opțiunea B pentru Internetul 7",
+      "Opțiunea A pentru Internetul 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 7",
+    "explanation": "Explicație pentru Internetul 7"
+  },
+  {
+    "id": "k3-info-ro-internetul-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 8",
+      "Opțiunea B pentru Internetul 8",
+      "Opțiunea A pentru Internetul 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 8",
+    "explanation": "Explicație pentru Internetul 8"
+  },
+  {
+    "id": "k3-info-ro-internetul-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 9",
+      "Opțiunea A pentru Internetul 9",
+      "Opțiunea C pentru Internetul 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 9",
+    "explanation": "Explicație pentru Internetul 9"
+  },
+  {
+    "id": "k3-info-ro-internetul-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 10",
+      "Opțiunea A pentru Internetul 10",
+      "Opțiunea B pentru Internetul 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 10",
+    "explanation": "Explicație pentru Internetul 10"
+  },
+  {
+    "id": "k3-info-ro-internetul-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 11",
+      "Opțiunea B pentru Internetul 11",
+      "Opțiunea C pentru Internetul 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 11",
+    "explanation": "Explicație pentru Internetul 11"
+  },
+  {
+    "id": "k3-info-ro-internetul-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 12",
+      "Opțiunea B pentru Internetul 12",
+      "Opțiunea C pentru Internetul 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 12",
+    "explanation": "Explicație pentru Internetul 12"
+  },
+  {
+    "id": "k3-info-ro-internetul-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 13",
+      "Opțiunea A pentru Internetul 13",
+      "Opțiunea B pentru Internetul 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 13",
+    "explanation": "Explicație pentru Internetul 13"
+  },
+  {
+    "id": "k3-info-ro-internetul-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 14",
+      "Opțiunea A pentru Internetul 14",
+      "Opțiunea B pentru Internetul 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 14",
+    "explanation": "Explicație pentru Internetul 14"
+  },
+  {
+    "id": "k3-info-ro-internetul-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 15",
+      "Opțiunea C pentru Internetul 15",
+      "Opțiunea A pentru Internetul 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 15",
+    "explanation": "Explicație pentru Internetul 15"
+  },
+  {
+    "id": "k3-info-ro-internetul-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 16",
+      "Opțiunea A pentru Internetul 16",
+      "Opțiunea C pentru Internetul 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 16",
+    "explanation": "Explicație pentru Internetul 16"
+  },
+  {
+    "id": "k3-info-ro-internetul-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 17",
+      "Opțiunea A pentru Internetul 17",
+      "Opțiunea C pentru Internetul 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 17",
+    "explanation": "Explicație pentru Internetul 17"
+  },
+  {
+    "id": "k3-info-ro-internetul-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 18",
+      "Opțiunea B pentru Internetul 18",
+      "Opțiunea C pentru Internetul 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 18",
+    "explanation": "Explicație pentru Internetul 18"
+  },
+  {
+    "id": "k3-info-ro-internetul-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 19",
+      "Opțiunea C pentru Internetul 19",
+      "Opțiunea A pentru Internetul 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 19",
+    "explanation": "Explicație pentru Internetul 19"
+  },
+  {
+    "id": "k3-info-ro-internetul-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Internetul",
+    "options": [
+      "Opțiunea C pentru Internetul 20",
+      "Opțiunea A pentru Internetul 20",
+      "Opțiunea B pentru Internetul 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 20",
+    "explanation": "Explicație pentru Internetul 20"
+  },
+  {
+    "id": "k3-info-ro-internetul-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 21",
+      "Opțiunea B pentru Internetul 21",
+      "Opțiunea C pentru Internetul 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 21",
+    "explanation": "Explicație pentru Internetul 21"
+  },
+  {
+    "id": "k3-info-ro-internetul-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 22",
+      "Opțiunea C pentru Internetul 22",
+      "Opțiunea A pentru Internetul 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 22",
+    "explanation": "Explicație pentru Internetul 22"
+  },
+  {
+    "id": "k3-info-ro-internetul-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 23",
+      "Opțiunea C pentru Internetul 23",
+      "Opțiunea B pentru Internetul 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 23",
+    "explanation": "Explicație pentru Internetul 23"
+  },
+  {
+    "id": "k3-info-ro-internetul-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 24",
+      "Opțiunea A pentru Internetul 24",
+      "Opțiunea C pentru Internetul 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 24",
+    "explanation": "Explicație pentru Internetul 24"
+  },
+  {
+    "id": "k3-info-ro-internetul-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 25",
+      "Opțiunea C pentru Internetul 25",
+      "Opțiunea B pentru Internetul 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 25",
+    "explanation": "Explicație pentru Internetul 25"
+  },
+  {
+    "id": "k3-info-ro-internetul-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 26",
+      "Opțiunea A pentru Internetul 26",
+      "Opțiunea C pentru Internetul 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 26",
+    "explanation": "Explicație pentru Internetul 26"
+  },
+  {
+    "id": "k3-info-ro-internetul-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 27",
+      "Opțiunea B pentru Internetul 27",
+      "Opțiunea C pentru Internetul 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 27",
+    "explanation": "Explicație pentru Internetul 27"
+  },
+  {
+    "id": "k3-info-ro-internetul-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 28",
+      "Opțiunea B pentru Internetul 28",
+      "Opțiunea C pentru Internetul 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 28",
+    "explanation": "Explicație pentru Internetul 28"
+  },
+  {
+    "id": "k3-info-ro-internetul-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 29",
+      "Opțiunea A pentru Internetul 29",
+      "Opțiunea C pentru Internetul 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 29",
+    "explanation": "Explicație pentru Internetul 29"
+  },
+  {
+    "id": "k3-info-ro-internetul-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 30",
+      "Opțiunea B pentru Internetul 30",
+      "Opțiunea C pentru Internetul 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 30",
+    "explanation": "Explicație pentru Internetul 30"
+  },
+  {
+    "id": "k3-info-ro-internetul-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 31",
+      "Opțiunea A pentru Internetul 31",
+      "Opțiunea C pentru Internetul 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 31",
+    "explanation": "Explicație pentru Internetul 31"
+  },
+  {
+    "id": "k3-info-ro-internetul-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 32",
+      "Opțiunea B pentru Internetul 32",
+      "Opțiunea C pentru Internetul 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 32",
+    "explanation": "Explicație pentru Internetul 32"
+  },
+  {
+    "id": "k3-info-ro-internetul-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Internetul",
+    "options": [
+      "Opțiunea B pentru Internetul 33",
+      "Opțiunea A pentru Internetul 33",
+      "Opțiunea C pentru Internetul 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 33",
+    "explanation": "Explicație pentru Internetul 33"
+  },
+  {
+    "id": "k3-info-ro-internetul-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 34",
+      "Opțiunea B pentru Internetul 34",
+      "Opțiunea C pentru Internetul 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 34",
+    "explanation": "Explicație pentru Internetul 34"
+  },
+  {
+    "id": "k3-info-ro-internetul-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Internetul",
+    "options": [
+      "Opțiunea A pentru Internetul 35",
+      "Opțiunea C pentru Internetul 35",
+      "Opțiunea B pentru Internetul 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Internetul 35",
+    "explanation": "Explicație pentru Internetul 35"
+  }
+]

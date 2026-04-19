@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-first-search-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about First search",
+    "options": [
+      "Option B for First search 1",
+      "Option A for First search 1",
+      "Option C for First search 1"
+    ],
+    "correctAnswer": "Option A for First search 1",
+    "explanation": "Explanation for First search 1"
+  },
+  {
+    "id": "k3-info-en-first-search-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about First search",
+    "options": [
+      "Option C for First search 2",
+      "Option A for First search 2",
+      "Option B for First search 2"
+    ],
+    "correctAnswer": "Option A for First search 2",
+    "explanation": "Explanation for First search 2"
+  },
+  {
+    "id": "k3-info-en-first-search-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about First search",
+    "options": [
+      "Option B for First search 3",
+      "Option C for First search 3",
+      "Option A for First search 3"
+    ],
+    "correctAnswer": "Option A for First search 3",
+    "explanation": "Explanation for First search 3"
+  },
+  {
+    "id": "k3-info-en-first-search-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about First search",
+    "options": [
+      "Option C for First search 4",
+      "Option B for First search 4",
+      "Option A for First search 4"
+    ],
+    "correctAnswer": "Option A for First search 4",
+    "explanation": "Explanation for First search 4"
+  },
+  {
+    "id": "k3-info-en-first-search-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about First search",
+    "options": [
+      "Option C for First search 5",
+      "Option B for First search 5",
+      "Option A for First search 5"
+    ],
+    "correctAnswer": "Option A for First search 5",
+    "explanation": "Explanation for First search 5"
+  },
+  {
+    "id": "k3-info-en-first-search-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about First search",
+    "options": [
+      "Option B for First search 6",
+      "Option C for First search 6",
+      "Option A for First search 6"
+    ],
+    "correctAnswer": "Option A for First search 6",
+    "explanation": "Explanation for First search 6"
+  },
+  {
+    "id": "k3-info-en-first-search-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about First search",
+    "options": [
+      "Option B for First search 7",
+      "Option C for First search 7",
+      "Option A for First search 7"
+    ],
+    "correctAnswer": "Option A for First search 7",
+    "explanation": "Explanation for First search 7"
+  },
+  {
+    "id": "k3-info-en-first-search-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about First search",
+    "options": [
+      "Option A for First search 8",
+      "Option B for First search 8",
+      "Option C for First search 8"
+    ],
+    "correctAnswer": "Option A for First search 8",
+    "explanation": "Explanation for First search 8"
+  },
+  {
+    "id": "k3-info-en-first-search-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about First search",
+    "options": [
+      "Option B for First search 9",
+      "Option C for First search 9",
+      "Option A for First search 9"
+    ],
+    "correctAnswer": "Option A for First search 9",
+    "explanation": "Explanation for First search 9"
+  },
+  {
+    "id": "k3-info-en-first-search-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about First search",
+    "options": [
+      "Option B for First search 10",
+      "Option C for First search 10",
+      "Option A for First search 10"
+    ],
+    "correctAnswer": "Option A for First search 10",
+    "explanation": "Explanation for First search 10"
+  },
+  {
+    "id": "k3-info-en-first-search-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about First search",
+    "options": [
+      "Option A for First search 11",
+      "Option C for First search 11",
+      "Option B for First search 11"
+    ],
+    "correctAnswer": "Option A for First search 11",
+    "explanation": "Explanation for First search 11"
+  },
+  {
+    "id": "k3-info-en-first-search-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about First search",
+    "options": [
+      "Option A for First search 12",
+      "Option C for First search 12",
+      "Option B for First search 12"
+    ],
+    "correctAnswer": "Option A for First search 12",
+    "explanation": "Explanation for First search 12"
+  },
+  {
+    "id": "k3-info-en-first-search-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about First search",
+    "options": [
+      "Option B for First search 13",
+      "Option C for First search 13",
+      "Option A for First search 13"
+    ],
+    "correctAnswer": "Option A for First search 13",
+    "explanation": "Explanation for First search 13"
+  },
+  {
+    "id": "k3-info-en-first-search-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about First search",
+    "options": [
+      "Option B for First search 14",
+      "Option C for First search 14",
+      "Option A for First search 14"
+    ],
+    "correctAnswer": "Option A for First search 14",
+    "explanation": "Explanation for First search 14"
+  },
+  {
+    "id": "k3-info-en-first-search-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about First search",
+    "options": [
+      "Option C for First search 15",
+      "Option A for First search 15",
+      "Option B for First search 15"
+    ],
+    "correctAnswer": "Option A for First search 15",
+    "explanation": "Explanation for First search 15"
+  },
+  {
+    "id": "k3-info-en-first-search-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about First search",
+    "options": [
+      "Option A for First search 16",
+      "Option B for First search 16",
+      "Option C for First search 16"
+    ],
+    "correctAnswer": "Option A for First search 16",
+    "explanation": "Explanation for First search 16"
+  },
+  {
+    "id": "k3-info-en-first-search-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about First search",
+    "options": [
+      "Option C for First search 17",
+      "Option B for First search 17",
+      "Option A for First search 17"
+    ],
+    "correctAnswer": "Option A for First search 17",
+    "explanation": "Explanation for First search 17"
+  },
+  {
+    "id": "k3-info-en-first-search-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about First search",
+    "options": [
+      "Option B for First search 18",
+      "Option C for First search 18",
+      "Option A for First search 18"
+    ],
+    "correctAnswer": "Option A for First search 18",
+    "explanation": "Explanation for First search 18"
+  },
+  {
+    "id": "k3-info-en-first-search-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about First search",
+    "options": [
+      "Option B for First search 19",
+      "Option C for First search 19",
+      "Option A for First search 19"
+    ],
+    "correctAnswer": "Option A for First search 19",
+    "explanation": "Explanation for First search 19"
+  },
+  {
+    "id": "k3-info-en-first-search-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about First search",
+    "options": [
+      "Option B for First search 20",
+      "Option A for First search 20",
+      "Option C for First search 20"
+    ],
+    "correctAnswer": "Option A for First search 20",
+    "explanation": "Explanation for First search 20"
+  },
+  {
+    "id": "k3-info-en-first-search-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about First search",
+    "options": [
+      "Option A for First search 21",
+      "Option B for First search 21",
+      "Option C for First search 21"
+    ],
+    "correctAnswer": "Option A for First search 21",
+    "explanation": "Explanation for First search 21"
+  },
+  {
+    "id": "k3-info-en-first-search-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about First search",
+    "options": [
+      "Option A for First search 22",
+      "Option B for First search 22",
+      "Option C for First search 22"
+    ],
+    "correctAnswer": "Option A for First search 22",
+    "explanation": "Explanation for First search 22"
+  },
+  {
+    "id": "k3-info-en-first-search-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about First search",
+    "options": [
+      "Option C for First search 23",
+      "Option A for First search 23",
+      "Option B for First search 23"
+    ],
+    "correctAnswer": "Option A for First search 23",
+    "explanation": "Explanation for First search 23"
+  },
+  {
+    "id": "k3-info-en-first-search-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about First search",
+    "options": [
+      "Option C for First search 24",
+      "Option B for First search 24",
+      "Option A for First search 24"
+    ],
+    "correctAnswer": "Option A for First search 24",
+    "explanation": "Explanation for First search 24"
+  },
+  {
+    "id": "k3-info-en-first-search-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about First search",
+    "options": [
+      "Option A for First search 25",
+      "Option B for First search 25",
+      "Option C for First search 25"
+    ],
+    "correctAnswer": "Option A for First search 25",
+    "explanation": "Explanation for First search 25"
+  },
+  {
+    "id": "k3-info-en-first-search-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about First search",
+    "options": [
+      "Option B for First search 26",
+      "Option C for First search 26",
+      "Option A for First search 26"
+    ],
+    "correctAnswer": "Option A for First search 26",
+    "explanation": "Explanation for First search 26"
+  },
+  {
+    "id": "k3-info-en-first-search-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about First search",
+    "options": [
+      "Option C for First search 27",
+      "Option A for First search 27",
+      "Option B for First search 27"
+    ],
+    "correctAnswer": "Option A for First search 27",
+    "explanation": "Explanation for First search 27"
+  },
+  {
+    "id": "k3-info-en-first-search-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about First search",
+    "options": [
+      "Option C for First search 28",
+      "Option B for First search 28",
+      "Option A for First search 28"
+    ],
+    "correctAnswer": "Option A for First search 28",
+    "explanation": "Explanation for First search 28"
+  },
+  {
+    "id": "k3-info-en-first-search-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about First search",
+    "options": [
+      "Option B for First search 29",
+      "Option A for First search 29",
+      "Option C for First search 29"
+    ],
+    "correctAnswer": "Option A for First search 29",
+    "explanation": "Explanation for First search 29"
+  },
+  {
+    "id": "k3-info-en-first-search-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about First search",
+    "options": [
+      "Option A for First search 30",
+      "Option C for First search 30",
+      "Option B for First search 30"
+    ],
+    "correctAnswer": "Option A for First search 30",
+    "explanation": "Explanation for First search 30"
+  },
+  {
+    "id": "k3-info-en-first-search-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about First search",
+    "options": [
+      "Option A for First search 31",
+      "Option B for First search 31",
+      "Option C for First search 31"
+    ],
+    "correctAnswer": "Option A for First search 31",
+    "explanation": "Explanation for First search 31"
+  },
+  {
+    "id": "k3-info-en-first-search-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about First search",
+    "options": [
+      "Option C for First search 32",
+      "Option B for First search 32",
+      "Option A for First search 32"
+    ],
+    "correctAnswer": "Option A for First search 32",
+    "explanation": "Explanation for First search 32"
+  },
+  {
+    "id": "k3-info-en-first-search-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about First search",
+    "options": [
+      "Option A for First search 33",
+      "Option C for First search 33",
+      "Option B for First search 33"
+    ],
+    "correctAnswer": "Option A for First search 33",
+    "explanation": "Explanation for First search 33"
+  },
+  {
+    "id": "k3-info-en-first-search-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about First search",
+    "options": [
+      "Option B for First search 34",
+      "Option C for First search 34",
+      "Option A for First search 34"
+    ],
+    "correctAnswer": "Option A for First search 34",
+    "explanation": "Explanation for First search 34"
+  },
+  {
+    "id": "k3-info-en-first-search-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about First search",
+    "options": [
+      "Option B for First search 35",
+      "Option A for First search 35",
+      "Option C for First search 35"
+    ],
+    "correctAnswer": "Option A for First search 35",
+    "explanation": "Explanation for First search 35"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-mărime--stil-font-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 1",
+      "Opțiunea B pentru Mărime / stil font 1",
+      "Opțiunea C pentru Mărime / stil font 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 1",
+    "explanation": "Explicație pentru Mărime / stil font 1"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 2",
+      "Opțiunea B pentru Mărime / stil font 2",
+      "Opțiunea A pentru Mărime / stil font 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 2",
+    "explanation": "Explicație pentru Mărime / stil font 2"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 3",
+      "Opțiunea B pentru Mărime / stil font 3",
+      "Opțiunea A pentru Mărime / stil font 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 3",
+    "explanation": "Explicație pentru Mărime / stil font 3"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 4",
+      "Opțiunea B pentru Mărime / stil font 4",
+      "Opțiunea A pentru Mărime / stil font 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 4",
+    "explanation": "Explicație pentru Mărime / stil font 4"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 5",
+      "Opțiunea B pentru Mărime / stil font 5",
+      "Opțiunea C pentru Mărime / stil font 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 5",
+    "explanation": "Explicație pentru Mărime / stil font 5"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 6",
+      "Opțiunea C pentru Mărime / stil font 6",
+      "Opțiunea A pentru Mărime / stil font 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 6",
+    "explanation": "Explicație pentru Mărime / stil font 6"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 7",
+      "Opțiunea B pentru Mărime / stil font 7",
+      "Opțiunea A pentru Mărime / stil font 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 7",
+    "explanation": "Explicație pentru Mărime / stil font 7"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 8",
+      "Opțiunea A pentru Mărime / stil font 8",
+      "Opțiunea B pentru Mărime / stil font 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 8",
+    "explanation": "Explicație pentru Mărime / stil font 8"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 9",
+      "Opțiunea C pentru Mărime / stil font 9",
+      "Opțiunea B pentru Mărime / stil font 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 9",
+    "explanation": "Explicație pentru Mărime / stil font 9"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 10",
+      "Opțiunea A pentru Mărime / stil font 10",
+      "Opțiunea C pentru Mărime / stil font 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 10",
+    "explanation": "Explicație pentru Mărime / stil font 10"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 11",
+      "Opțiunea B pentru Mărime / stil font 11",
+      "Opțiunea C pentru Mărime / stil font 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 11",
+    "explanation": "Explicație pentru Mărime / stil font 11"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 12",
+      "Opțiunea B pentru Mărime / stil font 12",
+      "Opțiunea C pentru Mărime / stil font 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 12",
+    "explanation": "Explicație pentru Mărime / stil font 12"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 13",
+      "Opțiunea A pentru Mărime / stil font 13",
+      "Opțiunea B pentru Mărime / stil font 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 13",
+    "explanation": "Explicație pentru Mărime / stil font 13"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 14",
+      "Opțiunea C pentru Mărime / stil font 14",
+      "Opțiunea A pentru Mărime / stil font 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 14",
+    "explanation": "Explicație pentru Mărime / stil font 14"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 15",
+      "Opțiunea B pentru Mărime / stil font 15",
+      "Opțiunea C pentru Mărime / stil font 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 15",
+    "explanation": "Explicație pentru Mărime / stil font 15"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 16",
+      "Opțiunea A pentru Mărime / stil font 16",
+      "Opțiunea C pentru Mărime / stil font 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 16",
+    "explanation": "Explicație pentru Mărime / stil font 16"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 17",
+      "Opțiunea B pentru Mărime / stil font 17",
+      "Opțiunea C pentru Mărime / stil font 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 17",
+    "explanation": "Explicație pentru Mărime / stil font 17"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 18",
+      "Opțiunea A pentru Mărime / stil font 18",
+      "Opțiunea B pentru Mărime / stil font 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 18",
+    "explanation": "Explicație pentru Mărime / stil font 18"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 19",
+      "Opțiunea B pentru Mărime / stil font 19",
+      "Opțiunea C pentru Mărime / stil font 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 19",
+    "explanation": "Explicație pentru Mărime / stil font 19"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 20",
+      "Opțiunea C pentru Mărime / stil font 20",
+      "Opțiunea B pentru Mărime / stil font 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 20",
+    "explanation": "Explicație pentru Mărime / stil font 20"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 21",
+      "Opțiunea B pentru Mărime / stil font 21",
+      "Opțiunea C pentru Mărime / stil font 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 21",
+    "explanation": "Explicație pentru Mărime / stil font 21"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 22",
+      "Opțiunea A pentru Mărime / stil font 22",
+      "Opțiunea B pentru Mărime / stil font 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 22",
+    "explanation": "Explicație pentru Mărime / stil font 22"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 23",
+      "Opțiunea A pentru Mărime / stil font 23",
+      "Opțiunea B pentru Mărime / stil font 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 23",
+    "explanation": "Explicație pentru Mărime / stil font 23"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 24",
+      "Opțiunea B pentru Mărime / stil font 24",
+      "Opțiunea C pentru Mărime / stil font 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 24",
+    "explanation": "Explicație pentru Mărime / stil font 24"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 25",
+      "Opțiunea A pentru Mărime / stil font 25",
+      "Opțiunea C pentru Mărime / stil font 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 25",
+    "explanation": "Explicație pentru Mărime / stil font 25"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 26",
+      "Opțiunea A pentru Mărime / stil font 26",
+      "Opțiunea B pentru Mărime / stil font 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 26",
+    "explanation": "Explicație pentru Mărime / stil font 26"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 27",
+      "Opțiunea A pentru Mărime / stil font 27",
+      "Opțiunea B pentru Mărime / stil font 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 27",
+    "explanation": "Explicație pentru Mărime / stil font 27"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 28",
+      "Opțiunea C pentru Mărime / stil font 28",
+      "Opțiunea B pentru Mărime / stil font 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 28",
+    "explanation": "Explicație pentru Mărime / stil font 28"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 29",
+      "Opțiunea A pentru Mărime / stil font 29",
+      "Opțiunea B pentru Mărime / stil font 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 29",
+    "explanation": "Explicație pentru Mărime / stil font 29"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 30",
+      "Opțiunea A pentru Mărime / stil font 30",
+      "Opțiunea C pentru Mărime / stil font 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 30",
+    "explanation": "Explicație pentru Mărime / stil font 30"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 31",
+      "Opțiunea C pentru Mărime / stil font 31",
+      "Opțiunea A pentru Mărime / stil font 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 31",
+    "explanation": "Explicație pentru Mărime / stil font 31"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 32",
+      "Opțiunea B pentru Mărime / stil font 32",
+      "Opțiunea A pentru Mărime / stil font 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 32",
+    "explanation": "Explicație pentru Mărime / stil font 32"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Mărime / stil font",
+    "options": [
+      "Opțiunea B pentru Mărime / stil font 33",
+      "Opțiunea C pentru Mărime / stil font 33",
+      "Opțiunea A pentru Mărime / stil font 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 33",
+    "explanation": "Explicație pentru Mărime / stil font 33"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Mărime / stil font",
+    "options": [
+      "Opțiunea C pentru Mărime / stil font 34",
+      "Opțiunea A pentru Mărime / stil font 34",
+      "Opțiunea B pentru Mărime / stil font 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 34",
+    "explanation": "Explicație pentru Mărime / stil font 34"
+  },
+  {
+    "id": "k3-info-ro-mărime--stil-font-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Mărime / stil font",
+    "options": [
+      "Opțiunea A pentru Mărime / stil font 35",
+      "Opțiunea B pentru Mărime / stil font 35",
+      "Opțiunea C pentru Mărime / stil font 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Mărime / stil font 35",
+    "explanation": "Explicație pentru Mărime / stil font 35"
+  }
+]

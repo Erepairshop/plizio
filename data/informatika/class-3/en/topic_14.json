@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-table-basics-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Table basics",
+    "options": [
+      "Option C for Table basics 1",
+      "Option B for Table basics 1",
+      "Option A for Table basics 1"
+    ],
+    "correctAnswer": "Option A for Table basics 1",
+    "explanation": "Explanation for Table basics 1"
+  },
+  {
+    "id": "k3-info-en-table-basics-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Table basics",
+    "options": [
+      "Option B for Table basics 2",
+      "Option C for Table basics 2",
+      "Option A for Table basics 2"
+    ],
+    "correctAnswer": "Option A for Table basics 2",
+    "explanation": "Explanation for Table basics 2"
+  },
+  {
+    "id": "k3-info-en-table-basics-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Table basics",
+    "options": [
+      "Option C for Table basics 3",
+      "Option A for Table basics 3",
+      "Option B for Table basics 3"
+    ],
+    "correctAnswer": "Option A for Table basics 3",
+    "explanation": "Explanation for Table basics 3"
+  },
+  {
+    "id": "k3-info-en-table-basics-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Table basics",
+    "options": [
+      "Option C for Table basics 4",
+      "Option B for Table basics 4",
+      "Option A for Table basics 4"
+    ],
+    "correctAnswer": "Option A for Table basics 4",
+    "explanation": "Explanation for Table basics 4"
+  },
+  {
+    "id": "k3-info-en-table-basics-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Table basics",
+    "options": [
+      "Option A for Table basics 5",
+      "Option C for Table basics 5",
+      "Option B for Table basics 5"
+    ],
+    "correctAnswer": "Option A for Table basics 5",
+    "explanation": "Explanation for Table basics 5"
+  },
+  {
+    "id": "k3-info-en-table-basics-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Table basics",
+    "options": [
+      "Option A for Table basics 6",
+      "Option C for Table basics 6",
+      "Option B for Table basics 6"
+    ],
+    "correctAnswer": "Option A for Table basics 6",
+    "explanation": "Explanation for Table basics 6"
+  },
+  {
+    "id": "k3-info-en-table-basics-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Table basics",
+    "options": [
+      "Option B for Table basics 7",
+      "Option C for Table basics 7",
+      "Option A for Table basics 7"
+    ],
+    "correctAnswer": "Option A for Table basics 7",
+    "explanation": "Explanation for Table basics 7"
+  },
+  {
+    "id": "k3-info-en-table-basics-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Table basics",
+    "options": [
+      "Option C for Table basics 8",
+      "Option B for Table basics 8",
+      "Option A for Table basics 8"
+    ],
+    "correctAnswer": "Option A for Table basics 8",
+    "explanation": "Explanation for Table basics 8"
+  },
+  {
+    "id": "k3-info-en-table-basics-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Table basics",
+    "options": [
+      "Option C for Table basics 9",
+      "Option B for Table basics 9",
+      "Option A for Table basics 9"
+    ],
+    "correctAnswer": "Option A for Table basics 9",
+    "explanation": "Explanation for Table basics 9"
+  },
+  {
+    "id": "k3-info-en-table-basics-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Table basics",
+    "options": [
+      "Option A for Table basics 10",
+      "Option C for Table basics 10",
+      "Option B for Table basics 10"
+    ],
+    "correctAnswer": "Option A for Table basics 10",
+    "explanation": "Explanation for Table basics 10"
+  },
+  {
+    "id": "k3-info-en-table-basics-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Table basics",
+    "options": [
+      "Option C for Table basics 11",
+      "Option B for Table basics 11",
+      "Option A for Table basics 11"
+    ],
+    "correctAnswer": "Option A for Table basics 11",
+    "explanation": "Explanation for Table basics 11"
+  },
+  {
+    "id": "k3-info-en-table-basics-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Table basics",
+    "options": [
+      "Option A for Table basics 12",
+      "Option B for Table basics 12",
+      "Option C for Table basics 12"
+    ],
+    "correctAnswer": "Option A for Table basics 12",
+    "explanation": "Explanation for Table basics 12"
+  },
+  {
+    "id": "k3-info-en-table-basics-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Table basics",
+    "options": [
+      "Option B for Table basics 13",
+      "Option C for Table basics 13",
+      "Option A for Table basics 13"
+    ],
+    "correctAnswer": "Option A for Table basics 13",
+    "explanation": "Explanation for Table basics 13"
+  },
+  {
+    "id": "k3-info-en-table-basics-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Table basics",
+    "options": [
+      "Option C for Table basics 14",
+      "Option A for Table basics 14",
+      "Option B for Table basics 14"
+    ],
+    "correctAnswer": "Option A for Table basics 14",
+    "explanation": "Explanation for Table basics 14"
+  },
+  {
+    "id": "k3-info-en-table-basics-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Table basics",
+    "options": [
+      "Option A for Table basics 15",
+      "Option B for Table basics 15",
+      "Option C for Table basics 15"
+    ],
+    "correctAnswer": "Option A for Table basics 15",
+    "explanation": "Explanation for Table basics 15"
+  },
+  {
+    "id": "k3-info-en-table-basics-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Table basics",
+    "options": [
+      "Option C for Table basics 16",
+      "Option B for Table basics 16",
+      "Option A for Table basics 16"
+    ],
+    "correctAnswer": "Option A for Table basics 16",
+    "explanation": "Explanation for Table basics 16"
+  },
+  {
+    "id": "k3-info-en-table-basics-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Table basics",
+    "options": [
+      "Option A for Table basics 17",
+      "Option C for Table basics 17",
+      "Option B for Table basics 17"
+    ],
+    "correctAnswer": "Option A for Table basics 17",
+    "explanation": "Explanation for Table basics 17"
+  },
+  {
+    "id": "k3-info-en-table-basics-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Table basics",
+    "options": [
+      "Option C for Table basics 18",
+      "Option B for Table basics 18",
+      "Option A for Table basics 18"
+    ],
+    "correctAnswer": "Option A for Table basics 18",
+    "explanation": "Explanation for Table basics 18"
+  },
+  {
+    "id": "k3-info-en-table-basics-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Table basics",
+    "options": [
+      "Option C for Table basics 19",
+      "Option A for Table basics 19",
+      "Option B for Table basics 19"
+    ],
+    "correctAnswer": "Option A for Table basics 19",
+    "explanation": "Explanation for Table basics 19"
+  },
+  {
+    "id": "k3-info-en-table-basics-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Table basics",
+    "options": [
+      "Option C for Table basics 20",
+      "Option B for Table basics 20",
+      "Option A for Table basics 20"
+    ],
+    "correctAnswer": "Option A for Table basics 20",
+    "explanation": "Explanation for Table basics 20"
+  },
+  {
+    "id": "k3-info-en-table-basics-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Table basics",
+    "options": [
+      "Option A for Table basics 21",
+      "Option B for Table basics 21",
+      "Option C for Table basics 21"
+    ],
+    "correctAnswer": "Option A for Table basics 21",
+    "explanation": "Explanation for Table basics 21"
+  },
+  {
+    "id": "k3-info-en-table-basics-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Table basics",
+    "options": [
+      "Option C for Table basics 22",
+      "Option B for Table basics 22",
+      "Option A for Table basics 22"
+    ],
+    "correctAnswer": "Option A for Table basics 22",
+    "explanation": "Explanation for Table basics 22"
+  },
+  {
+    "id": "k3-info-en-table-basics-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Table basics",
+    "options": [
+      "Option A for Table basics 23",
+      "Option B for Table basics 23",
+      "Option C for Table basics 23"
+    ],
+    "correctAnswer": "Option A for Table basics 23",
+    "explanation": "Explanation for Table basics 23"
+  },
+  {
+    "id": "k3-info-en-table-basics-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Table basics",
+    "options": [
+      "Option B for Table basics 24",
+      "Option A for Table basics 24",
+      "Option C for Table basics 24"
+    ],
+    "correctAnswer": "Option A for Table basics 24",
+    "explanation": "Explanation for Table basics 24"
+  },
+  {
+    "id": "k3-info-en-table-basics-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Table basics",
+    "options": [
+      "Option C for Table basics 25",
+      "Option A for Table basics 25",
+      "Option B for Table basics 25"
+    ],
+    "correctAnswer": "Option A for Table basics 25",
+    "explanation": "Explanation for Table basics 25"
+  },
+  {
+    "id": "k3-info-en-table-basics-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Table basics",
+    "options": [
+      "Option B for Table basics 26",
+      "Option C for Table basics 26",
+      "Option A for Table basics 26"
+    ],
+    "correctAnswer": "Option A for Table basics 26",
+    "explanation": "Explanation for Table basics 26"
+  },
+  {
+    "id": "k3-info-en-table-basics-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Table basics",
+    "options": [
+      "Option C for Table basics 27",
+      "Option A for Table basics 27",
+      "Option B for Table basics 27"
+    ],
+    "correctAnswer": "Option A for Table basics 27",
+    "explanation": "Explanation for Table basics 27"
+  },
+  {
+    "id": "k3-info-en-table-basics-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Table basics",
+    "options": [
+      "Option B for Table basics 28",
+      "Option A for Table basics 28",
+      "Option C for Table basics 28"
+    ],
+    "correctAnswer": "Option A for Table basics 28",
+    "explanation": "Explanation for Table basics 28"
+  },
+  {
+    "id": "k3-info-en-table-basics-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Table basics",
+    "options": [
+      "Option B for Table basics 29",
+      "Option A for Table basics 29",
+      "Option C for Table basics 29"
+    ],
+    "correctAnswer": "Option A for Table basics 29",
+    "explanation": "Explanation for Table basics 29"
+  },
+  {
+    "id": "k3-info-en-table-basics-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Table basics",
+    "options": [
+      "Option B for Table basics 30",
+      "Option A for Table basics 30",
+      "Option C for Table basics 30"
+    ],
+    "correctAnswer": "Option A for Table basics 30",
+    "explanation": "Explanation for Table basics 30"
+  },
+  {
+    "id": "k3-info-en-table-basics-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Table basics",
+    "options": [
+      "Option A for Table basics 31",
+      "Option C for Table basics 31",
+      "Option B for Table basics 31"
+    ],
+    "correctAnswer": "Option A for Table basics 31",
+    "explanation": "Explanation for Table basics 31"
+  },
+  {
+    "id": "k3-info-en-table-basics-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Table basics",
+    "options": [
+      "Option C for Table basics 32",
+      "Option B for Table basics 32",
+      "Option A for Table basics 32"
+    ],
+    "correctAnswer": "Option A for Table basics 32",
+    "explanation": "Explanation for Table basics 32"
+  },
+  {
+    "id": "k3-info-en-table-basics-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Table basics",
+    "options": [
+      "Option A for Table basics 33",
+      "Option C for Table basics 33",
+      "Option B for Table basics 33"
+    ],
+    "correctAnswer": "Option A for Table basics 33",
+    "explanation": "Explanation for Table basics 33"
+  },
+  {
+    "id": "k3-info-en-table-basics-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Table basics",
+    "options": [
+      "Option C for Table basics 34",
+      "Option B for Table basics 34",
+      "Option A for Table basics 34"
+    ],
+    "correctAnswer": "Option A for Table basics 34",
+    "explanation": "Explanation for Table basics 34"
+  },
+  {
+    "id": "k3-info-en-table-basics-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Table basics",
+    "options": [
+      "Option B for Table basics 35",
+      "Option C for Table basics 35",
+      "Option A for Table basics 35"
+    ],
+    "correctAnswer": "Option A for Table basics 35",
+    "explanation": "Explanation for Table basics 35"
+  }
+]

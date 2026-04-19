@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-conceptul-pdf-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 1",
+      "Opțiunea A pentru Conceptul PDF 1",
+      "Opțiunea B pentru Conceptul PDF 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 1",
+    "explanation": "Explicație pentru Conceptul PDF 1"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 2",
+      "Opțiunea C pentru Conceptul PDF 2",
+      "Opțiunea B pentru Conceptul PDF 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 2",
+    "explanation": "Explicație pentru Conceptul PDF 2"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 3",
+      "Opțiunea C pentru Conceptul PDF 3",
+      "Opțiunea A pentru Conceptul PDF 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 3",
+    "explanation": "Explicație pentru Conceptul PDF 3"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 4",
+      "Opțiunea A pentru Conceptul PDF 4",
+      "Opțiunea B pentru Conceptul PDF 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 4",
+    "explanation": "Explicație pentru Conceptul PDF 4"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 5",
+      "Opțiunea B pentru Conceptul PDF 5",
+      "Opțiunea C pentru Conceptul PDF 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 5",
+    "explanation": "Explicație pentru Conceptul PDF 5"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 6",
+      "Opțiunea C pentru Conceptul PDF 6",
+      "Opțiunea A pentru Conceptul PDF 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 6",
+    "explanation": "Explicație pentru Conceptul PDF 6"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 7",
+      "Opțiunea C pentru Conceptul PDF 7",
+      "Opțiunea B pentru Conceptul PDF 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 7",
+    "explanation": "Explicație pentru Conceptul PDF 7"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 8",
+      "Opțiunea A pentru Conceptul PDF 8",
+      "Opțiunea B pentru Conceptul PDF 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 8",
+    "explanation": "Explicație pentru Conceptul PDF 8"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 9",
+      "Opțiunea B pentru Conceptul PDF 9",
+      "Opțiunea C pentru Conceptul PDF 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 9",
+    "explanation": "Explicație pentru Conceptul PDF 9"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 10",
+      "Opțiunea C pentru Conceptul PDF 10",
+      "Opțiunea A pentru Conceptul PDF 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 10",
+    "explanation": "Explicație pentru Conceptul PDF 10"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 11",
+      "Opțiunea A pentru Conceptul PDF 11",
+      "Opțiunea B pentru Conceptul PDF 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 11",
+    "explanation": "Explicație pentru Conceptul PDF 11"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 12",
+      "Opțiunea B pentru Conceptul PDF 12",
+      "Opțiunea C pentru Conceptul PDF 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 12",
+    "explanation": "Explicație pentru Conceptul PDF 12"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 13",
+      "Opțiunea B pentru Conceptul PDF 13",
+      "Opțiunea A pentru Conceptul PDF 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 13",
+    "explanation": "Explicație pentru Conceptul PDF 13"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 14",
+      "Opțiunea C pentru Conceptul PDF 14",
+      "Opțiunea B pentru Conceptul PDF 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 14",
+    "explanation": "Explicație pentru Conceptul PDF 14"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 15",
+      "Opțiunea B pentru Conceptul PDF 15",
+      "Opțiunea C pentru Conceptul PDF 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 15",
+    "explanation": "Explicație pentru Conceptul PDF 15"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 16",
+      "Opțiunea C pentru Conceptul PDF 16",
+      "Opțiunea B pentru Conceptul PDF 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 16",
+    "explanation": "Explicație pentru Conceptul PDF 16"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 17",
+      "Opțiunea C pentru Conceptul PDF 17",
+      "Opțiunea B pentru Conceptul PDF 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 17",
+    "explanation": "Explicație pentru Conceptul PDF 17"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 18",
+      "Opțiunea B pentru Conceptul PDF 18",
+      "Opțiunea A pentru Conceptul PDF 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 18",
+    "explanation": "Explicație pentru Conceptul PDF 18"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 19",
+      "Opțiunea B pentru Conceptul PDF 19",
+      "Opțiunea C pentru Conceptul PDF 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 19",
+    "explanation": "Explicație pentru Conceptul PDF 19"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 20",
+      "Opțiunea A pentru Conceptul PDF 20",
+      "Opțiunea C pentru Conceptul PDF 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 20",
+    "explanation": "Explicație pentru Conceptul PDF 20"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 21",
+      "Opțiunea A pentru Conceptul PDF 21",
+      "Opțiunea B pentru Conceptul PDF 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 21",
+    "explanation": "Explicație pentru Conceptul PDF 21"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 22",
+      "Opțiunea A pentru Conceptul PDF 22",
+      "Opțiunea C pentru Conceptul PDF 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 22",
+    "explanation": "Explicație pentru Conceptul PDF 22"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 23",
+      "Opțiunea A pentru Conceptul PDF 23",
+      "Opțiunea B pentru Conceptul PDF 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 23",
+    "explanation": "Explicație pentru Conceptul PDF 23"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 24",
+      "Opțiunea B pentru Conceptul PDF 24",
+      "Opțiunea C pentru Conceptul PDF 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 24",
+    "explanation": "Explicație pentru Conceptul PDF 24"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 25",
+      "Opțiunea B pentru Conceptul PDF 25",
+      "Opțiunea C pentru Conceptul PDF 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 25",
+    "explanation": "Explicație pentru Conceptul PDF 25"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 26",
+      "Opțiunea C pentru Conceptul PDF 26",
+      "Opțiunea A pentru Conceptul PDF 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 26",
+    "explanation": "Explicație pentru Conceptul PDF 26"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 27",
+      "Opțiunea A pentru Conceptul PDF 27",
+      "Opțiunea C pentru Conceptul PDF 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 27",
+    "explanation": "Explicație pentru Conceptul PDF 27"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Conceptul PDF",
+    "options": [
+      "Opțiunea B pentru Conceptul PDF 28",
+      "Opțiunea C pentru Conceptul PDF 28",
+      "Opțiunea A pentru Conceptul PDF 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 28",
+    "explanation": "Explicație pentru Conceptul PDF 28"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 29",
+      "Opțiunea B pentru Conceptul PDF 29",
+      "Opțiunea A pentru Conceptul PDF 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 29",
+    "explanation": "Explicație pentru Conceptul PDF 29"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 30",
+      "Opțiunea C pentru Conceptul PDF 30",
+      "Opțiunea B pentru Conceptul PDF 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 30",
+    "explanation": "Explicație pentru Conceptul PDF 30"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 31",
+      "Opțiunea B pentru Conceptul PDF 31",
+      "Opțiunea C pentru Conceptul PDF 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 31",
+    "explanation": "Explicație pentru Conceptul PDF 31"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 32",
+      "Opțiunea A pentru Conceptul PDF 32",
+      "Opțiunea B pentru Conceptul PDF 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 32",
+    "explanation": "Explicație pentru Conceptul PDF 32"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Conceptul PDF",
+    "options": [
+      "Opțiunea A pentru Conceptul PDF 33",
+      "Opțiunea C pentru Conceptul PDF 33",
+      "Opțiunea B pentru Conceptul PDF 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 33",
+    "explanation": "Explicație pentru Conceptul PDF 33"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 34",
+      "Opțiunea A pentru Conceptul PDF 34",
+      "Opțiunea B pentru Conceptul PDF 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 34",
+    "explanation": "Explicație pentru Conceptul PDF 34"
+  },
+  {
+    "id": "k3-info-ro-conceptul-pdf-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Conceptul PDF",
+    "options": [
+      "Opțiunea C pentru Conceptul PDF 35",
+      "Opțiunea B pentru Conceptul PDF 35",
+      "Opțiunea A pentru Conceptul PDF 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Conceptul PDF 35",
+    "explanation": "Explicație pentru Conceptul PDF 35"
+  }
+]

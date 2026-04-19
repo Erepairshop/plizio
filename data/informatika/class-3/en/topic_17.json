@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-powerpoint-—-slide-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 1",
+      "Option B for PowerPoint — slide 1",
+      "Option A for PowerPoint — slide 1"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 1",
+    "explanation": "Explanation for PowerPoint — slide 1"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 2",
+      "Option A for PowerPoint — slide 2",
+      "Option C for PowerPoint — slide 2"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 2",
+    "explanation": "Explanation for PowerPoint — slide 2"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 3",
+      "Option B for PowerPoint — slide 3",
+      "Option C for PowerPoint — slide 3"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 3",
+    "explanation": "Explanation for PowerPoint — slide 3"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 4",
+      "Option C for PowerPoint — slide 4",
+      "Option B for PowerPoint — slide 4"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 4",
+    "explanation": "Explanation for PowerPoint — slide 4"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 5",
+      "Option A for PowerPoint — slide 5",
+      "Option B for PowerPoint — slide 5"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 5",
+    "explanation": "Explanation for PowerPoint — slide 5"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 6",
+      "Option C for PowerPoint — slide 6",
+      "Option A for PowerPoint — slide 6"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 6",
+    "explanation": "Explanation for PowerPoint — slide 6"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 7",
+      "Option A for PowerPoint — slide 7",
+      "Option C for PowerPoint — slide 7"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 7",
+    "explanation": "Explanation for PowerPoint — slide 7"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 8",
+      "Option C for PowerPoint — slide 8",
+      "Option A for PowerPoint — slide 8"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 8",
+    "explanation": "Explanation for PowerPoint — slide 8"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 9",
+      "Option B for PowerPoint — slide 9",
+      "Option C for PowerPoint — slide 9"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 9",
+    "explanation": "Explanation for PowerPoint — slide 9"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 10",
+      "Option B for PowerPoint — slide 10",
+      "Option A for PowerPoint — slide 10"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 10",
+    "explanation": "Explanation for PowerPoint — slide 10"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 11",
+      "Option A for PowerPoint — slide 11",
+      "Option C for PowerPoint — slide 11"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 11",
+    "explanation": "Explanation for PowerPoint — slide 11"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 12",
+      "Option C for PowerPoint — slide 12",
+      "Option A for PowerPoint — slide 12"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 12",
+    "explanation": "Explanation for PowerPoint — slide 12"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 13",
+      "Option C for PowerPoint — slide 13",
+      "Option B for PowerPoint — slide 13"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 13",
+    "explanation": "Explanation for PowerPoint — slide 13"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 14",
+      "Option C for PowerPoint — slide 14",
+      "Option B for PowerPoint — slide 14"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 14",
+    "explanation": "Explanation for PowerPoint — slide 14"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 15",
+      "Option B for PowerPoint — slide 15",
+      "Option A for PowerPoint — slide 15"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 15",
+    "explanation": "Explanation for PowerPoint — slide 15"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 16",
+      "Option A for PowerPoint — slide 16",
+      "Option B for PowerPoint — slide 16"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 16",
+    "explanation": "Explanation for PowerPoint — slide 16"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 17",
+      "Option C for PowerPoint — slide 17",
+      "Option A for PowerPoint — slide 17"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 17",
+    "explanation": "Explanation for PowerPoint — slide 17"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 18",
+      "Option C for PowerPoint — slide 18",
+      "Option A for PowerPoint — slide 18"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 18",
+    "explanation": "Explanation for PowerPoint — slide 18"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 19",
+      "Option B for PowerPoint — slide 19",
+      "Option A for PowerPoint — slide 19"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 19",
+    "explanation": "Explanation for PowerPoint — slide 19"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 20",
+      "Option C for PowerPoint — slide 20",
+      "Option A for PowerPoint — slide 20"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 20",
+    "explanation": "Explanation for PowerPoint — slide 20"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 21",
+      "Option A for PowerPoint — slide 21",
+      "Option B for PowerPoint — slide 21"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 21",
+    "explanation": "Explanation for PowerPoint — slide 21"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 22",
+      "Option B for PowerPoint — slide 22",
+      "Option C for PowerPoint — slide 22"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 22",
+    "explanation": "Explanation for PowerPoint — slide 22"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 23",
+      "Option C for PowerPoint — slide 23",
+      "Option A for PowerPoint — slide 23"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 23",
+    "explanation": "Explanation for PowerPoint — slide 23"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 24",
+      "Option A for PowerPoint — slide 24",
+      "Option C for PowerPoint — slide 24"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 24",
+    "explanation": "Explanation for PowerPoint — slide 24"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 25",
+      "Option C for PowerPoint — slide 25",
+      "Option A for PowerPoint — slide 25"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 25",
+    "explanation": "Explanation for PowerPoint — slide 25"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 26",
+      "Option A for PowerPoint — slide 26",
+      "Option B for PowerPoint — slide 26"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 26",
+    "explanation": "Explanation for PowerPoint — slide 26"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 27",
+      "Option C for PowerPoint — slide 27",
+      "Option B for PowerPoint — slide 27"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 27",
+    "explanation": "Explanation for PowerPoint — slide 27"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 28",
+      "Option B for PowerPoint — slide 28",
+      "Option C for PowerPoint — slide 28"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 28",
+    "explanation": "Explanation for PowerPoint — slide 28"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 29",
+      "Option A for PowerPoint — slide 29",
+      "Option B for PowerPoint — slide 29"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 29",
+    "explanation": "Explanation for PowerPoint — slide 29"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 30",
+      "Option C for PowerPoint — slide 30",
+      "Option A for PowerPoint — slide 30"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 30",
+    "explanation": "Explanation for PowerPoint — slide 30"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 31",
+      "Option B for PowerPoint — slide 31",
+      "Option C for PowerPoint — slide 31"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 31",
+    "explanation": "Explanation for PowerPoint — slide 31"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about PowerPoint — slide",
+    "options": [
+      "Option C for PowerPoint — slide 32",
+      "Option A for PowerPoint — slide 32",
+      "Option B for PowerPoint — slide 32"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 32",
+    "explanation": "Explanation for PowerPoint — slide 32"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 33",
+      "Option C for PowerPoint — slide 33",
+      "Option B for PowerPoint — slide 33"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 33",
+    "explanation": "Explanation for PowerPoint — slide 33"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about PowerPoint — slide",
+    "options": [
+      "Option B for PowerPoint — slide 34",
+      "Option C for PowerPoint — slide 34",
+      "Option A for PowerPoint — slide 34"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 34",
+    "explanation": "Explanation for PowerPoint — slide 34"
+  },
+  {
+    "id": "k3-info-en-powerpoint-—-slide-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about PowerPoint — slide",
+    "options": [
+      "Option A for PowerPoint — slide 35",
+      "Option C for PowerPoint — slide 35",
+      "Option B for PowerPoint — slide 35"
+    ],
+    "correctAnswer": "Option A for PowerPoint — slide 35",
+    "explanation": "Explanation for PowerPoint — slide 35"
+  }
+]

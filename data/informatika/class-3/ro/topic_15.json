@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-excel-—-celule-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 1",
+      "Opțiunea A pentru Excel — celule 1",
+      "Opțiunea B pentru Excel — celule 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 1",
+    "explanation": "Explicație pentru Excel — celule 1"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 2",
+      "Opțiunea A pentru Excel — celule 2",
+      "Opțiunea C pentru Excel — celule 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 2",
+    "explanation": "Explicație pentru Excel — celule 2"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 3",
+      "Opțiunea A pentru Excel — celule 3",
+      "Opțiunea C pentru Excel — celule 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 3",
+    "explanation": "Explicație pentru Excel — celule 3"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 4",
+      "Opțiunea A pentru Excel — celule 4",
+      "Opțiunea B pentru Excel — celule 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 4",
+    "explanation": "Explicație pentru Excel — celule 4"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 5",
+      "Opțiunea B pentru Excel — celule 5",
+      "Opțiunea C pentru Excel — celule 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 5",
+    "explanation": "Explicație pentru Excel — celule 5"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 6",
+      "Opțiunea C pentru Excel — celule 6",
+      "Opțiunea B pentru Excel — celule 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 6",
+    "explanation": "Explicație pentru Excel — celule 6"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 7",
+      "Opțiunea C pentru Excel — celule 7",
+      "Opțiunea B pentru Excel — celule 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 7",
+    "explanation": "Explicație pentru Excel — celule 7"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 8",
+      "Opțiunea B pentru Excel — celule 8",
+      "Opțiunea C pentru Excel — celule 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 8",
+    "explanation": "Explicație pentru Excel — celule 8"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 9",
+      "Opțiunea B pentru Excel — celule 9",
+      "Opțiunea C pentru Excel — celule 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 9",
+    "explanation": "Explicație pentru Excel — celule 9"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 10",
+      "Opțiunea A pentru Excel — celule 10",
+      "Opțiunea B pentru Excel — celule 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 10",
+    "explanation": "Explicație pentru Excel — celule 10"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 11",
+      "Opțiunea C pentru Excel — celule 11",
+      "Opțiunea A pentru Excel — celule 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 11",
+    "explanation": "Explicație pentru Excel — celule 11"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 12",
+      "Opțiunea B pentru Excel — celule 12",
+      "Opțiunea A pentru Excel — celule 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 12",
+    "explanation": "Explicație pentru Excel — celule 12"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 13",
+      "Opțiunea A pentru Excel — celule 13",
+      "Opțiunea C pentru Excel — celule 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 13",
+    "explanation": "Explicație pentru Excel — celule 13"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 14",
+      "Opțiunea B pentru Excel — celule 14",
+      "Opțiunea C pentru Excel — celule 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 14",
+    "explanation": "Explicație pentru Excel — celule 14"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 15",
+      "Opțiunea C pentru Excel — celule 15",
+      "Opțiunea A pentru Excel — celule 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 15",
+    "explanation": "Explicație pentru Excel — celule 15"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 16",
+      "Opțiunea A pentru Excel — celule 16",
+      "Opțiunea B pentru Excel — celule 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 16",
+    "explanation": "Explicație pentru Excel — celule 16"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 17",
+      "Opțiunea B pentru Excel — celule 17",
+      "Opțiunea C pentru Excel — celule 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 17",
+    "explanation": "Explicație pentru Excel — celule 17"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 18",
+      "Opțiunea A pentru Excel — celule 18",
+      "Opțiunea C pentru Excel — celule 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 18",
+    "explanation": "Explicație pentru Excel — celule 18"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 19",
+      "Opțiunea A pentru Excel — celule 19",
+      "Opțiunea B pentru Excel — celule 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 19",
+    "explanation": "Explicație pentru Excel — celule 19"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 20",
+      "Opțiunea A pentru Excel — celule 20",
+      "Opțiunea C pentru Excel — celule 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 20",
+    "explanation": "Explicație pentru Excel — celule 20"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 21",
+      "Opțiunea A pentru Excel — celule 21",
+      "Opțiunea B pentru Excel — celule 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 21",
+    "explanation": "Explicație pentru Excel — celule 21"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 22",
+      "Opțiunea C pentru Excel — celule 22",
+      "Opțiunea A pentru Excel — celule 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 22",
+    "explanation": "Explicație pentru Excel — celule 22"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 23",
+      "Opțiunea C pentru Excel — celule 23",
+      "Opțiunea B pentru Excel — celule 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 23",
+    "explanation": "Explicație pentru Excel — celule 23"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 24",
+      "Opțiunea B pentru Excel — celule 24",
+      "Opțiunea A pentru Excel — celule 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 24",
+    "explanation": "Explicație pentru Excel — celule 24"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 25",
+      "Opțiunea C pentru Excel — celule 25",
+      "Opțiunea B pentru Excel — celule 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 25",
+    "explanation": "Explicație pentru Excel — celule 25"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 26",
+      "Opțiunea A pentru Excel — celule 26",
+      "Opțiunea C pentru Excel — celule 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 26",
+    "explanation": "Explicație pentru Excel — celule 26"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 27",
+      "Opțiunea A pentru Excel — celule 27",
+      "Opțiunea C pentru Excel — celule 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 27",
+    "explanation": "Explicație pentru Excel — celule 27"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 28",
+      "Opțiunea C pentru Excel — celule 28",
+      "Opțiunea A pentru Excel — celule 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 28",
+    "explanation": "Explicație pentru Excel — celule 28"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 29",
+      "Opțiunea C pentru Excel — celule 29",
+      "Opțiunea A pentru Excel — celule 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 29",
+    "explanation": "Explicație pentru Excel — celule 29"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Excel — celule",
+    "options": [
+      "Opțiunea C pentru Excel — celule 30",
+      "Opțiunea A pentru Excel — celule 30",
+      "Opțiunea B pentru Excel — celule 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 30",
+    "explanation": "Explicație pentru Excel — celule 30"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 31",
+      "Opțiunea A pentru Excel — celule 31",
+      "Opțiunea C pentru Excel — celule 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 31",
+    "explanation": "Explicație pentru Excel — celule 31"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Excel — celule",
+    "options": [
+      "Opțiunea A pentru Excel — celule 32",
+      "Opțiunea B pentru Excel — celule 32",
+      "Opțiunea C pentru Excel — celule 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 32",
+    "explanation": "Explicație pentru Excel — celule 32"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 33",
+      "Opțiunea A pentru Excel — celule 33",
+      "Opțiunea C pentru Excel — celule 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 33",
+    "explanation": "Explicație pentru Excel — celule 33"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 34",
+      "Opțiunea A pentru Excel — celule 34",
+      "Opțiunea C pentru Excel — celule 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 34",
+    "explanation": "Explicație pentru Excel — celule 34"
+  },
+  {
+    "id": "k3-info-ro-excel-—-celule-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Excel — celule",
+    "options": [
+      "Opțiunea B pentru Excel — celule 35",
+      "Opțiunea C pentru Excel — celule 35",
+      "Opțiunea A pentru Excel — celule 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Excel — celule 35",
+    "explanation": "Explicație pentru Excel — celule 35"
+  }
+]

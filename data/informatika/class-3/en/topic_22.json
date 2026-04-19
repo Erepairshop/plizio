@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-zip--compression-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 1",
+      "Option C for Zip / compression 1",
+      "Option A for Zip / compression 1"
+    ],
+    "correctAnswer": "Option A for Zip / compression 1",
+    "explanation": "Explanation for Zip / compression 1"
+  },
+  {
+    "id": "k3-info-en-zip--compression-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 2",
+      "Option B for Zip / compression 2",
+      "Option A for Zip / compression 2"
+    ],
+    "correctAnswer": "Option A for Zip / compression 2",
+    "explanation": "Explanation for Zip / compression 2"
+  },
+  {
+    "id": "k3-info-en-zip--compression-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 3",
+      "Option B for Zip / compression 3",
+      "Option A for Zip / compression 3"
+    ],
+    "correctAnswer": "Option A for Zip / compression 3",
+    "explanation": "Explanation for Zip / compression 3"
+  },
+  {
+    "id": "k3-info-en-zip--compression-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 4",
+      "Option C for Zip / compression 4",
+      "Option A for Zip / compression 4"
+    ],
+    "correctAnswer": "Option A for Zip / compression 4",
+    "explanation": "Explanation for Zip / compression 4"
+  },
+  {
+    "id": "k3-info-en-zip--compression-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 5",
+      "Option C for Zip / compression 5",
+      "Option A for Zip / compression 5"
+    ],
+    "correctAnswer": "Option A for Zip / compression 5",
+    "explanation": "Explanation for Zip / compression 5"
+  },
+  {
+    "id": "k3-info-en-zip--compression-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 6",
+      "Option B for Zip / compression 6",
+      "Option C for Zip / compression 6"
+    ],
+    "correctAnswer": "Option A for Zip / compression 6",
+    "explanation": "Explanation for Zip / compression 6"
+  },
+  {
+    "id": "k3-info-en-zip--compression-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 7",
+      "Option A for Zip / compression 7",
+      "Option C for Zip / compression 7"
+    ],
+    "correctAnswer": "Option A for Zip / compression 7",
+    "explanation": "Explanation for Zip / compression 7"
+  },
+  {
+    "id": "k3-info-en-zip--compression-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 8",
+      "Option A for Zip / compression 8",
+      "Option C for Zip / compression 8"
+    ],
+    "correctAnswer": "Option A for Zip / compression 8",
+    "explanation": "Explanation for Zip / compression 8"
+  },
+  {
+    "id": "k3-info-en-zip--compression-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 9",
+      "Option C for Zip / compression 9",
+      "Option B for Zip / compression 9"
+    ],
+    "correctAnswer": "Option A for Zip / compression 9",
+    "explanation": "Explanation for Zip / compression 9"
+  },
+  {
+    "id": "k3-info-en-zip--compression-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 10",
+      "Option A for Zip / compression 10",
+      "Option C for Zip / compression 10"
+    ],
+    "correctAnswer": "Option A for Zip / compression 10",
+    "explanation": "Explanation for Zip / compression 10"
+  },
+  {
+    "id": "k3-info-en-zip--compression-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 11",
+      "Option C for Zip / compression 11",
+      "Option B for Zip / compression 11"
+    ],
+    "correctAnswer": "Option A for Zip / compression 11",
+    "explanation": "Explanation for Zip / compression 11"
+  },
+  {
+    "id": "k3-info-en-zip--compression-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 12",
+      "Option A for Zip / compression 12",
+      "Option C for Zip / compression 12"
+    ],
+    "correctAnswer": "Option A for Zip / compression 12",
+    "explanation": "Explanation for Zip / compression 12"
+  },
+  {
+    "id": "k3-info-en-zip--compression-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 13",
+      "Option B for Zip / compression 13",
+      "Option C for Zip / compression 13"
+    ],
+    "correctAnswer": "Option A for Zip / compression 13",
+    "explanation": "Explanation for Zip / compression 13"
+  },
+  {
+    "id": "k3-info-en-zip--compression-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 14",
+      "Option B for Zip / compression 14",
+      "Option C for Zip / compression 14"
+    ],
+    "correctAnswer": "Option A for Zip / compression 14",
+    "explanation": "Explanation for Zip / compression 14"
+  },
+  {
+    "id": "k3-info-en-zip--compression-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 15",
+      "Option B for Zip / compression 15",
+      "Option C for Zip / compression 15"
+    ],
+    "correctAnswer": "Option A for Zip / compression 15",
+    "explanation": "Explanation for Zip / compression 15"
+  },
+  {
+    "id": "k3-info-en-zip--compression-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 16",
+      "Option C for Zip / compression 16",
+      "Option B for Zip / compression 16"
+    ],
+    "correctAnswer": "Option A for Zip / compression 16",
+    "explanation": "Explanation for Zip / compression 16"
+  },
+  {
+    "id": "k3-info-en-zip--compression-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 17",
+      "Option A for Zip / compression 17",
+      "Option C for Zip / compression 17"
+    ],
+    "correctAnswer": "Option A for Zip / compression 17",
+    "explanation": "Explanation for Zip / compression 17"
+  },
+  {
+    "id": "k3-info-en-zip--compression-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 18",
+      "Option A for Zip / compression 18",
+      "Option C for Zip / compression 18"
+    ],
+    "correctAnswer": "Option A for Zip / compression 18",
+    "explanation": "Explanation for Zip / compression 18"
+  },
+  {
+    "id": "k3-info-en-zip--compression-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 19",
+      "Option B for Zip / compression 19",
+      "Option A for Zip / compression 19"
+    ],
+    "correctAnswer": "Option A for Zip / compression 19",
+    "explanation": "Explanation for Zip / compression 19"
+  },
+  {
+    "id": "k3-info-en-zip--compression-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 20",
+      "Option B for Zip / compression 20",
+      "Option A for Zip / compression 20"
+    ],
+    "correctAnswer": "Option A for Zip / compression 20",
+    "explanation": "Explanation for Zip / compression 20"
+  },
+  {
+    "id": "k3-info-en-zip--compression-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 21",
+      "Option A for Zip / compression 21",
+      "Option C for Zip / compression 21"
+    ],
+    "correctAnswer": "Option A for Zip / compression 21",
+    "explanation": "Explanation for Zip / compression 21"
+  },
+  {
+    "id": "k3-info-en-zip--compression-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 22",
+      "Option A for Zip / compression 22",
+      "Option C for Zip / compression 22"
+    ],
+    "correctAnswer": "Option A for Zip / compression 22",
+    "explanation": "Explanation for Zip / compression 22"
+  },
+  {
+    "id": "k3-info-en-zip--compression-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 23",
+      "Option B for Zip / compression 23",
+      "Option A for Zip / compression 23"
+    ],
+    "correctAnswer": "Option A for Zip / compression 23",
+    "explanation": "Explanation for Zip / compression 23"
+  },
+  {
+    "id": "k3-info-en-zip--compression-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 24",
+      "Option B for Zip / compression 24",
+      "Option A for Zip / compression 24"
+    ],
+    "correctAnswer": "Option A for Zip / compression 24",
+    "explanation": "Explanation for Zip / compression 24"
+  },
+  {
+    "id": "k3-info-en-zip--compression-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 25",
+      "Option C for Zip / compression 25",
+      "Option A for Zip / compression 25"
+    ],
+    "correctAnswer": "Option A for Zip / compression 25",
+    "explanation": "Explanation for Zip / compression 25"
+  },
+  {
+    "id": "k3-info-en-zip--compression-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 26",
+      "Option A for Zip / compression 26",
+      "Option C for Zip / compression 26"
+    ],
+    "correctAnswer": "Option A for Zip / compression 26",
+    "explanation": "Explanation for Zip / compression 26"
+  },
+  {
+    "id": "k3-info-en-zip--compression-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 27",
+      "Option A for Zip / compression 27",
+      "Option C for Zip / compression 27"
+    ],
+    "correctAnswer": "Option A for Zip / compression 27",
+    "explanation": "Explanation for Zip / compression 27"
+  },
+  {
+    "id": "k3-info-en-zip--compression-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 28",
+      "Option A for Zip / compression 28",
+      "Option C for Zip / compression 28"
+    ],
+    "correctAnswer": "Option A for Zip / compression 28",
+    "explanation": "Explanation for Zip / compression 28"
+  },
+  {
+    "id": "k3-info-en-zip--compression-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 29",
+      "Option B for Zip / compression 29",
+      "Option C for Zip / compression 29"
+    ],
+    "correctAnswer": "Option A for Zip / compression 29",
+    "explanation": "Explanation for Zip / compression 29"
+  },
+  {
+    "id": "k3-info-en-zip--compression-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 30",
+      "Option A for Zip / compression 30",
+      "Option C for Zip / compression 30"
+    ],
+    "correctAnswer": "Option A for Zip / compression 30",
+    "explanation": "Explanation for Zip / compression 30"
+  },
+  {
+    "id": "k3-info-en-zip--compression-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 31",
+      "Option B for Zip / compression 31",
+      "Option A for Zip / compression 31"
+    ],
+    "correctAnswer": "Option A for Zip / compression 31",
+    "explanation": "Explanation for Zip / compression 31"
+  },
+  {
+    "id": "k3-info-en-zip--compression-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 32",
+      "Option A for Zip / compression 32",
+      "Option B for Zip / compression 32"
+    ],
+    "correctAnswer": "Option A for Zip / compression 32",
+    "explanation": "Explanation for Zip / compression 32"
+  },
+  {
+    "id": "k3-info-en-zip--compression-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Zip / compression",
+    "options": [
+      "Option C for Zip / compression 33",
+      "Option A for Zip / compression 33",
+      "Option B for Zip / compression 33"
+    ],
+    "correctAnswer": "Option A for Zip / compression 33",
+    "explanation": "Explanation for Zip / compression 33"
+  },
+  {
+    "id": "k3-info-en-zip--compression-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Zip / compression",
+    "options": [
+      "Option A for Zip / compression 34",
+      "Option C for Zip / compression 34",
+      "Option B for Zip / compression 34"
+    ],
+    "correctAnswer": "Option A for Zip / compression 34",
+    "explanation": "Explanation for Zip / compression 34"
+  },
+  {
+    "id": "k3-info-en-zip--compression-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Zip / compression",
+    "options": [
+      "Option B for Zip / compression 35",
+      "Option C for Zip / compression 35",
+      "Option A for Zip / compression 35"
+    ],
+    "correctAnswer": "Option A for Zip / compression 35",
+    "explanation": "Explanation for Zip / compression 35"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-listă-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 1",
+      "Opțiunea A pentru Listă 1",
+      "Opțiunea C pentru Listă 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 1",
+    "explanation": "Explicație pentru Listă 1"
+  },
+  {
+    "id": "k3-info-ro-listă-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 2",
+      "Opțiunea A pentru Listă 2",
+      "Opțiunea B pentru Listă 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 2",
+    "explanation": "Explicație pentru Listă 2"
+  },
+  {
+    "id": "k3-info-ro-listă-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 3",
+      "Opțiunea A pentru Listă 3",
+      "Opțiunea C pentru Listă 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 3",
+    "explanation": "Explicație pentru Listă 3"
+  },
+  {
+    "id": "k3-info-ro-listă-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 4",
+      "Opțiunea A pentru Listă 4",
+      "Opțiunea C pentru Listă 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 4",
+    "explanation": "Explicație pentru Listă 4"
+  },
+  {
+    "id": "k3-info-ro-listă-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 5",
+      "Opțiunea C pentru Listă 5",
+      "Opțiunea A pentru Listă 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 5",
+    "explanation": "Explicație pentru Listă 5"
+  },
+  {
+    "id": "k3-info-ro-listă-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 6",
+      "Opțiunea A pentru Listă 6",
+      "Opțiunea C pentru Listă 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 6",
+    "explanation": "Explicație pentru Listă 6"
+  },
+  {
+    "id": "k3-info-ro-listă-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 7",
+      "Opțiunea B pentru Listă 7",
+      "Opțiunea A pentru Listă 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 7",
+    "explanation": "Explicație pentru Listă 7"
+  },
+  {
+    "id": "k3-info-ro-listă-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 8",
+      "Opțiunea A pentru Listă 8",
+      "Opțiunea C pentru Listă 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 8",
+    "explanation": "Explicație pentru Listă 8"
+  },
+  {
+    "id": "k3-info-ro-listă-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 9",
+      "Opțiunea B pentru Listă 9",
+      "Opțiunea C pentru Listă 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 9",
+    "explanation": "Explicație pentru Listă 9"
+  },
+  {
+    "id": "k3-info-ro-listă-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 10",
+      "Opțiunea A pentru Listă 10",
+      "Opțiunea B pentru Listă 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 10",
+    "explanation": "Explicație pentru Listă 10"
+  },
+  {
+    "id": "k3-info-ro-listă-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 11",
+      "Opțiunea A pentru Listă 11",
+      "Opțiunea B pentru Listă 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 11",
+    "explanation": "Explicație pentru Listă 11"
+  },
+  {
+    "id": "k3-info-ro-listă-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 12",
+      "Opțiunea A pentru Listă 12",
+      "Opțiunea C pentru Listă 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 12",
+    "explanation": "Explicație pentru Listă 12"
+  },
+  {
+    "id": "k3-info-ro-listă-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 13",
+      "Opțiunea A pentru Listă 13",
+      "Opțiunea C pentru Listă 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 13",
+    "explanation": "Explicație pentru Listă 13"
+  },
+  {
+    "id": "k3-info-ro-listă-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 14",
+      "Opțiunea A pentru Listă 14",
+      "Opțiunea C pentru Listă 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 14",
+    "explanation": "Explicație pentru Listă 14"
+  },
+  {
+    "id": "k3-info-ro-listă-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 15",
+      "Opțiunea C pentru Listă 15",
+      "Opțiunea B pentru Listă 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 15",
+    "explanation": "Explicație pentru Listă 15"
+  },
+  {
+    "id": "k3-info-ro-listă-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 16",
+      "Opțiunea B pentru Listă 16",
+      "Opțiunea C pentru Listă 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 16",
+    "explanation": "Explicație pentru Listă 16"
+  },
+  {
+    "id": "k3-info-ro-listă-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 17",
+      "Opțiunea A pentru Listă 17",
+      "Opțiunea B pentru Listă 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 17",
+    "explanation": "Explicație pentru Listă 17"
+  },
+  {
+    "id": "k3-info-ro-listă-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 18",
+      "Opțiunea A pentru Listă 18",
+      "Opțiunea C pentru Listă 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 18",
+    "explanation": "Explicație pentru Listă 18"
+  },
+  {
+    "id": "k3-info-ro-listă-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 19",
+      "Opțiunea B pentru Listă 19",
+      "Opțiunea A pentru Listă 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 19",
+    "explanation": "Explicație pentru Listă 19"
+  },
+  {
+    "id": "k3-info-ro-listă-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 20",
+      "Opțiunea C pentru Listă 20",
+      "Opțiunea A pentru Listă 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 20",
+    "explanation": "Explicație pentru Listă 20"
+  },
+  {
+    "id": "k3-info-ro-listă-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 21",
+      "Opțiunea A pentru Listă 21",
+      "Opțiunea C pentru Listă 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 21",
+    "explanation": "Explicație pentru Listă 21"
+  },
+  {
+    "id": "k3-info-ro-listă-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 22",
+      "Opțiunea B pentru Listă 22",
+      "Opțiunea C pentru Listă 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 22",
+    "explanation": "Explicație pentru Listă 22"
+  },
+  {
+    "id": "k3-info-ro-listă-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 23",
+      "Opțiunea A pentru Listă 23",
+      "Opțiunea B pentru Listă 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 23",
+    "explanation": "Explicație pentru Listă 23"
+  },
+  {
+    "id": "k3-info-ro-listă-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 24",
+      "Opțiunea A pentru Listă 24",
+      "Opțiunea C pentru Listă 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 24",
+    "explanation": "Explicație pentru Listă 24"
+  },
+  {
+    "id": "k3-info-ro-listă-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 25",
+      "Opțiunea A pentru Listă 25",
+      "Opțiunea C pentru Listă 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 25",
+    "explanation": "Explicație pentru Listă 25"
+  },
+  {
+    "id": "k3-info-ro-listă-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 26",
+      "Opțiunea B pentru Listă 26",
+      "Opțiunea C pentru Listă 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 26",
+    "explanation": "Explicație pentru Listă 26"
+  },
+  {
+    "id": "k3-info-ro-listă-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 27",
+      "Opțiunea B pentru Listă 27",
+      "Opțiunea C pentru Listă 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 27",
+    "explanation": "Explicație pentru Listă 27"
+  },
+  {
+    "id": "k3-info-ro-listă-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 28",
+      "Opțiunea B pentru Listă 28",
+      "Opțiunea C pentru Listă 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 28",
+    "explanation": "Explicație pentru Listă 28"
+  },
+  {
+    "id": "k3-info-ro-listă-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 29",
+      "Opțiunea B pentru Listă 29",
+      "Opțiunea C pentru Listă 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 29",
+    "explanation": "Explicație pentru Listă 29"
+  },
+  {
+    "id": "k3-info-ro-listă-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 30",
+      "Opțiunea B pentru Listă 30",
+      "Opțiunea A pentru Listă 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 30",
+    "explanation": "Explicație pentru Listă 30"
+  },
+  {
+    "id": "k3-info-ro-listă-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 31",
+      "Opțiunea B pentru Listă 31",
+      "Opțiunea C pentru Listă 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 31",
+    "explanation": "Explicație pentru Listă 31"
+  },
+  {
+    "id": "k3-info-ro-listă-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 32",
+      "Opțiunea A pentru Listă 32",
+      "Opțiunea B pentru Listă 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 32",
+    "explanation": "Explicație pentru Listă 32"
+  },
+  {
+    "id": "k3-info-ro-listă-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Listă",
+    "options": [
+      "Opțiunea B pentru Listă 33",
+      "Opțiunea C pentru Listă 33",
+      "Opțiunea A pentru Listă 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 33",
+    "explanation": "Explicație pentru Listă 33"
+  },
+  {
+    "id": "k3-info-ro-listă-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Listă",
+    "options": [
+      "Opțiunea C pentru Listă 34",
+      "Opțiunea A pentru Listă 34",
+      "Opțiunea B pentru Listă 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 34",
+    "explanation": "Explicație pentru Listă 34"
+  },
+  {
+    "id": "k3-info-ro-listă-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Listă",
+    "options": [
+      "Opțiunea A pentru Listă 35",
+      "Opțiunea C pentru Listă 35",
+      "Opțiunea B pentru Listă 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Listă 35",
+    "explanation": "Explicație pentru Listă 35"
+  }
+]

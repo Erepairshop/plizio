@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-captură-de-ecran-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 1",
+      "Opțiunea B pentru Captură de ecran 1",
+      "Opțiunea C pentru Captură de ecran 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 1",
+    "explanation": "Explicație pentru Captură de ecran 1"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 2",
+      "Opțiunea A pentru Captură de ecran 2",
+      "Opțiunea B pentru Captură de ecran 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 2",
+    "explanation": "Explicație pentru Captură de ecran 2"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 3",
+      "Opțiunea B pentru Captură de ecran 3",
+      "Opțiunea A pentru Captură de ecran 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 3",
+    "explanation": "Explicație pentru Captură de ecran 3"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 4",
+      "Opțiunea A pentru Captură de ecran 4",
+      "Opțiunea B pentru Captură de ecran 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 4",
+    "explanation": "Explicație pentru Captură de ecran 4"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 5",
+      "Opțiunea A pentru Captură de ecran 5",
+      "Opțiunea B pentru Captură de ecran 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 5",
+    "explanation": "Explicație pentru Captură de ecran 5"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 6",
+      "Opțiunea B pentru Captură de ecran 6",
+      "Opțiunea C pentru Captură de ecran 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 6",
+    "explanation": "Explicație pentru Captură de ecran 6"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 7",
+      "Opțiunea C pentru Captură de ecran 7",
+      "Opțiunea B pentru Captură de ecran 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 7",
+    "explanation": "Explicație pentru Captură de ecran 7"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 8",
+      "Opțiunea C pentru Captură de ecran 8",
+      "Opțiunea B pentru Captură de ecran 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 8",
+    "explanation": "Explicație pentru Captură de ecran 8"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 9",
+      "Opțiunea A pentru Captură de ecran 9",
+      "Opțiunea B pentru Captură de ecran 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 9",
+    "explanation": "Explicație pentru Captură de ecran 9"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 10",
+      "Opțiunea C pentru Captură de ecran 10",
+      "Opțiunea A pentru Captură de ecran 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 10",
+    "explanation": "Explicație pentru Captură de ecran 10"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 11",
+      "Opțiunea B pentru Captură de ecran 11",
+      "Opțiunea A pentru Captură de ecran 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 11",
+    "explanation": "Explicație pentru Captură de ecran 11"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 12",
+      "Opțiunea C pentru Captură de ecran 12",
+      "Opțiunea A pentru Captură de ecran 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 12",
+    "explanation": "Explicație pentru Captură de ecran 12"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 13",
+      "Opțiunea C pentru Captură de ecran 13",
+      "Opțiunea A pentru Captură de ecran 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 13",
+    "explanation": "Explicație pentru Captură de ecran 13"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 14",
+      "Opțiunea C pentru Captură de ecran 14",
+      "Opțiunea A pentru Captură de ecran 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 14",
+    "explanation": "Explicație pentru Captură de ecran 14"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 15",
+      "Opțiunea A pentru Captură de ecran 15",
+      "Opțiunea B pentru Captură de ecran 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 15",
+    "explanation": "Explicație pentru Captură de ecran 15"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 16",
+      "Opțiunea A pentru Captură de ecran 16",
+      "Opțiunea C pentru Captură de ecran 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 16",
+    "explanation": "Explicație pentru Captură de ecran 16"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 17",
+      "Opțiunea B pentru Captură de ecran 17",
+      "Opțiunea C pentru Captură de ecran 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 17",
+    "explanation": "Explicație pentru Captură de ecran 17"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 18",
+      "Opțiunea A pentru Captură de ecran 18",
+      "Opțiunea C pentru Captură de ecran 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 18",
+    "explanation": "Explicație pentru Captură de ecran 18"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 19",
+      "Opțiunea A pentru Captură de ecran 19",
+      "Opțiunea C pentru Captură de ecran 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 19",
+    "explanation": "Explicație pentru Captură de ecran 19"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 20",
+      "Opțiunea B pentru Captură de ecran 20",
+      "Opțiunea C pentru Captură de ecran 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 20",
+    "explanation": "Explicație pentru Captură de ecran 20"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 21",
+      "Opțiunea C pentru Captură de ecran 21",
+      "Opțiunea B pentru Captură de ecran 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 21",
+    "explanation": "Explicație pentru Captură de ecran 21"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 22",
+      "Opțiunea C pentru Captură de ecran 22",
+      "Opțiunea A pentru Captură de ecran 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 22",
+    "explanation": "Explicație pentru Captură de ecran 22"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 23",
+      "Opțiunea C pentru Captură de ecran 23",
+      "Opțiunea A pentru Captură de ecran 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 23",
+    "explanation": "Explicație pentru Captură de ecran 23"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 24",
+      "Opțiunea B pentru Captură de ecran 24",
+      "Opțiunea C pentru Captură de ecran 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 24",
+    "explanation": "Explicație pentru Captură de ecran 24"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 25",
+      "Opțiunea B pentru Captură de ecran 25",
+      "Opțiunea A pentru Captură de ecran 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 25",
+    "explanation": "Explicație pentru Captură de ecran 25"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 26",
+      "Opțiunea B pentru Captură de ecran 26",
+      "Opțiunea A pentru Captură de ecran 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 26",
+    "explanation": "Explicație pentru Captură de ecran 26"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 27",
+      "Opțiunea B pentru Captură de ecran 27",
+      "Opțiunea A pentru Captură de ecran 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 27",
+    "explanation": "Explicație pentru Captură de ecran 27"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 28",
+      "Opțiunea A pentru Captură de ecran 28",
+      "Opțiunea B pentru Captură de ecran 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 28",
+    "explanation": "Explicație pentru Captură de ecran 28"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 29",
+      "Opțiunea A pentru Captură de ecran 29",
+      "Opțiunea B pentru Captură de ecran 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 29",
+    "explanation": "Explicație pentru Captură de ecran 29"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 30",
+      "Opțiunea B pentru Captură de ecran 30",
+      "Opțiunea C pentru Captură de ecran 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 30",
+    "explanation": "Explicație pentru Captură de ecran 30"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 31",
+      "Opțiunea B pentru Captură de ecran 31",
+      "Opțiunea C pentru Captură de ecran 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 31",
+    "explanation": "Explicație pentru Captură de ecran 31"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 32",
+      "Opțiunea C pentru Captură de ecran 32",
+      "Opțiunea A pentru Captură de ecran 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 32",
+    "explanation": "Explicație pentru Captură de ecran 32"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Captură de ecran",
+    "options": [
+      "Opțiunea A pentru Captură de ecran 33",
+      "Opțiunea C pentru Captură de ecran 33",
+      "Opțiunea B pentru Captură de ecran 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 33",
+    "explanation": "Explicație pentru Captură de ecran 33"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Captură de ecran",
+    "options": [
+      "Opțiunea B pentru Captură de ecran 34",
+      "Opțiunea C pentru Captură de ecran 34",
+      "Opțiunea A pentru Captură de ecran 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 34",
+    "explanation": "Explicație pentru Captură de ecran 34"
+  },
+  {
+    "id": "k3-info-ro-captură-de-ecran-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Captură de ecran",
+    "options": [
+      "Opțiunea C pentru Captură de ecran 35",
+      "Opțiunea B pentru Captură de ecran 35",
+      "Opțiunea A pentru Captură de ecran 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Captură de ecran 35",
+    "explanation": "Explicație pentru Captură de ecran 35"
+  }
+]

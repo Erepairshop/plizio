@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-prima-căutare-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 1",
+      "Opțiunea C pentru Prima căutare 1",
+      "Opțiunea B pentru Prima căutare 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 1",
+    "explanation": "Explicație pentru Prima căutare 1"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 2",
+      "Opțiunea B pentru Prima căutare 2",
+      "Opțiunea A pentru Prima căutare 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 2",
+    "explanation": "Explicație pentru Prima căutare 2"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 3",
+      "Opțiunea A pentru Prima căutare 3",
+      "Opțiunea C pentru Prima căutare 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 3",
+    "explanation": "Explicație pentru Prima căutare 3"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 4",
+      "Opțiunea C pentru Prima căutare 4",
+      "Opțiunea A pentru Prima căutare 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 4",
+    "explanation": "Explicație pentru Prima căutare 4"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 5",
+      "Opțiunea C pentru Prima căutare 5",
+      "Opțiunea B pentru Prima căutare 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 5",
+    "explanation": "Explicație pentru Prima căutare 5"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 6",
+      "Opțiunea C pentru Prima căutare 6",
+      "Opțiunea A pentru Prima căutare 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 6",
+    "explanation": "Explicație pentru Prima căutare 6"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 7",
+      "Opțiunea B pentru Prima căutare 7",
+      "Opțiunea A pentru Prima căutare 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 7",
+    "explanation": "Explicație pentru Prima căutare 7"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 8",
+      "Opțiunea A pentru Prima căutare 8",
+      "Opțiunea B pentru Prima căutare 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 8",
+    "explanation": "Explicație pentru Prima căutare 8"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 9",
+      "Opțiunea A pentru Prima căutare 9",
+      "Opțiunea B pentru Prima căutare 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 9",
+    "explanation": "Explicație pentru Prima căutare 9"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 10",
+      "Opțiunea C pentru Prima căutare 10",
+      "Opțiunea B pentru Prima căutare 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 10",
+    "explanation": "Explicație pentru Prima căutare 10"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 11",
+      "Opțiunea C pentru Prima căutare 11",
+      "Opțiunea A pentru Prima căutare 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 11",
+    "explanation": "Explicație pentru Prima căutare 11"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 12",
+      "Opțiunea C pentru Prima căutare 12",
+      "Opțiunea A pentru Prima căutare 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 12",
+    "explanation": "Explicație pentru Prima căutare 12"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 13",
+      "Opțiunea A pentru Prima căutare 13",
+      "Opțiunea C pentru Prima căutare 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 13",
+    "explanation": "Explicație pentru Prima căutare 13"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 14",
+      "Opțiunea B pentru Prima căutare 14",
+      "Opțiunea A pentru Prima căutare 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 14",
+    "explanation": "Explicație pentru Prima căutare 14"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 15",
+      "Opțiunea C pentru Prima căutare 15",
+      "Opțiunea B pentru Prima căutare 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 15",
+    "explanation": "Explicație pentru Prima căutare 15"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 16",
+      "Opțiunea C pentru Prima căutare 16",
+      "Opțiunea B pentru Prima căutare 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 16",
+    "explanation": "Explicație pentru Prima căutare 16"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 17",
+      "Opțiunea B pentru Prima căutare 17",
+      "Opțiunea A pentru Prima căutare 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 17",
+    "explanation": "Explicație pentru Prima căutare 17"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 18",
+      "Opțiunea A pentru Prima căutare 18",
+      "Opțiunea C pentru Prima căutare 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 18",
+    "explanation": "Explicație pentru Prima căutare 18"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 19",
+      "Opțiunea B pentru Prima căutare 19",
+      "Opțiunea C pentru Prima căutare 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 19",
+    "explanation": "Explicație pentru Prima căutare 19"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 20",
+      "Opțiunea A pentru Prima căutare 20",
+      "Opțiunea B pentru Prima căutare 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 20",
+    "explanation": "Explicație pentru Prima căutare 20"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 21",
+      "Opțiunea C pentru Prima căutare 21",
+      "Opțiunea B pentru Prima căutare 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 21",
+    "explanation": "Explicație pentru Prima căutare 21"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 22",
+      "Opțiunea B pentru Prima căutare 22",
+      "Opțiunea C pentru Prima căutare 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 22",
+    "explanation": "Explicație pentru Prima căutare 22"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 23",
+      "Opțiunea B pentru Prima căutare 23",
+      "Opțiunea A pentru Prima căutare 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 23",
+    "explanation": "Explicație pentru Prima căutare 23"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 24",
+      "Opțiunea B pentru Prima căutare 24",
+      "Opțiunea C pentru Prima căutare 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 24",
+    "explanation": "Explicație pentru Prima căutare 24"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 25",
+      "Opțiunea B pentru Prima căutare 25",
+      "Opțiunea C pentru Prima căutare 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 25",
+    "explanation": "Explicație pentru Prima căutare 25"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 26",
+      "Opțiunea A pentru Prima căutare 26",
+      "Opțiunea B pentru Prima căutare 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 26",
+    "explanation": "Explicație pentru Prima căutare 26"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 27",
+      "Opțiunea A pentru Prima căutare 27",
+      "Opțiunea B pentru Prima căutare 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 27",
+    "explanation": "Explicație pentru Prima căutare 27"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 28",
+      "Opțiunea A pentru Prima căutare 28",
+      "Opțiunea C pentru Prima căutare 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 28",
+    "explanation": "Explicație pentru Prima căutare 28"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 29",
+      "Opțiunea C pentru Prima căutare 29",
+      "Opțiunea A pentru Prima căutare 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 29",
+    "explanation": "Explicație pentru Prima căutare 29"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 30",
+      "Opțiunea B pentru Prima căutare 30",
+      "Opțiunea C pentru Prima căutare 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 30",
+    "explanation": "Explicație pentru Prima căutare 30"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 31",
+      "Opțiunea C pentru Prima căutare 31",
+      "Opțiunea B pentru Prima căutare 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 31",
+    "explanation": "Explicație pentru Prima căutare 31"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 32",
+      "Opțiunea C pentru Prima căutare 32",
+      "Opțiunea A pentru Prima căutare 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 32",
+    "explanation": "Explicație pentru Prima căutare 32"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Prima căutare",
+    "options": [
+      "Opțiunea A pentru Prima căutare 33",
+      "Opțiunea C pentru Prima căutare 33",
+      "Opțiunea B pentru Prima căutare 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 33",
+    "explanation": "Explicație pentru Prima căutare 33"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Prima căutare",
+    "options": [
+      "Opțiunea C pentru Prima căutare 34",
+      "Opțiunea A pentru Prima căutare 34",
+      "Opțiunea B pentru Prima căutare 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 34",
+    "explanation": "Explicație pentru Prima căutare 34"
+  },
+  {
+    "id": "k3-info-ro-prima-căutare-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Prima căutare",
+    "options": [
+      "Opțiunea B pentru Prima căutare 35",
+      "Opțiunea C pentru Prima căutare 35",
+      "Opțiunea A pentru Prima căutare 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Prima căutare 35",
+    "explanation": "Explicație pentru Prima căutare 35"
+  }
+]

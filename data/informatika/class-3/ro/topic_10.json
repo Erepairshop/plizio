@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-word-—-scriere-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 1",
+      "Opțiunea B pentru Word — scriere 1",
+      "Opțiunea C pentru Word — scriere 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 1",
+    "explanation": "Explicație pentru Word — scriere 1"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 2",
+      "Opțiunea B pentru Word — scriere 2",
+      "Opțiunea A pentru Word — scriere 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 2",
+    "explanation": "Explicație pentru Word — scriere 2"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 3",
+      "Opțiunea B pentru Word — scriere 3",
+      "Opțiunea A pentru Word — scriere 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 3",
+    "explanation": "Explicație pentru Word — scriere 3"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 4",
+      "Opțiunea B pentru Word — scriere 4",
+      "Opțiunea A pentru Word — scriere 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 4",
+    "explanation": "Explicație pentru Word — scriere 4"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 5",
+      "Opțiunea C pentru Word — scriere 5",
+      "Opțiunea B pentru Word — scriere 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 5",
+    "explanation": "Explicație pentru Word — scriere 5"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 6",
+      "Opțiunea B pentru Word — scriere 6",
+      "Opțiunea A pentru Word — scriere 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 6",
+    "explanation": "Explicație pentru Word — scriere 6"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 7",
+      "Opțiunea C pentru Word — scriere 7",
+      "Opțiunea A pentru Word — scriere 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 7",
+    "explanation": "Explicație pentru Word — scriere 7"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 8",
+      "Opțiunea B pentru Word — scriere 8",
+      "Opțiunea A pentru Word — scriere 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 8",
+    "explanation": "Explicație pentru Word — scriere 8"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 9",
+      "Opțiunea B pentru Word — scriere 9",
+      "Opțiunea A pentru Word — scriere 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 9",
+    "explanation": "Explicație pentru Word — scriere 9"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 10",
+      "Opțiunea A pentru Word — scriere 10",
+      "Opțiunea C pentru Word — scriere 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 10",
+    "explanation": "Explicație pentru Word — scriere 10"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 11",
+      "Opțiunea A pentru Word — scriere 11",
+      "Opțiunea C pentru Word — scriere 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 11",
+    "explanation": "Explicație pentru Word — scriere 11"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 12",
+      "Opțiunea A pentru Word — scriere 12",
+      "Opțiunea C pentru Word — scriere 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 12",
+    "explanation": "Explicație pentru Word — scriere 12"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 13",
+      "Opțiunea A pentru Word — scriere 13",
+      "Opțiunea C pentru Word — scriere 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 13",
+    "explanation": "Explicație pentru Word — scriere 13"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 14",
+      "Opțiunea A pentru Word — scriere 14",
+      "Opțiunea C pentru Word — scriere 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 14",
+    "explanation": "Explicație pentru Word — scriere 14"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 15",
+      "Opțiunea C pentru Word — scriere 15",
+      "Opțiunea A pentru Word — scriere 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 15",
+    "explanation": "Explicație pentru Word — scriere 15"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 16",
+      "Opțiunea C pentru Word — scriere 16",
+      "Opțiunea A pentru Word — scriere 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 16",
+    "explanation": "Explicație pentru Word — scriere 16"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 17",
+      "Opțiunea B pentru Word — scriere 17",
+      "Opțiunea C pentru Word — scriere 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 17",
+    "explanation": "Explicație pentru Word — scriere 17"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 18",
+      "Opțiunea A pentru Word — scriere 18",
+      "Opțiunea B pentru Word — scriere 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 18",
+    "explanation": "Explicație pentru Word — scriere 18"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 19",
+      "Opțiunea C pentru Word — scriere 19",
+      "Opțiunea B pentru Word — scriere 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 19",
+    "explanation": "Explicație pentru Word — scriere 19"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 20",
+      "Opțiunea B pentru Word — scriere 20",
+      "Opțiunea A pentru Word — scriere 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 20",
+    "explanation": "Explicație pentru Word — scriere 20"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 21",
+      "Opțiunea C pentru Word — scriere 21",
+      "Opțiunea A pentru Word — scriere 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 21",
+    "explanation": "Explicație pentru Word — scriere 21"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 22",
+      "Opțiunea A pentru Word — scriere 22",
+      "Opțiunea C pentru Word — scriere 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 22",
+    "explanation": "Explicație pentru Word — scriere 22"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 23",
+      "Opțiunea B pentru Word — scriere 23",
+      "Opțiunea A pentru Word — scriere 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 23",
+    "explanation": "Explicație pentru Word — scriere 23"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 24",
+      "Opțiunea C pentru Word — scriere 24",
+      "Opțiunea A pentru Word — scriere 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 24",
+    "explanation": "Explicație pentru Word — scriere 24"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 25",
+      "Opțiunea A pentru Word — scriere 25",
+      "Opțiunea C pentru Word — scriere 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 25",
+    "explanation": "Explicație pentru Word — scriere 25"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 26",
+      "Opțiunea A pentru Word — scriere 26",
+      "Opțiunea C pentru Word — scriere 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 26",
+    "explanation": "Explicație pentru Word — scriere 26"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 27",
+      "Opțiunea A pentru Word — scriere 27",
+      "Opțiunea C pentru Word — scriere 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 27",
+    "explanation": "Explicație pentru Word — scriere 27"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 28",
+      "Opțiunea C pentru Word — scriere 28",
+      "Opțiunea A pentru Word — scriere 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 28",
+    "explanation": "Explicație pentru Word — scriere 28"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 29",
+      "Opțiunea A pentru Word — scriere 29",
+      "Opțiunea C pentru Word — scriere 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 29",
+    "explanation": "Explicație pentru Word — scriere 29"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 30",
+      "Opțiunea B pentru Word — scriere 30",
+      "Opțiunea C pentru Word — scriere 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 30",
+    "explanation": "Explicație pentru Word — scriere 30"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 31",
+      "Opțiunea A pentru Word — scriere 31",
+      "Opțiunea C pentru Word — scriere 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 31",
+    "explanation": "Explicație pentru Word — scriere 31"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 32",
+      "Opțiunea C pentru Word — scriere 32",
+      "Opțiunea B pentru Word — scriere 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 32",
+    "explanation": "Explicație pentru Word — scriere 32"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Word — scriere",
+    "options": [
+      "Opțiunea C pentru Word — scriere 33",
+      "Opțiunea B pentru Word — scriere 33",
+      "Opțiunea A pentru Word — scriere 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 33",
+    "explanation": "Explicație pentru Word — scriere 33"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Word — scriere",
+    "options": [
+      "Opțiunea B pentru Word — scriere 34",
+      "Opțiunea A pentru Word — scriere 34",
+      "Opțiunea C pentru Word — scriere 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 34",
+    "explanation": "Explicație pentru Word — scriere 34"
+  },
+  {
+    "id": "k3-info-ro-word-—-scriere-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Word — scriere",
+    "options": [
+      "Opțiunea A pentru Word — scriere 35",
+      "Opțiunea C pentru Word — scriere 35",
+      "Opțiunea B pentru Word — scriere 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Word — scriere 35",
+    "explanation": "Explicație pentru Word — scriere 35"
+  }
+]

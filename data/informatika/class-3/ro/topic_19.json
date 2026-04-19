@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 1",
+      "Opțiunea A pentru Previzualizare imprimare 1",
+      "Opțiunea B pentru Previzualizare imprimare 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 1",
+    "explanation": "Explicație pentru Previzualizare imprimare 1"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 2",
+      "Opțiunea C pentru Previzualizare imprimare 2",
+      "Opțiunea B pentru Previzualizare imprimare 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 2",
+    "explanation": "Explicație pentru Previzualizare imprimare 2"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 3",
+      "Opțiunea A pentru Previzualizare imprimare 3",
+      "Opțiunea C pentru Previzualizare imprimare 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 3",
+    "explanation": "Explicație pentru Previzualizare imprimare 3"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 4",
+      "Opțiunea C pentru Previzualizare imprimare 4",
+      "Opțiunea B pentru Previzualizare imprimare 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 4",
+    "explanation": "Explicație pentru Previzualizare imprimare 4"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 5",
+      "Opțiunea C pentru Previzualizare imprimare 5",
+      "Opțiunea B pentru Previzualizare imprimare 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 5",
+    "explanation": "Explicație pentru Previzualizare imprimare 5"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 6",
+      "Opțiunea A pentru Previzualizare imprimare 6",
+      "Opțiunea C pentru Previzualizare imprimare 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 6",
+    "explanation": "Explicație pentru Previzualizare imprimare 6"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 7",
+      "Opțiunea B pentru Previzualizare imprimare 7",
+      "Opțiunea C pentru Previzualizare imprimare 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 7",
+    "explanation": "Explicație pentru Previzualizare imprimare 7"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 8",
+      "Opțiunea A pentru Previzualizare imprimare 8",
+      "Opțiunea C pentru Previzualizare imprimare 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 8",
+    "explanation": "Explicație pentru Previzualizare imprimare 8"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 9",
+      "Opțiunea B pentru Previzualizare imprimare 9",
+      "Opțiunea C pentru Previzualizare imprimare 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 9",
+    "explanation": "Explicație pentru Previzualizare imprimare 9"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 10",
+      "Opțiunea A pentru Previzualizare imprimare 10",
+      "Opțiunea B pentru Previzualizare imprimare 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 10",
+    "explanation": "Explicație pentru Previzualizare imprimare 10"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 11",
+      "Opțiunea A pentru Previzualizare imprimare 11",
+      "Opțiunea B pentru Previzualizare imprimare 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 11",
+    "explanation": "Explicație pentru Previzualizare imprimare 11"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 12",
+      "Opțiunea B pentru Previzualizare imprimare 12",
+      "Opțiunea A pentru Previzualizare imprimare 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 12",
+    "explanation": "Explicație pentru Previzualizare imprimare 12"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 13",
+      "Opțiunea B pentru Previzualizare imprimare 13",
+      "Opțiunea A pentru Previzualizare imprimare 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 13",
+    "explanation": "Explicație pentru Previzualizare imprimare 13"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 14",
+      "Opțiunea C pentru Previzualizare imprimare 14",
+      "Opțiunea B pentru Previzualizare imprimare 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 14",
+    "explanation": "Explicație pentru Previzualizare imprimare 14"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 15",
+      "Opțiunea A pentru Previzualizare imprimare 15",
+      "Opțiunea B pentru Previzualizare imprimare 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 15",
+    "explanation": "Explicație pentru Previzualizare imprimare 15"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 16",
+      "Opțiunea B pentru Previzualizare imprimare 16",
+      "Opțiunea C pentru Previzualizare imprimare 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 16",
+    "explanation": "Explicație pentru Previzualizare imprimare 16"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 17",
+      "Opțiunea A pentru Previzualizare imprimare 17",
+      "Opțiunea B pentru Previzualizare imprimare 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 17",
+    "explanation": "Explicație pentru Previzualizare imprimare 17"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 18",
+      "Opțiunea A pentru Previzualizare imprimare 18",
+      "Opțiunea B pentru Previzualizare imprimare 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 18",
+    "explanation": "Explicație pentru Previzualizare imprimare 18"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 19",
+      "Opțiunea C pentru Previzualizare imprimare 19",
+      "Opțiunea B pentru Previzualizare imprimare 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 19",
+    "explanation": "Explicație pentru Previzualizare imprimare 19"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 20",
+      "Opțiunea C pentru Previzualizare imprimare 20",
+      "Opțiunea B pentru Previzualizare imprimare 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 20",
+    "explanation": "Explicație pentru Previzualizare imprimare 20"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 21",
+      "Opțiunea B pentru Previzualizare imprimare 21",
+      "Opțiunea C pentru Previzualizare imprimare 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 21",
+    "explanation": "Explicație pentru Previzualizare imprimare 21"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 22",
+      "Opțiunea A pentru Previzualizare imprimare 22",
+      "Opțiunea B pentru Previzualizare imprimare 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 22",
+    "explanation": "Explicație pentru Previzualizare imprimare 22"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 23",
+      "Opțiunea C pentru Previzualizare imprimare 23",
+      "Opțiunea B pentru Previzualizare imprimare 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 23",
+    "explanation": "Explicație pentru Previzualizare imprimare 23"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 24",
+      "Opțiunea C pentru Previzualizare imprimare 24",
+      "Opțiunea B pentru Previzualizare imprimare 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 24",
+    "explanation": "Explicație pentru Previzualizare imprimare 24"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 25",
+      "Opțiunea C pentru Previzualizare imprimare 25",
+      "Opțiunea A pentru Previzualizare imprimare 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 25",
+    "explanation": "Explicație pentru Previzualizare imprimare 25"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 26",
+      "Opțiunea C pentru Previzualizare imprimare 26",
+      "Opțiunea B pentru Previzualizare imprimare 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 26",
+    "explanation": "Explicație pentru Previzualizare imprimare 26"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 27",
+      "Opțiunea C pentru Previzualizare imprimare 27",
+      "Opțiunea B pentru Previzualizare imprimare 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 27",
+    "explanation": "Explicație pentru Previzualizare imprimare 27"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 28",
+      "Opțiunea B pentru Previzualizare imprimare 28",
+      "Opțiunea C pentru Previzualizare imprimare 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 28",
+    "explanation": "Explicație pentru Previzualizare imprimare 28"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 29",
+      "Opțiunea C pentru Previzualizare imprimare 29",
+      "Opțiunea A pentru Previzualizare imprimare 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 29",
+    "explanation": "Explicație pentru Previzualizare imprimare 29"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 30",
+      "Opțiunea C pentru Previzualizare imprimare 30",
+      "Opțiunea A pentru Previzualizare imprimare 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 30",
+    "explanation": "Explicație pentru Previzualizare imprimare 30"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 31",
+      "Opțiunea A pentru Previzualizare imprimare 31",
+      "Opțiunea B pentru Previzualizare imprimare 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 31",
+    "explanation": "Explicație pentru Previzualizare imprimare 31"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea C pentru Previzualizare imprimare 32",
+      "Opțiunea A pentru Previzualizare imprimare 32",
+      "Opțiunea B pentru Previzualizare imprimare 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 32",
+    "explanation": "Explicație pentru Previzualizare imprimare 32"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 33",
+      "Opțiunea B pentru Previzualizare imprimare 33",
+      "Opțiunea C pentru Previzualizare imprimare 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 33",
+    "explanation": "Explicație pentru Previzualizare imprimare 33"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea A pentru Previzualizare imprimare 34",
+      "Opțiunea C pentru Previzualizare imprimare 34",
+      "Opțiunea B pentru Previzualizare imprimare 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 34",
+    "explanation": "Explicație pentru Previzualizare imprimare 34"
+  },
+  {
+    "id": "k3-info-ro-previzualizare-imprimare-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre Previzualizare imprimare",
+    "options": [
+      "Opțiunea B pentru Previzualizare imprimare 35",
+      "Opțiunea A pentru Previzualizare imprimare 35",
+      "Opțiunea C pentru Previzualizare imprimare 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru Previzualizare imprimare 35",
+    "explanation": "Explicație pentru Previzualizare imprimare 35"
+  }
+]

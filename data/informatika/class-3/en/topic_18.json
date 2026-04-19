@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-insert-image-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about Insert image",
+    "options": [
+      "Option C for Insert image 1",
+      "Option B for Insert image 1",
+      "Option A for Insert image 1"
+    ],
+    "correctAnswer": "Option A for Insert image 1",
+    "explanation": "Explanation for Insert image 1"
+  },
+  {
+    "id": "k3-info-en-insert-image-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about Insert image",
+    "options": [
+      "Option C for Insert image 2",
+      "Option A for Insert image 2",
+      "Option B for Insert image 2"
+    ],
+    "correctAnswer": "Option A for Insert image 2",
+    "explanation": "Explanation for Insert image 2"
+  },
+  {
+    "id": "k3-info-en-insert-image-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about Insert image",
+    "options": [
+      "Option A for Insert image 3",
+      "Option B for Insert image 3",
+      "Option C for Insert image 3"
+    ],
+    "correctAnswer": "Option A for Insert image 3",
+    "explanation": "Explanation for Insert image 3"
+  },
+  {
+    "id": "k3-info-en-insert-image-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about Insert image",
+    "options": [
+      "Option A for Insert image 4",
+      "Option B for Insert image 4",
+      "Option C for Insert image 4"
+    ],
+    "correctAnswer": "Option A for Insert image 4",
+    "explanation": "Explanation for Insert image 4"
+  },
+  {
+    "id": "k3-info-en-insert-image-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about Insert image",
+    "options": [
+      "Option C for Insert image 5",
+      "Option B for Insert image 5",
+      "Option A for Insert image 5"
+    ],
+    "correctAnswer": "Option A for Insert image 5",
+    "explanation": "Explanation for Insert image 5"
+  },
+  {
+    "id": "k3-info-en-insert-image-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about Insert image",
+    "options": [
+      "Option C for Insert image 6",
+      "Option A for Insert image 6",
+      "Option B for Insert image 6"
+    ],
+    "correctAnswer": "Option A for Insert image 6",
+    "explanation": "Explanation for Insert image 6"
+  },
+  {
+    "id": "k3-info-en-insert-image-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about Insert image",
+    "options": [
+      "Option C for Insert image 7",
+      "Option B for Insert image 7",
+      "Option A for Insert image 7"
+    ],
+    "correctAnswer": "Option A for Insert image 7",
+    "explanation": "Explanation for Insert image 7"
+  },
+  {
+    "id": "k3-info-en-insert-image-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about Insert image",
+    "options": [
+      "Option A for Insert image 8",
+      "Option B for Insert image 8",
+      "Option C for Insert image 8"
+    ],
+    "correctAnswer": "Option A for Insert image 8",
+    "explanation": "Explanation for Insert image 8"
+  },
+  {
+    "id": "k3-info-en-insert-image-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about Insert image",
+    "options": [
+      "Option A for Insert image 9",
+      "Option B for Insert image 9",
+      "Option C for Insert image 9"
+    ],
+    "correctAnswer": "Option A for Insert image 9",
+    "explanation": "Explanation for Insert image 9"
+  },
+  {
+    "id": "k3-info-en-insert-image-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about Insert image",
+    "options": [
+      "Option A for Insert image 10",
+      "Option B for Insert image 10",
+      "Option C for Insert image 10"
+    ],
+    "correctAnswer": "Option A for Insert image 10",
+    "explanation": "Explanation for Insert image 10"
+  },
+  {
+    "id": "k3-info-en-insert-image-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about Insert image",
+    "options": [
+      "Option B for Insert image 11",
+      "Option C for Insert image 11",
+      "Option A for Insert image 11"
+    ],
+    "correctAnswer": "Option A for Insert image 11",
+    "explanation": "Explanation for Insert image 11"
+  },
+  {
+    "id": "k3-info-en-insert-image-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about Insert image",
+    "options": [
+      "Option A for Insert image 12",
+      "Option C for Insert image 12",
+      "Option B for Insert image 12"
+    ],
+    "correctAnswer": "Option A for Insert image 12",
+    "explanation": "Explanation for Insert image 12"
+  },
+  {
+    "id": "k3-info-en-insert-image-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about Insert image",
+    "options": [
+      "Option A for Insert image 13",
+      "Option C for Insert image 13",
+      "Option B for Insert image 13"
+    ],
+    "correctAnswer": "Option A for Insert image 13",
+    "explanation": "Explanation for Insert image 13"
+  },
+  {
+    "id": "k3-info-en-insert-image-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about Insert image",
+    "options": [
+      "Option A for Insert image 14",
+      "Option C for Insert image 14",
+      "Option B for Insert image 14"
+    ],
+    "correctAnswer": "Option A for Insert image 14",
+    "explanation": "Explanation for Insert image 14"
+  },
+  {
+    "id": "k3-info-en-insert-image-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about Insert image",
+    "options": [
+      "Option A for Insert image 15",
+      "Option B for Insert image 15",
+      "Option C for Insert image 15"
+    ],
+    "correctAnswer": "Option A for Insert image 15",
+    "explanation": "Explanation for Insert image 15"
+  },
+  {
+    "id": "k3-info-en-insert-image-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about Insert image",
+    "options": [
+      "Option C for Insert image 16",
+      "Option B for Insert image 16",
+      "Option A for Insert image 16"
+    ],
+    "correctAnswer": "Option A for Insert image 16",
+    "explanation": "Explanation for Insert image 16"
+  },
+  {
+    "id": "k3-info-en-insert-image-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about Insert image",
+    "options": [
+      "Option A for Insert image 17",
+      "Option B for Insert image 17",
+      "Option C for Insert image 17"
+    ],
+    "correctAnswer": "Option A for Insert image 17",
+    "explanation": "Explanation for Insert image 17"
+  },
+  {
+    "id": "k3-info-en-insert-image-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about Insert image",
+    "options": [
+      "Option A for Insert image 18",
+      "Option B for Insert image 18",
+      "Option C for Insert image 18"
+    ],
+    "correctAnswer": "Option A for Insert image 18",
+    "explanation": "Explanation for Insert image 18"
+  },
+  {
+    "id": "k3-info-en-insert-image-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about Insert image",
+    "options": [
+      "Option A for Insert image 19",
+      "Option C for Insert image 19",
+      "Option B for Insert image 19"
+    ],
+    "correctAnswer": "Option A for Insert image 19",
+    "explanation": "Explanation for Insert image 19"
+  },
+  {
+    "id": "k3-info-en-insert-image-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about Insert image",
+    "options": [
+      "Option C for Insert image 20",
+      "Option B for Insert image 20",
+      "Option A for Insert image 20"
+    ],
+    "correctAnswer": "Option A for Insert image 20",
+    "explanation": "Explanation for Insert image 20"
+  },
+  {
+    "id": "k3-info-en-insert-image-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about Insert image",
+    "options": [
+      "Option A for Insert image 21",
+      "Option C for Insert image 21",
+      "Option B for Insert image 21"
+    ],
+    "correctAnswer": "Option A for Insert image 21",
+    "explanation": "Explanation for Insert image 21"
+  },
+  {
+    "id": "k3-info-en-insert-image-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about Insert image",
+    "options": [
+      "Option B for Insert image 22",
+      "Option A for Insert image 22",
+      "Option C for Insert image 22"
+    ],
+    "correctAnswer": "Option A for Insert image 22",
+    "explanation": "Explanation for Insert image 22"
+  },
+  {
+    "id": "k3-info-en-insert-image-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about Insert image",
+    "options": [
+      "Option A for Insert image 23",
+      "Option C for Insert image 23",
+      "Option B for Insert image 23"
+    ],
+    "correctAnswer": "Option A for Insert image 23",
+    "explanation": "Explanation for Insert image 23"
+  },
+  {
+    "id": "k3-info-en-insert-image-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about Insert image",
+    "options": [
+      "Option B for Insert image 24",
+      "Option A for Insert image 24",
+      "Option C for Insert image 24"
+    ],
+    "correctAnswer": "Option A for Insert image 24",
+    "explanation": "Explanation for Insert image 24"
+  },
+  {
+    "id": "k3-info-en-insert-image-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about Insert image",
+    "options": [
+      "Option A for Insert image 25",
+      "Option B for Insert image 25",
+      "Option C for Insert image 25"
+    ],
+    "correctAnswer": "Option A for Insert image 25",
+    "explanation": "Explanation for Insert image 25"
+  },
+  {
+    "id": "k3-info-en-insert-image-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about Insert image",
+    "options": [
+      "Option B for Insert image 26",
+      "Option C for Insert image 26",
+      "Option A for Insert image 26"
+    ],
+    "correctAnswer": "Option A for Insert image 26",
+    "explanation": "Explanation for Insert image 26"
+  },
+  {
+    "id": "k3-info-en-insert-image-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about Insert image",
+    "options": [
+      "Option C for Insert image 27",
+      "Option B for Insert image 27",
+      "Option A for Insert image 27"
+    ],
+    "correctAnswer": "Option A for Insert image 27",
+    "explanation": "Explanation for Insert image 27"
+  },
+  {
+    "id": "k3-info-en-insert-image-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about Insert image",
+    "options": [
+      "Option A for Insert image 28",
+      "Option B for Insert image 28",
+      "Option C for Insert image 28"
+    ],
+    "correctAnswer": "Option A for Insert image 28",
+    "explanation": "Explanation for Insert image 28"
+  },
+  {
+    "id": "k3-info-en-insert-image-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about Insert image",
+    "options": [
+      "Option B for Insert image 29",
+      "Option C for Insert image 29",
+      "Option A for Insert image 29"
+    ],
+    "correctAnswer": "Option A for Insert image 29",
+    "explanation": "Explanation for Insert image 29"
+  },
+  {
+    "id": "k3-info-en-insert-image-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about Insert image",
+    "options": [
+      "Option C for Insert image 30",
+      "Option A for Insert image 30",
+      "Option B for Insert image 30"
+    ],
+    "correctAnswer": "Option A for Insert image 30",
+    "explanation": "Explanation for Insert image 30"
+  },
+  {
+    "id": "k3-info-en-insert-image-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about Insert image",
+    "options": [
+      "Option C for Insert image 31",
+      "Option B for Insert image 31",
+      "Option A for Insert image 31"
+    ],
+    "correctAnswer": "Option A for Insert image 31",
+    "explanation": "Explanation for Insert image 31"
+  },
+  {
+    "id": "k3-info-en-insert-image-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about Insert image",
+    "options": [
+      "Option C for Insert image 32",
+      "Option A for Insert image 32",
+      "Option B for Insert image 32"
+    ],
+    "correctAnswer": "Option A for Insert image 32",
+    "explanation": "Explanation for Insert image 32"
+  },
+  {
+    "id": "k3-info-en-insert-image-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about Insert image",
+    "options": [
+      "Option A for Insert image 33",
+      "Option B for Insert image 33",
+      "Option C for Insert image 33"
+    ],
+    "correctAnswer": "Option A for Insert image 33",
+    "explanation": "Explanation for Insert image 33"
+  },
+  {
+    "id": "k3-info-en-insert-image-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about Insert image",
+    "options": [
+      "Option B for Insert image 34",
+      "Option C for Insert image 34",
+      "Option A for Insert image 34"
+    ],
+    "correctAnswer": "Option A for Insert image 34",
+    "explanation": "Explanation for Insert image 34"
+  },
+  {
+    "id": "k3-info-en-insert-image-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about Insert image",
+    "options": [
+      "Option B for Insert image 35",
+      "Option C for Insert image 35",
+      "Option A for Insert image 35"
+    ],
+    "correctAnswer": "Option A for Insert image 35",
+    "explanation": "Explanation for Insert image 35"
+  }
+]

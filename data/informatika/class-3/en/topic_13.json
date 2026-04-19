@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-en-list-1",
+    "type": "multiple_choice",
+    "question": "Question 1 about List",
+    "options": [
+      "Option B for List 1",
+      "Option C for List 1",
+      "Option A for List 1"
+    ],
+    "correctAnswer": "Option A for List 1",
+    "explanation": "Explanation for List 1"
+  },
+  {
+    "id": "k3-info-en-list-2",
+    "type": "multiple_choice",
+    "question": "Question 2 about List",
+    "options": [
+      "Option B for List 2",
+      "Option C for List 2",
+      "Option A for List 2"
+    ],
+    "correctAnswer": "Option A for List 2",
+    "explanation": "Explanation for List 2"
+  },
+  {
+    "id": "k3-info-en-list-3",
+    "type": "multiple_choice",
+    "question": "Question 3 about List",
+    "options": [
+      "Option B for List 3",
+      "Option C for List 3",
+      "Option A for List 3"
+    ],
+    "correctAnswer": "Option A for List 3",
+    "explanation": "Explanation for List 3"
+  },
+  {
+    "id": "k3-info-en-list-4",
+    "type": "multiple_choice",
+    "question": "Question 4 about List",
+    "options": [
+      "Option C for List 4",
+      "Option A for List 4",
+      "Option B for List 4"
+    ],
+    "correctAnswer": "Option A for List 4",
+    "explanation": "Explanation for List 4"
+  },
+  {
+    "id": "k3-info-en-list-5",
+    "type": "multiple_choice",
+    "question": "Question 5 about List",
+    "options": [
+      "Option C for List 5",
+      "Option B for List 5",
+      "Option A for List 5"
+    ],
+    "correctAnswer": "Option A for List 5",
+    "explanation": "Explanation for List 5"
+  },
+  {
+    "id": "k3-info-en-list-6",
+    "type": "multiple_choice",
+    "question": "Question 6 about List",
+    "options": [
+      "Option C for List 6",
+      "Option A for List 6",
+      "Option B for List 6"
+    ],
+    "correctAnswer": "Option A for List 6",
+    "explanation": "Explanation for List 6"
+  },
+  {
+    "id": "k3-info-en-list-7",
+    "type": "multiple_choice",
+    "question": "Question 7 about List",
+    "options": [
+      "Option C for List 7",
+      "Option A for List 7",
+      "Option B for List 7"
+    ],
+    "correctAnswer": "Option A for List 7",
+    "explanation": "Explanation for List 7"
+  },
+  {
+    "id": "k3-info-en-list-8",
+    "type": "multiple_choice",
+    "question": "Question 8 about List",
+    "options": [
+      "Option C for List 8",
+      "Option B for List 8",
+      "Option A for List 8"
+    ],
+    "correctAnswer": "Option A for List 8",
+    "explanation": "Explanation for List 8"
+  },
+  {
+    "id": "k3-info-en-list-9",
+    "type": "multiple_choice",
+    "question": "Question 9 about List",
+    "options": [
+      "Option B for List 9",
+      "Option C for List 9",
+      "Option A for List 9"
+    ],
+    "correctAnswer": "Option A for List 9",
+    "explanation": "Explanation for List 9"
+  },
+  {
+    "id": "k3-info-en-list-10",
+    "type": "multiple_choice",
+    "question": "Question 10 about List",
+    "options": [
+      "Option C for List 10",
+      "Option A for List 10",
+      "Option B for List 10"
+    ],
+    "correctAnswer": "Option A for List 10",
+    "explanation": "Explanation for List 10"
+  },
+  {
+    "id": "k3-info-en-list-11",
+    "type": "multiple_choice",
+    "question": "Question 11 about List",
+    "options": [
+      "Option C for List 11",
+      "Option A for List 11",
+      "Option B for List 11"
+    ],
+    "correctAnswer": "Option A for List 11",
+    "explanation": "Explanation for List 11"
+  },
+  {
+    "id": "k3-info-en-list-12",
+    "type": "multiple_choice",
+    "question": "Question 12 about List",
+    "options": [
+      "Option C for List 12",
+      "Option A for List 12",
+      "Option B for List 12"
+    ],
+    "correctAnswer": "Option A for List 12",
+    "explanation": "Explanation for List 12"
+  },
+  {
+    "id": "k3-info-en-list-13",
+    "type": "multiple_choice",
+    "question": "Question 13 about List",
+    "options": [
+      "Option B for List 13",
+      "Option A for List 13",
+      "Option C for List 13"
+    ],
+    "correctAnswer": "Option A for List 13",
+    "explanation": "Explanation for List 13"
+  },
+  {
+    "id": "k3-info-en-list-14",
+    "type": "multiple_choice",
+    "question": "Question 14 about List",
+    "options": [
+      "Option C for List 14",
+      "Option B for List 14",
+      "Option A for List 14"
+    ],
+    "correctAnswer": "Option A for List 14",
+    "explanation": "Explanation for List 14"
+  },
+  {
+    "id": "k3-info-en-list-15",
+    "type": "multiple_choice",
+    "question": "Question 15 about List",
+    "options": [
+      "Option A for List 15",
+      "Option B for List 15",
+      "Option C for List 15"
+    ],
+    "correctAnswer": "Option A for List 15",
+    "explanation": "Explanation for List 15"
+  },
+  {
+    "id": "k3-info-en-list-16",
+    "type": "multiple_choice",
+    "question": "Question 16 about List",
+    "options": [
+      "Option A for List 16",
+      "Option C for List 16",
+      "Option B for List 16"
+    ],
+    "correctAnswer": "Option A for List 16",
+    "explanation": "Explanation for List 16"
+  },
+  {
+    "id": "k3-info-en-list-17",
+    "type": "multiple_choice",
+    "question": "Question 17 about List",
+    "options": [
+      "Option B for List 17",
+      "Option C for List 17",
+      "Option A for List 17"
+    ],
+    "correctAnswer": "Option A for List 17",
+    "explanation": "Explanation for List 17"
+  },
+  {
+    "id": "k3-info-en-list-18",
+    "type": "multiple_choice",
+    "question": "Question 18 about List",
+    "options": [
+      "Option C for List 18",
+      "Option B for List 18",
+      "Option A for List 18"
+    ],
+    "correctAnswer": "Option A for List 18",
+    "explanation": "Explanation for List 18"
+  },
+  {
+    "id": "k3-info-en-list-19",
+    "type": "multiple_choice",
+    "question": "Question 19 about List",
+    "options": [
+      "Option C for List 19",
+      "Option B for List 19",
+      "Option A for List 19"
+    ],
+    "correctAnswer": "Option A for List 19",
+    "explanation": "Explanation for List 19"
+  },
+  {
+    "id": "k3-info-en-list-20",
+    "type": "multiple_choice",
+    "question": "Question 20 about List",
+    "options": [
+      "Option A for List 20",
+      "Option C for List 20",
+      "Option B for List 20"
+    ],
+    "correctAnswer": "Option A for List 20",
+    "explanation": "Explanation for List 20"
+  },
+  {
+    "id": "k3-info-en-list-21",
+    "type": "multiple_choice",
+    "question": "Question 21 about List",
+    "options": [
+      "Option C for List 21",
+      "Option A for List 21",
+      "Option B for List 21"
+    ],
+    "correctAnswer": "Option A for List 21",
+    "explanation": "Explanation for List 21"
+  },
+  {
+    "id": "k3-info-en-list-22",
+    "type": "multiple_choice",
+    "question": "Question 22 about List",
+    "options": [
+      "Option C for List 22",
+      "Option A for List 22",
+      "Option B for List 22"
+    ],
+    "correctAnswer": "Option A for List 22",
+    "explanation": "Explanation for List 22"
+  },
+  {
+    "id": "k3-info-en-list-23",
+    "type": "multiple_choice",
+    "question": "Question 23 about List",
+    "options": [
+      "Option B for List 23",
+      "Option A for List 23",
+      "Option C for List 23"
+    ],
+    "correctAnswer": "Option A for List 23",
+    "explanation": "Explanation for List 23"
+  },
+  {
+    "id": "k3-info-en-list-24",
+    "type": "multiple_choice",
+    "question": "Question 24 about List",
+    "options": [
+      "Option C for List 24",
+      "Option B for List 24",
+      "Option A for List 24"
+    ],
+    "correctAnswer": "Option A for List 24",
+    "explanation": "Explanation for List 24"
+  },
+  {
+    "id": "k3-info-en-list-25",
+    "type": "multiple_choice",
+    "question": "Question 25 about List",
+    "options": [
+      "Option A for List 25",
+      "Option B for List 25",
+      "Option C for List 25"
+    ],
+    "correctAnswer": "Option A for List 25",
+    "explanation": "Explanation for List 25"
+  },
+  {
+    "id": "k3-info-en-list-26",
+    "type": "multiple_choice",
+    "question": "Question 26 about List",
+    "options": [
+      "Option C for List 26",
+      "Option B for List 26",
+      "Option A for List 26"
+    ],
+    "correctAnswer": "Option A for List 26",
+    "explanation": "Explanation for List 26"
+  },
+  {
+    "id": "k3-info-en-list-27",
+    "type": "multiple_choice",
+    "question": "Question 27 about List",
+    "options": [
+      "Option A for List 27",
+      "Option C for List 27",
+      "Option B for List 27"
+    ],
+    "correctAnswer": "Option A for List 27",
+    "explanation": "Explanation for List 27"
+  },
+  {
+    "id": "k3-info-en-list-28",
+    "type": "multiple_choice",
+    "question": "Question 28 about List",
+    "options": [
+      "Option A for List 28",
+      "Option B for List 28",
+      "Option C for List 28"
+    ],
+    "correctAnswer": "Option A for List 28",
+    "explanation": "Explanation for List 28"
+  },
+  {
+    "id": "k3-info-en-list-29",
+    "type": "multiple_choice",
+    "question": "Question 29 about List",
+    "options": [
+      "Option A for List 29",
+      "Option C for List 29",
+      "Option B for List 29"
+    ],
+    "correctAnswer": "Option A for List 29",
+    "explanation": "Explanation for List 29"
+  },
+  {
+    "id": "k3-info-en-list-30",
+    "type": "multiple_choice",
+    "question": "Question 30 about List",
+    "options": [
+      "Option B for List 30",
+      "Option A for List 30",
+      "Option C for List 30"
+    ],
+    "correctAnswer": "Option A for List 30",
+    "explanation": "Explanation for List 30"
+  },
+  {
+    "id": "k3-info-en-list-31",
+    "type": "multiple_choice",
+    "question": "Question 31 about List",
+    "options": [
+      "Option C for List 31",
+      "Option A for List 31",
+      "Option B for List 31"
+    ],
+    "correctAnswer": "Option A for List 31",
+    "explanation": "Explanation for List 31"
+  },
+  {
+    "id": "k3-info-en-list-32",
+    "type": "multiple_choice",
+    "question": "Question 32 about List",
+    "options": [
+      "Option C for List 32",
+      "Option B for List 32",
+      "Option A for List 32"
+    ],
+    "correctAnswer": "Option A for List 32",
+    "explanation": "Explanation for List 32"
+  },
+  {
+    "id": "k3-info-en-list-33",
+    "type": "multiple_choice",
+    "question": "Question 33 about List",
+    "options": [
+      "Option C for List 33",
+      "Option A for List 33",
+      "Option B for List 33"
+    ],
+    "correctAnswer": "Option A for List 33",
+    "explanation": "Explanation for List 33"
+  },
+  {
+    "id": "k3-info-en-list-34",
+    "type": "multiple_choice",
+    "question": "Question 34 about List",
+    "options": [
+      "Option C for List 34",
+      "Option B for List 34",
+      "Option A for List 34"
+    ],
+    "correctAnswer": "Option A for List 34",
+    "explanation": "Explanation for List 34"
+  },
+  {
+    "id": "k3-info-en-list-35",
+    "type": "multiple_choice",
+    "question": "Question 35 about List",
+    "options": [
+      "Option B for List 35",
+      "Option A for List 35",
+      "Option C for List 35"
+    ],
+    "correctAnswer": "Option A for List 35",
+    "explanation": "Explanation for List 35"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "k3-info-ro-youtube-kids-1",
+    "type": "multiple_choice",
+    "question": "Întrebarea 1 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 1",
+      "Opțiunea A pentru YouTube Kids 1",
+      "Opțiunea B pentru YouTube Kids 1"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 1",
+    "explanation": "Explicație pentru YouTube Kids 1"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-2",
+    "type": "multiple_choice",
+    "question": "Întrebarea 2 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 2",
+      "Opțiunea B pentru YouTube Kids 2",
+      "Opțiunea A pentru YouTube Kids 2"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 2",
+    "explanation": "Explicație pentru YouTube Kids 2"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-3",
+    "type": "multiple_choice",
+    "question": "Întrebarea 3 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 3",
+      "Opțiunea A pentru YouTube Kids 3",
+      "Opțiunea C pentru YouTube Kids 3"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 3",
+    "explanation": "Explicație pentru YouTube Kids 3"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-4",
+    "type": "multiple_choice",
+    "question": "Întrebarea 4 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 4",
+      "Opțiunea C pentru YouTube Kids 4",
+      "Opțiunea B pentru YouTube Kids 4"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 4",
+    "explanation": "Explicație pentru YouTube Kids 4"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-5",
+    "type": "multiple_choice",
+    "question": "Întrebarea 5 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 5",
+      "Opțiunea B pentru YouTube Kids 5",
+      "Opțiunea A pentru YouTube Kids 5"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 5",
+    "explanation": "Explicație pentru YouTube Kids 5"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-6",
+    "type": "multiple_choice",
+    "question": "Întrebarea 6 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 6",
+      "Opțiunea C pentru YouTube Kids 6",
+      "Opțiunea B pentru YouTube Kids 6"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 6",
+    "explanation": "Explicație pentru YouTube Kids 6"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-7",
+    "type": "multiple_choice",
+    "question": "Întrebarea 7 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 7",
+      "Opțiunea B pentru YouTube Kids 7",
+      "Opțiunea C pentru YouTube Kids 7"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 7",
+    "explanation": "Explicație pentru YouTube Kids 7"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-8",
+    "type": "multiple_choice",
+    "question": "Întrebarea 8 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 8",
+      "Opțiunea C pentru YouTube Kids 8",
+      "Opțiunea A pentru YouTube Kids 8"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 8",
+    "explanation": "Explicație pentru YouTube Kids 8"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-9",
+    "type": "multiple_choice",
+    "question": "Întrebarea 9 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 9",
+      "Opțiunea C pentru YouTube Kids 9",
+      "Opțiunea B pentru YouTube Kids 9"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 9",
+    "explanation": "Explicație pentru YouTube Kids 9"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-10",
+    "type": "multiple_choice",
+    "question": "Întrebarea 10 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 10",
+      "Opțiunea C pentru YouTube Kids 10",
+      "Opțiunea A pentru YouTube Kids 10"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 10",
+    "explanation": "Explicație pentru YouTube Kids 10"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-11",
+    "type": "multiple_choice",
+    "question": "Întrebarea 11 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 11",
+      "Opțiunea B pentru YouTube Kids 11",
+      "Opțiunea A pentru YouTube Kids 11"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 11",
+    "explanation": "Explicație pentru YouTube Kids 11"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-12",
+    "type": "multiple_choice",
+    "question": "Întrebarea 12 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 12",
+      "Opțiunea C pentru YouTube Kids 12",
+      "Opțiunea B pentru YouTube Kids 12"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 12",
+    "explanation": "Explicație pentru YouTube Kids 12"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-13",
+    "type": "multiple_choice",
+    "question": "Întrebarea 13 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 13",
+      "Opțiunea A pentru YouTube Kids 13",
+      "Opțiunea C pentru YouTube Kids 13"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 13",
+    "explanation": "Explicație pentru YouTube Kids 13"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-14",
+    "type": "multiple_choice",
+    "question": "Întrebarea 14 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 14",
+      "Opțiunea A pentru YouTube Kids 14",
+      "Opțiunea C pentru YouTube Kids 14"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 14",
+    "explanation": "Explicație pentru YouTube Kids 14"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-15",
+    "type": "multiple_choice",
+    "question": "Întrebarea 15 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 15",
+      "Opțiunea C pentru YouTube Kids 15",
+      "Opțiunea B pentru YouTube Kids 15"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 15",
+    "explanation": "Explicație pentru YouTube Kids 15"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-16",
+    "type": "multiple_choice",
+    "question": "Întrebarea 16 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 16",
+      "Opțiunea C pentru YouTube Kids 16",
+      "Opțiunea A pentru YouTube Kids 16"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 16",
+    "explanation": "Explicație pentru YouTube Kids 16"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-17",
+    "type": "multiple_choice",
+    "question": "Întrebarea 17 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 17",
+      "Opțiunea C pentru YouTube Kids 17",
+      "Opțiunea B pentru YouTube Kids 17"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 17",
+    "explanation": "Explicație pentru YouTube Kids 17"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-18",
+    "type": "multiple_choice",
+    "question": "Întrebarea 18 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 18",
+      "Opțiunea A pentru YouTube Kids 18",
+      "Opțiunea C pentru YouTube Kids 18"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 18",
+    "explanation": "Explicație pentru YouTube Kids 18"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-19",
+    "type": "multiple_choice",
+    "question": "Întrebarea 19 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 19",
+      "Opțiunea A pentru YouTube Kids 19",
+      "Opțiunea C pentru YouTube Kids 19"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 19",
+    "explanation": "Explicație pentru YouTube Kids 19"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-20",
+    "type": "multiple_choice",
+    "question": "Întrebarea 20 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 20",
+      "Opțiunea B pentru YouTube Kids 20",
+      "Opțiunea A pentru YouTube Kids 20"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 20",
+    "explanation": "Explicație pentru YouTube Kids 20"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-21",
+    "type": "multiple_choice",
+    "question": "Întrebarea 21 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 21",
+      "Opțiunea A pentru YouTube Kids 21",
+      "Opțiunea B pentru YouTube Kids 21"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 21",
+    "explanation": "Explicație pentru YouTube Kids 21"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-22",
+    "type": "multiple_choice",
+    "question": "Întrebarea 22 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 22",
+      "Opțiunea C pentru YouTube Kids 22",
+      "Opțiunea B pentru YouTube Kids 22"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 22",
+    "explanation": "Explicație pentru YouTube Kids 22"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-23",
+    "type": "multiple_choice",
+    "question": "Întrebarea 23 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 23",
+      "Opțiunea A pentru YouTube Kids 23",
+      "Opțiunea C pentru YouTube Kids 23"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 23",
+    "explanation": "Explicație pentru YouTube Kids 23"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-24",
+    "type": "multiple_choice",
+    "question": "Întrebarea 24 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 24",
+      "Opțiunea A pentru YouTube Kids 24",
+      "Opțiunea C pentru YouTube Kids 24"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 24",
+    "explanation": "Explicație pentru YouTube Kids 24"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-25",
+    "type": "multiple_choice",
+    "question": "Întrebarea 25 despre YouTube Kids",
+    "options": [
+      "Opțiunea A pentru YouTube Kids 25",
+      "Opțiunea B pentru YouTube Kids 25",
+      "Opțiunea C pentru YouTube Kids 25"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 25",
+    "explanation": "Explicație pentru YouTube Kids 25"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-26",
+    "type": "multiple_choice",
+    "question": "Întrebarea 26 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 26",
+      "Opțiunea B pentru YouTube Kids 26",
+      "Opțiunea A pentru YouTube Kids 26"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 26",
+    "explanation": "Explicație pentru YouTube Kids 26"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-27",
+    "type": "multiple_choice",
+    "question": "Întrebarea 27 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 27",
+      "Opțiunea A pentru YouTube Kids 27",
+      "Opțiunea B pentru YouTube Kids 27"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 27",
+    "explanation": "Explicație pentru YouTube Kids 27"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-28",
+    "type": "multiple_choice",
+    "question": "Întrebarea 28 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 28",
+      "Opțiunea C pentru YouTube Kids 28",
+      "Opțiunea A pentru YouTube Kids 28"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 28",
+    "explanation": "Explicație pentru YouTube Kids 28"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-29",
+    "type": "multiple_choice",
+    "question": "Întrebarea 29 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 29",
+      "Opțiunea B pentru YouTube Kids 29",
+      "Opțiunea A pentru YouTube Kids 29"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 29",
+    "explanation": "Explicație pentru YouTube Kids 29"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-30",
+    "type": "multiple_choice",
+    "question": "Întrebarea 30 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 30",
+      "Opțiunea A pentru YouTube Kids 30",
+      "Opțiunea B pentru YouTube Kids 30"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 30",
+    "explanation": "Explicație pentru YouTube Kids 30"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-31",
+    "type": "multiple_choice",
+    "question": "Întrebarea 31 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 31",
+      "Opțiunea C pentru YouTube Kids 31",
+      "Opțiunea A pentru YouTube Kids 31"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 31",
+    "explanation": "Explicație pentru YouTube Kids 31"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-32",
+    "type": "multiple_choice",
+    "question": "Întrebarea 32 despre YouTube Kids",
+    "options": [
+      "Opțiunea C pentru YouTube Kids 32",
+      "Opțiunea B pentru YouTube Kids 32",
+      "Opțiunea A pentru YouTube Kids 32"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 32",
+    "explanation": "Explicație pentru YouTube Kids 32"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-33",
+    "type": "multiple_choice",
+    "question": "Întrebarea 33 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 33",
+      "Opțiunea A pentru YouTube Kids 33",
+      "Opțiunea C pentru YouTube Kids 33"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 33",
+    "explanation": "Explicație pentru YouTube Kids 33"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-34",
+    "type": "multiple_choice",
+    "question": "Întrebarea 34 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 34",
+      "Opțiunea C pentru YouTube Kids 34",
+      "Opțiunea A pentru YouTube Kids 34"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 34",
+    "explanation": "Explicație pentru YouTube Kids 34"
+  },
+  {
+    "id": "k3-info-ro-youtube-kids-35",
+    "type": "multiple_choice",
+    "question": "Întrebarea 35 despre YouTube Kids",
+    "options": [
+      "Opțiunea B pentru YouTube Kids 35",
+      "Opțiunea A pentru YouTube Kids 35",
+      "Opțiunea C pentru YouTube Kids 35"
+    ],
+    "correctAnswer": "Opțiunea A pentru YouTube Kids 35",
+    "explanation": "Explicație pentru YouTube Kids 35"
+  }
+]
