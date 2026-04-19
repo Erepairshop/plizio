@@ -1,11 +1,11 @@
 # Éjjeli automata ciklus összefoglaló (2026-04-18 → 2026-04-19)
 
-## Számok
+## Számok (04:25-i állapot)
 
-- **25 commit** 22:00 → 04:00 között
-- **111 fájl** módosítva
-- **+75,156 sor hozzáadva**, −3,969 sor törölve
-- **Net: +71,187 sor**
+- **28 commit** 22:00 → 04:25 között
+- **120 fájl** módosítva
+- **+76,330 sor hozzáadva**, −4,229 sor törölve
+- **Net: +72,101 sor**
 
 ## Kategóriák
 
@@ -65,6 +65,14 @@
 
 - **Sticker-album preview** (`5be9f0c91f`)
 - **Sticker-album integráció** (`1b0ab80855`) — 20 matrica, progress-alapú unlock, `/stickers` route
+
+### 8. Subpage-ek (hajnal után)
+
+- **About / Parents / Teachers / FAQ / Contact / Impressum** (`8dd22f2068`) — stub-ból valódi 4-lang tartalom
+
+### 9. Romania POI bővítés (hajnal)
+
+- **+30-40 POI** (`b05beeb7ee`) — kultúra/hagyomány/állatvilág/népi kategóriák
 
 ## Használt erőforrások
 
