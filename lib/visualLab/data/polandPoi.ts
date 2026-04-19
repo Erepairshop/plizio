@@ -959,7 +959,7 @@ export const polandCities: POI[] = [
     },
     facts: {
       de: ["Die Marienkirche ist eine der größten Backsteinkirchen.", "Der Artushof war ein Treffpunkt reicher Kaufleute."],
-      hu: [["A Mária-templom a világ egyik legnagyobb téglaépülete."], "Az Artus-udvar a gazdag kereskedők találkozóhelye volt."],
+      hu: ["A Mária-templom a világ egyik legnagyobb téglaépülete.", "Az Artus-udvar a gazdag kereskedők találkozóhelye volt."],
       ro: ["Biserica Sfânta Maria este una dintre cele mai mari din cărămidă.", "Curtea lui Artus era locul de întâlnire al negustorilor."],
       en: ["St. Mary's is one of the largest brick churches.", "Artus Court was a meeting place for wealthy merchants."],
     },
@@ -1324,8 +1324,8 @@ export const polandCities: POI[] = [
       en: ["Home to Hyperion, one of Europe's tallest coasters.", "Features a very large water park area."],
     },
     image: "/geo-images/poland/energylandia.webp",
-    },
-    ];
+  },
+  {
     id: "pl-bydgoszcz",
     type: "city",
     parent: "PL-KP",
