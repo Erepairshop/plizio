@@ -3,6 +3,30 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { SequenceSortRound, SequenceSortItem } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
+
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Zeitlinie Sortieren",
+    instruction: "Tippe auf zwei Karten, um ihre Positionen zu tauschen.",
+    success: "Richtige Reihenfolge!",
+  },
+  en: {
+    gameName: "Sequence Sort",
+    instruction: "Tap two cards to swap their positions.",
+    success: "Correct sequence!",
+  },
+  hu: {
+    gameName: "Sorrendbe állítás",
+    instruction: "Kattints két kártyára a felcserélésükhöz.",
+    success: "Helyes sorrend!",
+  },
+  ro: {
+    gameName: "Ordonare secvențială",
+    instruction: "Atinge două carduri pentru a le schimba poziția.",
+    success: "Secvență corectă!",
+  },
+};
 
 interface Props {
   round: SequenceSortRound;
@@ -10,10 +34,17 @@ interface Props {
 }
 
 export default function SequenceSortGame({ round, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const [items, setItems] = useState<SequenceSortItem[]>([]);
   const [completed, setCompleted] = useState(false);
   const [score, setScore] = useState(0);
   const [selectedIdx, setSelectedIdx] = useState<number | null>(null);
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   useEffect(() => {
     // Shuffle sequence initially
@@ -58,7 +89,7 @@ export default function SequenceSortGame({ round, onDone }: Props) {
       }}
     >
       <div className="mb-8 text-center">
-        <p className="text-xs uppercase tracking-[0.22em] text-white/45">Zeitlinie Sortieren</p>
+        <p className="text-xs uppercase tracking-[0.22em] text-white/45">{t.gameName}</p>
         <h2 className="text-2xl font-black text-white/90">{round.title}</h2>
         <p className="mt-2 text-sm font-medium text-cyan-200">{round.instruction}</p>
       </div>
@@ -101,7 +132,7 @@ export default function SequenceSortGame({ round, onDone }: Props) {
         
         {!completed && (
           <div className="mt-8 text-center text-sm text-white/40">
-            Tippe auf zwei Karten, um ihre Positionen zu tauschen.
+            {t.instruction}
           </div>
         )}
       </div>
@@ -113,7 +144,7 @@ export default function SequenceSortGame({ round, onDone }: Props) {
             animate={{ opacity: 1, y: 0 }}
             className="mt-6 text-center text-xl font-bold text-emerald-400 drop-shadow-[0_0_10px_rgba(16,185,129,0.5)]"
           >
-            Richtige Reihenfolge!
+            {t.success}
           </motion.div>
         )}
       </AnimatePresence>

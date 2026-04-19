@@ -4,6 +4,29 @@ import { useEffect, useState } from "react";
 import type { MemoryRadarRound } from "@/lib/visualLab/multilingualTypes";
 import { getLanguage } from "@/lib/language";
 
+const LABELS: Record<string, any> = {
+  de: {
+    start: "Mission starten",
+    scanning: "Scannen...",
+    submit: (count: number, limit: number) => `Auswahl bestätigen (${count}/${limit})`,
+  },
+  en: {
+    start: "Start Mission",
+    scanning: "Scanning...",
+    submit: (count: number, limit: number) => `Submit Selection (${count}/${limit})`,
+  },
+  hu: {
+    start: "Küldetés indítása",
+    scanning: "Szkennelés...",
+    submit: (count: number, limit: number) => `Kiválasztás beküldése (${count}/${limit})`,
+  },
+  ro: {
+    start: "Începe misiunea",
+    scanning: "Scanare...",
+    submit: (count: number, limit: number) => `Trimite selecția (${count}/${limit})`,
+  },
+};
+
 interface Props {
   round: MemoryRadarRound;
   onDone?: (score: number, total: number) => void;
@@ -18,6 +41,8 @@ export default function MultilingualMemoryRadarGame({ round, onDone }: Props) {
   useEffect(() => {
     setLang(getLanguage());
   }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   const startFlash = () => {
     setPhase("flash");
@@ -71,7 +96,7 @@ export default function MultilingualMemoryRadarGame({ round, onDone }: Props) {
               onClick={startFlash}
               className="rounded-full bg-white px-12 py-4 text-sm font-black uppercase tracking-widest text-black transition-all hover:scale-105"
             >
-              Start Mission
+              {t.start}
             </button>
           </div>
         )}
@@ -82,7 +107,7 @@ export default function MultilingualMemoryRadarGame({ round, onDone }: Props) {
               className="h-24 w-24 animate-ping rounded-full border-4 border-white/20"
               style={{ borderColor: round.theme.radar }}
             />
-            <p className="mt-8 text-xl font-black uppercase tracking-widest animate-pulse">Scanning...</p>
+            <p className="mt-8 text-xl font-black uppercase tracking-widest animate-pulse">{t.scanning}</p>
           </div>
         )}
 
@@ -110,7 +135,7 @@ export default function MultilingualMemoryRadarGame({ round, onDone }: Props) {
                 disabled={selection.length === 0}
                 className="rounded-full bg-white px-12 py-4 text-sm font-black uppercase tracking-widest text-black transition-all hover:scale-105 disabled:opacity-30"
               >
-                Submit Selection ({selection.length}/{round.selectionLimit})
+                {t.submit(selection.length, round.selectionLimit)}
               </button>
             </div>
           </div>

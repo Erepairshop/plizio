@@ -2,6 +2,38 @@
 
 import { useEffect, useMemo, useState } from "react";
 import type { ConstellationBuilderRound, ConstellationPart } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
+
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Constellation Builder",
+    slot: "Slot",
+    empty: "Leer",
+    parts: "Bauteile",
+    placed: "Fertig gesetzt",
+  },
+  en: {
+    gameName: "Constellation Builder",
+    slot: "Slot",
+    empty: "Empty",
+    parts: "Parts",
+    placed: "Placed",
+  },
+  hu: {
+    gameName: "Constellation Builder",
+    slot: "Hely",
+    empty: "Üres",
+    parts: "Alkatrészek",
+    placed: "Elhelyezve",
+  },
+  ro: {
+    gameName: "Constellation Builder",
+    slot: "Slot",
+    empty: "Gol",
+    parts: "Piese",
+    placed: "Plasate",
+  },
+};
 
 interface Props {
   round: ConstellationBuilderRound;
@@ -9,10 +41,17 @@ interface Props {
 }
 
 export default function ConstellationBuilderGame({ round, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const [selected, setSelected] = useState<ConstellationPart | null>(null);
   const [placed, setPlaced] = useState<Record<string, string>>({});
   const [score, setScore] = useState(0);
   const [completed, setCompleted] = useState(false);
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   useEffect(() => {
     setSelected(null);
@@ -51,7 +90,7 @@ export default function ConstellationBuilderGame({ round, onDone }: Props) {
       }}
     >
       <div className="mb-4">
-        <p className="text-xs uppercase tracking-[0.22em] text-white/45">Constellation Builder</p>
+        <p className="text-xs uppercase tracking-[0.22em] text-white/45">{t.gameName}</p>
         <h2 className="text-xl font-black">{round.title}</h2>
         <p className="mt-1 text-sm text-white/75">{round.instruction}</p>
         <p className="mt-2 text-sm text-cyan-200">{round.hint}</p>
@@ -84,12 +123,12 @@ export default function ConstellationBuilderGame({ round, onDone }: Props) {
                   }}
                 >
                   <div>
-                    <p className="text-[11px] uppercase tracking-[0.18em] text-white/45">Slot {index + 1}</p>
+                    <p className="text-[11px] uppercase tracking-[0.18em] text-white/45">{t.slot} {index + 1}</p>
                     <p className="text-sm font-semibold text-white/80">{slot.label}</p>
                   </div>
                   <div className="text-right">
                     <p className="text-2xl">{placedPart?.emoji ?? "✦"}</p>
-                    <p className="text-sm font-bold">{placedPart?.label ?? "Leer"}</p>
+                    <p className="text-sm font-bold">{placedPart?.label ?? t.empty}</p>
                   </div>
                 </button>
               );
@@ -101,7 +140,7 @@ export default function ConstellationBuilderGame({ round, onDone }: Props) {
           className="rounded-[28px] border p-4"
           style={{ background: "rgba(7,11,22,0.9)", borderColor: "rgba(255,255,255,0.08)" }}
         >
-          <p className="mb-3 text-sm font-semibold text-white/82">Bauteile</p>
+          <p className="mb-3 text-sm font-semibold text-white/82">{t.parts}</p>
           <div className="flex flex-wrap gap-3">
             {remaining.map((part) => (
               <button
@@ -124,7 +163,7 @@ export default function ConstellationBuilderGame({ round, onDone }: Props) {
             ))}
           </div>
           <div className="mt-4 rounded-2xl bg-white/6 px-4 py-3 text-sm text-white/70">
-            Fertig gesetzt: {Object.keys(placed).length} / {round.slots.length}
+            {t.placed}: {Object.keys(placed).length} / {round.slots.length}
           </div>
         </div>
       </div>

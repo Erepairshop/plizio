@@ -2,6 +2,34 @@
 
 import { useEffect, useMemo, useState } from "react";
 import type { SignalRunnerRound } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
+
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Signal Runner",
+    routeCompleted: "Route abgeschlossen",
+    score: "Score",
+    section: "Abschnitt",
+  },
+  en: {
+    gameName: "Signal Runner",
+    routeCompleted: "Route Completed",
+    score: "Score",
+    section: "Section",
+  },
+  hu: {
+    gameName: "Signal Runner",
+    routeCompleted: "Útvonal teljesítve",
+    score: "Pontszám",
+    section: "Szakasz",
+  },
+  ro: {
+    gameName: "Signal Runner",
+    routeCompleted: "Traseu finalizat",
+    score: "Scor",
+    section: "Secțiune",
+  },
+};
 
 interface Props {
   round: SignalRunnerRound;
@@ -9,10 +37,18 @@ interface Props {
 }
 
 export default function SignalRunnerGame({ round, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const [index, setIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [lockedChoice, setLockedChoice] = useState<string | null>(null);
   const [completed, setCompleted] = useState(false);
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
+
   const scene = round.scenes[index];
 
   // Shuffle choices per scene so the correct one isn't always in the same position
@@ -42,9 +78,9 @@ export default function SignalRunnerGame({ round, onDone }: Props) {
   if (!scene) {
     return (
       <div className="rounded-[28px] border border-white/10 bg-[#09111f] p-6 text-white shadow-2xl">
-        <p className="text-sm uppercase tracking-[0.2em] text-white/45">Signal Runner</p>
-        <h2 className="mt-2 text-2xl font-black">Route abgeschlossen</h2>
-        <p className="mt-2 text-white/75">Score: {score} / {round.scenes.length}</p>
+        <p className="text-sm uppercase tracking-[0.2em] text-white/45">{t.gameName}</p>
+        <h2 className="mt-2 text-2xl font-black">{t.routeCompleted}</h2>
+        <p className="mt-2 text-white/75">{t.score}: {score} / {round.scenes.length}</p>
       </div>
     );
   }
@@ -60,12 +96,12 @@ export default function SignalRunnerGame({ round, onDone }: Props) {
     <div className="rounded-[30px] border border-white/10 bg-[#07101d] p-4 text-white shadow-2xl">
       <div className="mb-4 flex items-center justify-between gap-3">
         <div>
-          <p className="text-xs uppercase tracking-[0.24em] text-white/45">Signal Runner</p>
+          <p className="text-xs uppercase tracking-[0.24em] text-white/45">{t.gameName}</p>
           <h2 className="text-xl font-black">{round.title}</h2>
           <p className="mt-1 text-sm text-white/74">{round.instruction}</p>
         </div>
         <div className="rounded-2xl bg-white/6 px-3 py-2 text-right">
-          <p className="text-[11px] uppercase tracking-[0.18em] text-white/40">Abschnitt</p>
+          <p className="text-[11px] uppercase tracking-[0.18em] text-white/40">{t.section}</p>
           <p className="text-lg font-bold">{index + 1}/{round.scenes.length}</p>
         </div>
       </div>

@@ -2,6 +2,66 @@
 
 import { useEffect, useMemo, useState } from "react";
 import type { MemoryRadarRound, VisualLabItem } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
+
+const LABELS: Record<string, any> = {
+  de: {
+    perfect: "🎯 Perfekt!",
+    good: "👍 Gut gemacht!",
+    tryAgain: "❌ Versuch es nochmal!",
+    done: "Fertig 🏁",
+    next: "Weiter →",
+    remember: "Merke dir die leuchtenden Ziele! ⚡",
+    select: (limit: number) => `Wähle genau ${limit} Elemente aus.`,
+    perfectAll: "🎯 Perfekt — alle Runden gemeistert!",
+    veryGood: "👍 Sehr gut!",
+    keepPracticing: "💪 Weiter üben!",
+    tryAgainAll: "❌ Nochmal versuchen!",
+    playAgain: "Nochmal spielen 🔄",
+  },
+  en: {
+    perfect: "🎯 Perfect!",
+    good: "👍 Good job!",
+    tryAgain: "❌ Try again!",
+    done: "Done 🏁",
+    next: "Next →",
+    remember: "Remember the glowing targets! ⚡",
+    select: (limit: number) => `Select exactly ${limit} elements.`,
+    perfectAll: "🎯 Perfect — all rounds mastered!",
+    veryGood: "👍 Very good!",
+    keepPracticing: "💪 Keep practicing!",
+    tryAgainAll: "❌ Try again!",
+    playAgain: "Play again 🔄",
+  },
+  hu: {
+    perfect: "🎯 Tökéletes!",
+    good: "👍 Szép munka!",
+    tryAgain: "❌ Próbáld újra!",
+    done: "Kész 🏁",
+    next: "Tovább →",
+    remember: "Jegyezd meg a fénylő célpontokat! ⚡",
+    select: (limit: number) => `Válassz ki pontosan ${limit} elemet.`,
+    perfectAll: "🎯 Tökéletes — minden kör sikerült!",
+    veryGood: "👍 Nagyon jó!",
+    keepPracticing: "💪 Gyakorolj tovább!",
+    tryAgainAll: "❌ Próbáld újra!",
+    playAgain: "Játék újra 🔄",
+  },
+  ro: {
+    perfect: "🎯 Perfect!",
+    good: "👍 Bravo!",
+    tryAgain: "❌ Mai încearcă!",
+    done: "Gata 🏁",
+    next: "Mai departe →",
+    remember: "Reține țintele luminoase! ⚡",
+    select: (limit: number) => `Alege exact ${limit} elemente.`,
+    perfectAll: "🎯 Perfect — ai terminat toate rundele!",
+    veryGood: "👍 Foarte bine!",
+    keepPracticing: "💪 Continuă să exersezi!",
+    tryAgainAll: "❌ Mai încearcă o dată!",
+    playAgain: "Joacă din nou 🔄",
+  },
+};
 
 interface Props {
   rounds: MemoryRadarRound[];
@@ -22,12 +82,15 @@ function RoundView({
   roundIndex,
   totalRounds,
   onRoundDone,
+  lang,
 }: {
   round: MemoryRadarRound;
   roundIndex: number;
   totalRounds: number;
   onRoundDone: (score: number, total: number) => void;
+  lang: string;
 }) {
+  const t = LABELS[lang] || LABELS.en;
   const grid = useMemo<VisualLabItem[]>(
     () => shuffle([...round.targetItems, ...round.decoyItems]),
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -45,8 +108,8 @@ function RoundView({
 
   useEffect(() => {
     if (phase !== "flash") return;
-    const t = window.setTimeout(() => setPhase("select"), round.flashDurationMs);
-    return () => window.clearTimeout(t);
+    const timer = window.setTimeout(() => setPhase("select"), round.flashDurationMs);
+    return () => window.clearTimeout(timer);
   }, [phase, round.flashDurationMs]);
 
   useEffect(() => {
@@ -75,7 +138,7 @@ function RoundView({
           {roundScore}/{round.targetItems.length}
         </div>
         <p className="text-white/70 text-sm text-center">
-          {roundScore === round.targetItems.length ? "🎯 Perfekt!" : roundScore > 0 ? "👍 Gut gemacht!" : "❌ Versuch es nochmal!"}
+          {roundScore === round.targetItems.length ? t.perfect : roundScore > 0 ? t.good : t.tryAgain}
         </p>
         <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 w-full">
           {grid.map((item) => {
@@ -105,7 +168,7 @@ function RoundView({
           className="mt-1 px-8 py-3 rounded-2xl font-bold text-white text-base active:scale-95 transition"
           style={{ background: round.theme.accent }}
         >
-          {isLast ? "Fertig 🏁" : "Weiter →"}
+          {isLast ? t.done : t.next}
         </button>
       </div>
     );
@@ -129,8 +192,8 @@ function RoundView({
       </div>
 
       <div className="mb-4 rounded-[24px] border border-white/10 bg-white/5 px-4 py-3 text-sm text-white/80">
-        {phase === "flash" && "Merke dir die leuchtenden Ziele! ⚡"}
-        {phase === "select" && `Wähle genau ${round.selectionLimit} Elemente aus.`}
+        {phase === "flash" && t.remember}
+        {phase === "select" && t.select(round.selectionLimit)}
       </div>
 
       <div className="grid grid-cols-3 gap-3 sm:grid-cols-4">
@@ -168,10 +231,17 @@ function RoundView({
 }
 
 export default function MemoryRadarGame({ rounds, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const [roundIndex, setRoundIndex] = useState(0);
   const [totalScore, setTotalScore] = useState(0);
   const [totalPossible, setTotalPossible] = useState(0);
   const [finished, setFinished] = useState(false);
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   const activeRounds = rounds.slice(0, 3);
 
@@ -197,13 +267,13 @@ export default function MemoryRadarGame({ rounds, onDone }: Props) {
         <div className="text-4xl font-black text-emerald-400">{totalScore}/{totalPossible}</div>
         <div className="text-lg text-white/60">{pct}%</div>
         <p className="text-white/70 text-center">
-          {pct === 100 ? "🎯 Perfekt — alle Runden gemeistert!" : pct >= 66 ? "👍 Sehr gut!" : pct >= 33 ? "💪 Weiter üben!" : "❌ Nochmal versuchen!"}
+          {pct === 100 ? t.perfectAll : pct >= 66 ? t.veryGood : pct >= 33 ? t.keepPracticing : t.tryAgainAll}
         </p>
         <button
           onClick={() => { setRoundIndex(0); setTotalScore(0); setTotalPossible(0); setFinished(false); }}
           className="px-8 py-3 rounded-2xl font-bold text-white bg-indigo-600 hover:bg-indigo-500 active:scale-95 transition"
         >
-          Nochmal spielen 🔄
+          {t.playAgain}
         </button>
       </div>
     );
@@ -219,6 +289,7 @@ export default function MemoryRadarGame({ rounds, onDone }: Props) {
       roundIndex={roundIndex}
       totalRounds={activeRounds.length}
       onRoundDone={handleRoundDone}
+      lang={lang}
     />
   );
 }

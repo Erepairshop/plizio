@@ -6,6 +6,33 @@ import { getLanguage } from "@/lib/language";
 
 const MAX_CONCURRENT = 3;
 
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Meteor Catch",
+    miss: "Miss",
+    completed: "Gut gemacht! Level abgeschlossen.",
+    instruction: "Tippe auf die richtigen Objekte, bevor sie verschwinden!",
+  },
+  en: {
+    gameName: "Meteor Catch",
+    miss: "Miss",
+    completed: "Well done! Level completed.",
+    instruction: "Tap the correct objects before they disappear!",
+  },
+  hu: {
+    gameName: "Meteor Catch",
+    miss: "Hiba",
+    completed: "Szép munka! Szint teljesítve.",
+    instruction: "Kattints a helyes tárgyakra, mielőtt eltűnnek!",
+  },
+  ro: {
+    gameName: "Meteor Catch",
+    miss: "Greșeli",
+    completed: "Bravo! Nivel finalizat.",
+    instruction: "Atinge obiectele corecte înainte să dispară!",
+  },
+};
+
 type Meteor = {
   id: string;
   isCorrect: boolean;
@@ -201,6 +228,7 @@ export default function MultilingualMeteorCatchGame({ round, onDone }: Props) {
   const progress = Math.min((caught / totalNeeded) * 100, 100);
   const currentTitle = (round.title as any)[lang] || round.title["de"];
   const currentPrompt = (round.prompt as any)[lang] || round.prompt["de"];
+  const t = LABELS[lang] || LABELS.en;
 
   return (
     <div
@@ -216,7 +244,7 @@ export default function MultilingualMeteorCatchGame({ round, onDone }: Props) {
       <div className="relative z-10 flex items-start justify-between gap-4">
         <div>
           <p className="mb-1 text-[11px] font-bold uppercase tracking-[0.25em] text-white/50">
-            Multilingual Meteor Catch
+            {t.gameName}
           </p>
           <h2 className="text-xl font-black sm:text-2xl">{currentTitle}</h2>
           <p className="mt-1 text-sm font-medium text-white/80">{currentPrompt}</p>
@@ -226,7 +254,7 @@ export default function MultilingualMeteorCatchGame({ round, onDone }: Props) {
           className="flex min-w-[80px] flex-col items-center justify-center rounded-2xl px-4 py-2"
           style={{ background: "rgba(0,0,0,0.3)", backdropFilter: "blur(12px)" }}
         >
-          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/50">Miss</p>
+          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/50">{t.miss}</p>
           <p className="text-xl font-black text-rose-300">{mistakes}</p>
         </div>
       </div>
@@ -240,7 +268,7 @@ export default function MultilingualMeteorCatchGame({ round, onDone }: Props) {
 
       <div className="relative mt-6 h-[420px] overflow-hidden rounded-[24px] border border-white/10 bg-black/20 shadow-inner">
         <div className="absolute inset-x-6 bottom-5 z-0 rounded-2xl border border-white/5 bg-black/40 px-5 py-3 text-center text-sm font-semibold text-white/70 backdrop-blur-md">
-          {caught >= totalNeeded ? "Level Complete!" : "Catch the correct objects!"}
+          {caught >= totalNeeded ? t.completed : t.instruction}
         </div>
 
         {meteors.map((meteor) => (

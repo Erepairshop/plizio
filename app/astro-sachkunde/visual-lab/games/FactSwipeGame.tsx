@@ -3,6 +3,54 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { FactSwipeRound, FactSwipeCard } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
+
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Fakten-Check",
+    correct: "Richtig!",
+    wrong: "Falsch!",
+    card: "Karte",
+    of: "von",
+    done: "Geschafft!",
+    yourScore: "Dein Score",
+    false: "Falsch",
+    true: "Wahr",
+  },
+  en: {
+    gameName: "Fact Check",
+    correct: "Correct!",
+    wrong: "Wrong!",
+    card: "Card",
+    of: "of",
+    done: "Done!",
+    yourScore: "Your Score",
+    false: "False",
+    true: "True",
+  },
+  hu: {
+    gameName: "Tény-ellenőrzés",
+    correct: "Helyes!",
+    wrong: "Hibás!",
+    card: "Kártya",
+    of: "/",
+    done: "Kész!",
+    yourScore: "Pontszámod",
+    false: "Hamis",
+    true: "Igaz",
+  },
+  ro: {
+    gameName: "Verificarea faptelor",
+    correct: "Corect!",
+    wrong: "Greșit!",
+    card: "Cardul",
+    of: "din",
+    done: "Gata!",
+    yourScore: "Scorul tău",
+    false: "Fals",
+    true: "Adevărat",
+  },
+};
 
 interface Props {
   round: FactSwipeRound;
@@ -10,10 +58,17 @@ interface Props {
 }
 
 export default function FactSwipeGame({ round, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const [cards, setCards] = useState<FactSwipeCard[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [feedback, setFeedback] = useState<{ isCorrect: boolean; text: string } | null>(null);
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   useEffect(() => {
     setCards([...round.cards].sort(() => Math.random() - 0.5));
@@ -32,7 +87,7 @@ export default function FactSwipeGame({ round, onDone }: Props) {
     
     setFeedback({
       isCorrect,
-      text: card.explanation || (isCorrect ? "Richtig!" : "Falsch!"),
+      text: card.explanation || (isCorrect ? t.correct : t.wrong),
     });
 
     setTimeout(() => {
@@ -57,12 +112,12 @@ export default function FactSwipeGame({ round, onDone }: Props) {
       }}
     >
       <div className="mb-6 text-center">
-        <p className="text-xs uppercase tracking-[0.22em] text-white/45">Fakten-Check</p>
+        <p className="text-xs uppercase tracking-[0.22em] text-white/45">{t.gameName}</p>
         <h2 className="text-2xl font-black text-white/90">{round.title}</h2>
         <p className="mt-2 text-sm font-medium text-cyan-200">{round.instruction}</p>
         {!isFinished && (
           <p className="mt-2 text-xs text-white/40">
-            Karte {currentIndex + 1} von {cards.length}
+            {t.card} {currentIndex + 1} {t.of} {cards.length}
           </p>
         )}
       </div>
@@ -95,7 +150,7 @@ export default function FactSwipeGame({ round, onDone }: Props) {
               }}
             >
               <div className={`text-3xl font-black mb-3 ${feedback.isCorrect ? "text-emerald-400" : "text-red-400"}`}>
-                {feedback.isCorrect ? "Richtig! ✓" : "Falsch! ✗"}
+                {feedback.isCorrect ? `${t.correct} ✓` : `${t.wrong} ✗`}
               </div>
               <p className="text-white/80">{feedback.text}</p>
             </motion.div>
@@ -107,8 +162,8 @@ export default function FactSwipeGame({ round, onDone }: Props) {
               animate={{ scale: 1, opacity: 1 }}
               className="text-center"
             >
-              <h3 className="text-2xl font-bold text-white/90 mb-2">Geschafft!</h3>
-              <p className="text-lg text-cyan-200">Dein Score: {score} / {cards.length}</p>
+              <h3 className="text-2xl font-bold text-white/90 mb-2">{t.done}</h3>
+              <p className="text-lg text-cyan-200">{t.yourScore}: {score} / {cards.length}</p>
             </motion.div>
           )}
         </AnimatePresence>
@@ -121,14 +176,14 @@ export default function FactSwipeGame({ round, onDone }: Props) {
             onClick={() => handleSwipe(false)}
             className="flex-1 max-w-[140px] rounded-full border border-red-500/50 bg-red-500/10 py-4 font-bold text-red-300 transition-all hover:bg-red-500/20 active:scale-95 disabled:opacity-50"
           >
-            Falsch
+            {t.false}
           </button>
           <button
             disabled={!!feedback}
             onClick={() => handleSwipe(true)}
             className="flex-1 max-w-[140px] rounded-full border border-emerald-500/50 bg-emerald-500/10 py-4 font-bold text-emerald-300 transition-all hover:bg-emerald-500/20 active:scale-95 disabled:opacity-50"
           >
-            Wahr
+            {t.true}
           </button>
         </div>
       )}

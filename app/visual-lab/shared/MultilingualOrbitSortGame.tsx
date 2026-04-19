@@ -4,6 +4,13 @@ import { useEffect, useState } from "react";
 import type { OrbitSortRound } from "@/lib/visualLab/multilingualTypes";
 import { getLanguage } from "@/lib/language";
 
+const LABELS: Record<string, any> = {
+  de: { bucket: "Bereich" },
+  en: { bucket: "Bucket" },
+  hu: { bucket: "Gyűjtő" },
+  ro: { bucket: "Grup" },
+};
+
 interface Props {
   round: OrbitSortRound;
   onDone?: (score: number, total: number) => void;
@@ -19,6 +26,8 @@ export default function MultilingualOrbitSortGame({ round, onDone }: Props) {
   useEffect(() => {
     setLang(getLanguage());
   }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   const handleItemClick = (id: string) => {
     const item = items.find((it) => it.id === id);
@@ -101,7 +110,7 @@ export default function MultilingualOrbitSortGame({ round, onDone }: Props) {
               style={{ background: bucket.color }}
             />
             <div className="relative text-center">
-              <span className="text-xs font-black uppercase tracking-widest text-white/40">Bucket</span>
+              <span className="text-xs font-black uppercase tracking-widest text-white/40">{t.bucket}</span>
               <p className="text-lg font-bold">{(bucket.label as any)[lang] || bucket.label["de"]}</p>
             </div>
           </button>

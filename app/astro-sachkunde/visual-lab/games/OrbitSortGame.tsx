@@ -2,6 +2,38 @@
 
 import { useEffect, useMemo, useState } from "react";
 import type { OrbitSortItem, OrbitSortRound } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
+
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Orbit Sort",
+    zone: "Zone",
+    objects: "Objekte",
+    correct: "Richtig",
+    attempts: "Versuche",
+  },
+  en: {
+    gameName: "Orbit Sort",
+    zone: "Zone",
+    objects: "Objects",
+    correct: "Correct",
+    attempts: "Attempts",
+  },
+  hu: {
+    gameName: "Orbit Sort",
+    zone: "Zóna",
+    objects: "Tárgyak",
+    correct: "Helyes",
+    attempts: "Próbálkozások",
+  },
+  ro: {
+    gameName: "Orbit Sort",
+    zone: "Zonă",
+    objects: "Obiecte",
+    correct: "Corect",
+    attempts: "Încercări",
+  },
+};
 
 interface Props {
   round: OrbitSortRound;
@@ -9,11 +41,18 @@ interface Props {
 }
 
 export default function OrbitSortGame({ round, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const [selected, setSelected] = useState<OrbitSortItem | null>(null);
   const [placed, setPlaced] = useState<Record<string, string>>({});
   const [score, setScore] = useState(0);
   const [attempts, setAttempts] = useState(0);
   const [completed, setCompleted] = useState(false);
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   useEffect(() => {
     setSelected(null);
@@ -53,7 +92,7 @@ export default function OrbitSortGame({ round, onDone }: Props) {
       }}
     >
       <div className="mb-4">
-        <p className="text-xs uppercase tracking-[0.22em] text-white/55">Orbit Sort</p>
+        <p className="text-xs uppercase tracking-[0.22em] text-white/55">{t.gameName}</p>
         <h2 className="text-xl font-black">{round.title}</h2>
         <p className="mt-1 text-sm text-white/78">{round.instruction}</p>
       </div>
@@ -76,7 +115,7 @@ export default function OrbitSortGame({ round, onDone }: Props) {
               borderColor: `${bucket.color}aa`,
             }}
           >
-            <p className="text-xs uppercase tracking-[0.22em] text-white/55">Zone</p>
+            <p className="text-xs uppercase tracking-[0.22em] text-white/55">{t.zone}</p>
             <p className="mt-1 text-lg font-bold">{bucket.label}</p>
             <div className="mt-3 flex flex-wrap gap-2">
               {round.items
@@ -103,8 +142,8 @@ export default function OrbitSortGame({ round, onDone }: Props) {
         }}
       >
         <div className="mb-3 flex items-center justify-between">
-          <p className="text-sm font-semibold text-white/85">Objekte</p>
-          <p className="text-sm text-white/60">Richtig: {score} / {round.items.length}</p>
+          <p className="text-sm font-semibold text-white/85">{t.objects}</p>
+          <p className="text-sm text-white/60">{t.correct}: {score} / {round.items.length}</p>
         </div>
         <div className="flex flex-wrap gap-3">
           {remaining.map((item) => (
@@ -128,7 +167,7 @@ export default function OrbitSortGame({ round, onDone }: Props) {
             </button>
           ))}
         </div>
-        <p className="mt-4 text-xs uppercase tracking-[0.18em] text-white/45">Versuche: {attempts}</p>
+        <p className="mt-4 text-xs uppercase tracking-[0.18em] text-white/45">{t.attempts}: {attempts}</p>
       </div>
     </div>
   );

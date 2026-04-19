@@ -2,8 +2,36 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { MeteorCatchRound } from "@/lib/visualLab/types";
+import { getLanguage } from "@/lib/language";
 
 const MAX_CONCURRENT = 3;
+
+const LABELS: Record<string, any> = {
+  de: {
+    gameName: "Meteor Catch",
+    miss: "Miss",
+    completed: "Gut gemacht! Level abgeschlossen.",
+    instruction: "Tippe auf die richtigen Objekte, bevor sie verschwinden!",
+  },
+  en: {
+    gameName: "Meteor Catch",
+    miss: "Miss",
+    completed: "Well done! Level completed.",
+    instruction: "Tap the correct objects before they disappear!",
+  },
+  hu: {
+    gameName: "Meteor Catch",
+    miss: "Hiba",
+    completed: "Szép munka! Szint teljesítve.",
+    instruction: "Kattints a helyes tárgyakra, mielőtt eltűnnek!",
+  },
+  ro: {
+    gameName: "Meteor Catch",
+    miss: "Greșeli",
+    completed: "Bravo! Nivel finalizat.",
+    instruction: "Atinge obiectele corecte înainte să dispară!",
+  },
+};
 
 type Meteor = {
   id: string;
@@ -153,6 +181,7 @@ function MeteorItem({
 }
 
 export default function MeteorCatchGame({ round, onDone }: Props) {
+  const [lang, setLang] = useState("de");
   const totalNeeded = round.goal;
   const [caught, setCaught] = useState(0);
   const [mistakes, setMistakes] = useState(0);
@@ -160,6 +189,12 @@ export default function MeteorCatchGame({ round, onDone }: Props) {
   const [completed, setCompleted] = useState(false);
   const idRef = useRef(0);
   const processedRef = useRef<Set<string>>(new Set());
+
+  useEffect(() => {
+    setLang(getLanguage());
+  }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   // Initial spawn
   useEffect(() => {
@@ -226,7 +261,7 @@ export default function MeteorCatchGame({ round, onDone }: Props) {
       <div className="relative z-10 flex items-start justify-between gap-4">
         <div>
           <p className="mb-1 text-[11px] font-bold uppercase tracking-[0.25em] text-white/50">
-            Meteor Catch
+            {t.gameName}
           </p>
           <h2 className="text-xl font-black sm:text-2xl">{round.title}</h2>
           <p className="mt-1 text-sm font-medium text-white/80">{round.prompt}</p>
@@ -236,7 +271,7 @@ export default function MeteorCatchGame({ round, onDone }: Props) {
           className="flex min-w-[80px] flex-col items-center justify-center rounded-2xl px-4 py-2"
           style={{ background: "rgba(0,0,0,0.3)", backdropFilter: "blur(12px)" }}
         >
-          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/50">Miss</p>
+          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/50">{t.miss}</p>
           <p className="text-xl font-black text-rose-300">{mistakes}</p>
         </div>
       </div>
@@ -250,7 +285,7 @@ export default function MeteorCatchGame({ round, onDone }: Props) {
 
       <div className="relative mt-6 h-[420px] overflow-hidden rounded-[24px] border border-white/10 bg-black/20 shadow-inner">
         <div className="absolute inset-x-6 bottom-5 z-0 rounded-2xl border border-white/5 bg-black/40 px-5 py-3 text-center text-sm font-semibold text-white/70 backdrop-blur-md">
-          {completed ? "Gut gemacht! Level abgeschlossen." : "Tippe auf die richtigen Objekte, bevor sie verschwinden!"}
+          {completed ? t.completed : t.instruction}
         </div>
 
         {meteors.map((meteor) => (

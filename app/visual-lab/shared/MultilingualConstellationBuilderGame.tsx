@@ -4,6 +4,13 @@ import { useEffect, useState } from "react";
 import type { ConstellationBuilderRound } from "@/lib/visualLab/multilingualTypes";
 import { getLanguage } from "@/lib/language";
 
+const LABELS: Record<string, any> = {
+  de: { check: "Lösung prüfen" },
+  en: { check: "Check Solution" },
+  hu: { check: "Ellenőrzés" },
+  ro: { check: "Verifică soluția" },
+};
+
 interface Props {
   round: ConstellationBuilderRound;
   onDone?: (score: number, total: number) => void;
@@ -19,6 +26,8 @@ export default function MultilingualConstellationBuilderGame({ round, onDone }: 
   useEffect(() => {
     setLang(getLanguage());
   }, []);
+
+  const t = LABELS[lang] || LABELS.en;
 
   const handlePartClick = (partId: string) => {
     if (Object.values(slots).includes(partId)) return;
@@ -116,7 +125,7 @@ export default function MultilingualConstellationBuilderGame({ round, onDone }: 
           disabled={Object.values(slots).some((s) => s === null)}
           className="rounded-full bg-white px-10 py-4 text-sm font-black uppercase tracking-widest text-black transition-all hover:scale-105 active:scale-95 disabled:opacity-30"
         >
-          Check Solution
+          {t.check}
         </button>
       </div>
     </div>
