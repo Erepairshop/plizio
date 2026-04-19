@@ -33,10 +33,10 @@ const GRADE_DATA: Array<{
   { grade: 2, islands: G2_ISLANDS, checkpointTopics: G2_CHECKPOINT_TOPICS },
   { grade: 3, islands: G3_ISLANDS, checkpointTopics: G3_CHECKPOINT_TOPICS },
   { grade: 4, islands: G4_ISLANDS, checkpointTopics: G4_CHECKPOINT_TOPICS },
-  { grade: 5, islands: G5_ISLANDS, checkpointTopics: G5_CHECKPOINT_TOPICS },
-  { grade: 6, islands: G6_ISLANDS, checkpointTopics: G6_CHECKPOINT_TOPICS },
-  { grade: 7, islands: G7_ISLANDS, checkpointTopics: G7_CHECKPOINT_TOPICS },
-  { grade: 8, islands: G8_ISLANDS, checkpointTopics: G8_CHECKPOINT_TOPICS },
+  { grade: 5, islands: G5_ISLANDS as unknown as IslandDef[], checkpointTopics: G5_CHECKPOINT_TOPICS },
+  { grade: 6, islands: G6_ISLANDS as unknown as IslandDef[], checkpointTopics: G6_CHECKPOINT_TOPICS },
+  { grade: 7, islands: G7_ISLANDS as unknown as IslandDef[], checkpointTopics: G7_CHECKPOINT_TOPICS },
+  { grade: 8, islands: G8_ISLANDS as unknown as IslandDef[], checkpointTopics: G8_CHECKPOINT_TOPICS },
 ];
 
 // ─── Kérdés validátor ─────────────────────────────────────────────────────────

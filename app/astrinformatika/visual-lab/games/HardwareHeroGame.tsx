@@ -103,7 +103,7 @@ export default function HardwareHeroGame({
 
       {/* Instruction */}
       <p className="relative z-10 text-center text-indigo-300/40 text-xs uppercase tracking-widest pb-1 shrink-0">
-        {round.instruction}
+        {round.instruction.hu}
       </p>
 
       {/* Center item display */}

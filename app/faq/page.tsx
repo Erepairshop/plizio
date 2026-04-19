@@ -2,70 +2,99 @@
 
 import { useLang } from "@/components/LanguageProvider";
 import SimplePageLayout from "@/components/SimplePageLayout";
+import { HelpCircle } from "lucide-react";
+import type { Language } from "@/lib/language";
 
-type Lang = "de" | "hu" | "ro" | "en";
-
-const CONTENT: Record<Lang, { title: string; items: { q: string; a: string }[] }> = {
-  de: {
-    title: "FAQ",
-    items: [
-      { q: "Ist Plizio kostenlos?", a: "Ja, alle Lerninhalte sind kostenlos nutzbar." },
-      { q: "Welche Sprachen werden unterstützt?", a: "Deutsch, Englisch, Ungarisch und Rumänisch. Alle Fächer sind in allen Sprachen verfügbar." },
-      { q: "Brauche ich ein Konto?", a: "Nein, für die grundlegende Nutzung nicht. Ein Konto speichert den Fortschritt auf mehreren Geräten." },
-      { q: "Gibt es Werbung?", a: "Nein. Plizio ist komplett werbefrei." },
-      { q: "Funktioniert es offline?", a: "Grundsätzlich ja — nach dem ersten Laden funktionieren viele Spiele auch offline." },
-      { q: "Welche Altersgruppe?", a: "6 bis 14 Jahre (Klasse 1 bis 8). Einige Spiele eignen sich auch für jüngere Kinder." },
-    ],
-  },
+const CONTENT: Record<Language, {
+  title: string;
+  subtitle: string;
+  faqs: { q: string; a: string }[];
+}> = {
   hu: {
-    title: "Gyakori kérdések",
-    items: [
-      { q: "Ingyenes a Plizio?", a: "Igen, minden tanulási tartalom ingyenes." },
-      { q: "Milyen nyelvek támogatottak?", a: "Német, angol, magyar és román. Minden tantárgy elérhető minden nyelven." },
-      { q: "Kell fiók?", a: "Az alapvető használathoz nem. A fiók több eszközön is menti a haladást." },
-      { q: "Van reklám?", a: "Nincs. A Plizio teljesen reklámmentes." },
-      { q: "Működik offline?", a: "Alapvetően igen — az első betöltés után sok játék offline is működik." },
-      { q: "Milyen korosztály?", a: "6-14 év (1-8. osztály). Néhány játék fiatalabb gyerekeknek is alkalmas." },
-    ],
+    title: "Gyakori Kérdések (GYIK)",
+    subtitle: "Minden, amit a Plizioról tudni érdemes",
+    faqs: [
+      { q: "Ingyenes a Plizio?", a: "Igen, a platform alapvető funkciói és tantárgyai teljesen ingyenesek." },
+      { q: "Milyen nyelveken érhető el?", a: "Jelenleg 4 nyelven: magyarul, németül, románul és angolul." },
+      { q: "Milyen korosztálynak szól?", a: "A tartalmakat a 6-14 éves (K1-K8) korosztálynak és iskolai tanterveknek megfelelően alakítottuk ki." },
+      { q: "Szükséges regisztráció a játékhoz?", a: "Nem! Az előrehaladást (pontok, szintlépések) a böngésző automatikusan menti (localStorage)." },
+      { q: "Működik mobiltelefonon is?", a: "Igen, a Plizio 'mobile-first' szemlélettel készült, így telefonon, tableten és asztali gépen is tökéletesen fut." },
+      { q: "Működik offline, internet nélkül is?", a: "Az első betöltéshez kell internet, de utána a rendszer gyorsítótáraz (cache), így rövid hálózati kimaradások esetén is működik a játék." },
+      { q: "Miben más ez, mint a többi oktató app?", a: "A Plizio ötvözi az űr-témájú gamifikációt és a négy nyelv közötti azonnali váltás lehetőségét, így a gyerekek játszva és több nyelven egyszerre tanulhatnak." },
+      { q: "Mi az az Astro és a Test mód?", a: "Az 'Astro' egy játékos felfedező mód űrhajókkal és vizuális elemekkel. A 'Test' mód inkább a vizsgákra, témazárókra való felkészülést segíti hagyományosabb feladatsorokkal." },
+      { q: "Elveszhetnek az adataim?", a: "Mivel az adatok a böngésződben vannak, böngészőadatok (cache/cookie) törlése esetén a pontok is elveszhetnek. A jövőben tervezzük a felhő alapú mentést regisztrált felhasználóknak." },
+      { q: "Hogyan tudok visszajelzést küldeni?", a: "A Kapcsolat oldalon található e-mail címen várjuk az észrevételeket és hibajelentéseket!" }
+    ]
+  },
+  de: {
+    title: "Häufig gestellte Fragen (FAQ)",
+    subtitle: "Alles, was du über Plizio wissen musst",
+    faqs: [
+      { q: "Ist Plizio kostenlos?", a: "Ja, die grundlegenden Funktionen und Fächer der Plattform sind völlig kostenlos." },
+      { q: "In welchen Sprachen ist es verfügbar?", a: "Derzeit in 4 Sprachen: Deutsch, Ungarisch, Rumänisch und Englisch." },
+      { q: "Für welche Altersgruppe ist es gedacht?", a: "Die Inhalte sind für die Altersgruppe der 6- bis 14-Jährigen (K1-K8) und entsprechend den schulischen Lehrplänen konzipiert." },
+      { q: "Ist eine Registrierung zum Spielen erforderlich?", a: "Nein! Dein Fortschritt (Punkte, Level) wird automatisch in deinem Browser gespeichert (localStorage)." },
+      { q: "Funktioniert es auch auf dem Handy?", a: "Ja, Plizio wurde nach dem 'Mobile-First'-Prinzip entwickelt und läuft perfekt auf Smartphones, Tablets und Desktop-PCs." },
+      { q: "Funktioniert es offline ohne Internet?", a: "Für das erste Laden wird Internet benötigt, danach speichert das System Daten zwischen (Cache), sodass das Spiel auch bei kurzen Netzwerkausfällen funktioniert." },
+      { q: "Was unterscheidet Plizio von anderen Lern-Apps?", a: "Plizio kombiniert weltraumbasierte Gamification mit der Möglichkeit, sofort zwischen vier Sprachen zu wechseln. So lernen Kinder spielerisch und mehrsprachig zugleich." },
+      { q: "Was ist der Astro- und der Test-Modus?", a: "Der 'Astro'-Modus ist ein spielerischer Erkundungsmodus mit Raumschiffen und visuellen Elementen. Der 'Test'-Modus hilft mit traditionelleren Aufgaben bei der Prüfungsvorbereitung." },
+      { q: "Können meine Daten verloren gehen?", a: "Da die Daten in deinem Browser gespeichert sind, können die Punkte beim Löschen der Browserdaten (Cache/Cookies) verloren gehen. Wir planen zukünftig eine Cloud-Speicherung für registrierte Nutzer." },
+      { q: "Wie kann ich Feedback geben?", a: "Wir freuen uns über Anmerkungen und Fehlermeldungen an die E-Mail-Adresse auf der Kontaktseite!" }
+    ]
   },
   ro: {
-    title: "Întrebări frecvente",
-    items: [
-      { q: "Este Plizio gratuit?", a: "Da, tot conținutul educațional este gratuit." },
-      { q: "Ce limbi sunt acceptate?", a: "Germană, engleză, maghiară și română. Toate materiile sunt disponibile în toate limbile." },
-      { q: "Am nevoie de cont?", a: "Nu pentru utilizarea de bază. Un cont salvează progresul pe mai multe dispozitive." },
-      { q: "Există reclame?", a: "Nu. Plizio este complet fără reclame." },
-      { q: "Funcționează offline?", a: "În principiu da — după prima încărcare, multe jocuri funcționează și offline." },
-      { q: "Ce vârstă?", a: "6 până la 14 ani (clasele 1-8). Unele jocuri sunt potrivite și pentru copii mai mici." },
-    ],
+    title: "Întrebări Frecvente (FAQ)",
+    subtitle: "Tot ce trebuie să știi despre Plizio",
+    faqs: [
+      { q: "Este Plizio gratuit?", a: "Da, funcțiile de bază și materiile de pe platformă sunt complet gratuite." },
+      { q: "În ce limbi este disponibil?", a: "Momentan în 4 limbi: română, maghiară, germană și engleză." },
+      { q: "Cărei grupe de vârstă se adresează?", a: "Conținutul este conceput pentru grupa de vârstă 6-14 ani (K1-K8), în conformitate cu programele școlare." },
+      { q: "Este necesară înregistrarea pentru a juca?", a: "Nu! Progresul (puncte, niveluri) este salvat automat în browserul tău (localStorage)." },
+      { q: "Funcționează și pe telefonul mobil?", a: "Da, Plizio este creat cu o abordare 'mobile-first', așa că rulează perfect pe telefon, tabletă și desktop." },
+      { q: "Funcționează offline, fără internet?", a: "Este nevoie de internet pentru prima încărcare, dar apoi sistemul stochează în memoria cache, astfel încât jocul funcționează chiar și în cazul unor scurte întreruperi de rețea." },
+      { q: "Prin ce se diferențiază de alte aplicații educaționale?", a: "Plizio îmbină gamificarea cu tematică spațială și posibilitatea de a schimba instantaneu între patru limbi, astfel încât copiii învață jucându-se." },
+      { q: "Ce sunt modurile Astro și Test?", a: "Modul 'Astro' este o explorare prin joacă, cu nave spațiale. Modul 'Test' este pentru pregătirea examenelor, cu seturi de exerciții mai tradiționale." },
+      { q: "Îmi pot pierde datele?", a: "Deoarece datele sunt în browser, ștergerea datelor de navigare (cache/cookies) va duce la pierderea punctelor. Pe viitor, planificăm salvarea în cloud pentru utilizatorii înregistrați." },
+      { q: "Cum pot trimite feedback?", a: "Așteptăm comentariile și rapoartele de erori la adresa de e-mail de pe pagina de Contact!" }
+    ]
   },
   en: {
-    title: "FAQ",
-    items: [
-      { q: "Is Plizio free?", a: "Yes, all learning content is free to use." },
-      { q: "Which languages are supported?", a: "German, English, Hungarian and Romanian. All subjects are available in all languages." },
-      { q: "Do I need an account?", a: "Not for basic use. An account saves progress across multiple devices." },
-      { q: "Are there ads?", a: "No. Plizio is completely ad-free." },
-      { q: "Does it work offline?", a: "Mostly yes — after initial load, many games work offline." },
-      { q: "Which age group?", a: "6 to 14 years (grades 1 to 8). Some games are also suitable for younger children." },
-    ],
-  },
+    title: "Frequently Asked Questions (FAQ)",
+    subtitle: "Everything you need to know about Plizio",
+    faqs: [
+      { q: "Is Plizio free?", a: "Yes, the platform's core features and subjects are completely free." },
+      { q: "What languages are available?", a: "Currently 4 languages: English, German, Hungarian, and Romanian." },
+      { q: "What age group is it for?", a: "The content is designed for ages 6-14 (grades 1-8) and aligns with school curricula." },
+      { q: "Do I need to register to play?", a: "No! Your progress (points, levels) is automatically saved in your browser (localStorage)." },
+      { q: "Does it work on mobile phones?", a: "Yes, Plizio is built 'mobile-first', so it runs perfectly on smartphones, tablets, and desktops." },
+      { q: "Does it work offline without internet?", a: "Internet is required for the initial load, but the system caches data so gameplay can continue smoothly during brief network interruptions." },
+      { q: "How is it different from other educational apps?", a: "Plizio combines space-themed gamification with the ability to switch instantly between four languages, allowing kids to learn playfully and multilingually." },
+      { q: "What is Astro and Test mode?", a: "The 'Astro' mode is a playful exploration with spaceships and visual elements. The 'Test' mode helps with exam prep using more traditional question formats." },
+      { q: "Can I lose my data?", a: "Since data is stored in your browser, clearing your browser data (cache/cookies) will reset your points. We plan to add cloud saves for registered users in the future." },
+      { q: "How can I send feedback?", a: "We welcome your comments and bug reports via the email address on our Contact page!" }
+    ]
+  }
 };
 
 export default function FaqPage() {
   const { lang } = useLang();
-  const c = CONTENT[(lang as Lang) ?? "de"];
+  const c = CONTENT[lang ?? "hu"];
+
   return (
-    <SimplePageLayout title={c.title}>
-      {c.items.map((item, i) => (
-        <details key={i} className="mb-3 rounded-xl border border-white/10 bg-white/[0.03] p-4 group">
-          <summary className="cursor-pointer font-bold text-white list-none flex items-center justify-between">
-            <span>{item.q}</span>
-            <span className="text-white/50 text-xl group-open:rotate-45 transition-transform">+</span>
-          </summary>
-          <p className="mt-3 text-white/70 text-sm leading-relaxed">{item.a}</p>
-        </details>
-      ))}
+    <SimplePageLayout title={c.title} subtitle={c.subtitle}>
+      <div className="space-y-6 mt-6">
+        {c.faqs.map((faq, idx) => (
+          <div key={idx} className="bg-white/5 border border-white/10 rounded-xl p-5 hover:bg-white/10 transition-colors">
+            <div className="flex gap-3 items-start">
+              <HelpCircle className="text-purple-400 shrink-0 mt-0.5" size={20} />
+              <div>
+                <h3 className="font-bold text-lg text-white mb-2 mt-0">{faq.q}</h3>
+                <p className="text-white/70 m-0 leading-relaxed">{faq.a}</p>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
     </SimplePageLayout>
   );
 }

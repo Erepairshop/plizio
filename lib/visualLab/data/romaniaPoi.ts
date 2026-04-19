@@ -1077,6 +1077,307 @@ export const romaniaLandmarks: POI[] = [
 // ---------------------------------------------------------------------------
 // 7) ÖSSZES POI EGYBEFŰZVE
 // ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// 8) KULTÚRA (romaniaCulture)
+// ---------------------------------------------------------------------------
+export const romaniaCulture: POI[] = [
+  {
+    id: "cultura-teatrul-national", type: "landmark", parent: "RO-B", coords: [26.1036, 44.4361],
+    name: { ro: "Teatrul Național București", en: "National Theatre Bucharest", hu: "Bukaresti Nemzeti Színház", de: "Nationaltheater Bukarest" },
+    description: { ro: "Cel mai mare teatru din România.", en: "The largest theatre in Romania.", hu: "Románia legnagyobb színháza.", de: "Das größte Theater in Rumänien." },
+    facts: { ro: ["Clădirea actuală a fost refăcută recent."], en: ["Current building was recently renovated."], hu: ["A jelenlegi épületet nemrég újították fel."], de: ["Das aktuelle Gebäude wurde kürzlich renoviert."] },
+    image: ""
+  },
+  {
+    id: "cultura-muzeul-taranului", type: "landmark", parent: "RO-B", coords: [26.0836, 44.4544],
+    name: { ro: "Muzeul Țăranului Român", en: "Museum of the Romanian Peasant", hu: "Román Parasztmúzeum", de: "Museum des rumänischen Bauern" },
+    description: { ro: "Muzeu dedicat artei și tradițiilor populare.", en: "Museum dedicated to folk art and traditions.", hu: "Népművészetnek és hagyományoknak szentelt múzeum.", de: "Museum für Volkskunst und Traditionen." },
+    facts: { ro: ["Clădire în stil neoromânesc."], en: ["Neo-Romanian style building."], hu: ["Neoromán stílusú épület."], de: ["Gebäude im neo-rumänischen Stil."] },
+    image: ""
+  },
+  {
+    id: "cultura-opera-cluj", type: "landmark", parent: "RO-CJ", coords: [23.5969, 46.7704],
+    name: { ro: "Opera Națională Română Cluj-Napoca", en: "Romanian National Opera, Cluj-Napoca", hu: "Kolozsvári Román Nemzeti Opera", de: "Rumänische Nationaloper Cluj-Napoca" },
+    description: { ro: "Prima instituție lirică a țării.", en: "The country's first lyrical institution.", hu: "Az ország első lírai intézménye.", de: "Die erste lyrische Einrichtung des Landes." },
+    facts: { ro: ["Inaugurată în 1919."], en: ["Inaugurated in 1919."], hu: ["1919-ben nyílt meg."], de: ["1919 eingeweiht."] },
+    image: ""
+  },
+  {
+    id: "cultura-festivalul-enab", type: "landmark", parent: "RO-SB", coords: [24.15, 45.8],
+    name: { ro: "FITS - Festivalul Internațional de Teatru de la Sibiu", en: "Sibiu International Theatre Festival", hu: "Nagyszebeni Nemzetközi Színházi Fesztivál", de: "Internationales Theaterfestival Sibiu" },
+    description: { ro: "Unul dintre cele mai mari festivaluri de teatru din lume.", en: "One of the largest theatre festivals in the world.", hu: "A világ egyik legnagyobb színházi fesztiválja.", de: "Eines der größten Theaterfestivals der Welt." },
+    facts: { ro: ["Are loc anual în Sibiu."], en: ["Takes place annually in Sibiu."], hu: ["Évente kerül megrendezésre Nagyszebenben."], de: ["Findet jährlich in Sibiu statt."] },
+    image: ""
+  },
+  {
+    id: "cultura-muzeul-brukenthal", type: "landmark", parent: "RO-SB", coords: [24.151, 45.796],
+    name: { ro: "Muzeul Național Brukenthal", en: "Brukenthal National Museum", hu: "Brukenthal Nemzeti Múzeum", de: "Brukenthal-Nationalmuseum" },
+    description: { ro: "Cel mai vechi muzeu din România.", en: "The oldest museum in Romania.", hu: "Románia legrégebbi múzeuma.", de: "Das älteste Museum in Rumänien." },
+    facts: { ro: ["Fondat de Samuel von Brukenthal."], en: ["Founded by Samuel von Brukenthal."], hu: ["Samuel von Brukenthal alapította."], de: ["Gegründet von Samuel von Brukenthal."] },
+    image: ""
+  },
+  {
+    id: "cultura-palatul-culturii", type: "landmark", parent: "RO-IS", coords: [27.585, 47.157],
+    name: { ro: "Palatul Culturii Iași", en: "Palace of Culture Iași", hu: "Jászvásári Kultúrpalota", de: "Kulturpalast Iași" },
+    description: { ro: "Edificiu emblematic în stil neogotic.", en: "Iconic neo-Gothic building.", hu: "Emblematikus neogótikus épület.", de: "Ikonisches neugotisches Gebäude." },
+    facts: { ro: ["Găzduiește patru muzee mari."], en: ["Houses four major museums."], hu: ["Négy nagy múzeumnak ad otthont."], de: ["Beherbergt vier große Museen."] },
+    image: ""
+  },
+  {
+    id: "cultura-untold", type: "landmark", parent: "RO-CJ", coords: [23.572, 46.768],
+    name: { ro: "UNTOLD Festival", en: "UNTOLD Festival", hu: "UNTOLD Fesztivál", de: "UNTOLD Festival" },
+    description: { ro: "Cel mai mare festival de muzică din România.", en: "The largest music festival in Romania.", hu: "Románia legnagyobb zenei fesztiválja.", de: "Das größte Musikfestival in Rumänien." },
+    facts: { ro: ["Atrage sute de mii de participanți anual."], en: ["Attracts hundreds of thousands of attendees annually."], hu: ["Évente több százezer résztvevőt vonz."], de: ["Zieht jährlich Hunderttausende von Besuchern an."] },
+    image: ""
+  },
+  {
+    id: "cultura-saga-festival", type: "landmark", parent: "RO-B", coords: [26.08, 44.47],
+    name: { ro: "SAGA Festival", en: "SAGA Festival", hu: "SAGA Fesztivál", de: "SAGA Festival" },
+    description: { ro: "Festival de muzică electronică din București.", en: "Electronic music festival in Bucharest.", hu: "Elektronikus zenei fesztivál Bukarestben.", de: "Elektronisches Musikfestival in Bukarest." },
+    facts: { ro: ["Se desfășoară în București."], en: ["Takes place in Bucharest."], hu: ["Bukarestben rendezik."], de: ["Findet in Bukarest statt."] },
+    image: ""
+  },
+  {
+    id: "cultura-muzeul-antipa", type: "landmark", parent: "RO-B", coords: [26.085, 44.453],
+    name: { ro: "Muzeul Grigore Antipa", en: "Grigore Antipa Museum", hu: "Grigore Antipa Múzeum", de: "Grigore-Antipa-Museum" },
+    description: { ro: "Muzeu național de istorie naturală.", en: "National museum of natural history.", hu: "Nemzeti természettudományi múzeum.", de: "Nationales naturhistorisches Museum." },
+    facts: { ro: ["Una dintre cele mai mari colecții din Europa de Est."], en: ["One of the largest collections in Eastern Europe."], hu: ["Kelet-Európa egyik legnagyobb gyűjteménye."], de: ["Eine der größten Sammlungen in Osteuropa."] },
+    image: ""
+  },
+  {
+    id: "cultura-opera-timisoara", type: "landmark", parent: "RO-TM", coords: [21.226, 45.753],
+    name: { ro: "Opera Națională Română Timișoara", en: "Romanian National Opera Timișoara", hu: "Temesvári Román Nemzeti Opera", de: "Rumänische Nationaloper Timișoara" },
+    description: { ro: "Instituție culturală de prestigiu în Banat.", en: "Prestigious cultural institution in Banat.", hu: "Rangos kulturális intézmény a Bánságban.", de: "Renommierte kulturelle Einrichtung im Banat." },
+    facts: { ro: ["Situată în Piața Victoriei."], en: ["Located in Victory Square."], hu: ["A Győzelem téren található."], de: ["Am Siegesplatz gelegen."] },
+    image: ""
+  }
+];
+
+// ---------------------------------------------------------------------------
+// 9) TRADIȚII (romaniaTraditions)
+// ---------------------------------------------------------------------------
+export const romaniaTraditions: POI[] = [
+  {
+    id: "trad-martisor", type: "historical", parent: "RO", coords: [25.0, 45.0],
+    name: { ro: "Mărțișorul", en: "Mărțișor (March Amulet)", hu: "Mărțișor", de: "Mărțișor" },
+    description: { ro: "Sărbătoarea venirii primăverii la 1 martie.", en: "Celebration of the arrival of spring on March 1st.", hu: "A tavasz eljövetelének ünnepe március 1-jén.", de: "Feier der Ankunft des Frühlings am 1. März." },
+    facts: { ro: ["Inclus în patrimoniul imaterial UNESCO."], en: ["Included in UNESCO intangible heritage."], hu: ["Az UNESCO szellemi kulturális örökség része."], de: ["In das immaterielle UNESCO-Kulturerbe aufgenommen."] },
+    image: ""
+  },
+  {
+    id: "trad-calusari", type: "historical", parent: "RO-OT", coords: [24.36, 44.43],
+    name: { ro: "Dansul Călușarilor", en: "Călușari Dance", hu: "Călușari tánc", de: "Călușari-Tanz" },
+    description: { ro: "Dans tradițional românesc cu funcție rituală.", en: "Traditional Romanian dance with a ritual function.", hu: "Hagyományos román rituális tánc.", de: "Traditioneller rumänischer Ritualtanz." },
+    facts: { ro: ["Inclus în patrimoniul UNESCO din 2005."], en: ["Included in UNESCO heritage since 2005."], hu: ["2005 óta az UNESCO örökség része."], de: ["Seit 2005 im UNESCO-Kulturerbe."] },
+    image: ""
+  },
+  {
+    id: "trad-mucenici", type: "historical", parent: "RO", coords: [26.0, 44.5],
+    name: { ro: "Sărbătoarea Mucenicilor", en: "Martyrs' Day (Mucenici)", hu: "Mucenici ünnepe", de: "Tag der Märtyrer (Mucenici)" },
+    description: { ro: "Tradiție culinară și religioasă pe 9 martie.", en: "Culinary and religious tradition on March 9th.", hu: "Kulináris és vallási hagyomány március 9-én.", de: "Kulinarische und religiöse Tradition am 9. März." },
+    facts: { ro: ["Se prepară colaci în formă de 8."], en: ["Figure-8 shaped pastries are made."], hu: ["8-as alakú kalácsokat készítenek."], de: ["Es werden Gebäcke in Form einer 8 gebacken."] },
+    image: ""
+  },
+  {
+    id: "trad-paste", type: "historical", parent: "RO", coords: [25.5, 46.0],
+    name: { ro: "Tradiții de Paște", en: "Easter Traditions", hu: "Húsvéti hagyományok", de: "Ostertraditionen" },
+    description: { ro: "Încondeierea ouălor și slujba de Înviere.", en: "Egg painting and the Resurrection service.", hu: "Tojásírás és a feltámadási mise.", de: "Eier bemalen und der Auferstehungsgottesdienst." },
+    facts: { ro: ["Ouăle roșii sunt un simbol principal."], en: ["Red eggs are a main symbol."], hu: ["A piros tojások a fő szimbólumok."], de: ["Rote Eier sind ein Hauptsymbol."] },
+    image: ""
+  },
+  {
+    id: "trad-sanzaiene", type: "historical", parent: "RO", coords: [24.0, 46.5],
+    name: { ro: "Sânzienele", en: "Sânziene (Midsummer)", hu: "Sânziene (Szentivánéj)", de: "Sânziene (Mittsommer)" },
+    description: { ro: "Sărbătoare de vară legată de recolte și dragoste.", en: "Summer festival related to harvest and love.", hu: "Nyári ünnep a terméshez és a szerelemhez kötődően.", de: "Sommerfest im Zusammenhang mit Ernte und Liebe." },
+    facts: { ro: ["Se sărbătorește pe 24 iunie."], en: ["Celebrated on June 24th."], hu: ["Június 24-én ünneplik."], de: ["Wird am 24. Juni gefeiert."] },
+    image: ""
+  },
+  {
+    id: "trad-colindat", type: "historical", parent: "RO", coords: [25.0, 47.0],
+    name: { ro: "Colindatul de Crăciun", en: "Christmas Caroling", hu: "Karácsonyi kántálás", de: "Weihnachtssingen" },
+    description: { ro: "Tradiție de iarnă în care grupuri merg din casă în casă.", en: "Winter tradition where groups go from house to house.", hu: "Téli hagyomány, amikor csoportok házról házra járnak.", de: "Wintertradition, bei der Gruppen von Haus zu Haus gehen." },
+    facts: { ro: ["Colindatul de ceată bărbătească este în patrimoniul UNESCO."], en: ["Men's group caroling is in UNESCO heritage."], hu: ["A férficsoportos kántálás az UNESCO örökség része."], de: ["Das Singen in Männergruppen gehört zum UNESCO-Kulturerbe."] },
+    image: ""
+  },
+  {
+    id: "trad-dragobete", type: "historical", parent: "RO", coords: [23.5, 45.5],
+    name: { ro: "Dragobetele", en: "Dragobete (Lovers' Day)", hu: "Dragobete (Szerelmesek napja)", de: "Dragobete (Tag der Liebenden)" },
+    description: { ro: "Sărbătoarea tradițională a iubirii la români.", en: "Traditional Romanian celebration of love.", hu: "A szerelem hagyományos román ünnepe.", de: "Traditionelles rumänisches Fest der Liebe." },
+    facts: { ro: ["Sărbătorit pe 24 februarie."], en: ["Celebrated on February 24th."], hu: ["Február 24-én ünneplik."], de: ["Wird am 24. Februar gefeiert."] },
+    image: ""
+  },
+  {
+    id: "trad-ignatul", type: "historical", parent: "RO", coords: [24.5, 46.0],
+    name: { ro: "Ignatul", en: "Ignat Day (Pig Slaughter)", hu: "Disznóvágás (Ignat)", de: "Ignattag (Schweineschlachten)" },
+    description: { ro: "Tradiție pre-crăciun care implică tăierea porcului.", en: "Pre-Christmas tradition involving pig slaughtering.", hu: "Karácsony előtti disznóvágás hagyomanya.", de: "Vorweihnachtliche Tradition des Schweineschlachtens." },
+    facts: { ro: ["Are loc pe 20 decembrie."], en: ["Takes place on December 20th."], hu: ["December 20-án zajlik."], de: ["Findet am 20. Dezember statt."] },
+    image: ""
+  },
+  {
+    id: "trad-boboteaza", type: "historical", parent: "RO", coords: [26.0, 45.0],
+    name: { ro: "Boboteaza", en: "Epiphany", hu: "Vízkereszt", de: "Dreikönigsfest" },
+    description: { ro: "Sărbătoare de iarnă cu sfințirea apelor.", en: "Winter holiday with the blessing of the waters.", hu: "Téli ünnep a vizek megszentelésével.", de: "Winterfest mit der Segnung der Gewässer." },
+    facts: { ro: ["Sărbătorită pe 6 ianuarie."], en: ["Celebrated on January 6th."], hu: ["Január 6-án ünneplik."], de: ["Wird am 6. Januar gefeiert."] },
+    image: ""
+  },
+  {
+    id: "trad-paparudele", type: "historical", parent: "RO", coords: [25.0, 44.0],
+    name: { ro: "Paparudele", en: "Paparuda", hu: "Paparuda (Esőtánc)", de: "Paparuda (Regentanz)" },
+    description: { ro: "Ritual arhaic pentru invocarea ploii.", en: "Archaic ritual for invoking rain.", hu: "Archaikus rituálé az eső hívására.", de: "Archaisches Ritual zur Beschwörung von Regen." },
+    facts: { ro: ["Practicat în perioade de secetă."], en: ["Practiced during periods of drought."], hu: ["Aszály idején gyakorolják."], de: ["Wird während Dürreperioden praktiziert."] },
+    image: ""
+  }
+];
+
+// ---------------------------------------------------------------------------
+// 10) FAUNĂ (romaniaWildlife)
+// ---------------------------------------------------------------------------
+export const romaniaWildlife: POI[] = [
+  {
+    id: "wild-ursul-brun", type: "animal-habitat", parent: "RO-BV", coords: [25.6, 45.6],
+    name: { ro: "Ursul Brun", en: "Brown Bear", hu: "Barna medve", de: "Braunbär" },
+    description: { ro: "Cea mai mare populație din Europa.", en: "Largest population in Europe.", hu: "A legnagyobb populáció Európában.", de: "Größte Population in Europa." },
+    facts: { ro: ["Peste 6000 de exemplare în Carpați."], en: ["Over 6000 individuals in the Carpathians."], hu: ["Több mint 6000 példány a Kárpátokban."], de: ["Über 6000 Exemplare in den Karpaten."] },
+    image: ""
+  },
+  {
+    id: "wild-rasul", type: "animal-habitat", parent: "RO-NT", coords: [26.0, 47.0],
+    name: { ro: "Râsul (Lynx)", en: "Carpathian Lynx", hu: "Kárpáti hiúz", de: "Karpatenluchs" },
+    description: { ro: "Cea mai mare felină sălbatică din Europa.", en: "The largest wild feline in Europe.", hu: "Európa legnagyobb vadmacskája.", de: "Die größte Wildkatze in Europa." },
+    facts: { ro: ["Trăiește în păduri dese."], en: ["Lives in dense forests."], hu: ["Sűrű erdőkben él."], de: ["Lebt in dichten Wäldern."] },
+    image: ""
+  },
+  {
+    id: "wild-zimbrul", type: "animal-habitat", parent: "RO-NT", coords: [26.2, 47.2],
+    name: { ro: "Zimbrul European", en: "European Bison", hu: "Európai bölény", de: "Wisent" },
+    description: { ro: "Cel mai mare mamifer terestru din Europa, reintrodus în natură.", en: "The largest land mammal in Europe, reintroduced.", hu: "Európa legnagyobb szárazföldi emlőse, visszatelepítve.", de: "Das größte Landsäugetier Europas, wieder eingeführt." },
+    facts: { ro: ["Prezent în rezervații precum Vânători-Neamț."], en: ["Present in reserves like Vânători-Neamț."], hu: ["Vânători-Neamț rezervátumában él."], de: ["Präsent im Reservat Vânători-Neamț."] },
+    image: ""
+  },
+  {
+    id: "wild-vidra", type: "animal-habitat", parent: "RO-TL", coords: [29.0, 45.0],
+    name: { ro: "Vidra", en: "Eurasian Otter", hu: "Vidra", de: "Fischotter" },
+    description: { ro: "Mamifer acvatic întâlnit în Delta Dunării și râuri.", en: "Aquatic mammal found in the Danube Delta and rivers.", hu: "A Duna-deltában és a folyókban élő vízi emlős.", de: "Wassersäugetier, das im Donaudelta und in Flüssen vorkommt." },
+    facts: { ro: ["Este un indicator al calității apei."], en: ["It is an indicator of water quality."], hu: ["A vízminőség indikátora."], de: ["Es ist ein Indikator für die Wasserqualität."] },
+    image: ""
+  },
+  {
+    id: "wild-pelicanul", type: "animal-habitat", parent: "RO-TL", coords: [29.4, 44.9],
+    name: { ro: "Pelicanul", en: "Pelican", hu: "Pelikán", de: "Pelikan" },
+    description: { ro: "Delta Dunării găzduiește cele mai mari colonii de pelicani.", en: "The Danube Delta hosts the largest colonies of pelicans.", hu: "A Duna-delta a legnagyobb pelikánkolóniáknak ad otthont.", de: "Das Donaudelta beherbergt die größten Pelikankolonien." },
+    facts: { ro: ["Pelicanul comun și creț sunt prezenți."], en: ["Great white and Dalmatian pelicans are present."], hu: ["Rózsás és borzas gödény egyaránt jelen van."], de: ["Rosapelikan und Krauskopfpelikan sind vertreten."] },
+    image: ""
+  },
+  {
+    id: "wild-capra-neagra", type: "animal-habitat", parent: "RO-SB", coords: [24.6, 45.6],
+    name: { ro: "Capra Neagră", en: "Chamois", hu: "Zerge", de: "Gämse" },
+    description: { ro: "Se găsește pe crestele stâncoase ale Carpaților.", en: "Found on the rocky ridges of the Carpathians.", hu: "A Kárpátok sziklás gerincein található.", de: "Zu finden auf den felsigen Kämmen der Karpaten." },
+    facts: { ro: ["Adaptat la mediul alpin."], en: ["Adapted to the alpine environment."], hu: ["Alpesi környezethez alkalmazkodott."], de: ["An die alpine Umgebung angepasst."] },
+    image: ""
+  },
+  {
+    id: "wild-sturionul", type: "animal-habitat", parent: "RO-TL", coords: [29.6, 45.1],
+    name: { ro: "Sturionii", en: "Sturgeons", hu: "Tokhalak", de: "Störe" },
+    description: { ro: "Pești preistorici care migrează din Marea Neagră în Dunăre.", en: "Prehistoric fish that migrate from the Black Sea to the Danube.", hu: "Őskori halak, amelyek a Fekete-tengerből a Dunába vándorolnak.", de: "Prähistorische Fische, die vom Schwarzen Meer in die Donau wandern." },
+    facts: { ro: ["Produc faimosul caviar."], en: ["Produce the famous caviar."], hu: ["A híres kaviárt adják."], de: ["Produzieren den berühmten Kaviar."] },
+    image: ""
+  },
+  {
+    id: "wild-marmota", type: "animal-habitat", parent: "RO-BV", coords: [24.7, 45.6],
+    name: { ro: "Marmota", en: "Marmot", hu: "Marmota", de: "Murmeltier" },
+    description: { ro: "Rozător specific zonelor alpine din Făgăraș și Retezat.", en: "Rodent specific to the alpine areas of Făgăraș and Retezat.", hu: "A Fogarasi-havasok és a Retyezát alpesi övezetének jellemző rágcsálója.", de: "Nagetier der alpinen Zonen von Făgăraș und Retezat." },
+    facts: { ro: ["Hibernează în timpul iernii."], en: ["Hibernates during winter."], hu: ["Télen téli álmot alszik."], de: ["Hält Winterschlaf."] },
+    image: ""
+  },
+  {
+    id: "wild-cocosul-de-munte", type: "animal-habitat", parent: "RO-SV", coords: [25.5, 47.4],
+    name: { ro: "Cocoșul de Munte", en: "Western Capercaillie", hu: "Siketfajd", de: "Auerhuhn" },
+    description: { ro: "Pasăre mare, specifică pădurilor de conifere.", en: "Large bird, specific to coniferous forests.", hu: "Nagytestű madár, tűlevelű erdőkben él.", de: "Großer Vogel, heimisch in Nadelwäldern." },
+    facts: { ro: ["Renumit pentru dansul nupțial spectaculos."], en: ["Famous for its spectacular mating dance."], hu: ["Látványos násztáncáról híres."], de: ["Berühmt für seinen spektakulären Balztanz."] },
+    image: ""
+  },
+  {
+    id: "wild-lupul", type: "animal-habitat", parent: "RO-HR", coords: [25.8, 46.5],
+    name: { ro: "Lupul Carpatin", en: "Carpathian Wolf", hu: "Kárpáti farkas", de: "Karpatenwolf" },
+    description: { ro: "România găzduiește una dintre cele mai mari populații de lupi din Europa.", en: "Romania hosts one of the largest wolf populations in Europe.", hu: "Romániában él Európa egyik legnagyobb farkaspopulációja.", de: "Rumänien beherbergt eine der größten Wolfspopulationen Europas." },
+    facts: { ro: ["Trăiesc în haite bine organizate."], en: ["They live in well-organized packs."], hu: ["Jól szervezett falkákban élnek."], de: ["Sie leben in gut organisierten Rudeln."] },
+    image: ""
+  }
+];
+
+// ---------------------------------------------------------------------------
+// 11) FOLCLOR ȘI ZONE ETNOGRAFICE (romaniaFolk)
+// ---------------------------------------------------------------------------
+export const romaniaFolk: POI[] = [
+  {
+    id: "folk-maramures", type: "region", parent: "RO-MM", coords: [24.0, 47.8],
+    name: { ro: "Țara Maramureșului", en: "Maramureș Region", hu: "Máramaros vidék", de: "Region Maramureș" },
+    description: { ro: "Cunoscută pentru bisericile de lemn și portul tradițional.", en: "Known for its wooden churches and traditional attire.", hu: "Fatemplomairól és hagyományos viseletéről ismert.", de: "Bekannt für seine Holzkirchen und traditionelle Kleidung." },
+    facts: { ro: ["Porțile de lemn sunt un simbol."], en: ["Wooden gates are a symbol."], hu: ["A fakapuk szimbólumok."], de: ["Holztore sind ein Symbol."] },
+    image: ""
+  },
+  {
+    id: "folk-bucovina", type: "region", parent: "RO-SV", coords: [25.5, 47.5],
+    name: { ro: "Bucovina", en: "Bukovina", hu: "Bukovina", de: "Bukowina" },
+    description: { ro: "Zonă faimoasă pentru mănăstirile pictate și încondeierea ouălor.", en: "Famous area for painted monasteries and egg painting.", hu: "A festett kolostorokról és a tojásírásról híres vidék.", de: "Bekannt für die bemalten Klöster und das Bemalen von Eiern." },
+    facts: { ro: ["Ceramica de Marginea este renumită."], en: ["Marginea ceramics are renowned."], hu: ["A margineai kerámia híres."], de: ["Marginea-Keramik ist berühmt."] },
+    image: ""
+  },
+  {
+    id: "folk-tara-motilor", type: "region", parent: "RO-AB", coords: [23.0, 46.4],
+    name: { ro: "Țara Moților", en: "Țara Moților (Land of the Moți)", hu: "Mócvidék", de: "Motzenland" },
+    description: { ro: "Zonă etnografică din Munții Apuseni, unde trăiesc moții.", en: "Ethnographic area in the Apuseni Mountains, where the Moți live.", hu: "Néprajzi vidék az Erdélyi-szigethegységben, a mócok hazája.", de: "Ethnographisches Gebiet im Apuseni-Gebirge, wo die Motzen leben." },
+    facts: { ro: ["Meșteșugul lemnului este specific."], en: ["Woodcrafting is specific here."], hu: ["A faművesség jellemző itt."], de: ["Die Holzkunst ist hier spezifisch."] },
+    image: ""
+  },
+  {
+    id: "folk-oltenia", type: "region", parent: "RO-GJ", coords: [23.5, 44.8],
+    name: { ro: "Oltenia Tradițională", en: "Traditional Oltenia", hu: "Hagyományos Olténia", de: "Traditionelles Oltenien" },
+    description: { ro: "Cunoscută pentru covoarele oltenești și ceramica de Horezu.", en: "Known for Oltenian carpets and Horezu ceramics.", hu: "Az olténiai szőnyegekről és a horezui kerámiáról ismert.", de: "Bekannt für oltenische Teppiche und Horezu-Keramik." },
+    facts: { ro: ["Ceramica de Horezu este în patrimoniul UNESCO."], en: ["Horezu ceramics are in UNESCO heritage."], hu: ["A horezui kerámia UNESCO örökség."], de: ["Horezu-Keramik gehört zum UNESCO-Kulturerbe."] },
+    image: ""
+  },
+  {
+    id: "folk-tara-oasului", type: "region", parent: "RO-SM", coords: [23.3, 47.9],
+    name: { ro: "Țara Oașului", en: "Oaș Country", hu: "Avasság (Avas)", de: "Oascher Land" },
+    description: { ro: "Regiune faimoasă pentru portul colorat și muzica tradițională.", en: "Region famous for colorful costumes and traditional music.", hu: "A színes viseletről és a hagyományos zenéről híres vidék.", de: "Region berühmt für bunte Trachten und traditionelle Musik." },
+    facts: { ro: ["Nuntile oșenești sunt spectaculoase."], en: ["Oaș weddings are spectacular."], hu: ["Az avasi esküvők látványosak."], de: ["Oascher Hochzeiten sind spektakulär."] },
+    image: ""
+  },
+  {
+    id: "folk-dobrogea", type: "region", parent: "RO-TL", coords: [28.5, 44.8],
+    name: { ro: "Tradiții Dobrogene", en: "Dobruja Traditions", hu: "Dobrudzsai hagyományok", de: "Dobrudscha Traditionen" },
+    description: { ro: "Mix cultural unic între români, turci, tătari și lipoveni.", en: "Unique cultural mix between Romanians, Turks, Tatars, and Lipovans.", hu: "Egyedülálló kulturális keverék románok, törökök, tatárok és lipovánok között.", de: "Einzigartige kulturelle Mischung aus Rumänen, Türken, Tataren und Lippowanern." },
+    facts: { ro: ["Gastronomia include pește și plăcinte."], en: ["Gastronomy includes fish and pies."], hu: ["A gasztronómia halat és lepényt tartalmaz."], de: ["Gastronomie umfasst Fisch und Pasteten."] },
+    image: ""
+  },
+  {
+    id: "folk-transilvania-saseasca", type: "region", parent: "RO-SB", coords: [24.5, 46.0],
+    name: { ro: "Transilvania Săsească", en: "Saxon Transylvania", hu: "Szász Erdély", de: "Siebenbürgen (sächsisch)" },
+    description: { ro: "Zonă marcată de satele cu biserici fortificate construite de sași.", en: "Area marked by villages with fortified churches built by Saxons.", hu: "A szászok által épített erődtemplomos falvakkal jellemezhető vidék.", de: "Gegend, die von Dörfern mit von Sachsen erbauten Kirchenburgen geprägt ist." },
+    facts: { ro: ["Multe biserici fortificate sunt UNESCO."], en: ["Many fortified churches are UNESCO."], hu: ["Sok erődtemplom UNESCO örökség."], de: ["Viele Kirchenburgen sind UNESCO."] },
+    image: ""
+  },
+  {
+    id: "folk-tara-fagarasului", type: "region", parent: "RO-BV", coords: [24.8, 45.8],
+    name: { ro: "Țara Făgărașului", en: "Făgăraș Country", hu: "Fogarasföld", de: "Fogarascher Land" },
+    description: { ro: "Regiune istorică bogată în tradiții transilvănene.", en: "Historical region rich in Transylvanian traditions.", hu: "Erdélyi hagyományokban gazdag történelmi régió.", de: "Historische Region reich an siebenbürgischen Traditionen." },
+    facts: { ro: ["Faimoasă pentru cetatea Făgăraș."], en: ["Famous for Făgăraș Fortress."], hu: ["A fogarasi várról híres."], de: ["Berühmt für die Festung Fogarasch."] },
+    image: ""
+  },
+  {
+    id: "folk-marginimea-sibiului", type: "region", parent: "RO-SB", coords: [23.9, 45.7],
+    name: { ro: "Mărginimea Sibiului", en: "Mărginimea Sibiului", hu: "Szeben-hegyalja", de: "Mărginimea Sibiului" },
+    description: { ro: "Zonă etnografică pastorală din apropierea Sibiului.", en: "Pastoral ethnographic area near Sibiu.", hu: "Pásztorkodó néprajzi vidék Nagyszeben közelében.", de: "Pastorales ethnographisches Gebiet in der Nähe von Sibiu." },
+    facts: { ro: ["Cunoscută pentru brânza de oaie."], en: ["Known for sheep cheese."], hu: ["Juhtúrójáról ismert."], de: ["Bekannt für Schafskäse."] },
+    image: ""
+  }
+];
+
+// ---------------------------------------------------------------------------
+// 12) ÖSSZES POI EGYBEFŰZVE
+// ---------------------------------------------------------------------------
 export const romaniaAllPois: POI[] = [
   ...romaniaCountry,
   ...romaniaRegions,
@@ -1084,4 +1385,8 @@ export const romaniaAllPois: POI[] = [
   ...romaniaNature,
   ...romaniaHistorical,
   ...romaniaLandmarks,
+  ...romaniaCulture,
+  ...romaniaTraditions,
+  ...romaniaWildlife,
+  ...romaniaFolk,
 ];

@@ -810,28 +810,28 @@ function GeographieGameSwitch({
   if (gameId === "deutschland-map") {
     return <InteractiveMap lang={lang} subject="geographie" grade={grade} initialPoiId={initialPoiId} />;
   }
-  const pool = GEOGRAPHY_POOLS[grade];
+  const pool = GEOGRAPHY_POOLS;
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
     case "meteor-catch": {
       const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <MeteorCatchGame round={round as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "orbit-sort": {
       const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <OrbitSortGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "signal-runner": {
       const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <SignalRunnerGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "constellation-builder": {
       const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <ConstellationBuilderGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
       const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
@@ -851,23 +851,23 @@ function PhysikGameSwitch({
   switch (gameId) {
     case "meteor-catch": {
       const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <MeteorCatchGame round={round as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "orbit-sort": {
       const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <OrbitSortGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "signal-runner": {
       const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <SignalRunnerGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "constellation-builder": {
       const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <ConstellationBuilderGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
       const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
@@ -884,23 +884,23 @@ function KemiaGameSwitch({
   switch (gameId) {
     case "meteor-catch": {
       const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <MeteorCatchGame round={round as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "orbit-sort": {
       const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <OrbitSortGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "signal-runner": {
       const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <SignalRunnerGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "constellation-builder": {
       const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <ConstellationBuilderGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
       const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
@@ -920,23 +920,23 @@ function BiologieGameSwitch({
   switch (gameId) {
     case "meteor-catch": {
       const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <MeteorCatchGame round={round as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "orbit-sort": {
       const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <OrbitSortGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "signal-runner": {
       const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <SignalRunnerGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "constellation-builder": {
       const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <ConstellationBuilderGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
       const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;
@@ -956,23 +956,23 @@ function GeschichteGameSwitch({
   switch (gameId) {
     case "meteor-catch": {
       const round = pickRound(pool.meteorCatch, undefined);
-      return round ? <MeteorCatchGame round={round} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <MeteorCatchGame round={round as any} onDone={() => {}} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "orbit-sort": {
       const round = pickRound(pool.orbitSort, undefined);
-      return round ? <OrbitSortGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <OrbitSortGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "signal-runner": {
       const round = pickRound(pool.signalRunner, undefined);
-      return round ? <SignalRunnerGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <SignalRunnerGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "constellation-builder": {
       const round = pickRound(pool.constellationBuilder, undefined);
-      return round ? <ConstellationBuilderGame round={round} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return round ? <ConstellationBuilderGame round={round as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     case "memory-radar": {
       const rounds = pool.memoryRadar.slice(0, 3);
-      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds} /> : <FallbackBox title={gameId} info={tSoon} />;
+      return rounds.length > 0 ? <MemoryRadarGame rounds={rounds as any} /> : <FallbackBox title={gameId} info={tSoon} />;
     }
     default:
       return <FallbackBox title={gameId} info={tSoon} />;

@@ -102,7 +102,7 @@ export default function CodeCommanderGame({
         </div>
         <div className="bg-black/60 px-3 py-1 rounded-full border border-green-400/20 text-xs font-mono"
           style={{ color: "#39ff14" }}>
-          {round.instruction}
+          {round.instruction.hu}
         </div>
       </div>
 
