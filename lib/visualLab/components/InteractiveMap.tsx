@@ -93,7 +93,7 @@ function poiColor(type: POI["type"]): string {
 }
 
 const MIN_SCALE = 1;
-const MAX_SCALE = 15;
+const MAX_SCALE = 30;
 
 // K1-K2 simplified mode: only these POI types are shown
 const SIMPLIFIED_TYPES = new Set<POI["type"]>(["state-capital", "river", "mountain", "sea", "animal-habitat", "kid-landmark"]);
@@ -577,8 +577,8 @@ export const InteractiveMap = ({
                 const [cx, cy] = projectCoords(p.coords[0], p.coords[1]);
                 const isSel = selectedPoiId === p.id;
                 const isFav = favorites.has(p.id);
-                const baseR = isSimplified ? 14 : 11;
-                const r = (isSel ? baseR + 3 : baseR) / view.scale;
+                const baseR = isSimplified ? 11 : 8;
+                const r = (isSel ? baseR + 2 : baseR) / view.scale;
                 // Touch-target: kompromisszum — elég nagy kattintani, de nem fed át szomszéd POI-val
                 const touchR = Math.max(r * 2.2, 14 / view.scale);
                 const color = poiColor(p.type);
