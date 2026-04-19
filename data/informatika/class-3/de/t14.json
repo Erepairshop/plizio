@@ -1,0 +1,331 @@
+{
+  "id": "info-c3-de-t14",
+  "title": "Tabelle Grundlagen",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 1)",
+      "options": [
+        "Falsche Antwort B",
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 2)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 3)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 4)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 5)",
+      "options": [
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 6)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort B",
+        "Falsche Antwort A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 7)",
+      "options": [
+        "Falsche Antwort B",
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 8)",
+      "options": [
+        "Falsche Antwort B",
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 9)",
+      "options": [
+        "Falsche Antwort B",
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 10)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 11)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort B",
+        "Falsche Antwort A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 12)",
+      "options": [
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 13)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 14)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 15)",
+      "options": [
+        "Falsche Antwort B",
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 16)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 17)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 18)",
+      "options": [
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 19)",
+      "options": [
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 20)",
+      "options": [
+        "Falsche Antwort B",
+        "Falsche Antwort A",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 21)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 22)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 23)",
+      "options": [
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Richtige Antwort zu Tabelle Grundlagen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 24)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "Was ist wichtig bei: Tabelle Grundlagen? (Frage 25)",
+      "options": [
+        "Richtige Antwort zu Tabelle Grundlagen",
+        "Falsche Antwort A",
+        "Falsche Antwort B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "Tippe diesen Text über Tabelle Grundlagen."
+    }
+  ]
+}

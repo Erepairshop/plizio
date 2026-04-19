@@ -1,0 +1,331 @@
+{
+  "id": "info-c3-hu-t08",
+  "title": "E-mail (Alapok)",
+  "tasks": [
+    {
+      "id": "mcq-1",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 1)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-2",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 2)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-3",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 3)",
+      "options": [
+        "Rossz válasz B",
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-4",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 4)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-5",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 5)",
+      "options": [
+        "Rossz válasz B",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-6",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 6)",
+      "options": [
+        "Rossz válasz B",
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-7",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 7)",
+      "options": [
+        "Rossz válasz B",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-8",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 8)",
+      "options": [
+        "Rossz válasz B",
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-9",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 9)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-10",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 10)",
+      "options": [
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-11",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 11)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz A",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-12",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 12)",
+      "options": [
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-13",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 13)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz A",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-14",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 14)",
+      "options": [
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-15",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 15)",
+      "options": [
+        "Rossz válasz B",
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-16",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 16)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B",
+        "Rossz válasz A"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-17",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 17)",
+      "options": [
+        "Rossz válasz A",
+        "Rossz válasz B",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-18",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 18)",
+      "options": [
+        "Rossz válasz A",
+        "Rossz válasz B",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-19",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 19)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz A",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-20",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 20)",
+      "options": [
+        "Rossz válasz B",
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-21",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 21)",
+      "options": [
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz A",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mcq-22",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 22)",
+      "options": [
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mcq-23",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 23)",
+      "options": [
+        "Rossz válasz A",
+        "Rossz válasz B",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-24",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 24)",
+      "options": [
+        "Rossz válasz A",
+        "Rossz válasz B",
+        "Helyes válasz: E-mail (Alapok)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mcq-25",
+      "type": "multiple_choice",
+      "question": "Mi a fontos itt: E-mail (Alapok)? (Kérdés 25)",
+      "options": [
+        "Rossz válasz A",
+        "Helyes válasz: E-mail (Alapok)",
+        "Rossz válasz B"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-5",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-6",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-7",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-8",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-9",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    },
+    {
+      "id": "typing-10",
+      "type": "typing",
+      "text": "Gépeld be ezt a szöveget: E-mail (Alapok)."
+    }
+  ]
+}
