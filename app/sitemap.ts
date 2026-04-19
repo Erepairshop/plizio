@@ -48,7 +48,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const poiUrls = SUPPORTED_LANGS.flatMap((lang) =>
     pois
-      .filter((poi) => poi.type !== "region" && poi.type !== "country")
+      .filter((poi) => poi && poi.type !== "region" && poi.type !== "country")
       .map((poi) => ({
         url: `${SITE_URL}${buildPoiPath(lang, poi)}`,
         lastModified,

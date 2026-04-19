@@ -43,7 +43,7 @@ function geographicFacts(poi: POI) {
 export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) =>
     pois
-      .filter((poi) => poi.type !== "region" && poi.type !== "country")
+      .filter((poi) => poi && poi.type !== "region" && poi.type !== "country")
       .map((poi) => ({
         lang,
         country: countrySlugFor(lang, getCountryId(poi.parent)),
