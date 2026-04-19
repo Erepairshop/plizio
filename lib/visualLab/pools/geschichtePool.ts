@@ -1,7 +1,7 @@
 import type { GeographieVisualLabGradePool } from "@/lib/visualLab/types";
 
 // Helper for generating multilingual text
-const ml = (de: string, en: string, hu: string, ro: string) => `${de} / ${en} / ${hu} / ${ro}`;
+const ml = (de: string, en: string, hu: string, ro: string) => ({ de, en, hu, ro });
 
 export const GESCHICHTE_POOLS: Record<number, GeographieVisualLabGradePool> = {
   5: {
