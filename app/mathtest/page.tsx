@@ -1103,6 +1103,16 @@ function MathTestPageInner() {
         questionsHtml = questions.map((q, i) => {
           const pts = q.maxPoints || 1;
           const sectionTag = q.section ? `<div class="section-label">${q.section}</div>` : "";
+          
+          let answerArea = '<div class="answer-box"></div>';
+          if (q.options && q.options.length > 0) {
+            const optsHtml = q.options.map((opt: any, optIdx: number) => {
+              const letter = String.fromCharCode(65 + optIdx);
+              return `<div style="display:flex; align-items:center; gap:8px;"><div style="width:16px; height:16px; border:1.5px solid #1F2937; border-radius:2px;"></div> ${letter}) ${opt}</div>`;
+            }).join("");
+            answerArea = `<div style="display:grid; grid-template-columns: 1fr 1fr; gap:12px; margin-top:12px; margin-bottom:8px;">${optsHtml}</div>`;
+          }
+
           return `
             ${sectionTag}
             <div class="question">
@@ -1111,7 +1121,7 @@ function MathTestPageInner() {
                 <span class="q-text">${q.question}</span>
                 <span class="q-pts">(${pts} ${ui?.pointsUnit || 'pts'})</span>
               </div>
-              <div class="answer-box"></div>
+              ${answerArea}
             </div>`;
         }).join("");
       }

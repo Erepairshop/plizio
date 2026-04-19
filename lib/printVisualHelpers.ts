@@ -17,8 +17,14 @@ function aLabel(cc: CC): string {
 }
 
 function blankLine(cc: CC, unit?: string): string {
-  const u = unit ? ` ${unit}` : '';
-  return `<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${aLabel(cc)}:</b> <span class="blank-line">________</span>${u}</div>`;
+  const u = unit ? ` <span style="font-size:11pt;">${unit}</span>` : '';
+  const lbl = aLabel(cc);
+  return `<div style="text-align:center; font-size:9pt; color:#6b7280; margin-top:6px;">${lbl}:</div>
+<div style="display:flex; gap:8px; justify-content:center; align-items:center; margin-top:2px;">
+  <div style="border:1.5px solid #1F2937; border-radius:4px; width:40px; height:40px;"></div>
+  <div style="border:1.5px solid #1F2937; border-radius:4px; width:40px; height:40px;"></div>
+  ${u}
+</div>`;
 }
 
 // ─── CLOCK SVG (shared by uhrzeit, g1-clock) ─────────────────────────────
@@ -28,7 +34,7 @@ function clockSvg(hour: number, minute: number): string {
   const hRad = hAngle * Math.PI / 180;
   const mRad = mAngle * Math.PI / 180;
   const lines: string[] = [];
-  lines.push(`<div style="text-align:center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="white" stroke="#374151" stroke-width="2"/>`);
+  lines.push(`<div style="text-align:center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="none" stroke="#374151" stroke-width="2"/>`);
   for (let i = 1; i <= 12; i++) {
     const a = (i * 30 - 90) * Math.PI / 180;
     lines.push(`<text x="${50 + 36 * Math.cos(a)}" y="${50 + 36 * Math.sin(a)}" text-anchor="middle" dominant-baseline="central" font-size="9" font-weight="700" fill="#374151">${i}</text>`);
@@ -212,7 +218,7 @@ export function renderVisualPrintHtml(
     case 'g1-grid-count': {
       const grid = p.grid as boolean[][];
       const html: string[] = [];
-      html.push('<div style="display:inline-block; margin:4px auto; border:1px solid #d1d5db;">');
+      html.push('<div style="display:inline-block; margin:4px auto;">');
       grid.forEach(row => {
         html.push('<div style="display:flex;">');
         row.forEach(filled => {
