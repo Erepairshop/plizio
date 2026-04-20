@@ -3587,7 +3587,7 @@ export const pois: POI[] = [
       ro: ["Locul unde a fost găsit faimosul Archaeopteryx.", "Zonă populară pentru canoiști și cicloturiști."],
       en: ["Finding site of the famous Archaeopteryx.", "Popular area for canoeists and cyclists."]
     },
-    image: "/geo-images/germany/altmuehltal.webp",
+    image: "/geo-images/germany/altmuhltal.webp",
   },
   {
     id: "mountain-wilseder-berg",

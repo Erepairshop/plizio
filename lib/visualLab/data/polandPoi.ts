@@ -320,7 +320,7 @@ export const polandRegions: POI[] = [
       ro: ["Două capitale: Gorzów Wielkopolski și Zielona Góra.", "Cea mai împădurită regiune din Polonia.", "Zielona Góra este renumită pentru podgoriile sale istorice.", "Împarte o graniță lungă de vest cu Germania.", "Găzduiește Parcul Național Ujście Warty, o zonă umedă crucială.", "Unul dintre cele mai puțin populate voievodate.", "Peisajul este bogat în lacuri post-glaciare.", "Servește ca un coridor de tranzit important."],
       en: ["Two capitals: Gorzów Wielkopolski and Zielona Góra.", "Most heavily forested region in Poland.", "Zielona Góra is renowned for its historical vineyards.", "Shares a long western border with Germany.", "Features the Ujście Warty National Park, a crucial wetland.", "One of the least populated voivodeships.", "Landscape is rich in post-glacial lakes.", "Serves as an important transit corridor."],
     },
-    image: "/geo-images/poland/lubuskie.webp",
+    image: "/geo-images/poland/lubelskie.webp",
   },
   {
     id: "PL-OP",
