@@ -40,13 +40,17 @@ import { norwayMap, norwayViewBox, projectCoordsNO } from "./norway.svg";
 import { norwayAllPoi } from "../data/norwayPoi";
 import { finlandMap, finlandViewBox, projectCoordsFI } from "./finland.svg";
 import { finlandAllPoi } from "../data/finlandPoi";
+import { switzerlandMap, switzerlandViewBox, projectCoordsCH } from "./switzerland.svg";
+import { switzerlandAllPoi } from "../data/switzerlandPoi";
+import { czechRepublicMap, czechRepublicViewBox, projectCoordsCZ } from "./czechRepublic.svg";
+import { czechRepublicAllPoi } from "../data/czechRepublicPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -208,6 +212,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: finlandViewBox,
         projectCoords: projectCoordsFI,
         pois: finlandAllPoi,
+        subregions: {},
+      };
+    case "ch":
+      return {
+        countryId: "CH",
+        map: switzerlandMap as unknown as BundeslandPath[],
+        viewBox: switzerlandViewBox,
+        projectCoords: projectCoordsCH,
+        pois: switzerlandAllPoi,
+        subregions: {},
+      };
+    case "cz":
+      return {
+        countryId: "CZ",
+        map: czechRepublicMap as unknown as BundeslandPath[],
+        viewBox: czechRepublicViewBox,
+        projectCoords: projectCoordsCZ,
+        pois: czechRepublicAllPoi,
         subregions: {},
       };
     case "de":
