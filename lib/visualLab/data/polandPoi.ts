@@ -1924,6 +1924,286 @@ export const polandCities: POI[] = [
       en: ["Protects the impressive steep coast of Wolin Island.", "The highest cliff reaches nearly 100 meters.", "Houses a reserve for European bison.", "Important resting place for migratory birds.", "Home of the majestic white-tailed eagle.", "The island hosts Europe's largest Viking festival."]
     },
     image: "/geo-images/poland/wolin-np.webp"
+  },
+  {
+    id: "pl-lublin-old-town",
+    type: "historical",
+    parent: "PL-LU",
+    coords: [22.5697, 51.2471],
+    name: { de: "Altstadt von Lublin", hu: "Lublini óváros", ro: "Orașul Vechi din Lublin", en: "Lublin Old Town" },
+    description: {
+      de: "Die Altstadt von Lublin verbindet mittelalterliche Straßenzüge mit einer starken Mischung aus gotischer, Renaissance- und Barockarchitektur. Der Stadtteil liegt auf einem Hügel über dem alten Stadtkern und ist für seine Tore, Innenhöfe und engen Gassen bekannt. Er war über Jahrhunderte ein Ort des Handels und des kulturellen Austauschs. Heute zählt er zu den atmosphärischsten historischen Vierteln Ostpolens.",
+      hu: "A lublini óváros középkori utcahálózatot, gótikus, reneszánsz és barokk építészetet ötvöz. A városrész egy dombon fekszik a régi városmag fölött, és kapuiról, belső udvarairól és szűk utcáiról ismert. Évszázadokon át a kereskedelem és a kulturális találkozások helye volt. Ma Kelet-Lengyelország egyik leghangulatosabb történelmi negyedének számít.",
+      ro: "Orașul Vechi din Lublin combină străzi medievale cu un amestec puternic de arhitectură gotică, renascentistă și barocă. Cartierul se află pe un deal deasupra centrului vechi și este cunoscut pentru porțile, curțile interioare și aleile înguste. Timp de secole a fost un loc al comerțului și al schimbului cultural. Astăzi este unul dintre cele mai atmosferice cartiere istorice din estul Poloniei.",
+      en: "Lublin Old Town combines medieval street patterns with a strong mix of Gothic, Renaissance, and Baroque architecture. The district sits on a hill above the old city core and is known for its gates, courtyards, and narrow lanes. For centuries it was a place of trade and cultural exchange. Today it is one of the most atmospheric historic quarters in eastern Poland."
+    },
+    facts: {
+      de: ["Historisches Herz von Lublin.", "Bekannt für die Krakauer Pforte und andere Stadttore.", "Vereint gotische, Renaissance- und Barockelemente.", "War ein wichtiger Handels- und Marktbereich.", "Liegt oberhalb des alten Stadtkerns auf einem Hügel.", "Ein zentraler Ort für Feste und Stadtleben."],
+      hu: ["Lublin történelmi szíve.", "Ismert a Krakowska kapuról és más városkapukról.", "Gótikus, reneszánsz és barokk elemeket ötvöz.", "Fontos kereskedelmi és piaci terület volt.", "A régi városmag fölött, dombon található.", "A városi ünnepek és események központja."],
+      ro: ["Inima istorică a Lublinului.", "Cunoscut pentru Poarta Cracoviei și alte porți ale orașului.", "Îmbină elemente gotice, renascentiste și baroce.", "A fost o zonă importantă de comerț și piață.", "Se află pe un deal deasupra vechiului centru.", "Un loc central pentru festivaluri și viața orașului."],
+      en: ["The historic heart of Lublin.", "Known for the Kraków Gate and other city gates.", "Blends Gothic, Renaissance, and Baroque elements.", "Was an important trade and market area.", "Sits on a hill above the old city core.", "A central place for festivals and city life."]
+    },
+    image: "/geo-images/poland/lublin-old-town.webp"
+  },
+  {
+    id: "pl-zamosc-rynek",
+    type: "historical",
+    parent: "PL-LU",
+    coords: [23.2528, 50.7230],
+    name: { de: "Marktplatz von Zamość", hu: "Zamość főtere", ro: "Piața din Zamość", en: "Zamość Market Square" },
+    description: {
+      de: "Der Marktplatz von Zamość ist der repräsentative Mittelpunkt einer geplanten Renaissance-Stadt. Farbig gefasste Bürgerhäuser, Arkaden und das markante Rathaus prägen das Bild des Platzes. Die Anlage entstand als Teil einer idealen Stadtidee der frühen Neuzeit. Heute ist der Platz eines der bekanntesten Postkartenmotive Südostpolens.",
+      hu: "A zamośći főtér egy tervezett reneszánsz város reprezentatív központja. Színes polgárházak, árkádok és a jellegzetes városháza határozzák meg a tér képét. Az egész város az újkor elejének ideális városeszményét követte. Ma ez Délkelet-Lengyelország egyik legismertebb képeslapképe.",
+      ro: "Piața din Zamość este centrul reprezentativ al unui oraș renascentist planificat. Casele colorate ale negustorilor, arcadele și primăria distinctivă definesc imaginea pieței. Ansamblul a apărut ca parte a ideii de oraș ideal din epoca modernă timpurie. Astăzi este una dintre cele mai cunoscute imagini emblematice din sud-estul Poloniei.",
+      en: "The Zamość Market Square is the representative center of a planned Renaissance city. Colorful townhouses, arcades, and the distinctive town hall define the square's character. The whole urban layout followed an early modern ideal-city concept. Today it is one of the best-known postcard views in southeastern Poland."
+    },
+    facts: {
+      de: ["Teil der UNESCO-geschützten Altstadt von Zamość.", "Entstand als geplante Renaissance-Stadt.", "Das Rathaus mit der breiten Freitreppe ist ein Wahrzeichen.", "Umgeben von farbigen Bürgerhäusern mit Arkaden.", "Diente als Handels- und Verwaltungszentrum.", "Zählt zu den bestbekannten Plätzen in der Region."],
+      hu: ["A zamośći UNESCO-védett óváros része.", "Tervezett reneszánsz városként jött létre.", "A széles lépcsős városháza jelképes épület.", "Árkádos, színes polgárházak veszik körül.", "Kereskedelmi és igazgatási központként működött.", "A régió egyik legismertebb tere."],
+      ro: ["Face parte din orașul vechi protejat UNESCO.", "A fost conceput ca un oraș renascentist planificat.", "Primăria cu scara mare este un reper al locului.", "Este înconjurată de case colorate cu arcade.", "A servit drept centru comercial și administrativ.", "Este una dintre cele mai cunoscute piețe din regiune."],
+      en: ["Part of Zamość's UNESCO-protected old town.", "Created as a planned Renaissance city.", "The town hall with its wide staircase is a landmark.", "Surrounded by colorful arcaded townhouses.", "Served as a trade and administrative center.", "It is one of the region's most recognizable squares."]
+    },
+    image: "/geo-images/poland/zamosc-rynek.webp"
+  },
+  {
+    id: "pl-pelplin-cathedral",
+    type: "historical",
+    parent: "PL-PM",
+    coords: [18.6950, 53.9280],
+    name: { de: "Dom zu Pelplin", hu: "Pelplini székesegyház", ro: "Catedrala din Pelplin", en: "Pelplin Cathedral" },
+    description: {
+      de: "Der Dom zu Pelplin ist ein monumentales gotisches Kirchenbauwerk und das spirituelle Zentrum der Stadt. Seine hohe Backsteinarchitektur macht ihn zu einem der eindrucksvollsten Sakralbauten Nordpolens. Das Innere verbindet historische Stille mit reich ausgestatteten Altären und Kunstwerken. Zusammen mit dem ehemaligen Klosterensemble prägt er das Stadtbild von Pelplin bis heute.",
+      hu: "A pelplini székesegyház monumentális gótikus templomépület és a város spirituális központja. Magas téglaépítészete Észak-Lengyelország egyik legimpozánsabb szakrális épületévé teszi. Belseje történelmi nyugalmat, gazdag oltárokat és műalkotásokat egyesít. Az egykori kolostoregyüttessel együtt ma is Pelplin városképének meghatározó eleme.",
+      ro: "Catedrala din Pelplin este un edificiu gotic monumental și centrul spiritual al orașului. Arhitectura sa înaltă din cărămidă o face una dintre cele mai impresionante construcții sacre din nordul Poloniei. Interiorul combină liniștea istorică cu altare bogate și opere de artă. Împreună cu fostul ansamblu monastic, definește și astăzi peisajul urban din Pelplin.",
+      en: "Pelplin Cathedral is a monumental Gothic church and the spiritual center of the town. Its tall brick architecture makes it one of the most impressive sacred buildings in northern Poland. The interior combines a historic atmosphere with richly decorated altars and artworks. Together with the former monastery complex, it still defines the townscape of Pelplin today."
+    },
+    facts: {
+      de: ["Eines der bedeutendsten gotischen Kirchengebäude in Polen.", "War Teil eines großen Zisterzienserklosters.", "Bekannt für seine hoch aufragende Backsteinarchitektur.", "Bewahrt wertvolle Altäre und sakrale Kunst.", "Prägt das historische Zentrum von Pelplin.", "Ein wichtiges Denkmal der Kirchen- und Regionalgeschichte."],
+      hu: ["Lengyelország egyik legjelentősebb gótikus temploma.", "Egy nagy ciszterci kolostor része volt.", "Magas, téglaépítészetéről ismert.", "Értékes oltárokat és egyházi művészetet őriz.", "Meghatározza Pelplin történelmi központját.", "Fontos egyházi és regionális történelmi emlék."],
+      ro: ["Una dintre cele mai importante biserici gotice din Polonia.", "A făcut parte dintr-o mare mănăstire cisterciană.", "Cunoscută pentru arhitectura sa înaltă din cărămidă.", "Păstrează altare valoroase și artă sacră.", "Definește centrul istoric al orașului Pelplin.", "Un monument important al istoriei ecleziastice și regionale."],
+      en: ["One of the most important Gothic churches in Poland.", "It was part of a large Cistercian monastery complex.", "Known for its tall brick architecture.", "Preserves valuable altars and sacred art.", "Shapes the historic center of Pelplin.", "An important monument of church and regional history."]
+    },
+    image: "/geo-images/poland/pelplin-cathedral.webp"
+  },
+  {
+    id: "pl-ksiaz-castle",
+    type: "historical",
+    parent: "PL-DS",
+    coords: [16.6566, 50.8433],
+    name: { de: "Schloss Książ", hu: "Książ kastély", ro: "Castelul Książ", en: "Książ Castle" },
+    description: {
+      de: "Schloss Książ erhebt sich eindrucksvoll über einem bewaldeten Tal und gehört zu den bekanntesten Schlössern Polens. Seine Geschichte reicht vom Mittelalter bis in die Gegenwart und verbindet Adelsresidenz, Kriegszeit und Restaurierung. Die mächtigen Fassaden und Terrassen machen den Komplex besonders fotogen. Unter dem Schloss verbirgt sich zudem ein Teil der rätselhaften Untertageanlagen aus der Zeit des Zweiten Weltkriegs.",
+      hu: "A Książ kastély látványosan emelkedik egy erdős völgy fölé, és Lengyelország egyik legismertebb kastélya. Története a középkortól napjainkig ível, és nemesi rezidenciát, háborús időszakot, majd helyreállítást kapcsol össze. A hatalmas homlokzatok és teraszok különösen fotogénné teszik az együttest. A kastély alatt a második világháború idejéből származó föld alatti létesítmények egy része is rejtőzik.",
+      ro: "Castelul Książ se ridică impresionant deasupra unei văi împădurite și este unul dintre cele mai cunoscute castele din Polonia. Istoria sa se întinde din Evul Mediu până în prezent și combină reședința nobilă, perioada de război și restaurarea. Fațadele puternice și terasele îl fac deosebit de fotogenic. Sub castel se ascunde și o parte din instalațiile subterane misterioase din timpul celui de-al Doilea Război Mondial.",
+      en: "Książ Castle rises dramatically above a wooded valley and is one of the best-known castles in Poland. Its history stretches from the Middle Ages to the present and combines aristocratic residence, wartime history, and restoration. The massive facades and terraces make the complex especially photogenic. Beneath the castle, part of the mysterious underground works from World War II is also hidden."
+    },
+    facts: {
+      de: ["Eines der größten Schlösser in Polen.", "Liegt oberhalb einer tiefen, bewaldeten Schlucht.", "Verbindet mittelalterliche Ursprünge mit barocken Umbauten.", "Bekannt für seine großen Terrassen und Gärten.", "Spielt eine Rolle in den Geschichten rund um den Zweiten Weltkrieg.", "Ein Besuchsziel mit starker touristischer Anziehungskraft."],
+      hu: ["Lengyelország egyik legnagyobb kastélya.", "Egy mély, erdős szurdok fölött áll.", "Középkori eredetet és barokk átépítést is őriz.", "Híres nagy teraszairól és kertjeiről.", "A második világháború történetéhez is kapcsolódik.", "Népszerű és erős turisztikai vonzerővel bíró hely."],
+      ro: ["Unul dintre cele mai mari castele din Polonia.", "Se află deasupra unei chei adânci și împădurite.", "Îmbină origini medievale cu remodelări baroce.", "Cunoscut pentru terasele și grădinile sale mari.", "Este legat de istoriile celui de-al Doilea Război Mondial.", "O destinație turistică foarte atractivă."],
+      en: ["One of the largest castles in Poland.", "Sits above a deep, wooded gorge.", "Combines medieval origins with Baroque remodeling.", "Known for its large terraces and gardens.", "Connected to World War II history and underground works.", "A highly attractive tourist destination."]
+    },
+    image: "/geo-images/poland/ksiaz-castle.webp"
+  },
+  {
+    id: "pl-pszczyna-palace",
+    type: "historical",
+    parent: "PL-SL",
+    coords: [18.9498, 50.0206],
+    name: { de: "Palast von Pszczyna", hu: "Pszczyna-palota", ro: "Palatul din Pszczyna", en: "Pszczyna Palace" },
+    description: {
+      de: "Der Palast von Pszczyna ist eine der elegantesten Residenzen in Südpolen. Er bewahrt einen großbürgerlichen, fast vollständig erhaltenen Interieurschatz aus dem 19. und frühen 20. Jahrhundert. Der Palast liegt in einem weitläufigen Park und vermittelt das Bild einer aristokratischen Welt in ruhiger Form. Seine Räume, Salons und Sammlungen machen ihn zu einem der feinsten historischen Besuche im Schlesischen Raum.",
+      hu: "A Pszczyna-palota Dél-Lengyelország egyik legelegánsabb rezidenciája. A 19. és 20. század elejéről szinte teljesen megőrzött, főúri enteriőröket őriz. A palota egy nagy parkban áll, és a nyugodt arisztokratikus világ képét nyújtja. Szobái, szalonjai és gyűjteményei a sziléziai térség egyik legfinomabb történelmi látnivalójává teszik.",
+      ro: "Palatul din Pszczyna este una dintre cele mai elegante reședințe din sudul Poloniei. Păstrează un interior nobil, aproape complet conservat, din secolul al XIX-lea și începutul secolului XX. Palatul este situat într-un parc întins și oferă imaginea unei lumi aristocratice liniștite. Sălile, saloanele și colecțiile sale îl fac una dintre cele mai rafinate vizite istorice din Silezia.",
+      en: "The Pszczyna Palace is one of the most elegant residences in southern Poland. It preserves a nearly fully intact aristocratic interior from the 19th and early 20th centuries. The palace sits within a large park and conveys the image of a calm aristocratic world. Its rooms, salons, and collections make it one of the finest historic visits in the Silesian region."
+    },
+    facts: {
+      de: ["Bekannt für seine außergewöhnlich gut erhaltenen Innenräume.", "Ehemalige Residenz einer Adelsfamilie.", "Liegt in einem großen historischen Park.", "Gilt als einer der schönsten Paläste in Polen.", "Spiegelt den Lebensstil der Oberschicht des 19. Jahrhunderts wider.", "Ein wichtiger Kulturort in Oberschlesien."],
+      hu: ["Kivételesen jól megőrzött enteriőrjeiről ismert.", "Egy arisztokrata család egykori rezidenciája volt.", "Nagy történelmi parkban található.", "Lengyelország egyik legszebb palotájának tartják.", "A 19. századi felsőbb osztály életmódját mutatja be.", "Fontos kulturális helyszín Felső-Sziléziában."],
+      ro: ["Cunoscut pentru interioarele sale excepțional de bine păstrate.", "A fost fosta reședință a unei familii nobiliare.", "Se află într-un parc istoric mare.", "Este considerat unul dintre cele mai frumoase palate din Polonia.", "Reflectă stilul de viață al elitei secolului al XIX-lea.", "Un loc cultural important în Silezia Superioară."],
+      en: ["Known for its exceptionally well-preserved interiors.", "It was once the residence of an aristocratic family.", "Located in a large historic park.", "Considered one of the most beautiful palaces in Poland.", "Reflects the lifestyle of 19th-century high society.", "An important cultural site in Upper Silesia."]
+    },
+    image: "/geo-images/poland/pszczyna-palace.webp"
+  },
+  {
+    id: "pl-bieszczady",
+    type: "mountain",
+    parent: "PL-PK",
+    coords: [22.7300, 49.1700],
+    name: { de: "Bieszczady", hu: "Bieszczady", ro: "Bieszczady", en: "Bieszczady" },
+    description: {
+      de: "Die Bieszczady sind eine abgelegene Gebirgsregion im äußersten Südosten Polens und stehen für weite Wälder, stille Täler und wenig besuchte Gipfel. Die Landschaft wirkt wild und offen zugleich, mit Bergrücken, Hochebenen und langen Wanderwegen. Wer Ruhe und Natur sucht, findet hier einen der letzten wirklich dünn besiedelten Winkel des Landes. Die Region ist ein Gegenpol zu den dichter bebauten und touristisch stärker erschlossenen Teilen Polens.",
+      hu: "A Bieszczady Lengyelország távoli délkeleti hegyvidéke, amely tágas erdőket, csendes völgyeket és kevéssé látogatott csúcsokat jelent. A táj egyszerre vad és nyitott, gerincekkel, fennsíkokkal és hosszú túraútvonalakkal. Aki nyugalmat és természetet keres, itt találja az ország egyik utolsó igazán ritkán lakott vidékeit. A régió ellentétet képez Lengyelország sűrűbben beépített, turistásabb részeivel.",
+      ro: "Bieszczady este o regiune montană îndepărtată din extremitatea sud-estică a Poloniei, cunoscută pentru păduri vaste, văi liniștite și vârfuri puțin vizitate. Peisajul pare în același timp sălbatic și deschis, cu culmi, platouri și trasee lungi de drumeție. Cei care caută liniște și natură găsesc aici unul dintre ultimele colțuri cu adevărat puțin populate ale țării. Regiunea este un contrapunct la zonele mai dense și mai turistice ale Poloniei.",
+      en: "The Bieszczady are a remote mountain region in the far southeast of Poland, defined by wide forests, quiet valleys, and lightly visited peaks. The landscape feels both wild and open, with ridges, plateaus, and long hiking trails. If you want peace and nature, this is one of the country's last truly sparsely populated corners. The region stands in contrast to Poland's denser and more heavily touristed areas."
+    },
+    facts: {
+      de: ["Eine der stillsten Bergregionen Polens.", "Bekannt für lange Wanderwege und weite Aussichten.", "Heimat großer Wald- und Wildnisgebiete.", "Liegt an der südöstlichen Grenze des Landes.", "Beliebt bei Naturfreunden und Sternenguckern.", "Wird oft als Gegenbild zum Massentourismus beschrieben."],
+      hu: ["Lengyelország egyik legcsendesebb hegyvidéke.", "Hosszú túraútvonalairól és tágas kilátásairól ismert.", "Nagy erdős és vadon jellegű területek otthona.", "Az ország délkeleti peremén található.", "Népszerű a természetkedvelők és csillagmegfigyelők körében.", "Gyakran a tömegturizmus ellentéteként írják le."],
+      ro: ["Una dintre cele mai liniștite regiuni montane ale Poloniei.", "Cunoscută pentru traseele lungi și priveliștile largi.", "Găzduiește vaste zone de pădure și sălbăticie.", "Situată la marginea sud-estică a țării.", "Populară printre iubitorii de natură și observatorii cerului.", "Este adesea descrisă ca opusul turismului de masă."],
+      en: ["One of the quietest mountain regions in Poland.", "Known for long hiking trails and wide views.", "Home to large forest and wilderness areas.", "Located on the country's southeastern edge.", "Popular with nature lovers and stargazers.", "Often described as the opposite of mass tourism."]
+    },
+    image: "/geo-images/poland/bieszczady.webp"
+  },
+  {
+    id: "pl-gdansk-beach",
+    type: "landmark",
+    parent: "PL-PM",
+    coords: [18.6230, 54.4140],
+    name: { de: "Strand von Danzig", hu: "gdański strand", ro: "Plaja din Gdańsk", en: "Gdańsk Beach" },
+    description: {
+      de: "Der Strand von Gdańsk verbindet eine große Ostseeküste mit dem urbanen Charakter einer Hafenstadt. Breite Sandflächen, Dünen und Promenaden machen ihn zu einem beliebten Ort für Sommer, Spaziergänge und Meerblick. Der Strand liegt nah genug an der Stadt, um schnell erreichbar zu sein, wirkt aber trotzdem offen und ruhig. Er ist ein typisches Beispiel für die Verbindung von Küste und Stadtleben in der Danziger Bucht.",
+      hu: "A gdański strand a Balti-tenger széles partszakaszát a kikötővárosi, városi karakterrel kapcsolja össze. Széles homokos területek, dűnék és sétányok teszik népszerűvé a nyári pihenés, a séta és a tengerparti látvány miatt. A strand elég közel van a városhoz ahhoz, hogy gyorsan elérhető legyen, mégis nyitott és nyugodt hatást kelt. Jó példája a tengerpart és a városi élet összefonódásának a Gdański-öbölben.",
+      ro: "Plaja din Gdańsk combină coasta largă a Mării Baltice cu caracterul urban al unui oraș-port. Nisipul întins, dunele și promenada o fac un loc popular pentru vară, plimbări și priveliști spre mare. Plaja se află suficient de aproape de oraș pentru a fi ușor accesibilă, dar rămâne deschisă și liniștită. Este un exemplu tipic al întâlnirii dintre litoral și viața urbană în Golful Gdańsk.",
+      en: "Gdańsk Beach combines a broad Baltic coastline with the urban character of a port city. Wide sandy stretches, dunes, and promenades make it a popular place for summer, walks, and sea views. The beach is close enough to the city to be easy to reach, yet it still feels open and calm. It is a typical example of the blend between coastline and city life in Gdańsk Bay."
+    },
+    facts: {
+      de: ["Beliebte Strandzone an der Ostsee.", "Gut mit dem Stadtzentrum verbunden.", "Bietet breite Sandflächen und Promenaden.", "Ein typischer Sommerspot für Einheimische und Besucher.", "Teil des Küstenraums der Danziger Bucht.", "Verbindet Stadtleben mit Meeresatmosphäre."],
+      hu: ["Népszerű balti-tengeri strandzóna.", "Jól kapcsolódik a városközponthoz.", "Széles homokos partszakaszokat és sétányokat kínál.", "Helyiek és látogatók kedvelt nyári helye.", "A Gdański-öböl partvidékének része.", "A városi életet tengerparti hangulattal ötvözi."],
+      ro: ["Zonă de plajă populară la Marea Baltică.", "Bine conectată cu centrul orașului.", "Oferă plaje largi de nisip și promenade.", "Un loc de vară preferat de localnici și vizitatori.", "Parte din zona de coastă a Golfului Gdańsk.", "Îmbină viața urbană cu atmosfera mării."],
+      en: ["A popular Baltic Sea beach zone.", "Well connected to the city center.", "Offers wide sandy stretches and promenades.", "A favorite summer spot for locals and visitors.", "Part of the Gdańsk Bay coastline.", "Blends city life with a seaside atmosphere."]
+    },
+    image: "/geo-images/poland/gdansk-beach.webp"
+  },
+  {
+    id: "pl-masuria-lakes-area",
+    type: "lake",
+    parent: "PL-WN",
+    coords: [21.7500, 53.8500],
+    name: { de: "Masurische Seenplatte", hu: "Mazúriai-tóvidék", ro: "Zona lacurilor mazuriene", en: "Masuria Lakes Area" },
+    description: {
+      de: "Die Masurische Seenplatte ist eine weitläufige Wasser- und Waldlandschaft im Nordosten Polens. Sie ist geprägt von miteinander verbundenen Seen, Kanälen und stillen Uferzonen. Die Region ist ein Paradies für Segler, Kajakfahrer und Menschen, die Natururlaub suchen. Ihr Charakter wird durch offene Wasserflächen und ausgedehnte grüne Landschaften bestimmt.",
+      hu: "A Mazúriai-tóvidék Északkelet-Lengyelország kiterjedt vízi és erdős tája. Összekapcsolódó tavak, csatornák és csendes partvidékek jellemzik. A régió a vitorlázók, kajakosok és a természetközeli pihenést keresők paradicsoma. Jellege a nyílt vízfelületek és a nagy zöld tájak együttese.",
+      ro: "Zona lacurilor mazuriene este un peisaj întins de apă și pădure în nord-estul Poloniei. Este definită de lacuri conectate între ele, canale și zone liniștite de mal. Regiunea este un paradis pentru navigatori, caiaciști și cei care caută o vacanță în natură. Caracterul ei este dat de întinderi de apă deschisă și peisaje verzi ample.",
+      en: "The Masuria Lakes Area is a vast water-and-forest landscape in northeastern Poland. It is defined by connected lakes, canals, and quiet shoreline zones. The region is a paradise for sailors, kayakers, and anyone looking for a nature-focused getaway. Its character comes from open water surfaces combined with broad green landscapes."
+    },
+    facts: {
+      de: ["Ein Kerngebiet der polnischen Seenlandschaft.", "Sehr beliebt für Segel- und Kajaktouren.", "Besteht aus vielen miteinander verbundenen Seen.", "Teil der bekannten Urlaubsregion Masuren.", "Bietet ruhige Natur und viel Wasserfläche.", "Zählt zu den klassischen Sommerzielen in Nordostpolen."],
+      hu: ["A lengyel tóvidék egyik központi területe.", "Nagyon népszerű vitorlás és kajaktúrákhoz.", "Sok összekapcsolódó tó alkotja.", "A híres mazúriai üdülővidék része.", "Csendes természetet és nagy vízfelületeket kínál.", "Északkelet-Lengyelország egyik klasszikus nyári célpontja."],
+      ro: ["O zonă centrală a peisajului lacustru polonez.", "Foarte populară pentru navigație și caiac.", "Formată din multe lacuri conectate între ele.", "Face parte din celebra regiune de vacanță Mazuria.", "Oferă natură liniștită și suprafețe întinse de apă.", "Una dintre destinațiile clasice de vară din nord-estul Poloniei."],
+      en: ["A core area of Poland's lake landscape.", "Very popular for sailing and kayaking.", "Made up of many interconnected lakes.", "Part of the well-known Masuria holiday region.", "Offers quiet nature and lots of open water.", "One of northeastern Poland's classic summer destinations."]
+    },
+    image: "/geo-images/poland/masuria-lakes-area.webp"
+  },
+  {
+    id: "pl-slowinski-dunes",
+    type: "landmark",
+    parent: "PL-PM",
+    coords: [17.7000, 54.7500],
+    name: { de: "Słowiński-Dünen", hu: "Słowiński-dűnék", ro: "Dunele Słowiński", en: "Słowiński Dunes" },
+    description: {
+      de: "Die Słowiński-Dünen sind ein spektakulärer Küstenabschnitt mit wandernden Sanddünen an der Ostsee. Der Wind formt hier ständig neue Kuppen und Täler, wodurch die Landschaft fast wüstenhaft wirkt. Zwischen Meer, Seen und Kiefernwäldern entsteht ein seltenes Küstenökosystem. Die Gegend ist eines der markantesten Naturbilder an Polens Nordküste.",
+      hu: "A Słowiński-dűnék látványos tengerparti szakaszt alkotnak a Balti-tenger mentén, mozgó homokdűnékkel. A szél folyamatosan új dombokat és völgyeket alakít, így a táj szinte sivatagszerű. A tenger, tavak és fenyőerdők között ritka parti ökoszisztéma jön létre. A terület Lengyelország északi partvidékének egyik legjellegzetesebb természeti képe.",
+      ro: "Dunele Słowiński reprezintă o porțiune spectaculoasă de coastă cu dune de nisip mobile la Marea Baltică. Vântul modelează continuu noi ridicături și depresiuni, făcând peisajul să pară aproape deșertic. Între mare, lacuri și păduri de pini apare un ecosistem costier rar. Zona este una dintre cele mai distinctive imagini naturale ale coastei de nord a Poloniei.",
+      en: "The Słowiński Dunes are a spectacular coastal stretch of shifting sand dunes on the Baltic Sea. Wind constantly reshapes new mounds and valleys, giving the landscape an almost desert-like feel. Between the sea, lakes, and pine forests, a rare coastal ecosystem emerges. The area is one of the most distinctive natural images on Poland's northern coast."
+    },
+    facts: {
+      de: ["Berühmt für wandernde Sanddünen.", "Wirkt stellenweise wie eine Wüstenlandschaft.", "Liegt zwischen der Ostsee und Küstenseen.", "Teil des Słowiński-Nationalparks.", "Ein seltenes Küstenökosystem in Polen.", "Eine der markantesten Naturattraktionen an der Küste."],
+      hu: ["A mozgó homokdűnéiről híres.", "Egyes részeken sivatagszerű a táj.", "A Balti-tenger és parti tavak között fekszik.", "A Słowiński Nemzeti Park része.", "Ritka parti ökoszisztéma Lengyelországban.", "A part egyik legjellegzetesebb természeti látványossága."],
+      ro: ["Faimoase pentru dunele de nisip mobile.", "Pe alocuri seamănă cu un peisaj deșertic.", "Situate între Marea Baltică și lacurile de coastă.", "Parte din Parcul Național Słowiński.", "Un ecosistem costier rar în Polonia.", "Una dintre cele mai distinctive atracții naturale de pe coastă."],
+      en: ["Famous for shifting sand dunes.", "Looks desert-like in some sections.", "Located between the Baltic Sea and coastal lakes.", "Part of Słowiński National Park.", "A rare coastal ecosystem in Poland.", "One of the coast's most distinctive natural attractions."]
+    },
+    image: "/geo-images/poland/slowinski-dunes.webp"
+  },
+  {
+    id: "pl-warsaw-science-center",
+    type: "landmark",
+    parent: "PL-MZ",
+    coords: [21.0336, 52.2417],
+    name: { de: "Warschauer Wissenschaftszentrum", hu: "Varsói Tudományos Központ", ro: "Centrul Științific din Varșovia", en: "Warsaw Science Center" },
+    description: {
+      de: "Das Warschauer Wissenschaftszentrum steht für interaktives Lernen mitten in der Hauptstadt. Es verbindet moderne Ausstellungen, Experimente und Mitmachräume, die Wissenschaft für Kinder und Erwachsene greifbar machen. Das Gebäude ist Teil des großen Kultur- und Bildungsraums an der Weichsel. Es zählt zu den beliebtesten Orten für Familien und Schulgruppen in Warschau.",
+      hu: "A Varsói Tudományos Központ az interaktív tanulást képviseli a főváros szívében. Modern kiállításokat, kísérleteket és kipróbálható tereket kapcsol össze, hogy a tudomány kézzelfogható legyen gyerekek és felnőttek számára is. Az épület a Visztula menti nagy kulturális és oktatási tér része. Varsó egyik legnépszerűbb helye családok és iskolai csoportok számára.",
+      ro: "Centrul Științific din Varșovia reprezintă învățarea interactivă chiar în inima capitalei. Combină expoziții moderne, experimente și spații practice care fac știința accesibilă copiilor și adulților. Clădirea face parte din ampla zonă culturală și educațională de pe Vistula. Este unul dintre cele mai populare locuri pentru familii și grupuri școlare din Varșovia.",
+      en: "The Warsaw Science Center stands for interactive learning right in the capital city. It combines modern exhibitions, experiments, and hands-on spaces that make science tangible for children and adults alike. The building is part of the larger cultural and educational zone along the Vistula. It is one of Warsaw's most popular places for families and school groups."
+    },
+    facts: {
+      de: ["Beliebtes Ziel für Schulklassen und Familien.", "Setzt auf Mitmach-Ausstellungen und Experimente.", "Liegt im modernen Weichselufer-Bereich Warschaus.", "Macht Naturwissenschaften verständlich und anschaulich.", "Teil des Bildungs- und Kulturclusters der Hauptstadt.", "Ein moderner Blick auf Wissenschaft und Technik."],
+      hu: ["Népszerű célpont iskolai csoportok és családok számára.", "Interaktív kiállításokra és kísérletekre épül.", "Varsó modern, Visztula-parti részén található.", "A természettudományokat érthetővé és szemléletessé teszi.", "A főváros oktatási és kulturális központjának része.", "Modern nézőpontot ad a tudományról és a technikáról."],
+      ro: ["Destinație populară pentru clase școlare și familii.", "Mizează pe expoziții interactive și experimente.", "Se află în zona modernă de pe malul Vistulei din Varșovia.", "Face științele naturale ușor de înțeles și vizuale.", "Parte a clusterului educațional și cultural al capitalei.", "O perspectivă modernă asupra științei și tehnologiei."],
+      en: ["A popular destination for school groups and families.", "Built around hands-on exhibitions and experiments.", "Located in Warsaw's modern Vistula riverfront area.", "Makes natural science easy to understand and see.", "Part of the capital's education and culture cluster.", "A modern take on science and technology."]
+    },
+    image: "/geo-images/poland/warsaw-science-center.webp"
+  },
+  {
+    id: "pl-katowice-spodek",
+    type: "landmark",
+    parent: "PL-SL",
+    coords: [19.0240, 50.2660],
+    name: { de: "Spodek", hu: "Katowicei Spodek", ro: "Spodek", en: "Katowice Spodek" },
+    description: {
+      de: "Der Spodek ist eines der bekanntesten modernen Wahrzeichen von Katowice. Seine markante, schwebend wirkende Form hat ihn zu einem Symbol der Stadt und des industriellen Oberschlesiens gemacht. Die Arena ist seit Jahrzehnten ein wichtiger Ort für Konzerte, Sport und große Veranstaltungen. Sie steht für den Wandel Katowices von der Schwerindustrie hin zu einer Kultur- und Eventstadt.",
+      hu: "A Spodek Katowice egyik legismertebb modern jelképe. Jellegzetes, lebegő hatású formája a város és az ipari Felső-Szilézia szimbólumává tette. Az aréna évtizedek óta fontos helyszíne koncerteknek, sporteseményeknek és nagy rendezvényeknek. Katowice átalakulását jelképezi a nehéziparból a kulturális és eseményvárossá válás felé.",
+      ro: "Spodek este unul dintre cele mai cunoscute simboluri moderne ale orașului Katowice. Forma sa distinctivă, care pare să plutească, l-a transformat într-un simbol al orașului și al Sileziei Superioare industriale. Arena este de zeci de ani un loc important pentru concerte, sport și evenimente mari. Ea reprezintă transformarea orașului Katowice dintr-un centru al industriei grele într-un oraș al culturii și evenimentelor.",
+      en: "Spodek is one of Katowice's best-known modern landmarks. Its distinctive, floating-like form made it a symbol of the city and of industrial Upper Silesia. The arena has been a major venue for concerts, sports, and large events for decades. It represents Katowice's shift from heavy industry toward culture and events."
+    },
+    facts: {
+      de: ["Eines der bekanntesten Gebäude in Katowice.", "Wurde zum Symbol des modernen Oberschlesiens.", "Dient als Arena für Konzerte und Sport.", "Seine Form wirkt wie eine fliegende Untertasse.", "Liegt in der Nähe der Kultur- und Konferenzzone.", "Ein wichtiger Ort für Großveranstaltungen in Polen."],
+      hu: ["Katowice egyik legismertebb épülete.", "A modern felső-sziléziai identitás szimbóluma lett.", "Koncertek és sportesemények arénájaként működik.", "Formája repülő csészealjra emlékeztet.", "Közel van a kulturális és konferenciavárosi zónához.", "Lengyelország egyik fontos nagy rendezvényhelyszíne."],
+      ro: ["Una dintre cele mai cunoscute clădiri din Katowice.", "A devenit simbolul Sileziei Superioare moderne.", "Servește drept arenă pentru concerte și sport.", "Forma sa amintește de o farfurie zburătoare.", "Se află aproape de zona culturală și de conferințe.", "Un loc important pentru evenimente mari în Polonia."],
+      en: ["One of the most recognizable buildings in Katowice.", "Became a symbol of modern Upper Silesia.", "Serves as an arena for concerts and sports.", "Its shape resembles a flying saucer.", "Located near the city's cultural and conference zone.", "An important venue for major events in Poland."]
+    },
+    image: "/geo-images/poland/katowice-spodek.webp"
+  },
+  {
+    id: "pl-wroclaw-dwarfs",
+    type: "landmark",
+    parent: "PL-DS",
+    coords: [17.0340, 51.1100],
+    name: { de: "Breslauer Zwerge", hu: "Wrocławi törpék", ro: "Piticii din Wrocław", en: "Wrocław Dwarfs" },
+    description: {
+      de: "Die Breslauer Zwerge sind eine spielerische Stadtkunst, die in ganz Wrocław verteilt ist. Die kleinen Bronzefiguren sind längst zu einem Erkennungszeichen der Stadt geworden und laden zum Suchen und Entdecken ein. Ursprünglich mit einer satirischen Protestbewegung verbunden, sind sie heute ein beliebtes Symbol mit Humor und Charme. Für Besucher gehört das Aufspüren der Figuren fast schon zum Pflichtprogramm.",
+      hu: "A wrocławi törpék játékos városi műalkotások, amelyek szerte Wrocławban megtalálhatók. Az apró bronzfigurák mára a város egyik legismertebb jelképévé váltak, és felfedezésre csábítanak. Eredetileg egy szatirikus tiltakozó mozgalomhoz kapcsolódtak, ma azonban kedvelt, humoros és bájos szimbólumok. A látogatóknak szinte kötelező program a figurák felkutatása.",
+      ro: "Piticii din Wrocław sunt o formă jucăușă de artă urbană răspândită în tot orașul. Micile figurine de bronz au devenit între timp unul dintre semnele distinctive ale orașului și îi invită pe vizitatori la explorare. Inițial legate de o mișcare satirică de protest, ele sunt astăzi un simbol popular, plin de umor și farmec. Pentru vizitatori, căutarea lor este aproape o activitate obligatorie.",
+      en: "The Wrocław Dwarfs are playful pieces of urban art spread throughout the city. The small bronze figures have become one of Wrocław's defining symbols and invite people to explore. Originally linked to a satirical protest movement, they are now a beloved symbol full of humor and charm. For visitors, searching for the figures is almost a must-do activity."
+    },
+    facts: {
+      de: ["Eine der bekanntesten Stadtkampagnen Wrocławs.", "Überall im Stadtgebiet versteckt.", "Verbinden Kunst, Humor und politische Geschichte.", "Ein beliebtes Ziel für Spaziergänge und Fotos.", "Wachsen bis heute immer weiter an.", "Machen die Stadt besonders kinderfreundlich."],
+      hu: ["Wrocław egyik legismertebb városi jelensége.", "A város számos pontján elrejtve találhatók.", "Művészetet, humort és politikai történetet kötnek össze.", "Népszerű séta- és fotótéma.", "A számuk ma is folyamatosan növekszik.", "Különösen gyerekbaráttá teszik a várost."],
+      ro: ["Una dintre cele mai cunoscute campanii urbane din Wrocław.", "Ascunși în tot orașul.", "Îmbină arta, umorul și istoria politică.", "O temă populară pentru plimbări și fotografii.", "Numărul lor continuă să crească și astăzi.", "Fac orașul deosebit de prietenos pentru copii."],
+      en: ["One of Wrocław's best-known city features.", "Hidden throughout the urban area.", "Combines art, humor, and political history.", "A popular target for walks and photos.", "The number of figures continues to grow.", "Makes the city especially child-friendly."]
+    },
+    image: "/geo-images/poland/wroclaw-dwarfs.webp"
+  },
+  {
+    id: "pl-crooked-forest",
+    type: "forest",
+    parent: "PL-ZP",
+    coords: [14.4750, 53.2470],
+    name: { de: "Krummer Wald", hu: "Gryfinoi görbe erdő", ro: "Pădurea Strâmbă", en: "Crooked Forest" },
+    description: {
+      de: "Der Krumme Wald bei Gryfino ist für seine ungewöhnlich gebogenen Kiefern bekannt. Die Bäume wachsen mit stark gekrümmten Stämmen, was dem Ort ein geheimnisvolles Aussehen verleiht. Die Ursache des Wuchses ist bis heute nicht völlig geklärt und macht den Wald umso faszinierender. Trotz seiner geringen Größe ist er eines der skurrilsten Naturphänomene in Westpolen.",
+      hu: "A Gryfino melletti görbe erdő a rendkívül hajlott fenyőfáiról ismert. A fák erősen görbült törzzsel nőnek, ami különösen rejtélyes megjelenést ad a helynek. A növekedés okát ma sem sikerült teljesen tisztázni, ezért még izgalmasabbá válik az erdő. Kis mérete ellenére Nyugat-Lengyelország egyik legkülönösebb természeti jelensége.",
+      ro: "Pădurea Strâmbă de lângă Gryfino este cunoscută pentru pinii săi neobișnuit de curbați. Copacii cresc cu trunchiuri puternic îndoite, ceea ce conferă locului un aspect misterios. Cauza acestei forme nu este încă pe deplin clarificată, iar asta face pădurea și mai fascinantă. În ciuda dimensiunilor reduse, este unul dintre cele mai ciudate fenomene naturale din vestul Poloniei.",
+      en: "The Crooked Forest near Gryfino is known for its unusually bent pine trees. The trees grow with strongly curved trunks, giving the place a mysterious appearance. The cause of this growth is still not fully explained, which only adds to the forest's fascination. Despite its small size, it is one of the oddest natural phenomena in western Poland."
+    },
+    facts: {
+      de: ["Berühmt für seine seltsam gebogenen Kiefern.", "Die Ursache der Form ist bis heute umstritten.", "Liegt nahe der Stadt Gryfino.", "Ein kleines, aber sehr bekanntes Naturrätsel.", "Beliebt bei Fotografen und Neugierigen.", "Eines der ungewöhnlichsten Wälder Polens."],
+      hu: ["A furcsán meghajlott fenyőiről híres.", "A forma oka ma is vitatott.", "Gryfino közelében található.", "Kicsi, de nagyon ismert természeti rejtély.", "Népszerű a fotósok és kíváncsi látogatók körében.", "Lengyelország egyik legkülönlegesebb erdeje."],
+      ro: ["Faimoasă pentru pinii săi ciudat de curbați.", "Cauza formei este încă disputată.", "Situată lângă orașul Gryfino.", "Un mister natural mic, dar foarte cunoscut.", "Populară printre fotografi și curioși.", "Una dintre cele mai neobișnuite păduri din Polonia."],
+      en: ["Famous for its strangely bent pine trees.", "The cause of the shape is still debated.", "Located near the town of Gryfino.", "A small but very famous natural mystery.", "Popular with photographers and curious visitors.", "One of the most unusual forests in Poland."]
+    },
+    image: "/geo-images/poland/crooked-forest.webp"
+  },
+  {
+    id: "pl-lodz-film-museum",
+    type: "landmark",
+    parent: "PL-LD",
+    coords: [19.4610, 51.7670],
+    name: { de: "Filmuseum Łódź", hu: "Łódźi Filmmúzeum", ro: "Muzeul Filmului din Łódź", en: "Łódź Film Museum" },
+    description: {
+      de: "Das Filmmuseum in Łódź erinnert an die lange Kinotradition der Stadt. Łódź gilt seit dem 20. Jahrhundert als wichtiges Zentrum der polnischen Filmkunst, und das Museum bewahrt diese Rolle mit Ausstellungen, Requisiten und historischen Materialien. Es ist eng mit der berühmten Filmschule und der kreativen Identität der Stadt verbunden. Für Filmfans ist es einer der wichtigsten Orte in Łódź.",
+      hu: "A łódźi filmmúzeum a város hosszú filmes hagyományára emlékeztet. Łódź a 20. század óta a lengyel filmművészet egyik fontos központja, a múzeum pedig kiállításokkal, kellékekkel és történeti anyagokkal őrzi ezt a szerepet. Szorosan kapcsolódik a híres filmiskolához és a város kreatív identitásához. A filmrajongók számára Łódź egyik legfontosabb helyszíne.",
+      ro: "Muzeul Filmului din Łódź amintește de lunga tradiție cinematografică a orașului. Łódź este considerat încă din secolul al XX-lea un centru important al cinematografiei poloneze, iar muzeul păstrează acest rol prin expoziții, obiecte de recuzită și materiale istorice. Este strâns legat de celebra școală de film și de identitatea creativă a orașului. Pentru iubitorii de film, este unul dintre cele mai importante locuri din Łódź.",
+      en: "The Łódź Film Museum recalls the city's long film tradition. Since the 20th century, Łódź has been a major center of Polish cinema, and the museum preserves that role with exhibitions, props, and historical materials. It is closely tied to the famous film school and the city's creative identity. For film fans, it is one of the most important places in Łódź."
+    },
+    facts: {
+      de: ["Spiegelt die berühmte Filmtradition von Łódź wider.", "Verbunden mit der renommierten Łódźer Filmschule.", "Bewahrt Archivmaterial, Requisiten und Ausstellungen.", "Ein wichtiger Ort der polnischen Kinogeschichte.", "Teil der kreativen Identität der Stadt.", "Beliebt bei Besuchern mit Interesse an Kultur und Film."],
+      hu: ["Łódź híres filmes hagyományát tükrözi.", "Kapcsolódik a neves Łódźi Filmiskolához.", "Archív anyagokat, kellékeket és kiállításokat őriz.", "A lengyel filmtörténet fontos helyszíne.", "A város kreatív identitásának része.", "Népszerű a kultúra és film iránt érdeklődő látogatók körében."],
+      ro: ["Reflectă celebra tradiție cinematografică a orașului Łódź.", "Este legat de renumita Școală de Film din Łódź.", "Păstrează materiale de arhivă, recuzită și expoziții.", "Un loc important în istoria filmului polonez.", "Parte a identității creative a orașului.", "Popular printre vizitatorii interesați de cultură și cinema."],
+      en: ["Reflects Łódź's famous film tradition.", "Connected to the renowned Łódź Film School.", "Preserves archival material, props, and exhibitions.", "An important site in Polish cinema history.", "Part of the city's creative identity.", "Popular with visitors interested in culture and film."]
+    },
+    image: "/geo-images/poland/lodz-film-museum.webp"
   }
 ];
 
