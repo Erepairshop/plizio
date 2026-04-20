@@ -1,4 +1,5 @@
 "use client";
+import { useLang } from "@/components/LanguageProvider";
 // EnergyTransferExplorer — Energy Transfer, Efficiency, Power (Energieübertragung) Grade 6
 
 import React from "react";
@@ -97,6 +98,8 @@ const DEF: ExplorerDef = {
 
 interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
 
-export default function EnergyTransferExplorer({ color, lang, onDone, onClose }: Props) {
+export default function EnergyTransferExplorer({ color, lang: langProp, onDone, onClose }: Props) {
+  const { lang: contextLang } = useLang();
+  const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
   return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
 }

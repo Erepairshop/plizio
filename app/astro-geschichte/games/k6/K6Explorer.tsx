@@ -1,5 +1,6 @@
 "use client";
 import DynamicExplorer from "@/components/DynamicExplorer";
+import { useLang } from "@/components/LanguageProvider";
 import type { IslandDef } from "@/lib/astromath";
 import type { PoolTopicDef } from "@/lib/explorerPools/types";
 import {
@@ -41,7 +42,10 @@ interface Props {
   lang?:  string;
 }
 
-export default function K6Explorer({ island, onDone, color = "#8B5CF6", lang = "de" }: Props) {
+export default function K6Explorer({ island, onDone, color = "#8B5CF6", lang: langProp }: Props) {
+  const { lang: contextLang } = useLang();
+  const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
+
   const cfg = ISLAND_CONFIG[island.id];
   if (cfg) {
     return (

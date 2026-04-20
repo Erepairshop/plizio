@@ -144,6 +144,8 @@ export interface PoolTopicDef {
   bulletKeys?: string[];
   /** Optional label key for hint text */
   hintKey?: string;
+  /** Optional per-topic labels map (string keys, per-lang LocalizedText) — used when interactive references keys */
+  labels?: Record<string, { de: string; en: string; hu: string; ro: string }>;
   /** Interactive activity config (same type as ExplorerEngine) */
   interactive: TopicInteractive;
   /**

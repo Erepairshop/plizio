@@ -1,6 +1,7 @@
 "use client";
 
 import DynamicExplorer from "@/components/DynamicExplorer";
+import { useLang } from "@/components/LanguageProvider";
 import { GEO_K8_LABELS, GEO_K8_POOL } from "@/lib/explorerPools/geographieK8";
 
 interface Props {
@@ -12,7 +13,10 @@ interface Props {
   onClose?: () => void;
 }
 
-export default function GeographieK8Explorer({ color = "#06B6D4", lang = "de", onDone, onClose }: Props) {
+export default function GeographieK8Explorer({ color = "#06B6D4", lang: langProp, onDone, onClose }: Props) {
+  const { lang: contextLang } = useLang();
+  const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
+
   return (
     <DynamicExplorer
       pool={GEO_K8_POOL}

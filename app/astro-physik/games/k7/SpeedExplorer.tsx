@@ -1,4 +1,5 @@
 "use client";
+import { useLang } from "@/components/LanguageProvider";
 // SpeedExplorer — Speed & Velocity, Acceleration (Geschwindigkeit und Beschleunigung) Klasse 7
 // R1-R4: each has info + 1 question, R5: 2 review questions
 
@@ -98,6 +99,8 @@ const DEF: ExplorerDef = {
 
 interface Props { color: string; lang?: string; onDone: (s: number, t: number) => void; onClose?: () => void; }
 
-export default function SpeedExplorer({ color, lang, onDone, onClose }: Props) {
+export default function SpeedExplorer({ color, lang: langProp, onDone, onClose }: Props) {
+  const { lang: contextLang } = useLang();
+  const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
   return <ExplorerEngine def={DEF} color={color} lang={lang} onDone={onDone} onClose={onClose} />;
 }

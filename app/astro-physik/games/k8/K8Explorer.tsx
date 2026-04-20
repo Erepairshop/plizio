@@ -1,4 +1,5 @@
 "use client";
+import { useLang } from "@/components/LanguageProvider";
 
 import DynamicExplorer from "@/components/DynamicExplorer";
 import type { IslandDef } from "@/lib/astromath";
@@ -57,7 +58,9 @@ const POOL_CONFIG: Record<string, {
   i9: { pool: PHYSIK_K8_I9_POOL, labels: PHYSIK_K8_I9_LABELS, title: "explorer_title", icon: "🌍" },
 };
 
-export default function K8Explorer({ island, grade, onDone, color = "#6366F1", lang = "de" }: Props) {
+export default function K8Explorer({ island, grade, onDone, color = "#6366F1", lang: langProp }: Props) {
+  const { lang: contextLang } = useLang();
+  const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
   const cfg = POOL_CONFIG[island.id];
   if (cfg) {
     return (

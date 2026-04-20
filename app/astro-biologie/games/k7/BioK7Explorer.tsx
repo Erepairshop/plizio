@@ -1,5 +1,6 @@
 "use client";
 import DynamicExplorer from "@/components/DynamicExplorer";
+import { useLang } from "@/components/LanguageProvider";
 import { 
   BIO_K7_I1_POOL, BIO_K7_I1_LABELS,
   BIO_K7_I2_POOL, BIO_K7_I2_LABELS,
@@ -15,12 +16,15 @@ import {
 interface Props {
   islandId: string;
   color: string;
-  lang: string;
+  lang?: string;
   onDone: (score: number, total: number) => void;
   onClose?: () => void;
 }
 
-export default function BioK7Explorer({ islandId, color, lang, onDone, onClose }: Props) {
+export default function BioK7Explorer({ islandId, color, lang: langProp, onDone, onClose }: Props) {
+  const { lang: contextLang } = useLang();
+  const lang = langProp ?? (contextLang as "de" | "en" | "hu" | "ro") ?? "de";
+
   let pool = BIO_K7_I1_POOL;
   let labels = BIO_K7_I1_LABELS;
   let icon = "🔬";
