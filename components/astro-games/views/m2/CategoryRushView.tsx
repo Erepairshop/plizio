@@ -58,8 +58,8 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
     : (defaultTasks[lang] || defaultTasks.en);
 
    return (
-      <div className="flex flex-col items-center justify-center w-full max-w-md mx-auto p-4 min-h-[400px] relative">
-         <div className="absolute top-0 w-full flex flex-col z-10 gap-2">
+      <div className="flex flex-col items-center w-full max-w-md mx-auto p-4 gap-4">
+         <div className="w-full flex flex-col gap-2">
             <div className="w-full bg-black/40 p-4 rounded-xl text-center border-2 border-white/10">
                <div className="text-xl font-black text-white mb-2">🎯 {taskText}</div>
                <div className="text-white/70 font-bold">
@@ -71,23 +71,22 @@ export default function CategoryRushView({ rounds, color, lang, mode, onDone, on
                <span>Round: {roundIdx + 1} / {rounds.length}</span>
             </div>
          </div>
-         
-         <div className="absolute inset-0 flex items-center justify-center pointer-events-none mt-20">
-            <motion.div 
-               key={currentItem.id}
-               initial={{ scale: 0 }}
-               animate={{ scale: 1 }}
-               className="p-6 bg-white text-black font-black text-xl rounded-2xl shadow-xl z-20 pointer-events-auto"
-            >
-               {currentItem.label[lang as keyof LocalizedText] || currentItem.label.en}
-            </motion.div>
-         </div>
-         <div className="grid grid-cols-2 gap-4 w-full h-full mt-32 z-10 pointer-events-none">
+
+         <motion.div
+            key={currentItem.id}
+            initial={{ scale: 0 }}
+            animate={{ scale: 1 }}
+            className="p-6 bg-white text-black font-black text-xl rounded-2xl shadow-xl my-4"
+         >
+            {currentItem.label[lang as keyof LocalizedText] || currentItem.label.en}
+         </motion.div>
+
+         <div className="grid grid-cols-2 gap-4 w-full">
             {currentRound.categories.map(cat => (
                <motion.button
                   key={cat.id}
                   onClick={() => handleCategoryClick(cat.id)}
-                  className="p-4 rounded-xl border-2 font-bold min-h-[60px] pointer-events-auto flex items-center justify-center text-center bg-black/50 text-white"
+                  className="p-4 rounded-xl border-2 font-bold min-h-[60px] flex items-center justify-center text-center bg-black/50 text-white"
                   style={{ borderColor: cat.color || color }}
                   whileTap={{ scale: 0.95 }}
                >
