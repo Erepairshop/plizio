@@ -52,13 +52,17 @@ import { croatiaMap, croatiaViewBox, projectCoordsHR } from "./croatia.svg";
 import { croatiaAllPoi } from "../data/croatiaPoi";
 import { bulgariaMap, bulgariaViewBox, projectCoordsBG } from "./bulgaria.svg";
 import { bulgariaAllPoi } from "../data/bulgariaPoi";
+import { luxembourgMap, luxembourgViewBox, projectCoordsLU } from "./luxembourg.svg";
+import { luxembourgAllPoi } from "../data/luxembourgPoi";
+import { lithuaniaMap, lithuaniaViewBox, projectCoordsLT } from "./lithuania.svg";
+import { lithuaniaAllPoi } from "../data/lithuaniaPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG" | "LU" | "LT"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -274,6 +278,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: bulgariaViewBox,
         projectCoords: projectCoordsBG,
         pois: bulgariaAllPoi,
+        subregions: {},
+      };
+    case "lu":
+      return {
+        countryId: "LU",
+        map: luxembourgMap as unknown as BundeslandPath[],
+        viewBox: luxembourgViewBox,
+        projectCoords: projectCoordsLU,
+        pois: luxembourgAllPoi,
+        subregions: {},
+      };
+    case "lt":
+      return {
+        countryId: "LT",
+        map: lithuaniaMap as unknown as BundeslandPath[],
+        viewBox: lithuaniaViewBox,
+        projectCoords: projectCoordsLT,
+        pois: lithuaniaAllPoi,
         subregions: {},
       };
     case "de":
