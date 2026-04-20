@@ -37,6 +37,10 @@ export default function StructuredData({
 }
 
 export function createPoiStructuredData(poi: POI, lang: Lang) {
+  const wikiName = poi.name.en;
+  const sameAs = wikiName ? `https://en.wikipedia.org/wiki/${encodeURIComponent(wikiName.replace(/ /g, "_"))}` : undefined;
+  const countryCode = poi.parent ? poi.parent.split('-')[0] : "DE";
+
   return {
     "@context": "https://schema.org",
     "@type": poiSchemaType(poi),
@@ -49,6 +53,11 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
       latitude: poi.coords[1],
       longitude: poi.coords[0],
     },
+    address: {
+      "@type": "PostalAddress",
+      addressCountry: countryCode,
+    },
+    sameAs,
     containedInPlace: localizedStateName(poi.parent, lang),
     inLanguage: lang,
   };
