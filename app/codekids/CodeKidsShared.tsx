@@ -506,13 +506,13 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
 
   // Games
   const gameScreen = (
-    <div className="min-h-screen flex flex-col relative overflow-hidden bg-white">
+    <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
       <div className="absolute inset-0 opacity-10" style={{ background: bgColor }} />
-      <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3 bg-white/80 backdrop-blur-sm shadow-sm">
-        <button onClick={() => setScreen("mission-select")} className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600"><X size={20} /></button>
+      <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3 bg-black/40 backdrop-blur-sm border-b border-white/10">
+        <button onClick={() => setScreen("mission-select")} className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 text-white/80 hover:bg-white/20 transition"><X size={20} /></button>
         <div className="flex-1">
-          <p className="text-gray-800 text-sm font-black">{activeIsland?.icon} {activeIsland?.name[lang as Lang]}</p>
-          <p className="text-gray-500 text-xs font-bold">{activeMission?.label[lang as Lang] ?? activeMission?.label.en}</p>
+          <p className="text-white text-sm font-black">{activeIsland?.icon} {activeIsland?.name[lang as Lang]}</p>
+          <p className="text-white/60 text-xs font-bold">{activeMission?.label[lang as Lang] ?? activeMission?.label.en}</p>
         </div>
       </div>
       <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
