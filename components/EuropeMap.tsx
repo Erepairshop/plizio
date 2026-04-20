@@ -30,6 +30,13 @@ const COMING_SOON: Record<Lang, string> = {
   hu: "Hamarosan",
   ro: "În curând",
   en: "Coming soon",
+  fr: "Bientôt disponible",
+  it: "Prossimamente",
+  es: "Próximamente",
+  pl: "Wkrótce",
+  nl: "Binnenkort",
+  at: "Bald verfügbar",
+  gb: "Coming soon",
 };
 
 const MIN_SCALE = 1;
