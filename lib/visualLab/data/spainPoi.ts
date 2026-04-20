@@ -3336,5 +3336,299 @@ export const spainCities: POI[] = [
   }
 }
 ];
-
-export const spainAllPoi: POI[] = [...spainCountry, ...spainRegions, ...spainCities];
+ 
+const extraSpainPoi: POI[] = [
+{
+  "id": "es-alcazar-sevilla",
+  "type": "historical",
+  "parent": "ES-AN",
+  "coords": [-5.9907, 37.3833],
+  "name": {"de": "Alcazar von Sevilla", "hu": "Sevillai Alcazar", "ro": "Alcazarul din Sevilla", "en": "Alcazar of Seville"},
+  "description": {
+    "de": "Der Alcazar von Sevilla ist ein kÃ¶niglicher Palastkomplex mit starken maurischen und christlichen EinflÃ¼ssen. Seine GÃ¤rten, HÃ¶fe und kunstvollen InnenrÃ¤ume machen ihn zu einem der eindrucksvollsten Orte Andalusiens.",
+    "hu": "A sevillai Alcazar egy kirÃ¡lyi palotaegyÃ¼ttes erÅ‘s mór Ã©s keresztÃ©ny hatÃ¡ssal. Kertjei, udvarai Ã©s dÃ­szes belsÅ‘ terei AndalÃºzia egyik leglÃ¡tvÃ¡nyosabb helyÃ©vÃ© teszik.",
+    "ro": "Alcazarul din Sevilla este un complex palatin regal cu puternice influenÈ›e maure È™i creÈ™tine. GrÄƒdinile, curÈ›ile È™i interioarele sale ornamentate Ã®l fac unul dintre cele mai impresionante locuri din Andaluzia.",
+    "en": "The Alcazar of Seville is a royal palace complex with strong Moorish and Christian influences. Its gardens, courtyards, and ornate interiors make it one of Andalusia's most impressive places."
+  },
+  "facts": {
+    "de": ["Noch heute Residenz der spanischen KÃ¶nigsfamilie bei Besuchen.", "UNESCO-Weltkulturerbe.", "ZÃ¤hlt zu den Ã¤ltesten noch genutzten PalÃ¤sten Europas.", "Diente als Filmkulisse fÃ¼r viele Produktionen."],
+    "hu": ["Spanyol kirÃ¡lyi lÃ¡togatÃ¡sok idejÃ©n ma is hasznÃ¡lt rezidencia.", "UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g.", "EurÃ³pa egyik legrÃ©gebben hasznÃ¡lt palotÃ¡ja.", "SzÃ¡mos film forgatÃ³helyszÃ­ne volt."],
+    "ro": ["ÃŽncÄƒ este reÈ™edinÈ›Äƒ folositÄƒ de familia regalÄƒ spaniolÄƒ la vizite.", "Patrimoniu Mondial UNESCO.", "Unul dintre cele mai vechi palate aflate Ã®ncÄƒ Ã®n uz din Europa.", "A fost decor pentru numeroase producÈ›ii de film."],
+    "en": ["Still used as a royal residence during Spanish royal visits.", "UNESCO World Heritage site.", "One of the oldest palaces still in use in Europe.", "Has served as a filming location for many productions."]
+  }
+},
+{
+  "id": "es-castillo-coca",
+  "type": "historical",
+  "parent": "ES-CL",
+  "coords": [-4.5228, 41.2164],
+  "name": {"de": "Castillo de Coca", "hu": "Coca kastÃ©lya", "ro": "Castelul Coca", "en": "Coca Castle"},
+  "description": {
+    "de": "Das Castillo de Coca ist eine auffÃ¤llige Backsteinfestung in Kastilien und LeÃ³n. Mit seinem Wassergraben und den Zinnen zeigt es eindrucksvoll die spÃ¤tmittelalterliche MilitÃ¤rarchitektur.",
+    "hu": "A Coca kastÃ©lya egy feltÅ±nÅ‘ tÃ©glavÃ¡r KasztÃ­liÃ¡ban Ã©s LeÃ³nban. Ã‰vÃ©rÃ©vel Ã©s bÃ¼tykÃ¶s falaival lÃ¡tvÃ¡nyosan mutatja be a kÃ©sÅ‘ kÃ¶zÃ©pkori katonai Ã©pÃ­tÃ©szetet.",
+    "ro": "Castelul Coca este o fortÄƒreaÈ›Äƒ impresionantÄƒ din cÄƒrÄƒmidÄƒ Ã®n Castilia È™i LeÃ³n. Cu șanÈ›ul și crenelurile sale, aratÄƒ spectaculos arhitectura militarÄƒ tÃ¢rziu medievalÄƒ.",
+    "en": "Coca Castle is a striking brick fortress in Castile and LeÃ³n. With its moat and battlements, it showcases late medieval military architecture."
+  },
+  "facts": {
+    "de": ["BerÃ¼hmt fÃ¼r seine Mischung aus Gotik und MudÃ©jar.", "Wurde im 15. Jahrhundert fÃ¼r die Familie Fonseca errichtet.", "GehÃ¶rt zu den besterhaltenen BacksteinschlÃ¶ssern Spaniens.", "Der Wassergraben ist ein markantes Verteidigungselement."],
+    "hu": ["A gÃ³tika Ã©s a mudÃ©jar stÃ­lus keverÃ©kÃ©rÅ‘l hÃ­res.", "A 15. szÃ¡zadban a Fonseca csalÃ¡d szÃ¡mÃ¡ra Ã©pÃ¼lt.", "SpanyolorszÃ¡g egyik legjobb Ã¡llapotban fennmaradt tÃ©glavÃ¡ra.", "Az Ã©vÃ©r fontos vÃ©delmi elem."],
+    "ro": ["Celebru pentru amestecul de gotic È™i mudÃ©jar.", "A fost construit Ã®n secolul al XV-lea pentru familia Fonseca.", "Este unul dintre cele mai bine pÄƒstrate castele de cÄƒrÄƒmidÄƒ din Spania.", "È˜anÈ›ul este un element defensiv important."],
+    "en": ["Known for its mix of Gothic and MudÃ©jar styles.", "Built in the 15th century for the Fonseca family.", "One of Spain's best-preserved brick castles.", "The moat is a key defensive feature."]
+  }
+},
+{
+  "id": "es-alcazar-segovia",
+  "type": "historical",
+  "parent": "ES-CL",
+  "coords": [-4.1392, 40.9501],
+  "name": {"de": "Alcazar von Segovia", "hu": "Segoviai Alcazar", "ro": "Alcazarul din Segovia", "en": "Alcazar of Segovia"},
+  "description": {
+    "de": "Der Alcazar von Segovia erhebt sich dramatisch Ã¼ber dem Zusammenfluss zweier FlÃ¼sse. Die festungsartige KÃ¶nigsresidenz ist eines der bekanntesten Wahrzeichen Kastiliens und erinnert an ein MÃ¤rchenschloss.",
+    "hu": "A segoviai Alcazar lÃ¡tvÃ¡nyosan magasodik kÃ©t folyÃ³ talÃ¡lkozÃ¡sÃ¡nÃ¡l. Az erÅ‘dszerÅ± kirÃ¡lyi rezidencia KasztÃ­lia egyik legismertebb jelkÃ©pe, Ã©s mesebeli kastÃ©lyra emlÃ©keztet.",
+    "ro": "Alcazarul din Segovia se ridicÄƒ dramatic deasupra confluenÈ›ei a douÄƒ rÃ¢uri. ReÈ™edinÈ›a regalÄƒ cu aspect de fortÄƒreaÈ›Äƒ este unul dintre cele mai cunoscute simboluri ale Castiliei È™i aminteÈ™te de un castel de poveste.",
+    "en": "The Alcazar of Segovia rises dramatically above the meeting point of two rivers. This fortress-like royal residence is one of Castile's best-known landmarks and looks like a fairytale castle."
+  },
+  "facts": {
+    "de": ["Diente Ã¼ber Jahrhunderte als KÃ¶nigspalast.", "UNESCO-Weltkulturerbe der Altstadt von Segovia.", "Die markante Silhouette inspirierte Disney-Illustrationen.", "BerÃ¼hmt fÃ¼r die kegelfÃ¶rmigen TÃ¼rme."],
+    "hu": ["Ã‰vszÃ¡zadokon Ã¡t kirÃ¡lyi palotakÃ©nt szolgÃ¡lt.", "Segovia Ã³vÃ¡rosÃ¡nak UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©gi rÃ©sze.", "Jellegzetes sziluettje Disney-ihletÃ©st is adott.", "KÃ©pÃ­zÅ± tornyairÃ³l hÃ­res."],
+    "ro": ["A servit secole drept palat regal.", "Face parte din patrimoniul UNESCO al vechiului oraÈ™ Segovia.", "Silueta sa distinctivÄƒ a inspirat ilustraÈ›ii Disney.", "Este faimos pentru turnurile sale conice."],
+    "en": ["Served as a royal palace for centuries.", "Part of the UNESCO-listed old town of Segovia.", "Its distinctive silhouette inspired Disney illustrations.", "Famous for its cone-shaped towers."]
+  }
+},
+{
+  "id": "es-palacio-real-madrid",
+  "type": "historical",
+  "parent": "ES-MD",
+  "coords": [-3.7143, 40.4179],
+  "name": {"de": "KÃ¶nigspalast Madrid", "hu": "Madridi kirÃ¡lyi palota", "ro": "Palatul Regal din Madrid", "en": "Royal Palace of Madrid"},
+  "description": {
+    "de": "Der KÃ¶nigspalast in Madrid ist die offizielle Residenz der spanischen Monarchie bei Zeremonien. Mit seinen reprÃ¤sentativen SÃ¤len und der groÃŸen Fassade zÃ¤hlt er zu den bedeutendsten PalÃ¤sten Europas.",
+    "hu": "A madridi kirÃ¡lyi palota a spanyol monarchia hivatalos ceremoniÃ¡lis rezidenciÃ¡ja. PompÃ¡s termeivel Ã©s nagy homlokzatÃ¡val EurÃ³pa egyik legjelentÅ‘sebb palotÃ¡ja.",
+    "ro": "Palatul Regal din Madrid este reÈ™edinÈ›a oficialÄƒ ceremonialÄƒ a monarhiei spaniole. Cu sÄƒlile sale reprezentative È™i faÈ›ada impunÄƒtoare, este unul dintre cele mai importante palate ale Europei.",
+    "en": "The Royal Palace in Madrid is the ceremonial official residence of the Spanish monarchy. With its grand halls and imposing facade, it is one of Europe's most important palaces."
+  },
+  "facts": {
+    "de": ["GrÃ¶ÃŸter KÃ¶nigspalast Westeuropas nach GrundflÃ¤che.", "Heute hauptsÃ¤chlich fÃ¼r Staatszeremonien genutzt.", "Mehr als 3.000 RÃ¤ume im gesamten Komplex.", "Die WachablÃ¶sung zieht viele Besucher an."],
+    "hu": ["Nyugat-EurÃ³pa legnagyobb alapterÃ¼letÅ± kirÃ¡lyi palotÃ¡ja.", "Ma fÅ‘kÃ©nt Ã¡llami ceremÃ³niÃ¡kra hasznÃ¡ljÃ¡k.", "TÃ¶bb mint 3000 helyisÃ©g tartozik az egyÃ¼tteshez.", "Az Å‘rsÃ©gvÃ¡ltÃ¡s sok lÃ¡togatÃ³t vonz."],
+    "ro": ["Cel mai mare palat regal din Europa de Vest ca suprafaÈ›Äƒ.", "AstÄƒzi este folosit mai ales pentru ceremonii de stat.", "Ansamblul are peste 3.000 de camere.", "Schimbarea gÄƒrzii atrage mulÈ›i vizitatori."],
+    "en": ["The largest royal palace in Western Europe by floor area.", "Used mainly for state ceremonies today.", "The complex contains more than 3,000 rooms.", "The changing of the guard attracts many visitors."]
+  }
+},
+{
+  "id": "es-aljaferia-zaragoza",
+  "type": "historical",
+  "parent": "ES-AR",
+  "coords": [-0.8939, 41.6499],
+  "name": {"de": "Aljaferia Zaragoza", "hu": "Zaragozai Aljaferia", "ro": "Aljaferia din Zaragoza", "en": "Aljaferia Palace"},
+  "description": {
+    "de": "Die AljaferÃ­a in Zaragoza ist ein prachtvoller islamischer Palast, der spÃ¤ter zu einem kÃ¶niglichen Sitz umgebaut wurde. Er ist eines der wichtigsten Beispiele maurischer Kunst in Nordspanien.",
+    "hu": "A zaragozai Aljaferia egy pompÃ¡s iszlÃ¡m palota, amelyet kÃ©sÅ‘bb kirÃ¡lyi szÃ©khellyÃ© Ã¡talakÃ­tottak. Ã‰szak-SpanyolorszÃ¡g egyik legfontosabb mÃ³r mÅ±vÃ©szeti emlÃ©ke.",
+    "ro": "Aljaferia din Zaragoza este un palat islamic splendid, transformat ulterior Ã®n reÈ™edinÈ›Äƒ regalÄƒ. Este unul dintre cele mai importante exemple de artÄƒ maurÄƒ din nordul Spaniei.",
+    "en": "The Aljaferia in Zaragoza is a splendid Islamic palace later adapted into a royal seat. It is one of the most important examples of Moorish art in northern Spain."
+  },
+  "facts": {
+    "de": ["UNESCO-Weltkulturerbe als Teil der MudÃ©jar-Architektur von Aragon.", "Erbaut im 11. Jahrhundert.", "SpÃ¤ter Sitz der aragonesischen KÃ¶nige.", "Heute Sitz des Regionalparlaments von Aragon."],
+    "hu": ["UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g AragÃ³nia mudÃ©jar Ã©pÃ­tÃ©szetÃ©nek rÃ©szekÃ©nt.", "A 11. szÃ¡zadban Ã©pÃ¼lt.", "KÃ©sÅ‘bb az aragÃ³niai kirÃ¡lyok szÃ©khelye lett.", "Ma AragÃ³nia regionÃ¡lis parlamentjÃ©nek ad otthont."],
+    "ro": ["Patrimoniu Mondial UNESCO ca parte a arhitecturii mudÃ©jar din Aragon.", "Construit Ã®n secolul al XI-lea.", "A devenit ulterior reÈ™edinÈ›a regilor Aragonului.", "AstÄƒzi gÄƒzduieÈ™te parlamentul regional din Aragon."],
+    "en": ["UNESCO World Heritage site as part of Aragon's MudÃ©jar architecture.", "Built in the 11th century.", "Later became the seat of the Kings of Aragon.", "Now houses the regional parliament of Aragon."]
+  }
+},
+{
+  "id": "es-teide",
+  "type": "mountain",
+  "parent": "ES-CN",
+  "coords": [-16.6425, 28.2724],
+  "name": {"de": "Teide", "hu": "Teide", "ro": "Teide", "en": "Teide"},
+  "description": {
+    "de": "Der Teide ist Spaniens hÃ¶chster Berg und ein aktiver Vulkan auf Teneriffa. Die markante Gipfellandschaft prÃ¤gt die Kanarischen Inseln und zieht Naturliebhaber und Wanderer gleichermaÃŸen an.",
+    "hu": "A Teide SpanyolorszÃ¡g legmagasabb hegye Ã©s egy aktÃ­v vulkÃ¡n TenerifÃ©n. Jellegzetes csÃºcskÃ¶rnyezete meghatÃ¡rozza a KanÃ¡ri-szigetek kÃ©pÃ©t, Ã©s a termÃ©szetkedvelÅ‘ket Ã©s a tÃºrÃ¡zÃ³kat is vonzza.",
+    "ro": "Teide este cel mai Ã®nalt munte din Spania È™i un vulcan activ din Tenerife. Peisajul sÄƒu vulcanic distinctiv defineÈ™te Insulele Canare È™i atrage deopotrivÄƒ iubitori ai naturii È™i drumeÈ›i.",
+    "en": "Teide is Spain's highest mountain and an active volcano on Tenerife. Its striking summit landscape defines the Canary Islands and attracts both nature lovers and hikers."
+  },
+  "facts": {
+    "de": ["Mit 3.718 Metern der hÃ¶chste Berg Spaniens.", "Teide-Nationalpark ist UNESCO-Welterbe.", "Einer der meistbesuchten Nationalparks Europas.", "Die Vulkanlandschaft wirkt teilweise mondÃ¤hnlich."],
+    "hu": ["3718 mÃ©terrel SpanyolorszÃ¡g legmagasabb hegye.", "A Teide Nemzeti Park UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g.", "EurÃ³pa egyik leglÃ¡togatottabb nemzeti parkja.", "VulkÃ¡ni tÃ¡ja sokszor holdbelinek hat."],
+    "ro": ["Cu 3.718 metri, este cel mai Ã®nalt munte din Spania.", "Parcul NaÈ›ional Teide este patrimoniu UNESCO.", "Unul dintre cele mai vizitate parcuri naÈ›ionale din Europa.", "Peisajul vulcanic pare uneori lunar."],
+    "en": ["At 3,718 meters, it is Spain's highest mountain.", "Teide National Park is a UNESCO World Heritage site.", "One of Europe's most visited national parks.", "Its volcanic landscape can look moon-like."]
+  }
+},
+{
+  "id": "es-cabo-de-gata",
+  "type": "landmark",
+  "parent": "ES-AN",
+  "coords": [-2.188, 36.856],
+  "name": {"de": "Cabo de Gata", "hu": "Cabo de Gata", "ro": "Cabo de Gata", "en": "Cabo de Gata"},
+  "description": {
+    "de": "Cabo de Gata ist ein geschÃ¼tztes KÃ¼sten- und Naturgebiet in AlmerÃ­a. Die trockene Vulkanlandschaft trifft dort auf Buchten, Klippen und das klare Mittelmeer.",
+    "hu": "A Cabo de Gata egy vÃ©dett parti Ã©s termÃ©szeti terÃ¼let AlmerÃ­Ã¡ban. A szÃ¡raz vulkÃ¡ni tÃ¡j itt Ã¶blÃ¶kkel, sziklÃ¡kkal Ã©s a tiszta FÃ¶ldkÃ¶zi-tengerrel talÃ¡lkozik.",
+    "ro": "Cabo de Gata este o zonÄƒ costierÄƒ È™i naturalÄƒ protejatÄƒ din AlmerÃ­a. Peisajul vulcanic arid se Ã®ntÃ¢lneÈ™te aici cu golfuri, stÃ¢nci È™i Marea MediteranÄƒ limpede.",
+    "en": "Cabo de Gata is a protected coastal and natural area in AlmerÃ­a. Its dry volcanic landscape meets coves, cliffs, and the clear Mediterranean Sea."
+  },
+  "facts": {
+    "de": ["Teil des Naturparks Cabo de Gata-NÃ­jar.", "Eine der trockensten Regionen Europas.", "Beliebt fÃ¼r unberÃ¼hrte StrÃ¤nde und Schnorcheln.", "Die Landschaft diente oft als Filmkulisse."],
+    "hu": ["A Cabo de Gata-NÃ­jar termÃ©szeti park rÃ©sze.", "EurÃ³pa egyik legszÃ¡razabb rÃ©giÃ³ja.", "Ã‰rintetlen strandjai Ã©s snorkelezÃ©si helyei nÃ©pszerÅ±ek.", "A tÃ¡j gyakori filmforgatÃ³helyszÃ­n."],
+    "ro": ["Face parte din Parcul Natural Cabo de Gata-NÃ­jar.", "Una dintre cele mai aride regiuni din Europa.", "PopularÄƒ pentru plajele sÄƒlbatice È™i snorkeling.", "Peisajul a fost adesea folosit ca platou de filmare."],
+    "en": ["Part of Cabo de Gata-NÃ­jar Natural Park.", "One of the driest regions in Europe.", "Popular for unspoiled beaches and snorkeling.", "The landscape has often been used as a film set."]
+  }
+},
+{
+  "id": "es-tabernas-desert",
+  "type": "landmark",
+  "parent": "ES-AN",
+  "coords": [-2.456, 37.005],
+  "name": {"de": "Tabernas WÃ¼ste", "hu": "Tabernas sivatag", "ro": "DeÈ™ertul Tabernas", "en": "Tabernas Desert"},
+  "description": {
+    "de": "Die Tabernas-WÃ¼ste in Andalusien ist Europas einzige echte HalbwÃ¼ste. Mit ihren trockenen Schluchten und kahlen HÃ¼geln erinnert sie stark an klassische Westernlandschaften.",
+    "hu": "Az andalÃºziai Tabernas sivatag EurÃ³pa egyetlen igazi fÃ©lsivataga. SzÃ¡raz vÃ¶lgyeivel Ã©s kopasz dombjaival erÅ‘sen emlÃ©keztet a klasszikus westernek tÃ¡jaira.",
+    "ro": "DeÈ™ertul Tabernas din Andaluzia este singurul semi-deÈ™ert adevÄƒrat al Europei. Cu vÄƒile sale uscate È™i colinele golaÈ™e, seamÄƒnÄƒ mult cu peisajele western clasice.",
+    "en": "The Tabernas Desert in Andalusia is Europe's only true semi-desert. Its dry gullies and barren hills strongly resemble classic Western film landscapes."
+  },
+  "facts": {
+    "de": ["Sehr trockenes Klima mit wenigen NiederschlÃ¤gen.", "BerÃ¼hmt als Drehort fÃ¼r Westernfilme.", "Teil der Provinz AlmerÃ­a.", "Die Vegetation ist besonders spÃ¤rlich."],
+    "hu": ["Nagyon szÃ¡raz Ã©ghajlat, kevÃ©s csapadÃ©kkal.", "Westernek hÃ­res forgatÃ³helyszÃ­ne.", "AlmerÃ­a tartomÃ¡ny rÃ©sze.", "A nÃ¶vÃ©nyzet rendkÃ­vÃ¼l szÃ³rvÃ¡nyos."],
+    "ro": ["ClimÄƒ foarte uscatÄƒ, cu puÈ›ine precipitaÈ›ii.", "Cunoscut ca loc de filmare pentru westernuri.", "Face parte din provincia AlmerÃ­a.", "VegetaÈ›ia este foarte rarÄƒ."],
+    "en": ["Very dry climate with little rainfall.", "Famous as a filming location for Westerns.", "Part of the province of AlmerÃ­a.", "Vegetation is extremely sparse."]
+  }
+},
+{
+  "id": "es-playa-de-las-catedrales",
+  "type": "landmark",
+  "parent": "ES-GA",
+  "coords": [-7.153, 43.553],
+  "name": {"de": "Strand der Kathedralen", "hu": "A katedrÃ¡lisok strandja", "ro": "Plaja Catedralei", "en": "Cathedrals Beach"},
+  "description": {
+    "de": "Die Playa de las Catedrales in Galicien ist fÃ¼r ihre natÃ¼rlichen FelsbÃ¶gen und HÃ¶hlen bekannt. Bei Ebbe lÃ¤sst sich die beeindruckende SteilkÃ¼ste besonders gut zu FuÃŸ erkunden.",
+    "hu": "A galiciai Playa de las Catedrales termÃ©szetes sziklaÃ­veirÅ‘l Ã©s barlangjairÃ³l hÃ­res. ApÃ¡ly idejÃ©n a lenyÅ±gÃ¶zÅ‘ sziklÃ¡s part kÃ¼lÃ¶nÃ¶sen jÃ³l bejÃ¡rhatÃ³ gyalog.",
+    "ro": "Playa de las Catedrales din Galicia este cunoscutÄƒ pentru arcadele naturale de piatrÄƒ È™i peÈ™teri. La reflux, coasta impresionantÄƒ poate fi exploratÄƒ foarte bine pe jos.",
+    "en": "Playa de las Catedrales in Galicia is known for its natural rock arches and caves. At low tide, the impressive cliff coast can be explored especially well on foot."
+  },
+  "facts": {
+    "de": ["Der Name stammt von den kathedralenartigen Felsformationen.", "Am besten bei Ebbe zu besuchen.", "Beliebtes Naturziel an der galicischen KÃ¼ste.", "Teil der Gemeinde Ribadeo."],
+    "hu": ["A nÃ©v a katedrÃ¡lisszerÅ± sziklaalakzatokbÃ³l ered.", "ApÃ¡ly idejÃ©n a leglÃ¡tvÃ¡nyosabb.", "NÃ©pszerÅ± termÃ©szeti cÃ©lpont GalÃ­cia partjainÃ¡l.", "Ribadeo telepÃ¼lÃ©s rÃ©sze."],
+    "ro": ["Numele vine de la formaÈ›iunile stÃ¢ncoase asemÄƒnÄƒtoare catedralelor.", "Se viziteazÄƒ cel mai bine la reflux.", "DestinaÈ›ie naturalÄƒ popularÄƒ pe coasta Galiciei.", "Face parte din comuna Ribadeo."],
+    "en": ["The name comes from cathedral-like rock formations.", "Best visited at low tide.", "A popular nature destination on the Galician coast.", "Part of the municipality of Ribadeo."]
+  }
+},
+{
+  "id": "es-donana-national-park",
+  "type": "landmark",
+  "parent": "ES-AN",
+  "coords": [-6.433, 37.05],
+  "name": {"de": "DoÃ±ana Nationalpark", "hu": "DoÃ±ana Nemzeti Park", "ro": "Parcul NaÈ›ional DoÃ±ana", "en": "DoÃ±ana National Park"},
+  "description": {
+    "de": "Der DoÃ±ana-Nationalpark ist eines der wichtigsten Feuchtgebiete Europas. Seine Marschen, DÃ¼nen und SÃ¼mpfe sind ein SchlÃ¼sselraum fÃ¼r ZugvÃ¶gel und bedrohte Arten.",
+    "hu": "A DoÃ±ana Nemzeti Park EurÃ³pa egyik legfontosabb vizes Ã©lÅ‘helye. Mocsarai, dÃ¼nÃ©i Ã©s Ã¡rtÃ©rei kulcsfontossÃ¡gÃºak a vonulÃ³ madarak Ã©s a veszÃ©lyeztetett fajok szÃ¡mÃ¡ra.",
+    "ro": "Parcul NaÈ›ional DoÃ±ana este una dintre cele mai importante zone umede din Europa. MlaÈ™tinile, dunele È™i zonele inundabile sunt esenÈ›iale pentru pÄƒsÄƒrile migratoare È™i speciile ameninÈ›ate.",
+    "en": "DoÃ±ana National Park is one of Europe's most important wetlands. Its marshes, dunes, and swamps are crucial for migratory birds and endangered species."
+  }
+},
+{
+  "id": "es-costa-brava",
+  "type": "landmark",
+  "parent": "ES-CT",
+  "coords": [3.2, 42.0],
+  "name": {"de": "Costa Brava", "hu": "Costa Brava", "ro": "Costa Brava", "en": "Costa Brava"},
+  "description": {
+    "de": "Die Costa Brava ist der wilde, felsige KÃ¼stenabschnitt Kataloniens. Zwischen Buchten, StrÃ¤nden und FischerdÃ¶rfern verbindet sie Natur, Meer und mediterranes LebensgefÃ¼hl.",
+    "hu": "A Costa Brava KatalÃ³nia vad, sziklÃ¡s partszakasza. Ã–blÃ¶k, strandok Ã©s halÃ¡szfalvak kÃ¶zÃ¶tt Ã¶tvÃ¶zi a termÃ©szetet, a tengert Ã©s a mediterrÃ¡n hangulatot.",
+    "ro": "Costa Brava este sectorul sÄƒlbatic È™i stÃ¢ncos al coastei Cataloniei. ÃŽntre golfuri, plaje È™i sate de pescari, combinÄƒ natura, marea È™i atmosfera mediteraneanÄƒ.",
+    "en": "Costa Brava is the wild, rocky stretch of Catalonia's coast. Between coves, beaches, and fishing villages, it blends nature, sea, and Mediterranean lifestyle."
+  }
+},
+{
+  "id": "es-prado-museum",
+  "type": "landmark",
+  "parent": "ES-MD",
+  "coords": [-3.6921, 40.4138],
+  "name": {"de": "Prado Museum", "hu": "Prado MÃºzeum", "ro": "Muzeul Prado", "en": "Prado Museum"},
+  "description": {
+    "de": "Das Prado Museum ist Spaniens bedeutendstes Kunstmuseum und ein KernstÃ¼ck des Madrider Kunstdreiecks. Es beherbergt einige der wichtigsten Werke der europÃ¤ischen Malerei.",
+    "hu": "A Prado MÃºzeum SpanyolorszÃ¡g legfontosabb mÅ±vÃ©szeti mÃºzeuma Ã©s a madridi mÅ±vÃ©szeti hÃ¡romszÃ¶g kÃ¶zponti eleme. Az eurÃ³pai festÃ©szet nÃ©hÃ¡ny legjelentÅ‘sebb alkotÃ¡sÃ¡nak ad otthont.",
+    "ro": "Muzeul Prado este cel mai important muzeu de artÄƒ din Spania È™i o piesÄƒ centralÄƒ a Triunghiului de Aur al artei din Madrid. AdÄƒposteÈ™te unele dintre cele mai importante opere ale picturii europene.",
+    "en": "The Prado Museum is Spain's most important art museum and a key part of Madrid's art triangle. It houses some of the most important works in European painting."
+  },
+  "facts": {
+    "de": ["BerÃ¼hmt fÃ¼r GemÃ¤lde von VelÃ¡zquez, Goya und El Greco.", "GeÃ¶ffnet wurde es 1819.", "Eines der meistbesuchten Museen Europas.", "Teil des Paseo del Arte."],
+    "hu": ["VelÃ¡zquez, Goya Ã©s El Greco festmÃ©nyeirÅ‘l hÃ­res.", "1819-ben nyÃ­tottÃ¡k meg.", "EurÃ³pa egyik legtÃ¶bbet lÃ¡togatott mÃºzeuma.", "A Paseo del Arte rÃ©sze."],
+    "ro": ["Celebru pentru picturi de VelÃ¡zquez, Goya È™i El Greco.", "A fost inaugurat Ã®n 1819.", "Unul dintre cele mai vizitate muzee din Europa.", "Face parte din Paseo del Arte."],
+    "en": ["Famous for paintings by VelÃ¡zquez, Goya, and El Greco.", "Opened in 1819.", "One of Europe's most visited museums.", "Part of the Paseo del Arte."]
+  }
+},
+{
+  "id": "es-guggenheim-bilbao",
+  "type": "landmark",
+  "parent": "ES-PV",
+  "coords": [-2.9349, 43.2686],
+  "name": {"de": "Guggenheim Bilbao", "hu": "Guggenheim Bilbao", "ro": "Guggenheim Bilbao", "en": "Guggenheim Bilbao"},
+  "description": {
+    "de": "Das Guggenheim Museum in Bilbao ist ein Markenzeichen moderner Architektur und Kunst. Das futuristische TitangebÃ¤ude hat die Stadtsilhouette und das internationale Image Bilbaos grundlegend verÃ¤ndert.",
+    "hu": "A bilbaÃ³i Guggenheim MÃºzeum a modern Ã©pÃ­tÃ©szet Ã©s mÅ±vÃ©szet jelkÃ©pe. A futurisztikus titÃ¡n Ã©pÃ¼let alapjaiban vÃ¡ltoztatta meg Bilbao arculatÃ¡t Ã©s nemzetkÃ¶zi megÃ­tÃ©lÃ©sÃ©t.",
+    "ro": "Muzeul Guggenheim din Bilbao este un simbol al arhitecturii È™i artei moderne. ClÄƒdirea futuristÄƒ din titan a schimbat radical silueta oraÈ™ului È™i imaginea internaÈ›ionalÄƒ a Bilbao.",
+    "en": "The Guggenheim Museum in Bilbao is a symbol of modern architecture and art. Its futuristic titanium building fundamentally changed Bilbao's skyline and international image."
+  },
+  "facts": {
+    "de": ["Entworfen von Frank Gehry.", "ErÃ¶ffnet 1997.", "Gilt als SchlÃ¼sselbeispiel des Bilbao-Effekts.", "Ein Wahrzeichen am Fluss NerviÃ³n."],
+    "hu": ["Frank Gehry tervezte.", "1997-ben nyÃ­lt meg.", "A Bilbao-hatÃ¡s tankÃ¶nyvi pÃ©ldÃ¡ja.", "A NerviÃ³n folyÃ³ partjÃ¡nak jelkÃ©pe."],
+    "ro": ["Proiectat de Frank Gehry.", "Deschis Ã®n 1997.", "Considerat un exemplu-cheie al 'efectului Bilbao'.", "Un simbol de pe malul rÃ¢ului NerviÃ³n."],
+    "en": ["Designed by Frank Gehry.", "Opened in 1997.", "A textbook example of the Bilbao effect.", "A landmark on the NerviÃ³n River."]
+  }
+},
+{
+  "id": "es-plaza-mayor-madrid",
+  "type": "landmark",
+  "parent": "ES-MD",
+  "coords": [-3.7074, 40.4154],
+  "name": {"de": "Plaza Mayor Madrid", "hu": "Madridi Plaza Mayor", "ro": "Plaza Mayor Madrid", "en": "Plaza Mayor Madrid"},
+  "description": {
+    "de": "Die Plaza Mayor ist Madrids berÃ¼hmter historischer Hauptplatz. Ihre geschlossene Arkadenform und die langen Fassaden machen sie zu einem zentralen Treffpunkt der Stadt.",
+    "hu": "A Plaza Mayor Madrid hÃ­res tÃ¶rtÃ©nelmi fÅ‘tere. ZÃ¡rt Ã¡rkÃ¡dsora Ã©s hosszÃº homlokzatai a vÃ¡ros egyik kÃ¶zponti talÃ¡lkozÃ³helyÃ©vÃ© teszik.",
+    "ro": "Plaza Mayor este celebra piaÈ›Äƒ istoricÄƒ principalÄƒ a Madridului. Forma sa Ã®nchisÄƒ cu arcade È™i faÈ›adele lungi o fac un punct central de Ã®ntÃ¢lnire al oraÈ™ului.",
+    "en": "Plaza Mayor is Madrid's famous historic main square. Its enclosed arcade form and long facades make it a central meeting point in the city."
+  },
+  "facts": {
+    "de": ["Entstand im 17. Jahrhundert.", "War Schauplatz von MÃ¤rkten, Festen und Ã¶ffentlichen Ereignissen.", "Umgeben von dreigeschossigen WohnhÃ¤usern.", "Eine der bekanntesten Postkartenansichten Madrids."],
+    "hu": ["A 17. szÃ¡zadban alakult ki.", "Piacok, Ã¼nnepsÃ©gek Ã©s nyilvÃ¡nos esemÃ©nyek helyszÃ­ne volt.", "HÃ¡romszintes lakÃ³hÃ¡zak veszik kÃ¶rÃ¼l.", "Madrid egyik legismertebb kÃ©peslapmotÃ­vuma."],
+    "ro": ["S-a format Ã®n secolul al XVII-lea.", "A fost scena pieÈ›elor, festivalurilor È™i evenimentelor publice.", "Este Ã®nconjuratÄƒ de clÄƒdiri rezidenÈ›iale cu trei etaje.", "Una dintre cele mai cunoscute imagini de carte poÈ™talÄƒ ale Madridului."],
+    "en": ["Dates back to the 17th century.", "Hosted markets, festivals, and public events.", "Surrounded by three-story residential buildings.", "One of Madrid's most iconic postcard views."]
+  }
+},
+{
+  "id": "es-mezquita-cordoba",
+  "type": "historical",
+  "parent": "ES-AN",
+  "coords": [-4.7783, 37.8779],
+  "name": {"de": "Mezquita-Catedral von Cordoba", "hu": "Cordobai Mezquita-KatedrÃ¡lis", "ro": "Mezquita-Catedral din Cordoba", "en": "Mezquita-Catedral of Cordoba"},
+  "description": {
+    "de": "Die Mezquita-Catedral von Cordoba vereint eine ehemalige Moschee und eine christliche Kathedrale in einem einzigartigen Bauwerk. Die rot-weiÃŸen BÃ¶gen im Inneren gehÃ¶ren zu den berÃ¼hmtesten Bildern Spaniens.",
+    "hu": "A cordobai Mezquita-KatedrÃ¡lis egykori mecsetet Ã©s keresztÃ©ny katedrÃ¡list egyesÃ­t egyedÃ¼lÃ¡llÃ³ Ã©pÃ­tmÃ©nyben. A belsÅ‘ tÃ©r vÃ¶rÃ¶s-fehÃ©r Ã­vei SpanyolorszÃ¡g legismertebb kÃ©pei kÃ¶zÃ© tartoznak.",
+    "ro": "Mezquita-Catedral din Cordoba uneÈ™te Ã®ntr-o singurÄƒ clÄƒdire unicÄƒ o fostÄƒ moschee È™i o catedralÄƒ creÈ™tinÄƒ. Arcadele roÈ™u-alb din interior sunt printre cele mai faimoase imagini din Spania.",
+    "en": "The Mezquita-Catedral of Cordoba combines a former mosque and a Christian cathedral in one unique building. The red-and-white arches inside are among Spain's most famous images."
+  },
+  "facts": {
+    "de": ["UNESCO-Weltkulturerbe.", "UrsprÃ¼nglich im 8. Jahrhundert als Moschee errichtet.", "SpÃ¤ter zur Kathedrale umgewandelt.", "BerÃ¼hmt fÃ¼r die Hypostylhalle mit hunderten SÃ¤ulen."],
+    "hu": ["UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g.", "Eredetileg a 8. szÃ¡zadban mecsetkÃ©nt Ã©pÃ¼lt.", "KÃ©sÅ‘bb katedrÃ¡lissÃ¡ alakÃ­tottÃ¡k.", "HÃ­res a szÃ¡mtalan oszlopbÃ³l Ã¡llÃ³ csarnokrÃ³l."],
+    "ro": ["Patrimoniu Mondial UNESCO.", "ConstruitÄƒ iniÈ›ial Ã®n secolul al VIII-lea ca moschee.", "Ulterior transformatÄƒ Ã®n catedralÄƒ.", "FaimoasÄƒ pentru sala hipostilÄƒ cu sute de coloane."],
+    "en": ["UNESCO World Heritage site.", "Originally built as a mosque in the 8th century.", "Later converted into a cathedral.", "Famous for its hypostyle hall with hundreds of columns."]
+  }
+},
+{
+  "id": "es-santiago-cathedral",
+  "type": "historical",
+  "parent": "ES-GA",
+  "coords": [-8.5457, 42.8805],
+  "name": {"de": "Kathedrale von Santiago de Compostela", "hu": "Santiago de Compostela katedrÃ¡lisa", "ro": "Catedrala din Santiago de Compostela", "en": "Cathedral of Santiago de Compostela"},
+  "description": {
+    "de": "Die Kathedrale von Santiago de Compostela ist das Ziel des berÃ¼hmten Jakobswegs. Als spirituelles Zentrum Galiciens prÃ¤gt sie die Altstadt und das Pilgerleben der Stadt.",
+    "hu": "A Santiago de Compostela-i katedrÃ¡lis a hÃ­rÃ©s Szent Jakab-Ãºt cÃ©lpontja. GalÃ­cia spirituÃ¡lis kÃ¶zpontjakÃ©nt meghatÃ¡rozza az Ã³vÃ¡rost Ã©s a zÃ¡ndokÃ©letet.",
+    "ro": "Catedrala din Santiago de Compostela este destinaÈ›ia celebrului Camino de Santiago. Ca centru spiritual al Galiciei, dominÄƒ centrul vechi È™i viaÈ›a pelerinilor.",
+    "en": "The Cathedral of Santiago de Compostela is the destination of the famous Camino de Santiago. As Galicia's spiritual center, it shapes the old town and pilgrim life."
+  },
+  "facts": {
+    "de": ["Ziel des Jakobswegs fÃ¼r Pilger aus ganz Europa.", "UNESCO-Weltkulturerbe der Altstadt.", "Gilt als GrabstÃ¤tte des Apostels Jakobus.", "Die barocke Fassade prÃ¤gt das Stadtbild."],
+    "hu": ["EgÃ©sz EurÃ³pÃ¡bÃ³l Ã©rkezÅ‘ zÃ¡ndokok cÃ©lpontja a Szent Jakab-Ãºton.", "Az Ã³vÃ¡ros UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g.", "Az apostol Jakab sÃ­rhelyÃ©nek tartjÃ¡k.", "A barokk homlokzat meghatÃ¡rozza a vÃ¡roskÃ©pet."],
+    "ro": ["DestinaÈ›ie pentru pelerini din Ã®ntreaga EuropÄƒ pe Camino de Santiago.", "Patrimoniu UNESCO al centrului istoric.", "Este consideratÄƒ locul de Ã®nmormÃ¢ntare al apostolului Iacob.", "FaÈ›ada barocÄƒ dominÄƒ imaginea oraÈ™ului."],
+    "en": ["A destination for pilgrims from across Europe on the Camino de Santiago.", "UNESCO World Heritage site for the old town.", "Regarded as the burial place of the Apostle James.", "Its Baroque facade dominates the cityscape."]
+  }
+}
+];
+export const spainAllPoi: POI[] = [...spainCountry, ...spainRegions, ...spainCities, ...extraSpainPoi];
