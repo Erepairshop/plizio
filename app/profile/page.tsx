@@ -232,7 +232,18 @@ export default function ProfilePage() {
 
   const handleLogout = async () => {
     await signOut();
+    // Clear all plizio_* localStorage keys so logged-in data doesn't linger
+    try {
+      const toRemove: string[] = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (k && k.startsWith("plizio_")) toRemove.push(k);
+      }
+      toRemove.forEach((k) => localStorage.removeItem(k));
+    } catch {}
     setUser(null);
+    // Force reload so every component picks up cleared state
+    window.location.href = "/";
   };
 
   const handleSync = async () => {
