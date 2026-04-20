@@ -28,13 +28,17 @@ import { belgiumMap, belgiumViewBox, projectCoordsBE } from "./belgium.svg";
 import { belgiumAllPoi } from "../data/belgiumPoi";
 import { portugalMap, portugalViewBox, projectCoordsPT } from "./portugal.svg";
 import { portugalAllPoi } from "../data/portugalPoi";
+import { greeceMap, greeceViewBox, projectCoordsGR } from "./greece.svg";
+import { greeceAllPoi } from "../data/greecePoi";
+import { irelandMap, irelandViewBox, projectCoordsIE } from "./ireland.svg";
+import { irelandAllPoi } from "../data/irelandPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -144,6 +148,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         pois: portugalAllPoi,
         subregions: {},
       };
+    case "gr":
+      return {
+        countryId: "GR",
+        map: greeceMap as unknown as BundeslandPath[],
+        viewBox: greeceViewBox,
+        projectCoords: projectCoordsGR,
+        pois: greeceAllPoi,
+        subregions: {},
+      };
+    case "ie":
+      return {
+        countryId: "IE",
+        map: irelandMap as unknown as BundeslandPath[],
+        viewBox: irelandViewBox,
+        projectCoords: projectCoordsIE,
+        pois: irelandAllPoi,
+        subregions: {},
+      };
     case "de":
     default:
       return {
@@ -156,3 +178,4 @@ export function getCountryMap(lang: Lang): CountryMapData {
       };
   }
 }
+
