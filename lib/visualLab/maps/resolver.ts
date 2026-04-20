@@ -56,9 +56,13 @@ import { luxembourgMap, luxembourgViewBox, projectCoordsLU } from "./luxembourg.
 import { luxembourgAllPoi } from "../data/luxembourgPoi";
 import { lithuaniaMap, lithuaniaViewBox, projectCoordsLT } from "./lithuania.svg";
 import { lithuaniaAllPoi } from "../data/lithuaniaPoi";
+import { latviaMap, latviaViewBox, projectCoordsLV } from "./latvia.svg";
+import { latviaAllPoi } from "../data/latviaPoi";
+import { estoniaMap, estoniaViewBox, projectCoordsEE } from "./estonia.svg";
+import { estoniaAllPoi } from "../data/estoniaPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg" | "lu" | "lt" | "lv" | "ee";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
@@ -296,6 +300,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: lithuaniaViewBox,
         projectCoords: projectCoordsLT,
         pois: lithuaniaAllPoi,
+        subregions: {},
+      };
+    case "lv":
+      return {
+        countryId: "LV",
+        map: latviaMap as unknown as BundeslandPath[],
+        viewBox: latviaViewBox,
+        projectCoords: projectCoordsLV,
+        pois: latviaAllPoi,
+        subregions: {},
+      };
+    case "ee":
+      return {
+        countryId: "EE",
+        map: estoniaMap as unknown as BundeslandPath[],
+        viewBox: estoniaViewBox,
+        projectCoords: projectCoordsEE,
+        pois: estoniaAllPoi,
         subregions: {},
       };
     case "de":
