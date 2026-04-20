@@ -4278,6 +4278,146 @@ export const romaniaExtraPois: POI[] = [
     description: { de: "Schutzgebiet mit Wasserfällen und Wäldern.", hu: "Védett terület vízesésekkel és erdőkkel.", ro: "Arie protejată cu cascade și păduri.", en: "Protected area with waterfalls and forests." },
     facts: { de: ["i3i6 Der Naturpark Putna-Vrancea (rumänisch Parcul Natural Putna) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Putna–Vrancea Natúrpark (románul Parcul Natural Putna–Vrancea) IUCN V-ös besorolású védett terület Romániában Vrancea megye észak-nyugati részén, a Háromszéki-havasok vidékén."], ro: ["Parcul Natural Putna-Vrancea este o arie protejată de interes național, ce corespunde categoriei a V-a IUCN (parc natural), situată în sud-vestul Moldovei, pe teritoriul județului Vrancea."], en: ["The Putna-Vrancea Natural Park (Romanian: Parcul Natural Putna-Vrancea) is a protected area (natural park category V IUCN) situate in Romania, in administrative territory of Vrancea County."] },
     image: "/geo-images/romania/putna-vrancea-natural-park.webp"
+  },
+  {
+    id: "ro-poi-oradea-unirii", type: "landmark", parent: "RO-BH", coords: [21.9289, 47.0553],
+    name: { de: "Vereinigungsplatz Oradea", hu: "Szent László tér", ro: "Piața Unirii Oradea", en: "Unirii Square Oradea" },
+    description: { de: "Zentraler Platz von Oradea mit beeindruckender Architektur.", hu: "Nagyvárad központi tere lenyűgöző építészettel.", ro: "Piața centrală din Oradea cu arhitectură impresionantă.", en: "Central square of Oradea with impressive architecture." },
+    facts: { de: ["Umgeben von Jugendstil-Palästen.", "Beherbergt die Mondkirche.", "Kürzlich renoviertes Fußgängerzentrum."], hu: ["Szecessziós paloták veszik körül.", "Itt található a Holdas templom.", "Nemrég felújított sétálóövezet."], ro: ["Înconjurată de palate Art Nouveau.", "Găzduiește Biserica cu Lună.", "Centru pietonal recent renovat."], en: ["Surrounded by Art Nouveau palaces.", "Houses the Moon Church.", "Recently renovated pedestrian center."] },
+    image: "/geo-images/romania/oradea-unirii.webp"
+  },
+  {
+    id: "ro-poi-timisoara-unirii", type: "landmark", parent: "RO-TM", coords: [21.2286, 45.7578],
+    name: { de: "Vereinigungsplatz Temeswar", hu: "Dóm tér", ro: "Piața Unirii Timișoara", en: "Unirii Square Timișoara" },
+    description: { de: "Der älteste Platz in Timișoara im Barockstil.", hu: "Temesvár legrégebbi, barokk stílusú tere.", ro: "Cea mai veche piață din Timișoara, în stil baroc.", en: "The oldest square in Timișoara, in Baroque style." },
+    facts: { de: ["Standort des katholischen Doms.", "Umgeben von farbenfrohen Barockgebäuden.", "Zentrum des kulturellen Lebens."], hu: ["A római katolikus dóm helyszíne.", "Színes barokk épületek veszik körül.", "A kulturális élet központja."], ro: ["Locul Domului Romano-Catolic.", "Înconjurată de clădiri baroce colorate.", "Centrul vieții culturale."], en: ["Site of the Roman Catholic Dome.", "Surrounded by colorful Baroque buildings.", "Center of cultural life."] },
+    image: "/geo-images/romania/timisoara-unirii.webp"
+  },
+  {
+    id: "ro-poi-constanta-casino", type: "landmark", parent: "RO-CT", coords: [28.6633, 44.1706],
+    name: { de: "Casino von Konstanza", hu: "Konstancai Kaszinó", ro: "Cazinoul din Constanța", en: "Constanța Casino" },
+    description: { de: "Ein ikonisches Jugendstilgebäude am Ufer des Schwarzen Meeres.", hu: "Ikonikus szecessziós épület a Fekete-tenger partján.", ro: "O clădire iconică Art Nouveau pe malul Mării Negre.", en: "An iconic Art Nouveau building on the Black Sea shore." },
+    facts: { de: ["Erbaut im Jahr 1910.", "Wahrzeichen der Stadt Constanța.", "Derzeit umfassend restauriert."], hu: ["1910-ben épült.", "Konstanca városának jelképe.", "Jelenleg teljes körű felújítás alatt áll."], ro: ["Construit în 1910.", "Simbolul orașului Constanța.", "În prezent în curs de restaurare completă."], en: ["Built in 1910.", "Landmark of Constanța city.", "Currently undergoing full restoration."] },
+    image: "/geo-images/romania/constanta-casino.webp"
+  },
+  {
+    id: "ro-poi-targu-mures-trandafirilor", type: "landmark", parent: "RO-MS", coords: [24.5614, 46.5456],
+    name: { de: "Rosenplatz", hu: "Rózsák tere", ro: "Piața Trandafirilor", en: "Roses Square" },
+    description: { de: "Das Herz von Târgu Mureș mit dem Kulturpalast.", hu: "Marosvásárhely szíve a Kultúrpalotával.", ro: "Inima orașului Târgu Mureș cu Palatul Culturii.", en: "The heart of Târgu Mureș with the Culture Palace." },
+    facts: { de: ["Bekannt für seine Blumenbeete.", "Standort des Rathauses und des Kulturpalastes.", "Zentraler Treffpunkt der Stadt."], hu: ["Virágágyásairól ismert.", "Itt található a Városháza és a Kultúrpalota.", "A város központi találkozóhelye."], ro: ["Cunoscută pentru straturile de flori.", "Locul Primăriei și al Palatului Culturii.", "Locul central de întâlnire al orașului."], en: ["Known for its flower beds.", "Site of the City Hall and Culture Palace.", "Central meeting point of the city."] },
+    image: "/geo-images/romania/targu-mures-trandafirilor.webp"
+  },
+  {
+    id: "ro-poi-pitesti-trivale", type: "landmark", parent: "RO-AG", coords: [24.8500, 44.8667],
+    name: { de: "Trivale-Park", hu: "Trivale park", ro: "Parcul Trivale", en: "Trivale Park" },
+    description: { de: "Ein großer Waldpark in Pitești.", hu: "Egy nagy erdei park Pitești-ben.", ro: "Un parc forestier mare în Pitești.", en: "A large forest park in Pitești." },
+    facts: { de: ["Beliebtes Erholungsgebiet.", "Beherbergt das Kloster Trivale.", "Bietet zahlreiche Wanderwege."], hu: ["Népszerű pihenőhely.", "Itt található a Trivale-kolostor.", "Számos túraútvonalat kínál."], ro: ["Zonă populară de recreere.", "Găzduiește Mănăstirea Trivale.", "Oferă numeroase trasee de drumeție."], en: ["Popular recreation area.", "Houses the Trivale Monastery.", "Offers numerous hiking trails."] },
+    image: "/geo-images/romania/pitesti-trivale.webp"
+  },
+  {
+    id: "ro-poi-craiova-viteazul", type: "landmark", parent: "RO-DJ", coords: [23.7944, 44.3208],
+    name: { de: "Mihai-Viteazul-Platz", hu: "Mihai Viteazul tér", ro: "Piața Mihai Viteazul Craiova", en: "Mihai Viteazul Square Craiova" },
+    description: { de: "Zentraler Platz in Craiova mit musikalischer Fontäne.", hu: "Craiova központi tere zenélő szökőkúttal.", ro: "Piața centrală din Craiova cu fântână muzicală.", en: "Central square in Craiova with musical fountain." },
+    facts: { de: ["Standort der Präfektur.", "Berühmt für die Weihnachts- und Ostermärkte.", "Verfügt über eine große Reiterstatue."], hu: ["A prefektúra helyszíne.", "Híres a karácsonyi és húsvéti vásárokról.", "Nagy lovasszoborral rendelkezik."], ro: ["Locul Prefecturii.", "Faimoasă pentru târgurile de Crăciun și Paște.", "Dispune de o statuie ecvestră mare."], en: ["Site of the Prefecture.", "Famous for Christmas and Easter markets.", "Features a large equestrian statue."] },
+    image: "/geo-images/romania/craiova-viteazul.webp"
+  },
+  {
+    id: "ro-poi-galati-gradina-botanica", type: "landmark", parent: "RO-GL", coords: [28.0189, 45.4158],
+    name: { de: "Botanischer Garten Galați", hu: "Galaci Botanikus Kert", ro: "Grădina Botanică Galați", en: "Galați Botanical Garden" },
+    description: { de: "Teil des Museumskomplexes der Naturwissenschaften.", hu: "A Természettudományi Múzeumkomplexum része.", ro: "Parte a Complexului Muzeal de Științele Naturii.", en: "Part of the Natural Sciences Museum Complex." },
+    facts: { de: ["Große Sammlung exoticcher Pflanzen.", "Beherbergt ein Planetarium.", "Bietet Blick auf die Donau."], hu: ["Egzotikus növények nagy gyűjteménye.", "Planetáriumnak ad otthont.", "Kilátást nyújt a Dunára."], ro: ["Colecție mare de plante exotice.", "Găzduiește un planetariu.", "Oferă vedere spre Dunăre."], en: ["Large collection of exotic plants.", "Houses a planetarium.", "Offers views of the Danube."] },
+    image: "/geo-images/romania/galati-botanical.webp"
+  },
+  {
+    id: "ro-poi-parang", type: "mountain", parent: "RO-GJ", coords: [23.5333, 45.3500],
+    name: { de: "Parâng-Gebirge", hu: "Páring-hegység", ro: "Munții Parâng", en: "Parâng Mountains" },
+    description: { de: "Eines der höchsten Gebirgsmassive Rumäniens.", hu: "Románia egyik legmagasabb hegysége.", ro: "Unul dintre cele mai înalte masive muntoase din România.", en: "One of the highest mountain massifs in Romania." },
+    facts: { de: ["Höchster Gipfel: Parângul Mare (2519 m).", "Bekannt für Gletscherseen.", "Beliebtes Skigebiet."], hu: ["Legmagasabb csúcs: Nagy-Páring (2519 m).", "Gleccsertavairól ismert.", "Népszerű síterület."], ro: ["Cel mai înalt vârf: Parângul Mare (2519 m).", "Cunoscut pentru lacurile glaciare.", "Zonă populară de schi."], en: ["Highest peak: Parângul Mare (2519 m).", "Known for glacial lakes.", "Popular skiing area."] },
+    image: "/geo-images/romania/parang.webp"
+  },
+  {
+    id: "ro-poi-danube-delta-biosphere", type: "landmark", parent: "RO-TL", coords: [29.1000, 45.1500],
+    name: { de: "Biosphärenreservat Donaudelta", hu: "Duna-delta Bioszféra-rezervátum", ro: "Rezervația Biosferei Delta Dunării", en: "Danube Delta Biosphere Reserve" },
+    description: { de: "UNESCO-Weltnaturerbe und wichtiges Ökosystem.", hu: "UNESCO világörökségi helyszín és fontos ökoszisztéma.", ro: "Sit UNESCO și ecosistem vital.", en: "UNESCO World Heritage site and vital ecosystem." },
+    facts: { de: ["Größtes Schilfgebiet der Welt.", "Über 300 Vogelarten.", "Einzigartige schwimmende Inseln."], hu: ["A világ legnagyobb nádasa.", "Több mint 300 madárfaj.", "Egyedülálló úszó szigetek."], ro: ["Cea mai mare zonă de stufăriș din lume.", "Peste 300 de specii de păsări.", "Insule plutitoare unice."], en: ["Largest reed bed in the world.", "Over 300 bird species.", "Unique floating islands."] },
+    image: "/geo-images/romania/danube-delta-biosphere.webp"
+  },
+  {
+    id: "ro-poi-cozia-np", type: "landmark", parent: "RO-VL", coords: [24.3167, 45.3333],
+    name: { de: "Nationalpark Cozia", hu: "Kozsia Nemzeti Park", ro: "Parcul Național Cozia", en: "Cozia National Park" },
+    description: { de: "Schutzgebiet in den Südkarpaten.", hu: "Védett terület a Déli-Kárpátokban.", ro: "Arie protejată în Carpații Meridionali.", en: "Protected area in the Southern Carpathians." },
+    facts: { de: ["Reiche Flora und Fauna.", "Spektakuläre Olt-Schlucht.", "Zahlreiche Wanderwege."], hu: ["Gazdag növény- és állatvilág.", "Látványos Olt-szurdok.", "Számos túraútvonal."], ro: ["Floră și faună bogată.", "Defileul Oltului spectaculos.", "Numeroase trasee de drumeție."], en: ["Rich flora and fauna.", "Spectacular Olt gorge.", "Numerous hiking trails."] },
+    image: "/geo-images/romania/cozia-np.webp"
+  },
+  {
+    id: "ro-poi-maramures-mountains", type: "mountain", parent: "RO-MM", coords: [24.5333, 47.8500],
+    name: { de: "Maramuresch-Gebirge", hu: "Máramarosi-havasok", ro: "Munții Maramureșului", en: "Maramureș Mountains" },
+    description: { de: "Wildes Gebirge an der Grenze zur Ukraine.", hu: "Vad hegység az ukrán határ mentén.", ro: "Munți sălbatici la granița cu Ucraina.", en: "Wild mountains along the Ukrainian border." },
+    facts: { de: ["Teil des Nationalparks Maramuresch-Gebirge.", "Sehr abgelegene und unberührte Natur.", "Traditionelle Almwirtschaft."], hu: ["A Máramarosi-havasok Nemzeti Park része.", "Nagyon távoli és érintetlen természet.", "Hagyományos hegyi pásztorkodás."], ro: ["Parte a Parcului Natural Munții Maramureșului.", "Natură foarte izolată și neatinsă.", "Păstorit tradițional."], en: ["Part of the Maramureș Mountains Natural Park.", "Very remote and untouched nature.", "Traditional mountain shepherding."] },
+    image: "/geo-images/romania/maramures-mountains.webp"
+  },
+  {
+    id: "ro-poi-sovata-lacul-ursu", type: "lake", parent: "RO-MS", coords: [25.0833, 46.6000],
+    name: { de: "Bärensee Sovata", hu: "Medve-tó Szováta", ro: "Lacul Ursu Sovata", en: "Bear Lake Sovata" },
+    description: { de: "Der weltweit größte heliothemische Salzsee.", hu: "A világ legnagyobb heliotermikus sós tava.", ro: "Cel mai mare lac sărat helioterm din lume.", en: "The world's largest heliothermic salt lake." },
+    facts: { de: ["Wassertemperatur steigt durch Sonneneinstrahlung.", "Heilende Wirkung bei Rheuma.", "Geformt wie ein Bärenfell."], hu: ["A víz hőmérséklete a napsugárzás hatására emelkedik.", "Gyógyhatású reuma esetén.", "Medvebőr alakú."], ro: ["Temperatura apei crește datorită radiației solare.", "Efecte terapeutice pentru reumatism.", "Format ca o piele de urs."], en: ["Water temperature increases due to solar radiation.", "Therapeutic effects for rheumatism.", "Shaped like a bear skin."] },
+    image: "/geo-images/romania/sovata-bear-lake.webp"
+  },
+  {
+    id: "ro-poi-vacarescu-house", type: "historical", parent: "RO-B", coords: [26.1000, 44.4333],
+    name: { de: "Văcărescu-Haus", hu: "Văcărescu-ház", ro: "Casa Memorială Elena Văcărescu", en: "Elena Văcărescu Memorial House" },
+    description: { de: "Gedenkstätte für die rumänisch-französische Schriftstellerin.", hu: "Emlékhely a román-francia írónő számára.", ro: "Casă memorială dedicată scriitoarei româno-franceze.", en: "Memorial site dedicated to the Romanian-French writer." },
+    facts: { de: ["Elena Văcărescu war die erste Frau in der Rumänischen Akademie.", "Zweimalige Preisträgerin der Académie Française.", "Diplomatin beim Völkerbund."], hu: ["Elena Văcărescu volt az első nő a Román Akadémiában.", "Kétszeres Francia Akadémia-díjas.", "Diplomata a Népszövetségnél."], ro: ["Elena Văcărescu a fost prima femeie membru de onoare al Academiei Române.", "Dublă laureată a Academiei Franceze.", "Diplomat la Societatea Națiunilor."], en: ["Elena Văcărescu was the first woman member of the Romanian Academy.", "Double laureate of the Académie Française.", "Diplomat at the League of Nations."] },
+    image: "/geo-images/romania/vacarescu-house.webp"
+  },
+  {
+    id: "ro-poi-dosoftei-house", type: "historical", parent: "RO-IS", coords: [27.5889, 47.1611],
+    name: { de: "Dosoftei-Haus", hu: "Dosoftei-ház", ro: "Casa Dosoftei Iași", en: "Dosoftei House Iași" },
+    description: { de: "Ein historisches Gebäude aus dem 17. Jahrhundert.", hu: "Egy 17. századi történelmi épület.", ro: "O clădire istorică din secolul al XVII-lea.", en: "A historical building from the 17th century." },
+    facts: { de: ["Beherbergte eine der ersten Druckereien der Moldau.", "Benannt nach Metropolit Dosoftei.", "Heute ein Museum für alte rumänische Literatur."], hu: ["Itt működött Moldva egyik első nyomdája.", "Dosoftei metropolitáról nevezték el.", "Ma a régi román irodalom múzeuma."], ro: ["A găzduit una dintre primele tiparnițe din Moldova.", "Numită după Mitropolitul Dosoftei.", "Astăzi muzeu de literatură română veche."], en: ["Hosted one of the first printing presses in Moldavia.", "Named after Metropolitan Dosoftei.", "Today a museum of old Romanian literature."] },
+    image: "/geo-images/romania/dosoftei-house.webp"
+  },
+  {
+    id: "ro-poi-brasov-sfatului", type: "landmark", parent: "RO-BV", coords: [25.5889, 45.6422],
+    name: { de: "Rathausplatz Kronstadt", hu: "Főtér Brassó", ro: "Piața Sfatului Brașov", en: "Council Square Brașov" },
+    description: { de: "Der zentrale Platz der Altstadt von Brașov.", hu: "Brassó óvárosának központi tere.", ro: "Piața centrală a centrului vechi din Brașov.", en: "The central square of Brașov's old town." },
+    facts: { de: ["Standort des alten Rathausgebäudes.", "Umgeben von historischen Kaufmannshäusern.", "Austragungsort des Goldenen Hirsch Festivals."], hu: ["A régi városháza helyszíne.", "Történelmi kereskedőházak veszik körül.", "Az Aranyszarvas Fesztivál helyszíne."], ro: ["Locul vechii clădiri a Primăriei.", "Înconjurată de case istorice de negustori.", "Locul de desfășurare a festivalului Cerbul de Aur."], en: ["Site of the old City Hall building.", "Surrounded by historic merchant houses.", "Venue for the Golden Stag Festival."] },
+    image: "/geo-images/romania/brasov-sfatului.webp"
+  },
+  {
+    id: "ro-poi-sibiu-piata-mare", type: "landmark", parent: "RO-SB", coords: [24.1517, 45.7975],
+    name: { de: "Großer Ring Hermannstadt", hu: "Nagypiac tér Nagyszeben", ro: "Piața Mare Sibiu", en: "Great Square Sibiu" },
+    description: { de: "Der größte und wichtigste Platz in Sibiu.", hu: "Nagyszeben legnagyobb és legfontosabb tere.", ro: "Cea mai mare și importantă piață din Sibiu.", en: "The largest and most important square in Sibiu." },
+    facts: { de: ["UNESCO-Weltkulturerbe.", "Standort des Brukenthal-Palastes.", "Berühmt für die 'Augen von Sibiu' auf den Dächern."], hu: ["UNESCO világörökségi helyszín.", "A Brukenthal-palota helyszíne.", "Híres a tetőkön lévő 'szebeni szemekről'."], ro: ["Sit UNESCO.", "Locul Palatului Brukenthal.", "Faimoasă pentru 'ochii Sibiului' de pe acoperișuri."], en: ["UNESCO World Heritage site.", "Site of the Brukenthal Palace.", "Famous for the 'eyes of Sibiu' on the roofs."] },
+    image: "/geo-images/romania/sibiu-piata-mare.webp"
+  },
+  {
+    id: "ro-poi-cluj-st-michael", type: "historical", parent: "RO-CJ", coords: [23.5897, 46.7708],
+    name: { de: "St.-Michaels-Kirche Klausenburg", hu: "Szent Mihály-templom Kolozsvár", ro: "Biserica Sfântul Mihail Cluj", en: "St. Michael's Church Cluj" },
+    description: { de: "Eine der bedeutendsten gotischen Kirchen Siebenbürgens.", hu: "Erdély egyik legjelentősebb gótikus temploma.", ro: "Una dintre cele mai importante biserici gotice din Transilvania.", en: "One of the most important Gothic churches in Transylvania." },
+    facts: { de: ["Zweitgrößte Kirche in Rumänien.", "Bau begann im 14. Jahrhundert.", "Höchster Kirchturm in Siebenbürgen."], hu: ["Románia második legnagyobb temploma.", "Az építés a 14. században kezdődött.", "Erdély legmagasabb templomtornya."], ro: ["A doua cea mai mare biserică din România.", "Construcția a început în secolul al XIV-lea.", "Cel mai înalt turn de biserică din Transilvania."], en: ["Second largest church in Romania.", "Construction began in the 14th century.", "Highest church tower in Transylvania."] },
+    image: "/geo-images/romania/cluj-st-michael.webp"
+  },
+  {
+    id: "ro-poi-iasi-bojdeuca", type: "historical", parent: "RO-IS", coords: [27.5833, 47.1750],
+    name: { de: "Bojdeuca von Ion Creangă", hu: "Ion Creangă bojdeukája", ro: "Bojdeuca lui Ion Creangă", en: "Ion Creangă's Bojdeuca" },
+    description: { de: "Das erste Literaturmuseum in Rumänien.", hu: "Az első irodalmi múzeum Romániában.", ro: "Primul muzeu literar din România.", en: "The first literary museum in Romania." },
+    facts: { de: ["Wohnhaus des Schriftstellers Ion Creangă.", "Ort, an dem er seine 'Kindheitserinnerungen' schrieb.", "Besucht von Mihai Eminescu."], hu: ["Ion Creangă író lakóháza.", "Itt írta a 'Gyermekkorom emlékei' című művét.", "Mihai Eminescu is látogatta."], ro: ["Casa în care a locuit scriitorul Ion Creangă.", "Locul unde a scris 'Amintiri din copilărie'.", "Vizitată de Mihai Eminescu."], en: ["Home of writer Ion Creangă.", "Place where he wrote 'Childhood Memories'.", "Visited by Mihai Eminescu."] },
+    image: "/geo-images/romania/iasi-bojdeuca.webp"
+  },
+  {
+    id: "ro-poi-timisoara-opera", type: "landmark", parent: "RO-TM", coords: [21.2258, 45.7544],
+    name: { de: "Nationaloper Temeswar", hu: "Temesvári Nemzeti Opera", ro: "Opera Națională Timișoara", en: "Timișoara National Opera" },
+    description: { de: "Ein bedeutendes Kulturinstitut in Timișoara.", hu: "Temesvár jelentős kulturális intézménye.", ro: "O instituție culturală majoră din Timișoara.", en: "A major cultural institution in Timișoara." },
+    facts: { de: ["Gebäude entworfen von Fellner & Helmer.", "Schauplatz wichtiger Ereignisse der Revolution von 1989.", "Beherbergt vier Kulturinstitutionen."], hu: ["Fellner és Helmer által tervezett épület.", "Az 1989-es forradalom fontos eseményeinek helyszíne.", "Négy kulturális intézménynek ad otthont."], ro: ["Clădire proiectată de Fellner & Helmer.", "Locul unor evenimente importante ale Revoluției din 1989.", "Găzduiește patru instituții de cultură."], en: ["Building designed by Fellner & Helmer.", "Site of important events of the 1989 Revolution.", "Houses four cultural institutions."] },
+    image: "/geo-images/romania/timisoara-opera.webp"
+  },
+  {
+    id: "ro-poi-sinaia-pelisor", type: "historical", parent: "RO-PH", coords: [25.5392, 45.3597],
+    name: { de: "Schloss Pelișor", hu: "Pelișor-kastély", ro: "Castelul Pelișor", en: "Pelișor Castle" },
+    description: { de: "Teil des Peleș-Komplexes, erbaut für König Ferdinand I.", hu: "A Peleș-komplexum része, I. Ferdinánd király számára épült.", ro: "Parte a complexului Peleș, construit pentru Regele Ferdinand I.", en: "Part of the Peleș complex, built for King Ferdinand I." },
+    facts: { de: ["Erbaut im Jugendstil.", "Innendekoration von Königin Maria entworfen.", "Beherbergt das goldene Zimmer."], hu: ["Szecessziós stílusban épült.", "A belső dekorációt Mária királyné tervezte.", "Itt található az arany szoba."], ro: ["Construit în stil Art Nouveau.", "Decorațiuni interioare create de Regina Maria.", "Găzduiește camera de aur."], en: ["Built in Art Nouveau style.", "Interior decorations designed by Queen Marie.", "Houses the golden room."] },
+    image: "/geo-images/romania/sinaia-pelisor.webp"
   }
 ];
 
