@@ -32,13 +32,17 @@ import { greeceMap, greeceViewBox, projectCoordsGR } from "./greece.svg";
 import { greeceAllPoi } from "../data/greecePoi";
 import { irelandMap, irelandViewBox, projectCoordsIE } from "./ireland.svg";
 import { irelandAllPoi } from "../data/irelandPoi";
+import { denmarkMap, denmarkViewBox, projectCoordsDK } from "./denmark.svg";
+import { denmarkAllPoi } from "../data/denmarkPoi";
+import { swedenMap, swedenViewBox, projectCoordsSE } from "./sweden.svg";
+import { swedenAllPoi } from "../data/swedenPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -164,6 +168,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: irelandViewBox,
         projectCoords: projectCoordsIE,
         pois: irelandAllPoi,
+        subregions: {},
+      };
+    case "dk":
+      return {
+        countryId: "DK",
+        map: denmarkMap as unknown as BundeslandPath[],
+        viewBox: denmarkViewBox,
+        projectCoords: projectCoordsDK,
+        pois: denmarkAllPoi,
+        subregions: {},
+      };
+    case "se":
+      return {
+        countryId: "SE",
+        map: swedenMap as unknown as BundeslandPath[],
+        viewBox: swedenViewBox,
+        projectCoords: projectCoordsSE,
+        pois: swedenAllPoi,
         subregions: {},
       };
     case "de":
