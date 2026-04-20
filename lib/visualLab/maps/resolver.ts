@@ -36,13 +36,17 @@ import { denmarkMap, denmarkViewBox, projectCoordsDK } from "./denmark.svg";
 import { denmarkAllPoi } from "../data/denmarkPoi";
 import { swedenMap, swedenViewBox, projectCoordsSE } from "./sweden.svg";
 import { swedenAllPoi } from "../data/swedenPoi";
+import { norwayMap, norwayViewBox, projectCoordsNO } from "./norway.svg";
+import { norwayAllPoi } from "../data/norwayPoi";
+import { finlandMap, finlandViewBox, projectCoordsFI } from "./finland.svg";
+import { finlandAllPoi } from "../data/finlandPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -186,6 +190,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: swedenViewBox,
         projectCoords: projectCoordsSE,
         pois: swedenAllPoi,
+        subregions: {},
+      };
+    case "no":
+      return {
+        countryId: "NO",
+        map: norwayMap as unknown as BundeslandPath[],
+        viewBox: norwayViewBox,
+        projectCoords: projectCoordsNO,
+        pois: norwayAllPoi,
+        subregions: {},
+      };
+    case "fi":
+      return {
+        countryId: "FI",
+        map: finlandMap as unknown as BundeslandPath[],
+        viewBox: finlandViewBox,
+        projectCoords: projectCoordsFI,
+        pois: finlandAllPoi,
         subregions: {},
       };
     case "de":
