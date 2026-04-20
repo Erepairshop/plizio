@@ -24,13 +24,17 @@ import { netherlandsMap, netherlandsViewBox, projectCoordsNL } from "./netherlan
 import { netherlandsAllPoi } from "../data/netherlandsPoi";
 import { austriaMap, austriaViewBox, projectCoordsAT } from "./austria.svg";
 import { austriaAllPoi } from "../data/austriaPoi";
+import { belgiumMap, belgiumViewBox, projectCoordsBE } from "./belgium.svg";
+import { belgiumAllPoi } from "../data/belgiumPoi";
+import { portugalMap, portugalViewBox, projectCoordsPT } from "./portugal.svg";
+import { portugalAllPoi } from "../data/portugalPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -121,6 +125,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         projectCoords: projectCoordsAT,
         pois: austriaAllPoi,
         subregions: {}, // No specific subregions map for now
+      };
+    case "be":
+      return {
+        countryId: "BE",
+        map: belgiumMap as unknown as BundeslandPath[],
+        viewBox: belgiumViewBox,
+        projectCoords: projectCoordsBE,
+        pois: belgiumAllPoi,
+        subregions: {},
+      };
+    case "pt":
+      return {
+        countryId: "PT",
+        map: portugalMap as unknown as BundeslandPath[],
+        viewBox: portugalViewBox,
+        projectCoords: projectCoordsPT,
+        pois: portugalAllPoi,
+        subregions: {},
       };
     case "de":
     default:
