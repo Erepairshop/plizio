@@ -31,6 +31,7 @@ import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { INFORMATIKA_M2_POOLS, INFORMATIKA_M3_POOLS } from "@/lib/astro/informatikaGameRegistry";
 import K5Explorer from "@/app/astrinformatika/games/k5/K5Explorer";
+import GenericInfoExplorer from "./GenericInfoExplorer";
 import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 // Import logic for K1-K4
@@ -520,7 +521,8 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
         {screen === "gravity-sort" && activeIsland && <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />}
         {screen === "star-match" && <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />}
         {screen === "speed-round" && <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />}
-        {screen === "info-explore" && activeIsland && <K5Explorer island={activeIsland} grade={gradeVal as 5} onDone={handleMissionDone} color={bgColor} lang={lang} />}
+        {screen === "info-explore" && activeIsland && gradeVal <= 4 && <GenericInfoExplorer island={activeIsland} grade={gradeVal as 1|2|3|4} onDone={handleMissionDone} color={bgColor} lang={lang} />}
+        {screen === "info-explore" && activeIsland && gradeVal >= 5 && <K5Explorer island={activeIsland} grade={gradeVal as 5} onDone={handleMissionDone} color={bgColor} lang={lang} />}
         {screen === "m2" && activeMission?.gameKey && INFORMATIKA_M2_POOLS[activeMission.gameKey] && <M2Engine gameKey={activeMission.gameKey} rounds={INFORMATIKA_M2_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />}
         {screen === "m3" && activeMission?.gameKey && INFORMATIKA_M3_POOLS[activeMission.gameKey] && <M3Engine gameKey={activeMission.gameKey} rounds={INFORMATIKA_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />}
       </div>
