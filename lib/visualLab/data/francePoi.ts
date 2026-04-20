@@ -958,6 +958,326 @@ export const franceCities: POI[] = [
       en: ["The University of Montpellier was officially founded in 1289.", "It is home to the Jardin des Plantes, the oldest botanical garden in France.", "The Antigone district was designed by architect Ricardo Bofill in a neo-classical style.", "Montpellier is located just a few kilometers from the Mediterranean coast.", "The city's tram system features colorful designs by fashion icon Christian Lacroix.", "The Musée Fabre is one of the most important art museums in France.", "The city boasts one of the largest pedestrianized areas in Europe."]
     }
   },
+  {
+    id: "chateau-versailles",
+    type: "landmark",
+    parent: "FR-IDF",
+    coords: [2.1204, 48.8049],
+    name: { de: "Schloss Versailles", hu: "Versailles-i kastely", ro: "Palatul Versailles", en: "Chateau de Versailles" },
+    image: "/geo-images/france/chateau-versailles.webp",
+    description: {
+      de: "Das Schloss Versailles ist eines der berühmtesten Wahrzeichen Frankreichs und das Symbol der absoluten Monarchie. Die prachtvollen Räume und Gärten machten es zum Vorbild höfischer Architektur in ganz Europa.",
+      hu: "A Versailles-i kastely Franciaország egyik legismertebb jelképe és az abszolút monarchia szimbóluma. Pazar termei és kertjei egész Európában mintaként szolgáltak az udvari építészethez.",
+      ro: "Palatul Versailles este unul dintre cele mai faimoase simboluri ale Franței și al monarhiei absolute. Sălile și grădinile sale fastuoase au devenit model pentru arhitectura curții din întreaga Europă.",
+      en: "Chateau de Versailles is one of France's most famous landmarks and a symbol of absolute monarchy. Its grand rooms and gardens became a model for court architecture across Europe."
+    },
+    facts: {
+      de: ["Der Spiegelsaal ist der berühmteste Raum des Schlosses.", "Die Anlage gehört seit 1979 zum UNESCO-Weltkulturerbe."],
+      hu: ["A Tükörterem a kastély legismertebb helyisége.", "Az együttes 1979 óta az UNESCO világörökség része."],
+      ro: ["Sala Oglinzilor este cea mai cunoscută încăpere a palatului.", "Ansamblul face parte din Patrimoniul Mondial UNESCO din 1979."],
+      en: ["The Hall of Mirrors is the palace's best-known room.", "The estate has been a UNESCO World Heritage site since 1979."]
+    }
+  },
+  {
+    id: "chateau-chenonceau",
+    type: "historical",
+    parent: "FR-CVL",
+    coords: [1.0708, 47.3245],
+    name: { de: "Schloss Chenonceau", hu: "Chenonceau-i kastely", ro: "Castelul Chenonceau", en: "Chateau de Chenonceau" },
+    image: "/geo-images/france/chateau-chenonceau.webp",
+    description: {
+      de: "Das Schloss Chenonceau überspannt elegant den Fluss Cher und gehört zu den beliebtesten Loire-Schlössern. Die Mischung aus Brücke, Wasser und Renaissance-Architektur macht es unverwechselbar.",
+      hu: "A Chenonceau-i kastely elegánsan ível át a Cher folyó fölött, és a Loire-menti kastélyok egyik legkedveltebbike. A híd, a víz és a reneszánsz építészet keveréke összetéveszthetetlenné teszi.",
+      ro: "Castelul Chenonceau trece elegant peste râul Cher și este unul dintre cele mai iubite castele de pe Valea Loarei. Combinația dintre pod, apă și arhitectura renascentistă îl face inconfundabil.",
+      en: "Chateau de Chenonceau spans the Cher River in an elegant way and is one of the most beloved Loire castles. The mix of bridge, water, and Renaissance architecture makes it unmistakable."
+    },
+    facts: {
+      de: ["Der Bau wurde über den Fluss Cher errichtet.", "Chenonceau ist eines der bekanntesten Loire-Schlösser."],
+      hu: ["Az épület a Cher folyó fölé épült.", "Chenonceau a Loire-menti kastélyok egyik legismertebb példája."],
+      ro: ["Construcția a fost ridicată peste râul Cher.", "Chenonceau este unul dintre cele mai cunoscute castele de pe Loara."],
+      en: ["The structure was built across the Cher River.", "Chenonceau is one of the best-known Loire castles."]
+    }
+  },
+  {
+    id: "chateau-fontainebleau",
+    type: "historical",
+    parent: "FR-IDF",
+    coords: [2.7005, 48.4021],
+    name: { de: "Schloss Fontainebleau", hu: "Fontainebleau-i kastely", ro: "Castelul Fontainebleau", en: "Chateau de Fontainebleau" },
+    image: "/geo-images/france/chateau-fontainebleau.webp",
+    description: {
+      de: "Das Schloss Fontainebleau war über Jahrhunderte eine königliche und kaiserliche Residenz. Es verbindet mittelalterliche, Renaissance- und klassizistische Architektur in einem einzigen großen Ensemble.",
+      hu: "A Fontainebleau-i kastely évszázadokon át királyi és császári rezidenciaként szolgált. Egyetlen nagy együttesként ötvözi a középkori, reneszánsz és klasszicista építészetet.",
+      ro: "Castelul Fontainebleau a fost timp de secole o reședință regală și imperială. Îmbină arhitectura medievală, renascentistă și clasicistă într-un singur ansamblu amplu.",
+      en: "Chateau de Fontainebleau served for centuries as a royal and imperial residence. It blends medieval, Renaissance, and neoclassical architecture into one large complex."
+    },
+    facts: {
+      de: ["Napoleon I. nutzte das Schloss als Residenz.", "Die Anlage gehört zum UNESCO-Welterbe."],
+      hu: ["I. Napóleon is használta a kastélyt rezidenciaként.", "Az együttes az UNESCO világörökség része."],
+      ro: ["Napoleon I a folosit castelul ca reședință.", "Ansamblul face parte din patrimoniul UNESCO."],
+      en: ["Napoleon I used the palace as a residence.", "The estate is part of the UNESCO World Heritage."]
+    }
+  },
+  {
+    id: "carcassonne-citadel",
+    type: "historical",
+    parent: "FR-OCC",
+    coords: [2.3635, 43.2078],
+    name: { de: "Zitadelle von Carcassonne", hu: "Carcassonne citadella", ro: "Citadela Carcassonne", en: "Carcassonne Citadel" },
+    image: "/geo-images/france/carcassonne-citadel.webp",
+    description: {
+      de: "Die Zitadelle von Carcassonne ist eine märchenhafte befestigte Altstadt im Süden Frankreichs. Doppelte Mauern und Türme prägen das Bild dieser berühmten Festung.",
+      hu: "A Carcassonne citadella egy mesebeli, erődített óváros Dél-Franciaországban. A kettős falak és a tornyok adják a híres erőd jellegzetes arculatát.",
+      ro: "Citadela Carcassonne este un oraș vechi fortificat, desprins parcă dintr-o poveste. Zidurile duble și turnurile definesc aspectul acestei cetăți celebre.",
+      en: "Carcassonne Citadel is a fairy-tale fortified old town in southern France. Its double walls and towers define the look of this famous fortress."
+    },
+    facts: {
+      de: ["Die Befestigung gehört zum UNESCO-Welterbe.", "Die Anlage prägt das Stadtbild von Carcassonne."],
+      hu: ["Az erődítmény az UNESCO világörökség része.", "A citadella meghatározza Carcassonne arculatát."],
+      ro: ["Fortificația face parte din patrimoniul UNESCO.", "Cetatea definește imaginea orașului Carcassonne."],
+      en: ["The fortification is part of the UNESCO World Heritage.", "The citadel defines the cityscape of Carcassonne."]
+    }
+  },
+  {
+    id: "chateau-chambord",
+    type: "landmark",
+    parent: "FR-CVL",
+    coords: [1.5172, 47.6160],
+    name: { de: "Schloss Chambord", hu: "Chambord-i kastely", ro: "Castelul Chambord", en: "Chateau de Chambord" },
+    image: "/geo-images/france/chateau-chambord.webp",
+    description: {
+      de: "Das Schloss Chambord ist das größte und bekannteste Schloss im Loiretal. Seine Renaissance-Architektur und das markante Dach machen es zu einem der ikonischsten Bauwerke Frankreichs.",
+      hu: "A Chambord-i kastely a Loire-völgy legnagyobb és legismertebb kastélya. Reneszánsz építészete és jellegzetes tetőszerkezete Franciaország egyik legikonikusabb épületévé teszi.",
+      ro: "Castelul Chambord este cel mai mare și cel mai cunoscut castel din Valea Loarei. Arhitectura renascentistă și acoperișul său distinctiv îl fac una dintre cele mai iconice clădiri ale Franței.",
+      en: "Chateau de Chambord is the largest and best-known castle in the Loire Valley. Its Renaissance architecture and distinctive roof make it one of France's most iconic buildings."
+    },
+    facts: {
+      de: ["Das Schloss steht seit 1981 auf der UNESCO-Liste.", "Die doppelläufige Wendeltreppe ist sein berühmtestes Detail."],
+      hu: ["A kastély 1981 óta szerepel az UNESCO listáján.", "A híres kettős csigalépcső a legismertebb részlete."],
+      ro: ["Castelul se află pe lista UNESCO din 1981.", "Scara dublă în spirală este cel mai celebru detaliu al său."],
+      en: ["The castle has been on the UNESCO list since 1981.", "Its double-helix staircase is its most famous feature."]
+    }
+  },
+  {
+    id: "chateau-vincennes",
+    type: "historical",
+    parent: "FR-IDF",
+    coords: [2.4380, 48.8430],
+    name: { de: "Schloss Vincennes", hu: "Vincennes-i kastely", ro: "Castelul Vincennes", en: "Chateau de Vincennes" },
+    image: "/geo-images/france/chateau-vincennes.webp",
+    description: {
+      de: "Das Schloss Vincennes ist eine mächtige mittelalterliche Festung am Rand von Paris. Der hohe Donjon und die gotische Kapelle machen die Anlage besonders markant.",
+      hu: "A Vincennes-i kastely egy hatalmas középkori erőd Párizs szélén. A magas donjon és a gótikus kápolna különösen jellegzetessé teszi az együttest.",
+      ro: "Castelul Vincennes este o fortăreață medievală impunătoare la marginea Parisului. Donjonul înalt și capela gotică îi dau un aspect foarte distinct.",
+      en: "Chateau de Vincennes is a powerful medieval fortress on the edge of Paris. Its tall keep and Gothic chapel make the complex especially distinctive."
+    },
+    facts: {
+      de: ["Der Donjon zählt zu den höchsten seiner Art in Europa.", "Die Anlage diente auch als königliche Residenz."],
+      hu: ["A donjon Európa egyik legmagasabb ilyen tornya.", "Az épület királyi rezidenciaként is szolgált."],
+      ro: ["Donjonul este unul dintre cele mai înalte din Europa.", "Ansamblul a servit și ca reședință regală."],
+      en: ["The keep is among the tallest of its kind in Europe.", "The site also served as a royal residence."]
+    }
+  },
+  {
+    id: "lavender-fields-provence",
+    type: "landmark",
+    parent: "FR-PAC",
+    coords: [5.6000, 44.0500],
+    name: { de: "Lavendelfelder der Provence", hu: "Provence-i levendulamezok", ro: "Campuri de lavanda in Provence", en: "Lavender Fields of Provence" },
+    image: "/geo-images/france/lavender-fields-provence.webp",
+    description: {
+      de: "Die Lavendelfelder der Provence sind ein typisches Sommerbild Südfrankreichs. Zwischen Juni und August färben sie ganze Hänge violett und prägen das Landschaftsbild der Region.",
+      hu: "A Provence-i levendulamezők Dél-Franciaország jellegzetes nyári látványát adják. Június és augusztus között egész domboldalakat festenek lilára.",
+      ro: "Câmpurile de lavandă din Provence sunt o imagine de vară tipică sudului Franței. Între iunie și august colorează în mov întreaga zonă colinară.",
+      en: "The lavender fields of Provence are a classic summer image of southern France. Between June and August they turn entire hillsides purple."
+    },
+    facts: {
+      de: ["Die Blütezeit liegt meist im Hochsommer.", "Lavendel ist wichtig für Parfüm und ätherische Öle."],
+      hu: ["A virágzás legtöbbször a nyár közepére esik.", "A levendula fontos a parfüm- és illóolajgyártásban."],
+      ro: ["Perioada de înflorire este de obicei în mijlocul verii.", "Lavanda este importantă pentru parfumuri și uleiuri esențiale."],
+      en: ["Peak bloom is usually in midsummer.", "Lavender is important for perfume and essential oils."]
+    }
+  },
+  {
+    id: "calanques-de-cassis",
+    type: "landmark",
+    parent: "FR-PAC",
+    coords: [5.5350, 43.2120],
+    name: { de: "Calanques von Cassis", hu: "Cassis-i calanques", ro: "Calanques de Cassis", en: "Calanques of Cassis" },
+    image: "/geo-images/france/calanques-de-cassis.webp",
+    description: {
+      de: "Die Calanques von Cassis sind schmale, helle Felsbuchten an der Mittelmeerküste. Das türkisfarbene Wasser und die steilen Kalksteinwände machen sie zu einem der eindrucksvollsten Küstenorte der Provence.",
+      hu: "A Cassis-i calanques keskeny, világos sziklaöblök a Földközi-tenger partján. A türkiz víz és a meredek mészkőfalak Provence egyik leglátványosabb tengerparti helyévé teszik.",
+      ro: "Calanques de Cassis sunt golfuri înguste, deschise la culoare, de pe coasta Mediteranei. Apa turcoaz și pereții abrupți de calcar le fac una dintre cele mai spectaculoase zone de coastă din Provence.",
+      en: "The Calanques of Cassis are narrow, bright rock inlets on the Mediterranean coast. Turquoise water and steep limestone walls make them one of Provence's most striking coastal spots."
+    },
+    facts: {
+      de: ["Sie liegen am Rand des Calanques-Nationalparks.", "Viele Buchten sind nur per Boot oder zu Fuß erreichbar."],
+      hu: ["A Calanques Nemzeti Park peremén találhatók.", "Sok öböl csak hajóval vagy gyalog közelíthető meg."],
+      ro: ["Se află la marginea Parcului Național Calanques.", "Multe golfuri pot fi atinse doar cu barca sau pe jos."],
+      en: ["They sit at the edge of the Calanques National Park.", "Many inlets are accessible only by boat or on foot."]
+    }
+  },
+  {
+    id: "gorges-du-verdon",
+    type: "landmark",
+    parent: "FR-PAC",
+    coords: [6.3560, 43.7560],
+    name: { de: "Verdonschlucht", hu: "Verdon-szoros", ro: "Cheile Verdonului", en: "Gorges du Verdon" },
+    image: "/geo-images/france/gorges-du-verdon.webp",
+    description: {
+      de: "Die Verdonschlucht ist ein tiefer Canyon in der Provence und oft als Grand Canyon Europas bekannt. Das helltürkise Wasser und die Kalksteinwände machen die Landschaft spektakulär.",
+      hu: "A Verdon-szoros egy mély kanyon Provence-ban, amelyet gyakran Európa Grand Canyonjaként emlegetnek. A világos türkiz víz és a mészkőfalak látványos tájat alkotnak.",
+      ro: "Cheile Verdonului sunt un canion adânc din Provence, adesea numit Marele Canion al Europei. Apa turcoaz deschis și pereții de calcar creează un peisaj spectaculos.",
+      en: "The Gorges du Verdon is a deep canyon in Provence, often called the Grand Canyon of Europe. Its pale turquoise water and limestone walls create a spectacular landscape."
+    },
+    facts: {
+      de: ["Die Schlucht ist rund 25 Kilometer lang.", "Sie ist ein beliebtes Ziel für Wandern und Kajakfahren."],
+      hu: ["A szurdok nagyjából 25 kilométer hosszú.", "Népszerű célpont túrázásra és kajakozásra."],
+      ro: ["Cheile au aproximativ 25 de kilometri lungime.", "Sunt o destinație populară pentru drumeții și caiac."],
+      en: ["The gorge is about 25 kilometers long.", "It is a popular destination for hiking and kayaking."]
+    }
+  },
+  {
+    id: "lake-annecy",
+    type: "landmark",
+    parent: "FR-ARA",
+    coords: [6.1250, 45.9000],
+    name: { de: "Annecy-See", hu: "Annecy-tó", ro: "Lacul Annecy", en: "Lake Annecy" },
+    image: "/geo-images/france/lake-annecy.webp",
+    description: {
+      de: "Der Annecy-See liegt zwischen Bergen in den Alpen und ist für sein klares Wasser bekannt. Er gehört zu den schönsten Seen Frankreichs und ist ein beliebtes Ziel für Sommerurlaub und Wassersport.",
+      hu: "Az Annecy-tó az Alpok hegyei között fekszik, és tiszta vizéről ismert. Franciaország egyik legszebb tava, nyáron és vízi sportokhoz is kedvelt célpont.",
+      ro: "Lacul Annecy se află între munți, în Alpi, și este cunoscut pentru apa sa limpede. Este unul dintre cele mai frumoase lacuri din Franța și o destinație populară de vară.",
+      en: "Lake Annecy sits among the Alps and is known for its clear water. It is one of France's most beautiful lakes and a popular summer and watersports destination."
+    },
+    facts: {
+      de: ["Der See zählt zu den saubersten in Europa.", "Am Ufer liegt die Stadt Annecy, das 'Venedig der Alpen'."],
+      hu: ["A tó Európa legtisztábbjai közé tartozik.", "Partján fekszik Annecy, az 'Alpok Velencéje'."],
+      ro: ["Lacul este printre cele mai curate din Europa.", "Pe mal se află Annecy, 'Veneția Alpilor'."],
+      en: ["The lake is among the cleanest in Europe.", "The city of Annecy, the 'Venice of the Alps', lies on its shore."]
+    }
+  },
+  {
+    id: "camargue",
+    type: "landmark",
+    parent: "FR-PAC",
+    coords: [4.4300, 43.5400],
+    name: { de: "Camargue", hu: "Camargue", ro: "Camargue", en: "Camargue" },
+    image: "/geo-images/france/camargue.webp",
+    description: {
+      de: "Die Camargue ist ein weites Feuchtgebiet im Rhonedelta in Südfrankreich. Weiße Pferde, schwarze Stiere und Flamingos prägen das Bild dieser besonderen Naturlandschaft.",
+      hu: "A Camargue egy hatalmas vizes élőhely a Rhône-deltában, Dél-Franciaországban. Fehér lovak, fekete bikák és flamingók adják e különleges táj arculatát.",
+      ro: "Camargue este o vastă zonă umedă din delta Ronului, în sudul Franței. Caii albi, taurii negri și flamingii dau identitatea acestui peisaj special.",
+      en: "Camargue is a vast wetland in the Rhône delta in southern France. White horses, black bulls, and flamingos define this distinctive natural landscape."
+    },
+    facts: {
+      de: ["Die Region ist ein bedeutendes Vogelparadies.", "Salzgewinnung ist hier traditionell wichtig."],
+      hu: ["A vidék fontos madárparadicsom.", "A sótermelés itt hagyományosan jelentős."],
+      ro: ["Regiunea este un paradis important pentru păsări.", "Producția de sare are aici o tradiție puternică."],
+      en: ["The region is a major bird paradise.", "Salt production has long been important here."]
+    }
+  },
+  {
+    id: "corsica-gr20",
+    type: "mountain",
+    parent: "FR-COR",
+    coords: [9.0000, 42.0000],
+    name: { de: "GR20 auf Korsika", hu: "Korzika GR20", ro: "GR20 din Corsica", en: "Corsica GR20" },
+    image: "/geo-images/france/corsica-gr20.webp",
+    description: {
+      de: "Der GR20 ist der berühmteste Fernwanderweg Korsikas und einer der anspruchsvollsten in Europa. Er führt durch ein wildes Hochgebirge und bietet starke Kontraste zwischen Fels, Wald und Meer.",
+      hu: "A GR20 Korzika leghíresebb hosszú távú túraútvonala és Európa egyik legnehezebb túrája. Vad magashegyi tájon vezet át, erős kontrasztot mutatva szikla, erdő és tenger között.",
+      ro: "GR20 este cel mai faimos traseu de lungă distanță din Corsica și unul dintre cele mai dificile din Europa. Traversează munți sălbatici și oferă contraste puternice între stâncă, pădure și mare.",
+      en: "The GR20 is Corsica's most famous long-distance trail and one of the hardest in Europe. It crosses wild high mountains and offers strong contrasts between rock, forest, and sea."
+    },
+    facts: {
+      de: ["Die Route wird meist in 16 Etappen begangen.", "Der Weg ist für sehr erfahrene Wanderer gedacht."],
+      hu: ["Az útvonalat általában 16 szakaszra bontják.", "A túra kifejezetten tapasztalt túrázóknak való."],
+      ro: ["Traseul este parcurs de obicei în 16 etape.", "Este destinat în special drumeților foarte experimentați."],
+      en: ["The route is usually split into 16 stages.", "It is intended for very experienced hikers."]
+    }
+  },
+  {
+    id: "musee-dorsay",
+    type: "landmark",
+    parent: "FR-IDF",
+    coords: [2.3259, 48.8599],
+    name: { de: "Musée d'Orsay", hu: "Musée d'Orsay", ro: "Muzeul Orsay", en: "Musee d'Orsay" },
+    image: "/geo-images/france/musee-dorsay.webp",
+    description: {
+      de: "Das Musée d'Orsay in Paris ist für seine Kunst des 19. und frühen 20. Jahrhunderts berühmt. Der ehemalige Bahnhof verbindet große Architektur mit einer der wichtigsten Impressionistensammlungen der Welt.",
+      hu: "A párizsi Musée d'Orsay a 19. és a 20. század elejének művészetéről híres. Az egykori pályaudvar nagy építészetet és a világ egyik legfontosabb impresszionista gyűjteményét egyesíti.",
+      ro: "Muzeul Orsay din Paris este celebru pentru arta secolului al XIX-lea și de la începutul secolului al XX-lea. Fosta gară combină arhitectura spectaculoasă cu una dintre cele mai importante colecții impresioniste din lume.",
+      en: "Musee d'Orsay in Paris is famous for 19th and early 20th century art. The former railway station combines grand architecture with one of the world's most important Impressionist collections."
+    },
+    facts: {
+      de: ["Das Museum wurde 1986 eröffnet.", "Es ist besonders für Monet, Van Gogh und Renoir bekannt."],
+      hu: ["A múzeum 1986-ban nyílt meg.", "Különösen Monet, Van Gogh és Renoir műveiről ismert."],
+      ro: ["Muzeul a fost deschis în 1986.", "Este cunoscut mai ales pentru Monet, Van Gogh și Renoir."],
+      en: ["The museum opened in 1986.", "It is especially known for Monet, Van Gogh, and Renoir."]
+    }
+  },
+  {
+    id: "palace-versailles-gardens",
+    type: "landmark",
+    parent: "FR-IDF",
+    coords: [2.1230, 48.8053],
+    name: { de: "Gärten von Versailles", hu: "Versailles-i kertek", ro: "Grădinile Versailles", en: "Versailles Gardens" },
+    image: "/geo-images/france/palace-versailles-gardens.webp",
+    description: {
+      de: "Die Gärten von Versailles sind ein Meisterwerk der französischen Gartenkunst. Geometrische Beete, Brunnen und lange Sichtachsen formen ein streng komponiertes Landschaftsbild.",
+      hu: "A Versailles-i kertek a francia kertművészet remekművei. Geometrikus ágyások, szökőkutak és hosszú tengelyek alkotják a szigorúan komponált tájat.",
+      ro: "Grădinile Versailles sunt o capodoperă a artei franceze a grădinilor. Parterele geometrice, fântânile și axele lungi creează un peisaj strict compus.",
+      en: "The Gardens of Versailles are a masterpiece of French garden design. Geometric flowerbeds, fountains, and long sightlines create a tightly composed landscape."
+    },
+    facts: {
+      de: ["Die Anlage wurde von André Le Nôtre gestaltet.", "Sie ist fast so berühmt wie das Schloss selbst."],
+      hu: ["A kertet André Le Nôtre tervezte.", "Szinte olyan híres, mint maga a kastély."],
+      ro: ["Grădinile au fost proiectate de André Le Nôtre.", "Sunt aproape la fel de celebre ca palatul însuși."],
+      en: ["The gardens were designed by André Le Nôtre.", "They are almost as famous as the palace itself."]
+    }
+  },
+  {
+    id: "sainte-chapelle",
+    type: "historical",
+    parent: "FR-IDF",
+    coords: [2.3450, 48.8554],
+    name: { de: "Sainte-Chapelle", hu: "Sainte-Chapelle", ro: "Sainte-Chapelle", en: "Sainte-Chapelle" },
+    image: "/geo-images/france/sainte-chapelle.webp",
+    description: {
+      de: "Die Sainte-Chapelle auf der Île de la Cité ist ein Juwel der gotischen Architektur. Besonders berühmt ist sie für ihre riesigen Glasfenster, die den Innenraum in farbiges Licht tauchen.",
+      hu: "A Île de la Cité-n álló Sainte-Chapelle a gótikus építészet ékköve. Különösen híres hatalmas üvegablakairól, amelyek színes fénybe borítják a belső teret.",
+      ro: "Sainte-Chapelle de pe Île de la Cité este o bijuterie a arhitecturii gotice. Este renumită mai ales pentru ferestrele sale uriașe de vitralii, care inundă interiorul cu lumină colorată.",
+      en: "Sainte-Chapelle on the Île de la Cité is a jewel of Gothic architecture. It is especially famous for its giant stained-glass windows that flood the interior with colored light."
+    },
+    facts: {
+      de: ["Die Kapelle wurde im 13. Jahrhundert erbaut.", "Ihre Glasfenster gehören zu den schönsten Europas."],
+      hu: ["A kápolnát a 13. században építették.", "Ólomüveg ablakai Európa legszebbjai közé tartoznak."],
+      ro: ["Capela a fost construită în secolul al XIII-lea.", "Vitraliile sale sunt printre cele mai frumoase din Europa."],
+      en: ["The chapel was built in the 13th century.", "Its stained-glass windows are among the finest in Europe."]
+    }
+  },
+  {
+    id: "notre-dame-de-paris",
+    type: "landmark",
+    parent: "FR-IDF",
+    coords: [2.3499, 48.8529],
+    name: { de: "Notre-Dame de Paris", hu: "Notre-Dame de Paris", ro: "Notre-Dame de Paris", en: "Notre-Dame de Paris" },
+    image: "/geo-images/france/notre-dame-de-paris.webp",
+    description: {
+      de: "Notre-Dame de Paris ist eine der bekanntesten Kathedralen der Welt und ein Schlüsselwerk der französischen Gotik. Sie steht im Herzen von Paris und prägt die Stadt seit Jahrhunderten.",
+      hu: "A Notre-Dame de Paris a világ egyik legismertebb katedrálisa és a francia gótika kulcsműve. Párizs szívében áll, és évszázadok óta meghatározza a várost.",
+      ro: "Notre-Dame de Paris este una dintre cele mai cunoscute catedrale din lume și o operă-cheie a goticului francez. Se află în inima Parisului și definește orașul de secole.",
+      en: "Notre-Dame de Paris is one of the world's best-known cathedrals and a key work of French Gothic architecture. It stands in the heart of Paris and has shaped the city for centuries."
+    },
+    facts: {
+      de: ["Die Kathedrale wurde nach dem Brand von 2019 umfassend restauriert.", "Sie ist eng mit Victor Hugos Roman verbunden."],
+      hu: ["A katedrálist a 2019-es tűz után nagyszabásúan helyreállították.", "Victor Hugo regénye szorosan kötődik hozzá."],
+      ro: ["Catedrala a fost restaurată amplu după incendiul din 2019.", "Este strâns legată de romanul lui Victor Hugo."],
+      en: ["The cathedral was extensively restored after the 2019 fire.", "It is closely associated with Victor Hugo's novel."]
+    }
+  },
 ];
 
 export const franceAllPoi: POI[] = [...franceCountry, ...franceRegions, ...franceCities];
