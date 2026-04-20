@@ -48,13 +48,17 @@ import { slovakiaMap, slovakiaViewBox, projectCoordsSK } from "./slovakia.svg";
 import { slovakiaAllPoi } from "../data/slovakiaPoi";
 import { sloveniaMap, sloveniaViewBox, projectCoordsSI } from "./slovenia.svg";
 import { sloveniaAllPoi } from "../data/sloveniaPoi";
+import { croatiaMap, croatiaViewBox, projectCoordsHR } from "./croatia.svg";
+import { croatiaAllPoi } from "../data/croatiaPoi";
+import { bulgariaMap, bulgariaViewBox, projectCoordsBG } from "./bulgaria.svg";
+import { bulgariaAllPoi } from "../data/bulgariaPoi";
 import type { POI } from "../data/poi";
 
-export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si";
+export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "it" | "es" | "pl" | "gb" | "nl" | "at" | "be" | "pt" | "gr" | "ie" | "dk" | "se" | "no" | "fi" | "ch" | "cz" | "sk" | "si" | "hr" | "bg";
 
 // Közös reprezentáció: BundeslandPath strukturálisan megfelel a JudetPath-nak is
 export interface CountryMapData {
-  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI"
+  countryId: string;        // "DE" | "RO" | "HU" | "FR" | "IT" | "ES" | "PL" | "GB" | "NL" | "AT" | "BE" | "PT" | "GR" | "IE" | "DK" | "SE" | "NO" | "FI" | "CH" | "CZ" | "SK" | "SI" | "HR" | "BG"
   map: BundeslandPath[];    // strukturálisan kompatibilis JudetPath-tal
   viewBox: string;
   projectCoords: (lon: number, lat: number) => [number, number];
@@ -252,6 +256,24 @@ export function getCountryMap(lang: Lang): CountryMapData {
         viewBox: sloveniaViewBox,
         projectCoords: projectCoordsSI,
         pois: sloveniaAllPoi,
+        subregions: {},
+      };
+    case "hr":
+      return {
+        countryId: "HR",
+        map: croatiaMap as unknown as BundeslandPath[],
+        viewBox: croatiaViewBox,
+        projectCoords: projectCoordsHR,
+        pois: croatiaAllPoi,
+        subregions: {},
+      };
+    case "bg":
+      return {
+        countryId: "BG",
+        map: bulgariaMap as unknown as BundeslandPath[],
+        viewBox: bulgariaViewBox,
+        projectCoords: projectCoordsBG,
+        pois: bulgariaAllPoi,
         subregions: {},
       };
     case "de":
