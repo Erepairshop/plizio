@@ -15,6 +15,17 @@ const TITLE: Record<Lang, string> = {
   en: "World Map (3D)",
 };
 
+// Continent center labels + route (big clickable markers on the globe)
+const CONTINENTS = [
+  { lat: 54, lng: 10,   label: "Europe",         route: "/europe-map",   color: "#22d3ee" },
+  { lat: 40, lng: -100, label: "North America",  route: "/na-map",       color: "#f87171" },
+  { lat: -15, lng: -60, label: "South America",  route: "/sa-map",       color: "#fbbf24" },
+  { lat: 2,  lng: 20,   label: "Africa",         route: "/africa-map",   color: "#34d399" },
+  { lat: 30, lng: 90,   label: "Asia",           route: "/asia-map",     color: "#c084fc" },
+  { lat: -25, lng: 135, label: "Oceania",        route: "/oceania-map",  color: "#f472b6" },
+  { lat: -82, lng: 0,   label: "Antarctica",     route: "",              color: "#e5e7eb" },
+];
+
 const CAPITALS = [
   { lat: 52.52, lng: 13.40, label: "Berlin" },
   { lat: 47.50, lng: 19.04, label: "Budapest" },
@@ -46,27 +57,30 @@ export default function WorldGlobePage() {
           globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
           bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
           backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
-          
+
+          // Invisible continent polygons for click-detection only
           polygonsData={CONTINENTS_GEOJSON.features}
           polygonGeoJsonGeometry={(d: any) => d.geometry}
-          polygonCapColor={(d: any) => d.properties.color + "40"}
-          polygonSideColor={() => "rgba(0, 0, 0, 0.4)"}
-          polygonStrokeColor={() => "#fff"}
+          polygonCapColor={() => "rgba(0, 0, 0, 0)"}
+          polygonSideColor={() => "rgba(0, 0, 0, 0)"}
+          polygonStrokeColor={() => "rgba(34, 211, 238, 0.15)"}
           polygonLabel={(d: any) => d.properties.name}
           onPolygonClick={(d: any) => { if (d.properties.route) router.push(d.properties.route); }}
-          polygonsTransitionDuration={300}
-          polygonAltitude={0.01}
+          polygonAltitude={0.001}
 
-          pointsData={CAPITALS}
-          pointLat={(d: any) => d.lat}
-          pointLng={(d: any) => d.lng}
-          pointLabel={(d: any) => d.label}
-          pointColor={() => "#FFD166"}
-          pointAltitude={0.01}
-          pointRadius={0.3}
+          // Labels (continent names big, capitals small)
+          labelsData={[...CONTINENTS, ...CAPITALS]}
+          labelLat={(d: any) => d.lat}
+          labelLng={(d: any) => d.lng}
+          labelText={(d: any) => d.label}
+          labelSize={(d: any) => d.route !== undefined ? 2.0 : 0.8}
+          labelColor={(d: any) => d.route !== undefined ? (d.color || "#22d3ee") : "#FFD166"}
+          labelAltitude={0.01}
+          labelDotRadius={(d: any) => d.route !== undefined ? 0.8 : 0.3}
+          labelResolution={2}
+          onLabelClick={(d: any) => { if (d.route) router.push(d.route); }}
         />
       </main>
     </div>
   );
 }
-
