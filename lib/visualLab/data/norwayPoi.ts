@@ -192,7 +192,313 @@ export const norwayNature: POI[] = [
       ro: ["Arhipelagul Lofoten este situat în interiorul Cercului Polar.","Insulele au un climat surprinzător de blând datorită Curentului Golfului.","Peștele uscat (cod uscat) este exportat din Lofoten de peste 1.000 de ani.","Maelstrom, un sistem puternic de vârtejuri de maree, este situat lângă insule."]
     },
     image: "/geo-images/norway/lofoten.webp",
+  },
+  {
+    id: "nat-geirangerfjord",
+    type: "nature",
+    parent: "norway",
+    coords: [7.1050, 62.1047],
+    name: { de: "Geirangerfjord", hu: "Geirangerfjord", ro: "Geirangerfjord", en: "Geirangerfjord" },
+    description: {
+      en: "Geirangerfjord is one of Norway's most iconic fjords and a UNESCO World Heritage site, famous for its steep cliffs and dramatic waterfalls.",
+      de: "Der Geirangerfjord ist einer der bekanntesten Fjorde Norwegens und UNESCO-Welterbe, berühmt für steile Hänge und spektakuläre Wasserfälle.",
+      hu: "A Geirangerfjord Norvégia egyik legikonikusabb fjordja és UNESCO Világörökség, meredek sziklafalaival és látványos vízeséseivel híres.",
+      ro: "Geirangerfjord este unul dintre cele mai emblematice fjorduri ale Norvegiei și sit UNESCO, celebru pentru pereții abrupți și cascadele spectaculoase."
+    },
+    facts: {
+      en: ["It is listed as a UNESCO World Heritage site.", "The Seven Sisters waterfall is one of its best-known sights.", "It is a major highlight of Norwegian fjord cruises.", "The fjord was carved by glaciers during the ice age."],
+      de: ["Er ist als UNESCO-Welterbe eingetragen.", "Der Wasserfall Sieben Schwestern ist eine seiner bekanntesten Sehenswürdigkeiten.", "Er ist ein Höhepunkt vieler Fjordkreuzfahrten in Norwegen.", "Der Fjord wurde während der Eiszeit von Gletschern geformt.",],
+      hu: ["UNESCO Világörökségi helyszín.", "A Hét nővér vízesés a legismertebb látványosságai közé tartozik.", "A norvég fjordhajózások egyik csúcspontja.", "A fjordot a jégkorszak gleccserei vájták ki."],
+      ro: ["Este inclus în Patrimoniul Mondial UNESCO.", "Cascada Șapte Surori este una dintre cele mai cunoscute atracții.", "Este un punct de atracție major pe croazierele din fjordurile norvegiene.", "Fjordul a fost modelat de ghețari în era glaciară."]
+    },
+    image: "/geo-images/norway/geirangerfjord.webp",
+  },
+  {
+    id: "nat-sognefjord",
+    type: "nature",
+    parent: "norway",
+    coords: [6.5000, 61.1000],
+    name: { de: "Sognefjord", hu: "Sognefjord", ro: "Sognefjord", en: "Sognefjord" },
+    description: {
+      en: "Sognefjord is the longest fjord in Norway and one of the deepest in the world, stretching far inland through dramatic mountain scenery.",
+      de: "Der Sognefjord ist der längste Fjord Norwegens und einer der tiefsten der Welt, der sich weit ins Landesinnere durch dramatische Berglandschaften zieht.",
+      hu: "A Sognefjord Norvégia leghosszabb fjordja és a világ egyik legmélyebb fjordja, amely lenyűgöző hegyvidéki tájak között húzódik.",
+      ro: "Sognefjord este cel mai lung fjord din Norvegia și unul dintre cele mai adânci din lume, întinzându-se adânc în interiorul țării printre peisaje montane dramatice."
+    },
+    facts: {
+      en: ["It reaches deep into western Norway.", "Its total length is about 204 kilometers.", "It is a classic example of glacial landscape formation.", "Many small villages and farms line its shores."],
+      de: ["Er reicht tief in Westnorwegen hinein.", "Seine Gesamtlänge beträgt etwa 204 Kilometer.", "Er ist ein klassisches Beispiel für eine von Gletschern geprägte Landschaft.", "Entlang seiner Ufer liegen viele kleine Dörfer und Höfe."],
+      hu: ["Messze benyúlik Nyugat-Norvégiába.", "Teljes hossza körülbelül 204 kilométer.", "Klasszikus példája a gleccserek formálta tájnak.", "Partjain sok apró falu és gazdaság található."],
+      ro: ["Se întinde adânc în vestul Norvegiei.", "Are o lungime totală de aproximativ 204 kilometri.", "Este un exemplu clasic de peisaj modelat de ghețari.", "Pe țărmurile sale se află multe sate și ferme mici."]
+    },
+    image: "/geo-images/norway/sognefjord.webp",
+  },
+  {
+    id: "nat-preikestolen",
+    type: "nature",
+    parent: "norway",
+    coords: [6.1901, 58.9864],
+    name: { de: "Preikestolen", hu: "Preikestolen", ro: "Preikestolen", en: "Preikestolen" },
+    description: {
+      en: "Preikestolen, also known as Pulpit Rock, is a famous cliff rising above the Lysefjord and one of Norway's most photographed natural landmarks.",
+      de: "Der Preikestolen, auch Kanzelfelsen genannt, ist eine berühmte Klippe über dem Lysefjord und eines der meistfotografierten Naturwahrzeichen Norwegens.",
+      hu: "A Preikestolen, más néven Szószék-szikla, a Lysefjord fölé magasodó híres szikla és Norvégia egyik legtöbbet fotózott természeti látványossága.",
+      ro: "Preikestolen, cunoscut și ca Pulpit Rock, este o stâncă celebră care se ridică deasupra Lysefjordului și unul dintre cele mai fotografiate repere naturale ale Norvegiei."
+    },
+    facts: {
+      en: ["It rises about 604 meters above the fjord.", "The viewpoint is reached by a popular hiking trail.", "It is near Stavanger in southwestern Norway.", "The cliff has a flat, square-shaped summit."],
+      de: ["Er ragt etwa 604 Meter über den Fjord hinaus.", "Der Aussichtspunkt ist über einen beliebten Wanderweg erreichbar.", "Er liegt nahe Stavanger im Südwesten Norwegens.", "Die Klippe hat eine flache, fast quadratische Gipfelfläche."],
+      hu: ["Körülbelül 604 méterrel emelkedik a fjord fölé.", "A kilátóhely egy népszerű túraútvonalon érhető el.", "Stavanger közelében, Norvégia délnyugati részén található.", "A szikla teteje lapos, majdnem négyzet alakú."],
+      ro: ["Se ridică la aproximativ 604 metri deasupra fjordului.", "Punctul de belvedere se atinge pe un traseu popular de drumeție.", "Se află aproape de Stavanger, în sud-vestul Norvegiei.", "Vârful stâncii are o formă plată, aproape pătrată."]
+    },
+    image: "/geo-images/norway/preikestolen.webp",
+  },
+  {
+    id: "nat-lofoten",
+    type: "nature",
+    parent: "norway",
+    coords: [13.5000, 68.2000],
+    name: { de: "Lofoten-Inseln", hu: "Lofoten-szigetek", ro: "Insulele Lofoten", en: "Lofoten Islands" },
+    description: {
+      en: "The Lofoten Islands are a dramatic Arctic archipelago known for sharp peaks, white beaches, and fishing villages scattered along the coast.",
+      de: "Die Lofoten-Inseln sind ein dramatischer arktischer Archipel, bekannt für schroffe Gipfel, weiße Strände und Fischerdörfer entlang der Küste.",
+      hu: "A Lofoten-szigetek drámai sarkvidéki szigetcsoport, amely csipkés hegycsúcsairól, fehér strandjairól és part menti halászfalvairól híres.",
+      ro: "Insulele Lofoten sunt un arhipelag arctic spectaculos, cunoscut pentru vârfuri ascuțite, plaje albe și sate de pescari de-a lungul coastei."
+    },
+    facts: {
+      en: ["They lie above the Arctic Circle.", "The islands are famous for cod fishing.", "The Gulf Stream helps keep the climate relatively mild.", "They are a popular place to see the midnight sun and northern lights."],
+      de: ["Sie liegen nördlich des Polarkreises.", "Die Inseln sind für den Kabeljaufang bekannt.", "Der Golfstrom sorgt für ein vergleichsweise mildes Klima.", "Sie sind ein beliebter Ort für Mitternachtssonne und Nordlichter."],
+      hu: ["Az északi sarkkör fölött fekszenek.", "A szigetek híresek a tőkehalhalászatról.", "A Golf-áramlat viszonylag enyhe klímát biztosít.", "Népszerű hely az éjféli nap és az északi fény megfigyelésére."],
+      ro: ["Se află deasupra Cercului Polar.", "Insulele sunt celebre pentru pescuitul de cod.", "Curentul Golfului menține climatul relativ blând.", "Sunt un loc popular pentru soarele de la miezul nopții și aurora boreală."]
+    },
+    image: "/geo-images/norway/lofoten.webp",
+  },
+  {
+    id: "nat-north-cape",
+    type: "nature",
+    parent: "norway",
+    coords: [25.7833, 71.1725],
+    name: { de: "Nordkap", hu: "Nordkapp (Északi-fok)", ro: "Capul Nord", en: "North Cape" },
+    description: {
+      en: "North Cape is the famous northern landmark of mainland Europe, standing high above the Barents Sea and drawing visitors for its Arctic horizon.",
+      de: "Das Nordkap ist das berühmte nördliche Wahrzeichen des europäischen Festlands, hoch über der Barentssee gelegen und wegen seines arktischen Horizonts beliebt.",
+      hu: "A Nordkapp az európai szárazföld híres északi jelképe, amely magasan a Barents-tenger fölött áll és sarkvidéki látképével vonz.",
+      ro: "Capul Nord este celebrul reper nordic al Europei continentale, aflat deasupra Mării Barents și apreciat pentru orizontul său arctic."
+    },
+    facts: {
+      en: ["It is often called the northernmost point of Europe.", "The site is a major Arctic tourism destination.", "It sits on the island of Magerøya.", "The midnight sun can be seen here in summer."],
+      de: ["Es wird oft als der nördlichste Punkt Europas bezeichnet.", "Der Ort ist ein wichtiges arktisches Reiseziel.", "Er liegt auf der Insel Magerøya.", "Im Sommer ist hier die Mitternachtssonne zu sehen."],
+      hu: ["Gyakran Európa legészakibb pontjaként emlegetik.", "A helyszín fontos sarkvidéki turisztikai célpont.", "A Magerøya-szigeten található.", "Nyáron itt látható az éjféli nap."],
+      ro: ["Este adesea numit cel mai nordic punct al Europei.", "Locul este o destinație turistică arctică importantă.", "Se află pe insula Magerøya.", "Vara poate fi observat soarele de la miezul nopții."]
+    },
+    image: "/geo-images/norway/north-cape.webp",
   }
 ];
 
-export const norwayAllPoi: POI[] = [norwayCountry, ...norwayRegions, ...norwayNature];
+export const norwayCities: POI[] = [
+  {
+    id: "city-oslo",
+    type: "city",
+    parent: "norway",
+    coords: [10.7522, 59.9139],
+    name: { de: "Oslo", hu: "Oslo", ro: "Oslo", en: "Oslo" },
+    description: {
+      en: "Oslo is Norway's capital, known for the Oslo Opera House, museum islands, and a strong connection to the surrounding fjord and forests.",
+      de: "Oslo ist die Hauptstadt Norwegens und bekannt für das Opernhaus, die Museumsinseln und die enge Verbindung zu Fjord und Wäldern.",
+      hu: "Oslo Norvégia fővárosa, amely az Operaházról, a múzeumszigetekről és a fjordhoz, valamint az erdőkhöz fűződő szoros kapcsolatáról ismert.",
+      ro: "Oslo este capitala Norvegiei, cunoscută pentru Opera, insulele muzeelor și legătura puternică cu fjordul și pădurile din jur."
+    },
+    facts: {
+      en: ["It is Norway's political and cultural capital.", "The city is famous for the Oslo Opera House.", "Vigeland Park is one of its best-known attractions.", "Oslo sits at the head of the Oslofjord."],
+      de: ["Es ist Norwegens politische und kulturelle Hauptstadt.", "Die Stadt ist berühmt für das Opernhaus Oslo.", "Der Vigeland-Park gehört zu den bekanntesten Attraktionen.", "Oslo liegt am Ende des Oslofjords."],
+      hu: ["Norvégia politikai és kulturális fővárosa.", "A város híres az Oslo Operaházról.", "A Vigeland park az egyik legismertebb látványossága.", "Oslo az Oslofjord végén fekszik."],
+      ro: ["Este capitala politică și culturală a Norvegiei.", "Orașul este celebru pentru Opera din Oslo.", "Parcul Vigeland este una dintre cele mai cunoscute atracții.", "Oslo se află la capătul Oslofjordului."]
+    },
+    image: "/geo-images/norway/oslo.webp",
+  },
+  {
+    id: "city-bergen",
+    type: "city",
+    parent: "norway",
+    coords: [5.3221, 60.3913],
+    name: { de: "Bergen", hu: "Bergen", ro: "Bergen", en: "Bergen" },
+    description: {
+      en: "Bergen is Norway's western gateway to the fjords, famous for its colorful harbor quarter Bryggen and its rainy coastal atmosphere.",
+      de: "Bergen ist Norwegens westliches Tor zu den Fjorden und berühmt für das farbenfrohe Hafenviertel Bryggen und sein regnerisches Küstenklima.",
+      hu: "Bergen Norvégia nyugati kapuja a fjordok felé, híres a színes Bryggen kikötőnegyedről és az esős tengerparti hangulatáról.",
+      ro: "Bergen este poarta vestică a Norvegiei către fjorduri, celebră pentru cartierul portuar colorat Bryggen și atmosfera sa ploioasă de coastă."
+    },
+    facts: {
+      en: ["Bryggen is a UNESCO World Heritage site.", "The city is surrounded by seven mountains.", "It is one of Norway's rainiest cities.", "Bergen has a strong Hanseatic trading history."],
+      de: ["Bryggen ist UNESCO-Welterbe.", "Die Stadt ist von sieben Bergen umgeben.", "Sie gehört zu den regenreichsten Städten Norwegens.", "Bergen hat eine starke hanseatische Handelstradition."],
+      hu: ["Bryggen UNESCO Világörökség.", "A várost hét hegy veszi körül.", "Norvégia egyik legesősebb városa.", "Erős hanza kereskedelmi múltja van."],
+      ro: ["Bryggen este sit UNESCO.", "Orașul este înconjurat de șapte munți.", "Este unul dintre cele mai ploioase orașe din Norvegia.", "Are o puternică istorie comercială hanseatică."]
+    },
+    image: "/geo-images/norway/bergen.webp",
+  },
+  {
+    id: "city-trondheim",
+    type: "city",
+    parent: "norway",
+    coords: [10.3951, 63.4305],
+    name: { de: "Trondheim", hu: "Trondheim", ro: "Trondheim", en: "Trondheim" },
+    description: {
+      en: "Trondheim is a historic university city known for Nidaros Cathedral, medieval heritage, and a lively student atmosphere.",
+      de: "Trondheim ist eine historische Universitätsstadt, bekannt für den Nidarosdom, ihr mittelalterliches Erbe und eine lebendige Studentenatmosphäre.",
+      hu: "Trondheim történelmi egyetemváros, amely a Nidarosdómról, középkori örökségéről és élénk diákéletéről ismert.",
+      ro: "Trondheim este un oraș universitar istoric, cunoscut pentru Catedrala Nidaros, moștenirea medievală și atmosfera studențească vibrantă."
+    },
+    facts: {
+      en: ["It was Norway's first capital.", "Nidaros Cathedral is its most important landmark.", "The city is a center for technology and research.", "It has deep medieval roots."],
+      de: ["Es war Norwegens erste Hauptstadt.", "Der Nidarosdom ist das wichtigste Wahrzeichen.", "Die Stadt ist ein Zentrum für Technologie und Forschung.", "Sie hat tiefe mittelalterliche Wurzeln."],
+      hu: ["Norvégia első fővárosa volt.", "A Nidarosdóm a legfontosabb jelképe.", "A város a technológia és kutatás központja.", "Mély középkori gyökerekkel rendelkezik."],
+      ro: ["A fost prima capitală a Norvegiei.", "Catedrala Nidaros este cel mai important reper al orașului.", "Orașul este un centru pentru tehnologie și cercetare.", "Are rădăcini medievale adânci."]
+    },
+    image: "/geo-images/norway/trondheim.webp",
+  },
+  {
+    id: "city-stavanger",
+    type: "city",
+    parent: "norway",
+    coords: [5.7331, 58.9700],
+    name: { de: "Stavanger", hu: "Stavanger", ro: "Stavanger", en: "Stavanger" },
+    description: {
+      en: "Stavanger is Norway's oil city and a coastal base for exploring the Lysefjord and nearby Preikestolen.",
+      de: "Stavanger ist Norwegens Ölstadt und ein Küstenstützpunkt für Ausflüge zum Lysefjord und zum nahe gelegenen Preikestolen.",
+      hu: "Stavanger Norvégia olajvárosa, valamint part menti kiindulópont a Lysefjord és a közeli Preikestolen felfedezéséhez.",
+      ro: "Stavanger este orașul petrolului din Norvegia și o bază de coastă pentru explorarea Lysefjordului și a apropiatului Preikestolen."
+    },
+    facts: {
+      en: ["It is closely linked to the petroleum industry.", "The old town is known for white wooden houses.", "Preikestolen is within easy reach from the city.", "It has a lively food and culture scene."],
+      de: ["Es ist eng mit der Erdölindustrie verbunden.", "Die Altstadt ist für weiße Holzhäuser bekannt.", "Preikestolen ist von der Stadt aus gut erreichbar.", "Es hat eine lebendige Essens- und Kulturszene."],
+      hu: ["Szorosan kötődik a kőolajiparhoz.", "Az óváros fehér faházairól ismert.", "A Preikestolen könnyen elérhető a városból.", "Élénk gasztronómiai és kulturális élete van."],
+      ro: ["Este strâns legat de industria petrolieră.", "Orașul vechi este cunoscut pentru casele albe din lemn.", "Preikestolen este ușor accesibil din oraș.", "Are o scenă culinară și culturală activă."]
+    },
+    image: "/geo-images/norway/stavanger.webp",
+  },
+  {
+    id: "city-tromso",
+    type: "city",
+    parent: "norway",
+    coords: [18.9553, 69.6492],
+    name: { de: "Tromsø", hu: "Tromsø", ro: "Tromsø", en: "Tromsø" },
+    description: {
+      en: "Tromsø is the Arctic city of northern Norway, known for the northern lights, polar research, and life above the Arctic Circle.",
+      de: "Tromsø ist die arktische Stadt Nordnorwegens, bekannt für Nordlichter, Polarforschung und das Leben nördlich des Polarkreises.",
+      hu: "Tromsø Észak-Norvégia sarkvidéki városa, amely az északi fényről, a poláris kutatásról és az északi sarkkörön túli életről ismert.",
+      ro: "Tromsø este orașul arctic din nordul Norvegiei, cunoscut pentru aurora boreală, cercetarea polară și viața deasupra Cercului Polar."
+    },
+    facts: {
+      en: ["It is a major Arctic research hub.", "The city is famous for northern lights tourism.", "It lies far above the Arctic Circle.", "It is one of the best-known cities in northern Norway."],
+      de: ["Es ist ein wichtiges Zentrum der Arktisforschung.", "Die Stadt ist berühmt für Nordlichttourismus.", "Sie liegt weit nördlich des Polarkreises.", "Sie gehört zu den bekanntesten Städten Nordnorwegens."],
+      hu: ["Fontos sarkvidéki kutatási központ.", "A város híres az északi fény turizmusáról.", "Messze az északi sarkkör fölött fekszik.", "Észak-Norvégia egyik legismertebb városa."],
+      ro: ["Este un important centru de cercetare arctică.", "Orașul este celebru pentru turismul dedicat aurorei boreale.", "Se află mult deasupra Cercului Polar.", "Este unul dintre cele mai cunoscute orașe din nordul Norvegiei."]
+    },
+    image: "/geo-images/norway/tromso.webp",
+  }
+];
+
+export const norwayCulture: POI[] = [
+  {
+    id: "cult-vigeland",
+    type: "landmark",
+    parent: "norway",
+    coords: [10.7048, 59.9270],
+    name: { de: "Vigeland-Park", hu: "Vigeland park", ro: "Parcul Vigeland", en: "Vigeland Park" },
+    description: {
+      en: "Vigeland Park is Oslo's iconic sculpture park, filled with works by Gustav Vigeland and a major symbol of Norwegian public art.",
+      de: "Der Vigeland-Park ist Oslos ikonischer Skulpturenpark mit Werken von Gustav Vigeland und ein wichtiges Symbol norwegischer öffentlicher Kunst.",
+      hu: "A Vigeland park Oslo ikonikus szoborparkja, Gustav Vigeland műveivel és a norvég köztéri művészet fontos jelképeként.",
+      ro: "Parcul Vigeland este parcul de sculpturi emblematic al Oslo-ului, plin de lucrări de Gustav Vigeland și un simbol major al artei publice norvegiene."
+    },
+    facts: {
+      en: ["It contains more than 200 sculptures.", "All works were created by a single artist, Gustav Vigeland.", "It is one of Oslo's most visited attractions.", "The park is part of Frogner Park."],
+      de: ["Er enthält mehr als 200 Skulpturen.", "Alle Werke stammen von Gustav Vigeland.", "Er gehört zu den meistbesuchten Sehenswürdigkeiten Oslos.", "Der Park ist Teil des Frognerparks."],
+      hu: ["Több mint 200 szobrot tartalmaz.", "Az összes mű Gustav Vigeland alkotása.", "Oslo egyik leglátogatottabb attrakciója.", "A park a Frogner park része."],
+      ro: ["Conține peste 200 de sculpturi.", "Toate lucrările au fost create de un singur artist, Gustav Vigeland.", "Este una dintre cele mai vizitate atracții din Oslo.", "Parcul face parte din Frogner Park."]
+    },
+    image: "/geo-images/norway/vigeland.webp",
+  },
+  {
+    id: "cult-bryggen",
+    type: "historical",
+    parent: "norway",
+    coords: [5.3230, 60.3976],
+    name: { de: "Bryggen Bergen", hu: "Bryggen Bergen", ro: "Bryggen Bergen", en: "Bryggen Bergen" },
+    description: {
+      en: "Bryggen is the old Hanseatic wharf in Bergen, famous for its wooden row of colorful historic buildings.",
+      de: "Bryggen ist die alte hanseatische Uferfront in Bergen, berühmt für ihre hölzerne Reihe farbenfroher historischer Gebäude.",
+      hu: "Bryggen Bergen régi hanza rakpartja, amely színes, történelmi faépületeiről híres.",
+      ro: "Bryggen este vechiul chei hanseatic din Bergen, celebru pentru șirul său de clădiri istorice colorate din lemn."
+    },
+    facts: {
+      en: ["It is a UNESCO World Heritage site.", "It reflects Bergen's Hanseatic trading past.", "The wooden buildings have been carefully preserved.", "It is one of the city's most recognizable views."],
+      de: ["Es ist UNESCO-Welterbe.", "Es spiegelt Bergens hansische Handelsvergangenheit wider.", "Die Holzbauten sind sorgfältig erhalten worden.", "Es gehört zu den bekanntesten Ansichten der Stadt."],
+      hu: ["UNESCO Világörökség.", "Bergen hanza kereskedelmi múltját idézi.", "A faépületeket gondosan megőrizték.", "A város egyik legjellegzetesebb látképe."],
+      ro: ["Este sit UNESCO.", "Reflectă trecutul comercial hanseatic al orașului Bergen.", "Clădirile din lemn au fost conservate cu grijă.", "Este una dintre cele mai recognoscibile imagini ale orașului."]
+    },
+    image: "/geo-images/norway/bryggen.webp",
+  },
+  {
+    id: "cult-nidarosdom",
+    type: "historical",
+    parent: "norway",
+    coords: [10.3975, 63.4269],
+    name: { de: "Nidarosdom", hu: "Nidarosdom", ro: "Catedrala Nidaros", en: "Nidaros Cathedral" },
+    description: {
+      en: "Nidaros Cathedral in Trondheim is Norway's most important medieval church and a major pilgrimage destination.",
+      de: "Der Nidarosdom in Trondheim ist Norwegens wichtigste mittelalterliche Kirche und ein bedeutendes Pilgerziel.",
+      hu: "A trondheimi Nidarosdom Norvégia legfontosabb középkori temploma és jelentős zarándokhelye.",
+      ro: "Catedrala Nidaros din Trondheim este cea mai importantă biserică medievală din Norvegia și o destinație majoră de pelerinaj."
+    },
+    facts: {
+      en: ["It is built over the burial place of Saint Olav.", "It is considered the largest medieval cathedral in Scandinavia.", "Coronations of Norwegian monarchs once took place here.", "It is a key symbol of Trondheim."],
+      de: ["Sie wurde über der Grabstätte des Heiligen Olav errichtet.", "Sie gilt als größte mittelalterliche Kathedrale Skandinaviens.", "Hier fanden einst die Krönungen norwegischer Monarchen statt.", "Sie ist ein wichtiges Symbol Trondheims."],
+      hu: ["Szent Olaf sírhelye fölé épült.", "Skandinávia legnagyobb középkori katedrálisa.", "Itt tartották egykor a norvég uralkodók koronázásait.", "Trondheim egyik legfontosabb jelképe."],
+      ro: ["A fost construită peste locul de înmormântare al Sfântului Olav.", "Este considerată cea mai mare catedrală medievală din Scandinavia.", "Aici aveau loc odinioară încoronările monarhilor norvegieni.", "Este un simbol important al orașului Trondheim."]
+    },
+    image: "/geo-images/norway/nidarosdom.webp",
+  },
+  {
+    id: "cult-oslo-opera",
+    type: "landmark",
+    parent: "norway",
+    coords: [10.7527, 59.9075],
+    name: { de: "Opernhaus Oslo", hu: "Oslo Operaház", ro: "Opera din Oslo", en: "Oslo Opera House" },
+    description: {
+      en: "The Oslo Opera House is a modern waterfront landmark whose sloping roof invites visitors to walk up to the top.",
+      de: "Das Opernhaus Oslo ist ein modernes Wahrzeichen am Wasser, dessen geneigtes Dach Besucher bis ganz nach oben einlädt.",
+      hu: "Az Oslo Operaház modern vízparti látványosság, amelynek lejtős tetejére a látogatók fel is sétálhatnak.",
+      ro: "Opera din Oslo este un reper modern de pe malul apei, iar acoperișul său înclinat invită vizitatorii să urce până sus."
+    },
+    facts: {
+      en: ["It opened in 2008.", "Visitors can walk on the roof.", "It is designed to resemble a glacier rising from the water.", "It is one of Oslo's best-known modern buildings."],
+      de: ["Es wurde 2008 eröffnet.", "Besucher können auf das Dach hinaufgehen.", "Sein Design erinnert an einen aus dem Wasser aufragenden Gletscher.", "Es ist eines der bekanntesten modernen Gebäude Oslos."],
+      hu: ["2008-ban nyílt meg.", "A látogatók felmehetnek a tetőre.", "Dizájnja egy vízből kiemelkedő gleccserre emlékeztet.", "Oslo egyik legismertebb modern épülete."],
+      ro: ["A fost deschisă în 2008.", "Vizitatorii pot urca pe acoperiș.", "Designul amintește de un ghețar care se ridică din apă.", "Este una dintre cele mai cunoscute clădiri moderne din Oslo."]
+    },
+    image: "/geo-images/norway/oslo-opera.webp",
+  },
+  {
+    id: "cult-roros",
+    type: "historical",
+    parent: "norway",
+    coords: [11.3848, 62.5748],
+    name: { de: "Røros Bergstadt", hu: "Røros bányaváros", ro: "Orașul minier Røros", en: "Røros Mining Town" },
+    description: {
+      en: "Røros is a preserved mining town in central Norway, known for its wooden houses and historic copper-mining heritage.",
+      de: "Røros ist eine erhaltene Bergbaustadt in Zentralnorwegen, bekannt für ihre Holzhäuser und das historische Kupferbergbau-Erbe.",
+      hu: "Røros egy megőrzött bányaváros Közép-Norvégiában, híres faházairól és a történelmi rézbányászati örökségéről.",
+      ro: "Røros este un oraș minier conservat în centrul Norvegiei, cunoscut pentru casele sale din lemn și moștenirea istorică a mineritului de cupru."
+    },
+    facts: {
+      en: ["It is a UNESCO World Heritage site.", "Copper mining shaped the town for centuries.", "Many original wooden houses remain intact.", "It is known for its cold climate and winter charm."],
+      de: ["Es ist UNESCO-Welterbe.", "Der Kupferbergbau prägte die Stadt über Jahrhunderte.", "Viele originale Holzhäuser sind erhalten.", "Es ist für sein kaltes Klima und seinen Wintercharme bekannt."],
+      hu: ["UNESCO Világörökség.", "A rézbányászat évszázadokon át meghatározta a várost.", "Sok eredeti faház épen megmaradt.", "Hideg éghajlatáról és téli hangulatáról ismert."],
+      ro: ["Este sit UNESCO.", "Mineritul de cupru a modelat orașul timp de secole.", "Multe case originale din lemn s-au păstrat intacte.", "Este cunoscut pentru clima rece și farmecul iernii."]
+    },
+    image: "/geo-images/norway/roros.webp",
+  }
+];
+
+export const norwayAllPoi: POI[] = [norwayCountry, ...norwayRegions, ...norwayCities, ...norwayCulture, ...norwayNature];
