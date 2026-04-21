@@ -364,7 +364,619 @@ export const slovakiaRegions: POI[] = [
   }
 ];
 
+export const slovakiaCities: POI[] = [
+  {
+    id: "city-bratislava",
+    type: "city",
+    parent: "country-slovakia",
+    coords: [17.1077, 48.1486],
+    name: { de: "Pressburg", hu: "Pozsony", ro: "Bratislava", en: "Bratislava" },
+    description: {
+      de: "Bratislava ist die Hauptstadt der Slowakei an der Donau. Sie verbindet Altstadt, Burgberg und die Nähe zu Österreich und Ungarn.",
+      hu: "Pozsony Szlovákia fővárosa a Duna partján. Az óvárost, a várdombot és az osztrák, valamint magyar közelséget egyesíti.",
+      ro: "Bratislava este capitala Slovaciei, pe Dunăre. Îmbină centrul vechi, dealul castelului și apropierea de Austria și Ungaria.",
+      en: "Bratislava is the capital of Slovakia on the Danube. It combines the old town, the castle hill, and close links to Austria and Hungary."
+    },
+    facts: {
+      de: [
+        "Bratislava ist die einzige Hauptstadt mit Grenze zu zwei Ländern.",
+        "Die Altstadt ist das historische Herz der Stadt.",
+        "Der Burgberg prägt die Silhouette über der Donau.",
+        "Die Stadt ist ein wichtiger Verkehrsknoten in Mitteleuropa."
+      ],
+      hu: [
+        "Pozsony az egyetlen főváros, amely két országgal határos.",
+        "Az óváros a város történelmi központja.",
+        "A várdomb meghatározza a Duna fölötti látképet.",
+        "A város fontos közlekedési csomópont Közép-Európában."
+      ],
+      ro: [
+        "Bratislava este singura capitală care se învecinează cu două țări.",
+        "Centrul vechi este inima istorică a orașului.",
+        "Dealul castelului domină panorama deasupra Dunării.",
+        "Orașul este un nod important de transport în Europa Centrală."
+      ],
+      en: [
+        "Bratislava is the only capital bordering two countries.",
+        "The old town is the historic heart of the city.",
+        "The castle hill shapes the skyline above the Danube.",
+        "The city is a major transport hub in Central Europe."
+      ]
+    },
+    image: "/geo-images/slovakia/city-bratislava.webp"
+  },
+  {
+    id: "city-kosice",
+    type: "city",
+    parent: "country-slovakia",
+    coords: [21.2611, 48.7164],
+    name: { de: "Kaschau", hu: "Kassa", ro: "Košice", en: "Košice" },
+    description: {
+      de: "Košice ist die zweitgrößte Stadt der Slowakei und das kulturelle Zentrum des Ostens. Der Dom und der große Hauptplatz prägen das Stadtbild.",
+      hu: "Kassa Szlovákia második legnagyobb városa és a keleti országrész kulturális központja. A dóm és a nagy főtér határozza meg a városképet.",
+      ro: "Košice este al doilea oraș ca mărime din Slovacia și centrul cultural al estului. Catedrala și piața principală definesc orașul.",
+      en: "Košice is the second-largest city in Slovakia and the cultural center of the east. The cathedral and main square define the city."
+    },
+    facts: {
+      de: [
+        "Košice ist die zweitgrößte Stadt der Slowakei.",
+        "Der Dom der heiligen Elisabeth ist das wichtigste Wahrzeichen.",
+        "Die Stadt war 2013 Europäische Kulturhauptstadt.",
+        "Der Peace Marathon ist der älteste Marathon Europas."
+      ],
+      hu: [
+        "Kassa Szlovákia második legnagyobb városa.",
+        "A Szent Erzsébet-dóm a legfontosabb jelkép.",
+        "A város 2013-ban Európa Kulturális Fővárosa volt.",
+        "A békemaraton Európa legrégebbi maratonja."
+      ],
+      ro: [
+        "Košice este al doilea oraș ca mărime din Slovacia.",
+        "Catedrala Sfânta Elisabeta este simbolul principal.",
+        "Orașul a fost Capitală Europeană a Culturii în 2013.",
+        "Maratonul Păcii este cel mai vechi maraton din Europa."
+      ],
+      en: [
+        "Košice is the second-largest city in Slovakia.",
+        "St. Elisabeth Cathedral is the main landmark.",
+        "The city was the European Capital of Culture in 2013.",
+        "The Peace Marathon is the oldest marathon in Europe."
+      ]
+    },
+    image: "/geo-images/slovakia/city-kosice.webp"
+  },
+  {
+    id: "city-banska-bystrica",
+    type: "city",
+    parent: "country-slovakia",
+    coords: [19.145, 48.7395],
+    name: { de: "Neusohl", hu: "Besztercebánya", ro: "Banská Bystrica", en: "Banská Bystrica" },
+    description: {
+      de: "Banská Bystrica liegt im Herzen der Slowakei und ist eng mit dem Bergbau und dem slowakischen Nationalaufstand verbunden. Die Stadt verbindet historische Plätze mit starker regionaler Identität.",
+      hu: "Besztercebánya Szlovákia szívében fekszik, és szorosan kapcsolódik a bányászathoz, valamint a szlovák nemzeti felkeléshez. Történelmi tereket és erős regionális identitást egyesít.",
+      ro: "Banská Bystrica se află în inima Slovaciei și este legată de minerit și de revolta națională slovacă. Îmbină piețe istorice cu o identitate regională puternică.",
+      en: "Banská Bystrica lies in the heart of Slovakia and is tied to mining and the Slovak National Uprising. It combines historic squares with strong regional identity."
+    },
+    facts: {
+      de: [
+        "Die Stadt spielte 1944 eine zentrale Rolle beim slowakischen Nationalaufstand.",
+        "Sie liegt im Tal des Flusses Hron.",
+        "Der Hauptplatz ist das historische Zentrum der Stadt.",
+        "Die Umgebung ist reich an Bergbaugeschichte."
+      ],
+      hu: [
+        "A város 1944-ben központi szerepet játszott a szlovák nemzeti felkelésben.",
+        "A Hron folyó völgyében fekszik.",
+        "A főtér a város történelmi központja.",
+        "Környezete bányászati örökségben gazdag."
+      ],
+      ro: [
+        "Orașul a avut un rol central în Revolta Națională Slovacă din 1944.",
+        "Se află în valea râului Hron.",
+        "Piața principală este centrul istoric al orașului.",
+        "Zona înconjurătoare este bogată în istorie minieră."
+      ],
+      en: [
+        "The city played a central role in the 1944 Slovak National Uprising.",
+        "It lies in the valley of the Hron River.",
+        "The main square is the historic center of the city.",
+        "The surrounding area is rich in mining heritage."
+      ]
+    },
+    image: "/geo-images/slovakia/city-banska-bystrica.webp"
+  },
+  {
+    id: "city-zilina",
+    type: "city",
+    parent: "country-slovakia",
+    coords: [18.7408, 49.2236],
+    name: { de: "Sillein", hu: "Zsolna", ro: "Žilina", en: "Žilina" },
+    description: {
+      de: "Žilina liegt im Nordwesten der Slowakei am Fluss Waag und ist ein wichtiges regionales Zentrum. Die Stadt ist ein Ausgangspunkt für Reisen in die Berge.",
+      hu: "Zsolna Szlovákia északnyugati részén, a Vág folyó mellett fekszik, és fontos regionális központ. A város a hegyek felé vezető utak kiindulópontja.",
+      ro: "Žilina se află în nord-vestul Slovaciei, pe râul Váh, și este un important centru regional. Orașul este un punct de plecare spre munți.",
+      en: "Žilina lies in northwestern Slovakia on the Váh River and is an important regional center. The city is a gateway to the mountains."
+    },
+    facts: {
+      de: [
+        "Žilina liegt am Fluss Waag.",
+        "Die Stadt ist ein wichtiger Verkehrsknoten im Nordwesten.",
+        "Sie dient als Tor zu den Bergen der Region.",
+        "Die Altstadt rund um die Kirche ist historisch bedeutsam."
+      ],
+      hu: [
+        "Zsolna a Vág folyó partján fekszik.",
+        "A város fontos közlekedési csomópont északnyugaton.",
+        "A térség hegyeihez vezető kapu.",
+        "Az óváros történelmileg jelentős."
+      ],
+      ro: [
+        "Žilina se află pe râul Váh.",
+        "Orașul este un nod important de transport în nord-vest.",
+        "Funcționează ca poartă către munții regiunii.",
+        "Centrul vechi are valoare istorică."
+      ],
+      en: [
+        "Žilina lies on the Váh River.",
+        "The city is a major transport hub in the northwest.",
+        "It serves as a gateway to the region's mountains.",
+        "The old town has historical significance."
+      ]
+    },
+    image: "/geo-images/slovakia/city-zilina.webp"
+  },
+  {
+    id: "city-poprad",
+    type: "city",
+    parent: "country-slovakia",
+    coords: [20.2972, 49.0594],
+    name: { de: "Deutschendorf", hu: "Poprád", ro: "Poprad", en: "Poprad" },
+    description: {
+      de: "Poprad liegt am Fuß der Hohen Tatra und gilt als Tor zu den Bergen. Die Stadt ist ein wichtiger Ausgangspunkt für den Tourismus und den Zugang zur Tatra.",
+      hu: "Poprád a Magas-Tátra lábánál fekszik, és a hegyek kapujaként ismert. A város fontos turisztikai kiindulópont a Tátrába.",
+      ro: "Poprad se află la poalele Munților Tatra și este considerat poarta către munți. Orașul este un important punct de plecare turistic spre Tatra.",
+      en: "Poprad lies at the foot of the High Tatras and is known as a gateway to the mountains. The city is an important tourism base for access to the Tatras."
+    },
+    facts: {
+      de: [
+        "Poprad ist ein wichtiger Zugangspunkt zur Hohen Tatra.",
+        "Der Flughafen Poprad-Tatry unterstützt den Tourismus.",
+        "Die Stadt besitzt eine gut erhaltene historische Kernzone.",
+        "Sie ist ein zentraler Verkehrsknoten in der Region."
+      ],
+      hu: [
+        "Poprád fontos belépési pont a Magas-Tátrába.",
+        "A Poprád-Tátra repülőtér támogatja a turizmust.",
+        "A városnak jól megőrzött történelmi központja van.",
+        "A térség közlekedési csomópontja."
+      ],
+      ro: [
+        "Poprad este un punct important de acces către Tatra Mare.",
+        "Aeroportul Poprad-Tatry susține turismul din regiune.",
+        "Orașul are un centru istoric bine păstrat.",
+        "Este un nod de transport central în zonă."
+      ],
+      en: [
+        "Poprad is a key access point to the High Tatras.",
+        "Poprad-Tatry Airport supports tourism in the region.",
+        "The city has a well-preserved historic center.",
+        "It is a central transport hub in the area."
+      ]
+    },
+    image: "/geo-images/slovakia/city-poprad.webp"
+  }
+];
+
+export const slovakiaCulture: POI[] = [
+  {
+    id: "cult-bratislava-castle",
+    type: "historical",
+    parent: "country-slovakia",
+    coords: [17.1003, 48.1422],
+    name: { de: "Pressburger Burg", hu: "Pozsonyi vár", ro: "Castelul Bratislava", en: "Bratislava Castle" },
+    description: {
+      de: "Die Burg Bratislava steht auf dem Burgberg über der Donau und ist eines der stärksten Symbole der Hauptstadt.",
+      hu: "A pozsonyi vár a Várhegyen áll a Duna fölött, és a főváros egyik legerősebb szimbóluma.",
+      ro: "Castelul Bratislava se află pe dealul castelului deasupra Dunării și este un simbol puternic al capitalei.",
+      en: "Bratislava Castle stands on the castle hill above the Danube and is one of the capital's strongest symbols."
+    },
+    facts: {
+      de: [
+        "Die Burg ist seit dem 9. Jahrhundert ein bedeutender Ort.",
+        "Sie dominiert das Stadtbild über der Donau.",
+        "Der Burgberg ist eng mit der Hauptstadtgeschichte verbunden.",
+        "Die Anlage gilt als nationales Symbol der Slowakei."
+      ],
+      hu: [
+        "A vár a 9. század óta jelentős helyszín.",
+        "Uralkodik a Duna fölötti városképen.",
+        "A várhegy szorosan kapcsolódik a főváros történetéhez.",
+        "Az épületegyüttes Szlovákia nemzeti szimbóluma."
+      ],
+      ro: [
+        "Castelul este un loc important încă din secolul al IX-lea.",
+        "Domină panorama orașului deasupra Dunării.",
+        "Dealul castelului este legat strâns de istoria capitalei.",
+        "Ansamblul este considerat un simbol național al Slovaciei."
+      ],
+      en: [
+        "The castle has been an important site since the 9th century.",
+        "It dominates the city skyline above the Danube.",
+        "The castle hill is closely tied to the capital's history.",
+        "The complex is considered a national symbol of Slovakia."
+      ]
+    },
+    image: "/geo-images/slovakia/cult-bratislava-castle.webp"
+  },
+  {
+    id: "cult-spis-castle",
+    type: "historical",
+    parent: "country-slovakia",
+    coords: [20.7678, 48.9983],
+    name: { de: "Zipser Burg", hu: "Szepesvár", ro: "Castelul Spiș", en: "Spiš Castle" },
+    description: {
+      de: "Die Zipser Burg gehört zu den größten mittelalterlichen Burganlagen Mitteleuropas und ist UNESCO-Welterbe.",
+      hu: "A Szepesvár Közép-Európa egyik legnagyobb középkori várkomplexuma és UNESCO Világörökség.",
+      ro: "Castelul Spiș este unul dintre cele mai mari complexe medievale de fortificații din Europa Centrală și sit UNESCO.",
+      en: "Spiš Castle is one of the largest medieval castle complexes in Central Europe and a UNESCO World Heritage site."
+    },
+    facts: {
+      de: [
+        "Die Burg ist UNESCO-Welterbe.",
+        "Sie zählt zu den größten Burganlagen Mitteleuropas.",
+        "Die Ruine liegt auf einem Travertinhügel.",
+        "Sie ist ein Symbol der Ostslowakei."
+      ],
+      hu: [
+        "A vár UNESCO Világörökség.",
+        "Közép-Európa egyik legnagyobb várkomplexuma.",
+        "A rom egy travertin dombon áll.",
+        "A kelet-szlovákiai régió egyik jelképe."
+      ],
+      ro: [
+        "Castelul este sit UNESCO.",
+        "Este unul dintre cele mai mari complexe de castele din Europa Centrală.",
+        "Ruina se află pe un deal de travertin.",
+        "Este un simbol al estului Slovaciei."
+      ],
+      en: [
+        "The castle is a UNESCO World Heritage site.",
+        "It is one of the largest castle complexes in Central Europe.",
+        "The ruin stands on a travertine hill.",
+        "It is a symbol of eastern Slovakia."
+      ]
+    },
+    image: "/geo-images/slovakia/cult-spis-castle.webp"
+  },
+  {
+    id: "cult-banska-stiavnica",
+    type: "historical",
+    parent: "country-slovakia",
+    coords: [18.8925, 48.4594],
+    name: { de: "Schemnitz", hu: "Selmecbánya", ro: "Banská Štiavnica", en: "Banská Štiavnica" },
+    description: {
+      de: "Banská Štiavnica ist eine historische Bergbaustadt und UNESCO-Welterbe in einer vulkanischen Landschaft.",
+      hu: "Selmecbánya történelmi bányászváros és UNESCO Világörökség egy vulkanikus tájban.",
+      ro: "Banská Štiavnica este un oraș minier istoric și sit UNESCO într-un peisaj vulcanic.",
+      en: "Banská Štiavnica is a historic mining town and UNESCO World Heritage site in a volcanic landscape."
+    },
+    facts: {
+      de: [
+        "Die Stadt ist UNESCO-Welterbe.",
+        "Sie war ein Zentrum des Bergbaus in Mitteleuropa.",
+        "Die künstlichen Wasserreservoirs heißen Tajchy.",
+        "Hier entstand eine der ersten Bergbauakademien der Welt."
+      ],
+      hu: [
+        "A város UNESCO Világörökség.",
+        "Közép-Európa bányászatának egyik központja volt.",
+        "A mesterséges víztározókat tajchy-nak nevezik.",
+        "Itt jött létre a világ egyik első bányászati akadémiája."
+      ],
+      ro: [
+        "Orașul este sit UNESCO.",
+        "A fost un centru important al mineritului în Europa Centrală.",
+        "Rezervoarele artificiale de apă se numesc tajchy.",
+        "Aici a apărut una dintre primele academii miniere din lume."
+      ],
+      en: [
+        "The town is a UNESCO World Heritage site.",
+        "It was a major mining center in Central Europe.",
+        "The artificial water reservoirs are called tajchy.",
+        "One of the world's first mining academies was founded here."
+      ]
+    },
+    image: "/geo-images/slovakia/cult-banska-stiavnica.webp"
+  },
+  {
+    id: "cult-vlkolinec",
+    type: "historical",
+    parent: "country-slovakia",
+    coords: [19.2833, 49.0419],
+    name: { de: "Walkendorf", hu: "Vlkolínec", ro: "Vlkolínec", en: "Vlkolínec" },
+    description: {
+      de: "Vlkolínec ist ein gut erhaltenes Bergdorf und UNESCO-Welterbe. Die hölzerne Siedlungsstruktur zeigt traditionelle ländliche Architektur in den Karpaten.",
+      hu: "Vlkolínec egy jól megőrzött hegyi falu és UNESCO Világörökség. A fából épült településszerkezet a Kárpátok hagyományos falusi építészetét mutatja.",
+      ro: "Vlkolínec este un sat montan bine păstrat și sit UNESCO. Structura sa din lemn arată arhitectura rurală tradițională din Carpați.",
+      en: "Vlkolínec is a well-preserved mountain village and UNESCO World Heritage site. Its wooden layout shows traditional rural architecture in the Carpathians."
+    },
+    facts: {
+      de: [
+        "Vlkolínec ist UNESCO-Welterbe.",
+        "Das Dorf bewahrt traditionelle Holzarchitektur.",
+        "Es liegt in einer Berglandschaft nahe Ružomberok.",
+        "Es gilt als eines der besterhaltenen Volksbaudörfer des Landes."
+      ],
+      hu: [
+        "Vlkolínec UNESCO Világörökség.",
+        "A falu megőrizte a hagyományos faépítészetet.",
+        "Ružomberok közelében, hegyi környezetben fekszik.",
+        "Az ország egyik legjobb állapotban fennmaradt népi falva."
+      ],
+      ro: [
+        "Vlkolínec este sit UNESCO.",
+        "Satul păstrează arhitectura tradițională din lemn.",
+        "Se află într-un peisaj montan lângă Ružomberok.",
+        "Este unul dintre cele mai bine păstrate sate tradiționale din Slovacia."
+      ],
+      en: [
+        "Vlkolínec is a UNESCO World Heritage site.",
+        "The village preserves traditional wooden architecture.",
+        "It lies in a mountain setting near Ružomberok.",
+        "It is one of the country's best-preserved folk villages."
+      ]
+    },
+    image: "/geo-images/slovakia/cult-vlkolinec.webp"
+  },
+  {
+    id: "cult-bardejov",
+    type: "historical",
+    parent: "country-slovakia",
+    coords: [21.2761, 49.2941],
+    name: { de: "Bartfeld", hu: "Bártfa", ro: "Bardejov", en: "Bardejov" },
+    description: {
+      de: "Bardejov ist eine mittelalterliche Stadt mit einem hervorragend erhaltenen Marktplatz und UNESCO-Status.",
+      hu: "Bártfa középkori város, kiemelkedően megőrzött főtérrel és UNESCO-státusszal.",
+      ro: "Bardejov este un oraș medieval cu o piață principală foarte bine păstrată și statut UNESCO.",
+      en: "Bardejov is a medieval town with a remarkably preserved main square and UNESCO status."
+    },
+    facts: {
+      de: [
+        "Die Altstadt gehört zum UNESCO-Welterbe.",
+        "Der Hauptplatz zählt zu den schönsten in der Slowakei.",
+        "Viele gotische und Renaissance-Bauten sind erhalten.",
+        "Bardejov liegt nahe der polnischen Grenze."
+      ],
+      hu: [
+        "Az óváros az UNESCO Világörökség része.",
+        "A főtér Szlovákia egyik legszebb tere.",
+        "Sok gótikus és reneszánsz épület fennmaradt.",
+        "Bártfa közel fekszik a lengyel határhoz."
+      ],
+      ro: [
+        "Centrul vechi face parte din Patrimoniul Mondial UNESCO.",
+        "Piața principală este una dintre cele mai frumoase din Slovacia.",
+        "Au supraviețuit multe clădiri gotice și renascentiste.",
+        "Bardejov se află aproape de granița cu Polonia."
+      ],
+      en: [
+        "The old town is part of the UNESCO World Heritage site.",
+        "The main square is one of the most beautiful in Slovakia.",
+        "Many Gothic and Renaissance buildings have survived.",
+        "Bardejov lies close to the Polish border."
+      ]
+    },
+    image: "/geo-images/slovakia/cult-bardejov.webp"
+  }
+];
+
+export const slovakiaNature: POI[] = [
+  {
+    id: "nat-high-tatras",
+    type: "mountain",
+    parent: "country-slovakia",
+    coords: [20.1, 49.17],
+    name: { de: "Hohe Tatra", hu: "Magas-Tátra", ro: "Munții Tatra Mare", en: "High Tatras" },
+    description: {
+      de: "Die Hohe Tatra ist das kleinste Hochgebirge der Welt und das alpine Herz der Slowakei.",
+      hu: "A Magas-Tátra a világ legkisebb magashegysége és Szlovákia alpesi szíve.",
+      ro: "Munții Tatra Mare sunt cea mai mică zonă montană înaltă din lume și inima alpină a Slovaciei.",
+      en: "The High Tatras are the smallest high mountain range in the world and the alpine heart of Slovakia."
+    },
+    facts: {
+      de: [
+        "Der Gerlachovský štít ist mit 2655 Metern der höchste Berg des Landes.",
+        "Die Region gehört zu den bekanntesten Wandergebieten der Slowakei.",
+        "Die Hohe Tatra ist Teil der Karpaten.",
+        "Sie ist ein Symbol des slowakischen Naturerbes."
+      ],
+      hu: [
+        "A Gerlachovský štít 2655 méterrel Szlovákia legmagasabb pontja.",
+        "A térség az ország egyik legismertebb túrahelye.",
+        "A Magas-Tátra a Kárpátok része.",
+        "A szlovák természeti örökség fontos szimbóluma."
+      ],
+      ro: [
+        "Gerlachovský štít este cel mai înalt vârf din Slovacia, cu 2655 m.",
+        "Regiunea este una dintre cele mai cunoscute zone de drumeție din țară.",
+        "Tatra Mare face parte din Carpați.",
+        "Este un simbol important al patrimoniului natural slovac."
+      ],
+      en: [
+        "Gerlachovský štít is the highest peak in Slovakia at 2655 meters.",
+        "The region is one of the country's best-known hiking areas.",
+        "The High Tatras are part of the Carpathians.",
+        "They are an important symbol of Slovak natural heritage."
+      ]
+    },
+    image: "/geo-images/slovakia/nat-high-tatras.webp"
+  },
+  {
+    id: "nat-slovensky-raj",
+    type: "forest",
+    parent: "country-slovakia",
+    coords: [20.42, 48.92],
+    name: { de: "Slowakisches Paradies", hu: "Szlovák Paradicsom NP", ro: "Parcul Național Slovak Paradise", en: "Slovak Paradise National Park" },
+    description: {
+      de: "Das Slowakische Paradies ist ein Nationalpark voller Schluchten, Wasserfälle und Leitern.",
+      hu: "A Szlovák Paradicsom szurdokokkal, vízesésekkel és létrákkal teli nemzeti park.",
+      ro: "Parcul Național Slovak Paradise este plin de chei, cascade și scări.",
+      en: "Slovak Paradise is a national park full of gorges, waterfalls, and ladders."
+    },
+    facts: {
+      de: [
+        "Der Park ist für Schluchten und Leiternetzwerke bekannt.",
+        "Es gibt zahlreiche Wasserfälle und enge Canyons.",
+        "Die Region ist ein beliebtes Ziel für aktive Wanderer.",
+        "Der Nationalpark schützt eine abwechslungsreiche Karstlandschaft."
+      ],
+      hu: [
+        "A park szurdokjairól és létrás útvonalairól híres.",
+        "Számos vízesés és szűk kanyon található itt.",
+        "Népszerű célpont az aktív túrázók körében.",
+        "A nemzeti park változatos karsztvidéket véd."
+      ],
+      ro: [
+        "Parcul este cunoscut pentru chei și rețelele de scări.",
+        "Aici se găsesc numeroase cascade și canioane înguste.",
+        "Este o destinație populară pentru drumeții activi.",
+        "Parcul național protejează un peisaj carstic variat."
+      ],
+      en: [
+        "The park is known for its gorges and ladder networks.",
+        "It has numerous waterfalls and narrow canyons.",
+        "It is a popular destination for active hikers.",
+        "The national park protects a varied karst landscape."
+      ]
+    },
+    image: "/geo-images/slovakia/nat-slovensky-raj.webp"
+  },
+  {
+    id: "nat-pieniny",
+    type: "mountain",
+    parent: "country-slovakia",
+    coords: [20.4, 49.4],
+    name: { de: "Pieninen", hu: "Pieniny NP", ro: "Parcul Național Pieniny", en: "Pieniny National Park" },
+    description: {
+      de: "Die Pieninen sind ein grenzüberschreitendes Naturgebiet mit dem malerischen Dunajec-Tal.",
+      hu: "A Pieninek határon átnyúló természeti térség a festői Dunajec-völggyel.",
+      ro: "Pieniny este o zonă naturală transfrontalieră cu pitoreasca vale a Dunajecului.",
+      en: "Pieniny is a cross-border natural area with the scenic Dunajec Valley."
+    },
+    facts: {
+      de: [
+        "Der Dunajec bildet hier eine berühmte Flusslandschaft.",
+        "Tutajfahrten gehören zu den bekanntesten Erlebnissen der Region.",
+        "Die Kalksteinfelsen prägen die Landschaft deutlich.",
+        "Das Gebiet liegt an der Grenze zu Polen."
+      ],
+      hu: [
+        "Itt a Dunajec híres folyóvölgyet alakít ki.",
+        "A tutajozás a térség egyik legismertebb élménye.",
+        "A mészkősziklák erősen meghatározzák a tájat.",
+        "A terület a lengyel határ mentén fekszik."
+      ],
+      ro: [
+        "Dunajecul formează aici un peisaj fluvial faimos.",
+        "Plimbările cu pluta sunt una dintre cele mai cunoscute activități.",
+        "Stâncile de calcar definesc clar peisajul.",
+        "Zona se află la granița cu Polonia."
+      ],
+      en: [
+        "The Dunajec creates a famous river landscape here.",
+        "Rafting is one of the region's best-known experiences.",
+        "The limestone cliffs strongly shape the scenery.",
+        "The area lies on the border with Poland."
+      ]
+    },
+    image: "/geo-images/slovakia/nat-pieniny.webp"
+  },
+  {
+    id: "nat-domica",
+    type: "landmark",
+    parent: "country-slovakia",
+    coords: [20.45, 48.48],
+    name: { de: "Domica-Höhle", hu: "Domica-barlang", ro: "Peștera Domica", en: "Domica Cave" },
+    description: {
+      de: "Die Domica-Höhle ist Teil des UNESCO-geschützten Höhlensystems Aggtelek-Domica.",
+      hu: "A Domica-barlang az UNESCO által védett Aggtelek-Domica barlangrendszer része.",
+      ro: "Peștera Domica face parte din sistemul de peșteri protejat de UNESCO Aggtelek-Domica.",
+      en: "Domica Cave is part of the UNESCO-protected Aggtelek-Domica cave system."
+    },
+    facts: {
+      de: [
+        "Die Höhle gehört zum UNESCO-Welterbe Aggtelek-Domica.",
+        "Sie ist Teil eines grenzüberschreitenden Karstsystems.",
+        "Die unterirdischen Räume sind reich an Tropfsteinen.",
+        "Die Höhle liegt im Südosten der Slowakei."
+      ],
+      hu: [
+        "A barlang az Aggtelek-Domica UNESCO világörökség része.",
+        "Egy határon átnyúló karsztrendszer része.",
+        "A föld alatti termek gazdagok cseppkövekben.",
+        "A barlang Szlovákia délkeleti részén található."
+      ],
+      ro: [
+        "Peștera face parte din patrimoniul UNESCO Aggtelek-Domica.",
+        "Este parte a unui sistem carstic transfrontalier.",
+        "Sălile subterane sunt bogate în stalactite și stalagmite.",
+        "Peștera se află în sud-estul Slovaciei."
+      ],
+      en: [
+        "The cave is part of the UNESCO Aggtelek-Domica World Heritage site.",
+        "It belongs to a cross-border karst system.",
+        "Its underground chambers are rich in dripstone formations.",
+        "The cave is located in southeastern Slovakia."
+      ]
+    },
+    image: "/geo-images/slovakia/nat-domica.webp"
+  },
+  {
+    id: "nat-ochtinska",
+    type: "landmark",
+    parent: "country-slovakia",
+    coords: [20.29, 48.69],
+    name: { de: "Ochtina-Aragonithöhle", hu: "Ochtinai aragonit-barlang", ro: "Peștera de aragonit Ochtina", en: "Ochtinska Aragonite Cave" },
+    description: {
+      de: "Die Ochtina-Aragonithöhle ist weltweit für ihre seltenen Aragonitkristalle berühmt.",
+      hu: "Az Ochtinai aragonit-barlang ritka aragonitkristályairól világhírű.",
+      ro: "Peștera de aragonit Ochtina este faimoasă în lume pentru cristalele sale rare de aragonit.",
+      en: "The Ochtinska Aragonite Cave is world-famous for its rare aragonite crystals."
+    },
+    facts: {
+      de: [
+        "Die Höhle ist UNESCO-Welterbe.",
+        "Sie ist weltweit für Aragonitkristalle bekannt.",
+        "Aragonit ist in Höhlen sehr selten.",
+        "Die Höhle liegt in der Mittelslowakei."
+      ],
+      hu: [
+        "A barlang UNESCO Világörökség.",
+        "Világszerte híres az aragonitkristályairól.",
+        "Az aragonit barlangokban rendkívül ritka.",
+        "A barlang Közép-Szlovákiában található."
+      ],
+      ro: [
+        "Peștera este sit UNESCO.",
+        "Este cunoscută în întreaga lume pentru cristalele de aragonit.",
+        "Aragonitul este extrem de rar în peșteri.",
+        "Peștera se află în Slovacia centrală."
+      ],
+      en: [
+        "The cave is a UNESCO World Heritage site.",
+        "It is known worldwide for its aragonite crystals.",
+        "Aragonite is extremely rare in caves.",
+        "The cave is located in central Slovakia."
+      ]
+    },
+    image: "/geo-images/slovakia/nat-ochtinska.webp"
+  }
+];
+
 export const slovakiaAllPoi: POI[] = [
   slovakiaCountry,
-  ...slovakiaRegions
+  ...slovakiaRegions,
+  ...slovakiaCities,
+  ...slovakiaCulture,
+  ...slovakiaNature
 ];
