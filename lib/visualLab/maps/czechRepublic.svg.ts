@@ -1,4 +1,4 @@
-export const czechRepublicViewBox = "0 0 1000 750";
+export const czechRepublicViewBox = "454.08 346 107.11 64.36";
 
 export const CZECH_REPUBLIC_PROJECTION = {
   minLon: 12.1,

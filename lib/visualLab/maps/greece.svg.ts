@@ -1,4 +1,4 @@
-export const greeceViewBox = "0 0 1000 750";
+export const greeceViewBox = "564.7 529.61 104.54 142.89";
 
 export const GREECE_PROJECTION = {
   minLon: 19.3,   // Greece west

@@ -1,4 +1,4 @@
-export const portugalViewBox = "0 0 1000 750";
+export const portugalViewBox = "154.04 523.04 50.82 114.43";
 
 export const PORTUGAL_PROJECTION = {
   minLon: -9.6,

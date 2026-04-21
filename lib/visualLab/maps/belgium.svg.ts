@@ -1,4 +1,4 @@
-export const belgiumViewBox = "0 0 1000 750";
+export const belgiumViewBox = "321.59 339.04 59.01 49.55";
 
 export const BELGIUM_PROJECTION = {
   minLon: 2.5,   // Belgium west boundary

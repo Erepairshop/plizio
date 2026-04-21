@@ -1,4 +1,4 @@
-export const bulgariaViewBox = "0 0 1000 750";
+export const bulgariaViewBox = "596.15 488.89 100.06 66.18";
 
 export const BULGARIA_PROJECTION = {
   minLon: 22.3,

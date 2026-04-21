@@ -1,4 +1,4 @@
-export const irelandViewBox = "0 0 1000 750";
+export const irelandViewBox = "146.85 250.46 63.88 94.12";
 
 export const IRELAND_PROJECTION = {
   minLon: -10.6,   // Ireland west

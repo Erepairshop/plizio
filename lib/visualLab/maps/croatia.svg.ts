@@ -1,4 +1,4 @@
-export const croatiaViewBox = "0 0 1000 750";
+export const croatiaViewBox = "474.84 442.05 92.86 91.41";
 
 export const CROATIA_PROJECTION = {
   minLon: 13.4,

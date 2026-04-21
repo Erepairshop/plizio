@@ -1,4 +1,4 @@
-export const swedenViewBox = "0 0 1000 750";
+export const swedenViewBox = "430.15 -202.69 208.55 487.63";
 
 export const SWEDEN_PROJECTION = {
   minLon: 11.0,

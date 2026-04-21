@@ -1,4 +1,4 @@
-export const luxembourgViewBox = "0 0 1000 750";
+export const luxembourgViewBox = "369.15 371.03 9.21 17.19";
 
 export const LUXEMBOURG_PROJECTION = {
   minLon: 5.7,
