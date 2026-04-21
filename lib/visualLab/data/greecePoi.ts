@@ -112,6 +112,109 @@ export const greeceRegions: POI[] = [
   }
 ];
 
+export const greeceCities: POI[] = [
+  {
+    id: "city-athens",
+    type: "city",
+    parent: "greece",
+    coords: [23.7275, 37.9838],
+    name: { de: "Athen", hu: "Athén", ro: "Atena", en: "Athens" },
+    description: {
+      de: "Athen ist Griechenlands fővárosa és az ókori világ egyik alappillére.",
+      hu: "Athén Görögország fővárosa, ahol az ókor és a mai városi élet összeér.",
+      ro: "Atena este capitala Greciei și un centru major al lumii antice.",
+      en: "Athens is Greece's capital and one of the core cities of classical antiquity."
+    },
+    facts: {
+      de: ["Akropolisz és Plaka a legismertebb részek.", "Itt tartották az első modern olimpiát 1896-ban.", "A város neve Athéné istennőtől jön.", "Az ókori örökség ma is mindenütt látszik."],
+      hu: ["Az Akropolisz és a Plaka a legismertebb részek.", "Itt rendezték az első modern olimpiát 1896-ban.", "A város nevét Athéné istennőről kapta.", "Az ókori örökség ma is mindenütt látható."],
+      ro: ["Acropola și Plaka sunt cele mai cunoscute zone.", "Aici au avut loc primele Jocuri Olimpice moderne în 1896.", "Orașul poartă numele zeiței Athena.", "Moștenirea antică este vizibilă peste tot."],
+      en: ["The Acropolis and Plaka are the best-known areas.", "The first modern Olympics were held here in 1896.", "The city is named after the goddess Athena.", "Ancient heritage is visible all over the city."]
+    },
+    image: "/geo-images/greece/city-athens.webp",
+  },
+  {
+    id: "city-thessaloniki",
+    type: "city",
+    parent: "greece",
+    coords: [22.9444, 40.6401],
+    name: { de: "Thessaloniki", hu: "Thesszaloniki", ro: "Salonic", en: "Thessaloniki" },
+    description: {
+      de: "Thessaloniki Görögország második legnagyobb városa, bizánci arculattal.",
+      hu: "Thesszaloniki az ország második legnagyobb városa és erős bizánci örökséggel bír.",
+      ro: "Salonic este al doilea oraș al Greciei și are un puternic profil bizantin.",
+      en: "Thessaloniki is Greece's second-largest city with a strong Byzantine identity."
+    },
+    facts: {
+      de: ["A Fehér Torony a jelképe.", "Sok bizánci templom maradt fenn.", "Fontos kikötő és kulturális központ.", "A gasztronómiája különösen híres."],
+      hu: ["A Fehér Torony a jelképe.", "Sok bizánci templom maradt fenn.", "Fontos kikötő és kulturális központ.", "A gasztronómiája különösen híres."],
+      ro: ["Turnul Alb este simbolul orașului.", "Au rămas multe biserici bizantine.", "Este un port și un centru cultural important.", "Este faimos pentru gastronomie."],
+      en: ["The White Tower is its symbol.", "Many Byzantine churches survive here.", "It is an important port and cultural hub.", "The city is famous for its food."]
+    },
+    image: "/geo-images/greece/city-thessaloniki.webp",
+  },
+  {
+    id: "city-heraklion",
+    type: "city",
+    parent: "greece",
+    coords: [25.1442, 35.3387],
+    name: { de: "Heraklion", hu: "Iraklio", ro: "Heraklion", en: "Heraklion" },
+    description: {
+      de: "Heraklion Kréta legnagyobb városa és Knossos kapuja.",
+      hu: "Iraklio Kréta legnagyobb városa, és Knósszosz felé vezető fő kapu.",
+      ro: "Heraklion este cel mai mare oraș al Cretei și poarta spre Knossos.",
+      en: "Heraklion is Crete's largest city and the gateway to Knossos."
+    },
+    facts: {
+      de: ["A velencei kikötő meghatározó látvány.", "Közel van Knósszoszhoz.", "Erős múzeumi és régészeti háttérrel bír.", "A sziget gazdasági központja."],
+      hu: ["A velencei kikötő meghatározó látvány.", "Közel van Knósszoszhoz.", "Erős múzeumi és régészeti háttérrel bír.", "A sziget gazdasági központja."],
+      ro: ["Portul venețian este foarte vizibil.", "Este aproape de Knossos.", "Are o bază muzeală și arheologică puternică.", "Este centrul economic al insulei."],
+      en: ["The Venetian harbor shapes the city.", "It is close to Knossos.", "It has a strong museum and archaeology scene.", "It is the island's economic center."]
+    },
+    image: "/geo-images/greece/city-heraklion.webp",
+  },
+  {
+    id: "city-chania",
+    type: "city",
+    parent: "greece",
+    coords: [24.0156, 35.5138],
+    name: { de: "Chania", hu: "Haniá", ro: "Chania", en: "Chania" },
+    description: {
+      de: "Chania Kréta egyik legszebb városa, velencei óvárossal.",
+      hu: "Haniá Kréta egyik legszebb városa, híres velencei óvárosáról.",
+      ro: "Chania este unul dintre cele mai frumoase orașe din Creta, cu un centru vechi venețian.",
+      en: "Chania is one of Crete's most beautiful cities, known for its Venetian old town."
+    },
+    facts: {
+      de: ["A kikötő különleges hangulatú.", "Az óvárosban velencei és oszmán nyomok is vannak.", "A nyugati Kréta egyik fő városa.", "Jó kiindulópont strandokhoz és szurdokokhoz."],
+      hu: ["A kikötő különleges hangulatú.", "Az óvárosban velencei és oszmán nyomok is vannak.", "A nyugati Kréta egyik fő városa.", "Jó kiindulópont strandokhoz és szurdokokhoz."],
+      ro: ["Portul are o atmosferă aparte.", "Centrul vechi păstrează urme venețiene și otomane.", "Este unul dintre orașele principale din vestul Cretei.", "Este o bază bună pentru plaje și chei."],
+      en: ["The harbor has a special atmosphere.", "The old town keeps Venetian and Ottoman traces.", "It is a major city in western Crete.", "It is a good base for beaches and gorges."]
+    },
+    image: "/geo-images/greece/city-chania.webp",
+  },
+  {
+    id: "city-rhodes",
+    type: "city",
+    parent: "greece",
+    coords: [28.2278, 36.4412],
+    name: { de: "Rhodos", hu: "Rodosz", ro: "Rodos", en: "Rhodes" },
+    description: {
+      de: "Rhodos középkori óvárosa Görögország egyik legismertebb történelmi városa.",
+      hu: "Rodosz középkori óvárosa az ország egyik legfontosabb történelmi helyszíne.",
+      ro: "Centrul vechi al orașului Rodos este unul dintre cele mai cunoscute situri istorice din Grecia.",
+      en: "Rhodes Old Town is one of Greece's best-known historic cityscapes."
+    },
+    facts: {
+      de: ["UNESCO világörökség.", "A johanniták fontos erődvárosa volt.", "A városfalak ma is állnak.", "A Nagymesteri palota fő látványosság."],
+      hu: ["UNESCO világörökség.", "A johanniták fontos erődvárosa volt.", "A városfalak ma is állnak.", "A Nagymesteri palota fő látványosság."],
+      ro: ["Este sit UNESCO.", "A fost o fortăreață importantă a Cavalerilor Ioaniți.", "Zidurile medievale sunt încă în picioare.", "Palatul Marilor Maeștri este atracția principală."],
+      en: ["It is a UNESCO World Heritage site.", "It was a major fortress of the Knights Hospitaller.", "The medieval walls still stand.", "The Palace of the Grand Master is the main sight."]
+    },
+    image: "/geo-images/greece/city-rhodes.webp",
+  }
+];
+
 export const greeceCulture: POI[] = [
   {
     id: "cult-delphi",
@@ -152,6 +255,66 @@ export const greeceCulture: POI[] = [
       ro: ["Numele Meteora înseamnă 'suspendat în aer'.","Inițial au fost 24 de mănăstiri, dar astăzi mai funcționează doar 6.","Mănăstirile au fost construite folosind frânghii și plase pentru a ridica materialele.","A apărut în mai multe filme, inclusiv în 'For Your Eyes Only' din seria James Bond."]
     },
     image: "/geo-images/greece/meteora.webp",
+  },
+  {
+    id: "cult-acropolis",
+    type: "culture",
+    parent: "greece",
+    coords: [23.7258, 37.9715],
+    name: { de: "Akropolis", hu: "Akropolisz", ro: "Acropola", en: "Acropolis" },
+    description: {
+      de: "Az Akropolisz Athén ikonikus sziklavára és az ókori Görögország jelképe.",
+      hu: "Az Akropolisz Athén ikonikus sziklavára és az ókori Görögország jelképe.",
+      ro: "Acropola este cetatea-simbol a Atenei și a Greciei antice.",
+      en: "The Acropolis is Athens' iconic hilltop citadel and a symbol of ancient Greece."
+    },
+    facts: {
+      de: ["A Parthenón a legismertebb épülete.", "UNESCO világörökség.", "Az ókori Athén vallási központja volt.", "A sziklára épült erőd ma is uralja a várost."],
+      hu: ["A Parthenón a legismertebb épülete.", "UNESCO világörökség.", "Az ókori Athén vallási központja volt.", "A sziklára épült erőd ma is uralja a várost."],
+      ro: ["Partenonul este cea mai cunoscută clădire.", "Este sit UNESCO.", "A fost centrul religios al Atenei antice.", "Fortăreața de pe stâncă domină și azi orașul."],
+      en: ["The Parthenon is its best-known building.", "It is a UNESCO World Heritage site.", "It was the religious center of ancient Athens.", "The rock fortress still dominates the city."]
+    },
+    image: "/geo-images/greece/cult-acropolis.webp",
+  },
+  {
+    id: "cult-olympia",
+    type: "culture",
+    parent: "greece",
+    coords: [21.6300, 37.6378],
+    name: { de: "Olympia", hu: "Olümpia", ro: "Olimpia", en: "Olympia" },
+    description: {
+      de: "Olympia az ókori olimpiai játékok szent helyszíne volt.",
+      hu: "Olümpia az ókori olimpiai játékok szent helyszíne volt.",
+      ro: "Olimpia a fost locul sacru al Jocurilor Olimpice antice.",
+      en: "Olympia was the sacred site of the ancient Olympic Games."
+    },
+    facts: {
+      de: ["Itt tartották az első játékokat i. e. 776-ban.", "UNESCO világörökség.", "Zeusz temploma fontos maradvány.", "Az olimpiai láng hagyománya innen ered."],
+      hu: ["Itt tartották az első játékokat i. e. 776-ban.", "UNESCO világörökség.", "Zeusz temploma fontos maradvány.", "Az olimpiai láng hagyománya innen ered."],
+      ro: ["Primele jocuri au avut loc în 776 î.Hr.", "Este sit UNESCO.", "Templul lui Zeus este o ruină importantă.", "Tradiția flăcării olimpice pornește de aici."],
+      en: ["The first games were held here in 776 BC.", "It is a UNESCO World Heritage site.", "The Temple of Zeus is a major ruin.", "The Olympic flame tradition comes from here."]
+    },
+    image: "/geo-images/greece/cult-olympia.webp",
+  },
+  {
+    id: "cult-mycenae",
+    type: "culture",
+    parent: "greece",
+    coords: [22.7539, 37.7306],
+    name: { de: "Mykene", hu: "Mükéné", ro: "Micene", en: "Mycenae" },
+    description: {
+      de: "Mykene a bronzkori görög civilizáció egyik legfontosabb központja volt.",
+      hu: "Mükéné a bronzkori görög civilizáció egyik legfontosabb központja volt.",
+      ro: "Micene a fost unul dintre cele mai importante centre ale Greciei din epoca bronzului.",
+      en: "Mycenae was one of the most important centers of Bronze Age Greece."
+    },
+    facts: {
+      de: ["Az oroszlános kapu a legismertebb emlék.", "UNESCO világörökség.", "Agamemnón városaként is ismert.", "A kincseskamrák a hatalmi múltat idézik."],
+      hu: ["Az oroszlános kapu a legismertebb emlék.", "UNESCO világörökség.", "Agamemnón városaként is ismert.", "A kincseskamrák a hatalmi múltat idézik."],
+      ro: ["Poarta Leilor este monumentul cel mai cunoscut.", "Este sit UNESCO.", "Este cunoscută și ca cetatea lui Agamemnon.", "Mormintele regale evocă trecutul său de putere."],
+      en: ["The Lion Gate is its best-known monument.", "It is a UNESCO World Heritage site.", "It is also known as Agamemnon's city.", "The royal tombs recall its powerful past."]
+    },
+    image: "/geo-images/greece/cult-mycenae.webp",
   }
 ];
 
@@ -175,7 +338,87 @@ export const greeceNature: POI[] = [
       ro: ["Numele oficial al insulei este Thira.","Santorini găzduiește o varietate unică de struguri numită Assyrtiko.","Erupția vulcanică din jurul anului 1600 î.Hr. a fost una dintre cele mai mari din istorie.","Insula este adesea asociată cu legenda Atlantidei."]
     },
     image: "/geo-images/greece/santorini.webp",
+  },
+  {
+    id: "nat-mykonos",
+    type: "nature",
+    parent: "greece",
+    coords: [25.3289, 37.4467],
+    name: { de: "Mykonos", hu: "Mükonosz", ro: "Mykonos", en: "Mykonos" },
+    description: {
+      de: "Mykonos a Cikladok egyik ikonikus szigete, fehér házakkal és szélmalmokkal.",
+      hu: "Mükonosz a Cikladok ikonikus szigete, fehér házakkal és szélmalmokkal.",
+      ro: "Mykonos este o insulă emblematică din Ciclade, cu case albe și mori de vânt.",
+      en: "Mykonos is an iconic Cycladic island with white houses and windmills."
+    },
+    facts: {
+      de: ["Kis-Velence a legismertebb partszakasz.", "A szélmalmok a sziget jelképei.", "A kikötő nagyon élénk nyáron.", "A strandok és az éjszakai élet is híresek."],
+      hu: ["Kis-Velence a legismertebb partszakasz.", "A szélmalmok a sziget jelképei.", "A kikötő nagyon élénk nyáron.", "A strandok és az éjszakai élet is híresek."],
+      ro: ["Mica Veneție este cea mai cunoscută zonă de pe mal.", "Moriile de vânt sunt simbolul insulei.", "Portul este foarte animat vara.", "Plajele și viața de noapte sunt celebre."],
+      en: ["Little Venice is the best-known waterfront area.", "The windmills are the island's symbol.", "The harbor is very lively in summer.", "The beaches and nightlife are famous."]
+    },
+    image: "/geo-images/greece/nat-mykonos.webp",
+  },
+  {
+    id: "nat-olympus",
+    type: "nature",
+    parent: "greece",
+    coords: [22.3584, 40.0858],
+    name: { de: "Olymp", hu: "Olümposz", ro: "Olimp", en: "Mount Olympus" },
+    description: {
+      de: "Der Olymp Görögország legmagasabb hegye és az istenek hegyeként ismert.",
+      hu: "Az Olümposz Görögország legmagasabb hegye és az istenek hegye.",
+      ro: "Olimpul este cel mai înalt munte al Greciei și muntele zeilor.",
+      en: "Mount Olympus is Greece's highest mountain and the mountain of the gods."
+    },
+    facts: {
+      de: ["A mítosz szerint itt éltek az istenek.", "Nemzeti park területén fekszik.", "A csúcsok látványa ikonikus.", "A görög természet egyik szimbóluma."],
+      hu: ["A mítosz szerint itt éltek az istenek.", "Nemzeti park területén fekszik.", "A csúcsok látványa ikonikus.", "A görög természet egyik szimbóluma."],
+      ro: ["În mitologie aici locuiau zeii.", "Se află într-un parc național.", "Vârfurile sale sunt iconice.", "Este un simbol al naturii grecești."],
+      en: ["In myth, the gods lived here.", "It lies within a national park.", "Its peaks are iconic.", "It is a symbol of Greek nature."]
+    },
+    image: "/geo-images/greece/nat-olympus.webp",
+  },
+  {
+    id: "nat-samaria",
+    type: "nature",
+    parent: "greece",
+    coords: [23.9656, 35.2989],
+    name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Cheile Samaria", en: "Samaria Gorge" },
+    description: {
+      de: "A Szamaria-szurdok Kréta leglátványosabb túraútvonalai közé tartozik.",
+      hu: "A Szamaria-szurdok Kréta egyik leglátványosabb természeti helye.",
+      ro: "Cheile Samaria sunt unul dintre cele mai spectaculoase locuri naturale din Creta.",
+      en: "Samaria Gorge is one of Crete's most spectacular natural sites."
+    },
+    facts: {
+      de: ["Körülbelül 16 km hosszú.", "A Nemzeti Park része.", "A túra Agia Roumelinél ér véget.", "Ritka vadkecskék élnek itt."],
+      hu: ["Körülbelül 16 km hosszú.", "A Nemzeti Park része.", "A túra Agia Roumelinél ér véget.", "Ritka vadkecskék élnek itt."],
+      ro: ["Are aproximativ 16 km lungime.", "Face parte din parc național.", "Drumeția se termină la Agia Roumeli.", "Aici trăiesc capre sălbatice rare."],
+      en: ["It is about 16 km long.", "It is part of a national park.", "The hike ends at Agia Roumeli.", "Rare wild goats live here."]
+    },
+    image: "/geo-images/greece/nat-samaria.webp",
+  },
+  {
+    id: "nat-myrtos",
+    type: "nature",
+    parent: "greece",
+    coords: [20.5367, 38.3390],
+    name: { de: "Myrtos", hu: "Myrtos strand", ro: "Plaja Myrtos", en: "Myrtos Beach" },
+    description: {
+      de: "Myrtos strandja Kefalónián a görög tengerpart egyik ikonja.",
+      hu: "A kefalóniai Myrtos strand a görög tengerpart egyik ikonja.",
+      ro: "Plaja Myrtos din Kefalonia este o imagine iconică a litoralului grecesc.",
+      en: "Myrtos Beach on Kefalonia is an icon of the Greek coastline."
+    },
+    facts: {
+      de: ["Fehér kavicsos öböl.", "Meredek mészkősziklák veszik körül.", "A víz különösen türkiz.", "Naplementekor a legszebb."],
+      hu: ["Fehér kavicsos öböl.", "Meredek mészkősziklák veszik körül.", "A víz különösen türkiz.", "Naplementekor a legszebb."],
+      ro: ["Golf cu pietriș alb.", "Este înconjurată de stânci de calcar.", "Apa este foarte turcoaz.", "Este superbă la apus."],
+      en: ["A white-pebble bay.", "It is framed by limestone cliffs.", "The water is especially turquoise.", "It is best at sunset."]
+    },
+    image: "/geo-images/greece/nat-myrtos.webp",
   }
 ];
 
-export const greeceAllPoi: POI[] = [greeceCountry, ...greeceRegions, ...greeceCulture, ...greeceNature];
+export const greeceAllPoi: POI[] = [greeceCountry, ...greeceRegions, ...greeceCities, ...greeceCulture, ...greeceNature];
