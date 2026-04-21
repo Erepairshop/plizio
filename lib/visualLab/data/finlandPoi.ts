@@ -198,4 +198,313 @@ export const finlandCulture: POI[] = [
   }
 ];
 
-export const finlandAllPoi: POI[] = [finlandCountry, ...finlandRegions, ...finlandNature, ...finlandCulture];
+export const finlandCities: POI[] = [
+  {
+    id: "city-helsinki",
+    type: "city",
+    parent: "finland",
+    coords: [24.9354, 60.1695],
+    name: { de: "Helsinki", hu: "Helsinki", ro: "Helsinki", en: "Helsinki" },
+    description: {
+      de: "Finnlands Hauptstadt an der Ostsee verbindet moderne Architektur, maritime Weite und skandinavisches Design.",
+      hu: "Finnország fővárosa a Balti-tenger partján, ahol a modern építészet, a tengeri hangulat és a skandináv dizájn találkozik.",
+      ro: "Capitala Finlandei de pe Marea Baltică îmbină arhitectura modernă, atmosfera marină și designul scandinav.",
+      en: "Finland's capital on the Baltic Sea blends modern architecture, maritime openness, and Scandinavian design."
+    },
+    facts: {
+      de: ["Helsinki ist die Hauptstadt Finnlands.", "Suomenlinna liegt direkt vor der Küste.", "Die Stadt ist ein Zentrum für Design und Technologie."],
+      hu: ["Helsinki Finnország fővárosa.", "Suomenlinna közvetlenül a partja előtt fekszik.", "A város a dizájn és a technológia egyik központja."],
+      ro: ["Helsinki este capitala Finlandei.", "Suomenlinna se află chiar în largul coastei.", "Orașul este un centru pentru design și tehnologie."],
+      en: ["Helsinki is the capital of Finland.", "Suomenlinna sits just off the coast.", "The city is a hub for design and technology."]
+    },
+    image: "/geo-images/finland/city-helsinki.webp",
+  },
+  {
+    id: "city-tampere",
+    type: "city",
+    parent: "finland",
+    coords: [23.761, 61.4978],
+    name: { de: "Tampere", hu: "Tampere", ro: "Tampere", en: "Tampere" },
+    description: {
+      de: "Tampere ist Finnlands zweitgrößte Stadt, geprägt von Industriegeschichte, Seen und einer starken Saunakultur.",
+      hu: "Tampere Finnország második legnagyobb városa, ipari múlt, tavak és erős szaunakultúra jellemzik.",
+      ro: "Tampere este al doilea oraș ca mărime din Finlanda, definit de istoria industrială, lacuri și o puternică cultură a saunei.",
+      en: "Tampere is Finland's second-largest city, shaped by industrial heritage, lakes, and a strong sauna culture."
+    },
+    facts: {
+      de: ["Tampere ist Finnlands zweitgrößte Stadt.", "Die Stadt gilt als Saunahauptstadt der Welt.", "Alte Fabriken wurden zu Kulturorten umgebaut."],
+      hu: ["Tampere Finnország második legnagyobb városa.", "A várost a világ szaunafővárosaként is emlegetik.", "A régi gyárépületekből kulturális terek lettek."],
+      ro: ["Tampere este al doilea oraș ca mărime din Finlanda.", "Orașul este adesea numit capitala mondială a saunei.", "Vechea moștenire industrială a fost transformată în spații culturale."],
+      en: ["Tampere is Finland's second-largest city.", "The city is often called the sauna capital of the world.", "Old factories have been transformed into cultural spaces."]
+    },
+    image: "/geo-images/finland/city-tampere.webp",
+  },
+  {
+    id: "city-turku",
+    type: "city",
+    parent: "finland",
+    coords: [22.2666, 60.4518],
+    name: { de: "Turku", hu: "Turku", ro: "Turku", en: "Turku" },
+    description: {
+      de: "Turku ist Finnlands alte Hauptstadt an der Aura, mit starkem historischen Kern und berühmter Burg.",
+      hu: "Turku Finnország régi fővárosa az Aura folyó partján, erős történelmi központtal és híres várral.",
+      ro: "Turku este vechea capitală a Finlandei, pe râul Aura, cu un nucleu istoric puternic și un castel celebru.",
+      en: "Turku is Finland's former capital on the Aura River, with a strong historic core and a famous castle."
+    },
+    facts: {
+      de: ["Turku war Finnlands frühere Hauptstadt.", "Die Turku-Burg ist ein zentraler Anziehungspunkt.", "Der Aura-Fluss prägt das Stadtbild."],
+      hu: ["Turku Finnország korábbi fővárosa volt.", "A turkui vár a város egyik fő látnivalója.", "Az Aura folyó meghatározza a város arculatát."],
+      ro: ["Turku a fost fosta capitală a Finlandei.", "Castelul Turku este una dintre atracțiile principale.", "Râul Aura definește peisajul urban."],
+      en: ["Turku was Finland's former capital.", "Turku Castle is one of the city's main sights.", "The Aura River defines the cityscape."]
+    },
+    image: "/geo-images/finland/city-turku.webp",
+  },
+  {
+    id: "city-espoo",
+    type: "city",
+    parent: "finland",
+    coords: [24.6559, 60.2055],
+    name: { de: "Espoo", hu: "Espoo", ro: "Espoo", en: "Espoo" },
+    description: {
+      de: "Espoo liegt direkt neben Helsinki und verbindet Vorstadtleben, Küste, Natur und Hightech.",
+      hu: "Espoo közvetlenül Helsinki mellett fekszik, és a kertvárosi életet, a partot, a természetet és a high-tech világát köti össze.",
+      ro: "Espoo se află chiar lângă Helsinki și combină viața suburbană, coasta, natura și tehnologia avansată.",
+      en: "Espoo sits next to Helsinki and combines suburban life, coastline, nature, and high tech."
+    },
+    facts: {
+      de: ["Espoo gehört zur Metropolregion Helsinki.", "Der Standort ist eng mit Nokia verbunden.", "Die Stadt hat viele Küsten- und Waldgebiete."],
+      hu: ["Espoo a helsinki nagyvárosi régió része.", "A város neve erősen kötődik a Nokiához.", "Sok part menti és erdős területtel rendelkezik."],
+      ro: ["Espoo face parte din zona metropolitană Helsinki.", "Orașul este strâns legat de Nokia.", "Are multe zone de coastă și pădure."],
+      en: ["Espoo is part of the Helsinki metropolitan area.", "The city is closely associated with Nokia.", "It has many coastal and forest areas."]
+    },
+    image: "/geo-images/finland/city-espoo.webp",
+  },
+  {
+    id: "city-oulu",
+    type: "city",
+    parent: "finland",
+    coords: [25.4716, 65.0121],
+    name: { de: "Oulu", hu: "Oulu", ro: "Oulu", en: "Oulu" },
+    description: {
+      de: "Oulu ist Nordfinnlands wichtigstes Zentrum mit Küstenlage, Innovation und starkem Bildungsleben.",
+      hu: "Oulu Észak-Finnország egyik legfontosabb központja, part menti fekvéssel, innovációval és élénk egyetemi élettel.",
+      ro: "Oulu este unul dintre cele mai importante centre din nordul Finlandei, cu poziție de coastă, inovație și viață universitară activă.",
+      en: "Oulu is a major center in northern Finland, with a coastal setting, innovation, and a lively student scene."
+    },
+    facts: {
+      de: ["Oulu ist ein wichtiges Zentrum in Nordfinnland.", "Die Stadt liegt an der Küste des Bottnischen Meerbusens.", "Bekannt für Technologie und Studierendenleben."],
+      hu: ["Oulu Észak-Finnország fontos központja.", "A Botteni-öböl partján fekszik.", "A technológia és a diákélet miatt ismert."],
+      ro: ["Oulu este un centru important în nordul Finlandei.", "Orașul se află pe coasta Golfului Botnic.", "Este cunoscut pentru tehnologie și viața studențească."],
+      en: ["Oulu is an important center in northern Finland.", "The city lies on the coast of the Gulf of Bothnia.", "It is known for technology and student life."]
+    },
+    image: "/geo-images/finland/city-oulu.webp",
+  }
+];
+
+export const finlandCultureExtended: POI[] = [
+  {
+    id: "cult-suomenlinna",
+    type: "historical",
+    parent: "finland",
+    coords: [24.9866, 60.145],
+    name: { de: "Festung Suomenlinna", hu: "Suomenlinna erőd", ro: "Cetatea Suomenlinna", en: "Suomenlinna Fortress" },
+    description: {
+      de: "Eine UNESCO-geschützte Seefestung aus dem 18. Jahrhundert vor Helsinki.",
+      hu: "UNESCO-védett, 18. századi tengeri erőd Helsinki előtt.",
+      ro: "O cetate maritimă din secolul al XVIII-lea, protejată de UNESCO, în largul Helsinkiului.",
+      en: "A UNESCO-listed 18th-century sea fortress off Helsinki."
+    },
+    facts: {
+      de: ["UNESCO-Welterbe seit 1991.", "Erbaut wurde die Festung im 18. Jahrhundert.", "Sie liegt auf mehreren Inseln vor Helsinki."],
+      hu: ["1991 óta UNESCO-világörökség.", "A 18. században épült.", "Több szigeten fekszik Helsinki előtt."],
+      ro: ["Patrimoniu Mondial UNESCO din 1991.", "Cetatea a fost construită în secolul al XVIII-lea.", "Se întinde pe mai multe insule în largul Helsinkiului."],
+      en: ["A UNESCO World Heritage site since 1991.", "Built in the 18th century.", "It spans several islands off Helsinki."]
+    },
+    image: "/geo-images/finland/cult-suomenlinna.webp",
+  },
+  {
+    id: "cult-rovaniemi-santa",
+    type: "kid-landmark",
+    parent: "finland",
+    coords: [25.8478, 66.5439],
+    name: { de: "Weihnachtsmanndorf Rovaniemi", hu: "Mikulásfalu Rovaniemi", ro: "Satul lui Moș Crăciun Rovaniemi", en: "Santa Claus Village Rovaniemi" },
+    description: {
+      de: "Das Weihnachtsmanndorf am Polarkreis macht Rovaniemi zum Symbol des nördlichen Weihnachtszaubers.",
+      hu: "A sarkkörön álló Mikulásfalu Rovaniemit az északi karácsony varázsának jelképévé teszi.",
+      ro: "Satul lui Moș Crăciun, aflat pe Cercul Polar, face din Rovaniemi simbolul magiei nordice a sărbătorilor.",
+      en: "The Santa Claus Village on the Arctic Circle makes Rovaniemi a symbol of northern Christmas magic."
+    },
+    facts: {
+      de: ["Direkt am Polarkreis gelegen.", "Beliebter Anlaufpunkt für Familien und Reisende.", "Ganzjährig mit Weihnachtsmotiven verbunden."],
+      hu: ["Közvetlenül az északi sarkkörön található.", "Népszerű hely családok és utazók körében.", "Egész évben a karácsonyi hangulathoz kötődik."],
+      ro: ["Situat chiar pe Cercul Polar.", "Loc foarte popular pentru familii și călători.", "Este legat de atmosfera de Crăciun tot timpul anului."],
+      en: ["Located directly on the Arctic Circle.", "A popular stop for families and travelers.", "Connected to Christmas themes all year round."]
+    },
+    image: "/geo-images/finland/cult-rovaniemi-santa.webp",
+  },
+  {
+    id: "cult-olavinlinna",
+    type: "historical",
+    parent: "finland",
+    coords: [28.8783, 61.8628],
+    name: { de: "Burg Olavinlinna", hu: "Olavinlinna vár", ro: "Castelul Olavinlinna", en: "Olavinlinna Castle" },
+    description: {
+      de: "Die Burg Olavinlinna in Savonlinna ist eine mächtige Wasserfestung aus dem 15. Jahrhundert.",
+      hu: "Az olavinlinnai vár Savonlinnában egy erős, 15. századi vízi erőd.",
+      ro: "Castelul Olavinlinna din Savonlinna este o puternică fortăreață de apă din secolul al XV-lea.",
+      en: "Olavinlinna Castle in Savonlinna is a powerful 15th-century water fortress."
+    },
+    facts: {
+      de: ["Errichtet im Jahr 1475.", "Wichtiger Schauplatz des Savonlinna-Opernfestivals.", "Lage auf einer Insel im See macht es besonders wehrhaft."],
+      hu: ["1475-ben emelték.", "A Savonlinna Operafesztivál egyik fő helyszíne.", "Szigeten áll a tó közepén, ezért különösen védett."],
+      ro: ["Construit în 1475.", "Este un loc important al Festivalului de Operă din Savonlinna.", "Poziția pe o insulă din lac îl face foarte bine apărat."],
+      en: ["Built in 1475.", "A major venue for the Savonlinna Opera Festival.", "Its island location makes it highly defensible."]
+    },
+    image: "/geo-images/finland/cult-olavinlinna.webp",
+  },
+  {
+    id: "cult-sibelius",
+    type: "landmark",
+    parent: "finland",
+    coords: [24.9089, 60.181],
+    name: { de: "Sibelius-Park und Monument", hu: "Sibelius Park és emlékmű", ro: "Parcul și Monumentul Sibelius", en: "Sibelius Park and Monument" },
+    description: {
+      de: "Der Sibelius-Park mit dem berühmten Monument ehrt Jean Sibelius im Herzen Helsinkis.",
+      hu: "A híres emlékművel rendelkező Sibelius Park Jean Sibelius előtt tiszteleg Helsinki szívében.",
+      ro: "Parcul Sibelius, cu monumentul său celebru, îl onorează pe Jean Sibelius în inima Helsinkiului.",
+      en: "Sibelius Park, with its famous monument, honors Jean Sibelius in the heart of Helsinki."
+    },
+    facts: {
+      de: ["Gewidmet dem Komponisten Jean Sibelius.", "Das Monument ist eines der bekanntesten Kunstwerke Helsinkis.", "Der Park liegt nahe am Meer."],
+      hu: ["Jean Sibelius zeneszerzőnek állít emléket.", "Az emlékmű Helsinki egyik legismertebb alkotása.", "A park közel van a tengerhez."],
+      ro: ["Dedicat compozitorului Jean Sibelius.", "Monumentul este una dintre cele mai cunoscute opere de artă din Helsinki.", "Parcul este aproape de mare."],
+      en: ["Dedicated to composer Jean Sibelius.", "The monument is one of Helsinki's best-known artworks.", "The park is located close to the sea."]
+    },
+    image: "/geo-images/finland/cult-sibelius.webp",
+  },
+  {
+    id: "cult-design-district",
+    type: "landmark",
+    parent: "finland",
+    coords: [24.94, 60.165],
+    name: { de: "Helsinki Design District", hu: "Helsinki Design District", ro: "Districtul de Design Helsinki", en: "Helsinki Design District" },
+    description: {
+      de: "Das Helsinki Design District bündelt Galerien, Boutiquen, Werkstätten und nordische Kreativität.",
+      hu: "A Helsinki Design District galériákat, butikokat, műhelyeket és északi kreativitást sűrít egy városrészbe.",
+      ro: "Districtul de Design din Helsinki adună galerii, buticuri, ateliere și creativitate nordică.",
+      en: "The Helsinki Design District brings together galleries, boutiques, workshops, and Nordic creativity."
+    },
+    facts: {
+      de: ["Ein Kerngebiet für finnisches Design.", "Bekannt für unabhängige Geschäfte und Galerien.", "Liegt im Zentrum der Hauptstadt."],
+      hu: ["A finn dizájn egyik központi zónája.", "Független üzleteiről és galériáiról ismert.", "A főváros központjában található."],
+      ro: ["O zonă centrală pentru designul finlandez.", "Cunoscut pentru magazinele și galeriile independente.", "Se află în centrul capitalei."],
+      en: ["A core area for Finnish design.", "Known for independent shops and galleries.", "Located in the center of the capital."]
+    },
+    image: "/geo-images/finland/cult-design-district.webp",
+  }
+];
+
+export const finlandNatureExtended: POI[] = [
+  {
+    id: "nat-lakeland",
+    type: "lake",
+    parent: "finland",
+    coords: [28.8, 61.7],
+    name: { de: "Finnische Seenplatte", hu: "Finn tóvidék", ro: "Ținutul lacurilor finlandeze", en: "Finnish Lakeland" },
+    description: {
+      de: "Das finnische Seengebiet um Saimaa ist ein Labyrinth aus Wasser, Inseln und Wäldern.",
+      hu: "A Saimaa körüli finn tóvidék víz, szigetek és erdők labirintusa.",
+      ro: "Ținutul lacurilor din jurul Saimaa este un labirint de apă, insule și păduri.",
+      en: "The Finnish Lakeland around Saimaa is a labyrinth of water, islands, and forests."
+    },
+    facts: {
+      de: ["Finnland hat rund 188.000 Seen.", "Saimaa ist der größte See des Landes.", "Die Region steht für Sommerhütten und Ruhe."],
+      hu: ["Finnországban körülbelül 188 000 tó található.", "A Saimaa az ország legnagyobb tava.", "A régiót nyaralók és csendes pihenés jellemzi."],
+      ro: ["Finlanda are aproximativ 188.000 de lacuri.", "Saimaa este cel mai mare lac din țară.", "Regiunea este definită de cabane de vară și liniște."],
+      en: ["Finland has around 188,000 lakes.", "Saimaa is the country's largest lake.", "The region is known for summer cottages and tranquility."]
+    },
+    image: "/geo-images/finland/nat-lakeland.webp",
+  },
+  {
+    id: "nat-lapland",
+    type: "region",
+    parent: "finland",
+    coords: [26.0, 67.9],
+    name: { de: "Finnisch-Lappland", hu: "Finn Lappföld", ro: "Laponia finlandeză", en: "Finnish Lapland" },
+    description: {
+      de: "Finnisch-Lappland steht für Polarlichter, weite Tundra und Wintererlebnisse mit Huskys und Rentieren.",
+      hu: "A finn Lappföld a sarki fényről, a hatalmas tundráról és a husky- és rénszarvasos téli élményekről ismert.",
+      ro: "Laponia finlandeză înseamnă aurore boreale, tundră vastă și experiențe de iarnă cu husky și reni.",
+      en: "Finnish Lapland is known for the Northern Lights, vast tundra, and winter experiences with huskies and reindeer."
+    },
+    facts: {
+      de: ["Einer der besten Orte für Polarlichter.", "Im Winter gibt es die Polarnacht.", "Rovaniemi liegt in der Region."],
+      hu: ["Az egyik legjobb hely a sarki fény megfigyelésére.", "Télen poláris éjszaka uralkodik.", "Rovaniemi is a régió része."],
+      ro: ["Unul dintre cele mai bune locuri pentru aurora boreală.", "Iarna există noaptea polară.", "Rovaniemi se află în această regiune."],
+      en: ["One of the best places to see the Northern Lights.", "The region experiences polar night in winter.", "Rovaniemi is part of the area."]
+    },
+    image: "/geo-images/finland/nat-lapland.webp",
+  },
+  {
+    id: "nat-national-parks",
+    type: "forest",
+    parent: "finland",
+    coords: [29.7, 63.1],
+    name: { de: "Koli-Nationalpark", hu: "Koli Nemzeti Park", ro: "Parcul Național Koli", en: "Koli National Park" },
+    description: {
+      de: "Der Koli-Nationalpark gilt als eine der malerischsten Landschaften Finnlands mit Blick auf den Pielinen-See.",
+      hu: "A Koli Nemzeti Park Finnország egyik legfestőibb tája, a Pielinen-tóra nyíló kilátással.",
+      ro: "Parcul Național Koli este considerat unul dintre cele mai pitorești peisaje din Finlanda, cu vedere spre lacul Pielinen.",
+      en: "Koli National Park is considered one of Finland's most scenic landscapes, overlooking Lake Pielinen."
+    },
+    facts: {
+      de: ["Berühmt für seine weiten Hügelblicke.", "Liegt in Nordkarelien.", "Ein klassisches Motiv finnischer Landschaftskunst."],
+      hu: ["Híres a nyitott dombtetős panorámáiról.", "Észak-Karéliában található.", "A finn tájképművészet klasszikus motívuma."],
+      ro: ["Faimos pentru panoramele sale de pe dealuri.", "Se află în Karelia de Nord.", "Un motiv clasic al artei peisagistice finlandeze."],
+      en: ["Famous for its sweeping hilltop views.", "Located in North Karelia.", "A classic motif in Finnish landscape art."]
+    },
+    image: "/geo-images/finland/nat-national-parks.webp",
+  },
+  {
+    id: "nat-archipelago",
+    type: "island",
+    parent: "finland",
+    coords: [22.1, 60.0],
+    name: { de: "Finnischer Archipel", hu: "Finn szigetvilág", ro: "Arhipelagul finlandez", en: "Finnish Archipelago" },
+    description: {
+      de: "Der finnische Archipel mit Åland umfasst zehntausende Inseln und einzigartige Küstenlandschaften.",
+      hu: "A finn szigetvilág Ålanddal együtt több tízezer szigetet és különleges tengerparti tájat foglal magába.",
+      ro: "Arhipelagul finlandez, inclusiv Åland, cuprinde zeci de mii de insule și peisaje costiere unice.",
+      en: "The Finnish archipelago, including Åland, contains tens of thousands of islands and unique coastal scenery."
+    },
+    facts: {
+      de: ["Eines der größten Archipele der Welt.", "Åland ist schwedischsprachig.", "Viele Inseln sind per Fähre erreichbar."],
+      hu: ["A világ egyik legnagyobb szigetvilága.", "Åland svéd nyelvű autonóm terület.", "Sok sziget kompokkal érhető el."],
+      ro: ["Unul dintre cele mai mari arhipelaguri din lume.", "Åland este o regiune autonomă vorbitoare de suedeză.", "Multe insule sunt accesibile cu feribotul."],
+      en: ["One of the world's largest archipelagos.", "Åland is a Swedish-speaking autonomous region.", "Many islands are reached by ferry."]
+    },
+    image: "/geo-images/finland/nat-archipelago.webp",
+  },
+  {
+    id: "nat-midnight-sun",
+    type: "lake",
+    parent: "finland",
+    coords: [27.7, 69.0],
+    name: { de: "Mitternachtssonne am Inari-See", hu: "Éjféli nap az Inari-tónál", ro: "Soarele de la miezul nopții la lacul Inari", en: "Midnight Sun at Lake Inari" },
+    description: {
+      de: "Am Inari-See zeigt sich im Sommer die Mitternachtssonne, wenn die Sonne lange nicht untergeht.",
+      hu: "Az Inari-tónál nyáron az éjféli nap jelensége figyelhető meg, amikor a Nap hosszú ideig nem nyugszik le.",
+      ro: "La lacul Inari, vara apare soarele de la miezul nopții, când soarele nu apune pentru mult timp.",
+      en: "At Lake Inari, the midnight sun appears in summer, when the sun does not set for a long time."
+    },
+    facts: {
+      de: ["Inari liegt weit nördlich des Polarkreises.", "Im Sommer bleibt es sehr lange hell.", "Die Gegend ist eng mit der samischen Kultur verbunden."],
+      hu: ["Inari jóval az északi sarkkör fölött fekszik.", "Nyáron nagyon sokáig világos van.", "A terület erősen kötődik a számi kultúrához."],
+      ro: ["Inari se află mult la nord de Cercul Polar.", "Vara rămâne lumină pentru foarte mult timp.", "Zona este strâns legată de cultura sami."],
+      en: ["Inari lies far north of the Arctic Circle.", "Summer daylight lasts for a very long time.", "The area is closely tied to Sámi culture."]
+    },
+    image: "/geo-images/finland/nat-midnight-sun.webp",
+  }
+];
+
+export const finlandAllPoi: POI[] = [finlandCountry, ...finlandRegions, ...finlandCities, ...finlandCultureExtended, ...finlandNatureExtended];
