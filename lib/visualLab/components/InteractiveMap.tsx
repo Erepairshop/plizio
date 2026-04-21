@@ -508,6 +508,7 @@ export const InteractiveMap = ({
         <svg
           ref={svgRef}
           viewBox={deutschlandViewBox}
+          preserveAspectRatio="xMidYMid slice"
           className="w-full h-full block"
           style={{
             filter: "drop-shadow(0 0 24px rgba(34,211,238,0.18))",
