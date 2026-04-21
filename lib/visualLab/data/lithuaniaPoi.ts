@@ -199,5 +199,305 @@ export const lithuaniaAllPoi = [
       en: ["UNESCO World Heritage site", "Five hillforts"]
     },
     image: "/images/visualLab/lithuania/kernave.jpg"
+  },
+  {
+    id: "city-vilnius",
+    type: "city",
+    parent: "lt-country",
+    coords: projectCoordsLT(25.2797, 54.6872),
+    name: {
+      de: "Vilnius",
+      hu: "Vilnius",
+      ro: "Vilnius",
+      en: "Vilnius"
+    },
+    description: {
+      de: "Hauptstadt, UNESCO-Altstadt, Gediminas-Turm",
+      hu: "Főváros, UNESCO óváros, Gedimino torony",
+      ro: "Capitală, centrul vechi UNESCO, Turnul Gediminas",
+      en: "Capital, UNESCO old town, Gediminas Tower"
+    },
+    facts: {
+      de: ["Hauptstadt Litauens", "UNESCO-Altstadt"],
+      hu: ["Főváros", "UNESCO óváros"],
+      ro: ["Capitala Lituaniei", "Centrul vechi UNESCO"],
+      en: ["Capital of Lithuania", "UNESCO old town"]
+    },
+    image: "/geo-images/lithuania/city-vilnius.webp"
+  },
+  {
+    id: "city-kaunas",
+    type: "city",
+    parent: "lt-country",
+    coords: projectCoordsLT(23.9036, 54.8985),
+    name: {
+      de: "Kaunas",
+      hu: "Kaunas",
+      ro: "Kaunas",
+      en: "Kaunas"
+    },
+    description: {
+      de: "Zweitgrößte Stadt, zwischen den Weltkriegen Hauptstadt",
+      hu: "2. legnagyobb, két világháború közti főváros",
+      ro: "Al doilea oraș ca mărime, capitală între cele două războaie mondiale",
+      en: "Second-largest city, interwar capital"
+    },
+    facts: {
+      de: ["Zweitgrößte Stadt Litauens", "Zwischenkriegsarchitektur"],
+      hu: ["2. legnagyobb város", "Két világháború közti főváros"],
+      ro: ["Al doilea oraș ca mărime", "Capitală interbelică"],
+      en: ["Second-largest city", "Interwar capital"]
+    },
+    image: "/geo-images/lithuania/city-kaunas.webp"
+  },
+  {
+    id: "city-klaipeda",
+    type: "city",
+    parent: "lt-country",
+    coords: projectCoordsLT(21.1443, 55.7033),
+    name: {
+      de: "Klaipėda",
+      hu: "Klaipėda",
+      ro: "Klaipėda",
+      en: "Klaipėda"
+    },
+    description: {
+      de: "Hafenstadt, Memel in deutscher Zeit",
+      hu: "Kikötő, Memel a német időben",
+      ro: "Oraș-port, Memel în perioada germană",
+      en: "Port city, Memel in the German period"
+    },
+    facts: {
+      de: ["Baltischer Hafen", "Historisch: Memel"],
+      hu: ["Balti kikötő", "Történelmi név: Memel"],
+      ro: ["Port la Marea Baltică", "Nume istoric: Memel"],
+      en: ["Baltic port", "Historical name: Memel"]
+    },
+    image: "/geo-images/lithuania/city-klaipeda.webp"
+  },
+  {
+    id: "city-siauliai",
+    type: "city",
+    parent: "lt-country",
+    coords: projectCoordsLT(23.3156, 55.9333),
+    name: {
+      de: "Šiauliai",
+      hu: "Šiauliai",
+      ro: "Šiauliai",
+      en: "Šiauliai"
+    },
+    description: {
+      de: "Nordlitauen, nahe dem Berg der Kreuze",
+      hu: "Észak-Litvánia, Kereszt-domb közelében",
+      ro: "Lituania de nord, aproape de Dealul Crucilor",
+      en: "Northern Lithuania, near the Hill of Crosses"
+    },
+    facts: {
+      de: ["Nordlitauen", "Nahe dem Berg der Kreuze"],
+      hu: ["Észak-Litvánia", "Kereszt-domb közelében"],
+      ro: ["Lituania de nord", "Aproape de Dealul Crucilor"],
+      en: ["Northern Lithuania", "Near the Hill of Crosses"]
+    },
+    image: "/geo-images/lithuania/city-siauliai.webp"
+  },
+  {
+    id: "cult-vilnius-oldtown",
+    type: "culture",
+    parent: "lt-country",
+    coords: projectCoordsLT(25.287, 54.6776),
+    name: {
+      de: "Altstadt Vilnius",
+      hu: "Vilnius óváros",
+      ro: "Centrul vechi al Vilniusului",
+      en: "Vilnius Old Town"
+    },
+    description: {
+      de: "UNESCO-Barock + Gotik",
+      hu: "UNESCO barokk + gótikus",
+      ro: "UNESCO baroc + gotic",
+      en: "UNESCO Baroque and Gothic"
+    },
+    facts: {
+      de: ["UNESCO-Weltkulturerbe", "Barock und Gotik"],
+      hu: ["UNESCO világörökség", "Barokk és gótikus"],
+      ro: ["Patrimoniu UNESCO", "Baroc și gotic"],
+      en: ["UNESCO World Heritage", "Baroque and Gothic"]
+    },
+    image: "/geo-images/lithuania/cult-vilnius-oldtown.webp"
+  },
+  {
+    id: "cult-trakai",
+    type: "culture",
+    parent: "lt-country",
+    coords: projectCoordsLT(24.9336, 54.6528),
+    name: {
+      de: "Inselburg Trakai",
+      hu: "Trakai sziget-kastély",
+      ro: "Castelul de pe insulă Trakai",
+      en: "Trakai Island Castle"
+    },
+    description: {
+      de: "Gediminas-Wasserburg auf dem See",
+      hu: "Gediminas várkastély tavon",
+      ro: "Castelul lui Gediminas pe lac",
+      en: "Gediminas castle on a lake"
+    },
+    facts: {
+      de: ["Berühmte Inselburg", "Historisches Zentrum"],
+      hu: ["Híres szigetvár", "Történelmi központ"],
+      ro: ["Castel insular celebru", "Centru istoric"],
+      en: ["Famous island castle", "Historic center"]
+    },
+    image: "/geo-images/lithuania/cult-trakai.webp"
+  },
+  {
+    id: "cult-hill-crosses",
+    type: "culture",
+    parent: "lt-country",
+    coords: projectCoordsLT(23.4153, 56.0153),
+    name: {
+      de: "Berg der Kreuze",
+      hu: "Kryžių kalnas",
+      ro: "Dealul Crucilor",
+      en: "Hill of Crosses"
+    },
+    description: {
+      de: "100.000+ Kreuze, Pilgerort",
+      hu: "100000+ kereszt zarándokhely",
+      ro: "Peste 100.000 de cruci, loc de pelerinaj",
+      en: "100,000+ crosses, pilgrimage site"
+    },
+    facts: {
+      de: ["Pilgerort", "100.000+ Kreuze"],
+      hu: ["Zarándokhely", "100000+ kereszt"],
+      ro: ["Loc de pelerinaj", "Peste 100.000 de cruci"],
+      en: ["Pilgrimage site", "100,000+ crosses"]
+    },
+    image: "/geo-images/lithuania/cult-hill-crosses.webp"
+  },
+  {
+    id: "cult-kernave",
+    type: "culture",
+    parent: "lt-country",
+    coords: projectCoordsLT(24.8561, 54.8875),
+    name: {
+      de: "Kernavė",
+      hu: "Kernavė",
+      ro: "Kernavė",
+      en: "Kernavė"
+    },
+    description: {
+      de: "UNESCO-archäologische mittelalterliche Hauptstadt",
+      hu: "UNESCO régészeti középkori főváros",
+      ro: "Capitala medievală arheologică UNESCO",
+      en: "UNESCO archaeological medieval capital"
+    },
+    facts: {
+      de: ["UNESCO-Archäologie", "Ehemalige Hauptstadt"],
+      hu: ["UNESCO régészet", "Egykori főváros"],
+      ro: ["Arheologie UNESCO", "Fostă capitală"],
+      en: ["UNESCO archaeology", "Former capital"]
+    },
+    image: "/geo-images/lithuania/cult-kernave.webp"
+  },
+  {
+    id: "nat-curonian-spit",
+    type: "nature",
+    parent: "lt-country",
+    coords: projectCoordsLT(21.1, 55.4),
+    name: {
+      de: "Kurische Nehrung / Neringa",
+      hu: "Kuron-nyelv / Neringa",
+      ro: "Grindul Curonian / Neringa",
+      en: "Curonian Spit / Neringa"
+    },
+    description: {
+      de: "UNESCO 98 km Sandspit",
+      hu: "UNESCO 98km homokpad",
+      ro: "Fâșie de nisip UNESCO de 98 km",
+      en: "UNESCO 98 km sand spit"
+    },
+    facts: {
+      de: ["UNESCO-Weltnaturerbe", "98 km lang"],
+      hu: ["UNESCO természeti örökség", "98 km hosszú"],
+      ro: ["Patrimoniu natural UNESCO", "98 km lung"],
+      en: ["UNESCO natural heritage", "98 km long"]
+    },
+    image: "/geo-images/lithuania/nat-curonian-spit.webp"
+  },
+  {
+    id: "nat-aukstaitija",
+    type: "nature",
+    parent: "lt-country",
+    coords: projectCoordsLT(25.8, 55.4),
+    name: {
+      de: "Aukštaitija-NP",
+      hu: "Aukštaitija NP",
+      ro: "Parcul Național Aukštaitija",
+      en: "Aukštaitija NP"
+    },
+    description: {
+      de: "Ältester Nationalpark, 126 Seen",
+      hu: "Legrégebbi NP, 126 tó",
+      ro: "Cel mai vechi parc național, 126 de lacuri",
+      en: "Oldest national park, 126 lakes"
+    },
+    facts: {
+      de: ["Ältester Nationalpark", "126 Seen"],
+      hu: ["Legrégebbi nemzeti park", "126 tó"],
+      ro: ["Cel mai vechi parc național", "126 de lacuri"],
+      en: ["Oldest national park", "126 lakes"]
+    },
+    image: "/geo-images/lithuania/nat-aukstaitija.webp"
+  },
+  {
+    id: "nat-dzukija",
+    type: "nature",
+    parent: "lt-country",
+    coords: projectCoordsLT(24.2, 54.0),
+    name: {
+      de: "Dzūkija-NP",
+      hu: "Dzūkija NP",
+      ro: "Parcul Național Dzūkija",
+      en: "Dzūkija NP"
+    },
+    description: {
+      de: "Kiefernwälder, Nemunas",
+      hu: "Fenyves erdők, Nemunas",
+      ro: "Păduri de pini, Nemunas",
+      en: "Pine forests, Nemunas"
+    },
+    facts: {
+      de: ["Kiefernwälder", "Nemunas-Fluss"],
+      hu: ["Fenyves erdők", "Nemunas"],
+      ro: ["Păduri de pini", "Râul Nemunas"],
+      en: ["Pine forests", "Nemunas River"]
+    },
+    image: "/geo-images/lithuania/nat-dzukija.webp"
+  },
+  {
+    id: "nat-kursiu-neringa",
+    type: "nature",
+    parent: "lt-country",
+    coords: projectCoordsLT(20.9956, 55.3058),
+    name: {
+      de: "Nida-Dorf + Cape Horn",
+      hu: "Nida falu + Cape Horn",
+      ro: "Satul Nida + Cape Horn",
+      en: "Nida Village + Cape Horn"
+    },
+    description: {
+      de: "Thomas-Mann-Ferienhaus",
+      hu: "Thomas Mann nyaraló",
+      ro: "Casa de vacanță a lui Thomas Mann",
+      en: "Thomas Mann summer house"
+    },
+    facts: {
+      de: ["Thomas-Mann-Haus", "Kurische Nehrung"],
+      hu: ["Thomas Mann ház", "Kuron-nyelv"],
+      ro: ["Casa Thomas Mann", "Grindul Curonian"],
+      en: ["Thomas Mann house", "Curonian Spit"]
+    },
+    image: "/geo-images/lithuania/nat-kursiu-neringa.webp"
   }
 ];
