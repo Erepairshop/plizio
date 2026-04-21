@@ -409,7 +409,694 @@ export const switzerlandRegions: POI[] = [
   }
 ];
 
+export const switzerlandCities: POI[] = [
+  {
+    id: "city-zurich",
+    type: "city",
+    parent: "country-switzerland",
+    coords: [8.5417, 47.3769],
+    name: {
+      de: "Zürich",
+      hu: "Zürich",
+      ro: "Zürich",
+      en: "Zurich"
+    },
+    description: {
+      de: "Zürich ist die größte Stadt der Schweiz und ein wichtiges Finanzzentrum. Die Bahnhofstrasse ist weltweit bekannt. Die Stadt liegt am Zürichsee und verbindet Wirtschaft mit hoher Lebensqualität.",
+      hu: "Zürich Svájc legnagyobb városa és fontos pénzügyi központja. A Bahnhofstrasse világszerte ismert. A város a Zürichi-tó partján fekszik, és az üzleti életet magas életminőséggel ötvözi.",
+      ro: "Zürich este cel mai mare oraș din Elveția și un centru financiar important. Bahnhofstrasse este cunoscută în toată lumea. Orașul se află pe malul lacului Zürich și îmbină economia cu o calitate foarte bună a vieții.",
+      en: "Zurich is the largest city in Switzerland and an important financial center. Bahnhofstrasse is known worldwide. The city lies on Lake Zurich and combines business with a high quality of life."
+    },
+    facts: {
+      de: [
+        "Zürich ist die größte Stadt der Schweiz.",
+        "Die Bahnhofstrasse zählt zu den bekanntesten Einkaufsstraßen Europas.",
+        "Die Stadt liegt am Zürichsee.",
+        "Sie ist ein Zentrum für Banken, Versicherungen und Start-ups."
+      ],
+      hu: [
+        "Zürich Svájc legnagyobb városa.",
+        "A Bahnhofstrasse Európa egyik legismertebb bevásárlóutcája.",
+        "A város a Zürichi-tó partján fekszik.",
+        "Bankok, biztosítók és startupok központja."
+      ],
+      ro: [
+        "Zürich este cel mai mare oraș din Elveția.",
+        "Bahnhofstrasse este una dintre cele mai cunoscute artere comerciale din Europa.",
+        "Orașul se află pe lacul Zürich.",
+        "Este un centru pentru bănci, asigurări și startup-uri."
+      ],
+      en: [
+        "Zurich is the largest city in Switzerland.",
+        "Bahnhofstrasse is one of Europe's best-known shopping streets.",
+        "The city lies on Lake Zurich.",
+        "It is a center for banks, insurers, and startups."
+      ]
+    },
+    image: "/geo-images/switzerland/city-zurich.webp"
+  },
+  {
+    id: "city-geneva",
+    type: "city",
+    parent: "country-switzerland",
+    coords: [6.1432, 46.2044],
+    name: {
+      de: "Genf",
+      hu: "Genf",
+      ro: "Geneva",
+      en: "Geneva"
+    },
+    description: {
+      de: "Genf ist eine internationale Stadt am Genfersee und ein wichtiges diplomatisches Zentrum. Hier befinden sich viele Organisationen der Vereinten Nationen. Die Stadt ist stark vom Französischen geprägt.",
+      hu: "Genf nemzetközi város a Genfi-tó partján, és fontos diplomáciai központ. Számos ENSZ-szervezet működik itt. A város erősen francia nyelvi és kulturális hatás alatt áll.",
+      ro: "Geneva este un oraș internațional pe malul Lacului Geneva și un centru diplomatic important. Aici se află numeroase organizații ale Națiunilor Unite. Orașul este puternic influențat de limba și cultura franceză.",
+      en: "Geneva is an international city on Lake Geneva and an important diplomatic center. Many United Nations organizations are based here. The city is strongly shaped by the French language and culture."
+    },
+    facts: {
+      de: [
+        "Genf ist ein globales diplomatisches Zentrum.",
+        "Viele UNO-Institutionen haben dort ihren Sitz.",
+        "Die Stadt liegt am Genfersee.",
+        "Französisch ist die Hauptsprache der Region."
+      ],
+      hu: [
+        "Genf globális diplomáciai központ.",
+        "Számos ENSZ-intézmény székhelye itt található.",
+        "A város a Genfi-tó partján fekszik.",
+        "A régió fő nyelve a francia."
+      ],
+      ro: [
+        "Geneva este un centru diplomatic global.",
+        "Numeroase instituții ale ONU au sediul acolo.",
+        "Orașul se află pe malul Lacului Geneva.",
+        "Franceza este limba principală a regiunii."
+      ],
+      en: [
+        "Geneva is a global diplomatic center.",
+        "Many UN institutions are headquartered there.",
+        "The city lies on Lake Geneva.",
+        "French is the main language of the region."
+      ]
+    },
+    image: "/geo-images/switzerland/city-geneva.webp"
+  },
+  {
+    id: "city-basel",
+    type: "city",
+    parent: "country-switzerland",
+    coords: [7.5886, 47.5596],
+    name: {
+      de: "Basel",
+      hu: "Bázel",
+      ro: "Basel",
+      en: "Basel"
+    },
+    description: {
+      de: "Basel ist eine Kulturstadt am Rhein im Dreiländereck der Schweiz, Deutschlands und Frankreichs. Sie ist für Museen, Kunst und Architektur bekannt. Die Stadt hat eine lebendige Altstadt und eine starke Messekultur.",
+      hu: "Bázel kulturális város a Rajna partján, Svájc, Németország és Franciaország találkozásánál. Múzeumairól, művészetéről és építészetéről ismert. Élő történelmi belvárosa és erős vásári hagyománya van.",
+      ro: "Basel este un oraș cultural pe Rin, la granița dintre Elveția, Germania și Franța. Este cunoscut pentru muzee, artă și arhitectură. Orașul are un centru vechi vibrant și o puternică tradiție a târgurilor.",
+      en: "Basel is a cultural city on the Rhine at the meeting point of Switzerland, Germany, and France. It is known for museums, art, and architecture. The city has a lively old town and a strong fair tradition."
+    },
+    facts: {
+      de: [
+        "Basel liegt am Rhein.",
+        "Das Kunstmuseum Basel gehört zu den wichtigsten Museen der Schweiz.",
+        "Die Stadt liegt im Dreiländereck.",
+        "Sie ist ein Zentrum für Kunstmessen und Pharmaunternehmen."
+      ],
+      hu: [
+        "Bázel a Rajna partján fekszik.",
+        "A Kunstmuseum Basel Svájc egyik legfontosabb múzeuma.",
+        "A város három ország határán helyezkedik el.",
+        "A művészeti vásárok és a gyógyszeripar központja."
+      ],
+      ro: [
+        "Basel se află pe Rin.",
+        "Kunstmuseum Basel este unul dintre cele mai importante muzee din Elveția.",
+        "Orașul se află la întâlnirea a trei țări.",
+        "Este un centru pentru târguri de artă și companii farmaceutice."
+      ],
+      en: [
+        "Basel lies on the Rhine.",
+        "Kunstmuseum Basel is one of Switzerland's most important museums.",
+        "The city sits at the tri-border area.",
+        "It is a center for art fairs and pharmaceutical companies."
+      ]
+    },
+    image: "/geo-images/switzerland/city-basel.webp"
+  },
+  {
+    id: "city-bern",
+    type: "city",
+    parent: "country-switzerland",
+    coords: [7.4474, 46.9481],
+    name: {
+      de: "Bern",
+      hu: "Bern",
+      ro: "Berna",
+      en: "Bern"
+    },
+    description: {
+      de: "Bern ist die Hauptstadt der Schweiz und bekannt für ihre gut erhaltene Altstadt. Das historische Zentrum gehört zum UNESCO-Welterbe. Die Stadt ist eng mit Albert Einstein verbunden.",
+      hu: "Bern Svájc fővárosa, és jól megőrzött óvárosáról ismert. A történelmi belváros az UNESCO Világörökség része. A város szorosan kapcsolódik Albert Einsteinhez.",
+      ro: "Berna este capitala Elveției și este cunoscută pentru centrul său vechi bine conservat. Centrul istoric face parte din patrimoniul mondial UNESCO. Orașul este strâns legat de Albert Einstein.",
+      en: "Bern is the capital of Switzerland and is known for its well-preserved old town. The historic center is part of the UNESCO World Heritage list. The city is closely associated with Albert Einstein."
+    },
+    facts: {
+      de: [
+        "Bern ist die Bundesstadt der Schweiz.",
+        "Die Altstadt gehört zum UNESCO-Welterbe.",
+        "Albert Einstein lebte und arbeitete hier.",
+        "Die Zytglogge ist eines der bekanntesten Wahrzeichen."
+      ],
+      hu: [
+        "Bern Svájc szövetségi fővárosa.",
+        "Az óváros az UNESCO Világörökség része.",
+        "Albert Einstein itt élt és dolgozott.",
+        "A Zytglogge a legismertebb látnivalók egyike."
+      ],
+      ro: [
+        "Berna este orașul federal al Elveției.",
+        "Centrul vechi face parte din patrimoniul mondial UNESCO.",
+        "Albert Einstein a trăit și a lucrat aici.",
+        "Zytglogge este unul dintre cele mai cunoscute repere."
+      ],
+      en: [
+        "Bern is the federal city of Switzerland.",
+        "The old town is a UNESCO World Heritage site.",
+        "Albert Einstein lived and worked here.",
+        "The Zytglogge is one of the best-known landmarks."
+      ]
+    },
+    image: "/geo-images/switzerland/city-bern.webp"
+  },
+  {
+    id: "city-lausanne",
+    type: "city",
+    parent: "country-switzerland",
+    coords: [6.6323, 46.5197],
+    name: {
+      de: "Lausanne",
+      hu: "Lausanne",
+      ro: "Lausanne",
+      en: "Lausanne"
+    },
+    description: {
+      de: "Lausanne liegt am Nordufer des Genfersees und ist als olympische Stadt bekannt. Hier befindet sich das Internationale Olympische Komitee. Die Stadt verbindet Seeblick, Kultur und Hochschulleben.",
+      hu: "Lausanne a Genfi-tó északi partján fekszik, és olimpiai városként ismert. Itt található a Nemzetközi Olimpiai Bizottság. A város a tóparti panorámát, a kultúrát és az egyetemi életet ötvözi.",
+      ro: "Lausanne se află pe malul nordic al Lacului Geneva și este cunoscută drept oraș olimpic. Aici se află Comitetul Internațional Olimpic. Orașul combină priveliștea spre lac, cultura și viața universitară.",
+      en: "Lausanne lies on the northern shore of Lake Geneva and is known as an Olympic city. The International Olympic Committee is based here. The city combines lake views, culture, and university life."
+    },
+    facts: {
+      de: [
+        "Lausanne ist Sitz des Internationalen Olympischen Komitees.",
+        "Die Stadt liegt am Genfersee.",
+        "Sie hat einen starken Hochschul- und Kultursektor.",
+        "Lausanne ist bekannt für steile Hänge und U-Bahn-Linien."
+      ],
+      hu: [
+        "Lausanne a Nemzetközi Olimpiai Bizottság székhelye.",
+        "A város a Genfi-tó partján fekszik.",
+        "Erős az egyetemi és kulturális élete.",
+        "Meredek dombjai és metróvonala ismert."
+      ],
+      ro: [
+        "Lausanne găzduiește Comitetul Internațional Olimpic.",
+        "Orașul se află pe Lacul Geneva.",
+        "Are un sector universitar și cultural puternic.",
+        "Este cunoscut pentru pantele abrupte și liniile de metrou."
+      ],
+      en: [
+        "Lausanne is home to the International Olympic Committee.",
+        "The city lies on Lake Geneva.",
+        "It has a strong university and cultural scene.",
+        "It is known for steep hills and metro lines."
+      ]
+    },
+    image: "/geo-images/switzerland/city-lausanne.webp"
+  }
+];
+
+export const switzerlandCulture: POI[] = [
+  {
+    id: "cult-bern-altstadt",
+    type: "culture",
+    parent: "country-switzerland",
+    coords: [7.4474, 46.9481],
+    name: {
+      de: "Berner Altstadt",
+      hu: "Bern óvárosa",
+      ro: "Centrul vechi din Berna",
+      en: "Bern Old Town"
+    },
+    description: {
+      de: "Die Berner Altstadt ist ein außergewöhnlich gut erhaltenes mittelalterliches Stadtzentrum. Der Zytglogge-Turm ist eines ihrer bekanntesten Symbole. Das Gebiet gehört zum UNESCO-Welterbe.",
+      hu: "Bern óvárosa kivételesen jól megőrzött középkori városközpont. A Zytglogge torony az egyik legismertebb jelképe. A terület az UNESCO Világörökség része.",
+      ro: "Centrul vechi din Berna este un centru medieval extraordinar de bine conservat. Turnul Zytglogge este unul dintre cele mai cunoscute simboluri ale sale. Zona face parte din patrimoniul mondial UNESCO.",
+      en: "Bern Old Town is an exceptionally well-preserved medieval city center. The Zytglogge tower is one of its best-known symbols. The area is a UNESCO World Heritage site."
+    },
+    facts: {
+      de: [
+        "Die Altstadt ist UNESCO-Welterbe.",
+        "Die Laubengänge prägen das Stadtbild.",
+        "Der Zytglogge-Turm ist ein Wahrzeichen.",
+        "Viele Straßen stammen aus dem Mittelalter."
+      ],
+      hu: [
+        "Az óváros UNESCO Világörökség.",
+        "Az árkádos sétálófolyosók meghatározzák a városképet.",
+        "A Zytglogge torony a város jelképe.",
+        "Sok utca a középkorból származik."
+      ],
+      ro: [
+        "Centrul vechi este patrimoniu mondial UNESCO.",
+        "Pasajele cu arcade definesc aspectul orașului.",
+        "Turnul Zytglogge este un simbol al orașului.",
+        "Multe străzi datează din Evul Mediu."
+      ],
+      en: [
+        "The old town is a UNESCO World Heritage site.",
+        "The arcaded walkways define the cityscape.",
+        "The Zytglogge tower is a landmark.",
+        "Many streets date back to the Middle Ages."
+      ]
+    },
+    image: "/geo-images/switzerland/cult-bern-altstadt.webp"
+  },
+  {
+    id: "cult-rhaetian-railway",
+    type: "culture",
+    parent: "country-switzerland",
+    coords: [10.0, 46.4],
+    name: {
+      de: "Rhätische Bahn Bernina",
+      hu: "Rhaetian Railway Bernina",
+      ro: "Calea ferată retică Bernina",
+      en: "Rhaetian Railway Bernina"
+    },
+    description: {
+      de: "Die Rhätische Bahn auf der Berninastrecke ist eine spektakuläre Gebirgsbahn in den Alpen. Sie verbindet beeindruckende Ingenieurskunst mit Landschaften von großer Schönheit. Der Abschnitt gehört zum UNESCO-Welterbe.",
+      hu: "A Bernina-szakaszon futó Rhätische Bahn látványos hegyi vasút az Alpokban. Az inženieria és a táj szépsége itt különösen erősen találkozik. Ez a szakasz az UNESCO Világörökség része.",
+      ro: "Calea ferată retică de pe traseul Bernina este o linie montană spectaculoasă din Alpi. Ea combină ingineria impresionantă cu peisaje de mare frumusețe. Secțiunea face parte din patrimoniul mondial UNESCO.",
+      en: "The Rhaetian Railway on the Bernina route is a spectacular mountain railway in the Alps. It combines impressive engineering with landscapes of great beauty. The section is part of the UNESCO World Heritage list."
+    },
+    facts: {
+      de: [
+        "Die Berninastrecke gehört zum UNESCO-Welterbe.",
+        "Sie verbindet die Schweiz mit spektakulären Alpenpässen.",
+        "Die Bahn gilt als Meisterwerk der Ingenieurkunst.",
+        "Die Strecke ist bei Touristen sehr beliebt."
+      ],
+      hu: [
+        "A Bernina-szakasz az UNESCO Világörökség része.",
+        "Látványos alpesi hágókon halad át.",
+        "A vasút a mérnöki munka mesterművének számít.",
+        "A vonal nagyon népszerű a turisták körében."
+      ],
+      ro: [
+        "Traseul Bernina face parte din patrimoniul mondial UNESCO.",
+        "Traversează trecători alpine spectaculoase.",
+        "Linia este considerată o capodoperă inginerească.",
+        "Este foarte populară printre turiști."
+      ],
+      en: [
+        "The Bernina route is a UNESCO World Heritage site.",
+        "It crosses spectacular Alpine passes.",
+        "The railway is considered an engineering masterpiece.",
+        "The line is very popular with tourists."
+      ]
+    },
+    image: "/geo-images/switzerland/cult-rhaetian-railway.webp"
+  },
+  {
+    id: "cult-chillon",
+    type: "culture",
+    parent: "country-switzerland",
+    coords: [6.9275, 46.4143],
+    name: {
+      de: "Schloss Chillon",
+      hu: "Chillon-kastély",
+      ro: "Castelul Chillon",
+      en: "Chillon Castle"
+    },
+    description: {
+      de: "Schloss Chillon liegt malerisch am Ufer des Genfersees bei Montreux. Die Wasserburg ist eines der bekanntesten historischen Bauwerke der Schweiz. Lord Byron machte sie durch ein Gedicht berühmt.",
+      hu: "A Chillon-kastély festői helyen, Montreux közelében, a Genfi-tó partján áll. A vízi vár Svájc egyik legismertebb történelmi épülete. Lord Byron egy verssel tette híressé.",
+      ro: "Castelul Chillon se află pitoresc pe malul Lacului Geneva, lângă Montreux. Castelul de apă este una dintre cele mai cunoscute clădiri istorice din Elveția. Lord Byron l-a făcut celebru printr-o poezie.",
+      en: "Chillon Castle sits picturesquely on the shore of Lake Geneva near Montreux. The water castle is one of Switzerland's best-known historic buildings. Lord Byron made it famous with a poem."
+    },
+    facts: {
+      de: [
+        "Chillon liegt direkt am Genfersee.",
+        "Es ist eine der meistbesuchten Sehenswürdigkeiten der Schweiz.",
+        "Lord Byron schrieb ein bekanntes Gedicht über das Schloss.",
+        "Die Burg war über Jahrhunderte eine strategische Festung."
+      ],
+      hu: [
+        "Chillon közvetlenül a Genfi-tó partján áll.",
+        "Svájc egyik leglátogatottabb látnivalója.",
+        "Lord Byron híres verset írt a kastélyról.",
+        "A vár évszázadokon át stratégiai erőd volt."
+      ],
+      ro: [
+        "Chillon se află direct pe malul Lacului Geneva.",
+        "Este una dintre cele mai vizitate atracții din Elveția.",
+        "Lord Byron a scris o poezie celebră despre castel.",
+        "Cetatea a fost timp de secole o fortăreață strategică."
+      ],
+      en: [
+        "Chillon sits directly on Lake Geneva.",
+        "It is one of Switzerland's most visited attractions.",
+        "Lord Byron wrote a famous poem about the castle.",
+        "The fortress was a strategic stronghold for centuries."
+      ]
+    },
+    image: "/geo-images/switzerland/cult-chillon.webp"
+  },
+  {
+    id: "cult-pilatus",
+    type: "culture",
+    parent: "country-switzerland",
+    coords: [8.2529, 46.979],
+    name: {
+      de: "Pilatus",
+      hu: "Pilatus",
+      ro: "Pilatus",
+      en: "Mount Pilatus"
+    },
+    description: {
+      de: "Der Pilatus über Luzern ist ein bekannter Ausflugsberg mit spektakulären Ausblicken. Die Zahnradbahn gilt als eine der steilsten der Welt. Der Berg ist eng mit regionalen Sagen verbunden.",
+      hu: "A Luzern fölé magasodó Pilatus híres kirándulóhegy látványos kilátással. A fogaskerekű vasút a világ egyik legmeredekebbje. A hegyet számos helyi legenda övezi.",
+      ro: "Pilatusul deasupra orașului Lucerna este un munte de excursie bine cunoscut, cu priveliști spectaculoase. Funicularul cu roți dințate este considerat unul dintre cele mai abrupte din lume. Muntele este legat de numeroase legende locale.",
+      en: "Mount Pilatus above Lucerne is a well-known excursion mountain with spectacular views. The cogwheel railway is considered one of the steepest in the world. The mountain is tied to many local legends."
+    },
+    facts: {
+      de: [
+        "Die Zahnradbahn zählt zu den steilsten der Welt.",
+        "Pilatus liegt oberhalb von Luzern.",
+        "Der Berg ist von Sagen umgeben.",
+        "Er ist ein beliebtes Ausflugsziel."
+      ],
+      hu: [
+        "A fogaskerekű a világ egyik legmeredekebbje.",
+        "A Pilatus Luzern fölött található.",
+        "A hegyet legendák övezik.",
+        "Népszerű kirándulóhely."
+      ],
+      ro: [
+        "Linia cu roți dințate este una dintre cele mai abrupte din lume.",
+        "Pilatusul se află deasupra orașului Lucerna.",
+        "Muntele este înconjurat de legende.",
+        "Este o destinație populară pentru excursii."
+      ],
+      en: [
+        "The cogwheel railway is among the steepest in the world.",
+        "Pilatus is located above Lucerne.",
+        "The mountain is surrounded by legends.",
+        "It is a popular excursion destination."
+      ]
+    },
+    image: "/geo-images/switzerland/cult-pilatus.webp"
+  },
+  {
+    id: "cult-cern",
+    type: "culture",
+    parent: "country-switzerland",
+    coords: [6.0554, 46.2333],
+    name: {
+      de: "CERN",
+      hu: "CERN",
+      ro: "CERN",
+      en: "CERN"
+    },
+    description: {
+      de: "CERN bei Genf ist eines der bedeutendsten Forschungszentren der Welt. Hier befindet sich der Large Hadron Collider, der größte Teilchenbeschleuniger der Erde. Das Zentrum ist eng mit der modernen Physik verbunden.",
+      hu: "A Genf melletti CERN a világ egyik legfontosabb kutatóközpontja. Itt található a Large Hadron Collider, a Föld legnagyobb részecskegyorsítója. A központ szorosan kapcsolódik a modern fizikához.",
+      ro: "CERN-ul de lângă Geneva este unul dintre cele mai importante centre de cercetare din lume. Aici se află Large Hadron Collider, cel mai mare accelerator de particule de pe Pământ. Centrul este strâns legat de fizica modernă.",
+      en: "CERN near Geneva is one of the world's most important research centers. It is home to the Large Hadron Collider, the largest particle accelerator on Earth. The center is closely linked to modern physics."
+    },
+    facts: {
+      de: [
+        "Am CERN wurde das World Wide Web mitentwickelt.",
+        "Der Large Hadron Collider ist der größte Teilchenbeschleuniger der Welt.",
+        "Das Forschungszentrum liegt bei Genf.",
+        "Es ist ein Symbol für internationale Wissenschaft."
+      ],
+      hu: [
+        "A CERN-ben a World Wide Web is fejlődött.",
+        "A Large Hadron Collider a világ legnagyobb részecskegyorsítója.",
+        "A kutatóközpont Genf mellett található.",
+        "A nemzetközi tudomány jelképe."
+      ],
+      ro: [
+        "La CERN s-a dezvoltat și World Wide Web-ul.",
+        "Large Hadron Collider este cel mai mare accelerator de particule din lume.",
+        "Centrul de cercetare se află lângă Geneva.",
+        "Este un simbol al științei internaționale."
+      ],
+      en: [
+        "The World Wide Web was developed at CERN.",
+        "The Large Hadron Collider is the world's largest particle accelerator.",
+        "The research center is located near Geneva.",
+        "It is a symbol of international science."
+      ]
+    },
+    image: "/geo-images/switzerland/cult-cern.webp"
+  }
+];
+
+export const switzerlandNature: POI[] = [
+  {
+    id: "nat-matterhorn",
+    type: "nature",
+    parent: "country-switzerland",
+    coords: [7.6585, 45.9763],
+    name: {
+      de: "Matterhorn",
+      hu: "Matterhorn",
+      ro: "Matterhorn",
+      en: "Matterhorn"
+    },
+    description: {
+      de: "Das Matterhorn bei Zermatt ist einer der ikonischsten Berge der Alpen. Seine pyramidenförmige Silhouette ist weltweit bekannt. Der Berg ist ein Symbol für die Schweiz.",
+      hu: "A zermatti Matterhorn az Alpok egyik legikonikusabb hegye. Piramis alakú sziluettje világszerte ismert. A hegy Svájc egyik jelképe.",
+      ro: "Matterhornul de lângă Zermatt este unul dintre cei mai iconici munți ai Alpilor. Silueta sa piramidală este cunoscută în întreaga lume. Muntele este un simbol al Elveției.",
+      en: "The Matterhorn near Zermatt is one of the Alps' most iconic mountains. Its pyramid-shaped silhouette is known worldwide. The mountain is a symbol of Switzerland."
+    },
+    facts: {
+      de: [
+        "Das Matterhorn ist 4.478 Meter hoch.",
+        "Die Form inspirierte die Toblerone-Verpackung.",
+        "Zermatt liegt am Fuß des Berges.",
+        "Er ist ein Klassiker des Alpinismus."
+      ],
+      hu: [
+        "A Matterhorn 4478 méter magas.",
+        "Az alakja ihlette a Toblerone csomagolását.",
+        "Zermatt a hegy lábánál fekszik.",
+        "Az alpinizmus klasszikus célpontja."
+      ],
+      ro: [
+        "Matterhornul are 4.478 de metri înălțime.",
+        "Forma sa a inspirat ambalajul Toblerone.",
+        "Zermatt se află la poalele muntelui.",
+        "Este o destinație clasică pentru alpinism."
+      ],
+      en: [
+        "The Matterhorn is 4,478 meters high.",
+        "Its shape inspired Toblerone packaging.",
+        "Zermatt lies at the mountain's foot.",
+        "It is a classic mountaineering destination."
+      ]
+    },
+    image: "/geo-images/switzerland/nat-matterhorn.webp"
+  },
+  {
+    id: "nat-jungfraujoch",
+    type: "nature",
+    parent: "country-switzerland",
+    coords: [7.9801, 46.5474],
+    name: {
+      de: "Jungfraujoch",
+      hu: "Jungfraujoch",
+      ro: "Jungfraujoch",
+      en: "Jungfraujoch"
+    },
+    description: {
+      de: "Das Jungfraujoch wird oft als Top of Europe bezeichnet. Hier liegt der höchstgelegene Bahnhof Europas. Die Lage bietet eindrucksvolle Ausblicke auf Eis und Fels.",
+      hu: "A Jungfraujochot gyakran Európa tetejének nevezik. Itt található Európa legmagasabban fekvő vasútállomása. A hely lenyűgöző kilátást nyújt jégre és sziklára.",
+      ro: "Jungfraujoch este adesea numit Top of Europe. Aici se află cea mai înaltă gară din Europa. Locul oferă priveliști impresionante spre gheață și stâncă.",
+      en: "Jungfraujoch is often called the Top of Europe. It is home to the highest railway station in Europe. The location offers striking views of ice and rock."
+    },
+    facts: {
+      de: [
+        "Hier liegt der höchstgelegene Bahnhof Europas.",
+        "Der Ort wird oft als Top of Europe bezeichnet.",
+        "Er bietet Blick auf den Aletschgletscher.",
+        "Die Jungfraubahn erreicht den Pass."
+      ],
+      hu: [
+        "Itt található Európa legmagasabban fekvő vasútállomása.",
+        "A helyet gyakran Európa tetejének nevezik.",
+        "Kilátás nyílik az Aletsch-gleccserre.",
+        "A Jungfrau-vasút éri el a hágót."
+      ],
+      ro: [
+        "Aici se află cea mai înaltă gară din Europa.",
+        "Locul este adesea numit Top of Europe.",
+        "Oferă vedere spre ghețarul Aletsch.",
+        "Calea ferată Jungfrau ajunge până aici."
+      ],
+      en: [
+        "This is the highest railway station in Europe.",
+        "The place is often called Top of Europe.",
+        "It overlooks the Aletsch Glacier.",
+        "The Jungfrau Railway reaches the pass."
+      ]
+    },
+    image: "/geo-images/switzerland/nat-jungfraujoch.webp"
+  },
+  {
+    id: "nat-lucerne",
+    type: "nature",
+    parent: "country-switzerland",
+    coords: [8.3057, 47.0502],
+    name: {
+      de: "Vierwaldstättersee",
+      hu: "Vierwaldstättersee",
+      ro: "Lacul Lucerna",
+      en: "Lake Lucerne"
+    },
+    description: {
+      de: "Der Vierwaldstättersee bei Luzern ist einer der schönsten Seen der Schweiz. Er ist von Bergen umgeben und eng mit der Geschichte der Eidgenossenschaft verbunden. Die Kapellbrücke ergänzt das Stadtbild von Luzern.",
+      hu: "A luzerni Vierwaldstättersee Svájc egyik legszebb tava. Hegyek veszik körül, és szorosan kapcsolódik a svájci államalapítás történetéhez. A Kapellbrücke jól kiegészíti Luzern városképét.",
+      ro: "Lacul Lucerna de lângă Luzern este unul dintre cele mai frumoase lacuri din Elveția. Este înconjurat de munți și este strâns legat de istoria Confederației Elvețiene. Kapellbrücke completează peisajul urban al orașului Lucerna.",
+      en: "Lake Lucerne near Lucerne is one of the most beautiful lakes in Switzerland. It is surrounded by mountains and is closely tied to the history of the Swiss Confederation. The Chapel Bridge complements Lucerne's cityscape."
+    },
+    facts: {
+      de: [
+        "Der See liegt bei Luzern.",
+        "Er ist von Bergen umgeben.",
+        "Die Kapellbrücke prägt das Uferbild.",
+        "Der See ist ein beliebtes Ziel für Schifffahrten."
+      ],
+      hu: [
+        "A tó Luzern mellett található.",
+        "Hegyek veszik körül.",
+        "A Kapellbrücke meghatározza a városképet.",
+        "Népszerű hajókirándulási célpont."
+      ],
+      ro: [
+        "Lacul se află lângă Lucerna.",
+        "Este înconjurat de munți.",
+        "Kapellbrücke definește imaginea malului.",
+        "Este o destinație populară pentru croaziere."
+      ],
+      en: [
+        "The lake lies by Lucerne.",
+        "It is surrounded by mountains.",
+        "The Chapel Bridge shapes the waterfront view.",
+        "It is a popular destination for boat trips."
+      ]
+    },
+    image: "/geo-images/switzerland/nat-lucerne.webp"
+  },
+  {
+    id: "nat-lauterbrunnen",
+    type: "nature",
+    parent: "country-switzerland",
+    coords: [7.9083, 46.5936],
+    name: {
+      de: "Lauterbrunnental",
+      hu: "Lauterbrunnen-völgy",
+      ro: "Valea Lauterbrunnen",
+      en: "Lauterbrunnen Valley"
+    },
+    description: {
+      de: "Das Lauterbrunnental ist ein dramatisches Alpental mit steilen Felswänden und vielen Wasserfällen. Der Staubbachfall ist besonders bekannt. Das Tal ist ein Symbol für die Berner Alpen.",
+      hu: "A Lauterbrunnen-völgy drámai alpesi völgy meredek sziklafalakkal és sok vízeséssel. A Staubbach-vízesés különösen híres. A völgy a Berni-Alpok jelképe.",
+      ro: "Valea Lauterbrunnen este o vale alpină spectaculoasă, cu pereți stâncoși abrupți și multe cascade. Cascada Staubbach este deosebit de cunoscută. Valea este un simbol al Alpilor Bernezi.",
+      en: "The Lauterbrunnen Valley is a dramatic Alpine valley with steep cliffs and many waterfalls. Staubbach Falls is especially famous. The valley is a symbol of the Bernese Alps."
+    },
+    facts: {
+      de: [
+        "Das Tal ist für seine vielen Wasserfälle bekannt.",
+        "Der Staubbachfall ist etwa 300 Meter hoch.",
+        "Lauterbrunnen liegt in den Berner Alpen.",
+        "Die Landschaft inspirierte viele Künstler."
+      ],
+      hu: [
+        "A völgy sok vízeséséről híres.",
+        "A Staubbach-vízesés körülbelül 300 méter magas.",
+        "Lauterbrunnen a Berni-Alpokban található.",
+        "A táj sok művészt inspirált."
+      ],
+      ro: [
+        "Valea este cunoscută pentru numeroasele sale cascade.",
+        "Cascada Staubbach are aproximativ 300 de metri.",
+        "Lauterbrunnen se află în Alpii Bernezi.",
+        "Peisajul a inspirat mulți artiști."
+      ],
+      en: [
+        "The valley is known for its many waterfalls.",
+        "Staubbach Falls is about 300 meters high.",
+        "Lauterbrunnen lies in the Bernese Alps.",
+        "The landscape has inspired many artists."
+      ]
+    },
+    image: "/geo-images/switzerland/nat-lauterbrunnen.webp"
+  },
+  {
+    id: "nat-interlaken",
+    type: "nature",
+    parent: "country-switzerland",
+    coords: [7.8637, 46.6863],
+    name: {
+      de: "Interlaken",
+      hu: "Interlaken",
+      ro: "Interlaken",
+      en: "Interlaken"
+    },
+    description: {
+      de: "Interlaken liegt zwischen dem Thunersee und dem Brienzersee. Der Ort ist ein Zentrum für Outdoor-Aktivitäten und Paragliding. Die Lage macht ihn zu einem beliebten Ausgangspunkt für Ausflüge in die Alpen.",
+      hu: "Interlaken a Thuni-tó és a Brienzi-tó között fekszik. A település az outdoor-programok és a siklóernyőzés központja. Elhelyezkedése miatt népszerű alpesi kirándulóhely.",
+      ro: "Interlaken se află între Lacul Thun și Lacul Brienz. Localitatea este un centru pentru activități în aer liber și parapantă. Poziția sa o face un punct de plecare popular pentru excursii în Alpi.",
+      en: "Interlaken lies between Lake Thun and Lake Brienz. The town is a center for outdoor activities and paragliding. Its location makes it a popular base for Alpine excursions."
+    },
+    facts: {
+      de: [
+        "Interlaken liegt zwischen zwei Seen.",
+        "Der Ort ist ein Zentrum für Paragliding.",
+        "Er ist ein beliebter Ausgangspunkt für Alpentouren.",
+        "Die Lage macht ihn touristisch sehr attraktiv."
+      ],
+      hu: [
+        "Interlaken két tó között fekszik.",
+        "A siklóernyőzés központja.",
+        "Népszerű alpesi túrák kiindulópontja.",
+        "Az elhelyezkedése miatt nagyon vonzó turisztikai célpont."
+      ],
+      ro: [
+        "Interlaken se află între două lacuri.",
+        "Este un centru pentru parapantă.",
+        "Este un punct de plecare popular pentru tururi alpine.",
+        "Poziția sa îl face foarte atractiv turistic."
+      ],
+      en: [
+        "Interlaken lies between two lakes.",
+        "It is a center for paragliding.",
+        "It is a popular base for Alpine tours.",
+        "Its location makes it highly attractive to tourists."
+      ]
+    },
+    image: "/geo-images/switzerland/nat-interlaken.webp"
+  }
+];
+
 export const switzerlandAllPoi: POI[] = [
   switzerlandCountry,
-  ...switzerlandRegions
+  ...switzerlandRegions,
+  ...switzerlandCities,
+  ...switzerlandCulture,
+  ...switzerlandNature
 ];
