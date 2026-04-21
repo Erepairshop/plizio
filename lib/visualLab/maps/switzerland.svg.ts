@@ -1,4 +1,4 @@
-export const switzerlandViewBox = "0 0 1000 700";
+export const switzerlandViewBox = "0 0 1000 750";
 
 export const SWITZERLAND_PROJECTION = {
   minLon: 5.9,
@@ -10,9 +10,14 @@ export const SWITZERLAND_PROJECTION = {
 };
 
 export function projectCoordsCH(lon: number, lat: number): [number, number] {
-  const x = (lon - SWITZERLAND_PROJECTION.minLon) * (SWITZERLAND_PROJECTION.width / (SWITZERLAND_PROJECTION.maxLon - SWITZERLAND_PROJECTION.minLon));
-  const y = (SWITZERLAND_PROJECTION.maxLat - lat) * (SWITZERLAND_PROJECTION.height / (SWITZERLAND_PROJECTION.maxLat - SWITZERLAND_PROJECTION.minLat));
-  return [x, y];
+  const centerLon = 15, centerLat = 50, scale = 800;
+  const lambda = lon * Math.PI / 180;
+  const phi = lat * Math.PI / 180;
+  const lambda0 = centerLon * Math.PI / 180;
+  const x = scale * (lambda - lambda0);
+  const y = -scale * Math.log(Math.tan(Math.PI / 4 + phi / 2)) -
+            -scale * Math.log(Math.tan(Math.PI / 4 + (centerLat * Math.PI / 180) / 2));
+  return [500 + x, 375 + y];
 }
 
 export interface SwitzerlandRegionPath {
@@ -24,4 +29,13 @@ export interface SwitzerlandRegionPath {
   path: string;
 }
 
-export const switzerlandMap: SwitzerlandRegionPath[] = [];
+export const switzerlandMap: SwitzerlandRegionPath[] = [
+  {
+    id: "CH",
+    name: {"de":"Schweiz","hu":"Svájc","ro":"Elveția","en":"Switzerland"},
+    capital: "Bern",
+    labelX: 394.5,
+    labelY: 439.3,
+    path: "M424.521,427.438L425.062,431.101L422.926,436.134L429.244,439.863L436.368,440.419L435.261,448.764L429.109,452.179L418.778,449.642L415.754,457.784L409.103,458.423L406.683,455.232L398.855,462.048L392.123,463.001L386.115,458.704L381.319,449.856L374.652,453.025L374.858,443.841L385.07,432.335L384.621,427.092L390.983,428.994L394.816,425.461L406.692,425.606L409.559,421.097Z"
+  }
+];

@@ -1,4 +1,4 @@
-export const norwayViewBox = "0 0 1000 2000";
+export const norwayViewBox = "0 0 1000 750";
 
 export const NORWAY_PROJECTION = {
   minLon: 4.0,
@@ -10,9 +10,14 @@ export const NORWAY_PROJECTION = {
 };
 
 export function projectCoordsNO(lon: number, lat: number): [number, number] {
-  const x = (lon - NORWAY_PROJECTION.minLon) * (NORWAY_PROJECTION.width / (NORWAY_PROJECTION.maxLon - NORWAY_PROJECTION.minLon));
-  const y = (NORWAY_PROJECTION.maxLat - lat) * (NORWAY_PROJECTION.height / (NORWAY_PROJECTION.maxLat - NORWAY_PROJECTION.minLat));
-  return [x, y];
+  const centerLon = 15, centerLat = 50, scale = 800;
+  const lambda = lon * Math.PI / 180;
+  const phi = lat * Math.PI / 180;
+  const lambda0 = centerLon * Math.PI / 180;
+  const x = scale * (lambda - lambda0);
+  const y = -scale * Math.log(Math.tan(Math.PI / 4 + phi / 2)) -
+            -scale * Math.log(Math.tan(Math.PI / 4 + (centerLat * Math.PI / 180) / 2));
+  return [500 + x, 375 + y];
 }
 
 export interface NorwayRegionPath {
@@ -24,4 +29,13 @@ export interface NorwayRegionPath {
   path: string;
 }
 
-export const norwayMap: NorwayRegionPath[] = [];
+export const norwayMap: NorwayRegionPath[] = [
+  {
+    id: "NO",
+    name: {"de":"Norwegen","hu":"Norvégia","ro":"Norvegia","en":"Norway"},
+    capital: "Oslo",
+    labelX: 440.7,
+    labelY: 132.4,
+    path: "M683.826,-254.615L727.499,-223.516L709.515,-212.424L724.813,-186.933L701.056,-171.044L689.779,-167.436L695.694,-195.306L677.776,-211.515L656.097,-197.683L649.25,-168.505L635.936,-151.362L620.945,-160.681L602.712,-158.764L587.196,-179.464L578.827,-169.058L570.166,-167.45L568.118,-142.117L541.802,-148.216L538.107,-127.198L524.698,-127.324L515.481,-101.188L501.514,-61.972L479.834,-14.608L484.919,-3.482L480.06,9.254L466.21,8.708L457.143,38.161L458.001,78.276L466.925,93.128L462.306,126.681L450.688,145.697L444.532,161.385L435.165,144.669L407.595,175.927L388.98,182.137L369.67,168.592L364.677,139.337L360.263,73.22L373.12,53.895L409.989,28.043L437.555,-4.797L463.116,-51.172L496.665,-119.775L520.049,-148.057L558.42,-197.365L589.059,-215.267L612.033,-213.075L633.295,-247.932L658.756,-246.034ZM635.774,-608.939L604.585,-582.243L579.95,-597.289L589.586,-614.345L581.149,-635.977L610.085,-649.833L615.629,-624.055ZM545.404,-741.816L591.369,-685.569L556.233,-657.379L548.474,-607.139L536.225,-594.736L529.576,-542.405L512.75,-540.025L482.722,-578.105L495.386,-601.133L474.457,-620.372L447.253,-679.266L436.394,-737.97L474.459,-766.292L482.107,-738.592L501.994,-739.675L507.296,-766.744L527.798,-769.55ZM645.876,-798.882L673.241,-769.998L652.537,-727.577L612.043,-718.584L570.863,-731.345L568.379,-752.873L548.342,-754.261L533.064,-791.506L576.18,-815.03L596.453,-794.732L610.574,-820.088Z"
+  }
+];

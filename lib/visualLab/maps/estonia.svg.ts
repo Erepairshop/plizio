@@ -1,4 +1,4 @@
-export const estoniaViewBox = "0 0 1000 800";
+export const estoniaViewBox = "0 0 1000 750";
 
 export const ESTONIA_PROJECTION = {
   minLon: 21.7,
@@ -10,9 +10,14 @@ export const ESTONIA_PROJECTION = {
 };
 
 export function projectCoordsEE(lon: number, lat: number): [number, number] {
-  const x = (lon - ESTONIA_PROJECTION.minLon) * (ESTONIA_PROJECTION.width / (ESTONIA_PROJECTION.maxLon - ESTONIA_PROJECTION.minLon));
-  const y = (ESTONIA_PROJECTION.maxLat - lat) * (ESTONIA_PROJECTION.height / (ESTONIA_PROJECTION.maxLat - ESTONIA_PROJECTION.minLat));
-  return [x, y];
+  const centerLon = 15, centerLat = 50, scale = 800;
+  const lambda = lon * Math.PI / 180;
+  const phi = lat * Math.PI / 180;
+  const lambda0 = centerLon * Math.PI / 180;
+  const x = scale * (lambda - lambda0);
+  const y = -scale * Math.log(Math.tan(Math.PI / 4 + phi / 2)) -
+            -scale * Math.log(Math.tan(Math.PI / 4 + (centerLat * Math.PI / 180) / 2));
+  return [500 + x, 375 + y];
 }
 
 export interface EstoniaRegionPath {
@@ -24,4 +29,13 @@ export interface EstoniaRegionPath {
   path: string;
 }
 
-export const estoniaMap: EstoniaRegionPath[] = [];
+export const estoniaMap: EstoniaRegionPath[] = [
+  {
+    id: "EE",
+    name: {"de":"Estland","hu":"Észtország","ro":"Estonia","en":"Estonia"},
+    capital: "Tallinn",
+    labelX: 636.2,
+    labelY: 145.6,
+    path: "M630.032,189.645L631.653,174.061L626.518,177.412L617.657,167.933L616.446,152.403L634.1,144.777L651.693,140.777L666.841,145.328L681.251,144.515L683.353,149.302L673.418,164.93L677.558,189.685L671.575,197.963L660.061,197.915L648.043,188.227L641.925,185.004Z"
+  }
+];
