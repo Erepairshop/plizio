@@ -186,4 +186,313 @@ export const belgiumNature: POI[] = [
   }
 ];
 
-export const belgiumAllPoi: POI[] = [belgiumCountry, ...belgiumRegions, ...belgiumCulture, ...belgiumNature];
+export const belgiumCities: POI[] = [
+  {
+    id: "city-antwerpen",
+    type: "city",
+    parent: "belgium",
+    coords: [4.4025, 51.2194],
+    name: { de: "Antwerpen", hu: "Antwerpen", ro: "Anvers", en: "Antwerp" },
+    description: {
+      de: "Diamantenhauptstadt und Geburtsort von Rubens.",
+      hu: "Gyémántfőváros és Rubens szülőhelye.",
+      ro: "Capitala diamantelor și locul de naștere al lui Rubens.",
+      en: "Diamond capital and birthplace of Rubens."
+    },
+    facts: {
+      de: ["Bekannt für seinen Diamantenbezirk.", "Rubenshaus befindet sich hier.", "Großer Seehafen.", "Liegt an der Schelde."],
+      hu: ["Gyémántnegyedéről ismert.", "Itt található a Rubens-ház.", "Hatalmas tengeri kikötő.", "A Schelde folyó partján fekszik."],
+      ro: ["Cunoscut pentru cartierul său de diamante.", "Casa Rubens se află aici.", "Port maritim major.", "Situat pe râul Scheldt."],
+      en: ["Known for its diamond district.", "Rubens House is located here.", "Major seaport.", "Located on the river Scheldt."]
+    },
+    image: "/geo-images/belgium/city-antwerpen.webp"
+  },
+  {
+    id: "city-ghent",
+    type: "city",
+    parent: "belgium",
+    coords: [3.7174, 51.0543],
+    name: { de: "Gent", hu: "Gent", ro: "Gent", en: "Ghent" },
+    description: {
+      de: "Mittelalterliche Altstadt und ihre 3 Türme.",
+      hu: "Középkori óvárosa és 3 tornya.",
+      ro: "Oraș vechi medieval și cele 3 turnuri ale sale.",
+      en: "Medieval old town and its 3 towers."
+    },
+    facts: {
+      de: ["Hat eine gut erhaltene mittelalterliche Architektur.", "Die drei Türme prägen die Skyline.", "Heimat des Genter Altars.", "Eine lebendige Universitätsstadt."],
+      hu: ["Jól megőrzött középkori építészettel rendelkezik.", "A három torony uralja a városképet.", "A Genti oltár otthona.", "Élénk egyetemváros."],
+      ro: ["Are o arhitectură medievală bine conservată.", "Cele trei turnuri domină orizontul.", "Găzduiește Altarul de la Gent.", "Un oraș universitar vibrant."],
+      en: ["Has well-preserved medieval architecture.", "The three towers dominate the skyline.", "Home to the Ghent Altarpiece.", "A vibrant university city."]
+    },
+    image: "/geo-images/belgium/city-ghent.webp"
+  },
+  {
+    id: "city-liege",
+    type: "city",
+    parent: "belgium",
+    coords: [5.5713, 50.6326],
+    name: { de: "Lüttich", hu: "Liège", ro: "Liège", en: "Liège" },
+    description: {
+      de: "Kulturelle Hauptstadt der Wallonie.",
+      hu: "Vallón kulturális fővárosa.",
+      ro: "Capitala culturală a Valoniei.",
+      en: "Cultural capital of Wallonia."
+    },
+    facts: {
+      de: ["Liegt an der Maas.", "Bekannt für Lütticher Waffeln.", "Hat eine reiche Industriegeschichte.", "Der Bahnhof Guillemins ist architektonisch bedeutend."],
+      hu: ["A Meuse folyó partján fekszik.", "A Liège-i gofriról ismert.", "Gazdag ipari történelemmel rendelkezik.", "A Guillemins pályaudvar építészetileg jelentős."],
+      ro: ["Situat pe râul Meuse.", "Cunoscut pentru vafele de Liège.", "Are o bogată istorie industrială.", "Gara Guillemins este semnificativă din punct de vedere arhitectural."],
+      en: ["Located on the Meuse river.", "Known for Liège waffles.", "Has a rich industrial history.", "Guillemins train station is architecturally significant."]
+    },
+    image: "/geo-images/belgium/city-liege.webp"
+  },
+  {
+    id: "city-leuven",
+    type: "city",
+    parent: "belgium",
+    coords: [4.7005, 50.8798],
+    name: { de: "Löwen", hu: "Leuven", ro: "Leuven", en: "Leuven" },
+    description: {
+      de: "Älteste Universität Belgiens.",
+      hu: "Belgium legrégibb egyeteme.",
+      ro: "Cea mai veche universitate din Belgia.",
+      en: "Oldest university in Belgium."
+    },
+    facts: {
+      de: ["Die KU Leuven wurde 1425 gegründet.", "Bekannt als Bierhauptstadt Belgiens.", "Heimat der Stella Artois Brauerei.", "Das Rathaus ist ein gotisches Meisterwerk."],
+      hu: ["A KU Leuven egyetemet 1425-ben alapították.", "Belgium sörfővárosaként ismert.", "A Stella Artois sörfőzde otthona.", "A városháza egy gótikus mestermű."],
+      ro: ["Universitatea KU Leuven a fost fondată în 1425.", "Cunoscută drept capitala berii din Belgia.", "Găzduiește fabrica de bere Stella Artois.", "Primăria este o capodoperă gotică."],
+      en: ["KU Leuven was founded in 1425.", "Known as the beer capital of Belgium.", "Home to the Stella Artois brewery.", "The Town Hall is a Gothic masterpiece."]
+    },
+    image: "/geo-images/belgium/city-leuven.webp"
+  },
+  {
+    id: "city-oostende",
+    type: "city",
+    parent: "belgium",
+    coords: [2.9145, 51.2289],
+    name: { de: "Ostende", hu: "Oostende", ro: "Ostende", en: "Ostend" },
+    description: {
+      de: "Beliebter Badeort an der Küste.",
+      hu: "Tengerparti üdülővárosa.",
+      ro: "Oraș stațiune pe litoral.",
+      en: "Seaside resort town."
+    },
+    facts: {
+      de: ["Liegt an der Nordsee.", "Bekannt für seine langen Sandstrände.", "Verfügt über einen wichtigen Seehafen.", "War einst ein Sommerresidenz der belgischen Könige."],
+      hu: ["Az Északi-tenger partján fekszik.", "Hosszú homokos strandjairól ismert.", "Fontos tengeri kikötővel rendelkezik.", "Egykor a belga királyok nyári rezidenciája volt."],
+      ro: ["Situat la Marea Nordului.", "Cunoscut pentru plajele sale lungi de nisip.", "Are un port maritim important.", "A fost odată o reședință de vară a regilor belgieni."],
+      en: ["Located on the North Sea.", "Known for its long sandy beaches.", "Features an important seaport.", "Was once a summer residence of Belgian kings."]
+    },
+    image: "/geo-images/belgium/city-oostende.webp"
+  }
+];
+
+export const belgiumCultureExtra: POI[] = [
+  {
+    id: "cult-atomium",
+    type: "culture",
+    parent: "belgium",
+    coords: [4.3417, 50.8949],
+    name: { de: "Atomium", hu: "Atomium", ro: "Atomium", en: "Atomium" },
+    description: {
+      de: "Symbol der Weltausstellung 1958.",
+      hu: "1958-as világkiállítás szimbóluma.",
+      ro: "Simbol al Expoziției Mondiale din 1958.",
+      en: "Symbol of the 1958 World Expo."
+    },
+    facts: {
+      de: ["Stellt einen Eisenkristall dar.", "Ist 102 Meter hoch.", "Bietet Panoramablicke.", "Hat neun Kugeln."],
+      hu: ["Egy vaskristályt ábrázol.", "102 méter magas.", "Panorámás kilátást nyújt.", "Kilenc gömbből áll."],
+      ro: ["Reprezintă un cristal de fier.", "Are 102 metri înălțime.", "Oferă vederi panoramice.", "Are nouă sfere."],
+      en: ["Represents an iron crystal.", "Is 102 meters tall.", "Offers panoramic views.", "Has nine spheres."]
+    },
+    image: "/geo-images/belgium/cult-atomium.webp"
+  },
+  {
+    id: "cult-grand-place",
+    type: "culture",
+    parent: "belgium",
+    coords: [4.3528, 50.8466],
+    name: { de: "Grand Place", hu: "Grand Place", ro: "Grand Place", en: "Grand Place" },
+    description: {
+      de: "UNESCO-Hauptplatz von Brüssel.",
+      hu: "UNESCO Bruxelles főtér.",
+      ro: "Piața principală UNESCO din Bruxelles.",
+      en: "UNESCO main square of Brussels."
+    },
+    facts: {
+      de: ["Umgeben von Zunfthäusern.", "Austragungsort des Blumenteppichs.", "Das Rathaus dominiert den Platz.", "Einer der schönsten Plätze Europas."],
+      hu: ["Céhházak veszik körül.", "A virágszőnyeg helyszíne.", "A városháza uralja a teret.", "Európa egyik legszebb tere."],
+      ro: ["Înconjurată de case de bresle.", "Locația covorului de flori.", "Primăria domină piața.", "Una dintre cele mai frumoase piețe din Europa."],
+      en: ["Surrounded by guildhalls.", "Site of the flower carpet.", "The town hall dominates the square.", "One of the most beautiful squares in Europe."]
+    },
+    image: "/geo-images/belgium/cult-grand-place.webp"
+  },
+  {
+    id: "cult-manneken-pis",
+    type: "culture",
+    parent: "belgium",
+    coords: [4.3499, 50.8450],
+    name: { de: "Manneken Pis", hu: "Manneken Pis", ro: "Manneken Pis", en: "Manneken Pis" },
+    description: {
+      de: "400 Jahre alte Statue eines urinierenden Jungen.",
+      hu: "400 éves pisilő kisfiú szobor.",
+      ro: "Statuie de 400 de ani a unui băiețel care urinează.",
+      en: "400-year-old statue of a urinating boy."
+    },
+    facts: {
+      de: ["Ein berühmtes Wahrzeichen von Brüssel.", "Wird oft in verschiedene Kostüme gekleidet.", "Symbolisiert den Brüsseler Humor.", "Hat eine große Garderobe im Museum."],
+      hu: ["Brüsszel híres jelképe.", "Gyakran öltöztetik különböző jelmezekbe.", "A brüsszeli humort szimbolizálja.", "Nagy ruhatára van a múzeumban."],
+      ro: ["Un reper celebru al Bruxelles-ului.", "Este adesea îmbrăcat în diverse costume.", "Simbolizează umorul din Bruxelles.", "Are o garderobă mare în muzeu."],
+      en: ["A famous landmark of Brussels.", "Is often dressed in various costumes.", "Symbolizes Brussels humor.", "Has a large wardrobe in the museum."]
+    },
+    image: "/geo-images/belgium/cult-manneken-pis.webp"
+  },
+  {
+    id: "cult-bruges-belfry",
+    type: "culture",
+    parent: "belgium",
+    coords: [3.2247, 51.2083],
+    name: { de: "Belfried von Brügge", hu: "Brugge-i harangtorony", ro: "Turnul Belfort din Bruges", en: "Bruges Belfry" },
+    description: {
+      de: "83 m hoher mittelalterlicher Glockenturm der UNESCO.",
+      hu: "UNESCO 83m középkori harangtorony.",
+      ro: "Turn clopotniță medieval UNESCO de 83m.",
+      en: "UNESCO 83m medieval bell tower."
+    },
+    facts: {
+      de: ["Steht auf dem Marktplatz von Brügge.", "Beherbergt ein Carillon mit 47 Glocken.", "Man muss 366 Stufen erklimmen.", "Wichtige Rolle im Film 'Brügge sehen... und sterben?'."],
+      hu: ["Brugge piacterén áll.", "47 harangból álló harangjátékot tartalmaz.", "366 lépcsőfokot kell megmászni.", "Fontos szerepet kapott az 'Erőszakik' című filmben."],
+      ro: ["Se află în piața din Bruges.", "Găzduiește un carilon cu 47 de clopote.", "Trebuie să urci 366 de trepte.", "Rol important în filmul 'În Bruges'."],
+      en: ["Stands in the market square of Bruges.", "Houses a carillon with 47 bells.", "You have to climb 366 steps.", "Featured prominently in the movie 'In Bruges'."]
+    },
+    image: "/geo-images/belgium/cult-bruges-belfry.webp"
+  },
+  {
+    id: "cult-waterloo",
+    type: "culture",
+    parent: "belgium",
+    coords: [4.4126, 50.6797],
+    name: { de: "Löwenhügel von Waterloo", hu: "Waterloo Oroszlán-domb", ro: "Colina Leului din Waterloo", en: "Waterloo Lion's Mound" },
+    description: {
+      de: "Denkmal auf dem Schlachtfeld von Napoleon.",
+      hu: "Napóleoni csatatér emlékmű.",
+      ro: "Monument pe câmpul de luptă napoleonian.",
+      en: "Napoleonic battlefield monument."
+    },
+    facts: {
+      de: ["Erinnert an die Schlacht von Waterloo 1815.", "Ein künstlicher Hügel mit einer Löwenstatue.", "Bietet Blick auf das Schlachtfeld.", "Markiert Napoleons endgültige Niederlage."],
+      hu: ["Az 1815-ös waterlooi csatára emlékeztet.", "Mesterséges domb egy oroszlánszoborral.", "Kilátást nyújt a csatatérre.", "Napóleon végső vereségét jelzi."],
+      ro: ["Comemorează bătălia de la Waterloo din 1815.", "Un deal artificial cu o statuie de leu.", "Oferă vedere asupra câmpului de luptă.", "Marchează înfrângerea finală a lui Napoleon."],
+      en: ["Commemorates the 1815 Battle of Waterloo.", "An artificial hill with a lion statue.", "Offers views of the battlefield.", "Marks Napoleon's final defeat."]
+    },
+    image: "/geo-images/belgium/cult-waterloo.webp"
+  }
+];
+
+export const belgiumNatureExtra: POI[] = [
+  {
+    id: "nat-ardennek",
+    type: "nature",
+    parent: "belgium",
+    coords: [5.8, 50.2],
+    name: { de: "Ardennen", hu: "Ardennek", ro: "Ardeni", en: "Ardennes" },
+    description: {
+      de: "Dicht bewaldete Bergregion, Tierwelt.",
+      hu: "Sűrű erdős hegyvidék, vadvilág.",
+      ro: "Regiune muntoasă cu păduri dense, faună sălbatică.",
+      en: "Densely forested mountain region, wildlife."
+    },
+    facts: {
+      de: ["Beliebt für Outdoor-Aktivitäten.", "Reich an Flora und Fauna.", "Hat viele Wanderwege.", "Historisch bedeutend im Zweiten Weltkrieg."],
+      hu: ["Népszerű szabadtéri tevékenységekhez.", "Növény- és állatvilágban gazdag.", "Számos túraútvonallal rendelkezik.", "Történelmileg jelentős a II. világháborúban."],
+      ro: ["Populară pentru activități în aer liber.", "Bogată în floră și faună.", "Are multe trasee de drumeții.", "Semnificativă istoric în Al Doilea Război Mondial."],
+      en: ["Popular for outdoor activities.", "Rich in flora and fauna.", "Has many hiking trails.", "Historically significant in WWII."]
+    },
+    image: "/geo-images/belgium/nat-ardennek.webp"
+  },
+  {
+    id: "nat-sonian-forest",
+    type: "nature",
+    parent: "belgium",
+    coords: [4.42, 50.76],
+    name: { de: "Sonienwald", hu: "Sonian Forest", ro: "Pădurea Sonian", en: "Sonian Forest" },
+    description: {
+      de: "UNESCO-geschützter alter Buchenwald.",
+      hu: "UNESCO ősi bükkerdő.",
+      ro: "Pădure veche de fagi UNESCO.",
+      en: "UNESCO ancient beech forest."
+    },
+    facts: {
+      de: ["Liegt am Rand von Brüssel.", "Bekannt für seine hohen Buchen.", "Teil des UNESCO-Weltkulturerbes.", "Bietet Lebensraum für Wildtiere."],
+      hu: ["Brüsszel szélén található.", "Magas bükkfáiról ismert.", "Az UNESCO Világörökség része.", "Élőhelyet biztosít a vadvilág számára."],
+      ro: ["Situată la marginea Bruxelles-ului.", "Cunoscută pentru fagii săi înalți.", "Parte a Patrimoniului Mondial UNESCO.", "Oferă habitat pentru animale sălbatice."],
+      en: ["Located on the edge of Brussels.", "Known for its tall beech trees.", "Part of the UNESCO World Heritage.", "Provides habitat for wildlife."]
+    },
+    image: "/geo-images/belgium/nat-sonian-forest.webp"
+  },
+  {
+    id: "nat-hallerbos",
+    type: "nature",
+    parent: "belgium",
+    coords: [4.2392, 50.7300],
+    name: { de: "Hallerbos", hu: "Hallerbos", ro: "Hallerbos", en: "Hallerbos" },
+    description: {
+      de: "Wald mit blauen Hasenglöckchen im April.",
+      hu: "Kék-jácint erdő áprilisban.",
+      ro: "Pădurea de zambile albastre în aprilie.",
+      en: "Bluebell forest in April."
+    },
+    facts: {
+      de: ["Berühmt für seinen blauen Teppich im Frühling.", "Zieht viele Fotografen an.", "Ein geschütztes Naturgebiet.", "Am besten Mitte April zu besuchen."],
+      hu: ["Tavasszal kék szőnyegéről híres.", "Sok fotóst vonz.", "Védett természeti terület.", "A legjobb április közepén látogatni."],
+      ro: ["Faimoasă pentru covorul său albastru primăvara.", "Atrage mulți fotografi.", "O zonă naturală protejată.", "Cel mai bine de vizitat la mijlocul lunii aprilie."],
+      en: ["Famous for its blue carpet in spring.", "Attracts many photographers.", "A protected nature area.", "Best visited in mid-April."]
+    },
+    image: "/geo-images/belgium/nat-hallerbos.webp"
+  },
+  {
+    id: "nat-hohes-venn",
+    type: "nature",
+    parent: "belgium",
+    coords: [6.1, 50.5],
+    name: { de: "Hohes Venn", hu: "Hohes Venn", ro: "Hohes Venn", en: "High Fens" },
+    description: {
+      de: "Belgiens höchstes Hochmoorplateau.",
+      hu: "Belgium legmagasabb láppali plató.",
+      ro: "Cel mai înalt platou mlăștinos din Belgia.",
+      en: "Belgium's highest moorland plateau."
+    },
+    facts: {
+      de: ["Größtes Naturschutzgebiet Belgiens.", "Hat ein einzigartiges Mikroklima.", "Beliebt zum Wandern auf Holzstegen.", "Beherbergt seltene Pflanzenarten."],
+      hu: ["Belgium legnagyobb természetvédelmi területe.", "Egyedi mikroklímával rendelkezik.", "Népszerű fapallókon való túrázáshoz.", "Ritka növényfajoknak ad otthont."],
+      ro: ["Cea mai mare rezervație naturală din Belgia.", "Are un microclimat unic.", "Populară pentru drumeții pe poteci de lemn.", "Găzduiește specii rare de plante."],
+      en: ["Belgium's largest nature reserve.", "Has a unique microclimate.", "Popular for hiking on wooden boardwalks.", "Home to rare plant species."]
+    },
+    image: "/geo-images/belgium/nat-hohes-venn.webp"
+  },
+  {
+    id: "nat-dinant-citadel",
+    type: "nature",
+    parent: "belgium",
+    coords: [4.91, 50.26],
+    name: { de: "Dinant Zitadelle", hu: "Dinant citadella", ro: "Citadela Dinant", en: "Dinant Citadel" },
+    description: {
+      de: "Felsenfestung und die Maas.",
+      hu: "Szikla-vár és Meuse folyó.",
+      ro: "Fortăreață pe stâncă și râul Meuse.",
+      en: "Rock fortress and the Meuse river."
+    },
+    facts: {
+      de: ["Hoch über der Stadt Dinant gelegen.", "Bietet einen atemberaubenden Blick auf die Maas.", "Mit einer Seilbahn erreichbar.", "Reiche militärische Geschichte."],
+      hu: ["Magasan Dinant városa felett helyezkedik el.", "Lélegzetelállító kilátást nyújt a Meuse folyóra.", "Felvonóval is megközelíthető.", "Gazdag katonai történelemmel bír."],
+      ro: ["Situată la înălțime deasupra orașului Dinant.", "Oferă vederi uluitoare ale râului Meuse.", "Accesibilă cu telecabina.", "Istorie militară bogată."],
+      en: ["Perched high above the city of Dinant.", "Offers breathtaking views of the Meuse river.", "Accessible by a cable car.", "Rich military history."]
+    },
+    image: "/geo-images/belgium/nat-dinant-citadel.webp"
+  }
+];
+
+export const belgiumAllPoi: POI[] = [belgiumCountry, ...belgiumRegions, ...belgiumCities, ...belgiumCulture, ...belgiumCultureExtra, ...belgiumNature, ...belgiumNatureExtra];
